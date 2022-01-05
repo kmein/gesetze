@@ -65,11 +65,11 @@
 
 a) Teil II der Schiffspersonalverordnung-Rhein für Seeschiffe, sofern die Anforderungen des Kapitels 25 ES-TRIN eingehalten werden,
 
-b) Anhang VI Kapitel 1 und 3 für die übrigen Fahrzeuge.
+b) Teil 3 der Binnenschiffspersonalverordnung für die übrigen Fahrzeuge.
 
 (3) Abweichend von Absatz 2 Nummer 1 gilt Anhang II Teil II bis IV nicht auf dem Rhein.
 
-(4) Auf der Donau gilt diese Verordnung für Fahrzeuge, die in einem Donauuferstaat beheimatet sind, der nicht Mitglied der Europäischen Union ist, nur hinsichtlich der Anforderungen an die Besatzung; Anhang VI § 3.01 Nummer 3 und § 3.02 sind nicht anzuwenden.
+(4) (weggefallen)
 
 (5) Diese Verordnung gilt für alle
 
@@ -163,9 +163,9 @@ Verordnung zur Einführung der Schifffahrtsordnung Emsmündung vom 8. August 198
 
 Schiffspersonalverordnung-Rhein vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband), die zuletzt durch Artikel 1 in Verbindung mit Anlage 1 der Verordnung vom 27. September 2017 (BGBl. 2017 II S. 1282) geändert worden ist, in der jeweils geltenden Fassung,
 
-2. Binnenschifferpatentverordnung:
+2. Binnenschiffspersonalverordnung:
 
-Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 3 der Verordnung vom 3. Mai 2017 (BGBl. I S. 1016) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
+Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung;
 
 3. Regionale Vereinbarung über den Binnenschifffahrtsfunk:
 
@@ -413,7 +413,7 @@ entsprechen.
 
 (8) Fahrgastboote müssen den Anforderungen des Anhangs II Teil III und IV entsprechen.
 
-(9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN in Verbindung mit dem Anhang VI Kapitel 1 und 3 dieser Verordnung oder Teil II der Schiffspersonalverordnung-Rhein entsprechen.
+(9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN in Verbindung mit Teil 3 der Binnenschiffspersonalverordnung oder Teil II der Schiffspersonalverordnung-Rhein entsprechen.
 
 (10) Die Generaldirektion Wasserstraßen und Schifffahrt kann ganz oder teilweise davon absehen, die Untersuchung bei einem Fahrzeug, einer schwimmenden Anlage oder einem Schwimmkörper durchführen zu lassen, soweit sich aus einer gültigen Bescheinigung einer anerkannten Klassifikationsgesellschaft ergibt, dass das Fahrzeug, die schwimmende Anlage oder der Schwimmkörper ganz oder teilweise den technischen Vorschriften des ES-TRIN entspricht.
 
@@ -494,7 +494,7 @@ b) hinsichtlich Bau, Einrichtung und Ausrüstung den Anforderungen dieser Übere
 
 2. soweit es nicht unter Gewährung von Erleichterungen oder mit örtlichen Einschränkungen erteilt worden ist.
 
-(3) Im Fall des Absatzes 2 müssen die Anzahl und Zusammensetzung der Besatzung den Anforderungen des Anhangs VI oder der Schiffspersonalverordnung-Rhein entsprechen mit der Maßgabe, dass
+(3) Im Fall des Absatzes 2 müssen die Anzahl und Zusammensetzung der Besatzung den Anforderungen der Binnenschiffspersonalverordnung oder der Schiffspersonalverordnung-Rhein entsprechen mit der Maßgabe, dass
 
 1. für den Rhein der Eintrag im Schiffsattest oder im Unionszeugnis und
 
@@ -842,7 +842,7 @@ b) einschließlich des Fahrzeugführers nicht mehr als fünf Personen befördert
 
 2. nachweislich mit Gestellung des Sportfahrzeugführers vermietet worden ist,
 
-bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betriebsform A nach Anhang VI § 3.03 Nummer 2 Satz 1 auf den Wasserstraßen der Zone 3, mit Ausnahme der Wasserstraße Rhein, und der Zone 4, mit Ausnahme der Wasserstraße Oder, des Anhangs I eingesetzt werden. Der Einsatz muss auf der Grundlage des Bootszeugnisses und darf auch auf der Grundlage des bisher einschlägigen Befähigungszeugnisses oder der bisher einschlägigen sonstigen Erlaubnis zum Führen von Fahrzeugen erfolgen.
+bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betriebsform A nach § 101 Absatz 2 der Binnenschiffspersonalverordnung auf den Wasserstraßen der Zone 3, mit Ausnahme der Wasserstraße Rhein, und der Zone 4, mit Ausnahme der Wasserstraße Oder, des Anhangs I eingesetzt werden. Der Einsatz muss auf der Grundlage des Bootszeugnisses und darf auch auf der Grundlage des bisher einschlägigen Befähigungszeugnisses oder der bisher einschlägigen sonstigen Erlaubnis zum Führen von Fahrzeugen erfolgen.
 
 (2) Unbeschadet der Festlegungen im Bootszeugnis darf die höchstzulässige Anzahl der beförderten Fahrgäste die Vorgabe nach Anhang II § 7.01 Nummer 3 und 4 nicht überschreiten. Sofern das Sportfahrzeug nach seinem Bootszeugnis für mehr als 35 Personen zugelassen ist, darf es bis zum Ablauf des 6. Oktober 2023 in den Fahrtgebieten nach Anhang IX eine entsprechende Anzahl von Fahrgästen befördern.
 
@@ -985,9 +985,9 @@ Abweichend von Satz 1 Nummer 4 kann die Mitteilung bei einer anderen zuständige
 
 1. Flüssiggasanlagen nach Artikel 17.01 Nummer 2 ES-TRIN, auch in Verbindung mit Anhang II § 7.02 Nummer 5 Satz 2 und § 7.03 Nummer 4 Satz 2, mit einem anderen Gas als handelsüblichem Propan betrieben werden,
 
-2. die für die jeweilige Betriebsform festgesetzte Fahrzeit eines Fahrzeugs nach Anhang VI § 3.03 Nummer 2 Satz 1, auch in Verbindung mit Anhang II § 7.02 Nummer 2 und § 7.03 Nummer 2, nicht eingehalten oder die Fahrt nicht entsprechend eingestellt wird,
+2. (weggefallen)
 
-3. ein Mitglied der Besatzung entgegen Anhang VI § 3.04 Nummer 2 Satz 1 und 4 während seiner Mindestruhezeit eingesetzt wird,
+3. (weggefallen)
 
 4. ein Fahrzeug nach einer wesentlichen Änderung oder Instandsetzung ohne vorherige Sonderuntersuchung nach § 25 Absatz 1 in Betrieb genommen wird.
 
@@ -1037,9 +1037,9 @@ c) nach Anhang II § 7.02 Nummer 5 Satz 3 und § 7.03 Nummer 4 Satz 3 in geschlo
 
 13. ein Fahrgastboot nach Anhang II § 7.02 nur für Tagesfahrten eingesetzt wird und dass die Fahrt bei vorherrschender Windstärke von mehr als 5 Beaufort und bei unsichtigem Wetter nicht angetreten wird,
 
-14. die für die jeweilige Betriebsform und Fahrzeit des Fahrzeugs, der schwimmenden Anlage oder des Schwimmkörpers vorgeschriebene Besatzung nach Anhang VI § 3.05 Nummer 1, 2, 3 und 4, § 3.06 Nummer 1 bis 6 und 7, §§ 3.07, 3.08 Nummer 1, 3 und 4 und §§ 3.11 bis 3.12 während der Fahrt ständig an Bord ist,
+14. (weggefallen)
 
-15. die vorgeschriebene Besatzung nach Anhang VI § 3.09 Nummer 1 und 4 und Anhang VI § 3.10 Nummer 1 und 5 während der Fahrt ständig an Bord ist,
+15. (weggefallen)
 
 16. sich die in Artikel 25.01 Nummer 1 ES-TRIN genannten Zeugnisse an Bord befinden und jederzeit verfügbar sind,
 
@@ -1185,23 +1185,17 @@ g) je eine Kopie der Unterlagen nach Artikel 30.01 Nummer 5 ES-TRIN,
 
 7. hat nach Anhang II § 7.02 Nummer 8 und § 7.03 Nummer 7 auf einem Fahrgastboot bei einer Geschwindigkeit von 40 km/h oder mehr gegen Wasser seine Aufgaben im Steuerstand sitzend auszuüben,
 
-8. hat die für die jeweilige Betriebsform festgesetzte Fahrzeit eines Fahrzeugs nach Anhang VI § 3.03 Nummer 2 Satz 1, auch in Verbindung mit Anhang II § 7.03 Nummer 2, einzuhalten und die Fahrt spätestens bei deren Ablauf zu beenden,
+8. (weggefallen)
 
-9. darf kein Mitglied der Besatzung während seiner Mindestruhezeit nach Anhang VI § 3.04 Nummer 2 Satz 1 und 4 einsetzen,
+9. (weggefallen)
 
-10. hat das ungültig gezeichnete Fahrtenbuch nach Anhang VI § 3.04 Nummer 3 Satz 5 sechs Monate nach der letzten Eintragung an Bord aufzubewahren,
+10. (weggefallen)
 
-11. hat das Fahrtenbuch nach Anhang VI § 3.04 Nummer 3 Satz 1 bis 4 richtig, vollständig und rechtzeitig zu führen,
+11. (weggefallen)
 
-12. hat dafür zu sorgen, dass die Eintragungen nach Anhang VI § 3.01 Nummer 3 Satz 1 in Verbindung mit § 3.06 Nummer 6 Buchstabe a der Schiffspersonalverordnung-Rhein und nach Maßgabe der Anweisungen zur Führung des Schifferdienstbuches in Anlage A2 Abschnitt B der Schiffspersonalverordnung-Rhein richtig, vollständig und unverzüglich nach Fahrtantritt vorgenommen werden.
+12. (weggefallen)
 
-(6) Ein Mitglied der Besatzung muss
-
-1. ein Schifferdienstbuch nach Anhang VI § 3.01 Nummer 3 besitzen,
-
-2. das Schifferdienstbuch nach Anhang VI § 3.01 Nummer 3 rechtzeitig vorlegen,
-
-3. seine Befähigung an Bord nach Anhang VI § 3.01 Nummer 3 nachweisen.
+(6) (weggefallen)
 
 # § 36 – Ordnungswidrigkeiten
 
@@ -1249,9 +1243,9 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 21. entgegen § 35 Absatz 2 Nummer 1 anordnet oder zulässt, dass eine dort genannte Flüssiggasanlage betrieben wird,
 
-22. entgegen § 35 Absatz 2 Nummer 2 anordnet oder zulässt, dass die Fahrzeit eines dort genannten Fahrzeugs nicht eingehalten oder die Fahrt nicht eingestellt wird,
+22. (weggefallen)
 
-23. entgegen § 35 Absatz 2 Nummer 3 oder § 35 Absatz 5 Nummer 9 anordnet oder zulässt, dass ein Mitglied der Besatzung eingesetzt wird,
+23. (weggefallen)
 
 24. entgegen § 35 Absatz 2 Nummer 4 anordnet oder zulässt, dass ein dort genanntes Fahrzeug in Betrieb genommen wird,
 
@@ -1285,7 +1279,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 39. entgegen § 35 Absatz 3 Nummer 13 nicht dafür sorgt, dass ein Fahrgastboot nur für eine Tagesfahrt eingesetzt wird oder eine dort genannte Fahrt nicht angetreten wird,
 
-40. entgegen § 35 Absatz 3 Nummer 14 oder 15 nicht dafür sorgt, dass eine Besatzung an Bord ist,
+40. (weggefallen)
 
 41. entgegen § 35 Absatz 3 Nummer 16 nicht dafür sorgt, dass sich ein Zeugnis an Bord befindet oder jederzeit verfügbar ist,
 
@@ -1311,15 +1305,15 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 52. entgegen § 35 Absatz 5 Nummer 7 eine Aufgabe nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise ausübt,
 
-53. entgegen § 35 Absatz 5 Nummer 8 die Fahrzeit nicht oder nicht richtig einhält oder eine Fahrt nicht, nicht richtig oder nicht rechtzeitig beendet,
+53. (weggefallen)
 
-54. entgegen § 35 Absatz 5 Nummer 10 ein dort genanntes Fahrtenbuch nicht oder nicht mindestens sechs Monate aufbewahrt,
+54. (weggefallen)
 
-55. entgegen § 35 Absatz 5 Nummer 11 ein Fahrtenbuch nicht, nicht richtig oder nicht vollständig führt,
+55. (weggefallen)
 
-56. entgegen § 35 Absatz 5 Nummer 12 nicht dafür sorgt, dass eine dort genannte Eintragung vorgenommen wird oder
+56. (weggefallen)
 
-57. entgegen § 35 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder nicht rechtzeitig vorlegt.
+57. (weggefallen)
 
 # § 37 – Übergangsbestimmungen
 
@@ -1373,6 +1367,10 @@ erteilt worden sind, bleiben bis zu ihrem Ablauf gültig.
 
 Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren vom Bundesministerium für Verkehr und digitale Infrastruktur überprüft, um für die Sicherheit und Leichtigkeit des Verkehrs sowie für den Arbeits-, Umwelt- und Gewässerschutz erforderliche Anpassungen an internationales Recht vorzunehmen.
 
+# § 41 – Anwendungsbestimmung aus Anlass der Verordnung zur Neuregelung befähigungsrechtlicher Vorschriften in der Binnenschifffahrt
+
+Diese Verordnung ist bis zum Ablauf des 17. Januar 2022 in der am 6. Dezember 2021 geltenden und anzuwendenden Fassung weiter anzuwenden.
+
 # Anhang I – (zu § 1 Absatz 1 und § 2 Absatz 1 Nummer 1)Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
 
 (Fundstelle: BGBl. I 2018, 1419 - 1421)
@@ -1403,7 +1401,7 @@ Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren 
 
 (Text siehe: BinSchUO2018Anh V)
 
-# Anhang VI – (zu § 1 Absatz 2 Nummer 1 und 2 Buchstabe b und § 8 Absatz 3)Besatzungsvorschriften
+# Anhang VI – (weggefallen)
 
 (Fundstelle: BGBl. I 2018, 1503 - 1519)
 

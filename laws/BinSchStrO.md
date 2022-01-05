@@ -244,7 +244,7 @@ bei einer Streckenangabe schließt der Kilometerendpunkt die jeweilige Kilometer
 45. „diensttuende Mindestbesatzung“:  
   
 
-die Besatzung nach Anhang VI der Binnenschiffsuntersuchungsordnung oder nach den §§ 3.15 bis 3.23 der Anlage 1 zu Artikel 1 Satz 2 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300) in der jeweils geltenden und anzuwendenden Fassung, die sich nicht in der Ruhezeit befindet;
+die Besatzung nach Teil 3 der Binnenschiffspersonalverordnung oder nach den §§ 3.15 bis 3.23 der Schiffspersonalverordnung-Rhein, die sich nicht in der Ruhezeit befindet;
 
 46. „Inland ECDIS Gerät“:  
   
@@ -266,64 +266,59 @@ die dem Europäischen Übereinkommen über die internationale Beförderung von g
 
 Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung;
 
-50. „Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins“:  
+50. „Binnenschiffspersonalverordnung“:  
   
 
-Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins vom 26. Juni 2000 (BGBl. I S. 1018), die zuletzt durch Artikel 14 der Verordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300) geändert worden ist, in der jeweils geltenden Fassung;
+Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung;
 
-51. „Binnenschifferpatentverordnung“:  
-  
-
-Verordnung über Befähigungszeugnisse in der Binnenschifffahrt vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 38 Absatz 4 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
-
-52. „Schiffspersonalverordnung-Rhein“:  
+51. „Schiffspersonalverordnung-Rhein“:  
   
 
 Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband), die zuletzt durch Artikel 1 Nummer 2 Satz 1 in Verbindung mit der Anlage 3 der Verordnung vom 8. November 2019 (BGBl. 2019 II S. 907) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
 
-53. „Sportbootführerscheinverordnung“:  
+52. „Sportbootführerscheinverordnung“:  
   
 
 Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 11 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden Fassung;
 
-54. „Binnenschifffahrt-Sportbootvermietungsverordnung“:  
+53. „Binnenschifffahrt-Sportbootvermietungsverordnung“:  
   
 
 Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 4 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
 
-55. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:  
+54. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:  
   
 
 Regionale Vereinbarung vom 6. April 2000 über den Binnenschifffahrtsfunk (BGBl. 2000 II S. 1213, 1214) in der jeweils geltenden Fassung;
 
-56. „Binnenschifffahrt-Sprechfunkverordnung“:  
+55. „Binnenschifffahrt-Sprechfunkverordnung“:  
   
 
 Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk vom 18. Dezember 2002 (BGBl. I S. 4569; 2003 I S. 130), die zuletzt durch § 38 Absatz 6 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden Fassung;
 
-57. „ES-TRIN“:  
+56. „ES-TRIN“:  
   
 
 Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4));
 
-58. „LNG-System“:  
+57. „LNG-System“:  
   
 
 sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, insbesondere Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
 
-59. „Bunkerbereich“:  
+58. „Bunkerbereich“:  
   
 
 der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
 
-60. „Flüssigerdgas (LNG)“:  
+59. „Flüssigerdgas (LNG)“:  
   
 
 Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde.
 
 # § 1.02 – Schiffsführer
 
-1. Ein Fahrzeug sowie einen Schwimmkörper darf nur führen (Schiffsführer), wer hierfür geeignet ist. Seine Eignung gilt als vorhanden, wenn er ein Befähigungszeugnis oder eine sonstige Erlaubnis zum Führen von Fahrzeugen für die Fahrzeugart und die zu befahrende Strecke besitzt sowie körperlich und geistig zur Führung des Fahrzeugs geeignet ist. Sind mehrere Personen an Bord eines Fahrzeugs, die die Anforderungen des Satzes 2 erfüllen, ist der Schiffsführer rechtzeitig zu bestimmen. Sind nach den einschlägigen Besatzungsvorschriften mehrere Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der Schiffsführer, unter dessen Führung das Fahrzeug steht, ein Streckenzeugnis für den betreffenden Streckenabschnitt.
+1. Ein Fahrzeug sowie einen Schwimmkörper darf nur führen (Schiffsführer), wer hierfür geeignet ist. Seine Eignung gilt als vorhanden, wenn er ein Befähigungszeugnis oder eine sonstige Erlaubnis zum Führen von Fahrzeugen für die geführte Fahrzeugart und die zu befahrende Strecke besitzt sowie körperlich und geistig zum Führen des Fahrzeugs geeignet ist. Befährt der Schiffsführer einen Streckenabschnitt, der als Binnenwasserstraßenabschnitt mit besonderen Risiken ausgewiesen ist, muss er zudem die hierfür erforderliche besondere Berechtigung besitzen. Sind mehrere Personen an Bord eines Fahrzeugs, die die Anforderungen des Satzes 2, auch in Verbindung mit Satz 3, erfüllen, ist der Schiffsführer rechtzeitig zu bestimmen. Sind nach den einschlägigen Besatzungsvorschriften mehrere Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der Schiffsführer, unter dessen Führung das Fahrzeug steht, die für das Befahren eines als Binnenwasserstraßenabschnitt mit besonderen Risiken ausgewiesenen Streckenabschnitts erforderliche besondere Berechtigung.
 
 2. Einen Verband darf nur führen, wer hierfür geeignet ist. Stellt ein Fahrzeug mit Maschinenantrieb die Hauptantriebskraft, ist dessen Schiffsführer zugleich Führer des Verbandes. Stellen mehrere Fahrzeuge die Hauptantriebskraft, ist der Führer des Verbandes rechtzeitig zu bestimmen. Bei einem Schubverband, der durch zwei schiebende Fahrzeuge nebeneinander fortbewegt wird, ist der Führer des Verbandes der Schiffsführer des schiebenden Fahrzeugs an der Steuerbordseite.
 
@@ -554,27 +549,41 @@ der Eichschein des Fahrzeugs;
 
 cc) die Urkunde über das Kennzeichen für Kleinfahrzeuge oder die für das als Ersatz anerkannte Kennzeichen ausgestellte Bescheinigung.
 
-b) Urkunden und sonstige Unterlagen zur Besatzung:
+b) Urkunden und Unterlagen zur Besatzung:
 
 aa)  
-das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis des Schiffsführers sowie für die anderen Mitglieder der Besatzung der ordnungsgemäß ausgefüllte Qualifikationsnachweis oder das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis;
+das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen des Schiffsführers;
 
 bb)  
-das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch;
+der ordnungsgemäß ausgefüllte Qualifikationsnachweis, das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen der anderen Mitglieder der Besatzung;
 
-cc) die Bescheinigung über die Ausgabe der Bordbücher;
+cc) der Nachweis der besonderen Berechtigung für das Befahren eines als Binnenwasserstraßenabschnitt mit besonderen Risiken ausgewiesenen Streckenabschnitts nach der Binnenschiffspersonalverordnung oder das nach der Binnenschiffspersonalverordnung weitergeltende Streckenzeugnis des Schiffsführers;
 
 dd)  
-das Radarpatent oder ein anderes Zeugnis, das nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins als gleichwertig anerkannt ist; diese Dokumente sind an Bord nicht erforderlich, wenn die Schifferpatentkarte die Eintragung „Radar“ oder ein anderes nach der Binnenschifferpatentverordnung zugelassenes Zeugnis des Schiffsführers die entsprechende Eintragung enthält;
+der Nachweis der besonderen Berechtigung für das Befahren eines als Binnenwasserstraßenabschnitt mit besonderen Risiken ausgewiesenen Streckenabschnitts nach der Binnenschiffspersonalverordnung oder das nach der Binnenschiffspersonalverordnung weitergeltende Streckenzeugnis der anderen Mitglieder der Besatzung;
 
 ee)  
-ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk.
+das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch;
+
+ff)  
+die Bescheinigung über die Ausgabe der Bordbücher;
+
+gg)  
+der Nachweis der besonderen Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder das nach der Binnenschiffspersonalverordnung weitergeltende Radarpatent;
+
+hh)  
+ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk;
+
+ii) bei einem Fahrzeug, das das Kennzeichen nach § 2.06 trägt, jeweils das Befähigungszeugnis für Sachkundige für Flüssigerdgas (LNG) des Schiffsführers und der Besatzungsmitglieder, die am Bunkervorgang beteiligt sind;
+
+jj)  
+das Befähigungszeugnis für Sachkundige für die Fahrgastschifffahrt.
 
 c) Urkunden zum Fahrtgebiet:
 
 die Bescheinigung über die Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf.
 
-d) Urkunden und sonstige Unterlagen zu den Informations- und Navigationsgeräten:
+d) Urkunden und Unterlagen zu den Informations- und Navigationsgeräten:
 
 aa)  
 die Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeiger;
@@ -588,9 +597,9 @@ dd)
 die Urkunde Frequenzzuteilung oder die Urkunde Zuteilungszeugnis;
 
 ee)  
-ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung; als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann.
+ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung.
 
-e) Urkunden und sonstige Unterlagen zur Ausrüstung des Fahrzeugs:
+e) Urkunden und Unterlagen zur Ausrüstung des Fahrzeugs:
 
 aa)  
 die Bescheinigung über die Prüfung motorisch betriebener Steuereinrichtungen;
@@ -626,7 +635,7 @@ die Kopie des Typgenehmigungsbogens der Bordkläranlage und des Bordkläranlagen
 ll)  
 bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage 8 Nummer 1.4.9 ES-TRIN vorgeschriebene Betriebshandbuch und die in Artikel 30.03 Nummer 1 Satz 1 ES-TRIN vorgeschriebene Sicherheitsrolle.
 
-f) Urkunden und sonstige Unterlagen zur Ladung und zu den Betriebsstoffen:
+f) Urkunden und Unterlagen zur Ladung und zu den Betriebsstoffen:
 
 aa)  
 die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden und Unterlagen;
@@ -641,6 +650,8 @@ bbb)
 das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan; das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan können auch elektronisch mitgeführt werden, wenn sie jederzeit lesbar gemacht werden können;
 
 cc) das ordnungsgemäß ausgefüllte Ölkontrollbuch.
+
+Die Urkunden nach Satz 1 Buchstabe b Doppelbuchstabe aa, ii und jj können auch in einer jederzeit lesbaren, elektronischen Textfassung, die der Anforderung des Musters des Anhangs I Nummer 1 der Durchführungsverordnung (EU) 2020/182 der Kommission vom 14. Januar 2020 über Muster im Bereich der Berufsqualifikationen in der Binnenschifffahrt (ABl. L 38 vom 11.2.2020, S. 1) genügt, an Bord mitgeführt werden. Die Urkunden und Unterlagen nach Satz 1 Buchstabe b Doppelbuchstabe ff, Buchstabe c, d Doppelbuchstabe aa bis dd, Buchstabe e und f Doppelbuchstabe bb können auch in einer jederzeit lesbaren, elektronischen Textfassung im Dateiformat PDF an Bord mitgeführt werden. Das Beförderungspapier nach ADN Unterabschnitt 8.1.2.1 Buchstabe b und die Schiffsstoffliste nach ADN Unterabschnitt 8.1.2.3 Buchstabe g können auch in einer jederzeit lesbaren, elektronischen Textfassung in einem Format, das den Anforderungen des ADN Unterabschnitt 5.4.0.2 in Verbindung mit dem Leitfaden für die Anwendung des ADN Unterabschnitt 5.4.0.2 genügt, an Bord mitgeführt werden. Die Unterlage nach Satz 1 Buchstabe d Doppelbuchstabe ee und das Europäische Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen einschließlich der dem Übereinkommen als Anlage beigefügten Verordnung (ADN Unterabschnitt 8.1.2.1 Buchstabe d) können auch in einer jederzeit lesbaren, elektronischen Textfassung mitgeführt werden.
 
 2. Die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb müssen jedoch nicht an Bord eines Schubleichters mitgeführt werden, auf dem eine Metalltafel nach folgendem Muster angebracht ist:  
   
@@ -658,11 +669,11 @@ Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben v
 
 6. Auf einem schwimmenden Gerät oder einem Baustellenfahrzeug nach ES-TRIN müssen die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb und Buchstabe b Doppelbuchstabe aa im Baustellenbereich nicht an Bord mitgeführt werden. Der Eigentümer und der Ausrüster haben jedoch jeweils dafür zu sorgen, dass die Schiffspapiere jederzeit im Bereich der Baustelle verfügbar sind.
 
-7. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und sonstigen Unterlagen an Bord mitgeführt werden:
+7. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und Unterlagen an Bord mitgeführt werden:
 
-a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um das Bordbuch handelt, und Doppelbuchstabe cc bis ee, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff, gg, hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe cc bis jj, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff, gg, hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
 
-b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuschstabe bb, sofern es sich um das Fahrtenbuch handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
 
 8. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass die folgenden Urkunden und sonstigen Unterlagen an Bord mitgeführt werden:
 
@@ -670,11 +681,11 @@ a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchsta
 
 b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und Buchstabe e Doppelbuchstabe dd, ee, ii und kk.
 
-9. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und sonstigen Unterlagen auf Verlangen den zur Kontrolle befugten Personen ausgehändigt werden:
+9. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und sonstigen Unterlagen auf Verlangen den zur Kontrolle befugten Personen ausgehändigt oder in einer jederzeit lesbaren, elektronischen Fassung nach den in Nummer 1 Satz 2 bis 5 genannten Anforderungen oder Formaten zur Verfügung gestellt werden:
 
-a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuchstabe bb bis ee, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff bis hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerschein-verordnung handelt, und Doppelbuchstabe cc bis jj, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff bis hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
 
-b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
 
 # § 1.11 – Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
@@ -1866,7 +1877,7 @@ b) die Sprechfunkanlagen des Fahrzeugs oder der schwimmenden Anlage der Vorschri
 
 a) es mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 ES-TRIN ausgerüstet ist; dabei müssen die Geräte in gutem Betriebszustand sein und einem von der vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Stelle oder von den zuständigen Behörden eines anderen Rheinuferstaates oder Belgiens zugelassenen schiffssicherheitstechnischen Baumuster entsprechen; eine nicht frei fahrende Fähre braucht jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein,
 
-b) sich an Bord eine Person befindet, die ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr und digitale Infrastruktur als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt.
+b) sich an Bord eine Person befindet, die ein Befähigungszeugnis mit dem Eintrag der besonderen Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder ein nach Binnenschiffspersonalverordnung weitergeltendes Radarpatent besitzt.
 
   
 Ein Kleinfahrzeug muss außerdem mit einer in gutem Betriebszustand befindlichen Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein. Unbeschadet des § 1.09 Nummer 3 kann jedoch am Tag bei guter Sicht abweichend von Satz 1 Buchstabe b Radar zu Ausbildungszwecken verwendet werden, auch wenn sich eine Person nach Satz 1 Buchstabe b nicht an Bord befindet.
@@ -2746,7 +2757,7 @@ Die §§ 6.28, 6.28a und 6.29 sind auch auf ein Schiffshebewerk anzuwenden. In d
 
 # § 6.32 – Mit Radar fahrende Fahrzeuge
 
-1. Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr und digitale Infrastruktur als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt, und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
+1. Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die geführte Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis eine besondere Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder ein nach Binnenschiffspersonalverordnung weitergeltendes Radarpatent besitzt und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
 
 2. Bei der Begegnung und der Vorbeifahrt ist folgendes zu beachten:
 
@@ -11357,7 +11368,7 @@ b) der Verkehr eines Kleinfahrzeugs, das mit einer Antriebsmaschine ausgestattet
 
 c) das Schleppen oder gekuppelte Mitführen von Kleinfahrzeugen, die Sportfahrzeuge sind, durch andere Kleinfahrzeuge, die Sportfahrzeuge sind,
 
-verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschifferpatentverordnung oder der Schiffspersonalverordnung-Rhein verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
+verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschiffspersonalverordnung oder der Schiffspersonalverordnung-Rhein verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
 
 2. Auf dem Gosener Graben ist der Verkehr eines Kleinfahrzeugs mit Maschinenantrieb verboten.
 

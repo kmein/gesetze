@@ -21,7 +21,7 @@ das Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund des § 27
 
 (1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Donau, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
 
-(2) § 1.07 Nummer 1 bis 3, Nummer 4 Satz 1 bis 5 und Nummer 5, § 1.10 Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa, bb, dd und ee, Buchstabe d und Buchstabe f Doppelbuchstabe bb und cc, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 4.07 Nummer 1, 2 und 4 bis 8, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
+(2) § 1.07 Nummer 1 bis 3, Nummer 4 Satz 1 bis 5 und Nummer 5, § 1.10 Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa bis ee, gg und hh, Buchstabe d und Buchstabe f Doppelbuchstabe bb und cc, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 4.07 Nummer 1, 2 und 4 bis 8, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
 # § 2 – Zuständige Behörden
 
@@ -1301,13 +1301,13 @@ Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
 # § 38 – Änderung binnenschifffahrtsrechtlicher Vorschriften
 
-# § 39 – (weggefallen)
+# § 39 – Anwendungsbestimmung aus Anlass der Verordnung zur Neuregelung befähigungsrechtlicher Vorschriften in der Binnenschifffahrt
+
+Diese Verordnung und die Binnenschifffahrtstraßen-Ordnung (Anlage zu § 1 Absatz 1 dieser Verordnung) sind bis zum Ablauf des 17. Januar 2022 in der am 6. Dezember 2021 geltenden und anzuwendenden Fassung weiter anzuwenden.
 
 # § 40 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 1. Februar 2012 in Kraft.
-
-(2) § 39 tritt mit Ablauf des 1. Februar 2014 außer Kraft.
+Diese Verordnung tritt am 1. Februar 2012 in Kraft.
 
 # Anlage
 
