@@ -2874,7 +2874,7 @@
 - [InsoGeldFestV 2020](laws/InsoGeldFestV_2020.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2020
 - [InsoGeldFestV 2022](laws/InsoGeldFestV_2022.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2022
 - [InsoKostV](laws/InsoKostV.md) Verordnung über die Pauschalierung der sonstigen Kosten für die Erbringung von Insolvenzgeld
-- [InsStatG](laws/InsStatG.md) Gesetz über die Insolvenzstatistik
+- [InsStatG](laws/InsStatG.md) Gesetz über die Insolvenz- und Restrukturierungsstatistik
 - [InstallateurHeizungsbauerMstrV](laws/InstallateurHeizungsbauerMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk
 - [InstitutsVergV](laws/InstitutsVergV.md) Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten 1
 - [InsVV](laws/InsVV.md) Insolvenzrechtliche Vergütungsverordnung

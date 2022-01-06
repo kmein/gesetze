@@ -1373,6 +1373,8 @@ auf Antrag vergütet, sofern die Leistung nicht von der Steuer befreit werden ka
 
 Soweit die Voraussetzungen nach Antragstellung wegfallen, ist die Einrichtung verpflichtet, dies dem Bundeszentralamt für Steuern innerhalb eines Monats anzuzeigen.
 
+(+++ § 4c: Zur Anwendung vgl. § 27 +++)
+
 # § 5 – Steuerbefreiungen bei der Einfuhr
 
 (1) Steuerfrei ist die Einfuhr
