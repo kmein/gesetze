@@ -353,6 +353,12 @@ Der Patentinhaber kann verlangen, dass ihm der Lizenzsucher eine Gegenlizenz zu 
 
 (4) Wenn ein voraussichtlich zeitlich begrenztes Bedürfnis besteht, kann der Präsident des Deutschen Patent- und Markenamts Personen, welche die für die Mitglieder geforderte Vorbildung haben (Absatz 2 und 3), mit den Verrichtungen eines Mitglieds des Deutschen Patent- und Markenamts beauftragen (Hilfsmitglieder). Der Auftrag kann auf eine bestimmte Zeit oder für die Dauer des Bedürfnisses erteilt werden und ist so lange nicht widerruflich. Im übrigen gelten die Vorschriften über Mitglieder auch für die Hilfsmitglieder.
 
+# § 26a
+
+(1) Das Deutsche Patent- und Markenamt hat die Aufgabe, die Öffentlichkeit, insbesondere auch kleine und mittlere Unternehmen, in allgemeiner Form über Rechte des geistigen Eigentums und deren Schranken sowie über die Wahrnehmung und Durchsetzung dieser Rechte zu informieren.
+
+(2) Das Deutsche Patent- und Markenamt arbeitet bei der Erfüllung seiner Aufgaben mit Ämtern für geistiges Eigentum anderer Länder und Regionen, der Europäischen Patentorganisation, dem Amt der Europäischen Union für geistiges Eigentum und der Weltorganisation für geistiges Eigentum zusammen. Die Zusammenarbeit umfasst auch urheberrechtliche Belange. § 65a des Markengesetzes bleibt unberührt.
+
 # § 27
 
 (1) Im Deutschen Patent- und Markenamt werden gebildet
