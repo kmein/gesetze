@@ -269,7 +269,7 @@ Die Zulassung zur Patentanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 (1) Ist der Patentanwalt von der Pflicht befreit, eine Kanzlei zu unterhalten, so hat er der Patentanwaltskammer einen Zustellungsbevollmächtigten zu benennen, der im Inland wohnt oder dort einen Geschäftsraum hat.
 
-(2) An den Zustellungsbevollmächtigten kann, auch von Anwalt zu Anwalt, wie an den Patentanwalt selbst zugestellt werden (§§ 174 und 195 der Zivilprozessordnung).
+(2) An den Zustellungsbevollmächtigten kann, auch von Anwalt zu Anwalt, wie an den Patentanwalt selbst zugestellt werden (§ 173 Absatz 1 und 2, §§ 175, 195 der Zivilprozessordnung).
 
 (3) Ist ein Zustellungsbevollmächtigter entgegen Absatz 1 nicht benannt, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung). Das Gleiche gilt, wenn eine Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 

@@ -93,8 +93,6 @@ Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzge
 
 Die Landesregierungen werden ermächtigt, Erleichterungen und Ausnahmen von den auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten oder Verboten für geimpfte Personen, genesene Personen und getestete Personen zu regeln, soweit diese Verordnung nichts anderes regelt. § 3 Absatz 2 Satz 2 gilt entsprechend.
 
-# § 12 – (jetzt § 8)
-
 # Schlussformel
 
 Der Bundesrat hat zugestimmt.

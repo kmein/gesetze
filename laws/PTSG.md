@@ -1,4 +1,4 @@
-% Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen  (Post- und Telekommunikationssicherstellungsgesetz - PTSG)
+% Gesetz zur Sicherstellung von Postdienstleistungen in besonderen Fällen  (Postsicherstellungsgesetz - PSG)
 % Ausfertigungsdatum: 24.03.2011
  
 # § 1 – Anwendungsbereich
