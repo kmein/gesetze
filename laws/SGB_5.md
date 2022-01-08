@@ -1994,7 +1994,7 @@ Berechtigten Wünschen der Versicherten ist zu entsprechen. Hierbei ist zu prüf
 
 Der ambulante Hospizdienst erbringt palliativ-pflegerische Beratung durch entsprechend ausgebildete Fachkräfte und stellt die Gewinnung, Schulung, Koordination und Unterstützung der ehrenamtlich tätigen Personen, die für die Sterbebegleitung zur Verfügung stehen, sicher. Die Förderung nach Satz 1 erfolgt durch einen angemessenen Zuschuss zu den notwendigen Personal- und Sachkosten. Der Zuschuss bezieht sich auf Leistungseinheiten, die sich aus dem Verhältnis der Zahl der qualifizierten Ehrenamtlichen zu der Zahl der Sterbebegleitungen bestimmen. Die Ausgaben der Krankenkassen für die Förderung nach Satz 1 betragen je Leistungseinheit 13 vom Hundert der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches, sie dürfen die zuschussfähigen Personal- und Sachkosten des Hospizdienstes nicht überschreiten. Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen das Nähere zu den Voraussetzungen der Förderung sowie zu Inhalt, Qualität und Umfang der ambulanten Hospizarbeit. Dabei ist den besonderen Belangen der Versorgung von Kindern und Jugendlichen sowie der Versorgung von Erwachsenen durch ambulante Hospizdienste durch jeweils gesonderte Vereinbarungen nach Satz 8 Rechnung zu tragen. Zudem ist der ambulanten Hospizarbeit in Pflegeeinrichtungen nach § 72 des Elften Buches Rechnung zu tragen. Es ist sicherzustellen, dass ein bedarfsgerechtes Verhältnis von ehrenamtlichen und hauptamtlichen Mitarbeitern gewährleistet ist, und dass die Förderung zeitnah ab dem Zeitpunkt erfolgt, in dem der ambulante Hospizdienst zuschussfähige Sterbebegleitung leistet. Die Vereinbarung ist mindestens alle vier Jahre zu überprüfen und an aktuelle Versorgungs- und Kostenentwicklungen anzupassen. Pflegeeinrichtungen nach § 72 des Elften Buches sollen mit ambulanten Hospizdiensten zusammenarbeiten.
 
-(+++ § 39a Abs. 2 Satz 11: Eingef. durch Art. 1 Nr. 3 Buchst. b DBuchst. ee G v. 1.12.2015 I 2114 mWv 8.12.2015; die nicht ausführbare Änderungsanweisung d. Art. 1 Nr. 18 Buchst. b G v. 6.5.2019 I 646 mWv 11.5.2019 wurde sinngemäß konsolidiert +++)
+(+++ § 39a Abs. 2 Satz 12 (früher Abs. 2 Satz 11): Eingef. durch Art. 1 Nr. 3 Buchst. b DBuchst. ee G v. 1.12.2015 I 2114 mWv 8.12.2015; die nicht ausführbare Änderungsanweisung d. Art. 1 Nr. 18 Buchst. b G v. 6.5.2019 I 646 mWv 11.5.2019 wurde sinngemäß konsolidiert +++); früher Abs. 2 Satz 11 jetzt Abs. 2 Satz 12 gem. Art. 1 Nr. 12 G v. 11.7.2021 I 2754 mWv 20.7.2021
 
 # § 39b – Hospiz- und Palliativberatung durch die Krankenkassen
 
@@ -2822,7 +2822,7 @@ Ein Bericht über die Ergebnisse der Evaluation ist bis zum 30. Juni 2026 zu ver
 
 # § 65d – Förderung besonderer Therapieeinrichtungen
 
-(1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar 2017 bis zum 31. Dezember 2025 mit insgesamt fünf Millionen Euro je Kalenderjahr im Rahmen von Modellvorhaben Leistungserbringer, die Patienten mit pädophilen Sexualstörungen behandeln. Förderungsfähig sind an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer, die ein freiwilliges Therapieangebot vorhalten und die vom Spitzenverband Bund der Krankenkassen als förderungsfähig anerkannt werden. Für die Verarbeitung personenbezogener Daten im Rahmen der Modellvorhaben gilt § 63 Absatz 3 Satz 1 und 4, Absatz 3a mit Ausnahme von Absatz 5 Satz 3 entsprechend mit der Maßgabe, dass die Anonymität der Patienten zu gewährleisten ist. Die Anonymität darf nur eingeschränkt werden, soweit die Patienten dazu ihre Einwilligung erteilen.
+(1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar 2017 bis zum 31. Dezember 2025 mit insgesamt fünf Millionen Euro je Kalenderjahr im Rahmen von Modellvorhaben Leistungserbringer, die Patienten mit pädophilen Sexualstörungen behandeln. Förderungsfähig sind an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer, die ein freiwilliges Therapieangebot vorhalten und die vom Spitzenverband Bund der Krankenkassen als förderungsfähig anerkannt werden. Für die Verarbeitung personenbezogener Daten im Rahmen der Modellvorhaben gilt § 63 Absatz 3 Satz 1 und 4, Absatz 3a und 5 mit Ausnahme von Absatz 5 Satz 3 entsprechend mit der Maßgabe, dass die Anonymität der Patienten zu gewährleisten ist. Die Anonymität darf nur eingeschränkt werden, soweit die Patienten dazu ihre Einwilligung erteilen.
 
 (2) Der Spitzenverband Bund der Krankenkassen hat eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele der Modellvorhaben nach allgemein anerkannten wissenschaftlichen Standards zu veranlassen. Ziel dieser wissenschaftlichen Begleitung und Auswertung ist die Erreichung möglichst hochwertiger Evidenz zur Wirksamkeit der Therapieangebote nach Absatz 1 unter Berücksichtigung der Besonderheiten der pädophilen Sexualstörungen.
 
@@ -3656,37 +3656,9 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 
 (2c) Die Vertragspartner nach § 82 Abs. 1 können vereinbaren, daß für die Gesamtvergütungen getrennte Vergütungsanteile für die an der vertragsärztlichen Versorgung beteiligten Arztgruppen zugrunde gelegt werden; sie können auch die Grundlagen für die Bemessung der Vergütungsanteile regeln. § 89 Abs. 1 gilt nicht.
 
-(2d) (weggefallen)
-
 (3) In der vertragszahnärztlichen Versorgung vereinbaren die Vertragsparteien des Gesamtvertrages die Veränderungen der Gesamtvergütungen unter Berücksichtigung der Zahl und Struktur der Versicherten, der Morbiditätsentwicklung, der Kosten- und Versorgungsstruktur, der für die vertragszahnärztliche Tätigkeit aufzuwendenden Arbeitszeit sowie der Art und des Umfangs der zahnärztlichen Leistungen, soweit sie auf einer Veränderung des gesetzlichen oder satzungsmäßigen Leistungsumfangs beruhen. Bei der Vereinbarung der Veränderungen der Gesamtvergütungen ist der Grundsatz der Beitragssatzstabilität (§ 71) in Bezug auf das Ausgabenvolumen für die Gesamtheit der zu vergütenden vertragszahnärztlichen Leistungen ohne Zahnersatz neben den Kriterien nach Satz 1 zu berücksichtigen. Absatz 2 Satz 2 bleibt unberührt. Die Krankenkassen haben den Kassenzahnärztlichen Vereinigungen die Zahl ihrer Versicherten vom 1. Juli eines Jahres, die ihren Wohnsitz im Bezirk der jeweiligen Kassenzahnärztlichen Vereinigung haben, gegliedert nach den Altersgruppen des Vordrucks KM 6 der Statistik über die Versicherten in der gesetzlichen Krankenversicherung bis zum 1. Oktober des Jahres mitzuteilen.
 
-(3a) (weggefallen)
-
-(3b) (weggefallen)
-
-(3c) (weggefallen)
-
-(3d) (weggefallen)
-
-(3e) (weggefallen)
-
-(3f) (weggefallen)
-
-(3g) (weggefallen)
-
 (4) Die Kassenzahnärztliche Vereinigung verteilt die Gesamtvergütungen an die Vertragszahnärzte. Sie wendet dabei in der vertragszahnärztlichen Versorgung den im Benehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen festgesetzten Verteilungsmaßstab an. Bei der Verteilung der Gesamtvergütungen sind Art und Umfang der Leistungen der Vertragszahnärzte zugrunde zu legen; dabei ist jeweils für die von den Krankenkassen einer Kassenart gezahlten Vergütungsbeträge ein Punktwert in gleicher Höhe zugrunde zu legen. Der Verteilungsmaßstab hat sicherzustellen, dass die Gesamtvergütungen gleichmäßig auf das gesamte Jahr verteilt werden. Der Verteilungsmaßstab hat Regelungen zur Verhinderung einer übermäßigen Ausdehnung der Tätigkeit des Vertragszahnarztes entsprechend seinem Versorgungsauftrag nach § 95 Absatz 3 Satz 1 vorzusehen. Widerspruch und Klage gegen die Honorarfestsetzung sowie ihre Änderung oder Aufhebung haben keine aufschiebende Wirkung.
-
-(4a) (weggefallen)
-
-(4b) (weggefallen)
-
-(4c) (weggefallen)
-
-(4d) (weggefallen)
-
-(4e) (weggefallen)
-
-(4f) (weggefallen)
 
 # § 85a – Sonderregelungen für Vertragszahnärztinnen und Vertragszahnärzte aus Anlass der COVID-19-Pandemie
 
