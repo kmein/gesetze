@@ -25,14 +25,18 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 73 des Infektionsschutzgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 70 Absatz 1 des Infektionsschutzgesetzes der Vollzug dieses Gesetzes im Geschäftsbereich des Bundesministeriums der Verteidigung den zuständigen Stellen der Bundeswehr obliegt.
 
-# § 6 – Zuständigkeit nach dem Medizinproduktegesetz
+# § 6 – Zuständigkeit nach dem Medizinproduktegesetz bis einschließlich 25. Mai 2022
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 42 des Medizinproduktegesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 38 Absatz 2 des Medizinproduktegesetzes der Vollzug dieses Gesetzes und die Überwachung im Bereich der Bundeswehr den jeweils zuständigen Stellen und Sachverständigen der Bundeswehr obliegt.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten in Bezug auf In-vitro-Diagnostika nach § 2 Absatz 1 Satz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes in Verbindung mit den §§ 42 und 38 Absatz 2 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung wird bis einschließlich 25. Mai 2022 auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
 
-# § 7 – Zuständigkeit nach der Trinkwasserverordnung
+# § 7 – Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
+
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des Medizinprodukterecht- Durchführungsgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
+
+# § 8 – Zuständigkeit nach der Trinkwasserverordnung
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 25 der Trinkwasserverordnung wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 22 der Trinkwasserverordnung der Vollzug der Verordnung im Bereich der Bundeswehr sowie im Bereich der auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen den zuständigen Dienststellen der Bundeswehr obliegt.
 
-# § 8 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Zuständigkeit des Bundesamtes für Wehrverwaltung und der Wehrbereichsverwaltungen für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Lebensmittel- und Futtermittelgesetzbuch und dem Tierschutzgesetz vom 12. September 2006 (BGBl. I S. 2135) außer Kraft.
