@@ -4513,6 +4513,7 @@
 - [PrZBrGleichstV](laws/PrZBrGleichstV.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
 - [PSA-BV](laws/PSA-BV.md) Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit
 - [PSA-DG](laws/PSA-DG.md) Gesetz zur Durchführung der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen (PSA) und zur Aufhebung der Richtlinie 89/686/EWG des Rates
+- [PSG](laws/PSG.md) Gesetz zur Sicherstellung von Postdienstleistungen in besonderen Fällen
 - [PStG](laws/PStG.md) Personenstandsgesetz
 - [PStV](laws/PStV.md) Verordnung zur Ausführung des Personenstandsgesetzes
 - [PsychKVVerbG](laws/PsychKVVerbG.md) Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker
@@ -4525,7 +4526,6 @@
 - [PTA-APrV](laws/PTA-APrV.md) Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten
 - [PTBBGebV](laws/PTBBGebV.md) Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt
 - [PTNeuOG](laws/PTNeuOG.md) Gesetz zur Neuordnung des Postwesens und der Telekommunikation
-- [PTSG](laws/PTSG.md) Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen
 - [PTStiftErnAnO](laws/PTStiftErnAnO.md) Anordnung zur Übertragung des Rechtes zur Ernennung und Entlassung der Beamten der Museumsstiftung Post und Telekommunikation
 - [PTStiftG](laws/PTStiftG.md) Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation
 - [PUAG](laws/PUAG.md) Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages
