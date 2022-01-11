@@ -991,7 +991,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (1) Das Unterhaltsdarlehen setzt sich zusammen aus
 
-1. 80 Prozent des Anwärtergrundbetrags für die Besoldungsgruppe A 13 nach der Anlage VIII zum Bundesbesoldungsgesetz und
+1. 80 Prozent des Anwärtergrundbetrags des höheren Dienstes nach der Anlage VIII zum Bundesbesoldungsgesetz und
 
 2. dem Familienzuschlag nach den §§ 39 bis 41 des Bundesbesoldungsgesetzes.
 
@@ -1003,7 +1003,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 # § 60 – Einkommensanrechnung
 
-(1) Einkommen der Bewerberinnen und Bewerber und ihrer Ehegatten wird auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet, sofern es zusammengerechnet mehr als 70 Prozent des Anwärtergrundbetrags für das Eingangsamt A 13 nach der Anlage VIII zum Bundesbesoldungsgesetz beträgt.
+(1) Einkommen der Bewerberinnen und Bewerber und ihrer Ehegatten wird auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet, sofern es zusammengerechnet mehr als 70 Prozent des Anwärtergrundbetrags des höheren Dienstes nach der Anlage VIII zum Bundesbesoldungsgesetz beträgt.
 
 (2) Für die Ermittlung des zugrunde zu legenden Einkommens gelten die §§ 21 und 22 des Bundesausbildungsförderungsgesetzes entsprechend.
 
