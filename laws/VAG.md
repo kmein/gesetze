@@ -334,7 +334,7 @@ c) Leistungen aus der kommunalen Unfallfürsorge;
 
 7. die Versorgungsanstalt des Bundes und der Länder, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Versorgungsanstalt der Deutschen Bundespost;
 
-8. Unternehmen mit örtlich eng begrenztem Wirkungsbereich, die für den Fall eines ungewissen Ereignisses gegen Pauschalentgelt Leistungen übernehmen, sofern diese nicht in einer Geldleistung, einer Kostenübernahme oder einer Haftungsfreistellung gegenüber Dritten bestehen sowie
+8. Unternehmen mit örtlich eng begrenztem Wirkungsbereich, die für den Fall eines ungewissen Ereignisses gegen Pauschalentgelt Leistungen übernehmen, sofern diese nicht in einer Geldleistung, einer Kostenübernahme oder einer Haftungsfreistellung gegenüber Dritten bestehen, sowie
 
 9. die in § 176 Absatz 1 des Fünften Buches Sozialgesetzbuch genannten Solidargemeinschaften.
 
