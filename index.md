@@ -1359,7 +1359,6 @@
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
 - [COVAAppOAbwV](laws/COVAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
 - [COVÄApprO2002AbwV](laws/COVÄApprO2002AbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Ärzte im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
-- [COVID-19-VSt-SchutzV](laws/COVID-19-VSt-SchutzV.md) Verordnung zum Ausgleich COVID-19 bedingter finanzieller Belastungen der Zahnärztinnen und Zahnärzte, der Heilmittelerbringer und der Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen
 - [COVInsAG](laws/COVInsAG.md) Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz
 - [COVZApprOAbwV](laws/COVZApprOAbwV.md) Verordnung zur Abweichung von den Approbationsordnungen für Zahnärzte und für Zahnärzte und Zahnärztinnen im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
 - [CSC](laws/CSC.md) Internationales Übereinkommen über sichere Container

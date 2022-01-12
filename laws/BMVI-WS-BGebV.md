@@ -19,7 +19,7 @@ Im Zuständigkeitsbereich des Bundesministeriums für Verkehr und digitale Infra
 
 5. Verordnung über den Schutz der Randdünen auf der Nordseeinsel Wangerooge (DünenSchV),
 
-6. Binnenschifferpatentverordnung (BinSchPatentV),
+6. Binnenschiffspersonalverordnung (BinSchPersV)
 
 7. Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
 
@@ -137,7 +137,11 @@ Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
 # § 4 – Übergangsvorschrift
 
-Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Gleiches gilt für eine gebührenpflichtige Leistung, die bis zum Ablauf des 30. September 2021 vollständig erbracht worden ist.
+(1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Gleiches gilt für eine gebührenpflichtige Leistung, die bis zum Ablauf des 30. September 2021 vollständig erbracht worden ist.
+
+(2) Diese Verordnung ist bis zum Ablauf des 17. Januar 2022 in der am 6. Dezember 2021 geltenden Fassung weiter anzuwenden.
+
+(3) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung nach Abschnitt 2 der Anlage zu § 2 Absatz 1, die vor dem 18. Januar 2022 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis zum Ablauf des 17. Januar 2022 geltende Recht weiter anzuwenden.
 
 # § 5 – Inkrafttreten
 
@@ -167,13 +171,11 @@ b) Für die Entschädigung oder die Vergütung nach § 26 Absatz 3 Satz 2 des Ve
 
 c) Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an dem dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen Termin vorgenommen, so hat der Gebührenschuldner außer den Auslagen nach Buchstabe a auch die hierdurch entstehenden sonstigen Mehrkosten zu tragen. Zu diesen Mehrkosten gehört auch für jeden an der individuell zurechenbaren öffentlichen Leistung Beteiligten ein Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen dem gewöhnlichen und dem tatsächlichen Ort der gebührenfähigen Leistung.
 
+d) Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1017, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056, 1057 und 1061 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint. Ein Rücktritt von einer Prüfungsleistung ohne den Anfall von Gebühren ist bis zwei Wochen vor dem festgesetzten Prüfungstermin möglich.
+
 2. Gebührenreduzierung aufgrund geringeren Aufwands
 
-a) Die Gebühr bei den Nummern 1021 – 1025 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt wird um 75 Euro reduziert, wenn die Prüfung wiederholt wird und die volle Gebühr bereits entrichtet wurde oder wenn keine Patentkarte ausgegeben wird.
-
-b) Die Gebühr bei der Nummer 1025 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann zudem um bis zur Hälfte der Gebühr reduziert werden, wenn der Aufwand der Ausstellung sich auf einfache Eintragungen beschränkt.
-
-c) Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
+Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
 
 3. Doppelte Gebühr
 
@@ -246,7 +248,7 @@ Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttaugli
 
 1. Zuständige Stellen
 
-Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 1 Nummer 15 sowie für entsprechende Widerspruchsverfahren werden von der GDWS festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2 werden von der Zentralen Verwaltungsstelle, die durch die Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
+Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2 werden von der Zentralen Verwaltungsstelle, die durch die Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
 
 2. Auslagen und weitergehende Regelungen
 

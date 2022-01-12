@@ -9,12 +9,6 @@ Auf Grund des § 24 Nummer 4 in Verbindung mit § 67 des Kreislaufwirtschaftsge
 
 Diese Verordnung gilt für das Inverkehrbringen von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte als Verpackungen nach § 3 Absatz 1 des Verpackungsgesetzes in Verkehr gebracht werden oder nicht.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
- 
-
 # § 2 – Begriffsbestimmungen
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
@@ -78,3 +72,9 @@ Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsges
 # § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 3. Juli 2021 in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
+ 
