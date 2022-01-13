@@ -711,7 +711,7 @@ b) zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler
 
 (2) Die Auskunft nach Absatz 1 Satz 1 darf nur erteilt werden an
 
-1. zur Verfolgung von Straftaten zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Verfolgung besonders schwerer Straftaten nach § 100b Absatz 2 Nummer 1 Buchstabe a, b, d, e, f, g oder l, Nummer 3 Buchstabe b erste Alternative, Nummer 5, 6, 9 oder 10 der Strafprozessordnung erlauben, nach Anordnung durch ein Gericht verlangen, oder
+1. zur Verfolgung von Straftaten zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Verfolgung besonders schwerer Straftaten nach § 100b Absatz 2 Nummer 1 Buchstabe a, b, d, e, f, g oder l, Nummer 3 Buchstabe b erste Alternative, Nummer 4, 5, 6 oder 7 der Strafprozessordnung erlauben, nach Anordnung durch ein Gericht verlangen, oder
 
 2. für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Abwehr einer konkreten Gefahr für Leib, Leben oder Freiheit einer Person, für die sexuelle Selbstbestimmung, für den Bestand des Bundes oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, erlauben, nach Anordnung durch ein Gericht verlangen.
 

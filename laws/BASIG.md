@@ -21,9 +21,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 5. bei der Überwachung des Verkehrs mit den in den Nummern 1 bis 3 genannten Sera, Impfstoffen und Arzneimitteln nach § 40 Abs. 1 Satz 2 des Arzneimittelgesetzes und nach viehseuchenrechtlichen Vorschriften mitzuwirken,
 
-6. auf dem Gebiet der in den Nummern 1 bis 3 genannten Sera, Impfstoffe und Arzneimittel, insbesondere auf dem Gebiet der Prüfungsverfahren zu forschen und
+6. auf dem Gebiet der in den Nummern 1 bis 3 genannten Sera, Impfstoffe und Arzneimittel, insbesondere auf dem Gebiet der Prüfungsverfahren zu forschen,
 
-7. Standardwerte für die in den Nummern 1 bis 3 genannten Sera, Impfstoffe und Arzneimittel festzulegen sowie Standardpräparate zu entwickeln.
+7. Standardwerte für die in den Nummern 1 bis 3 genannten Sera, Impfstoffe und Arzneimittel festzulegen sowie Standardpräparate zu entwickeln und
+
+8. Pandemievorsorge und Pandemiebekämpfung mit Impfstoffen und anderen Arzneimitteln zu planen und durchzuführen.
 
 (3) Für die Entscheidungen über die Zulassung von Arzneimitteln im Sinne des Absatzes 2 Nr. 1 bis 3 und über die Freigabe von Chargen dieser Arzneimittel sowie für andere Amtshandlungen nach diesem Gesetz erhebt das Paul-Ehrlich-Institut Kosten (Gebühren und Auslagen). Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie und, soweit es sich um Arzneimittel nach Absatz Nr. 3 handelt, mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren für die Entscheidung über die Zulassung bestimmt sich nach dem Personal- und Sachaufwand, zu dem insbesondere der Aufwand für das Zulassungsverfahren, für die Prüfungen und für die Entwicklung geeigneter Prüfungsverfahren gehört. Die Höhe der Gebühren für die Entscheidung über die Freigabe einer Charge bestimmt sich nach dem durchschnittlichen Personal- und Sachaufwand, wobei der Aufwand für vorangegangene Prüfungen unberücksichtigt bleibt. Daneben ist die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Freigabe für den Gebührenschuldner angemessen zu berücksichtigten. Die Gebühren dürfen im Einzelfall folgende Höchstsätze nicht übersteigen:  
 

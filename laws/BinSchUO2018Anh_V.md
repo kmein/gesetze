@@ -15,9 +15,7 @@
 
 (Fundstelle: BGBl. I 2018, 1478 - 1479)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0640.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0650.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4982_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Muster 3 – Muster des Fährzeugnisses
 
@@ -35,9 +33,9 @@
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0710.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0720.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4982_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0730.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4982_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0740.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
@@ -77,7 +75,7 @@
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0860.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0870.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4982_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0880.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
