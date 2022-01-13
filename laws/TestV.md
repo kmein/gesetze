@@ -39,9 +39,13 @@ Der Anspruch nach Satz 1 in Bezug auf eine Diagnostik mittels PoC-Antigen-Tests 
 
 (3) Ein Anspruch nach den Absätzen 1 und 2 besteht nicht, wenn die zu testende Person bereits einen Anspruch auf die in Absatz 1 genannten Leistungen hat oder einen Anspruch auf Erstattung der Aufwendungen für entsprechende Leistungen hätte. Dies gilt insbesondere für Ansprüche auf Leistungen der ambulanten Krankenbehandlung oder der Krankenhausbehandlung. Für die bestätigende Diagnostik mittels eines Nukleinsäurenachweises des Coronavirus SARS-CoV-2 nach einem positiven Antigen-Test sowie für eine variantenspezifische PCR-Testung nach § 4b besteht ein Anspruch nach den Absätzen 1 und 2.
 
-# § 2 – Testungen von Kontaktpersonen
+# § 2 – Testungen von nachweislich infizierten Personen in Absonderung, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten
 
-(1) Wenn von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst asymptomatische Kontaktpersonen nach Absatz 2 festgestellt werden, die in den letzten 14 Tagen Kontakt zu einer mit dem Coronavirus SARS-CoV-2 infizierten Person hatten, haben diese Anspruch auf Testung. Der Anspruch nach Satz 1 besteht bis zu 21 Tage nach dem Kontakt zu einer mit dem Coronavirus SARS-CoV-2 infizierten Person, wenn die Testung zur Aufhebung der Absonderung erfolgt.
+(1) Wenn sie von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst festgestellt werden, haben folgende Personen Anspruch auf Testung:
+
+1. Personen, bei denen in den letzten 14 Tagen eine Infektion mit dem Coronavirus SARS-CoV-2 nachgewiesen worden ist und die abgesondert sind, und
+
+2. asymptomatische Kontaktpersonen nach Absatz 2, die in den letzten 14 Tagen Kontakt zu einer mit dem Coronavirus SARS-CoV-2 infizierten Person hatten.
 
 (2) Kontaktpersonen im Sinne des Absatzes 1 Satz 1 sind:
 
@@ -60,6 +64,8 @@ Der Anspruch nach Satz 1 in Bezug auf eine Diagnostik mittels PoC-Antigen-Tests 
 a) die sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus SARS-CoV-2 infizierten Person behandeln, betreuen oder pflegen oder behandelt, betreut oder gepflegt haben oder
 
 b) von der sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus SARS-CoV-2 infizierten Person behandelt, betreut oder gepflegt werden oder behandelt, betreut oder gepflegt wurden.
+
+(3) Wenn vom öffentlichen Gesundheitsdienst Personen festgestellt werden, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in die Bundesrepublik Deutschland in einem als Virusvariantengebiet im Sinne von § 2 Nummer 3a der Coronavirus-Einreiseverordnung eingestuften Gebiet aufgehalten haben, haben diese Anspruch auf Testung. Der Anspruch besteht bis zu 14 Tage nach Einreise in die Bundesrepublik Deutschland.
 
 # § 3 – Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen
 
@@ -151,7 +157,7 @@ Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann
 
 (3) Der Anspruch nach § 1 Absatz 1 Satz 1 auf Testungen durch Leistungserbringer nach Absatz 1 Nummer 2 und 3 besteht nur, wenn
 
-1. bei Testungen nach § 2 gegenüber dem Leistungserbringer dargelegt wurde, dass die zu testende Person von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst als Kontaktperson festgestellt wurde oder dass die zu testende Person durch die Corona-Warn-App des Robert Koch-Instituts eine Warnung mit der Statusanzeige erhöhtes Risiko erhalten hat,
+1. bei Testungen nach § 2 gegenüber dem Leistungserbringer dargelegt wurde, dass die zu testende Person von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst als nachweislich mit dem Coronavirus SARS-CoV-2 infizierte Person in Absonderung, als Kontaktperson oder als Person mit Voraufenthalt in Virusvariantengebieten festgestellt wurde oder dass die zu testende Person durch die Corona-Warn-App des Robert Koch-Instituts eine Warnung mit der Statusanzeige erhöhtes Risiko erhalten hat,
 
 2. bei Testungen nach § 3 gegenüber dem Leistungserbringer dargelegt wurde, dass die zu testende Person den erforderlichen Bezug zu Einrichtungen oder Unternehmen hat, in denen von diesen Einrichtungen oder Unternehmen oder vom öffentlichen Gesundheitsdienst eine mit dem Coronavirus SARS-CoV-2 infizierte Person festgestellt wurde,
 
@@ -197,7 +203,7 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen einzelnen Angaben nach Satz 2 Nummer 1 bis 8 in den jeweiligen Fällen ganz oder teilweise abgesehen werden kann, regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31. Dezember 2022 unverändert zu speichern oder aufzubewahren.
 
-(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 17. November 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
+(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 25. Januar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
 
 1. die von den Leistungserbringern für die Abrechnung und für Zwecke des § 16 an die Kassenärztlichen Vereinigungen zu übermittelnden Angaben und die für den Nachweis der korrekten Abrechnung notwendigen Auftrags- und Leistungsdokumentation,
 
@@ -209,7 +215,7 @@ Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen e
 
 (7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 17. November 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b genannten Fällen und in den Fällen der §§ 3 und 4 danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
 
-(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 12. November 2021 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
+(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 10. Januar 2022 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
 
 (9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben. Eine Vergütung für Testungen nach § 4a wird nur gewährt, wenn der Leistungserbringer die Ergebnismitteilung und die Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes auch über die Corona-Warn-App des Robert Koch-Instituts anbietet und auf Wunsch der getesteten Person über die Corona-Warn-App des Robert Koch-Instituts übermittelt.
 
@@ -255,7 +261,7 @@ Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung un
 
 # § 9 – Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) oder für eine variantenspezifische PCR-Testung
 
-Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für eine variantenspezifische PCR-Testung einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung 43,56 Euro. Pro Einzelfall beträgt die Vergütung höchstens 82,96 Euro.
+Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für eine variantenspezifische PCR-Testung einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung 43,56 Euro. Pro Einzelfall beträgt die Vergütung höchstens 82,96 Euro. Die an die Leistungserbringer nach § 6 Absatz 1 Nummer 1 und 3 zu zahlende Vergütung für Leistungen der Diagnostik des Coronavirus SARS-CoV-2 mittels eines PoC-NAT-Testsystems beträgt je Testung 30 Euro.
 
 # § 10 – Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
 
