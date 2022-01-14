@@ -155,7 +155,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (6) In Arbeitsgemeinschaften nach § 21 sowie in Lehr- und Informationsveranstaltungen nach § 26 werden keine Beurteilungen erstellt.
 
-(+++ § 10 Abs. 2 Nr. 1 : Zur Anwendung vgl. § 76 Abs. 3 +++)
+(+++ § 10 Abs. 2 Nr. 1 : Zur Anwendung vgl. § 76 Abs. 3 F 2017-09-22 +++)
 
 # § 11 – Urlaub und Krankheit
 
@@ -334,7 +334,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (5) Für die Rücknahme der Zulassung zum zweiten und dritten Ausbildungsabschnitt gilt § 4 Absatz 1 entsprechend.
 
-(+++ § 22 Abs. 3 Nr. 1: Zur Anwendung vgl. § 76 Abs. 5 +++)
+(+++ § 22 Abs. 3 Nr. 1: Zur Anwendung vgl. § 76 Abs. 5 F 2017-09-22 +++)
 
 # § 23 – Verschwiegenheitspflicht und Zugang zu Akten
 
@@ -388,7 +388,7 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (4) Die Präsidentin oder der Präsident des Bundespatentgerichts hat dem Deutschen Patent- und Markenamt spätestens zwei Wochen vor dem Ende des dritten Ausbildungsabschnitts schriftlich mitzuteilen, welche Bewerberinnen und Bewerber das Ausbildungsziel erreicht haben.
 
-(+++ § 28 Abs. 1 u. 3: Zur Anwendung vgl. § 76 Abs. 6 +++)
+(+++ § 28 Abs. 1 u. 3: Zur Anwendung vgl. § 76 Abs. 6 F 2017-09-22 +++)
 
 # § 29 – Verlängerung der Ausbildung
 
@@ -509,7 +509,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 (5) Die Festsetzung und Auszahlung der Entschädigung und des Auslagenersatzes erfolgt durch das Deutsche Patent- und Markenamt.
 
 (+++ § 34: Zur Anwendung vgl. § 75 Abs. 1 +++)  
-(+++ § 34 Abs. 4 Satz 2 u.3: Zur Anwendung vgl. § 77 Abs. 4 +++)
+(+++ § 34 Abs. 4 Satz 2 u. 3: Zur Anwendung vgl. § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 35 – Prüfungstermine und Prüfungstage
 
@@ -563,7 +563,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (3) Die mündliche Prüfung findet als Gruppenprüfung statt, wobei für jeden Prüfling eine Prüfungsdauer von etwa 45 Minuten vorzusehen ist.
 
-(+++ § 39: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
+(+++ § 39: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)  
 (+++ § 39 Abs. 2 Satz 2: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
 # § 40 – Gegenstände der Prüfung
@@ -592,7 +592,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 7. Berufsrecht der Patentanwälte.
 
-(+++ § 40: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
+(+++ § 40: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 41 – Hilfsmittel und Nachteilsausgleich
 
@@ -661,7 +661,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 
 (8) Hat ein Prüfling eine Klausur oder die mündliche Prüfung in einem Zustand der Prüfungsunfähigkeit abgelegt und seine Prüfungsunfähigkeit unmittelbar im Anschluss an die Abgabe der Klausur oder die Ablegung der mündlichen Prüfung gegenüber der Aufsichtsperson beziehungsweise der oder dem Vorsitzenden des Prüfungsausschusses geltend gemacht, gelten Absatz 3 Satz 2 und 3 und die Absätze 4 bis 7 entsprechend.
 
-(+++ § 43: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1, § 77 Abs. 4 +++)  
+(+++ § 43: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1, § 77 Abs. 4 F 2017-09-22 +++)  
 (+++ § 43 Abs. 1: Zur Anwendung vgl. § 44 Abs. 3 +++)  
 (+++ § 43 Abs. 5 bis 7: Zur Anwendung vgl. § 44 Abs. 3 +++)
 
@@ -681,7 +681,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 
 (3) Hinsichtlich der Folgen eines Ausschlusses gilt im Fall des Absatzes 1 Nummer 1 § 43 Absatz 1 und im Fall des Absatzes 1 Nummer 2 § 43 Absatz 5 bis 7 entsprechend.
 
-(+++ § 44: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1, § 77 Abs. 4 +++)
+(+++ § 44: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1, § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 45 – Täuschungsversuch und Ordnungsverstoß
 
@@ -706,7 +706,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 (5) Die Absätze 1 bis 3 gelten für die mündliche Prüfung entsprechend. Die Entscheidungen trifft der Prüfungsausschuss.
 
 (+++ § 45: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)  
-(+++ § 45 Abs. 1 Satz 1 u. Abs. 3: Zur Anwendung vgl. § 77 Abs. 5 +++)
+(+++ § 45 Abs. 1 Satz 1 u. Abs. 3: Zur Anwendung vgl. § 77 Abs. 5 F 2017-09-22 +++)
 
 # § 46 – Bewertung der Prüfungsleistungen
 
@@ -736,7 +736,7 @@ Leistung</td><td style="text-align: right;"><br />
 = 1 bis 3 Punkte</td></tr><tr class="odd"><td style="text-align: left;">ungenügend</td><td style="text-align: left;">eine völlig unbrauchbare Leistung</td><td style="text-align: right;"><br />
 = 0 Punkte.</td></tr></tbody></table>
 
-(+++ § 46: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
+(+++ § 46: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 47 – Prüfungsausschuss
 
@@ -760,7 +760,7 @@ Für den Fall, dass ein Mitglied des Prüfungsausschusses durch Krankheit oder e
 
 (5) Der Prüfungsausschuss trifft seine Entscheidungen mit Stimmenmehrheit. § 50 Absatz 4 bleibt unberührt. Im Fall des § 51 Absatz 2 ist erforderlichenfalls § 196 Absatz 2 des Gerichtsverfassungsgesetzes entsprechend anzuwenden. Eine Stimmenthaltung ist nicht zulässig.
 
-(+++ § 47: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
+(+++ § 47: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)  
 (+++ § 47 Abs. 1 Satz 2 u. 3, Abs. 2 Satz 2, Abs. 3 u. 4: Zur Anwendung vgl. § 69 Abs. 2 +++)
 
 # § 48 – Schriftliche Prüfung
@@ -807,7 +807,7 @@ e) besondere Vorkommnisse.
 
 (5) Die End- und Einzelbewertungen der Klausuren sind dem Prüfling spätestens mit der Ladung zur mündlichen Prüfung oder im Bescheid über das Nichtbestehen der Prüfung schriftlich bekanntzugeben.
 
-(+++ § 49: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
+(+++ § 49: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)  
 (+++ § 49 Abs. 5: Zur Anwendung vgl. § 71 +++)
 
 # § 50 – Mündliche Prüfung
@@ -822,7 +822,7 @@ e) besondere Vorkommnisse.
 
 (5) Ein Prüfling hat die mündliche Prüfung bestanden, wenn er als Endbewertung zumindest 3,50 Punkte erzielt hat. Anderenfalls hat er die Prüfung insgesamt nicht bestanden.
 
-(+++ § 50: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
+(+++ § 50: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)  
 (+++ § 50 Abs. 1 bis 3: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
 # § 51 – Gesamtpunktzahl und Prüfungsgesamtnote
@@ -845,7 +845,7 @@ e) besondere Vorkommnisse.
 
 (4) Ein Prüfling, dessen Gesamtpunktzahl unter 4,00 liegt, hat die Prüfung nicht bestanden.
 
-(+++ § 51: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
+(+++ § 51: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 52 – Niederschrift und Bekanntgabe
 
@@ -877,7 +877,7 @@ e) besondere Vorkommnisse.
 
 (4) Wer die Prüfung nicht bestanden hat, erhält darüber einen schriftlichen Bescheid der oder des Vorsitzenden des Prüfungsausschusses. Eine Beschränkung nach § 54 Absatz 2 und eine Entscheidung nach § 54 Absatz 3 Satz 3 sind in den Bescheid aufzunehmen.
 
-(+++ § 52: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
+(+++ § 52: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 F 2017-09-22 +++)
 
 # § 53 – Mängel im Prüfungsverfahren
 
@@ -911,7 +911,7 @@ e) besondere Vorkommnisse.
 
 (5) Für die Wiederholungsprüfung gelten im Übrigen die §§ 37 bis 53 entsprechend mit der Maßgabe, dass sich im Fall des Absatzes 2 die Prüfungsgebühr auf die Hälfte ermäßigt.
 
-(+++ § 54: Zur Anwendung vgl. § 77 Abs. 6 +++)  
+(+++ § 54: Zur Anwendung vgl. § 77 Abs. 6 F 2017-09-22 +++)  
 (+++ § 54 Abs. 2 u. 5: Zur Anwendung vgl. § 55 Abs. 4 +++)
 
 # § 55 – Zweite Wiederholungsprüfung
@@ -926,7 +926,7 @@ e) besondere Vorkommnisse.
 
 (5) Die oder der Vorsitzende der Prüfungskommission soll nach Anhörung des Prüflings eine Frist bestimmen, innerhalb der die zweite Wiederholungsprüfung abzulegen ist. Die Frist soll nicht mehr als 13 Monate betragen. Eine Fristbestimmung ist in den Bescheid nach § 52 Absatz 4 Satz 1 aufzunehmen.
 
-(+++ § 55: Zur Anwendung vgl. § 77 Abs. 6 +++)  
+(+++ § 55: Zur Anwendung vgl. § 77 Abs. 6 F 2017-09-22 +++)  
 (+++ § 55 Abs. 2 Satz 2, Abs. 3 u. 5: Zur Anwendung vgl. § 74 Abs. 1 +++)
 
 # § 56 – Aufbewahrungsfrist und Akteneinsicht
@@ -1098,7 +1098,7 @@ Für die Bestimmung und Veröffentlichung der Prüfungstermine und der Prüfungs
 
 (3) Der Prüfungsausschuss trifft seine Entscheidungen mit Stimmenmehrheit. § 71 Satz 1 bleibt unberührt. Eine Stimmenthaltung ist nicht zulässig.
 
-(+++ § 69: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
+(+++ § 69: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 F 2017-09-22 +++)
 
 # § 70 – Prüfungsteile und Bewertungsmaßstab
 
@@ -1108,13 +1108,13 @@ Für die Bestimmung und Veröffentlichung der Prüfungstermine und der Prüfungs
 
 (3) Die Klausuren und die mündliche Prüfung sind dahingehend zu beurteilen, ob der Prüfling über die nach § 3 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland erforderlichen Kenntnisse verfügt.
 
-(+++ § 70: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
+(+++ § 70: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 F 2017-09-22 +++)
 
 # § 71 – Bewertung der Klausuren
 
 Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und unabhängig voneinander bewertet. Für die Bekanntgabe der Bewertungen gilt § 49 Absatz 5 entsprechend.
 
-(+++ § 71: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
+(+++ § 71: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 F 2017-09-22 +++)
 
 # § 72 – Beratung, Niederschrift und Bekanntgabe
 
@@ -1140,7 +1140,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (5) Wer die Eignungsprüfung nicht bestanden hat, erhält darüber einen schriftlichen Bescheid der oder des Vorsitzenden des Prüfungsausschusses. Eine Beschränkung nach § 73 Absatz 2 ist in den Bescheid aufzunehmen.
 
-(+++ § 72: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
+(+++ § 72: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 F 2017-09-22 +++)
 
 # § 73 – Erste Wiederholung
 
@@ -1148,7 +1148,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (2) Hat ein Prüfling in jeder Klausur nach der Bewertung aller Prüfer die nach § 3 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland erforderlichen Kenntnisse nachgewiesen, so kann der Prüfungsausschuss die Wiederholung auf den mündlichen Teil der Eignungsprüfung beschränken. Diese Beschränkung gilt nur, wenn die Wiederholung des mündlichen Teils innerhalb von 13 Monaten nach der Bekanntgabe des Nichtbestehens der Eignungsprüfung erfolgt.
 
-(+++ § 73: Zur Anwendung vgl. § 79 Abs. 2 +++)  
+(+++ § 73: Zur Anwendung vgl. § 79 Abs. 2 F 2017-09-22 +++)  
 (+++ § 73 Abs. 2: Zur Anwendung vgl. § 74 Abs. 2 +++)
 
 # § 74 – Zweite Wiederholung
@@ -1157,7 +1157,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (2) Für die Möglichkeit der Beschränkung der zweiten Wiederholung der Eignungsprüfung gilt § 73 Absatz 2 entsprechend.
 
-(+++ § 74: Zur Anwendung vgl. § 79 Abs. 2 +++)
+(+++ § 74: Zur Anwendung vgl. § 79 Abs. 2 F 2017-09-22 +++)
 
 # § 75 – Geltung weiterer Vorschriften
 
@@ -1165,8 +1165,8 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (2) Für Wiederholungen von Eignungsprüfungen gelten Absatz 1 und die §§ 69 bis 72 entsprechend mit der Maßgabe, dass sich im Fall des § 73 Absatz 2 die Prüfungsgebühr auf die Hälfte ermäßigt.
 
-(+++ § 75 Abs. 1: Zur Anwendung vgl. § 79 Abs. 1 +++)  
-(+++ § 75 Abs. 2: Zur Anwendung vgl. § 79 Abs. 2 +++)
+(+++ § 75 Abs. 1: Zur Anwendung vgl. § 79 Abs. 1 F 2017-09-22 +++)  
+(+++ § 75 Abs. 2: Zur Anwendung vgl. § 79 Abs. 2 F 2017-09-22 +++)
 
 # § 76 – Übergangsbestimmungen zu Teil 1
 
