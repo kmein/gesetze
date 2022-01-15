@@ -171,12 +171,6 @@ Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere da
 
 (4) Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 2 Bericht. Absatz 3 Satz 3 bis 5 gilt entsprechend. Die Länder übermitteln dem Bundesministerium für Gesundheit auf Anforderung die für die Erstellung des Berichts erforderlichen Ergebnisse ihrer Auswertungen nach Absatz 3.
 
-# § 9
-
-Die Ausbildung dauert drei Jahre und besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte Schulen vermittelt und schließt mit der staatlichen Prüfung ab. Schulen, die nicht an einem Krankenhaus eingerichtet sind, haben die praktische Ausbildung im Rahmen einer Regelung mit Krankenhäusern oder anderen geeigneten medizinischen Einrichtungen sicherzustellen.
-
-(2) bis (4) (weggefallen)
-
 # § 10
 
 Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
