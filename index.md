@@ -5902,6 +5902,7 @@
 - [VKFVÄndBek 2019](laws/VKFVÄndBek_2019.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2020](laws/VKFVÄndBek_2020.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2021](laws/VKFVÄndBek_2021.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
+- [VKFVÄndBek 2022](laws/VKFVÄndBek_2022.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKVV](laws/VKVV.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
 - [VMordKonv](laws/VMordKonv.md) Konvention über die Verhütung und Bestrafung des Völkermordes
 - [VNTerrorÜbk](laws/VNTerrorÜbk.md) Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
