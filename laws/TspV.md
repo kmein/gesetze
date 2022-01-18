@@ -30,30 +30,39 @@ Diese Verordnung regelt auf der Edertalsperre und der Diemeltalsperre
 
 # § 2 – Begriffsbestimmungen und anzuwendende Vorschriften
 
-(1) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist, bedeuten  
-  
+(1) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist, bedeuten:
 
-1. Binnenschifffahrtsstraßen-Ordnung:  
-Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2), die zuletzt durch Artikel 2 § 9 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
+1. Binnenschifffahrtsstraßen-Ordnung:
 
-2. Sportbootführerscheinverordnung-Binnen: Sportbootführerscheinverordnung-Binnen vom 22. März 1989 (BGBl. I S. 536, 1102), die zuletzt durch Artikel 1 der Verordnung vom 2. Oktober 2012 (BGBl. I S. 2102) geändert worden ist, in der jeweils geltenden Fassung,
+Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2, 1666), die zuletzt durch Artikel 2 der Verordnung vom 22. September 2021 (BGBl. I S. 4371) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
-3. Binnenschifffahrt-Sportbootvermietungsverordnung: Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000, die zuletzt durch Artikel 2 § 6 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung,
+2. Sportbootführerscheinverordnung:
 
-4. Binnenschifferpatentverordnung:  
-Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 10 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
+Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 11 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden Fassung,
 
-5. Binnenschifffahrt-Kennzeichnungsverordnung:  
-Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 3 der Verordnung vom 2. Oktober 2012 (BGBl. I S. 2102) geändert worden ist, in der jeweils geltenden Fassung,
+3. Binnenschifffahrt-Sportbootvermietungsverordnung:
 
-6. Binnenschiffsuntersuchungsordnung:  
-die Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
+Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 130 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
-7. Fährenbetriebsverordnung:  
-Fährenbetriebsverordnung vom 24. Mai 1995 (BGBl. I S. 752), die zuletzt durch Artikel 2 § 5 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung
+4. Binnenschiffspersonalverordnung:
 
-8. Wasserskiverordnung:  
-die Wasserskiverordnung vom 17. Januar 1990 (BGBl. I S. 107, die zuletzt durch Artikel 9 der Verordnung vom 20. Januar 2006 (BGBl. I S. 220) geändert worden ist, in der jeweils geltenden Fassung.
+Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung,
+
+5. Binnenschifffahrt-Kennzeichnungsverordnung:
+
+Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 2 § 4 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, in der jeweils geltenden Fassung,
+
+6. Binnenschiffsuntersuchungsordnung:
+
+Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
+
+7. Fährenbetriebsverordnung:
+
+Fährenbetriebsverordnung vom 24. Mai 1995 (BGBl. I S. 752), die zuletzt durch Artikel 2 § 5 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, in der jeweils geltenden Fassung,
+
+8. Wasserskiverordnung:
+
+Wasserskiverordnung vom 17. Januar 1990 (BGBl. I S. 107), die zuletzt durch Artikel 36 der Verordnung vom 2. Juni 2016 (BGBl. S. 1257) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Es gelten die Begriffsbestimmungen des § 1.01 der Binnenschifffahrtsstraßen-Ordnung, soweit in Satz 2 nichts anderes bestimmt ist. Im Sinne dieser Verordnung sind ferner
 
@@ -118,7 +127,7 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 (1) Jedes Fahrzeug muss unter der Führung einer hierfür geeigneten Person stehen (Schiffsführer). Der Schiffsführer muss nicht gleichzeitig der Rudergänger sein.
 
-(2) Ein Schiffsführer ist geeignet, wenn er körperlich und geistig in der Lage ist, das Fahrzeug zu führen und die notwendigen Kenntnisse und Fähigkeiten zur Bedienung des Fahrzeugs besitzt. Der Schiffsführer auf einem Fahrzeug mit Antriebsmaschine muss mindestens 16 Jahre alt sein. Bei einem Minderjährigen hat sich der Erziehungsberechtigte von seiner Eignung als Schiffsführer zu überzeugen, soweit der Minderjährige nicht über die nach der Sportbootführerscheinverordnung-Binnen erforderliche Fahrerlaubnis verfügt.
+(2) Ein Schiffsführer ist geeignet, wenn er körperlich und geistig in der Lage ist, das Fahrzeug zu führen und die notwendigen Kenntnisse und Fähigkeiten zur Bedienung des Fahrzeugs besitzt. Der Schiffsführer auf einem Fahrzeug mit Antriebsmaschine muss mindestens 16 Jahre alt sein. Bei einem Minderjährigen hat sich der Erziehungsberechtigte von seiner Eignung als Schiffsführer zu überzeugen, soweit der Minderjährige nicht über die nach der Sportbootführerscheinverordnung erforderliche Fahrerlaubnis mit dem Geltungsbereich Binnenschifffahrtsstraßen verfügt.
 
 (3) Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei einer Menge von 0,25 mg/1 oder mehr Alkohol in der Atemluft oder bei 0,5 Promille oder mehr Alkohol im Blut oder einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, ist es dem Schiffsführer verboten, das Fahrzeug zu führen.
 
@@ -126,13 +135,11 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 (5) Abweichend von Absatz 2 Satz 2 und Absatz 4 gilt die dort festgelegte Altersgrenze nicht auf Mietbooten mit Elektromotor.
 
-(6) Abweichend von § 7 Absatz 1 der Binnenschifferpatentverordnung ist zum Führen  
+(6) Abweichend von § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 oder 4, der Binnenschiffspersonalverordnung ist zum Führen
 
-1. eines Fahrgastschiffs eine Fahrerlaubnis der Klasse C2 der Binnenschifferpatentverordnung,
+1. eines Fahrgastschiffs ein Kleinschifferzeugnis,
 
-2. einer Fähre eine Fahrerlaubnis für Sportboote mit Antriebsmaschine nach der Sportbootführerscheinverordnung-Binnen
-
-ausreichend.
+2. einer Fähre eine Fahrerlaubnis für Sportboote mit Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung ausreichend.
 
 # § 6 – Kennzeichnung der Fahrzeuge
 
@@ -491,7 +498,9 @@ b) der Rudergänger eines Fahrzeugs mit Antriebsmaschine mindestens 16 Jahre alt
 
 # § 25 – Übergangsbestimmungen
 
-Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse, Genehmigungen, Ausnahmebewilligungen und Befähigungsnachweise gelten bis zum Ablauf ihrer Gültigkeit weiter.
+(1) Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse, Genehmigungen, Ausnahmebewilligungen und Befähigungsnachweise gelten bis zum Ablauf ihrer Gültigkeit weiter.
+
+(2) § 5 Absatz 6 Nummer 1 ist bis zum Ablauf des 17. Januar 2022 in der am 6. Dezember 2021 geltenden Fassung weiter anzuwenden. Fahrgastschiffe können mit einer vor dem 18. Januar 2022 erteilten Fahrerlaubnis der Klasse C2 der Binnenschifferpatentverordnung geführt werden, bis das auf der Patentkarte vermerkte Ungültigkeitsdatum erreicht ist.
 
 # § 26 – Inkrafttreten und Außerkrafttreten
 

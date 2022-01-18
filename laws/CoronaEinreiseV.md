@@ -45,7 +45,7 @@ Im Sinne dieser Verordnung ist:
 
  1. Einreise
 
-Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland,
+Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder Luftweg aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland,
 
  2. Einreiseportal
 
@@ -91,7 +91,13 @@ eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenen
 
  8. Genesenennachweis
 
-ein Nachweis hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt,
+ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn der Nachweis den vom Robert Koch-Institut im Internet unter der Adresse www.rki.de/covid-19-genesenennachweis unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entspricht:
+
+a) Art der Testung zum Nachweis der vorherigen Infektion,
+
+b) Zeit, die nach der Testung zum Nachweis der vorherigen Infektion vergangen sein muss, oder Nachweis zur Aufhebung der aufgrund der vorherigen Infektion erfolgten Absonderung,
+
+c) Zeit, die die Testung zum Nachweis der vorherigen Infektion höchstens zurückliegen darf,
 
  9. geimpfte Person
 
@@ -99,11 +105,21 @@ eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachw
 
 10. Impfnachweis
 
-ein Nachweis hinsichtlich des Vorliegens einer vollständigen Schutzimpfung gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Schutzimpfung mit einem oder mehreren vom Paul-Ehrlich-Institut im Internet unter der Adresse https://www.pei.de/impfstoffe/covid-19 genannten Impfstoffen erfolgt ist und
+ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrunde liegenden Schutzimpfungen den vom Paul-Ehrlich-Institut im Benehmen mit dem Robert Koch-Institut im Internet unter der Adresse www.pei.de/impfstoffe/covid-19 unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entsprechen:
 
-a) entweder aus einer vom Paul-Ehrlich-Institut im Internet unter der Adresse https://www.pei.de/impfstoffe/covid-19 veröffentlichten Anzahl von Impfstoffdosen, die für eine vollständige Schutzimpfung erforderlich ist, besteht und seit der letzten erforderlichen Einzelimpfung mindestens 14 Tage vergangen sind, oder
+a) verwendete Impfstoffe,
 
-b) bei einer genesenen Person aus einer verabreichten Impfstoffdosis besteht,
+b) für einen vollständigen Impfschutz erforderliche Anzahl an Einzelimpfungen,
+
+c) für einen weiterhin vollständigen Impfschutz erforderliche Auffrischimpfungen,
+
+d) Intervallzeiten,
+
+aa)  
+die nach einer Impfung für einen vollständigen Impfschutz abgewartet werden müssen und
+
+bb)  
+die höchstens zwischen Einzelimpfungen oder Auffrischimpfungen liegen dürfen,
 
 11. Grenzpendler
 
@@ -358,7 +374,7 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 10. Beförderungen von geimpften Personen, für die vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass ihre Beförderung im nationalen Interesse der Bundesrepublik Deutschland liegt.
 
-Das Vorliegen einer Ausnahme nach Satz 1 ist auf Verlangen des Beförderers oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde glaubhaft zu machen.
+Das Vorliegen einer Ausnahme nach Satz 1 ist auf Verlangen des Beförderers oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde glaubhaft zu machen. Satz 1 Nummer 1 gilt bei Beförderungen aus Mitgliedstaaten der Europäischen Union sowie aus dem Vereinigten Königreich Großbritannien und Nordirland mit der Maßgabe, dass Lebensgefährten nicht demselben Haushalt angehören müssen.
 
 (3) Geplante Beförderungen nach Absatz 2 Satz 1 Nummer 1 sind dem Bundespolizeipräsidium durch den Beförderer mindestens drei Tage vor der geplanten Einreise in die Bundesrepublik Deutschland anzuzeigen. Dies gilt nicht für Beförderungen im Rahmen des öffentlichen Personennahverkehrs.
 

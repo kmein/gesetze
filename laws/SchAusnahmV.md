@@ -35,15 +35,31 @@ Im Sinne dieser Verordnung ist
 
 2. eine geimpfte Person eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises ist,
 
-3. ein Impfnachweis ein Nachweis hinsichtlich des Vorliegens einer vollständigen Schutzimpfung gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Schutzimpfung mit einem oder mehreren vom Paul-Ehrlich-Institut im Internet unter der Adresse www.pei.de/impfstoffe/covid-19 genannten Impfstoffen erfolgt ist, und
+3. ein Impfnachweis ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrunde liegenden Schutzimpfungen den vom Paul-Ehrlich-Institut im Benehmen mit dem Robert Koch-Institut im Internet unter der Adresse www.pei.de/impfstoffe/covid-19 unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entsprechen:
 
-a) entweder aus einer vom Paul-Ehrlich-Institut im Internet unter der Adresse www.pei.de/impfstoffe/covid-19 veröffentlichten Anzahl von Impfstoffdosen, die für eine vollständige Schutzimpfung erforderlich ist, besteht und seit der letzten erforderlichen Einzelimpfung mindestens 14 Tage vergangen sind oder
+a) verwendete Impfstoffe,
 
-b) bei einer genesenen Person aus einer verabreichten Impfstoffdosis besteht,
+b) für einen vollständigen Impfschutz erforderliche Anzahl an Einzelimpfungen,
+
+c) für einen weiterhin vollständigen Impfschutz erforderliche Auffrischimpfungen,
+
+d) Intervallzeiten,
+
+aa)  
+die nach einer Impfung für einen vollständigen Impfschutz abgewartet werden müssen und
+
+bb)  
+die höchstens zwischen Einzelimpfungen oder Auffrischimpfungen liegen dürfen,
 
 4. eine genesene Person eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises ist,
 
-5. ein Genesenennachweis ein Nachweis hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt,
+5. ein Genesenennachweis ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn der Nachweis den vom Robert Koch-Institut im Internet unter der Adresse www.rki.de/covid-19-genesenennachweis unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entspricht:
+
+a) Art der Testung zum Nachweis der vorherigen Infektion,
+
+b) Zeit, die nach der Testung zum Nachweis der vorherigen Infektion vergangen sein muss, oder Nachweis zur Aufhebung der aufgrund der vorherigen Infektion erfolgten Absonderung,
+
+c) Zeit, die die Testung zum Nachweis der vorherigen Infektion höchstens zurückliegen darf,
 
 6. eine getestete Person eine asymptomatische Person, die
 
@@ -83,11 +99,11 @@ Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzge
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur Absonderung vorsieht, gilt diese Pflicht nicht für geimpfte Personen und genesene Personen.
 
-(2) Absatz 1 gilt nicht, wenn die Pflicht zur Absonderung besteht wegen
+(2) Absatz 1 gilt nicht, wenn
 
-1. des Kontakts zu einer Person, die mit einer Virusvariante des Coronavirus SARS-CoV-2 infiziert ist, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Virusvariante aufweisen oder
+1. nach den vom Robert Koch-Institut im Internet unter der Adresse www.rki.de/kontaktpersonenmanagement unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben eine Absonderung auch für bestimmte geimpfte Personen oder genesene Personen möglich ist, oder
 
-2. der Einreise aus einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung.
+2. die Einreise in die Bundesrepublik Deutschland nach Voraufenthalt in einem als Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung festgestellten Gebiet erfolgt.
 
 # § 7 – Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
 
