@@ -140,7 +140,7 @@
 
 (4) Der Arbeitgeber nimmt an den Sitzungen, die auf sein Verlangen anberaumt sind, und an den Sitzungen, zu denen er ausdrücklich eingeladen ist, teil.
 
-(5) Die Sitzungen des Sprecherausschusses finden in der Regel während der Arbeitszeit statt. Der Sprecherausschuß hat bei der Anberaumung von Sitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu nehmen. Der Arbeitgeber ist über den Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Sprecherausschusses sind nicht öffentlich; § 2 Abs. 2 bleibt unberührt.Die Sitzungen des Sprecherausschusses finden als Präsenzsitzung statt.
+(5) Die Sitzungen des Sprecherausschusses finden in der Regel während der Arbeitszeit statt. Der Sprecherausschuß hat bei der Anberaumung von Sitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu nehmen. Der Arbeitgeber ist über den Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Sprecherausschusses sind nicht öffentlich; § 2 Abs. 2 bleibt unberührt. Die Sitzungen des Sprecherausschusses finden als Präsenzsitzung statt.
 
 (6) Abweichend von Absatz 5 Satz 5 kann die Teilnahme an einer Sitzung des Sprecherausschusses mittels Video- und Telefonkonferenz erfolgen, wenn
 

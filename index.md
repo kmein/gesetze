@@ -820,8 +820,8 @@
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
-- [BinSchPatentV](laws/BinSchPatentV.md) Verordnung über Befähigungszeugnisse in der Binnenschiffahrt
 - [BinSchPatentV1998AbwV 5](laws/BinSchPatentV1998AbwV_5.md) Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
+- [BinSchPersBefähPrV](laws/BinSchPersBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung
 - [BinSchPersV](laws/BinSchPersV.md) Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
 - [BinSchSprFunkV](laws/BinSchSprFunkV.md) Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
@@ -4538,7 +4538,6 @@
 - [QVWSG](laws/QVWSG.md) Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken
 - [RAAG](laws/RAAG.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004
 - [RAAG 2006](laws/RAAG_2006.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2006
-- [RadarPatEVB](laws/RadarPatEVB.md) Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins
 - [RAG 1982](laws/RAG_1982.md) Rentenanpassungsgesetz 1982 (Artikel 1 des Gesetzes über die Anpassung der Renten der gesetzlichen Rentenversicherung im Jahr 1982)
 - [RAG 1983](laws/RAG_1983.md) Rentenanpassungsgesetz 1983 (Artikel 18 des Gesetzes zur Wiederbelebung der Wirtschaft und Beschäftigung und zur Entlastung des Bundeshaushalts - Haushaltsbegleitgesetz 1983)
 - [RAG 1984](laws/RAG_1984.md) Rentenanpassungsgesetz 1984 (Artikel 1 des Gesetzes über die Anpassung der Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen Unfallversicherung im Jahre 1984)
