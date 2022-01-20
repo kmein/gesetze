@@ -25,7 +25,7 @@ Im Sinne dieser Verordnung sind
 
 1. Wasserstraßen der Zonen 1 bis 4:
 
-die Bundeswasserstraßen nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung;
+die Bundeswasserstraßen nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung;
 
 2. Fahrzeuge:
 

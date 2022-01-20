@@ -113,7 +113,7 @@ In diesem Anhang gelten als:
 
 17. „Zulässige Gesamtmasse des schwersten Landfahrzeugs“ die Masse eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert werden kann;
 
-18. Abweichend von ES-TRIN sowie Anhang VIII gelten folgende Begriffsbestimmungen:
+18. Abweichend von ES-TRIN gelten folgende Begriffsbestimmungen:
 
 a) Statt „Schiffsattest“, „Unionszeugnis“ und „Binnenschiffszeugnis“ gilt „Fährzeugnis“.
 
@@ -121,7 +121,7 @@ b) Statt „„Länge in der Wasserlinie“ oder „L<sub>WL</sub>“ die in der
 
 # § 1.02 – Allgemeines
 
-1. Für Fähren sind der ES-TRIN sowie die Anhänge III bis VIII mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
+1. Für Fähren sind der ES-TRIN sowie die Anhänge III bis VII mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
 2. Kapitel 5 ES-TRIN gilt für Fähren mit Maschinenantrieb, der als Hauptantrieb benutzt wird.
 
@@ -180,7 +180,7 @@ ausreichend.
 a) aus ES-TRIN gelten nicht:
 
 aa)  
-Artikel 19.08 Nummer 4 bis 6 und Nummer 9,
+Artikel 19.08 Nummer 4 bis 6 sowie Nummer 9 und 10,
 
 bb)  
 Artikel 19.09 Nummer 1 Satz 1 und Nummer 11,
@@ -201,7 +201,7 @@ aa)
 Kapitel 3 sinngemäß,
 
 bb)  
-§ 8.08 Nummer 1 und 2, wobei eine Handlenzpumpe oder ein Schöpfgefäß ausreicht,
+Artikel 8.08 Nummer 1 und 2, wobei eine Handlenzpumpe oder ein Schöpfgefäß ausreicht,
 
 cc) Kapitel 10 bis 12 sinngemäß,
 
@@ -268,43 +268,92 @@ An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 
 
 # § 2.02 – Nachweis der Intakt- und Leckstabilität
 
-1. Der Antragsteller hat den Nachweis der hinreichenden Intaktstabilität durch eine Berechnung nach Artikel 19.03 Nummer 1 bis 6 ES-TRIN in Verbindung mit Anhang III §§ 1.02, 7.03 oder 10.08 in Abhängigkeit von der zu befahrenden Wasserstraße zu erbringen.
+1. Der Antragsteller muss durch eine Berechnung nachweisen, dass die Intaktstabilität der Fähre angemessen ist. Die Berechnung muss nach Artikel 19.03 Nummer 1, 3 bis 6 ES-TRIN durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden und die Anforderungen der Artikel 19.04, 19.05 ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, § 7.03 oder § 10.08 erfüllen.
 
 2. Bei Fähren in Pontonform können dabei die Koordinaten des Gewichtsschwerpunktes durch eine Gewichtsberechnung ermittelt werden. Ein Krängungsversuch ist dann nicht erforderlich.
 
-3. In der Berechnung sind für Personen, Landfahrzeuge und Großvieh folgende Maßannahmen zu verwenden:
+3. In der Berechnung sind für Personen, Landfahrzeuge und Großvieh mindestens folgende Last- und Maßannahmen zu verwenden:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 36%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 21%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nutzlast</th><th style="text-align: center;">mittlere Höhe<br />
-der Ladung über Deck<br />
- <br />
- <br />
-m</th><th style="text-align: center;">mittlere Höhe des<br />
-Massenschwerpunktes<br />
-über Deck<br />
- <br />
-m</th><th style="text-align: center;">mittlere Höhe<br />
-des Schwerpunktes<br />
-der Windangriffsfläche<br />
-der Ladung über Deck<br />
-m</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Personen</td><td style="text-align: center;">1,7</td><td style="text-align: center;">1,0</td><td style="text-align: center;">0,85</td></tr><tr class="even"><td style="text-align: left;">Lastkraftwagen mit Ladung</td><td style="text-align: center;">2,5</td><td style="text-align: center;">1,6</td><td style="text-align: center;">1,25</td></tr><tr class="odd"><td style="text-align: left;">Personenkraftwagen ohne Personen</td><td style="text-align: center;">1,7</td><td style="text-align: center;">0,8</td><td style="text-align: center;">0,75</td></tr><tr class="even"><td style="text-align: left;">Großvieh</td><td style="text-align: center;">1,7</td><td style="text-align: center;">1,0</td><td style="text-align: center;">0,85</td></tr></tbody></table>
+Nutzlast<span id="FnR.FnA1-F819939_01"></span><a href="#FnA1-F819939_01" class="FnR">*</a></sup>
 
-Die mittlere Höhe des Gewichtsschwerpunktes der Ladung und des Schwerpunktes der Windangriffsfläche der Ladung ist auf den tiefsten Punkt des Fährdecks auf halber Länge der Fähre, bei nicht durchgehenden, höher gelegenen Decks auf die halbe Länge des betreffenden Decks, zu beziehen.
+<span id="FnA1-F819939_01"></span><a href="#FnR.FnA1-F819939_01" class="Footnote">*</a>  
+Die angegebenen Nutzlasten können entsprechend der tatsächlichen Beladung durch andere Nutzlasten erweitert werden.
 
-4. Die Berechnung der Intaktstabilität muss mindestens folgende Ladefälle erfassen:
+<span id="FnA1-F819939_02"></span><a href="#FnR.FnA1-F819939_02" class="Footnote">**</a>  
+Die angegebenen Werte sind Mittelwerte und können durch die tatsächliche Beladung z. B. mit größeren/kleineren Lastkraftwagen (einschließlich der Beladung z. B. mit Containern), Feuerwehrwagen, Tankwagen, Traktoren, Kränen, Anhängern ersetzt werden.
 
-a) Fähre ausschließlich mit Personen in ungünstigster Aufstellung beladen,
+Die mittlere Höhe des Gewichtsschwerpunktes der Ladung und des Schwerpunktes der Windangriffsfläche der Ladung ist auf den tiefsten Punkt des Fährdecks auf halber Länge der Fähre zu beziehen und bei nicht durchgehenden, höher gelegenen Decks auf die halbe Länge des betreffenden Decks zu beziehen.
 
-b) Fähre einseitig mit Landfahrzeugen in ungünstigster Aufstellung beladen, wobei der noch zur Verfügung stehende Platz der belasteten Seite, bis zur Fährmitte, mit kleineren Landfahrzeugen und Personen aufzufüllen ist,
+4\.
 
-c) Fähre ausschließlich mit Landfahrzeugen in ungünstigster Aufstellung beladen,
+Die Berechnung der Intaktstabilität muss abweichend von Artikel 19.03 Nummer 2 ES-TRIN mindestens folgende Ladefälle erfassen:
 
-d) Fähre mit dem schwersten Landfahrzeug nach § 1.01 Nummer 17 beladen,
+a) Fähre ausschließlich mit Personen beladen,
 
-e) Fähre bis an die Grenze der Tragfähigkeit beladen.
+aa)  
+maximale Anzahl der Personen in möglichst ungünstigsten Aufstellungen,
 
-Im Fall des Satzes 1 ist die Annahme einer Verschiebung der Landfahrzeuge höchstens bis zum Schrammbord ausreichend. Die Erfüllung der Voraussetzungen nach Nummer 1 muss für die Ladefälle nach den Buchstaben a bis e nachgewiesen sein. Die Generaldirektion Wasserstraßen und Schifffahrt kann entsprechende Nachweise für weitere Ladefälle verlangen.
+bb)  
+alle Tanks der Fähre zu 50 % gefüllt,
 
-5. Als Ergebnis der Berechnung sind festzulegen:
+b) Fähre einseitig jeweils nach Steuer- und nach Backbord beladen,
+
+aa)  
+mit Landfahrzeugen in möglichst ungünstigsten Aufstellungen bis zur Fährmitte, wobei der noch zur Verfügung stehende Platz der belasteten Seite mit kleineren Landfahrzeugen und mit Personen aufzufüllen ist,
+
+bb)  
+alle Tanks der Fähre zu 50 % gefüllt,
+
+c) Fähre ausschließlich mit Landfahrzeugen beladen,
+
+aa)  
+Landfahrzeuge in möglichst ungünstigsten Aufstellungen,
+
+bb)  
+alle Tanks der Fähre zu 50 % gefüllt,
+
+d) Fähre mit dem schwersten Landfahrzeug beladen,
+
+aa)  
+schwerstes Landfahrzeug nach § 1.01 Nummer 17 in mittiger Aufstellung auf dem Fährdeck,
+
+bb)  
+alle Tanks der Fähre zu 50 % gefüllt,
+
+e) Fähre bis an die Grenze der Tragfähigkeit beladen,
+
+aa)  
+maximale Anzahl der Personen,
+
+bb)  
+maximale Anzahl der Landfahrzeuge,
+
+cc) Treibstoff- und Frischwassertanks zu 98 % gefüllt,
+
+dd)  
+Abwassertank der Fähre zu 10 % gefüllt,
+
+f) Fähre leer,
+
+aa)  
+ohne Personen und ohne Landfahrzeuge,
+
+bb)  
+Treibstoff- und Frischwassertanks der Fähre zu 10 % gefüllt,
+
+cc) Vorratsräume und Abwassertanks leer.
+
+Im Fall des Satzes 1 Buchstabe b und c ist die Annahme einer Verschiebung der Landfahrzeuge höchstens bis zum Schrammbord ausreichend. Für die Erfüllung der Intaktstabilität nach Nummer 1 müssen die Ladefälle nach den Buchstaben a bis f nachgewiesen sein. Bei den vorgenannten Ladefällen ist bei Wagenfähren
+
+a) das Fährdeck rutschhemmend herzurichten, wenn der Krängungswinkel nach Artikel 19.03 Nummer 3 Buchstabe e ES-TRIN in den dort genannten Fällen den Grenzwinkel von 5,7° überschreitet, und
+
+b) im Lateralplan nach Artikel 19.03 Nummer 5 ES-TRIN die Beladung mit z. B. Lastkraftwagen oder Personenkraftwagen zu berücksichtigen.
+
+Die Generaldirektion Wasserstraßen und Schifffahrt kann für zusätzliche Ladefälle, die wegen des Baus oder wegen der Nutzung der Fähre geboten sind, weitere Berechnungen verlangen.
+
+5\.
+
+Als Ergebnis der Stabilitätsberechnung sind festzulegen:
 
 a) bei Belastung der Fähre ausschließlich mit Personen,
 
@@ -325,16 +374,27 @@ die Tragfähigkeit in Tonnen (t),
 cc) das zulässige Gesamtgewicht eines von mehreren Landfahrzeugen in Tonnen (t),
 
 dd)  
-das zulässige Gesamtgewicht des schwersten und einzigen Landfahrzeugs in Tonnen (t),
+das zulässige Gesamtgewicht des schwersten und einzigen Landfahrzeugs in Tonnen (t).
 
-ee)  
-die zulässige Achslast einer Einzelachse und einer Doppelachse von Landfahrzeugen in Tonnen (t).
+6\.
 
-6. Der Antragsteller hat den Nachweis der hinreichenden Leckstabilität durch eine Berechnung nach Artikel 19.03 Nummer 7 bis 13 ES-TRIN in Verbindung mit Anhang III §§ 1.02, 7.03 oder 10.08 sowie Anhang IV § 4.03 in Abhängigkeit von der zu befahrenden Wasserstraße zu erbringen. Dabei darf der B/3 Abstand auf B/5 Abstand vermindert werden. Für Fähren, die für die Beförderung von mehr als 50 aber weniger als 100 Fahrgästen zugelassen sind und deren L<sub>WL</sub> 25 m nicht überschreitet, gilt Artikel 19.15 Nummer 1 ES-TRIN entsprechend.
+Der Antragsteller muss durch eine Berechnung nachweisen, dass die Leckstabilität der Fähre angemessen ist. Die Berechnung muss nach Artikel 19.03 Nummer 7, 9 bis 13 ES-TRIN durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden und die Anforderungen der Artikel 19.04, 19.05 ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, § 7.03 oder § 10.08 sowie Anhang IV § 4.03 erfüllen. Hierbei
 
-7. Während der Fahrt und bei Be- und Entladen der Fähre darf der nach Artikel 19.03 Nummer 2 und 3 ES-TRIN zulässige Krängungswinkel nicht überschritten und der für die jeweilige Zone zulässige Restfreibord nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
+a) müssen abweichend vom Artikel 19.03 Nummer 8 Satz 1 ES-TRIN die Ladefälle nach Nummer 4 nachgewiesen werden,
 
-8. Für Personenfähren für die Beförderung von bis zu 12 Fahrgästen, deren Länge 15 m nicht überschreitet, müssen im symmetrisch gefluteten Zustand folgende Kriterien durch eine Berechnung nachgewiesen werden:
+b) müssen die Fähren den 1-Abteilungsstatus nach Artikel 19.03 Nummer 9 ES-TRIN nicht einhalten, wenn der 2-Abteilungsstatus eingehalten wird,
+
+c) darf der B/3 Abstand nach Artikel 19.03 Nummer 9 Buchstabe a ES-TRIN auf B/5 Abstand vermindert werden.
+
+Für Fähren, die für die Beförderung von mehr als 50 und weniger als 100 Fahrgästen zugelassen sind und deren L<sub>WL</sub> 25 m nicht überschreitet, gilt Artikel 19.15 Nummer 1 ES-TRIN entsprechend.
+
+7\.
+
+Während der Fahrt und beim Be- und Entladen der Fähre darf der nach Artikel 19.03 Nummer 2 und 3 ES-TRIN zulässige Krängungswinkel nicht überschritten und der für die jeweilige Zone zulässige Restfreibord nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
+
+8\.
+
+Für Personenfähren für die Beförderung von bis zu 12 Fahrgästen, deren Länge 15 m nicht überschreitet, müssen im symmetrisch gefluteten Zustand folgende Kriterien durch eine Berechnung nachgewiesen werden:
 
 a) die Fähre darf maximal bis zur Tauchgrenze eintauchen und
 
@@ -354,7 +414,9 @@ e) eine Kombination aus den genannten Möglichkeiten nach Buchstabe a bis d
 
 zu gewährleisten.
 
-9. Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die:
+9\.
+
+Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die:
 
 a) Intaktstabilität;
 
@@ -370,7 +432,11 @@ Artikel 4.04 ES-TRIN ist anzuwenden; jedoch müssen mindestens zwei Einsenkungsm
 
 # § 2.04 – Festigkeit des Wagendecks
 
-Bei Wagenfähren muss ein Festigkeitsnachweis für die Belastung des Wagendecks mit den zulässigen Landfahrzeugen, die sich aus den Stabilitätsberechnungen ergeben, erbracht werden.
+Bei Wagenfähren muss der Antragsteller durch eine Berechnung nachweisen, dass die Festigkeit des Wagendecks in Bezug auf die Belastung angemessen ist. Für die Berechnung ist eine Belastung mit den zulässigen Landfahrzeugen, die sich aus den Stabilitätsberechnungen ergeben, zugrunde zu legen. Als Ergebnis der Festigkeitsberechnung ist festzulegen:
+
+a) die zulässige Achslast einer Einzelachse von Landfahrzeugen in Tonnen (t),
+
+b) die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen (t).
 
 # § 2.05 – Rettungsmittel
 
@@ -716,8 +782,8 @@ Die Vorschrift gilt nicht für Fähren, die schon in Betrieb sind, es sei denn, 
 
 Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der Gültigkeitsdauer des Fährzeugnisses erfüllt sein.
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und<br />
-Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">2.01 Nr. 4</td><td style="text-align: left;">Fährdecks</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td></tr><tr class="even"><td style="text-align: left;">2.02</td><td style="text-align: left;">Nachweis Intakt- und Leckstabilität</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td></tr><tr class="odd"><td style="text-align: left;">2.07 Nr. 1</td><td style="text-align: left;">Anforderungen an Absperrvorrichtungen</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="even"><td style="text-align: left;">3.02</td><td style="text-align: left;">Nachweis Intaktstabilität für Gierseilfähren</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td></tr><tr class="odd"><td style="text-align: left;">3.04 Nr. 3</td><td style="text-align: left;">Nachweis der ausreichenden Festigkeit durch Berechnung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td></tr><tr class="even"><td style="text-align: left;">3.05</td><td style="text-align: left;">Prüfung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="odd"><td style="text-align: left;">3.06</td><td style="text-align: left;">Prüfbedingungen</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="even"><td style="text-align: left;">3.07</td><td style="text-align: left;">Bescheinigung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr></tbody></table>
+§§ und  
+Nummer
 
 # § 5.01 – Allgemeines
 
@@ -769,13 +835,13 @@ Der rechnerische Nachweis der Schwimmfähigkeit im Leckfall muss für alle Perso
 
 # § 5.04 – Höchstzulässige Zahl der Fahrgäste
 
-1. Die sich aus der freien Decksfläche ergebende höchstzulässige Zahl der Fahrgäste ist bei Personenbarkassen nach Artikel 19.05 Nummer 2 Buchstabe b ES-TRIN in Verbindung mit Anhang III § 1.02 Buchstabe a, §§ 7.04 und 10.08 Nummer 2 in Abhängigkeit von der zu befahrenden Wasserstraße zu ermitteln.
+1. Die sich aus der freien Decksfläche ergebende höchstzulässige Zahl der Fahrgäste ist bei Personenbarkassen nach Artikel 19.05 Nummer 2 Buchstabe b ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, §§ 7.04 und 10.08 Nummer 2 in Abhängigkeit von der zu befahrenden Wasserstraße zu ermitteln.
 
 2. Die Untersuchungskommission kann mit der Festlegung der höchstzulässigen Zahl der Fahrgäste zusätzliche Auflagen, insbesondere im Hinblick auf Fahrtgrenzen, Wetterbedingungen und zeitliche Grenzen, verbinden. Diese Auflagen sind in die Fahrtauglichkeitsbescheinigung einzutragen.
 
 # § 5.05 – Freibord und Sicherheitsabstand
 
-Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Überprüfung des Sicherheitsabstandes und für die Festsetzung der Ebene der größten Einsenkung Artikel 19.03 Nummer 3 ES-TRIN in Verbindung mit Anhang III § 1.02 Buchstabe a, §§ 7.03 und 10.05 in Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
+Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Überprüfung des Sicherheitsabstandes und für die Festsetzung der Ebene der größten Einsenkung Artikel 19.04 ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, §§ 7.03 und 10.05 in Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
 # § 5.06 – Rettungsmittel
 
@@ -801,6 +867,8 @@ Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Übe
 
 2. Als Einrichtung zur Brandbekämpfung müssen insgesamt zwei tragbare Feuerlöscher, die den Anforderungen des Artikels 13.03 Nummer 2 ES-TRIN genügen, im Steuerstand und an einer anderen leicht zugänglichen Stelle vorhanden sein.
 
+3. Als Sicherheitseinrichtung und -ausrüstung muss sich ein Defibrillator nach den Anforderungen des Artikels 19.08 Nummer 10 ES-TRIN an einer leicht zugänglichen Stelle an Bord befinden.
+
 # § 6.01 – Übergangsbestimmungen für Barkassen, die schon in Betrieb sind
 
 Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
@@ -811,7 +879,8 @@ Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in
 Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und<br />
-Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">5.01 Nr. 1</td><td style="text-align: left;">Allgemeines</td><td style="text-align: left;">E.U.</td></tr></tbody></table>
+Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">5.01 Nr. 1</td><td style="text-align: left;">Allgemeines</td><td style="text-align: left;">E.U.</td></tr><tr class="even"><td style="text-align: left;">5.08 Nr. 3</td><td style="text-align: left;">automatisierter externer<br />
+Defibrillator</td><td style="text-align: left;">E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 01.01.2024</td></tr></tbody></table>
 
 # § 7.01 – Allgemeine Bestimmungen
 
@@ -896,7 +965,9 @@ b) gekennzeichnete feuerbeständige Behälter mit Deckel für Hausmüll und ölh
 
 c) zwei Schöpfgefäße (Eimer);
 
-d) Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN für insgesamt 100 Prozent der höchstzulässigen Zahl der Fahrgäste und der Besatzung, wobei für die Fahrgäste auch Feststoff- oder halbautomatisch aufblasbare Rettungswesten nach den in Artikel 13.08 Nummer 2 ES-TRIN genannten Normen zulässig sind.
+d) Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN für insgesamt 100 Prozent der höchstzulässigen Zahl der Fahrgäste und der Besatzung, wobei für die Fahrgäste auch Feststoff- oder halbautomatisch aufblasbare Rettungswesten nach den in Artikel 13.08 Nummer 2 ES-TRIN genannten Normen zulässig sind;
+
+e) ein automatisierter externer Defibrillator nach Artikel 19.08 Nummer 10 ES-TRIN, wenn das Fahrgastboot zur Beförderung von mehr als 12 Fahrgästen zugelassen ist.
 
 7. Bei einer Geschwindigkeit der Fahrgastboote von 40 km/h oder mehr haben die Fahrgäste und die Besatzung Rettungswesten anzulegen und der Schiffsführer seine Aufgaben im Steuerstand sitzend auszuüben.
 
@@ -910,7 +981,7 @@ Fahrgastboote nach den §§ 7.02 und 7.03, die gebaut und eingerichtet sind, um 
 
 2. Der einwandfreie Zustand der Takelage ist nach Artikel 20.19 ES-TRIN durch einen Sachverständigen zu prüfen und zu bescheinigen. Die Bescheinigung über die Prüfung ist an Bord mitzuführen.
 
-3. Eine von einem Sachverständigen erstellte Reffvorschrift ist an Bord mitzuführen.
+3. Es ist eine Reffvorschrift an Bord mitzuführen, die von einem geeigneten Sachverständigen einer Untersuchungskommission oder einem von der Generaldirektion für Wasserstraßen und Schifffahrt entsprechend § 8.01 Nummer 1 Satz 2 anerkannten Sachverständigen erstellt wurde.
 
 4. Ein Windmesser ist an Bord mitzuführen.
 
@@ -922,7 +993,23 @@ Soweit die Vorschriften dieses Kapitels nicht entgegenstehen, gelten die Artikel
 
 # § 7.06 – Übergangs- und Sonderbestimmungen
 
-Die §§ 7.02 und 7.04 gelten bis zum Ablauf des 6. Oktober 2033 nicht für Fahrzeuge für die Boddengewässer, die gebaut und eingerichtet sind, um auch durch Segel fortbewegt zu werden (Zeesboote), die schon in Betrieb sind. Auf diese Zeesboote ist die Binnenschiffsuntersuchungsordnung in der bis zum 6. Oktober 2018 geltenden Fassung anzuwenden.
+1. Die §§ 7.02 und 7.04 gelten bis zum Ablauf des 6. Oktober 2033 nicht für Zeesboote, die schon in Betrieb sind. Auf diese Zeesboote ist die Binnenschiffsuntersuchungsordnung in der bis zum 6. Oktober 2018 geltenden Fassung anzuwenden. Zeesboote sind Fahrzeuge für die Boddengewässer, die gebaut und eingerichtet sind, um auch durch Segel fortbewegt zu werden.
+
+2. Fahrgastboote, die den Vorschriften des Kapitels 7 nicht entsprechen, müssen entsprechend den in der nachstehenden Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der nachstehenden Tabelle bedeuten
+
+–  
+„N.E.U.“:
+
+Die Vorschrift gilt nicht für Fahrgastboote, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, das heißt die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.
+
+–  
+„Erteilung oder Erneuerung der Fahrtauglichkeitsbescheinigung“:
+
+Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der Gültigkeitsdauer der Fahrtauglichkeitsbescheinigung erfüllt sein.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 22%" /><col style="width: 28%" /><col style="width: 49%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">7.03 Nr. 6<br />
+Buchstabe e</td><td style="text-align: left;">Automatisierter externer<br />
+Defibrillator</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung</td></tr></tbody></table>
 
 # § 8.01 – Abweichungen hinsichtlich Zulassung
 

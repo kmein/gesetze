@@ -1066,9 +1066,7 @@ Die Artikel 25 bis 27 der Verordnung (EU) Nr. 1223/2009 des Europäischen Parlam
 
 (3) Widerspruch und Anfechtungsklage gegen Anordnungen, die der Durchführung von Verboten nach § 26 Satz 1 oder § 30 oder Geboten nach Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EU) Nr. 1223/2009 dienen, haben keine aufschiebende Wirkung.
 
-(4) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 1 oder 2 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung getroffen werden kann, anwendbar.
-
-§ 39a Abs. 4 Satz 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
+(4) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 1 und 2 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung getroffen werden kann, anwendbar.
 
 # § 40 – Information der Öffentlichkeit
 
@@ -1164,7 +1162,9 @@ sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder 
 
 a) die in Nummer 1 bezeichneten Grundstücke, Betriebsräume und Räume auch außerhalb der dort genannten Zeiten zu betreten,
 
-b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt;
+b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten;
+
+das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt;
 
 3. alle geschäftlichen Schrift- und Datenträger, insbesondere Aufzeichnungen, Frachtbriefe, Herstellungsbeschreibungen und Unterlagen über die bei der Herstellung verwendeten Stoffe, einzusehen und hieraus Abschriften, Auszüge, Ausdrucke oder sonstige Vervielfältigungen, auch von Datenträgern, anzufertigen oder Ausdrucke von elektronisch gespeicherten Daten zu verlangen sowie Mittel, Einrichtungen und Geräte zur Beförderung von Erzeugnissen oder lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
 
@@ -1213,8 +1213,6 @@ zur Verfügung. Die Angaben nach Satz 2 sind um die Proben, Isolate und Nachweis
 (6) Die Staatsanwaltschaft hat die nach § 38 Absatz 1 Satz 1 zuständige Behörde unverzüglich über die Einleitung des Strafverfahrens, soweit es sich auf Verstöße gegen Verbote und Beschränkungen dieses Gesetzes, der nach diesem Gesetz erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes bezieht, unter Angabe der Rechtsvorschriften zu unterrichten. Satz 1 gilt nicht, wenn das Verfahren aufgrund einer Abgabe der Verwaltungsbehörde nach § 41 Absatz 1 des Gesetzes über Ordnungswidrigkeiten eingeleitet worden ist. Eine Übermittlung personenbezogener Daten nach Satz 1 unterbleibt, wenn ihr besondere bundesgesetzliche oder entsprechende landesgesetzliche Verwendungsregelungen entgegenstehen; eine Übermittlung nach Satz 1 unterbleibt ferner in der Regel, solange und soweit ihr Zwecke des Strafverfahrens entgegenstehen.
 
 (7) Absatz 2 Nummer 1 gilt nicht für Wohnräume.
-
-§ 42 Abs. 2 Satz 1 Nr. 2 Buchst. b Kursivdruck: Die Textstruktur der Neufassung gem. Bek. v. 15.9.2021 I 4253 weicht von konstitutiver Fassung ab
 
 # § 43 – Probenahme
 
@@ -1398,15 +1396,23 @@ b) Name und Anschrift der Lieferanten und der Abnehmer der in Buchstabe a genann
 
 6. das Herstellen, das Behandeln oder das Inverkehrbringen von bestimmten Erzeugnissen von einer Anzeige abhängig zu machen sowie das Nähere über Art, Inhalt und Verfahren der Anzeige sowie des für die Anzeige Verantwortlichen zu regeln.
 
-In Rechtsverordnungen nach Satz 1 Nummer 6 kann bestimmt werden, dass
+In Rechtsverordnungen nach
+
+1. Satz 1 Nummer 1 Buchstabe a können Art, Form und Umfang der Buchführung und die Dauer der Aufbewahrung von Unterlagen,
+
+2. Satz 1 Nummer 1 Buchstabe b können Art, Form, Inhalt, Erteilung, Verwendung und Aufbewahrung von Begleitpapieren,
+
+3. Satz 1 Nummer 2 können
+
+a) Art, Form und Umfang der Nachweise und die Dauer ihrer Aufbewahrung,
+
+b) Art, Form und Umfang der Informationen und zu welchem Zeitpunkt und auf welche Art und Weise diese anderen Betrieben oder den zuständigen Behörden zur Verfügung zu stellen sind,
+
+näher geregelt werden. In Rechtsverordnungen nach Satz 1 Nummer 6 kann bestimmt werden, dass
 
 1. Unternehmen und Betriebe, die bestimmte Erzeugnisse herstellen, behandeln oder in den Verkehr bringen, anzuzeigen sind,
 
 2. die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
-
-In Rechtsverordnungen nach Satz 1 Nummer 4 kann bestimmt werden, dass die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
-
-§ 46 Abs. 2 Satz 2 u. 3 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 47 – Weitere Ermächtigungen
 

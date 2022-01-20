@@ -4009,7 +4009,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 1. die Nummer eines Kontos, das der Verpflichtung zur Legitimationsprüfung nach § 154 Absatz 2 Satz 1 der Abgabenordnung unterliegt, eines Depots oder eines Schließfachs sowie der Tag der Eröffnung und der Tag der Beendigung oder Auflösung,
 
-2. der Name, sowie bei natürlichen Personen der Tag der Geburt, des Inhabers und eines Verfügungsberechtigten sowie in den Fällen des § 10 Absatz 1 Nummer 2 des Geldwäschegesetzes der Name und, soweit erhoben, die Anschrift eines abweichend wirtschaftlich Berechtigten im Sinne des § 3 des Geldwäschegesetzes.
+2. der Vor- und Nachname, sowie bei natürlichen Personen der Tag der Geburt, des Inhabers und eines Verfügungsberechtigten sowie in den Fällen des § 10 Absatz 1 Nummer 2 des Geldwäschegesetzes der Vor- und Nachname und, soweit erhoben, die Anschrift eines abweichend wirtschaftlich Berechtigten im Sinne des § 3 des Geldwäschegesetzes.
 
 Bei jeder Änderung einer Angabe nach Satz 1 ist unverzüglich ein neuer Datensatz anzulegen. Die Daten sind nach Ablauf von zehn Jahren nach der Auflösung des Kontos oder Depots zu löschen. Im Falle des Satzes 2 ist der alte Datensatz nach Ablauf von drei Jahren nach Anlegung des neuen Datensatzes zu löschen. Das Kreditinstitut hat zu gewährleisten, dass die Bundesanstalt jederzeit Daten aus dem Dateisystem nach Satz 1 in einem von ihr bestimmten Verfahren automatisiert abrufen kann. Es hat durch technische und organisatorische Maßnahmen sicherzustellen, dass ihm Abrufe nicht zur Kenntnis gelangen.
 
@@ -4025,13 +4025,33 @@ Bei jeder Änderung einer Angabe nach Satz 1 ist unverzüglich ein neuer Datensa
 
 Die Bundesanstalt hat die in den Dateisystemen gespeicherten Daten im automatisierten Verfahren abzurufen und sie an die ersuchende Stelle weiter zu übermitteln. Die Bundesanstalt prüft die Zulässigkeit der Übermittlung nur, soweit hierzu besonderer Anlass besteht. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die ersuchende Stelle. Die Bundesanstalt darf zu den in Satz 1 genannten Zwecken ausländischen Stellen Auskunft aus dem Dateisystem nach Absatz 1 Satz 1 nach Maßgabe der allgemeinen datenschutzrechtlichen Vorschriften erteilen. § 9 Abs. 1 Satz 5, 6 und Abs. 2 gilt entsprechend. Die Regelungen über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
 
-(4) Die Bundesanstalt protokolliert für Zwecke der Datenschutzkontrolle durch die jeweils zuständige Stelle bei jedem Abruf den Zeitpunkt, die bei der Durchführung des Abrufs verwendeten Daten, die abgerufenen Daten, die Person, die den Abruf durchgeführt hat, das Aktenzeichen sowie bei Abrufen auf Ersuchen die ersuchende Stelle und deren Aktenzeichen. Eine Verwendung der Protokolldaten für andere Zwecke ist unzulässig. Die Protokolldaten sind mindestens 18 Monate aufzubewahren und spätestens nach zwei Jahren zu löschen.
+(3a) Die Bundesanstalt erteilt auf Ersuchen Auskunft aus den Dateisystemen nach Absatz 1 Satz 1
 
-(5) Das Kreditinstitut hat in seinem Verantwortungsbereich auf seine Kosten alle Vorkehrungen zu treffen, die für den automatisierten Abruf erforderlich sind. Dazu gehören auch, jeweils nach den Vorgaben der Bundesanstalt, die Anschaffung der zur Sicherstellung der Vertraulichkeit und des Schutzes vor unberechtigten Zugriffen erforderlichen Geräte, die Einrichtung eines geeigneten Telekommunikationsanschlusses und die Teilnahme an dem geschlossenen Benutzersystem sowie die laufende Bereitstellung dieser Vorkehrungen.
+1. an die inländischen benannten Behörden im Sinne des Artikel 3 Absatz 1 der Richtlinie (EU) 2019/1153 des Europäischen Parlamentes und des Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur Erleichterung der Nutzung von Finanz- und sonstigen Informationen für die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben bei der Verhütung oder Verfolgung schwerer Straftaten im Sinne des Anhangs I der Verordnung (EU) 2016/794 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI des Rates (ABl. L 135 vom 24.5.2016, S. 53) erforderlich ist oder zur Unterstützung einer strafrechtlichen Ermittlung im Zusammenhang mit einer schweren Straftat;
 
-(6) Das Kreditinstitut und die Bundesanstalt haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der abgerufenen und weiter übermittelten Daten gewährleisten. Den Stand der Technik stellt die Bundesanstalt im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik in einem von ihr bestimmten Verfahren fest.
+2. an das Bundeskriminalamt in seiner Funktion als nationale Stelle nach § 1 Nummer 1 des Europol-Gesetzes zum Zwecke der Weitergabe an Europol, soweit dies zur Erfüllung der Aufgaben von Europol gemäß Artikel 4 der Verordnung (EU) 2016/794 im Rahmen der Zuständigkeit von Europol im Einzelfall erforderlich ist.
 
-(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung Ausnahmen von der Verpflichtung zur Übermittlung im automatisierten Verfahren zulassen. Es kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+Die Bundesanstalt hat die Daten im automatisierten Verfahren abzurufen und sie unmittelbar an die ersuchende Stelle weiter zu übermitteln. Absatz 3 Sätze 4 und 6 gelten entsprechend.
+
+(4) Die Bundesanstalt protokolliert bei jedem Abruf
+
+1. das Aktenzeichen,
+
+2. Datum und Uhrzeit des Abrufs,
+
+3. die Art der bei der Durchführung des Abrufs verwendeten Daten,
+
+4. die eindeutige Kennung der Ergebnisse,
+
+5. die Person, die den Abruf durchgeführt hat.
+
+Bei jedem Abruf zum Zweck der Auskunftserteilung auf Ersuchen nach Absatz 3 protokolliert sie zudem die ersuchende Stelle und das Aktenzeichen der ersuchenden Stelle. Bei einem Abruf nach Absatz 3a durch eine inländische benannte Behörde im Sinne des Artikel 3 Absatz 1 Richtlinie (EU) 2019/1153 ist zudem die eindeutige Benutzerkennung derjenigen Person zu protokollieren, die das Ersuchen an die Bundesanstalt gerichtet hat und – sofern abweichend – die Benutzerkennung derjenigen Person, die Ergebnisse weiterübermittelt erhält. Die Protokolle dienen ausschließlich dem Zweck der Datenschutzkontrolle sowie der Sicherstellung der Datensicherheit. Sie werden von der oder dem Datenschutzbeauftragten der Bundesanstalt regelmäßig überprüft und auf Anforderung der oder dem Bundesbeauftragten für den Datenschutz und die Informationssicherheit zur Verfügung gestellt. Protokolle nach Satz 1 und 2 sind 18 Monate, Protokolle nach Satz 3 sind fünf Jahre zugriffsgeschützt aufzubewahren. Nach Ablauf der Aufbewahrungsfrist sind die Protokolle zu löschen, sofern sie nicht für laufende Kontrollverfahren erforderlich sind. Die Bundesanstalt stellt durch besondere Schulungsprogramme sicher, dass das eingesetzte Personal mit den geltenden Bestimmungen unter Einschluss insbesondere der europäischen und nationalen Datenschutzbestimmungen vertraut ist. Die Bundesanstalt führt eine Statistik über Zahl und Bearbeitung von Ersuchen nach Absatz 3a.
+
+(5) Das Kreditinstitut hat in seinem Verantwortungsbereich auf seine Kosten alle Vorkehrungen zu treffen, die für den automatisierten Abruf unter Sicherstellung des Datenschutzes und der Datensicherheit der Daten nach Absatz 1 Satz 1 nach dem jeweiligen Stand der Technik erforderlich sind. Dazu gehören auch, jeweils nach den Vorgaben der Bundesanstalt, die Anschaffung der zur Sicherstellung der Vertraulichkeit und des Schutzes vor unberechtigten Zugriffen erforderlichen Geräte, die Einrichtung eines geeigneten Telekommunikationsanschlusses und die Teilnahme an dem geschlossenen Benutzersystem sowie die laufende Bereitstellung dieser Vorkehrungen. Den Stand der Technik stellt die Bundesanstalt im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik in einem von ihr bestimmten Verfahren fest.
+
+(6) Die Bundesanstalt hat dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten nach Absatz 1 Satz 1 beim Abruf durch die Bundesanstalt gewährleisten. Die Bundesanstalt hat entsprechende Maßnahmen bei der Weiterübermittlung der Daten nach den Absätzen 3 und 3a zu treffen; diese Maßnahmen müssen im Falle von Ersuchen nach Absatz 3a bei den ersuchenden Behörden eine Zugangsbeschränkung auf einzelne Personen und deren eindeutige Benutzerkennung ermöglichender abgerufenen und weiter übermittelten Daten gewährleisten. Den Stand der Technik stellt die Bundesanstalt im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik in einem von ihr bestimmten Verfahren fest.
+
+(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung Näheres regeln zu den technischen Verfahren des automatisierten Abrufs sowie der Weiterübermittlung, zu Ausnahmen von der Verpflichtung zur Übermittlung im automatisierten Verfahren sowie zur Protokollierung der Abrufe und zur Statistik über Ersuchen. Es kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (8) Soweit die Deutsche Bundesbank Konten und Depots für Dritte führt, gilt sie als Kreditinstitut nach den Absätzen 1, 5 und 6.
 
@@ -4544,7 +4564,7 @@ Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die Überprüfung der
 
 # § 25l – Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften
 
-Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a als übergeordnetes Unternehmen gelten oder von der Bundesanstalt als solches bestimmt wurden, sind Verpflichtete nach § 2 Absatz 1 Nummer 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 50 Nummer 1 in Verbindung mit § 41 Absatz 1 des Geldwäschegesetzes.
+Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften mit Sitz im Inland, die über eine Zulassung nach § 2f Absatz 1 verfügen, sind Verpflichtete nach § 2 Absatz 1 Nummer 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 50 Nummer 1 des Geldwäschegesetzes.
 
 (+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
 

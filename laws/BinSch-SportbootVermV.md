@@ -41,7 +41,7 @@ Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in de
 
 2. Binnenschifffahrt-Kennzeichnungsverordnung:
 
-Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 30 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden Fassung,
+Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 30 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
 3. See-Sportbootverordnung:
 
@@ -49,7 +49,7 @@ See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457), die zuletzt durch
 
 4. ES-TRIN:
 
-Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4)),
+Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen,
 
 5. Binnenschifffahrtsstraßen-Ordnung:
 
@@ -219,7 +219,7 @@ e) Flüssiggasanlagen an Bord in geschlossenen Räumen mit Warneinrichtungen fü
 
 (2) Unbeschadet der Festlegungen in dem Bootszeugnis oder der nach § 4 Absatz 5 anerkannten Zulassungsurkunde muss an Bord eines Sportbootes bei einer Fahrt im Gelegenheitsverkehr folgende Ausrüstung an Bord vorhanden sein:
 
-1. je nach befahrener Wasserstraße eine Sprechfunkanlage nach § 4.05 der Binnenschifffahrtsstraßen-Ordnung, der Moselschifffahrtspolizeiverordnung oder der Anlage A zur Donauschifffahrtspolizeiverordnung;
+1. eine für die jeweils befahrene Wasserstraße zur Teilnahme am Binnenschifffahrtsfunk zugelassene Sprechfunkanlage;
 
 2. mindestens zwei Rettungsringe entsprechend Artikel 19.09 Nummer 1 ES-TRIN, die sich verwendungsbereit an geeigneter Stelle an Deck befinden und in ihrer Halterung nicht befestigt sind;
 

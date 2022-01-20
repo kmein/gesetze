@@ -5,6 +5,8 @@
 
 Auf Grund des § 3 Abs. 3 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt vom 15. Februar 1956 (Bundesgesetzbl. II S. 317), zuletzt geändert durch das Gesetz vom 22. Januar 1975 zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni 1969 (Bundesgesetzbl. 1975 II S. 65), wird verordnet:
 
+# Inhaltsverzeichnis
+
 # § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
@@ -39,7 +41,7 @@ Eichgesetz in der Fassung der Bekanntmachung vom 23. März 1992 (BGBl. I S. 711)
 
 8. „Binnenschiffsuntersuchungsordnung“
 
-Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung.
+Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032), die zuletzt durch Artikel 1 der Verordnung vom 5. Januar 2022 (BGBl. I S. 2) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung.
 
 # § 2 – Anwendungsbereich
 
@@ -454,11 +456,7 @@ Eichzeichen, die von einem Schiffseichamt eines Staates angebracht worden sind, 
 
 Ergibt die Prüfung nach § 4 Abs. 2 Nr. 4, daß eine Angabe im Eichschein auf fehlerhafter Messung oder Berechnung beruht, so daß die in § 14 angegebenen Fehlergrenzen nicht eingehalten werden, so ist die Eichung in dem von der Zentralstelle festzulegenden Umfang zu wiederholen. Die Zentralstelle kann mit der Wiederholung der Eichung den Außendienst eines anderen Sitzes als den ursprünglich damit befassten beauftragen.
 
-# § 40 – (weggefallen)
-
-\-
-
-# § 41 – Gültigkeit alter Eichscheine
+# § 40 – Gültigkeit alter Eichscheine
 
 (1) Eichscheine, die in einem Staat gültig sind, für den das Übereinkommen in Kraft getreten ist, gelten als Eichscheine nach dem Übereinkommen, sofern das Schiff nicht solche Änderungen erfahren hat, daß die Angaben des Eichscheins über die Wasserverdrängung des Schiffes nach Maßgabe der Eintauchungen oder über die größte Tragfähigkeit nicht mehr zutreffen.
 
@@ -466,11 +464,7 @@ Ergibt die Prüfung nach § 4 Abs. 2 Nr. 4, daß eine Angabe im Eichschein auf f
 
 (3) Eichscheine nach Absatz 1 dürfen nicht verlängert werden; jedoch kann ein neuer Eichschein nach § 8 Abs. 1 gegen Abgabe des alten Eichscheins ohne Nacheichung ausgestellt werden, wenn die in § 9 Abs. 1 und 2 für eine Verlängerung vorgesehenen Bedingungen erfüllt sind.
 
-# § 42
-
-(weggefallen)
-
-# § 43 – Inkrafttreten
+# § 41 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 19. April 1975 in Kraft.
 

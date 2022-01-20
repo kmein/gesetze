@@ -264,7 +264,7 @@ die dem Europäischen Übereinkommen über die internationale Beförderung von g
 49. „Binnenschiffsuntersuchungsordnung":  
   
 
-Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung;
+Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung;
 
 50. „Binnenschiffspersonalverordnung“:  
   
@@ -299,7 +299,7 @@ Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Bi
 56. „ES-TRIN“:  
   
 
-Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4));
+Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
 
 57. „LNG-System“:  
   
