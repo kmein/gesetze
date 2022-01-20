@@ -839,7 +839,6 @@
 - [BinSchUO2018Anh IX](laws/BinSchUO2018Anh_IX.md) Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete (Anhang IX der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchUO2018Anh V](laws/BinSchUO2018Anh_V.md) Nationale Muster (Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchUO2018Anh VII](laws/BinSchUO2018Anh_VII.md) Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung (Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-- [BinSchUO2018Anh VIII](laws/BinSchUO2018Anh_VIII.md) Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren (Anhang VIII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchZV](laws/BinSchZV.md) Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)
 - [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden
 - [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen

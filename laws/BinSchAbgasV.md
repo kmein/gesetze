@@ -25,7 +25,7 @@ f) Dienstfahrzeuge der Aufsichtsbehörden,
 
 2. Binnenwasserstraßen:
 
-a) Bundeswasserstraßen der Zonen 1 bis 4 nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung,
+a) Bundeswasserstraßen der Zonen 1 bis 4 nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung,
 
 b) Landesgewässer, soweit sie dem allgemeinen Verkehr dienen,
 
@@ -57,7 +57,7 @@ Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 
 
 Satz 1 gilt auch für einen Motor der Kategorie V1:3 nach Anhang I Abschnitt 4.1.2.4 der Richtlinie mit einer Nennleistung ab 75 kW, der in Artikel 9 Abs. 3e der Richtlinie nicht berücksichtigt wird. § 6 Absatz 1 und 2 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) gilt entsprechend.
 
-(2) Ein Motor muss eingebaut werden nach Maßgabe der Bestimmungen des Kapitels 9 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4)) (ES-TRIN).
+(2) Ein Motor muss eingebaut werden nach Maßgabe der Bestimmungen des Kapitels 9 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1 (ES-TRIN), der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen.
 
 # § 3 – Zuständige Behörde und Aufgaben
 

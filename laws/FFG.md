@@ -241,9 +241,11 @@ f) von den Verbänden der öffentlich-rechtlichen Fernsehveranstalter,
 
 (3) Ein Mitglied des Präsidiums, das verhindert ist, an einer Sitzung teilzunehmen, kann ein anderes Mitglied des Präsidiums schriftlich oder elektronisch zur Stimmabgabe bevollmächtigen. Jedes Mitglied kann nur ein abwesendes Mitglied vertreten.
 
-(4) Die Entscheidungen des Präsidiums können auch in einer Telefonkonferenz, in einer Videokonferenz oder in einem schriftlichen Umlaufverfahren getroffen werden. Entscheidungen im schriftlichen Umlaufverfahren können nicht getroffen werden, wenn mindestens ein Mitglied des Präsidiums fristgerecht der oder dem Vorsitzenden des Präsidiums schriftlich oder elektonisch mitteilt, dass es mit der Herbeiführung der Entscheidung im schriftlichen Umlaufverfahren nicht einverstanden ist. Die Frist wird von der oder dem Vorsitzenden des Präsidiums festgelegt.
+(4) Die Entscheidungen des Präsidiums können auch in einer Telefonkonferenz, in einer Videokonferenz oder in einem schriftlichen Umlaufverfahren getroffen werden. Entscheidungen im schriftlichen Umlaufverfahren können nicht getroffen werden, wenn mindestens ein Mitglied des Präsidiums fristgerecht der oder dem Vorsitzenden des Präsidiums schriftlich oder elektronisch mitteilt, dass es mit der Herbeiführung der Entscheidung im schriftlichen Umlaufverfahren nicht einverstanden ist. Die Frist wird von der oder dem Vorsitzenden des Präsidiums festgelegt.
 
 (5) Die Vorschriften zur Befangenheit nach § 11 gelten für die Mitglieder des Präsidiums entsprechend.
+
+§ 14 Abs. 4 Satz 2 Kursivdruck: Das Wort "elektonisch" wurde aufgrund offensichtlich unrichtiger Schreibweise durch das Wort "elektronisch" ersetzt
 
 # § 15 – Bestellung, Amtsdauer, Geschäftsordnung
 
@@ -396,8 +398,6 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 (3) Die Kommission für Produktions- und Drehbuchförderung ist bei Anwesenheit von vier Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. Entscheidungen der Kommission für Produktions- und Drehbuchförderung können auch in einer Telefonkonferenz oder in einer Videokonferenz getroffen werden.
 
 (4) Den Vorsitz führt der Vorstand oder eine seiner Stellvertretungen ohne Stimmrecht.
-
-(+++ § 26 Abs. 4: zur Anwendung vgl. § 27 Abs. 3 +++)
 
 # § 27 – Kommission für Verleih-, Vertriebs- und Videoförderung
 
@@ -1448,8 +1448,6 @@ Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprec
 # § 129 – Zuerkennung
 
 Für die Zuerkennung der Förderhilfen gelten § 83 Absatz 1 und 2 und § 122 entsprechend.
-
-(+++ § 129: zur Anwendung vgl. § 129 +++)
 
 # § 130 – Verwendung
 

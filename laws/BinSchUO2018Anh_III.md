@@ -117,11 +117,9 @@ erforderlich.
 
 # § 1.02 – Sonderbestimmungen für Fahrgastschiffe
 
- 
-
 1. Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten abweichend von Kapitel 19 ES-TRIN folgende Bestimmungen:
 
-a) Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand mindestens 0,80 m betragen.
+a) Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand abweichend von Artikel 19.04 Nummer 1 Satz 2 ES-TRIN mindestens 0,80 m betragen.
 
 b) Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit Nummer 7 und 9 ersetzt werden.
 
@@ -282,13 +280,11 @@ Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindesten
 
 # § 6.02 – Kompass
 
- 
-
 1. Fahrzeuge mit eigener Triebkraft müssen mit einem von der zuständigen Behörde zugelassenen Kompass oder mit einem Steuerkurstransmitter, jeweils mit Analoganzeige oder grafischer Darstellung, ausgerüstet sein.
 
 2. Abweichend von Nummer 1 darf für Fahrzeuge ein Kompass mit numerischer Anzeige oder Steuerkurstransmitter mit numerischer Anzeige verwendet werden, wenn die Fahrzeuge mit einem Radargerät nach § 6.03 ausgerüstet sind.
 
-3. Kompasse und Steuerkurstransmitter müssen den technischen Anforderungen nach Anlage 1 Teil I entsprechen. Entsprechende Ausrüstung, die in Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz aufgeführt und nach diesen Anforderungen zugelassen ist, gilt als konform mit diesen Bestimmungen.
+3. Kompasse und Steuerkurstransmitter müssen den technischen Anforderungen nach Anlage 1 Teil 1 entsprechen. Entsprechende Ausrüstung, die in Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz aufgeführt und nach diesen Anforderungen zugelassen ist, gilt als konform mit diesen Bestimmungen.
 
 4. Kompasse auf Magnet-Basis und Steuerkurstransmitter auf Magnet-Basis müssen
 
@@ -340,7 +336,7 @@ manövrierunfähiger Fahrzeuge,
 
 cc) stillliegender Schiffe mit bestimmten gefährlichen Gütern;
 
-d) an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1 Nummer 2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen Seekarten; werden Seekarten in digitaler Form verwendet, so müssen diese auf zugelassenen Inland-ECDIS-Geräten im Navigationsmodus nach Artikel 7.06 Nummer 1 ES-TRIN dargestellt werden.
+d) an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1 Nummer 2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen Seekarten; werden Seekarten in digitaler Form verwendet, so müssen diese auf zugelassenen Inland-ECDIS-Geräten im Navigationsmodus nach Artikel 7.06 Nummer 1 ES-TRIN und nach der Prüfvorschrift „Mindestanforderungen an Inland ECDIS Geräte im Navigationsmodus zur Darstellung von digitalen Seekarten nach der Binnenschiffsuntersuchungsordnung“, die vom Bundesministerium für Verkehr und digitale Infrastruktur am 20. Dezember 2018 (BAnz AT 20.12.2018 B6) bekannt gemacht wurde, dargestellt werden.
 
 # § 7.01 – Allgemeines
 
@@ -470,8 +466,6 @@ f) das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sech
 
 # § 11.02 – Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
- 
-
 1. Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden.
 
 Im Fall der Erteilung eines neuen zusätzlichen Unionszeugnisses für Binnenschiffe nach § 11.01 Nummer 1 ist das zusätzliche Gemeinschaftszeugnis oder eine Anlage zum Gemeinschaftszeugnis für Binnenschiffe als Nachweis vorzulegen und einzuziehen.
@@ -489,7 +483,9 @@ Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn
 Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">4.01</td><td style="text-align: left;">Sicherheitsabstand</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">4.02</td><td style="text-align: left;">Freibord</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">5.01</td><td style="text-align: left;">Aufbauten</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">5.02</td><td style="text-align: left;">Türen</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">5.03</td><td style="text-align: left;">Fenster und Oberlichter</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">5.04</td><td style="text-align: left;">Abdeckung der Laderäume</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">6.02 Nr. 1</td><td style="text-align: left;">Kompass</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2029</td></tr><tr class="even"><td style="text-align: left;">6.03 Nr. 1</td><td style="text-align: left;">Radar</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2029</td></tr><tr class="odd"><td style="text-align: left;">6.06 Buch-<br />
-stabe b</td><td style="text-align: left;">Schallsignalanlage</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">10.02</td><td style="text-align: left;">Sicherheitsabstand</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">10.03</td><td style="text-align: left;">Freibord</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr></tbody></table>
+stabe b</td><td style="text-align: left;">Schallsignalanlage</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">6.06<br />
+Buchstabe d</td><td style="text-align: left;">Inland-ECDIS-Geräte und<br />
+digitale Seekarten</td><td style="text-align: left;">N.E.U., spätestens nach dem 18. Januar 2022</td></tr><tr class="odd"><td style="text-align: left;">10.02</td><td style="text-align: left;">Sicherheitsabstand</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">10.03</td><td style="text-align: left;">Freibord</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr></tbody></table>
 
 # Anlage 1 – Anforderungen an Kompasse und Steuerkurstransmitter
 
@@ -579,7 +575,7 @@ a) Diese Kompensiereinrichtungen müssen dauerhaft und sicher angebracht und fü
 
 Unbeabsichtigte Änderungen der kompensierten Werte müssen ausgeschlossen sein.
 
-b) Die Kompensiermagnete für die Koeffizienten B und C sind möglichst unterhalb des Magnetkompasses entsprechend Anlage 1 anzubringen. Ist aus Platzgründen eine Anbringung vor oder hinter dem Magnetkompass oder backbord- oder steuerbordseitig notwendig, so sind die Magnete symmetrisch zum Magnetkompass anzubringen.
+b) Die Kompensiermagnete für die Koeffizienten B und C sind möglichst unterhalb des Magnetkompasses anzubringen. Ist aus Platzgründen eine Anbringung vor oder hinter dem Magnetkompass oder backbord- oder steuerbordseitig notwendig, so sind die Magnete symmetrisch zum Magnetkompass anzubringen.
 
 c) Die Kompensiermagnete für B sind so anzubringen, dass die Querschiffsebene durch den Rosenmittelpunkt genau die Kompensiermagnete halbiert.
 
