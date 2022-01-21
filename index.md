@@ -859,11 +859,9 @@
 - [BKGG](laws/BKGG.md) Bundeskindergeldgesetz
 - [BKleingÄndG](laws/BKleingÄndG.md) Gesetz zur Änderung des Bundeskleingartengesetzes
 - [BKleingG](laws/BKleingG.md) Bundeskleingartengesetz
-- [BKMBDGAnO 2005](laws/BKMBDGAnO_2005.md) Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKMBek](laws/BKMBek.md) Bekanntmachung der Bezeichnung der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKMBGebV](laws/BKMBGebV.md) Besondere Gebührenverordnung der Beauftragten der Bundesregierung für Kultur und Medien
-- [BKMErnAnO](laws/BKMErnAnO.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
-- [BKMWidAnO 2009](laws/BKMWidAnO_2009.md) Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich der oder des Beauftragten der Bundesregierung für Kultur und Medien
+- [BKMZustAnO](laws/BKMZustAnO.md) Anordnung zur Übertragung beamtenrechtlicher Zuständigkeiten der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKnEG](laws/BKnEG.md) Gesetz zur Errichtung der Bundesknappschaft
 - [BKompV](laws/BKompV.md) Verordnung über die Vermeidung und die Kompensation von Eingriffen in Natur und Landschaft im Zuständigkeitsbereich der Bundesverwaltung
 - [BKOrgErl 1977](laws/BKOrgErl_1977.md) Organisationserlaß des Bundeskanzlers
@@ -2964,6 +2962,7 @@
 - [ItalKultInstVorRV](laws/ItalKultInstVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute
 - [ITFG](laws/ITFG.md) Gesetz zur Errichtung eines Sondervermögens „Investitions- und Tilgungsfonds“
 - [ITSEAusbV](laws/ITSEAusbV.md) Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin*
+- [ITSiV-PV](laws/ITSiV-PV.md) Verordnung zur Gewährleistung der IT-Sicherheit der im Portalverbund und zur Anbindung an den Portalverbund genutzten IT-Komponenten
 - [ITSManKflAusbV](laws/ITSManKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management*
 - [ITZBundG](laws/ITZBundG.md) Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts
 - [IUCNVorV](laws/IUCNVorV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen

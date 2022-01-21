@@ -557,6 +557,8 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 (4) Wird eine Teilhabeplankonferenz nach Absatz 1 auf Wunsch und mit Zustimmung der Leistungsberechtigten eingeleitet, richtet sich die Frist zur Entscheidung über den Antrag nach § 15 Absatz 4.
 
+(+++ § 20 Abs. 1 Satz 3 Eingangssatz: IdF d. Art. 7 Nr. 4 Nr. 1 Buchst. a G v. 2.6.2021 I 1387 mWv 1.1.2022 (bezeichnet als Abs. 1 Satz 3, die Änderungsanweisung hätte zutreffend lauten müssen "...a) Nach den Wörtern "Teilhabeplankonferenz kann"...", die Änderung wurde sinngemäß konsolidiert +++) u. d. Art. 7 Nr. 4 Nr. 1 Buchst. b G v. 2.6.2021 I 1387 mWv 1.1.2022
+
 # § 21 – Besondere Anforderungen an das Teilhabeplanverfahren
 
 Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend.
