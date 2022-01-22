@@ -1301,8 +1301,6 @@ Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
 # § 38 – Änderung binnenschifffahrtsrechtlicher Vorschriften
 
-# § 39 – (weggefallen)
-
 # § 39 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2012 in Kraft.

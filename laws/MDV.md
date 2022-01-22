@@ -35,6 +35,8 @@ Der Erfüllungsgehilfe hat gegenüber dem Nationalen Zugangspunkt einen Nachweis
 
 (4) Die Absätze 1, 2 und 3 sind entsprechend anzuwenden, soweit Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe a des Personenbeförderungsgesetzes vorrangig über Systeme bereitgestellt werden, die in den Ländern, Gemeinden oder Gemeindeverbänden einzeln oder in einem gemeinsamen Systemverbund betrieben werden. Der Nationale Zugangspunkt hat auf seiner Website Informationen zu den Betreibern dieser Systeme und zu der Beschaffenheit der Systeme vorzuhalten. Hierzu stellen die Betreiber dieser Systeme dem Nationalen Zugangspunkt die notwendigen Informationen zur Verfügung.
 
+§ 2 Abs. 1 Satz 1 Nr. 2 Kursivdruck: Müßte richtig lauten "vertretungsberechtigten"
+
 # § 3 – Datenformate
 
 Bei der Bereitstellung von Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe a des Personenbeförderungsgesetzes sind die in der Anlage bezeichneten elektronischen Formate und Datenmodelle sowie die bereitzuhaltenden Schnittstellen zu verwenden. Reiseinformationen im Sinne der Delegierten Verordnung (EU) 2017/1926 sind auf der Grundlage der in dieser Verordnung vorgesehenen Datenformate bereitzustellen.

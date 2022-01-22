@@ -4270,3 +4270,5585 @@ Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann berücksichtigt
 # Anlage 1 bis 33 – Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021
 
 (Fundstelle: Anlageband zum BGBl I Nr. 81 vom 6. Dezember 2021)
+
+# Anlage 1 – (zu § 12 Absatz 1 Satz 1 Nummer 3)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 1)
+
+ 
+
+1. Kieler Förde
+
+2. Nord-Ostsee-Kanal
+
+3. Elbe unterhalb des Hamburger Hafens
+
+4. Weser
+
+5. Jade
+
+6. Ems unterhalb des Emder Hafens
+
+7. Hunte (insoweit kann das die Wasserstraße verwaltende Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
+
+8. Unterwarnow
+
+9. Gewässer, die vom Festland und den Halbinseln Darß und Zingst sowie den Inseln Hiddensee und Rügen eingeschlossen sind (einschließlich Stralsunder Hafengebiet),
+
+seewärts begrenzt zwischen
+
+9.1  
+Halbinsel Zingst und Insel Bock durch das Breitenparallel 54 Grad 26' 42" Nord
+
+9.2  
+Insel Bock und Insel Hiddensee durch die Verbindungslinie von der Nordspitze der Insel Bock zur Südspitze der Insel Hiddensee
+
+9.3  
+Insel Hiddensee und Insel Rügen (Bug) durch die Verbindungslinie von der Südostspitze Neubessin zum Buger Haken
+
+10. Peenestrom (insoweit kann das die Wasserstraße verwaltende Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
+
+# Anlage 2 – (zu § 16 Absatz 1 Satz 1 Nummer 2)Binnenwasserstraßenabschnitte mit besonderen Risiken
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 2)
+
+ 
+
+1. Donau:
+
+von km 2 249,00 (Liegestelle Vilshofen) bis km 2 322,02 (Unterwasser Schleuse Straubing)
+
+2. Elbe:
+
+von km 3,44 (Grenze zu Tschechien) bis km 607,50 Oortkaten (Obere Grenze des Hamburger Hafens) mit Ausnahme der Fahrt zwischen
+
+2.1  
+der Zufahrt zum Industriehafen Magdeburg (Elbe-km 332,75) und dem Rothenseer Verbindungskanal (Elbe-km 333,65) sowie
+
+2.2  
+der Hohnstorfer Brücke (Elbe-km 568,90) und der Einmündung des Elbeseitenkanals (Elbe-km 573,50)
+
+3. Rhein:
+
+von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 857,40 (Spyck´sche Fähre/Grenze zu den Niederlanden)
+
+4. Weser:
+
+von km 000,00 (Hann. Münden) bis km 204,47 (Minden)
+
+# Anlage 3 – (zu § 17 Absatz 5 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 3)
+
+ 
+
+Name des Anbieters des zugelassenen Lehrgangs
+
+Kennziffer der Zulassung (JJJJ-XXXXXX-VV)
+
+ 
+
+ 
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 47%" /><col style="width: 3%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Herr/Frau [Name], [Vorname]</td><td style="text-align: left;"> </td><td style="text-align: left;">geboren am: TT.MM.JJJJ</td></tr><tr class="even"><td style="text-align: left;"> ......................................................................................................................................................................................</td><td style="text-align: left;"> </td><td style="text-align: left;"> ......................................................................................................................................................................................</td></tr></tbody></table>
+
+ 
+
+hat an dem XX\* Unterrichtseinheiten umfassenden o. g. Lehrgang
+
+ 
+
+vom TT.MM.JJJJ bis TT.MM.JJJJ/ am TT.MM.JJJJ
+
+ 
+
+unter der Leitung von ................................................................................... \[Name, Vorname\] erfolgreich teilgenommen.
+
+ 
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 47%" /><col style="width: 3%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Ort: [........................], den TT.MM.JJJJ       </td><td style="text-align: left;"> </td><td style="text-align: left;">Unterschrift der Lehrkraft</td></tr><tr class="even"><td style="text-align: left;"> ......................................................................................................................................................................................</td><td style="text-align: left;"> </td><td style="text-align: left;"> ......................................................................................................................................................................................</td></tr></tbody></table>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Anlage 4 – (zu § 20)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 4 - 17)
+
+ 
+
+Der untersuchende Arzt sollte bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeit bei Auftreten und Prognose abdeckt.
+
+Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsententscheidung die folgenden Punkte zu berücksichtigen sind:
+
+1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs auf Binnenwasserstraßen tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund deren sie nicht in der Lage ist, die folgenden Tätigkeiten zu verrichten:
+
+a) die für den Betrieb des Fahrzeugs notwendigen Aufgaben auszuführen;
+
+b) die ihr zugewiesenen Aufgaben jederzeit zu erfüllen;
+
+c) die Umgebung korrekt wahrzunehmen.
+
+2. Die aufgeführten Gesundheitsstörungen sind übliche Beispiele für Gesundheitsstörungen, die zu einer Untauglichkeit von Besatzungsmitgliedern führen können. Anhand dieser Liste können auch entsprechende Tauglichkeitsbeschränkungen festgelegt werden. Die angegebenen Kriterien sind lediglich als Anhaltspunkte für Mediziner gedacht und ersetzen eine fundierte ärztliche Beurteilung nicht.
+
+3. Die Auswirkungen auf die Arbeit und das Leben auf in Binnengewässern verkehrenden Fahrzeugen variieren je nach Verlauf der jeweiligen Gesundheitsstörung und je nach Behandlungsumfang erheblich. Tauglichkeitsentscheidungen beruhen auf Kenntnissen der Gesundheitsstörung und der Beurteilung der Merkmale, die sich bei der untersuchten Person zeigen.
+
+4. Kann die medizinische Tauglichkeit nicht in vollem Umfang nachgewiesen werden, können Risikominderungsmaßnahmen und Beschränkungen zur Gewährleistung einer gleichwertigen Sicherheit der Schifffahrt auferlegt werden. Die Risikominderungsmaßnahmen und Beschränkungen werden im vorliegenden Text in den Bemerkungen aufgeführt. In der Beschreibung der medizinischen Tauglichkeitskriterien wird gegebenenfalls auf die betreffenden Risikominderungsmaßnahmen und Beschränkungen verwiesen.
+
+Die Tabelle ist wie folgt aufgebaut:
+
+Spalte 1:  
+Internationale Klassifikation der Krankheiten der WHO, 10. Revision (ICD-10). Die Codes werden als Hilfe für die Analyse und insbesondere für die internationale Sammlung und Aufbereitung der Daten angeführt.
+
+Spalte 2:  
+Der allgemeine Name einer Krankheit oder einer Gruppe von Krankheiten mit einer kurzen Angabe zu deren Bedeutung für die Arbeit auf Binnenwasserstraßen.
+
+Spalte 3:  
+Die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: Unvereinbarkeit.
+
+Spalte 4:  
+Die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: Kann die zugewiesenen Aufgaben jederzeit erfüllen.
+
+Das Dokument umfasst zwei Anhänge:
+
+Anhang 1:  
+Relevante Kriterien in Bezug auf das Sehvermögen gemäß Diagnosecode H 00–59.
+
+Anhang 2:  
+Relevante Kriterien in Bezug auf das Hörvermögen gemäß Diagnosecode H 68–95.
+
+ICD 10  
+Diagnose-  
+code
+
+Leiden  
+Begründung für das Kriterium
+
+Unvereinbarkeit mit der jederzeitigen  
+Erfüllung der zugewiesenen Aufgaben  
+– voraussichtlich vorübergehend (T)  
+– voraussichtlich dauerhaft (P)
+
+Kann die zugewiesenen  
+Aufgaben jederzeit erfüllen
+
+A 00-B99
+
+Infektionen
+
+A 00-09
+
+Infektiöse Darmerkrankungen  
+Ansteckung anderer, Rezidiv
+
+T – Wenn dies an Land festgestellt wird (aktuelle Symptome oder Erwartung von Testergebnissen hinsichtlich Infektiosität) oder bei nachgewiesener Besiedelung bis Ausheilen nachgewiesen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+A 15-16
+
+Tuberkulose der Atmungsorgane  
+Ansteckung anderer, Rezidiv
+
+T – Bei positivem Screening-  
+Befund oder aus der Anamnese bekannt, bis zur Klärung  
+Bei vorliegender Infektion, bis eine Therapie etabliert ist und bestätigt wird, dass keine Ansteckungsgefahr besteht  
+P – Rezidiv oder schwere bleibende Schäden
+
+Erfolgreicher Abschluss einer Behandlung
+
+A 50-64
+
+Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden  
+Akute Beeinträchtigung, Rezidiv
+
+T – Wenn an Land festgestellt:  
+bis zur bestätigten Diagnose, Beginn der Behandlung und erfolgreichem Abschluss einer Behandlung  
+P – Nicht behandelbare Spätschäden, die zu Beeinträchtigungen führen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+B 15
+
+Hepatitis A  
+Übertragbar durch verschmutzte Nahrungsmittel oder verschmutztes Wasser
+
+T – Bis Gelbsucht abgeklungen ist oder körperliche Belastbarkeit wiederhergestellt ist
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+B 16-19
+
+Hepatitis B  
+Übertragbar durch Kontakt mit Blut oder anderen Körperflüssigkeiten. Möglichkeit einer dauerhaften Leberschädigung und Leberkrebs
+
+T – Bis Gelbsucht abgeklungen ist oder körperliche Belastbarkeit wiederhergestellt ist  
+P – Bleibender Leberschaden mit Symptomen, die das sichere Arbeiten beeinträchtigen oder wahrscheinlich zu Komplikationen führen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen. Tauglich mit einer zeitlichen Befristung von maximal zwei Jahren
+
+ 
+
+Hepatitis C  
+Übertragbar durch Kontakt mit Blut oder anderen Körperflüssigkeiten. Möglichkeit einer dauerhaften Leberschädigung
+
+T – Bis Gelbsucht abgeklungen ist oder körperliche Belastbarkeit wiederhergestellt ist  
+P – Bleibender Leberschaden mit Symptomen, die das sichere Arbeiten beeinträchtigen oder wahrscheinlich zu Komplikationen führen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+B 20–24
+
+HIV+  
+Übertragbar durch Kontakt mit Blut oder anderen Körperflüssigkeiten. Progression zu HIV-assoziierten Erkrankungen oder zu Aids
+
+T – Gutes Bewusstsein für die Erkrankung und vollständige Beachtung bezüglich der Therapieempfehlungen  
+P – Irreversible Einschränkung durch HIV-assoziierte Erkrankungen. Dauerhafte Einschränkungen durch Nebenwirkungen der Medikation
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen. Tauglich mit einer zeitlichen Befristung von maximal zwei Jahren
+
+A 00–B 99  
+nicht  
+separat  
+gelistet
+
+Sonstige Infektionserkrankungen  
+Persönliche Einschränkung, Ansteckung anderer
+
+T – Bei einer schweren Infektion und ernsthaftem Risiko einer Ansteckung  
+P – Bei fortbestehendem Risiko für rezidivierende Beeinträchtigungen oder wiederholte Infektionen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+C 00-48
+
+Krebserkrankungen
+
+C 00-48
+
+Bösartige Neubildungen
+
+–  
+einschließlich Lymphome,  
+Leukämien und begleitende Erkrankungen
+
+Rezidive
+
+–  
+insbesondere akute Komplikationen z. B. Selbstgefährdung durch Blutungen
+
+T – Bis zur vollständigen Klärung, Behandlung und Bewertung der Prognose  
+P – Bleibende Einschränkungen mit Symptomen, die das sichere Arbeiten beeinträchtigen, oder bei hoher Rezidiv-Wahrscheinlichkeit
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen. Zu bestätigen durch formelle Beurteilung eines Facharztes
+
+D 50-89
+
+Bluterkrankungen
+
+D 50–59
+
+Anämien/  
+Hämoglobinopathien  
+Verringerte Belastungsfähigkeit. Episodische Anomalien  
+der roten Blutkörperchen
+
+T – Bis Hämoglobinwerte normalisiert oder stabil sind  
+P – Nicht behandelbare schwere, rezidivierende oder anhaltende Anämie oder beeinträchtigende Symptome durch Abfall der roten Blutkörperchen
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+D 73
+
+Splenektomie  
+(zurückliegender chirurgischer Eingriff)  
+Erhöhte Empfänglichkeit für bestimmte Infektionen
+
+T – Bis klinische Behandlung abgeschlossen und körperliche Belastbarkeit wiederhergestellt ist
+
+Keine Symptome, die das sichere Arbeiten beeinträchtigen
+
+D 50–89  
+nicht  
+separat  
+gelistet
+
+Weitere Krankheiten des Blutes und der blutbildenden Organe  
+Unterschiedliche Blutungsneigung, mögliche Einschränkung der Belastbarkeit oder eingeschränkte Infektabwehr
+
+T – Während der Klärung des Krankheitsbildes  
+P – Chronische Gerinnungsstörungen
+
+Beurteilung des Einzelfalls
+
+E 00-90
+
+Endokrine und Stoffwechselerkrankungen
+
+E 10
+
+Diabetes mellitus  
+– mit Insulin behandelt  
+Akute Einschränkung aufgrund einer Hypoglykämie. Komplikationen aufgrund von Entgleisungen des Glucose-Stoffwechsels. Erhöhte Wahrscheinlichkeit für Komplikationen, die das Sehvermögen, das Nervensystem und das Herz-Kreislauf-System betreffen
+
+T – Bei fehlender
+
+1. guter Kontrolle
+
+2. Therapie-Compliance oder
+
+3. Hypoglykämiewahrnehmung
+
+P – Bei unzureichend kontrollier ter Stoffwechselsituation oder fehlender Therapieadhärenz. Hypoglykämien in der Vorgeschichte oder fehlende Hypoglykämiewahrnehmung. Beeinträchtigungen durch Komplikationen des Diabetes
+
+Beurteilung des Einzelfalls mit einer zeitlichen Befristung von maximal fünf Jahren. Abhängig vom Nachweis einer guten Stoffwechselkontrolle, einer vollständigen Compliance bezüglich der Therapieempfehlungen und einer zuverlässigen Hypoglykämiewahrnehmung. Beschränkung 04\*\*\* kann angezeigt sein
+
+E 11-14
+
+Diabetes mellitus – nicht mit Insulin behandelt;  
+Andere Medikation  
+Progression hin zur Insulinbedürftigkeit/-therapie, erhöhte Wahrscheinlichkeit für Komplikationen, die das Sehvermögen, das Nervensystem und das Herz-Kreislauf-System betreffen
+
+T – Bei fehlender  
+
+1. guter Kontrolle
+
+2. Therapie-Compliance oder
+
+3. Hypoglykämiewahrnehmung
+
+Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen: tauglich mit einer zeitlichen Befristung von maximal fünf Jahren
+
+ 
+
+Diabetes mellitus – nicht mit Insulin behandelt;  
+ausschließlich durch Einhaltung einer Diät behandelt  
+Progression hin zur Insulinbedürftigkeit/-therapie, erhöhte Wahrscheinlichkeit für Komplikationen, die das Sehvermögen, das Nervensystem und das Herz-Kreislauf-System betreffen
+
+T – Bei fehlender  
+
+1. guter Kontrolle
+
+2. Therapie-Compliance oder
+
+3. Hypoglykämiewahrnehmung
+
+Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen: tauglich mit einer zeitlichen Befristung von maximal fünf Jahren
+
+E 65-68
+
+Übergewicht/abnormales Körpergewicht – Über- oder Unterschreitung  
+Risiko zu verunfallen sowie eingeschränkte Beweglichkeit und Belastbarkeit für die Ausführung von Routine- und Notfallaufgaben. Erhöhte Wahrscheinlichkeit für Diabetes, Arterienerkrankungen und Arthrose
+
+T – Wenn sicherheitsrelevante Aufgaben nicht wahrgenommen werden können, wenn das Ergebnis der Überprüfung der körperlichen Leistungsfähigkeit oder das Ergebnis des Belastungstests schlecht ausfällt, der Body-Mass-Index (BMI) ≥ 40 ist (Adipositas Grad III)  
+P – Sicherheitsrelevante Aufgaben können nicht wahrgenommen werden; das Ergebnis der Überprüfung der körperlichen Leistungsfähigkeit oder das Ergebnis des Belastungstests fällt schlecht aus und Verbesserungen konnten nicht erreicht werden
+
+Anforderungen der Routine- und Notfalltätigkeiten für die zugewiesenen sicherheitsrelevanten Dienstpflichten können erfüllt werden. Beschränkungen 07\*\*\*  
+und/oder 09\*\*\* können angezeigt sein
+
+E 00-90  
+nicht  
+separat  
+gelistet
+
+Sonstige endokrine und Stoffwechselerkrankungen (Schilddrüse, Nebenniere einschließlich Addison-Krankheit, Hypophyse, Eierstöcke, Hoden)  
+Wahrscheinlichkeit eines Rezidivs oder von Komplikationen
+
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis ein Jahr nach der Erstdiagnose oder ein Jahr nach jedem Rückfall, in dem eine regelmäßige Untersuchung stattgefunden hat  
+P – Bei fortbestehender Einschränkung, Notwendigkeit häufiger Anpassungen der Medikation oder erhöhter Wahrscheinlichkeit schwerer Komplikationen
+
+Beurteilung des Einzelfalls:  
+wenn die Medikation stabil ist und seltene Kontrollen erforderlich sind, keine Einschränkungen und nur eine sehr geringe Wahrscheinlichkeit für Komplikationen bestehen
+
+F 00-99
+
+Psychische, kognitive und Verhaltensstörungen
+
+F 10
+
+Alkoholmissbrauch  
+(Abhängigkeit)  
+Rezidive, Unfälle, Verhaltensauffälligkeiten/fehlerhaftes Durchführen der Sicherheitsmaßnahmen
+
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis ein Jahr nach der Erstdiagnose oder ein Jahr nach jedem Rückfall, in dem eine regelmäßige Untersuchung stattgefunden hat  
+P – Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach während der Arbeit verschlechtern oder wieder auftreten werden
+
+Drei aufeinanderfolgende Jahre lang: tauglich mit einer zeitlichen Befristung von einem Jahr, mit den Beschränkungen 04\*\*\* und 05\*\*\*. Danach: tauglich für einen Zeitraum von drei Jahren, mit den Beschränkungen 04\*\*\* und 05\*\*\*. Danach: tauglich ohne Beschränkungen für aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine Probleme festgestellt werden
+
+F 11-19
+
+Drogenabhängigkeit/anhaltender Substanzmissbrauch, schließt sowohl illegalen Drogenkonsum als auch Abhängigkeit von verschriebenen Medikamenten ein  
+Rezidive, Unfälle, Verhaltensauffälligkeiten/fehlerhaftes Durchführen der Sicherheitsmaßnahmen
+
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis ein Jahr nach der Erstdiagnose oder ein Jahr nach jedem Rückfall, in dem eine regelmäßige Untersuchung stattgefunden hat  
+P – Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach während der Arbeit verschlechtern oder wieder auftreten werden
+
+Drei aufeinanderfolgende Jahre lang: tauglich mit einer zeitlichen Befristung von einem Jahr, mit den Beschränkungen 04\*\*\* und 05\*\*\*. Danach: tauglich für einen Zeitraum von drei Jahren, mit den Beschränkungen 04\*\*\* und 05\*\*\*. Danach: tauglich ohne Beschränkungen für aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine Probleme festgestellt werden
+
+F 20–31
+
+Psychosen (akute) – organisch, schizophren oder anderen Kategorien der ICD-Liste zugehörig. Bipolare Störungen (manisch-depressiv) Rezidive, die zu Veränderungen der Wahrnehmung und des Denkens, zu Unfällen sowie auffälligem und riskantem Verhalten führen
+
+Nach einer einzigen Episode mit auslösenden Faktoren:  
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis drei Monate nach der Erstdiagnose
+
+Wenn das Mitglied einer Decksmannschaft Krankheitseinsicht zeigt, die Behandlung eingehalten wird und keine Nebenwirkungen der Medikation bestehen:  
+tauglich mit Beschränkung 04\*\*\*. Beschränkung 05\*\*\* kann angezeigt sein. Tauglich ohne Beschränkung:  
+ein Jahr nach der Episode, sofern die auslösenden Faktoren vermieden werden können. Zeitliche Befristung: die ersten zwei Jahre, sechs Monate. Die nächsten fünf Jahre, ein Jahr
+
+ 
+
+ 
+
+Nach einer einzigen Episode ohne auslösende Faktoren oder mehr als einer Episode mit oder ohne auslösende Faktoren:  
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis zwei Jahre nach der letzten Episode  
+P – Mehr als eine Episode oder fortbestehende Wahrscheinlichkeit eines Rezidivs. Tauglichkeitskriterien werden mit oder ohne Beschränkungen nicht erfüllt
+
+Wenn während eines Zeitraums von zwei Jahren kein Rückfall aufgetreten ist und keine Medikation erforderlich war: tauglich, wenn ein Facharzt festgestellt hat, dass die Ursache eindeutig als vorübergehend identifizierbar und ein Rückfall sehr unwahrscheinlich ist
+
+F 32–38
+
+Affektive Störungen. Schwere Angstzustände, Depression oder jede andere psychische Störung, die die Leistung beeinträchtigen kann Rezidiv, eingeschränkte Leistungsfähigkeit, insbesondere in Notfällen.
+
+T – Während der akuten Phase, der Abklärung oder wenn einschränkende Symptome oder Nebenwirkungen der Medikation bestehen  
+P – Persistierende oder rezidivierende Symptome, die zu Beeinträchtigungen führen
+
+Nach vollständiger Genesung und nach umfassender Beurteilung des Einzelfalls. Je nach Merkmalen und Schweregrad der affektiven Störung kann eine Tauglichkeitsbeurteilung angezeigt sein. Zeitliche Befristung: die ersten zwei Jahre, sechs Monate. Beschränkungen 04\*\*\* und/oder 07\*\*\* können angezeigt sein. Die nächsten fünf Jahre, ein Jahr
+
+ 
+
+Affektive Störungen. Leichte oder reaktive Symptome von Angst oder Depression Rezidiv, eingeschränkte Leistungsfähigkeit, insbesondere in Notfällen
+
+T – Bis keine Symptome mehr vorliegen und keine Medikation mehr erforderlich ist  
+P – Persistierende oder rezidivierende Symptome, die zu Beeinträchtigungen führen
+
+Sofern keine beeinträchtigenden Symptome vorliegen oder keine beeinträchtigenden Nebenwirkungen der Medikation bestehen. Beschränkungen 04\*\*\* und/oder 07\*\*\* können angezeigt sein.
+
+F 00-99  
+nicht  
+separat  
+gelistet
+
+Andere Störungen  
+z. B. Persönlichkeitsstörungen, Aufmerksamkeitsstörungen (ADHS), Entwicklungsstörungen (z. B. Autismus)
+
+P – Sofern die Einschätzung besteht, dass sicherheitsrelevante Konsequenzen auftreten können
+
+Sofern keine negativen Auswirkungen während der Arbeit zu erwarten sind. Keine Zwischenfälle während vergangener Dienste. Beschränkungen 04\*\*\*  
+und/oder 07\*\*\* können angezeigt sein
+
+G 00-99
+
+Krankheiten des Nervensystems
+
+G 40–41
+
+Einzelner epileptischer Anfall  
+Gefährdung des Fahrzeugs  
+oder anderer Personen oder Selbstgefährdung durch Anfälle
+
+Einzelner epileptischer Anfall  
+T – Für die Dauer der Abklärung und ein Jahr nach dem Anfall
+
+Ein Jahr nach dem Anfall, bei stabiler Medikation:  
+tauglich mit Beschränkung 04\*\*\* Tauglich ohne Beschränkungen:  
+ein Jahr nach dem Anfall und ein Jahr nach Ende der Behandlung
+
+ 
+
+Epilepsie – ohne auslösende Faktoren (wiederholte Anfälle)  
+Gefährdung des Fahrzeugs oder anderer Personen oder Selbstgefährdung durch Anfälle
+
+T – Für die Dauer der Abklärung und zwei Jahre nach dem letzten Anfall  
+P – Wiederholte Anfälle, keine Kontrolle durch Medikation
+
+Sofern ohne Medikation oder unter stabiler medikamentöser Einstellung bei guter Therapie-Compliance:  
+tauglich mit Beschränkung 04\*\*\* Tauglich ohne Beschränkungen, sofern anfallsfrei und keine Einnahme von Medikamenten mindestens in den letzten zehn Jahren
+
+ 
+
+Epilepsie – verursacht durch Alkohol, Medikamente, Kopfverletzungen  
+(wiederholte Anfälle)  
+Gefährdung des Fahrzeugs oder anderer Personen oder Selbstgefährdung durch Anfälle
+
+T – Für die Dauer der Abklärung und zwei Jahre nach dem letzten Anfall  
+P – Wiederholte Anfälle, keine Kontrolle durch Medikation
+
+Sofern ohne Medikation oder unter stabiler medikamentöser Einstellung bei guter Therapie-Compliance:  
+tauglich mit Beschränkung 04\*\*\* Tauglich ohne Beschränkungen, sofern anfallsfrei und keine Einnahme von Medikamenten mindestens in den letzten fünf Jahren
+
+G 43
+
+Migräne  
+(häufige Anfälle mit einhergehender starker Beeinträchtigung des Allgemeinzustands)  
+Risiko für Rezidive, die zu Einschränkungen führen
+
+P – Häufige Anfälle, die zu starken Leistungseinschränkungen führen
+
+Sofern keine leistungseinschränkenden Auswirkungen während der Arbeit zu erwarten sind. Keine Zwischenfälle während vergangener Dienste
+
+G 47
+
+Schlafapnoe  
+Müdigkeit und Einschlafen  
+während der Arbeit
+
+T – Bis eine Behandlung begonnen und drei Monate lang erfolgreich durchgeführt wurde  
+P - Behandlung erfolglos oder Behandlung wird nicht eingehalten
+
+Wenn die Behandlung drei Monate nachweislich effektiv durchgeführt wurde. Alle sechs Monate Beurteilung der Compliance. Beschränkung 05\*\*\* kann angezeigt sein
+
+ 
+
+Narkolepsie  
+Müdigkeit und Einschlafen während der Arbeit
+
+T – Bis mindestens zwei Jahre durch entsprechende Behandlung kontrolliert  
+P – Behandlung erfolglos oder Behandlung wird nicht eingehalten
+
+Wenn ein Facharzt bestätigt, dass die Behandlung mindestens zwei Jahre vollständig kontrolliert wurde: tauglich mit Beschränkung 04\*\*\*
+
+G 00–99  
+nicht  
+separat  
+gelistet
+
+Sonstige Erkrankungen des Nervensystems  
+z. B. Multiple Sklerose, Parkinson-Krankheit  
+Rezidive/Progression. Einschränkungen von Muskelkraft, Gleichgewichtssinn, Koordination und Beweglichkeit
+
+T – Bis zur Abklärung, guten Kontrolle und Therapie-Compliance  
+P – Wenn die Einschränkungen das sichere Arbeiten beeinträchtigen oder die Person nicht in der Lage ist, die physischen Leistungsanforderungen zu erfüllen
+
+Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und Notfallaufgaben, unter Berücksichtigung neurologisch-psychiatrischer fachärztlicher Empfehlungen
+
+R 55
+
+Synkope und andere Bewusstseinsstörungen Rezidiv mit Verletzungen oder Kontrollverlust
+
+T – Bis zur Klärung der Ursache und bis zum Nachweis, dass die zugrunde liegende Krankheit therapeutisch beherrscht wird. Krankheitsbild:
+
+ 
+
+ 
+
+ 
+
+a) Eine einfache Ohnmacht/  
+idiopathische Synkope
+
+Beurteilung des Einzelfalls. Beschränkung 04\*\*\* kann angezeigt sein
+
+ 
+
+ 
+
+b) Keine einfache Ohnmacht/  
+idiopathische Synkope. Ungeklärte Störung:  
+kein Rezidiv und ohne Nachweis einer kardialen, metabolischen oder neurologischen Ursache
+
+T – Vier Wochen
+
+Beurteilung des Einzelfalls. Beschränkung 04\*\*\* kann angezeigt sein.
+
+ 
+
+ 
+
+c) Störung: wiederkehrend oder möglicherweise auf eine kardiale, metabolische oder neurologische Ursache zurückzuführen
+
+T – Mögliche Ursache nicht festzustellen oder nicht behandelbar: für sechs Monate nach dem  
+Ereignis, wenn keine erneuten  
+Ereignisse eingetreten sind  
+T – Nachweis der möglichen  
+Ursache oder Ursache gefunden und behandelt: für einen Monat  
+nach erfolgreicher Behandlung
+
+d) Bewusstseinsstörungen mit  
+Elementen, die auf einen Anfall hindeuten, siehe G 40–41
+
+P – Für alle vorgenannten Fälle, wenn sich die Ereignisse trotz umfassender Abklärung und angemessener Behandlung weiterhin wiederholen
+
+ 
+
+T 90
+
+Intrakranielle Verletzungen/Operationen, einschließlich der Behandlung von Gefäßanomalien oder schwere Kopfverletzungen mit Hirnschädigung  
+Gefährdung des Fahrzeugs oder Dritter oder Selbstgefährdung durch cerebrale Krampfanfälle. Störungen der kognitiven, sensorischen oder motorischen Funktionen. Rezidiv oder Komplikationen der zugrunde liegenden Erkrankung
+
+T – Für ein Jahr oder länger, bis die Anfallswahrscheinlichkeit gering\* ist, auf der Grundlage einer Facharztmeinung  
+P – Andauernde Einschränkung durch zugrunde liegende Erkrankung oder Verletzung oder wiederkehrende Anfälle
+
+Nach mindestens einem Jahr, wenn die Anfallswahrscheinlichkeit gering\* ist und keine Einschränkung durch die zugrunde liegende Erkrankung oder Verletzung vorliegt: tauglich mit Beschränkung 04\*\*\*  
+Tauglich ohne Beschränkungen, wenn keine Einschränkung durch die zugrunde liegende Erkrankung oder Verletzung vorliegt, keine Epilepsie-Medikamente. Anfallswahrscheinlichkeit sehr gering\*
+
+H 00-99
+
+Erkrankungen der Augen und Ohren
+
+H 00-59
+
+Augenerkrankungen:  
+fortschreitend oder wiederholt (z. B. Glaukom, Makulopathien, diabetische Retinopathie, Retinitis pigmentosa, Keratokonus, Diplopie, Blepharospasmus, Uveitis, Hornhautgeschwür, Netzhautablösung)  
+Künftige Unfähigkeit, den Anforderungen an das Sehvermögen zu genügen, Rezidiv-Risiko
+
+T – Vorübergehende Unfähigkeit, den einschlägigen Anforderungen an das Sehvermögen zu genügen (siehe Anhang 1), und geringe Wahrscheinlichkeit von Verschlechterungen im weiteren Verlauf oder von beeinträchtigenden Rezidiven nach der Behandlung oder nach dem Ausheilen  
+P – Unfähigkeit, den einschlägigen Anforderungen an das Sehvermögen zu genügen (siehe Anhang 1), oder – im Falle einer Behandlung – erhöhte Wahrscheinlichkeit nachfolgender Verschlechterungen oder beeinträchtigender Rezidive
+
+Sehr geringe Rezidiv-Wahrscheinlichkeit. Sehr geringe Wahrscheinlichkeit, dass innerhalb der Gültigkeitsdauer des Zeugnisses eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Sehvermögen nicht mehr erfüllt werden
+
+H 65-67
+
+Otitis – externa oder media  
+Rezidive, mögliche Infektionsquelle bei Personen, die mit der Zubereitung/Handhabung von Lebensmitteln zu tun haben, Probleme mit der Nutzung von Gehörschutz
+
+T – Bei Symptomen, die das sichere Arbeiten beeinträchtigen  
+P – Bei chronischer Sekretion des Ohres bei Personen, die mit der Zubereitung/Handhabung von Lebensmitteln zu tun haben
+
+Effiziente Behandlung und keine Wahrscheinlichkeit eines Rezidivs
+
+H 68-95
+
+Krankheiten des Ohres:  
+fortschreitend  
+(z. B. Otosklerose)
+
+T – Vorübergehende Unfähigkeit, den einschlägigen Anforderungen an das Hörvermögen zu genügen (siehe Anhang 2), und geringe Wahrscheinlichkeit von Verschlechterungen im weiteren Verlauf oder von beeinträchtigenden Rezidiven nach der Behandlung oder nach dem Ausheilen  
+P – Unfähigkeit, den einschlägigen Anforderungen an das Hörvermögen zu genügen (siehe Anhang 2), oder – im Falle einer Behandlung – erhöhte Wahrscheinlichkeit nachfolgender Verschlechterungen oder beeinträchtigender Rezidive
+
+Sehr geringe Rezidiv-Rate\*. Sehr geringe Wahrscheinlichkeit, dass innerhalb der Gültigkeitsdauer Zeugnisses eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Hörvermögen nicht mehr erfüllt werden
+
+H 81
+
+Ménière-Krankheit und andere Formen von chronischem oder rezidivierendem stark beeinträchtigendem Schwindel  
+Gleichgewichtsstörungen, dadurch Mobilitätseinschränkung und Übelkeit
+
+T – Während der akuten Phase  
+P – Häufige Anfälle, die zu starken Leistungseinschränkungen führen
+
+Geringe\* Wahrscheinlichkeit von Beeinträchtigungen während der Arbeit
+
+I 00-99
+
+Herz-Kreislauf-System
+
+I 05-08  
+I 34-39
+
+Ererbte Herzkrankheiten und Herzklappenerkrankungen  
+(einschließlich diesbezüglicher Operationen)  
+Bislang nicht abgeklärte/untersuchte Herzgeräusche  
+Wahrscheinlichkeit des Fortschreitens der Erkrankung, Einschränkungen unter Belastung
+
+T – Bis zur Abklärung und, sofern erforderlich, erfolgreichen Behandlung  
+P – Wenn die körperliche Belastbarkeit eingeschränkt ist oder Episoden mit starker Einschränkung der Leistungsfähigkeit auftreten oder bei Behandlung mit Antikoagulantien oder wenn auf Dauer eine erhöhte Wahrscheinlichkeit für das Auftreten einer Beeinträchtigung besteht
+
+Beurteilung des Einzelfalls auf der Grundlage des Rates eines Kardiologen
+
+I 10-15
+
+Hypertonie  
+Erhöhte Wahrscheinlichkeit einer ischämischen Herzerkrankung, von Augen- und Nierenschäden oder eines Schlaganfalls. Mögliche hypertensive Entgleisung/Krise
+
+T – Normalerweise, wenn mmHG &gt; 160 systolisch oder &gt; 100 diastolisch ist, bis zur Abklärung und, sofern erforderlich, erfolgreichen Behandlung  
+P – Wenn mmHG dauerhaft &gt; 160 systolisch oder &gt; 100 diastolisch ist, mit oder ohne Behandlung
+
+Bei Behandlung und wenn keine Beeinträchtigungen durch die Erkrankung oder die Medikamente vorliegen
+
+I 20-25
+
+Ischämische Herzkrankheiten, z. B. myokardialer Infarkt, im EKG nachweisbarer früherer myokardialer Infarkt oder neu entdeckter Linksschenkelblock, Angina Pectoris, Herzstillstand, koronare Bypass-Operation, Koronarangioplastie  
+Plötzliche auftretende Schwächezustände, verminderte körperliche Belastbarkeit. Probleme mit der Versorgung bei erneuten kardialen Ereignissen während der Arbeit
+
+T – Für drei Monate nach der Erstuntersuchung und Behandlung, länger, wenn die Symptome fortbestehen und im Falle einer erhöhten Rezidiv-Wahrscheinlichkeit aufgrund eines pathologischen Befunds  
+P – Wenn die Kriterien für die Erteilung eines Tauglichkeitszeugnisses nicht erfüllt werden und eine weitere Senkung der Rezidiv-Wahrscheinlichkeit unwahrscheinlich ist
+
+Wenn die Rezidiv-Rate sehr gering ist und die Person sich strikt an die Empfehlungen zur Risikosenkung hält und keine relevante Begleiterkrankung gegeben ist, zunächst Ausgabe eines Nachweises mit sechsmonatiger Gültigkeit, anschließend Tauglichkeitszeugnisse für ein Jahr. Wenn die Rezidiv-Rate gering\* ist:  
+tauglich mit Beschränkung 04\*\*\*  
+Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+I 44-49
+
+Herzrhythmusstörungen und Überleitungsstörungen (einschließlich derjenigen mit Herzschrittmachern und implantiertem  
+Kardioverter-Defibrillator (ICD))  
+Risiko für Beeinträchtigungen durch Rezidive, plötzlich auftretende Schwächezustände, verminderte körperliche Belastbarkeit. Die Funktion des Schrittmachers/ICD kann durch starke elektrische Felder gestört werden
+
+T – Bis zur Klärung, Behandlung und Nachweis des Behandlungserfolgs  
+P – Wenn einschränkende Symptome gegeben sind oder bei erhöhter Wahrscheinlichkeit einer Beeinträchtigung bei Rezidiv sowie bei ICD-Implantation
+
+Wenn die Rezidiv-Rate gering\* ist:  
+tauglich mit Beschränkung 04\*\*\*  
+Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+I 61-69  
+G 46
+
+Ischämische zerebrovaskuläre Krankheiten  
+(Schlaganfall oder transiente ischämische Attacke)  
+Erhöhte Wahrscheinlichkeit eines Rezidivs, plötzlicher Verlust von Fähigkeiten, Einschränkung der Mobilität. Erhöhtes Risiko für die Entwicklung anderer Kreislauferkrankungen, die einen plötzlichen Verlust von Fähigkeiten zur Folge haben
+
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. Bis drei Monate nach der Erstdiagnose  
+P – Wenn die verbleibenden Symptome Einfluss auf die Dienstpflichten haben oder ein deutlich erhöhtes Risiko für ein Rezidiv besteht
+
+Einzelfallbeurteilung der Diensttauglichkeit: Beschränkung 04\*\*\* ist angezeigt. Die Beurteilung berücksichtigt auch die Wahrscheinlichkeit zukünftiger kardialer Erkrankungen. Anforderungen der Routine- und Notfalltätigkeiten für die zugewiesenen sicherheitsrelevanten Dienstpflichten können erfüllt werden. Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+I 73
+
+Arterielle Verschlusskrankheit  
+Risiko für das Vorliegen anderer Kreislauferkrankungen, die einen plötzlichen Verlust von Fähigkeiten zur Folge haben können. Einschränkungen der körperlichen Belastbarkeit
+
+T – Bis zum Abschluss der Untersuchung/Beurteilung  
+P – Wenn die Person nicht fähig ist, ihre Aufgaben wahrzunehmen
+
+Tauglich mit Beschränkung 04\*\*\*, vorausgesetzt, die Symptome sind nur gering ausgeprägt und beeinträchtigen nicht die wesentlichen Dienstpflichten, oder sie sind operativ oder durch eine andere Behandlung vollständig beseitigt. Zu beurteilen ist das Risiko für zukünftige kardiale Erkrankungen. Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+I 83
+
+Krampfadern  
+Möglichkeit von Blutungen bei Verletzungen, Hautveränderungen und Geschwüren
+
+T – Bis zum Abschluss der Behandlung, wenn beeinträchtigende Symptome bestehen. Bis zu einem Monat im Anschluss an eine Operation
+
+Keine beeinträchtigenden Symptome oder Komplikationen
+
+I 80.2-3
+
+Thrombose der tiefen Venen/Lungenembolie  
+Risiko/Wahrscheinlichkeit eines Rezidivs und einer schweren Lungenembolie. Risiko/Wahrscheinlichkeit von Blutungen aufgrund von Behandlung mit Gerinnungshemmern
+
+T – Bis zur Klärung und zum Abschluss der Behandlung sowie normalerweise während der vorübergehenden Einnahme von Gerinnungshemmern  
+P – Zu erwägen bei wiederholtem Auftreten oder Dauermedikation mit Gerinnungshemmern
+
+Kann als tauglich erachtet werden für Arbeiten mit geringer Verletzungswahrscheinlichkeit, sofern stabil eingestellt mit Gerinnungshemmern mit regelmäßiger Kontrolle des Gerinnungswerts
+
+I 00-99  
+nicht  
+separat  
+gelistet
+
+Andere Herzerkrankungen,  
+z. B. Kardiomyopathie, Perikarditis, Herzinsuffizienz Wahrscheinlichkeit eines Rezidivs, plötzlicher Verlust von Fähigkeiten, Beschränkung der körperlichen Belastbarkeit
+
+T – Bis zur Klärung, Behandlung und Nachweis des Behandlungserfolgs  
+P – Wenn beeinträchtigende Symptome vorliegen oder das Risiko einer Beeinträchtigung bei erneutem Auftreten besteht
+
+Beurteilung des Einzelfalls auf der Grundlage von Facharztberichten
+
+J 00-99
+
+Atmungssystem
+
+J 02–04  
+J 30–39
+
+Erkrankungen der Nase, der Nasennebenhöhlen und der Halsorgane  
+Beeinträchtigung für den Erkrankten. Unter bestimmten Umständen Kontamination der Lebensmittel oder Übertragung der Infektion auf andere Besatzungsmitglieder
+
+T – Bis keine Symptome mehr vorliegen, die das sichere Arbeiten beeinträchtigen  
+P – Wenn die Krankheit immer wiederkehrt
+
+Nach Abschluss der Behandlung, wenn keine Faktoren bestehen, die ein Rezidiv begünstigen
+
+J 40-44
+
+Chronische Bronchitis  
+und/oder Emphysem  
+Geringere Belastungstoleranz und beeinträchtigende Symptome
+
+T – In akuten Phasen  
+P – Wenn es wiederholt zu schweren Rezidiven kommt oder wenn die allgemeinen Tauglichkeitsnormen nicht erfüllt werden können oder wenn eine Kurzatmigkeit vorliegt, die zu Leistungseinschränkungen führt
+
+Zu berücksichtigen ist, ob Tauglichkeit für Notfallsituationen besteht. Anforderungen der Routine- und Notfalltätigkeiten für die zugewiesenen sicherheitsrelevanten Dienstpflichten können erfüllt werden. Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+J 45–46
+
+Asthma (detaillierte Prüfung unter Berücksichtigung der Facharztinformationen für alle Berufsanfänger/Erstuntersuchungen)  
+Unvorhersehbare Episoden schwerer Atemnot verursacht
+
+T – Bis die Episode abgeklungen, die Ursache geklärt (einschließlich möglicher arbeitsplatzbedingter Ursachen) und ein effektives Behandlungsschema eingerichtet ist oder vorliegt. Bei Personen unter 20 Jahren, die innerhalb der letzten drei Jahre (aufgrund des Asthmas) ins Krankhaus eingewiesen wurden oder mit Steroiden oral behandelt wurden  
+P – Bei vorhersehbarem Risiko für das plötzliche Auftreten lebensbedrohlicher Asthmaanfälle während der Arbeit oder mit der Vorgeschichte eines schlecht kontrollierten Asthmas, d. h. mit häufigen Behandlungen im Krankenhaus in der Vergangenheit
+
+Diensttauglich, wenn die Krankengeschichte auf ein Erwachsenenasthma\*\* hindeutet, das mit Inhalatoren gut kontrolliert werden kann, und in den vergangenen zwei Jahren keine stationäre Behandlung oder keine Behandlung mit oralen Steroiden erforderlich war oder bei einer Krankengeschichte eines anstrengungsinduzierten Asthmas, das einer regelmäßigen Behandlung bedarf
+
+J 93
+
+Pneumothorax (spontan oder traumatisch)  
+Akute Einschränkung aufgrund eines Rezidivs
+
+T – Normalerweise für zwölf Monate nach der ersten Episode  
+P – Nach rezidivierenden Episoden, sofern keine Pleurektomie oder Pleurodese vorgenommen wurde
+
+Normalerweise zwölf Monate nach der Episode oder kürzer, wenn vom Facharzt geraten
+
+K 00-99
+
+Verdauungssystem
+
+K 01-06
+
+Erkrankungen der Mundhöhle Akute Zahnschmerzen. Wiederholte Mund- und Zahnfleischentzündungen
+
+T – Bis keine Symptome mehr vorliegen, die das sichere Arbeiten beeinträchtigen
+
+Wenn Zähne und Zahnfleisch (bei Zahnlosen das Zahnfleisch sowie gut angepasster Zahnersatz in gutem Erhaltungszustand) in gutem Zustand sind. Keine komplexen Prothesen oder wenn Zahnvorsorgeuntersuchung im vergangenen Jahr und entsprechende Folgebehandlungen abgeschlossen wurden und seitdem keine Probleme bestanden
+
+K 25–28
+
+Ulcus pepticum  
+Rezidiv mit Schmerzen, Blutungen oder Perforation
+
+T – Bis zur Ausheilung oder Sanierung durch Operation oder Heliobacter-Eradikation und normale Ernährung seit drei Monaten  
+P – Wenn das Ulcus trotz Operation und Medikation fortbesteht
+
+Nach der Genesung und ohne diätetische Einschränkung seit drei Monaten
+
+K 40–41
+
+Hernien – Leistenhernie oder Schenkelhernie  
+Risiko einer Strangulation
+
+T – Bis untersucht und bestätigt, dass kein Risiko einer Einklemmung/Strangulation besteht, und, sofern erforderlich, behandelt
+
+Nach erfolgreicher Behandlung oder wenn der Chirurg bestätigt, dass kein Risiko für eine Strangulation besteht
+
+K 42-43
+
+Hernien – Nabelbruch, Bauchwandbruch  
+Instabilität der Bauchwand beim Bücken und Heben
+
+Beurteilung des Einzelfalls, je nach Schwere der Symptome oder der Beeinträchtigung. Zu berücksichtigen sind die Auswirkungen regelmäßiger schwerer körperlicher Anstrengungen
+
+Beurteilung des Einzelfalls, je nach Schwere der Symptome oder der Beeinträchtigung. Zu berücksichtigen sind die Auswirkungen regelmäßiger schwerer körperlicher Anstrengungen
+
+K 44
+
+Hernien – Zwerchfellhernie (Hiatushernie)  
+Reflux von Mageninhalt und Magensäure, der Sodbrennen usw.
+
+Beurteilung des Einzelfalls auf der Grundlage der Schwere der Symptome im Liegen und der durch sie verursachten Schlafstörungen
+
+Beurteilung des Einzelfalls auf der Grundlage der Schwere der Symptome im Liegen und der durch sie verursachten Schlafstörungen
+
+K 50, 51, 57, 58, 90
+
+Nichtinfektiöse Enteritis, Colitis, Morbus Crohn, Divertikulitis usw. Beeinträchtigungen und Schmerzen
+
+T – Bis untersucht und behandelt  
+P – Bei schweren Verläufen oder Rezidiven
+
+Beurteilung des Einzelfalls durch einen Facharzt. Bei geringer Wahrscheinlichkeit eines Rezidivs
+
+K 60  
+I 84
+
+Analerkrankungen:  
+Hämorrhoiden, Fissuren, Fisteln  
+Wahrscheinlichkeit von Episoden, die Schmerzen verursachen und die Aktivität einschränken
+
+T – Bei Symptomen, die das sichere Arbeiten beeinträchtigen  
+P – Zu erwägen, wenn nicht behandelbar oder rezidivierend
+
+Beurteilung des Einzelfalls
+
+K 70, 72
+
+Leberzirrhose  
+Leberversagen. Blutungen von Ösophagusvarizen
+
+T – Bis zur vollständigen Klärung  
+P – Bei schwerem Verlauf oder bei Auftreten von Aszites oder Ösophagusvarizen
+
+Beurteilung des Einzelfalls durch einen Facharzt. Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+K 80-83
+
+Erkrankungen der Gallenblase und der Gallenwege  
+Gallenkoliken aufgrund von Gallensteinen, Gelbsucht, Leberversagen
+
+T – Bei Gallenkoliken bis zum Abschluss der Behandlung  
+P – Fortgeschrittene Lebererkrankung, rezidivierende oder persistierende leistungsbeeinträchtigende Symptome
+
+Beurteilung des Einzelfalls durch einen Facharzt. Plötzliches Auftreten einer Gallenkolik unwahrscheinlich
+
+K 85–86
+
+Pankreatitis  
+Risiko/Wahrscheinlichkeit eines Rezidivs
+
+T – Bis die Erkrankung ausgeheilt ist  
+P – Bei wiederholtem Auftreten oder wenn alkoholbedingt, es sei denn, die Abstinenz ist bestätigt
+
+Beurteilung des Einzelfalls auf der Grundlage von Facharztberichten
+
+Y 83
+
+Stoma (Ileostomie, Kolostomie)  
+Beeinträchtigung bei Kontrollverlust – Bedarf an Beuteln usw. Möglicherweise Schwierigkeiten bei länger andauernder Notfallsituation
+
+T – Bis zur Abklärung, guten Kontrolle und Therapieadhärenz. P – Bei schlechter Kontrolle
+
+Beurteilung des Einzelfalls
+
+N 00-99
+
+Krankheiten des Urogenitalsystems
+
+N 00, N 17
+
+Akutes nephritisches Syndrom Nierenversagen, Bluthochdruck
+
+P – Bis die Erkrankung ausgeheilt ist
+
+Beurteilung des Einzelfalls bei Vorliegen von Residuen
+
+N 03–05,  
+N 18–19
+
+Subakutes oder chronisches nephritisches Syndrom oder nephrotisches Syndrom Nierenversagen, Bluthochdruck
+
+T – Bis zur Klärung
+
+Beurteilung des Einzelfalls durch einen Facharzt auf der Grundlage der Nierenfunktion und der Wahrscheinlichkeit von Komplikationen
+
+N 20-23
+
+Nieren- oder Uretersteine  
+Schmerzen aufgrund einer Nierenkolik
+
+T – Bis untersucht und bestätigt, dass keine Wahrscheinlichkeit für Symptome besteht, die das sichere Arbeiten beeinträchtigen  
+P – In schweren Fällen wiederholter Steinbildung
+
+Beurteilung des Einzelfalls
+
+N 33, N 40
+
+Prostatavergrößerung/  
+Verlegung der Harnwege  
+Akuter Harnverhalt
+
+T – Bis untersucht und behandelt  
+P – Wenn nicht heilbar
+
+Beurteilung des Einzelfalls
+
+N 70-98
+
+Gynäkologische Erkrankungen – starke Vaginalblutungen, starke Menstruationsbeschwerden, Endometriose, Prolaps der Geschlechtsorgane oder Sonstiges  
+Beeinträchtigung aufgrund von Schmerzen oder Blutungen
+
+T – Wenn Beeinträchtigung besteht oder eine Untersuchung erforderlich ist zur Klärung und Behandlung der Ursache
+
+Beurteilung des Einzelfalls, wenn ein Risiko besteht, dass die Erkrankung während der Fahrt behandelt werden muss oder die Arbeitsfähigkeit beeinträchtigt
+
+R 31, 80, 81, 82
+
+Proteinurie, Hämaturie, Glukosurie oder sonstige abnorme Urinbefunde  
+Indikator für Nieren- oder andere Erkrankungen
+
+T – Wenn Erstbefunde klinisch signifikant  
+P – Schwere und nicht heilbare Ursache, z. B. Einschränkungen der Nierenfunktion
+
+Sehr geringe Wahrscheinlichkeit einer ernsten Grunderkrankung
+
+Z 90.5
+
+Verlust einer Niere oder Funktionslosigkeit einer Niere  
+Eingeschränkte Regulierung des Flüssigkeitshaushalts unter Extrembedingungen, wenn die verbleibende Niere nicht voll funktionstüchtig ist
+
+P – Bei einem Mitglied der Decksmannschaft vor der ersten Anmusterung: jede Einschränkung der Funktionsfähigkeit der verbleibenden Niere. Bei einem bereits im Dienst befindlichen Mitglied der Decksmannschaft: bei signifikanter Dysfunktion der verbleibenden Niere
+
+Die verbleibende Niere muss voll funktionsfähig sein, eine fortschreitende Erkrankung der Niere darf nicht vorliegen, Beurteilungsgrundlage: Untersuchungen der Niere und Bericht eines Facharztes
+
+O 00-99
+
+Schwangerschaft
+
+O 00–99
+
+Schwangerschaft  
+Komplikationen, in der Endphase Einschränkungen der Mobilität. Möglichkeit der Gefährdung von Mutter und Kind im Fall einer vorzeitigen Entbindung während der Arbeit
+
+T – Entscheidungen im Einklang mit nationaler Gesetzgebung Atypischer Verlauf einer Schwangerschaft, die eine hohe Kontrolldichte erfordert
+
+Komplikationslose Schwangerschaft ohne weitere beeinträchtigende Effekte: Entscheidungen im Einklang mit nationaler Praxis und Gesetzgebung
+
+L 00-99
+
+Haut
+
+L 00-08
+
+Infektionen der Haut  
+Rezidive, Ansteckung anderer Personen
+
+T – Bei Symptomen, die das sichere Arbeiten beeinträchtigen  
+P – Zu erwägen für Mitglieder der Decksmannschaft bei rezidivierendem Auftreten
+
+Je nach Art und Schwere der Infektion
+
+L 10-99
+
+Andere Hauterkrankungen,  
+z. B. Ekzeme, Dermatitis, Psoriasis  
+Rezidive, manchmal beruflich bedingt
+
+T – Bei Symptomen, die das sichere Arbeiten beeinträchtigen
+
+Beurteilung des Einzelfalls, entsprechend eingeschränkt, falls Verschlimmerung durch Hitze oder Kontakt mit Substanzen am Arbeitsplatz
+
+M 00-99
+
+Erkrankungen des Muskel-Skelett-Systems
+
+M 10-23
+
+Arthrose, andere Gelenkerkrankungen und nachfolgender Gelenkersatz  
+Schmerzen und Einschränkungen der Mobilität mit Auswirkungen auf die Routine- und Notfallaufgaben. Möglichkeit einer Infektion oder Dislokation und beschränkte Lebensdauer der Gelenkprothesen
+
+T – Nach Knie- oder Hüftgelenkersatz sind vor Rückkehr zur Arbeit eine vollständige Wiedererlangung der Gelenkfunktion sowie Bestätigung durch formelle Beurteilung eines Facharztes erforderlich  
+P – Bei fortgeschrittenen und schweren Fällen
+
+Beurteilung des Einzelfalls. Kann allen Anforderungen der Routine- und Notfallaufgaben entsprechen; es besteht nur eine sehr geringe Wahrscheinlichkeit einer Verschlechterung, die eine Wahrnehmung der Aufgaben unmöglich macht
+
+M 24.4
+
+Luxation und Subluxation von Schulter- oder Kniegelenken  
+Plötzliche Mobilitätseinschränkung, mit Schmerzen
+
+T – Bis zur ausreichenden Wiederherstellung und Stabilität der Gelenkfunktion
+
+Beurteilung des Einzelfalls bei nur gelegentlich auftretender Luxation/Subluxation
+
+M 54.5
+
+Rückenschmerzen  
+Schmerzen und Einschränkungen der Mobilität mit Auswirkungen auf die Routine- und Notfallaufgaben. Zunahme der Einschränkungen
+
+T – Während der Akutphase  
+P – Bei rezidivierendem Verlauf oder schwerwiegenden Beeinträchtigungen
+
+Beurteilung des Einzelfalls
+
+Y 83.4  
+Z 97.1
+
+Prothesen der Gliedmaßen Einschränkung der Mobilität mit Auswirkungen auf die Routine- und Notfallaufgaben
+
+P – Wenn wesentliche Aufgaben nicht wahrgenommen werden können
+
+Wenn Routine- und Notfallaufgaben ausgeführt werden können, dürfen Einschränkungen bei bestimmten Tätigkeiten bestehen, die nicht zu den grundlegenden Aufgaben gehören. Beschränkung 03\*\*\* kann angezeigt sein
+
+ 
+
+Allgemeine Erkrankungen
+
+R 47, F 80
+
+Sprachstörungen  
+Einschränkung der Kommunikationsfähigkeit
+
+P – Unvereinbar mit der zuverlässigen, sicheren und effektiven Durchführung von Routine- und Notfallaufgaben
+
+Keine Beeinträchtigung der wesentlichen sprachlichen Kommunikation
+
+T 78  
+Z 88
+
+Allergien (außer allergischer Hautausschlag und Asthma)  
+Wahrscheinlichkeit eines Rezidivs und zunehmende Schwere der Reaktion. Einschränkung der Fähigkeit, die Aufgaben wahrzunehmen
+
+T – Bis keine Symptome mehr vorliegen, die das sichere Arbeiten beeinträchtigen  
+P – Wenn lebensbedrohliche Reaktionen vernünftigerweise vorhersehbar sind
+
+Wenn die allergische Reaktion eher nur beeinträchtigende Symptome auslöst und nicht zu einer lebensbedrohlichen Situation führt und die Auswirkungen vollständig durch die langfristige Einnahme von nicht steroidalen Medikamenten oder durch eine geänderte Lebensführung, die während der Arbeit ohne sicherheitskritische Auswirkungen durchführbar ist, kontrolliert werden können
+
+Z 94
+
+Transplantationen – Niere, Herz, Lunge, Leber  
+(für Prothesen von Gelenken und Gliedmaßen sowie Linsen, Hörhilfe, Herzklappen usw. vgl. die jeweiligen krankheitsspezifischen Abschnitte) Möglichkeit einer Abstoßung. Nebenwirkungen der Medikation
+
+T – Bis ein stabiler Zustand nach der Operation und unter der Medikation zur Vermeidung einer Abstoßungsreaktion erreicht ist  
+P – Beurteilung des Einzelfalls sowie Bestätigung durch formelle Beurteilung eines Facharztes
+
+Beurteilung des Einzelfalls unter Berücksichtigung einer positiven Beratung eines Facharztes. Tauglich mit einer zeitlichen Befristung von einem Jahr
+
+Bei den  
+jeweiligen Erkrankungen einzuordnen
+
+Chronisch-progrediente Erkrankungen, die zurzeit bei den entsprechenden Krankheitsgruppen enthalten sind,  
+z. B. Huntington Chorea  
+(einschließlich positiver Familienanamnese) und Keratokonus
+
+T – Bis untersucht und, sofern erforderlich, behandelt  
+P – Wenn eine nachteilige Entwicklung wahrscheinlich ist
+
+Beurteilung des Einzelfalls unter Berücksichtigung einer positiven Beratung eines Facharztes. Tauglichkeit kann trotz Vorliegen solcher Erkrankungen gegeben sein, sofern eine nachteilige Entwicklung bis zur nächsten Tauglichkeitsuntersuchung als unwahrscheinlich beurteilt wird
+
+Bei den  
+jeweiligen Erkrankungen  
+einzuordnen
+
+Erkrankungen, die nicht gesondert aufgeführt sind
+
+T – Bis untersucht und, sofern erforderlich, behandelt  
+P – Sofern dauerhaft Beeinträchtigungen vorliegen
+
+Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden. Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben. In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden
+
+# Anhang 1 zu Anlage 4 – Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 18)
+
+ 
+
+Mindestkriterien in Bezug auf das Sehvermögen:
+
+1. Tagessehschärfe:
+
+Die Sehschärfe auf beiden Augen gemeinsam oder auf dem besseren Auge muss mit oder ohne Sehhilfe größer oder gleich 0,8 sein. Einäugiges Sehen ist erlaubt.
+
+  
+Offenkundiges Doppelsehen (Motilität), das nicht korrigiert werden kann, ist nicht erlaubt. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges.
+
+Beschränkung 01\*\*\* kann angezeigt sein.
+
+2. Dämmerungssehvermögen:
+
+Zu testen bei Glaukom, Netzhauterkrankungen oder Medientrübungen (z. B. Katarakt). Kontrastsehen bei 0,032 cd/m2
+
+  
+ohne Blendung; Testergebnis 1:2,7 oder besser, mit dem Mesotest überprüft.
+
+3. Gesichtsfeld:
+
+Das horizontale Gesichtsfeld beträgt mindestens 120 Grad. Die Erweiterung nach links und rechts beträgt mindestens 50 Grad und die Erweiterung nach oben und unten mindestens 20 Grad. Im gesamten Radius des zentralen Gesichtsfelds von 20 Grad sind keine Defekte vorhanden.
+
+  
+Mindestens ein Auge erfüllt den Sehschärfen-Standard und weist ein Gesichtsfeld ohne pathologische Skotome auf. Bei Glaukom oder Netzhautdystrophie oder wenn bei der Erstuntersuchung Anomalien erkannt werden, ist ein formeller Test durch einen Augenarzt erforderlich.
+
+4. Farbunterscheidungsvermögen von Mitgliedern einer Decksmannschaft, die Navigationsaufgaben wahrnehmen:
+
+Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Test mittels 24 Ishihara-Farbtafeln mit maximal zwei Fehlern besteht. Ist dies nicht der Fall, muss einer der genannten anerkannten alternativen Tests durchgeführt werden. Im Zweifelsfall ist eine Prüfung mit dem Anomaloskop durchzuführen. Der mit dem Anomaloskop gemessene Anomal-Quotient muss zwischen 0,7 und 1,4 liegen und somit auf eine normale Trichromasie hindeuten.
+
+  
+Anerkannte, zu den Ishihara-Farbtafeln alternative Tests sind:
+
+a) Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern);
+
+b) Kuchenbecker-Broschmann (maximal zwei Fehler);
+
+c) HRR (Ergebnis mindestens „leicht“);
+
+d) TMC (Ergebnis mindestens „second degree“);
+
+e) Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“);
+
+f) Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben);
+
+g) Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten).
+
+Inhaber oder Inhaberinnen eines gemäß der Richtlinie 96/50/EG des Rates<span id="FnR.f819242_02_02"></span><a href="#f819242_02_02" class="FnR">1</a></sup> ausgestellten Schifferpatents, deren mit dem Anomaloskop gemessener Anomal-Quotient für das Farbsehen zwischen 0,7 und 3,0 liegt, gelten als tauglich, wenn ihr Patent vor dem 1. April 2004 ausgestellt wurde.
+
+Der Gebrauch von Filtergläsern als Sehhilfen für das Farbunterscheidungsvermögen, z. B. getönte Kontaktlinsen und Brille, ist nicht zulässig.
+
+# Anhang 2 zu Anlage 4 – Relevante Kriterien in Bezug auf das Hörvermögen nach Diagnosecode H 68–95
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 19)
+
+ 
+
+Mindestkriterien in Bezug auf das Hörvermögen:
+
+Das Hörvermögen ist als ausreichend anzusehen, wenn der Mittelwert der Hörverluste der beiden Ohren, mit oder ohne Hörhilfe, bei den Frequenzen 500 Hz, 1000 Hz, 2000 Hz und 3000 Hz den Wert von 40 dB nicht überschreitet. Wird der Wert von 40 dB überschritten, ist das Hörvermögen dennoch als ausreichend anzusehen, wenn ein Hörtest mit einem Audiometer nach ISO 8253-1:2010 oder ein gleichwertiger Test bestanden wird.
+
+Beschränkung 02\*\*\* kann angezeigt sein.
+
+# Anhang 3 zu Anlage 4 – Bemerkungen zu der Tabelle und den Anhängen
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 20)
+
+ 
+
+Bemerkungen zu der Tabelle und den Anhängen
+
+ \* Rezidiv-Raten:
+
+Dort, wo in Bezug auf die erhöhte Rezidiv-Wahrscheinlichkeit die Begriffe sehr gering und gering gewählt werden. Es handelt sich im Wesentlichen um klinische Beurteilungen. Für einige Erkrankungen stehen quantitative Nachweise für die Rezidiv-Wahrscheinlichkeit zur Verfügung. Wenn solche Daten zur Verfügung stehen, wie z. B. für Anfallsleiden oder kardiale Erkrankungen, können weitere Untersuchungen erforderlich sein, um die individuelle erhöhte Rezidiv-Wahrscheinlichkeit zu bestimmen. Quantifizierte Rezidiv-Niveaus entsprechen folgenden Werten:
+
+ sehr gering: Rezidiv-Rate liegt unter 2 % pro Jahr;
+
+ gering: Rezidiv-Rate liegt zwischen 2 % und 5 % pro Jahr.
+
+  \*\* Erwachsenenasthma
+
+Asthma kann von der Kindheit über das 16. Lebensjahr hinaus fortbestehen oder dann erst beginnen. Es gibt eine ganze Reihe von intrinsischen und externen Ursachen für die Entwicklung von Asthma im Erwachsenenalter. Bei erwachsenen Erstbewerbern, bei denen Asthma im Erwachsenenalter erstmals aufgetreten ist, müssen spezifische Allergene, einschließlich jener, die für die Entwicklung von Berufsasthma von Bedeutung sind, untersucht werden. Weniger spezifische Ursachen wie Kälte, Anstrengung oder Atemwegsinfekte müssen ebenfalls berücksichtigt werden. Sie alle können Auswirkungen auf die Diensttauglichkeit auf Binnenwasserstraßen haben.
+
+Geringgradiges, intermittierendes Asthma – seltene Episoden leichter asthmatischer Beschwerden, die seltener als einmal innerhalb von zwei Wochen auftreten und schnell und vollständig durch Inhalation von Beta-Agonisten behandelt werden können.
+
+Geringgradiges Asthma: – häufiges Auftreten asthmatischer Beschwerden, die ein Inhalieren mit Beta-Agonist oder auch den Beginn einer regelmäßigen Therapie mit inhalativen Steroiden erfordern. Die regelmäßige inhalative Therapie mit Steroiden (oder Steroiden in Kombination mit lang wirksamen Beta-Agonisten) kann wirkungsvoll die Beschwerden und auch die Notwendigkeit für den zusätzlichen Einsatz der Bedarfsmedikation mit rasch wirksamen Beta-Agonisten reduzieren.
+
+Anstrengungsinduziertes Asthma: – Episoden asthmatischer Beschwerden hervorgerufen durch Belastung, insbesondere in der Kälte. Die Episoden können effizient durch die Inhalation von Steroiden (oder Steroiden in Kombination mit lang wirksamen Beta-Agonisten) oder andere orale Medikamente behandelt werden.
+
+Mittelgradiges Asthma: – häufige asthmatische Beschwerden trotz regelmäßiger Inhalation mit Steroiden (oder Steroiden in Kombination mit lang wirksamen Beta-Agonisten), die den häufigen Einsatz der Bedarfsmedikation mit inhalativen Beta-Agonisten oder die zusätzliche Einnahme anderer Medikamente erfordern. Gelegentlicher Bedarf für orale Steroide.
+
+Schweres Asthma: – häufige Episoden asthmatischer Beschwerden, häufige stationäre Behandlung, häufige Behandlung mit oralen Steroiden.
+
+ \*\*\* Risikominderungsmaßnahmen und Beschränkungen
+
+01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
+
+02 Hörhilfe erforderlich
+
+03 Prothesen der Gliedmaßen erforderlich
+
+04 Kein Alleindienst im Steuerhaus
+
+05 Nur bei Tageslicht
+
+06 Keine Navigationsaufgaben zulässig
+
+07 Beschränkt auf ein einzelnes Fahrzeug namens ........................................................................................................................................................................................................................................................
+
+08 Beschränkter Bereich: ...................................................................................................................................................................................................................................................................................................
+
+09 Beschränkte Aufgabe: ...................................................................................................................................................................................................................................................................................................
+
+Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Bei Bedarf werden sie kombiniert.
+
+# Anlage 5 – (zu § 21 Absatz 1)Muster des Tauglichkeitsnachweises für Besatzungsmitglieder (außer Maschinenpersonal)
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 21)
+
+ 
+
+Name, Vorname (falls vorhanden auch Geburtsname) des Untersuchten
+
+ 
+
+Geburtsdatum und -ort
+
+Ausgewiesen durch Vorlage von (Personalausweis oder  
+Reisepass oder anderes amtliches Identitätsdokument)
+
+ 
+
+ 
+
+Name und Vorname des untersuchenden Arztes
+
+ 
+
+Anschrift
+
+Telefonische Erreichbarkeit
+
+ 
+
+ 
+
+Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Tauglichkeit nach den Vorgaben in Anlage 4 der Binnenschiffspersonalverordnung über medizinische Tauglichkeitskriterien (allgemein, in Bezug auf das Sehvermögen, in Bezug auf das Hörvermögen) mit den folgenden Ergebnissen untersucht:
+
+☐  
+Dauerhaft untauglich
+
+☐  
+Vorübergehend untauglich, voraussichtlich bis \_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+Tauglich ohne Einschränkungen
+
+☐  
+Tauglichkeit befristet bis \_\_\_\_\_\_\_\_\_\_\_\_<span id="FnR.f819242_02_03"></span><a href="#f819242_02_03" class="FnR">*</a></sup>
+
+☐  
+Tauglich mit einer oder mehrerer der folgenden Beschränkungen
+
+☐  
+01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
+
+☐  
+02 Hörhilfe erforderlich
+
+☐  
+03 Prothesen der Gliedmaßen erforderlich
+
+☐  
+04 Kein Alleindienst im Steuerhaus
+
+☐  
+05 Nur bei Tageslicht
+
+☐  
+06 Keine Navigationsaufgaben zulässig
+
+☐  
+07 Beschränkt auf ein einzelnes Fahrzeug namens \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+08 Beschränkter Bereich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+09 Beschränkte Aufgabe \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ 
+
+ 
+
+|                                    |     |         |
+|:-----------------------------------|:----|:-------:|
+|                                    |     | Stempel |
+|                                    |     |         |
+| Unterschrift des Arztes/der Ärztin |     |         |
+
+# Anlage 6 – (zu § 21 Absatz 1)Muster des Tauglichkeitsnachweises für das Maschinenpersonal
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 22)
+
+ 
+
+Name, Vorname (falls vorhanden auch Geburtsname) des Untersuchten
+
+ 
+
+Geburtsdatum und -ort
+
+Ausgewiesen durch Vorlage von (Personalausweis oder Reisepass oder anderes amtliches Identitätsdokument)
+
+ 
+
+ 
+
+  
+  
+
+Name und Vorname des untersuchenden Arztes
+
+ 
+
+Anschrift
+
+Telefonische Erreichbarkeit
+
+ 
+
+ 
+
+Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Tauglichkeit nach den Vorgaben in Anlage 4 der Binnenschiffspersonalverordnung über medizinische Tauglichkeitskriterien (allgemein und in Bezug auf das Hörvermögen) und in Bezug auf das Sehvermögen nach § 23 der Binnenschiffspersonalverordnung mit den folgenden Ergebnissen untersucht:
+
+☐  
+Dauerhaft untauglich
+
+☐  
+Vorübergehend untauglich, voraussichtlich bis \_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+Tauglich ohne Einschränkungen
+
+☐  
+Tauglichkeit befristet bis \_\_\_\_\_\_\_\_\_\_\_\_<span id="FnR.f819242_02_04"></span><a href="#f819242_02_04" class="FnR">*</a></sup>
+
+☐  
+Tauglich mit einer oder mehrerer der folgenden Beschränkungen
+
+☐  
+01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
+
+☐  
+02 Hörhilfe erforderlich
+
+☐  
+03 Prothesen der Gliedmaßen erforderlich
+
+☐  
+04 Kein Alleindienst im Steuerhaus
+
+☐  
+05 Nur bei Tageslicht
+
+☐  
+06 Keine Navigationsaufgaben zulässig
+
+☐  
+07 Beschränkt auf ein einzelnes Fahrzeug namens \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+08 Beschränkter Bereich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+☐  
+09 Beschränkte Aufgabe \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+|                                    |     |         |
+|:-----------------------------------|:----|:-------:|
+|                                    |     | Stempel |
+|                                    |     |         |
+| Unterschrift des Arztes/der Ärztin |     |         |
+
+# Anlage 7 – (zu § 29)Grundlegende Sicherheitsausbildung für Decksleute
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 23 - 24)
+
+ 
+
+Der Lehrgang vermittelt die nachstehend genannten theoretischen und praktischen Inhalte. Das geschieht durch eine enge Verzahnung von Praxis und Theorie, die das Erreichen der notwendigen Handlungskompetenz sicherstellt. Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten.
+
+I. Verwendung der Rettungsmittel gegen das Ertrinken
+
+Zeitrahmen: ca. 6 Stunden
+
+1. Rettungsmittel an Bord eines Fahrzeugs
+
+Inhalte: Zusammenfassende Darstellung möglicher Rettungsmittel an Bord und ihrer Funktion
+
+2. Gefahren nach einem Sturz ins Wasser
+
+Inhalte: Gefahren der Strömung, der Wassertemperatur und des Schiffsverkehrs beim Überbordgehen; Gefahr der Unterkühlung; Gefahr des Kälteschocks; Probleme bei der Rettung aus dem Wasser; Erste-Hilfe-Maßnahmen bei Unterkühlung
+
+3. Rettungsweste
+
+Inhalte: Aufbau und Funktion der Rettungsweste, Prüfung auf Einsatzbereitschaft; korrektes Anlegen der Rettungsweste
+
+Art der Vermittlung: Praktische Unterweisung mit Auseinanderfalten und anschließendem Zusammenlegen der Rettungsweste; zudem möglichst mit Auslösung der Rettungsweste im Wasser
+
+II. Die besondere Arbeitsumgebung an Bord eines Fahrzeugs
+
+Zeitrahmen: ca. 3 Stunden
+
+1. Sicheres Bewegen an Bord eines Fahrzeugs
+
+Inhalte: Persönliche Schutzausrüstung: Auswahl des korrekten Sicherheitsschuhs, Benutzung steiler Treppen/Leitern, Umgang mit den beengten räumlichen Verhältnissen an Bord, Gefahren beim Begehen von Gangborden, Gefahren beim Betreten von abgeschlossenen Bereichen (z. B. Wallgängen), Gefahren sich bewegender Teile (z. B. in Maschinen, Steuerhaus oder Radarantenne)
+
+2. Umgang mit Notsituationen an Bord eines Fahrzeugs
+
+Inhalte: Lesen und Umsetzung der Sicherheitsrolle des Schiffes; Rettungswege an Bord; Umgang mit den beengten Verhältnissen an Bord beim Retten und Bergen; Verhalten bei personellen Ausfällen: Notmaßnahmen der Schiffsführung; Absetzen von Notrufen und sonstige Kommunikation in Notfällen unter Verwendung der unten aufgeführten Standardredewendungen auf Englisch
+
+3. Arbeiten mit Tauen und Drähten
+
+Inhalte: Gefahren beim Festmachen und beim Umgang mit Winden, Persönliche Schutzausrüstung: Auswahl des korrekten Handschuhs
+
+Art der Vermittlung: Praktischer Umgang mit Tauen oder Drähten
+
+III. Brandbekämpfung an Bord eines Fahrzeugs
+
+Zeitrahmen: ca. 3 Stunden
+
+1. Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs
+
+Inhalte: Darstellung der Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs und deren Einsatzbereiche
+
+2. Umgang mit tragbaren Feuerlöschern
+
+Inhalte: Einsatz von Feuerlöschern zur lokalen Brandbekämpfung
+
+IV. Gefahren an Bord durch Lärm
+
+Zeitrahmen: ca. 2 Stunden
+
+1. Lärmquellen an Bord eines Fahrzeugs
+
+Inhalte: Darstellung der Lärmquellen an Bord eines Fahrzeugs und deren Lautstärke
+
+2. Gefahren von Lärm
+
+Inhalte: Auswirkungen kurz- oder langfristigen Lärms auf die Gesundheit (z. B. im Maschinenraum, Ladepumpen oder Werkzeuge)
+
+3. Gehörschutz
+
+Inhalte: Arten von Gehörschutz; richtiges Anlegen
+
+V. Umgang mit Gefahrstoffen an Bord eines Fahrzeugs
+
+Zeitrahmen: ca. 3,5 Stunden
+
+1. Arten von Gefahrstoffen an Bord eines Fahrzeugs und bei der Bordarbeit
+
+Inhalte: Überblick über die Gefahrstoffe an Bord: Arbeiten mit, Lagern und Entsorgung von Farben/Lacken, Reinigungsmittel, Gefahrgut (als Ladegut)
+
+2. Gesundheitsgefahren beim Umgang mit Gefahrstoffen
+
+Inhalte: Wirkungen der Gefahrstoffe an Bord auf den menschlichen Körper
+
+3. Schutz gegen diese Gefahren
+
+Inhalte: Darstellung der möglichen Maßnahmen: Be- und Entlüftung, geeigneter Atemschutz, geeigneter Hautschutz, wie z. B. Schutzanzüge und Handschuhe
+
+Art der Vermittlung: praktische Verwendung der persönlichen Schutzausrüstung
+
+VI. Grundlegende Maßnahmen der Ersten Hilfe
+
+Zeitrahmen: mindestens 3 Stunden
+
+Inhalte: Lebenserhaltende Maßnahmen; Wundversorgung; Maßnahmen bei Akuterkrankungen (z. B. Herzinfarkt, Schlaganfall, Schock)
+
+Art der Vermittlung: praktische Übungen (wie z. B. Herz-Lungen-Wiederbelebung oder Anlegen eines Verbandes)
+
+Zu II.2: Standardredewendungen
+
+Die Decksleute müssen in der Lage sein, die folgenden Sätze in englischer Sprache zu verwenden:
+
+1. There is a dangerous situation.
+
+2. The ship is on fire.
+
+3. The ship is aground.
+
+4. The ship has collided.
+
+5. The ship is flooding.
+
+6. Someone has fallen overboard.
+
+7. I need assistance.
+
+8. There is a medical emergency.
+
+# Anlage 8 – (zu § 35 Absatz 1)Befähigungsstandards für die Betriebsebene
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 25 - 38)
+
+ 
+
+1. Navigation
+
+1.1  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs beim Manövrieren und Steuern des Fahrzeugs auf allen Arten von Binnenwasserstraßen und in allen Arten von Häfen zu unterstützen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Unterstützung beim<br />
+Festmachen, Ablegen und Verholen (Schleppen) zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der an Bord eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).</dd><dt>2.</dt><dd>Fähigkeit, die erforderliche Ausrüstung an Bord, z. B. Poller und Winden, für Festmach-, Ablege- und Verholmanöver zu nutzen.</dd><dt>3.</dt><dd>Fähigkeit, die an Bord verfügbaren Materialien wie Seile und Drähte unter Berücksichtigung der relevanten Sicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.</dd><dt>4.</dt><dd>Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.</dd><dt>5.</dt><dd>Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.</dd><dt>6.</dt><dd>Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Unterstützung beim<br />
+Kuppeln von Schubverbänden zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln.</dd><dt>3.</dt><dd>Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.</dd><dt>4.</dt><dd>Fähigkeit, sicherheitsbezogene Arbeitsvorschriften anzuwenden und mit den beteiligten Besatzungsmitgliedern zu kommunizieren.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Unterstützung beim<br />
+Ankern zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der beim Ankern unter verschiedenen Umständen eingesetzten Ausrüstung, Materialien und Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, bei Ankermanövern Unterstützung zu leisten, z. B. die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.</dd><dt>3.</dt><dd>Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>das Fahrzeug unter<br />
+korrektem Einsatz der Ruderanlage nach Ruderkommandos zu steuern;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Funktionen und Arten verschiedener Antriebs- und Steuerungssysteme.</dd><dt>2.</dt><dd>Fähigkeit, das Fahrzeug unter Aufsicht und Einhaltung der Ruderkommandos zu steuern.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>das Fahrzeug unter<br />
+Berücksichtigung des Wind- und Strömungseinflusses nach Ruderkommandos zu steuern;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Einflusses von Wind und Strömung auf das Führen und<br />
+Manövrieren des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, das Fahrzeug unter Aufsicht und unter Berücksichtigung des<br />
+Windeinflusses auf das Fahren und Manövrieren auf Wasserstraßen mit oder ohne Strömung bei verschiedenen Windverhältnissen zu steuern.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>Navigationshilfen und -instrumente unter Aufsicht zu nutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Navigationshilfen und -instrumente wie Ruderlageanzeiger, Radar, Wendegeschwindigkeitsanzeiger, Fahrgeschwindigkeitsanzeiger.</dd><dt>2.</dt><dd>Fähigkeit, die von Navigationshilfen wie Leuchtfeuer- und Betonnungssystemen und -karten ausgehenden Informationen zu nutzen.</dd><dt>3.</dt><dd>Fähigkeit, Navigationsinstrumente wie Kompass, Wendegeschwindigkeitsanzeiger und Fahrgeschwindigkeitsanzeiger zu nutzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>7.</dt><dd>die notwendigen<br />
+Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der in Gefahr- und Notsituationen zu befolgenden Sicherheitsvorschriften und Prüflisten.</dd><dt>2.</dt><dd>Fähigkeit, unsichere Situationen zu erkennen und Gegenmaßnahmen<br />
+gemäß den Sicherheitsvorschriften zu ergreifen.</dd><dt>3.</dt><dd>Fähigkeit, die Führung des Fahrzeugs umgehend zu warnen.</dd><dt>4.</dt><dd>Fähigkeit, persönliche Schutz- und Rettungsausrüstung zu benutzen.</dd><dt>5.</dt><dd>Kenntnis der vom Vorgesetzten beauftragten Überprüfung der Verfügbarkeit, Brauchbarkeit, Wasserdichtigkeit und Sicherung des Fahrzeugs und seiner Ausrüstung.</dd><dt>6.</dt><dd>Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie Abdichten und Sichern von Luken und Laderäumen.</dd><dt>7.</dt><dd>Fähigkeit, Arbeiten gemäß der Prüfliste im Maschinenraum durchzuführen; lose Gegenstände zu verstauen und zu sichern, die Tagesdiensttanks zu befüllen und die Lüftungsöffnungen zu überprüfen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>8.</dt><dd>die Merkmale der<br />
+wichtigsten europäischen Binnenwasserstraßen, Häfen und Terminals zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu beschreiben;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der wichtigsten nationalen und internationalen Binnenwasserstraßen.</dd><dt>2.</dt><dd>Kenntnis der wichtigsten Häfen und Terminals des europäischen Binnenwasserstraßennetzes.</dd><dt>3.</dt><dd>Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.</dd><dt>4.</dt><dd>Kenntnis der Klassifizierungsmerkmale von Flüssen, Kanälen und Binnenwasserstraßen mit maritimem Charakter: Sohlenbreite, Uferart, Uferschutz, Wasserstand, Wasserbewegung, Brückendurchfahrtshöhe und -breite und Tiefe.</dd><dt>5.</dt><dd>Kenntnis der für die Fahrt auf Binnenwasserstraßen mit maritimem Charakter erforderlichen Navigationshilfen und -instrumente.</dd><dt>6.</dt><dd>Fähigkeit, die Merkmale der verschiedenen Arten von Binnenwasserstraßen zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu erläutern.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>9.</dt><dd>die allgemeinen<br />
+Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.</dd><dt>2.</dt><dd>Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und die Schallzeichen des Fahrzeugs zu bedienen und zu warten.</dd><dt>3.</dt><dd>Kenntnis des Kennzeichnungssystems SIGNI (Signalisation de voies<br />
+de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>10.</dt><dd>die Verfahren beim<br />
+Durchfahren von Schleusen und Brücken zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Form, Anordnung und Einrichtung von Schleusen und<br />
+Brücken, Schleusung, Arten von Schleusen, Pollern und Stufen usw.</dd><dt>2.</dt><dd>Fähigkeit, die Verfahren beim Heranfahren, Einfahren, Schleusen und<br />
+Ausfahren aus der Schleuse oder Brücke anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>11.</dt><dd>Verkehrsleitsysteme zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen im Einsatz befindlichen Verkehrsleitsysteme<br />
+wie Tag- und Nachtzeichen an Schleusen, Wehren und Brücken.</dd><dt>2.</dt><dd>Fähigkeit, die Tag- und Nachtzeichen an Schleusen, Wehren und Brücken zu erkennen und Anweisungen der zuständigen Stellen, wie Brücken- und Schleusenwärtern und Betreibern von Verkehrsleitsystemen, zu befolgen.</dd><dt>3.</dt><dd>Fähigkeit, in Notsituationen Funkgeräte zu benutzen.</dd><dt>4.</dt><dd>Kenntnis des Automatischen Identifikationssystems Inland AIS<br />
+(Automatic Identification System) und des Elektronischen Kartendarstellungs- und Informationssystems Inland ECDIS (Electronic Chart and Display Information System).</dd></dl></td></tr></tbody></table>
+
+2. Betrieb des Fahrzeugs
+
+2.1  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Überwachung des Fahrzeugbetriebs und der Fürsorge für die an Bord befindlichen Personen zu unterstützen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>verschiedene Arten<br />
+von Fahrzeugen zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tragfähigkeit.</dd><dt>2.</dt><dd>Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt verkehrenden Fahrzeuge, einschließlich Verbände, zu erläutern.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Kenntnis der<br />
+Konstruktion von Fahrzeugen auf Binnenwasserstraßen und ihres Verhaltens im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Auswirkungen der Fahrzeugbewegungen unter verschiedenen Umständen, die durch Längs- und Querspannungen verursacht werden, und verschiedener Ladebedingungen.</dd><dt>2.</dt><dd>Fähigkeit, das Verhalten des Fahrzeugs bei verschiedenen Beladungsbedingungen im Hinblick auf die Fahrzeugstabilität und -festigkeit zu erläutern.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Kenntnisse über<br />
+Bauteile des Fahrzeugs anzuwenden und die Bezeichnung und Funktion der Teile zu nennen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Bauteile des Fahrzeugs im Hinblick auf die Beförderung verschiedener Arten von Ladung und Fahrgästen, einschließlich der Längs- und Querstruktur und örtlicher Verstärkungen.</dd><dt>2.</dt><dd>Fähigkeit, die Bauteile des Fahrzeugs zu benennen und ihre Funktionen zu beschreiben.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die Kenntnisse über<br />
+die Wasserdichtigkeit des Fahrzeugs anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über die Wasserdichtigkeit des Fahrzeugs auf Binnenwasserstraßen.</dd><dt>2.</dt><dd>Fähigkeit zur Überprüfung der Wasserdichtigkeit.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>die Kenntnisse über<br />
+die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der vorgeschriebenen Fahrzeugdokumente.</dd><dt>2.</dt><dd>Fähigkeit, deren Bedeutung im Zusammenhang mit (inter)nationalen<br />
+Anforderungen und Rechtsvorschriften zu erläutern.</dd></dl></td></tr></tbody></table>
+
+2.2  
+Der Matrose muss in der Lage sein, die Ausrüstung des Fahrzeugs zu verwenden.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Anker zu verwenden<br />
+und Ankerwinden zu bedienen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden.</dd><dt>2.</dt><dd>Fähigkeit, die verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.</dd><dt>3.</dt><dd>Fähigkeit, die verschiedenen Anker und Ankerwinden in verschiedenen<br />
+Situationen und Bedingungen sicher einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Deckausrüstung und<br />
+Hebegeräte zu nutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der auf Deck eines Fahrzeugs verwendeten Ausrüstung wie<br />
+(Kupplungs-) Winden, Luken, Hebegeräte, Autokrane, Leitungssysteme, Feuerlöschschläuche usw.</dd><dt>2.</dt><dd>Fähigkeit, die Deckausrüstung und Hebegeräte zu erkennen und zu<br />
+benennen und ihren speziellen Einsatz zu erläutern.</dd><dt>3.</dt><dd>Fähigkeit, die Deckausrüstung und Hebegeräte sicher einzusetzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>spezielle Ausrüstung<br />
+für Fahrgastschiffe zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der speziellen Konstruktionsanforderungen, Ausrüstung und<br />
+Geräte für Fahrgastschiffe.</dd><dt>2.</dt><dd>Fähigkeit, die ausschließlich an Bord von Fahrgastschiffen verwendete Ausrüstung zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.</dd><dt>3.</dt><dd>Fähigkeit, die an Bord von Fahrgastschiffen verwendete Ausrüstung sicher einzusetzen.</dd></dl></td></tr></tbody></table>
+
+3. Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung
+
+3.1  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Vorbereitung, Stauung und Überwachung der Ladung während des Be- und Entladens zu unterstützen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Stau- und Stabilitätspläne zu lesen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Auswirkungen von Ladungsarten auf Stau- und Stabilitätspläne.</dd><dt>2.</dt><dd>Kenntnis der Stau- und Stabilitätspläne.</dd><dt>3.</dt><dd>Fähigkeit, Staupläne zu verstehen.</dd><dt>4.</dt><dd>Kenntnis der Nummerierung und Unterteilung der Laderäume von<br />
+Trockengüterschiffen und der Tanks von Tankschiffen (N, C oder G) und Kenntnisse zur Stauung verschiedener Arten von Ladung.</dd><dt>5.</dt><dd>Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) zu identifizieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Stauung und<br />
+Sicherung von Ladung zu überwachen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Methoden für die Stauung verschiedener Ladungen auf Fahrzeugen, um eine sichere und effiziente Beförderung zu gewährleisten.</dd><dt>2.</dt><dd>Kenntnis der Verfahren zur Vorbereitung des Fahrzeugs für das Be- und Entladen.</dd><dt>3.</dt><dd>Fähigkeit, Be- und Entladeverfahren sicher anzuwenden, d. h. durch<br />
+Öffnen und Schließen der Laderäume, und eine Deckwache während des Be- und Entladens durchzuführen.</dd><dt>4.</dt><dd>Fähigkeit, während des Be- und Entladens eine wirksame Kommunikation aufzubauen und aufrechtzuerhalten.</dd><dt>5.</dt><dd>Kenntnis der Auswirkung von Ladung auf die Stabilität des Fahrzeugs.</dd><dt>6.</dt><dd>Fähigkeit, die Ladung zu überwachen und Schäden zu melden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>verschiedene Arten<br />
+von Ladung und ihre Eigenschaften zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen Arten von Ladung, z. B. loses Stückgut,<br />
+flüssiges Massengut, Schwergut usw.</dd><dt>2.</dt><dd>Kenntnis der Logistikkette und des multimodalen Verkehrs.</dd><dt>3.</dt><dd>Fähigkeit, den Fahrzeugbetrieb im Zusammenhang mit den Be- und Entladevorgängen vorzubereiten, z. B. mit der Landseite zu kommunizieren und den Laderaum vorzubereiten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Ballastsysteme<br />
+einzusetzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Funktion und des Einsatzes von Ballastsystemen.</dd><dt>2.</dt><dd>Fähigkeit, Ballastsysteme einzusetzen, z. B. durch die Befüllung oder<br />
+Entleerung der Ballasttanks.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>die Ladungsmenge<br />
+zu überprüfen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.</dd><dt>2.</dt><dd>Kenntnis der Methoden zur Bestimmung der Menge geladener oder<br />
+gelöschter Ladung.</dd><dt>3.</dt><dd>Kenntnis der Berechnung der Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen.</dd><dt>4.</dt><dd>Fähigkeit, Einsenkungsmarken und Tiefgangsanzeiger abzulesen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>gemäß den Regelungen und sicherheitsbezogenen Arbeitsvorschriften zu arbeiten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der während der Vorbereitung, Be- und Entladung von Fahrzeugen mit verschiedenen Arten von Ladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren.</dd><dt>2.</dt><dd>Fähigkeit, die während der Be- und Entladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren einzuhalten und persönliche Schutz- und Rettungsausrüstung zu benutzen.</dd><dt>3.</dt><dd>Fähigkeit, mit allen an den Be- und Entladevorgängen beteiligten Partnern eine wirksame verbale und nonverbale Kommunikation aufzubauen und aufrechtzuerhalten.</dd><dt>4.</dt><dd>Kenntnis der technischen Mittel für den Ladungsumschlag auf Fahrzeugen und in Häfen und der Arbeitssicherheitsmaßnahmen während deren Gebrauch.</dd></dl></td></tr></tbody></table>
+
+3.2  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Bereitstellung von Dienstleistungen für die Fahrgäste zu unterstützen und Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates<span id="FnR.f819242_02_05"></span><a href="#f819242_02_05" class="FnR">2</a></sup> unmittelbar Hilfe zu leisten.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Vorschriften und<br />
+Übereinkommen zur Fahrgastbeförderung zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.</dd><dt>2.</dt><dd>Fähigkeit, Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 unmittelbar Hilfe zu leisten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>beim sicheren Ein-<br />
+und Ausstieg von Fahrgästen Unterstützung zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der vor und während des Ein- und Ausstiegs von Fahrgästen<br />
+geltenden Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, die Ausrüstung für den Ein- und Ausstieg zu platzieren und<br />
+auszurichten und die Sicherheitsmaßnahmen anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>bei der Aufsicht über<br />
+die Fahrgäste in Notsituationen Unterstützung zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der vorhandenen Rettungsmittel für Notsituationen und der im<br />
+Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person und einer Evakuierung zu beachtenden Verfahren, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie der Erste-Hilfe-Maßnahmen an Bord von Fahrzeugen.</dd><dt>2.</dt><dd>Fähigkeit, im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung Unterstützung zu leisten, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie Fähigkeit zum Gebrauch von Rettungsmitteln in Notsituationen und zum Leisten von Erster Hilfe an Bord des Fahrzeugs.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>mit Fahrgästen<br />
+wirksam zu kommunizieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Standardredewendungen bei der Evakuierung von Fahrgästen in Notfällen.</dd><dt>2.</dt><dd>Fähigkeit zu dienstleistungsorientiertem Verhalten und Sprachgebrauch.</dd></dl></td></tr></tbody></table>
+
+4. Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik
+
+4.1  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs in Fragen der Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik zu unterstützen, um die allgemeine technische Sicherheit zu gewährleisten.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>bei der Überwachung<br />
+der Antriebsmaschinen und Antriebssysteme Unterstützung zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Grundsätze von Antriebssystemen.</dd><dt>2.</dt><dd>Kenntnis der verschiedenen Arten von Antriebsmaschinen sowie ihrer<br />
+Konstruktion, Leistung und Terminologie.</dd><dt>3.</dt><dd>Kenntnis von Funktion und Betrieb der Luftzufuhr, Kraftstoffzufuhr,<br />
+Schmiermittel, Kühlung und des Abgassystems.</dd><dt>4.</dt><dd>Kenntnis der Haupt- und Hilfsmaschinen.</dd><dt>5.</dt><dd>Fähigkeit, grundlegende Prüfungen durchzuführen und ein ordnungsgemäßes Funktionieren der Antriebsmaschinen sicherzustellen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Hauptmaschinen<br />
+und die Hilfseinrichtungen für den Betrieb vorzubereiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Anlasssysteme der Hauptmaschinen, Hilfseinrichtungen und der hydraulischen und pneumatischen Systeme gemäß Anweisungen.</dd><dt>2.</dt><dd>Kenntnis der Grundsätze des Umsteuerns des Antriebes.</dd><dt>3.</dt><dd>Fähigkeit, die Maschinen im Maschinenraum gemäß der Prüfliste für die<br />
+Abfahrt vorzubereiten.</dd><dt>4.</dt><dd>Fähigkeit, das Anlasssystem und die Hilfseinrichtungen gemäß Anweisungen zu verwenden, z. B. die Steuerungsausrüstung.</dd><dt>5.</dt><dd>Fähigkeit, die Hauptmaschinen gemäß den Anlassverfahren anzulassen.</dd><dt>6.</dt><dd>Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>angemessen auf<br />
+Funktionsstörungen der Antriebsmaschinen zu reagieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Steuerungs- und Überwachungsanlagen im Maschinenraum und der Meldeverfahren für Funktionsstörungen.</dd><dt>2.</dt><dd>Fähigkeit, Funktionsstörungen zu erkennen und geeignete Maßnahmen im Falle von Funktionsstörungen zu ergreifen, einschließlich der Meldung an die Führung des Fahrzeugs.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des sicheren Betriebs und der Steuerung der Maschinen im<br />
+Maschinenraum, in Ballastzellen und Bilgen entsprechend den Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, die sichere Funktion und den Betrieb der Maschinen im Maschinenraum zu kontrollieren und das Bilge- und Ballastsystem instand zu halten, einschließlich: Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.</dd><dt>3.</dt><dd>Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.</dd><dt>4.</dt><dd>Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>Unterstützung bei<br />
+der Überwachung elektronischer und elektrischer Geräte zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis elektronischer und elektrischer Systeme und Komponenten.</dd><dt>2.</dt><dd>Kenntnis von Gleich- und Wechselstrom.</dd><dt>3.</dt><dd>Fähigkeit, Kontrollinstrumente zu überwachen und auszuwerten.</dd><dt>4.</dt><dd>Kenntnis des Magnetismus und des Unterschieds zwischen natürlichen und künstlichen Magneten.</dd><dt>5.</dt><dd>Kenntnis des elektrohydraulischen Systems.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Kraftanlage.</dd><dt>2.</dt><dd>Fähigkeit, die Schalttafel zu benutzen.</dd><dt>3.</dt><dd>Fähigkeit, den Landanschluss zu benutzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>7.</dt><dd>Funktionsstörungen und häufige Fehler zu definieren und Maßnahmen zur Schadensverhütung zu beschreiben;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Maßnahmen bei Funktionsstörungen außerhalb des<br />
+Maschinenraums und der Maßnahmen zur Schadensverhütung.</dd><dt>2.</dt><dd>Fähigkeit, häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung an mechanischen, elektrischen, elektronischen, hydraulischen und pneumatischen Systemen zu ergreifen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>8.</dt><dd>die erforderlichen<br />
+Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse und Materialien.</dd><dt>2.</dt><dd>Fähigkeit, bei der Wartung und Instandsetzung von Maschinen und Ausrüstung sichere Arbeitsmethoden anzuwenden.</dd></dl></td></tr></tbody></table>
+
+4.2  
+Der Matrose muss in der Lage sein, Wartungsarbeiten an der Ausrüstung in den Bereichen Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik durchzuführen, um die allgemeine technische Sicherheit zu gewährleisten.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die täglichen<br />
+Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für die Wartung und Instandhaltung des Maschinenraums,<br />
+des Hauptmotors, der Hauptmaschinen, der Hilfseinrichtungen und der Regelungs- und Steuerungsanlagen zu befolgenden Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, Hauptmotoren, Hilfseinrichtungen und Regelungs- und<br />
+Steuerungsanlagen zu warten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die täglichen<br />
+Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der täglichen Wartungsverfahren.</dd><dt>2.</dt><dd>Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme<br />
+zu warten und instand zu halten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die erforderlichen<br />
+Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Einsatzes der an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen, einschließlich ihrer Eigenschaften und Grenzen.</dd><dt>2.</dt><dd>Fähigkeit, die an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen auszuwählen und einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die Wartungs- und<br />
+Instandsetzungsverfahren zu befolgen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Handbücher und Anweisungen für Wartung und Instandsetzung.</dd><dt>2.</dt><dd>Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den geltenden Handbüchern und Anweisungen durchzuführen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>technische Informationen zu nutzen und technische Verfahren zu dokumentieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Dokumentation und Handbücher.</dd><dt>2.</dt><dd>Fähigkeit, Wartungsarbeiten zu dokumentieren.</dd></dl></td></tr></tbody></table>
+
+5. Wartung und Instandsetzung
+
+5.1  
+Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Wartung und Instandsetzung des Fahrzeugs, seiner Anlagen und seiner Ausrüstung zu unterstützen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>mit verschiedenen<br />
+Arten von Materialien und Werkzeugen für Wartungs- und<br />
+Instandsetzungsvorgänge zu arbeiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der erforderlichen Werkzeuge und der Wartung der Ausrüstung sowie der sicherheitsbezogenen Arbeitsvorschriften und der Umweltschutzvorschriften.</dd><dt>2.</dt><dd>Fähigkeit, einschlägige Verfahren für die Wartung des Fahrzeugs einzusetzen, einschließlich der Fähigkeit, verschiedene Materialien auszuwählen.</dd><dt>3.</dt><dd>Fähigkeit, Werkzeuge und Wartungsausrüstung ordnungsgemäß zu warten und zu lagern.</dd><dt>4.</dt><dd>Fähigkeit, Wartungsarbeiten gemäß den sicherheitsbezogenen Arbeitsvorschriften und den Umweltschutzvorschriften durchzuführen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Gesundheit und<br />
+Umwelt bei der Durchführung von Wartungs- und<br />
+Instandsetzungsarbeiten zu schützen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften.</dd><dt>2.</dt><dd>Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Übernahme der Verantwortung für den eigenen Wohnraum ein.</dd><dt>3.</dt><dd>Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der erforderlichen Reinigungsmaterialien zu reinigen.</dd><dt>4.</dt><dd>Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs<br />
+in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltschutzvorschriften erforderlichen Materialien zu reinigen und zu konservieren.</dd><dt>5.</dt><dd>Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltschutzvorschriften zu sorgen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die technischen<br />
+Geräte gemäß den technischen Anweisungen zu warten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Anweisungen für Wartung und Wartungsprogramme.</dd><dt>2.</dt><dd>Fähigkeit, für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>sicher mit Drähten<br />
+und Seilen umzugehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und<br />
+Drähten.</dd><dt>2.</dt><dd>Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres<br />
+Arbeiten zu verwenden und zu lagern.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>Knoten und Spleiße<br />
+entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren, die für die Gewährleistung eines sicheren<br />
+Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.</dd><dt>2.</dt><dd>Fähigkeit, Drähte und Seile zu spleißen.</dd><dt>3.</dt><dd>Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.</dd><dt>4.</dt><dd>Fähigkeit, Drähte und Seile instand zu halten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>Arbeitspläne im Team vorzubereiten und umzusetzen und die Ergebnisse zu kontrollieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Grundsätze von Teamarbeit.</dd><dt>2.</dt><dd>Fähigkeit, als Teammitglied eigenständig Wartungs- und einfache Instandsetzungsarbeiten durchzuführen.</dd><dt>3.</dt><dd>Fähigkeit, komplexere Instandsetzungsarbeiten unter Aufsicht durchzuführen.</dd><dt>4.</dt><dd>Fähigkeit, verschiedene Arbeitsmethoden, einschließlich Teamarbeit,<br />
+gemäß den Sicherheitsanweisungen anzuwenden.</dd><dt>5.</dt><dd>Fähigkeit, die Qualität von Arbeiten zu beurteilen.</dd></dl></td></tr></tbody></table>
+
+6. Kommunikation
+
+6.1  
+Der Matrose muss in der Lage sein, allgemein und fachgerecht zu kommunizieren; dazu gehört auch die Fähigkeit, im Falle von Kommunikationsproblemen Standardredewendungen zu verwenden.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Informations- und<br />
+Kommunikationssysteme zu nutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Wechselsprechanlage für die fahrzeuginterne oder die<br />
+Terminalkommunikation, des (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystems des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, das (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystem des Fahrzeugs zu nutzen.</dd><dt>3.</dt><dd>Kenntnis der Bedienungsgrundlagen des Inland AIS.</dd><dt>4.</dt><dd>Fähigkeit, Daten des Inland AIS zu nutzen, um Kontakt zu anderen Fahrzeugen aufzunehmen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>verschiedene Aufgaben mithilfe verschiedener Arten von informationstechnischen Geräten, Informationsdiensten (wie den Binnenschifffahrtsinformationsdiensten (RIS)) und Kommunikationssystemen zu lösen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der im Binnenschiffsverkehr verfügbaren informationstechnischen Geräte.</dd><dt>2.</dt><dd>Fähigkeit, die informationstechnischen Geräte des Fahrzeugs<br />
+entsprechend den Anweisungen für die Durchführung einfacher Aufgaben zu verwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Daten zu erfassen<br />
+und zu speichern sowie Datensicherungen und<br />
+-aktualisierungen durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Kommunikationssystems des Fahrzeugs für die Datenerfassung, -speicherung und -aktualisierung.</dd><dt>2.</dt><dd>Fähigkeit, Daten unter strenger Aufsicht zu verarbeiten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Anweisungen für den<br />
+Datenschutz zu befolgen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Datenschutz- und Geheimhaltungsvorschriften.</dd><dt>2.</dt><dd>Fähigkeit, Daten gemäß den Datenschutz- und Geheimhaltungsvorschriften zu verarbeiten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>Fakten unter Verwendung technischer Begriffe darzulegen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.</dd><dt>2.</dt><dd>Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie<br />
+Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>nautische und technische Informationen zur Wahrung der Sicherheit des Schiffsverkehrs einzuholen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verfügbaren Informationsquellen.</dd><dt>2.</dt><dd>Fähigkeit zur Nutzung von Informationsquellen für das Einholen notwendiger nautischer und technischer Informationen zur Wahrung der Sicherheit des Schiffsverkehrs.</dd></dl></td></tr></tbody></table>
+
+6.2  
+Der Matrose muss in der Lage sein, umgänglich zu sein.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Anweisungen zu befolgen und sich mit anderen über die schiffsinternen Pflichten zu verständigen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Bedeutung von Befehlen der Führung des Fahrzeugs,<br />
+formellen und informellen Anweisungen, Vorschriften und Verfahren sowie der Bedeutung der eigenen Vorbildfunktion für unerfahrene Besatzungsmitglieder.</dd><dt>2.</dt><dd>Fähigkeit, Befehle der Führung des Fahrzeugs sowie sonstige Anweisungen und Vorschriften weiterzuverfolgen und unerfahrene Besatzungsmitglieder zu begleiten.</dd><dt>3.</dt><dd>Kenntnis der Unternehmens- oder Bordvorschriften.</dd><dt>4.</dt><dd>Fähigkeit zur Einhaltung der Unternehmens- oder Bordvorschriften.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>zu guten sozialen<br />
+Beziehungen an Bord beizutragen und mit anderen zusammenzuarbeiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der kulturellen Vielfalt.</dd><dt>2.</dt><dd>Fähigkeit, verschiedene kulturelle Standards, Werte und Gepflogenheiten zu akzeptieren.</dd><dt>3.</dt><dd>Fähigkeit, im Team zu arbeiten und zu leben.</dd><dt>4.</dt><dd>Fähigkeit, an Teambesprechungen teilzunehmen und die zugewiesenen Aufgaben auszuführen.</dd><dt>5.</dt><dd>Wissen um die Bedeutung von Respekt bei Teamarbeit.</dd><dt>6.</dt><dd>Fähigkeit, geschlechtsbezogene und kulturelle Unterschiede zu<br />
+respektieren und diesbezügliche Probleme, einschließlich Mobbing und (sexuelle) Belästigung, zu melden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>soziale Verantwortung zu übernehmen, Beschäftigungsbedingungen, individuelle Rechte und Pflichten zu akzeptieren;<br />
+sich der Gefahren des Missbrauchs von Alkohol und Drogen bewusst zu sein und auf Fehlverhalten und Gefahren angemessen zu reagieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, Fehlverhalten und mögliche Gefahren zu erkennen.</dd><dt>2.</dt><dd>Fähigkeit, auf Fehlverhalten und mögliche Gefahren proaktiv zu reagieren.</dd><dt>3.</dt><dd>Fähigkeit, eigenständig entsprechend den Anweisungen zu arbeiten.</dd><dt>4.</dt><dd>Kenntnis der Rechte und Pflichten der einzelnen Arbeitnehmer.</dd><dt>5.</dt><dd>Kenntnis der Gefahren des Alkohol- und Drogenkonsums im Arbeits- und sozialen Umfeld (Kenntnis der Polizeivorschriften zur Toxikologie).</dd><dt>6.</dt><dd>Fähigkeit, Gefahren für den sicheren Fahrzeugbetrieb im Zusammenhang mit Alkohol und Drogen zu erkennen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>einfache Mahlzeiten<br />
+zu planen, dafür einzukaufen und diese zuzubereiten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Möglichkeiten der Nahrungsmittelbeschaffung und der Grundsätze gesunder Ernährung.</dd><dt>2.</dt><dd>Fähigkeit, einfache Mahlzeiten unter Einhaltung der Hygienevorschriften<br />
+zuzubereiten.</dd></dl></td></tr></tbody></table>
+
+7. Gesundheit, Sicherheit und Umweltschutz
+
+7.1  
+Der Matrose muss in der Lage sein, sicherheitsbezogene Arbeitsvorschriften einzuhalten und die Bedeutung der Gesundheits- und Sicherheitsvorschriften und die Bedeutung der Umwelt zu verstehen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>gemäß den Anweisungen und Vorschriften für Arbeitssicherheit und Unfallverhütung zu arbeiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Vorteile sicherer Arbeitsmethoden.</dd><dt>2.</dt><dd>Kenntnis der Arten von Gefahrenmomenten an Bord.</dd><dt>3.</dt><dd>Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord<br />
+zu vermeiden, z. B.:<dl><dt>•</dt><dd>Fahrzeugbewegungen;</dd><dt>•</dt><dd>Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote);</dd><dt>•</dt><dd>sicheres Stauen beweglicher Gegenstände;</dd><dt>•</dt><dd>Arbeiten mit Maschinen;</dd><dt>•</dt><dd>Erkennen elektrischer Gefahren;</dd><dt>•</dt><dd>Brandschutz und Brandbekämpfung;</dd><dt>•</dt><dd>professioneller Gebrauch von Handwerkzeug;</dd><dt>•</dt><dd>professioneller Gebrauch von tragbarem Elektrowerkzeug;</dd><dt>•</dt><dd>Einhaltung der Gesundheits- und Hygienevorschriften;</dd><dt>•</dt><dd>Beseitigung von Rutsch-, Sturz- und Stolpergefahren.</dd></dl></dd><dt>4.</dt><dd>Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen<br />
+Arbeitsanweisungen bei Tätigkeiten an Bord.</dd><dt>5.</dt><dd>Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.</dd><dt>6.</dt><dd>Fähigkeit, Unfälle bei für Personal oder Fahrzeug potenziell gefährlichen Tätigkeiten zu vermeiden, im Zusammenhang mit<dl><dt>•</dt><dd>Be- und Entladung;</dd><dt>•</dt><dd>Festmachen und Ablegen;</dd><dt>•</dt><dd>Höhenarbeiten;</dd><dt>•</dt><dd>Arbeiten mit Chemikalien;</dd><dt>•</dt><dd>Arbeiten mit Batterien;</dd><dt>•</dt><dd>Aufenthalt im Maschinenraum;</dd><dt>•</dt><dd>Heben von Lasten (manuell und mechanisch);</dd><dt>•</dt><dd>Betreten von und Arbeiten in geschlossenen Räumen.</dd></dl></dd><dt>7.</dt><dd>Fähigkeit, Befehle zu verstehen und sich mit anderen über die Aufgaben<br />
+an Bord zu verständigen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>persönliche Schutzausrüstung zur Unfallverhütung zu benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis persönlicher Schutzausrüstung.</dd><dt>2.</dt><dd>Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.:<dl><dt>•</dt><dd>Augenschutz,</dd><dt>•</dt><dd>Atemschutz,</dd><dt>•</dt><dd>Gehörschutz,</dd><dt>•</dt><dd>Kopfschutz,</dd><dt>•</dt><dd>Schutzkleidung.</dd></dl></dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die erforderlichen<br />
+Vorsichtsmaßnahmen vor dem Betreten geschlossener Räume zu beachten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Gefahren im Zusammenhang mit dem Betreten geschlossener Räume.</dd><dt>2.</dt><dd>Kenntnis der Vorsichtsmaßnahmen und Tests oder Messungen, die vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu beachten bzw. durchzuführen sind.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><dl><dt>3.</dt><dd>Fähigkeit, die Sicherheitsanweisungen vor dem Betreten bestimmter<br />
+Räume an Bord anzuwenden, z. B.:<dl><dt>•</dt><dd>Laderäume,</dd><dt>•</dt><dd>Kofferdämme,</dd><dt>•</dt><dd>Doppelhülle.</dd></dl></dd><dt>4.</dt><dd>Fähigkeit, Vorsichtsmaßnahmen für Arbeiten in geschlossenen Räumen<br />
+zu beachten.</dd></dl></td></tr></tbody></table>
+
+7.2  
+Der Matrose muss in der Lage sein, die Bedeutung der Ausbildung zur Sicherheit an Bord zu würdigen und in Notfällen umgehend zu handeln.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>in Notfällen gemäß<br />
+den anwendbaren Anweisungen und Verfahren zu handeln;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen Arten von Notfällen.</dd><dt>2.</dt><dd>Kenntnis der im Falle eines Alarms zu befolgenden Abläufe.</dd><dt>3.</dt><dd>Kenntnis der im Falle eines Unfalls anzuwendenden Verfahren.</dd><dt>4.</dt><dd>Fähigkeit, gemäß den Anweisungen und Verfahren zu handeln.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Erste Hilfe zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.</dd><dt>2.</dt><dd>Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.</dd><dt>3.</dt><dd>Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den<br />
+anerkannten bewährten Verfahren.</dd><dt>4.</dt><dd>Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.</dd><dt>5.</dt><dd>Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen,<br />
+einschließlich:<dl><dt>a)</dt><dd>Betroffene in die richtige Lage zu bringen,</dd><dt>b)</dt><dd>Wiederbelebungstechniken anzuwenden,</dd><dt>c)</dt><dd>Blutungen zu stillen,</dd><dt>d)</dt><dd>angemessene Maßnahmen der grundlegenden Schockbehandlung<br />
+anzuwenden,</dd><dt>e)</dt><dd>angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,</dd><dt>f)</dt><dd>Betroffene zu retten und zu transportieren.</dd></dl></dd><dt>6.</dt><dd>Fähigkeit, Verbände provisorisch anzulegen und Material aus der<br />
+Erste-Hilfe-Ausrüstung anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>persönliche Schutzausrüstung und Rettungsmittel an Bord zu benutzen und instand zu halten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der regelmäßigen Überprüfungen der persönlichen Schutzausrüstung, der Fluchtwege und der Rettungsausrüstung in Bezug auf Funktion, Beschädigungen, Verschleiß und sonstige Mängel.</dd><dt>2.</dt><dd>Fähigkeit, im Falle festgestellter Mängel zu reagieren und dabei die<br />
+relevanten Kommunikationsverfahren anzuwenden.</dd><dt>3.</dt><dd>Fähigkeit, persönliche Rettungsmittel zu benutzen, z. B.:<dl><dt>•</dt><dd>Rettungsringe, einschließlich der relevanten Ausrüstung, und</dd><dt>•</dt><dd>Rettungswesten, einschließlich der relevanten Ausrüstung an Rettungswesten wie feste Lichter oder Blinklichter und eine mit einer Kordel sicher befestigte Pfeife.</dd></dl></dd><dt>4.</dt><dd>Kenntnis der Funktionen des Beiboots.</dd><dt>5.</dt><dd>Fähigkeit, das Beiboot vorzubereiten, zu Wasser zu bringen, zu fahren,<br />
+wieder an Bord zu nehmen und zu verstauen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>bei Rettungsarbeiten Unterstützung zu leisten und zu schwimmen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, Betroffene zu retten und zu transportieren.</dd><dt>2.</dt><dd>Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>Fluchtwege zu<br />
+benutzen;</dd></dl></td><td style="text-align: left;">Fähigkeit, Fluchtwege (entsprechend den lokalen Gegebenheiten an Bord) frei zu halten.</td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>interne Notfallkommunikations- und Alarmsysteme zu benutzen.</dd></dl></td><td style="text-align: left;">Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen.</td></tr></tbody></table>
+
+7.3  
+Der Matrose muss in der Lage sein, Brandschutzmaßnahmen zu ergreifen und Brandbekämpfungsgeräte ordnungsgemäß zu bedienen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Bestandteile von<br />
+Bränden und Zündarten und -quellen zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten<br />
+sowie der Brandklassen gemäß der europäischen EN-Norm oder einer gleichwertigen Norm.</dd><dt>2.</dt><dd>Kenntnis der Bestandteile des Verbrennungsprozesses.</dd><dt>3.</dt><dd>Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>verschiedene Arten<br />
+von Feuerlöschern zu benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.</dd><dt>2.</dt><dd>Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen unter Berücksichtigung z. B. folgender Aspekte einzusetzen:<dl><dt>•</dt><dd>Gebrauch verschiedener Arten tragbarer Feuerlöscher und</dd><dt>•</dt><dd>Auswirkungen des Windes beim Annähern an das Feuer.</dd></dl></dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>gemäß den an Bord geltenden Verfahren und der Organisation der Brandbekämpfung zu handeln;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Brandbekämpfungssysteme an Bord.</dd><dt>2.</dt><dd>Fähigkeit, Brände zu bekämpfen und die entsprechenden Meldungen vorzunehmen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Anweisungen zu<br />
+befolgen betreffend: persönliche Ausrüstung, Methoden, Löschmittel und Verfahren bei Brandbekämpfung und Rettungsarbeiten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren zur Vermeidung persönlicher Gefährdungen.</dd><dt>2.</dt><dd>Fähigkeit, gemäß den Notfallverfahren zu handeln.</dd></dl></td></tr></tbody></table>
+
+7.4  
+Der Matrose muss in der Lage sein, seine Aufgaben unter Berücksichtigung der Bedeutung des Umweltschutzes wahrzunehmen.
+
+Der Matrose muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Umwelt gemäß<br />
+den einschlägigen<br />
+Vorschriften zu schützen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der nationalen und internationalen Umweltschutzvorschriften.</dd><dt>2.</dt><dd>Fähigkeit, die verfügbaren Dokumentations- und Informationssysteme zu<br />
+Umweltfragen gemäß den Anweisungen zu nutzen.</dd><dt>3.</dt><dd>Kenntnis der Folgen eines möglichen Austritts von Ladung und Schadstoffen in die Umwelt.</dd><dt>4.</dt><dd>Kenntnis gefährlicher Güter und ihrer Klassifizierung in Bezug auf Umweltaspekte.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung zu treffen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der allgemeinen Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung.</dd><dt>2.</dt><dd>Fähigkeit, allgemeine Vorsichtsmaßnahmen zu treffen und sichere Bunkerverfahren anzuwenden.</dd><dt>3.</dt><dd>Fähigkeit, im Falle eines Zusammenstoßes Maßnahmen gemäß den Anweisungen zu ergreifen, z. B. durch das Abdichten von Leckagen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Ressourcen effizient<br />
+einzusetzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des effizienten Kraftstoffverbrauchs.</dd><dt>2.</dt><dd>Fähigkeit, Materialien wirtschaftlich und energiesparend einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Abfälle umweltfreundlich zu entsorgen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anwendbaren Abfallvorschriften.</dd><dt>2.</dt><dd>Fähigkeit zur Durchführung der Sammlung, Abgabe und des Verbrauchs von:<dl><dt>•</dt><dd>Fahrzeugölen und -fetten,</dd><dt>•</dt><dd>Ladungsrückständen und</dd><dt>•</dt><dd>anderen Arten von Abfallprodukten.</dd></dl></dd></dl></td></tr></tbody></table>
+
+# Anlage 9 – (zu § 38 Absatz 1, Absatz 4 Satz 1 Nummer 2)Befähigungsstandards für die Führungsebene
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 39 - 59)
+
+ 
+
+0. Aufsicht
+
+Der Schiffsführer muss in der Lage sein, gemäß Abschnitt 1 des Anhangs II der Richtlinie (EU) 2017/2397 anderen Mitgliedern der Decksmannschaft Anweisungen zu erteilen und die von ihnen ausgeführten Aufgaben zu überwachen, was ausreichende Fähigkeiten zur Ausführung dieser Aufgaben voraussetzt.
+
+Personen, die die Befähigung als Schiffsführer erlangen möchten, müssen die in den folgenden Abschnitten 0.1 bis 7.4 aufgeführten Befähigungen nachweisen, es sei denn, sie haben einen der folgenden Schritte durchgeführt:
+
+–  
+ein zugelassenes Ausbildungsprogramm absolviert, das auf den Befähigungsstandards für die Betriebsebene beruht;
+
+–  
+eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind.
+
+0.1  
+Navigation
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>das Festmachen,<br />
+Ablegen und Verholen (Schleppen) vorzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).</dd><dt>2.</dt><dd>Fähigkeit, die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.</dd><dt>3.</dt><dd>Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.</dd><dt>4.</dt><dd>Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.</dd><dt>5.</dt><dd>Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>das Kuppeln von<br />
+Schubverbänden vorzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialen zu kuppeln und zu entkuppeln.</dd><dt>3.</dt><dd>Fähigkeit, die an Bord für das Kuppeln verfügbare Ausrüstung und ver fügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.</dd><dt>4.</dt><dd>Fähigkeit, mit den am Kuppeln von Schubverbänden beteiligten Besatzungsmitgliedern zu kommunizieren.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>das Ankern vorzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für das Ankern eingesetzten Ausrüstung, Materialien und Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, Ankermanöver vorzuführen: die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><dl><dt>3.</dt><dd>Fähigkeit, die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.</dd><dt>4.</dt><dd>Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>4.</dt><dd>angemessene Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Besatzung des Fahrzeugs umgehend zu warnen und persönliche Schutz- und Rettungsausrüstung zu benutzen.</dd><dt>2.</dt><dd>Fähigkeit, die Wasserdichtigkeit des Fahrzeugs sicherzustellen.</dd><dt>3.</dt><dd>Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen vor- und durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>5.</dt><dd>die verschiedenen<br />
+Arten von Schleusen und Brücken in Bezug auf ihren Betrieb zu beschreiben;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Form, Anordnung und Einrichtungen von Schleusen und Brücken, Schleusung, Arten von Schleusentoren, Pollern und Stufen usw.</dd><dt>2.</dt><dd>Fähigkeit, den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>6.</dt><dd>die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.</dd><dt>2.</dt><dd>Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten.</dd><dt>3.</dt><dd>Kenntnis des Kennzeichnungssystems gemäß SIGNI (Signalisation<br />
+des voies de navigation intérieure) und IALA (International Association<br />
+of Marine Aids to Navigation and Lighthouse Authorities) Teil A.</dd></dl></td></tr></tbody></table>
+
+0.2  
+Betrieb des Fahrzeugs
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>verschiedene Arten<br />
+von Fahrzeugen zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tonnage.</dd><dt>2.</dt><dd>Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen<br />
+Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, zu erläutern.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Kenntnisse über<br />
+die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der vorgeschriebenen Fahrzeugdokumente.</dd><dt>2.</dt><dd>Fähigkeit, die Bedeutung der Dokumente im Zusammenhang mit internationalen und nationalen Anforderungen und Rechtsvorschriften zu erläutern.</dd></dl></td></tr></tbody></table>
+
+0.3  
+Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Kennzeichnung<br />
+gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) und die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß ADN zu erklären.</dd><dt>2.</dt><dd>Fähigkeit, die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären, einschließlich der Anwendung der Verordnung (EU) Nr. 1177/2010.</dd><dt>3.</dt><dd>Fähigkeit, mit Fahrgästen effektiv zu kommunizieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>den Einsatz von<br />
+Ballastsystemen zu erklären und vorzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Funktion und des Einsatzes von Ballastsystemen.</dd><dt>2.</dt><dd>Fähigkeit, den Einsatz des Ballastsystems, z. B. durch die Befüllung oder Entleerung der Ballasttanks, zu erklären.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Ladungsmenge<br />
+zu überprüfen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.</dd><dt>2.</dt><dd>Fähigkeit, Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden.</dd><dt>3.</dt><dd>Fähigkeit, die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen.</dd></dl></td></tr></tbody></table>
+
+0.4  
+Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Maschinen,<br />
+einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der für den sicheren Betrieb der Maschinen und des Bilge- und Ballastsystems zu befolgenden Verfahren sowie der ordnungsgemäßen Abfallentsorgung.</dd><dt>2.</dt><dd>Fähigkeit, die Maschinen im Maschinenraum entsprechend den Verfahren zu betreiben und zu steuern.</dd><dt>3.</dt><dd>Fähigkeit, die sichere Funktion, Betriebsweise und Instandhaltung des<br />
+Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.</dd><dt>4.</dt><dd>Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.</dd><dt>5.</dt><dd>Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.</dd><dt>6.</dt><dd>Fähigkeit, die Notwendigkeit einer ordnungsgemäßen und sicheren Sammlung, Lagerung und Abgabe von Abfällen zu erklären.</dd><dt>7.</dt><dd>Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Generatoren<br />
+vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Kraftanlage.</dd><dt>2.</dt><dd>Fähigkeit, die Schalttafel zu benutzen.</dd><dt>3.</dt><dd>Fähigkeit, den Landanschluss zu benutzen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die erforderlichen<br />
+Werkzeuge und Materialien zu verwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse, Materialien und Werkzeuge.</dd><dt>2.</dt><dd>Fähigkeit, sichere Arbeitsverfahren anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die täglichen<br />
+Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;</dd></dl></td><td style="text-align: left;">Fähigkeit, Maschinenraum, Hauptmotoren, Hauptmaschinen und Hilfsmaschinen und Regelungs- und Steuerungsanlagen zu warten und instand zu halten.</td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>die täglichen<br />
+Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen.</dd></dl></td><td style="text-align: left;">Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten.</td></tr></tbody></table>
+
+0.5  
+Wartung und Instandsetzung
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Gesundheit und<br />
+Umwelt bei der Durchführung von Wartungs- und<br />
+Instandsetzungsarbeiten zu schützen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren<br />
+sowie der Hygienevorschriften.</dd><dt>2.</dt><dd>Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein.</dd><dt>3.</dt><dd>Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der<br />
+geeigneten Reinigungsmaterialien zu reinigen.</dd><dt>4.</dt><dd>Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren.</dd><dt>5.</dt><dd>Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die technischen<br />
+Geräte gemäß den technischen Anweisungen zu warten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Anweisungen für Wartungs- und Instandsetzungsprogramme.</dd><dt>2.</dt><dd>Fähigkeit, sämtliche technische Ausrüstung gemäß den technischen<br />
+Anweisungen zu warten und instand zu halten.</dd><dt>3.</dt><dd>Fähigkeit, die Wartungsprogramme (auch digitale) unter Aufsicht zu<br />
+verwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>sicher mit Drähten<br />
+und Seilen umzugehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten.</dd><dt>2.</dt><dd>Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres<br />
+Arbeiten zu verwenden und zu lagern.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Knoten und Spleiße<br />
+entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.</dd><dt>2.</dt><dd>Fähigkeit, Drähte und Seile zu spleißen.</dd><dt>3.</dt><dd>Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.</dd><dt>4.</dt><dd>Fähigkeit, Drähte und Seile instand zu halten.</dd></dl></td></tr></tbody></table>
+
+0.6  
+Kommunikation
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Fakten unter Verwendung technischer Begriffe darzulegen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.</dd><dt>2.</dt><dd>Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie<br />
+Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden.</dd></dl></td></tr></tbody></table>
+
+0.7  
+Gesundheit, Sicherheit und Umweltschutz
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Vorschriften für<br />
+Arbeitssicherheit und Unfallverhütung anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis sicherer Arbeitsmethoden.</dd><dt>2.</dt><dd>Kenntnis der Arten von Gefahrenmomenten an Bord.</dd><dt>3.</dt><dd>Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord vermeiden, z. B.:<dl><dt>•</dt><dd>Fahrzeugbewegungen,</dd><dt>•</dt><dd>Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote),</dd><dt>•</dt><dd>sicheres Stauen beweglicher Gegenstände,</dd><dt>•</dt><dd>Arbeiten mit Maschinen,</dd><dt>•</dt><dd>Erkennen elektrischer Gefahren,</dd><dt>•</dt><dd>Brandschutz und Brandbekämpfung,</dd><dt>•</dt><dd>professioneller Gebrauch von Handwerkzeug,</dd><dt>•</dt><dd>professioneller Gebrauch von tragbarem Elektrowerkzeug,</dd><dt>•</dt><dd>Einhaltung der Gesundheits- und Hygienevorschriften,</dd><dt>•</dt><dd>Beseitigung von Rutsch-, Sturz- und Stolpergefahren.</dd></dl></dd><dt>4.</dt><dd>Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen<br />
+Arbeitsanweisungen bei Tätigkeiten an Bord.</dd><dt>5.</dt><dd>Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.</dd><dt>6.</dt><dd>Fähigkeit, für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten<br />
+verhindern, z. B.:<dl><dt>•</dt><dd>Be- und Entladung,</dd><dt>•</dt><dd>Festmachen und Ablegen,</dd><dt>•</dt><dd>Höhenarbeiten,</dd><dt>•</dt><dd>Arbeiten mit Chemikalien,</dd><dt>•</dt><dd>Arbeiten mit Batterien,</dd><dt>•</dt><dd>während des Aufenthalts im Maschinenraum,</dd><dt>•</dt><dd>Heben von Lasten (manuell und mechanisch),</dd><dt>•</dt><dd>Betreten von und Arbeiten in geschlossenen Räumen.</dd></dl></dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>persönliche Schutzausrüstung zur<br />
+Unfallverhütung zu benutzen;</dd></dl><br />
+</td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren für die Benutzung der erforderlichen Ausrüstung für Arbeitssicherheit an Bord.</dd><dt>2.</dt><dd>Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.:<dl><dt>•</dt><dd>Augenschutz,</dd><dt>•</dt><dd>Atemschutz,</dd><dt>•</dt><dd>Gehörschutz,</dd><dt>•</dt><dd>Kopfschutz,</dd><dt>•</dt><dd>Schutzkleidung.</dd></dl></dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>bei Rettungsarbeiten<br />
+zu schwimmen und Unterstützung zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.</dd><dt>2.</dt><dd>Fähigkeit, Rettungsausrüstung bei Rettungsarbeiten zu benutzen.</dd><dt>3.</dt><dd>Fähigkeit, Betroffene zu retten und zu transportieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Fluchtwege zu<br />
+benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der bei einer Evakuierung zu befolgenden Verfahren<br />
+(entsprechend den lokalen Gegebenheiten an Bord).</dd><dt>2.</dt><dd>Fähigkeit, Fluchtwege frei zu halten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>interne Notfallkommunikations- und Alarmsysteme zu benutzen;</dd></dl></td><td style="text-align: left;">Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen.</td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>die Bestandteile von<br />
+Bränden und Zündarten und -quellen zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten<br />
+sowie der Brandklassen gemäß der Europäischen Norm (EN) oder einer gleichwertigen Norm.</dd><dt>2.</dt><dd>Kenntnis der Bestandteile des Verbrennungsprozesses.</dd><dt>3.</dt><dd>Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>7.</dt><dd>verschiedene Arten<br />
+von Feuerlöschern zu unterscheiden und zu benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.</dd><dt>2.</dt><dd>Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden, z. B.:<dl><dt>•</dt><dd>Klassen von Feuerlöschern,</dd><dt>•</dt><dd>Gebrauch verschiedener Arten tragbarer Feuerlöscher,</dd><dt>•</dt><dd>Auswirkungen des Windes beim Annähern an das Feuer.</dd></dl></dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>8.</dt><dd>Erste Hilfe zu leisten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.</dd><dt>2.</dt><dd>Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.</dd><dt>3.</dt><dd>Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den<br />
+anerkannten bewährten Verfahren.</dd><dt>4.</dt><dd>Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.</dd><dt>5.</dt><dd>Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen,<br />
+einschließlich:<dl><dt>a)</dt><dd>Betroffene in die richtige Lage zu bringen,</dd><dt>b)</dt><dd>Wiederbelebungstechniken anzuwenden,</dd><dt>c)</dt><dd>Blutungen zu stillen,</dd><dt>d)</dt><dd>angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,</dd><dt>e)</dt><dd>angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,</dd><dt>f)</dt><dd>Betroffene zu retten und zu transportieren.</dd></dl></dd><dt>6.</dt><dd>Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden.</dd></dl></td></tr></tbody></table>
+
+1. Navigation
+
+1.1  
+Der Schiffsführer muss in der Lage sein, Reisen zu planen und auf Binnenwasserstraßen zu navigieren; dazu gehört auch die Fähigkeit, unter Berücksichtigung der geltenden Verkehrsregeln und der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt die logischste, wirtschaftlichste und umweltfreundlichste Reiseroute zum Be- bzw. Entladeziel auszuwählen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>auf europäischen<br />
+Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der durch die Binnenschifffahrt genutzten nationalen und internationalen Wasserstraßen, der geografischen Lage von Flüssen, Kanälen, Seehäfen, Binnenhäfen und des Zusammenhangs mit den Ladungsströmen.</dd><dt>2.</dt><dd>Kenntnis der Binnenwasserstraßenklassifizierung der CEMT (Conférence<br />
+européenne des ministres des transports) und der Abmessungen der Wasserstraße im Verhältnis zu den Fahrzeugabmessungen unter Einsatz moderner Informationssysteme.</dd><dt>3.</dt><dd>Fähigkeit, unter Einsatz relevanter Informationsquellen Wasserstände, Tiefe sowie Tiefgang und Brückendurchfahrtshöhe zu berechnen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><dl><dt>4.</dt><dd>Fähigkeit, Entfernungen und Fahrzeit unter Verwendung von Informationsquellen zu Entfernungen, Schleusen, Beschränkungen, Fahrgeschwindigkeit oder Fahrzeit zu berechnen.</dd><dt>5.</dt><dd>Kenntnisse zu Haftung und Versicherung.</dd><dt>6.</dt><dd>Fähigkeit, Besatzungsmitgliedern und Bordpersonal Anweisungen für die sichere Ausführung von Aufgaben zu erteilen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>2.</dt><dd>die für die Navigation auf Binnenwasserstraßen geltenden Verkehrsregeln zu beachten und anzuwenden, um Schäden zu vermeiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Fahrregeln wie der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt für die befahrene Binnenwasserstraße, um Schäden zu vermeiden (z. B. durch Kollision).</dd><dt>2.</dt><dd>Fähigkeit, die einschlägigen für die befahrene Wasserstraße geltenden Verkehrsregeln anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>3.</dt><dd>die ökonomischen<br />
+und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Umweltaspekte bei der Fahrt auf Binnenwasserstraßen.</dd><dt>2.</dt><dd>Fähigkeit, nachhaltige und ökonomische Schifffahrt zu treiben im Hinblick auf z. B. Kraftstoffeffizienz, Bunkervorgang, Emissionswerte, Flachwassereffekte, Anschluss an die Landstromversorgung und Abfallentsorgung.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>4.</dt><dd>den technischen<br />
+Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.</dd><dt>2.</dt><dd>Fähigkeit, verschiedene Arten von Schleusen mit verschiedenen Schleusungsvorgängen, verschiedene Arten von Brücken, Kanal- und Flussprofilen zu durchfahren sowie „sichere Häfen“ und Übernachtungshäfen zu nutzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>5.</dt><dd>mit aktuellen Karten,<br />
+Nachrichten für die Binnenschifffahrt oder Seefahrer sowie anderen Veröffentlichungen zu arbeiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Navigationshilfen.</dd><dt>2.</dt><dd>Fähigkeit, gegebenenfalls Navigationshilfen zu verwenden, z. B. Satellitenpositionssystemnavigation.</dd><dt>3.</dt><dd>Fähigkeit, nautische Karten unter Berücksichtigung von Faktoren im<br />
+Zusammenhang mit Genauigkeit und Kartenangaben, wie Kartendatum, Symbolen, Tiefeninformationen, Bodenbeschreibung, Tiefen und Datum (WGS84), und internationale Kartenstandards wie Inland ECDIS zu nutzen.</dd><dt>4.</dt><dd>Fähigkeit, nautische Veröffentlichungen wie Nachrichten für die Binnenschifffahrt oder Seefahrer zu nutzen, um die erforderlichen Informationen für eine sichere Navigation zu sammeln, sodass jederzeit die Gezeitenhöhe, Informationen zu Vereisung, Hochwasser oder Niedrigwasser, Liegeplätzen und Hafenverzeichnissen verfügbar sind.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>6.</dt><dd>die einschlägigen<br />
+Verkehrsüberwachungsinstrumente zu nutzen und anzuwenden.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Signale.</dd><dt>2.</dt><dd>Fähigkeit, Tag- und Nachtzeichen wie Leitfeuer zu nutzen. Kenntnis von<br />
+Inland AIS, Inland ECDIS, elektronischen Meldungen und Nachrichten für die Binnenschifffahrt oder Seefahrer, Binnenschifffahrtsinformationsdiensten (river information services – RIS), überwachten und unüberwachten Schiffsverkehrsdiensten (vessel traffic services – VTS) und deren Komponenten.</dd><dt>3.</dt><dd>Fähigkeit, Verkehrsinformationsinstrumente zu nutzen.</dd></dl></td></tr></tbody></table>
+
+1.2  
+Der Schiffsführer muss in der Lage sein, seine Kenntnisse der geltenden Besatzungsvorschriften, einschließlich seiner Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft, anzuwenden.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die erforderlichen<br />
+Qualifikationen und Besatzungsmitglieder anhand der anwendbaren Vorschriften für die Besatzung von Fahrzeugen auszuwählen; dies schließt Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft ein.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Mindestbesatzungsanforderungen und vorgeschriebenen<br />
+Berufsqualifikationen von Besatzungsmitgliedern und Bordpersonal.</dd><dt>2.</dt><dd>Kenntnis der Anforderungen an die medizinische Tauglichkeit und die<br />
+medizinischen Untersuchungen von Besatzungsmitgliedern.</dd><dt>3.</dt><dd>Kenntnis des administrativen Verfahrens für die Erfassung von Daten in<br />
+Schifferdienstbüchern.</dd><dt>4.</dt><dd>Kenntnis der anwendbaren Betriebsarten und der Mindestruhezeit.</dd><dt>5.</dt><dd>Kenntnis des administrativen Verfahrens für die Erfassung von Daten im<br />
+Bordbuch.</dd><dt>6.</dt><dd>Kenntnis der Vorschriften über die Arbeitszeit.</dd><dt>7.</dt><dd>Kenntnis der Anforderungen für besondere Berechtigungen.</dd><dt>8.</dt><dd>Kenntnis der speziellen Besatzungsanforderungen für Schiffe, die dem<br />
+Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) unterliegen, Fahrgastschiffe und mit Flüssigerdgas betriebene Fahrzeuge, sofern anwendbar.</dd><dt>9.</dt><dd>Fähigkeit, den Besatzungsmitgliedern Anweisungen hinsichtlich Dienstantritt und Dienstende zu erteilen.</dd></dl></td></tr></tbody></table>
+
+1.3  
+Der Schiffsführer muss in der Lage sein, bei Gewährleistung des sicheren Betriebs des Fahrzeugs unter allen Bedingungen auf Binnenwasserstraßen Fahrzeuge zu führen und zu manövrieren; dies gilt auch für Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, wofür Grundkenntnisse des Europäischen Übereinkommens über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) erforderlich sind.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>unter Berücksichtigung der geografischen, hydrologischen, meteorologischen und morphologischen Eigenschaften der Hauptbinnenwasserstraßen auf diesen zu fahren und zu manövrieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse zu den hydrologischen und morphologischen Eigenschaften der Hauptwasserstraßen, z. B. Einzugsgebiet und Wasserscheide, Flussarten nach Wasserquelle, Flussgefälle und -lauf, Fließgeschwindigkeit und Strömungsmuster, menschliche Eingriffe in den Flusslauf.</dd><dt>2.</dt><dd>Kenntnisse zu den meteorologischen Auswirkungen auf die Hauptbinnenwasserstraßen, z. B. Wetterbericht und Warndienste, Beaufort-Skala, regionale Einteilung für Wind- und Unwetterwarnungen mit Faktoren wie Luftdruck, Windstärke, Hoch- und Tiefdruckgebieten, Wolken, Nebel, Arten und Durchzug von Wetterfronten, Eiswarnungen und Hochwasserwarnungen.</dd><dt>3.</dt><dd>Fähigkeit, die geografischen, hydrologischen, meteorologischen und<br />
+morphologischen Informationen anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Anweisungen für das Festmachen und Ablegen des Fahrzeugs und das Verholen und Schleppen zu erteilen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Anforderungen und Dokumente zum Festmachen und Verholen.</dd><dt>2.</dt><dd>Fähigkeit, die Verfahren für Festmach- und Ablegemanöver einzuleiten<br />
+und sicherzustellen, dass die Ausrüstung auf verschiedenen Arten von Fahrzeugen mit den Anforderungen des Zeugnisses des Fahrzeugs übereinstimmt.</dd><dt>3.</dt><dd>Fähigkeit, mit der Decksmannschaft zu kommunizieren, z. B. Kommunikationssysteme und Handzeichen zu verwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>für einen sicheren Zugang zum Fahrzeug zu sorgen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Anforderungen an Einrichtungen für den Fahrzeugzugang.</dd><dt>2.</dt><dd>Fähigkeit, einen sicheren Zugang zum Fahrzeug im fahrenden, festgemachten Zustand und vor Anker zu organisieren und z. B. Treppen, Landungsstege, Beiboote, Absturzsicherung und Beleuchtung zu verwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>moderne elektronische Navigationshilfen zu benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Funktionen und Bedienung von Navigationshilfen.</dd><dt>2.</dt><dd>Kenntnis der Bedienungsgrundlagen, Beschränkungen und Fehlerquellen von Navigationshilfen.</dd><dt>3.</dt><dd>Fähigkeit, nautische Sensoren und Anzeigen, die nautische Informationen bereitstellen, z. B. (D)GPS, Positions-, Steuerkurs-, Kurs-, Geschwindigkeits-, Abstands-, Tiefenanzeiger, Inland ECDIS, Radar, zu verwenden.</dd><dt>4.</dt><dd>Fähigkeit, Binnenschifffahrtsinformationsdienste (RIS) und -technologien, z. B. Inland AIS, Inland ECDIS, elektronische Meldungen und Nachrichten für die Binnenschifffahrt, Wasserstraßeninformationsdienste<br />
+(Fairway Information Services – FIS), Verkehrsinformationen<br />
+(Traffic Information Services – TIS), Verkehrsmanagementdienste<br />
+(Traffic Management Services – TMS), Havariemanagementdienste<br />
+(Calamity Abatement Services – CAS), Informationen für Transportlogistik (Information for Transport Logistics – ITL), Informationen für Strafverfolgung (Information for Law Enforcement – ILE), Statistiken, Informationen zu Schifffahrtsabgaben und Hafengeldern (Waterway Charges and Harbour Dues – WCHD), Abstand, Tiefe, auch in Verbindung mit Radar, zu verwenden.</dd><dt>5.</dt><dd>Fähigkeit, fehlerhafte Anzeigen zu erkennen und Methoden zur Korrektur anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>die technischen<br />
+Anforderungen an die Binnenschifffahrt zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Aufbaus und Inhalts der anwendbaren technischen Anforderungen und des Inhalts des Zeugnisses des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, Prüfungen und Zertifizierungsverfahren einzuleiten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>die Auswirkungen<br />
+von Strömung, Wellengang, Wind und Wasserständen im Zusammenhang mit den Wechselwirkungen beim Kreuzen, Begegnen und Überholen von Fahrzeugen sowie zwischen Fahrzeug und Ufer (Kanalwirkung) zu berücksichtigen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Einflusses von Wellengang, Wind und Strömung auf das<br />
+fahrende, manövrierende oder stillliegende Fahrzeug, einschließlich der Auswirkungen von Wind, z. B. Seitenwind, beim Manövrieren, u. a. auf nautische Aufbauten, oder beim Einfahren in oder Ausfahren aus Häfen, Schleusen und Nebenwasserstraßen.</dd><dt>2.</dt><dd>Kenntnis des Einflusses der Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug auf durch die Binnenschifffahrt genutzten Wasserstraßen, wie die Auswirkungen der Strömung z. B. beim Manövrieren zu Berg und zu Tal oder im leeren oder beladenen Zustand und<br />
+z. B. beim Einfahren in und Ausfahren aus Häfen, Schleusen oder Nebenwasserstraßen.</dd><dt>3.</dt><dd>Kenntnis des Einflusses der Wasserbewegung auf das fahrende, manövrierende oder stillliegende Fahrzeug, wie des Einflusses der Wasserbewegung auf den Tiefgang in Abhängigkeit der Wassertiefe, und der Reaktion auf Flachwassereffekte, z. B. durch eine Verringerung der Fahrgeschwindigkeit.</dd><dt>4.</dt><dd>Fähigkeit, die Wechselwirkungen auf das fahrende, manövrierende oder stillliegende Fahrzeug in Fahrwasserengen zu berücksichtigen und die Wechselwirkungen im Zusammenhang mit einem leeren oder beladenen Fahrzeug zu erkennen.</dd><dt>5.</dt><dd>Kenntnis der Auswirkungen von Ladungsumschlag und Stauungsbedingungen auf die Stabilität des fahrenden, manövrierenden oder stillliegenden Fahrzeugs.</dd><dt>6.</dt><dd>Fähigkeit, Trimmung, Krängung, Flutung, Hebelarm und Schwerpunkte zu berücksichtigen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>7.</dt><dd>die Antriebs- und<br />
+Manövriersysteme sowie geeignete Kommunikations- und Alarmsysteme zu benutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Antriebs-, Steuerungs- und Manövriersysteme und ihres Einflusses auf die Manövrierfähigkeit.</dd><dt>2.</dt><dd>Fähigkeit, die Antriebs-, Steuerungs- und Manövriersysteme zu benutzen.</dd><dt>3.</dt><dd>Kenntnis der Ankervorrichtungen.</dd><dt>4.</dt><dd>Fähigkeit, Anker unter verschiedenen Umständen zu benutzen.</dd><dt>5.</dt><dd>Kenntnis der Kommunikations- und Alarmsysteme.</dd><dt>6.</dt><dd>Fähigkeit, erforderlichenfalls Anweisungen im Falle eines Alarms zu erteilen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>8.</dt><dd>Fahrzeuge auch in<br />
+Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, zu führen und zu manövrieren, wofür Grundkenntnisse des ADN erforderlich sind.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Grundlegende Kenntnis des Aufbaus des ADN, der ADN-Dokumente und -Anweisungen sowie der im ADN vorgeschriebenen optischen Signalzeichen.</dd><dt>2.</dt><dd>Fähigkeit, Anweisungen im ADN zu finden und optische Signalzeichen für dem ADN unterliegende Fahrzeuge zu erkennen.</dd></dl></td></tr></tbody></table>
+
+1.4  
+Der Schiffsführer muss in der Lage sein, auf navigatorische Notfälle auf Binnenwasserstraßen zu reagieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>im Notfall beim<br />
+absichtlichen Aufgrundsetzen eines Fahrzeugs Vorsichtsmaßnahmen zur Vermeidung größerer Schäden zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis von flachen Stellen und Sandbänken, die für ein Aufgrundsetzen des Fahrzeugs genutzt werden können.</dd><dt>2.</dt><dd>Fähigkeit, Maschinen oder Ankervorrichtungen im Falle eines erforderlichen Aufgrundsetzens angemessen einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>ein auf Grund gelaufenes Fahrzeug mit und ohne Hilfe wieder in Fahrt zu bringen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der im Falle eines Auflaufens zu ergreifenden Maßnahmen,<br />
+einschließlich des Abdichtens von Leckagen und der erforderlichen Maßnahmen, um das Fahrzeug wieder in die Fahrrinne zu lenken.</dd><dt>2.</dt><dd>Fähigkeit, Leckagen abzudichten, das Fahrzeug mithilfe anderer Fahrzeuge, z. B. Schlepp- oder Schubboote, zu bewegen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>bei einem bevorstehenden Zusammenstoß geeignete Maßnahmen zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der bei einem bevorstehenden Zusammenstoß oder Unfall anwendbaren Vorschriften.</dd><dt>2.</dt><dd>Fähigkeit, das Fahrzeug bei einem unvermeidbaren Zusammenstoß<br />
+so zu führen, dass der Schaden für Personen, z. B. Fahrgäste und Besatzungsmitglieder, das eigene Fahrzeug und das andere Fahrzeug, die Ladung und die Umwelt so gering wie möglich bleibt.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>nach einem Zusammenstoß und einer Bewertung des Schadens angemessene Maßnahmen zu ergreifen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der nach einem Zusammenstoß oder Unfall anwendbaren Vorschriften.</dd><dt>2.</dt><dd>Fähigkeit, die geeigneten Maßnahmen im Falle eines Schadens, Zusammenstoßes oder Auflaufens zu ergreifen, einschließlich Bewertung des Schadens, Kommunikation mit den zuständigen Behörden und Einholen der Erlaubnis, in eine sichere Position zu fahren.</dd></dl></td></tr></tbody></table>
+
+2. Betrieb des Fahrzeugs
+
+2.1  
+Der Schiffsführer muss in der Lage sein, seine Kenntnisse der Konstruktion und des Baus von Binnenschiffen auf den Betrieb unterschiedlicher Arten von Fahrzeugen anzuwenden, und er muss über Grundkenntnisse der technischen Vorschriften für Binnenschiffe gemäß der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates<span id="FnR.f819242_02_06"></span><a href="#f819242_02_06" class="FnR">3</a></sup> verfügen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Grundsätze des<br />
+Schiffsbaus in der Binnenschifffahrt zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Bedeutung und der Auswirkungen der Fahrzeugabmessungen und der Abmessungen der Binnenwasserstraßen gemäß den anwendbaren Vorschriften.</dd><dt>2.</dt><dd>Fähigkeit, Fahrzeuge ihren Abmessungen und den anwendbaren Bauvorschriften entsprechend zu betreiben.</dd><dt>3.</dt><dd>Fähigkeit, die Erfüllung der anwendbaren Rechtsvorschriften durch das<br />
+Fahrzeug unter Berücksichtigung der Bauarbeiten zu überwachen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Konstruktion von<br />
+Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Fahrzeugmerkmale gemäß den Konstruktionszeichnungen<br />
+verschiedener Arten von Fahrzeugen und der Auswirkungen der Konstruktion auf das Fahrzeugverhalten sowie auf dessen Stabilität und Festigkeit.</dd><dt>2.</dt><dd>Kenntnis des Fahrzeugverhaltens unter verschiedenen Bedingungen und in verschiedenen Umgebungen.</dd><dt>3.</dt><dd>Fähigkeit, die Stabilität des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Bauteile des<br />
+Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der wichtigsten Bestandteile von Fahrzeugen und verschiedener Fahrzeugarten einschließlich der technischen Anforderungen an Binnenschiffe gemäß der Richtlinie (EU) 2016/1629.</dd><dt>2.</dt><dd>Fähigkeit, die Hauptbestandteile des Fahrzeugs für die verschiedenen Verkehrsarten zu überwachen und entsprechende Anweisungen zu erteilen.</dd><dt>3.</dt><dd>Kenntnis der Längs- und Querstruktur und örtlicher Verstärkungen zum Zwecke der Schadensverhütung und -analyse.</dd><dt>4.</dt><dd>Fähigkeit, die Funktionen der Ausrüstung und die Nutzung der verschiedenen Laderäume und Abteilungen zum Zwecke der Schadensverhütung und -analyse zu verstehen und zu kontrollieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Maßnahmen zum<br />
+Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über die Wasserdichtigkeit des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, die Wasserdichtigkeit des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen.</dd></dl></td></tr></tbody></table>
+
+2.2  
+Der Schiffsführer muss in der Lage sein, die vorgeschriebene Ausrüstung gemäß dem geltenden Zeugnis des Fahrzeugs zu kontrollieren und zu überwachen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Funktionen der<br />
+Fahrzeugausrüstung zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der vorgeschriebenen Ausrüstung des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, die Funktionen der gesamten Ausrüstung gemäß den anwendbaren Rechtsvorschriften zu nutzen und zu kontrollieren sowie entsprechende Anweisungen zu erteilen und zu beaufsichtigen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der speziellen Anforderungen an die Konstruktion und Ausrüstung von Fahrzeugen für die Beförderung verschiedener Ladungen und Fahrgäste mit verschiedenen Arten von Fahrzeugen gemäß den geltenden Rechtsvorschriften.</dd><dt>2.</dt><dd>Fähigkeit, entsprechende Anweisungen zu erteilen und zu beaufsichtigen.</dd><dt>3.</dt><dd>Fähigkeit, Anweisungen zur ordnungsgemäßen Anwendung der Anforderungen des Zeugnisses des Fahrzeugs zu erteilen und zu beaufsichtigen.</dd></dl></td></tr></tbody></table>
+
+3. Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung
+
+3.1  
+Der Schiffsführer muss in der Lage sein, die Sicherheit beim Beladen, Stauen, Befestigen und Entladen sowie die Ladungsfürsorge während der Reise zu planen und zu gewährleisten.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die einschlägigen<br />
+nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der nationalen, europäischen und internationalen Vorschriften<br />
+zum Be- und Entladen und zur Beförderung.</dd><dt>2.</dt><dd>Anwendung der einschlägigen Regeln und Standards für Logistik und<br />
+multimodalen Verkehr.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Betriebs- und Konstruktionseinschränkungen von Trockengüterfahrzeugen (z. B. Containerfahrzeugen) und Tankschiffen (N, C, G).</dd><dt>2.</dt><dd>Fähigkeit, die Grenzwerte für Biegemomente und Scherkräfte zu interpretieren.</dd><dt>3.</dt><dd>Kenntnis der Nutzung von Stau- und Stabilitätssoftware.</dd><dt>4.</dt><dd>Fähigkeit, Staupläne unter Nutzung von Stau- und Stabilitätssoftware zu erstellen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Staupläne und verfügbaren schiffsseitigen Daten und deren Umsetzung.</dd><dt>2.</dt><dd>Fähigkeit, Ladung zu stauen und zu sichern, unter Einsatz des notwendigen Ladegeschirrs sowie von Ausrüstung zum Sichern und Laschen der Ladung.</dd><dt>3.</dt><dd>Kenntnis der verschiedenen Verfahren zur Bestimmung des Ladungsgewichts auf Güterschiffen und Tankschiffen sowie anderen Fahrzeugen.</dd><dt>4.</dt><dd>Kenntnis der Bestimmung der Menge geladener oder gelöschter Ladung und der Berechnung der Menge trockener und flüssiger Ladung.</dd><dt>5.</dt><dd>Kenntnis der möglichen schädlichen Auswirkungen von unsachgemäßem Ladungsumschlag.</dd><dt>6.</dt><dd>Fähigkeit, die technischen Mittel für den Ladungsumschlag zwischen Fahrzeug und Hafen zu nutzen und die Arbeitssicherheitsmaßnahmen während deren Gebrauch anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>verschiedene Güter<br />
+und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, Verfahren für den sicheren Ladungsumschlag gemäß den Bestimmungen der einschlägigen sicherheitsbezogenen Arbeitsvorschriften einzuführen.</dd><dt>2.</dt><dd>Kenntnisse über effiziente Kommunikation und Arbeitsbeziehungen mit<br />
+allen an den Be- und Entladevorgängen beteiligten Partnern.</dd></dl></td></tr></tbody></table>
+
+3.2  
+Der Schiffsführer muss in der Lage sein, die Stabilität des Fahrzeugs zu planen und zu gewährleisten.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Auswirkungen<br />
+von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse zur Wasserdichtigkeit und Stabilität für alle Arten von Ladung und Fahrzeugen.</dd><dt>2.</dt><dd>Fähigkeit, Instrumente zur Korrektur von Trimmlage und Stabilität<br />
+einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der speziellen Software zur Berechnung von Stabilität, Trimm<br />
+und Belastung.</dd><dt>2.</dt><dd>Fähigkeit, Stabilität und Trimm zu bestimmen und Belastungstabellen,<br />
+Diagramme und Geräte zur Festigkeitsberechnung zu gebrauchen.</dd></dl></td></tr></tbody></table>
+
+3.3  
+Der Schiffsführer muss in der Lage sein, die sichere Beförderung von Fahrgästen und deren Fürsorge während der Fahrt zu planen und zu gewährleisten, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die einschlägigen<br />
+nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.</dd><dt>2.</dt><dd>Fähigkeit, den sicheren Ein- und Ausstieg von Fahrgästen und deren<br />
+Fürsorge während der Fahrt zu gewährleisten, unter besonderer Beachtung von hilfsbedürftigen Personen und unmittelbarer Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.</dd><dt>3.</dt><dd>Fähigkeit, die Vorgehensweisen im Falle eines Lecks, eines Brandes,<br />
+einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung zu kontrollieren, einschließlich der Krisenbewältigung und der Führung von Menschenmengen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>regelmäßige Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verantwortlichkeiten gemäß internationalen und nationalen<br />
+Vorschriften betreffend die Sicherheit des Schiffes, der Fahrgäste und der Besatzung.</dd><dt>2.</dt><dd>Fähigkeit, die Führung und Ausbildung des Bordpersonals in Bezug auf Sicherheit umzusetzen.</dd><dt>3.</dt><dd>Anwendung von Erster Hilfe an Bord des Fahrzeugs.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Auswirkungen der Gewichtsverteilung der Fahrgäste auf die Stabilität des Fahrgastschiffes, das Verhalten gegenüber und die Kommunikation mit Fahrgästen zu beachten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Regeln und Vorschriften in Bezug auf Stabilität.</dd><dt>2.</dt><dd>Fähigkeit, die einschlägigen Maßnahmen bezüglich der Wasserdichtigkeit, einschließlich des Einflusses auf Trimmung und Stabilität von Fahrgastschiffen, anzuwenden.</dd><dt>3.</dt><dd>Kenntnisse über die Konstruktion des Schiffes im Zusammenhang mit<br />
+Trimmung und Stabilität sowie die im Falle eines teilweisen Verlusts des Intaktauftriebs/der Leckstabilität des Fahrgastschiffes zu ergreifenden Maßnahmen.</dd><dt>4.</dt><dd>Fähigkeit, Standardredewendungen zu verwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>eine Analyse der<br />
+Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis und Einhaltung der Beschränkung der Fahrgastzahl gemäß dem Zeugnis des Fahrgastschiffes.</dd><dt>2.</dt><dd>Kenntnis der Schutz- und Sicherheitssysteme, die einen unbefugten Zutritt verhindern.</dd><dt>3.</dt><dd>Fähigkeit, ein Wachdienstsystem (d. h. Nachtwache) im Hinblick auf Schutz und Sicherheit zu organisieren.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Fahrgastrechte und Fahrgastbeschwerden und die mit<br />
+der Fahrgastbeförderung verbundenen Gefahren für die Umwelt.</dd><dt>2.</dt><dd>Fähigkeit, Umweltverschmutzung durch Fahrgäste und Besatzung zu<br />
+verhindern.</dd><dt>3.</dt><dd>Fähigkeit zum Umgang mit Beschwerden und Konfliktbewältigung.</dd><dt>4.</dt><dd>Fähigkeit, mit dem Bordpersonal und sämtlichen beteiligten Parteien<br />
+zu kommunizieren.</dd></dl></td></tr></tbody></table>
+
+4. Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik
+
+4.1  
+Der Schiffsführer muss in der Lage sein, den Arbeitsablauf in den Bereichen Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik zu planen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Funktionen der<br />
+Hauptmotoren und Hilfseinrichtungen sowie ihrer Kontrollsysteme zu nutzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Bedienung des Hauptmotors und der Hilfseinrichtungen.</dd><dt>2.</dt><dd>Kenntnis der Eigenschaften von Brennstoffen und Schmiermitteln.</dd><dt>3.</dt><dd>Kenntnis der Kontrollsysteme.</dd><dt>4.</dt><dd>Fähigkeit, verschiedene Systeme verschiedener Antriebsysteme,<br />
+Hilfsmaschinen und -einrichtungen zu benutzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Besatzungsmitglieder bei Betrieb und Wartung der Hauptmotoren, Hilfsmaschinen und<br />
+-einrichtungen zu überwachen und zu beaufsichtigen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Besatzung in Bezug auf den Betrieb und die Wartung<br />
+technischer Einrichtungen zu führen.</dd><dt>2.</dt><dd>Fähigkeit, die Führung beim Anfahren und Abschalten des Hauptantriebs, der Hilfsmaschinen und -einrichtungen zu übernehmen.</dd></dl></td></tr></tbody></table>
+
+4.2  
+Der Schiffsführer muss in der Lage sein, die Antriebsmaschinen und die Hilfsmaschinen und -ausrüstung zu überwachen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Anweisungen zur<br />
+Vorbereitung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung zu erteilen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Besatzung bei der Vorbereitung und Bedienung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung anzuleiten.</dd><dt>2.</dt><dd>Fähigkeit, Prüflisten zu erstellen und zu überwachen und Anweisungen<br />
+zum ordnungsgemäßen Gebrauch solcher Prüflisten zu erteilen.</dd><dt>3.</dt><dd>Fähigkeit, die Besatzung in die bei der Maschinenüberwachung zu beachtenden Grundsätze einzuweisen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Funktionsstörungen und häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren zur Erkennung von Funktionsstörungen bei<br />
+Maschinen.</dd><dt>2.</dt><dd>Fähigkeit, Funktionsstörungen, häufige Fehlerquellen oder unsachgemäße Behandlung zu erkennen und entsprechend zu reagieren.</dd><dt>3.</dt><dd>Fähigkeit, Maßnahmen zur Schadensverhütung anzuordnen oder Maßnahmen zur Kontrolle des Schadens zu ergreifen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die physikalischen<br />
+und chemischen Eigenschaften von Öl und anderen Schmiermitteln zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften der eingesetzten Materialien.</dd><dt>2.</dt><dd>Fähigkeit, Öl und andere Schmiermittel gemäß den Spezifikationen zu<br />
+verwenden.</dd><dt>3.</dt><dd>Fähigkeit, Maschinenhandbücher zu verstehen.</dd><dt>4.</dt><dd>Kenntnis der Betriebseigenschaften der Ausrüstung und Systeme.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die Maschinenleistung zu beurteilen.</dd></dl></td><td style="text-align: left;">Fähigkeit, Handbücher zur Beurteilung der Maschinenleistung zu verwenden und zu deuten und die Maschinen entsprechend zu betreiben.</td></tr></tbody></table>
+
+4.3  
+Der Schiffsführer muss in der Lage sein, in Bezug auf die Pumpe und das Pumpenkontrollsystem des Fahrzeugs zu planen und Anweisungen zu geben.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>routinemäßige<br />
+Pumpenarbeiten, Ballast- und<br />
+Ladungspumpensysteme zu überwachen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Pumpensysteme und des Pumpbetriebs.</dd><dt>2.</dt><dd>Fähigkeit, unter Berücksichtigung des freien Oberflächeneffekts auf die<br />
+Stabilität die Überwachung des sicheren Betriebs von Bilge-, Ballast-<br />
+und Ladungspumpensystemen zu gewährleisten und der Besatzung entsprechende Anweisungen zu erteilen.</dd></dl></td></tr></tbody></table>
+
+4.4  
+Der Schiffsführer muss in der Lage sein, die sichere Verwendung und Bedienung, Wartung und Instandsetzung der elektrotechnischen Geräte des Fahrzeugs zu organisieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>mögliche Schäden<br />
+an elektrischen und elektronischen Geräten an Bord zu verhüten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Elektrotechnik, der Elektronik, der elektrischen Anlagen und Sicherheitseinrichtungen, z. B. Betriebsautomation, Instrumentenausstattung und Regelungs- und Steuerungsanlagen zur Schadensverhütung.</dd><dt>2.</dt><dd>Fähigkeit, sichere Arbeitsmethoden anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Regelungs- und<br />
+Steuerungsanlagen und -instrumente zu testen, um Fehler zu erkennen, und gleichzeitig Maßnahmen zur Instandsetzung und Wartung der elektrischen und elektronischen Regelungs- und Steuerungseinrichtungen zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der elektrotechnischen Testvorrichtungen des Fahrzeugs.</dd><dt>2.</dt><dd>Fähigkeit, die Regelungs- und Steuerungsanlagen zu bedienen, zu testen und zu warten und entsprechende Maßnahmen zu ergreifen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Anweisungen vor<br />
+dem Aufbauen oder Trennen von Verbindungen mit landseitigen technischen Einrichtungen zu erteilen und diese Tätigkeiten weiterzuverfolgen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Sicherheitsanforderungen für die Arbeit mit elektrischen<br />
+Systemen.</dd><dt>2.</dt><dd>Kenntnis der Konstruktions- und Betriebseigenschaften der elektrischen Systeme und Anlagen an Bord in Bezug auf landseitige Einrichtungen.</dd><dt>3.</dt><dd>Fähigkeit, Anweisungen zur Gewährleistung einer jederzeit sicheren Landverbindung zu erteilen und Gefahrensituationen im Hinblick auf landseitige Einrichtungen zu erkennen.</dd></dl></td></tr></tbody></table>
+
+4.5  
+Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung der technischen Anlagen zu kontrollieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die sachgemäße<br />
+Verwendung der Werkzeuge zur Wartung und Instandsetzung technischer Anlagen zu gewährleisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Wartungs- und Instandsetzungsverfahren für technische<br />
+Anlagen.</dd><dt>2.</dt><dd>Fähigkeit, die sichere Wartung und Instandsetzung unter Verwendung<br />
+geeigneter Verfahren (Kontrolle), Ausrüstung und Software zu organisieren und anzuleiten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Eigenschaften<br />
+und Grenzen von Materialien sowie notwendiger Verfahren, die zur Wartung und Instandsetzung technischer Anlagen eingesetzt werden, zu beurteilen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Eigenschaften von Wartungs- und Instandsetzungsmaterial<br />
+für technische Anlagen.</dd><dt>2.</dt><dd>Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den Handbüchern auf Anlagen anzuwenden.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>technische und<br />
+interne Dokumentation auszuwerten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Konstruktionsspezifikationen und technischen Dokumentation.</dd><dt>2.</dt><dd>Fähigkeit, Prüflisten für die Wartung und Instandsetzung technischer<br />
+Anlagen zu erstellen.</dd></dl></td></tr></tbody></table>
+
+5. Wartung und Instandsetzung
+
+5.1  
+Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung des Fahrzeugs und seiner Ausrüstung zu organisieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Methoden der sicheren und wirksamen Wartung und Instandsetzung.</dd><dt>2.</dt><dd>Fähigkeit, die Besatzung bei der Anwendung von Vorsichtsmaßnahmen<br />
+und ihrem Beitrag zur Verhütung der Verschmutzung der Meeresumwelt zu überwachen und zu beaufsichtigen.</dd><dt>3.</dt><dd>Fähigkeit, die anwendbaren arbeitsrechtlichen Bestimmungen und sicherheitsbezogenen Arbeitsvorschriften anzuwenden und zu beachten und für deren Einhaltung zu sorgen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Arbeitsaufträge so<br />
+festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis kosteneffizienter und wirksamer Wartungsarbeiten sowie der anwendbaren gesetzlichen Anforderungen.</dd><dt>2.</dt><dd>Fähigkeit, (digitale) Wartungsplanungsprogramme effektiv einzusetzen.</dd><dt>3.</dt><dd>Fähigkeit, die Wartung und Instandsetzung der inneren und äußeren Teile<br />
+des Fahrzeugs unter Berücksichtigung der anwendbaren gesetzlichen Anforderungen wie Sicherheitsdatenblätter zu kontrollieren.</dd><dt>4.</dt><dd>Fähigkeit, für die Einhaltung der Hygiene des Fahrzeugs zu sorgen.</dd><dt>5.</dt><dd>Fähigkeit, die Abfallentsorgung unter Berücksichtigung von Umweltvorschriften wie denen des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI-Übereinkommens) zu organisieren.</dd><dt>6.</dt><dd>Fähigkeit, das regelmäßige Wartungsprogramm für das Fahrzeug zu<br />
+erstellen.</dd><dt>7.</dt><dd>Fähigkeit, die technischen Dokumente des Fahrzeugs zu überwachen und<br />
+zu kontrollieren und Wartungsnachweise zu führen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Materialien und<br />
+Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Lagerbestände des Fahrzeugs zu verwalten.</dd><dt>2.</dt><dd>Fähigkeit, eine sichere Arbeitsweise an Bord zu organisieren, einschließlich der Verwendung gefährlicher Materialien für Reinigungs- und Konservierungsarbeiten.</dd><dt>3.</dt><dd>Fähigkeit, die Qualität von Instandsetzungsarbeiten zu prüfen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>sicherzustellen, dass<br />
+Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden.</dd></dl></td><td style="text-align: left;">Fähigkeit, die Besatzung beim Einsatz von Seilen und Drähten nach Maßgabe des Zeugnisses und der Datenblätter des Fahrzeugs gemäß den Arbeitsverfahren und Sicherheitsbeschränkungen anzuleiten und zu beaufsichtigen.</td></tr></tbody></table>
+
+6. Kommunikation
+
+6.1  
+Der Schiffsführer muss in der Lage sein, Personal zu führen, sich sozial verantwortlich zu verhalten sowie für die Organisation der Arbeitsabläufe und die Ausbildung an Bord des Fahrzeugs zu sorgen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Teamarbeit zu organisieren und zu fördern und die Besatzungsmitglieder im Hinblick auf die Aufgaben an Bord vorzubereiten sowie gegebenenfalls Disziplinarmaßnahmen zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse in Personalführung.</dd><dt>2.</dt><dd>Fähigkeit, der Besatzung angemessen und professionell Anweisungen<br />
+zu erteilen.</dd><dt>3.</dt><dd>Fähigkeit, der Besatzung erteilte Anweisungen zu erklären.</dd><dt>4.</dt><dd>Fähigkeit, der Besatzung Rückmeldung zum Arbeits- und Sozialverhalten<br />
+an Bord zu geben.</dd><dt>5.</dt><dd>Fähigkeit zur Aufgaben- und Arbeitsverwaltung, einschließlich: Planung<br />
+und Koordination, Personaleinsatz, Zeit- und Ressourcenvorgaben, Priorisierung.</dd><dt>6.</dt><dd>Fähigkeit, Übermüdung zu erkennen und zu verhindern.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Besatzung in Informations- und Kommunikationssysteme einzuweisen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der an Bord verfügbaren Informations- und Kommunikationssysteme.</dd><dt>2.</dt><dd>Fähigkeit, die Besatzung in die Nutzung der Kommunikations-, Medien- und IT-Systeme des Fahrzeugs einzuweisen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Daten unter Einhaltung der Datenschutzvorschriften zu sammeln, zu speichern und zu verwalten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Nutzung sämtlicher Systeme des Fahrzeugs, die Daten<br />
+sammeln, speichern und verwalten.</dd><dt>2.</dt><dd>Fähigkeit, Daten im Einklang mit den anwendbaren Rechtsvorschriften<br />
+zu sammeln und zu speichern.</dd></dl></td></tr></tbody></table>
+
+6.2  
+Der Schiffsführer muss in der Lage sein, jederzeit eine gute Kommunikation zu gewährleisten, wozu auch die Verwendung von Standardredewendungen im Falle von Kommunikationsproblemen gehört.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Umstände mittels<br />
+einschlägiger technischer und nautischer Begrifflichkeiten zu beschreiben;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der zutreffenden technischen und nautischen Begriffe.</dd><dt>2.</dt><dd>Fähigkeit, die Kommunikation zu beherrschen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Informationen bezüglich der Sicherheit an Bord und nautisch-technischer Fragen zu gewinnen, zu bewerten und zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der bei Notfall- und Sicherheitskommunikation zu beachtenden Verfahren.</dd><dt>2.</dt><dd>Fähigkeit, Standardredewendungen zu verwenden.</dd></dl></td></tr></tbody></table>
+
+6.3  
+Der Schiffsführer muss in der Lage sein, ein ausgewogenes und geselliges Arbeitsumfeld an Bord zu fördern.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>ein gutes soziales<br />
+Arbeitsumfeld zu gewährleisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Führung bei der Organisation von Teamsitzungen zu übernehmen, um für ein ausgewogenes soziales Klima an Bord zu sorgen.</dd><dt>2.</dt><dd>Kenntnis der und Bewusstsein für die geschlechtsbezogenen und kulturellen Unterschiede.</dd><dt>3.</dt><dd>Kenntnis der einschlägigen Vorschriften für die Ausbildung von Studenten, Auszubildenden und Praktikanten.</dd><dt>4.</dt><dd>Fähigkeit, Studenten, Auszubildende und Praktikanten auf verschiedenen Niveaus anzuleiten.</dd><dt>5.</dt><dd>Fähigkeit, die wichtigsten Grundsätze und Verfahren der Teamarbeit<br />
+einschließlich Konfliktbewältigung anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die nationale, europäische und internationale Sozialgesetzgebung anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen nationalen, europäischen und internationalen Sozialgesetze.</dd><dt>2.</dt><dd>Fähigkeit, Besatzungsmitglieder bei der Anwendung relevanter Teile der<br />
+geltenden Sozialgesetzgebung anzuleiten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>ein striktes Alkohol-<br />
+und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anwendbaren Vorschriften zu Alkohol und Drogen.</dd><dt>2.</dt><dd>Fähigkeit, die anwendbaren Rechtsvorschriften zu kommunizieren und<br />
+deren Einhaltung zu gewährleisten und die Kenntnis der Unternehmensvorschriften zu Alkohol und Drogen sicherzustellen.</dd><dt>3.</dt><dd>Fähigkeit, angemessen auf die Verletzung von Rechts- oder Unternehmensvorschriften zu reagieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>die Beschaffung und<br />
+Zubereitung von Mahlzeiten an Bord zu organisieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Grundsätze gesunder Ernährung.</dd><dt>2.</dt><dd>Fähigkeit, die Besatzungsmitglieder in die Planung und Zubereitung von<br />
+Mahlzeiten einzuweisen.</dd><dt>3.</dt><dd>Fähigkeit, die Besatzungsmitglieder hinsichtlich Hygienestandards<br />
+einzuweisen und zu beaufsichtigen.</dd><dt>4.</dt><dd>Fähigkeit, die Besatzungsmitglieder in die Planung von Einkaufsmöglichkeiten einzuweisen.</dd></dl></td></tr></tbody></table>
+
+7. Gesundheit, Sicherheit, Fahrgastrechte und Umweltschutz
+
+7.1  
+Der Schiffsführer muss in der Lage sein, die geltenden rechtlichen Anforderungen zu verfolgen und Maßnahmen zum Schutz des menschlichen Lebens zu ergreifen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Rechtsvorschriften zu Gesundheitsschutz und Unfallverhütung.</dd><dt>2.</dt><dd>Fähigkeit, Sicherheitsverfahren auf der Grundlage der anwendbaren<br />
+Rechtsvorschriften im Bereich Sicherheits- und Arbeitsbedingungen anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Gültigkeit des<br />
+Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Rechtsvorschriften über regelmäßige Prüfungen von Ausrüstungen und Bauteilen.</dd><dt>2.</dt><dd>Fähigkeit, die Gültigkeit der Zeugnisse und anderer für das Fahrzeug und<br />
+dessen Betrieb relevanter Dokumente zu überprüfen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis sicherer Arbeitsmethoden und sicherer Arbeitsverfahren.</dd><dt>2.</dt><dd>Fähigkeit, sichere Arbeitsverfahren zu organisieren und die Besatzungsmitglieder zur Anwendung sicherheitsbezogener Arbeitsvorschriften zu motivieren und dabei zu überwachen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, Sicherheitskontrollen zur organisieren und Sicherheitsverfahren<br />
+zu überwachen, wenn Besatzungsmitglieder oder andere Personen geschlossene Räume (z. B. Ballasttanks, Kofferdämme, Tanks, Doppelhüllenräume) betreten, einschließlich Wachdienst.</dd><dt>2.</dt><dd>Fähigkeit, vor dem Betreten geschlossener Räume eine Risikobewertung durchzuführen.</dd><dt>3.</dt><dd>Kenntnis der vor dem Betreten geschlossener Räume und bei Arbeiten in<br />
+geschlossenen Räumen zu ergreifenden Vorsichtsmaßnahmen, z. B.:<dl><dt>•</dt><dd>Gefahren geschlossener Räume,</dd><dt>•</dt><dd>Überprüfung der Atmosphäre vor dem Betreten,</dd><dt>•</dt><dd>Kontrolle des Zutritts zu geschlossenen Räumen,</dd><dt>•</dt><dd>Sicherheitsvorkehrungen für das Betreten geschlossener Räume,</dd><dt>•</dt><dd>Schutzausrüstung (z. B. Gurte und Atemschutzgeräte),</dd><dt>•</dt><dd>Arbeit in geschlossenen Räumen.</dd></dl></dd><dt>4.</dt><dd>Fähigkeit, geeignete Maßnahmen im Falle eines Notfalls zu ergreifen.</dd></dl></td></tr></tbody></table>
+
+7.2  
+Der Schiffsführer muss in der Lage sein, für den Schutz und die Sicherheit der an Bord befindlichen Personen zu sorgen, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verfügbaren Rettungsmittel.</dd><dt>2.</dt><dd>Fähigkeit, für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Krisenbewältigungsübungen zum Verhalten in Notfällen,<br />
+z. B. Brand, Leckwarnung, Explosion, Zusammenstoß,<br />
+Mann-über-Bord-Alarm und Evakuierung, zu organisieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Notmaßnahmen.</dd><dt>2.</dt><dd>Fähigkeit, die Besatzungsmitglieder in die Notmaßnahmen einzuweisen.</dd><dt>3.</dt><dd>Fähigkeit, eine regelmäßige Ausbildung der Besatzungsmitglieder zur<br />
+Vorbereitung auf Notsituationen zu organisieren; dazu gehört auch die Organisation von Feuerlöschübungen sowie Übungen zum Verlassen des Fahrzeugs.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Anweisungen in<br />
+Bezug auf Brandverhütung, individuelle Schutzausrüstung, Verfahren, Materialien zur Brandbekämpfung, Atemschutzgeräte und Einsatzmöglichkeiten dieser Einrichtungen in Notfällen zu erteilen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anzuwendenden Brandverhütungsvorschriften sowie der<br />
+Regelungen zur Verwendung von Tabak und möglichen Zündquellen.</dd><dt>2.</dt><dd>Fähigkeit zur Einhaltung der einschlägigen Vorschriften über Brandmeldeanlagen, Löschgeräte und feste Löschanlagen und die zugehörigen<br />
+Einrichtungen, z. B. Pumpen, Rettungsmittel, Bergegerät, individuelle Schutzausrüstung und Kommunikationsgeräte.</dd><dt>3.</dt><dd>Fähigkeit, die Überwachung und Instandhaltung von Brandmelde- und<br />
+Feuerlöschanlagen und -geräten zu kontrollieren.</dd><dt>4.</dt><dd>Fähigkeit, Besatzungsmitglieder und Bordpersonal anzuweisen, sicherheitsbezogene Arbeitsvorschriften anzuwenden und die individuelle Schutz- und Sicherheitsausrüstung instand zu halten.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Erste Hilfe zu leisten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, im Einklang mit Erste-Hilfe-Standards und -methoden zu<br />
+handeln.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>5.</dt><dd>ein wirksames<br />
+System zur Kontrolle der Rettungsmittel und der korrekten Anwendung individueller Schutzausrüstung an Bord einzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der anwendbaren Rechtsvorschriften für Rettungsmittel sowie der Vorschriften für sichere Arbeitsbedingungen.</dd><dt>2.</dt><dd>Fähigkeit, die Betriebsbereitschaft von Rettungs-, Brandbekämpfungs- und anderen Sicherheitseinrichtungen und -systemen aufrechtzuerhalten und diesbezüglich regelmäßige Prüfungen durchzuführen.</dd><dt>3.</dt><dd>Fähigkeit, die Besatzungsmitglieder und das Bordpersonal bezüglich der<br />
+korrekten Verwendung der (individuellen) Sicherheitsausrüstung anzuleiten, zu motivieren und zu beaufsichtigen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>6.</dt><dd>Hilfeleistung für<br />
+Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität zu organisieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Unterweisung und der Instruktionen nach Anhang IV der<br />
+Verordnung (EU) Nr. 1177/2010.</dd><dt>2.</dt><dd>Fähigkeit, unmittelbar Hilfe zu leisten und Hilfeleistung zu organisieren für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität.</dd></dl></td></tr></tbody></table>
+
+7.3  
+Der Schiffsführer muss in der Lage sein, Notfall- und Schadensbegrenzungspläne aufzustellen und Notfallsituationen zu bewältigen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Vorbereitungen für<br />
+Rettungspläne für verschiedene Arten von Notfällen einzuleiten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der verschiedenen Arten möglicher Notfälle, wie Zusammenstöße Feuer, Wassereinbruch, Sinken.</dd><dt>2.</dt><dd>Fähigkeit, Notfallpläne für das Verhalten in Notsituationen an Bord zu<br />
+erstellen und Besatzungsmitgliedern spezielle Aufgaben zuzuweisen hierzu gehört auch die Überwachung und Kontrolle.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Unterweisungen in<br />
+Methoden zur Brandverhütung, Brandursachenerkennung und Brandbekämpfung entsprechend der verschiedenen Fähigkeiten der Besatzungsmitglieder durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Brandbekämpfungsmethoden mit besonderem Schwerpunkt auf Taktik und Führung.</dd><dt>2.</dt><dd>Kenntnis der Auswirkung des Einsatzes von Wasser zum Feuerlöschen auf die Stabilität des Schiffes und Fähigkeit, entsprechende Maßnahmen zu ergreifen.</dd><dt>3.</dt><dd>Fähigkeit, die Kommunikation und Koordination bei Brandbekämpfungseinsätzen zu übernehmen, einschließlich der Kommunikation mit externen Organisationen, und sich aktiv an den Rettungs- und Brandbekämpfungsmaßnahmen zu beteiligen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Unterweisungen im<br />
+Einsatz von Rettungsmitteln durchzuführen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der besonderen Eigenschaften und Ausstattungen von Rettungsgeräten.</dd><dt>2.</dt><dd>Fähigkeit, ein Beiboot zu Wasser zu bringen und wieder an Bord zu nehmen und die Besatzungsmitglieder und das Bordpersonal in die Verwendung eines Beibootes einzuweisen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Anweisungen zu<br />
+Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Rechtsvorschriften für Rettungspläne und Sicherheitsrollen.</dd><dt>2.</dt><dd>Fähigkeit, Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen.</dd></dl></td></tr></tbody></table>
+
+7.4  
+Der Schiffsführer muss in der Lage sein, für die Einhaltung der Umweltschutzanforderungen zu sorgen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren zur Vermeidung von Umweltverschmutzung.</dd><dt>2.</dt><dd>Fähigkeit, Vorsichtsmaßnahmen gegen Umweltverschmutzung zu treffen.</dd><dt>3.</dt><dd>Fähigkeit, sichere Bunkerverfahren anzuwenden.</dd><dt>4.</dt><dd>Fähigkeit, im Falle eines Schadens, Zusammenstoßes und Auflaufens Maßnahmen zu ergreifen und Anweisungen zu erteilen; hierzu gehört auch das Abdichten von Leckagen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die Umweltschutzgesetze anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Umweltvorschriften.</dd><dt>2.</dt><dd>Fähigkeit, Besatzungsmitglieder und Bordpersonal dazu zu motivieren,<br />
+einschlägige Maßnahmen für ein umweltfreundliches Verhalten zu ergreifen oder sich umweltfreundlich zu verhalten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Verfahren für eine nachhaltige Nutzung von Ressourcen.</dd><dt>2.</dt><dd>Fähigkeit, Besatzungsmitglieder anzuweisen, Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>eine nachhaltige<br />
+Abfallentsorgung anzuordnen und zu überwachen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Rechtsvorschriften zur Abfallentsorgung.</dd><dt>2.</dt><dd>Fähigkeit, eine nachhaltige Abfallentsorgung zu gewährleisten und Besatzungsmitglieder und Bordpersonal entsprechend anzuleiten.</dd></dl></td></tr></tbody></table>
+
+# Anlage 10 – (zu § 38 Absatz 3, § 75 Absatz 4 und 5)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 60 - 62)
+
+ 
+
+1. Besondere Befähigungen und Beurteilungssituationen
+
+Die Prüfung besteht aus zwei Teilen: einem Teil Reiseplanung und einem Teil Reisedurchführung. Die Prüfung zur Reisedurchführung findet in einer einzigen Sitzung statt. Jeder Teil der Prüfung besteht aus mehreren Elementen.
+
+Für Schiffsführer, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, werden die Anforderungen um die besonderen Elemente ergänzt, die in den Standards in Anlage 11 (Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer) festgelegt sind.
+
+Inhaltlich muss die Prüfung den folgenden Anforderungen entsprechen:
+
+Reiseplanung
+
+Der Prüfungsteil Reiseplanung umfasst die in der Tabelle in Anhang 1 aufgeführten Elemente. Die Elemente werden nach ihrer Bedeutung in die Kategorien I und II eingeteilt. Aus dieser Liste sind je Kategorie 10 Elemente auszuwählen und in der Prüfung abzuprüfen.
+
+Reisedurchführung
+
+Der Bewerber hat nachzuweisen, dass er in der Lage ist, eine Reise durchzuführen. Eine unabdingbare Voraussetzung hierfür ist, dass er das Fahrzeug selbst steuert. Die einzelnen zu prüfenden Elemente sind in der Tabelle in Anhang 2 aufgeführt und – im Gegensatz zum Prüfungsteil Reiseplanung – sind stets sämtliche dieser Elemente abzuprüfen.
+
+Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+
+  
+In jeder Kategorie sind 10 Elemente abzuprüfen. Der Bewerber kann höchstens 10 Punkte für jedes Element erreichen.
+
+Für Kategorie I müssen die Bewerber für jedes geprüfte Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 60 Punkte erreichen.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 5%" /><col style="width: 13%" /><col style="width: 73%" /><col style="width: 10%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nr.</th><th style="text-align: left;">Befähigungen</th><th>Prüfungselemente</th><th style="text-align: center;">Kategorien<br />
+I-II</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"> 1</td><td style="text-align: left;">1.1.1</td><td>auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 2</td><td style="text-align: left;">1.1.3</td><td>die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 3</td><td style="text-align: left;">1.1.4</td><td>den technischen Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 4</td><td style="text-align: left;">1.2.1</td><td>eine sichere Besatzung des Fahrzeugs gemäß den anwendbaren Vorschriften sicherzustellen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 5</td><td style="text-align: left;">1.3.3</td><td>für einen sicheren Zugang zum Fahrzeug zu sorgen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;"> 6</td><td style="text-align: left;">2.1.1</td><td>die Grundsätze des Schiffsbaus in der Binnenschifffahrt zu beachten;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 7</td><td style="text-align: left;">2.1.2</td><td>die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;"> 8</td><td style="text-align: left;">2.1.3</td><td>die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 9</td><td style="text-align: left;">2.1.4</td><td>Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">10</td><td style="text-align: left;">2.2.1</td><td>die Funktionen der Fahrzeugausrüstung zu verstehen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">11</td><td style="text-align: left;">2.2.2</td><td>die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">12</td><td style="text-align: left;">3.1.1</td><td>die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">13</td><td style="text-align: left;">3.1.2</td><td>Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">14</td><td style="text-align: left;">3.1.3</td><td>die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">15</td><td style="text-align: left;">3.1.4</td><td>verschiedene Güter und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">16</td><td style="text-align: left;">3.2.1</td><td>die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">17</td><td style="text-align: left;">3.2.2</td><td>die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">18</td><td style="text-align: left;">3.3.1</td><td>die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">19</td><td style="text-align: left;">3.3.2</td><td>Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">20</td><td style="text-align: left;">3.3.3</td><td>mit Fahrgästen in Notsituationen zu kommunizieren;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">21</td><td style="text-align: left;">3.3.4</td><td>eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">22</td><td style="text-align: left;">3.3.5</td><td>Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">23</td><td style="text-align: left;">4.4.1</td><td>mögliche Schäden an elektrischen und elektronischen Geräten an Bord zu verhüten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">24</td><td style="text-align: left;">4.5.3</td><td>technische und interne Dokumentation auszuwerten;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">25</td><td style="text-align: left;">5.1.1</td><td>ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">26</td><td style="text-align: left;">5.1.2</td><td>Arbeitsaufträge so festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">27</td><td style="text-align: left;">5.1.3</td><td>Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">28</td><td style="text-align: left;">5.1.4</td><td>sicherzustellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">29</td><td style="text-align: left;">6.3.2</td><td>die nationale, europäische und internationale Sozialgesetzgebung anzuwenden;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">30</td><td style="text-align: left;">6.3.3</td><td>ein striktes Alkohol- und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">31</td><td style="text-align: left;">6.3.4</td><td>die Beschaffung und Zubereitung von Mahlzeiten an Bord zu organisieren;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">32</td><td style="text-align: left;">7.1.1</td><td>nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">33</td><td style="text-align: left;">7.1.2</td><td>die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">34</td><td style="text-align: left;">7.1.3</td><td>die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">35</td><td style="text-align: left;">7.1.4</td><td>alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">36</td><td style="text-align: left;">7.2.5</td><td>Rettungsmittel und die korrekte Anwendung persönlicher Schutzausrüstung zu kontrollieren;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">37</td><td style="text-align: left;">7.3.1</td><td>Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einzuleiten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">38</td><td style="text-align: left;">7.4.1</td><td>Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">39</td><td style="text-align: left;">7.4.2</td><td>die Umweltschutzgesetze anzuwenden;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">40</td><td style="text-align: left;">7.4.3</td><td>Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen.</td><td style="text-align: center;">II</td></tr></tbody></table>
+
+  
+Alle hier genannten Prüfungselemente müssen abgeprüft werden. Für jedes Element muss der Bewerber mindestens 7 von höchstens 10 Punkten erreichen.
+
+  
+| Nr. | Befähigungen | Prüfungselemente                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:----|:-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | 1.1.1        | das Fahrzeug situationsgerecht und entsprechend den gesetzlichen Vorgaben des Verkehrsrechts zu führen und zu manövrieren (in Abhängigkeit von Strömungsgeschwindigkeit und -richtung, Prüfung von Wasser- und Abladetiefe, Flottwasser, Verkehrsdichte, Interaktion mit anderen Fahrzeugen usw.);                                                                                                                                                             |
+|  2  | 1.1.4        | das An- bzw. Ablegen des Fahrzeugs auf Binnenwasserstraßen sachgerecht und entsprechend den gesetzlichen Vorgaben bzw. Sicherheitsvorschriften durchzuführen;                                                                                                                                                                                                                                                                                                  |
+|  3  | 1.1.5        | bei Bedarf Navigationssysteme nachzujustieren oder neu einzustellen;                                                                                                                                                                                                                                                                                                                                                                                           |
+|  4  | 1.1.5        | den Navigationssystemen alle für die Fahrt relevanten Informationen zu entnehmen und diese für eine angepasste Fahrweise zu nutzen;                                                                                                                                                                                                                                                                                                                            |
+|  5  | 1.1.6        | die notwendigen Geräte im Fahrstand (Navigationssysteme wie Inland AIS, Inland ECDIS) in Betrieb zu nehmen und einzustellen;                                                                                                                                                                                                                                                                                                                                   |
+|  6  | 2.2.2        | zu prüfen, ob das Fahrzeug den Vorschriften entsprechend für die Fahrt bereit ist und die Ladung und andere Gegenstände den Vorschriften entsprechend sicher gestaut sind;                                                                                                                                                                                                                                                                                     |
+|  7  | 4.2.2        | sachgerecht auf (ggf. zu simulierende) Störungen des Fahrbetriebs (z. B. Anstieg der Kühlwassertemperatur, Abfall des Maschinenöldrucks, Ausfall der Hauptmaschine(n), Ausfall des Steuerruders, Funkstörungen/Ausfall des Funkgeräts oder unklare Fahrtrichtung anderer Fahrzeuge) zu reagieren, über das weitere Vorgehen entscheiden und angemessene Instandhaltungsmaßnahmen veranlassen oder durchführen, um einen sicheren Fahrbetrieb zu gewährleisten; |
+|  8  | 5.1.2        | eine Fahrweise zu wählen, die es erlaubt, Unfallrisiken frühzeitig zu erkennen, und materialschonend ist; die zur Verfügung stehenden Indikatoren regelmäßig zu kontrollieren;                                                                                                                                                                                                                                                                                 |
+|  9  | 6.1.1        | zielgerichtet zu kommunizieren, sowohl mit den Besatzungsmitgliedern (On-Board-Kommunikation) in Bezug auf einzelne Manöver und im Rahmen von Personalgesprächen (z. B. Unterweisungen) als auch mit Personen, mit denen Absprachen getroffen werden müssen (unter Nutzung aller Funkverkehrsnetze);                                                                                                                                                           |
+| 10  | 6.2.2        | während der jeweiligen Tätigkeiten mit den betreffenden Personen (an Bord) und mit anderen Akteuren (Revierzentrale, andere Fahrzeuge usw.) den Vorschriften entsprechend (Netze, Wasserstraßen entlang der Reiseroute) zu kommunizieren; Funk/Telefon zu nutzen;                                                                                                                                                                                              |
+| 11  | 7.3.3        | eine (ggf. zu simulierende) Notsituation (z. B. über Bord gegangene Person, Anlagenausfall, Brand an Bord, Austritt von Gefahrstoffen, Leckagen) durch schnelle und umsichtige Durchführung von Manövern oder Maßnahmen zur Rettung bzw. Schadensbegrenzung zu bewältigen; die in Notfällen relevanten Personen und zuständigen Behörden zu benachrichtigen bzw. zu informieren;                                                                               |
+| 12  | 7.3.4        | bei Störungen mit den betreffenden Personen (an Bord) und mit anderen Akteuren (Nutzung von Funk, Telefon) zu kommunizieren, um Probleme zu lösen.                                                                                                                                                                                                                                                                                                             |
+
+2. Technische Anforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden
+
+Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
+# Anlage 11 – (zu § 38 Absatz 4)Standards für das Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 63 - 64)
+
+ 
+
+Bewerber, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, müssen dieses Modul bestehen. Zusätzlich zu den Anforderungen, die in den Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer genannt sind, sind folgende Anforderungen zu erfüllen.
+
+1. Besondere Befähigungen und Beurteilungssituationen
+
+Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 20 der 25 Elemente der Kategorie I prüfen.
+
+Die Prüfungskommission muss 8 der 12 Elemente der Kategorie II prüfen.
+
+Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+
+Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 40 Punkte erreichen.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 5%" /><col style="width: 13%" /><col style="width: 73%" /><col style="width: 10%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nr.</th><th style="text-align: left;">Befähigungen</th><th>Prüfungselemente</th><th style="text-align: center;">Kategorien<br />
+I-II</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"> 1</td><td style="text-align: left;">0.1.1</td><td>die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 2</td><td style="text-align: left;">0.1.2</td><td>Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 3</td><td style="text-align: left;">0.1.2</td><td>die an Bord für das Kuppeln verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 4</td><td style="text-align: left;">0.1.3</td><td>Ankermanöver vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 5</td><td style="text-align: left;">0.1.3</td><td>die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 6</td><td style="text-align: left;">0.1.4</td><td>die Wasserdichtigkeit des Fahrzeugs sicherzustellen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 7</td><td style="text-align: left;">0.1.4</td><td>Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 8</td><td style="text-align: left;">0.1.5</td><td>den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 9</td><td style="text-align: left;">0.1.6</td><td>das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">10</td><td style="text-align: left;">0.3.3</td><td>Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">11</td><td style="text-align: left;">0.3.3</td><td>die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">12</td><td style="text-align: left;">0.4.1</td><td>den Maschinenraum den Verfahren gemäß zu bedienen und zu kontrollieren;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">13</td><td style="text-align: left;">0.4.1</td><td>die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">14</td><td style="text-align: left;">0.4.1</td><td>das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">15</td><td style="text-align: left;">0.4.1</td><td>Bilge-, Ballast- und Ladungspumpensysteme zu bedienen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">16</td><td style="text-align: left;">0.4.1</td><td>die hydraulischen und pneumatischen Systeme zu benutzen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">17</td><td style="text-align: left;">0.4.2</td><td>die Schalttafel zu benutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">18</td><td style="text-align: left;">0.4.2</td><td>den Landanschluss zu benutzen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">19</td><td style="text-align: left;">0.4.3</td><td>sichere Arbeitsverfahren bei der Wartung und Instandsetzung von Maschinen und Geräten/Anlagen anzuwenden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">20</td><td style="text-align: left;">0.4.5</td><td>Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">21</td><td style="text-align: left;">0.5.1</td><td>unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">22</td><td style="text-align: left;">0.5.1</td><td>die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">23</td><td style="text-align: left;">0.5.1</td><td>die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">24</td><td style="text-align: left;">0.5.1</td><td>für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">25</td><td style="text-align: left;">0.5.2</td><td>für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) zu verwenden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">26</td><td style="text-align: left;">0.5.3</td><td>Seile und Drähte gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">27</td><td style="text-align: left;">0.5.4</td><td>Drähte und Seile zu spleißen, Knoten entsprechend ihrem Verwendungszweck anzuwenden und Drähte und Seile instand zu halten;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">28</td><td style="text-align: left;">0.6.1</td><td>die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">29</td><td style="text-align: left;">0.7.1</td><td>Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">30</td><td style="text-align: left;">0.7.1</td><td>für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten zu verhindern;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">31</td><td style="text-align: left;">0.7.2</td><td>persönliche Schutzausrüstung zu benutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">32</td><td style="text-align: left;">0.7.3</td><td>Schwimmkenntnisse für Rettungsarbeiten einzusetzen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">33</td><td style="text-align: left;">0.7.3</td><td>Rettungsausrüstung bei Rettungsarbeiten zu benutzen und Betroffene zu retten und zu transportieren;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">34</td><td style="text-align: left;">0.7.4</td><td>Fluchtwege frei zu halten;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">35</td><td style="text-align: left;">0.7.5</td><td>Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">36</td><td style="text-align: left;">0.7.6, 0.7.7</td><td>verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">37</td><td style="text-align: left;">0.7.8</td><td>Erste Hilfe zu leisten.</td><td style="text-align: center;">I</td></tr></tbody></table>
+
+2. Mindestanforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden
+
+Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
+# Anlage 12 – (zu § 40 Absatz 2)Prüfungsprogramm Schifferzeugnis
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 65 - 67)
+
+ 
+
+I. Rechtskenntnisse
+
+1. Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen:
+
+a) Allgemeine Bestimmungen
+
+b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+
+c) Bezeichnung der Fahrzeuge
+
+d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+
+e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+
+f) Fahrregeln
+
+g) Regeln für das Stillliegen
+
+h) Schallzeichen
+
+i) Ölkontrollbuch
+
+2. Grundkenntnisse über das Handbuch Sprechfunk
+
+3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+
+4. Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung
+
+5. Aus der Binnenschiffspersonalverordnung
+
+a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+
+b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+
+6. Grundkenntnisse der Unfallverhütungsvorschriften
+
+7. Detailkenntnisse der Fährenbetriebsverordnung
+
+II. Wasserstraßenkenntnisse
+
+1. Kenntnisse der beantragten Fährstrecke
+
+2. Detailkenntnisse in den Seezeichen und den Betonnungssystemen
+
+3. Grundkenntnisse in der Gezeitenlehre
+
+III. Berufskenntnisse
+
+1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+
+a) Vorgänge beim Steuern, Manövriereigenschaften
+
+b) Funktion von Steuereinrichtungen und Antrieb
+
+c) Einfluss von Strömung, Wind und des Soges
+
+d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+
+e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+
+2. Kenntnisse über die Maschinen, insbesondere
+
+a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+
+b) Bedienung, Betriebskontrolle
+
+c) Maßnahmen bei Betriebsstörungen
+
+3. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere
+
+a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+
+b) Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2
+
+c) Bedienung von Rettungsgeräten und -ausrüstungen
+
+d) Abfallbehandlung und Reinhaltung der Wasserstraßen
+
+e) Benachrichtigung von zuständigen Behörden
+
+f) Brandverhütung, Feuerlöschwesen
+
+I. Rechtskenntnisse
+
+1. Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen:
+
+a) Allgemeine Bestimmungen
+
+b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+
+c) Bezeichnung der Fahrzeuge
+
+d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+
+e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+
+f) Fahrregeln
+
+g) Regeln für das Stillliegen
+
+h) Schallzeichen
+
+i) Ölkontrollbuch
+
+2. Grundkenntnisse über das Handbuch Sprechfunk
+
+3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+
+4. Grundkenntnisse über Aufbau und Inhalt der Binnenschiffsuntersuchungsordnung (insbesondere über Sicherheit von Personen und Schiff) sowie den Inhalt der Fahrtauglichkeitsbescheinigung
+
+5. Aus der Binnenschiffspersonalverordnung
+
+a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+
+b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+
+6. Grundkenntnisse der Unfallverhütungsvorschriften
+
+II. Wasserstraßenkenntnisse
+
+Grundkenntnisse über die Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
+
+III. Berufskenntnisse
+
+1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+
+a) Vorgänge beim Steuern, Manövriereigenschaften
+
+b) Funktion von Steuereinrichtungen und Antrieb
+
+c) Einfluss von Strömung, Wind und Sog
+
+d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+
+e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+
+2. Kenntnisse über die Maschinen, insbesondere
+
+a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+
+b) Bedienung, Betriebskontrolle
+
+c) Maßnahmen bei Betriebsstörungen
+
+3. Grundkenntnisse über das Stauen von Ladung und Staupläne
+
+4. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere über
+
+a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+
+b) Bedienung von Rettungsgeräten und -ausrüstungen
+
+c) Abfallbehandlung und Reinhaltung der Wasserstraßen
+
+d) Benachrichtigung von zuständigen Behörden
+
+e) Brandverhütung, Feuerlöschwesen
+
+I. Rechtskenntnisse
+
+1. Detailkenntnisse aus den folgenden Kapiteln bzw. Anlagen der Polizeiverordnungen:
+
+a) Allgemeine Bestimmungen
+
+b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+
+c) Bezeichnung der Fahrzeuge
+
+d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+
+e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+
+f) Fahrregeln
+
+g) Regeln für das Stillliegen
+
+h) Schallzeichen
+
+i) Ölkontrollbuch
+
+2. Grundkenntnisse über das Handbuch Sprechfunk
+
+3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+
+4. Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung
+
+5. Aus der Binnenschiffspersonalverordnung
+
+a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+
+b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+
+II. Wasserstraßenkenntnisse
+
+Kenntnisse der Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
+
+III. Berufskenntnisse
+
+1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+
+a) Vorgänge beim Steuern, Manövriereigenschaften
+
+b) Funktion von Steuereinrichtungen und Antrieb
+
+c) Einfluss von Strömung, Wind und des Soges
+
+d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+
+e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+
+2. Kenntnisse über die Maschinen, insbesondere
+
+a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+
+b) Bedienung, Betriebskontrolle
+
+c) Maßnahmen bei Betriebsstörungen
+
+3. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere
+
+a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+
+b) Abfallbehandlung und Reinhaltung der Wasserstraßen
+
+# Anlage 13 – (zu § 41 Absatz 2)Befähigungsstandards für das Führen von Fahrzeugen unter Radar
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 68 - 69)
+
+ 
+
+1. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, mithilfe des Radars vor dem Ablegen geeignete Maßnahmen in Bezug auf die Navigation zu ergreifen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>den Beginn einer<br />
+Reise vorzubereiten und insbesondere<br />
+bei eingeschränkten Sichtverhältnissen<br />
+Navigationsradaranlagen und Wende-geschwindigkeitsanzeiger zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Allgemeine Kenntnisse über Funkwellen und Kenntnisse über das Radarprinzip und insbesondere<dl><dt>•</dt><dd>die Ausbreitungsgeschwindigkeit von Funkwellen,</dd><dt>•</dt><dd>die Reflexion von Funkwellen,</dd><dt>•</dt><dd>die technischen Kennungsgrößen von Navigationsradaranlagen<br />
+(Betriebsfrequenzbereich, Sendeleistung, Impulsdauer, Antennendrehzahl, Antennencharakteristik, Bildschirmabmessungen und Entfernungsbereiche, Mindestentfernung, radiale und azimutale Auflösung usw.).</dd></dl></dd><dt>2.</dt><dd>Allgemeine Kenntnisse über Funktionsweise und Einsatz von Wendegeschwindigkeitsanzeigern.</dd><dt>3.</dt><dd>Fähigkeit, Bedienungselemente von Navigationsradaranlagen wie Tune<br />
+(Abstimmung), Gain (Verstärkung), Brilliance (Helligkeit), On/Standby<br />
+(An/Bereitschaft), Range (Entfernung) einzuschalten, einzustellen und zu überwachen sowie Wendegeschwindigkeitsanzeiger in der Binnenschifffahrt zu nutzen und ihren ordnungsgemäßen Einsatz sicherzustellen.</dd></dl></td></tr></tbody></table>
+
+2. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, Radarbilder auszuwerten und die Radarinformationen zu analysieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>das Radarbild in Be-<br />
+zug auf die Lage des eigenen Fahrzeugs und die Lage anderer Fahrzeuge korrekt auszuwerten;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, das Radarbild auszuwerten durch korrekte Bestimmung<dl><dt>•</dt><dd>des Standorts der Antenne auf dem Bildschirm und der Vorauslinie,</dd><dt>•</dt><dd>von Lage, Kurs und Wenderichtung des eigenen Fahrzeugs,</dd><dt>•</dt><dd>der Abstände und Entfernungen.</dd></dl></dd><dt>2.</dt><dd>Fähigkeit, das Verhalten anderer Verkehrsteilnehmer (stillliegende Fahrzeuge, entgegenkommende Fahrzeuge, mitlaufende Fahrzeuge) zu interpretieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>weitere vom Radar bereitgestellte Informationen zu analysieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, vom Radar bereitgestellte Informationen wie Vorauslinie<br />
+(HL – Heading Line), elektronische Peillinie (EBL – Electronic Bearing Line), Ringabstände, variabler Entfernungsmessring (VRM – Variable Range Marker), Zielspuren, Dezentrierung, parallele Linien (P-Linien) zu analysieren und das Radarbild zu erklären.</dd><dt>2.</dt><dd>Kenntnis der Grenzen der Informationsmöglichkeiten durch Navigationsradaranlagen.</dd><dt>3.</dt><dd>Fähigkeit, das Verhalten von ortsfesten und sich bewegenden Objekten auszuwerten.</dd></dl></td></tr></tbody></table>
+
+3. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, Störungen unterschiedlichen Ursprungs zu reduzieren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>vom eigenen Fahrzeug ausgehende Störungen zu identifizieren und zu reduzieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Störungen, die durch Bruch oder Aufsplittung der Antennenkeule, durch Abschattungen (blinde Sektoren) oder durch Mehrfachreflexionen (z. B. in Laderäumen) verursacht werden können.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Reduzierung der vom eigenen Fahrzeug ausgehenden Störungen zu ergreifen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>von der Umgebung<br />
+ausgehende Störungen zu identifizieren und zu reduzieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Störungen durch Regen oder Wellengang, Streufelder<br />
+(z. B. bei Brücken), Mehrfachreflexionen, Fehl-/Geisterechos, Hochspannungsleitungen, Radarabschattungen, Mehrwegausbreitung.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Reduzierung der von der Umwelt ausgehenden<br />
+Störungen (Regenechounterdrückung (FTC) und Seegangechounterdrückung (STC)) zu ergreifen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>von anderen Naviga-<br />
+tionsradaranlagen ausgehende Störungen zu identifizieren und zu reduzieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Erscheinungsbildes der von anderen Navigationsradaranlagen verursachten Störungen.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Beseitigung der von anderen Navigationsradar-<br />
+anlagen ausgehenden Störungen (Störunterdrückung (IR)) zu ergreifen.</dd></dl></td></tr></tbody></table>
+
+4. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, unter Berücksichtigung der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und im Einklang mit den Bestimmungen über die Anforderungen für die Radarfahrt (Besatzungsvorschriften, technische Vorschriften für Schiffe usw.) mit Radar zu fahren.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Regeln für den Einsatz<br />
+von Radar anzuwenden.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Bestimmungen für den Einsatz von Radar in den geltenden<br />
+vereinbarten Regeln im Bereich der Binnenschifffahrt und in den geltenden Polizeiverordnungen (z. B. Fahrt bei eingeschränkten Sichtverhältnissen, Einsatz von Radar bei uneingeschränkter Sicht und Pflicht zum Einsatz von Radar bei der Fahrt), die Nutzung von UKW-Sprechfunk, Schallzeichen und Absprache des Steuerkurses.</dd><dt>2.</dt><dd>Kenntnis der technischen Anforderungen an Fahrzeuge, die Navigationsradaranlagen nutzen, nach den geltenden technischen Vorschriften wie ESTRIN (Europäischer Standard der technischen Vorschriften für Binnenschiffe).</dd><dt>3.</dt><dd>Fähigkeit, Navigationsradaranlagen, Wendegeschwindigkeitsanzeiger und<br />
+Inland ECDIS kombiniert mit Radar zu nutzen.</dd><dt>4.</dt><dd>Kenntnis der Besatzungsanforderungen bei eingeschränkten Sichtverhältnissen und bei guten Sichtverhältnissen.</dd><dt>5.</dt><dd>Fähigkeit, Aufgaben an die Besatzungsmitglieder angemessen zu verteilen und sachgerechte Anweisungen zu erteilen.</dd></dl></td></tr></tbody></table>
+
+5. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, besondere Umstände wie z. B. Verkehrsdichte, Anlagenausfall, gefährliche Situationen zu bewältigen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>unter besonderen<br />
+Umständen<br />
+(z. B. hohe Verkehrsdichte, Anlagenausfall und andere unklare oder gefährliche Verkehrssituationen) angemessen zu reagieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Möglichkeiten, bei hoher Verkehrsdichte zu reagieren.</dd><dt>2.</dt><dd>Fähigkeit, bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen.</dd><dt>3.</dt><dd>Kenntnis von Maßnahmen zur Risikominderung und angemessener Reaktionsmuster bei Anlagenausfall.</dd><dt>4.</dt><dd>Fähigkeit, bei Anlagenausfall zu reagieren.</dd><dt>5.</dt><dd>Kenntnis möglicher Maßnahmen in unklaren oder gefährlichen Verkehrs-<br />
+situationen.</dd><dt>6.</dt><dd>Fähigkeit, bei unklaren oder gefährlichen Verkehrssituationen zu reagieren.</dd></dl></td></tr></tbody></table>
+
+# Anlage 14 – (zu § 41 Absatz 3)Standards für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 70 - 71)
+
+ 
+
+1. Besondere Befähigungen und Beurteilungssituationen
+
+Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+
+Die Prüfungskommission muss die Elemente 1 bis 16 und mindestens eines der Elemente 17 bis 19 prüfen. Die Bewerber müssen für jedes Element mindestens 7 von 10 Punkten erreichen.
+
+| Nr. | Befähigungen | Prüfungselement                                                                                                                                                                                                                                                                                                 |
+|:----|:-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | 1.1.         | Bedienungselemente von Navigationsradaranlagen einzuschalten, einzustellen und zu überwachen;                                                                                                                                                                                                                   |
+|  2  | 1.1.         | Bedienungselemente von Wendegeschwindigkeitsanzeigern einzuschalten, einzustellen und zu überwachen;                                                                                                                                                                                                            |
+|  3  | 1.1.         | das Radarbild durch Einstellung von Entfernung, Auflösung, Helligkeit, Verstärkung, Kontrast, anderen verbundenen Geräten, Mittelpunkt und Abstimmung korrekt auszuwerten;                                                                                                                                      |
+|  4  | 1.1.         | den Wendegeschwindigkeitsanzeiger zu verwenden, z. B. durch Einstellung der Wendegeschwindigkeit entsprechend der maximalen Wendegeschwindigkeit des Fahrzeugs;                                                                                                                                                 |
+|  5  | 2.1          | den Standort der Antenne auf dem Bildschirm und die Vorauslinie, Lage, Kurs und Wenderichtung des eigenen Fahrzeugs und Abstände und Entfernungen zu erkennen;                                                                                                                                                  |
+|  6  | 2.1          | das Verhalten anderer Verkehrsteilnehmer (stillliegende Fahrzeuge, entgegenkommende Fahrzeuge, mitlaufende Fahrzeuge) zu interpretieren;                                                                                                                                                                        |
+|  7  | 2.2          | vom Radar bereitgestellte Informationen wie Vorauslinie, elektronische Peillinie, Ringabstände, variabler Entfernungsmessring, Zielspuren, Dezentrierung und parallele Linien zu analysieren und das Radarbild zu erklären;                                                                                     |
+|  8  | 3.1          | vom eigenen Fahrzeug ausgehende Störungen durch Überprüfung der Antenne, Verringerung von Abschattungen und Mehrfachreflexionen (z. B. in Laderäumen) zu reduzieren;                                                                                                                                            |
+|  9  | 3.2          | Maßnahmen zur Reduzierung der von der Umwelt ausgehenden Störungen zu ergreifen durch Verringerung des Einflusses von Regen und Wellengang, den korrekten Umgang mit Streufeldern (z. B. an Brücken), Fehl-/Geisterechos von Hochspannungsleitungen und -kabeln sowie mit Abschattungen und Mehrwegausbreitung; |
+| 10  | 3.3          | von anderen Navigationsradaranlagen ausgehende Störungen durch Störunterdrückung zu beseitigen;                                                                                                                                                                                                                 |
+| 11  | 4.1          | den Mitgliedern einer Decksmannschaft korrekt Aufgaben zuzuweisen;                                                                                                                                                                                                                                              |
+| 12  | 4.1          | die Zusammenarbeit zwischen dem Rudergänger und der Person, die Navigationsradaranlagen verwendet, entsprechend der Sicht und der Ausführung des Steuerhauses sicherzustellen;                                                                                                                                  |
+| 13  | 4.1          | Wendegeschwindigkeitsanzeiger und Inland ECDIS oder ähnliche Anzeigen in Kombination mit Radar zu verwenden;                                                                                                                                                                                                    |
+| 14  | 4.1          | bei eingeschränkter und bei guter Sicht entsprechend den Polizeivorschriften zu handeln;                                                                                                                                                                                                                        |
+| 15  | 4.1          | Funk und Schallzeichen zu verwenden und Kursabsprachen unter Verwendung der vom Radar bereitgestellten Informationen vorzunehmen;                                                                                                                                                                               |
+| 16  | 4.1          | Kommandos an den Rudergänger zu erteilen und die erforderlichen Kenntnisse und Fertigkeiten dieser Person zu überprüfen;                                                                                                                                                                                        |
+| 17  | 5.1          | bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen;                                                                                                                                                                                                                                                    |
+| 18  | 5.1          | bei Anlagenausfall angemessene Maßnahmen zu ergreifen;                                                                                                                                                                                                                                                          |
+| 19  | 5.1          | in unklaren oder gefährlichen Verkehrssituationen angemessen zu reagieren.                                                                                                                                                                                                                                      |
+
+2. Technische Anforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden
+
+Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
+Fahrzeuge, die für praktische Prüfungen zur Beurteilung der Befähigung eines Schiffsführers, der unter Radar fährt, verwendet werden, müssen die technischen Anforderungen nach Artikel 7.06 ES-TRIN 2017/1<span id="FnR.f819242_02_07"></span><a href="#f819242_02_07" class="FnR">4</a></sup> erfüllen. Die Fahrzeuge müssen mit einem betriebsfähigen Inland ECDIS oder einem vergleichbaren Kartenanzeigegerät ausgestattet sein.
+
+# Anlage 15 – (zu § 42 Absatz 2)Kompetenzen für besondere Berechtigung für Risikostrecken
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 72 - 76)
+
+ 
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
+
+(1) Sonderregelungen für Schubverbände bei der Fahrt zu Tal ab bestimmten Wasserständen
+
+(2) außergewöhnliche Wirkung und Bedeutung der Isar für den gesamten Streckenbereich, sowohl unterhalb wie oberhalb von Deggendorf
+
+(3) die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit anderen Fahrzeugen nicht möglich ist.
+
+(4) Position der Warteplätze, um talfahrende Fahrzeuge, die sich in den Bereichen ohne Begegnungsmöglichkeit befinden, passieren zu lassen.
+
+(5) Übliche und nautisch erforderliche Festlegung der Begegnungsseite, um Havarien für den Talfahrer nach der Passage zu vermeiden
+
+(6) die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten
+
+(7) die unübersichtlichen Kurvenbereiche, in denen auch eine Vielzahl von Kleinfahrzeuge verkehren
+
+(8) die Lage der Buhnen, Inseln und Einmündungen von Nebengewässern, um deren Strömungsbeeinflussung abzuschätzen
+
+(9) Bestimmung der Abladetiefe in Bezug auf Berg- und Talfahrt
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über
+
+(1) die veränderliche Beschaffenheit des Untergrundes von Fels bis hin zu feinem Sediment
+
+(2) starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne
+
+(3) die Tiefenverhältnisse an den Warteplätzen, um sich bei der Passage der talfahrenden Fahrzeuge nicht selbst festzufahren.
+
+(4) Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.
+
+(5) die Vielzahl von Gefahrenstellen.
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
+
+(1) starke Schwankung der Wasserstände zwischen den niedrigsten und höchsten schiffbaren Wasserständen um streckenweise fast 7 m
+
+(2) Verlauf der Fahrrinne im Strom und Lage der Buhnen bei Hochwasser
+
+(3) Lage aller Fehltiefen und -breiten bei Niedrigwasser
+
+(4) Strömungsverlauf bei Hochwasser, insbesondere unterhalb von Torgau
+
+(5) Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände, insbesondere seenartige Verbreiterung des Flusses bei Hochwasser
+
+(6) Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
+
+(7) starke Querströmungen im Bereich von Km 324,5 – 327,2; Notwendigkeit einer Vorspann-Schlepperhilfe bei niedrigen Wasserständen und schwacher Motorenleistung in der Bergfahrt
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über
+
+(1) vielfach fehlende Begegnungs- und Überholmöglichkeiten von größeren Fahrzeugen/Verbänden
+
+(2) die geringe Wasserführung über die meiste Zeit des Jahres
+
+(3) die große Anzahl der Gierseilfähren
+
+(4) nur einschiffig durchfahrbare Brücken
+
+(5) lokale Verkehrsregelungen
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
+
+(1) außergewöhnliche Wirkung und Bedeutung der Buhnenbauwerke auf dieser Strecke
+
+(2) eine Vielzahl von Wechseln der Begegnungsseite von Backbord zu Steuerbord und umgekehrt mit der einhergehenden hohen Drehbewegung der Fahrzeuge
+
+(3) die Lage der Buhnenfelder, um deren Strömungsbeeinflussung abzuschätzen
+
+(4) die extrem hohe Dichte von Einmündung von Nebengewässern
+
+(5) Sonderregelungen für Fahrzeuge ab bestimmten Längen
+
+(6) die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit Schubverbänden vermieden werden sollte,
+
+(7) die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten
+
+(8) Regelungen zur Mindestgeschwindigkeit von Schubverbänden
+
+(9) die besonderen Anforderungen, die durch die Vielzahl von Kleinfahrzeugen verursacht werden,
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über
+
+(1) die veränderliche Beschaffenheit des Untergrundes von Kiesbänken über Buhnenfelder bis hin zu feinem Sediment
+
+(2) starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne
+
+(3) die Tiefenverhältnisse auch im Fahrwasserbereich, um bei der Passage der talfahrenden Fahrzeuge ausweichen zu können oder den optimalen Bergweg zu nutzen.
+
+(4) Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.
+
+(5) die Vielzahl von Gefahrenstellen
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
+
+•  
+schwankende Wasserstände um mehr als 6 m an einigen Streckenabschnitten
+
+•  
+Verlauf der Fahrrinne im Strom bei Hochwasser
+
+•  
+Lage aller Fehltiefen und -breiten bei Niedrigwasser
+
+•  
+Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
+
+•  
+Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
+
+•  
+Querströmungen
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über
+
+•  
+Fehltiefen
+
+•  
+Geschiebebewirtschaftung
+
+•  
+nautisch anspruchsvolle Streckenabschnitte
+
+c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
+
+•  
+das Befahren des Rheingaus
+
+•  
+Wechsel des gleichwertigen Wasserstandes des Rheins (GLW) von 2,10 m auf 1,90 m in diesem Bereich
+
+•  
+Berechnung der unterschiedlichen Richtpegel zum Bestimmen der Fahrrinnen- und Abladetiefen in diesem Bereich
+
+•  
+Wirkung von Strömung
+
+•  
+Geeignete Liegeplätze benennen und kennen, um bei unvorhersehbaren Ereignissen richtig und sicher reagieren zu können,
+
+b) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen
+
+•  
+Verkehrsregelung in der Gebirgsstrecke
+
+•  
+Wartepositionen
+
+•  
+Überholverbote
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
+
+•  
+schwankende Wasserstände um teils mehr als 7 m
+
+•  
+Verlauf der Fahrrinne im Strom bei Hochwasser
+
+•  
+Lage aller Fehltiefen und -breiten bei Niedrigwasser
+
+•  
+Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
+
+•  
+Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
+
+•  
+Querströmungen
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über die örtlichen Gegebenheiten bezüglich Geschiebebewirtschaftung und nicht gekennzeichnete Fehltiefen und -breiten.
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über:
+
+•  
+Verlauf der Fahrrinne im Strom
+
+•  
+Auswirkungen von Hoch- und Niedrigwasser auf das Fluss- und Landschaftsbild und die Abflussmengen und -geschwindigkeiten
+
+•  
+Querströmungen
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über:
+
+•  
+den Verlauf der Fahrrinne: Sie verlagert sich in dem deutlich breiteren Fluss nach jeder Kurve auf eine andere Seite. Für Begegnungsverkehre und Überholvorgänge sind ausreichende Erfahrung und rechtzeitige Absprachen über Rheinfunk Kanal 10 nötig.
+
+•  
+Lage aller Fehltiefen und -breiten, insbesondere der nicht gekennzeichneten Fehlbreiten sowie der Geschiebebewirtschaftung
+
+•  
+schwierige Streckenabschnitte
+
+c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen:
+
+Zusätzliche Befähigung
+
+Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
+
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
+
+2. Er muss zusätzlich verfügen über
+
+a) detaillierte Kenntnisse der Streckencharakteristika,
+
+b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
+
+3. Zusätzlich muss der Schiffsführer
+
+a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
+
+•  
+die auftretenden Strömungsmuster und -geschwindigkeiten
+
+•  
+das besonders enge Fahrwasser
+
+•  
+die unübersichtlichen Kurvenbereiche
+
+•  
+die Lage der Buhnen
+
+•  
+die häufig auftretenden hohen Fließ-/Strömungsgeschwindigkeiten
+
+•  
+die Örtlichkeiten der Fährstellen und Engstellen (Einbahnverkehr)
+
+•  
+die Lage der Bezugspegel und Abladetiefen
+
+b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über
+
+•  
+den teils felsigen Untergrund
+
+•  
+starke Sedimentanlandungen
+
+•  
+das Fehlen von nautischem Informationsfunk
+
+•  
+das Fehlen von AIS-Pflicht
+
+•  
+das Fehlen von IENC-Karten
+
+•  
+das Fehlen von geprüften und zugelassenen Wasserstraßenkarten
+
+•  
+die Vielzahl von Gefahrenstellen
+
+# Anlage 16 – (zu § 43 Absatz 2)Befähigungsstandards für das Befahren von Binnenwasserstraßen mit maritimem Charakter
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 77 - 78)
+
+ 
+
+1. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, mit aktuellem Kartenmaterial, Nachrichten für die Binnenschifffahrt und Seefahrer sowie anderen, für Wasserstraßen mit maritimem Charakter bestimmten Veröffentlichungen zu arbeiten.
+
+Der Schiffsführer muss in der Lage sein:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Informationen aus<br />
+speziellen nautischen Informationsquellen und Vorschriften für Binnenwasserstraßen mit maritimem Charakter zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Nutzung nautischer Karten für Binnenwasserstraßen mit<br />
+maritimem Charakter.</dd><dt>2.</dt><dd>Fähigkeit, Karten für Binnenwasserstraßen mit maritimem Charakter zu nutzen und korrekt anzuwenden, zur Berücksichtigung von Faktoren im Zusammenhang mit der Genauigkeit der Kartenangaben, wie Kartendatum, Symbole, Tiefeninformationen, Bodenbeschreibung, Tiefen und Festpunkte, und internationalen Kartenstandards wie ECDIS.</dd><dt>3.</dt><dd>Kenntnis der terrestrischen und Satellitennavigation zur Bestimmung von<br />
+Koppelnavigation, des Navigierens nach sichtbaren Markierungen, der Koordinaten, geodätischer Länge und Breite, des horizontalen geodätischen Bezugssystems, des Unterschieds von Breite und Länge, Entfernung und Geschwindigkeit über Grund, Himmelsrichtungen, des Kurses, des Kurses über Grund, des Kompasskurses, der um den Versatz als Ergebnis von Windrichtung und -stärke korrigiert wurde, der Vorausrichtung und der Peilung, der Kursbestimmung, der Kursbestimmung mit dem Einfluss von Wind und Strömung, der Kursbestimmung mit dem Einfluss der Strömung und des Plottens der Position beim Fahren auf Kurs und Peilung.</dd><dt>4.</dt><dd>Fähigkeit, Nachrichten für die Binnenschifffahrt und Seefahrer sowie sonstige Informationsdienste wie Seehandbücher, Planungshandbücher, Leuchtfeuerverzeichnisse, maritime Sicherheitsinformationen (MSI) zu nutzen.</dd><dt>5.</dt><dd>Kenntnis der für Binnenwasserstraßen mit maritimem Charakter geltenden<br />
+Verkehrsregeln einschließlich der einschlägigen Abschnitte der Internationalen Regeln zur Verhütung von Zusammenstößen auf See.</dd><dt>6.</dt><dd>Kenntnis der in Notfallsituationen für Binnenwasserstraßen mit maritimem Charakter geltenden Regeln.</dd><dt>7.</dt><dd>Fähigkeit, die durch spezielle Vorschriften vorgesehene Schiffsausrüstung zu nutzen.</dd></dl></td></tr></tbody></table>
+
+2. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, mit Gezeitenhöhen, -strömen, -perioden und -zyklen, Zeittafeln für Gezeitenströmungen und Gezeiten sowie Abweichungen innerhalb eines Mündungsgebiets umzugehen.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Gezeiten und<br />
+Gezeiten- und Wettervorhersagen und<br />
+-verhältnisse vor dem Ablegen und während der Fahrt zu berücksichtigen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis von Veröffentlichungen und Informationen zur Gezeiten- und<br />
+Strömungsvorhersage, wie Gezeitentafeln, Gezeitenvorhersage für An-<br />
+schlussorte, Informationen zu Vereisung, Hochwasser/Niederwasser, Liegeplätzen und Hafenverzeichnissen, zur Bestimmung von Wasserstand, Strömungsrichtung und -stärke und verfügbarer Tiefe.</dd><dt>2.</dt><dd>Kenntnis der Auswirkungen von Wetterbedingungen, Landform und sonstigen Faktoren auf die Gezeitenströmungen.</dd><dt>3.</dt><dd>Fähigkeit, die Auswirkungen von Gezeitenstand, Strömung, Wetterbedingungen und Wellengang auf die sichere Navigation bei der geplanten Reise zu bestimmen.</dd></dl></td></tr></tbody></table>
+
+3. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) zur sicheren Navigation auf Binnenwasserstraßen mit maritimem Charakter zu verwenden.
+
+Der Schiffsführer muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>SIGNI (Signalisation<br />
+de voies de Navigation Intérieure), IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) und sonstige lokale Kennzeichnungs- und Signalsysteme zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Betonnungssysteme, IALA, Region A, Kennzeichnungs-<br />
+und Signalsysteme wie Betonnungsrichtung, -nummerierung Kennzeichnungen von Gegenständen und Aufbauten, laterale und kardinale Betonnung, Trennungstonnen, Zusatzkennzeichnungen Kennzeichnungen von Gefahrenstellen und Hindernissen Kennzeichnungen des Fahrwasserverlaufs sowie der Fahrrinne, der Hafeneinfahrten, Betonnung und Beleuchtung sowie Beleuchtungsmerkmale.</dd><dt>2.</dt><dd>Fähigkeit, die Kennzeichnungs- und Signalsysteme zur Bestimmung der<br />
+im Hinblick auf lokale Umstände und Bedingungen angemessenen Position des Fahrzeugs auf der Wasserstraße zu nutzen.</dd></dl></td></tr></tbody></table>
+
+# Anlage 17 – (zu § 47 Absatz 1)Befähigungsstandards für Sachkundige für Flüssigerdgas (liquified natural gas – LNG)
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 79 - 81)
+
+ 
+
+1. Der Sachkundige muss in der Lage sein, für die Einhaltung der Rechtsvorschriften und Standards für mit Flüssigerdgas als Brennstoff betriebene Fahrzeuge sowie sonstiger relevanter Gesundheits- und Sicherheitsvorschriften zu sorgen.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>für die Einhaltung relevanter Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge zu sorgen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Vorschriften für mit LNG als Brennstoff betriebene Fahrzeuge wie der relevanten Polizeivorschriften, technischen Vorschriften sowie Vorschriften des ADN.</dd><dt>2.</dt><dd>Kenntnis der Regeln der Klassifikationsgesellschaften.</dd><dt>3.</dt><dd>Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Fahrzeugs und insbesondere des Bunkerverfahrens zu sorgen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>für die Einhaltung sonstiger relevanter Gesundheits- und Sicherheitsvorschriften bei Fahrt und im festgemachten Zustand zu sorgen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der relevanten Gesundheits- und Sicherheitsvorschriften einschließlich einschlägiger lokaler Vorschriften und Genehmigungen insbesondere in den Hafengebieten.</dd><dt>2.</dt><dd>Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen.</dd></dl></td></tr></tbody></table>
+
+2. Der Sachkundige muss in der Lage sein, sich der wichtigen Aspekte im Hinblick auf Flüssigerdgas bewusst zu sein und die damit verbundenen Risiken zu erkennen und zu bewältigen.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>wichtige Aspekte hinsichtlich der besonderen Eigenschaften von LNG zu verstehen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Definition, Zusammensetzung und Qualitätsmerkmale von LNG, Sicherheitsdatenblatt (SDB): physikalische und Produkteigenschaften sowie Umwelteigenschaften.</dd><dt>2.</dt><dd>Kenntnis der richtigen Lagertemperatur, des Flammpunkts, der Explosionsgrenzen und Druckeigenschaften, der kritischen Temperaturen, der entsprechenden Gefahren, der atmosphärischen Bedingungen, der kryogenen Eigenschaften, des Verhaltens von LNG in Luft, Boil-Off und Inertgas, z. B. Stickstoff.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Risiken zu erkennen und zu beherrschen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Sicherheitspläne, Gefahren und Risiken, einschließlich der Musterliste und der entsprechenden Sicherheitsaufgaben.</dd><dt>2.</dt><dd>Fähigkeit zur Durchführung eines Risikomanagements, zur Dokumentation der Sicherheit an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen), zur Bewertung und Überwachung gefährdeter Bereiche und des Brandschutzes sowie zur Verwendung persönlicher Schutzausrüstung.</dd></dl></td></tr></tbody></table>
+
+3. Sachkundige muss in der Lage sein, die Flüssigerdgas-spezifischen Systeme sicher zu betreiben.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>LNG-Systeme sicher zu betreiben, die sich an Bord befinden und mit an Bord befindlichen Anlagen verbunden sind.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der technischen Aspekte der LNG-Anlage wie<dl><dt>•</dt><dd>allgemeine Anordnung und Betriebshandbuch,</dd><dt>•</dt><dd>LNG-Bunkersystem,</dd><dt>•</dt><dd>Auffangvorrichtungen,</dd><dt>•</dt><dd>LNG-Behältersystem,</dd></dl></dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><dl><dt></dt><dd><dl><dt>•</dt><dd>Gasaufbereitungssystem,</dd><dt>•</dt><dd>LNG-Leitungssystem,</dd><dt>•</dt><dd>Gasversorgungssystem,</dd><dt>•</dt><dd>Maschinenraumkonzept,</dd><dt>•</dt><dd>Belüftungssystem,</dd><dt>•</dt><dd>Temperatur und Druck (Lesen eines Druck- und Temperaturverteilungsplans), Ventile (insbesondere Hauptgasbrennstoffventil), Überdruckventile, Kontroll-, Überwachungs- und Sicherheitssysteme, Alarme, Gasdetektion und Abreißkupplungen.</dd></dl></dd><dt>2.</dt><dd>Fähigkeit, die Wirkungsweise von LNG darzulegen, Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Gasversorgungs-, Belüftungs-, Leitungs- und Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln.</dd></dl></td></tr></tbody></table>
+
+4. Der Sachkundige muss in der Lage sein, für die regelmäßige Überprüfung der Flüssigerdgas-Anlage zu sorgen.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die regelmäßige Überprüfung der LNG-Anlage durchzuführen und zu überwachen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Instandhaltung und Überwachung der LNG-Anlage.</dd><dt>2.</dt><dd>Kenntnis möglicher Funktionsstörungen und Alarme.</dd><dt>3.</dt><dd>Fähigkeit, die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen, Funktionsstörungen zu beheben und die Instandhaltungsarbeiten zu dokumentieren.</dd></dl></td></tr></tbody></table>
+
+5. Der Sachkundige muss in der Lage sein, das Bunkern von Flüssigerdgas in sicherer und kontrollierter Weise vornehmen zu können.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die Bunkervorgänge in sicherer Weise durchzuführen und zu überwachen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis<dl><dt>•</dt><dd>der Kennzeichnung gemäß den einschlägigen Polizei- und Hafenvorschriften,</dd><dt>•</dt><dd>der Liege- und Festmachbedingungen für das Bunkern,</dd><dt>•</dt><dd>des Verfahrens für das Bunkern von LNG,</dd><dt>•</dt><dd>der Entleerung der LNG-Anlage,</dd><dt>•</dt><dd>der einschlägigen Prüflisten und des Auslieferungszertifikats,</dd><dt>•</dt><dd>der Sicherheitsmaßnahmen beim Bunkern und der Evakuierungsverfahren.</dd></dl></dd><dt>2.</dt><dd>Fähigkeit zur Einleitung und Überwachung der Bunkerverfahren, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und zur Ergreifung von Maßnahmen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen.</dd><dt>3.</dt><dd>Fähigkeit, für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen.</dd><dt>4.</dt><dd>Fähigkeit, den Beginn des Bunkervorgangs zu melden und das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen.</dd><dt>5.</dt><dd>Fähigkeit, das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden.</dd></dl></td></tr></tbody></table>
+
+6. Der Sachkundige muss in der Lage sein, die Flüssigerdgas-Anlage für die Wartung von Fahrzeugen vorzubereiten.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>die LNG-Anlage für die Wartung von Fahrzeugen und den erneuten Einsatz vorzubereiten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der entsprechenden Entleerungsverfahren wie Lenzen und Spülen der LNG-Anlage vor dem Werftaufenthalt.</dd><dt>2.</dt><dd>Fähigkeit zur Durchführung<dl><dt>•</dt><dd>der Inertisierung der LNG-Anlage,</dd><dt>•</dt><dd>des Verfahrens zum Lenzen des LNG-Lagertanks,</dd><dt>•</dt><dd>der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),</dd><dt>•</dt><dd>der Inbetriebnahme nach dem Werftaufenthalt.</dd></dl></dd></dl></td></tr></tbody></table>
+
+7. Der Sachkundige muss in der Lage sein, Krisensituationen im Zusammenhang mit Flüssigerdgas zu bewältigen.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>in Notfallsituationen<br />
+(wie Verschüttung und Leckagen von LNG, Hautkontakt mit Niedrigtemperaturmaterie, Brand, Zwischenfälle im Zusammenhang mit der Beförderung von Gefahrgütern mit spezifischen Risiken oder Auflaufen des Fahrzeugs) angemessen zu reagieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Notfallmaßnahmen und der Sicherheitsdokumentation an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen).</dd><dt>2.</dt><dd>Fähigkeit, in Notfällen wie<dl><dt>•</dt><dd>Verschüttung von LNG auf dem Deck,</dd><dt>•</dt><dd>Hautkontakt mit LNG,</dd><dt>•</dt><dd>Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen),</dd><dt>•</dt><dd>Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen),</dd><dt>•</dt><dd>Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen,</dd><dt>•</dt><dd>Druckaufbau in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren.</dd></dl></dd><dt>3.</dt><dd>Kenntnis der spezifischen Risiken bei der Beförderung von Gefahrgütern und bei Auflaufen oder Kollision des Fahrzeugs.</dd><dt>4.</dt><dd>Fähigkeit, Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten.</dd></dl></td></tr></tbody></table>
+
+# Anlage 18 – (zu § 47 Absatz 4)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für Flüssigerdgas (LNG)
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 82 - 83)
+
+ 
+
+1. Besondere Befähigungen und Beurteilungssituationen
+
+Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 9 der 11 Elemente der Kategorie I prüfen.
+
+Die Prüfungskommission muss 5 der 7 Elemente der Kategorie II prüfen.
+
+Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+
+Für Kategorie I müssen die Bewerber für jedes geprüfte Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 30 Punkte erreichen.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 5%" /><col style="width: 13%" /><col style="width: 73%" /><col style="width: 10%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nr.</th><th style="text-align: left;">Befähigungen</th><th>Prüfungselemente</th><th style="text-align: center;">Kategorie<br />
+I-II</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"> 1</td><td style="text-align: left;">1.1</td><td>die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Schiffes und insbesondere des Bunkerverfahrens zu sorgen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;"> 2</td><td style="text-align: left;">1.2</td><td>die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 3</td><td style="text-align: left;">2.2</td><td>Risikomanagement durchzuführen, die Sicherheit an Bord zu dokumentieren (einschließlich Sicherheitsplan und Sicherheitsanweisungen), gefährdete Bereiche, Brandschutz zu bewerten und zu überwachen und persönliche Schutzausrüstung zu benutzen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;"> 4</td><td style="text-align: left;">3.1</td><td>die Wirkungsweise von LNG darzulegen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 5</td><td style="text-align: left;">3.1</td><td>Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Leitungs-, Gasversorgungs-, Belüftungs-, Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 6</td><td style="text-align: left;">4.1</td><td>die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 7</td><td style="text-align: left;">4.1</td><td>bei der Instandhaltung festgestellte Funktionsstörungen zu beheben;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 8</td><td style="text-align: left;">4.1</td><td>Wartungsarbeiten zu dokumentieren;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 9</td><td style="text-align: left;">5.1</td><td>Bunkerverfahren einzuleiten und zu überwachen, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und Maßnahmen zu ergreifen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">10</td><td style="text-align: left;">5.1</td><td>für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">11</td><td style="text-align: left;">5.1</td><td>den Beginn des Bunkervorgangs zu melden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">12</td><td style="text-align: left;">5.1</td><td>das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">13</td><td style="text-align: left;">5.1</td><td>das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">14</td><td style="text-align: left;">6.1</td><td>Durchführung<dl><dt>1.</dt><dd>der Inertisierung der LNG-Anlage,</dd><dt>2.</dt><dd>des Verfahrens zum Lenzen des LNG-Lagertanks,</dd><dt>3.</dt><dd>der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),</dd><dt>4.</dt><dd>der Inbetriebnahme nach dem Werftaufenthalt;</dd></dl></td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">15</td><td style="text-align: left;">7.1</td><td>angemessen zu handeln in Notfällen wie Verschüttung von LNG auf dem Deck, Hautkontakt mit LNG, Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen), Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen);</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">16</td><td style="text-align: left;">7.1</td><td>bei einem Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen angemessen zu reagieren;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">17</td><td style="text-align: left;">7.1</td><td>im Falle eines Druckaufbaus in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">18</td><td style="text-align: left;">7.1</td><td>Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten.</td><td style="text-align: center;">I</td></tr></tbody></table>
+
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden
+
+Das Fahrzeug und die Landanlagen müssen ausgestattet sein mit
+
+1. Dokumenten, die für die Beurteilung verwendet werden, wie
+
+1.1  
+Sicherheitsrolle (einschließlich Sicherheitsplan und Sicherheitsanweisungen) nach Artikel 30.03 ES-TRIN 2017/1,
+
+1.2  
+Risikobewertung nach Abschnitt I Nummer 1.3 der Anlage 8 zum ES-TRIN 2017/1,
+
+1.3  
+allen sonstigen Unterlagen, die nach Artikel 30.01 Nummer 5 ES-TRIN 2017/1 erforderlich sind, einschließlich eines detaillierten Betriebshandbuchs nach Abschnitt I Nummer 1.4.9 der Anlage 8 zum ES-TRIN 2017/1,
+
+2. speziellen Systemen für die Nutzung von LNG,
+
+2.1  
+einem LNG-Bunkersystem einschließlich einer Bunkerstation,
+
+2.2  
+einem LNG-Behältersystem,
+
+2.3  
+einem LNG-Leitungssystem,
+
+2.4  
+einem Gasversorgungssystem,
+
+2.5  
+einem Gasaufbereitungssystem,
+
+3. einem geeigneten Maschinenraum,
+
+3.1  
+einem Belüftungssystem,
+
+3.2  
+einem System zur Verhütung und Kontrolle von Leckagen,
+
+3.3  
+einem Überwachungs- und Sicherheitssystem und
+
+3.4  
+der zusätzlichen Feuerlöschanlage.
+
+Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
+# Anlage 19 – (zu § 49 Absatz 1)Befähigungsstandards für Sachkundige für die Fahrgastschifffahrt
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 84 - 85)
+
+ 
+
+1. Der Sachkundige muss in der Lage sein, den Einsatz von Rettungsmitteln an Bord von Fahrgastschiffen zu organisieren.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>den Einsatz von Rettungsmitteln zu organisieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Sicherheitspläne einschließlich:<dl><dt>•</dt><dd>Sicherheitsrolle und Sicherheitsplan,</dd><dt>•</dt><dd>Notfallpläne und -verfahren.</dd></dl></dd><dt>2.</dt><dd>Kenntnis der Rettungsmittel und ihrer Funktionen und Fähigkeit, den Gebrauch von Rettungsmitteln vorzuführen.</dd><dt>3.</dt><dd>Kenntnis der für Fahrgäste mit eingeschränkter Mobilität zugänglichen Bereiche.</dd><dt>4.</dt><dd>Fähigkeit, Fahrgästen, einschließlich Fahrgästen mit eingeschränkter Mobilität, den Gebrauch von Rettungsmitteln vorzuführen.</dd></dl></td></tr></tbody></table>
+
+2. Der Sachkundige muss in der Lage sein, Sicherheitsanweisungen anzuwenden und die erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie insbesondere in Notfällen zu ergreifen (z. B. Evakuierung, Schäden, Kollision, Auflaufen, Brand, Explosion und andere Situationen, in denen die Gefahr einer Panik besteht), einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Sicherheitsanweisungen anzuwenden;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Sicherheitssysteme und -ausrüstung zu überwachen und Prüfungen und Kontrollen der Sicherheitsausrüstung von Fahrgastschiffen, einschließlich der Atemschutzgeräte, zu organisieren.</dd><dt>2.</dt><dd>Fähigkeit, Übungen zu Notfallsituationen durchzuführen.</dd><dt>3.</dt><dd>Fähigkeit, Besatzungsmitglieder und Bordpersonal, die eine Aufgabe gemäß der Sicherheitsrolle haben, in die Nutzung von Rettungsmitteln, Fluchtwegen, Sammel- und Evakuierungsflächen im Notfall einzuweisen.</dd><dt>4.</dt><dd>Fähigkeit, Fahrgäste zu Beginn der Fahrt über die Verhaltensregeln und die Inhalte des Sicherheitsplans zu informieren.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>die erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen zu ergreifen;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Fähigkeit, die Sicherheitseinsatzplanung für die Evakuierung von Teilen oder des gesamten Schiffes unter Berücksichtigung verschiedener Notfallsituationen (z. B. Rauch, Feuer, Leckage, Gefahr für die Stabilität des Schiffes, von der beförderten Ladung ausgehende Gefahren) umzusetzen.</dd><dt>2.</dt><dd>Kenntnis der Grundsätze der Krisenbewältigung, der Führung von Menschenmengen und der Konfliktbewältigung.</dd><dt>3.</dt><dd>Fähigkeit, dem Schiffsführer, den Fahrgästen und den externen Rettungskräften die notwendigen Informationen bereitzustellen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Hilfe zu leisten und Anweisungen zu erteilen, damit Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sicher einschiffen, ausschiffen und mit dem Schiff reisen können;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Zugänglichkeit des Schiffes, der Bereiche an Bord, die für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität geeignet sind, sowie ihrer speziellen Bedürfnisse im Hinblick auf z. B. Fluchtwege und korrekte Bezeichnung dieser Bereiche in den Sicherheitsplänen.</dd><dt>2.</dt><dd>Fähigkeit, die Vorschriften für den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sowie die Unterweisung nach Anhang IV der Verordnung (EU) Nr. 1177/2010 vollständig umzusetzen.</dd></dl></td></tr></tbody></table>
+
+3. Der Sachkundige muss in der Lage sein, in einfachem Englisch zu kommunizieren.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>über sicherheitsrelevante Themen in einfachem Englisch zu kommunizieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis eines einfachen englischen Wortschatzes und der Aussprache, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten.</dd><dt>2.</dt><dd>Fähigkeit, einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten.</dd></dl></td></tr></tbody></table>
+
+4. Der Sachkundige muss in der Lage sein, die einschlägigen Anforderungen der Verordnung (EU) Nr. 1177/2010 zu erfüllen.
+
+Der Sachkundige muss in der Lage sein,
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 75%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Spalte 1<br />
+Befähigung</th><th style="text-align: left;">Spalte 2<br />
+Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Fahrgästen in Bezug auf Fahrgastrechte Hilfe zu leisten.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Vorschriften für den Binnenschiffsverkehr gemäß der Verordnung (EU) Nr. 1177/2010, insbesondere betreffend das Verbot der Diskriminierung von Fahrgästen hinsichtlich der von Beförderern angebotenen Beförderungsbedingungen, die Rechte der Fahrgäste bei Annullierungen und bei Verspätungen, die Informationen, die den Fahrgästen mindestens verfügbar zu machen sind, den Umgang mit Beschwerden und die allgemeinen Durchsetzungsbestimmungen.</dd><dt>2.</dt><dd>Fähigkeit, die Fahrgäste über die geltenden Fahrgastrechte zu informieren.</dd><dt>3.</dt><dd>Fähigkeit, die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung umzusetzen.</dd></dl></td></tr></tbody></table>
+
+# Anlage 20 – (zu § 49 Absatz 4 und 5)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für die Fahrgastschifffahrt
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 86 - 87)
+
+ 
+
+1. Besondere Befähigungen und Beurteilungssituationen
+
+Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+
+Die Prüfungskommission muss 11 der 14 Elemente der Kategorie I prüfen, vorausgesetzt die Elemente 16 und 20 werden geprüft.
+
+Die Prüfungskommission muss 7 der 8 Elemente der Kategorie II prüfen.
+
+Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+
+Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 45 Punkte erreichen.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 5%" /><col style="width: 13%" /><col style="width: 73%" /><col style="width: 10%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nr.</th><th style="text-align: left;">Befähigungen</th><th>Prüfungselemente</th><th style="text-align: center;">Kategorie<br />
+I-II</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"> 1</td><td style="text-align: left;">1.1.</td><td>Fahrgästen den Gebrauch von Rettungsringen vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 2</td><td style="text-align: left;">1.1.</td><td>Fahrgästen, Mitgliedern der Decksmannschaft und Bordpersonal den Gebrauch von Rettungswesten vorzuführen, einschließlich bestimmter Einzelrettungsmittel für Personen, die keine Aufgaben nach der Sicherheitsrolle übernehmen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 3</td><td style="text-align: left;">1.1.</td><td>den Gebrauch geeigneter Einrichtungen für die Evakuierung in seichtes Wasser, an das Ufer oder an Bord eines anderen Fahrzeugs vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 4</td><td style="text-align: left;">1.1.</td><td>den Gebrauch von Beibooten einschließlich ihres Motors und Suchscheinwerfers oder einer Plattform nach Artikel 19.15 ES-TRIN 2017/1 vorzuführen, die das Beiboot oder Sammelrettungsmittel nach Artikel 19.09 Nummer 5 bis 7 ES-TRIN 2017/1 ersetzt;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 5</td><td style="text-align: left;">1.1.</td><td>den Gebrauch einer geeigneten Krankentrage vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 6</td><td style="text-align: left;">1.1.</td><td>den Gebrauch von Verbandkästen vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;"> 7</td><td style="text-align: left;">1.1.</td><td>den Gebrauch von umluftunabhängigen Atemschutzgeräten, Ausrüstungssätzen und Fluchthauben nach Artikel 19.12 Nummer 10 ES-TRIN 2017/1 oder einer Kombination dieser Ausrüstungen vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;"> 8</td><td style="text-align: left;">2.1.</td><td>die Prüfintervalle für die unter Nummern 1 bis 7 dieser Tabelle genannte Ausrüstung zu überprüfen und überwachen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;"> 9</td><td style="text-align: left;">2.1.</td><td>die erforderlichen Qualifikationen von Personen, die Verbandkästen und umluftunabhängige Atemschutzgeräte, Ausrüstungssätze sowie Fluchthauben verwenden, zu überprüfen und überwachen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">10</td><td style="text-align: left;">2.1.</td><td>Rettungsmittel angemessen zu verstauen und zu verteilen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">11</td><td style="text-align: left;">2.3.</td><td>für Fahrgäste mit eingeschränkter Mobilität zugängliche Bereiche zu identifizieren;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">12</td><td style="text-align: left;">1.1.</td><td>Fahrgästen mit eingeschränkter Mobilität den Gebrauch von Rettungsmitteln vorzuführen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">13</td><td style="text-align: left;">2.2</td><td>Bestandteile der Sicherheitsrolle und des Sicherheitsplans zu erläutern;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">14</td><td style="text-align: left;">2.1.</td><td>dem Bordpersonal Aufgaben gemäß Sicherheitsrolle und Sicherheitsplan zuzuweisen;</td><td style="text-align: center;">II</td></tr><tr class="odd"><td style="text-align: left;">15</td><td style="text-align: left;">2.3</td><td>dem Bordpersonal Aufgaben in Bezug auf den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Fahrgäste mit eingeschränkter Mobilität zuzuweisen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">16</td><td style="text-align: left;">2.3</td><td>Unterweisung und Instruktionen für Personen mit eingeschränkter Mobilität gemäß Anhang IV der Verordnung (EU) Nr. 1177/2010 zu organisieren;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">17</td><td style="text-align: left;">2.2</td><td>die Evakuierung von Fahrgasträumen zu organisieren und die speziellen Maßnahmen zu erläutern, die im Falle von Kollision, Auflaufen, Rauchentwicklung und Brand zu ergreifen sind;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">18</td><td style="text-align: left;">2.2.</td><td>Entstehungsbrände zu bekämpfen und wasserdichte und feuerhemmende Türen zu bedienen;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">19</td><td style="text-align: left;">2.2.</td><td>dem Schiffsführer, den Fahrgästen und den externen Rettungskräften in einem simulierten Notfall die notwendigen Informationen bereitzustellen;</td><td style="text-align: center;">II</td></tr><tr class="even"><td style="text-align: left;">20</td><td style="text-align: left;">3.1</td><td>einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um Fahrgäste und Bordpersonal in Standardsituationen anzuleiten und in Notfällen zu warnen und anzuleiten;</td><td style="text-align: center;">I</td></tr><tr class="odd"><td style="text-align: left;">21</td><td style="text-align: left;">4.1</td><td>zu erklären, welche Fahrgastrechte gelten;</td><td style="text-align: center;">I</td></tr><tr class="even"><td style="text-align: left;">22</td><td style="text-align: left;">4.1</td><td>die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung für Fahrgäste gemäß der Verordnung (EU) Nr. 1177/2010 umzusetzen.</td><td style="text-align: center;">II</td></tr></tbody></table>
+
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden
+
+Der Ort für die Beurteilung muss mit den für den Nachweis der in Prüfungselement Nr. 2 aufgeführten Befähigung erforderlichen Rettungsmitteln für Fahrgastschiffe ausgestattet sein, einschließlich spezieller Rettungsmittel für Kabinenschiffe gemäß anwendbarem ES-TRIN 2017/1. Er muss mit einer Sicherheitsrolle und einem Sicherheitsplan, die ES-TRIN 2017/1 entsprechen, sowie geeigneten Räumen und Ausrüstungen ausgestattet sein, um die Fähigkeit, eine Evakuierung zu organisieren, und das Brandbekämpfungs- und Reaktionsverhalten im Brandfall zu beurteilen.
+
+Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
+# Anlage 21 – (zu § 53)Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 88 - 90)
+
+ 
+
+ 
+
+1. Verfahren zur Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung
+
+1.1  
+Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
+
+1.2  
+Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nach den nachstehenden Voraussetzungen erfüllt.
+
+1.3  
+Der Lehrgangsanbieter trägt durch Ausstellung der Lehrgangsbescheinigung die Gewähr, dass die Teilnehmenden ausreichende Kenntnisse für sichere Arbeitsabläufe auf Schiffen vermittelt bekommen haben.
+
+1.4  
+Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zu Grunde liegenden Standards eingehalten werden.
+
+2. Antrag auf Zulassung
+
+2.1  
+Der Antrag auf Zulassung ist schriftlich oder elektronisch an die zuständige Behörde zu richten.
+
+2.2  
+War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt sie die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
+
+2.3  
+Antragsberechtigt sind natürliche und juristische Personen.
+
+2.4  
+Dem Antrag sind anzufügen:
+
+a) ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,
+
+b) ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,
+
+c) Informationen über das Lehrmaterial,
+
+d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
+
+e) Teilnahmebedingungen für den Lehrgang,
+
+f) die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der zuständigen Behörde unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+
+3. Prüfung
+
+3.1  
+Die zuständige Behörde und von ihr beauftragte natürliche oder juristische Personen sind jederzeit berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+
+4. Befristung, Widerruf der Zulassung
+
+4.1  
+Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.
+
+4.2  
+Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt wird oder wenn gegen die Pflichten, die sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
+
+4.3  
+Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, in dessen Auftrag und Namen erfolgen.
+
+ 
+
+ 
+
+1. Personelle Voraussetzungen
+
+1.1  
+Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der grundlegenden Sicherheitsausbildung befähigt sind.
+
+1.2  
+Antragstellende Person und Lehrkraft können identisch sein.
+
+1.3  
+Die Befähigung ist gegeben, wenn die Lehrkraft die persönlichen Voraussetzungen erfüllt und durch Vorlage einer Bescheinigung nachweist, dass sie über die nachstehend aufgeführte fachliche Qualifikation verfügt.
+
+1.4  
+Die Lehrkraft hat sich in angemessenen Zeitabständen, die vom gesetzlichen Unfallversicherungsträger für die Qualifikationen vorgegeben werden, fortzubilden. Eine Fortbildung der Lehrkräfte erfolgt beim zuständigen gesetzlichen Unfallversicherungsträger.
+
+1.5  
+Persönliche Voraussetzungen der Lehrkraft:
+
+a) Beherrschung der deutschen Sprache in Wort und Schrift
+
+b) Zuverlässigkeit, nachgewiesen durch ein aktuelles Führungszeugnis
+
+c) Berufserfahrung in der Binnenschifffahrt von mindestens 3 Jahren als Schiffsführer/Schiffsführerin oder Fährführer/Fährführerin oder Berufserfahrung in der Seeschifffahrt von mindestens drei Jahren als Kapitän/Kapitänin
+
+1.6  
+Fachliche Qualifikation der Lehrkraft:
+
+a) Erfolgreiche Teilnahme an einem Lehrgang des gesetzlichen Unfallversicherungsträgers, der die bereichsbezogene Ausbildung bereitstellt und durchführt. Der Lehrgang orientiert sich an Teilen der Rahmenthemen der Ausbildungsstufe III zur Ausbildung der Fachkraft für Arbeitssicherheit in der Binnenschifffahrt, oder
+
+b) Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) mit einer für die Binnenschifffahrt bereichsbezogenen Ausbildung nach § 4 Absatz 6 und 7 der Unfallverhütungsvorschrift 2 der Deutschen Gesetzlichen Unfallversicherung (DGUV Vorschrift 2) vom 1. Januar 2011, in der Fassung vom 1. Februar 2012, veröffentlicht unter https://www.bg-verkehr.de/medien/medienkatalog/unfallverhuetungsvorschriften/dguv-vorschrift-2-bisher-bgv-a2
+
+2. Sachliche Voraussetzungen
+
+2.1  
+Die antragstellende Person hat nachzuweisen, dass der Lehrgang auf einem Wasserfahrzeug, einer schwimmenden Anlage oder einer geeigneten Landanlage durchgeführt wird, so dass insbesondere die praktischen Elemente des Lehrgangs unter realistischen Bedingungen vermittelt werden können.
+
+2.2  
+Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die zuständige Behörde, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
+
+3. Organisatorische Voraussetzungen
+
+3.1  
+Inhalt und Umfang der Lehrgänge
+
+3.1.1  
+Der Unterricht hat sich nach einem Leitfaden des Lehrgangsanbieters zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.
+
+3.1.2  
+Im Einzelnen müssen die im Anhang 2 genannten Lernziele erreicht sowie die dort genannten theoretischen und praktischen Inhalte vermittelt werden. Das geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handlungskompetenz sicherstellt.
+
+3.1.3  
+Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten.
+
+3.1.4  
+Im Leitfaden sind Aussagen zum Gesamtlernziel, der zeitlichen Gestaltung, der Organisation und der Gliederung des Lehrgangs zu treffen.
+
+3.1.5  
+Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes sicher, verantwortungsbewusst und selbstständig auf Weisung eines Vorgesetzten ihre Tätigkeit auf einem Binnenschiff aufzunehmen.
+
+3.2  
+Teilnahmebescheinigung
+
+3.2.1  
+Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.
+
+3.2.2  
+Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben.
+
+3.3  
+Dokumentation
+
+3.3.1  
+Der zugelassene Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnung zu führen:
+
+a) Art des jeweiligen Lehrgangs (praktisch-theoretisch oder praktisch-theoretisch/elektronisch)
+
+b) Ort und Dauer des Lehrgangs
+
+c) Name der Lehrkraft
+
+d) Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden.
+
+3.3.2  
+Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+
+3.4  
+Versicherungsschutz
+
+Die antragstellende Person hat nachzuweisen, dass sie eine Haftpflichtversicherung abgeschlossen hat, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen, abdeckt.
+
+# Anhang 1 zu Anlage 21 – Bescheinigung über die Teilnahme an einer grundlegenden Sicherheitsausbildung in der Binnenschifffahrt
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 91)
+
+ 
+
+Name des Anbieters des zugelassenen Lehrgangs
+
+Kennziffer der Zulassung (JJJJ-XXXXXX-VV)
+
+|                                                                                  |                                                                                  |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| Herr/Frau \[Name\], \[Vorname\]                                                  | geboren am: TT.MM.JJJJ                                                           |
+|                                                                                  |                                                                                  |
+| ................................................................................ | ................................................................................ |
+
+hat an dem XX Unterrichtseinheiten umfassenden Lehrgang
+
+vom TT.MM.JJJJ bis TT.MM.JJJJ
+
+unter der Leitung von ....................................... \[Name, Vorname\] erfolgreich teilgenommen.
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Ort: [.........................................], den TT.MM.JJJJ       </td><td style="text-align: left;">Unterschrift der Lehrkraft</td></tr><tr class="even"><td style="text-align: left;"> ................................................................................</td><td style="text-align: left;"> ................................................................................</td></tr></tbody></table>
+
+ 
+
+ 
+
+# Anhang 2 zu Anlage 21 – Lernziele
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 92 - 93)
+
+ 
+
+Lfd. Nummer
+
+Unterrichts-  
+einheit  
+in Stunden  
+Theorie
+
+Unterrichts-  
+einheit  
+in Stunden  
+Praxis
+
+Lernziele mit Lerninhalten
+
+ 1
+
+2,5
+
+3,5
+
+Verwendung der Rettungsmittel gegen das Ertrinken
+
+ 2
+
+1
+
+1,5
+
+Rettungsmittel an Bord  
+Inhalte: Zusammenfassende Darstellung möglicher Rettungsmittel an Bord und ihrer Funktion
+
+ 3
+
+1,5
+
+ 
+
+Gefahren nach einem Sturz ins Wasser  
+Inhalte: Gefahren der Strömung, der Wassertemperatur und des Schiffsverkehrs beim Überbordgehen; Gefahr der Unterkühlung; Gefahr des Kälteschocks; Probleme bei der Rettung aus dem Wasser; Erste-Hilfe-Maßnahmen bei Unterkühlung
+
+ 4
+
+ 
+
+2
+
+Rettungsweste  
+Inhalte: Aufbau und Funktion der Rettungsweste, Prüfung auf Einsatzbereitschaft; korrektes Anlegen der Rettungsweste
+
+ 5
+
+3
+
+ 
+
+Besondere Arbeitsumgebung
+
+ 6
+
+1
+
+ 
+
+Sicheres Bewegen an Bord  
+Inhalte: Benutzung der Persönlichen Schutzausrüstung wie Fuß-, Hand- und Kopfschutz;  
+Benutzung steiler Treppen/Leitern, Umgang mit den beengten räumlichen Verhältnissen an Bord;  
+Gefahren beim Begehen von Gangborden;  
+Gefahren beim Betreten von abgeschlossenen Bereichen (z. B. Wallgängen);  
+Gefahren sich bewegender Teile (z. B. in Maschinen, Steuerhaus oder Radarantenne)
+
+ 7
+
+1
+
+ 
+
+Umgang mit Notsituationen an Bord  
+Inhalte: Rettungswege an Bord; Umgang mit den beengten Verhältnissen an Bord beim Retten; Verhalten bei personellen Ausfällen: Notmaßnahmen der Schiffsführung; Absetzen von Notrufen und sonstige Kommunikation in Notfällen unter Verwendung der in der Anlage dieser Standards aufgeführten Standardredewendungen auf Englisch
+
+ 8
+
+ 
+
+1
+
+Arbeiten mit Tauen und Drähten  
+Inhalte: Gefahren beim Festmachen und beim Umgang mit Winden, Persönliche Schutzausrüstung: Auswahl des korrekten Schutzhandschuhs
+
+ 9
+
+3
+
+ 
+
+Brandbekämpfung an Bord eines Fahrzeugs
+
+10
+
+1
+
+ 
+
+Einrichtungen zur Brandbekämpfung an Bord  
+Inhalte: Darstellung der Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs und deren Einsatzbereiche
+
+11
+
+ 
+
+2
+
+Umgang mit tragbaren Feuerlöschern  
+Inhalte: Einsatz von Feuerlöschern zur lokalen Brandbekämpfung
+
+12
+
+2
+
+ 
+
+Gefahren an Bord durch Lärm
+
+13
+
+1
+
+ 
+
+Lärmquellen an Bord  
+Inhalte: Darstellung der Lärmquellen und deren Schallpegel an verschiedenen Beispielen
+
+14
+
+0,5
+
+ 
+
+Gehörschädigende Wirkung des Lärms  
+Inhalte: Auswirkungen kurz- und langfristiger Einwirkung des Lärms auf die Gesundheit
+
+15
+
+ 
+
+0,5
+
+Gehörschutz  
+Inhalte: Arten von Gehörschutz; richtiges Anlegen
+
+16
+
+3,5
+
+ 
+
+Gefahrstoffe und Gefahrgut an Bord eines Fahrzeugs
+
+17
+
+1
+
+ 
+
+Gefahrstoffe und Gefahrgut an Bord  
+Inhalte: Überblick über die Gefahrstoffe/Gefahrgüter;  
+Umgang mit Gefahrstoffen (Arbeiten, Lagern, Entsorgen);  
+Laden und Löschen von Gefahrgütern
+
+18
+
+1
+
+ 
+
+Gesundheitsgefahren  
+Inhalte: Mögliche Einwirkungen auf den menschlichen Körper
+
+19
+
+0,5
+
+1
+
+Schutz gegen die Gesundheitsgefahren  
+Inhalte: Was ist zu tun, um sich selbst und anderen Personen zu schützen?  
+Praktische Verwendung der persönlichen Schutzausrüstung: Atemschutz, Hautschutz, Augenschutz
+
+20
+
+3
+
+3
+
+Grundlegende Maßnahmen der Ersten Hilfe  
+Inhalte: Lebenserhaltende Maßnahmen, Wundversorgung, Maßnahmen bei Akuterkrankungen (z. B. Herzinfarkt, Schlaganfall, Schock<span id="FnR.FnA1-f819242_02_08"></span><a href="#FnA1-f819242_02_08" class="FnR">*</a></sup> )
+
+ 
+
+ 
+
+ 
+
+<span id="FnA1-f819242_02_08"></span><a href="#FnR.FnA1-f819242_02_08" class="Footnote">*</a>  
+Kann entfallen, wenn der Lehrgangsanbieter bestätigt, dass die Teilnehmenden seiner Lehrgänge nachweislich stets über eine Bescheinigung über einen Erste-Hilfe-Kurs verfügen. Als Nachweis ist ausreichend ein Pkw-, LKW- , Bus- oder Motorradführerschein.
+
+Verwendung von Standardredewendungen
+
+There is a dangerous situation.
+
+Es besteht eine gefährliche Situation.
+
+The ship is on fire.
+
+Das Schiff brennt.
+
+The ship is aground.
+
+Das Schiff ist auf Grund gelaufen.
+
+The ship has collided.
+
+Das Schiff ist kollidiert.
+
+The ship is flooding.
+
+Das Schiff erleidet Wassereinbruch.
+
+Someone has fallen overboard.
+
+Jemand ist über Bord gegangen.
+
+I need assistance.
+
+Ich benötige Unterstützung.
+
+There is a medical emergency.
+
+Es besteht ein medizinischer Notfall.
+
+# Anlage 22 – (zu § 54)Zulassung von Lehrgängen für Maschinenkundige
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 94 - 95)
+
+ 
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur lässt einen Lehrgang für Maschinenkundige zu, wenn er die nachstehenden Voraussetzungen erfüllt.
+
+1. Sachliche Voraussetzungen
+
+Die Ausbildungsziele, Lerninhalte, Methoden, eingesetzten Medien, Verfahren und Lernmaterialien ermöglichen den Teilnehmenden den Erwerb der nach § 34 Absatz 2 erforderlichen Kenntnisse und sind ordnungsgemäß dokumentiert.
+
+2. Personelle Voraussetzungen
+
+Die Lehrgänge werden von qualifizierten Personen durchgeführt, die über sichere Kenntnisse in den unterrichteten Fächern verfügen.
+
+3. Organisatorische Voraussetzungen
+
+a) Inhalt und Umfang des Lehrgangs
+
+Der Lehrgang darf 40 Unterrichtseinheiten à 45 Minuten nicht unterschreiten. Praktische Übungen sind vorzusehen.
+
+b) Teilnahmebescheinigung
+
+Der Lehrgangsanbieter hat den Teilnehmenden eine Teilnahmebescheinigung auszustellen.
+
+c) Dokumentation
+
+Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen:
+
+(1) Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)
+
+(2) Ort und Dauer des Lehrgangs
+
+(3) Durchgeführte Inhalte des Lehrgangs
+
+(4) Name der Lehrkraft
+
+(5) Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden.
+
+Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+
+1. Antrag auf Zulassung
+
+Der Antrag auf Zulassung des Lehrgangs ist schriftlich oder elektronisch beim Bundesministerium für Verkehr und digitale Infrastruktur zu stellen. Der Antrag auf Zulassung muss Folgendes enthalten:
+
+a) einen ausführlichen Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode;
+
+b) ein Verzeichnis des Lehrpersonals, einschließlich des Nachweises ihrer Fachkenntnisse und der Angabe der jeweiligen Unterrichtsfächer;
+
+c) Informationen über den Standort der Ausbildung und über das Lehrmaterial sowie Angabe der Einrichtungen, die für die Übungen zur Verfügung stehen;
+
+d) die Teilnahmebedingungen für die Ausbildung, insbesondere die Anzahl der Teilnehmenden;
+
+e) die Erklärung, dass die Ausbildungsstätte sich dazu verpflichtet, das Bundesministerium für Verkehr und digitale Infrastruktur unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen zu informieren, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+
+2. Befristung, Widerruf der Zulassung
+
+a) Die Zulassung wird befristet auf fünf Jahre erteilt. Die Zulassung wird auf Antrag jeweils um fünf Jahre verlängert, wenn die antragstellende Person nachweist, dass die unter II. genannten Voraussetzungen weiterhin vorliegen.
+
+b) Erfüllt ein Lehrgang die unter II. genannten Voraussetzungen nicht mehr, so kann das Bundesministerium für Verkehr und digitale Infrastruktur die Zulassung unverzüglich widerrufen oder aussetzen. Ab dem Zeitpunkt des Widerrufes oder der Aussetzung ausgestellte Zeugnisse dürfen von den Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines Befähigungszeugnisses berücksichtigt werden.
+
+c) Das Verzeichnis der zugelassenen Lehrgänge wird vom Bundesministerium für Verkehr und digitale Infrastruktur im Internet veröffentlicht.
+
+# Anlage 23 – (zu § 58)Zulassung von Lehrgängen für atemschutzgerättragende Personen
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 96 - 98)
+
+ 
+
+ 
+
+1. Verfahren zur Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt
+
+1.1  
+Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
+
+1.2  
+Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
+
+1.3  
+Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert.
+
+1.4  
+Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zugrundeliegenden Standards eingehalten werden.
+
+2. Antrag auf Zulassung
+
+2.1  
+Der Antrag auf Zulassung in schriftlich oder elektronisch an die zuständige Behörde zu richten.
+
+2.2  
+War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
+
+2.3  
+Antragsberechtigt sind natürliche und juristische Personen.
+
+2.4  
+Dem Antrag sind anzufügen:
+
+a) ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,
+
+b) ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,
+
+c) Informationen über das Lehrmaterial,
+
+d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
+
+e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die zuständige Behörde unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+
+3. Prüfung
+
+Die zuständige Behörde und von ihr beauftragte natürliche oder juristische Personen sind jederzeit berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+
+4. Befristung, Widerruf der Zulassung
+
+4.1  
+Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
+
+4.2  
+Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
+
+4.3  
+Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, im Auftrag und Namen erfolgen.
+
+ 
+
+ 
+
+1. Personelle Voraussetzungen
+
+1.1  
+Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der Ausbildung von atemschutzgerättragenden Personen befähigt sind.
+
+1.2  
+Antragstellende Person und Lehrkraft können identisch sein.
+
+1.3  
+Die Befähigung der Lehrkraft ist gegeben, wenn die Lehrkraft durch Vorlage einer Bescheinigung nachweist, dass sie an einer qualifizierenden Ausbildung durch Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten teilgenommen hat.
+
+1.4  
+Die Lehrkraft hat sich in angemessenen Zeitabständen (mindestens alle 5 Jahre) fortzubilden. Dafür geeignet sind Qualifizierungen an Ausbildungsstätten der Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten.
+
+1.5  
+Damit sichergestellt ist, dass bei Unfällen während des Lehrgangs sofort Erste Hilfe geleistet werden kann, hat der Lehrgangsanbieter mindestens einen ausgebildeten Ersthelfer vorzuhalten.
+
+2. Sachliche Voraussetzungen
+
+Die antragstellende Person hat nachzuweisen, dass sie
+
+2.1  
+die in Anhang 2 genannten praktischen Übungen unter realen Bedingungen durchführen kann,
+
+2.2  
+ausreichend Atemschutzgeräte für die praktischen Übungen zur Verfügung stellen kann,
+
+2.3  
+die eingesetzten Atemschutzgeräte reinigen, desinfizieren, warten und ggf. reparieren kann,
+
+2.4  
+über geeignete Räumlichkeiten inkl. Medientechnik zur Durchführung des theoretischen Unterrichts verfügt.
+
+3. Organisatorische Voraussetzungen
+
+3.1  
+Inhalt und Umfang eines Lehrgangs
+
+3.1.1  
+Der Unterricht hat sich nach Anhang 2 zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.
+
+3.1.2  
+Die Teilnehmenden der Erstausbildung des Grundlehrgangs dürfen nicht in einen Wiederholungslehrgang integriert werden.
+
+3.1.3  
+Im Einzelnen müssen die im Anhang 2 genannten theoretischen und praktischen Inhalte vermittelt werden. Dies geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handhabung und Bedienung des Atemschutzgerätes sicherstellt. Tätigkeitsbezogene Belastungsübungen sollen die atemschutzgerätetragende Person in ähnlicher Stärke beanspruchen, wie die unter Atemschutz durchzuführende Tätigkeit.
+
+3.1.4  
+Der Grundlehrgang darf 12 Unterrichtseinheiten, wobei eine Unterrichtseinheit 45 Minuten dauert, nicht unterschreiten.
+
+3.1.5  
+Wiederholungslehrgänge können um die erforderlichen Themenschwerpunkte entsprechend gekürzt werden, umfassen aber mindestens 4 Unterrichtseinheiten.
+
+3.1.6  
+Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes Personen auf einem Kabinenschiff im Brandfalle unter Verwendung von Atemschutzgeräten zu retten.
+
+3.2  
+Teilnahmebescheinigung
+
+3.2.1  
+Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.
+
+3.2.2  
+Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben.
+
+3.3  
+Dokumentation
+
+3.3.1  
+Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen:
+
+3.3.1.1  
+Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)
+
+3.3.1.2  
+Ort und Dauer des Lehrgangs
+
+3.3.1.3  
+Durchgeführte Inhalte des Lehrgangs
+
+3.3.1.4  
+Name der Lehrkraft
+
+3.3.1.5  
+Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden
+
+3.3.1.6  
+Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+
+3.4  
+Versicherungsschutz
+
+Die antragstellende Person hat nachzuweisen, dass eine Haftpflichtversicherung abgeschlossen wurde, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen können, abdeckt.
+
+# Anhang 1 zu Anlage 23 – Bescheinigung über die Teilnahme an einem Grundlehrgang/Wiederholungslehrgang für atemschutzgerättragende Personen in der Binnenschifffahrt*
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 99)
+
+ 
+
+Name des Anbieters des zugelassenen Lehrgangs
+
+Kennziffer der Zulassung (JJJJ-XXXXXX-VV)
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Herr/Frau [Name], [Vorname]</td><td style="text-align: left;">geboren am: TT.MM.JJJJ</td></tr><tr class="even"><td style="text-align: left;"> ................................................................................</td><td style="text-align: left;"> ................................................................................</td></tr></tbody></table>
+
+  
+  
+
+hat an dem XX\* Unterrichtseinheiten umfassenden o. g. Lehrgang
+
+vom TT.MM.JJJJ bis TT.MM.JJJJ/am TT.MM.JJJJ
+
+unter der Leitung von ....................................... \[Name, Vorname\] erfolgreich teilgenommen.
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Ort: [.......................................], den TT.MM.JJJJ       </td><td style="text-align: left;">Unterschrift der Lehrkraft</td></tr><tr class="even"><td style="text-align: left;"> ................................................................................</td><td style="text-align: left;"> ................................................................................</td></tr></tbody></table>
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Anhang 2 zu Anlage 23
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 100)
+
+ 
+
+1. Eine atemschutzgerättragende Person ist, wer zum Schutz seiner Gesundheit in einer schadstoffhaltigen oder sauerstoffarmen Atmosphäre ein Atemschutzgerät einsetzt.
+
+2. Für die sichere Benutzung von Atemschutzgeräten sind umfangreiches Wissen und spezifische Kenntnisse in Theorie und Praxis notwendig.
+
+3. Hierfür müssen grundsätzlich die folgenden theoretischen Inhalte vermittelt werden:
+
+3.1  
+Grundlehrgang
+
+3.1.1  
+Theoretische Inhalte
+
+3.1.1.1  
+Zweck des Atemschutzes,
+
+3.1.1.2  
+Regelwerke für den Atemschutz, Informationsbroschüre,
+
+3.1.1.3  
+(Gebrauchsanleitung) des Herstellers,
+
+3.1.1.4  
+Aufbau und Organisation des betrieblichen Atemschutzwesens,
+
+3.1.1.5  
+betrieblicher Alarmplan,
+
+3.1.1.6  
+Zusammensetzung, Einwirkung und Folgen der in Betracht kommenden Schadstoffe,
+
+3.1.1.7  
+Folgen von Sauerstoffmangel auf den menschlichen Organismus,
+
+3.1.1.8  
+Atmung des Menschen,
+
+3.1.1.9  
+physiologische Gesichtspunkte, Belastung durch Atemschutzgeräte, insbesondere bei Kombination mit Schutzanzügen,
+
+3.1.1.10  
+Einteilung, Aufbau, Wirkungsweise und Prüfung der Atemschutzgeräte,
+
+3.1.1.11  
+Grenzen der Schutzwirkung und Benutzungsdauer (Tragezeitbegrenzung),
+
+3.1.1.12  
+Anlegen der Atemschutzgeräte und Schutzanzüge,
+
+3.1.1.13  
+Verhalten unter Atemschutz bei Übung, Einsatz und Flucht,
+
+3.1.1.14  
+Maßnahmen zur Sicherung von Gerätträgern,
+
+3.1.1.15  
+Instandhaltung (z.B. Kontrolle, Prüfung, Wartung, Reparatur, Reinigung),
+
+3.1.1.16  
+Entsorgung.
+
+3.1.2  
+Praktische Übungen
+
+Nach Abschluss der theoretischen Unterweisung haben praktische Übungen zu erfolgen. Sie müssen folgendes enthalten:
+
+3.1.2.1  
+Anlegen des Gerätes und die Kontrolle
+
+3.1.2.2  
+Prüfung des Dichtsitzes des Atemanschlusses
+
+3.1.2.3  
+Prüfung der Einsatzbereitschaft des Gerätes
+
+3.1.2.4  
+Arbeiten mit angelegtem Atemschutzgerät zur Gewöhnung (falls keine Atemschutzübungsanlage zur Verfügung steht, sind Trageübungen unter Berücksichtigung der zu erwartenden Einsatzbedingungen durchzuführen.)
+
+3.2  
+Wiederholungslehrgang:
+
+Der Wiederholungslehrgang besteht aus den praktischen Übungen des Grundlehrgangs, während derer die theoretischen Inhalte parallel vermittelt werden.
+
+# Anlage 24 – (zu § 78 Absatz 3 Nummer 2)Muster Fährschifferzeugnis
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 101)
+
+ 
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0010.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0020.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
+
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
+
+6. Seriennummer des Zeugnisses
+
+7. Ausstellungsdatum des Zeugnisses
+
+8. Ablaufdatum
+
+9. Bezeichnung der ausstellenden Behörde
+
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
+
+12. Angabe, für welche(n) Fährtyp(en) das Zeugnis gilt: seil- oder kettengebunden; frei fahrend; seil- oder kettengebunden und frei fahrend
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 25 – (zu § 78 Absatz 3 Nummer 3)Muster Behördenschifferzeugnis
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 102)
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0030.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0040.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
+
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
+
+6. Seriennummer des Zeugnisses
+
+7. Ausstellungsdatum des Zeugnisses
+
+8. Ablaufdatum
+
+9. Bezeichnung der ausstellenden Behörde
+
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 26 – (zu § 78 Absatz 3 Nummer 4)Muster Sportschifferzeugnis
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 103)
+
+ 
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0050.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0060.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
+
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
+
+6. Seriennummer des Zeugnisses
+
+7. Ausstellungsdatum des Zeugnisses
+
+8. Ablaufdatum
+
+9. Bezeichnung der ausstellenden Behörde
+
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 27 – (zu § 78 Absatz 3 Nummer 5)Kleinschifferzeugnis
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 104)
+
+ 
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0070.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0080.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
+
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
+
+6. Seriennummer des Zeugnisses
+
+7. Ausstellungsdatum des Zeugnisses
+
+8. Ablaufdatum
+
+9. Bezeichnung der ausstellenden Behörde
+
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
+
+12. Hinweise, für welche(n) Fahrzeugtyp(en) das Zeugnis gilt, oder sonstige Anmerkungen
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 28 – (zu § 79 Absatz 4 Nummer 1)Muster für die besondere Berechtigung als gesonderte Karte bei amtlichem Berechtigungsschein
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 105)
+
+ 
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0090.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0100.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Ausstellungsdatum des amtlichen Berechtigungsscheines
+
+5. ggf. Ablaufdatum des amtlichen Berechtigungsscheines, sofern vorhanden
+
+6. Bezeichnung der ausstellenden Behörde des amtlichen Berechtigungsscheines
+
+7. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+8. Bezeichnung der ausstellenden Behörde der besonderen Berechtigung
+
+9. Ausstellungsdatum der besonderen Berechtigung
+
+10. lfd. Nummer der besonderen Berechtigung
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 29 – (zu § 79 Absatz 4 Nummer 2)Muster für besondere Berechtigung für Radar als gesonderte Karte bei Sportbootführerscheinen
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 106)
+
+ 
+
+(Vorderseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0110.jpg)
+
+(Rückseite)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4982-1_0120.jpg)
+
+Anweisungen:
+
+1. Aktuelle(r) Name(n) des Inhabers
+
+2. Aktuelle(r) Vorname des Inhabers
+
+Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen.
+
+Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
+
+3a. Geburtsdatum (TT/MM/JJJJ)
+
+3b. Geburtsort (Stadt)
+
+4. Ausstellungsdatum des Sportbootführerscheins
+
+5. ggf. Ablaufdatum des Sportbootführerscheines, sofern vorhanden
+
+6. Ausstellender Verband (ausgeschrieben)
+
+7. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
+
+8. Bezeichnung der ausstellenden Behörde der besonderen Berechtigung
+
+9. Ausstellungsdatum der besonderen Berechtigung
+
+10. lfd. Nummer der besonderen Berechtigung
+
+Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
+
+# Anlage 30 – (zu § 89)Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 107 - 120)
+
+ 
+
+Nr.
+
+Gegenstand
+
+Qualitätsniveau der  
+technischen Anforderungen
+
+Testverfahren
+
+Fahr-  
+simu-  
+lator
+
+Radar-  
+simu-  
+lator
+
+ 1.
+
+Navigationsradaranlage für die Binnenschifffahrt
+
+Am Simulator muss mindestens eine Navigationsradaranlage für die Binnenschifffahrt mit denselben Funktionalitäten wie eine typgenehmigte Navigationsradaranlage für die Binnenschifffahrt gemäß ES-TRIN installiert sein.
+
+Es muss überprüft werden, ob die Anlage über dieselben Funktionalitäten wie eine typgenehmigte Navigationsradaranlage für die Binnenschifffahrt verfügt.
+
+x
+
+x
+
+ 2.
+
+Kommunikationsanlage
+
+Der Simulator muss mit einer Kommunikationsanlage ausgestattet sein, bestehend aus
+
+–  
+einer internen Wechselsprechanlage und
+
+–  
+zwei unabhängigen UKW-Funkverkehrssystemen für Binnengewässer.
+
+Es muss überprüft werden, ob der Simulator mit einer Kommunikationsanlage ausgestattet ist.
+
+x
+
+x
+
+ 3.
+
+Inland ECDIS
+
+Am Simulator muss mindestens ein Inland ECDIS installiert sein.
+
+Es muss überprüft werden, ob die Anlage über dieselben Funktionalitäten wie ein Inland ECDIS verfügt.
+
+x
+
+ 
+
+ 4.
+
+Übungsgebiet
+
+Das Übungsgebiet enthält mindestens einen repräsentativen Fluss mit Seitenarmen oder Kanälen und Häfen.
+
+Sichtkontrolle des Gebiets
+
+x
+
+x
+
+ 5.
+
+Schallsignale
+
+Schallsignale können durch Fußpedale oder Tasten abgegeben werden.
+
+Es muss überprüft werden, ob die Fußpedale oder Tasten ordnungsgemäß funktionieren.
+
+x
+
+x
+
+ 6.
+
+Nachtzeit-Navigationslichtertafel
+
+Die Nachtzeit-Navigationslichtertafel wird am Simulator installiert.
+
+Es muss überprüft werden, ob die Nachtzeit-Navigationslichtertafel ordnungsgemäß funktioniert.
+
+x
+
+x
+
+ 7.
+
+Mathematische Modelle für das Fahrzeug
+
+Mindestens drei mathematische Modelle für repräsentative Fahrzeugtypen mit verschiedenen Antriebsmodellen und Ladebedingungen, insbesondere ein kleines Fahrzeug (z. B. ein Schleppboot), ein mittelgroßes Fahrzeug (z. B. 86 m Länge) und ein großes Fahrzeug (z. B. 110 m oder 135 m Länge).
+
+Es muss überprüft werden, ob die drei obligatorischen Modelle vorhanden sind.
+
+x
+
+ 
+
+ 8.
+
+Mathematische Modelle für das Fahrzeug
+
+Mindestens ein mathematisches Modell für einen repräsentativen Fahrzeugtyp (z. B. 86 m Länge).
+
+Es muss überprüft werden, ob das obligatorische Modell vorhanden ist.
+
+ 
+
+x
+
+ 9.
+
+Anzahl verfügbarer Zielfahrzeuge<span id="FnR.FnA1-f819242_02_10"></span><a href="#FnA1-f819242_02_10" class="FnR">*</a></sup>
+
+Der Simulator muss Zielfahrzeuge von mindestens 5 Klassen der CEMT (Conférence européenne des ministres des transports) umfassen.
+
+Es muss überprüft werden, ob die erforderliche Anzahl und Vielfalt an Zielfahrzeugen verfügbar ist.
+
+x
+
+x
+
+10\.
+
+Arbeitsplatz des Bedieners
+
+Der Bediener muss in der Lage sein, auf allen UKW-Kanälen zu kommunizieren. Der Bediener muss in der Lage sein, die Nutzung der Kanäle zu überwachen.
+
+Es muss überprüft werden, ob der Bediener auf allen UKW-Kanälen kommunizieren und die Nutzung aller Kanäle überwachen kann.
+
+x
+
+x
+
+11\.
+
+Verschiedene Übungen
+
+Es muss die Möglichkeit bestehen, verschiedene Übungen zu erstellen, zu speichern und durchzuführen, die während der Durchführung veränderbar sind.
+
+Es sind verschiedene Operationen durchzuführen.
+
+x
+
+x
+
+12\.
+
+Trennbare Übungen
+
+Bei der Prüfung von mehr als einem Bewerber dürfen die Übungen eines Bewerbers die Prüfung eines anderen Bewerbers nicht beeinträchtigen.
+
+Die Übung ist für jeden Bewerber wiederzugeben.
+
+x
+
+x
+
+13\.
+
+Brückenfunktionen und -gestaltung des Fahrzeugs
+
+Der Steuerhausbereich muss als Radareinmannsteuerstand gemäß ES-TRIN 2017/1 gestaltet sein.
+
+Es muss überprüft werden, ob die Brückengestaltung und die Ausstattungsfunktionen den geltenden technischen Vorschriften für Binnenschiffe entsprechen. Es muss überprüft werden, ob das Steuerhaus für Einmannsteuerung ausgelegt ist.
+
+x
+
+x
+
+14\.
+
+Steuerstände (Brücke/  
+Kabine)
+
+Die Steuerstände ähneln in Form und Größe denen auf Fahrzeugen auf Binnenwasserstraßen.
+
+Sichtprüfung
+
+x
+
+x
+
+15\.
+
+Arbeitsplatz des Bedieners
+
+1. Es muss ein separater Raum vorhanden sein, in dem Bediener und Prüfer Platz nehmen können und in dem der Prüfer das Radarbild des Bewerbers sehen kann.
+
+2. Steuerhaus und Bedienplatz müssen voneinander getrennt sein. Sie müssen so schalldicht wie möglich sein.
+
+3. Der Bediener muss in der Lage sein, mindestens zwei UKW-Kanäle gleichzeitig zu bedienen.
+
+4. Der Bediener muss klar erkennen können, welchen Funkkanal der Bewerber nutzt.
+
+Sichtprüfung des Arbeitsplatzes des Bedieners und Funktionalitätsprüfung
+
+x
+
+x
+
+16\.
+
+Briefing-/  
+Debriefing-  
+Arbeitsplatz
+
+Möglichkeit zur Wiedergabe am Arbeitsplatz des Bedieners oder an einem Debriefing-Arbeitsplatz.
+
+Beurteilungstätigkeiten müssen überwacht werden.
+
+x
+
+x
+
+Eigenes Fahrzeug<span id="FnR.FnA1-f819242_02_11"></span><a href="#FnA1-f819242_02_11" class="FnR">**</a></sup>
+
+17\.
+
+Freiheitsgrade
+
+Der Simulator muss die Bewegung in sechs Freiheitsgraden visualisieren können.
+
+Die am Simulator realisierten Freiheitsgrade können durch Überwachung des Sichtsystems oder durch Instrumente beurteilt werden. Folgende Manöver werden daher mit kleinen Fahrzeugen durchgeführt, die sich in der Regel charakteristischer und schneller bewegen als größere Fahrzeuge.
+
+–  
+Wenn der Horizont beim Blick nach vorne während der Navigation in Kurven schwingt, wird die Rollbewegung ausgeführt.
+
+–  
+Wenn der Bug des Fahrzeugs mit starken Längsbeschleunigungen hebt und senkt, wird die Stampfbewegung ausgeführt.
+
+–  
+Wenn sich die Echolotanzeige bei höheren Geschwindigkeiten und konstanter Wassertiefe ändert, wird die Tauchbewegung ausgeführt. Dieser Test setzt die Modellierung des Squat-Effekts voraus.
+
+x
+
+ 
+
+18\.
+
+Freiheitsgrade
+
+Der Simulator muss die Bewegung in drei Freiheitsgraden visualisieren können.
+
+Die am Simulator realisierten Freiheitsgrade müssen beurteilt werden.
+
+ 
+
+x
+
+19\.
+
+Antriebssystem
+
+Die Simulation aller Komponenten wird realitätsnah ausgeführt und berücksichtigt alle relevanten Einflüsse.
+
+Das Antriebssystem muss durch Beschleunigungs- und Stoppmanöver getestet werden, bei denen die Leistung des Motors (bezüglich der Reaktion auf den Gashebel) und des Fahrzeugs (bezüglich der maximalen Geschwindigkeit und des Zeitverhaltens) beobachtet werden kann.
+
+x
+
+x
+
+20\.
+
+Steuergeräte
+
+Das Steuergerät verhält sich in Bezug auf die Wendegeschwindigkeit des Ruders realitätsgetreu und berücksichtigt die wichtigsten Einflüsse.
+
+Die Qualität der Simulation der Steuergeräte kann durch verschiedene Untersuchungen getestet werden. Einschränkungen sind gegeben, wenn das Verhalten nicht ohne Zustandsvariablenprotokolle bewertet werden kann.
+
+–  
+Reaktion: Das Steuergerät wird in der Vorwärts- und Rückwärtsbewegung eingesetzt. Dabei wird beobachtet, ob Richtungsänderungen des Fahrzeugs ausgelöst werden.
+
+–  
+Wendegeschwindigkeit des Ruders: Das Steuergerät wird eingesetzt und die Wendegeschwindigkeit auf dem Display beobachtet. Es kann gemessen werden, ob die Wendegeschwindigkeit realistisch ist.
+
+x
+
+x
+
+21\.
+
+Flachwassereffekte
+
+Der Effekt einer begrenzten Wassertiefe auf den Energiebedarf und das Manövrierverhalten ist hinsichtlich der Qualität korrekt modelliert.
+
+Es werden zwei Arten von Tests vorgeschlagen, anhand deren die Qualität hinsichtlich der Berücksichtigung des Flachwassereinflusses beurteilt werden kann:  
+Geradeausfahrt: Bei verschiedenen Wassertiefen wird die erreichte Höchstgeschwindigkeit gemessen, mit der Geschwindigkeit bei tiefem Wasser standardisiert und gegen den Parameter Tiefgang zu Wassertiefe (T/h) aufgetragen. Der Vergleich mit vorhandenen Daten aus Modellversuchen gibt Aufschluss über die Qualität des Flachwassereinflusses in der Simulation.
+
+x
+
+ 
+
+ 
+
+ 
+
+ 
+
+Drehkreis: Bei Betrieb eines Fahrzeugs mit konstanter Leistung und einem Ruderwinkel von 20 ° auf seitlich unbegrenztem Wasser können die Werte von Geschwindigkeit, Driftwinkel, Wendegeschwindigkeit und Drehkreisdurchmesser eines stationär wendenden Fahrzeugs bei schrittweise reduzierter Wassertiefe erfasst werden. Durch Auftragen dieser Daten gegen T/h kann festgestellt werden, wie sich Driftwinkel, Wendegeschwindigkeit, Geschwindigkeit und Durchmesser mit der Wassertiefe ändern.
+
+ 
+
+ 
+
+22\.
+
+Einfluss der Strömung
+
+Im Fahrzeug gibt es mindestens zwei Messpunkte für die Strömungsmessung, sodass das aktuelle Giermoment berechnet werden kann.
+
+Es sind Tests geplant, um zu prüfen, ob das Leistungsmerkmal vorhanden ist und wie es in der Simulation eingesetzt wird.
+
+–  
+Ein eigenes Fahrzeug ohne Antrieb wird in einen Fluss mit vorhandener Strömung gesetzt. Es wird beobachtet, ob das Fahrzeug von der Strömung erfasst wird. Außerdem wird geprüft, ob es auf die Strömungsgeschwindigkeit beschleunigt wird. Folgt die Strömung der Flussrichtung, wird weiter geprüft, ob sich das Fahrzeug leicht dreht.
+
+–  
+Ein Test mit der Hafeneinfahrt eines Flusses mit Strömung zeigt, inwieweit der Simulator das durch die nichthomogene Strömung verursachte Giermoment realistisch berechnet.
+
+x
+
+x
+
+23\.
+
+Einfluss von Wind
+
+Der Einfluss des Windes erzeugt Kräfte in der horizontalen Ebene entsprechend der tatsächlichen Windgeschwindigkeit und -richtung. Der Wind erzeugt zudem Gier- und Rollbewegungen.
+
+Um das Qualitätsniveau des Windeinflusses zu überprüfen, können verschiedene Tests durchgeführt werden. Um diese Effekte einfach feststellen zu können, müssen relativ hohe Windgeschwindigkeiten gewählt werden. Der Test ist wie folgt auszuführen: Führen sie einen Test für Gegen- und Seitenwind bei zwei verschiedenen Windgeschwindigkeiten in einem Bereich durch, der nur unter dem Einfluss von Wind steht. Starten Sie den Wind und beobachten Sie das Verhalten. Stoppen Sie den Wind und beobachten Sie erneut das Verhalten. Beginnen Sie mit einem nicht bewegten Fahrzeug.
+
+x
+
+ 
+
+24\.
+
+Wandeffekt
+
+Seitenkraft und Giermoment können sich mit Uferabstand und Geschwindigkeit entsprechend ändern.
+
+Zur Überprüfung des Wandeffekts am Simulator ist ein Übungsgelände erforderlich, das eine einseitige Böschung oder Mauer aufweist. Folgende Tests müssen durchgeführt werden:
+
+–  
+Das Fahrzeug fährt parallel zur Mauer. Es wird geprüft, ob die geradlinige Bewegung beeinflusst wird und ob das Fahrzeug von der Mauer angezogen wird und der Bug sich von ihr abwendet.
+
+–  
+Der Abstand zum Ufer bzw. zur Mauer und die Geschwindigkeit des Fahrzeugs werden variiert, um die Änderung der Effekte zu beobachten.
+
+x
+
+ 
+
+25\.
+
+Wechselwirkung von Fahrzeug zu Fahrzeug
+
+Die Fahrzeuge beeinflussen einander und es werden realistische Effekte berechnet.
+
+Zur vollständigen Überprüfung der Wechselwirkung von Fahrzeug zu Fahrzeug wird am Simulator eine Übung mit zwei eigenen Fahrzeugen auf seitlich unbegrenztem Wasser gestartet. Ist dies nicht möglich, kann der Test auch mit einem Verkehrsfahrzeug als dem anderen Fahrzeug durchgeführt werden. Für eine gute Beurteilung der Ergebnisse starten die Fahrzeuge in parallelen Läufen in relativ geringem seitlichem Abstand.
+
+–  
+Sowohl beim Überholen als auch beim Begegnen wird geprüft, inwieweit das eigene Fahrzeug Anziehung und Rotation zeigt.
+
+–  
+Die Wassertiefe ist reduziert. Es wird geprüft, ob die Wechselwirkungseffekte zunehmen.
+
+–  
+Der Abstand zwischen den Fahrzeugen wird erhöht, um festzustellen, ob die Effekte abnehmen.
+
+–  
+Die Geschwindigkeit des anderen Fahrzeugs wird erhöht. Der funktionelle Zusammenhang zwischen dem Effekt der Vorbeifahrt eines Fahrzeugs und der Begegnungsgeschwindigkeit wird geprüft.
+
+x
+
+ 
+
+26\.
+
+Squat
+
+Sowohl die dynamische Tauchung als auch die dynamische Trimmung werden abhängig von Geschwindigkeit, Wassertiefe und Einsenkung modelliert.
+
+Diese Funktionalität wird am besten in einem Bereich mit seitlich unbegrenztem Wasser und konstanter Wassertiefe getestet.
+
+–  
+Ein Probelauf muss zeigen, ob die Funktionalität „Squat“ mit Echoloten überprüft werden kann.
+
+–  
+Unterschiedliche Werte für die Unterkielfreiheit an Bug und Heck zeigen an, ob das Fahrzeug trimmt.
+
+–  
+Mit zunehmender Geschwindigkeit wird der funktionelle Zusammenhang zwischen Squat (Differenz zwischen Unterkielfreiheit bei Stillstand und Bewegung) und Fahrgeschwindigkeit überprüft.
+
+–  
+Es wird geprüft, ob der Squat bei konstanter Geschwindigkeit, aber abnehmender Wassertiefe zunimmt.
+
+x
+
+ 
+
+27\.
+
+Kanaleffekt
+
+Berücksichtigung der korrekten Rückströmung. Die Rückströmung ist nicht linear zur Fahrzeuggeschwindigkeit.
+
+Die Rückströmung ist ein physikalischer Effekt, der im Simulator als eine auf das Fahrzeug ausgeübte Widerstandskraft eingebracht wird. Um dies zu testen, wird ein Fahrzeug in einen engen Kanal gesetzt, das Fahrzeug läuft stabil mit konstanter Leistung. Anschließend wird die Geschwindigkeit gemessen. Die Leistung wird erhöht und die Geschwindigkeit gemessen. Der Test wird in offenem Wasser mit gleicher konstanter Leistung (zwei Stufen) wiederholt. Der zu beobachtende Effekt:
+
+–  
+Die Geschwindigkeit im engen Kanal ist geringer als in offenen Gewässern bei gleicher Leistungseinstellung.
+
+–  
+Bei einer höheren Leistungseinstellung ist der Geschwindigkeitsunterschied größer als bei einer niedrigeren Leistungseinstellung.
+
+x
+
+ 
+
+28\.
+
+Schleuseneffekt
+
+In einer Schleuse erfährt das Fahrzeug dieselben Effekte wie in einem Kanal. Die Schleuse erzeugt einen zusätzlichen Effekt durch eine vom Fahrzeug verursachte Verdrängungsströmung mit einem großen Blockierungsfaktor beim Einfahren in die Schleuse (Kolbeneffekt).
+
+Der Test für den Kanaleffekt zeigt die Rückströmung. Dieser Test muss nicht wiederholt werden. Der Kolbeneffekt kann wie folgt nachgewiesen werden:
+
+–  
+Bringen Sie das Fahrzeug mit relativ hoher Geschwindigkeit in die Schleuse. Das Fahrzeug erfährt nach dem Einfahren in die Schleuse zusätzlichen Widerstand (Verlangsamung). Wenn der Antrieb gestoppt ist, sind die Rückwärtskräfte noch vorhanden und das Fahrzeug fährt leicht rückwärts.
+
+–  
+Starten Sie in der Schleuse, stellen Sie den Antrieb fest ein. Das Fahrzeug verlässt die Schleuse und erfährt durch den Kolbeneffekt eine Widerstandskraft. Nach Verlassen der Schleuse (das Fahrzeug befindet sich außerhalb der Schleuse) hört die Widerstandskraft auf, was durch einen beobachtbaren plötzlichen Geschwindigkeitsanstieg angezeigt wird.
+
+x
+
+ 
+
+29\.
+
+Grundberührungen
+
+Grundberührungen verlangsamen das Fahrzeug, sie können akustisch wahrgenommen werden, führen jedoch nicht in jedem Fall zum Anhalten des Fahrzeugs. Grundberührungen werden dem Bediener gemeldet.
+
+Zur Überprüfung der Grundberührungen ist ein Übungsgelände mit ebenem sowie sanft ansteigendem Boden erforderlich. Dabei geht es um die Existenz geeigneter Tiefeninformationen im Simulator selbst und nicht um die Darstellung im Sichtsystem. Bei Aufgrundlaufen an einem Strand muss geprüft werden, ob das Fahrzeug tatsächlich stoppt, und wenn ja, ob es abrupt stoppt oder sich verlangsamt. Während des Aufgrundlaufens muss die Änderung der horizontalen Ebene des Fahrzeugs mit dem Sichtsystem überprüft werden. Bei extremen Flachwasserfahrten über einen flachen Boden muss geprüft werden, ob das Fahrzeug bei kontinuierlicher Geschwindigkeitssteigerung den Grund wegen des Squats berührt. Bei allen Grundberührungen ist zu prüfen, ob dieser Vorfall von einem Geräusch begleitet wird.
+
+x
+
+ 
+
+30\.
+
+Grundberührungen, Kollision Fahrzeug-Ufer, Kollision Fahrzeug-Fahrzeug, Kollision Fahrzeug-Brücke
+
+Grundberührungen und Kollisionen Fahrzeug-Ufer, Fahrzeug-Fahrzeug oder Fahrzeug-Brücke werden dem Bewerber und dem Bediener mitgeteilt.
+
+Sichtprüfung
+
+ 
+
+x
+
+31\.
+
+Kollision Fahrzeug-Ufer
+
+Kollisionen Fahrzeug-Ufer werden in der Simulation zumindest durch ein Geräusch signalisiert. Die Simulation verlangsamt das Fahrzeug. Die Berechnung der Kollision erfolgt anhand eines zweidimensionalen Fahrzeugmodells.
+
+Die Simulation der Kollision Fahrzeug-Ufer kann nur für Übungsbereiche mit unterschiedlichen Objekten am Ufer getestet werden. Durch das Fahren gegen verschiedene Objekte kann getestet werden, ob der Simulator diese erkennen und darauf reagieren kann. Für verschiedene Objekte wird geprüft, ob es bestimmte Typen gibt, bei denen keine Kollisionsreaktion auftritt. Das Geräusch für die Kollision kann, falls vorhanden, mit dem Audiosystem des Simulators getestet werden.
+
+x
+
+ 
+
+ 
+
+ 
+
+ 
+
+Die Beobachtung der Kollision im Sichtsystem zeigt, ob die Kollision abrupt erfolgt oder ob eine Knautschzone simuliert wird. Eine Kollision mit einem flachen Winkel bei niedriger Geschwindigkeit kann zeigen, ob ein elastischer Stoß berechnet wird.
+
+ 
+
+ 
+
+32\.
+
+Kollision Fahrzeug-Fahrzeug
+
+Kollisionen Fahrzeug-Fahrzeug werden in der Simulation zumindest durch ein Geräusch signalisiert. Die Simulation verlangsamt das Fahrzeug. Die Berechnung der Kollision erfolgt anhand eines zweidimensionalen Fahrzeugmodells.
+
+Unter der Voraussetzung, dass es für das eigene Fahrzeug keinen Unterschied macht, ob das andere Fahrzeug, mit dem es kollidiert, ein anderes eigenes Fahrzeug oder ein Verkehrsfahrzeug ist, können verschiedene Kollisionen durchgeführt werden. Es wird überprüft, welche Reaktion am Simulator bei einer Kollision Fahrzeug-Fahrzeug für das eigene Fahrzeug auftritt und ob ein Geräusch wahrnehmbar ist. Am Arbeitsplatz des Ausbilders wird mit ausreichender Vergrößerung geprüft, ob die Konturen des Fahrzeugs zur Kollisionserkennung verwendet werden. Es wird geprüft, ob die Kollision genau in dem Moment stattfindet, wenn sich die Konturen berühren. Es wird geprüft, ob eine genaue Kollisionserkennung auch für verschiedene Fahrzeuge mit unterschiedlichen Formen erfolgt.
+
+x
+
+ 
+
+33\.
+
+Kollision Fahrzeug-  
+Brücke
+
+Kollisionen Fahrzeug-Brücke werden anhand eines statischen Höhenwerts (der einem abgesenkten Steuerhaus, abgesenkten Mast entspricht) erkannt. Kollisionen werden in der Simulation zumindest durch ein Geräusch signalisiert. Die Simulation verlangsamt das Fahrzeug.
+
+Um diese Leistung zu überprüfen, muss im Übungsbereich eine Brücke vorhanden sein und eine elektronische Binnenschifffahrtskarte verwendet werden. Es wird geprüft, ob es beim Durchfahren einer Brücke mit nicht ausreichender Durchfahrtshöhe zu einer Kollision kommt und wie das Ergebnis der weiteren Simulation aussieht. Es wird geprüft, ob ein sicheres Durchfahren bei ausreichender Reduzierung des Wasserstands oder Erhöhung des Tiefgangs möglich ist. Dies wird auch im Sichtsystem überprüft. Um den Kollisionspunkt auf dem Schiff zu überprüfen, sind verschiedene Läufe notwendig, wenn nur einer vorhanden ist. In diesem Fall kann auch lokalisiert werden, ob die Brücke eine Kollision an der Mittellinie oder den äußeren Grenzen verursacht.
+
+x
+
+ 
+
+34\.
+
+In der Höhe verstellbares Steuerhaus
+
+Kollisionshöhe und Blickpunkt sind der Position der Brücke angepasst. Es steht eine kontinuierliche Bewegung des verstellbaren Steuerhauses zur Verfügung.
+
+Voraussetzung für die Überprüfung dieses Leistungsmerkmals ist die Verfügbarkeit eines typischen Fahrzeugs auf Binnenwasserstraßen, z. B. eines Fahrzeugs von 110 m Länge. Die grundsätzliche Verfügbarkeit dieser Funktionalität kann anhand des Vorhandenseins eines Bediengerätes zur Änderung der Brückenposition überprüft werden. Die Funktion kann auf der Brücke getestet werden und es wird geprüft, ob beliebige Positionen gewählt werden können und ob die Bewegung abrupt oder mit realistischer Geschwindigkeit erfolgt. Durch die Platzierung eines weiteren eigenen Fahrzeugs in der Nähe kann geprüft werden, ob diese Funktionalität auch für andere Fahrzeuge im Sichtsystem zur Verfügung steht.
+
+x
+
+ 
+
+ 
+
+ 
+
+ 
+
+Es kann beobachtet werden, ob sich auch Navigationslichter und Tagzeichen entsprechend der Bewegung des in der Höhe verstellbaren Steuerhauses des zweiten eigenen Fahrzeugs im Sichtsystem bewegen.
+
+ 
+
+ 
+
+35\.
+
+Leinen
+
+Das Sichtsystem visualisiert die Dynamik von Fahrzeug und Leine (z. B. Durchhang, Elastizität, Gewicht, Bruchverhalten und Verbindungen zu den Pollerpunkten).
+
+In einem Übungsgelände mit Kaimauer wird die Verankerung mit einer Leine getestet. Bei der Verwendung der Leine wird geprüft, ob diese mit bestimmten Pollerpunkten verbunden ist. Das Bruchverhalten einer Leine wird kontrolliert, indem versucht wird, das Fahrzeug mit einer Leine aus voller Fahrt anzuhalten. Der Durchhang der Leine muss durch Verringerung von Kraft und Entfernung überprüft werden.
+
+x
+
+ 
+
+36\.
+
+Anker
+
+Anker können geworfen und eingeholt werden. Die Wassertiefe und die Dynamik der Kette werden berücksichtigt.
+
+Die Ankerfunktion kann in einem Übungsgelände mit eingeschränkter Wassertiefe und einem eigenen Fahrzeug mit einem oder mehreren Ankern geprüft werden. Zweckmäßigerweise sollte eine konstante Strömung mit variabler Geschwindigkeit zur Verfügung stehen. Werfen und Einholen des Ankers ist nur möglich, wenn entsprechende Bedienelemente vorhanden sind. Es muss auch geprüft werden, ob es Instrumente zur Anzeige der Kettenlänge gibt. Es wird geprüft, ob sich die Geschwindigkeiten beim Werfen und Einholen unterscheiden. Dabei muss auch geprüft werden, ob ein geeigneter Ton zu hören ist. Durch Variation der Wassertiefe ist zu prüfen, ob die Wassertiefe Einfluss auf die Ankerfunktion hat. Bei niedrigen Strömungsgeschwindigkeiten muss geprüft werden, ob das Fahrzeug oszilliert und nach dem Ankern zum Stillstand kommt. Bei kontinuierlicher Zunahme der Strömung muss geprüft werden, ob der Anker das Fahrzeug hält. Wenn ein einzelner Anker nicht hält, muss geprüft werden, ob das Fahrzeug mit zwei Ankern hält, wenn zwei Anker verfügbar sind.
+
+x
+
+ 
+
+37\.
+
+Schleppen (Manöver zwischen zwei Fahrzeugen)
+
+Beim Schleppen werden die Bewegungen beider Fahrzeuge und die Leinenverbindung berücksichtigt.
+
+Das Übungsgelände für die Überprüfung der Schleppfunktion kann ein Hochseegelände sein. Neben dem schleppenden oder geschleppten eigenen Fahrzeug ist ein weiteres Fahrzeug (eigenes Fahrzeug oder Verkehrsfahrzeug) erforderlich. Die Grundvoraussetzung für das Schleppen kann geprüft werden, indem eine Schleppleine zwischen einem eigenen Fahrzeug und dem anderen Fahrzeug gezogen wird. Falls dies nicht möglich ist, muss geprüft werden, ob zumindest eine alternative Methode zur Definition einer Kraft aus einem virtuellen Schleppboot gegeben ist.
+
+x
+
+ 
+
+ 
+
+ 
+
+ 
+
+Es wird geprüft, ob das andere Fahrzeug, das als Schlepphilfe verwendet wird, das geschleppte eigene Fahrzeug beschleunigen und durch seitlichen Zug eine Gierbewegung einleiten kann. Es wird geprüft, ob das schleppende eigene Fahrzeug das andere Fahrzeug durch geeignete Manöver bewegen und anhalten kann und ob das andere Fahrzeug auch durch Seitenzug in Rotation gebracht werden kann.
+
+ 
+
+ 
+
+Verkehrsfahrzeug
+
+38\.
+
+Anzahl der Verkehrsfahrzeuge
+
+Mindestens zehn Verkehrsfahrzeuge müssen verfügbar sein.
+
+Der Test muss zeigen, ob die gewünschte Anzahl in einer Übung eingesetzt werden kann.
+
+x
+
+x
+
+39\.
+
+Steuerung der Verkehrsfahrzeuge
+
+Das Verkehrsfahrzeug kann Routen mit Kurs- und Geschwindigkeitswechsel realitätsnah verfolgen.
+
+Die Verfügbarkeit von Kontrollfunktionen muss durch die Erstellung einer neuen Übung einschließlich Verkehrsfahrzeugen überprüft werden.
+
+x
+
+x
+
+40\.
+
+Bewegungsverhalten
+
+Einigermaßen flüssige Bewegungen
+
+Es gilt das Prüfverfahren zur Kontrolle von Verkehrsfahrzeugen.
+
+x
+
+x
+
+41\.
+
+Einfluss von Wind
+
+Das Verkehrsfahrzeug reagiert auf gegebene Windeinflüsse, indem es einen Driftwinkel einnimmt.
+
+Der bei einer Übung angewandte Wind muss einen Driftwinkel auf dem Verkehrsfahrzeug aufweisen, der sich mit der Geschwindigkeit und der Richtung des Windes ändert.
+
+x
+
+ 
+
+42\.
+
+Einfluss der Strömung
+
+Das Verkehrsfahrzeug reagiert auf gegebene Strömungseinflüsse, indem es einen Driftwinkel einnimmt.
+
+Die bei einer Übung angewandte Strömung muss einen Driftwinkel auf dem Verkehrsfahrzeug aufweisen, der sich mit der Geschwindigkeit und der Richtung der Strömung ändert.
+
+x
+
+x
+
+43\.
+
+Bildausschnitt und -größe
+
+Das Sichtsystem ermöglicht einen Blick über den gesamten Horizont (360 Grad). Das horizontale Blickfeld kann mit einer festen Ansicht von mindestens 210 Grad und zusätzlichen umschaltbaren Ansichten für den restlichen Horizont eingestellt werden. Die vertikale Ansicht ermöglicht den Blick nach unten auf das Wasser und nach oben zum Himmel, wie er von der normalen Steuerposition im Steuerhaus wäre.
+
+Sichtprüfung des laufenden Simulators.
+
+x
+
+ 
+
+44\.
+
+Auflösung pro Bild
+
+Die Auflösung erreicht die Auflösung des menschlichen Auges. Die Bildrate (idealerweise &gt; 50 B/s, zumindest ein realistisches glattes Bild) weist kein Ruckeln auf.
+
+Die Auflösung muss durch Sichtprüfung überprüft werden.
+
+x
+
+ 
+
+45\.
+
+Weitere Details und Anzeigepflicht
+
+Der Detaillierungsgrad des Anzeigesystems geht über eine vereinfachte Darstellung hinaus. Es zeigt unter allen Umständen eine gute Sicht auf die nautische Umgebung.
+
+Das visuelle Modell muss durch Sichtprüfung überprüft werden.
+
+x
+
+ 
+
+46\.
+
+Wasseroberfläche
+
+Die vom Fahrzeug verursachten Wellen hängen von der Geschwindigkeit des Fahrzeugs ab. Die Wassertiefe wird berücksichtigt. Vom Wind verursachte Wellen stimmen mit der Windrichtung und -geschwindigkeit überein.
+
+Die Sichtprüfung muss zeigen, ob sich die vom Fahrzeug verursachten Wellen mit der Geschwindigkeit des Fahrzeugs ändern und ob sich die vom Wind verursachten Wellen mit der Windrichtung und -geschwindigkeit ändern.
+
+x
+
+ 
+
+47\.
+
+Sonne, Mond, Himmelskörper
+
+Sonne und Mond folgen einem 24-Stunden-Intervall. Die Positionen stimmen nicht exakt mit Ort und Datum der Simulation überein. Der Nachthimmel besteht aus beliebigen Sternen.
+
+Die Sichtprüfung muss zeigen, ob Sonne, Mond und Himmelskörper bei Tag, Nacht und Dämmerung veränderbar sind.
+
+x
+
+ 
+
+48\.
+
+Wetter
+
+Es werden stationäre hohe Wolkenschichten dargestellt. Außerdem können Regen, Dunst und Nebel dargestellt werden.
+
+Die Sichtprüfung zeigt den erforderlichen Detaillierungsgrad an.
+
+x
+
+ 
+
+49\.
+
+Umgebungsgeräusche
+
+Motorengeräusche werden auf realistische Weise wiedergegeben.
+
+Die Motorengeräusche müssen bei ruhigem Wetter und Seegang getestet werden, indem das Geräusch für alle Motordrehzahlen beurteilt wird. Es muss festgestellt werden, ob das Motorengeräusch hörbar ist und ob Lautstärke und Klang angemessen sind.
+
+x
+
+x
+
+50\.
+
+Externe Geräuschquellen (z. B. Motorengeräusche, akustische Warnsignale und Anker)
+
+Einzelgeräusche werden auf realistische Weise wiedergegeben, können akustisch jedoch nicht lokalisiert werden.
+
+Als erster Schritt werden im Steuerhaus des stationären eigenen Fahrzeugs nacheinander alle verfügbaren Tonsignale aktiviert. Es wird beurteilt, ob die Tonsignale hinsichtlich Klang und Lautstärke realistisch sind. In einem zweiten Schritt werden die gleichen Tonsignale auf einem anderen Fahrzeug aktiviert, wobei der Abstand zum Fahrzeug verändert wird. Es muss geprüft werden, ob das richtige Signal ertönt und ob die Lautstärkepegel richtig wiedergegeben werden. Alle bedienbaren Hilfsaggregate (z B. Anker) am Steuerhaus des Fahrzeugs werden separat angesteuert. Es muss überprüft werden, ob der Betriebszustand akustisch wahrnehmbar ist.
+
+x
+
+ 
+
+51\.
+
+Externe Geräusche (Schallsignale)
+
+Schallsignale von Zielfahrzeugen müssen hörbar sein.
+
+Während einer Übung muss ein Schallsignal von einem Zielfahrzeug gegeben werden.
+
+ 
+
+x
+
+52\.
+
+Interne akustische Informationen
+
+Akustische Signale von Brückengeräten klingen realistisch, werden jedoch von den Lautsprechern der Simulatorkonsole wiedergegeben.
+
+Alle akustischen Signale aller verfügbaren Steuerhausgeräte werden nacheinander aktiviert. Es wird geprüft, ob die Signale von den Geräten selbst oder von den Lautsprechern des Simulators ausgegeben werden und wie weit sie realistisch klingen.
+
+x
+
+ 
+
+53\.
+
+Hören
+
+Der Bediener kann alle Geräusche vom Steuerhaus des Fahrzeugs hören.
+
+Im Rahmen einer Simulation ist zu prüfen, ob Geräusche aus dem Steuerhaus des Fahrzeugs klar und verständlich übertragen werden und ob die Lautstärke regelbar ist.
+
+x
+
+ 
+
+54\.
+
+Aufzeichnen
+
+Geräusche vom Steuerhaus des Fahrzeugs werden synchron mit der Simulation aufgezeichnet.
+
+Eine Übung mit Funkverkehr und Geräuschen wird durchgeführt. Die Wiedergabe muss synchron zur Wiedergabe der Simulation eine einwandfreie, hörbare Aufnahme ergeben.
+
+x
+
+ 
+
+55\.
+
+Radarkonformität
+
+Die Winkelgenauigkeit für die horizontale Peilung entspricht der Europäischen Technischen Spezifikation (ETSI) EN  302194. Effekte eines vertikal begrenzten Öffnungswinkels sind erkennbar, z. B. bei der Fahrt durch Brücken.
+
+„Vertikale“ Konformität: Simulation von Brückendurchfahrten mit Berücksichtigung
+
+–  
+der Höhe der Antenne über der Wasseroberfläche bei aktuellem Tiefgang,
+
+–  
+des Ausstrahlungswinkels in Abhängigkeit von der Radarkeule und der Trimmung des Fahrzeugs,
+
+–  
+der Höhe der Brücke zwischen Unterkante der Brücke und Wasseroberfläche.
+
+x
+
+x
+
+56\.
+
+Auflösung
+
+Die Simulation muss ein realistisches Radarbild herstellen. Die Radarsimulation muss den Anforderungen der ETSI EN 302194 \[1\] entsprechen.
+
+Die richtige Auflösung muss in 1 200 m Entfernung nachgewiesen werden: zwei Objekte mit einem azimutalen Abstand von 30 m müssen als zwei separate Objekte identifiziert werden. Zwei Objekte in 1 200 m Entfernung in der gleichen Richtung mit 15 m Abstand untereinander müssen als zwei verschiedene Objekte identifiziert werden.
+
+x
+
+x
+
+57\.
+
+Abschattung durch eigenes oder anderes Fahrzeug
+
+Die Abschattung entspricht den trigonometrischen Beziehungen, berücksichtigt jedoch keine Änderungen der dynamischen Fahrzeugposition.
+
+Die Abschattung durch das eigene Fahrzeug muss durch Annäherung an eine Boje und Ermittlung der Entfernung, wenn die Boje vom Bug des Fahrzeugs verdeckt wird, getestet werden. Die Entfernung muss realistisch sein. Die Abschattung durch andere Fahrzeuge muss getestet werden, indem zwei Fahrzeuge in die gleiche Richtung gesetzt werden. Wenn ein kleineres Fahrzeug hinter ein größeres Fahrzeug gesetzt wird, erscheint das kleinere Fahrzeug nicht auf dem Radarschirm.
+
+x
+
+x
+
+58\.
+
+Seegang- und Regenechos
+
+Die Anpassung von Filtern und ihre Effekte entsprechen der Größenordnung von genehmigten Geräten.
+
+Eine Bewertung erfolgt durch Einschalten und Einstellen der Filter.
+
+x
+
+x
+
+59\.
+
+Falsche Echos
+
+Falsche Echos werden erzeugt. Zusätzlich ändert sich die Frequenz der Mehrfachechos mit der Distanz auf realistische Weise.
+
+Bei einer Übung mit mehreren Zielfahrzeugen sind falsche Echos sichtbar. Während des Tests muss der Beobachter nach Interferenzen und Mehrfachechos suchen.
+
+x
+
+x
+
+60\.
+
+Wassertiefe
+
+Die Bodentopografie wird durch gepeilte Profile und Sondierungen oder in anderer Form in hoher Auflösung detailliert beschrieben, soweit Daten zur Verfügung stehen.
+
+Beim Durchfahren des zu prüfenden Gebiets ist zu prüfen, ob das Echolot realistische Werte aufweist.
+
+x
+
+ 
+
+61\.
+
+Strömung
+
+Die Strömung kann beliebig durch mindestens zweidimensionale Vektorfelder mit einer hohen, der Fahrzeuggröße und dem Gelände angepassten Auflösung definiert werden.
+
+Die Wirkung der Strömung muss durch Treibenlassen eines eigenen Fahrzeugs auf einem Fluss getestet werden. Das Fahrzeug muss sich auf realistische Weise mit der Strömung bewegen.
+
+x
+
+x
+
+62\.
+
+Gezeiten
+
+Gezeitendaten werden in einer groben räumlichen und/oder zeitlichen Auflösung bereitgestellt.
+
+Die Auswirkung der Gezeiten auf schwimmende Objekte kann durch Simulation eines möglichst kleinen schwimmenden Gegenstands ohne Antrieb oder andere Kräfte (z. B. durch Wind oder Leinen) bewertet werden. Durch die Änderung der Tageszeit kann geprüft werden, ob der Gezeitenstrom und der Wasserstand zeitabhängig und realistisch sind. Der Wasserstand kann direkt am Echolot abgelesen und für einen ganzen Tag aufgezeichnet werden, um mit gemessenen oder berechneten Daten verglichen zu werden.
+
+x
+
+ 
+
+63\.
+
+Wind
+
+Es können Schwankungen und Windvektorfelder definiert werden, die eine lokale Änderung erlauben.
+
+Wenn ein Anemometer an Bord „installiert“ ist, zeigt das Instrument auf der Brücke die relative Windgeschwindigkeit und Windrichtung an. Der Einfluss verschiedener Windfelder auf die Fahrzeugdynamik muss untersucht werden.
+
+x
+
+ 
+
+64\.
+
+2D-/3D-Modelle bei feststehenden Objekten
+
+2D-Darstellungen von Objekten sind nur zulässig, wenn die Objekte weit entfernt und nautisch nicht relevant sind.
+
+Während sich ein Fahrzeug im gesamten zu validierenden Simulationsbereich bewegt, werden feste Objekte beobachtet. Es kann ermittelt werden, in welchem Abstand und in welcher Weise der Detaillierungsgrad reduziert wird und ob 2D-Modelle verwendet werden.
+
+x
+
+ 
+
+65\.
+
+Detaillierungsgrad bei feststehenden Objekten
+
+Ein hoher Detaillierungsgrad lässt Objekte realistisch erscheinen, in Form und Oberfläche sind jedoch Vereinfachungen erkennbar.
+
+Der zu begutachtende Übungsbereich wird geladen und ein eigenes Fahrzeug eingestellt. Zunächst muss geprüft werden, ob alle für die Navigation wichtigen Objekte identifiziert werden. Die Szenerie muss auf den ersten Blick realistisch wirken.
+
+x
+
+ 
+
+66\.
+
+Tag-/Nachtmodi bei beweglichen Objekten
+
+In der Dunkelheit kann jedes beliebige Objekt angeleuchtet werden. Für die Navigation wichtige Lichtquellen können bei vordefinierten Eigenschaften Licht aussenden.
+
+Der zu begutachtende Übungsbereich wird geladen und ein eigenes Fahrzeug eingestellt. Die Simulationszeit wird auf Mitternacht eingestellt. Es muss geprüft werden, ob alle für die Navigation wichtigen Objekte in der Simulation wie in der Realität beleuchtet sind. Weiterhin ist zu prüfen, ob andere Objekte beleuchtet sind. Falls die Simulatorsoftware diese Funktion aufweist, schaltet der Ausbilder die Beleuchtung der vorgesehenen Objekte ein und aus.
+
+x
+
+ 
+
+67\.
+
+2D-/3D-Modelle bei beweglichen Objekten
+
+Zweidimensionale Objekte werden nur im Hintergrund verwendet (in weiter Entfernung), sodass sie kaum in Erscheinung treten. Andernfalls werden 3D-Modelle verwendet.
+
+Der zu begutachtende Übungsbereich wird geladen und ein eigenes Fahrzeug eingestellt. Der Übungsbereich wird vollständig navigiert; gleichzeitig werden die vorhandenen beweglichen Objekte genutzt, beobachtet und ausgewertet, um festzustellen, ob sie ebene Flächen aufweisen, die sich dem Beobachter zuwenden.
+
+x
+
+ 
+
+68\.
+
+Detaillierungsgrad
+
+Bei höherem Detaillierungsgrad werden realistische Objekte dargestellt, Form und Oberflächen erscheinen jedoch in einer vereinfachten Darstellung.
+
+Ein eigenes Fahrzeug fährt innerhalb eines frei wählbaren Einsatzgebiets. Es werden bewertbare bewegte Objekte verwendet. Diese müssen realistisch dargestellt werden.
+
+x
+
+ 
+
+69\.
+
+Einstellung von Lichtern und Tagessignalen
+
+Licht- und Signalführung können individuell geschaltet werden, d. h. alle Lichter und Signale sind in der Datenbank separat gespeichert und werden entsprechend den Anforderungen echter Fahrzeuge und entsprechend den für das verwendete Fahrzeug geltenden Vorschriften positioniert.
+
+In unmittelbarer Nähe zu einem Verkehrsfahrzeug wird in jedem Übungsgebiet ein eigenes Fahrzeug eingesetzt. Der Bediener setzt nach Möglichkeit an Bord des Verkehrsfahrzeugs alle Arten von Tages- und Lichtsignalen. Wenn der Simulator es zulässt, wird anstelle des Verkehrsfahrzeugs ein zweites eigenes Fahrzeug verwendet. Auf dem zweiten eigenen Fahrzeug werden auch alle Arten von Licht- und Tagessignalen gesetzt. Am Steuerstand des ersten eigenen Fahrzeugs wird geprüft, welche Licht- und Tagessignale auf beiden anderen Fahrzeugen sichtbar sind.
+
+x
+
+ 
+
+70\.
+
+Tag-/Nachtmodelle
+
+Lichtquellen können nach bestimmten Eigenschaften blinken.
+
+Ein eigenes Fahrzeug navigiert innerhalb eines Fahrgebiets. Die Simulationszeit ist auf 24:00 Uhr eingestellt. Es werden alle erfassbaren bewegten Objekte verwendet. Der Bediener schaltet nach Möglichkeit alle an den Objekten installierten Lichtquellen zur Sichtprüfung ein.
+
+x
+
+ 
+
+71\.
+
+Radarreflexion
+
+Das Echo auf dem Radarbild muss realistisch sein.
+
+Es muss geprüft werden, ob bei reflektierenden Objekten ein realistisches Echo angezeigt wird.
+
+x
+
+x
+
+72\.
+
+Durch Wellen und Niederschlag verursachte Echos
+
+Seegangechos werden für typische Wellenmuster gespeichert und decken auch den Bereich der durch Seegang bedingten Wasserstände ab. Echos von Niederschlägen werden auf realistische Weise angezeigt.
+
+Seegangechos müssen durch Einbringen verschiedener Wellenhöhen und -richtungen geprüft werden. Echos von Niederschlägen werden geprüft.
+
+x
+
+x
+
+73\.
+
+Wellen
+
+Seegang und Wellenrichtung können eingestellt werden; das Fahrzeug bewegt sich auf realistische Weise.
+
+Es muss geprüft werden, ob die Bewegung des Fahrzeugs je nach Seegang variiert. Wellenrichtung und -höhe müssen sichtbar sein.
+
+x
+
+ 
+
+74\.
+
+Niederschlag
+
+Alle Wetterverhältnisse (Einschränkung der Sicht, Niederschlag mit Ausnahme von Blitz und Wolkenformationen) sind verfügbar und ergeben ein kohärentes Bild.
+
+Es wird eine Sichtprüfung durchgeführt, um zu überprüfen, ob die Sicht eingeschränkt werden kann.
+
+x
+
+ 
+
+75\.
+
+Kartenanzeige
+
+Das Inland ECDIS im Informationsmodus muss den Anforderungen des neuesten Standards entsprechen, der von der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt veröffentlicht wurde (Durchführungsverordnung (EU) Nr. 909/2013 der Kommission oder Inland ECDIS, Ausgabe 2.3 oder aktualisierte Ausgabe).
+
+Es muss geprüft werden, ob die ECDIS-Software zertifiziert ist und ob eine elektronische Binnenschifffahrtskarte (Inland Electronical Navigation Chart – IENC) verwendet wird.
+
+x
+
+ 
+
+76\.
+
+Maßeinheiten
+
+Der Simulator verwendet die Maßeinheiten der Europäischen Binnenschifffahrt (km, km/h).
+
+Die angezeigten Einheiten müssen ausgewertet werden.
+
+x
+
+x
+
+77\.
+
+Sprachoptionen
+
+Es findet die Prüfungssprache und/oder Englisch Anwendung.
+
+Die Sprache der Instrumente muss überprüft werden.
+
+x
+
+x
+
+78\.
+
+Anzahl der Übungen
+
+Es muss die Möglichkeit bestehen, verschiedene Übungen zu erstellen, zu speichern und durchzuführen, die während der Durchführung veränderbar sind.
+
+Es sind verschiedene Operationen durchzuführen.
+
+x
+
+x
+
+79\.
+
+Anzahl der eigenen Fahrzeuge
+
+Für jede Brücke kann ein eigenes Fahrzeug geladen werden.
+
+Ggf. Demonstration von Einzelübungen auf mehreren Brücken.
+
+x
+
+ 
+
+80\.
+
+Speicherdaten
+
+Alle Simulationswerte, die zur Wiedergabe der Simulation notwendig sind, einschließlich Video und Ton der Leistung des Bewerbers, sind zu speichern.
+
+Ein Simulationslauf wird gestartet und die Speicherung durchgeführt. Die Simulation wird neu geladen und überprüft, um festzustellen, ob alle relevanten Daten aus dem aufgezeichneten Simulationslauf zur Verfügung stehen.
+
+x
+
+x
+
+81\.
+
+Speicherung der angezeigten Prüfung
+
+Es muss die Möglichkeit zur Wiedergabe am Arbeitsplatz des Bedieners oder an einem Debriefing-Arbeitsplatz bestehen. Der Funkverkehr muss aufzeichnungsfähig sein.
+
+Die Wiedergabe der Übung ist durchzuführen.
+
+x
+
+x
+
+<span id="FnA1-f819242_02_10"></span><a href="#FnR.FnA1-f819242_02_10" class="Footnote">*</a>  
+Ein Zielfahrzeug wird vollständig vom Simulator gesteuert und kann ein viel einfacheres Bewegungsverhalten aufweisen als ein eigenes Fahrzeug.
+
+<span id="FnA1-f819242_02_11"></span><a href="#FnR.FnA1-f819242_02_11" class="Footnote">**</a>  
+Ein eigenes Fahrzeug ist ein Gegenstand im Simulator, der vollständig von einem Menschen gesteuert wird und eine visuelle Darstellung des Szenarios bietet.
+
+# Anlage 31 – (zu § 90 Absatz 2)Standards für das behördliche Zulassungsverfahren für Fahrsimulatoren und Radarsimulatoren
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 121)
+
+ 
+
+I. Zulassungsverfahren für Simulatoren, die für die in Artikel 17 Absatz 3 Buchstabe a und b der Richtlinie (EU) 2017/2397 genannten Prüfungen eingesetzt werden
+
+1. Die Stelle, die Simulatoren zur Beurteilung von Befähigungen einsetzt, stellt bei der zuständigen Behörde des Mitgliedstaats einen Antrag auf Zulassung,
+
+a) in dem angegeben ist, für welche Beurteilung von Befähigungen der Simulator zugelassen werden soll, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen;
+
+b) aus dem hervorgeht, dass der Simulator die vollständige Erfüllung der technischen und funktionalen Mindestanforderungen gemäß dem einschlägigen Standard oder den einschlägigen Standards für Simulatoren gewährleistet.
+
+2. Die zuständige Behörde stellt sicher, dass die Mindestanforderungen gemäß dem Standard für die funktionalen und technischen Anforderungen an Simulatoren nach dem Testverfahren für jeden Gegenstand geprüft werden. Hierfür setzt die zuständige Behörde von der das Ausbildungsprogramm durchführenden Stelle unabhängige Sachverständige ein. Die Sachverständigen dokumentieren die Konformitätsprüfung für jeden Gegenstand. Bestätigen die Testverfahren die Erfüllung der Anforderungen, erteilt die zuständige Behörde eine Zulassung für den Simulator. In der Zulassung ist anzugeben, für welche Beurteilung von Befähigungen der Simulator zugelassen wird.
+
+II. Mitteilung der Zulassung und System für Qualitätsstandards
+
+1. Die für die Zulassung von Simulatoren zuständige Behörde teilt der Europäischen Kommission und jeder betroffenen internationalen Organisation die Zulassung eines Simulators mit und gibt dabei mindestens Folgendes an:
+
+a) die Beurteilung von Befähigungen, für die der Simulator zugelassen ist, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen);
+
+b) den Namen des Betreibers des Simulators;
+
+c) ggf. die Bezeichnung des Ausbildungsprogramms;
+
+d) die Einrichtung, die die Befähigungszeugnisse, besonderen Berechtigungen oder Zeugnisse über praktische Prüfungen ausstellt;
+
+e) das Datum des Inkrafttretens, der Aufhebung oder Aussetzung der Zulassung des Simulators.
+
+2. Für die Zwecke eines Qualitätsbewertungs- und -sicherungssystems nach Artikel 27 der Richtlinie (EU) 2017/2397 werden die Anträge gemäß Abschnitt I Nummer 1 Buchstabe a und die Dokumentation gemäß Abschnitt I Nummer 2 von der zuständigen Behörde aufbewahrt.
+
+# Anlage 32 – (zu § 137 Absatz 2)Voraussetzungen für die Verlängerung der Ermächtigung von Ärzten und Ärztinnen
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 122)
+
+ 
+
+I. Für die Verlängerung der Ermächtigung gelten folgende Voraussetzungen:
+
+1. Approbation als Arzt oder Ärztin,
+
+2. Abschluss als Facharzt/Fachärztin für Arbeitsmedizin oder abgeschlossene Zusatz-Weiterbildung Betriebsmedizin,
+
+3. verkehrsmedizinische Erfahrungen (insbesondere durch Betriebsarzttätigkeit in Logistikunternehmen oder durchgeführte Eignungsuntersuchungen nach verkehrsrechtlichen Vorgaben),
+
+4. Teilnahme an einem Seminar „Arbeitsmedizinische Untersuchungen nach dem Verkehrsrecht in der Binnenschifffahrt“ der Berufsgenossenschaft innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Ermächtigung,
+
+5. mindestens 4-stündige Mitfahrt auf einem Binnenschiff im Steuerhaus, Maschinenraum und an Deck, nicht als Passagier, oder mindestens 2 Betriebsbegehungen auf Binnen- oder Küstenschiffen in betriebsärztlicher Funktion innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Ermächtigung,
+
+6. Vorhandensein von für die Durchführung der ärztlichen Untersuchung erforderlichen apparativen, personellen und räumlichen Voraussetzungen.
+
+II. Für die Verlängerung der Ermächtigung müssen folgende schriftliche Nachweise erbracht werden:
+
+1. Erklärung über das Fortbestehen der
+
+a) Approbation als Arzt oder Ärztin
+
+b) arbeitsmedizinischen Fachkunde
+
+c) für die Durchführung der ärztlichen Untersuchung erforderlichen personellen und technischen Ausstattung,
+
+2. Bescheinigungen über die Teilnahme an dem Seminar und an der Mitfahrt nach Abschnitt I Satz 1 Nummer 4 und 5.
+
+III. Liegen die Qualifikationen nach Abschnitt I Satz 1 Nummer 4 und 5 bei Antrag auf Verlängerung der Ermächtigung nicht vor, kann zur Vermeidung unbilliger Härten oder, wenn ein besonderes Bedürfnis vorliegt, eine vorläufige Verlängerung der Ermächtigung für bis zu zwei Jahre erteilt werden. In dieser Zeit ist der Erwerb dieser Qualifikationen nachzuweisen. Bei begründeten Zweifeln an der Richtigkeit der Erklärungen der antragstellenden Person nach Abschnitt II Nummer 1 können entsprechende Nachweise verlangt werden. Die Nachweise nach Abschnitt II Nummer 2 können auch durch den Nachweis gleichwertiger praktischer Erfahrungen ersetzt werden.
+
+# Anlage 33 – (zu § 138)Bescheinigung des Arbeitgebers über die grundlegende Sicherheitsausbildung
+
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 123)
+
+ 
+
+Hiermit wird bescheinigt, dass Herr/Frau
+
+ 
+
+ 
+
+...........................................................................................................................................................................................................................................................................................................................................................................................................
+
+\[Vorname, Name\]
+
+an einer grundlegenden Sicherheitsausbildung in der Binnenschifffahrt als Arbeitnehmer/als Arbeitnehmerin des Unternehmens
+
+ 
+
+...........................................................................................................................................................................................................................................................................................................................................................................................................
+
+\[Name Unternehmen, Anschrift Unternehmen\]
+
+teilgenommen hat und dabei in folgenden Themenbereichen aus Anlage 7 der Binnenschiffspersonalverordnung sowohl theoretisch als auch praktisch unterwiesen wurde:
+
+•  
+Verwendung der Rettungsmittel gegen das Ertrinken
+
+(Zeitrahmen: ca. 6 Stunden)
+
+•  
+Die besondere Arbeitsumgebung an Bord eines Fahrzeugs
+
+(Zeitrahmen: ca. 3 Stunden)
+
+•  
+Brandbekämpfung an Bord eines Fahrzeugs
+
+(Zeitrahmen: ca. 3 Stunden)
+
+•  
+Gefahren an Bord durch Lärm
+
+(Zeitrahmen: ca. 2 Stunden)
+
+•  
+Umgang mit Gefahrstoffen an Bord eines Fahrzeugs
+
+(Zeitrahmen: ca. 3,5 Stunden)
+
+Die Teilnahme an der grundlegenden Sicherheitsausbildung ersetzt nicht die Pflichten der Arbeitgeber und Arbeitnehmer nach dem Arbeitsschutzgesetz.   
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">....................................................................................................</td><td style="text-align: left;">....................................................................................................</td></tr><tr class="odd"><td style="text-align: left;">[Ort, Datum]</td><td style="text-align: left;">[Name/Vorname/Unterweisende(r)/]<br />
+[Unterschrift/Stempel Unternehmen]</td></tr></tbody></table>
+
+ 
