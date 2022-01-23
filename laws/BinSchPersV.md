@@ -4267,10 +4267,6 @@ Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann berücksichtigt
 
 (2) Die §§ 4, 47, 49, 50, 53, 54, 55, 56, 57, 58, 59 Absatz 2, §§ 69, 76, 77, 89 und 90 und die Anlagen 7, 17, 18, 19, 20, 21, 22, 23, 30 und 31 sind ab dem 7. Dezember 2021 anzuwenden.
 
-# Anlage 1 bis 33 – Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021
-
-(Fundstelle: Anlageband zum BGBl I Nr. 81 vom 6. Dezember 2021)
-
 # Anlage 1 – (zu § 12 Absatz 1 Satz 1 Nummer 3)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 1)
