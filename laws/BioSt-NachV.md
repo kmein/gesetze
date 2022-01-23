@@ -491,6 +491,9 @@ f) die Bestätigung der Summe aus den Treibhausgasemissionen nach Buchstabe c un
 
 (2) Wird die Anlage zur Stromerzeugung in einem Staat oder in einer Region betrieben, der oder die nicht auf dem Nachhaltigkeitsnachweis angegeben wurde, so muss der Anlagenbetreiber gegenüber dem Netzbetreiber nachweisen, dass die flüssigen Biobrennstoffe und Biomasse-Brennstoffe die Mindestanforderungen an die Treibhausgaseinsparung nach § 6 Absatz 1 auch bei einem Betrieb in diesem Staat oder in dieser Region erfüllen.
 
+(+++ § 15: Zur Anwendung vgl. § 16 Abs. 3  
+§ 15: Zur Anwendung vgl. § 17 Abs. 2 +++)
+
 # § 16 – Anerkannte Nachhaltigkeitsnachweise auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 (1) Nachhaltigkeitsnachweise gelten auch als anerkannt, solange und soweit sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I S. 5126, 5143) in der jeweils geltenden Fassung anerkannt sind.
@@ -528,6 +531,8 @@ f) die Bestätigung der Summe aus den Treibhausgasemissionen nach Buchstabe c un
 2. sie gefälscht sind oder eine unrichtige Angabe enthalten.
 
 (2) Sofern der Nachhaltigkeitsnachweis ausschließlich nach Absatz 1 Nummer 2 unwirksam ist, entfällt der Anspruch auf die Zahlung nach den Bestimmungen für Strom aus Biomasse des Erneuerbare-Energien-Gesetzes in der für die Anlage jeweils anzuwendenden Fassung für den Strom aus der Menge der flüssigen Biobrennstoffe und Biomasse-Brennstoffe, auf die sich der unwirksame Nachhaltigkeitsnachweis bezieht. Der Anspruch auf den Bonus für Strom aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung entfällt darüber hinaus endgültig, wenn den Anlagenbetreibern die Gründe für die Unwirksamkeit des Nachhaltigkeitsnachweises zum Zeitpunkt des Einsatzes der Menge Biomasse, auf die sich der unwirksame Nachhaltigkeitsnachweis bezieht, bekannt waren oder sie bei Anwendung der im Verkehr üblichen Sorgfalt die Unwirksamkeit hätten erkennen können.
+
+(+++ § 19: Zur Anwendung vgl. § 16 Abs. 3 +++)
 
 # § 20 – Anerkannte Zertifikate
 
@@ -620,6 +625,8 @@ cc) die jährliche Herstellungskapazität,
 # § 23 – Folgen fehlender Angaben
 
 Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach § 22 nicht enthalten.
+
+(+++ § 23: Zur Anwendung vgl. § 25 Abs. 2 +++)
 
 # § 24 – Gültigkeit der Zertifikate
 
@@ -746,6 +753,10 @@ Die Zertifizierungsstellen müssen ein Verzeichnis aller Schnittstellen und Lief
 (2) Die Beschäftigten der Zertifizierungsstellen sind befugt, während der Geschäfts- oder Betriebszeit Grundstücke, Geschäfts-, Betriebs- und Lagerräume sowie Transportmittel der Schnittstellen und Lieferanten zu betreten, soweit dies für die Kontrolle nach Absatz 1 erforderlich ist. Diese Befugnis bezieht sich auf alle Orte im Geltungsbereich dieser Verordnung, an denen die Schnittstellen und Lieferanten im Zusammenhang mit der Herstellung oder Lieferung von Biomasse, flüssigen Biobrennstoffen oder Biomasse-Brennstoffen, für die ein Nachhaltigkeitsnachweis nach dieser Verordnung ausgestellt wird, Tätigkeiten ausüben.
 
 (3) Die Schnittstellen und Lieferanten im Geltungsbereich dieser Verordnung sind verpflichtet, die Kontrollen nach den Absätzen 1 und 2 zu dulden.
+
+(+++ § 34 Abs. 2 u. 3: Zur Anwendung vgl. § 35 Satz 4  
+§ 34 Abs. 2 u. 3: Zur Anwendung vgl. § 36 Satz 4  
+§ 34 Abs. 2 Satz 2 u. Abs. 3: Zur Anwednung vgl. § 40 Abs. 2 Satz 2 +++)
 
 # § 35 – Kontrolle des Anbaus
 

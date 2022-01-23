@@ -4546,7 +4546,7 @@
 - [RAG 1989](laws/RAG_1989.md) Rentenanpassungsgesetz 1989
 - [RAG 1990](laws/RAG_1990.md) Rentenanpassungsgesetz 1990
 - [RAG 1991](laws/RAG_1991.md) Rentenanpassungsgesetz 1991
-- [RamsarKonv](laws/RamsarKonv.md) Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Wattvögel von internationaler Bedeutung
+- [RamsarKonv](laws/RamsarKonv.md) Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel von internationaler Bedeutung
 - [RAÜG](laws/RAÜG.md) Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt
 - [RaumAAusbV 2004](laws/RaumAAusbV_2004.md) Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
 - [RaumausMstrV](laws/RaumausMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Raumausstatter-Handwerk
