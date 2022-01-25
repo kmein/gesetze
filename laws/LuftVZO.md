@@ -177,7 +177,7 @@ b) den Anforderungen der Betriebsordnung für Luftfahrtgerät.
 
 (3) Ein Luftfahrtgerät, dessen Nachbau nicht vorgesehen ist, wird als Einzelstück zugelassen. Einzelstücke sind von der Musterzulassung befreit. Die Sätze 1 und 2 gelten sinngemäß für die Änderungen von Einzelstücken.
 
-(4) Von der Musterzulassung befreit sind ein- oder zweisitzige Luftsportgeräte mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät; für diese Luftfahrzeuge hat der Hersteller die Erfüllung der Lufttüchtigkeitsforderungen nach § 11 der Verordnung zur Prüfung von Luftfahrtgerät nachzuweisen.
+(4) Von der Musterzulassung befreit sind ein- oder zweisitzige Luftsportgeräte mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät; für diese Luftfahrzeuge hat der Hersteller die Erfüllung der Lufttüchtigkeitsforderungen nach § 11 der Verordnung zur Prüfung von Luftfahrtgerät nachzuweisen. Satz 1 gilt ohne Gewichtsbeschränkung auch für das zugehörige Schleppgerät.
 
 # § 2 – Zuständige Stellen
 

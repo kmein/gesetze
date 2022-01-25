@@ -29,19 +29,21 @@ Das erlaubnispflichtige Personal im Sinne des § 4 Absatz 1 und 2 des Luftverkeh
 
 (1) Erlaubnisse sind:
 
-1. die Lizenz für Luftfahrzeugführer nach § 1 Nummer 1 sowie für freigabeberechtigtes Personal nach § 1 Nummer 8,
+1. die Lizenz für Luftfahrzeugführer nach § 1 Nummer 1,
 
 2. der Luftfahrerschein oder der Ausweis für Personal nach § 1 Nummer 2 bis 6,
 
-3. die Flugbegleiterbescheinigung für Personal nach § 1 Nummer 9 und
+3. die Flugbegleiterbescheinigung für Personal nach § 1 Nummer 9,
 
-4. der Ausweis für Prüfer von Luftfahrtgerät für Personal nach § 1 Nummer 7.
+4. der Ausweis für Prüfer von Luftfahrtgerät für Personal nach § 1 Nummer 7 und
 
-(2) Angehörige des technischen Personals bedürfen für das Rollen eines Luftfahrzeugs, das sich mit eigener Kraft fortbewegt, keiner Erlaubnis, wenn sie das Luftfahrzeug insoweit beherrschen und von dem Luftfahrzeughalter oder von dem Unternehmer eines Instandhaltungsbetriebes, unter dessen Verantwortung das Luftfahrzeug gerollt wird, schriftlich oder elektronisch mit dem Rollen beauftragt sind. Das Gleiche gilt für Luftfahrzeugführer, deren Lizenz die Musterberechtigung für das betreffende Muster nicht umfasst.
+5. die Lizenz für freigabeberechtigtes Personal nach § 1 Nummer 8.
+
+(2) Technisches Personal der Instandhaltungsbetriebe und der kombinierten Lufttüchtigkeitsorganisationen sowie unabhängiges freigabeberechtigtes Personal bedarf für das Rollen eines Luftfahrzeugs, das sich mit eigener Kraft fortbewegt, keiner Erlaubnis, wenn es das Luftfahrzeug insoweit beherrscht und von dem Luftfahrzeughalter oder von der Organisation, die die Aufrechterhaltung der Lufttüchtigkeit führt und unter deren Verantwortung das Luftfahrzeug gerollt wird, schriftlich oder elektronisch mit dem Rollen beauftragt wird. Das Gleiche gilt für Luftfahrzeugführer, deren Lizenz die Musterberechtigung für das betreffende Muster nicht umfasst.
 
 (3) Absatz 2 gilt nicht für Luftfahrzeuge mit vertikaler Start- und Landefähigkeit (Kipprotorflugzeug) und Hubschrauber, sofern zum Rollen Schwebeflugmanöver durchgeführt werden müssen. Das Luftfahrt-Bundesamt kann für Instandhaltungsbetriebe, die diese Tätigkeiten ausführen, Ausnahmen zulassen.
 
-(4) An Betriebsstätten oder Standorten im Ausland beschäftigtes Personal, das für die Freigabe nach Instandhaltung von Flugmotoren, Bordhilfsmotoren, Luftschrauben und Flugsicherungsausrüstung zuständig ist, bedarf keiner Erlaubnis nach § 1 Nummer 7, wenn das Luftfahrt-Bundesamt festgestellt hat, dass dieses Personal über eine Qualifikation verfügt, die der für den Erwerb der Prüferlaubnis Klasse 4 erforderlichen Qualifikation gemäß § 104 Absatz 2 in Verbindung mit Absatz 3 Nummer 3 vergleichbar ist.
+(4) An Betriebsstätten oder Standorten im Ausland beschäftigtes Personal, das für die Freigabe nach Instandhaltung von Flugmotoren, Bordhilfsmotoren, Luftschrauben und Flugsicherungsausrüstung zuständig ist, bedarf keiner Erlaubnis nach § 1 Nummer 7, wenn das Luftfahrt-Bundesamt festgestellt hat, dass dieses Personal über eine Qualifikation verfügt, die den für den Erwerb der Erlaubnis für Prüfer von Luftfahrtgerät Klasse 4 erforderlichen fachlichen Voraussetzungen gemäß § 106 vergleichbar ist.
 
 # § 3 – Anwendbare Vorschriften
 
@@ -131,9 +133,9 @@ a) ein Nachweis über die Berechtigung zur Ausübung des Flugfunkdienstes nach d
 
 b) ein Nachweis über das Niveau der Sprachkenntnisse; davon ausgenommen sind Bewerber um Erlaubnisse zum Führen von Segelflugzeugen (LAPL(S) und SPL), Ballonen (LAPL(B) und BPL), Motorseglern und Luftsportgeräten.
 
-(3) Dem Antrag auf Erteilung eines Ausweises für Prüfer von Luftfahrtgerät sind folgende Unterlagen beizufügen:
+(3) Dem Antrag auf Erteilung einer Erlaubnis nach § 2 Absatz 1 Nummer 4 oder 5 sind folgende Unterlagen beizufügen:
 
-1. die Nachweise über das Vorliegen der fachlichen Voraussetzungen nach § 104,
+1. die Nachweise über das Vorliegen der fachlichen Voraussetzungen nach § 106 oder § 111a,
 
 2. eine Kopie des Personalausweises oder Reisepasses zur Feststellung der Identität und
 
@@ -159,13 +161,23 @@ b) ein Nachweis über das Niveau der Sprachkenntnisse; davon ausgenommen sind Be
 
 (1) Für die Erneuerung einer Erlaubnis, einschließlich der Berechtigungen, müssen die Voraussetzungen des § 16 fortbestehen. In den Fällen des § 7 Absatz 1 Nummer 4 des Luftsicherheitsgesetzes ist eine gültige Bescheinigung über das Ergebnis der Zuverlässigkeitsüberprüfung vorzulegen.
 
-(2) Die Erneuerung von Ausweisen für Prüfer von Luftfahrtgerät richtet sich nach § 109. Die Erneuerung von Lizenzen für freigabeberechtigtes Personal richtet sich nach Anhang III der Verordnung (EU) Nr. 1321/2014. Absatz 1 Satz 2 gilt entsprechend.
+(2) Die Erneuerung von Ausweisen für Prüfer von Luftfahrtgerät richtet sich nach § 110. Die Erneuerung von Lizenzen für freigabeberechtigtes Personal richtet sich nach Anhang III der Verordnung (EU) Nr. 1321/2014. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Personen, die am Flugfunk teilnehmen, haben die Neubewertung ihrer Sprachkenntnisse nach Anhang I FCL.055 und Anlage 2 der Verordnung (EU) Nr. 1178/2011 nachzuweisen. Die Neubewertung wird von einer nach § 125a anerkannten Stelle vorgenommen.
 
 # § 11 – Ausübung der Rechte aus einer Erlaubnis
 
-Die Rechte aus einer Erlaubnis dürfen nur ausgeübt werden, wenn die zur Erteilung der Erlaubnis geforderten Zeugnisse und Nachweise jeweils gültig sind und die fortlaufende Flugerfahrung auf Verlangen der zuständigen Stelle nach § 5 oder der Luftaufsicht durch entsprechende Einträge im Flugbuch nachgewiesen werden kann. In den Fällen des § 7 Absatz 1 Nummer 4 des Luftsicherheitsgesetzes muss eine gültige Bescheinigung über das Ergebnis der Zuverlässigkeitsüberprüfung vorliegen.
+(1) Die Rechte aus einer Erlaubnis dürfen nur ausgeübt werden, wenn die zur Erteilung der Erlaubnis geforderten Zeugnisse und Nachweise jeweils gültig sind und die fortlaufende Flugerfahrung auf Verlangen der zuständigen Stelle nach § 5 oder der Luftaufsicht durch entsprechende Einträge im Flugbuch nachgewiesen werden kann. In den Fällen des § 7 Absatz 1 Nummer 4 des Luftsicherheitsgesetzes muss eine gültige Bescheinigung über das Ergebnis der Zuverlässigkeitsüberprüfung vorliegen.
+
+(2) Der Inhaber einer Erlaubnis nach § 1 Nummer 7 darf die Rechte aus der Erlaubnis unter Beachtung der Anforderungen nach § 12 Absatz 1 der Verordnung zur Prüfung von Luftfahrtgerät in Verbindung mit der Verordnung (EU) Nr. 1321/2014, Anhang I (Teil-M), M.A.401 bis M.A.403 oder Anhang Vb (Teil-ML), ML.A.401 bis ML.A.403 nur dann ausüben, wenn
+
+1. ihm die für die Ausübung der Prüfertätigkeit an dem betreffenden Luftfahrtgerät erforderliche Musterberechtigung nach § 105 erteilt wurde,
+
+2. er im vorhergehenden Zweijahreszeitraum entweder sechs Monate Erfahrung in der Instandhaltung gemäß den erteilten Rechten nach § 104 erworben hat oder er die Voraussetzungen für die Erteilung der entsprechenden Rechte nach § 106 erfüllt,
+
+3. er die Sprache, in der die für die Ausstellung von Freigabebescheinigungen erforderlichen technischen Dokumentationen und Dokumentationen der Instandhaltungsverfahren abgefasst sind, in ausreichendem Maß, also in Wort und Schrift aktiv und passiv, beherrscht.
+
+(3) Der Inhaber einer Erlaubnis nach § 1 Nummer 8 darf die Rechte aus der Erlaubnis nur dann ausüben, wenn die Anforderungen der Verordnung (EU) Nr. 1321/2014, Anhang III (Teil-66), 66.A.20 b) erfüllt sind.
 
 # § 12 – Anrechnung von im Militärdienst erworbenen Kenntnissen, Erfahrungen und Fähigkeiten
 
@@ -181,7 +193,7 @@ Nutzen Ausbildungsbetriebe zum Zweck der Ausbildung von erlaubnispflichtigem Per
 
 # § 15 – Widerruf, Beschränkung und Ruhen der Erlaubnis
 
-(1) Erlaubnisse nach § 2 Absatz 1 Nummer 1 und 3 werden von der nach § 5 zuständigen Stelle gemäß Anhang VI ARA.FCL.250 der Verordnung (EU) Nr. 1178/2011 und Anhang III 66.B.500 der Verordnung (EU) Nr. 1321/2014 beschränkt, ausgesetzt oder widerrufen. Für erlaubnispflichtiges Personal nach § 1 Nummer 8 gelten die Bestimmungen des Anhangs III der Verordnung (EU) Nr. 1321/2014 entsprechend. Für den Widerruf und das Ruhen der Erlaubnis nach § 2 Absatz 1 Nummer 3 ist das Luftfahrt-Bundesamt zuständig.
+(1) Erlaubnisse nach § 2 Absatz 1 Nummer 1 und 3 werden gemäß Anhang VI ARA.FCL.250 der Verordnung (EU) Nr. 1178/2011 und Erlaubnisse nach § 2 Absatz 1 Nummer 5 werden gemäß Anhang III 66.B.500 der Verordnung (EG) Nr. 1321/2014 von der nach § 5 zuständigen Stelle beschränkt, ausgesetzt oder widerrufen. Für erlaubnispflichtiges Personal nach § 104 Absatz 2 Nummer 1 gelten die Bestimmungen des Anhangs III der Verordnung (EU) Nr. 1321/2014 entsprechend. Für den Widerruf und das Ruhen der Erlaubnis nach § 2 Absatz 1 Nummer 3 ist das Luftfahrt-Bundesamt zuständig. Der Widerruf und das Ruhen der Erlaubnis nach § 2 Absatz 1 Nummer 4 obliegen der nach § 5 zuständigen Stelle.
 
 (2) Der Luftfahrerschein oder der Ausweis nach § 2 Absatz 1 Nummer 2 ist von der nach § 5 zuständigen Stelle zu widerrufen und einzuziehen, wenn die Voraussetzungen für seine Erteilung nachträglich nicht nur vorübergehend entfallen sind oder wenn
 
@@ -239,7 +251,7 @@ Satz 1 Nummer 2 bis 4 gilt nicht für Bewerber um einen Luftfahrerschein für Lu
 
 (3) Inhaber einer Pilotenlizenz für Segelflugzeuge mit dem Ziel der Erweiterung der Lizenz auf Reisemotorsegler nach der Verordnung (EU) Nr. 1178/2011 haben vor Beginn der entsprechenden Ausbildung durch Vorlage einer Mitteilung der zuständigen Luftsicherheitsbehörde nachzuweisen, dass keine Zweifel an ihrer Zuverlässigkeit nach § 7 des Luftsicherheitsgesetzes bestehen.
 
-(4) Das Luftfahrt-Bundesamt legt die Voraussetzungen für die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 7 fest und veröffentlicht diese. Absatz 2 Satz 1 Nummer 1 und 3 bis 5 ist auf Bewerber um eine Erlaubnis für erlaubnispflichtiges Personal nach § 1 Nummer 7 und 8 anzuwenden.
+(4) Die nach § 5 zuständige Stelle legt die Voraussetzungen für die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 7 fest und veröffentlicht sie. § 106 ist entsprechend anzuwenden.
 
 # § 17 – Mindestalter für den Beginn der Ausbildung
 
@@ -319,29 +331,23 @@ Ergeben sich Zweifel an der Tauglichkeit oder Zuverlässigkeit des Bewerbers um 
 
 # § 23 – Ausbildungsbetriebe
 
-(1) Die Ausbildung von erlaubnispflichtigem Personal darf in Ausbildungsbetrieben durchgeführt werden, die dafür eine der folgenden Erlaubnisse besitzen:
+(1) Die Ausbildung von fliegendem Personal nach § 1 Nummer 1 bis 6 und 9 darf nur durch die folgenden Ausbildungsbetriebe durchgeführt werden:
 
-1. eine Zulassung (genehmigte Ausbildungseinrichtungen),
+1. die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 1 durch
 
-2. eine Genehmigung (Betrieb für die Ausbildung nach § 104),
+a) Ausbildungsbetriebe, die dafür ein Zeugnis nach Anhang VI ARA.GEN.310 der Verordnung (EU) Nr. 1178/2011 besitzen (zugelassene Ausbildungsorganisationen), oder
 
-3. ein Zeugnis nach Anhang VI ARA.GEN.310 der Verordnung (EU) Nr. 1178/2011 (zugelassene Ausbildungsorganisationen – ATO) oder
+b) Ausbildungseinrichtungen nach Anhang VIII der Verordnung (EU) Nr. 1178/2011 (erklärte Ausbildungsorganisationen) nach Abgabe einer Erklärung der Ausbildungsorganisation gemäß Anhang VIII DTO.GEN.115 gegenüber der nach § 26a zuständigen Behörde; soll in der erklärten Ausbildungsorganisation eine Ausbildung von Prüfern von Personal nach § 1 Nummer 1 erfolgen, so bedarf das Ausbildungsprogramm gemäß Anhang VIII DTO.GEN.230 Buchstabe c der Genehmigung durch die nach § 26a zuständige Behörde,
 
-4. eine Genehmigung als Ausbildungsbetrieb nach Anhang IV der Verordnung (EU) Nr. 1321/2014.
+2. die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 2 bis 6 durch Ausbildungsbetriebe, die dafür eine Zulassung besitzen (genehmigte Ausbildungseinrichtungen),
 
-Die Ausbildung von erlaubnispflichtigem Personal in Ausbildungseinrichtungen nach Anhang VIII der Verordnung (EU) Nr. 1178/2011 (erklärte Ausbildungsorganisationen) darf nach Abgabe einer Erklärung der Ausbildungsorganisation gemäß Anhang VIII DTO.GEN.115 gegenüber der nach § 26a zuständigen Behörde durchgeführt werden. Soll in der erklärten Ausbildungsorganisation eine Ausbildung von Prüfern erfolgen, so bedarf das Ausbildungsprogramm gemäß Anhang VIII DTO.GEN.230 Buchstabe c der Genehmigung durch die nach § 26a zuständige Behörde.
+3. die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 9 durch zugelassene Ausbildungsorganisationen.
 
-(2) Die Ausbildung erfolgt:
+(2) Die Ausbildung von technischem Personal nach § 1 Nummer 7 und 8 darf nur durch die folgenden Ausbildungsbetriebe durchgeführt werden:
 
-1. für erlaubnispflichtiges Personal nach § 1 Nummer 2 bis 6 durch genehmigte Ausbildungseinrichtungen,
+1. die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 7 durch Ausbildungsbetriebe, die dafür eine Genehmigung besitzen (Ausbildungsbetrieb für die Ausbildung nach § 106),
 
-2. für erlaubnispflichtiges Personal nach § 1 Nummer 7 durch Betriebe für die Ausbildung nach § 104,
-
-3. für erlaubnispflichtiges Personal nach § 1 Nummer 1 und 9 durch zugelassene Ausbildungsorganisationen,
-
-4. für erlaubnispflichtiges Personal nach § 1 Nummer 1 durch erklärte Ausbildungsorganisationen,
-
-5. für erlaubnispflichtiges Personal nach § 1 Nummer 8 durch Ausbildungsbetriebe nach Anhang IV der Verordnung (EU) Nr. 1321/2014.
+2. die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 8 durch Ausbildungsbetriebe, die eine Genehmigung als Ausbildungsbetrieb nach Anhang IV der Verordnung (EU) Nr. 1321/2014 besitzen.
 
 (3) Die praktische Ausbildung darf, unbeschadet der Erlaubnis nach Absatz 1, nur von Personen vorgenommen werden, die eine Berechtigung zur praktischen Ausbildung von erlaubnispflichtigem Personal besitzen. Dies gilt nicht für die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 7 und 8.
 
@@ -349,25 +355,23 @@ Die Ausbildung von erlaubnispflichtigem Personal in Ausbildungseinrichtungen nac
 
 Die Voraussetzungen für den Erwerb der Erlaubnis zur Ausbildung von erlaubnispflichtigem Personal richten sich für
 
-1. zugelassene Ausbildungsorganisationen für Luftfahrtpersonal nach § 1 Nummer 1 und 9 nach der Verordnung (EU) Nr. 1178/2011,
+1. zugelassene Ausbildungsorganisationen nach der Verordnung (EU) Nr. 1178/2011,
 
-2. genehmigte Ausbildungseinrichtungen für Luftfahrtpersonal nach § 1 Nummer 2 bis 6 nach dieser Verordnung,
+2. genehmigte Ausbildungseinrichtungen nach dieser Verordnung,
 
-3. Betriebe für die Ausbildung von Prüfern von Luftfahrtgerät nach dieser Verordnung,
+3. Ausbildungsbetriebe für die Ausbildung nach § 106 nach dieser Verordnung,
 
 4. Ausbildungsbetriebe für freigabeberechtigtes Personal nach der Verordnung (EU) Nr. 1321/2014.
 
 # § 25 – Form der Ausbildungserlaubnis
 
-Die Ausbildungserlaubnis wird für
+Die Ausbildungserlaubnis wird
 
-1. zugelassene Ausbildungsorganisationen nach der Verordnung (EU) Nr. 1178/2011 in Form eines Zeugnisses nach der Verordnung (EU) Nr. 1178/2011,
+1. für zugelassene Ausbildungsorganisationen in Form eines Zeugnisses nach der Verordnung (EU) Nr. 1178/2011 erteilt,
 
-2. genehmigte Ausbildungseinrichtungen nach § 23 Absatz 2 in Form einer Zulassung oder
+2. für genehmigte Ausbildungseinrichtungen in Form einer Zulassung erteilt,
 
-3. Betriebe für die Ausbildung nach § 104 Absatz 6 und für Ausbildungsbetriebe nach Anhang IV der Verordnung (EU) Nr. 1321/2014 in Form einer Genehmigung
-
-erteilt.
+3. für Betriebe für die Ausbildung von technischem Personal nach § 23 Absatz 2 in Form einer Genehmigung erteilt.
 
 # § 26 – Zuständige Stellen für die Erteilung der Ausbildungserlaubnis
 
@@ -391,11 +395,11 @@ g) Lehrberechtigungen für die Ausbildung für den Erwerb von Klassen- und Muste
 
 h) Berechtigungen nach Anhang I FCL.800 (Kunstflugberechtigung), FCL.805 (Schleppberechtigung), FCL.810 (Nachtflugberechtigung) und FCL.815 (Bergflugberechtigung) der Verordnung (EU) Nr. 1178/2011,
 
-i) Berechtigungen nach Anhang III SFCL.200 (Kunstflugrechte), SFCL.205 (Berechtigung zum Schleppen von Segelflugzeugen und Bannern), SFCL.210 (TMG-Nachtflugberechtigung) und SFCL.215 (Rechte für den Wolkenflug mit Segelflugzeugen) der Durchführungsverordnung (EU) 2018/1976 der Kommission vom 14. Dezember 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Segelflugzeugen sowie für die Lizenzerteilung für die Flugbesatzung von Segelflugzeugen gemäß der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates (ABl. L 326 vom 20.12.2018, S. 64), die zuletzt durch die Durchführungsverordnung (EU) 2020/358 (ABl.L 67 vom 5.3.2020, S. 57) geändert worden ist,
+i) Berechtigungen nach Anhang III SFCL.200 (Kunstflugrechte), SFCL.205 (Berechtigung zum Schleppen von Segelflugzeugen und Bannern), SFCL.210 (TMG-Nachtflugberechtigung) und SFCL.215 (Rechte für den Wolkenflug mit Segelflugzeugen) der Durchführungsverordnung (EU) 2018/1976 der Kommission vom 14. Dezember 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Segelflugzeugen sowie für die Lizenzerteilung für die Flugbesatzung von Segelflugzeugen gemäß der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates (ABl. L 326 vom 20.12.2018, S. 64), die zuletzt durch die Durchführungsverordnung (EU) 2020/358 (ABl. L 67 vom 5.3.2020, S. 57) geändert worden ist,
 
 j) Berechtigungen nach Anhang III BFCL.150 c) 1 der Verordnung (EU) 2018/395 der Kommission vom 13. März 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Ballonen sowie für die Lizenzerteilung für die Flugbesatzungen von Ballonen gemäß der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates (ABl. L 71 vom 14.3.2018, S. 10), die durch die Durchführungsverordnung (EU) 2020/357 (ABl. L 67 vom 5.3.2020, S. 34) geändert worden ist;
 
-2. die Beauftragten nach § 31c Satz 1 Nummer 3 des Luftverkehrsgesetzes für die Erteilung der Zulassung an genehmigte Ausbildungseinrichtungen und für die Erteilung der Genehmigung an Betriebe für die Ausbildung von Personal nach § 104 Absatz 3 Nummer 4;
+2. die Beauftragten nach § 31c Satz 1 Nummer 3 des Luftverkehrsgesetzes für die Erteilung der Zulassung an genehmigte Ausbildungseinrichtungen und für die Erteilung der Genehmigung an Betriebe für die Ausbildung von Personal nach § 106 Absatz 2;
 
 3. das Luftfahrt-Bundesamt für die Erteilung der Ausbildungserlaubnis an alle anderen Ausbildungsbetriebe;
 
@@ -415,7 +419,7 @@ Der Antrag auf Erteilung der Zulassung für genehmigte Ausbildungseinrichtungen 
 
 3. bei juristischen Personen und Personengesellschaften außerdem den Namen und die Anschrift der vertretungsberechtigten Personen.
 
-Für den Antrag auf Erteilung einer Genehmigung als Ausbildungsbetrieb nach § 104 Absatz 6 gelten die Vorgaben des Anhangs IV 147.A.15 der Verordnung (EU) Nr. 1321/2014 entsprechend.
+Für den Antrag auf Erteilung einer Genehmigung als Ausbildungsbetrieb nach § 106 Absatz 3 gelten die Vorgaben des Anhangs IV 147.A.15 der Verordnung (EU) Nr. 1321/2014 entsprechend.
 
 # § 28 – Erteilung und Umfang der Ausbildungserlaubnis
 
@@ -811,155 +815,129 @@ Die Voraussetzungen für die Verlängerung der Berechtigung nach § 88 richten s
 
 # §§ 99 bis 103 – (weggefallen)
 
-# § 104 – Fachliche Voraussetzungen
+# § 104 – Erteilung und Umfang der Erlaubnis für Prüfer von Luftfahrtgerät
 
 (1) Prüfer von Luftfahrtgerät bedürfen einer Prüferlaubnis.
 
-(2) Fachliche Voraussetzungen für den Erwerb der Prüferlaubnis Klassen 1 bis 5 sind
+(2) Die Erlaubnis wird durch Aushändigung des Ausweises für Prüfer von Luftfahrtgerät der Klasse 4 oder 5 erteilt. Die Erlaubnis für Prüfer von Luftfahrtgerät berechtigt:
 
-1. eine Berufsausbildung,
+1. in der Klasse 4 zur Freigabe nach Instandhaltung von Flugmotoren, Bordhilfsmotoren (APU), Luftschrauben und Flugsicherungsausrüstung,
 
-2. eine beruflich ausgeübte praktische Tätigkeit an Luftfahrtgerät,
+2. in der Klasse 5 zur Stück- und Nachprüfung von Ultraleichtflugzeugen, Ultraleichten Tragschraubern oder von Ultraleichthubschraubern.
 
-3. die theoretische Ausbildung,
+(3) Die Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 4 wird für bestimmte Gerätearten und Muster erteilt. Die Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 5 für Ultraleichtflugzeuge, Ultraleichte Tragschrauber oder Ultraleichthubschrauber wird erteilt für die Fachrichtungen
 
-4. die praktische Ausbildung.
+1. Flugwerk mit Triebwerk,
 
-(3) Die fachlichen Voraussetzungen nach Absatz 2 Nummer 1 und 2 sind
+2. elektronische Ausrüstung und
 
-1. für die Prüferlaubnis Klasse 1
-
-a) der erfolgreiche Besuch einer staatlichen oder staatlich anerkannten Technikerschule oder einer Fachhochschule oder wissenschaftlichen Hochschule einschlägiger Fachrichtung oder ein Abschluss in einem anerkannten Ausbildungsberuf in einem der Prüfertätigkeit förderlichen Fachgebiet,
-
-b) eine der beantragten Fachrichtung entsprechende berufliche Tätigkeit von drei Jahren in der Instandhaltung von Luftfahrzeugen des beantragten oder eines ähnlichen Musters oder eine der beantragten Fachrichtung entsprechende berufliche Tätigkeit von fünf Jahren bei der Durchführung von Arbeiten im Rahmen der Instandhaltung nach § 12 der Verordnung zur Prüfung von Luftfahrtgerät an Luftfahrzeugen des beantragten oder eines ähnlichen Musters; zwölf Monate dieser beruflichen Tätigkeit müssen innerhalb der letzten 24 Monate vor Stellung des Antrags auf Erteilung der Erlaubnis in einem anerkannten Hersteller-, Instandhaltungs- oder luftfahrttechnischen Betrieb ausgeübt worden sein;
-
-2. für die Prüferlaubnis Klasse 3
-
-a) ein Abschluss in einem anerkannten Ausbildungsberuf in einem für die Prüfertätigkeit förderlichen Fachgebiet,
-
-b) eine berufliche Tätigkeit von drei Jahren im Bereich der Instandhaltung von Luftfahrtgerät der beantragten oder einer technisch ähnlichen Art, davon zwölf Monate innerhalb der letzten 24 Monate vor Stellung des Antrags auf Erteilung der Erlaubnis in einem anerkannten Instandhaltungs- oder luftfahrttechnischen Betrieb;
-
-3. für die Prüferlaubnis Klasse 4
-
-a) ein Abschluss in einem anerkannten Ausbildungsberuf in einem für die Prüfertätigkeit förderlichen Fachgebiet,
-
-b) eine berufliche Tätigkeit von drei Jahren bei der Instandhaltung oder Prüfung der Art von Luftfahrtgerät, für das die Prüferlaubnis erteilt werden soll;
-
-4. für die Prüferlaubnis Klasse 5
-
-a) ein Abschluss in einem anerkannten Ausbildungsberuf in einem für die Prüfertätigkeit förderlichen Fachgebiet,
-
-b) eine berufliche Tätigkeit von zwei Jahren im Bereich der Instandhaltung von Ultraleichtflugzeugen oder Ultraleichthubschraubern, davon sechs Monate innerhalb der letzten 24 Monate vor Stellung des Antrags auf Erteilung der Erlaubnis in einem Instandhaltungsbetrieb.
-
-(4) Die theoretische Ausbildung erstreckt sich auf
-
-1. Rechts- und Verwaltungsvorschriften, die das Prüfwesen betreffen,
-
-2. Luftfahrttechnik über Funktion und Aufbau der Art von Luftfahrtgerät, für das die Prüferlaubnis erteilt werden soll.
-
-(5) Die praktische Ausbildung erstreckt sich auf Prüf- und Arbeitsverfahren, die der Prüfer bei der Instandhaltung von Luftfahrtgerät anzuwenden oder zu beurteilen hat.
-
-(6) Betriebe, die eine Ausbildung nach den Absätzen 4 und 5 durchführen, bedürfen der Genehmigung durch das Luftfahrt-Bundesamt.
-
-# § 105 – Ersetzbarkeit der Berufsausbildung
-
-Die in § 104 Abs. 2 geforderte Berufsausbildung kann ersetzt werden
-
-a) bei der Prüferlaubnis Klasse 1 durch mindestens zwei Jahre Tätigkeit als Prüfer Klasse 3 und den erfolgreichen Besuch eines vom Luftfahrt-Bundesamt anerkannten Erweiterungslehrgangs,
-
-b) bei den Prüferlaubnissen der Klasse 3, 4 oder 5 durch den Abschluss einer staatlichen oder staatlich anerkannten Technikerschule oder einer Fach- oder wissenschaftlichen Hochschule einschlägiger Fachrichtung.
-
-# § 106 – Anrechenbarkeit, Ersetzbarkeit der beruflichen Tätigkeit
-
-(1) Die zuständige Stelle kann auf die in § 104 Abs. 2 geforderten beruflichen Tätigkeiten eine gleichwertige oder der beruflichen Tätigkeit förderliche Beschäftigungszeit bis zu einem Jahr anrechnen.
-
-(2) Bei Bewerbern um die Erlaubnis Klasse 3 oder Klasse 5 kann von dem Nachweis der beruflichen Tätigkeit nach § 104 Absatz 3 Nummer 2 Buchstabe b oder Nummer 4 Buchstabe b abgesehen werden, wenn eine gleichwertige Tätigkeit nichtberufsmäßig bei einem anerkannten Instandhaltungsbetrieb oder bei einem Herstellerbetrieb für Luftsportgerät ausgeübt wurde.
-
-(3) (weggefallen)
-
-# § 107 – Prüfung
-
-(1) Der Bewerber hat in einer Prüfung nachzuweisen, daß er nach seinem fachlichen Wissen und seinem praktischen Können die an einen Prüfer von Luftfahrtgerät zu stellenden Anforderungen erfüllt.
-
-(2) (weggefallen)
-
-# § 108 – Erteilung und Umfang der Erlaubnis, Ausweis für Prüfer von Luftfahrtgerät
-
-(1) Die Erlaubnis wird durch Aushändigung des Ausweises für Prüfer von Luftfahrtgerät in den Klassen 1 bis 5 wie folgt erteilt:
-
-1. Klasse 1 für die Freigabe nach Instandhaltung von Luftschiffen,
-
-2. Klasse 3 für die Freigabe nach Instandhaltung von Flugzeugen mit einer höchstzulässigen Abflugmasse bis 750 Kilogramm, Motorseglern, Segelflugzeugen und Ballonen,
-
-3. Klasse 4 für die Freigabe nach Instandhaltung von Flugmotoren, Bordhilfsmotoren (APU), Luftschrauben und Flugsicherungsausrüstung,
-
-4. Klasse 5 für die Stück- und Nachprüfung von Ultraleichtflugzeugen einschließlich der Rettungsgeräte oder von Ultraleichthubschraubern.
-
-(2) Gültige Erlaubnisse von Prüfern für Luftfahrtgerät der bisherigen Klasse 2 für Luftschiffe werden von der zuständigen Stelle auf Antrag in Klasse 1 umgeschrieben. Gültige Erlaubnisse von Prüfern für Luftfahrtgerät der Klassen 1 und 2 für Flugzeuge und Drehflügler werden von der zuständigen Stelle auf Antrag in Lizenzen für freigabeberechtigtes Personal umgeschrieben. Mustereintragungen für nationale Muster von Flugzeugen und Drehflüglern erfolgen in einer Ergänzung zum Berechtigungsumfang als nationaler Anhang gemäß § 111a Absatz 1.
-
-(3) Die Erlaubnis wird erteilt
-
-1. für bestimmte Gerätearten und Muster;
-
-2. für bestimmte Fachrichtungen
-
-a) bei den Klassen 1 und 3 für Flugzeuge mit einer höchstzulässigen Abflugmasse bis 750 Kilogramm und für Motorsegler für die Fachrichtung Flugwerk, Triebwerk und elektronische Ausrüstung,
-
-b) bei Klasse 3 für Segelflugzeuge und Ballone für die Fachrichtung Flugwerk und elektronische Ausrüstung,
-
-c) bei Klasse 5 für aerodynamisch gesteuerte Ultraleichtflugzeuge und Tragschrauber für die Fachrichtung Flugwerk mit Triebwerk und elektronische Ausrüstung.
+3. Rettungsgeräte.
 
 (4) Die Erlaubnis berechtigt zur Ausübung der Tätigkeit als Prüfer nach Maßgabe der Verordnung zur Prüfung von Luftfahrtgerät.
 
-(5) Das Luftfahrt-Bundesamt legt die Form der Erlaubnis der Klassen 1, 3 und 4 fest und veröffentlicht diese in den Nachrichten für Luftfahrer. Die Form der Erlaubnis der Klasse 5 richtet sich nach Muster 9a.
+(5) Das Luftfahrt-Bundesamt legt die Form der Erlaubnis der Klasse 4 fest und veröffentlicht sie in den Nachrichten für Luftfahrer. Die Form der Erlaubnis der Klasse 5 richtet sich nach Muster 9a der Anlage 1 zu dieser Verordnung.
 
-# § 109 – Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis
+(6) Gültige Erlaubnisse für Prüfer von Luftfahrtgerät der bisherigen Klasse 1 für die Freigabe nach Instandhaltung von Luftschiffen und der bisherigen Klasse 3 für die Freigabe nach Instandhaltung von Flugzeugen mit einer höchstzulässigen Abflugmasse bis 750 Kilogramm, Motorseglern, Segelflugzeugen und Ballonen werden von der zuständigen Stelle auf Antrag in Lizenzen für freigabeberechtigtes Personal umgewandelt. Mustereintragungen für nationale Muster erfolgen nach § 111a Absatz 1 als Erweiterung des Berechtigungsumfanges in einem nationalen Lizenzanhang.
 
-(1) Die Erlaubnis wird mit einer Gültigkeitsdauer von 5 Jahren erteilt.
+# § 105 – Musterberechtigung für Prüfer von Luftfahrtgerät
 
-(2) Eine noch gültige Erlaubnis kann um 5 Jahre verlängert werden, wenn der Bewerber eine mindestens halbjährige hauptberufliche Tätigkeit oder gleichwertige nebenberufliche Tätigkeit im Umfang der Erlaubnis als Prüfer nach § 108 Absatz 4 innerhalb der letzten 24 Monate vor Ablauf der Gültigkeit nachweist. Der Nachweis ist durch ein Prüfbuch oder andere regelmäßig geführte Aufzeichnungen zu führen.
+(1) Prüfer von Luftfahrtgerät der Klasse 4 bedürfen für die Ausübung der Prüftätigkeit an Luftfahrtgerät einer Musterberechtigung. Für Prüfer von Luftfahrtgerät der Klasse 5 ist eine Musterberechtigung nicht vorgesehen.
 
-(3) Der Umfang einer Erlaubnis, die innerhalb der letzten 24 Monate vor Ablauf der Gültigkeit nicht ausreichend ausgeübt wurde, kann beschränkt werden oder ihre Verlängerung kann von einer Überprüfung des Bewerbers durch einen von der zuständigen Stelle anerkannten Sachverständigen abhängig gemacht werden.
+(2) Die Musterberechtigung wird durch Eintragung in den Ausweis für Prüfer von Luftfahrtgerät erteilt. Die Musterberechtigung kann mit Auflagen versehen werden.
 
-(4) Eine Erlaubnis, deren Gültigkeit abgelaufen ist, kann erneuert werden, wenn der Bewerber innerhalb der letzten 12 Monate vor Stellung des Antrages auf Erneuerung der Erlaubnis an der Art von Luftfahrzeugen, an denen die Prüftätigkeit erfolgen soll, in einem anerkannten Instandhaltungsbetrieb 6 Monate tätig war. Die Erneuerung kann von einer Überprüfung des Bewerbers durch einen von der Erlaubnisbehörde bestimmten Sachverständigen abhängig gemacht werden.
-
-(5) Bei einer Verlängerung oder Erneuerung der Gültigkeitsdauer einer Erlaubnis, die vor Inkrafttreten dieser Verordnung erteilt wurde, kann die Erlaubnisbehörde den Nachweis von englischen Sprachkenntnissen gemäß § 110 Abs. 5 verlangen.
-
-(6) Gültigkeitsdauer und Verlängerung des nationalen Anhangs von Lizenzen für freigabeberechtigtes Personal richten sich nach der Verordnung (EU) Nr. 1321/2014.
-
-# § 110 – Musterberechtigung für Prüfer von Luftfahrtgerät
-
-(1) Prüfer von Luftfahrtgerät bedürfen für die Ausübung der Prüfertätigkeit an Luftfahrzeugen und Luftfahrtgerät der Musterberechtigung. Eine Musterberechtigung für die Prüferlaubnis Klasse 5 ist nicht vorgesehen.
-
-(2) Für Prüfer der Klassen 1 und 3 ist fachliche Voraussetzung für den Erwerb der Musterberechtigung, dass der Prüfer innerhalb der letzten zwei Jahre vor Antragstellung praktisch an diesem Muster in die Aufgaben der Nachprüfung eingewiesen wurde und mindestens sechs Monate im Bereich der Herstellung oder Instandhaltung des Musters in einem anerkannten Instandhaltungsbetrieb tätig war; Zeiten der Teilnahme an einem Lehrgang können berücksichtigt werden. Die Einweisung hat sich auf die Kenntnis des Aufbaus, der Funktion und Instandhaltung des Luftfahrzeugmusters zu erstrecken. Sie ist von einem Instandhaltungsbetrieb oder einer anerkannten Ausbildungsstelle zu bescheinigen. Die ausbildende Stelle hat zu bescheinigen, dass die Einweisung nach den für das Muster geltenden Richtlinien und Verfahren der Prüfung mit Erfolg durchgeführt wurde. Die Erlaubnisbehörde kann Einsicht in die Ausbildungsunterlagen verlangen.
-
-(3) Für Prüfer der Klasse 4 gilt für die Erteilung der Musterberechtigung die fachliche Voraussetzung nach § 104 Abs. 2 Nr. 4.
+(3) Für die Erteilung der Musterberechtigung gilt die fachliche Voraussetzung nach § 106 Absatz 1 Nummer 1 Buchstabe d.
 
 (4) Die Erlaubnisbehörde kann die Erteilung der Musterberechtigung von einer theoretischen und praktischen Prüfung oder von einer Überprüfung durch einen von ihr bestimmten Sachverständigen abhängig machen.
 
-(5) Liegen technische Unterlagen für den Betrieb und die Instandhaltung des Musters nur in englischer Sprache vor, hat der Bewerber bei der Prüfung oder Überprüfung nach Absatz 4 nachzuweisen, daß er diese technischen Unterlagen lesen und verstehen kann.
+(5) Liegen technische Unterlagen für den Betrieb und die Instandhaltung des Musters nicht in deutscher Sprache vor, so hat der Bewerber bei der Prüfung oder Überprüfung nach Absatz 4 nachzuweisen, dass er diese technischen Unterlagen lesen und verstehen kann.
 
-(6) In besonderen Fällen, insbesondere bei Neuentwicklungen, können Musterberechtigungen ohne die Voraussetzung der Absätze 2 und 3 erteilt werden, wenn hierdurch die Sicherheit des Luftverkehrs und die öffentliche Sicherheit und Ordnung nicht gefährdet werden.
+(6) In besonderen Fällen, insbesondere bei Neuentwicklungen oder historischen Mustern, können Musterberechtigungen ohne die Voraussetzungen der Absätze 3 und 4 erteilt werden, wenn hierdurch die Sicherheit des Luftverkehrs und die öffentliche Sicherheit und Ordnung nicht gefährdet werden.
 
-# § 111 – Erteilung und Umfang der Musterberechtigung
+(7) Die Erlaubnisbehörde kann für die Erlaubnis der Klasse 4 eine Sammeleintragung für eine größere Anzahl von Einzelmustern, die ähnlich in Aufbau, Leistung und Funktion sind, erteilen.
 
-(1) Die Musterberechtigung für Prüfer von Luftfahrtgerät wird durch Eintragung in den Ausweis für Prüfer von Luftfahrtgerät erteilt. Die Musterberechtigung kann mit Auflagen versehen werden.
+# § 106 – Fachliche Voraussetzungen für die Erteilung der Erlaubnis
 
-(2) Die Erlaubnisbehörde kann für die Erlaubnis Klasse 3 eine Sammeleintragung für eine größere Anzahl von Einzelmustern, die ähnlich in Aufbau, Leistung und Funktion sind, erteilen.
+(1) Die fachlichen Voraussetzungen für den Erwerb der Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 4 sind:
 
-(3) (weggefallen)
+1. eine abgeschlossene Berufsausbildung in einem anerkannten Ausbildungsberuf in einem für die Prüftätigkeit förderlichen Fachgebiet,
 
-# § 111a – Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis
+2. Erfahrungen in der Instandhaltung von Luftfahrtgerät durch eine berufliche Tätigkeit von drei Jahren bei der Instandhaltung oder Prüfung der Art von Luftfahrtgerät, für das die Erlaubnis erteilt werden soll; dabei müssen mindestens sechs Monate Erfahrung innerhalb der letzten zwölf Monate vor Stellung des Antrags auf Erteilung der Erlaubnis gewonnen worden sein,
 
-(1) Das freigabeberechtigte Personal bedarf einer Lizenz zur Ausübung der Prüf- und Zulassungstätigkeit. Die fachlichen Voraussetzungen, die Art und der Umfang für den Erwerb der Lizenzen als freigabeberechtigtes Personal richten sich nach Anhang III der Verordnung (EU) Nr. 1321/2014. Das Luftfahrt-Bundesamt stellt auf Antrag eine Erweiterung des Berechtigungsumfangs um Luftfahrzeuge nach § 1 Absatz 1 der Luftverkehrs-Zulassungs-Ordnung aus, sofern die Voraussetzungen für die Erteilung der Berechtigung nach § 110 erbracht wurden.
+3. ein Nachweis über das geforderte Grundwissen; Umfang und Inhalt des geforderten Grundwissens werden vom Luftfahrt-Bundesamt festgelegt und in den Nachrichten für Luftfahrer veröffentlicht, und
 
-(2) Betriebe, die eine Ausbildung von freigabeberechtigtem Personal nach Absatz 1 durchführen, bedürfen der Genehmigung durch das Luftfahrt-Bundesamt. Die fachlichen Voraussetzungen, die Erteilung und der Umfang der Genehmigung richten sich nach Anhang IV der Verordnung (EU) Nr. 1321/2014.
+4. eine praktische Ausbildung in einem repräsentativen Querschnitt der Prüf- und Arbeitsverfahren, die der Prüfer bei der Instandhaltung von Luftfahrtgerät anzuwenden oder zu beurteilen hat.
 
-(3) Genehmigungen zur Ausbildung von freigabeberechtigtem Personal, die durch die Europäische Agentur für Flugsicherheit, durch einen Mitgliedstaat der Europäischen Union oder einen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach Anhang IV der Verordnung (EU) Nr. 1321/2014 erteilt wurden, sind in der Bundesrepublik Deutschland allgemein anerkannt. Das Luftfahrt-Bundesamt stellt auf Antrag eine Erweiterung zu der Genehmigung für die Ausbildung von freigabeberechtigtem Personal mit Berechtigungen für Luftfahrzeuge nach § 1 Absatz 1 der Luftverkehrs-Zulassungs-Ordnung aus, sofern die Voraussetzungen für die Erteilung der Erweiterung nach § 104 erbracht wurden.
+(2) Die fachlichen Voraussetzungen für den Erwerb der Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 5 sind:
+
+1. eine abgeschlossene Berufsausbildung, in einem anerkannten Ausbildungsberuf in einem für die Prüftätigkeit förderlichen Fachgebiet,
+
+2. eine beruflich ausgeübte praktische Tätigkeit von zwei Jahren im Bereich der Instandhaltung von Ultraleichtflugzeugen oder Ultraleichthubschraubern, davon sechs Monate innerhalb der letzten 24 Monate vor Stellung des Antrags auf Erteilung der Erlaubnis in einem Instandhaltungsbetrieb,
+
+3. eine theoretische Ausbildung, die sich erstreckt auf
+
+a) Rechts- und Verwaltungsvorschriften, die das Prüfwesen betreffen,
+
+b) Luftfahrttechnik betreffend die Funktion und den Aufbau der Art von Luftfahrtgerät, für das die Erlaubnis erteilt werden soll, und
+
+4. eine praktische Ausbildung, die sich auf Prüf- und Arbeitsverfahren erstreckt, die der Prüfer bei der Instandhaltung von Luftfahrtgerät anzuwenden oder zu beurteilen hat.
+
+(3) Betriebe, die eine Ausbildung zur Erfüllung der Voraussetzungen nach Absatz 1 Nummer 3 oder 4 oder nach Absatz 2 Nummer 3 oder 4 durchführen, bedürfen der Genehmigung durch die nach § 5 zuständige Stelle.
+
+# § 107 – Ersetzbarkeit der Berufsausbildung
+
+Die Berufsausbildung nach § 106 Absatz 1 Nummer 1 oder Absatz 2 Nummer 1 kann ersetzt werden
+
+1. bei der Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 4 durch
+
+a) den Abschluss einer staatlichen oder staatlich anerkannten Technikerschule,
+
+b) den Abschluss einer Fachhochschule oder wissenschaftlichen Hochschule einschlägiger Fachrichtung oder
+
+c) mindestens zwei zusätzliche Jahre relevante Erfahrung in der Instandhaltung oder Prüfung von Luftfahrtgerät zusätzlich zu der nach § 106 Absatz 1 Nummer 2 geforderten Erfahrung,
+
+2. bei der Erlaubnis für Prüfer von Luftfahrtgerät der Klasse 5 durch
+
+a) den Abschluss einer staatlichen oder staatlich anerkannten Technikerschule oder
+
+b) den Abschluss einer Fachhochschule oder wissenschaftlichen Hochschule einschlägiger Fachrichtung.
+
+# § 108 – Anrechenbarkeit praktischer Erfahrung, Ersetzbarkeit der beruflichen Tätigkeit
+
+(1) Die zuständige Stelle kann auf die Erfahrung in der Instandhaltung von Luftfahrtgerät nach § 106 Absatz 1 Nummer 2 oder auf die beruflich ausgeübte Tätigkeit nach § 106 Absatz 2 Nummer 2 eine gleichwertige, den Anforderungen förderliche Beschäftigungszeit bis zu einem Jahr anrechnen.
+
+(2) Bei Bewerbern um die Erlaubnis der Klasse 5 kann von dem Nachweis der beruflichen Tätigkeit nach § 106 Absatz 2 Nummer 2 abgesehen werden, wenn eine gleichwertige Tätigkeit nichtberufsmäßig bei einem anerkannten Instandhaltungsbetrieb oder bei einem Herstellerbetrieb für Luftsportgerät ausgeübt wurde.
+
+# § 109 – Prüfung
+
+Der Bewerber hat in einer Prüfung nachzuweisen, dass er nach seinem fachlichen Wissen und seinem praktischen Können die Anforderungen erfüllt, die an einen Prüfer von Luftfahrtgerät zu stellen sind.
+
+# § 110 – Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis
+
+(1) Die Erlaubnis wird mit einer Gültigkeitsdauer von fünf Jahren erteilt.
+
+(2) Eine noch gültige Erlaubnis kann um fünf Jahre verlängert werden, wenn der Bewerber eine mindestens halbjährige hauptberufliche Tätigkeit oder eine gleichwertige nebenberufliche Tätigkeit im Umfang der Erlaubnis als Prüfer nach § 104 Absatz 4 innerhalb der letzten 24 Monate vor Ablauf der Gültigkeit nachweist. Der Nachweis ist durch ein Prüfbuch oder andere regelmäßig geführte Aufzeichnungen zu führen.
+
+(3) Der Umfang einer Erlaubnis, deren Rechte innerhalb der letzten 24 Monate vor Ablauf der Gültigkeit nicht ausreichend ausgeübt wurden, kann beschränkt werden. Die Verlängerung einer Erlaubnis, deren Rechte innerhalb der letzten 24 Monate vor Ablauf der Gültigkeit nicht ausreichend ausgeübt wurden, kann von einer Überprüfung des Bewerbers durch einen von der zuständigen Stelle anerkannten Sachverständigen abhängig gemacht werden.
+
+(4) Eine Erlaubnis, deren Gültigkeit abgelaufen ist, kann erneuert werden, wenn der Bewerber innerhalb der letzten zwölf Monate vor Stellung des Antrags auf Erneuerung der Erlaubnis in der Instandhaltung an der Art von Luftfahrzeugen, an denen die Prüftätigkeit erfolgen soll, sechs Monate tätig war. Die Erneuerung kann von einer Überprüfung des Bewerbers durch einen von der Erlaubnisbehörde bestimmten Sachverständigen abhängig gemacht werden.
+
+(5) Bei einer Verlängerung oder Erneuerung der Gültigkeitsdauer einer Erlaubnis, die vor Inkrafttreten dieser Verordnung erteilt wurde, kann die Erlaubnisbehörde den Nachweis von Sprachkenntnissen gemäß § 105 Absatz 5 verlangen.
+
+(6) Gültigkeitsdauer und Verlängerung des nationalen Anhangs von Lizenzen für freigabeberechtigtes Personal richten sich nach der Verordnung (EU) Nr. 1321/2014.
+
+# § 111 – (weggefallen)
+
+# § 111a – Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis für freigabeberechtigtes Personal
+
+(1) Das freigabeberechtigte Personal bedarf einer Lizenz zur Ausübung der Prüf- und Zulassungstätigkeit. Die fachlichen Voraussetzungen, die Art und der Umfang für den Erwerb der Lizenzen als freigabeberechtigtes Personal richten sich nach Anhang III der Verordnung (EU) Nr. 1321/2014. Das Luftfahrt-Bundesamt stellt auf Antrag eine Erweiterung des Berechtigungsumfangs um Luftfahrzeuge nach § 1 Absatz 1 der Luftverkehrs-Zulassungs-Ordnung aus, sofern die Voraussetzungen für die Erteilung der Berechtigung nach § 105 erbracht wurden.
+
+(2) Betriebe, die eine Ausbildung von freigabeberechtigtem Personal nach Absatz 1 durchführen, bedürfen der Genehmigung durch das Luftfahrt-Bundesamt. Die fachlichen Voraussetzungen, die Erteilung und der Umfang der Genehmigung richten sich nach Anhang IV der Verordnung (EU) Nr. 1321/2014. Das Luftfahrt-Bundesamt stellt auf Antrag eine Erweiterung der Genehmigung um die Ausbildung von freigabeberechtigtem Personal mit Berechtigungen für Luftfahrzeuge nach § 1 Absatz 1 der Luftverkehrs-Zulassungs-Ordnung aus, sofern die Voraussetzungen nach § 24 Nummer 3 dieser Verordnung erfüllt sind.
+
+(3) Genehmigungen zur Ausbildung von freigabeberechtigtem Personal, die durch die Europäische Agentur für Flugsicherheit, durch einen Mitgliedstaat der Europäischen Union oder einen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach Anhang IV der Verordnung (EU) Nr. 1321/2014 erteilt wurden, sind in der Bundesrepublik Deutschland allgemein anerkannt.
 
 (4) Die Zulassung nach Absatz 1, 2 oder 3 kann mit Auflagen verbunden, beschränkt oder befristet werden. Sie ist ganz oder teilweise zu widerrufen, wenn die Voraussetzungen für ihre Erteilung nachträglich entfallen sind oder die erteilten Auflagen nicht eingehalten werden.
 
-(5) Lizenzen für freigabeberechtigtes Personal, die nach den Bestimmungen der Verordnung (EU) Nr. 1321/2014 erteilt wurden, berechtigen auch zur Freigabe von Luftfahrtgerät, das nicht in den Anwendungsbereich des Rechts der Europäischen Union fällt. Die Gruppenberechtigungen nach Anhang III der Verordnung (EU) Nr. 1321/2014 sind dabei nur für Flugzeuge mit einer höchstzulässigen Startmasse bis 5 700 Kilogramm sowie für einmotorige Drehflügler anzuwenden.
+(5) Lizenzen für freigabeberechtigtes Personal, die nach den Bestimmungen der Verordnung (EU) Nr. 1321/2014 erteilt wurden, berechtigen auch zur Freigabe von Luftfahrtgerät, das nicht in den Anwendungsbereich des Rechts der Europäischen Union fällt. Die Gruppenberechtigungen nach Anhang III der Verordnung (EU) Nr. 1321/2014 sind dabei nur für Luftfahrzeuge mit einer höchstzulässigen Startmasse bis 5 700 Kilogramm, ausgenommen mehrmotorige Hubschrauber, anzuwenden.
 
 # § 112 – Fachliche Voraussetzungen
 
@@ -1189,11 +1167,11 @@ Zuständige Stellen für Verwaltungstätigkeiten nach dieser Verordnung sind die
 
 (1) Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 11 Satz 1, § 45 Absatz 2 Satz 1 oder Absatz 4 Satz 1 oder § 65 Absatz 2 Satz 1 ein dort genanntes Recht ausübt,
+1. entgegen § 11 Absatz 1 Satz 1, § 45 Absatz 2 Satz 1 oder Absatz 4 Satz 1 oder § 65 Absatz 2 Satz 1 ein dort genanntes Recht ausübt,
 
 2. entgegen § 45a Satz 1, auch in Verbindung mit Satz 2, ein Luftsportgerät führt,
 
-3. ohne Berechtigung nach § 77 Absatz 1 Satz 1, § 84 Absatz 1, § 84a Absatz 1 oder § 110 Absatz 1 Satz 1 eine dort genannte Tätigkeit ausübt,
+3. ohne Berechtigung nach § 77 Absatz 1 Satz 1, § 84 Absatz 1, § 84a Absatz 1 oder § 105 Absatz 1 Satz 1 eine dort genannte Tätigkeit ausübt,
 
 4. ohne Erlaubnis nach § 104 Absatz 1 ein Luftfahrtgerät prüft,
 
@@ -1313,10 +1291,14 @@ Fundstelle: BGBl. I 2003, 223)
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,  
 Fundstelle: BGBl. I 2003, 225)
 
-# Muster 9a – Luftfahrerschein für Fallschirmspringer
+# Muster 9a – Ausweis für Prüfer von Luftsportgerät
 
-(Inhalt: nicht darstellbares Muster eines Ausweises,  
-Fundstelle: BGBl. I 1993, 768)
+(Fundstelle: BGBl. I 1993, 768;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j5196_0010.jpg)
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1993/j0768_0020.jpg)
 
 # Muster 10 – Luftfahrerschein für Flugdienstberater
 

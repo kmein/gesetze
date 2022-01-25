@@ -15,7 +15,7 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 13 des Luftverkehrsgesetzes in der Fassung
 
 (1) Die gebührenpflichtigen Amtshandlungen und die Gebührensätze ergeben sich aus dem anliegenden Gebührenverzeichnis, soweit nichts anderes bestimmt ist.
 
-(2) Wird eine Zulassung, Erlaubnis, Berechtigung, Genehmigung, Zustimmung, Anerkennung, Registrierung oder ein Zeugnis erneuert, geändert, erweitert oder die Gültigkeit verlängert, so wird eine Gebühr in Höhe von einem Zehntel bis zu fünf Zehnteln der Gebühr erhoben, die für die Erteilung erhoben werden müsste, soweit im Gebührenverzeichnis nichts Abweichendes geregelt ist. Für die Beschränkung oder die Anordnung des Ruhens auf Zeit werden zwei Drittel der Gebühr erhoben.
+(2) Wird eine Zulassung, Erlaubnis, Berechtigung, Genehmigung, Zustimmung, Anerkennung oder Registrierung oder ein Zeugnis erneuert, geändert, erweitert oder die Gültigkeit verlängert, so wird eine Gebühr in der Höhe von einem Zehntel bis zu fünf Zehnteln der Gebühr erhoben, die für die Erteilung erhoben werden müsste, soweit im Gebührenverzeichnis nichts Abweichendes geregelt ist. Für die Beschränkung, die Einschränkung, die Anordnung des Ruhens auf Zeit oder die Aussetzung der jeweils in Satz 1 genannten Rechtsakte werden zwei Drittel der Gebühr erhoben, die für die Erteilung erhoben werden müsste.
 
 (3) Stellt ein Unternehmen Anträge, die der Gebührenpflicht nach Abschnitt III oder IV des Gebührenverzeichnisses unterliegen, für mehrere Mitarbeiter und erklärt es sich zur Übernahme der Kosten bereit, findet § 5 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung Anwendung.
 
@@ -95,7 +95,7 @@ EU-OPS 1 (Anhang III der Verordnung (EWG) Nr. 3922/91 des Rates vom 16. Dezember
   
   
 
-I. Anerkennungen, Genehmigungen und Ermächtigungen bei der Entwicklung, Herstellung oder Instandhaltung von Luftfahrtgerät
+I. Anerkennungen, Genehmigungen und Ermächtigungen im Rahmen der Entwicklung, Herstellung und Aufrechterhaltung der Lufttüchtigkeit einschließlich Instandhaltung von Luftfahrtgerät
 
   
   
@@ -156,7 +156,7 @@ Gebühr
 
  1.
 
-Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal, einschließlich gleichzeitig einzutragender Klassen- und Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr. 1321/2014)
+Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal, einschließlich gleichzeitig einzutragender Klassen- und Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011)
 
 50 bis 70 EUR
 
@@ -168,7 +168,7 @@ Erteilung und Aufhebung einer Beschränkung der Erlaubnis für Luftfahrzeugführ
 
  3.
 
-Erteilung von Klassen- und Musterberechtigungen (Anhang I Abschnitt H, Anhang V CC.TRA.225 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr. 1321/2014; §§ 108, 110 LuftPersV)
+Erteilung von Klassen- und Musterberechtigungen (Anhang I Abschnitt H, Anhang V CC.TRA.225 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011)
 
 40 bis 100 EUR
 
@@ -246,9 +246,9 @@ Prüfung der Erklärung und Mitteilung der Registrierung von erklärten Ausbildu
 
 11\.
 
-Verlängerung eines Ausweises für Prüfer von Luftfahrtgerät oder einer Lizenz für freigabeberechtigtes Personal in Verbindung mit der Erneuerung der Prüfererlaubnis (§§ 109, 111a LuftPersV; Anhang III 66.A.40 der Verordnung (EU) Nr. 1321/2014)
+Ausstellung eines Ausweises für Prüfer von Luftfahrtgerät oder einer Lizenz für freigabeberechtigtes Personal in Verbindung mit Ersterteilung, Änderung, Verlängerung oder Erneuerung der Erlaubnis (§§ 8, 104, 105, 110 und 111a LuftPersV; Artikel 6 der Verordnung (EU) Nr. 1321/2014)
 
-40 EUR
+40 bis 110 EUR
 
 12\.
 
@@ -2080,9 +2080,69 @@ Anerkennung von Prüfern (Anhang I FCL.1025 und Anhang VI ARA.FCL.200 der Verord
 
 28\.
 
-Anerkennung von Lehrgängen und technischen Schulen für Prüfer von Luftfahrtgerät oder freigabeberechtigtes Personal (Artikel 6 der Verordnung (EU) Nr. 1321/2014)
+Genehmigung, Änderung der Genehmigung oder Überwachung von Ausbildungsbetrieben und von Lehrgängen für Prüfer von Luftfahrtgerät (§§ 23 bis 32 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 sowie Anhang IV der Verordnung (EU) Nr. 1321/2014)
+
+ 
+
+ 
+
+a)
+
+Genehmigung oder Änderung der Genehmigung von Ausbildungsbetrieben und von Lehrgängen für Prüfer von Luftfahrtgerät (§§ 23 bis 32 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 sowie Anhang IV der Verordnung (EU) Nr. 1321/2014)
 
 200 bis 2 200 EUR
+
+ 
+
+b)
+
+Anerkennung von Leitungspersonal von Ausbildungsbetrieben für Prüfer von Luftfahrtgerät (§§ 27 und 28 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 und Anhang IV der Verordnung (EU) Nr. 1321/2014)
+
+200 EUR
+
+ 
+
+c)
+
+Anerkennung einer Einzelmaßnahme zur Ausbildung von Prüfern von Luftfahrtgerät (§ 23 LuftPersV) und von freigabeberechtigtem Personal (Artikel 5 und Anhang III der Verordnung (EU) Nr. 1321/2014)
+
+200 bis 1 400 EUR
+
+ 
+
+d)
+
+Anerkennung oder Änderung von
+
+aa)  
+Verfahren oder
+
+bb)  
+Einzelmaßnahmen
+
+ 
+
+ 
+
+ 
+
+zur Ausbildung am Arbeitsplatz (On-the-Job-Training) für freigabeberechtigtes Personal (Artikel 5, Anhang III sowie Anlage III der Verordnung (EU) aaNr. 1321/2014)
+
+100 bis 1 000 EUR
+
+ 
+
+e)
+
+Überwachung der Einhaltung der Bestimmungen
+
+aa)  
+für die Verlängerung der Genehmigung von Ausbildungsbetrieben, Lehrgängen und Verfahren zur Ausbildung am Arbeitsplatz nach Buchstabe a oder d und
+
+bb)  
+bei der Durchführung direkt genehmigter Lehrgänge nach Buchstabe c und Einzelmaßnahmen zur Ausbildung am Arbeitsplatz nach Buchstabe d
+
+5/10 der jeweils für die Gesamtprüfung nach den Buchstaben a, c oder d vorgesehenen Gebühr
 
 29\.
 
@@ -2099,6 +2159,12 @@ Zuteilung von Sekundärradar-Antwortgerät SSR-Mode-S-Adressen (§ 3 Abs. 1 Nr. 
 31\.
 
 Überprüfung der bei der Anmeldung zur Ausbildung oder mit dem Antrag auf Anerkennung einer ausländischen oder Umschreibung einer militärischen Lizenz oder Erlaubnis vorzulegenden Unterlagen sowie Prüfung der fachlichen Voraussetzungen (§ 12 Absatz 1 und § 19 Absatz 1 LuftPersV und Anhang III der Verordnung (EU) Nr. 1178/2011)
+
+50 bis 180 EUR
+
+31a.
+
+Überprüfung der Aufzeichnungen zur Anerkennung einer Lizenz für freigabeberechtigtes Personal einer anderen zuständigen Behörde, Bereitstellung der Aufzeichnungen und Lizenzwiderruf wegen Wechsel zu einer anderen zuständigen Behörde (66.1. von Anhang III (Teil-66) der Verordnung (EU) Nr. 1321/2014)
 
 50 bis 180 EUR
 
@@ -2131,3 +2197,9 @@ Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird ein
 (weggefallen)
 
  
+
+36\.
+
+Bearbeitung von Anträgen auf Anerkennung alternativer Nachweisverfahren (Anhang Vc und Vd der Verordnung (EU) Nr. 1321/2014)
+
+100 bis 10 000 EUR
