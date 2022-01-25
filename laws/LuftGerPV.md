@@ -3,21 +3,27 @@
  
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung regelt die Anforderungen und das Verfahren der Prüfung von Luftfahrtgerät auf seine Lufttüchtigkeit im Rahmen der Entwicklung, Herstellung und Instandhaltung, soweit die folgenden Verordnungen nicht anwendbar sind oder keine Regelungen enthalten:
+(1) Diese Verordnung regelt die Anforderungen an die Prüfung von Luftfahrtgerät auf seine Lufttüchtigkeit im Rahmen der Entwicklung, der Herstellung und der Aufrechterhaltung der Lufttüchtigkeit, soweit die folgenden Verordnungen nicht anwendbar sind oder keine Regelungen enthalten:
 
-1. die Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG (ABl. L 79 vom 19.3.2008, S. 1) in ihrer jeweils geltenden Fassung,
+1. die Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates (ABl. L 212 vom 22.8.2018, S. 1; L 296 vom 22.11.2018, S. 41) in ihrer jeweils geltenden Fassung,
 
 2. die Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben (ABl. L 224 vom 21.8.2012, S. 1) in ihrer jeweils geltenden Fassung und
 
-3. die Verordnung (EG) Nr. 2042/2003 der Kommission vom 20. November 2003 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen, die diese Tätigkeiten ausführen (ABl. L 315 vom 28.11.2003, S. 1), die zuletzt durch die Verordnung (EU) Nr. 962/2010 (ABl. L 281 vom 27.10.2010, S. 78) geändert worden ist, in ihrer jeweils geltenden Fassung.
+3. die Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen, die diese Tätigkeiten ausführen (ABl. L 362 vom 17.12.2014, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2021/700 (ABl. L 145 vom 28.4.2021, S. 20) geändert worden ist, in ihrer jeweils geltenden Fassung.
 
 (2) Die Lufttüchtigkeit wird sichergestellt
 
 1. im Rahmen der Entwicklung des Luftfahrtgeräts durch eine Muster- oder Einzelstückprüfung,
 
-2. im Rahmen der Herstellung durch eine Prüfung der Konformität des Luftfahrtgeräts mit den einschlägigen Konstruktionsdaten (Stückprüfung) und
+2. im Rahmen der Herstellung durch eine Prüfung der Konformität des Luftfahrtgeräts mit den einschlägigen Konstruktionsdaten oder durch eine Stückprüfung und
 
-3. im Rahmen der Instandhaltung durch eine Prüfung der Durchführung der einschlägigen Instandhaltungsmaßnahmen oder eine Nachprüfung.
+3. im Rahmen der Aufrechterhaltung der Lufttüchtigkeit:
+
+a) durch die Wahrnehmung der Halterverantwortung einschließlich der fristgerechten Veranlassung der erforderlichen Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit,
+
+b) durch die ordnungsgemäße Durchführung und Prüfung der Instandhaltung und
+
+c) durch eine Prüfung der Lufttüchtigkeit oder durch eine Nachprüfung.
 
 (3) Die Lufttüchtigkeit wird bescheinigt
 
@@ -25,7 +31,7 @@
 
 2. im Rahmen der Herstellung in Form einer Konformitätserklärung oder eines Stückprüfscheins und
 
-3. im Rahmen der Instandhaltung in Form einer Bescheinigung über die Prüfung der Lufttüchtigkeit oder eines Nachprüfscheins.
+3. im Rahmen der Aufrechterhaltung der Lufttüchtigkeit in Form einer Bescheinigung der ordnungsgemäßen Instandhaltung (Freigabebescheinigung), einer Bescheinigung über die Prüfung der Lufttüchtigkeit oder eines Nachprüfscheins.
 
 (4) Die Bestimmungen internationaler Abkommen über die Anerkennung von Lufttüchtigkeitszeugnissen bleiben unberührt.
 
@@ -33,15 +39,21 @@
 
 (1) Für die Sicherstellung und Bescheinigung der Lufttüchtigkeit nach § 1 sind folgende Stellen zuständig:
 
-1. bei Luftsportgerät einschließlich Rettungs- und Schleppgerät mit einer höchstzulässigen Leermasse über 120 Kilogramm sowie bei Flugmodellen mit einer höchstzulässigen Startmasse über 25 Kilogramm der Beauftragte nach § 31c des Luftverkehrsgesetzes,
+1. bei Luftsportgerät einschließlich Rettungs- und Schleppgerät nach § 1 Absatz 1 Nummer 7 der Luftverkehrs-Zulassungs-Ordnung mit einer höchstzulässigen Leermasse über 120 Kilogramm sowie bei Flugmodellen mit einer höchstzulässigen Startmasse über 25 Kilogramm der Beauftragte nach § 31c des Luftverkehrsgesetzes,
 
-2. bei Luftsportgerät mit einer höchstzulässigen Leermasse bis 120 Kilogramm der Hersteller und
+2. bei Luftsportgerät nach § 1 Absatz 4 der Luftverkehrs-Zulassungs-Ordnung der Hersteller und
 
-3. beim übrigen Luftfahrtgerät das Luftfahrt-Bundesamt, soweit nicht nach einer der in § 1 Absatz 1 genannten europäischen Verordnungen die Europäische Agentur für Flugsicherheit zuständig ist.
+3. beim übrigen Luftfahrtgerät das Luftfahrt-Bundesamt, soweit nicht nach einer der in § 1 Absatz 1 genannten europäischen Verordnungen die Agentur der Europäischen Union für Flugsicherheit zuständig ist.
 
-(2) Die zuständigen Stellen können für die Aufgaben der Sicherstellung und Bescheinigung der Lufttüchtigkeit Entwicklungs-, Herstellungs- und Instandhaltungsbetriebe sowie Unternehmen zur Führung der Aufrechterhaltung der Lufttüchtigkeit genehmigen. Ein Betrieb mit einer entsprechenden Genehmigung hat die ihm übertragene Aufgabe der Sicherstellung der Lufttüchtigkeit dem genehmigten Umfang und Verfahren entsprechend durchzuführen.
+(2) Die zuständigen Stellen nach Absatz 1 Nummer 1 und 3 können für die Aufgaben der Sicherstellung, der Prüfung und der Bescheinigung der Lufttüchtigkeit
 
-(3) Genehmigungen nach Absatz 2, die durch die Europäische Agentur für Flugsicherheit, durch einen Mitgliedstaat der Europäischen Union oder einen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum auf Grund der Verordnung (EG) Nr. 216/2008 erteilt wurden, sind in der Bundesrepublik Deutschland allgemein anerkannt. Ist für die Durchführung der Aufgaben nach § 1 die Erweiterung des Genehmigungsumfangs erforderlich, so stellt die zuständige Stelle nach Prüfung der Voraussetzungen eine Ergänzungsgenehmigung aus.
+1. Entwicklungsbetrieben, Herstellungsbetrieben und Instandhaltungsbetrieben, Unternehmen zur Führung der Aufrechterhaltung der Lufttüchtigkeit und kombinierten Lufttüchtigkeitsorganisationen eine Genehmigung erteilen und
+
+2. unabhängigem Lufttüchtigkeitsprüfpersonal eine Erlaubnis erteilen.
+
+Die Organisation, der die Genehmigung nach Satz 1 erteilt worden ist, oder die Person, der die Erlaubnis nach Satz 1 erteilt worden ist, hat die ihr übertragenen Aufgaben der Sicherstellung, Prüfung und Bescheinigung der Lufttüchtigkeit gemäß dem in der Genehmigung oder Erlaubnis festgelegten Umfang durchzuführen.
+
+(3) Genehmigungen nach Absatz 2 Nummer 1, die durch die Agentur der Europäischen Union für Flugsicherheit, durch einen Mitgliedstaat der Europäischen Union oder einen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum auf Grund der Verordnung (EU) 2018/1139 erteilt wurden, sind in der Bundesrepublik Deutschland allgemein anerkannt. Ist für die Durchführung der Aufgaben nach § 1 die Erweiterung des Genehmigungsumfangs erforderlich, so stellt die zuständige Stelle nach Prüfung der Voraussetzungen eine Ergänzungsgenehmigung aus.
 
 (4) Die Genehmigungen können eingeschränkt, mit Auflagen verbunden oder befristet werden. Sie sind ganz oder teilweise zu widerrufen, wenn die Voraussetzungen für ihre Erteilung nachträglich entfallen sind oder die erteilten Auflagen nicht eingehalten werden.
 
@@ -71,25 +83,25 @@
 
 Ist Luftfahrtgerät, dessen Muster nach der Luftverkehrs-Zulassungs-Ordnung zugelassen ist, nach ausländischen Lufttüchtigkeitsvorschriften oder Lufttüchtigkeitsvorschriften der Bundeswehr hergestellt und geprüft worden, die ein gleiches Maß an Lufttüchtigkeit sicherstellen wie die Vorschriften dieser Verordnung, kann der Nachweis der ordnungsgemäßen Herstellung auf Antrag im Einzelfall oder allgemein von der nach § 2 Absatz 1 zuständigen Stelle anerkannt werden. Lufttüchtigkeitsbescheinigungen, die von der zuständigen Behörde eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder von einer von ihr beauftragten Prüfstelle ausgestellt wurden, gelten in der Bundesrepublik Deutschland als allgemein anerkannt.
 
-# § 6 – Anerkennung der Instandhaltungsnachweise anderer Stellen
+# § 6 – Anerkennung der Nachweise anderer Stellen über die Aufrechterhaltung der Lufttüchtigkeit
 
-(1) Ist die Instandhaltung von Luftfahrtgerät mit deutscher Verkehrszulassung im Ausland nach ausländischen Prüfvorschriften vorgenommen worden, die ein gleiches Maß an Lufttüchtigkeit sicherstellen wie die Vorschriften dieser Verordnung, kann der Nachweis der ordnungsgemäßen Instandhaltung auf Antrag im Einzelfall oder allgemein von der nach § 2 Absatz 1 zuständigen Stelle als Bescheinigung über die Prüfung der Lufttüchtigkeit oder als Nachprüfung anerkannt werden.
+(1) Sind die Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit von Luftfahrtgerät mit deutscher Verkehrszulassung im Ausland nach ausländischen Prüfvorschriften durchgeführt worden, die ein gleiches Maß an Lufttüchtigkeit sicherstellen wie die Vorschriften dieser Verordnung, so kann der ausländische Nachweis der Lufttüchtigkeit oder der ordnungsgemäßen Instandhaltung auf Antrag im Einzelfall oder allgemein von der nach § 2 Absatz 1 zuständigen Stelle als eine Bescheinigung über die Prüfung der Lufttüchtigkeit, als eine Freigabebescheinigung oder als eine Bescheinigung über die Nachprüfung anerkannt werden.
 
-(2) Für die Instandhaltung von Luftfahrtgerät, dessen Muster nach der Luftverkehrs-Zulassungs-Ordnung zugelassen ist und das nicht der Verkehrszulassung bedarf, gilt Absatz 1 entsprechend.
+(2) Für die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrtgerät, dessen Muster nach der Luftverkehrs-Zulassungs-Ordnung zugelassen ist und das nicht der Verkehrszulassung bedarf, gilt Absatz 1 entsprechend.
 
-(3) Mit der Instandhaltung darf erst begonnen werden, wenn eine Anerkennung der Instandhaltungsnachweise nach den Absätzen 1 und 2 beantragt worden ist. Die Anerkennung kann eingeschränkt, mit Auflagen verbunden oder befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen für ihre Erteilung nicht nur vorübergehend weggefallen sind oder die erteilten Auflagen nicht eingehalten werden.
+(3) Mit den Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit darf erst begonnen werden, wenn eine Anerkennung der betreffenden ausländischen Nachweise nach den Absätzen 1 und 2 beantragt worden ist. Die Anerkennung kann eingeschränkt, mit Auflagen verbunden oder befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen für ihre Erteilung nicht nur vorübergehend weggefallen sind oder die erteilten Auflagen nicht eingehalten werden.
 
 (4) Auf Luftfahrtgerät, das durch die zuständige Stelle der Bundeswehr geprüft wurde, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
 # § 7 – Genehmigung von Kleinbetrieben
 
-Die nach § 2 Absatz 1 zuständige Stelle kann Kleinbetrieben, die Luftfahrtgerät entwickeln, herstellen, instand halten oder ändern und die nur teilweise die Voraussetzungen für die Durchführung der Prüfungen erfüllen, zur Vermeidung unbilliger Härten die Genehmigung nach § 2 Absatz 2 erteilen, wenn nachgewiesen wird, dass die ordnungsgemäße Durchführung der Prüfungen des Luftfahrtgeräts sichergestellt ist.
+Die nach § 2 Absatz 1 zuständige Stelle kann Kleinbetrieben, die nur teilweise die Voraussetzungen für die Durchführung der Prüfungen nach § 1 Absatz 2 erfüllen, zur Vermeidung unbilliger Härten eine Genehmigung nach § 2 Absatz 2 Nummer 1 erteilen, wenn der Kleinbetrieb nachweist, dass die ordnungsgemäße Durchführung der Prüfungen des Luftfahrtgeräts sichergestellt ist.
 
 # § 8 – Behebung von Mängeln des Musters
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrtgeräts Mängel des Musters festgestellt, welche die Lufttüchtigkeit beeinträchtigen, ordnet die nach § 2 Absatz 1 zuständige Stelle die zur Aufrechterhaltung der Lufttüchtigkeit notwendigen Maßnahmen an.
 
-(2) Zur Behebung von Mängeln des dem Muster nachgebauten und bereits zum Verkehr zugelassenen Luftfahrtgeräts hat der Betrieb, welcher zur Durchführung der Musterprüfung genehmigt ist, technische Unterlagen zu erstellen und den Haltern und den für die Instandhaltung des Luftfahrtgeräts genehmigten Betrieben auf Verlangen zu übersenden.
+(2) Zur Behebung von Mängeln des dem Muster nachgebauten und bereits zum Verkehr zugelassenen Luftfahrtgeräts hat der Betrieb, welcher zur Durchführung der Musterprüfung genehmigt ist, technische Unterlagen zu erstellen und den Haltern des Luftfahrtgeräts und den Organisationen, denen nach § 2 Absatz 2 eine Genehmigung erteilt worden ist, und den Personen, denen nach § 2 Absatz 2 eine Erlaubnis erteilt worden ist, auf Verlangen zu übersenden.
 
 # § 9 – Musterprüfung und Stückprüfung
 
@@ -135,21 +147,21 @@ Der Beauftragte nach § 31c des Luftverkehrsgesetzes bestimmt, ob er die Stückp
 
 (4) Muster- oder Gerätezulassungen eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sind unmittelbar gültig und ersetzen die Prüfungen nach den Absätzen 1 und 2.
 
-# § 12 – Durchführung der Instandhaltungsmaßnahmen
+# § 12 – Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit
 
-(1) Instandhaltungsmaßnahmen zur Aufrechterhaltung der Lufttüchtigkeit des Luftfahrtgeräts nach § 1 Absatz 1 Nummer 1 bis 6 und 9 bis 11 der Luftverkehrs-Zulassungs-Ordnung werden entsprechend der Bestimmungen der Verordnung (EG) Nr. 2042/2003 durchgeführt. Für die rechtzeitige und vollständige Durchführung aller erforderlichen Maßnahmen gemäß der Verordnung (EG) Nr. 2042/2003 Anhang I Absatz M.A.201 ist der Halter des Luftfahrtgeräts verantwortlich. Personal von Luftsportverbänden mit technischem Ausweis als Nachweis der Sachkunde ist berechtigt, Arbeiten an Luftfahrzeugen entsprechend den Bestimmungen der Verordnung (EG) Nr. 2042/2003 Anhang I Absatz M.A.803 Buchstabe b und in dem in Anlage VIII bezeichneten Umfang durchzuführen, den ordnungsgemäßen Abschluss zu bescheinigen und die Freigabe des Luftfahrzeugs zu erteilen.
+(1) Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit des Luftfahrtgeräts nach § 1 Absatz 1 Nummer 1 bis 6 und 9 bis 11 der Luftverkehrs-Zulassungs-Ordnung werden entsprechend den Bestimmungen der Verordnung (EU) Nr. 1321/2014 durchgeführt. Der Halter des Luftfahrtgeräts ist für die rechtzeitige und vollständige Durchführung aller erforderlichen Maßnahmen nach Anhang I, M.A.201(a) oder Anhang Vb, ML.A.201(a) verantwortlich.
 
 (2) Instandhaltungsmaßnahmen zur Aufrechterhaltung der Lufttüchtigkeit des Luftfahrtgeräts nach § 1 Absatz 1 Nummer 7 und 8 der Luftverkehrs-Zulassungs-Ordnung richten sich nach § 13.
 
-(3) Für Luftfahrtgerät nach Absatz 1 gelten die vom Inhaber der Musterzulassung oder die im Rahmen einer Einzelstückprüfung herausgegebenen Instandhaltungsunterlagen als genehmigtes Instandhaltungsprogramm im Sinne der Verordnung (EG) Nr. 2042/2003. Satz 1 ist nicht anzuwenden auf gewerblich betriebene Luftfahrzeuge nach Artikel 3 Buchstabe j der Verordnung (EG) Nr. 216/2008. Bei geringfügigen Änderungen und Reparaturen im Sinne der Verordnung (EU) Nr. 748/2012 ist keine Genehmigung der Unterlagen erforderlich; es reicht der Nachweis der Akzeptanz durch den Inhaber der Musterzulassung oder die zuständige Stelle. An die Stelle der Europäischen Agentur für Flugsicherheit tritt die zuständige Stelle gemäß § 2.
+(3) Für Luftfahrtgerät nach Absatz 1 gelten die vom Inhaber der Musterzulassung oder die im Rahmen einer Einzelstückprüfung herausgegebenen Instandhaltungsunterlagen als Instandhaltungsprogramm im Sinne der Verordnung (EU) Nr. 1321/2014. Satz 1 ist nicht anzuwenden auf gewerblich betriebene Luftfahrzeuge. Bei geringfügigen Änderungen und Reparaturen im Sinne der Verordnung (EU) Nr. 748/2012 ist keine Genehmigung der Unterlagen erforderlich; es reicht der Nachweis der Akzeptanz durch den Inhaber der Musterzulassung oder die zuständige Stelle. An die Stelle der Europäischen Agentur für Flugsicherheit tritt die zuständige Stelle gemäß § 2.
 
 (4) Die zuständige Stelle kann in begründeten Fällen Ausnahmen von Absatz 1 zulassen, Zeitabstände für Instandhaltungsmaßnahmen verlängern und Entwicklungs- oder Herstellungsbetriebe zur Durchführung bestimmter Instandhaltungsmaßnahmen ermächtigen.
 
 # § 13 – Nachprüfungen
 
-(1) Bei Luftsportgerät mit einer höchstzulässigen Leermasse über 120 Kilogramm hat der Halter das von der zuständigen Stelle festgelegte Instandhaltungsprogramm innerhalb der darin festgesetzten Fristen vollständig durchzuführen. Zusätzlich wird das Luftsportgerät alle zwölf Monate einer Nachprüfung (Jahresnachprüfung) unterzogen. Diese dient der Feststellung der Lufttüchtigkeit und der Überprüfung der Übereinstimmung mit den im zugehörigen Gerätekennblatt enthaltenen Angaben. Die Nachprüfung ist in einem Nachprüfschein zu bescheinigen. Eine Ausfertigung des Nachprüfscheins ist zu den Betriebsaufzeichnungen des Luftfahrtgeräts zu nehmen; eine Ausfertigung des jeweils letzten Nachprüfscheins ist im Luftfahrzeug mitzuführen.
+(1) Bei Luftsportgerät nach § 1 Absatz 1 Nummer 7 der Luftverkehrs-Zulassungs-Ordnung mit einer höchstzulässigen Leermasse über 120 Kilogramm hat der Halter das von der zuständigen Stelle festgelegte Instandhaltungsprogramm innerhalb der darin festgesetzten Fristen vollständig durchzuführen. Zusätzlich wird das Luftsportgerät alle zwölf Monate einer Nachprüfung (Jahresnachprüfung) unterzogen. Diese dient der Feststellung der Lufttüchtigkeit und der Überprüfung der Übereinstimmung mit den im zugehörigen Gerätekennblatt enthaltenen Angaben. Die Nachprüfung ist in einem Nachprüfschein zu bescheinigen. Eine Ausfertigung des Nachprüfscheins ist zu den Betriebsaufzeichnungen des Luftfahrtgeräts zu nehmen; eine Ausfertigung des jeweils letzten Nachprüfscheins ist im Luftfahrzeug mitzuführen.
 
-(2) Bei ein- oder zweisitzigem Luftsportgerät mit einer höchstzulässigen Leermasse bis zu 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät ist die Lufttüchtigkeit nach den vom Hersteller vorgegebenen Anweisungen durch den Halter oder in dessen Auftrag nachzuprüfen oder nachprüfen zu lassen. Der Halter ist für die rechtzeitige und vollständige Durchführung der Prüfungen verantwortlich. Er hat dem Hersteller Mängel an dem Luftfahrtgerät oder an den Prüfanweisungen unverzüglich zu melden.
+(2) Bei Luftsportgerät nach § 1 Absatz 4 der Luftverkehrs-Zulassungs-Ordnung ist die Lufttüchtigkeit nach den vom Hersteller vorgegebenen Anweisungen durch den Halter oder in dessen Auftrag nachzuprüfen oder nachprüfen zu lassen. Der Halter ist für die rechtzeitige und vollständige Durchführung der Prüfungen verantwortlich. Er hat dem Hersteller Mängel an dem Luftfahrtgerät oder an den Prüfanweisungen unverzüglich zu melden.
 
 (3) Bei Flugmodellen mit einer höchstzulässigen Startmasse über 25 Kilogramm wird die Lufttüchtigkeit alle zwölf Monate nachgeprüft; wurden Änderungen an diesen Flugmodellen vorgenommen, erfolgt eine Nachprüfung vor dem ersten Flug. Hierzu hat der Halter dem Beauftragten nach § 31c des Luftverkehrsgesetzes das Flugmodell zur Nachprüfung vorzustellen und die durchgeführten Prüfungen von diesem Beauftragten bescheinigen zu lassen.
 
@@ -237,6 +249,4 @@ b) Absatz 66.A.55 eine dort genannte Lizenz als Qualifizierungsnachweis nicht, n
 
 # § 17 – Übergangsbestimmungen
 
-(1) Die Prüfstellen, die nach § 10a der Verordnung zur Prüfung von Luftfahrtgerät vom 3. August 1998 (BGBl. I S. 2010, 2011) in der am 31. Dezember 2012 geltenden Fassung anerkannt worden sind, sind bis zum 31. Dezember 2013 berechtigt, die Lufttüchtigkeit für leichtes Luftsportgerät nach dieser Vorschrift festzustellen.
-
-(2) Bisherige Zulassungen, Genehmigungen und Anerkennungen, die nach der Verordnung zur Prüfung von Luftfahrtgerät vom 3. August 1998 (BGBl. I S. 2010, 2011) in der am 1. September 2012 geltenden Fassung erteilt worden sind, bleiben weiterhin gültig. Bestehende Zulassungen, Genehmigungen und Anerkennungen mit zeitlichen Befristungen bleiben bis zum Ablauf der Befristung gültig.
+Bisherige Zulassungen, Genehmigungen und Anerkennungen, die nach der Verordnung zur Prüfung von Luftfahrtgerät vom 3. August 1998 (BGBl. I S. 2010, 2011) in der am 1. September 2012 geltenden Fassung erteilt worden sind, bleiben weiterhin gültig. Bestehende Zulassungen, Genehmigungen und Anerkennungen mit zeitlichen Befristungen bleiben bis zum Ablauf der Befristung gültig.
