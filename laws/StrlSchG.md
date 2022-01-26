@@ -281,8 +281,6 @@ b) natürlich vorkommenden radioaktiven Stoffen auf Grund ihrer Radioaktivität,
 
 Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund anderer Eigenschaften erfolgt.
 
-(+++ § 5: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
-
 # § 6 – Rechtfertigung von Tätigkeitsarten; Verordnungsermächtigung
 
 (1) Neue Tätigkeitsarten, mit denen Expositionen von Mensch und Umwelt verbunden sein können, müssen unter Abwägung ihres wirtschaftlichen, gesellschaftlichen oder sonstigen Nutzens gegen die möglicherweise von ihnen ausgehende gesundheitliche Beeinträchtigung gerechtfertigt sein. Bei der Rechtfertigung sind die berufliche Exposition, die Exposition der Bevölkerung und die medizinische Exposition zu berücksichtigen. Expositionen durch die Anwendung am Menschen sind nach Maßgabe des § 83 Absatz 2 zu berücksichtigen.
@@ -1307,7 +1305,8 @@ Wer eine nach § 50 Absatz 1 oder § 52 Absatz 1 angezeigte Tätigkeit beendet o
 
 (3) Der zur Abschätzung Verpflichtete hat die Ergebnisse der Abschätzung unverzüglich aufzuzeichnen. Er hat die Aufzeichnungen bis zum Ende der Tätigkeit oder bis zum Vorliegen einer neuen Abschätzung aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-(+++ § 55 Abs. 2: zur Anwendung vgl. § 59 Abs. 1 +++)
+(+++ § 55 Abs. 1: zur Geltung vgl. § 59 Abs. 1 Satz 1 +++)  
+(+++ § 55 Abs. 2 u. 3: zur Anwendung vgl. § 59 Abs. 1 Satz 3 +++)
 
 # § 56 – Anzeige
 
@@ -1333,9 +1332,9 @@ Erfolgt die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder
 
 (3) Die Absätze 1 und 2 sind entsprechend anzuwenden, wenn die angezeigte Tätigkeit wesentlich verändert wird.
 
-(+++ § 56 Abs. 1 Satz 1: zur Anwendung vgl. § 210 Abs. 2 +++)  
-(+++ § 56 Abs. 2 Satz 2: zur Anwendung vgl. § 210 Abs. 2 +++)  
-(+++ § 56 Abs. 3: zur Anwendung vgl. § 59 Abs. 4 +++)
+(+++ § 56 Abs. 1 Satz 1: zur Geltung vgl. § 210 Abs. 2 Satz 1 +++)  
+(+++ § 56 Abs. 2 Satz 2: zur Geltung vgl. § 210 Abs. 2 Satz 2 +++)  
+(+++ § 56 Abs. 3: zur Geltung vgl. § 59 Abs. 4 +++)
 
 # § 57 – Prüfung der angezeigten Tätigkeit
 
@@ -1359,7 +1358,7 @@ Erfolgt die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder
 
 (4) Kommt der auf Grund von § 55 Absatz 2 zur Abschätzung Verpflichtete der vollziehbaren behördlichen Anordnung nicht nach, so kann die zuständige Behörde die Tätigkeit ganz oder teilweise bis zur Erfüllung der Anordnung untersagen.
 
-(+++ § 57: zur Anwendung vgl. § 59 Abs. 4 +++)
+(+++ § 57: zur Geltung vgl. § 59 Abs. 4 +++)
 
 # § 58 – Beendigung der angezeigten Tätigkeit
 
@@ -1529,7 +1528,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 (2) Handelt es sich bei dem Strahlenschutzverantwortlichen um eine juristische Person oder um eine rechtsfähige Personengesellschaft, so werden die Aufgaben des Strahlenschutzverantwortlichen von der durch Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person wahrgenommen. Besteht das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei sonstigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, welche dieser Personen die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder Mitglieder der Personenvereinigung bleibt hiervon unberührt.
 
-(+++ § 69 Abs. 2: zur Anwendung vgl. § 208 Abs. 3 +++)
+(+++ § 69 Abs. 2: zur Anwendung vgl. § 145 Abs. 4 Satz 2 u. § 208 Abs. 3 Halbsatz 3 +++)
 
 # § 70 – Strahlenschutzbeauftragter
 
@@ -1593,7 +1592,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (3) Der Strahlenschutzverantwortliche und der Strahlenschutzbeauftragte haben dafür zu sorgen, dass bei Gefahr für Mensch und Umwelt unverzüglich geeignete Maßnahmen zur Abwendung dieser Gefahr getroffen werden.
 
-(+++ § 72: zur Anwendung vgl. § 208 Abs. 3 +++)
+(+++ § 72: zur Anwendung vgl. § 208 Abs. 3 Halbsatz 3 +++)  
+(+++ § 72 Abs. 1: zur Geltung vgl. § 172 Abs. 3 Satz 1 u. 3 +++)  
+(+++ § 72 Abs. 2: zur Anwendung vgl. § 149 Abs. 5 Nr. 3 +++)
 
 # § 73 – Verordnungsermächtigung für den Erlass einer Strahlenschutzanweisung
 
@@ -1967,8 +1968,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 In der Rechtsverordnung kann auch bestimmt werden, welche Informationen und personenbezogenen Daten der Strahlenschutzverantwortliche der ärztlichen und zahnärztlichen Stelle zur Wahrnehmung ihrer Aufgabe nach Satz 2 Nummer 9 zur Verfügung zu stellen hat sowie ob und unter welchen Voraussetzungen die ärztliche und die zahnärztliche Stelle diese Informationen und personenbezogenen Daten verarbeiten und aufbewahren und der zuständigen Behörde und anderen ärztlichen und zahnärztlichen Stellen übermitteln dürfen. In der Rechtsverordnung kann auch bestimmt werden, dass und auf welche Weise die ärztliche oder zahnärztliche Stelle die Ergebnisse ihrer Prüfungen, einschließlich des Namens und der Anschrift des Strahlenschutzverantwortlichen, an die Stelle übermitteln darf, die für die Qualitätsprüfung nach dem Neunten Abschnitt des Vierten Kapitels des Fünften Buches Sozialgesetzbuch zuständig ist; personenbezogene Daten der untersuchten oder behandelten Personen dürfen nicht übermittelt werden. Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
 
-(+++ § 86: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
-
 # § 87 – Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier in der Tierheilkunde
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz der bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung in der Tierheilkunde anwesenden Personen festzulegen,
@@ -2046,8 +2045,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 12. welche weiteren Aufzeichnungs-, Aufbewahrungs-, Mitteilungs-, Vorlage- und Hinterlegungspflichten im Zusammenhang mit den Pflichten nach den Nummern 1 bis 11 bestehen.
 
 Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
-
-(+++ § 89: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
 # § 90 – Verordnungsermächtigung für Pflichten, Aufgaben und Befugnisse bei Vorkommnissen; Aufzeichnungs-, Übermittlungs- und Aufbewahrungspflichten
 
@@ -2799,8 +2796,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 9. welche Aufzeichnungs-, Aufbewahrungs-, Mitteilungs- und Vorlagepflichten im Zusammenhang mit den Pflichten nach § 131 und nach den Nummern 1 bis 8 bestehen.
 
-(+++ § 132: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
-
 # § 133 – Referenzwert
 
 Der Referenzwert für die effektive Dosis aus äußerer Exposition von Einzelpersonen der Bevölkerung in Aufenthaltsräumen durch Gammastrahlung aus Bauprodukten beträgt zusätzlich zur effektiven Dosis aus äußerer Exposition im Freien 1 Millisievert im Kalenderjahr.
@@ -3412,8 +3407,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 2. unter welchen Bedingungen Strahlenpässe, die außerhalb des Geltungsbereichs dieses Gesetzes ausgestellt wurden, anerkannt werden,
 
 3. unter welchen Voraussetzungen die Behörde einen Strahlenpass vernichten darf.
-
-(+++ § 171: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
 # § 172 – Bestimmung von Sachverständigen; Verordnungsermächtigung
 
