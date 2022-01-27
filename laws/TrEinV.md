@@ -7,7 +7,7 @@ Auf Grund des § 23 Absatz 5 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I 
 
 # § 1 – Einsichtnahme in das Transparenzregister
 
-(1) Die Einsichtnahme in das Transparenzregister ist ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich.
+(1) Die Einsichtnahme in das Transparenzregister ist in den Fällen des § 23 Absatz 1 des Geldwäschegesetzes ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich. In den Fällen des § 23 Absatz 3 des Geldwäschegesetzes ist die Einsichtnahme ausschließlich über die von der registerführenden Stelle vorgegebenen Schnittstellen möglich.
 
 (2) Die registerführende Stelle hat zu gewährleisten, dass die im Transparenzregister zugänglichen Daten so dargestellt werden, dass deutlich wird, dass es sich um einen Datenabruf aus dem Originalbestand des Transparenzregisters selbst oder aus den Registern, die über das Transparenzregister zugänglich sind, handelt.
 
@@ -51,6 +51,8 @@ d) die E-Mail-Adresse und die Telefonnummer der mit der Registrierung beauftragt
 
 (6) Für die Übermittlung der Registrierungsdaten stellt die registerführende Stelle auf der Internetseite des Transparenzregisters elektronische Formulare zur Verfügung. Diese Formulare sind bei der Übermittlung zu verwenden.
 
+(7) Zur Nutzung der automatischen Einsichtnahme nach § 23 Absatz 3 des Geldwäschegesetzes ist eine erweiterte Registrierung notwendig. Im Rahmen dieser Registrierung muss der Nutzer nach den Vorgaben der registerführenden Stelle die Voraussetzungen der Nutzung der automatischen Einsichtnahme belegen.
+
 # § 3 – Identitätsnachweis bei Registrierung oder Einsichtnahme
 
 (1) Der Nutzer belegt nach den Vorgaben der registerführenden Stelle innerhalb des Registrierungsvorganges oder des Antrags auf Einsichtnahme seine Identität anhand geeigneter Nachweise.
@@ -91,13 +93,13 @@ Kommt es zu einer Änderung bei den Registrierungsdaten nach § 2 Absatz 4, so i
 
 (1) Ein Antrag auf Einsichtnahme in das Transparenzregister ist ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich.
 
-(2) Der Antrag muss bezeichnen, für welche Vereinigung nach § 20 Absatz 1 des Geldwäschegesetzes oder für welche Rechtsgestaltung nach § 21 Absatz 1 und 2 des Geldwäschegesetzes und für welchen Zeitraum oder Zeitpunkt der Nutzer die Einsichtnahme in das Transparenzregister beantragt.
+(2) Der Antrag muss bezeichnen, für welche Vereinigung nach § 20 Absatz 1 des Geldwäschegesetzes oder für welche Rechtsgestaltung nach § 21 Absatz 1 und 2 des Geldwäschegesetzes oder im Fall des § 23 Absatz 3 Satz 1 des Geldwäschegesetzes für welche natürliche Person und für welchen Zeitraum oder Zeitpunkt der Nutzer die Einsichtnahme in das Transparenzregister beantragt.
 
 (3) Der Antrag, einschließlich die Bestätigung oder Darlegung zur Berechtigung der Einsichtnahme, ist zwei Jahre nach der Entscheidung über den Antrag von der registerführenden Stelle unverzüglich zu löschen. Andere gesetzliche Bestimmungen über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
 # § 6 – Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden
 
-Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat sie zu bestätigen, dass die Einsichtnahme zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
+Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat sie zu bestätigen, dass die Einsichtnahme zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist, soweit die Einsichtnahme nicht im Rahmen einer automatisierten Einsichtnahme nach § 23 Absatz 3 des Geldwäschegesetzes erfolgt.
 
 # § 7 – Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete
 
@@ -105,23 +107,15 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 1. dass er Verpflichteter nach § 2 des Geldwäschegesetzes ist und
 
-2. dass die Einsichtnahme zur Erfüllung seiner Sorgfaltspflichten in einem der in § 10 Absatz 3 des Geldwäschegesetzes genannten Fälle erfolgen soll.
+2. dass die Einsichtnahme zur Erfüllung seiner Sorgfaltspflichten in einem der in § 10 Absatz 3 und Absatz 3a des Geldwäschegesetzes genannten Fälle erfolgen soll;
+
+dies gilt nicht im Falle des automatisierten Abrufs nach § 23 Absatz 3 Satz 1 des Geldwäschegesetzes.
 
 (2) Stellt ein Verpflichteter wiederholt einen Antrag auf Einsichtnahme in das Transparenzregister, so genügt die Darlegung der Berechtigung zur Einsichtnahme nach Absatz 1 Nummer 1 bei der ersten Einsichtnahme.
 
 (3) Die registerführende Stelle kann bei Zweifeln an der Berechtigung des Nutzers weitere Informationen zur Darlegung der Berechtigung anfordern. Die Darlegung kann auf Verlangen der registerführenden Stelle auch durch eidesstattliche Versicherung erfolgen.
 
-# § 8 – Berechtigung zur Einsichtnahme bei Antragstellung durch sonstige Personen
-
-(1) Stellt eine Person nach § 23 Absatz 1 Satz 1 Nummer 3 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat sie ihr berechtigtes Interesse an der Einsichtnahme darzulegen. Zur Darlegung eines berechtigten Interesses können insbesondere geeignet sein
-
-1. bei Nichtregierungsorganisationen ihre Satzung, aus der sich ein Einsatz gegen Geldwäsche, damit zusammenhängender Vortaten wie Korruption und gegen Terrorismusfinanzierung ergibt,
-
-2. bei Journalisten ein Journalistenausweis und eine Darstellung von bereits getätigten oder geplanten Recherchen im Bereich der Geldwäsche und Terrorismusfinanzierung,
-
-3. im Übrigen eine Darstellung der bereits getätigten oder geplanten Aktivitäten im Zusammenhang mit der Bekämpfung der Geldwäsche, der damit zusammenhängenden Vortaten wie Korruption und der Terrorismusfinanzierung.
-
-(2) Die registerführende Stelle kann bei Zweifeln an der Berechtigung des Nutzers weitere Informationen zur Darlegung der Berechtigung anfordern. Die Darlegung kann auf Verlangen der registerführenden Stelle auch durch eidesstattliche Versicherung erfolgen.
+# § 8 – (weggefallen)
 
 # § 9 – Art der Datenübertragung
 

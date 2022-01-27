@@ -35,7 +35,7 @@ Kommt es zu einer Änderung bei den Mindestangaben nach § 1 Absatz 3 Nummer 1 b
 
 # § 3 – Übermittlung der Angaben zu wirtschaftlich Berechtigten
 
-(1) Die Übermittlung der Angaben zu wirtschaftlich Berechtigten nach § 20 Absatz 1 Satz 1 und Absatz 2 Satz 4 sowie § 21 Absatz 1 Satz 1 des Geldwäschegesetzes ist auf der Internetseite des Transparenzregisters www.transparenzregister.de vorzunehmen. Für die Übermittlung sind die auf der Internetseite von der registerführenden Stelle zur Verfügung gestellten Formulare zu verwenden.
+(1) Die Übermittlung der Angaben zu wirtschaftlich Berechtigten nach § 20 Absatz 1 Satz 1 und § 21 Absatz 1 Satz 1 des Geldwäschegesetzes ist auf der Internetseite des Transparenzregisters www.transparenzregister.de vorzunehmen. Für die Übermittlung sind die auf der Internetseite von der registerführenden Stelle zur Verfügung gestellten Formulare zu verwenden.
 
 (2) Für die Übermittlung ist eine von der registerführenden Stelle bestimmte, nach dem Stand der Technik gesicherte Internetverbindung zu verwenden.
 

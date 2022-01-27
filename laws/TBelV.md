@@ -11,7 +11,7 @@ Mit den Aufgaben der registerführenden Stelle, insbesondere mit der Führung de
 
 # § 2 – Finanzierung des Beliehenen und Übertragung der Vollstreckung an den Beliehenen
 
-(1) Der Beliehene trägt den ihm durch die Wahrnehmung der in § 1 genannten Aufgaben, insbesondere durch das Erstellen und Betreiben des Transparenzregisters, entstehenden Aufwand selbst.
+(1) Der Beliehene trägt den ihm durch die Wahrnehmung der in § 1 genannten Aufgaben, insbesondere durch das Erstellen und Betreiben des Transparenzregisters, entstehenden Aufwand selbst. Dies gilt nicht für die durch die Gebührenbefreiung nach § 24 Absatz 1 Satz 2 des Geldwäschegesetzes entstehenden Mindereinnahmen. Diese werden der registerführenden Stelle durch den Bund erstattet. Hierfür hat die registerführende Stelle zum 31. März des auf das jeweilige Gebührenjahr folgenden Jahres dem Bundesministerium der Finanzen eine Übersicht der durch die Gebührenbefreiung entstandenen Mindereinnahmen vorzulegen.
 
 (2) Dem Beliehenen wird die Vollstreckung der Gebührenbescheide übertragen.
 
