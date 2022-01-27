@@ -711,7 +711,7 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 5. gegebenenfalls den Identifikationscode oder die Kennnummer des Agenten.
 
-Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Übermittlung der Angaben nach Satz 1 mit, ob der Agent in das Zahlungsinstituts-Register eingetragen wird. Der Agent darf erst nach Eintragung in das Zahlungsinstituts-Register mit der Erbringung von Zahlungsdiensten beginnen. Ändern sich Verhältnisse, die nach Satz 1 angezeigt wurden, hat das Institut diese Änderungen der Bundesanstalt und der Deutschen Bundesbank unverzüglich schriftlich anzuzeigen; die Sätze 2 und 3 gelten entsprechend.
+Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Übermittlung der Angaben nach Satz 1 mit, ob der Agent in das Zahlungsinstituts-Register eingetragen wird. Der Agent darf erst nach Eintragung in das Zahlungsinstituts-Register mit der Erbringung von Zahlungsdiensten beginnen. Ändern sich Verhältnisse, die nach Satz 1 angezeigt wurden, hat das Institut diese Änderungen der Bundesanstalt und der Deutschen Bundesbank unverzüglich in Textform anzuzeigen; die Sätze 2 und 3 gelten entsprechend.
 
 (2) Das Institut hat sicherzustellen, dass der Agent zuverlässig und fachlich geeignet ist, bei der Erbringung der Zahlungsdienste die gesetzlichen Vorgaben erfüllt, den Zahlungsdienstnutzer vor oder während der Aufnahme der Geschäftsbeziehung über seinen Status informiert und diesen unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Das Institut hat die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 mindestens fünf Jahre nach dem Ende des Status des Agenten aufzubewahren.
 
@@ -737,7 +737,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 2. um Missstände in einem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden könnte oder die ordnungsgemäße Durchführung von Zahlungsdiensten, des E-Geld-Geschäfts oder von sonstigen nach diesem Gesetz institutstypischen Dienstleistungen beeinträchtigen.
 
-(4) Ändert sich die Inanspruchnahme von Stellen, an die Tätigkeiten ausgelagert werden, hat das Institut der Bundesanstalt und der Deutschen Bundesbank diese Änderungen unverzüglich schriftlich anzuzeigen.
+(4) Ändert sich die Inanspruchnahme von Stellen, an die Tätigkeiten ausgelagert werden, hat das Institut der Bundesanstalt und der Deutschen Bundesbank diese Änderungen unverzüglich in Textform anzuzeigen.
 
 # § 27 – Organisationspflichten
 
@@ -963,7 +963,7 @@ Die Registrierung zur Erbringung von Kontoinformationsdiensten ist zu versagen, 
 
 (8) Gegenüber der ausländischen Zweigniederlassung sowie gegenüber den Agenten, E-Geld-Agenten und Auslagerungsunternehmen, deren sich ein inländisches Institut in anderen Staaten des Europäischen Wirtschaftsraums bedient, stehen der Bundesanstalt und der Deutschen Bundesbank unmittelbar die gleichen Rechte nach diesem Gesetz zu wie gegenüber den inländischen Stellen des Instituts. Bei Prüfungen vor Ort hat die Bundesanstalt oder die Deutsche Bundesbank über die Bundesanstalt grundsätzlich vorab die Zustimmung der zuständigen Behörden des Aufnahmemitgliedstaates einzuholen.
 
-(9) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2, Absatz 2 Satz 2 oder Absatz 3 angezeigt wurden, hat das Institut diese Änderungen der Bundesanstalt und der Deutschen Bundesbank unverzüglich schriftlich anzuzeigen. Auf das Verfahren finden die Absätze 4 und 5 entsprechende Anwendung.
+(9) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2, Absatz 2 Satz 2 oder Absatz 3 angezeigt wurden, hat das Institut diese Änderungen der Bundesanstalt und der Deutschen Bundesbank unverzüglich in Textform anzuzeigen. Auf das Verfahren finden die Absätze 4 und 5 entsprechende Anwendung.
 
 # § 39 – Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
@@ -971,7 +971,7 @@ Die Registrierung zur Erbringung von Kontoinformationsdiensten ist zu versagen, 
 
 (2) Hat die Bundesanstalt im Fall des Absatzes 1 tatsächliche Anhaltspunkte dafür, dass im Zusammenhang mit der geplanten Beauftragung eines Agenten oder E-Geld-Agenten oder der Gründung einer Zweigniederlassung Geldwäsche im Sinne des § 261 des Strafgesetzbuchs oder Terrorismusfinanzierung im Sinne des § 1 Absatz 2 des Geldwäschegesetzes stattfinden, stattgefunden haben oder versucht wurden, oder dass die Beauftragung des Agenten oder die Gründung der Zweigniederlassung das Risiko erhöht, dass Geldwäsche oder Terrorismusfinanzierung stattfinden, so unterrichtet die Bundesanstalt die zuständige Behörde des Herkunftsmitgliedstaates. Zuständige Behörde des Herkunftsmitgliedstaates ist die Behörde, die die Eintragung des Agenten oder der Zweigniederlassung in das dortige Zahlungsinstituts-Register oder E-Geld-Instituts-Register ablehnen oder, falls bereits eine Eintragung erfolgt ist, löschen kann.
 
-(3) Auf Institute im Sinne des Absatzes 1 Satz 1 sind § 17 des Finanzdienstleistungsaufsichtsgesetzes sowie die §§ 3, 7 bis 9 und 19 Absatz 1 und 4 anzuwenden. Auf Institute, die eine Zweigniederlassung errichten oder Agenten heranziehen, sind zusätzlich § 27 Absatz 1 Satz 2 Nummer 5, Absatz 2 bis 4, § 28 Absatz 1 Nummer 1, 2, 6 und 7 sowie die §§ 60 bis 62 mit der Maßgabe anzuwenden, dass eine oder mehrere Zweigniederlassungen desselben Unternehmens im Inland als eine Zweigniederlassung gelten. Änderungen des Geschäftsplans, insbesondere der Art der geplanten Geschäfte und des organisatorischen Aufbaus der Zweigniederlassung, der Anschrift und der Leiter sind der Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen.
+(3) Auf Institute im Sinne des Absatzes 1 Satz 1 sind § 17 des Finanzdienstleistungsaufsichtsgesetzes sowie die §§ 3, 7 bis 9 und 19 Absatz 1 und 4 anzuwenden. Auf Institute, die eine Zweigniederlassung errichten oder Agenten heranziehen, sind zusätzlich § 27 Absatz 1 Satz 2 Nummer 5, Absatz 2 bis 4, § 28 Absatz 1 Nummer 1, 2, 6 und 7 sowie die §§ 60 bis 62 mit der Maßgabe anzuwenden, dass eine oder mehrere Zweigniederlassungen desselben Unternehmens im Inland als eine Zweigniederlassung gelten. Änderungen des Geschäftsplans, insbesondere der Art der geplanten Geschäfte und des organisatorischen Aufbaus der Zweigniederlassung, der Anschrift und der Leiter sind der Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor dem Wirksamwerden der Änderungen in Textform anzuzeigen.
 
 (4) Für Agenten, E-Geld-Agenten und zentrale Kontaktpersonen gilt Absatz 3 Satz 1 entsprechend.
 
