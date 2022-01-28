@@ -19,6 +19,8 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 2. den jeweiligen Anforderungen an die Reinheit nach dem Anhang der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1), die zuletzt durch die Verordnung (EU) 2018/1481 (ABl. L 251 vom 5.10.2018, S. 13) geändert worden ist, in der jeweils geltenden Fassung entsprechen.
 
+Satz 1 gilt nicht, soweit die Stoffe und Zubereitungen aus diesen Stoffen zur Färbung ausschließlich in Arzneimitteln verwendet werden, die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25) fallen.
+
 (2) Arzneimittel im Sinne des § 2 Abs. 1 des Arzneimittelgesetzes, die nicht nach den Vorschriften des Absatzes 1 hergestellt sind, dürfen im Geltungsbereich des Arzneimittelgesetzes nicht in den Verkehr gebracht werden.
 
 # § 2

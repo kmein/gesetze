@@ -213,7 +213,7 @@ Ordnungswidrigkeiten
 
 (1) Diese Verordnung findet Anwendung auf den Betrieb und die Einrichtung von öffentlichen Apotheken einschließlich der krankenhausversorgenden Apotheken, Zweig- und Notapotheken sowie von Krankenhausapotheken. Ihre Vorschriften legen fest, wie die ordnungsgemäße Versorgung der Bevölkerung mit Arzneimitteln und apothekenpflichtigen Medizinprodukten sicherzustellen ist.
 
-(2) Diese Verordnung findet auf den Apothekenbetrieb insoweit keine Anwendung, als eine Erlaubnis nach § 13, § 52a oder § 72 des Arzneimittelgesetzes erteilt worden ist.
+(2) Diese Verordnung findet auf den Apothekenbetrieb insoweit keine Anwendung, als eine Erlaubnis nach § 13, § 52a oder § 72 des Arzneimittelgesetzes oder nach Artikel 61 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) erteilt worden ist.
 
 (3) Die Medizinprodukte-Betreiberverordnung in der Fassung der Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396), die Vorschriften des Kapitels 5 des Medizinprodukterecht-Durchführungsgesetzes vom 28. April 2020 (BGBl. I S. 960) und die Medizinprodukte-Anwendermelde- und Informationsverordnung vom 21. April 2021 (BGBl. I S. 833), jeweils in der geltenden Fassung, bleiben unberührt.
 
@@ -633,7 +633,7 @@ Die Angaben müssen in gut lesbarer Schrift und auf dauerhafte Weise angebracht 
 
 (1a) Soweit es sich bei den Arzneimitteln um aus Fertigarzneimitteln entnommene Teilmengen handelt, sind neben der vom Arzneimittelgesetz geforderten Kennzeichnung Name und Anschrift der Apotheke anzugeben.
 
-(1b) Für die Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung am Menschen bestimmt sind, ist § 5 der GCP-Verordnung anzuwenden.
+(1b) Für die Kennzeichnung von Arzneimitteln, die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen, sind die Artikel 66 und 67 in Verbindung mit Anhang VI der Verordnung (EU) Nr. 536/2014 in der jeweils geltenden Fassung anzuwenden. Für die Kennzeichnung sonstiger Arzneimittel, die zur klinischen Prüfung am Menschen bestimmt sind, ist § 5 der GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die durch Artikel 13 Absatz 4 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) aufgehoben worden ist, in der am Tag vor ihrem Außerkrafttreten geltenden Fassung anzuwenden.
 
 (2) Auf Defekturarzneimittel, die als Fertigarzneimittel in einer zur Abgabe an den Verbraucher bestimmten Packung vorrätig gehalten werden und
 
@@ -1252,6 +1252,12 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 (1) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, sind die §§ 2a, 4 Absatz 1 Satz 2 Nummer 1 Buchstabe a, § 34 Absatz 3 Satz 1 und 4 sowie § 35 Absatz 3 Satz 2 erst ab dem 1. Juni 2014 anzuwenden; bis zu diesem Zeitpunkt müssen die Räume jedoch weiterhin den bis zum 11. Juni 2012 geltenden Vorschriften entsprechen.
 
 (2) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden; bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich mindestens den Anforderungen der Klasse A für die lokale Zone und der Klasse C für den Umgebungsbereich entsprechen.
+
+# § 38 – Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+(1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
+
+(2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden, wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) eingereicht wurde. Für die betreffende klinische Prüfung ist diese Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden.
 
 # Anlage 1 – (weggefallen)
 

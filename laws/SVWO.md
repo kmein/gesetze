@@ -2037,7 +2037,7 @@ Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz 2 Numme
 
 (Fundstelle: BGBl. I 2021, 173 - 176)
 
-<a href="../normengrafiken/bgbl1_2021/j0173_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2022/j0105_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3 – (zu § 15 Absatz 1)
 

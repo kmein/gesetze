@@ -313,6 +313,8 @@ Im Falle des Satzes 1 ist durch die Einhaltung vergleichbarer Standards und Verf
 
 (6) Die Vorschriften der Durchführungsverordnung (EU) Nr. 520/2012 der Kommission vom 19. Juni 2012 über die Durchführung der in der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates und der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vorgesehenen Pharmakovigilanz-Aktivitäten (ABl. L 159 vom 20.6.2012, S. 5) bleiben unberührt.
 
+(7) Diese Verordnung findet keine Anwendung auf Arzneimittel zur klinischen Prüfung bei Menschen und auf Hilfspräparate, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) unterliegen, soweit nicht in einzelnen Bestimmungen dieser Verordnung ausdrücklich auf die Verordnung (EU) Nr. 536/2014 Bezug genommen wird.
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
@@ -329,7 +331,7 @@ Im Sinne dieser Verordnung
 
 6. sind Inprozesskontrollen während der Herstellung vorgenommene Überprüfungen zur Überwachung und erforderlichenfalls Anpassung des Prozesses und zur Sicherstellung, dass das Produkt seiner Spezifikation entspricht,
 
-7. sind Prüfpräparate Arzneimittel im Sinne von § 3 Abs. 3 der GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die durch die Verordnung vom 15. März 2006 (BGBl. I S. 542) geändert wurde,
+7. sind Prüfpräparate Arzneimittel im Sinne von § 3 Abs. 3 der GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die durch Artikel 13 Absatz 4 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) aufgehoben worden ist, in der am Tag vor ihrem Außerkrafttreten geltenden Fassung,
 
 8. ist Leitung der Herstellung oder Leitung der Qualitätskontrolle der Leiter oder die Leiterin der Herstellung oder der Qualitätskontrolle im Sinne von § 14 Abs. 1 Nr. 2 des Arzneimittelgesetzes,
 
@@ -541,7 +543,7 @@ Die Leitung der Herstellung und die Leitung der Qualitätskontrolle muss voneina
 
 (3a) Soweit Fertigarzneimittel, die ein Sicherheitsmerkmal im Sinne von § 10 Absatz 1c des Arzneimittelgesetzes tragen, von einem anderen Hersteller umverpackt werden sollen, hat sich der Hersteller vor der teilweisen oder vollständigen Entfernung oder Überdeckung der Sicherheitsmerkmale von der Echtheit des Arzneimittels zu überzeugen. Die Sicherheitsmerkmale dürfen nur durch solche ersetzt werden, die in gleichwertiger Weise die Prüfung auf Echtheit und Unversehrtheit der äußeren Umhüllung erlauben. Dabei darf die Primärverpackung nicht geöffnet werden.
 
-(4) Durch räumliche oder zeitliche Trennung der einzelnen Herstellungsvorgänge oder durch andere geeignete technische oder organisatorische Maßnahmen ist Vorsorge zu treffen, dass Kreuzkontaminationen und Verwechslungen vermieden werden. Bei der Herstellung von Prüfpräparaten sind darüber hinaus besondere Vorsichtsmaßnahmen während und nach der Verblindung im Sinne von § 3 Abs. 10 der GCP-Verordnung einzuhalten.
+(4) Durch räumliche oder zeitliche Trennung der einzelnen Herstellungsvorgänge oder durch andere geeignete technische oder organisatorische Maßnahmen ist Vorsorge zu treffen, dass Kreuzkontaminationen und Verwechslungen vermieden werden. Bei der Herstellung von Prüfpräparaten sind darüber hinaus besondere Vorsichtsmaßnahmen während und nach der Verblindung im Sinne von § 3 Abs. 10 der GCP-Verordnung in der am Tag vor ihrem Außerkrafttreten nach Artikel 13 Absatz 4 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung einzuhalten.
 
 (5) Die zur Herstellung angewandten Verfahren sind nach dem jeweiligen Stand von Wissenschaft und Technik zu validieren. Kritische Phasen eines Herstellungsverfahrens müssen regelmäßig revalidiert werden. Abweichend von Satz 1 ist bei Prüfpräparaten der Herstellungsprozess als Ganzes zu validieren, soweit dies angezeigt ist, wobei der Produktentwicklungsphase Rechnung zu tragen ist; kritische Prozessschritte sind stets zu validieren. Alle Schritte für die Auslegung und die Entwicklung des Herstellungsprozesses für das Prüfpräparat sind vollständig zu dokumentieren.
 
@@ -653,7 +655,7 @@ Die nach den Sätzen 3 bis 6 beizufügenden Unterlagen und erforderlichen Angabe
 
 (2) Die für die Freigabe nach § 16 verantwortliche sachkundige Person nach § 14 des Arzneimittelgesetzes hat sicherzustellen, dass Rückstellmuster von jeder Charge der für die Arzneimittelherstellung verwendeten Ausgangsstoffe mindestens zwei Jahre nach Freigabe der unter Verwendung dieser Ausgangsstoffe hergestellten Arzneimittel aufbewahrt werden, es sei denn, in den Zulassungsunterlagen ist eine kürzere Haltbarkeit angegeben. Satz 1 gilt nicht für Lösungsmittel, Gase und Wasser. Absatz 1 Satz 6 findet entsprechende Anwendung.
 
-(3) Abweichend von Absatz 1 hat die für die Freigabe nach § 16 verantwortliche sachkundige Person nach § 14 des Arzneimittelgesetzes sicherzustellen, dass von Prüfpräparaten sowie deren Kennzeichnungs- und bedruckte Verpackungsmaterialien ausreichende Muster jeder Herstellungscharge mindestens zwei Jahre nach Abschluss oder Abbruch der letzten klinischen Prüfung, bei der die betreffende Charge zur Anwendung kam, aufbewahrt werden. Soweit Angaben nach § 5 der GCP-Verordnung in Begleitdokumenten gemacht werden, sind auch die Muster dieser Begleitdokumente für jede Charge aufzubewahren.
+(3) Abweichend von Absatz 1 hat die für die Freigabe nach § 16 verantwortliche sachkundige Person nach § 14 des Arzneimittelgesetzes sicherzustellen, dass von Prüfpräparaten sowie deren Kennzeichnungs- und bedruckte Verpackungsmaterialien ausreichende Muster jeder Herstellungscharge mindestens zwei Jahre nach Abschluss oder Abbruch der letzten klinischen Prüfung, bei der die betreffende Charge zur Anwendung kam, aufbewahrt werden. Soweit Angaben nach § 5 der GCP-Verordnung in der am Tag vor ihrem Außerkrafttreten nach Artikel 13 Absatz 4 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung in Begleitdokumenten gemacht werden, sind auch die Muster dieser Begleitdokumente für jede Charge aufzubewahren.
 
 (4) Die Aufbewahrung der Rückstellmuster eines Fertigarzneimittels nach Absatz 1 muss im Geltungsbereich des Arzneimittelgesetzes erfolgen. Von Satz 1 kann abgesehen werden, wenn die Rückstellmuster in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gelagert werden.
 
@@ -663,7 +665,7 @@ Die nach den Sätzen 3 bis 6 beizufügenden Unterlagen und erforderlichen Angabe
 
 (2) Der oder die Stufenplanbeauftragte hat die zuständige Behörde über jeden Mangel, der zu einem Rückruf oder zu einer ungewöhnlichen Einschränkung des Vertriebs führen könnte, unverzüglich zu unterrichten und dabei auch mitzuteilen, in welche Staaten das Arzneimittel verbracht oder ausgeführt wurde. Darüber hinaus ist die Behörde auch über jeden Verdacht einer Arzneimittel- oder Wirkstofffälschung unverzüglich zu unterrichten; bei Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ist auch der Inhaber der Zulassung zu unterrichten.
 
-(3) Der oder die Stufenplanbeauftragte hat die nach dem Arzneimittelgesetz bestehenden Anzeigepflichten zu erfüllen, soweit sie Arzneimittelrisiken betreffen. Die Meldeverpflichtungen nach § 14 der GCP-Verordnung bleiben unberührt.
+(3) Der oder die Stufenplanbeauftragte hat die nach dem Arzneimittelgesetz bestehenden Anzeigepflichten zu erfüllen, soweit sie Arzneimittelrisiken betreffen. Die Meldeverpflichtungen nach § 14 der GCP-Verordnung in der am Tag vor ihrem Außerkrafttreten nach Artikel 13 Absatz 4 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung bleiben unberührt.
 
 (4) Absatz 1 gilt für Prüfpräparate entsprechend. Der oder die Stufenplanbeauftragte ist dafür verantwortlich, dass in Zusammenarbeit mit dem Sponsor Beanstandungen systematisch aufgezeichnet, überprüft und wirkungsvolle systematische Vorkehrungen getroffen werden, damit eine weitere Anwendung der Prüfpräparate verhindert werden kann, sofern dies notwendig ist. Jeder Mangel, der zu einem Rückruf oder zu einer ungewöhnlichen Einschränkung des Vertriebs führen könnte, ist zu dokumentieren und zu untersuchen und die zuständige Behörde unverzüglich davon zu unterrichten und dabei auch mitzuteilen, an welche Prüfstellen innerhalb oder außerhalb des Geltungsbereiches des Arzneimittelgesetzes das Prüfpräparat ausgeliefert wurde. Sofern das Prüfpräparat ein zugelassenes Arzneimittel ist, muss der oder die Stufenplanbeauftragte in Zusammenarbeit mit dem Sponsor den Zulassungsinhaber über jeden Mangel informieren, der mit dem zugelassenen Arzneimittel in Verbindung stehen kann.
 
@@ -674,6 +676,8 @@ Die nach den Sätzen 3 bis 6 beizufügenden Unterlagen und erforderlichen Angabe
 (7) Soweit ein pharmazeutischer Unternehmer andere als die in § 63a Abs. 1 Satz 1 des Arzneimittelgesetzes genannten Produkte in den Verkehr bringt, hat er eine entsprechende Person mit der Wahrnehmung der Aufgaben des oder der Stufenplanbeauftragten zu beauftragen. Die entsprechend beauftragte Person ist für die Einhaltung der Verpflichtungen nach den Absätzen 1 bis 5 verantwortlich.
 
 (8) Der pharmazeutische Unternehmer hat dafür zu sorgen, dass alle im Betrieb eingehenden Meldungen über Arzneimittelrisiken und Beanstandungen sowie Informationen für die Beurteilung des Nutzen-Risiko-Verhältnisses eines Arzneimittels unverzüglich dem oder der Stufenplanbeauftragten oder der nach Absatz 7 Satz 1 entsprechend beauftragten Person mitgeteilt werden.
+
+(9) Die Absätze 1 bis 3 und 5 bis 8 gelten entsprechend für Hilfspräparate im Sinne von Artikel 2 Absatz 2 Nummer 8 und 10 der Verordnung (EU) Nr. 536/2014.
 
 # § 20 – Aufbewahrung der Dokumentation
 
@@ -697,7 +701,7 @@ Die nach den Sätzen 3 bis 6 beizufügenden Unterlagen und erforderlichen Angabe
 
 in lesbarer Form in einem geeigneten Speichermedium mindestens 30 Jahre und die anderen Aufzeichnungen über die Spendenentnahme und die damit verbundenen Maßnahmen gemäß § 11 Abs. 1 des Transfusionsgesetzes mindestens 15 Jahre aufzubewahren oder zu speichern. Die Angaben müssen gelöscht werden, wenn die Aufbewahrung oder Speicherung nicht mehr erforderlich ist. Werden die Aufzeichnungen länger als 30 Jahre aufbewahrt oder gespeichert, sind sie zu anonymisieren. Ist kein pharmazeutischer Unternehmer vorhanden, hat der Erlaubnisinhaber die Vorsorge nach Absatz 1 Satz 4 zu treffen.
 
-(3) (weggefallen)
+(3) Die Absätze 1 und 2 gelten entsprechend für Hilfspräparate im Sinne von Artikel 2 Absatz 2 Nummer 8 und 10 der Verordnung (EU) Nr. 536/2014.
 
 (4) Absatz 1 gilt bei Prüfpräparaten mit der Maßgabe, dass die Unterlagen mindestens fünf Jahre nach Abschluss oder Abbruch der letzten klinischen Prüfung, bei der die betreffende Charge zur Anwendung kam, aufzubewahren sind.
 
@@ -1364,3 +1368,9 @@ Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt
 (1) Auf Gewebe, Gewebezubereitungen sowie hämatopoetische Stammzellen und Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut, die bereits am 29. Oktober 2016 gelagert sind und die bis zum 28. Oktober 2021 in den Verkehr gebracht werden, sind § 20 Absatz 3, § 31 Absatz 4a und 8a Satz 2, § 31 Absatz 14 und Abschnitt 5b nicht anzuwenden und sind § 34 Absatz 6 Satz 1 und Absatz 7 Satz 2, § 40 Absatz 3 Satz 4 und Absatz 4 Satz 2 und § 41 Absatz 1 in der jeweils bis zum 25. November 2016 geltenden Fassung bis zum 28. Oktober 2021 weiter anzuwenden. Sofern diese Gewebe, diese Gewebezubereitungen oder diese hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut nicht bis zum 28. Oktober 2021 in den Verkehr gebracht werden und bei ihnen der Einheitliche Europäische Code nicht angebracht werden kann, sind sie nach § 41b Absatz 5 Satz 4 zu kennzeichnen.
 
 (2) § 31 Absatz 8a Satz 2 und Abschnitt 5b sind ab dem 29. April 2017 anzuwenden.
+
+# § 44 – Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+(1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
+
+(2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden, wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) eingereicht wurde. Für die betreffende klinische Prüfung ist diese Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden.

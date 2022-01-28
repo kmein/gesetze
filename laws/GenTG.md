@@ -1239,7 +1239,7 @@ In der Rechtsverordnung nach Absatz 1 können auch andere Arten der Deckungsvors
 
 # § 37 – Haftung nach anderen Rechtsvorschriften
 
-(1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen bestimmten Arzneimittels, das im Geltungsbereich des Arzneimittelgesetzes an den Verbraucher abgegeben wurde und der Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von der Zulassung befreit worden ist, jemand getötet oder an Körper oder Gesundheit verletzt, so sind die §§ 32 bis 36 nicht anzuwenden.
+(1) Wird infolge der Anwendung eines Arzneimittels, das im Geltungsbereich des Arzneimittelgesetzes an den Verbraucher abgegeben wurde und der Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von der Zulassung befreit worden ist, jemand getötet oder an Körper oder Gesundheit verletzt, so sind die §§ 32 bis 36 nicht anzuwenden.
 
 (2) Das gleich gilt, wenn Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, auf Grund einer Genehmigung nach § 16 Abs. 2 oder einer Zulassung oder Genehmigung nach sonstigen Rechtsvorschriften im Sinne des § 14 Abs. 2 in den Verkehr gebracht werden. In diesem Fall findet für die Haftung desjenigen Herstellers, dem die Zulassung oder Genehmigung für das Inverkehrbringen erteilt worden ist, § 1 Abs. 2 Nr. 5 des Produkthaftungsgesetzes keine Anwendung, wenn der Produktfehler auf gentechnischen Arbeiten beruht.
 

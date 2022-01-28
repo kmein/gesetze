@@ -2341,7 +2341,6 @@
 - [GBV](laws/GBV.md) Verordnung zur Durchführung der Grundbuchordnung
 - [GBWiederhV](laws/GBWiederhV.md) Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden
 - [GBZugV](laws/GBZugV.md) Berufszugangsverordnung für den Güterkraftverkehr
-- [GCP-V](laws/GCP-V.md) Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen
 - [GDBNDVerfSchVDV](laws/GDBNDVerfSchVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes
 - [GDtWahlVDVtr](laws/GDtWahlVDVtr.md) Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GDtWahlVDVtrÄndVtr](laws/GDtWahlVDVtrÄndVtr.md) Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
