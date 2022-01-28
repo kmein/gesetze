@@ -65,6 +65,10 @@ Der Verantwortliche für das Inverkehrbringen
 
 Kennzeichnung
 
+§ 10a
+
+Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen
+
 § 11
 
 Packungsbeilage
@@ -275,11 +279,27 @@ Schutz des Menschen bei der klinischen Prüfung
 
 § 40
 
-Allgemeine Voraussetzungen der klinischen Prüfung
+Verfahren zur Genehmigung einer klinischen Prüfung
+
+§ 40a
+
+Allgemeine Voraussetzungen für die klinische Prüfung
+
+§ 40b
+
+Besondere Voraussetzungen für die klinische Prüfung
+
+§ 40c
+
+Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren
+
+§ 40d
+
+Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde
 
 § 41
 
-Besondere Voraussetzungen der klinischen Prüfung
+Stellungnahme der Ethik-Kommission
 
 § 41a
 
@@ -295,15 +315,19 @@ Verordnungsermächtigung
 
 § 42
 
-Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde
+Korrekturmaßnahmen
 
 § 42a
 
-Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
+Datenschutz
 
 § 42b
 
 Veröffentlichung der Ergebnisse klinischer Prüfungen
+
+§ 42c
+
+Inspektionen
 
  
 
@@ -515,11 +539,11 @@ Europäisches Verfahren
 
 § 63f
 
-Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen
+Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien
 
 § 63g
 
-Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen
+Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien
 
 § 63h
 
@@ -963,8 +987,6 @@ Siebzehnter Unterabschnitt
 
  
 
- 
-
 Achtzehnter Unterabschnitt
 
  
@@ -993,6 +1015,20 @@ Neunzehnter Unterabschnitt
 
  
 
+Zwanzigster Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 148
+
+Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+
+ 
+
+ 
+
 Einundzwanzigster Unterabschnitt
 
  
@@ -1002,6 +1038,8 @@ Einundzwanzigster Unterabschnitt
 § 149
 
 Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
 
  
 
@@ -1131,11 +1169,11 @@ Stoffe im Sinne dieses Gesetzes sind
 
 (22a) Arzneimittelvermittlung ist jede berufs- oder gewerbsmäßig ausgeübte Tätigkeit von Personen, die, ohne Großhandel zu betreiben, selbstständig und im fremden Namen mit Arzneimitteln im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1, die zur Anwendung bei Menschen bestimmt sind, handeln, ohne tatsächliche Verfügungsgewalt über diese Arzneimittel zu erlangen.
 
-(23) Klinische Prüfung bei Menschen ist jede am Menschen durchgeführte Untersuchung, die dazu bestimmt ist, klinische oder pharmakologische Wirkungen von Arzneimitteln zu erforschen oder nachzuweisen oder Nebenwirkungen festzustellen oder die Resorption, die Verteilung, den Stoffwechsel oder die Ausscheidung zu untersuchen, mit dem Ziel, sich von der Unbedenklichkeit oder Wirksamkeit der Arzneimittel zu überzeugen. Satz 1 gilt nicht für eine Untersuchung, die eine nichtinterventionelle Prüfung ist. Nichtinterventionelle Prüfung ist eine Untersuchung, in deren Rahmen Erkenntnisse aus der Behandlung von Personen mit Arzneimitteln anhand epidemiologischer Methoden analysiert werden; dabei folgt die Behandlung einschließlich der Diagnose und Überwachung nicht einem vorab festgelegten Prüfplan, sondern ausschließlich der ärztlichen Praxis; soweit es sich um ein zulassungspflichtiges oder nach § 21a Absatz 1 genehmigungspflichtiges Arzneimittel handelt, erfolgt dies ferner gemäß den in der Zulassung oder der Genehmigung festgelegten Angaben für seine Anwendung.
+(23) Klinische Prüfung bei Menschen ist eine solche im Sinne des Artikels 2 Absatz 2 Nummer 2 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25). Keine klinische Prüfung ist eine nichtinterventionelle Studie im Sinne des Artikels 2 Absatz 2 Nummer 4 der Verordnung (EU) Nr. 536/2014.
 
-(24) Sponsor ist eine natürliche oder juristische Person, die die Verantwortung für die Veranlassung, Organisation und Finanzierung einer klinischen Prüfung bei Menschen übernimmt.
+(24) Sponsor ist eine Person, ein Unternehmen, eine Einrichtung oder eine Organisation im Sinne des Artikels 2 Absatz 2 Nummer 14 der Verordnung (EU) Nr. 536/2014.
 
-(25) Prüfer ist in der Regel ein für die Durchführung der klinischen Prüfung bei Menschen in einer Prüfstelle verantwortlicher Arzt oder in begründeten Ausnahmefällen eine andere Person, deren Beruf auf Grund seiner wissenschaftlichen Anforderungen und der seine Ausübung voraussetzenden Erfahrungen in der Patientenbetreuung für die Durchführung von Forschungen am Menschen qualifiziert. Wird eine klinische Prüfung in einer Prüfstelle von einer Gruppe von Personen durchgeführt, so ist der Prüfer der für die Durchführung verantwortliche Leiter dieser Gruppe. Wird eine Prüfung in mehreren Prüfstellen durchgeführt, wird vom Sponsor ein Prüfer als Leiter der klinischen Prüfung benannt.
+(25) Prüfer ist eine Person im Sinne des Artikels 2 Absatz 2 Nummer 15 der Verordnung (EU) Nr. 536/2014. Hauptprüfer ist eine Person im Sinne des Artikels 2 Absatz 2 Nummer 16 der Verordnung (EU) Nr. 536/2014.
 
 (26) Homöopathisches Arzneimittel ist ein Arzneimittel, das nach einem im Europäischen Arzneibuch oder, in Ermangelung dessen, nach einem in den offiziell gebräuchlichen Pharmakopöen der Mitgliedstaaten der Europäischen Union beschriebenen homöopathischen Zubereitungsverfahren hergestellt worden ist. Ein homöopathisches Arzneimittel kann auch mehrere Wirkstoffe enthalten.
 
@@ -1165,7 +1203,7 @@ b) jedes Risiko unerwünschter Auswirkungen auf die Umwelt.
 
 (33) Anthroposophisches Arzneimittel ist ein Arzneimittel, das nach der anthroposophischen Menschen- und Naturerkenntnis entwickelt wurde, nach einem im Europäischen Arzneibuch oder, in Ermangelung dessen, nach einem in den offiziell gebräuchlichen Pharmakopöen der Mitgliedstaaten der Europäischen Union beschriebenen homöopathischen Zubereitungsverfahren oder nach einem besonderen anthroposophischen Zubereitungsverfahren hergestellt worden ist und das bestimmt ist, entsprechend den Grundsätzen der anthroposophischen Menschen- und Naturerkenntnis angewendet zu werden.
 
-(34) Eine Unbedenklichkeitsprüfung bei einem Arzneimittel, das zur Anwendung bei Menschen bestimmt ist, ist jede Prüfung zu einem zugelassenen Arzneimittel, die durchgeführt wird, um ein Sicherheitsrisiko zu ermitteln, zu beschreiben oder zu quantifizieren, das Sicherheitsprofil eines Arzneimittels zu bestätigen oder die Effizienz von Risikomanagement-Maßnahmen zu messen.
+(34) Eine Unbedenklichkeitsstudie bei einem Arzneimittel, das zur Anwendung bei Menschen bestimmt ist, ist jede Studie zu einem zugelassenen Arzneimittel, die durchgeführt wird, um ein Sicherheitsrisiko zu ermitteln, zu beschreiben oder zu quantifizieren, das Sicherheitsprofil eines Arzneimittels zu bestätigen oder die Effizienz von Risikomanagement-Maßnahmen zu messen.
 
 (35) Eine Unbedenklichkeitsprüfung bei einem Arzneimittel, das zur Anwendung bei Tieren bestimmt ist, ist eine pharmakoepidemiologische Studie oder klinische Prüfung entsprechend den Bedingungen der Zulassung mit dem Ziel, eine Gesundheitsgefahr im Zusammenhang mit einem zugelassenen Tierarzneimittel festzustellen und zu beschreiben.
 
@@ -1186,6 +1224,8 @@ b) jedes Risiko unerwünschter Auswirkungen auf die Umwelt.
 3. den in Aufzeichnungen und Dokumenten beschriebenen Vertriebsweg.
 
 (41) Ein gefälschter Wirkstoff ist ein Wirkstoff, dessen Kennzeichnung auf dem Behältnis nicht den tatsächlichen Inhalt angibt oder dessen Begleitdokumentation nicht alle beteiligten Hersteller oder nicht den tatsächlichen Vertriebsweg widerspiegelt.
+
+(42) EU-Portal ist das gemäß Artikel 80 der Verordnung (EU) Nr. 536/2014 auf EU-Ebene eingerichtete und unterhaltene Portal für die Übermittlung von Daten und Informationen im Zusammenhang mit klinischen Prüfungen.
 
 # § 4a – Ausnahmen vom Anwendungsbereich
 
@@ -1472,6 +1512,12 @@ Arzneimittel zur Anwendung bei Tieren, die in das Register für homöopathische 
 (+++ § 10 Abs. 1: Zur Anwendung vgl. § 109 Abs. 1 +++)  
 § 10 Abs. 1c: Eingef. durch Art. 1. Nr. 7 Buchst. c G v. 19.10.2012 I 2192 mWv ersten Tag des vierten Jahres, der auf die Verkündung des delegierten Rechtsaktes der Europäischen Kommission nach Artikel 54a Absatz 2 der Richtlinie 2001/83/EG im Amtsblatt der Europäischen Union folgt; Inkraft gem. Art. 12a Nr. 1 G v. 20.12.2016 I 3048 mWv 9.2.2019
 
+# § 10a – Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen
+
+(1) Prüf- und Hilfspräparate für klinische Prüfungen bei Menschen müssen in deutscher Sprache gekennzeichnet sein.
+
+(2) Angaben, die zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in beiden Sprachversionen inhaltsgleich sein.
+
 # § 11 – Packungsbeilage
 
 (1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 sind und die nicht zur klinischen Prüfung oder Rückstandsprüfung bestimmt oder nach § 21 Abs. 2 Nr. 1a 1b oder 6 von der Zulassungspflicht freigestellt sind, dürfen im Geltungsbereich dieses Gesetzes nur mit einer Packungsbeilage in den Verkehr gebracht werden, die die Überschrift "Gebrauchsinformation" trägt sowie folgende Angaben in der nachstehenden Reihenfolge allgemein verständlich in deutscher Sprache, in gut lesbarer Schrift und in Übereinstimmung mit den Angaben nach § 11a enthalten muss:
@@ -1711,7 +1757,7 @@ soweit es geboten ist, um einen ordnungsgemäßen Umgang mit Arzneimitteln und d
 
 1. die Kennzeichnung von Ausgangsstoffen, die für die Herstellung von Arzneimitteln bestimmt sind, und
 
-2. die Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung bestimmt sind,
+2. die Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung bestimmt sind und nicht in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen,
 
 zu regeln, soweit es geboten ist, um eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch oder Tier zu verhüten, die infolge mangelnder Kennzeichnung eintreten könnte.
 
@@ -1747,13 +1793,15 @@ gewerbs- oder berufsmäßig herstellt, bedarf einer Erlaubnis der zuständigen B
 
 3. Gewebezubereitungen, für die es einer Erlaubnis nach § 20c bedarf,
 
-4. die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind.
+4. die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung außerhalb des Anwendungsbereichs der Verordnung (EU) Nr. 536/2014 bestimmt sind.
 
 (2) Einer Erlaubnis nach Absatz 1 bedarf nicht
 
-1. der Inhaber einer Apotheke für die Herstellung von Arzneimitteln im Rahmen des üblichen Apothekenbetriebs, oder für die Rekonstitution oder das Abpacken einschließlich der Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung bestimmt sind, sofern dies dem Prüfplan entspricht,
+1. der Inhaber einer Apotheke für die Herstellung von Arzneimitteln im Rahmen des üblichen Apothekenbetriebs, oder für die Rekonstitution oder das Abpacken einschließlich der Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung außerhalb des Anwendungsbereichs der Verordnung (EU) Nr. 536/2014 bestimmt sind, sofern dies dem Prüfplan entspricht,
 
-2. der Träger eines Krankenhauses, soweit er nach dem Gesetz über das Apothekenwesen Arzneimittel abgeben darf, oder für die Rekonstitution oder das Abpacken einschließlich der Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung bestimmt sind, sofern dies dem Prüfplan entspricht,
+2. der Träger eines Krankenhauses, soweit er nach dem Gesetz über das Apothekenwesen Arzneimittel abgeben darf, oder für die Rekonstitution oder das Abpacken einschließlich der Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung außerhalb des Anwendungsbereichs der Verordnung (EU) Nr. 536/2014 bestimmt sind, sofern dies dem Prüfplan entspricht,
+
+2a. die Apotheke für die in Artikel 61 Absatz 5 der Verordnung (EU) Nr. 536/2014 genannten Tätigkeiten,
 
 3. der Tierarzt im Rahmen des Betriebes einer tierärztlichen Hausapotheke für
 
@@ -1779,11 +1827,11 @@ b) das Umfüllen, Abpacken oder Kennzeichnen von sonstigen Arzneimitteln in unve
 
 6. der Hersteller von Wirkstoffen, die für die Herstellung von Arzneimitteln bestimmt sind, die nach einer im Homöopathischen Teil des Arzneibuches beschriebenen Verfahrenstechnik hergestellt werden.
 
-(2a) Die Ausnahmen nach Absatz 2 gelten nicht für die Herstellung von Blutzubereitungen, Gewebezubereitungen, Sera, Impfstoffen, Allergenen, Testsera, Testantigenen, Arzneimitteln für neuartige Therapien, xenogenen und radioaktiven Arzneimitteln. Satz 1 findet keine Anwendung auf die in Absatz 2 Nummer 1 oder Nummer 2 genannten Einrichtungen, soweit es sich um
+(2a) Die Ausnahmen nach Absatz 2 Nummer 1, 2, 3 bis 6 gelten nicht für die Herstellung von Blutzubereitungen, Gewebezubereitungen, Sera, Impfstoffen, Allergenen, Testsera, Testantigenen, Arzneimitteln für neuartige Therapien, xenogenen und radioaktiven Arzneimitteln. Satz 1 findet keine Anwendung auf die in Absatz 2 Nummer 1 oder Nummer 2 genannten Einrichtungen, soweit es sich um
 
 1. das patientenindividuelle Umfüllen in unveränderter Form, das Abpacken oder Kennzeichnen von im Geltungsbereich dieses Gesetzes zugelassenen Sera nicht menschlichen oder tierischen Ursprungs oder
 
-2. die Rekonstitution oder das Umfüllen, das Abpacken oder Kennzeichnen von Arzneimitteln, die zur klinischen Prüfung bestimmt sind, sofern dies dem Prüfplan entspricht, oder
+2. die Rekonstitution oder das Umfüllen, das Abpacken oder Kennzeichnen von Arzneimitteln, die zur klinischen Prüfung außerhalb des Anwendungsbereichs der Verordnung (EU) Nr. 536/2014 bestimmt sind, sofern dies dem Prüfplan entspricht, oder
 
 3. die Herstellung von Testallergenen
 
@@ -1802,6 +1850,12 @@ handelt. Tätigkeiten nach Satz 2 Nummer 1 und 3 sind der zuständigen Behörde 
 (3) Eine nach Absatz 1 für das Umfüllen von verflüssigten medizinischen Gasen in das Lieferbehältnis eines Tankfahrzeuges erteilte Erlaubnis umfasst auch das Umfüllen der verflüssigten medizinischen Gase in unveränderter Form aus dem Lieferbehältnis eines Tankfahrzeuges in Behältnisse, die bei einem Krankenhaus oder anderen Verbrauchern aufgestellt sind.
 
 (4) Die Entscheidung über die Erteilung der Erlaubnis trifft die zuständige Behörde des Landes, in dem die Betriebsstätte liegt oder liegen soll. Bei Blutzubereitungen, Gewebezubereitungen, Sera, Impfstoffen, Allergenen, Arzneimitteln für neuartige Therapien, xenogenen Arzneimitteln, gentechnisch hergestellten Arzneimitteln sowie Wirkstoffen und anderen zur Arzneimittelherstellung bestimmten Stoffen, die menschlicher, tierischer oder mikrobieller Herkunft sind oder die auf gentechnischem Wege hergestellt werden, ergeht die Entscheidung über die Erlaubnis im Benehmen mit der zuständigen Bundesoberbehörde.
+
+(5) Die Erlaubnis zur Herstellung von Prüf- oder Hilfspräparaten im Sinne des Artikels 2 Absatz 2 Nummer 5 und 8 der Verordnung (EU) Nr. 536/2014 wird von der zuständigen Behörde nach Maßgabe des Artikels 61 Absatz 1 bis 3 der Verordnung (EU) Nr. 536/2014 erteilt. Für die Erteilung der Erlaubnis finden die §§ 16, 17 und 64 Absatz 3a Satz 2 entsprechende Anwendung.
+
+(6) Der Inhaber der Erlaubnis nach Absatz 5 ist verpflichtet, der sachkundigen Person nach § 14 Absatz 1 Nummer 1 und § 15 die Erfüllung ihrer Aufgabe zu ermöglichen und ihr insbesondere alle erforderlichen Hilfsmittel zur Verfügung zu stellen.
+
+§ 13 Abs. 2 Nr. 1 (früher Satz 1 Nr. 1): IdF d. Art. 1 Nr. 13 Buchst. c DBuchst. aa aaa G v. 17.7.2009 I 1990 mWv 23.7.2009 u. d. Art. 2 Nr. 5 Buchst. b DBuchst. aa G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 13 Abs. 5 u. 6: Eingef. durch Art. 2 Nr. 5 Buchst. d G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft.
 
 # § 14 – Entscheidung über die Herstellungserlaubnis
 
@@ -1999,7 +2053,7 @@ Einer Erlaubnis nach § 20b Absatz 1 und § 20c Absatz 1 bedarf nicht eine Perso
 
 # § 21 – Zulassungspflicht
 
-(1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 sind, dürfen im Geltungsbereich dieses Gesetzes nur in den Verkehr gebracht werden, wenn sie durch die zuständige Bundesoberbehörde zugelassen sind oder wenn für sie die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 auch in Verbindung mit der Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1) oder der Verordnung (EG) Nr. 1394/2007 erteilt hat. Das gilt auch für Arzneimittel, die keine Fertigarzneimittel und zur Anwendung bei Tieren bestimmt sind, sofern sie nicht an pharmazeutische Unternehmer abgegeben werden sollen, die eine Erlaubnis zur Herstellung von Arzneimitteln besitzen.
+(1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 sind, dürfen im Geltungsbereich dieses Gesetzes nur in den Verkehr gebracht werden, wenn sie durch die zuständige Bundesoberbehörde zugelassen sind oder wenn für sie die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 auch in Verbindung mit der Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1), der Verordnung (EG) Nr. 1394/2007 oder der Verordnung (EU) Nr. 536/2014 erteilt hat. Das gilt auch für Arzneimittel, die keine Fertigarzneimittel und zur Anwendung bei Tieren bestimmt sind, sofern sie nicht an pharmazeutische Unternehmer abgegeben werden sollen, die eine Erlaubnis zur Herstellung von Arzneimitteln besitzen.
 
 (2) Einer Zulassung bedarf es nicht für Arzneimittel, die
 
@@ -2169,7 +2223,7 @@ Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von drei Monaten
 
 3. die Ergebnisse der klinischen Prüfungen oder sonstigen ärztlichen, zahnärztlichen oder tierärztlichen Erprobung,
 
-4. eine Erklärung, dass außerhalb der Europäischen Union durchgeführte klinische Prüfungen unter ethischen Bedingungen durchgeführt wurden, die mit den ethischen Bedingungen der Richtlinie 2001/20/EG des Parlaments und des Rates vom 4. April 2001 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Anwendung der guten klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Humanarzneimitteln (ABl. EG Nr. L 121 vom 1.5.2001, S. 34) gleichwertig sind,
+4. eine Erklärung, dass außerhalb der Europäischen Union durchgeführte klinische Prüfungen unter ethischen Bedingungen durchgeführt wurden, die mit den ethischen Bedingungen der Verordnung (EU) Nr. 536/2014 gleichwertig sind,
 
 5. bei Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, eine zusammenfassende Beschreibung des Pharmakovigilanz-Systems des Antragstellers, die Folgendes umfassen muss:
 
@@ -2419,7 +2473,7 @@ c) Hinweise auf Auflagen nach Absatz 3,
 
 1. bestimmte im Risikomanagement-System enthaltene Maßnahmen zur Gewährleistung der sicheren Anwendung des Arzneimittels zu ergreifen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
-2. Unbedenklichkeitsprüfungen durchzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
+2. Unbedenklichkeitsstudien durchzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
 3. Verpflichtungen im Hinblick auf die Erfassung oder Meldung von Verdachtsfällen von Nebenwirkungen, die über jene des Zehnten Abschnitts hinausgehen, einzuhalten, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
@@ -2427,17 +2481,17 @@ c) Hinweise auf Auflagen nach Absatz 3,
 
 5. ein angemessenes Pharmakovigilanz-System einzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
-6. soweit Bedenken bezüglich einzelner Aspekte der Wirksamkeit des Arzneimittels bestehen, die erst nach seinem Inverkehrbringen beseitigt werden können, Wirksamkeitsprüfungen nach der Zulassung durchzuführen, die den Vorgaben in Artikel 21a Satz 1 Buchstabe f der Richtlinie 2001/83/EG entsprechen.
+6. soweit Bedenken bezüglich einzelner Aspekte der Wirksamkeit des Arzneimittels bestehen, die erst nach seinem Inverkehrbringen beseitigt werden können, Wirksamkeitsstudien nach der Zulassung durchzuführen, die den Vorgaben in Artikel 21a Satz 1 Buchstabe f der Richtlinie 2001/83/EG entsprechen.
 
 (3b) Die zuständige Bundesoberbehörde kann bei Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, nach Erteilung der Zulassung ferner durch Auflagen anordnen,
 
 1. ein Risikomanagement-System und einen Risikomanagement-Plan einzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
-2. Unbedenklichkeitsprüfungen durchzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
+2. Unbedenklichkeitsstudien durchzuführen, wenn dies im Interesse der Arzneimittelsicherheit erforderlich ist,
 
-3. eine Wirksamkeitsprüfung durchzuführen, wenn Erkenntnisse über die Krankheit oder die klinische Methodik darauf hindeuten, dass frühere Bewertungen der Wirksamkeit erheblich korrigiert werden müssen; die Verpflichtung, diese Wirksamkeitsprüfung nach der Zulassung durchzuführen, muss den Vorgaben nach Artikel 22a Absatz 1 Buchstabe b Satz 2 der Richtlinie 2001/83/EG entsprechen.
+3. eine Wirksamkeitsstudie durchzuführen, wenn Erkenntnisse über die Krankheit oder die klinische Methodik darauf hindeuten, dass frühere Bewertungen der Wirksamkeit erheblich korrigiert werden müssen; die Verpflichtung, diese Wirksamkeitsstudie nach der Zulassung durchzuführen, muss den Vorgaben nach Artikel 22a Absatz 1 Buchstabe b Satz 2 der Richtlinie 2001/83/EG entsprechen.
 
-Liegen die Voraussetzungen für eine Auflage nach Satz 1 Nummer 2 für mehr als ein Arzneimittel vor und sind dies Arzneimittel, die in mehreren Mitgliedstaaten zugelassen sind, empfiehlt die zuständige Bundesoberbehörde nach Befassung des Ausschusses für Risikobewertung im Bereich der Pharmakovigilanz nach Artikel 56 Absatz 1 Doppelbuchstabe aa der Verordnung (EG) Nr. 726/2004 den betroffenen Inhabern der Zulassung, eine gemeinsame Unbedenklichkeitsprüfung nach der Zulassung durchzuführen.
+Liegen die Voraussetzungen für eine Auflage nach Satz 1 Nummer 2 für mehr als ein Arzneimittel vor und sind dies Arzneimittel, die in mehreren Mitgliedstaaten zugelassen sind, empfiehlt die zuständige Bundesoberbehörde nach Befassung des Ausschusses für Risikobewertung im Bereich der Pharmakovigilanz nach Artikel 56 Absatz 1 Doppelbuchstabe aa der Verordnung (EG) Nr. 726/2004 den betroffenen Inhabern der Zulassung, eine gemeinsame Unbedenklichkeitsstudie nach der Zulassung durchzuführen.
 
 (3c) Die zuständige Bundesoberbehörde kann durch Auflage ferner anordnen, dass bei der Herstellung und Kontrolle solcher Arzneimittel und ihrer Ausgangsstoffe, die biologischer Herkunft sind oder auf biotechnischem Wege hergestellt werden,
 
@@ -2867,65 +2921,93 @@ Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, gilt Satz 1 entsp
 
 (9) (weggefallen)
 
-# § 40 – Allgemeine Voraussetzungen der klinischen Prüfung
+# § 40 – Verfahren zur Genehmigung einer klinischen Prüfung
 
-(1) Der Sponsor, der Prüfer und alle weiteren an der klinischen Prüfung beteiligten Personen haben bei der Durchführung der klinischen Prüfung eines Arzneimittels bei Menschen die Anforderungen der guten klinischen Praxis nach Maßgabe des Artikels 1 Abs. 3 der Richtlinie 2001/20/EG einzuhalten. Die klinische Prüfung eines Arzneimittels bei Menschen darf vom Sponsor nur begonnen werden, wenn die zuständige Ethik-Kommission diese nach Maßgabe des § 42 Abs. 1 zustimmend bewertet und die zuständige Bundesoberbehörde diese nach Maßgabe des § 42 Abs. 2 genehmigt hat. Die klinische Prüfung eines Arzneimittels darf bei Menschen nur durchgeführt werden, wenn und solange
+(1) Mit der klinischen Prüfung von Arzneimitteln bei Menschen darf nur begonnen werden, wenn die zuständige Bundesoberbehörde die klinische Prüfung nach Artikel 8 der Verordnung (EU) Nr. 536/2014 genehmigt hat.
 
-1. ein Sponsor oder ein Vertreter des Sponsors vorhanden ist, der seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat,
+(2) Der nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 536/2014 zu stellende Antrag auf Genehmigung einer klinischen Prüfung ist über das EU-Portal in deutscher oder englischer Sprache einzureichen. Die Unterlagen, die für die betroffene Person oder deren gesetzlichen Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
 
-2. die vorhersehbaren Risiken und Nachteile gegenüber dem Nutzen für die Person, bei der sie durchgeführt werden soll (betroffene Person), und der voraussichtlichen Bedeutung des Arzneimittels für die Heilkunde ärztlich vertretbar sind,
+(3) Der Antrag wird nach Artikel 5 Absatz 3 der Verordnung (EU) Nr. 536/2014 durch die zuständige Bundesoberbehörde validiert. Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt zu den Antragsunterlagen hinsichtlich der Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist. § 41 Absatz 3 Satz 1 gilt entsprechend. Bei der Validierung des Antrags hinsichtlich der Voraussetzungen nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, sowie nach § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1 und 9, Absatz 5 und 6 ist die Bundesoberbehörde an die Bewertung der nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständigen Ethik-Kommission gebunden.
 
-2a. nach dem Stand der Wissenschaft im Verhältnis zum Zweck der klinischen Prüfung eines Arzneimittels, das aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen besteht oder solche enthält, unvertretbare schädliche Auswirkungen auf
+(4) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach Artikel 6 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 1 und 4 und des § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014. Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt zu den Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist.
+
+(5) Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt die Aufgaben nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und des § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1, Satz 3 hinsichtlich der Festlegung der Einwilligung, Satz 4 bis 9, Absatz 5 und 6. § 41 Absatz 2 gilt entsprechend.
+
+(6) Die zuständige Bundesoberbehörde erhebt eine Gesamtgebühr im Sinne der Artikel 86 und 87 der Verordnung (EU) Nr. 536/2014. Die zuständige Ethik-Kommission erhebt eine Gebühr für die Bearbeitung eines Antrags nach Maßgabe der Rechtsverordnung nach § 41b Absatz 1 und teilt diese der zuständigen Bundesoberbehörde mit. Diese Gebühr ist in den Gebührenbescheid über die Gesamtgebühr nach Satz 1 aufzunehmen.
+
+(7) Bei Prüfpräparaten, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, sind zusätzlich zu dem nach Absatz 2 einzureichenden Antrag bei der zuständigen Bundesoberbehörde folgende Unterlagen gemäß den Anhängen II und III zur Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates vom 12. März 2001 über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates (ABl. L 106 vom 17.4.2001, S. 1), die zuletzt durch die Richtlinie (EU) 2015/412 (ABl. L 68 vom 13.3.2015, S. 1) geändert worden ist, einzureichen:
+
+1. eine Darlegung und Bewertung der Risiken für die Gesundheit nicht betroffener Personen und die Umwelt sowie eine Darlegung der vorgesehenen Vorkehrungen,
+
+2. Informationen über den gentechnisch veränderten Organismus, über die Bedingungen der klinischen Prüfung und über die den gentechnisch veränderten Organismus möglicherweise aufnehmende Umwelt sowie Informationen über die Wechselwirkungen zwischen dem gentechnisch veränderten Organismus und der Umwelt,
+
+3. einen Beobachtungsplan zur Ermittlung der Auswirkungen auf die Gesundheit nicht betroffener Personen und die Umwelt sowie eine Beschreibung der geplanten Überwachungsmaßnahmen und Angaben über entstehende Reststoffe und ihre Behandlung sowie über Notfallpläne.
+
+Der Sponsor kann insoweit auch auf Unterlagen Bezug nehmen, die ein Dritter in einem vorangegangenen Verfahren vorgelegt hat, sofern es sich nicht um vertrauliche Angaben handelt. Die zuständige Bundesoberbehörde stellt das Benehmen mit dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit her. Die Genehmigung der klinischen Prüfung durch die zuständige Bundesoberbehörde umfasst die Genehmigung der Freisetzung dieser gentechnisch veränderten Organismen im Rahmen der klinischen Prüfung.
+
+(8) Die zuständige Bundesoberbehörde übermittelt die Entscheidung nach Artikel 8 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 über das EU-Portal an den Sponsor. Sie ist dabei an den Bewertungsbericht der Ethik-Kommission nach Absatz 5 gebunden. Weicht die Bundesoberbehörde von der Stellungnahme der Ethik-Kommission nach Absatz 4 Satz 2 ab, so bezeichnet sie die zuständige Ethik-Kommission, gibt das Ergebnis der Stellungnahme der Ethik-Kommission wieder und begründet ihr Abweichen von dieser Stellungnahme. In der Begründung kann auf in englischer Sprache abgefasste Bewertungsberichte Bezug genommen werden. Die zuständige Bundesoberbehörde übermittelt die Entscheidung nach Artikel 8 Absatz 2 Unterabsatz 3 der Verordnung (EU) Nr. 536/2014.
+
+# § 40a – Allgemeine Voraussetzungen für die klinische Prüfung
+
+Über die Voraussetzungen nach der Verordnung (EU) Nr. 536/2014 hinaus darf eine klinische Prüfung bei Menschen nur durchgeführt werden, solange
+
+1. ein Sponsor oder ein Vertreter des Sponsors bei rein nationalen sowie bei national und in Drittstaaten durchgeführten klinischen Prüfungen vorhanden ist, der seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat,
+
+2. die Person, bei der die klinische Prüfung durchgeführt werden soll (betroffene Person) nicht auf gerichtliche oder behördliche Anordnung in einer Anstalt untergebracht ist,
+
+3. für den Fall, dass bei der Durchführung der klinischen Prüfung ein Mensch getötet oder der Körper oder die Gesundheit eines Menschen verletzt wird, eine Versicherung, die auch Leistungen gewährt, wenn kein anderer für den Schaden haftet, nach folgenden Maßgaben besteht:
+
+a) die Versicherung muss zugunsten der von der klinischen Prüfung betroffenen Person bei einem in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassenen Versicherer genommen werden,
+
+b) der Umfang der Versicherung muss in einem angemessenen Verhältnis zu den mit einer klinischen Prüfung verbundenen Risiken stehen und auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für jeden Fall des Todes oder der fortdauernden Erwerbsunfähigkeit einer von der klinischen Prüfung betroffenen Person mindestens 500 000 Euro zur Verfügung stehen,
+
+4. nach dem Stand der Wissenschaft im Verhältnis zum Zweck der klinischen Prüfung eines Arzneimittels, das aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen besteht oder solche enthält, unvertretbare schädliche Auswirkungen nicht zu erwarten sind auf
 
 a) die Gesundheit Dritter und
 
-b) die Umwelt
+b) die Umwelt,
 
-nicht zu erwarten sind,
+5. sie in einer nach Artikel 50 in Verbindung mit Anhang I Nummer 67 der Verordnung (EU) Nr. 536/2014 geeigneten Einrichtung stattfindet.
 
-3. die betroffene Person
+Bei xenogenen Arzneimitteln müssen die Anforderungen nach Satz 1 Nummer 3 im Hinblick auf eine Versicherung von Drittrisiken erfüllt sein. Einer Versicherung nach Satz 1 Nummer 3 bedarf es nicht bei einer minimalinterventionellen klinischen Prüfung nach Artikel 2 Absatz 2 Nummer 3 der Verordnung (EU) Nr. 536/2014, soweit eine anderweitige Versicherung für Prüfer und Sponsor besteht. Soweit aus der Versicherung nach Satz 1 Nummer 3 geleistet wird, erlischt ein Anspruch auf Schadensersatz.
 
-a) volljährig und in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten,
+# § 40b – Besondere Voraussetzungen für die klinische Prüfung
 
-b) nach Absatz 2 Satz 1 aufgeklärt worden ist und schriftlich eingewilligt hat, soweit in Absatz 4 oder in § 41 nichts Abweichendes bestimmt ist und
+(1) Ergänzend zu Artikel 29 der Verordnung (EU) Nr. 536/2014 gelten für die Einwilligung der betroffenen Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihres gesetzlichen Vertreters die Vorgaben nach den Absätzen 2 bis 5.
 
-c) nach Absatz 2a Satz 1 und 2 informiert worden ist und schriftlich oder elektronisch eingewilligt hat; die Einwilligung muss sich ausdrücklich auch auf die Verarbeitung von Angaben über die Gesundheit beziehen,
+(2) Die betroffene Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihr gesetzlicher Vertreter ist durch einen Prüfer, der Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, oder durch ein Mitglied des Prüfungsteams, das Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, im Rahmen des Gesprächs nach Artikel 29 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 536/2014 aufzuklären.
 
-4. die betroffene Person nicht auf gerichtliche oder behördliche Anordnung in einer Anstalt untergebracht ist,
+(3) Eine klinische Prüfung darf bei einem Minderjährigen, der in der Lage ist, das Wesen, die Bedeutung und die Tragweite der klinischen Prüfung zu erkennen und seinen Willen hiernach auszurichten, nur durchgeführt werden, wenn auch seine schriftliche Einwilligung nach Aufklärung gemäß Artikel 29 der Verordnung (EU) Nr. 536/2014 zusätzlich zu der schriftlichen Einwilligung, die sein gesetzlicher Vertreter nach Aufklärung erteilt hat, vorliegt. Erklärt ein Minderjähriger, der nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und seinen Willen hiernach auszurichten, nicht an der klinischen Prüfung teilnehmen zu wollen, oder bringt er dies in sonstiger Weise zum Ausdruck, so gilt dies als ausdrücklicher Wunsch im Sinne des Artikels 31 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 536/2014.
 
-5. sie in einer geeigneten Einrichtung von einem angemessen qualifizierten Prüfer verantwortlich durchgeführt wird und die Prüfung von einem Prüfer mit mindestens zweijähriger Erfahrung in der klinischen Prüfung von Arzneimitteln geleitet wird,
+(4) Eine klinische Prüfung mit einer Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, darf nur durchgeführt werden, wenn
 
-6. eine dem jeweiligen Stand der wissenschaftlichen Erkenntnisse entsprechende pharmakologisch-toxikologische Prüfung des Arzneimittels durchgeführt worden ist,
+1. die Voraussetzungen des Artikels 31 Absatz 1 der Verordnung (EU) Nr. 536/2014 und
 
-7. jeder Prüfer durch einen für die pharmakologisch-toxikologische Prüfung verantwortlichen Wissenschaftler über deren Ergebnisse und die voraussichtlich mit der klinischen Prüfung verbundenen Risiken informiert worden ist,
+2. die Voraussetzungen des Artikels 31 Absatz 3 der Verordnung (EU) Nr. 536/2014
 
-8. für den Fall, dass bei der Durchführung der klinischen Prüfung ein Mensch getötet oder der Körper oder die Gesundheit eines Menschen verletzt wird, eine Versicherung nach Maßgabe des Absatzes 3 besteht, die auch Leistungen gewährt, wenn kein anderer für den Schaden haftet, und
+vorliegen.
 
-9. für die medizinische Versorgung der betroffenen Person ein Arzt oder bei zahnmedizinischer Behandlung ein Zahnarzt verantwortlich ist.
+Erklärt eine Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, nicht an der klinischen Prüfung teilnehmen zu wollen, oder bringt sie dies in sonstiger Weise zum Ausdruck, so gilt dies als ausdrücklicher Wunsch im Sinne des Artikels 31 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 536/2014. Bei einer volljährigen Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, darf eine klinische Prüfung im Sinne des Artikels 31 Absatz 1 Buchstabe g Ziffer ii der Verordnung (EU) Nr. 536/2014, die ausschließlich einen Nutzen für die repräsentierte Bevölkerungsgruppe, zu der die betroffene Person gehört, zur Folge haben wird (gruppennützige klinische Prüfung), nur durchgeführt werden, soweit die betroffene Person als einwilligungsfähige volljährige Person für den Fall ihrer Einwilligungsunfähigkeit schriftlich nach ärztlicher Aufklärung festgelegt hat, dass sie in bestimmte, zum Zeitpunkt der Festlegung noch nicht unmittelbar bevorstehende gruppennützige klinische Prüfungen einwilligt. Der Betreuer prüft, ob diese Festlegungen auf die aktuelle Situation zutreffen. Die Erklärung kann jederzeit formlos widerrufen werden. § 1901a Absatz 1, 4 und 5 des Bürgerlichen Gesetzbuches gilt im Übrigen entsprechend. Die betroffene Person ist über sämtliche für die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören insbesondere die Aufklärung über das Wesen, die Ziele, den Nutzen, die Folgen, die Risiken und die Nachteile klinischer Prüfungen, die unter den Bedingungen des Artikels 31 der Verordnung (EU) Nr. 536/2014 stattfinden, sowie die in Artikel 29 Absatz 2 Buchstabe a Ziffer ii und iv der Verordnung (EU) Nr. 536/2014 angeführten Inhalte. Bei Minderjährigen, für die nach Erreichen der Volljährigkeit Satz 1 gelten würde, darf eine solche gruppennützige klinische Prüfung nicht durchgeführt werden.
 
-Kann die betroffene Person nicht schreiben, so kann in Ausnahmefällen statt der in Satz 3 Nummer 3 Buchstabe b und c geforderten schriftlichen Einwilligung eine mündliche Einwilligung in Anwesenheit von mindestens einem Zeugen, der auch bei der Information der betroffenen Person einbezogen war, erteilt werden. Der Zeuge darf keine bei der Prüfstelle beschäftigte Person und kein Mitglied der Prüfgruppe sein. Die mündlich erteilte Einwilligung ist schriftlich zu dokumentieren, zu datieren und von dem Zeugen zu unterschreiben.
+(5) Eine klinische Prüfung darf in Notfällen nur durchgeführt werden, wenn die Voraussetzungen des Artikels 35 der Verordnung (EU) Nr. 536/2014 vorliegen.
 
-(1a) Der Prüfer bestimmt angemessen qualifizierte Mitglieder der Prüfgruppe. Er hat sie anzuleiten und zu überwachen sowie ihnen die für ihre Tätigkeit im Rahmen der Durchführung der klinischen Prüfung erforderlichen Informationen, insbesondere den Prüfplan und die Prüferinformation, zur Verfügung zu stellen. Der Prüfer hat mindestens einen Stellvertreter mit vergleichbarer Qualifikation zu benennen.
+(6) Die betroffene Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihr gesetzlicher Vertreter muss ausdrücklich und entweder schriftlich oder elektronisch in die Verarbeitung von personenbezogenen Daten, insbesondere von Gesundheitsdaten, einwilligen. Sie ist über Zweck und Umfang der Verarbeitung dieser Daten aufzuklären. Sie ist insbesondere darüber zu informieren, dass
 
-(1b) Einer Versicherung nach Absatz 1 Satz 3 Nummer 8 bedarf es nicht bei klinischen Prüfungen mit zugelassenen Arzneimitteln, wenn die Anwendung gemäß den in der Zulassung festgelegten Angaben erfolgt und Risiken und Belastungen durch zusätzliche Untersuchungen oder durch den Therapievergleich gering sind und soweit eine anderweitige Versicherung für Prüfer und Sponsor besteht.
-
-(2) Die betroffene Person ist durch einen Prüfer, der Arzt oder, bei zahnmedizinischer Prüfung, Zahnarzt ist, oder durch ein Mitglied der Prüfgruppe, das Arzt oder, bei zahnmedizinischer Prüfung, Zahnarzt ist, über Wesen, Bedeutung, Risiken und Tragweite der klinischen Prüfung sowie über ihr Recht aufzuklären, die Teilnahme an der klinischen Prüfung jederzeit zu beenden; ihr ist eine allgemein verständliche Aufklärungsunterlage auszuhändigen. Der betroffenen Person ist ferner Gelegenheit zu einem Beratungsgespräch mit einem Prüfer oder einem Mitglied der Prüfgruppe, das Arzt oder, bei zahnmedizinischer Prüfung, Zahnarzt ist, über die sonstigen Bedingungen der Durchführung der klinischen Prüfung zu geben. Eine nach Absatz 1 Satz 3 Nummer 3 Buchstabe b erklärte Einwilligung in die Teilnahme an einer klinischen Prüfung kann jederzeit gegenüber dem Prüfer oder einem Mitglied der Prüfgruppe schriftlich, elektronisch oder mündlich widerrufen werden, ohne dass der betroffenen Person dadurch Nachteile entstehen dürfen.
-
-(2a) Die betroffene Person ist über Zweck und Umfang der Verarbeitung personenbezogener Daten, insbesondere von Gesundheitsdaten zu informieren. Sie ist insbesondere darüber zu informieren, dass
-
-1. die erhobenen Daten soweit erforderlich
+1. die erhobenen Daten, soweit erforderlich,
 
 a) zur Einsichtnahme durch die Überwachungsbehörde oder Beauftragte des Sponsors zur Überprüfung der ordnungsgemäßen Durchführung der klinischen Prüfung bereitgehalten werden,
 
 b) pseudonymisiert an den Sponsor oder eine von diesem beauftragte Stelle zum Zwecke der wissenschaftlichen Auswertung weitergegeben werden,
 
-c) im Falle eines Antrags auf Zulassung pseudonymisiert an den Antragsteller und die für die Zulassung zuständige Behörde weitergegeben werden,
+c) im Fall eines Antrags auf Zulassung pseudonymisiert an den Antragsteller und die für die Zulassung zuständige Behörde weitergegeben werden,
 
-d) im Falle unerwünschter Ereignisse des zu prüfenden Arzneimittels pseudonymisiert an den Sponsor und die zuständige Bundesoberbehörde sowie von dieser an die Europäische Datenbank weitergegeben werden,
+d) im Fall unerwünschter Ereignisse und schwerwiegender unerwünschter Ereignisse nach Artikel 41 Absatz 1, 2 und 4 der Verordnung (EU) Nr. 536/2014 pseudonymisiert vom Prüfer an den Sponsor weitergegeben werden,
 
-2. sie die Einwilligung nach Absatz 1 Satz 3 Nummer 3 Buchstabe c jederzeit widerrufen kann,
+e) im Fall mutmaßlicher unerwarteter schwerwiegender Nebenwirkungen nach Artikel 42 der Verordnung (EU) Nr. 536/2014 pseudonymisiert vom Sponsor an die Datenbank nach Artikel 40 Absatz 1 der Verordnung (EU) Nr. 536/2014 weitergegeben werden,
 
-3. im Falle eines Widerrufs der nach Absatz 1 Satz 3 Nummer 3 Buchstabe b oder Buchstabe c erklärten Einwilligung die gespeicherten Daten weiterhin verarbeitet werden dürfen, soweit dies erforderlich ist, um
+f) im Fall unerwarteter Ereignisse nach Artikel 53 Absatz 1 der Verordnung (EU) Nr. 536/2014 pseudonymisiert vom Sponsor an das EU-Portal weitergegeben werden,
+
+2. im Fall eines Widerrufs der nach Satz 1 und Absatz 1 erklärten Einwilligungen die gespeicherten Daten weiterhin verarbeitet werden dürfen, soweit dies erforderlich ist, um
 
 a) Wirkungen des zu prüfenden Arzneimittels festzustellen,
 
@@ -2933,63 +3015,45 @@ b) sicherzustellen, dass schutzwürdige Interessen der betroffenen Person nicht 
 
 c) der Pflicht zur Vorlage vollständiger Zulassungsunterlagen zu genügen,
 
-4. die Daten bei den genannten Stellen für die auf Grund des § 42 Abs. 3 bestimmten Fristen gespeichert werden.
+3. die Daten bei Prüfer und Sponsor für die aufgrund des Artikels 58 Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 bestimmte Frist gespeichert werden.
 
-Im Falle eines Widerrufs der nach Absatz 1 Satz 3 Nummer 3 Buchstabe b oder Buchstabe c erklärten Einwilligung haben die verantwortlichen Stellen unverzüglich zu prüfen, inwieweit die gespeicherten Daten für die in Satz 2 Nr. 3 genannten Zwecke noch erforderlich sein können. Nicht mehr benötigte Daten sind unverzüglich zu löschen. Im Übrigen sind die erhobenen personenbezogenen Daten nach Ablauf der auf Grund des § 42 Abs. 3 bestimmten Fristen zu löschen, soweit nicht gesetzliche, satzungsmäßige oder vertragliche Aufbewahrungsfristen entgegenstehen.
+(7) Die Kontaktstelle im Sinne des Artikels 28 Absatz 1 Buchstabe g der Verordnung (EU) Nr. 536/2014 ist bei der nach § 77 zuständigen Bundesoberbehörde einzurichten.
 
-(3) Die Versicherung nach Absatz 1 Satz 3 Nr. 8 muss zugunsten der von der klinischen Prüfung betroffenen Personen bei einem in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassenen Versicherer genommen werden. Ihr Umfang muss in einem angemessenen Verhältnis zu den mit der klinischen Prüfung verbundenen Risiken stehen und auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für jeden Fall des Todes oder der dauernden Erwerbsunfähigkeit einer von der klinischen Prüfung betroffenen Person mindestens 500 000 Euro zur Verfügung stehen. Soweit aus der Versicherung geleistet wird, erlischt ein Anspruch auf Schadensersatz.
+# § 40c – Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren
 
-(4) Auf eine klinische Prüfung bei Minderjährigen finden die Absätze 1 bis 3 mit folgender Maßgabe Anwendung:
+(1) Für die Verfahren zur späteren Hinzufügung eines zusätzlichen betroffenen Mitgliedstaates der Europäischen Union nach Artikel 14 der Verordnung (EU) Nr. 536/2014 und zur Genehmigung einer wesentlichen Änderung einer klinischen Prüfung nach den Artikeln 15 bis 24 der Verordnung (EU) Nr. 536/2014 gelten die §§ 40 bis 40b entsprechend.
 
-1. Das Arzneimittel muss zum Erkennen oder zum Verhüten von Krankheiten bei Minderjährigen bestimmt und die Anwendung des Arzneimittels nach den Erkenntnissen der medizinischen Wissenschaft angezeigt sein, um bei dem Minderjährigen Krankheiten zu erkennen oder ihn vor Krankheiten zu schützen. Angezeigt ist das Arzneimittel, wenn seine Anwendung bei dem Minderjährigen medizinisch indiziert ist.
+(2) Im Rahmen des Bewertungsverfahrens nach Artikel 44 der Verordnung (EU) Nr. 536/2014 wird die Bewertung der zuständigen Ethik-Kommission einbezogen.
 
-2. Die klinische Prüfung an Erwachsenen oder andere Forschungsmethoden dürfen nach den Erkenntnissen der medizinischen Wissenschaft keine ausreichenden Prüfergebnisse erwarten lassen.
+(3) Änderungen einer von der zuständigen Bundesoberbehörde genehmigten klinischen Prüfung mit Arzneimitteln, die aus gentechnisch veränderten Organismen bestehen oder diese enthalten und die geeignet sind, die Risikobewertung für die Gesundheit nicht betroffener Personen und die Umwelt zu verändern, darf der Sponsor nur vornehmen, wenn diese Änderungen von der zuständigen Bundesoberbehörde genehmigt wurden. Die Genehmigung ist bei der zuständigen Bundesoberbehörde zu beantragen. Der Antrag ist zu begründen.
 
-3. Die Einwilligung wird durch den gesetzlichen Vertreter abgegeben, nachdem er entsprechend Absatz 2 aufgeklärt worden ist. Sie muss dem mutmaßlichen Willen des Minderjährigen entsprechen, soweit ein solcher feststellbar ist. Der Minderjährige ist vor Beginn der klinischen Prüfung von einem im Umgang mit Minderjährigen erfahrenen Prüfer, der Arzt oder, bei zahnmedizinischer Prüfung, Zahnarzt ist, oder einem entsprechend erfahrenen Mitglied der Prüfgruppe, das Arzt oder, bei zahnmedizinischer Prüfung, Zahnarzt ist, über die Prüfung, die Risiken und den Nutzen aufzuklären, soweit dies im Hinblick auf sein Alter und seine geistige Reife möglich ist; erklärt der Minderjährige, nicht an der klinischen Prüfung teilnehmen zu wollen, oder bringt er dies in sonstiger Weise zum Ausdruck, so ist dies zu beachten. Ist der Minderjährige in der Lage, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und seinen Willen hiernach auszurichten, so ist auch seine Einwilligung erforderlich. Eine Gelegenheit zu einem Beratungsgespräch nach Absatz 2 Satz 2 ist neben dem gesetzlichen Vertreter auch dem Minderjährigen zu eröffnen.
+# § 40d – Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde
 
-4. Die klinische Prüfung darf nur durchgeführt werden, wenn sie für die betroffene Person mit möglichst wenig Belastungen und anderen vorhersehbaren Risiken verbunden ist; sowohl der Belastungsgrad als auch die Risikoschwelle müssen im Prüfplan eigens definiert und vom Prüfer ständig überprüft werden.
+Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder die solche Organismen enthalten,
 
-5. Vorteile mit Ausnahme einer angemessenen Entschädigung dürfen nicht gewährt werden.
+1. treffen der Sponsor und der Prüfer unabhängig vom Vorliegen einer Genehmigung nach § 40c Absatz 3 alle Maßnahmen, die zum Schutz der Gesundheit nicht betroffener Personen und der Umwelt vor unmittelbarer Gefahr geboten sind;
 
-(5) Der betroffenen Person, ihrem gesetzlichen Vertreter oder einem von ihr Bevollmächtigten steht eine zuständige Kontaktstelle zur Verfügung, bei der Informationen über alle Umstände, denen eine Bedeutung für die Durchführung einer klinischen Prüfung beizumessen ist, eingeholt werden können. Die Kontaktstelle ist bei der jeweils zuständigen Bundesoberbehörde einzurichten.
+2. unterrichtet der Prüfer den Sponsor unverzüglich über Beobachtungen von in der Risikobewertung nicht vorgesehenen etwaigen schädlichen Auswirkungen auf die Gesundheit nicht betroffener Personen und die Umwelt;
 
-# § 41 – Besondere Voraussetzungen der klinischen Prüfung
+3. teilt der Sponsor der zuständigen Bundesoberbehörde unverzüglich alle ihm bekannt gewordenen neuen Informationen über Gefahren für die Gesundheit nicht betroffener Personen und für die Umwelt mit;
 
-(1) Auf eine klinische Prüfung bei einer volljährigen Person, die an einer Krankheit leidet, zu deren Behandlung das zu prüfende Arzneimittel angewendet werden soll, findet § 40 Abs. 1 bis 3 mit folgender Maßgabe Anwendung:
+4. informiert der Sponsor die zuständige Bundesoberbehörde unmittelbar nach Abschluss der klinischen Prüfung über die Ergebnisse in Bezug auf die Gefahren für die menschliche Gesundheit oder die Umwelt;
 
-1. Die Anwendung des zu prüfenden Arzneimittels muss nach den Erkenntnissen der medizinischen Wissenschaft angezeigt sein, um das Leben dieser Person zu retten, ihre Gesundheit wiederherzustellen oder ihr Leiden zu erleichtern, oder
+5. unterrichtet die zuständige Bundesoberbehörde die Öffentlichkeit über den hinreichenden Verdacht einer Gefahr für die Gesundheit Dritter oder für die Umwelt in ihrem Wirkungsgefüge einschließlich der zu treffenden Vorsichtsmaßnahmen; wird die Genehmigung zurückgenommen oder widerrufen, das befristete Ruhen der Genehmigung oder eine Änderung der Bedingungen für die klinische Prüfung angeordnet und ist diese Maßnahme unanfechtbar geworden oder sofort vollziehbar, so soll die Öffentlichkeit von der zuständigen Bundesoberbehörde auch hierüber unterrichtet werden; die §§ 17a und 28a Absatz 2 Satz 2 und 3, Absatz 3 und 4 des Gentechnikgesetzes gelten entsprechend.
 
-2. sie muss für die Gruppe der Patienten, die an der gleichen Krankheit leiden wie diese Person, mit einem direkten Nutzen verbunden sein.
+# § 41 – Stellungnahme der Ethik-Kommission
 
-Kann die Einwilligung wegen einer Notfallsituation nicht eingeholt werden, so darf eine Behandlung, die ohne Aufschub erforderlich ist, um das Leben der betroffenen Person zu retten, ihre Gesundheit wiederherzustellen oder ihr Leiden zu erleichtern, umgehend erfolgen. Die Einwilligung zur weiteren Teilnahme ist einzuholen, sobald dies möglich und zumutbar ist.
+(1) Die Stellungnahme der Ethik-Kommission nach § 40 Absatz 4 Satz 2 muss ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit Auflagen im Sinne des Artikels 8 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 536/2014 oder einer Ablehnung der Vertretbarkeit der Durchführung der klinischen Prüfung sowie eine entsprechende Begründung enthalten.
 
-(2) Auf eine klinische Prüfung bei einem Minderjährigen, der an einer Krankheit leidet, zu deren Behandlung das zu prüfende Arzneimittel angewendet werden soll, findet § 40 Abs. 1 bis 4 mit folgender Maßgabe Anwendung:
+(2) Die Ethik-Kommission kann eigene wissenschaftliche Erkenntnisse verwerten, Sachverständige hinzuziehen oder Gutachten von Sachverständigen anfordern. Sie hat Sachverständige beizuziehen oder Gutachten anzufordern, wenn es sich um eine klinische Prüfung von xenogenen Arzneimitteln oder Gentherapeutika handelt.
 
-1. Die Anwendung des zu prüfenden Arzneimittels muss nach den Erkenntnissen der medizinischen Wissenschaft angezeigt sein, um das Leben der betroffenen Person zu retten, ihre Gesundheit wiederherzustellen oder ihr Leiden zu erleichtern, oder
+(2a) Soweit es zur ordnungsgemäßen Erfüllung ihrer Aufgaben nach der Verordnung (EU) Nr. 536/2014 und nach dem Arzneimittelgesetz erforderlich ist, können sich die registrierten Ethik-Kommissionen untereinander und mit den für den Vollzug des Arzneimittelgesetzes zuständigen Behörden und Stellen die für diese Aufgaben erforderlichen personenbezogenen Daten der Prüfer und anderer an der Durchführung der klinischen Prüfung mitwirkender Personen im Sinne des Artikels 49 der Verordnung (EU) Nr. 536/2014 übermitteln.
 
-2. a) die klinische Prüfung muss für die Gruppe der Patienten, die an der gleichen Krankheit leiden wie die betroffene Person, mit einem direkten Nutzen verbunden sein,
-
-b) die Forschung muss für die Bestätigung von Daten, die bei klinischen Prüfungen an anderen Personen oder mittels anderer Forschungsmethoden gewonnen wurden, unbedingt erforderlich sein,
-
-c) die Forschung muss sich auf einen klinischen Zustand beziehen, unter dem der betroffene Minderjährige leidet und
-
-d) die Forschung darf für die betroffene Person nur mit einem minimalen Risiko und einer minimalen Belastung verbunden sein; die Forschung weist nur ein minimales Risiko auf, wenn nach Art und Umfang der Intervention zu erwarten ist, dass sie allenfalls zu einer sehr geringfügigen und vorübergehenden Beeinträchtigung der Gesundheit der betroffenen Person führen wird; sie weist eine minimale Belastung auf, wenn zu erwarten ist, dass die Unannehmlichkeiten für die betroffene Person allenfalls vorübergehend auftreten und sehr geringfügig sein werden.
-
-Satz 1 Nr. 2 gilt nicht für Minderjährige, für die nach Erreichen der Volljährigkeit Absatz 3 Anwendung finden würde.
-
-(3) Auf eine klinische Prüfung bei einer volljährigen Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten und die an einer Krankheit leidet, zu deren Behandlung das zu prüfende Arzneimittel angewendet werden soll, findet § 40 Abs. 1 bis 3 mit folgender Maßgabe Anwendung:
-
-1. Die Anwendung des zu prüfenden Arzneimittels muss nach den Erkenntnissen der medizinischen Wissenschaft angezeigt sein, um das Leben der betroffenen Person zu retten, ihre Gesundheit wiederherzustellen oder ihr Leiden zu erleichtern; außerdem müssen sich derartige Forschungen unmittelbar auf einen lebensbedrohlichen oder sehr geschwächten klinischen Zustand beziehen, in dem sich die betroffene Person befindet, und die klinische Prüfung muss für die betroffene Person mit möglichst wenig Belastungen und anderen vorhersehbaren Risiken verbunden sein; sowohl der Belastungsgrad als auch die Risikoschwelle müssen im Prüfplan eigens definiert und vom Prüfer ständig überprüft werden. Die klinische Prüfung darf nur durchgeführt werden, wenn die begründete Erwartung besteht, dass der Nutzen der Anwendung des Prüfpräparates für die betroffene Person die Risiken überwiegt oder keine Risiken mit sich bringt.
-
-2. Die Einwilligung wird durch den gesetzlichen Vertreter oder Bevollmächtigten abgegeben, nachdem er entsprechend § 40 Abs. 2 aufgeklärt worden ist. § 40 Abs. 4 Nr. 3 Satz 2, 3 und 5 gilt entsprechend.
-
-3. Die Forschung muss für die Bestätigung von Daten, die bei klinischen Prüfungen an zur Einwilligung nach Aufklärung fähigen Personen oder mittels anderer Forschungsmethoden gewonnen wurden, unbedingt erforderlich sein. § 40 Abs. 4 Nr. 2 gilt entsprechend.
-
-4. Vorteile mit Ausnahme einer angemessenen Entschädigung dürfen nicht gewährt werden.
+(3) Die Stellungnahme ist von den zuständigen Bundesoberbehörden bei der Erfüllung ihrer Aufgaben nach § 40 Absatz 4 Satz 1 maßgeblich zu berücksichtigen. Weicht die zuständige Bundesoberbehörde von dem Votum der Ethik-Kommission ab, so hat sie dies gegenüber der Ethik-Kommission schriftlich zu begründen.
 
 # § 41a – Registrierungsverfahren für Ethik-Kommissionen
 
-(1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) dürfen nur öffentlich-rechtliche Ethik-Kommissionen der Länder teilnehmen, die nach Landesrecht für die Prüfung und Bewertung klinischer Prüfungen bei Menschen zuständig sind und nach den Absätzen 2 bis 5 registriert sind.
+(1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 dürfen nur öffentlich-rechtliche Ethik-Kommissionen der Länder teilnehmen, die nach Landesrecht für die Prüfung und Bewertung klinischer Prüfungen bei Menschen zuständig sind und nach den Absätzen 2 bis 5 registriert sind.
 
 (2) Der Antrag auf Registrierung ist vom jeweiligen Träger der öffentlich-rechtlichen Ethik-Kommissionen der Länder bei dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen.
 
@@ -3025,101 +3089,53 @@ Satz 1 Nr. 2 gilt nicht für Minderjährige, für die nach Erreichen der Volljä
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine Bundes-Ethik-Kommission bei dem Bundesinstitut für Arzneimittel und Medizinprodukte und dem Paul-Ehrlich-Institut einzurichten, wenn dies erforderlich ist, um die Bearbeitung der in der Verordnung (EU) Nr. 536/2014 geregelten Verfahren sicherzustellen. Für die Bundes-Ethik-Kommission gelten die Vorgaben dieses Abschnitts mit der Maßgabe, dass die Bundes-Ethik-Kommission als registriert gilt, entsprechend.
 
-# § 42 – Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde
+# § 42 – Korrekturmaßnahmen
 
-(1) Die nach § 40 Abs. 1 Satz 2 erforderliche zustimmende Bewertung der Ethik-Kommission ist vom Sponsor bei der nach Landesrecht für den Prüfer zuständigen unabhängigen interdisziplinär besetzten Ethik-Kommission zu beantragen. Wird die klinische Prüfung von mehreren Prüfern durchgeführt, so ist der Antrag bei der für den Leiter der klinischen Prüfung zuständigen unabhängigen Ethik-Kommission zu stellen. Das Nähere zur Bildung, Zusammensetzung und Finanzierung der Ethik-Kommission wird durch Landesrecht bestimmt. Der Sponsor hat der Ethik-Kommission alle Angaben und Unterlagen vorzulegen, die diese zur Bewertung benötigt. Zur Bewertung der Unterlagen kann die Ethik-Kommission eigene wissenschaftliche Erkenntnisse verwerten, Sachverständige beiziehen oder Gutachten anfordern. Sie hat Sachverständige beizuziehen oder Gutachten anzufordern, wenn es sich um eine klinische Prüfung bei Minderjährigen handelt und sie nicht über eigene Fachkenntnisse auf dem Gebiet der Kinderheilkunde, einschließlich ethischer und psychosozialer Fragen der Kinderheilkunde, verfügt oder wenn es sich um eine klinische Prüfung von xenogenen Arzneimitteln oder Gentherapeutika handelt. Die zustimmende Bewertung darf nur versagt werden, wenn
+(1) Die zuständige Bundesoberbehörde ergreift die in Artikel 77 der Verordnung (EU) Nr. 536/2014 genannten Korrekturmaßnahmen nach Maßgabe der folgenden Absätze.
 
-1. die vorgelegten Unterlagen auch nach Ablauf einer dem Sponsor gesetzten angemessenen Frist zur Ergänzung unvollständig sind,
+(2) Die Genehmigung einer klinischen Prüfung ist zurückzunehmen, wenn bekannt wird, dass die Voraussetzungen der Verordnung (EU) Nr. 536/2014 oder die Voraussetzungen des § 40a oder des § 40b Absatz 2 bis 6 bei der Erteilung der Genehmigung nicht vorlagen. In diesem Fall kann auch das Ruhen der Genehmigung befristet angeordnet werden.
 
-2. die vorgelegten Unterlagen einschließlich des Prüfplans, der Prüferinformation und der Modalitäten für die Auswahl der Prüfungsteilnehmer nicht dem Stand der wissenschaftlichen Erkenntnisse entsprechen, insbesondere die klinische Prüfung ungeeignet ist, den Nachweis der Unbedenklichkeit oder Wirksamkeit eines Arzneimittels einschließlich einer unterschiedlichen Wirkungsweise bei Frauen und Männern zu erbringen, oder
+(3) Die Genehmigung ist zu widerrufen, wenn bekannt wird, dass die in Absatz 2 genannten Voraussetzungen nicht mehr vorliegen. Die Genehmigung kann widerrufen werden, wenn die Gegebenheiten der klinischen Prüfung nicht mit den Angaben im Genehmigungsantrag übereinstimmen oder wenn Tatsachen Anlass zu Zweifeln an der Unbedenklichkeit oder der wissenschaftlichen Grundlage der klinischen Prüfung geben. In den Fällen der Sätze 1 und 2 kann auch das Ruhen der Genehmigung befristet angeordnet werden.
 
-3. die in § 40 Abs. 1 Satz 3 Nr. 2 bis 9, Abs. 4 und § 41 geregelten Anforderungen nicht erfüllt sind.
+(4) Wenn der zuständigen Bundesoberbehörde im Rahmen ihrer Tätigkeit Tatsachen bekannt werden, die die Annahme rechtfertigen, dass die Voraussetzungen der Verordnung (EU) Nr. 536/2014 oder des § 40a oder des § 40b Absatz 2 bis 6 nicht mehr vorliegen, kann sie den Sponsor dazu auffordern, Aspekte der klinischen Prüfung zu ändern. Maßnahmen der zuständigen Überwachungsbehörde gemäß § 69 bleiben davon unberührt.
 
-Das Nähere wird in der Rechtsverordnung nach Absatz 3 bestimmt. Die Ethik-Kommission hat eine Entscheidung über den Antrag nach Satz 1 innerhalb einer Frist von höchstens 60 Tagen nach Eingang der erforderlichen Unterlagen zu übermitteln, die nach Maßgabe der Rechtsverordnung nach Absatz 3 verlängert oder verkürzt werden kann; für die Prüfung xenogener Arzneimittel gibt es keine zeitliche Begrenzung für den Genehmigungszeitraum.
+(5) In den Fällen der Absätze 2 bis 4 nimmt die zuständige Ethik-Kommission vor der Entscheidung der zuständigen Bundesoberbehörde Stellung, es sei denn, es ist Gefahr im Verzug. Soll die Korrekturmaßnahme aufgrund des Fehlens von Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 oder von Voraussetzungen nach § 40a Satz 1 Nummer 4 oder nach § 40b Absatz 4 Satz 3 ergehen, so gilt § 41 Absatz 3 Satz 1 entsprechend. Soll die Korrekturmaßnahme aufgrund des Fehlens von Voraussetzungen nach Artikel 7 der Verordnung (EU) Nr. 536/2014 oder von Voraussetzungen nach § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 oder nach § 40b Absatz 2, 3, 4 Satz 1, 2 und 9, Absatz 5 und 6 ergehen, so ist die Bundesoberbehörde an die Stellungnahme der Ethik-Kommission gebunden.
 
-(2) Die nach § 40 Abs. 1 Satz 2 erforderliche Genehmigung der zuständigen Bundesoberbehörde ist vom Sponsor bei der zuständigen Bundesoberbehörde zu beantragen. Der Sponsor hat dabei alle Angaben und Unterlagen vorzulegen, die diese zur Bewertung benötigt, insbesondere die Ergebnisse der analytischen und der pharmakologisch-toxikologischen Prüfung sowie den Prüfplan und die klinischen Angaben zum Arzneimittel einschließlich der Prüferinformation. Die Genehmigung darf nur versagt werden, wenn
+(6) Ist die Genehmigung einer klinischen Prüfung zurückgenommen oder widerrufen oder ruht sie, so darf die klinische Prüfung nicht fortgesetzt werden.
 
-1. die vorgelegten Unterlagen auch nach Ablauf einer dem Sponsor gesetzten angemessenen Frist zur Ergänzung unvollständig sind,
+(7) Die zuständige Bundesoberbehörde kann die sofortige Unterbrechung der klinischen Prüfung anordnen; in diesem Fall übermittelt sie diese Anordnung unverzüglich dem Sponsor.
 
-2. die vorgelegten Unterlagen, insbesondere die Angaben zum Arzneimittel und der Prüfplan einschließlich der Prüferinformation nicht dem Stand der wissenschaftlichen Erkenntnisse entsprechen, insbesondere die klinische Prüfung ungeeignet ist, den Nachweis der Unbedenklichkeit oder Wirksamkeit eines Arzneimittels einschließlich einer unterschiedlichen Wirkungsweise bei Frauen und Männern zu erbringen,
+(8) Widerspruch und Anfechtungsklage gegen den Widerruf, die Rücknahme, die Anordnung des Ruhens der Genehmigung, die Anordnung der sofortigen Unterbrechung der klinischen Prüfung sowie gegen Anordnungen nach Absatz 4 haben keine aufschiebende Wirkung.
 
-3. die in § 40 Abs. 1 Satz 3 Nr. 1, 2, 2a und 6, bei xenogenen Arzneimitteln auch die in Nummer 8 geregelten Anforderungen insbesondere im Hinblick auf eine Versicherung von Drittrisiken nicht erfüllt sind,
+# § 42a – Datenschutz
 
-4. der zuständigen Bundesoberbehörde Erkenntnisse vorliegen, dass die Prüfeinrichtung für die Durchführung der klinischen Prüfung nicht geeignet ist oder dass von dieser die in Nummer 2 bezeichneten Anforderungen an die klinische Prüfung nicht eingehalten werden können oder
-
-5. die in § 40 Absatz 4 oder § 41 geregelten Anforderungen nicht erfüllt sind.
-
-Die Genehmigung gilt als erteilt, wenn die zuständige Bundesoberbehörde dem Sponsor innerhalb von höchstens 30 Tagen nach Eingang der Antragsunterlagen keine mit Gründen versehenen Einwände übermittelt. Wenn der Sponsor auf mit Gründen versehene Einwände den Antrag nicht innerhalb einer Frist von höchstens 90 Tagen entsprechend abgeändert hat, gilt der Antrag als abgelehnt. Das Nähere wird in der Rechtsverordnung nach Absatz 3 bestimmt. Abweichend von Satz 4 darf die klinische Prüfung von Arzneimitteln,
-
-1. die unter die Nummer 1 des Anhangs der Verordnung (EG) Nr. 726/2004 fallen,
-
-2. die Arzneimittel für neuartige Therapien, xenogene Arzneimittel sind,
-
-3. die genetisch veränderte Organismen enthalten oder
-
-4. deren Wirkstoff ein biologisches Produkt menschlichen oder tierischen Ursprungs ist oder biologische Bestandteile menschlichen oder tierischen Ursprungs enthält oder zu seiner Herstellung derartige Bestandteile erfordert,
-
-nur begonnen werden, wenn die zuständige Bundesoberbehörde dem Sponsor eine schriftliche Genehmigung erteilt hat. Die zuständige Bundesoberbehörde hat eine Entscheidung über den Antrag auf Genehmigung von Arzneimitteln nach Satz 7 Nr. 2 bis 4 innerhalb einer Frist von höchstens 60 Tagen nach Eingang der in Satz 2 genannten erforderlichen Unterlagen zu treffen, die nach Maßgabe einer Rechtsverordnung nach Absatz 3 verlängert oder verkürzt werden kann; für die Prüfung xenogener Arzneimittel gibt es keine zeitliche Begrenzung für den Genehmigungszeitraum.
-
-(2a) Die für die Genehmigung einer klinischen Prüfung nach Absatz 2 zuständige Bundesoberbehörde unterrichtet die nach Absatz 1 zuständige Ethik-Kommission, sofern ihr Informationen zu anderen klinischen Prüfungen vorliegen, die für die Bewertung der von der Ethik-Kommission begutachteten Prüfung von Bedeutung sind; dies gilt insbesondere für Informationen über abgebrochene oder sonst vorzeitig beendete Prüfungen. Dabei unterbleibt die Übermittlung personenbezogener Daten, ferner sind Betriebs- und Geschäftsgeheimnisse dabei zu wahren.
-
-(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zur Gewährleistung der ordnungsgemäßen Durchführung der klinischen Prüfung und der Erzielung dem wissenschaftlichen Erkenntnisstand entsprechender Unterlagen zu treffen. In der Rechtsverordnung können insbesondere Regelungen getroffen werden über:
-
-1. die Aufgaben und Verantwortungsbereiche des Sponsors, der Prüfer oder anderer Personen, die die klinische Prüfung durchführen oder kontrollieren einschließlich von Anzeige-, Dokumentations- und Berichtspflichten insbesondere über Nebenwirkungen und sonstige unerwünschte Ereignisse, die während der Studie auftreten und die Sicherheit der Studienteilnehmer oder die Durchführung der Studie beeinträchtigen könnten,
-
-2. die Aufgaben der und das Verfahren bei Ethik-Kommissionen einschließlich der einzureichenden Unterlagen, auch mit Angaben zur angemessenen Beteiligung von Frauen und Männern als Prüfungsteilnehmerinnen und Prüfungsteilnehmer, der Unterbrechung oder Verlängerung oder Verkürzung der Bearbeitungsfrist und der besonderen Anforderungen an die Ethik-Kommissionen bei klinischen Prüfungen nach § 40 Abs. 4 und § 41 Abs. 2 und 3,
-
-3. die Aufgaben der zuständigen Behörden und das behördliche Genehmigungsverfahren einschließlich der einzureichenden Unterlagen, auch mit Angaben zur angemessenen Beteiligung von Frauen und Männern als Prüfungsteilnehmerinnen und Prüfungsteilnehmer, und der Unterbrechung oder Verlängerung oder Verkürzung der Bearbeitungsfrist, das Verfahren zur Überprüfung von Unterlagen in Betrieben und Einrichtungen sowie die Voraussetzungen und das Verfahren für Rücknahme, Widerruf und Ruhen der Genehmigung oder Untersagung einer klinischen Prüfung,
-
-4. die Anforderungen an die Prüfeinrichtung und an das Führen und Aufbewahren von Nachweisen,
-
-5. die Übermittlung von Namen und Sitz des Sponsors und des verantwortlichen Prüfers und nicht personenbezogener Angaben zur klinischen Prüfung sowie Ergebnissen der klinischen Prüfung von der zuständigen Behörde an eine europäische Datenbank,
-
-6. die Befugnisse zur Verarbeitung personenbezogener Daten, soweit diese für die Durchführung und Überwachung der klinischen Prüfung erforderlich sind; dies gilt auch für die Verarbeitung von Daten, die nicht in einem Dateisystem gespeichert sind oder gespeichert werden sollen,
-
-7. soweit Arzneimittel betroffen sind, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten,
-
-a) die Verarbeitung personenbezogener Daten, soweit diese für die Abwehr von Gefahren für die Gesundheit Dritter oder für die Umwelt in ihrem Wirkungsgefüge erforderlich sind,
-
-b) die Aufgaben und Befugnisse der Behörden zur Abwehr von Gefahren für die Gesundheit Dritter und für die Umwelt in ihrem Wirkungsgefüge,
-
-c) die Übermittlung von Daten in eine öffentlich zugängliche europäische Datenbank und
-
-d) den Informationsaustausch mit der Europäischen Kommission;
-
-ferner kann die Weiterleitung von Unterlagen und Ausfertigungen der Entscheidungen an die zuständigen Behörden und die für die Prüfer zuständigen Ethik-Kommissionen bestimmt sowie vorgeschrieben werden, dass Unterlagen auf elektronischen Speichermedien eingereicht werden. In der Rechtsverordnung sind für zugelassene Arzneimittel Ausnahmen entsprechend der Richtlinie 2001/20/EG vorzusehen.
-
-# § 42a – Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
-
-(1) Die Genehmigung ist zurückzunehmen, wenn bekannt wird, dass ein Versagungsgrund nach § 42 Abs. 2 Satz 3 Nr. 1, Nr. 2 oder Nr. 3 bei der Erteilung vorgelegen hat; sie ist zu widerrufen, wenn nachträglich Tatsachen eintreten, die die Versagung nach § 42 Abs. 2 Satz 3 Nr. 2, Nr. 3, Nummer 4 oder Nummer 5 rechtfertigen würden. In den Fällen des Satzes 1 kann auch das Ruhen der Genehmigung befristet angeordnet werden.
-
-(2) Die zuständige Bundesoberbehörde kann die Genehmigung widerrufen, wenn die Gegebenheiten der klinischen Prüfung nicht mit den Angaben im Genehmigungsantrag übereinstimmen oder wenn Tatsachen Anlass zu Zweifeln an der Unbedenklichkeit oder der wissenschaftlichen Grundlage der klinischen Prüfung geben. In diesem Fall kann auch das Ruhen der Genehmigung befristet angeordnet werden. Die zuständige Bundesoberbehörde unterrichtet unter Angabe der Gründe unverzüglich die anderen für die Überwachung zuständigen Behörden und Ethik-Kommissionen sowie die Europäische Kommission und die Europäische Arzneimittel-Agentur.
-
-(3) Vor einer Entscheidung nach den Absätzen 1 und 2 ist dem Sponsor Gelegenheit zur Stellungnahme innerhalb einer Frist von einer Woche zu geben. § 28 Abs. 2 Nr. 1 des Verwaltungsverfahrensgesetzes gilt entsprechend. Ordnet die zuständige Bundesoberbehörde die sofortige Unterbrechung der Prüfung an, so übermittelt sie diese Anordnung unverzüglich dem Sponsor. Widerspruch und Anfechtungsklage gegen den Widerruf, die Rücknahme oder die Anordnung des Ruhens der Genehmigung sowie gegen Anordnungen nach Absatz 5 haben keine aufschiebende Wirkung.
-
-(4) Ist die Genehmigung einer klinischen Prüfung zurückgenommen oder widerrufen oder ruht sie, so darf die klinische Prüfung nicht fortgesetzt werden.
-
-(4a) Die zustimmende Bewertung durch die zuständige Ethik-Kommission ist zurückzunehmen, wenn die Ethik-Kommission nachträglich davon Kenntnis erlangt, dass ein Versagungsgrund nach § 42 Absatz 1 Satz 7 vorgelegen hat; sie ist zu widerrufen, wenn die Ethik-Kommission davon Kenntnis erlangt, dass nachträglich
-
-1. die Anforderungen an die Eignung des Prüfers, seines Stellvertreters oder der Prüfstelle nicht mehr gegeben sind,
-
-2. keine ordnungsgemäße Probandenversicherung mehr besteht oder die Voraussetzungen für eine Ausnahme von der Versicherungspflicht nicht mehr vorliegen,
-
-3. die Modalitäten für die Auswahl der Prüfungsteilnehmer nicht mehr dem Stand der medizinischen Erkenntnisse entsprechen, insbesondere die klinische Prüfung ungeeignet ist, den Nachweis der Unbedenklichkeit oder der Wirksamkeit eines Arzneimittels einschließlich einer unterschiedlichen Wirkungsweise bei Frauen und Männern zu erbringen, oder
-
-4. die Voraussetzungen für die Einbeziehung von Personen nach § 40 Absatz 4 oder § 41 nicht mehr gegeben sind.
-
-Die Absätze 3 und 4 gelten entsprechend. Die zuständige Ethik-Kommission unterrichtet unter Angabe der Gründe unverzüglich die zuständige Bundesoberbehörde und die anderen für die Überwachung zuständigen Behörden.
-
-(5) Wenn der zuständigen Bundesoberbehörde im Rahmen ihrer Tätigkeit Tatsachen bekannt werden, die die Annahme rechtfertigen, dass der Sponsor, ein Prüfer oder ein anderer Beteiligter seine Verpflichtungen im Rahmen der ordnungsgemäßen Durchführung der klinischen Prüfung nicht mehr erfüllt, informiert die zuständige Bundesoberbehörde die betreffende Person unverzüglich und ordnet die von dieser Person durchzuführenden Abhilfemaßnahmen an; betrifft die Maßnahme nicht den Sponsor, so ist dieser von der Anordnung zu unterrichten. Maßnahmen der zuständigen Überwachungsbehörde gemäß § 69 bleiben davon unberührt.
+Personenbezogene Daten sind vor ihrer Übermittlung nach Artikel 41 Absatz 2 und 4 der Verordnung (EU) Nr. 536/2014 durch den Prüfer oder nach Artikel 42 oder Artikel 53 Absatz 1 der Verordnung (EU) Nr. 536/2014 durch den Sponsor unter Verwendung des Identifizierungscodes der betroffenen Person zu pseudonymisieren.
 
 # § 42b – Veröffentlichung der Ergebnisse klinischer Prüfungen
 
-(1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses Gesetzes ein Arzneimittel in den Verkehr bringen, das der Pflicht zur Zulassung oder Genehmigung für das Inverkehrbringen unterliegt und zur Anwendung bei Menschen bestimmt ist, haben Berichte über alle Ergebnisse konfirmatorischer klinischer Prüfungen zum Nachweis der Wirksamkeit und Unbedenklichkeit der zuständigen Bundesoberbehörde zur Eingabe in die Datenbank nach § 67a Absatz 2 zur Verfügung zu stellen. Diese Berichte sind innerhalb von sechs Monaten nach Erteilung oder Änderung, soweit die Änderung auf konfirmatorischen klinischen Prüfungen beruht der Zulassung oder der Genehmigung für das Inverkehrbringen zur Verfügung zu stellen.
+(1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses Gesetzes ein Arzneimittel in den Verkehr bringen, das der Pflicht zur Zulassung oder Genehmigung für das Inverkehrbringen unterliegt und zur Anwendung bei Menschen bestimmt ist, haben Berichte über alle Ergebnisse konfirmatorischer klinischer Prüfungen in Drittstaaten zum Nachweis der Wirksamkeit und Unbedenklichkeit der zuständigen Bundesoberbehörde zur Eingabe in die Datenbank nach § 67a Absatz 2 zur Verfügung zu stellen. Diese Berichte sind innerhalb von sechs Monaten nach Erteilung oder Änderung, soweit die Änderung auf konfirmatorischen klinischen Prüfungen beruht der Zulassung oder der Genehmigung für das Inverkehrbringen zur Verfügung zu stellen.
 
-(2) Wird eine klinische Prüfung mit einem bereits zugelassenen oder für das Inverkehrbringen genehmigten Arzneimittel durchgeführt und wird dieses nicht als Vergleichspräparat eingesetzt, hat der Sponsor die Ergebnisse der klinischen Prüfung innerhalb eines Jahres nach ihrer Beendigung entsprechend Absatz 1 zur Verfügung zu stellen.
+(2) Die Berichte nach Absatz 1 müssen alle Ergebnisse der klinischen Prüfungen unabhängig davon, ob sie günstig oder ungünstig sind, enthalten. Es sind ferner Aussagen zu nachträglichen wesentlichen Prüfplanänderungen sowie Unterbrechungen und Abbrüchen der klinischen Prüfung in den Bericht aufzunehmen. Im Übrigen ist der Ergebnisbericht gemäß den Anforderungen der Guten Klinischen Praxis abzufassen. Mit Ausnahme des Namens und der Anschrift des pharmazeutischen Unternehmers oder des Sponsors sowie der Angabe des Namens und der Anschrift von Prüfärzten dürfen die Berichte nach Satz 1 keine personenbezogenen, insbesondere patientenbezogenen Daten enthalten. Der Bericht kann in deutscher oder englischer Sprache verfasst sein. § 63b Absatz 3 Satz 1 ist nicht anzuwenden. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben ebenso wie die §§ 24a und 24b unberührt.
 
-(3) Die Berichte nach den Absätzen 1 und 2 müssen alle Ergebnisse der klinischen Prüfungen unabhängig davon, ob sie günstig oder ungünstig sind, enthalten. Es sind ferner Aussagen zu nachträglichen wesentlichen Prüfplanänderungen sowie Unterbrechungen und Abbrüchen der klinischen Prüfung in den Bericht aufzunehmen. Im Übrigen ist der Ergebnisbericht gemäß den Anforderungen der Guten Klinischen Praxis abzufassen. Mit Ausnahme des Namens und der Anschrift des pharmazeutischen Unternehmers oder des Sponsors sowie der Angabe des Namens und der Anschrift von Prüfärzten dürfen die Berichte nach Satz 1 keine personenbezogenen, insbesondere patientenbezogenen Daten enthalten. Der Bericht kann in deutscher oder englischer Sprache verfasst sein. § 63b Absatz 3 Satz 1 ist nicht anzuwenden. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben ebenso wie die §§ 24a und 24b unberührt.
+# § 42c – Inspektionen
+
+Die folgenden Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 werden durch die zuständige Bundesoberbehörde durchgeführt:
+
+1. Inspektionen zur Überprüfung der Übereinstimmung der klinischen Prüfung mit
+
+a) den Angaben und Unterlagen der Genehmigung,
+
+b) den Angaben eines Zulassungsantrags nach der Verordnung (EG) Nr. 726/2004 oder
+
+c) den Unterlagen nach § 22 Absatz 2 Nummer 3,
+
+2. Inspektionen in Drittstaaten,
+
+3. Inspektionen zur Überprüfung der Meldepflicht nach Artikel 52 der Verordnung (EU) Nr. 536/2014 sowie
+
+4. Inspektionen zur Entscheidung über Maßnahmen nach Artikel 77 der Verordnung (EU) Nr. 536/2014, die die Genehmigung einer klinischen Prüfung betreffen.
+
+Alle anderen Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 zur Überwachung der Einhaltung der Verordnung (EU) Nr. 536/2014 werden durch die zuständige Behörde durchgeführt. Soweit in Durchführungsrechtsakten nach Artikel 78 Absatz 7 der Verordnung (EU) Nr. 536/2014 nicht anders bestimmt, hat die Bundesoberbehörde zur Durchführung der Inspektion die Befugnisse nach § 64 Absatz 4 Nummer 1 bis 3 und Absatz 4a, die im Benehmen mit der zuständigen Behörde ausgeübt werden. Die zuständige Behörde hat zur Durchführung der Inspektion die Befugnisse nach § 64 Absatz 4 und 4a. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 # § 43 – Apothekenpflicht, Inverkehrbringen durch Tierärzte
 
@@ -4125,52 +4141,52 @@ In den Fällen von Artikel 107i der Richtlinie 2001/83/EG ergreift die zuständi
 (+++ Zehnter Abschnitt (§§ 62 bis 63j): Zur Anwendung vgl. § 63j Abs. 1 +++)  
 (+++ § 63e: Zur Anwendung vgl. § 63j Abs. 2 +++)
 
-# § 63f – Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen
+# § 63f – Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien
 
-(1) Nichtinterventionelle Unbedenklichkeitsprüfungen, die vom Inhaber der Zulassung auf eigene Veranlassung durchgeführt werden, sind der zuständigen Bundesoberbehörde anzuzeigen. Die zuständige Bundesoberbehörde kann vom Inhaber der Zulassung das Protokoll und die Fortschrittsberichte anfordern. Innerhalb eines Jahres nach Abschluss der Datenerfassung hat der Inhaber der Zulassung der zuständigen Bundesoberbehörde den Abschlussbericht zu übermitteln.
+(1) Nichtinterventionelle Unbedenklichkeitsstudien, die vom Inhaber der Zulassung auf eigene Veranlassung durchgeführt werden, sind der zuständigen Bundesoberbehörde anzuzeigen. Die zuständige Bundesoberbehörde kann vom Inhaber der Zulassung das Protokoll und die Fortschrittsberichte anfordern. Innerhalb eines Jahres nach Abschluss der Datenerfassung hat der Inhaber der Zulassung der zuständigen Bundesoberbehörde den Abschlussbericht zu übermitteln.
 
-(2) Für nichtinterventionelle Unbedenklichkeitsprüfungen, die vom Inhaber der Zulassung auf Grund einer Auflage nach § 28 Absatz 3, 3a oder 3b durchgeführt werden, gilt das Verfahren nach § 63g.
+(2) Für nichtinterventionelle Unbedenklichkeitsstudien, die vom Inhaber der Zulassung auf Grund einer Auflage nach § 28 Absatz 3, 3a oder 3b durchgeführt werden, gilt das Verfahren nach § 63g.
 
-(3) Die Durchführung von Unbedenklichkeitsprüfungen nach den Absätzen 1 und 2 ist nicht zulässig, wenn
+(3) Die Durchführung von Unbedenklichkeitsstudien nach den Absätzen 1 und 2 ist nicht zulässig, wenn
 
 1. durch sie die Anwendung eines Arzneimittels gefördert werden soll,
 
-2. sich Vergütungen für die Beteiligung von Angehörigen der Gesundheitsberufe an solchen Prüfungen nach ihrer Art und Höhe nicht auf den Zeitaufwand und die angefallenen Kosten beschränken oder
+2. sich Vergütungen für die Beteiligung von Angehörigen der Gesundheitsberufe an solchen Studien nach ihrer Art und Höhe nicht auf den Zeitaufwand und die angefallenen Kosten beschränken oder
 
 3. ein Anreiz für eine bevorzugte Verschreibung oder Empfehlung bestimmter Arzneimittel entsteht.
 
-(4) Der Inhaber der Zulassung hat Unbedenklichkeitsprüfungen nach den Absätzen 1 und 2 auch der Kassenärztlichen Bundesvereinigung, dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort, Zeit, Ziel und Protokoll der Prüfung sowie Name und lebenslange Arztnummer der beteiligten Ärzte anzugeben. Sofern beteiligte Ärzte Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des Aufwandes für die beteiligten Ärzte und eine Begründung für die Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den in Satz 3 genannten Informationen Änderungen ergeben, sind die jeweiligen Informationen nach Satz 3 vollständig in der geänderten, aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen Arztnummer zu übermitteln. Innerhalb eines Jahres nach Abschluss der Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt beteiligten Patienten und Art und Höhe der jeweils und insgesamt geleisteten Entschädigungen zu übermitteln. Die Angaben nach diesem Absatz sind entsprechend den Formatvorgaben nach § 67 Absatz 6 Satz 13 elektronisch zu übermitteln.
+(4) Der Inhaber der Zulassung hat Unbedenklichkeitsstudien nach den Absätzen 1 und 2 auch der Kassenärztlichen Bundesvereinigung, dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort, Zeit, Ziel und Protokoll der Studie sowie Name und lebenslange Arztnummer der beteiligten Ärzte anzugeben. Sofern beteiligte Ärzte Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des Aufwandes für die beteiligten Ärzte und eine Begründung für die Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den in Satz 3 genannten Informationen Änderungen ergeben, sind die jeweiligen Informationen nach Satz 3 vollständig in der geänderten, aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen Arztnummer zu übermitteln. Innerhalb eines Jahres nach Abschluss der Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt beteiligten Patienten und Art und Höhe der jeweils und insgesamt geleisteten Entschädigungen zu übermitteln. Die Angaben nach diesem Absatz sind entsprechend den Formatvorgaben nach § 67 Absatz 6 Satz 13 elektronisch zu übermitteln.
 
 (+++ Zehnter Abschnitt (§§ 62 bis 63j): Zur Anwendung vgl. § 63j Abs. 1 +++)  
 (+++ § 63f: Zur Anwendung vgl. § 63j Abs. 2 +++)
 
-# § 63g – Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen
+# § 63g – Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien
 
-(1) Der Inhaber der Zulassung hat bei nichtinterventionellen Unbedenklichkeitsprüfungen, die nach § 28 Absatz 3, 3a oder 3b angeordnet wurden, den Entwurf des Prüfungsprotokolls vor Durchführung
+(1) Der Inhaber der Zulassung hat bei nichtinterventionellen Unbedenklichkeitsstudien, die nach § 28 Absatz 3, 3a oder 3b angeordnet wurden, den Entwurf des Studienprotokolls vor Durchführung
 
-1. der zuständigen Bundesoberbehörde, wenn es sich um eine Prüfung handelt, die nur im Inland durchgeführt wird,
+1. der zuständigen Bundesoberbehörde, wenn es sich um eine Studie handelt, die nur im Inland durchgeführt wird,
 
-2. dem Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz, wenn es sich um eine Prüfung handelt, die in mehreren Mitgliedstaaten der Europäischen Union durchgeführt wird,
+2. dem Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz, wenn es sich um eine Studie handelt, die in mehreren Mitgliedstaaten der Europäischen Union durchgeführt wird,
 
 vorzulegen.
 
-(2) Eine nichtinterventionelle Unbedenklichkeitsprüfung nach Absatz 1 darf nur begonnen werden, wenn der Protokollentwurf bei Prüfungen nach Absatz 1 Nummer 1 durch die zuständige Bundesoberbehörde genehmigt wurde oder bei Prüfungen nach Absatz 1 Nummer 2 durch den Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz genehmigt wurde und der Protokollentwurf der zuständigen Bundesoberbehörde vorliegt. Die zuständige Bundesoberbehörde hat nach Vorlage des Protokollentwurfs innerhalb von 60 Tagen über die Genehmigung der Prüfung zu entscheiden. Eine Genehmigung ist zu versagen, wenn die Anwendung des Arzneimittels gefördert werden soll, die Ziele mit dem Prüfungsdesign nicht erreicht werden können oder es sich um eine klinische Prüfung nach § 4 Absatz 23 Satz 1 handelt.
+(2) Eine nichtinterventionelle Unbedenklichkeitsstudie nach Absatz 1 darf nur begonnen werden, wenn der Protokollentwurf bei Studien nach Absatz 1 Nummer 1 durch die zuständige Bundesoberbehörde genehmigt wurde oder bei Studien nach Absatz 1 Nummer 2 durch den Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz genehmigt wurde und der Protokollentwurf der zuständigen Bundesoberbehörde vorliegt. Die zuständige Bundesoberbehörde hat nach Vorlage des Protokollentwurfs innerhalb von 60 Tagen über die Genehmigung der Studie zu entscheiden. Eine Genehmigung ist zu versagen, wenn die Anwendung des Arzneimittels gefördert werden soll, die Ziele mit dem Studiendesign nicht erreicht werden können oder es sich um eine klinische Prüfung nach § 4 Absatz 23 Satz 1 handelt.
 
-(3) Nach Beginn einer Prüfung nach Absatz 1 sind wesentliche Änderungen des Protokolls vor deren Umsetzung,
+(3) Nach Beginn einer Studie nach Absatz 1 sind wesentliche Änderungen des Protokolls vor deren Umsetzung,
 
-1. wenn es sich um eine Prüfung handelt, die nur im Inland durchgeführt wird, von der zuständigen Bundesoberbehörde,
+1. wenn es sich um eine Studie handelt, die nur im Inland durchgeführt wird, von der zuständigen Bundesoberbehörde,
 
-2. wenn es sich um eine Prüfung handelt, die in mehreren Mitgliedstaaten der Europäischen Union durchgeführt wird, von dem Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz
+2. wenn es sich um eine Studie handelt, die in mehreren Mitgliedstaaten der Europäischen Union durchgeführt wird, von dem Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz
 
-zu genehmigen. Wird die Prüfung in den Fällen von Satz 1 Nummer 2 auch im Inland durchgeführt, unterrichtet der Inhaber der Zulassung die zuständige Bundesoberbehörde über die genehmigten Änderungen.
+zu genehmigen. Wird die Studie in den Fällen von Satz 1 Nummer 2 auch im Inland durchgeführt, unterrichtet der Inhaber der Zulassung die zuständige Bundesoberbehörde über die genehmigten Änderungen.
 
-(4) Nach Abschluss einer Prüfung nach Absatz 1 ist der abschließende Prüfungsbericht
+(4) Nach Abschluss einer Studie nach Absatz 1 ist der abschließende Studienbericht
 
 1. in den Fällen nach Absatz 1 Nummer 1 der zuständigen Bundesoberbehörde,
 
 2. in den Fällen nach Absatz 1 Nummer 2 dem Ausschuss für Risikobewertung im Bereich der Pharmakovigilanz
 
-innerhalb von zwölf Monaten nach Abschluss der Datenerfassung vorzulegen, wenn nicht durch die nach Satz 1 Nummer 1 oder 2 zuständige Stelle auf die Vorlage verzichtet worden ist. Der Abschlussbericht ist zusammen mit einer Kurzdarstellung der Prüfungsergebnisse elektronisch zu übermitteln.
+innerhalb von zwölf Monaten nach Abschluss der Datenerfassung vorzulegen, wenn nicht durch die nach Satz 1 Nummer 1 oder 2 zuständige Stelle auf die Vorlage verzichtet worden ist. Der Abschlussbericht ist zusammen mit einer Kurzdarstellung der Studienergebnisse elektronisch zu übermitteln.
 
 (+++ Zehnter Abschnitt (§§ 62 bis 63j): Zur Anwendung vgl. § 63j Abs. 1 +++)  
 (+++ § 63g: Zur Anwendung vgl. § 63j Abs. 2 +++)
@@ -4279,7 +4295,7 @@ Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Form
 
 # § 64 – Durchführung der Überwachung
 
-(1) Betriebe und Einrichtungen, in denen Arzneimittel hergestellt, geprüft, gelagert, verpackt oder in den Verkehr gebracht werden, in denen sonst mit ihnen Handel getrieben wird oder die Arzneimittel einführen oder in denen mit den genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahrt werden, unterliegen insoweit der Überwachung durch die zuständige Behörde; das Gleiche gilt für Betriebe und Einrichtungen, die Arzneimittel entwickeln, klinisch prüfen, einer Rückstandsprüfung unterziehen oder Arzneimittel nach § 47a Abs. 1 Satz 1 oder zur Anwendung bei Tieren bestimmte Arzneimittel erwerben oder anwenden oder in denen mit den genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahrt werden oder die einen Datenspeicher einrichten oder verwalten, der zum Datenspeicher- und -abrufsystem nach Artikel 31 der Delegierten Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) gehört. Die Entwicklung, Herstellung, Prüfung, Lagerung, Verpackung, Einfuhr und das Inverkehrbringen von Wirkstoffen und anderen zur Arzneimittelherstellung bestimmten Stoffen und von Gewebe, der sonstige Handel mit diesen Wirkstoffen und Stoffen sowie die mit den genannten Tätigkeiten im Zusammenhang stehende Aufbewahrung von Aufzeichnungen unterliegen der Überwachung, soweit sie durch eine Rechtsverordnung nach § 54, nach § 12 des Transfusionsgesetzes oder nach § 16a des Transplantationsgesetzes geregelt sind. Im Fall des § 14 Absatz 4 Nummer 4 und des § 20b Absatz 2 unterliegen die Entnahmeeinrichtungen und Labore der Überwachung durch die für sie örtlich zuständige Behörde; im Fall des § 20c Absatz 2 Satz 2 unterliegen die beauftragten Betriebe der Überwachung durch die für sie örtlich zuständige Behörde. Satz 1 gilt auch für Personen, die diese Tätigkeiten berufsmäßig ausüben oder Arzneimittel nicht ausschließlich für den Eigenbedarf mit sich führen, für den Sponsor einer klinischen Prüfung oder seinen Vertreter nach § 40 Abs. 1 Satz 3 Nr. 1 sowie für Personen oder Personenvereinigungen, die Arzneimittel für andere sammeln. Satz 1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind.
+(1) Betriebe und Einrichtungen, in denen Arzneimittel hergestellt, geprüft, gelagert, verpackt oder in den Verkehr gebracht werden, in denen sonst mit ihnen Handel getrieben wird oder die Arzneimittel einführen oder in denen mit den genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahrt werden, unterliegen insoweit der Überwachung durch die zuständige Behörde; das Gleiche gilt für Betriebe und Einrichtungen, die Arzneimittel entwickeln, klinisch prüfen, einer Rückstandsprüfung unterziehen oder Arzneimittel nach § 47a Abs. 1 Satz 1 oder zur Anwendung bei Tieren bestimmte Arzneimittel erwerben oder anwenden oder in denen mit den genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahrt werden oder die einen Datenspeicher einrichten oder verwalten, der zum Datenspeicher- und -abrufsystem nach Artikel 31 der Delegierten Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) gehört. Die Entwicklung, Herstellung, Prüfung, Lagerung, Verpackung, Einfuhr und das Inverkehrbringen von Wirkstoffen und anderen zur Arzneimittelherstellung bestimmten Stoffen und von Gewebe, der sonstige Handel mit diesen Wirkstoffen und Stoffen sowie die mit den genannten Tätigkeiten im Zusammenhang stehende Aufbewahrung von Aufzeichnungen unterliegen der Überwachung, soweit sie durch eine Rechtsverordnung nach § 54, nach § 12 des Transfusionsgesetzes oder nach § 16a des Transplantationsgesetzes geregelt sind. Im Fall des § 14 Absatz 4 Nummer 4 und des § 20b Absatz 2 unterliegen die Entnahmeeinrichtungen und Labore der Überwachung durch die für sie örtlich zuständige Behörde; im Fall des § 20c Absatz 2 Satz 2 unterliegen die beauftragten Betriebe der Überwachung durch die für sie örtlich zuständige Behörde. Satz 1 gilt auch für Personen, die diese Tätigkeiten berufsmäßig ausüben oder Arzneimittel nicht ausschließlich für den Eigenbedarf mit sich führen, für den Sponsor einer klinischen Prüfung oder seinen Vertreter sowie für Personen oder Personenvereinigungen, die Arzneimittel für andere sammeln. Satz 1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind.
 
 (2) Die mit der Überwachung beauftragten Personen müssen diese Tätigkeit hauptberuflich ausüben. Die zuständige Behörde kann Sachverständige beiziehen. Sie soll Angehörige der zuständigen Bundesoberbehörde als Sachverständige beteiligen, soweit es sich um Blutzubereitungen, Gewebe und Gewebezubereitungen, radioaktive Arzneimittel, gentechnisch hergestellte Arzneimittel, Sera, Impfstoffe, Allergene, Arzneimittel für neuartige Therapien, xenogene Arzneimittel oder um Wirkstoffe oder andere Stoffe, die menschlicher, tierischer oder mikrobieller Herkunft sind oder die auf gentechnischem Wege hergestellt werden, handelt. Bei Apotheken, die keine Krankenhausapotheken sind oder die einer Erlaubnis nach § 13 nicht bedürfen, kann die zuständige Behörde Sachverständige mit der Überwachung beauftragen.
 
@@ -4351,27 +4367,25 @@ Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Form
 
 # § 66 – Duldungs- und Mitwirkungspflicht
 
-(1) Wer der Überwachung nach § 64 Abs. 1 unterliegt, ist verpflichtet, die Maßnahmen nach den §§ 64 und 65 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Beförderungsmittel zu bezeichnen, Räume, Behälter und Behältnisse zu öffnen, Auskünfte zu erteilen und die Entnahme der Proben zu ermöglichen. Die gleiche Verpflichtung besteht für die sachkundige Person nach § 14, die verantwortliche Person nach § 20c, den Stufenplanbeauftragten, Informationsbeauftragten, die verantwortliche Person nach § 52a und den Leiter der klinischen Prüfung sowie deren Vertreter, auch im Hinblick auf Anfragen der zuständigen Bundesoberbehörde.
+(1) Wer der Überwachung nach § 64 Abs. 1 unterliegt, ist verpflichtet, die Maßnahmen nach den §§ 64 und 65 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Beförderungsmittel zu bezeichnen, Räume, Behälter und Behältnisse zu öffnen, Auskünfte zu erteilen und die Entnahme der Proben zu ermöglichen. Die gleiche Verpflichtung besteht für die sachkundige Person nach § 14, die verantwortliche Person nach § 20c, den Stufenplanbeauftragten, Informationsbeauftragten, die verantwortliche Person nach § 52a sowie deren Vertreter und den Hauptprüfer und den Prüfer, auch im Hinblick auf Anfragen der zuständigen Bundesoberbehörde.
 
 (2) Die Duldungs- und Mitwirkungspflicht nach Absatz 1 findet entsprechende Anwendung auf Maßnahmen der Bundesoberbehörden nach § 25 Absatz 5 Satz 4 oder Absatz 8 Satz 2 und 3 oder nach § 62 Absatz 6.
 
 # § 67 – Allgemeine Anzeigepflicht
 
-(1) Betriebe und Einrichtungen, die Arzneimittel entwickeln, herstellen, klinisch prüfen oder einer Rückstandsprüfung unterziehen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, haben dies vor der Aufnahme der Tätigkeiten der zuständigen Behörde, bei einer klinischen Prüfung bei Menschen auch der zuständigen Bundesoberbehörde, anzuzeigen. Satz 1 gilt entsprechend für Einrichtungen, die Gewebe gewinnen, die die für die Gewinnung erforderliche Laboruntersuchung durchführen, Gewebe be- oder verarbeiten, konservieren, prüfen, lagern, einführen oder in Verkehr bringen. Die Entwicklung von Arzneimitteln ist anzuzeigen, soweit sie durch eine Rechtsverordnung nach § 54 geregelt ist. Das Gleiche gilt für Personen, die diese Tätigkeiten selbständig und berufsmäßig ausüben, sowie für Personen oder Personenvereinigungen, die Arzneimittel für andere sammeln. In der Anzeige sind die Art der Tätigkeit und die Betriebsstätte anzugeben; werden Arzneimittel gesammelt, so ist das Nähere über die Art der Sammlung und über die Lagerstätte anzugeben. Ist nach Satz 1 eine klinische Prüfung bei Menschen anzuzeigen, so sind der zuständigen Behörde auch deren Sponsor, sofern vorhanden dessen Vertreter nach § 40 Absatz 1 Satz 3 Nummer 1 sowie der Prüfer und sein Stellvertreter, soweit erforderlich auch mit Angabe der Stellung als Leiter der klinischen Prüfung, namentlich zu benennen. Die Sätze 1 bis 5 gelten entsprechend für Betriebe und Einrichtungen, die Wirkstoffe oder andere zur Arzneimittelherstellung bestimmte Stoffe herstellen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, soweit diese Tätigkeiten durch eine Rechtsverordnung nach § 54 geregelt sind. Satz 1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind. Die Sätze 1 bis 5 und 7 gelten auch für Betriebe und Einrichtungen, die mit den dort genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahren. Die Sätze 1 und 5 gelten auch für Betriebe und Einrichtungen, die einen Datenspeicher einrichten oder verwalten, der zum Datenspeicher- und -abrufsystem nach Artikel 31 der Delegierten Verordnung (EU) 2016/161 gehört.
+(1) Betriebe und Einrichtungen, die Arzneimittel entwickeln, herstellen, klinisch prüfen oder einer Rückstandsprüfung unterziehen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, haben dies vor der Aufnahme der Tätigkeiten der zuständigen Behörde anzuzeigen. Satz 1 gilt entsprechend für Einrichtungen, die Gewebe gewinnen, die die für die Gewinnung erforderliche Laboruntersuchung durchführen, Gewebe be- oder verarbeiten, konservieren, prüfen, lagern, einführen oder in Verkehr bringen. Die Entwicklung von Arzneimitteln ist anzuzeigen, soweit sie durch eine Rechtsverordnung nach § 54 geregelt ist. Das Gleiche gilt für Personen, die diese Tätigkeiten selbständig und berufsmäßig ausüben, sowie für Personen oder Personenvereinigungen, die Arzneimittel für andere sammeln. In der Anzeige sind die Art der Tätigkeit und die Betriebsstätte anzugeben; werden Arzneimittel gesammelt, so ist das Nähere über die Art der Sammlung und über die Lagerstätte anzugeben. Die Sätze 1 und 3 bis 5 gelten entsprechend für Betriebe und Einrichtungen, die Wirkstoffe oder andere zur Arzneimittelherstellung bestimmte Stoffe herstellen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, soweit diese Tätigkeiten durch eine Rechtsverordnung nach § 54 geregelt sind. Satz 1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind. Die Sätze 1 bis 6 gelten auch für Betriebe und Einrichtungen, die mit den dort genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahren. Die Sätze 1 und 5 gelten auch für Betriebe und Einrichtungen, die einen Datenspeicher einrichten oder verwalten, der zum Datenspeicher- und -abrufsystem nach Artikel 31 der Delegierten Verordnung (EU) 2016/161 gehört.
 
 (2) Ist die Herstellung von Arzneimitteln beabsichtigt, für die es einer Erlaubnis nach § 13 nicht bedarf, so sind die Arzneimittel mit ihrer Bezeichnung und Zusammensetzung anzuzeigen.
 
 (3) Nachträgliche Änderungen sind ebenfalls anzuzeigen. Bei Betrieben und Einrichtungen, die Wirkstoffe herstellen, einführen oder sonst mit ihnen Handel treiben, genügt jährlich eine Anzeige, sofern die Änderungen keine Auswirkungen auf die Qualität oder Sicherheit der Wirkstoffe haben können.
 
-(3a) Ist nach Absatz 1 der Beginn einer klinischen Prüfung bei Menschen anzuzeigen, so sind deren Verlauf, Beendigung und Ergebnisse der zuständigen Bundesoberbehörde mitzuteilen; das Nähere wird in der Rechtsverordnung nach § 42 bestimmt.
+(3a) Betriebe und Einrichtungen, die mit den in Absatz 1 Satz 1 bis 4 und 6 genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen außerhalb der von der Erlaubnis nach den §§ 13, 20b, 20c, 52a, 72b oder 72c erfassten Räume aufbewahren lassen, haben dies vor Aufnahme der Tätigkeit der zuständigen Behörde anzuzeigen; dies gilt auch für nachträgliche Änderungen.
 
-(3b) Betriebe und Einrichtungen, die mit den in Absatz 1 Satz 1 bis 4 und 7 genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen außerhalb der von der Erlaubnis nach den §§ 13, 20b, 20c, 52a, 72b oder 72c erfassten Räume aufbewahren lassen, haben dies vor Aufnahme der Tätigkeit der zuständigen Behörde anzuzeigen; dies gilt auch für nachträgliche Änderungen.
-
-(4) Die Absätze 1 bis 3 gelten nicht für diejenigen, die eine Erlaubnis nach § 13, § 20b, § 20c, § 52a, § 72, § 72b oder § 72c haben, und für Apotheken nach dem Gesetz über das Apothekenwesen. Absatz 2 gilt nicht für tierärztliche Hausapotheken.
+(4) Die Absätze 1 bis 3 gelten nicht für diejenigen, die eine Erlaubnis nach § 13, § 20b, § 20c, § 52a, § 72, § 72b oder § 72c haben, für Apotheken nach dem Gesetz über das Apothekenwesen und für klinische Prüfungen bei Menschen mit Arzneimitteln, die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen. Absatz 2 gilt nicht für tierärztliche Hausapotheken.
 
 (5) Wer als pharmazeutischer Unternehmer ein Arzneimittel, das nach § 36 Absatz 1 von der Pflicht zur Zulassung freigestellt ist, in den Verkehr bringt, hat dies zuvor der zuständigen Bundesoberbehörde und der zuständigen Behörde anzuzeigen. In der Anzeige sind der Hersteller, die verwendete Bezeichnung, die verwendeten nicht wirksamen Bestandteile, soweit sie nicht in der Verordnung nach § 36 Absatz 1 festgelegt sind, sowie die tatsächliche Zusammensetzung des Arzneimittels, soweit die Verordnung nach § 36 Absatz 1 diesbezügliche Unterschiede erlaubt, anzugeben. Anzuzeigen sind auch jede Änderung der Angaben und die Beendigung des Inverkehrbringens.
 
-(6) Wer Untersuchungen durchführt, die dazu bestimmt sind, Erkenntnisse bei der Anwendung zugelassener oder registrierter Arzneimittel zu sammeln, hat dies der zuständigen Bundesoberbehörde, der Kassenärztlichen Bundesvereinigung, dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort, Zeit, Ziel und Beobachtungsplan der Anwendungsbeobachtung anzugeben sowie gegenüber der Kassenärztlichen Bundesvereinigung und dem Spitzenverband Bund der Krankenkassen die beteiligten Ärzte namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu benennen. Entschädigungen, die an Ärzte für ihre Beteiligung an Untersuchungen nach Satz 1 geleistet werden, sind nach ihrer Art und Höhe so zu bemessen, dass kein Anreiz für eine bevorzugte Verschreibung oder Empfehlung bestimmter Arzneimittel entsteht. Sofern beteiligte Ärzte Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des Aufwandes für die beteiligten Ärzte und eine Begründung für die Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den in Satz 4 genannten Informationen Änderungen ergeben, sind die jeweiligen Informationen nach Satz 4 vollständig in der geänderten, aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu übermitteln. Innerhalb eines Jahres nach Abschluss der Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt beteiligten Patienten und Art und Höhe der jeweils und insgesamt geleisteten Entschädigungen zu übermitteln. Der zuständigen Bundesoberbehörde ist innerhalb eines Jahres nach Abschluss der Datenerfassung bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ein Abschlussbericht zu übermitteln. § 42b Absatz 3 Satz 1 und 4 gilt entsprechend. Die Angaben nach diesem Absatz sind bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, elektronisch zu übermitteln. Hierfür machen die zuständigen Bundesoberbehörden elektronische Formatvorgaben bekannt; die zuständige Bundesoberbehörde hat ihr übermittelte Anzeigen und Abschlussberichte der Öffentlichkeit über ein Internetportal zur Verfügung zu stellen. Für die Veröffentlichung der Anzeigen gilt § 42b Absatz 3 Satz 4 entsprechend. Die Sätze 4 bis 6 gelten nicht für Anzeigen gegenüber der zuständigen Bundesoberbehörde. Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung e. V. legen einvernehmlich Formatvorgaben für die elektronische Übermittlung der an sie zu richtenden Angaben fest und geben diese bekannt. Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, sind die Anzeigen nach Satz 1 nur gegenüber der zuständigen Bundesoberbehörde zu erstatten. Die Sätze 1 bis 12 und 14 gelten nicht für Unbedenklichkeitsprüfungen nach § 63f.
+(6) Wer Untersuchungen durchführt, die dazu bestimmt sind, Erkenntnisse bei der Anwendung zugelassener oder registrierter Arzneimittel zu sammeln, hat dies der zuständigen Bundesoberbehörde, der Kassenärztlichen Bundesvereinigung, dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort, Zeit, Ziel und Beobachtungsplan der Anwendungsbeobachtung anzugeben sowie gegenüber der Kassenärztlichen Bundesvereinigung und dem Spitzenverband Bund der Krankenkassen die beteiligten Ärzte namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu benennen. Entschädigungen, die an Ärzte für ihre Beteiligung an Untersuchungen nach Satz 1 geleistet werden, sind nach ihrer Art und Höhe so zu bemessen, dass kein Anreiz für eine bevorzugte Verschreibung oder Empfehlung bestimmter Arzneimittel entsteht. Sofern beteiligte Ärzte Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des Aufwandes für die beteiligten Ärzte und eine Begründung für die Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den in Satz 4 genannten Informationen Änderungen ergeben, sind die jeweiligen Informationen nach Satz 4 vollständig in der geänderten, aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu übermitteln. Innerhalb eines Jahres nach Abschluss der Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt beteiligten Patienten und Art und Höhe der jeweils und insgesamt geleisteten Entschädigungen zu übermitteln. Der zuständigen Bundesoberbehörde ist innerhalb eines Jahres nach Abschluss der Datenerfassung bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ein Abschlussbericht zu übermitteln. § 42b Absatz 2 Satz 1 und 4 gilt entsprechend. Die Angaben nach diesem Absatz sind bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, elektronisch zu übermitteln. Hierfür machen die zuständigen Bundesoberbehörden elektronische Formatvorgaben bekannt; die zuständige Bundesoberbehörde hat ihr übermittelte Anzeigen und Abschlussberichte der Öffentlichkeit über ein Internetportal zur Verfügung zu stellen. Für die Veröffentlichung der Anzeigen gilt § 42b Absatz 2 Satz 4 entsprechend. Die Sätze 4 bis 6 gelten nicht für Anzeigen gegenüber der zuständigen Bundesoberbehörde. Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung e. V. legen einvernehmlich Formatvorgaben für die elektronische Übermittlung der an sie zu richtenden Angaben fest und geben diese bekannt. Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, sind die Anzeigen nach Satz 1 nur gegenüber der zuständigen Bundesoberbehörde zu erstatten. Die Sätze 1 bis 12 und 14 gelten nicht für Unbedenklichkeitsstudien nach § 63f.
 
 (7) Wer beabsichtigt, gewerbs- oder berufsmäßig Arzneimittel, die in einem anderen Mitgliedstaat der Europäischen Union zum Inverkehrbringen durch einen anderen pharmazeutischen Unternehmer zugelassen sind, erstmalig aus diesem Mitgliedstaat in den Geltungsbereich des Gesetzes zum Zweck des Inverkehrbringens im Geltungsbereich des Gesetzes zu verbringen, hat dies dem Inhaber der Zulassung vor der Aufnahme der Tätigkeit anzuzeigen. Für Arzneimittel, für die eine Genehmigung für das Inverkehrbringen gemäß der Verordnung (EG) Nr. 726/2004 erteilt worden ist, gilt Satz 1 mit der Maßgabe, dass die Anzeige dem Inhaber der Genehmigung und der Europäischen Arzneimittel-Agentur zu übermitteln ist. An die Agentur ist eine Gebühr für die Überprüfung der Einhaltung der Bedingungen, die in den unionsrechtlichen Rechtsvorschriften über Arzneimittel und den Genehmigungen für das Inverkehrbringen festgelegt sind, zu entrichten; die Bemessung der Gebühr richtet sich nach den unionsrechtlichen Rechtsvorschriften.
 
@@ -4567,6 +4581,8 @@ gewerbs- oder berufsmäßig aus Ländern, die nicht Mitgliedstaaten der Europäi
 
 (2) Auf Personen und Einrichtungen, die berufs- oder gewerbsmäßig Arzneimittel menschlicher Herkunft zur unmittelbaren Anwendung bei Menschen einführen wollen, findet Absatz 1 mit der Maßgabe Anwendung, dass die Erlaubnis nur versagt werden darf, wenn der Antragsteller nicht nachweist, dass für die Beurteilung der Qualität und Sicherheit der Arzneimittel und für die gegebenenfalls erforderliche Überführung der Arzneimittel in ihre anwendungsfähige Form nach dem Stand von Wissenschaft und Technik qualifiziertes Personal und geeignete Räume vorhanden sind.
 
+(2a) Die zuständige Behörde erteilt die Erlaubnis zur Einfuhr von Prüf- oder Hilfspräparaten im Sinne des Artikels 2 Absatz 2 Nummer 5 und 8 der Verordnung (EU) Nr. 536/2014 nach Artikel 61 Absatz 1 bis 3 der Verordnung (EU) Nr. 536/2014. § 13 Absatz 5 Satz 2 und Absatz 6 gilt entsprechend.
+
 (3) Die Absätze 1 und 2 finden keine Anwendung auf
 
 1. Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes,
@@ -4603,7 +4619,7 @@ b) mit einem Staat ein Abkommen über die gegenseitige Anerkennung der Guten Her
 
 (1a) Absatz 1 Satz 1 gilt nicht für
 
-1. Arzneimittel, die zur klinischen Prüfung beim Menschen oder zur Anwendung im Rahmen eines Härtefallprogramms bestimmt sind,
+1. Arzneimittel, die zur klinischen Prüfung bei Menschen bestimmt sind, Hilfspräparate im Sinne des Artikels 2 Absatz 2 Nummer 8 und 10 der Verordnung (EU) Nr. 536/2014 oder Arzneimittel, die zur Anwendung im Rahmen eines Härtefallprogramms bestimmt sind,
 
 2. Arzneimittel menschlicher Herkunft zur unmittelbaren Anwendung oder hämatopoetische Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut, die zur gerichteten, für eine bestimmte Person vorgesehenen Anwendung bestimmt sind,
 
@@ -4717,7 +4733,7 @@ Die in § 47a Abs. 1 Satz 1 genannten Arzneimittel dürfen nur in den Geltungsbe
 
 1. im Einzelfall in geringen Mengen für die Arzneimittelversorgung bestimmter Tiere bei Tierschauen, Turnieren oder ähnlichen Veranstaltungen bestimmt sind,
 
-2. für den Eigenbedarf der Einrichtungen von Forschung und Wissenschaft bestimmt sind und zu wissenschaftlichen Zwecken benötigt werden, mit Ausnahme von Arzneimitteln, die zur klinischen Prüfung bei Menschen bestimmt sind,
+2. für den Eigenbedarf der Einrichtungen von Forschung und Wissenschaft bestimmt sind und zu wissenschaftlichen Zwecken benötigt werden oder die vom Sponsor einer klinischen Prüfung bei Menschen oder einer von diesem beauftragten Person als Hilfspräparate gemäß Artikel 59 der Verordnung (EU) Nr. 536/2014 für eine klinische Prüfung bei Menschen gemäß den Angaben des Prüfplans verwendet werden sollen,
 
 2a. in geringen Mengen von einem pharmazeutischen Unternehmer, einem Betrieb mit einer Erlaubnis nach § 13 oder von einem Prüflabor als Anschauungsmuster oder zu analytischen Zwecken benötigt werden,
 
@@ -4775,7 +4791,7 @@ oder wenn sie in angemessenem Umfang, der zur Sicherstellung einer ordnungsgemä
 
 Die Bestellung und Abgabe in Apotheken dürfen nur bei Vorliegen einer tierärztlichen Verschreibung erfolgen. Absatz 3 Satz 3 gilt entsprechend. Tierärzte, die Arzneimittel nach Satz 1 bestellen oder von Apotheken beziehen oder verschreiben, haben dies unverzüglich der zuständigen Behörde anzuzeigen. In der Anzeige ist anzugeben, für welche Tierart und welches Anwendungsgebiet die Anwendung des Arzneimittels vorgesehen ist, der Staat, aus dem das Arzneimittel in den Geltungsbereich dieses Gesetzes verbracht wird, die Bezeichnung und die bestellte Menge des Arzneimittels sowie seine Wirkstoffe nach Art und Menge.
 
-(4) Auf Arzneimittel nach Absatz 2 Nummer 4 und 5 finden die Vorschriften dieses Gesetzes keine Anwendung. Auf Arzneimittel nach Absatz 2 Nummer 1 bis 3 und 6 bis 10 und den Absätzen 3 und 3a finden die Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§ 5, 8, 13 bis 20a, 52a, 64 bis 69a und 78, ferner in den Fällen des Absatzes 2 Nummer 2 und der Absätze 3 und 3a auch mit Ausnahme der §§ 48, 95 Absatz 1 Nummer 1 und 3a, Absatz 2 bis 4, § 96 Nummer 3, 10 und 11 sowie § 97 Absatz 1, 2 Nummer 1 und 9 sowie Absatz 3, ferner in den Fällen des Absatzes 3a auch mit Ausnahme der §§ 20b bis 20d, 72, 72b, 72c, 96 Nummer 18b und 18d und des § 97 Absatz 2 Nummer 7a. Auf Arzneimittel nach Absatz 3b finden die Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§ 5, 8, 48, 52a, 56a, 57, 58 Absatz 1 Satz 1, der §§ 59, 64 bis 69a, 78, 95 Absatz 1 Nummer 1, 3a, 6, 8, 9 und 10, Absatz 2 bis 4, § 96 Nummer 3, 13, 14 und 15 bis 17, § 97 Absatz 1, 2 Nummer 1, 21 bis 24 sowie 31 und Absatz 3 sowie der Vorschriften der auf Grund des § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 2, des § 48 Absatz 2 Nummer 4 und Absatz 4, des § 54 Absatz 1, 2 und 3 sowie des § 56a Absatz 3 erlassenen Verordnung über tierärztliche Hausapotheken und der auf Grund der §§ 12, 54 und 57 erlassenen Verordnung über Nachweispflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind.
+(4) Auf Arzneimittel nach Absatz 2 Nummer 4 und 5 finden die Vorschriften dieses Gesetzes keine Anwendung. Auf Arzneimittel nach Absatz 2 Nummer 1 bis 3 und 6 bis 10 und den Absätzen 3 und 3a finden die Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§ 5, 8, 13 bis 20a, 52a, 64 bis 69a und 78, ferner in den Fällen des Absatzes 2 Nummer 2 und der Absätze 3 und 3a auch mit Ausnahme der §§ 48, 95 Absatz 1 Nummer 1 und 3a, Absatz 2 bis 4, § 96 Nummer 3, 10 und 11 sowie § 97 Absatz 1, 2 Nummer 1 sowie Absatz 3, ferner in den Fällen des Absatzes 3a auch mit Ausnahme der §§ 20b bis 20d, 72, 72b, 72c, 96 Nummer 18b und 18d und des § 97 Absatz 2 Nummer 7a. Auf Arzneimittel nach Absatz 3b finden die Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§ 5, 8, 48, 52a, 56a, 57, 58 Absatz 1 Satz 1, der §§ 59, 64 bis 69a, 78, 95 Absatz 1 Nummer 1, 3a, 6, 8, 9 und 10, Absatz 2 bis 4, § 96 Nummer 3, 13, 14 und 15 bis 17, § 97 Absatz 1, 2 Nummer 1, 21 bis 24 sowie 31 und Absatz 3 sowie der Vorschriften der auf Grund des § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 2, des § 48 Absatz 2 Nummer 4 und Absatz 4, des § 54 Absatz 1, 2 und 3 sowie des § 56a Absatz 3 erlassenen Verordnung über tierärztliche Hausapotheken und der auf Grund der §§ 12, 54 und 57 erlassenen Verordnung über Nachweispflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind.
 
 (5) Ärzte und Tierärzte dürfen bei der Ausübung ihres Berufes im kleinen Grenzverkehr im Sinne der Verordnung (EG) Nr. 1931/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Festlegung von Vorschriften über den kleinen Grenzverkehr an den Landaußengrenzen der Mitgliedstaaten sowie zur Änderung der Bestimmungen des Übereinkommens von Schengen (ABl. L 405 vom 30.12.2006, S. 1) nur Arzneimittel mitführen, die zum Verkehr im Geltungsbereich dieses Gesetzes zugelassen oder registriert sind oder von der Zulassung oder Registrierung freigestellt sind. Abweichend von Absatz 1 Satz 1 dürfen Ärzte, die eine Gesundheitsdienstleistung im Sinne der Richtlinie 2011/24/EU des Europäischen Parlaments und des Rates vom 9. März 2011 über die Ausübung der Patientenrechte in der grenzüberschreitenden Gesundheitsversorgung (ABl. L 88 vom 4.4.2011, S. 45) erbringen, am Ort ihrer Niederlassung zugelassene Arzneimittel in kleinen Mengen in einem für das Erbringen der grenzüberschreitenden Gesundheitsversorgung unerlässlichen Umfang in der Originalverpackung mit sich führen, wenn und soweit Arzneimittel gleicher Zusammensetzung und für gleiche Anwendungsgebiete auch im Geltungsbereich dieses Gesetzes zugelassen sind; der Arzt darf diese Arzneimittel nur selbst anwenden. Ferner dürfen abweichend von Absatz 1 Satz 1 Tierärzte, die als Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum eine Dienstleistung im Sinne der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) erbringen, am Ort ihrer Niederlassung zugelassene Arzneimittel in kleinen Mengen in einem für das Erbringen der Dienstleistung unerlässlichen Umfang in der Originalverpackung mit sich führen, wenn und soweit Arzneimittel gleicher Zusammensetzung und für gleiche Anwendungsgebiete auch im Geltungsbereich dieses Gesetzes zugelassen sind; der Tierarzt darf diese Arzneimittel nur selbst anwenden. Er hat den Tierhalter auf die für das entsprechende, im Geltungsbereich dieses Gesetzes zugelassene Arzneimittel festgesetzte Wartezeit hinzuweisen.
 
@@ -5113,9 +5129,9 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 9. entgegen § 38 Abs. 1 Satz 1 oder § 39a Satz 1 Fertigarzneimittel als homöopathische oder als traditionelle pflanzliche Arzneimittel ohne Registrierung in den Verkehr bringt,
 
-10. entgegen § 40 Abs. 1 Satz 3 Nr. 2, 2a Buchstabe a, Nr. 3, 4, 5, 6 oder 8, jeweils auch in Verbindung mit Abs. 4 oder § 41 die klinische Prüfung eines Arzneimittels durchführt,
+10. entgegen § 40 Absatz 1 die klinische Prüfung beginnt,
 
-11. entgegen § 40 Abs. 1 Satz 2 die klinische Prüfung eines Arzneimittels beginnt,
+11. entgegen § 40a Satz 1 Nummer 2 oder Nummer 3, auch in Verbindung mit Satz 2, entgegen § 40a Satz 1 Nummer 4 Buchstabe a oder Nummer 5 oder § 40b Absatz 3, Absatz 4 Satz 1 Nummer 1, Satz 2, Satz 3 oder Satz 9 oder Absatz 5 eine klinische Prüfung durchführt,
 
 12. entgegen § 47a Abs. 1 Satz 1 ein dort bezeichnetes Arzneimittel ohne Verschreibung abgibt, wenn die Tat nicht nach § 95 Abs. 1 Nr. 5a mit Strafe bedroht ist,
 
@@ -5143,13 +5159,19 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 18e. entgegen § 73 Absatz 1b Satz 1 ein gefälschtes Arzneimittel oder einen gefälschten Wirkstoff in den Geltungsbereich dieses Gesetzes verbringt,
 
-19. ein zum Gebrauch bei Menschen bestimmtes Arzneimittel in den Verkehr bringt, obwohl die nach § 94 erforderliche Haftpflichtversicherung oder Freistellungs- oder Gewährleistungsverpflichtung nicht oder nicht mehr besteht oder
+19. ein zum Gebrauch bei Menschen bestimmtes Arzneimittel in den Verkehr bringt, obwohl die nach § 94 erforderliche Haftpflichtversicherung oder Freistellungs- oder Gewährleistungsverpflichtung nicht oder nicht mehr besteht,
 
 20. gegen die Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1027/2012 (ABl. L 316 vom 14.11.2012, S. 38) geändert worden ist, verstößt, indem er
 
 a) entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung in Verbindung mit Artikel 8 Absatz 3 Unterabsatz 1 Buchstabe c bis e, h bis iaa oder Buchstabe ib der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Richtlinie 2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1) geändert worden ist, eine Angabe oder eine Unterlage nicht richtig oder nicht vollständig beifügt oder
 
-b) entgegen Artikel 31 Abs. 1 Satz 1 der Verordnung in Verbindung mit Artikel 12 Abs. 3 Unterabsatz 1 Satz 2 Buchstabe c bis e, h bis j oder k der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. EG Nr. L 311 S. 1), geändert durch die Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 58), eine Angabe nicht richtig oder nicht vollständig beifügt.
+b) entgegen Artikel 31 Abs. 1 Satz 1 der Verordnung in Verbindung mit Artikel 12 Abs. 3 Unterabsatz 1 Satz 2 Buchstabe c bis e, h bis j oder k der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. EG Nr. L 311 S. 1), geändert durch die Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 58), eine Angabe nicht richtig oder nicht vollständig beifügt oder
+
+21. gegen die Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) verstößt, indem er
+
+a) entgegen Artikel 5 Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 25 Absatz 1 Satz 1 Buchstabe c oder Anhang I Nummer 41 Satz 1 ein Antragsdossier nicht richtig oder nicht vollständig übermittelt oder
+
+b) entgegen Artikel 28 Absatz 1 Buchstabe a, c oder Buchstabe e in Verbindung mit Artikel 29 Absatz 1 Satz 1 oder Satz 3, entgegen Artikel 32 Absatz 1 oder Artikel 33 eine klinische Prüfung durchführt.
 
 # § 97 – Bußgeldvorschriften
 
@@ -5157,7 +5179,7 @@ b) entgegen Artikel 31 Abs. 1 Satz 1 der Verordnung in Verbindung mit Artikel 12
 
 1. § 96 Nummer 1 bis 5b, 7 bis 18e oder Nummer 19 oder
 
-2. § 96 Nummer 6 oder Nummer 20
+2. § 96 Nummer 6, 20 oder Nummer 21
 
 bezeichnete Handlung fahrlässig begeht.
 
@@ -5191,11 +5213,7 @@ eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 8. entgegen § 30 Abs. 4 Satz 1 Nr. 2 oder § 73 Abs. 1 oder 1a Arzneimittel in den Geltungsbereich dieses Gesetzes verbringt,
 
-9. entgegen § 40 Abs. 1 Satz 3 Nr. 7 die klinische Prüfung eines Arzneimittels durchführt,
-
-9a. ohne einen Stellvertreter nach § 40 Absatz 1a Satz 3 benannt zu haben, eine klinische Prüfung durchführt,
-
-9b. entgegen § 42b Absatz 1 oder Absatz 2 die Berichte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+9. entgegen § 42b Absatz 1 die Berichte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 10. entgegen § 43 Abs. 1, 2 oder 3 Satz 1 Arzneimittel berufs- oder gewerbsmäßig in den Verkehr bringt oder mit Arzneimitteln, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, Handel treibt oder diese Arzneimittel abgibt,
 
@@ -5279,7 +5297,7 @@ verschreibt, abgibt oder anwendet,
 
 24l. entgegen § 63g Absatz 1 einen Entwurf des Prüfungsprotokolls nicht, nicht richtig oder nicht rechtzeitig vorlegt,
 
-24m. entgegen § 63g Absatz 2 Satz 1 mit einer Unbedenklichkeitsprüfung beginnt,
+24m. entgegen § 63g Absatz 2 Satz 1 mit einer Unbedenklichkeitsstudie beginnt,
 
 24n. entgegen § 63g Absatz 4 Satz 1 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
@@ -5307,7 +5325,7 @@ verschreibt, abgibt oder anwendet,
 
 30a. (weggefallen)
 
-31. einer Rechtsverordnung nach § 7 Abs. 2 Satz 2, § 12 Abs. 1 Nr. 3 Buchstabe a, § 12 Abs. 1b, § 42 Abs. 3, § 54 Abs. 1, § 56a Abs. 3, § 57 Absatz 2 oder Absatz 3, § 58 Abs. 2 oder § 74 Abs. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+31. einer Rechtsverordnung nach § 7 Abs. 2 Satz 2, § 12 Abs. 1 Nr. 3 Buchstabe a, § 12 Abs. 1b, § 54 Abs. 1, § 56a Abs. 3, § 57 Absatz 2 oder Absatz 3, § 58 Abs. 2 oder § 74 Abs. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 32. (weggefallen)
 
@@ -5345,7 +5363,25 @@ verschreibt, abgibt oder anwendet,
 
 6. entgegen Artikel 41 Absatz 2 Satz 2 ein Ergebnis der dort genannten Prüfung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
 
-(2d) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+(2d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 36, Artikel 37 Absatz 1, 2, 3 oder 5 oder Artikel 54 Absatz 2 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig unterrichtet,
+
+2. entgegen Artikel 37 Absatz 4 Unterabsatz 1 Satz 1 in Verbindung mit Satz 2, Unterabsatz 2 oder Unterabsatz 3, entgegen Artikel 37 Absatz 4 Unterabsatz 4 oder Absatz 8 oder Artikel 43 Absatz 1 ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+3. entgegen Artikel 37 Absatz 6 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig in Kenntnis setzt,
+
+4. entgegen Artikel 38 Absatz 1 eine Mitteilung nicht oder nicht rechtzeitig macht oder
+
+5. entgegen
+
+a) Artikel 41 Absatz 1 oder 2 Unterabsatz 1 Satz 2 in Verbindung mit Unterabsatz 2 Satz 1 oder entgegen Artikel 41 Absatz 4 oder
+
+b) Artikel 42 Absatz 1 in Verbindung mit Absatz 2 Satz 1, entgegen Artikel 52 Absatz 1 oder Artikel 53 Absatz 1
+
+eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(2e) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 18 ein dort genanntes Produkt in den Verkehr bringt oder eine Information nicht oder nicht rechtzeitig gibt,
 
@@ -5361,7 +5397,7 @@ verschreibt, abgibt oder anwendet,
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
-1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9b und 24d bis 24q, der Absätze 2a bis 2c und
+1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5 und 6 Buchstabe b und
 
 2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
 
@@ -5823,6 +5859,14 @@ Für Arzneimittel, die zum Zeitpunkt des Inkrafttretens bereits zugelassen sind,
 # § 147 – Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
 Für nichtinterventionelle Unbedenklichkeitsprüfungen nach § 63f und Untersuchungen nach § 67 Absatz 6, die vor dem 13. August 2013 begonnen wurden, finden § 63f Absatz 4 und § 67 Absatz 6 bis zum 31. Dezember 2013 in der bis zum 12. August 2013 geltenden Fassung Anwendung.
+
+# § 148 – Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+
+(1) Für klinische Prüfungen bei Menschen, für die der Antrag auf Genehmigung vor dem Ablauf des Tages des sechsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, vor dem Ablauf des ersten Tages des darauffolgenden Kalendermonats gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde, sind das Arzneimittelgesetz und die GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die durch Artikel 13 Absatz 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) aufgehoben worden ist, in der jeweils bis zum 26. Januar 2022 geltenden Fassung bis zum Ablauf des Tages des zweiundvierzigsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, bis zum Ablauf des ersten Tages des darauffolgenden Kalendermonats weiter anzuwenden.
+
+(2) Eine klinische Prüfung bei Menschen, für die der Antrag auf Genehmigung vor dem Ablauf des Tages des achtzehnten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, vor dem Ablauf des ersten Tages des drauffolgenden Kalendermonats eingereicht wurde, darf nach dem Arzneimittelgesetz und der GCP-Verordnung in der jeweils bis zum 26. Januar 2022 geltenden Fassung begonnen werden. Für die betreffende klinische Prüfung sind das Arzneimittelgesetz und die GCP-Verordnung in der jeweils bis zum 26. Januar 2022 geltenden Fassung bis zum Ablauf des Tages des zweiundvierzigsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, bis zum Ablauf des ersten Tages des drauffolgenden Kalendermonats weiter anzuwenden.
+
+(3) Für klinische Prüfungen mit Humanarzneimitteln, die nicht in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen, sind das Arzneimittelgesetz und die GCP-Verordnung in der jeweils am 26. Januar 2022 geltenden Fassung bis zum 23. Dezember 2029 weiter anzuwenden.
 
 # § 149 – Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
 

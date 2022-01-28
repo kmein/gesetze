@@ -2622,7 +2622,9 @@ Wer Krankheitserreger in den Geltungsbereich dieses Gesetzes verbringen, sie aus
 
 a) Arzneimitteln,
 
-b) Medizinprodukten,
+b) Tierarzneimitteln,
+
+c) Medizinprodukten,
 
 2. Sterilitätsprüfungen, Bestimmung der Koloniezahl und sonstige Arbeiten zur mikrobiologischen Qualitätssicherung, soweit diese nicht dem spezifischen Nachweis von Krankheitserregern dienen und dazu Verfahrensschritte zur gezielten Anreicherung oder gezielten Vermehrung von Krankheitserregern beinhalten,
 

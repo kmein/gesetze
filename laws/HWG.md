@@ -9,7 +9,9 @@
 
 1a. Medizinprodukte im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung und im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
 
-2. andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden bei Mensch oder Tier bezieht, sowie operative plastisch-chirurgische Eingriffe, soweit sich die Werbeaussage auf die Veränderung des menschlichen Körpers ohne medizinische Notwendigkeit bezieht.
+2. andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden beim Menschen bezieht, sowie operative plastisch-chirurgische Eingriffe, soweit sich die Werbeaussage auf die Veränderung des menschlichen Körpers ohne medizinische Notwendigkeit bezieht,
+
+3. Verfahren und Behandlungen, soweit sich die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden beim Tier bezieht.
 
 (2) Andere Mittel im Sinne des Absatzes 1 Nr. 2 sind kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist. Gegenstände im Sinne des Absatzes 1 Nr. 2 sind auch Gegenstände zur Körperpflege im Sinne des § 2 Absatz 6 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
 
@@ -59,7 +61,7 @@ Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur Zulassung un
 
 # § 4
 
-(1) Jede Werbung für Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
+(1) Jede Werbung für Arzneimittel muß folgende Angaben enthalten:
 
 1. den Namen oder die Firma und den Sitz des pharmazeutischen Unternehmers,
 
@@ -75,9 +77,7 @@ Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur Zulassung un
 
 7. Warnhinweise, soweit sie für die Kennzeichnung der Behältnisse und äußeren Umhüllungen vorgeschrieben sind,
 
-7a. bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis "Verschreibungspflichtig",
-
-8. die Wartezeit bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen.
+7a. bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des Arzneimittelgesetzes unterliegen, den Hinweis "Verschreibungspflichtig".
 
 Eine Werbung für traditionelle pflanzliche Arzneimittel, die nach dem Arzneimittelgesetz registriert sind, muss folgenden Hinweis enthalten: "Traditionelles pflanzliches Arzneimittel zur Anwendung bei ... (spezifiziertes Anwendungsgebiet/spezifizierte Anwendungsgebiete) ausschließlich auf Grund langjähriger Anwendung".
 
@@ -85,7 +85,7 @@ Eine Werbung für traditionelle pflanzliche Arzneimittel, die nach dem Arzneimit
 
 (2) Die Angaben nach den Absätzen 1 und 1a müssen mit denjenigen übereinstimmen, die nach § 11 oder § 12 des Arzneimittelgesetzes für die Packungsbeilage vorgeschrieben sind. Können die in § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe a und Nr. 5 des Arzneimittelgesetzes vorgeschriebenen Angaben nicht gemacht werden, so können sie entfallen.
 
-(3) Bei einer Werbung außerhalb der Fachkreise ist der Text "Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker" gut lesbar und von den übrigen Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben. Bei einer Werbung für Heilwässer tritt an die Stelle der Angabe "die Packungsbeilage" die Angabe "das Etikett" und bei einer Werbung für Tierarzneimittel an die Stelle "Ihren Arzt" die Angabe "den Tierarzt". Die Angaben nach Absatz 1 Nr. 1, 3, 5 und 6 können entfallen. Satz 1 findet keine Anwendung auf Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind, es sei denn, daß in der Packungsbeilage oder auf dem Behältnis Nebenwirkungen oder sonstige Risiken angegeben sind.
+(3) Bei einer Werbung außerhalb der Fachkreise ist der Text "Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker" gut lesbar und von den übrigen Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben. Bei einer Werbung für Heilwässer tritt an die Stelle der Angabe "die Packungsbeilage" die Angabe "das Etikett". Die Angaben nach Absatz 1 Nr. 1, 3, 5 und 6 können entfallen. Satz 1 findet keine Anwendung auf Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind, es sei denn, daß in der Packungsbeilage oder auf dem Behältnis Nebenwirkungen oder sonstige Risiken angegeben sind.
 
 (4) Die nach Absatz 1 vorgeschriebenen Angaben müssen von den übrigen Werbeaussagen deutlich abgesetzt, abgegrenzt und gut lesbar sein.
 
@@ -133,7 +133,7 @@ Zuwendungen oder Werbegaben nach Buchstabe a sind für Arzneimittel unzulässig,
 
 5. es sich um unentgeltlich an Verbraucherinnen und Verbraucher abzugebende Zeitschriften handelt, die nach ihrer Aufmachung und Ausgestaltung der Kundenwerbung und den Interessen der verteilenden Person dienen, durch einen entsprechenden Aufdruck auf der Titelseite diesen Zweck erkennbar machen und in ihren Herstellungskosten geringwertig sind (Kundenzeitschriften).
 
-Werbegaben für Angehörige der Heilberufe sind unbeschadet des Satzes 1 nur dann zulässig, wenn sie zur Verwendung in der ärztlichen, tierärztlichen oder pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3 des Arzneimittelgesetzes bleibt unberührt.
+Werbegaben für Angehörige der Heilberufe sind unbeschadet des Satzes 1 nur dann zulässig, wenn sie zur Verwendung in der ärztlichen oder pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3 des Arzneimittelgesetzes bleibt unberührt.
 
 (2) Absatz 1 gilt nicht für Zuwendungen im Rahmen ausschließlich berufsbezogener wissenschaftlicher Veranstaltungen, sofern diese einen vertretbaren Rahmen nicht überschreiten, insbesondere in bezug auf den wissenschaftlichen Zweck der Veranstaltung von untergeordneter Bedeutung sind und sich nicht auf andere als im Gesundheitswesen tätige Personen erstrecken.
 
@@ -193,19 +193,15 @@ Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend. Ferner dar
 
 2. mit Werbemaßnahmen, die sich ausschließlich oder überwiegend an Kinder und Jugendliche richten.
 
-(2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei Menschen nicht mit Angaben geworben werden, die nahe legen, dass die Wirkung des Arzneimittels einem anderen Arzneimittel oder einer anderen Behandlung entspricht oder überlegen ist.
+(2) Außerhalb der Fachkreise darf für Arzneimittel nicht mit Angaben geworben werden, die nahe legen, dass die Wirkung des Arzneimittels einem anderen Arzneimittel oder einer anderen Behandlung entspricht oder überlegen ist.
 
 # § 12
 
 (1) Außerhalb der Fachkreise darf sich
 
-1. die Werbung für Arzneimittel nicht beziehen auf die Erkennung, Verhütung, Beseitigung oder Linderung der
+1. die Werbung für Arzneimittel nicht auf die Erkennung, Verhütung, Beseitigung oder Linderung der in Abschnitt A der Anlage aufgeführten Krankheiten oder Leiden beim Menschen beziehen,
 
-a) in Abschnitt A der Anlage aufgeführten Krankheiten oder Leiden bei Menschen,
-
-b) in Abschnitt B der Anlage aufgeführten Krankheiten oder Leiden bei Tieren,
-
-2. die Werbung für Medizinprodukte nicht beziehen auf die Erkennung, Verhütung, Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3 und 4 der Anlage aufgeführten Krankheiten oder Leiden bei Menschen.
+2. die Werbung für Medizinprodukte nicht auf die Erkennung, Verhütung, Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3 und 4 der Anlage aufgeführten Krankheiten oder Leiden beim Menschen beziehen.
 
 Satz 1 Nummer 2 gilt nicht für die Werbung für In-vitro-Diagnostika gemäß Anlage 3 zu § 3 Absatz 4 der Medizinprodukte-Abgabeverordnung, die sich auf die Erkennung der in Abschnitt A Nummer 1 der Anlage aufgeführten Krankheiten oder Leiden bei Menschen beziehen.
 
