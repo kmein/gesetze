@@ -9,7 +9,7 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (1) Das Bundesamt wird, unbeschadet der Zuständigkeiten sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des Menschen, insbesondere auf folgenden Gebieten tätig:
 
-1. Maßnahmen der Vorsorge und des Schutzes im Bereich der Lebensmittelsicherheit und des Verbraucherschutzes, vor allem im Hinblick auf Lebensmittel, Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes, kosmetische Mittel und sonstige Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte, Futtermittel und Futtermittelzusatzstoffe, tierische Nebenprodukte und Folgeprodukte, Chemikalien sowie Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, einschließlich deren Herstellung, Anwendung und Verkehr, und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, soweit dem Bund die Verwaltungszuständigkeit zusteht,
+1. Maßnahmen der Vorsorge und des Schutzes im Bereich der Lebensmittelsicherheit und des Verbraucherschutzes, vor allem im Hinblick auf Lebensmittel, Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes, kosmetische Mittel und sonstige Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte, Futtermittel und Futtermittelzusatzstoffe, tierische Nebenprodukte und Folgeprodukte, Chemikalien sowie Tierarzneimittel einschließlich deren Herstellung, Anwendung und Verkehr, und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, soweit dem Bund die Verwaltungszuständigkeit zusteht,
 
 2. Mitwirkung an der Vorbereitung und Begleitung von Überwachungsprogrammen und -plänen der Länder in den in Nummer 1 genannten Bereichen,
 
@@ -19,7 +19,7 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 5. Durchführung von Laborvergleichsuntersuchungen und Ringversuchen, soweit diese Aufgabe nicht von einer anderen Stelle wahrgenommen wird,
 
-6. Zulassung und Registrierung von Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, ausgenommen Tierimpfstoffe, nach den arzneimittelrechtlichen Vorschriften,
+6. Zulassung und Registrierung von Tierarzneimitteln, ausgenommen immunologische Tierarzneimittel und die weiteren in § 65 Absatz 1 Nummer 1 des Tierarzneimittelgesetzes genannten Tierarzneimittel, nach den tierarzneimittelrechtlichen Vorschriften,
 
 7. Wahrnehmung der Funktion eines gemeinschaftlichen und nationalen Referenzlabors für Rückstände nach der Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10) in ihrer jeweils geltenden Fassung, soweit für diese Tätigkeit durch Rechtsakte oder auf der Grundlage von Rechtsakten der Europäischen Gemeinschaft das Bundesgesundheitsamt oder das Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin benannt ist, sowie Wahrnehmung der Funktion einer Zentralstelle nach Artikel 4 Abs. 1 der Richtlinie 96/23/EG,
 
@@ -53,7 +53,7 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 9\. bis 12. (weggefallen),
 
-13. Arzneimittelgesetzes, soweit es den Verkehr und die Anwendung von Arzneimitteln betrifft, die zur Anwendung bei Tieren bestimmt sind, und es sich dabei nicht um Tierimpfstoffe handelt,
+13. Tierarzneimittelgesetzes, soweit es den Verkehr und die Anwendung von Tierarzneimitteln betrifft und es sich dabei nicht um immunologische Tierarzneimittel oder die weiteren in § 65 Absatz 1 Nummer 1 des Tierarzneimittelgesetzes genannten Tierarzneimittel handelt,
 
 14. Produktsicherheitsgesetzes, soweit sein Anwendungsbereich sich auf Produkte erstreckt, die von den in den Nummern 1 bis 13 genannten Gesetzen erfasst werden,
 

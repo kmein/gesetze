@@ -3,7 +3,7 @@
  
 # § 1
 
-(1) Den Apotheken obliegt die im öffentlichen Interesse gebotene Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der Bevölkerung.
+(1) Den Apotheken obliegt die im öffentlichen Interesse gebotene Sicherstellung einer ordnungsgemäßen Versorgung der Bevölkerung mit Arzneimitteln. Arzneimittel im Sinne dieses Gesetzes sind Arzneimittel, die zur Anwendung beim Menschen bestimmt sind, und Tierarzneimittel.
 
 (2) Wer eine Apotheke und bis zu drei Filialapotheken betreiben will, bedarf der Erlaubnis der zuständigen Behörde.
 
@@ -127,7 +127,7 @@ Der Erlaubnisinhaber darf sich nicht verpflichten, bestimmte Arzneimittel aussch
 
 (4) Im Falle einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht,
 
-a) findet Absatz 1 keine Anwendung auf Arzneimittel, die von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c des Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden,
+a) findet Absatz 1 keine Anwendung auf Arzneimittel, die von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen nach § 47 Absatz 1 Nummer 3c des Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden,
 
 b) gilt Absatz 3 Satz 1 und 2 entsprechend für Zubereitungen aus von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen bevorrateten Wirkstoffen.
 
@@ -257,7 +257,7 @@ c) insgesamt mindestens 40 vom Hundert der jährlichen Leistungen für Patienten
 
 Die nach Landesrecht bestimmten Träger und Durchführenden des Rettungsdienstes sowie Kur- und Spezialeinrichtungen sind als eine Station im Sinne des Absatzes 7 Satz 2 anzusehen, es sei denn, dass sie in Stationen oder andere Teileinheiten mit unterschiedlichem Versorgungszweck unterteilt sind. Dem Träger einer in Satz 2 genannten Einrichtung darf für diese eine Erlaubnis nach Absatz 1 nicht erteilt werden.
 
-(9) Die Absätze 3, 4, 5 Satz 3 und Absatz 7 Satz 1 bis 3 finden keine Anwendung, soweit es sich um Arzneimittel zur Behandlung einer bedrohlichen übertragbaren Krankheit handelt, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, und die von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c bevorratet oder nach § 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden.
+(9) Die Absätze 3, 4, 5 Satz 3 und Absatz 7 Satz 1 bis 3 finden keine Anwendung, soweit es sich um Arzneimittel zur Behandlung einer bedrohlichen übertragbaren Krankheit handelt, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, und die von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen nach § 47 Absatz 1 Nummer 3c des Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden.
 
 # § 15
 

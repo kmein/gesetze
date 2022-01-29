@@ -261,7 +261,7 @@ Achter Abschnitt
 
 erforderlich ist. In der Rechtsverordnung nach Satz 1 können einzelne Stoffe oder Zubereitungen ganz oder teilweise von der Anwendung dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung ausgenommen werden, soweit die Sicherheit und die Kontrolle des Betäubungsmittelverkehrs gewährleistet bleiben.
 
-(3) Das Bundesministerium für Gesundheit wird ermächtigt in dringenden Fällen zur Sicherheit oder zur Kontrolle des Betäubungsmittelverkehrs durch Rechtsverordnung ohne Zustimmung des Bundesrates Stoffe und Zubereitungen, die nicht Arzneimittel sind, in die Anlagen I bis III aufzunehmen, wenn dies wegen des Ausmaßes der mißbräuchlichen Verwendung und wegen der unmittelbaren oder mittelbaren Gefährdung der Gesundheit erforderlich ist. Eine auf der Grundlage dieser Vorschrift erlassene Verordnung tritt nach Ablauf eines Jahres außer Kraft.
+(3) Das Bundesministerium für Gesundheit wird ermächtigt in dringenden Fällen zur Sicherheit oder zur Kontrolle des Betäubungsmittelverkehrs durch Rechtsverordnung ohne Zustimmung des Bundesrates Stoffe und Zubereitungen, die nicht Arzneimittel oder Tierarzneimittel sind, in die Anlagen I bis III aufzunehmen, wenn dies wegen des Ausmaßes der mißbräuchlichen Verwendung und wegen der unmittelbaren oder mittelbaren Gefährdung der Gesundheit erforderlich ist. Eine auf der Grundlage dieser Vorschrift erlassene Verordnung tritt nach Ablauf eines Jahres außer Kraft.
 
 (4) Das Bundesministerium für Gesundheit (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlagen I bis III oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit das auf Grund von Änderungen der Anhänge zu dem Einheits-Übereinkommen von 1961 über Suchtstoffe in der Fassung der Bekanntmachung vom 4. Februar 1977 (BGBl. II S. 111) und dem Übereinkommen von 1971 über psychotrope Stoffe (BGBl. 1976 II S. 1477) (Internationale Suchtstoffübereinkommen) oder auf Grund von Änderungen des Anhangs des Rahmenbeschlusses 2004/757/JI des Rates vom 25. Oktober 2004 zur Festlegung von Mindestvorschriften über die Tatbestandsmerkmale strafbarer Handlungen und die Strafen im Bereich des illegalen Drogenhandels (ABl. L 335 vom 11.11.2004, S. 8), der durch die Richtlinie (EU) 2017/2103 (ABl. L 305 vom 21.11.2017, S. 12) geändert worden ist, erforderlich ist.
 
@@ -323,9 +323,9 @@ e) in Anlage I, II oder III bezeichnete Betäubungsmittel zur Untersuchung, zur 
 
 f) in Anlage III bezeichnete Opioide in Form von Fertigarzneimitteln in transdermaler oder in transmucosaler Darreichungsform an eine Apotheke zur Deckung des nicht aufschiebbaren Betäubungsmittelbedarfs eines ambulant versorgten Palliativpatienten abgibt, wenn die empfangende Apotheke die Betäubungsmittel nicht vorrätig hat,
 
-2. im Rahmen des Betriebs einer tierärztlichen Hausapotheke in Anlage III bezeichnete Betäubungsmittel in Form von Fertigarzneimitteln
+2. im Rahmen des Betriebs einer tierärztlichen Hausapotheke in Anlage III bezeichnete Betäubungsmittel in Form von Tierarzneimitteln
 
-a) für ein von ihm behandeltes Tier miteinander, mit anderen Fertigarzneimitteln oder arzneilich nicht wirksamen Bestandteilen zum Zwecke der Anwendung durch ihn oder für die Immobilisation eines von ihm behandelten Zoo-, Wild- und Gehegetieres mischt,
+a) für ein von ihm behandeltes Tier miteinander, mit anderen Tierarzneimitteln oder arzneilich nicht wirksamen Bestandteilen zum Zwecke der Anwendung durch ihn oder für die Immobilisation eines von ihm behandelten Zoo-, Wild- und Gehegetieres mischt,
 
 b) erwirbt,
 
@@ -357,7 +357,7 @@ a) an der Beförderung von Betäubungsmitteln zwischen befugten Teilnehmern am B
 
 b) die Versendung von Betäubungsmitteln zwischen befugten Teilnehmern am Betäubungsmittelverkehr durch andere besorgt oder vermittelt oder
 
-6. in Anlage I, II oder III bezeichnete Betäubungsmittel als Proband oder Patient im Rahmen einer klinischen Prüfung oder in Härtefällen nach § 21 Absatz 2 Nummer 6 des Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1) erwirbt.
+6. in Anlage I, II oder III bezeichnete Betäubungsmittel als Proband oder Patient im Rahmen einer klinischen Prüfung oder in Härtefällen nach § 21 Absatz 2 Nummer 3 des Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung der Verfahren der Union für die Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist, erwirbt.
 
 (2) Einer Erlaubnis nach § 3 bedürfen nicht Bundes- und Landesbehörden für den Bereich ihrer dienstlichen Tätigkeit sowie die von ihnen mit der Untersuchung von Betäubungsmitteln beauftragten Behörden.
 
@@ -397,7 +397,9 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zustä
 
 1. im Falle des Herstellens von Betäubungsmitteln oder ausgenommenen Zubereitungen, die Arzneimittel sind, durch den Nachweis der Sachkenntnis nach § 15 Absatz 1 des Arzneimittelgesetzes,
 
-2. im Falle des Herstellens von Betäubungsmitteln, die keine Arzneimittel sind, durch das Zeugnis über eine nach abgeschlossenem wissenschaftlichem Hochschulstudium der Biologie, der Chemie, der Pharmazie, der Human- oder der Veterinärmedizin abgelegte Prüfung und durch die Bestätigung einer mindestens einjährigen praktischen Tätigkeit in der Herstellung oder Prüfung von Betäubungsmitteln,
+1a. im Falle des Herstellens von Betäubungsmitteln oder ausgenommenen Zubereitungen, die Tierarzneimittel sind, durch den Nachweis, dass die vorgesehene verantwortliche Person die Voraussetzungen an eine sachkundige Person nach Artikel 97 Absatz 2 und 3 der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) erfüllt,
+
+2. im Falle des Herstellens von Betäubungsmitteln, die keine Arzneimittel oder Tierarzneimittel sind, durch das Zeugnis über eine nach abgeschlossenem wissenschaftlichem Hochschulstudium der Biologie, der Chemie, der Pharmazie, der Human- oder der Veterinärmedizin abgelegte Prüfung und durch die Bestätigung einer mindestens einjährigen praktischen Tätigkeit in der Herstellung oder Prüfung von Betäubungsmitteln,
 
 3. im Falle des Verwendens für wissenschaftliche Zwecke durch das Zeugnis über eine nach abgeschlossenem wissenschaftlichem Hochschulstudium der Biologie, der Chemie, der Pharmazie, der Human- oder der Veterinärmedizin abgelegte Prüfung und
 

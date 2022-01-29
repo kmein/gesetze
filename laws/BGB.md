@@ -3660,7 +3660,7 @@ Die Vorschriften dieses Untertitels über den Kauf von Grundstücken finden auf 
 
 2. § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6 und die §§ 476 und 477 über die Rechte bei Mängeln.
 
-An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
+An die Stelle der nach Satz 2 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
 
 (2) Der Verkäufer trägt die Kosten der Begründung und Übertragung des Rechts.
 
