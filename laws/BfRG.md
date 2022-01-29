@@ -9,7 +9,7 @@ Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz, Ernährung u
 
 (1) Das Bundesinstitut wird, unbeschadet bestehender Zuständigkeiten sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des Menschen, insbesondere auf folgenden Gebieten tätig:
 
-1. Erstellung von wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen zu Fragen, die unmittelbar oder mittelbar mit der Lebensmittelsicherheit oder dem Verbraucherschutz im Hinblick auf die Gesundheit des Menschen einschließlich Fragen der Ernährung und Ernährungsprävention und, soweit Futtermittel, Futtermittelzusatzstoffe, der Verkehr mit und die Anwendung von Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, betroffen sind, auch im Hinblick auf die Tiergesundheit in Zusammenhang stehen,
+1. Erstellung von wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen zu Fragen, die unmittelbar oder mittelbar mit der Lebensmittelsicherheit oder dem Verbraucherschutz im Hinblick auf die Gesundheit des Menschen einschließlich Fragen der Ernährung und Ernährungsprävention und, soweit Futtermittel, Futtermittelzusatzstoffe, der Verkehr mit und die Anwendung von Tierarzneimitteln und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, betroffen sind, auch im Hinblick auf die Tiergesundheit in Zusammenhang stehen,
 
 2. wissenschaftliche Beratung des Bundesministeriums und anderer oberster Bundesbehörden, soweit das Bundesinstitut Tätigkeiten aus deren Geschäftsbereich wahrnimmt, sowie des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit in allen Fragen, die zu den Tätigkeiten des Bundesinstitutes gehören,
 
