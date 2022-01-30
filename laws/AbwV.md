@@ -103,9 +103,10 @@ Die zusammengefassten Mittelwerte nach den Nummern 1 und 2 sind der zuständigen
 
 Ordnungswidrig im Sinne des § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe a des Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 1 Satz 1 Abwasser einleitet.
 
-# Anlage 1 – (zu § 4 Absatz 1 Satz 1 und 2) Analyse- und Messverfahren
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1 und 2)Analyse- und Messverfahren
 
-(Fundstelle: BGBl. I 2018, 1328 - 1337)
+(Fundstelle: BGBl. I 2018, 1328 - 1337;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -3628,7 +3629,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 A  
 Anwendungsbereich
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Wäsche von Rauch- oder Abgasen stammt, die bei der Verbrennung und Mitverbrennung von Abfällen im Sinne von Artikel 42 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) entstehen. (2) Dieser Anhang gilt nicht für Abwasser aus sonstigen industriellen Abgaswaschanlagen, Kreislaufkühlsystemen von Kraftwerken und industriellen Prozessen, aus sonstigen Anfallstellen bei der Dampferzeugung sowie aus der Wäsche von Rauchgasen aus Feuerungsanlagen.
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Wäsche von Rauch- oder Abgasen stammt, die bei der Verbrennung von Abfällen im Sinne von Artikel 42 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) entstehen. (2) Dieser Anhang gilt nicht für Abwasser aus sonstigen industriellen Abgaswaschanlagen, Kreislaufkühlsystemen von Kraftwerken und industriellen Prozessen, aus sonstigen Anfallstellen bei der Dampferzeugung sowie aus der Wäsche von Rauchgasen aus Feuerungsanlagen.
 
 B  
 Allgemeine Anforderungen
@@ -3777,6 +3778,171 @@ Anforderungen für vorhandene Einleitungen
 
   
 (2) Die Frachtbezugsgröße Abfall bezieht sich auf die dem wasserrechtlichen Bescheid zugrunde liegende Kapazität der Hausmüllverbrennungsanlage. (3) Abweichend von § 6 Abs. 1 beträgt die höchstens zulässige Überschreitung für alle Parameter 50 Prozent. Die Schadstofffracht (mg/t) wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom ermittelt.
+
+# Anhang 35 – Chipherstellung
+
+(Fundstelle: BGBl. I 2022, 90 - 93)
+
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Chipherstellung stammt, einschließlich
+
+1. der dazugehörigen Vor-, Zwischen- und Nachbehandlung,
+
+2. der Maskenherstellung und der Teilereinigung, sofern das Abwasser eine vergleichbare Zusammensetzung wie das Abwasser aus der Chipherstellung aufweist, und
+
+3. des betriebsinternen Recyclings von Wafern, sofern das Abwasser eine vergleichbare Zusammensetzung wie das Abwasser aus der Chipherstellung aufweist.
+
+(2) Dieser Anhang gilt nicht für Abwasser aus
+
+1. indirekten Kühlsystemen,
+
+2. der Aufbereitung von Betriebswasser, einschließlich Reinstwasser, sowie
+
+3. der Herstellung von Silizium-Einkristallen und dem Vereinzeln der Einkristalle zu Wafern.
+
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
+
+1. Verlängerung der Nutzungsdauer von Prozesslösungen,
+
+2. Minimierung des Spülwasserbedarfs durch
+
+a) den Einsatz wassersparender Spültechniken wie
+
+aa)  
+Kaskadenspülung oder
+
+bb)  
+Kreislaufführung des Spülwassers über Ionenaustauscher,
+
+b) Filtrationstechniken oder
+
+c) andere Verfahren, die in ihrer Wirkung ähnlich sind,
+
+3. Mehrfachnutzung geeigneter Spülwässer im Produktionsprozess oder Verwendung geeigneter Spülwässer in anderen Betriebsbereichen nach Aufbereitung durch Kreislaufführung über lonenaustauscher, durch Filtrationstechniken oder durch andere Verfahren, die in ihrer Wirkung ähnlich sind,
+
+4. Rückgewinnung von Wertstoffen aus verbrauchten Prozesslösungen und aus geeigneten Abwasserteilströmen,
+
+5. Getrennthaltung und -behandlung von Abwasserteilströmen, soweit eine stoffliche Verwertung der anfallenden Schlämme möglich ist und Anforderungen nach anderen Rechtsvorschriften dem nicht entgegenstehen,
+
+6. Minimierung des Abwasseranfalls aus der Ablufterfassung und -behandlung,
+
+7. Minimierung der Bildung adsorbierbarer organisch gebundener Halogene (AOX) durch
+
+a) Einsatz von Salzsäure, die keine höhere Verunreinigung durch organische Halogenverbindungen aufweist, als nach DIN EN 939 (Ausgabe September 2016) zulässig ist,
+
+b) Einsatz von Eisen- und Aluminiumsalzen bei der Abwasserbehandlung, die keine höhere Belastung mit organischen Halogenverbindungen aufweisen als 100 Milligramm, jeweils bezogen auf ein Kilogramm Eisen oder Aluminium in den eingesetzten Behandlungsmitteln, oder
+
+c) Einsatz von cyanidfreien Prozesslösungen anstelle cyanidischer Prozesslösungen,
+
+8. Verzicht auf den Einsatz von Fotoresistlacken für fotolithografische Prozesse, in denen per- oder polyfluorierte Verbindungen (PFC) enthalten sind; kann auf den Einsatz dieser Lacke nicht verzichtet werden, so sind die Einsatzmenge in der Produktion und die Schadstofffracht im Abwasser entsprechend den technischen Möglichkeiten zu reduzieren,
+
+9. Verzicht auf den Einsatz von Organosulfiden in der Abwasserbehandlung; kann auf den Einsatz von Organosulfiden nicht verzichtet werden, so ist die Einsatzmenge zu minimieren und sind gegebenenfalls im Abwasser vorhandene Überschüsse vollständig zurückzuhalten durch Rückfällung mit Metallsalzen oder mit anderen geeigneten Mitteln.
+
+(2) Die Einhaltung der Anforderungen nach Absatz 1 ist in einem betrieblichen Abwasserkataster nach Anlage 2 Nummer 1 zu dokumentieren.
+
+An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
+
+ 
+
+Qualifizierte Stichprobe oder  
+2-Stunden-Mischprobe
+
+Aluminium
+
+mg/l
+
+2,0
+
+Organisch gebundener Kohlenstoff, gesamt (TOC)
+
+mg/l
+
+20
+
+Chemischer Sauerstoffbedarf (CSB)
+
+mg/l
+
+60
+
+Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
+
+mg/l
+
+15
+
+Fluorid, gelöst
+
+mg/l
+
+30
+
+Phosphor, gesamt
+
+mg/l
+
+1,0
+
+Ammoniumstickstoff (NH<sub>4</sub>-N)
+
+mg/l
+
+10
+
+Nitritstickstoff (NO<sub>2</sub>-N)
+
+mg/l
+
+2,0
+
+Eisen
+
+mg/l
+
+3,0
+
+Abfiltrierbare Stoffe  
+(suspendierte Stoffe)
+
+mg/l
+
+15
+
+Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
+
+ 
+
+2
+
+An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe<span id="FnR.FnA1-F820148_02"></span><a href="#FnA1-F820148_02" class="FnR">*</a></sup><br />
+mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Antimon</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Adsorbierbare organisch gebundene Halogene (AOX)<span id="FnR.FnA1-F820148_03"></span><a href="#FnA1-F820148_03" class="FnR">**</a></sup></td><td style="text-align: center;"> 0,10</td></tr><tr class="odd"><td style="text-align: left;">Arsen</td><td style="text-align: center;"> 0,20</td></tr><tr class="even"><td style="text-align: left;">Barium</td><td style="text-align: center;">3,0</td></tr><tr class="odd"><td style="text-align: left;">Blei</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Cer</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;"> 0,20</td></tr><tr class="even"><td style="text-align: left;">Cobalt</td><td style="text-align: center;">1,0</td></tr><tr class="odd"><td style="text-align: left;">Germanium</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Gold</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Hafnium</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Molybdän</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Nickel</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Palladium</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Platin</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Praseodym</td><td style="text-align: center;"> 0,50</td></tr><tr class="even"><td style="text-align: left;">Ruthenium</td><td style="text-align: center;"> 0,50</td></tr><tr class="odd"><td style="text-align: left;">Sulfid, leicht freisetzbar</td><td style="text-align: center;">1,0</td></tr><tr class="even"><td style="text-align: left;">Titan</td><td style="text-align: center;">1,0</td></tr><tr class="odd"><td style="text-align: left;">Wolfram</td><td style="text-align: center;">2,0</td></tr><tr class="even"><td style="text-align: left;">Zink</td><td style="text-align: center;">2,0</td></tr><tr class="odd"><td style="text-align: left;">Zinn</td><td style="text-align: center;">2,0</td></tr><tr class="even"><td style="text-align: left;">Zirkonium</td><td style="text-align: center;"> 0,50</td></tr></tbody></table>
+
+<span id="FnA1-F820148_02"></span><a href="#FnR.FnA1-F820148_02" class="Footnote">*</a>  
+Bei Chargenanlagen beziehen sich alle Anforderungen auf die Stichprobe.
+
+<span id="FnA1-F820148_03"></span><a href="#FnR.FnA1-F820148_03" class="Footnote">**</a>  
+Für AOX gilt der Wert in der Stichprobe.
+
+(1) An das Abwasser werden für den Ort des Anfalls folgende Anforderungen gestellt:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Stichprobe<br />
+mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Cadmium</td><td style="text-align: center;">0,050  </td></tr><tr class="even"><td style="text-align: left;">Chrom VI</td><td style="text-align: center;">0,10   </td></tr><tr class="odd"><td style="text-align: left;">Cyanid, leicht freisetzbar</td><td style="text-align: center;">0,20   </td></tr><tr class="even"><td style="text-align: left;">Selen</td><td style="text-align: center;">1,0    </td></tr><tr class="odd"><td style="text-align: left;">Silber</td><td style="text-align: center;">0,10   </td></tr><tr class="even"><td style="text-align: left;">Thallium</td><td style="text-align: center;">0,50   </td></tr><tr class="odd"><td style="text-align: left;">Quecksilber</td><td style="text-align: center;">0,00050</td></tr></tbody></table>
+
+(2) Im Abwasser dürfen keine organischen Komplexbildner enthalten sein, die einen DOC-Abbaugrad nach 28 Tagen von mindestens 80 Prozent nach Anlage 1 Nummer 406 nicht erreichen.
+
+(3) Abweichend von § 2 Nummer 5 ist der Ort des Anfalls des Abwassers der Ablauf der Vorbehandlungsanlage für den jeweiligen Parameter.
+
+Für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 28. Januar 2022 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, gelten die Anforderungen dieses Anhangs ab dem 1. Juli 2022. Bis zum Ablauf des 30. Juni 2022 gelten für Einleitungen nach Satz 1 die Anforderungen nach Anhang 54 in der am 27. Januar 2022 geltenden Fassung.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+Sofern PFC-haltige Prozesschemikalien verwendet werden oder verwendet wurden, ist der Betreiber verpflichtet,
+
+1. die Einsatzmengen der PFC-haltigen Prozesschemikalien im Betriebstagebuch nach Anlage 2 Nummer 2 Buchstabe e für jede Dosierstelle zu dokumentieren und
+
+2. im behandelten Abwasser vor Einleitung PFC mindestens jährlich zu messen, sofern die Behörde nicht etwas Anderes festlegt.
 
 # Anhang 36 – Herstellung von Kohlenwasserstoffen
 
@@ -7317,131 +7483,130 @@ Anforderungen für vorhandene Einleitungen
 
 Für vorhandene Einleitungen von Abwasser sind die unter Teil A Absatz 3 genannten Anforderungen spätestens bis zum 8. März 2016 einzuhalten. Abweichend hiervon sind die Anforderungen nach Teil C Absatz 1 für die Parameter Phosphor, gesamt und Stickstoff, gesamt, als Summe aus Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>) ab dem 6. September 2014 einzuhalten. Die Überprüfung nach Teil D Absatz 2 Satz 2 ist ab dem 8. März 2016 vorzunehmen.
 
-# Anhang 47 – Wäsche von Rauchgasen aus Feuerungsanlagen
+# Anhang 47 – Feuerungsanlagen
 
-(Fundstelle: BGBl. I 2004, 1168 - 1160;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2022, 93 - 94)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus dem Betrieb von Feuerungsanlagen stammt.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Wäsche von Rauchgasen aus Feuerungsanlagen stammt. (2) Dieser Anhang gilt nicht für Abwasser aus sonstigen industriellen Abgaswaschanlagen, Kreislaufkühlsystemen von Kraftwerken und industriellen Prozessen, aus sonstigen Anfallstellen bei der Dampferzeugung sowie aus der Wäsche von Rauch- oder Abgasen aus der Verbrennung und Mitverbrennung von Abfällen.
+(2) Dieser Anhang gilt nicht für Abwasser aus
 
-B  
-Allgemeine Anforderungen
+1. Kühlsystemen von Kraftwerken und industriellen Prozessen,
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
+2. sonstigen Anfallstellen bei der Dampferzeugung und der Betriebswasseraufbereitung,
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+3. Anlagen, in denen ausschließlich Abfälle verbrannt werden, und
 
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+4. Feuerungsanlagen ohne nasse Rauchgaswäsche mit einer Feuerungswärmeleistung von weniger als 50 Megawatt.
+
+(3) Die in Teil C Absatz 1 genannten Anforderungen mit Ausnahme der Anforderungen an den TOC und den CSB sowie die in Teil D genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
+
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
+
+1. Rückführung von Prozesswasser zur Mehrfachnutzung,
+
+2. betriebliche Nutzung von behandlungsbedürftigem Niederschlagswasser,
+
+3. Betrieb des Rauchgaswäschers mit betriebstechnisch maximal möglicher Chloridkonzentration mit dem Ziel, die Schwermetallfracht zu verringern,
+
+4. Kühlung von Kesselasche durch Kreislaufführung des Kühlmediums Wasser oder durch Luftkühlung oder
+
+5. Behandlung des Abwassers durch eine geeignete Kombination von Verfahren wie Fällung, Flockung, Neutralisation, Filtration, Ionenaustausch, Membranverfahren, Zugabe von Adsorbenzien oder anderen geeigneten Verfahren.
+
+(2) Behandlungsbedürftiges Abwasser darf vor einer Behandlung nicht mit nichtbehandlungsbedürftigem Abwasser vermischt werden.
+
+(1) An das Abwasser aus der Rauchgaswäsche werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
+
+ 
+
+ 
+
+Qualifizierte Stichprobe oder  
+2-Stunden-Mischprobe
+
+Abfiltrierbare Stoffe
+
+   30 mg/l
+
+Chemischer Sauerstoffbedarf (CSB)
+
+ 
+
+–
+
+Einsatz von Branntkalk
+
+   80 mg/l
+
+–
+
+Einsatz von Kalkstein
+
+  150 mg/l
+
+Organisch gebundener Kohlenstoff, gesamt (TOC)
+
+ 
+
+–
+
+Einsatz von Branntkalk
+
+   25 mg/l
+
+–
+
+Einsatz von Kalkstein
+
+   50 mg/l
+
+Sulfat
+
+2 000 mg/l
+
+Sulfit
+
+   10 mg/l
+
+Fluorid, gelöst
+
+   15 mg/l
+
+Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
+
+2 
+
+(2) In der wasserrechtlichen Zulassung kann die Schadstofffracht für CSB und TOC, die in dem Wasser bei der Entnahme aus einem Gewässer vorhanden war (Vorbelastung), berücksichtigt werden, soweit die entnommene Schadstofffracht bei der Einleitung in das Gewässer noch vorhanden ist.
+
+(3) Abweichend von § 6 Absatz 1 Satz 1 dürfen die Werte für die Parameter nach Absatz 1 höchstens um 50 Prozent überschritten werden.
+
+An das Abwasser aus der Rauchgaswäsche werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
 2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Abfiltrierbare Stoffe</td><td style="text-align: center;">30</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;">- Einsatz von Branntkalk</td><td style="text-align: center;">80</td></tr><tr class="even"><td style="text-align: left;">- Einsatz von Kalkstein</td><td style="text-align: center;">150</td></tr><tr class="odd"><td style="text-align: left;">Sulfat</td><td style="text-align: center;">2 000</td></tr><tr class="even"><td style="text-align: left;">Sulfit</td><td style="text-align: center;">20</td></tr><tr class="odd"><td style="text-align: left;">Fluorid, gelöst</td><td style="text-align: center;">30</td></tr><tr class="even"><td style="text-align: left;">Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)</td><td style="text-align: center;">2</td></tr></tbody></table>
+mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Arsen</td><td style="text-align: center;">0,050 </td></tr><tr class="even"><td style="text-align: left;">Cadmium</td><td style="text-align: center;">0,0050</td></tr><tr class="odd"><td style="text-align: left;">Quecksilber</td><td style="text-align: center;">0,0030</td></tr><tr class="even"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">0,050 </td></tr><tr class="odd"><td style="text-align: left;">Nickel</td><td style="text-align: center;">0,050 </td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">0,050 </td></tr><tr class="odd"><td style="text-align: left;">Blei</td><td style="text-align: center;">0,020 </td></tr><tr class="even"><td style="text-align: left;">Zink</td><td style="text-align: center;">0,20  </td></tr><tr class="odd"><td style="text-align: left;">Thallium</td><td style="text-align: center;">0,050 </td></tr><tr class="even"><td style="text-align: left;">Sulfid, leicht freisetzbar</td><td style="text-align: center;">0,10  </td></tr></tbody></table>
 
-  
-(2) Abweichend von § 6 Abs. 3 gilt der CSB-Wert auch als eingehalten, wenn der dreifache Wert des TOC, bestimmt in Milligramm je Liter, diesen Wert nicht überschreitet. Die Anforderungen für den Chemischen Sauerstoffbedarf gelten nach Abzug der mit dem Einsatzwasser zugeführten CSB-Vorbelastung.
+An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
 
-(3) Abweichend von § 6 Abs. 1 beträgt die höchstens zulässige Überschreitung für alle Parameter 50 Prozent.
+Für vorhandene Einleitungen von Abwasser gilt die Anforderung nach Teil B Absatz 1 Nummer 4 nicht.
 
-D  
-Anforderungen an das Abwasser vor Vermischung
+Abfallrechtliche Anforderungen werden nicht gestellt.
 
-(1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
+(1) Betreiber von Feuerungsanlagen mit einer Feuerungswärmeleistung von 50 Megawatt oder mehr haben an der Einleitungsstelle in das Gewässer mindestens die folgenden Messungen im Abwasser durchzuführen:
 
- 
+1. kontinuierliche Messung von pH-Wert, Temperatur und Volumen des Abwasserstroms,
 
-Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
+2. monatliche Messung in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe
 
- 
+a) sämtlicher in Teil C Absatz 1 und in Teil D genannter Parameter außer G<sub>Ei</sub> und
 
-Steinkohlekraftwerke
+b) der Parameter Chlorid und TN<sub>b</sub> sowie
 
-Braunkohlekraftwerke  
-bei Chloridgehalten von  
-bis zu 0,05 Gewichtsprozent  
-  
-Schadstofffracht in Gramm  
-je Stunde und je 300 MW  
-installierte elektrische Leistung
+3. Messung des mit den Probenahmen nach Nummer 2 korrespondierenden Volumens des Abwasserstroms.
 
-  
-Konzentration
+(2) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 
-  
-Milligramm Schadstofffracht  
-je Kilogramm Chlorid
-
-mg/l
-
-Cadmium
-
-0,05
-
-1,8
-
-0,1
-
-Quecksilber
-
-0,03
-
-1,1
-
-0,1
-
-Chrom, gesamt
-
-0,5
-
-18
-
-1
-
-Nickel
-
-0,5
-
-18
-
-1
-
-Kupfer
-
-0,5
-
-18
-
-1
-
-Blei
-
-0,1
-
-3,6
-
-0,2
-
-Zink
-
-1,0
-
-36
-
-2
-
-Sulfid, leicht freisetzbar
-
-0,2
-
-7,2
-
-0,4
-
-  
-(2) Für Steinkohlekraftwerke berechnet sich die Bezugsgröße Chlorid für die Schadstofffracht aus folgenden, dem die Abwassereinleitung zulassenden Bescheid zugrunde zu legenden Angaben: Verfeuerte Steinkohle bei Volllast (t/h) und Chloridgehalt der eingesetzten Steinkohle. Übersteigt die durch das Einsatzwasser verursachte Chloridkonzentration des Abwassers den Wert von 2 g/l, so ist der übersteigende Chloridgehalt als Fracht der berechneten Chloridfracht aus der verfeuerten Steinkohle hinzuzurechnen.
+(3) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 und 2 unberührt.
 
 # Anhang 48 – Verwendung bestimmter gefährlicher Stoffe
 
@@ -8361,18 +8526,14 @@ In Betrieben mit einem Film- und Papierdurchsatz von über 3 000 m² je Jahr d�
 
 mg/qm
 
-# Anhang 54 – Herstellung von Halbleiterbauelementen
+# Anhang 54 – Herstellung von Wafern und Solarzellen
 
 (Fundstelle: BGBl. I 2004, 1179 - 1180;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Wafern für Halbleiterbauelemente und von Solarzellen einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung stammt.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Halbleiterbauelementen und Solarzellen einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung stammt. (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung einschließlich Retentaten aus der Reinstwasseraufbereitung durch Membranverfahren.
-
-B  
-Allgemeine Anforderungen
+(2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung einschließlich Retentaten aus der Reinstwasseraufbereitung durch Membranverfahren.
 
 Die Schadstofffracht ist so gering zu halten, wie dies nach Prüfung der Verhältnisse im Einzelfall durch folgende Maßnahmen möglich ist:
 
@@ -8386,15 +8547,9 @@ Die Schadstofffracht ist so gering zu halten, wie dies nach Prüfung der Verhäl
 
 5. Weiterverwenden oder Abgabe von Prozessbädern (z.B. Säuren, organische Lösungsmittel) zur Verwertung.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
 An das Abwasser wird für die Einleitungsstelle in das Gewässer eine Anforderung für die Giftigkeit gegenüber Fischeiern von G<sub>Ei</sub> = 2 gestellt.
 
-D  
-Anforderungen an das Abwasser vor Vermischung
-
-An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
+An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
  
 
@@ -8425,16 +8580,20 @@ Benzol und Derivate
 
 \-
 
-E  
-Anforderungen an das Abwasser für den Ort des Anfalls
+(1) Das Abwasser aus Reinigungsprozessen darf am Ort des Anfalls nur diejenigen halogenierten Lösemittel enthalten, die nach der Zweiten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes in der jeweils gültigen Fassung eingesetzt werden dürfen. Diese Anforderung gilt auch als eingehalten, wenn der Nachweis erbracht wird, dass nur zugelassene halogenierte Lösemittel eingesetzt werden. Im Übrigen ist für LHKW (Summe aus Trichlorethen, Tetrachlorethen, 1,1,1-Trichlorethan, Dichlormethan - gerechnet als Chlor) ein Wert von 0,1 mg/l in der Stichprobe einzuhalten.
 
-(1) Das Abwasser aus Reinigungsprozessen darf am Ort des Anfalls nur diejenigen halogenierten Lösemittel enthalten, die nach der Zweiten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes in der jeweils gültigen Fassung eingesetzt werden dürfen. Diese Anforderung gilt auch als eingehalten, wenn der Nachweis erbracht wird, dass nur zugelassene halogenierte Lösemittel eingesetzt werden. Im Übrigen ist für LHKW (Summe aus Trichlorethen, Tetrachlorethen, 1,1,1-Trichlorethan, Dichlormethan - gerechnet als Chlor) ein Wert von 0,1 mg/l in der Stichprobe einzuhalten. (2) Unbeschadet der Anforderungen nach Absatz 1 sind im Abwasser aus galvanischen Prozessen folgende Werte einzuhalten:  
+(2) Unbeschadet der Anforderungen nach Absatz 1 sind im Abwasser aus galvanischen Prozessen folgende Werte einzuhalten:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: center;">Stichprobe<br />
 mg/l</td></tr><tr class="even"><td style="text-align: left;">Blei</td><td style="text-align: center;">0,5</td></tr><tr class="odd"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">0,5</td></tr><tr class="even"><td style="text-align: left;">Chrom VI</td><td style="text-align: center;">0,1</td></tr><tr class="odd"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">0,5</td></tr><tr class="even"><td style="text-align: left;">Nickel</td><td style="text-align: center;">0,5</td></tr><tr class="odd"><td style="text-align: left;">Silber</td><td style="text-align: center;">0,1</td></tr><tr class="even"><td style="text-align: left;">Zinn</td><td style="text-align: center;">2</td></tr><tr class="odd"><td style="text-align: left;">Sulfid, leicht freisetzbar</td><td style="text-align: center;">1</td></tr><tr class="even"><td style="text-align: left;">Cyanid, leicht freisetzbar</td><td style="text-align: center;">0,2</td></tr><tr class="odd"><td style="text-align: left;">Chlor, freies</td><td style="text-align: center;">0,5</td></tr></tbody></table>
 
   
-Für Chrom VI und Cyanid, leicht freisetzbar, dürfen die Werte nicht überschritten werden; § 6 Abs. 1 findet keine Anwendung. Ethylendiamintetraessigsäure (EDTA) und ihre Salze dürfen im Abwasser nicht enthalten sein. (3) Für arsenhaltiges Abwasser aus der Herstellung von Galliumarsenid-Halbleiterbauelementen ist ein Wert von 0,3 mg/l Arsen in der Stichprobe einzuhalten. (4) Für cadmium- und selenhaltiges Abwasser ist ein Wert von 0,2 mg/l Cadmium und 1 mg/l Selen in der Stichprobe einzuhalten.
+  
+Für Chrom VI und Cyanid, leicht freisetzbar, dürfen die Werte nicht überschritten werden; § 6 Abs. 1 findet keine Anwendung. Ethylendiamintetraessigsäure (EDTA) und ihre Salze dürfen im Abwasser nicht enthalten sein.
+
+(3) Für arsenhaltiges Abwasser ist ein Wert von 0,3 mg/l Arsen in der Stichprobe einzuhalten.
+
+(4) Für cadmium- und selenhaltiges Abwasser ist ein Wert von 0,2 mg/l Cadmium und 1 mg/l Selen in der Stichprobe einzuhalten.
 
 # Anhang 55 – Wäschereien
 
