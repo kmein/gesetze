@@ -5354,16 +5354,16 @@ E. Hinweiszeichen
 <table width="100%" style="border: none;"><colgroup><col style="width: 10%" /><col style="width: 51%" /><col style="width: 38%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">E.2</td><td style="text-align: left;">Kreuzung einer Hochspannungsleitung.<br />
 ... nicht darstellbares Tafelzeichen</td><td style="text-align: center;"> </td></tr></tbody></table>
 
-|     |      |                                                  |
-|:---:|:-----|:------------------------------------------------:|
-| E.3 | Wehr | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0010.jpg) |
+|     |      |                                                   |
+|:---:|:-----|:-------------------------------------------------:|
+| E.3 | Wehr | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0010.jpg) |
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 10%" /><col style="width: 67%" /><col style="width: 23%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">E.4a</td><td style="text-align: left;">Nicht frei fahrende Fähre.<br />
 ... nicht darstellbares Tafelzeichen</td><td style="text-align: right;"> </td></tr></tbody></table>
 
-|      |                     |                                                  |
-|:----:|:--------------------|:------------------------------------------------:|
-| E.4b | Frei fahrende Fähre | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0020.jpg) |
+|      |                     |                                                   |
+|:----:|:--------------------|:-------------------------------------------------:|
+| E.4b | Frei fahrende Fähre | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0020.jpg) |
 
   
   
