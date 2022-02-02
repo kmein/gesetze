@@ -861,7 +861,7 @@ Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder v
 
 10. ab dem Kalenderjahr 2030 25 Prozent.
 
-Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, berechnet sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge an fossilen Otto- und fossilen Dieselkraftstoffen zuzüglich der energetischen Menge an eingesetzten Erfüllungsoptionen. Der Basiswert wird festgelegt durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 6. Die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen berechnen sich durch Multiplikation der Werte, die durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs. Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt, sofern
+Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, berechnet sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge an fossilen Otto- und fossilen Dieselkraftstoffen zuzüglich der energetischen Menge an eingesetzten Erfüllungsoptionen. Der Basiswert wird festgelegt durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 6. Die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen berechnen sich durch Multiplikation der Werte, die durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs. Die Treibhausgasemissionen von Biokraftstoffen berechnen sich durch Multiplikation der in den anerkannten Nachweisen nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl. I S. 3182), die zuletzt durch Artikel 2 der Verordnung vom 26. November 2012 (BGBl. I S. 2363) geändert worden ist, in der jeweils geltenden Fassung ausgewiesenen Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge Biokraftstoffs. Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt, sofern
 
 1. für die Biokraftstoffe anerkannte Nachweise nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung nicht vorgelegt werden,
 
@@ -1032,7 +1032,7 @@ g) das Nachweisverfahren für die Anrechenbarkeit von Biomethan insgesamt näher
 
 6. den Basiswert im Sinne des § 37a Absatz 4 Satz 4 zu bestimmen,
 
-7. die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu begrenzen, sofern die Richtlinie 2009/28/EG eine Begrenzung der Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 3 Absatz 4 der Richtlinie (EU) 2018/2001 vorsieht, sowie das Nachweisverfahren zu regeln,
+7. die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu begrenzen, sofern die Richtlinie (EU) 2018/2001 eine Begrenzung der Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 25 Absatz 1 der Richtlinie (EU) 2018/2001 vorsieht, sowie das Nachweisverfahren zu regeln,
 
 8. einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 festzulegen sowie das Nachweisverfahren zu regeln,
 

@@ -125,7 +125,7 @@ m) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und einer Kalkulation. Auf dieser Grundlage sind die entsprechenden Herstellungs-, Oberflächenbearbeitungs- und -behandlungs-, Be- und Verarbeitungsverfahren sowie Montage-, Verlege-, Verankerungs- und Versetzarbeiten auszuführen. Dabei hat der Prüfling die Eignung der Bauteile sicherzustellen. Die durchgeführten Arbeiten sind zu dokumentieren.
 
-(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung festgelegt.
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
 
 (4) Anhand der Anforderungen erarbeitet der Prüfling ein Umsetzungskonzept für den Kundenauftrag einschließlich einer Schätzung hinsichtlich des Zeit- und eines Materialbedarfs. Das Umsetzungskonzept hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Freigabe vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den Anforderungen entspricht.
 
@@ -343,7 +343,7 @@ f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung
 
 # § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung in der jeweils geltenden Fassung bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 

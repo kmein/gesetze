@@ -175,11 +175,11 @@ Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschlie
 
 # § 7 – Weitere Anforderungen
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-# § 8 – Berlin-Klausel
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
+# § 8 – (weggefallen)
 
 # § 9 – Inkrafttreten
 
