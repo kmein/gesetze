@@ -182,7 +182,9 @@ Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach
 
 # § 7 – Weitere Anforderungen
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
+
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 # § 8 – Inkrafttreten
 
