@@ -67,9 +67,11 @@ b) die betreffenden Güter außer zum Zweck der Wartung oder Reparatur nicht als
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, festlegen, von welchem Zeitpunkt an und unter welchen Voraussetzungen Anträge auf Erlass eines Verwaltungsakts im Außenwirtschaftsverkehr elektronisch gestellt und Verwaltungsakte elektronisch erlassen werden können.
 
-# § 4 – Sammelgenehmigungen
+# § 4 – Erteilung von Genehmigungen
 
-Dem Antragsteller kann eine Genehmigung für eine unbestimmte Anzahl gleichartiger Rechtsgeschäfte oder Handlungen mit einem oder mehreren genau bestimmten Endverwendern oder Drittländern (Sammelgenehmigung) erteilt werden, wenn dies wegen der beabsichtigten Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
+(1) Genehmigungen können in Form von Einzelgenehmigungen, Sammelgenehmigungen oder Allgemeingenehmigungen erteilt werden.
+
+(2) Eine Sammelgenehmigung kann einem Antragsteller für eine unbestimmte Anzahl gleichartiger Rechtsgeschäfte oder Handlungen mit einem oder mehreren genau bestimmten Endverwendern oder Bestimmungsländern erteilt werden, wenn dies wegen der beabsichtigten Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
 
 # § 5 – Rückgabe von Verwaltungsakten
 
@@ -109,6 +111,10 @@ Die Abgabe einer Erklärung im Außenwirtschaftsverkehr, durch die sich ein Inl�
 
 wirtschaftliche Sanktionsmaßnahmen beschlossen haben.
 
+# § 7a – Gebiete, die als Zollgebiet der Europäischen Union gelten
+
+Bei Anwendung der §§ 8 bis 13, 19, 20a bis 27, 29 bis 43, 46, 47, 49, 50, 52a, 52b und 75 gilt das Gebiet von Nordirland als Teil des Zollgebiets der Europäischen Union.
+
 # § 8 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils I der Ausfuhrliste
 
 (1) Die Ausfuhr der folgenden Güter bedarf der Genehmigung:
@@ -131,19 +137,19 @@ Satz 1 gilt nicht, wenn dem Ausführer bekannt ist, dass das endgültige Bestimm
 
 # § 9 – Genehmigungserfordernisse für die Ausfuhr von Gütern mit einem bestimmten Verwendungszweck
 
-(1) Die Ausfuhr von Gütern, die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009 des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom 29.5.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 388/2012 (ABl. L 129 vom 16.5.2012, S. 12) geändert worden ist, genannt sind, bedarf der Genehmigung, wenn der Ausführer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass
+(1) Die Ausfuhr von Gütern, die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), genannt sind, bedarf der Genehmigung, wenn der Ausführer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass
 
-1. diese Güter ganz oder teilweise für die Errichtung oder den Betrieb einer Anlage für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EG) Nr. 428/2009 oder zum Einbau in eine solche Anlage bestimmt sind oder bestimmt sein können und
+1. diese Güter ganz oder teilweise für die Errichtung oder den Betrieb einer Anlage für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EU) 2021/821 oder zum Einbau in eine solche Anlage bestimmt sind oder bestimmt sein können und
 
 2. das Bestimmungsland Algerien, Irak, Iran, Israel, Jordanien, Libyen, die Demokratische Volksrepublik Korea, Pakistan oder Syrien ist.
 
-Soweit in Satz 1 und im Folgenden auf einen Anhang der VO (EG) Nr. 428/2009 Bezug genommen wird, ist die jeweils geltende Fassung dieses Anhangs maßgebend.
+Soweit in Satz 1 und im Folgenden auf einen Anhang der Verordnung (EU) 2021/821 Bezug genommen wird, ist die jeweils geltende Fassung dieses Anhangs maßgebend.
 
-(2) Ist dem Ausführer bekannt, dass Güter, die er ausführen möchte und die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009 genannt sind, für einen in Absatz 1 genannten Zweck bestimmt sind und es sich um ein in Absatz 1 genanntes Bestimmungsland handelt, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber zu unterrichten. Dieses entscheidet, ob die Ausfuhr genehmigungspflichtig ist. Die Güter dürfen erst ausgeführt werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die Ausfuhr genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
+(2) Ist dem Ausführer bekannt, dass Güter, die er ausführen möchte und die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EU) 2021/821 genannt sind, für einen in Absatz 1 genannten Zweck bestimmt sind und es sich um ein in Absatz 1 genanntes Bestimmungsland handelt, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber zu unterrichten. Dieses entscheidet, ob die Ausfuhr genehmigungspflichtig ist. Die Güter dürfen erst ausgeführt werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die Ausfuhr genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
 (3) Die Absätze 1 und 2 gelten nicht
 
-1. im Regelungsbereich des Artikels 4 der Verordnung (EG) Nr. 428/2009,
+1. im Regelungsbereich der Artikel 4 und 10 der Verordnung (EU) 2021/821,
 
 2. in Fällen, in denen nach dem der Ausfuhr zugrunde liegenden Vertrag derartige Güter im Wert von nicht mehr als 5 000 Euro geliefert werden sollen; die Ausfuhr von Software und Technologie ist unabhängig von ihrem Wert stets genehmigungspflichtig.
 
@@ -165,7 +171,7 @@ Satz 2 gilt nicht, wenn dem Verbringer bekannt ist, dass das endgültige Bestimm
 
 (2) Die Verbringung der in Teil I Abschnitt B der Ausfuhrliste genannten Güter bedarf der Genehmigung, wenn dem Verbringer bekannt ist, dass das endgültige Bestimmungsziel der Güter außerhalb des Zollgebiets der Europäischen Union liegt.
 
-(3) Die Verbringung von Gütern, die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009 genannt sind, bedarf der Genehmigung, wenn das endgültige Bestimmungsziel der Güter außerhalb des Zollgebiets der Europäischen Union liegt und der Verbringer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass diese Güter ganz oder teilweise für die Errichtung oder den Betrieb einer Anlage für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EG) Nr. 428/2009 oder zum Einbau in eine solche Anlage bestimmt sind oder bestimmt sein können und es sich um ein in § 9 Absatz 1 Satz 1 Nummer 2 genanntes Bestimmungsland handelt.
+(3) Die Verbringung von Gütern, die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EU) 2021/821 genannt sind, bedarf der Genehmigung, wenn das endgültige Bestimmungsziel der Güter außerhalb des Zollgebiets der Europäischen Union liegt und der Verbringer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass diese Güter ganz oder teilweise für die Errichtung oder den Betrieb einer Anlage für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EU) 2021/821 oder zum Einbau in eine solche Anlage bestimmt sind oder bestimmt sein können und es sich um ein in § 9 Absatz 1 Satz 1 Nummer 2 genanntes Bestimmungsland handelt.
 
 (4) Ist dem Verbringer bekannt, dass Güter im Sinne des Absatzes 3, die er verbringen möchte und deren endgültiges Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union liegt, für einen in Absatz 3 genannten Zweck bestimmt sind und es sich um ein in § 9 Absatz 1 Satz 1 Nummer 2 genanntes Bestimmungsland handelt, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber zu unterrichten. Dieses entscheidet, ob die Verbringung genehmigungspflichtig ist. Die Güter dürfen erst verbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die Verbringung genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
@@ -193,7 +199,7 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 2. des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU) 2016/341 der Kommission vom 17. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates hinsichtlich der Übergangsbestimmungen für bestimmte Vorschriften des Zollkodex der Union, für den Fall, dass die entsprechenden elektronischen Systeme noch nicht betriebsbereit sind, und zur Änderung der Delegierten Verordnung (EU) 2015/2446 (ABl. L 69 vom 15.3.2016, S. 1).
 
-(3) Die Anmeldung nach Absatz 2 ist elektronisch abzugeben; ausgenommen sind Fälle nach Artikel 158 Absatz 2 der Verordnung (EU) Nr. 952/2013 in Verbindung mit Artikel 136 Absatz 2, den Artikeln 137 und 139 Absatz 2 sowie mit den Artikeln 140, 141 und 143 der Delegierten Verordnung (EU) 2015/2446. In der Anmeldung sind die Angaben gemäß Anhang 9 Anlage A und Anlage C1 sowie die Angaben nach den Feldern 8, 15a, 20, 22, 24, 29 und 34b der Anlage C1 der Delegierten Verordnung (EU) 2016/341 zu machen. In der Ausfuhranmeldung ist der Ausführer im Sinne des § 2 Absatz 2 des Außenwirtschaftsgesetzes oder des Artikels 2 Nummer 3 der Verordnung (EG) Nr. 428/2009 gesondert anzugeben, sofern er dem Ausführer nach Artikel 1 Nummer 19 der Delegierten Verordnung (EU) 2015/2446 nicht entspricht. Die Anmeldung ist mit Hilfe des elektronischen Ausfuhrverfahrens ATLAS oder über die Internetausfuhranmeldung Plus nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Ausfuhrverfahren ATLAS, die das Bundesministerium der Finanzen in seinem Amtsblatt bekannt gibt, abzugeben. Bei einer Funktionsstörung des Datenverarbeitungssystems der Zolldienststelle oder des Anmelders hat der Anmelder der Zollstelle die Zollanmeldung sowie gegebenenfalls den Antrag nach Absatz 4 nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Ausfuhrverfahren ATLAS, die das Bundesministerium der Finanzen in seinem Amtsblatt bekannt gibt, zu übermitteln.
+(3) Die Anmeldung nach Absatz 2 ist elektronisch abzugeben; ausgenommen sind Fälle nach Artikel 158 Absatz 2 der Verordnung (EU) Nr. 952/2013 in Verbindung mit Artikel 136 Absatz 2, den Artikeln 137 und 139 Absatz 2 sowie mit den Artikeln 140, 141 und 143 der Delegierten Verordnung (EU) 2015/2446. In der Anmeldung sind die Angaben gemäß Anhang 9 Anlage A und Anlage C1 sowie die Angaben nach den Feldern 8, 15a, 20, 22, 24, 29 und 34b der Anlage C1 der Delegierten Verordnung (EU) 2016/341 zu machen. In der Ausfuhranmeldung ist der Ausführer im Sinne des § 2 Absatz 2 des Außenwirtschaftsgesetzes oder des Artikels 2 Nummer 3 der Verordnung (EU) 2021/821 gesondert anzugeben, sofern er dem Ausführer nach Artikel 1 Nummer 19 der Delegierten Verordnung (EU) 2015/2446 nicht entspricht. Die Anmeldung ist mit Hilfe des elektronischen Ausfuhrverfahrens ATLAS oder über die Internetausfuhranmeldung Plus nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Ausfuhrverfahren ATLAS, die das Bundesministerium der Finanzen in seinem Amtsblatt bekannt gibt, abzugeben. Bei einer Funktionsstörung des Datenverarbeitungssystems der Zolldienststelle oder des Anmelders hat der Anmelder der Zollstelle die Zollanmeldung sowie gegebenenfalls den Antrag nach Absatz 4 nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Ausfuhrverfahren ATLAS, die das Bundesministerium der Finanzen in seinem Amtsblatt bekannt gibt, zu übermitteln.
 
 (4) Die Zollstelle kann auf Antrag die Gestellung an einem anderen Ort im Bezirk der Ausfuhrzollstelle zulassen, wenn die Waren dort verpackt oder verladen werden und die Ausfuhranmeldung oder die Wiederausfuhranmeldung so rechtzeitig abgegeben wird, dass die zollamtliche Behandlung der Ausfuhrsendung möglich ist. Die nicht gegenständliche Übermittlung von Gütern bedarf keiner zollamtlichen Behandlung.
 
@@ -315,7 +321,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 # § 20b – Wiederausfuhrmitteilung
 
-(1) Sollen Waren aus dem Zollgebiet der Union ausgeführt werden und ist weder eine Zollanmeldung noch eine Wiederausfuhranmeldung noch eine summarische Ausgangsanmeldung erforderlich, so ist von der Person, die gemäß Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 für die Gestellung der Waren beim Ausgang zuständig ist, eine Wiederausfuhrmitteilung im Sinne von Artikel 5 Nummer 14 und Artikel 274 der Verordnung (EU) Nr. 952/2013 entsprechend den Anforderungen des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU) 2016/341 bei der Ausgangszollstelle abzugeben.
+(1) Sollen Waren aus dem Zollgebiet der Union ausgeführt werden und ist weder eine Zollanmeldung noch eine Wiederausfuhranmeldung noch eine summarische Ausgangsanmeldung erforderlich, so ist von der Person, die gemäß Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 für die Gestellung der Waren beim Ausgang zuständig ist, vor dem Verbringen der Waren aus dem Zollgebiet der Union eine Wiederausfuhrmitteilung im Sinne von Artikel 5 Nummer 14 und Artikel 274 der Verordnung (EU) Nr. 952/2013 entsprechend den Anforderungen des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU) 2016/341 bei der Ausgangszollstelle abzugeben.
 
 (2) § 14 Absatz 4 gilt entsprechend.
 
@@ -355,13 +361,13 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 # § 23 – Ausfuhrabfertigung
 
-(1) Erfolgt die Ausfuhrabfertigung aufgrund einer elektronischen Ausfuhranmeldung nach § 12 Absatz 3 Satz 1, ist die Vorlage der Ausfuhrgenehmigung in Papierform bei der Ausfuhrabfertigung grundsätzlich nicht erforderlich. Der Ausführer hat jedoch sicherzustellen, dass die Ausfuhrgenehmigung im Zeitpunkt der Beantragung der Ausfuhrabfertigung bei ihm oder seinem Vertreter vorhanden ist. Im Fall des § 12 Absatz 3 Satz 4 ist die Ausfuhrgenehmigung bei der Ausfuhrabfertigung vorzulegen.
+(1) Erfolgt die Ausfuhrabfertigung aufgrund einer elektronischen Ausfuhranmeldung nach § 12 Absatz 3 Satz 1, ist die Vorlage der Ausfuhrgenehmigung in Papierform bei der Ausfuhrabfertigung grundsätzlich nicht erforderlich. Der Ausführer hat jedoch sicherzustellen, dass die Ausfuhrgenehmigung im Zeitpunkt der Beantragung der Ausfuhrabfertigung bei ihm oder seinem Vertreter vorhanden ist. Im Fall des § 12 Absatz 3 Satz 5 ist die Ausfuhrgenehmigung bei der Ausfuhrabfertigung vorzulegen.
 
 (2) Zur Ausfuhrabfertigung hat der Anmelder in der elektronischen Ausfuhranmeldung hinsichtlich der Ausfuhrgenehmigung Folgendes anzugeben:
 
 1. die Genehmigungscodierung,
 
-2. die Listenposition in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009,
+2. die Listenposition in der Ausfuhrliste oder die Nummer oder Güterlistenposition in den Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts,
 
 3. die Referenznummer,
 
@@ -403,7 +409,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 3. die Nummer der Ausfuhrgenehmigung,
 
-4. die Listenposition in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009 und
+4. die Listenposition in der Ausfuhrliste oder die Nummer oder Güterlistenposition in den Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts und
 
 5. soweit angegeben, die Menge der ausgeführten Waren und die Nummer der laufenden Güterposition der Genehmigung.
 
@@ -765,21 +771,19 @@ Soll eine Zwangsvollstreckung in Waren vorgenommen werden, die sich in einer Fre
 
 # § 44 – Beschränkungen bei der Durchfuhr von Gütern
 
-(1) Die zuständigen Zollstellen können im Fall einer Durchfuhr von Gütern nach Artikel 2 Nummer 7 der Verordnung (EG) Nr. 428/2009 die Überlassung der Güter bis zur Mitteilung einer Entscheidung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach Absatz 4 aussetzen, um zu verhindern, dass die Güter das Inland verlassen, wenn sie Anhaltspunkte dafür haben, dass die Güter
+(1) Die zuständigen Zollstellen können im Fall einer Durchfuhr von Gütern nach Artikel 2 Nummer 11 der Verordnung (EU) 2021/821 die Überlassung der Güter bis zur Mitteilung einer Entscheidung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach Absatz 3 aussetzen, um zu verhindern, dass die Güter das Inland verlassen, wenn sie Anhaltspunkte dafür haben, dass die Güter
 
-1. im Anhang I der Verordnung (EG) Nr. 428/2009 aufgeführt sind und
+1. im Anhang I der Verordnung (EU) 2021/821 aufgeführt sind und
 
-2. ganz oder teilweise für einen der in Artikel 4 Absatz 1 der Verordnung (EG) Nr. 428/2009 genannten Verwendungszwecke bestimmt sind oder bestimmt sein können.
+2. ganz oder teilweise für einen der in Artikel 4 Absatz 1 der Verordnung (EU) 2021/821 genannten Verwendungszwecke bestimmt sind oder bestimmt sein können.
 
 Die Befugnisse der zuständigen Zollstellen nach Maßgabe der Verordnung (EU) Nr. 952/2013 bleiben unberührt.
 
 (2) Die zuständige Zollstelle unterrichtet unverzüglich das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) über die nach Absatz 1 getroffenen Maßnahmen.
 
-(3) Bevor das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach Artikel 6 Absatz 1 der Verordnung (EG) Nr. 428/2009 über ein Durchfuhrverbot von Gütern, die in Anhang I dieser Verordnung aufgeführt sind, entscheidet, kann es im Einzelfall eine Genehmigungspflicht anordnen, wenn die Güter ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EG) Nr. 428/2009 bestimmt sind oder bestimmt sein können.
+(3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet die zuständige Zollbehörde unverzüglich über seine Entscheidung nach Artikel 7 Absatz 1 oder 2 der Verordnung (EU) 2021/821.
 
-(4) Die Entscheidung nach Absatz 3 trifft das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) unverzüglich. Über die getroffene Entscheidung unterrichtet das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die zuständige Zollbehörde unverzüglich.
-
-(5) Kosten, die im Zusammenhang mit der Lagerung der Güter während der Dauer einer Maßnahme nach Absatz 1 oder Absatz 3 anfallen, tragen die in Artikel 271 Absatz 2 der Verordnung (EU) Nr. 952/2013 genannten Personen. Artikel 197 und 198 der Verordnung (EU) Nr. 952/2013, jeweils in Verbindung mit § 13 des Zollverwaltungsgesetzes, sind entsprechend anzuwenden.
+(4) Kosten, die im Zusammenhang mit der Lagerung der Güter während der Dauer einer Maßnahme nach Absatz 1 oder Artikel 7 Absatz 1 oder 2 der Verordnung (EU) 2021/821 anfallen, tragen die in Artikel 271 Absatz 2 der Verordnung (EU) Nr. 952/2013 genannten Personen. Artikel 197 und 198 der Verordnung (EU) Nr. 952/2013, jeweils in Verbindung mit § 13 des Zollverwaltungsgesetzes, sind entsprechend anzuwenden.
 
 # § 45 – Durchfuhrverfahren
 
@@ -813,7 +817,7 @@ b) im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind und
 
 5. Rohre, Verschlüsse, Munition oder Geschosse oder Treibladungen für Munition für Mörser mit einem Kaliber unter 100 Millimetern.
 
-(2) Handels- und Vermittlungsgeschäfte über die in Anhang I der Verordnung (EG) Nr. 428/2009 erfassten Güter bedürfen der Genehmigung, wenn
+(2) Handels- und Vermittlungsgeschäfte über die in Anhang I der Verordnung (EU) 2021/821 erfassten Güter bedürfen der Genehmigung, wenn
 
 1. sich die Güter
 
@@ -823,9 +827,9 @@ b) im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind,
 
 2. die Güter in ein anderes Drittland geliefert werden sollen und
 
-3. der Deutsche, der das Handels- und Vermittlungsgeschäft in einem Drittland vornehmen will, vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass diese Güter ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EG) Nr. 428/2009 bestimmt sind oder sein können.
+3. der Deutsche, der das Handels- und Vermittlungsgeschäft in einem Drittland vornehmen will, vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass diese Güter ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EU) 2021/821 bestimmt sind oder sein können.
 
-(3) Ist einem Deutschen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland, der ein Handels- und Vermittlungsgeschäft in einem Drittland vornehmen will, bekannt, dass die in Anhang I der Verordnung (EG) Nr. 428/2009 erfassten Güter, die sich in einem Drittland oder im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind und die von dort in ein anderes Drittland geliefert werden sollen, ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EG) Nr. 428/2009 bestimmt sind, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob das Handels- und Vermittlungsgeschäft genehmigungspflichtig ist. Das Handels- und Vermittlungsgeschäft darf erst vorgenommen werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) das Handels- und Vermittlungsgeschäft genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
+(3) Ist einem Deutschen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland, der ein Handels- und Vermittlungsgeschäft in einem Drittland vornehmen will, bekannt, dass die in Anhang I der Verordnung (EU) 2021/821 erfassten Güter, die sich in einem Drittland oder im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind und die von dort in ein anderes Drittland geliefert werden sollen, ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EU) 2021/821 bestimmt sind, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob das Handels- und Vermittlungsgeschäft genehmigungspflichtig ist. Das Handels- und Vermittlungsgeschäft darf erst vorgenommen werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) das Handels- und Vermittlungsgeschäft genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
 # § 48 – Einfuhrdokumente für Handels- und Vermittlungsgeschäfte
 
@@ -847,23 +851,23 @@ b) Kernwaffen oder sonstigen Kernsprengkörpern oder
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die technische Unterstützung
 
-1. in einem Land erbracht wird, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführt ist,
+1. in einem Land erbracht wird, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführt ist,
 
-2. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EG) Nr. 428/2009 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
+2. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EU) 2021/821 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
-3. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste oder Nummern der Gattung E des Anhangs I der Verordnung (EG) Nr. 428/2009 genannt ist.
+3. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste genannt ist.
 
 # § 50 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung
 
-(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer, die nicht von § 49 Absatz 1 erfasst ist, bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung steht und in einem Land im Sinne des Artikels 4 Absatz 2 der Verordnung (EG) Nr. 428/2009 erbracht wird.
+(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer, die nicht von § 49 Absatz 1 erfasst ist, bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung steht und in einem Land im Sinne des Artikels 4 Absatz 1 Buchstabe b der Verordnung (EU) 2021/821 erbracht wird.
 
 (2) Ist einem Deutschen oder einem Inländer bekannt, dass technische Unterstützung, die er in einem Drittland erbringen will, für einen in Absatz 1 genannten Zweck bestimmt ist, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob die technische Unterstützung genehmigungspflichtig ist. Die technische Unterstützung darf erst erbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die technische Unterstützung genehmigt hat oder entschieden hat, dass sie keiner Genehmigung bedarf.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die technische Unterstützung
 
-1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EG) Nr. 428/2009 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
+1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EU) 2021/821 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
-2. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste oder Nummern der Gattung E des Anhangs I der Verordnung (EG) Nr. 428/2009 genannt ist.
+2. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste genannt ist.
 
 # § 51 – Genehmigungserfordernisse für technische Unterstützung im Inland
 
@@ -881,73 +885,77 @@ Kernwaffen oder sonstigen Kernsprengkörpern oder
 
 b) im Zusammenhang mit der Entwicklung, der Herstellung, der Wartung oder der Lagerung von Flugkörpern, die für die Ausbringung derartiger Waffen geeignet sind, und
 
-2. gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 genannt ist oder Mitglied der Europäischen Union ist.
+2. gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 genannt ist oder Mitglied der Europäischen Union ist.
 
-(2) Technische Unterstützung im Inland durch einen Inländer bedarf der Genehmigung, wenn der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung steht, die nicht von Absatz 1 erfasst ist, und gegenüber Ausländern erbracht wird, die in einem Land im Sinne des Artikels 4 Absatz 2 der Verordnung (EG) Nr. 428/2009 ansässig sind.
+(2) Technische Unterstützung im Inland durch einen Inländer bedarf der Genehmigung, wenn der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung steht, die nicht von Absatz 1 erfasst ist, und gegenüber Ausländern erbracht wird, die in einem Land im Sinne des Artikels 4 Absatz 1 Buchstabe b der Verordnung (EU) 2021/821 ansässig sind.
 
 (3) Ist einem Inländer bekannt, dass technische Unterstützung, die er im Inland erbringen möchte, für eine in Absatz 1 oder 2 genannte Verwendung bestimmt ist, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob die technische Unterstützung genehmigungspflichtig ist. Die technische Unterstützung darf erst erbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die technische Unterstützung genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
 (4) Die Absätze 1 bis 3 gelten nicht, wenn die technische Unterstützung
 
-1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EG) Nr. 428/2009 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
+1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste oder zu Anhang I der Verordnung (EU) 2021/821 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
-2. keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 der Ausfuhrliste, Nummern der Gattung E des Anhangs I der Verordnung (EG)Nr. 428/2009 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste genannt ist.
+2. keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 der Ausfuhrliste oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste genannt ist.
 
 (5) Als Ausländer im Sinne der Absätze 1 und 2 sind auch solche natürlichen Personen anzusehen, deren Wohnsitz oder gewöhnlicher Aufenthalt im Inland auf höchstens fünf Jahre befristet ist.
 
 # § 52 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb kerntechnischer Anlagen
 
-(1) Technische Unterstützung durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb von Anlagen für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EG) Nr. 428/2009 in den in § 9 Absatz 1 Satz 1 Nummer 2 genannten Ländern steht.
+(1) Technische Unterstützung durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb von Anlagen für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EU) 2021/821 in den in § 9 Absatz 1 Satz 1 Nummer 2 genannten Ländern steht.
 
 (2) Ist einem Deutschen oder einem Inländer bekannt, dass die technische Unterstützung, die er erbringen will, für einen in Absatz 1 genannten Zweck bestimmt ist, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob die technische Unterstützung genehmigungspflichtig ist. Die technische Unterstützung darf erst erbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die technische Unterstützung genehmigt hat oder entschieden hat, dass sie keiner Genehmigung bedarf.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die technische Unterstützung
 
-1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Nukleartechnologie-Anmerkung zu Anhang I der Verordnung (EG) Nr. 428/2009 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
+1. durch die Weitergabe von Informationen erfolgt, die im Sinne der Nukleartechnologie-Anmerkung zu Anhang I der Verordnung (EU) 2021/821 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
-2. keine Technologie betrifft, die in Nummern der Gattung E in der Kategorie 0 des Anhangs I der Verordnung (EG) Nr. 428/2009 genannt ist.
+2. keine Technologie betrifft, die in Nummern der Gattung E in der Kategorie 0 des Anhangs I der Verordnung (EU) 2021/821 genannt ist.
 
 (4) Das Verfahren nach dieser Vorschrift kann über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-# § 52a – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EG) Nr. 428/2009 gelisteten Gütern der Kommunikationsüberwachung
+# § 52a – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EU) 2021/821 gelisteten Gütern der Kommunikationsüberwachung
 
-(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 4A005, 4D004, 4E001 Buchstabe c, Nummer 5A001 Buchstabe f oder Nummer 5A001 Buchstabe j des Anhangs I der Verordnung (EG) Nr. 428/2009 und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 genannt oder Mitglied der Europäischen Union ist.
+(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 4A005, 4D004, 4E001 Buchstabe c, Nummer 5A001 Buchstabe f, Nummer 5A001 Buchstabe j oder Nummer 5D001 Buchstabe e des Anhangs I der Verordnung (EU) 2021/821 und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 genannt oder Mitglied der Europäischen Union ist.
 
 (2) Ist einem Deutschen oder einem Inländer bekannt, dass technische Unterstützung, die er erbringen will, für einen in Absatz 1 genannten Zweck bestimmt ist, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob die technische Unterstützung genehmigungspflichtig ist. Die technische Unterstützung darf erst erbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die technische Unterstützung genehmigt hat oder entschieden hat, dass sie keiner Genehmigung bedarf.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die technische Unterstützung
 
-1. in einem Land erbracht wird, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführt ist,
+1. in einem Land erbracht wird, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführt ist,
 
-2. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Anhang I der Verordnung (EG) Nr. 428/2009 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
+2. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Anhang I der Verordnung (EU) 2021/821 allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
 3. der Erfüllung eines Vertrages dient, der vor dem 13. Mai 2015 geschlossen wurde, und mit der Erbringung der technischen Unterstützung bereits begonnen wurde; diese Regelung tritt am 1. Januar 2016 außer Kraft.
 
 # § 52b – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Teil I Abschnitt B der Ausfuhrliste gelisteten Gütern der Kommunikationsüberwachung
 
-(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 5A902, 5D902 oder 5E902 des Teils I Abschnitt B der Ausfuhrliste und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 genannt oder Mitglied der Europäischen Union ist.
+(1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 5A902, 5D902 oder 5E902 des Teils I Abschnitt B der Ausfuhrliste und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 genannt oder Mitglied der Europäischen Union ist.
 
 (2) Ist einem Deutschen oder einem Inländer bekannt, dass technische Unterstützung, die er erbringen will, für einen in Absatz 1 genannten Zweck bestimmt ist, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob die technische Unterstützung genehmigungspflichtig ist. Die technische Unterstützung darf erst erbracht werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die technische Unterstützung genehmigt hat oder entschieden hat, dass sie keiner Genehmigung bedarf.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die technische Unterstützung
 
-1. in einem Land erbracht wird, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführt ist,
+1. in einem Land erbracht wird, das in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführt ist,
 
 2. durch die Weitergabe von Informationen erfolgt, die im Sinne der Allgemeinen Technologie-Anmerkung zu Teil I der Ausfuhrliste allgemein zugänglich oder Teil der Grundlagenforschung sind, oder
 
 3. der Erfüllung eines Vertrages dient, der vor dem 13. Mai 2015 geschlossen wurde, und mit der Erbringung der technischen Unterstützung bereits begonnen wurde; diese Regelung tritt am 1. Januar 2016 außer Kraft.
 
-# § 53 – Befreiungen von der Genehmigungspflicht
+# § 53 – Befreiung von der Genehmigungspflicht
 
-Die §§ 49 bis 52b gelten nicht in den Fällen der
+Die §§ 49 bis 52b gelten nicht
 
-1. technischen Unterstützung durch Behörden und Dienststellen der Bundesrepublik Deutschland im Rahmen ihrer dienstlichen Aufgaben,
+1. in den Fällen der
 
-2. technischen Unterstützung, die für die Bundeswehr auf Grund der von ihr erteilten Aufträge erbracht wird,
+a) technischen Unterstützung durch Behörden und Dienststellen der Bundesrepublik Deutschland im Rahmen ihrer dienstlichen Aufgaben,
 
-3. technischen Unterstützung, die zu einem Zweck erbracht wird, der in den Ausnahmen für Güter der vom Raketentechnologie-Kontrollregime erfassten Technologie (MTCR-Technologie) in Anhang IV der Verordnung (EG) Nr. 428/2009 genannt ist,
+b) technischen Unterstützung, die für die Streitkräfte eines Mitgliedstaates der Europäischen Union aufgrund der ihnen übertragenen Aufgaben erbracht wird,
 
-4. technischen Unterstützung, die das unbedingt notwendige Minimum für Aufbau, Betrieb, Wartung und Reparatur derjenigen Güter darstellt, für die eine Ausfuhrgenehmigung erteilt wurde.
+c) technischen Unterstützung, die zu einem Zweck erbracht wird, der in den Ausnahmen für Güter der vom Raketentechnologie-Kontrollregime erfassten Technologie (MTCR-Technologie) in Anhang IV der Verordnung (EU) 2021/821 genannt ist,
+
+d) technischen Unterstützung, die das unbedingt notwendige Minimum für Aufbau, Betrieb, Wartung und Reparatur derjenigen Güter darstellt, für die eine Ausfuhrgenehmigung erteilt wurde,
+
+2. im Regelungsbereich des Artikels 8 der Verordnung (EU) 2021/821.
 
 # § 54 – Bewirkung von Zahlungen und sonstigen Leistungen
 
@@ -999,7 +1007,7 @@ erwirbt.
 
 2. kritische Komponenten im Sinne des § 2 Absatz 13 des BSI-Gesetzes entwickelt oder herstellt oder Software, die branchenspezifisch zum Betrieb von Kritischen Infrastrukturen im Sinne des BSI-Gesetzes dient, besonders entwickelt oder herstellt,
 
-3. zu organisatorischen Maßnahmen nach § 110 des Telekommunikationsgesetzes verpflichtet ist oder technische Einrichtungen zur Umsetzung gesetzlich vorgesehener Maßnahmen zur Überwachung der Telekommunikation herstellt oder in der Vergangenheit hergestellt hat und über Kenntnisse der oder sonstigen Zugang zu der den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
+3. zu organisatorischen Maßnahmen nach § 170 des Telekommunikationsgesetzes verpflichtet ist oder technische Einrichtungen zur Umsetzung gesetzlich vorgesehener Maßnahmen zur Überwachung der Telekommunikation herstellt oder in der Vergangenheit hergestellt hat und über Kenntnisse der oder sonstigen Zugang zu der den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
 
 4. Cloud-Computing-Dienste erbringt und die hierfür genutzten Infrastrukturen die in Anhang 4 Teil 3 Nummer 2 Spalte D der BSI-Kritisverordnung genannten Schwellenwerte in Bezug auf den jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
 
@@ -1061,9 +1069,9 @@ c) der informationstechnischen Aufklärung von Straftaten und zur Beweissicherun
 
 dienen,
 
-18. ein Luftfahrtunternehmen mit Betriebsgenehmigung im Sinne der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) betreibt oder Güter der Unterkategorien 7A, 7B, 7D, 7E, 9A, 9B, 9D oder 9E des Anhangs I der Verordnung (EG) Nr. 428/2009 oder Güter oder Technologien, die für die Verwendung in der Raumfahrt oder für den Einsatz in Raumfahrtinfrastruktursystemen bestimmt sind, entwickelt oder herstellt,
+18. ein Luftfahrtunternehmen mit Betriebsgenehmigung im Sinne der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) betreibt oder Güter der Unterkategorien 7A, 7B, 7D, 7E, 9A, 9B, 9D oder 9E des Anhangs I der Verordnung (EU) 2021/821 oder Güter oder Technologien, die für die Verwendung in der Raumfahrt oder für den Einsatz in Raumfahrtinfrastruktursystemen bestimmt sind, entwickelt oder herstellt,
 
-19. Güter der Kategorie 0 oder der Listenpositionen 1B225, 1B226, 1B228, 1B231, 1B232, 1B233 oder 1B235 des Anhangs I der Verordnung (EG) Nr. 428/2009 entwickelt, herstellt, modifiziert oder nutzt,
+19. Güter der Kategorie 0 oder der Listenpositionen 1B225, 1B226, 1B228, 1B231, 1B232, 1B233 oder 1B235 des Anhangs I der Verordnung (EU) 2021/821 entwickelt, herstellt, modifiziert oder nutzt,
 
 20. Entwickler oder Hersteller von Gütern und wesentlichen Komponenten der
 
@@ -1177,9 +1185,11 @@ die über den durch den Stimmrechtsanteil vermittelten Einfluss in einer Weise h
 
 1. an denen der Erwerber nach dem Erwerb seiner Beteiligung, jeweils auch in Verbindung mit den Absätzen 2 oder 3,
 
-a) in einem Fall des Absatzes 1 Nummer 1 mindestens den dort genannten Anteil oder
+a) in einem Fall des Absatzes 1 Nummer 1 mindestens den dort genannten Anteil,
 
-b) in einem Fall des Absatzes 1 Nummer 2 mindestens den dort genannten Anteil
+b) in einem Fall des Absatzes 1 Nummer 2 mindestens den dort genannten Anteil oder
+
+c) in einem Fall des Absatzes 1 Nummer 3 mindestens den dort genannten Anteil
 
 der Stimmrechte hält oder
 
@@ -1189,9 +1199,11 @@ Satz 1 ist entsprechend anzuwenden, wenn der Erwerber nachträglich eine Vereinb
 
 (5) Im Fall des Erwerbs einer mittelbaren Beteiligung beträgt der Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen nach dem Erwerb seiner Beteiligung
 
-1. in einem Fall des Absatzes 1 Nummer 1 mindestens den dort genannten Anteil oder
+1. in einem Fall des Absatzes 1 Nummer 1 mindestens den dort genannten Anteil,
 
-2. in einem Fall des Absatzes 1 Nummer 2 mindestens den dort genannten Anteil,
+2. in einem Fall des Absatzes 1 Nummer 2 mindestens den dort genannten Anteil oder
+
+3. in einem Fall des Absatzes 1 Nummer 3 mindestens den dort genannten Anteil,
 
 jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die jeweiligen Zwischengesellschafter unter entsprechender Anwendung des Absatzes 4 mindestens einen der nach Absatz 1 Nummer 1, 2 oder 3 maßgeblichen Anteile der Stimmrechte an der jeweiligen Tochtergesellschaft halten.
 
@@ -1243,6 +1255,20 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
 (+++ § 59 Abs. 3 bis 5: Zur Geltung vgl. § 62 Abs. 2 +++)
+
+# § 59a – Ausnahmen von den Vollzugsbeschränkungen nach § 15 Absatz 3 des Außenwirtschaftsgesetzes
+
+(1) § 15 Absatz 3 Satz 1 des Außenwirtschaftsgesetzes steht dem Vollzug solcher schuldrechtlichen Rechtsgeschäfte über den Erwerb nicht entgegen, bei denen die unmittelbare oder mittelbare Beteiligung an einem inländischen Unternehmen mittels eines Rechtsgeschäftes mit Wertpapieren, einschließlich solchen, die in andere zum Handel an einer Börse oder an einem ähnlichen Markt zugelassene Wertpapiere konvertierbar sind, über eine Börse erworben wird, sofern die Meldung nach § 55a Absatz 4 Satz 1 unverzüglich abgegeben wird.
+
+(2) Dem Erwerber ist es bis zu einer Entscheidung im Sinne des § 15 Absatz 3 Satz 2 des Außenwirtschaftsgesetzes oder bis zu dem dort genannten Zeitpunkt untersagt, seine durch den Erwerb erlangten Stimmrechte auszuüben. Der Erwerber hat ferner sicherzustellen, dass die durch den Erwerb erlangten Stimmrechte bis zu den in Satz 1 genannten Zeitpunkten nicht in seinem Namen oder auf der Grundlage von ihm erteilter Weisungen ausgeübt werden.
+
+(3) Die Überlassung oder das anderweitige Offenlegen unternehmensbezogener Informationen im Sinne des § 15 Absatz 4 Satz 1 Nummer 3 oder 4 des Außenwirtschaftsgesetzes unmittelbar oder mittelbar an den Erwerber ist bis zu einer Entscheidung im Sinne des § 15 Absatz 3 Satz 2 des Außenwirtschaftsgesetzes oder bis zu dem dort genannten Zeitpunkt verboten.
+
+(4) Für den Fall, dass ein Erwerb im Sinne des Absatzes 1 untersagt wird, kann das Bundesministerium für Wirtschaft und Energie den Erwerbsbeteiligten gegenüber anordnen, den Erwerb rückgängig zu machen. Insbesondere kann angeordnet werden, dass
+
+1. Wertpapiere, die aufgrund von Rechtsgeschäften im Sinne des Absatzes 1 erworben worden sind, innerhalb eines bestimmten Zeitraums über die Börse wieder zu veräußern oder an einen Treuhänder zu übertragen sind,
+
+2. die Ausübung von Stimmrechten bis zu dem Zeitpunkt, zu dem der Erwerb endgültig rückgängig gemacht ist, verboten ist.
 
 # § 60 – Anwendungsbereich der sektorspezifischen Prüfung
 
@@ -1320,7 +1346,7 @@ Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann gegenüber dem Meldepflichtigen bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit den Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist einen Erwerb im Sinne des § 60 untersagen oder gegenüber den am Erwerb Beteiligten und den mit ihnen verbundenen Unternehmen Anordnungen erlassen, um wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland zu gewährleisten.
 
-(2) § 59 Absatz 3 bis 5 gilt entsprechend.
+(2) § 59 Absatz 3 bis 5 und § 59a gilt entsprechend.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
@@ -1894,13 +1920,19 @@ Die §§ 74 bis 77 gelten auch für Deutsche im Ausland.
 
 # § 80 – Straftaten
 
-Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes wird bestraft, wer vorsätzlich oder leichtfertig
+(1) Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes wird bestraft, wer vorsätzlich oder leichtfertig
 
 1. entgegen § 74, auch in Verbindung mit § 79, dort genannte Güter verkauft, ausführt, durchführt oder befördert,
 
 2. entgegen § 75 Absatz 1, auch in Verbindung mit § 75 Absatz 2, jeweils auch in Verbindung mit § 79, ein Handels- oder Vermittlungsgeschäft vornimmt oder
 
 3. entgegen § 77 Absatz 1, auch in Verbindung mit § 77 Absatz 2, jeweils auch in Verbindung mit § 79, dort genannte Güter einführt, erwirbt oder befördert.
+
+(2) Nach § 18 Absatz 1b Nummer 3 des Außenwirtschaftsgesetzes wird bestraft, wer
+
+1. entgegen § 59a Absatz 2 Satz 1 ein Stimmrecht ausübt oder
+
+2. entgegen § 59a Absatz 3 eine dort genannte Information überlässt oder anderweitig offenlegt.
 
 # § 81 – Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung
 
@@ -1916,7 +1948,7 @@ Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes wird bestraft,
 
 5. entgegen § 29 Satz 2 eine Ware verwendet,
 
-6. einer vollziehbaren Anordnung nach § 44 Absatz 3 zuwiderhandelt,
+6. (weggefallen)
 
 7. ohne Genehmigung nach § 52a Absatz 1 oder § 52b Absatz 1 technische Unterstützung erbringt,
 
@@ -2014,17 +2046,9 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung statt
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 des Rates vom 22. November 1996 zum Schutz vor den Auswirkungen der extraterritorialen Anwendung von einem Drittland erlassener Rechtsakte sowie von darauf beruhenden oder sich daraus ergebenden Maßnahmen (ABl. L 309 vom 29.11.1996, S. 1, L 179 vom 8.7.1997, S. 10), die durch die Verordnung (EG) Nr. 807/2003 (ABl. L 122 vom 16.5.2003, S. 36) geändert worden ist, einer dort genannten Forderung oder einem dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
-(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Verordnung (EG) Nr. 1268/2008 (ABl. L 338 vom 17.12.2008, S. 39) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
+(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2020/2149 (ABl. L 428 vom 18.12.2020, S. 38) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 428/2009 des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom 29.5.2009, S. 1, L 224 vom 27.8.2009, S. 21), die zuletzt durch die Verordnung (EU) Nr. 388/2012 (ABl. L 129 vom 16.5.2012, S. 12) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
-
-1. einer vollziehbaren Anordnung nach Artikel 6 Absatz 1 Satz 1 zuwiderhandelt oder
-
-2. ohne Genehmigung nach Artikel 22 Absatz 1 Satz 1 Güter mit doppeltem Verwendungszweck innergemeinschaftlich verbringt.
-
-Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Verordnung (EG) Nr. 428/2009 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
-
-(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 36/2012 verstößt, indem er vorsätzlich oder fahrlässig
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 36/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 24 Buchstabe a oder Buchstabe b eine staatliche oder staatlich garantierte Anleihe kauft oder Vermittlungsdienste im Zusammenhang mit dem Kauf einer staatlichen oder staatlich garantierten Anleihe erbringt,
 
@@ -2032,11 +2056,13 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Vero
 
 3. entgegen Artikel 25 Absatz 2 Buchstabe b eine Vereinbarung schließt, die die Eröffnung einer Repräsentanz oder die Gründung einer Zweigniederlassung oder Tochtergesellschaft betrifft.
 
-(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
+(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. ohne Genehmigung nach Artikel 2a Absatz 1 Buchstabe d Satzteil vor Satz 2 Ziffer i, auch in Verbindung mit Satz 2, oder Artikel 3a Absatz 1 Buchstabe d eine dort genannte Vereinbarung abschließt oder
 
 2. entgegen Artikel 4b Buchstabe c eine dort genannte Vereinbarung schließt.
+
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, eine Ware nicht oder nicht rechtzeitig gestellt.
 
 (7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 692/2014 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -2120,6 +2146,14 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Vero
 
 24. entgegen Artikel 31 Buchstabe a oder Buchstabe b eine dort genannte Anleihe kauft oder einen Vermittlungsdienst im Zusammenhang mit dem Kauf einer solchen Anlage erbringt.
 
+(12) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder fahrlässig
+
+1. einer vollziehbaren Anordnung nach Artikel 7 Absatz 1 oder 2 Satz 1 zuwiderhandelt oder
+
+2. ohne Genehmigung nach Artikel 11 Absatz 1 Satz 1 dort genannte Güter verbringt.
+
+Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
+
 # § 82a – Übergangsbestimmungen
 
 Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021 abgeschlossen werden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
@@ -2134,7 +2168,7 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 
 # Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BAnz AT 28.10.2020 V1)
+(Fundstelle: BAnz AT 07.09.2021.V1)
 
 1. Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 AWV angeordneten Beschränkungen beziehen.
 
@@ -2142,7 +2176,7 @@ Abschnitt A enthält eine Liste für Waffen, Munition und Rüstungsmaterial.
 
 Abschnitt B enthält zusätzliche national erfasste Güter.
 
-Abschnitt B ist nach einem fünfstelligen Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck (Anhang I der Verordnung (EG) Nr. 428/2009) anlehnt.
+Abschnitt B ist nach einem fünfstelligen Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck (Anhang I der Verordnung (EU) 2021/821) anlehnt.
 
 Im Einzelnen ist die Unterteilung wie folgt, wobei nicht alle Kategorien und Gattungen belegt sind:
 
@@ -2182,7 +2216,7 @@ Bei der Beurteilung darüber, ob das (die) erfasste(n) Bestandteil(e) ein Haupte
 
 3. Die von der Ausfuhrliste erfassten Güter umfassen sowohl neue als auch gebrauchte Güter.
 
-4. Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstract Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS-Nummern haben können.
+4. Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS-Nummern haben können.
 
 5. Technologie-Anmerkung für Teil I Abschnitte A und B.
 
@@ -2238,9 +2272,13 @@ b) „allgemein zugänglich“ ist.
 
 8. Bei der Prüfung der Ausfuhrgenehmigungspflicht nach der AWV und der Ausfuhrliste ist zu beachten, dass die in Teil I Abschnitte A und B genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer Ausfuhrgenehmigungspflicht nach § 3 Absatz 3 des Gesetzes über die Kontrolle von Kriegswaffen unterliegen können.
 
+  
+
 1. Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit den Warennummern und in Spalte 2 mit den Warenbenennungen des Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
 
 2. Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung nur zulässig ist, wenn sie den vorgeschriebenen Vermarktungsnormen entsprechen, sind in Spalte 3 mit G gekennzeichnet.
+
+  
 
 A  
 Liste für Waffen, Munition und Rüstungsmaterial
@@ -2314,7 +2352,7 @@ d) Waffen mit glattem Lauf, besonders konstruiert oder geändert für einen der 
 
 Ergänzende Anmerkung:
 
-Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 c) Waffen, die hülsenlose Munition verwenden;
 
@@ -2365,7 +2403,7 @@ e) Waffen mit glattem Lauf, besonders konstruiert oder geändert für einen der 
 
 Ergänzende Anmerkung:
 
-Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 f) Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengladung und keine Nachrichtenverbindung besitzen, über eine Entfernung von kleiner/gleich 500 m abzuschießen.
 
@@ -2733,7 +2771,7 @@ b) Schutzkleidung.
 
 Ergänzende Anmerkung:
 
-Zivilschutzmasken, Schutzausrüstung und Dekontaminationsausrüstung siehe Nummer 1A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Zivilschutzmasken, Schutzausrüstung und Dekontaminationsausrüstung siehe Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 g) Ausrüstung, besonders konstruiert oder geändert für militärische Zwecke, konstruiert oder geändert zur Feststellung oder Identifizierung der von Unternummer 0007a, 0007b oder 0007d erfassten Materialien, und besonders konstruierte Bestandteile hierfür;
 
@@ -2796,13 +2834,13 @@ Anmerkung 3:
 Nummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für persönliche Selbstverteidigungszwecke.
 
 Anmerkung 4:  
-Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Anmerkung 5:  
-Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer 1C350 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer 1C350 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Anmerkung 6:  
-Biologische Wirkstoffe siehe Nummern 1C351 bis 1C354 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Biologische Wirkstoffe siehe Nummern 1C351 bis 1C354 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Biologische Wirkstoffe werden nur dann von Unternummer 0007a erfasst, wenn sie ausgewählt oder geändert wurden (z. B. Änderung der Reinheit, Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder Widerstandsfähigkeit gegen UV-Strahlung), zur Außergefechtsetzung von Menschen und Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der Vernichtung von Ernten oder zur Schädigung der Umwelt.
 
@@ -2817,7 +2855,7 @@ Siehe auch Nummer 1C011 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der je
 
 Ergänzende Anmerkung 2:
 
-Ladungen und Vorrichtungen siehe Nummer 0004 und Nummer 1A008 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Ladungen und Vorrichtungen siehe Nummer 0004 und Nummer 1A008 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Technische Anmerkungen:
 
@@ -3070,7 +3108,7 @@ Unternummer 0008c5b2 erfasst nicht Bor und Borcarbid, das mit Bor-10 angereicher
 
 8. kugelförmiges oder kugelähnliches Aluminiumpulver (CAS-Nr. 7429-90-5) mit einer Partikelgröße kleiner/gleich 60 µm und hergestellt aus Material mit einem Aluminiumgehalt von mindestens 99 %,
 
-9. Titansubhydrid mit der stöchiometrischen Zusammensetzung TiH 0,65-1,68,
+9. Titansubhydrid (TiHn) mit einer stöchiometrischen Zusammensetzung n = TiH 0,65-1,68,
 
 10. flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1 erfasst, wie folgt:
 
@@ -3125,7 +3163,7 @@ b) Sauerstoff oder
 c) Stickstoff,
 
 Anmerkung 1:  
-Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer 1C238 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer 1C238 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Anmerkung 2:  
 Unternummer 0008d3 erfasst nicht Stickstofftrifluorid (CAS-Nr. 7783-54-2) in gasförmigem Zustand.
@@ -3424,7 +3462,7 @@ bb)
 cc) 2,2-Dinitropropanol (CAS-Nr. 918-52-5),
 
 dd)  
-zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe Unternummer 1C011d des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe Unternummer 1C011d des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Anmerkung 2:  
 Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:
@@ -3691,7 +3729,7 @@ b) Ausrüstung für die Erzeugung von Primärenergie, Elektroschutz (electric ar
 
 Ergänzende Anmerkung:
 
-Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 c) Zielerfassungs-, Zielverfolgungs-, Feuerleitsysteme und Systeme zur Wirkungsermittlung,
 
@@ -3763,15 +3801,15 @@ Anmerkung 4:
 Unternummern 0013c und 0013d erfassen nicht einzelne Helme, Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu deren eigenem persönlichen Schutz mitgeführt werden.
 
 Anmerkung 5:  
-Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
+Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
 
 Ergänzende Anmerkung 1:
 
-Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Ergänzende Anmerkung 2:
 
-„Faser- oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+„Faser- oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 0014  
 ,Spezialisierte Ausrüstung für die militärische Ausbildung‘ oder für die Simulation militärischer Szenare, Simulatoren, besonders konstruiert für die Ausbildung an den unter Nummer 0001 oder 0002 erfassten Waffen, sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür.
@@ -3815,7 +3853,7 @@ p) bewegliche Übungsgeräte,
 q) Übungsausrüstung für militärische Bodenoperationen.
 
 Anmerkung 1:  
-Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder zum Dialog mit der Umgebung für Simulatoren ein, sofern sie für militärische Zwecke besonders konstruiert oder besonders geändert sind.
+Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder zum Dialog mit der Umgebung für Simulatoren ein, sofern sie für militärische Zwecke besonders konstruiert oder geändert sind.
 
 Anmerkung 2:  
 Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das Training im Umgang mit Jagd- und Sportwaffen.
@@ -3847,7 +3885,7 @@ Zur Erfassung von Waffenzielgeräten mit „Bildverstärkerröhren der ersten Ge
 
 Ergänzende Anmerkung:
 
-Siehe auch Unternummern 6A002a2 und 6A002b des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Unternummern 6A002a2 und 6A002b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 0016  
 Schmiedestücke, Gussstücke und andere unfertige Erzeugnisse, die besonders konstruiert sind für eine der von Nummer 0001, 0002, 0003, 0004, 0006, 0009, 0010, 0012 oder 0019 erfassten Waren.
@@ -3869,7 +3907,7 @@ a) Tauch- und Unterwasserschwimmgeräte, besonders konstruiert oder geändert f�
 
 Ergänzende Anmerkung:
 
-Siehe auch Unternummer 8A002q des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Unternummer 8A002q des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 b) Bauausrüstung, besonders konstruiert für militärische Zwecke;
 
@@ -3887,7 +3925,7 @@ e) „Roboter“, „Roboter“steuerungen und „Roboter“-„Endeffektoren“
 
 Technische Anmerkung:
 
-Der Begriff elektromagnetischer Puls bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
+Der Begriff elektromagnetischer Impuls bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
 
 f) „Bibliotheken“, besonders entwickelt oder geändert für militärische Zwecke in Verbindung mit Systemen, Ausrüstung oder Bestandteilen, die von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden bzw. wird;
 
@@ -3938,7 +3976,7 @@ Technische Anmerkungen:
 0018  
 ,Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie folgt:
 
-a) besonders konstruierte oder besonders geänderte Ausrüstung für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Bestandteile hierfür;
+a) besonders konstruierte oder geänderte Ausrüstung für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Bestandteile hierfür;
 
 b) besonders konstruierte Umweltprüfeinrichtungen für die Zulassungs- und Eignungsprüfung der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Ausrüstung hierfür.
 
@@ -4105,14 +4143,14 @@ B
 National erfasste Güter
 
 2B909  
-Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie besonders konstruierte Bestandteile hierfür:
+Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie besonders konstruierte Bestandteile hierfür:
 
 a) die nach den technischen Beschreibungen des Herstellers mit numerischen Steuerungen, Rechnersteuerungen oder Play-back-Steuerungen ausgerüstet werden können und
 
 b) mit einer Supportkraft größer als 60 kN, wenn das Bestimmungsland Syrien ist.
 
 2B952  
-Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran, Nordkorea oder Syrien ist:
+Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran, Nordkorea oder Syrien ist:
 
 a) Fermenter, geeignet zur Kultivierung pathogener „Mikroorganismen“ oder Viren oder geeignet zur Erzeugung von „Toxinen“, ohne Aerosolfreisetzung, mit einer Gesamtkapazität größer/gleich 10 l;
 
@@ -4132,9 +4170,9 @@ b) Herstellungsausrüstung für die physikalische Beschichtung aus der Dampfphas
 c) Herstellungsausrüstung für die Beschichtung mittels induktiver oder ohmscher Aufheizung.
 
 5A902  
-Überwachungssysteme, Geräte und Bestandteile für IuK (Informations- und Kommunikationstechnik) für öffentliche Netze wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt:
+Überwachungssysteme, Geräte und Bestandteile für IuK (Informations- und Kommunikationstechnik) für öffentliche Netze, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) Überwachungszentren (Law Enforcement Monitoring Facilities) für Lawful Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür,
+a) Überwachungszentren (Law Enforcement Monitoring Facilities) für Lawful Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür;
 
 b) Vorratsdatenspeicherungssysteme oder -geräte für Ereignisdaten (Intercept Related Information IRI, z. B. gemäß ETSI TS 102 656 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür.
 
@@ -4163,7 +4201,7 @@ Technische Anmerkung:
 ,Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden. Digitaler ,Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio) verwendet digitale Modulationsverfahren.
 
 5D902  
-„Software“ wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt:
+„Software“, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
 a) „Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von in Nummer 5A902 erfassten Einrichtungen, Funktionen oder Leistungsmerkmalen;
 
@@ -4173,20 +4211,24 @@ b) „Software“, besonders entwickelt oder geändert zur Erzielung der von Num
 „Software“, die besonders entwickelt oder geändert wurde für die „Verwendung“ von Ausrüstung, erfasst von Nummer 5A911, wenn das Bestimmungsland Sudan oder Südsudan ist.
 
 5E902  
-„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+„Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 6A908  
-Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
+Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
 
 6D908  
 „Software“, die besonders entwickelt oder geändert wurde für die „Entwicklung“, „Herstellung“ oder „Verwendung“ der von Nummer 6A908 erfassten Ausrüstung, wenn das Bestimmungsland Iran ist.
 
 9A904  
-„Laser“kommunikationsterminals (LCTs, „Laser“-Datenübertragungsstationen), die nicht von Nummer 9A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+„Raumfahrzeug-“ und sonstige Ausrüstung wie folgt:
+
+a) Antennen, konstruiert für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt;
+
+b) „Laser“kommunikationsterminals (LCTs, „Laser“-Datenübertragungsstationen), die nicht von Nummer 9A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 Technische Anmerkung:
 
-Nummer 9A904 schließt Güter ein, die in folgenden Zusammenhängen mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf „Raumfahrzeugen“:
+Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf „Raumfahrzeugen“:
 
 1. Einsatz als Nutzlast für Up- oder Downlink,
 
@@ -4195,7 +4237,7 @@ Nummer 9A904 schließt Güter ein, die in folgenden Zusammenhängen mit „Raumf
 3. Nutzung im Zusammenhang mit der Übertragung von Telemetriesignalen.
 
 9A991  
-Landfahrzeuge, die nicht von von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden, wie folgt:
+Landfahrzeuge, die nicht von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden, wie folgt:
 
 a) Tiefladeanhänger und Sattelauflieger mit einer Nutzlast größer als 25 000 kg und kleiner als 70 000 kg oder mit einem oder mehreren militärischen Ausstattungsmerkmalen und geeignet für den Transport der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) Nummer 0006 erfassten Fahrzeuge sowie zu deren Fortbewegung geeignete und mit einem oder mehreren militärischen Ausstattungsmerkmalen versehene Zugmaschinen, wenn das Bestimmungsland Iran, Libyen, Myanmar, Nordkorea, Pakistan, Somalia oder Syrien ist;
 
@@ -4236,18 +4278,18 @@ Hubschrauber, Hubschrauber-Leistungsübertragungssysteme, Gasturbinentriebwerke 
 Luftgekühlte Kolbentriebwerke (Flugmotoren) mit einem Hubraum größer/gleich 100 cm³ und kleiner/gleich 600 cm³, geeignet für den Einsatz in unbemannten „Luftfahrzeugen“, und besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
 
 9D904  
-„Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+„Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 9E904  
-„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den Unternummern 5E001b2, 9E001 und 9E002 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, oder „Software“, die von Nummer 9D904 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den Unternummern 5E001b2, 9E001 und 9E002 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, oder „Software“, die von Nummer 9D904 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 9E991  
 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“ oder „Herstellung“ der von Nummer 9A993 erfassten Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien ist.
 
 9E992  
-„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
-Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
+Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen  
 
 <table style="border: none;"><colgroup><col style="width: 9%" /><col style="width: 91%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">AIP</td><td style="text-align: left;">Außenluftunabhängige Antriebssysteme<br />
 (Air Independent Propulsion)</td></tr><tr class="even"><td style="text-align: left;">C³I</td><td style="text-align: left;">Führung, Information und Aufklärung<br />
@@ -4257,6 +4299,8 @@ Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 (electron beam physical vapour deposition)</td></tr><tr class="odd"><td style="text-align: left;">ICAO</td><td style="text-align: left;">Internationale Zivilluftfahrt-Organisation<br />
 (International Civil Aviation Organization)</td></tr><tr class="even"><td style="text-align: left;">RPV</td><td style="text-align: left;">Ferngesteuerte Flugobjekte<br />
 (remotely piloted air vehicles)</td></tr></tbody></table>
+
+  
 
 Begriffe in ,einfachen Anführungszeichen‘ werden in einer Anmerkung zu dem entsprechenden Eintrag erläutert.
 
@@ -4462,7 +4506,7 @@ Wenn ein Bestandteil auf Grund technischer Prüfung „weltraumgeeignet“ ist, 
 Anmerkung:  
 Siehe auch „Luftfahrzeug“.
 
-Waren pflanzlichen Ursprungs
+Waren pflanzlichen Ursprungs  
 
 Nr. des  
 Warenverz. für die  
@@ -4482,6 +4526,7 @@ grund
 
 Abschnitt II  
 Waren pflanzlichen Ursprungs  
+  
 
 Kapitel 7  
 Gemüse, Pflanzen, Wurzeln und Knollen, die zu Ernährungszwecken verwendet werden
@@ -4642,25 +4687,21 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 # Anlage 2 – (weggefallen)
 
-# Anlage 3 – Anlage K3 „Vermögen von Inländern im Ausland“
+# Anlage 3 – Vermögen von Inländern im Ausland
 
-(Fundstelle: BGBl. I 2013, 2930 - 2932)
+(Fundstelle: BAnz AT 07.09.2021.V1)
 
- 
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B001.jpg)  
 
-<a href="../normengrafiken/bgbl1_2013/j2865-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B002.jpg)  
 
-<a href="../normengrafiken/bgbl1_2013/j2865-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+# Anlage 4 – Vermögen von Ausländern im Inland
 
-# Anlage 4 – Anlage K4 „Vermögen von Ausländern im Inland“
+(Fundstelle: BAnz AT 07.09.2021.V1)
 
-(Fundstelle: BGBl. I 2013, 2933 - 2935)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B003.jpg)  
 
- 
-
-<a href="../normengrafiken/bgbl1_2013/j2865-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2013/j2865-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B004.jpg)  
 
 # Anlage 5 – Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“
 

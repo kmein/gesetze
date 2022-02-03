@@ -181,7 +181,7 @@ Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen worden ist,
 
 (1) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-(2) Die Vorschriften der Meisterprüfungsverfahrensverordnungg bleiben unberührt.
+(2) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 # § 8 – Inkrafttreten
 
