@@ -199,7 +199,7 @@ Für die Präsentation oder die praktische Durchführung wählt der Prüfling ei
 
 # § 6 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen I und II der Meisterprüfung bestimmt sich nach den für die einzelnen Gewerbe der Anlagen A und B zur Handwerksordnung erlassenen Rechtsverordnungen oder nach den gemäß § 119 Absatz 5 und § 122 der Handwerksordnung weiter anzuwendenden Vorschriften.
 

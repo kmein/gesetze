@@ -3731,7 +3731,6 @@
 - [MPhG](laws/MPhG.md) Gesetz über die Berufe in der Physiotherapie
 - [MPorzMAusbV](laws/MPorzMAusbV.md) Verordnung über die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
 - [MPVerfV](laws/MPVerfV.md) Verordnung über das Zulassungs- und allgemeine Prüfungsverfahren für die Meisterprüfung im Handwerk und in handwerksähnlichen Gewerben
-- [MPVerfVO](laws/MPVerfVO.md) Verordnung über das Zulassungs- und allgemeine Prüfungsverfahren für die Meisterprüfung im Handwerk und in handwerksähnlichen Gewerben
 - [MRegV](laws/MRegV.md) Verordnung zur Registrierung von Anbietern mautdienstbezogener Leistungen
 - [MSA](laws/MSA.md) Übereinkommen über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen
 - [MSAG](laws/MSAG.md) Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen
