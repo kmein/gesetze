@@ -9,7 +9,7 @@ Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Art
 
 # § 1 – Anwendungsbereich
 
-(1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) von denjenigen Instituten und Gruppen anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen.
+(1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom 2.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist, von denjenigen Instituten und Gruppen anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen.
 
 (2) Die §§ 24 bis 31 dieser Verordnung sind ergänzend zu den Artikeln 25 bis 91 der Verordnung (EU) Nr. 575/2013 von denjenigen Instituten und Gruppen anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen. Dies gilt nicht für Kreditinstitute, die gemäß Artikel 6 Absatz 4 der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank (ABl. L 287 vom 29.10.2013, S. 63, L 218 vom 19.8.2015, S. 82) sowie gemäß Teil IV und Artikel 147 Absatz 1 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (ABl. L 141 vom 14.5.2014, S. 1) als bedeutend eingestuft werden.
 
@@ -255,7 +255,7 @@ b) mit Zustimmung der Bundesanstalt ein internes Einstufungsverfahren nach Artik
 
 3. Risikopositionen in der Form eines Anteils an einem OGA im Sinne des Artikels 152 der Verordnung (EU) Nr. 575/2013, die das Institut nach Artikel 152 Absatz 1 Satz 1 dieser EU-Verordnung unter Verwendung der Methoden für den IRB-Ansatz berücksichtigt hat,
 
-4. Risikopositionen, die das Institut nach Artikel 150 Absatz 1 Buchstaben d bis j der Verordnung (EU) Nr. 575/2013 von der Anwendung des IRB-Ansatzes ausgenommen hat und unter Verwendung des KSA bei der Ermittlung des Gesamtrisikopositionsbetrags nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berücksichtigt, sofern das Institut
+4. Risikopositionen, die das Institut nach Artikel 150 Absatz 1 Buchstaben d bis j oder nach Artikel 500a Absatz 3 der Verordnung (EU) Nr. 575/2013 von der Anwendung des IRB-Ansatzes ausgenommen hat und unter Verwendung des KSA bei der Ermittlung des Gesamtrisikopositionsbetrags nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berücksichtigt, sofern das Institut
 
 a) diese Risikopositionen unter Verwendung von Ratingsystemen oder Beteiligungsrisikomodellen erfasst hat, die es mit Zustimmung der Bundesanstalt nach Artikel 143 Absatz 2 der Verordnung (EU) Nr. 575/2013 für den IRB-Ansatz verwenden darf, und
 
@@ -599,31 +599,75 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 
 (+++ § 36: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
+# § 36a – Berechnung des Kapitalpuffers für systemische Risiken
+
+(1) Der Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des Kreditwesengesetzes kann für folgende Risikopositionen angeordnet werden:
+
+1. alle im Inland belegenen Risikopositionen;
+
+2. alle im Inland belegenen branchenspezifischen Risikopositionen
+
+a) des Mengengeschäfts gegenüber natürlichen Personen, die durch Grundpfandrechte auf Wohnimmobilien besichert sind;
+
+b) gegenüber juristischen Personen, die durch Grundpfandrechte auf gewerbliche Immobilien besichert sind;
+
+c) gegenüber juristischen Personen mit Ausnahme der in Buchstabe b genannten Risikopositionen;
+
+d) gegenüber natürlichen Personen mit Ausnahme der in Buchstabe a genannten Risikopositionen;
+
+3. alle in anderen Staaten des Europäischen Wirtschaftsraums belegenen Risikopositionen, für die § 10e Absatz 2 Satz 5 und Absatz 5 des Kreditwesengesetzes gilt;
+
+4. branchenspezifische Risikopositionen nach Nummer 2, die sich in anderen Staaten des Europäischen Wirtschaftsraums befinden, jedoch lediglich um die Anerkennung eines von einem anderen Staat des Europäischen Wirtschaftsraums angeordneten Kapitalpuffers für systemische Risiken nach § 10e Absatz 8 des Kreditwesengesetzes zu ermöglichen;
+
+5. in Drittstaaten belegene Risikopositionen oder
+
+6. Teilgruppen einer der in Nummer 2 genannten Kategorien von Risikopositionen.
+
+(2) Die Institute berechnen den Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4306-1_0010.jpg)
+
+Dabei steht
+
+1. B<sub>SR</sub> für den Kapitalpuffer für systemische Risiken,
+
+2. r<sub>T</sub> für die Pufferquote, die für den Gesamtrisikobetrag des Instituts gilt,
+
+3. E<sub>T</sub> für den gemäß Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikobetrag eines Instituts,
+
+4. i für den Index, der eine der Teilgruppen von Risikopositionen nach Absatz 1 anzeigt,
+
+5. r<sub>i</sub> für die Pufferquote, die für den Gesamtrisikobetrag der Teilgruppe der Risikopositionen i gilt, und
+
+6. E<sub>i</sub> für den Risikobetrag eines Instituts für die Teilgruppe der Risikopositionen i, der gemäß Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechnet wurde.
+
 # § 37 – Maximal ausschüttungsfähiger Betrag
 
 (1) Der maximal ausschüttungsfähige Betrag im Sinne des § 10i Absatz 3 des Kreditwesengesetzes errechnet sich durch Multiplikation des nach Absatz 2 berechneten Betrags mit dem gemäß Absatz 3 festgelegten Faktor. Er reduziert sich durch jede nach § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes durchgeführte Maßnahme.
 
 (2) Der zu multiplizierende Betrag ergibt sich aus
 
-1. den Zwischengewinnen, die nicht im Kernkapital gemäß Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind und die nach der letzten Entscheidung über die Gewinnausschüttung oder eine der unter § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes aufgeführten Maßnahmen erwirtschaftet wurden;
+1. den Zwischengewinnen, die nicht im harten Kernkapital gemäß Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen infolge einer Maßnahme gemäß § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes,
 
-2. zuzüglich der Gewinne zum Jahresende, die nicht im Kernkapital gemäß Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind und die nach der letzten Entscheidung über die Gewinnausschüttung oder eine der unter § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes aufgeführten Maßnahmen erwirtschaftet wurden;
+2. zuzüglich der Gewinne zum Jahresende, die nicht im harten Kernkapital gemäß Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen infolge einer Maßnahme gemäß § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes,
 
 3. abzüglich der Beträge, die in Form von Steuern zu zahlen wären, wenn die unter den Nummern 1 und 2 aufgeführten Gewinne einbehalten würden.
 
-(3) Liegt das von dem Institut vorgehaltene und nicht zur Einhaltung der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 verwendete Kernkapital, ausgedrückt als Prozentsatz des Gesamtforderungsbetrags im Sinne von Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013, innerhalb des
+(3) Liegt das von dem Institut vorgehaltene und nicht zur Einhaltung der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe a, b und c der Verordnung (EU) Nr. 575/2013, der zusätzlichen Eigenmittelanforderungen zur Abdeckung anderer Risiken als des Risikos einer übermäßigen Verschuldung nach § 6c des Kreditwesengesetzes und der erhöhten Eigenmittelanforderungen nach § 10 Absatz 3 und 4 des Kreditwesengesetzes verwendete harte Kernkapital, ausgedrückt als Prozentsatz des Gesamtrisikobetrags im Sinne von Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013, innerhalb des
 
-1. ersten (das heißt des untersten) Quartils der kombinierten Kapitalpuffer-Anforderung, so beträgt der Faktor 0;
+1. ersten (das heißt des untersten) Quartils der kombinierten Kapitalpufferanforderung, so beträgt der Faktor 0;
 
-2. zweiten Quartils der kombinierten Kapitalpuffer-Anforderung, so beträgt der Faktor 0,2;
+2. zweiten Quartils der kombinierten Kapitalpufferanforderung, so beträgt der Faktor 0,2;
 
-3. dritten Quartils der kombinierten Kapitalpuffer-Anforderung, so beträgt der Faktor 0,4;
+3. dritten Quartils der kombinierten Kapitalpufferanforderung, so beträgt der Faktor 0,4;
 
-4. obersten Quartils der kombinierten Kapitalpuffer-Anforderung, so beträgt der Faktor 0,6.
+4. obersten Quartils der kombinierten Kapitalpufferanforderung, so beträgt der Faktor 0,6.
 
-(4) Die Ober- und Untergrenzen für jedes Quartil der kombinierten Kapitalpuffer-Anforderung werden wie folgt berechnet:  
+(4) Die Ober- und Untergrenzen für jedes Quartil der kombinierten Kapitalpufferanforderung werden wie folgt berechnet:  
+  
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j4168-1_0010.jpg)  
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j4168-1_0020.jpg)  
+  
 „Q<sub>n</sub>“ steht für die Ordinalzahl des betreffenden Quartils.
 
 (+++ § 37: Zur Anwendung vgl. § 1 Abs. 4 +++)
