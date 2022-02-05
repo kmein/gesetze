@@ -365,6 +365,8 @@ Im Fall des Satzes 3 Nummer 2 haben sich die Mitglieder der Prüfungskommission 
 
 (2) Der Prüfling ist auf Antrag von der Wiederholung der Prüfungsleistungen in Prüfungsbereichen, in Prüfungsfächern, in Handlungsfeldern oder im praktischen Teil der Prüfung im Teil IV zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfungsleistung mit mindestens 50 Punkten bewertet wurden und der inhaltliche Bezug der einzelnen Prüfungsleistungen im Rahmen der Teile I bis IV der Meisterprüfung gewahrt bleibt. Eine Befreiung ist nur möglich, wenn sich der Prüfling innerhalb von drei Jahren, gerechnet vom Tag der Bescheidung über den nicht bestandenen Prüfungsteil, zur Wiederholungsprüfung anmeldet und den Antrag auf Befreiung spätestens mit der Anmeldung stellt.
 
+(+++ § 23 Abs. 2: Zur Anwendung vgl. § 7 Abs. 2 Satz 3 +++)
+
 # § 24 – Niederschrift
 
 (1) Über jeden Teil der Meisterprüfung ist eine Niederschrift zu fertigen, die von den Mitgliedern des die Teilprüfung durchführenden Meisterprüfungsausschusses zu unterschreiben oder mit einer Namenswiedergabe ist. Aufsichts-, Prüfungs- und Bewertungsniederschriften sind der Niederschrift beizufügen.
