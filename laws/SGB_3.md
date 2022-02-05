@@ -3461,7 +3461,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über Voraussetz
 
 # § 74 – Assistierte Ausbildung
 
-(1) Die Agentur für Arbeit kann förderungsberechtige junge Menschen und deren Ausbildungsbetriebe während einer betrieblichen Berufsausbildung oder einer Einstiegsqualifizierung (begleitende Phase) durch Maßnahmen der Assistierten Ausbildung fördern. Die Maßnahme kann auch eine vorgeschaltete Phase enthalten, die die Aufnahme einer betrieblichen Berufsausbildung unterstützt (Vorphase).
+(1) Die Agentur für Arbeit kann förderungsberechtigte junge Menschen und deren Ausbildungsbetriebe während einer betrieblichen Berufsausbildung oder einer Einstiegsqualifizierung (begleitende Phase) durch Maßnahmen der Assistierten Ausbildung fördern. Die Maßnahme kann auch eine vorgeschaltete Phase enthalten, die die Aufnahme einer betrieblichen Berufsausbildung unterstützt (Vorphase).
 
 (2) Ziele der Assistierten Ausbildung sind
 
@@ -3490,6 +3490,8 @@ Förderungsberechtigt sind auch junge Menschen, die wegen in ihrer Person liegen
 (6) Mit der Durchführung von Maßnahmen der Assistierten Ausbildung beauftragt die Agentur für Arbeit Träger unter Anwendung des Vergaberechts.
 
 (7) Die Bundesagentur soll bei der Umsetzung der Assistierten Ausbildung mit den Ländern zusammenarbeiten. Durch die Zusammenarbeit sollen unter Berücksichtigung regionaler Besonderheiten Möglichkeiten einer Koordination der Akteure eröffnet und dadurch eine hohe Wirksamkeit der Maßnahme im Ausbildungsmarkt erreicht werden. Die Bundesagentur kann ergänzende Leistungen der Länder berücksichtigen. Das gilt insbesondere für Leistungen der Länder zur Förderung nicht nach Absatz 5 förderungsfähiger Berufsausbildungen.
+
+§ 74 Abs. 1 Satz 1 Kursivdruck: Fehlschreibung des Wortes "förderungsberechtige" in "förderungsberechtigte" korrigiert
 
 # § 75 – Begleitende Phase der Assistierten Ausbildung
 
