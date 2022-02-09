@@ -87,8 +87,6 @@ Absatz 2 Satz 3 bis 7 gilt entsprechend.
 
 (6) An die Stelle der Ansprüche nach den Absätzen 2, 3, 3a und 5 tritt bei einer Beitragszusage mit Mindestleistung das dem Arbeitnehmer planmäßig zuzurechnende Versorgungskapital auf der Grundlage der bis zu seinem Ausscheiden geleisteten Beiträge (Beiträge und die bis zum Eintritt des Versorgungsfalls erzielten Erträge), mindestens die Summe der bis dahin zugesagten Beiträge, soweit sie nicht rechnungsmäßig für einen biometrischen Risikoausgleich verbraucht wurden.
 
-(6) (weggefallen)
-
 (+++ § 2: Zur Anwendung vgl. § 8 Abs. 3 +++)
 
 # § 2a – Berechnung und Wahrung des Teilanspruchs
