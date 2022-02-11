@@ -1085,7 +1085,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 3. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
 
-4. § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+4. entgegen § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
 5. entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
