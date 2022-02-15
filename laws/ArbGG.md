@@ -815,10 +815,6 @@ Das Berufungsgericht prüft nicht, ob der beschrittene Rechtsweg und die Verfahr
 
 (4) Soweit das Vorbringen neuer Angriffs- und Verteidigungsmittel nach den Absätzen 2 und 3 zulässig ist, sind diese vom Berufungskläger in der Berufungsbegründung, vom Berufungsbeklagten in der Berufungsbeantwortung vorzubringen. Werden sie später vorgebracht, sind sie nur zuzulassen, wenn sie nach der Berufungsbegründung oder der Berufungsbeantwortung entstanden sind oder das verspätete Vorbringen nach der freien Überzeugung des Landesarbeitsgerichts die Erledigung des Rechtsstreits nicht verzögern würde oder nicht auf Verschulden der Partei beruht.
 
-# § 67a
-
-\-
-
 # § 68 – Zurückverweisung
 
 Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung unzulässig.
@@ -833,9 +829,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (4) § 540 Abs. 1 der Zivilprozessordnung findet keine Anwendung. § 313a Abs. 1 Satz 2 der Zivilprozessordnung findet mit der Maßgabe entsprechende Anwendung, dass es keiner Entscheidungsgründe bedarf, wenn die Parteien auf sie verzichtet haben; im Übrigen sind die §§ 313a und 313b der Zivilprozessordnung entsprechend anwendbar.
 
-# § 70
-
-(aufgehoben)
+# § 70 – (weggefallen)
 
 # § 71 – (weggefallen)
 
