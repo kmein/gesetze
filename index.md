@@ -1262,7 +1262,6 @@
 - [BVerfGGOBek15](laws/BVerfGGOBek15.md) Bekanntmachung der Geschäftsordnung des Bundesverfassungsgerichts
 - [BVerfSchG](laws/BVerfSchG.md) Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz
 - [BVerkEhrZÄndErl](laws/BVerkEhrZÄndErl.md) Erlaß über die Genehmigung einer Änderung der Benennung und der Form des "Ehrenzeichens der Bundesverkehrswacht"
-- [BVers17AnO](laws/BVers17AnO.md) Anordnung über Ort und Zeit der 17. Bundesversammlung
 - [BVers17ZBek](laws/BVers17ZBek.md) Bekanntmachung über die Zahl der von den Volksvertretungen der Länder zu wählenden Mitglieder der 17. Bundesversammlung
 - [BVersTG](laws/BVersTG.md) Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
 - [BVertrBMBAnO](laws/BVertrBMBAnO.md) Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
