@@ -372,7 +372,7 @@ Die Wasserverdrängung ist nach der Formel des § 26 Abs. 1 Nr. 2 festzustellen.
 
 (1) Bei der Eichung eines Sportboots nach den §§ 32, 33 oder 37 wird die Ebene der größten Eintauchung festgelegt, indem am schwimmenden unbeladenen, jedoch vollständig ausgerüsteten und eingerichteten Sportboot die Eintauchtiefe gemessen wird. Als Zuschlag für Verbrauchsstoffe, Personen und deren Gepäck sind 5 Zentimeter hinzuzurechnen. Die Eintauchtiefe ist auf halber Länge des Schiffskörpers zu messen. Starke Vertrimmungen sind zu berücksichtigen, feste Flossenkiele und Schwerter jedoch nicht. Eine Schmutzwasserlinie kann zu Ermittlung herangezogen werden.
 
-(2) Die Ebene der größten Eintauchung kann auch anhand der Schmutzwasserlinie festgelegt werden.
+(2) Die Ebene der größten Eintauchung kann auch an Land anhand der Schmutzwasserlinie festgelegt werden.
 
 (3) Es können auch entsprechende Angaben des Herstellers verwendet werden.
 
@@ -416,7 +416,7 @@ Bei einem Sportboot, dessen Baumuster geeicht ist, genügt anstelle der Eichung 
 
 Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in Kraft gesetzt werden.
 
-(3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender Nummer in ein Eichverzeichnis.
+(3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender Nummer in ein Eichverzeichnis ein.
 
 (4) Die Eichbescheinigung für das Baumuster eines Sportboots erhält den Zusatz "Baumuster". Sie ist nicht Urkunde nach § 13 Abs. 1 der Schiffsregisterordnung; der entsprechende Hinweis wird gestrichen.
 

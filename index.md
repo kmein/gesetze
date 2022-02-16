@@ -119,8 +119,6 @@
 - [AHStatDV](laws/AHStatDV.md) Verordnung zur Durchführung des Gesetzes über die Statistik des Warenverkehrs mit dem Ausland
 - [AHStatG](laws/AHStatG.md) Gesetz über die Statistik des Warenverkehrs mit dem Ausland
 - [AIIBÜbkG](laws/AIIBÜbkG.md) Gesetz zu dem Übereinkommen vom 29. Juni 2015 zur Gründung der Asiatischen Infrastruktur-Investitionsbank
-- [AISAnlNutzV](laws/AISAnlNutzV.md) Verordnung zur Regelung der Nutzung von AIS-Anlagen auf nicht ausrüstungspflichtigen Fahrzeugen
-- [AISAnl§60Abs3SeeSchStrONutzV](laws/AISAnl§60Abs3SeeSchStrONutzV.md) Verordnung zur Regelung der Nutzung von AIS-Anlagen auf nicht ausrüstungspflichtigen Fahrzeugen nach § 60 Absatz 3 der Seeschifffahrtsstraßen-Ordnung
 - [AKG](laws/AKG.md) Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden
 - [AkkStelleG](laws/AkkStelleG.md) Gesetz über die Akkreditierungsstelle
 - [AkkStelleGBV](laws/AkkStelleGBV.md) Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierungsstellengesetz
