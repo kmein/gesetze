@@ -88,8 +88,6 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (4) Die Ausgestaltung der Möglichkeit zur Einsichtnahme soll die Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung berücksichtigen.
 
-(+++ § 6: Zur Anwendung vgl. § 13 Abs. 1 +++)
-
 # § 7 – Suchfunktion
 
 (1) Die Rechtsanwaltskammern haben die Einsichtnahme in ihr Verzeichnis über eine Suchfunktion zu gewährleisten. Die Suchfunktion hat die alternative und die kumulative Suche anhand folgender Angaben zu ermöglichen:
