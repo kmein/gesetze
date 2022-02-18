@@ -49,8 +49,7 @@ b) Aufbewahrungen von bestrahlten Kernbrennstoffen nach § 6 Absatz 1 oder Absat
 
 c) Zwischenlagerungen für radioaktive Abfälle, wenn die Zwischenlagerungen direkt mit der jeweiligen kerntechnischen Anlage im Sinne des Buchstaben a oder b in Zusammenhang stehen und sich auf dem Gelände der Anlagen befinden;
 
-2. nukleare Sicherheit:  
-  
+2. nukleare Sicherheit:
 
 das Erreichen und Aufrechterhalten ordnungsgemäßer Betriebsbedingungen, die Verhütung von Unfällen und die Abmilderung von Unfallfolgen, so dass Leben, Gesundheit und Sachgüter vor den Gefahren der Kernenergie und der schädlichen Wirkung ionisierender Strahlen geschützt werden;
 
@@ -68,11 +67,11 @@ b) der Betrieb von Bestrahlungsvorrichtungen und
 
 c) das Aufsuchen, die Gewinnung und die Aufbereitung von Bodenschätzen im Sinne des Bundesberggesetzes.
 
-(4) Für die Anwendung der Vorschriften über die Haftung und Deckung entsprechen die Begriffe nukleares Ereignis, Kernanlage, Inhaber einer Kernanlage, Kernmaterialien und Sonderziehungsrechte den Begriffsbestimmungen in Anlage 1 zu diesem Gesetz.
+(4) Soweit sich die Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4 bestimmt, entsprechen für die Anwendung der Vorschriften über die Haftung und Deckung dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung die Begriffe „nukleares Ereignis“, „nuklearer Schaden“, „Kernanlage“, „Kernbrennstoffe“, „radioaktive Erzeugnisse oder Abfälle“, „Kernmaterialien“ und „Inhaber einer Kernanlage“ den Begriffsbestimmungen in Artikel 1 Abs. a des Pariser Übereinkommens. Für die Begriffe „Kernanlage“ und „Kernbrennstoffe“ gilt Satz 1 mit der Maßgabe, dass Ergänzungen dieser Begriffsbestimmungen durch den Direktionsausschuss für Kernenergie der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung oder seines Funktionsnachfolgers (Direktionsausschuss) nach Artikel 1 Abs. a Ziffer ii und iii des Pariser Übereinkommens erst anzuwenden sind, wenn sie durch Gesetz oder durch eine Rechtsverordnung nach § 12a in Kraft gesetzt sind. Befinden sich zwei oder mehr Kernanlagen eines Inhabers auf demselben Gelände, so gelten sie, zusammen mit anderen dort gelegenen Anlagen, die Kernbrennstoffe oder radioaktive Erzeugnisse oder Abfälle enthalten, als eine Kernanlage.
 
-(5) Pariser Übereinkommen bedeutet das Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. II S. 310, 311) und des Protokolls vom 16. November 1982 (BGBl. 1985 II S. 690).
+(5) Pariser Übereinkommen bedeutet das Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. II S. 310, 311) und der Protokolle vom 16. November 1982 (BGBl. 1985 II S. 690) und vom 12. Februar 2004 (BGBl. 2008 II S. 902).
 
-(6) Brüsseler Zusatzübereinkommen bedeutet das Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. II S. 310, 318) und des Protokolls vom 16. November 1982 (BGBl. 1985 II S. 690).
+(6) Brüsseler Zusatzübereinkommen bedeutet das Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. II S. 310, 318) und der Protokolle vom 16. November 1982 (BGBl. 1985 II S. 690) und vom 12. Februar 2004 (BGBl. 2008 II S. 902).
 
 (7) Gemeinsames Protokoll bedeutet das Gemeinsame Protokoll vom 21. September 1988 über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens (BGBl. 2001 II S. 202, 203).
 
@@ -194,19 +193,19 @@ Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätz
 
 7. für die Beförderung bestrahlter Brennelemente von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität zu zentralen Zwischenlagern nach § 6 Abs. 1 nachgewiesen ist, dass eine Lagermöglichkeit in einem nach § 9a Abs. 2 Satz 3 zu errichtenden standortnahen Zwischenlager nicht verfügbar ist.
 
-(3) Der nach Absatz 2 Nr. 4 erforderlichen Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen bedarf es nicht für die Beförderung der in Anlage 2 zu diesem Gesetz bezeichneten Kernbrennstoffe.
+(3) (weggefallen)
 
 (4) Die Genehmigung ist für den einzelnen Beförderungsvorgang zu erteilen; sie kann jedoch einem Antragsteller allgemein auf längstens drei Jahre erteilt werden, soweit die in § 1 Nr. 2 bis 4 bezeichneten Zwecke nicht entgegenstehen.
 
-(5) Eine Ausfertigung oder eine öffentlich beglaubigte Abschrift des Genehmigungsbescheids ist bei der Beförderung mitzuführen. Der Beförderer hat ferner eine Bescheinigung mit sich zu führen, die den Anforderungen des Artikels 4 Abs. c des Pariser Übereinkommens entspricht, sofern es sich nicht um eine Beförderung handelt, die nach Absatz 3 einer Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nicht bedarf. Der Bescheid und die Bescheinigung sind der für die Kontrolle zuständigen Behörde und den von ihr Beauftragten auf Verlangen vorzuzeigen.
+(5) Eine Ausfertigung oder eine öffentlich beglaubigte Abschrift des Genehmigungsbescheids ist bei der Beförderung mitzuführen. Soweit sich die Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4 bestimmt, hat der Beförderer außerdem eine Bescheinigung mit sich zu führen, die den Anforderungen des Artikels 4 Abs. d des Pariser Übereinkommens entspricht. Der Bescheid und die Bescheinigung sind der für die Kontrolle zuständigen Behörde und den von ihr Beauftragten auf Verlangen vorzuzeigen.
 
 (6) Absatz 5 Satz 1 gilt nicht für die Beförderung mit der Eisenbahn durch einen Eisenbahnunternehmer. Im übrigen bleiben die für die jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter unberührt.
 
 # § 4a – Deckungsvorsorge bei grenzüberschreitender Beförderung
 
-(1) Die nach § 4 Abs. 2 Nr. 4 erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen ist vorbehaltlich der Absätze 3 und 4 bei der grenzüberschreitenden Beförderung von Kernbrennstoffen getroffen, wenn sich die nach Artikel 4 Abs. c des Pariser Übereinkommens erforderliche Bescheinigung über die Deckungsvorsorge auf den Inhaber einer in einem Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage bezieht.
+(1) Die nach § 4 Abs. 2 Nr. 4 erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen ist vorbehaltlich der Absätze 3 und 4 bei der grenzüberschreitenden Beförderung von Kernbrennstoffen getroffen, wenn sich die nach Artikel 4 Abs. d des Pariser Übereinkommens erforderliche Bescheinigung über die Deckungsvorsorge auf den Inhaber einer in einem Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage bezieht.
 
-(2) Versicherer im Sinne des Artikels 4 Abs. c des Pariser Übereinkommens ist
+(2) Versicherer im Sinne des Artikels 4 Abs. d des Pariser Übereinkommens ist
 
 1. ein im Inland zum Betrieb der Haftpflichtversicherung befugtes Versicherungsunternehmen oder
 
@@ -214,15 +213,15 @@ Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätz
 
 Eine sonstige finanzielle Sicherheit kann anstelle der Versicherung zugelassen werden, wenn gewährleistet ist, daß der zur Deckungsvorsorge Verpflichtete, solange mit seiner Inanspruchnahme gerechnet werden muß, in der Lage sein wird, seine gesetzlichen Schadensersatzverpflichtungen im Rahmen der Festsetzung der Deckungsvorsorge zu erfüllen.
 
-(3) Ist für einen Vertragsstaat des Pariser Übereinkommens das Brüsseler Zusatzübereinkommen nicht in Kraft getreten, so kann im Falle der Durchfuhr von Kernbrennstoffen die Genehmigung nach § 4 davon abhängig gemacht werden, daß der nach dem Recht dieses Vertragsstaates vorgesehene Haftungshöchstbetrag des Inhabers der Kernanlage für nukleare Ereignisse, die im Verlaufe der Beförderung im Inland eintreten, soweit erhöht wird, wie dies nach Menge und Beschaffenheit der Kernbrennstoffe sowie den getroffenen Sicherheitsmaßnahmen erforderlich ist. Der Inhaber der Kernanlage hat durch Vorlage einer von der zuständigen Behörde des Vertragsstaates ausgestellten Bescheinigung den Nachweis der Deckungsvorsorge für den erhöhten Haftungshöchstbetrag zu erbringen.
+(3) Ist für einen Vertragsstaat des Pariser Übereinkommens das Brüsseler Zusatzübereinkommen nicht in Kraft getreten, so kann im Falle der Durchfuhr von Kernbrennstoffen die Genehmigung nach § 4 davon abhängig gemacht werden, daß der nach dem Recht dieses Vertragsstaates vorgesehene Höchstbetrag der Haftung des Inhabers der Kernanlage oder bei summenmäßig unbegrenzter Haftung des Inhabers der Kernanlage der Betrag der Versicherung oder der sonstigen finanziellen Sicherheit für ein nukleares Ereignis, das im Verlaufe der Beförderung im Inland eintritt, soweit erhöht wird, wie dies nach Menge und Beschaffenheit der Kernbrennstoffe sowie den getroffenen Sicherheitsmaßnahmen erforderlich ist. Der Inhaber der Kernanlage hat durch Vorlage einer von der zuständigen Behörde des Vertragsstaates ausgestellten Bescheinigung den Nachweis der Deckungsvorsorge für den nach Satz 1 erhöhten Betrag zu erbringen.
 
-(4) Im Falle der Einfuhr oder Ausfuhr von Kernbrennstoffen aus einem oder in einen anderen Vertragsstaat des Pariser Übereinkommens, für den das Brüsseler Zusatzübereinkommen nicht in Kraft getreten ist, kann die Genehmigung nach § 4 davon abhängig gemacht werden, daß der Inhaber der im Inland gelegenen Kernanlage, zu oder von der die Kernbrennstoffe befördert werden sollen, die Haftung für nukleare Ereignisse, die im Verlaufe der Beförderung im Inland eintreten, nach den Vorschriften dieses Gesetzes übernimmt, wenn der in dem anderen Vertragsstaat des Pariser Übereinkommens vorgesehene Haftungshöchstbetrag im Hinblick auf die Menge und Beschaffenheit der Kernbrennstoffe sowie die getroffenen Sicherheitsmaßnahmen nicht angemessen ist.
+(4) Im Falle der Einfuhr oder Ausfuhr von Kernbrennstoffen aus einem oder in einen anderen Vertragsstaat des Pariser Übereinkommens, für den das Brüsseler Zusatzübereinkommen nicht in Kraft getreten ist, kann die Genehmigung nach § 4 davon abhängig gemacht werden, daß der Inhaber der im Inland gelegenen Kernanlage, zu oder von der die Kernbrennstoffe befördert werden sollen, die Haftung für ein nukleares Ereignis, das im Verlaufe der Beförderung im Inland eintritt, nach den Vorschriften dieses Gesetzes übernimmt, wenn der in dem anderen Vertragsstaat des Pariser Übereinkommens vorgesehene Haftungshöchstbetrag oder bei summenmäßig unbegrenzter Haftung des Inhabers der Kernanlage der Betrag der Versicherung oder der sonstigen finanziellen Sicherheit im Hinblick auf die Menge und Beschaffenheit der Kernbrennstoffe sowie die getroffenen Sicherheitsmaßnahmen nicht angemessen ist.
 
 # § 4b – Beförderung von Kernmaterialien in besonderen Fällen
 
 (1) Wer Kernmaterialien befördert, ohne einer Genehmigung nach § 4 zu bedürfen, hat vor Beginn der Beförderung der zuständigen Behörde die erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nachzuweisen. Reicht die angebotene Vorsorge nicht aus, so hat die Verwaltungsbehörde die erforderliche Deckungsvorsorge nach den Grundsätzen des § 13 Abs. 2 Nr. 1 festzusetzen. § 4 Abs. 5 Satz 2 und 3 und § 4a sind anzuwenden.
 
-(2) Absatz 1 ist nicht anzuwenden, soweit es sich um die Beförderung von Kernmaterialien handelt, die in Anlage 2 zu diesem Gesetz bezeichnet sind.
+(2) (weggefallen)
 
 # § 5 – Berechtigung zum Besitz von Kernbrennstoffen; staatliche Verwahrung
 
@@ -302,7 +301,7 @@ Die Erzeugung der in Anlage 3 Spalte 2 aufgeführten Elektrizitätsmengen ist du
 
 1. monatlich die im Sinne des Absatzes 1a in Verbindung mit der Anlage 3 Spalte 2 im Vormonat erzeugten Elektrizitätsmengen mitzuteilen,
 
-2. die Ergebnisse der Überprüfungen und die Bescheinigungen nach Absatz 1a Satz 3 binnen eines Monats nach deren Vorliegen vorzulegen,
+2. die Ergebnisse der Überprüfungen und die Bescheinigungen nach Absatz 1a Satz 7 binnen eines Monats nach deren Vorliegen vorzulegen,
 
 3. die zwischen Anlagen vorgenommenen Übertragungen nach Absatz 1b binnen einer Woche nach Festlegung der Übertragung mitzuteilen.
 
@@ -652,7 +651,7 @@ Satz 1 Nr. 1 und 7 gilt entsprechend für die Beförderung radioaktiver Stoffe, 
 
 # § 12a – Ermächtigungsvorschrift (Entscheidung des Direktionsausschusses)
 
-Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Entscheidungen des Direktionsausschusses der Europäischen Kernenergieagentur oder seines Funktionsnachfolgers nach Artikel 1 Abs. a Unterabs. ii und iii und nach Artikel 1 Abs. b des Pariser Übereinkommens durch Rechtsverordnung in Kraft zu setzen und insoweit die Anlage 1 Abs. 1 Nr. 2 und 3 und die Anlage 2 zu diesem Gesetz zu ändern oder aufzuheben, sofern dies zur Erfüllung der in § 1 bezeichneten Zwecke erforderlich ist.
+Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Entscheidungen des Direktionsausschusses nach Artikel 1 Abs. a Ziffer ii und iii und Abs. b des Pariser Übereinkommens durch Rechtsverordnung in Kraft zu setzen, sofern dies zur Erfüllung der in § 1 bezeichneten Zwecke erforderlich ist.
 
 # § 12b – Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe
 
@@ -712,7 +711,7 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (2) Die Vorsorge nach Absatz 1 muß
 
-1. bei Anlagen und Tätigkeiten, bei denen eine Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4, nach § 25a oder nach einem der in § 25a Abs. 2 genannten internationalen Verträge in Betracht kommt, in einem angemessenen Verhältnis zur Gefährlichkeit der Anlage oder der Tätigkeit stehen,
+1. bei Anlagen und Tätigkeiten, bei denen sich die Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4, nach § 25a, nach einem der in § 25a Abs. 2 genannten internationalen Verträge oder nach § 26 Abs. 1 in Verbindung mit Abs. 1a bestimmt, in einem angemessenen Verhältnis zur Gefährlichkeit der Anlage oder der Tätigkeit stehen; soweit sich die Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4 bestimmt, darf die Deckungsvorsorge die in Artikel 7 Abs. a und b des Pariser Übereinkommens festgelegten Beträge nicht unterschreiten,
 
 2. in den übrigen Fällen einer Tätigkeit, die auf Grund dieses Gesetzes oder auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung der Genehmigung bedarf, die Erfüllung gesetzlicher Schadensersatzverpflichtungen in dem nach den Umständen gebotenen Ausmaß sicherstellen.
 
@@ -732,7 +731,7 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (1) Sind der zur Deckungsvorsorge verpflichtete Inhaber einer Kernanlage und ein Geschädigter im Zeitpunkt des Eintritts des nuklearen Ereignisses Konzernunternehmen eines Konzerns im Sinne des § 18 des Aktiengesetzes, so darf die Deckungsvorsorge zur Erfüllung gesetzlicher Schadensersatzansprüche dieses Geschädigten nur herangezogen werden, wenn dadurch nicht die Deckung der Ersatzansprüche sonstiger Geschädigter beeinträchtigt wird. Kernanlagen im Sinne des Satzes 1 sind auch Reaktoren, die Teil eines Beförderungsmittels sind.
 
-(2) Ist ein Schaden an einer industriellen Anlage in der Nähe der Kernanlage eingetreten, so findet Absatz 1 Satz 1 entsprechende Anwendung, wenn der Standort dazu dient, aus der Kernanlage stammende Energie für Produktionsprozesse zu nutzen.
+(2) Ist ein nuklearer Schaden an einer industriellen Anlage in der Nähe der Kernanlage eingetreten, so findet Absatz 1 Satz 1 entsprechende Anwendung, wenn der Standort dazu dient, aus der Kernanlage stammende Energie für Produktionsprozesse zu nutzen.
 
 (3) Die Deckungsvorsorge darf zur Erfüllung von Ansprüchen nach § 28 Absatz 3 nur herangezogen werden, wenn dadurch nicht die Deckung der Ersatzansprüche sonstiger Geschädigter beeinträchtigt wird.
 
@@ -976,15 +975,15 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 # § 25 – Haftung für Kernanlagen
 
-(1) Beruht ein Schaden auf einem von einer Kernanlage ausgehenden nuklearen Ereignis, so gelten für die Haftung des Inhabers der Kernanlage ergänzend zu den Bestimmungen des Pariser Übereinkommens und des Gemeinsamen Protokolls die Vorschriften dieses Gesetzes. Das Pariser Übereinkommen ist unabhängig von seiner völkerrechtlichen Verbindlichkeit für die Bundesrepublik Deutschland innerstaatlich anzuwenden, soweit nicht seine Regeln eine durch das Inkrafttreten des Übereinkommens bewirkte Gegenseitigkeit voraussetzen.
+(1) Beruht ein nuklearer Schaden auf einem von einer Kernanlage ausgehenden nuklearen Ereignis, so gelten für die Haftung des Inhabers der Kernanlage ergänzend zu den Bestimmungen des Pariser Übereinkommens und des Gemeinsamen Protokolls die Vorschriften dieses Gesetzes. Das Pariser Übereinkommen ist unabhängig von seiner völkerrechtlichen Verbindlichkeit für die Bundesrepublik Deutschland innerstaatlich anzuwenden, soweit nicht seine Regeln eine durch das Inkrafttreten des Übereinkommens bewirkte Gegenseitigkeit voraussetzen.
 
-(2) Hat im Falle der Beförderung von Kernmaterialien einschließlich der damit zusammenhängenden Lagerung der Beförderer durch Vertrag die Haftung anstelle des Inhabers einer im Geltungsbereich dieses Gesetzes gelegenen Kernanlage übernommen, gilt er als Inhaber einer Kernanlage vom Zeitpunkt der Haftungsübernahme an. Der Vertrag bedarf der Schriftform. Die Haftungsübernahme ist nur wirksam, wenn sie vor Beginn der Beförderung oder der damit zusammenhängenden Lagerung von Kernmaterialien durch die für die Genehmigung der Beförderung zuständige Behörde auf Antrag des Beförderers genehmigt worden ist. Die Genehmigung darf nur erteilt werden, wenn der Beförderer im Geltungsbereich dieses Gesetzes als Frachtführer zugelassen ist oder als Spediteur im Geltungsbereich dieses Gesetzes seine geschäftliche Hauptniederlassung hat und der Inhaber der Kernanlage gegenüber der Behörde seine Zustimmung erklärt hat.
+(2) Hat im Falle der Beförderung von Kernmaterialien einschließlich der damit zusammenhängenden Lagerung der Beförderer durch Vertrag die Haftung anstelle des Inhabers einer im Inland gelegenen Kernanlage übernommen, gilt er als Inhaber einer Kernanlage vom Zeitpunkt der Haftungsübernahme an. Der Vertrag bedarf der Schriftform. Die Haftungsübernahme ist nur wirksam, wenn sie vor Beginn der Beförderung oder der damit zusammenhängenden Lagerung von Kernmaterialien durch die für die Genehmigung der Beförderung zuständige Behörde auf Antrag des Beförderers genehmigt worden ist. Die Genehmigung darf nur erteilt werden, wenn der Beförderer im Inland als Frachtführer oder Spediteur zur Beförderung befugt ist und der Inhaber der Kernanlage gegenüber der Behörde seine Zustimmung erklärt hat.
 
-(3) Die Bestimmungen des Artikels 9 des Pariser Übereinkommens über den Haftungsausschluß bei Schäden, die auf nuklearen Ereignissen beruhen, die unmittelbar auf Handlungen eines bewaffneten Konfliktes, von Feindseligkeiten, eines Bürgerkrieges, eines Aufstandes oder auf eine schwere Naturkatastrophe außergewöhnlicher Art zurückzuführen sind, sind nicht anzuwenden. Tritt der Schaden in einem anderen Staat ein, so gilt Satz 1 nur, soweit der andere Staat zum Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine nach Art, Ausmaß und Höhe gleichwertige Regelung sichergestellt hat.
+(3) Die Bestimmungen des Artikels 9 des Pariser Übereinkommens über den Haftungsausschluss bei einem nuklearen Schaden, der auf einem nuklearen Ereignis beruht, das unmittelbar auf Handlungen eines bewaffneten Konfliktes, von Feindseligkeiten, eines Bürgerkrieges oder eines Aufstandes zurückzuführen ist, sind nicht anzuwenden. Tritt der nukleare Schaden in einem anderen Staat ein, so gilt Satz 1 nur, soweit der andere Staat zum Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine nach Art, Ausmaß und Höhe gleichwertige Regelung sichergestellt hat.
 
-(4) Der Inhaber einer Kernanlage haftet unabhängig vom Ort des Schadenseintritts. Artikel 2 des Pariser Übereinkommens findet keine Anwendung.
+(4) Artikel 2 des Pariser Übereinkommens gilt mit der Maßgabe, dass in den Fällen des Absatzes a Ziffer iv der Vorschrift der Inhaber der Kernanlage auch dann haftet, wenn in dem Nichtvertragsstaat eine Gesetzgebung über die Haftung für nuklearen Schaden in Kraft ist, die auf Grundsätzen beruht, die mit denen des Pariser Übereinkommens nicht identisch sind.
 
-(5) Der Inhaber einer Kernanlage haftet nicht nach dem Pariser Übereinkommen, sofern der Schaden durch ein nukleares Ereignis verursacht wurde, das auf Kernmaterialien zurückzuführen ist, die in Anlage 2 zu diesem Gesetz bezeichnet sind.
+(5) Der Inhaber einer Kernanlage haftet nicht nach dem Pariser Übereinkommen, sofern der Schaden durch ein nukleares Ereignis verursacht wurde, das auf Kernanlagen, Kernbrennstoffe und Kernmaterialien zurückzuführen ist, die der Direktionsausschuss auf Grund der Ermächtigung in Artikel 1 Abs. b des Pariser Übereinkommens von der Anwendung des Übereinkommens ausgeschlossen hat und die in einer Rechtsverordnung nach § 12a bezeichnet sind.
 
 # § 25a – Haftung für Reaktorschiffe
 
@@ -994,17 +993,17 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 2. Tritt der Schaden in einem anderen Staat ein, so gilt § 31 Abs. 1 hinsichtlich des den Höchstbetrag des Brüsseler Reaktorschiff-Übereinkommens überschreitenden Betrags nur, soweit das Recht dieses Staates zum Zeitpunkt des nuklearen Ereignisses eine auch im Verhältnis zur Bundesrepublik Deutschland anwendbare, nach Art, Ausmaß und Höhe gleichwertige Regelung der Haftung der Inhaber von Reaktorschiffen vorsieht. § 31 Abs. 2, §§ 36, 38 Abs. 1 und § 40 sind nicht anzuwenden.
 
-3. § 34 gilt nur für Reaktorschiffe, die berechtigt sind, die Bundesflagge zu führen. Wird ein Reaktorschiff im Geltungsbereich dieses Gesetzes für einen anderen Staat oder Personen eines anderen Staates gebaut oder mit einem Reaktor ausgerüstet, so gilt § 34 bis zu dem Zeitpunkt, in dem das Reaktorschiff in dem anderen Staat registriert wird oder das Recht erwirbt, die Flagge eines anderen Staates zu führen. Die sich aus § 34 ergebende Freistellungsverpflichtung ist zu 75 vom Hundert vom Bund und im übrigen von dem für die Genehmigung des Reaktorschiffs nach § 7 zuständigen Land zu tragen.
+3. § 34 gilt nur für Reaktorschiffe, die berechtigt sind, die Bundesflagge zu führen. Wird ein Reaktorschiff im Inland für einen anderen Staat oder Personen eines anderen Staates gebaut oder mit einem Reaktor ausgerüstet, so gilt § 34 bis zu dem Zeitpunkt, in dem das Reaktorschiff in dem anderen Staat registriert wird oder das Recht erwirbt, die Flagge eines anderen Staates zu führen. Die sich aus § 34 ergebende Freistellungsverpflichtung ist zu 75 vom Hundert vom Bund und im übrigen von dem für die Genehmigung des Reaktorschiffs nach § 7 zuständigen Land zu tragen.
 
-4. Bei Reaktorschiffen, die nicht berechtigt sind, die Bundesflagge zu führen, gilt dieser Abschnitt nur, wenn durch das Reaktorschiff verursachte nukleare Schäden im Geltungsbereich dieses Gesetzes eingetreten sind.
+4. Bei Reaktorschiffen, die nicht berechtigt sind, die Bundesflagge zu führen, gilt dieser Abschnitt nur, wenn durch das Reaktorschiff verursachte Schäden im Inland eingetreten sind.
 
-5. Für Schadensersatzansprüche sind die Gerichte des Staates zuständig, dessen Flagge das Reaktorschiff zu führen berechtigt ist; in den Fällen der Nummer 4 ist auch das Gericht des Ortes im Geltungsbereich dieses Gesetzes zuständig, an dem der nukleare Schaden eingetreten ist.
+5. Für Schadensersatzansprüche sind die Gerichte des Staates zuständig, dessen Flagge das Reaktorschiff zu führen berechtigt ist; in den Fällen der Nummer 4 ist auch das Gericht des Ortes im Inland zuständig, an dem der Schaden eingetreten ist.
 
 (2) Soweit internationale Verträge über die Haftung für Reaktorschiffe zwingend abweichende Bestimmungen enthalten, haben diese Vorrang vor den Bestimmungen dieses Gesetzes.
 
 # § 26 – Haftung in anderen Fällen
 
-(1) Wird in anderen als den in dem Pariser Übereinkommen in Verbindung mit den in § 25 Abs. 1 bis 4 bezeichneten Fällen durch die Wirkung eines Kernspaltungsvorgangs oder der Strahlen eines radioaktiven Stoffes oder durch die von einer Anlage zur Erzeugung ionisierender Strahlen ausgehende Wirkung ionisierender Strahlen ein Mensch getötet oder der Körper oder die Gesundheit eines anderen verletzt oder eine Sache beschädigt, so ist der Besitzer des von der Kernspaltung betroffenen Stoffes, des radioaktiven Stoffes oder der Anlage zur Erzeugung ionisierender Strahlen verpflichtet, den daraus entstehenden Schaden nach den §§ 27 bis 30, 31 Abs. 3, § 32 Abs. 1, 4 und 5 und § 33 zu ersetzen. Die Ersatzpflicht tritt nicht ein, wenn der Schaden durch ein Ereignis verursacht wird, das der Besitzer und die für ihn im Zusammenhang mit dem Besitz tätigen Personen auch bei Anwendung jeder nach den Umständen gebotenen Sorgfalt nicht vermeiden konnten und das weder auf einen Fehler in der Beschaffenheit der Schutzeinrichtungen noch auf einem Versagen ihrer Verrichtungen beruht.
+(1) Wird in anderen als den in dem Pariser Übereinkommen in Verbindung mit den in § 25 Abs. 1 bis 4 bezeichneten Fällen durch die Wirkung eines Kernspaltungsvorgangs oder der Strahlen eines radioaktiven Stoffes oder durch die von einer Anlage zur Erzeugung ionisierender Strahlen ausgehende Wirkung ionisierender Strahlen ein Mensch getötet oder der Körper oder die Gesundheit eines anderen verletzt oder eine Sache beschädigt, so ist der Besitzer des von der Kernspaltung betroffenen Stoffes, des radioaktiven Stoffes oder der Anlage zur Erzeugung ionisierender Strahlen verpflichtet, den daraus entstehenden Schaden nach den §§ 27 bis 30, 31 Abs. 3, § 32 Abs. 1, 4 und 5 und § 33 zu ersetzen. Die Ersatzpflicht tritt nicht ein, wenn der Schaden durch ein Ereignis verursacht wird, das der Besitzer und die für ihn im Zusammenhang mit dem Besitz tätigen Personen auch bei Anwendung jeder nach den Umständen gebotenen Sorgfalt nicht vermeiden konnten und das weder auf einem Fehler in der Beschaffenheit der Schutzeinrichtungen noch auf einem Versagen ihrer Verrichtungen beruht.
 
 (1a) Absatz 1 Satz 2 findet keine Anwendung auf Schäden, die durch radioaktive Stoffe entstehen, die bei Anwendung des Pariser Übereinkommens, des Brüsseler Reaktorschiff-Übereinkommens oder des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll unter die Begriffsbestimmungen Kernbrennstoffe sowie radioaktive Erzeugnisse und Abfälle dieser Übereinkommen fallen würden.
 
@@ -1026,7 +1025,7 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 # § 27 – Mitwirkendes Verschulden des Verletzten
 
-Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei Beschädigung einer Sache steht das Verschulden desjenigen, der die tatsächliche Gewalt über sie ausübt, dem Verschulden des Verletzten gleich.
+Hat bei Entstehung des nuklearen Schadens Vorsatz oder grobe Fahrlässigkeit des Verletzten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs entsprechend. Bei Beschädigung einer Sache steht Vorsatz oder grobe Fahrlässigkeit desjenigen, der die tatsächliche Gewalt über sie ausübt, Vorsatz oder grober Fahrlässigkeit des Verletzten gleich.
 
 # § 28 – Umfang des Schadensersatzes bei Tötung
 
@@ -1054,21 +1053,21 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (1) Die Haftung des Inhabers einer Kernanlage nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem Pariser Übereinkommen und dem Gemeinsamen Protokoll in Verbindung mit § 25 Abs. 1, 2 und 4 ist summenmäßig unbegrenzt. In den Fällen des § 25 Abs. 3 wird die Haftung des Inhabers auf den Höchstbetrag der staatlichen Freistellungsverpflichtung begrenzt.
 
-(2) Tritt der Schaden in einem anderen Staat ein, so findet Absatz 1 nur dann und insoweit Anwendung, als der andere Staat zum Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine dem Absatz 1 nach Art, Ausmaß und Höhe gleichwertige Regelung sichergestellt hat. Im übrigen ist bei Schäden in einem anderen Staat die Haftung des Inhabers einer Kernanlage auf den Betrag begrenzt, den der andere Staat im Zeitpunkt des nuklearen Ereignisses unter Einbeziehung einer zusätzlichen Entschädigung auf Grund internationaler Übereinkommen für den Ersatz von Schäden infolge nuklearer Ereignisse im Verhältnis zur Bundesrepublik Deutschland vorsieht. Im Verhältnis zu Staaten, auf deren Hoheitsgebiet sich keine Kernanlagen befinden, ist die Haftung des Inhabers einer Kernanlage auf den Höchstbetrag nach dem Brüsseler Zusatzübereinkommen beschränkt.
+(2) Tritt der nukleare Schaden im Hoheitsgebiet oder in den völkerrechtlich festgelegten Meereszonen eines anderen Staates ein, so ist Absatz 1 nur dann und insoweit anzuwenden, als der andere Staat zum Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine Regelung sichergestellt hat, die dem Absatz 1 nach Art, Ausmaß und Höhe gleichwertig ist. Im Übrigen ist bei einem nuklearen Schaden im Hoheitsgebiet oder in den völkerrechtlich festgelegten Meereszonen eines anderen Staates die Haftung des Inhabers einer Kernanlage auf den Betrag begrenzt, den der andere Staat zum Zeitpunkt des nuklearen Ereignisses unter Einbeziehung einer zusätzlichen Entschädigung auf Grund internationaler Übereinkommen für den Ersatz von nuklearem Schaden infolge eines nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland vorsieht. Die Sätze 1 und 2 gelten auch für nuklearen Schaden, der an Bord eines Schiffes oder Luftfahrzeugs, das von einem anderen Staat registriert wurde, entsteht, soweit sich das Schiff oder das Luftfahrzeug auf oder über der Hohen See außerhalb von Hoheitsgebieten oder völkerrechtlich festgelegten Meereszonen von Staaten befindet. Die Sätze 1 bis 3 sind nicht auf Staaten anzuwenden, die zum Zeitpunkt des nuklearen Ereignisses in ihrem Hoheitsgebiet oder in ihren völkerrechtlich festgelegten Meereszonen keine Kernanlagen besitzen.
 
 (2a) Absatz 2 gilt auch für die Haftung des Besitzers eines radioaktiven Stoffes in den Fällen des § 26 Abs. 1a.
 
-(3) Der nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem Pariser Übereinkommen und dem Gemeinsamen Protokoll in Verbindung mit § 25 Abs. 1, 2 und 4 oder der nach § 26 Ersatzpflichtige haftet im Falle der Sachbeschädigung nur bis zur Höhe des gemeinen Wertes der beschädigten Sache zuzüglich der Kosten für die Sicherung gegen die von ihr ausgehende Strahlengefahr. Bei einer Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 ist Ersatz für Schäden am Beförderungsmittel, auf dem sich die Kernmaterialien zur Zeit des nuklearen Ereignisses befunden haben, nur dann zu leisten, wenn die Befriedigung anderer Schadensersatzansprüche in den Fällen des Absatzes 1 aus dem Höchstbetrag der staatlichen Freistellungsverpflichtung, in den Fällen des Absatzes 2 aus der Haftungshöchstsumme sichergestellt ist.
+(3) Der nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem Pariser Übereinkommen und dem Gemeinsamen Protokoll in Verbindung mit § 25 Abs. 1, 2 und 4 oder der nach § 26 Ersatzpflichtige haftet im Falle der Sachbeschädigung nur bis zur Höhe des gemeinen Wertes der beschädigten Sache zuzüglich der Kosten für die Sicherung gegen die von ihr ausgehende Strahlengefahr. Bei einer Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 ist Ersatz für einen nuklearen Schaden am Beförderungsmittel, auf dem sich die Kernmaterialien zur Zeit des nuklearen Ereignisses befunden haben, nur dann zu leisten, wenn sich dadurch die für die Befriedigung anderer Schadensersatzansprüche zur Verfügung stehende Summe nicht auf einen Betrag vermindert, der unter 80 Millionen Euro liegt.
 
 # § 32 – Verjährung
 
 (1) Die nach diesem Abschnitt begründeten Ansprüche auf Schadensersatz verjähren in drei Jahren von dem Zeitpunkt an, in welchem der Ersatzberechtigte von dem Schaden und von der Person des Ersatzpflichtigen Kenntnis erlangt hat oder hätte erlangen müssen, ohne Rücksicht darauf in dreißig Jahren von dem schädigenden Ereignis an.
 
-(2) In den Fällen des Artikels 8 Abs. b des Pariser Übereinkommens tritt an die Stelle der dreißigjährigen Verjährungsfrist des Absatzes 1 eine Verjährungsfrist von zwanzig Jahren ab Diebstahl, Verlust, Überbordwerfen oder Besitzaufgabe.
+(2) (weggefallen)
 
-(3) Ansprüche auf Grund des Pariser Übereinkommens, die innerhalb von zehn Jahren nach dem nuklearen Ereignis gegen den Inhaber der Kernanlage wegen der Tötung oder Verletzung eines Menschen gerichtlich geltend gemacht werden, haben Vorrang vor Ansprüchen, die nach Ablauf dieser Frist erhoben werden.
+(3) Ansprüche auf Grund des Pariser Übereinkommens, die innerhalb von zehn Jahren nach dem nuklearen Ereignis gegen den Inhaber der Kernanlage wegen nuklearen Schadens, der nicht die Tötung oder Verletzung eines Menschen ist, gerichtlich geltend gemacht werden, haben Vorrang vor solchen Ansprüchen, die nach Ablauf dieser Frist erhoben werden.
 
-(4) Schweben zwischen dem Ersatzpflichtigen und dem Ersatzberechtigten Verhandlungen über den zu leistenden Schadensersatz, so ist die Verjährung gehemmt, bis der eine oder der andere Teil die Fortsetzung der Verhandlungen verweigert.
+(4) (weggefallen)
 
 (5) Im übrigen finden die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung Anwendung.
 
@@ -1080,7 +1079,7 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 # § 34 – Freistellungsverpflichtung
 
-(1) Haben sich infolge von Wirkungen eines nuklearen Ereignisses gesetzliche Schadensersatzverpflichtungen des Inhabers einer im Geltungsbereich dieses Gesetzes gelegenen Kernanlage nach den Bestimmungen des Pariser Übereinkommens in Verbindung mit § 25 Abs. 1 bis 4 sowie des Pariser Übereinkommens und des Gemeinsamen Protokolls in Verbindung mit § 25 Abs. 1 bis 4 oder auf Grund des auf den Schadensfall anwendbaren Rechts eines fremden Staates oder in den Fällen des § 26 Abs. 1a ergeben, so hat der Bund den Inhaber der Kernanlage oder den Besitzer radioaktiver Stoffe von Schadensersatzverpflichtungen freizustellen, soweit diese von der Deckungsvorsorge nicht gedeckt sind oder aus ihr nicht erfüllt werden können. Der Höchstbetrag der Freistellungsverpflichtung beträgt 2,5 Milliarden Euro. Die Freistellungsverpflichtung beschränkt sich auf diesen Höchstbetrag abzüglich des Betrages, in dessen Höhe die entstandenen Schadensersatzverpflichtungen von der Deckungsvorsorge gedeckt sind und aus ihr erfüllt werden können.
+(1) Haben sich infolge von Wirkungen eines nuklearen Ereignisses gesetzliche Schadensersatzverpflichtungen des Inhabers einer im Inland gelegenen Kernanlage nach den Bestimmungen des Pariser Übereinkommens in Verbindung mit § 25 Abs. 1 bis 4 sowie des Pariser Übereinkommens und des Gemeinsamen Protokolls in Verbindung mit § 25 Abs. 1 bis 4 oder auf Grund des auf den Schadensfall anwendbaren Rechts eines fremden Staates oder in den Fällen des § 26 Abs. 1a ergeben, so hat der Bund den Inhaber der Kernanlage oder den Besitzer radioaktiver Stoffe von Schadensersatzverpflichtungen freizustellen, soweit diese von der Deckungsvorsorge nicht gedeckt sind oder aus ihr nicht erfüllt werden können. Der Höchstbetrag der Freistellungsverpflichtung beträgt 2,5 Milliarden Euro. Die Freistellungsverpflichtung beschränkt sich auf diesen Höchstbetrag abzüglich des Betrages, in dessen Höhe die entstandenen Schadensersatzverpflichtungen von der Deckungsvorsorge gedeckt sind und aus ihr erfüllt werden können.
 
 (2) Ist nach dem Eintritt eines schädigenden Ereignisses mit einer Inanspruchnahme der Freistellungsverpflichtung zu rechnen, so ist der Inhaber der Kernanlage oder der Besitzer eines radioaktiven Stoffes verpflichtet,
 
@@ -1118,27 +1117,13 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 # § 38 – Ausgleich durch den Bund
 
-(1) Hat ein durch ein nukleares Ereignis Geschädigter seinen Schaden im Geltungsbereich dieses Gesetzes erlitten und kann er nach dem auf den Schadensfall anwendbaren Recht eines anderen Vertragsstaates des Pariser Übereinkommens oder des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll keinen Ersatz verlangen, weil
+(1) Hat ein durch ein nukleares Ereignis Geschädigter seinen Schaden im Inland erlitten und gewähren ihm das auf den Schadensfall anwendbare Recht eines anderen Staates oder die Bestimmungen eines völkerrechtlichen Vertrages keinen Anspruch auf Schadensersatz oder Ansprüche, die nach Art, Ausmaß und Umfang des Ersatzes wesentlich hinter dem Schadensersatz zurückbleiben, der dem Geschädigten bei Anwendung dieses Gesetzes zugesprochen worden wäre, so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflichtung einen Ausgleich. Satz 1 gilt entsprechend, wenn die Rechtsverfolgung in dem Staat, von dessen Hoheitsgebiet das schädigende Ereignis ausgegangen ist, aussichtslos ist.
 
-1. das nukleare Ereignis im Hoheitsgebiet eines Nichtvertragsstaates des Pariser Übereinkommens oder des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll eingetreten ist,
+(2) (weggefallen)
 
-2. der Schaden durch ein nukleares Ereignis verursacht worden ist, das unmittelbar auf Handlungen eines bewaffneten Konfliktes, von Feindseligkeiten, eines Bürgerkrieges, eines Aufstandes oder auf eine schwere Naturkatastrophe außergewöhnlicher Art zurückzuführen ist,
+(3) Absatz 1 ist auf Geschädigte, die nicht Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind und die ihren gewöhnlichen Aufenthalt nicht im Inland haben, nicht anzuwenden, soweit der Heimatstaat im Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine nach Art, Ausmaß und Höhe gleichwertige Regelung nicht sichergestellt hat.
 
-3. das anzuwendende Recht eine Haftung für Schäden an dem Beförderungsmittel, auf dem sich die Kernmaterialien zur Zeit des Eintritts des nuklearen Ereignisses befunden haben, nicht vorsieht,
-
-4. das anzuwendende Recht eine Haftung des Inhabers nicht vorsieht, wenn der Schaden durch die ionisierende Strahlung einer sonstigen in der Kernanlage befindlichen Strahlenquelle verursacht worden ist,
-
-5. das anzuwendende Recht eine kürzere Verjährung oder Ausschlußfrist als dieses Gesetz vorsieht oder
-
-6. die zum Schadensersatz zur Verfügung stehenden Mittel hinter dem Höchstbetrag der staatlichen Freistellungsverpflichtung zurückbleiben,
-
-so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflichtung einen Ausgleich.
-
-(2) Der Bund gewährt ferner bis zum Höchstbetrag der staatlichen Freistellungsverpflichtung einen Ausgleich, wenn das auf einen im Geltungsbereich dieses Gesetzes erlittenen Schaden anwendbare ausländische Recht oder die Bestimmungen eines völkerrechtlichen Vertrages dem Verletzten Ansprüche gewähren, die nach Art, Ausmaß und Umfang des Ersatzes wesentlich hinter dem Schadensersatz zurückbleiben, der dem Geschädigten bei Anwendung dieses Gesetzes zugesprochen worden wäre, oder wenn die Rechtsverfolgung in dem Staat, von dessen Hoheitsgebiet das schädigende Ereignis ausgegangen ist, aussichtslos ist.
-
-(3) Die Absätze 1 und 2 sind auf Geschädigte, die nicht Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind und die ihren gewöhnlichen Aufenthalt nicht im Geltungsbereich dieses Gesetzes haben, nicht anzuwenden, soweit der Heimatstaat im Zeitpunkt des nuklearen Ereignisses im Verhältnis zur Bundesrepublik Deutschland eine nach Art, Ausmaß und Höhe gleichwertige Regelung nicht sichergestellt hat.
-
-(4) Ansprüche nach den Absätzen 1 und 2 sind bei dem Bundesverwaltungsamt geltend zu machen. Sie erlöschen in drei Jahren von dem Zeitpunkt an, in dem die auf Grund ausländischen oder internationalen Rechts ergangene Entscheidung über den Schadensersatz unanfechtbar geworden ist oder erkennbar wird, dass die Rechtsverfolgung im Sinne des Absatzes 2 aussichtslos ist.
+(4) Ansprüche nach Absatz 1 sind bei dem Bundesverwaltungsamt geltend zu machen. Sie erlöschen in drei Jahren von dem Zeitpunkt an, in dem die auf Grund ausländischen oder internationalen Rechts ergangene Entscheidung über den Schadensersatz unanfechtbar geworden ist oder erkennbar wird, dass die Rechtsverfolgung im Sinne des Absatzes 1 Satz 2 aussichtslos ist.
 
 # § 39 – Ausnahmen von den Leistungen des Bundes
 
@@ -1148,23 +1133,39 @@ so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflic
 
 # § 40 – Klagen gegen den Inhaber einer Kernanlage, die in einem anderen Vertragsstaat gelegen ist
 
-(1) Ist nach den Bestimmungen des Pariser Übereinkommens ein Gericht im Geltungsbereich dieses Gesetzes für die Entscheidung über die Schadensersatzklage gegen den Inhaber einer in einem anderen Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage zuständig, so bestimmt sich die Haftung des Inhabers nach den Vorschriften dieses Gesetzes.
+(1) Ist nach den Bestimmungen des Pariser Übereinkommens ein Gericht der Bundesrepublik Deutschland für die Entscheidung über die Schadensersatzklage gegen den Inhaber einer in einem anderen Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage zuständig, so bestimmt sich die Haftung des Inhabers nach den Vorschriften dieses Gesetzes.
 
 (2) Abweichend von Absatz 1 bestimmt sich nach dem Recht des Vertragsstaates, in dem die Kernanlage gelegen ist,
 
 1. wer als Inhaber anzusehen ist,
 
-2. ob sich die Ersatzpflicht des Inhabers auch auf nukleare Schäden in einem Staat erstreckt, der nicht Vertragsstaat des Pariser Übereinkommens ist,
+2. ob sich die Ersatzpflicht des Inhabers auch auf einen nuklearen Schaden in einem Staat erstreckt, der nicht Vertragsstaat des Pariser Übereinkommens ist,
 
-3. ob sich die Haftung des Inhabers auf nukleare Schäden erstreckt, die durch die Strahlen einer sonstigen in einer Kernanlage befindlichen Strahlungsquelle verursacht sind,
+3. (weggefallen)
 
-4. ob und inwieweit sich die Haftung des Inhabers auf Schäden an dem Beförderungsmittel erstreckt, auf dem sich die Kernmaterialien zur Zeit des nuklearen Ereignisses befunden haben,
+4. (weggefallen)
 
 5. bis zu welchem Höchstbetrag der Inhaber haftet,
 
 6. nach welcher Frist der Anspruch gegen den Inhaber verjährt oder ausgeschlossen ist,
 
 7. ob und inwieweit ein nuklearer Schaden in den Fällen des Artikels 9 des Pariser Übereinkommens ersetzt wird.
+
+# § 40a – Gerichtsstand für Schadensersatzklagen gegen den Inhaber einer Kernanlage
+
+(1) Für Schadensersatzklagen auf Grund des Pariser Übereinkommens oder auf Grund des Pariser Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll, für die nach den Bestimmungen des Pariser Übereinkommens die Gerichte der Bundesrepublik Deutschland zuständig sind, ist das Landgericht ausschließlich zuständig, in dessen Bezirk das nukleare Ereignis eingetreten ist oder, in den Fällen des Artikels 13 Abs. c des Pariser Übereinkommens, der Sitz des haftpflichtigen Inhabers der Kernanlage gelegen ist. Tritt das nukleare Ereignis im Bereich der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland ein, so ist das Landgericht Hamburg ausschließlich zuständig.
+
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnungen für die Bezirke mehrerer Landgerichte eines dieser Gerichte als Gericht für die in Absatz 1 Satz 1 genannten Klagen zu bestimmen. Die Landesregierungen können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
+
+(3) Durch Staatsverträge zwischen Ländern kann die Zuständigkeit eines Landgerichts für das gesamte Gebiet mehrerer Länder begründet werden.
+
+# § 40b – Gerichtsstand bei Klagen auf Freistellung nach § 34
+
+Für Klagen des Inhabers einer Kernanlage oder des Besitzers eines radioaktiven Stoffes gegen den Bund und das zuständige Land auf Freistellung nach § 34 ist das Landgericht am Sitz der Bundesregierung ausschließlich zuständig.
+
+# § 40c – Staatenklagerecht
+
+Ein anderer Vertragsstaat des Pariser Übereinkommens oder ein Vertragsstaat des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll oder ein sonstiger Nichtvertragsstaat im Sinne des Artikels 2 Abs. a des Pariser Übereinkommens ist befugt, Schadensersatzansprüche für Personen gerichtlich geltend zu machen, die einen nuklearen Schaden erlitten haben und Angehörige dieses Staates sind oder ihren Wohnsitz oder Aufenthalt in dessen Hoheitsgebiet haben und ihr Einverständnis dazu erklärt haben.
 
 # § 41 – Integriertes Sicherungs- und Schutzkonzept
 
@@ -1266,11 +1267,9 @@ Schäden, die nach dem Stand der wissenschaftlichen Erkenntnis aus der Einwirkun
 
 \-
 
-# § 56 – Genehmigungen auf Grund Landesrechts
+# § 56 – (weggefallen)
 
-(1) Die auf Grund Landesrechts erteilten Genehmigungen, Befreiungen und Zustimmungen für die Errichtung und den Betrieb von Anlagen im Sinne des § 7 bleiben wirksam. Sie stehen einer nach § 7 erteilten Genehmigung, die mit ihnen verbundenen Auflagen den gemäß § 17 Abs. 1 angeordneten Auflagen gleich. Soweit mit der landesrechtlichen Genehmigung Bestimmungen über die vom Inhaber der Anlage zu treffende Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen verbunden sind, gelten diese vorbehaltlich des Absatzes 2 als Festsetzung im Sinne des § 13 Abs. 1.
-
-(2) Die vom Inhaber der Anlage zu treffende Deckungsvorsorge wird von der Verwaltungsbehörde (§ 24 Abs. 2) innerhalb von drei Monaten nach Inkrafttreten des Gesetzes festgesetzt; § 13 Abs. 1 Satz 2 letzter Halbsatz gilt entsprechend. Wird gemäß § 13 Abs. 4 eine Einstandspflicht festgesetzt, so wirkt diese auf den Zeitpunkt des Inkrafttretens dieses Gesetzes zurück.
+\-
 
 # § 57 – Abgrenzungen
 
@@ -1340,44 +1339,7 @@ Der Störfallplanungswert für die Planung von Rückholungs- und Stilllegungsma�
 
 \-
 
-# Anlage 1 – Begriffsbestimmungen nach § 2 Abs. 4
-
-Fundstelle des Originaltextes: BGBl. I 1985, 1583;  
-bzgl. der einzelnen Änderungen vgl. Fußnote
-
-(1) Es bedeuten die Begriffe:
-
-1. "nukleares Ereignis": jedes einen Schaden verursachende Geschehnis oder jede Reihe solcher aufeinander folgender Geschehnisse desselben Ursprungs, sofern das Geschehnis oder die Reihe von Geschehnissen oder der Schaden von den radioaktiven Eigenschaften oder einer Verbindung der radioaktiven Eigenschaften mit giftigen, explosiven oder sonstigen gefährlichen Eigenschaften von Kernbrennstoffen oder radioaktiven Erzeugnissen oder Abfällen oder von den von einer anderen Strahlenquelle innerhalb der Kernanlage ausgehenden ionisierenden Strahlungen herrührt oder sich daraus ergibt;
-
-2. "Kernanlage": Reaktoren, ausgenommen solche, die Teil eines Beförderungsmittels sind; Fabriken für die Erzeugung oder Bearbeitung von Kernmaterialien, Fabriken zur Trennung der Isotope von Kernbrennstoffen, Fabriken für die Aufarbeitung bestrahlter Kernbrennstoffe; Anlagen zur endgültigen Beseitigung von Kernmaterialien; Einrichtungen für die Lagerung von Kernmaterialien, ausgenommen die Lagerung solcher Materialien während der Beförderung; eine Kernanlage kann auch bestehen aus zwei oder mehr Kernanlagen eines einzigen Inhabers, die sich auf demselben Gelände befinden, zusammen mit anderen Anlagen auf diesem Gelände, in denen sich radioaktive Materialien befinden;
-
-3. "Kernbrennstoffe": spaltbare Materialien in Form von Uran als Metall, Legierung oder chemischer Verbindung (einschließlich natürlichen Urans), Plutonium als Metall, Legierung oder chemischer Verbindung;
-
-4. "radioaktive Erzeugnisse oder Abfälle"; radioaktive Materialien, die dadurch hergestellt oder radioaktiv gemacht werden, daß sie einer mit dem Vorgang der Herstellung oder Verwendung von Kernbrennstoffen verbundenen Bestrahlung ausgesetzt werden, ausgenommen
-
-a) Kernbrennstoffe,
-
-b) Radioisotope außerhalb einer Kernanlage, die das Endstadium der Herstellung erreicht haben, so daß sie für industrielle, kommerzielle, landwirtschaftliche, medizinische, wissenschaftliche Zwecke oder zum Zweck der Ausbildung verwendet werden können;
-
-5. "Kernmaterialien": Kernbrennstoffe (ausgenommen natürliches und abgereichertes Uran) sowie radioaktive Erzeugnisse und Abfälle;
-
-6. "Inhaber einer Kernanlage": derjenige, der von der zuständigen Behörde als Inhaber einer solchen bezeichnet oder angesehen wird.
-
-(2) Sonderziehungsrechte im Sinne dieses Gesetzes sind Sonderziehungsrechte des Internationalen Währungsfonds (BGBl. 1978 II S. 13), wie er sie für seine eigenen Operationen und Transaktionen verwendet.
-
-# Anlage 2 – Haftungs- und Deckungsfreigrenzen
-
-Fundstelle des Originaltextes: BGBl. I 1985, 1583
-
-  
-  
-§ 4 Abs. 3, § 4b Abs. 2 und § 25 Abs. 5 erfassen Kernbrennstoffe oder Kernmaterialien, deren Aktivität oder Menge
-
-1. in dem einzelnen Beförderungs- oder Versandstück oder
-
-2. in dem einzelnen Betrieb oder selbständigen Zweigbetrieb, bei Nichtgewerbetreibenden an dem Ort der Ausübung der Tätigkeit des Antragstellers
-
-das 10(hoch)5fache der Freigrenze nicht überschreitet und die bei angereichertem Uran nicht mehr als 350 Gramm Uran 235 enthalten. Freigrenze ist die Aktivität oder Menge, bis zu der es für den Umgang einer Genehmigung oder Anzeige nach diesem Gesetz, dem Strahlenschutzgesetz oder einer auf Grund dieser Gesetze erlassenen Rechtsverordnung nicht bedarf.
+# Anlage 1 und 2 – (weggefallen)
 
 # Anlage 3 – (zu § 7 Absatz 1a)Elektrizitätsmengen nach § 7 Absatz 1a
 

@@ -3,43 +3,17 @@
  
 # Inhaltsübersicht
 
-|                                                                          |       |
-|:-------------------------------------------------------------------------|:------|
-| Erster Abschnitt: Allgemeine Vorschriften                                |       |
-| Arten der Deckungsvorsorge                                               | § 1   |
-| Haftpflichtversicherung                                                  | § 2   |
-| Sonstige finanzielle Sicherheit                                          | § 3   |
-| Umfang der Deckungsvorsorge                                              | § 4   |
-| Nachweis der Deckungsvorsorge; Mitteilungen und Anzeigen                 | § 5   |
-| Auflagen                                                                 | § 6   |
-| Zweiter Abschnitt: Deckungssummen                                        |       |
-| Deckungssumme und Regeldeckungssumme                                     | § 7   |
-| Umgang und Beförderung                                                   | § 8   |
-| Beförderung von Kernmaterialien                                          | § 8a  |
-| Deckung bei Schäden gemäß § 26 Absatz 1a des Atomgesetzes                | § 8b  |
-| Reaktoren                                                                | § 9   |
-| Schiffsreaktoren                                                         | § 10  |
-| Sonstige Kernanlagen                                                     | § 11  |
-| Stilllegung von Kernanlagen                                              | § 12  |
-| Kernanlagen in fortgeschrittener Stilllegung                             | § 12a |
-| Anlagen zur Erzeugung ionisierender Strahlen                             | § 13  |
-| (weggefallen)                                                            | § 14  |
-| Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung | § 15  |
-| Ermittlung der Deckungssumme im Einzelfall                               | § 16  |
-| (weggefallen)                                                            | § 17  |
-| Deckungssumme bei mehrfachem Umgang                                      | § 18  |
-| Abrundung der Deckungssumme                                              | § 19  |
-| Dritter Abschnitt: Schlußvorschriften                                    |       |
-| Neufestsetzung der Deckungsvorsorge                                      | § 20  |
-| (weggefallen)                                                            | § 21  |
-| Inkrafttreten                                                            | § 22  |
-|                                                                          |       |
-| Anlage 1                                                                 |       |
-| Anlage 2                                                                 |       |
-| Anlage 3                                                                 |       |
-| Anlage 4                                                                 |       |
-| Anlage 5                                                                 |       |
-| Anlage 6                                                                 |       |
+Anlage 1
+
+Anlage 2
+
+Anlage 3
+
+Anlage 4
+
+Anlage 5
+
+Anlage 6
 
 # Eingangsformel
 
@@ -53,29 +27,29 @@ Die Deckungsvorsorge für Anlagen und Tätigkeiten, bei denen eine atomrechtlich
 
 2. eine sonstige finanzielle Sicherheit
 
-erbracht werden. Die Verwaltungsbehörde kann zulassen, daß mehrere Vorsorgemaßnahmen gleicher oder verschiedener Art verbunden werden, soweit die Wirksamkeit und die Übersichtlichkeit der Deckungsvorsorge dadurch nicht beeinträchtigt werden.
+erbracht werden. Die Verwaltungsbehörde kann zulassen, dass mehrere Vorsorgemaßnahmen gleicher oder verschiedener Art verbunden werden, soweit die Wirksamkeit und die Übersichtlichkeit der Deckungsvorsorge dadurch nicht beeinträchtigt werden.
 
 # § 2 – Haftpflichtversicherung
 
-(1) Durch eine Haftpflichtversicherung kann die Deckungsvorsorge nur erbracht werden, wenn sie bei einem im Inland zum Betrieb der Haftpflichtversicherung befugten Versicherungsunternehmen genommen wird. Für eine grenzüberschreitende Beförderung nach § 4a des Atomgesetzes kann sie auch bei einem Versicherungsunternehmen eines Drittstaates im Sinne des § 7 Nummer 34 des Versicherungsaufsichtsgesetzes, das in seinem Sitzland zum Betrieb der Haftpflichtversicherung befugt ist, genommen werden, wenn neben ihm ein nach Satz 1 befugtes Versicherungsunternehmen oder ein Verband solcher Versicherungsunternehmen die Pflichten eines Haftpflichtversicherers übernimmt.
+(1) Durch eine Haftpflichtversicherung kann die Deckungsvorsorge nur erbracht werden, wenn sie bei einem im Inland zum Betrieb der Haftpflichtversicherung befugten Versicherungsunternehmen genommen wird. Für eine grenzüberschreitende Beförderung nach § 4a des Atomgesetzes kann sie auch bei einem Versicherungsunternehmen eines Drittstaates im Sinne des § 7 Nummer 34 des Versicherungsaufsichtsgesetzes, das in seinem Sitzland zum Betrieb der Haftpflichtversicherung befugt ist, genommen werden, wenn neben ihm ein nach Satz 1 befugtes Versicherungsunternehmen oder ein Verband solcher Versicherungsunternehmen die Pflichten eines Haftpflichtversicherers übernimmt.
 
-(2) Sofern der Bund und die Länder verpflichtet sind, den zur Deckungsvorsorge Verpflichteten von Schadensersatzansprüchen freizustellen oder die Befriedigung der gegen ihn gerichteten Schadensersatzansprüche sicherzustellen, muß der Versicherungsvertrag zugunsten der Bundesrepublik Deutschland und des betroffenen Bundeslandes die Verpflichtung des Versicherers enthalten, der Verwaltungsbehörde jede Änderung des Vertrages, jedes Schadensereignis, jede Geltendmachung von Schadensersatzansprüchen und jede Leistung zur Erfüllung von Schadensersatzverpflichtungen unverzüglich anzuzeigen, sobald ihm diese Umstände bekannt werden.
+(2) Sofern der Bund und die Länder verpflichtet sind, den zur Deckungsvorsorge Verpflichteten von Schadensersatzansprüchen freizustellen oder die Befriedigung der gegen ihn gerichteten Schadensersatzansprüche sicherzustellen, muss der Versicherungsvertrag zugunsten der Bundesrepublik Deutschland und des betroffenen Bundeslandes die Verpflichtung des Versicherers enthalten, der Verwaltungsbehörde jede Änderung des Vertrages, jedes Schadensereignis, jede Geltendmachung von Schadensersatzansprüchen und jede Leistung zur Erfüllung von Schadensersatzverpflichtungen unverzüglich anzuzeigen, sobald ihm diese Umstände bekannt werden.
 
 (+++ § 2 Abs. 2: Zur Geltung vgl. § 3 Abs. 3 +++)
 
 # § 3 – Sonstige finanzielle Sicherheit
 
-(1) Durch eine sonstige finanzielle Sicherheit kann die Deckungsvorsorge nur erbracht werden, wenn gewährleistet ist, dass diese, solange mit ihrer Inanspruchnahme gerechnet werden muss, in dem von der behördlichen Festsetzung der Deckungsvorsorge gesetzten Rahmen zur Verfügung steht und unverzüglich zur Erfüllung gesetzlicher Schadensersatzverpflichtungen der in § 13 Abs. 5 des Atomgesetzes genannten Art herangezogen werden kann.
+(1) Durch eine sonstige finanzielle Sicherheit kann die Deckungsvorsorge nur erbracht werden, wenn gewährleistet ist, dass diese, solange mit ihrer Inanspruchnahme gerechnet werden muss, in dem von der behördlichen Festsetzung der Deckungsvorsorge gesetzten Rahmen zur Verfügung steht und unverzüglich zur Erfüllung gesetzlicher Schadensersatzverpflichtungen der in § 13 Absatz 5 des Atomgesetzes genannten Art herangezogen werden kann.
 
-(2) Von einem Dritten, der seinen Hauptwohnsitz oder seine geschäftliche Hauptniederlassung im Ausland hat, kann eine sonstige finanzielle Sicherheit nur übernommen werden, wenn der Dritte entweder für die Dauer seiner Verpflichtung im Inland hinreichende Vermögenswerte zur Abdeckung seiner Verpflichtung besitzt oder wenn sichergestellt ist, dass die Entscheidung eines deutschen Gerichts über die Verpflichtung auf Grund einer völkerrechtlichen Vereinbarung in dem Staat vollstreckt werden kann, in dem sich hinreichendes Vermögen des Dritten befindet. Von einem anderen Staat kann eine sonstige finanzielle Sicherheit nur übernommen werden, wenn er sich der Gerichtsbarkeit der Bundesrepublik Deutschland unterwirft oder in anderer Weise gewährleistet ist, daß er seine Verpflichtung erfüllt.
+(2) Von einem Dritten, der seinen Hauptwohnsitz oder seine geschäftliche Hauptniederlassung im Ausland hat, kann eine sonstige finanzielle Sicherheit nur übernommen werden, wenn der Dritte entweder für die Dauer seiner Verpflichtung im Inland hinreichende Vermögenswerte zur Abdeckung seiner Verpflichtung besitzt oder wenn sichergestellt ist, dass die Entscheidung eines deutschen Gerichts über die Verpflichtung auf Grund einer völkerrechtlichen Vereinbarung in dem Staat vollstreckt werden kann, in dem sich hinreichendes Vermögen des Dritten befindet. Von einem anderen Staat kann eine sonstige finanzielle Sicherheit nur übernommen werden, wenn er sich der Gerichtsbarkeit der Bundesrepublik Deutschland unterwirft oder in anderer Weise gewährleistet ist, dass er seine Verpflichtung erfüllt.
 
-(3) § 2 Abs. 2 gilt entsprechend.
+(3) § 2 Absatz 2 gilt entsprechend.
 
 # § 4 – Umfang der Deckungsvorsorge
 
-(1) Bei einer Kernanlage muss sich die Deckungsvorsorge auf die gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Absatz 5 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 1 des Gesetzes vom 10. August 2021 (BGBl. I S. 3530) geändert worden ist, in der jeweils geltenden Fassung erstrecken, die sich für den Inhaber der Kernanlage infolge eines nuklearen Ereignisses ergeben.
+(1) Bei einer Kernanlage muss sich die Deckungsvorsorge auf die gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Absatz 5 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 1 des Gesetzes vom 10. August 2021 (BGBl. I S. 3530) geändert worden ist, in der jeweils geltenden Fassung erstrecken, die sich für den Inhaber der Kernanlage infolge eines nuklearen Ereignisses ergeben.
 
-(2) Bei Tätigkeiten oder Anlagen, bei denen eine Haftung nach § 26 des Atomgesetzes in Betracht kommt, muß sich die Deckungsvorsorge auf die gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Abs. 5 des Atomgesetzes erstrecken, die sich im Zusammenhang mit der genehmigungspflichtigen Tätigkeit oder Anlage infolge von Wirkungen der in § 26 Abs. 1 Satz 1 und Abs. 2 des Atomgesetzes bezeichneten Art ergeben
+(2) Bei Tätigkeiten oder Anlagen, bei denen eine Haftung nach § 26 des Atomgesetzes in Betracht kommt, muss sich die Deckungsvorsorge auf die gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Absatz 5 des Atomgesetzes erstrecken, die sich im Zusammenhang mit der genehmigungspflichtigen Tätigkeit oder Anlage infolge von Wirkungen der in § 26 Absatz 1 Satz 1 und Absatz 2 des Atomgesetzes bezeichneten Art ergeben
 
 1. für den zur Deckungsvorsorge Verpflichteten,
 
@@ -83,7 +57,7 @@ erbracht werden. Die Verwaltungsbehörde kann zulassen, daß mehrere Vorsorgema�
 
 3. im Falle der Beförderung auch für die Personen, die neben dem zur Deckungsvorsorge Verpflichteten an der Beförderung beteiligt sind oder waren oder befugterweise Sach-, Dienst- oder Werkleistungen zur Beförderung bewirken oder bewirkt haben oder zu einer der Beförderung dienenden Verrichtung bestellt sind oder waren.
 
-(3) Die Deckungsvorsorge muß Schadensereignisse einschließen, die im Ausland eintreten oder sich dort auswirken und für die der zur Deckungsvorsorge Verpflichtete nach internationalen Verträgen oder nach im Ausland geltenden Haftpflichtbestimmungen der in § 13 Abs. 5 des Atomgesetzes genannten Art haftet.
+(3) Die Deckungsvorsorge muss Schadensereignisse einschließen, die im Ausland eintreten oder sich dort auswirken und für die der zur Deckungsvorsorge Verpflichtete nach internationalen Verträgen oder nach im Ausland geltenden Haftpflichtbestimmungen der in § 13 Absatz 5 des Atomgesetzes genannten Art haftet.
 
 (4) Die Deckungsvorsorge darf bis zur festgesetzten Höhe nicht für andere als die in den Absätzen 1 bis 3 genannten Verpflichtungen bestimmt sein oder verwendet werden.
 
@@ -103,9 +77,9 @@ erbracht werden. Die Verwaltungsbehörde kann zulassen, daß mehrere Vorsorgema�
 
 (2) Die Verwaltungsbehörde hat den Versicherer oder den Dritten, der eine sonstige finanzielle Sicherheit übernommen hat, von der Erteilung, der Rücknahme und dem Widerruf einer Genehmigung zu unterrichten.
 
-(3) Wer Ansprüche geltend machen will, für deren Befriedigung die Deckungsvorsorge in Betracht kommt, kann von der Verwaltungsbehörde verlangen, daß sie ihm Namen und Anschrift des Versicherers oder des Dritten bekanntgibt, der sich zur Gewährung einer sonstigen finanziellen Sicherheit verpflichtet hat.
+(3) Wer Ansprüche geltend machen will, für deren Befriedigung die Deckungsvorsorge in Betracht kommt, kann von der Verwaltungsbehörde verlangen, dass sie ihm Namen und Anschrift des Versicherers oder des Dritten bekanntgibt, der sich zur Gewährung einer sonstigen finanziellen Sicherheit verpflichtet hat.
 
-(4) Zuständige Stelle für die Entgegennahme einer Anzeige über das Nichtbestehen oder die Beendigung des Versicherungsvertrages oder des Vertrages über eine sonstige finanzielle Sicherheit (§ 14 des Atomgesetzes in Verbindung mit § 117 Abs. 2 des Versicherungsvertragsgesetzes) ist die Genehmigungsbehörde oder, sofern eine Genehmigung nicht erforderlich ist, die sonst zuständige Verwaltungsbehörde.
+(4) Zuständige Stelle für die Entgegennahme einer Anzeige über das Nichtbestehen oder die Beendigung des Versicherungsvertrages oder des Vertrages über eine sonstige finanzielle Sicherheit (§ 14 des Atomgesetzes in Verbindung mit § 117 Absatz 2 des Versicherungsvertragsgesetzes) ist die Genehmigungsbehörde oder, sofern eine Genehmigung nicht erforderlich ist, die sonst zuständige Verwaltungsbehörde.
 
 # § 6 – Auflagen
 
@@ -115,7 +89,7 @@ Bei der Festsetzung der Deckungsvorsorge ist dem zur Deckungsvorsorge Verpflicht
 
 2. jede ohne sein Zutun eingetretene Änderung der Deckungsvorsorge und, soweit Schadensersatzverpflichtungen in Frage kommen, zu deren Erfüllung die Deckungsvorsorge oder die Freistellungsverpflichtung nach § 34 des Atomgesetzes bestimmt ist, jedes Schadensereignis, jede Geltendmachung von Schadensersatzansprüchen und jede Leistung zur Erfüllung von Schadensersatzverpflichtungen der Verwaltungsbehörde unverzüglich anzuzeigen, sobald ihm diese Umstände bekannt werden,
 
-3. der Verwaltungsbehörde auf deren Aufforderung hin nachzuweisen, daß die Deckungsvorsorge in der festgesetzten Höhe und in dem festgesetzten Umfang vorhanden ist und daß die Voraussetzungen fortbestehen, unter denen die Deckungsvorsorge auf andere Weise als durch eine Haftpflichtversicherung erbracht werden konnte, und
+3. der Verwaltungsbehörde auf deren Aufforderung hin nachzuweisen, dass die Deckungsvorsorge in der festgesetzten Höhe und in dem festgesetzten Umfang vorhanden ist und dass die Voraussetzungen fortbestehen, unter denen die Deckungsvorsorge auf andere Weise als durch eine Haftpflichtversicherung erbracht werden konnte, und
 
 4. die Deckungssumme, soweit sie nicht für jedes Schadensereignis in voller Höhe zur Verfügung steht, wiederaufzufüllen, wenn eine Minderung in mehr als 1 Prozent eingetreten oder auf Grund eines oder mehrerer eingetretener Schadensereignisse zu erwarten ist.
 
@@ -143,17 +117,18 @@ Bei der Festsetzung der Deckungsvorsorge ist dem zur Deckungsvorsorge Verpflicht
 
 2. beim Umgang mit sonstigen radioaktiven Stoffen nach Anlage 2,
 
-und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit der radioaktiven Stoffe. Die Regeldeckungssumme beim Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 4 Absatz 36 des Strahlenschutzgesetzes bestimmt sich unabhängig von der Art des radioaktiven Stoffes nach Anlage 2.
+und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit der radioaktiven Stoffe. Die Regeldeckungssumme beim Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 4 Absatz 36 des Strahlenschutzgesetzes bestimmt sich unabhängig von der Art des radioaktiven Stoffes nach Anlage 2.
 
-(2) Ist der Umgang mit sonstigen radioaktiven Stoffen darauf gerichtet, daß sie bei der Ausübung der Heilkunde am Menschen angewandt werden oder daß sie in die Luft, das Wasser, den Boden oder den Bewuchs gelangen, ohne daß die weitere Verbreitung verhindert werden kann, so beträgt die Regeldeckungssumme das Zweifache der in der Anlage 2 angegebenen Werte.
+(2) Ist der Umgang mit sonstigen radioaktiven Stoffen darauf gerichtet, dass sie bei der Ausübung der Heilkunde am Menschen angewandt werden oder dass sie in die Luft, das Wasser, den Boden oder den Bewuchs gelangen, ohne dass die weitere Verbreitung verhindert werden kann, so beträgt die Regeldeckungssumme das Zweifache der in der Anlage 2 angegebenen Werte.
 
-(3) Beim Umgang mit radioaktiven Abfällen in einer Landessammelstelle oder in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen Euro, sofern es sich bei der Landessammelstelle oder der sonstigen Einrichtung nicht um eine Kernanlage im Sinne von § 2 Absatz 4 des Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70 Millionen Euro.
+(3) Beim Umgang mit radioaktiven Abfällen in einer Landessammelstelle oder in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen Euro, sofern es sich bei der Landessammelstelle oder der sonstigen Einrichtung nicht um eine Kernanlage im Sinne des § 2 Absatz 4 des Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70 Millionen Euro.
 
 (4) Für die Beförderung radioaktiver Stoffe gilt Absatz 1 entsprechend; bei der Beförderung sonstiger radioaktiver Stoffe sind die Werte der Anlage 2 Spalte 2 anzuwenden.
 
-(5) Die Deckungssumme soll bei der Beförderung den Betrag von 35 Millionen Euro nicht überschreiten. Eine Überschreitung ist nur zulässig, wenn nach den Umständen des Einzelfalles der Betrag nach Satz 1 nicht angemessen ist; in diesem Fall kann die Verwaltungsbehörde die Deckungssumme bis zu einer Höchstgrenze des Zweifachen der Summe nach Satz 1 erhöhen. § 16 Abs. 2 findet entsprechende Anwendung.
+(5) Die Deckungssumme soll bei der Beförderung den Betrag von 35 Millionen Euro nicht überschreiten. Eine Überschreitung ist nur zulässig, wenn nach den Umständen des Einzelfalls der Betrag nach Satz 1 nicht angemessen ist; in diesem Fall kann die Verwaltungsbehörde die Deckungssumme bis zu einer Höchstgrenze des Zweifachen der Summe nach Satz 1 erhöhen. § 16 Absatz 2 findet entsprechende Anwendung.
 
-(+++ § 8 Abs. 4 u. 5: Zur Anwendung vgl. § 8a Abs. 3 +++)
+(+++ § 8 Abs. 4 u. 5: Zur Anwendung vgl. § 8a Abs. 3 +++)  
+§ 8 Absatz 3 Satz 1 Kursivdruck: Die Wörter "im Sinne des" der Neufassung gem. Bek. v. 21.1.2022 I 118 weichen von vorheriger konstitutiver Fassung ab und müssen richtig "im Sinne von" lauten.
 
 # § 8a – Beförderung von Kernmaterialien
 
@@ -189,7 +164,7 @@ Für die Bestimmung der Deckungsvorsorge bei Schäden gemäß § 26 Absatz 1a de
 
 (3) Die nach Absatz 1 zu ermittelnde Deckungsvorsorge umfasst auch die Deckungsvorsorge
 
-1. für eine Aufbewahrung nach § 6 Abs. 3 des Atomgesetzes oder
+1. für eine Aufbewahrung nach § 6 Absatz 3 des Atomgesetzes oder
 
 2. für eine entsprechende Aufbewahrung auf dem Gelände einer Anlage zur Spaltung von Kernbrennstoffen zu Forschungszwecken,
 
@@ -200,7 +175,7 @@ sofern die Anlagen als eine Kernanlage im Sinne von § 2 Absatz 4 Satz 3 des Ato
 
 # § 10 – Schiffsreaktoren
 
-Die Regeldeckungssumme für Reaktoren, die zum Antrieb von Schiffen dienen (Schiffsreaktoren), beträgt je Megawatt Höchstleistung 500.000 Euro, höchstens jedoch 200 Millionen Euro. § 9 Abs. 1 Satz 2 und 3 gilt entsprechend.
+Die Regeldeckungssumme für Reaktoren, die zum Antrieb von Schiffen dienen (Schiffsreaktoren), beträgt je Megawatt Höchstleistung 500 000 Euro, höchstens jedoch 200 Millionen Euro. § 9 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 # § 11 – Sonstige Kernanlagen
 
@@ -240,29 +215,27 @@ Die Erhöhungsbeträge nach Anlage 3 und Anlage 4 sind getrennt zu ermitteln und
 
 1. 5 Millionen Euro, sofern die Anlage bei der Ausübung der Heilkunde angewendet wird,
 
-2. 1,5 Millionen Euro, sofern je Sekunde mehr als 10(hoch)8 Neutronen erzeugt werden oder die Endenergie der beschleunigten Elektronen mehr als 10 MeV oder die Endenergie der beschleunigten Ionen mehr als 1 MeV je Nukleon beträgt,
+2. 1,5 Millionen Euro, sofern je Sekunde mehr als 10⁸ Neutronen erzeugt werden oder die Endenergie der beschleunigten Elektronen mehr als 10 MeV oder die Endenergie der beschleunigten Ionen mehr als 1 MeV je Nukleon beträgt,
 
-3. 500.000 Euro in allen übrigen Fällen.
+3. 500 000 Euro in allen übrigen Fällen.
 
-# § 14
-
-(weggefallen)
+# § 14 – (weggefallen)
 
 # § 15 – Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung
 
-Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen in der medizinischen Forschung muss die Deckungssumme in einem angemessenen Verhältnis zu den mit der Anwendung verbundenen Risiken stehen und auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für den Fall des Todes oder der dauernden Erwerbsunfähigkeit einer jeden Person, an der die radioaktiven Stoffe oder die ionisierende Strahlung angewendet werden, mindestens 500.000 Euro zur Verfügung stehen.
+Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen in der medizinischen Forschung muss die Deckungssumme in einem angemessenen Verhältnis zu den mit der Anwendung verbundenen Risiken stehen und auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für den Fall des Todes oder der dauernden Erwerbsunfähigkeit einer jeden Person, an der die radioaktiven Stoffe oder die ionisierende Strahlung angewendet werden, mindestens 500 000 Euro zur Verfügung stehen.
 
 # § 16 – Ermittlung der Deckungssumme im Einzelfall
 
 (1) Ist die Regeldeckungssumme nach den Umständen des Einzelfalls nicht angemessen, so kann die Verwaltungsbehörde die Deckungssumme im Rahmen der Höchstgrenze des § 13 Absatz 3 Satz 2 des Atomgesetzes und unter Beachtung der Höchst- und Mindestgrenzen nach § 7 Absatz 2 bis auf das Zweifache der Regeldeckungssumme erhöhen oder bis auf ein Drittel der Regeldeckungssumme ermäßigen.
 
-(2) Bei der Ermittlung der nach den Umständen des Einzelfalles angemessenen Deckungssumme ist insbesondere zu berücksichtigen,
+(2) Bei der Ermittlung der nach den Umständen des Einzelfalls angemessenen Deckungssumme ist insbesondere zu berücksichtigen,
 
-1. ob und in welchem Umfang die Möglichkeit besteht oder auszuschließen ist, daß andere Personen als der zur Deckungsvorsorge Verpflichtete und seine Beschäftigten Schäden an Leben, Gesundheit, Körper und Sachgütern erleiden,
+1. ob und in welchem Umfang die Möglichkeit besteht oder auszuschließen ist, dass andere Personen als der zur Deckungsvorsorge Verpflichtete und seine Beschäftigten Schäden an Leben, Gesundheit, Körper und Sachgütern erleiden,
 
 2. welches Maß an Sicherheit durch Schutzmaßnahmen und Schutzeinrichtungen erreicht wird,
 
-3. ob und in welchem Umfang unter Berücksichtigung der meteorologischen und hydrologischen Verhältnisse die Möglichkeit besteht oder auszuschließen ist, daß die radioaktiven Stoffe verbreitet werden, insbesondere als Gase, Aerosole oder Flüssigkeiten,
+3. ob und in welchem Umfang unter Berücksichtigung der meteorologischen und hydrologischen Verhältnisse die Möglichkeit besteht oder auszuschließen ist, dass die radioaktiven Stoffe verbreitet werden, insbesondere als Gase, Aerosole oder Flüssigkeiten,
 
 4. welche Dauer der Gefährdung insbesondere mit Rücksicht auf die Halbwertzeit der radioaktiven Stoffe anzunehmen ist,
 
@@ -272,15 +245,13 @@ Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen i
 
 (+++ § 16 Abs. 2: zur Anwendung vgl. § 8 Abs. 5 Satz 3 u. § 11 Abs. 1 Satz 4 +++)
 
-# § 17
-
-(weggefallen)
+# § 17 – (weggefallen)
 
 # § 18 – Deckungssumme bei mehrfachem Umgang
 
 (1) Geht der zur Deckungsvorsorge Verpflichtete auf Grund einer oder weiterer Genehmigungen mit mehreren Stoffen oder mit mehreren Teilmengen eines Stoffes um, so ist für jede zur Deckungsvorsorge verpflichtende Tätigkeit die jeweils in Frage kommende Deckungssumme gesondert festzusetzen.
 
-(2) Es ist jedoch eine Gesamtdeckungssumme festzusetzen, wenn bei einem mehrfachen Umgang außerhalb einer Kernanlage ein derartig enger räumlicher und zeitlicher Zusammenhang vorliegt, daß die mehreren Stoffe oder Teilmengen als ähnlich gefährlich angesehen werden müssen wie ein einziger Stoff, dessen Aktivität oder Masse der Gesamtaktivität oder Gesamtmasse der Stoffe oder Teilmengen entspricht.
+(2) Es ist jedoch eine Gesamtdeckungssumme festzusetzen, wenn bei einem mehrfachen Umgang außerhalb einer Kernanlage ein derartig enger räumlicher und zeitlicher Zusammenhang vorliegt, dass die mehreren Stoffe oder Teilmengen als ähnlich gefährlich angesehen werden müssen wie ein einziger Stoff, dessen Aktivität oder Masse der Gesamtaktivität oder Gesamtmasse der Stoffe oder Teilmengen entspricht.
 
 (3) Bei der Festsetzung der Gesamtdeckungssumme ist bei umschlossenen und bei offenen sonstigen radioaktiven Stoffen jeweils von der Gesamtaktivität, ausgedrückt im Vielfachen der Aktivitätsfreigrenzen, auszugehen. Wird mit Stoffen umgegangen, die beiden der in Satz 1 genannten Gruppen angehören, so sind die für jede Gruppe getrennt ermittelten Deckungssummen zusammenzurechnen; jedoch darf insgesamt keine höhere als diejenige Deckungssumme angesetzt werden, die sich ergeben würde, wenn die gesamten Stoffe offene sonstige radioaktive Stoffe wären.
 
@@ -288,37 +259,42 @@ Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen i
 
 # § 19 – Abrundung der Deckungssumme
 
-(1) Die Deckungssumme ist auf volle 50.000 Euro festzusetzen.
+(1) Die Deckungssumme ist auf volle 50 000 Euro festzusetzen.
 
-(2) Ergibt sich aus den Vorschriften über die Deckungssumme ein Zwischenbetrag unter 25.000 Euro, so ist nach unten, im übrigen ist nach oben abzurunden.
+(2) Ergibt sich aus den Vorschriften über die Deckungssumme ein Zwischenbetrag unter 25 000 Euro, so ist nach unten, im übrigen ist nach oben abzurunden.
 
 # § 20 – Neufestsetzung der Deckungsvorsorge
 
-Entspricht die Deckungsvorsorge für eine vor Inkrafttreten dieser Verordnung genehmigte Tätigkeit nicht mehr den Anforderungen dieser Verordnung, so ist die Deckungsvorsorge bei der nächsten Festsetzung nach § 13 Absatz 1 Satz 2 des Atomgesetzes neu festzusetzen, wobei die Neufestsetzung für Kernanlagen und für die Beförderung von Kernmaterialien spätestens innerhalb von sechs Monaten nach Inkrafttreten dieser Verordnung und in den sonstigen Fällen innerhalb eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
+Entspricht die Deckungsvorsorge für eine vor Inkrafttreten dieser Verordnung genehmigte Tätigkeit nicht mehr den Anforderungen dieser Verordnung, so ist die Deckungsvorsorge bei der nächsten Festsetzung nach § 13 Absatz 1 Satz 2 des Atomgesetzes neu festzusetzen, wobei die Neufestsetzung für Kernanlagen und für die Beförderung von Kernmaterialien spätestens innerhalb von sechs Monaten nach Inkrafttreten dieser Verordnung und in den sonstigen Fällen innerhalb eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 
 # § 21 – (weggefallen)
 
-# § 22 – Inkrafttreten
-
-Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
+# § 22 – (Inkrafttreten)
 
 # Anlage 1 – Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
 
-Fundstelle des Originaltextes: BGBl. I 2001, 2338
+(Fundstelle: BGBl. I 2022, 125)
 
   
+  
 
-Masse der Kernbrennstoffe<span id="FnR.FnA1-BJNR002200977BJNE002801377_001"></span><a href="#FnA1-BJNR002200977BJNE002801377_001" class="FnR">1*)</a></sup>
+Masse der  
+Kernbrennstoffe<span id="FnR.FnA1-F820132_01"></span><a href="#FnA1-F820132_01" class="FnR">*</a></sup>
 
 Plutonium
 
 Uran 233
 
-über 20% mit Uran 235 angereichertes Uran
+über 20 % mit  
+Uran 235  
+angereichertes Uran
 
-bis einschließlich 20% mit Uran 235 angereichertes Uran
+bis einschließlich  
+20 % mit Uran 235  
+angereichertes Uran
 
-Natürliches Uran, das Kernbrennstoff ist
+Natürliches Uran,  
+das Kernbrennstoff ist
 
 1
 
@@ -338,41 +314,52 @@ bis 10 g
 
 0,25
 
-\-
+–
 
-\-
+–
 
 Für eine über die Freigrenzen hinausgehende Masse
 
-1\. bis zu 10 Tonnen 0,5 je angefangene Tonne,
+1. bis zu 10 Tonnen  
+0,5 je angefangene  
+Tonne
 
-2\. über 10 bis zu 100 Tonnen 0,125 je angefangene weitere Tonne,
+2. über 10 bis  
+zu 100 Tonnen  
+0,125 je angefangene  
+weitere Tonne,
 
-3\. über 100 Tonnen 0,0125 je angefangene weitere Tonne
+3. über 100 Tonnen  
+0,0125 je angefangene  
+weitere Tonne
 
-bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
+bis zu einem Höchstbetrag von 50, im Falle  
+der Beförderung von 25.
 
-über 10 g bis 100 g
+über 10 g  
+bis 100 g
 
 1,0
 
 0,5
 
-\-
+–
 
-\-
+–
 
-über 100 g bis 200 g
+über 100 g  
+bis 200 g
 
 1,5
 
 1,0
 
-\-
+–
 
-\-
+–
 
-über 200 g bis 1 kg
+über 200 g  
+bis 1 kg
 
 5,0
 
@@ -382,7 +369,10 @@ bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
 0,5
 
-über 1 kg bis 100 kg für jedes weitere angefangene Kilogramm
+über 1 kg  
+bis 100 kg  
+für jedes weitere angefangene  
+Kilogramm
 
 0,5
 
@@ -392,7 +382,10 @@ bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
 0,05
 
-über 100 kg bis 1.000 kg für jede weiteren angefangenen 10 Kilogramm
+über 100 kg  
+bis 1 000 kg  
+für jede weiteren angefangenen  
+10 Kilogramm
 
 1,0
 
@@ -402,7 +395,9 @@ bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
 0,15
 
-über 1.000 kg für jede weiteren angefangenen 100 Kilogramm
+über 1 000 kg  
+für jede weiteren angefangenen  
+100 Kilogramm
 
 5,0
 
@@ -412,33 +407,30 @@ bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
 0,15
 
-<span id="FnA1-BJNR002200977BJNE002801377_001"></span><a href="#FnR.FnA1-BJNR002200977BJNE002801377_001" class="Footnote">1*)</a>  
+<span id="FnA1-F820132_01"></span><a href="#FnR.FnA1-F820132_01" class="Footnote">*</a>  
 Bei der Berechnung der Masse der Kernbrennstoffe ist nur der Massengehalt von Plutonium 239, von Plutonium 241, Uran 233 und Uran 235 zu berücksichtigen. Bei natürlichem Uran, das Kernbrennstoff ist, ist bei der Berechnung der Masse die Gesamtmasse des Urans maßgeblich.
-
-Für eine über die Freigrenzen hinausgehende Masse
-
-1\. bis zu 10 Tonnen 0,5 je angefangene Tonne,
-
-2\. über 10 bis zu 100 Tonnen 0,125 je angefangene weitere Tonne,
-
-3\. über 100 Tonnen 0,0125 je angefangene weitere Tonne
-
-bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
 # Anlage 2 – Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro
 
-Fundstelle des Originaltextes: BGBl. I 2005, 2405
+(Fundstelle: BGBl. I 2022, 126)
 
   
   
 
  
 
-Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung
+Aktivitäten, angegeben in  
+Vielfachen der Freigrenzen nach  
+Anlage 4 Tabelle 1 Spalte 2  
+der Strahlenschutzverordnung
 
-umschlossene radioaktive Stoffe
+umschlossene  
+radioaktive  
+Stoffe
 
-offene radioaktive Stoffe
+offene  
+radioaktive  
+Stoffe
 
  
 
@@ -448,109 +440,111 @@ offene radioaktive Stoffe
 
 3
 
-1\.
+ 1.
 
-hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind
+hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt werden
 
 0,05
 
  
 
-2\.
+ 2.
 
-vom 10 (hoch) 5fachen bis zum 10 (hoch) 6fachen
+vom 10⁵fachen bis zum 10⁶fachen
 
 0,05
 
 0,25 bis 0,5
 
-3\.
+ 3.
 
-vom 10 (hoch) 6fachen bis zum 10 (hoch) 7fachen
+vom 10⁶fachen bis zum 10⁷fachen
 
 0,05 bis 0,25
 
 0,5 bis 1
 
-4\.
+ 4.
 
-vom 10 (hoch) 7fachen bis zum 10 (hoch) 8fachen
+vom 10⁷fachen bis zum 10⁸fachen
 
 0,25 bis 0,5
 
 1 bis 2
 
-5\.
+ 5.
 
-vom 10 (hoch) 8fachen bis zum 10 (hoch) 9fachen
+vom 10⁸fachen bis zum 10⁹fachen
 
 0,5 bis 1
 
 2 bis 4
 
-6\.
+ 6.
 
-vom 10 (hoch) 9fachen bis zum 10 (hoch) 10fachen
+vom 10⁹fachen bis zum 10¹⁰fachen
 
 1 bis 2
 
 4 bis 6
 
-7\.
+ 7.
 
-vom 10 (hoch) 10fachen bis zum 10 (hoch) 11fachen
+vom 10¹⁰ fachen bis zum 10¹¹fachen
 
 2 bis 4
 
 6 bis 8
 
-8\.
+ 8.
 
-vom 10 (hoch) 11fachen bis zum 10 (hoch) 12fachen
+vom 10¹¹ fachen bis zum 10¹²fachen
 
 4 bis 6
 
 8 bis 10
 
-9\.
+ 9.
 
-vom 10 (hoch) 12fachen bis zum 10 (hoch) 13fachen
+vom 10¹²fachen bis zum 10¹³fachen
 
 6 bis 8
 
-über dem 10 (hoch) 12fachen 10 bis 15
+über dem 10¹²fachen  
+10 bis 15
 
 10\.
 
-vom 10 (hoch) 13fachen bis zum 10 (hoch) 14fachen
+vom 10¹³fachen bis zum 10¹⁴fachen
 
 8 bis 10
 
 11\.
 
-vom 10 (hoch) 14fachen bis zum 10 (hoch) 15fachen
+vom 10¹⁴fachen bis zum 10¹⁵fachen
 
 10 bis 12
 
 12\.
 
-über dem 10 (hoch) 15fachen
+über dem 10¹⁵fachen
 
 12 bis 14
 
-(+++ Anlage 2: Zur Anwendung vgl. § 8 Abs. 4 +++)
+(+++ Anlage 2: Zur Anwendung vgl. § 8 Abs. 4 +++)  
+Anlage 2 Tabelle Zeile 3 Spalte 2 Nummer 1 Kursivdruck: Die Wörter "genannt werden" der Neufassung gem. Bek. v. 21.1.2022 I 118 weichen von vorheriger konstitutiver Fassung ab und müssen richtig "genannt sind" lauten.
 
 # Anlage 3 – (zu § 8a Absatz 1, § 9 Absatz 1, § 11 Absatz 1 und 2)Massenabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien und für Kernanlagen in Millionen Euro
 
-(Fundstelle: BGBl. I 2022, 76)
+(Fundstelle: BGBl. I 2022, 127)
 
 # Anlage 4 – (zu § 8a Absatz 1, § 11 Absatz 1 und 2, § 12 Absatz 1) Aktivitätsabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien, für sonstige Kernanlagen und Kernanlagen in Stilllegung in Millionen Euro
 
-(Fundstelle: BGBl. I 2022, 76)
+(Fundstelle: BGBl. I 2022, 128)
 
 # Anlage 5 – (zu § 8a Absatz 2)Festlegungen zum Ausschluss kleiner Mengen von Kernmaterialien außerhalb einer Kernanlage von der Anwendung des Pariser Übereinkommens
 
-(Fundstelle: BGBl. I 2022, 76 - 85)
+(Fundstelle: BGBl. I 2022, 129 - 137)
 
 Teil A: Allgemeines
 
@@ -560,14 +554,17 @@ Für Sendungen, die Radionuklide enthalten, gilt, vorbehaltlich des für Sendung
 
 2. Enthält eine Sendung mehrere Radionuklide, so darf die Summe der Verhältniszahlen aus der Aktivität B(i) und dem Hundertfachen der jeweiligen A<sub>2</sub>(i)-Werte der einzelnen Radionuklide (Summenformel) den Wert 1 je Beförderungsmittel nicht überschreiten:
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0073-1_0010.jpg) |
+  
+  
+
+|                                                     |
+|:---------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0118-1_0010.jpg), |
 
   
   
 
-wobei B(i) die Aktivität des Radionuklids i und A<sub>2</sub>(i) der A<sub>2</sub>Wert des Radionuklids i ist. Für die Berechnung sind für die Radionuklide die jeweiligen A<sub>2</sub>-Werte gemäß Tabelle 1 zugrunde zu legen, sofern die Art und die Aktivität der Radionuklide bekannt sind. Andernfalls sind für die vorkommenden Radionuklide die jeweiligen A<sub>2</sub>-Werte gemäß Tabelle 2 zugrunde zu legen.
+wobei B(i) die Aktivität des Radionuklids i und A<sub>2</sub>(i) der A<sub>2</sub>-Wert des Radionuklids i ist. Für die Berechnung sind für die Radionuklide die jeweiligen A<sub>2</sub>-Werte gemäß Tabelle 1 zugrunde zu legen, sofern die Art und die Aktivität der Radionuklide bekannt sind. Andernfalls sind für die vorkommenden Radionuklide die jeweiligen A<sub>2</sub>-Werte gemäß Tabelle 2 zugrunde zu legen.
 
 Teil B: Sendungen spaltbarer Stoffe
 
@@ -824,17 +821,19 @@ Hf-182</td><td style="text-align: center;"><br />
 5 × 10–1</sup><br />
 unbegrenzt</td></tr><tr class="even"><td style="text-align: center;">Quecksilber (80)<br />
 Hg-194<br />
-Hg-195m</td><td style="text-align: center;"><br />
-1 × 10⁰ <br />
-7 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Hg-197<br />
+Hg-195m<br />
+Hg-197<br />
 Hg-197m<br />
-Hg-203</td><td style="text-align: center;">1 × 10¹ <br />
+Hg-203</td><td style="text-align: center;"><br />
+1 × 10⁰ <br />
+7 × 10–1</sup><br />
+1 × 10¹ <br />
 4 × 10–1</sup><br />
-1 × 10⁰ </td></tr><tr class="even"><td style="text-align: center;">Holmium (67)<br />
+1 × 10⁰ </td></tr><tr class="odd"><td style="text-align: center;">Holmium (67)<br />
 Ho-166<br />
 Ho-166m</td><td style="text-align: center;"><br />
 4 × 10–1</sup><br />
-5 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Iod (53)<br />
+5 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Iod (53)<br />
 I-123<br />
 I-124<br />
 I-125<br />
@@ -854,7 +853,7 @@ unbegrenzt<br />
 4 × 10–1</sup><br />
 6 × 10–1</sup><br />
 3 × 10–1</sup><br />
-6 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Indium (49)<br />
+6 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Indium (49)<br />
 In-111<br />
 In-113m<br />
 In-114m<br />
@@ -862,7 +861,7 @@ In-115m</td><td style="text-align: center;"><br />
 3 × 10⁰ <br />
 2 × 10⁰ <br />
 5 × 10–1</sup><br />
-1 × 10⁰ </td></tr><tr class="odd"><td style="text-align: center;">Iridium (77)<br />
+1 × 10⁰ </td></tr><tr class="even"><td style="text-align: center;">Iridium (77)<br />
 Ir-189<br />
 Ir-190<br />
 Ir-192<br />
@@ -870,13 +869,13 @@ Ir-194</td><td style="text-align: center;"><br />
 1 × 10¹ <br />
 7 × 10–1</sup><br />
 6 × 10–1</sup><br />
-3 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Kalium (19)<br />
+3 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Kalium (19)<br />
 K-40<br />
 K-42<br />
 K-43</td><td style="text-align: center;"><br />
 9 × 10–1</sup><br />
 2 × 10–1</sup><br />
-6 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Krypton (36)<br />
+6 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Krypton (36)<br />
 Kr-79<br />
 Kr-81<br />
 Kr-85<br />
@@ -886,19 +885,17 @@ Kr-87</td><td style="text-align: center;"><br />
 4 × 10¹ <br />
 1 × 10¹ <br />
 3 × 10⁰ <br />
-2 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Lanthan (57)<br />
+2 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Lanthan (57)<br />
 La-137<br />
 La-140</td><td style="text-align: center;"><br />
 6 × 10⁰ <br />
-4 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Lutetium (71)<br />
+4 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Lutetium (71)<br />
 Lu-172<br />
-Lu-173<br />
-Lu-174<br />
-Lu-174m<br />
-Lu-177</td><td style="text-align: center;"><br />
+Lu-173</td><td style="text-align: center;"><br />
 6 × 10–1</sup><br />
-8 × 10⁰ <br />
-9 × 10⁰ <br />
+8 × 10⁰ </td></tr><tr class="odd"><td style="text-align: center;">Lu-174<br />
+Lu-174m<br />
+Lu-177</td><td style="text-align: center;">9 × 10⁰ <br />
 1 × 10¹ <br />
 7 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Magnesium (12)<br />
 Mg-28</td><td style="text-align: center;"><br />
@@ -1195,18 +1192,20 @@ Te-123m<br />
 Te-125m<br />
 Te-127<br />
 Te-127m<br />
-Te-129</td><td style="text-align: center;"><br />
+Te-129<br />
+Te-129m<br />
+Te-131m<br />
+Te-132</td><td style="text-align: center;"><br />
 2 × 10⁰ <br />
 3 × 10⁰ <br />
 1 × 10⁰ <br />
 9 × 10–1</sup><br />
 7 × 10–1</sup><br />
 5 × 10–1</sup><br />
-6 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Te-129m<br />
-Te-131m<br />
-Te-132</td><td style="text-align: center;">4 × 10–1</sup><br />
+6 × 10–1</sup><br />
+4 × 10–1</sup><br />
 5 × 10–1</sup><br />
-4 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Thorium (90)<br />
+4 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Thorium (90)<br />
 Th-227<br />
 Th-228<br />
 Th-229<br />
@@ -1222,9 +1221,9 @@ Th (natürlich)</td><td style="text-align: center;"><br />
 2 × 10–2</sup><br />
 unbegrenzt<br />
 3 × 10–1</sup><br />
-unbegrenzt</td></tr><tr class="even"><td style="text-align: center;">Titan (22)<br />
+unbegrenzt</td></tr><tr class="odd"><td style="text-align: center;">Titan (22)<br />
 Ti-44</td><td style="text-align: center;"><br />
-4 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Thallium (81)<br />
+4 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Thallium (81)<br />
 Tl-200<br />
 Tl-201<br />
 Tl-202<br />
@@ -1232,43 +1231,43 @@ Tl-204</td><td style="text-align: center;"><br />
 9 × 10–1</sup><br />
 4 × 10⁰ <br />
 2 × 10⁰ <br />
-7 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Thulium (69)<br />
+7 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Thulium (69)<br />
 Tm-167<br />
 Tm-170<br />
 Tm-171</td><td style="text-align: center;"><br />
 8 × 10–1</sup><br />
 6 × 10–1</sup><br />
-4 × 10¹ </td></tr><tr class="odd"><td style="text-align: center;">Uran (92)<br />
-U-230 (schnelle Lungenabsorption)<span id="FnR.FnA1-F818690_05"></span><a href="#FnA1-F818690_05" class="FnR">(a)</a></sup><br />
-U-230 (mittlere Lungenabsorption)<span id="FnR.FnA1-F818690_06"></span><a href="#FnA1-F818690_06" class="FnR">(b)</a></sup><br />
-U-230 (langsame Lungenabsorption)<span id="FnR.FnA1-F818690_07"></span><a href="#FnA1-F818690_07" class="FnR">(c)</a></sup></td><td style="text-align: center;"><br />
+4 × 10¹ </td></tr><tr class="even"><td style="text-align: center;">Uran (92)<br />
+U-230 (schnelle Lungenabsorption)<span id="FnR.FnA1-F820132_04"></span><a href="#FnA1-F820132_04" class="FnR">(a)</a></sup><br />
+U-230 (mittlere Lungenabsorption)<span id="FnR.FnA1-F820132_05"></span><a href="#FnA1-F820132_05" class="FnR">(b)</a></sup><br />
+U-230 (langsame Lungenabsorption)<span id="FnR.FnA1-F820132_06"></span><a href="#FnA1-F820132_06" class="FnR">(c)</a></sup></td><td style="text-align: center;"><br />
 1 × 10–1</sup><br />
 4 × 10–3</sup><br />
-3 × 10–3</sup></td></tr><tr class="even"><td style="text-align: center;">U-232 (schnelle Lungenabsorption)(a)</sup><br />
+3 × 10–3</sup></td></tr><tr class="odd"><td style="text-align: center;">U-232 (schnelle Lungenabsorption)(a)</sup><br />
 U-232 (mittlere Lungenabsorption)(b)</sup><br />
 U-232 (langsame Lungenabsorption)(c)</sup></td><td style="text-align: center;">1 × 10–2</sup><br />
 7 × 10–3</sup><br />
-1 × 10–3</sup></td></tr><tr class="odd"><td style="text-align: center;">U-233 (schnelle Lungenabsorption)(a)</sup><br />
+1 × 10–3</sup></td></tr><tr class="even"><td style="text-align: center;">U-233 (schnelle Lungenabsorption)(a)</sup><br />
 U-233 (mittlere Lungenabsorption)(b)</sup><br />
 U-233 (langsame Lungenabsorption)(c)</sup></td><td style="text-align: center;">9 × 10–2</sup><br />
 2 × 10–2</sup><br />
-6 × 10–3</sup></td></tr><tr class="even"><td style="text-align: center;">U-234 (schnelle Lungenabsorption)(a)</sup><br />
+6 × 10–3</sup></td></tr><tr class="odd"><td style="text-align: center;">U-234 (schnelle Lungenabsorption)(a)</sup><br />
 U-234 (mittlere Lungenabsorption)(b)</sup><br />
 U-234 (langsame Lungenabsorption)(c)</sup></td><td style="text-align: center;">9 × 10–2</sup><br />
 2 × 10–2</sup><br />
-6 × 10–3</sup></td></tr><tr class="odd"><td style="text-align: center;">U-235 (alle Lungenabsorptionsklassen)(a) (b) (c)</sup></td><td style="text-align: center;">unbegrenzt</td></tr><tr class="even"><td style="text-align: center;">U-236 (schnelle Lungenabsorption)(a)</sup><br />
+6 × 10–3</sup></td></tr><tr class="even"><td style="text-align: center;">U-235 (alle Lungenabsorptionsklassen)(a) (b) (c)</sup></td><td style="text-align: center;">unbegrenzt</td></tr><tr class="odd"><td style="text-align: center;">U-236 (schnelle Lungenabsorption)(a)</sup><br />
 U-236 (mittlere Lungenabsorption)(b)</sup><br />
 U-236 (langsame Lungenabsorption)(c)</sup></td><td style="text-align: center;">unbegrenzt<br />
 2 × 10–2</sup><br />
-6 × 10–3</sup></td></tr><tr class="odd"><td style="text-align: center;">U-238 (alle Lungenabsorptionsklassen)(a) (b) (c)</sup></td><td style="text-align: center;">unbegrenzt</td></tr><tr class="even"><td style="text-align: center;">U (natürlich)<br />
-U (angereichert bis maximal 20 %)<span id="FnR.FnA1-F818690_08"></span><a href="#FnA1-F818690_08" class="FnR">(d)</a></sup><br />
+6 × 10–3</sup></td></tr><tr class="even"><td style="text-align: center;">U-238 (alle Lungenabsorptionsklassen)(a) (b) (c)</sup></td><td style="text-align: center;">unbegrenzt</td></tr><tr class="odd"><td style="text-align: center;">U (natürlich)<br />
+U (angereichert bis maximal 20 %)<span id="FnR.FnA1-F820132_07"></span><a href="#FnA1-F820132_07" class="FnR">(d)</a></sup><br />
 U (abgereichert)</td><td style="text-align: center;">unbegrenzt<br />
 unbegrenzt<br />
-unbegrenzt</td></tr><tr class="odd"><td style="text-align: center;">Vanadium (23)<br />
+unbegrenzt</td></tr><tr class="even"><td style="text-align: center;">Vanadium (23)<br />
 V-48<br />
 V-49</td><td style="text-align: center;"><br />
 4 × 10–1</sup><br />
-4 × 10¹ </td></tr><tr class="even"><td style="text-align: center;">Wolfram (74)<br />
+4 × 10¹ </td></tr><tr class="odd"><td style="text-align: center;">Wolfram (74)<br />
 W-178<br />
 W-181<br />
 W-185<br />
@@ -1278,15 +1277,17 @@ W-188</td><td style="text-align: center;"><br />
 3 × 10¹ <br />
 8 × 10–1</sup><br />
 6 × 10–1</sup><br />
-3 × 10–1</sup></td></tr><tr class="odd"><td style="text-align: center;">Xenon (54)<br />
+3 × 10–1</sup></td></tr><tr class="even"><td style="text-align: center;">Xenon (54)<br />
 Xe-122<br />
 Xe-123<br />
-Xe-127</td><td style="text-align: center;"><br />
+Xe-127<br />
+Xe-131m<br />
+Xe-133<br />
+Xe-135</td><td style="text-align: center;"><br />
 4 × 10–1</sup><br />
 7 × 10–1</sup><br />
-2 × 10⁰ </td></tr><tr class="even"><td style="text-align: center;">Xe-131m<br />
-Xe-133<br />
-Xe-135</td><td style="text-align: center;">4 × 10¹ <br />
+2 × 10⁰ <br />
+4 × 10¹ <br />
 1 × 10¹ <br />
 2 × 10⁰ </td></tr><tr class="odd"><td style="text-align: center;">Yttrium (39)<br />
 Y-87<br />
@@ -1324,16 +1325,16 @@ unbegrenzt<br />
 
 Tabelle 1
 
-<span id="FnA1-F818690_05"></span><a href="#FnR.FnA1-F818690_05" class="Footnote">(a)</a>  
+<span id="FnA1-F820132_04"></span><a href="#FnR.FnA1-F820132_04" class="Footnote">(a)</a>  
 Diese Werte gelten nur für Uranverbindungen, die sowohl unter normalen Beförderungsbedingungen als auch unter Unfall-Beförderungsbedingungen die chemische Form von UF<sub>6</sub>, UO<sub>2</sub>F<sub>2</sub> und UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> einnehmen.
 
-<span id="FnA1-F818690_06"></span><a href="#FnR.FnA1-F818690_06" class="Footnote">(b)</a>  
+<span id="FnA1-F820132_05"></span><a href="#FnR.FnA1-F820132_05" class="Footnote">(b)</a>  
 Diese Werte gelten nur für Uranverbindungen, die sowohl unter normalen Beförderungsbedingungen als auch unter Unfall-Beförderungsbedingungen die chemische Form von UO<sub>3,</sub> UF<sub>4,</sub> UCI<sub>4</sub> und sechswertige Verbindungen einnehmen.
 
-<span id="FnA1-F818690_07"></span><a href="#FnR.FnA1-F818690_07" class="Footnote">(c)</a>  
+<span id="FnA1-F820132_06"></span><a href="#FnR.FnA1-F820132_06" class="Footnote">(c)</a>  
 Diese Werte gelten für alle unter den Fußnoten (a) und (b) nicht genannten Uranverbindungen.
 
-<span id="FnA1-F818690_08"></span><a href="#FnR.FnA1-F818690_08" class="Footnote">(d)</a>  
+<span id="FnA1-F820132_07"></span><a href="#FnR.FnA1-F820132_07" class="Footnote">(d)</a>  
 Diese Werte gelten nur für unbestrahltes Uran.
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><caption>Tabelle 2</caption><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Vorkommende Radionuklide</th><th style="text-align: center;">A<sub>2</sub><br />
@@ -1347,15 +1348,18 @@ Tabelle 2
 
 # Anlage 6 – (zu § 12a Absatz 1)Aktivitätsbezogene Festlegungen zum Ausschluss von Kernanlagen in fortgeschrittener Stilllegung von der Anwendung des Pariser Übereinkommens
 
-(Fundstelle: BGBl. I 2022, 85 - 86)
+(Fundstelle: BGBl. I 2022, 138)
 
 1. Kommt in einer Kernanlage in Stilllegung lediglich eines der in der Tabelle genannten Radionuklide vor, so darf die vorhandene Aktivität dieses Radionuklids in Form haftender Aktivität oder in jeder sonstigen Aktivitätsform den Wert gemäß der Tabelle nicht überschreiten.
 
 2. Kommen in einer Kernanlage in Stilllegung mehrere der in der Tabelle genannten Radionuklide vor, so ist die Summe der Verhältniszahlen A<sub>i\ f</sub>/A<sub>i\ f\ lim</sub> aus der vorhandenen Aktivität (A<sub>i\ f</sub>) und den jeweiligen Werten (A<sub>i\ f\ lim</sub>) der einzelnen Radionuklide i in Form haftender Aktivität gemäß der Tabelle und der Verhältniszahlen A<sub>i\ of</sub>/A<sub>i\ of\ lim</sub> aus der vorhandenen Aktivität (A<sub>i\ of</sub>) und den jeweiligen Werten (A<sub>i\ of\ lim</sub>) der einzelnen Radionuklide i jeder sonstigen Aktivitätsform gemäß der Tabelle zu berechnen (Summenformel). Diese Summe darf den Wert 1 nicht überschreiten:
 
+  
+  
+
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0073-1_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0118-1_0020.jpg) |
 
   
   
