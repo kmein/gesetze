@@ -328,51 +328,54 @@ I. Dokumenten- und Datenträgerpauschale
 
 Pauschale für die Herstellung und Überlassung von Dokumenten:
 
-1. Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag angefertigt, per Telefax übermittelt oder die angefertigt worden sind, weil die Beteiligten es unterlassen haben, die erforderliche Zahl von Mehrfertigungen beizufügen (Dokumentenpauschale):
+ 
+
+1. Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag angefertigt, per Telefax übermittelt oder die angefertigt worden sind, weil die Beteiligten nicht die erforderliche Zahl von Mehranfertigungen beigefügt haben (Dokumentenpauschale):
 
  
 
-   
+  
 für die ersten 50 Seiten je Seite
 
 0,50 EUR
 
-   
+  
 für jede weitere Seite
 
 0,15 EUR
 
-2. Überlassung von elektronisch gespeicherten Dateien anstelle der in Nummer 1 genannten Ausfertigungen, Ablichtungen und Ausdrucke:  
-  
-je Datei
+2. Pauschale für die Überlassung von elektronisch gespeicherten Daten auf einem Datenträger (Datenträgerpauschale)
 
-2,50 EUR
-
-3. Pauschale für die Überlassung von elektronisch gespeicherten Daten auf CD oder DVD (Datenträgerpauschale):
-
-<!-- -->
+ 
 
   
-je CD
+je Datenträger
 
-7,00 EUR
+5 EUR
 
-  
-je DVD
+(1) Frei von der Dokumentenpauschale sind für jeden Beteiligten und dessen bevollmächtigte Vertreter jeweils
 
-12,00 EUR
+1. eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger Ausdruck der Entscheidung und der Bescheide des Deutschen Patent- und Markenamts,
 
-(1) Frei von der Dokumentenpauschale sind für jeden Beteiligten und dessen bevollmächtigte Vertreter jeweils
+2. eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine Sitzung.
 
-–  
-eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger Ausdruck der Entscheidungen und Bescheide des Deutschen Patent- und Markenamts,
+ 
 
-–  
-eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine Sitzung.
+ 
 
-(2) Die Datenträgerpauschale wird in jedem Fall erhoben.
+ (2) Die Datenträgerpauschale wird nicht erhoben, wenn die elektronisch gespeicherten Daten ausschließlich elektronisch übermittelbar sind.
 
-(3) Für die Abgabe von Schutzrechtsdaten über die Dienste DPMAdatenabgabe und DEPATISconnect wird eine Dokumenten- oder Datenträgerpauschale nicht erhoben.
+ 
+
+ 
+
+ (3) Für die Abgabe von Schutzrechtsdaten über die Dienste DPMAdatenabgabe und DEPATISconnect wird eine Dokumenten- oder Datenträgerpauschale nicht erhoben.
+
+ 
+
+ 
+
+ (4) § 191a Absatz 1 Satz 5 GVG bleibt unberührt.
 
  
 
@@ -465,7 +468,28 @@ in voller Höhe
 302 420
 
 \-  
-die nach dem Justizvergütungs- und -entschädigungsgesetz (JVEG) zu zahlenden Beträge; erhält ein Sachverständiger aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung, ist der Betrag zu erheben, der ohne diese Vorschrift nach dem JVEG zu zahlen wäre; sind die Auslagen durch verschiedene Verfahren veranlasst, werden sie auf die mehreren Verfahren angemessen verteilt
+die nach dem Justizvergütungs- und -entschädigungsgesetz (JVEG) zu zahlenden Beträge mit folgenden Maßgaben:
+
+ 
+
+ 
+
+  
+1. Auslagen zur Erfüllung der Rechte blinder oder sehbehinderter Personen (§ 191a Absatz 1 GVG) und hör- oder sprachbehinderter Personen (§ 186 Absatz 1 GVG) sind hiervon ausgenommen
+
+in voller Höhe
+
+ 
+
+  
+2. erhält ein Sachverständiger aufgrund des § 1 Absatz 2 Satz 2 JVEG keine Vergütung, ist der Betrag zu erheben, der ohne diese Vorschrift nach dem JVEG zu zahlen wäre
+
+in voller Höhe
+
+ 
+
+  
+3. sind die Auslagen durch verschiedene Verfahren veranlasst, werden sie auf die mehreren Verfahren angemessen verteilt
 
 in voller Höhe
 
@@ -534,15 +558,3 @@ die Erteilung von Ablichtungen und Ausdrucken aus solchen Akten, deren Einsicht 
 der Antrag im Anschluss an ein Akteneinsichtsverfahren gestellt wird, für das die Gebühr nach Nummer 301 400 gezahlt worden ist.
 
 (2) Auslagen werden zusätzlich erhoben.
-
-(1) Frei von der Dokumentenpauschale sind für jeden Beteiligten und dessen bevollmächtigte Vertreter jeweils
-
-–  
-eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger Ausdruck der Entscheidungen und Bescheide des Deutschen Patent- und Markenamts,
-
-–  
-eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine Sitzung.
-
-(2) Die Datenträgerpauschale wird in jedem Fall erhoben.
-
-(3) Für die Abgabe von Schutzrechtsdaten über die Dienste DPMAdatenabgabe und DEPATISconnect wird eine Dokumenten- oder Datenträgerpauschale nicht erhoben.

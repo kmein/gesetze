@@ -15,10 +15,6 @@ Anlage 5
 
 Anlage 6
 
-# Eingangsformel
-
-Auf Grund des § 13 Abs. 3 und des § 54 Abs. 1 und 2 des Atomgesetzes in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 # § 1 – Arten der Deckungsvorsorge
 
 Die Deckungsvorsorge für Anlagen und Tätigkeiten, bei denen eine atomrechtliche Haftung nach internationalen Verträgen oder nach dem Atomgesetz in Betracht kommt, kann durch
