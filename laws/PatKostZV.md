@@ -15,7 +15,9 @@ Auf Grund des § 1 Abs. 2 Nr. 2 des Patentkostengesetzes vom 13. Dezember 2001 (
 
 3. durch Bareinzahlung bei einem inländischen oder ausländischen Geldinstitut auf ein Konto der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt;
 
-4. durch Erteilung eines gültigen SEPA-Basislastschriftmandats mit Angaben zum Verwendungszweck.
+4. durch Erteilung eines gültigen SEPA-Basislastschriftmandats mit Angaben zum Verwendungszweck;
+
+5. durch elektronisch übermittelte Zahlung auf ein Konto der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt in Marken- und Designverfahren, wenn das Zahlungsmittel für die betreffende Verfahrenshandlung auf der Internetseite des Deutschen Patent- und Markenamts www.dpma.de bekannt gegeben ist.
 
 (2) Bei Zahlungen an das Deutsche Patent- und Markenamt sollen für eine Erklärung nach Absatz 1 Nummer 4 die über die Internetseite www.dpma.de bereitgestellten Formulare verwendet werden.
 
@@ -31,7 +33,9 @@ Als Zahlungstag gilt
 
 3. bei Bareinzahlung auf das Konto der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt der Tag der Einzahlung;
 
-4. bei Erteilung eines SEPA-Basislastschriftmandats mit Angaben zum Verwendungszweck, der die Kosten umfasst, der Tag des Eingangs beim Deutschen Patent- und Markenamt oder beim Bundespatentgericht, bei zukünftig fällig werdenden Kosten der Tag der Fälligkeit, sofern die Einziehung zu Gunsten der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt erfolgt. Wird das SEPA-Basislastschriftmandat durch Telefax übermittelt, ist dessen Original innerhalb einer Frist von einem Monat nach Eingang des Telefax nachzureichen. Andernfalls gilt als Zahlungstag der Tag des Eingangs des Originals.
+4. bei Erteilung eines SEPA-Basislastschriftmandats mit Angaben zum Verwendungszweck, der die Kosten umfasst, der Tag des Eingangs beim Deutschen Patent- und Markenamt oder beim Bundespatentgericht, bei zukünftig fällig werdenden Kosten der Tag der Fälligkeit, sofern die Einziehung zu Gunsten der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt erfolgt. Wird das SEPA-Basislastschriftmandat durch Telefax übermittelt, ist dessen Original innerhalb einer Frist von einem Monat nach Eingang des Telefax nachzureichen. Andernfalls gilt als Zahlungstag der Tag des Eingangs des Originals;
+
+5. bei elektronisch übermittelter Zahlung der Tag, an dem der Betrag dem Konto der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt gutgeschrieben wird; bei Kartenzahlverfahren und dem Einsatz elektronischer Zahlungssysteme der Tag der Akzeptanz.
 
 # § 3 – Übergangsregelung
 

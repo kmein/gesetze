@@ -968,7 +968,7 @@ kann;
 
 2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
-a) Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz 2 Abschnitt B Nummer 1 bis 11 gewählten Wahlqualifikationen herstellen, applizieren und prüfen,
+a) Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren und prüfen,
 
 b) nach vorgegebener Zusammensetzung eine Arbeitsrezeptur erstellen;
 
@@ -996,7 +996,7 @@ b) Aufbau, Eigenschaften und Wirkungsweise von Lackrohstoffen,
 
 c) Formulierung von Beschichtungsstoffen,
 
-d) drei der nach § 18 Absatz 2 Abschnitt B Nummer 1 bis 11 gewählten Wahlqualifikationen;
+d) drei der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen;
 
 3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 

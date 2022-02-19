@@ -53,7 +53,7 @@ a) von einer internationalen, auf dem Gebiet des gewerblichen Rechtsschutzes tä
 
 b) sich zur Bearbeitung durch das Deutsche Patent- und Markenamt eignet.
 
-Das Zertifikat, das der verwendeten elektronischen Signatur zugrunde liegt, muss durch das Deutsche Patent- und Markenamt oder durch eine von ihm beauftragte Stelle überprüfbar sein.
+Die elektronische Signatur muss durch das Deutsche Patent- und Markenamt oder durch eine von ihm beauftragte Stelle überprüfbar sein.
 
 (4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen von Patenten beim Deutschen Patent- und Markenamt auch unter Verwendung des für deutsche Patentanmeldungen entwickelten Anmeldesystems (DE-Modul) der vom Europäischen Patentamt herausgegebenen Software epoline eingereicht werden. Die jeweils im Amtsblatt des Europäischen Patentamts bekannt gemachten technischen Bedingungen sind anzuwenden.
 
