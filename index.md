@@ -1317,7 +1317,6 @@
 - [CanBV](laws/CanBV.md) Verordnung über die Begleiterhebung nach § 31 Absatz 6 des Fünften Buches Sozialgesetzbuch
 - [CCDAfrikaÜbk](laws/CCDAfrikaÜbk.md) Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung in den von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika
 - [CCDSekrSitzAbkG](laws/CCDSekrSitzAbkG.md) Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats des Übereinkommens
-- [ChemBioLackAusbErprobV](laws/ChemBioLackAusbErprobV.md) Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
 - [ChemBioLackAusbV 2009](laws/ChemBioLackAusbV_2009.md) Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack *)
 - [ChemBiozidDV](laws/ChemBiozidDV.md) Verordnung über die Meldung und die Abgabe von Biozid-Produkten sowie zur Durchführung der Verordnung (EU) Nr. 528/2012
 - [ChemFachAusbV](laws/ChemFachAusbV.md) Verordnung über die Berufsausbildung zur Produktionsfachkraft Chemie
@@ -1588,7 +1587,7 @@
 - [EAKAV](laws/EAKAV.md) Verordnung zum elektronischen Anzeigeverfahren für inländische Investmentvermögen und EU-Investmentvermögen nach dem Kapitalanlagegesetzbuch
 - [EALG](laws/EALG.md) Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage
 - [EAMIV](laws/EAMIV.md) Verordnung über die Mindestanforderungen an die Informationen in elektronischen Programmen für die Verordnung von Arzneimitteln durch Vertragsärzte und über die Veröffentlichung der Beschlüsse des Gemeinsamen Bundesausschusses
-- [EAPatV](laws/EAPatV.md) Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof
+- [EAPatV](laws/EAPatV.md) Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und Markenamt, dem Patentgericht und dem Bundesgerichtshof
 - [EAZV](laws/EAZV.md) Verordnung zur Regelung der Arbeitszeit der den Gesellschaften des Deutsche Bahn Konzerns zugewiesenen Beamtinnen und Beamten des Bundeseisenbahnvermögens
 - [EBABGebV](laws/EBABGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes, der benannten Stelle und der bestimmten Stelle
 - [eBAnzV](laws/eBAnzV.md) Verordnung über die Übertragung der Führung des Unternehmensregisters
@@ -3926,6 +3925,8 @@
 - [Münz20EuroBek 2021-04-23/1](laws/Münz20EuroBek_2021-04-23_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „200. Geburtstag Sebastian Kneipp“)
 - [Münz20EuroBek 2021-06-21/1](laws/Münz20EuroBek_2021-06-21_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Fußball-Europameisterschaft 2020“)
 - [Münz20EuroBek 2021-06-21/2](laws/Münz20EuroBek_2021-06-21_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Schwarzspecht“ der Serie „Heimische Vögel“)
+- [Münz20EuroBek 2022-01-20/1](laws/Münz20EuroBek_2022-01-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Rumpelstilzchen“)
+- [Münz20EuroBek 2022-01-20/2](laws/Münz20EuroBek_2022-01-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „225. Geburtstag Annette von Droste-Hülshoff“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -3959,6 +3960,7 @@
 - [Münz2EuroBek 2020-01-22](laws/Münz2EuroBek_2020-01-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Brandenburg“)
 - [Münz2EuroBek 2021-02-08/1](laws/Münz2EuroBek_2021-02-08_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „50 Jahre Kniefall von Warschau“)
 - [Münz2EuroBek 2021-02-08/2](laws/Münz2EuroBek_2021-02-08_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Sachsen-Anhalt“)
+- [Münz2EuroBek 2022-01-20](laws/Münz2EuroBek_2022-01-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Thüringen“)
 - [Münz2PfBek 1950](laws/Münz2PfBek_1950.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek_1968.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig

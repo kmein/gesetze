@@ -1,11 +1,17 @@
 % Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter  (Hauptzollamtszuständigkeitsverordnung - HZAZustV)
-% Ausfertigungsdatum: 13.11.2020
+% Ausfertigungsdatum: 14.02.2022
  
 # Eingangsformel
 
 Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 Nummer 7 Buchstabe b des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, und des § 387 Absatz 2 Satz 1 bis 3 sowie des § 409 Satz 2 in Verbindung mit § 387 Absatz 2 Satz 1 bis 3 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61) verordnet das Bundesministerium der Finanzen:
 
 # Inhaltsübersicht
+
+ 
+
+ 
+
+ 
 
  
 
@@ -205,7 +211,7 @@ Dem Hauptzollamt Erfurt wird die Zuständigkeit für die Außenwirtschaftsprüfu
 
 Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten übertragen für
 
-1. die Bewilligung von Versandvereinfachungen im Luftverkehr gemäß Artikel 233 Absatz 4 Buchstabe e der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, in der jeweils geltenden Fassung in Verbindung mit Artikel 199 der Delegierten Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt durch die Delegierte Verordnung (EU) 2020/877 (ABl. L 203 vom 26.6.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung und Artikel 46 in Verbindung mit Artikel 24 Absatz 1 der Delegierten Verordnung (EU) 2016/341 der Kommission vom 17. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates hinsichtlich der Übergangsbestimmungen für bestimmte Vorschriften des Zollkodex der Union, für den Fall, dass die entsprechenden elektronischen Systeme noch nicht betriebsbereit sind, und zur Änderung der Delegierten Verordnung (EU) 2015/2446 (ABl. L 69 vom 15.3.2016, S. 1; L 101 vom 16.4.2016, S. 33; L 101 vom 13.4.2017, S. 177; L 281 vom 31.10.2017, S. 34), die durch die Delegierte Verordnung (EU) 2020/877 (ABl. L 203 vom 26.6.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung aller Hauptzollämter bundesweit sowie
+1. die Bewilligung von Versandvereinfachungen im Luftverkehr gemäß Artikel 233 Absatz 4 Buchstabe e der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2; L 317 vom 1.10.2020, S. 39), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, in der jeweils geltenden Fassung in Verbindung mit Artikel 199 der Delegierten Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164; L 387 vom 19.11.2020, S. 24), die zuletzt durch die Delegierte Verordnung (EU) 2021/1934 (ABl. L 396 vom 10.11.2021, S. 10) geändert worden ist, in der jeweils geltenden Fassung und Artikel 46 in Verbindung mit Artikel 24 Absatz 1 der Delegierten Verordnung (EU) 2016/341 der Kommission vom 17. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates hinsichtlich der Übergangsbestimmungen für bestimmte Vorschriften des Zollkodex der Union, für den Fall, dass die entsprechenden elektronischen Systeme noch nicht betriebsbereit sind, und zur Änderung der Delegierten Verordnung (EU) 2015/2446 (ABl. L 69 vom 15.3.2016, S. 1; L 101 vom 16.4.2016, S. 33; L 101 vom 13.4.2017, S. 177; L 281 vom 31.10.2017, S. 34; L 387 vom 19.11.2020, S. 26), die durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom 23.2.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung aller Hauptzollämter bundesweit sowie
 
 2. die Straf- und Bußgeldsachen des Hauptzollamts Gießen.
 
@@ -253,7 +259,7 @@ Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
 3. die Auszahlung und die Buchung der Produktionserstattungen für die Verwendung von Zucker aller Hauptzollämter bundesweit,
 
-4. die Einnahme und die Buchung der Abgaben im Milchsektor,
+4. die Einnahme und die Buchung der Abgaben im Milchsektor aller Hauptzollämter bundesweit,
 
 5. die Festsetzung und die Erhebung von Ausfuhrabgaben für Marktordnungswaren nach dem Marktorganisationsgesetz aller Hauptzollämter bundesweit; davon unberührt bleibt die Zuständigkeit für die Entgegennahme der Anmeldung und des Antrags auf Abfertigung, für die die Ausfuhrzollstelle zuständig ist,
 
@@ -263,11 +269,13 @@ Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
 8. die Festsetzung und die Erhebung der Kraftfahrzeugsteuer des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg,
 
-9. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen der Hauptzollämter Itzehoe, Kiel und Stralsund,
+9. die Festsetzung und Erhebung von Antidumping- sowie von Ausgleichszöllen nach der Durchführungsverordnung (EU) 2019/1131 der Kommission vom 2. Juli 2019 zur Einführung eines Zollinstruments für die Durchführung von Artikel 14a der Verordnung (EU) 2016/1036 des Europäischen Parlaments und des Rates und Artikel 24a der Verordnung (EU) 2016/1037 des Europäischen Parlaments und des Rates (ABl. L 179 vom 3.7.  2019, S. 12) in der jeweils geltenden Fassung aller Hauptzollämter bundesweit,
 
-10. die Sonderprüfungen der Hauptzollämter Bremen, Itzehoe, Kiel, Oldenburg und Stralsund sowie
+10. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen der Hauptzollämter Itzehoe, Kiel und Stralsund,
 
-11. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg.
+11. die Sonderprüfungen der Hauptzollämter Bremen, Itzehoe, Kiel, Oldenburg und Stralsund sowie
+
+12. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg.
 
 # § 17 – Hauptzollamt Hannover
 
@@ -411,7 +419,7 @@ Dem Hauptzollamt München werden die Zuständigkeiten übertragen für
 
 2. die Bewilligung von Stundungen, die Anforderung und den Erlass von Stundungs-, Säumnis-, Verzugs- oder Kreditzinsen und Säumniszuschlägen sowie die Vollstreckung der daraus resultierenden Geldforderungen im Zusammenhang mit dem vom Hauptzollamt München bewilligten laufenden Zahlungsaufschub aller Hauptzollämter bundesweit,
 
-3. die Bewilligung der Inanspruchnahme einer Gesamtbürgschaft oder der Befreiung von der Sicherheitsleistung nach den Artikeln 89 bis 96 der Verordnung (EU) Nr. 952/2013 und den Artikeln 48 bis 61 der Anlage I zum Übereinkommen über ein gemeinsames Versandverfahren (ABl. L 226 vom 13.8.1987, S. 2), das zuletzt durch den Beschluss Nr. 1/2019 (ABl. L 103 vom 3.4.2020, S. 47) geändert worden ist, in der jeweils geltenden Fassung der Hauptzollämter Augsburg, Landshut und Rosenheim sowie
+3. die Bewilligung der Inanspruchnahme einer Gesamtbürgschaft oder der Befreiung von der Sicherheitsleistung nach den Artikeln 89 bis 96 der Verordnung (EU) Nr. 952/2013 und den Artikeln 48 bis 61 der Anlage I zum Übereinkommen über ein gemeinsames Versandverfahren (ABl. L 226 vom 13.8.1987, S. 2), das zuletzt durch den Beschluss Nr. 1/2021 (ABl. L 240 vom 7.7.2021, S. 5) geändert worden ist, in der jeweils geltenden Fassung der Hauptzollämter Augsburg, Landshut und Rosenheim sowie
 
 4. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Augsburg, Landshut und Rosenheim.
 
@@ -555,7 +563,7 @@ Dem Hauptzollamt Stuttgart werden die Zuständigkeiten übertragen für
 
 4. die Festsetzung und die Erhebung der Alkoholsteuer auf Abfindungsalkohol aller Hauptzollämter bundesweit, ausgenommen in den Fällen des § 23 Absatz 4 der Alkoholsteuerverordnung,
 
-5. die Erteilung von Erlaubnissen zur Gewinnung, Lagerung und Beförderung von Alkohol in einer Abfindungsbrennerei unter Steueraussetzung aller Hauptzollämter bundesweit,
+5. die Ausstellung von Bescheinigungen gemäß Artikel 23a Absatz 1 der Richtlinie 92/83/EWG des Rates vom 19. Oktober 1992 zur Harmonisierung der Struktur der Verbrauchsteuern auf Alkohol und alkoholische Getränke (ABl. L 316 vom 31.10.1992, S. 21; L 19 vom 27.1.1995, S. 52), die zuletzt durch die Richtlinie (EU) 2020/1151 (ABl. L 256 vom 5.8.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung aller Hauptzollämter bundesweit,
 
 6. die Auskunftserteilung und die Datenübermittlung an die land- und forstwirtschaftlichen Berufsgenossenschaften aller Hauptzollämter bundesweit,
 
@@ -583,4 +591,4 @@ b) für die Städte Burgau, Günzburg und Leipheim sowie die Gemeinden Bibertal,
 
 # § 41 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Hauptzollamtszuständigkeitsverordnung vom 18. November 2019 (BGBl. I S. 1781) außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2022 in Kraft. Gleichzeitig tritt die Hauptzollamtszuständigkeitsverordnung vom 13. November 2020 (BGBl. I S. 2487) außer Kraft.
