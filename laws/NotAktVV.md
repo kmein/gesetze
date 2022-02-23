@@ -255,9 +255,6 @@ Sofern dies zur Unterscheidung der Beteiligten erforderlich ist, sind weitere An
 
 (5) In gesellschaftsrechtlichen Angelegenheiten ist die Gesellschaft auch dann einzutragen, wenn sie nicht Beteiligte ist. Absatz 2 Satz 4 und Absatz 3 gelten entsprechend.
 
-(+++ § 12 Abs. 2 und 3: Zur Geltung vgl. § 24 +++  
-+++ § 12 Abs. 3: Zur Geltung vgl. § 25 Abs. 3 S 2 +++)
-
 # § 13 – Angabe des Geschäftsgegenstands
 
 Der Geschäftsgegenstand ist stichwortartig und hinreichend unterscheidungskräftig zu bezeichnen. Hat die Bundesnotarkammer für den Geschäftsgegenstand eine bestimmte Formulierung vorgesehen, so ist diese zu verwenden.
