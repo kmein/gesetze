@@ -2706,7 +2706,6 @@
 - [HmbNSGBefV](laws/HmbNSGBefV.md) Verordnung über das Befahren der Bundeswasserstraße Elbe in bestimmten Naturschutzgebieten der Freien und Hansestadt Hamburg
 - [HNSG](laws/HNSG.md) Gesetz über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf See
 - [HNSPflichtVersBeschV](laws/HNSPflichtVersBeschV.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem HNS-Gesetz
-- [HNtragsG 2021](laws/HNtragsG_2021.md) Gesetz über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2021
 - [HOAI](laws/HOAI.md) Verordnung über die Honorare für Architekten- und Ingenieurleistungen
 - [HoBaMstrV](laws/HoBaMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Holz- und Bautenschutzgewerbe
 - [HoblMstrV](laws/HoblMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Holzblasinstrumentenmacher-Handwerk
