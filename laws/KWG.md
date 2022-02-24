@@ -2529,7 +2529,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 1. zusätzliche Eigenmittelanforderungen, die gegenüber CRR-Kreditinstituten nach § 6c angeordnet wurden, und
 
-2. sämtliche Eigenmittelempfehlungen, die CRR-Instituten nach § 6d mitgeteilt wurden.
+2. sämtliche Eigenmittelempfehlungen, die CRR-Kreditinstituten nach § 6d mitgeteilt wurden.
 
 # § 9 – Verschwiegenheitspflicht
 
@@ -4526,6 +4526,8 @@ Beim Schwellenwert nach Satz 1 Nummer 1 ist es unerheblich, ob der E-Geld-Inhabe
 
 (3) Soweit E-Geld über einen wiederaufladbaren E-Geld-Träger ausgegeben wird, hat das ausgebende Kreditinstitut Dateisysteme zu führen, in denen alle an identifizierte E-Geld-Inhaber ausgegebenen und zurückgetauschten E-Geld-Beträge mit Zeitpunkt und ausgebender oder rücktauschender Stelle aufgezeichnet werden. § 8 des Geldwäschegesetzes ist entsprechend anzuwenden.
 
+(3a) Kreditinstitute dürfen Zahlungen mit in Drittstaaten ausgestellten anonymen Guthabenkarten nur akzeptieren, wenn diese Karten die Anforderungen erfüllen, die den in Absatz 2 genannten gleichwertig sind.
+
 (4) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass bei der Verwendung eines E-Geld-Trägers
 
 1. die Voraussetzungen nach Absatz 2 nicht eingehalten werden oder
@@ -4539,8 +4541,6 @@ so kann die Bundesanstalt dem Kreditinstitut, das das E-Geld ausgibt, Anordnunge
 2. sonstige geeignete und erforderliche technische Änderungen dieses E-Geld-Trägers verlangen oder
 
 3. das E-Geld ausgebende Institut dazu verpflichten, dass es dem Risiko angemessene interne Sicherungsmaßnahmen ergreift.
-
-(3a) Kreditinstitute dürfen Zahlungen mit in Drittstaaten ausgestellten anonymen Guthabenkarten nur akzeptieren, wenn diese Karten die Anforderungen erfüllen, die den in Absatz 2 genannten gleichwertig sind.
 
 (+++ §§ 25i bis 25k: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 25i: Zur Geltung vgl. § 27 Abs. 2 Satz 1 ZAG 2018 +++)  

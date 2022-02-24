@@ -367,7 +367,7 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 
 (2) Soweit die externe Kapitalverwaltungsgesellschaft Dienst- und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 erbringt, gelten die §§ 63 bis 68, 70, 80, 82 Absatz 1 bis 9 und 13, die §§ 83 und 84 des Wertpapierhandelsgesetzes entsprechend. Soweit die externe Kapitalverwaltungsgesellschaft in den Fällen des Satzes 1 nur Dienst- und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 und 2 oder Absatz 3 Nummer 2, 3 und 5 erbringt, muss sie zusätzlich zu den Anforderungen gemäß § 25 Absatz 1 Nummer 1 Buchstabe b mit einem Anfangskapital in Höhe der Hälfte des in § 17 Absatz 1 Nummer 2 des Wertpapierinstitutsgesetzes genannten Betrages ausgestattet sein. Soweit sie auch die Dienst- und Nebendienstleistung im Sinne des § 20 Absatz 2 Nummer 3 oder Absatz 3 Nummer 4 erbringt, muss die externe Kapitalverwaltungsgesellschaft zusätzlich zu den Anforderungen gemäß § 25 Absatz 1 Nummer 1 Buchstabe b mit einem Anfangskapital in Höhe der Hälfte des in § 17 Absatz 1 Nummer 3 des Wertpapierinstitutsgesetzes genannten Betrages ausgestattet sein.
 
-(3) Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein inländisches Unternehmen den Vorschriften dieses Gesetzes unterliegt oder ob ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt. Ihre Entscheidung bindet die Verwaltungsbehörden.
+(3) Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein inländisches Unternehmen den Vorschriften dieses Gesetzes unterliegt oder dass ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt. Ihre Entscheidung bindet die Verwaltungsbehörden.
 
 (4) Die Bundesanstalt überwacht die Einhaltung der Bestimmungen des § 26 Absatz 2 bis 8, des § 27, des § 51 Absatz 8, des § 54 Absatz 4 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 4 und des § 66 Absatz 4 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 4 durch ausländische AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, oder EU-Verwaltungsgesellschaften, wenn die ausländische AIF-Verwaltungsgesellschaft oder die EU-Verwaltungsgesellschaft Investmentvermögen im Inland über eine Zweigniederlassung verwaltet oder vertreibt.
 
@@ -1538,9 +1538,9 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur der Ka
 
 # § 38 – Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung
 
-(1) Für den Jahresabschluss, den Lagebericht und den Prüfungsbericht einer externen Kapitalverwaltungsgesellschaft gelten die §§ 340a bis 340o des Handelsgesetzbuchs entsprechend. § 26 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
+(1) Für den Jahresabschluss, den Lagebericht und den Prüfungsbericht einer externen Kapitalverwaltungsgesellschaft gelten die §§ 340a bis 340o des Handelsgesetzbuchs entsprechend. § 26 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten und der festgestellte Jahresabschluss sowie der Lagebericht der Bundesanstalt auf Verlangen zu übermitteln sind.
 
-(2) Auf die Bestellung eines Abschlussprüfers ist § 28 des Kreditwesengesetzes mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten und der festgestellte Jahresabschluss sowie der Lagebericht der Bundesanstalt auf Verlangen zu übermitteln sind.
+(2) Auf die Bestellung eines Abschlussprüfers ist § 28 des Kreditwesengesetzes mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
 
 (3) Bei der Prüfung des Jahresabschlusses hat der Abschlussprüfer auch die wirtschaftlichen Verhältnisse der externen Kapitalverwaltungsgesellschaft zu prüfen. Er hat festzustellen, ob die externe Kapitalverwaltungsgesellschaft ihren Verpflichtungen nach dem Geldwäschegesetz nachgekommen ist und die Anzeigepflichten nach den §§ 34, 35, 49 und 53, die Anforderungen nach den §§ 25 bis 28, 29, 30, 36 und 37 sowie die Anforderungen nach
 
@@ -7328,7 +7328,7 @@ Mit Eingang der Ergänzungsanzeige beginnt die in Satz 2 genannte Frist erneut. 
 
 3. die AIF-Verwaltungsgesellschaft und die Verwaltung des angezeigten AIF durch sie den Anforderungen der Richtlinie 2011/61/EU entsprechen;
 
-4. die AIF-Verwaltungsgesellschaft ausländische der Bundesanstalt ein inländisches Kreditinstitut oder eine zuverlässige, fachlich geeignete Person mit Sitz oder Wohnsitz im Geltungsbereich dieses Gesetzes als Repräsentanten benennt, die hinreichend ausgestattet ist, um die Compliance-Funktion entsprechend § 57 Absatz 3 Satz 4 wahrnehmen zu können;
+4. die ausländische AIF-Verwaltungsgesellschaft der Bundesanstalt ein inländisches Kreditinstitut oder eine zuverlässige, fachlich geeignete Person mit Sitz oder Wohnsitz im Geltungsbereich dieses Gesetzes als Repräsentanten benennt, die hinreichend ausgestattet ist, um die Compliance-Funktion entsprechend § 57 Absatz 3 Satz 4 wahrnehmen zu können;
 
 5. eine Verwahrstelle die Gegenstände des AIF in einer Weise sichert, die den Vorschriften der §§ 80 bis 90 vergleichbar ist;
 
@@ -7366,8 +7366,6 @@ g) bei geschlossenen AIF vorsehen, dass die Anleger zumindest am Ende der Laufze
 h) Regelungen enthalten, die sicherstellen, dass die Bewertung des AIF bei offenen AIF in einer den §§ 168 bis 170, 216 und 217, bei mit Immobilien-Sondervermögen oder Infrastruktur-Sondervermögen vergleichbaren AIF unter Berücksichtigung der Sonderregelung in den §§ 248 bis 251 und bei geschlossenen AIF in einer den §§ 271 und 272 entsprechenden Weise erfolgt,
 
 i) vorsehen, dass eine Kostenvorausbelastung nach Maßgabe des § 304 eingeschränkt ist und dass im Jahresbericht und gegebenenfalls in den Halbjahresberichten die Angaben gemäß § 101 Absatz 2 Nummer 4 zu machen sind,
-
-j) bei geschlossenen AIF zudem vorsehen, dass die Bildung von Teilinvestmentvermögen und Master-Feeder-Konstruktionen ausgeschlossen ist;
 
 j) bei mit Infrastruktur-Sondervermögen vergleichbaren Investmentvermögen eine Regelung entsprechend § 260c, § 260a in Verbindung mit den §§ 255, 257 vorsehen;
 
@@ -7856,7 +7854,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 1. dass die Bundesanstalt im Rahmen von § 331 Absatz 5 zusätzlich der Europäischen Wertpapier- und Marktaufsichtsbehörde mitteilt, dass die AIF-Kapitalverwaltungsgesellschaft mit dem Vertrieb von Anteilen oder Aktien des angezeigten AIF an professionelle Anleger im Aufnahmemitgliedstaat der AIF-Kapitalverwaltungsgesellschaft beginnen kann,
 
-2. dass die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
+2. dass die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 9 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
 # § 333 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -7868,7 +7866,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 2. die Bundesanstalt im Rahmen von § 331 Absatz 5 zusätzlich der Europäischen Wertpapier- und Marktaufsichtsbehörde mitteilt, dass die ausländische AIF-Verwaltungsgesellschaft mit dem Vertrieb von Anteilen oder Aktien des angezeigten AIF an professionelle Anleger im Aufnahmemitgliedstaat der ausländischen AIF-Verwaltungsgesellschaft beginnen kann, und
 
-3. die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
+3. die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 9 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
 # § 334 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
