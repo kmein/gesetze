@@ -395,6 +395,8 @@ b) sollte die Verarbeitung der Rohstofflieferung mehrere Outputs hervorbringen, 
 
 (4) Weitergehende Anforderungen in Zertifizierungssystemen, die die Vermischung von Biokraftstoffen, flüssigen Biobrennstoffen oder Biomasse-Brennstoffen mit anderer Biomasse ganz oder teilweise ausschließen, bleiben unberührt.
 
+(+++ § 10 Abs. 1: Zur Anwendung vgl. § 16 Abs. 1 Satz 4 +++)
+
 # § 11 – Lieferung auf Grund von Massenbilanzsystemen
 
 (1) Um die Herkunft der Biokraftstoffe von der Schnittstelle, die den Nachhaltigkeitsnachweis ausgestellt hat, nachzuweisen,
@@ -507,6 +509,8 @@ d) die Angabe „Biokraftstoff mit hohem iLUC-Risiko“, soweit es sich um einen
 
 (2) § 13 und § 17 Absatz 1 Nummer 2 und Absatz 2 sind entsprechend anzuwenden.
 
+(+++ § 15: Zur Anwendung vgl. § 24 Abs. 2 +++)
+
 # § 16 – Nachhaltigkeits-Teilnachweise
 
 (1) Die zuständige Behörde stellt für Teilmengen von Biokraftstoffen, für die bereits ein Nachhaltigkeitsnachweis ausgestellt worden ist, auf Antrag der Inhaberin oder des Inhabers des Nachhaltigkeitsnachweises Nachhaltigkeits-Teilnachweise aus. Der Antrag ist elektronisch zu stellen. Die Nachhaltigkeits-Teilnachweise werden unverzüglich und elektronisch nach Vorlage des Nachhaltigkeitsnachweises, der in Teilnachweise aufgeteilt werden soll, ausgestellt. § 10 Absatz 1 ist entsprechend anzuwenden.
@@ -581,6 +585,8 @@ Wenn eine Schnittstelle oder ein Lieferant die Anforderungen nach Absatz 1 Numme
 
 (4) Zur Ausstellung von Zertifikaten nach den Absätzen 1 und 2 sind nur Zertifizierungsstellen berechtigt, die nach dieser Verordnung anerkannt sind und die von dem Zertifizierungssystem nach Absatz 1 Nummer 1 benannt worden sind. Die Zertifikate müssen in diesem Zertifizierungssystem ausgestellt werden.
 
+(+++ § 19 Abs 2 Satz 2: Zur Anwendung vgl. § 32 Abs. 1 Satz 3 +++)
+
 # § 20 – Inhalt der Zertifikate
 
 Zertifikate müssen folgende Angaben enthalten:
@@ -606,6 +612,8 @@ c) die jährliche Herstellungskapazität,
 # § 21 – Folgen fehlender Angaben
 
 Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach § 20 nicht enthalten.
+
+(+++ § 21: Zur Anwendung vgl. § 23 Abs. 2 +++)
 
 # § 22 – Gültigkeit der Zertifikate
 
@@ -683,6 +691,8 @@ c) für alle Orte, an denen sie nach dieser Verordnung Tätigkeiten ausüben, au
 
 3. einzelne Geltungsbereiche.
 
+(+++ § 26 Abs. 2 Satz 4: Zur Anwendung vgl. § 38 Abs. 1 Satz 2 +++)
+
 # § 27 – Verfahren zur Anerkennung von Zertifizierungsstellen
 
 (1) Das Verfahren zur Anerkennung von Zertifizierungsstellen kann über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes durchgeführt werden.
@@ -732,6 +742,10 @@ Die Zertifizierungsstellen müssen ein Verzeichnis aller Schnittstellen und Lief
 (2) Die Beschäftigten der Zertifizierungsstellen sind befugt, während der Geschäfts- oder Betriebszeit Grundstücke, Geschäfts-, Betriebs- und Lagerräume sowie Transportmittel der Schnittstellen und Lieferanten zu betreten, soweit dies für die Kontrolle nach Absatz 1 erforderlich ist. Diese Befugnis bezieht sich auf alle Orte im Geltungsbereich dieser Verordnung, an denen die Schnittstellen und Lieferanten im Zusammenhang mit der Herstellung oder Lieferung von Biomasse oder Biokraftstoffen, für die ein Nachhaltigkeitsnachweis nach dieser Verordnung ausgestellt wird, Tätigkeiten ausübt.
 
 (3) Die Schnittstellen und Lieferanten im Geltungsbereich dieser Verordnung sind verpflichtet, die Kontrollen nach den Absätzen 1 und 2 zu dulden.
+
+(+++ § 32 Abs. 2 und 3: Zur Anwendung vgl. § 33 Satz 4  
+§ 32 Abs. 2 und 3: Zur Anwendung vgl. § 34 Satz 4  
+§ 32 Abs. 2 Satz 2 und Abs. 3: Zur Anwendung vgl. § 38 Abs. 2 Satz 2 +++)
 
 # § 33 – Kontrolle des Anbaus
 
