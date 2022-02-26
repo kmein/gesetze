@@ -93,7 +93,7 @@ Andere Begriffe
 
 39. „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161° C verflüssigt wurde.
 
-40. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2019/12<span id="FnR.bjnr130030011bjne000202125_01"></span><a href="#bjnr130030011bjne000202125_01" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+40. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1<span id="FnR.bjnr130030011bjne000202125_01"></span><a href="#bjnr130030011bjne000202125_01" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
 # § 1.02 – Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
 

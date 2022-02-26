@@ -27,6 +27,10 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 19
 
 # Art 1a – (weggefallen)
 
+# Art 1a – Vorschriften über die Schiffsuntersuchung
+
+§ 1.08 Nummer 3, § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter Spiegelstrich sowie die Anlage 13 Satz 1 zweiter Spiegelstrich und Nummer 2.2 der Tabelle der Rheinschifffahrtspolizeiverordnung – Anlage zu dieser Verordnung – sowie die nach Artikel 2 Absatz 2 erlassenen Rechtsverordnungen sind mit der Maßgabe anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in der jeweils geltenden und anzuwendenden Fassung bezieht.
+
 # Art 2 – Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
@@ -329,7 +333,7 @@ e) die Meldepflicht nach § 9.07 Nummer 3 Buchstabe c,
 
 f) die Höchstabmessungen der Schubverbände und gekuppelten Fahrzeuge nach § 11.02 Nummer 1, soweit die befahrene Strecke auf dem Gebiet der Bundesrepublik Deutschland liegt,
 
-g) die Meldepflicht nach § 12.01 Nummer 1, auch in Verbindung mit Nummer 9, Nummer 2, 3 Satz 2, Nummer 4 bis 8 oder Nummer 10,
+g) die Meldepflicht nach § 12.01 Nummer 1 in Verbindung mit Nummer 2 und 3, Nummer 4, 5, 6 Satz 2 oder Nummer 7 bis Nummer 9 erster Spiegelstrich,
 
 h) die Eintauchtiefe von Kanalpenichen nach § 13.03 Nr. 2 oder
 

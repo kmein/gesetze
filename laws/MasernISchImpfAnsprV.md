@@ -17,4 +17,4 @@ Versicherte, die das 60. Lebensjahr vollendet haben, haben im Rahmen der Verfüg
 
 # § 3 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft und am 31. März 2022 außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft und am 31. März 2023 außer Kraft.

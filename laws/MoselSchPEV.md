@@ -27,6 +27,10 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 Nr. 2 der Verordnung vom 26. Febr
 
 # Art 1a – (weggefallen)
 
+# Art 1a – Vorschriften über die Schiffsuntersuchung
+
+§ 1.08 Nummer 3 Satzteil vor Buchstabe a und Buchstabe a, § 1.10 Nummer 1 Buchstabe x und Nummer 2 Satz 7, § 1.21 Nummer 4 und § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter Spiegelstrich der Moselschifffahrtspolizeiverordnung – Anlage zu dieser Verordnung – sowie die nach Artikel 2 Absatz 2 erlassenen Rechtsverordnungen sind mit der Maßgabe anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in der jeweils geltenden und anzuwendenden Fassung bezieht.
+
 # Art 2 – Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schiffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
@@ -267,7 +271,7 @@ zuwiderhandelt,
 
 23. ein Fahrzeug führt, das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist oder an dem entgegen § 2.04 Nr. 1 Satz 1 oder Nr. 2 Satz 1 Einsenkungsmarken oder Tiefgangsanzeiger nicht angebracht sind,
 
-24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet ist,
+24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
 
@@ -417,7 +421,7 @@ h) das entgegen § 2.03 nicht geeicht ist,
 
 i) an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen § 2.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
 
-j) dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet ist,
+j) dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 k) dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter Halbsatz nicht die vorgeschriebene Tragweite hat,
 
