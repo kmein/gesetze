@@ -347,7 +347,7 @@ Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
 § 3.28
 
-Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen
+Zusätzliche Bezeichnung der Sondertransporte sowie der Fahrzeuge und schwimmenden Geräte, die Arbeiten im Fahrwasser ausführen
 
 § 3.29
 
@@ -1072,16 +1072,22 @@ ad)
 „Bunkerbereich“ der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
 
 ae)  
-„Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161 °C verflüssigt wurde.
+„Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161 °C verflüssigt wurde;
 
 af)  
-„festverbundener Tank“ ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können.
+„festverbundener Tank“ ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können;
 
 ag)  
-„Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter, Jetbike oder Jetski oder ein anderes ähnliches Kleinfahrzeug mit eigenem mechanischem Antrieb, das eine oder mehrere Personen befördern kann und dafür gebaut und ausgelegt ist, um über das Wasser zu gleiten oder Figuren auszuführen.
+„Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter, Jetbike oder Jetski oder ein anderes ähnliches Kleinfahrzeug mit eigenem mechanischem Antrieb, das eine oder mehrere Personen befördern kann und dafür gebaut und ausgelegt ist, um über das Wasser zu gleiten oder Figuren auszuführen;
 
 aj)  
 „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
+
+ah)  
+„Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
+
+ai)  
+„Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
 
 # § 1.02 – Schiffsführer
 
@@ -1310,7 +1316,7 @@ SCHIFFSATTEST, GEMEINSCHAFTSZEUGNIS (oder die als Ersatz zugelassene Urkunde):<b
 
   
   
-Sofern der Schubleichter über eine amtliche Schiffsnummer verfügt, ist dieser Begriff auf der Metalltafel anzubringen und die amtliche Schiffsnummer des Schubleichters anzugeben. Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel mit denen im Schiffsattest oder Gemeinschaftszeugnis des Schubleichters oder der als Ersatz zugelassenen Urkunde muss von einer Schiffsuntersuchungskommission oder durch die Behörde, die die als Ersatz zugelassene Urkunde ausgestellt hat, dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f muss der Eigentümer des Schubleichters aufbewahren. Auf die Mitführung der Schiffspapiere nach Nummer 1 Buchstabe x kann verzichtet werden, wenn zusätzlich die Typgenehmigungsnummer nach Anlage J Teil I Nummer 1.1.3 der Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen Vorschriften der Moseluferstaaten auf der Metalltafel angebracht ist.
+Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel mit denen im Schiffsattest oder Gemeinschaftszeugnis des Schubleichters oder der als Ersatz zugelassenen Urkunde muss von einer Schiffsuntersuchungskommission oder durch die Behörde, die die als Ersatz zugelassene Urkunde ausgestellt hat, dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f muss der Eigentümer des Schubleichters aufbewahren. Auf die Mitführung der Schiffspapiere nach Nummer 1 Buchstabe x kann verzichtet werden, wenn zusätzlich die Typgenehmigungsnummer nach Anlage J Teil I Nummer 1.1.3 der Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen Vorschriften der Moseluferstaaten auf der Metalltafel angebracht ist.
 
 <!-- -->
 
@@ -1320,7 +1326,7 @@ Sofern der Schubleichter über eine amtliche Schiffsnummer verfügt, ist dieser 
 
 # § 1.11 – Mitführen der Moselschifffahrtspolizeiverordnung
 
-An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und Schubleichter, muss sich ein Abdruck dieser Verordnung, der auch eine auf elektronischem Wege jederzeit lesbare Textfassung sein darf, in ihrer jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach § 1.22 Nr. 3, befinden.
+An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und Schubleichter, muss sich ein Abdruck dieser Verordnung, in ihrer jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach § 1.22a befinden. Es darf auch eine auf elektronischem Wege jederzeit lesbare Textfassung sein.
 
 # § 1.12 – Gefährdung durch Gegenstände an Bord, Verlust von Gegenständen, Schiffahrtshindernisse
 
@@ -1452,13 +1458,7 @@ b) sein Heimat- oder Registerort.
 
 Der Name des Heimat- oder Registerortes ist entweder auf beiden Seiten oder am Heck des Fahrzeugs anzubringen; ihm folgt der Buchstabe oder die Buchstabengruppe des Landes, in dem der Heimat- oder Registerort liegt;
 
-c) seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer. Diese Kennzeichnung ist nur für die Fahrzeuge verbindlich, denen eine einheitliche europäische Schiffsnummer erteilt wurde;
-
-d) seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern besteht, denen gegebenenfalls ein Kleinbuchstabe folgt. Die beiden ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser amtlichen Schiffsnummer. Diese Kennzeichnung ist nur für die Fahrzeuge verbindlich, denen eine amtliche Schiffsnummer erteilt wurde, die noch nicht in eine einheitliche europäische Schiffsnummer umgewandelt wurde.
-
-  
-  
-Die einheitliche europäische Schiffsnummer und die amtliche Schiffsnummer sind nach den unter Satz 1 Buchstabe a aufgeführten Bedingungen anzubringen.
+c) seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer. Die einheitliche europäische Schiffsnummer ist nach den unter Buchstabe a aufgeführten Bedingungen anzubringen.
 
 2. Darüber hinaus muß - mit Ausnahme der Kleinfahrzeuge und der Seeschiffe -
 
@@ -1466,7 +1466,7 @@ a) an jedem Fahrzeug, das zur Güterbeförderung bestimmt ist, die Tragfähigkei
 
 b) an jedem Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, die höchstzulässige Anzahl der Fahrgäste an Bord an gut sichtbarer Stelle angebracht sein.
 
-3. Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der Schriftzeichen muß beim Namen, der einheitlichen europäischen Schiffsnummer und der amtlichen Schiffsnummer mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen. Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
+3. Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der Schriftzeichen muss beim Namen und der einheitlichen europäischen Schiffsnummer mindestens 20,00 cm, bei den anderen Zeichen mindestens 15,00 cm betragen. Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
 
 4. Die Kennzeichnung nach Nummer 1 bis 3 kann für Kanalpenichen (péniches Freycinet) durch die auf den französischen Kanälen und der Saar vorgeschriebenen oder zugelassenen Kennzeichen ersetzt werden.
 
@@ -1500,9 +1500,13 @@ Bei Kanalpenichen (péniches Freycinet) können die Einsenkungsmarken auf jeder 
 
 # § 2.05 – Kennzeichen der Anker
 
-1. Schiffsanker müssen dauerhafte Kennzeichen tragen. Diese müssen mindestens entweder die Nummer des Schiffsattestes und die Unterscheidungsbuchstaben der Schiffsuntersuchungskommission oder den Namen und Wohnort des Eigentümers des Fahrzeugs enthalten. Wird der Anker auf einem anderen Fahrzeug desselben Eigentümers verwendet, kann es bei der erstmaligen Kennzeichnung verbleiben.
+1. Schiffsanker müssen dauerhafte Kennzeichen tragen. Diese müssen mindestens die einheitliche europäische Schiffsnummer des Fahrzeugs enthalten.
 
-2. Nummer 1 gilt nicht für Anker von Seeschiffen, Kleinfahrzeugen und Fahrzeugen, die nur ausnahmsweise auf der Mosel fahren.
+2. Abweichend von Nummer 1 sind bei Ankern, die sich am 30. Juni 2021 an Bord von Fahrzeugen befinden, weiterhin die Nummer des Schiffsattests und die Unterscheidungsbuchstaben der Schiffsuntersuchungskommission oder der Name und Wohnort des Eigentümers des Fahrzeugs zulässig.
+
+3. Wird die Nummer des Schiffsattests geändert, findet Nummer 2 keine Anwendung mehr.
+
+4. Nummer 1 gilt nicht für Anker von Seeschiffen, Kleinfahrzeugen und Fahrzeugen, die nur ausnahmsweise auf der Mosel fahren.
 
 # § 2.06 – Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen(Anlage 3: Bild 66)
 
@@ -2155,9 +2159,9 @@ durch gelbe Döpper in ausreichender Zahl, um ihre Lage kenntlich zu machen.
 
 ... nicht darstellbares Bild 48
 
-# § 3.25 – Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge  (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
+# § 3.25 – Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge(Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
 
-1. Schwimmende Geräte bei der Arbeit und Fahrzeuge, die in der Wasserstraße Arbeiten, Peilungen oder Messungen ausführen und dabei stilliegen, müssen führen:
+1. Schwimmende Geräte bei der Arbeit und Fahrzeuge, die im Fahrwasser Arbeiten, Peilungen oder Messungen ausführen und dabei stillliegen, müssen führen:
 
 a) nach der Seite oder den Seiten, wo die Durchfahrt frei ist:
 
@@ -2283,12 +2287,12 @@ Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein blaues Fu
 
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 36
 
-# § 3.28 – Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen  (Anlage 3: Bild 57)
+# § 3.28 – Zusätzliche Bezeichnung der Sondertransporte sowie der Fahrzeuge und schwimmenden Geräte, die Arbeiten im Fahrwasser ausführen(Anlage 3: Bild 57)
 
-In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten, Peilungen oder Messungen ausführen, können mit Erlaubnis der zuständigen Behörde bei Nacht und bei Tag außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung zeigen:  
-ein von allen Seiten sichtbares gelbes gewöhnliches Funkellicht oder ein von allen Seiten sichtbares gelbes helles Funkellicht. ... nicht darstellbare 2 Bilder 57  
-
-Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
+Sondertransporte sowie Fahrzeuge und schwimmende Geräte, die im Fahrwasser Arbeiten, Peilungen oder Messungen ausführen, können, um auf sich aufmerksam zu machen, mit Erlaubnis der zuständigen Behörde bei Nacht und bei Tag außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung zeigen:  
+  
+ein von allen Seiten sichtbares gelbes gewöhnliches Funkellicht oder ein von allen Seiten sichtbares gelbes helles Funkellicht.   
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2021/j0454_0010.jpg)
 
 # § 3.29 – Schutz gegen Wellenschlag  (Anlage 3 Bild 58)
 
@@ -2479,7 +2483,7 @@ a) wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der 
 
 b) für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Hinsichtlich der Mindestanforderungen an Inland ECDIS Geräte im Informationsmodus und an elektronische Binnenschifffahrtskarten gilt § 4.07 Nummer 3 Satz 2 der Rheinschifffahrtspolizeiverordnung in der zum 1. Dezember 2014 anzuwendenden Fassung entsprechend.
+3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Hinsichtlich der Mindestanforderungen an Inland ECDIS Geräte im Informationsmodus und an elektronische Binnenschifffahrtskarten gilt § 4.07 Nummer 3 Satz 2 der Rheinschifffahrtspolizeiverordnung in der zum 1. Dezember 2014 anzuwendenden Fassung entsprechend.
 
 4. Es müssen folgende Daten gemäß Kapitel 2 des Standards Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt werden:
 
@@ -2870,7 +2874,7 @@ c) in der Nähe von Fahrzeugen, die auf den üblichen Liegestellen stilliegen:
 
 d) in der Nähe nicht frei fahrender Fähren;
 
-e) auf Strecken, die durch das Zeichen A.9 (Anlage 7) gekennzeichnet sind.
+e) auf Strecken der Wasserstraße, die durch das Zeichen A.9 (Anlage 7) gekennzeichnet sind.
 
 2. Gegenüber Kleinfahrzeugen besteht die Verpflichtung nach Nummer 1 Satz 2 Buchstabe b und c nicht; § 1.04 bleibt unberührt.
 
@@ -3107,9 +3111,9 @@ a) Fahrzeugen, die wegen der Natur ihrer Ladung oder aus Sicherheitsgründen die
 
 b) Fahrzeugen, die für Bergungs- oder andere dringende Arbeiten eingesetzt sind;
 
-c) Fahrgastschiffen, die für mindestens 100 Fahrgäste zugelassen sind, wenn sie einen regelmäßigen Dienst versehen.
+c) Tagesausflugsschiffen, die für mindestens 100 Fahrgäste zugelassen sind, wenn sie einen regelmäßigen Dienst versehen.   
 
-Fahrgastschiffe versehen einen regelmäßigen Dienst, wenn sie innerhalb von vier Wochen mindestens vier Fahrten (Fahrgastkabinenschiffe innerhalb einer Saison vier Fahrten) auf bestimmten Strecken mit festen Haltestellen nach einem von der zuständigen Behörde abgestimmten und der Schiffahrt mindestens einen Monat vorher bekanntgegebenen Fahrplan durchführen. Bei etwaiger nachträglicher Änderung dieses Fahrplans ist dasselbe Verfahren anzuwenden.
+Tagesausflugsschiffe versehen einen regelmäßigen Dienst, wenn sie innerhalb von vier Wochen mindestens vier Fahrten auf bestimmten Strecken mit festen Haltestellen nach einem von der zuständigen Behörde abgestimmten und der Schifffahrt mindestens einen Monat vorher bekannt gegebenen Fahrplan durchführen. Bei etwaiger nachträglicher Änderung dieses Fahrplans ist dasselbe Verfahren anzuwenden.   
 
 Das Vorrecht gilt nur für die Schleusen, die nach dem abgestimmten Fahrplan durchfahren werden.
 
@@ -3123,7 +3127,7 @@ Das Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gilt nur in dem Zeitraum v
 
 6. Nach jeder Berg- bzw. Talschleusung von Fahrzeugen, die ihr Vorrecht geltend gemacht haben, sind jeweils einmal Fahrzeuge ohne Vorrecht in derselben Richtung zu schleusen.
 
-Gegenüber Fahrzeugen und Schubverbänden von mehr als jeweils 1 500 t Tragfähigkeit, die ihre Fahrt nach einem mit der zuständigen Behörde abgestimmten Fahrplan durchführen, kann das Vorrecht von den Fahrgastschiffen nur einmal bei jeder Schleuse geltend gemacht werden.
+Gegenüber Fahrzeugen und Schubverbänden von mehr als jeweils 1 500 t Tragfähigkeit, die ihre Fahrt nach einem mit der zuständigen Behörde abgestimmten Fahrplan durchführen, kann das Vorrecht von den Tagesausflugsschiffen nur einmal bei jeder Schleuse geltend gemacht werden.
 
 7. Fahrzeuge nach § 6.26 Nr. 1 werden, soweit sie nicht Bootsschleusen oder -schleppen benutzen können, nur in Gruppen oder zusammen mit anderen Fahrzeugen geschleust.
 
@@ -5685,6 +5689,665 @@ Beispiele:
 
 (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 114)
 
+# Anlage 7 – Schiffahrtszeichen
+
+Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 96 - 114;  
+bzgl. der einzelnen Änderungen vgl. Fußnote
+
+Vorbemerkung:
+
+1. Die Zeichen in Abschnitt I können, wie in Abschnitt II angegeben, ergänzt oder erläutert werden.
+
+2. Die Tafeln können, um besser erkennbar zu sein, mit einem schmalen weißen Streifen eingefaßt werden.
+
+Abschnitt I - Hauptzeichen
+
+A. Verbotszeichen
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">A.1<br />
+Verbot der Durchfahrt (allgemeines Zeichen); (§ 3.25 Nummer 1 Buchstabe b, § 6.08 Nummer 2, § 6.16 Nummer 4, § 6.22 Nummer 1, § 6.22a, § 6.25 Nummer 1, § 6.27 und § 6.28a Nummer 3)</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">entweder Tafeln</td><td style="text-align: left;"><img src="../normengrafiken/bgbl2_2014/j0371_0001.jpg" /></td></tr><tr class="odd"><td style="text-align: left;">oder rote Lichter</td><td style="text-align: left;"><img src="../normengrafiken/bgbl2_2014/j0371_0002.jpg" /></td></tr><tr class="even"><td style="text-align: left;">oder rote Flaggen.</td><td style="text-align: left;"><img src="../normengrafiken/bgbl2_2014/j0371_0003.jpg" /></td></tr><tr class="odd"><td style="text-align: left;">Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet dies ein langdauerndes Verbot.</td><td style="text-align: left;"> </td></tr></tbody></table>
+
+A.1a  
+Gesperrte Wasserflächen; jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
+
+(§ 6.22 Nr. 2 Buchstabe a)
+
+... nicht darstellbares Zeichen
+
+A.2  
+Überholverbot, allgemein.
+
+(§ 6.11)
+
+... nicht darstellbares Tafelzeichen
+
+A.3  
+Überholverbot für Verbände untereinander. Dies gilt nicht, wenn einer der Verbände ein Schubverband ist, dessen Länge 110,00 m und dessen Breite 12,00 m nicht überschreitet.
+
+(§ 6.11)
+
+... nicht darstellbares Tafelzeichen
+
+A.4  
+Verbot des Begegnens und Überholverbot.
+
+(§ 6.08 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+A.5  
+Stilliegeverbot auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
+(§ 7.02 Nr. 1 Buchstabe c)
+
+... nicht darstellbares Tafelzeichen
+
+A.5.1  
+Stilliegeverbot auf der Wasserfläche, deren Breite, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
+
+(§ 7.02 Nr. 1 Buchstabe l)
+
+... nicht darstellbares Tafelzeichen
+
+A.6  
+Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen oder Ketten auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
+(§ 6.18 Nr. 2 und § 7.03 Nr. 1 Buchstabe b)
+
+... nicht darstellbares Tafelzeichen
+
+A.7  
+Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
+(§ 7.04 Nr. 1 Buchstabe b)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 98)
+
+A.8  
+Wendeverbot.
+
+(§ 6.13 Nr. 4)
+
+... nicht darstellbares Tafelzeichen
+
+A.9  
+Vermeidung von Wellenschlag
+
+(§ 6.20 Nummer 1 Buchstabe e und § 11.07 Nummer 8 Buchstabe b)
+
+... nicht darstellbares Tafelzeichen
+
+A.10  
+Verbot, außerhalb der angezeigten Begrenzung zu fahren.
+
+(§ 6.24 Nr. 2 Buchstabe a)
+
+... nicht darstellbares Tafelzeichen
+
+A.11  
+Verbot der Einfahrt; die Vorbereitungen zur Fortsetzung der Fahrt sind jedoch zu treffen.
+
+(§ 6.28a Nr. 1 Buchstabe c)
+
+... nicht darstellbare Zeichen
+
+A.12  
+Fahrverbot für Fahrzeuge mit Maschinenantrieb.
+
+(§ 6.22 Nr. 2 Buchstabe b)
+
+... (nicht darstellbares Tafelzeichen)
+
+A.13  
+(ohne Inhalt)
+
+A.14  
+Verbot des Wasserskilaufens.
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 99)
+
+A.15  
+Fahrverbot für Segelfahrzeuge.
+
+... nicht darstellbares Tafelzeichen
+
+A.16  
+Fahrverbot für Fahrzeuge, die weder mit Maschinenantrieb noch unter Segel fahren.
+
+... nicht darstellbares Tafelzeichen
+
+A.17  
+Verbot des Segelsurfens.
+
+... nicht darstellbares Tafelzeichen
+
+A.18  
+Fahrverbot für Wassermotorräder (Waterscooter, Jetski usw.).
+
+... nicht darstellbares Tafelzeichen
+
+B. Gebotszeichen
+
+  
+B.1  
+Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 100)
+
+B.2  
+  
+a) Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der Backbordseite des Fahrzeugs liegt.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+b) Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der Steuerbordseite des Fahrzeugs liegt.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+B.3  
+  
+a) Gebot, die Fahrrinnenseite zu halten, die auf der Backbordseite des Fahrzeugs liegt.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+b) Gebot, die Fahrrinnenseite zu halten, die auf der Steuerbordseite des Fahrzeugs liegt.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+B.4  
+  
+a) Gebot, die Fahrrinne nach Backbord zu kreuzen.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 101)
+
+b) Gebot, die Fahrrinne nach Steuerbord zu kreuzen.
+
+(§ 6.12)
+
+... nicht darstellbares Tafelzeichen
+
+B.5  
+Gebot, unter bestimmten Voraussetzungen anzuhalten.
+
+(§ 6.28 Nr. 2)
+
+B.6  
+Gebot, die angegebene Geschwindigkeit (in km/Std.) nicht zu überschreiten.
+
+... nicht darstellbares Tafelzeichen
+
+B.7  
+Gebot, Schallsignal zu geben.
+
+... nicht darstellbares Tafelzeichen
+
+B.8  
+Gebot, besondere Vorsicht walten zu lassen.
+
+(§ 6.08 Nr. 2)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 102)
+
+B.9  
+  
+a) Gebot, nur dann in die Hauptwasserstraße einzufahren oder sie zu überqueren, wenn dadurch die Fahrzeuge auf der Hauptwasserstraße nicht gezwungen werden, ihren Kurs oder ihre Geschwindigkeit zu ändern.
+
+(§ 6.16 Nr. 3)
+
+... nicht darstellbares Tafelzeichen
+
+b) wie vor
+
+... nicht darstellbares Tafelzeichen
+
+B.10  
+(ohne Inhalt)
+
+B.11  
+  
+a) Gebot, Sprechfunk zu benutzen.
+
+(§ 4.05 Nr. 5)
+
+... nicht darstellbare 2 Tafelzeichen
+
+b) Gebot, Sprechfunk auf dem angegebenen Kanal zu benutzen.
+
+(§ 4.05 Nr. 5)
+
+Beispiel: Kanal 11
+
+... nicht darstellbare 2 Tafelzeichen
+
+C. Zeichen für Einschränkungen
+
+  
+C.1  
+Die Fahrwassertiefe ist begrenzt.
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 103)
+
+C.2  
+Die lichte Höhe über dem Wasserspiegel ist begrenzt.
+
+... nicht darstellbares Tafelzeichen
+
+C.3  
+Die Breite der Durchfahrtsöffnung oder der Fahrrinne ist begrenzt.
+
+... nicht darstellbares Tafelzeichen
+
+C.4  
+Es bestehen Schifffahrtsbeschränkungen; sie sind auf einer zusätzlichen Tafel unter dem Schifffahrtszeichen angegeben.
+
+... nicht darstellbares Tafelzeichen
+
+C.5  
+Die Fahrrinne ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom Tafelzeichen entfernt halten sollen.
+
+... nicht darstellbares Tafelzeichen
+
+D. Empfehlende Zeichen
+
+  
+D.1  
+Empfohlene Durchfahrtsöffnung:
+
+a) für Verkehr in beiden Richtungen;
+
+(§ 6.25 Nr. 2 Buchstabe a)
+
+... nicht darstellbares Zeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 104)
+
+b) für Verkehr nur in der Richtung, in der die Zeichen sichtbar sind (in der anderen Richtung untersagt).
+
+(§ 6.25 Nr. 2 Buchstabe b)
+
+... nicht darstellbare Zeichen
+
+D.2  
+Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu halten.
+
+(§ 6.24 Nr. 2 Buchstabe b)
+
+... nicht darstellbare Tafeln
+
+D.3  
+Empfehlung, in der Richtung des Pfeils zu fahren;
+
+... nicht darstellbares Tafelzeichen
+
+in der Richtung vom festen Licht zum Gleichtaktlicht zu fahren.
+
+... nicht darstellbares Tafelzeichen
+
+E. Hinweiszeichen
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 10%" /><col style="width: 65%" /><col style="width: 24%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">E.1</td><td style="text-align: left;">Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).<br />
+(§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a Nr. 3)<br />
+... nicht darstellbare Tafeln<br />
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 105)</td><td style="text-align: center;"> </td></tr></tbody></table>
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 10%" /><col style="width: 51%" /><col style="width: 38%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">E.2</td><td style="text-align: left;">Kreuzung einer Hochspannungsleitung.<br />
+... nicht darstellbares Tafelzeichen</td><td style="text-align: center;"> </td></tr></tbody></table>
+
+|     |      |                                                  |
+|:---:|:-----|:------------------------------------------------:|
+| E.3 | Wehr | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0010.jpg) |
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 10%" /><col style="width: 67%" /><col style="width: 23%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">E.4a</td><td style="text-align: left;">Nicht frei fahrende Fähre.<br />
+... nicht darstellbares Tafelzeichen</td><td style="text-align: right;"> </td></tr></tbody></table>
+
+|      |                     |                                                  |
+|:----:|:--------------------|:------------------------------------------------:|
+| E.4b | Frei fahrende Fähre | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2020/j0360_0020.jpg) |
+
+  
+  
+
+  
+
+E.5  
+Erlaubnis zum Stilliegen auf der Seite der Wasserstraße, auf der das Zeichen steht.
+
+(§ 7.05 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.1  
+Erlaubnis zum Stilliegen auf der Wasserfläche, deren Breite, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
+
+(§ 7.05 Nr. 2)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.2  
+Erlaubnis zum Stilliegen auf der Wasserfläche zwischen den zwei Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben sind.
+
+(§ 7.05 Nr. 3)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 106)
+
+E.5.3  
+Höchstzahl der Fahrzeuge, die auf der Seite der Wasserstraße, auf der das Tafelzeichen steht, nebeneinander stilliegen dürfen.
+
+(§ 7.05 Nr. 4)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.4  
+Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen nach § 3.14 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.5  
+Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen nach § 3.14 Nr. 1 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.6  
+Liegestelle für Fahrzeuge der Schubschiffahrt, die die Zeichen nach § 3.14 Nr. 2 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.7  
+Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen nach § 3.14 Nr. 3 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 107)
+
+E.5.8  
+Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt, die nicht die Zeichen nach § 3.14 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.9  
+Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt, die die Zeichen nach § 3.14 Nr. 1 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.10  
+Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt, die die Zeichen nach § 3.14 Nr. 2 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.11  
+Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt, die die Zeichen nach § 3.14 Nr. 3 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.12  
+Liegestelle für alle Fahrzeuge, die kein Zeichen nach § 3.14 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 108)
+
+E.5.13  
+Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 1 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.14  
+Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 2 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.5.15  
+Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 3 führen müssen.
+
+(§ 7.06 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+E.6  
+Erlaubnis zum Ankern auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
+(§ 7.03 Nr. 2)
+
+... nicht darstellbares Tafelzeichen
+
+E.7  
+Erlaubnis zum Festmachen am Ufer auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
+(§ 7.04 Nr. 2)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 109)
+
+E.7.1  
+Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder Ausladen eines Kraftwagens (§ 7.04 Nr. 2)  
+  
+  
+  
+
+  
+(Fundstelle: BGBl. II 2011, 1330)
+
+  
+  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2011/j1330_0010.jpg)  
+  
+
+E.8  
+Hinweis auf eine Wendestelle.
+
+(§§ 6.13 und 7.02 Nr. 1 Buchstabe i)
+
+... nicht darstellbares Tafelzeichen
+
+E.9  
+  
+a) Einmündende Wasserstraßen gelten als Nebenwasserstraßen.
+
+(§ 6.16 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+b) wie vor
+
+... nicht darstellbares Tafelzeichen
+
+c) wie vor
+
+... nicht darstellbares Tafelzeichen
+
+E.10  
+  
+a) Die benutzte Wasserstraße gilt als Nebenwasserstraße der einmündenden.
+
+(§ 6.16 Nr. 1)
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 110)
+
+b) wie vor
+
+... nicht darstellbares Tafelzeichen
+
+E.11  
+Ende des Verbots oder eines Gebots, das nur in einer Verkehrsrichtung gilt, oder Ende einer Einschränkung.
+
+... nicht darstellbares Tafelzeichen
+
+E.12  
+(ohne Inhalt)
+
+E.13  
+Trinkwasserzapfstelle.
+
+... nicht darstellbares Tafelzeichen
+
+E.14  
+Fernsprechstelle.
+
+... nicht darstellbares Tafelzeichen
+
+E.15  
+(ohne Inhalt)
+
+E.16  
+(ohne Inhalt)
+
+E.17  
+Wasserskistrecke.
+
+... nicht darstellbares Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 111)
+
+E.18  
+Fahrerlaubnis für Segelfahrzeuge.
+
+... nicht darstellbares Tafelzeichen
+
+E.19  
+Fahrerlaubnis für Fahrzeuge, die weder mit Maschinenantrieb noch unter Segel fahren.
+
+... nicht darstellbares Tafelzeichen
+
+E.20  
+Erlaubnis zum Segelsurfen.
+
+... nicht darstellbares Tafelzeichen
+
+E.21  
+Nautischer Informationsfunkdienst.
+
+Beispiel: Kanal 18
+
+... nicht darstellbare 2 Tafelzeichen
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 112)
+
+E.22  
+Fahrerlaubnis für Wassermotorräder (Waterscooter, Jetski usw.).
+
+... nicht darstellbares Tafelzeichen
+
+E.23  
+Hochwassermarken.
+
+(§ 10.01)
+
+... nicht darstellbare Hochwassermarken (Marke I bis III)
+
+Die Marken sind in heller Farbe auf dunklem Untergrund oder in dunkler Farbe auf hellem Untergrund angebracht.
+
+E.24  
+(ohne Inhalt)
+
+E.25  
+Landstromanschluss vorhanden  
+  
+
+  
+(Fundstelle: BGBl. II 2011, 1330)
+
+  
+  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2011/j1330_0020.jpg)  
+  
+
+Abschnitt II  
+Zusätzliche Tafeln, Schilder, Pfeile oder Aufschriften  
+Die Hauptzeichen in Abschnitt I können durch zusätzliche Tafeln, Schilder, Pfeile oder Aufschriften ergänzt werden.
+
+1. Schilder, die die Entfernung angeben, in der die durch das Hauptzeichen angezeigte Bestimmung oder Besonderheit zu beachten ist.
+
+Die Schilder werden über dem Hauptzeichen angebracht.
+
+Beispiele:
+
+... nicht darstellbare 2 Schilder
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 113)
+
+2. Pfeile, die angeben, in welcher Richtung der Strecke das Hauptzeichen gilt.
+
+Beispiele:
+
+a) ... nicht darstellbare 2 Schilder
+
+b) ... nicht darstellbare 2 Schilder
+
+c) Verbot der Einfahrt in einen Hafen oder eine Nebenwasserstraße, die in der angezeigten Richtung liegen: rotes Licht A.1 und leuchtender Pfeil
+
+(§ 6.16 Nr. 4)
+
+... nicht darstellbares Schild
+
+3. Schilder, die ergänzende Erklärungen oder Hinweise geben. Die Schilder werden unter dem Hauptzeichen angebracht.
+
+  
+  
+
+  
+(Fundstelle: BGBl. II 2011, 1330)
+
+  
+  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2011/j1330_0030.jpg)  
+  
+Beispiele:
+
+... nicht darstellbare 4 Schilder
+
+(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 114)
+
 # Anlage 8 – Bezeichnung der Wasserstraße
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 115 - 123;  
@@ -5708,7 +6371,11 @@ Von den Zeichen muss ein ausreichender Abstand gehalten werden, da sonst Gefahr 
 
 Fahrrinne:
 
-Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung angestrebt wird.
+Teil der Wasserstraße, in dem für die durchgehende Schifffahrt bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung angestrebt wird.
+
+Fahrwasser:
+
+Teil der Wasserstraße, der den örtlichen Umständen nach von der durchgehenden Schifffahrt benutzt wird.
 
 Rechte Seite/linke Seite:
 

@@ -1214,7 +1214,7 @@ ag)
 “festverbundener Tank” ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können.
 
 ah)  
-„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2019/11<span id="FnR.bjnr338160994bjne003407126_01"></span><a href="#bjnr338160994bjne003407126_01" class="FnR">1</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1<span id="FnR.bjnr338160994bjne003407126_01"></span><a href="#bjnr338160994bjne003407126_01" class="FnR">1</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -1318,7 +1318,7 @@ Unbeschadet des Satzes 1 dürfen sich während der Fahrt an Bord von schnellen S
 
 2. Die Besatzung aller Fahrzeuge muß nach Zahl und Eignung ausreichen, um die Sicherheit der an Bord befindlichen Personen und der Schiffahrt zu gewährleisten.
 
-3. Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem Schiffsattest nach der Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung in der jeweils geltenden Fassung (Rheinschiffsuntersuchungsordnung) versehen ist, Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen und Besatzung und Betrieb mit den Vorschriften der Rheinschiffsuntersuchungsordnung übereinstimmen.
+3. Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem Schiffsattest nach der Rheinschiffsuntersuchungsordnung versehen ist, Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen und Besatzung und Betrieb mit den Vorschriften der Rheinschiffsuntersuchungsordnung übereinstimmen.
 
 4. Unbeschadet der Nummer 3 müssen die unter Nummer 44 im Schiffsattest eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und für Kinder an Bord vorhanden sein. Für Kinder bis zu 30 kg Körpergewicht oder 6 Jahren Alter sind nur Feststoffwesten nach den in Artikel 13.08 Nummer 2 ES-TRIN genannten Normen zulässig.
 
@@ -1429,11 +1429,11 @@ Hat ein Fahrzeug oder ein Schwimmkörper eine Anlage (z.B. Schleuse, Brücke, Bu
 
 # § 1.17 – Festgefahrene oder gesunkene Fahrzeuge, Anzeige von Unfällen
 
-1. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers muß so bald wie möglich für die Benachrichtigung der nächsten zuständigen Behörde sorgen. Er oder ein anderes Mitglied der Besatzung muß an Bord oder in der Nähe der Unfallstelle bleiben, bis die zuständige Behörde ihm gestattet, sich zu entfernen.
+1. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers muss unverzüglich für die Benachrichtigung der nächsten zuständigen Behörde sorgen. Er oder ein anderes Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis die zuständige Behörde ihm gestattet, sich zu entfernen.
 
 2. Sofern es nicht offensichtlich unnötig ist, muß der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers unbeschadet des § 3.25 unverzüglich für eine Wahrschau der herankommenden Fahrzeuge oder Schwimmkörper an geeigneten Stellen und in einer solchen Entfernung von der Unfallstelle sorgen, daß diese rechtzeitig die erforderlichen Maßnahmen treffen können.
 
-3. Ereignet sich der Unfall in einem Schleusenvorhafen oder in einer Schleuse, ist die Schleusenaufsicht sofort zu benachrichtigen.
+3. Ereignet sich der Unfall in einem Schleusenvorhafen oder in einer Schleuse, ist die Schleusenaufsicht unverzüglich zu benachrichtigen.
 
 # § 1.18 – Freimachen des Fahrwassers
 
@@ -1510,9 +1510,7 @@ b) sein Heimat- oder Registerort.
 
 Der Name des Heimat- oder Registerortes ist entweder auf beiden Seiten oder am Heck des Fahrzeugs anzubringen; ihm folgt der Buchstabe oder die Buchstabengruppe des Landes, in dem der Heimat- oder Registerort liegt;
 
-c) seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer. Diese Kennzeichnung ist nur für die Fahrzeuge verbindlich, denen eine einheitliche europäische Schiffsnummer erteilt wurde. Die einheitliche europäische Schiffsnummer ist nach den unter Buchstabe a aufgeführten Bedingungen anzubringen.
-
-d) (weggefallen)
+c) seine einheitliche europäische Schiffsnummer (ENI), die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer (ENI). Diese Kennzeichnung ist nur für die Fahrzeuge verbindlich, denen eine einheitliche europäische Schiffsnummer (ENI) erteilt wurde. Die einheitliche europäische Schiffsnummer (ENI) ist nach den unter Buchstabe a aufgeführten Bedingungen anzubringen.
 
 2. Darüber hinaus muß - mit Ausnahme der Kleinfahrzeuge und der Seeschiffe -
 
@@ -1520,7 +1518,8 @@ a) an jedem Fahrzeug, das zur Güterbeförderung bestimmt ist, die Tragfähigkei
 
 b) an jedem Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, die höchstzulässige Anzahl der Fahrgäste an Bord an gut sichtbarer Stelle angebracht sein.
 
-3. Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der Schriftzeichen muss beim Namen und der einheitlichen europäischen Schiffsnummer mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen. Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
+3. Die Kennzeichen nach den Nummern 1 und 2 sind in gut lesbaren und dauerhaften lateinischen Schriftzeichen und arabischen Ziffern anzubringen. Die Höhe der Schriftzeichen muss beim Namen und der einheitlichen europäischen Schiffsnummer (ENI) mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen.   
+Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
 
 # § 2.02 – Kennzeichen der Kleinfahrzeuge
 
@@ -1550,7 +1549,7 @@ Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen Kleinfa
 
 # § 2.05
 
-1. Schiffsanker müssen dauerhafte Kennzeichen tragen. Diese müssen mindestens die einheitliche europäische Schiffsnummer des Fahrzeugs enthalten.
+1. Schiffsanker müssen dauerhafte Kennzeichen tragen. Diese müssen mindestens die einheitliche europäische Schiffsnummer (ENI) des Fahrzeugs enthalten.
 
 2. Abweichend von Nummer 1 sind bei Ankern, die sich am 30. November 2019 an Bord von Fahrzeugen befinden, weiterhin die Nummer des Schiffsattests und die Unterscheidungsbuchstaben der Schiffsuntersuchungskommission oder der Name und Wohnort des Eigentümers des Fahrzeugs zulässig.
 
@@ -3898,7 +3897,7 @@ nicht überschreiten.
 
 # § 12.01 – Meldepflicht
 
-1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 8 genannten Strecken über Sprechfunk auf dem bekannt gegebenen Kanal melden:
+1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch gemäß der im Standard ERI 1.3 festgelegten ERINOT Nachricht melden:
 
 a) Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN unterliegt;
 
@@ -3920,9 +3919,9 @@ h) Sondertransporte nach § 1.21.
 
 a) Schiffsname des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
-b) einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Nummer des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
+b) einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Nummer des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
-c) Art des Fahrzeugs oder Verbands und bei Verbänden, Art aller Fahrzeuge gemäß Anlage 12;
+c) Art des Fahrzeugs oder Verbands und bei Verbänden Art aller Fahrzeuge gemäß der Nachricht nach Nummer 1;
 
 d) Tragfähigkeit des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
@@ -3930,7 +3929,7 @@ e) Länge und Breite des Fahrzeugs und bei Verbänden Länge und Breite des Verb
 
 f) Vorhandensein eines LNG-Systems an Bord;
 
-g) bei Fahrzeugen, die Güter an Bord haben, deren Beförderung dem ADN unterliegt;
+g) bei Fahrzeugen, die Güter an Bord haben, deren Beförderung dem ADN unterliegt:
 
 aa)  
 die UN-Nummer oder Nummer des Gefahrguts;
@@ -3952,7 +3951,7 @@ i) Anzahl der an Bord befindlichen Container entsprechend ihrer Größe und ihre
 
 j) Containernummer der Gefahrgutcontainer;
 
-k) Anzahl der an Bord befindlichen Personen;
+k) Gesamtzahl der an Bord befindlichen Personen und sofern zutreffend Anzahl der Fahrgäste;
 
 l) Standort, Fahrtrichtung;
 
@@ -3964,43 +3963,29 @@ o) Beladehafen;
 
 p) Entladehafen.
 
-3. Die unter Nummer 2 genannten Angaben mit Ausnahme von Buchstabe l und m können auch von anderen Stellen oder Personen schriftlich, telefonisch oder auf elektronischem Wege der zuständigen Behörde mitgeteilt werden. In jedem Fall muss der Schiffsführer melden, wenn er mit seinem Fahrzeug oder Verband in die Strecke, wo die Meldepflicht gilt, einfährt und diese wieder verlässt.
-
-4. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet,
-
-a) muss die Meldung gemäß dem Standard für elektronische Meldungen in der Binnenschifffahrt Edition April 2013 erfolgen,
-
-b) ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder Verbands gemäß dem in Buchstabe a genannten Standard anzugeben.
-
-5. Die Meldung nach Nummer 2 mit Ausnahme der Angaben von Buchstabe l und m muss bei folgenden Fahrzeugen auf elektronischem Wege erfolgen:
-
-a) Verbände und Fahrzeuge, die Container an Bord haben,
-
-b) Verbände und Fahrzeuge, bei denen mindestens ein Fahrzeug zur Güterbeförderung in festverbundenen Tanks bestimmt ist, ausgenommen Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN beigefügten Verordnung.
-
-6. Unterbricht ein Fahrzeug in einer der unter Nummer 8 genannten Strecken die Fahrt für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung melden.
-
-7. Ändern sich die Angaben nach Nummer 2 während der Fahrt in der Strecke, wo die Meldepflicht gilt, ist dies der zuständigen Behörde unverzüglich mitzuteilen. Die Änderung der Angaben ist über den bekannt gegebenen Kanal schriftlich oder auf elektronischem Wege zu übermitteln.
-
-8. Die Meldepflicht nach Nummer 1 besteht auf folgenden Strecken, die mit dem Tafelzeichen B.11 und einer Zusatztafel „Meldepflicht“ gekennzeichnet sind:
+3. Die Meldepflicht nach Nummer 1 besteht auf folgenden Strecken, die mit dem Tafelzeichen B.11 und einer Zusatztafel „Meldepflicht“ gekennzeichnet sind:
 
 a) von Basel (Mittlere Rheinbrücke km 166,53) bis Gorinchem (km 952,50) und
 
 b) von Pannerden (km 876,50) bis Krimpen am Lek (km 989,20).
 
-Die Angaben nach Nummer 2 Buchstabe a, b und c sind auch beim Vorbeifahren an Schleusen und an den mit dem Tafelzeichen B.11 gekennzeichneten Meldepunkten zu machen.
+4. Unterbricht ein Fahrzeug in einer der unter Nummer 3 genannten Strecken die Fahrt für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung auf elektronischem Wege melden.
 
-9. Ausgenommen von der Meldepflicht nach Nummer 1 sind:
+5. Beim Durchfahren von Schleusen und beim Vorbeifahren an den mit dem Tafelzeichen B.11 gekennzeichneten Meldepunkten muss der Schiffsführer die Angaben nach Nummer 2 Buchstabe a und c über Sprechfunk auf dem angegebenen Kanal melden. Abweichend von Nummer 2 Buchstabe c muss der Schiffsführer die Art des Fahrzeugs oder Verbands gemäß Anlage 12 angeben.
+
+6. Die unter Nummer 2 genannten Angaben mit Ausnahme von Buchstabe l und m können auch von anderen Stellen oder Personen auf elektronischem Wege der zuständigen Behörde mitgeteilt werden. In jedem Fall muss der Schiffsführer über Sprechfunk auf dem angegebenen Kanal melden, wenn er mit seinem Fahrzeug oder Verband in die Strecke, auf der die Meldepflicht gilt, einfährt und diese wieder verlässt.
+
+7. Ändern sich die Angaben nach Nummer 2 während der Fahrt in der Strecke, auf der die Meldepflicht gilt, ist dies der zuständigen Behörde unverzüglich auf elektronischem Wege mitzuteilen.
+
+8. Wenn die Fahrt beendet ist, muss der Schiffsführer dies unverzüglich elektronisch melden.
+
+9. Die zuständige Behörde
 
 \-  
-auf der Strecke nach Nummer 8 Satz 1 Buchstabe a Verbände, die keine Güter an Bord haben, deren Beförderung dem ADN unterliegt, und deren Länge 140 m und deren Breite 15 m nicht überschreiten,
+kann für Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN beigefügten Verordnung sowie Tagesausflugsschiffe eine Meldepflicht und deren Umfang festlegen,
 
 \-  
-auf der Strecke nach Nummer 8 Satz 1 Buchstabe b Verbände, deren Länge 110 m oder deren Breite 12 m nicht überschreiten.
-
-Nicht ausgenommen sind Verbände, die der elektronischen Meldepflicht nach Nummer 5 unterliegen.
-
-10. Die zuständige Behörde kann für Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN beigefügten Verordnung sowie Tagesausflugsschiffe eine Meldepflicht und deren Umfang festlegen.
+kann bei der Erteilung einer besonderen Erlaubnis für Sondertransporte nach § 1.21 eine Ausnahme von der Meldepflicht nach Nummer 1 gewähren.
 
 # § 12.02 – Funktion der Lichtwahrschau auf der Strecke Oberwesel – St. Goar
 
