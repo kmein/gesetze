@@ -5492,6 +5492,7 @@
 - [TFGMV](laws/TFGMV.md) Verordnung über das Meldewesen nach §§ 21 und 22 des Transfusionsgesetzes
 - [TfPV](laws/TfPV.md) Verordnung über die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins
 - [TfV](laws/TfV.md) Verordnung über die Erteilung der Fahrberechtigung an Triebfahrzeugführer sowie die Anerkennung von Personen und Stellen für Ausbildung und Prüfung
+- [TGewOpfGedenkBek](laws/TGewOpfGedenkBek.md) Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines nationalen Gedenktages für die Opfer terroristischer Gewalt
 - [TGV](laws/TGV.md) Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland
 - [THAKredG](laws/THAKredG.md) Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt
 - [THAMNV](laws/THAMNV.md) Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind
