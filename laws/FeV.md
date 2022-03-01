@@ -558,7 +558,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 # § 19 – Schulung in Erster Hilfe
 
-(1) Bewerber um eine Fahrerlaubnis müssen an einer Schulung in Erster Hilfe teilnehmen, die mindestens neun Unterrichtseinheiten zu je 45 Minuten umfasst. Die Schulung soll dem Antragsteller durch theoretischen Unterricht und durch praktische Übungen gründliches Wissen und praktisches Können in der Ersten Hilfe vermitteln.
+(1) Bewerber um eine Fahrerlaubnis müssen an einer Schulung in Erster Hilfe teilnehmen, die mindestens neun Unterrichtseinheiten zu je 45 Minuten umfasst. Die Schulung soll dem Antragsteller durch theoretischen Unterricht und durch praktische Übungen gründliches Wissen und praktisches Können in der Ersten Hilfe vermitteln. Gegenstand der Schulung ist auch die Vermittlung von Grundwissen zur Organ- und Gewebespende einschließlich der Möglichkeiten, die Entscheidung über die persönliche Spendenbereitschaft zu dokumentieren.
 
 (2) Der Nachweis über die Teilnahme an einer Schulung in Erster Hilfe wird durch die Bescheinigung einer für solche Schulungen amtlich anerkannten Stelle oder eines Trägers der öffentlichen Verwaltung, insbesondere der Bundeswehr, der Polizei oder der Bundespolizei, geführt. Im Falle der Erweiterung oder der Neuerteilung einer Fahrerlaubnis ist auf einen Nachweis zu verzichten, wenn der Bewerber zuvor bereits an einer Schulung in Erster Hilfe im Sinne des Absatzes 1 teilgenommen hat.
 

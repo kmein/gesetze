@@ -589,9 +589,9 @@ Auf einen Kaufvertrag, der vor dem 1. Januar 2022 geschlossen worden ist, sind d
 
 # § 60 – Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
 
-Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
+Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
 
-Art. 229 § 60 Satz 2 u. 3 Kursivdruck: Tritt zukünftig in Kraft
+Art. 229 § 60 Satz 3 Kursivdruck: Tritt zukünftig in Kraft
 
 # § 63 – Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
 
