@@ -22,7 +22,11 @@ Begriffsbestimmungen
 
 § 2
 
-Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweis
+Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweis
+
+§ 2a
+
+Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung
 
  
 
@@ -352,42 +356,6 @@ e) die Großeltern;
 
 11. ist Rückverfolgbarkeit die Möglichkeit, das Organ in jeder Phase von der Spende bis zur Übertragung oder Verwerfung zu verfolgen und zu identifizieren; dies umfasst auch die Möglichkeit, den Spender, das Entnahmekrankenhaus und den Empfänger im Transplantationszentrum zu identifizieren sowie alle sachdienlichen, nicht personenbezogenen Daten über Produkte und Materialien, mit denen das Organ in Berührung kommt, zu ermitteln und zu identifizieren.
 
-# § 2 – Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweise
-
-(1) Die nach Landesrecht zuständigen Stellen, die Bundesbehörden im Rahmen ihrer Zuständigkeit, insbesondere die Bundeszentrale für gesundheitliche Aufklärung, sowie die Krankenkassen sollen auf der Grundlage dieses Gesetzes die Bevölkerung aufklären über
-
-1. die Möglichkeiten der Organ- und Gewebespende,
-
-2. die Voraussetzungen der Organ- und Gewebeentnahme bei toten Spendern einschließlich der Bedeutung einer zu Lebzeiten abgegebenen Erklärung zur Organ- und Gewebespende, auch im Verhältnis zu einer Patientenverfügung, und der Rechtsfolge einer unterlassenen Erklärung im Hinblick auf das Entscheidungsrecht der nächsten Angehörigen nach § 4 sowie
-
-3. die Bedeutung der Organ- und Gewebeübertragung im Hinblick auf den für kranke Menschen möglichen Nutzen einer medizinischen Anwendung von Organen und Geweben einschließlich von aus Geweben hergestellten Arzneimitteln und die Bedeutung der Erhebung transplantationsmedizinischer Daten im Transplantationsregister nach Abschnitt 5a.
-
-Die Aufklärung hat die gesamte Tragweite der Entscheidung zu umfassen und muss ergebnisoffen sein. Die in Satz 1 benannten Stellen sollen auch Ausweise für die Erklärung zur Organ- und Gewebespende (Organspendeausweis) zusammen mit geeigneten Aufklärungsunterlagen bereithalten und der Bevölkerung zur Verfügung stellen. Bund und Länder stellen sicher, dass den für die Ausstellung und die Ausgabe von amtlichen Ausweisdokumenten zuständigen Stellen des Bundes und der Länder Organspendeausweise zusammen mit geeigneten Aufklärungsunterlagen zur Verfügung stehen und dass diese bei der Ausgabe der Ausweisdokumente dem Empfänger des Ausweisdokuments einen Organspendeausweis zusammen mit geeigneten Aufklärungsunterlagen aushändigen.
-
-(1a) Die Krankenkassen haben, unbeschadet ihrer Pflichten nach Absatz 1, die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben, zur Verfügung zu stellen, wenn ihnen die elektronische Gesundheitskarte nach § 291 Absatz 1 des Fünften Buches Sozialgesetzbuch ausgestellt wird. Die privaten Krankenversicherungsunternehmen haben die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben, alle fünf Jahre zusammen mit der Beitragsmitteilung nach § 10 Absatz 2a Satz 9 des Einkommensteuergesetzes zur Verfügung zu stellen. Ist den Krankenkassen und den privaten Krankenversicherungsunternehmen ein erstmaliges Erfüllen der Verpflichtungen nach den Sätzen 1 und 2 innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes nicht möglich, haben sie die Unterlagen nach Absatz 1 Satz 3 ihren Versicherten innerhalb des vorgenannten Zeitraums in anderer geeigneter Weise zur Verfügung zu stellen. Mit der Zurverfügungstellung der Unterlagen fordern die Krankenkassen und die privaten Krankenversicherungsunternehmen die Versicherten auf, eine Erklärung zur Organ- und Gewebespende zu dokumentieren und benennen ihnen gegenüber fachlich qualifizierte Ansprechpartner für Fragen zur Organ- und Gewebespende sowie zur Bedeutung einer zu Lebzeiten abgegebenen Erklärung zur Organ- und Gewebespende, auch im Verhältnis zu einer Patientenverfügung.
-
-(2) Wer eine Erklärung zur Organ- und Gewebespende abgibt, kann in eine Organ- und Gewebeentnahme nach § 3 einwilligen, ihr widersprechen oder die Entscheidung einer namentlich benannten Person seines Vertrauens übertragen (Erklärung zur Organ- und Gewebespende). Die Erklärung kann auf bestimmte Organe oder Gewebe beschränkt werden. Die Einwilligung und die Übertragung der Entscheidung können vom vollendeten sechzehnten, der Widerspruch kann vom vollendeten vierzehnten Lebensjahr an erklärt werden.
-
-(2a) Niemand kann verpflichtet werden, eine Erklärung zur Organ- und Gewebespende abzugeben.
-
-(3) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates einer Stelle die Aufgabe übertragen, die Erklärungen zur Organ- oder Gewebespende auf Wunsch der Erklärenden zu speichern und darüber berechtigten Personen Auskunft zu erteilen (Organ- und Gewebespenderegister). Die gespeicherten personenbezogenen Daten dürfen nur zum Zwecke der Feststellung verwendet werden, ob bei demjenigen, der die Erklärung abgegeben hatte, eine Organ- oder Gewebeentnahme nach § 3 oder § 4 zulässig ist, und nur zu diesem Zweck nach Absatz 4 oder Absatz 4a übermittelt werden. Die Rechtsverordnung regelt insbesondere
-
-1. die für die Entgegennahme einer Erklärung zur Organ- oder Gewebespende oder für deren Änderung zuständigen öffentlichen Stellen (Anlaufstellen), die Verwendung eines Vordrucks, die Art der darauf anzugebenden Daten und die Prüfung der Identität des Erklärenden,
-
-2. die Übermittlung der Erklärung durch die Anlaufstellen an das Register sowie die Speicherung der Erklärung und der darin enthaltenen Daten bei den Anlaufstellen und dem Register,
-
-3. die Speicherung der Personendaten der nach Absatz 4 Satz 1 auskunftsberechtigten Ärzte bei dem Register sowie die Vergabe, Speicherung und Zusammensetzung der Benutzerkennungen und Passwörter für ihre Auskunftsberechtigung,
-
-4. die Löschung der gespeicherten Daten und
-
-5. die Finanzierung des Registers.
-
-(4) Die Auskunft aus dem Register darf ausschließlich an den Erklärenden sowie an einen von einem Krankenhaus dem Register als auskunftsberechtigt benannten Arzt erteilt werden, der weder an der Entnahme noch an der Übertragung der Organe oder Gewebe des möglichen Organ- oder Gewebespenders beteiligt ist und auch nicht Weisungen eines Arztes untersteht, der an diesen Maßnahmen beteiligt ist. Die Anfrage darf erst nach der Feststellung des Todes gemäß § 3 Abs. 1 Satz 1 Nr. 2 erfolgen. Zur Prüfung der Zulässigkeit der Anfragen an das Register und der Auskünfte aus dem Register sind die Auskünfte sowie deren Anlass und Zweck aufzuzeichnen. Die Auskunft darf nur an den Arzt übermittelt werden, der die Organ- oder Gewebeentnahme vornehmen oder unter dessen Verantwortung die Gewebeentnahme nach § 3 Abs. 1 Satz 2 vorgenommen werden soll, und an die Person, die nach § 3 Abs. 3 Satz 1 über die beabsichtigte oder nach § 4 über eine in Frage kommende Organ- oder Gewebeentnahme zu unterrichten ist.
-
-(4a) Die Auskunft nach Absatz 4 Satz 1 kann in einem automatisierten Abrufverfahren übermittelt werden. Das automatisierte Abrufverfahren darf nur eingerichtet werden, sofern die beteiligten Stellen die technischen und organisatorischen Maßnahmen getroffen haben, die nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung erforderlich sind. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt der Erklärende oder der von einem Krankenhaus dem Register als auskunftsberechtigt benannte Arzt. Die Stelle, der nach Absatz 3 Satz 1 die Aufgabe übertragen wurde, die Erklärungen zur Organ- oder Gewebespende zu speichern und darüber Auskunft zu erteilen, überprüft die Zulässigkeit der Abrufe durch geeignete Stichprobenverfahren und im Übrigen nur, wenn dazu Anlass besteht.
-
-(5) Die Bundesregierung kann durch allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates ein Muster für den Organ- und Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
-
 # § 2 – Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise
 
 (1) Die nach Landesrecht zuständigen Stellen, die Bundesbehörden im Rahmen ihrer Zuständigkeit, insbesondere die Bundeszentrale für gesundheitliche Aufklärung, sowie die Krankenkassen sollen auf der Grundlage dieses Gesetzes die Bevölkerung aufklären über
@@ -498,7 +466,7 @@ Abweichend von Satz 1 Nr. 3 darf die Entnahme von Geweben auch durch andere daf�
 
 # § 4 – Entnahme mit Zustimmung anderer Personen
 
-(1) Liegt dem Arzt, der die Organ- oder Gewebeentnahme vornehmen oder unter dessen Verantwortung die Gewebeentnahme nach § 3 Abs. 1 Satz 2 vorgenommen werden soll, weder eine schriftliche Einwilligung noch ein schriftlicher Widerspruch des möglichen Organ- oder Gewebespenders vor, ist dessen nächster Angehöriger zu befragen, ob ihm von diesem eine Erklärung zur Organ- oder Gewebespende bekannt ist. Ist auch dem nächsten Angehörigen eine solche Erklärung nicht bekannt, so ist die Entnahme unter den Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3, Satz 2 und Abs. 2 Nr. 2 nur zulässig, wenn ein Arzt den nächsten Angehörigen über eine in Frage kommende Organ- oder Gewebeentnahme unterrichtet und dieser ihr zugestimmt hat. Kommt eine Entnahme mehrerer Organe oder Gewebe in Betracht, soll die Einholung der Zustimmung zusammen erfolgen. Der nächste Angehörige hat bei seiner Entscheidung einen mutmaßlichen Willen des möglichen Organ- oder Gewebespenders zu beachten. Der Arzt hat den nächsten Angehörigen hierauf hinzuweisen. Der nächste Angehörige kann mit dem Arzt vereinbaren, dass er seine Erklärung innerhalb einer bestimmten, vereinbarten Frist widerrufen kann; die Vereinbarung bedarf der Schriftform.
+(1) Hat die Auskunft aus dem Register für Erklärungen zur Organ- und Gewebespende nach § 2a Absatz 4 ergeben, dass der mögliche Organ- und Gewebespender keine Erklärung zur Organ- und Gewebespende abgegeben hat, und liegt dem Arzt, der die Organ- oder Gewebeentnahme vornehmen oder unter dessen Verantwortung die Gewebeentnahme nach § 3 Abs. 1 Satz 2 vorgenommen werden soll, weder eine schriftliche Einwilligung noch ein schriftlicher Widerspruch des möglichen Organ- oder Gewebespenders vor, ist dessen nächster Angehöriger zu befragen, ob ihm von diesem eine Erklärung zur Organ- oder Gewebespende bekannt ist. Ist auch dem nächsten Angehörigen eine solche Erklärung nicht bekannt, so ist die Entnahme unter den Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3, Satz 2 und Abs. 2 Nr. 2 nur zulässig, wenn ein Arzt den nächsten Angehörigen über eine in Frage kommende Organ- oder Gewebeentnahme unterrichtet und dieser ihr zugestimmt hat. Kommt eine Entnahme mehrerer Organe oder Gewebe in Betracht, soll die Einholung der Zustimmung zusammen erfolgen. Der nächste Angehörige hat bei seiner Entscheidung einen mutmaßlichen Willen des möglichen Organ- oder Gewebespenders zu beachten. Der Arzt hat den nächsten Angehörigen hierauf hinzuweisen. Der nächste Angehörige kann mit dem Arzt vereinbaren, dass er seine Erklärung innerhalb einer bestimmten, vereinbarten Frist widerrufen kann; die Vereinbarung bedarf der Schriftform.
 
 (2) Der nächste Angehörige ist nur dann zu einer Entscheidung nach Absatz 1 befugt, wenn er in den letzten zwei Jahren vor dem Tod des möglichen Organ- oder Gewebespenders zu diesem persönlichen Kontakt hatte. Der Arzt hat dies durch Befragung des nächsten Angehörigen festzustellen. Bei mehreren gleichrangigen nächsten Angehörigen genügt es, wenn einer von ihnen nach Absatz 1 beteiligt wird und eine Entscheidung trifft; es ist jedoch der Widerspruch eines jeden von ihnen beachtlich. Ist ein vorrangiger nächster Angehöriger innerhalb angemessener Zeit nicht erreichbar, genügt die Beteiligung und Entscheidung des zuerst erreichbaren nächsten Angehörigen. Dem nächsten Angehörigen steht eine volljährige Person gleich, die dem möglichen Organ- oder Gewebespender bis zu seinem Tode in besonderer persönlicher Verbundenheit offenkundig nahegestanden hat; sie tritt neben den nächsten Angehörigen.
 
@@ -558,7 +526,7 @@ Die Übermittlung dieser Daten ist nur an die nach Absatz 3 Satz 1 auskunftsbere
 
 1. Ärzte, die den möglichen Organ- oder Gewebespender wegen einer dem Tode vorausgegangenen Erkrankung behandelt hatten,
 
-2. Ärzte, die über den möglichen Organ- oder Gewebespender eine Auskunft aus dem Organ- und Gewebespenderegister nach § 2 Absatz 4 oder Absatz 4a erhalten haben,
+2. Ärzte und Transplantationsbeauftragte, die über den möglichen Organ- oder Gewebespender eine Auskunft aus dem Register für Erklärungen zur Organ- und Gewebespende nach § 2a Absatz 4 oder Absatz 5 erhalten haben,
 
 3. die Einrichtung der medizinischen Versorgung, in der der Tod des möglichen Organ- oder Gewebespenders nach § 3 Abs. 1 Satz 1 Nr. 2 festgestellt worden ist,
 
@@ -572,7 +540,7 @@ Die Übermittlung dieser Daten ist nur an die nach Absatz 3 Satz 1 auskunftsbere
 
 8. die von der Koordinierungsstelle (§ 11) oder einer gewebeentnehmenden Gewebeeinrichtung beauftragte Person, soweit sie Auskunft über nach Absatz 1 erforderliche Daten erhalten hat.
 
-Die Pflicht zur unverzüglichen Auskunft besteht erst, nachdem der Tod des möglichen Organ- oder Gewebespenders nach § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist.
+Die Pflicht zur unverzüglichen Auskunft besteht erst, nachdem der Tod des möglichen Organ- oder Gewebespenders nach § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist. Die Auskunft nach Satz 1 Nummer 2 ist abweichend von Satz 2 in Behandlungssituationen, in denen der nicht behebbare Ausfall der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms des möglichen Organ- oder Gewebespenders unmittelbar bevorsteht oder als bereits eingetreten vermutet wird, zu erteilen.
 
 (3) Ein Recht auf Auskunft über die nach Absatz 1 erforderlichen Daten haben
 
@@ -582,7 +550,7 @@ Die Pflicht zur unverzüglichen Auskunft besteht erst, nachdem der Tod des mögl
 
 3. die von der Koordinierungsstelle beauftragte Person.
 
-Die Auskunft soll für alle Organe oder Gewebe, deren Entnahme beabsichtigt ist, zusammen eingeholt werden. Sie darf erst eingeholt werden, nachdem der Tod des möglichen Organ- oder Gewebespenders nach § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist.
+Die Auskunft soll für alle Organe oder Gewebe, deren Entnahme beabsichtigt ist, zusammen eingeholt werden. Sie darf erst eingeholt werden, nachdem der Tod des möglichen Organ- oder Gewebespenders nach § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist. Die Auskunft nach Absatz 2 Satz 1 Nummer 2 darf abweichend von Satz 3 in Behandlungssituationen, in denen der nicht behebbare Ausfall der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms des möglichen Organ- oder Gewebespenders unmittelbar bevorsteht oder als bereits eingetreten vermutet wird, von Ärzten, die den möglichen Organ- oder Gewebespender behandeln, eingeholt werden.
 
 # § 8 – Entnahme von Organen und Geweben
 
@@ -1022,9 +990,9 @@ unverzüglich nach deren Feststellung zu dokumentieren und der Gewebeeinrichtung
 
 # § 14 – Datenschutz
 
-(1) Ist die Koordinierungsstelle, die Vermittlungsstelle oder die Gewebeeinrichtung eine nicht-öffentliche Stelle im Geltungsbereich dieses Gesetzes, so überwachen die Aufsichtsbehörden der Länder die Anwendung der Vorschriften über den Datenschutz gemäß § 40 Absatz 1 des Bundesdatenschutzgesetzes auch in den Fällen, die nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 nach Artikel 2 Absatz 1 der Verordnung (EU) 2016/679 fallen. Dies gilt auch für die Verarbeitung personenbezogener Daten durch Personen mit Ausnahme des Erklärenden, denen nach § 2 Absatz 4 Satz 1 oder Absatz 4a Satz 1 Auskunft aus dem Organ- und Gewebespenderegister erteilt oder an die nach § 2 Absatz 4 Satz 4 die Auskunft übermittelt worden ist.
+(1) Ist die Koordinierungsstelle, die Vermittlungsstelle oder die Gewebeeinrichtung eine nicht-öffentliche Stelle im Geltungsbereich dieses Gesetzes, so überwachen die Aufsichtsbehörden der Länder die Anwendung der Vorschriften über den Datenschutz gemäß § 40 Absatz 1 des Bundesdatenschutzgesetzes auch in den Fällen, die nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 nach Artikel 2 Absatz 1 der Verordnung (EU) 2016/679 fallen. Dies gilt auch für die Verarbeitung personenbezogener Daten durch Personen mit Ausnahme des Erklärenden, denen nach § 2a Absatz 4 Satz 1 oder Absatz 5 Satz 1 Auskunft aus dem Register für Erklärungen zur Organ- und Gewebespende erteilt oder an die nach § 2a Absatz 4 Satz 4 die Auskunft übermittelt worden ist.
 
-(2) Die an der Erteilung oder Übermittlung der Auskunft nach § 2 Absatz 4 oder Absatz 4a beteiligten Personen mit Ausnahme des Erklärenden, die an der Stellungnahme nach § 8 Abs. 3 Satz 2, die an der Mitteilung, Unterrichtung oder Übermittlung nach § 9a Absatz 2 Nummer 1 und § 11 Abs. 4 sowie die an der Organ- oder Gewebeentnahme, der Organvermittlung oder -übertragung oder der Gewebeabgabe oder -übertragung beteiligten Personen sowie die Personen, die bei der Transplantationsregisterstelle nach § 15b Absatz 2 und bei der Vertrauensstelle nach § 15c Absatz 1 Satz 2 personenbezogene Daten verarbeiten, dürfen personenbezogene Daten der Spender und der Empfänger nicht offenbaren. Dies gilt auch für personenbezogene Daten von Personen, die nach § 3 Abs. 3 Satz 1 über die beabsichtigte oder nach § 4 oder § 4a über eine in Frage kommende Organ- oder Gewebeentnahme unterrichtet worden sind. Die im Rahmen dieses Gesetzes erhobenen personenbezogenen Daten dürfen für andere als in diesem Gesetz genannte Zwecke nicht verarbeitet werden. Sie dürfen für gerichtliche Verfahren verarbeitet werden, deren Gegenstand die Verletzung des Offenbarungsverbots nach Satz 1 oder 2 ist.
+(2) Die an der Erteilung oder Übermittlung der Auskunft nach § 2a Absatz 4 oder Absatz 5 beteiligten Personen mit Ausnahme des Erklärenden, die an der Stellungnahme nach § 8 Abs. 3 Satz 2, die an der Mitteilung, Unterrichtung oder Übermittlung nach § 9a Absatz 2 Nummer 1 und § 11 Abs. 4 sowie die an der Organ- oder Gewebeentnahme, der Organvermittlung oder -übertragung oder der Gewebeabgabe oder -übertragung beteiligten Personen sowie die Personen, die bei der Transplantationsregisterstelle nach § 15b Absatz 2 und bei der Vertrauensstelle nach § 15c Absatz 1 Satz 2 personenbezogene Daten verarbeiten, dürfen personenbezogene Daten der Spender und der Empfänger nicht offenbaren. Dies gilt auch für personenbezogene Daten von Personen, die nach § 3 Abs. 3 Satz 1 über die beabsichtigte oder nach § 4 oder § 4a über eine in Frage kommende Organ- oder Gewebeentnahme unterrichtet worden sind. Die im Rahmen dieses Gesetzes erhobenen personenbezogenen Daten dürfen für andere als in diesem Gesetz genannte Zwecke nicht verarbeitet werden. Sie dürfen für gerichtliche Verfahren verarbeitet werden, deren Gegenstand die Verletzung des Offenbarungsverbots nach Satz 1 oder 2 ist.
 
 (2a) Ärzte und anderes wissenschaftliches Personal des Entnahmekrankenhauses, des Transplantationszentrums, der Koordinierungsstelle nach § 11 und der Vermittlungsstelle nach § 12 dürfen personenbezogene Daten, die von dem jeweiligen Entnahmekrankenhaus, dem jeweiligen Transplantationszentrum oder der jeweiligen Stelle nach § 11 oder § 12 im Rahmen der Organ- und Spendercharakterisierung beim Organ- oder Gewebespender oder im Rahmen der Organ- oder Gewebeübertragung beim Organ- oder Gewebeempfänger erhoben oder an diese übermittelt worden sind, abweichend von Absatz 2 Satz 3 für eigene wissenschaftliche Forschungsvorhaben verarbeiten. Diese Daten dürfen für ein bestimmtes Forschungsvorhaben an Dritte und andere als die in Satz 1 genannten Personen übermittelt und von diesen verarbeitet werden, wenn
 
@@ -1376,7 +1344,7 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) Wer
 
-1. entgegen § 2 Abs. 4 Satz 1 oder Satz 4 eine Auskunft erteilt oder übermittelt,
+1. entgegen § 2a Absatz 4 Satz 1 oder Satz 4 eine Auskunft erteilt oder übermittelt,
 
 2. entgegen § 13 Abs. 2 eine Angabe verarbeitet oder
 

@@ -3,6 +3,8 @@
  
 # Inhaltsübersicht
 
+(+++ Änderung der Inhaltsübersicht durch Art. 1 Nr. 1 Buchst. b G v. 18.8.2021 I 3908 (Einfügung § 41a) tritt entgegen Art. 4 Abs. 1 gem. Art. 4 Abs. 3 G v. 18.8.2021 I 3908 zukünftig in Kraft +++)
+
 # § 1 – Ziele des Naturschutzes und der Landschaftspflege
 
 (1) Natur und Landschaft sind auf Grund ihres eigenen Wertes und als Grundlage für Leben und Gesundheit des Menschen auch in Verantwortung für die künftigen Generationen im besiedelten und unbesiedelten Bereich nach Maßgabe der nachfolgenden Absätze so zu schützen, dass
@@ -31,9 +33,9 @@ auf Dauer gesichert sind; der Schutz umfasst auch die Pflege, die Entwicklung un
 
 3. Meeres- und Binnengewässer vor Beeinträchtigungen zu bewahren und ihre natürliche Selbstreinigungsfähigkeit und Dynamik zu erhalten; dies gilt insbesondere für natürliche und naturnahe Gewässer einschließlich ihrer Ufer, Auen und sonstigen Rückhalteflächen; Hochwasserschutz hat auch durch natürliche oder naturnahe Maßnahmen zu erfolgen; für den vorsorgenden Grundwasserschutz sowie für einen ausgeglichenen Niederschlags-Abflusshaushalt ist auch durch Maßnahmen des Naturschutzes und der Landschaftspflege Sorge zu tragen,
 
-4. Luft und Klima auch durch Maßnahmen des Naturschutzes und der Landschaftspflege zu schützen; dies gilt insbesondere für Flächen mit günstiger lufthygienischer oder klimatischer Wirkung wie Frisch- und Kaltluftentstehungsgebiete oder Luftaustauschbahnen; dem Aufbau einer nachhaltigen Energieversorgung insbesondere durch zunehmende Nutzung erneuerbarer Energien kommt eine besondere Bedeutung zu,
+4. Luft und Klima auch durch Maßnahmen des Naturschutzes und der Landschaftspflege zu schützen; dies gilt insbesondere für Flächen mit günstiger lufthygienischer oder klimatischer Wirkung wie Frisch- und Kaltluftentstehungsgebiete, Luftaustauschbahnen oder Freiräume im besiedelten Bereich; dem Aufbau einer nachhaltigen Energieversorgung insbesondere durch zunehmende Nutzung erneuerbarer Energien kommt eine besondere Bedeutung zu,
 
-5. wild lebende Tiere und Pflanzen, ihre Lebensgemeinschaften sowie ihre Biotope und Lebensstätten auch im Hinblick auf ihre jeweiligen Funktionen im Naturhaushalt zu erhalten,
+5. wild lebende Tiere und Pflanzen, ihre Lebensgemeinschaften sowie ihre Biotope und Lebensstätten auch im Hinblick auf ihre jeweiligen Funktionen im Naturhaushalt, einschließlich ihrer Stoffumwandlungs- und Bestäubungsleistungen, zu erhalten,
 
 6. der Entwicklung sich selbst regulierender Ökosysteme auf hierfür geeigneten Flächen Raum und Zeit zu geben.
 
@@ -41,14 +43,21 @@ auf Dauer gesichert sind; der Schutz umfasst auch die Pflege, die Entwicklung un
 
 1. Naturlandschaften und historisch gewachsene Kulturlandschaften, auch mit ihren Kultur-, Bau- und Bodendenkmälern, vor Verunstaltung, Zersiedelung und sonstigen Beeinträchtigungen zu bewahren,
 
-2. zum Zweck der Erholung in der freien Landschaft nach ihrer Beschaffenheit und Lage geeignete Flächen vor allem im besiedelten und siedlungsnahen Bereich zu schützen und zugänglich zu machen.
+2. Vorkommen von Tieren und Pflanzen sowie Ausprägungen von Biotopen und Gewässern auch im Hinblick auf ihre Bedeutung für das Natur- und Landschaftserlebnis zu bewahren und zu entwickeln,
 
-(5) Großflächige, weitgehend unzerschnittene Landschaftsräume sind vor weiterer Zerschneidung zu bewahren. Die erneute Inanspruchnahme bereits bebauter Flächen sowie die Bebauung unbebauter Flächen im beplanten und unbeplanten Innenbereich, soweit sie nicht für Grünflächen vorgesehen sind, hat Vorrang vor der Inanspruchnahme von Freiflächen im Außenbereich. Verkehrswege, Energieleitungen und ähnliche Vorhaben sollen landschaftsgerecht geführt, gestaltet und so gebündelt werden, dass die Zerschneidung und die Inanspruchnahme der Landschaft sowie Beeinträchtigungen des Naturhaushalts vermieden oder so gering wie möglich gehalten werden. Beim Aufsuchen und bei der Gewinnung von Bodenschätzen, bei Abgrabungen und Aufschüttungen sind dauernde Schäden des Naturhaushalts und Zerstörungen wertvoller Landschaftsteile zu vermeiden; unvermeidbare Beeinträchtigungen von Natur und Landschaft sind insbesondere durch Förderung natürlicher Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung oder Rekultivierung auszugleichen oder zu mindern.
+3. zum Zweck der Erholung in der freien Landschaft nach ihrer Beschaffenheit und Lage geeignete Flächen vor allem im besiedelten und siedlungsnahen Bereich sowie großflächige Erholungsräume zu schützen und zugänglich zu machen.
 
-(6) Freiräume im besiedelten und siedlungsnahen Bereich einschließlich ihrer Bestandteile, wie Parkanlagen, großflächige Grünanlagen und Grünzüge, Wälder und Waldränder, Bäume und Gehölzstrukturen, Fluss- und Bachläufe mit ihren Uferzonen und Auenbereichen, stehende Gewässer, Naturerfahrungsräume sowie gartenbau- und landwirtschaftlich genutzte Flächen, sind zu erhalten und dort, wo sie nicht in ausreichendem Maße vorhanden sind, neu zu schaffen.
+(5) Großflächige, weitgehend unzerschnittene Landschaftsräume sind vor weiterer Zerschneidung zu bewahren. Die erneute Inanspruchnahme bereits bebauter Flächen sowie die Bebauung unbebauter Flächen im beplanten und unbeplanten Innenbereich, soweit sie nicht als Grünfläche oder als anderer Freiraum für die Verwirklichung der Ziele des Naturschutzes und der Landschaftspflege vorgesehen oder erforderlich sind, hat Vorrang vor der Inanspruchnahme von Freiflächen im Außenbereich. Verkehrswege, Energieleitungen und ähnliche Vorhaben sollen landschaftsgerecht geführt, gestaltet und so gebündelt werden, dass die Zerschneidung und die Inanspruchnahme der Landschaft sowie Beeinträchtigungen des Naturhaushalts vermieden oder so gering wie möglich gehalten werden. Beim Aufsuchen und bei der Gewinnung von Bodenschätzen, bei Abgrabungen und Aufschüttungen sind dauernde Schäden des Naturhaushalts und Zerstörungen wertvoller Landschaftsteile zu vermeiden; unvermeidbare Beeinträchtigungen von Natur und Landschaft sind insbesondere durch Förderung natürlicher Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung oder Rekultivierung auszugleichen oder zu mindern.
 
-§ 1 Abs. 2 bis 6 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__2.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
-§ 1 Abs. 5 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 20 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)
+(6) Freiräume im besiedelten und siedlungsnahen Bereich einschließlich ihrer Bestandteile, wie Grünzüge, Parkanlagen, Kleingartenanlagen und sonstige Grünflächen, Wälder, Waldränder und andere Gehölzstrukturen einschließlich Einzelbäume, Fluss- und Bachläufe mit ihren Uferzonen und Auenbereichen, stehende Gewässer und ihre Uferzonen, gartenbau- und landwirtschaftlich genutzte Flächen, Flächen für natürliche Entwicklungsprozesse, Naturerfahrungsräume sowie naturnahe Bereiche im Umfeld von Verkehrsflächen und anderen Nutzungen einschließlich wegebegleitender Säume, sind zu erhalten und dort, wo sie nicht in ausreichendem Maße und hinreichender Qualität vorhanden sind, neu zu schaffen oder zu entwickeln.
+
+(7) Den Zielen des Naturschutzes und der Landschaftspflege können auch Maßnahmen dienen, die den Zustand von Biotopen und Arten durch Nutzung, Pflege oder das Ermöglichen ungelenkter Sukzession auf einer Fläche nur für einen begrenzten Zeitraum verbessern.
+
+§ 1 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__2.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
+§ 1 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__2.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
+§ 1 Abs. 5 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__2.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
+§ 1 Abs. 5 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 20 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)  
+§ 1 Abs. 6 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__2.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 
 # § 2 – Verwirklichung der Ziele
 
@@ -63,6 +72,10 @@ auf Dauer gesichert sind; der Schutz umfasst auch die Pflege, die Entwicklung un
 (5) Die europäischen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch Aufbau und Schutz des Netzes „Natura 2000“ unterstützt. Die internationalen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch den Schutz des Kultur- und Naturerbes im Sinne des Übereinkommens vom 16. November 1972 zum Schutz des Kultur- und Naturerbes der Welt (BGBl. 1977 II S. 213, 215) unterstützt.
 
 (6) Das allgemeine Verständnis für die Ziele des Naturschutzes und der Landschaftspflege ist mit geeigneten Mitteln zu fördern. Erziehungs-, Bildungs- und Informationsträger klären auf allen Ebenen über die Bedeutung von Natur und Landschaft, über deren Bewirtschaftung und Nutzung sowie über die Aufgaben des Naturschutzes und der Landschaftspflege auf und wecken das Bewusstsein für einen verantwortungsvollen Umgang mit Natur und Landschaft.
+
+(7) Der Bereitschaft privater Personen, Unternehmen und Einrichtungen der öffentlichen Hand zur Mitwirkung und Zusammenarbeit kommt bei der Verwirklichung der Ziele des Naturschutzes und der Landschaftspflege eine besondere Bedeutung zu. Soweit sich der Zustand von Biotopen und Arten aufgrund freiwilliger Maßnahmen wie vertraglicher Vereinbarungen oder der Teilnahme an öffentlichen Programmen zur Bewirtschaftungsbeschränkung auf einer Fläche verbessert, ist dieser Beitrag bei behördlichen Entscheidungen nach diesem Gesetz oder nach dem Naturschutzrecht der Länder im Zusammenhang mit der Wiederaufnahme einer Nutzung oder einer sonstigen Änderung des Zustandes dieser Fläche, auch zur Förderung der allgemeinen Kooperationsbereitschaft, begünstigend zu berücksichtigen.
+
+(8) Für Naturschutzgebiete, Nationalparke, Nationale Naturmonumente, Naturdenkmäler, Gebiete von gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 und gesetzlich geschützte Biotope im Sinne des § 30 können die Länder freiwillige Vereinbarungen zur Förderung der Biodiversität und zu einer nachhaltigen Bewirtschaftungsweise anbieten. Als freiwillige Vereinbarung nach Satz 1 gelten insbesondere von den Landesregierungen mit den Verbänden der Landwirtschaft und des Naturschutzes geschlossene Grundsatzvereinbarungen und Maßnahmenpakete für den Naturschutz. Bestandteil freiwilliger Vereinbarungen nach Satz 1 können auch finanzielle Anreize durch Förderung oder Ausgleich sein.
 
 § 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__1.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
 § 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)  
@@ -384,7 +397,9 @@ e) zum Schutz, zur Qualitätsverbesserung und zur Regeneration von Böden, Gewä
 
 f) zur Erhaltung und Entwicklung von Vielfalt, Eigenart und Schönheit sowie des Erholungswertes von Natur und Landschaft,
 
-g) zur Erhaltung und Entwicklung von Freiräumen im besiedelten und unbesiedelten Bereich.
+g) zur Erhaltung und Entwicklung von Freiräumen im besiedelten und unbesiedelten Bereich,
+
+h) zur Sicherung und Förderung der biologischen Vielfalt im Planungsraum einschließlich ihrer Bedeutung für das Naturerlebnis.
 
 Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumordnungspläne und Bauleitpläne ist Rücksicht zu nehmen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Darstellung der Inhalte zu verwendenden Planzeichen zu regeln.
 
@@ -404,7 +419,9 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 
 (3) Die konkretisierten Ziele, Erfordernisse und Maßnahmen des Naturschutzes und der Landschaftspflege sind, soweit sie raumbedeutsam sind, in der Abwägung nach § 7 Absatz 2 des Raumordnungsgesetzes zu berücksichtigen.
 
-(4) Die Zuständigkeit, das Verfahren der Aufstellung und das Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu Raumordnungsplänen richten sich nach Landesrecht.
+(4) Landschaftsrahmenpläne und Landschaftsprogramme im Sinne des Absatzes 2 Satz 2 sind mindestens alle zehn Jahre fortzuschreiben. Mindestens alle zehn Jahre ist zu prüfen, ob und in welchem Umfang eine Aufstellung oder Fortschreibung sonstiger Landschaftsprogramme erforderlich ist.
+
+(5) Die landschaftsplanerischen Inhalte werden eigenständig erarbeitet und dargestellt. Im Übrigen richten sich die Zuständigkeit, das Verfahren der Aufstellung und das Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu Raumordnungsplänen nach § 13 des Raumordnungsgesetzes nach Landesrecht.
 
 § 10 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 11 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)  
 § 10 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch [§ 6 Abs. 1 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_he__6.html "Anzeige in neuem Fenster") v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)  
@@ -419,21 +436,31 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 
 (1) Die für die örtliche Ebene konkretisierten Ziele, Erfordernisse und Maßnahmen des Naturschutzes und der Landschaftspflege werden auf der Grundlage der Landschaftsrahmenpläne für die Gebiete der Gemeinden in Landschaftsplänen, für Teile eines Gemeindegebiets in Grünordnungsplänen dargestellt. Die Ziele der Raumordnung sind zu beachten; die Grundsätze und sonstigen Erfordernisse der Raumordnung sind zu berücksichtigen. Die Pläne sollen die in § 9 Absatz 3 genannten Angaben enthalten, soweit dies für die Darstellung der für die örtliche Ebene konkretisierten Ziele, Erfordernisse und Maßnahmen erforderlich ist. Abweichende Vorschriften der Länder zum Inhalt von Landschafts- und Grünordnungsplänen sowie Vorschriften zu deren Rechtsverbindlichkeit bleiben unberührt.
 
-(2) Landschaftspläne sind aufzustellen, sobald und soweit dies im Hinblick auf Erfordernisse und Maßnahmen im Sinne des § 9 Absatz 3 Satz 1 Nummer 4 erforderlich ist, insbesondere weil wesentliche Veränderungen von Natur und Landschaft im Planungsraum eingetreten, vorgesehen oder zu erwarten sind. Grünordnungspläne können aufgestellt werden.
+(2) Landschaftspläne sind aufzustellen, sobald und soweit dies im Hinblick auf Erfordernisse und Maßnahmen im Sinne des § 9 Absatz 3 Satz 1 Nummer 4 erforderlich ist, insbesondere weil wesentliche Veränderungen von Natur und Landschaft im Planungsraum eingetreten, vorgesehen oder zu erwarten sind.
 
 (3) Die in den Landschaftsplänen für die örtliche Ebene konkretisierten Ziele, Erfordernisse und Maßnahmen des Naturschutzes und der Landschaftspflege sind in der Abwägung nach § 1 Absatz 7 des Baugesetzbuches zu berücksichtigen und können als Darstellungen oder Festsetzungen nach den §§ 5 und 9 des Baugesetzbuches in die Bauleitpläne aufgenommen werden.
 
-(4) Werden in den Ländern Berlin, Bremen und Hamburg die örtlichen Erfordernisse und Maßnahmen des Naturschutzes und der Landschaftspflege in Landschaftsrahmenplänen oder Landschaftsprogrammen dargestellt, so ersetzen diese die Landschaftspläne.
+(4) Landschaftspläne sind mindestens alle zehn Jahre daraufhin zu prüfen, ob und in welchem Umfang mit Blick auf die in Absatz 2 Satz 1 genannten Kriterien eine Fortschreibung erforderlich ist.
 
-(5) Die Zuständigkeit und das Verfahren zur Aufstellung der Landschaftspläne und Grünordnungspläne sowie deren Durchführung richten sich nach Landesrecht.
+(5) Werden in den Ländern Berlin, Bremen und Hamburg die örtlichen Erfordernisse und Maßnahmen des Naturschutzes und der Landschaftspflege in Landschaftsrahmenplänen oder Landschaftsprogrammen dargestellt, so ersetzen diese die Landschaftspläne.
+
+(6) Grünordnungspläne können aufgestellt werden. Insbesondere können sie aufgestellt werden zur
+
+1. Freiraumsicherung und -pflege einschließlich der Gestaltung des Ortsbildes sowie Entwicklung der grünen Infrastruktur in Wohn-, Gewerbe- und sonstigen baulich genutzten Gebieten,
+
+2. Gestaltung, Pflege und Entwicklung von Parks und anderen Grünanlagen, Gewässern mit ihren Uferbereichen, urbanen Wäldern oder anderen größeren Freiräumen mit besonderer Bedeutung für die siedlungsbezogene Erholung sowie des unmittelbaren Stadt- bzw. Ortsrandes,
+
+3. Gestaltung, Pflege und Entwicklung von Teilräumen bestimmter Kulturlandschaften mit ihren jeweiligen Kulturlandschaftselementen sowie von Bereichen mit einer besonderen Bedeutung für die Erholung in der freien Landschaft.
+
+Besteht ein Landschaftsplan, so sind Grünordnungspläne aus diesem zu entwickeln.
+
+(7) Die Inhalte der Landschaftspläne und Grünordnungspläne werden eigenständig erarbeitet und dargestellt. Im Übrigen richten sich die Zuständigkeit und das Verfahren zur Aufstellung und Durchführung nach Landesrecht.
 
 § 11 idF d. G v. 29.7.2009 I 2542: Nordrhein-Westfalen - Abweichung durch § 7 Abs. 3 des Landesnaturschutzgesetzes idF d. Bek. v. 21.7.2000 GV. NRW. S. 568, das durch G v. 15.11.216 GV. NRW. S. 934 neu gefasst wurde mWv 25.11.2016 (vgl. BGBl. I 2017, 3285)  
 § 11 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 12 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)  
 § 11 Abs. 1 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch [§ 9 Abs. 1 des Berliner Naturschutzgesetzes (NatSchG Bln)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_be_9.html "Anzeige in neuem Fenster") v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)  
 § 11 Abs. 1 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5_7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch [§ 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5_7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a u. Nr. 9 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1657)  
-§ 11 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch [§ 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1658)  
-§ 11 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5_7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch [§ 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5_7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a u. Nr. 9 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1658)  
-§ 11 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 4 Abs. 2 Satz 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__4.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
+§ 11 Abs. 2 (früher Abs. 2 Satz 1) idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch [§ 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__5.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1658); jetzt Satz 1 gem. Art. 1 Nr. 6 Buchst. a G v. 18.8.2021 I 3908 mWv 1.3.2022  
 § 11 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 7 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch [§ 7 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__7.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 9 Buchst. c G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1648)
 
 # § 12 – Zusammenwirken der Länder bei der Planung
@@ -734,6 +761,14 @@ gelten fort, wenn sich die Unvereinbarkeit mit diesen Vorgaben aus einer Entsche
 
 (3) In Naturschutzgebieten ist die Errichtung von Anlagen zur Durchführung von Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer 3 und 4 des Wasserhaushaltsgesetzes verboten.
 
+(4) In Naturschutzgebieten ist im Außenbereich nach § 35 des Baugesetzbuches die Neuerrichtung von Beleuchtungen an Straßen und Wegen sowie von beleuchteten oder lichtemittierenden Werbeanlagen verboten. Von dem Verbot des Satzes 1 kann auf Antrag eine Ausnahme zugelassen werden, soweit
+
+1. die Schutzzwecke des Gebietes nicht beeinträchtigt werden können oder
+
+2. dies aus Gründen der Verkehrssicherheit oder anderer Interessen der öffentlichen Sicherheit erforderlich ist.
+
+Weitergehende Schutzvorschriften, insbesondere solche des § 41a und einer auf Grund von § 54 Absatz 4d erlassenen Rechtsverordnung sowie solche des Landesrechts, bleiben unberührt.
+
 § 23 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 13 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__13.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)  
 § 23 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 28 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)  
 § 23 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 13 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 13 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 18 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1652)
@@ -750,7 +785,7 @@ gelten fort, wenn sich die Unvereinbarkeit mit diesen Vorgaben aus einer Entsche
 
 (2) Nationalparke haben zum Ziel, in einem überwiegenden Teil ihres Gebiets den möglichst ungestörten Ablauf der Naturvorgänge in ihrer natürlichen Dynamik zu gewährleisten. Soweit es der Schutzzweck erlaubt, sollen Nationalparke auch der wissenschaftlichen Umweltbeobachtung, der naturkundlichen Bildung und dem Naturerlebnis der Bevölkerung dienen.
 
-(3) Nationalparke sind unter Berücksichtigung ihres besonderen Schutzzwecks sowie der durch die Großräumigkeit und Besiedlung gebotenen Ausnahmen wie Naturschutzgebiete zu schützen. In Nationalparken ist die Errichtung von Anlagen zur Durchführung von Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer 3 und 4 des Wasserhaushaltsgesetzes verboten.
+(3) Nationalparke sind unter Berücksichtigung ihres besonderen Schutzzwecks sowie der durch die Großräumigkeit und Besiedlung gebotenen Ausnahmen wie Naturschutzgebiete zu schützen. § 23 Absatz 3 und 4 gilt in Nationalparken entsprechend.
 
 (4) Nationale Naturmonumente sind rechtsverbindlich festgesetzte Gebiete, die
 
@@ -774,7 +809,7 @@ von herausragender Bedeutung sind. Nationale Naturmonumente sind wie Naturschutz
 
 (2) Biosphärenreservate dienen, soweit es der Schutzzweck erlaubt, auch der Forschung und der Beobachtung von Natur und Landschaft sowie der Bildung für nachhaltige Entwicklung.
 
-(3) Biosphärenreservate sind unter Berücksichtigung der durch die Großräumigkeit und Besiedlung gebotenen Ausnahmen über Kernzonen, Pflegezonen und Entwicklungszonen zu entwickeln und wie Naturschutzgebiete oder Landschaftsschutzgebiete zu schützen.
+(3) Biosphärenreservate sind unter Berücksichtigung der durch die Großräumigkeit und Besiedlung gebotenen Ausnahmen über Kernzonen, Pflegezonen und Entwicklungszonen zu entwickeln und wie Naturschutzgebiete oder Landschaftsschutzgebiete zu schützen. § 23 Absatz 4 gilt in Kern- und Pflegezonen von Biosphärenreservaten entsprechend.
 
 (4) Biosphärenreservate können auch als Biosphärengebiete oder Biosphärenregionen bezeichnet werden.
 
@@ -784,7 +819,7 @@ von herausragender Bedeutung sind. Nationale Naturmonumente sind wie Naturschutz
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch [§ 20 Satz 1 des Landesnaturschutzgesetzes (NatSchG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_st_20.html "Anzeige in neuem Fenster") v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)  
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch [§ 12 Abs. 6 Satz 2 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_he__12.html "Anzeige in neuem Fenster") v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)  
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Thüringen - Abweichung durch § 13 Abs. 2 des Thüringer Naturschutzgesetzes (ThürNatG) v. 30.7.2019 GVBl TH 2019, S. 323, 340, geändert durch Art. 1a des Gesetzes v. 30.7.2019, mWv 20.8.2019 (vgl. BGBl. I 2020, 160)  
-§ 25 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 14 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__14.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 25 Abs. 3 Satz 1 (früher Abs. 3 einziger Text) idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§ 14 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__14.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); jetzt Satz 1 gem. Art. 1 Nr. 9 G v. 18.8.2021 I 3908 mWv 1.3.2022
 
 # § 26 – Landschaftsschutzgebiete
 
@@ -884,9 +919,11 @@ Der Schutz kann sich für den Bereich eines Landes oder für Teile des Landes au
 
 5. offene Felsbildungen, Höhlen sowie naturnahe Stollen, alpine Rasen sowie Schneetälchen und Krummholzgebüsche,
 
-6. Fels- und Steilküsten, Küstendünen und Strandwälle, Strandseen, Boddengewässer mit Verlandungsbereichen, Salzwiesen und Wattflächen im Küstenbereich, Seegraswiesen und sonstige marine Makrophytenbestände, Riffe, sublitorale Sandbänke, Schlickgründe mit bohrender Bodenmegafauna sowie artenreiche Kies-, Grobsand- und Schillgründe im Meeres- und Küstenbereich.
+6. Fels- und Steilküsten, Küstendünen und Strandwälle, Strandseen, Boddengewässer mit Verlandungsbereichen, Salzwiesen und Wattflächen im Küstenbereich, Seegraswiesen und sonstige marine Makrophytenbestände, Riffe, sublitorale Sandbänke, Schlickgründe mit bohrender Bodenmegafauna sowie artenreiche Kies-, Grobsand- und Schillgründe im Meeres- und Küstenbereich,
 
-Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich geschützte Biotope. Satz 1 Nummer 5 gilt nicht für genutzte Höhlen- und Stollenbereiche sowie für Maßnahmen zur Verkehrssicherung von Höhlen und naturnahen Stollen.
+7. magere Flachland-Mähwiesen und Berg-Mähwiesen nach Anhang I der Richtlinie 92/43/EWG, Streuobstwiesen, Steinriegel und Trockenmauern.
+
+Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich geschützte Biotope. Satz 1 Nummer 5 gilt nicht für genutzte Höhlen- und Stollenbereiche sowie für Maßnahmen zur Verkehrssicherung von Höhlen und naturnahen Stollen. Satz 1 Nummer 7 gilt nicht für die Unterhaltung von Funktionsgrünland auf Flugbetriebsflächen.
 
 (3) Von den Verboten des Absatzes 2 kann auf Antrag eine Ausnahme zugelassen werden, wenn die Beeinträchtigungen ausgeglichen werden können.
 
@@ -898,7 +935,7 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 
 (7) Die gesetzlich geschützten Biotope werden registriert und die Registrierung wird in geeigneter Weise öffentlich zugänglich gemacht. Die Registrierung und deren Zugänglichkeit richten sich nach Landesrecht.
 
-(8) Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über Ausnahmen und Befreiungen bleiben unberührt.
+(8) Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über Ausnahmen und Befreiungen sowie bestehende landesrechtliche Regelungen, die die in Absatz 2 Satz 1 Nummer 7 genannten Biotope betreffen, bleiben unberührt.
 
 § 30 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch [§§ 36 u. 52 des Landesnaturschutzgesetzes (LNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sh__36_52.html "Anzeige in neuem Fenster") v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)  
 § 30 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch [§ 14 Abs. 1 iVm Anlage des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_ha__14.html "Anzeige in neuem Fenster") v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)  
@@ -909,11 +946,13 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch [§ 14 Abs. 1 iVm Anlage des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_ha__14.html "Anzeige in neuem Fenster") v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)  
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 23 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__23.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Thüringen - Abweichung durch § 15 Abs. 5 des Thüringer Naturschutzgesetzes (ThürNatG) v. 30.7.2019 GVBl TH 2019, S. 323, 340, geändert durch Art. 1a des Gesetzes v. 30.7.2019, mWv 20.8.2019 (vgl. BGBl. I 2020, 161)  
+§ 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch [§ 26 Abs. 3 u. 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sn__26.html "Anzeige in neuem Fenster") idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)  
+§ 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch [§ 15 Abs. 2 u. 3 des Landesnaturschutzgesetzes (LNatschG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_rp__15.html "Anzeige in neuem Fenster") v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)  
 § 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch [§ 24 Abs. 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nagbnatschg_nd__24.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
 § 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)  
 § 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)  
-§ 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch [§ 26 Abs. 3 u. 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sn__26.html "Anzeige in neuem Fenster") idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)  
-§ 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch [§ 15 Abs. 2 u. 3 des Landesnaturschutzgesetzes (LNatschG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_rp__15.html "Anzeige in neuem Fenster") v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)  
+§ 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch [§ 26 Abs. 3 u. 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_sn__26.html "Anzeige in neuem Fenster") idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)  
+§ 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch [§ 15 Abs. 2 u. 3 des Landesnaturschutzgesetzes (LNatschG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_rp__15.html "Anzeige in neuem Fenster") v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)  
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch [§ 20 des Naturschutzausführungsgesetzes (NatSchAG M-V)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschag_mv__20.html "Anzeige in neuem Fenster") v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)  
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [Art. 23 Abs. 2, 3 u. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_by__23.html "Anzeige in neuem Fenster") v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)  
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch [§ 16 des Landesnaturschutzgesetzes (LNatschG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_rp__16.html "Anzeige in neuem Fenster") v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)  
@@ -926,6 +965,16 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch [§ 22 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/natschg_st__22.html "Anzeige in neuem Fenster") v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)  
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch [§ 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_ha__14.html "Anzeige in neuem Fenster") v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)  
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 5 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
+
+# § 30a – Ausbringung von Biozidprodukten
+
+Außerhalb geschlossener Räume ist in Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten, Kern- und Pflegezonen von Biosphärenreservaten, Naturdenkmälern sowie in gesetzlich geschützten Biotopen verboten:
+
+1. der flächige Einsatz von Biozidprodukten der Produktart 18 (Insektizide, Akarizide und Produkte gegen andere Arthropoden) des Anhangs V der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Delegierte Verordnung (EU) 2019/1825 (ABl. L 279 vom 31.10.2019, S. 19) geändert worden ist,
+
+2. das Auftragen von Biozidprodukten der Produktart 8 (Holzschutzmittel) des Anhangs V der Verordnung (EU) Nr. 528/2012 durch Spritzen oder Sprühen.
+
+Die für Naturschutz und Landschaftspflege zuständige Behörde kann im Einzelfall auf Antrag Ausnahmen von dem Verbot des Satzes 1 Nummer 1 zulassen, soweit dies zum Schutz der Gesundheit von Mensch und Tier erforderlich ist. Die Länder können unter den Voraussetzungen nach Satz 2 Ausnahmen für bestimmte Fallgruppen auch in der Erklärung im Sinne von § 22 Absatz 1 zulassen. § 34 und weitergehende Schutzvorschriften des Landesrechts sowie Maßnahmen zur Bekämpfung von Gesundheitsschädlingen nach den Vorschriften des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), das zuletzt durch Artikel 1 des Gesetzes vom 28. Mai 2021 (BGBl. I S. 1174) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf der Grundlage des Infektionsschutzgesetzes erlassenen Verordnungen der Länder bleiben unberührt.
 
 # § 31 – Aufbau und Schutz des Netzes „Natura 2000“
 
@@ -1059,6 +1108,8 @@ ist § 34 Absatz 1 bis 5 entsprechend anzuwenden. Bei Raumordnungsplänen im Sin
 (3) Jeder darf abweichend von Absatz 1 Nummer 2 wild lebende Blumen, Gräser, Farne, Moose, Flechten, Früchte, Pilze, Tee- und Heilkräuter sowie Zweige wild lebender Pflanzen aus der Natur an Stellen, die keinem Betretungsverbot unterliegen, in geringen Mengen für den persönlichen Bedarf pfleglich entnehmen und sich aneignen.
 
 (4) Das gewerbsmäßige Entnehmen, Be- oder Verarbeiten wild lebender Pflanzen bedarf unbeschadet der Rechte der Eigentümer und sonstiger Nutzungsberechtigter der Genehmigung der für Naturschutz und Landschaftspflege zuständigen Behörde. Die Genehmigung ist zu erteilen, wenn der Bestand der betreffenden Art am Ort der Entnahme nicht gefährdet und der Naturhaushalt nicht erheblich beeinträchtigt werden. Die Entnahme hat pfleglich zu erfolgen. Bei der Entscheidung über Entnahmen zu Zwecken der Produktion regionalen Saatguts sind die günstigen Auswirkungen auf die Ziele des Naturschutzes und der Landschaftspflege zu berücksichtigen.
+
+(4a) Ein vernünftiger Grund nach Absatz 1 liegt insbesondere vor, wenn wissenschaftliche oder naturkundliche Untersuchungen an Tieren oder Pflanzen sowie diesbezügliche Maßnahmen der Umweltbildung im zur Erreichung des Untersuchungsziels oder Bildungszwecks notwendigen Umfang vorgenommen werden. Vorschriften des Tierschutzrechts bleiben unberührt.
 
 (5) Es ist verboten,
 
@@ -1579,6 +1630,26 @@ bestimmter besonders geschützter Arten zu verbieten oder zu beschränken.
 
 zu beschränken oder zu verbieten. Satz 1 Nummer 1 gilt nicht für Geräte, Mittel oder Vorrichtungen, die auf Grund anderer Rechtsvorschriften einer Zulassung bedürfen, sofern bei der Zulassung die Belange des Artenschutzes zu berücksichtigen sind.
 
+(6a) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz von Tieren und Pflanzen wild lebender Arten die Verwendung von Insektenfallen außerhalb geschlossener Räume zu beschränken oder zu verbieten. In der Rechtsverordnung kann insbesondere Folgendes geregelt werden:
+
+1. allgemeine Ausnahmen von Verboten oder Beschränkungen im Sinne von Satz 1,
+
+2. die Voraussetzungen, unter denen behördliche Einzelfallausnahmen von Verboten oder Beschränkungen im Sinne von Satz 1 erteilt werden können,
+
+3. Hinweispflichten betreffend Verbote oder Beschränkungen im Sinne von Satz 1 für diejenigen, die Insektenfallen zum Verkauf anbieten.
+
+(6b) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz von Tieren wild lebender Arten
+
+1. den Betrieb von Himmelsstrahlern unter freiem Himmel ganzjährig oder innerhalb bestimmter Zeiträume zu beschränken oder zu verbieten,
+
+2. näher zu bestimmen, welche Arten von starken Projektionsscheinwerfern mit über die Horizontale nach oben gerichteten Lichtstrahlen oder Lichtkegeln, die geeignet sind, Tiere wild lebender Arten erheblich zu beeinträchtigen, dem Verbot und der Beschränkung nach Nummer 1 unterfallen.
+
+In der Rechtsverordnung kann insbesondere Folgendes geregelt werden:
+
+1. allgemeine Ausnahmen von Verboten oder Beschränkungen im Sinne von Satz 1 Nummer 1,
+
+2. die Voraussetzungen, unter denen behördliche Einzelfallausnahmen von Verboten oder Beschränkungen im Sinne von Satz 1 Nummer 1 erteilt werden können.
+
 (7) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zum Schutz von Horststandorten von Vogelarten zu erlassen, die in ihrem Bestand gefährdet und in besonderem Maße störungsempfindlich sind und insbesondere während bestimmter Zeiträume und innerhalb bestimmter Abstände Handlungen zu verbieten, die die Fortpflanzung oder Aufzucht beeinträchtigen können. Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über Ausnahmen und Befreiungen bleiben unberührt.
 
 (8) Zur Erleichterung der Überwachung der Besitz- und Vermarktungsverbote wird das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
@@ -1595,7 +1666,7 @@ a) Tieren und Pflanzen der besonders geschützten Arten,
 
 b) Tieren und Pflanzen der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten Arten.
 
-(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach den Absätzen 4, 4b und 4d bedürfen des Einvernehmens mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Rechtsverordnungen nach Absatz 4c bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen sowie dem Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch nur, soweit sie sich beziehen auf
+(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach den Absätzen 4, 4b und 4d bedürfen des Einvernehmens mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Rechtsverordnungen nach Absatz 4c bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen sowie dem Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach Absatz 6a bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft sowie dem Bundesministerium für Bildung und Forschung. Rechtsverordnungen nach Absatz 6b bedürfen des Einvernehmens mit dem Bundesministerium für Bildung und Forschung. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch nur, soweit sie sich beziehen auf
 
 1. Tierarten, die dem Jagd- oder Fischereirecht unterliegen,
 
@@ -1604,6 +1675,34 @@ b) Tieren und Pflanzen der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten
 3. Pflanzen, die durch künstliche Vermehrung gewonnen oder forstlich nutzbar sind.
 
 (10) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung allgemeine Anforderungen an Bewirtschaftungsvorgaben für die land-, forst- und fischereiwirtschaftliche Bodennutzung im Sinne des § 44 Absatz 4 festzulegen. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
+
+(10a) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Anforderungen für die Durchführung von Maßnahmen, die darauf abzielen, durch Nutzung, Pflege oder das Ermöglichen ungelenkter Sukzession für einen Zeitraum von mindestens einem Jahr bis zu in der Regel zehn Jahren auf Flächen mit einer zugelassenen Gewinnung mineralischer Rohstoffe den Zustand von Biotopen und Arten zu verbessern, zu regeln, bei deren Beachtung im Rahmen der Inanspruchnahme der Fläche oder eines Teils derselben
+
+1. nicht gegen die Zugriffs- und Besitzverbote nach § 44 Absatz 1 und 2 verstoßen wird oder
+
+2. im Interesse der maßgeblich günstigen Auswirkungen auf die Umwelt oder zum Schutz der natürlich vorkommenden Tier- und Pflanzenwelt eine Ausnahme von den Zugriffs- und Besitzverboten nach § 44 Absatz 1 und 2 allgemein zugelassen wird.
+
+In der Rechtsverordnung ist insbesondere zu regeln,
+
+1. dass und zu welchem Zeitpunkt Maßnahmen im Sinne von Satz 1 der für Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen sind,
+
+2. welche Unterlagen bei dieser Anzeige vorzulegen sind,
+
+3. dass die Behörde die Durchführung der Maßnahme zeitlich befristen, anderweitig beschränken oder auf Antrag den Zeitraum für die Durchführung der Maßnahme auf insgesamt bis zu 15 Jahre verlängern kann.
+
+(10b) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie sowie mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Anforderungen für die Durchführung von Maßnahmen, die darauf abzielen, durch das Ermöglichen ungelenkter Sukzession oder durch Pflege für einen Zeitraum von mindestens einem Jahr bis zu in der Regel zehn Jahren auf Flächen mit einer zugelassenen gewerblichen, verkehrlichen oder baulichen Nutzung den Zustand von Biotopen und Arten zu verbessern, zu regeln, bei deren Beachtung im Rahmen der Inanspruchnahme der Fläche oder eines Teils derselben
+
+1. nicht gegen die Zugriffs- und Besitzverbote nach § 44 Absatz 1 und 2 verstoßen wird oder
+
+2. im Interesse der maßgeblich günstigen Auswirkungen auf die Umwelt oder zum Schutz der natürlich vorkommenden Tier- und Pflanzenwelt eine Ausnahme von den Zugriffs- und Besitzverboten nach § 44 Absatz 1 und 2 allgemein zugelassen wird.
+
+In der Rechtsverordnung ist insbesondere zu regeln,
+
+1. dass und zu welchem Zeitpunkt Maßnahmen im Sinne von Satz 1 der für Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen sind,
+
+2. welche Unterlagen bei dieser Anzeige vorzulegen sind,
+
+3. dass die Behörde die Durchführung der Maßnahme zeitlich befristen, anderweitig beschränken oder auf Antrag den Zeitraum für die Durchführung der Maßnahme auf insgesamt bis zu 15 Jahre verlängern kann.
 
 (11) Die Bundesregierung erlässt mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes allgemeine Verwaltungsvorschriften, insbesondere über
 
@@ -1902,7 +2001,7 @@ in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder be- oder verar
 
 5a. entgegen § 45a Absatz 1 Satz 1 ein wildlebendes Exemplar der Art Wolf (Canis lupus) füttert oder mit Futter anlockt oder
 
-6. einer Rechtsverordnung nach § 54 Absatz 4 Satz 1 oder Absatz 4a oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+6. einer Rechtsverordnung nach § 54 Absatz 4 Satz 1, Absatz 4a oder Absatz 4d Satz 1 Nummer 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1914,9 +2013,13 @@ in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder be- oder verar
 
 4. entgegen § 23 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 57 Absatz 2 eine dort genannte Handlung oder Maßnahme in einem Meeresgebiet vornimmt, das als Naturschutzgebiet geschützt wird,
 
-4a. entgegen § 23 Absatz 3, § 24 Absatz 3 Satz 2 oder § 33 Absatz 1a Satz 1 eine dort genannte Anlage errichtet,
+4a. entgegen § 23 Absatz 3, auch in Verbindung mit § 24 Absatz 3 Satz 2, oder entgegen § 33 Absatz 1a Satz 1 eine dort genannte Anlage errichtet,
+
+4b. entgegen § 23 Absatz 4 Satz 1, auch in Verbindung mit § 24 Absatz 3 Satz 2, eine dort genannte Beleuchtung oder Werbeanlage errichtet,
 
 5. entgegen § 30 Absatz 2 Satz 1 ein dort genanntes Biotop zerstört oder sonst erheblich beeinträchtigt,
+
+5a. entgegen § 30a Satz 1 ein dort genanntes Biozidprodukt flächig einsetzt oder aufträgt,
 
 6. entgegen § 33 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1, eine Veränderung oder Störung vornimmt,
 
