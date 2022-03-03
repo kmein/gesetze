@@ -2168,7 +2168,7 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 
 # Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 1. Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 AWV angeordneten Beschränkungen beziehen.
 
@@ -4683,13 +4683,11 @@ Basilikum, Melisse, Pfefferminze, Origanum vulgare (Dost/Oregano/wilder Majoran)
 
 G
 
-Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Unterummer" durch das Wort "Unternummer" ersetzt
-
 # Anlage 2 – (weggefallen)
 
 # Anlage 3 – Vermögen von Inländern im Ausland
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B001.jpg)  
 
@@ -4697,7 +4695,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 # Anlage 4 – Vermögen von Ausländern im Inland
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/210811001115B003.jpg)  
 

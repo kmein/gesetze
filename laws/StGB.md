@@ -10229,6 +10229,8 @@ wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (5) Verursacht der Täter in den Fällen des Absatzes 2 durch die Tat den Tod oder eine schwere Gesundheitsschädigung eines anderen Menschen oder eine Gesundheitsschädigung einer großen Zahl von Menschen, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
+§ 315d Abs. 1 Nr. 3: Mit GG (100-1) vereinbar gem. BVerfGE v. 9.2.2022 - 2 BvL 1/20 -
+
 # § 315e – Schienenbahnen im Straßenverkehr
 
 Soweit Schienenbahnen am Straßenverkehr teilnehmen, sind nur die Vorschriften zum Schutz des Straßenverkehrs (§§ 315b und 315c) anzuwenden.
