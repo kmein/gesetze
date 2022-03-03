@@ -619,6 +619,34 @@ g) Vorschriften über Schallsignalanlagen nach Anlage III innerhalb von neun Jah
 
 h) Dauernde Befreiung von der Versetzung der Rundumlichter nach den Vorschriften des Abschnitts 9 Buchstabe b der Anlage I.
 
+# Regel 39 – Begriffsbestimmungen
+
+a) “Audit” bezeichnet ein systematisches, unabhängiges und dokumentiertes Verfahren, das dazu dient, Auditnachweise zu erlangen und objektiv auszuwerten, um zu ermitteln, inwieweit die Auditkriterien erfüllt sind.
+
+b) “Auditsystem” bezeichnet das von der Organisation unter Berücksichtigung der von ihr ausgearbeiteten Richtlinien<span id="FnR.F819035_02"></span><a href="#F819035_02" class="FnR">**</a></sup> eingerichtete Auditsystem der IMO-Mitgliedstaaten.
+
+c) “Anwendungscode” bezeichnet den von der Organisation mit Entschließung A.1070(28) angenommenen Code für die Anwendung der IMO-Instrumente (III-Code).
+
+d) “Auditnorm” bezeichnet den Anwendungscode.
+
+# Regel 40 – Anwendung
+
+Die Vertragsparteien wenden bei der Wahrnehmung ihrer Verpflichtungen und Verantwortlichkeiten nach diesem Übereinkommen den Anwendungscode an.
+
+# Regel 41 – Überprüfung der Einhaltung
+
+a) Jede Vertragspartei unterliegt regelmäßigen Audits, welche die Organisation nach Maßgabe der Auditnorm durchführt, um die Einhaltung und Durchführung dieses Übereinkommens zu überprüfen.
+
+b) Der Generalsekretär der Organisation ist für die verwaltungsmäßige Durchführung des Auditsystems auf der Grundlage der von der Organisation ausgearbeiteten Richtlinien<span id="FnR.F819035_03"></span><a href="#F819035_03" class="FnR">**</a></sup> verantwortlich.
+
+c) Jede Vertragspartei ist verantwortlich für die Erleichterung der Durchführung des Audits und die Umsetzung eines Maßnahmenprogramms zum Umgang mit den Auditergebnissen auf der Grundlage der von der Organisation ausgearbeiteten Richtlinien<a href="#F819035_03" class="FnR">**</a></sup> .
+
+d) Das Audit jeder Vertragspartei
+
+(i) erfolgt auf der Grundlage eines Gesamtzeitplans, der von dem Generalsekretär der Organisation erstellt wird, unter Berücksichtigung der von der Organisation ausgearbeiteten Richtlinien<a href="#F819035_03" class="FnR">**</a></sup> und
+
+(ii) wird in regelmäßigen Abständen unter Berücksichtigung der von der Organisation ausgearbeiteten Richtlinien<a href="#F819035_03" class="FnR">**</a></sup> durchgeführt.
+
 # Anlage I – Anordnung und technische Einzelheiten der Lichter und Signalkörper
 
 1. Begriffsbestimmung

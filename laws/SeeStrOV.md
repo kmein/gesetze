@@ -5,9 +5,9 @@
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 1, 2 und 4 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833), geändert durch Artikel 2 des Gesetzes zu dem Übereinkommen vom 20. Oktober 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See vom 29. Juni 1976 (BGBl. II S. 1017), und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten, wird verordnet:
 
-# § 1 – Inkraftsetzung der Internationalen Regeln
+# § 1 – Anwendung der Internationalen Regeln
 
-Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem Übereinkommen von 1972 (BGBl. 1976 II, S. 1023) beigefügt und zuletzt durch Beschluß der 25. Vollversammlung der Internationalen Seeschifffahrts-Organisation (IMO) in London vom 25. November 2007 geändert worden sind, im folgenden als "Internationale Regeln" bezeichnet, sind in der aus der Anlage ersichtlichen deutschen Übersetzung nach Maßgabe der folgenden Vorschriften anzuwenden.
+Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem Übereinkommen von 1972 (BGBl. 1976 II, S. 1023) beigefügt und zuletzt durch Beschluß der 28. Vollversammlung der Internationalen Seeschifffahrts-Organisation (IMO) in London vom 4. Dezember 2013 geändert worden sind, im folgenden als "Internationale Regeln" bezeichnet, sind in der aus der Anlage ersichtlichen deutschen Übersetzung nach Maßgabe der folgenden Vorschriften anzuwenden.
 
 # § 2 – Geltungsbereich
 
@@ -17,9 +17,9 @@ Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem 
 
 2. für Schiffe, die berechtigt sind, die Bundesflagge zu führen, seewärts der Begrenzung des Küstenmeeres der Bundesrepublik Deutschland, soweit nicht in Hoheitsgewässern anderer Staaten abweichende Regelungen gelten.
 
-(2) Im Geltungsbereich der Verordnung nach Absatz 1 Nr. 1 gelten auch die Seeschifffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209, 1999 I S. 193), zuletzt geändert durch Artikel 4 der Verordnung vom 24. September 2002 (BGBl. I S. 3733), und die Verordnung zur Einführung der Schifffahrtsordnung Emsmündung vom 8. August 1989 (BGBl. I S. 1583), zuletzt geändert durch Artikel 1 der Verordnung vom 13. Dezember 2001 (BGBl. I S. 3781), in ihrer jeweils geltenden Fassung sowie die Schifffahrtsordnung Emsmündung (Anlage A zu dem deutschniederländischen Abkommen vom 22. Dezember 1986 über die Schifffahrtsordnung in der Emsmündung, BGBl.2001 II S. 1049) in der jeweils für die Bundesrepublik Deutschland geltenden Fassung. Soweit diese abweichende Vorschriften enthalten, gehen diese den Internationalen Regeln als Sondervorschriften im Sinne der Regel 1 Buchstabe b der Internationalen Regeln vor.
+(2) Im Geltungsbereich der Verordnung nach Absatz 1 Nr. 1 gelten auch die Seeschifffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209, 1999 I S. 193), zuletzt geändert durch Artikel 4 der Verordnung vom 24. September 2002 (BGBl. I S. 3733), und die Verordnung zur Einführung der Schifffahrtsordnung Emsmündung vom 8. August 1989 (BGBl. I S. 1583), zuletzt geändert durch Artikel 1 der Verordnung vom 13. Dezember 2001 (BGBl. I S. 3781), in ihrer jeweils geltenden Fassung sowie die Schifffahrtsordnung Emsmündung (Anlage A zu dem deutschniederländischen Abkommen vom 22. Dezember 1986 über die Schifffahrtsordnung in der Emsmündung, BGBl. 2001 II S. 1049) in der jeweils für die Bundesrepublik Deutschland geltenden Fassung. Soweit diese abweichende Vorschriften enthalten, gehen diese den Internationalen Regeln als Sondervorschriften im Sinne der Regel 1 Buchstabe b der Internationalen Regeln vor.
 
-(3) Abweichend von Absatz 1 gilt § 7 dieser Verordnung in den nach § 11 der Seeanlagenverordnung in der deutschen ausschließlichen Wirtschaftszone von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen auch für Schiffe unter ausländischer Flagge.
+(3) Abweichend von Absatz 1 gilt § 7 dieser Verordnung in den nach § 53 des Windenergie-auf-See-Gesetzes, § 10 des Seeanlagengesetzes oder nach § 11 der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57), die zuletzt durch Artikel 55 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, in der deutschen ausschließlichen Wirtschaftszone von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen auch für Schiffe unter ausländischer Flagge.
 
 # § 3 – Grundregeln für das Verhalten im Verkehr
 
@@ -57,11 +57,11 @@ Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser Verordnung
 
 # § 7 – Sicherheitszonen
 
-(1) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von 500 m, gemessen von jedem Punkt des äußeren Randes, um Anlagen oder sonstige Vorrichtungen zur wissenschaftlichen Meeresforschung oder zur Erforschung oder Ausbeutung von Naturschätzen erstrecken. Die nach § 53 des Windenergie-auf-See-Gesetzes oder nach § 11 der Seeanlagenverordnung von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen gelten als Sicherheitszonen im Sinne dieser Verordnung.
+(1) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von 500 m, gemessen von jedem Punkt des äußeren Randes, um Anlagen oder sonstige Vorrichtungen zur wissenschaftlichen Meeresforschung oder zur Erforschung oder Ausbeutung von Naturschätzen erstrecken. Die nach § 53 des Windenergie-auf-See-Gesetzes, nach § 10 des Seeanlagengesetzes oder nach § 11 der Seeanlagenverordnung von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen gelten als Sicherheitszonen im Sinne dieser Verordnung.
 
 (2) Sicherheitszonen dürfen nicht befahren werden; dies gilt nicht für Fahrzeuge, die für die Versorgung der Anlagen oder Vorrichtungen eingesetzt sind sowie vorbehaltlich des Absatzes 3 für Fahrzeuge deren Rumpflänge 24 Meter nicht übersteigt oder die vom Befahrensverbot befreit sind.
 
-(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann durch Allgemeinverfügung nach § 35 Satz 2 des Verwaltungsverfahrensgesetzes oder im Einzelfall Einzelheiten des Befahrensverbotes regeln und Befreiungen vom Befahrensverbot auch mit Auflagen oder Bedingungen, bei Sicherheitszonen nach § 11 der Seeanlagenverordnung im Einvernehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie, zulassen, soweit dies mit den Anforderungen der Sicherheit und Leichtigkeit des Verkehrs vereinbar ist. Sie legt ferner nach den in Satz 1 genannten Voraussetzungen und Verfahren die Bedingungen für die Befreiung vom Befahrensverbot für Fahrzeuge, deren Rumpflänge 24 Meter nicht übersteigt, fest. Die insoweit erlassenen Allgemeinverfügungen werden nach Maßgabe von § 60 Abs. 1 der Seeschifffahrtsstraßen-Ordnung und von § 12 der Seeanlagenverordnung bekannt gemacht.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann durch Allgemeinverfügung nach § 35 Satz 2 des Verwaltungsverfahrensgesetzes oder im Einzelfall Einzelheiten des Befahrensverbotes regeln und Befreiungen vom Befahrensverbot auch mit Auflagen oder Bedingungen, bei Sicherheitszonen nach § 53 des Windenergie-auf-See-Gesetzes, § 10 des Seeanlagengesetzes oder nach § 11 der Seeanlagenverordnung im Einvernehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie, zulassen, soweit dies mit den Anforderungen der Sicherheit und Leichtigkeit des Verkehrs vereinbar ist. Sie legt ferner nach den in Satz 1 genannten Voraussetzungen und Verfahren die Bedingungen für die Befreiung vom Befahrensverbot für Fahrzeuge, deren Rumpflänge 24 Meter nicht übersteigt, fest. Die insoweit erlassenen Allgemeinverfügungen werden nach Maßgabe des § 54 des Windenergie-auf-See-Gesetzes und des § 11 des Seeanlagengesetzes bekannt gemacht sowie von der Generaldirektion Wasserstraßen und Schifffahrt im Elektronischen Wasserstraßen-Informationsservice<span id="FnR.F819035_01"></span><a href="#F819035_01" class="FnR">*</a></sup> nachrichtlich veröffentlicht.
 
 # § 7a – Auskunft auf Ersuchen
 
@@ -73,7 +73,7 @@ Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser Verordnung
 
 # § 8 – Überwachung, Befreiung
 
-(1) Für die Überwachung der Vorschriften dieser Verordnung sind die Strom- und Schiffahrtpolizeibehörden nach Maßgabe des § 55 der Seeschiffahrtstraßen-Ordnung zuständig; § 5 Abs. 1 Satz 2 Nr. 2 und § 6 Abs. 1 des Seeaufgabengesetzes bleiben unberührt.
+(1) Für die Überwachung der Vorschriften dieser Verordnung sind die Strom- und Schiffahrtpolizeibehörden nach Maßgabe des § 55 der Seeschiffahrtstraßen-Ordnung zuständig; § 5 Abs. 1 Satz 2 Nr. 1 und § 6 Abs. 1 des Seeaufgabengesetzes bleiben unberührt.
 
 (2) Die Strom- und Schiffahrtpolizeibehörden können von den Vorschriften dieser Verordnung im Einzelfall befreien, soweit dies nach den Internationalen Regeln zulässig ist.
 

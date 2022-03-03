@@ -527,6 +527,8 @@ Die obersten Dienstbehörden können über die Anforderungen nach den Sätzen 1 
 
 3. das dritte Beförderungsamt frühestens zwei Jahre nach der Verleihung des zweiten Beförderungsamtes verliehen werden darf.
 
+Weitere Beförderungen sind ausgeschlossen.
+
 (5) Beamtinnen und Beamte, die nach den Absätzen 1 bis 4 ein Amt einer höheren Laufbahn verliehen bekommen haben, können auch auf anderen geeigneten Dienstposten im Sinne des Absatzes 2 eingesetzt werden.
 
 # § 28 – Dauer der Probezeit und Feststellung der Bewährung
