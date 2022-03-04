@@ -53,7 +53,7 @@ vom Robert Koch-Institut nach § 36 Absatz 9 Satz 1 des Infektionsschutzgesetzes
 
  3. Hochrisikogebiet
 
-ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine besonders hohe Inzidenz in Bezug auf die Verbreitung des Coronavirus SARS-CoV-2 besteht oder andere Anhaltspunkte dafür vorliegen, dass in diesem Gebiet ein erhöhtes Risiko für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegt, insbesondere aufgrund der dort beobachteten Ausbreitungsgeschwindigkeit oder aufgrund nicht ausreichend vorhandener oder verlässlicher epidemiologischer Daten,
+ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine besonders hohe Inzidenz in Bezug auf die Verbreitung einer Variante des Coronavirus SARS-CoV-2 mit im Vergleich zur Virusvariante B.1.1.529 (Omikron-Variante) besorgniserregenderen Eigenschaften besteht, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht, oder andere Anhaltspunkte dafür vorliegen, dass in diesem Gebiet ein erhöhtes Risiko für eine Infektion mit einer solchen Variante des Coronavirus SARS-CoV-2 vorliegt, insbesondere aufgrund der dort beobachteten Ausbreitungsgeschwindigkeit oder aufgrund nicht ausreichend vorhandener oder verlässlicher epidemiologischer Daten,
 
  3a. Virusvariantengebiet
 
@@ -89,15 +89,13 @@ sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nuk
 
 eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises ist,
 
- 8. Genesenennachweis
+8. Genesenennachweis
 
-ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn der Nachweis den vom Robert Koch-Institut im Internet unter der Adresse www.rki.de/covid-19-genesenennachweis unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entspricht:
+ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn
 
-a) Art der Testung zum Nachweis der vorherigen Infektion,
+a) die vorherige Infektion durch einen direkten Erregernachweis nachgewiesen wurde und
 
-b) Zeit, die nach der Testung zum Nachweis der vorherigen Infektion vergangen sein muss, oder Nachweis zur Aufhebung der aufgrund der vorherigen Infektion erfolgten Absonderung,
-
-c) Zeit, die die Testung zum Nachweis der vorherigen Infektion höchstens zurückliegen darf,
+b) die Testung zum Nachweis der vorherigen Infektion mindestens 28 Tage und höchstens 90 Tage zurückliegt,
 
  9. geimpfte Person
 
@@ -105,21 +103,37 @@ eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachw
 
 10. Impfnachweis
 
-ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrunde liegenden Schutzimpfungen den vom Paul-Ehrlich-Institut im Benehmen mit dem Robert Koch-Institut im Internet unter der Adresse www.pei.de/impfstoffe/covid-19 unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben hinsichtlich folgender Kriterien entsprechen:
+ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form. Ein vollständiger Impfschutz gegen das Coronavirus SARS-CoV-2 liegt vor, wenn
 
-a) verwendete Impfstoffe,
+a) die zugrundeliegenden Einzelimpfungen mit einem von der Europäischen Union zugelassenen Impfstoff, mit verschiedenen von der Europäischen Union zugelassenen Impfstoffen oder mit äquivalenten Impfstoffen erfolgt sind,
 
-b) für einen vollständigen Impfschutz erforderliche Anzahl an Einzelimpfungen,
+b) insgesamt drei Einzelimpfungen erfolgt sind und
 
-c) für einen weiterhin vollständigen Impfschutz erforderliche Auffrischimpfungen,
+c) die letzte Einzelimpfung mindestens drei Monate nach der zweiten Einzelimpfung erfolgt ist.
 
-d) Intervallzeiten,
+Abweichend von Satz 2 Buchstabe b liegt ein vollständiger Impfschutz bis zum 30. September 2022 auch bei zwei Einzelimpfungen vor und ab dem 1. Oktober 2022 bei zwei Einzelimpfungen nur vor, wenn
+
+a) seit der zweiten Einzelimpfung nicht mehr als 270 Tage vergangen sind,
+
+b) die betroffene Person einen bei ihr durchgeführten spezifischen positiven Antikörpertest in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form nachweisen kann und dieser Antikörpertest zu einer Zeit erfolgt ist, zu der die betroffene Person noch keine Einzelimpfung gegen COVID-19 erhalten hatte,
+
+c) die betroffene Person mit dem Coronavirus SARS-CoV-2 infiziert gewesen ist, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
 
 aa)  
-die nach einer Impfung für einen vollständigen Impfschutz abgewartet werden müssen und
+auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
 
 bb)  
-die höchstens zwischen Einzelimpfungen oder Auffrischimpfungen liegen dürfen,
+zu einer Zeit erfolgt ist, zu der die betroffene Person noch nicht die zweite Impfdosis gegen das Coronavirus SARS-CoV-2 erhalten hat, oder
+
+d) die betroffene Person sich nach Erhalt der zweiten Impfdosis mit dem Coronavirus SARS-CoV-2 infiziert hat, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
+
+aa)  
+auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
+
+bb)  
+seit dem Tag der Durchführung der dem Testnachweis zugrundeliegenden Testung 28 Tage vergangen sind.
+
+Abweichend von Satz 3 liegt in den in Satz 3 Buchstabe b bis d genannten Fällen ein vollständiger Impfschutz bis zum 30. September 2022 auch bei einer Einzelimpfung vor; an die Stelle der zweiten Einzelimpfung tritt die erste Einzelimpfung,
 
 11. Grenzpendler
 
@@ -179,7 +193,7 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 
 (1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Hochrisikogebiet oder Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, sich unverzüglich nach der Einreise auf eigene Kosten für einen Zeitraum nach Absatz 2 abzusondern. Nach der Einreise haben sich Personen nach Satz 1 auf direktem Weg in die Haupt- oder Nebenwohnung oder in eine andere, eine Absonderung ermöglichende Unterkunft zu begeben. Den absonderungspflichtigen Personen ist es in diesem Zeitraum nicht gestattet, Besuch von Personen zu empfangen, die nicht ihrem Hausstand angehören. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 innerhalb des jeweils maßgeblichen Absonderungszeitraums nach Absatz 2 bei ihnen auftreten. Personen nach Satz 1 unterliegen für die Zeit der Absonderung der Beobachtung durch die zuständige Behörde.
 
-(2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Im Fall der Übermittlung eines Testnachweises darf die zugrundeliegende Testung frühestens fünf Tage nach der Einreise erfolgt sein; bei Personen, die das sechste Lebensjahr noch nicht vollendet haben, endet die Absonderung fünf Tage nach der Einreise. Die Absonderung nach Absatz 1 Satz 1 wird für die Dauer, die zur Durchführung eines Tests erforderlich ist, ausgesetzt. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage; die Sätze 2 bis 4 finden nur dann entsprechende Anwendung, wenn
+(2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Im Fall der Übermittlung eines Testnachweises darf die zugrundeliegende Testung frühestens fünf Tage nach der Einreise erfolgt sein; bei Personen, die das zwölfte Lebensjahr noch nicht vollendet haben, endet die Absonderung fünf Tage nach der Einreise oder mit Übermittlung des Testnachweises vor dem Ablauf von fünf Tagen; bei Personen, die das sechste Lebensjahr noch nicht vollendet haben, entfällt die Absonderung. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage; die Sätze 2 bis 4 finden nur dann entsprechende Anwendung, wenn
 
 1. das betroffene Virusvariantengebiet nach der Einreise in die Bundesrepublik Deutschland und vor Ablauf der vierzehn Tage als Hochrisikogebiet eingestuft wird oder
 
@@ -191,9 +205,9 @@ Die Absonderung endet abweichend von den Sätzen 1 und 5 außerdem, wenn das bet
 
 # § 5 – Nachweispflicht
 
-(1) Personen, die das sechste Lebensjahr vollendet haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis verfügen.
+(1) Personen, die das zwölfte Lebensjahr vollendet haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis verfügen.
 
-(2) Personen, die das sechste Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
+(2) Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
 
 # § 6 – Ausnahmen
 
@@ -344,7 +358,7 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 (1) Beförderer, die Personen aus einem Hochrisikogebiet oder, vorbehaltlich des § 10, aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, haben, soweit keine Ausnahme oder Maßgabe nach § 6 Absatz 1 Satz 1 oder Satz 3 vorliegt, vor der Beförderung die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 zu kontrollieren. Diese sind im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Die vollständig ausgefüllten Ersatzmitteilungen nach § 3 Absatz 2 sind bei Beförderungen aus einem Schengen-Staat einzusammeln und unverzüglich durch die Beförderer an die zuständige Behörde zu übermitteln. Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet außerhalb von Schengen-Staaten in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist und die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 an diese zum Zwecke der stichprobenhaften Überprüfung und Überlassung an die zuständige Behörde auszuhändigen ist. Beförderer haben die Beförderungen aus einem Hochrisikogebiet oder Virusvariantengebiet in die Bundesrepublik Deutschland zu unterlassen, wenn die zu befördernden Personen im Rahmen der Kontrolle nach Satz 1 keine Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder keine vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 vorgelegt haben; dies gilt auch, wenn nach Prüfung nach Satz 2 die angegebenen Daten offensichtlich unrichtig sind. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr aus einem Hochrisikogebiet oder Virusvariantengebiet kann die Kontrolle in Abweichung von Satz 5 auch noch während der Beförderung erfolgen.
 
-(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das sechste Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
+(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
 
 (3) Die Absätze 1 und 2 gelten nicht im öffentlichen Personennahverkehr.
 
@@ -418,7 +432,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 3. März 2022 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 19. März 2022 außer Kraft.
 
 # Anlage
 
