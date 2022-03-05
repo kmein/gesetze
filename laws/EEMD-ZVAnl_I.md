@@ -1,7 +1,7 @@
 % Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen  (Prüfvereinbarung)
 % Ausfertigungsdatum: 20.03.2018
  
-# Anlage I – Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage I – (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 

@@ -1,7 +1,7 @@
-% Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes  (EETS-Zulassungsvertrag)
+% Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes  (EETS-Zulassungsvertrag)
 % Ausfertigungsdatum: 20.03.2018
  
-# Anlage II – Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
+# Anlage II – (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
