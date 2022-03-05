@@ -21,6 +21,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
 (Text siehe: EEMD-ZVAnl I)
 
-# Anlage II – Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
+# Anlage II – Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
 
 (Text siehe: EEMD-ZVAnl II)

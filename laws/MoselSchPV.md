@@ -1080,14 +1080,14 @@ af)
 ag)  
 „Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter, Jetbike oder Jetski oder ein anderes ähnliches Kleinfahrzeug mit eigenem mechanischem Antrieb, das eine oder mehrere Personen befördern kann und dafür gebaut und ausgelegt ist, um über das Wasser zu gleiten oder Figuren auszuführen;
 
-aj)  
-„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
-
 ah)  
 „Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
 
 ai)  
 „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
+
+aj)  
+„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -1459,6 +1459,8 @@ b) sein Heimat- oder Registerort.
 Der Name des Heimat- oder Registerortes ist entweder auf beiden Seiten oder am Heck des Fahrzeugs anzubringen; ihm folgt der Buchstabe oder die Buchstabengruppe des Landes, in dem der Heimat- oder Registerort liegt;
 
 c) seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Landes und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer. Die einheitliche europäische Schiffsnummer ist nach den unter Buchstabe a aufgeführten Bedingungen anzubringen.
+
+d) (weggefallen)
 
 2. Darüber hinaus muß - mit Ausnahme der Kleinfahrzeuge und der Seeschiffe -
 

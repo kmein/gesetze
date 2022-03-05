@@ -3801,7 +3801,7 @@ Anmerkung 4:
 Unternummern 0013c und 0013d erfassen nicht einzelne Helme, Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu deren eigenem persönlichen Schutz mitgeführt werden.
 
 Anmerkung 5:  
-Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
+Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
 
 Ergänzende Anmerkung 1:
 
@@ -4682,6 +4682,8 @@ ex 1211 90 86
 Basilikum, Melisse, Pfefferminze, Origanum vulgare (Dost/Oregano/wilder Majoran), Rosmarin, Salbei, frisch oder gekühlt, weder gemahlen noch sonst zerkleinert
 
 G
+
+Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Unterummer" durch das Wort "Unternummer" ersetzt
 
 # Anlage 2 – (weggefallen)
 
