@@ -127,7 +127,8 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (7) Wird eine Ausgleichsmaßnahme nach § 5 Absatz 1 verlangt, so ist dies der Antragstellerin oder dem Antragsteller mitzuteilen und zu begründen. Die Begründung hat den Hinweis zu enthalten, welchem Niveau gemäß Artikel 11 der Richtlinie 2005/36/EG die vorgelegten Berufsqualifikationen zugeordnet wurden und dass im Inland für die Ausübung einer Betriebsleitertätigkeit das Qualifikationsniveau des Artikels 11 Absatz 1 Buchstabe c der Richtlinie 2005/36/EG erforderlich ist. Zudem sind die wesentlichen festgestellten Unterschiede zu benennen, für die kein Ausgleich erbracht werden konnte. Wird als Ausgleichsmaßnahme eine Eignungsprüfung verlangt, soll diese innerhalb von sechs Monaten ab dem Zugang der Entscheidung ermöglicht und abgelegt werden.
 
-(+++ § 6 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++) (+++ § 6 Abs. 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
+(+++ § 6 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++)  
+(+++ § 6 Abs. 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
 # § 7 – Eignungsprüfung
 
