@@ -111,7 +111,7 @@ Die in Absatz 1 Nummer 13 genannten Messgeräte unterfallen dem Mess- und Eichge
 
 6. externe Sonden zur Messung der Ortsdosis und der Ortsdosisleistung für Ortsdosimeter gemäß Absatz 1 Nummer 13 Buchstabe b und c.
 
-§ 1 Abs. 2 Satz 1 Nr. 4: IdF d. Art. 1 Nr. 2 Buchst. b V v. 10.8.2017 I 3098 mWv 16.8.2017; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach dem Wort "sind" das Komma durch einen Satzendepunkt ersetzt.
+§ 1 Abs. 2 Satz 1 Nr. 5 (früher Nr. 4): IdF d. Art. 1 Nr. 2 Buchst. b V v. 10.8.2017 I 3098 mWv 16.8.2017; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach dem Wort "sind" das Komma durch einen Satzendepunkt ersetzt.
 
 # § 2 – Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
 
@@ -758,6 +758,8 @@ b) nach einem von der Molkerei errechneten, mindestens durch wöchentliches Nach
 8. in anderen Fällen als der Nummer 7 Messgrößen, deren Werte als Summe, Differenz, Produkt oder Quotient oder Kombinationen davon aus Messwerten gebildet werden, welche mit einem dem Mess- und Eichgesetz und dieser Verordnung entsprechendem Messgerät ermittelt worden sind, sofern der Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes Regeln hierfür ermittelt hat, die eine Feststellung zu den zulässigen Abweichungen der Werte von den wahren Werten beinhalten und deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde; die für diese Rechenoperationen verwendeten Messwerte müssen mit angegeben werden.
 
 Satz 1 Nummer 7 ist nicht anzuwenden, soweit für eine Messgröße die Voraussetzungen des Satzes 1 Nummer 8 erfüllt sind. Wurden Werte nach Satz 1 entsprechend einer vom Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes ermittelten Regel, deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde, ermittelt, so wird widerleglich vermutet, dass sie den anerkannten Regeln der Technik entsprechend ermittelt wurden.
+
+(+++ § 25 Satz 1 Nr. 7: Zur Anwendung vgl. § 58 Abs. 7 +++)
 
 # § 26 – Angabe von Gewichtswerten
 
@@ -2588,7 +2590,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 # Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte*
 
 (Fundstelle: BGBl. I 2014, 2064 - 2068;  
-bzgl. der einzelnen Änderungen vgl. Fußnote))
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 8 – (zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)Kennzeichen
 

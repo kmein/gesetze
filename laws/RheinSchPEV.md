@@ -35,7 +35,19 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 19
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
-(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage durch Rechtsverordnung in dringenden Fällen oder zu Versuchszwecken eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung
+
+1. zur Umsetzung einer Anordnung der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
+
+a) in dringenden Fällen oder
+
+b) zu Versuchszwecken oder zur Zulassung einer technischen Neuerung, durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden,
+
+eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen oder
+
+2. für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu bestimmen.
+
+Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann diese durch Verwaltungsakt zugelassen werden.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 
@@ -249,7 +261,9 @@ zuwiderhandelt,
 
 6. nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 oder 5 vorgeschriebenen Person besetzt ist,
 
-7. nicht sicherstellt, dass sich die in § 1.10 Satz 1 in Verbindung mit Anlage 13 oder § 1.10a Nummer 2 Satz 2 genannten Urkunden oder sonstigen Unterlagen an Bord befinden oder entgegen § 1.10 Satz 2 eine Urkunde oder sonstige Unterlage nicht oder nicht rechtzeitig aushändigt,
+7. entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
+
+7a. entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord mitführt,
 
 8. ein Fahrzeug führt, auf dem sich entgegen § 1.11 Nummer 1 ein Abdruck der dort genannten Verordnungen nicht an Bord befindet,
 

@@ -798,6 +798,8 @@ d) den Betrag, den die Kasse einem Leistungsanwärter im Sinne des Buchstabens b
 
 (6) Absatz 2 Satz 2 ist mit der Maßgabe anzuwenden, dass allein der Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union nicht dazu führt, dass ein als entnommen geltendes Wirtschaftsgut als aus der Besteuerungshoheit der Mitgliedstaaten der Europäischen Union ausgeschieden gilt.
 
+(+++ § 4g: Zur Anwendung vgl. § 52 +++)
+
 # § 4h – Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)
 
 (1) ¹Zinsaufwendungen eines Betriebs sind abziehbar in Höhe des Zinsertrags, darüber hinaus nur bis zur Höhe des verrechenbaren EBITDA. ²Das verrechenbare EBITDA ist 30 Prozent des um die Zinsaufwendungen und um die nach § 6 Absatz 2 Satz 1 abzuziehenden, nach § 6 Absatz 2a Satz 2 gewinnmindernd aufzulösenden und nach § 7 abgesetzten Beträge erhöhten und um die Zinserträge verminderten maßgeblichen Gewinns. ³Soweit das verrechenbare EBITDA die um die Zinserträge geminderten Zinsaufwendungen des Betriebs übersteigt, ist es in die folgenden fünf Wirtschaftsjahre vorzutragen (EBITDA-Vortrag); ein EBITDA-Vortrag entsteht nicht in Wirtschaftsjahren, in denen Absatz 2 die Anwendung von Absatz 1 Satz 1 ausschließt. ⁴Zinsaufwendungen, die nach Satz 1 nicht abgezogen werden können, sind bis zur Höhe der EBITDA-Vorträge aus vorangegangenen Wirtschaftsjahren abziehbar und mindern die EBITDA-Vorträge in ihrer zeitlichen Reihenfolge. ⁵Danach verbleibende nicht abziehbare Zinsaufwendungen sind in die folgenden Wirtschaftsjahre vorzutragen (Zinsvortrag). ⁶Sie erhöhen die Zinsaufwendungen dieser Wirtschaftsjahre, nicht aber den maßgeblichen Gewinn.
@@ -866,6 +868,8 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 (6) ¹Die Absätze 1 bis 5 finden nur Anwendung, wenn der Tatbestand dieser Absätze zwischen nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes oder zwischen einem Unternehmen und seiner Betriebsstätte verwirklicht wird oder wenn eine strukturierte Gestaltung anzunehmen ist. ²Einer Person, die mit einer anderen Person durch abgestimmtes Verhalten zusammenwirkt, werden für Zwecke dieses Absatzes und der Absätze 1 bis 5 die Beteiligung, die Stimmrechte und die Gewinnbezugsrechte der anderen Person zugerechnet. ³Eine strukturierte Gestaltung im Sinne des Satzes 1 ist anzunehmen, wenn der steuerliche Vorteil, der sich ohne die Anwendung der vorstehenden Absätze ergeben würde, ganz oder zum Teil in die Bedingungen der vertraglichen Vereinbarungen eingerechnet wurde oder die Bedingungen der vertraglichen Vereinbarungen oder die den vertraglichen Vereinbarungen zugrunde liegenden Umstände darauf schließen lassen, dass die an der Gestaltung Beteiligten den steuerlichen Vorteil erwarten konnten. ⁴Ein Steuerpflichtiger wird nicht als Teil einer strukturierten Gestaltung behandelt, wenn nach den äußeren Umständen vernünftigerweise nicht davon auszugehen ist, dass ihm der steuerliche Vorteil bekannt war und er nachweist, dass er nicht an dem steuerlichen Vorteil beteiligt wurde.
 
 (7) Die Absätze 1 bis 6 sind ungeachtet der Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden.
+
+(+++ § 4k: Zur Anwendung vgl. § 52 +++)
 
 # § 5 – Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden
 
