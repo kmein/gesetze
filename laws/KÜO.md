@@ -139,7 +139,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 2 – (zu § 5)
 
-(Fundstelle: BGBl. I 2013, 762 - 772)
+(Fundstelle: BGBl. I 2013, 762 - 772;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -1195,7 +1196,8 @@ Datum</td><td style="text-align: right;">Unterschrift des Schornsteinfegers </t
 
 # Anlage 3 – (zu § 6)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2013, 773 - 774)
+(Fundstelle: BGBl. I 2013, 773 - 774;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Anlage 3 Nr. 1.2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 2 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung. Anlage 3 Nr. 3 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung. Anlage 3 Nr. 4.1.4 u. 4.2.4 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.
 

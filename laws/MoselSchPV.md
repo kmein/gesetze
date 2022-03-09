@@ -1368,7 +1368,7 @@ Hat ein Fahrzeug oder ein Schwimmkörper eine Anlage (z.B. Schleuse, Brücke, Bu
 
 1. Unfälle und sonstige Beeinträchtigungen der Verkehrssicherheit sind der zuständigen Behörde umgehend anzuzeigen. Ereignet sich ein Unfall im Schleusenbereich, ist die Schleusenaufsicht sofort zu benachrichtigen.
 
-2. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers muß so bald wie möglich für die Benachrichtigung der nächsten zuständigen Behörde sorgen. Er oder ein anderes Mitglied der Besatzung muß an Bord oder in der Nähe der Unfallstelle bleiben, bis die zuständige Behörde ihm gestattet, sich zu entfernen.
+2. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers muss unverzüglich für die Benachrichtigung der nächsten zuständigen Behörde sorgen. Er oder ein anderes Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis die zuständige Behörde ihm gestattet, sich zu entfernen.
 
 3. Sofern es nicht offensichtlich unnötig ist, muß der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers unbeschadet des § 3.25 unverzüglich für eine Wahrschau der herankommenden Fahrzeuge oder Schwimmkörper an geeigneten Stellen und in einer solchen Entfernung von der Unfallstelle sorgen, daß diese rechtzeitig die erforderlichen Maßnahmen treffen können.
 
