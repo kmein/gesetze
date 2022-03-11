@@ -809,7 +809,7 @@ b) von Kernbrennstoffen nach § 3 Absatz 3, deren Aktivität je Versandstück da
 
 (2) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen Unterlagen beizufügen.
 
-(3) Sofern eine Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 des Atomgesetzes in Betracht kommt, gilt für Kernmaterialien anstelle der Regelung des Absatzes 1 Nummer 6 die Regelung der Anlage 2 zum Atomgesetz.
+(3) Bei der Beförderung von Kernmaterialien im Sinne des § 2 Absatz 4 des Atomgesetzes ist eine Deckungsvorsorge auch dann zu erbringen, wenn die Aktivitätswerte des Absatzes 1 Nummer 6 nicht überschritten werden.
 
 # § 30 – Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe
 
