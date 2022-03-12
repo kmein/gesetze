@@ -2312,7 +2312,8 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 Die Befugnisse zum stehenden Gewerbebetrieb können durch Stellvertreter ausgeübt werden; diese müssen jedoch den für das in Rede stehende Gewerbe insbesondere vorgeschriebenen Erfordernissen genügen.
 
-(+++ § 45: Zur Nichtanwendung vgl. § 34 Abs. 1 KredWG +++)
+(+++ § 45: Zur Nichtanwendung vgl. § 34 Abs. 1 KredWG +++)  
+(+++ § 45: Zur Nichtanwendung vgl. § 20 Abs. 7 WpIG +++)
 
 # § 46 – Fortführung des Gewerbes
 

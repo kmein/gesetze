@@ -7,7 +7,7 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absa
 
 # § 1 – Zweck der Verordnung und Begriffsbestimmungen
 
-(1) Diese Verordnung dient der Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs während der vom Deutschen Bundestag am 28. März 2020 festgestellten epidemischen Lage von nationaler Tragweite.
+(1) Diese Verordnung dient der Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs während der durch das Coronavirus SARS-CoV-2 verursachten Epidemie.
 
 (2) Produkte des medizinischen Bedarfs im Sinne dieser Verordnung sind Arzneimittel, deren Wirk-, Ausgangs- und Hilfsstoffe, Betäubungsmittel der Anlagen II und III des Betäubungsmittelgesetzes, Medizinprodukte, Labordiagnostika, Hilfsmittel, Gegenstände der persönlichen Schutzausrüstung und Produkte zur Desinfektion.
 
@@ -93,4 +93,4 @@ Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung
 
 # § 10 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Mai 2022 außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 25. November 2022 außer Kraft.

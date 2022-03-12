@@ -101,6 +101,8 @@ Jede anspruchsberechtigte Person hat bei der Abgabe von Schutzmasken nach § 4 A
 
 (3) Für die Abgabe von Schutzmasken nach § 4 Absatz 2a Satz 1 erstellen die Apotheken einmalig eine Abrechnung, aus der sich die Anzahl der abgegebenen Masken und der geltend gemachte Erstattungsbetrag nach § 5 Absatz 3 ergeben. Absatz 2 Satz 2 und 3 gelten entsprechend. Die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen einschließlich der nach § 4 Absatz 2a Satz 2 einbehaltenen Informationsschreiben sind von den Apotheken bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
+(4) Die Übermittlung der Abrechnung nach Absatz 2 Satz 2 durch die Apotheken an das jeweilige Rechenzentrum kann letztmalig am 10. März 2022 erfolgen.
+
 # § 8 – Verwaltungskostenersatz
 
 Die Krankenkassen und die privaten Krankenversicherungsunternehmen erhalten für die Versendung der Bescheinigungen nach § 3 Absatz 1 Satz 2 und der Versendung der Informationsschreiben nach § 3 Absatz 5 Satz 2 einen Verwaltungskostenersatz in Höhe von 0,60 Euro je versendetem Brief. Die Krankenkassen melden bis zum 30. April 2021 die Anzahl der von ihnen versandten Briefe nach Satz 1 an den Spitzenverband Bund der Krankenkassen. Die privaten Krankenversicherungsunternehmen melden bis zum 30. April 2021 die Anzahl der von ihnen versandten Briefe nach Satz 1 an den Verband der Privaten Krankenversicherung.
@@ -109,7 +111,7 @@ Die Krankenkassen und die privaten Krankenversicherungsunternehmen erhalten für
 
 (1) An das Bundesamt für Soziale Sicherung übermittelt
 
-1. jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch monatlich den sich für alle es in Anspruch nehmenden Apotheken ergebenden Gesamtbetrag der Abrechnungen nach § 7 Absatz 2 Satz 1,
+1. jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch monatlich, letztmalig am 15. März 2022, den sich für alle es in Anspruch nehmenden Apotheken ergebenden Gesamtbetrag der Abrechnungen nach § 7 Absatz 2 Satz 1,
 
 1a. jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch einmalig bis zum 31. Mai 2021 den sich für alle es in Anspruch nehmenden Apotheken ergebenden Gesamtbetrag der Abrechnung nach § 7 Absatz 3 Satz 1,
 
@@ -143,7 +145,7 @@ Das Bundesamt für Soziale Sicherung bestimmt das Nähere zum Verfahren der Zahl
 
 # § 11 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 15. Dezember 2020 in Kraft; sie tritt nach § 20i Absatz 3 Satz 15 des Fünften Buches Sozialgesetzbuch außer Kraft.
+Diese Verordnung tritt am 15. Dezember 2020 in Kraft; sie tritt mit Ablauf des 25. November 2022 außer Kraft.
 
 # Anlage – Abgabefähige Schutzmasken
 

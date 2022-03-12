@@ -69,6 +69,8 @@ Dies gilt auch, wenn eine Ausbildung in einem anderen Herkunftsstaat durchgefüh
 
 (2) Die Ausnahmebewilligung wird auch erteilt, wenn die Antragstellerin oder der Antragsteller in einem anderen Herkunftsstaat für das betreffende Gewerbe eine gemeinsame Ausbildungsprüfung bestanden hat. Eine gemeinsame Ausbildungsprüfung ist eine Ausbildungsprüfung, die auf Grundlage der Artikel 49b und 57c der Richtlinie 2005/36/EG von der Europäischen Kommission als delegierter Rechtsakt erlassen und in der Bundesrepublik Deutschland eingeführt wurde. Die gemeinsame Ausbildungsprüfung ist eine standardisierte Eignungsprüfung, die den Inhabern und Inhaberinnen einer bestimmten Berufsqualifikation vorbehalten ist.
 
+(+++ §§ 4 bis 7: Zur Anwendung vgl. § 13a Abs. 6 Satz 2 NDAV +++)
+
 # § 5 – Ausgleichsmaßnahmen
 
 (1) Die zuständige Behörde kann von der Antragstellerin oder dem Antragsteller vor der Erteilung einer Ausnahmebewilligung als Ausgleichsmaßnahme die Teilnahme an einem höchstens dreijährigen Anpassungslehrgang oder das Ablegen einer Eignungsprüfung verlangen, wenn
@@ -86,6 +88,9 @@ Die Antragstellerin oder der Antragsteller kann zwischen der Teilnahme an einem 
 2. wenn die von der Antragstellerin oder dem Antragsteller im Rahmen der Berufserfahrung erworbenen Kenntnisse geeignet sind, die in Absatz 1 genannten Unterschiede auszugleichen, oder
 
 3. wenn die von der Antragstellerin oder dem Antragsteller durch lebenslanges Lernen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, die hierfür von einer zuständigen Behörde oder öffentlichen Einrichtung des anderen Herkunftsstaates als gültig anerkannt wurden, den wesentlichen Unterschied in Bezug auf die Fächer oder Handlungsfelder gemäß Absatz 1 Nummer 1 ausgleichen können; das lebenslange Lernen umfasst jegliche Aktivitäten der allgemeinen, beruflichen und sonstigen Bildung sowie des informellen Lernens während des gesamten Lebens, aus denen sich eine Verbesserung von Kenntnissen, Fähigkeiten und Kompetenzen ergibt.
+
+(+++ §§ 4 bis 7: Zur Anwendung vgl. § 13a Abs. 6 Satz 2 NDAV +++)  
+(+++ §§ 5, 9 und 10: Zur Anwendung vgl. § 13a Abs. 8 Satz 3 NDAV +++)
 
 # § 6 – Anerkennungsverfahren, Mitteilungspflichten und Fristen
 
@@ -127,6 +132,7 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (7) Wird eine Ausgleichsmaßnahme nach § 5 Absatz 1 verlangt, so ist dies der Antragstellerin oder dem Antragsteller mitzuteilen und zu begründen. Die Begründung hat den Hinweis zu enthalten, welchem Niveau gemäß Artikel 11 der Richtlinie 2005/36/EG die vorgelegten Berufsqualifikationen zugeordnet wurden und dass im Inland für die Ausübung einer Betriebsleitertätigkeit das Qualifikationsniveau des Artikels 11 Absatz 1 Buchstabe c der Richtlinie 2005/36/EG erforderlich ist. Zudem sind die wesentlichen festgestellten Unterschiede zu benennen, für die kein Ausgleich erbracht werden konnte. Wird als Ausgleichsmaßnahme eine Eignungsprüfung verlangt, soll diese innerhalb von sechs Monaten ab dem Zugang der Entscheidung ermöglicht und abgelegt werden.
 
+(+++ §§ 4 bis 7: Zur Anwendung vgl. § 13a Abs. 6 Satz 2 NDAV +++)  
 (+++ § 6 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++)  
 (+++ § 6 Abs. 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
@@ -142,6 +148,7 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 2. deren Kenntnis wesentliche Voraussetzung für die Ausübung des Berufes ist.
 
+(+++ §§ 4 bis 7: Zur Anwendung vgl. § 13a Abs. 6 Satz 2 NDAV +++)  
 (+++ § 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
 # § 8 – Voraussetzungen der Dienstleistungserbringung
@@ -160,6 +167,8 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (4) Tritt eine wesentliche Änderung von Umständen ein, die die Voraussetzungen für die Dienstleistungserbringung betreffen, ist die Änderung schriftlich oder elektronisch anzuzeigen und das Vorliegen der Voraussetzungen nach § 8 durch Unterlagen nachzuweisen. Ansonsten ist die Anzeige formlos alle zwölf Monate seit der letzten Anzeige zu wiederholen, solange die weitere Erbringung von Dienstleistungen beabsichtigt ist.
 
+(+++ §§ 5, 9 und 10: Zur Anwendung vgl. § 13a Abs. 8 Satz 3 NDAV +++)
+
 # § 10 – Nachprüfung der Berufsqualifikation
 
 (1) Wird die Berufsqualifikation nach § 8 Absatz 2 geprüft, ist § 6 Absatz 3 entsprechend anzuwenden. Die Dienstleistungserbringerin oder der Dienstleistungserbringer soll innerhalb eines Monats nach Eingang der Anzeige und der vollständigen Unterlagen über das Ergebnis unterrichtet werden. Bei einer Verzögerung unterrichtet die zuständige Behörde die Dienstleistungserbringerin oder den Dienstleistungserbringer über die Gründe für die Verzögerung und über den Zeitplan für eine Entscheidung. In diesem Fall muss das Ergebnis der Nachprüfung spätestens innerhalb von zwei Monaten nach Eingang der Anzeige und der vollständigen Unterlagen mitgeteilt werden.
@@ -169,6 +178,8 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 (3) Wenn die zuständige Behörde die in den Absätzen 1 und 2 festgesetzten Fristen nicht einhält, darf die Dienstleistung erbracht werden.
 
 (4) Ergibt die Nachprüfung, dass die berufliche Qualifikation der Dienstleistungserbringerin oder des Dienstleistungserbringers im Sinne von § 8 Absatz 2 ausreicht, ist eine Bescheinigung darüber auszustellen. Die Bescheinigung kann auf einen wesentlichen Teil der Tätigkeiten beschränkt werden, die zu einem Handwerk der Anlage A Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung gehören.
+
+(+++ §§ 5, 9 und 10: Zur Anwendung vgl. § 13a Abs. 8 Satz 3 NDAV +++)
 
 # § 11 – Ordnungswidrigkeiten
 
