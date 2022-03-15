@@ -226,3 +226,5 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 (2) Die §§ 2 und 4 sind nach Ablauf des Monats, der auf den Tag der Bekanntmachung nach Absatz 1 Nummer 2 folgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekannt zu machen. § 5 Absatz 2 und § 6 sind sechs Monate nach dem in Satz 1 genannten Tag anzuwenden; abweichend hiervon kann die Registerbehörde einem Auftraggeber auf dessen Ersuchen die Möglichkeit zur Abfrage nach § 6 Absatz 1 und 2 bereits ab dem in Satz 1 bezeichneten Tag eröffnen. Bis zur verpflichtenden Anwendung der in Satz 2 bezeichneten Vorschriften sind die landesrechtlichen Vorschriften über die Errichtung und den Betrieb eines dem § 1 entsprechenden Registers weiter anzuwenden.
 
 (3) Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+
+(+++ Hinweis: Zur Bekanntmachung nach § 12 Absatz 1 vgl. Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 +++)

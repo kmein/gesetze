@@ -2818,8 +2818,6 @@ Liegen die Voraussetzungen für eine Anrechnung sowohl nach Nummer 3 als auch na
 
 (12) Die zuständige Behörde hat auf Antrag dem Arbeitgeber einen Vorschuss in der voraussichtlichen Höhe des Erstattungsbetrages, den in Heimarbeit Beschäftigten und Selbständigen in der voraussichtlichen Höhe der Entschädigung zu gewähren.
 
-§ 56 Abs. 1 Satz 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde zwischen dem Wort "Anordnung" und dem Wort "einer" eine Leerstelle eingefügt
-
 # § 57 – Verhältnis zur Sozialversicherung und zur Arbeitsförderung
 
 (1) Für Personen, denen eine Entschädigung nach § 56 Abs. 1 zu gewähren ist, besteht eine Versicherungspflicht in der gesetzlichen Rentenversicherung fort. Bemessungsgrundlage für Beiträge sind
