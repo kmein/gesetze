@@ -227,4 +227,4 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 
 (3) Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-(+++ Hinweis: Zur Bekanntmachung nach § 12 Absatz 1 vgl. Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 +++)
+(+++ Hinweis: Zur Bekanntmachung nach § 12 Abs. 1 vgl. Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 +++)

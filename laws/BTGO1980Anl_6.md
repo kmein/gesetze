@@ -107,9 +107,7 @@ k) Zur zwangsweisen Vorführung (§§ 134, 230, 236, 329 und 387 StPO).
 
 l) Zur Verhaftung auf Grund Haftbefehls nach §§ 114, 125, 230, 236 oder 329 StPO.
 
-# 15. – Schutzmaßnahmen nach dem Infektionsschutzgesetz
-
-Schutzmaßnahmen nach dem Infektionsschutzgesetz haben notstandsähnlichen Charakter. Maßnahmen nach den §§ 29ff. des Infektionsschutzgesetzes bedürfen daher, gleichgültig, ob sie zum Schutz gegen das Mitglied des Bundestages oder zum Schutz des Mitgliedes des Bundestages gegen andere notwendig werden, nicht der Aufhebung der Immunität. Die zuständigen Behörden sind jedoch verpflichtet, den Präsidenten des Deutschen Bundestages unverzüglich über die gegen ein Mitglied des Bundestages angeordneten Maßnahmen zu unterrichten. Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ist berechtigt, zu prüfen oder prüfen zu lassen, ob es sich um nach dem Infektionsschutzgesetz gerechtfertigte Maßnahmen handelt. Hält er sie nicht oder nicht mehr für erforderlich, so kann der Ausschuß im Wege der Vorentscheidung die Aussetzung der angeordneten Maßnahmen verlangen. Kann der Ausschuß innerhalb von zwei Tagen nach Eingang einer Mitteilung der zuständigen Behörden nicht zusammentreten, so hat der Präsident des Bundestages insoweit die Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung. Er hat den Ausschuß unverzüglich über seine Entscheidung in Kenntnis zu setzen.
+# 15. – (weggefallen)
 
 # 16. – Anhängige Strafverfahren
 

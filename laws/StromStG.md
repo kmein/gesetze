@@ -288,9 +288,10 @@ für das Antragsjahr 2015 am 21.1.2015 getroffen, vgl. Bek. v. 21.1.2015 I 26,
 für das Antragsjahr 2016 am 6.1.2016 getroffen, vgl. Bek. v. 6.1.2016 I 32,  
 für das Antragsjahr 2017 am 11.1.2017 getroffen, vgl. Bek. v. 11.1.2017 I 106,  
 für das Antragsjahr 2018 am 13.12.2017 getroffen, vgl. Bek. v. 13.12.2017 I 3936,  
-für das Antragsjahr 2019 am 19.12.2018 getroffen, vgl. Bek. v. 19.12.2018 I 2706  
-für das Antragsjahr 2020 am 18.12.2019 getroffen, vgl. Bek. v. 18.12.2019 I 2941  
-und für das Antragsjahr 2021 am 2.12.2020 getroffen, vgl. Bek. v. 2.12.2020 I 2653 +++)  
+für das Antragsjahr 2019 am 19.12.2018 getroffen, vgl. Bek. v. 19.12.2018 I 2706,  
+für das Antragsjahr 2020 am 18.12.2019 getroffen, vgl. Bek. v. 18.12.2019 I 2941,  
+für das Antragsjahr 2021 am 2.12.2020 getroffen, vgl. Bek. v. 2.12.2020 I 2653,  
+und für das Antragsjahr 2022 am 22.12.2021 getroffen, vgl. Bek. v. 22.12.2021 I 5262 +++)  
 § 10 Abs. 3 Nr. 2 Satz 2 (Kursivdruck): Müsste richtigerweise nicht der Nr. 2 zugeordnet und daher noch weiter nach links ausgerückt werden. Der Abs. 3 müsste insgesamt zwei Sätze besitzen: den Satz 1 mit der Untergliederung Nr. 1 u. Nr. 2 (bestehend je aus den Buchst. a u. b) sowie den weiteren Satz 2.
 
 # § 10a – Datenaustausch
