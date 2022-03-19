@@ -177,7 +177,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
 
 §§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
-§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
+§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)  
+§ 15 idF d. G v. 7.8.1973 I 965: Saarland - Abweichung durch § 1 Saarländisches Grundsteuergesetz v. 15.9.2021 Amtsbl. SL I 2021 S. 2372 mWv 29.10.2021 (vgl. BGBl. I 2021, 4903)
 
 # § 16 – Hauptveranlagung
 

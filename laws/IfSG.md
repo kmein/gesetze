@@ -143,7 +143,11 @@ Impfstoffe
 
 § 22
 
-Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate
+Impf-, Genesenen- und Testdokumentation
+
+§ 22a
+
+Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
 
 § 23
 
@@ -1659,7 +1663,7 @@ Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten N
 
 # § 20a – Immunitätsnachweis gegen COVID-19
 
-(1) Folgende Personen müssen ab dem 15. März 2022 entweder geimpfte oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sein:
+(1) Folgende Personen müssen ab dem 15. März 2022 über einen Impf- oder Genesenennachweis nach § 22a Absatz 1 oder Absatz 2 verfügen:
 
 1. Personen, die in folgenden Einrichtungen oder Unternehmen tätig sind:
 
@@ -1713,11 +1717,13 @@ Satz 1 gilt nicht für Personen, die auf Grund einer medizinischen Kontraindikat
 
 (2) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig sind, haben der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens bis zum Ablauf des 15. März 2022 folgenden Nachweis vorzulegen:
 
-1. einen Impfnachweis im Sinne des § 2 Nummer 3 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung,
+1. einen Impfnachweis nach § 22a Absatz 1,
 
-2. einen Genesenennachweis im Sinne des § 2 Nummer 5 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung oder
+2. einen Genesenennachweis nach § 22a Absatz 2,
 
-3. ein ärztliches Zeugnis darüber, dass sie auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können.
+3. ein ärztliches Zeugnis darüber, dass sie sich im ersten Schwangerschaftsdrittel befinden, oder
+
+4. ein ärztliches Zeugnis darüber, dass sie auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können.
 
 Wenn der Nachweis nach Satz 1 nicht bis zum Ablauf des 15. März 2022 vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann bestimmen, dass
 
@@ -1735,7 +1741,9 @@ Wenn der Nachweis nach Satz 1 nicht bis zum Ablauf des 15. März 2022 vorgelegt 
 
 (6) Die Absätze 1 bis 5 gelten nicht für die in den Einrichtungen oder von den Unternehmen behandelten, betreuten, gepflegten oder untergebrachten Personen.
 
-(7) Durch die Absätze 1 bis 5 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
+(7) Die in Absatz 1 Satz 1 Nummer 2 genannten voll- und teilstationären Einrichtungen, die zugelassene Pflegeeinrichtungen im Sinne von § 72 des Elften Buches Sozialgesetzbuch sind, sind verpflichtet, dem Robert Koch-Institut monatlich Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der Einrichtung beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind, in anonymisierter Form zu übermitteln. Soweit es zur Erfüllung der Pflichten aus Satz 1 erforderlich ist, darf die Leitung der in Satz 1 genannten Einrichtungen zu diesem Zweck personenbezogene Daten einschließlich Daten zum Impfstatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Die Daten nach Satz 2 dürfen auch zur Beurteilung der Gefährdungslage in der Einrichtung im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeitet werden, solange und soweit dies erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Bestehen zum Zeitpunkt des Inkrafttretens dieser Regelung bereits landesrechtliche Meldeverfahren, die auf bisherigem Bundesrecht beruhen und die zu den durch das Robert Koch-Institut nach Satz 1 zu erhebenden Daten anschlussfähig sind, bleiben die landesrechtlichen Meldeverfahren von der Änderung unberührt, wenn die Länder nach Kreisen und kreisfreien Städten aufgeschlüsselte Daten direkt an das Robert Koch-Institut übermitteln; insoweit entfällt die Meldepflicht nach Satz 1. Das Robert Koch-Institut führt die ihm übermittelten Daten zusammen und übermittelt sie monatlich in anonymisierter Form dem Bundesministerium für Gesundheit sowie den Ländern bezogen auf Länder- und Kreisebene. Die nach den Sätzen 2 und 3 erhobenen Daten sind spätestens am Ende des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt.
+
+(8) Durch die Absätze 1 bis 5 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
 
 # § 20b – Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
 
@@ -1777,7 +1785,7 @@ Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworben
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung oder einer Impfung nach § 17a Absatz 2 des Soldatengesetzes dürfen Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von den Geimpften ausgeschieden und von anderen Personen aufgenommen werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
-# § 22 – Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate
+# § 22 – Impf-, Genesenen- und Testdokumentation
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der Impfausweis nicht vorgelegt wird, in einer Impfbescheinigung zu dokumentieren (Impfdokumentation).
 
@@ -1825,39 +1833,11 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 3. Angaben zur Testung, einschließlich der Art der Testung.
 
-(5) Zusätzlich zu der Impfdokumentation ist auf Wunsch der geimpften Person die Durchführung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem digitalen Zertifikat (COVID-19-Impfzertifikat) durch folgende Personen zu bescheinigen:
+(5) (weggefallen)
 
-1. durch die zur Durchführung der Schutzimpfung berechtigte Person oder
+(6) (weggefallen)
 
-2. nachträglich von jedem Arzt oder Apotheker.
-
-Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Impfdokumentation über eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Impfzertifikats, insbesondere, um die Identität der geimpften Person und die Authentizität der Impfdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Impfzertifikats übermittelt die zur Bescheinigung der Schutzimpfung gegen das Coronavirus SARS-CoV-2 verpflichtete Person die in Absatz 2 Satz 1 und Absatz 4 genannten personenbezogenen Daten an das Robert Koch-Institut, das das COVID-19-Impfzertifikat technisch generiert. Das Robert Koch-Institut ist befugt, die zur Erstellung und Bescheinigung des COVID-19-Impfzertifikats erforderlichen personenbezogenen Daten zu verarbeiten.
-
-(6) Die Durchführung oder Überwachung einer Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der betroffenen Person in einem digitalen Zertifikat (COVID-19-Genesenenzertifikat) zu bescheinigen:
-
-1. durch die zur Durchführung oder Überwachung der Testung berechtigte Person oder
-
-2. nachträglich von jedem Arzt oder Apotheker.
-
-Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Testdokumentation in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Genesenenzertifikats, insbesondere, um die Identität der getesteten Person und die Authentizität der Testdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Genesenenzertifikats übermittelt die zur Bescheinigung der Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Genesenenzertifikat technisch generiert:
-
-1. den Namen der getesteten Person, deren Geburtsdatum,
-
-2. das Datum der Testung und
-
-3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
-
-Absatz 5 Satz 4 gilt entsprechend.
-
-(7) Die Durchführung oder Überwachung einer Testung in Bezug auf einen negativen Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der getesteten Person durch die zur Durchführung oder Überwachung der Testung berechtigte Person in einem digitalen Zertifikat (COVID-19-Testzertifikat) zu bescheinigen. Zur Erstellung des COVID-19-Testzertifikats übermittelt die zur Bescheinigung verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Testzertifikat technisch generiert:
-
-1. den Namen der getesteten Person, deren Geburtsdatum,
-
-2. das Datum der Testung und
-
-3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
-
-Absatz 5 Satz 4 gilt entsprechend.
+(7) (weggefallen)
 
 # § 23 – Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
@@ -2100,45 +2080,45 @@ Schutzmaßnahmen nach Absatz 1 Nummer 15 dürfen nicht zur vollständigen Isolat
 
 (7) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein, soweit sie zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich sind:
 
-1. die Anordnung eines Abstandsgebots im öffentlichen Raum, insbesondere in öffentlich zugänglichen Innenräumen,
+1. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz) in
 
-2. die Anordnung von Kontaktbeschränkungen im privaten sowie im öffentlichen Raum,
+a) Arztpraxen sowie in Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 Nummer 1 bis 5, 11 und 12 sowie § 36 Absatz 1 Nummer 2 und 7, soweit die Verpflichtung zur Abwendung einer Gefahr für Personen, die auf Grund ihres Alters oder ihres Gesundheitszustandes ein erhöhtes Risiko für einen schweren oder tödlichen Krankheitsverlauf der Coronavirus-Krankheit-2019 (COVID-19) haben, erforderlich ist,
 
-3. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz),
+b) Verkehrsmitteln des öffentlichen Personennahverkehrs für Fahrgäste sowie das Kontroll- und Servicepersonal und das Fahr- und Steuerpersonal, soweit für dieses tätigkeitsbedingt physischer Kontakt zu anderen Personen besteht, und
 
-4. die Verpflichtung zur Vorlage von Impf-, Genesenen- oder Testnachweisen sowie an die Vorlage solcher Nachweise anknüpfende Beschränkungen des Zugangs in den oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen,
+c) Einrichtungen nach § 36 Absatz 1 Nummer 3 und 4,
 
-5. die Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten, auch unter Vorgabe von Personenobergrenzen, für die in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betriebe, Gewerbe, Einrichtungen, Angebote, Veranstaltungen, Reisen und Ausübungen,
+2. die Verpflichtung zur Testung auf das Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 in
 
-6. die Beschränkung der Anzahl von Personen in oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen,
+a) Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 Nummer 1 und 11 sowie nach § 36 Absatz 1 Nummer 2, 4 und 7,
 
-7. die Erteilung von Auflagen für die Fortführung des Betriebs von Gemeinschaftseinrichtungen im Sinne von § 33, Hochschulen, außerschulischen Einrichtungen der Erwachsenenbildung oder ähnlichen Einrichtungen und
+b) Schulen, Kindertageseinrichtungen und
 
-8. die Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen oder Veranstaltungsteilnehmern in den oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen, um nach Auftreten einer Infektion mit dem Coronavirus SARS-CoV-2 mögliche Infektionsketten nachverfolgen und unterbrechen zu können; dabei kann auch angeordnet werden, dass die Nachverfolgung und Unterbrechung von Infektionsketten vorrangig durch die Bereitstellung der QR-Code-Registrierung für die Corona-Warn-App des Robert Koch-Instituts erfolgt.
+c) Justizvollzugsanstalten, Abschiebungshafteinrichtungen, Maßregelvollzugseinrichtungen sowie anderen Abteilungen oder Einrichtungen, wenn und soweit dort dauerhaft freiheitsentziehende Unterbringungen erfolgen, insbesondere psychiatrische Krankenhäuser, Heime der Jugendhilfe und für Senioren.
 
-Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben unberührt. Die Absätze 3 bis 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
+Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben unberührt. Die Absätze 3, 5 und 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
 
-(8) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können die Absätze 1 bis 6 auch angewendet werden, soweit und solange die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 feststellt, mit der Maßgabe, dass folgende Schutzmaßnahmen ausgeschlossen sind:
+(8) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können in einer konkret zu benennenden Gebietskörperschaft, in der durch eine epidemische Ausbreitung der Coronavirus-Krankheit 2019 (COVID-19) die konkrete Gefahr einer sich dynamisch ausbreitenden Infektionslage besteht, über den Absatz 7 hinaus auch folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne von § 28 Absatz 1 Satz 1 und 2 sein, sofern das Parlament des betroffenen Landes das Vorliegen der konkreten Gefahr und die Anwendung konkreter Maßnahmen in dieser Gebietskörperschaft feststellt:
 
-1. die Anordnung von Ausgangsbeschränkungen,
+1. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz),
 
-2. die Untersagung der Sportausübung und die Schließung von Sporteinrichtungen,
+2. die Anordnung eines Abstandsgebots mit einem Abstand von 1,5 Metern (Mindestabstand) im öffentlichen Raum, insbesondere in öffentlich zugänglichen Innenräumen,
 
-3. die Untersagung von Versammlungen oder Aufzügen im Sinne von Artikel 8 des Grundgesetzes und von religiösen oder weltanschaulichen Zusammenkünften,
+3. die Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises nach § 22a Absatz 1 bis 3 einschließlich der Vorlage eines amtlichen Lichtbildausweises sowie an die Vorlage solcher Nachweise anknüpfende Beschränkungen des Zugangs in Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 und § 36 Absatz 1 sowie in Betrieben, in Einrichtungen oder Angeboten mit Publikumsverkehr,
 
-4. die Untersagung von Reisen,
+4. die Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten, die die Bereitstellung von Desinfektionsmitteln, die Vermeidung unnötiger Kontakte und Lüftungskonzepte vorsehen können, für Einrichtungen im Sinne von § 23 Absatz 3 Satz 1 und § 36 Absatz 1 und für die in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betriebe, Gewerbe, Einrichtungen, Angebote, Veranstaltungen, Reisen und Ausübungen.
 
-5. die Untersagung von Übernachtungsangeboten,
+Eine konkrete Gefahr einer sich dynamisch ausbreitenden Infektionslage nach Satz 1 besteht, wenn
 
-6. die Schließung von Betrieben, Gewerben, Einzel- oder Großhandel, sofern es sich nicht um gastronomische Einrichtungen, Freizeit- oder Kultureinrichtungen oder um Messen oder Kongresse handelt,
+1. in der jeweiligen Gebietskörperschaft die Ausbreitung einer Virusvariante des Coronavirus SARS-CoV-2 festgestellt wird, die eine signifikant höhere Pathogenität aufweist, oder
 
-7. die Schließung von Gemeinschaftseinrichtungen im Sinne von § 33.
+2. auf Grund einer besonders hohen Anzahl von Neuinfektionen oder eines besonders starken Anstiegs an Neuinfektionen eine Überlastung der Krankenhauskapazitäten in der jeweiligen Gebietskörperschaft droht.
 
-Absatz 7 bleibt unberührt. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die weitere Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung der weiteren Anwendbarkeit der Absätze 1 bis 6 die weitere Anwendbarkeit der Absätze 1 bis 6 erneut feststellt.
+Die Absätze 3, 5 und 6 gelten entsprechend. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die Feststellung erneut trifft; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der erneuten Feststellung erneut die Feststellung trifft.
 
-(9) Die Absätze 1 bis 6 bleiben nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite bis längstens zum Ablauf des 19. März 2022 für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 anwendbar, die bis zum 25. November 2021 in Kraft getreten sind. Satz 1 gilt für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 entsprechend, sofern das Parlament in dem betroffenen Land die Rechtsverordnungen nicht aufhebt. Die Anordnung von Schutzmaßnahmen nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 oder nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 bleibt unberührt.
+(9) (weggefallen)
 
-(10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss spätestens mit Ablauf des 19. März 2022 außer Kraft treten. Nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des 19. März 2022 aufgehoben werden. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekanntzumachenden Beschluss einmalig die Fristen nach den Sätzen 1 und 2 um bis zu drei Monate verlängern.
+(10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss spätestens mit Ablauf des 23. September 2022 außer Kraft treten. Nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des 23. September 2022 aufgehoben werden. Eine vor dem 19. März 2022 auf Grundlage von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in der jeweils am 18. März 2022 geltenden Fassung in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung darf bis zum Ablauf des 2. April 2022 aufrechterhalten werden, soweit die in der jeweiligen Rechtsverordnung genannten Maßnahmen auch nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein könnten.
 
 # § 28b – Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung
 
@@ -2784,7 +2764,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 3. die erwerbstätige Person dadurch einen Verdienstausfall erleidet.
 
-Anspruchsberechtigte haben gegenüber der zuständigen Behörde, auf Verlangen des Arbeitgebers auch diesem gegenüber, darzulegen, dass sie in diesem Zeitraum keine zumutbare Betreuungsmöglichkeit für das Kind sicherstellen können. Ein Anspruch besteht nicht, soweit eine Schließung ohnehin wegen der Schul- oder Betriebsferien erfolgen würde. Im Fall, dass das Kind in Vollzeitpflege nach § 33 des Achten Buches Sozialgesetzbuch in den Haushalt aufgenommen wurde, steht der Anspruch auf Entschädigung den Pflegeeltern zu. Der Anspruch nach Satz 1 besteht in Bezug auf die dort genannten Maßnahmen auch unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite, soweit diese zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) im Zeitraum bis zum Ablauf des 19. März 2022 erfolgen.
+Anspruchsberechtigte haben gegenüber der zuständigen Behörde, auf Verlangen des Arbeitgebers auch diesem gegenüber, darzulegen, dass sie in diesem Zeitraum keine zumutbare Betreuungsmöglichkeit für das Kind sicherstellen können. Ein Anspruch besteht nicht, soweit eine Schließung ohnehin wegen der Schul- oder Betriebsferien erfolgen würde. Im Fall, dass das Kind in Vollzeitpflege nach § 33 des Achten Buches Sozialgesetzbuch in den Haushalt aufgenommen wurde, steht der Anspruch auf Entschädigung den Pflegeeltern zu. Der Anspruch nach Satz 1 besteht in Bezug auf die dort genannten Maßnahmen auch unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite, soweit diese zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) im Zeitraum bis zum Ablauf des 23. September 2022 erfolgen.
 
 (2) Die Entschädigung bemisst sich nach dem Verdienstausfall. Für die ersten sechs Wochen wird sie in Höhe des Verdienstausfalls gewährt. Vom Beginn der siebenten Woche an wird die Entschädigung abweichend von Satz 2 in Höhe von 67 Prozent des der erwerbstätigen Person entstandenen Verdienstausfalls gewährt; für einen vollen Monat wird höchstens ein Betrag von 2 016 Euro gewährt. Im Fall des Absatzes 1a wird die Entschädigung von Beginn an in der in Satz 3 bestimmten Höhe gewährt. Für jede erwerbstätige Person wird die Entschädigung nach Satz 4 für die Dauer der vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite und für den in Absatz 1a Satz 5 genannten Zeitraum unabhängig von der Anzahl der Kinder für längstens zehn Wochen pro Jahr gewährt, für eine erwerbstätige Person, die ihr Kind allein beaufsichtigt, betreut oder pflegt, längstens für 20 Wochen pro Jahr.
 
@@ -3134,7 +3114,7 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 1. entgegen § 22 Absatz 4a Satz 1 oder Absatz 4c Satz 1 die Durchführung oder Überwachung einer dort genannten Testung nicht richtig dokumentiert oder
 
-2. entgegen § 22 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 die Durchführung einer Schutzimpfung oder die Durchführung oder Überwachung einer dort genannten Testung nicht richtig bescheinigt.
+2. entgegen § 22a Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 die Durchführung einer Schutzimpfung oder die Durchführung oder Überwachung einer dort genannten Testung nicht richtig bescheinigt.
 
 (2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer wissentlich zur Täuschung im Rechtsverkehr entgegen § 22 Absatz 4a Satz 2 oder Absatz 4c Satz 2 eine Testung dokumentiert.
 
