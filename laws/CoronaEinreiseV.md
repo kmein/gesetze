@@ -71,69 +71,35 @@ eine Person, bei der aktuell kein typisches Symptom oder sonstiger Anhaltspunkt 
 
 eine asymptomatische Person, die im Besitz eines auf ihre Person ausgestellten Testnachweises ist,
 
- 6. Testnachweis, vorbehaltlich besonderer Regelungen in dieser Verordnung,
+ 6. Testnachweis
 
-ein Nachweis hinsichtlich des Nichtvorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung
+a) ein Testnachweis im Sinne von § 22a Absatz 3 des Infektionsschutzgesetzes oder
 
-a) in der Bundesrepublik Deutschland von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnung oder im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes durch Personal, das die dafür erforderliche Ausbildung oder Kenntnis und Erfahrung besitzt, vorgenommen oder überwacht wurde oder im Ausland von einer nach dem Recht des jeweiligen Staates befugten Stelle vorgenommen oder überwacht wurde und
-
-b) durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind, und
+b) sofern die Testung im Ausland erfolgt ist, ein Nachweis hinsichtlich des Nichtvorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung
 
 aa)  
-zum Zeitpunkt oder zum geplanten Zeitpunkt der Einreise in die Bundesrepublik maximal 48 Stunden zurückliegt, oder
+von einer nach dem Recht des jeweiligen Staates befugten Stelle vorgenommen oder überwacht worden ist und
 
 bb)  
-sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt,
+durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind, und
+
+aaa)  
+zum Zeitpunkt oder zum geplanten Zeitpunkt der Einreise in die Bundesrepublik maximal 48 Stunden zurückliegt oder,
+
+bbb)  
+sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt.
 
  7. genesene Person
 
-eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises ist,
+eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises im Sinne von § 22a Absatz 2 des Infektionsschutzgesetzes ist,
 
-8. Genesenennachweis
-
-ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn
-
-a) die vorherige Infektion durch einen direkten Erregernachweis nachgewiesen wurde und
-
-b) die Testung zum Nachweis der vorherigen Infektion mindestens 28 Tage und höchstens 90 Tage zurückliegt,
+ 8. (wegefallen)
 
  9. geimpfte Person
 
-eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises ist,
+eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises im Sinne von § 22a Absatz 1 des Infektionsschutzgesetzes ist,
 
-10. Impfnachweis
-
-ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form. Ein vollständiger Impfschutz gegen das Coronavirus SARS-CoV-2 liegt vor, wenn
-
-a) die zugrundeliegenden Einzelimpfungen mit einem von der Europäischen Union zugelassenen Impfstoff, mit verschiedenen von der Europäischen Union zugelassenen Impfstoffen oder mit äquivalenten Impfstoffen erfolgt sind,
-
-b) insgesamt drei Einzelimpfungen erfolgt sind und
-
-c) die letzte Einzelimpfung mindestens drei Monate nach der zweiten Einzelimpfung erfolgt ist.
-
-Abweichend von Satz 2 Buchstabe b liegt ein vollständiger Impfschutz bis zum 30. September 2022 auch bei zwei Einzelimpfungen vor und ab dem 1. Oktober 2022 bei zwei Einzelimpfungen nur vor, wenn
-
-a) seit der zweiten Einzelimpfung nicht mehr als 270 Tage vergangen sind,
-
-b) die betroffene Person einen bei ihr durchgeführten spezifischen positiven Antikörpertest in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form nachweisen kann und dieser Antikörpertest zu einer Zeit erfolgt ist, zu der die betroffene Person noch keine Einzelimpfung gegen COVID-19 erhalten hatte,
-
-c) die betroffene Person mit dem Coronavirus SARS-CoV-2 infiziert gewesen ist, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
-
-aa)  
-auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
-
-bb)  
-zu einer Zeit erfolgt ist, zu der die betroffene Person noch nicht die zweite Impfdosis gegen das Coronavirus SARS-CoV-2 erhalten hat, oder
-
-d) die betroffene Person sich nach Erhalt der zweiten Impfdosis mit dem Coronavirus SARS-CoV-2 infiziert hat, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
-
-aa)  
-auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
-
-bb)  
-seit dem Tag der Durchführung der dem Testnachweis zugrundeliegenden Testung 28 Tage vergangen sind.
-
-Abweichend von Satz 3 liegt in den in Satz 3 Buchstabe b bis d genannten Fällen ein vollständiger Impfschutz bis zum 30. September 2022 auch bei einer Einzelimpfung vor; an die Stelle der zweiten Einzelimpfung tritt die erste Einzelimpfung,
+10. (weggefallen)
 
 11. Grenzpendler
 
@@ -168,6 +134,8 @@ Belgien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Island, Italien
 17. Angehörige ausländischer Streitkräfte
 
 Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des Truppenstatuts der NATO-Partnerschaft für den Frieden und des Truppenstatuts der Mitgliedstaaten der Europäischen Union, die zu dienstlichen Zwecken nach Deutschland einreisen oder dorthin zurückkehren.
+
+Zertifikate nach der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie (ABl. L 211 vom 15.6.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/256 (ABl. L 42 vom 23.2.2022, S. 4) geändert worden ist, gelten als Impf-, Genesenen- oder Testnachweis im Sinne dieser Verordnung.
 
 # § 3 – Anmeldepflicht
 
@@ -432,7 +400,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 19. März 2022 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 28. April 2022 außer Kraft.
 
 # Anlage
 

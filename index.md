@@ -1348,6 +1348,7 @@
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
 - [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
+- [COV19EFreistVerlV](laws/COV19EFreistVerlV.md) Verordnung zur Verlängerung der vorübergehenden Freistellung von Einkommen aus Tätigkeiten BAföG-Geförderter in systemrelevanten Branchen aus Anlass der COVID-19-Pandemie
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
 - [COVAAppOAbwV](laws/COVAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
@@ -2099,6 +2100,7 @@
 - [FinAusglG2019DV 1](laws/FinAusglG2019DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
 - [FinAusglG2020DV 1](laws/FinAusglG2020DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
 - [FinAusglG2021DV 1](laws/FinAusglG2021DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
+- [FinAusglG2022DV 1](laws/FinAusglG2022DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2022
 - [FinAusglVtr AUT](laws/FinAusglVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -2403,7 +2405,6 @@
 - [GesundZAAbkFRAVVbg](laws/GesundZAAbkFRAVVbg.md) Verwaltungsvereinbarung zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
 - [GesWFachwPrV](laws/GesWFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
 - [GesWZustG](laws/GesWZustG.md) Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens
-- [GetrAuVÜV](laws/GetrAuVÜV.md) Verordnung über die Überwachung von Getreide aus Interventionsbeständen zur Ausfuhr oder zur Verarbeitung zu bestimmten Erzeugnissen
 - [GewAbfV](laws/GewAbfV.md) Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen
 - [GewAnzV](laws/GewAnzV.md) Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens
 - [GewBezG](laws/GewBezG.md) Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
@@ -5236,7 +5237,6 @@
 - [StÄndG 1966](laws/StÄndG_1966.md) Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung
 - [StÄndG 1969](laws/StÄndG_1969.md) Gesetz über die Gewährung von Investitionszulagen und zur Änderung steuerrechtlicher und prämienrechtlicher Vorschriften
 - [StÄndG 1975](laws/StÄndG_1975.md) Gesetz zur Änderung des Einkommensteuergesetzes und des Investitionszulagengesetzes
-- [Stär/ZuckProdErstV](laws/Stär_ZuckProdErstV.md) Verordnung über die Gewährung von Produktionserstattungen für die Verwendung von Zucker
 - [StAG](laws/StAG.md) Staatsangehörigkeitsgesetz
 - [StandAG](laws/StandAG.md) Gesetz zur Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle
 - [StandOG](laws/StandOG.md) Gesetz zur Verbesserung der steuerlichen Bedingungen zur Sicherung des Wirtschaftsstandorts Deutschland im Europäischen Binnenmarkt
@@ -5977,6 +5977,7 @@
 - [VwZG](laws/VwZG.md) Verwaltungszustellungsgesetz
 - [VZOG](laws/VZOG.md) Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen
 - [VZOZÜV](laws/VZOZÜV.md) Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsidenten der Oberfinanzdirektionen in den neuen Ländern nach dem Vermögenszuordnungsgesetz auf das Bundesamt zur Regelung offener Vermögensfragen
+- [VZVV](laws/VZVV.md) Verordnung zur Verlängerung des Zeitraums für das vereinfachte Verfahren für den Zugang zu den Grundsicherungssystemen und für den Mehrbedarf für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie
 - [Wabau-AusbV 2004](laws/Wabau-AusbV_2004.md) Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin
 - [WachszMstrV](laws/WachszMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wachszieher-Handwerk
 - [WährUmStAbschlG](laws/WährUmStAbschlG.md) Gesetz zum Abschluß der Währungsumstellung
@@ -6460,8 +6461,6 @@
 - [ZTRV](laws/ZTRV.md) Verordnung zur Einrichtung und Führung des Zentralen Testamentsregisters
 - [ZTV 1986](laws/ZTV_1986.md) Zolltarifverordnung
 - [ZuckArtV 2003](laws/ZuckArtV_2003.md) Verordnung über einige zur menschlichen Ernährung bestimmte Zuckerarten
-- [ZuckDenatPräV](laws/ZuckDenatPräV.md) Verordnung über die Gewährung einer Denaturierungsprämie für Zucker
-- [ZuckerUmstrV](laws/ZuckerUmstrV.md) Verordnung über die befristete Umstrukturierungsregelung für die Zuckerindustrie
 - [ZuckMindLgAbgVAufhV](laws/ZuckMindLgAbgVAufhV.md) Verordnung zur Aufhebung der Zucker-Mindestlagerabgaben-Verordnung
 - [ZuckProdAbgV 1983](laws/ZuckProdAbgV_1983.md) Verordnung über die im Rahmen der Produktionsregelung für Zucker zu erhebenden Abgaben
 - [ZuckProdAbgV1983AbwV 2009/2010](laws/ZuckProdAbgV1983AbwV_2009_2010.md) Verordnung zur Abweichung von der Zucker-Produktionsabgaben-Verordnung für das Wirtschaftsjahr 2009/2010

@@ -77,6 +77,30 @@ c) von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnun
 
 8. auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Rechtsverordnung oder eine Allgemeinverfügung, die ein Land oder eine nach Landesrecht zuständige Stelle auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erlassen hat.
 
+# § 2 – Begriffsbestimmungen
+
+Im Sinne dieser Verordnung ist
+
+1. eine asymptomatische Person, eine Person, bei der aktuell kein typisches Symptom oder sonstiger Anhaltspunkt für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegt; typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 sind Atemnot, neu auftretender Husten, Fieber und Geruchs- oder Geschmacksverlust,
+
+2. eine geimpfte Person eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises im Sinne von § 22a Absatz 1 des Infektionsschutzgesetzes ist,
+
+3. (weggefallen)
+
+4. eine genesene Person eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises im Sinne von § 22a Absatz 2 des Infektionsschutzgesetzes ist,
+
+5. (weggefallen)
+
+6. eine getestete Person eine asymptomatische Person, die
+
+a) das sechste Lebensjahr noch nicht vollendet hat oder
+
+b) im Besitz eines auf sie ausgestellten Testnachweises im Sinne von § 22a Absatz 3 des Infektionsschutzgesetzes ist,
+
+7. (weggefallen)
+
+8. auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Rechtsverordnung oder eine Allgemeinverfügung, die ein Land oder eine nach Landesrecht zuständige Stelle auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erlassen hat.
+
 # § 3 – Gleichstellung von geimpften Personen und genesenen Personen mit getesteten Personen
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Ausnahme von Geboten oder Verboten für Personen, die negativ auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet sind, vorgesehen ist oder erlassen wird, gilt diese Ausnahme auch für geimpfte Personen und genesene Personen.
@@ -104,6 +128,20 @@ Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzge
 1. nach den vom Robert Koch-Institut im Internet unter der Adresse www.rki.de/kontaktpersonenmanagement unter Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft veröffentlichten Vorgaben eine Absonderung auch für bestimmte geimpfte Personen oder genesene Personen möglich ist, oder
 
 2. die Einreise in die Bundesrepublik Deutschland nach Voraufenthalt in einem als Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung festgestellten Gebiet erfolgt.
+
+# § 6 – Ausnahmen von Absonderungspflichten
+
+(1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur Absonderung vorsieht, gilt diese Pflicht nicht für geimpfte Personen und genesene Personen.
+
+(2) Absatz 1 gilt nicht für Personen,
+
+1. die zwei Einzelimpfungen erhalten haben, wenn die zweite Einzelimpfung mehr als 90 Tage zurückliegt und sie danach keine dritte Einzelimpfung erhalten haben,
+
+2. bei denen ein vollständiger Impfschutz im Sinne von § 22a Absatz 1 Satz 4 in Verbindung mit Satz 3 Nummer 1 oder Nummer 2 des Infektionsschutzgesetzes seit mehr als 90 Tagen besteht und sie keine zweite Einzelimpfung erhalten haben,
+
+3. bei denen ein vollständiger Impfschutz im Sinne von § 22a Absatz 1 Satz 4 in Verbindung mit Satz 3 Nummer 3 des Infektionsschutzgesetzes besteht, wenn seit der Durchführung der dem Testnachweis zugrundeliegenden Testung mehr als 90 Tage vergangen sind und sie danach keine zweite Einzelimpfung erhalten haben, oder
+
+4. die nach einem Voraufenthalt in einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung in die Bundesrepublik Deutschland einreisen.
 
 # § 7 – Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
 

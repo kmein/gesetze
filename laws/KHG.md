@@ -807,7 +807,7 @@ Kommt eine Vereinbarung nach Satz 1 nicht innerhalb dieser Frist zustande, legt 
 
 4. von den Vorgaben des § 21 Absatz 10 und 11 abweichende Regelungen für die Durchführung eines Ausgleichs von Erlösrückgängen für das Jahr 2021 und erforderlichenfalls für das Jahr 2022 vorsehen und Vorgaben für die Durchführung eines Ausgleichs von Erlösanstiegen für das Jahr 2021 und erforderlichenfalls für das Jahr 2022 regeln, einschließlich der Regelung weiterer Zeiträume für die Durchführung dieser Ausgleiche,
 
-5. den in § 22 Absatz 1 Satz 2 genannten Zeitraum längstens bis zum 31. März 2022 verlängern oder längstens bis zum 31. März 2022 abweichend festlegen und
+5. einen von § 22 Absatz 1 Satz 2 abweichenden Zeitraum regeln und
 
 6. vorsehen, dass die Übermittlung der Daten nach § 24 Absatz 2 Satz 1 auch für das Jahr 2022 erfolgt.
 
