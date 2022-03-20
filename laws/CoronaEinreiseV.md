@@ -398,10 +398,6 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 12. entgegen § 11 Absatz 1 Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-# § 14 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 28. April 2022 außer Kraft.
-
 # Anlage
 
 (Fundstelle: BAnz AT 29.09.2021 V1)

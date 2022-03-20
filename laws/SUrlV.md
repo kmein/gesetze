@@ -248,24 +248,6 @@ notwendigen Abwesenheit</td></tr></tbody></table>
 
 2. bei den übrigen Beamtinnen und Beamten für jedes Kind um 20 Arbeitstage, für alle Kinder zusammen höchstens um 43 Arbeitstage.
 
-(2b) Bis zum Ablauf des 19. März 2022 besteht der Anspruch auf Sonderurlaub nach Absatz 1 Nummer 4, auch in Verbindung mit den Absätzen 2 und 2a, auch dann, wenn die Beamtin oder der Beamte ihr oder sein Kind, das noch nicht zwölf Jahre alt ist oder das behindert und auf Hilfe angewiesen ist, betreut, weil
-
-1. zur Verhinderung der Verbreitung von Infektionen oder übertragbaren Krankheiten die Schule des Kindes, die Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen mit Behinderungen auf Grund des Infektionsschutzgesetzes vorübergehend geschlossen worden ist,
-
-2. das Betreten der Schule des Kindes, der Einrichtung zur Betreuung des Kindes oder der Einrichtung für Menschen mit Behinderungen – auch auf Grund einer Absonderung – untersagt worden ist,
-
-3. Schul- oder Betriebsferien von der zuständigen Behörde aus Gründen des Infektionsschutzes angeordnet oder verlängert worden sind,
-
-4. die Präsenzpflicht in der Schule des Kindes aufgehoben worden ist,
-
-5. der Zugang zu einem Angebot der Kinderbetreuung eingeschränkt worden ist oder
-
-6. das Kind auf Grund einer behördlichen Empfehlung die Schule, die Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen mit Behinderungen nicht besucht.
-
-In den Fällen des Satzes 1 Nummer 1 bis 6 kann die Dienststelle die Vorlage einer Bescheinigung der Schule oder der Einrichtung verlangen.
-
-(2c) Für die Zeit, in der ein Elternteil Sonderurlaub nach Absatz 1 Nummer 4, auch in Verbindung mit den Absätzen 2 und 2b, in Anspruch nimmt, ruht für beide Elternteile die Möglichkeit, aus demselben Grund Sonderurlaub nach § 22 Absatz 2 in Anspruch zu nehmen.
-
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten regelmäßigen Arbeitszeit.
 
 (4) Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat von den Absätzen 1 bis 3 abweichende Regelungen treffen für Beamtinnen und Beamte, die beschäftigt sind
