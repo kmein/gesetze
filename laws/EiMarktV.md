@@ -13,9 +13,9 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 # § 1b – Verbot des Inverkehrbringens
 
-(1) Es ist verboten, entgegen Artikel 78 Absatz 1 Buchstabe e und Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in Verbindung mit
+(1) Es ist verboten, entgegen Artikel 78 Absatz 1 Buchstabe e und Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, in Verbindung mit
 
-1. Anhang VII Teil VI Abschnitt II Nummer 1 oder Nummer 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, 2, 3 Satz 1 oder Absatz 4 Satz 1 oder Artikel 4 Absatz 1 der Verordnung (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht oder nicht richtig nach den vorgeschriebenen Güteklassen eingeteilt oder nicht oder nicht richtig nach Gewichtsklassen sortiert sind,
+1. Anhang VII Teil VI Abschnitt II Nummer 1 oder Nummer 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, 2, 3 Satz 1 oder Absatz 4 Satz 1 oder Artikel 4 Absatz 1 der Verordnung (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6), die zuletzt durch die Delegierte Verordnung (EU) 2017/2168 (ABl. L 306 vom 22.11.2017, S. 6) geändert worden ist, Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht oder nicht richtig nach den vorgeschriebenen Güteklassen eingeteilt oder nicht oder nicht richtig nach Gewichtsklassen sortiert sind,
 
 2. Anhang VII Teil VI Abschnitt II Nummer 3 Eier der Klasse B an andere als die dort genannten Einrichtungen zu liefern,
 
@@ -39,7 +39,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 # § 2 – Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
-In Rechnungen, Lieferscheinen und sonstigen Transportbegleitpapieren, ausgenommen in Papieren der genannten Art des Einzelhandels, sind die Güte- und Gewichtsklassen anzugeben, unter denen die Eier jeweils geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
+Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die nach Güte- oder Gewichtsklassen sortiert sind, hat auf jeder Stufe der Lieferkette mit Ausnahme des Einzelhandels in Rechnungen, Lieferscheinen und sonstigen Transportbegleitpapieren die Güte- oder Gewichtsklassen anzugeben, unter denen die Eier jeweils geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
 
 # § 3 – (weggefallen)
 
@@ -53,7 +53,7 @@ Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche o
 
 # § 5 – Verfahren bei Direktlieferungen ungekennzeichneter Eier
 
-(1) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach Artikel 11 der Verordnung (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6) in der jeweils geltenden Fassung zur Lieferung ungekennzeichneter Eier an einen in Deutschland gelegenen Betrieb der Nahrungsmittelindustrie ist bei der zuständigen Behörde des Landes, in dem die Produktionsstätte ihren Sitz hat, zu stellen. Diese informiert unverzüglich die zuständige Behörde des Landes, in dem der Betrieb der Nahrungsmittelindustrie ansässig ist, wenn sie dem Antrag stattgibt.
+(1) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach Artikel 11 der Verordnung (EG) Nr. 589/2008 zur Lieferung ungekennzeichneter Eier an einen in Deutschland gelegenen Betrieb der Nahrungsmittelindustrie ist bei der zuständigen Behörde des Landes, in dem die Produktionsstätte ihren Sitz hat, zu stellen. Diese informiert unverzüglich die zuständige Behörde des Landes, in dem der Betrieb der Nahrungsmittelindustrie ansässig ist, wenn sie dem Antrag stattgibt.
 
 (2) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach Artikel 11 der Verordnung (EG) Nr. 589/2008 zur Lieferung ungekennzeichneter Eier an einen in einem anderen Mitgliedstaat der Europäischen Union oder in einem Drittstaat gelegenen Betrieb der Nahrungsmittelindustrie ist bei der zuständigen Behörde des Landes, in dem die Produktionsstätte ihren Sitz hat, zu stellen.
 

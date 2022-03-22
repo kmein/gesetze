@@ -161,7 +161,7 @@ Schlußvorschriften
 
 § 28
 
-Sonderregelungen aus Anlass der COVID-19-Pandemie
+(weggefallen)
 
 § 29
 
@@ -365,6 +365,8 @@ Besteht der Betrieb oder die Dienststelle nicht aus räumlich weiter auseinander
 
 (4) § 13 Abs. 2 und 3 sowie die §§ 14 bis 16 gelten entsprechend.
 
+(5) Die Wahlversammlung der Schwerbehindertenvertretung kann im vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Für die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder gilt § 11 entsprechend.
+
 # § 21 – Nachwahl des stellvertretenden Mitglieds
 
 Scheidet das einzige stellvertretende Mitglied aus oder ist ein stellvertretendes Mitglied noch nicht gewählt, lädt die Schwerbehindertenvertretung die Wahlberechtigten unverzüglich zur Wahlversammlung zur Wahl eines oder mehrerer stellvertretender Mitglieder ein. Im übrigen gelten die §§ 18 bis 20 entsprechend.
@@ -409,11 +411,7 @@ Scheidet das einzige stellvertretende Mitglied vorzeitig aus dem Amt aus oder is
 
 Für die Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen gelten die §§ 24 bis 26 entsprechend.
 
-# § 28 – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Bis zum Ablauf des 19. März 2022 kann die Wahlversammlung der Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
-
-(2) Bis zum Ablauf des 19. März 2022 gilt § 11 für die Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder im vereinfachten Wahlverfahren entsprechend.
+# § 28 – (weggefallen)
 
 # § 29 – (Inkrafttreten)
 

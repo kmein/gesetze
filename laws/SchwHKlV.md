@@ -3,7 +3,7 @@
  
 # § 1 – Gesetzliche Handelsklassen
 
-Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang IV Teil B der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) sowie die in Anlage 1 bezeichneten Handelsklassen.
+Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang IV Teil B der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, sowie die in Anlage 1 bezeichneten Handelsklassen.
 
 # § 2 – Einstufung in Handelsklassen
 
@@ -42,6 +42,10 @@ zu ermitteln (Klassifizierungsverfahren). Das ZP-Verfahren darf nur in Schlachtb
 (1) Klassifizierte Schweineschlachtkörper sind vom Klassifizierer bei der Einstufung deutlich lesbar durch Stempelaufdruck oder durch von der Landesbehörde anerkannte, ohne Beschädigung nicht entfernbare Etiketten nach Artikel 8 Absatz 1, Absatz 2 Buchstabe b, Absatz 3 Buchstabe c sowie Absatz 4 und 5 der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) zu kennzeichnen.
 
 (2) Die Pflicht zur Kennzeichnung der Schlachtkörper gemäß Absatz 1 entfällt, wenn die Voraussetzungen gemäß Artikel 8 Absatz 6 Buchstabe a oder Buchstabe b der Delegierten Verordnung (EU) 2017/1182 erfüllt sind.
+
+# § 4a – Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zuständige Behörde die Daten nach Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
 # § 5 – Ordnungswidrigkeiten
 

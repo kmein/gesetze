@@ -263,7 +263,7 @@ Amtszeit der bestehenden Werkstatträte
 
 § 40b
 
-Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
+(weggefallen)
 
 § 41
 
@@ -501,6 +501,8 @@ Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss der Stim
 
 (5) Ist für mehr als die Hälfte der Wahlberechtigten infolge ihrer Behinderung eine Stimmabgabe durch Abgabe eines Stimmzettels nach den Absätzen 3 und 4 überwiegend nicht möglich, kann der Wahlvorstand eine andere Form der Ausübung des Wahlrechts beschließen.
 
+(6) Der Wahlvorstand kann beschließen, dass die Wahl auch als Briefwahl durchgeführt wird.
+
 # § 22 – Wahlvorgang
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen für die unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die Bereitstellung einer Wahlurne zu sorgen. Die Wahlurne muss vom Wahlvorstand verschlossen und so eingerichtet sein, dass die eingeworfenen Stimmzettel nicht herausgenommen werden können, ohne dass die Urne geöffnet wird.
@@ -696,9 +698,7 @@ Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits best
 
 # § 40a – (weggefallen)
 
-# § 40b – Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
-
-Bis zum Ablauf des 19. März 2022 kann der Wahlvorstand beschließen, dass die Wahl auch als Briefwahl durchgeführt wird.
+# § 40b – (weggefallen)
 
 # § 41 – Inkrafttreten
 

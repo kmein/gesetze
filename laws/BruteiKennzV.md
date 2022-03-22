@@ -23,7 +23,7 @@ zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkau
 
 (2) Es ist verboten,
 
-1. Bruteier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in Artikel 3 Absatz 1 oder Absatz 2 der Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5), die durch die Verordnung (EU) Nr. 557/2010 (ABl. L 159 vom 25.6.2010, S. 13) geändert worden ist, genannten Anforderungen an die Kennzeichnung nicht entsprechen,
+1. Bruteier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in Artikel 3 Absatz 1 oder Absatz 2 der Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, genannten Anforderungen an die Kennzeichnung nicht entsprechen,
 
 2. Bruteier entgegen Artikel 3 Absatz 4 oder Absatz 6 der Verordnung (EG) Nr. 617/2008 unverpackt oder in Verpackungen, die nicht vollkommen sauber sind, nicht den vorgeschriebenen Inhalt aufweisen oder die nicht richtig oder nicht in der vorgeschriebenen Weise gekennzeichnet sind, zu liefern,
 
