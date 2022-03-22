@@ -1839,6 +1839,116 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 (7) (weggefallen)
 
+# § 22a – Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+(1) Ein Impfnachweis ist ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form. Ein vollständiger Impfschutz gegen das Coronavirus SARS-CoV-2 liegt vor, wenn
+
+1. die zugrundeliegenden Einzelimpfungen mit einem oder verschiedenen Impfstoffen erfolgt sind, die
+
+a) von der Europäischen Union zugelassen sind oder
+
+b) im Ausland zugelassen sind und die von ihrer Formulierung her identisch mit einem in der Europäischen Union zugelassenen Impfstoff sind,
+
+2. insgesamt drei Einzelimpfungen erfolgt sind und
+
+3. die letzte Einzelimpfung mindestens drei Monate nach der zweiten Einzelimpfung erfolgt ist.
+
+Abweichend von Satz 2 Nummer 2 liegt ein vollständiger Impfschutz bis zum 30. September 2022 auch bei zwei Einzelimpfungen vor und ab dem 1. Oktober 2022 bei zwei Einzelimpfungen nur vor, wenn
+
+1. die betroffene Person einen bei ihr durchgeführten spezifischen positiven Antikörpertest in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form nachweisen kann und dieser Antikörpertest zu einer Zeit erfolgt ist, zu der die betroffene Person noch keine Einzelimpfung gegen das Coronavirus SARS-CoV-2 erhalten hatte,
+
+2. die betroffene Person mit dem Coronavirus SARS-CoV-2 infiziert gewesen ist, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
+
+a) auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
+
+b) zu einer Zeit erfolgt ist, zu der die betroffene Person noch nicht die zweite Impfdosis gegen das Coronavirus SARS-CoV-2 erhalten hat, oder
+
+3. die betroffene Person sich nach Erhalt der zweiten Impfdosis mit dem Coronavirus SARS-CoV-2 infiziert hat, sie diese Infektion mit einem Testnachweis über einen direkten Erregernachweis nachweisen kann und die dem Testnachweis zugrundeliegende Testung
+
+a) auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
+
+b) seit dem Tag der Durchführung der dem Testnachweis zugrundeliegenden Testung 28 Tage vergangen sind.
+
+Abweichend von Satz 3 liegt in den in Satz 3 Nummer 1 bis 3 genannten Fällen ein vollständiger Impfschutz bis zum 30. September 2022 auch bei einer Einzelimpfung vor; an die Stelle der zweiten Einzelimpfung tritt die erste Einzelimpfung.
+
+(2) Ein Genesenennachweis ist ein Nachweis hinsichtlich des Vorliegens eines durch vorherige Infektion erworbenen Immunschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn
+
+1. die vorherige Infektion durch einen Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) nachgewiesen wurde und
+
+2. die Testung zum Nachweis der vorherigen Infektion mindestens 28 Tage und höchstens 90 Tage zurückliegt.
+
+(3) Ein Testnachweis ist ein Nachweis hinsichtlich des Nichtvorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind oder auf Grund ihrer CE-Kennzeichnung oder auf Grund einer gemäß § 11 Absatz 1 des Medizinproduktegesetzes erteilten Sonderzulassung verkehrsfähig sind, und die zugrundeliegende Testung maximal 24 Stunden zurückliegt und
+
+1. vor Ort unter Aufsicht desjenigen stattgefunden hat, der der jeweiligen Schutzmaßnahme unterworfen ist,
+
+2. im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes durch Personal erfolgt ist, das die dafür erforderliche Ausbildung oder Kenntnis und Erfahrung besitzt, oder
+
+3. von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnung vorgenommen oder vor Ort überwacht worden ist.
+
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nach dem aktuellen Stand der Wissenschaft und Forschung von den Absätzen 1 bis 3 abweichende Anforderungen an einen Impf-, einen Genesenen- und einen Testnachweis zu regeln. In der Rechtsverordnung darf die Bundesregierung
+
+1. hinsichtlich des Impfnachweises abweichend von Absatz 1 regeln:
+
+a) die Intervallzeiten,
+
+aa)  
+die nach jeder Einzelimpfung für einen vollständigen Impfschutz abgewartet werden müssen und
+
+bb)  
+die höchstens zwischen den Einzelimpfungen liegen dürfen,
+
+b) die Zahl und mögliche Kombination der Einzelimpfungen für einen vollständigen Impfschutz und
+
+c) Impfstoffe, deren Verwendung für einen Impfnachweis im Sinne des Absatzes 1 anerkannt wird,
+
+2. hinsichtlich des Genesenennachweises abweichend von Absatz 2 regeln:
+
+a) Nachweismöglichkeiten, mit denen die vorherige Infektion nachgewiesen werden kann,
+
+b) die Zeit, die nach der Testung zum Nachweis der vorherigen Infektion vergangen sein muss,
+
+c) die Zeit, die die Testung zum Nachweis der vorherigen Infektion höchstens zurückliegen darf,
+
+3. hinsichtlich des Testnachweises abweichend von Absatz 3 Nachweismöglichkeiten regeln, mit denen die mögliche Infektion nachgewiesen werden kann.
+
+In der Rechtsverordnung sind angemessene Übergangsfristen für die Anwendung der von den Absätzen 1 bis 3 abweichenden Anforderungen an einen Impf-, einen Genesenen- oder einen Testnachweis vorzusehen.
+
+(5) Zusätzlich zu der Impfdokumentation ist auf Wunsch der geimpften Person die Durchführung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem digitalen Zertifikat (COVID-19-Impfzertifikat) durch folgende Personen zu bescheinigen:
+
+1. die zur Durchführung der Schutzimpfung berechtigte Person oder
+
+2. nachträglich von jedem Arzt oder Apotheker.
+
+Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Impfdokumentation über eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Impfzertifikats, insbesondere, um die Identität der geimpften Person und die Authentizität der Impfdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Impfzertifikats übermittelt die zur Bescheinigung der Schutzimpfung gegen das Coronavirus SARSCoV-2 verpflichtete Person die in § 22 Absatz 2 Satz 1 und Absatz 4 genannten personenbezogenen Daten an das Robert Koch-Institut, das das COVID-19-Impfzertifikat technisch generiert. Das Robert Koch-Institut ist befugt, die zur Erstellung und Bescheinigung des COVID-19-Impfzertifikats erforderlichen personenbezogenen Daten zu verarbeiten.
+
+(6) Die Durchführung oder Überwachung einer Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der betroffenen Person in einem digitalen Zertifikat (COVID-19-Genesenenzertifikat) zu bescheinigen:
+
+1. durch die zur Durchführung oder Überwachung der Testung berechtigte Person oder
+
+2. nachträglich von jedem Arzt oder Apotheker.
+
+Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Testdokumentation in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Genesenenzertifikats, insbesondere, um die Identität der getesteten Person und die Authentizität der Testdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Genesenenzertifikats übermittelt die zur Bescheinigung der Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Genesenenzertifikat technisch generiert:
+
+1. den Namen der getesteten Person, ihr Geburtsdatum,
+
+2. das Datum der Testung und
+
+3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
+
+Absatz 5 Satz 4 gilt entsprechend.
+
+(7) Die Durchführung oder Überwachung einer Testung in Bezug auf einen negativen Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der getesteten Person durch die zur Durchführung oder Überwachung der Testung berechtigte Person in einem digitalen Zertifikat (COVID-19-Testzertifikat) zu bescheinigen. Zur Erstellung des COVID-19-Testzertifikats übermittelt die zur Bescheinigung verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Testzertifikat technisch generiert:
+
+1. den Namen der getesteten Person, ihr Geburtsdatum,
+
+2. das Datum der Testung und
+
+3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
+
+Absatz 5 Satz 4 gilt entsprechend.
+
+(8) Zur Sperrung von entgegen Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 nicht richtig bescheinigten COVID-19-Impfzertifikaten, COVID-19-Genesenenzertifikaten oder COVID-19-Testzertifikaten übermitteln die Bundespolizei und die zur Gefahrenabwehr zuständigen Behörden der Länder dem Robert Koch-Institut auf das Zertifikat bezogene Daten sowie unmittelbar im Zertifikat enthaltene Daten. Angaben zu Namen, Geburtsdaten oder der eindeutigen Zertifikatkennung gemäß Nummer 1 Buchstabe a, b und k, Nummer 2 Buchstabe a, b und l und Nummer 3 Buchstabe a, b und i des Anhangs zur Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie (ABl. L 211 vom 15.6.2021, S. 1), die zuletzt durch die Verordnung (EU) 2022/256 (ABl. L 42 vom 23.2.2022, S. 4) geändert worden ist, werden nicht übermittelt. Das Robert Koch-Institut führt die Sperrung durch Aufnahme des jeweiligen Zertifikats in eine Zertifikatssperrliste aus. Das Robert Koch-Institut ist befugt, die für die Durchführung der Sperrung eines Zertifikats erforderlichen personenbezogenen Daten zu verarbeiten.
+
 # § 23 – Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
 (1) Beim Robert Koch-Institut wird eine Kommission für Krankenhaushygiene und Infektionsprävention eingerichtet. Die Kommission gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Gesundheit bedarf. Die Kommission erstellt Empfehlungen zur Prävention nosokomialer Infektionen sowie zu betrieblich-organisatorischen und baulich-funktionellen Maßnahmen der Hygiene in Krankenhäusern und anderen medizinischen Einrichtungen. Sie erstellt zudem Empfehlungen zu Kriterien und Verfahren zur Einstufung von Einrichtungen als Einrichtungen für ambulantes Operieren. Die Empfehlungen der Kommission werden unter Berücksichtigung aktueller infektionsepidemiologischer Auswertungen stetig weiterentwickelt und vom Robert Koch-Institut veröffentlicht. Die Mitglieder der Kommission werden vom Bundesministerium für Gesundheit im Benehmen mit den obersten Landesgesundheitsbehörden berufen. Vertreter des Bundesministeriums für Gesundheit, der obersten Landesgesundheitsbehörden und des Robert Koch-Institutes nehmen mit beratender Stimme an den Sitzungen teil.

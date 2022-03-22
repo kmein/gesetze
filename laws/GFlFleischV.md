@@ -11,7 +11,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 # § 2 – Ausnahmen
 
-(1) Die Bestimmungen des Anhangs XIV Teil B Abschnitt III Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in der bis zum 31. Dezember 2013 geltenden Fassung sowie die Bestimmungen des Anhangs VII Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) müssen nicht eingehalten werden bei der direkten Abgabe kleiner Mengen Geflügelfleischs durch Landwirte, die jährlich weniger als 10 000 Tiere erzeugen.
+(1) Die Bestimmungen des Anhangs XIV Teil B Abschnitt III Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in der bis zum 31. Dezember 2013 geltenden Fassung sowie die Bestimmungen des Anhangs VII Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, müssen nicht eingehalten werden bei der direkten Abgabe kleiner Mengen Geflügelfleischs durch Landwirte, die jährlich weniger als 10 000 Tiere erzeugen.
 
 (2) Eine direkte Abgabe kleiner Mengen Geflügelfleischs im Sinne des Absatzes 1 ist die Abgabe von Fleisch von Geflügel, das im landwirtschaftlichen Betrieb geschlachtet worden ist und durch den Erzeuger an den Endverbraucher oder an Einzelhandelsunternehmen im Umkreis von nicht mehr als 100 Kilometern vom Ort des landwirtschaftlichen Betriebes abgegeben wird. Einzelhandelsunternehmen im Sinne des Satzes 1 sind in Artikel 3 Nummer 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1) in der jeweils geltenden Fassung genannte Lebensmittelunternehmen, die Einzelhandel im Sinne des Artikels 3 Nummer 7 der Verordnung (EG) Nr. 178/2002 mit Geflügelfleisch betreiben, dieses be- oder verarbeiten und direkt an den Endverbraucher abgeben.
 
@@ -21,11 +21,11 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 1. entgegen Artikel 116 in Verbindung mit Anhang XIV Teil B Abschnitt III Nummer 1 Satz 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S. 1) in der bis zum 31. Dezember 2013 geltenden Fassung, Geflügelfleisch zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, das nicht oder nicht richtig in eine vorgeschriebene Güteklasse eingestuft ist,
 
-2. entgegen Artikel 78 Absatz 1 Buchstabe d in Verbindung mit Anhang VII Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) Geflügelfleisch sowie Zubereitungen aus Geflügelfleisch zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, das sich nicht in einem der dort genannten Angebotszustände befindet.
+2. entgegen Artikel 78 Absatz 1 Buchstabe d in Verbindung mit Anhang VII Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 Geflügelfleisch sowie Zubereitungen aus Geflügelfleisch zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, das sich nicht in einem der dort genannten Angebotszustände befindet.
 
 (2) Es ist verboten,
 
-1. Geflügelschlachtkörper zum Verkauf vorrätig zu halten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die einer nach Artikel 3 Absatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46), die zuletzt durch die Verordnung (EU) Nr. 576/2011 (ABl. L 159 vom 17.6.2011, S. 66) geändert worden ist, vorgeschriebenen Herrichtungsform nicht entsprechen,
+1. Geflügelschlachtkörper zum Verkauf vorrätig zu halten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die einer nach Artikel 3 Absatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46; L 8 vom 13.1.2009, S. 33), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, vorgeschriebenen Herrichtungsform nicht entsprechen,
 
 2. Geflügelschlachtkörper zum Verkauf vorrätig zu halten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, ohne das Fehlen eines der in Artikel 3 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008 genannten Organe richtig und vollständig auf dem Etikett anzugeben,
 
@@ -59,6 +59,12 @@ Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche o
 
 (4) Zum Zwecke der Durchführung der Kontrollen in Bezug auf die Kennzeichnung von Geflügelfleisch und den Fremdwassergehalt von Geflügelfleisch verarbeitet die zuständige Behörde die Daten gemäß Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
+# § 6a – Vorschriften für Geflügelerzeuger
+
+(1) Geflügelerzeuger, die Geflügel unter Verwendung der in Artikel 11 Absatz 1 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008 festgelegten Begriffe vermarkten oder in Verkehr bringen, müssen über eine behördliche Zulassung verfügen.
+
+(2) Die Zulassung ist auf Antrag durch die nach Landesrecht zuständige Behörde zu erteilen, wenn im Rahmen einer Vor-Ort-Überprüfung festgestellt wurde, dass der Geflügelerzeuger die in Anhang V der Verordnung (EG) Nr. 543/2008 für die jeweilige Haltungsform festgelegten Haltungsvoraussetzungen erfüllt.
+
 # § 7 – Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse
 
 (1) Für die Kontrollen des Wassergehaltes gefrorener oder tiefgefrorener Hähnchen nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 543/2008 wird das Verfahren nach Anhang VI der Verordnung (EG) Nr. 543/2008 (Drip-Verfahren) bestimmt.
@@ -85,6 +91,10 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 (2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
+# § 8b – Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zuständige Behörde die Daten nach Abschnitt III der Anlage des Marktorganisationsgesetzes.
+
 # § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -105,9 +115,11 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 8. entgegen § 6 Absatz 2 Satz 2 ein Ergebnis nicht im Register für die vorgeschriebene Dauer festhält,
 
-9. entgegen § 6 Absatz 3 Satz 1 ein Los oder ein Bestandteil eines Loses vermarktet oder
+9. entgegen § 6 Absatz 3 Satz 1 ein Los oder ein Bestandteil eines Loses vermarktet,
 
-10. einer vollziehbaren Anordnung nach § 8 Absatz 2 zuwiderhandelt.
+10. ohne Zulassung nach § 6a Absatz 1 Geflügel vermarktet oder in Verkehr bringt oder
+
+11. einer vollziehbaren Anordnung nach § 8 Absatz 2 zuwiderhandelt.
 
 (2) Ordnungswidrig im Sinne des § 36 Absatz 4 Satz 1 des Marktorganisationsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 

@@ -9,23 +9,27 @@ Auf Grund des § 1 Abs. 1 und 3 Satz 1 und des § 2 des Handelsklassengesetzes i
 
 (1) Schaffleisch darf zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht werden in einer gesetzlichen Kategorie und Handelsklasse
 
-1. im Sinne des Artikels 10 Unterabsatz 2 und des Anhangs IV Teil C der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) und
+1. im Sinne des Artikels 10 Unterabsatz 2 und des Anhangs IV Teil C der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, und
 
 2. im Sinne des Artikels 7 Absatz 1 1. Halbsatz der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74).
 
-Bei Verwendung von Handelsklassen ist das Schaffleisch nach Anhang IV Teil C der Verordnung (EU) Nr. 1308/2013 in Verbindung mit den Artikeln 7 und 8 der Delegierten Verordnung (EU) 2017/1182 zu klassifizieren, zu wiegen und zu kennzeichnen. Die Verantwortung für die ordnungsgemäße Durchführung der Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die Beauftragung eines Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt. Die Verwendung anderer als der in Satz 1 genannten Handelsklassen ist nicht zulässig.
+Bei Verwendung von Handelsklassen ist das Schaffleisch nach Anhang IV Teil C der Verordnung (EU) Nr. 1308/2013 in Verbindung mit den Artikeln 7 und 8 der Delegierten Verordnung (EU) 2017/1182 baldmöglichst nach der Schlachtung, spätestens 60 Minuten nach dem Stechen des Tiers, durch die für die Tätigkeit vorgesehenen Bediensteten des Schlachtbetriebs zu klassifizieren, zu wiegen und zu kennzeichnen. Die Verantwortung für die ordnungsgemäße Durchführung der Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die Beauftragung eines Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt. Die Verwendung anderer als der in Satz 1 genannten Handelsklassen ist nicht zulässig.
 
 (2) (weggefallen)
 
 (3) Die Bestimmung der Kategorie von Schafschlachtkörpern kann durch Bedienstete des Schlachtbetriebs vorgenommen werden, wenn keine Einstufung in Handelsklassen erfolgt.
 
+# § 1a – Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zuständige Behörde die Daten nach Abschnitt III der Anlage des Marktorganisationsgesetzes.
+
 # § 2 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes handelt, wer
+Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 1. entgegen § 1 Abs. 1 Satz 2 Schaffleisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet oder
 
-2. entgegen § 1 Abs. 1 Satz 3 eine andere als in Satz 1 genannte Handelsklasse verwendet.
+2. entgegen § 1 Abs. 1 Satz 4 eine Handelsklasse verwendet.
 
 # § 2a – Überwachung, Duldungs- und Auskunftspflichten
 
