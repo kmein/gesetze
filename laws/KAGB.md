@@ -1910,7 +1910,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (5) Auf die Tätigkeit einer EU-OGAW-Verwaltungsgesellschaft, die inländische OGAW verwaltet, sind ungeachtet der Anforderungen nach § 51 Absatz 4 die §§ 68 bis 79, 91 bis 123, 162 bis 213, 293, 294, 301 bis 306, 312 bis 313a entsprechend anzuwenden.
 
-§ 52 Abs. 5 Kursivdruck: IdF d. Art. 2 Nr. 16 G v. 15.7.2014 I 934 mWv 19.7.2014 (ersetzt wurden die Wörter "294 Absatz 1, §§ 297, 306, 312 und 313")
+§ 52 Abs. 5 Kursivdruck: IdF d. Art. 2 Nr. 16 G v. 15.7.2014 I 934 mWv 19.7.2014 (ersetzt wurden die Wörter "294 Absatz 1, §§ 297, 306, 312 und 313"); idF d. Art. 1 Nr. 21 Buchst. b G v. 3.6.2021 I 1498 mWv 2.8.2021
 
 # § 53 – Verwaltung von EU-AIF durch AIF-Kapitalverwaltungsgesellschaften
 
@@ -3827,8 +3827,6 @@ Der Jahresabschluss einer geschlossenen Publikumsinvestmentkommanditgesellschaft
 (2) Der Bericht einer geschlossenen Publikumsinvestmentkommanditgesellschaft nach Absatz 1 muss dem Publikum an den Stellen zugänglich sein, die im Verkaufsprospekt und in den wesentlichen Anlegerinformationen angegeben sind.
 
 (3) Einem Anleger der geschlossenen Investmentkommanditgesellschaft wird der Jahresbericht auf Anfrage vorgelegt.
-
-(4) (weggefallen)
 
 (+++ § 160: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 356 Satz 2 +++)
 
@@ -5828,8 +5826,6 @@ zu ermitteln, wobei
 
 (7) Investiert die AIF-Kapitalverwaltungsgesellschaft für einen geschlossenen inländischen Publikums-AIF in Vermögensgegenstände im Sinne von Absatz 1 Nummer 4, gelten die §§ 287 bis 292 entsprechend.
 
-(8) (weggefallen)
-
 (+++ § 261 Abs. 7: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
 # § 262 – Risikomischung
@@ -6624,7 +6620,7 @@ und darüber hinaus kein Vertrieb im Sinne des Satzes 1 stattfindet. Ein Vertrie
 
 Auf den Vertrieb und den Erwerb von Anteilen oder Aktien an inländischen OGAW oder an zum Vertrieb berechtigten EU-OGAW im Geltungsbereich dieses Gesetzes sind die Vorschriften des Unterabschnitts 2 dieses Abschnitts, soweit sie auf Anteile oder Aktien an inländischen OGAW oder EU-OGAW Anwendung finden, anzuwenden. Zudem sind auf EU-OGAW die Vorschriften des Abschnitts 2 Unterabschnitt 1 und auf inländische OGAW die Vorschriften des Abschnitts 2 Unterabschnitt 2 anzuwenden. Der Vertrieb von EU-OGAW im Inland ist nur zulässig, wenn die Voraussetzungen des § 310 gegeben sind.
 
-(+++ § 294 Abs. 1: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5, § 54 Abs. 4 Satz 1 u. 3 +++)
+(+++ § 294: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 52 Abs. 5 u. § 54 Abs. 4 Satz 1 u. 3 +++)
 
 # § 295 – Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften
 
@@ -6767,7 +6763,7 @@ Im Fall von EU-OGAW oder an Privatanleger vertriebener EU-AIF oder ausländische
 
 (9) Auf Verlangen des am Erwerb eines Anteils oder einer Aktie Interessierten muss die Kapitalverwaltungsgesellschaft, die EU-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft zusätzlich über die Anlagegrenzen des Risikomanagements des Investmentvermögens, die Risikomanagementmethoden und die jüngsten Entwicklungen bei den Risiken und Renditen der wichtigsten Kategorien von Vermögensgegenständen des Investmentvermögens informieren.
 
-(+++ § 297: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 52 Abs. 5 bis F. 2013-08-28 +++)  
+(+++ § 297: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 +++)  
 (+++ § 297: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 +++)  
 (+++ § 297: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)
 
@@ -6897,7 +6893,7 @@ Auf der Internetseite der Kapitalverwaltungsgesellschaft, der EU-Verwaltungsgese
 
 2. Werbung mit dem Hinweis auf die Befugnisse der Bundesanstalt nach diesem Gesetz oder auf die Befugnisse der für die Aufsicht zuständigen Stellen in anderen Mitgliedstaaten der Europäischen Union, Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder Drittstaaten.
 
-(+++ § 302: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 296 Abs. 3 Satz 1, § 54 Abs. 4 Satz 1 u. 3 +++)
+(+++ § 302: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. 4 u. § 296 Abs. 3 Satz 1 +++)
 
 # § 303 – Maßgebliche Sprachfassung
 
@@ -7097,8 +7093,7 @@ c) gegebenenfalls der rechtlichen oder wirtschaftlichen Verbindungen zwischen di
 
 (5) Dem am Erwerb eines Anteils oder einer Aktie interessierten semiprofessionellen Anleger sind rechtzeitig vor Vertragsschluss entweder wesentliche Anlegerinformationen nach § 166 oder § 270 oder ein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung zu stellen.
 
-(+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 u. § 66 Abs. 4 Satz 1 u. 2 +++)  
-(+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 2 F. 2013-07-04 +++)
+(+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 4 u. § 66 Abs. 4 +++)
 
 # § 308 – Sonstige Informationspflichten
 
@@ -7173,10 +7168,6 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (4) Die Bundesanstalt teilt den zuständigen Stellen des Herkunftsmitgliedstaates des EU-OGAW die Untersagung des Vertriebs mit. Sofern der Herkunftsmitgliedstaat dieses EU-OGAW ein anderer ist als der Herkunftsmitgliedstaat der verwaltenden EU-OGAW-Verwaltungsgesellschaft, teilt die Bundesanstalt die Untersagung auch den zuständigen Stellen des Herkunftsmitgliedstaates der EU-OGAW-Verwaltungsgesellschaft mit. Sie macht die Untersagung im Bundesanzeiger bekannt, falls ein Vertrieb stattgefunden hat. Entstehen der Bundesanstalt durch die Bekanntmachung nach Satz 2 Kosten, sind diese der Bundesanstalt von der EU-OGAW-Verwaltungsgesellschaft oder der OGAW-Kapitalverwaltungsgesellschaft zu erstatten.
 
-(5) (weggefallen)
-
-(6) (weggefallen)
-
 # § 312 – Anzeigepflicht; Verordnungsermächtigung
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft oder eine EU-OGAW-Verwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten inländischen OGAW in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu vertreiben, so hat sie dies der Bundesanstalt mit einem Anzeigeschreiben gemäß Anhang I der Verordnung (EU) Nr. 584/2010 anzuzeigen. Die Anzeige muss in einer in internationalen Finanzkreisen gebräuchlichen Sprache gefasst sein, wenn nicht vereinbart wurde, dass sie in einer der Amtssprachen der beiden Mitgliedstaaten gefasst wird. Der Anzeige sind in jeweils geltender Fassung beizufügen:
@@ -7220,8 +7211,6 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 (1) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat sämtliche in § 312 Absatz 1 und 2 genannten Unterlagen sowie deren Änderungen auf ihrer Internetseite oder einer Internetseite, die sie im Anzeigeschreiben gemäß Anhang I der Verordnung (EU) Nr. 584/2010 genannt hat, zu veröffentlichen. Sie hat den zuständigen Stellen des Aufnahmestaates Zugang zu dieser Internetseite zu gewähren.
 
 (2) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat die veröffentlichten Unterlagen und Übersetzungen auf dem neuesten Stand zu halten. Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat die zuständigen Stellen des Aufnahmestaates auf elektronischem Wege über jede Änderung an den in § 312 genannten Unterlagen sowie darüber, wo diese Unterlagen im Internet verfügbar sind, zu unterrichten. Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat hierbei entweder die Änderungen oder Aktualisierungen zu beschreiben oder eine geänderte Fassung des jeweiligen Dokuments als Anlage in einem gebräuchlichen elektronischen Format beizufügen.
-
-(3) (weggefallen)
 
 (+++ § 313: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5 +++)
 
@@ -7311,11 +7300,10 @@ Mit Eingang der Ergänzungsanzeige beginnt die in Satz 2 genannte Frist erneut. 
 
 (3) Innerhalb von 20 Arbeitstagen nach Eingang der vollständigen Anzeigeunterlagen nach Absatz 1 sowie der Genehmigung der Anlagebedingungen und der Verwahrstelle teilt die Bundesanstalt der AIF-Kapitalverwaltungsgesellschaft mit, ob sie mit dem Vertrieb des im Anzeigeschreiben nach Absatz 1 genannten AIF im Geltungsbereich dieses Gesetzes beginnen kann. Die Bundesanstalt kann die Aufnahme des Vertriebs innerhalb der in Satz 1 genannten Frist untersagen, wenn die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des angezeigten AIF durch die AIF-Kapitalverwaltungsgesellschaft gegen die Vorschriften dieses Gesetzes verstößt. Teilt sie der AIF-Kapitalverwaltungsgesellschaft entsprechende Beanstandungen der eingereichten Angaben und Unterlagen innerhalb der Frist von Satz 1 mit, wird die Frist unterbrochen und beginnt die in Satz 1 genannte Frist mit der Einreichung der geänderten Angaben und Unterlagen erneut. Die AIF-Kapitalverwaltungsgesellschaft kann ab dem Datum der entsprechenden Mitteilung nach Satz 1 mit dem Vertrieb des angezeigten AIF im Geltungsbereich dieses Gesetzes beginnen.
 
-(4) Bei einer Änderung der nach Absatz 1 übermittelten Angaben oder Unterlagen teilt die AIF-Kapitalverwaltungsgesellschaft der Bundesanstalt diese Änderung schriftlich mit und übermittelt der Bundesanstalt gegebenenfalls zeitgleich aktualisierte Angaben und Unterlagen. Geplante Änderungen sind mindestens 20 Arbeitstage vor Durchführung der Änderung mitzuteilen, ungeplante Änderungen unverzüglich nach deren Eintreten. Sollte die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch die geplante Änderung gegen dieses Gesetz verstoßen, so teilt die Bundesanstalt der AIF-Kapitalverwaltungsgesellschaft unverzüglich mit, dass sie die Änderung nicht durchführen darf. Wird eine geplante Änderung ungeachtet der Sätze 1 bis 3 durchgeführt oder führt eine durch einen unvorhersehbaren Umstand ausgelöste Änderung dazu, dass die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch diese Änderung nunmehr gegen dieses Gesetz verstößt, so ergreift die Bundesanstalt alle gebotenen Maßnahmen gemäß § 5 einschließlich der ausdrücklichen Untersagung des Vertriebs des betreffenden AIF.
+(4) Bei einer Änderung der nach Absatz 1 übermittelten Angaben oder Unterlagen teilt die AIF-Kapitalverwaltungsgesellschaft der Bundesanstalt diese Änderung mit und übermittelt der Bundesanstalt gegebenenfalls zeitgleich aktualisierte Angaben und Unterlagen. Geplante Änderungen sind mindestens 20 Arbeitstage vor Durchführung der Änderung mitzuteilen, ungeplante Änderungen unverzüglich nach deren Eintreten. Sollte die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch die geplante Änderung gegen dieses Gesetz verstoßen, so teilt die Bundesanstalt der AIF-Kapitalverwaltungsgesellschaft unverzüglich mit, dass sie die Änderung nicht durchführen darf. Wird eine geplante Änderung ungeachtet der Sätze 1 bis 3 durchgeführt oder führt eine durch einen unvorhersehbaren Umstand ausgelöste Änderung dazu, dass die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch diese Änderung nunmehr gegen dieses Gesetz verstößt, so ergreift die Bundesanstalt alle gebotenen Maßnahmen gemäß § 5 einschließlich der ausdrücklichen Untersagung des Vertriebs des betreffenden AIF.
 
 (5) Betrifft die Änderung nach Absatz 4 einen wichtigen neuen Umstand oder eine wesentliche Unrichtigkeit in Bezug auf die im Verkaufsprospekt eines geschlossenen inländischen Publikums-AIF enthaltenen Angaben, die die Beurteilung des Investmentvermögens oder der AIF-Kapitalverwaltungsgesellschaft beeinflussen könnten, so ist diese Änderung auch als Nachtrag zum Verkaufsprospekt, der den Empfänger des Widerrufs bezeichnen sowie einen Hinweis, wo der Nachtrag zur kostenlosen Ausgabe bereitgehalten wird, und an hervorgehobener Stelle auch eine Belehrung über das Widerrufsrecht enthalten muss, unverzüglich im Bundesanzeiger und in einer hinreichend verbreiteten Wirtschafts- oder Tageszeitung oder in den im Verkaufsprospekt zu bezeichneten elektronischen Informationsmedien zu veröffentlichen.
 
-(+++ § 316: Zur Anwendung vgl. § 353 Abs. 8 +++)  
 (+++ § 316 Abs. 4 Satz 1 bis 3: Zur Anwendung vgl. § 320 Abs. 4 Satz 1 +++)
 
 # § 317 – Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger
