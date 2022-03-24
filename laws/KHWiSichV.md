@@ -76,7 +76,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 2. bis zum 19. April 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 ausgezahlten Finanzmittel.
 
-(4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November 2021 bis zum 19. März 2022 festgelegt.
+(4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November 2021 bis zum 30. Juni 2022 festgelegt.
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
