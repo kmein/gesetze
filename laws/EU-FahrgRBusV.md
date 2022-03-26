@@ -17,7 +17,7 @@ Auf Grund des § 8 Absatz 1 Nummer 2 und 3 des EU-Fahrgastrechte-Kraftomnibus-Ge
 
 4. Anzahl, Art und Inhalt der getroffenen Sanktionen des Eisenbahn-Bundesamtes zur Durchsetzung der Verordnung (EU) Nr. 181/2011.
 
-(2) Der erste Bericht im Sinne des Absatzes 1, der den Zeitraum ab dem 27. Juli 2013 bis zum 31. Dezember 2014 erfasst, ist bis zum 1. Juni 2015 zu veröffentlichen. Die nachfolgenden Berichte für die sich jeweils anschließenden Zeiträume sind jeweils bis 1. März des Jahres zu veröffentlichen, das dem Berichtszeitraum folgt.
+(2) Der erste Bericht im Sinne des Absatzes 1, der den Zeitraum ab dem 27. Juli 2013 bis zum 31. Dezember 2014 erfasst, ist bis zum 1. Juni 2015 zu veröffentlichen. Die nachfolgenden Berichte für die sich jeweils anschließenden Zeiträume sind jeweils bis 1. Juni des Jahres zu veröffentlichen, das dem Berichtszeitraum folgt.
 
 # § 2 – Ordnungswidrigkeiten
 

@@ -6845,6 +6845,8 @@ Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nich
 
 der Nettoentgeltdifferenz im Anspruchszeitraum, wenn die Differenz zwischen Soll- und Ist-Entgelt im jeweiligen Bezugsmonat mindestens 50 Prozent beträgt. Für die Berechnung der Bezugsmonate sind Monate mit Kurzarbeit ab März 2020 zu berücksichtigen.
 
+(3) Die Bezugsdauer für das Kurzarbeitergeld wird für Arbeitnehmerinnen und Arbeitnehmer, deren Anspruch auf Kurzarbeitergeld bis zum Ablauf des 30. Juni 2021 entstanden ist, über die Bezugsdauer nach § 104 Absatz 1 Satz 1 hinaus auf bis zu 28 Monate, längstens bis zum Ablauf des 30. Juni 2022 verlängert.
+
 # § 421d – Vorübergehende Sonderregelungen zum Arbeitslosengeld
 
 (1) Für Personen, deren Anspruch auf Arbeitslosengeld sich in der Zeit vom 1. Mai 2020 bis zum 31. Dezember 2020 auf einen Tag gemindert hat, verlängert sich die Anspruchsdauer einmalig um drei Monate.
