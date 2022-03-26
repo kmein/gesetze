@@ -15,7 +15,7 @@ Beschwerden nach Artikel 24 Absatz 2 der Verordnung (EU) Nr. 1177/2010 sind zun�
 
 # § 3 – Berichterstattung
 
-(1) Die zuständige Behörde nach § 3 Absatz 1 des EU-Fahrgastrechte-Schifffahrt-Gesetzes veröffentlicht jeweils für den Zeitraum von zwei Kalenderjahren, spätestens zwei Monate nach deren Ablauf, einen für ihren Bereich erstellten Bericht über die Durchsetzung der Verordnung (EU) Nr. 1177/2010 in nicht personenbezogener Form mit folgenden Angaben:
+(1) Die zuständige Behörde nach § 3 Absatz 1 des EU-Fahrgastrechte-Schifffahrt-Gesetzes veröffentlicht jeweils für den Zeitraum von zwei Kalenderjahren, spätestens fünf Monate nach deren Ablauf, einen für ihren Bereich erstellten Bericht über die Durchsetzung der Verordnung (EU) Nr. 1177/2010 in nicht personenbezogener Form mit folgenden Angaben:
 
 1. Art und Inhalt der von der zuständigen Behörde zur Durchsetzung der Verordnung (EU) Nr. 1177/2010 getroffenen Maßnahmen,
 
