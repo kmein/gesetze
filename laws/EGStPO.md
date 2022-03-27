@@ -133,11 +133,7 @@ Die Unterrichtung erfolgt im Fall eines vorläufigen Berufsverbots spätestens d
 
 (4) Spätestens drei Tage nach der Aufhebung eines vorläufigen Berufsverbots unterrichtet das Gericht die zuständigen Behörden der anderen in Absatz 1 Satz 1 genannten Staaten mittels des Binnenmarkt-Informationssystems hierüber und veranlasst die Löschung der ursprünglichen Mitteilung. Wird ein rechtskräftig angeordnetes Berufsverbot aufgehoben, ändert sich der Zeitraum, für den es gilt, oder wird die Vollstreckung unterbrochen, so unterrichtet das Gericht die zuständigen Behörden hierüber und veranlasst gegebenenfalls die Löschung der ursprünglichen Mitteilung. Bei einer Aufhebung oder Veränderung des Geltungszeitraums des Berufsverbots auf Grund einer Gnadenentscheidung, auf Grund einer Entscheidung nach § 456c Absatz 2 der Strafprozessordnung oder auf Grund des § 70 Absatz 4 Satz 3 des Strafgesetzbuches nimmt die Staatsanwaltschaft die Unterrichtung vor und veranlasst gegebenenfalls die Löschung der ursprünglichen Mitteilung.
 
-# § 10 – Hemmung der Unterbrechungsfristen wegen Infektionsschutzmaßnahmen
-
-(1) Unabhängig von der Dauer der Hauptverhandlung ist der Lauf der in § 229 Absatz 1 und 2 der Strafprozessordnung genannten Unterbrechungsfristen gehemmt, solange die Hauptverhandlung aufgrund von Schutzmaßnahmen zur Verhinderung der Verbreitung von Infektionen mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) nicht durchgeführt werden kann, längstens jedoch für zwei Monate; diese Fristen enden frühestens zehn Tage nach Ablauf der Hemmung. Beginn und Ende der Hemmung stellt das Gericht durch unanfechtbaren Beschluss fest.
-
-(2) Absatz 1 gilt entsprechend für die in § 268 Absatz 3 Satz 2 der Strafprozessordnung genannte Frist zur Urteilsverkündung.
+# § 10 – (weggefallen)
 
 # § 11 – Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse
 
