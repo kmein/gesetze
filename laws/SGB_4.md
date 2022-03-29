@@ -2522,13 +2522,13 @@ gilt Absatz 1 entsprechend.
 
 (4) Das Nähere zur Auftragserteilung, zum Verfahren der Kostenerstattung sowie zu den Übertragungswegen zwischen der Datenstelle der Rentenversicherung und den nach § 12 Absatz 1 des Bundeselterngeld- und Elternzeitgesetzes zuständigen Behörden regeln die für die Durchführung des Bundeselterngeld- und Elternzeitgesetzes zuständigen Landesregierungen und die Deutsche Rentenversicherung Bund im Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Arbeit und Soziales in einer Rahmenvereinbarung, die ein bundeseinheitliches Verfahren sicherstellt.
 
+# §§ 109 und 110 – (weggefallen)
+
 # § 109 – zukünftig in Kraft
 
 \-
 
-(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen textlicher Unstimmigkeit bis 30.6.2022 nicht ausführbar. +++)
-
-# § 110 – (weggefallen)
+(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen textlicher Unstimmigkeit bis 31.12.2022 nicht ausführbar. +++)
 
 # § 110a – Aufbewahrungspflicht
 
