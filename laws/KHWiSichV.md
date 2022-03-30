@@ -60,27 +60,37 @@ Die Übersicht muss für jeden Krankenhausstandort die folgenden Angaben enthalt
 
 Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht an das Bundesministerium für Gesundheit. Das Bundesministerium für Gesundheit stellt den für die Krankenhausplanung zuständigen Landesbehörden die Übersicht elektronisch zur Verfügung.
 
-# § 4 – Verlängerung von Fristen nach den §§ 21 und 22 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
+# § 4 – Verlängerung von Fristen nach den §§ 21 bis 22 und 25 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
 
 (1) Die Frist nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
-(1a) Der Zeitraum nach § 21 Absatz 1b Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022 verlängert.
+(1a) Der Zeitraum nach § 21 Absatz 1b Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 18. April 2022 verlängert.
 
 (2) Die Frist nach § 21 Absatz 2a Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
-(2a) Die Frist nach § 21 Absatz 2b Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022 verlängert.
+(2a) Die Frist nach § 21 Absatz 2b Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 18. April 2022 verlängert.
 
 (3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 15. Juli 2021 übermittelt werden. Abweichend von § 21 Absatz 9b Satz 1 des Krankenhausfinanzierungsgesetzes übermitteln die Länder dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen
 
 1. bis zum 31. Januar 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4a Satz 3 und Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 ausgezahlten Finanzmittel und
 
-2. bis zum 19. April 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 ausgezahlten Finanzmittel.
+2. bis zum 18. August 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 ausgezahlten Finanzmittel.
+
+(3a) Der Zeitraum nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 30. Juni 2022 verlängert.
+
+(3b) Die Frist nach § 21a Absatz 3 Satz 3 des Krankenhausfinanzierungsgesetzes für die Durchführung der letztmaligen Ermittlung nach § 21a Absatz 3 Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zur achtunddreißigsten Kalenderwoche des Jahres 2022 verlängert.
+
+(3c) Die bis zum 20. April 2022 laufende Frist nach § 21a Absatz 7 Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 20. Oktober 2022 verlängert.
+
+(3d) Die Frist nach § 21a Absatz 8 Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 29. Oktober 2022 verlängert.
 
 (4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November 2021 bis zum 30. Juni 2022 festgelegt.
 
+(4a) Die bis zum 19. März 2022 laufenden Fristen nach § 25 Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes werden bis zum 30. Juni 2022 verlängert.
+
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
-(6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 30. Juni 2022 verlängert.
+(6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2022 verlängert.
 
 # § 5 – Erlösausgleiche für das Jahr 2021
 
