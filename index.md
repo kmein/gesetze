@@ -456,7 +456,6 @@
 - [BAKredWWSUBefÜV](laws/BAKredWWSUBefÜV.md) Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [BaktWaffVernÜbk](laws/BaktWaffVernÜbk.md) Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 - [BaktWaffVernÜbkG](laws/BaktWaffVernÜbkG.md) Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
-- [BallastWaÜbk](laws/BallastWaÜbk.md) Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen
 - [BAMBGebV](laws/BAMBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Materialforschung und -prüfung
 - [BankFachwPrV](laws/BankFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
 - [BankkflAusbV](laws/BankkflAusbV.md) Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau*
@@ -5893,7 +5892,6 @@
 - [VIGGebV](laws/VIGGebV.md) Verordnung über die Gebühren nach dem Verbraucherinformationsgesetz
 - [VII040826](laws/VII040826.md) Verordnung zu dem Abkommen vom 13. November 2003 zwischen der Regierung der Bundesrepublik Deutschland und der Liga der Arabischen Staaten über den Sitz des Büros der Liga der Arabischen Staaten in Berlin
 - [VII041378](laws/VII041378.md) Verordnung zur Durchführung der Vereinbarung vom 17. September 2004 zwischen dem Bundesministerium des Innern der Bundesrepublik Deutschland und dem Ministerium des Innern der Tschechischen Republik über die Errichtung vorgeschobener Grenzabfertigungsstellen und die Bestimmung von Strecken für die Grenzabfertigung während der Fahrt in Zügen und auf Schiffen
-- [VII051122](laws/VII051122.md) Zweite Verordnung zur Änderung von Anlagen zum Basler Übereinkommen vom 22. März 1989
 - [VII151214](laws/VII151214.md) Verordnung zur Änderung des OCCAR-Übereinkommens vom 9. September 1998
 - [VISZG](laws/VISZG.md) Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem
 - [VKAbgG](laws/VKAbgG.md) Gesetz über Rechtsverhältnisse der Abgeordneten der Volkskammer der Deutschen Demokratischen Republik

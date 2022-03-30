@@ -81,7 +81,7 @@ Der Antrag auf Zulassung zur Prüfung ist schriftlich oder elektronisch an die P
 
 (3) Wurde die Hochschulausbildung außerhalb des Geltungsbereiches dieses Gesetzes abgeschlossen, so muss das Abschlusszeugnis gleichwertig sein.
 
-# § 8a – Anerkannte Hochschulausbildungsgänge; Rechtsverordnung
+# § 8a – Anerkannte Hochschulausbildungsgänge; Verordnungsermächtigung
 
 (1) Hochschulausbildungsgänge,
 

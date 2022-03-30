@@ -13263,7 +13263,7 @@ Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende Interessen d
 
 (3) Die elterliche Sorge steht in den Fällen des Absatzes 1 den Ehegatten gemeinsam, in den Fällen des Absatzes 2 dem Annehmenden zu.
 
-§ 1754 Abs. 1 u. Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen.
+§ 1754 Abs. 1 u. Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
 
 # § 1755 – Erlöschen von Verwandtschaftsverhältnissen
 
@@ -13271,7 +13271,7 @@ Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende Interessen d
 
 (2) Nimmt ein Ehegatte das Kind seines Ehegatten an, so tritt das Erlöschen nur im Verhältnis zu dem anderen Elternteil und dessen Verwandten ein.
 
-§ 1755 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. § 1755 Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen.
+§ 1755 Abs. 1 Satz 1 u. Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
 
 # § 1756 – Bestehenbleiben von Verwandtschaftsverhältnissen
 
