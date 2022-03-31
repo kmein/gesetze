@@ -7,7 +7,7 @@ Auf Grund des § 125b Absatz 2a Satz 1 des Fünften Buches Sozialgesetzbuch, der
 
 # § 1 – Hygienepauschale für Heilmittelerbringer
 
-Die nach § 124 Absatz 2 in Verbindung mit Absatz 1 des Fünften Buches Sozialgesetzbuch zugelassenen Leistungserbringer können zur pauschalen Abgeltung der ihnen infolge der COVID-19-Pandemie entstehenden Kosten für erhöhte Hygienemaßnahmen für jede Heilmittelverordnung, die sie im Zeitraum vom 1. April 2021 bis zum 31. März 2022 abrechnen, einen zusätzlichen Betrag in Höhe von 1,50 Euro gegenüber den Krankenkassen geltend machen.
+Die nach § 124 Absatz 2 in Verbindung mit Absatz 1 des Fünften Buches Sozialgesetzbuch zugelassenen Leistungserbringer können zur pauschalen Abgeltung der ihnen infolge der COVID-19-Pandemie entstehenden Kosten für erhöhte Hygienemaßnahmen für jede Heilmittelverordnung, die sie im Zeitraum vom 1. April 2021 bis zum Ablauf des 30. Juni 2022 abrechnen, einen zusätzlichen Betrag in Höhe von 1,50 Euro gegenüber den Krankenkassen geltend machen.
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 

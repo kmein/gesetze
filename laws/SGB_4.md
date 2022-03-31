@@ -2528,7 +2528,7 @@ gilt Absatz 1 entsprechend.
 
 \-
 
-(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen textlicher Unstimmigkeit bis 31.12.2022 nicht ausführbar. +++)
+(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen des Verschiebens des Inkrafttretens des § 109 idF d. Art. 11 Nr. 3 iVm Art. 16 Abs. 4 G v. 22.11.2019 I 1746 idF d. Art. 12b G v. 11.2.2021 I 154 u. d. Art. 4b G v. 23.3.2022 I 482 bis 31.12.2022 nicht ausführbar. +++)
 
 # § 110a – Aufbewahrungspflicht
 

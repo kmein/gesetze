@@ -103,7 +103,7 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 (11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Absätzen 3 und 4 für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom mit Ausnahme von im Jahr 2021 geleisteten Aufschlägen nach § 23b Absatz 2 des Erneuerbare-Energien-Gesetzes eindeutig von den sonstigen Einnahmen und Ausgaben nach den Absätzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
 
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
+(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) (+++ § 3: zur Anwendung vgl. § 3a Satz 1 +++)
 
 # § 3a – Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen
 
@@ -201,7 +201,7 @@ Die Übertragungsnetzbetreiber müssen dem Bundesministerium für Ernährung und
 
 (4) Das Umweltbundesamt hat bei der Einrichtung und bei dem Betrieb des Herkunftsnachweisregisters die erforderlichen technischen und organisatorischen Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit unter Berücksichtigung der einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik zu treffen.
 
-(+++ § 7 Abs. 2 bis 4: Zur Anwendung vgl. § 8 Abs. 2 +++) Abschnitt 3 (§§ 7 bis 12) und Abschnitt 4 (Überschrift vor § 13): Früher §§ 7 bis 9 gem. u. idF d. Art. 11 Nr. 7 G v. 22.12.2016 I 3106 mWv 1.1.2017
+(+++ § 7 Abs. 2 bis 4: Zur Anwendung vgl. § 8 Abs. 2 +++)
 
 # § 8 – Regionalnachweisregister
 
