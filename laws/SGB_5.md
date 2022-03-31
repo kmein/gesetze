@@ -2894,9 +2894,7 @@ Die Krankenkassen sollen die Versicherten bei der Verfolgung von Schadensersatza
 
 (3) Krankenkassen und ihre Verbände dürfen im Rahmen von Pilotprojekten für die Dauer von bis zu zwei Jahren, längstens bis zu dem in Satz 4 genannten Zeitpunkt, Verfahren zur elektronischen Übermittlung von Verordnungen und zur Abrechnung von Leistungen nach § 33a erproben, bei denen eine Übermittlung von Verordnungen in Textform erfolgt. Die Pilotvorhaben müssen den Anforderungen der Richtlinie nach § 217f Absatz 4b entsprechen. Im Rahmen der Verfahren nach Satz 1 darf nicht in die ärztliche Therapiefreiheit eingegriffen oder die Wahlfreiheit der Versicherten beschränkt werden. Für die elektronische Übermittlung von Verordnungen von Leistungen nach § 33a sind ausschließlich geeignete Dienste der Telematikinfrastruktur zu verwenden, sobald diese zur Verfügung stehen.
 
-# § 68 – Finanzierung einer persönlichen elektronischen Gesundheitsakte
-
-Zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung können die Krankenkassen ihren Versicherten zu von Dritten angebotenen Dienstleistungen der elektronischen Speicherung und Übermittlung patientenbezogener Gesundheitsdaten finanzielle Unterstützung gewähren. Das Nähere ist durch die Satzung zu regeln.
+# § 68 – (weggefallen)
 
 # § 68a – Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
 
