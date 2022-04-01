@@ -623,6 +623,8 @@ wenn der Kläger ein berechtigtes Interesse an der baldigen Feststellung hat.
 
 (2) Unter Absatz 1 Nr. 1 fällt auch die Feststellung, in welchem Umfang Beiträge zu berechnen oder anzurechnen sind.
 
+(3) Mit Klagen, die sich gegen Verwaltungsakte der Deutschen Rentenversicherung Bund nach § 7a des Vierten Buches Sozialgesetzbuch richten, kann die Feststellung begehrt werden, ob eine Erwerbstätigkeit als Beschäftigung oder selbständige Tätigkeit ausgeübt wird.
+
 # § 55a
 
 (1) Auf Antrag ist über die Gültigkeit von Satzungen oder anderen im Rang unter einem Landesgesetz stehenden Rechtsvorschriften, die nach § 22a Absatz 1 des Zweiten Buches Sozialgesetzbuch und dem dazu ergangenen Landesgesetz erlassen worden sind, zu entscheiden.

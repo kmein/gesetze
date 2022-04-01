@@ -227,7 +227,7 @@ Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese unter Ber�
 
 (1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen wirtschaftlichen und finanziellen Verhältnisse und unter Berücksichtigung der mit den Dienstaufgaben verbundenen Verantwortung durch Gesetz regelmäßig angepasst.
 
-(2) Ab dem 1. April 2021 gelten unter Berücksichtigung einer Erhöhung
+(2) Ab dem 1. April 2022 gelten unter Berücksichtigung einer Erhöhung
 
 1. des Grundgehalts,
 
@@ -237,13 +237,13 @@ Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese unter Ber�
 
 4. der Anwärtergrundbeträge
 
-um jeweils 1,2 Prozent die Monatsbeträge der Anlagen IV, V, VIII und IX dieses Gesetzes. Satz 1 Nummer 1 gilt nicht für die Besoldungsgruppen B 11 und R 10.
+um jeweils 1,8 Prozent die Monatsbeträge der Anlagen IV, V, VIII und IX dieses Gesetzes.
 
-(3) Ab 1. April 2021 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
+(3) Ab 1. April 2022 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
 
-1. der Ober- und Untergrenzen der Grundgehaltsspannen um 1,2 Prozent und
+1. der Ober- und Untergrenzen der Grundgehaltsspannen um 1,8 Prozent und
 
-2. der Monatsbeträge der Zonenstufen um 0,96 Prozent
+2. der Monatsbeträge der Zonenstufen um 1,44 Prozent
 
 die Monatsbeträge der Anlage VI.
 
@@ -2707,9 +2707,9 @@ Präsident des Bundessozialgerichts
 
 Präsident des Bundesverwaltungsgerichts
 
-# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. April 2021
+# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)Gültig ab 1. April 2022
 
-(Fundstelle: BGBl. I 2021, 2449 - 2450)
+(Fundstelle: BGBl. I 2021, 2458 - 2459)
 
 1\. Bundesbesoldungsordnung A
 
@@ -2738,258 +2738,257 @@ Stufe 8
 
 A 3 
 
-2 328,82
+2 370,74
 
-2 381,37
+2 424,23
 
-2 433,93
+2 477,74
 
-2 476,24
+2 520,81
 
-2 518,54
+2 563,87
 
-2 560,85
+2 606,95
 
-2 603,17
+2 650,03
 
-2 645,47
+2 693,09
 
 A 4 
 
-2 377,55
+2 420,35
 
-2 440,35
+2 484,28
 
-2 503,16
+2 548,22
 
-2 553,16
+2 599,12
 
-2 603,17
+2 650,03
 
-2 653,17
+2 700,93
 
-2 703,15
+2 751,81
 
-2 749,33
+2 798,82
 
 A 5 
 
-2 395,47
+2 438,59
 
-2 473,67
+2 518,20
 
-2 536,48
+2 582,14
 
-2 598,05
+2 644,81
 
-2 659,60
+2 707,47
 
-2 722,42
+2 771,42
 
-2 783,93
+2 834,04
 
-2 844,20
+2 895,40
 
 A 6 
 
-2 446,75
+2 490,79
 
-2 537,80
+2 583,48
 
-2 630,08
+2 677,42
 
-2 700,59
+2 749,20
 
-2 773,68
+2 823,61
 
-2 844,20
+2 895,40
 
-2 922,39
+2 974,99
 
-2 990,34
+3 044,17
 
 A 7 
 
-2 568,56
+2 614,79
 
-2 649,34
+2 697,03
 
-2 755,77
+2 805,37
 
-2 864,70
+2 916,26
 
-2 971,11
+3 024,59
 
-3 078,81
+3 134,23
 
-3 159,59
+3 216,46
 
-3 240,34
+3 298,67
 
 A 8 
 
-2 717,27
+2 766,18
 
-2 814,72
+2 865,38
 
-2 951,87
+3 005,00
 
-3 090,36
+3 145,99
 
-3 228,80
+3 286,92
 
-3 324,96
+3 384,81
 
-3 422,39
+3 483,99
 
-3 518,55
+3 581,88
 
 A 9 
 
-2 932,64
+2 985,43
 
-3 028,80
+3 083,32
 
-3 180,10
+3 237,34
 
-3 333,93
+3 393,94
 
-3 485,19
+3 547,92
 
-3 588,03
+3 652,61
 
-3 695,00
+3 761,51
 
-3 799,32
+3 867,71
 
 A 10
 
-3 139,05
+3 195,55
 
-3 271,10
+3 329,98
 
-3 462,14
+3 524,46
 
-3 654,03
+3 719,80
 
-3 849,49
+3 918,78
 
-3 985,52
+4 057,26
 
-4 121,51
+4 195,70
 
-4 257,58
+4 334,22
 
 A 11
 
-3 588,03
+3 652,61
 
-3 790,06
+3 858,28
 
-3 990,79
+4 062,62
 
-4 192,84
+4 268,31
 
-4 331,49
+4 409,46
 
-4 470,16
+4 550,62
 
-4 608,82
+4 691,78
 
-4 747,51
+4 832,97
 
 A 12
 
-3 846,87
+3 916,11
 
-4 085,89
+4 159,44
 
-4 326,23
+4 404,10
 
-4 565,24
+4 647,41
 
-4 731,64
+4 816,81
 
-4 895,38
+4 983,50
 
-5 060,46
+5 151,55
 
-5 228,18
+5 322,29
 
 A 13
 
-4 511,11
+4 592,31
 
-4 735,60
+4 820,84
 
-4 958,76
+5 048,02
 
-5 183,27
+5 276,57
 
-5 337,78
+5 433,86
 
-5 493,62
+5 592,51
 
-5 648,10
+5 749,77
 
-5 799,96
+5 904,36
 
 A 14
 
-4 639,19
+4 722,70
 
-4 928,39
+5 017,10
 
-5 218,93
+5 312,87
 
-5 508,12
+5 607,27
 
-5 707,52
+5 810,26
 
-5 908,28
+6 014,63
 
-6 107,66
+6 217,60
 
-6 308,41
+6 421,96
 
 A 15
 
-5 670,55
+5 772,62
 
-5 932,04
+6 038,82
 
-6 131,43
+6 241,80
 
-6 330,86
+6 444,82
 
-6 530,27
+6 647,81
 
-6 728,35
+6 849,46
 
-6 926,44
+7 051,12
 
-7 123,18
+7 251,40
 
 A 16
 
-6 255,58
+6 368,18
 
-6 559,33
+6 677,40
 
-6 789,09
+6 911,29
 
-7 018,88
+7 145,22
 
-7 247,34
+7 377,79
 
-7 478,46
+7 613,07
 
-7 708,22
+7 846,97
 
-7 935,38
+8 078,22
 
-Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
-
+Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10  
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6
 
 –  
@@ -2998,7 +2997,7 @@ für Beamte des mittleren Dienstes sowie
 –  
 für Soldaten in der Laufbahngruppe der Unteroffiziere sowie für Fahnenjunker und Seekadetten
 
-um 23,47 Euro.
+um 23,89 Euro.
 
 Es erhöht sich in den Besoldungsgruppen A 9 und A 10
 
@@ -3008,7 +3007,7 @@ für Beamte des gehobenen Dienstes sowie
 –  
 für Offiziere
 
-um 10,24 Euro.
+um 10,42 Euro.
 
 Beträge für die weggefallene Besoldungsgruppe A 2
 
@@ -3017,8 +3016,8 @@ Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesminister
 2\. Bundesbesoldungsordnung B  
   
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Besoldungsgruppe</th><th style="text-align: center;">Grundgehalt<br />
-(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 123,18</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 8 274,75</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 8 762,03</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;"> 9 271,77</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;"> 9 856,81</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">10 412,79</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">10 948,93</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">11 510,15</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">12 206,11</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">14 367,90</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">14 808,25</td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Besoldungsgruppe</th><th style="text-align: center;">Grundgehalt<br />
+(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 251,40</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 8 423,70</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 8 919,75</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;"> 9 438,66</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;">10 034,23</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">10 600,22</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">11 146,01</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">11 717,33</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">12 425,82</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">14 626,52</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">15 074,80</td></tr></tbody></table>
 
 3\. Bundesbesoldungsordnung W  
   
@@ -3030,7 +3029,7 @@ Grundgehalt
 
 W 1
 
-4 957,46
+5 046,69
 
  
 
@@ -3042,26 +3041,23 @@ Stufe 3
 
 W 2
 
-6 158,91
+6 269,77
 
-6 521,21
+6 638,59
 
-6 883,50
+7 007,40
 
 W 3
 
-6 883,50
+7 007,40
 
-7 366,55
+7 499,15
 
-7 849,61
+7 990,90
 
-4\. Bundesbesoldungsordnung R  
-  
+4\. Bundesbesoldungsordnung R
 
-Besol-  
-dungs-  
-gruppe
+Besoldungsgruppe
 
 Grundgehalt  
 (Monatsbetrag in Euro)
@@ -3084,31 +3080,31 @@ Stufe 8
 
 R 2 
 
- 5 481,70
+ 5 580,37
 
-5 763,02
+5 866,75
 
-6 042,99
+6 151,76
 
-6 425,95
+6 541,62
 
-6 811,53
+6 934,14
 
-7 195,84
+7 325,37
 
-7 581,46
+7 717,93
 
-7 967,07
+8 110,48
 
 |      |           |
 |:----:|:---------:|
-| R 3  |  8 762,03 |
-| R 5  |  9 856,81 |
-| R 6  | 10 412,79 |
-| R 7  | 10 948,93 |
-| R 8  | 11 510,15 |
-| R 9  | 12 206,11 |
-| R 10 | 14 808,25 |
+| R 3  |  8 919,75 |
+| R 5  | 10 034,23 |
+| R 6  | 10 600,22 |
+| R 7  | 11 146,01 |
+| R 8  | 11 717,33 |
+| R 9  | 12 425,82 |
+| R 10 | 15 074,80 |
 
 Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
 
@@ -3116,17 +3112,17 @@ Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bund
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2018 I 1905 +++)
 
-# Anlage V – (zu § 39 Absatz 1 Satz 1) Gültig ab 1. April 2021
+# Anlage V – (zu § 39 Absatz 1 Satz 1)Gültig ab 1. April 2022
 
-(Fundstelle: BGBl. I 2021, 2451)
+(Fundstelle: BGBl. I 2021, 2460)
 
 Der Familienzuschlag erhöht sich
 
 –  
-für das zweite zu berücksichtigende Kind um 129,19 Euro,
+für das zweite zu berücksichtigende Kind um 131,52 Euro,
 
 –  
-für jedes weitere zu berücksichtigende Kind um 402,51 Euro.
+für jedes weitere zu berücksichtigende Kind um 409,76 Euro.
 
 Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 und für Anwärter des einfachen Dienstes
 
@@ -3174,15 +3170,15 @@ Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedriger
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
 |                                   |             |
-|:----------------------------------|------------:|
-| – Besoldungsgruppen A 3 bis A 8:  | 127,33 Euro |
-| – Besoldungsgruppen A 9 bis A 12: | 135,16 Euro |
+|:----------------------------------|:------------|
+| – Besoldungsgruppen A 3 bis A 8:  | 129,62 Euro |
+| – Besoldungsgruppen A 9 bis A 12: | 137,60 Euro |
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++)
 
-# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. April 2021
+# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4)Gültig ab 1. April 2022
 
-(Fundstelle: BGBl. I 2021, 2452)
+(Fundstelle: BGBl. I 2021, 2461)
 
 VI.1 (Monatsbetrag in Euro)
 
@@ -3222,31 +3218,31 @@ spanne
 
  
 
-2 403,86
+2 447,13
 
-2 707,84
+2 756,58
 
-3 053,20
+3 108,16
 
-3 445,60
+3 507,62
 
-3 900,87
+3 971,09
 
-4 422,69
+4 502,30
 
-5 015,63
+5 105,91
 
-5 689,29
+5 791,70
 
-6 454,74
+6 570,93
 
-7 324,49
+7 456,33
 
-8 312,70
+8 462,33
 
- 9 435,48
+9 605,32
 
-10 711,26
+10 904,06
 
  
 
@@ -3280,37 +3276,37 @@ bis
 
 ab
 
-2 403,85
+2 447,12
 
-2 707,83
+2 756,57
 
-3 053,19
+3 108,15
 
-3 445,59
+3 507,61
 
-3 900,86
+3 971,08
 
-4 422,68
+4 502,29
 
-5 015,62
+5 105,90
 
-5 689,28
+5 791,69
 
-6 454,73
+6 570,92
 
-7 324,48
+7 456,32
 
-8 312,69
+8 462,32
 
-9 435,47
+9 605,31
 
-10 711,25
+10 904,05
 
-12 160,83
+12 379,72
 
-12 160,84
+12 379,73
 
-Zonenstufe
+Zonen- stufe
 
  
 
@@ -3344,650 +3340,650 @@ Zonenstufe
 
  1
 
-  806,60
+  818,22
 
-  874,01
+  886,60
 
-  946,34
+  959,97
 
-1 027,24
+1 042,03
 
-1 114,29
+1 130,34
 
-1 211,11
+1 228,55
 
-1 316,51
+1 335,47
 
-1 432,99
+1 453,63
 
-1 561,71
+1 584,20
 
-1 705,12
+1 729,67
 
-1 862,03
+1 888,84
 
-1 928,22
+1 955,99
 
-1 998,08
+2 026,85
 
-2 072,87
+2 102,72
 
-2 152,56
+2 183,56
 
  2
 
-  897,28
+  910,20
 
-  969,61
+  983,57
 
-1 048,09
+1 063,18
 
-1 133,89
+1 150,22
 
-1 228,29
+1 245,98
 
-1 332,49
+1 351,68
 
-1 445,26
+1 466,07
 
-1 570,30
+1 592,91
 
-1 707,60
+1 732,19
 
-1 859,55
+1 886,33
 
-2 026,28
+2 055,46
 
-2 102,28
+2 132,55
 
-2 183,20
+2 214,64
 
-2 269,00
+2 301,67
 
-2 360,93
+2 394,93
 
  3
 
-  986,79
+1 001,00
 
-1 065,25
+1 080,59
 
-1 149,81
+1 166,37
 
-1 241,76
+1 259,64
 
-1 343,52
+1 362,87
 
-1 453,83
+1 474,77
 
-1 575,20
+1 597,88
 
-1 707,60
+1 732,19
 
-1 853,45
+1 880,14
 
-2 014,02
+2 043,02
 
-2 189,35
+2 220,88
 
-2 276,37
+2 309,15
 
-2 368,30
+2 402,40
 
-2 466,36
+2 501,88
 
-2 569,32
+2 606,32
 
  4
 
-1 076,26
+1 091,76
 
-1 160,86
+1 177,58
 
-1 251,58
+1 269,60
 
-1 349,65
+1 369,08
 
-1 457,49
+1 478,48
 
-1 575,20
+1 597,88
 
-1 703,89
+1 728,43
 
-1 844,85
+1 871,42
 
-1 999,32
+2 028,11
 
-2 168,48
+2 199,71
 
-2 353,57
+2 387,46
 
-2 450,43
+2 485,72
 
-2 553,41
+2 590,18
 
-2 662,50
+2 700,84
 
-2 777,70
+2 817,70
 
  5
 
-1 167,00
+1 183,80
 
-1 256,49
+1 274,58
 
-1 353,33
+1 372,82
 
-1 457,49
+1 478,48
 
-1 571,51
+1 594,14
 
-1 696,54
+1 720,97
 
-1 832,61
+1 859,00
 
-1 980,94
+2 009,47
 
-2 143,97
+2 174,84
 
-2 322,94
+2 356,39
 
-2 517,84
+2 554,10
 
-2 624,51
+2 662,30
 
-2 738,50
+2 777,93
 
-2 858,63
+2 899,79
 
-2 987,32
+3 030,34
 
  6
 
-1 256,49
+1 274,58
 
-1 352,12
+1 371,59
 
-1 453,83
+1 474,77
 
-1 565,39
+1 587,93
 
-1 686,74
+1 711,03
 
-1 817,91
+1 844,09
 
-1 961,32
+1 989,56
 
-2 118,22
+2 148,72
 
-2 289,85
+2 322,82
 
-2 477,38
+2 513,05
 
-2 682,10
+2 720,72
 
-2 798,55
+2 838,85
 
-2 923,62
+2 965,72
 
-3 054,78
+3 098,77
 
-3 195,75
+3 241,77
 
  7
 
-1 347,19
+1 366,59
 
-1 447,71
+1 468,56
 
-1 555,58
+1 577,98
 
-1 673,23
+1 697,32
 
-1 800,75
+1 826,68
 
-1 939,26
+1 967,19
 
-2 091,26
+2 121,37
 
-2 255,52
+2 288,00
 
-2 435,71
+2 470,78
 
-2 631,84
+2 669,74
 
-2 846,37
+2 887,36
 
-2 973,86
+3 016,68
 
-3 108,69
+3 153,46
 
-3 252,12
+3 298,95
 
-3 404,12
+3 453,14
 
  8
 
-1 436,66
+1 457,35
 
-1 543,33
+1 565,55
 
-1 657,34
+1 681,21
 
-1 781,16
+1 806,81
 
-1 914,73
+1 942,30
 
-2 060,60
+2 090,27
 
-2 220,00
+2 251,97
 
-2 392,82
+2 427,28
 
-2 580,36
+2 617,52
 
-2 786,29
+2 826,41
 
-3 010,63
+3 053,98
 
-3 147,92
+3 193,25
 
-3 293,79
+3 341,22
 
-3 448,26
+3 497,91
 
-3 612,50
+3 664,52
 
  9
 
-1 527,35
+1 549,34
 
-1 638,94
+1 662,54
 
-1 759,05
+1 784,38
 
-1 888,99
+1 916,19
 
-2 029,98
+2 059,21
 
-2 183,20
+2 214,64
 
-2 348,68
+2 382,50
 
-2 530,11
+2 566,54
 
-2 726,21
+2 765,47
 
-2 940,76
+2 983,11
 
-3 174,87
+3 220,59
 
-3 321,98
+3 369,82
 
-3 478,89
+3 528,99
 
-3 644,36
+3 696,84
 
-3 820,90
+3 875,92
 
 10
 
-1 616,85
+1 640,13
 
-1 734,54
+1 759,52
 
-1 860,79
+1 887,59
 
-1 996,86
+2 025,61
 
-2 143,97
+2 174,84
 
-2 304,56
+2 337,75
 
-2 477,38
+2 513,05
 
-2 666,18
+2 704,57
 
-2 872,09
+2 913,45
 
-3 095,23
+3 139,80
 
-3 337,93
+3 386,00
 
-3 496,06
+3 546,40
 
-3 662,77
+3 715,51
 
-3 840,51
+3 895,81
 
-4 029,29
+4 087,31
 
 11
 
-1 706,38
+1 730,95
 
-1 830,15
+1 856,50
 
-1 961,32
+1 989,56
 
-2 104,74
+2 135,05
 
-2 259,19
+2 291,72
 
-2 425,90
+2 460,83
 
-2 607,34
+2 644,89
 
-2 803,48
+2 843,85
 
-3 016,77
+3 060,21
 
-3 249,65
+3 296,44
 
-3 502,20
+3 552,63
 
-3 670,14
+3 722,99
 
-3 847,85
+3 903,26
 
-4 037,88
+4 096,03
 
-4 238,92
+4 299,96
 
 12
 
-1 797,06
+1 822,94
 
-1 925,75
+1 953,48
 
-2 063,09
+2 092,80
 
-2 212,61
+2 244,47
 
-2 373,18
+2 407,35
 
-2 547,27
+2 583,95
 
-2 736,04
+2 775,44
 
-2 940,76
+2 983,11
 
-3 162,62
+3 208,16
 
-3 404,12
+3 453,14
 
-3 666,45
+3 719,25
 
-3 844,18
+3 899,54
 
-4 032,95
+4 091,02
 
-4 234,01
+4 294,98
 
-4 447,30
+4 511,34
 
 13
 
-1 886,56
+1 913,73
 
-2 021,37
+2 050,48
 
-2 164,78
+2 195,95
 
-2 319,27
+2 352,67
 
-2 487,20
+2 523,02
 
-2 668,63
+2 707,06
 
-2 864,78
+2 906,03
 
-3 078,06
+3 122,38
 
-3 308,51
+3 356,15
 
-3 558,58
+3 609,82
 
-3 830,69
+3 885,85
 
-4 018,27
+4 076,13
 
-4 218,07
+4 278,81
 
-4 430,11
+4 493,90
 
-4 655,71
+4 722,75
 
 14
 
-1 977,26
+2 005,73
 
-2 116,99
+2 147,47
 
-2 266,55
+2 299,19
 
-2 427,13
+2 462,08
 
-2 602,43
+2 639,90
 
-2 789,97
+2 830,15
 
-2 993,46
+3 036,57
 
-3 214,10
+3 260,38
 
-3 453,17
+3 502,90
 
-3 713,04
+3 766,51
 
-3 994,97
+4 052,50
 
-4 192,32
+4 252,69
 
-4 403,17
+4 466,58
 
-4 626,27
+4 692,89
 
-4 864,07
+4 934,11
 
 15
 
-2 066,74
+2 096,50
 
-2 212,61
+2 244,47
 
-2 367,09
+2 401,18
 
-2 534,99
+2 571,49
 
-2 716,43
+2 755,55
 
-2 911,34
+2 953,26
 
-3 123,40
+3 168,38
 
-3 351,42
+3 399,68
 
-3 599,04
+3 650,87
 
-3 867,51
+3 923,20
 
-4 159,23
+4 219,12
 
-4 367,62
+4 430,51
 
-4 588,24
+4 654,31
 
-4 823,65
+4 893,11
 
-5 072,46
+5 145,50
 
 16
 
-2 156,22
+2 187,27
 
-2 308,24
+2 341,48
 
-2 468,80
+2 504,35
 
-2 642,88
+2 680,94
 
-2 830,43
+2 871,19
 
-3 033,93
+3 077,62
 
-3 252,12
+3 298,95
 
-3 488,68
+3 538,92
 
-3 744,88
+3 798,81
 
-4 021,93
+4 079,85
 
-4 322,27
+4 384,51
 
-4 541,67
+4 607,07
 
-4 773,37
+4 842,11
 
-5 019,75
+5 092,03
 
-5 280,87
+5 356,91
 
 17
 
-2 246,94
+2 279,30
 
-2 403,84
+2 438,46
 
-2 570,55
+2 607,57
 
-2 750,74
+2 790,35
 
-2 945,66
+2 988,08
 
-3 155,27
+3 200,71
 
-3 380,83
+3 429,51
 
-3 625,98
+3 678,19
 
-3 890,78
+3 946,81
 
-4 176,39
+4 236,53
 
-4 486,52
+4 551,13
 
-4 715,76
+4 783,67
 
-4 958,45
+5 029,85
 
-5 215,89
+5 291,00
 
-5 490,48
+5 569,54
 
 18
 
-2 336,44
+2 370,08
 
-2 498,22
+2 534,19
 
-2 672,29
+2 710,77
 
-2 858,63
+2 899,79
 
-3 059,65
+3 103,71
 
-3 276,63
+3 323,81
 
-3 510,76
+3 561,31
 
-3 763,28
+3 817,47
 
-4 035,42
+4 093,53
 
-4 330,83
+4 393,19
 
-4 650,79
+4 717,76
 
-4 889,82
+4 960,23
 
-5 143,57
+5 217,64
 
-5 413,25
+5 491,20
 
-5 698,88
+5 780,94
 
 19
 
-2 427,13
+2 462,08
 
-2 593,85
+2 631,20
 
-2 774,03
+2 813,98
 
-2 966,51
+3 009,23
 
-3 173,64
+3 219,34
 
-3 397,99
+3 446,92
 
-3 639,47
+3 691,88
 
-3 899,36
+3 955,51
 
-4 181,32
+4 241,53
 
-4 485,31
+4 549,90
 
-4 815,07
+4 884,41
 
-5 063,87
+5 136,79
 
-5 328,67
+5 405,40
 
-5 609,40
+5 690,18
 
-5 907,26
+5 992,32
 
 20
 
-2 516,61
+2 552,85
 
-2 689,44
+2 728,17
 
-2 874,54
+2 915,93
 
-3 074,38
+3 118,65
 
-3 288,89
+3 336,25
 
-3 519,34
+3 570,02
 
-3 768,18
+3 822,44
 
-4 036,64
+4 094,77
 
-4 327,18
+4 389,49
 
-4 639,75
+4 706,56
 
-4 979,31
+5 051,01
 
-5 237,96
+5 313,39
 
-5 513,76
+5 593,16
 
-5 805,50
+5 889,10
 
-6 115,64
+6 203,71
 
 VI.2
 
-# Anlage VIII – (zu § 61) Gültig ab 1. April 2021
+# Anlage VIII – (zu § 61)Gültig ab 1. April 2022
 
-(Fundstelle: BGBl. I 2021, 2453)
+(Fundstelle: BGBl. I 2021, 2462)
 
-# Anlage IX – (zu den Anlagen I und III) Gültig ab 1. April 2021
+# Anlage IX – (zu den Anlagen I und III)Gültig ab 1. April 2022
 
-(Fundstelle: BGBl. I 2021, 2454 - 2457)
+(Fundstelle: BGBl. I 2021, 2463 - 2466)

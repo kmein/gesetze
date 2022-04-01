@@ -153,7 +153,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 7a. der Nachweis eines Krankenversicherungsschutzes nach § 28a Absatz 9a des Vierten Buches Sozialgesetzbuch,
 
-8. eine Kopie des Antrags nach § 7a Abs. 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen sowie deren Bescheid nach § 7a Abs. 2 des Vierten Buches Sozialgesetzbuch,
+8. eine Kopie des Antrags nach § 7a Abs. 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen, deren Bescheid nach § 7a Abs. 2 des Vierten Buches Sozialgesetzbuch sowie gutachterliche Äußerungen nach § 7a Absatz 4b des Vierten Buches Sozialgesetzbuch,
 
 9. den Bescheid der zuständigen Einzugsstelle über die Feststellung der Versicherungspflicht nach § 28h Abs. 2 des Vierten Buches Sozialgesetzbuch,
 

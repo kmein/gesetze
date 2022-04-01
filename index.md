@@ -1184,7 +1184,6 @@
 - [BSV 2018](laws/BSV_2018.md) Verordnung zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2018
 - [BSWAG](laws/BSWAG.md) Gesetz über den Ausbau der Schienenwege des Bundes
 - [BTÄO](laws/BTÄO.md) Bundes-Tierärzteordnung
-- [BTBeihZustAnO](laws/BTBeihZustAnO.md) Anordnung der Verwaltung des Deutschen Bundestages über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe
 - [BTBerlinBek](laws/BTBerlinBek.md) Bekanntmachung über die Arbeitsfähigkeit des Deutschen Bundestages in Berlin
 - [BtBG](laws/BtBG.md) Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger
 - [BTBRGGO](laws/BTBRGGO.md) Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
@@ -1219,6 +1218,7 @@
 - [BtMG](laws/BtMG.md) Gesetz über den Verkehr mit Betäubungsmitteln
 - [BtMVV](laws/BtMVV.md) Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln
 - [BTPräsAmtsbezAnO](laws/BTPräsAmtsbezAnO.md) Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung
+- [BTVBhHFZustAnO](laws/BTVBhHFZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten der Verwaltung des Deutschen Bundestages im Widerspruchsverfahren und über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe und der Heilfürsorge
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
 - [BuchBMstrV](laws/BuchBMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Buchbinder-Handwerk
 - [BuchhdlAusbV 2011](laws/BuchhdlAusbV_2011.md) Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin*)
@@ -1346,14 +1346,12 @@
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
 - [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
+- [CoronaPflegeVVerlV 3](laws/CoronaPflegeVVerlV_3.md) Dritte Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19EFreistVerlV](laws/COV19EFreistVerlV.md) Verordnung zur Verlängerung der vorübergehenden Freistellung von Einkommen aus Tätigkeiten BAföG-Geförderter in systemrelevanten Branchen aus Anlass der COVID-19-Pandemie
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
-- [COVAAppOAbwV](laws/COVAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
-- [COVÄApprO2002AbwV](laws/COVÄApprO2002AbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Ärzte im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
 - [COVInsAG](laws/COVInsAG.md) Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz
-- [COVZApprOAbwV](laws/COVZApprOAbwV.md) Verordnung zur Abweichung von den Approbationsordnungen für Zahnärzte und für Zahnärzte und Zahnärztinnen im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen
 - [CSC](laws/CSC.md) Internationales Übereinkommen über sichere Container
 - [CSCG](laws/CSCG.md) Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
 - [CSCGKostO](laws/CSCGKostO.md) Kostenordnung für Maßnahmen nach dem Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
@@ -3253,7 +3251,6 @@
 - [KürschAusbV](laws/KürschAusbV.md) Verordnung über die Berufsausbildung zum Kürschner/zur Kürschnerin in Industrie und Handwerk
 - [KüSchV](laws/KüSchV.md) Verordnung über die Küstenschifffahrt
 - [KüstmProkBek](laws/KüstmProkBek.md) Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
-- [KugverlV](laws/KugverlV.md) Verordnung über die Bezugsdauer und Verlängerung der Erleichterungen der Kurzarbeit
 - [KultErhStudZVorRV](laws/KultErhStudZVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
 - [KultgSchKonv](laws/KultgSchKonv.md) Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
 - [KultgSchKonvABest](laws/KultgSchKonvABest.md) Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
@@ -4399,6 +4396,7 @@
 - [PIDV](laws/PIDV.md) Verordnung zur Regelung der Präimplantationsdiagnostik
 - [PKDBSa](laws/PKDBSa.md) Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
 - [PKDBV](laws/PKDBV.md) Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
+- [PKEV 2022](laws/PKEV_2022.md) Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
 - [PKGrG](laws/PKGrG.md) Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes
 - [PKHB 2011](laws/PKHB_2011.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2012](laws/PKHB_2012.md) Bekanntmachung zu § 115 der Zivilprozessordnung

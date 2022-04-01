@@ -1211,6 +1211,8 @@ werden durch dieses Gesetz nicht berührt.
 
 (10) Für Bewilligungszeiträume, die vor dem 1. August 2021 begonnen haben, sind die §§ 23 und 25 in der bis zum 31. Juli 2021 anzuwendenden Fassung weiter anzuwenden. Ab dem 1. Oktober 2021 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2021 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2021 begonnen haben.
 
+(+++ Hinweis: Zur Verlängerung der in Abs. 8a geregelten Anwendung des § 21 Abs. 4 Nr. 5 bis zum Ablauf des 31. Dezember 2022 vgl. V v. 10.3.2022 I 426 +++)
+
 # § 66b – Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft
 
 Auszubildenden, die bis zum Ende des Übergangszeitraums nach Teil Vier des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft vom 24. Januar 2020 (ABl. L 29 vom 31.1.2020, S. 7) einen Ausbildungsabschnitt an einer Ausbildungsstätte im Vereinigten Königreich Großbritannien und Nordirland beginnen oder fortsetzen, wird Ausbildungsförderung nach § 5 Absatz 2 Satz 1 Nummer 3 noch bis zum Abschluss oder Abbruch dieses Ausbildungsabschnitts an einer dortigen Ausbildungsstätte nach Maßgabe der im Übrigen unverändert geltenden sonstigen Förderungsvoraussetzungen dieses Gesetzes gewährt.

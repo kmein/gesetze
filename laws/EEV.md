@@ -127,7 +127,7 @@ Ist die Notwendigkeit oder die Höhe der Aufwendungen nach § 3 oder § 3a strei
 
 (3) Die Übertragungsnetzbetreiber müssen die Angaben nach Absatz 1 bis zum 15. Oktober eines Kalenderjahres auch der Bundesnetzagentur nach § 4 Absatz 4 der Erneuerbare-Energien-Ausführungsverordnung mitteilen.
 
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) § 5 Abs 3: IdF d. Art. 11 Nr. 6 G v. 22.12.2016 I 3106 mWv 1.1.2017
+(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) (+++ § 5: Zur Anwendung vgl. § 5a Satz 2 +++)
 
 # § 5a – Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen
 

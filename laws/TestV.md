@@ -23,7 +23,7 @@ des § 24 Satz 3 Nummer 2, Satz 4 und 5 des Infektionsschutzgesetzes, der durch 
 
 3. die Diagnostik und
 
-4. die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Genesenenzertifikats im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes oder eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes.
+4. die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Genesenenzertifikats im Sinne des § 22a Absatz 6 des Infektionsschutzgesetzes oder eines COVID-19-Testzertifikats im Sinne des § 22a Absatz 7 des Infektionsschutzgesetzes.
 
 Zur Diagnostik können nach Maßgabe dieser Verordnung eine Diagnostik mittels Nukleinsäurenachweis oder eine Diagnostik durch Antigen-Test gehören. Zur Diagnostik durch Antigen-Test gehören
 
@@ -99,7 +99,7 @@ b) von der sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus SA
 
 4. in oder von stationären Einrichtungen oder ambulanten Diensten der Eingliederungshilfe nach Absatz 2 Nummer 5 gegenwärtig behandelt, betreut, gepflegt werden oder untergebracht sind oder wenn sie eine in einer stationären Einrichtung nach Absatz 2 Nummer 5 behandelte, betreute, gepflegte oder untergebrachte Person besuchen wollen.
 
-Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik abweichend von § 1 Absatz 1 Satz 2 auf eine Diagnostik durch Antigen-Tests beschränkt. Abweichend von § 1 Absatz 1 Satz 4 kann die Diagnostik auch mittels Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen; in diesem Fall darf abweichend von § 1 Absatz 1 Satz 2 Nummer 4 kein Zeugnis über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 und kein COVID-19-Testzertifikat im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes ausgestellt werden. Die zuständigen Stellen des öffentlichen Gesundheitsdienstes können abweichend von Satz 2 unter Berücksichtigung der Testkapazitäten und der epidemiologischen Lage vor Ort bei Einrichtungen nach Absatz 2 Nummer 1 bis 4 veranlassen, dass auch andere Testmethoden zur Anwendung kommen können. Bei Personen nach Satz 1 Nummer 3 und 4 ist der Anspruch abweichend von § 1 Absatz 1 Satz 3 auf eine Diagnostik durch PoC-Antigen-Tests oder durch überwachte Antigen-Tests zur Eigenanwendung beschränkt, die von den Einrichtungen oder Unternehmen nach Absatz 2 Nummer 1 bis 6 im Rahmen eines einrichtungs- oder unternehmensbezogenen Testkonzepts selbst durchgeführt wird.
+Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik abweichend von § 1 Absatz 1 Satz 2 auf eine Diagnostik durch Antigen-Tests beschränkt. Abweichend von § 1 Absatz 1 Satz 4 kann die Diagnostik auch mittels Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen; in diesem Fall darf abweichend von § 1 Absatz 1 Satz 2 Nummer 4 kein Zeugnis über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 und kein COVID-19-Testzertifikat im Sinne des § 22a Absatz 7 des Infektionsschutzgesetzes ausgestellt werden. Die zuständigen Stellen des öffentlichen Gesundheitsdienstes können abweichend von Satz 2 unter Berücksichtigung der Testkapazitäten und der epidemiologischen Lage vor Ort bei Einrichtungen nach Absatz 2 Nummer 1 bis 4 veranlassen, dass auch andere Testmethoden zur Anwendung kommen können. Bei Personen nach Satz 1 Nummer 3 und 4 ist der Anspruch abweichend von § 1 Absatz 1 Satz 3 auf eine Diagnostik durch PoC-Antigen-Tests oder durch überwachte Antigen-Tests zur Eigenanwendung beschränkt, die von den Einrichtungen oder Unternehmen nach Absatz 2 Nummer 1 bis 6 im Rahmen eines einrichtungs- oder unternehmensbezogenen Testkonzepts selbst durchgeführt wird.
 
 (2) Einrichtungen und Unternehmen im Sinne des Absatzes 1 Satz 1 sind
 
@@ -199,7 +199,7 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen einzelnen Angaben nach Satz 2 Nummer 1 bis 8 in den jeweiligen Fällen ganz oder teilweise abgesehen werden kann, regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31. Dezember 2022 unverändert zu speichern oder aufzubewahren.
 
-(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26. Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
+(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 15. April 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
 
 1. die von den Leistungserbringern für die Abrechnung und für Zwecke des § 16 an die Kassenärztlichen Vereinigungen zu übermittelnden Angaben und die für den Nachweis der korrekten Abrechnung notwendigen Auftrags- und Leistungsdokumentation,
 
@@ -211,9 +211,9 @@ Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen e
 
 (7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26. Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b genannten Fällen und in den Fällen der §§ 3 und 4 danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
 
-(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 11. Februar 2022 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
+(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 30. März 2022 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
 
-(9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben. Eine Vergütung für Testungen nach § 4a wird nur gewährt, wenn der Leistungserbringer die Ergebnismitteilung und die Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes auch über die Corona-Warn-App des Robert Koch-Instituts anbietet und auf Wunsch der getesteten Person über die Corona-Warn-App des Robert Koch-Instituts übermittelt.
+(9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben.
 
 (10) Alle Leistungserbringer, die Testungen nach § 4a anbieten, sind verpflichtet, der zuständigen Stelle des öffentlichen Gesundheitsdienstes oder der von ihr benannten Stelle monatlich und standortbezogen die Zahl der von ihnen erbrachten Testungen nach § 4a und die Zahl der positiven Testergebnisse zu melden. Die zuständige oder benannte Stelle kann das Nähere zum Verfahren der Meldungen festlegen. Die gemeldeten Daten können an die jeweilige Kassenärztliche Vereinigung übermittelt und für Zwecke der Abrechnungsprüfung nach § 7a Absatz 2 verwendet werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
 
@@ -243,9 +243,9 @@ c) eine dauerhafte oder vorübergehende Betriebseinstellung sowie die erneute Au
 
 Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öffentlichen Gesundheitsdienstes und die Kassenärztlichen Vereinigungen einander auch personenbezogene Daten übermitteln, soweit dies zum Zweck der Beauftragung, der Aufhebung der Beauftragung oder der Abrechnungsprüfung erforderlich ist.
 
-# § 7b – Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22 Absatz 6 des Infektionsschutzgesetzes
+# § 7b – Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22a Absatz 6 des Infektionsschutzgesetzes
 
-(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach § 12 Absatz 6 für die Ausstellung eines COVID-19-Genesenenzertifikates im Sinne von § 22 Absatz 6 des Infektionsschutzgesetzes ergebende Vergütung mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Für die Erstellung von COVID-19-Genesenenzertifikaten im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Genesenenzertifikate und der dafür geltend gemachte Erstattungsbetrag ergibt. Die übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Genesenenzertifikat im Sinne von § 22 Absatz 6 des Infektionsschutzgesetzes ausgestellt wurde. Die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach § 12 Absatz 6 für die Ausstellung eines COVID-19-Genesenenzertifikates im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ergebende Vergütung mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Für die Erstellung von COVID-19-Genesenenzertifikaten im Sinne des § 22a Absatz 6 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Genesenenzertifikate und der dafür geltend gemachte Erstattungsbetrag ergibt. Die übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Genesenenzertifikat im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ausgestellt wurde. Die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
 (2) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt monatlich oder quartalsweise den sich für die Apotheken, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der Abrechnungen nach Absatz 1 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch das jeweilige Rechenzentrum in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach Satz 1 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Es bestimmt das Nähere zum Verfahren der Übermittlung und der Zahlung nach den Sätzen 1 bis 3. Die Rechenzentren leiten den sich aus der Abrechnung nach Absatz 1 Satz 1 ergebenden Betrag an die Apotheken weiter.
 
@@ -253,7 +253,7 @@ Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öf
 
 # § 8 – Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
 
-Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung und Verteilung des zu verwendenden Vordrucks sowie der Abrechnung von Leistungen von Leistungserbringern nach dieser Verordnung einen Verwaltungskostensatz in Höhe von 0,7 Prozent des jeweiligen Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für Leistungserbringer und sonstige abrechnende Stellen, die nicht Mitglied dieser Kassenärztlichen Vereinigung sind und noch keine Leistungen ihr gegenüber abgerechnet haben, behalten die Kassenärztlichen Vereinigungen einen Verwaltungskostensatz bis zum 31. Mai 2021 in Höhe von 3,5 Prozent, vom 1. Juni 2021 bis zum 30. Juni 2021 in Höhe von 2 Prozent und ab dem 1. Juli 2021 in Höhe von 3,5 Prozent des Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für die Abrechnung der Sachkosten nach § 11 werden den Kassenärztlichen Vereinigungen Verwaltungskosten in Höhe von 2 Prozent des Gesamtbetrags der Abrechnungen durch das Bundesamt für Soziale Sicherung erstattet.
+Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung und Verteilung des zu verwendenden Vordrucks sowie der Abrechnung von Leistungen von Leistungserbringern nach dieser Verordnung einen Verwaltungskostensatz in Höhe von 0,7 Prozent des jeweiligen Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für Leistungserbringer und sonstige abrechnende Stellen, die nicht Mitglied dieser Kassenärztlichen Vereinigung sind und noch keine Leistungen ihr gegenüber abgerechnet haben, behalten die Kassenärztlichen Vereinigungen einen Verwaltungskostensatz bis zum 30. April 2022 in Höhe von 3,5 Prozent und ab dem 1. Mai 2022 in Höhe von 2,5 Prozent des Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für die Abrechnung der Sachkosten nach § 11 werden den Kassenärztlichen Vereinigungen Verwaltungskosten in Höhe von 2 Prozent des Gesamtbetrags der Abrechnungen durch das Bundesamt für Soziale Sicherung erstattet.
 
 # § 9 – Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis
 
@@ -269,7 +269,7 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 # § 12 – Vergütung von weiteren Leistungen
 
-(1) Die an die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer zu zahlende Vergütung für das Gespräch, die Entnahme von Körpermaterial, die PoC-Diagnostik, die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes beträgt je Testung 8 Euro. Eine Vergütung nach Satz 1 wird auch gewährt, wenn anstatt einer PoC-Diagnostik oder nach einem positiven Antigen-Test oder nach einem Pooling-Test mittels eines Nukleinsäurenachweises ein anderer Leistungserbringer beauftragt wird und in diesem Zusammenhang Körpermaterial entnommen und an den beauftragten Leistungserbringer versandt wird.
+(1) Die an die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer zu zahlende Vergütung für das Gespräch, die Entnahme von Körpermaterial, die PoC-Diagnostik, die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Testzertifikats im Sinne des § 22a Absatz 7 des Infektionsschutzgesetzes beträgt je Testung 8 Euro. Eine Vergütung nach Satz 1 wird auch gewährt, wenn anstatt einer PoC-Diagnostik oder nach einem positiven Antigen-Test oder nach einem Pooling-Test mittels eines Nukleinsäurenachweises ein anderer Leistungserbringer beauftragt wird und in diesem Zusammenhang Körpermaterial entnommen und an den beauftragten Leistungserbringer versandt wird.
 
 (2) Die Vergütung bei überwachten Antigen-Tests zur Eigenanwendung beträgt je Testung 5 Euro.
 
@@ -279,7 +279,7 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 (5) Die an die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten ärztlichen oder zahnärztlichen Leistungserbringer zu zahlende Vergütung für das Gespräch im Zusammenhang mit der Feststellung nach § 2 beträgt für den Fall, dass kein Test durchgeführt worden ist, 5 Euro.
 
-(6) Die Vergütung der nach § 22 Absatz 6 Satz 1 des Infektionsschutzgesetzes zur Ausstellung von COVID-19-Genesenenzertifikaten berechtigten Personen beträgt je Ausstellung eines COVID-19-Genesenenzertifikats 6 Euro. Die Vergütung wird um 4 Euro gemindert, wenn die Ausstellung unter Einsatz informationstechnischer Systeme erfolgt, die in der allgemeinen ärztlichen Versorgung zur Verarbeitung von Patientendaten eingesetzt werden.
+(6) Die Vergütung der nach § 22a Absatz 6 Satz 1 des Infektionsschutzgesetzes zur Ausstellung von COVID-19-Genesenenzertifikaten berechtigten Personen beträgt je Ausstellung eines COVID-19-Genesenenzertifikats 6 Euro. Die Vergütung wird um 4 Euro gemindert, wenn die Ausstellung unter Einsatz informationstechnischer Systeme erfolgt, die in der allgemeinen ärztlichen Versorgung zur Verarbeitung von Patientendaten eingesetzt werden.
 
 (7) (weggefallen)
 
@@ -361,6 +361,18 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 (3) Die Kassenärztliche Bundesvereinigung veröffentlicht bis zum Ende des Monats, in dem die Übermittlung der Angaben nach Absatz 1 erfolgt, die Anzahl der jeweils von den Kassenärztlichen Vereinigungen abgerechneten Testungen nach § 4a und den Gesamtbetrag, der sich je Kassenärztlicher Vereinigung aus der Abrechnung der Testungen nach § 4a ergibt, sowie nach Abstimmung mit den Ländern weitere für statistische Zwecke relevante Angaben auf ihrer Internetseite.
 
+(4) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit einmal im Quartal über die Kassenärztliche Bundesvereinigung einen Bericht über die Abrechnungsprüfungen nach § 7a zu übermitteln. Der Bericht muss insbesondere folgende Angaben enthalten:
+
+1. Angaben zur Anzahl der Abrechnungsprüfungen,
+
+2. Angaben zu den häufigsten Gründen für die Durchführung von Abrechnungsprüfungen,
+
+3. Angaben zur Anzahl der Verfahren, in denen Rückzahlungsbeträge nach § 7a Absatz 5 Satz 5 mit weiteren Forderungen verrechnet worden sind,
+
+4. Angaben zur Höhe der nach § 7 Absatz 5 Satz 5 verrechneten Rückzahlungsbeträge und
+
+5. Angaben zu den Gründen für die Rückzahlung von Beträgen an die Liquiditätsreserve des Gesundheitsfonds.
+
 # § 17 – Labordiagnostik durch Tierärzte
 
 (1) Tierärzte können im Rahmen einer Labordiagnostik den direkten Nachweis des Coronavirus SARS-CoV-2 führen. § 9 der Medizinprodukte-Betreiberverordnung gilt für Tierärzte entsprechend.
@@ -373,6 +385,6 @@ Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testve
 
 # § 19 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt am 31. März 2022 außer Kraft.
+(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt am 30. Juni 2022 außer Kraft.
 
 (2) Die Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, tritt mit Ablauf des 10. Oktober 2021 außer Kraft.

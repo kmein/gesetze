@@ -39,11 +39,11 @@ Bei Teilzeitbeschäftigung verringern sich die in § 3 Absatz 1 und 3 Satz 2 sow
 
 (1) Die Zulage beträgt für Dienst
 
-1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,57 Euro je Stunde,
+1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,67 Euro je Stunde,
 
-2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,32 Euro je Stunde sowie
+2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,34 Euro je Stunde sowie
 
-b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,62 Euro je Stunde.
+b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,67 Euro je Stunde.
 
 (2) Für Dienst über volle Stunden hinaus wird die Zulage anteilig gewährt.
 

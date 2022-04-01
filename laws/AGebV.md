@@ -393,6 +393,8 @@ Polizeivollzugsbeamtinnen und -beamte
 
 10,15
 
+(+++ Anlage 1 Teil A Abschn. 1 Nr. 1: Zur Anwendung vgl. § 1 Abs. 3 HkNGebV +++)
+
 # Anlage 2 – (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
 
 (Fundstelle: BGBl. I 2021, 210 – 215)

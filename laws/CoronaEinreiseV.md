@@ -39,6 +39,104 @@ Auf Grund des § 36 Absatz 8 Satz 1 bis 4, Absatz 10 Satz 1 Nummer 1, 1a, 2 Buch
 
 Zweck dieser Verordnung ist es, im Rahmen der Einreise von Personen in die Bundesrepublik Deutschland Infektionen mit dem Coronavirus SARS-CoV-2 und insbesondere mit besorgniserregenden Virusvarianten des Coronavirus SARS-CoV-2 frühzeitig zu verhindern, um seine Verbreitung in der Bundesrepublik Deutschland zu verhindern.
 
+# § 2 – Begriffsbestimmungen
+
+Im Sinne dieser Verordnung ist:
+
+ 1. Einreise
+
+Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder Luftweg aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland,
+
+ 2. Einreiseportal
+
+vom Robert Koch-Institut nach § 36 Absatz 9 Satz 1 des Infektionsschutzgesetzes eingerichtetes elektronisches Melde- und Informationssystem unter https://www.einreiseanmeldung.de,
+
+ 3. Hochrisikogebiet
+
+ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine besonders hohe Inzidenz in Bezug auf die Verbreitung einer Variante des Coronavirus SARS-CoV-2 mit im Vergleich zur Virusvariante B.1.1.529 (Omikron-Variante) besorgniserregenderen Eigenschaften besteht, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht, oder andere Anhaltspunkte dafür vorliegen, dass in diesem Gebiet ein erhöhtes Risiko für eine Infektion mit einer solchen Variante des Coronavirus SARS-CoV-2 vorliegt, insbesondere aufgrund der dort beobachteten Ausbreitungsgeschwindigkeit oder aufgrund nicht ausreichend vorhandener oder verlässlicher epidemiologischer Daten,
+
+ 3a. Virusvariantengebiet
+
+ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine bestimmte, in der Bundesrepublik Deutschland noch nicht verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften auftritt, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass
+
+a) bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Variante aufweisen oder
+
+b) sie andere ähnlich schwerwiegende besorgniserregende Eigenschaften aufweist, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht,
+
+ 4. eine asymptomatische Person
+
+eine Person, bei der aktuell kein typisches Symptom oder sonstiger Anhaltspunkt für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegt; typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 sind Atemnot, neu auftretender Husten, Fieber und Geruchs- oder Geschmacksverlust,
+
+ 5. getestete Person
+
+eine asymptomatische Person, die im Besitz eines auf ihre Person ausgestellten Testnachweises ist,
+
+ 6. Testnachweis
+
+a) ein Testnachweis im Sinne von § 22a Absatz 3 des Infektionsschutzgesetzes oder
+
+b) sofern die Testung im Ausland erfolgt ist, ein Nachweis hinsichtlich des Nichtvorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung
+
+aa)  
+von einer nach dem Recht des jeweiligen Staates befugten Stelle vorgenommen oder überwacht worden ist und
+
+bb)  
+durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind, und
+
+aaa)  
+zum Zeitpunkt oder zum geplanten Zeitpunkt der Einreise in die Bundesrepublik maximal 48 Stunden zurückliegt oder,
+
+bbb)  
+sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt.
+
+ 7. genesene Person
+
+eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises im Sinne von § 22a Absatz 2 des Infektionsschutzgesetzes ist,
+
+ 8. (wegefallen)
+
+ 9. geimpfte Person
+
+eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises im Sinne von § 22a Absatz 1 des Infektionsschutzgesetzes ist,
+
+10. (weggefallen)
+
+11. Grenzpendler
+
+a) eine Person, die in der Bundesrepublik Deutschland ihren Wohnsitz hat und die sich zwingend notwendig zum Zwecke ihrer Berufsausübung, ihres Studiums oder ihrer Ausbildung an ihre Berufsausübungs-, Studien- oder Ausbildungsstätte in das Ausland begibt und regelmäßig, mindestens einmal wöchentlich, an ihren Wohnsitz zurückkehrt, oder
+
+b) diejenige sorgeberechtigte Person oder Betreuungsperson, die eine Person nach Buchstabe a zu ihrer Berufsausübungs-, Studien- oder Ausbildungsstätte bringt oder sie dort abholt,
+
+12. Grenzgänger
+
+a) eine Person, die im Ausland ihren Wohnsitz hat und die sich zwingend notwendig zum Zwecke ihrer Berufsausübung, ihres Studiums oder ihrer Ausbildung in die Bundesrepublik Deutschland begibt und regelmäßig, mindestens einmal wöchentlich, an ihren Wohnsitz zurückkehrt, oder
+
+b) diejenige sorgeberechtigte Person oder Betreuungsperson, die eine Person nach Buchstabe a zu ihrer Berufsausübungs-, Studien- oder Ausbildungsstätte bringt oder sie dort abholt,
+
+13. Transportpersonal
+
+Personen, die einreisen, um beruflich bedingt grenzüberschreitend Personen, Waren oder Güter auf dem Land-, Wasser- oder Luftweg zu transportieren,
+
+14. Beförderer
+
+ein Unternehmen, das Personen im grenzüberschreitenden Eisenbahn-, Bus-, Flug- oder Schiffsverkehr in die Bundesrepublik Deutschland befördert,
+
+15. Zwischenaufenthalt
+
+Aufenthalte, die die übliche Zeitdauer notwendiger Halte zum Beispiel zur Rast oder für Tankvorgänge überschreiten; Umsteigezeiten an einem Flughafen gelten nicht als Zwischenaufenthalt,
+
+16. Schengen-Staat
+
+Staat, in dem neben der Bundesrepublik Deutschland der Schengen-Besitzstand vollständig angewandt wird:
+
+Belgien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Island, Italien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Österreich, Polen, Portugal, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechische Republik und Ungarn,
+
+17. Angehörige ausländischer Streitkräfte
+
+Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des Truppenstatuts der NATO-Partnerschaft für den Frieden und des Truppenstatuts der Mitgliedstaaten der Europäischen Union, die zu dienstlichen Zwecken nach Deutschland einreisen oder dorthin zurückkehren.
+
+Zertifikate nach der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie (ABl. L 211 vom 15.6.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/256 (ABl. L 42 vom 23.2.2022, S. 4) geändert worden ist, gelten als Impf-, Genesenen- oder Testnachweis im Sinne dieser Verordnung.
+
 # § 3 – Anmeldepflicht
 
 (1) Personen, die in die Bundesrepublik Deutschland einreisen wollen und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum geplanten Zeitpunkt der Einreise als Hochrisikogebiet oder Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, vor der Einreise der zuständigen Behörde folgende Angaben durch Nutzung des Einreiseportals mitzuteilen (digitale Einreiseanmeldung):
