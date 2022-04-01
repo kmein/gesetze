@@ -191,7 +191,7 @@ Wird der Antragsteller nach Absatz 3 vertreten, so sind der Registerverwaltung z
 (7) Die Registerverwaltung lehnt den Antrag auf Eröffnung eines Kontos ab, wenn der Antragsteller nicht zur Antragstellung berechtigt ist, die erforderlichen Daten und Angaben nach Absatz 4 oder die erforderlichen Nachweise nach Absatz 5 nicht vollständig übermittelt wurden oder der Antragsteller oder sein Vertreter von der Teilnahme am Register nach § 51 ausgeschlossen ist. Die Registerverwaltung soll den Antrag ablehnen, wenn die Voraussetzungen für eine Sperrung des Kontos nach § 49 oder für eine Schließung des Kontos nach § 50 vorliegen.
 
 (+++ § 6: Zur Anwendung vgl. § 7 Abs. 2 Satz 1 +++)  
-(+++ § 6 Abs. 3 bis 7: Zur Anwendung vgl. § 8 Abs. 5 Satz 3 +++)  
+(+++ § 6 Abs. 3 bis 7: Zur Anwendung vgl. § 8 Abs. 5 Satz 3 Halbsatz 1 +++)  
 (+++ § 6 Abs. 5: Zur Anwendung vgl. § 10 Abs. 3 Satz 4 +++)
 
 # § 7 – Kontoeröffnung im Regionalnachweisregister
@@ -200,7 +200,7 @@ Wird der Antragsteller nach Absatz 3 vertreten, so sind der Registerverwaltung z
 
 (2) § 6 ist entsprechend anzuwenden. Abweichend davon ist ein Identitätsnachweis nicht erforderlich, wenn die Identität des Antragstellers oder seines Vertreters bereits bei der Eröffnung eines Kontos im Herkunftsnachweisregister nachgewiesen wurde.
 
-(+++ § 7 Abs. 2 Satz 1 u. Satz 2 Nr. 1: Zur Anwendung vgl. § 8 Abs. 5 Satz 3 +++)
+(+++ § 7 Abs. 2 Satz 1 u. 2: Zur Anwendung vgl. § 8 Abs. 5 Satz 3 Halbsatz 2 +++)
 
 # § 8 – Registrierung von Dienstleistern und Beauftragung und Bevollmächtigung von Dienstleistern durch den Kontoinhaber
 
@@ -358,7 +358,8 @@ b) der Summe der Strommengen aller in den Speicher einspeisenden Anlagen.
 
 § 41 Absatz 3 bis 6 ist entsprechend anzuwenden.
 
-(+++ § 12 Abs. 1 Satz 2 u. Abs. 2 u. 5: Zur Anwendung vgl. § 18 Abs. 2 +++)
+(+++ § 12 Abs. 1 Satz 2 u. Abs. 2 u. 5: Zur Anwendung vgl. § 18 Abs. 2 +++)  
+(+++ § 12 Abs. 1 Nr. 2: Zur Geltung vgl. § 54 Satz 1 +++)
 
 # § 13 – Ausstellung von Herkunftsnachweisen für Strom aus Pumpspeicherkraftwerken und aus Laufwasserkraftwerken mit Pumpbetrieb ohne Speicherung
 

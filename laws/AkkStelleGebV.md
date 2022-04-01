@@ -87,6 +87,10 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (4) Abweichend von Absatz 3 werden für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Oktober 2021 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 1. Oktober 2021 geltenden Fassung erhoben, soweit bei diesen Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten einer geänderten Fassung dieser Verordnung eine Gebührenfestsetzung nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
 
+(5) Für individuell zurechenbare öffentliche Leistungen, die ab dem 1. Oktober 2021, jedoch vor dem 1. April 2022 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum Ablauf des 31. März 2022 geltenden Fassung zu erheben.
+
+(6) Abweichend von Absatz 5 werden für individuell zurechenbare öffentliche Leistungen, die vor dem 1. April 2022 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 1. April 2022 geltenden Fassung erhoben, soweit bei diesen Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten einer neuen Fassung der Akkreditierungsstellengebührenverordnung eine Gebührenfestsetzung nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
+
 # § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tag des siebten auf die Verkündung folgenden Kalendermonats in Kraft.
@@ -95,4 +99,5 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 # Anlage – (zu § 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2017, 3879 - 3881)
+(Fundstelle: BGBl. I 2017, 3879 - 3881;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

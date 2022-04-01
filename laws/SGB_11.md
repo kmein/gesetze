@@ -4638,9 +4638,13 @@ Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017 Anspruc
 
 (6) Absatz 1 gilt für Anträge auf Pflegeleistungen, die zwischen dem 1. Oktober 2020 und dem 31. März 2022 gestellt werden.
 
+(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 147 Absatz 1 Satz 1 bzw. § 147 Abs. 6 bis einschließlich 30. Juni 2022 vgl. V v. 16.3.2022 I 475 +++)
+
 # § 148 – Beratungsbesuche nach § 37
 
 Abweichend von § 37 Absatz 3 Satz 1 erfolgt die von den Pflegebedürftigen abzurufende Beratung bis einschließlich 31. März 2022 telefonisch, digital oder per Videokonferenz, wenn die oder der Pflegebedürftige dies wünscht. Die Pflegekasse oder das private Versicherungsunternehmen darf das Pflegegeld abweichend von § 37 Absatz 6 nicht kürzen oder entziehen, wenn die oder der Pflegebedürftige in dem Zeitraum vom 1. März 2022 bis einschließlich zum 30. Juni 2022 keine Beratung nach § 37 Absatz 3 Satz 1 abruft. Die Pflegekassen und die privaten Versicherungsunternehmen haben diese Ausnahmeregelung den Pflegegeldempfängern kurzfristig in geeigneter Form zur Kenntnis zu bringen.
+
+(+++ Hinweis: Zur Verlängerung der Frist nach § 148 bis einschließlich 30. Juni 2022 vgl. V v. 16.3.2022 I 475 +++)
 
 # § 149 – Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung
 
@@ -4685,6 +4689,8 @@ Die Auszahlung kann vorläufig erfolgen. Der Spitzenverband Bund der Pflegekasse
 Abweichend von § 44a Absatz 6 Satz 1 haben landwirtschaftliche Unternehmer nach § 2 Absatz 1 Nummer 1 und 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte Anspruch auf Betriebshilfe für bis zu insgesamt 20 Arbeitstage, um die Pflege eines pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherzustellen oder zu organisieren, unabhängig davon, ob eine akut aufgetretene Pflegesituation vorliegt, sofern die Voraussetzungen nach Satz 1 Nummer 1 und 3 erfüllt sind. Abweichend von § 44a Absatz 6 Satz 3 haben privat pflegeversicherte landwirtschaftliche Unternehmer Anspruch auf Kostenerstattung für bis zu insgesamt 20 Arbeitstage Betriebshilfe, um die Pflege eines pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherzustellen oder zu organisieren, unabhängig davon, ob eine akut aufgetretene Pflegesituation vorliegt, sofern die Voraussetzungen nach Satz 1 Nummer 1 und 3 erfüllt sind.
 
 (6) Die Absätze 1 bis 5b gelten bis einschließlich 31. März 2022. Absatz 5d gilt in dem Zeitraum vom 23. Mai 2020 bis einschließlich 31. März 2022.
+
+(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 150 Abs. 6 Satz 1 bzw. § 150 Abs. 6 Satz 2 bis einschließlich 30. Juni 2022 vgl. V v. 16.3.2022 I 475 +++)
 
 # § 150a – Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie
 

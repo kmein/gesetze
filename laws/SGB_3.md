@@ -1622,7 +1622,7 @@ Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung
 
 § 336
 
-Leistungsrechtliche Bindung
+(weggefallen)
 
 § 336a
 
@@ -2340,6 +2340,10 @@ Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur We
 § 451
 
 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
+
+§ 453
+
+Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
 
 # § 1 – Ziele der Arbeitsförderung
 
@@ -4081,15 +4085,7 @@ Die Erstattung erfolgt für die Zeit, in der die Arbeitnehmerin oder der Arbeitn
 
 (4) Bei den Festlegungen nach den Absätzen 2 und 3 ist zu berücksichtigen, ob diese voraussichtlich in besonderem Maße dazu beitragen, die wirtschaftliche Tätigkeit in der Schlechtwetterzeit zu beleben oder die Beschäftigungsverhältnisse der von saisonbedingten Arbeitsausfällen betroffenen Arbeitnehmerinnen und Arbeitnehmer zu stabilisieren.
 
-(5) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-
-1. abweichend von § 96 Absatz 1 Satz 1 Nummer 4 den Anteil der in dem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die vom Entgeltausfall betroffen sein müssen, auf bis zu 10 Prozent herabzusetzen,
-
-2. abweichend von § 96 Absatz 4 Satz 2 Nummer 3 auf den Einsatz negativer Arbeitszeitsalden zur Vermeidung von Kurzarbeit vollständig oder teilweise zu verzichten,
-
-3. eine vollständige oder teilweise Erstattung der von den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen, einzuführen.
-
-Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 31. März 2022 außer Kraft.
+(5) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine vollständige oder teilweise Erstattung der von den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen, einzuführen. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. September 2022 außer Kraft.
 
 # § 110 – Transfermaßnahmen
 
@@ -5903,9 +5899,9 @@ Der Träger der Rentenversicherung und der Rehabilitationsträger sind nicht ver
 
 (5) Für die Beiträge der Bundesagentur zur sozialen Pflegeversicherung für Versicherungspflichtige nach § 20 Abs. 1 Satz 2 Nr. 2 des Elften Buches sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-# § 336 – Leistungsrechtliche Bindung
+# § 336 – (weggefallen)
 
-Stellt die Deutsche Rentenversicherung Bund im Verfahren nach § 7a Abs. 1 des Vierten Buches die Versicherungspflicht nach diesem Buch durch Verwaltungsakt fest, ist die Bundesagentur hinsichtlich der Zeiten, für die der die Versicherungspflicht feststellende Verwaltungsakt wirksam ist, an diese Feststellung leistungsrechtlich gebunden.
+(+++ § 336: Zur Weiteranwendung der bis zum 31. März 2022 geltenden Fassung vgl. § 453 +++)
 
 # § 336a – Wirkung von Widerspruch und Klage
 
@@ -6835,9 +6831,9 @@ Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nich
 
 # § 421c – Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit
 
-(1) Bis zum Ablauf des 31. März 2022 wird Entgelt aus einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezugs von Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht hinzugerechnet.
+(1) Bis zum Ablauf des 30. Juni 2022 wird Entgelt aus einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezugs von Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht hinzugerechnet.
 
-(2) Abweichend von § 105 beträgt das Kurzarbeitergeld vom 1. Januar 2022 bis zum 31. März 2022
+(2) Abweichend von § 105 beträgt das Kurzarbeitergeld vom 1. Januar 2022 bis zum 30. Juni 2022
 
 1. für Arbeitnehmerinnen und Arbeitnehmer, die beim Arbeitslosengeld die Voraussetzungen für den erhöhten Leistungssatz erfüllen würden, ab dem vierten Bezugsmonat 77 Prozent und ab dem siebten Bezugsmonat 87 Prozent,
 
@@ -6846,6 +6842,10 @@ Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nich
 der Nettoentgeltdifferenz im Anspruchszeitraum, wenn die Differenz zwischen Soll- und Ist-Entgelt im jeweiligen Bezugsmonat mindestens 50 Prozent beträgt. Für die Berechnung der Bezugsmonate sind Monate mit Kurzarbeit ab März 2020 zu berücksichtigen.
 
 (3) Die Bezugsdauer für das Kurzarbeitergeld wird für Arbeitnehmerinnen und Arbeitnehmer, deren Anspruch auf Kurzarbeitergeld bis zum Ablauf des 30. Juni 2021 entstanden ist, über die Bezugsdauer nach § 104 Absatz 1 Satz 1 hinaus auf bis zu 28 Monate, längstens bis zum Ablauf des 30. Juni 2022 verlängert.
+
+(4) Das Kurzarbeitergeld wird bis zum Ablauf des 30. Juni 2022 mit den Maßgaben der Sätze 2 und 3 geleistet. Abweichend von § 96 Absatz 1 Satz 1 Nummer 4 wird der Anteil der in dem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die im jeweiligen Kalendermonat (Anspruchszeitraum) von einem Entgeltausfall von jeweils mehr als 10 Prozent ihres monatlichen Bruttoentgelts betroffen sind, auf mindestens 10 Prozent herabgesetzt. § 96 Absatz 4 Satz 2 Nummer 3 gilt nicht für den Aufbau negativer Arbeitszeitsalden.
+
+(5) Die Bundesregierung wird ermächtigt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die in den Absätzen 1 bis 4 genannten Befristungen und die Bezugsdauer nach Absatz 3 zu verlängern. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. September 2022 außer Kraft.
 
 # § 421d – Vorübergehende Sonderregelungen zum Arbeitslosengeld
 
@@ -7104,3 +7104,7 @@ Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli 2019 gel
 1. Beiträge gezahlt, gilt § 25 Absatz 1 Satz 2 Nummer 3 ab Beginn der Beitragszahlung,
 
 2. keine Beiträge gezahlt, gilt § 25 Absatz 1 Satz 2 Nummer 3 ab dem Zeitpunkt, zu dem der Arbeitgeber mit Zustimmung der Teilnehmerin oder des Teilnehmers Beiträge zahlt.
+
+# § 453 – Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
+
+§ 336 in der bis zum 31. März 2022 geltenden Fassung ist weiter anzuwenden, wenn die Deutsche Rentenversicherung Bund im Verfahren nach § 7a Absatz 1 des Vierten Buches in der bis zum 31. März 2022 geltenden Fassung die Versicherungspflicht nach diesem Buch durch Verwaltungsakt festgestellt hat.

@@ -229,7 +229,7 @@ Werden Arbeitnehmer entgegen § 1 Absatz 1 Satz 3 von einer anderen Person über
 
 (3) Der Verleiher hat den Leiharbeitnehmer unverzüglich über den Zeitpunkt des Wegfalls der Erlaubnis zu unterrichten. In den Fällen der Nichtverlängerung (§ 2 Abs. 4 Satz 3), der Rücknahme (§ 4) oder des Widerrufs (§ 5) hat er ihn ferner auf das voraussichtliche Ende der Abwicklung (§ 2 Abs. 4 Satz 4) und die gesetzliche Abwicklungsfrist (§ 2 Abs. 4 Satz 4 letzter Halbsatz) hinzuweisen.
 
-(4) § 622 Abs. 5 Nr. 1 des Bürgerlichen Gesetzbuchs ist nicht auf Arbeitsverhältnisse zwischen Verleihern und Leiharbeitnehmern anzuwenden. Das Recht des Leiharbeitnehmers auf Vergütung bei Annahmeverzug des Verleihers (§ 615 Satz 1 des Bürgerlichen Gesetzbuchs) kann nicht durch Vertrag aufgehoben oder beschränkt werden; § 615 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
+(4) § 622 Abs. 5 Nr. 1 des Bürgerlichen Gesetzbuchs ist nicht auf Arbeitsverhältnisse zwischen Verleihern und Leiharbeitnehmern anzuwenden. Das Recht des Leiharbeitnehmers auf Vergütung bei Annahmeverzug des Verleihers (§ 615 Satz 1 des Bürgerlichen Gesetzbuchs) kann nicht durch Vertrag aufgehoben oder beschränkt werden; § 615 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt. Das Recht des Leiharbeitnehmers auf Vergütung kann durch Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben werden, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten Buch Sozialgesetzbuch gezahlt wird; eine solche Vereinbarung kann das Recht des Leiharbeitnehmers auf Vergütung bis längstens zum Ablauf des 30. Juni 2022 ausschließen.
 
 (5) Der Entleiher darf Leiharbeitnehmer nicht tätig werden lassen, wenn sein Betrieb unmittelbar durch einen Arbeitskampf betroffen ist. Satz 1 gilt nicht, wenn der Entleiher sicherstellt, dass Leiharbeitnehmer keine Tätigkeiten übernehmen, die bisher von Arbeitnehmern erledigt wurden, die
 
@@ -245,7 +245,7 @@ Der Leiharbeitnehmer ist nicht verpflichtet, bei einem Entleiher tätig zu sein,
 
 # § 11a – Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4 Satz 2 geregelte Recht des Leiharbeitnehmers auf Vergütung bei Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben ist, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten Buch Sozialgesetzbuch gezahlt wird. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 31. Dezember 2021 außer Kraft.
+Die Bundesregierung wird ermächtigt, für die Zeit ab dem 1. Juli 2022 durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4 Satz 2 geregelte Recht des Leiharbeitnehmers auf Vergütung bei Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben ist, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten Buch Sozialgesetzbuch gezahlt wird. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 30. September 2022 außer Kraft.
 
 # § 12 – Rechtsbeziehungen zwischen Verleiher und Entleiher
 
