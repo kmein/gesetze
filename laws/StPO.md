@@ -1897,7 +1897,7 @@ Verdeckte Ermittler dürfen unter Verwendung ihrer Legende eine Wohnung mit dem 
 
 # § 110d – Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach den §§ 176e und 184b des Strafgesetzbuches
 
-Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6 des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 oder § 184 Absatz 1 Nummer 1, 2 und 4 des Strafgesetzbuches vorgenommen werden, bedürfen der Zustimmung des Gerichts. In dem Antrag ist darzulegen, dass die handelnden Polizeibeamten auf den Einsatz umfassend vorbereitet wurden. Bei Gefahr im Verzug genügt die Zustimmung der Staatsanwaltschaft. Die Maßnahme ist zu beenden, wenn nicht das Gericht binnen drei Werktagen zustimmt. Die Zustimmung ist schriftlich zu erteilen und zu befristen. Eine Verlängerung ist zulässig, solange die Voraussetzungen für den Einsatz fortbestehen.
+Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6 des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 und 3 oder § 184b Absatz 1 Satz 1 Nummer 1, 2 und 4 sowie Satz 2 des Strafgesetzbuches vorgenommen werden, bedürfen der Zustimmung des Gerichts. In dem Antrag ist darzulegen, dass die handelnden Polizeibeamten auf den Einsatz umfassend vorbereitet wurden. Bei Gefahr im Verzug genügt die Zustimmung der Staatsanwaltschaft. Die Maßnahme ist zu beenden, wenn nicht das Gericht binnen drei Werktagen zustimmt. Die Zustimmung ist schriftlich zu erteilen und zu befristen. Eine Verlängerung ist zulässig, solange die Voraussetzungen für den Einsatz fortbestehen.
 
 # § 111 – Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
 

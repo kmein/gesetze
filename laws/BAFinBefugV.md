@@ -105,9 +105,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 6. Rechtsverordnungen nach Maßgabe des § 16 Satz 2 des Verkaufsprospektgesetzes,
 
-7. Rechtsverordnungen nach Maßgabe des § 4 Absatz 3 Satz 1 und des § 20 Absatz 3 Satz 1 und 2 des Wertpapierprospektgesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie
+7. Rechtsverordnungen nach Maßgabe des § 4 Absatz 3 Satz 1 und des § 20 Absatz 3 Satz 1 und 2 des Wertpapierprospektgesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-8. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen
+8. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen sowie
+
+9. Rechtsverordnungen nach Maßgabe des § 12 Absatz 2b Satz 1 des Restrukturierungsfondsgesetzes
 
 zu erlassen.
 
