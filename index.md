@@ -1811,7 +1811,7 @@
 - [ERPWiPlanG 1967](laws/ERPWiPlanG_1967.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1967
 - [ERPWiPlanG 1968](laws/ERPWiPlanG_1968.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1968
 - [ERPWiPlanG 1969](laws/ERPWiPlanG_1969.md) Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969
-- [ERPWiPlanG 2021](laws/ERPWiPlanG_2021.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2021
+- [ERPWiPlanG 2022](laws/ERPWiPlanG_2022.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2022
 - [ErstAnzV](laws/ErstAnzV.md) Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen
 - [ErstrG](laws/ErstrG.md) Gesetz über die Erstreckung von gewerblichen Schutzrechten
 - [ERVDPMAV](laws/ERVDPMAV.md) Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
@@ -3640,8 +3640,7 @@
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
 - [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
 - [MForschG](laws/MForschG.md) Gesetz über die Durchführung wissenschaftlicher Meeresforschung
-- [MfSÜPrRLBek](laws/MfSÜPrRLBek.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
-- [MfSÜPrRLÜbernBek](laws/MfSÜPrRLÜbernBek.md) Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
+- [MfSÜPrRLBek 2022](laws/MfSÜPrRLBek_2022.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
 - [MgVG](laws/MgVG.md) Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung
 - [MgvG](laws/MgvG.md) Gesetz zur Vorbereitung der Schaffung von Baurecht durch Maßnahmengesetz im Verkehrsbereich
 - [MietNEinV](laws/MietNEinV.md) Verordnung zur Einstufung der Gemeinden in eine Mietniveaustufe im Sinne des § 254 des Bewertungsgesetzes
@@ -6364,6 +6363,7 @@
 - [WZMEXBek](laws/WZMEXBek.md) Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko
 - [WZURYBek](laws/WZURYBek.md) Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Uruguay
 - [WZZAFBek](laws/WZZAFBek.md) Bekanntmachung über den Schutz deutscher Warenbezeichnungen in der Südafrikanischen Union und in Südwestafrika
+- [XBasisdatenV](laws/XBasisdatenV.md) Verordnung zur Einführung eines Datenübermittlungsstandards XBasisdaten
 - [YUGStrGHG](laws/YUGStrGHG.md) Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof für das ehemalige Jugoslawien
 - [ZAG](laws/ZAG.md) Gesetz über die Beaufsichtigung von Zahlungsdiensten
 - [ZAGAnzV](laws/ZAGAnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz*)
