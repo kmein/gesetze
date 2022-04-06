@@ -785,7 +785,7 @@ Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in denen Geburtshil
 
 5. auf das Sachrecht, dem die Namensführung des Kindes unterliegt.
 
-§ 21 Abs. 1 Nr. 3 iVm § 22 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 iVm Art. 1 Abs 1 und mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 10.10.2017 I 3783 - 1 BvR 2019/16 -; der Gesetzgeber ist verpflichtet, bis zum 31.12.2018 eine verfassungsgemäße Regelung herbeizuführen
+§ 21 Abs. 1 Nr. 3 iVm § 22 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 iVm Art. 1 Abs 1 und mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 10.10.2017 I 3783 - 1 BvR 2019/16 -; der Gesetzgeber ist verpflichtet, bis zum 31.12.2018 eine verfassungsgemäße Regelung herbeizuführen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 18.12.2018 I 2635 mWv 22.12.2018.
 
 # § 22 – Fehlende Angaben
 

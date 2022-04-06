@@ -82,10 +82,13 @@ Aus dem Ansatz können auch Ausgaben für Mandatar-/Projekt-/Verwaltungskosten g
 Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge der Neuordnung nicht auf den Bund übertragenen Kreditforderungen (Altgeschäft) und aus sonstigen Verpflichtungen im Zuge der Neuordnung der ERP-Wirtschaftsförderung sowie die Kosten aus Zusagen nach der Neuordnung der ERP-Wirtschaftsförderung bis einschließlich 31. Dezember 2021.
 
 Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 1 330,5 Mio. Euro, davon fällig:  
-Jahr 2023 bis     123,1 Mio. Euro   
-Jahr 2024 bis zu     107,0 Mio. Euro   
-Jahr 2025 bis zu      92,9 Mio. Euro   
-in künftigen Haushaltsjahren   1 007,5 Mio. Euro.
+
+|                                                             |                    |
+|:------------------------------------------------------------|-------------------:|
+| Jahr 2023 bis ............................................. |    123,1 Mio. Euro |
+| Jahr 2024 bis zu ........................................   |    107,0 Mio. Euro |
+| Jahr 2025 bis zu ........................................   |     92,9 Mio. Euro |
+| in künftigen Haushaltsjahren .....................          | 1 007,5 Mio. Euro. |
 
  
 
@@ -120,7 +123,7 @@ die Bedienung von Kapitalabrufen der High-Tech Gründerfonds I, II, III und V so
 die Bedienung von Kapitalabrufen des Fonds Coparion;
 
 –  
-die Beteiliung des ERP-Sondervermögens am Wachstumsfonds Deutschland;
+die Beteiligung des ERP-Sondervermögens am Wachstumsfonds Deutschland;
 
 –  
 Weitere Maßnahmen sind der Mikromezzaninfonds zusammen mit dem Europäischen Sozialfonds (ESF), Beteiligungen an Frühphasen- und mittelstandsorientierten Beteiligungsgesellschaften.
@@ -340,3 +343,5 @@ Diese zur Abdeckung der ERP-Förderlasten 2020 zur Verfügung stehenden Erträge
 Eine Dotierung der ERP-Risikodeckungsmasse war zum 31.12.2020 nicht erforderlich, da das ERP-Beteiligungsvolumen der KfW Capital unterhalb der Initialausstattung von 850 Mio. EUR liegt. Der Saldo der ERP-Gewinnrücklage I beläuft sich zum 31.12.2020 auf 1 403,4 Mio. EUR.
 
 Somit wurden die aus dem eingebrachten Kapital erzielten Erträge für die ERP-Förderung eingesetzt bzw. dem ERP-Sondervermögen zugeführt. Die Ordnungsmäßigkeit der Berichterstattung zum 31.12.2020 wird vertragsgemäß durch einen Wirtschaftsprüfer geprüft und bestätigt.
+
+Kapitel 1 Tabelle Spalte 6 zu Tit. 682 02 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Beteiliung" durch das Wort "Beteiligung" ersetzt
