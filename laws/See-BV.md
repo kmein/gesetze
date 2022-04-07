@@ -171,7 +171,7 @@ nachweisen.
 
 (3) Absatz 1 Satz 1 Nummer 1 und 2 ist auf die Erteilung von Anerkennungsvermerken und Gleichwertigkeitsbescheinigungen entsprechend anzuwenden. Für die Erteilung von Seeleute-Ausweisen ist Absatz 1 Satz 1 Nummer 1 entsprechend anzuwenden.
 
-(+++ § 5 Abs. 2: Zur Anwendung vgl. § 53 Abs. 4 Satz 1 +++)
+(+++ § 5 Abs. 2: Zur Anwendung vgl. § 53 Abs. 5 Satz 1 +++)
 
 # § 6 – Mindestalter
 
@@ -787,8 +787,6 @@ nachzuweisen.
 
 2. nach bestandener Abschlussprüfung Teil 1 die Befähigungsnachweise Wachbefähigung Brücke, Wachbefähigung Maschine und zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten.
 
-(+++ § 43 Abs. 2 Nr. 1: Zur Anwendung vgl. § 24 Satz 2 +++)
-
 # § 44 – Befähigungsnachweis hinsichtlich der grundlegenden Anforderungen an die Sicherheit an Bord (Sicherheitsgrundausbildung)
 
 (1) Für Seeleute, die in irgendeiner Funktion an Bord des Schiffes als Teil der Schiffsbesatzung im Rahmen der Betriebsführung des Schiffes dauernd oder vorübergehend mit zugewiesenen Aufgaben in den Bereichen Sicherheit oder Verschmutzungsverhütung beschäftigt sind, wird auf Antrag der Befähigungsnachweis über eine Sicherheitsgrundausbildung SGA erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung für alle Personen an Bord, die keine Fahrgäste sind, muss ein Besatzungsmitglied, dem Aufgaben im Hinblick auf die Gewährleistung der Schiffssicherheit und der Verhinderung von Umweltverschmutzung an Bord zugewiesen werden sollen, Inhaber des Befähigungsnachweises über den Abschluss der Sicherheitsgrundausbildung sein.
@@ -913,8 +911,6 @@ b) den Abschluss einer vom Bundesamt zugelassenen verkürzten Ausbildung als üb
 
 2. den Abschluss eines zugelassenen Lehrgangs GAS-F nach den Anforderungen des Abschnitts A-V/1-2 Absatz 2 des STCW-Codes.
 
-(+++ § 50 Abs. 2 Nr. 2: IdF d. Art. 1 Nr. 45 Buchst. b DBuchst. bb V. v. 28.7.2021 I 3236 mWv 31.7.2021; (bezeichnet als Abs. 2 Nr. 1; die Änderung wurde sinngemäß konsolidiert) +++)
-
 # § 50a – Befähigungsnachweise für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
 
 (1) Für Kapitäne, Schiffsoffiziere und jedes weitere Besatzungsmitglied, die für spezifische Sicherheitsaufgaben im Zusammenhang mit der sorgfältigen Behandlung und der Verwendung von Brennstoffen sowie mit den diesbezüglichen Notfallmaßnahmen an Bord von Schiffen, die dem IGF-Code unterliegen, verantwortlich sind, wird auf Antrag der Befähigungsnachweis über eine Grundausbildung für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen, IGF-G erteilt.
@@ -988,8 +984,6 @@ nachzuweisen.
 1. Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen und zum Schiffsmaschinisten,
 
 2. Befähigungsnachweise für den nautischen, technischen und elektrotechnischen Schiffsdienst und im Gesamtschiffsbetrieb sowie für die Gefahrenabwehr auf dem Schiff.
-
-(+++ § 52 Abs. 1 Satz 3: IdF d. Art. 1 Nr. 50 Buchst. a DBuchst. aa V. v. 28.7.2021 I 3236 mWv 31.7.2021; (bezeichnet als Abs. 1 Satz 2; die Änderung wurde sinngemäß konsolidiert) +++)
 
 # § 53 – Gültigkeitsverlängerung von Befähigungszeugnissen
 
@@ -1177,13 +1171,15 @@ Die Begriffe des Satzes 1 können zusätzlich in englischer Übersetzung verwend
 
 # Anlage 1 – (zu § 2)Abkürzungen
 
-(Fundstelle: BGBl. I 2014, 482)
+(Fundstelle: BGBl. I 2014, 482;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Für Befähigungszeugnisse und Befähigungsnachweise im nautischen Schiffsdienst, Seefunkdienst, technischen und elektrotechnischen Schiffsdienst, Gesamtschiffsbetrieb, Schiffssicherheitsdienst, in der Gefahrenabwehr und für den Schiffsdienst auf besonderen Schiffstypen werden die nachfolgenden Abkürzungen verwendet:
 
 # Anlage 2 – (zu § 5)Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
 
-(Fundstelle: BGBl. I 2014, 483)
+(Fundstelle: BGBl. I 2014, 483;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 1. Lehrgänge
 
