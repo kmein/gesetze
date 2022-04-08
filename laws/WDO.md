@@ -2120,8 +2120,6 @@ c) in einem früheren, dieselbe Sache betreffenden Beschwerdeverfahren, Verfahre
 
 (4) Die Einleitungsbehörde hat auf Verlangen des Bundeswehrdisziplinaranwalts ein gerichtliches Disziplinarverfahren einzuleiten, wenn im Verfahren voraussichtlich auf Entfernung aus dem Dienstverhältnis, auf Aberkennung des Ruhegehalts, auf Aberkennung des Dienstgrades oder auf Dienstgradherabsetzung erkannt werden wird und die Einleitungsbehörde die Einleitung des Verfahrens zuvor entgegen einem Vorschlag des Wehrdisziplinaranwalts abgelehnt hat. Auf sein Ersuchen sind dem Bundeswehrdisziplinaranwalt die Akten, die für die Beurteilung eines Dienstvergehens von Bedeutung sein können, sowie die Personalakten vorzulegen. Absatz 3 Satz 2 und § 98 Abs. 1 und 2 bleiben unberührt.
 
-(+++ § 81 Abs. 1 Satz 2: Aufgrund offensichtlicher Unrichtigkeit wurden gem. Art. 24 Abs. 2 G v. 25.6.2021 I 2154 anstelle der Wörter "oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen" die Wörter "oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen" gestrichen +++)
-
 # § 82 – Verfahren gegen frühere Soldaten
 
 (1) Schwebt gegen einen Soldaten, der in den Ruhestand versetzt wird oder sonst ohne Verlust des Dienstgrades aus seinem Dienstverhältnis ausscheidet, ein gerichtliches Disziplinarverfahren, wird dessen Fortsetzung durch die Beendigung des Dienstverhältnisses nicht berührt.
@@ -2183,8 +2181,6 @@ Soldaten werden zur Hauptverhandlung sowie zu sonstigen Vernehmungen dienstlich 
 (2) Verteidiger vor dem Truppendienstgericht können Rechtsanwälte und andere Personen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben, sowie Soldaten sein. Als Verteidiger vor dem Bundesverwaltungsgericht sind nur Personen zugelassen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben.
 
 (3) Dem Verteidiger steht das Recht, Einsicht in die Akten zu nehmen, in gleichem Umfang zu wie dem Soldaten.
-
-(+++ § 90 Abs. 2 Satz 1 u. 2: Aufgrund offensichtlicher Unrichtigkeit wurden gem. Art. 24 Abs. 2 G v. 25.6.2021 I 2154 anstelle der Wörter "oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen" die Wörter "oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen" gestrichen +++)
 
 # § 91 – Ergänzende Vorschriften
 
