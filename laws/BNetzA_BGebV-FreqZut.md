@@ -78,7 +78,7 @@ Allgemeine Gebühren
 
 A.1
 
-Erstellen einer zusätzlichen Ausfertigung eines Frequenz-zuteilungsbescheids in nicht-elektronischer Form
+Erstellen einer zusätzlichen Ausfertigung eines Frequenzzuteilungsbescheids in nicht-elektronischer Form
 
 25
 
