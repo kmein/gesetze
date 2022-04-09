@@ -10805,7 +10805,7 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 # § 797 – Verfahren bei vollstreckbaren Urkunden
 
-(1) Die vollsteckbare Ausfertigung wird erteilt bei
+(1) Die vollstreckbare Ausfertigung wird erteilt bei
 
 1. gerichtlichen Urkunden von dem Urkundsbeamten der Geschäftsstelle des die Urkunde verwahrenden Gerichts,
 
