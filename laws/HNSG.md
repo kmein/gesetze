@@ -55,9 +55,13 @@ In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere die Mitteilu
 
 (5) Assoziierte Personen im Sinne von Artikel 16 Absatz 6 des HNS-Übereinkommens 2010 sind rechtlich selbständige Unternehmen, die im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind. Ob Unternehmen im Sinne von Satz 1 im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
-# § 8 – (zukünftig in Kraft)
+# § 8 – Verordnungsermächtigung
 
-(+++ § 8: Tritt gem. Art. 11 Abs. 2 Satz 1 G v. 16.7.2021 I 3079 an dem Tag in Kraft, an dem das HNS-Übereinkommen 2010 vom 30. April 2010 (BGBl. 2021 II S. 670, 671) nach seinem Artikel 46 für die Bundesrepublik Deutschland in Kraft tritt +++)
+(1) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach § 7 Absatz 1 bis 3 zugewiesenen Aufgaben durch Rechtsverordnung auf eine nachgeordnete Behörde übertragen.
+
+(2) Das Bundesministerium für Wirtschaft und Energie erlässt im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über die in § 7 Absatz 2 Satz 1 vorgesehenen Angaben, ihre Form und die zu wahrenden Fristen.
+
+(+++ § 8: Tritt gem. Art. 11 Abs. 1 Satz 1 G v. 16.7.2021 I 3079, 5241 mWv 27.7.2021 in Kraft +++)
 
 # § 9 – (zukünftig in Kraft)
 

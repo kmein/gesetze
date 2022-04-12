@@ -735,9 +735,9 @@ Ist durch Gesetz notarielle Beurkundung eines Vertrags vorgeschrieben, so genüg
 
 # § 132 – Ersatz des Zugehens durch Zustellung
 
-(1) Eine Willenserklärung gilt auch dann als zugegangen, wenn sie durch Vermittlung eines Gerichtsvollziehers zugestellt worden ist. Die Zustellung erfolgt nach den Vorschriften der Zivilprozeßordnung.
+(1) Eine Willenserklärung gilt auch dann als zugegangen, wenn sie durch Vermittlung eines Gerichtsvollziehers zugestellt worden ist. Die Zustellung erfolgt nach den Vorschriften der Zivilprozessordnung.
 
-(2) Befindet sich der Erklärende über die Person desjenigen, welchem gegenüber die Erklärung abzugeben ist, in einer nicht auf Fahrlässigkeit beruhenden Unkenntnis oder ist der Aufenthalt dieser Person unbekannt, so kann die Zustellung nach den für die öffentliche Zustellung geltenden Vorschriften der Zivilprozeßordnung erfolgen. Zuständig für die Bewilligung ist im ersteren Fall das Amtsgericht, in dessen Bezirk der Erklärende seinen Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes seinen Aufenthalt hat, im letzteren Falle das Amtsgericht, in dessen Bezirk die Person, welcher zuzustellen ist, den letzten Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes den letzten Aufenthalt hatte.
+(2) Befindet sich der Erklärende über die Person desjenigen, welchem gegenüber die Erklärung abzugeben ist, in einer nicht auf Fahrlässigkeit beruhenden Unkenntnis oder ist der Aufenthalt dieser Person unbekannt, so kann die Zustellung nach den für die öffentliche Zustellung geltenden Vorschriften der Zivilprozessordnung erfolgen. Zuständig für die Bewilligung ist im ersteren Falle das Amtsgericht, in dessen Bezirk der Erklärende seinen Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes seinen Aufenthalt hat, im letzteren Falle das Amtsgericht, in dessen Bezirk die Person, welcher zuzustellen ist, den letzten Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes den letzten Aufenthalt hatte.
 
 # § 133 – Auslegung einer Willenserklärung
 
@@ -1899,7 +1899,7 @@ die nach Nummer 3 zulässige Vereinbarung eines Vorbehalts des Verwenders, sich 
 
 a) den Vertragspartner unverzüglich über die Nichtverfügbarkeit zu informieren und
 
-b) Gegenleistungen des Vertragspartners unverzüglich zu erstatten,
+b) Gegenleistungen des Vertragspartners unverzüglich zu erstatten;
 
 9. (Abtretungsausschluss)
 

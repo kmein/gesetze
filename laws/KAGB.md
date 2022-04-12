@@ -335,8 +335,7 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 
 Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe Kapitalverwaltungsgesellschaft und hat sie zugleich eine Erlaubnis als externe OGAW-Kapitalverwaltungsgesellschaft nach den §§ 20 und 21, kann sie abweichend von Satz 1 neben Portfolios Europäischer Fonds für soziales Unternehmertum auch OGAW verwalten; in diesem Fall sind auf die AIF-Kapitalverwaltungsgesellschaft neben Kapitel 6 auch die für die Verwaltung von OGAW geltenden Vorschriften dieses Gesetzes anzuwenden.
 
-(+++ § 2: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)  
-§ 2 Abs. 5 Satz 1 Nr. 4 Kursivdruck: Früher Nr. 3 gem. u. idF d. Art. 1 Nr. 3 Buchst. d DBuchst. cc G v. 3.3.2016 I 348 mWv 18.3.2016 (abweichend vom Bundesgesetzblatt wurden an Stelle der Wörter "§ 44 Absatz 1, 4 bis 7" die Wörter "§ 44 Absatz 1, 3 bis 7" durch die Wörter "§ 44 Absatz 1, 4 bis 9" ersetzt)
+(+++ § 2: Zur Anwendung vgl. § 5 Abs. 5a +++)
 
 # § 3 – Bezeichnungsschutz
 
@@ -1726,8 +1725,6 @@ Bei einer Kapitalverwaltungsgesellschaft, bei der die Voraussetzungen nach § 2 
 
 § 264 Absatz 1 Satz 4 erster Halbsatz, Absatz 3 und 4 sowie § 264b des Handelsgesetzbuchs sind nicht anzuwenden.
 
-(+++ § 45: Zur Anwendung vgl. § 353 Abs. 5, § 344a u. § 356 Satz 1 +++)
-
 # § 45a – Abschlussprüfung bei registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
 
 (1) Der Jahresabschluss und der Lagebericht einer Kapitalverwaltungsgesellschaft im Sinne des § 45 sind durch einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen. Die Prüfung ist spätestens vor Ablauf des neunten Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs vorzunehmen.
@@ -1752,8 +1749,6 @@ Bei einem extern verwalteten geschlossenen inländischen Spezial-AIF, für desse
 
 § 264 Absatz 1 Satz 4 erster Halbsatz, Absatz 3 und 4 sowie § 264b des Handelsgesetzbuchs sind nicht anzuwenden.
 
-(+++ § 46: Zur Anwendung vgl. § 353 Abs. 5 +++)
-
 # § 47 – Abschlussprüfung bei extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden; Verordnungsermächtigung
 
 (1) Der Jahresabschluss und der Lagebericht eines geschlossenen inländischen Spezial-AIF im Sinne des § 46 sind durch einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen.
@@ -1765,8 +1760,6 @@ Bei einem extern verwalteten geschlossenen inländischen Spezial-AIF, für desse
 (4) Der Prüfungsbericht ist der Bundesanstalt auf Verlangen vom Abschlussprüfer einzureichen.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang und Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur Art und Weise der Einreichung des Prüfungsberichts des Abschlussprüfers bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit von geschlossenen inländischen Spezial-AIF zu erhalten, für deren Rechnung AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des § 2 Absatz 4 Satz 2 erfüllen, Gelddarlehen gemäß § 285 Absatz 2 oder § 292a Absatz 2 vergeben. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
-
-(+++ § 47: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
 # § 48 – (weggefallen)
 
@@ -3297,7 +3290,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang und Darstellung des Jahresabschlusses und des Lageberichts sowie zur Art und Weise ihrer Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der Tätigkeit der Investmentaktiengesellschaft mit veränderlichem Kapital zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(+++ § 120: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs 1 Satz 1 u. Abs. 2 u. § 148 Abs. 1 +++)
+(+++ § 120: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs. 1 Satz 1 u. Abs. 2 u. § 148 Abs. 1 +++)
 
 # § 121 – Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung
 
@@ -3359,7 +3352,7 @@ Die Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuchs sind a
 
 (5) Die Publikumsinvestmentaktiengesellschaft mit veränderlichem Kapital hat der Bundesanstalt den Halbjahresbericht unverzüglich nach der Erstellung zu übermitteln.
 
-(+++ § 123: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 148 Abs. 1 u. § 344a +++)
+(+++ § 123: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 148 Abs. 1 +++)
 
 # § 124 – Rechtsform, anwendbare Vorschriften
 
@@ -5234,6 +5227,8 @@ AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der B
 
 (2) Das Immobilien-Sondervermögen darf nicht für eine begrenzte Dauer gebildet werden.
 
+(+++ § 230: Zur Anwendung vgl. § 260a +++)
+
 # § 231 – Zulässige Vermögensgegenstände; Anlagegrenzen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für ein Immobilien-Sondervermögen nur folgende Vermögensgegenstände erwerben:
@@ -5284,6 +5279,8 @@ bewertet wurde,
 
 (5) Im Fall des § 234 sind die von der Immobilien-Gesellschaft gehaltenen Vermögensgegenstände bei dem Immobilien-Sondervermögen bei der Anwendung der in den Absätzen 1 und 2, §§ 232 und 233 genannten Anlagebeschränkungen und der Berechnung der dort genannten Grenzen entsprechend der Beteiligungshöhe zu berücksichtigen.
 
+(+++ § 231: Zur Anwendung vgl. § 260a +++)
+
 # § 232 – Erbbaurechtsbestellung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf ein Grundstück nur unter den in den Anlagebedingungen festgelegten Bedingungen mit einem Erbbaurecht belasten.
@@ -5295,6 +5292,8 @@ bewertet wurde,
 (4) Ein Erbbaurecht darf nicht bestellt werden, wenn der Wert des Grundstücks, an dem das Erbbaurecht bestellt werden soll, zusammen mit dem Wert der Grundstücke, an denen bereits Erbbaurechte bestellt worden sind, 10 Prozent des Wertes des Immobilien-Sondervermögens übersteigt.
 
 (5) Die Verlängerung eines Erbbaurechts gilt als Neubestellung.
+
+(+++ § 232: Zur Anwendung vgl. § 260a +++)
 
 # § 233 – Vermögensgegenstände in Drittstaaten; Währungsrisiko
 
@@ -5311,6 +5310,8 @@ bewertet wurde,
 5. die Wahrnehmung der Rechte und Pflichten der Verwahrstelle gewährleistet ist.
 
 (2) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass die für Rechnung eines Immobilien-Sondervermögens gehaltenen Vermögensgegenstände nur insoweit einem Währungsrisiko unterliegen, als der Wert der einem solchen Risiko unterliegenden Vermögensgegenstände 30 Prozent des Wertes des Sondervermögens nicht übersteigt.
+
+(+++ § 233: Zur Anwendung vgl. § 260a +++)
 
 # § 234 – Beteiligung an Immobilien-Gesellschaften
 
@@ -5329,6 +5330,8 @@ Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des Immobilien-Sonderv
 6. die AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens unmittelbar oder mittelbar mit 100 Prozent des Kapitals und der Stimmrechte an der Immobilien-Gesellschaft beteiligt ist, es sei denn, dass die Immobilien-Gesellschaft mit 100 Prozent des Kapitals und der Stimmrechte an allen von ihr unmittelbar oder mittelbar gehaltenen Immobilien-Gesellschaften beteiligt ist.
 
 Abweichend von Satz 1 Nummer 4 darf die AIF-Kapitalverwaltungsgesellschaft Beteiligungen an einer Immobilien-Gesellschaft auch dann erwerben und halten, wenn sie nicht die für eine Änderung der Satzung erforderliche Stimmen- und Kapitalmehrheit hat (Minderheitsbeteiligung). In diesem Fall ist die Anlagegrenze nach § 237 Absatz 3 zu beachten.
+
+(+++ § 234: Zur Anwendung vgl. § 260a +++)
 
 # § 235 – Anforderungen an die Immobilien-Gesellschaften
 
@@ -5351,6 +5354,8 @@ Abweichend von Satz 1 Nummer 4 darf die AIF-Kapitalverwaltungsgesellschaft Betei
 (3) Entspricht der Gesellschaftsvertrag oder die Satzung der Immobilien-Gesellschaft nicht den Vorschriften der Absätze 1 und 2, so darf die AIF-Kapitalverwaltungsgesellschaft die Beteiligung an der Immobilien-Gesellschaft nur erwerben, wenn sichergestellt ist, dass der Gesellschaftsvertrag oder die Satzung unverzüglich nach dem Erwerb der Beteiligung entsprechend geändert wird.
 
 (4) Die Gesellschafter einer Immobilien-Gesellschaft, an der die AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens beteiligt ist, müssen ihre Einlagen vollständig eingezahlt haben.
+
+(+++ § 235: Zur Anwendung vgl. § 260a +++)
 
 # § 236 – Erwerb der Beteiligung; Wertermittlung durch Abschlussprüfer
 
@@ -5376,6 +5381,8 @@ b) nicht zugleich die regelmäßige Bewertung gemäß den §§ 249 und 251 Absat
 
 c) nicht zugleich Abschlussprüfer ist oder sind.
 
+(+++ § 236: Zur Anwendung vgl. § 260a +++)
+
 # § 237 – Umfang der Beteiligung; Anlagegrenzen
 
 (1) Der Wert aller Vermögensgegenstände, die zum Vermögen der Immobilien-Gesellschaften gehören, an denen die AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens beteiligt ist, darf 49 Prozent des Wertes des Immobilien-Sondervermögens nicht übersteigen.
@@ -5392,9 +5399,13 @@ c) nicht zugleich Abschlussprüfer ist oder sind.
 
 (7) Wenn nach Erwerb einer Minderheitsbeteiligung die Voraussetzungen für den Erwerb und das Halten der Beteiligung nicht mehr erfüllt sind, hat die AIF-Kapitalverwaltungsgesellschaft die Veräußerung der Beteiligung unter Wahrung der Interessen der Anleger anzustreben.
 
+(+++ § 237: Zur Anwendung vgl. § 260a +++)
+
 # § 238 – Beteiligungen von Immobilien-Gesellschaften an Immobilien-Gesellschaften
 
 Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-Gesellschaften gelten § 231 Absatz 5, § 235 Absatz 2 bis 4 sowie die §§ 236, 237 Absatz 1 bis 6 entsprechend.
+
+(+++ § 238: Zur Anwendung vgl. § 260a +++)
 
 # § 239 – Verbot und Einschränkung von Erwerb und Veräußerung
 
@@ -5407,6 +5418,8 @@ Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-Gesellsch
 2. an ein Unternehmen im Sinne des Absatzes 1 Satz 2 veräußern oder
 
 3. auf einen anderen AIF übertragen, der von ihr oder einem Unternehmen im Sinne des Absatzes 1 Satz 2 verwaltet wird.
+
+(+++ § 239: Zur Anwendung vgl. § 260a +++)
 
 # § 240 – Darlehensgewährung an Immobilien-Gesellschaften
 
@@ -5430,13 +5443,19 @@ Satz 1 gilt nicht für Darlehen, die für Rechnung des Immobilien-Sondervermöge
 
 (3) Einer Darlehensgewährung nach den Absätzen 1 und 2 Satz 1 steht gleich, wenn ein Dritter im Auftrag der AIF-Kapitalverwaltungsgesellschaft der Immobilien-Gesellschaft ein Darlehen im eigenen Namen für Rechnung des Immobilien-Sondervermögens gewährt.
 
+(+++ § 240: Zur Anwendung vgl. § 260a +++)
+
 # § 241 – Zahlungen, Überwachung durch die Verwahrstelle
 
 Die AIF-Kapitalverwaltungsgesellschaft hat mit der Immobilien-Gesellschaft zu vereinbaren, dass die der AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens zustehenden Zahlungen, der Liquidationserlös und sonstige der AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens zustehende Beträge unverzüglich auf ein Konto nach § 83 Absatz 6 Satz 2 einzuzahlen sind. Satz 1 gilt entsprechend für Immobilien-Gesellschaften, die Beteiligungen an anderen Immobilien-Gesellschaften erwerben oder halten.
 
+(+++ § 241: Zur Anwendung vgl. § 260a +++)
+
 # § 242 – Wirksamkeit eines Rechtsgeschäfts
 
 Die Nichtbeachtung der vorstehenden Vorschriften berührt die Wirksamkeit des Rechtsgeschäfts nicht.
+
+(+++ § 242: Zur Anwendung vgl. § 260a +++)
 
 # § 243 – Risikomischung
 
@@ -5444,19 +5463,27 @@ Die Nichtbeachtung der vorstehenden Vorschriften berührt die Wirksamkeit des Re
 
 (2) Als Immobilie im Sinne des Absatzes 1 gilt auch eine aus mehreren Immobilien bestehende wirtschaftliche Einheit.
 
+(+++ § 243: Zur Anwendung vgl. § 260a +++)
+
 # § 244 – Anlaufzeit
 
 Die Anlagegrenzen in den §§ 231 bis 238 und 243 sowie § 253 Absatz 1 Satz 1 gelten für das Immobilien-Sondervermögen einer AIF-Kapitalverwaltungsgesellschaft erst, wenn seit dem Zeitpunkt der Bildung dieses Sondervermögens eine Frist von vier Jahren verstrichen ist.
 
+(+++ § 244: Zur Anwendung vgl. § 260a +++)
+
 # § 245 – Treuhandverhältnis
 
 Abweichend von § 92 Absatz 1 können Vermögensgegenstände, die zum Immobilien-Sondervermögen gehören, nur im Eigentum der AIF-Kapitalverwaltungsgesellschaft stehen.
+
+(+++ § 245: Zur Anwendung vgl. § 260a +++)
 
 # § 246 – Verfügungsbeschränkung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat dafür zu sorgen, dass die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 in das Grundbuch eingetragen wird. Ist bei ausländischen Grundstücken die Eintragung der Verfügungsbeschränkung in ein Grundbuch oder ein vergleichbares Register nicht möglich, so ist die Wirksamkeit der Verfügungsbeschränkung in anderer geeigneter Form sicherzustellen.
 
 (2) Die AIF-Kapitalverwaltungsgesellschaft kann gegenüber dem Grundbuchamt die Bestellung der Verwahrstelle durch eine Bescheinigung der Bundesanstalt nachweisen, aus der sich ergibt, dass die Bundesanstalt die Auswahl als Verwahrstelle genehmigt hat und von ihrem Recht, der AIF-Kapitalverwaltungsgesellschaft einen Wechsel der Verwahrstelle aufzuerlegen, keinen Gebrauch gemacht hat.
+
+(+++ § 246: Zur Anwendung vgl. § 260a +++)
 
 # § 247 – Vermögensaufstellung
 
@@ -5492,6 +5519,8 @@ Die im Berichtszeitraum getätigten Käufe und Verkäufe von Immobilien und Bete
 
 Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert anzusetzen. Die Angaben nach Absatz 1 für die Immobilien und sonstigen Vermögensgegenstände der Immobilien-Gesellschaft sind nachrichtlich aufzuführen und besonders zu kennzeichnen.
 
+(+++ § 247: Zur Anwendung vgl. § 260a +++)
+
 # § 248 – Sonderregeln für die Bewertung
 
 (1) § 168 ist mit den Maßgaben der Absätze 2 bis 4 anzuwenden.
@@ -5501,6 +5530,8 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 (3) Die Anschaffungsnebenkosten eines Vermögensgegenstandes im Sinne des § 231 Absatz 1 sowie des § 234 sind gesondert anzusetzen und über die voraussichtliche Dauer seiner Zugehörigkeit zum Immobilien-Sondervermögen in gleichen Jahresbeträgen abzuschreiben, längstens jedoch über einen Zeitraum von zehn Jahren. Wird ein Vermögensgegenstand veräußert, sind die Anschaffungsnebenkosten in voller Höhe abzuschreiben. Die Abschreibungen sind nicht in der Ertrags- und Aufwandsrechnung zu berücksichtigen.
 
 (4) Der Wert der Beteiligung an einer Immobilien-Gesellschaft ist nach den für die Bewertung von Unternehmensbeteiligungen allgemein anerkannten Grundsätzen zu ermitteln. Die im Jahresabschluss oder in der Vermögensaufstellung der Immobilien-Gesellschaft ausgewiesenen Immobilien sind dabei mit dem Wert anzusetzen, der entsprechend § 249 Absatz 1 festgestellt wurde.
+
+(+++ § 248: Zur Anwendung vgl. § 260a +++)
 
 # § 249 – Sonderregeln für das Bewertungsverfahren
 
@@ -5518,6 +5549,8 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (3) Der auf Grund der Vermögensaufstellungen ermittelte Wert der Beteiligung an einer Immobilien-Gesellschaft ist den Bewertungen zur laufenden Preisermittlung zugrunde zu legen.
 
+(+++ § 249: Zur Anwendung vgl. § 260a +++)
+
 # § 250 – Sonderregeln für den Bewerter
 
 (1) § 216 ist mit der Maßgabe anzuwenden, dass
@@ -5528,11 +5561,15 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (2) Ein externer Bewerter darf für eine AIF-Kapitalverwaltungsgesellschaft für die Bewertung von Vermögensgegenständen im Sinne des § 231 Absatz 1 Satz 1 Nummer 1 bis 6 nur für einen Zeitraum von maximal drei Jahren tätig sein. Die Einnahmen des externen Bewerters aus seiner Tätigkeit für die AIF-Kapitalverwaltungsgesellschaft dürfen 30 Prozent seiner Gesamteinnahmen, bezogen auf das Geschäftsjahr des externen Bewerters, nicht überschreiten. Die Bundesanstalt kann verlangen, dass ihr entsprechende Nachweise vorgelegt werden. Die AIF-Kapitalverwaltungsgesellschaft darf einen externen Bewerter erst nach Ablauf von zwei Jahren seit Ende des Zeitraums nach Satz 1 erneut als externen Bewerter bestellen.
 
+(+++ § 250: Zur Anwendung vgl. § 260a +++)
+
 # § 251 – Sonderregeln für die Häufigkeit der Bewertung
 
 (1) § 217 ist mit der Maßgabe anzuwenden, dass der Wert der Vermögensgegenstände im Sinne des § 231 Absatz 1 und des § 234 innerhalb eines Zeitraums von drei Monaten zu ermitteln ist. Sehen die Anlagebedingungen eines Immobilien-Sondervermögens gemäß § 255 Absatz 2 die Rücknahme von Anteilen seltener als alle drei Monate vor, ist der Wert der Vermögensgegenstände im Sinne des § 231 Absatz 1 und des § 234 innerhalb eines Zeitraums von drei Monaten vor jedem Rücknahmetermin zu ermitteln. Abweichend von Satz 1 und 2 ist der Wert stets erneut zu ermitteln und anzusetzen, wenn nach Auffassung der AIF-Kapitalverwaltungsgesellschaft der zuletzt ermittelte Wert auf Grund von Änderungen wesentlicher Bewertungsfaktoren nicht mehr sachgerecht ist; die AIF-Kapitalverwaltungsgesellschaft hat ihre Entscheidung und die Gründe dafür nachvollziehbar zu dokumentieren.
 
 (2) Absatz 1 gilt entsprechend für die Bewertung der im Jahresabschluss oder in der Vermögensaufstellung der Immobilien-Gesellschaft ausgewiesenen Immobilien.
+
+(+++ § 251: Zur Anwendung vgl. § 260a +++)
 
 # § 252 – Ertragsverwendung
 
@@ -5541,6 +5578,8 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 (2) Mindestens 50 Prozent der Erträge des Sondervermögens müssen ausgeschüttet werden, sofern sie nicht für künftige erforderliche Instandsetzungen einzubehalten sind; realisierte Gewinne aus Veräußerungsgeschäften sind keine Erträge im Sinne dieses Absatzes.
 
 (3) Die Anlagebedingungen müssen angeben, ob und in welchem Umfang Erträge zum Ausgleich von Wertminderungen der Vermögensgegenstände des Sondervermögens und für künftige erforderliche Instandsetzungen nach Absatz 1 einbehalten werden.
+
+(+++ § 252: Zur Anwendung vgl. § 260a +++)
 
 # § 253 – Liquiditätsvorschriften
 
@@ -5586,6 +5625,8 @@ sofern die Verbindlichkeiten in den folgenden zwei Jahren fällig werden.
 
 (3) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines Immobilien-Sondervermögens Wertpapier-Darlehen nur auf unbestimmte Zeit gewähren.
 
+(+++ § 253: Zur Anwendung vgl. § 260a +++)
+
 # § 254 – Kreditaufnahme
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf unbeschadet des § 199 für gemeinschaftliche Rechnung der Anleger Kredite nur bis zur Höhe von 30 Prozent des Verkehrswertes der Immobilien, die zum Sondervermögen gehören, und nur dann aufnehmen und halten, wenn
@@ -5602,6 +5643,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (2) Entsprechend der Beteiligungshöhe sind die von der Immobilien-Gesellschaft aufgenommenen Kredite bei dem Immobilien-Sondervermögen bei der Berechnung der in Absatz 1 genannten Grenzen zu berücksichtigen.
 
+(+++ § 254: Zur Anwendung vgl. § 260a +++)
+
 # § 255 – Sonderregeln für die Ausgabe und Rücknahme von Anteilen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat die Ausgabe von Anteilen vorübergehend auszusetzen, wenn eine Verletzung der Anlagegrenzen nach den Liquiditätsvorschriften dieses Abschnitts oder der Anlagebedingungen droht.
@@ -5614,6 +5657,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (5) Swing Pricing ist bei Immobilien-Sondervermögen unzulässig.
 
+(+++ § 255: Zur Anwendung vgl. § 260a +++)
+
 # § 256 – Zusätzliche Angaben im Verkaufsprospekt und in den Anlagebedingungen
 
 (1) Der Verkaufsprospekt muss zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
@@ -5624,6 +5669,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (2) Die Angaben nach Absatz 1 Nummer 2 sind in die Anlagebedingungen aufzunehmen.
 
+(+++ § 256: Zur Anwendung vgl. § 260a +++)
+
 # § 257 – Aussetzung der Rücknahme
 
 (1) Verlangt der Anleger, dass ihm gegen Rückgabe des Anteils sein Anteil am Immobilien-Sondervermögen ausgezahlt wird, so hat die AIF-Kapitalverwaltungsgesellschaft die Rücknahme der Anteile zu verweigern und auszusetzen, wenn die Bankguthaben und der Erlös der nach § 253 Absatz 1 angelegten Mittel zur Zahlung des Rücknahmepreises und zur Sicherstellung einer ordnungsgemäßen laufenden Bewirtschaftung nicht ausreichen oder nicht sogleich zur Verfügung stehen. Zur Beschaffung der für die Rücknahme der Anteile notwendigen Mittel hat die AIF-Kapitalverwaltungsgesellschaft Vermögensgegenstände des Sondervermögens zu angemessenen Bedingungen zu veräußern.
@@ -5633,6 +5680,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 (3) Reichen die liquiden Mittel gemäß § 253 Absatz 1 auch 24 Monate nach der Aussetzung der Rücknahme gemäß Absatz 1 Satz 1 nicht aus, hat die AIF-Kapitalverwaltungsgesellschaft die Rücknahme der Anteile weiterhin zu verweigern und durch Veräußerung von Vermögensgegenständen des Sondervermögens weitere liquide Mittel zu beschaffen. Der Veräußerungserlös kann abweichend von § 260 Absatz 1 Satz 1 den dort genannten Wert um bis zu 20 Prozent unterschreiten. 36 Monate nach der Aussetzung der Rücknahme gemäß Absatz 1 Satz 1 kann jeder Anleger verlangen, dass ihm gegen Rückgabe des Anteils sein Anteil am Sondervermögen aus diesem ausgezahlt wird.
 
 (4) Reichen auch 36 Monate nach der Aussetzung der Rücknahme die Bankguthaben und die liquiden Mittel nicht aus, so erlischt das Recht der AIF-Kapitalverwaltungsgesellschaft, dieses Immobilien-Sondervermögen zu verwalten; dies gilt auch, wenn eine AIF-Kapitalverwaltungsgesellschaft zum dritten Mal binnen fünf Jahren die Rücknahme von Anteilen aussetzt. Ein erneuter Fristlauf nach den Absätzen 1 bis 3 kommt nicht in Betracht, wenn die AIF-Kapitalverwaltungsgesellschaft die Anteilrücknahme binnen drei Monaten erneut aussetzt oder wenn sie, falls die Anlagebedingungen nicht mehr als vier Rückgabetermine im Jahr vorsehen, die Anteilrücknahme nur zu einem Rücknahmetermin wieder aufgenommen hatte, aber zum darauf folgenden Rücknahmetermin die Anteilrücknahme erneut unter Berufung auf Absatz 1 Satz 1 verweigert.
+
+(+++ § 257: Zur Anwendung vgl. § 260a +++)
 
 # § 258 – Aussetzung nach Kündigung
 
@@ -5647,6 +5696,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 1. diese Erlöse nicht zur Sicherstellung einer ordnungsgemäßen laufenden Bewirtschaftung benötigt werden und
 
 2. nicht Gewährleistungszusagen aus den Veräußerungsgeschäften oder zu erwartende Auseinandersetzungskosten den Einbehalt im Sondervermögen verlangen.
+
+(+++ § 258: Zur Anwendung vgl. § 260a +++)
 
 # § 259 – Beschlüsse der Anleger
 
@@ -5663,6 +5714,8 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 Eine einberufene Anlegerversammlung bleibt von der Wiederaufnahme der Anteilrücknahme unberührt.
 
 (3) Die Abstimmung soll ohne Versammlung durchgeführt werden, wenn nicht außergewöhnliche Umstände eine Versammlung zur Information der Anleger erforderlich machen.
+
+(+++ § 259: Zur Anwendung vgl. § 260a +++)
 
 # § 260 – Veräußerung und Belastung von Vermögensgegenständen
 
@@ -5693,6 +5746,8 @@ Werden durch ein einheitliches Rechtsgeschäft zwei oder mehr der in Satz 1 gena
 (4) Verfügungen über Vermögensgegenstände, die zum Vermögen der Immobilien-Gesellschaften gehören, gelten für die Prüfung ihrer Zulässigkeit als Vermögensgegenstände im Sinne der Absätze 1 und 3.
 
 (5) Die Wirksamkeit einer Verfügung wird durch einen Verstoß gegen die Vorschriften der Absätze 1 und 3 nicht berührt.
+
+(+++ § 260: Zur Anwendung vgl. § 260a +++)
 
 # § 260a – Infrastruktur-Sondervermögen
 

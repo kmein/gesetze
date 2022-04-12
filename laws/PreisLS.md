@@ -397,7 +397,7 @@ die bei der Leistungserstellung tatsächlich verbrauchten Güter und in Anspruch
 
 # Nr 8 – Bewertung
 
-(1) Bei der Bewertung der Güter und Dienste bleiben die nach den §§ 15 und 28 des Umsatzsteuergesetzes (Mehrwertsteuer) abziehbaren Vorsteuern und Beträge außer Ansatz. Die nach diesen Vorschriften nicht abziehbaren Vorsteuern und Beträge sind Kosten im Sinne von Nummer 4.
+(1) Bei der Bewertung der Güter und Dienste bleiben die nach dem Umsatzsteuergesetz abziehbaren Steuern und Beträge außer Ansatz. Die nach diesen Vorschriften nicht abziehbaren Steuern und Beträge sind Kosten im Sinne der Nummer 4.
 
 (2) Bei der Bewertung sind, soweit im Abschnitt III nichts Abweichendes bestimmt wird, zugrunde zu legen
 
@@ -495,7 +495,7 @@ c) auswärts bezogene Fertigerzeugnisse (vollständig fertige Erzeugnisse, die a
 
 (1) Die Hilfsstoffe der Fertigung sind, sofern sie nicht aus verrechnungstechnischen Gründen innerhalb der Gemeinkosten verrechnet werden, wie Fertigungsstoffe zu behandeln.
 
-(2) Betriebsstoffe zählen nicht zu den Fertigungsstoffen.
+(2) Betriebsstoffe zählen nicht zu den Fertigungsstoffen. Brennstoff- und Energiekosten sind verrechnungstechnisch wie Betriebsstoffe zu behandeln.
 
 (3) Die Abgrenzung zwischen Fertigungsstoffen, Hilfs- und Betriebsstoffen soll nach einheitlichen Gesichtspunkten stetig durchgeführt werden.
 
@@ -505,13 +505,9 @@ c) auswärts bezogene Fertigerzeugnisse (vollständig fertige Erzeugnisse, die a
 
 (2) Die Kosten der Sonderbetriebsmittel sind, falls es sich um einen einmaligen Lieferauftrag handelt, einmalig abzugelten oder sonst mit angemessenen Tilgungsanteilen in den Kalkulationen der Liefergegenstände als Sonderkosten der Fertigung zu verrechnen.
 
-(3) Der Verlauf und Stand der Tilgung durch die auf Liefergegenstände verrechneten Anteile müssen buch- oder karteimäßig nachweisbar sein.
+(3) Der Verlauf und Stand der Tilgung durch die auf Liefergegenstände verrechneten Anteile müssen nachweisbar sein.
 
-# Nr 15 – Brennstoffe und Energie
-
-(1) Zu Brennstoffen und Energie zählen feste, flüssige und gasförmige Brenn- und Treibstoffe, Dampf, Strom, Preßluft und Preßwasser.
-
-(2) Die Brennstoff- und Energiekosten sind verrechnungstechnisch wie Betriebsstoffe zu behandeln.
+# Nr 15 – (weggefallen)
 
 # Nr 16 – Mengenermittlung
 
@@ -525,7 +521,7 @@ c) auswärts bezogene Fertigerzeugnisse (vollständig fertige Erzeugnisse, die a
 
 (1) Die Stoffe und dgl. sind mit Preisen des Zeitpunkts gemäß Nummer 8 zu bewerten. Die Preise gemäß Satz 1 können auch als Einstandspreise berechnet werden (vgl. Nummer 18).
 
-(2) Für Lagerstoffe können Verrechnungspreise verwendet werden. Sie müssen auf wirklichkeitsnahen Ermittlungen beruhen, in Vorkalkulationen den Preisen gemäß Nummer 8 Absatz 1a und in Nachkalkulationen den Preisen gemäß Nummer 8 Absatz 1b nahekommen. Verrechnungspreise sollen in kürzeren Zeiträumen nur abgewandelt werden, wenn grundlegende Änderungen der Preise eingetreten sind.
+(2) Für Lagerstoffe können Verrechnungspreise verwendet werden. Sie müssen auf wirklichkeitsnahen Ermittlungen beruhen, in Vorkalkulationen den Preisen gemäß Nummer 8 Absatz 2a und in Nachkalkulationen den Preisen gemäß Nummer 8 Absatz 2b nahekommen. Verrechnungspreise sollen in kürzeren Zeiträumen nur abgewandelt werden, wenn grundlegende Änderungen der Preise eingetreten sind.
 
 (3) Standardwerte oder Standardsätze sind durch Preise gemäß Nummer 8 oder Absatz 2 zu ersetzen oder in solche Preise umzurechnen.
 
@@ -553,9 +549,9 @@ b) falls solche Zulieferungen in einem Geschäftszweig nicht üblich sind,
 
 die nach diesen Leitsätzen ermittelten Selbstkostenpreise.
 
-# Nr 20 – Beistellung von Stoffen
+# Nr 20 – Beistellung von Stoffen, Personal oder Anlagen
 
-Vom Auftraggeber kostenlos beigestellte Stoffe sind, soweit sie Gemeinkosten verursachen, entsprechend ihrem gegebenenfalls geschätzten Wert den Stoffkosten zuzuschlagen und sodann von den Selbstkosten mit dem gleichen Wert wieder abzusetzen.
+Vom Auftraggeber kostenlos beigestellte Stoffe, Personal oder Anlagen sind, soweit sie Gemeinkosten verursachen, entsprechend ihrem gegebenenfalls geschätzten Wert den Kosten zuzuschlagen und sodann von den Selbstkosten mit dem gleichen Wert wieder abzusetzen.
 
 # Nr 21 – Reststoffe
 
@@ -593,7 +589,7 @@ In den Vor- und Nachkalkulationen dürfen Löhne, Gehälter und andere Personalk
 
 (1) Sozialkosten sind zu gliedern in
 
-a) gesetzliche Sozialaufwendungen wie Arbeitgeberbeiträge zur Sozialversicherung (Invaliden-, Angestellten-, Knappschafts-, Kranken- und Unfallversicherung) und zur Arbeitslosenversicherung,
+a) gesetzliche Sozialaufwendungen wie Arbeitgeberbeiträge zur Sozialversicherung (Renten-, Arbeitslosen-, Kranken-, Pflege- und Unfallversicherung),
 
 b) tarifliche Sozialaufwendungen,
 
@@ -635,21 +631,19 @@ Für die Zwecke der Preisermittlung auf Grund von Selbstkosten sind zu untersche
 
 a) Steuern, die Kosten im Sinne dieser Leitsätze sind (kalkulierbare Steuern), insbesondere
 
-die Gewerbesteuer (auch Gewerbeertrag- und Lohnsummensteuer), die Vermögensteuer, die Grundsteuer, die Kraftfahrzeugsteuer und die Steuer für den Selbstverbrauch (§ 30 des Umsatzsteuergesetzes).
+die Gewerbesteuer und, die Vermögensteuer, die Grundsteuer, die Kraftfahrzeugsteuer.
 
 Als Sonderkosten sind in den Kalkulationen auszuweisen
 
 aa)  
-die auf den Lieferungen und sonstigen Leistungen des Auftragnehmers lastende Umsatzsteuer ohne Abzug der nach den §§ 15 und 28 des Umsatzsteuergesetzes (Mehrwertsteuer) abziehbaren Vorsteuern und Beträge. Die an die Lieferungen und sonstigen Leistungen des Auftragnehmers gebundenen Umsatzsteuerminderungen sind zu berücksichtigen;
+die auf den Lieferungen und sonstigen Leistungen des Auftragnehmers lastende Umsatzsteuer ohne Abzug der nach dem Umsatzsteuergesetz abziehbaren Steuern und Beträge. Die an die Lieferungen und sonstigen Leistungen des Auftragnehmers gebundenen Umsatzsteuerminderungen sind zu berücksichtigen;
 
 bb)  
 besondere auf dem Erzeugnis lastende Verbrauchsteuern.
 
 b) Steuern, die nicht Kosten im Sinne dieser Leitsätze sind (nicht kalkulierbare Steuern), insbesondere die Einkommen-, Körperschaft- und Kirchensteuer, die Erbschaft- und Schenkungsteuer.
 
-# Nr 31 – Lastenausgleich
-
-Ausgleichsabgaben im Sinne des Gesetzes über den Lastenausgleich vom 14. August 1952 (Bundesgesetzbl. I S. 446) sind nicht Kosten im Sinne dieser Leitsätze.
+# Nr 31 – (weggefallen)
 
 # Nr 32 – Gebühren und Beiträge
 
@@ -710,7 +704,7 @@ Der Abschreibungsbetrag für Anlagegüter ist unabhängig von den Wertansätzen 
 
 (2) Die Schätzung der Nutzung für die einzelnen Anlagegüter und die Schätzung der Nutzung für Gruppen gleichartiger Anlagegüter ist in regelmäßigen Zeitabständen zu prüfen. Daraus sich ergebende Mehr- oder Minderabschreibungen sind unter Berücksichtigung von Nr. 49 Abs. 3 und Nr. 50 als Abschreibungswagnis anzusetzen; Auftraggeber und Auftragnehmer können abweichendes vereinbaren.
 
-(3) Ist die bisherige Nutzung nicht einwandfrei zu ermitteln, so kann der kalkulatorische Restwert der Anlage (Tagesneuwert der Anlage abzüglich der bisherigen Wertminderung) geschätzt und als Ausgangswert für die Berechnung der Abschreibung verwendet werden.
+(3) Ist die bisherige Nutzung nicht einwandfrei zu ermitteln, so kann der kalkulatorische Restwert der Anlage (Anschaffungspreis oder Herstellkosten abzüglich der bisherigen Wertminderung) geschätzt und als Ausgangswert für die Berechnung der Abschreibung verwendet werden.
 
 # Nr 40
 
@@ -732,7 +726,7 @@ Der Ansatz höherer Anlageabschreibungen als gemäß Nummer 38 bis 40 zum Ausgle
 
 (1) Für die Bereitstellung des betriebsnotwendigen Kapitals können kalkulatorische Zinsen angesetzt werden. Sie sind in der Betriebsrechnung gesondert auszuweisen.
 
-(2) Für kalkulatorische Zinsen setzt das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium der Finanzen einen Höchstsatz fest.
+(2) Für kalkulatorische Zinsen setzt das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen einen Höchstsatz fest.
 
 (3) Die für Fremdkapital tatsächlich entstandenen Aufwendungen (Zinsen, Bankprovisionen und dgl.) bleiben bei der Preisermittlung außer Ansatz, soweit sie nicht als Kosten des Zahlungsverkehrs gemäß Nummer 34 berücksichtigt werden.
 
@@ -740,9 +734,9 @@ Der Ansatz höherer Anlageabschreibungen als gemäß Nummer 38 bis 40 zum Ausgle
 
 # Nr 44 – Ermittlung des betriebsnotwendigen Kapitals
 
-(1) Das betriebsnotwendige Kapital besteht aus dem betriebsnotwendigen Vermögen, vermindert um die dem Unternehmen zinslos zur Verfügung gestellten Vorauszahlungen und Anzahlungen durch öffentliche Auftraggeber und solche Schuldbeträge, die dem Unternehmen im Rahmen des gewährten Zahlungsziels von Lieferanten zinsfrei zur Verfügung gestellt werden.
+(1) Das betriebsnotwendige Kapital besteht aus dem betriebsnotwendigen Vermögen, vermindert um die dem Unternehmen zinslos zur Verfügung gestellten Vorauszahlungen und Anzahlungen zu Aufträgen und solche Schuldbeträge, die dem Unternehmen im Rahmen des gewährten Zahlungsziels von Lieferanten zinsfrei zur Verfügung gestellt werden.
 
-(2) Das betriebsnotwendige Vermögen setzt sich aus den Teilen des Anlage- und Umlaufvermögens zusammen, die dem Betriebszweck dienen. Unberücksichtigt bleibt der Wert der nicht betriebsnotwendigen Vermögensteile. Zu diesen gehören insbesondere die stillgelegten Anlagen mit Ausnahme betriebsnotwendiger Reserveanlagen in Erzeugungs- und Handelsbetrieben, die landwirtschaftlich genutzten Grundstücke, die Wohnhäuser, soweit sie nicht für Betriebsangehörige notwendig sind, die nicht betriebsnotwendigen Beteiligungen, die Forderungen aus Kriegsschäden und die Kriegsfolgeschäden.
+(2) Das betriebsnotwendige Vermögen setzt sich aus den Teilen des Anlage- und Umlaufvermögens zusammen, die dem Betriebszweck dienen. Unberücksichtigt bleibt der Wert der nicht betriebsnotwendigen Vermögensteile. Zu diesen gehören insbesondere die stillgelegten Anlagen mit Ausnahme betriebsnotwendiger Reserveanlagen in Erzeugungs- und Handelsbetrieben, die landwirtschaftlich genutzten Grundstücke, die Wohnhäuser, soweit sie nicht für Betriebsangehörige notwendig sind und die nicht betriebsnotwendigen Beteiligungen.
 
 # Nr 45 – Wertansatz des betriebsnotwendigen Vermögens
 
@@ -756,7 +750,7 @@ Der Ansatz höherer Anlageabschreibungen als gemäß Nummer 38 bis 40 zum Ausgle
 
 (5) Die übrigen Teile des Umlaufvermögens sind mit den Werten anzusetzen, die ihnen an den für die Berechnung maßgebenden Stichtagen beizumessen sind.
 
-(6) Bei der Ermittlung des betriebsnotwendigen Kapitals sind, soweit nicht Bestimmungen der Absätze 1 bis 6 entgegenstehen, die Wertberichtigungsposten der Kapitalseite von den Buchwerten der Vermögensseite der Bilanz abzusetzen.
+(6) Bei der Ermittlung des betriebsnotwendigen Kapitals sind, soweit nicht Bestimmungen der Absätze 1 bis 5 entgegenstehen, die Wertberichtigungsposten der Kapitalseite von den Buchwerten der Vermögensseite der Bilanz abzusetzen.
 
 # Nr 46 – Mengenansatz des betriebsnotwendigen Vermögens
 
@@ -774,7 +768,7 @@ Das betriebsnotwendige Vermögen und das Abzugskapital sind mit den im Abrechnun
 
 (1) Das allgemeine Unternehmerwagnis wird im kalkulatorischen Gewinn abgegolten.
 
-(2) Für die Einzelwagnisse können kalkulatorische Wagniskosten (Wagnisprämien) in die Kostenrechnung eingesetzt werden. Betriebsfremde Wagnisse sind außer Betracht zu lassen. Soweit Wagnisse durch Versicherungen gedeckt oder eingetretene Wagnisverluste in anderen Kostenarten abgegolten sind, ist der Ansatz von Wagniskosten nicht zulässig.
+(2) Für die Einzelwagnisse können kalkulatorische Wagniskosten (Wagnisprämien) in der Kostenrechnung angesetzt werden. Betriebsfremde Wagnisse sind außer Betracht zu lassen. Soweit Wagnisse durch Versicherungen gedeckt oder eingetretene Wagnisverluste in anderen Kostenarten abgegolten sind, ist der Ansatz von Wagniskosten nicht zulässig.
 
 # Nr 49 – Ermittlung der kalkulatorischen Wagniskosten
 
@@ -802,8 +796,10 @@ b) ein Leistungsgewinn bei Vorliegen einer besonderen unternehmerischen Leistung
 
 # Nr 52 – Höhe der Zurechnung
 
-(1) Das Entgelt für das allgemeine Unternehmerwagnis ist in einem Hundertsatz vom betriebsnotwendigen Vermögen oder in einem Hundertsatz vom Umsatz oder in einer Summe von zwei solchen Hundertsätzen oder in einem festen Betrag zu bemessen. Das Bundesministerium für Wirtschaft und Arbeit kann hierfür Richt- oder Höchstsätze festlegen.
+(1) Das Entgelt für das allgemeine Unternehmerwagnis ist in einem Hundertsatz auf die Netto-Selbstkosten oder in einem festen Betrag zu bemessen. Das Bundesministerium für Wirtschaft und Energie kann hierfür Richt- oder Höchstsätze festlegen.
 
 (2) Ein Leistungsgewinn darf nur berechnet werden, wenn er zwischen Auftraggeber und Auftragnehmer vereinbart wurde.
 
-(3) Den Kostenträgern (absatzbestimmten Leistungen) ist der kalkulatorische Gewinn unmittelbar oder mittels einfacher Schlüssel zuzurechnen.
+(3) Den Kostenträgern (absatzbestimmten Leistungen) ist der kalkulatorische Gewinn unmittelbar zuzurechnen.
+
+(4) Ist die Höhe des Entgelts für das allgemeine Unternehmerwagnis für die Leistung durch die Vertragsparteien nicht bestimmt, ist der übliche Gewinnzuschlag im Rahmen öffentlicher Aufträge vorzusehen.
