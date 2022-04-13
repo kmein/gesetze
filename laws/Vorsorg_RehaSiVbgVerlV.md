@@ -7,11 +7,11 @@ Das Bundesministerium für Gesundheit verordnet auf Grund des § 111 Absatz 5 S
 
 # § 1 – Verlängerung der in § 111 Absatz 5 Satz 5 des Fünften Buches Sozialgesetzbuch genannten Frist
 
-Die in § 111 Absatz 5 Satz 5 genannte Frist wird bis zum 19. März 2022 verlängert.
+Die in § 111 Absatz 5 Satz 5 genannte Frist wird bis zum Ablauf des 30. Juni 2022 verlängert.
 
 # § 2 – Verlängerung der in § 111c Absatz 3 Satz 5 des Fünften Buches Sozialgesetzbuch genannten Frist
 
-Die in § 111c Absatz 3 Satz 5 des Fünften Buches Sozialgesetzbuch genannte Frist wird bis zum 19. März 2022 verlängert.
+Die in § 111c Absatz 3 Satz 5 des Fünften Buches Sozialgesetzbuch genannte Frist wird bis zum Ablauf des 30. Juni 2022 verlängert.
 
 # § 3 – Inkrafttreten
 
