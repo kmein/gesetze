@@ -178,7 +178,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 §§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
 §§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)  
-§ 15 idF d. G v. 7.8.1973 I 965: Saarland - Abweichung durch § 1 Saarländisches Grundsteuergesetz v. 15.9.2021 Amtsbl. SL I 2021 S. 2372 mWv 29.10.2021 (vgl. BGBl. I 2021, 4903)
+§ 15 idF d. G v. 7.8.1973 I 965: Saarland - Abweichung durch § 1 Saarländisches Grundsteuergesetz v. 15.9.2021 Amtsbl. SL I 2021 S. 2372 mWv 29.10.2021 (vgl. BGBl. I 2021, 4903)  
+§ 15 Abs. 1 Nr. 1 u. 2 idF d. Bek v. 7.8.1973 I 965: Sachsen- Abweichung durch das Sächsisches Gesetz über die Festsetzung der Steuermesszahlen bei der Grundsteuer (Sächsisches Grundsteuermesszahlengesetz – SächsGrStMG) v. 21.12.2021 SächsGVBl. 2022, S. 9 mWv 6.1.2022 (vgl. BGBl. I 2022, 29)
 
 # § 16 – Hauptveranlagung
 

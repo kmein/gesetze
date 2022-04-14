@@ -123,7 +123,7 @@ Für die Beurteilung der Angehörigen der Reservelaufbahnen und der Angehörigen
 
 # § 3 – Beurteilungsverfahren
 
-(1) Die dienstliche Beurteilung wird von der oder dem nächsten Disziplinarvorgesetzten als Erstbeurteilerin oder Erstbeurteiler sowie der oder dem nächsthöheren Disziplinarvorgesetzten als Zweitbeurteilerin oder Zweitbeurteiler erstellt. Sie schließt mit einem Gesamturteil der Zweitbeurteilerin oder des Zweitbeurteilers ab. Insbesondere für die Beurteilung von Soldatinnen und Soldaten, die nicht in den Streitkräften verwendet werden, kann das Bundesministerium der Vereidigung festlegen, dass die Beurteilungen von anderen als den in Satz 1 genannten Personen erstellt werden, sofern diese über ausreichende Kenntnis von Eignung, Befähigung und fachlicher Leistung der zu Beurteilenden verfügen.
+(1) Die dienstliche Beurteilung wird von der oder dem nächsten Disziplinarvorgesetzten als Erstbeurteilerin oder Erstbeurteiler sowie der oder dem nächsthöheren Disziplinarvorgesetzten als Zweitbeurteilerin oder Zweitbeurteiler erstellt. Sie schließt mit einem Gesamturteil der Zweitbeurteilerin oder des Zweitbeurteilers ab. Insbesondere für die Beurteilung von Soldatinnen und Soldaten, die nicht in den Streitkräften verwendet werden, kann das Bundesministerium der Verteidigung festlegen, dass die Beurteilungen von anderen als den in Satz 1 genannten Personen erstellt werden, sofern diese über ausreichende Kenntnis von Eignung, Befähigung und fachlicher Leistung der zu Beurteilenden verfügen.
 
 (2) Es sind Vergleichsgruppen nach dem Dienstgrad, der Besoldungsgruppe oder der Funktionsebene zu bilden. Innerhalb dieser Vergleichsgruppen sind die Soldatinnen und Soldaten nach einem einheitlichen Beurteilungsmaßstab zu beurteilen.
 
@@ -150,6 +150,8 @@ Zu diesem Zweck lassen die Gesamtverantwortlichen durch die nächsten Disziplina
 3. muss nach Feststellung der in Absatz 4 Satz 1 genannten Personen dienstliche Beurteilungen für ganze ihr oder ihm unterstellte Bereiche aufheben, wenn kein hierarchieebenenübergreifender vergleichbarer Beurteilungsmaßstab angewendet worden ist, soweit nicht bereits höhere Vorgesetzte nach Feststellung der in Absatz 4 Satz 1 genannten Personen entsprechend erforderliche Aufhebungen veranlasst haben.
 
 Das Bundesministerium der Verteidigung kann abweichende Regelungen treffen.
+
+3 Abs. 1 Satz 3 Kursivdruck: Fehlschreibung des Begriffes "Bundesministerium der Vereidigung" in "Bundesministerium der Verteidigung" korrigiert
 
 # § 4 – Ordnung der Laufbahnen
 

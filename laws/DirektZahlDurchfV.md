@@ -372,7 +372,7 @@ Solange eine Bekanntmachung in den in § 24a Absatz 1 Nummer 1 und 2 genannten F
 
 (1) Eine brachliegende Fläche, die von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird, muss während des ganzen Jahres, für das dieser Antrag gestellt wird, brach liegen. Abweichend von Satz 1 darf ab dem 1. August dieses Jahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden.
 
-(2) Abweichend von Absatz 1 Satz 1 können die zuständigen Behörden der Länder ab dem 1. Juli des jeweiligen Jahres allgemein oder im Einzelfall zulassen, dass in Gebieten, in denen auf Grund außergewöhnlicher Umstände, insbesondere ungünstiger Witterungsereignisse, nicht ausreichend Futter zur Verfügung steht oder stehen wird, der Aufwuchs durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt wird.
+(2) Abweichend von Absatz 1 Satz 1 kann im Jahr 2022 der Aufwuchs ab dem 1. Juli durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt werden.
 
 (+++ § 25: Zur Anwendung vgl. § 35 +++)
 
@@ -416,7 +416,7 @@ Landschaftselemente können im Antrag auf Direktzahlung für die Zahlung für de
 
 (3) Im Jahr der Antragstellung darf eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen wird, nur durch Beweidung mit Schafen oder Ziegen genutzt werden.
 
-(4) Abweichend von Absatz 3 können die zuständigen Behörden der Länder im Jahr 2021 allgemein oder im Einzelfall zulassen, dass in Gebieten, in denen auf Grund ungünstiger Witterungsverhältnisse nicht ausreichend Futter zur Verfügung steht oder stehen wird, eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen wird, im Jahr 2021 durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt wird.
+(4) Abweichend von Absatz 3 kann eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen ist, im Jahr 2022 durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt werden.
 
 (+++ § 31: Zur Anwendung vgl. § 35 +++)
 
