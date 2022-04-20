@@ -7665,7 +7665,7 @@ Zur Erhöhung des vereinbarten Beitrags oder zur Ergänzung der durch Verlust ve
 
 # §§ 707a bis 707c – (zukünftig in Kraft)
 
-(+++ §§ 707a bis 707c: Zukünftig in Kraft +++)
+(+++ §§ 707a bis 707c: Zukünftig in Kraft gem. Art. 1 Nr. 3 G v. 10.8.2022 I 3436 mWv 1.1.2024 +++)
 
 # § 707d – Verordnungsermächtigung
 

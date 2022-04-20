@@ -223,7 +223,24 @@ je Kilogramm</td></tr></tbody></table>
 
   
   
-Soweit die Abrechnung über Kilowattstunden-Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht erforderlich. Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens oder Brennstofflieferanten H<sub>i</sub>-Werte, so sind diese zu verwenden. Soweit die Abrechnung über kWh-Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht erforderlich.
+Soweit die Abrechnung über Kilowattstunden-Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht erforderlich. Als H<sub>i</sub>-Werte können verwendet werden für  
+
+|                    |       |                   |
+|:-------------------|------:|:------------------|
+| Leichtes Heizöl EL | 10    | kWh/l             |
+| Schweres Heizöl    |  10,9 | kWh/l             |
+| Erdgas H           |  10   | kWh/m³ |
+| Erdgas L           |   9   | kWh/m³ |
+| Flüssiggas         |  13   | kWh/kg            |
+| Koks               |   8   | kWh/kg            |
+| Braunkohle         |   5,5 | kWh/kg            |
+| Steinkohle         |   8   | kWh/kg            |
+| Holz (lufttrocken) |   4,1 | kWh/kg            |
+| Holzpellets        |   5   | kWh/kg            |
+| Holzhackschnitzel  | 650   | kWh/SRm.          |
+
+  
+Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens oder Brennstofflieferanten H<sub>i</sub>-Werte, so sind diese zu verwenden. Soweit die Abrechnung über kWh-Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht erforderlich.
 
 (4) Der Anteil an den Kosten der Versorgung mit Wärme ist nach § 7 Absatz 1, der Anteil an den Kosten der Versorgung mit Warmwasser nach § 8 Absatz 1 zu verteilen, soweit diese Verordnung nichts anderes bestimmt oder zulässt.
 
