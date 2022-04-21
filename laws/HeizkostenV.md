@@ -160,7 +160,6 @@ Die Erhebung, Speicherung und Verwendung von Daten aus einer fernablesbaren Auss
 (1) Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen Warmwasserversorgungsanlage verbunden, so sind die einheitlich entstandenen Kosten des Betriebs aufzuteilen. Die Anteile an den einheitlich entstandenen Kosten sind bei Anlagen mit Heizkesseln nach den Anteilen am Brennstoffverbrauch oder am Energieverbrauch, bei eigenständiger gewerblicher Wärmelieferung nach den Anteilen am Wärmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden sind, sind dem Anteil an den einheitlich entstandenen Kosten hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit Wärme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die nicht ausschließlich durch Heizkessel oder durch eigenständige gewerbliche Wärmelieferung mit Wärme versorgt werden, können anerkannte Regeln der Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der zentralen Warmwasserversorgungsanlage am Wärmeverbrauch ist nach Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.
 
 (2) Die auf die zentrale Warmwasserversorgungsanlage entfallende Wärmemenge (Q) ist mit einem Wärmezähler zu messen. Kann die Wärmemenge nur mit einem unzumutbar hohen Aufwand gemessen werden, kann sie nach folgender Zahlenwertgleichung als Ergebnis in Kilowattstunden pro Jahr bestimmt werden:  
-  
 
 Q = 2,5 x V x (tw-10).
 
@@ -178,8 +177,6 @@ Wenn in Ausnahmefällen weder die Wärmemenge noch das Volumen des verbrauchten 
 
 Q = 32 x A<sub>Wohn</sub>.
 
-  
-  
 Dabei sind zu Grunde zu legen:
 
 1. der Wert 32 für den Nutzwärmebedarf für Warmwasser, die Erzeugeraufwandszahl des Wärmeerzeugers, Messdatenerhebungen zum Warmwasserverbrauch und
@@ -191,6 +188,8 @@ Die nach den Zahlenwertgleichungen in Satz 2 oder 4 bestimmte Wärmemenge (Q) is
 1. bei brennwertbezogener Abrechnung von Erdgas mit 1,11 zu multiplizieren und
 
 2. bei eigenständiger gewerblicher Wärmelieferung durch 1,15 zu dividieren.
+
+  
 
 (3) Bei Anlagen mit Heizkesseln ist der Brennstoffverbrauch der zentralen Warmwasserversorgungsanlage (B) in Litern, Kubikmetern oder Kilogramm nach folgender Gleichung zu bestimmen:  
   
