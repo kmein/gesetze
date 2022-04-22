@@ -559,6 +559,8 @@ Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die
 
 # § 54 – (zukünftig in Kraft)
 
+(+++ Art. 229 § 54: Tritt zukünftig in Kraft gem. Art. 2 Nr. 6 G v. 4.5.2021 I 882 mwv 1.1.2023 +++)
+
 # § 55 – Übergangsvorschrift zum Gesetz zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung
 
 § 1631e Absatz 6 des Bürgerlichen Gesetzbuchs ist auch auf Patientenakten von Kindern mit Varianten der Geschlechtsentwicklung anzuwenden, deren Behandlung vor dem 22. Mai 2021 durchgeführt worden ist, wenn die Aufbewahrungsfrist nach § 630f Absatz 3 des Bürgerlichen Gesetzbuchs nicht vor dem 22. Mai 2021 abgelaufen ist.

@@ -2861,8 +2861,6 @@ durch welche das Opfer seelisch oder körperlich schwer geschädigt oder einer s
 
 2. die Gesamtwürdigung des Betroffenen, seiner Taten und ergänzend seiner Entwicklung bis zum Zeitpunkt der Entscheidung ergibt, dass er mit hoher Wahrscheinlichkeit erneut Straftaten der in Absatz 3 Satz 2 Nr. 1 bezeichneten Art begehen wird.
 
-(7) (weggefallen)
-
 # § 107 – Gerichtsverfassung
 
 Von den Vorschriften über die Jugendgerichtsverfassung gelten die §§ 33 bis 34 Abs. 1 und §§ 35 bis 38 für Heranwachsende entsprechend.

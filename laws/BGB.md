@@ -11739,7 +11739,7 @@ Stirbt ein anteilsberechtigter Abkömmling, so gehört sein Anteil an dem Gesamt
 
 (1) Ein anteilsberechtigter Abkömmling kann auf seinen Anteil an dem Gesamtgut verzichten. Der Verzicht erfolgt durch Erklärung gegenüber dem für den Nachlass des verstorbenen Ehegatten zuständigen Gericht; die Erklärung ist in öffentlich beglaubigter Form abzugeben. Das Nachlassgericht soll die Erklärung dem überlebenden Ehegatten und den übrigen anteilsberechtigten Abkömmlingen mitteilen.
 
-(2) Der Verzicht kann auch durch Vertrag mit dem überlebenden Ehegatten und den Übrigen anteilsberechtigten Abkömmlingen erfolgen. Der Vertrag bedarf der notariellen Beurkundung.
+(2) Der Verzicht kann auch durch Vertrag mit dem überlebenden Ehegatten und den übrigen anteilsberechtigten Abkömmlingen erfolgen. Der Vertrag bedarf der notariellen Beurkundung.
 
 (3) Steht der Abkömmling unter elterlicher Sorge oder unter Vormundschaft, so ist zu dem Verzicht die Genehmigung des Familiengerichts erforderlich. Bei einem Verzicht durch den Betreuer des Abkömmlings ist die Genehmigung des Betreuungsgerichts erforderlich.
 
