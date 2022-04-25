@@ -1193,7 +1193,7 @@ ab)
 "schnelles Schiff": ein Fahrzeug mit Maschinenantrieb, ausgenommen ein Kleinfahrzeug, das mit mehr als 40 km/h gegenüber Wasser fahren kann (z. B. ein Tragflügelboot, Luftkissenfahrzeug oder Fahrzeug mit mehrfachem Schiffskörper) und wenn dies im Schiffsattest eingetragen ist;
 
 ac)  
-(weggefallen)
+„Inland AIS Gerät“: ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
 
 ad)  
 „LNG-System“:
@@ -1214,7 +1214,10 @@ ag)
 “festverbundener Tank” ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können.
 
 ah)  
-„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1<span id="FnR.bjnr338160994bjne003407126_01"></span><a href="#bjnr338160994bjne003407126_01" class="FnR">1</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
+
+ai)  
+„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -2858,17 +2861,17 @@ b) wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der 
 
 c) für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen.
+3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Gerät zur Anzeige elektronischer Binnenschifffahrtskarten, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“ des ES-RIS entsprechen.
 
-4. Es müssen folgende Daten gemäß Kapitel 2 des Standards Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt werden:
+4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS übermittelt werden:
 
 a) User Identifier (Maritime Mobile Service Identity, MMSI);
 
 b) Schiffsname;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
 
-d) einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
+d) einheitliche europäische Schiffsnummer (ENI) oder für Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
 
 e) Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit von 0,1 m;
 
@@ -2894,7 +2897,7 @@ a) Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 b) Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
 
 d) Navigationsstatus gemäß Anlage 11;
 
@@ -3897,7 +3900,7 @@ nicht überschreiten.
 
 # § 12.01 – Meldepflicht
 
-1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch gemäß der im Standard ERI 1.3 festgelegten ERINOT Nachricht melden:
+1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden in der Binnenschifffahrt“ des ES-RIS melden:
 
 a) Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN unterliegt;
 
@@ -6195,14 +6198,51 @@ Ondertekening en stempel van de ontvangstinrichting
 
 2. Bezugspunkt der Positionsinformation auf dem Fahrzeug
 
-Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
+2.1  
+Bei Inland AIS Geräten, die vor dem 1. Dezember 2015 eingebaut wurden:
 
-|                                                                |
-|:--------------------------------------------------------------:|
-|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2014/j0742_0010.jpg)        |
-| Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug  |
-|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2014/j0742_0020.jpg)        |
-| Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband |
+a) Für ein Fahrzeug
+
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m eingeben.
+
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2022/j0090_0010.jpg)
+
+Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+b) Für einen Verband
+
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m und die Werte für W und L mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2022/j0090_0020.jpg)
+
+Erläuterungen zu den W, L, A, B, C und D Werten für einen Verband
+
+2.2  
+Bei Inland AIS Geräten, die nach dem 1. Dezember 2015 eingebaut wurden:
+
+a) Für ein Fahrzeug
+
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2022/j0090_0030.jpg)
+
+Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+b) Für einen Verband
+
+Der Schiffsführer muss die Werte für EA, EB, EC und ED mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß EA ist in Richtung des Bugs ausgerichtet.
+
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2022/j0091_0010.jpg)
+
+Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband
 
 # Anlage 12 – Verzeichnis der Fahrzeug- und Verbandsarten
 
