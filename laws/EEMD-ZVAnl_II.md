@@ -618,7 +618,7 @@ Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter).
 
 (5) Die Vertragsparteien werden einander Änderungen der Anschriften nach den Absätzen 2 bis 4, insbesondere in der Person des Zustellungsbevollmächtigten oder des Empfangsberechtigten, unverzüglich mitteilen.
 
-# § 36 – Schriftverkehr
+# § 36 – Schriftform
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich erforderlich ist. Dies gilt auch für die Aufhebung des Schriftformerfordernisses. Die Anwendung von § 126 Absatz 3 BGB ist ausgeschlossen. Sämtliche Änderungen und Ergänzungen sind in deutscher Sprache abzufassen.
 
