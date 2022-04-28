@@ -3188,7 +3188,7 @@
 - [KraftNAV](laws/KraftNAV.md) Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie
 - [KraftStCHEV](laws/KraftStCHEV.md) Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen Straßenfahrzeugen im grenzüberschreitenden Verkehr
 - [KraftStDV](laws/KraftStDV.md) Kraftfahrzeugsteuer-Durchführungsverordnung
-- [KraftStG 2002](laws/KraftStG_2002.md) Kraftfahrzeugsteuergesetz
+- [KraftStG 2002](laws/KraftStG_2002.md) Kraftfahrzeugsteuergesetz 2002
 - [KraftStKompG](laws/KraftStKompG.md) Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund
 - [KraftstoffLBV](laws/KraftstoffLBV.md) Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise
 - [KraftwPrV](laws/KraftwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kraftwerker/Geprüfte Kraftwerkerin

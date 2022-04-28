@@ -3789,11 +3789,15 @@ Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anz
 
 (6) Die Bundesregierung wird ermächtigt, den in Absatz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
+(+++ § 141 Abs. 1 iVm Abs. 6: Zeitraum bis zum 31.12.2022 verlängert, vgl. § 1 Abs. 1 V 860-2-20 v. 10.3.2022 I 426, 427 (VZVV 2022) +++)
+
 # § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
 (1) Wurde im Oktober 2021 ein Mehrbedarf nach § 42b Absatz 2 anerkannt, wird dieser bis zum Ablauf des 31. März 2022 in unveränderter Höhe auch dann anerkannt, wenn abweichend von § 42b Absatz 2 Satz 1 und 2 die Voraussetzungen der Gemeinschaftlichkeit der Mittagsverpflegung und der Essenseinnahme in der Verantwortung des Leistungsanbieters nicht vorliegen. Für die Berechnung der Höhe des Mehrbedarfs sind die Anzahl der für Oktober 2021 berücksichtigten Arbeitstage und die sich nach § 42b Absatz 2 Satz 3 ergebenden Mehraufwendungen je Arbeitstag zugrunde zu legen.
 
 (2) Die Bundesregierung wird ermächtigt, den in Absatz 1 Satz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
+
+(+++ § 142 Abs. 1 Satz 1 iVm Abs. 2: Zeitraum bis zum 31.12.2022 verlängert, vgl. § 1 Abs. 2 V 860-2-20 v. 10.3.2022 I 426, 427 (VZVV 2022) +++)
 
 # § 143 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
 

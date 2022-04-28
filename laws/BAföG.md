@@ -661,6 +661,8 @@ Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 27 des B
 
 5. zusätzliche Einnahmen aus einer Tätigkeit der Antragstellenden in systemrelevanten Branchen und Berufen, soweit die Tätigkeit zur Bekämpfung der COVID-19-Pandemie und deren sozialen Folgen seit dem 1. März 2020 aufgenommen oder in ihrem arbeitszeitlichen Umfang aufgestockt wurde, für die Dauer dieser Tätigkeit oder Arbeitszeitaufstockung.
 
+(+++ § 21 Abs. 4 Nr. 5: Zur weiteren Anwendung bis zum Ablauf des 31.12.2022 vgl. § 1 V 2212-2-21 v. 10.3.2022 I 426, 427 (COV19EFreistVerlV) +++)
+
 # § 22 – Berechnungszeitraum für das Einkommen des Auszubildenden
 
 (1) Für die Anrechnung des Einkommens des Auszubildenden sind die Einkommensverhältnisse im Bewilligungszeitraum maßgebend. Sind bei ihrer Ermittlung Pauschbeträge für Werbungskosten nach § 9a des Einkommensteuergesetzes zu berücksichtigen, so ist der Betrag abzuziehen, der sich ergibt, wenn ein Zwölftel des Jahrespauschbetrages mit der Zahl der Kalendermonate des Bewilligungszeitraumes vervielfacht wird.
