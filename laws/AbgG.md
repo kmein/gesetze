@@ -582,10 +582,6 @@ Für Beteiligungen, die bei Inkrafttreten dieses Gesetzes bereits gehalten werde
 
 (3) Die Fraktionen sind nicht Teil der öffentlichen Verwaltung; sie üben keine öffentliche Gewalt aus.
 
-# § 55 – (weggefallen)
-
-\-
-
 # § 55 – Aufgaben
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen Bundestages mit.

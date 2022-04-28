@@ -2165,6 +2165,8 @@ Der zuständige Träger der Leistungen nach diesem Buch kann mit Zustimmung des 
 
 (6) (weggefallen)
 
+(+++ § 67 Abs. 1 iVm Abs. 5: Zeitraum bis zum 31.12.2022 verlängert, vgl. § 1 Abs. 1 V 860-2-20 v. 10.3.2022 I 426, 427 (VZVV 2022) +++)
+
 # § 68 – Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie
 
 Abweichend von § 28 Absatz 6 Satz 1 kommt es im Zeitraum vom 1. März 2020 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, auf eine Gemeinschaftlichkeit der Mittagsverpflegung nicht an. Zu den Aufwendungen im Sinne des § 28 Absatz 6 Satz 1 zählen bei den Leistungsberechtigten anfallende Zahlungsverpflichtungen auch, wenn sie pandemiebedingt in geänderter Höhe oder aufgrund abweichender Abgabewege berechnet werden. Dies umfasst auch die Kosten einer Belieferung. § 28 Absatz 6 Satz 2 findet keine Anwendung.

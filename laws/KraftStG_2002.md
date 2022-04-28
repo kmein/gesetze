@@ -1,4 +1,4 @@
-% Kraftfahrzeugsteuergesetz  (KraftStG 2002)
+% Kraftfahrzeugsteuergesetz 2002  (KraftStG 2002)
 % Ausfertigungsdatum: 21.12.1927
  
 # Inhaltsübersicht
