@@ -87,7 +87,7 @@ aaa)
 zum Zeitpunkt oder zum geplanten Zeitpunkt der Einreise in die Bundesrepublik maximal 48 Stunden zurückliegt oder,
 
 bbb)  
-sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt.
+sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt.
 
  7. genesene Person
 
@@ -175,7 +175,7 @@ Die Absonderung endet abweichend von den Sätzen 1 und 5 außerdem, wenn das bet
 
 (1) Personen, die das zwölfte Lebensjahr vollendet haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis verfügen.
 
-(2) Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
+(2) Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
 
 # § 6 – Ausnahmen
 
@@ -326,7 +326,7 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 (1) Beförderer, die Personen aus einem Hochrisikogebiet oder, vorbehaltlich des § 10, aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, haben, soweit keine Ausnahme oder Maßgabe nach § 6 Absatz 1 Satz 1 oder Satz 3 vorliegt, vor der Beförderung die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 zu kontrollieren. Diese sind im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Die vollständig ausgefüllten Ersatzmitteilungen nach § 3 Absatz 2 sind bei Beförderungen aus einem Schengen-Staat einzusammeln und unverzüglich durch die Beförderer an die zuständige Behörde zu übermitteln. Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet außerhalb von Schengen-Staaten in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist und die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 an diese zum Zwecke der stichprobenhaften Überprüfung und Überlassung an die zuständige Behörde auszuhändigen ist. Beförderer haben die Beförderungen aus einem Hochrisikogebiet oder Virusvariantengebiet in die Bundesrepublik Deutschland zu unterlassen, wenn die zu befördernden Personen im Rahmen der Kontrolle nach Satz 1 keine Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder keine vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 vorgelegt haben; dies gilt auch, wenn nach Prüfung nach Satz 2 die angegebenen Daten offensichtlich unrichtig sind. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr aus einem Hochrisikogebiet oder Virusvariantengebiet kann die Kontrolle in Abweichung von Satz 5 auch noch während der Beförderung erfolgen.
 
-(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
+(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
 
 (3) Die Absätze 1 und 2 gelten nicht im öffentlichen Personennahverkehr.
 
@@ -366,9 +366,7 @@ Das Vorliegen einer Ausnahme nach Satz 1 ist auf Verlangen des Beförderers oder
 
 (2) Beförderer sind verpflichtet, gegenüber dem Robert Koch-Institut eine für Rückfragen der zuständigen Behörden erreichbare Kontaktstelle zu benennen.
 
-# § 12 – Informationspflichten der Mobilfunknetzbetreiber
-
-Ein Betreiber eines öffentlichen Mobilfunknetzes ist im Rahmen des technisch Möglichen verpflichtet, seinen Kunden, die sich nach Nutzung eines ausländischen Mobilfunknetzes nach mehr als 24 Stunden wieder in sein Mobilfunknetz einbuchen, sowie Nutzern ausländischer Mobilfunknetze, die sich in sein Mobilfunknetz einbuchen, unverzüglich und barrierefrei eine Kurznachricht der Bundesregierung mit dem Inhalt nach Satz 2 am Netzabschlusspunkt seines Mobilfunknetzes zur Verfügung zu stellen, in der auf die in der Bundesrepublik Deutschland geltenden Einreise- und Infektionsschutzbestimmungen im Zusammenhang mit dem Coronavirus SARS-CoV-2 sowie auf die zu beachtenden Infektionsschutzmaßnahmen zur Verhinderung der Verbreitung des Coronavirus SARS-CoV-2 hingewiesen wird. Der Inhalt der Kurznachricht wird den Betreibern von der Bundesregierung zur Verfügung gestellt.
+# § 12 – (weggefallen)
 
 # § 13 – Ordnungswidrigkeiten
 
@@ -400,7 +398,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 28. April 2022 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 31. Mai 2022 außer Kraft.
 
 # Anlage
 
