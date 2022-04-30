@@ -4220,6 +4220,7 @@
 - [OrdenNachwV](laws/OrdenNachwV.md) Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen
 - [OrdenSeenotÄndErl](laws/OrdenSeenotÄndErl.md) Erlaß über die Genehmigung einer Änderung der Verleihungsbedingungen der Medaille für Rettung aus Seenot am Bande der Deutschen Gesellschaft zur Rettung Schiffbrüchiger
 - [OrdensErl7NeufGenErl](laws/OrdensErl7NeufGenErl.md) Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
+- [OrdensErl7NeufGenErl 2022](laws/OrdensErl7NeufGenErl_2022.md) Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
 - [OrgBAusbV](laws/OrgBAusbV.md) Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin*
 - [OrgErl1998](laws/OrgErl1998.md) Organisationserlass des Bundeskanzlers
 - [OrgHbMstrV](laws/OrgHbMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orgel- und Harmoniumbauer-Handwerk
@@ -5272,7 +5273,7 @@
 - [StichprobenV](laws/StichprobenV.md) Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011
 - [StIdV](laws/StIdV.md) Verordnung zur Vergabe steuerlicher Identifikationsnummern
 - [StiftBTG](laws/StiftBTG.md) Gesetz über die Bildung und Tätigkeit von Stiftungen
-- [StiftEinsatzMedBWErl](laws/StiftEinsatzMedBWErl.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
+- [StiftEinsatzMedBWErl 2022](laws/StiftEinsatzMedBWErl_2022.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr vom 27. Januar 2022
 - [StiftKStBegV](laws/StiftKStBegV.md) Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von Familienfideikommissen getreten sind
 - [StiftRG](laws/StiftRG.md) Stiftungsregistergesetz
 - [StIKoVetV](laws/StIKoVetV.md) Verordnung über die Ständige Impfkommission Veterinärmedizin
