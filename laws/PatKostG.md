@@ -33,7 +33,7 @@
 
 Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör wird mit der Bekanntgabe der Entscheidung fällig. Ein hilfsweise gestellter Antrag wird zur Bemessung der Gebührenhöhe dem Hauptantrag hinzugerechnet, soweit eine Entscheidung über ihn ergeht; soweit Haupt- und Hilfsantrag denselben Gegenstand betreffen, wird die Höhe der Gebühr nur nach dem Antrag bemessen, der zur höheren Gebühr führt. Legt der Erinnerungsführer gemäß § 64 Abs. 6 Satz 2 des Markengesetzes Beschwerde ein, hat er eine Beschwerdegebühr nicht zu entrichten.
 
-(2) Die Jahresgebühren für Patente, Schutzzertifikate und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs sind jeweils für die folgende Schutzfrist am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Anmeldetag fällt. Wird ein Gebrauchsmuster oder ein Design erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Aufrechterhaltungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist.
+(2) Die Jahresgebühren für Patente und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs sind jeweils für die folgende Schutzfrist am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Anmeldetag fällt. Wird ein Gebrauchsmuster oder ein Design erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Aufrechterhaltungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist. Die Jahresgebühren für Schutzzertifikate werden am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Laufzeitbeginn fällt. Wird das Schutzzertifikat erst nach Ablauf des Grundpatents erteilt, wird die Jahresgebühr für die bis dahin abgelaufenen Schutzfristen am letzten Tag des Monats fällig, in den der Tag der Erteilung fällt; die Fälligkeit der Jahresgebühren für nachfolgende Schutzfristen richtet sich nach Satz 3.
 
 (3) Die Verlängerungsgebühren für Marken sind jeweils für die folgende Schutzfrist sechs Monate vor dem Ablauf der Schutzdauer gemäß § 47 Absatz 1 des Markengesetzes fällig. Wird eine Marke erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Verlängerungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist.
 
@@ -57,7 +57,7 @@ Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtli
 
 (1) In Verfahren vor dem Deutschen Patent- und Markenamt soll die Bearbeitung erst nach Zahlung der Gebühr für das Verfahren erfolgen; das gilt auch, wenn Anträge geändert werden. Satz 1 gilt nicht für die Anträge auf Weiterleitung einer Anmeldung an das Amt der Europäischen Union für geistiges Eigentum nach § 62 des Designgesetzes und die Anträge auf Weiterleitung internationaler Anmeldungen an das Internationale Büro der Weltorganisation für geistiges Eigentum nach § 68 des Designgesetzes. In Verfahren vor dem Bundespatentgericht soll die Klage erst nach Zahlung der Gebühr für das Verfahren zugestellt werden; bei Vorliegen eines gültigen SEPA-Basislastschriftmandats mit Angaben zum Verwendungszweck soll die Klage sofort zugestellt werden. Im Fall eines Beitritts zum Einspruch im Beschwerdeverfahren oder eines Beitritts zum Einspruch im Fall der gerichtlichen Entscheidung nach § 61 Absatz 2 des Patentgesetzes soll vor Zahlung der Gebühr keine gerichtliche Handlung vorgenommen werden.
 
-(2) Die Jahresgebühren für Patente, Schutzzertifikate und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs dürfen frühestens ein Jahr vor Eintritt der Fälligkeit vorausgezahlt werden, soweit nichts anderes bestimmt ist. Die Verlängerungsgebühren für Marken dürfen frühestens sechs Monate vor Eintritt der Fälligkeit vorausgezahlt werden.
+(2) Die Jahresgebühren für Patente und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs dürfen frühestens ein Jahr vor Eintritt der Fälligkeit vorausgezahlt werden, soweit nichts anderes bestimmt ist. Die Verlängerungsgebühren für Marken dürfen frühestens sechs Monate vor Eintritt der Fälligkeit vorausgezahlt werden. Die Jahresgebühren für Schutzzertifikate dürfen schon früher als ein Jahr vor Eintritt der Fälligkeit vorausgezahlt werden.
 
 # § 6 – Zahlungsfristen, Folgen der Nichtzahlung
 
@@ -775,7 +775,7 @@ Jahresgebühren gemäß § 16a PatG
 
 für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-2 650
+2 920
 
 312 211
 
@@ -787,7 +787,7 @@ für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-1 325
+1 460
 
 312 212
 
@@ -799,7 +799,7 @@ für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
 für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-2 940
+3 240
 
 312 221
 
@@ -811,7 +811,7 @@ für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-1 470
+1 620
 
 312 222
 
@@ -823,7 +823,7 @@ für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
 für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-3 290
+3 620
 
 312 231
 
@@ -835,7 +835,7 @@ für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG)
 
-1 645
+1 810
 
 312 232
 
@@ -847,7 +847,7 @@ für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
 für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-3 650
+4 020
 
 312 241
 
@@ -859,7 +859,7 @@ für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-1 825
+2 010
 
 312 242
 
@@ -871,7 +871,7 @@ für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
 für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-4 120
+4 540
 
 312 251
 
@@ -883,7 +883,7 @@ für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-2 060
+2 270
 
 312 252
 
@@ -895,7 +895,7 @@ für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
 für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-4 520
+4 980
 
 312 261
 
@@ -907,7 +907,7 @@ für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-2 260
+2 490
 
 312 262
 
@@ -1386,19 +1386,19 @@ Recht zur Benutzung der Marke
 
 334 100
 
-Nationale Gebühr für die internationale Registrierung nach Artikel 3 des Madrider Markenabkommens (§ 108 MarkenG) oder nach dem Protokoll zum Madrider Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§§ 108 und 120 MarkenG) . . . . . . . . . .
+Nationale Gebühr für die internationale Registrierung nach dem Protokoll zum Madrider Markenabkommen (§ 108 MarkenG) . . . . . . . . . .
 
 180
 
 334 300
 
-Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel 3ter</sup> Abs. 2 des Madrider Markenabkommens (§ 111 MarkenG) oder nach Artikel 3ter</sup> Abs. 2 des Protokolls zum Madrider Markenabkommen (§ 123 Abs. 1 MarkenG) sowie nach dem Madrider Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§ 123 Abs. 2 MarkenG) . . . . . . . . . .
+Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel 3ter</sup> Abs. 2 des Protokolls zum Madrider Markenabkommen (§ 111 Abs. 1 MarkenG) . . . . . . . . . .
 
 120
 
  
 
-Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei Klassen (§ 125 Abs. 1 MarkenG)
+Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei Klassen (§ 118 Abs. 1 MarkenG)
 
  
 
@@ -1428,15 +1428,15 @@ Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse
 
 334 800
 
-– für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . .
+– für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG). . . . . . . . . .
 
 150
 
-5\. Gemeinschaftsmarken
+5\. Unionsmarken
 
  
 
-Umwandlungsverfahren (§ 125d Abs. 1 MarkenG)
+Umwandlungsverfahren (§ 122 Abs. 1 MarkenG)
 
  
 
@@ -1454,7 +1454,7 @@ Umwandlungsverfahren (§ 125d Abs. 1 MarkenG)
 
  
 
-Klassengebühr bei Umwandlung ab der zweiten Klasse pro Klasse
+Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse
 
  
 

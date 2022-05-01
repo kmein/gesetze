@@ -455,19 +455,11 @@ ist das Bundesamt für Justiz. Dieses ist auch nationale Behörde nach Artikel 1
 
 (1) Die Zentrale Behörde trifft alle erforderlichen Maßnahmen einschließlich der Einschaltung von Polizeivollzugsbehörden, um den Aufenthaltsort des Kindes zu ermitteln, wenn dieser unbekannt ist und Anhaltspunkte dafür vorliegen, dass sich das Kind im Inland befindet.
 
-(2) Soweit zur Ermittlung des Aufenthalts des Kindes oder zur Feststellung eines früheren oder des gegenwärtigen gewöhnlichen Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde im automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus folgende Daten abrufen:
+(2) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde bei dem Kraftfahrt-Bundesamt erforderliche Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes erheben und die Leistungsträger im Sinne der §§ 18 bis 29 des Ersten Buches Sozialgesetzbuch um Mitteilung des derzeitigen Aufenthalts einer Person ersuchen.
 
-1. derzeitige Staatsangehörigkeiten,
+(3) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde die Ausschreibung zur Aufenthaltsermittlung durch das Bundeskriminalamt veranlassen. Sie kann auch die Speicherung eines Suchvermerks im Zentralregister veranlassen.
 
-2. frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung und
-
-3. Einzugsdatum und Auszugsdatum.
-
-(3) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde bei dem Kraftfahrt-Bundesamt erforderliche Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes erheben und die Leistungsträger im Sinne der §§ 18 bis 29 des Ersten Buches Sozialgesetzbuch um Mitteilung des derzeitigen Aufenthalts einer Person ersuchen.
-
-(4) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde die Ausschreibung zur Aufenthaltsermittlung durch das Bundeskriminalamt veranlassen. Sie kann auch die Speicherung eines Suchvermerks im Zentralregister veranlassen.
-
-(5) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen die zur Durchführung der Maßnahmen erforderlichen personenbezogenen Daten; diese dürfen nur für den Zweck verwendet werden, für den sie übermittelt worden sind.
+(4) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen die zur Durchführung der Maßnahmen erforderlichen personenbezogenen Daten; diese dürfen nur für den Zweck verwendet werden, für den sie übermittelt worden sind.
 
 # § 8 – Anrufung des Oberlandesgerichts
 

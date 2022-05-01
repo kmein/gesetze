@@ -143,17 +143,17 @@ Das Deutsche Patent- und Markenamt gibt bekannt, welche Behörde für die Bearbe
 
 (1) Das Deutsche Patent- und Markenamt ist Bestimmungsamt, wenn in einer internationalen Anmeldung die Bundesrepublik Deutschland für ein Patent oder ein Gebrauchsmuster oder beide Schutzrechtsarten bestimmt worden ist. Dies gilt nicht, wenn der Anmelder in der internationalen Anmeldung die Erteilung eines europäischen Patents beantragt hat.
 
-(2) Ist das Deutsche Patent- und Markenamt Bestimmungsamt, so hat der Anmelder innerhalb der in Artikel 22 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehenen Frist die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren zu entrichten sowie, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung der Anmeldung in deutscher Sprache einzureichen. Ist das Deutsche Patent- und Markenamt auch Anmeldeamt, so gilt die Anmeldegebühr mit der Zahlung der Übermittlungsgebühr als entrichtet.
+(2) Ist das Deutsche Patent- und Markenamt Bestimmungsamt, so hat der Anmelder innerhalb einer Frist von 31 Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätsdatum die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren zu entrichten sowie, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung der Anmeldung in deutscher Sprache einzureichen. Ist das Deutsche Patent- und Markenamt auch Anmeldeamt, so gilt die Anmeldegebühr mit der Zahlung der Übermittlungsgebühr als entrichtet.
 
-(3) Zur Wahrung der in Artikel 22 Absatz 1 des Patentzusammenarbeitsvertrags vorgesehenen Frist hat der Anmelder eines Patents die Gebühr zu entrichten, die sich nach dem Patentkostengesetz für die ursprünglich eingereichte Fassung der internationalen Anmeldung ergibt. Sind die Ansprüche der internationalen Anmeldung im Verfahren vor dem Internationalen Büro geändert worden und ergibt sich dadurch eine höhere Gebühr nach dem Patentkostengesetz, so wird der Unterschiedsbetrag fällig
+(3) Zur Wahrung der in Absatz 2 Satz 1 vorgesehenen Frist hat der Anmelder eines Patents die Gebühr zu entrichten, die sich nach dem Patentkostengesetz für die ursprünglich eingereichte Fassung der internationalen Anmeldung ergibt. Sind die Ansprüche der internationalen Anmeldung im Verfahren vor dem Internationalen Büro geändert worden und ergibt sich dadurch eine höhere Gebühr nach dem Patentkostengesetz, so wird der Unterschiedsbetrag fällig
 
-1. mit Ablauf der in Artikel 22 Absatz 1 des Patentzusammenarbeitsvertrags bestimmten Frist oder
+1. mit Ablauf der in Absatz 2 Satz 1 bestimmten Frist oder
 
 2. mit Einreichung eines Antrags auf vorzeitige Bearbeitung nach Artikel 23 Absatz 2 des Patentzusammenarbeitsvertrags.
 
 Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab Fälligkeit gezahlt, so wird die Änderung der Ansprüche nicht berücksichtigt.
 
-(4) Wird für die internationale Anmeldung die Priorität einer beim Deutschen Patent- und Markenamt eingereichten früheren Patent- oder Gebrauchsmusteranmeldung beansprucht, so gilt diese abweichend von § 40 Abs. 5 des Patentgesetzes oder § 6 Abs. 1 des Gebrauchsmustergesetzes zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt und die in Artikel 22 oder 39 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehenen Fristen abgelaufen sind. Wird für die internationale Anmeldung nach Satz 1 ein Antrag auf vorzeitige Bearbeitung oder Prüfung nach Artikel 23 Abs. 2 oder Artikel 40 Abs. 2 des Patentzusammenarbeitsvertrags gestellt, gilt die frühere Patent- oder Gebrauchsmusteranmeldung zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt sind und der Antrag auf vorzeitige Prüfung oder Bearbeitung beim Deutschen Patent- und Markenamt eingegangen ist.
+(4) Wird für die internationale Anmeldung die Priorität einer beim Deutschen Patent- und Markenamt eingereichten früheren Patent- oder Gebrauchsmusteranmeldung beansprucht, so gilt diese abweichend von § 40 Abs. 5 des Patentgesetzes oder § 6 Abs. 1 des Gebrauchsmustergesetzes zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt und die in Absatz 2 Satz 1 vorgesehene Frist abgelaufen ist. Wird für die internationale Anmeldung nach Satz 1 ein Antrag auf vorzeitige Bearbeitung oder Prüfung nach Artikel 23 Abs. 2 oder Artikel 40 Abs. 2 des Patentzusammenarbeitsvertrags gestellt, gilt die frühere Patent- oder Gebrauchsmusteranmeldung zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt sind und der Antrag auf vorzeitige Prüfung oder Bearbeitung beim Deutschen Patent- und Markenamt eingegangen ist.
 
 # § 5 – Weiterbehandlung als nationale Anmeldung
 
@@ -165,7 +165,7 @@ Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab Fälligkeit geza
 
 (1) Hat der Anmelder zu einer internationalen Anmeldung, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, beantragt, daß eine internationale vorläufige Prüfung der Anmeldung nach Kapitel II des Patentzusammenarbeitsvertrags durchgeführt wird, und hat er die Bundesrepublik Deutschland als Vertragsstaat angegeben, in dem er die Ergebnisse der internationalen vorläufigen Prüfung verwenden will ("ausgewählter Staat"), so ist das Deutsche Patent- und Markenamt ausgewähltes Amt.
 
-(2) Ist die Auswahl der Bundesrepublik Deutschland vor Ablauf des 19. Monats seit dem Prioritätsdatum erfolgt, so ist § 4 Abs. 2 mit der Maßgabe anzuwenden, daß an die Stelle der dort genannten Frist die in Artikel 39 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehene Frist tritt.
+(2) Ist die Auswahl der Bundesrepublik Deutschland vor Ablauf des 19. Monats seit dem Prioritätsdatum erfolgt, so ist § 4 Absatz 2 und 3 mit der Maßgabe anzuwenden, dass an die Stelle des Artikels 23 Absatz 2 des Patentzusammenarbeitsvertrages Artikel 40 Absatz 2 des Patentzusammenarbeitsvertrages tritt.
 
 # § 7 – Internationaler Recherchenbericht
 

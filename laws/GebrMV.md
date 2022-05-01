@@ -221,9 +221,7 @@ Die für die Abbildungen benutzte Fläche darf 26,2 Zentimeter x 17 Zentimeter n
 
 # § 8 – Abzweigung
 
-(1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland für dieselbe Erfindung bereits früher ein Patent angemeldet, so kann er mit der Gebrauchsmusteranmeldung die Erklärung abgeben, dass der für die Patentanmeldung maßgebende Anmeldetag in Anspruch genommen wird. Ein für die Patentanmeldung beanspruchtes Prioritätsrecht bleibt für die Gebrauchsmusteranmeldung erhalten. Das Recht nach Satz 1 kann bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem die Patentanmeldung erledigt oder ein etwaiges Einspruchsverfahren abgeschlossen ist, jedoch längstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung ausgeübt werden (§ 5 Abs. 1 des Gebrauchsmustergesetzes).
-
-(2) Der Abschrift der fremdsprachigen Patentanmeldung (§ 5 Abs. 2 des Gebrauchsmustergesetzes) ist eine deutsche Übersetzung beizufügen, es sei denn, die Anmeldungsunterlagen stellen bereits die Übersetzung der fremdsprachigen Patentanmeldung dar.
+Bei Abzweigung eines Gebrauchsmusters aus einer Patentanmeldung (§ 5 des Gebrauchsmustergesetzes) ist der Abschrift der fremdsprachigen Patentanmeldung eine deutsche Übersetzung beizufügen. Dies ist nicht erforderlich, wenn die Anmeldungsunterlagen für das Gebrauchsmuster bereits die Übersetzung der fremdsprachigen Patentanmeldung darstellen oder die Übersetzung bereits im Rahmen der Patentanmeldung beim Deutschen Patent- und Markenamt eingereicht worden ist.
 
 # § 9 – Fremdsprachige Dokumente
 

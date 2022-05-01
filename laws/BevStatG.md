@@ -153,7 +153,11 @@ Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzun
 
 2. Ordnungsmerkmal der Meldebehörde,
 
-3. letzte frühere und derzeitige Anschrift.
+3. letzte frühere und derzeitige Anschrift,
+
+4. bei einem Zuzug aus dem Inland: das Datum des Auszugs aus der bisherigen Wohnung,
+
+5. bei einem Wegzug in das Ausland oder nach unbekannt: das Datum des Zuzugs in die Gemeinde.
 
 (4) Sofern bei der Meldebehörde ein Rückmeldeverfahren aus den in Absatz 1 Satz 1 Nummer 1 bis 3 aufgeführten Anlässen vorgesehen ist, erfolgt die Übermittlung der Daten erst nach Abschluss des Rückmeldeverfahrens.
 

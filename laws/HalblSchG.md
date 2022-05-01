@@ -163,7 +163,7 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 # § 11 – Anwendung von Vorschriften des Patentgesetzes, des Gebrauchsmustergesetzes und des Gesetzes zum Schutz von Geschäftsgeheimnissen
 
-(1) Die Vorschriften des Patentgesetzes über die Erstattung von Gutachten (§ 29 Abs. 1 und 2), über die Wiedereinsetzung in den vorigen Stand (§ 123), über die Weiterbehandlung der Anmeldung (§ 123a), über die Wahrheitspflicht im Verfahren (§ 124), über die elektronische Verfahrensführung (§ 125a), über die Amtssprache (§ 126), über Zustellungen (§ 127), über die Rechtshilfe der Gerichte (§ 128) und über den Rechtsschutz bei überlangen Gerichtsverfahren (§ 128b) sind auch für Topographieschutzsachen anzuwenden.
+(1) Die Vorschriften des Patentgesetzes über die Erstattung von Gutachten (§ 29 Abs. 1 und 2), über die Nutzung von urheberrechtlich geschützten Werken und sonstigen Schutzgegenständen (§ 29a), über die Wiedereinsetzung in den vorigen Stand (§ 123), über die Weiterbehandlung der Anmeldung (§ 123a), über die Wahrheitspflicht im Verfahren (§ 124), über die elektronische Verfahrensführung (§ 125a), über die Amtssprache (§ 126), über Zustellungen (§ 127), über die Rechtshilfe der Gerichte (§ 128) und über den Rechtsschutz bei überlangen Gerichtsverfahren (§ 128b) sind auch für Topographieschutzsachen entsprechend anzuwenden.
 
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Bewilligung von Verfahrenskostenhilfe (§ 21 Abs. 2), über die Übertragung und die Lizenz (§ 22), über die Streitwertherabsetzung (§ 26), über die Gebrauchsmusterstreitsachen (§ 27), über die Inlandsvertretung (§ 28) und über die Schutzberühmung (§ 30) sind entsprechend anzuwenden.
 
