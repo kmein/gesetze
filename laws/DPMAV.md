@@ -108,6 +108,10 @@ Sonstige Erfordernisse für Anträge und Eingaben
 
 Fristen
 
+§ 18a
+
+Fristberechnung bei Feiertagen
+
 § 19
 
 Entscheidung nach Lage der Akten
@@ -345,6 +349,10 @@ Zur Erleichterung der Bearbeitung von Anmeldungen teilt das Deutsche Patent- und
 (2) Eine Fristverlängerung kann bei Angabe von ausreichenden Gründen gewährt werden.
 
 (3) Weitere Fristverlängerungen werden nur gewährt, wenn ein berechtigtes Interesse glaubhaft gemacht wird. In Verfahren mit mehreren Beteiligten soll außerdem das Einverständnis der anderen Beteiligten glaubhaft gemacht werden.
+
+# § 18a – Fristberechnung bei Feiertagen
+
+Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine Willenserklärung abzugeben, eine Leistung zu bewirken oder eine Verfahrenshandlung vorzunehmen und fällt der letzte Tag der Frist auf einen an mindestens einer der Dienststellen des Deutschen Patent- und Markenamts geltenden gesetzlichen Feiertag, so tritt an dessen Stelle der nächste Werktag.
 
 # § 19 – Entscheidung nach Lage der Akten
 

@@ -1398,13 +1398,15 @@ Bei Abrufen nach Satz 2 sind hinsichtlich natürlicher Personen der Vorname, der
 
 (6) Verpflichtete nach § 2 Absatz 1 Nummer 1 haben das nach § 24c Absatz 1 des Kreditwesengesetzes zu führende Dateisystem auch für Abrufe der Zentralstelle für Finanztransaktionsuntersuchungen zu führen. Entsprechendes gilt für Verpflichtete nach § 2 Absatz 1 Nummer 3 in Bezug auf das nach § 27 des Zahlungsdiensteaufsichtsgesetzes zu führende Dateisystem sowie für Verpflichtete nach § 2 Absatz 1 Nummer 9 in Bezug auf das nach § 28 des Kapitalanlagegesetzbuchs zu führende Dateisystem. Die Zentralstelle für Finanztransaktionen darf zur Erfüllung ihrer Aufgaben Daten aus diesen Dateisystemen im automatisierten Verfahren abrufen. § 24c Absatz 4 bis 8 des Kreditwesengesetzes gilt entsprechend.
 
-(7) Soweit zur Überprüfung der Personalien des Betroffenen erforderlich, darf die Zentralstelle für Finanztransaktionsuntersuchungen im automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus folgende Daten abrufen:
+(7) Soweit zur Überprüfung der Personalien des Betroffenen erforderlich, darf die Zentralstelle für Finanztransaktionsuntersuchungen im automatisierten Abrufverfahren nach den §§ 34a und 38 des Bundesmeldegesetzes über die in § 34 Absatz 1 Satz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus folgende Daten abrufen:
 
-1. derzeitige Staatsangehörigkeiten,
+1. Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatzpersonalausweises, des anerkannten Passes oder Passersatzpapiers,
 
-2. frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung, und
+2. Tatsachen zu den Pass- und Ausweisdaten nach § 3 Absatz 2 Nummer 4 des Bundesmeldegesetzes sowie
 
-3. Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatzpersonalausweises, des anerkannten und gültigen Passes oder Passersatzpapiers.
+3. Daten zum Wohnungsgeber nach § 3 Absatz 2 Nummer 10 des Bundesmeldegesetzes.
+
+Entsprechendes gilt, soweit konkrete Anhaltspunkte dafür bestehen, dass dies zur Erfüllung der Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 erforderlich ist. In den Fällen des Satzes 2 sind die nach Satz 1 abgerufenen Daten unverzüglich zu löschen, wenn sich nach Abschluss der operativen Analyse ergibt, dass die Voraussetzungen für eine Übermittlung nach § 32 Absatz 2 Satz 1 nicht vorliegen.
 
 # § 32 – Datenübermittlungsverpflichtung an inländische öffentliche Stellen
 

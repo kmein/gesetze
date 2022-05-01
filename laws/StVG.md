@@ -1881,7 +1881,7 @@ Die ersuchende Behörde hat Aufzeichnungen über das Ersuchen mit einem Hinweis 
 
 (4a) Auf Ersuchen der Auskunftsstelle nach § 8a des Pflichtversicherungsgesetzes übermitteln die Zulassungsbehörden und das Kraftfahrt-Bundesamt die nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten zu den in § 8a Abs. 1 des Pflichtversicherungsgesetzes genannten Zwecken.
 
-(4b) Zu den in § 7 Absatz 3 des Internationalen Familienrechtsverfahrensgesetzes, § 4 Abs. 3 Satz 2 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) und den in den §§ 16 und 17 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) bezeichneten Zwecken übermittelt das Kraftfahrt-Bundesamt der in diesen Vorschriften bezeichneten Zentralen Behörde auf Ersuchen die nach § 33 Abs. 1 Satz 1 Nr. 2 gespeicherten Halterdaten.
+(4b) Zu den in § 7 Absatz 2 des Internationalen Familienrechtsverfahrensgesetzes, § 4 Abs. 3 Satz 2 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) und den in den §§ 16 und 17 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) bezeichneten Zwecken übermittelt das Kraftfahrt-Bundesamt der in diesen Vorschriften bezeichneten Zentralen Behörde auf Ersuchen die nach § 33 Abs. 1 Satz 1 Nr. 2 gespeicherten Halterdaten.
 
 (4c) Auf Ersuchen übermittelt das Kraftfahrt-Bundesamt
 

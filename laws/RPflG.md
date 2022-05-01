@@ -491,7 +491,7 @@ Von den gerichtlichen Geschäften in Straf- und Bußgeldverfahren wird dem Recht
 
 12. die Festsetzung der Kosten nach §§ 103ff. der Zivilprozessordnung in Verbindung mit § 80 Absatz 5, § 84 Absatz 2 Satz 2, § 99 Absatz 1, § 109 Absatz 3 des Patentgesetzes, § 18 Absatz 2 des Gebrauchsmustergesetzes, § 4 Absatz 4 Satz 3 des Halbleiterschutzgesetzes, § 71 Absatz 5, § 82 Absatz 1, § 90 Absatz 4 des Markengesetzes, § 23 Absatz 4 und 5 des Designgesetzes;
 
-13. die Erteilung der vollstreckbaren Ausfertigungen in den Fällen des § 125i des Markengesetzes und § 64 des Designgesetzes.
+13. die Erteilung der vollstreckbaren Ausfertigungen in den Fällen des § 125a des Markengesetzes und § 64 des Designgesetzes.
 
 (2) Gegen die Entscheidungen des Rechtspflegers nach Absatz 1 ist die Erinnerung zulässig. Sie ist binnen einer Frist von zwei Wochen einzulegen. § 11 Absatz 1 und 2 Satz 1 ist nicht anzuwenden.
 

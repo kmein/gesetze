@@ -411,7 +411,7 @@ Der Patentinhaber kann verlangen, dass ihm der Lizenzsucher eine Gegenlizenz zu 
 
 (2) Der Präsident des Deutschen Patent- und Markenamts kann bestimmen, daß weitere Angaben in das Register eingetragen werden.
 
-(3) Das Deutsche Patent- und Markenamt vermerkt im Register eine Änderung in der Person, im Namen oder im Wohnort des Anmelders oder Patentinhabers und seines Vertreters sowie Zustellungsbevollmächtigten, wenn sie ihm nachgewiesen wird. Solange die Änderung nicht eingetragen ist, bleibt der frühere Anmelder, Patentinhaber, Vertreter oder Zustellungsbevollmächtigte nach Maßgabe dieses Gesetzes berechtigt und verpflichtet.
+(3) Das Deutsche Patent- und Markenamt vermerkt im Register eine Änderung in der Person, im Namen oder im Wohnort des Anmelders oder Patentinhabers und seines Vertreters sowie Zustellungsbevollmächtigten, wenn sie ihm nachgewiesen wird. Solange die Änderung nicht eingetragen ist, bleibt der frühere Anmelder, Patentinhaber, Vertreter oder Zustellungsbevollmächtigte nach Maßgabe dieses Gesetzes berechtigt und verpflichtet. Übernimmt der neu im Register als Anmelder oder als Patentinhaber Eingetragene ein Einspruchsverfahren vor dem Deutschen Patent- und Markenamt, ein Einspruchs- oder Beschwerdeverfahren vor dem Bundespatentgericht oder ein Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof, so ist dafür die Zustimmung der übrigen Verfahrensbeteiligten nicht erforderlich.
 
 (4) Das Deutsche Patent- und Markenamt trägt auf Antrag des Patentinhabers oder des Lizenznehmers die Erteilung einer ausschließlichen Lizenz in das Register ein, wenn ihm die Zustimmung des anderen Teils nachgewiesen wird. Der Antrag nach Satz 1 ist unzulässig, solange eine Lizenzbereitschaft (§ 23 Abs. 1) erklärt ist. Die Eintragung wird auf Antrag des Patentinhabers oder des Lizenznehmers gelöscht. Der Löschungsantrag des Patentinhabers bedarf des Nachweises der Zustimmung des bei der Eintragung benannten Lizenznehmers oder seines Rechtsnachfolgers.
 
@@ -555,6 +555,8 @@ eingegangen sind.
 
 3. eine in der Kurzfassung erwähnte Zeichnung; sind mehrere Zeichnungen erwähnt, so ist die Zeichnung beizufügen, die die Erfindung nach Auffassung des Anmelders am deutlichsten kennzeichnet.
 
+Sind in der Kurzfassung mehrere Zeichnungen erwähnt und ist nicht eindeutig, welche Zeichnung die Erfindung nach Auffassung des Anmelders am deutlichsten kennzeichnet, so bestimmt die Prüfungsstelle diejenige Zeichnung, die die Erfindung am deutlichsten kennzeichnet.
+
 # § 37
 
 (1) Der Anmelder hat innerhalb von fünfzehn Monaten nach dem Anmeldetag oder, sofern für die Anmeldung ein früherer Zeitpunkt als maßgebend in Anspruch genommen wird, innerhalb von fünfzehn Monaten nach diesem Zeitpunkt den oder die Erfinder zu benennen und zu versichern, daß weitere Personen seines Wissens an der Erfindung nicht beteiligt sind. Ist der Anmelder nicht oder nicht allein der Erfinder, so hat er auch anzugeben, wie das Recht auf das Patent an ihn gelangt ist. Die Richtigkeit der Angaben wird vom Deutschen Patent- und Markenamt nicht geprüft.
@@ -653,7 +655,7 @@ so benachrichtigt die Prüfungsstelle den Anmelder hiervon unter Angabe der Grü
 
 # § 46
 
-(1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. Bis zum Beschluß über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig nicht anfechtbar.
+(1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. § 128a der Zivilprozessordnung ist entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig nicht anfechtbar.
 
 (2) Über die Anhörungen und Vernehmungen ist eine Niederschrift zu fertigen, die den wesentlichen Gang der Verhandlung wiedergeben und die rechtserheblichen Erklärungen der Beteiligten enthalten soll. Die §§ 160a, 162 und 163 der Zivilprozeßordnung sind entsprechend anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
@@ -765,7 +767,7 @@ Die Bundesregierung wird ermächtigt, die zuständige oberste Bundesbehörde im 
 
 # § 61
 
-(1) Die Patentabteilung entscheidet durch Beschluß, ob und in welchem Umfang das Patent aufrechterhalten oder widerrufen wird. Das Verfahren wird von Amts wegen ohne den Einsprechenden fortgesetzt, wenn der Einspruch zurückgenommen wird.
+(1) Die Patentabteilung entscheidet durch Beschluss. Auf einen zulässigen Einspruch hin entscheidet die Patentabteilung, ob und in welchem Umfang das Patent aufrechterhalten oder widerrufen wird. Nimmt der Einsprechende den Einspruch zurück, so wird das Verfahren von Amts wegen ohne den Einsprechenden fortgesetzt. Abweichend von Satz 3 ist das Verfahren beendet, wenn sich der zurückgenommene Einspruch ausschließlich auf den Widerrufsgrund der widerrechtlichen Entnahme nach § 21 Absatz 1 Nummer 3 gestützt hat. In diesem Fall oder wenn das Verfahren in der Hauptsache erledigt ist, wird die Beendigung des Verfahrens durch Beschluss festgestellt.
 
 (2) Abweichend von Absatz 1 entscheidet der Beschwerdesenat des Bundespatentgerichts,
 
@@ -787,7 +789,7 @@ Dies gilt nicht, wenn die Patentabteilung eine Ladung zur Anhörung oder die Ent
 
 # § 63
 
-(1) Auf der Offenlegungsschrift (§ 32 Abs. 2), auf der Patentschrift (§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des Patents (§ 58 Abs. 1) ist der Erfinder zu nennen, sofern er bereits benannt worden ist. Die Nennung ist im Register (§ 30 Abs. 1) zu vermerken. Sie unterbleibt, wenn der vom Anmelder angegebene Erfinder es beantragt. Der Antrag kann jederzeit widerrufen werden; im Falle des Widerrufs wird die Nennung nachträglich vorgenommen. Ein Verzicht des Erfinders auf Nennung ist ohne rechtliche Wirksamkeit.
+(1) Auf der Offenlegungsschrift (§ 32 Abs. 2), auf der Patentschrift (§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des Patents (§ 58 Abs. 1) ist der Erfinder mit Namen und Ortsangabe zu nennen, sofern er bereits benannt worden ist. Die Nennung ist mit Namen und Ortsangabe im Register (§ 30 Abs. 1) zu vermerken. Sie unterbleibt vollständig oder hinsichtlich der Ortsangabe, wenn der vom Anmelder angegebene Erfinder es beantragt. Der Antrag kann jederzeit widerrufen werden; im Falle des Widerrufs wird die Nennung nachträglich vorgenommen. Ein Verzicht des Erfinders auf Nennung ist ohne rechtliche Wirksamkeit.
 
 (2) Ist die Person des Erfinders unrichtig oder im Falle des Absatzes 1 Satz 3 überhaupt nicht angegeben, so sind der Patentsucher oder Patentinhaber sowie der zu Unrecht Benannte dem Erfinder verpflichtet, dem Deutschen Patent- und Markenamt gegenüber die Zustimmung dazu zu erklären, daß die in Absatz 1 Satz 1 und 2 vorgesehene Nennung berichtigt oder nachgeholt wird. Die Zustimmung ist unwiderruflich. Durch die Erhebung einer Klage auf Erklärung der Zustimmung wird das Verfahren zur Erteilung des Patents nicht aufgehalten.
 
@@ -981,7 +983,7 @@ Das Deutsche Patent- und Markenamt hat die rechtliche Beurteilung, die der Aufhe
 
 # § 83
 
-(1) In dem Verfahren wegen Erklärung der Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien so früh wie möglich auf Gesichtspunkte hin, die für die Entscheidung voraussichtlich von besonderer Bedeutung sein werden oder der Konzentration der Verhandlung auf die für die Entscheidung wesentlichen Fragen dienlich sind. Eines solchen Hinweises bedarf es nicht, wenn die zu erörternden Gesichtspunkte nach dem Vorbringen der Parteien offensichtlich erscheinen. § 139 der Zivilprozessordnung ist ergänzend anzuwenden.
+(1) In dem Verfahren wegen Erklärung der Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien so früh wie möglich auf Gesichtspunkte hin, die für die Entscheidung voraussichtlich von besonderer Bedeutung sein werden oder der Konzentration der Verhandlung auf die für die Entscheidung wesentlichen Fragen dienlich sind. Dieser Hinweis soll innerhalb von sechs Monaten nach Zustellung der Klage erfolgen. Ist eine Patentstreitsache anhängig, soll der Hinweis auch dem anderen Gericht von Amts wegen übermittelt werden. Das Patentgericht kann den Parteien zur Vorbereitung des Hinweises nach Satz 1 eine Frist für eine abschließende schriftliche Stellungnahme setzen. Setzt das Patentgericht keine Frist, darf der Hinweis nicht vor Ablauf der Frist nach § 82 Absatz 3 Satz 2 und 3 erfolgen. Stellungnahmen der Parteien, die nach Fristablauf eingehen, muss das Patentgericht für den Hinweis nicht berücksichtigen. Eines Hinweises nach Satz 1 bedarf es nicht, wenn die zu erörternden Gesichtspunkte nach dem Vorbringen der Parteien offensichtlich erscheinen. § 139 der Zivilprozessordnung ist ergänzend anzuwenden.
 
 (2) Das Patentgericht kann den Parteien eine Frist setzen, binnen welcher sie zu dem Hinweis nach Absatz 1 durch sachdienliche Anträge oder Ergänzungen ihres Vorbringens und auch im Übrigen abschließend Stellung nehmen können. Die Frist kann verlängert werden, wenn die betroffene Partei hierfür erhebliche Gründe darlegt. Diese sind glaubhaft zu machen.
 

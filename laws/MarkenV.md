@@ -357,7 +357,7 @@ Internationale Registrierungen
 
 § 43
 
-Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
+(weggefallen)
 
 § 44
 
@@ -365,7 +365,7 @@ Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierun
 
 § 45
 
-Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen
+(weggefallen)
 
 § 46
 
@@ -841,7 +841,7 @@ b) bei teilweiser Nichtigkeitserklärung und Löschung der Marke eine entspreche
 
 30. bei der infolge einer Teilungserklärung abgetrennten Eintragung die entsprechende Angabe und die Registernummer der Stammeintragung,
 
-31. der Tag und die Nummer der internationalen Registrierung (§§ 110, 122 Abs. 2 des Markengesetzes),
+31. der Tag und die Nummer der internationalen Registrierung (§ 110 Absatz 2 des Markengesetzes),
 
 32. der Rechtsübergang einer Marke zusammen mit Angaben über den Rechtsnachfolger und gegebenenfalls seinen Vertreter gemäß den Nummern 15, 16 und 17,
 
@@ -1075,21 +1075,17 @@ Der Antrag auf Änderung oder Löschung einer nach § 30 Absatz 6 des Markengese
 
 (3) Erklärungen nach Absatz 1 können jederzeit gegenüber dem Deutschen Patent- und Markenamt schriftlich zurückgenommen werden.
 
-# § 43 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
-
-Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer in das Register eingetragenen Marke nach Artikel 3 des Madrider Markenabkommens beim Deutschen Patent- und Markenamt sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
+# § 43 – (weggefallen)
 
 # § 44 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen
 
 Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer beim Deutschen Patent- und Markenamt angemeldeten oder in das Register eingetragenen Marke nach Artikel 3 des Protokolls zum Madrider Markenabkommen sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
 
-# § 45 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen
-
-Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer beim Deutschen Patent- und Markenamt in das Register eingetragenen Marke sowohl nach Artikel 3 des Madrider Markenabkommens als auch nach Artikel 3 des Protokolls zum Madrider Markenabkommen sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
+# § 45 – (weggefallen)
 
 # § 46 – Schutzverweigerung
 
-(1) Wird einer international registrierten Marke, deren Schutz nach Artikel 3ter des Madrider Markenabkommens oder nach Artikel 3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der Bundesrepublik Deutschland erstreckt worden ist, der Schutz ganz oder teilweise verweigert und wird diese Schutzverweigerung dem Internationalen Büro der Weltorganisation für geistiges Eigentum zur Weiterleitung an den Inhaber der internationalen Registrierung übermittelt, so wird die Frist, innerhalb derer ein Inlandsvertreter bestellt werden muss, damit der Schutz nicht endgültig verweigert wird, auf vier Monate ab dem Tag der Absendung der Mitteilung der Schutzverweigerung durch das Internationale Büro der Weltorganisation für geistiges Eigentum festgesetzt.
+(1) Wird einer international registrierten Marke, deren Schutz nach Artikel 3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der Bundesrepublik Deutschland erstreckt worden ist, der Schutz ganz oder teilweise verweigert und wird diese Schutzverweigerung dem Internationalen Büro der Weltorganisation für geistiges Eigentum zur Weiterleitung an den Inhaber der internationalen Registrierung übermittelt, so wird die Frist, innerhalb derer ein Inlandsvertreter bestellt werden muss, damit der Schutz nicht endgültig verweigert wird, auf vier Monate ab dem Tag der Absendung der Mitteilung der Schutzverweigerung durch das Internationale Büro der Weltorganisation für geistiges Eigentum festgesetzt.
 
 (2) Wird die Schutzverweigerung endgültig, weil der Inhaber der international registrierten Marke keinen Inlandsvertreter bestellt hat, so ist eine gegen die Schutzverweigerung gegebene Erinnerung oder Beschwerde beim Deutschen Patent- und Markenamt innerhalb eines weiteren Monats nach Ablauf der in Absatz 1 genannten Frist einzulegen. Der Schutzverweigerung muss eine entsprechende Rechtsmittelbelehrung beigefügt sein. § 61 Abs. 2 des Markengesetzes ist entsprechend anzuwenden.
 
