@@ -93,7 +93,7 @@ sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nuk
 
 eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenennachweises im Sinne von § 22a Absatz 2 des Infektionsschutzgesetzes ist,
 
- 8. (wegefallen)
+ 8. (weggefallen)
 
  9. geimpfte Person
 
