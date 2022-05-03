@@ -6550,7 +6550,7 @@
 - [2. BesVNG](laws/2._BesVNG.md) Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
 - [2. BImSchV](laws/2._BImSchV.md) Zweite Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [2. BinSch-SportbootVermVAbweichV](laws/2._BinSch-SportbootVermVAbweichV.md) Zweite Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrt-Sportbootvermietungsverordnung
-- [2. BMeldDÜV](laws/2._BMeldDÜV.md) Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes sowie zur Durchführung des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt gemäß § 3 Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative
+- [2. BMeldDÜV](laws/2._BMeldDÜV.md) Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes
 - [2. DAVG](laws/2._DAVG.md) Zweites Gesetz zur Verbesserung der Registrierung und des Datenaustausches zu aufenthalts- und asylrechtlichen Zwecken
 - [2. DV LuftBO](laws/2._DV_LuftBO.md) Zweite Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung)
 - [2. DV LuftGerPV](laws/2._DV_LuftGerPV.md) Zweite Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät (Lufttüchtigkeitsforderungen für Luftfahrtgerät)
