@@ -31,4 +31,4 @@ Ein erforderlicher Aufenthaltstitel kann von den in § 2 Absatz 1 bis 3 genannte
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 23. Mai 2022 außer Kraft.
+(2) Sie tritt mit Ablauf des 31. August 2022 außer Kraft.
