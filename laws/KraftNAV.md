@@ -237,7 +237,7 @@ verfügt.
 
 (3) Kosten zur Verstärkung des Netzes sowie einen Baukostenzuschuss hat der Anschlussnehmer nicht zu tragen.
 
-(+++ § 8: Zur Anwendung vgl. § 3 KWKG 2016 +++)
+(+++ § 8: Zur Anwendung vgl. § 3 Abs. 1 Satz 3 KWKG 2016 +++)
 
 # § 9 – Kraftwerksanschluss-Register
 

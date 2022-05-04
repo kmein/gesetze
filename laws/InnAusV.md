@@ -107,6 +107,8 @@ Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreib
 
 (3) Die Bundesnetzagentur erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Zuschlagswert.
 
+(+++ § 11 Abs. 2 Nr. 2: Zur Anwendung vgl. § 17 Abs. 2 Nr. 5 +++)
+
 # § 12 – Bekanntgabe der Zuschläge und Werte
 
 (1) Die Bundesnetzagentur gibt die Zuschläge mit folgenden Angaben auf ihrer Internetseite bekannt:

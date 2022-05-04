@@ -590,6 +590,44 @@ Monitoring und ergänzende Informationen
 
  
 
+ 
+
+Teil 3a
+
+Füllstandsvorgaben  
+für Gasspeicheranlagen und  
+Gewährleistung der Versorgungssicherheit
+
+§ 35a
+
+Allgemeines
+
+§ 35b
+
+Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung
+
+§ 35c
+
+Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
+
+§ 35d
+
+Freigabeentscheidung
+
+§ 35e
+
+Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung
+
+§ 35f
+
+Evaluierung
+
+§ 35g
+
+Inkrafttreten, Außerkrafttreten
+
+ 
+
 Teil 4
 
 Energielieferung an Letztverbraucher
@@ -1576,15 +1614,19 @@ Natürliche oder juristische Personen, die Energie für den eigenen Verbrauch ka
 
 eine Kopfstation zur Verflüssigung von Erdgas oder zur Einfuhr, Entladung und Wiederverdampfung von verflüssigtem Erdgas; darin eingeschlossen sind Hilfsdienste und die vorübergehende Speicherung, die für die Wiederverdampfung und die anschließende Einspeisung in das Fernleitungsnetz erforderlich sind, jedoch nicht die zu Speicherzwecken genutzten Teile von LNG-Kopfstationen,
 
-26a. Messstellenbetreiber
+26a. Marktgebietsverantwortlicher
+
+ist die von den Fernleitungsnetzbetreibern mit der Wahrnehmung von Aufgaben des Netzbetriebs beauftragte bestimmte natürliche oder juristische Person, die in einem Marktgebiet Leistungen erbringt, die zur Verwirklichung einer effizienten Abwicklung des Gasnetzzugangs durch eine Person zu erbringen sind,
+
+26b. Messstellenbetreiber
 
 ein Netzbetreiber oder ein Dritter, der die Aufgabe des Messstellenbetriebs wahrnimmt,
 
-26b. Messstellenbetrieb
+26c. Messstellenbetrieb
 
 der Einbau, der Betrieb und die Wartung von Messeinrichtungen,
 
-26c. Messung
+26d. Messung
 
 die Ab- und Auslesung der Messeinrichtung sowie die Weitergabe der Daten an die Berechtigten,
 
@@ -3970,6 +4012,78 @@ Sofern ein Antrag nicht die Voraussetzungen des Satzes 1 erfüllt, weist die Reg
 
 (2) Zur Durchführung des Monitoring und zur Erhebung der ergänzenden Informationen gelten die Befugnisse nach § 69 entsprechend.
 
+# § 35a – Allgemeines
+
+(1) Der Marktgebietsverantwortliche wirkt im Rahmen der Gewährleistung der Versorgungssicherheit mit und kann in diesem Rahmen nach Maßgabe der §§ 35b bis 35d angemessene Maßnahmen ergreifen. Das Bundesministerium für Wirtschaft und Klimaschutz erteilt die Zustimmung im angemessenen Umfang.
+
+(2) Die Vorschriften dieses Teils sind nur für Gasspeicheranlagen anzuwenden, die in Deutschland gelegen sind und mindestens einen Anschlusspunkt an das deutsche Fernleitungsnetz haben. Die zu Speicherzwecken genutzten Teile von LNG Anlagen sind von den Vorschriften dieses Teils ausgenommen.
+
+# § 35b – Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung
+
+(1) Der Betreiber einer Gasspeicheranlage hat vertragliche Regelungen aufzunehmen, welche die jeweiligen Rahmenbedingungen zur Erreichung der nachfolgend dargestellten Füllstandsvorgaben definieren, wonach jeweils im Zeitraum vom 1. Oktober eines Kalenderjahres bis zum 1. Februar des Folgejahres die von ihm betriebenen Gasspeicheranlagen einen Füllstand nach Satz 2 aufweisen sollen. Hierbei sind in jeder Gasspeicheranlage die nachfolgend angegebenen Füllstände als prozentualer Anteil am Arbeitsgasvolumen der Gasspeicheranlage zu den genannten Stichtagen vorzuhalten (Füllstandsvorgaben):
+
+1. am 1. Oktober: 80 Prozent.
+
+2. am 1. November: 90 Prozent.
+
+3. am 1. Februar: 40 Prozent.
+
+(2) Um die Einhaltung der Füllstandsvorgaben nach Absatz 1 Satz 2 zu gewährleisten, hat der Betreiber einer Gasspeicheranlage bereits am 1. August eines Kalenderjahres einen Füllstand nachzuweisen, der die Erreichung der Füllstandsvorgaben nicht gefährdet.
+
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichende Regelungen zu den relevanten Stichtagen und Füllstandsvorgaben nach Absatz 1 Satz 2 und Absatz 2 festlegen, soweit die Sicherheit der Gasversorgung dabei angemessen berücksichtigt bleibt.
+
+(4) Der Betreiber einer Gasspeicheranlage hat den Nachweis über die Einhaltung der Vorgaben aus Absatz 1 Satz 2 und Absatz 2 sowie, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde, die Einhaltung der darin enthaltenen Vorgaben, gegenüber dem Bundesministerium für Wirtschaft und Klimaschutz, der Bundesnetzagentur und dem Marktgebietsverantwortlichen schriftlich oder elektronisch zu erbringen. Der Betreiber einer Gasspeicheranlage muss im Rahmen von Satz 1 nachweisen, ob Gas physisch in den Gasspeicheranlagen in entsprechender Menge eingelagert ist. Zusätzlich zum Nachweis nach Satz 1 hat der Betreiber einer Gasspeicheranlage der Bundesnetzagentur und dem Marktgebietsverantwortlichen insbesondere folgende Angaben zu übermitteln:
+
+1. die prozentualen Füllstände sowie die Füllstände in Kilowattstunden,
+
+2. den Nachweis darüber, dass der jeweilige Gasspeicher die Voraussetzungen nach § 35a Absatz 2 Satz 1 erfüllt sowie
+
+3. sonstige im Zusammenhang mit der Erfüllung der Füllstandsvorgaben relevante Informationen.
+
+Die Mitteilungen nach Satz 3 müssen elektronisch in einem mit der Bundesnetzagentur und dem Marktgebietsverantwortlichen abgestimmten Datenformat einmal wöchentlich übermittelt werden, auf Verlagen der Bundesnetzagentur oder des Marktgebietsverantwortlichen in kürzeren Zeitabständen.
+
+(5) Wenn erkennbar ist, dass die Füllstandsvorgaben nach Absatz 1 Satz 2, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde die darin enthaltenen Vorgaben, oder Absatz 3 technisch nicht erreicht werden können, weil der Nutzer einer Gasspeicheranlage die von ihm auf fester Basis gebuchten Arbeitsgasvolumina (Speicherkapazitäten) nicht nutzt, ist der Betreiber einer Gasspeicheranlage verpflichtet, dem Marktgebietsverantwortlichen die nicht genutzten Speicherkapazitäten der Nutzer der Gasspeicheranlage rechtzeitig anteilig nach dem Maß der Nichtnutzung des Nutzers in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang bis zum Ablauf des Speicherjahres zur Verfügung zu stellen; hierzu gehört auch die Ein- und Ausspeicherleistung.
+
+(6) Der Betreiber einer Gasspeicheranlage hat in einem Vertrag über die Nutzung einer Gasspeicheranlage vertragliche Bestimmungen aufzunehmen, welche ihn berechtigen, von dem Nutzer nicht genutzte Speicherkapazitäten dem Marktgebietsverantwortlichen zur Verfügung zu stellen, soweit hinsichtlich des Nutzers die Voraussetzungen nach Absatz 5 vorliegen. Der Nutzer einer Gasspeicheranlage, dessen Speicherkapazitäten der Betreiber der Gasspeicheranlage dem Marktgebietsverantwortlichen zur Verfügung gestellt hat, bleibt zur Zahlung der Entgelte für die Speichernutzung verpflichtet mit Ausnahme der variablen Speicherentgelte für die Ein- und Ausspeisung. Eine von Satz 2 abweichende vertragliche Vereinbarung ist unwirksam. Auf Aufforderung der Bundesnetzagentur weist der Betreiber einer Gasspeicheranlage die Umsetzung der Verpflichtung nach Absatz 5 nach.
+
+(7) Das Bundesministerium für Wirtschaft und Klimaschutz kann ohne Zustimmung des Bundesrates durch Rechtsverordnung ein von Absatz 5 und 6 abweichendes Verfahren über die Zurverfügungstellung vom Nutzer einer Gasspeicheranlage ungenutzter Kapazitäten an den Marktgebietsverantwortlichen regeln, soweit dies zur Gewährleistung der Versorgungssicherheit erforderlich ist. Hierzu kann unter Berücksichtigung der technischen und wirtschaftlichen Rahmenbedingungen insbesondere geregelt werden, ob die vom Nutzer einer Gasspeicheranlage ungenutzten Speicherkapazitäten als unterbrechbare Kapazitäten durch den Marktgebietsverantwortlichen genutzt werden dürfen.
+
+# § 35c – Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
+
+(1) Zur Gewährleistung der Versorgungssicherheit hat der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren strategische Optionen zur Vorhaltung von Gas (Gas-Optionen) in angemessenem Umfang zur Gewährleistung der Erreichung der Füllstände nach § 35b zu beschaffen.
+
+(2) Sollten Maßnahmen nach Absatz 1 sowie Einspeicherungen der Nutzer einer Gasspeicheranlage zur Erreichung der Füllstände nach § 35b Absatz 1 sowie Absatz 3 nicht ausreichen, so ergreift der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang zusätzliche Maßnahmen. Diese umfassen die zusätzliche, auch kurzfristige Ausschreibung von Gas-Optionen für die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten in einem marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren sowie den Erwerb physischen Gases und dessen Einspeicherung. Sofern die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten hierzu nicht ausreichen, kann der Marktgebietsverantwortliche die benötigten Speicherkapazitäten buchen, wobei als Speicherentgelt hierfür das durchschnittlich kostengünstigste Speicherentgelt der letzten drei Speicherjahre für die jeweilige Gasspeicheranlage zu Grunde gelegt wird.
+
+# § 35d – Freigabeentscheidung
+
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit der Bundesnetzagentur und nach Anhörung des Marktgebietsverantwortlichen anordnen, dass der Marktgebietsverantwortliche nach § 35c beschaffte Gas-Optionen ganz oder teilweise ausüben darf und dass er nach § 35c Absatz 2 erworbene Gasmengen ganz oder teilweise ausspeichern darf, insbesondere
+
+1. zur Verhütung unmittelbar drohender oder zur Behebung eingetretener Störungen in der Energieversorgung
+
+2. zum Ausgleich eines erheblichen und unerwarteten Rückgangs von Lieferungen von Gas oder
+
+3. zur Behebung regionaler Engpasssituationen.
+
+Satz 1 gilt entsprechend für die Anordnung, dass vorübergehend und in Abweichung von § 35b Absatz 1 Satz 2 einschließlich einer Rechtsverordnung nach § 35b Absatz 3 geringere Füllstände vorgehalten werden dürfen.
+
+(2) Die Anordnungen nach Absatz 1 sind jeweils mit Wirkung für die Zukunft zu widerrufen, sobald die sie begründenden Umstände nicht mehr vorliegen. Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit der Bundesnetzagentur und nach Anhörung des Marktgebietsverantwortlichen bestimmen, ob und in welchem Umfang nach erfolgtem Widerruf einer Anordnung nach Absatz 1 eine Befüllung der Speicher zu erfolgen hat.
+
+(3) Artikel 13 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die §§ 16, 16a und 53a dieses Gesetzes, die Vorschriften des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das zuletzt durch Artikel 86 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, sowie die Vorschriften der Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die zuletzt durch Artikel 3 Absatz 48 des Gesetzes vom 7. Juli 2005 (BGBl. I S. 1970) geändert worden ist, in der jeweils geltenden Fassung, bleiben hiervon unberührt.
+
+(4) Der Marktgebietsverantwortliche hat die nach § 35c Absatz 2 physisch erworbenen Gasmengen spätestens ab dem 1. Januar eines Jahres bis zum Ende des Speicherjahres gleichmäßig zu veräußern. Der Marktgebietsverantwortliche hat das Bundesministerium für Wirtschaft und Klimaschutz sowie die Bundesnetzagentur mindestens zwei Wochen vor dem Beginn der Veräußerungen nach Satz 1 schriftlich oder elektronisch zu informieren. Satz 1 gilt nicht, wenn zu erwarten ist, dass die Füllstandsvorgaben nach § 35b Absatz 1 oder nach der Rechtsverordnung nach § 35b Absatz 3 in der Folgeperiode nicht ohne Maßnahmen nach § 35c Absatz 2 gewährleistet werden können oder das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur der Veräußerung widersprochen hat. Absatz 1 bleibt unberührt.
+
+# § 35e – Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung
+
+Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden Kosten werden diskriminierungsfrei und in einem transparenten Verfahren auf die Bilanzkreisverantwortlichen im Marktgebiet umgelegt. Hierzu hat der Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der ergriffenen Maßnahmen nach diesem Teil, insbesondere nach den §§ 35c und 35d, entstehen, transparent und für Dritte nachvollziehbar zu ermitteln. Die Kosten und Erlöse sind zu saldieren. Der Marktgebietsverantwortliche ist berechtigt, von den Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der voraussichtlichen Kosten zu verlangen. Die Einzelheiten genehmigt die Bundesnetzagentur im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen nach § 29 Absatz 1; dem Marktgebietsverantwortlichen ist Gelegenheit zur Stellungnahme zu geben.
+
+# § 35f – Evaluierung
+
+Das Bundesministerium für Wirtschaft und Klimaschutz bewertet bis zum 15. Dezember 2022 die Umsetzung der Vorschriften dieses Teils und evaluiert bis zum 1. April 2023 die Vorschriften dieses Teils und deren Auswirkungen. Die Berichte sind unverzüglich dem Deutschen Bundestag vorzulegen.
+
+# § 35g – Inkrafttreten, Außerkrafttreten
+
+Die gesetzlichen Regelungen zur Einführung von Füllstandsvorgaben für Gasspeicheranlagen treten am Tag nach der Verkündung in Kraft. Sie treten am 1. April 2025 außer Kraft.
+
 # § 36 – Grundversorgungspflicht
 
 (1) Energieversorgungsunternehmen haben für Netzgebiete, in denen sie die Grundversorgung von Haushaltskunden durchführen, Allgemeine Bedingungen und Allgemeine Preise für die Versorgung in Niederspannung oder Niederdruck öffentlich bekannt zu geben und im Internet zu veröffentlichen und zu diesen Bedingungen und Preisen jeden Haushaltskunden zu versorgen. Die Veröffentlichungen im Internet müssen einfach auffindbar sein und unmissverständlich verdeutlichen, dass es sich um die Preise und Bedingungen der Belieferung in der Grundversorgung handelt. Die Pflicht zur Grundversorgung besteht nicht, wenn die Versorgung für das Energieversorgungsunternehmen aus wirtschaftlichen Gründen nicht zumutbar ist.
@@ -6333,6 +6447,10 @@ Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage verzichten. 
 (33) Für besondere netztechnische Betriebsmittel, für die bis zum 30. November 2020 ein Vergabeverfahren begonnen wurde, ist § 11 Absatz 3 in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden. Satz 1 ist auch anzuwenden, wenn ein bereits vor dem 30. November 2020 begonnenes Vergabeverfahren aufgrund rechtskräftiger Entscheidung nach dem 30. November 2020 neu durchgeführt werden muss.
 
 (34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt. Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum 31. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023 einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung nach § 7c Absatz 2 erteilt hat. Der Zugang zu diesen Ladepunkten ist Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu gewähren.
+
+(35) (zukünftig in Kraft)
+
+(36) § 35b Absatz 6 ist auf Nutzungsverträge zwischen Betreibern und Nutzern von Gasspeicheranlagen, die vor dem 30. April 2022 geschlossen wurden und keine Bestimmungen nach § 35b Absatz 6 enthalten, erst nach dem 14. Juli 2022 anzuwenden. Stimmt der Nutzer der Gasspeicheranlage der Aufnahme von Bestimmungen nach § 35b Absatz 6 in den Vertrag bis zum 1. Juli 2022 nicht zu, kann der Betreiber den Vertrag ohne Einhaltung einer Frist kündigen.
 
 # § 119 – Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
 

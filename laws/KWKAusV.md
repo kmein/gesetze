@@ -75,7 +75,7 @@ c) der die nächstgelegene Verbindungsleitung betreibt, die die Grenze zwischen 
 
 19. „Zuschlagswert“ der in einem bezuschlagten Gebot angegebene Gebotswert.
 
-(+++ § 2 Nr. 12, 13, 16: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
+(+++ § 2 Nr. 12, 13, 16: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
 # § 3 – Gebotstermine und Ausschreibungsvolumen
 
@@ -495,8 +495,7 @@ In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein
 
 (8) Auf den Anspruch auf Zuschlagszahlung nach Absatz 2 Nummer 1 sind die §§ 7a und 7b des Kraft-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Der Bonus nach § 7c des Kraft-Wärme-Kopplungsgesetzes wird bei Vorliegen der jeweiligen Voraussetzungen neben dem Anspruch auf Zuschlagszahlung nach Absatz 2 gezahlt.
 
-(+++ § 19 Abs. 3 mit Ausnahme von Satz 1 Nr. 3: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)  
-(+++ § 19 Abs. 7: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
+(+++ § 19 Abs. 3 mit Ausnahme von Satz 1 Nr. 3: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
 # § 20 – Mitteilungspflichten
 
@@ -543,8 +542,6 @@ Die Nachweise nach Satz 1 müssen von einem Wirtschaftsprüfer, einer Wirtschaft
 3. die Verringerung des Zuschlagswertes auf null nach § 19 Absatz 5, soweit diese in einem Kalenderjahr für 1 500 Vollbenutzungsstunden oder mehr erfolgt.
 
 (5) Während der Dauer der Zuschlagszahlungen müssen Betreiber von KWK-Anlagen und Betreiber innovativer KWK-Systeme dem Netzbetreiber mitteilen, wenn und in welchem Umfang im vorangegangenen Kalenderjahr für den in der KWK-Anlage oder der KWK-Anlage des innovativen KWK-Systems erzeugten KWK-Strom eine Stromsteuerbefreiung vorgelegen hat, und den Netzbetreiber über entsprechende Änderungen informieren.
-
-(+++ § 20 Abs. 3: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
 # § 21 – Pönalen
 

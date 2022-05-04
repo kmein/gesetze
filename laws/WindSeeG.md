@@ -606,6 +606,8 @@ Hat die Bundesnetzagentur einem Gebot nach Satz 2 einen Zuschlag erteilt, darf s
 
 (4) Die Bundesnetzagentur kann durch Festlegung nach § 29 des Energiewirtschaftsgesetzes nähere Bestimmungen zur Umsetzung der Absätze 1 und 2 treffen.
 
+(+++ § 34: Zur Anwendung vgl. § 60 Abs. 2 Nr. 2 in der am 9.12.2020 geltenden Fassung +++)
+
 # § 35 – Flächenbezug des Zuschlags
 
 Die Bundesnetzagentur muss den Zuschlag bezogen auf die Fläche erteilen, die sich aus den Standortangaben nach § 31 Absatz 1 Satz 2 ergibt.
