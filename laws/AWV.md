@@ -2014,9 +2014,9 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 4. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 des Rates vom 11. Juli 1994 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang mit Verträgen und Geschäften, deren Durchführung durch die Resolution 757 (1992) des Sicherheitsrates der Vereinten Nationen und mit ihr in Verbindung stehende Resolutionen berührt wurde (ABl. L 182 vom 16.7.1994, S. 1),
 
-4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über die Anwendung spezifischer restriktiver Maßnahmen gegen Personen, die gegen das Waffenembargo betreffend die Demokratische Republik Kongo verstoßen (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/613 (ABl. L 102 vom 21.4.2015, S. 3) geändert worden ist,
+4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über restriktive Maßnahmen angesichts der Lage in der Demokratischen Republik Kongo (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2021/2177 (ABl. L 443 vom 10.12.2021, S.3) geändert worden ist,
 
-4b. (weggefallen)
+4b. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 des Rates vom 18. Mai 2006 über restriktive Maßnahmen angesichts der Lage in Belarus und der Beteiligung von Belarus an der Aggression Russlands gegen die Ukraine (ABl. L 134 vom 20.5.2006, S. 1), die zuletzt durch die Verordnung (EU) 2022/577 (ABl. L 111 vom 8.4.2022, S. 67) geändert worden ist,
 
 4c. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18. Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom 19.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1) geändert worden ist,
 
@@ -2032,23 +2032,37 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 9. (weggefallen)
 
-10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31. Juli 2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1290/2014 (ABl. L 349 vom 5.12.2014, S. 20) geändert worden ist,
+10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31. Juli 2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2022/576 (ABl. L 111 vom 8.4.2022, S. 1) geändert worden ist,
 
 11. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 60), die zuletzt durch die Verordnung (EU) 2015/878 (ABl. L 143 vom 9.6.2014, S. 1) geändert worden ist,
 
 12. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 des Rates vom 7. Mai 2015 über restriktive Maßnahmen angesichts der Lage in Südsudan und zur Aufhebung der Verordnung (EU) Nr. 748/2014 (ABl. L 117 vom 8.5.2015, S. 13),
 
-13. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 des Rates vom 30. August 2017 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea und zur Aufhebung der Verordnung (EG) Nr. 329/2007 (ABl. L 224 vom 31.8.2017, S. 1), die durch die Verordnung (EU) 2017/1858 (ABl. L 265 I vom 16.10.2017, S. 1) geändert worden ist, oder
+13. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 des Rates vom 30. August 2017 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea und zur Aufhebung der Verordnung (EG) Nr. 329/2007 (ABl. L 224 vom 31.8.2017, S. 1), die durch die Verordnung (EU) 2017/1858 (ABl. L 265 I vom 16.10.2017, S. 1) geändert worden ist,
 
-14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21)
+14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21) oder
 
-einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung stattgibt. Soweit die in Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
+15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77)
+
+einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 des Rates vom 22. November 1996 zum Schutz vor den Auswirkungen der extraterritorialen Anwendung von einem Drittland erlassener Rechtsakte sowie von darauf beruhenden oder sich daraus ergebenden Maßnahmen (ABl. L 309 vom 29.11.1996, S. 1, L 179 vom 8.7.1997, S. 10), die durch die Verordnung (EG) Nr. 807/2003 (ABl. L 122 vom 16.5.2003, S. 36) geändert worden ist, einer dort genannten Forderung oder einem dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
 (3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2020/2149 (ABl. L 428 vom 18.12.2020, S. 38) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 36/2012 verstößt, indem er vorsätzlich oder fahrlässig
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 765/2006 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 1j ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
+
+2. entgegen Artikel 1ja Absatz 1 eine dort genannte Transaktion vornimmt,
+
+3. entgegen Artikel 1jb ein dort genanntes Wertpapier notiert,
+
+4. entgegen Artikel 1k Absatz 1 eine dort genannte Vereinbarung trifft oder
+
+5. entgegen Artikel 1u Absatz 1 eine dort genannte Einlage entgegennimmt.
+
+(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 36/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 24 Buchstabe a oder Buchstabe b eine staatliche oder staatlich garantierte Anleihe kauft oder Vermittlungsdienste im Zusammenhang mit dem Kauf einer staatlichen oder staatlich garantierten Anleihe erbringt,
 
@@ -2056,15 +2070,15 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung statt
 
 3. entgegen Artikel 25 Absatz 2 Buchstabe b eine Vereinbarung schließt, die die Eröffnung einer Repräsentanz oder die Gründung einer Zweigniederlassung oder Tochtergesellschaft betrifft.
 
-(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. ohne Genehmigung nach Artikel 2a Absatz 1 Buchstabe d Satzteil vor Satz 2 Ziffer i, auch in Verbindung mit Satz 2, oder Artikel 3a Absatz 1 Buchstabe d eine dort genannte Vereinbarung abschließt oder
 
 2. entgegen Artikel 4b Buchstabe c eine dort genannte Vereinbarung schließt.
 
-(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, eine Ware nicht oder nicht rechtzeitig gestellt.
+(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, eine Ware nicht oder nicht rechtzeitig gestellt.
 
-(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 692/2014 verstößt, indem er vorsätzlich oder fahrlässig
+(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 692/2014 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 2a Absatz 1 Buchstabe a oder b eine Beteiligung erwirbt oder ausweitet,
 
@@ -2074,15 +2088,37 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung statt
 
 4. entgegen Artikel 2a Absatz 1 Buchstabe e eine Wertpapierdienstleistung erbringt.
 
-(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 verstößt, indem er vorsätzlich oder fahrlässig
+(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 verstößt, indem er vorsätzlich oder fahrlässig
 
-1. entgegen Artikel 5 Absatz 1 oder Absatz 2 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder
+1. entgegen Artikel 2e Absatz 3 sich an einem dort genannten Projekt beteiligt oder zu einem solchen Projekt anderweitig beiträgt,
 
-2. entgegen Artikel 5 Absatz 3 Satz 1 eine dort genannte Vereinbarung trifft.
+2. entgegen Artikel 3a Absatz 1 Buchstabe a eine bestehende Beteiligung ausweitet,
 
-(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
+3. entgegen Artikel 3a Absatz 1 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
 
-(10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer gegen die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558) verstößt, indem er vorsätzlich oder fahrlässig
+4. entgegen Artikel 3a Absatz 1 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
+
+5. entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz 1 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
+
+6. entgegen Artikel 5 Absatz 5 ein dort genanntes Wertpapier notiert,
+
+7. entgegen Artikel 5 Absatz 6 Satz 1 oder Artikel 5a Absatz 2 Satz 1 eine dort genannte Vereinbarung trifft,
+
+8. entgegen Artikel 5a Absatz 4 eine dort genannte Transaktion vornimmt,
+
+9. entgegen Artikel 5aa Absatz 1 ein Geschäft mit einer dort genannten juristischen Person, Organisation oder Einrichtung tätigt,
+
+10. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
+
+11. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
+
+12. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation oder Einrichtung unterstützt oder
+
+13. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert.
+
+(10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
+
+(11) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer gegen die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558) verstößt, indem er vorsätzlich oder fahrlässig
 
 1. als Inhaber einer Zulassung oder Bewilligung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 im Ausfuhrverfahren entgegen Artikel 224 eine in der Zulassung oder Bewilligung genannte Unterlage oder eine Unterlage, die für die Erfüllung einer in Artikel 267 Absatz 3 Buchstabe a, b oder Buchstabe c der Verordnung (EU) Nr. 952/2013 genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereithält,
 
@@ -2096,7 +2132,7 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung statt
 
 6. ohne Zustimmung nach Artikel 340 Absatz 3 den geänderten Beförderungsvertrag erfüllt.
 
-(11) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2017/1509 verstößt, indem er vorsätzlich oder fahrlässig
+(12) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2017/1509 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 17 Absatz 1 eine dort genannte Investition zulässt,
 
@@ -2146,13 +2182,21 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung statt
 
 24. entgegen Artikel 31 Buchstabe a oder Buchstabe b eine dort genannte Anleihe kauft oder einen Vermittlungsdienst im Zusammenhang mit dem Kauf einer solchen Anlage erbringt.
 
-(12) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder fahrlässig
+(13) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder fahrlässig
 
 1. einer vollziehbaren Anordnung nach Artikel 7 Absatz 1 oder 2 Satz 1 zuwiderhandelt oder
 
 2. ohne Genehmigung nach Artikel 11 Absatz 1 Satz 1 dort genannte Güter verbringt.
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
+
+(14) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2022/263 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 3 Absatz 1 Buchstabe a oder Buchstabe b eine Beteiligung ausweitet,
+
+2. entgegen Artikel 3 Absatz 1 Buchstabe c eine dort genannte Vereinbarung trifft oder
+
+3. entgegen Artikel 3 Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet.
 
 # § 82a – Übergangsbestimmungen
 
