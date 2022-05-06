@@ -633,13 +633,13 @@ Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallerzeuger können für die Erf
 
 Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallbeförderer können für die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem Formblatt Verantwortliche Erklärung VE, Aufdruck 2, und für die Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage 1 verwenden. Soweit Abfallbeförderer die Register nach § 25 Abs. 2 Satz 2 elektronisch führen, müssen sie die Register unter Zugrundelegung dieser Formblätter in entsprechender Anwendung der §§ 17 bis 20 führen.
 
-(8) Abfallentsorger, die Abfälle behandeln und lagern, registrieren, unabhängig davon, ob sie zur Nachweisführung verpflichtet sind oder nicht, zusätzlich die Menge an Erzeugnissen, Materialien und Stoffen, die aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus einem sonstigen Verwertungsverfahren hervorgehen, indem sie für jedes Erzeugnis, Material und jede Stoffart ein eigenes Verzeichnis erstellen, in welchem sie
+(8) Abfallentsorger, die Abfälle behandeln, registrieren, unabhängig davon, ob sie zur Nachweisführung verpflichtet sind oder nicht, zusätzlich die Menge an Erzeugnissen, Materialien und Stoffen, die aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus einem sonstigen Verwertungsverfahren hervorgehen, indem sie für jedes Erzeugnis, Material und jede Stoffart ein eigenes Verzeichnis erstellen, in welchem sie
 
 1. als Überschrift die Erzeugnis-, Material- oder Stoffart angeben,
 
-2. die Menge der aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus einem sonstigen Verwertungsverfahren hervorgegangenen Erzeugnisse, Materialien oder Stoffe angeben und
+2. unterhalb dieser Angaben fortlaufend für jede aus der Behandlung hervorgegangene Erzeugnis-, Material- oder Stoffcharge spätestens zehn Kalendertage nach Abschluss der Behandlung das Datum, an dem das Ende der Abfalleigenschaft erreicht wurde, angeben und diese Angaben unterschreiben.
 
-3. unterhalb dieser Angaben fortlaufend für jede aus der Behandlung hervorgegangene Erzeugnis-, Material- oder Stoffcharge spätestens zehn Kalendertage nach Abschluss der Behandlung ihre Menge und das Datum, an dem das Ende der Abfalleigenschaft erreicht wurde, angeben und diese Angaben unterschreiben. Absatz 6 Satz 2 bis 4 gilt entsprechend.
+Absatz 6 Satz 2 bis 4 gilt entsprechend.
 
 # § 25 – Dauer der Registrierung, elektronische Registerführung
 

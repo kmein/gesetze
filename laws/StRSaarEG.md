@@ -33,7 +33,7 @@ Das Gesetz Nr. 551 über die Errichtung der Kammer der Steuerberater und Helfer 
 
 # § 42
 
-\-
+(Änderungsvorschrift)
 
 # § 43 – Personenkreis
 
