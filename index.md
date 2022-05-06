@@ -2403,7 +2403,7 @@
 - [GesundZAAbkFRAVVbg](laws/GesundZAAbkFRAVVbg.md) Verwaltungsvereinbarung zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
 - [GesWFachwPrV](laws/GesWFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
 - [GesWZustG](laws/GesWZustG.md) Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens
-- [GewAbfV](laws/GewAbfV.md) Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen
+- [GewAbfV](laws/GewAbfV.md) Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen1
 - [GewAnzV](laws/GewAnzV.md) Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens
 - [GewBezG](laws/GewBezG.md) Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
 - [GewebeG](laws/GewebeG.md) Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen
@@ -2679,6 +2679,7 @@
 - [HeimsicherungsV](laws/HeimsicherungsV.md) Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zweck der Unterbringung eines Bewohners oder Bewerbers
 - [HeizkostenV](laws/HeizkostenV.md) Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten
 - [HeizkZG](laws/HeizkZG.md) Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses
+- [HeizkZuschG](laws/HeizkZuschG.md) Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses aufgrund stark gestiegener Energiekosten
 - [HeizölLBV](laws/HeizölLBV.md) Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise
 - [HerrentunnelMautHV](laws/HerrentunnelMautHV.md) Verordnung über die Höhe der Maut für die Benutzung des Herrentunnels
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
@@ -3878,6 +3879,7 @@
 - [Münz10EuroBek 2019-08-07](laws/Münz10EuroBek_2019-08-07.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „In der Luft“)
 - [Münz10EuroBek 2020-03-20](laws/Münz10EuroBek_2020-03-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „An Land“)
 - [Münz10EuroBek 2021-04-23](laws/Münz10EuroBek_2021-04-23.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Auf dem Wasser“)
+- [Münz10EuroBek 2022-04-06](laws/Münz10EuroBek_2022-04-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Pflege“)
 - [Münz1DMBek](laws/Münz1DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
 - [Münz1PfBek 1948](laws/Münz1PfBek_1948.md) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
 - [Münz1PfBek BW](laws/Münz1PfBek_BW.md) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
@@ -3924,6 +3926,8 @@
 - [Münz20EuroBek 2021-06-21/2](laws/Münz20EuroBek_2021-06-21_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Schwarzspecht“ der Serie „Heimische Vögel“)
 - [Münz20EuroBek 2022-01-20/1](laws/Münz20EuroBek_2022-01-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Rumpelstilzchen“)
 - [Münz20EuroBek 2022-01-20/2](laws/Münz20EuroBek_2022-01-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „225. Geburtstag Annette von Droste-Hülshoff“)
+- [Münz20EuroBek 2022-04-06/1](laws/Münz20EuroBek_2022-04-06_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „50 Jahre Deutsches Kinderhilfswerk“)
+- [Münz20EuroBek 2022-04-06/2](laws/Münz20EuroBek_2022-04-06_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Kegelrobbe“ der Serie „Rückkehr der Wildtiere“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -3958,6 +3962,7 @@
 - [Münz2EuroBek 2021-02-08/1](laws/Münz2EuroBek_2021-02-08_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „50 Jahre Kniefall von Warschau“)
 - [Münz2EuroBek 2021-02-08/2](laws/Münz2EuroBek_2021-02-08_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Sachsen-Anhalt“)
 - [Münz2EuroBek 2022-01-20](laws/Münz2EuroBek_2022-01-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Thüringen“)
+- [Münz2EuroBek 2022-04-06](laws/Münz2EuroBek_2022-04-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „35 Jahre Erasmus-Programm“)
 - [Münz2PfBek 1950](laws/Münz2PfBek_1950.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek_1968.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig

@@ -41,11 +41,13 @@ e) Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des Elektro- 
 
 f) Vertreiber, die Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 1 oder Absatz 2 des Elektro- und Elektronikgerätegesetzes zurücknehmen,
 
-g) Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und Industrie-Altbatterien gemäß § 8 des Batteriegesetzes vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2071) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt,
+g) Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und Elektronikgerätegesetzes freiwillig zurücknehmen,
 
-h) Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des Batteriegesetzes zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt sowie
+h) Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und Industrie-Altbatterien gemäß § 8 des Batteriegesetzes vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2071) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt,
 
-i) Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen,
+i) Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des Batteriegesetzes zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt sowie
+
+j) Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen,
 
 3. Betreiber folgender Rücknahmesysteme:
 

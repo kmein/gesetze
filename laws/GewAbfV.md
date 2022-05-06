@@ -1,4 +1,4 @@
-% Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen  (Gewerbeabfallverordnung - GewAbfV)
+% Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen1  (Gewerbeabfallverordnung - GewAbfV)
 % Ausfertigungsdatum: 18.04.2017
  
 # Eingangsformel
@@ -83,7 +83,7 @@ stationäre oder mobile Anlage, in der aus mineralischen Bau- und Abbruchabfäll
 
 6. Getrenntsammlungsquote:
 
-der Quotient der getrennt gesammelten Masse an gewerblichen Siedlungsabfällen und der Gesamtmasse der bei einem Erzeuger anfallenden gewerblichen Siedlungsabfälle multipliziert mit 100 Prozent,
+der Quotient der zur stofflichen Verwertung getrennt gesammelten Masse an gewerblichen Siedlungsabfällen und der Gesamtmasse der bei einem Erzeuger anfallenden gewerblichen Siedlungsabfälle multipliziert mit 100 Prozent,
 
 7. Sortierquote:
 
@@ -109,7 +109,7 @@ der Quotient der dem Recycling zugeführten Masse an Abfällen und der Gesamtmas
 
 6. Textilien,
 
-7. Bioabfälle nach § 3 Absatz 7 des Kreislaufwirtschaftsgesetzes und
+7. Bioabfälle nach § 3 Absatz 7 des Kreislaufwirtschaftsgesetzes; unterteilt nach verpackten Bioabfällen, insbesondere verpackten Lebensmittelabfällen, und unverpackten Bioabfällen sowie
 
 8. weitere Abfallfraktionen, die in den in § 2 Nummer 1 Buchstabe b genannten Abfällen enthalten sind.
 
@@ -121,7 +121,7 @@ Erzeuger und Besitzer von gewerblichen Siedlungsabfällen nach Satz 1 können ei
 
 1. für die getrennte Sammlung durch Lagepläne, Lichtbilder, Praxisbelege, wie Liefer- oder Wiegescheine oder ähnliche Dokumente,
 
-2. für die Zuführung der getrennt gesammelten Abfälle zur Vorbereitung zur Wiederverwendung oder zum Recycling durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen Namen und Anschrift sowie die Masse und den beabsichtigten Verbleib des Abfalls zu enthalten hat, und
+2. für die Zuführung der getrennt gesammelten Abfälle zur Verwertung durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen Namen und Anschrift sowie die Masse, die Verwertungsart und den beabsichtigten Verbleib des Abfalls zu enthalten hat, und
 
 3. für das Abweichen von der Pflicht zur getrennten Sammlung durch eine Darlegung der technischen Unmöglichkeit oder der wirtschaftlichen Unzumutbarkeit.
 
@@ -151,7 +151,7 @@ Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vo
 
 1. wessen Befähigung durch eine Akkreditierung der nationalen Akkreditierungsstelle in einem allgemein anerkannten Verfahren festgestellt ist,
 
-2. wer als Umweltgutachter oder Umweltgutachterorganisation auf Grund einer Zulassung nach den §§ 9 und 10 oder nach Maßgabe des § 18 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 3 des Gesetzes vom 25. November 2015 (BGBl. I S. 2092) geändert worden ist, in der jeweils geltenden Fassung, in dem Bereich tätig werden darf, der näher bestimmt wird durch Anhang I Abschnitt E Abteilung 38 der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist, in der jeweils geltenden Fassung, tätig werden darf,
+2. wer als Umweltgutachter oder Umweltgutachterorganisation auf Grund einer Zulassung nach den §§ 9 und 10 oder nach Maßgabe des § 18 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 3 des Gesetzes vom 25. November 2015 (BGBl. I S. 2092) geändert worden ist, in der jeweils geltenden Fassung, in dem Bereich tätig werden darf, der näher bestimmt wird durch Anhang I Abschnitt E Abteilung 38 der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist, in der jeweils geltenden Fassung,
 
 3. wer nach § 36 der Gewerbeordnung öffentlich bestellt ist oder
 
@@ -229,11 +229,11 @@ Erzeuger und Besitzer von Bau- und Abbruchabfällen können eine getrennte Samml
 
 1. für die getrennte Sammlung durch Lagepläne, Lichtbilder, Praxisbelege, wie Liefer- oder Wiegescheine oder ähnliche Dokumente,
 
-2. für die Zuführung der getrennt gesammelten Abfälle zur Vorbereitung zur Wiederverwendung oder zum Recycling durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen Namen und Anschrift sowie die Masse und den beabsichtigten Verbleib des Abfalls zu enthalten hat, und
+2. für die Zuführung der getrennt gesammelten Abfälle zur Verwertung durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen Namen und Anschrift sowie die Masse, die Verwertungsart und den beabsichtigten Verbleib des Abfalls zu enthalten hat, und
 
 3. für das Abweichen von der Pflicht zur getrennten Sammlung durch eine Darlegung der technischen Unmöglichkeit oder der wirtschaftlichen Unzumutbarkeit.
 
-Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
+Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde elektronisch zu erfolgen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 # § 9 – Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen
 
@@ -253,7 +253,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 (5) Entfällt die Pflicht nach Absatz 1 Satz 1 oder Absatz 3 Satz 1 unter den Voraussetzungen des Absatzes 4, so haben Erzeuger und Besitzer die Gemische von anderen Abfällen getrennt zu halten und unverzüglich vorrangig einer ordnungsgemäßen, schadlosen und hochwertigen sonstigen Verwertung zuzuführen.
 
-(6) Erzeuger und Besitzer haben die Erfüllung der Pflicht nach Absatz 1 Satz 1 oder Absatz 3 Satz 1 oder, im Fall der Abweichung von dieser Pflicht, das Vorliegen der Voraussetzungen nach Absatz 4 und die Einhaltung der Pflicht nach Absatz 5 zu dokumentieren. Die Dokumentation kann insbesondere durch Lagepläne oder Lichtbilder, Praxisbelege, wie Liefer- oder Wiegescheine, Entsorgungsverträge oder Nachweise desjenigen, der die zuzuführenden Abfälle übernimmt, erfolgen. Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
+(6) Erzeuger und Besitzer haben die Erfüllung der Pflicht nach Absatz 1 Satz 1 oder Absatz 3 Satz 1 oder, im Fall der Abweichung von dieser Pflicht, das Vorliegen der Voraussetzungen nach Absatz 4 und die Einhaltung der Pflicht nach Absatz 5 zu dokumentieren. Die Dokumentation kann insbesondere durch Lagepläne oder Lichtbilder, Praxisbelege, wie Liefer- oder Wiegescheine, Entsorgungsverträge oder Nachweise desjenigen, der die zuzuführenden Abfälle übernimmt, erfolgen. Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde elektronisch zu erfolgen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 # § 10 – Eigenkontrolle bei Vorbehandlungsanlagen
 
