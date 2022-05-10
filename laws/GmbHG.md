@@ -933,6 +933,8 @@ Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben auße
 
 (4) Die Länder können die Vorgaben der Absätze 2 und 3 durch Landesgesetz auf Gesellschaften mit beschränkter Haftung erstrecken, an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1 besteht. In diesem Fall gelten für Gesellschaften mit Mehrheitsbeteiligung eines Landes, die der Mitbestimmung unterliegen, die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
+(+++ § 77a Abs. 2: Zur Nichtanwendung vgl. § 38 Abs. 3 +++)
+
 # § 78 – Anmeldepflichtige
 
 Die in diesem Gesetz vorgesehenen Anmeldungen zum Handelsregister sind durch die Geschäftsführer oder die Liquidatoren, die in § 7 Abs. 1, § 57 Abs. 1, § 57i Abs. 1, § 58 Abs. 1 Nr. 3 vorgesehenen Anmeldungen sind durch sämtliche Geschäftsführer zu bewirken.

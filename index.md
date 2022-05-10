@@ -837,7 +837,7 @@
 - [BinSchUO2018Anh V](laws/BinSchUO2018Anh_V.md) Nationale Muster (Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchUO2018Anh VII](laws/BinSchUO2018Anh_VII.md) Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung (Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchZV](laws/BinSchZV.md) Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)
-- [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden
+- [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden *
 - [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen
 - [BiomasseV](laws/BiomasseV.md) Verordnung über die Erzeugung von Strom aus Biomasse
 - [BioMatHintV](laws/BioMatHintV.md) Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren
