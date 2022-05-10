@@ -686,7 +686,7 @@ e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzliche
 
 (3) Die Absätze 1 und 2 finden entsprechende Anwendung auf Dritte im Sinne von § 17, auf die ein Verpflichteter zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 10 Absatz 1 Nummer 1 bis 4 zurückgreift.
 
-# § 12 – Identitätsüberprüfung, Verordnungsermächtigung
+# § 12 – Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung
 
 (1) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum Vertragspartner und gegebenenfalls für diesen auftretende Personen hat bei natürlichen Personen zu erfolgen anhand
 

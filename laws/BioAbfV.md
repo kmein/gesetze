@@ -1,4 +1,4 @@
-% Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden  (Bioabfallverordnung - BioAbfV)
+% Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden*  (Bioabfallverordnung - BioAbfV)
 % Ausfertigungsdatum: 21.09.1998
  
 # § 1 – Anwendungsbereich
