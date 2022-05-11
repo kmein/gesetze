@@ -4273,7 +4273,7 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für Taten, die
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für folgende Taten, die im Ausland begangen werden:
 
-1. weggefallen
+1. (weggefallen)
 
 2. Hochverrat (§§ 81 bis 83);
 
@@ -5593,7 +5593,8 @@ Verweist ein Gesetz auf diese Vorschrift, können Gegenstände abweichend von §
 2. sie in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.
 
 (+++ § 74a: Zur Anwendung vgl. § 95 Satz 2 MPDG +++)  
-(+++ § 74a: Zur Anwendung vgl. §§ 184k u. 201a +++)
+(+++ § 74a: Zur Anwendung vgl. §§ 184k u. 201a +++)  
+(+++ § 74a: Zur Anwendung vgl. §176e +++)
 
 # § 74b – Sicherungseinziehung
 
