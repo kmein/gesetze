@@ -252,7 +252,7 @@
 - [ASG](laws/ASG.md) Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung
 - [ASGZustV](laws/ASGZustV.md) Verordnung zur Übertragung von Zuständigkeiten nach dem Arbeitssicherstellungsgesetz auf Dienststellen im Geschäftsbereich des Bundesministers der Verteidigung
 - [ASiG](laws/ASiG.md) Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit
-- [ASLwApFG](laws/ASLwApFG.md) Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
+- [ASLwApFG](laws/ASLwApFG.md) Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft
 - [AsphAusbV](laws/AsphAusbV.md) Verordnung über die Berufsausbildung zum Asphaltbauer
 - [ASRG 1995](laws/ASRG_1995.md) Gesetz zur Reform der agrarsozialen Sicherung
 - [AssoziierungsAbkEG/ALBG](laws/AssoziierungsAbkEG_ALBG.md) Gesetz zu dem Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Albanien andererseits
@@ -837,7 +837,7 @@
 - [BinSchUO2018Anh V](laws/BinSchUO2018Anh_V.md) Nationale Muster (Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchUO2018Anh VII](laws/BinSchUO2018Anh_VII.md) Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung (Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchZV](laws/BinSchZV.md) Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)
-- [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden *
+- [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden 1, 2, *
 - [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen
 - [BiomasseV](laws/BiomasseV.md) Verordnung über die Erzeugung von Strom aus Biomasse
 - [BioMatHintV](laws/BioMatHintV.md) Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren

@@ -1,4 +1,4 @@
-% Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
+% Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft  (Fördergesetz)
 % Ausfertigungsdatum: 06.07.1990
  
 # Eingangsformel
