@@ -117,14 +117,13 @@ und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit
 
 (2) Ist der Umgang mit sonstigen radioaktiven Stoffen darauf gerichtet, dass sie bei der Ausübung der Heilkunde am Menschen angewandt werden oder dass sie in die Luft, das Wasser, den Boden oder den Bewuchs gelangen, ohne dass die weitere Verbreitung verhindert werden kann, so beträgt die Regeldeckungssumme das Zweifache der in der Anlage 2 angegebenen Werte.
 
-(3) Beim Umgang mit radioaktiven Abfällen in einer Landessammelstelle oder in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen Euro, sofern es sich bei der Landessammelstelle oder der sonstigen Einrichtung nicht um eine Kernanlage im Sinne des § 2 Absatz 4 des Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70 Millionen Euro.
+(3) Beim Umgang mit radioaktiven Abfällen in einer Landessammelstelle oder in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen Euro, sofern es sich bei der Landessammelstelle oder der sonstigen Einrichtung nicht um eine Kernanlage im Sinne von § 2 Absatz 4 des Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70 Millionen Euro.
 
 (4) Für die Beförderung radioaktiver Stoffe gilt Absatz 1 entsprechend; bei der Beförderung sonstiger radioaktiver Stoffe sind die Werte der Anlage 2 Spalte 2 anzuwenden.
 
 (5) Die Deckungssumme soll bei der Beförderung den Betrag von 35 Millionen Euro nicht überschreiten. Eine Überschreitung ist nur zulässig, wenn nach den Umständen des Einzelfalls der Betrag nach Satz 1 nicht angemessen ist; in diesem Fall kann die Verwaltungsbehörde die Deckungssumme bis zu einer Höchstgrenze des Zweifachen der Summe nach Satz 1 erhöhen. § 16 Absatz 2 findet entsprechende Anwendung.
 
-(+++ § 8 Abs. 4 u. 5: Zur Anwendung vgl. § 8a Abs. 3 +++)  
-§ 8 Absatz 3 Satz 1 Kursivdruck: Die Wörter "im Sinne des" der Neufassung gem. Bek. v. 21.1.2022 I 118 weichen von vorheriger konstitutiver Fassung ab und müssen richtig "im Sinne von" lauten.
+(+++ § 8 Abs. 4 u. 5: Zur Anwendung vgl. § 8a Abs. 3 +++)
 
 # § 8a – Beförderung von Kernmaterialien
 
@@ -438,7 +437,7 @@ Stoffe
 
  1.
 
-hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt werden
+hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind
 
 0,05
 
@@ -527,8 +526,7 @@ vom 10¹⁴fachen bis zum 10¹⁵fachen
 
 12 bis 14
 
-(+++ Anlage 2: Zur Anwendung vgl. § 8 Abs. 4 +++)  
-Anlage 2 Tabelle Zeile 3 Spalte 2 Nummer 1 Kursivdruck: Die Wörter "genannt werden" der Neufassung gem. Bek. v. 21.1.2022 I 118 weichen von vorheriger konstitutiver Fassung ab und müssen richtig "genannt sind" lauten.
+(+++ Anlage 2: Zur Anwendung vgl. § 8 Abs. 4 +++)
 
 # Anlage 3 – (zu § 8a Absatz 1, § 9 Absatz 1, § 11 Absatz 1 und 2)Massenabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien und für Kernanlagen in Millionen Euro
 
