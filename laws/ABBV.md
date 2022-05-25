@@ -46,7 +46,7 @@ Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des Eisenbahnkreuz
 
 # Anlage – (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2010, 857 - 871)
+(Fundstelle: BGBl. I 2010, 857 - 871; bzgl. einzelner Änderungen vgl. Fußnote)
 
 1.1  
 Bauliche Anlagen
