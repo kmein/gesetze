@@ -1315,37 +1315,43 @@ Einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges Urlaubsp
 
 1. die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für das Kommunikationsmittel und für die Waren und Dienstleistungen angemessenen Umfang,
 
-2. seine Identität, beispielsweise seinen Handelsnamen sowie die Anschrift des Ortes, an dem er niedergelassen ist, seine Telefonnummer und gegebenenfalls seine Telefaxnummer und E-Mail-Adresse sowie gegebenenfalls die Anschrift und die Identität des Unternehmers, in dessen Auftrag er handelt,
+2. seine Identität, beispielsweise seinen Handelsnamen, sowie die Anschrift des Ortes, an dem er niedergelassen ist, sowie gegebenenfalls die Identität und die Anschrift des Unternehmers, in dessen Auftrag er handelt,
 
-3. zusätzlich zu den Angaben gemäß Nummer 2 die Geschäftsanschrift des Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in dessen Auftrag er handelt, an die sich der Verbraucher mit jeder Beschwerde wenden kann, falls diese Anschrift von der Anschrift unter Nummer 2 abweicht,
+3. seine Telefonnummer, seine E-Mail-Adresse sowie gegebenenfalls andere von ihm zur Verfügung gestellte Online-Kommunikationsmittel, sofern diese gewährleisten, dass der Verbraucher seine Korrespondenz mit dem Unternehmer, einschließlich deren Datums und deren Uhrzeit, auf einem dauerhaften Datenträger speichern kann,
 
-4. den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+4. zusätzlich zu den Angaben gemäß den Nummern 2 und 3 die Geschäftsanschrift des Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in dessen Auftrag er handelt, an die sich der Verbraucher mit jeder Beschwerde wenden kann, falls diese Anschrift von der Anschrift nach Nummer 2 abweicht,
 
-5. im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum anfallenden Gesamtkosten und, wenn für einen solchen Vertrag Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen Gesamtkosten; wenn die Gesamtkosten vernünftigerweise nicht im Voraus berechnet werden können, ist die Art der Preisberechnung anzugeben,
+5. den Gesamtpreis der Waren oder der Dienstleistungen, einschließlich aller Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder der Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung,
 
-6. die Kosten für den Einsatz des für den Vertragsabschluss genutzten Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet werden, die über die Kosten für die bloße Nutzung des Fernkommunikationsmittels hinausgehen,
+6. gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert wurde,
 
-7. die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem der Unternehmer die Waren liefern oder die Dienstleistung erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden,
+7. gegebenenfalls alle zusätzlich zu dem Gesamtpreis nach Nummer 5 anfallenden Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
 
-8. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren,
+8. im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum anfallenden Gesamtkosten und, wenn für einen solchen Vertrag Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen Gesamtkosten; wenn die Gesamtkosten vernünftigerweise nicht im Voraus berechnet werden können, ist die Art der Preisberechnung anzugeben,
 
-9. gegebenenfalls das Bestehen und die Bedingungen von Kundendienst, Kundendienstleistungen und Garantien,
+9. die Kosten für den Einsatz des für den Vertragsabschluss genutzten Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet werden, die über die Kosten für die bloße Nutzung des Fernkommunikationsmittels hinausgehen,
 
-10. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel 2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und Verbrauchern und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22) und wie Exemplare davon erhalten werden können,
+10. die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem der Unternehmer die Waren liefern oder die Dienstleistung erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden,
 
-11. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
+11. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren oder die digitalen Produkte,
 
-12. gegebenenfalls die Mindestdauer der Verpflichtungen, die der Verbraucher mit dem Vertrag eingeht,
+12. gegebenenfalls das Bestehen und die Bedingungen von Kundendienst, Kundendienstleistungen und Garantien,
 
-13. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die Stellung einer Kaution oder die Leistung anderer finanzieller Sicherheiten verlangen kann, sowie deren Bedingungen,
+13. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel 2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und Verbrauchern und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22; L 253 vom 25.9.2009, S. 18), die zuletzt durch die Richtlinie (EU) 2019/2161 (ABl. L 328 vom 18.12.2019, S. 7) geändert worden ist, und wie Exemplare davon erhalten werden können,
 
-14. gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich anwendbarer technischer Schutzmaßnahmen für solche Inhalte,
+14. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
 
-15. gegebenenfalls, soweit wesentlich, Beschränkungen der Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard- und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind oder bekannt sein müssen, und
+15. gegebenenfalls die Mindestdauer der Verpflichtungen, die der Verbraucher mit dem Vertrag eingeht,
 
-16. gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
+16. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die Stellung einer Kaution oder die Leistung anderer finanzieller Sicherheiten verlangen kann, sowie deren Bedingungen,
 
-Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 und 3 die entsprechenden Angaben des Versteigerers zur Verfügung gestellt werden.
+17. gegebenenfalls die Funktionalität der Waren mit digitalen Elementen oder der digitalen Produkte, einschließlich anwendbarer technischer Schutzmaßnahmen,
+
+18. gegebenenfalls, soweit wesentlich, die Kompatibilität und die Interoperabilität der Waren mit digitalen Elementen oder der digitalen Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder bekannt sein müssen, und
+
+19. gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
+
+Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 bis 4 die entsprechenden Angaben des Versteigerers zur Verfügung gestellt werden.
 
 (2) Steht dem Verbraucher ein Widerrufsrecht nach § 312g Absatz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher zu informieren
 
@@ -1353,7 +1359,7 @@ Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung geschlo
 
 2. gegebenenfalls darüber, dass der Verbraucher im Widerrufsfall die Kosten für die Rücksendung der Waren zu tragen hat, und bei Fernabsatzverträgen zusätzlich über die Kosten für die Rücksendung der Waren, wenn die Waren auf Grund ihrer Beschaffenheit nicht auf dem normalen Postweg zurückgesendet werden können, und
 
-3. darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über die Erbringung von Dienstleistungen oder über die nicht in einem bestimmten Volumen oder in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357 Absatz 8 des Bürgerlichen Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist verlangt hat.
+3. darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über die Erbringung von Dienstleistungen, für die die Zahlung eines Preises vorgesehen ist, oder über die nicht in einem bestimmten Volumen oder in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357a Absatz 2 des Bürgerlichen Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist verlangt hat.
 
 Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das in der Anlage 1 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
@@ -1367,7 +1373,7 @@ Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das 
 
 (1) Hat der Verbraucher bei einem Vertrag über Reparatur- und Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen wird, bei dem die beiderseitigen Leistungen sofort erfüllt werden und die vom Verbraucher zu leistende Vergütung 200 Euro nicht übersteigt, ausdrücklich die Dienste des Unternehmers angefordert, muss der Unternehmer dem Verbraucher lediglich folgende Informationen zur Verfügung stellen:
 
-1. die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und
+1. die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und 3 sowie
 
 2. den Preis oder die Art der Preisberechnung zusammen mit einem Kostenvoranschlag über die Gesamtkosten.
 
@@ -1391,7 +1397,7 @@ Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen w
 
 3. den Gesamtpreis oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung,
 
-4. gegebenenfalls das Bestehen eines Widerrufsrechts und
+4. gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs und
 
 5. gegebenenfalls die Vertragslaufzeit und die Bedingungen für die Kündigung eines Dauerschuldverhältnisses.
 
@@ -1431,7 +1437,7 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 11. alle spezifischen zusätzlichen Kosten, die der Verbraucher für die Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
 
-12. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere Name und Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
+12. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere Name und Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
 
 13. die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder regelmäßig wiederkehrende Leistung zum Inhalt hat,
 
@@ -1457,7 +1463,7 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 4. mögliche weitere Steuern und Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden, und
 
-5. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
+5. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
 
 Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch weitere Informationen übermittelt werden können und welcher Art diese Informationen sind, und der Verbraucher ausdrücklich auf die Übermittlung der weiteren Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
 
@@ -1474,6 +1480,104 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 (2) Der Verbraucher kann während der Laufzeit des Vertrags vom Unternehmer jederzeit verlangen, dass dieser ihm die Vertragsbedingungen einschließlich der Allgemeinen Geschäftsbedingungen in Papierform zur Verfügung stellt.
 
 (3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts kann der Unternehmer dem Verbraucher das jeweils einschlägige, in der Anlage 3, der Anlage 3a oder der Anlage 3b vorgesehene Muster für die Widerrufsbelehrung bei Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform übermitteln. In Fällen des Artikels 247 § 1 Absatz 2 Satz 6 kann der Unternehmer zur Erfüllung seiner Informationspflicht nach Artikel 246b § 2 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Artikel 246b § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts dem Verbraucher das in der Anlage 6 vorgesehene Muster für das ESIS-Merkblatt zutreffend ausgefüllt in Textform übermitteln. Zur Erfüllung seiner Informationspflichten nach den Sätzen 1 und 2 kann der Unternehmer bis zum Ablauf des 31. Dezember 2021 auch das Muster der Anlage 3 in der Fassung von Artikel 2 Nummer 7 des Gesetzes zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung vom 20. September 2013 (BGBl. I S. 3642) verwenden.
+
+# § 1 – Informationspflichten
+
+Der Betreiber eines Online-Marktplatzes muss den Verbraucher informieren
+
+1. zum Ranking der Waren, Dienstleistungen oder digitalen Inhalte, die dem Verbraucher als Ergebnis seiner Suchanfrage auf dem Online-Marktplatz präsentiert werden, allgemein über
+
+a) die Hauptparameter zur Festlegung des Rankings und
+
+b) die relative Gewichtung der Hauptparameter zur Festlegung des Rankings im Vergleich zu anderen Parametern,
+
+2. falls dem Verbraucher auf dem Online-Marktplatz das Ergebnis eines Vergleichs von Waren, Dienstleistungen oder digitalen Inhalten präsentiert wird, über die Anbieter, die bei der Erstellung des Vergleichs einbezogen wurden,
+
+3. gegebenenfalls darüber, dass es sich bei ihm und dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte um verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes handelt,
+
+4. darüber, ob es sich bei dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte nach dessen eigener Erklärung gegenüber dem Betreiber des Online-Marktplatzes um einen Unternehmer handelt,
+
+5. falls es sich bei dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte nach dessen eigener Erklärung gegenüber dem Betreiber des Online-Marktplatzes nicht um einen Unternehmer handelt, darüber, dass die besonderen Vorschriften für Verbraucherverträge auf den Vertrag nicht anzuwenden sind,
+
+6. gegebenenfalls darüber, in welchem Umfang der Anbieter der Waren, Dienstleistungen oder digitalen Inhalte sich des Betreibers des Online-Marktplatzes bei der Erfüllung von Verbindlichkeiten aus dem Vertrag mit dem Verbraucher bedient, und darüber, dass dem Verbraucher hierdurch keine eigenen vertraglichen Ansprüche gegenüber dem Betreiber des Online-Marktplatzes entstehen, und
+
+7. falls ein Anbieter eine Eintrittsberechtigung für eine Veranstaltung weiterverkaufen will, ob und gegebenenfalls in welcher Höhe der Veranstalter nach Angaben des Anbieters einen Preis für den Erwerb dieser Eintrittsberechtigung festgelegt hat.
+
+# § 2 – Formale Anforderungen
+
+(1) Der Betreiber eines Online-Marktplatzes muss dem Verbraucher die Informationen nach § 1 vor Abgabe von dessen Vertragserklärung in klarer, verständlicher und in einer den benutzten Fernkommunikationsmitteln angepassten Weise zur Verfügung stellen.
+
+(2) Die Informationen nach § 1 Nummer 1 und 2 müssen dem Verbraucher in einem bestimmten Bereich der Online-Benutzeroberfläche zur Verfügung gestellt werden, der von der Webseite, auf der die Angebote angezeigt werden, unmittelbar und leicht zugänglich ist.
+
+# § 1 – Verbotene Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen
+
+(1) Die Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen, bei der es sich um einen weitverbreiteten Verstoß gemäß Artikel 3 Nummer 3 oder einen weitverbreiteten Verstoß mit Unions-Dimension gemäß Artikel 3 Nummer 4 der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom 27.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771 (ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, handelt, ist verboten.
+
+(2) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
+
+1. gegenüber dem Verbraucher ein nach § 241a Absatz 1 des Bürgerlichen Gesetzbuchs nicht begründeter Anspruch geltend gemacht wird,
+
+2. von einem Unternehmer in seinen Allgemeinen Geschäftsbedingungen eine Bestimmung empfohlen oder verwendet wird,
+
+a) die nach § 309 des Bürgerlichen Gesetzbuchs unwirksam ist oder
+
+b) deren Empfehlung oder Verwendung gegenüber Verbrauchern dem Unternehmer durch rechtskräftiges Urteil untersagt wurde,
+
+3. eine Identität oder der geschäftliche Zweck eines Anrufs nicht nach § 312a Absatz 1 des Bürgerlichen Gesetzbuchs offengelegt wird,
+
+4. der Verbraucher nicht nach § 312a Absatz 2 Satz 1 oder § 312d Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
+
+5. eine Vereinbarung nach § 312a Absatz 3 Satz 1, auch in Verbindung mit Satz 2, des Bürgerlichen Gesetzbuchs nicht ausdrücklich getroffen wird,
+
+6. eine nach § 312a Absatz 4 Nummer 2 oder Absatz 5 Satz 1 des Bürgerlichen Gesetzbuchs unwirksame Vereinbarung abgeschlossen wird,
+
+7. von dem Verbraucher entgegen § 312e des Bürgerlichen Gesetzbuchs die Erstattung der Kosten verlangt wird,
+
+8. eine Abschrift oder eine Bestätigung des Vertrags nach § 312f Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder nach Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs nicht zur Verfügung gestellt wird,
+
+9. im elektronischen Geschäftsverkehr gegenüber Verbrauchern
+
+a) eine zusätzliche Angabe nicht nach den Vorgaben des § 312j Absatz 1 des Bürgerlichen Gesetzbuchs gemacht wird,
+
+b) eine Information nicht nach den Vorgaben des § 312j Absatz 2 des Bürgerlichen Gesetzbuchs zur Verfügung gestellt wird oder
+
+c) die Bestellsituation nicht nach den Vorgaben des § 312j Absatz 3 des Bürgerlichen Gesetzbuchs gestaltet wird,
+
+10. der Verbraucher nicht nach § 312k Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
+
+11. eine Sache bei einem Verbrauchsgüterkauf nicht innerhalb einer dem Unternehmer nach § 323 Absatz 1 des Bürgerlichen Gesetzbuchs gesetzten angemessenen Frist geliefert wird,
+
+12. nach einem wirksamen Widerruf des Vertrags durch den Verbraucher
+
+a) Inhalte entgegen § 327p Absatz 2 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs genutzt werden,
+
+b) Inhalte nicht nach § 327p Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs bereitgestellt werden,
+
+c) eine empfangene Leistung dem Verbraucher nicht nach § 355 Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs zurückgewährt wird oder
+
+d) Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene Kosten abgeholt wird,
+
+13. im Falle eines Rücktritts des Verbrauchers von einem Verbrauchsgüterkauf eine Leistung des Verbrauchers nicht nach § 346 Absatz 1 des Bürgerlichen Gesetzbuchs zurückgewährt wird,
+
+14. der Zugang eines Widerrufs nicht nach § 356 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs bestätigt wird oder
+
+15. eine Sache dem Verbraucher nicht innerhalb der nach § 433 Absatz 1 Satz 1 in Verbindung mit § 475 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs maßgeblichen Leistungszeit übergeben wird.
+
+(3) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
+
+1. eine Handlung oder Unterlassung die tatsächlichen Voraussetzungen eines der in Absatz 2 geregelten Fälle erfüllt und
+
+2. auf den Verbrauchervertrag das nationale Recht eines anderen Mitgliedstaates der Europäischen Union anwendbar ist, welches eine Vorschrift enthält, die der jeweiligen in Absatz 2 genannten Vorschrift entspricht.
+
+# § 2 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 1 Absatz 1 Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen nach § 1 Absatz 2 oder 3 verletzt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. Gegenüber einem Unternehmer, der in den von dem Verstoß betroffenen Mitgliedstaaten der Europäischen Union in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr mehr als eine Million zweihundertfünfzigtausend Euro Jahresumsatz erzielt hat, kann eine höhere Geldbuße verhängt werden; diese darf 4 Prozent des Jahresumsatzes nicht übersteigen. Die Höhe des Jahresumsatzes kann geschätzt werden. Liegen keine Anhaltspunkte für eine Schätzung des Jahresumsatzes vor, beträgt das Höchstmaß der Geldbuße zwei Millionen Euro. Abweichend von den Sätzen 2 bis 4 gilt gegenüber einem Täter oder einem Beteiligten, der im Sinne des § 9 des Gesetzes über Ordnungswidrigkeiten für einen Unternehmer handelt, und gegenüber einem Beteiligten im Sinne von § 14 Absatz 1 Satz 2 des Gesetzes über Ordnungswidrigkeiten, der kein Unternehmer ist, der Bußgeldrahmen des Satzes 1. Das für die Ordnungswidrigkeit angedrohte Höchstmaß der Geldbuße im Sinne von § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten ist das nach den Sätzen 1 bis 4 anwendbare Höchstmaß.
+
+(3) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394 geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 # § 1 – Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 
@@ -2139,7 +2243,7 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 4. einen Hinweis auf die Dauer und den Beginn der Widerrufsfrist sowie darauf, dass zur Fristwahrung die rechtzeitige Absendung der Widerrufserklärung genügt, und
 
-5. einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz nach § 357d des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach ausgeschlossen ist.
+5. einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz nach § 357e des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach ausgeschlossen ist.
 
 (2) Der Unternehmer kann seine Belehrungspflicht dadurch erfüllen, dass er dem Verbraucher das in Anlage 10 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
@@ -2336,7 +2440,7 @@ Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zu
 
 Gestaltungshinweise:
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_01.gif" /></td><td>Fügen Sie einen der folgenden in Anführungszeichen gesetzten Textbausteine ein:<dl><dt>a)</dt><dd>im Falle eines Dienstleistungsvertrags oder eines Vertrags über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden: „des Vertragsabschlusses.“;</dd><dt>b)</dt><dd>im Falle eines Kaufvertrags: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.“;</dd><dt>c)</dt><dd>im Falle eines Vertrags über mehrere Waren, die der Verbraucher im Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt geliefert werden: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.“;</dd><dt>d)</dt><dd>im Falle eines Vertrags über die Lieferung einer Ware in mehreren Teilsendungen oder Stücken: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat.“;</dd><dt>e)</dt><dd>im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die erste Ware in Besitz genommen haben bzw. hat.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_02.gif" /></td><td>Fügen Sie Ihren Namen, Ihre Anschrift und, soweit verfügbar, Ihre Telefonnummer, Telefaxnummer und E-Mail-Adresse ein.</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_03.gif" /></td><td>Wenn Sie dem Verbraucher die Wahl einräumen, die Information über seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.“</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_04.gif" /></td><td>Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im Falle des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_05.gif" /></td><td>Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten hat:<dl><dt>a)</dt><dd>Fügen Sie ein:<dl><dt>–</dt><dd>„Wir holen die Waren ab.“ oder</dd><dt>–</dt><dd>„Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an … uns oder an [hier sind gegebenenfalls der Name und die Anschrift der von Ihnen zur Entgegennahme der Waren ermächtigten Person einzufügen] zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.“</dd></dl></dd><dt>b)</dt><dd>fügen Sie ein:<dl><dt>–</dt><dd>„Wir tragen die Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>„Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der Rücksendung der Waren zu tragen, und die Waren aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe von … EUR [Betrag einfügen].“, oder, wenn die Kosten vernünftigerweise nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa … EUR [Betrag einfügen] geschätzt.“ oder</dd><dt>–</dt><dd>Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die Waren auf unsere Kosten ab.“ und</dd></dl></dd><dt>c)</dt><dd>fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_06.gif" /></td><td>Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder Lieferung von Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“</td></tr></tbody></table>
+<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_01.gif" /></td><td>Fügen Sie einen der folgenden in Anführungszeichen gesetzten Textbausteine ein:<dl><dt>a)</dt><dd>im Falle eines Dienstleistungsvertrags oder eines Vertrags über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden: „des Vertragsabschlusses.“;</dd><dt>b)</dt><dd>im Falle eines Kaufvertrags: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.“;</dd><dt>c)</dt><dd>im Falle eines Vertrags über mehrere Waren, die der Verbraucher im Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt geliefert werden: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.“;</dd><dt>d)</dt><dd>im Falle eines Vertrags über die Lieferung einer Ware in mehreren Teilsendungen oder Stücken: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat.“;</dd><dt>e)</dt><dd>im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die erste Ware in Besitz genommen haben bzw. hat.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_02.gif" /></td><td>Fügen Sie Ihren Namen, Ihre Anschrift, Ihre Telefonnummer und Ihre E-Mail-Adresse ein.</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_03.gif" /></td><td>Wenn Sie dem Verbraucher die Wahl einräumen, die Information über seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.“</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_04.gif" /></td><td>Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im Falle des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_05.gif" /></td><td>Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten hat:<dl><dt>a)</dt><dd>Fügen Sie ein:<dl><dt>–</dt><dd>„Wir holen die Waren ab.“ oder</dd><dt>–</dt><dd>„Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an … uns oder an [hier sind gegebenenfalls der Name und die Anschrift der von Ihnen zur Entgegennahme der Waren ermächtigten Person einzufügen] zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.“</dd></dl></dd><dt>b)</dt><dd>fügen Sie ein:<dl><dt>–</dt><dd>„Wir tragen die Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>„Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der Rücksendung der Waren zu tragen, und die Waren aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe von … EUR [Betrag einfügen].“, oder, wenn die Kosten vernünftigerweise nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa … EUR [Betrag einfügen] geschätzt.“ oder</dd><dt>–</dt><dd>Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind: „Wir holen die Waren auf unsere Kosten ab.“ und</dd></dl></dd><dt>c)</dt><dd>fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_06.gif" /></td><td>Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder Lieferung von Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“</td></tr></tbody></table>
 
 # Anlage 2 – (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
 
@@ -3288,7 +3392,7 @@ Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind al
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)
 
-Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
+Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
 
  
 
@@ -3340,7 +3444,7 @@ Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache
 
 „–
 
-Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“
+Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“
 
  
 
@@ -3548,7 +3652,7 @@ Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrech
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)
 
-Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
+Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
 
  
 
@@ -3590,7 +3694,7 @@ Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache
 
 „–
 
-Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“
+Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“
 
  
 

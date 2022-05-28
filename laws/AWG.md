@@ -271,6 +271,78 @@ beschränkt werden.
 
 Durch Rechtsverordnung auf Grund dieses Gesetzes kann die Erteilung von Zertifikaten vorgesehen werden, soweit dies zur Zertifizierung nach Artikel 9 der Richtlinie 2009/43/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 zur Vereinfachung der Bedingungen für die innergemeinschaftliche Verbringung von Verteidigungsgütern (ABl. L 146 vom 10.6.2009, S. 1) erforderlich ist. § 8 Absatz 5 gilt entsprechend.
 
+# § 9a – Befugnisse zur Ermittlung von Geldern und wirtschaftlichen Ressourcen
+
+(1) Die zuständige Behörde kann die erforderlichen Maßnahmen treffen zur Ermittlung von im Geltungsbereich dieses Gesetzes befindlichen Geldern und wirtschaftlichen Ressourcen bestimmter Personen oder Personengesellschaften, die nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, einer Verfügungsbeschränkung unterliegen.
+
+(2) Insbesondere kann die zuständige Behörde
+
+1. von natürlichen oder juristischen Personen, Personengesellschaften und Behörden Auskünfte sowie die Vorlage von Unterlagen verlangen,
+
+2. eine Person vorladen und vernehmen, wenn Tatsachen die Annahme rechtfertigen, dass diese Person sachdienliche Angaben zur Ermittlung von Geldern und wirtschaftlichen Ressourcen im Sinne des Absatzes 1 machen kann,
+
+3. Unterlagen oder andere Gegenstände, die zum Zwecke der Ermittlung von Geldern und wirtschaftlichen Ressourcen im Sinne des Absatzes 1 geeignet sind, sicherstellen oder beschlagnahmen,
+
+4. Geschäfts- oder Betriebsräume während der üblichen Geschäfts- oder Betriebszeiten betreten, wenn Tatsachen die Annahme rechtfertigen, dass diese Gelder oder wirtschaftliche Ressourcen im Sinne des Absatzes 1 oder Hinweise auf deren Verbleib enthalten,
+
+5. Durchsuchungen von Geschäfts- oder Betriebsräumen sowie Wohnungen nach der Maßgabe des Absatzes 4 durchführen, wenn Tatsachen die Annahme rechtfertigen, dass diese Gelder oder wirtschaftliche Ressourcen im Sinne des Absatzes 1 oder Hinweise auf deren Verbleib enthalten, sowie
+
+6. Einsicht in das Grundbuch und andere öffentliche Register sowie in das beim Bundesamt für Seeschifffahrt und Hydrographie geführte Flaggenregister und die beim Luftfahrt-Bundesamt geführte Luftfahrzeugrolle nehmen und Auskunftsersuchen nach § 24c Absatz 3 Satz 1 Nummer 4 des Kreditwesengesetzes stellen.
+
+(3) Zur Verhütung einer dringenden Gefahr für die öffentliche Sicherheit oder Ordnung, insbesondere wenn eine Vereitelung der Kontrolle zu besorgen ist, dürfen Maßnahmen nach Absatz 2 Nummer 4 auch außerhalb der Geschäftszeiten sowie in Wohnzwecken dienenden Räumen durchgeführt werden.
+
+(4) Durchsuchungen von Wohnungen sowie Geschäfts- und Betriebsräumen dürfen außer bei Gefahr im Verzug nur durch den Richter angeordnet werden. Zuständig ist das Amtsgericht, in dessen Bezirk die Durchsuchung erfolgen soll. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Bei der Durchsuchung hat der Inhaber der Wohnung oder des Geschäfts- oder Betriebsraums das Recht, anwesend zu sein. Ist er abwesend, so ist, wenn möglich, sein Vertreter oder ein erwachsener Angehöriger, Hausgenosse oder Nachbar hinzuzuziehen. Dem Inhaber oder seinem Vertreter ist der Grund der Durchsuchung unverzüglich bekanntzugeben, soweit dadurch der Zweck der Maßnahme nicht gefährdet wird. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung enthalten. Die Niederschrift ist von einem durchsuchenden Beamten und dem Inhaber oder der zugezogenen Person zu unterzeichnen. Wird die Unterschrift verweigert, so ist hierüber ein Vermerk aufzunehmen. Dem Inhaber oder seinem Vertreter ist auf Verlangen eine Abschrift der Niederschrift auszuhändigen. Ist die Anfertigung der Niederschrift oder die Aushändigung einer Abschrift nach den besonderen Umständen des Falles nicht möglich oder würde sie den Zweck der Durchsuchung gefährden, so sind dem Inhaber oder der hinzugezogenen Person lediglich die Durchsuchung unter Angabe der verantwortlichen Dienststelle sowie Zeit und Ort der Durchsuchung schriftlich zu bestätigen.
+
+(5) Durch Absatz 2 Nummer 5 und Absatz 3 wird das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) eingeschränkt.
+
+# § 9b – Befugnisse zur Sicherstellung von Geldern und wirtschaftlichen Ressourcen
+
+(1) Die zuständige Behörde kann die Sicherstellung anordnen, um zu verhindern, dass über Gelder oder wirtschaftliche Ressourcen bestimmter Personen oder Personengesellschaften, die nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, einer Verfügungsbeschränkung unterliegen, unter Verstoß gegen einen solchen Rechtsakt verfügt wird oder dass diese entgegen eines solchen Rechtsakts genutzt werden. Die Anordnung ist unverzüglich aufzuheben, sobald die Voraussetzungen nach Satz 1 nicht mehr vorliegen.
+
+(2) Rechtfertigen Tatsachen die Annahme, dass Gelder oder wirtschaftliche Ressourcen bestimmter Personen oder Personengesellschaften nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, einer Verfügungsbeschränkung unterliegen, so kann die zuständige Behörde die Sicherstellung vorläufig anordnen, bis die Ermittlungsmaßnahmen nach § 9a abgeschlossen sind, längstens aber für die Dauer von sechs Monaten. Die vorläufige Anordnung ist unverzüglich aufzuheben, sobald das Bestehen einer Verfügungsbeschränkung abschließend geprüft wurde. Hat die Prüfung ergeben, dass eine Verfügungsbeschränkung besteht, ist eine Anordnung nach Absatz 1 Satz 1 zu prüfen.
+
+(3) Sobald die Sicherstellung aufgehoben wurde, sind die Gelder oder wirtschaftlichen Ressourcen an diejenige Person herauszugeben, bei der sie sichergestellt worden sind. Ist die Herausgabe an sie nicht möglich, können sie an jede andere Person herausgegeben werden, die ihre Berechtigung glaubhaft macht. Die Herausgabe ist ausgeschlossen, wenn dadurch erneut die Voraussetzungen für eine Sicherstellung eintreten würden.
+
+# § 9c – Modalitäten der Sicherstellung
+
+(1) Nach § 9b Absatz 1 oder 2 sichergestellte Gelder oder wirtschaftliche Ressourcen sind in Verwahrung zu nehmen. Lässt die Beschaffenheit der Sachen das nicht zu oder erscheint die Verwahrung bei der zuständigen Behörde unzweckmäßig, sind die Sachen auf andere geeignete Weise aufzubewahren oder zu sichern, soweit die nach § 9b angeordneten Maßnahmen nicht ausreichend erscheinen. In den Fällen des Satzes 2 kann mit der Verwahrung auch ein geeigneter Dritter beauftragt werden. Für Forderungen und andere Vermögensrechte gelten die Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung in Forderungen und Vermögensrechte entsprechend.
+
+(2) Über die Sicherstellung von Sachen ist eine Niederschrift zu erstellen. Der Eigentümer oder der Inhaber der tatsächlichen Gewalt ist unverzüglich über die vorläufige Sicherstellung der Sache zu unterrichten. Dies gilt nicht, wenn durch die Unterrichtung der Zweck der Maßnahme gefährdet werden könnte.
+
+(3) Wird eine sichergestellte Sache verwahrt, so ist etwaigen Wertminderungen nach Möglichkeit vorzubeugen.
+
+(4) Die verwahrten Sachen sind zu verzeichnen und so zu kennzeichnen, dass Verwechslungen vermieden werden.
+
+(5) Die Verwertung einer nach § 9b Absatz 1 sichergestellten Sache ist zulässig, wenn
+
+1. ihr Verderb oder eine andere wesentliche Wertminderung droht,
+
+2. ihre Verwahrung, Pflege oder Erhaltung mit unverhältnismäßig hohem Aufwand verbunden ist,
+
+3. sie aufgrund ihrer Beschaffenheit nicht so verwahrt werden kann, dass weitere Gefahren für die öffentliche Sicherheit oder Ordnung ausgeschlossen sind,
+
+4. sie nicht an einen Berechtigten herausgegeben werden kann, ohne dass die Voraussetzungen der Sicherstellung erneut eintreten würden,
+
+5. der Berechtigte sie nicht innerhalb einer ausreichend bemessenen Frist abholt, obwohl ihm eine Mitteilung über die Frist verbunden mit dem Hinweis bekanntgegeben worden ist, dass die Sache verwertet wird, wenn sie nicht innerhalb der Frist abgeholt wird.
+
+Andere gesetzliche Bestimmungen, die einer Verwertung entgegenstehen, bleiben von Satz 1 unberührt.
+
+(6) Die betroffene Person, der Eigentümer und andere Personen, denen ein Recht an der Sache zusteht, sollen vor der Verwertung gehört werden. Die Anordnung sowie Zeit und Ort der Verwertung sind ihnen mitzuteilen, soweit die Umstände und der Zweck der Maßnahmen es erlaubt.
+
+(7) Die Sache wird durch öffentliche Versteigerung verwertet; § 979 Absatz 1 des Bürgerlichen Gesetzbuches gilt entsprechend. Bleibt die Versteigerung erfolglos, erscheint sie von vornherein aussichtslos oder würden die Kosten der Versteigerung den zu erwartenden Erlös voraussichtlich übersteigen, so kann die Sache freihändig verkauft werden. Der Erlös tritt an die Stelle der verwerteten Sache. Findet sich innerhalb angemessener Frist kein Käufer, so kann die Sache einem gemeinnützigen Zweck zugeführt werden.
+
+(8) Sichergestellte Sachen können unbrauchbar gemacht, vernichtet oder eingezogen werden, wenn
+
+1. im Falle einer Verwertung die Gründe, die zu ihrer Sicherstellung berechtigten, fortbestehen oder Sicherstellungsgründe erneut entstehen würden,
+
+2. die Verwertung aus anderen Gründen nicht möglich ist.
+
+Andere gesetzliche Bestimmungen, die einer Verwertung entgegenstehen, bleiben hiervon unberührt.
+
+# § 9d – Verarbeitung personenbezogener Daten bei der Ermittlung und Sicherstellung von Geldern und wirtschaftlichen Ressourcen
+
+Die zuständige Behörde darf, soweit dies zur Erfüllung ihrer Aufgaben nach den §§ 9a und 9b erforderlich ist, personenbezogene Daten verarbeiten. Sie erhält die zur Erfüllung ihrer Aufgaben erforderlichen Informationen von anderen Behörden, sofern gesetzliche Verschwiegenheitspflichten dem nicht entgegenstehen. Für die Übermittlung personenbezogener Daten gilt § 25 des Bundesdatenschutzgesetzes. Die erhobenen personenbezogenen Daten sind spätestens nach Ablauf von 6 Monaten nach Wegfall einer Verfügungsbeschränkung zu löschen.
+
 # § 10 – Deutsche Bundesbank
 
 Beschränkungen nach einer Vorschrift dieses Gesetzes oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder vollziehbaren Anordnung gelten nicht für Rechtsgeschäfte und Handlungen, welche die Deutsche Bundesbank in ihrem Geschäftskreis vornimmt oder welche ihr gegenüber vorgenommen werden.
@@ -321,11 +393,11 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 # § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
 
-(1) Für den Erlass von Verwaltungsakten und die Entgegennahme von Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zuständig, soweit in diesem Gesetz oder auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung nichts anderes bestimmt ist.
+(1) Für den Erlass von Verwaltungsakten und die Entgegennahme von Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zuständig, soweit in anderen Gesetzen, in diesem Gesetz oder auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung nichts anderes bestimmt ist.
 
 (2) Ausschließlich zuständig sind
 
-1. die Deutsche Bundesbank im Bereich des Kapital- und Zahlungsverkehrs sowie des Verkehrs mit Auslandswerten und Gold, soweit im Folgenden nichts anderes bestimmt ist,
+1. die Deutsche Bundesbank im Bereich des Kapital- und Zahlungsverkehrs sowie des Verkehrs mit Auslandswerten, einschließlich Geldern, die einer Verfügungsbeschränkung unterliegen, und Gold, soweit im Folgenden nichts anderes bestimmt ist,
 
 2. das Bundesministerium für Wirtschaft und Energie
 
@@ -339,11 +411,13 @@ d) im Fall des § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 und einer 
 
 e) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne des Artikels 11 Absatz 1 der Verordnung (EU) 2019/425,
 
-3. das Bundesministerium für Verkehr und digitale Infrastruktur für Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des Verkehrswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung,
+3. das Bundesministerium für Verkehr und digitale Infrastruktur für Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des Verkehrswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts,
 
-4. das Bundesministerium der Finanzen für Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des Versicherungswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung,
+4. das Bundesministerium der Finanzen für Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des Versicherungswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts,
 
 5. die Bundesanstalt für Landwirtschaft und Ernährung für Anordnungen im Bereich des Waren- und Dienstleistungsverkehrs nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung im Rahmen der gemeinsamen Marktorganisationen der Europäischen Union für Erzeugnisse der Ernährungs- und Landwirtschaft.
+
+(2a) Abweichend von Absatz 1 und Absatz 2 Nummer 1 sind für die Wahrnehmung der in den §§ 9a bis 9d bezeichneten Befugnisse die von den Ländern bestimmten Behörden zuständig.
 
 (3) Im Fall des Absatzes 2 Nummer 2 Buchstabe c bedarf eine Untersagung der Zustimmung der Bundesregierung. Anordnungen bedürfen des Einvernehmens mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Verteidigung sowie des Benehmens mit dem Bundesministerium der Finanzen.
 
@@ -493,17 +567,21 @@ beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, oder einer vollziehbare
 
 1. einem
 
-a) Ausfuhr-, Einfuhr-, Durchfuhr-, Verbringungs-, Verkaufs-, Erwerbs-, Liefer-, Bereitstellungs-, Weitergabe-, Dienstleistungs- oder Investitionsverbot oder
+a) Ausfuhr-, Einfuhr-, Durchfuhr-, Verbringungs-, Verkaufs-, Erwerbs-, Liefer-, Bereitstellungs-, Weitergabe- oder Investitionsverbot oder
 
-b) Verfügungsverbot über eingefrorene Gelder und wirtschaftliche Ressourcen
+b) Sende-, Übertragungs-, Verbreitungs- oder sonstigen Dienstleistungsverbot oder
+
+c) Verfügungsverbot über eingefrorene Gelder und wirtschaftliche Ressourcen
 
 eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaften oder der Europäischen Union zuwiderhandelt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient oder
 
 2. gegen eine Genehmigungspflicht für
 
-a) die Ausfuhr, Einfuhr, Durchfuhr, Verbringung, einen Verkauf, einen Erwerb, eine Lieferung, Bereitstellung, Weitergabe, Dienstleistung oder Investition oder
+a) die Ausfuhr, Einfuhr, Durchfuhr, Verbringung, einen Verkauf, einen Erwerb, eine Lieferung, Bereitstellung, Weitergabe oder Investition,
 
-b) die Verfügung über eingefrorene Gelder oder wirtschaftliche Ressourcen
+b) eine Sendung, Übertragung, Verbreitung oder sonstige Dienstleistung oder
+
+c) die Verfügung über eingefrorene Gelder oder wirtschaftliche Ressourcen
 
 eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaften oder der Europäischen Union verstößt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient.
 
@@ -585,6 +663,8 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I der Verordnung (EU) 202
 
 Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur Verordnung (EU) 2019/125 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
+(5b) Ebenso wird bestraft, wer entgegen § 23a Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet. Nach Satz 1 wird nicht bestraft, wer die Anzeige nach § 23a Absatz 1 freiwillig, vollständig und in der vorgeschriebenen Weise bei der zuständigen Behörde nachholt, wenn nicht die Tat zu diesem Zeitpunkt bereits ganz oder zum Teil entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste.
+
 (6) Der Versuch ist strafbar.
 
 (7) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
@@ -637,6 +717,8 @@ einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderha
 
 2. einer vollziehbaren Anordnung nach § 7 Absatz 1, 3 oder Absatz 4 oder § 23 Absatz 1 oder Absatz 4 Satz 2 zuwiderhandelt,
 
+2a. entgegen § 23a Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+
 3. entgegen § 27 Absatz 1 Satz 1 Waren nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorzeigt,
 
 4. entgegen § 27 Absatz 3 eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder
@@ -679,6 +761,8 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (1) Die Staatsanwaltschaft kann bei Straftaten und Ordnungswidrigkeiten nach den §§ 17 und 18, mit Ausnahme von § 18 Absatz 1b und 2 Nummer 8, sowie nach § 19, mit Ausnahme von § 19 Absatz 1 Nummer 2, dieses Gesetzes oder nach § 19 Absatz 1 bis 3, § 20 Absatz 1 und 2, § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Absatz 1 Nummer 4, 5 und 7 des Gesetzes über die Kontrolle von Kriegswaffen Ermittlungen nach § 161 Absatz 1 Satz 1 der Strafprozessordnung auch durch die Hauptzollämter oder die Zollfahndungsämter vornehmen lassen. Die Verwaltungsbehörde im Sinne des § 22 Absatz 3 Satz 1 kann in den Fällen des Satzes 1 Ermittlungen auch durch ein anderes Hauptzollamt oder die Zollfahndungsämter vornehmen lassen.
 
+(1a) Führt der Generalbundesanwalt die Ermittlungen durch, gilt Absatz 1 Satz 1 mit der Maßgabe, dass die dort genannten Ausnahmen nicht anzuwenden sind.
+
 (2) Die Hauptzollämter und die Zollfahndungsämter sowie deren Beamte haben auch ohne Ersuchen der Staatsanwaltschaft oder der Verwaltungsbehörde Straftaten und Ordnungswidrigkeiten der in Absatz 1 bezeichneten Art zu erforschen und zu verfolgen, wenn diese die Ausfuhr, Einfuhr, Verbringung oder Durchfuhr von Waren betreffen. Dasselbe gilt, soweit Gefahr im Verzug ist. § 163 der Strafprozessordnung und § 53 des Gesetzes über Ordnungswidrigkeiten bleiben unberührt.
 
 (3) In den Fällen der Absätze 1 und 2 haben die Beamten der Hauptzollämter und der Zollfahndungsämter die Rechte und Pflichten der Polizeibeamten nach den Bestimmungen der Strafprozessordnung und des Gesetzes über Ordnungswidrigkeiten. Sie sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
@@ -705,7 +789,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (4) Sind die Unterlagen nach Absatz 1 unter Einsatz eines Datenverarbeitungssystems erstellt worden, so dürfen die Verwaltungsbehörde und die Deutsche Bundesbank im Rahmen einer Prüfung Einsicht in die gespeicherten Daten nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen nutzen. Sie können im Rahmen einer Prüfung auch verlangen, dass die Daten nach ihren Vorgaben automatisiert ausgewertet oder ihnen die gespeicherten Unterlagen auf einem maschinell verwertbaren Datenträger zur Verfügung gestellt werden. Dazu ist sicherzustellen, dass die gespeicherten Daten während der Dauer der gesetzlichen Aufbewahrungsfristen verfügbar sind sowie dass sie unverzüglich lesbar gemacht und unverzüglich automatisiert ausgewertet werden können. Die Auskunftspflichtigen haben die Verwaltungsbehörde und die Deutsche Bundesbank bei der Ausübung der Befugnisse nach den Sätzen 1 und 2 zu unterstützen und die Kosten zu tragen.
 
-(5) Auskunftspflichtig ist, wer unmittelbar oder mittelbar am Außenwirtschaftsverkehr teilnimmt.
+(5) Auskunftspflichtig ist, wer unmittelbar oder mittelbar am Außenwirtschaftsverkehr teilnimmt; dies schließt Stellen ein, an die ein Auskunftspflichtiger Aufgaben auslagert oder derer er sich in sonstiger Weise in unmittelbarem oder mittelbarem Zusammenhang mit der Teilnahme am Außenwirtschaftsverkehr bedient.
 
 (6) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr aussetzen würde, wegen einer Straftat oder Ordnungswidrigkeit verfolgt zu werden.
 
@@ -715,7 +799,15 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (7) Das Hauptzollamt, das den Verwaltungsakt erlassen hat, ist auch für die Entscheidung über den Widerspruch zuständig.
 
-# § 24 – Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+# § 23a – Anzeigepflichten
+
+(1) Soweit nicht bereits nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, eine anderweitige Anzeigepflicht besteht, sind Ausländer und Inländer, deren Gelder oder wirtschaftliche Ressourcen im Geltungsbereich dieses Gesetzes durch einen solchen Rechtsakt einer Verfügungsbeschränkung unterliegen, verpflichtet, diese Gelder der Deutschen Bundesbank und diese wirtschaftlichen Ressourcen dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nach Maßgabe des Absatzes 3 unverzüglich anzuzeigen.
+
+(2) Die Pflicht nach Absatz 1 gilt auch für Logistikdienstleister im Sinne der §§ 453 und 467 des Handelsgesetzbuches, die Kenntnis von im Geltungsbereich dieses Gesetzes befindlichen Geldern oder wirtschaftlichen Ressourcen im Sinne des Absatzes 1 haben.
+
+(3) Die Anzeige nach den Absätzen 1 und 2 muss den Namen oder die Firma des betroffenen Ausländers oder Inländers sowie Angaben zur Art und zum Wert der von der Verfügungsbeschränkung erfassten Gelder und wirtschaftlichen Ressourcen enthalten. Sie müssen in deutscher Sprache abgefasst sein und den Absender erkennen lassen.
+
+# § 24 – Übermittlung von Informationen
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darf die Informationen, einschließlich personenbezogener Daten, die ihm bei der Erfüllung seiner Aufgaben
 
@@ -725,11 +817,25 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 3. nach Rechtsakten der Europäischen Union im Bereich des Außenwirtschaftsrechts
 
-bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 oder zur Zollabfertigung erforderlich ist.
+bekannt geworden sind, an andere öffentliche Stellen des Bundes oder der Länder übermitteln, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 oder zur Zollabfertigung erforderlich ist.
 
 (2) Informationen über die Versagung von Genehmigungen dürfen abweichend von Absatz 1 nur übermittelt werden, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 erforderlich ist.
 
 (3) Die Empfänger dürfen die nach den Absätzen 1 und 2 übermittelten Informationen, einschließlich personenbezogener Daten, nur für die Zwecke verwenden, für die sie übermittelt wurden oder soweit es zur Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz oder einer Rechtsverordnung nach diesem Gesetz oder nach dem Gesetz über die Kontrolle von Kriegswaffen erforderlich ist.
+
+(4) Die nach § 13 zuständigen Behörden dürfen Informationen im Zusammenhang mit einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, einschließlich personenbezogener Daten, an andere Behörden übermitteln, soweit dies erforderlich ist
+
+1. zur Erfüllung ihrer Aufgaben nach diesem Gesetz,
+
+2. für Zwecke der Strafverfolgung,
+
+3. für Zwecke der Gefahrenabwehr oder
+
+4. zur Erfüllung einer gesetzlich zugewiesenen Aufgabe des Empfängers, die der Durchführung von Sanktionsmaßnahmen dient.
+
+Die nach § 13 zuständigen Behörden tragen die Verantwortung für die Zulässigkeit der Übermittlung. Erfolgt die Übermittlung auf Ersuchen der empfangenden Stelle, trägt die empfangende Stelle die Verantwortung. Der Empfänger darf die übermittelten personenbezogenen Daten nur zu dem Zweck verarbeiten, für den sie ihm übermittelt worden sind. Eine Verarbeitung für andere Zwecke ist nur zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen. Regelungen zur statistischen Geheimhaltung bleiben unberührt.
+
+(5) Die Deutsche Bundesbank übermittelt Informationen, einschließlich personenbezogener Daten, nach Maßgabe des Absatzes 4 auch an die Bundesanstalt für Finanzdienstleistungsaufsicht und die Zentralstelle für Finanztransaktionsuntersuchungen, soweit dies zur Erfüllung der Aufgaben der genannten Behörden oder Stellen erforderlich ist.
 
 # § 25 – Automatisiertes Abrufverfahren
 

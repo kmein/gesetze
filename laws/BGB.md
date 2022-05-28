@@ -2142,7 +2142,7 @@ b) die keine Verträge über Finanzdienstleistungen sind; für Verträge, für d
 
 4. (weggefallen)
 
-5. Verträge über die Beförderung von Personen,
+5. (weggefallen)
 
 6. Verträge über Teilzeit-Wohnrechte, langfristige Urlaubsprodukte, Vermittlungen und Tauschsysteme nach den §§ 481 bis 481b,
 
@@ -2182,7 +2182,9 @@ b) die keine Verträge über Finanzdienstleistungen sind; für Verträge, für d
 
 (6) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist auf Verträge über Versicherungen sowie auf Verträge über deren Vermittlung nur § 312a Absatz 3, 4 und 6 anzuwenden.
 
-(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§ 312i, 312j Absatz 2 bis 5 und § 312k anzuwenden; diese Vorschriften finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a, die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung des Verbrauchers geführt worden.
+(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§ 312i, 312j Absatz 2 bis 5 und § 312l anzuwenden; diese Vorschriften finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a, die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung des Verbrauchers geführt worden.
+
+(8) Auf Verträge über die Beförderung von Personen ist von den Vorschriften der Kapitel 1 und 2 dieses Untertitels nur § 312a Absatz 1 und 3 bis 6 anzuwenden.
 
 # § 312a – Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten
 
@@ -2232,7 +2234,7 @@ Dem Unternehmer stehen Personen gleich, die in seinem Namen oder Auftrag handeln
 
 # § 312e – Verletzung von Informationspflichten über Kosten
 
-Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder Versandkosten und sonstige Kosten nur verlangen, soweit er den Verbraucher über diese Kosten entsprechend den Anforderungen aus § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1 Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert hat.
+Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder Versandkosten und sonstige Kosten nur verlangen, soweit er den Verbraucher über diese Kosten entsprechend den Anforderungen aus § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1 Nummer 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert hat.
 
 # § 312f – Abschriften und Bestätigungen
 
@@ -2320,7 +2322,7 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten als zuge
 
 (1) Auf Webseiten für den elektronischen Geschäftsverkehr mit Verbrauchern hat der Unternehmer zusätzlich zu den Angaben nach § 312i Absatz 1 spätestens bei Beginn des Bestellvorgangs klar und deutlich anzugeben, ob Lieferbeschränkungen bestehen und welche Zahlungsmittel akzeptiert werden.
 
-(2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr, der eine entgeltliche Leistung des Unternehmers zum Gegenstand hat, muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1 Nummer 1, 4, 5, 11 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur Verfügung stellen.
+(2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr, der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1 Nummer 1, 5 bis 7, 8, 14 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur Verfügung stellen.
 
 (3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach Absatz 2 so zu gestalten, dass der Verbraucher mit seiner Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung verpflichtet. Erfolgt die Bestellung über eine Schaltfläche, ist die Pflicht des Unternehmers aus Satz 1 nur erfüllt, wenn diese Schaltfläche gut lesbar mit nichts anderem als den Wörtern „zahlungspflichtig bestellen“ oder mit einer entsprechenden eindeutigen Formulierung beschriftet ist.
 
@@ -2328,7 +2330,17 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten als zuge
 
 (5) Die Absätze 2 bis 4 sind nicht anzuwenden, wenn der Vertrag ausschließlich durch individuelle Kommunikation geschlossen wird. Die Pflichten aus den Absätzen 1 und 2 gelten weder für Webseiten, die Finanzdienstleistungen betreffen, noch für Verträge über Finanzdienstleistungen.
 
-# § 312k – Abweichende Vereinbarungen und Beweislast
+# § 312k – Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+
+(1) Der Betreiber eines Online-Marktplatzes ist verpflichtet, den Verbraucher nach Maßgabe des Artikels 246d des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren.
+
+(2) Absatz 1 gilt nicht, soweit auf dem Online-Marktplatz Verträge über Finanzdienstleistungen angeboten werden.
+
+(3) Online-Marktplatz ist ein Dienst, der es Verbrauchern ermöglicht, durch die Verwendung von Software, die vom Unternehmer oder im Namen des Unternehmers betrieben wird, einschließlich einer Webseite, eines Teils einer Webseite oder einer Anwendung, Fernabsatzverträge mit anderen Unternehmern oder Verbrauchern abzuschließen.
+
+(4) Betreiber eines Online-Marktplatzes ist der Unternehmer, der einen Online-Marktplatz für Verbraucher zur Verfügung stellt.
+
+# § 312l – Abweichende Vereinbarungen und Beweislast
 
 (1) Von den Vorschriften dieses Untertitels darf, soweit nichts anderes bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden abgewichen werden. Die Vorschriften dieses Untertitels finden, soweit nichts anderes bestimmt ist, auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
@@ -2956,13 +2968,33 @@ d) der auf die regelmäßige Lieferung von Waren über einen festgelegten Zeitra
 
 (3) Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den Verbraucher entsprechend den Anforderungen des Artikels 246a § 1 Absatz 2 Satz 1 Nummer 1 oder des Artikels 246b § 2 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt. Satz 2 ist auf Verträge über Finanzdienstleistungen nicht anwendbar.
 
-(4) Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von Dienstleistungen auch dann, wenn der Unternehmer die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung durch den Unternehmer verliert. Bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag muss die Zustimmung des Verbrauchers auf einem dauerhaften Datenträger übermittelt werden. Bei einem Vertrag über die Erbringung von Finanzdienstleistungen erlischt das Widerrufsrecht abweichend von Satz 1, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
+(4) Das Widerrufsrecht erlischt bei Verträgen über die Erbringung von Dienstleistungen auch unter folgenden Voraussetzungen:
 
-(5) Das Widerrufsrecht erlischt bei einem Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten auch dann, wenn der Unternehmer mit der Ausführung des Vertrags begonnen hat, nachdem der Verbraucher
+1. bei einem Vertrag, der den Verbraucher nicht zur Zahlung eines Preises verpflichtet, wenn der Unternehmer die Dienstleistung vollständig erbracht hat,
 
-1. ausdrücklich zugestimmt hat, dass der Unternehmer mit der Ausführung des Vertrags vor Ablauf der Widerrufsfrist beginnt, und
+2. bei einem Vertrag, der den Verbraucher zur Zahlung eines Preises verpflichtet, mit der vollständigen Erbringung der Dienstleistung, wenn der Verbraucher vor Beginn der Erbringung
 
-2. seine Kenntnis davon bestätigt hat, dass er durch seine Zustimmung mit Beginn der Ausführung des Vertrags sein Widerrufsrecht verliert.
+a) ausdrücklich zugestimmt hat, dass der Unternehmer mit der Erbringung der Dienstleistung vor Ablauf der Widerrufsfrist beginnt,
+
+b) bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag die Zustimmung nach Buchstabe a auf einem dauerhaften Datenträger übermittelt hat und
+
+c) seine Kenntnis davon bestätigt hat, dass sein Widerrufsrecht mit vollständiger Vertragserfüllung durch den Unternehmer erlischt,
+
+3. bei einem Vertrag, bei dem der Verbraucher den Unternehmer ausdrücklich aufgefordert hat, ihn aufzusuchen, um Reparaturarbeiten auszuführen, mit der vollständigen Erbringung der Dienstleistung, wenn der Verbraucher die in Nummer 2 Buchstabe a und b genannten Voraussetzungen erfüllt hat,
+
+4. bei einem Vertrag über die Erbringung von Finanzdienstleistungen, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
+
+(5) Das Widerrufsrecht erlischt bei Verträgen über die Bereitstellung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten auch unter folgenden Voraussetzungen:
+
+1. bei einem Vertrag, der den Verbraucher nicht zur Zahlung eines Preises verpflichtet, wenn der Unternehmer mit der Vertragserfüllung begonnen hat,
+
+2. bei einem Vertrag, der den Verbraucher zur Zahlung eines Preises verpflichtet, wenn
+
+a) der Verbraucher ausdrücklich zugestimmt hat, dass der Unternehmer mit der Vertragserfüllung vor Ablauf der Widerrufsfrist beginnt,
+
+b) der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine Zustimmung nach Buchstabe a mit Beginn der Vertragserfüllung sein Widerrufsrecht erlischt, und
+
+c) der Unternehmer dem Verbraucher eine Bestätigung gemäß § 312f zur Verfügung gestellt hat.
 
 # § 356a – Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
 
@@ -3008,21 +3040,35 @@ Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die Widerrufsfrist ni
 
 (4) Bei einem Verbrauchsgüterkauf kann der Unternehmer die Rückzahlung verweigern, bis er die Waren zurückerhalten hat oder der Verbraucher den Nachweis erbracht hat, dass er die Waren abgesandt hat. Dies gilt nicht, wenn der Unternehmer angeboten hat, die Waren abzuholen.
 
-(5) Der Verbraucher ist nicht verpflichtet, die empfangenen Waren zurückzusenden, wenn der Unternehmer angeboten hat, die Waren abzuholen.
+(5) Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der Waren, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche von dieser Pflicht unterrichtet hat. Satz 1 gilt nicht, wenn der Unternehmer sich bereit erklärt hat, diese Kosten zu tragen.
 
-(6) Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der Waren, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche von dieser Pflicht unterrichtet hat. Satz 1 gilt nicht, wenn der Unternehmer sich bereit erklärt hat, diese Kosten zu tragen. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.
+(6) Der Verbraucher ist nicht verpflichtet, die Waren zurückzusenden, wenn der Unternehmer angeboten hat, die Waren abzuholen.
 
-(7) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu leisten, wenn
+(7) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.
+
+(8) Für die Rechtsfolgen des Widerrufs von Verträgen über die Bereitstellung digitaler Produkte gilt ferner § 327p entsprechend.
+
+# § 357a – Wertersatz als Rechtsfolge des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+
+(1) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu leisten, wenn
 
 1. der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war, und
 
-2. der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht unterrichtet hat.
+2. der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über dessen Widerrufsrecht unterrichtet hat.
 
-(8) Widerruft der Verbraucher einen Vertrag über die Erbringung von Dienstleistungen oder über die Lieferung von Wasser, Gas oder Strom in nicht bestimmten Mengen oder nicht begrenztem Volumen oder über die Lieferung von Fernwärme, so schuldet der Verbraucher dem Unternehmer Wertersatz für die bis zum Widerruf erbrachte Leistung, wenn der Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass dieser mit der Leistung vor Ablauf der Widerrufsfrist beginnt. Der Anspruch aus Satz 1 besteht nur, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß informiert hat. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen besteht der Anspruch nach Satz 1 nur dann, wenn der Verbraucher sein Verlangen nach Satz 1 auf einem dauerhaften Datenträger übermittelt hat. Bei der Berechnung des Wertersatzes ist der vereinbarte Gesamtpreis zu Grunde zu legen. Ist der vereinbarte Gesamtpreis unverhältnismäßig hoch, ist der Wertersatz auf der Grundlage des Marktwerts der erbrachten Leistung zu berechnen.
+(2) Der Verbraucher hat Wertersatz für die bis zum Widerruf erbrachten Dienstleistungen, für die der Vertrag die Zahlung eines Preises vorsieht, oder die bis zum Widerruf erfolgte Lieferung von Wasser, Gas oder Strom in nicht bestimmten Mengen oder nicht begrenztem Volumen oder von Fernwärme zu leisten, wenn
 
-(9) Widerruft der Verbraucher einen Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so hat er keinen Wertersatz zu leisten.
+1. der Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass mit der Leistung vor Ablauf der Widerrufsfrist begonnen werden soll,
 
-# § 357a – Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
+2. bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag der Verbraucher das Verlangen nach Nummer 1 auf einem dauerhaften Datenträger übermittelt hat und
+
+3. der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß informiert hat.
+
+Bei der Berechnung des Wertersatzes ist der vereinbarte Gesamtpreis zu Grunde zu legen. Ist der vereinbarte Gesamtpreis unverhältnismäßig hoch, so ist der Wertersatz auf der Grundlage des Marktwerts der erbrachten Leistung zu berechnen.
+
+(3) Widerruft der Verbraucher einen Vertrag über die Bereitstellung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so hat er keinen Wertersatz zu leisten.
+
+# § 357b – Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
 
 (1) Die empfangenen Leistungen sind spätestens nach 30 Tagen zurückzugewähren.
 
@@ -3032,7 +3078,7 @@ Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die Widerrufsfrist ni
 
 2. ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der Widerrufsfrist mit der Ausführung der Dienstleistung beginnt.
 
-Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die von der Ausnahme des § 506 Absatz 4 erfasst sind, gilt auch § 357 Absatz 5 bis 8 entsprechend. Ist Gegenstand des Vertrags über die entgeltliche Finanzierungshilfe die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, hat der Verbraucher Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten, wenn er
+Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die von der Ausnahme des § 506 Absatz 4 erfasst sind, gelten auch § 357 Absatz 5 bis 7 und § 357a Absatz 1 und 2 entsprechend. Ist Gegenstand des Vertrags über die entgeltliche Finanzierungshilfe die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, hat der Verbraucher Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten, wenn er
 
 1. vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge hingewiesen worden ist und
 
@@ -3042,17 +3088,17 @@ Ist im Vertrag eine Gegenleistung bestimmt, ist sie bei der Berechnung des Werte
 
 (3) Im Falle des Widerrufs von Verbraucherdarlehensverträgen hat der Darlehensnehmer für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Bei einem Immobiliar-Verbraucherdarlehen kann nachgewiesen werden, dass der Wert des Gebrauchsvorteils niedriger war als der vereinbarte Sollzins. In diesem Fall ist nur der niedrigere Betrag geschuldet. Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die nicht von der Ausnahme des § 506 Absatz 4 erfasst sind, gilt auch Absatz 2 entsprechend mit der Maßgabe, dass an die Stelle der Unterrichtung über das Widerrufsrecht die Pflichtangaben nach Artikel 247 § 12 Absatz 1 in Verbindung mit § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das Widerrufsrecht betreffen, treten. Darüber hinaus hat der Darlehensnehmer dem Darlehensgeber nur die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.
 
-# § 357b – Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
+# § 357c – Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
 
 (1) Der Verbraucher hat im Falle des Widerrufs keine Kosten zu tragen. Die Kosten des Vertrags, seiner Durchführung und seiner Rückabwicklung hat der Unternehmer dem Verbraucher zu erstatten. Eine Vergütung für geleistete Dienste sowie für die Überlassung von Wohngebäuden zur Nutzung ist ausgeschlossen.
 
 (2) Der Verbraucher hat für einen Wertverlust der Unterkunft im Sinne des § 481 nur Wertersatz zu leisten, soweit der Wertverlust auf einer nicht bestimmungsgemäßen Nutzung der Unterkunft beruht.
 
-# § 357c – Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
+# § 357d – Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
 
-Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 5 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer hat sich bereit erklärt, diese Kosten zu tragen. § 357 Absatz 7 ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der Unterrichtung nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche tritt.
+Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 4 und 6 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer hat sich bereit erklärt, diese Kosten zu tragen. § 357a Absatz 1 ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der Unterrichtung nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche tritt.
 
-# § 357d – Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
+# § 357e – Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
 
 Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach ausgeschlossen, schuldet der Verbraucher dem Unternehmer Wertersatz. Bei der Berechnung des Wertersatzes ist die vereinbarte Vergütung zugrunde zu legen. Ist die vereinbarte Vergütung unverhältnismäßig hoch, ist der Wertersatz auf der Grundlage des Marktwertes der erbrachten Leistung zu berechnen.
 
@@ -3064,7 +3110,7 @@ Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach a
 
 (3) Ein Vertrag über die Lieferung einer Ware oder über die Erbringung einer anderen Leistung und ein Darlehensvertrag nach den Absätzen 1 oder 2 sind verbunden, wenn das Darlehen ganz oder teilweise der Finanzierung des anderen Vertrags dient und beide Verträge eine wirtschaftliche Einheit bilden. Eine wirtschaftliche Einheit ist insbesondere anzunehmen, wenn der Unternehmer selbst die Gegenleistung des Verbrauchers finanziert, oder im Falle der Finanzierung durch einen Dritten, wenn sich der Darlehensgeber bei der Vorbereitung oder dem Abschluss des Darlehensvertrags der Mitwirkung des Unternehmers bedient. Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist eine wirtschaftliche Einheit nur anzunehmen, wenn der Darlehensgeber selbst dem Verbraucher das Grundstück oder das grundstücksgleiche Recht verschafft oder wenn er über die Zurverfügungstellung von Darlehen hinaus den Erwerb des Grundstücks oder grundstücksgleichen Rechts durch Zusammenwirken mit dem Unternehmer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu Eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.
 
-(4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen Vertrags, die §§ 357 bis 357b entsprechend anzuwenden. Ist der verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten und hat der Unternehmer dem Verbraucher eine Abschrift oder Bestätigung des Vertrags nach § 312f zur Verfügung gestellt, hat der Verbraucher abweichend von § 357 Absatz 9 unter den Voraussetzungen des § 356 Absatz 5 zweiter und dritter Halbsatz Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten. Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener Ratenlieferungsvertrag, ist neben § 355 Absatz 3 auch § 357 entsprechend anzuwenden; im Übrigen gelten für verbundene Ratenlieferungsverträge § 355 Absatz 3 und § 357c entsprechend. Im Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum Verbraucher hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn das Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits zugeflossen ist.
+(4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen Vertrags, die §§ 357 bis 357c entsprechend anzuwenden. Ist der verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, hat der Verbraucher abweichend von § 357a Absatz 3 unter den Voraussetzungen des § 356 Absatz 5 Nummer 2 Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten. Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener Ratenlieferungsvertrag, sind neben § 355 Absatz 3 auch die §§ 357 und 357a entsprechend anzuwenden; im Übrigen gelten für verbundene Ratenlieferungsverträge § 355 Absatz 3 und § 357d entsprechend. Im Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum Verbraucher hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn das Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits zugeflossen ist.
 
 (5) Die Absätze 2 und 4 sind nicht anzuwenden auf Darlehensverträge, die der Finanzierung des Erwerbs von Finanzinstrumenten dienen.
 
@@ -3076,7 +3122,7 @@ Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach a
 
 # § 360 – Zusammenhängende Verträge
 
-(1) Hat der Verbraucher seine auf den Abschluss eines Vertrags gerichtete Willenserklärung wirksam widerrufen und liegen die Voraussetzungen für einen verbundenen Vertrag nicht vor, so ist er auch an seine auf den Abschluss eines damit zusammenhängenden Vertrags gerichtete Willenserklärung nicht mehr gebunden. Auf die Rückabwicklung des zusammenhängenden Vertrags ist § 358 Absatz 4 Satz 1 bis 3 entsprechend anzuwenden. Widerruft der Verbraucher einen Teilzeit-Wohnrechtevertrag oder einen Vertrag über ein langfristiges Urlaubsprodukt, hat er auch für den zusammenhängenden Vertrag keine Kosten zu tragen; § 357b Absatz 1 Satz 2 und 3 gilt entsprechend.
+(1) Hat der Verbraucher seine auf den Abschluss eines Vertrags gerichtete Willenserklärung wirksam widerrufen und liegen die Voraussetzungen für einen verbundenen Vertrag nicht vor, so ist er auch an seine auf den Abschluss eines damit zusammenhängenden Vertrags gerichtete Willenserklärung nicht mehr gebunden. Auf die Rückabwicklung des zusammenhängenden Vertrags ist § 358 Absatz 4 Satz 1 bis 3 entsprechend anzuwenden. Widerruft der Verbraucher einen Teilzeit-Wohnrechtevertrag oder einen Vertrag über ein langfristiges Urlaubsprodukt, hat er auch für den zusammenhängenden Vertrag keine Kosten zu tragen; § 357c Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag aufweist und eine Leistung betrifft, die von dem Unternehmer des widerrufenen Vertrags oder einem Dritten auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem Unternehmer des widerrufenen Vertrags erbracht wird. Ein Darlehensvertrag ist auch dann ein zusammenhängender Vertrag, wenn das Darlehen, das ein Unternehmer einem Verbraucher gewährt, ausschließlich der Finanzierung des widerrufenen Vertrags dient und die Leistung des Unternehmers aus dem widerrufenen Vertrag in dem Darlehensvertrag genau angegeben ist.
 

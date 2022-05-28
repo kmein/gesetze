@@ -115,9 +115,9 @@ den Verzicht auf weitere Überprüfungen nach Satz 1 beantragen, wenn er bei Ste
 
 # § 6 – Effektiver Jahreszins
 
-(1) Bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Gesetzes sind die Gesamtkosten als jährlicher Prozentsatz des Kredits nach § 6 Absatz 1 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 7 des Gesetzes vom 20. September 2013 (BGBl. I S. 3642) geändert worden ist, in der jeweils geltenden Fassung anzugeben. Für das Altersvorsorgevermögen, mit dem das Darlehen getilgt wird, ist der vertraglich garantierte Betrag dieses Vermögens zum voraussichtlichen Zeitpunkt der Darlehenstilgung anzusetzen.
+(1) Bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Gesetzes sind die Gesamtkosten als jährlicher Prozentsatz des Kredits nach § 16 Absatz 1 der Preisangabenverordnung in der jeweils geltenden Fassung anzugeben. Für das Altersvorsorgevermögen, mit dem das Darlehen getilgt wird, ist der vertraglich garantierte Betrag dieses Vermögens zum voraussichtlichen Zeitpunkt der Darlehenstilgung anzusetzen.
 
-(2) In die Berechnung des Prozentsatzes sind alle Kosten für den Vertragspartner einschließlich aller auf den Vertrag zu leistenden Altersvorsorgebeiträge einzubeziehen, es sei denn, die Kosten fallen unter eine Ausnahme des § 6 Absatz 4 der Preisangabenverordnung.
+(2) In die Berechnung des Prozentsatzes sind alle Kosten für den Vertragspartner einschließlich aller auf den Vertrag zu leistenden Altersvorsorgebeiträge einzubeziehen, es sei denn, die Kosten fallen unter eine Ausnahme des § 16 Absatz 4 der Preisangabenverordnung.
 
 # § 7 – Kostenangabe
 
