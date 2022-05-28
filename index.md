@@ -18,6 +18,7 @@
 - [AbfVerbrBußV](laws/AbfVerbrBußV.md) Verordnung zur Durchsetzung von Vorschriften in Rechtsakten der Europäischen Gemeinschaft über die Verbringung von Abfällen
 - [AbfVerbrG](laws/AbfVerbrG.md) Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung 2)
 - [AbgG](laws/AbgG.md) Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages
+- [AbgG10u11AbschnABestBek](laws/AbgG10u11AbschnABestBek.md) Bekanntmachung der Ausführungsbestimmungen zu den Vorschriften des Zehnten und Elften Abschnitts des Abgeordnetengesetzes
 - [AbgrV](laws/AbgrV.md) Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser
 - [Abk ISR](laws/Abk_ISR.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel
 - [AbLaV](laws/AbLaV.md) Verordnung über Vereinbarungen zu abschaltbaren Lasten
@@ -444,6 +445,7 @@
 - [BAföG-AuslandszuschlagsV](laws/BAföG-AuslandszuschlagsV.md) Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz bei einer Ausbildung im Ausland
 - [BAföG-EinkommensV](laws/BAföG-EinkommensV.md) Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes
 - [BAfög-FachlehrerV](laws/BAfög-FachlehrerV.md) Verordnung über die Ausbildungsförderung für den Besuch von Instituten zur Ausbildung von Fachlehrern und Sportlehrern
+- [BAföG-MedPflegbV](laws/BAföG-MedPflegbV.md) Verordnung über die Ausbildungsförderung für Medizinalfachberufe und für Pflegeberufe
 - [BAföG-TeilerlaßV](laws/BAföG-TeilerlaßV.md) Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
 - [BAföGZustV 2004](laws/BAföGZustV_2004.md) Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
 - [BAFzAZustAnO](laws/BAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben

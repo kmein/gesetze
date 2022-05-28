@@ -130,7 +130,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 219 Euro monatlich.
 
-(3) Darüber hinaus wird für jedes Kind, für das für den Monat Mai 2021 ein Anspruch auf Kindergeld besteht, für den Monat Mai 2021 ein Einmalbetrag in Höhe von 150 Euro gezahlt. Ein Anspruch in Höhe des Einmalbetrags von 150 Euro für das Kalenderjahr 2021 besteht auch für ein Kind, für das nicht für den Monat Mai 2021, jedoch für mindestens einen anderen Kalendermonat im Kalenderjahr 2021 ein Anspruch auf Kindergeld besteht.
+(3) Darüber hinaus wird für jedes Kind, für das für den Monat Juli 2022 ein Anspruch auf Kindergeld besteht, für den Monat Juli 2022 ein Einmalbetrag in Höhe von 100 Euro gezahlt. Ein Anspruch in Höhe des Einmalbetrags von 100 Euro für das Kalenderjahr 2022 besteht auch für ein Kind, für das nicht für den Monat Juli 2022, jedoch für mindestens einen anderen Kalendermonat im Kalenderjahr 2022 ein Anspruch auf Kindergeld besteht.
 
 # § 6a – Kinderzuschlag
 

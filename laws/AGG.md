@@ -243,27 +243,101 @@ Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer besonderen
 
 (2) Der Antidiskriminierungsstelle des Bundes ist die für die Erfüllung ihrer Aufgaben notwendige Personal- und Sachausstattung zur Verfügung zu stellen. Sie ist im Einzelplan des Bundesministeriums für Familie, Senioren, Frauen und Jugend in einem eigenen Kapitel auszuweisen.
 
-# § 26 – Rechtsstellung der Leitung der Antidiskriminierungsstelle des Bundes
+(3) Die Antidiskriminierungsstelle des Bundes wird von der oder dem Unabhängigen Bundesbeauftragten für Antidiskriminierung geleitet.
 
-(1) Die Bundesministerin oder der Bundesminister für Familie, Senioren, Frauen und Jugend ernennt auf Vorschlag der Bundesregierung eine Person zur Leitung der Antidiskriminierungsstelle des Bundes. Sie steht nach Maßgabe dieses Gesetzes in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie ist in Ausübung ihres Amtes unabhängig und nur dem Gesetz unterworfen.
+# § 26 – Wahl der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Anforderungen
 
-(2) Das Amtsverhältnis beginnt mit der Aushändigung der Urkunde über die Ernennung durch die Bundesministerin oder den Bundesminister für Familie, Senioren, Frauen und Jugend.
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung wird auf Vorschlag der Bundesregierung vom Deutschen Bundestag gewählt.
 
-(3) Das Amtsverhältnis endet außer durch Tod
+(2) Über den Vorschlag stimmt der Deutsche Bundestag ohne Aussprache ab.
 
-1. mit dem Zusammentreten eines neuen Bundestages,
+(3) Die vorgeschlagene Person ist gewählt, wenn für sie mehr als die Hälfte der gesetzlichen Zahl der Mitglieder des Deutschen Bundestages gestimmt hat.
 
-2. durch Ablauf der Amtszeit mit Erreichen der Altersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes,
+(4) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung muss zur Erfüllung ihrer oder seiner Aufgaben und zur Ausübung ihrer oder seiner Befugnisse über die erforderliche Qualifikation, Erfahrung und Sachkunde insbesondere im Bereich der Antidiskriminierung verfügen. Insbesondere muss sie oder er über durch einschlägige Berufserfahrung erworbene Kenntnisse des Antidiskriminierungsrechts verfügen und die Befähigung für die Laufbahn des höheren nichttechnischen Verwaltungsdienstes des Bundes haben.
 
-3. mit der Entlassung.
+# § 26a – Rechtsstellung der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
 
-Die Bundesministerin oder der Bundesminister für Familie, Senioren, Frauen und Jugend entlässt die Leiterin oder den Leiter der Antidiskriminierungsstelle des Bundes auf deren Verlangen oder wenn Gründe vorliegen, die bei einer Richterin oder einem Richter auf Lebenszeit die Entlassung aus dem Dienst rechtfertigen. Im Falle der Beendigung des Amtsverhältnisses erhält die Leiterin oder der Leiter der Antidiskriminierungsstelle des Bundes eine von der Bundesministerin oder dem Bundesminister für Familie, Senioren, Frauen und Jugend vollzogene Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde wirksam.
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung steht nach Maßgabe dieses Gesetzes in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie oder er ist bei der Ausübung ihres oder seines Amtes unabhängig und nur dem Gesetz unterworfen.
 
-(4) Das Rechtsverhältnis der Leitung der Antidiskriminierungsstelle des Bundes gegenüber dem Bund wird durch Vertrag mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend geregelt. Der Vertrag bedarf der Zustimmung der Bundesregierung.
+(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung untersteht der Rechtsaufsicht der Bundesregierung.
 
-(5) Wird eine Bundesbeamtin oder ein Bundesbeamter zur Leitung der Antidiskriminierungsstelle des Bundes bestellt, scheidet er oder sie mit Beginn des Amtsverhältnisses aus dem bisherigen Amt aus. Für die Dauer des Amtsverhältnisses ruhen die aus dem Beamtenverhältnis begründeten Rechte und Pflichten mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen oder Geschenken. Bei unfallverletzten Beamtinnen oder Beamten bleiben die gesetzlichen Ansprüche auf das Heilverfahren und einen Unfallausgleich unberührt.
+# § 26b – Amtszeit der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
 
-# § 27 – Aufgaben
+(1) Die Amtszeit der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung beträgt fünf Jahre.
+
+(2) Eine einmalige Wiederwahl ist zulässig.
+
+(3) Kommt vor Ende des Amtsverhältnisses eine Neuwahl nicht zustande, so führt die oder der bisherige Unabhängige Bundesbeauftragte für Antidiskriminierung auf Ersuchen der Bundespräsidentin oder des Bundespräsidenten die Geschäfte bis zur Neuwahl fort.
+
+# § 26c – Beginn und Ende des Amtsverhältnisses der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Amtseid
+
+(1) Die oder der nach § 26 Gewählte ist von der Bundespräsidentin oder dem Bundespräsidenten zu ernennen. Das Amtsverhältnis der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung beginnt mit der Aushändigung der Ernennungsurkunde.
+
+(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung leistet vor der Bundespräsidentin oder dem Bundespräsidenten folgenden Eid: „Ich schwöre, dass ich meine Kraft dem Wohl des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe. “ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+
+(3) Das Amtsverhältnis endet
+
+1. regulär mit dem Ablauf der Amtszeit oder
+
+2. wenn die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung vorzeitig aus dem Amt entlassen wird.
+
+(4) Entlassen wird die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
+
+1. auf eigenes Verlangen oder
+
+2. auf Vorschlag der Bundesregierung, wenn die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung eine schwere Verfehlung begangen hat oder die Voraussetzungen für die Wahrnehmung ihrer oder seiner Aufgaben nicht mehr erfüllt.
+
+Die Entlassung erfolgt durch die Bundespräsidentin oder den Bundespräsidenten.
+
+(5) Im Fall der Beendigung des Amtsverhältnisses vollzieht die Bundespräsidentin oder der Bundespräsident eine Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde wirksam.
+
+# § 26d – Unerlaubte Handlungen und Tätigkeiten der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung darf keine Handlungen vornehmen, die mit den Aufgaben des Amtes nicht zu vereinbaren sind.
+
+(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung darf während der Amtszeit und während einer anschließenden Geschäftsführung keine anderen Tätigkeiten ausüben, die mit dem Amt nicht zu vereinbaren sind, unabhängig davon, ob es entgeltliche oder unentgeltliche Tätigkeiten sind. Insbesondere darf sie oder er
+
+1. kein besoldetes Amt, kein Gewerbe und keinen Beruf ausüben,
+
+2. nicht dem Vorstand, Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens, nicht einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören und
+
+3. nicht gegen Entgelt außergerichtliche Gutachten abgeben.
+
+# § 26e – Verschwiegenheitspflicht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist verpflichtet, über die Angelegenheiten, die ihr oder ihm im Amt oder während einer anschließenden Geschäftsführung bekannt werden, Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung entscheidet nach pflichtgemäßem Ermessen, ob und inwieweit sie oder er über solche Angelegenheiten vor Gericht oder außergerichtlich aussagt oder Erklärungen abgibt.
+
+(2) Die Pflicht zur Verschwiegenheit gilt auch nach Beendigung des Amtsverhältnisses oder nach Beendigung einer anschließenden Geschäftsführung. In Angelegenheiten, für die die Pflicht zur Verschwiegenheit gilt, darf vor Gericht oder außergerichtlich nur ausgesagt werden und dürfen Erklärungen nur abgegeben werden, wenn dies die oder der amtierende Unabhängige Bundesbeauftragte für Antidiskriminierung genehmigt hat.
+
+(3) Unberührt bleibt die Pflicht, bei einer Gefährdung der freiheitlichen demokratischen Grundordnung für deren Erhaltung einzutreten und die gesetzlich begründete Pflicht, Straftaten anzuzeigen.
+
+# § 26f – Zeugnisverweigerungsrecht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist berechtigt, über Personen, die ihr oder ihm in ihrer oder seiner Eigenschaft als Leitung der Antidiskriminierungsstelle des Bundes Tatsachen anvertraut haben, sowie über diese Tatsachen selbst das Zeugnis zu verweigern. Soweit das Zeugnisverweigerungsrecht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung reicht, darf von ihr oder ihm nicht gefordert werden, Akten oder andere Dokumente vorzulegen oder herauszugeben.
+
+(2) Das Zeugnisverweigerungsrecht gilt auch für die der oder dem Unabhängigen Bundesbeauftragten für Antidiskriminierung zugewiesenen Beschäftigten mit der Maßgabe, dass über die Ausübung dieses Rechts die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung entscheidet.
+
+# § 26g – Anspruch der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung auf Amtsbezüge, Versorgung und auf andere Leistungen
+
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung erhält Amtsbezüge entsprechend dem Grundgehalt der Besoldungsgruppe B 6 und den Familienzuschlag entsprechend den §§ 39 bis 41 des Bundesbesoldungsgesetzes.
+
+(2) Der Anspruch auf die Amtsbezüge besteht für die Zeit vom ersten Tag des Monats, in dem das Amtsverhältnis beginnt, bis zum letzten Tag des Monats, in dem das Amtsverhältnis endet. Werden die Geschäfte über das Ende des Amtsverhältnisses hinaus noch bis zur Neuwahl weitergeführt, so besteht der Anspruch für die Zeit bis zum letzten Tag des Monats, in dem die Geschäftsführung endet. Bezieht die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung für einen Zeitraum, für den sie oder er Amtsbezüge erhält, ein Einkommen aus einer Verwendung im öffentlichen Dienst, so ruht der Anspruch auf dieses Einkommen bis zur Höhe der Amtsbezüge. Die Amtsbezüge werden monatlich im Voraus gezahlt.
+
+(3) Für Ansprüche auf Beihilfe und Versorgung gelten § 12 Absatz 6, die §§ 13 bis 18 und 20 des Bundesministergesetzes entsprechend mit der Maßgabe, dass an die Stelle der vierjährigen Amtszeit in § 15 Absatz 1 des Bundesministergesetzes eine Amtszeit als Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung von fünf Jahren tritt. Ein Anspruch auf Übergangsgeld besteht längstens bis zum Ablauf des Monats, in dem die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes vollendet wird. Ist § 18 Absatz 2 des Bundesministergesetzes nicht anzuwenden, weil das Beamtenverhältnis einer Bundesbeamtin oder eines Bundesbeamten nach Beendigung des Amtsverhältnisses als Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung fortgesetzt wird, dann ist die Amtszeit als Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung bei der wegen Eintritt oder Versetzung der Bundesbeamtin oder des Bundesbeamten in den Ruhestand durchzuführenden Festsetzung des Ruhegehalts als ruhegehaltfähige Dienstzeit zu berücksichtigen.
+
+(4) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung erhält Reisekostenvergütung und Umzugskostenvergütung entsprechend den für Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften.
+
+# § 26h – Verwendung der Geschenke an die Unabhängige Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für Antidiskriminierung
+
+(1) Erhält die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ein Geschenk in Bezug auf das Amt, so muss sie oder er dies der Präsidentin oder dem Präsidenten des Deutschen Bundestages mitteilen.
+
+(2) Die Präsidentin oder der Präsident des Deutschen Bundestages entscheidet über die Verwendung des Geschenks. Sie oder er kann Verfahrensvorschriften erlassen.
+
+# § 26i – Berufsbeschränkung
+
+Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist verpflichtet, eine beabsichtigte Erwerbstätigkeit oder sonstige entgeltliche Beschäftigung außerhalb des öffentlichen Dienstes, die innerhalb der ersten 18 Monate nach dem Ende der Amtszeit oder einer anschließenden Geschäftsführung aufgenommen werden soll, schriftlich oder elektronisch gegenüber der Präsidentin oder dem Präsidenten des Deutschen Bundestages anzuzeigen. Die Präsidentin oder der Präsident des Deutschen Bundestages kann der oder dem Unabhängigen Bundesbeauftragten für Antidiskriminierung die beabsichtigte Erwerbstätigkeit oder sonstige entgeltliche Beschäftigung untersagen, soweit zu besorgen ist, dass öffentliche Interessen beeinträchtigt werden. Von einer Beeinträchtigung ist insbesondere dann auszugehen, wenn die beabsichtigte Erwerbstätigkeit oder sonstige entgeltliche Beschäftigung in Angelegenheiten oder Bereichen ausgeführt werden soll, in denen die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung während der Amtszeit oder einer anschließenden Geschäftsführung tätig war. Eine Untersagung soll in der Regel die Dauer von einem Jahr nach dem Ende der Amtszeit oder einer anschließenden Geschäftsführung nicht überschreiten. In Fällen der schweren Beeinträchtigung öffentlicher Interessen kann eine Untersagung auch für die Dauer von bis zu 18 Monaten ausgesprochen werden.
+
+# § 27 – Aufgaben der Antidiskriminierungsstelle des Bundes
 
 (1) Wer der Ansicht ist, wegen eines in § 1 genannten Grundes benachteiligt worden zu sein, kann sich an die Antidiskriminierungsstelle des Bundes wenden.
 
@@ -289,21 +363,25 @@ Soweit Beauftragte des Deutschen Bundestages oder der Bundesregierung zuständig
 
 (5) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages sollen bei Benachteiligungen aus mehreren der in § 1 genannten Gründe zusammenarbeiten.
 
-# § 28 – Befugnisse
+# § 28 – Amtsbefugnisse der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung und Pflicht zur Unterstützung durch Bundesbehörden und öffentliche Stellen des Bundes
 
-(1) Die Antidiskriminierungsstelle des Bundes kann in Fällen des § 27 Abs. 2 Satz 2 Nr. 3 Beteiligte um Stellungnahmen ersuchen, soweit die Person, die sich nach § 27 Abs. 1 an sie gewandt hat, hierzu ihr Einverständnis erklärt.
+(1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist bei allen Vorhaben, die ihre oder seine Aufgaben berühren, zu beteiligen. Die Beteiligung soll möglichst frühzeitig erfolgen. Sie oder er kann der Bundesregierung Vorschläge machen und Stellungnahmen zuleiten.
 
-(2) Alle Bundesbehörden und sonstigen öffentlichen Stellen im Bereich des Bundes sind verpflichtet, die Antidiskriminierungsstelle des Bundes bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere die erforderlichen Auskünfte zu erteilen. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
+(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung informiert die Bundesministerien – vorbehaltlich anderweitiger gesetzlicher Bestimmungen – frühzeitig in Angelegenheiten von grundsätzlicher politischer Bedeutung, soweit Aufgaben der Bundesministerien betroffen sind.
 
-# § 29 – Zusammenarbeit mit Nichtregierungsorganisationen und anderen Einrichtungen
+(3) In den Fällen, in denen sich eine Person wegen einer Benachteiligung an die Antidiskriminierungsstelle des Bundes gewandt hat und die Antidiskriminierungsstelle des Bundes die gütliche Beilegung zwischen den Beteiligten anstrebt, kann die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung Beteiligte um Stellungnahmen ersuchen, soweit die Person, die sich an die Antidiskriminierungsstelle des Bundes gewandt hat, hierzu ihr Einverständnis erklärt.
+
+(4) Alle Bundesministerien, sonstigen Bundesbehörden und öffentlichen Stellen im Bereich des Bundes sind verpflichtet, die Unabhängige Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für Antidiskriminierung bei der Erfüllung der Aufgaben zu unterstützen, insbesondere die erforderlichen Auskünfte zu erteilen.
+
+# § 29 – Zusammenarbeit der Antidiskriminierungsstelle des Bundes mit Nichtregierungsorganisationen und anderen Einrichtungen
 
 Die Antidiskriminierungsstelle des Bundes soll bei ihrer Tätigkeit Nichtregierungsorganisationen sowie Einrichtungen, die auf europäischer, Bundes-, Landes- oder regionaler Ebene zum Schutz vor Benachteiligungen wegen eines in § 1 genannten Grundes tätig sind, in geeigneter Form einbeziehen.
 
-# § 30 – Beirat
+# § 30 – Beirat der Antidiskriminierungsstelle des Bundes
 
 (1) Zur Förderung des Dialogs mit gesellschaftlichen Gruppen und Organisationen, die sich den Schutz vor Benachteiligungen wegen eines in § 1 genannten Grundes zum Ziel gesetzt haben, wird der Antidiskriminierungsstelle des Bundes ein Beirat beigeordnet. Der Beirat berät die Antidiskriminierungsstelle des Bundes bei der Vorlage von Berichten und Empfehlungen an den Deutschen Bundestag nach § 27 Abs. 4 und kann hierzu sowie zu wissenschaftlichen Untersuchungen nach § 27 Abs. 3 Nr. 3 eigene Vorschläge unterbreiten.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend beruft im Einvernehmen mit der Leitung der Antidiskriminierungsstelle des Bundes sowie den entsprechend zuständigen Beauftragten der Bundesregierung oder des Deutschen Bundestages die Mitglieder dieses Beirats und für jedes Mitglied eine Stellvertretung. In den Beirat sollen Vertreterinnen und Vertreter gesellschaftlicher Gruppen und Organisationen sowie Expertinnen und Experten in Benachteiligungsfragen berufen werden. Die Gesamtzahl der Mitglieder des Beirats soll 16 Personen nicht überschreiten. Der Beirat soll zu gleichen Teilen mit Frauen und Männern besetzt sein.
+(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend beruft im Einvernehmen mit der oder dem Unabhängigen Bundesbeauftragten für Antidiskriminierung sowie den entsprechend zuständigen Beauftragten der Bundesregierung oder des Deutschen Bundestages die Mitglieder dieses Beirats und für jedes Mitglied eine Stellvertretung. In den Beirat sollen Vertreterinnen und Vertreter gesellschaftlicher Gruppen und Organisationen sowie Expertinnen und Experten in Benachteiligungsfragen berufen werden. Die Gesamtzahl der Mitglieder des Beirats soll 16 Personen nicht überschreiten. Der Beirat soll zu gleichen Teilen mit Frauen und Männern besetzt sein.
 
 (3) Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend bedarf.
 
