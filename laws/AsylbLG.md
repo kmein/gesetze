@@ -13,7 +13,7 @@
 
 3. eine Aufenthaltserlaubnis besitzen
 
-a) wegen des Krieges in ihrem Heimatland nach § 23 Absatz 1 oder § 24 des Aufenthaltsgesetzes,
+a) wegen des Krieges in ihrem Heimatland nach § 23 Absatz 1 des Aufenthaltsgesetzes,
 
 b) nach § 25 Absatz 4 Satz 1 des Aufenthaltsgesetzes oder
 
@@ -23,9 +23,15 @@ c) nach § 25 Absatz 5 des Aufenthaltsgesetzes, sofern die Entscheidung über di
 
 5. vollziehbar ausreisepflichtig sind, auch wenn eine Abschiebungsandrohung noch nicht oder nicht mehr vollziehbar ist,
 
-6. Ehegatten, Lebenspartner oder minderjährige Kinder der in den Nummern 1 bis 5 genannten Personen sind, ohne daß sie selbst die dort genannten Voraussetzungen erfüllen, oder
+6. Ehegatten, Lebenspartner oder minderjährige Kinder der in den Nummern 1 bis 5 genannten Personen sind, ohne daß sie selbst die dort genannten Voraussetzungen erfüllen,
 
-7. einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag nach § 71a des Asylgesetzes stellen.
+7. einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag nach § 71a des Asylgesetzes stellen oder
+
+8. a) eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes besitzen, die ihnen nach dem 24. Februar 2022 und vor dem 1. Juni 2022 erteilt wurde, oder
+
+b) eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes besitzen, die nach dem 24. Februar 2022 und vor dem 1. Juni 2022 ausgestellt wurde,
+
+und bei denen weder eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes oder nach § 16 des Asylgesetzes durchgeführt worden ist, noch deren Daten nach § 3 Absatz 1 des AZR-Gesetzes gespeichert wurden; das Erfordernis einer erkennungsdienstlichen Behandlung gilt nicht, soweit eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
 (2) Die in Absatz 1 bezeichneten Ausländer sind für die Zeit, für die ihnen ein anderer Aufenthaltstitel als die in Absatz 1 Nr. 3 bezeichnete Aufenthaltserlaubnis mit einer Gesamtgeltungsdauer von mehr als sechs Monaten erteilt worden ist, nicht nach diesem Gesetz leistungsberechtigt.
 

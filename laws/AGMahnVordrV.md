@@ -63,8 +63,6 @@ Dies gilt nicht für Mahnverfahren, in denen
 "Anspruch aus Vertrag vom ..., für den das Verbraucherkreditgesetz gilt. Effektiver Jahreszins ... %". In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:  
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
 
-# § 2a – (weggefallen)
-
 # § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
