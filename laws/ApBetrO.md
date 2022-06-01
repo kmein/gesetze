@@ -619,7 +619,7 @@ Zur Herstellung von Arzneimitteln dürfen nur primäre Verpackungsmaterialien ve
 
 4. Gebrauchsanweisung, sofern das Arzneimittel nicht unmittelbar an die verschreibende Person abgegeben wird,
 
-5. Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art,
+5. Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art sowie Angaben zur Konzentration oder zur Menge des sonstigen Bestandteils, soweit dies nach dem jeweiligen Stand der wissenschaftlichen Erkenntnisse erforderlich ist,
 
 6. Herstellungsdatum,
 

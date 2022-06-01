@@ -51,7 +51,7 @@ a) nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz
 
 b) nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
-c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5 des Aufenthaltsgesetzes erteilt,
+c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des Aufenthaltsgesetzes erteilt,
 
 3. eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und im Bundesgebiet berechtigt erwerbstätig ist oder Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch nimmt,
 
@@ -641,6 +641,6 @@ Beantragt eine Person Elterngeld, so darf das für die Entgegennahme der Anzeige
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis zum 31. Dezember 2006 geltenden Fassung weiter anzuwenden.
 
-(3) § 1 Absatz 7 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen.
+(3) § 1 Absatz 7 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
 
 (4) § 9 Absatz 2 und § 25 sind auf Kinder anwendbar, die nach dem 31. Dezember 2021 geboren oder nach dem 31. Dezember 2021 mit dem Ziel der Adoption aufgenommen worden sind. Zur Erprobung des Verfahrens können diese Regelungen in Pilotprojekten mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend, des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums des Innern, für Bau und Heimat auf Kinder, die vor dem 1. Januar 2022 geboren oder vor dem 1. Januar 2022 zur Adoption aufgenommen worden sind, angewendet werden.

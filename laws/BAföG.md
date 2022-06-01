@@ -1153,9 +1153,23 @@ Verfolgten nach § 1 des Beruflichen Rehabilitierungsgesetzes oder verfolgten Sc
 
 3. auf Antrag der nach dem 31. Juli 1996 nach § 17 Absatz 3 in der am 31. Juli 2019 geltenden Fassung geleistete Darlehensbetrag unter den Voraussetzungen der Nummer 2 erlassen; der Antrag ist innerhalb eines Monats nach Erhalt der Mitteilung nach § 18c Absatz 8 an die Kreditanstalt für Wiederaufbau zu richten.
 
-# §§ 61 und 62 – (weggefallen)
+# § 61 – Förderung von Ausländerinnen und Ausländern mit einer Aufenthaltserlaubnis oder einer entsprechenden Fiktionsbescheinigung
 
-\-
+(1) Ergänzend zu § 8 Absatz 2 Nummer 1 wird Ausländerinnen und Ausländern Ausbildungsförderung auch geleistet, die gemäß § 49 des Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind, ihren ständigen Wohnsitz im Inland haben und
+
+1. denen eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes erteilt worden ist oder
+
+2. die eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes beantragt haben und denen ausgestellt worden ist
+
+a) eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 des Aufenthaltsgesetzes oder
+
+b) eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes.
+
+(2) § 74 Absatz 3 und 4 des Zweiten Buches Sozialgesetzbuch gilt entsprechend.
+
+(3) § 5 Absatz 2 Satz 4 gilt entsprechend.
+
+# § 62 – (weggefallen)
 
 # § 63 – (weggefallen)
 

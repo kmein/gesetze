@@ -589,6 +589,8 @@ Bestimmungen zum Verwaltungsverfahren
 
 (3d) Bei Ausländern nach § 2 Absatz 2c wird zusätzlich zu den Daten nach Absatz 1 das von der Bundesagentur für Arbeit ausgestellte Dokument über die vorab erteilte Zustimmung zur Ausübung einer Beschäftigung nach § 36 Absatz 3 der Beschäftigungsverordnung vom 6. Juni 2013 (BGBl. I S. 1499), die zuletzt durch Artikel 1 der Verordnung vom 18. Dezember 2020 (BGBl. I S. 3046) geändert worden ist, in der am 1. Januar 2021 geltenden Fassung gespeichert.
 
+(3e) Bei Ausländern nach § 2 Absatz 2 Nummer 2 und 3, bei denen Maßnahmen gemäß § 49 Absatz 4a des Aufenthaltsgesetzes durchgeführt wurden, werden zusätzlich zu den Daten nach Absatz 1 die Fingerabdrücke und die dazugehörigen Referenznummern gespeichert.
+
 (4) Bei Unionsbürgern werden nur folgende Daten gespeichert:
 
 1. die Bezeichnung der Stelle, die Daten übermittelt hat, und deren Geschäftszeichen,
@@ -665,13 +667,13 @@ Bestimmungen zum Verwaltungsverfahren
 
 (2) Die Stellen nach Absatz 1 Nummer 1, 1a und 2 bis 7 übermitteln die Daten nach § 3 Absatz 1 Nummer 1, 3 bis 5a und 7 sowie Absatz 4 Nummer 1, 3 bis 5 und 7. Von der Übermittlung der Daten einer gefährdeten Person im Fall des § 2 Abs. 2 Nr. 7 kann im Einzelfall abgesehen werden, wenn die Speicherung ihren schutzwürdigen Interessen entgegensteht. Außerdem übermitteln
 
-1. die in Absatz 1 Nummer 1 bezeichneten Stellen die Angaben nach § 3 Absatz 1 Nummer 6, Absatz 2 Nummer 1 bis 9, Absatz 3, 3c und 4 Nummer 6 sowie die Daten nach § 4 Absatz 1 und 2,
+1. die in Absatz 1 Nummer 1 bezeichneten Stellen die Angaben nach § 3 Absatz 1 Nummer 6, Absatz 2 Nummer 1 bis 9, Absatz 3, 3c, 3e und 4 Nummer 6 sowie die Daten nach § 4 Absatz 1 und 2,
 
-2. die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 1 bis 11, Absatz 3 Nummer 1 und 2,
+2. die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 1 bis 11, Absatz 3 Nummer 1 und 2, Absatz 3e,
 
 3. die in Absatz 1 Nummer 1b bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 10, 10a und 11,
 
-4. die in Absatz 1 Nummer 2 und 4a bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 1, 2 und 4 bis 9,
+4. die in Absatz 1 Nummer 2 und 4a bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 1, 2 und 4 bis 9, Absatz 3e,
 
 5. die in Absatz 1 Nummer 3 bezeichnete Stelle die Daten nach § 3 Absatz 1 Nummer 6, Absatz 2 Nummer 1 bis 9, Absatz 3, 3b sowie § 4 Absatz 1 und 2,
 
