@@ -37,6 +37,8 @@ und bei denen weder eine erkennungsdienstliche Behandlung nach § 49 des Aufenth
 
 (3) Die Leistungsberechtigung endet mit der Ausreise oder mit Ablauf des Monats, in dem die Leistungsvoraussetzung entfällt. Für minderjährige Kinder, die eine Aufenthaltserlaubnis nach § 25 Absatz 5 des Aufenthaltsgesetzes besitzen und die mit ihren Eltern in einer Haushaltsgemeinschaft leben, endet die Leistungsberechtigung auch dann, wenn die Leistungsberechtigung eines Elternteils, der eine Aufenthaltserlaubnis nach § 25 Absatz 5 des Aufenthaltsgesetzes besitzt, entfallen ist.
 
+(3a) Sofern kein Fall des Absatzes 1 Nummer 8 vorliegt, sind Leistungen nach diesem Gesetz mit Ablauf des Monats ausgeschlossen, in dem Leistungsberechtigten, die gemäß § 49 des Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind und eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes beantragt haben, eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes ausgestellt worden ist. Der Ausschluss nach Satz 1 gilt bis zur Entscheidung der Ausländerbehörde über den Antrag auf Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes. Das Erfordernis einer erkennungsdienstlichen Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
+
 (4) Leistungsberechtigte nach Absatz 1 Nummer 5, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist, haben keinen Anspruch auf Leistungen nach diesem Gesetz, wenn der internationale Schutz fortbesteht. Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über die Möglichkeit der Leistungen nach Satz 6 sind die Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden. Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen nach den §§ 3, 4 und 6 gewährt; ebenso sind Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im Einzelfall auf Grund besonderer Umstände zur Überwindung einer besonderen Härte und zur Deckung einer zeitlich befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als Darlehen zu erbringen.
 
 # § 1a – Anspruchseinschränkung
@@ -113,7 +115,7 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (5) Leistungen in Geld oder Geldeswert sollen der oder dem Leistungsberechtigten oder einem volljährigen berechtigten Mitglied des Haushalts persönlich ausgehändigt werden. Stehen die Leistungen nicht für einen vollen Monat zu, wird die Leistung anteilig erbracht; dabei wird der Monat mit 30 Tagen berechnet. Geldleistungen dürfen längstens einen Monat im Voraus erbracht werden. Von Satz 3 kann nicht durch Landesrecht abgewichen werden.
 
-(6) Die Regelung des § 144 Satz 1 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
+(6) (weggefallen)
 
 # § 3a – Bedarfssätze der Grundleistungen
 
@@ -468,6 +470,30 @@ zu erteilen.
 
 Für Leistungsberechtigte des Asylbewerberleistungsgesetzes, auf die bis zum 21. August 2019 gemäß § 2 Absatz 1 des Asylbewerberleistungsgesetzes das Zwölfte Buch Sozialgesetzbuch entsprechend anzuwenden war, ist § 2 des Asylbewerberleistungsgesetzes in der Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S. 2022), das zuletzt durch Artikel 4 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2541; 2019 I S. 162) geändert worden ist, weiter anzuwenden.
 
-# § 16 – Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie
+# § 16 – Sofortzuschlag
 
-Minderjährige Leistungsberechtigte, die für den Monat August 2021 Anspruch auf Leistungen nach diesem Gesetz haben, erhalten eine Einmalzahlung in Höhe von 100 Euro. Eines gesonderten Antrags bedarf es nicht.
+Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit mindestens einem Elternteil in einer Wohnung im Sinne von § 42a Absatz 2 Satz 2 des Zwölften Buches Sozialgesetzbuch zusammenleben, haben Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
+
+# § 17 – Einmalzahlung für den Monat Juli 2022
+
+Erwachsene Leistungsberechtigte, die für den Monat Juli 2022 Anspruch auf Leistungen haben, erhalten für diesen Monat zum Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von 200 Euro, sofern sie nicht § 3a Absatz 1 Nummer 3a zuzuordnen sind.
+
+# § 18 – Übergangsregelung für Personen mit Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes oder entsprechender Fiktionsbescheinigung
+
+(1) Für die Zeit vom 1. Juni 2022 bis einschließlich 31. August 2022 erhalten Personen abweichend von § 1 Absatz 1 Leistungen nach diesem Gesetz, wenn sie folgende Bedingungen erfüllen:
+
+1. sie haben im Monat Mai 2022 Leistungen nach diesem Gesetz bezogen,
+
+2. ihnen wurde nach dem 24. Februar 2022 und vor dem 1. Juni 2022 eine Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes erteilt oder eine Fiktionsbescheinigung gemäß § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes ausgestellt und
+
+3. bei ihnen wurde entweder eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes oder nach § 16 des Asylgesetzes durchgeführt oder ihre Daten wurden nach § 3 des AZR-Gesetzes gespeichert.
+
+Der Leistungsanspruch endet mit Ablauf des Monats, der dem Monat vorausgeht, für den der zuständige Träger der Grundsicherung für Arbeitsuchende nach § 74 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch oder der zuständige Träger der Leistungen nach dem Dritten oder Vierten Kapitel des Zwölften Buches Sozialgesetzbuch nach § 146 Absatz 5 Satz 3 des Zwölften Buches Sozialgesetzbuch die Aufnahme der laufenden Leistungsgewährung gegenüber der für die Durchführung dieses Gesetzes zuständigen Behörde anzeigt.
+
+(2) Die Leistungen nach diesem Gesetz gemäß Absatz 1 sind gegenüber den Leistungen nach dem Zweiten und Zwölften Buch Sozialgesetzbuch nachrangig.
+
+(3) Leistungen nach den §§ 4 und 6 dieses Gesetzes, die für Zeiten erbracht wurden, für die ein Erstattungsanspruch nach § 74 Absatz 5 des Zweiten Buches oder nach § 146 Absatz 5 des Zwölften Buches Sozialgesetzbuch besteht, werden den Leistungsträgern vom Bund erstattet; insoweit findet § 104 des Zehnten Buches Sozialgesetzbuch keine Anwendung. Das Erstattungsverfahren wird vom Bundesamt für Soziale Sicherung durchgeführt.
+
+# § 19 – Einmalzahlung für Kinder
+
+Minderjährige Leistungsberechtigte erhalten eine Einmalzahlung in Höhe von 100 Euro, wenn sie für den Monat Oktober 2022 Anspruch auf Leistungen nach diesem Gesetz haben. Eines gesonderten Antrags bedarf es nicht. Ausgenommen von der Einmalzahlung nach Satz 1 sind Leistungsberechtigte, für die in einem der Monate von Januar bis Oktober 2022 ein Anspruch auf Kindergeld besteht.

@@ -247,11 +247,11 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsvero
 
 3. im Ausland als Assistenzhund anerkannt ist und dessen Ausbildung den Anforderungen des § 12f Satz 2 entspricht oder
 
-4. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft vor dem 1. Juli 2021
+4. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft vor dem 1. Juli 2023
 
 a) in einer den Anforderungen des § 12f Satz 2 entsprechenden Weise ausgebildet und entsprechend § 12g Satz 2 erfolgreich geprüft wurde oder
 
-b) sich in einer den Anforderungen des § 12f Satz 2 entsprechenden Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1. Juli 2021 diese Ausbildung beendet und mit einer § 12g Satz 2 entsprechenden Prüfung erfolgreich abgeschlossen hat.
+b) sich in einer den Anforderungen des § 12f Satz 2 entsprechenden Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1. Juli 2023 diese Ausbildung beendet und mit einer § 12g Satz 2 entsprechenden Prüfung erfolgreich abgeschlossen hat.
 
 (4) Ein Assistenzhund ist als solcher zu kennzeichnen.
 
@@ -301,7 +301,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 1. Näheres über die erforderliche Beschaffenheit des Assistenzhundes, insbesondere Wesensmerkmale, Alter und Gesundheit des auszubildenden Hundes sowie über die vom Assistenzhund zu erbringenden Unterstützungsleistungen,
 
-2. Näheres über die Anerkennung von am 1. Juli 2021 in Ausbildung befindlichen oder bereits ausgebildeten Assistenzhunden sowie von im Ausland anerkannten Assistenzhunden einschließlich des Verfahrens,
+2. Näheres über die Anerkennung von am 1. Juli 2023 in Ausbildung befindlichen oder bereits ausgebildeten Assistenzhunden sowie von im Ausland anerkannten Assistenzhunden einschließlich des Verfahrens,
 
 3. Näheres über die erforderliche Kennzeichnung des Assistenzhundes sowie zum Umfang des notwendigen Versicherungsschutzes,
 

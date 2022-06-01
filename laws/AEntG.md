@@ -448,9 +448,9 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
 
-(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Gewerbezentralregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Abs. 1 oder 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Gewerbezentralregisters nach § 150a der Gewerbeordnung anfordern.
+(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregisters Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Abs. 1 oder 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
 
-(4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für den Bewerber oder die Bewerberin, der oder die den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Gewerbezentralregister nach § 150a der Gewerbeordnung an.
+(4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für den Bewerber oder die Bewerberin, der oder die den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
 
 (5) Vor der Entscheidung über den Ausschluss ist der Bewerber oder die Bewerberin zu hören.
 
