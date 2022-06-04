@@ -222,6 +222,8 @@ Der Eichraum ist der auszumessende Teil des Schiffes, der von der Leerebene (§�
 
 (4) Diejenige Schwimmebene, welche das Schiff im Zustand nach Absatz 2 einnimmt, wird als untere Eichebene bezeichnet.
 
+§ 17 Abs. 1 Nr. 1 Satz 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
+
 # § 18 – Obere Eichebene
 
 (1) Die obere Eichebene ist diejenige Schwimmebene, welche das Schiff einnimmt, wenn es unvertrimmt in der Ebene der höchst zulässigen Eintauchung, bei der das Schiff fahren kann, schwimmt.
@@ -285,6 +287,8 @@ Das mittlere Eichmarkenpaar ist in der Querschnittsebene, die durch den gemittel
 (4) Hat das Schiff Eichplatten nach § 20 Absatz 4 erhalten, so werden die Eichzeichen auf diesen Platten unaustilgbar angebracht.
 
 (5) Das Eichzeichen wird ebenfalls in unaustilgbaren Schriftzeichen an einer gut sichtbaren Stelle auf einem Teil des Schiffes angebracht, der fest, vor Stößen geschützt und dem Verschleiß wenig ausgesetzt ist. Diese Stelle ist im Eichschein in der Rubrik 31 anzugeben.
+
+§ 21 Abs. 3 Satz 2 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 22 – Eichskalen
 
@@ -362,6 +366,8 @@ Die Wasserverdrängung ist nach der Formel des § 26 Absatz 1 Nummer 2 festzuste
 
 (3) Es können auch entsprechende Angaben des Herstellers verwendet werden.
 
+§ 31 Abs. 1 Satz 5 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
+
 # § 32 – Berechnung der Wasserverdrängung
 
 (1) § 26 Absatz 1 Nummer 2 ist mit der Maßgabe anzuwenden, dass Angaben des Herstellers oder andere Angaben zur Bestimmung des Völligkeitsgrades der Verdrängung für die Berechnung verwendet werden können.
@@ -415,6 +421,8 @@ Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in Kraft g
 (3) Das Eichzeichen besteht aus den Kennbuchstaben des Schiffseichamtes, der Nummer der Eichbescheinigung und dem Zusatz „Sp“.
 
 (4) Eine Eichplakette für das Baumuster eines Sportboots wird nur erteilt, wenn das Sportboot auch nach § 34 überprüft ist und außer der Eichbescheinigung für das Baumuster (§ 35 Absatz 4) eine Eichbescheinigung für das jeweilige Sportboot (§ 35 Absatz 1) erteilt ist.
+
+§ 36 Abs. 3 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 37 – Grenzfälle
 
