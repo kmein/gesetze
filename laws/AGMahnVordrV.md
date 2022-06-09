@@ -57,12 +57,6 @@ Dies gilt nicht für Mahnverfahren, in denen der Mahnbescheid im Ausland oder na
 
 Die Länder können Anpassungen an den in den Anlagen bestimmten Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern oder dessen Verständnis zu erschweren, erleichtern, die Vordrucke elektronisch auszufüllen und bei Gericht als elektronisches Dokument gemäß § 46c des Arbeitsgerichtsgesetzes einzureichen.
 
-# Schlußformel
-
-Der Bundesminister  
-für Arbeit und Sozialordnung  
-Ehrenberg
-
 # § 4 – Vordrucke zur Übermittlung als strukturierter Datensatz
 
 Die Länder können Anpassungen an den in den Anlagen bestimmten Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern oder dessen Verständnis zu erschweren, ermöglichen, die Vordrucke elektronisch auszufüllen und dem Gericht als strukturierten Datensatz zu übermitteln. Für die Übermittlung als strukturierter Datensatz sind die in den Vordrucken enthaltenen Angaben in eine für das Gericht für die Bearbeitung geeignete Form zu übertragen. Die Identifizierung des Vordruckverwenders kann abweichend von § 46c Absatz 3 des Arbeitsgerichtsgesetzes statt mit einer qualifizierten elektronischen Signatur auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen, wenn im jeweiligen Land die technischen Voraussetzungen hierfür vorliegen.
@@ -84,6 +78,12 @@ Die Länder können eine gemeinsame Koordinierungsstelle durch Verwaltungsverein
 # § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
+
+# Schlußformel
+
+Der Bundesminister  
+für Arbeit und Sozialordnung  
+Ehrenberg
 
 # Anlage 1
 

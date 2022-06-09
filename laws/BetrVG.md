@@ -1515,7 +1515,7 @@ In Unternehmen, in denen kein Wirtschaftsausschuss besteht, ist im Fall des § 1
 
 In Unternehmen mit in der Regel mehr als zwanzig wahlberechtigten Arbeitnehmern hat der Unternehmer den Betriebsrat über geplante Betriebsänderungen, die wesentliche Nachteile für die Belegschaft oder erhebliche Teile der Belegschaft zur Folge haben können, rechtzeitig und umfassend zu unterrichten und die geplanten Betriebsänderungen mit dem Betriebsrat zu beraten. Der Betriebsrat kann in Unternehmen mit mehr als 300 Arbeitnehmern zu seiner Unterstützung einen Berater hinzuziehen; § 80 Abs. 4 gilt entsprechend; im Übrigen bleibt § 80 Abs. 3 unberührt. Als Betriebsänderungen im Sinne des Satzes 1 gelten
 
-1. Einschränkung und Stillegung des ganzen Betriebs oder von wesentlichen Betriebsteilen,
+1. Einschränkung und Stilllegung des ganzen Betriebs oder von wesentlichen Betriebsteilen,
 
 2. Verlegung des ganzen Betriebs oder von wesentlichen Betriebsteilen,
 
