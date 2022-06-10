@@ -2733,7 +2733,7 @@ für den jeweiligen Gültigkeitszeitraum ihre Geltung.
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union neu geschaffenen Speichersachverhalten werden in den Ausländerdateien gespeichert, sobald hierfür die informationstechnischen Voraussetzungen geschaffen worden sind, spätestens jedoch sechs Monate nach Inkrafttreten dieses Gesetzes. Soweit bis dahin die Angaben noch nicht gespeichert worden sind, sind die Ausländerbehörden verpflichtet, unverzüglich ihre Speicherung nachzuholen.
 
-# § 82b – Übergangsregelungzu § 31 Absatz 1 Satz 1 Nummer 1 und 2
+# § 82b – Übergangsregelung zu § 31 Absatz 1 Satz 1 Nummer 1 und 2
 
 Bis zur vollständigen Umsetzung des § 31 Absatz 1 Satz 1 Nummer 1 und 2 im automatisierten Visumverfahren des Bundesverwaltungsamtes, längstens jedoch bis zum 30. Juni 2013, können die Ausländerbehörden auch in den Fällen am Visumverfahren beteiligt werden, in denen auf Grund von § 31 Absatz 1 Satz 1 Nummer 1 und 2 in der Fassung vom 27. Februar 2013 (BGBl. I S. 351) ein Visum nicht der Zustimmung der Ausländerbehörde bedarf.
 
