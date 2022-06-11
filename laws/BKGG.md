@@ -43,8 +43,6 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 Abweichend von Satz 1 Nummer 3 erste Alternative erhält ein minderjähriger nicht freizügigkeitsberechtigter Ausländer unabhängig von einer Erwerbstätigkeit Kindergeld.
 
-(+++ § 1 Abs. 2 Satz 3: Zur Anwendung vgl. § 20 Abs. 4 F. 2006-07-19 +++)
-
 # § 2 – Kinder
 
 (1) Als Kinder werden auch berücksichtigt
