@@ -31,7 +31,7 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten in B
 
 # § 7 – Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des Medizinprodukterecht- Durchführungsgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des Medizinprodukterecht-Durchführungsgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
 
 # § 8 – Zuständigkeit nach der Trinkwasserverordnung
 
