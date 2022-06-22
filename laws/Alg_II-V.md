@@ -27,7 +27,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 9. bei Sozialgeldempfängern, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
-10. nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei gewährte Leistungen auf Grund der COVID-19-Pandemie sowie diesen Leistungen entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
+10. nach § 3 Nummer 11a oder 11b des Einkommensteuergesetzes steuerfrei gewährte Leistungen aufgrund der COVID-19-Pandemie sowie den Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
 
 11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten Einkommensarten bereitgestellt wird,
 
