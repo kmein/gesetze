@@ -591,9 +591,11 @@ Auf einen Kaufvertrag, der vor dem 1. Januar 2022 geschlossen worden ist, sind d
 
 # § 60 – Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
 
-Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
+Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
 
-Art. 229 § 60 Satz 3 Kursivdruck: Tritt zukünftig in Kraft
+# § 62 – Übergangsvorschrift zum Mietspiegelreformgesetz
+
+Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs in der ab dem 1. Juli 2022 geltenden Fassung eingeführten Pflicht erstmalig ein Mietspiegel zu erstellen ist, ist dieser bis spätestens 1. Januar 2023 zu erstellen und zu veröffentlichen. Wird für die Gemeinde in Erfüllung dieser Verpflichtung ein qualifizierter Mietspiegel erstellt, ist dieser bis spätestens 1. Januar 2024 zu erstellen und zu veröffentlichen.
 
 # § 63 – Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
 
@@ -1171,6 +1173,108 @@ Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritt
 
 (5) Die vorstehenden Absätze finden keine Anwendung, wenn die Betroffenen vor dem 24. Juli 1997 etwas Abweichendes vereinbart haben oder zwischen ihnen abweichende Urteile ergangen sind.
 
+# § 1 – Erhebung und Übermittlung von Daten
+
+(1) Zur Erstellung eines qualifizierten Mietspiegels dürfen die nach Landesrecht zuständigen Behörden bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, die bei der Verwaltung der Grundsteuer bekannt gewordenen Namen und Anschriften der Grundstückseigentümer von den für die Verwaltung der Grundsteuer zuständigen Behörden erheben und in sonstiger Weise verarbeiten.
+
+(2) Zur Erstellung eines qualifizierten Mietspiegels übermittelt die Meldebehörde der nach Landesrecht zuständigen Behörde bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, auf Ersuchen die nachfolgenden Daten aller volljährigen Personen:
+
+1. Familienname,
+
+2. Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
+
+3. derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde,
+
+4. Einzugsdaten sowie
+
+5. Namen und Anschriften der Wohnungsgeber.
+
+Das Ersuchen kann nur alle zwei Jahre gestellt werden. Die nach Landesrecht zuständigen Behörden dürfen die in Satz 1 genannten Daten in dem zur Erstellung eines qualifizierten Mietspiegels erforderlichen Umfang erheben und in sonstiger Weise verarbeiten.
+
+(3) Die in den Absätzen 1 und 2 Satz 1 genannten Daten dürfen auch von Stellen verarbeitet werden, die von der nach Landesrecht zuständigen Behörde damit beauftragt wurden, wenn die Datenverarbeitung auf der Grundlage einer Vereinbarung nach Artikel 28 Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) erfolgt.
+
+(4) Die nach Landesrecht zuständige Behörde und die in Absatz 3 bezeichneten Stellen haben die nach den Absätzen 1 und 2 erhobenen Daten unverzüglich zu löschen, sobald sie für die Erstellung des qualifizierten Mietspiegels nicht mehr erforderlich sind, es sei denn, sie werden für eine Anpassung mittels Stichprobe nach § 558d Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs benötigt. Die nach den Absätzen 1 und 2 erhobenen Daten sind spätestens drei Jahre nach ihrer Erhebung zu löschen.
+
+(5) Zur Erstellung eines qualifizierten Mietspiegels dürfen die Statistikstellen der Gemeinden und der Gemeindeverbände, sofern sie das Statistikgeheimnis gewährleisten, von den Statistischen Ämtern des Bundes und der Länder folgende Daten aus der Gebäude- und Wohnungszählung des Zensus, bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, erheben und in sonstiger Weise verarbeiten:
+
+1. Erhebungsmerkmale für Gebäude mit Wohnraum und bewohnte Unterkünfte:
+
+a) Gemeinde, Postleitzahl und amtlicher Gemeindeschlüssel,
+
+b) Art des Gebäudes,
+
+c) Eigentumsverhältnisse,
+
+d) Gebäudetyp,
+
+e) Baujahr,
+
+f) Heizungsart und Energieträger,
+
+g) Zahl der Wohnungen,
+
+2. Erhebungsmerkmale für Wohnungen:
+
+a) Art der Nutzung,
+
+b) Leerstandsdauer,
+
+c) Fläche der Wohnung,
+
+d) Zahl der Räume,
+
+e) Nettokaltmiete,
+
+3. Hilfsmerkmale:
+
+Straße und Hausnummer der Wohnung.
+
+Die Statistikstellen der Gemeinden und Gemeindeverbände haben die nach Satz 1 Nummer 3 erhobenen Hilfsmerkmale zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Erhebung, zu löschen.
+
+# § 2 – Auskunftspflichten
+
+(1) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner Anpassung mittels Stichprobe sind Eigentümer und Mieter von Wohnraum verpflichtet, der nach Landesrecht zuständigen Behörde auf Verlangen Auskunft zu erteilen darüber, ob der Wohnraum vermietet ist, sowie über die Anschrift der Wohnung.
+
+(2) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner Anpassung mittels Stichprobe sind Vermieter und Mieter von Wohnraum verpflichtet, der nach Landesrecht zuständigen Behörde auf Verlangen Auskunft über folgende Merkmale zu erteilen:
+
+1. Erhebungsmerkmale:
+
+a) Beginn des Mietverhältnisses,
+
+b) Zeitpunkt und Art der letzten Mieterhöhung mit Ausnahme von Erhöhungen nach § 560 des Bürgerlichen Gesetzbuchs,
+
+c) Festlegungen der Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage,
+
+d) Art der Miete und Miethöhe,
+
+e) Art, Größe, Ausstattung, Beschaffenheit und Lage des vermieteten Wohnraums einschließlich seiner energetischen Ausstattung und Beschaffenheit (§ 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs),
+
+f) Vorliegen besonderer Umstände, die zu einer Ermäßigung der Miethöhe geführt haben, insbesondere Verwandtschaft zwischen Vermieter und Mieter, ein zwischen Vermieter und Mieter bestehendes Beschäftigungsverhältnis oder die Übernahme besonderer Pflichten durch den Mieter,
+
+2. Hilfsmerkmale:
+
+a) Anschrift der Wohnung,
+
+b) Namen und Anschriften der Mieter und Vermieter.
+
+(3) Die Auskunftspflichten nach den Absätzen 1 und 2 bestehen auch gegenüber Stellen, die von der nach Landesrecht zuständigen Behörde mit der Erstellung oder Anpassung eines qualifizierten Mietspiegels nach § 1 Absatz 3 beauftragt wurden.
+
+# § 3 – Datenverarbeitung
+
+(1) Die nach Landesrecht zuständige Behörde darf die in § 2 Absatz 1 und 2 genannten Merkmale in dem zur Erstellung oder Anpassung eines qualifizierten Mietspiegels erforderlichen Umfang erheben und in sonstiger Weise verarbeiten. Doppelerhebungen sind nur dann zulässig, wenn begründete Zweifel an der Richtigkeit einer Erhebung bestehen oder wenn dies zur stichprobenartigen Prüfung der Qualität der Erhebung erforderlich ist.
+
+(2) Die nach Landesrecht zuständige Behörde hat die Hilfsmerkmale des § 2 Absatz 2 Nummer 2 von den weiteren erhobenen Merkmalen zum frühestmöglichen Zeitpunkt zu trennen und gesondert zu verarbeiten. Die Hilfsmerkmale sind zu löschen, sobald die Überprüfung der Erhebungs- und Hilfsmerkmale auf ihre Schlüssigkeit und Vollständigkeit abgeschlossen ist und sie auch für eine Anpassung des Mietspiegels nach § 558d Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs nicht mehr benötigt werden.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für Stellen, die von der nach Landesrecht zuständigen Behörde mit der Erstellung oder Anpassung eines qualifizierten Mietspiegels nach § 1 Absatz 3 beauftragt worden sind.
+
+(4) Die nach Landesrecht zuständige Behörde darf die nach Absatz 1 erhobenen Daten zu wissenschaftlichen Forschungszwecken in anonymisierter Form an Hochschulen, an andere Einrichtungen, die wissenschaftliche Forschung betreiben, und an öffentliche Stellen übermitteln. Sie ist befugt, die Daten zu diesem Zweck zu anonymisieren.
+
+# § 4 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Absatz 1 oder 2, jeweils auch in Verbindung mit Absatz 3, eine Auskunft nicht, nicht rechtzeitig, nicht richtig oder nicht vollständig erteilt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+
 # § 1 – Moratorium
 
 (1) Ein Verbraucher hat das Recht, Leistungen zur Erfüllung eines Anspruchs, der im Zusammenhang mit einem Verbrauchervertrag steht, der ein Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen wurde, bis zum 30. Juni 2020 zu verweigern, wenn dem Verbraucher infolge von Umständen, die auf die Ausbreitung der Infektionen mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) zurückzuführen sind, die Erbringung der Leistung ohne Gefährdung seines angemessenen Lebensunterhalts oder des angemessenen Lebensunterhalts seiner unterhaltsberechtigten Angehörigen nicht möglich wäre. Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind solche, die zur Eindeckung mit Leistungen der angemessenen Daseinsvorsorge erforderlich sind.
@@ -1543,7 +1647,7 @@ b) eine Information nicht nach den Vorgaben des § 312j Absatz 2 des Bürgerlich
 
 c) die Bestellsituation nicht nach den Vorgaben des § 312j Absatz 3 des Bürgerlichen Gesetzbuchs gestaltet wird,
 
-10. der Verbraucher nicht nach § 312k Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
+10. der Verbraucher nicht nach § 312l Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
 
 11. eine Sache bei einem Verbrauchsgüterkauf nicht innerhalb einer dem Unternehmer nach § 323 Absatz 1 des Bürgerlichen Gesetzbuchs gesetzten angemessenen Frist geliefert wird,
 

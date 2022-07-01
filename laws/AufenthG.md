@@ -2613,7 +2613,7 @@ unentschuldigt ferngeblieben ist und der Ausländer zuvor auf die Möglichkeit e
 
 # § 62a – Vollzug der Abschiebungshaft
 
-(1) Abschiebungsgefangene sind getrennt von Strafgefangenen unterzubringen. Werden mehrere Angehörige einer Familie inhaftiert, so sind diese getrennt von den übrigen Abschiebungsgefangenen unterzubringen. Ihnen ist ein angemessenes Maß an Privatsphäre zu gewährleisten.
+(1) Die Abschiebungshaft wird grundsätzlich in speziellen Hafteinrichtungen vollzogen. Sind spezielle Hafteinrichtungen im Bundesgebiet nicht vorhanden oder geht von dem Ausländer eine erhebliche Gefahr für Leib und Leben Dritter oder bedeutende Rechtsgüter der inneren Sicherheit aus, kann sie in sonstigen Haftanstalten vollzogen werden; die Abschiebungsgefangenen sind in diesem Fall getrennt von Strafgefangenen unterzubringen. Werden mehrere Angehörige einer Familie inhaftiert, so sind diese getrennt von den übrigen Abschiebungsgefangenen unterzubringen. Ihnen ist ein angemessenes Maß an Privatsphäre zu gewährleisten.
 
 (2) Den Abschiebungsgefangenen wird gestattet, mit Rechtsvertretern, Familienangehörigen, den zuständigen Konsularbehörden und einschlägig tätigen Hilfs- und Unterstützungsorganisationen Kontakt aufzunehmen.
 

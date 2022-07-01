@@ -2182,7 +2182,7 @@ b) die keine Verträge über Finanzdienstleistungen sind; für Verträge, für d
 
 (6) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist auf Verträge über Versicherungen sowie auf Verträge über deren Vermittlung nur § 312a Absatz 3, 4 und 6 anzuwenden.
 
-(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§ 312i, 312j Absatz 2 bis 5 und § 312l anzuwenden; diese Vorschriften finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a, die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung des Verbrauchers geführt worden.
+(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§ 312i, 312j Absatz 2 bis 5 und § 312m anzuwenden; diese Vorschriften finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a, die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung des Verbrauchers geführt worden.
 
 (8) Auf Verträge über die Beförderung von Personen ist von den Vorschriften der Kapitel 1 und 2 dieses Untertitels nur § 312a Absatz 1 und 3 bis 6 anzuwenden.
 
@@ -2330,7 +2330,41 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten als zuge
 
 (5) Die Absätze 2 bis 4 sind nicht anzuwenden, wenn der Vertrag ausschließlich durch individuelle Kommunikation geschlossen wird. Die Pflichten aus den Absätzen 1 und 2 gelten weder für Webseiten, die Finanzdienstleistungen betreffen, noch für Verträge über Finanzdienstleistungen.
 
-# § 312k – Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+# § 312k – Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr
+
+(1) Wird Verbrauchern über eine Webseite ermöglicht, einen Vertrag im elektronischen Geschäftsverkehr zu schließen, der auf die Begründung eines Dauerschuldverhältnisses gerichtet ist, das einen Unternehmer zu einer entgeltlichen Leistung verpflichtet, so treffen den Unternehmer die Pflichten nach dieser Vorschrift. Dies gilt nicht
+
+1. für Verträge, für deren Kündigung gesetzlich ausschließlich eine strengere Form als die Textform vorgesehen ist, und
+
+2. in Bezug auf Webseiten, die Finanzdienstleistungen betreffen, oder für Verträge über Finanzdienstleistungen.
+
+(2) Der Unternehmer hat sicherzustellen, dass der Verbraucher auf der Webseite eine Erklärung zur ordentlichen oder außerordentlichen Kündigung eines auf der Webseite abschließbaren Vertrags nach Absatz 1 Satz 1 über eine Kündigungsschaltfläche abgeben kann. Die Kündigungsschaltfläche muss gut lesbar mit nichts anderem als den Wörtern „Verträge hier kündigen“ oder mit einer entsprechenden eindeutigen Formulierung beschriftet sein. Sie muss den Verbraucher unmittelbar zu einer Bestätigungsseite führen, die
+
+1. den Verbraucher auffordert und ihm ermöglicht Angaben zu machen
+
+a) zur Art der Kündigung sowie im Falle der außerordentlichen Kündigung zum Kündigungsgrund,
+
+b) zu seiner eindeutigen Identifizierbarkeit,
+
+c) zur eindeutigen Bezeichnung des Vertrags,
+
+d) zum Zeitpunkt, zu dem die Kündigung das Vertragsverhältnis beenden soll,
+
+e) zur schnellen elektronischen Übermittlung der Kündigungsbestätigung an ihn und
+
+2. eine Bestätigungsschaltfläche enthält, über deren Betätigung der Verbraucher die Kündigungserklärung abgeben kann und die gut lesbar mit nichts anderem als den Wörtern „jetzt kündigen“ oder mit einer entsprechenden eindeutigen Formulierung beschriftet ist.
+
+Die Schaltflächen und die Bestätigungsseite müssen ständig verfügbar sowie unmittelbar und leicht zugänglich sein.
+
+(3) Der Verbraucher muss seine durch das Betätigen der Bestätigungsschaltfläche abgegebene Kündigungserklärung mit dem Datum und der Uhrzeit der Abgabe auf einem dauerhaften Datenträger so speichern können, dass erkennbar ist, dass die Kündigungserklärung durch das Betätigen der Bestätigungsschaltfläche abgegeben wurde.
+
+(4) Der Unternehmer hat dem Verbraucher den Inhalt sowie Datum und Uhrzeit des Zugangs der Kündigungserklärung sowie den Zeitpunkt, zu dem das Vertragsverhältnis durch die Kündigung beendet werden soll, sofort auf elektronischem Wege in Textform zu bestätigen. Es wird vermutet, dass eine durch das Betätigen der Bestätigungsschaltfläche abgegebene Kündigungserklärung dem Unternehmer unmittelbar nach ihrer Abgabe zugegangen ist.
+
+(5) Wenn der Verbraucher bei der Abgabe der Kündigungserklärung keinen Zeitpunkt angibt, zu dem die Kündigung das Vertragsverhältnis beenden soll, wirkt die Kündigung im Zweifel zum frühestmöglichen Zeitpunkt.
+
+(6) Werden die Schaltflächen und die Bestätigungsseite nicht entsprechend den Absätzen 1 und 2 zur Verfügung gestellt, kann ein Verbraucher einen Vertrag, für dessen Kündigung die Schaltflächen und die Bestätigungsseite zur Verfügung zu stellen sind, jederzeit und ohne Einhaltung einer Kündigungsfrist kündigen. Die Möglichkeit des Verbrauchers zur außerordentlichen Kündigung bleibt hiervon unberührt.
+
+# § 312l – Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
 
 (1) Der Betreiber eines Online-Marktplatzes ist verpflichtet, den Verbraucher nach Maßgabe des Artikels 246d des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren.
 
@@ -2340,7 +2374,7 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten als zuge
 
 (4) Betreiber eines Online-Marktplatzes ist der Unternehmer, der einen Online-Marktplatz für Verbraucher zur Verfügung stellt.
 
-# § 312l – Abweichende Vereinbarungen und Beweislast
+# § 312m – Abweichende Vereinbarungen und Beweislast
 
 (1) Von den Vorschriften dieses Untertitels darf, soweit nichts anderes bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden abgewichen werden. Die Vorschriften dieses Untertitels finden, soweit nichts anderes bestimmt ist, auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
@@ -5045,23 +5079,23 @@ Der Vermieter kann vom Mieter frühestens vier Monate vor dem Wegfall der öffen
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
-# § 558c – Mietspiegel
+# § 558c – Mietspiegel; Verordnungsermächtigung
 
-(1) Ein Mietspiegel ist eine Übersicht über die ortsübliche Vergleichsmiete, soweit die Übersicht von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter gemeinsam erstellt oder anerkannt worden ist.
+(1) Ein Mietspiegel ist eine Übersicht über die ortsübliche Vergleichsmiete, soweit die Übersicht von der nach Landesrecht zuständigen Behörde oder von Interessenvertretern der Vermieter und der Mieter gemeinsam erstellt oder anerkannt worden ist.
 
 (2) Mietspiegel können für das Gebiet einer Gemeinde oder mehrerer Gemeinden oder für Teile von Gemeinden erstellt werden.
 
 (3) Mietspiegel sollen im Abstand von zwei Jahren der Marktentwicklung angepasst werden.
 
-(4) Gemeinden sollen Mietspiegel erstellen, wenn hierfür ein Bedürfnis besteht und dies mit einem vertretbaren Aufwand möglich ist. Die Mietspiegel und ihre Änderungen sollen veröffentlicht werden.
+(4) Die nach Landesrecht zuständigen Behörden sollen Mietspiegel erstellen, wenn hierfür ein Bedürfnis besteht und dies mit einem vertretbaren Aufwand möglich ist. Für Gemeinden mit mehr als 50 000 Einwohnern sind Mietspiegel zu erstellen. Die Mietspiegel und ihre Änderungen sind zu veröffentlichen.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über den näheren Inhalt von Mietspiegeln und das Verfahren zu deren Erstellung und Anpassung einschließlich Dokumentation und Veröffentlichung.
 
 # § 558d – Qualifizierter Mietspiegel
 
-(1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach anerkannten wissenschaftlichen Grundsätzen erstellt und von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter anerkannt worden ist.
+(1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach anerkannten wissenschaftlichen Grundsätzen erstellt und von der nach Landesrecht zuständigen Behörde oder von Interessenvertretern der Vermieter und der Mieter anerkannt worden ist. Entspricht ein Mietspiegel den Anforderungen, die eine nach § 558c Absatz 5 erlassene Rechtsverordnung an qualifizierte Mietspiegel richtet, wird vermutet, dass er nach anerkannten wissenschaftlichen Grundsätzen erstellt wurde. Haben die nach Landesrecht zuständige Behörde und Interessenvertreter der Vermieter und der Mieter den Mietspiegel als qualifizierten Mietspiegel anerkannt, so wird vermutet, dass der Mietspiegel anerkannten wissenschaftlichen Grundsätzen entspricht.
 
-(2) Der qualifizierte Mietspiegel ist im Abstand von zwei Jahren der Marktentwicklung anzupassen. Dabei kann eine Stichprobe oder die Entwicklung des vom Statistischen Bundesamt ermittelten Preisindexes für die Lebenshaltung aller privaten Haushalte in Deutschland zugrunde gelegt werden. Nach vier Jahren ist der qualifizierte Mietspiegel neu zu erstellen.
+(2) Der qualifizierte Mietspiegel ist im Abstand von zwei Jahren der Marktentwicklung anzupassen. Dabei kann eine Stichprobe oder die Entwicklung des vom Statistischen Bundesamt ermittelten Preisindexes für die Lebenshaltung aller privaten Haushalte in Deutschland zugrunde gelegt werden. Nach vier Jahren ist der qualifizierte Mietspiegel neu zu erstellen. Maßgeblicher Zeitpunkt für die Anpassung nach Satz 1 und für die Neuerstellung nach Satz 3 ist der Stichtag, zu dem die Daten für den Mietspiegel erhoben wurden. Satz 4 gilt entsprechend für die Veröffentlichung des Mietspiegels.
 
 (3) Ist die Vorschrift des Absatzes 2 eingehalten, so wird vermutet, dass die im qualifizierten Mietspiegel bezeichneten Entgelte die ortsübliche Vergleichsmiete wiedergeben.
 

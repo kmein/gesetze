@@ -295,7 +295,7 @@ Die Höhe der Mindestvergütung nach Satz 1 Nummer 1 wird zum 1. Januar eines je
 
 (4) Die Angemessenheit der vereinbarten Vergütung ist auch dann, wenn sie die Mindestvergütung nach Absatz 2 nicht unterschreitet, in der Regel ausgeschlossen, wenn sie die Höhe der in einem Tarifvertrag geregelten Vergütung, in dessen Geltungsbereich das Ausbildungsverhältnis fällt, an den der Ausbildende aber nicht gebunden ist, um mehr als 20 Prozent unterschreitet.
 
-(5) Bei einer Teilzeitberufsausbildung kann eine nach den Absätzen 2 bis 4 zu gewährende Vergütung unterschritten werden. Die Angemessenheit der Vergütung ist jedoch ausgeschlossen, wenn die prozentuale Kürzung der Vergütung höher ist als die prozentuale Kürzung der täglichen oder der wöchentlichen Arbeitszeit.
+(5) Bei einer Teilzeitberufsausbildung kann eine nach den Absätzen 2 bis 4 zu gewährende Vergütung unterschritten werden. Die Angemessenheit der Vergütung ist jedoch ausgeschlossen, wenn die prozentuale Kürzung der Vergütung höher ist als die prozentuale Kürzung der täglichen oder der wöchentlichen Arbeitszeit. Absatz 1 Satz 2 und Absatz 2 Satz 1 Nummer 2 bis 4, auch in Verbindung mit Absatz 2 Satz 2 bis 7, sind mit der Maßgabe anzuwenden, dass für die nach § 7a Absatz 2 Satz 1 verlängerte Dauer der Teilzeitberufsausbildung kein weiterer Anstieg der Vergütung erfolgen muss.
 
 (6) Sachleistungen können in Höhe der nach § 17 Absatz 1 Satz 1 Nummer 4 des Vierten Buches Sozialgesetzbuch festgesetzten Sachbezugswerte angerechnet werden, jedoch nicht über 75 Prozent der Bruttovergütung hinaus.
 
@@ -309,7 +309,7 @@ Die Höhe der Mindestvergütung nach Satz 1 Nummer 1 wird zum 1. Januar eines je
 
 (2) Ausbildende haben die Vergütung für den laufenden Kalendermonat spätestens am letzten Arbeitstag des Monats zu zahlen.
 
-(3) Gilt für Ausbildende nicht nach § 3 Absatz 1 des Tarifvertragsgesetzes eine tarifvertragliche Vergütungsregelung, sind sie verpflichtet, den bei ihnen beschäftigten Auszubildenden spätestens zu dem in Absatz 2 genannten Zeitpunkt eine Vergütung mindestens in der bei Beginn der Berufsausbildung geltenden Höhe der Mindestvergütung nach § 17 Absatz 2 Satz 1 zu zahlen. Satz 1 findet bei einer Teilzeitberufsausbildung mit der Maßgabe Anwendung, dass die Vergütungshöhe mindestens dem prozentualen Anteil an der Arbeitszeit entsprechen muss.
+(3) Gilt für Ausbildende nicht nach § 3 Absatz 1 des Tarifvertragsgesetzes eine tarifvertragliche Vergütungsregelung, sind sie verpflichtet, den bei ihnen beschäftigten Auszubildenden spätestens zu dem in Absatz 2 genannten Zeitpunkt eine Vergütung mindestens in der bei Beginn der Berufsausbildung geltenden Höhe der Mindestvergütung nach § 17 Absatz 2 Satz 1 zu zahlen. Satz 1 findet bei einer Teilzeitberufsausbildung mit der Maßgabe Anwendung, dass die Vergütungshöhe unter Berücksichtigung des § 17 Absatz 5 Satz 3 mindestens dem prozentualen Anteil an der Arbeitszeit entsprechen muss.
 
 # § 19 – Fortzahlung der Vergütung
 

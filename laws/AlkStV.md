@@ -455,7 +455,7 @@ gewinnt und zusammen mit dem Abfindungsalkohol im Steuerlager zu trinkfertigem A
 
 (5) Für die Voraussetzungen der Steuerfreiheit von Alkoholerzeugnissen, die durch Diplomaten und konsularische Missionen empfangen werden, gilt § 17 der Zollverordnung entsprechend.
 
-(6) Werden Alkoholerzeugnisse, die nach den vorstehenden Absätzen von Begünstigten nach § 8 Absatz 1 Nummer 4 und 5 des Gesetzes unter Steueraussetzung empfangen wurden, an Dritte abgegeben, entsteht die Steuer. Steuerschuldner ist neben der Person, die die Alkoholerzeugnisse an Dritte abgegeben hat, die Person, die diese in Empfang genommen hat. Der Steuerschuldner hat unverzüglich eine Steueranmeldung beim zuständigen Hauptzollamt abzugeben. Die Steuer ist sofort fällig. Mehrere Steuerschuldner sind Gesamtschuldner. Für die Steueranmeldung gilt § 44 entsprechend.
+(6) Werden Alkoholerzeugnisse, die nach den vorstehenden Absätzen von Begünstigten nach § 8 Absatz 1 Nummer 4 bis 6 des Gesetzes unter Steueraussetzung empfangen wurden, an Dritte abgegeben, entsteht die Steuer. Steuerschuldner ist neben der Person, die die Alkoholerzeugnisse an Dritte abgegeben hat, die Person, die diese in Empfang genommen hat. Der Steuerschuldner hat unverzüglich eine Steueranmeldung beim zuständigen Hauptzollamt abzugeben. Die Steuer ist sofort fällig. Mehrere Steuerschuldner sind Gesamtschuldner. Für die Steueranmeldung gilt § 44 entsprechend.
 
 # § 19 – Antrag auf Erlaubnis zum Betrieb einer Abfindungsbrennerei
 

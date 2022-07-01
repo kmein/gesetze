@@ -127,8 +127,8 @@ Bis zum 31. Januar 2022 sind die Anlagen in der bis zum 30. Juni 2021 geltenden 
 
 # Anlage 1 – (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 97 - 102)
+(Fundstelle: BGBl. I 2022, 859 - 864)
 
 # Anlage 2 – (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2022, 103 - 104)
+(Fundstelle: BGBl. I 2022, 865 - 866)
