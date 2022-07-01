@@ -161,7 +161,9 @@ empfangen dürfen, wenn die Alkoholerzeugnisse aus einem Steuerlager in einem an
 
 4. diplomatische Missionen und konsularische Vertretungen;
 
-5. die in internationalen Übereinkommen vorgesehenen internationalen Einrichtungen.
+5. die in internationalen Übereinkommen vorgesehenen internationalen Einrichtungen;
+
+6. die Streitkräfte eines anderen Mitgliedstaats und deren ziviles Begleitpersonal, wenn diese Streitkräfte an einer Verteidigungsanstrengung im Steuergebiet teilnehmen, die zur Durchführung einer Tätigkeit der Union im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird.
 
 (2) Ein Empfang unter Steueraussetzung ist nur möglich, wenn die Voraussetzungen für die Steuerfreiheit
 
@@ -173,7 +175,9 @@ empfangen dürfen, wenn die Alkoholerzeugnisse aus einem Steuerlager in einem an
 
 4. im Fall des Absatzes 1 Nummer 4 in Form der Gegenseitigkeit für die diplomatischen Missionen und konsularischen Vertretungen;
 
-5. im Fall des Absatzes 1 Nummer 5 nach den internationalen Übereinkommen für die internationalen Einrichtungen
+5. im Fall des Absatzes 1 Nummer 5 nach den internationalen Übereinkommen für die internationalen Einrichtungen;
+
+6. im Fall des Absatzes 1 Nummer 6 im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik der Union
 
 und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 

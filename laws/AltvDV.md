@@ -7,7 +7,7 @@
 
 1. § 10 Absatz 2a, 2b und 4b, den §§ 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
 
-2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, oder
+2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
 
 3. dieser Verordnung
 
@@ -35,7 +35,7 @@ Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermitte
 
 1. § 10 Absatz 2a, 2b und 4b oder § 22a des Einkommensteuergesetzes,
 
-2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, oder
+2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
 
 3. den Abschnitten 3 und 4 dieser Verordnung
 

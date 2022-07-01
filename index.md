@@ -73,6 +73,7 @@
 - [Ärzte-ZV](laws/Ärzte-ZV.md) Zulassungsverordnung für Vertragsärzte
 - [AETR](laws/AETR.md) Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals
 - [AFBG](laws/AFBG.md) Gesetz zur Förderung der beruflichen Aufstiegsfortbildung
+- [AFGBV](laws/AFGBV.md) Verordnung zur Genehmigung und zum Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
 - [AFG§116G](laws/AFG§116G.md) Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen
 - [AFIG](laws/AFIG.md) Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und Fischerei
 - [AFIV](laws/AFIV.md) Verordnung über die Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und für Fischerei
