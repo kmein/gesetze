@@ -1367,6 +1367,16 @@ Mit einer beweglichen Sache kann Sicherheit nur in Höhe von zwei Dritteln des S
 
 Wird die geleistete Sicherheit ohne Verschulden des Berechtigten unzureichend, so ist sie zu ergänzen oder anderweitige Sicherheit zu leisten.
 
+# § 240a – Verordnungsermächtigung
+
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Folgendes festzulegen:
+
+1. Gattungen von Inhaberpapieren und Orderpapieren nach § 234 Absatz 1, die zur Sicherheitsleistung geeignet sind und die Voraussetzungen, unter denen Hypothekenforderungen, Grundschulden und Rentenschulden zur Sicherheitsleistung geeignet sind, sowie
+
+2. die Voraussetzungen für Anlagen nach den §§ 1079, 1288 Absatz 1 und § 2119.
+
+(2) Die Festlegungen nach Absatz 1 Nummer 1 müssen gewährleisten, dass der Gläubiger bei Unvermögen des Schuldners oder wenn der Schuldner aus anderen Gründen nicht zur Leistung bereit ist, die Schuld durch Verwertung der hinterlegten Wertpapiere, der Hypothekenforderung oder der Grund- und Rentenschulden begleichen kann.
+
 # § 241 – Pflichten aus dem Schuldverhältnis
 
 (1) Kraft des Schuldverhältnisses ist der Gläubiger berechtigt, von dem Schuldner eine Leistung zu fordern. Die Leistung kann auch in einem Unterlassen bestehen.
