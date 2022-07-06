@@ -1369,7 +1369,7 @@ Wird die geleistete Sicherheit ohne Verschulden des Berechtigten unzureichend, s
 
 # § 240a – Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Folgendes festzulegen:
+(1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Folgendes festzulegen:
 
 1. Gattungen von Inhaberpapieren und Orderpapieren nach § 234 Absatz 1, die zur Sicherheitsleistung geeignet sind und die Voraussetzungen, unter denen Hypothekenforderungen, Grundschulden und Rentenschulden zur Sicherheitsleistung geeignet sind, sowie
 

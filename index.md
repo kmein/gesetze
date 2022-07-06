@@ -823,6 +823,7 @@
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
 - [BinSchPatentV1998AbwV 5](laws/BinSchPatentV1998AbwV_5.md) Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
 - [BinSchPersBefähPrV](laws/BinSchPersBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung
+- [BinSchPersBetrEBefähPrV](laws/BinSchPersBetrEBefähPrV.md) Verordnung über die Durchführung von behördlichen Befähigungsprüfungen auf Betriebsebene nach der Binnenschiffspersonalverordnung
 - [BinSchPersV](laws/BinSchPersV.md) Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
 - [BinSchSprFunkV](laws/BinSchSprFunkV.md) Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
