@@ -183,6 +183,10 @@ Patientenindividuelles Stellen oder Verblistern von Arzneimitteln
 
 Herstellung von Arzneimitteln zur parenteralen Anwendung
 
+§ 35a
+
+Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken
+
 Fünfter Abschnitt
 
  
@@ -283,6 +287,8 @@ d) über Medizinprodukte,
 
 2. die Durchführung von einfachen Gesundheitstests,
 
+2a. die Vorbereitung und Durchführung von Grippeschutzimpfungen,
+
 3. das patientenindividuelle Anpassen von Medizinprodukten sowie
 
 4. die Vermittlung von gesundheitsbezogenen Informationen.
@@ -317,6 +323,18 @@ d) über Medizinprodukte,
 
 (3) Der Apothekenleiter hat der zuständigen Behörde jede weitere berufliche oder gewerbsmäßige Tätigkeit anzuzeigen, bevor sie aufgenommen wird.
 
+(3a) Der Apothekenleiter hat sicherzustellen, dass Grippeschutzimpfungen nur durchgeführt werden, wenn
+
+1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind,
+
+2. die Grippeschutzimpfungen durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind,
+
+3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Grippeschutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird, und
+
+4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung der Grippeschutzimpfung abdeckt.
+
+Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Grippeschutzimpfungen und die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich der Durchführung von Grippeschutzimpfungen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung anzuzeigen.
+
 (4) Der Apothekenleiter darf neben Arzneimitteln und apothekenpflichtigen Medizinprodukten die in § 1a Absatz 10 genannten Waren nur in einem Umfang anbieten oder feilhalten, der den ordnungsgemäßen Betrieb der Apotheke und den Vorrang des Arzneimittelversorgungsauftrages nicht beeinträchtigt. Satz 1 ist auf die apothekenüblichen Dienstleistungen nach § 1a Absatz 11 entsprechend anzuwenden.
 
 (5) Der Apothekenleiter muß sich, sofern er seine Verpflichtung zur persönlichen Leitung der Apotheke vorübergehend nicht selbst wahrnimmt, durch einen Apotheker vertreten lassen. Die Vertretung darf insgesamt drei Monate im Jahr nicht überschreiten. Die zuständige Behörde kann eine Vertretung über diese Zeit hinaus zulassen, wenn ein in der Person des Apothekenleiters liegender wichtiger Grund gegeben ist.
@@ -327,7 +345,7 @@ d) über Medizinprodukte,
 
 2. des Leiters einer krankenhausversorgenden Apotheke sowie
 
-3. des Leiters einer Apotheke, auf die die Sondervorschriften des § 34 oder des § 35 Anwendung finden.
+3. des Leiters einer Apotheke, auf die die Sondervorschriften des § 34, § 35 oder § 35a Anwendung finden.
 
 (7) Der mit der Vertretung beauftragte Apotheker oder Apothekerassistent oder Pharmazieingenieur hat während der Dauer der Vertretung die Pflichten eines Apothekenleiters.
 
@@ -1169,7 +1187,61 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 (6) Auf die Herstellung der parenteralen Arzneimittel sind die §§ 6 bis 8 anzuwenden. Die Plausibilitätsprüfung der ärztlichen Verordnung muss insbesondere auch patientenindividuelle Faktoren sowie die Regeldosierung und die daraus möglicherweise resultierende individuelle Dosis beinhalten. Die Herstellungsanweisung muss auch eine Kontrolle der Berechnungen, der Einwaagen und der einzusetzenden Ausgangsstoffe durch eine zweite Person oder durch validierte elektronische Verfahren sowie eine Dichtigkeitsprüfung des befüllten Behältnisses vorsehen.
 
-# §§ 35a u. 35b (weggefallen)
+# § 35a – Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken
+
+(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Grippeschutzimpfungen insbesondere Festlegungen zu treffen:
+
+1. zur Vorbereitung der Impfung,
+
+2. zur Aufklärung und Einholung der Einwilligung der zu impfenden Person,
+
+3. zur Anamnese und zur Entscheidung, wann die Grippeschutzimpfung nicht durchgeführt wird,
+
+4. zur Durchführung der Impfung,
+
+5. zur Dokumentation der Impfung,
+
+6. zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der an den Vorbereitungen und der Durchführung der Grippeschutzimpfung beteiligten Personen und
+
+7. zur Meldung bei Verdacht auf eine über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung.
+
+(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der zu impfenden Person und die Grippeschutzimpfungen durchführen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Grippeschutzimpfungen.
+
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung und die Durchführung der Grippeschutzimpfungen muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Grippeschutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; insbesondere können keine Räume genutzt werden, die für einen anderweitigen Zweck vorgesehen und in denen die notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen Grippeschutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5 nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Grippeschutzimpfung ist die Privatsphäre der zu impfenden Personen zu schützen.
+
+(4) Vor der Grippeschutzimpfung hat die impfende Person die zu impfende Person über die zu verhütende Krankheit und die Impfung aufzuklären, die Anamnese durchzuführen und die Einwilligung der zu impfenden Person einzuholen. Die Aufklärung umfasst insbesondere
+
+1. Informationen über den Nutzen der Impfung und über die zu verhütende Krankheit,
+
+2. Hinweise auf mögliche Nebenwirkungen, Komplikationen und Kontraindikationen,
+
+3. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Impfung und
+
+4. Informationen über Beginn und Dauer der Schutzwirkung.
+
+(5) Die Dokumentation der Grippeschutzimpfung muss Angaben enthalten zu:
+
+1. Datum und Durchführung der Aufklärung der zu impfenden Person,
+
+2. Datum und Durchführung der Anamnese,
+
+3. Einwilligung der zu impfenden Person,
+
+4. Datum der Impfung,
+
+5. Bezeichnung und Chargenbezeichnung des verwendeten Impfstoffes,
+
+6. Name der geimpften Person, deren Geburtsdatum und Anschrift,
+
+7. Name und Anschrift der Apotheke und
+
+8. Name und Bestätigung der Person, die die Aufklärung, Anamnese und Impfung durchgeführt hat.
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5 erforderlich. Die Dokumentation der Grippeschutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
+
+(6) Es sind geeignete Hygienemaßnahmen zum Schutz der zu impfenden Person und des Apothekenpersonals zu treffen.
+
+# § 35b – (weggefallen)
 
 \-
 
@@ -1183,33 +1255,43 @@ Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das Apothekenwesen h
 
 1b. entgegen § 17 Abs. 2b ein dort genanntes Arzneimittel im Wege des Versandes in den Verkehr bringt,
 
+1c. entgegen § 35a Absatz 2 Satz 1 eine Grippeschutzimpfung durchführt,
+
 2. als Apothekenleiter
 
-a) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
+a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 nicht sicherstellt, dass eine Aufklärung, Anamnese oder das Einholen der Einwilligung der zu impfenden Person durchgeführt wird,
 
-b) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
+b) entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine Grippeschutzimpfung durchgeführt wird,
 
-c) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
+c) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-d) entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
+d) entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-e) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
+e) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
 
-f) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
+f) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
 
-g) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
+g) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
 
-h) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
+h) entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
 
-i) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
+i) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
 
-j) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
+j) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
 
-k) entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
+k) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
-l) entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+l) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
 
-m) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
+m) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
+
+n) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
+
+o) entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
+
+p) entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+
+q) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
 
 3. als Apothekenleiter oder Angehöriger des pharmazeutischen Personals
 
@@ -1252,6 +1334,8 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 (1) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, sind die §§ 2a, 4 Absatz 1 Satz 2 Nummer 1 Buchstabe a, § 34 Absatz 3 Satz 1 und 4 sowie § 35 Absatz 3 Satz 2 erst ab dem 1. Juni 2014 anzuwenden; bis zu diesem Zeitpunkt müssen die Räume jedoch weiterhin den bis zum 11. Juni 2012 geltenden Vorschriften entsprechen.
 
 (2) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden; bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich mindestens den Anforderungen der Klasse A für die lokale Zone und der Klasse C für den Umgebungsbereich entsprechen.
+
+(3) Apothekenleiter, die bereits vor dem 30. Juni 2022 Grippeschutzimpfungen durch ihre Apotheken durchführen lassen, haben abweichend von § 2 Absatz 3a Satz 2 der zuständigen Behörde die Durchführung von Grippeschutzimpfungen und die dafür vorgesehenen Räumlichkeiten bis zum 31. Juli 2022 anzuzeigen.
 
 # § 38 – Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
