@@ -565,6 +565,8 @@ Leistungen aus Gründen der Billigkeit dürfen nur gewährt werden, wenn dafür 
 
 (2) Größeren Beschaffungen und größeren Entwicklungsvorhaben sind ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt entsprechend.
 
+(3) Verträge über Beschaffungsmaßnahmen und Entwicklungsvorhaben sowie Betreiberverträge, die im Geschäftsbereich des Bundesministeriums der Verteidigung geschlossen werden sollen und die ein Finanzvolumen von 25 Millionen Euro überschreiten, sind dem Haushaltsausschuss des Deutschen Bundestages zur Billigung vorzulegen. Bis zur Billigung des Haushaltsausschusses des Deutschen Bundestages sind Verträge zu der entsprechenden Maßnahme schwebend unwirksam.
+
 # § 55 – Öffentliche Ausschreibung
 
 (1) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen. Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven, transparenten und nichtdiskriminierenden Kriterien auswählt und zur Abgabe von Angeboten auffordert.
