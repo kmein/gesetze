@@ -7,6 +7,12 @@
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
 
+# § 1 – Errichtung, Zweck und Sitz des Bundesamts
+
+(1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz. Zweck der Errichtung des Bundesamts ist die Neuorganisation der Bundesjustizverwaltung durch Schaffung einer zentralen Dienstleistungsbehörde.
+
+(2) Das Bundesamt hat seinen Sitz in Bonn.
+
 # § 2 – Aufgaben des Bundesamts
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten und der allgemeinen Justizverwaltung wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
@@ -35,9 +41,41 @@ e) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
 (4) Erfolgt die Aufgabenwahrnehmung nach den Absätzen 1 bis 3 mit elektronischer Unterstützung, gelten die §§ 4 bis 7, soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
 
+# § 2 – Aufgaben des Bundesamts
+
+(1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten und der allgemeinen Justizverwaltung wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
+
+(2) Das Bundesamt unterstützt das Bundesministerium der Justiz bei der
+
+1. Durchführung der Verkündungen und Bekanntmachungen,
+
+2. Durchführung der automatisierten Normendokumentation,
+
+3. europäischen und internationalen rechtlichen Zusammenarbeit, insbesondere
+
+a) auf dem Gebiet der Rechtshilfe in Zivilsachen,
+
+b) auf dem Gebiet der Auslieferung, der Vollstreckungshilfe und sonstigen Rechtshilfe in Strafsachen,
+
+c) im Rahmen der Aufgaben als nationale Kontaktstelle im Bereich der internationalen Rechtshilfe in Strafsachen, insbesondere als eine der nationalen Kontaktstellen des Europäischen Justiziellen Netzes,
+
+d) als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetzes gilt entsprechend,
+
+e) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
+
+4. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention.
+
+(3) Das Bundesamt erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren Durchführung es vom Bundesministerium der Justiz oder mit dessen Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
+
+(4) Erfolgt die Aufgabenwahrnehmung nach den Absätzen 1 bis 3 mit elektronischer Unterstützung, gelten die §§ 4 bis 7, soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
+
 # § 3 – Fachaufsicht
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums der Justiz und für Verbraucherschutz wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten Bundesbehörde.
+
+# § 3 – Fachaufsicht
+
+Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums der Justiz wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten Bundesbehörde.
 
 # § 4 – Elektronische Aktenführung; Gewährung von Akteneinsicht
 
@@ -104,3 +142,27 @@ c) bestimmen, dass für sämtliche oder einzelne elektronische Formulare eine Id
 6. Regelungen zur Erteilung von Abschriften und beglaubigten Abschriften treffen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigungen des Absatzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt übertragen.
+
+# § 7 – Verordnungsermächtigung
+
+(1) Das Bundesministerium der Justiz kann, um die elektronische Aktenführung und die Digitalisierung von Dokumenten beim Bundesamt sowie die elektronische Kommunikation mit dem Bundesamt näher auszugestalten, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+
+1. Bestimmungen zur elektronischen Aktenführung nach § 4 Absatz 1 und 2 treffen,
+
+2. Bestimmungen zur notwendigen Form der elektronischen Dokumente für die Übermittlung an das Bundesamt und für die Bearbeitung durch das Bundesamt treffen,
+
+3. andere sichere Übermittlungswege als nach § 6 Absatz 3 bestimmen,
+
+4. die Standards für die Erstellung und für die Übertragung von elektronischen Dokumenten durch das Bundesamt vorgeben,
+
+5. die Einführung elektronischer Formulare zulassen und hierbei
+
+a) bestimmen, dass die in diesen Formularen enthaltenen Angaben ganz oder teilweise in strukturierter und maschinenlesbarer Form zu übermitteln sind,
+
+b) eine Kommunikationsplattform vorgeben, auf der die Formulare im Internet zur Nutzung bereitzustellen sind, und
+
+c) bestimmen, dass für sämtliche oder einzelne elektronische Formulare eine Identifikation des Formularverwenders durch Nutzung des elektronischen Identitätsnachweises (§ 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes) erfolgen kann, sowie
+
+6. Regelungen zur Erteilung von Abschriften und beglaubigten Abschriften treffen.
+
+(2) Das Bundesministerium der Justiz kann die Ermächtigungen des Absatzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt übertragen.
