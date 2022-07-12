@@ -779,7 +779,9 @@ Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-Kontrolle 
 
 (1) Zertifizierungsstellen müssen die Kontrollergebnisse zehn Jahre ab dem Datum ihrer jeweiligen Erstellung und die Kopien der Zertifikate, die sie auf Grund dieser Verordnung ausstellen, zehn Jahre ab dem Datum der Ausstellung des jeweiligen Zertifikates aufbewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich, bei elektronischer Aufbewahrung automatisiert löschen.
 
-(2) Soweit Zertifizierungsstellen Aufgaben nach dieser Verordnung wahrnehmen, gelten sie als informationspflichtige Stellen nach § 2 Absatz 1 Nummer 2 des Umweltinformationsgesetzes in der Fassung der Bekanntmachung vom 27. Oktober 2014 (BGBl. I S. 1643), das zuletzt durch Artikel 2 des Gesetzes vom 25. Februar 2021 (BGBl. I S. 306) geändert worden ist, in der jeweils geltenen Fassung, im Geltungsbereich des Umweltinformationsgesetzes.
+(2) Soweit Zertifizierungsstellen Aufgaben nach dieser Verordnung wahrnehmen, gelten sie als informationspflichtige Stellen nach § 2 Absatz 1 Nummer 2 des Umweltinformationsgesetzes in der Fassung der Bekanntmachung vom 27. Oktober 2014 (BGBl. I S. 1643), das zuletzt durch Artikel 2 des Gesetzes vom 25. Februar 2021 (BGBl. I S. 306) geändert worden ist, in der jeweils geltenden Fassung, im Geltungsbereich des Umweltinformationsgesetzes.
+
+§ 37 Abs. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird das Wort "geltenen" durch das Wort "geltenden" ersetzt
 
 # § 38 – Kontrollen und Maßnahmen
 
