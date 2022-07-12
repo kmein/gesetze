@@ -450,7 +450,6 @@
 - [BAföG-TeilerlaßV](laws/BAföG-TeilerlaßV.md) Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
 - [BAföGZustV 2004](laws/BAföGZustV_2004.md) Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
 - [BAFzAZustAnO](laws/BAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
-- [BAGBeihZustAnO](laws/BAGBeihZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesarbeitsgerichts in Angelegenheiten nach der Bundesbeihilfeverordnung
 - [BAGÜV](laws/BAGÜV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr
 - [BahnG](laws/BahnG.md) Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs
 - [BahnVorschrAnwG](laws/BahnVorschrAnwG.md) Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
@@ -476,7 +475,6 @@
 - [BAStrlSchG](laws/BAStrlSchG.md) Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
 - [BattG](laws/BattG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren
 - [BATZV](laws/BATZV.md) Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
-- [BAuAZustAnO](laws/BAuAZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten sowie in Angelegenheiten nach der Bundesbeihilfeverordnung
 - [BauBetrTrSchallWdkanalVbg](laws/BauBetrTrSchallWdkanalVbg.md) Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik, der Regierung des Königreichs der Niederlande und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über den gemeinsamen Bau und den gemeinsamen Betrieb des Europäischen Transschall-Windkanals
 - [BaubetrV 1980](laws/BaubetrV_1980.md) Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung zu fördern ist
 - [BauFordSiG](laws/BauFordSiG.md) Gesetz über die Sicherung der Bauforderungen
@@ -921,6 +919,7 @@
 - [BLV](laws/BLV.md) Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten
 - [BMASBGebV](laws/BMASBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Arbeit und Soziales für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMASErnAnO](laws/BMASErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
+- [BMASGBWidVertrAnO](laws/BMASGBWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Bundes bei Klagen aus dem Beamten- oder Richterverhältnis im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASZustAnO](laws/BMASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
 - [BMELBGebV](laws/BMELBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
@@ -941,7 +940,6 @@
 - [BMIBGebV](laws/BMIBGebV.md) Besondere Gebührenverordnung des Bundesministeriums des Innern, für Bau und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMIErnAnO 2005](laws/BMIErnAnO_2005.md) Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums des Innern
 - [BMinASBDGAnO](laws/BMinASBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
-- [BMinASZustAnO](laws/BMinASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMinBF/BIBBWidAnO](laws/BMinBF_BIBBWidAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung und des Bundesinstituts für Berufsbildung in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem Dienstrechtlichen Begleitgesetz
 - [BMinBFBeihZustAnO 2010](laws/BMinBFBeihZustAnO_2010.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung in Angelegenheiten nach den Beihilfevorschriften des Bundes
 - [BMinBFZustAnO](laws/BMinBFZustAnO.md) Anordnung zur Übertragung der Zuständigkeit für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesinstituts für Berufsbildung im Geschäftsbereich des Bundesministeriums für Bildung und Forschung in Angelegenheiten nach den Beihilfevorschriften des Bundes
