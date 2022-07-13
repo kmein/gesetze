@@ -77,6 +77,12 @@
 
  
 
+ 
+
+ 
+
+ 
+
 Anlage (zu § 3 Absatz 6) Kriterien zur Bestimmung des Standes der Technik
 
 # § 1 – Zweck des Gesetzes
@@ -740,6 +746,32 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 (4) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie hat bei allen Ereignissen mit schädlichen Umwelteinwirkungen die zuständige Behörde unverzüglich zu unterrichten, soweit er hierzu nicht bereits nach § 4 des Umweltschadensgesetzes oder nach § 19 der Störfall-Verordnung verpflichtet ist.
 
 (5) Der Betreiber der Anlage hat das Ergebnis der auf Grund einer Anordnung nach § 26, § 28 oder § 29 getroffenen Ermittlungen der zuständigen Behörde auf Verlangen mitzuteilen und die Aufzeichnungen der Messgeräte nach § 29 fünf Jahre lang aufzubewahren. Die zuständige Behörde kann die Art der Übermittlung der Messergebnisse vorschreiben. Die Ergebnisse der Überwachung der Emissionen, die bei der Behörde vorliegen, sind für die Öffentlichkeit nach den Bestimmungen des Umweltinformationsgesetzes mit Ausnahme des § 12 zugänglich; für Landesbehörden gelten die landesrechtlichen Vorschriften.
+
+# § 31a – Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte für Schwefeldioxid für eine Dauer von bis zu sechs Monaten bei Feuerungsanlagen zulassen, in denen zu diesem Zweck normalerweise ein schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund einer sich aus einer ernsten Mangellage ergebenden Unterbrechung der Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist, diese Grenzwerte einzuhalten.
+
+(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Weiterleitung an die Europäische Kommission zuzuleiten. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz unterrichtet die Europäische Kommission unverzüglich über jede nach Absatz 1 gewährte Abweichung.
+
+# § 31b – Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer Abgasreinigungsanlage ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, es ist ein vorrangiges Bedürfnis für einen längeren Zeitraum im Hinblick auf die Aufrechterhaltung der Energieversorgung gegeben.
+
+(2) Der Betreiber unterrichtet die zuständige Behörde umgehend über jeden einzelnen Fall im Sinne des Absatzes 1.
+
+(3) § 31a Absatz 2 ist entsprechend anzuwenden.
+
+# § 31c – Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193
+
+(1) Die zuständige Behörde kann für eine Dauer von bis zu sechs Monaten eine Abweichung von der Verpflichtung zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514), geändert worden ist, in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte für Schwefeldioxid bei mittelgroßen Feuerungsanlagen zulassen, in denen normalerweise ein schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund einer sich aus einer erheblichen Mangellage ergebenden Unterbrechung der Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist, diese Emissionsgrenzwerte einzuhalten.
+
+(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Weiterleitung an die Europäische Kommission zuzuleiten. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz unterrichtet die Europäische Kommission innerhalb eines Monats über jede nach Absatz 1 gewährte Abweichung.
+
+# § 31d – Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine mittelgroße Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer sekundären Emissionsminderungsvorrichtung ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, der Betreiber weist der zuständigen Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
+
+(2) § 31c Absatz 2 ist entsprechend anzuwenden.
 
 # § 32 – Beschaffenheit von Anlagen
 
