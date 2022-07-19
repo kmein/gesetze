@@ -29,6 +29,10 @@ Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühre
 
 10. Richtlinie 2001/83/EG des Europäischen Parlamentes und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung,
 
+10a. Tierarzneimittelgesetz,
+
+10b. Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) in der jeweils geltenden Fassung,
+
 11. Hämophilieregister-Verordnung,
 
 12. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), die zuletzt durch die Verordnung (EU) 2020/561 (ABl. 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung,
@@ -59,7 +63,9 @@ Sofern im Gebühren- und Auslagenverzeichnis in der Anlage nichts Anderes bestim
 
 # § 4 – Übergangsvorschrift
 
-Für die Erhebung von Gebühren und Auslagen für eine individuell zurechenbare öffentliche Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Soweit bei diesen Leistungen unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine Gebührenfestsetzung ausdrücklich vorbehalten wurde, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden.
+(1) Für eine individuell zurechenbare öffentliche Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Soweit sich die gebührenerhebende Behörde unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine solche Gebührenfestsetzung ausdrücklich vorbehalten hat, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden.
+
+(2) Für eine individuell zurechenbare öffentliche Leistung, die vor dem Inkrafttreten einer Änderung dieser Verordnung beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, können Gebühren und Auslagen nach Maßgabe der neuen gebührenrechtlichen Regelungen erhoben werden, soweit sich die gebührenerhebende Behörde unter Hinweis auf eine bevorstehende Änderung dieser Verordnung eine solche Gebührenfestsetzung ausdrücklich vorbehalten hat.
 
 # § 5 – Inkrafttreten
 
@@ -133,43 +139,89 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+Vorbemerkung
+
+In der nachstehenden Tabelle bedeuten:
+
+Serie:
+
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
+
+Gleichartige Serie:
+
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
 
-Bekannter Stoff:
+1. Bekannter Stoff
 
-Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Nummer 1, 2 oder Nummer 3 AMG vorliegen.
+Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 nicht vorliegen.
 
-Neuer Stoff:
+2. Neuer Stoff:
 
-Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Nummer 1, 2 oder Nummer 3 AMG vorliegen.
+Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 vorliegen.
 
-Vollständige Bezugnahme:
+3. Vollständige Bezugnahme:
 
-Bezugnahme eines Zweitantragstellers auf Unterlagen eines Vorantragstellers gemäß § 24b Absatz 1 AMG.
+Bezugnahme eines Zweitantragstellers auf Unterlagen eines Vorantragstellers gemäß Artikel 18 der Verordnung (EU) 2019/6.
 
-Teilweise Bezugnahme:
+4. Teilweise Bezugnahme:
 
-Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und Einreichung eigener Unterlagen.
+Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und Einreichung eigener Unterlagen gemäß Artikel 19 der Verordnung (EU) 2019/6.
 
-Dublette:
+5. Dublette:
 
-Vollständige Bezugnahme eines Antragstellers auf ein identisches Arzneimittel desselben Antragstellers, dessen Zulassung oder Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf Jahre zurückliegt.
+Vollständige Bezugnahme eines Antragstellers auf ein identisches Tierarzneimittel desselben Antragstellers, dessen Zulassung oder Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf Jahre zurückliegt.
 
-Bezugnahme nach § 24a AMG:
-
-Bezugnahme desselben Antragstellers oder eines anderen Antragstellers mit Zustimmung des Vorantragstellers auf alle Unterlagen einschließlich der Qualitätsunterlagen eines zugelassenen Arzneimittels nach § 24a AMG.
-
-Serie:
+6. Serie:
 
 Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
 
-Gleichartige Serie:
+7. Gleichartige Serie:
 
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
-
- 
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Tierarzneimittel.
 
  
 
@@ -177,63 +229,9 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 
  
 
- 
+Vorbemerkung:
 
- 
-
- 
-
-Vorbemerkung
-
-In der nachstehenden Tabelle bedeuten:
-
-Serie:
-
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
-
-Gleichartige Serie:
-
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
-
- 
-
- 
-
- 
-
-Vorbemerkung
-
-In der nachstehenden Tabelle bedeuten:
-
-Serie:
-
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und gegebenenfalls Indikation unterscheiden.
-
-Gleichartige Serie:
-
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel und veterinärmedizintechnische Produkte im Anwendungsbereich des Tierarzneimittelgesetzes. Für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische Tierarzneimittel im Sinne des § 11 Absatz 1 Satz 1 des Tiergesundheitsgesetzes, die gemäß § 3 Absatz 4 Nummer 1 des Tierarzneimittelgesetzes vom Anwendungsbereich des Tierarzneimittelgesetzes ausgenommen sind, gilt die Besondere Gebührenverordnung BMEL.
 
  
 
