@@ -535,6 +535,7 @@
 - [BBFestV 2019](laws/BBFestV_2019.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2019
 - [BBFestV 2020](laws/BBFestV_2020.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2020
 - [BBFestV 2021](laws/BBFestV_2021.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2021
+- [BBFestV 2022](laws/BBFestV_2022.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2022
 - [BBG](laws/BBG.md) Bundesbeamtengesetz
 - [BBhV](laws/BBhV.md) Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
 - [BBiG](laws/BBiG.md) Berufsbildungsgesetz
