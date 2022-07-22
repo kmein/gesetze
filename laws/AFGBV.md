@@ -1001,7 +1001,7 @@ Gesendetes Format der Befehle sowie Metadaten zu Informationen: Dateigröße, Da
 Ziel der funktionalen Beschreibung ist es, die technischen Grundlagen der Funktionen des Kraftfahrzeugs und die nötigen Bedingungen des sicheren Betriebs sowie die Umsetzung der Vorgaben des Datenschutzes und der Datensicherheit darzulegen. Die Systematik der funktionalen Beschreibung muss dem Stand der Technik entsprechen. Dies gilt als erfüllt, wenn die Vorgaben der ISO 26262-3:2018-12 Straßenfahrzeuge – Funktionale Sicherheit – Teil 3: Konzeptphase<span id="FnR.F822212_10"></span><a href="#F822212_10" class="FnR">8</a></sup> eingehalten werden. Die funktionale Beschreibung muss die folgenden Themen behandeln:
 
 1.1  
-Betriebsbereich des Kraftahrzeugs mit autonomer Fahrfunktion (zum Beispiel Personenbeförderung im Verkehr zwischen festgelegten Stationen),
+Betriebsbereich des Kraftfahrzeugs mit autonomer Fahrfunktion (zum Beispiel Personenbeförderung im Verkehr zwischen festgelegten Stationen),
 
 1.2  
 Technische Beschreibung (Blockschaltbilder, Schnittstellen zu anderen Fahrzeugsystemen),
@@ -1060,3 +1060,5 @@ Die Dokumentation muss die Prüfung der Sicherheit im Bereich der Informationste
  
 
  
+
+Nr. 1 1.1 Kursivdruck: Fehlschreibung des Wortes "Kraftahrzeugs" in "Kraftfahrzeugs" korrigiert

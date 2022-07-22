@@ -383,7 +383,7 @@ Die nach § 14 Absatz 1 auf den Bund übergegangenen Darlehensforderungen werden
 
 # § 19 – Antrag
 
-(1) Über die Förderungsleistung einschließlich der Höhe der Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen oder elektronischen Antrag, der den Vorgaben des § 36a Absatz 2 Satz 4 Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entsprechen muss. Maßnahmebeitrag und Unterhaltsbeitrag müssen spätestens bis zum Ende der Maßnahme, bei mehreren in sich selbstständigen Abschnitten bis zum Ende des jeweiligen Maßnahmeabschnittes beantragt werden.
+(1) Über die Förderungsleistung einschließlich der Höhe der Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen oder elektronischen Antrag. Maßnahmebeitrag und Unterhaltsbeitrag müssen spätestens bis zum Ende der Maßnahme, bei mehreren in sich selbstständigen Abschnitten bis zum Ende des jeweiligen Maßnahmeabschnittes beantragt werden.
 
 (2) Soweit für die Erhebung der für Entscheidungen nach diesem Gesetz erforderlichen Tatsachen Vordrucke vorgesehen sind, sind diese zu benutzen.
 

@@ -3034,11 +3034,13 @@ c) seine Kenntnis davon bestätigt hat, dass sein Widerrufsrecht mit vollständi
 
 2. bei einem Vertrag, der den Verbraucher zur Zahlung eines Preises verpflichtet, wenn
 
-a) der Verbraucher ausdrücklich zugestimmt hat, dass der Unternehmer mit der Vertragserfüllung vor Ablauf der Widerrufsfrist beginnt,
+a) der Unternehmer mit der Vertragserfüllung begonnen hat,
 
-b) der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine Zustimmung nach Buchstabe a mit Beginn der Vertragserfüllung sein Widerrufsrecht erlischt, und
+b) der Verbraucher ausdrücklich zugestimmt hat, dass der Unternehmer mit der Vertragserfüllung vor Ablauf der Widerrufsfrist beginnt,
 
-c) der Unternehmer dem Verbraucher eine Bestätigung gemäß § 312f zur Verfügung gestellt hat.
+c) der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine Zustimmung nach Buchstabe b mit Beginn der Vertragserfüllung sein Widerrufsrecht erlischt, und
+
+d) der Unternehmer dem Verbraucher eine Bestätigung gemäß § 312f zur Verfügung gestellt hat.
 
 # § 356a – Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
 

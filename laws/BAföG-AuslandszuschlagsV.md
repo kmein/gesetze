@@ -29,7 +29,7 @@ Satz 1 Nr. 3 und 4 gilt entsprechend für Praktika nach § 5 Abs. 5 des Gesetzes
 
 # § 3 – Studiengebühren
 
-(1) Nachweisbar notwendige Studiengebühren werden längstens für die Dauer eines Jahres bis zur Höhe von 4.600 Euro geleistet.
+(1) Nachweisbar notwendige Studiengebühren werden längstens für die Dauer eines Jahres bis zur Höhe von 5 600 Euro geleistet.
 
 (2) Über den in Absatz 1 genannten Betrag hinaus können Studiengebühren nur geleistet werden, wenn
 
@@ -51,7 +51,7 @@ Zu den Aufwendungen der Krankenversicherung des Auszubildenden wird monatlich ei
 
 # § 6 – Verhältnis zur Härteverordnung
 
-Zur Abgeltung eines besonderen Bedarfs bei einer Ausbildung im Ausland nach § 5 Abs. 2 und 5 des Gesetzes wird Ausbildungsförderung nur nach dieser Verordnung geleistet. Die Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz vom 15. Juli 1974 (BGBl. I S. 1449), die zuletzt durch Artikel 2 des Gesetzes vom 24. Juli 1995 (BGBl. I S. 976) geändert worden ist, findet insoweit keine Anwendung.
+Zur Abgeltung eines besonderen Bedarfs bei einer Ausbildung im Ausland nach § 5 Abs. 2 und 5 des Gesetzes wird Ausbildungsförderung nur nach dieser Verordnung geleistet. Die Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz vom 15. Juli 1974 (BGBl. I S. 1449), die zuletzt durch Artikel 2 der Verordnung vom 15. Juli 2022 (BGBl. I S. 1162) geändert worden ist, in der jeweils geltenden Fassung findet insoweit keine Anwendung.
 
 # § 7 – Anwendungsbestimmungen aus Anlass der Änderungen durch das Zweiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
