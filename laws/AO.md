@@ -5386,7 +5386,7 @@ c) innerhalb von verbundenen Unternehmen eine grenzüberschreitende Übertragung
 
 4. eine Person hat Anspruch auf mindestens 25 Prozent der Gewinne einer anderen Person.
 
-Falls mehr als eine Person gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen derselben Person beteiligt ist, gelten alle betroffenen Personen als untereinander verbundene Unternehmen. Falls dieselben Personen gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen von mehr als einer Person beteiligt sind, gelten alle betroffenen Personen als verbundene Unternehmen. Für die Zwecke dieses Absatzes wird eine Person, die in Bezug auf die Stimmrechte oder die Kapitalbeteiligung an einem Unternehmen gemeinsam mit einer anderen Person handelt, so behandelt, als würde sie eine Beteiligung an allen Stimmrechten oder dem gesamten Kapital dieses Unternehmens halten, die oder das von der anderen Person gehalten werden oder wird. Bei mittelbaren Beteiligungen wird die Erfüllung der Anforderungen gemäß Satz 1 Nummer 3 durch Multiplikation der Beteiligungsquoten an den nachgeordneten Unternehmen ermittelt. Eine natürliche Person, ihr Ehepartner und ihre Verwandten in aufsteigender oder absteigender gerader Linie werden als eine einzige Person behandelt, wenn gleichgerichtete wirtschaftliche Interessen bestehen. Person im Sinne der Sätze 1 bis 6 ist jede natürliche oder juristische Person, Personengesellschaft, Gemeinschaft oder Vermögensmasse.
+Falls mehr als eine Person gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen derselben Person beteiligt ist, gelten alle betroffenen Personen als untereinander verbundene Unternehmen. Falls dieselben Personen gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen von mehr als einer Person beteiligt sind, gelten alle betroffenen Personen als verbundene Unternehmen. Für die Zwecke dieses Absatzes wird eine Person, die in Bezug auf die Stimmrechte oder die Kapitalbeteiligung an einem Unternehmen gemeinsam mit einer anderen Person handelt, so behandelt, als würde sie eine Beteiligung an allen Stimmrechten oder dem gesamten Kapital dieses Unternehmens halten, die oder das von der anderen Person gehalten werden oder wird. Bei mittelbaren Beteiligungen wird die Erfüllung der Anforderungen gemäß Satz 1 Nummer 3 durch Multiplikation der Beteiligungsquoten an den nachgeordneten Unternehmen ermittelt. Eine Person mit einer Stimmrechtsbeteiligung von mehr als 50 Prozent gilt als Halter von 100 Prozent der Stimmrechte. Eine natürliche Person, ihr Ehepartner und ihre Verwandten in aufsteigender oder absteigender gerader Linie werden als eine einzige Person behandelt, wenn gleichgerichtete wirtschaftliche Interessen bestehen. Person im Sinne der Sätze 1 bis 7 ist jede natürliche oder juristische Person, Personengesellschaft, Gemeinschaft oder Vermögensmasse.
 
 (+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)
 
@@ -5526,7 +5526,7 @@ b) Einkünfte erzielen oder eine wirtschaftliche Tätigkeit ausüben, sofern die
 
 (1) Eine grenzüberschreitende Steuergestaltung ist marktfähig, wenn sie konzipiert wird, vermarktet wird, umsetzungsbereit ist oder zur Umsetzung bereitgestellt wird, ohne dass sie individuell angepasst werden muss.
 
-(2) Bei marktfähigen grenzüberschreitenden Steuergestaltungen sind Änderungen und Ergänzungen hinsichtlich der in § 138f Absatz 3 Satz 1 Nummer 1, 2, 6, 9 und 10 bezeichneten Angaben, die nach Übermittlung des Datensatzes nach § 138f Absatz 3 eingetreten sind, innerhalb von zehn Tagen nach Ablauf des Kalendervierteljahres mitzuteilen, in dem die jeweils mitteilungspflichtigen Umstände eingetreten sind. Dabei sind die Registriernummer und die Offenlegungsnummer anzugeben. Die Angaben sind dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle mitzuteilen. Die Sätze 1 bis 3 gelten in den Fällen des § 138g entsprechend.
+(2) Bei marktfähigen grenzüberschreitenden Steuergestaltungen sind Änderungen und Ergänzungen hinsichtlich der in § 138f Absatz 3 Satz 1 Nummer 1, 2, 3, 6, 9 und 10 bezeichneten Angaben, die nach Übermittlung des Datensatzes nach § 138f Absatz 3 eingetreten sind, innerhalb von zehn Tagen nach Ablauf des Kalendervierteljahres mitzuteilen, in dem die jeweils mitteilungspflichtigen Umstände eingetreten sind. Dabei sind die Registriernummer und die Offenlegungsnummer anzugeben. Die Angaben sind dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle mitzuteilen. Die Sätze 1 bis 3 gelten in den Fällen des § 138g entsprechend.
 
 (+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)
 
@@ -7278,25 +7278,27 @@ Durch die Verjährung erlöschen der Anspruch aus dem Steuerschuldverhältnis un
 
 # § 233 – Grundsatz
 
-Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit dies gesetzlich vorgeschrieben ist. Ansprüche auf steuerliche Nebenleistungen (§ 3 Abs. 4) und die entsprechenden Erstattungsansprüche werden nicht verzinst.
+Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit dies durch Bundesrecht oder Recht der Europäischen Union vorgeschrieben ist. Ansprüche auf steuerliche Nebenleistungen (§ 3 Abs. 4) und die entsprechenden Erstattungsansprüche werden nicht verzinst.
 
 # § 233a – Verzinsung von Steuernachforderungen und Steuererstattungen
 
 (1) Führt die Festsetzung der Einkommen-, Körperschaft-, Vermögen-, Umsatz- oder Gewerbesteuer zu einem Unterschiedsbetrag im Sinne des Absatzes 3, ist dieser zu verzinsen. Dies gilt nicht für die Festsetzung von Vorauszahlungen und Steuerabzugsbeträgen.
 
-(2) Der Zinslauf beginnt 15 Monate nach Ablauf des Kalenderjahrs, in dem die Steuer entstanden ist. Er beginnt für die Einkommen- und Körperschaftsteuer 23 Monate nach diesem Zeitpunkt, wenn die Einkünfte aus Land- und Forstwirtschaft bei der erstmaligen Steuerfestsetzung die anderen Einkünfte überwiegen. Er endet mit Ablauf des Tages, an dem die Steuerfestsetzung wirksam wird.
+(2) Der Zinslauf beginnt 15 Monate nach Ablauf des Kalenderjahrs, in dem die Steuer entstanden ist. Er beginnt für die Einkommen- und Körperschaftsteuer 23 Monate nach diesem Zeitpunkt, wenn die Einkünfte aus Land- und Forstwirtschaft bei der erstmaligen Steuerfestsetzung die anderen Einkünfte überwiegen; hierbei sind Kapitalerträge nach § 32d Absatz 1 und § 43 Absatz 5 des Einkommensteuergesetzes nicht zu berücksichtigen. Er endet mit Ablauf des Tages, an dem die Steuerfestsetzung wirksam wird.
 
 (2a) Soweit die Steuerfestsetzung auf der Berücksichtigung eines rückwirkenden Ereignisses (§ 175 Abs. 1 Satz 1 Nr. 2 und Abs. 2) oder auf einem Verlustabzug nach § 10d Abs. 1 des Einkommensteuergesetzes beruht, beginnt der Zinslauf abweichend von Absatz 2 Satz 1 und 2 15 Monate nach Ablauf des Kalenderjahres, in dem das rückwirkende Ereignis eingetreten oder der Verlust entstanden ist.
 
-(3) Maßgebend für die Zinsberechnung ist die festgesetzte Steuer, vermindert um die anzurechnenden Steuerabzugsbeträge, um die anzurechnende Körperschaftsteuer und um die bis zum Beginn des Zinslaufs festgesetzten Vorauszahlungen (Unterschiedsbetrag). Bei der Vermögensteuer ist als Unterschiedsbetrag für die Zinsberechnung die festgesetzte Steuer, vermindert um die festgesetzten Vorauszahlungen oder die bisher festgesetzte Jahressteuer, maßgebend. Ein Unterschiedsbetrag zugunsten des Steuerpflichtigen ist nur bis zur Höhe des zu erstattenden Betrags zu verzinsen; die Verzinsung beginnt frühestens mit dem Tag der Zahlung.
+(3) Maßgebend für die Zinsberechnung ist die festgesetzte Steuer, vermindert um die anzurechnenden Steuerabzugsbeträge, um die anzurechnende Körperschaftsteuer und um die bis zum Beginn des Zinslaufs festgesetzten Vorauszahlungen (Unterschiedsbetrag). Bei der Vermögensteuer ist als Unterschiedsbetrag für die Zinsberechnung die festgesetzte Steuer, vermindert um die festgesetzten Vorauszahlungen oder die bisher festgesetzte Jahressteuer, maßgebend. Ein Unterschiedsbetrag zugunsten des Steuerpflichtigen ist nur bis zur Höhe des zu erstattenden Betrags zu verzinsen; die Verzinsung beginnt frühestens mit dem Tag der Zahlung. Besteht der Erstattungsbetrag aus mehreren Teil-Leistungen, richtet sich der Zinsberechnungszeitraum jeweils nach dem Zeitpunkt der einzelnen Leistung; die Leistungen sind in chronologischer Reihenfolge zu berücksichtigen, beginnend mit der jüngsten Leistung.
 
 (4) Die Festsetzung der Zinsen soll mit der Steuerfestsetzung verbunden werden.
 
-(5) Wird die Steuerfestsetzung aufgehoben, geändert oder nach § 129 berichtigt, ist eine bisherige Zinsfestsetzung zu ändern; Gleiches gilt, wenn die Anrechnung von Steuerbeträgen zurückgenommen, widerrufen oder nach § 129 berichtigt wird. Maßgebend für die Zinsberechnung ist der Unterschiedsbetrag zwischen der festgesetzten Steuer und der vorher festgesetzten Steuer, jeweils vermindert um die anzurechnenden Steuerabzugsbeträge und um die anzurechnende Körperschaftsteuer. Dem sich hiernach ergebenden Zinsbetrag sind bisher festzusetzende Zinsen hinzuzurechnen; bei einem Unterschiedsbetrag zugunsten des Steuerpflichtigen entfallen darauf festgesetzte Zinsen. Im Übrigen gilt Absatz 3 Satz 3 entsprechend.
+(5) Wird die Steuerfestsetzung aufgehoben, geändert oder nach § 129 berichtigt, ist eine bisherige Zinsfestsetzung zu ändern; Gleiches gilt, wenn die Anrechnung von Steuerbeträgen zurückgenommen, widerrufen oder nach § 129 berichtigt wird. Maßgebend für die Zinsberechnung ist der Unterschiedsbetrag zwischen der festgesetzten Steuer und der vorher festgesetzten Steuer, jeweils vermindert um die anzurechnenden Steuerabzugsbeträge und um die anzurechnende Körperschaftsteuer. Dem sich hiernach ergebenden Zinsbetrag sind bisher festzusetzende Zinsen hinzuzurechnen; bei einem Unterschiedsbetrag zugunsten des Steuerpflichtigen entfallen darauf festgesetzte Zinsen. Im Übrigen gilt Absatz 3 Satz 3 und 4 entsprechend.
 
 (6) Die Absätze 1 bis 5 gelten bei der Durchführung des Lohnsteuer-Jahresausgleichs entsprechend.
 
 (7) Bei Anwendung des Absatzes 2a gelten die Absätze 3 und 5 mit der Maßgabe, dass der Unterschiedsbetrag in Teil-Unterschiedsbeträge mit jeweils gleichem Zinslaufbeginn aufzuteilen ist; für jeden Teil-Unterschiedsbetrag sind Zinsen gesondert und in der zeitlichen Reihenfolge der Teil-Unterschiedsbeträge zu berechnen, beginnend mit den Zinsen auf den Teil-Unterschiedsbetrag mit dem ältesten Zinslaufbeginn. Ergibt sich ein Teil-Unterschiedsbetrag zugunsten des Steuerpflichtigen, entfallen auf diesen Betrag festgesetzte Zinsen frühestens ab Beginn des für diesen Teil-Unterschiedsbetrag maßgebenden Zinslaufs; Zinsen für den Zeitraum bis zum Beginn des Zinslaufs dieses Teil-Unterschiedsbetrags bleiben endgültig bestehen. Dies gilt auch, wenn zuvor innerhalb derselben Zinsberechnung Zinsen auf einen Teil-Unterschiedsbetrag zuungunsten des Steuerpflichtigen berechnet worden sind.
+
+(8) Zinsen auf einen Unterschiedsbetrag zuungunsten des Steuerpflichtigen (Nachzahlungszinsen) sind entweder nicht festzusetzen oder zu erlassen, soweit Zahlungen oder andere Leistungen auf eine später wirksam gewordene Steuerfestsetzung erbracht wurden, die Finanzbehörde diese Leistungen angenommen und auf die festgesetzte und zu entrichtende Steuer angerechnet hat. Absatz 3 Satz 4 ist hierbei entsprechend anzuwenden. Soweit Nachzahlungszinsen aufgrund einer Aufhebung, Änderung oder Berichtigung der Steuerfestsetzung nach Absatz 5 Satz 3 zweiter Halbsatz entfallen, mindert sich der Zinsverzicht nach Satz 1 entsprechend. Die §§ 163 und 227 bleiben unberührt.
 
 (+++ § 233a F. 25.7.1988: Zur Geltung vgl. Art. 97 § 15 Abs. 4 AOEG 1977 +++)  
 (+++ § 233a Abs. 2 Satz 1: Zur Geltung vgl. Art. 97 § 36 AOEG 1977 +++)  
@@ -7373,6 +7375,12 @@ führt.
 
 (1) Die Zinsen betragen für jeden Monat einhalb Prozent. Sie sind von dem Tag an, an dem der Zinslauf beginnt, nur für volle Monate zu zahlen; angefangene Monate bleiben außer Ansatz. Erlischt der zu verzinsende Anspruch durch Aufrechnung, gilt der Tag, an dem die Schuld des Aufrechnenden fällig wird, als Tag der Zahlung.
 
+(1a) In den Fällen des § 233a betragen die Zinsen abweichend von Absatz 1 Satz 1 ab dem 1. Januar 2019 0,15 Prozent für jeden Monat, das heißt 1,8 Prozent für jedes Jahr.
+
+(1b) Sind für einen Zinslauf unterschiedliche Zinssätze maßgeblich, ist der Zinslauf in Teilverzinsungszeiträume aufzuteilen. Die Zinsen für die Teilverzinsungszeiträume sind jeweils tageweise zu berechnen. Hierbei wird jeder Kalendermonat unabhängig von der tatsächlichen Anzahl der Kalendertage mit 30 Zinstagen und jedes Kalenderjahr mit 360 Tagen gerechnet.
+
+(1c) Die Angemessenheit des Zinssatzes nach Absatz 1a ist unter Berücksichtigung der Entwicklung des Basiszinssatzes nach § 247 des Bürgerlichen Gesetzbuchs wenigstens alle zwei Jahre zu evaluieren. Die erste Evaluierung erfolgt spätestens zum 1. Januar 2024.
+
 (2) Für die Berechnung der Zinsen wird der zu verzinsende Betrag jeder Steuerart auf den nächsten durch 50 Euro teilbaren Betrag abgerundet.
 
 (+++ § 238 Abs. 2: Zur Geltung vgl. Art. 97 § 15 Abs. 10 AOEG 1977 +++)  
@@ -7380,7 +7388,7 @@ führt.
 
 # § 239 – Festsetzung der Zinsen
 
-(1) Auf die Zinsen sind die für die Steuern geltenden Vorschriften entsprechend anzuwenden, jedoch beträgt die Festsetzungsfrist ein Jahr. Die Festsetzungsfrist beginnt:
+(1) Auf die Zinsen sind die für die Steuern geltenden Vorschriften entsprechend anzuwenden, jedoch beträgt die Festsetzungsfrist zwei Jahre. Die Festsetzungsfrist beginnt:
 
 1. in den Fällen des § 233a mit Ablauf des Kalenderjahrs, in dem die Steuer festgesetzt, aufgehoben, geändert oder nach § 129 berichtigt worden ist,
 
@@ -7390,7 +7398,9 @@ führt.
 
 4. in den Fällen des § 236 mit Ablauf des Kalenderjahrs, in dem die Steuer erstattet oder die Steuervergütung ausgezahlt worden ist,
 
-5. in den Fällen des § 237 mit Ablauf des Kalenderjahrs, in dem ein Einspruch oder eine Anfechtungsklage endgültig erfolglos geblieben ist.
+5. in den Fällen des § 237 mit Ablauf des Kalenderjahrs, in dem ein Einspruch oder eine Anfechtungsklage endgültig erfolglos geblieben ist, und
+
+6. in allen anderen Fällen mit Ablauf des Kalenderjahrs, in dem der Zinslauf endet.
 
 Die Festsetzungsfrist läuft in den Fällen des § 233a nicht ab, solange die Steuerfestsetzung, ihre Aufhebung, ihre Änderung oder ihre Berichtigung nach § 129 noch zulässig ist.
 
@@ -7405,6 +7415,8 @@ Die Festsetzungsfrist läuft in den Fällen des § 233a nicht ab, solange die St
 gesondert festzustellen, soweit diese an Sachverhalte anknüpfen, die Gegenstand des Grundlagenbescheids sind.
 
 (4) Werden wegen einer Steueranmeldung, die nach § 168 Satz 1 einer Steuerfestsetzung unter Vorbehalt der Nachprüfung gleichsteht, Zinsen nach § 233a festgesetzt, so steht diese Zinsfestsetzung ebenfalls unter dem Vorbehalt der Nachprüfung.
+
+(5) Die Festsetzung von Zinsen nach § 233a hat Bindungswirkung für Zinsfestsetzungen nach den §§ 234, 235, 236 oder 237, soweit auf diese Zinsen nach § 233a festgesetzte Zinsen anzurechnen sind.
 
 (+++ § 239: Zur Anwendung vgl. Art. 97 §§ 1 u. 15 AOEG 1977 +++)  
 (+++ § 239: Zur Geltung vgl. Art. 97 § 15 AOEG 1977 +++)

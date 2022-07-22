@@ -55,7 +55,7 @@ wenn er dem Besuch der in den Absätzen 1 und 2 bezeichneten Ausbildungsstätten
 
 3. als Beschäftigter im öffentlichen Dienst Anwärterbezüge oder ähnliche Leistungen aus öffentlichen Mitteln erhält oder
 
-4. als Gefangener Anspruch auf Ausbildungsbeihilfe nach den §§ 44, 176 Absatz 4 des Strafvollzugsgesetzes hat.
+4. als Strafgefangener Anspruch auf Ausbildungsbeihilfe nach einer Landesvorschrift für den Strafvollzug hat.
 
 # § 3 – Fernunterricht
 
@@ -99,9 +99,11 @@ Ausbildungsförderung wird vorbehaltlich der §§ 5 und 6 für die Ausbildung im
 
 2. im Rahmen der grenzüberschreitenden Zusammenarbeit einer deutschen und mindestens einer ausländischen Ausbildungsstätte die aufeinander aufbauenden Lehrveranstaltungen einer einheitlichen Ausbildung abwechselnd von den beteiligten deutschen und ausländischen Ausbildungsstätten angeboten werden oder
 
-3. eine Ausbildung an einer Ausbildungsstätte in einem Mitgliedstaat der Europäischen Union oder in der Schweiz aufgenommen oder fortgesetzt wird.
+3. eine Ausbildung an einer Ausbildungsstätte in einem Mitgliedstaat der Europäischen Union oder in der Schweiz aufgenommen oder fortgesetzt wird oder
 
-Die Ausbildung muss mindestens sechs Monate oder ein Semester dauern; findet sie im Rahmen einer mit der besuchten Ausbildungsstätte vereinbarten Kooperation statt, muss sie mindestens zwölf Wochen dauern. Satz 1 ist auf die in § 8 Absatz 1 Nummer 1 bis 5 bezeichneten Auszubildenden auch dann anzuwenden, wenn sie ihren ständigen Wohnsitz nicht im Inland haben, aber nach den besonderen Umständen des Einzelfalls ihre hinreichende Verbundenheit zum Inland anderweitig nachweisen. Satz 1 Nummer 3 gilt für die in § 8 Absatz 1 Nummer 6 und 7, Absatz 2 und 3 bezeichneten Auszubildenden nur, wenn sie die Zugangsvoraussetzungen für die geförderte Ausbildung im Inland erworben haben oder eine Aufenthaltserlaubnis nach § 25 Absatz 1 und 2 des Aufenthaltsgesetzes besitzen.
+4. die Ausbildung nach einer der Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes vergleichbaren Festsetzung regelmäßig innerhalb eines Jahres abgeschlossen werden kann.
+
+Die Ausbildung muss mindestens sechs Monate oder ein Semester dauern; findet sie im Rahmen einer mit der besuchten Ausbildungsstätte vereinbarten Kooperation statt, muss sie mindestens zwölf Wochen dauern. Satz 2 gilt nicht für die in § 8 Absatz 1 Nummer 1 bis 5 bezeichneten Auszubildenden beim Besuch einer Ausbildungsstätte in Mitgliedstaaten der Europäischen Union, sofern eine vergleichbare Ausbildung im Inland förderungsfähig wäre. Satz 1 ist auf die in § 8 Absatz 1 Nummer 1 bis 5 bezeichneten Auszubildenden auch dann anzuwenden, wenn sie ihren ständigen Wohnsitz nicht im Inland haben, aber nach den besonderen Umständen des Einzelfalls ihre hinreichende Verbundenheit zum Inland anderweitig nachweisen. Satz 1 Nummer 3 gilt für die in § 8 Absatz 1 Nummer 6 und 7, Absatz 2 und 3 bezeichneten Auszubildenden nur, wenn sie die Zugangsvoraussetzungen für die geförderte Ausbildung im Inland erworben haben oder eine Aufenthaltserlaubnis nach § 25 Absatz 1 und 2 des Aufenthaltsgesetzes besitzen.
 
 (3) (weggefallen)
 
@@ -119,7 +121,7 @@ Die Ausbildung muss mindestens sechs Monate oder ein Semester dauern; findet sie
 
 Absatz 2 Nummer 3 gilt nur für den Besuch von Ausbildungsstätten, der dem Besuch der Ausbildungsstätten in den Nummern 3 bis 5 gleichwertig ist, wobei die Fachoberschulklassen ausgenommen sind. Die Prüfung der Gleichwertigkeit erfolgt von Amts wegen im Rahmen des Bewilligungsverfahrens.
 
-(5) Wird im Zusammenhang mit dem Besuch einer im Inland gelegenen Berufsfachschule, einer Fachschulklasse, einer Höheren Fachschule, Akademie oder Hochschule oder mit dem nach Absatz 2 Satz 1 Nummer 3 geförderten Besuch einer in einem Mitgliedstaat der Europäischen Union gelegenen vergleichbaren Ausbildungsstätte ein Praktikum gefordert, so wird für die Teilnahme an einem Praktikum im Ausland Ausbildungsförderung nur geleistet, wenn die Ausbildungsstätte oder die zuständige Prüfungsstelle anerkennt, das diese fachpraktische Ausbildung den Anforderungen der Prüfungsordnung an die Praktikantenstelle genügt. Das Praktikum im Ausland muss der Ausbildung nach dem Ausbildungsstand förderlich sein und mindestens zwölf Wochen dauern.
+(5) Wird im Zusammenhang mit dem Besuch einer im Inland gelegenen Berufsfachschule, einer Fachschulklasse, einer Höheren Fachschule, Akademie oder Hochschule oder mit dem nach Absatz 2 Satz 1 Nummer 3 geförderten Besuch einer in einem Mitgliedstaat der Europäischen Union gelegenen vergleichbaren Ausbildungsstätte ein Praktikum gefordert, so wird für die Teilnahme an einem Praktikum im Ausland Ausbildungsförderung nur geleistet, wenn die Ausbildungsstätte oder die zuständige Prüfungsstelle anerkennt, das diese fachpraktische Ausbildung den Anforderungen der Prüfungsordnung an die Praktikantenstelle genügt. Das Praktikum im Ausland muss der Ausbildung nach dem Ausbildungsstand förderlich sein und mindestens zwölf Wochen dauern. Satz 2 gilt nicht für die in § 8 Absatz 1 Nummer 1 bis 5 bezeichneten Auszubildenden bei einem Praktikum in Mitgliedstaaten der Europäischen Union, sofern ein vergleichbares Praktikum im Inland förderungsfähig wäre.
 
 # § 5a – Unberücksichtigte Ausbildungszeiten
 
@@ -139,7 +141,7 @@ Deutschen im Sinne des Grundgesetzes, die ihren ständigen Wohnsitz in einem aus
 
 2. der Auszubildende bislang ausschließlich einen Bachelor- oder Bakkalaureusstudiengang abgeschlossen oder im Sinne der Nummer 1 eine Anerkennung des bisherigen Studiums als einem solchen Abschluss entsprechend erreicht hat.
 
-Für nach Satz 1 förderungsfähige Ausbildungen findet Absatz 3 Satz 1 Nummer 1 keine Anwendung. Auszubildenden, die von der Ausbildungsstätte auf Grund vorläufiger Zulassung für einen nach Satz 1 förderungsfähigen Studiengang eingeschrieben worden sind, wird Ausbildungsförderung unter dem Vorbehalt der Rückforderung bis zu einer endgültigen Entscheidung über die Zulassung geleistet, längstens jedoch für zwölf Monate.
+Für nach Satz 1 förderungsfähige Ausbildungen findet Absatz 3 Satz 1 Nummer 1 keine Anwendung. Auszubildenden, die von der Ausbildungsstätte auf Grund vorläufiger Zulassung für einen nach Satz 1 förderungsfähigen Studiengang eingeschrieben worden sind, wird für die Dauer der vorläufigen Zulassung, längstens jedoch für zwölf Monate, Ausbildungsförderung unter dem Vorbehalt der Rückforderung für den Fall geleistet, dass bis dahin keine endgültige Zulassung erfolgt. Der Rückforderungsvorbehalt gilt nur für den Zeitraum nach Ablauf der für den noch nicht abgeschlossenen Bachelor- oder Bakkalaureusstudiengang geltenden Förderungshöchstdauer oder der nach § 15 Absatz 3 verlängerten Förderungsdauer.
 
 (1b) Für einen Studiengang, der ganz oder teilweise mit einer staatlichen Prüfung abschließt (Staatsexamensstudiengang), wird Ausbildungsförderung auch geleistet, nachdem Auszubildende einen Bachelor- oder Bakkalaureusstudiengang abgeschlossen haben. Voraussetzung der Leistung ist, dass der Studiengang durch Studien- oder Prüfungsordnung in der Weise vollständig in den Staatsexamensstudiengang integriert ist, dass innerhalb der Regelstudienzeit des Bachelor- oder Bakkalaureusstudiengangs auch sämtliche Ausbildungs- und Prüfungsleistungen zu erbringen sind, die für den Staatsexamensstudiengang in der Studien- oder Prüfungsordnung für denselben Zeitraum vorgesehen sind.
 
@@ -221,7 +223,7 @@ die Ausbildung abgebrochen oder die Fachrichtung gewechselt, so wird Ausbildungs
 
 (2) (weggefallen)
 
-(3) Ausbildungsförderung wird nicht geleistet, wenn der Auszubildende bei Beginn des Ausbildungsabschnitts, für den er Ausbildungsförderung beantragt, das 30. Lebensjahr, bei Studiengängen nach § 7 Absatz 1a das 35. Lebensjahr vollendet hat. Satz 1 gilt nicht, wenn
+(3) Ausbildungsförderung wird nicht geleistet, wenn Auszubildende bei Beginn des Ausbildungsabschnitts, für den sie Ausbildungsförderung beantragen, das 45. Lebensjahr vollendet haben. Satz 1 gilt nicht, wenn
 
 1. der Auszubildende die Zugangsvoraussetzungen für die zu fördernde Ausbildung an einer in § 7 Absatz 2 Satz 1 Nummer 4 Buchstabe a genannten Ausbildungsstätte, durch eine Nichtschülerprüfung oder durch eine Zugangsprüfung zu einer Hochschule oder zu einer Akademie im Sinne des § 2 Absatz 1 Satz 1 Nummer 6 erworben hat,
 
@@ -229,7 +231,7 @@ die Ausbildung abgebrochen oder die Fachrichtung gewechselt, so wird Ausbildungs
 
 1b. der Auszubildende eine weitere Ausbildung nach § 7 Absatz 2 Nummer 2 oder 3 aufnimmt,
 
-2. (weggefallen)
+2. Auszubildende, die das 45. Lebensjahr während eines zuvor abgeschlossenen Bachelor- oder Bakkalaureusstudiengangs vollendet haben, danach unverzüglich einen nach § 7 Absatz 1a förderungsfähigen Studiengang beginnen,
 
 3. Auszubildende aus persönlichen oder familiären Gründen gehindert waren, den Ausbildungsabschnitt rechtzeitig zu beginnen; dies ist insbesondere der Fall, wenn sie bei Erreichen der Altersgrenzen bis zur Aufnahme der Ausbildung ein eigenes Kind unter 14 Jahren ohne Unterbrechung erziehen und während dieser Zeit bis zu höchstens 30 Wochenstunden im Monatsdurchschnitt erwerbstätig sind; Alleinerziehende dürfen auch mehr als 30 Wochenstunden erwerbstätig sein, um dadurch Unterstützung durch Leistungen der Grundsicherung zu vermeiden, oder
 
@@ -263,15 +265,15 @@ Satz 1 Nummer 3 und 4 gilt nur, wenn der Auszubildende in den Jahren seiner Erwe
 
 (1) Als monatlicher Bedarf gelten für Schüler
 
-1. von Berufsfachschulen und Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 247 Euro,
+1. von Berufsfachschulen und Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 262 Euro,
 
-2. von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 448 Euro.
+2. von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 474 Euro.
 
 (2) Als monatlicher Bedarf gelten, wenn der Auszubildende nicht bei seinen Eltern wohnt, für Schüler
 
-1. von weiterführenden allgemeinbildenden Schulen und Berufsfachschulen sowie von Fach- und Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 585 Euro,
+1. von weiterführenden allgemeinbildenden Schulen und Berufsfachschulen sowie von Fach- und Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 632 Euro,
 
-2. von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 681 Euro.
+2. von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 736 Euro.
 
 (3) (weggefallen)
 
@@ -283,15 +285,15 @@ Satz 1 Nummer 3 und 4 gilt nur, wenn der Auszubildende in den Jahren seiner Erwe
 
 (1) Als monatlicher Bedarf gelten für Auszubildende in
 
-1. Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, Abendgymnasien und Kollegs 398 Euro,
+1. Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, Abendgymnasien und Kollegs 421 Euro,
 
-2. Höheren Fachschulen, Akademien und Hochschulen 427 Euro.
+2. Höheren Fachschulen, Akademien und Hochschulen 452 Euro.
 
 (2) Die Bedarfe nach Absatz 1 erhöhen sich für die Unterkunft, wenn der Auszubildende
 
-1. bei seinen Eltern wohnt, um monatlich 56 Euro,
+1. bei seinen Eltern wohnt, um monatlich 59 Euro,
 
-2. nicht bei seinen Eltern wohnt, um monatlich 325 Euro.
+2. nicht bei seinen Eltern wohnt, um monatlich 360 Euro.
 
 (3) (weggefallen)
 
@@ -301,9 +303,9 @@ Satz 1 Nummer 3 und 4 gilt nur, wenn der Auszubildende in den Jahren seiner Erwe
 
 # § 13a – Kranken- und Pflegeversicherungszuschlag
 
-(1) Für Auszubildende, die in der gesetzlichen Krankenversicherung nach § 5 Absatz 1 Nummer 9 oder 10 des Fünften Buches Sozialgesetzbuch versichert sind, erhöht sich der Bedarf um 84 Euro monatlich für ihren Krankenversicherungsbeitrag. Für ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 9 oder 10 des Elften Buches Sozialgesetzbuch erhöht sich der Bedarf um weitere 25 Euro monatlich. Für Auszubildende, die als freiwilliges Mitglied in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind und deren Kranken- und Pflegeversicherungsbeiträge nach § 240 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch und § 57 Absatz 4 des Elften Buches Sozialgesetzbuch berechnet werden, gelten die Sätze 1 und 2 entsprechend.
+(1) Für Auszubildende, die in der gesetzlichen Krankenversicherung nach § 5 Absatz 1 Nummer 9 oder 10 des Fünften Buches Sozialgesetzbuch versichert sind, erhöht sich der Bedarf um 94 Euro monatlich für ihren Krankenversicherungsbeitrag. Für ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 9 oder 10 des Elften Buches Sozialgesetzbuch erhöht sich der Bedarf um weitere 28 Euro monatlich. Für Auszubildende, die als freiwilliges Mitglied in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind und deren Kranken- und Pflegeversicherungsbeiträge nach § 240 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch und § 57 Absatz 4 des Elften Buches Sozialgesetzbuch berechnet werden, gelten die Sätze 1 und 2 entsprechend.
 
-(2) Für Auszubildende, die – außer in den Fällen des Absatzes 1 Satz 3 – als freiwilliges Mitglied oder nach § 5 Absatz 1 Nummer 13 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind, erhöht sich der Bedarf um die nachgewiesenen Krankenversicherungsbeiträge, höchstens aber um 155 Euro. Für ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 12 oder Absatz 3 des Elften Buches Sozialgesetzbuch – außer in den Fällen des Absatzes 1 Satz 3 – erhöht sich der Bedarf um die nachgewiesenen Pflegeversicherungsbeiträge, höchstens aber um weitere 34 Euro monatlich.
+(2) Für Auszubildende, die – außer in den Fällen des Absatzes 1 Satz 3 – als freiwilliges Mitglied oder nach § 5 Absatz 1 Nummer 13 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind, erhöht sich der Bedarf um 168 Euro monatlich. Für ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 12 oder Absatz 3 des Elften Buches Sozialgesetzbuch – außer in den Fällen des Absatzes 1 Satz 3 – erhöht sich der Bedarf um 38 Euro monatlich.
 
 (3) Für Auszubildende, die ausschließlich
 
@@ -311,7 +313,7 @@ Satz 1 Nummer 3 und 4 gilt nur, wenn der Auszubildende in den Jahren seiner Erwe
 
 2. aus dieser Versicherung Leistungen beanspruchen können, die der Art nach den Leistungen des Fünften Buches Sozialgesetzbuch mit Ausnahme des Kranken- und Mutterschaftsgeldes entsprechen,
 
-erhöht sich der Bedarf um 84 Euro monatlich. Sind die in Satz 1 Nummer 2 genannten Leistungen auf einen bestimmten Anteil der erstattungsfähigen Kosten begrenzt, erhöht sich der Bedarf stattdessen um die nachgewiesenen Krankenversicherungsbeiträge, höchstens aber um den in Satz 1 genannten Betrag. Für Auszubildende, die nach § 23 des Elften Buches Sozialgesetzbuch beitragspflichtig bei einem privaten Versicherungsunternehmen versichert sind, das die in § 61 Absatz 5 des Elften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt, erhöht sich der Bedarf um weitere 25 Euro monatlich. Abweichend von den Sätzen 1 bis 3 gilt für Auszubildende, die die Altersgrenze des § 5 Absatz 1 Nummer 9 oder Nummer 10 des Fünften Buches Sozialgesetzbuch überschreiten, Absatz 2 entsprechend.
+erhöht sich der Bedarf um 94 Euro monatlich. Sind die in Satz 1 Nummer 2 genannten Leistungen auf einen bestimmten Anteil der erstattungsfähigen Kosten begrenzt, erhöht sich der Bedarf stattdessen um die nachgewiesenen Krankenversicherungsbeiträge, höchstens aber um den in Satz 1 genannten Betrag. Für Auszubildende, die nach § 23 des Elften Buches Sozialgesetzbuch beitragspflichtig bei einem privaten Versicherungsunternehmen versichert sind, das die in § 61 Absatz 5 des Elften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt, erhöht sich der Bedarf um weitere 28 Euro monatlich. Abweichend von den Sätzen 1 bis 3 gilt für Auszubildende, die die Altersgrenze des § 5 Absatz 1 Nummer 9 oder Nummer 10 des Fünften Buches Sozialgesetzbuch überschreiten, Absatz 2 entsprechend.
 
 # § 14 – Bedarf für Praktikanten
 
@@ -339,7 +341,7 @@ In der Rechtsverordnung können insbesondere Regelungen getroffen werden über
 
 # § 14b – Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)
 
-(1) Für Auszubildende, die mit mindestens einem eigenen Kind, das das 14. Lebensjahr noch nicht vollendet hat, in einem Haushalt leben, erhöht sich der Bedarf um monatlich 150 Euro für jedes dieser Kinder. Der Zuschlag wird für denselben Zeitraum nur einem Elternteil gewährt. Sind beide Elternteile nach diesem Gesetz dem Grunde nach förderungsberechtigt und leben in einem gemeinsamen Haushalt, bestimmen sie untereinander den Berechtigten.
+(1) Für Auszubildende, die mit mindestens einem eigenen Kind, das das 14. Lebensjahr noch nicht vollendet hat, in einem Haushalt leben, erhöht sich der Bedarf um monatlich 160 Euro für jedes dieser Kinder. Der Zuschlag wird für denselben Zeitraum nur einem Elternteil gewährt. Sind beide Elternteile nach diesem Gesetz dem Grunde nach förderungsberechtigt und leben in einem gemeinsamen Haushalt, bestimmen sie untereinander den Berechtigten.
 
 (2) Der Zuschlag nach Absatz 1 bleibt als Einkommen bei Sozialleistungen unberücksichtigt. Für die Ermittlung eines Kostenbeitrags nach § 90 des Achten Buches Sozialgesetzbuch gilt dies jedoch nur, soweit der Kostenbeitrag für eine Kindertagesbetreuung an Wochentagen während der regulären Betreuungszeiten erhoben wird.
 
@@ -373,13 +375,17 @@ d) der Länder,
 
 überschritten worden ist.
 
-(3a) Auszubildenden an Hochschulen und an Akademien im Sinne des § 2 Absatz 1 Satz 1 Nummer 6, die sich in einem in sich selbständigen Studiengang befinden, wird als Hilfe zum Studienabschluss für höchstens zwölf Monate Ausbildungsförderung auch nach dem Ende der Förderungshöchstdauer oder der Förderungsdauer nach Absatz 3 Nummer 1, 3 oder 5 geleistet, wenn die Auszubildenden spätestens innerhalb von vier Semestern nach diesem Zeitpunkt zur Abschlussprüfung zugelassen worden sind und die Prüfungsstelle bescheinigt, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können. Ist eine Abschlussprüfung nicht vorgesehen, gilt Satz 1 unter der Voraussetzung, dass die Auszubildenden eine Bestätigung der Ausbildungsstätte darüber vorlegen, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können.
+(3a) Auszubildenden an Hochschulen und an Akademien im Sinne des § 2 Absatz 1 Satz 1 Nummer 6, die sich in einem in sich selbständigen Studiengang befinden, wird als Hilfe zum Studienabschluss für höchstens zwölf Monate Ausbildungsförderung auch nach dem Ende der Förderungshöchstdauer oder der Förderungsdauer nach Absatz 3 Nummer 1, 2, 3 oder 5 geleistet, wenn die Auszubildenden spätestens innerhalb von vier Semestern nach diesem Zeitpunkt zur Abschlussprüfung zugelassen worden sind und die Prüfungsstelle bescheinigt, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können. Ist eine Abschlussprüfung nicht vorgesehen, gilt Satz 1 unter der Voraussetzung, dass die Auszubildenden eine Bestätigung der Ausbildungsstätte darüber vorlegen, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können.
 
 (+++ § 15 Abs. 1 Halbsatz 2: Zur Anwendung vgl. BAföGÄndG 13 Art. 2 Nr. 1 +++)
 
-# § 15a – Förderungshöchstdauer
+# § 15a – Förderungshöchstdauer, Verordnungsermächtigung
 
-(1) Die Förderungshöchstdauer entspricht der Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes oder einer vergleichbaren Festsetzung.
+(1) Die Förderungshöchstdauer entspricht vorbehaltlich der Absätze 1a und 1b der Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes oder einer vergleichbaren Festsetzung.
+
+(1a) Für die Bestimmung der Förderungshöchstdauer sind Verlängerungen der Regelstudienzeit nicht zu berücksichtigen, die als Ausnahme von hochschulrechtlichen Vorgaben zur Berücksichtigung vorübergehender außergewöhnlicher Beeinträchtigungen des Lehrbetriebs festgesetzt werden.
+
+(1b) Die Bundesregierung darf abweichend von Absatz 1 durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass die Förderungshöchstdauer über die Regelstudienzeit nach Absatz 1 hinaus um einen bestimmten Zeitraum verlängert wird, soweit der Studien- und Lehrbetrieb an Ausbildungsstätten gemäß § 2 Absatz 1 Nummer 6 erheblich beeinträchtigt ist.
 
 (2) Auf die Förderungshöchstdauer sind anzurechnen
 
@@ -401,7 +407,7 @@ Zeiten, in denen der Auszubildende eine Teilzeitausbildung durchgeführt hat, si
 
 (2a) Besucht ein Auszubildender zwischen dem Ende einer Ausbildung im Ausland und dem frühestmöglichen Beginn der anschließenden Ausbildung im Inland für längstens vier Monate keine Ausbildungsstätte, so wird ihm längstens für die Dauer der beiden Monate vor Beginn der anschließenden Ausbildung Ausbildungsförderung geleistet. Die beiden Kalendermonate sind in den folgenden Bewilligungszeitraum einzubeziehen.
 
-(3) Die Ausbildung endet mit dem Ablauf des Monats, in dem die Abschlussprüfung des Ausbildungsabschnitts bestanden wurde, oder, wenn eine solche nicht vorgesehen ist, mit dem Ablauf des Monats, in dem der Ausbildungsabschnitt tatsächlich planmäßig geendet hat. Abweichend von Satz 1 ist, sofern ein Prüfungs- oder Abgangszeugnis erteilt wird, das Datum dieses Zeugnisses maßgebend. Eine Hochschulausbildung ist abweichend von den Sätzen 1 und 2 mit Ablauf des Monats beendet, in dem das Gesamtergebnis des erfolgreich abgeschlossenen Ausbildungsabschnitts bekannt gegeben wird, spätestens jedoch mit Ablauf des zweiten Monats nach dem Monat, in dem der letzte Prüfungsteil abgelegt wurde.
+(3) Die Ausbildung endet mit dem Ablauf des Monats, in dem die Abschlussprüfung des Ausbildungsabschnitts bestanden wurde, oder, wenn eine solche nicht vorgesehen ist, mit dem Ablauf des Monats, in dem der Ausbildungsabschnitt tatsächlich planmäßig geendet hat. Abweichend von Satz 1 ist, sofern ein Prüfungs- oder Abgangszeugnis erteilt wird, das Datum dieses Zeugnisses maßgebend. Eine Hochschulausbildung ist abweichend von den Sätzen 1 und 2 mit Ablauf des Monats beendet, in dem der erfolgreiche Abschluss des Ausbildungsabschnitts dem Auszubildenden erstmals bekanntgegeben ist, spätestens jedoch mit Ablauf des zweiten Monats nach dem Monat, in dem der letzte Prüfungsteil abgelegt wurde.
 
 (4) Die Ausbildung ist ferner beendet, wenn der Auszubildende die Ausbildung abbricht (§ 7 Absatz 3 Satz 2) und sie nicht an einer Ausbildungsstätte einer anderen Ausbildungsstättenart weiterführt.
 
@@ -409,7 +415,7 @@ Zeiten, in denen der Auszubildende eine Teilzeitausbildung durchgeführt hat, si
 
 (1) Für eine Ausbildung im Ausland nach § 5 Absatz 2 Nummer 1 oder Absatz 5 wird Ausbildungsförderung längstens für die Dauer eines Jahres geleistet. Innerhalb eines Ausbildungsabschnitts gilt Satz 1 nur für einen einzigen zusammenhängenden Zeitraum, soweit nicht der Besuch von Ausbildungsstätten in mehreren Ländern für die Ausbildung von besonderer Bedeutung ist.
 
-(2) Darüber hinaus kann während drei weiterer Semester Ausbildungsförderung geleistet werden für den Besuch einer Ausbildungsstätte, die den im Inland gelegenen Hochschulen gleichwertig ist, wenn er für die Ausbildung von besonderer Bedeutung ist.
+(2) Darüber hinaus kann in den Fällen einer Ausbildung im Ausland im Sinne des § 5 Absatz 2 Satz 1 Nummer 1 während drei weiterer Semester Ausbildungsförderung geleistet werden für den Besuch einer Ausbildungsstätte, die den im Inland gelegenen Hochschulen gleichwertig ist, wenn er für die Ausbildung von besonderer Bedeutung ist.
 
 (3) In den Fällen des § 5 Absatz 2 Nummer 2 und 3 wird Ausbildungsförderung ohne die zeitliche Begrenzung der Absätze 1 und 2 geleistet.
 
@@ -467,9 +473,9 @@ zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte Ausbildu
 
 (10) Die nach § 17 Absatz 2 Satz 1 oder Absatz 3 Satz 1 geleisteten Darlehen können jeweils ganz oder teilweise vorzeitig zurückgezahlt werden. Auf Antrag ist ein Nachlass auf die verbleibende Darlehensschuld zu gewähren.
 
-(11) Mit dem Tod der Darlehensnehmenden erlischt die verbliebene Darlehensschuld einschließlich etwaiger Kosten und Zinsen.
+(11) Mit dem Tod der Darlehensnehmenden erlischt die verbliebene Darlehensschuld einschließlich damit verbundener Kosten und Zinsen.
 
-(12) Darlehensnehmenden, die während des Rückzahlungszeitraums nach Absatz 3 Satz 1 ihren Zahlungs- und Mitwirkungspflichten jeweils rechtzeitig und vollständig nachgekommen sind, ist die verbleibende Darlehensschuld zu erlassen. Sind die Voraussetzungen des Satzes 1 nicht erfüllt, ist dies durch Bescheid festzustellen. Auf Antrag kann zur Vermeidung einer unbilligen Härte die verbleibende Darlehensschuld auch dann erlassen werden, wenn im Rückzahlungsverfahren in nur geringfügigem Umfang gegen die Zahlungs- und Mitwirkungspflichten verstoßen wurde. Der Antrag nach Satz 3 ist binnen eines Monats nach Bekanntgabe eines ablehnenden Bescheids nach Satz 2 zu stellen.
+(12) Darlehensnehmenden, die während des Rückzahlungszeitraums nach Absatz 3 Satz 1 nicht oder nur in geringfügigem Umfang gegen ihre Zahlungs- oder Mitwirkungspflichten verstoßen haben, ist die verbleibende Darlehensschuld einschließlich damit verbundener Kosten und Zinsen zu erlassen. Sind die Voraussetzungen des Satzes 1 nicht erfüllt, ist dies durch Bescheid festzustellen. Die Sätze 1 und 2 gelten für Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer vor dem 1. September 2019 geltenden Fassung, mit Ausnahme von Bankdarlehen nach § 18c, gewährt wurde, auch wenn sie eine Erklärung nach § 66a Absatz 7 Satz 1 abgegeben haben, mit der Maßgabe, dass ihnen die verbleibende Darlehensschuld einschließlich damit verbundener Kosten und Zinsen 20 Jahre nach Beginn des für sie geltenden Rückzahlungszeitraums erlassen wird. Der Erlass nach Satz 3 erfolgt für Darlehensnehmende, die die 20 Jahre bereits vor dem 22. Juli 2022 überschritten haben, zum 1. Oktober 2022.
 
 (13) Bereits vor Ablauf der nach Absatz 3 je nach Höhe der Darlehensschuld planmäßigen Rückzahlungsdauer ist Darlehensnehmenden, die Tilgungsleistungen in 77 monatlichen Raten in jeweils der nach Absatz 3 geschuldeten Höhe erbracht haben, die noch verbleibende Darlehensschuld zu erlassen. Für Zeiträume, in denen eine Freistellung nach § 18a Absatz 1 mit verminderter Ratenzahlung gewährt wurde, genügen für einen Erlass nach Satz 1 Tilgungsleistungen jeweils in Höhe der vom Bundesverwaltungsamt zugleich festgesetzten verminderten Rückzahlungsraten; Absatz 10 bleibt unberührt.
 
@@ -483,11 +489,11 @@ zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte Ausbildu
 
 # § 18a – Einkommensabhängige Rückzahlung
 
-(1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1 330 Euro nicht um mindestens 42 Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
+(1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1 605 Euro nicht um mindestens 42 Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
 
-1. Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 665 Euro,
+1. Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 805 Euro,
 
-2. jedes Kind der Darlehensnehmenden um 605 Euro,
+2. jedes Kind der Darlehensnehmenden um 730 Euro,
 
 wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann. Die Beträge nach Satz 2 mindern sich um das Einkommen der Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner und Kinder. Als Kinder gelten insoweit außer eigenen Kindern der Darlehensnehmenden die in § 25 Absatz 5 Nummer 1 bis 3 bezeichneten Personen. § 47 Absatz 4 und 5 gilt entsprechend.
 
@@ -625,13 +631,13 @@ Leibrenten, einschließlich Unfallrenten, und Versorgungsrenten gelten in vollem
 
 (2) Zur Abgeltung der Abzüge nach Absatz 1 Nummer 4 wird von der – um die Beträge nach Absatz 1 Nummer 1 und Absatz 4 Nummer 4 geminderten – Summe der positiven Einkünfte ein Betrag in Höhe folgender Vomhundertsätze dieses Gesamtbetrages abgesetzt:
 
-1. für rentenversicherungspflichtige Arbeitnehmer und für Auszubildende 21,3 vom Hundert, höchstens jedoch ein Betrag von jährlich 14 600 Euro,
+1. für rentenversicherungspflichtige Arbeitnehmer und für Auszubildende 21,6 vom Hundert, höchstens jedoch ein Betrag von jährlich 15 100 Euro,
 
-2. für nichtrentenversicherungspflichtige Arbeitnehmer und für Personen im Ruhestandsalter, die einen Anspruch auf Alterssicherung aus einer renten- oder nichtrentenversicherungspflichtigen Beschäftigung oder Tätigkeit haben, 15,5 vom Hundert, höchstens jedoch ein Betrag von jährlich 8 500 Euro,
+2. für nichtrentenversicherungspflichtige Arbeitnehmer und für Personen im Ruhestandsalter, die einen Anspruch auf Alterssicherung aus einer renten- oder nichtrentenversicherungspflichtigen Beschäftigung oder Tätigkeit haben, 15,9 vom Hundert, höchstens jedoch ein Betrag von jährlich 9 000 Euro,
 
-3. für Nichtarbeitnehmer und auf Antrag von der Versicherungspflicht befreite oder wegen geringfügiger Beschäftigung versicherungsfreie Arbeitnehmer 37,7 vom Hundert, höchstens jedoch ein Betrag von jährlich 25 500 Euro,
+3. für Nichtarbeitnehmer und auf Antrag von der Versicherungspflicht befreite oder wegen geringfügiger Beschäftigung versicherungsfreie Arbeitnehmer 38 vom Hundert, höchstens jedoch ein Betrag von jährlich 27 200 Euro,
 
-4. für Personen im Ruhestandsalter, soweit sie nicht erwerbstätig sind, und für sonstige Nichterwerbstätige 15,5 vom Hundert, höchstens jedoch ein Betrag von jährlich 8 500 Euro.
+4. für Personen im Ruhestandsalter, soweit sie nicht erwerbstätig sind, und für sonstige Nichterwerbstätige 15,9 vom Hundert, höchstens jedoch ein Betrag von jährlich 9 000 Euro.
 
 Jeder Einkommensbezieher ist nur einer der in den Nummern 1 bis 4 bezeichneten Gruppen zuzuordnen; dies gilt auch, wenn er die Voraussetzungen nur für einen Teil des Berechnungszeitraums erfüllt. Einer Gruppe kann nur zugeordnet werden, wer nicht unter eine in den jeweils vorhergehenden Nummern bezeichnete Gruppe fällt.
 
@@ -679,11 +685,11 @@ Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 27 des B
 
 (1) Vom Einkommen des Auszubildenden bleiben monatlich anrechnungsfrei
 
-1. für den Auszubildenden selbst 290 Euro,
+1. für den Auszubildenden selbst 330 Euro,
 
-2. für den Ehegatten oder Lebenspartner des Auszubildenden 665 Euro,
+2. für den Ehegatten oder Lebenspartner des Auszubildenden 805 Euro,
 
-3. für jedes Kind des Auszubildenden 605 Euro.
+3. für jedes Kind des Auszubildenden 730 Euro.
 
 Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner und Kinder, die in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann.
 
@@ -693,7 +699,7 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 (4) Abweichend von Absatz 1 werden
 
-1. von der Waisenrente und dem Waisengeld der Auszubildenden, deren Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 210 Euro, anderer Auszubildender 150 Euro monatlich nicht angerechnet,
+1. von der Waisenrente und dem Waisengeld der Auszubildenden, deren Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 255 Euro, anderer Auszubildender 180 Euro monatlich nicht angerechnet,
 
 2. Ausbildungsbeihilfen und gleichartige Leistungen aus öffentlichen Mitteln oder von Förderungseinrichtungen, die hierfür öffentliche Mittel erhalten, sowie Förderungsleistungen ausländischer Staaten voll auf den Bedarf angerechnet; zu diesem Zweck werden Ausbildungsbeihilfen und gleichartige Leistungen, die zugleich aus öffentlichen und privaten Mitteln finanziert und dem Empfänger insgesamt als eine Leistung zugewendet werden, als einheitlich aus öffentlichen Mitteln erbracht behandelt. Voll angerechnet wird auch Einkommen, das aus öffentlichen Mitteln zum Zweck der Ausbildung bezogen wird,
 
@@ -701,7 +707,7 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 4. Unterhaltsleistungen des geschiedenen oder dauernd getrennt lebenden Ehegatten voll auf den Bedarf angerechnet; dasselbe gilt für Unterhaltsleistungen des Lebenspartners nach Aufhebung der Lebenspartnerschaft oder des dauernd getrennt lebenden Lebenspartners.
 
-(5) Zur Vermeidung unbilliger Härten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den Absätzen 1 und 4 ein weiterer Teil des Einkommens des Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 305 Euro monatlich.
+(5) Zur Vermeidung unbilliger Härten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den Absätzen 1 und 4 ein weiterer Teil des Einkommens des Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 370 Euro monatlich.
 
 # § 24 – Berechnungszeitraum für das Einkommen der Eltern und des Ehegatten oder Lebenspartners
 
@@ -717,17 +723,17 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 (1) Es bleiben monatlich anrechnungsfrei
 
-1. vom Einkommen der miteinander verheirateten oder in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd getrennt leben, 2 000 Euro,
+1. vom Einkommen der miteinander verheirateten oder in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd getrennt leben, 2 415 Euro,
 
-2. vom Einkommen jedes Elternteils in sonstigen Fällen sowie vom Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1 330 Euro.
+2. vom Einkommen jedes Elternteils in sonstigen Fällen sowie vom Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1 605 Euro.
 
 (2) (weggefallen)
 
 (3) Die Freibeträge des Absatzes 1 erhöhen sich
 
-1. für den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden Ehegatten oder Lebenspartner des Einkommensbeziehers um 665 Euro,
+1. für den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden Ehegatten oder Lebenspartner des Einkommensbeziehers um 805 Euro,
 
-2. für Kinder des Einkommensbeziehers sowie für weitere dem Einkommensbezieher gegenüber nach dem bürgerlichen Recht Unterhaltsberechtigte um je 605 Euro,
+2. für Kinder des Einkommensbeziehers sowie für weitere dem Einkommensbezieher gegenüber nach dem bürgerlichen Recht Unterhaltsberechtigte um je 730 Euro,
 
 wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann. Die Freibeträge nach Satz 1 mindern sich um das Einkommen des Ehegatten oder Lebenspartners, des Kindes oder des sonstigen Unterhaltsberechtigten.
 
@@ -789,7 +795,7 @@ Ausgenommen sind Gegenstände, soweit der Auszubildende sie aus rechtlichen Grü
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
-1. für den Auszubildenden selbst 8 200 Euro,
+1. für Auszubildende, die das 30. Lebensjahr noch nicht vollendet haben, 15 000 Euro, für Auszubildende, die das 30. Lebensjahr vollendet haben, 45 000 Euro,
 
 2. für den Ehegatten oder Lebenspartner des Auszubildenden 2 300 Euro,
 
@@ -811,7 +817,7 @@ Auf den monatlichen Bedarf des Auszubildenden ist der Betrag anzurechnen, der si
 
 # § 35 – Anpassung der Bedarfssätze und Freibeträge
 
-Die Bedarfssätze, Freibeträge sowie die Vomhundertsätze und Höchstbeträge nach § 21 Absatz 2 sind alle zwei Jahre zu überprüfen und durch Gesetz gegebenenfalls neu festzusetzen. Dabei ist der Entwicklung der Einkommensverhältnisse und der Vermögensbildung, den Veränderungen der Lebenshaltungskosten sowie der finanzwirtschaftlichen Entwicklung Rechnung zu tragen. Die Bundesregierung hat hierüber dem Deutschen Bundestag und dem Bundesrat zu berichten. Die im Jahr 2019 anstehende Berichterstattung erfolgt im Jahr 2021.
+Die Bedarfssätze, Freibeträge sowie die Vomhundertsätze und Höchstbeträge nach § 21 Absatz 2 sind alle zwei Jahre zu überprüfen und durch Gesetz gegebenenfalls neu festzusetzen. Dabei ist der Entwicklung der Einkommensverhältnisse und der Vermögensbildung, den Veränderungen der Lebenshaltungskosten sowie der finanzwirtschaftlichen Entwicklung Rechnung zu tragen. Die Bundesregierung hat hierüber dem Deutschen Bundestag und dem Bundesrat zu berichten.
 
 # § 36 – Vorausleistung von Ausbildungsförderung
 
@@ -853,7 +859,7 @@ Hat der Auszubildende für die Zeit, für die ihm Ausbildungsförderung gezahlt 
 
 (1) Dieses Gesetz wird vorbehaltlich des Absatzes 2 im Auftrag des Bundes von den Ländern ausgeführt.
 
-(2) Die nach § 18 Absatz 1 geleisteten Darlehen werden durch das Bundesverwaltungsamt verwaltet und eingezogen. Die zuständige Bundeskasse nimmt die Aufgaben der Kasse beim Einzug der Darlehen und deren Anmahnung für das Bundesverwaltungsamt wahr.
+(2) Die nach § 18 Absatz 1 geleisteten Darlehen werden durch das Bundesverwaltungsamt verwaltet und eingezogen. Die zuständige Bundeskasse nimmt die Aufgaben der Kasse beim Einzug der Darlehen einschließlich damit verbundener Kosten und Zinsen und deren Anmahnung für das Bundesverwaltungsamt wahr.
 
 (3) Jedes Land bestimmt die zuständigen Behörden für die Entscheidungen nach § 2 Absatz 2 und § 3 Absatz 4 hinsichtlich der Ausbildungsstätten und Fernlehrinstitute, die ihren Sitz in diesem Land haben.
 
@@ -949,7 +955,7 @@ das Amt für Ausbildungsförderung zuständig, in dessen Bezirk die Ausbildungss
 
 # § 46 – Antrag
 
-(1) Über die Leistung von Ausbildungsförderung sowie über die Höhe der Darlehenssumme nach § 18c wird auf schriftlichen Antrag entschieden. Die Länder sind verpflichtet, bis zum 1. August 2016 eine elektronische Antragstellung zu ermöglichen, die den Vorgaben des § 36a Absatz 2 Satz 4 Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entspricht. Der Auszubildende kann die Höhe des Darlehens nach § 18c begrenzen; die Erklärung ist für den Bewilligungszeitraum unwiderruflich.
+(1) Über die Leistung von Ausbildungsförderung wird auf schriftlichen oder elektronischen Antrag entschieden.
 
 (2) Der Antrag ist an das örtlich zuständige Amt für Ausbildungsförderung zu richten.
 
@@ -1205,27 +1211,27 @@ werden durch dieses Gesetz nicht berührt.
 
 (1) Für Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits erworbenem Hochschulabschluss die Leistung von Ausbildungsförderung nach § 7 Absatz 1 bewilligt wurde, ist diese Vorschrift bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden. Für Auszubildende, deren Bewilligungszeitraum vor dem 1. August 2016 begonnen hat, ist § 45 Absatz 1 Satz 2 Nummer 6 bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden.
 
-(2) Die §§ 2, 7, 10, 11, 12, 13, 13a, 14b, 15, 17 Absatz 3, die §§ 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) geänderten Fassung sind erst ab dem 1. August 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.
+(2) Die §§ 5, 10, 12, 13, 13a, 14b, 16, 18a, 21, 23, 25 und 29 in der durch Artikel 1 des Gesetzes vom 15. Juli 2022 (BGBl. I S. 1150) geänderten Fassung sind erst ab dem 1. August 2022 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.
 
-(3) § 17 Absatz 2, die §§ 18, 18a, 18b, 18d, 58 und 60 Nummer 2 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) geänderten Fassung sind erst ab dem 1. September 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.
+(3) Für Bewilligungszeiträume, die vor dem 1. August 2022 begonnen haben, sind die §§ 12, 13, 13a, 14b, 21, 23, 25 und 29 in der bis zum 31. Juli 2022 geltenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2022 sind die in Satz 1 genannten Vorschriften in der ab dem 1. August 2022 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2022 begonnen haben.
 
-(4) Für Bewilligungszeiträume, die vor dem 1. August 2019 begonnen haben, sind die §§ 11, 12, 13, 13a, 14b, 17 Absatz 3, die §§ 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der bis zum 31. Juli 2019 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2019 sind die §§ 12, 13, 13a, 14b, 21, 23 und 25 in der ab dem 1. August 2019 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2019 begonnen haben. Bei der Rückzahlung der Darlehen ist für die Einkommensfreistellung nach § 18a die Regelung des § 21 in der ab dem 1. August 2019 geltenden Fassung abweichend von Satz 1 bereits ab dem 1. September 2019 anzuwenden.
+(4) (weggefallen)
 
 (5) Für Auszubildende, denen für einen vor dem 1. August 2019 begonnenen Ausbildungsabschnitt Förderung geleistet wurde für den Besuch einer staatlichen Akademie, welche Abschlüsse verleiht, die nach Landesrecht Hochschulabschlüssen gleichgestellt sind, sind bis zum Ende dieses Ausbildungsabschnitts § 15 Absatz 2 Satz 1 und § 50 Absatz 2 Satz 4 in der am 31. Juli 2019 geltenden Fassung weiter anzuwenden. § 18 Absatz 4 Satz 1 in der ab dem 1. September 2019 geltenden Fassung gilt für sie mit der Maßgabe, dass ausschließlich die Nummer 2 anzuwenden ist.
 
 (6) Für Darlehensnehmende, denen vor dem 1. September 2019 Förderung nach § 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden Fassung geleistet wurde, sind diese Regelung, § 18 mit Ausnahme des Absatzes 3 Satz 1 und des Absatzes 5c sowie § 18a Absatz 5, die §§ 18b, 58 Absatz 1 Nummer 3 und § 60 Nummer 2 in der am 31. August 2019 geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die Förderungsleistungen jeweils auch noch über den 31. August 2019 hinaus erbracht werden.
 
-(7) Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit Ausnahme von Bankdarlehen nach § 18c, können binnen einer Frist von sechs Monaten nach diesem Datum jeweils durch schriftliche oder elektronische Erklärung gegenüber dem Bundesverwaltungsamt verlangen, dass für die Rückzahlung des gesamten Darlehens § 18 Absatz 12 und § 18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind. Für Darlehensnehmende, die den dort genannten Rückzahlungszeitraum von 20 Jahren überschritten haben, gilt Satz 1 mit der Maßgabe, dass für den Erlass nach § 18 Absatz 12 Satz 1 in der ab dem 1. September 2019 anzuwendenden Fassung die Voraussetzungen für den gesamten Zeitraum vor Äußerung des Verlangens vorgelegen haben müssen.
+(7) Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit Ausnahme von Bankdarlehen nach § 18c, können binnen einer Frist von sechs Monaten nach diesem Datum jeweils durch schriftliche oder elektronische Erklärung gegenüber dem Bundesverwaltungsamt verlangen, dass für die Rückzahlung des gesamten Darlehens § 18 Absatz 12 und § 18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind.
 
-(8) Abweichend von § 18 Absatz 3 Satz 1 und § 18c Absatz 6 und 7 beträgt die Rate bis zum 31. März 2020 105 Euro.
+(8) (weggefallen)
 
 (8a) § 21 Absatz 4 Nummer 5 ist ab dem 1. April 2022 nicht mehr anzuwenden.
 
 (8b) Die Bundesregierung wird ermächtigt, die Anwendung des § 21 Absatz 4 Nummer 5 durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum Ablauf des 31. Dezember 2022 zu verlängern, soweit dies auf Grund fortbestehender Auswirkungen der COVID-19-Pandemie in der Bundesrepublik Deutschland erforderlich ist.
 
-(9) Für Bewilligungszeiträume, die vor dem 1. August 2020 begonnen haben, sind die §§ 12, 13, 14b Absatz 1 Satz 1, die §§ 23, 25 und 29 in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2020 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2020 begonnen haben.
+(9) (weggefallen)
 
-(10) Für Bewilligungszeiträume, die vor dem 1. August 2021 begonnen haben, sind die §§ 23 und 25 in der bis zum 31. Juli 2021 anzuwendenden Fassung weiter anzuwenden. Ab dem 1. Oktober 2021 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2021 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2021 begonnen haben.
+(10) (weggefallen)
 
 (+++ Hinweis: Zur Verlängerung der in Abs. 8a geregelten Anwendung des § 21 Abs. 4 Nr. 5 bis zum Ablauf des 31. Dezember 2022 vgl. V v. 10.3.2022 I 426 +++)
 
