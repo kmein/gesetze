@@ -635,7 +635,7 @@ von der Wahlberechtigung oder der Wählbarkeit ausgeschlossen ist
 
 b)
 
-als Unionsbürger (§ 6 Absatz 3 Satz 1 des Europa-wahlgesetzes) bei der Wahl des Europäischen Parlaments von Amts wegen in ein Wählerverzeichnis im Inland einzutragen ist; die Gebietskörperschaft oder der Wahlkreis im Herkunftsmitgliedstaat, wo die betroffene Person zuletzt in ein Wählerverzeichnis eingetragen war
+als Unionsbürger (§ 6 Absatz 3 Satz 1 des Europawahlgesetzes) bei der Wahl des Europäischen Parlaments von Amts wegen in ein Wählerverzeichnis im Inland einzutragen ist; die Gebietskörperschaft oder der Wahlkreis im Herkunftsmitgliedstaat, wo die betroffene Person zuletzt in ein Wählerverzeichnis eingetragen war
 
 2104 bis 2106,
 
