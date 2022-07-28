@@ -700,6 +700,372 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 (3) Die Daten von Personen nach Absatz 1 Satz 1 Nummer 8, 14 und 15, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
 
+# § 7 – Abruf einer beschränkten Selbstauskunft aus dem Melderegister
+
+(1) Die Verwaltungsportale können für die elektronische Erteilung einer Selbstauskunft aus dem Melderegister durch die zuständige Meldebehörde nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in Verbindung mit § 10 des Bundesmeldegesetzes beschränkt auf die zu der Person im Melderegister gespeicherten Daten auf Antrag der betroffenen Person bei der für die alleinigen Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:  
+  
+
+ 1.
+
+Familienname
+
+0101 bis 0106,
+
+ 2.
+
+frühere Namen
+
+0201 bis 0206,
+
+ 3.
+
+Vornamen unter Kennzeichnung des gebräuchlichen Vornamens
+
+0301 bis 0305,
+
+ 4.
+
+Doktorgrad
+
+0401,
+
+ 5.
+
+Ordensname, Künstlername
+
+0501, 0502,
+
+ 6.
+
+Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat
+
+0601 bis 0606,
+
+ 7.
+
+Geschlecht
+
+0701,
+
+ 8.
+
+zum gesetzlichen Vertreter:
+
+0001, 0916,
+
+ 
+
+a)
+
+Familienname
+
+0902 bis 0903,
+
+ 
+
+b)
+
+Vornamen
+
+0904,
+
+ 
+
+c)
+
+Doktorgrad
+
+0905,
+
+ 
+
+d)
+
+Anschrift
+
+0907a,  
+1200 bis 1212,
+
+ 
+
+e)
+
+Geburtsdatum
+
+0906,
+
+ 
+
+f)
+
+Geschlecht
+
+0917,
+
+ 
+
+g)
+
+Sterbedatum
+
+0915,
+
+ 9.
+
+derzeitige Staatsangehörigkeiten
+
+1001 bis 1004,
+
+10\.
+
+rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft
+
+1101, 1104,
+
+11\.
+
+derzeitige Anschriften,  
+frühere Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung und der letzten Nebenwohnungen außerhalb des Zuständigkeitsbereichs der Meldebehörde, gekennzeichnet nach Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im Inland
+
+1200 bis 1223,
+
+12\.
+
+Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer Wohnung im Inland sowie Datum des letzten Zuzugs aus dem Ausland
+
+1301 bis 1314,
+
+13\.
+
+Familienstand, bei Verheirateten oder Lebenspartnern zusätzlich Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat
+
+1401 bis 1409,
+
+14\.
+
+zum Ehegatten oder Lebenspartner
+
+0001,
+
+ 
+
+a)
+
+Familienname
+
+1501 bis 1502,  
+1517 bis 1518,
+
+ 
+
+b)
+
+Vornamen
+
+1503, 1519,
+
+ 
+
+c)
+
+Geburtsname
+
+1502a bis 1502c,  
+1518a bis 1518c,
+
+ 
+
+d)
+
+Doktorgrad
+
+1504, 1520,
+
+ 
+
+e)
+
+Geburtsdatum
+
+1505, 1521,
+
+ 
+
+f)
+
+Geschlecht
+
+1506, 1522,
+
+ 
+
+g)
+
+derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb des Zuständigkeitsbereichs der Meldebehörde
+
+1508, 1524,  
+1200 bis 1213a,
+
+ 
+
+h)
+
+Sterbedatum
+
+1516, 1532,
+
+15\.
+
+zu minderjährigen Kindern
+
+0001,
+
+ 
+
+a)
+
+Familienname
+
+1601 bis 1602,
+
+ 
+
+b)
+
+Vornamen
+
+1603,
+
+ 
+
+c)
+
+Geburtsdatum
+
+1604,
+
+ 
+
+d)
+
+Geschlecht
+
+1604a,
+
+ 
+
+e)
+
+Anschrift im Inland
+
+1200 bis 1212,
+
+ 
+
+f)
+
+Sterbedatum
+
+1605,
+
+16\.
+
+Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte
+
+1700 bis 1711,  
+1715 bis 1719,
+
+17\.
+
+die AZR-Nummer
+
+1712, 1712a,
+
+18\.
+
+Auskunfts- und Übermittlungssperren mit Ausnahme der Auskunftssperren nach § 51 Absatz 5 Nummer 1 und 2 des Bundesmeldegesetzes
+
+1801 bis 1802,
+
+19\.
+
+die Tatsache, dass die betroffene Person
+
+ 
+
+ 
+
+a)
+
+von der Wahlberechtigung oder der Wählbarkeit ausgeschlossen ist
+
+2101 bis 2103,
+
+ 
+
+b)
+
+als Unionsbürger (§ 6 Absatz 3 Satz 1 des Europawahlgesetzes) bei der Wahl des Europäischen Parlaments von Amts wegen in ein Wählerverzeichnis im Inland einzutragen ist; die Gebietskörperschaft oder der Wahlkreis im Herkunftsmitgliedstaat, wo die betroffene Person zuletzt in ein Wählerverzeichnis eingetragen war
+
+2104 bis 2106,
+
+20\.
+
+die Zugehörigkeit zu einer steuererhebenden Religionsgesellschaft sowie das Datum des Eintritts und Austritts
+
+1102, 1103,
+
+21\.
+
+die Identifikationsnummer nach § 139b der Abgabenordnung und bis zu deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung
+
+2701, 2702,
+
+22\.
+
+die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist
+
+2301, 2302,
+
+23\.
+
+die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann
+
+2401,
+
+24\.
+
+die Tatsache, dass eine waffenrechtliche Erlaubnis erteilt oder ein Waffenbesitzverbot erlassen worden ist, sowie die Behörde, die diese Tatsache mitteilt, mit Angabe des Datums, an dem die waffenrechtliche Erlaubnis erstmals erteilt oder das Waffenbesitzverbot erlassen worden ist
+
+2601, 2602,  
+2603, 2604,
+
+25\.
+
+die Tatsache, dass eine sprengstoffrechtliche Erlaubnis oder ein Befähigungsschein nach § 20 des Sprengstoffgesetzes erteilt worden ist, sowie die Behörde, die diese Tatsache mitteilt, mit Angabe des Datums der erstmaligen Erteilung
+
+2801, 2802,
+
+26\.
+
+den Namen und die Anschrift des Eigentümers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, auch den Namen und die Anschrift des Wohnungsgebers
+
+3001, 3002,
+
+27\.
+
+die Tatsache, dass ein Einwohner bereits vor der Wehrerfassung seines Jahrganges erfasst worden ist
+
+3101\.
+
+  
+  
+Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsportale die dort genannten Daten zum Abruf im automatisierten Verfahren bereit.
+
+(2) Die Meldebehörde der alleinigen Wohnung oder Hauptwohnung oder der Nebenwohnung übermittelt mit den Daten nach Absatz 1 Satz 2 die nach § 55 Absatz 1 des Bundesmeldegesetzes durch Landesrecht bestimmten zusätzlich gespeicherten Daten.
+
+(3) Die Daten von Personen nach Absatz 1 Satz 1 Nummer 8, 14 und 15, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
+
 # § 8 – Abruf, Eintragung oder Löschung der Daten zu Übermittlungssperren
 
 (1) Die Verwaltungsportale können nach Artikel 15 Absatz 1 der Datenschutz-Grundverordnung für die Erteilung einer Auskunft über das Bestehen einer Übermittlungssperre nach § 36 Absatz 2, § 42 Absatz 3 Satz 2, § 50 Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie einer nach § 55 Absatz 5 des Bundesmeldegesetzes durch Landesrecht bestimmten Übermittlungssperre durch die zuständige Meldebehörde auf Antrag der betroffenen Person bei der für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
@@ -998,6 +1364,294 @@ Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegeset
 | 3\. | Anschrift der Wohnung, gekennzeichnet nach Haupt- und Nebenwohnung                                         | 1201 bis 1213, |
 | 4\. | Auszugsdatum, sofern es vom Einzugsdatum abweicht                                                          |         1306\. |
 
+Zusätzlich zu den Daten nach Satz 1 werden unter den Voraussetzungen des § 8 Absatz 2 die Daten nach § 8 Absatz 2 Nummer 1 und 2 übermittelt.
+
+(3) Das Verwaltungsportal übermittelt den Code, den die meldepflichtige Person nach § 23a Absatz 3 des Bundesmeldegesetzes erhalten und gegenüber dem Verwaltungsportal angegeben hat, elektronisch an die Zuzugsmeldebehörde.
+
+# § 9 – Elektronische Anmeldung
+
+(1) Die Verwaltungsportale können für die elektronische Anmeldung auf Antrag der meldepflichtigen Person bei der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde nach § 23a Absatz 1 des Bundesmeldegesetzes die folgenden Daten abrufen:  
+  
+
+ 1.
+
+Familienname
+
+0101 bis 0106,
+
+ 2.
+
+Geburtsname
+
+0201 bis 0202,
+
+ 3.
+
+Vornamen unter Kennzeichnung des gebräuchlichen Vornamens
+
+0301, 0302,
+
+ 4.
+
+Doktorgrad
+
+0401,
+
+ 5.
+
+Ordensname, Künstlername
+
+0501, 0502,
+
+ 6.
+
+Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch den Staat
+
+0601 bis 0603,
+
+ 7.
+
+Geschlecht
+
+0701,
+
+ 8.
+
+zum gesetzlichen Vertreter:
+
+0001,
+
+ 
+
+a)
+
+Familienname
+
+0902 bis 0903,
+
+ 
+
+b)
+
+Vornamen
+
+0904,
+
+ 
+
+c)
+
+Doktorgrad
+
+0905,
+
+ 
+
+d)
+
+Anschrift
+
+0907a,  
+1200 bis 1212,
+
+ 
+
+e)
+
+Geburtsdatum
+
+0906,
+
+ 
+
+f)
+
+Geschlecht
+
+0917,
+
+ 9.
+
+derzeitige Staatsangehörigkeiten
+
+1001,
+
+10\.
+
+rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft
+
+1101, 1104,
+
+11\.
+
+derzeitige Anschriften
+
+1201 bis 1213,
+
+12\.
+
+Einzugsdatum
+
+1301, 1301a, 1305,
+
+13\.
+
+Familienstand, bei Verheirateten oder Lebenspartnern zusätzlich Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat
+
+1401 bis 1403, 1408, 1409,
+
+14\.
+
+zum Ehegatten oder Lebenspartner:
+
+0001,
+
+ 
+
+a)
+
+Familienname
+
+1501 bis 1502,  
+1517 bis 1518,
+
+ 
+
+b)
+
+Vornamen
+
+1503, 1519,
+
+ 
+
+c)
+
+Geburtsname
+
+1502a bis 1502c,  
+1518a bis 1518c,
+
+ 
+
+d)
+
+Doktorgrad
+
+1504, 1520,
+
+ 
+
+e)
+
+Geburtsdatum
+
+1505, 1521,
+
+ 
+
+f)
+
+Geschlecht
+
+1506, 1522,
+
+ 
+
+g)
+
+derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb des Zuständigkeitsbereichs der Meldebehörde
+
+1508, 1524,  
+1200 bis 1213a,
+
+15\.
+
+zu minderjährigen Kindern:
+
+0001,
+
+ 
+
+a)
+
+Familienname
+
+1601 bis 1602,
+
+ 
+
+b)
+
+Vornamen
+
+1603,
+
+ 
+
+c)
+
+Geburtsdatum
+
+1604,
+
+ 
+
+d)
+
+Geschlecht
+
+1604a,
+
+ 
+
+e)
+
+Anschrift im Inland
+
+1200 bis 1212,
+
+16\.
+
+Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises des vorläufigen Personalausweises, des Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte
+
+1700 bis 1709,  
+1715 bis 1717,
+
+17\.
+
+Auskunfts- und Übermittlungssperren
+
+1801 bis 1802,
+
+18\.
+
+AZR-Nummer
+
+1712,
+
+19\.
+
+für die Ausstellung von Pässen und Ausweisen die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist
+
+2301, 2302.
+
+  
+  
+Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegesetzes hält die Meldebehörde die in Satz 1 genannten Daten einer Person für die Verwaltungsportale zum Abruf im automatisierten Verfahren bereit. Die Daten von Personen nach Absatz 1 Satz 1 Nummer 8, 14 und 15, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
+
+(2) Nachdem die meldepflichtige Person die Richtigkeit der von der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde übermittelten Daten nach Absatz 1 Satz 1 bestätigt hat, übermittelt das Verwaltungsportal nach § 23a Absatz 2 des Bundesmeldegesetzes diese Daten sowie zusätzlich die folgenden von der meldepflichtigen Person gegenüber dem Verwaltungsportal angegebenen Daten an die Zuzugsmeldebehörde:  
+  
+
+|     |                                                                                                            |                |
+|:----|:-----------------------------------------------------------------------------------------------------------|---------------:|
+| 1\. | Name und Anschrift des Wohnungsgebers und wenn dieser nicht Eigentümer ist, auch den Namen des Eigentümers |    3001, 3002, |
+| 2\. | Einzugsdatum                                                                                               |          1301, |
+| 3\. | Anschrift der Wohnung, gekennzeichnet nach Haupt- und Nebenwohnung                                         | 1201 bis 1213, |
+| 4\. | Auszugsdatum, sofern es vom Einzugsdatum abweicht                                                          |         1306\. |
+
+  
+  
 Zusätzlich zu den Daten nach Satz 1 werden unter den Voraussetzungen des § 8 Absatz 2 die Daten nach § 8 Absatz 2 Nummer 1 und 2 übermittelt.
 
 (3) Das Verwaltungsportal übermittelt den Code, den die meldepflichtige Person nach § 23a Absatz 3 des Bundesmeldegesetzes erhalten und gegenüber dem Verwaltungsportal angegeben hat, elektronisch an die Zuzugsmeldebehörde.

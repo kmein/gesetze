@@ -211,6 +211,8 @@ und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine in
 
 (2) Die Befugnisse der Länder und anderer Polizeibehörden des Bundes bleiben unberührt. Die zuständigen obersten Landesbehörden und, soweit zuständig, anderen Polizeibehörden des Bundes sind unverzüglich zu benachrichtigen, wenn das Bundeskriminalamt die Aufgabe nach Absatz 1 wahrnimmt. Die Aufgabenwahrnehmung erfolgt in gegenseitigem Benehmen. Stellt das Bundeskriminalamt bei der Aufgabenwahrnehmung nach Absatz 1 Satz 1 Nummer 2 die Zuständigkeit einer Landespolizeibehörde fest, so gibt es diese Aufgabe an diese Polizeibehörde ab, wenn nicht ein Fall des Absatzes 1 Satz 1 Nummer 1 oder Nummer 3 vorliegt.
 
+(3) Das Bundeskriminalamt ist unbeschadet der Absätze 1 und 2 zuständige Behörde nach § 1 Absatz 1 des Terroristische-Online-Inhalte-Bekämpfungs-Gesetzes für den Erlass und die Überprüfung von Entfernungsanordnungen nach den Artikeln 3 und 4 der Verordnung (EU) 2021/784 des Europäischen Parlaments und des Rates vom 29. April 2021 zur Bekämpfung der Verbreitung terroristischer Online-Inhalte (ABl. L 172 vom 17.5.2021, S. 79).
+
 # § 6 – Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
 
 (1) Unbeschadet der Rechte des Präsidenten des Deutschen Bundestages und der Zuständigkeit der Bundespolizei und der Polizeien der Länder obliegt dem Bundeskriminalamt
