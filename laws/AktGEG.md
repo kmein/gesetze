@@ -277,6 +277,12 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 
 (3) Der jeweilige Mindestanteil von Frauen und Männern im Aufsichtsrat nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
 
+# § 26n – Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+
+(1) Für Hauptversammlungen, die bis einschließlich 31. August 2023 einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats entscheiden, dass die Versammlung als virtuelle Hauptversammlung nach § 118a des Aktiengesetzes abgehalten wird.
+
+(2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4 des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind erstmals auf Hauptversammlungen anzuwenden, die ab dem 27. Juli 2022 einberufen werden.
+
 # § 27 – Entscheidung über die Zusammensetzung des Aufsichtsrats
 
 § 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für Gesellschaften mit beschränkter Haftung und bergrechtliche Gewerkschaften.

@@ -182,9 +182,7 @@ die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzog
 
 die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann,
 
-6. für Zwecke der Suchdienste
-
-die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen,
+6. (weggefallen)
 
 7. für waffenrechtliche Verfahren
 
@@ -218,9 +216,11 @@ die Tatsache, dass ein Einwohner bereits vor der Erfassung seines Jahrganges erf
 
 # § 5 – Zweckbindung der Daten
 
-(1) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten nur für die dort genannten Zwecke verarbeiten. Sie haben durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur nach Maßgabe des Satzes 1 verarbeitet werden.
+(1) Die Meldebehörde darf die Daten, die nach § 3 Absatz 1 Nummer 17a gespeichert sind, nur noch im Verkehr mit der Registerbehörde für das Ausländerzentralregister nutzen, sobald sie von der Ausländerbehörde nach § 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
 
-(2) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit zusammen mit den in § 3 Absatz 1 bezeichneten Daten verarbeitet werden, als dies zur Erfüllung der jeweiligen Aufgabe erforderlich ist. § 34 Absatz 3 und 4 bleibt unberührt mit der Maßgabe, dass
+(2) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten nur für die dort genannten Zwecke verarbeiten. Sie haben durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur nach Maßgabe des Satzes 1 verarbeitet werden.
+
+(3) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit zusammen mit den in § 3 Absatz 1 bezeichneten Daten verarbeitet werden, als dies zur Erfüllung der jeweiligen Aufgabe erforderlich ist. § 34 Absatz 3 und 4 bleibt unberührt mit der Maßgabe, dass
 
 1. die in § 3 Absatz 2 Nummer 1 genannten Daten nur an die Stellen übermittelt werden dürfen, die für die Vorbereitung und Durchführung der dort genannten Wahlen und Abstimmungen zuständig sind, und
 
@@ -346,7 +346,7 @@ e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 3 A
 
 (1) Die Meldebehörde hat gespeicherte Daten zu löschen, wenn sie zur Erfüllung ihrer Aufgaben nicht mehr erforderlich sind. Das Gleiche gilt, wenn bereits die Speicherung der Daten unzulässig war.
 
-(2) Daten nach § 3 Absatz 2 Nummer 6 sind unverzüglich nach Übermittlung an die Suchdienste zu löschen. Die Daten nach § 3 Absatz 1 Nummer 11 und Absatz 2 Nummer 2 sind nach Ablauf des auf den Wegzug oder den Tod des Einwohners folgenden Kalenderjahres zu löschen. Die Daten nach § 3 Absatz 1 Nummer 17 sind fünf Jahre nach dem Ablauf der Gültigkeit des Ausweisdokuments, auf das sie sich beziehen, zu löschen. Die weiteren Daten weggezogener oder verstorbener Einwohner, die nicht nach § 13 Absatz 1 aufbewahrt werden, sind 30 Tage nach dem Wegzug und der Auswertung der Rückmeldung oder nach dem Tod des Einwohners zu löschen.
+(2) Die Daten nach § 3 Absatz 1 Nummer 11 und Absatz 2 Nummer 2 sind nach Ablauf des auf den Wegzug oder den Tod des Einwohners folgenden Kalenderjahres zu löschen. Die Daten nach § 3 Absatz 1 Nummer 17 sind fünf Jahre nach dem Ablauf der Gültigkeit des Ausweisdokuments, auf das sie sich beziehen, zu löschen. Die weiteren Daten weggezogener oder verstorbener Einwohner, die nicht nach § 13 Absatz 1 aufbewahrt werden, sind 30 Tage nach dem Wegzug und der Auswertung der Rückmeldung oder nach dem Tod des Einwohners zu löschen.
 
 (3) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse der betroffenen Person an der Löschung als gering anzusehen, besteht das Recht der betroffenen Person auf Löschung personenbezogener Daten und die Pflicht der Meldebehörde zur Löschung personenbezogener Daten nach Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679.
 
@@ -396,7 +396,7 @@ Hierzu hat die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie
 
 # § 18a – Meldedatensatz zum Abruf
 
-(1) Die Meldebehörde stellt der betroffenen Person auf deren Antrag die Meldedaten nach § 18 Absatz 1 und 2 zum Zweck der Weiterleitung in einer elektronischen Verwaltungsleistung nach dem Onlinezugangsgesetz im Wege des automatisierten Abrufs bereit. Hierzu hat die meldepflichtige Person die in § 18 Absatz 1 Satz 2 genannten Daten zu übermitteln. Die Meldedaten werden als unveränderbarer maschinenlesbarer Datensatz (Meldedatensatz) bereitgestellt. Aus dem Meldedatensatz muss der Zeitpunkt des Abrufs erkennbar sein.
+(1) Die Meldebehörde stellt der betroffenen Person auf deren Antrag die Meldedaten nach § 18 Absatz 1 und 2 zum Zweck der Weiterleitung in einer elektronischen Verwaltungsleistung nach dem Onlinezugangsgesetz im Wege des automatisierten Abrufs bereit. Hierzu hat die meldepflichtige Person die in § 18 Absatz 1 Satz 3 genannten Daten zu übermitteln. Die Meldedaten werden als unveränderbarer maschinenlesbarer Datensatz (Meldedatensatz) bereitgestellt. Aus dem Meldedatensatz muss der Zeitpunkt des Abrufs erkennbar sein.
 
 (2) Der Meldedatensatz wird unentgeltlich zum Abruf bereitgestellt.
 
@@ -466,7 +466,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 # § 23a – Elektronische Anmeldung
 
-(1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten Daten elektronisch anfordern. Hierzu hat sie die in § 18 Absatz 1 Satz 2 genannten Daten zu übermitteln. Die Wegzugsmeldebehörde ist verpflichtet, diese Daten in elektronischer und unveränderbarer Form zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein.
+(1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten Daten elektronisch anfordern. Hierzu hat sie die in § 18 Absatz 1 Satz 3 genannten Daten zu übermitteln. Die Wegzugsmeldebehörde ist verpflichtet, diese Daten in elektronischer und unveränderbarer Form zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein.
 
 (2) Die meldepflichtige Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen, um die Angaben nach § 19 Absatz 3 Nummer 1 bis 3 zu ergänzen, elektronisch zu bestätigen und an die Zuzugsmeldebehörde zu übermitteln.
 
@@ -476,7 +476,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 # § 24 – Datenerhebung, Meldebestätigung
 
-(1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5, 6 und 10 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
+(1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5 und 10 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
 
 (2) Die meldepflichtige Person erhält unentgeltlich eine schriftliche oder, sofern die An- oder Abmeldung elektronisch durchgeführt wird, eine elektronische Bestätigung über die An- oder Abmeldung (amtliche Meldebestätigung). Diese darf nur folgende Daten enthalten:
 
@@ -1045,41 +1045,7 @@ h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 (5) Eine Datenübermittlung nach den Absätzen 1 und 2 ist nur zulässig, wenn sichergestellt ist, dass beim Empfänger ausreichende Maßnahmen zum Datenschutz getroffen sind. Die Feststellung hierüber trifft eine durch Landesrecht zu bestimmende Behörde.
 
-# § 43 – Datenübermittlungen an die Suchdienste
-
-(1) Die Meldebehörde darf den Suchdiensten zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben regelmäßig folgende Daten von den Personen, die aus den in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen, übermitteln:
-
-1. Familienname,
-
-2. frühere Namen,
-
-3. Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
-
-4. Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,
-
-5. derzeitige und frühere Anschriften,
-
-6. Anschrift am 1. September 1939.
-
-(2) Die Meldebehörde darf den Suchdiensten zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben über die in Absatz 1 genannten Daten hinaus folgende Daten durch das automatisierte Abrufverfahren übermitteln:
-
-1. Geschlecht,
-
-2. derzeitige Staatsangehörigkeiten,
-
-3. Einzugsdatum und Auszugsdatum.
-
-Als Auswahldaten für Abrufe dürfen die Suchdienste neben den nach § 38 Absatz 4 Satz 1 allen öffentlichen Stellen zur Verfügung stehenden Daten die folgenden verwenden:
-
-1. bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den Staat,
-
-2. Einzugsdatum und Auszugsdatum,
-
-3. derzeitige Staatsangehörigkeiten,
-
-4. Familienstand,
-
-5. Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.
+# § 43 – (weggefallen)
 
 # § 44 – Einfache Melderegisterauskunft
 
@@ -1365,7 +1331,7 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 
 
 (3) Durch Landesrecht können die Einrichtung, die Führung und die Aufgaben von zentralen Meldedatenbeständen geregelt werden. In diesem Fall gelten die §§ 4, 5, 6 Absatz 2 Satz 1 und 2 sowie die §§ 7, 8, 10, 11 und 40 entsprechend.
 
-(4) Durch Landesrecht kann das Muster der Meldescheine für die Meldungen nach § 17 Absatz 1 und 2 Satz 1, der einfachen Meldebescheinigung nach § 18 Absatz 1, der Meldebestätigung nach § 24 Absatz 2 und der besonderen Meldescheine nach § 30 Absatz 1 bestimmt werden.
+(4) Durch Landesrecht kann das Muster der Meldescheine für die Meldungen nach § 17 Absatz 1 und 2 Satz 1, der Meldebescheinigung nach § 18 Absatz 1, der Meldebestätigung nach § 24 Absatz 2 und der besonderen Meldescheine nach § 30 Absatz 1 bestimmt werden.
 
 (5) Durch Landesrecht können regelmäßige Datenübermittlungen nach § 36 Absatz 1 im Rahmen der Erfüllung von Aufgaben der Länder geregelt werden, soweit dadurch Anlass und Zweck der Übermittlung festgelegt und der Empfänger sowie die zu übermittelnden Daten bestimmt werden.
 
@@ -1387,7 +1353,7 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 
 
 3. zur Durchführung von automatisierten Abrufen nach den §§ 34a, 38 und 39 die Voraussetzungen, unter denen ein Datenabruf erfolgen darf, sowie die Form und den Inhalt der Daten festzulegen,
 
-4. zur Durchführung von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal nach § 3 Absatz 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138), die zur Erbringung von elektronischen Verwaltungsleistungen nach diesem Gesetz erforderlich sind, die zu übermittelnden Daten, ihre Form sowie das Nähere über das Verfahren der Übermittlung festzulegen,
+4. zur Durchführung von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal nach § 2 Absatz 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138), die zur Erbringung von elektronischen Verwaltungsleistungen nach diesem Gesetz erforderlich sind, die zu übermittelnden Daten, ihre Form sowie das Nähere über das Verfahren der Übermittlung festzulegen,
 
 5. zur Durchführung von Melderegisterauskünften über Portale nach § 49 Absatz 3 die Voraussetzungen und das Verfahren zur Zulassung von Portalen zu regeln und
 

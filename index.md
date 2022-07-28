@@ -106,6 +106,7 @@
 - [AgrarAbsFDG](laws/AgrarAbsFDG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für Agrarerzeugnisse
 - [AgrarAusbStEignV](laws/AgrarAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice
 - [AgrarAusbV](laws/AgrarAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft Agrarservice*)
+- [AgrarErzAnpBeihV](laws/AgrarErzAnpBeihV.md) Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren
 - [AgrarOLkG](laws/AgrarOLkG.md) Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 - [AgrarOLkV](laws/AgrarOLkV.md) Verordnung zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 - [AgrarservMeistPrV](laws/AgrarservMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin
@@ -898,6 +899,7 @@
 - [BKrFQV](laws/BKrFQV.md) Verordnung zur Durchführung des Berufskraftfahrerqualifikationsgesetzes
 - [BKrFQVAbluaÄndVBer](laws/BKrFQVAbluaÄndVBer.md) Berichtigung der Verordnung zur Ablösung der Berufskraftfahrer-Qualifikations-Verordnung und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften
 - [BKRG](laws/BKRG.md) Bundeskrebsregisterdatengesetz
+- [BKRKleinBeihBReg 2022](laws/BKRKleinBeihBReg_2022.md) Regelung zur vorübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich der Bundesrepublik Deutschland auf der Grundlage des Befristeten Krisenrahmens (BKR) der Europäischen Kommission für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine
 - [BKV](laws/BKV.md) Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
 - [BKV](laws/BKV.md) Berufskrankheiten-Verordnung
 - [BKWid/BVtrAnO](laws/BKWid_BVtrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz von Beschäftigten des Bundeskanzleramtes

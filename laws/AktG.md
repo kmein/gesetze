@@ -1389,21 +1389,21 @@ Für Informationen zur Einberufung der Hauptversammlung gilt § 125.
 
 # § 67f – Kosten; Verordnungsermächtigung
 
-(1) Vorbehaltlich der Regelungen in Satz 2 trägt die Gesellschaft die Kosten für die nach den §§ 67a bis 67d, auch in Verbindung mit § 125 Absatz 1, 2 und 5, und nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2 notwendigen Aufwendungen der Intermediäre, soweit diese auf Methoden beruhen, die dem jeweiligen Stand der Technik entsprechen. Die folgenden Kosten sind hiervon ausgenommen:
+(1) Vorbehaltlich der Regelungen in Satz 2 trägt die Gesellschaft die Kosten für die nach den §§ 67a bis 67d, auch in Verbindung mit § 125 Absatz 1, 2 und 5, und nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2 und § 118a Absatz 1 Satz 4 notwendigen Aufwendungen der Intermediäre, soweit diese auf Methoden beruhen, die dem jeweiligen Stand der Technik entsprechen. Die folgenden Kosten sind hiervon ausgenommen:
 
 1. die Kosten für die notwendigen Aufwendungen der Letztintermediäre für die nichtelektronische Übermittlung von Informationen an den Aktionär gemäß § 67b Absatz 1 Satz 1 und
 
 2. bei der Gesellschaft, die Namensaktien ausgegeben hat, die Kosten für die notwendigen Aufwendungen der Intermediäre für die Übermittlung und Weiterleitung von Informationen vom im Aktienregister eingetragenen Intermediär an den Aktionär nach § 125 Absatz 2 und 5 in Verbindung mit den §§ 67a und 67b.
 
-Die Intermediäre legen die Entgelte für die Aufwendungen für jede Dienstleistung, die nach den §§ 67a bis 67e, § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2, § 125 Absatz 1 Satz 1, Absatz 2 und 5 und § 129 Absatz 5 erbracht wird, offen. Die Offenlegung erfolgt getrennt gegenüber der Gesellschaft und denjenigen Aktionären, für die sie die Dienstleistung erbringen. Unterschiede zwischen den Entgelten für die Ausübung von Rechten im Inland und in grenzüberschreitenden Fällen sind nur zulässig, wenn sie gerechtfertigt sind und den Unterschieden bei den tatsächlichen Kosten, die für die Erbringung der Dienstleistungen entstanden sind, entsprechen.
+Die Intermediäre legen die Entgelte für die Aufwendungen für jede Dienstleistung, die nach den §§ 67a bis 67e, § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2, § 118a Absatz 1 Satz 4, § 125 Absatz 1 Satz 1, Absatz 2 und 5 und § 129 Absatz 5 erbracht wird, offen. Die Offenlegung erfolgt getrennt gegenüber der Gesellschaft und denjenigen Aktionären, für die sie die Dienstleistung erbringen. Unterschiede zwischen den Entgelten für die Ausübung von Rechten im Inland und in grenzüberschreitenden Fällen sind nur zulässig, wenn sie gerechtfertigt sind und den Unterschieden bei den tatsächlichen Kosten, die für die Erbringung der Dienstleistungen entstanden sind, entsprechen.
 
-(2) Unbeschadet sonstiger Regelungen nach diesem Gesetz sind für die Pflichten nach den §§ 67a bis 67e, 125 Absatz 1 Satz 1, Absatz 2 und 5 sowie für die Bestätigungen nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2 und § 129 Absatz 5 die Anforderungen der Durchführungsverordnung (EU) 2018/1212 zu beachten.
+(2) Unbeschadet sonstiger Regelungen nach diesem Gesetz sind für die Pflichten nach den §§ 67a bis 67e, 125 Absatz 1 Satz 1, Absatz 2 und 5 sowie für die Bestätigungen nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2, § 118a Absatz 1 Satz 4 und § 129 Absatz 5 die Anforderungen der Durchführungsverordnung (EU) 2018/1212 zu beachten.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen durch Rechtsverordnung die Einzelheiten für den Ersatz von Aufwendungen der Intermediäre durch die Gesellschaft für die folgenden Handlungen zu regeln:
 
 1. die Übermittlung der Angaben gemäß § 67 Absatz 4,
 
-2. die Übermittlung und Weiterleitung von Informationen und Mitteilungen gemäß den §§ 67a bis 67d, 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2 und § 129 Absatz 5 und
+2. die Übermittlung und Weiterleitung von Informationen und Mitteilungen gemäß den §§ 67a bis 67d, 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2, § 118a Absatz 1 Satz 4 und § 129 Absatz 5 und
 
 3. die Vervielfältigung, Übermittlung und Weiterleitung der Mitteilungen gemäß § 125 Absatz 1, 2 und 5 in Verbindung mit den §§ 67a und 67b.
 
@@ -1441,7 +1441,7 @@ Ist die Ausübung von Rechten aus der Aktie davon abhängig, dass der Aktionär 
 
 3. wenn der Erwerb geschieht, um Aktionäre nach § 305 Abs. 2, § 320b oder nach § 29 Abs. 1, § 125 Satz 1 in Verbindung mit § 29 Abs. 1, § 207 Abs. 1 Satz 1 des Umwandlungsgesetzes abzufinden,
 
-4. wenn der Erwerb unentgeltlich geschieht oder ein Kreditinstitut mit dem Erwerb eine Einkaufskommission ausführt,
+4. wenn der Erwerb unentgeltlich geschieht oder ein Kreditinstitut oder Wertpapierinstitut mit dem Erwerb eine Einkaufskommission ausführt,
 
 5. durch Gesamtrechtsnachfolge,
 
@@ -2053,7 +2053,7 @@ f) Geschäfte im Rahmen einer Umwandlung im Sinne des Umwandlungsgesetzes;
 
 4. Geschäfte, die die Vergütung betreffen, die den Mitgliedern des Vorstands oder Aufsichtsrats im Einklang mit § 113 Absatz 3 oder § 87a Absatz 2 gewährt oder geschuldet wird;
 
-5. Geschäfte von Kreditinstituten, die zur Sicherung ihrer Stabilität durch die zuständige Behörde angeordnet oder gebilligt wurden;
+5. Geschäfte von Kreditinstituten oder Wertpapierinstituten, die zur Sicherung ihrer Stabilität durch die zuständige Behörde angeordnet oder gebilligt wurden;
 
 6. Geschäfte, die allen Aktionären unter den gleichen Bedingungen angeboten werden.
 
@@ -2143,6 +2143,42 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 (4) Die Satzung oder die Geschäftsordnung gemäß § 129 Abs. 1 kann vorsehen oder den Vorstand oder den Versammlungsleiter dazu ermächtigen vorzusehen, die Bild- und Tonübertragung der Versammlung zuzulassen.
 
+# § 118a – Virtuelle Hauptversammlung
+
+(1) Die Satzung kann vorsehen oder den Vorstand dazu ermächtigen, vorzusehen, dass die Versammlung ohne physische Präsenz der Aktionäre oder ihrer Bevollmächtigten am Ort der Hauptversammlung abgehalten wird (virtuelle Hauptversammlung). Wird eine virtuelle Hauptversammlung abgehalten, sind die folgenden Voraussetzungen einzuhalten:
+
+1. die gesamte Versammlung wird mit Bild und Ton übertragen,
+
+2. die Stimmrechtsausübung der Aktionäre ist im Wege elektronischer Kommunikation, namentlich über elektronische Teilnahme oder elektronische Briefwahl, sowie über Vollmachtserteilung möglich,
+
+3. den elektronisch zu der Versammlung zugeschalteten Aktionären wird das Recht eingeräumt, Anträge und Wahlvorschläge im Wege der Videokommunikation in der Versammlung zu stellen,
+
+4. den Aktionären wird ein Auskunftsrecht nach § 131 im Wege elektronischer Kommunikation eingeräumt,
+
+5. den Aktionären wird, sofern der Vorstand von der Möglichkeit des § 131 Absatz 1a Satz 1 Gebrauch macht, der Bericht des Vorstands oder dessen wesentlicher Inhalt bis spätestens sieben Tage vor der Versammlung zugänglich gemacht,
+
+6. den Aktionären wird das Recht eingeräumt, Stellungnahmen nach § 130a Absatz 1 bis 4 im Wege elektronischer Kommunikation einzureichen,
+
+7. den elektronisch zu der Versammlung zugeschalteten Aktionären wird ein Rederecht in der Versammlung im Wege der Videokommunikation nach § 130a Absatz 5 und 6 eingeräumt,
+
+8. den elektronisch zu der Versammlung zugeschalteten Aktionären wird ein Recht zum Widerspruch gegen einen Beschluss der Hauptversammlung im Wege elektronischer Kommunikation eingeräumt.
+
+Für die Fristberechnung nach Satz 2 Nummer 5 gilt § 121 Absatz 7; bei börsennotierten Gesellschaften hat das Zugänglichmachen über die Internetseite der Gesellschaft zu erfolgen. § 118 Absatz 1 Satz 3 und 4 sowie § 67a Absatz 2 Satz 1 und Absatz 3 gelten entsprechend.
+
+(2) Die Mitglieder des Vorstands sollen am Ort der Hauptversammlung teilnehmen. Gleiches gilt für die Mitglieder des Aufsichtsrats, sofern deren Teilnahme nicht nach § 118 Absatz 3 Satz 2 im Wege der Bild- und Tonübertragung erfolgen darf. Der Versammlungsleiter und in den Fällen des § 176 Absatz 2 Satz 1 und 2 der Abschlussprüfer haben am Ort der Hauptversammlung teilzunehmen. Ein von der Gesellschaft nach § 134 Absatz 3 Satz 5 benannter Stimmrechtsvertreter kann am Ort der Hauptversammlung teilnehmen.
+
+(3) Eine Bestimmung in der Satzung nach Absatz 1 Satz 1, die die Abhaltung virtueller Hauptversammlungen vorsieht, muss befristet werden. Die Abhaltung virtueller Hauptversammlungen darf in einer solchen Bestimmung für einen Zeitraum von längstens fünf Jahren nach Eintragung der Gesellschaft vorgesehen werden.
+
+(4) Eine Ermächtigung des Vorstands durch die Satzung nach Absatz 1 Satz 1, die Abhaltung virtueller Hauptversammlungen vorzusehen, muss befristet werden. Sie kann für einen Zeitraum von längstens fünf Jahren nach Eintragung der Gesellschaft erteilt werden.
+
+(5) Werden nach Absatz 1 Satz 1 getroffene Bestimmungen oder Ermächtigungen durch Satzungsänderung geschaffen,
+
+1. darf die Bestimmung die Abhaltung virtueller Hauptversammlungen bis zu einem Zeitraum von längstens fünf Jahren nach Eintragung der Satzungsänderung vorsehen und
+
+2. kann die Ermächtigung des Vorstands für einen Zeitraum von längstens fünf Jahren nach Eintragung der Satzungsänderung erteilt werden.
+
+(6) Bestimmt dieses oder ein anderes Gesetz, dass Unterlagen in der Hauptversammlung zugänglich zu machen sind, so sind die Unterlagen den der Hauptversammlung elektronisch zugeschalteten Aktionären während des Zeitraums der Versammlung über die Internetseite der Gesellschaft oder eine über diese zugängliche Internetseite eines Dritten zugänglich zu machen.
+
 # § 119 – Rechte der Hauptversammlung
 
 (1) Die Hauptversammlung beschließt in den im Gesetz und in der Satzung ausdrücklich bestimmten Fällen, namentlich über
@@ -2213,7 +2249,9 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 (4a) Bei börsennotierten Gesellschaften, die nicht ausschließlich Namensaktien ausgegeben haben oder welche die Einberufung den Aktionären nicht unmittelbar nach Absatz 4 Satz 2 übersenden, ist die Einberufung spätestens zum Zeitpunkt der Bekanntmachung solchen Medien zur Veröffentlichung zuzuleiten, bei denen davon ausgegangen werden kann, dass sie die Information in der gesamten Europäischen Union verbreiten.
 
-(5) Wenn die Satzung nichts anderes bestimmt, soll die Hauptversammlung am Sitz der Gesellschaft stattfinden. Sind die Aktien der Gesellschaft an einer deutschen Börse zum Handel im regulierten Markt zugelassen, so kann, wenn die Satzung nichts anderes bestimmt, die Hauptversammlung auch am Sitz der Börse stattfinden.
+(4b) Im Fall der virtuellen Hauptversammlung muss die Einberufung auch angeben, wie sich Aktionäre und ihre Bevollmächtigten elektronisch zur Versammlung zuschalten können. Zusätzlich ist in der Einberufung darauf hinzuweisen, dass eine physische Präsenz der Aktionäre und ihrer Bevollmächtigten am Ort der Hauptversammlung ausgeschlossen ist. Bei börsennotierten Gesellschaften ist im Fall der virtuellen Hauptversammlung abweichend von Absatz 3 Satz 3 Nummer 2 Buchstabe b das Verfahren für die Stimmabgabe im Wege elektronischer Kommunikation anzugeben. Zudem ist bei diesen Gesellschaften zusätzlich auf § 126 Absatz 4 und, falls der Vorstand von der Möglichkeit des § 131 Absatz 1a Satz 1 Gebrauch macht, auf § 131 Absatz 1a bis 1f hinzuweisen sowie darauf, dass der Bericht des Vorstands oder dessen wesentlicher Inhalt nach § 118a Absatz 1 Satz 2 Nummer 5 zugänglich gemacht wird.
+
+(5) Wenn die Satzung nichts anderes bestimmt, soll die Hauptversammlung am Sitz der Gesellschaft stattfinden. Sind die Aktien der Gesellschaft an einer deutschen Börse zum Handel im regulierten Markt zugelassen, so kann, wenn die Satzung nichts anderes bestimmt, die Hauptversammlung auch am Sitz der Börse stattfinden. Im Fall der virtuellen Hauptversammlung finden die Sätze 1 und 2 keine Anwendung.
 
 (6) Sind alle Aktionäre erschienen oder vertreten, kann die Hauptversammlung Beschlüsse ohne Einhaltung der Bestimmungen dieses Unterabschnitts fassen, soweit kein Aktionär der Beschlußfassung widerspricht.
 
@@ -2317,6 +2355,8 @@ Die Begründung braucht nicht zugänglich gemacht zu werden, wenn sie insgesamt 
 
 (3) Stellen mehrere Aktionäre zu demselben Gegenstand der Beschlußfassung Gegenanträge, so kann der Vorstand die Gegenanträge und ihre Begründungen zusammenfassen.
 
+(4) Im Fall der virtuellen Hauptversammlung gelten Anträge, die nach den Absätzen 1 bis 3 zugänglich zu machen sind, als im Zeitpunkt der Zugänglichmachung gestellt. Die Gesellschaft hat zu ermöglichen, dass das Stimmrecht zu diesen Anträgen ausgeübt werden kann, sobald die Aktionäre die gesetzlichen oder satzungsmäßigen Voraussetzungen für die Ausübung des Stimmrechts nachweisen können. Sofern der Aktionär, der den Antrag gestellt hat, nicht ordnungsgemäß legitimiert und, sofern eine Anmeldung erforderlich ist, nicht ordnungsgemäß zur Hauptversammlung angemeldet ist, muss der Antrag in der Versammlung nicht behandelt werden.
+
 # § 127 – Wahlvorschläge von Aktionären
 
 Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder von Abschlußprüfern gilt § 126 sinngemäß. Der Wahlvorschlag braucht nicht begründet zu werden. Der Vorstand braucht den Wahlvorschlag auch dann nicht zugänglich zu machen, wenn der Vorschlag nicht die Angaben nach § 124 Absatz 3 Satz 4 und § 125 Abs. 1 Satz 5 enthält. Der Vorstand hat den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern börsennotierter Gesellschaften, für die das Mitbestimmungsgesetz, das Montan-Mitbestimmungsgesetz oder das Mitbestimmungsergänzungsgesetz gilt, mit folgenden Inhalten zu versehen:
@@ -2351,19 +2391,21 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 # § 129 – Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung
 
-(1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, eine Geschäftsordnung mit Regeln für die Vorbereitung und Durchführung der Hauptversammlung geben. In der Hauptversammlung ist ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen.
+(1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, eine Geschäftsordnung mit Regeln für die Vorbereitung und Durchführung der Hauptversammlung geben. In der Hauptversammlung ist ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen. Im Fall der virtuellen Hauptversammlung sind die elektronisch zu der Versammlung zugeschalteten oder vertretenen Aktionäre und die elektronisch zu der Versammlung zugeschalteten Vertreter von Aktionären in das Verzeichnis nach Satz 2 aufzunehmen.
 
 (2) Sind einem Intermediär oder einer in § 135 Abs. 8 bezeichneten Person Vollmachten zur Ausübung des Stimmrechts erteilt worden und übt der Bevollmächtigte das Stimmrecht im Namen dessen, den es angeht, aus, so sind bei Nennbetragsaktien der Betrag, bei Stückaktien die Zahl und die Gattung der Aktien, für die ihm Vollmachten erteilt worden sind, zur Aufnahme in das Verzeichnis gesondert anzugeben. Die Namen der Aktionäre, welche Vollmachten erteilt haben, brauchen nicht angegeben zu werden.
 
 (3) Wer von einem Aktionär ermächtigt ist, im eigenen Namen das Stimmrecht für Aktien auszuüben, die ihm nicht gehören, hat bei Nennbetragsaktien den Betrag, bei Stückaktien die Zahl und die Gattung dieser Aktien zur Aufnahme in das Verzeichnis gesondert anzugeben. Dies gilt auch für Namensaktien, als deren Aktionär der Ermächtigte im Aktienregister eingetragen ist.
 
-(4) Das Verzeichnis ist vor der ersten Abstimmung allen Teilnehmern zugänglich zu machen. Jedem Aktionär ist auf Verlangen bis zu zwei Jahren nach der Hauptversammlung Einsicht in das Teilnehmerverzeichnis zu gewähren.
+(4) Das Verzeichnis ist vor der ersten Abstimmung allen Teilnehmern, im Fall der virtuellen Hauptversammlung allen elektronisch zu der Versammlung zugeschalteten Aktionären und Vertretern von Aktionären zugänglich zu machen. Jedem Aktionär ist auf Verlangen bis zu zwei Jahren nach der Hauptversammlung Einsicht in das Teilnehmerverzeichnis zu gewähren.
 
 (5) Der Abstimmende kann von der Gesellschaft innerhalb eines Monats nach dem Tag der Hauptversammlung eine Bestätigung darüber verlangen, ob und wie seine Stimme gezählt wurde. Die Gesellschaft hat die Bestätigung gemäß den Anforderungen in Artikel 7 Absatz 2 und Artikel 9 Absatz 5 Unterabsatz 2 der Durchführungsverordnung (EU) 2018/1212 zu erteilen. Sofern die Bestätigung einem Intermediär erteilt wird, hat dieser die Bestätigung unverzüglich dem Aktionär zu übermitteln. § 67a Absatz 2 Satz 1 und Absatz 3 gilt entsprechend.
 
 # § 130 – Niederschrift
 
 (1) Jeder Beschluß der Hauptversammlung ist durch eine über die Verhandlung notariell aufgenommene Niederschrift zu beurkunden. Gleiches gilt für jedes Verlangen einer Minderheit nach § 120 Abs. 1 Satz 2, § 137. Bei nichtbörsennotierten Gesellschaften reicht eine vom Vorsitzenden des Aufsichtsrats zu unterzeichnende Niederschrift aus, soweit keine Beschlüsse gefaßt werden, für die das Gesetz eine Dreiviertel- oder größere Mehrheit bestimmt.
+
+(1a) Der Notar hat seine Wahrnehmungen über den Gang der Hauptversammlung unter Anwesenheit am Ort der Hauptversammlung zu machen.
 
 (2) In der Niederschrift sind der Ort und der Tag der Verhandlung, der Name des Notars sowie die Art und das Ergebnis der Abstimmung und die Feststellung des Vorsitzenden über die Beschlußfassung anzugeben. Bei börsennotierten Gesellschaften umfasst die Feststellung über die Beschlussfassung für jeden Beschluss auch
 
@@ -2383,9 +2425,35 @@ Abweichend von Satz 2 kann der Versammlungsleiter die Feststellung über die Bes
 
 (6) Börsennotierte Gesellschaften müssen innerhalb von sieben Tagen nach der Versammlung die festgestellten Abstimmungsergebnisse einschließlich der Angaben nach Absatz 2 Satz 2 auf ihrer Internetseite veröffentlichen.
 
+# § 130a – Stellungnahme- und Rederecht bei virtuellen Hauptversammlungen
+
+(1) Im Fall der virtuellen Hauptversammlung haben die Aktionäre das Recht, vor der Versammlung Stellungnahmen zu den Gegenständen der Tagesordnung im Wege elektronischer Kommunikation unter Verwendung der in der Einberufung hierfür mitgeteilten Adresse einzureichen. Das Recht kann auf ordnungsgemäß zu der Versammlung angemeldete Aktionäre beschränkt werden. Der Umfang der Stellungnahmen kann in der Einberufung angemessen beschränkt werden.
+
+(2) Stellungnahmen sind bis spätestens fünf Tage vor der Versammlung einzureichen.
+
+(3) Die eingereichten Stellungnahmen sind allen Aktionären bis spätestens vier Tage vor der Versammlung zugänglich zu machen. Das Zugänglichmachen kann auf ordnungsgemäß zu der Versammlung angemeldete Aktionäre beschränkt werden. Bei börsennotierten Gesellschaften hat das Zugänglichmachen über die Internetseite der Gesellschaft zu erfolgen; im Fall des Satzes 2 kann das Zugänglichmachen auch über die Internetseite eines Dritten erfolgen. § 126 Absatz 2 Satz 1 Nummer 1, 3 und 6 gilt entsprechend.
+
+(4) Für die Berechnung der in den Absätzen 2 und 3 Satz 1 genannten Fristen gilt § 121 Absatz 7.
+
+(5) Den elektronisch zu der Versammlung zugeschalteten Aktionären ist in der Versammlung ein Rederecht im Wege der Videokommunikation zu gewähren. Für die Redebeiträge ist die von der Gesellschaft angebotene Form der Videokommunikation zu verwenden. Anträge und Wahlvorschläge nach § 118a Absatz 1 Satz 2 Nummer 3, das Auskunftsverlangen nach § 131 Absatz 1, Nachfragen nach § 131 Absatz 1d sowie weitere Fragen nach § 131 Absatz 1e dürfen Bestandteil des Redebeitrags sein. § 131 Absatz 2 Satz 2 gilt entsprechend.
+
+(6) Die Gesellschaft kann sich in der Einberufung vorbehalten, die Funktionsfähigkeit der Videokommunikation zwischen Aktionär und Gesellschaft in der Versammlung und vor dem Redebeitrag zu überprüfen und diesen zurückzuweisen, sofern die Funktionsfähigkeit nicht sichergestellt ist.
+
 # § 131 – Auskunftsrecht des Aktionärs
 
 (1) Jedem Aktionär ist auf Verlangen in der Hauptversammlung vom Vorstand Auskunft über Angelegenheiten der Gesellschaft zu geben, soweit sie zur sachgemäßen Beurteilung des Gegenstands der Tagesordnung erforderlich ist. Die Auskunftspflicht erstreckt sich auch auf die rechtlichen und geschäftlichen Beziehungen der Gesellschaft zu einem verbundenen Unternehmen. Macht eine Gesellschaft von den Erleichterungen nach § 266 Absatz 1 Satz 3, § 276 oder § 288 des Handelsgesetzbuchs Gebrauch, so kann jeder Aktionär verlangen, dass ihm in der Hauptversammlung über den Jahresabschluss der Jahresabschluss in der Form vorgelegt wird, die er ohne diese Erleichterungen hätte. Die Auskunftspflicht des Vorstands eines Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) in der Hauptversammlung, der der Konzernabschluss und der Konzernlagebericht vorgelegt werden, erstreckt sich auch auf die Lage des Konzerns und der in den Konzernabschluss einbezogenen Unternehmen.
+
+(1a) Im Fall der virtuellen Hauptversammlung ist Absatz 1 Satz 1 mit der Maßgabe anzuwenden, dass der Vorstand vorgeben kann, dass Fragen der Aktionäre bis spätestens drei Tage vor der Versammlung im Wege der elektronischen Kommunikation einzureichen sind. Für die Berechnung der Frist gilt § 121 Absatz 7. Nicht fristgerecht eingereichte Fragen müssen nicht berücksichtigt werden.
+
+(1b) Der Umfang der Einreichung von Fragen kann in der Einberufung angemessen beschränkt werden. Das Recht zur Einreichung von Fragen kann auf ordnungsgemäß zu der Versammlung angemeldete Aktionäre beschränkt werden.
+
+(1c) Die Gesellschaft hat ordnungsgemäß eingereichte Fragen vor der Versammlung allen Aktionären zugänglich zu machen und bis spätestens einen Tag vor der Versammlung zu beantworten; für die Berechnung der Frist gilt § 121 Absatz 7. Bei börsennotierten Gesellschaften haben das Zugänglichmachen der Fragen und deren Beantwortung über die Internetseite der Gesellschaft zu erfolgen. § 126 Absatz 2 Satz 1 Nummer 1, 3 und 6 gilt für das Zugänglichmachen der Fragen entsprechend. Sind die Antworten einen Tag vor Beginn und in der Versammlung durchgängig zugänglich, darf der Vorstand in der Versammlung die Auskunft zu diesen Fragen verweigern.
+
+(1d) Jedem elektronisch zu der Versammlung zugeschalteten Aktionär ist in der Versammlung im Wege der elektronischen Kommunikation ein Nachfragerecht zu allen vor und in der Versammlung gegebenen Antworten des Vorstands einzuräumen. Absatz 2 Satz 2 gilt auch für das Nachfragerecht.
+
+(1e) Zudem ist jedem elektronisch zu der Versammlung zugeschalteten Aktionär in der Versammlung im Wege der elektronischen Kommunikation das Recht einzuräumen, Fragen zu Sachverhalten zu stellen, die sich erst nach Ablauf der Frist nach Absatz 1a Satz 1 ergeben haben. Absatz 2 Satz 2 gilt auch für dieses Fragerecht.
+
+(1f) Der Versammlungsleiter kann festlegen, dass das Auskunftsrecht nach Absatz 1, das Nachfragerecht nach Absatz 1d und das Fragerecht nach Absatz 1e in der Hauptversammlung ausschließlich im Wege der Videokommunikation ausgeübt werden dürfen.
 
 (2) Die Auskunft hat den Grundsätzen einer gewissenhaften und getreuen Rechenschaft zu entsprechen. Die Satzung oder die Geschäftsordnung gemäß § 129 kann den Versammlungsleiter ermächtigen, das Frage- und Rederecht des Aktionärs zeitlich angemessen zu beschränken, und Näheres dazu bestimmen.
 
@@ -2407,15 +2475,21 @@ Abweichend von Satz 2 kann der Versammlungsleiter die Feststellung über die Bes
 
 Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 
-(4) Ist einem Aktionär wegen seiner Eigenschaft als Aktionär eine Auskunft außerhalb der Hauptversammlung gegeben worden, so ist sie jedem anderen Aktionär auf dessen Verlangen in der Hauptversammlung zu geben, auch wenn sie zur sachgemäßen Beurteilung des Gegenstands der Tagesordnung nicht erforderlich ist. Der Vorstand darf die Auskunft nicht nach Absatz 3 Satz 1 Nr. 1 bis 4 verweigern. Sätze 1 und 2 gelten nicht, wenn ein Tochterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs), ein Gemeinschaftsunternehmen (§ 310 Abs. 1 des Handelsgesetzbuchs) oder ein assoziiertes Unternehmen (§ 311 Abs. 1 des Handelsgesetzbuchs) die Auskunft einem Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) zum Zwecke der Einbeziehung der Gesellschaft in den Konzernabschluß des Mutterunternehmens erteilt und die Auskunft für diesen Zweck benötigt wird.
+(4) Ist einem Aktionär wegen seiner Eigenschaft als Aktionär eine Auskunft außerhalb der Hauptversammlung gegeben worden, so ist sie jedem anderen Aktionär auf dessen Verlangen in der Hauptversammlung zu geben, auch wenn sie zur sachgemäßen Beurteilung des Gegenstands der Tagesordnung nicht erforderlich ist. Im Fall der virtuellen Hauptversammlung ist zu gewährleisten, dass jeder elektronisch zu der Versammlung zugeschaltete Aktionär sein Verlangen nach Satz 1 im Wege der elektronischen Kommunikation übermitteln kann. Der Vorstand darf die Auskunft nicht nach Absatz 3 Satz 1 Nr. 1 bis 4 verweigern. Die Sätze 1 bis 3 gelten nicht, wenn ein Tochterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs), ein Gemeinschaftsunternehmen (§ 310 Abs. 1 des Handelsgesetzbuchs) oder ein assoziiertes Unternehmen (§ 311 Abs. 1 des Handelsgesetzbuchs) die Auskunft einem Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) zum Zwecke der Einbeziehung der Gesellschaft in den Konzernabschluß des Mutterunternehmens erteilt und die Auskunft für diesen Zweck benötigt wird.
 
-(5) Wird einem Aktionär eine Auskunft verweigert, so kann er verlangen, daß seine Frage und der Grund, aus dem die Auskunft verweigert worden ist, in die Niederschrift über die Verhandlung aufgenommen werden.
+(5) Wird einem Aktionär eine Auskunft verweigert, so kann er verlangen, daß seine Frage und der Grund, aus dem die Auskunft verweigert worden ist, in die Niederschrift über die Verhandlung aufgenommen werden. Im Fall der virtuellen Hauptversammlung ist zu gewährleisten, dass jeder elektronisch zu der Versammlung zugeschaltete Aktionär sein Verlangen nach Satz 1 im Wege der elektronischen Kommunikation übermitteln kann.
 
 # § 132 – Gerichtliche Entscheidung über das Auskunftsrecht
 
 (1) Ob der Vorstand die Auskunft zu geben hat, entscheidet auf Antrag ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
-(2) Antragsberechtigt ist jeder Aktionär, dem die verlangte Auskunft nicht gegeben worden ist, und, wenn über den Gegenstand der Tagesordnung, auf den sich die Auskunft bezog, Beschluß gefaßt worden ist, jeder in der Hauptversammlung erschienene Aktionär, der in der Hauptversammlung Widerspruch zur Niederschrift erklärt hat. Der Antrag ist binnen zwei Wochen nach der Hauptversammlung zu stellen, in der die Auskunft abgelehnt worden ist.
+(2) Antragsberechtigt ist jeder Aktionär, dem die verlangte Auskunft nicht gegeben worden ist, und, wenn über den Gegenstand der Tagesordnung, auf den sich die Auskunft bezog, Beschluß gefaßt worden ist, jeder in der Hauptversammlung erschienene Aktionär, der in der Hauptversammlung Widerspruch zur Niederschrift erklärt hat. Im Fall der virtuellen Hauptversammlung sind folgende elektronisch zugeschaltete Aktionäre antragsberechtigt:
+
+1. jeder Aktionär, dem die verlangte Auskunft nicht gegeben worden ist,
+
+2. jeder Aktionär, der Widerspruch im Wege elektronischer Kommunikation erklärt hat, wenn über den Gegenstand der Tagesordnung, auf den sich die Auskunft bezog, Beschluss gefasst worden ist.
+
+Der Antrag ist binnen zwei Wochen nach der Hauptversammlung zu stellen, in der die Auskunft abgelehnt worden ist.
 
 (3) § 99 Abs. 1, 3 Satz 1, 2 und 4 bis 6 sowie Abs. 5 Satz 1 und 3 gilt entsprechend. Die Beschwerde findet nur statt, wenn das Landgericht sie in der Entscheidung für zulässig erklärt. § 70 Abs. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden.
 
@@ -2948,7 +3022,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 # § 176 – Vorlagen. Anwesenheit des Abschlußprüfers
 
-(1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen erläuternden Bericht zu den Angaben nach den §§ 289a und 315a des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf Kreditinstitute nicht anzuwenden.
+(1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen erläuternden Bericht zu den Angaben nach den §§ 289a und 315a des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf Kreditinstitute oder Wertpapierinstitute nicht anzuwenden.
 
 (2) Ist der Jahresabschluß von einem Abschlußprüfer zu prüfen, so hat der Abschlußprüfer an den Verhandlungen über die Feststellung des Jahresabschlusses teilzunehmen. Satz 1 gilt entsprechend für die Verhandlungen über die Billigung eines Konzernabschlusses. Der Abschlußprüfer ist nicht verpflichtet, einem Aktionär Auskunft zu erteilen.
 
@@ -3054,7 +3128,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (4) Ein Beschluß, durch den das Bezugsrecht ganz oder zum Teil ausgeschlossen wird, darf nur gefaßt werden, wenn die Ausschließung ausdrücklich und ordnungsgemäß bekanntgemacht worden ist. Der Vorstand hat der Hauptversammlung einen schriftlichen Bericht über den Grund für den teilweisen oder vollständigen Ausschluß des Bezugsrechts zugänglich zu machen; in dem Bericht ist der vorgeschlagene Ausgabebetrag zu begründen.
 
-(5) Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach dem Beschluß die neuen Aktien von einem Kreditinstitut oder einem nach § 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätigen Unternehmen mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten. Der Vorstand hat dieses Bezugsangebot mit den Angaben gemäß Absatz 2 Satz 1 und einen endgültigen Ausgabebetrag gemäß Absatz 2 Satz 2 bekannt zu machen; gleiches gilt, wenn die neuen Aktien von einem anderen als einem Kreditinstitut oder Unternehmen im Sinne des Satzes 1 mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten.
+(5) Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach dem Beschluß die neuen Aktien von einem Kreditinstitut, einem Wertpapierinstitut oder einem nach § 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätigen Unternehmen mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten. Der Vorstand hat dieses Bezugsangebot mit den Angaben gemäß Absatz 2 Satz 1 und einen endgültigen Ausgabebetrag gemäß Absatz 2 Satz 2 bekannt zu machen; gleiches gilt, wenn die neuen Aktien von einem anderen als einem Kreditinstitut, Wertpapierinstitut oder Unternehmen im Sinne des Satzes 1 mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten.
 
 # § 187 – Zusicherung von Rechten auf den Bezug neuer Aktien
 
@@ -3494,9 +3568,9 @@ verwandt werden. Ist die Gesellschaft eine kleine Kapitalgesellschaft (§ 267 Ab
 
 Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs. 2 nur dann nichtig, wenn er
 
-1. in einer Hauptversammlung gefaßt worden ist, die unter Verstoß gegen § 121 Abs. 2 und 3 Satz 1 oder Abs. 4 einberufen war,
+1. in einer Hauptversammlung gefaßt worden ist, die unter Verstoß gegen § 121 Abs. 2 und 3 Satz 1 oder Abs. 4 und 4b Satz 1 einberufen war,
 
-2. nicht nach § 130 Abs. 1 und 2 Satz 1 und Abs. 4 beurkundet ist,
+2. nicht nach § 130 Absatz 1 bis 2 Satz 1 und Absatz 4 beurkundet ist,
 
 3. mit dem Wesen der Aktiengesellschaft nicht zu vereinbaren ist oder durch seinen Inhalt Vorschriften verletzt, die ausschließlich oder überwiegend zum Schutz der Gläubiger der Gesellschaft oder sonst im öffentlichen Interesse gegeben sind,
 
@@ -3508,7 +3582,7 @@ Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, 
 
 # § 242 – Heilung der Nichtigkeit
 
-(1) Die Nichtigkeit eines Hauptversammlungsbeschlusses, der entgegen § 130 Abs. 1 und 2 Satz 1 und Abs. 4 nicht oder nicht gehörig beurkundet worden ist, kann nicht mehr geltend gemacht werden, wenn der Beschluß in das Handelsregister eingetragen worden ist.
+(1) Die Nichtigkeit eines Hauptversammlungsbeschlusses, der entgegen § 130 Absatz 1 bis 2 Satz 1 und Absatz 4 nicht oder nicht gehörig beurkundet worden ist, kann nicht mehr geltend gemacht werden, wenn der Beschluß in das Handelsregister eingetragen worden ist.
 
 (2) Ist ein Hauptversammlungsbeschluß nach § 241 Nr. 1, 3 oder 4 nichtig, so kann die Nichtigkeit nicht mehr geltend gemacht werden, wenn der Beschluß in das Handelsregister eingetragen worden ist und seitdem drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung der Nichtigkeit des Hauptversammlungsbeschlusses rechtshängig, so verlängert sich die Frist, bis über die Klage rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig erledigt hat. Eine Löschung des Beschlusses von Amts wegen nach § 398 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit wird durch den Zeitablauf nicht ausgeschlossen. Ist ein Hauptversammlungsbeschluß wegen Verstoßes gegen § 121 Abs. 4 Satz 2 nach § 241 Nr. 1 nichtig, so kann die Nichtigkeit auch dann nicht mehr geltend gemacht werden, wenn der nicht geladene Aktionär den Beschluß genehmigt. Ist ein Hauptversammlungsbeschluss nach § 241 Nr. 5 oder § 249 nichtig, so kann das Urteil nach § 248 Abs. 1 Satz 3 nicht mehr eingetragen werden, wenn gemäß § 246a Abs. 1 rechtskräftig festgestellt wurde, dass Mängel des Hauptversammlungsbeschlusses die Wirkung der Eintragung unberührt lassen; § 398 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit findet keine Anwendung.
 
@@ -3520,13 +3594,19 @@ Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, 
 
 (2) Die Anfechtung kann auch darauf gestützt werden, daß ein Aktionär mit der Ausübung des Stimmrechts für sich oder einen Dritten Sondervorteile zum Schaden der Gesellschaft oder der anderen Aktionäre zu erlangen suchte und der Beschluß geeignet ist, diesem Zweck zu dienen. Dies gilt nicht, wenn der Beschluß den anderen Aktionären einen angemessenen Ausgleich für ihren Schaden gewährt.
 
-(3) Die Anfechtung kann nicht gestützt werden:
+(3) Die Anfechtung kann nicht gestützt werden
 
-1. auf die durch eine technische Störung verursachte Verletzung von Rechten, die nach § 118 Abs. 1 Satz 2, Abs. 2 Satz 1 und § 134 Abs. 3 auf elektronischem Wege wahrgenommen worden sind, es sei denn, der Gesellschaft ist grobe Fahrlässigkeit oder Vorsatz vorzuwerfen; in der Satzung kann ein strengerer Verschuldensmaßstab bestimmt werden,
+1. auf die durch eine technische Störung verursachte Verletzung von Rechten, die nach § 118 Absatz 1 Satz 2 und Absatz 2 Satz 1 sowie § 134 Absatz 3 auf elektronischem Wege wahrgenommen worden sind,
 
-2. auf eine Verletzung der §§ 67a, 67b, 121 Absatz 4a oder des § 124a,
+2. auf die durch eine technische Störung verursachte Verletzung von Rechten, die nach § 118a Absatz 1 Satz 2 Nummer 2, 3, 4 in Verbindung mit § 131, nach § 118a Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 130a Absatz 1 bis 4, nach § 118a Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 130a Absatz 5 und 6 sowie nach § 118a Absatz 1 Satz 2 Nummer 8 auf elektronischem Wege wahrgenommen worden sind,
 
-3. auf Gründe, die ein Verfahren nach § 318 Abs. 3 des Handelsgesetzbuchs rechtfertigen.
+3. auf die durch eine technische Störung verursachte Verletzung von § 118a Absatz 1 Satz 2 Nummer 1 und 5 sowie Absatz 6,
+
+4. auf eine Verletzung der §§ 67a, 67b, 118 Absatz 1 Satz 3 bis 5 und Absatz 2 Satz 2, von § 118a Absatz 1 Satz 4, § 121 Absatz 4a oder des § 124a,
+
+5. auf Gründe, die ein Verfahren nach § 318 Absatz 3 des Handelsgesetzbuchs rechtfertigen.
+
+Eine Anfechtung kann auf die durch eine technische Störung verursachte Verletzung von Rechten aus Satz 1 Nummer 1 und 2 sowie Vorschriften aus Satz 1 Nummer 3 nur gestützt werden, wenn der Gesellschaft grobe Fahrlässigkeit oder Vorsatz vorzuwerfen ist; in der Satzung kann ein strengerer Verschuldensmaßstab bestimmt werden.
 
 (4) Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von Informationen kann nur angefochten werden, wenn ein objektiv urteilender Aktionär die Erteilung der Information als wesentliche Voraussetzung für die sachgerechte Wahrnehmung seiner Teilnahme- und Mitgliedschaftsrechte angesehen hätte. Auf unrichtige, unvollständige oder unzureichende Informationen in der Hauptversammlung über die Ermittlung, Höhe oder Angemessenheit von Ausgleich, Abfindung, Zuzahlung oder über sonstige Kompensationen kann eine Anfechtungsklage nicht gestützt werden, wenn das Gesetz für Bewertungsrügen ein Spruchverfahren vorsieht.
 
@@ -3548,6 +3628,8 @@ Zur Anfechtung ist befugt
 
 5. jedes Mitglied des Vorstands und des Aufsichtsrats, wenn durch die Ausführung des Beschlusses Mitglieder des Vorstands oder des Aufsichtsrats eine strafbare Handlung oder eine Ordnungswidrigkeit begehen oder wenn sie ersatzpflichtig werden würden.
 
+Im Fall der virtuellen Hauptversammlung gelten alle zu der Versammlung elektronisch zugeschalteten Aktionäre als erschienen im Sinne des Satzes 1 Nummer 1.
+
 # § 246 – Anfechtungsklage
 
 (1) Die Klage muß innerhalb eines Monats nach der Beschlußfassung erhoben werden.
@@ -3560,7 +3642,7 @@ Zur Anfechtung ist befugt
 
 # § 246a – Freigabeverfahren
 
-(1) Wird gegen einen Hauptversammlungsbeschluss über eine Maßnahme der Kapitalbeschaffung, der Kapitalherabsetzung (§§ 182 bis 240) oder einen Unternehmensvertrag (§§ 291 bis 307) Klage erhoben, so kann das Gericht auf Antrag der Gesellschaft durch Beschluss feststellen, dass die Erhebung der Klage der Eintragung nicht entgegensteht und Mängel des Hauptversammlungsbeschlusses die Wirkung der Eintragung unberührt lassen. Auf das Verfahren sind § 247, die §§ 82, 83 Abs. 1 und § 84 der Zivilprozessordnung sowie die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften der Zivilprozessordnung entsprechend anzuwenden, soweit nichts Abweichendes bestimmt ist. Über den Antrag entscheidet ein Senat des Oberlandesgerichts, in dessen Bezirk die Gesellschaft ihren Sitz hat.
+(1) Wird gegen einen Hauptversammlungsbeschluss zur Änderung der Satzung nach § 118a Absatz 1 Satz 1, über eine Maßnahme der Kapitalbeschaffung, der Kapitalherabsetzung (§§ 182 bis 240) oder einen Unternehmensvertrag (§§ 291 bis 307) Klage erhoben, so kann das Gericht auf Antrag der Gesellschaft durch Beschluss feststellen, dass die Erhebung der Klage der Eintragung nicht entgegensteht und Mängel des Hauptversammlungsbeschlusses die Wirkung der Eintragung unberührt lassen. Auf das Verfahren sind § 247, die §§ 82, 83 Abs. 1 und § 84 der Zivilprozessordnung sowie die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften der Zivilprozessordnung entsprechend anzuwenden, soweit nichts Abweichendes bestimmt ist. Über den Antrag entscheidet ein Senat des Oberlandesgerichts, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
 (2) Ein Beschluss nach Absatz 1 ergeht, wenn
 
@@ -3632,7 +3714,7 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung kann wegen Verletzung des Gesetzes oder der Satzung durch Klage angefochten werden. Ist die Hauptversammlung an Wahlvorschläge gebunden, so kann die Anfechtung auch darauf gestützt werden, daß der Wahlvorschlag gesetzwidrig zustande gekommen ist. § 243 Abs. 4 und § 244 gelten.
 
-(2) Für die Anfechtungsbefugnis gilt § 245 Nr. 1, 2 und 4. Die Wahl eines Aufsichtsratsmitglieds, das nach dem Montan-Mitbestimmungsgesetz auf Vorschlag der Betriebsräte gewählt worden ist, kann auch von jedem Betriebsrat eines Betriebs der Gesellschaft, jeder in den Betrieben der Gesellschaft vertretenen Gewerkschaft oder deren Spitzenorganisation angefochten werden. Die Wahl eines weiteren Mitglieds, das nach dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz auf Vorschlag der übrigen Aufsichtsratsmitglieder gewählt worden ist, kann auch von jedem Aufsichtsratsmitglied angefochten werden.
+(2) Für die Anfechtungsbefugnis gilt § 245 Satz 1 Nummer 1, 2 und 4 sowie Satz 2. Die Wahl eines Aufsichtsratsmitglieds, das nach dem Montan-Mitbestimmungsgesetz auf Vorschlag der Betriebsräte gewählt worden ist, kann auch von jedem Betriebsrat eines Betriebs der Gesellschaft, jeder in den Betrieben der Gesellschaft vertretenen Gewerkschaft oder deren Spitzenorganisation angefochten werden. Die Wahl eines weiteren Mitglieds, das nach dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz auf Vorschlag der übrigen Aufsichtsratsmitglieder gewählt worden ist, kann auch von jedem Aufsichtsratsmitglied angefochten werden.
 
 (3) Für das Anfechtungsverfahren gelten die §§ 246, 247, 248 Abs. 1 Satz 2 und § 248a.
 
