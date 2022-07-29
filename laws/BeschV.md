@@ -385,6 +385,10 @@ Die Zustimmung wird für bis zu 15 Monate und mit Vorrangprüfung für die spät
 
 (3) Für Personen, die eine Aufenthaltserlaubnis zum Zwecke einer Beschäftigung nach Absatz 1 oder 2 besitzen, findet § 9 keine Anwendung.
 
+# § 24b – Windenergieanlagen auf See und Offshore-Anbindungsleitungen
+
+Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Ausländerinnen und Ausländer, die im deutschen Küstenmeer beschäftigt werden, um Tätigkeiten zur Errichtung und Instandsetzung von Windenergieanlagen auf See und Offshore-Anbindungsleitungen durchzuführen, einschließlich der Be- und Entladearbeiten im Hafen und der sonstigen Tätigkeiten von übrigen Mitgliedern der Besatzung der dazu eingesetzten Schiffe. Die Befreiung von der Zustimmung umfasst einen Zeitraum von bis zu 24 Monaten. § 9 findet keine Anwendung.
+
 # § 25 – Kultur und Unterhaltung
 
 Die Zustimmung kann mit Vorrangprüfung für Personen erteilt werden, die
@@ -425,7 +429,7 @@ Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
 1. Tätigkeiten nach § 3 Nummer 1 und 2 auch ohne Zustimmung sowie nach § 16, die bis zu 90 Tage innerhalb eines Zeitraums von 180 Tagen ausgeübt werden,
 
-2. Tätigkeiten nach den §§ 5, 14, 15, 17, 18, 19 Absatz 1 sowie den §§ 20, 22 und 23, die bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
+2. Tätigkeiten nach den §§ 5, 14, 15, 17, 18, 19 Absatz 1 sowie den §§ 20, 22, 23 und 24b, die bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
 
 3. Tätigkeiten nach § 21, die von Ausländerinnen und Ausländern, die in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehaben, bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden, und
 
