@@ -303,11 +303,9 @@ Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der Errichtun
 
 Mit der Eintragung erhält der Name des Vereins den Zusatz "eingetragener Verein".
 
-# § 66 – Bekanntmachung der Eintragung und Aufbewahrung von Dokumenten
+# § 66 – Aufbewahrung von Dokumenten
 
-(1) Das Amtsgericht hat die Eintragung des Vereins in das Vereinsregister durch Veröffentlichung in dem von der Landesjustizverwaltung bestimmten elektronischen Informations- und Kommunikationssystem bekannt zu machen.
-
-(2) Die mit der Anmeldung eingereichten Dokumente werden vom Amtsgericht aufbewahrt.
+Die mit einer Anmeldung eingereichten Dokumente werden vom Amtsgericht aufbewahrt.
 
 # § 67 – Änderung des Vorstands
 
@@ -331,7 +329,7 @@ Die Vorschriften des § 68 gelten auch für Bestimmungen, die den Umfang der Ver
 
 (1) Änderungen der Satzung bedürfen zu ihrer Wirksamkeit der Eintragung in das Vereinsregister. Die Änderung ist von dem Vorstand zur Eintragung anzumelden. Der Anmeldung sind eine Abschrift des die Änderung enthaltenden Beschlusses und der Wortlaut der Satzung beizufügen. In dem Wortlaut der Satzung müssen die geänderten Bestimmungen mit dem Beschluss über die Satzungsänderung, die unveränderten Bestimmungen mit dem zuletzt eingereichten vollständigen Wortlaut der Satzung und, wenn die Satzung geändert worden ist, ohne dass ein vollständiger Wortlaut der Satzung eingereicht wurde, auch mit den zuvor eingetragenen Änderungen übereinstimmen.
 
-(2) Die Vorschriften der §§ 60, 64 und des § 66 Abs. 2 finden entsprechende Anwendung.
+(2) Die Vorschriften der §§ 60, 64 und 66 finden entsprechende Anwendung.
 
 # § 72 – Bescheinigung der Mitgliederzahl
 
@@ -685,7 +683,7 @@ Ein Rechtsgeschäft, welches der durch Gesetz vorgeschriebenen Form ermangelt, i
 
 # § 126a – Elektronische Form
 
-(1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die elektronische Form ersetzt werden, so muss der Aussteller der Erklärung dieser seinen Namen hinzufügen und das elektronische Dokument mit einer qualifizierten elektronischen Signatur versehen.
+(1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die elektronische Form ersetzt werden, so muss der Aussteller der Erklärung dieser seinen Namen hinzufügen und das elektronische Dokument mit seiner qualifizierten elektronischen Signatur versehen.
 
 (2) Bei einem Vertrag müssen die Parteien jeweils ein gleichlautendes Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
 
@@ -715,9 +713,17 @@ Ist durch Gesetz notarielle Beurkundung eines Vertrags vorgeschrieben, so genüg
 
 # § 129 – Öffentliche Beglaubigung
 
-(1) Ist durch Gesetz für eine Erklärung öffentliche Beglaubigung vorgeschrieben, so muss die Erklärung schriftlich abgefasst und die Unterschrift des Erklärenden von einem Notar beglaubigt werden. Wird die Erklärung von dem Aussteller mittels Handzeichens unterzeichnet, so ist die im § 126 Abs. 1 vorgeschriebene Beglaubigung des Handzeichens erforderlich und genügend.
+(1) Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung vorgeschrieben, so muss die Erklärung
 
-(2) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung der Erklärung ersetzt.
+1. in schriftlicher Form abgefasst und die Unterschrift des Erklärenden von einem Notar beglaubigt werden oder
+
+2. in elektronischer Form abgefasst und die qualifizierte elektronische Signatur des Erklärenden von einem Notar beglaubigt werden.
+
+In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach Satz 1 Nummer 1 oder nach Satz 1 Nummer 2 öffentlich beglaubigt werden kann.
+
+(2) Wurde eine Erklärung in schriftlicher Form von dem Erklärenden mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
+
+(3) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung ersetzt.
 
 # § 130 – Wirksamwerden der Willenserklärung gegenüber Abwesenden
 

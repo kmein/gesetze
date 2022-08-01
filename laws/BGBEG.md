@@ -1681,7 +1681,7 @@ d) Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene Kost
 
 (3) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394 geahndet werden.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
 
 # § 1 – Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 

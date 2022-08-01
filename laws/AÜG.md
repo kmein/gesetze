@@ -225,7 +225,7 @@ Werden Arbeitnehmer entgegen § 1 Absatz 1 Satz 3 von einer anderen Person über
 
 2. Art und Höhe der Leistungen für Zeiten, in denen der Leiharbeitnehmer nicht verliehen ist.
 
-(2) Der Verleiher ist ferner verpflichtet, dem Leiharbeitnehmer bei Vertragsschluß ein Merkblatt der Erlaubnisbehörde über den wesentlichen Inhalt dieses Gesetzes auszuhändigen. Nichtdeutsche Leiharbeitnehmer erhalten das Merkblatt und den Nachweis nach Absatz 1 auf Verlangen in ihrer Muttersprache. Die Kosten des Merkblatts trägt der Verleiher. Der Verleiher hat den Leiharbeitnehmer vor jeder Überlassung darüber zu informieren, dass er als Leiharbeitnehmer tätig wird.
+(2) Der Verleiher ist ferner verpflichtet, dem Leiharbeitnehmer bei Vertragsschluß ein Merkblatt der Erlaubnisbehörde über den wesentlichen Inhalt dieses Gesetzes auszuhändigen. Nichtdeutsche Leiharbeitnehmer erhalten das Merkblatt und den Nachweis nach Absatz 1 auf Verlangen in ihrer Muttersprache. Die Kosten des Merkblatts trägt der Verleiher. Der Verleiher hat den Leiharbeitnehmer vor jeder Überlassung darüber zu informieren, dass er als Leiharbeitnehmer tätig wird, und ihm die Firma und Anschrift des Entleihers, dem er überlassen wird, in Textform mitzuteilen.
 
 (3) Der Verleiher hat den Leiharbeitnehmer unverzüglich über den Zeitpunkt des Wegfalls der Erlaubnis zu unterrichten. In den Fällen der Nichtverlängerung (§ 2 Abs. 4 Satz 3), der Rücknahme (§ 4) oder des Widerrufs (§ 5) hat er ihn ferner auf das voraussichtliche Ende der Abwicklung (§ 2 Abs. 4 Satz 4) und die gesetzliche Abwicklungsfrist (§ 2 Abs. 4 Satz 4 letzter Halbsatz) hinzuweisen.
 
@@ -259,9 +259,11 @@ Die Bundesregierung wird ermächtigt, für die Zeit ab dem 1. Juli 2022 durch Re
 
 Der Leiharbeitnehmer kann im Falle der Überlassung von seinem Entleiher Auskunft über die im Betrieb des Entleihers für einen vergleichbaren Arbeitnehmer des Entleihers geltenden wesentlichen Arbeitsbedingungen einschließlich des Arbeitsentgelts verlangen; dies gilt nicht, soweit die Voraussetzungen der in § 8 Absatz 2 und 4 Satz 2 genannten Ausnahme vorliegen.
 
-# § 13a – Informationspflicht des Entleihers über freie Arbeitsplätze
+# § 13a – Informationspflicht des Entleihers über freie Arbeitsplätze und Übernahmegesuch des Leiharbeitnehmers
 
-Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des Entleihers, die besetzt werden sollen, zu informieren. Die Information kann durch allgemeine Bekanntgabe an geeigneter, dem Leiharbeitnehmer zugänglicher Stelle im Betrieb und Unternehmen des Entleihers erfolgen.
+(1) Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des Entleihers, die besetzt werden sollen, zu informieren. Die Information kann durch allgemeine Bekanntgabe an geeigneter, dem Leiharbeitnehmer zugänglicher Stelle im Betrieb und Unternehmen des Entleihers erfolgen.
+
+(2) Der Entleiher hat einem Leiharbeitnehmer, der ihm seit mindestens sechs Monaten überlassen ist und der ihm in Textform den Wunsch nach dem Abschluss eines Arbeitsvertrages angezeigt hat, innerhalb eines Monats nach Zugang der Anzeige eine begründete Antwort in Textform mitzuteilen. Satz 1 gilt nicht, sofern der Leiharbeitnehmer dem Entleiher diesen Wunsch in den letzten zwölf Monaten bereits einmal angezeigt hat. Für die Bestimmung der Dauer der Überlassung nach Satz 1 gilt § 1 Absatz 1b Satz 2 entsprechend.
 
 # § 13b – Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten
 
@@ -337,7 +339,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt
 
 8a. entgegen § 11 Absatz 5 Satz 1 einen Leiharbeitnehmer tätig werden lässt,
 
-9. entgegen § 13a Satz 1 den Leiharbeitnehmer nicht, nicht richtig oder nicht vollständig informiert,
+9. entgegen § 13a Absatz 1 Satz 1 den Leiharbeitnehmer nicht, nicht richtig oder nicht vollständig informiert,
 
 10. entgegen § 13b Satz 1 Zugang nicht gewährt,
 
@@ -357,7 +359,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt
 
 18. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis 18 kann mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5, 6a und 8 mit einer Geldbuße bis zu tausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis 18 kann mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und die Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5 und 6a mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 (3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 18 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
 

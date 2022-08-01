@@ -532,6 +532,10 @@ Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, 
 
 4. das Nähere zur Kontrolle der Mittelverwendung.
 
+# § 23c – Informationspflicht bei Anwerbung aus dem Ausland
+
+Ein Arbeitgeber mit Sitz im Inland, der mit einem Unionsbürger nach § 23a Absatz 2 Nummer 1 mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland zur Arbeitsleistung im Inland einen Arbeitsvertrag abschließt, hat diesen spätestens am ersten Tag der Arbeitsleistung in Textform auf die Möglichkeit hinzuweisen, die Dienste der Beratungsstellen nach § 23a in Anspruch zu nehmen, und die aktuellen Kontaktdaten der Beratungsstelle anzugeben. Sofern der Arbeitnehmer dem Arbeitgeber vermittelt wurde und eine Informationspflicht des Vermittlers nach § 299 des Dritten Buches Sozialgesetzbuch dem Arbeitnehmer gegenüber besteht, entfällt die Hinweispflicht.
+
 # § 24 – Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 
 (1) Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind auf Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im Inland beschäftigt werden, nicht anzuwenden, wenn

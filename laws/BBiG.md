@@ -149,25 +149,29 @@ Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die Durchführ
 
 (1) Ausbildende haben unverzüglich nach Abschluss des Berufsausbildungsvertrages, spätestens vor Beginn der Berufsausbildung, den wesentlichen Inhalt des Vertrages gemäß Satz 2 schriftlich niederzulegen; die elektronische Form ist ausgeschlossen. In die Niederschrift sind mindestens aufzunehmen
 
-1. Art, sachliche und zeitliche Gliederung sowie Ziel der Berufsausbildung, insbesondere die Berufstätigkeit, für die ausgebildet werden soll,
+1. Name und Anschrift der Ausbildenden sowie der Auszubildenden, bei Minderjährigen zusätzlich Name und Anschrift ihrer gesetzlichen Vertreter oder Vertreterinnen,
 
-2. Beginn und Dauer der Berufsausbildung,
+2. Art, sachliche und zeitliche Gliederung sowie Ziel der Berufsausbildung, insbesondere die Berufstätigkeit, für die ausgebildet werden soll,
 
-3. Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte,
+3. Beginn und Dauer der Berufsausbildung,
 
-4. Dauer der regelmäßigen täglichen Ausbildungszeit,
+4. die Ausbildungsstätte und Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte,
 
-5. Dauer der Probezeit,
+5. Dauer der regelmäßigen täglichen Ausbildungszeit,
 
-6. Zahlung und Höhe der Vergütung,
+6. Dauer der Probezeit,
 
-7. Dauer des Urlaubs,
+7. Zahlung und Höhe der Vergütung sowie deren Zusammensetzung, sofern sich die Vergütung aus verschiedenen Bestandteilen zusammensetzt,
 
-8. Voraussetzungen, unter denen der Berufsausbildungsvertrag gekündigt werden kann,
+8. Vergütung oder Ausgleich von Überstunden,
 
-9. ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Berufsausbildungsverhältnis anzuwenden sind,
+9. Dauer des Urlaubs,
 
-10. die Form des Ausbildungsnachweises nach § 13 Satz 2 Nummer 7.
+10. Voraussetzungen, unter denen der Berufsausbildungsvertrag gekündigt werden kann,
+
+11. ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Berufsausbildungsverhältnis anzuwenden sind,
+
+12. die Form des Ausbildungsnachweises nach § 13 Satz 2 Nummer 7.
 
 (2) Die Niederschrift ist von den Ausbildenden, den Auszubildenden und deren gesetzlichen Vertretern und Vertreterinnen zu unterzeichnen.
 
@@ -503,7 +507,7 @@ In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung e
 
 # § 36 – Antrag und Mitteilungspflichten
 
-(1) Ausbildende haben unverzüglich nach Abschluss des Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne von § 11 Absatz 1 Satz 2 Nummer 1, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
+(1) Ausbildende haben unverzüglich nach Abschluss des Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne von § 11 Absatz 1 Satz 2 Nummer 2, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Ausbildende und Auszubildende sind verpflichtet, den zuständigen Stellen die zur Eintragung nach § 34 erforderlichen Tatsachen auf Verlangen mitzuteilen.
 
@@ -1353,7 +1357,7 @@ Das Bundesinstitut für Berufsbildung unterliegt, soweit in diesem Gesetz nicht 
 
 10. entgegen § 76 Absatz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder eine Besichtigung nicht oder nicht rechtzeitig gestattet.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3 bis 7 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3 bis 7 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu zweitausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 (+++ § 101 Abs. 1 Nr. 3: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 +++)
 

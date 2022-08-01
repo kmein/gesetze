@@ -1,660 +1,376 @@
-% Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
-% Ausfertigungsdatum: 20.01.2005
+% Verordnung über die Berufsausbildung zum Binnenschiffer und zur Binnenschifferin*  (Binnenschifferausbildungsverordnung - BinSchAusbV)
+% Ausfertigungsdatum: 02.03.2022
  
 # Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+
+# Inhaltsübersicht
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Binnenschiffer/Binnenschifferin wird gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf mit der Berufsbezeichnung des Binnenschiffers und der Binnenschifferin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-# § 2 – Ausbildungsdauer
+# § 2 – Dauer der Berufsausbildung
 
-Die Ausbildung dauert drei Jahre.
+Die Berufsausbildung dauert drei Jahre.
 
-# § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-# § 4 – Ausbildungsberufsbild
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
-1. Berufsbildung, Arbeits- und Tarifrecht,
+# § 4 – Struktur der Berufsausbildung und Ausbildungsberufsbild
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+(1) Die Berufsausbildung gliedert sich in:
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+1. schwerpunktübergreifende, berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-4. Umweltschutz,
+2. schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten und
 
-5. Planen, Vorbereiten und Kontrollieren von Arbeitsabläufen, Arbeiten im Team,
+3. weitere Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt
 
-6. Information und Kommunikation,
+a) Frachtschifffahrt oder
 
-7. Mitwirken beim Fahren von Fahrzeugen auf Binnenwasserstraßen und in Häfen,
+b) Personenschifffahrt.
 
-8. Rechtliche Voraussetzungen des Schiffsbetriebes und ihre Umsetzung,
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-9. Bauliche Grundlagen von Binnenschiffen,
+(2) Die Berufsbildpositionen der schwerpunktübergreifenden, berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-10. Transportieren von Gütern und Befördern von Personen,
+1. Steuern von Fahrzeugen zur Unterstützung der Schiffsführung,
 
-11. Kundenorientierung und qualitätssichernde Maßnahmen,
+2. Anwenden der Fahrzeugausrüstung,
 
-12. Mitwirken bei logistischen Abläufen,
+3. Be- und Entladen von Fahrzeugen,
 
-13. Schiffsbetriebswirtschaft,
+4. Instandhalten von Schiffskörpern und deren Anlagen,
 
-14. Pflegen, Warten und Instandhalten von Schiffen und deren Anlagen,
+5. Instandhalten von mechanischen und technischen Anlagen sowie von Schiffsmotoren,
 
-15. Verhalten unter besonderen Umständen, Havarien und Betriebsstörungen.
+6. Feststellen von Störungen an Hydrauliksystemen und Ergreifen von Maßnahmen zu deren Behebung,
 
-# § 5 – Ausbildungsrahmenplan
+7. Prüfen und Instandsetzen von mechanischen und technischen Anlagen sowie von Schiffsmotoren,
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+8. Befördern von Personen,
 
-# § 6 – Ausbildungsplan
+9. Mitwirken in der Sozialgemeinschaft an Bord,
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
+10. Durchführen qualitätssichernder Maßnahmen und
 
-# § 7 – Berichtsheft
+11. Handeln in Notfallsituationen.
 
-Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
+(3) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-# § 8 – Zwischenprüfung
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+3. Umweltschutz und Nachhaltigkeit,
 
-(3) Der Prüfling soll in insgesamt höchstens drei Stunden zwei Arbeitsaufgaben durchführen und mit branchenüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
+4. digitalisierte Arbeitswelt und
 
-1. Pflegen, Warten und Instandhalten von Schiffen und deren Anlagen,
+5. Informieren und Kommunizieren.
 
-2. Mitwirken beim Führen von Schiffen.
+(4) In den Schwerpunkten werden in folgenden Berufsbildpositionen weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt:
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgaben relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgaben begründen kann.
+1. im Schwerpunkt Frachtschifffahrt in der Berufsbildposition nach Absatz 2 Nummer 3 oder
 
-# § 9 – Abschlussprüfung
+2. im Schwerpunkt Personenschifffahrt in der Berufsbildposition nach Absatz 2 Nummer 8.
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+# § 5 – Ausbildungsplan
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen und mit branchenüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Mitwirken beim Führen von Schiffen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und durchführen, Arbeitsergebnisse kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie beim Umweltschutz ergreifen kann. Des Weiteren soll der Prüfling zeigen, dass er Schiffe an- und ablegen, technische Einrichtungen bedienen, überwachen und pflegen, Decksarbeiten ausführen, Draht- und Tauwerk instand halten, mit Rettungsmitteln und persönlicher Schutzausrüstung umgehen und Beiboote fahren kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch mit 15 Prozent zu gewichten.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-(3) Der Prüfling soll in Teil B der Prüfung in den Prüfungsbereichen Nautik, Schiffsbetriebstechnik, Maschinen- und Motorentechnik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Nautik, Schiffsbetriebstechnik sowie Maschinen- und Motorentechnik sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Inhalten zu analysieren, zu bewerten und zu lösen. Dabei sollen Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen, Verwendung von Materialien, Einsatz von Werkzeugen und Maschinen sowie qualitätssichernde Maßnahmen berücksichtigt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+# § 6 – Aufteilung in zwei Teile und Zeitpunkt
 
-1. im Prüfungsbereich Nautik:
+(1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-a) rechtliche Vorschriften auf Wasserstraßen,
+(2) Teil 1 soll am Ende des vierten Ausbildungshalbjahres stattfinden.
 
-b) Verkehrsgeographie,
+(3) Teil 2 findet am Ende der Berufsausbildung statt.
 
-c) wasserbauliche Anlagen,
+(4) Wird die Ausbildungsdauer verkürzt, so soll Teil 1 der Abschlussprüfung spätestens drei Monate vor dem Zeitpunkt von Teil 2 der Abschlussprüfung stattfinden.
 
-d) Navigationshilfsmittel;
+(5) Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-2. im Prüfungsbereich Schiffsbetriebstechnik:
+# § 7 – Inhalt des Teiles 1
 
-a) Schiffskonstruktion,
+Teil 1 der Abschlussprüfung erstreckt sich auf
 
-b) Verhalten im Wasser,
+1. die im Ausbildungsrahmenplan für die ersten vier Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-c) Decksausrüstung,
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-d) Be- und Entladung sowie Transport,
+# § 8 – Prüfungsbereich des Teiles 1
 
-e) Sicherheitsvorschriften,
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Betrieb von Binnenschiffen und Sicherheit auf Binnenschiffen“ statt.
 
-f) Schiffsbetriebswirtschaft;
+(2) Im Prüfungsbereich „Betrieb von Binnenschiffen und Sicherheit auf Binnenschiffen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-3. im Prüfungsbereich Maschinen- und Motorentechnik:
+1. aufgabenbezogene Anforderungen zu analysieren, Arbeitsprozesse zu planen und zu strukturieren sowie Arbeitsmittel auszuwählen,
 
-a) Antriebstechnik,
+2. von der Schiffsführung übertragene Aufgaben im Zusammenhang mit dem Manövrieren und Steuern eines Fahrzeuges umzusetzen,
 
-b) Vortriebstechnik,
+3. von der Schiffsführung übertragene Aufgaben im Zusammenhang mit der Überwachung des Fahrzeugbetriebs umzusetzen,
 
-c) Elektrotechnik,
+4. die Ausrüstung eines Fahrzeuges einzusetzen,
 
-d) Hydraulik,
+5. von der Schiffsführung übertragene Aufgaben im Zusammenhang mit dem Be- und Entladen eines Fahrzeuges umzusetzen,
 
-e) Pneumatik;
+6. von der Schiffsführung übertragene Aufgaben in Bezug auf die Schiffsbetriebstechnik umzusetzen,
 
-4. im Prüfungsbereich Wirtschafts- und Sozialkunde:
+7. von der Schiffsführung übertragene Aufgaben im Zusammenhang mit der Wartung eines Fahrzeuges, seiner Anlagen und seiner Ausrüstung umzusetzen,
 
-Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt, die sich auf praxisbezogene Fälle beziehen sollen.
+8. Wartungsarbeiten an der Ausrüstung eines Fahrzeuges im Bereich der Schiffsbetriebstechnik durchzuführen,
 
-(4) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:  
+9. von der Schiffsführung übertragene Aufgaben im Zusammenhang mit der Fürsorge für die an Bord befindlichen Personen umzusetzen,
 
-|     |                                               |              |
-|:----|:----------------------------------------------|-------------:|
-| 1\. | Prüfungsbereich Nautik                        | 120 Minuten, |
-| 2\. | Prüfungsbereich Schiffsbetriebstechnik        |  90 Minuten, |
-| 3\. | Prüfungsbereich Maschinen- und Motorentechnik |  90 Minuten, |
-| 4\. | Prüfungsbereich Wirtschafts- und Sozialkunde  |  60 Minuten. |
+10. adressatengerecht zu kommunizieren,
 
-(5) Innerhalb des Prüfungsteils B sind die Prüfungsbereiche wie folgt zu gewichten:  
+11. in Notfällen zu handeln sowie Maßnahmen zum Brandschutz und zur Brandbekämpfung zu ergreifen,
 
-|     |                                               |             |
-|:----|:----------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Nautik                        | 30 Prozent, |
-| 2\. | Prüfungsbereich Schiffsbetriebstechnik        | 25 Prozent, |
-| 3\. | Prüfungsbereich Maschinen- und Motorentechnik | 25 Prozent, |
-| 4\. | Prüfungsbereich Wirtschafts- und Sozialkunde  | 20 Prozent. |
+12. Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen und
 
-(6) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+13. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-(7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und im Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht wurden. In drei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
+(3) Der Prüfling hat drei Arbeitsaufgaben durchzuführen. Nach der Durchführung jeder Arbeitsaufgabe wird mit ihm ein auftragsbezogenes Fachgespräch über die jeweilige Arbeitsaufgabe geführt.
 
-# § 10 – Übergangsregelung
+(4) Der Prüfling hat Aufgaben schriftlich zu bearbeiten. Die Aufgaben müssen praxisbezogen sein.
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+(5) Die Prüfungszeit beträgt insgesamt 210 Minuten. Die Prüfungszeit für die Durchführung der Arbeitsaufgaben beträgt insgesamt 90 Minuten. Für die Durchführung der auftragsbezogenen Fachgespräche beträgt sie für jedes auftragsbezogene Fachgespräch höchstens 10 Minuten. Für die schriftliche Bearbeitung der Aufgaben beträgt die Prüfungszeit 90 Minuten.
 
-# § 11 – Inkrafttreten
+# § 9 – Inhalt des Teiles 2
 
-Diese Verordnung tritt am 1. August 2005 in Kraft.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-(Fundstelle: BGBl. I 2005, 124 - 127)
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
+
+# § 10 – Prüfungsbereiche des Teiles 2
+
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
+
+1. „Störungsanalyse und Instandsetzung“,
+
+2. in einem der Prüfungsbereiche
+
+a) „Schwerpunkt Frachtschifffahrt“ oder
+
+b) „Schwerpunkt Personenschifffahrt“ sowie
+
+3. „Wirtschafts- und Sozialkunde“.
+
+# § 11 – Prüfungsbereich „Störungsanalyse und Instandsetzung“
+
+(1) Im Prüfungsbereich „Störungsanalyse und Instandsetzung“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. auftragsbezogene Anforderungen zu analysieren,
+
+2. Arbeitsprozesse zu planen und zu strukturieren,
+
+3. Arbeitsmittel und Werkzeuge auszuwählen,
+
+4. Störungen und Schäden an Maschinen und Anlagen unter Berücksichtigung technischer Unterlagen einzugrenzen und ihre Ursachen zu identifizieren,
+
+5. Störungen und Schäden an Maschinen und Anlagen unter Berücksichtigung des Aufbaus und der Funktion von Bauteilen und Baugruppen zu beheben,
+
+6. Maßnahmen zur Behebung von Störungen und Schäden an Maschinen und Anlagen einzuleiten,
+
+7. durchgeführte Maßnahmen zur Behebung von Störungen und Schäden zu bewerten und zu dokumentieren,
+
+8. Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen sowie
+
+9. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
+
+(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
+
+1. Schiffsmotoren,
+
+2. Hydrauliksysteme und
+
+3. mechanische und technische Anlagen.
+
+(3) Der Prüfling hat eine Arbeitsaufgabe auf dem Gebiet Schiffsmotoren durchzuführen und eine Arbeitsaufgabe, der nach Wahl des Prüfungsausschusses das Gebiet Hydrauliksysteme oder das Gebiet mechanische und technische Anlagen zugrunde liegt. Nach der Durchführung wird mit dem Prüfling jeweils ein auftragsbezogenes Fachgespräch über die Arbeitsaufgabe geführt.
+
+(4) Der Prüfling hat Aufgaben schriftlich zu bearbeiten, die sich in ihrer Gesamtheit auf sämtliche in Absatz 2 genannten Gebiete beziehen. Die Aufgaben müssen praxisbezogen sein.
+
+(5) Die Prüfungszeit beträgt insgesamt 240 Minuten. Die Prüfungszeit für die Durchführung der Arbeitsaufgaben beträgt insgesamt 120 Minuten. Für die Durchführung der auftragsbezogenen Fachgespräche beträgt sie insgesamt höchstens 30 Minuten. Für die schriftliche Bearbeitung der Aufgaben beträgt sie 90 Minuten.
+
+# § 12 – Prüfungsbereich „Schwerpunkt Frachtschifffahrt“
+
+(1) Im Prüfungsbereich „Schwerpunkt Frachtschifffahrt“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. die Eignung vorhandener technischer Systeme auf Fahrzeugen zu beurteilen,
+
+2. Verbesserungen von technischen Systemen auf Fahrzeugen vorzuschlagen,
+
+3. das Be- und Entladen von Fahrzeugen zu überwachen,
+
+4. Ladung während eines Transportes zu überwachen,
+
+5. Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen sowie
+
+6. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
+
+(2) Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Nach der Durchführung der Arbeitsaufgabe wird mit ihm ein auftragsbezogenes Fachgespräch über die Arbeitsaufgabe geführt.
+
+(3) Der Prüfling hat Aufgaben schriftlich zu bearbeiten. Die Aufgaben müssen praxisbezogen sein.
+
+(4) Die Prüfungszeit beträgt insgesamt 115 Minuten. Die Prüfungszeit für die Durchführung der Arbeitsaufgabe beträgt 45 Minuten. Für die Durchführung des auftragsbezogenen Fachgespräches beträgt sie höchstens 10 Minuten. Für die schriftliche Bearbeitung der Aufgaben beträgt sie 60 Minuten.
+
+# § 13 – Prüfungsbereich „Schwerpunkt Personenschifffahrt“
+
+(1) Im Prüfungsbereich „Schwerpunkt Personenschifffahrt“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. allgemeine Maßnahmen zum Schutz von Personen zu ergreifen,
+
+2. Personen mit eingeschränkter Mobilität, insbesondere Menschen mit Behinderungen, zu unterstützen,
+
+3. bei Notfällen Rettungsmittel für Personen auszuwählen und die Verwendung der Rettungsmittel zu koordinieren,
+
+4. in Notfällen Sicherheitsbestimmungen zu beachten,
+
+5. mit Fahrgästen zu kommunizieren sowie
+
+6. Fahrgäste über Fahrgastrechte zu informieren.
+
+(2) Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Nach der Durchführung der Arbeitsaufgabe wird mit ihm ein auftragsbezogenes Fachgespräch über die Arbeitsaufgabe geführt.
+
+(3) Der Prüfling hat Aufgaben schriftlich zu bearbeiten. Die Aufgaben müssen praxisbezogen sein.
+
+(4) Die Prüfungszeit beträgt insgesamt 115 Minuten. Die Prüfungszeit für die Durchführung der Arbeitsaufgabe beträgt 45 Minuten. Für die Durchführung des auftragsbezogenen Fachgespräches beträgt sie höchstens 10 Minuten. Für die schriftliche Bearbeitung der Aufgaben beträgt sie 60 Minuten.
+
+# § 14 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
+
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 5%" /><col style="width: 66%" /><col style="width: 28%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;">„Betrieb von Binnenschiffen und Sicherheit auf Binnenschiffen“</td><td style="text-align: left;"><br />
+mit 40 Prozent,</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">„Störungsanalyse und Instandsetzung“</td><td style="text-align: left;"><br />
+mit 30 Prozent,</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">„Schwerpunkt Frachtschifffahrt“ oder „Schwerpunkt Personenschifffahrt“</td><td style="text-align: left;"><br />
+<br />
+mit 20 Prozent sowie</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">„Wirtschafts- und Sozialkunde“</td><td style="text-align: left;">mit 10 Prozent.</td></tr></tbody></table>
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 16 – wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+# § 16 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ gestellt worden ist,
+
+2. wenn der Prüfungsbereich „Wirtschafts- und Sozialkunde“ schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
+
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+
+# § 17 – Bestehende Berufsausbildungsverhältnisse
+
+Berufsausbildungsverhältnisse, die am 1. August 2022 bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn
+
+1. die Vertragsparteien dies vereinbaren und
+
+2. der oder die Auszubildende noch nicht die Zwischenprüfung nach § 8 der Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin vom 20. Januar 2005 (BGBl. I S. 121, 925) absolviert hat.
+
+# § 18 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin vom 20. Januar 2005 (BGBl. I S. 121, 925) außer Kraft.
+
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer und zur Binnenschifferin
+
+(Fundstelle: BGBl. I 2022, 262 - 270)
+
+ 
+
+ 
+
+ 
+
+2. Personenschifffahrt
 
 Lfd. Nr.
 
-Teil des Ausbildungsberufsbildes
+Berufsbildpositionen
 
-Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Zeitliche Richtwerte in Wochen
+Zeitliche Richtwerte  
+in Wochen im
 
-EUR
+1\. bis 24. Monat
 
-1.-18. Monat
-
-19.-36. Monat
-
-1
-
-2
-
-3
-
-4
+25\. bis 36. Monat
 
 1
 
-Berufsbildung, Arbeits- und Tarifrecht (§ 4 Nr. 1)
-
-a)
-
-Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
-
-während der gesamten Ausbildung zu vermitteln
-
-b)
-
-gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
-
-c)
-
-Möglichkeiten der beruflichen Fortbildung nennen
-
-d)
-
-wesentliche Teile des Arbeitsvertrages nennen
-
-e)
-
-wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
-
 2
-
-Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 2)
-
-a)
-
-Aufbau und Aufgaben des ausbildenden Betriebes erläutern
-
-b)
-
-Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
-
-c)
-
-Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften darstellen
-
-d)
-
-Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 3
 
-Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 3)
-
-a)
-
-Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
-
-b)
-
-berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
-
-c)
-
-Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
-
-d)
-
-Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
-
 4
 
-Umweltschutz (§ 4 Nr. 4)
+1
 
-Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
+Befördern von Personen  
+(§ 4 Absatz 4 Nummer 2)
 
-a)
+a) Sicherheitsanweisungen umsetzen
 
-mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
+b) zum Schutz und zur Sicherheit von Fahrgästen erforderliche Maßnahmen im Allgemeinen sowie in Notfällen ergreifen
 
-b)
+c) Hilfe leisten und Anweisungen erteilen, damit Personen mit eingeschränkter Mobilität, insbesondere mit Behinderungen, sicher einschiffen und ausschiffen sowie mit dem Schiff reisen können
 
-für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
+d) mit Fahrgästen auch in einer Fremdsprache kommunizieren, insbesondere über sicherheitsrelevante Themen
 
-c)
+e) Fahrgästen in Bezug auf Fahrgastrechte Hilfe leisten
 
-Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
-
-d)
-
-Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
-
-5
-
-Planen, Vorbereiten und Kontrollieren von Arbeitsabläufen, Arbeiten im Team (§ 4 Nr. 5)
-
-a)
-
-Arbeitsaufträge erfassen
-
-4\*)
+f) Einsatz von Rettungsmitteln organisieren
 
  
 
-b)
-
-Arbeitsschritte vorbereiten und festlegen, Aufgaben im Team planen und umsetzen
-
-c)
-
-Arbeitsmittel zusammenstellen
-
-d)
-
-Sicherheitsmaßnahmen unter Berücksichtigung von Arbeits- und Gesundheitsschutz planen und durchführen
-
-e)
-
-Arbeitsergebnisse kontrollieren und bewerten
-
-f)
-
-Gespräche situationsgerecht führen, Problemlösungsmöglichkeiten anwenden
-
- 
-
-2\*)
-
-6
-
-Information und Kommunikation (§ 4 Nr. 6)
-
-a)
-
-Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen einschließlich des Internets für den Ausbildungsbetrieb erläutern
-
-4\*)
-
- 
-
-b)
-
-Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationstechniken bearbeiten und lösen
-
-c)
-
-Informationen, auch fremdsprachliche, beschaffen, bewerten und nutzen; Daten erfassen, sichern und pflegen
-
-d)
-
-Vorschriften zum Datenschutz beachten
-
-e)
-
-Grundlagen des Funkverkehrs unterscheiden
-
-f)
-
-Sachverhalte darstellen, deutsche und englische Fachbegriffe anwenden
-
- 
-
-2\*)
-
-7
-
-Mitwirken beim Fahren von Fahrzeugen auf Binnenwasserstraßen und in Häfen (§ 4 Nr. 7)
-
-Nautische Führung
-
-16
-
- 
-
-a)
-
-Binnenschiffe losmachen, festmachen und verholen
-
-b)
-
-beim Zusammenstellen von Verbänden mitwirken
-
-c)
-
-Ankermanöver durchführen
-
-d)
-
-beim Steuern von Binnenschiffen mitwirken
-
- 
-
-16
-
-e)
-
-Navigationshilfsmittel unterscheiden und bei deren Einsatz mitwirken
-
-f)
-
-Wach- und Sicherheitsmaßnahmen durchführen
-
-Bedienen und Überwachen von Anlagen
-
- 
-
-4
-
-g)
-
-maschinelle Anlagen für den Betrieb vorbereiten, bedienen und überwachen
-
-h)
-
-elektrische und elektronische Anlagen bedienen und überwachen
-
-Europäisches Wasserstraßennetz
-
-8
-
- 
-
-i)
-
-europäisches Wasserstraßennetz darstellen und Nutzungsmöglichkeiten unterscheiden
-
-k)
-
-Fahrwasserzeichen und Fahrregeln von Wasserstraßen unterscheiden und anwenden
-
-l)
-
-Funktionsweise von wasserbaulichen Anlagen unterscheiden, insbesondere Schleusen und Hebewerke
-
- 
-
-4
-
-m)
-
-Verkehrsüberwachungssysteme anwenden
-
-Signale und Lichter
-
-6
-
- 
-
-n)
-
-Vorschriften über optische und akustische Signale anwenden
-
-o)
-
-Kennzeichen von Fahrzeugen und ihre Bedeutung unterscheiden
-
-8
-
-Rechtliche Voraussetzungen des Schiffsbetriebes und ihre Umsetzung (§ 4 Nr. 8)
-
-a)
-
-Besatzungsvorschriften unterscheiden
-
- 
-
-3
-
-b)
-
-Zulassungsdokumente für den nautischen und technischen Betrieb berücksichtigen und deren Gültigkeit überwachen
-
-c)
-
-Regelungen, insbesondere gesetzliche Vorschriften, Papiere und Urkunden, für den Transport von Gütern und die Beförderung von Personen beachten und anwenden
-
-9
-
-Bauliche Grundlagen von Binnenschiffen (§ 4 Nr. 9)
-
-a)
-
-Bauarten von Binnenschiffen und ihr Verhalten im Wasser unterscheiden, insbesondere Stabilität und Festigkeit
-
-2
-
- 
-
-b)
-
-Ausrüstung und Einsatzmöglichkeiten unterschiedlicher Schiffstypen beim Transport von Gütern und Befördern von Personen berücksichtigen
-
- 
-
-2
-
-10
-
-Transportieren von Gütern und Befördern von Personen (§ 4 Nr. 10)
-
-a)
-
-Ladungsgewicht berechnen
-
-6
-
- 
-
-b)
-
-Nutzungsmöglichkeiten von Ballast anwenden
-
-c)
-
-bei der Personenbeförderung mitwirken, rechtliche Bestimmungen anwenden
-
-d)
-
-Ladungsarten, insbesondere Trockengüter, flüssige Ladungen und Container, unter Berücksichtigung ihrer Eigenschaften und ihres Verhaltens unterscheiden
-
- 
-
-6
-
-e)
-
-Ladungsumschlag planen, vor- und nachbereiten, Ablauf einschließlich Ladungssicherung überwachen, Stauplan erstellen und anwenden
-
-f)
-
-rechtliche Bestimmungen für den Transport gefährlicher Güter anwenden
-
-11
-
-Kundenorientierung und qualitätssichernde Maßnahmen (§ 4 Nr. 11)
-
-a)
-
-qualitätsbewusst handeln und zur Qualitätssicherung beitragen
-
-2\*)
-
- 
-
-b)
-
-Gespräche kundenorientiert führen, Kundenwünsche beachten
-
- 
-
-3\*)
-
-c)
-
-zur kontinuierlichen Verbesserung von Arbeitsabläufen im eigenen Arbeitsbereich beitragen
-
-12
-
-Mitwirken bei logistischen Abläufen (§ 4 Nr. 12)
-
-a)
-
-Verkehrsträger und ihre Einsatzmöglichkeiten im kombinierten Verkehr unterscheiden
-
-2
-
- 
-
-b)
-
-bei der Planung von Betriebsabläufen und Fahrplänen mitwirken
-
- 
-
-2
-
-13
-
-Schiffsbetriebswirtschaft (§ 4 Nr. 13)
-
-a)
-
-Anlieferung von Betriebsmitteln, Hilfs- und Betriebsstoffen überwachen
-
-6
-
- 
-
-b)
-
-Betriebsmittel, Hilfs- und Betriebsstoffe, insbesondere unter Berücksichtigung gesetzlicher Bestimmungen, lagern und Verbrauch überwachen
-
-c)
-
-Einkauf von Nahrungsmitteln planen und durchführen, insbesondere unter Beachtung des Gesundheitsaspektes
-
-d)
-
-Mahlzeiten zubereiten
-
-e)
-
-Bedarf an Betriebsmitteln, Hilfs- und Betriebsstoffen unter Berücksichtigung wirtschaftlicher Gesichtspunkte ermitteln, Bestellungen vorbereiten
-
- 
-
-3
-
-f)
-
-Kassenbuch führen
-
-14
-
-Pflegen, Warten und Instandhalten von Schiffen und deren Anlagen (§ 4 Nr. 14)
-
-a)
-
-Eigenschaften und Einsatzmöglichkeiten von Werk- und Hilfsstoffen unterscheiden
-
-16
-
- 
-
-b)
-
-Konservierungs- und Reinigungsmittel, insbesondere unter Beachtung des Gesundheits- und Umweltschutzes, einsetzen
-
-c)
-
-Gebrauchsknoten entsprechend dem Verwendungszweck herstellen
-
-d)
-
-Werkstoffe bearbeiten
-
- 
-
-16
-
-e)
-
-technische Anlagen nach Wartungsvorschriften pflegen und warten
-
-f)
-
-Herstellungsarten und Eigenschaften von Drähten und Tauwerk unterscheiden, Drähte und Tauwerk pflegen und spleißen
-
-15
-
-Verhalten unter besonderen Umständen, Havarien und Betriebsstörungen (§ 4 Nr. 15)
-
-a)
-
-Rettungsmittel und persönliche Schutzausrüstungen einsetzen und warten
-
-6
-
-15
-
-b)
-
-verunglückte Personen, insbesondere durch Schwimmen, retten sowie Maßnahmen zur ersten Hilfe durchführen
-
-c)
-
-Störungen im Schiffsbetrieb erkennen, bewerten und Maßnahmen zu deren Beseitigung ergreifen
-
- 
-
-d)
-
-sich bei Leckalarm, Havarien, Bränden und Notfällen situationsgerecht verhalten, Hilfs- und Sofortmaßnahmen ergreifen
-
-e)
-
-Beiboote handhaben
-
-\*)  
-Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
+26

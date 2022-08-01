@@ -73,7 +73,7 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 1. der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der Absender bei Versand der Nachricht gemäß § 4 Absatz 1 Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere Anmeldung gemäß § 5 Absatz 5 desDe-Mail-Gesetzes bestätigen lässt,
 
-2. der Übermittlungsweg zwischen dem besonderen elektronischen Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesamts,
+2. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesamts,
 
 3. der Übermittlungsweg zwischen dem besonderen elektronischen Notarpostfach nach § 78n der Bundesnotarordnung und der elektronischen Poststelle des Bundesamts,
 

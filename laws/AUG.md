@@ -279,7 +279,7 @@ Bietet in Verfahren gemäß § 1 Absatz 1 Satz 1 Nummer 3 die beabsichtigte Rech
 
 1. Unterhalt im Scheidungs- oder Aufhebungsverbund geltend gemacht wird und die deutschen Gerichte für die Ehe- oder die Lebenspartnerschaftssache nach den folgenden Bestimmungen zuständig sind:
 
-a) im Anwendungsbereich der Verordnung (EG) Nr. 2201/2003 des Rates vom 27. November 2003 über die Zuständigkeit und die Anerkennung von Entscheidungen in Ehesachen und in Verfahren betreffend die elterliche Verantwortung und zur Aufhebung der Verordnung (EG) Nr. 1347/2000 (ABl. L 338 vom 23.12.2003, S. 1) nach Artikel 3 Absatz 1 dieser Verordnung,
+a) im Anwendungsbereich der Verordnung (EU) 2019/1111 des Rates vom 25. Juni 2019 über die Zuständigkeit, die Anerkennung und Vollstreckung von Entscheidungen in Ehesachen und in Verfahren betreffend die elterliche Verantwortung und über internationale Kindesentführungen (ABl. L 178 vom 2.7.2019, S. 1) nach Artikel 3 der Verordnung (EU) 2019/1111,
 
 b) nach § 98 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit oder
 
