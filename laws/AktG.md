@@ -1047,7 +1047,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (1) In der Anmeldung ist zu erklären, daß die Voraussetzungen des § 36 Abs. 2 und des § 36a erfüllt sind; dabei sind der Betrag, zu dem die Aktien ausgegeben werden, und der darauf eingezahlte Betrag anzugeben. Es ist nachzuweisen, daß der eingezahlte Betrag endgültig zur freien Verfügung des Vorstands steht. Ist der Betrag gemäß § 54 Abs. 3 durch Gutschrift auf ein Konto eingezahlt worden, so ist der Nachweis durch eine Bestätigung des kontoführenden Instituts zu führen. Für die Richtigkeit der Bestätigung ist das Institut der Gesellschaft verantwortlich. Sind von dem eingezahlten Betrag Steuern und Gebühren bezahlt worden, so ist dies nach Art und Höhe der Beträge nachzuweisen.
 
-(2) In der Anmeldung haben die Vorstandsmitglieder zu versichern, daß keine Umstände vorliegen, die ihrer Bestellung nach § 76 Abs. 3 Satz 2 Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden sind. Die Belehrung nach § 53 Abs. 2 des Bundeszentralregistergesetzes kann schriftlich vorgenommen werden; sie kann auch durch einen Notar oder einen im Ausland bestellten Notar, durch einen Vertreter eines vergleichbaren rechtsberatenden Berufs oder einen Konsularbeamten erfolgen.
+(2) In der Anmeldung haben die Vorstandsmitglieder zu versichern, daß keine Umstände vorliegen, die ihrer Bestellung nach § 76 Absatz 3 Satz 2 Nummer 2 und 3 sowie Satz 3 und 4 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden sind. Die Belehrung nach § 53 Abs. 2 des Bundeszentralregistergesetzes kann schriftlich vorgenommen werden; sie kann auch durch einen Notar oder einen im Ausland bestellten Notar, durch einen Vertreter eines vergleichbaren rechtsberatenden Berufs oder einen Konsularbeamten erfolgen.
 
 (3) In der Anmeldung sind ferner anzugeben:
 
@@ -1537,7 +1537,7 @@ e) nach den §§ 263 bis 264a oder den §§ 265b bis 266a des Strafgesetzbuchs z
 
 verurteilt worden ist; dieser Ausschluss gilt für die Dauer von fünf Jahren seit der Rechtskraft des Urteils, wobei die Zeit nicht eingerechnet wird, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
 
-Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar ist.
+Satz 2 Nummer 2 gilt entsprechend, wenn die Person in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einem vergleichbaren Verbot unterliegt. Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar ist.
 
 (3a) Besteht der Vorstand bei börsennotierten Gesellschaften, für die das Mitbestimmungsgesetz, das Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-2, veröffentlichten bereinigten Fassung – Montan-Mitbestimmungsgesetz – oder das Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-3, veröffentlichten bereinigten Fassung – Mitbestimmungsergänzungsgesetz – gilt, aus mehr als drei Personen, so muss mindestens eine Frau und mindestens ein Mann Mitglied des Vorstands sein. Eine Bestellung eines Vorstandsmitglieds unter Verstoß gegen dieses Beteiligungsgebot ist nichtig.
 
@@ -1579,7 +1579,7 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (2) Der Anmeldung sind die Urkunden über die Änderung in Urschrift oder öffentlich beglaubigter Abschrift beizufügen.
 
-(3) Die neuen Vorstandsmitglieder haben in der Anmeldung zu versichern, daß keine Umstände vorliegen, die ihre Bestellung nach § 76 Abs. 3 Satz 2 Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden sind. § 37 Abs. 2 Satz 2 ist anzuwenden.
+(3) Die neuen Vorstandsmitglieder haben in der Anmeldung zu versichern, daß keine Umstände vorliegen, die ihre Bestellung nach § 76 Abs. 3 Satz 2 Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden sind. § 37 Abs. 2 Satz 2 ist anzuwenden.
 
 (4) (weggefallen)
 
@@ -3448,7 +3448,7 @@ Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist 
 
 # § 225 – Gläubigerschutz
 
-(1) Den Gläubigern, deren Forderungen begründet worden sind, bevor die Eintragung des Beschlusses bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen. Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
+(1) Den Gläubigern, deren Forderungen begründet worden sind, bevor die Eintragung des Beschlusses bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in einer Bekanntmachung zu der Eintragung auf dieses Recht hinzuweisen. Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
 (2) Zahlungen an die Aktionäre dürfen auf Grund der Herabsetzung des Grundkapitals erst geleistet werden, nachdem seit der Bekanntmachung der Eintragung sechs Monate verstrichen sind und nachdem den Gläubigern, die sich rechtzeitig gemeldet haben, Befriedigung oder Sicherheit gewährt worden ist. Auch eine Befreiung der Aktionäre von der Verpflichtung zur Leistung von Einlagen wird nicht vor dem bezeichneten Zeitpunkt und nicht vor Befriedigung oder Sicherstellung der Gläubiger wirksam, die sich rechtzeitig gemeldet haben.
 
@@ -3498,7 +3498,7 @@ Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in dem der
 
 (1) Gewinn darf nicht ausgeschüttet werden, bevor die gesetzliche Rücklage und die Kapitalrücklage zusammen zehn vom Hundert des Grundkapitals erreicht haben. Als Grundkapital gilt dabei der Nennbetrag, der sich durch die Herabsetzung ergibt, mindestens aber der in § 7 bestimmte Mindestnennbetrag.
 
-(2) Die Zahlung eines Gewinnanteils von mehr als vier vom Hundert ist erst für ein Geschäftsjahr zulässig, das später als zwei Jahre nach der Beschlußfassung über die Kapitalherabsetzung beginnt. Dies gilt nicht, wenn die Gläubiger, deren Forderungen vor der Bekanntmachung der Eintragung des Beschlusses begründet worden waren, befriedigt oder sichergestellt sind, soweit sie sich binnen sechs Monaten nach der Bekanntmachung des Jahresabschlusses, auf Grund dessen die Gewinnverteilung beschlossen ist, zu diesem Zweck gemeldet haben. Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist. Die Gläubiger sind in der Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs auf die Befriedigung oder Sicherstellung hinzuweisen.
+(2) Die Zahlung eines Gewinnanteils von mehr als vier vom Hundert ist erst für ein Geschäftsjahr zulässig, das später als zwei Jahre nach der Beschlußfassung über die Kapitalherabsetzung beginnt. Dies gilt nicht, wenn die Gläubiger, deren Forderungen vor der Bekanntmachung der Eintragung des Beschlusses begründet worden waren, befriedigt oder sichergestellt sind, soweit sie sich binnen sechs Monaten, nachdem der der Gewinnverteilung zugrundeliegende Jahresabschluss in das Unternehmensregister eingestellt worden ist, zu diesem Zweck gemeldet haben. Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist. Die Gläubiger sind auf die Befriedigung und Sicherstellung durch eine gesonderte Erklärung hinzuweisen, die der das Unternehmensregister führenden Stelle gemeinsam mit dem Jahresabschluss elektronisch zur Einstellung in das Unternehmensregister zu übermitteln ist.
 
 (3) Die Beträge, die aus der Auflösung von Kapital- und Gewinnrücklagen und aus der Kapitalherabsetzung gewonnen sind, dürfen auch nach diesen Vorschriften nicht als Gewinn ausgeschüttet werden.
 
@@ -3782,7 +3782,7 @@ c) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments 
 
 Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert, Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert, Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Bei Kreditinstituten, Finanzdienstleistungsinstituten oder bei Wertpapierinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs liegt ein Verstoß gegen die Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für Versicherungsunternehmen nach Maßgabe der für sie geltenden Vorschriften, insbesondere der §§ 341b bis 341h des Handelsgesetzbuchs.
 
-(6) Die Nichtigkeit nach Absatz 1 Nr. 1, 3 und 4, Absatz 2, Absatz 3 Nr. 1 und 2, Absatz 4 und 5 kann nicht mehr geltend gemacht werden, wenn seit der Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs in den Fällen des Absatzes 1 Nr. 3 und 4, des Absatzes 2 und des Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen Fällen drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses rechtshängig, so verlängert sich die Frist, bis über die Klage rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig erledigt hat.
+(6) Die Nichtigkeit nach Absatz 1 Nr. 1, 3 und 4, Absatz 2, Absatz 3 Nr. 1 und 2, Absatz 4 und 5 kann nicht mehr geltend gemacht werden, wenn seit der Einstellung des Jahresabschlusses in das Unternehmensregister in den Fällen des Absatzes 1 Nr. 3 und 4, des Absatzes 2 und des Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen Fällen drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses rechtshängig, so verlängert sich die Frist, bis über die Klage rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig erledigt hat.
 
 (7) Für die Klage auf Feststellung der Nichtigkeit gegen die Gesellschaft gilt § 249 sinngemäß. Ist für die Gesellschaft als Emittentin von zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes mit Ausnahme von Anteilen und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs die Bundesrepublik Deutschland der Herkunftsstaat (§ 2 Absatz 13 des Wertpapierhandelsgesetzes), so hat das Gericht der Bundesanstalt für Finanzdienstleistungsaufsicht den Eingang einer Klage auf Feststellung der Nichtigkeit sowie jede rechtskräftige Entscheidung über diese Klage mitzuteilen.
 
@@ -3892,7 +3892,7 @@ Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Handelsre
 
 (1) Die Abwicklung besorgen die Vorstandsmitglieder als Abwickler.
 
-(2) Die Satzung oder ein Beschluß der Hauptversammlung kann andere Personen als Abwickler bestellen. Für die Auswahl der Abwickler gilt § 76 Abs. 3 Satz 2 und 3 sinngemäß. Auch eine juristische Person kann Abwickler sein.
+(2) Die Satzung oder ein Beschluß der Hauptversammlung kann andere Personen als Abwickler bestellen. Für die Auswahl der Abwickler gilt § 76 Abs. 3 Satz 2 bis 4 sinngemäß. Auch eine juristische Person kann Abwickler sein.
 
 (3) Auf Antrag des Aufsichtsrats oder einer Minderheit von Aktionären, deren Anteile zusammen den zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500 000 Euro erreichen, hat das Gericht bei Vorliegen eines wichtigen Grundes die Abwickler zu bestellen und abzuberufen. Die Aktionäre haben glaubhaft zu machen, daß sie seit mindestens drei Monaten Inhaber der Aktien sind. Zur Glaubhaftmachung genügt eine eidesstattliche Versicherung vor einem Gericht oder Notar. Gegen die Entscheidung ist die Beschwerde zulässig.
 
@@ -4342,7 +4342,7 @@ Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die Berechnung
 
 # § 303 – Gläubigerschutz
 
-(1) Endet ein Beherrschungs- oder ein Gewinnabführungsvertrag, so hat der andere Vertragsteil den Gläubigern der Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Beendigung des Vertrags in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist, Sicherheit zu leisten, wenn sie sich binnen sechs Monaten nach der Bekanntmachung der Eintragung zu diesem Zweck bei ihm melden. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen.
+(1) Endet ein Beherrschungs- oder ein Gewinnabführungsvertrag, so hat der andere Vertragsteil den Gläubigern der Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Beendigung des Vertrags in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist, Sicherheit zu leisten, wenn sie sich binnen sechs Monaten nach der Bekanntmachung der Eintragung zu diesem Zweck bei ihm melden. Die Gläubiger sind in einer Bekanntmachung zu der Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
@@ -4573,7 +4573,7 @@ Mit der Eintragung der Eingliederung in das Handelsregister gehen alle Aktien, d
 
 # § 321 – Gläubigerschutz
 
-(1) Den Gläubigern der eingegliederten Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Eingliederung in das Handelsregister bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen.
+(1) Den Gläubigern der eingegliederten Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Eingliederung in das Handelsregister bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in einer Bekanntmachung zu der Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Falle des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 

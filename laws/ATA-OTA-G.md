@@ -497,6 +497,8 @@ Die Unterbrechung der Ausbildung wegen Fehlzeiten aufgrund mutterschutzrechtlich
 
 (6) Ist die Schule Ausbildungsträger, wird der Ausbildungsvertrag nur wirksam, wenn die verantwortliche Einrichtung der praktischen Ausbildung dem Ausbildungsvertrag zustimmt. Ist die verantwortliche Einrichtung der praktischen Ausbildung Ausbildungsträger, wird der Ausbildungsvertrag nur wirksam, wenn die Schule dem Ausbildungsvertrag zustimmt. Ist ein Dritter Ausbildungsträger, wird der Ausbildungsvertrag nur wirksam, wenn die Schule und die verantwortliche Einrichtung der praktischen Ausbildung dem Ausbildungsvertrag zustimmen.
 
+(7) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für den Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze anzuwenden.
+
 # § 27 – Pflichten des Ausbildungsträgers
 
 (1) Der Ausbildungsträger hat die Ausbildung in einer durch ihren Zweck gebotenen Form planmäßig sowie zeitlich und sachlich gegliedert so durchzuführen, dass das Ausbildungsziel in der vorgesehenen Zeit erreicht werden kann.

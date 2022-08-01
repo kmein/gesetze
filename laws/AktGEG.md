@@ -3,13 +3,13 @@
  
 # Übersicht
 
-|     |           |                                                                                 |              |
-|:----|:----------|:--------------------------------------------------------------------------------|:-------------|
-| 1\. | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26j     |
-|     |           | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz                   |   §§ 26k-26l |
-| 2\. | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28a    |
-| 3\. | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44     |
-| 4\. | Abschnitt | Schlußvorschriften                                                              | §§ 45-46     |
+|     |           |                                                                                 |            |
+|:----|:----------|:--------------------------------------------------------------------------------|:-----------|
+| 1\. | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26j   |
+|     |           | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz                   | §§ 26k-26m |
+| 2\. | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28a  |
+| 3\. | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44   |
+| 4\. | Abschnitt | Schlußvorschriften                                                              | §§ 45-46   |
 
 # Eingangsformel
 
@@ -277,9 +277,11 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 
 (3) Der jeweilige Mindestanteil von Frauen und Männern im Aufsichtsrat nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
 
-# § 26m – (zukünftig in Kraft)
+# § 26m – Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
-(+++ § 26m: Tritt gem. Art. 19 G v. 5.7.2021 I 3338 mWv 1.8.2022 in Kraft +++)
+(1) § 37 Absatz 2 Satz 1, § 76 Absatz 3 Satz 3, § 81 Absatz 3 Satz 1 und § 265 Absatz 2 Satz 2 des Aktiengesetzes in der ab dem 1. August 2022 geltenden Fassung sind erstmals ab dem 1. August 2023 anzuwenden.
+
+(2) § 233 Absatz 2 Satz 2 und 4 und § 256 Absatz 6 Satz 1 des Aktiengesetzes in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Jahresabschlüsse für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Jahresabschlüsse für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 # § 26n – Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
 

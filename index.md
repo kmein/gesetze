@@ -807,7 +807,7 @@
 - [BinSchAbkGEORProt](laws/BinSchAbkGEORProt.md) Protokoll zum Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt
 - [BinSchArbZV](laws/BinSchArbZV.md) Verordnung über die Arbeitszeit in der Binnenschifffahrt 1
 - [BinSchAufgG](laws/BinSchAufgG.md) Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt
-- [BinSchAusbV](laws/BinSchAusbV.md) Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
+- [BinSchAusbV](laws/BinSchAusbV.md) Verordnung über die Berufsausbildung zum Binnenschiffer und zur Binnenschifferin *
 - [BinSchEO](laws/BinSchEO.md) Verordnung über die Eichung von Binnenschiffen 1
 - [BinSchEÜbk](laws/BinSchEÜbk.md) Übereinkommen über die Eichung von Binnenschiffen
 - [BinSchEÜbkG](laws/BinSchEÜbkG.md) Gesetz zu dem Übereinkommen vom 15. Februar 1966 über die Eichung von Binnenschiffen
@@ -817,6 +817,7 @@
 - [BinSchFuDVbgBek](laws/BinSchFuDVbgBek.md) Bekanntmachung der Regionalen Vereinbarung über den Binnenschiffahrtsfunk
 - [BinSchG](laws/BinSchG.md) Gesetz betreffend die privatrechtlichen Verhältnisse der Binnenschiffahrt
 - [BinSchGerG](laws/BinSchGerG.md) Gesetz über das gerichtliche Verfahren in Binnenschiffahrtssachen
+- [BinSchKapAusbV](laws/BinSchKapAusbV.md) Verordnung über die Berufsausbildung zum Binnenschifffahrtskapitän und zur Binnenschifffahrtskapitänin *
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
