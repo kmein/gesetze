@@ -5388,7 +5388,8 @@ c) innerhalb von verbundenen Unternehmen eine grenzüberschreitende Übertragung
 
 Falls mehr als eine Person gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen derselben Person beteiligt ist, gelten alle betroffenen Personen als untereinander verbundene Unternehmen. Falls dieselben Personen gemäß Satz 1 an der Geschäftsleitung, der Kontrolle, dem Kapital oder den Gewinnen von mehr als einer Person beteiligt sind, gelten alle betroffenen Personen als verbundene Unternehmen. Für die Zwecke dieses Absatzes wird eine Person, die in Bezug auf die Stimmrechte oder die Kapitalbeteiligung an einem Unternehmen gemeinsam mit einer anderen Person handelt, so behandelt, als würde sie eine Beteiligung an allen Stimmrechten oder dem gesamten Kapital dieses Unternehmens halten, die oder das von der anderen Person gehalten werden oder wird. Bei mittelbaren Beteiligungen wird die Erfüllung der Anforderungen gemäß Satz 1 Nummer 3 durch Multiplikation der Beteiligungsquoten an den nachgeordneten Unternehmen ermittelt. Eine Person mit einer Stimmrechtsbeteiligung von mehr als 50 Prozent gilt als Halter von 100 Prozent der Stimmrechte. Eine natürliche Person, ihr Ehepartner und ihre Verwandten in aufsteigender oder absteigender gerader Linie werden als eine einzige Person behandelt, wenn gleichgerichtete wirtschaftliche Interessen bestehen. Person im Sinne der Sätze 1 bis 7 ist jede natürliche oder juristische Person, Personengesellschaft, Gemeinschaft oder Vermögensmasse.
 
-(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)
+(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)  
+(+++ § 138e Abs. 3 Satz 6 bis 8: Zur Anwendung vgl. Art. 97 § 33 Abs. 6 AOEG 1977 +++)
 
 # § 138f – Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre
 
@@ -5528,7 +5529,8 @@ b) Einkünfte erzielen oder eine wirtschaftliche Tätigkeit ausüben, sofern die
 
 (2) Bei marktfähigen grenzüberschreitenden Steuergestaltungen sind Änderungen und Ergänzungen hinsichtlich der in § 138f Absatz 3 Satz 1 Nummer 1, 2, 3, 6, 9 und 10 bezeichneten Angaben, die nach Übermittlung des Datensatzes nach § 138f Absatz 3 eingetreten sind, innerhalb von zehn Tagen nach Ablauf des Kalendervierteljahres mitzuteilen, in dem die jeweils mitteilungspflichtigen Umstände eingetreten sind. Dabei sind die Registriernummer und die Offenlegungsnummer anzugeben. Die Angaben sind dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle mitzuteilen. Die Sätze 1 bis 3 gelten in den Fällen des § 138g entsprechend.
 
-(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)
+(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)  
+(+++ § 138h Abs. 2 Satz 1: Zur Anwendung vgl. Art. 97 § 33 Abs. 6 AOEG 1977 +++)
 
 # § 138i – Information der Landesfinanzbehörden
 
@@ -6401,7 +6403,8 @@ Umfang und Grund der Vorläufigkeit sind anzugeben. Unter den Voraussetzungen de
 
 (3) Die vorläufige Steuerfestsetzung kann mit einer Steuerfestsetzung unter Vorbehalt der Nachprüfung verbunden werden.
 
-(+++ § 165: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 u. § 1 InvStG +++)
+(+++ § 165: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 u. § 1 InvStG +++)  
+(+++ § 165 Abs. 1 Satz 2 Nr. 2, Satz 4, Abs. 2: Zur Anwendung vgl. Art. 97 § 15 Abs. 16 AOEG 1977 +++)
 
 # § 166 – Drittwirkung der Steuerfestsetzung
 
@@ -6515,6 +6518,7 @@ beginnt die Festsetzungsfrist frühestens mit Ablauf des Kalenderjahres, in dem 
 
 (+++ § 171: Zur Anwendung vgl. Art. 97 §§ 1 u. 27 AOEG 1977 +++)  
 (+++ § 171: Zur Geltung vgl. Art. 97 §§ 10 u. 11a AOEG 1977 +++)  
+(+++ § 171 Abs. 8: Zur Anwendung vgl. Art. 97 § 15 Abs. 16 AOEG 1977 +++)  
 (+++ § 171 Abs. 10a: Zur Anwendung vgl. § 45b Abs. 8 Nr. 2 EStG +++)
 
 # § 172 – Aufhebung und Änderung von Steuerbescheiden
@@ -6622,6 +6626,8 @@ Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur 
 Ist die bisherige Rechtsprechung bereits in einer Steuererklärung oder einer Steueranmeldung berücksichtigt worden, ohne dass das für die Finanzbehörde erkennbar war, so gilt Nummer 3 nur, wenn anzunehmen ist, dass die Finanzbehörde bei Kenntnis der Umstände die bisherige Rechtsprechung angewandt hätte.
 
 (2) Bei der Aufhebung oder Änderung eines Steuerbescheids darf nicht zuungunsten des Steuerpflichtigen berücksichtigt werden, dass eine allgemeine Verwaltungsvorschrift der Bundesregierung, einer obersten Bundes- oder Landesbehörde von einem obersten Gerichtshof des Bundes als nicht mit dem geltenden Recht in Einklang stehend bezeichnet worden ist.
+
+(+++ § 176 Abs. 1 Satz 1 Nr. 1: Zur Anwendung vgl. Art. 97 § 15 Abs. 14 AOEG 1977 +++)
 
 # § 177 – Berichtigung von materiellen Fehlern
 
@@ -7280,6 +7286,8 @@ Durch die Verjährung erlöschen der Anspruch aus dem Steuerschuldverhältnis un
 
 Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit dies durch Bundesrecht oder Recht der Europäischen Union vorgeschrieben ist. Ansprüche auf steuerliche Nebenleistungen (§ 3 Abs. 4) und die entsprechenden Erstattungsansprüche werden nicht verzinst.
 
+(+++ § 233 F. 12.7.2022: Zur Geltung vgl. Art. 97 § 15 Abs. 13 AOEG 1977 +++)
+
 # § 233a – Verzinsung von Steuernachforderungen und Steuererstattungen
 
 (1) Führt die Festsetzung der Einkommen-, Körperschaft-, Vermögen-, Umsatz- oder Gewerbesteuer zu einem Unterschiedsbetrag im Sinne des Absatzes 3, ist dieser zu verzinsen. Dies gilt nicht für die Festsetzung von Vorauszahlungen und Steuerabzugsbeträgen.
@@ -7303,10 +7311,12 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 (+++ § 233a F. 25.7.1988: Zur Geltung vgl. Art. 97 § 15 Abs. 4 AOEG 1977 +++)  
 (+++ § 233a Abs. 2 Satz 1: Zur Geltung vgl. Art. 97 § 36 AOEG 1977 +++)  
 (+++ § 233a Abs. 2 Satz 2: Zur Geltung vgl. Art. 97 § 15 Abs. 11 u. § 36 AOEG 1977 +++)  
+(+++ § 233a Abs. 2 Satz 2 Halbsatz 2, Abs. 3 Satz 4 und Abs. 5 Satz 4: Zur Geltung vgl. Art. 97 § 15 Abs. 13 AOEG 1977 +++)  
 (+++ § 233a Abs. 2 Satz 3: Zur Geltung vgl. Art. 97 § 15 Abs. 9 AOEG 1977 +++)  
 (+++ § 233a Abs. 2a: Zur Geltung vgl. Art. 97 § 15 Abs. 8 AOEG 1977 +++)  
 (+++ § 233a Abs. 2a: Zur Anwendung vgl. § 7b EStG +++)  
 (+++ § 233a Abs. 5: Zur Geltung vgl. Art. 97 § 15 Abs. 6 AOEG 1977 +++)  
+(+++ § 233a Abs. 5 Satz 3 Halbsatz 2, Absatz 8: Zur Anwendung vgl. Art. 97 § 15 Abs. 14 AOEG 1977 +++)  
 (+++ § 233a: Zur Anwendung vgl. Art. 97 §§ 9 u. 36 AOEG 1977 +++)  
 § 233a idF d. Bek v. 1.10.2002 I 3866: IVm § 3 Abs. 2 Satz 1 idF d. Bek. v. 1.10.2002 I 3866 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 8.7.2021 I 4303 - 1 BvR 2237/14, 1 BvR 2422/17 -. Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften für bis einschließlich in das Jahr 2018 fallende Verzinsungszeiträume weiter anwendbar. Der Gesetzgeber ist verpflichtet, bis zum 31.7.2022 eine verfassungsgemäße Neuregelung zu treffen.
 
@@ -7384,6 +7394,7 @@ führt.
 (2) Für die Berechnung der Zinsen wird der zu verzinsende Betrag jeder Steuerart auf den nächsten durch 50 Euro teilbaren Betrag abgerundet.
 
 (+++ § 238 Abs. 2: Zur Geltung vgl. Art. 97 § 15 Abs. 10 AOEG 1977 +++)  
+(+++ § 238 Abs. 1a bis 1c: Zur Anwendung vgl. Art. 97 § 15 Abs. 14 AOEG 1977 +++)  
 (+++ § 238: Zur Anwendung vgl. § 28 ErbStG 1974 +++)
 
 # § 239 – Festsetzung der Zinsen
@@ -7419,7 +7430,9 @@ gesondert festzustellen, soweit diese an Sachverhalte anknüpfen, die Gegenstand
 (5) Die Festsetzung von Zinsen nach § 233a hat Bindungswirkung für Zinsfestsetzungen nach den §§ 234, 235, 236 oder 237, soweit auf diese Zinsen nach § 233a festgesetzte Zinsen anzurechnen sind.
 
 (+++ § 239: Zur Anwendung vgl. Art. 97 §§ 1 u. 15 AOEG 1977 +++)  
-(+++ § 239: Zur Geltung vgl. Art. 97 § 15 AOEG 1977 +++)
+(+++ § 239: Zur Geltung vgl. Art. 97 § 15 AOEG 1977 +++)  
+(+++ § 239 Abs. 1 Satz 1 u. 2: Zur Geltung vgl. Art. 97 § 15 Abs. 15 AOEG 1977 +++)  
+(+++ § 239 Abs. 5: Zur Anwendung vgl. Art. 97 § 15 Abs. 14 AOEG 1977 +++)
 
 # § 240 – Säumniszuschläge
 
