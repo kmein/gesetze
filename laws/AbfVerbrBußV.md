@@ -37,7 +37,7 @@ Auf Grund des § 18 Abs. 5 des Abfallverbringungsgesetzes vom 19. Juli 2007 (BGB
 
 # § 2 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1418/2007
 
-(1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 18 Buchstabe a des Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 1418/2007 der Kommission vom 29. November 2007 über die Ausfuhr von bestimmten in Anhang III oder III A der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates aufgeführten Abfällen, die zur Verwertung bestimmt sind, in bestimmte Staaten, für die der OECD-Beschluss über die Kontrolle der grenzüberschreitenden Verbringung von Abfällen nicht gilt (ABl. L 316 vom 4.12.2007, S. 6), die zuletzt durch die Verordnung (EU) 2021/1840 (ABl. L 373 vom 21.10.2021, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 18 Buchstabe a des Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 1418/2007 der Kommission vom 29. November 2007 über die Ausfuhr von bestimmten in Anhang III oder III A der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates aufgeführten Abfällen, die zur Verwertung bestimmt sind, in bestimmte Staaten, für die der OECD-Beschluss über die Kontrolle der grenzüberschreitenden Verbringung von Abfällen nicht gilt (ABl. L 316 vom 4.12.2007, S. 6), die zuletzt durch die Verordnung (EU) 2022/520 (ABl. L 104 vom 1.4.2022, S. 63) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 1 in Verbindung mit Spalte a des Anhangs Abfälle ausführt,
 
