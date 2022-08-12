@@ -36,13 +36,13 @@ des § 42 Absatz 4a Satz 2 des Bundeswasserstraßengesetzes in der Fassung der B
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 4 – Übergangsregelung
 
 Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des Eisenbahnkreuzungsgesetzes vor dem Ablauf des 1. Juli 2021 eine Vereinbarung getroffen haben, ist diese Verordnung in der bis zum Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
 # Anlage – (zu § 2 Absatz 1)
 
@@ -252,9 +252,9 @@ aufgegliedert werden. Für die Aufwendungen der weiteren Erneuerungen steht nach
 
 Euro zur Verfügung. Nach weiteren m Jahren, also zum Zeitpunkt der zweiten Erneuerung nach der Ablösungsvereinbarung, mathematisch ausgedrückt durch die Multiplikation der Gleichung mit qm</sup>, steht ein Betrag von  
 
-|                                                                               |
-|:-----------------------------------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0010.jpg "Formel 8 zu Anlage 2.3 (3)") |
+|                                                                                                                                                                                    |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="../normengrafiken/bgbl1_2010/j0856-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a> |
 
    
  

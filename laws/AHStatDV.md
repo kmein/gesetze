@@ -696,7 +696,7 @@ Waren anderer Kapitel (als der vorgenannten)
 
 9930 99 00
 
-Betriebs‑ und Versorgungsgüter für Einrichtungen auf hoher See, z. B. Bohrinseln (nach § 22)
+Betriebs- und Versorgungsgüter für Einrichtungen auf hoher See, z. B. Bohrinseln (nach § 22)
 
 9931
 
@@ -757,7 +757,7 @@ Diese Warennummer gilt für Zusammenstellungen (Sortimente) von Waren, die sich 
 
  
 
-Zusammenstellungen (Sortimente) von Waren zum Errichten und Ausstatten von Messe‑ und Ausstellungsständen zur vorübergehenden oder nach vorübergehender Verwendung im Ausland
+Zusammenstellungen (Sortimente) von Waren zum Errichten und Ausstatten von Messe- und Ausstellungsständen zur vorübergehenden oder nach vorübergehender Verwendung im Ausland
 
   
   
