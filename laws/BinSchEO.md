@@ -210,23 +210,21 @@ Der Eichraum ist der auszumessende Teil des Schiffes, der von der Leerebene (§�
 
 (1) Die Leerebene ist diejenige Schwimmebene, welche das Schiff in Süßwasser (Dichte = 1) in folgendem Zustand einnimmt:
 
-1. Das Schiff trägt die Ausrüstung, die Einrichtung, die Vorräte und die Besatzung, die sich während der Fahrt normalerweise an Bord befindet. Dabei darf der Brauchwasservorrat 0,5 vom Hundert der maximalen Wasserverdrängung nicht merklich überschreiten. Wasser, das mit den üblichen Lenzeinrichtungen aus dem Schiffsraum nicht entfernt werden kann, darf an Bord verbleiben.
+1. Das Schiff trägt die Ausrüstung, die Einrichtung, die Vorräte und die Besatzung, die sich während der Fahrt normalerweise an Bord befinden. Dabei darf der Brauchwasservorrat 0,5 v. H. der maximalen Wasserverdrängung nicht merklich überschreiten. Wasser, das mit den üblichen Lenzeinrichtungen aus dem Schiffsraum nicht entfernt werden kann, darf an Bord verbleiben.
 
 2. Die Maschinen, Kessel, Rohrleitungen und Anlagen, die dem Antrieb oder den Nebenzwecken sowie der Erzeugung von Wärme oder Kälte dienen, enthalten das Wasser, das Öl oder die Flüssigkeiten, mit denen sie normalerweise für ihren Betrieb versehen sind.
 
 3. Es befinden sich weder Brennstoff in Tanks noch beweglicher Ballast an Bord.
 
-(2) Befindet sich das Schiff bei seiner Eichung nicht im vorstehend unter Absatz 1 angegebenen Zustand und befindet sich das Schiff auch nicht in einem Zustand, der zur gleichen Eintauchung und annähernd zur gleichen Schwimmlage führt wie der unter Absatz 1 angegebene Zustand, werden die Gewichtsunterschiede und gegebenenfalls der Unterschied in der Wasserdichte rechnerisch berücksichtigt. Im Ergebnis dürfen die Gewichtsunterschiede nicht mehr als 2 vom Hundert der maximalen Wasserverdrängung betragen.
+(2) Befindet sich das Schiff bei seiner Eichung nicht im vorstehend unter Absatz 1 angegebenen Zustand und befindet sich das Schiff auch nicht in einem Zustand, der zur gleichen Eintauchung und annähernd zur gleichen Schwimmlage führt wie der unter Absatz 1 angegebene Zustand, werden die Gewichtsunterschiede und gegebenenfalls der Unterschied in der Wasserdichte rechnerisch berücksichtigt. Im Ergebnis dürfen die Gewichtsunterschiede nicht mehr als 2 v. H. der maximalen Wasserverdrängung betragen.
 
 (3) Die Gewichte der Gegenstände, die sich entsprechend Absatz 1 an Bord befinden, sind in der Rubrik 24 bis 27 des Eichscheins einzutragen.
 
 (4) Diejenige Schwimmebene, welche das Schiff im Zustand nach Absatz 2 einnimmt, wird als untere Eichebene bezeichnet.
 
-§ 17 Abs. 1 Nr. 1 Satz 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
-
 # § 18 – Obere Eichebene
 
-(1) Die obere Eichebene ist diejenige Schwimmebene, welche das Schiff einnimmt, wenn es unvertrimmt in der Ebene der höchst zulässigen Eintauchung, bei der das Schiff fahren kann, schwimmt.
+(1) Die obere Eichebene ist diejenige Schwimmebene, welche das Schiff einnimmt, wenn es unvertrimmt in der Ebene der höchstzulässigen Eintauchung, bei der das Schiff fahren kann, schwimmt.
 
 (2) Die obere Eichebene wird so gelegt, dass sie dem kleinsten Freibord entspricht, den das zu eichende Schiff einzuhalten hat.
 
@@ -282,13 +280,11 @@ Das mittlere Eichmarkenpaar ist in der Querschnittsebene, die durch den gemittel
 
 (2) Das Eichzeichen besteht aus den Kennbuchstaben des Schiffseichamtes und der Nummer des Eichscheins.
 
-(3) Das Eichzeichen wird innerhalb des Rechtecks der mittleren Eichmarken eingeschlagen. Erhält ein Schiff nur zwei Eichmarkenpaare, so wird das Eichzeichen an der hinteren Eichmarke eingeschlagen.
+(3) Das Eichzeichen wird innerhalb des Rechtecks der mittleren Eichmarken eingeschlagen. Erhält ein Schiff nur zwei Eichmarkenpaare, so wird das Eichzeichen an den hinteren Eichmarken eingeschlagen.
 
 (4) Hat das Schiff Eichplatten nach § 20 Absatz 4 erhalten, so werden die Eichzeichen auf diesen Platten unaustilgbar angebracht.
 
 (5) Das Eichzeichen wird ebenfalls in unaustilgbaren Schriftzeichen an einer gut sichtbaren Stelle auf einem Teil des Schiffes angebracht, der fest, vor Stößen geschützt und dem Verschleiß wenig ausgesetzt ist. Diese Stelle ist im Eichschein in der Rubrik 31 anzugeben.
-
-§ 21 Abs. 3 Satz 2 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 22 – Eichskalen
 
@@ -360,22 +356,20 @@ Die Wasserverdrängung ist nach der Formel des § 26 Absatz 1 Nummer 2 festzuste
 
 # § 31 – Ebene der größten Eintauchung
 
-(1) Bei der Eichung eines Sportboots nach den §§ 32, 33 oder 37 wird die Ebene der größten Eintauchung festgelegt, indem am schwimmenden unbeladenen, jedoch vollständig ausgerüsteten und eingerichteten Sportboot die Eintauchtiefe gemessen wird. Als Zuschlag für Verbrauchsstoffe, Personen und deren Gepäck sind 5 Zentimeter hinzuzurechnen. Die Eintauchtiefe ist auf halber Länge des Schiffskörpers zu messen. Starke Vertrimmungen sind zu berücksichtigen, feste Flossenkiele und Schwerter jedoch nicht. Eine Schmutzwasserlinie kann zur Ermittlung herangezogen werden.
+(1) Bei der Eichung eines Sportboots nach den §§ 32, 33 oder 37 wird die Ebene der größten Eintauchung festgelegt, indem am schwimmenden unbeladenen, jedoch vollständig ausgerüsteten und eingerichteten Sportboot die Eintauchtiefe gemessen wird. Als Zuschlag für Verbrauchsstoffe, Personen und deren Gepäck sind 5 Zentimeter hinzuzurechnen. Die Eintauchtiefe ist auf halber Länge des Schiffskörpers zu messen. Starke Vertrimmungen sind zu berücksichtigen, feste Flossenkiele und Schwerter jedoch nicht. Eine Schmutzwasserlinie kann zu Ermittlung herangezogen werden.
 
 (2) Die Ebene der größten Eintauchung kann auch an Land anhand der Schmutzwasserlinie festgelegt werden.
 
 (3) Es können auch entsprechende Angaben des Herstellers verwendet werden.
 
-§ 31 Abs. 1 Satz 5 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
-
 # § 32 – Berechnung der Wasserverdrängung
 
 (1) § 26 Absatz 1 Nummer 2 ist mit der Maßgabe anzuwenden, dass Angaben des Herstellers oder andere Angaben zur Bestimmung des Völligkeitsgrades der Verdrängung für die Berechnung verwendet werden können.
 
-(2) Andernfalls sind als Völligkeitsgrad der Verdrängung der Berechnung in der Regel zugrunde zu legen
+(2) Andernfalls sind als Völligkeitsgrad der Verdrängung der Berechnung in der Regel zugrundezulegen
 
 –  
-bei Motorbooten: δ = 0,35
+bei Motorbooten: δ = 0,35,
 
 –  
 bei Segelbooten:  δ = 0,25.
@@ -418,11 +412,9 @@ Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in Kraft g
 
 (2) Die Eichplakette besteht aus einer rechteckigen, zerstörbaren Haftfolie von 10,0 x 6,4 Zentimeter Abmessung. Sie trägt einen hellgrün-grauen Guillochen-Sicherheitsunterdruck mit eingearbeitetem Bundesadler; der Aufdruck ist dunkelgrün. Die Eichplakette wird im Sportboot angebracht, und zwar an einer gegen Witterungs- und mechanische Einflüsse weitgehend geschützten Stelle, die nicht ohne Umbau austauschbar ist. Die Stelle wird in der Eichbescheinigung unter der Nummer 9 eingetragen.
 
-(3) Das Eichzeichen besteht aus den Kennbuchstaben des Schiffseichamtes, der Nummer der Eichbescheinigung und dem Zusatz „Sp“.
+(3) Das Eichzeichen besteht aus den Kennbuchstaben des Schiffeichamtes, der Nummer der Eichbescheinigung und dem Zusatz „Sp“.
 
 (4) Eine Eichplakette für das Baumuster eines Sportboots wird nur erteilt, wenn das Sportboot auch nach § 34 überprüft ist und außer der Eichbescheinigung für das Baumuster (§ 35 Absatz 4) eine Eichbescheinigung für das jeweilige Sportboot (§ 35 Absatz 1) erteilt ist.
-
-§ 36 Abs. 3 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 37 – Grenzfälle
 
@@ -442,7 +434,7 @@ Ergibt die Eichung des Sportboots eine Wasserverdrängung von weniger als fünf 
 
 2. ein neues Eichzeichen erteilt und die ungültig gewordenen Eichmarken oder -platten sowie die vorherigen Eichzeichen und Eichskalen entfernt oder als ungültig gekennzeichnet.
 
-Eichzeichen, die von einem Schiffseichamt eines Staates angebracht worden sind, der erklärt hat, dass die Eichzeichen nicht lediglich die Feststellung der erfolgten Eichung bezwecken, dürfen weder entfernt noch ausgelöscht werden. Links von ihnen ist lediglich eine unaustilgbare Marke anzubringen, die aus einem kleinen gleicharmigen Kreuz besteht. Um welche Staaten es sich handelt, wird im Verkehrsblatt bekannt gemacht.
+Eichzeichen, die von einem Schiffseichamt eines Staates angebracht worden sind, der erklärt hat, dass die Eichzeichen nicht lediglich die Feststellung der erfolgten Eichung bezwecken, dürfen weder entfernt noch ausgelöscht werden. Links von ihnen ist lediglich eine unaustilgbare Marke anzubringen, die aus einem kleinen gleicharmigen Kreuz besteht. Um welche Staaten es sich handelt, wird im Verkehrsblatt bekanntgemacht.
 
 # § 39 – Nachprüfung von Eichungen
 
@@ -452,7 +444,7 @@ Ergibt die Prüfung nach § 4 Absatz 2 Nummer 4, dass eine Angabe im Eichschein
 
 (1) Eichscheine, die in einem Staat gültig sind, für den das Übereinkommen in Kraft getreten ist, gelten als Eichscheine nach dem Übereinkommen, sofern das Schiff nicht solche Änderungen erfahren hat, dass die Angaben des Eichscheins über die Wasserverdrängung des Schiffes nach Maßgabe der Eintauchungen oder über die größte Tragfähigkeit nicht mehr zutreffen.
 
-(2) Die Geltungsdauer dieser Eichscheine ist die darin vorgesehene; sie darf jedoch 10 Jahre – vom Inkrafttreten des Übereinkommens für den betreffenden Staat an gerechnet - nicht überschreiten. Der Zeitpunkt, zu dem das Übereinkommen für die einzelnen Staaten in Kraft tritt, wird im Bundesgesetzblatt bekannt gemacht.
+(2) Die Geltungsdauer dieser Eichscheine ist die darin vorgesehene; sie darf jedoch 10 Jahre – vom Inkrafttreten des Übereinkommens für den betreffenden Staat an gerechnet - nicht überschreiten. Der Zeitpunkt, zu dem das Übereinkommen für die einzelnen Staaten in Kraft tritt, wird im Bundesgesetzblatt bekanntgemacht.
 
 (3) Eichscheine nach Absatz 1 dürfen nicht verlängert werden; jedoch kann ein neuer Eichschein nach § 8 Absatz 1 gegen Abgabe des alten Eichscheins ohne Nacheichung ausgestellt werden, wenn die in § 9 Absatz 1 und 2 für eine Verlängerung vorgesehenen Bedingungen erfüllt sind.
 
@@ -460,14 +452,14 @@ Ergibt die Prüfung nach § 4 Absatz 2 Nummer 4, dass eine Angabe im Eichschein
 
 # Anlagen – zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)
 
-|          |                                                                 |
-|:---------|:----------------------------------------------------------------|
-| Anlage 1 | Muster des Eichscheins für Binnenschiffe (Güterbeförderer)      |
-| Anlage 2 | Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer) |
-| Anlage 3 | Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)      |
-| Anlage 4 | Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer) |
-| Anlage 5 | Muster der Eichbescheinigung für Sportboote                     |
-| Anlage 6 | Muster der Eichplakette für Sportboote                          |
+|           |                                                                 |
+|:----------|:----------------------------------------------------------------|
+| Anlage 1: | Muster des Eichscheins für Binnenschiffe (Güterbeförderer)      |
+| Anlage 2: | Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer) |
+| Anlage 3: | Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)      |
+| Anlage 4: | Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer) |
+| Anlage 5: | Muster der Eichbescheinigung für Sportboote                     |
+| Anlage 6: | Muster der Eichplakette für Sportboote                          |
 
 # Anlage 1 – Muster des Eichscheins für Binnenschiffe (Güterbeförderer)
 
