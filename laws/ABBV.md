@@ -232,7 +232,7 @@ Durch Erweiterung des untenstehenden ersten Summanden mit qm</sup> – 1 könn
    
  
 
-und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen  
+und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen (E wei</sup><sub>e</sub>)  
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
@@ -252,9 +252,9 @@ aufgegliedert werden. Für die Aufwendungen der weiteren Erneuerungen steht nach
 
 Euro zur Verfügung. Nach weiteren m Jahren, also zum Zeitpunkt der zweiten Erneuerung nach der Ablösungsvereinbarung, mathematisch ausgedrückt durch die Multiplikation der Gleichung mit qm</sup>, steht ein Betrag von  
 
-|                                                                                                                                                                                    |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="../normengrafiken/bgbl1_2010/j0856-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a> |
+|                                                     |
+|:---------------------------------------------------:|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856-1_0090.jpg) |
 
    
  
