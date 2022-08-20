@@ -706,7 +706,15 @@ Kollisionsvermeidung mit in gleicher Richtung fahrenden Fahrzeugen
 
 Kollisionen mit in gleicher Richtung fahrenden, in den eigenen Fahrstreifen eindringenden Verkehrsteilnehmenden sind innerhalb der durch folgende Ungleichung bestimmten Bedingungen zu vermeiden. Die Ungleichung ist nur gültig für vor dem Kraftfahrzeug mit autonomer Fahrfunktion einscherende Verkehrsteilnehmende, und nur dann, wenn die einscherenden Verkehrsteilnehmer mindestens 0,72 Sekunden vor dem Eindringen sichtbar waren:
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0010.jpg)
+  
+  
+
+|     |                                                    |     |
+|:----|:--------------------------------------------------:|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0010.jpg) |     |
+
+  
+  
 
 Folgend werden die Parameter der voranstehenden Ungleichung spezifiziert:
 
@@ -718,7 +726,10 @@ Folgend werden die Parameter der voranstehenden Ungleichung spezifiziert:
 |   τ<sub>Reaktion</sub>    | Zeit in Sekunden, die für die Einleitung einer Bremsreaktion erforderlich ist.                                                                                                                                                                     | 0,1 Sekunden                                                                                                                                                                                                                                                                                                                                                |
 |             α             | Verzögerung in Meter pro Sekunde-Quadrat.                                                                                                                                                                                                          | 2,4  Sekunde-Quadrat für Kraftfahrzeuge mit autonomer Fahrfunktion, die für die Beförderung von stehenden oder nicht angegurteten Fahrzeuginsassen ausgelegt sind, 6 Sekunde-Quadrat für übrige Kraftfahrzeuge mit autonomer Fahrfunktion.                                                                                                                  |
 
-Daraus ergibt sich eine geforderte Kollisionsvermeidung bei Eindringen eines Verkehrsteilnehmenden in den eigenen Fahrstreifen oberhalb der folgenden TTC-Werte (beispielhaft für Geschwindigkeiten in 10 Kilometer pro Stunde-Schritten dargestellt). Diese Anforderungen sind unabhängig von Umweltbedingungen zu erfüllen und sollen bei der Ableitung von Bestehenskriterien berücksichtigt werden.
+  
+  
+
+Daraus ergibt sich eine geforderte Kollisionsvermeidung bei Eindringen eines Verkehrsteilnehmenden in den eigenen Fahrstreifen oberhalb der folgenden TTC-Werte (beispielhaft für Geschwindigkeiten in 10 Kilometer pro Stunde-Schritten dargestellt). Diese Anforderungen sind unabhängig von Umweltbedingungen zu erfüllen und sollen bei der Ableitung von Bestehenskriterien berücksichtigt werden.   
 
 |                                          |                                                                                                                              |                                                                                            |
 |:-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -729,6 +740,9 @@ Daraus ergibt sich eine geforderte Kollisionsvermeidung bei Eindringen eines Ver
 | 40                                       | 2,47                                                                                                                         | 1,18                                                                                       |
 | 50                                       | 3,05                                                                                                                         | 1,41                                                                                       |
 | 60                                       | 3,63                                                                                                                         | 1,64                                                                                       |
+
+  
+  
 
 Sollte ein fahrstreifenwechselnder Verkehrsteilnehmender bei geringerer Zeit bis zum Aufprall (TTC) in den Fahrstreifen des Kraftfahrzeugs mit autonomer Fahrfunktion einscheren, kann nicht mehr von einer Kollisionsvermeidung ausgegangen werden. Sofern eine Kollision nicht zu vermeiden ist, sind die Folgen einer Kollision durch Bremsen und damit möglichst großem Geschwindigkeitsabbau unter Abwägung der Gefahr für die Insassen des Kraftfahrzeugs mit autonomer Fahrfunktion aufgrund der Bremsung und der Kollision zu minimieren. Die Regelstrategie des Systems darf sich zwischen Kollisionsvermeidung und Kollisionsabschwächung nur insofern ändern, als eine Bremsung gegenüber einem nicht mehr erfolgreichen Ausweichmanöver priorisiert wird. Ausweichmanöver dürfen nur unter Beachtung der Vorgaben in Nummer 1.1 erfolgen.
 
@@ -744,22 +758,30 @@ Einbiegen und Kreuzen
 
 Hinsichtlich der Interaktion mit anderen am Verkehr Teilnehmenden beim Einbiegen und Kreuzen sind folgende Bestehenskriterien zu berücksichtigen (siehe Abbildung 1):
 
+  
+  
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0020.jpg)
+
+  
+  
 
 Abbildung 1:  
 Visualisierung der Abstände beim Einbiegen und Kreuzen. Fall Buchstabe a: Einzuhaltender Abstand zum nachfolgenden Verkehr beim Einbiegen. Fall Buchstabe b: Zusätzlich einzuhaltender Abstand zum Gegenverkehr beim Einbiegen durch den Gegenverkehr. Fall Buchstabe c: Beim Kreuzen einzuhaltender Abstand zum bevorrechtigt kreuzenden Verkehr.
 
-Bestehenskriterien für sicheres Einbiegen und Kreuzen sind aus den Anforderungen der Nummer 5.6.4.7 und 5.6.4.8 der UN-Regelung Nr. 79 abzuleiten. Für die Annäherungsgeschwindigkeit (v<sub>αρρ</sub>) darf die in der Fahrsituation gültige Geschwindigkeitsbeschränkung angesetzt werden. Die Anforderungen an die geometrischen Beziehungen zum umlaufenden Verkehr sind vom Spurwechsel auf das Einbiegemanöver entsprechend zu übertragen (Buchstabe a in Abbildung 1).
+  
+  
 
-Für das Einbiegen über die Gegenfahrbahn hinweg gilt für die Berücksichtigung des entgegenkommenden Verkehrs, dass – zusätzlich zum Abstand zum nachfolgenden Verkehr auf der Zielstraße – sicherzustellen ist, dass die TTC des bevorrechtigten Gegenverkehrs zum berechneten Kollisionspunkt (Schnittpunkt der Fahrpfade) niemals unter 3 Sekunden sinkt (Buchstabe b in Abbildung 1).
+Bestehenskriterien für sicheres Einbiegen und Kreuzen sind aus den Anforderungen der Nummer 5.6.4.7 und 5.6.4.8 der UN-Regelung Nr. 79 abzuleiten. Für die Annäherungsgeschwindigkeit (v<sub>αρρ</sub>) darf die in der Fahrsituation gültige Geschwindigkeitsbeschränkung angesetzt werden. Die Anforderungen an die geometrischen Beziehungen zum umlaufenden Verkehr sind vom Spurwechsel auf das Einbiegemanöver entsprechend zu übertragen (Buchstabe a in Abbildung 1).   
+
+Für das Einbiegen über die Gegenfahrbahn hinweg gilt für die Berücksichtigung des entgegenkommenden Verkehrs, dass – zusätzlich zum Abstand zum nachfolgenden Verkehr auf der Zielstraße – sicherzustellen ist, dass die TTC des bevorrechtigten Gegenverkehrs zum berechneten Kollisionspunkt (Schnittpunkt der Fahrpfade) niemals unter 3 Sekunden sinkt (Buchstabe b in Abbildung 1).   
 
 Gleiches gilt beim Kreuzen mit bevorrechtigtem Verkehr (Buchstabe c in Abbildung 1): Die TTC des bevorrechtigten Verkehrs zum fiktiven Kollisionspunkt (Schnittpunkt der Fahrpfade) muss mehr als 3 Sekunden betragen.
 
 11. Durchführung von Tests
 
-Für die Durchführung der Tests dürfen neben realen Fahrzeugen auch dem Stand der Technik entsprechende Testwerkzeuge eingesetzt werden, die reale Fahrzeuge und andere am Verkehr Teilnehmende ersetzen (beispielsweise Soft-Targets, zu Fuß Gehende-Attrappen, mobile Plattformen). Die Testwerkzeuge müssen hinsichtlich der für eine Leistungsbewertung der Sensorik relevanten Eigenschaften, realen Fahrzeugen und anderen am Verkehr Teilnehmenden entsprechen. Tests dürfen nur so ausgeführt werden, dass die am Versuch beteiligten Personen nicht gefährdet werden. Die jeweiligen Vorgaben des Arbeitsschutzes sind zu berücksichtigen.
+Für die Durchführung der Tests dürfen neben realen Fahrzeugen auch dem Stand der Technik entsprechende Testwerkzeuge eingesetzt werden, die reale Fahrzeuge und andere am Verkehr Teilnehmende ersetzen (beispielsweise Soft-Targets, zu Fuß Gehende-Attrappen, mobile Plattformen). Die Testwerkzeuge müssen hinsichtlich der für eine Leistungsbewertung der Sensorik relevanten Eigenschaften, realen Fahrzeugen und anderen am Verkehr Teilnehmenden entsprechen. Tests dürfen nur so ausgeführt werden, dass die am Versuch beteiligten Personen nicht gefährdet werden. Die jeweiligen Vorgaben des Arbeitsschutzes sind zu berücksichtigen.   
 
-Die Erfüllung von Anforderungen kann auch durch geeignete Simulation geprüft werden. Dabei sind die Simulationswerkzeuge zu validieren. Die Validierung der Simulationswerkzeuge muss mittels Abgleichs zu einer repräsentativen Auswahl von realen Versuchen erfolgen; es darf kein signifikanter Unterschied zwischen Kennwerten aus Simulation und Fahrversuch bestehen. Das Leistungsvermögen der Sensorik in Bezug auf Erkennung und Klassifizierung von Objekten in Abhängigkeit von unterschiedlichen Entfernungen und Umweltbedingungen ist für die Simulation in realen Tests zu ermitteln. Jede Simulationsreihe ist, falls dies vom technischen Dienst als notwendig erachtet wird, durch reale Tests zu ergänzen.
+Die Erfüllung von Anforderungen kann auch durch geeignete Simulation geprüft werden. Dabei sind die Simulationswerkzeuge zu validieren. Die Validierung der Simulationswerkzeuge muss mittels Abgleichs zu einer repräsentativen Auswahl von realen Versuchen erfolgen; es darf kein signifikanter Unterschied zwischen Kennwerten aus Simulation und Fahrversuch bestehen. Das Leistungsvermögen der Sensorik in Bezug auf Erkennung und Klassifizierung von Objekten in Abhängigkeit von unterschiedlichen Entfernungen und Umweltbedingungen ist für die Simulation in realen Tests zu ermitteln. Jede Simulationsreihe ist, falls dies vom technischen Dienst als notwendig erachtet wird, durch reale Tests zu ergänzen.   
 
 Jede in dieser Verordnung beschriebene Anforderung, die im vorgesehenen Betriebsbereich für den autonomen Fahrbetrieb entsprechend der beantragten Betriebserlaubnis relevant ist und jedes nach Nummer 7.2 identifizierte gefährliche Szenario sind zumindest durch Simulation zu prüfen. Dazu ist das zu testende Kraftfahrzeug im autonomen Fahrbetrieb durch geeignete Wahl der Verkehrsumgebung in die entsprechende Situation zu bringen. Es ist mindestens zu prüfen, wie sich das Kraftfahrzeug mit autonomer Fahrfunktion in den in Nummer 7.2 als gefährlich identifizierten Szenarien verhält. Für diese Prüfung sind mindestens drei Parameterkonstellationen zu wählen.
 
@@ -773,7 +795,7 @@ Für Prüfungen im Rahmen der Genehmigungserteilung nach § 3 kann der für die 
 
 13. Allgemeine Anforderungen an den Datenspeicher
 
-Im Kraftfahrzeug mit autonomer Fahrfunktion muss ein den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entsprechender Datenspeicher integriert sein, der ereignisbasiert und während des Betriebs nach § 9 Absatz 5 und § 15 Daten des Kraftfahrzeugs mit autonomer Fahrfunktion ausschließlich zu dem Zweck der Verbesserung der Verkehrssicherheit erfasst, speichert und verwendet. Die zu erfassenden Daten sind in § 1g Absatz 1 des Straßenverkehrsgesetzes in Verbindung mit Anlage 2 zu dieser Verordnung abschließend geregelt.
+Im Kraftfahrzeug mit autonomer Fahrfunktion muss ein den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entsprechender Datenspeicher integriert sein, der ereignisbasiert und während des Betriebs nach § 9 Absatz 5 und § 15 Daten des Kraftfahrzeugs mit autonomer Fahrfunktion ausschließlich zu dem Zweck der Verbesserung der Verkehrssicherheit erfasst, speichert und verwendet. Die zu erfassenden Daten sind in § 1g Absatz 1 des Straßenverkehrsgesetzes in Verbindung mit Anlage 2 zu dieser Verordnung abschließend geregelt.   
 
 Der Datenspeicher ist entsprechend den in § 1g des Straßenverkehrsgesetzes und den in dieser Verordnung enthaltenen Datenschutz- und den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entsprechender Datensicherheitsvorschriften gemäß dem Stand der Technik auszugestalten. Ein System zur Zugangskontrolle sowie kryptographische Schutzverfahren sind entsprechend der einschlägigen Technischen Richtlinien des Bundesamtes für die Sicherheit in der Informationstechnik vorzusehen. Das Bundesamt für die Sicherheit in der Informationstechnik ist in die konkrete Ausgestaltung der Vorgaben einzubeziehen. Wesentliche Anforderungen an den Datenspeicher sind nachfolgend dargestellt.
 
@@ -782,17 +804,21 @@ Zu speichernde Ereignisse
 
 Im Folgenden werden die verschiedenen Fälle der Datenaufzeichnung dargestellt.
 
+  
 Fall 1: Autonome Fahrt im festgelegten Betriebsbereich
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0030.jpg)
 
+  
 Fall 2: Autonome Fahrt im festgelegten Betriebsbereich mit Ereignis (beispielsweise Unfall)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0040.jpg)
 
+  
 Fall 3: Autonome Fahrt im festgelegten Betriebsbereich mit Ereignis und anschließender Überführung des Kraftfahrzeugs in den risikominimalen Zustand
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0986-1_0050.jpg)  
+  
 
 Legende:
 
@@ -804,10 +830,13 @@ Legende:
 | t<sub>0P</sub> | Anforderung oder Eingabe der Technischen Aufsicht |
 | t<sub>R</sub>  | Auslösung des risikominimalen Zustands            |
 
+  
+  
+
 13.2  
 Technische Vorgaben für das Speichern, Auslesen und Übertragen von Daten
 
-Das System der Datenspeicherung darf nicht flüchtig sein. Die gespeicherten Daten müssen im stromlosen Zustand erhalten bleiben.
+Das System der Datenspeicherung darf nicht flüchtig sein. Die gespeicherten Daten müssen im stromlosen Zustand erhalten bleiben.   
 
 Ergänzende technische Anforderungen für den Datenspeicher:
 
@@ -825,7 +854,7 @@ d) Die Datenspeicherung und die Datenübermittlung an das Kraftfahrt-Bundesamt u
 
 14. Interaktion
 
-Ein Kraftfahrzeug mit autonomer Fahrfunktion, das autonom innerhalb eines festgelegten Betriebsbereichs betrieben wird, erfordert nur in Ausnahmesituationen eine Interaktion mit der Technischen Aufsicht.
+Ein Kraftfahrzeug mit autonomer Fahrfunktion, das autonom innerhalb eines festgelegten Betriebsbereichs betrieben wird, erfordert nur in Ausnahmesituationen eine Interaktion mit der Technischen Aufsicht.   
 
 Insbesondere ist die Mensch-Maschine-Schnittstelle unter Berücksichtigung der folgenden zwei Ausnahmesituationen zu gestalten.
 
