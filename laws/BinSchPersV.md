@@ -379,7 +379,7 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 2. ein Fahrzeug führt, das nur mit Muskelkraft oder unter Segel angetrieben wird oder mit einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung nicht mehr als 11,03 Kilowatt beträgt,
 
-3. ein nicht in Fahrt befindliches schwimmendes Gerät ohne eigenen Antrieb auf den Wasserstraßen der Zonen 3 und 4 sowie außerhalb des Fahrwassers der Wasserstraßen der Anlage 1² führt,
+3. ein nicht in Fahrt befindliches schwimmendes Gerät ohne eigenen Antrieb auf den Wasserstraßen der Zonen 3 und 4 sowie außerhalb des Fahrwassers der Wasserstraßen der Anlage 1 führt,
 
 4. das 16. Lebensjahr vollendet hat und als Mitglied der Besatzung eines schwimmenden Gerätes ein dazugehöriges Hilfsfahrzeug mit einer Länge von weniger als 20 Metern und einer effektiven Nutzleistung von nicht mehr als 25 Kilowatt führt.
 
@@ -392,6 +392,8 @@ Satz 1 gilt nicht für Fahrgastboote.
 2. auf Wasserstraßen der Zonen 3 und 4 ein Fährschifferzeugnis, wenn es für wenigstens eine Strecke dieser Zonen gilt, oder ein Sportschifferzeugnis.
 
 Satz 1 gilt nicht für Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren.
+
+§ 12 Abs. 1 Satz 1 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
 
 # § 13 – Amtlicher Berechtigungsschein
 
