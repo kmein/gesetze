@@ -539,7 +539,7 @@ Auszubildende, die ihre Ausbildung an einer im Ausland gelegenen Ausbildungsstä
 
 (6) Das Bundesministerium für Bildung und Forschung bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über das Verfahren, insbesondere über die Mitwirkung der Prüfungsstellen. Diese sind zur Auskunft und Mitwirkung verpflichtet, soweit dies für die Durchführung dieses Gesetzes erforderlich ist.
 
-§ 18b Abs. 3 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 21.6.2011 I 1726 - 1 BvR 2035/07 -
+§ 18b Abs. 3 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 21.6.2011 I 1726 - 1 BvR 2035/07 -. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 6.12.2011 I 2569 mWv 14.12.2011.
 
 # § 18c – Bankdarlehen
 
