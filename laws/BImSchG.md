@@ -461,7 +461,7 @@ Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betr
 
 (4) Die Prüfung anderer öffentlich-rechtlicher Vorschriften, insbesondere des Raumordnungs-, Bauplanungs- und Bauordnungsrechts, und der Belange des Arbeitsschutzes nach § 6 Absatz 1 Nummer 2 bleibt unberührt.
 
-() Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der Antragsteller diesen beantragt.
+(5) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der Antragsteller diesen beantragt.
 
 (6) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für das Repowering von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe c der Verordnung über genehmigungsbedürftige Anlagen bleibt unberührt. Im vereinfachten Verfahren ist die Genehmigung auf Antrag des Trägers des Vorhabens öffentlich bekannt zu machen. In diesem Fall gilt § 10 Absatz 8 Satz 2 bis 6 entsprechend.
 
