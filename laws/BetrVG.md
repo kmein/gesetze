@@ -1862,11 +1862,11 @@ Die im Zeitpunkt des Inkrafttretens dieses Gesetzes nach § 20 Abs. 3 des Betrie
 
 # § 129 – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
-(1) Versammlungen nach den §§ 42, 53 und 71 können bis zum Ablauf des 19. März 2022 auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
+(1) Versammlungen nach den §§ 42, 53 und 71 können bis zum Ablauf des 7. April 2023 auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
 
-(2) Die Teilnahme an Sitzungen der Einigungsstelle sowie die Beschlussfassung können bis zum Ablauf des 19. März 2022 auch mittels einer Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Die Teilnehmer, die mittels Video- und Telefonkonferenz teilnehmen, bestätigen ihre Anwesenheit gegenüber dem Vorsitzenden der Einigungsstelle in Textform.
+(2) Die Teilnahme an Sitzungen der Einigungsstelle sowie die Beschlussfassung können bis zum Ablauf des 7. April 2023 auch mittels einer Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Die Teilnehmer, die mittels Video- und Telefonkonferenz teilnehmen, bestätigen ihre Anwesenheit gegenüber dem Vorsitzenden der Einigungsstelle in Textform.
 
-(3) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Fristen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 um bis zu drei Monate verlängern.
+(3) (weggefallen)
 
 # § 130 – Öffentlicher Dienst
 
