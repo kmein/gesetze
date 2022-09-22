@@ -1075,7 +1075,7 @@ Lehrgänge für Maschinenkundige kann das Bundesministerium für Verkehr und dig
 
 (1) Ausbildungsprogramme für Basislehrgänge oder Auffrischungslehrgänge lässt die zuständige Behörde unter den folgenden Voraussetzungen zu:
 
-1. die Lehrgänge und Prüfungen entsprechen
+1. die Lehrgänge und Prüfungen entsprechen
 
 a) bei Sachkundigen für Flüssigerdgas den Vorgaben nach § 47,
 
@@ -1117,7 +1117,7 @@ b) bei Sachkundigen für die Fahrgastschifffahrt den Vorgaben nach § 49;
 
 Ab dem Zeitpunkt des Widerrufes oder der Aussetzung dürfen die im Rahmen des Ausbildungsprogramms ausgestellten Zeugnisse von den Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines Befähigungszeugnisses berücksichtigt werden.
 
-(5) Die zuständige Behörde überwacht die Ausbildungsprogramme und die Durchführung der Prüfungen.
+(5) Die zuständige Behörde überwacht die Ausbildungsprogramme und die Durchführung der Prüfungen.
 
 # § 58 – Lehrgänge für atemschutzgerättragende Personen
 
@@ -4328,7 +4328,7 @@ der Hohnstorfer Brücke (Elbe-km 568,90) und der Einmündung des Elbeseitenkanal
 
 3. Rhein:
 
-von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 857,40 (Spyck´sche Fähre/Grenze zu den Niederlanden)
+von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 857,40 (Spyck'sche Fähre/Grenze zu den Niederlanden)
 
 4. Weser:
 
@@ -4384,7 +4384,7 @@ unter der Leitung von ..........................................................
 
 Der untersuchende Arzt sollte bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeit bei Auftreten und Prognose abdeckt.
 
-Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsententscheidung die folgenden Punkte zu berücksichtigen sind:
+Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsentscheidung die folgenden Punkte zu berücksichtigen sind:
 
 1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs auf Binnenwasserstraßen tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund deren sie nicht in der Lage ist, die folgenden Tätigkeiten zu verrichten:
 
@@ -5399,6 +5399,8 @@ T – Bis untersucht und, sofern erforderlich, behandelt
 P – Sofern dauerhaft Beeinträchtigungen vorliegen
 
 Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden. Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben. In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden
+
+Satz 3 Eingangssatz Kursivdruck: Fehlschreibung des Wortes "Tauglichkeitsententscheidung" in "Tauglichkeitsentscheidung" korrigiert
 
 # Anhang 1 zu Anlage 4 – Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59
 
@@ -6844,7 +6846,7 @@ Befähigung</th><th style="text-align: left;">Spalte 2<br />
 Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>den Beginn einer<br />
 Reise vorzubereiten und insbesondere<br />
 bei eingeschränkten Sichtverhältnissen<br />
-Navigationsradaranlagen und Wende-geschwindigkeitsanzeiger zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Allgemeine Kenntnisse über Funkwellen und Kenntnisse über das Radarprinzip und insbesondere<dl><dt>•</dt><dd>die Ausbreitungsgeschwindigkeit von Funkwellen,</dd><dt>•</dt><dd>die Reflexion von Funkwellen,</dd><dt>•</dt><dd>die technischen Kennungsgrößen von Navigationsradaranlagen<br />
+Navigationsradaranlagen und Wendegeschwindigkeitsanzeiger zu nutzen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Allgemeine Kenntnisse über Funkwellen und Kenntnisse über das Radarprinzip und insbesondere<dl><dt>•</dt><dd>die Ausbreitungsgeschwindigkeit von Funkwellen,</dd><dt>•</dt><dd>die Reflexion von Funkwellen,</dd><dt>•</dt><dd>die technischen Kennungsgrößen von Navigationsradaranlagen<br />
 (Betriebsfrequenzbereich, Sendeleistung, Impulsdauer, Antennendrehzahl, Antennencharakteristik, Bildschirmabmessungen und Entfernungsbereiche, Mindestentfernung, radiale und azimutale Auflösung usw.).</dd></dl></dd><dt>2.</dt><dd>Allgemeine Kenntnisse über Funktionsweise und Einsatz von Wendegeschwindigkeitsanzeigern.</dd><dt>3.</dt><dd>Fähigkeit, Bedienungselemente von Navigationsradaranlagen wie Tune<br />
 (Abstimmung), Gain (Verstärkung), Brilliance (Helligkeit), On/Standby<br />
 (An/Bereitschaft), Range (Entfernung) einzuschalten, einzustellen und zu überwachen sowie Wendegeschwindigkeitsanzeiger in der Binnenschifffahrt zu nutzen und ihren ordnungsgemäßen Einsatz sicherzustellen.</dd></dl></td></tr></tbody></table>
@@ -6868,9 +6870,7 @@ Befähigung</th><th style="text-align: left;">Spalte 2<br />
 Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>vom eigenen Fahrzeug ausgehende Störungen zu identifizieren und zu reduzieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Störungen, die durch Bruch oder Aufsplittung der Antennenkeule, durch Abschattungen (blinde Sektoren) oder durch Mehrfachreflexionen (z. B. in Laderäumen) verursacht werden können.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Reduzierung der vom eigenen Fahrzeug ausgehenden Störungen zu ergreifen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>von der Umgebung<br />
 ausgehende Störungen zu identifizieren und zu reduzieren;</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnisse über Störungen durch Regen oder Wellengang, Streufelder<br />
 (z. B. bei Brücken), Mehrfachreflexionen, Fehl-/Geisterechos, Hochspannungsleitungen, Radarabschattungen, Mehrwegausbreitung.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Reduzierung der von der Umwelt ausgehenden<br />
-Störungen (Regenechounterdrückung (FTC) und Seegangechounterdrückung (STC)) zu ergreifen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>von anderen Naviga-<br />
-tionsradaranlagen ausgehende Störungen zu identifizieren und zu reduzieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Erscheinungsbildes der von anderen Navigationsradaranlagen verursachten Störungen.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Beseitigung der von anderen Navigationsradar-<br />
-anlagen ausgehenden Störungen (Störunterdrückung (IR)) zu ergreifen.</dd></dl></td></tr></tbody></table>
+Störungen (Regenechounterdrückung (FTC) und Seegangechounterdrückung (STC)) zu ergreifen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>von anderen Navigationsradaranlagen ausgehende Störungen zu identifizieren und zu reduzieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis des Erscheinungsbildes der von anderen Navigationsradaranlagen verursachten Störungen.</dd><dt>2.</dt><dd>Fähigkeit, Maßnahmen zur Beseitigung der von anderen Navigationsradaranlagen ausgehenden Störungen (Störunterdrückung (IR)) zu ergreifen.</dd></dl></td></tr></tbody></table>
 
 4. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, unter Berücksichtigung der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und im Einklang mit den Bestimmungen über die Anforderungen für die Radarfahrt (Besatzungsvorschriften, technische Vorschriften für Schiffe usw.) mit Radar zu fahren.
 
@@ -6891,8 +6891,7 @@ Der Schiffsführer muss in der Lage sein,
 Befähigung</th><th style="text-align: left;">Spalte 2<br />
 Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>unter besonderen<br />
 Umständen<br />
-(z. B. hohe Verkehrsdichte, Anlagenausfall und andere unklare oder gefährliche Verkehrssituationen) angemessen zu reagieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Möglichkeiten, bei hoher Verkehrsdichte zu reagieren.</dd><dt>2.</dt><dd>Fähigkeit, bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen.</dd><dt>3.</dt><dd>Kenntnis von Maßnahmen zur Risikominderung und angemessener Reaktionsmuster bei Anlagenausfall.</dd><dt>4.</dt><dd>Fähigkeit, bei Anlagenausfall zu reagieren.</dd><dt>5.</dt><dd>Kenntnis möglicher Maßnahmen in unklaren oder gefährlichen Verkehrs-<br />
-situationen.</dd><dt>6.</dt><dd>Fähigkeit, bei unklaren oder gefährlichen Verkehrssituationen zu reagieren.</dd></dl></td></tr></tbody></table>
+(z. B. hohe Verkehrsdichte, Anlagenausfall und andere unklare oder gefährliche Verkehrssituationen) angemessen zu reagieren.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis der Möglichkeiten, bei hoher Verkehrsdichte zu reagieren.</dd><dt>2.</dt><dd>Fähigkeit, bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen.</dd><dt>3.</dt><dd>Kenntnis von Maßnahmen zur Risikominderung und angemessener Reaktionsmuster bei Anlagenausfall.</dd><dt>4.</dt><dd>Fähigkeit, bei Anlagenausfall zu reagieren.</dd><dt>5.</dt><dd>Kenntnis möglicher Maßnahmen in unklaren oder gefährlichen Verkehrssituationen.</dd><dt>6.</dt><dd>Fähigkeit, bei unklaren oder gefährlichen Verkehrssituationen zu reagieren.</dd></dl></td></tr></tbody></table>
 
 # Anlage 14 – (zu § 41 Absatz 3)Standards für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar
 
@@ -7330,8 +7329,7 @@ Befähigung</th><th style="text-align: left;">Spalte 2<br />
 Kenntnisse und Fertigkeiten</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Gezeiten und<br />
 Gezeiten- und Wettervorhersagen und<br />
 -verhältnisse vor dem Ablegen und während der Fahrt zu berücksichtigen.</dd></dl></td><td style="text-align: left;"><dl><dt>1.</dt><dd>Kenntnis von Veröffentlichungen und Informationen zur Gezeiten- und<br />
-Strömungsvorhersage, wie Gezeitentafeln, Gezeitenvorhersage für An-<br />
-schlussorte, Informationen zu Vereisung, Hochwasser/Niederwasser, Liegeplätzen und Hafenverzeichnissen, zur Bestimmung von Wasserstand, Strömungsrichtung und -stärke und verfügbarer Tiefe.</dd><dt>2.</dt><dd>Kenntnis der Auswirkungen von Wetterbedingungen, Landform und sonstigen Faktoren auf die Gezeitenströmungen.</dd><dt>3.</dt><dd>Fähigkeit, die Auswirkungen von Gezeitenstand, Strömung, Wetterbedingungen und Wellengang auf die sichere Navigation bei der geplanten Reise zu bestimmen.</dd></dl></td></tr></tbody></table>
+Strömungsvorhersage, wie Gezeitentafeln, Gezeitenvorhersage für Anschlussorte, Informationen zu Vereisung, Hochwasser/Niederwasser, Liegeplätzen und Hafenverzeichnissen, zur Bestimmung von Wasserstand, Strömungsrichtung und -stärke und verfügbarer Tiefe.</dd><dt>2.</dt><dd>Kenntnis der Auswirkungen von Wetterbedingungen, Landform und sonstigen Faktoren auf die Gezeitenströmungen.</dd><dt>3.</dt><dd>Fähigkeit, die Auswirkungen von Gezeitenstand, Strömung, Wetterbedingungen und Wellengang auf die sichere Navigation bei der geplanten Reise zu bestimmen.</dd></dl></td></tr></tbody></table>
 
 3. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) zur sicheren Navigation auf Binnenwasserstraßen mit maritimem Charakter zu verwenden.
 
