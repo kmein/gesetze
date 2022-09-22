@@ -611,6 +611,16 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 (3) Die Genehmigungsbehörde holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
 
+(3a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82) fällt, gilt ergänzend Folgendes:
+
+1. Auf Antrag des Trägers des Vorhabens wird das störfallrechtliche Genehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+2. Die einheitliche Stelle nach Nummer 1 stellt ein Verfahrenshandbuch für Träger von Vorhaben bereit und macht diese Informationen auch im Internet zugänglich. In den im Internet veröffentlichten Informationen weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach Satz 1 zuständig sind.
+
+3. Die zuständige und die zu beteiligenden Behörden sollen die zur Prüfung des Antrags zusätzlich erforderlichen Unterlagen in einer einmaligen Mitteilung an den Antragsteller zusammenfassen. Nach Eingang der vollständigen Antragsunterlagen erstellt die zuständige Behörde einen Zeitplan für das weitere Verfahren und teilt diesen Zeitplan in den Fällen der Nummer 1 der einheitlichen Stelle, andernfalls dem Antragsteller mit.
+
+4. § 16b ist entsprechend anzuwenden.
+
 (4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer Anlage hat die zuständige Behörde innerhalb einer Frist von sieben Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Über den Antrag auf störfallrelevante Änderung einer Anlage ist innerhalb einer Frist von sechs Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Die zuständige Behörde kann die jeweilige Frist um drei Monate verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll gegenüber dem Antragsteller begründet werden. § 10 Absatz 7 Satz 1 gilt entsprechend.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens nach den Absätzen 1 bis 4 zu regeln, insbesondere
