@@ -322,7 +322,7 @@ m<sub>v</sub> = m ∙ 1,1
 
 Die verlängerte theoretische Nutzungsdauer ist auf volle Jahre kaufmännisch zu runden.
 
-Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage<sub>alt</sub> mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
+Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage E<sub>alt</sub> mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
 
 2.7  
 Restnutzungsdauer

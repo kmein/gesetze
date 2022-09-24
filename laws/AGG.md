@@ -273,7 +273,7 @@ Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer besonderen
 
 (1) Die oder der nach § 26 Gewählte ist von der Bundespräsidentin oder dem Bundespräsidenten zu ernennen. Das Amtsverhältnis der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung beginnt mit der Aushändigung der Ernennungsurkunde.
 
-(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung leistet vor der Bundespräsidentin oder dem Bundespräsidenten folgenden Eid: „Ich schwöre, dass ich meine Kraft dem Wohl des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe. “ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+(2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung leistet vor der Bundespräsidentin oder dem Bundespräsidenten folgenden Eid: „Ich schwöre, dass ich meine Kraft dem Wohl des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (3) Das Amtsverhältnis endet
 
