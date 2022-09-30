@@ -141,6 +141,8 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 2. einer Fähre eine Fahrerlaubnis für Sportboote mit Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung ausreichend.
 
+(7) Wenn der Inhaber eines Schifferdienstbuches dies verlangt, hat der Schiffsführer die Eintragungen der Fahrzeit im Schifferdienstbuch vorzunehmen.
+
 # § 6 – Kennzeichnung der Fahrzeuge
 
 (1) Der Eigentümer eines Fahrzeuges, mit Ausnahme eines Segelsurfbretts, muss sein Fahrzeug mit einem Kennzeichen nach Maßgabe der Binnenschifffahrt-Kennzeichnungsverordnung versehen. Für die Kennzeichnung eines Fahrgastschiffs oder einer Fähre gilt abweichend von Satz 1 der § 2.01 Nummer 1 bis 3 der Binnenschifffahrtsstraßen-Ordnung. Ein nach landesrechtlichen Vorschriften zugeteiltes Kennzeichen ist von dem von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamt auf Antrag anzuerkennen, soweit es unverwechselbar mit den Kennzeichen nach der Binnenschifffahrt-Kennzeichnungsverordnung ist.

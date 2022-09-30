@@ -97,7 +97,7 @@ Die Beschlüsse werden als Anlagen 1 bis 15 zu dieser Verordnung veröffentlicht
 
 (5) Zuständige Behörden im Sinne des § 3.06 Nummer 1 Satz 3, Nummer 3 Satz 1, Nummer 4 Buchstabe b und § 3.13 Nummer 1 Satz 4, Nummer 2 Satz 1 der Schiffspersonalverordnung-Rhein sind die Wasserstraßen- und Schifffahrtsämter. Im Falle des § 3.13 Nummer 1 Satz 4 ist auch die Generaldirektion Wasserstraßen und Schifffahrt zuständige Behörde.
 
-(6) Zuständige Behörde für die Typprüfung und Zulassung von Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der Schiffspersonalverordnung-Rhein ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
+(6) Zuständige Behörde für die Typprüfung und Zulassung von Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 (7) Zuständige Behörde für
 
@@ -141,9 +141,9 @@ sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das Wasserstraß
 
 (18) Zuständige Behörde für die Erteilung und den Entzug des Radarpatentes im Sinne des § 6.03 Nummer 2, § 8.05 Nummer 1 und § 8.06 Satz 1 der Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen und Schifffahrt. Diese ist auch zuständige Behörde im Sinne des § 8.02 Nummer 1, § 8.03 Nummer 1, § 8.04 Nummer 4 Satz 1 und des § 8.05 Nummer 4 Satz 2 der Schiffspersonalverordnung-Rhein. Abweichend von Satz 1 ist die Wasserschutzpolizei-Schule in Hamburg zuständige Behörde für den Entzug der von ihr vor dem 1. Januar 2003 ausgestellten Radarpatente.
 
-(19) Zuständige Behörde im Sinne des § 8.04 Nummer 2 der Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
+(19) Zuständige Behörde im Sinne des § 8.04 Nummer 2 der Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-(20) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das Bundesministerium für Verkehr und digitale Infrastruktur. Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein.
+(20) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das Bundesministerium für Digitales und Verkehr. Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein.
 
 # Art 4 – Zuständigkeit für ärztliche Zeugnisse
 
@@ -231,7 +231,7 @@ sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das Wasserstraß
 
 1. muss seine Befähigung an Bord nach § 3.05 Nummer 1 Buchstabe b oder Nummer 2 der Schiffspersonalverordnung-Rhein nachweisen,
 
-2. muss das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der Schiffspersonalverordnung-Rhein rechtzeitig vorlegen,
+2. (weggefallen),
 
 3. muss über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff nach § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein verfügen, wenn es auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, am Bunkervorgang beteiligt ist,
 
@@ -289,11 +289,9 @@ sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das Wasserstraß
 
 (4) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Mitglied der Besatzung
 
-1. entgegen Artikel 5 Absatz 6 Nummer 1 seine Befähigung an Bord nicht nachweisen kann,
+1. entgegen Artikel 5 Absatz 6 Nummer 1 seine Befähigung an Bord nicht nachweisen kann oder
 
-2. entgegen Artikel 5 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder nicht rechtzeitig vorlegt oder
-
-3. entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit aufnimmt.
+2. entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit aufnimmt.
 
 (5) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Sachkundiger für Fahrgastschifffahrt entgegen Artikel 5 Absatz 7 einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt.
 

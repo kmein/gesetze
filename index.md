@@ -3260,6 +3260,7 @@
 - [KürschAusbV](laws/KürschAusbV.md) Verordnung über die Berufsausbildung zum Kürschner/zur Kürschnerin in Industrie und Handwerk
 - [KüSchV](laws/KüSchV.md) Verordnung über die Küstenschifffahrt
 - [KüstmProkBek](laws/KüstmProkBek.md) Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
+- [KugÖV](laws/KugÖV.md) Verordnung über die Öffnung des Kurzarbeitergeldbezugs für Leiharbeitnehmerinnen und Leiharbeitnehmer
 - [KugZuV](laws/KugZuV.md) Verordnung zur Verlängerung der Zugangserleichterungen für den Bezug von Kurzarbeitergeld
 - [KultErhStudZVorRV](laws/KultErhStudZVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
 - [KultgSchKonv](laws/KultgSchKonv.md) Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
