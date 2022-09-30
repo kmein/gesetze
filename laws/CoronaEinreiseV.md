@@ -99,7 +99,7 @@ eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachw
 
 10. Impfnachweis
 
-a) ein Impfnachweis im Sinne von § 22a Absatz 1 des Infektionsschutzgesetzes oder,
+a) in Impfnachweis im Sinne von § 22a Absatz 1 des Infektionsschutzgesetzes mit der Maßgabe, dass abweichend von § 22a Absatz 1 Satz 2 Nummer 2 und Satz 3 des Infektionsschutzgesetzes ein vollständiger Impfschutz auch dann vorliegt, wenn insgesamt nur zwei Einzelimpfungen erfolgt sind, ohne dass die in § 22a Absatz 1 Satz 3 des Infektionsschutzgesetzes bestimmten Voraussetzungen gegeben sind, oder
 
 b) sofern die Impfung im Ausland erfolgt ist, ein Nachweis in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, dass die Person, auf die der Nachweis ausgestellt ist,
 
@@ -118,7 +118,7 @@ ddd)
 CoronaVac, COVID-19 Vaccine (Vero Cell), Inactivated von Sinovac Life Sciences Co. Ltd. oder
 
 bb)  
-zwei Einzelimpfungen mit einem der folgenden Impfstoffe erhalten hat sowie mindestens 270 Tage nach Erhalt der letzten Einzelimpfung eine zusätzliche Impfung mit einem der folgenden Impfstoffe oder mit einem Impfstoff erhalten hat, der von der Europäischen Union zugelassen ist oder im Ausland zugelassen ist und von seiner Formulierung her identisch mit einem in der Europäischen Union zugelassenen Impfstoff ist; die Regelungen zur Anerkennung einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 als Ersatz für eine Einzelimpfung nach § 22a Absatz 1 Satz 3 Nummer 1 bis 3 des Infektionsschutzgesetzes gelten entsprechend:
+zwei Einzelimpfungen mit einem der folgenden Impfstoffe erhalten hat sowie ab 270 Tage nach Erhalt der letzten Einzelimpfung eine zusätzliche Impfung mit einem der folgenden Impfstoffe oder mit einem Impfstoff nachweisen kann, der von der Europäischen Union zugelassen ist oder im Ausland zugelassen ist und von seiner Formulierung her identisch mit einem in der Europäischen Union zugelassenen Impfstoff ist; die Regelungen zur Anerkennung einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 als Ersatz für eine Einzelimpfung nach § 22a Absatz 1 Satz 3 Nummer 1 bis 3 des Infektionsschutzgesetzes gelten entsprechend:
 
 aaa)  
 COVAXIN®</sup>, Covid-19 vaccine (Whole Virion Inactivated Corona Virus vaccine) von Bharat Biotech International Ltd.,
@@ -345,7 +345,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 30. September 2022 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 31. Januar 2023 außer Kraft.
 
 # Anlage
 

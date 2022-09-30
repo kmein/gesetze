@@ -13,11 +13,13 @@ Auf Grund des § 30c Absatz 5 in Verbindung mit § 93 Absatz 2 Nummer 5 des Sold
 
 (2) § 30c Absatz 1 bis 3 des Soldatengesetzes und diese Verordnung gelten nicht für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler Aufgaben zu den in der Anlage aufgeführten militärischen Stellen versetzt oder kommandiert sind.
 
+(3) Abweichend von Absatz 2 gilt § 17 für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler oder supranationaler Aufgaben zu den in der Anlage aufgeführten Dienststellen versetzt oder kommandiert sind und für die ein Langzeitkonto eingerichtet worden ist, mit der Maßgabe, dass die Langzeitkonten der betroffenen Personen für die Dauer der Verwendung oder Kommandierung ruhen.
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
-1. „Abrechnungszeitraum“ bei gleitender Arbeitszeit der Zeitraum, in dem ein Über- oder Unterschreiten der regelmäßigen wöchentlichen Arbeitszeit auszugleichen ist,
+1. „Abrechnungszeitraum“ bei Gleitzeit der Zeitraum, in dem ein Über- oder Unterschreiten der regelmäßigen wöchentlichen Arbeitszeit auszugleichen ist,
 
 2. „Arbeitsplatz“ die Dienststelle oder ein anderer von der oder dem Vorgesetzten bestimmter Ort, an dem die Soldatin oder der Soldat Dienst zu leisten hat,
 
@@ -27,35 +29,39 @@ Im Sinne dieser Verordnung ist
 
 5. „Dienst zu wechselnden Zeiten“ ein Dienst, bei dem mindestens viermal im Kalendermonat die Differenz zwischen den Anfangsuhrzeiten zweier Dienste mindestens 7 und höchstens 17 Stunden beträgt und bei dem im Kalendermonat mindestens 5 Stunden Nachtdienst tatsächlich geleistet werden; Rufbereitschaft und Bereitschaftsdienst gelten nicht als Dienst zu wechselnden Zeiten,
 
-6. „gleitende Arbeitszeit“ ein Arbeitszeitmodell, bei dem die Soldatinnen und Soldaten Beginn und Ende der täglichen Tätigkeit in gewissen Grenzen selbst bestimmen können,
+6. „Gleittag“ ein ganztägiger Zeitausgleich bei Gleitzeit; dabei gilt ein Tag mit einer Arbeitszeit von weniger als 2 Stunden als Gleittag,
 
-7. „Gleittag“ ein ganztägiger Zeitausgleich bei gleitender Arbeitszeit; dabei gilt ein Tag mit einer Arbeitszeit von weniger als 2 Stunden als Gleittag,
+7. „Gleitzeit“ ein Arbeitszeitmodell, bei dem die Soldatinnen und Soldaten Beginn und Ende der täglichen Arbeitszeit in gewissen Grenzen selbst bestimmen können,
 
-8. „Nachtdienst“ ein Dienst, der zwischen 20 und 6 Uhr zu leisten ist,
+8. „Langzeitkonto“ ein personenbezogenes Arbeitszeitkonto zum Ansparen von durch erhöhten Arbeitsanfall bedingten Zeitguthaben, die für zusammengefasste Dienstbefreiungszeiten verwendet werden können,
 
-9. „Reisezeit“ die Zeit, die die Soldatin oder der Soldat benötigt für den Weg zwischen
+9. „Nachtdienst“ ein Dienst, der zwischen 20 und 6 Uhr zu leisten ist,
 
-a) der Wohnung oder der Dienststelle und der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft,
+10. „Reisezeit“ die Zeit ohne Wartezeit, die die Soldatin oder der Soldat benötigt für den Weg zwischen
 
-b) der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft und der Stelle eines weiteren auswärtigen Dienstgeschäftes oder einer weiteren auswärtigen Unterkunft,
+a) der Wohnung oder der Dienststätte und der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft,
 
-c) der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft und der Wohnung oder der Dienststelle,
+b) der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft und der Stelle eines weiteren auswärtigen Dienstgeschäfts oder einer weiteren auswärtigen Unterkunft,
 
-10. „Rufbereitschaft“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich außerhalb des Arbeitsplatzes bereitzuhalten, um bei Bedarf sofort zur Dienstleistung abgerufen werden zu können,
+c) der Stelle des letzten auswärtigen Dienstgeschäfts oder der letzten auswärtigen Unterkunft und der Wohnung oder Dienststätte,
 
-11. „Ruhepause“ die Unterbrechung der vorgegebenen täglichen Arbeitszeit, in der die Soldatin oder der Soldat keinen Dienst leistet,
+11. „Rufbereitschaft“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich außerhalb des Arbeitsplatzes bereitzuhalten, um bei Bedarf sofort zur Dienstleistung abgerufen werden zu können,
 
-12. „Ruhezeit“ jeder Zeitraum außerhalb der vorgegebenen täglichen Arbeitszeit,
+12. „Ruhepause“ die Unterbrechung der vorgegebenen täglichen Arbeitszeit, in der die Soldatin oder der Soldat keinen Dienst leistet,
 
-13. „Schichtdienst“ der Dienst nach einem Schichtplan, der den regelmäßigen Wechsel der täglichen Arbeitszeit der Soldatin oder des Soldaten in Zeitabschnitten von längstens drei Monaten festlegt,
+13. „Ruhezeit“ jeder Zeitraum außerhalb der vorgegebenen täglichen Arbeitszeit,
 
-14. „Wartezeit“ bei Dienstreisen die Zeit ohne Dienstleistung
+14. „Schichtdienst“ der Dienst nach einem Schichtplan, der den regelmäßigen Wechsel der täglichen Arbeitszeit der Soldatin oder des Soldaten in Zeitabschnitten von längstens drei Monaten festlegt,
 
-a) vom Ende der Anreise bis zum Beginn der dienstlichen Tätigkeit,
+15. „Wartezeit“ eine während einer Dienstreise anfallende Zeit ohne Dienstleistung zwischen
 
-b) vom Ende der dienstlichen Tätigkeit an einem Tag bis zum Beginn der dienstlichen Tätigkeit an einem anderen Tag,
+a) der Ankunft und dem Beginn der dienstlichen Tätigkeit,
 
-c) vom Ende der dienstlichen Tätigkeit bis zur Abreise.
+b) dem Ende der dienstlichen Tätigkeit an einem Tag und dem Beginn der dienstlichen Tätigkeit an einem anderen Tag,
+
+c) dem Ende der dienstlichen Tätigkeit und der Abreise,
+
+16. „Zeit der Regeneration“ eine Phase einer Erholung nach einer Belastungssituation, in der die Soldatin oder der Soldat zu keiner konkreten Dienstverrichtung eingeteilt ist, aber lageabhängig jederzeit wieder beansprucht werden kann.
 
 # § 3 – Zuständigkeit
 
@@ -95,7 +101,13 @@ Arbeitszeit ist insbesondere nicht:
 
 a) die für ein Kind unter zwölf Jahren Kindergeld erhalten oder
 
-b) in deren Haushalt ein Elternteil, die Ehegattin oder der Ehegatte, die Lebenspartnerin oder der Lebenspartner oder ein Kind lebt, bei der oder dem Pflegebedürftigkeit besteht, die nachzuweisen ist durch eine Bescheinigung der Pflegekasse oder des Medizinischen Dienstes der Krankenversicherung, durch eine entsprechende Bescheinigung einer privaten Pflegeversicherung oder durch ein ärztliches Gutachten.
+b) die eine nahe Angehörige oder einen nahen Angehörigen nach § 7 Absatz 3 des Pflegezeitgesetzes in ihrem eigenen Haushalt oder im eigenen Haushalt der oder des nahen Angehörigen tatsächlich betreuen oder pflegen, die oder der
+
+aa)  
+pflegebedürftig ist und die Pflegebedürftigkeit nach § 18 des Elften Buches Sozialgesetzbuch durch eine Bescheinigung der Pflegekasse, des Medizinischen Dienstes, der Krankenversicherung, nach einer entsprechenden Bescheinigung einer privaten Pflegeversicherung oder nach einem ärztlichen Gutachten festgestellt worden ist, oder
+
+bb)  
+an einer durch ein ärztliches Zeugnis nachgewiesenen Erkrankung nach § 3 Absatz 6 Satz 1 des Pflegezeitgesetzes leidet.
 
 Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Voraussetzungen vorliegen. Sie endet mit Ablauf des Monats, in dem die Voraussetzungen nicht mehr vorliegen. § 116 Absatz 1 des Neunten Buches Sozialgesetzbuch ist anwendbar. Die Soldatinnen und Soldaten sind verpflichtet, jede Änderung unverzüglich anzuzeigen und auf Verlangen entsprechende Nachweise zu erbringen. Bei Teilzeitbeschäftigung wird die regelmäßige wöchentliche Arbeitszeit entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung verkürzt.
 
@@ -177,7 +189,7 @@ Samstag, Heiligabend und Silvester sind grundsätzlich dienstfrei. Aus dienstlic
 
 (1) Sind die Dienststunden so festgelegt, dass die regelmäßige tägliche Arbeitszeit von Soldatinnen und Soldaten im Rahmen der regelmäßigen wöchentlichen Arbeitszeit dauerhaft überschritten wird, ist der Dienstbetrieb im Schichtdienst durchzuführen.
 
-(2) Von Schichtdienst soll abgesehen werden, wenn die Überschreitung der regelmäßigen täglichen Arbeitszeit durch Dienstbefreiung oder im Rahmen der gleitenden Arbeitszeit ausgeglichen werden kann.
+(2) Von Schichtdienst soll abgesehen werden, wenn die Überschreitung der regelmäßigen täglichen Arbeitszeit durch Dienstbefreiung oder im Rahmen der Gleitzeit ausgeglichen werden kann.
 
 # § 10 – Mobiles Arbeiten
 
@@ -195,11 +207,11 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 (3) Bei Teilzeitbeschäftigung wird die Dauer der Dienstreise bis zur Länge der regelmäßigen täglichen Arbeitszeit bei Vollzeitbeschäftigung zugrunde gelegt, falls dies für die Soldatin oder den Soldaten günstiger ist als die Berücksichtigung der individuellen regelmäßigen täglichen Arbeitszeit. Fällt eine Dienstreise bei Teilzeitbeschäftigung auf einen nach dem jeweiligen Arbeitszeitmodell dienstfreien Montag bis Freitag, so ist ein anderer dienstfreier Tag zu gewähren.
 
-(4) Überschreiten bei Dienstreisen, die über die regelmäßige tägliche Arbeitszeit hinausgehen, die nicht anrechenbaren Reisezeiten in einem Kalendermonat insgesamt 15 Stunden, so ist innerhalb von zwölf Monaten auf Antrag ein Viertel der über 15 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei gleitender Arbeitszeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben. Der Antrag ist spätestens am Ende des Kalendermonats zu stellen, der auf den Kalendermonat folgt, in dem die nicht anrechenbaren Reisezeiten angefallen sind.
+(4) Bei Dienstreisen, die über die regelmäßige tägliche Arbeitszeit hinausgehen, ist ein Freizeitausgleich in Höhe von einem Drittel der nach Absatz 2 nicht anrechenbaren Reisezeiten zu gewähren. Dies gilt auch für Reisezeiten an Sonnabenden, Sonntagen oder gesetzlichen Feiertagen. Bei Gleitzeit wird ein Drittel der nicht anrechenbaren Reisezeiten dem Gleitzeitkonto gutgeschrieben. Die Soldatin oder der Soldat hat die tatsächlichen Reisezeiten der Dienststelle anzuzeigen; auf Verlangen sind Nachweise vorzulegen. Wird die Dienstreise von der Wohnung aus angetreten oder an der Wohnung beendet, darf höchstens die Reisezeit berücksichtigt werden, die bei einem Antritt der Dienstreise an der Dienststätte oder bei einer Beendigung der Dienstreise an der Dienststätte angefallen wäre. Reisezeiten sind keine Mehrarbeit im Sinne des § 30c Absatz 2 des Soldatengesetzes. Absatz 3 Satz 1 gilt entsprechend. Wird eine Dienstreise mit einer privaten Reise oder einer privaten Fahrt verbunden, so wird für die auf den betroffenen Reiseweg entfallene Reisezeit kein Freizeitausgleich nach Satz 1 gewährt.
 
 # § 12 – Rufbereitschaft
 
-(1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als 10 Stunden Rufbereitschaft im Kalendermonat, ist innerhalb von zwölf Monaten ein Achtel der über 10 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei gleitender Arbeitszeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben.
+(1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als 10 Stunden Rufbereitschaft im Kalendermonat, ist innerhalb von zwölf Monaten ein Achtel der über 10 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei Gleitzeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben.
 
 (2) Wird eine Soldatin oder ein Soldat in Zeiten der Rufbereitschaft tatsächlich beansprucht, ist dies Arbeitszeit und nicht als Zeit der Rufbereitschaft anzurechnen. Als Zeit der tatsächlichen Inanspruchnahme gilt die Zeit vom Eintreffen der Soldatin oder des Soldaten am Ort der Dienstleistung bis zur Beendigung des jeweiligen Auftrages.
 
@@ -215,7 +227,7 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 # § 14 – Nachtdienst
 
-(1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung der Arbeitskraft der Soldatin oder des Soldaten Rechnung tragen. Die Arbeitszeit, in der Nachtdienst verrichtet wird, darf innerhalb von zwölf Monaten im Durchschnitt 8 Stunden pro 24-Stunden-Zeitraum nicht überschreiten.
+(1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung der Arbeitskraft der Soldatin oder des Soldaten Rechnung tragen. Dabei darf die Arbeitszeit in einem Bezugszeitraum von zwölf Monaten im Durchschnitt 8 Stunden pro 24-Stunden-Zeitraum nicht überschreiten.
 
 (2) Ist die Arbeit mit besonderen Gefahren, mit einer erheblichen körperlichen Belastung oder mit erheblicher geistiger Anspannung verbunden, darf in einem 24-Stunden-Zeitraum, in dem Nachtdienst verrichtet wird, die Arbeitszeit nicht mehr als 8 Stunden betragen. § 6 Absatz 1 Satz 3 gilt entsprechend.
 
@@ -233,9 +245,9 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 (6) Die Anordnung, der Befehl, die Genehmigung und der Ausgleich von Mehrarbeit sind gesondert zu erfassen. Die hierbei erhobenen und gespeicherten Daten sind nach Ablauf des Jahres, in dem sie entstanden sind, fünf weitere Jahre aufzubewahren und anschließend zu löschen.
 
-# § 16 – Gleitende Arbeitszeit
+# § 16 – Gleitzeit
 
-(1) Das Bundesministerium der Verteidigung kann gleitende Arbeitszeit ermöglichen, soweit dienstliche Gründe dem nicht entgegenstehen. Die zur Erfüllung der Aufgaben erforderliche Anwesenheit in der Dienststelle haben die Vorgesetzten sowie die Soldatinnen und Soldaten sicherzustellen.
+(1) Das Bundesministerium der Verteidigung kann Gleitzeit ermöglichen, soweit dienstliche Gründe dem nicht entgegenstehen. Die zur Erfüllung der Aufgaben erforderliche Anwesenheit in der Dienststelle haben die Vorgesetzten sowie die Soldatinnen und Soldaten sicherzustellen.
 
 (2) Die höchstzulässige tägliche Arbeitszeit sowie der früheste Dienstbeginn und das späteste Dienstende sind festzulegen.
 
@@ -257,13 +269,53 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 (8) Der oder dem unmittelbaren Vorgesetzten sind die Gleitzeitsalden der Soldatinnen und Soldaten mitzuteilen, sofern sich Zeitguthaben von mehr als 20 Stunden oder Zeitschulden von mehr als 10 Stunden ergeben. Die Gleitzeitsalden dürfen ausschließlich der Wahrung arbeitsschutzrechtlicher Vorschriften, dem gezielten Personaleinsatz und der Steuerung des Ausgleichs dienen. Die Gleitzeitsalden dürfen nicht für eine Kontrolle oder für eine Bewertung der Leistung oder des Verhaltens der Soldatin oder des Soldaten verwendet werden.
 
-(9) Verstöße gegen die Regelungen zur gleitenden Arbeitszeit dürfen der oder dem unmittelbaren Vorgesetzten mitgeteilt werden.
+(9) Verstöße gegen die Regelungen zur Gleitzeit dürfen der oder dem unmittelbaren Vorgesetzten mitgeteilt werden.
 
-# § 17 – (weggefallen)
+# § 17 – Langzeitkonten
+
+(1) Für Berufssoldatinnen und Berufssoldaten sowie für Soldatinnen auf Zeit und Soldaten auf Zeit kann das Bundesministerium der Verteidigung Langzeitkonten führen. Das Bundesministerium der Verteidigung kann den ihm nachgeordneten Dienststellen die Führung von Langzeitkonten für die dort beschäftigten Soldatinnen und Soldaten nach Satz 1 gestatten. Langzeitkonten können nur für einen Zeitraum nach einer Dienstzeit von vier Jahren geführt werden. Die Dienstzeit im Sinne dieser Verordnung beginnt mit dem Tag der Berufung in das Wehrdienstverhältnis; ein vor der Berufung geleisteter früherer Wehrdienst wird angerechnet. Von den Befugnissen nach den Sätzen 1 und 2 darf nur Gebrauch gemacht werden, soweit dienstliche Gründe nicht entgegenstehen.
+
+(2) Die Langzeitkonten werden unabhängig von den im Rahmen der Gleitzeit eingerichteten Gleitzeitkonten und unabhängig vom jeweils vereinbarten Arbeitszeitmodell geführt.
+
+(3) Für Soldatinnen und Soldaten, die jederzeit in den einstweiligen Ruhestand versetzt werden können, werden keine Langzeitkonten eingerichtet. Auf bereits bestehenden Langzeitkonten kann kein weiteres Zeitguthaben angespart werden.
+
+(4) Ein Langzeitkonto ruht, solange die Soldatin oder der Soldat zu einer Stelle außerhalb des Geschäftsbereichs des Bundesministeriums der Verteidigung versetzt oder kommandiert ist.
+
+(5) Soldatinnen und Soldaten, deren Langzeitkonten ruhen, können weder ein weiteres Zeitguthaben nach § 17a ansparen noch Zeitausgleich nach § 17b beantragen.
+
+# § 17a – Ansparen bei Langzeitkonten
+
+(1) Für Soldatinnen und Soldaten, für die ein Langzeitkonto geführt wird, kann die regelmäßige wöchentliche Arbeitszeit auf Antrag um bis zu 3 Stunden verlängert werden, wenn die Verlängerung für die Erfüllung der dienstlichen Aufgaben angemessen und zweckmäßig ist. Die Verlängerung kann bis zu vier Wochen rückwirkend erfolgen, in von Vorgesetzten zu begründenden Ausnahmefällen bis zu zwölf Wochen rückwirkend. Das Vorliegen der Voraussetzungen für die Verlängerung der regelmäßigen wöchentlichen Arbeitszeit ist mindestens alle zwei Jahre sowie bei einem Wechsel der Organisationseinheit zu überprüfen. Die Differenz zwischen der regelmäßigen wöchentlichen Arbeitszeit nach § 30c Absatz 1 Satz 1 des Soldatengesetzes in Verbindung mit § 5 Absatz 1 und der tatsächlich geleisteten wöchentlichen Arbeitszeit wird dem Langzeitkonto bis zur Höhe der Verlängerung nach Satz 1 als Zeitguthaben gutgeschrieben. Darüber hinaus geleistete Arbeitszeit wird dem Gleitzeitkonto nach § 16 oder – sofern die Voraussetzungen des § 30c Absatz 2 des Soldatengesetzes vorliegen – dem Mehrarbeitskonto gutgeschrieben. § 5 Absatz 5 und § 6 Absatz 1 Satz 2 bleiben unberührt.
+
+(2) Dem Langzeitkonto können auf Antrag auch gutgeschrieben werden:
+
+1. Ansprüche auf Dienstbefreiung für angeordnete oder genehmigte Mehrarbeit im Umfang von bis zu 100 Stunden im Jahr,
+
+2. Ansprüche auf Freistellung vom Dienst auf Grund von Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes im Umfang von bis zu 164 Stunden im Jahr.
+
+(3) Zeitguthaben können bis zwölf Monate vor dem Dienstzeitende angespart werden. Auf dem Langzeitkonto können höchstens 1 400 Stunden angespart werden.
+
+(4) Die Salden der Langzeitkonten der Soldatinnen und Soldaten werden durch die Dienststelle erfasst. Die erfassten Daten sind mindestens drei Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, aufzubewahren. Das Bundesministerium der Verteidigung legt fest, ob die Daten entweder spätestens sechs Monate nach Ablauf des Abrechnungszeitraums oder spätestens 13 Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, zu löschen sind.
+
+(5) Der oder dem unmittelbaren Vorgesetzten sind die Salden der Langzeitkonten ihrer oder seiner Soldatinnen und Soldaten ausschließlich zum Zweck des gezielten Personaleinsatzes und für die Überprüfung nach Absatz 1 Satz 3 mitzuteilen. Die Daten dürfen nicht für die Kontrolle oder Bewertung der Leistung oder des Verhaltens der Soldatinnen und Soldaten verwendet werden.
+
+# § 17b – Zeitausgleich bei Langzeitkonten
+
+(1) Der Ausgleich für das Zeitguthaben auf dem Langzeitkonto wird auf Antrag durch Dienstbefreiung gewährt. Während der Dienstbefreiung werden Geld- und Sachbezüge, auf die im Zeitraum des Abbaus von Zeitguthaben entsprechend dem diesem Zeitraum zugrundeliegenden Arbeitszeitmodell ein Anspruch besteht, fortgezahlt. Ein Anspruch auf finanziellen Ausgleich von Zeitguthaben besteht nicht. Mehrarbeitsstunden nach § 30c Absatz 2 des Soldatengesetzes sind vorrangig auszugleichen.
+
+(2) Der Antrag auf Dienstbefreiung kann aus dienstlichen Gründen abgelehnt werden. In diesem Fall ist mit Zustimmung der Soldatin oder des Soldaten ein Zeitraum festzulegen, in dem eine Dienstbefreiung im beantragten Umfang möglich ist. In den letzten zwölf Monaten vor Dienstzeitende bedarf es für die Ablehnung zwingender dienstlicher Gründe.
+
+(3) Eine Dienstbefreiung ist für ganze Tage oder durch Verkürzung der Arbeitszeit möglich. Ganztägige Dienstbefreiungen für einen zusammenhängenden Zeitraum sind grundsätzlich auf drei Monate begrenzt. Sofern die ganztägige Dienstbefreiung einen zusammenhängenden Zeitraum von sechs Wochen überschreitet, soll sie mindestens drei Monate vor dem Datum des gewünschten Beginns der Dienstbefreiung beantragt werden. Die Kombination der Dienstbefreiung mit einem Hinausschieben des Ruhestands nach § 44 Absatz 1 Satz 3 oder § 44 Absatz 1 Satz 4 des Soldatengesetzes ist ausgeschlossen.
+
+(4) Eine gewährte Dienstbefreiung wird nur durch Mutterschutz oder Elternzeit unterbrochen.
+
+(5) Eine gewährte Dienstbefreiung kann ausnahmsweise widerrufen oder unterbrochen werden, wenn bei Abwesenheit der Soldatin oder des Soldaten die ordnungsgemäße Erledigung der Dienstgeschäfte nicht gewährleistet wäre. Mehraufwendungen, die der Soldatin oder dem Soldaten durch einen dienstlich begründeten Widerruf oder durch eine dienstlich begründete Unterbrechung der Dienstbefreiung entstehen, werden nach den Bestimmungen des Reisekostenrechts ersetzt.
+
+(6) Ein zum Dienstzeitende noch auf dem Langzeitkonto vorhandenes Zeitguthaben verfällt.
 
 # § 18 – Automatisierte Zeiterfassung
 
-(1) Das Bundesministerium der Verteidigung kann eine automatisierte Zeiterfassung auch unabhängig von der Einführung einer gleitenden Arbeitszeit für einzelne Dienststellen, militärische Organisationsbereiche oder seinen gesamten Geschäftsbereich einführen. Die erfassten Daten sind mindestens drei Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, aufzubewahren. Das Bundesministerium der Verteidigung legt fest, ob die Daten entweder spätestens sechs Monate nach Ablauf des Abrechnungszeitraums oder spätestens 13 Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, zu löschen sind.
+(1) Das Bundesministerium der Verteidigung kann eine automatisierte Zeiterfassung auch unabhängig von der Einführung einer Gleitzeit für einzelne Dienststellen, militärische Organisationsbereiche oder seinen gesamten Geschäftsbereich einführen. Die erfassten Daten sind mindestens drei Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, aufzubewahren. Das Bundesministerium der Verteidigung legt fest, ob die Daten entweder spätestens sechs Monate nach Ablauf des Abrechnungszeitraums oder spätestens 13 Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, zu löschen sind.
 
 (2) Der oder dem unmittelbaren Vorgesetzten sind ausschließlich die Zeitsalden der Soldatinnen und Soldaten mitzuteilen. Diese dürfen ausschließlich der Wahrung arbeitsschutzrechtlicher Vorschriften, dem gezielten Personaleinsatz und der Steuerung des Ausgleichs dienen. Die Zeitsalden dürfen nicht für eine Kontrolle oder für eine Bewertung der Leistung oder des Verhaltens der Soldatin oder des Soldaten verwendet werden.
 
@@ -291,41 +343,33 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 # § 21 – Anordnung von Dienst
 
-(1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständige Inspekteurin oder den zuständigen Inspekteur. Sie oder er kann die Anordnungsbefugnis nachgeordneten Stellen übertragen.
+(1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständigen Leiterinnen oder Leiter der Organisationsbereiche oder durch den Kommandeur des Territorialen Führungskommandos der Bundeswehr. Diese können die Anordnungsbefugnis einer ihnen unterstellten Person übertragen.
 
 (2) Geleisteter Dienst bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist einschließlich seiner Anordnung und seines Ausgleichs zu erfassen. Die hierbei erhobenen Daten sind nach Ablauf des Jahres, in dem der Dienst geleistet worden ist, fünf Jahre aufzubewahren und anschließend zu löschen.
 
 # § 22 – Umgang mit besonderen zeitlichen Belastungen
 
-Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die besonderen zeitlichen Belastungen der Soldatinnen und Soldaten so gering wie möglich halten und nach Phasen extremer Belastung Ruhezeiten und Ruhepausen gewähren.
+Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die besonderen zeitlichen Belastungen der Soldatinnen und Soldaten so gering wie möglich halten und nach Phasen extremer Belastung Zeiten der Regeneration gewähren.
 
-# § 23 – Ausgleich von Belastungen
+# § 23 – Ausgleich besonderer zeitlicher Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes
 
-(1) Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes sind auszugleichen.
+(1) Die oder der zuständige Disziplinarvorgesetzte hat dafür Sorge zu tragen, dass besondere zeitliche Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ausgeglichen werden.
 
-(2) Für Tätigkeiten nach § 30c Absatz 4 Nummer 1 des Soldatengesetzes mit Ausnahme der einsatzgleichen Verpflichtungen gilt, dass
+(2) Für jeden Kalendertag, an dem im Rahmen einer Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes Dienst verrichtet worden ist, besteht Anspruch auf Freistellung vom Dienst für einen Tag. Dies gilt nicht
 
-1. innerhalb eines Zeitraums von einem Monat vor Beginn der Tätigkeit die Gelegenheit zur Inanspruchnahme von mindestens fünf zusammenhängenden dienstfreien Tagen aus bestehenden Ansprüchen auf Urlaub, Dienstbefreiung und Freistellung vom Dienst eröffnet werden soll,
+1. für Kalendertage, für die ein Auslandsverwendungszuschlag nach § 56 des Bundesbesoldungsgesetzes gewährt wird,
 
-2. während der Tätigkeit lageabhängig bei jeder sich bietenden Gelegenheit Ruhezeiten und Ruhepausen zu gewähren sind und
+2. in den in § 30c Absatz 4 Nummer 1 Buchstabe b des Soldatengesetzes genannten Fällen,
 
-3. innerhalb von zwei Monaten nach Beendigung der Tätigkeit die Gelegenheit zur Inanspruchnahme von mindestens 14 zusammenhängenden dienstfreien Tagen aus bestehenden Ansprüchen auf Urlaub, Dienstbefreiung und Freistellung vom Dienst eröffnet werden soll.
+3. für Verlegetage, an denen ausschließlich Reise- oder Wartezeiten entstehen, sowie für ganztägige Zeiten der Regeneration.
 
-(3) Für Tätigkeiten nach § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes sowie bei einsatzgleichen Verpflichtungen nach § 30c Absatz 4 Nummer 1 des Soldatengesetzes gilt, dass
+(3) Für Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist nach Beendigung der Tätigkeit im unmittelbaren Anschluss an diese für mindestens einen Tag, bei besonders hoher individueller Belastung während der Tätigkeit für mehrere Tage, Freistellung vom Dienst aus bestehenden Ansprüchen nach Absatz 2 anzuordnen
 
-1. während der Tätigkeit lageabhängig bei jeder sich bietenden Gelegenheit Ruhezeiten und Ruhepausen zu gewähren sind,
+(4) Für Tätigkeiten nach § 30c Absatz 4 Nummer 1 des Soldatengesetzes soll Soldatinnen und Soldaten, auf Antrag
 
-2. für jeden Kalendertag, an dem die Tätigkeit ausgeübt worden ist, Anspruch auf Freistellung vom Dienst von einem Tag entsteht, und
+1. innerhalb von einem Monat vor Beginn der Tätigkeit Urlaub, Dienstbefreiung oder Freistellung vom Dienst für mindestens fünf zusammenhängende Tage gewährt werden,
 
-3. nach Beendigung der Tätigkeit in unmittelbarem zeitlichen Zusammenhang mindestens ein dienstfreier Tag aus bestehenden Ansprüchen auf Urlaub, Dienstbefreiung und Freistellung vom Dienst zu gewähren ist; über einen weiteren zeitlichen Ausgleich wird in Abhängigkeit von der individuellen Belastung entschieden.
-
-# § 24 – Inkrafttreten, Außerkrafttreten
-
-(1) Diese Verordnung tritt am 1. Januar 2016 in Kraft.
-
-(2) § 17 tritt am 31. Dezember 2020 außer Kraft.
-
-(3) § 5a tritt am 31. Dezember 2023 außer Kraft.
+2. innerhalb von zwei Monaten nach Beendigung der Tätigkeit Urlaub, Dienstbefreiung oder Freistellung vom Dienst für mindestens 14 zusammenhängende Tage gewährt werden.
 
 # Anlage – (zu § 1 Absatz 2)
 
