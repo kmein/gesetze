@@ -145,7 +145,7 @@ in dieser Beschäftigung und in weiteren Beschäftigungen, auf die die Gewährle
 
 2. geringfügige selbständige Tätigkeit nach § 8 Absatz 3 in Verbindung mit § 8 Absatz 1 oder nach § 8 Absatz 3 in Verbindung mit den §§ 8a und 8 Absatz 1 des Vierten Buches
 
-ausüben, in dieser Beschäftigung oder selbständigen Tätigkeit. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig ist. Satz 1 Nummer 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung beschäftigt sind.
+ausüben, in dieser Beschäftigung oder selbständigen Tätigkeit. Bei Anwendung von Satz 1 Nummer 2 ist im gesamten Kalenderjahr die zum 1. Januar des jeweiligen Kalenderjahres geltende Geringfügigkeitsgrenze maßgebend. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig ist. Satz 1 Nummer 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung beschäftigt sind.
 
 (3) Versicherungsfrei sind Personen, die während der Dauer eines Studiums als ordentliche Studierende einer Fachschule oder Hochschule ein Praktikum ableisten, das in ihrer Studienordnung oder Prüfungsordnung vorgeschrieben ist.
 
@@ -3233,7 +3233,7 @@ Die Darstellungen zu der Nummer 4 sind erstmals im Jahre 2005 vorzulegen.
 
 Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung nicht erreicht werden kann.
 
-(3a) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr ist der Verhältniswert aus der verfügbaren Standardrente und dem verfügbaren Durchschnittsentgelt des jeweils betreffenden Kalenderjahres. Die verfügbare Standardrente des jeweiligen Kalenderjahres ist die Standardrente, gemindert um die von den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge. Die Standardrente ist die Regelaltersrente aus der allgemeinen Rentenversicherung mit 45 Entgeltpunkten, die sich unter Zugrundelegung des ab dem 1. Juli des betreffenden Kalenderjahres geltenden aktuellen Rentenwerts für zwölf Monate berechnet. Die von den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge berechnen sich, indem die Standardrente des betreffenden Kalenderjahres mit der Summe des von den Rentnerinnen und Rentnern zu tragenden allgemeinen Beitragssatzanteils sowie des Anteils des durchschnittlichen Zusatzbeitragssatzes zur gesetzlichen Krankenversicherung und des Beitragssatzes zur sozialen Pflegeversicherung nach § 55 Absatz 1 Satz 1 des Elften Buches des betreffenden Kalenderjahres vervielfältigt wird. Das verfügbare Durchschnittsentgelt des jeweiligen Kalenderjahres wird ermittelt, indem das verfügbare Durchschnittsentgelt des Vorjahres mit der für die Rentenanpassung maßgebenden Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2) und der Veränderung der Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres gegenüber dem Vorjahr angepasst wird. Die Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres wird ermittelt, indem vom Wert 100 Prozent der vom Arbeitnehmer zu tragende Anteil des im Bundesanzeiger nach § 163 Absatz 10 Satz 5 bekannt gegebenen Gesamtsozialversicherungsbeitragssatzes des betreffenden Kalenderjahres abgezogen wird. Für die Bestimmung des Sicherungsniveaus vor Steuern für das Jahr 2022 beträgt das verfügbare Durchschnittsentgelt des Vorjahres 33 992,16 Euro. Die Sätze 1 bis 5 sind für die Vorausberechnungen des Sicherungsniveaus vor Steuern entsprechend anzuwenden.
+(3a) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr ist der Verhältniswert aus der verfügbaren Standardrente und dem verfügbaren Durchschnittsentgelt des jeweils betreffenden Kalenderjahres. Die verfügbare Standardrente des jeweiligen Kalenderjahres ist die Standardrente, gemindert um die von den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge. Die Standardrente ist die Regelaltersrente aus der allgemeinen Rentenversicherung mit 45 Entgeltpunkten, die sich unter Zugrundelegung des ab dem 1. Juli des betreffenden Kalenderjahres geltenden aktuellen Rentenwerts für zwölf Monate berechnet. Die von den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge berechnen sich, indem die Standardrente des betreffenden Kalenderjahres mit der Summe des von den Rentnerinnen und Rentnern zu tragenden allgemeinen Beitragssatzanteils sowie des Anteils des durchschnittlichen Zusatzbeitragssatzes zur gesetzlichen Krankenversicherung und des Beitragssatzes zur sozialen Pflegeversicherung nach § 55 Absatz 1 Satz 1 des Elften Buches des betreffenden Kalenderjahres vervielfältigt wird. Das verfügbare Durchschnittsentgelt des jeweiligen Kalenderjahres wird ermittelt, indem das verfügbare Durchschnittsentgelt des Vorjahres mit der für die Rentenanpassung maßgebenden Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2) und der Veränderung der Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres gegenüber dem Vorjahr angepasst wird. Die Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres wird ermittelt, indem vom Wert 100 Prozent der vom Arbeitnehmer zu tragende Anteil des im Bundesanzeiger nach § 20 Absatz 2a Satz 5 des Vierten Buches bekannt gegebenen Gesamtsozialversicherungsbeitragssatzes des betreffenden Kalenderjahres abgezogen wird. Für die Bestimmung des Sicherungsniveaus vor Steuern für das Jahr 2022 beträgt das verfügbare Durchschnittsentgelt des Vorjahres 33 992,16 Euro. Die Sätze 1 bis 5 sind für die Vorausberechnungen des Sicherungsniveaus vor Steuern entsprechend anzuwenden.
 
 (4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung älterer Arbeitnehmer zu berichten und eine Einschätzung darüber abzugeben, ob die Anhebung der Regelaltersgrenze unter Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin vertretbar erscheint und die getroffenen gesetzlichen Regelungen bestehen bleiben können. In diesem Bericht sind zur Beibehaltung eines Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr 2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter Wahrung der Beitragssatzstabilität vorzuschlagen. Die Bundesregierung berichtet zudem vom Jahre 2018 an über die Auswirkungen der Altersrente für besonders langjährig Versicherte in der Fassung des RV-Leistungsverbesserungsgesetzes, insbesondere über den Umfang der Inanspruchnahme und die Erfüllung der Zugangsvoraussetzungen vor dem Hintergrund der Berücksichtigung von Zeiten des Arbeitslosengeldbezugs und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
 
@@ -3329,7 +3329,7 @@ Beitragspflichtige Einnahmen sind
 
 4. bei Mitgliedern geistlicher Genossenschaften, Diakonissen und Angehörigen ähnlicher Gemeinschaften die Geld- und Sachbezüge, die sie persönlich erhalten, jedoch bei Mitgliedern, denen nach Beendigung ihrer Ausbildung eine Anwartschaft auf die in der Gemeinschaft übliche Versorgung nicht gewährleistet oder für die die Gewährleistung nicht gesichert ist (§ 5 Abs. 1 Satz 1 Nr. 3), mindestens 40 vom Hundert der Bezugsgröße,
 
-5. bei Personen, deren Beschäftigung nach dem Einkommensteuerrecht als selbständige Tätigkeit bewertet wird, ein Einkommen in Höhe der Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Einkommens jedoch dieses Einkommen, mindestens jedoch monatlich 450 Euro. § 165 Abs. 1 Satz 2 bis 10 gilt entsprechend.
+5. bei Personen, deren Beschäftigung nach dem Einkommensteuerrecht als selbständige Tätigkeit bewertet wird, ein Einkommen in Höhe der Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Einkommens jedoch dieses Einkommen, mindestens jedoch das Zwölffache der Geringfügigkeitsgrenze. § 165 Abs. 1 Satz 2 bis 10 gilt entsprechend.
 
 (+++ § 162 Nr. 3a: Zur Weiteranwendung in der bis zum 31.12.2019 geltenden Fassung vgl. § 276 F 2020-03-04 +++)
 
@@ -3347,19 +3347,13 @@ Beitragspflichtige Einnahmen sind
 
 (6) Soweit Kurzarbeitergeld geleistet wird, gilt als beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten Buches.
 
-(7) (weggefallen)
+(7) Bei Beschäftigten, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, berechnet sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches.
 
 (8) Bei Arbeitnehmern, die eine geringfügige Beschäftigung ausüben, ist beitragspflichtige Einnahme das Arbeitsentgelt, mindestens jedoch der Betrag in Höhe von 175 Euro.
 
 (9) (weggefallen)
 
-(10) Bei Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Abs. 2 Viertes Buch) mehr als geringfügig beschäftigt sind, ist beitragspflichtige Einnahme der Betrag, der sich aus folgender Formel ergibt:
-
-|                                                                                                                                                                                  |     |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----|
-| <a href="../normengrafiken/bgbl1_2018/j2017_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a> | .   |
-
-Dabei ist AE das Arbeitsentgelt und F der Faktor, der sich ergibt, wenn der Wert 30 vom Hundert durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist, geteilt wird. Der Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ergibt sich aus der Summe der zum 1. Januar desselben Kalenderjahres geltenden Beitragssätze in der allgemeinen Rentenversicherung, in der gesetzlichen Pflegeversicherung sowie zur Arbeitsförderung und des um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung. Für die Zeit vom 1. Juli 2006 bis zum 31. Dezember 2006 beträgt der Faktor F 0,7160. Der Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu geben. Satz 1 gilt nicht für Personen, die zu ihrer Berufsausbildung beschäftigt sind.
+(10) (weggefallen)
 
 # § 164
 
@@ -3369,7 +3363,7 @@ Dabei ist AE das Arbeitsentgelt und F der Faktor, der sich ergibt, wenn der Wert
 
 (1) Beitragspflichtige Einnahmen sind
 
-1. bei selbständig Tätigen ein Arbeitseinkommen in Höhe der Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Arbeitseinkommens jedoch dieses Arbeitseinkommen, mindestens jedoch monatlich 450 Euro,
+1. bei selbständig Tätigen ein Arbeitseinkommen in Höhe der Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Arbeitseinkommens jedoch dieses Arbeitseinkommen, mindestens jedoch das Zwölffache der am 1. Januar des jeweiligen Kalenderjahres geltenden Geringfügigkeitsgrenze,
 
 2. bei Seelotsen das Arbeitseinkommen,
 
@@ -3467,7 +3461,7 @@ c) 18,9 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschl
 
 # § 167 – Freiwillig Versicherte
 
-Die Mindestbeitragsbemessungsgrundlage beträgt für freiwillig Versicherte monatlich 450 Euro.
+Die Höhe der monatlichen Mindestbeitragsbemessungsgrundlage für freiwillig Versicherte entspricht der am 1. Januar des jeweiligen Kalenderjahres geltenden Geringfügigkeitsgrenze.
 
 # § 168 – Beitragstragung bei Beschäftigten
 
@@ -3481,7 +3475,7 @@ Die Mindestbeitragsbemessungsgrundlage beträgt für freiwillig Versicherte mona
 
 1c. bei Personen, die gegen Arbeitsentgelt in Privathaushalten geringfügig versicherungspflichtig beschäftigt werden, von den Arbeitgebern in Höhe des Betrages, der 5 vom Hundert des der Beschäftigung zugrunde liegenden Arbeitsentgelts entspricht, im Übrigen vom Versicherten,
 
-1d. bei Arbeitnehmern, deren beitragspflichtige Einnahme sich nach § 163 Abs. 10 Satz 1 bestimmt, von den Arbeitgebern in Höhe der Hälfte des Betrages, der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten,
+1d. bei Beschäftigten, deren beitragspflichtige Einnahme sich nach § 163 Absatz 7 bestimmt, von den Beschäftigten in Höhe der Hälfte des Betrages, der sich ergibt, wenn der Beitragssatz auf die nach Maßgabe von § 20 Absatz 2a Satz 6 des Vierten Buches ermittelte beitragspflichtige Einnahme angewendet wird, im Übrigen von den Arbeitgebern,
 
 2. bei behinderten Menschen von den Trägern der Einrichtung oder dem anderen Leistungsanbieter nach § 60 des Neunten Buches, wenn ein Arbeitsentgelt nicht bezogen wird oder das monatliche Arbeitsentgelt 20 vom Hundert der monatlichen Bezugsgröße nicht übersteigt, sowie für den Betrag zwischen dem monatlichen Arbeitsentgelt und 80 vom Hundert der monatlichen Bezugsgröße, wenn das monatliche Arbeitsentgelt 80 vom Hundert der monatlichen Bezugsgröße nicht übersteigt, im Übrigen von den Versicherten und den Trägern der Einrichtung oder dem anderen Leistungsanbieter nach § 60 des Neunten Buches je zur Hälfte,
 
@@ -3529,7 +3523,7 @@ Die Beiträge werden getragen
 
 2. bei Personen, die
 
-a) Krankengeld oder Verletztengeld beziehen, von den Beziehern der Leistung und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen und diese Leistungen nicht in Höhe der Leistungen der Bundesagentur für Arbeit zu zahlen sind, im Übrigen vom Leistungsträger; die Beiträge werden auch dann von den Leistungsträgern getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt,
+a) Krankengeld oder Verletztengeld beziehen, von den Beziehern der Leistung und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen und diese Leistungen nicht in Höhe der Leistungen der Bundesagentur für Arbeit zu zahlen sind, im Übrigen vom Leistungsträger; die Beiträge werden auch dann von den Leistungsträgern getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht übersteigt,
 
 b) Versorgungskrankengeld, Übergangsgeld oder Arbeitslosengeld beziehen, von den Leistungsträgern,
 
@@ -3547,7 +3541,7 @@ von dem privaten Versicherungsunternehmen, wenn der Pflegebedürftige in der soz
 
 cc) von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen anteilig, wenn der Pflegebedürftige Anspruch auf Beihilfe oder Heilfürsorge hat und in der sozialen Pflegeversicherung oder bei einem privaten Versicherungsunternehmen versichert ist; ist ein Träger der Rentenversicherung Festsetzungsstelle für die Beihilfe, gelten die Beiträge insoweit als gezahlt; dies gilt auch im Verhältnis der Rentenversicherungsträger untereinander;
 
-die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt; Doppelbuchstabe cc gilt entsprechend,
+die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht übersteigt; Doppelbuchstabe cc gilt entsprechend,
 
 3. bei Bezug von Vorruhestandsgeld von den Beziehern und den zur Zahlung des Vorruhestandsgeldes Verpflichteten je zur Hälfte,
 
@@ -3923,7 +3917,7 @@ Anrechnungszeiten sowie Zeiten, die für die Anerkennung von Anrechnungszeiten e
 
 # § 194 – Gesonderte Meldung und Hochrechnung
 
-(1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die beitragspflichtigen Einnahmen und bei einer Beschäftigung im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) ab dem 1. Juli 2019 zusätzlich das Arbeitsentgelt ohne Anwendung des § 163 Absatz 10 für abgelaufene Zeiträume frühestens drei Monate vor Rentenbeginn gesondert zu melden. Dies gilt entsprechend bei einem Auskunftsersuchen des Familiengerichts im Versorgungsausgleichsverfahren. Die Aufforderung zur Meldung nach Satz 1 erfolgt elektronisch durch den Träger der Rentenversicherung. Satz 3 gilt nicht für Einzelfälle, in denen ein elektronisches Meldeverfahren nicht wirtschaftlich durchzuführen ist. Die Ausnahmen bestimmt die Deutsche Rentenversicherung Bund in Grundsätzen; diese bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales. Erfolgt eine Meldung nach Satz 1, errechnet der Rentenversicherungsträger bei Anträgen auf Altersrente die voraussichtlichen für die Rentenberechnung maßgeblichen Einnahmen für den verbleibenden Beschäftigungszeitraum bis zum Rentenbeginn für bis zu drei Monate nach den in den letzten zwölf Kalendermonaten gemeldeten beitragspflichtigen Einnahmen und bei Beschäftigungen im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) den gemeldeten Arbeitsentgelten ohne Anwendung des § 163 Absatz 10. Die weitere Meldepflicht nach § 28a des Vierten Buches bleibt unberührt.
+(1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die beitragspflichtigen Einnahmen und bei einer Beschäftigung im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) ab dem 1. Juli 2019 zusätzlich das Arbeitsentgelt ohne Anwendung des § 163 Absatz 7 für abgelaufene Zeiträume frühestens drei Monate vor Rentenbeginn gesondert zu melden. Dies gilt entsprechend bei einem Auskunftsersuchen des Familiengerichts im Versorgungsausgleichsverfahren. Die Aufforderung zur Meldung nach Satz 1 erfolgt elektronisch durch den Träger der Rentenversicherung. Satz 3 gilt nicht für Einzelfälle, in denen ein elektronisches Meldeverfahren nicht wirtschaftlich durchzuführen ist. Die Ausnahmen bestimmt die Deutsche Rentenversicherung Bund in Grundsätzen; diese bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales. Erfolgt eine Meldung nach Satz 1, errechnet der Rentenversicherungsträger bei Anträgen auf Altersrente die voraussichtlichen für die Rentenberechnung maßgeblichen Einnahmen für den verbleibenden Beschäftigungszeitraum bis zum Rentenbeginn für bis zu drei Monate nach den in den letzten zwölf Kalendermonaten gemeldeten beitragspflichtigen Einnahmen und bei Beschäftigungen im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) den gemeldeten Arbeitsentgelten ohne Anwendung des § 163 Absatz 7. Die weitere Meldepflicht nach § 28a des Vierten Buches bleibt unberührt.
 
 (2) Eine gesonderte Meldung nach Absatz 1 Satz 1 und 2 haben auch die Leistungsträger über die beitragspflichtigen Einnahmen von Beziehern von Sozialleistungen, das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle über die beitragspflichtigen Einnahmen von Beziehern von Übergangsgebührnissen und die Pflegekassen sowie die privaten Versicherungsunternehmen über die beitragspflichtigen Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten. Absatz 1 Satz 6 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1 Nr. 2 und nach § 44 Abs. 3 des Elften Buches bleibt unberührt.
 
@@ -8422,7 +8416,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (2) Für den Beitragsanteil des Arbeitgebers gelten die Vorschriften des Dritten Abschnitts des Vierten Buches sowie die Bußgeldvorschriften des § 111 Absatz 1 Nummer 2 bis 4, 8 und Absatz 2 und 4 des Vierten Buches entsprechend.
 
-# § 276b – (weggefallen)
+# § 276b – Übergangsregelung für Beschäftigte in Privathaushalten im Übergangsbereich
+
+§ 134 des Vierten Buches findet nur Anwendung auf Beschäftigte in Privathaushalten (§ 8a des Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches), die sich nicht von der Versicherungspflicht nach § 6 Absatz 1b befreien lassen. Die Beiträge werden von den Arbeitgebern in Höhe der Hälfte des Betrages getragen, der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung zugrundeliegende Arbeitsentgelt angewendet wird, im Übrigen von den Beschäftigten.
 
 # § 276c – (weggefallen)
 

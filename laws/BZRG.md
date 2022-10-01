@@ -57,7 +57,9 @@ hat.
 
 6. die rechtliche Bezeichnung der Tat, deren die verurteilte Person schuldig gesprochen worden ist, unter Angabe der angewendeten Strafvorschriften,
 
-7. die verhängten Strafen, die nach § 59 des Strafgesetzbuchs vorbehaltene Strafe sowie alle kraft Gesetzes eintretenden oder in der Entscheidung neben einer Strafe oder neben Freisprechung oder selbständig angeordneten oder vorbehaltenen Maßnahmen (§ 11 Abs. 1 Nr. 8 des Strafgesetzbuchs) und Nebenfolgen.
+7. die verhängten Strafen, die nach § 59 des Strafgesetzbuchs vorbehaltene Strafe sowie alle kraft Gesetzes eintretenden oder in der Entscheidung neben einer Strafe oder neben Freisprechung oder selbständig angeordneten oder vorbehaltenen Maßnahmen (§ 11 Abs. 1 Nr. 8 des Strafgesetzbuchs) und Nebenfolgen,
+
+8. bei Drittstaatsangehörigen im Sinne des Artikels 3 Nummer 7 der Verordnung (EU) 2019/816 des Europäischen Parlaments und des Rates vom 17. April 2019 zur Einrichtung eines zentralisierten Systems für die Ermittlung der Mitgliedstaaten, in denen Informationen zu Verurteilungen von Drittstaatsangehörigen und Staatenlosen (ECRIS-TCN) vorliegen, zur Ergänzung des Europäischen Strafregisterinformationssystems und zur Änderung der Verordnung (EU) 2018/1726 (ABl. L 135 vom 22.5.2019, S. 1), die durch die Verordnung (EU) 2019/818 (ABl. L 135 vom 22.5.2019, S. 85) geändert worden ist, oder Personen, die neben einer Unionsstaatsangehörigkeit auch die Staatsangehörigkeit eines Drittstaats besitzen, die daktyloskopische Nummer, wenn sie für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 erforderlich ist.
 
 (2) Die Anordnung von Erziehungsmaßregeln und Zuchtmitteln sowie von Nebenstrafen und Nebenfolgen, auf die bei Anwendung von Jugendstrafrecht erkannt worden ist, wird in das Register eingetragen, wenn sie mit einem Schuldspruch nach § 27 des Jugendgerichtsgesetzes, einer Verurteilung zu Jugendstrafe oder der Anordnung einer Maßregel der Besserung und Sicherung verbunden ist.
 
@@ -295,7 +297,7 @@ Die Einrichtung eines automatisierten Anfrage- und Auskunftsverfahrens für die 
 
 7. das Aktenzeichen, außer bei Führungszeugnissen nach § 30 Absatz 1, den §§ 30a und 30b.
 
-(2) Die Protokolldaten nach Absatz 1 dürfen nur für Mitteilungen über Berichtigungen nach § 20, zu internen Prüfzwecken, zur Datenschutzkontrolle und zur Auskunft aus Protokolldaten entsprechend Absatz 3 verarbeitet werden. Sie sind durch geeignete Vorkehrungen gegen Missbrauch zu schützen. Protokolldaten sowie Nachweise nach § 30c Absatz 3 sind nach einem Jahr zu löschen, es sei denn, sie werden für Zwecke nach Satz 1 benötigt. Danach sind sie unverzüglich zu löschen.
+(2) Die Protokolldaten nach Absatz 1 dürfen nur für Mitteilungen über Berichtigungen nach § 20, zu internen Prüfzwecken, zur Datenschutzkontrolle und zur Auskunft aus Protokolldaten entsprechend Absatz 3 verarbeitet werden. Sie sind durch geeignete Vorkehrungen gegen Missbrauch zu schützen. Protokolldaten, soweit sie sich nicht auf Datenverarbeitungsvorgänge nach Artikel 31 der Verordnung (EU) 2019/816 beziehen, sowie Nachweise nach § 30c Absatz 3 sind nach einem Jahr zu löschen, es sei denn, sie werden für Zwecke nach Satz 1 benötigt. Danach sind sie unverzüglich zu löschen.
 
 (3) Soweit sich das Auskunftsrecht der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 auf Auskünfte bezieht, die einer Stelle nach den §§ 31 und 41 erteilt wurden, entscheidet die Registerbehörde über die Beschränkung des Auskunftsrechts nach Maßgabe des Bundesdatenschutzgesetzes im Einvernehmen mit dieser Stelle. Für die Antragsberechtigung und das Verfahren gilt § 30 entsprechend. Wird mit der Protokolldatenauskunft eine Selbstauskunft nach § 42 beantragt, gilt § 42 Satz 2 bis 5 entsprechend.
 
@@ -473,7 +475,7 @@ diese Entscheidungen nicht widerrufen worden sind und im Register keine weitere 
 
 9. Verurteilungen, bei denen die Wiederaufnahme des gesamten Verfahrens vermerkt ist; ist die Wiederaufnahme nur eines Teils des Verfahrens angeordnet, so ist im Führungszeugnis darauf hinzuweisen,
 
-10. abweichende Personendaten gemäß § 5 Abs. 1 Nr. 1,
+10. abweichende Personendaten gemäß § 5 Abs. 1 Nr. 1 und die Angabe nach § 5 Absatz 1 Nummer 8,
 
 11. Eintragungen nach den §§ 10 und 11,
 
@@ -623,7 +625,7 @@ Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere
 
 6. den Einbürgerungsbehörden für Einbürgerungsverfahren,
 
-7. den Ausländerbehörden und dem Bundesamt für Migration und Flüchtlinge, wenn sich die Auskunft auf einen Ausländer bezieht,
+7. den Ausländerbehörden, den mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden und dem Bundesamt für Migration und Flüchtlinge, wenn sich die Auskunft auf einen Ausländer bezieht,
 
 8. den Gnadenbehörden für Gnadensachen,
 
@@ -639,7 +641,7 @@ Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere
 
 14. der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz.
 
-(2) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen die betroffene Person Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 184i bis 184l, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
+(2) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen die betroffene Person Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 184i bis 184l, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs. Die Angabe nach § 5 Absatz 1 Nummer 8 darf nicht nach Absatz 1 mitgeteilt werden.
 
 (3) Die Auskunft nach den Absätzen 1 und 2 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
 
@@ -929,6 +931,8 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (5) Eine nach § 54 Absatz 3 Satz 1 Nummer 2 eingetragene Bedingung ist bei der Ausführung von Ersuchen nach den Absätzen 1 und 2 zu beachten. Ist im Register zu einer nach § 54 eingetragenen Verurteilung eines anderen Mitgliedstaates die Tilgung der Verurteilung im Urteilsmitgliedstaat eingetragen, unterbleibt eine Auskunft aus dem Register über diese Verurteilung.
 
+(6) Die Registerbehörde erteilt Eurojust die Zustimmung gemäß Artikel 17 Absatz 3 der Verordnung (EU) 2019/816, wenn ein Ersuchen des anfragenden Drittstaates oder einer internationalen Organisation nach den Absätzen 1 bis 5 voraussichtlich beantwortet werden würde.
+
 # § 57a – Austausch von Registerinformationen mit Mitgliedstaaten der Europäischen Union
 
 (1) Strafnachrichten über Personen, die die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen, werden erstellt und der Registerbehörde des Mitgliedstaates übermittelt, dessen Staatsangehörigkeit die verurteilte Person besitzt. Besitzt die Person die Staatsangehörigkeit mehrerer Mitgliedstaaten, ist jedem betroffenen Mitgliedstaat eine Strafnachricht zu übermitteln. Die Sätze 1 und 2 sind auch anzuwenden, wenn die verurteilte Person zugleich die deutsche Staatsangehörigkeit besitzt. § 57 Absatz 3 Satz 3 gilt entsprechend.
@@ -943,7 +947,7 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (4) Ersuchen eines Mitgliedstaates der Europäischen Union um Erteilung einer Auskunft aus dem Register für nichtstrafrechtliche Zwecke, deren Art oder Umfang in diesem Gesetz nicht vorgesehen ist, erledigt die Registerbehörde, soweit die Erteilung nach Maßgabe von Rechtsakten der Europäischen Union geboten ist, es sei denn, dass eine besondere fachliche Bewertung zur Beschränkung der Auskunft erforderlich ist. Ist eine solche Bewertung erforderlich, erhält die für die internationale Amtshilfe zuständige Behörde eine Auskunft aus dem Register. § 57 Absatz 1, 2 und 4 sowie § 8e des Verwaltungsverfahrensgesetzes gelten entsprechend.
 
-(5) Zur Aufnahme von deutschen Registerinformationen in das Führungszeugnis eines anderen Mitgliedstaates ist diesem auf sein Ersuchen ein Führungszeugnis für Private oder zur Vorlage bei einer Behörde nach § 30 über eine Person, die die deutsche Staatsangehörigkeit besitzt und im ersuchenden Mitgliedstaat wohnt, zu erteilen. Betrifft das Ersuchen eine Auskunft über die sie betreffenden Eintragungen in das Strafregister einer Person, so erteilt die Registerbehörde eine unbeschränkte Auskunft. Aus dem Ersuchen muss hervorgehen, dass ein entsprechender Antrag der Person im ersuchenden Mitgliedstaat vorliegt. Ein Führungszeugnis nach § 30a wird zu dem in Satz 1 genannten Zweck erteilt, wenn die Voraussetzungen nach § 30a vorliegen.
+(5) Zur Aufnahme von deutschen Registerinformationen in das Führungszeugnis eines anderen Mitgliedstaates ist diesem auf sein Ersuchen ein Führungszeugnis für Private oder zur Vorlage bei einer Behörde nach § 30 über eine Person zu erteilen. Betrifft das Ersuchen eine Auskunft über die sie betreffenden Eintragungen in das Strafregister einer Person, so erteilt die Registerbehörde eine unbeschränkte Auskunft. Aus dem Ersuchen muss hervorgehen, dass ein entsprechender Antrag der Person im ersuchenden Mitgliedstaat vorliegt. Ein Führungszeugnis nach § 30a wird zu dem in Satz 1 genannten Zweck erteilt, wenn die Voraussetzungen nach § 30a vorliegen.
 
 (6) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle.
 
@@ -952,6 +956,32 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 # § 58 – Berücksichtigung von Verurteilungen
 
 Eine strafrechtliche Verurteilung gilt, auch wenn sie nicht nach § 54 in das Register eingetragen ist, als tilgungsreif, sobald eine ihr vergleichbare Verurteilung im Geltungsbereich dieses Gesetzes tilgungsreif wäre. § 53 gilt auch zugunsten der außerhalb des Geltungsbereichs dieses Gesetzes Verurteilten.
+
+# § 58a – Ersuchen um Übermittlung personenbezogener Daten von ECRIS-TCN
+
+Die Registerbehörde darf das zentralisierte System zur Ermittlung der Mitgliedstaaten, in denen Informationen zu Verurteilungen von Drittstaatsangehörigen und Staatenlosen vorliegen (ECRIS-TCN), um Übermittlung der erforderlichen personenbezogenen Daten ersuchen und die empfangenen personenbezogenen Daten verarbeiten, soweit dies neben den Zwecken der Verordnung (EU) 2019/816 erforderlich ist
+
+1. für die Erteilung einer Auskunft aus dem Register für nichtstrafrechtliche Zwecke oder
+
+2. für die Erteilung eines Führungszeugnisses.
+
+# § 58b – Austausch von personenbezogenen Daten zwischen der Registerbehörde und dem Bundeskriminalamt
+
+(1) Die Registerbehörde darf das Bundeskriminalamt zu Zwecken der Verordnung (EU) 2019/816 um Übermittlung der nach § 81b oder § 163b Absatz 1 Satz 3 der Strafprozessordnung aufgenommenen Fingerabdrücke ersuchen.
+
+(2) Die Registerbehörde darf die auf Ersuchen nach Absatz 1 übermittelten Fingerabdrücke erheben, speichern und verwenden, soweit dies zu Zwecken der Verordnung (EU) 2019/816 erforderlich ist. Ist eine Verwendung zu diesen Zwecken nicht mehr erforderlich, so sind die Fingerabdrücke unverzüglich zu löschen.
+
+(3) Werden der Registerbehörde bei Ersuchen nach § 57a Absatz 2 bis 4 infolge eines Treffers in ECRIS-TCN Fingerabdrücke der betroffenen Person übermittelt, darf die Registerbehörde dem Bundeskriminalamt die erforderlichen personenbezogenen Daten einschließlich der Fingerabdrücke übermitteln und um einen Abgleich der Identität ersuchen. Dies gilt auch zur Prüfung von Mehrfachidentitäten nach Artikel 29 der Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816 (ABl. L 135 vom 22.5.2019, S. 85; L 10 vom 15.1.2020, S. 5).
+
+(4) Das Bundeskriminalamt darf
+
+1. auf Ersuchen nach Absatz 1 zu Zwecken der Verordnung (EU) 2019/816 die nach § 81b oder § 163b Absatz 1 Satz 3 der Strafprozessordnung aufgenommenen Fingerabdrücke an die Registerbehörde übermitteln,
+
+2. auf Ersuchen nach Absatz 3 Amtshilfe bei der Auswertung der in Absatz 3 genannten Daten zur Identitätsfeststellung leisten und das Ergebnis der Auswertung der Registerbehörde übermitteln.
+
+# § 58c – Ablauf der Speicherfrist in ECRIS-TCN
+
+Die Speicherfrist nach Artikel 8 der Verordnung (EU) 2019/816 endet mit dem Eintritt der Tilgungsreife.
 
 # § 59 – Führung des Erziehungsregisters
 

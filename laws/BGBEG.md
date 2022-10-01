@@ -1275,125 +1275,19 @@ b) Namen und Anschriften der Mieter und Vermieter.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-# § 1 – Moratorium
+# § 1 – (weggefallen)
 
-(1) Ein Verbraucher hat das Recht, Leistungen zur Erfüllung eines Anspruchs, der im Zusammenhang mit einem Verbrauchervertrag steht, der ein Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen wurde, bis zum 30. Juni 2020 zu verweigern, wenn dem Verbraucher infolge von Umständen, die auf die Ausbreitung der Infektionen mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) zurückzuführen sind, die Erbringung der Leistung ohne Gefährdung seines angemessenen Lebensunterhalts oder des angemessenen Lebensunterhalts seiner unterhaltsberechtigten Angehörigen nicht möglich wäre. Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind solche, die zur Eindeckung mit Leistungen der angemessenen Daseinsvorsorge erforderlich sind.
+# § 2 – (weggefallen)
 
-(2) Ein Kleinstunternehmen im Sinne der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36) hat das Recht, Leistungen zur Erfüllung eines Anspruchs, der im Zusammenhang mit einem Vertrag steht, der ein Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen wurde, bis zum 30. Juni 2020 zu verweigern, wenn infolge von Umständen, die auf die COVID-19-Pandemie zurückzuführen sind,
+# § 3 – (weggefallen)
 
-1. das Unternehmen die Leistung nicht erbringen kann oder
+# § 4 – (weggefallen)
 
-2. dem Unternehmen die Erbringung der Leistung ohne Gefährdung der wirtschaftlichen Grundlagen seines Erwerbsbetriebs nicht möglich wäre.
+# § 5 – (weggefallen)
 
-Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind solche, die zur Eindeckung mit Leistungen zur angemessenen Fortsetzung seines Erwerbsbetriebs erforderlich sind.
+# § 6 – (weggefallen)
 
-(3) Absatz 1 gilt nicht, wenn die Ausübung des Leistungsverweigerungsrechts für den Gläubiger seinerseits unzumutbar ist, da die Nichterbringung der Leistung die wirtschaftliche Grundlage seines Erwerbsbetriebs gefährden würde. Absatz 2 gilt nicht, wenn die Ausübung des Leistungsverweigerungsrechts für den Gläubiger unzumutbar ist, da die Nichterbringung der Leistung zu einer Gefährdung seines angemessenen Lebensunterhalts oder des angemessenen Lebensunterhalts seiner unterhaltsberechtigten Angehörigen oder der wirtschaftlichen Grundlagen seines Erwerbsbetriebs führen würde. Wenn das Leistungsverweigerungsrecht nach Satz 1 oder 2 ausgeschlossen ist, steht dem Schuldner das Recht zur Kündigung zu.
-
-(4) Die Absätze 1 und 2 gelten ferner nicht im Zusammenhang
-
-1. mit Miet- und Pachtverträgen nach § 2, mit Darlehensverträgen sowie
-
-2. mit arbeitsrechtlichen Ansprüchen.
-
-(5) Von den Absätzen 1 und 2 kann nicht zum Nachteil des Schuldners abgewichen werden.
-
-# § 2 – Beschränkung der Kündigung von Miet- und Pachtverhältnissen
-
-(1) Der Vermieter kann ein Mietverhältnis über Grundstücke oder über Räume nicht allein aus dem Grund kündigen, dass der Mieter im Zeitraum vom 1. April 2020 bis 30. Juni 2020 trotz Fälligkeit die Miete nicht leistet, sofern die Nichtleistung auf den Auswirkungen der COVID-19-Pandemie beruht. Der Zusammenhang zwischen COVID-19-Pandemie und Nichtleistung ist glaubhaft zu machen. Sonstige Kündigungsrechte bleiben unberührt.
-
-(2) Von Absatz 1 kann nicht zum Nachteil des Mieters abgewichen werden.
-
-(3) Die Absätze 1 und 2 sind auf Pachtverhältnisse entsprechend anzuwenden.
-
-(4) Die Absätze 1 bis 3 sind nur bis zum 30. Juni 2022 anzuwenden.
-
-# § 3 – Regelungen zum Darlehensrecht
-
-(1) Für Verbraucherdarlehensverträge, die vor dem 15. März 2020 abgeschlossen wurden, gilt, dass Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet werden, wenn der Verbraucher aufgrund der durch Ausbreitung der COVID-19-Pandemie hervorgerufenen außergewöhnlichen Verhältnisse Einnahmeausfälle hat, die dazu führen, dass ihm die Erbringung der geschuldeten Leistung nicht zumutbar ist. Nicht zumutbar ist ihm die Erbringung der Leistung insbesondere dann, wenn sein angemessener Lebensunterhalt oder der angemessene Lebensunterhalt seiner Unterhaltsberechtigten gefährdet ist. Der Verbraucher ist berechtigt, in dem in Satz 1 genannten Zeitraum seine vertraglichen Zahlungen zu den ursprünglich vereinbarten Leistungsterminen weiter zu erbringen. Soweit er die Zahlungen vertragsgemäß weiter leistet, gilt die in Satz 1 geregelte Stundung als nicht erfolgt.
-
-(2) Die Vertragsparteien können von Absatz 1 abweichende Vereinbarungen, insbesondere über mögliche Teilleistungen, Zins- und Tilgungsanpassungen oder Umschuldungen treffen.
-
-(3) Kündigungen des Darlehensgebers wegen Zahlungsverzugs, wegen wesentlicher Verschlechterung der Vermögensverhältnisse des Verbrauchers oder der Werthaltigkeit einer für das Darlehen gestellten Sicherheit sind im Fall des Absatzes 1 bis zum Ablauf der Stundung ausgeschlossen. Hiervon darf nicht zu Lasten des Verbrauchers abgewichen werden.
-
-(4) Der Darlehensgeber soll dem Verbraucher ein Gespräch über die Möglichkeit einer einverständlichen Regelung und über mögliche Unterstützungsmaßnahmen anbieten. Für dieses können auch Fernkommunikationsmittel genutzt werden.
-
-(5) Kommt eine einverständliche Regelung für den Zeitraum nach dem 30. Juni 2020 nicht zustande, verlängert sich die Vertragslaufzeit um drei Monate. Die jeweilige Fälligkeit der vertraglichen Leistungen wird um diese Frist hinausgeschoben. Der Darlehensgeber stellt dem Verbraucher eine Abschrift des Vertrags zur Verfügung, in der die vereinbarten Vertragsänderungen oder die sich aus Satz 1 sowie aus Absatz 1 Satz 1 ergebenden Vertragsänderungen berücksichtigt sind.
-
-(6) Die Absätze 1 bis 5 gelten nicht, wenn dem Darlehensgeber die Stundung oder der Ausschluss der Kündigung unter Berücksichtigung aller Umstände des Einzelfalls einschließlich der durch die COVID-19-Pandemie verursachten Veränderungen der allgemeinen Lebensumstände unzumutbar ist.
-
-(7) Die Absätze 1 bis 6 gelten entsprechend für den Ausgleich und den Rückgriff unter Gesamtschuldnern nach § 426 des Bürgerlichen Gesetzbuchs.
-
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates den personellen Anwendungsbereich der Absätze 1 bis 7 zu ändern und insbesondere Kleinstunternehmen im Sinne von Artikel 2 Absatz 3 des Anhangs der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen in den Anwendungsbereich einzubeziehen.
-
-# § 4 – Verordnungsermächtigung
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-
-1. die Dauer des Leistungsverweigerungsrechts nach § 1 bis längstens zum 30. September 2020 zu verlängern,
-
-2. die in § 2 Absatz 1 und 3 enthaltene Kündigungsbeschränkung auf Zahlungsrückstände zu erstrecken, die im Zeitraum vom 1. Juli 2020 bis längstens zum 30. September 2020 entstanden sind,
-
-3. den in § 3 Absatz 1 genannten Zeitraum bis zum 30. September 2020 und die in § 3 Absatz 5 geregelte Verlängerung der Vertragslaufzeit auf bis zu zwölf Monate zu erstrecken,
-
-wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche Tätigkeit einer Vielzahl von Unternehmen oder die Erwerbstätigkeit einer Vielzahl von Menschen durch die COVID-19-Pandemie weiterhin in erheblichem Maße beeinträchtigt bleibt.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates die in Absatz 1 genannten Fristen über den 30. September 2020 hinaus zu verlängern, wenn die Beeinträchtigungen auch nach Inkrafttreten der Rechtsverordnung nach Absatz 1 fortbestehen.
-
-# § 5 – Gutschein für Freizeitveranstaltungen und Freizeiteinrichtungen
-
-(1) Wenn eine Musik-, Kultur-, Sport- oder sonstige Freizeitveranstaltung aufgrund der COVID-19-Pandemie nicht stattfinden konnte oder kann, ist der Veranstalter berechtigt, dem Inhaber einer vor dem 8. März 2020 erworbenen Eintrittskarte oder sonstigen Teilnahmeberechtigung anstelle einer Erstattung des Eintrittspreises oder sonstigen Entgelts einen Gutschein zu übergeben. Umfasst eine solche Eintrittskarte oder sonstige Berechtigung die Teilnahme an mehreren Freizeitveranstaltungen und konnte oder kann nur ein Teil dieser Veranstaltungen stattfinden, ist der Veranstalter berechtigt, dem Inhaber einen Gutschein in Höhe des Wertes des nicht genutzten Teils zu übergeben.
-
-(2) Soweit eine Musik-, Kultur-, Sport- oder sonstige Freizeiteinrichtung aufgrund der COVID-19-Pandemie zu schließen war oder ist, ist der Betreiber berechtigt, dem Inhaber einer vor dem 8. März 2020 erworbenen Nutzungsberechtigung anstelle einer Erstattung des Entgelts einen Gutschein zu übergeben.
-
-(3) Der Wert des Gutscheins muss den gesamten Eintrittspreis oder das gesamte sonstige Entgelt einschließlich etwaiger Vorverkaufsgebühren umfassen. Für die Ausstellung und Übersendung des Gutscheins dürfen keine Kosten in Rechnung gestellt werden.
-
-(4) Aus dem Gutschein muss sich ergeben,
-
-1. dass dieser wegen der COVID-19-Pandemie ausgestellt wurde und
-
-2. dass der Inhaber des Gutscheins die Auszahlung des Wertes des Gutscheins unter einer der in Absatz 5 genannten Voraussetzungen verlangen kann.
-
-(5) Der Inhaber eines nach den Absätzen 1 oder 2 ausgestellten Gutscheins kann von dem Veranstalter oder Betreiber die Auszahlung des Wertes des Gutscheins verlangen, wenn
-
-1. der Verweis auf einen Gutschein für ihn angesichts seiner persönlichen Lebensumstände unzumutbar ist oder
-
-2. er den Gutschein bis zum 31. Dezember 2021 nicht eingelöst hat.
-
-# § 6 – Reisegutschein; Verordnungsermächtigung
-
-(1) Tritt der Reisende oder der Reiseveranstalter wegen der COVID-19-Pandemie nach § 651h Absatz 1, 3 und 4 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs von einem Pauschalreisevertrag zurück, der vor dem 8. März 2020 geschlossen wurde, so kann der Reiseveranstalter dem Reisenden statt der Rückerstattung des Reisepreises einen Reisegutschein anbieten. Diese Möglichkeit hat der Reiseveranstalter auch dann, wenn der Reisende oder der Reiseveranstalter den Rücktritt unter den Voraussetzungen des Satzes 1 vor dem Tag erklärt hat, an dem diese Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1643) in Kraft getreten ist, und der Reiseveranstalter den Reisepreis nicht bereits zurückgezahlt hat. Der Reisende hat die Wahl, ob er das Angebot des Reiseveranstalters annimmt oder sein Recht auf Rückerstattung des Reisepreises ausübt. Auf dieses Wahlrecht hat der Reiseveranstalter ihn bei seinem Angebot hinzuweisen. Hat der Reisende schon vor dem Tag, an dem diese Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1643) in Kraft getreten ist, ein Angebot des Reiseveranstalters angenommen, das unter den Voraussetzungen des Satzes 1 unterbreitet wurde, so kann er von dem Reiseveranstalter verlangen, dass der Gutschein an die Vorgaben der Absätze 2 und 3 angepasst oder in einen Gutschein umgetauscht wird, der den Vorgaben der Absätze 2 und 3 entspricht.
-
-(2) Der Wert des Reisegutscheins muss den erhaltenen Vorauszahlungen entsprechen. Für die Ausstellung, Übermittlung und Einlösung des Gutscheins dürfen dem Reisenden keine Kosten in Rechnung gestellt werden.
-
-(3) Aus dem Reisegutschein muss sich neben dessen Wert ergeben,
-
-1. dass dieser wegen der COVID-19-Pandemie ausgestellt wurde,
-
-2. wie lange er gültig ist,
-
-3. dass der Reisende die Erstattung der geleisteten Vorauszahlungen unter den in Absatz 5 genannten Voraussetzungen verlangen kann sowie
-
-4. dass der Reisende im Fall der Insolvenz des Reiseveranstalters gemäß Absatz 6 abgesichert ist und etwaige zusätzliche Leistungsversprechen des Reiseveranstalters von der Insolvenzsicherung nicht umfasst sind.
-
-(4) Der Reisegutschein verliert spätestens am 31. Dezember 2021 seine Gültigkeit.
-
-(5) Der Reiseveranstalter hat dem Reisenden die geleisteten Vorauszahlungen unverzüglich, spätestens innerhalb von 14 Tagen, zu erstatten, wenn dieser den Gutschein innerhalb der Gültigkeitsdauer nicht eingelöst hat.
-
-(6) Wird der Reiseveranstalter zahlungsunfähig, wird über sein Vermögen das Insolvenzverfahren eröffnet oder wird ein Eröffnungsantrag mangels Masse abgewiesen, so kann der Reisende die unverzügliche Erstattung der geleisteten Vorauszahlungen von dem im Pauschalreisevertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3 genannten Kundengeldabsicherer verlangen; insoweit findet die Vorschrift des § 651r des Bürgerlichen Gesetzbuchs Anwendung. Hat der Kundengeldabsicherer seine Haftung für die von ihm in einem Geschäftsjahr insgesamt zu erstattenden Beträge auf 110 Millionen Euro begrenzt und den Anspruch des Reisenden nach § 651r Absatz 3 Satz 4 des Bürgerlichen Gesetzbuchs deshalb nur anteilig befriedigt, so kann der Reisende auf der Grundlage des Reisegutscheins von der Bundesrepublik Deutschland die restliche Erstattung der Vorauszahlungen verlangen. Der Reisende hat die Höhe der bereits erhaltenen Erstattungsleistung nachzuweisen. Soweit die Staatskasse den Reisenden befriedigt, gehen Ansprüche des Reisenden gegen den Reiseveranstalter und den Kundengeldabsicherer auf die Staatskasse über. Im Übrigen kann die Staatskasse die Erstattung davon abhängig machen, dass der Reisende Erstattungsansprüche gegen Dritte, die nicht von Satz 4 erfasst werden, an die Staatskasse abtritt.
-
-(7) Im Hinblick auf die ergänzende staatliche Absicherung des Gutscheins nach Absatz 6 Satz 2 kann die Bundesrepublik Deutschland von dem Reiseveranstalter eine Garantieprämie erheben.
-
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Erstattungsverfahrens und der Erhebung der Garantieprämien zu regeln.
-
-(9) Zuständige Stelle für das Erstattungsverfahren nach Absatz 6 Satz 2 bis 5 ist das Bundesministerium der Justiz und für Verbraucherschutz. Das Bundesministerium der Justiz und für Verbraucherschutz kann die Aufgabe dem Bundesamt für Justiz übertragen. Das Bundesministerium der Justiz und für Verbraucherschutz oder das Bundesamt für Justiz kann sich bei der Erfüllung seiner Aufgaben geeigneter Dritter bedienen. Der zuständigen Stelle für das Erstattungsverfahren wird zur Erfüllung der Aufgaben außerdem die Wahrnehmung des Zahlungsverkehrs als für Zahlungen zuständige Stelle gemäß § 70 der Bundeshaushaltsordnung übertragen. Falls die zuständige Stelle sich zur Erfüllung der Aufgaben eines Dritten bedient, kann sie auch die Wahrnehmung des Zahlungsverkehrs als eine für Zahlungen zuständige Stelle gemäß § 70 der Bundeshaushaltsordnung an den Dritten übertragen. Die notwendigen Bestimmungen der Bundeshaushaltsordnung und die dazu erlassenen Ausführungsbestimmungen sind insoweit entsprechend anzuwenden. Das Nähere wird im Einvernehmen mit dem Bundesministerium der Finanzen bestimmt.
-
-(10) Der Reiseveranstalter kann sich gegenüber dem Reisevermittler nur darauf berufen, dass der vermittelte Pauschalreisevertrag nicht mehr besteht, wenn er den Wert des Reisegutscheins auszuzahlen hat.
-
-# § 7 – Störung der Geschäftsgrundlage von Miet-  und Pachtverträgen
-
-(1) Sind vermietete Grundstücke oder vermietete Räume, die keine Wohnräume sind, infolge staatlicher Maßnahmen zur Bekämpfung der COVID-19-Pandemie für den Betrieb des Mieters nicht oder nur mit erheblicher Einschränkung verwendbar, so wird vermutet, dass sich insofern ein Umstand im Sinne des § 313 Absatz 1 des Bürgerlichen Gesetzbuchs, der zur Grundlage des Mietvertrags geworden ist, nach Vertragsschluss schwerwiegend verändert hat.
-
-(2) Absatz 1 ist auf Pachtverträge entsprechend anzuwenden.
+# § 7 – (weggefallen)
 
 # § 1 – Vorvertragliche und vertragliche Pflichtangaben
 

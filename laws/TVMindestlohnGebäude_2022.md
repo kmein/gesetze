@@ -1,5 +1,5 @@
-% Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
-% Ausfertigungsdatum: 24.03.2021
+% Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022
+% Ausfertigungsdatum: 07.09.2022
  
 # § 1 – Geltungsbereich
 
@@ -9,20 +9,19 @@ Das Gebiet der Bundesrepublik Deutschland.
 
 2. Betrieblicher Geltungsbereich
 
-Betriebe, die unter den betrieblichen Geltungsbereich des Rahmentarifvertrags für die gewerblichen Beschäftigten in der Gebäudereinigung (RTV Gebäudereinigung) in der jeweils geltenden Fassung (Anhang) fallen.
+Betriebe, die unter den betrieblichen Geltungsbereich des Rahmentarifvertrags für die gewerblichen Beschäftigten in der Gebäudereinigung (RTV Gebäudereinigung)<span id="FnR.F823245_01"></span><a href="#F823245_01" class="FnR">1</a></sup> in der jeweils geltenden Fassung fallen.
 
 3. Persönlicher Geltungsbereich
 
-Gewerbliche Arbeitnehmer und Arbeitnehmerinnen, die eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung – (SGB VI) versicherungspflichtige Tätigkeit ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (SGB IV) eine geringfügige Beschäftigung ausüben.
+Gewerbliche Arbeitnehmer, die eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung – (SGB VI) versicherungspflichtige Tätigkeit ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (SGB IV) eine geringfügige Beschäftigung ausüben.
 
 # § 2 – Mindestlöhne
 
 1. Die Mindestlöhne betragen bundeseinheitlich
 
-| Lohngruppen | ab 1. Januar 2021 | ab 1. Januar 2022 | ab 1. Januar 2023 |
-|:-----------:|:-----------------:|:-----------------:|:-----------------:|
-|      1      |      11,11 €      |      11,55 €      |      12,00 €      |
-|      6      |      14,45 €      |      14,81 €      |      15,20 €      |
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Lohngruppen</th><th style="text-align: center;">ab<br />
+1. Oktober 2022</th><th style="text-align: center;">ab<br />
+1. Januar 2024</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1</td><td style="text-align: center;">13,00 Euro</td><td style="text-align: center;">13,50 Euro</td></tr><tr class="even"><td style="text-align: center;">6</td><td style="text-align: center;">16,20 Euro</td><td style="text-align: center;">16,70 Euro</td></tr></tbody></table>
 
 Zu den Lohngruppen 1 und 6 gehören folgende Tätigkeiten:
 
@@ -32,7 +31,7 @@ Innen- und Unterhaltsreinigungsarbeiten, insbesondere Reinigung, pflegende und s
 
 Lohngruppe 6
 
-Glas- und Fassadenreinigungsarbeiten, insbesondere Reinigung, pflegende und schützende Behandlung von Glasflächen (mit Ausnahme der Innenraumglasflächen gemäß Lohngruppe 1) und Außenbauteilen an Bauwerken aller Art und Verkehrsmitteln wie z. B. Bussen, Bahnen, Flugzeugen und Schiffen (mit Ausnahme der Reinigung von Autos in Autowaschanlagen und Autohäusern); Reinigung und Pflege von Verkehrsanlagen (z. B. Verkehrsampeln, Mautanlagen) und Verkehrseinrichtungen (z. B. Verkehrsschilder) sowie von Außenbeleuchtungsanlagen; Gebäudereiniger-Gesellinnen und Gesellen, die nach Inkrafttreten des Rahmentarifvertrages, gültig ab 1. November 2019, neu eingestellt werden.
+Glas- und Fassadenreinigungsarbeiten, insbesondere Reinigung, pflegende und schützende Behandlung von Glasflächen (mit Ausnahme der Innenraumglasflächen gemäß Lohngruppe 1) und Außenbauteilen an Bauwerken aller Art und Verkehrsmitteln wie z. B. Bussen, Bahnen, Flugzeugen und Schiffen (mit Ausnahme der Reinigung von Autos in Autowaschanlagen und Autohäusern); Reinigung und Pflege von Verkehrsanlagen (z. B. Verkehrsampeln, Mautanlagen) und Verkehrseinrichtungen (z. B. Verkehrsschilder) sowie von Außenbeleuchtungsanlagen; Gebäudereiniger-Gesellen, die nach Inkrafttreten des Rahmentarifvertrages, gültig ab 1. November 2019 neu eingestellt werden.
 
 2. Der Anspruch auf den Mindestlohn der Lohngruppe 1 steht auch den Arbeitnehmern mindestens zu, die gemäß des Rahmentarifvertrages Gebäudereinigung in der jeweils gültigen Fassung aufgrund ihrer Tätigkeiten in die Lohngruppen 2, 3 oder 4, der Anspruch auf den Mindestlohn der Lohngruppe 6 auch denjenigen Arbeitnehmern, die gemäß Rahmentarifvertrag Gebäudereinigung in der jeweils gültigen Fassung aufgrund ihrer Tätigkeiten in die Lohngruppen 7 oder höher, einzugruppieren sind. Höhere Lohnansprüche aufgrund anderer Tarifverträge, betrieblicher oder einzelvertraglicher Vereinbarungen bleiben im Übrigen unberührt.
 
@@ -52,7 +51,11 @@ Stundenlohn x Wochenarbeitszeit : 5 x 261 : 12.
 
 3. In der monatlichen Lohnabrechnung ist die gleichbleibende wöchentliche Arbeitszeit gemäß Nummer 1 gesondert auszuweisen. Ein Ausweis in der Lohnabrechnung ist auch in den Fällen vorzunehmen, in denen die individuelle Arbeitszeit nach Nummer 1 ausnahmsweise überschritten wird.
 
-# Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 31. Oktober 2019 (RTV Gebäudereinigung), in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. April 2021 geltenden Fassung
+# Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 31. Oktober 2019 (RTV Gebäudereinigung), in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. Oktober 2022 geltenden Fassung
+
+(Fundstelle: BAnz AT 22.09.2022 V1)
+
+ 
 
 \[…\]
 
@@ -74,7 +77,7 @@ Alle Betriebe, die folgende, der Gebäudereinigung zuzurechnenden Tätigkeiten a
 
 7. Durchführung von Desinfektionsmaßnahmen sowie von Arbeiten der Raumhygiene.
 
-Die Betriebe fallen, soweit von ihnen oder in ihnen Gebäudereinigungsleistungen überwiegend erbracht werden, als Ganzes unter diesen Tarifvertrag. Betriebe im Sinne dieses Tarifvertrages sind auch selbstständige Betriebsabteilungen. Als selbstständige Betriebsabteilung gilt auch eine Gesamtheit von Arbeitnehmern eines nicht von den Nummern 1 bis 7 erfassten Betriebes, die außerhalb ihres Betriebes die dort genannten Tätigkeiten ausführt.
+Die Betriebe fallen, soweit von ihnen oder in ihnen Gebäudereinigungsleistungen überwiegend erbracht werden, als Ganzes unter diesen Tarifvertrag. Betriebe im Sinne dieses Tarifvertrages sind auch selbständige Betriebsabteilungen. Als selbständige Betriebsabteilung gilt auch eine Gesamtheit von Arbeitnehmern eines nicht von den Nummern 1 bis 7 erfassten Betriebes, die außerhalb ihres Betriebes die dort genannten Tätigkeiten ausführt.
 
 \[…\]
 
@@ -82,11 +85,7 @@ Die Betriebe fallen, soweit von ihnen oder in ihnen Gebäudereinigungsleistungen
 
 2. Der Arbeitgeber kann innerhalb von zwölf Kalendermonaten 150 Arbeitsstunden vorarbeiten und 30 Arbeitsstunden nacharbeiten lassen (Jahresarbeitszeitkonto).
 
-3. Den Beschäftigten ist bei Anwendung des Jahresarbeitszeitkontos unabhängig von der tatsächlichen monatlichen Arbeitszeit ein gleich bleibender Monatslohn zu zahlen.
-
-Dieser berechnet sich nach der Formel: Stundenlohn x Jahresarbeitszeit : 12.
-
-Der Monatslohn mindert sich um den Lohn für die Arbeitsstunden, die in Folge von Kurzarbeit, Zeiten ohne Entgeltfortzahlung sowie Zeiten unbezahlter Freistellung ausfallen.
+3. Den Beschäftigten ist bei Anwendung des Jahresarbeitszeitkontos unabhängig von der tatsächlichen monatlichen Arbeitszeit ein gleich bleibender Monatslohn zu zahlen. Dieser berechnet sich nach der Formel: Stundenlohn x Jahresarbeitszeit : 12. Der Monatslohn mindert sich um den Lohn für die Arbeitsstunden, die in Folge von Kurzarbeit, Zeiten ohne Entgeltfortzahlung sowie Zeiten unbezahlter Freistellung ausfallen.
 
 4. Für die Beschäftigten wird ein individuelles Ausgleichskonto eingerichtet. Auf diesem Ausgleichskonto ist die Differenz zwischen dem Lohn für die tatsächlich geleisteten Arbeitsstunden und dem nach Nummer 3 errechneten Monatslohn für jeden Arbeitnehmer gutzuschreiben beziehungsweise zu belasten.
 
@@ -130,7 +129,7 @@ Innen- und Unterhaltsreinigungsarbeiten, die eine zusätzliche, anerkannte Quali
 
 Lohngruppe 4
 
-Bauschlussreinigungsarbeiten und Vorarbeitende<span id="FnR.F815577_01"></span><a href="#F815577_01" class="FnR">1</a></sup> in der Innen- und Unterhaltsreinigung.
+Bauschlussreinigungsarbeiten und Vorarbeitende<span id="FnR.F823245_02"></span><a href="#F823245_02" class="FnR">2</a></sup> in der Innen- und Unterhaltsreinigung.
 
 Lohngruppe 5
 
@@ -138,7 +137,7 @@ Entfällt
 
 Lohngruppe 6
 
-Glas- und Fassadenreinigungsarbeiten, insbesondere Reinigung, pflegende und schützende Behandlung von Glasflächen (mit Ausnahme der Innenraumglasflächen gemäß Lohngruppe 1) und Außenbauteilen an Bauwerken aller Art und Verkehrsmitteln wie zum Beispiel Bussen, Bahnen, Flugzeugen und Schiffen (mit Ausnahme der Reinigung von Autos in Autowaschanlagen und Autohäusern); Reinigung und Pflege von Verkehrsanlagen (zum Beispiel Verkehrsampeln, Mautanlagen) und Verkehrseinrichtungen (zum Beispiel Verkehrsschilder) sowie von Außenbeleuchtungsanlagen; Gebäudereiniger-Gesellen\*innen, die nach Inkrafttreten dieses Rahmentarifvertrages neu eingestellt werden.
+Glas- und Fassadenreinigungsarbeiten, insbesondere Reinigung, pflegende und schützende Behandlung von Glasflächen (mit Ausnahme der Innenraumglasflächen gemäß Lohngruppe 1) und Außenbauteilen an Bauwerken aller Art und Verkehrsmitteln wie zum Beispiel Bussen, Bahnen, Flugzeugen und Schiffen (mit Ausnahme der Reinigung von Autos in Autowaschanlagen und Autohäusern); Reinigung und Pflege von Verkehrsanlagen (zum Beispiel Verkehrsampeln, Mautanlagen) und Verkehrseinrichtungen (zum Beispiel Verkehrsschilder) sowie von Außenbeleuchtungsanlagen; Gebäudereiniger-Gesellinnen und Gesellen, die nach Inkrafttreten dieses Rahmentarifvertrages neu eingestellt werden.
 
 Lohngruppe 7
 
@@ -146,10 +145,10 @@ Tätigkeiten, für die Kenntnisse und Fertigkeiten erforderlich sind, die durch 
 
 Lohngruppe 8
 
-Gesellen\*innen mit Ausbildereignungsprüfung, denen die Verantwortung für die Lehrlingsausbildung übertragen worden ist.
+Gesellinnen und Gesellen mit Ausbildereignungsprüfung, denen die Verantwortung für die Lehrlingsausbildung übertragen worden ist.
 
 Lohngruppe 9
 
-Fachvorarbeitende¹ in der Glas- und Außenreinigung.
+Fachvorarbeitende<span id="FnR.F823245_03"></span><a href="#F823245_03" class="FnR">3</a></sup> in der Glas- und Außenreinigung.
 
 \[…\]

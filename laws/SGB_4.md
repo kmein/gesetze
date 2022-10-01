@@ -3,7 +3,7 @@
  
 # Inhaltsübersicht
 
-Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 1 Nr. 1 Buchst. h iVm Art. 28 Abs. 6a G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 1 G v. 11.2.2021 I 154 mWv 1.1.2022, d. Art. 1 Nr. 1 Buchst. e G v. 12.6.2020 I 1248 mWv 1.1.2022, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 I 1387 mWv 1.7.2021, d. Art. 2c Nr. 1 G v. 16.7.2021 I 2970 mWv 1.4.2022 u. d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
+Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 1 Nr. 1 Buchst. h iVm Art. 28 Abs. 6a G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 1 G v. 11.2.2021 I 154 mWv 1.1.2022, d. Art. 1 Nr. 1 Buchst. e G v. 12.6.2020 I 1248 mWv 1.1.2022, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 I 1387 mWv 1.7.2021, d. Art. 2c Nr. 1 G v. 16.7.2021 I 2970 mWv 1.4.2022, d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021 u. d. Art. 7 Nr. 1 Buchst. a u. b G v. 28.6.2022 I 969 mWv 1.10.2022; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
 # § 1 – Sachlicher Geltungsbereich
 
@@ -123,7 +123,7 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
 
 4. das aus dem Wertguthaben fällige Arbeitsentgelt mit einer vor oder nach der Freistellung von der Arbeitsleistung oder der Verringerung der vertraglich vereinbarten Arbeitszeit erbrachten Arbeitsleistung erzielt wird und
 
-5. das fällige Arbeitsentgelt insgesamt 450 Euro monatlich übersteigt, es sei denn, die Beschäftigung wurde vor der Freistellung als geringfügige Beschäftigung ausgeübt.
+5. das fällige Arbeitsentgelt insgesamt die Geringfügigkeitsgrenze übersteigt, es sei denn, die Beschäftigung wurde vor der Freistellung als geringfügige Beschäftigung ausgeübt.
 
 # § 7c – Verwendung von Wertguthaben
 
@@ -207,17 +207,23 @@ Nach der Übertragung sind die mit dem Wertguthaben verbundenen Arbeitgeberpflic
 
 (3) Die Deutsche Rentenversicherung Bund verwaltet die ihr übertragenen Wertguthaben einschließlich des darin enthaltenen Gesamtsozialversicherungsbeitrages als ihr übertragene Aufgabe bis zu deren endgültiger Auflösung getrennt von ihrem sonstigen Vermögen treuhänderisch. Die Wertguthaben sind nach den Vorschriften über die Anlage der Mittel von Versicherungsträgern nach dem Vierten Titel des Vierten Abschnitts anzulegen. Die der Deutschen Rentenversicherung Bund durch die Übertragung, Verwaltung und Verwendung von Wertguthaben entstehenden Kosten sind vollständig vom Wertguthaben in Abzug zu bringen und in der Mitteilung an den Beschäftigten nach § 7d Absatz 2 gesondert auszuweisen.
 
-# § 8 – Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit
+# § 8 – Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze
 
 (1) Eine geringfügige Beschäftigung liegt vor, wenn
 
-1. das Arbeitsentgelt aus dieser Beschäftigung regelmäßig im Monat 450 Euro nicht übersteigt,
+1. das Arbeitsentgelt aus dieser Beschäftigung regelmäßig die Geringfügigkeitsgrenze nicht übersteigt,
 
-2. die Beschäftigung innerhalb eines Kalenderjahres auf längstens drei Monate oder 70 Arbeitstage nach ihrer Eigenart begrenzt zu sein pflegt oder im Voraus vertraglich begrenzt ist, es sei denn, dass die Beschäftigung berufsmäßig ausgeübt wird und ihr Entgelt 450 Euro im Monat übersteigt.
+2. die Beschäftigung innerhalb eines Kalenderjahres auf längstens drei Monate oder 70 Arbeitstage nach ihrer Eigenart begrenzt zu sein pflegt oder im Voraus vertraglich begrenzt ist, es sei denn, dass die Beschäftigung berufsmäßig ausgeübt wird und die Geringfügigkeitsgrenze übersteigt.
+
+(1a) Die Geringfügigkeitsgrenze im Sinne des Sozialgesetzbuchs bezeichnet das monatliche Arbeitsentgelt, das bei einer Arbeitszeit von zehn Wochenstunden zum Mindestlohn nach § 1 Absatz 2 Satz 1 des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung erzielt wird. Sie wird berechnet, indem der Mindestlohn mit 130 vervielfacht, durch drei geteilt und auf volle Euro aufgerundet wird. Die Geringfügigkeitsgrenze wird jeweils vom Bundesministerium für Arbeit und Soziales im Bundesanzeiger bekannt gegeben.
+
+(1b) Ein unvorhersehbares Überschreiten der Geringfügigkeitsgrenze steht dem Fortbestand einer geringfügigen Beschäftigung nach Absatz 1 Nummer 1 nicht entgegen, wenn die Geringfügigkeitsgrenze innerhalb des für den jeweiligen Entgeltabrechnungszeitraum zu bildenden Zeitjahres in nicht mehr als zwei Kalendermonaten um jeweils einen Betrag bis zur Höhe der Geringfügigkeitsgrenze überschritten wird.
 
 (2) Bei der Anwendung des Absatzes 1 sind mehrere geringfügige Beschäftigungen nach Nummer 1 oder Nummer 2 sowie geringfügige Beschäftigungen nach Nummer 1 mit Ausnahme einer geringfügigen Beschäftigung nach Nummer 1 und nicht geringfügige Beschäftigungen zusammenzurechnen. Eine geringfügige Beschäftigung liegt nicht mehr vor, sobald die Voraussetzungen des Absatzes 1 entfallen. Wird beim Zusammenrechnen nach Satz 1 festgestellt, dass die Voraussetzungen einer geringfügigen Beschäftigung nicht mehr vorliegen, tritt die Versicherungspflicht erst mit dem Tag ein, an dem die Entscheidung über die Versicherungspflicht nach § 37 des Zehnten Buches durch die Einzugsstelle nach § 28i Satz 5 oder einen anderen Träger der Rentenversicherung bekannt gegeben wird. Dies gilt nicht, wenn der Arbeitgeber vorsätzlich oder grob fahrlässig versäumt hat, den Sachverhalt für die versicherungsrechtliche Beurteilung der Beschäftigung aufzuklären.
 
-(3) Die Absätze 1 und 2 gelten entsprechend, soweit anstelle einer Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt nicht für das Recht der Arbeitsförderung.
+(3) Die Absätze 1, 1a und 2 gelten entsprechend, soweit anstelle einer Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt nicht für das Recht der Arbeitsförderung.
+
+(+++ Hinweis: Zur Höhe der Geringfügigkeitsgrenze nach § 8 Abs. 1a ab dem 1.10.2022 vgl. Bek. v. 19.8.2022 BAnz AT 05.09.2022 B1 +++)
 
 # § 8a – Geringfügige Beschäftigung in Privathaushalten
 
@@ -597,7 +603,27 @@ Bei der Inanspruchnahme von Leistungen, die den Zugang zu allen Formen und allen
 
 (1) Die Mittel der Sozialversicherung einschließlich der Arbeitsförderung werden nach Maßgabe der besonderen Vorschriften für die einzelnen Versicherungszweige durch Beiträge der Versicherten, der Arbeitgeber und Dritter, durch staatliche Zuschüsse und durch sonstige Einnahmen aufgebracht.
 
-(2) Der Übergangsbereich im Sinne dieses Gesetzbuches umfasst Arbeitsentgelte aus mehr als geringfügigen Beschäftigungen nach § 8 Absatz 1 Nummer 1, die regelmäßig 1 300 Euro im Monat nicht übersteigen; bei mehreren Beschäftigungsverhältnissen ist das insgesamt erzielte Arbeitsentgelt maßgebend.
+(2) Der Übergangsbereich im Sinne dieses Gesetzbuches umfasst Arbeitsentgelte aus mehr als geringfügigen Beschäftigungen nach § 8 Absatz 1 Nummer 1, die regelmäßig 1 600 Euro im Monat nicht übersteigen; bei mehreren Beschäftigungsverhältnissen ist das insgesamt erzielte Arbeitsentgelt maßgebend.
+
+(2a) Bei Beschäftigten, deren monatliches Arbeitsentgelt aus einer mehr als geringfügigen Beschäftigung den oberen Grenzbetrag des Übergangsbereichs nach Absatz 2 nicht übersteigt, ist die beitragspflichtige Einnahme BE der Betrag in Euro, der sich nach folgender Formel berechnet:  
+  
+
+|     |                                                    |     |
+|:----|:---------------------------------------------------|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0969-1_0010.jpg) |     |
+
+  
+  
+Dabei ist AE das Arbeitsentgelt in Euro, G die Geringfügigkeitsgrenze und F der Faktor, der sich berechnet, indem der Wert 28 Prozent geteilt wird durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist. Der Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ist die Summe der zum 1. Januar desselben Kalenderjahres geltenden Beitragssätze in der allgemeinen Rentenversicherung, in der sozialen Pflegeversicherung sowie zur Arbeitsförderung und des um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung. Für die Zeit vom 1. Oktober 2022 bis zum 31. Dezember 2022 beträgt der Faktor F 0,7009. Der Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu geben. Zur Bestimmung des vom Arbeitnehmer zu tragenden Anteils am Sozialversicherungsbeitrag wird als beitragspflichtige Einnahme der Betrag zu Grunde gelegt, der sich nach folgender Formel berechnet:  
+  
+
+|     |                                                    |     |
+|:----|:---------------------------------------------------|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0969-1_0020.jpg) |     |
+
+  
+  
+Dabei ist BE die beitragspflichtige Einnahme in Euro, AE das Arbeitsentgelt in Euro und G die Geringfügigkeitsgrenze. Die §§ 121 und 123 des Sechsten Buches sind anzuwenden. Die Sätze 1 und 6 gelten nicht für Personen, die zu ihrer Berufsausbildung beschäftigt sind.
 
 (3) Der Arbeitgeber trägt abweichend von den besonderen Vorschriften für Beschäftigte für die einzelnen Versicherungszweige den Gesamtsozialversicherungsbeitrag allein, wenn
 
@@ -783,7 +809,7 @@ Der für die Erstattung zuständige Leistungsträger kann
 
 17. bei Ende der Altersteilzeitarbeit,
 
-18. bei Änderung des Arbeitsentgelts, wenn die in § 8 Absatz 1 Nummer 1 genannte Grenze über- oder unterschritten wird,
+18. bei Änderung des Arbeitsentgelts, wenn die Geringfügigkeitsgrenze über- oder unterschritten wird,
 
 19. bei nach § 23b Absatz 2 bis 3 gezahltem Arbeitsentgelt oder
 
@@ -847,7 +873,7 @@ a) eine Namens-, Anschriften- oder Staatsangehörigkeitsänderung, soweit diese 
 
 b) das in der Rentenversicherung oder nach dem Recht der Arbeitsförderung beitragspflichtige Arbeitsentgelt in Euro, in den Fällen, in denen kein beitragspflichtiges Arbeitsentgelt in der Rentenversicherung oder nach dem Recht der Arbeitsförderung vorliegt, das beitragspflichtige Arbeitsentgelt in der Krankenversicherung,
 
-c) in Fällen, in denen die beitragspflichtige Einnahme in der gesetzlichen Rentenversicherung nach § 163 Absatz 10 des Sechsten Buches bemessen wird, das Arbeitsentgelt, das ohne Anwendung dieser Regelung zu berücksichtigen wäre,
+c) in Fällen, in denen die beitragspflichtige Einnahme in der gesetzlichen Rentenversicherung nach § 20 Absatz 2a oder § 134 bemessen wird, das Arbeitsentgelt, das ohne Anwendung dieser Regelung zu berücksichtigen wäre,
 
 d) der Zeitraum, in dem das angegebene Arbeitsentgelt erzielt wurde,
 
@@ -927,7 +953,7 @@ Die Meldung wird in der Stammsatzdatei nach § 150 Absatz 1 und 2 des Sechsten B
 
 verfolgt, Personen geringfügig nach § 8, kann er auf Antrag abweichend von Absatz 1 Meldungen auf Vordrucken erstatten, wenn er glaubhaft macht, dass ihm eine Meldung auf maschinell verwertbaren Datenträgern oder durch Datenübertragung nicht möglich ist.
 
-(7) Der Arbeitgeber hat der Einzugsstelle für einen im privaten Haushalt Beschäftigten anstelle einer Meldung nach Absatz 1 unverzüglich eine vereinfachte Meldung (Haushaltsscheck) mit den Angaben nach Absatz 8 Satz 1 zu erstatten, wenn das Arbeitsentgelt nach § 14 Absatz 3 aus dieser Beschäftigung regelmäßig 450 Euro im Monat nicht übersteigt. Der Arbeitgeber kann die Meldung nach Satz 1 auch durch Datenübertragung aus systemgeprüften Programmen oder mit maschinell erstellten Ausfüllhilfen übermitteln. Der Arbeitgeber hat der Einzugsstelle gesondert schriftlich ein Lastschriftmandat zum Einzug des Gesamtsozialversicherungsbeitrags zu erteilen. Die Absätze 2 bis 5 gelten nicht.
+(7) Der Arbeitgeber hat der Einzugsstelle für einen im privaten Haushalt Beschäftigten anstelle einer Meldung nach Absatz 1 unverzüglich eine vereinfachte Meldung (Haushaltsscheck) mit den Angaben nach Absatz 8 Satz 1 zu erstatten, wenn das Arbeitsentgelt nach § 14 Absatz 3 aus dieser Beschäftigung regelmäßig die Geringfügigkeitsgrenze nicht übersteigt. Der Arbeitgeber kann die Meldung nach Satz 1 auch durch Datenübertragung aus systemgeprüften Programmen oder mit maschinell erstellten Ausfüllhilfen übermitteln. Der Arbeitgeber hat der Einzugsstelle gesondert schriftlich ein Lastschriftmandat zum Einzug des Gesamtsozialversicherungsbeitrags zu erteilen. Die Absätze 2 bis 5 gelten nicht.
 
 (8) Der Haushaltsscheck enthält
 
@@ -2809,6 +2835,20 @@ Einnahmen aus Tätigkeiten als Ärztin oder Arzt in einem Testzentrum im Sinne d
 # § 133 – Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger
 
 Ämter, die am 11. August 2021 bestehen, können entgegen § 35a Absatz 4 Satz 2 und entgegen § 36 Absatz 4 Satz 2 bis zu ihrem vorgesehenen Ende wahrgenommen werden. Bei Krankenkassen mit bis zu 500 000 Mitgliedern, deren Vorstand am 11. August 2021 aus zwei Mitgliedern besteht, ist einmalig die Wiederbestellung dieser Vorstandsmitglieder entgegen § 35a Absatz 4 Satz 2 zulässig.
+
+# § 134 – Übergangsregelung zum Übergangsbereich
+
+Bei Beschäftigten, die am 30. September 2022 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder nach § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 versicherungspflichtig waren, welche die Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1. Oktober 2022 geltenden Fassung erfüllt, ist bis zum 31. Dezember 2023 beitragspflichtige Einnahme BE in dieser Beschäftigung der Betrag, der sich nach folgender Formel berechnet:  
+  
+
+|     |                                                    |     |
+|:----|:---------------------------------------------------|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0969-1_0030.jpg) |     |
+
+  
+  
+
+Dabei ist AE das Arbeitsentgelt und FÜ der Faktor, der berechnet wird, indem der Wert 30 Prozent durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist, geteilt wird. Die §§ 121 und 123 des Sechsten Buches sind anzuwenden. Für die Zeit vom 1. Oktober 2022 bis zum 31. Dezember 2022 beträgt der Faktor FÜ 0,7509. Der Faktor FÜ für das Kalenderjahr 2023 ist vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember 2022 im Bundesanzeiger bekannt zu geben. Satz 1 gilt nicht für Personen, die zu ihrer Berufsausbildung beschäftigt sind.
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III  (BGBl. II 1990, 889, 1046)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

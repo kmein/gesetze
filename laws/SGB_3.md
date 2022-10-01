@@ -4715,7 +4715,7 @@ Satz 1 Nummer 3 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt 
 
 3. eine abgeschlossene Ausbildung in einem Ausbildungsberuf erfordern (Qualifikationsgruppe 3), ein Arbeitsentgelt in Höhe von einem Vierhundertfünfzigstel der Bezugsgröße,
 
-4. keine Ausbildung erfordern (Qualifikationsgruppe 4), ein Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße.
+4. keine Ausbildung erfordern (Qualifikationsgruppe 4), ein Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße, mindestens jedoch ein Arbeitsentgelt in Höhe des Betrages, der sich ergibt, wenn der Mindestlohn je Zeitstunde nach § 1 Absatz 2 Satz 1 des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung mit einem Siebtel der tariflichen regelmäßigen wöchentlichen Arbeitszeit, die für Tarifbeschäftigte im öffentlichen Dienst des Bundes gilt, vervielfacht wird.
 
 # § 153 – Leistungsentgelt
 
@@ -5979,7 +5979,7 @@ Beitragspflichtige Einnahme ist bei Personen, die beschäftigt sind, das Arbeits
 
 (3) Für Menschen mit Behinderungen, die in einer anerkannten Werkstatt für behinderte Menschen oder Blindenwerkstätte beschäftigt sind, ist als beitragspflichtige Einnahme das tatsächlich erzielte Arbeitsentgelt, mindestens jedoch ein Betrag in Höhe von 20 Prozent der monatlichen Bezugsgröße zugrunde zu legen.
 
-(4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag der beitragspflichtigen Einnahme nach § 163 Absatz 10 des Sechsten Buches entsprechend.
+(4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag der beitragspflichtigen Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches entsprechend.
 
 # § 345 – Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger
 
@@ -6047,11 +6047,11 @@ Abweichend von Satz 1 Nummer 2 gilt in Fällen des § 28a Absatz 1 Nummer 2 bis 
 
 (1) Die Beiträge werden von den versicherungspflichtig Beschäftigten und den Arbeitgebern je zur Hälfte getragen. Arbeitgeber im Sinne der Vorschriften dieses Titels sind auch die Auftraggeber von Heimarbeiterinnen und Heimarbeitern sowie Träger außerbetrieblicher Ausbildung.
 
-(1a) Bei versicherungspflichtig Beschäftigten, deren beitragspflichtige Einnahme sich nach § 344 Abs. 4 bestimmt, werden die Beiträge abweichend von Absatz 1 Satz 1 getragen
+(1a) Bei versicherungspflichtig Beschäftigten, deren beitragspflichtige Einnahme sich nach § 344 Absatz 4 bestimmt, werden die Beiträge abweichend von Absatz 1 Satz 1 getragen
 
-1. von den Arbeitgebern in Höhe der Hälfte des Betrages, der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird,
+1. von den versicherungspflichtig Beschäftigten in Höhe der Hälfte des Betrages, der sich ergibt, wenn der Beitragssatz auf die nach Maßgabe von § 20 Absatz 2a Satz 6 des Vierten Buches ermittelte beitragspflichtige Einnahme angewendet wird,
 
-2. im Übrigen von den versicherungspflichtig Beschäftigten.
+2. im Übrigen von den Arbeitgebern.
 
 (1b) (weggefallen)
 
@@ -6077,7 +6077,7 @@ a) Versorgungskrankengeld oder Übergangsgeld,
 
 b) Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen nach diesem Buch oder
 
-c) eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen wird, das 450 Euro nicht übersteigt,
+c) eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen wird, das die Geringfügigkeitsgrenze nicht übersteigt,
 
 5a. für Personen, die Krankengeld nach § 44a des Fünften Buches beziehen, vom Leistungsträger,
 
@@ -6093,7 +6093,7 @@ b) vom privaten Versicherungsunternehmen, wenn die oder der Pflegebedürftige in
 
 c) von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen anteilig, wenn die oder der Pflegebedürftige Anspruch auf Beihilfe oder Heilfürsorge hat und in der sozialen Pflegeversicherung oder bei einem privaten Versicherungsunternehmen versichert ist;
 
-die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt,
+die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht übersteigt,
 
 7. für Personen, die als Bezieherinnen oder Bezieher einer Rente wegen voller Erwerbsminderung versicherungspflichtig sind, von den Leistungsträgern,
 
@@ -7123,7 +7123,11 @@ Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli 2019 gel
 
 # § 454 – Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
 
-§ 76 Absatz 7 Satz 2 in der ab dem 1. Juli 2022 geltenden Fassung findet bei vor diesem Tag vereinbarten Ausbildungsvergütungen keine Anwendung.
+(1) § 76 Absatz 7 Satz 2 in der ab dem 1. Juli 2022 geltenden Fassung findet bei vor diesem Tag vereinbarten Ausbildungsvergütungen keine Anwendung.
+
+(2) Personen, die am 30. September 2022 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren, welche die Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1. Oktober 2022 geltenden Fassung erfüllt, bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2023 versicherungspflichtig, solange das Arbeitsentgelt 450 Euro monatlich übersteigt. Sie werden auf Antrag von der Versicherungspflicht befreit. Der Antrag ist bei der Agentur für Arbeit zu stellen. Die Befreiung wirkt vom 1. Oktober 2022 an, wenn sie bis zum 31. Dezember 2022 beantragt wird, im Übrigen von dem Beginn des Kalendermonats an, der auf den Kalendermonat folgt, in dem der Antrag gestellt worden ist. Die Befreiung gilt nur für die in Satz 1 genannte Beschäftigung.
+
+(3) Bei Anwendung des Absatzes 1 gelten § 134 des Vierten Buches und § 346 Absatz 1a in der bis zum 30. September 2022 geltenden Fassung.
 
 # § 455 – Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 

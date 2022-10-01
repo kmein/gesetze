@@ -73,15 +73,7 @@ Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzge
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur Absonderung vorsieht, gilt diese Pflicht nicht für geimpfte Personen und genesene Personen.
 
-(2) Absatz 1 gilt nicht für Personen,
-
-1. die zwei Einzelimpfungen erhalten haben, wenn die zweite Einzelimpfung mehr als 90 Tage zurückliegt und sie danach keine dritte Einzelimpfung erhalten haben,
-
-2. bei denen ein vollständiger Impfschutz im Sinne von § 22a Absatz 1 Satz 4 in Verbindung mit Satz 3 Nummer 1 oder Nummer 2 des Infektionsschutzgesetzes seit mehr als 90 Tagen besteht und sie keine zweite Einzelimpfung erhalten haben,
-
-3. bei denen ein vollständiger Impfschutz im Sinne von § 22a Absatz 1 Satz 4 in Verbindung mit Satz 3 Nummer 3 des Infektionsschutzgesetzes besteht, wenn seit der Durchführung der dem Testnachweis zugrundeliegenden Testung mehr als 90 Tage vergangen sind und sie danach keine zweite Einzelimpfung erhalten haben, oder
-
-4. die nach einem Voraufenthalt in einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung in die Bundesrepublik Deutschland einreisen.
+(2) Absatz 1 gilt nicht für Personen, die nach einem Voraufenthalt in einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung in die Bundesrepublik Deutschland einreisen.
 
 # § 7 – Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
 

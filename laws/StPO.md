@@ -780,7 +780,33 @@ Ist damit zu rechnen, daß die Unterbringung des Beschuldigten in einem psychiat
 
 # § 81b – Erkennungsdienstliche Maßnahmen bei dem Beschuldigten
 
-Soweit es für die Zwecke der Durchführung des Strafverfahrens oder für die Zwecke des Erkennungsdienstes notwendig ist, dürfen Lichtbilder und Fingerabdrücke des Beschuldigten auch gegen seinen Willen aufgenommen und Messungen und ähnliche Maßnahmen an ihm vorgenommen werden.
+(1) Soweit es für die Zwecke der Durchführung des Strafverfahrens oder für die Zwecke des Erkennungsdienstes notwendig ist, dürfen Lichtbilder und Fingerabdrücke des Beschuldigten auch gegen seinen Willen aufgenommen und Messungen und ähnliche Maßnahmen an ihm vorgenommen werden.
+
+(2) Über die Fälle des Absatzes 1 hinaus sind die Fingerabdrücke des Beschuldigten für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 des Europäischen Parlaments und des Rates vom 17. April 2019 zur Einrichtung eines zentralisierten Systems für die Ermittlung der Mitgliedstaaten, in denen Informationen zu Verurteilungen von Drittstaatsangehörigen und Staatenlosen (ECRIS-TCN) vorliegen, zur Ergänzung des Europäischen Strafregisterinformationssystems und zur Änderung der Verordnung (EU) 2018/1726 (ABl. L 135 vom 22.5.2019, S. 1), die durch die Verordnung (EU) 2019/818 (ABl. L 135 vom 22.5.2019, S. 85) geändert worden ist, auch gegen dessen Willen aufzunehmen, sofern
+
+1. es sich bei dem Beschuldigten um einen Drittstaatsangehörigen im Sinne des Artikels 3 Nummer 7 der Verordnung (EU) 2019/816 handelt,
+
+2. der Beschuldigte rechtskräftig zu einer Freiheitsstrafe oder Jugendstrafe verurteilt oder gegen ihn rechtskräftig allein eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist,
+
+3. keine Fingerabdrücke des Beschuldigten vorhanden sind, die im Rahmen eines Strafverfahrens aufgenommen worden sind, und
+
+4. die entsprechende Eintragung im Bundeszentralregister noch nicht getilgt ist.
+
+Wenn auf Grund bestimmter Tatsachen und bei Würdigung der Umstände des Einzelfalles die Gefahr besteht, dass der Beschuldigte sich dieser Maßnahme entziehen werde, dann dürfen die Fingerabdrücke abweichend von Satz 1 Nummer 2 bereits vor der Rechtskraft der Entscheidung aufgenommen werden.
+
+(3) Für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 sind die nach Absatz 1 für die Zwecke der Durchführung des Strafverfahrens, die nach Absatz 2 oder die nach § 163b Absatz 1 Satz 3 aufgenommenen Fingerabdrücke an das Bundeskriminalamt zu übermitteln.
+
+(4) Für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 darf das Bundeskriminalamt die nach den Absätzen 1 und 2 sowie die nach § 163b Absatz 1 Satz 3 aufgenommenen und ihm übermittelten Fingerabdrücke verarbeiten. Bei den nach Absatz 1 für die Zwecke der Durchführung des Strafverfahrens, den nach Absatz 2 Satz 2 und den nach § 163b Absatz 1 Satz 3 aufgenommenen Fingerabdrücken ist eine über die Speicherung hinausgehende Verarbeitung nach Satz 1 unzulässig, solange die Entscheidung noch nicht rechtskräftig ist. Die Verarbeitung nach Satz 1 ist ferner unzulässig, wenn
+
+1. der Beschuldigte rechtskräftig freigesprochen wurde,
+
+2. das Verfahren nicht nur vorläufig eingestellt wurde oder
+
+3. die alleinige Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung gegen den Beschuldigten rechtskräftig unterbleibt.
+
+Satz 3 gilt entsprechend in den Fällen des Absatzes 2 Satz 2, wenn der Beschuldigte rechtskräftig zu einer anderen Strafe als Freiheitsstrafe oder Jugendstrafe verurteilt wurde. Ist die Verarbeitung der Fingerabdrücke nach Satz 3 oder 4 unzulässig, so sind die Fingerabdrücke zu löschen.
+
+(5) Für die Verarbeitung für andere Zwecke als die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 gelten die §§ 481 bis 485. Die Verarbeitung der nach Absatz 2 Satz 2 aufgenommenen Fingerabdrücke ist jedoch erst zulässig, wenn die Entscheidung rechtskräftig und die Verarbeitung für die Erstellung eines Datensatzes nicht nach Absatz 4 Satz 3 oder 4 unzulässig ist. Die übrigen Bestimmungen über die Verarbeitung der nach Absatz 1 oder 2 oder nach § 163b aufgenommenen Fingerabdrücke bleiben unberührt.
 
 # § 81c – Untersuchung anderer Personen
 

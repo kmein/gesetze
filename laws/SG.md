@@ -21,6 +21,10 @@ Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung
 
 Ernennungs- und Verwendungsgrundsätze
 
+§ 3a
+
+Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+
 § 4
 
 Ernennung, Dienstgradbezeichnungen, Uniform
@@ -589,7 +593,7 @@ Organisationsgesetz
 
 § 93
 
-Zuständigkeit für den Erlass von Rechtsverordnungen
+Verordnungsermächtigungen
 
 § 94
 
@@ -658,6 +662,54 @@ Zuständigkeit für den Erlass von Rechtsverordnungen
 Satz 1 gilt nicht, wenn der Soldat die Schädigung vorsätzlich oder grob fahrlässig verursacht hat, es sei denn, dass der Ausschluss eine unbillige Härte bedeuten würde.
 
 (3) Absatz 2 gilt entsprechend für die Wiedereinstellung früherer Soldaten, denen kein Anspruch nach dem Einsatz-Weiterverwendungsgesetz zusteht.
+
+# § 3a – Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+
+(1) Ein Soldat, der in einer Verwendung mit besonders hohen Sicherheitsanforderungen eingesetzt werden soll, ist zuvor einer intensivierten erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen zu unterziehen. Ist ein Soldat bereits in einer solchen Verwendung eingesetzt, so ist unverzüglich eine intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen durchzuführen.
+
+(2) Die Verwendungen mit besonders hohen Sicherheitsanforderungen werden durch Rechtsverordnung festgelegt.
+
+(3) Die Vorschriften des Sicherheitsüberprüfungsgesetzes für erweiterte Sicherheitsprüfungen mit Sicherheitsermittlungen gelten mit den Maßgaben, dass
+
+1. die mitwirkende Behörde die betroffene Person selbst befragt, und zwar – abweichend von § 12 Absatz 5 Satz 1 des Sicherheitsüberprüfungsgesetzes – unabhängig davon, ob eine sicherheitserhebliche Erkenntnis dies erfordert,
+
+2. zu der betroffenen Person – abweichend von § 11 Absatz 2 und § 12 Absatz 3a des Sicherheitsüberprüfungsgesetzes – in jedem Fall Einsicht genommen wird
+
+a) in öffentlich zugängliche Internetseiten und
+
+b) in den Teil ihres Profils in einem sozialen Netzwerk, der für alle Mitglieder des Netzwerks sichtbar ist,
+
+3. die betroffene Person in der Sicherheitserklärung – zusätzlich zu den Angaben nach § 13 Absatz 1 des Sicherheitsüberprüfungsgesetzes – anzugeben hat,
+
+a) welche sozialen Netzwerke sie derzeit nutzt,
+
+b) unter welchen Namen sie dort derzeit angemeldet ist,
+
+4. die betroffene Person der Sicherheitserklärung zwei aktuelle Lichtbilder mit der Angabe des Jahres der Aufnahme beizufügen hat; die Lichtbilder können in elektronischer Form verlangt werden; sie dürfen nicht für einen automatisierten Abgleich mit Datenbanken genutzt werden; die Kosten der Lichtbilder trägt der Bund,
+
+5. der betroffenen Person – abweichend von § 17 Absatz 1 Satz 1 des Sicherheitsüberprüfungsgesetzes – bereits nach 30 Monaten ihre Sicherheitserklärung zur Aktualisierung zugeleitet wird,
+
+6. anlässlich der Aktualisierung der Sicherheitserklärung – abweichend von § 17 Absatz 1 Satz 3 des Sicherheitsüberprüfungsgesetzes – zusätzlich die folgenden Maßnahmen einer Wiederholungsüberprüfung durchgeführt werden:
+
+a) bei der betroffenen Person nur
+
+aa)  
+die Einsichtnahme nach Nummer 2,
+
+bb)  
+die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3 des Sicherheitsüberprüfungsgesetzes und
+
+cc) die Maßnahmen nach § 12 Absatz 2 des Sicherheitsüberprüfungsgesetzes sowie
+
+b) bei der mitbetroffenen Person die Maßnahmen nach Nummer 6 Buchstabe a Doppelbuchstabe bb und cc,
+
+7. die erste und jede weitere Wiederholungsüberprüfung – abweichend von § 17 Absatz 2 Satz 1 des Sicherheitsüberprüfungsgesetzes – bereits nach fünf Jahren eingeleitet wird und
+
+8. die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der Wiederholungsüberprüfung nach Nummer 6 nicht eingeleitet wird, solange
+
+a) die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
+
+b) nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30 Monate vergangen sind.
 
 # § 4 – Ernennung, Dienstgradbezeichnungen, Uniform
 
@@ -2164,7 +2216,7 @@ Die Organisation der Verteidigung, insbesondere die Spitzengliederung der Bundes
 
 In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- oder Verteidigungsfalles bestimmt werden, dass für die bei Eintritt des Spannungs- oder Verteidigungsfalles vorhandenen Berufssoldaten und Soldaten auf Zeit die Dienstzeit nach § 27 Abs. 2 Nr. 1 Buchstabe b bis auf sechs Monate und die Dienstzeit nach Nr. 2 Buchstabe b bis auf ein Jahr verkürzt wird.
 
-# § 93 – Zuständigkeit für den Erlass der Rechtsverordnungen
+# § 93 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung erlässt die Rechtsverordnungen über
 
@@ -2214,7 +2266,9 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 2. die Kostenerstattung für Familien- und Haushaltshilfen nach § 31 Absatz 8.
 
-(4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
+(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Rechtsverordnung über die Festlegung der Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a Absatz 2.
+
+(5) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
 
 (+++ § 93 Abs. 2 Nr. 9: Aufgrund der rückwirkenden Einfügung der Nr. 3 durch Art. 5 Nr. 10 Buchst. a G v. 20.8.2021 I 3932 mWv 1.1.2021 wird die frühere Nr. 8 ab dem 7.7.2021 die Nr. 9 +++)
 
