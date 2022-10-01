@@ -225,6 +225,18 @@ Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die Leistungen n
 
 Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember 2012 geltenden Voraussetzungen für das Vorliegen einer versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
+# § 15j – Übergangsregelungen zum Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+Erhöht sich durch eine Anpassung des Mindestlohnes die Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch, so gilt eine Person, die mit der Altersteilzeit vor der Anhebung des Mindestlohnes begonnen hat, weiterhin als versicherungspflichtig beschäftigt, wenn
+
+1. sie bis zu dem Tag, an dem die Anhebung des Mindestlohnes in Kraft tritt, in einer versicherungspflichtigen Beschäftigung gestanden hat,
+
+2. sie die Voraussetzungen für eine versicherungspflichtige Beschäftigung nach der Anhebung des Mindestlohnes nicht mehr erfüllt und
+
+3. die am Tag vor dem Inkrafttreten der Anhebung des Mindestlohnes geltenden Voraussetzungen für eine versicherungspflichtige Beschäftigung weiterhin vorliegen.
+
+Mindestlohn ist der Mindestlohn nach § 1 Absatz 2 Satz 1 des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung.
+
 # § 16 – Befristung der Förderungsfähigkeit
 
 Für die Zeit ab dem 1. Januar 2010 sind Leistungen nach § 4 nur noch zu erbringen, wenn die Voraussetzungen des § 2 erstmals vor diesem Zeitpunkt vorgelegen haben.

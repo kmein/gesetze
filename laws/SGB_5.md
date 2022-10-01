@@ -784,7 +784,7 @@ Als zu ihrer Berufsausbildung Beschäftigte im Sinne des Absatzes 1 Nr. 1 gelten
 
 § 8 Abs. 2 des Vierten Buches ist mit der Maßgabe anzuwenden, daß eine Zusammenrechnung mit einer nicht geringfügigen Beschäftigung nur erfolgt, wenn diese Versicherungspflicht begründet.
 
-(2) Personen, die am 31. März 2003 nur in einer Beschäftigung versicherungspflichtig waren, die die Merkmale einer geringfügigen Beschäftigung nach den §§ 8, 8a des Vierten Buches erfüllt, und die nach dem 31. März 2003 nicht die Voraussetzungen für eine Versicherung nach § 10 erfüllen, bleiben in dieser Beschäftigung versicherungspflichtig. Sie werden auf ihren Antrag von der Versicherungspflicht befreit. § 8 Abs. 2 gilt entsprechend mit der Maßgabe, dass an die Stelle des Zeitpunkts des Beginns der Versicherungspflicht der 1. April 2003 tritt. Die Befreiung ist auf die jeweilige Beschäftigung beschränkt.
+(2) Personen, die am 30. September 2022 in einer mehr als geringfügigen Beschäftigung versicherungspflichtig waren, welche die Merkmale einer geringfügigen Beschäftigung nach § 8 oder § 8a des Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches in der ab dem 1. Oktober 2022 geltenden Fassung erfüllt, bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2023 versicherungspflichtig, sofern sie nicht die Voraussetzungen für eine Versicherung nach § 10 erfüllen und solange ihr Arbeitsentgelt 450 Euro monatlich übersteigt. Sie werden auf ihren Antrag von der Versicherungspflicht nach Satz 1 befreit. § 8 Absatz 2 gilt entsprechend mit der Maßgabe, dass an die Stelle des Zeitpunkts des Beginns der Versicherungspflicht der 1. Oktober 2022 tritt.
 
 (3) (weggefallen)
 
@@ -866,7 +866,7 @@ Für die Berechnung der Vorversicherungszeiten nach Satz 1 Nr. 1 gelten 360 Tage
 
 4. nicht hauptberuflich selbständig erwerbstätig sind und
 
-5. kein Gesamteinkommen haben, das regelmäßig im Monat ein Siebtel der monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet; bei Abfindungen, Entschädigungen oder ähnlichen Leistungen (Entlassungsentschädigungen), die wegen der Beendigung eines Arbeitsverhältnisses in Form nicht monatlich wiederkehrender Leistungen gezahlt werden, wird das zuletzt erzielte monatliche Arbeitsentgelt für die der Auszahlung der Entlassungsentschädigung folgenden Monate bis zu dem Monat berücksichtigt, in dem im Fall der Fortzahlung des Arbeitsentgelts die Höhe der gezahlten Entlassungsentschädigung erreicht worden wäre; bei Renten wird der Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten entfallenden Teil berücksichtigt.
+5. kein Gesamteinkommen haben, das regelmäßig im Monat ein Siebtel der monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet; bei Abfindungen, Entschädigungen oder ähnlichen Leistungen (Entlassungsentschädigungen), die wegen der Beendigung eines Arbeitsverhältnisses in Form nicht monatlich wiederkehrender Leistungen gezahlt werden, wird das zuletzt erzielte monatliche Arbeitsentgelt für die der Auszahlung der Entlassungsentschädigung folgenden Monate bis zu dem Monat berücksichtigt, in dem im Fall der Fortzahlung des Arbeitsentgelts die Höhe der gezahlten Entlassungsentschädigung erreicht worden wäre; bei Renten wird der Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten entfallenden Teil berücksichtigt; für Familienangehörige, die eine geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, ist ein regelmäßiges monatliches Gesamteinkommen bis zur Geringfügigkeitsgrenze zulässig.
 
 Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist nicht deshalb anzunehmen, weil eine Versicherung nach § 1 Abs. 3 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891) besteht. Ehegatten und Lebenspartner sind für die Dauer der Schutzfristen nach § 3 des Mutterschutzgesetzes sowie der Elternzeit nicht versichert, wenn sie zuletzt vor diesen Zeiträumen nicht gesetzlich krankenversichert waren.
 
@@ -8144,7 +8144,9 @@ Dem Arbeitsentgelt steht das Vorruhestandsgeld gleich. Bei Auszubildenden, die i
 
 (3) Für Schwangere, deren Mitgliedschaft nach § 192 Abs. 2 erhalten bleibt, gelten die Bestimmungen der Satzung.
 
-(4) Bei Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag der beitragspflichtigen Einnahme nach § 163 Absatz 10 des Sechsten Buches entsprechend.
+(4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, bestimmt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches.
+
+(5) Für Personen, für die § 7 Absatz 2 Anwendung findet, bestimmt sich die beitragspflichtige Einnahme nach § 134 des Vierten Buches.
 
 # § 227 – Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die gesetzliche Krankenversicherung und bisher nicht Versicherter
 
@@ -8376,7 +8378,9 @@ Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgun
 
 (2) Der Arbeitgeber trägt den Beitrag allein für Beschäftigte, soweit Beiträge für Kurzarbeitergeld zu zahlen sind.
 
-(3) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten mit einem monatlichen Arbeitsentgelt innerhalb des Übergangsbereichs nach § 20 Abs. 2 des Vierten Buches vom Arbeitgeber in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder ermäßigte Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten getragen. Dies gilt auch für Personen, für die § 7 Absatz 3 Anwendung findet.
+(3) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten, deren beitragspflichtige Einnahme sich nach § 226 Absatz 4 bestimmt, vom Versicherten in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder der ermäßigte Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes auf die nach Maßgabe von § 20 Absatz 2a Satz 6 des Vierten Buches ermittelte beitragspflichtige Einnahme angewendet wird, im Übrigen vom Arbeitgeber getragen.
+
+(4) Abweichend von Absatz 1 werden die Beiträge für Personen, für die § 7 Absatz 2 Anwendung findet, vom Arbeitgeber in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder der ermäßigte Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten getragen.
 
 # § 249a – Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
 

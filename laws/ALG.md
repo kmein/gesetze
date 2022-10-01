@@ -1237,7 +1237,7 @@ c) bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminde
 
 (1) Landwirte und mitarbeitende Familienangehörige werden auf Antrag von der Versicherungspflicht befreit, solange sie
 
-1. regelmäßig Arbeitsentgelt, Arbeitseinkommen, vergleichbares Einkommen oder Erwerbsersatzeinkommen (Absatz 4) beziehen, das ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft jährlich 4 800 Euro überschreitet,
+1. regelmäßig Arbeitsentgelt, Arbeitseinkommen, vergleichbares Einkommen oder Erwerbsersatzeinkommen (Absatz 4) beziehen, das ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft jährlich das Zwölffache der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch überschreitet,
 
 1a. Arbeitslosengeld II beziehen, wenn sie im letzten Kalendermonat vor dem Bezug von Arbeitslosengeld II nicht versichert waren,
 
@@ -1647,7 +1647,7 @@ b) in Höhe der Hälfte das 0,84fache
 
 der monatlichen Bezugsgröße,
 
-2. bei einer Rente wegen voller Erwerbsminderung in voller Höhe 450 Euro monatlich,
+2. bei einer Rente wegen voller Erwerbsminderung in voller Höhe monatlich den Betrag der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch,
 
 3. bei einer Rente wegen voller Erwerbsminderung
 
@@ -1665,7 +1665,7 @@ der monatlichen Bezugsgröße.
 
 (2) Die Hinzuverdienstgrenze beträgt
 
-1. bei einer vorzeitigen Altersrente in voller Höhe 450 Euro monatlich,
+1. bei einer vorzeitigen Altersrente in voller Höhe monatlich den Betrag der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch,
 
 2. bei einer vorzeitigen Altersrente
 
@@ -2267,7 +2267,7 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 
 (8) Personen, die in der Zeit vom 23. Dezember 1995 bis zum 31. März 1996 einen Antrag auf Befreiung nach § 3 Abs. 1 Nr. 2 bis 4 stellen, werden mit Wirkung vom Vorliegen der Befreiungsvoraussetzungen an von der Versicherungspflicht befreit.
 
-(9) Personen, die am 31. März 2003 nach § 3 Abs. 1 Nr. 1 in der bis zum 31. März 2003 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Abs. 1 Nr. 1 maßgebende Einkommen jährlich ein Siebtel der Bezugsgröße oder 4800 Euro überschreitet. Sie können bis zum 30. September 2003 erklären, dass die Befreiung von der Versicherungspflicht zum 31. März 2003 enden soll.
+(9) Personen, die am 31. März 2003 nach § 3 Abs. 1 Nr. 1 in der bis zum 31. März 2003 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Abs. 1 Nr. 1 maßgebende Einkommen jährlich ein Siebtel der Bezugsgröße oder 4800 Euro überschreitet. Sie können bis zum 30. September 2003 erklären, dass die Befreiung von der Versicherungspflicht zum 31. März 2003 enden soll. Personen, die am 30. September 2022 nach § 3 Absatz 1 Nummer 1 in der bis zum 30. September 2022 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Absatz 1 Nummer 1 maßgebende Einkommen regelmäßig jährlich 4 800 Euro überschreitet. Sie können bis zum 31. März 2023 erklären, dass die Befreiung von der Versicherungspflicht zum 30. September 2022 enden soll.
 
 # § 86 – Teilhabe
 

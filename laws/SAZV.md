@@ -11,7 +11,7 @@ Auf Grund des § 30c Absatz 5 in Verbindung mit § 93 Absatz 2 Nummer 5 des Sold
 
 (1) Diese Verordnung gilt für alle Soldatinnen und Soldaten, die im Geschäftsbereich des Bundesministeriums der Verteidigung verwendet werden.
 
-(2) § 30c Absatz 1 bis 3 des Soldatengesetzes und diese Verordnung gelten nicht für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler Aufgaben zu den in der Anlage aufgeführten militärischen Stellen versetzt oder kommandiert sind.
+(2) § 30c Absatz 1 bis 3 des Soldatengesetzes und diese Verordnung gelten nicht für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler oder supranationaler Aufgaben zu den in der Anlage aufgeführten militärischen Stellen versetzt oder kommandiert sind.
 
 (3) Abweichend von Absatz 2 gilt § 17 für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler oder supranationaler Aufgaben zu den in der Anlage aufgeführten Dienststellen versetzt oder kommandiert sind und für die ein Langzeitkonto eingerichtet worden ist, mit der Maßgabe, dass die Langzeitkonten der betroffenen Personen für die Dauer der Verwendung oder Kommandierung ruhen.
 
@@ -373,6 +373,7 @@ Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die beso
 
 # Anlage – (zu § 1 Absatz 2)
 
-(Fundstelle des Originaltextes: BGBl. I 2020, 240 - 241)
+(Fundstelle: BGBl. I 2022, 1537 - 1538)
 
+  
   

@@ -189,7 +189,7 @@ Schutzmaßnahmen
 
 § 28a
 
-Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19)
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite
 
 § 28b
 
@@ -2200,7 +2200,7 @@ Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des Tiergesundheitsgesetz
 
 (3) Für Maßnahmen nach den Absätzen 1 und 2 gilt § 16 Abs. 5 bis 8, für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
-# § 28a – Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19)
+# § 28a – Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite
 
 (1) Notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) können für die Dauer der Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5 Absatz 1 Satz 1 durch den Deutschen Bundestag insbesondere sein
 
@@ -3434,7 +3434,7 @@ Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, könn
 
 (5) Auf Streitigkeiten über Ansprüche nach § 65 gegen das nach § 66 Absatz 1 Satz 2 zur Zahlung verpflichtete Land, die nach dem 30. März 2021 rechtshängig werden, sind § 58 Absatz 2 Satz 1, § 70 Absatz 1 Satz 1 und § 75 Satz 2 der Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass die Fristen frühestens am 31. März 2021 zu laufen beginnen.
 
-(6) § 28b Absatz 1 in der am 23. September 2022 geltenden Fassung und § 73 Absatz 1a Nummer 11b in der am 23. September 2022 geltenden Fassung sind bis zum Ablauf des 30. September 2022 weiter anzuwenden.
+(6) (weggefallen)
 
 (7) Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in Bezug auf landesrechtlich angeordnete Schutzmaßnahmen Erleichterungen oder Ausnahmen für Personen vorsehen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können. Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in den Fällen des § 28b Absatz 1 Satz 1 Nummer 4 dritter Teilsatz Buchstabe b, Nummer 5 dritter Teilsatz, Nummer 6 dritter Teilsatz und Nummer 8 zweiter Teilsatz Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist, denjenigen gleichstellen, die ein negatives Ergebnis einer mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können.
 

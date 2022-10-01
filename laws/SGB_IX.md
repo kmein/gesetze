@@ -1404,7 +1404,7 @@ Leisten Träger der Kriegsopferfürsorge Übergangsgeld, beträgt das Übergangs
 
 3. für eine abgeschlossene Ausbildung in einem Ausbildungsberuf (Qualifikationsgruppe 3) ein Arbeitsentgelt in Höhe von einem Vierhundertfünfzigstel der Bezugsgröße und
 
-4. bei einer fehlenden Ausbildung (Qualifikationsgruppe 4) ein Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße.
+4. bei einer fehlenden Ausbildung (Qualifikationsgruppe 4) ein Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße, mindestens jedoch ein Arbeitsentgelt in Höhe des Betrages, der sich ergibt, wenn der Mindestlohn je Zeitstunde nach § 1 Absatz 2 Satz 1 des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung mit einem Siebtel der tariflichen regelmäßigen wöchentlichen Arbeitszeit, die für Tarifbeschäftigte im öffentlichen Dienst des Bundes gilt, vervielfacht wird.
 
 Maßgebend ist die Bezugsgröße, die für den Wohnsitz oder für den gewöhnlichen Aufenthaltsort der Leistungsempfänger im letzten Kalendermonat vor dem Beginn der Leistung gilt.
 

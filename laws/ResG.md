@@ -29,6 +29,16 @@ Reservistinnen und Reservisten sind
 
 2. die Zuständigkeit für die Entscheidung über die Gestattung nach Absatz 1.
 
+# § 3a – Sicherheitsüberprüfung auf Grund einer Beorderung oder bei Heranziehung zu einer Dienstleistung mit oder ohne vorherige Beorderung
+
+(1) Für jede beorderte Reservistin und jeden beorderten Reservisten, die oder der zu einer in § 60 des Soldatengesetzes genannten Dienstleistung bestimmt ist, ist vor Beginn der Dienstleistung eine einfache Sicherheitsüberprüfung durchzuführen.
+
+(2) Für jede Reservistin und jeden Reservisten, mit oder ohne Beorderung, die oder der zu einer in § 60 des Soldatengesetzes genannten Dienstleistung herangezogen wird, ist vor der Heranziehung zur Dienstleistung eine einfache Sicherheitsüberprüfung durchzuführen.
+
+(3) Die einfache Sicherheitsüberprüfung unterbleibt, wenn dies zur Sicherstellung der Erfüllung des Auftrags der Bundeswehr zwingend notwendig ist. Die Entscheidung, ob eine einfache Sicherheitsüberprüfung unterbleibt, trifft das Bundesministerium der Verteidigung oder die von ihm beauftragte Stelle.
+
+(4) Für die Durchführung der einfachen Sicherheitsüberprüfung gilt das Sicherheitsüberprüfungsgesetz.
+
 # § 4 – Reservewehrdienstverhältnis
 
 Reservistinnen und Reservisten, die sich freiwillig verpflichtet haben, ehrenamtlich eine Funktion in der Reserveorganisation der Bundeswehr wahrzunehmen, können längstens bis zum Ablauf des Monats, in dem sie das 65. Lebensjahr vollenden, in ein Wehrdienstverhältnis nach diesem Gesetz (Reservewehrdienstverhältnis) berufen werden. Die Regelungen des Soldatengesetzes und des Wehrpflichtgesetzes zur Begründung anderer Wehrdienstverhältnisse bleiben im Übrigen unberührt, soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
