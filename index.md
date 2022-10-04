@@ -2597,7 +2597,6 @@
 - [GrenzVtrPOLG](laws/GrenzVtrPOLG.md) Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze
 - [GrEStG](laws/GrEStG.md) Grunderwerbsteuergesetz
 - [GRG](laws/GRG.md) Gesetz zur Strukturreform im Gesundheitswesen
-- [GrImpfStRüV](laws/GrImpfStRüV.md) Verordnung über die Rückerstattung nicht genutzter saisonaler Grippeimpfstoffe
 - [GroMiKV](laws/GroMiKV.md) Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz 1
 - [GrPfREuroV](laws/GrPfREuroV.md) Verordnung über Grundpfandrechte in ausländischer Währung und in Euro
 - [GrSiDAV](laws/GrSiDAV.md) Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende
