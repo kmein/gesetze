@@ -15,6 +15,8 @@ und
 
 \- Anbieter-
 
+ 
+
 # Präambel
 
 Die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates vom 19. März 2019 über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.3.2019, S. 45), die Delegierte Verordnung (EU) 2020/203 der Kommission vom 28. November 2019 über die Klassifizierung von Fahrzeugen, Pflichten der Nutzer des europäischen elektronischen Mautdienstes, Anforderungen an Interoperabilitätskomponenten und Mindesteignungskriterien für benannte Stellen (ABl. L 43 vom 17.2.2020, S. 41) und die Durchführungsverordnung (EU) 2020/204 der Kommission vom 28. November 2019 über detaillierte Pflichten der Anbieter des europäischen elektronischen Mautdienstes, den Mindestinhalt der Vorgabe für das EETS-Gebiet, elektronische Schnittstellen und Anforderungen an Interoperabilitätskomponenten sowie zur Aufhebung der Entscheidung 2009/750/EG (ABl. L 43 vom 17.2.2020, S. 49) bilden in Verbindung mit dem Mautsystemgesetz (MautSysG) und dem Bundesfernstraßenmautgesetz (BFStrMG) sowie den auf ihrer Grundlage erlassenen Rechtsverordnungen die rechtlichen Grundlagen für die Implementierung des europäischen elektronischen Mautdienstes (EETS) in der Bundesrepublik Deutschland.
@@ -298,8 +300,6 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 (12) Die Anwendbarkeit der – auch strafrechtlichen – Bestimmungen des Bundesdatenschutzgesetzes (BDSG) und anderer Rechtsvorschriften zum Schutz der Vertraulichkeit und die Geltendmachung von Unterlassungs- sowie von weitergehenden Schadensersatzansprüchen des Mauterhebers bleiben von Vorstehendem unberührt.
 
 (13) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieses Vertrages fort.
-
-(+++ § 16 Abs. 3 und Abs. 8: Zur Anwendung vgl. § 15 Abs. 7 +++)
 
 # § 17 – Qualitätsanforderungen
 
