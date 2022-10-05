@@ -53,7 +53,7 @@ Im Sinne dieser Verordnung ist
 
 # § 4 – Verbot der Nutzung bestimmter Heizungsarten für Schwimm- und Badebecken
 
-In Gebäuden oder zugehörigen privaten Gärten ist die Beheizung von privaten, nichtgewerblichen, innen- oder außenliegenden Schwimm- und Badebecken einschließlich Aufstellbecken mit Gas oder mit Strom aus dem Stromnetz untersagt. Satz 1 ist nicht anzuwenden, sofern die Beheizung zwingend notwendig für therapeutische Anwendungen ist.
+In Gebäuden oder zugehörigen privaten Gärten ist die Beheizung von privaten, nichtgewerblichen, innen- oder außenliegenden Schwimm- und Badebecken einschließlich Aufstellbecken mit Gas oder mit Strom aus dem Stromnetz untersagt. Satz 1 ist nicht anzuwenden, soweit die Beheizung zwingend notwendig für therapeutische Anwendungen oder zur Abwehr von Schäden an der Beckenanlage ist.
 
 # § 5 – Verbot der Beheizung von Gemeinschaftsflächen
 
@@ -107,23 +107,23 @@ In Gebäuden oder zugehörigen privaten Gärten ist die Beheizung von privaten, 
 
 3. weitere Einrichtungen, bei denen die Bereitstellung von warmem Trinkwasser für die bestimmungsgemäße Nutzung oder den Betrieb des Gebäudes erforderlich ist.
 
-# § 8 – Beleuchtung von Gebäuden und Baudenkmälern
+# § 8 – Beleuchtung von öffentlichen Nichtwohngebäuden und Baudenkmälern
 
-(1) Die Beleuchtung von Gebäuden und Baudenkmälern von außen mit Ausnahme von Sicherheits- und Notbeleuchtung ist untersagt. Ausgenommen sind kurzzeitige Beleuchtungen bei Kulturveranstaltungen und Volksfesten.
+(1) Die Beleuchtung von öffentlichen Nichtwohngebäuden und Baudenkmälern von außen mit Ausnahme von Sicherheits- und Notbeleuchtung ist untersagt. Ausgenommen sind kurzzeitige Beleuchtungen bei Kulturveranstaltungen und Volksfesten sowie die Beleuchtung anlässlich traditioneller und religiöser Feste.
 
 (2) Die Untersagung nach Absatz 1 Satz 1 ist nicht anzuwenden, wenn die Beleuchtung zur Aufrechterhaltung der Verkehrssicherheit oder zur Abwehr anderer Gefahren erforderlich ist und nicht kurzfristig durch andere Maßnahmen ersetzt werden kann.
 
 # § 9 – Informationspflicht über Preissteigerungen für Versorger und für Eigentümer von Wohngebäuden
 
-(1) Gas- und Wärmelieferanten, die Eigentümer von Wohngebäuden oder Eigentumswohnungen oder Nutzer von Wohneinheiten als Endkunden leitungsgebunden mit Gas oder Wärme beliefern, teilen diesen Letztverbrauchern bis zum 30. September 2022 folgende Informationen mit:
+(1) Gaslieferanten und in erheblichem Umfang Wärme aus Gas erzeugende Wärmelieferanten, die Eigentümer von Wohngebäuden oder Eigentumswohnungen oder Nutzer von Wohneinheiten als Endkunden leitungsgebunden mit Gas oder Wärme beliefern, teilen diesen Letztverbrauchern bis zum 30. September 2022 folgende Informationen mit:
 
 1. Informationen über den Energieverbrauch und die Energiekosten des Gebäudes oder der Wohneinheit in der letzten vorangegangenen Abrechnungsperiode,
 
-2. Informationen über die Höhe der voraussichtlichen Energiekosten des Gebäudes oder der Wohneinheit für eine vergleichbare Abrechnungsperiode unter Berücksichtigung des am 1. September 2022 in dem jeweiligen Netzgebiet geltenden Grundversorgungstarifs für Erdgas auf Basis des Grund- und Arbeitspreises, berechnet unter Zugrundelegung des Energieverbrauchs der letzten vorangegangenen Abrechnungsperiode und
+2. Informationen über die Höhe der voraussichtlichen Energiekosten des Gebäudes oder der Wohneinheit für eine vergleichbare Abrechnungsperiode unter Berücksichtigung des am 1. September 2022 oder später in dem jeweiligen Netzgebiet geltenden Grundversorgungstarifs für Erdgas auf Basis des Grund- und Arbeitspreises, berechnet unter Zugrundelegung des Energieverbrauchs der letzten vorangegangenen Abrechnungsperiode, oder des Neukundentarifs, den sie am 1. September 2022 oder später aufgerufen haben, und
 
 3. Informationen über das rechnerische Einsparpotenzial des Gebäudes oder der Wohneinheit in Kilowattstunden und Euro unter Heranziehung der Annahme, dass bei einer durchgängigen Reduktion der durchschnittlichen Raumtemperatur um 1 Grad Celsius eine Einsparung von 6 Prozent zu erwarten ist.
 
-Können diese Informationen innerhalb der Frist nach Satz 1 nicht zur Verfügung gestellt werden, sind die Informationen nach Satz 1 auf der Grundlage typischer Verbräuche unterschiedlich großer Gebäude oder Haushalte mitzuteilen. Die individualisierte Mitteilung nach Satz 1 ist spätestens bis zum 31. Dezember 2022 zu versenden. Die Informationen nach Satz 1 sind innerhalb eines Monats erneut zur Verfügung zu stellen, wenn das Preisniveau nach Satz 1 Nummer 2 erheblich ansteigt.
+Wärmelieferanten berücksichtigen bei der Abschätzung der voraussichtlichen Energiekosten nach Satz 1 Nummer 2 den Neukundentarif, den sie am 1. September 2022 oder später aufgerufen haben. Können diese Informationen innerhalb der Frist nach Satz 1 nicht zur Verfügung gestellt werden, sind die Informationen nach Satz 1 auf der Grundlage typischer Verbräuche unterschiedlich großer Gebäude oder Haushalte mitzuteilen. Die individualisierte Mitteilung nach Satz 1 ist spätestens bis zum 31. Dezember 2022 zu versenden. Die Informationen nach Satz 1 sind innerhalb eines Monats erneut zur Verfügung zu stellen, wenn das Preisniveau nach Satz 1 Nummer 2 erheblich ansteigt.
 
 (2) Eigentümer von Wohngebäuden mit mindestens zehn Wohneinheiten, deren Wohngebäude leitungsgebunden mit Gas oder Wärme beliefert werden, haben den Nutzern die Informationen nach Absatz 1 Satz 1 mitzuteilen. Auf dieser Grundlage teilen sie den Nutzern für ihre jeweilige Wohneinheit bis zum 31. Oktober 2022 zusätzlich spezifische Informationen über den Verbrauch der jeweiligen Wohneinheit, über die bei unverändertem Energieverbrauch zu erwartenden Energiekosten und Kostensteigerungen sowie die für ihre jeweilige Wohneinheit spezifischen Reduktionspotenziale bei einer Temperaturreduktion gemäß Absatz 1 Satz 1 Nummer 3 mit. Erhalten die Eigentümer von ihren Versorgern lediglich allgemeine Informationen nach Absatz 1 Satz 2, so teilen Sie ihren Mietern ihrerseits allgemeine Informationen zu dem Einsparpotenzial einzelner Haushalte anhand typischer Verbräuche mit. Die individualisierte Mitteilung nach Satz 1 ist spätestens bis zum 31. Januar 2023 zu versenden. Die Informationen nach Satz 1 sind unverzüglich erneut zur Verfügung zu stellen, wenn der Gebäudeeigentümer nach einem Anstieg des Preisniveaus nach Absatz 1 Satz 4 von seinem Versorger informiert worden ist.
 
@@ -137,7 +137,7 @@ In beheizten Geschäftsräumen des Einzelhandels ist das dauerhafte Offenhalten 
 
 # § 11 – Nutzungseinschränkung für beleuchtete Werbeanlagen
 
-Der Betrieb beleuchteter oder lichtemittierender Werbeanlagen ist von 22 Uhr bis 16 Uhr des Folgetages untersagt. Dies gilt nicht, wenn die Beleuchtung zur Aufrechterhaltung der Verkehrssicherheit oder zur Abwehr anderer Gefahren erforderlich ist und nicht kurzfristig durch andere Maßnahmen ersetzt werden kann.
+Der Betrieb beleuchteter oder lichtemittierender Werbeanlagen ist von 22 Uhr bis 6 Uhr des Folgetages untersagt. Ausgenommen sind der Betrieb von Werbeanlagen während der Öffnungszeiten, die als Hinweise auf Gewerbe oder Beruf am selben Ort dienen, sowie der Betrieb von Werbeanlagen während Sport- und Kulturveranstaltungen. Satz 1 ist nicht anzuwenden, wenn die Beleuchtung zur Vermeidung von technischen Schäden, zur Aufrechterhaltung der Verkehrssicherheit oder zur Abwehr anderer Gefahren erforderlich ist und nicht kurzfristig durch andere Maßnahmen ersetzt werden kann.
 
 # § 12 – Mindestwerte der Lufttemperatur für Arbeitsräume in Arbeitsstätten
 

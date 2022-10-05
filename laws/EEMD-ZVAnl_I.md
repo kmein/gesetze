@@ -1,7 +1,7 @@
 % Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen  (Prüfvereinbarung)
 % Ausfertigungsdatum: 20.03.2018
  
-# Anlage I – (Prüfvereinbarung)
+# Anlage I – Prüfvereinbarung
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -270,8 +270,6 @@ c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benöt
 (12) Die Anwendbarkeit der - auch strafrechtlichen - Bestimmungen des Bundesdatenschutzgesetzes (BDSG) und anderer Rechtsvorschriften zum Schutz der Vertraulichkeit und die Geltendmachung von Unterlassungs- sowie von weitergehenden Schadensersatzansprüchen des Mauterhebers bleiben von den Regelungen dieses Paragraphen unberührt.
 
 (13) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
-
-(+++ § 17 Abs. 3 und Abs. 8: Zur Anwendung vgl. § 16 Abs. 6 +++)
 
 # § 18 – Gewerbliche Schutzrechte
 
@@ -2510,8 +2508,6 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 2.3 P2-003: Überwachung des EETS-Anbieters
 
 2.4 P2-005: korrekte Kontrollprozesse
-
-Anlage 3 Anhang B Nr. 2.2 Tabelle 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kennzeichung" durch das Wort "Kennzeichnung" ersetzt
 
 # Anlage 4 – zur Prüfvereinbarung
 

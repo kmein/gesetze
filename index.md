@@ -2319,7 +2319,6 @@
 - [GasLastV](laws/GasLastV.md) Verordnung über die Sicherstellung der Gasversorgung
 - [GasNEV](laws/GasNEV.md) Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen
 - [GasNZV](laws/GasNZV.md) Verordnung über den Zugang zu Gasversorgungsnetzen
-- [GasPrAnpV](laws/GasPrAnpV.md) Verordnung nach § 26 des Energiesicherungsgesetzes über einen finanziellen Ausgleich durch eine saldierte Preisanpassung
 - [GasSpBefüllV](laws/GasSpBefüllV.md) Verordnung zur Zurverfügungstellung unterbrechbarer Speicherkapazitäten zur Gewährleistung der Versorgungssicherheit
 - [GasSpFüllstV](laws/GasSpFüllstV.md) Verordnung zur Anpassung von Füllstandsvorgaben für Gasspeicheranlagen
 - [GasSV](laws/GasSV.md) Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
@@ -5890,6 +5889,7 @@
 - [VersorgAusglUmrFaktorBek 2021](laws/VersorgAusglUmrFaktorBek_2021.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2022](laws/VersorgAusglUmrFaktorBek_2022.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgLErstV](laws/VersorgLErstV.md) Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet
+- [VersResAbV](laws/VersResAbV.md) Verordnung zur befristeten Ausweitung des Stromerzeugungsangebots durch Anlagen aus der Versorgungsreserve
 - [VersRücklG](laws/VersRücklG.md) Gesetz über eine Versorgungsrücklage des Bundes
 - [VersRuhG](laws/VersRuhG.md) Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen
 - [VersStDV 2021](laws/VersStDV_2021.md) Verordnung zur Durchführung des Versicherungsteuergesetzes
