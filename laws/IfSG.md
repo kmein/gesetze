@@ -189,7 +189,7 @@ Schutzmaßnahmen
 
 § 28a
 
-Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
 
 § 28b
 
@@ -2200,7 +2200,7 @@ Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des Tiergesundheitsgesetz
 
 (3) Für Maßnahmen nach den Absätzen 1 und 2 gilt § 16 Abs. 5 bis 8, für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
-# § 28a – Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite
+# § 28a – Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
 
 (1) Notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) können für die Dauer der Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5 Absatz 1 Satz 1 durch den Deutschen Bundestag insbesondere sein
 
@@ -2258,47 +2258,7 @@ Schutzmaßnahmen nach Absatz 1 Nummer 16 dürfen nicht zur vollständigen Isolat
 
 (6) Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1, nach § 28 Absatz 1 Satz 1 und 2 und nach den §§ 29 bis 31 können auch kumulativ angeordnet werden, soweit und solange es für eine wirksame Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich ist. Bei Entscheidungen über Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) sind soziale, gesellschaftliche und wirtschaftliche Auswirkungen auf den Einzelnen und die Allgemeinheit einzubeziehen und zu berücksichtigen, soweit dies mit dem Ziel einer wirksamen Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) vereinbar ist. Einzelne soziale, gesellschaftliche oder wirtschaftliche Bereiche, die für die Allgemeinheit von besonderer Bedeutung sind, können von den Schutzmaßnahmen ausgenommen werden, soweit ihre Einbeziehung zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) nicht zwingend erforderlich ist.
 
-(7) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein, soweit sie zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich sind:
-
-1. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz) in
-
-a) Arztpraxen sowie in Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 Nummer 1 bis 5, 11 und 12 sowie § 35 Absatz 1 Satz 1, soweit die Verpflichtung zur Abwendung einer Gefahr für Personen, die auf Grund ihres Alters oder ihres Gesundheitszustandes ein erhöhtes Risiko für einen schweren oder tödlichen Krankheitsverlauf der Coronavirus-Krankheit-2019 (COVID-19) haben, erforderlich ist,
-
-b) Verkehrsmitteln des öffentlichen Personennahverkehrs für Fahrgäste sowie das Kontroll- und Servicepersonal und das Fahr- und Steuerpersonal, soweit für dieses tätigkeitsbedingt physischer Kontakt zu anderen Personen besteht, und
-
-c) Einrichtungen nach § 36 Absatz 1 Nummer 3 und 4,
-
-2. die Verpflichtung zur Testung auf das Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 in
-
-a) Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 Nummer 1 und 11 sowie nach § 35 Absatz 1 Satz 1 und § 36 Absatz 1 Nummer 4,
-
-b) Schulen, Kindertageseinrichtungen und
-
-c) Justizvollzugsanstalten, Abschiebungshafteinrichtungen, Maßregelvollzugseinrichtungen sowie anderen Abteilungen oder Einrichtungen, wenn und soweit dort dauerhaft freiheitsentziehende Unterbringungen erfolgen, insbesondere psychiatrische Krankenhäuser, Heime der Jugendhilfe und für Senioren.
-
-Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben unberührt. Die Absätze 3, 5 und 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
-
-(8) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können in einer konkret zu benennenden Gebietskörperschaft, in der durch eine epidemische Ausbreitung der Coronavirus-Krankheit 2019 (COVID-19) die konkrete Gefahr einer sich dynamisch ausbreitenden Infektionslage besteht, über den Absatz 7 hinaus auch folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne von § 28 Absatz 1 Satz 1 und 2 sein, sofern das Parlament des betroffenen Landes das Vorliegen der konkreten Gefahr und die Anwendung konkreter Maßnahmen in dieser Gebietskörperschaft feststellt:
-
-1. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz),
-
-2. die Anordnung eines Abstandsgebots mit einem Abstand von 1,5 Metern (Mindestabstand) im öffentlichen Raum, insbesondere in öffentlich zugänglichen Innenräumen,
-
-3. die Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises nach § 22a Absatz 1 bis 3 einschließlich der Vorlage eines amtlichen Lichtbildausweises sowie an die Vorlage solcher Nachweise anknüpfende Beschränkungen des Zugangs in Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 und § 35 Absatz 1 Satz 1 sowie § 36 Absatz 1 sowie in Betrieben, in Einrichtungen oder Angeboten mit Publikumsverkehr,
-
-4. die Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten, die die Bereitstellung von Desinfektionsmitteln, die Vermeidung unnötiger Kontakte und Lüftungskonzepte vorsehen können, für Einrichtungen im Sinne von § 23 Absatz 3 Satz 1 und § 36 Absatz 1 und für die in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betriebe, Gewerbe, Einrichtungen, Angebote, Veranstaltungen, Reisen und Ausübungen.
-
-Eine konkrete Gefahr einer sich dynamisch ausbreitenden Infektionslage nach Satz 1 besteht, wenn
-
-1. in der jeweiligen Gebietskörperschaft die Ausbreitung einer Virusvariante des Coronavirus SARS-CoV-2 festgestellt wird, die eine signifikant höhere Pathogenität aufweist, oder
-
-2. auf Grund einer besonders hohen Anzahl von Neuinfektionen oder eines besonders starken Anstiegs an Neuinfektionen eine Überlastung der Krankenhauskapazitäten in der jeweiligen Gebietskörperschaft droht.
-
-Die Absätze 3, 5 und 6 gelten entsprechend. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die Feststellung erneut trifft; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der erneuten Feststellung erneut die Feststellung trifft.
-
-(9) (weggefallen)
-
-(10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss spätestens mit Ablauf des 30. September 2022 außer Kraft treten. Nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des 30. September 2022 aufgehoben werden. Eine vor dem 19. März 2022 auf Grundlage von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in der jeweils am 18. März 2022 geltenden Fassung in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung darf bis zum Ablauf des 2. April 2022 aufrechterhalten werden, soweit die in der jeweiligen Rechtsverordnung genannten Maßnahmen auch nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein könnten.
+(7) - (10) (weggefallen)
 
 # § 28b – Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
 
