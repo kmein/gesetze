@@ -1,4 +1,4 @@
-% Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung  (BMVI-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung - BMVI-WS-BGebV)
+% Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung  (BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung - BMDV-WS-BesGebV)
 % Ausfertigungsdatum: 28.10.2021
  
 # Eingangsformel
