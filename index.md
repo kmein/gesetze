@@ -1503,6 +1503,7 @@
 - [DIMDIZustAnO](laws/DIMDIZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Deutschen Instituts für Medizinische Dokumentation und Information in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
 - [DIMRG](laws/DIMRG.md) Gesetz über die Rechtsstellung und Aufgaben des Deutschen Instituts für Menschenrechte
 - [DIndBVermVerwG](laws/DIndBVermVerwG.md) Gesetz über die Verwendung des Vermögens der Deutschen Industriebank
+- [DiPAV](laws/DiPAV.md) Verordnung zur Prüfung der Erstattungsfähigkeit digitaler Pflegeanwendungen nach dem Elften Buch Sozialgesetzbuch
 - [DiplBezÜbk](laws/DiplBezÜbk.md) Wiener Übereinkommen über diplomatische Beziehungen
 - [DiplBezÜbkG](laws/DiplBezÜbkG.md) Gesetz zu dem Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen
 - [DiplSchKonv](laws/DiplSchKonv.md) Übereinkommen über die Verhütung, Verfolgung und Bestrafung von Straftaten gegen völkerrechtlich geschützte Personen einschließlich Diplomaten

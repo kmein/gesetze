@@ -87,28 +87,27 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung, 
 
 # Anlage
 
-(Fundstelle: BGBl. I 2021, 2232 – 2243)
+(Fundstelle: BGBl. I 2022, 1553 — 1565)
 
   
   
 
 Vorbemerkung
 
-Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle denkbaren geladenen Formen, Stereoisomere und Salze eines erfassten Stoffes ein, soweit solche existieren. In den Stoffgruppendefinitionen festgelegte Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
+Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle denkbaren geladenen Formen, Stereoisomere und Salze eines erfassten Stoffes ein. In den Stoffgruppendefinitionen festgelegte Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
-1  
-Von 2-Phenethylamin abgeleitete Verbindungen
+1. Von 2-Phenethylamin abgeleitete Verbindungen
 
 Eine von 2-Phenethylamin abgeleitete Verbindung ist jede chemische Verbindung, die von einer 2-Phenylethan-1-amin-Grundstruktur abgeleitet werden kann (ausgenommen 2-Phenethylamin selbst), eine maximale Molekülmasse von 500 u hat und dem nachfolgend beschriebenen modularen Aufbau aus Strukturelement A und Strukturelement B entspricht.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0010.jpg)
 
 1.1  
 Strukturelement A
 
 Für das Strukturelement A sind die folgenden Ringsysteme eingeschlossen, wobei sich das Strukturelement B an jeder Position des Strukturelements A befinden kann: Phenyl-, Naphthyl-, Tetralinyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Furyl-, Pyrrolyl-, Thienyl-, Pyridyl-, Benzofuranyl-, Dihydrobenzofuranyl-, Indanyl-, Indenyl-, Tetrahydrobenzodifuranyl-, Benzodifuranyl-, Tetrahydrobenzodipyranyl-, Cyclopentyl-, Cyclohexyl-.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0030.jpg)
 
 1.2  
 Strukturelement B
@@ -117,35 +116,34 @@ Die 2-Aminoethyl-Seitenkette des Strukturelements B kann mit folgenden Atomen, A
 
 a) R<sub>1</sub> und R<sub>2</sub> am Stickstoffatom:
 
-Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (bis C<sub>6</sub>), Benzyl-, Alkenyl- (bis C<sub>6</sub>), Alkinyl- (bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>6</sub>), Hydroxy- und Aminogruppen. Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines cyclischen Systems ist (beispielsweise Pyrrolidinyl-, Piperidinyl-). Ein Ringschluss des Stickstoffatoms unter Einbeziehung von Teilen des Strukturelements B (Reste R<sub>3</sub> bis R<sub>6</sub>) ist dabei möglich, wobei die dabei entstehende Molekülstruktur hinsichtlich der Substituenten auch ohne den erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2 Buchstabe a sein muss. Die dabei entstehenden Ringsysteme können die Elemente Kohlenstoff, Sauerstoff, Schwefel, Stickstoff und Wasserstoff enthalten. Diese Ringsysteme dürfen fünf bis sieben Atome umfassen. Eine Doppelbindung als Brücke zum Strukturelement B ist möglich. Die Reste R<sub>1</sub>/R<sub>2</sub> können ausschließlich in dem bei einem Ringschluss mit Teilen des Strukturelements B entstehenden Ringsystem als doppelt gebundener Rest (Iminstruktur) vorliegen.
+Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (bis C<sub>6</sub>), Benzyl-, Alkenyl- (bis C<sub>6</sub>), Alkinyl- (bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>6</sub>), Hydroxy- und Aminogruppen. Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines nicht aromatischen gesättigten oder ungesättigten cyclischen Systems ist (beispielsweise Pyrrolidinyl-, Piperidinyl-). Ein Ringschluss des Stickstoffatoms unter Einbeziehung von Teilen des Strukturelements B (Reste R<sub>3</sub> bis R<sub>6</sub>) ist möglich. Die dabei entstehende Molekülstruktur muss hinsichtlich der Substituenten auch ohne den erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2 Buchstabe a sein. Die dabei entstehenden Ringsysteme können die Elemente Kohlenstoff, Sauerstoff, Schwefel, Stickstoff und Wasserstoff enthalten. Diese Ringsysteme dürfen fünf bis sieben Atome umfassen. Eine Doppelbindung als Brücke zum Strukturelement B ist möglich. Die Reste R<sub>1</sub>/R<sub>2</sub> können ausschließlich in dem bei einem Ringschluss mit Teilen des Strukturelements B entstehenden Ringsystem als doppelt gebundener Rest (Iminstruktur) vorliegen.
 
 Ausgenommen von den erfassten Stoffen der Stoffgruppe der von 2-Phenethylamin abgeleiteten Verbindungen sind Verbindungen, bei denen das Stickstoffatom direkt in ein cyclisches System integriert ist, das an das Strukturelement A anelliert ist.
 
-Die Substituenten R<sub>1</sub> und R<sub>2</sub> können weiterhin mit beliebigen, chemisch möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod substituiert sein. Die auf diese Weise entstehenden Substituenten R<sub>1</sub>/R<sub>2</sub> dürfen dabei eine durchgehende Kettenlänge von maximal zehn Atomen aufweisen (ohne Mitzählung von Wasserstoffatomen). Atome von Ringstrukturen werden dabei nicht in die Zählung einbezogen.
+Die Substituenten R<sub>1</sub> und R<sub>2</sub> können (bei Ringschlüssen nur nach dem Ringschluss) weiterhin mit beliebigen, chemisch möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod substituiert sein. Die auf diese Weise entstehenden Substituenten R<sub>1</sub>/R<sub>2</sub> dürfen dabei eine durchgehende Kettenlänge von maximal zehn Atomen aufweisen (ohne Mitzählung von Wasserstoffatomen). Atome von Ringstrukturen werden dabei nicht in die Zählung einbezogen.
 
 b) R<sub>3</sub> und R<sub>4</sub> am C<sub>1</sub>-Atom sowie R<sub>5</sub> und R<sub>6</sub> am C<sub>2</sub>-Atom:
 
-Wasserstoff, Fluor, Chlor, Brom, Iod, Alkyl- (bis C<sub>10</sub>), Cycloalkyl- (bis C<sub>10</sub>), Benzyl-, Phenyl-, Alkenyl- (bis C<sub>10</sub>), Alkinyl- (bis C<sub>10</sub>), Hydroxy-, Alkoxy- (bis C<sub>10</sub>), Alkylsulfanyl- (bis C<sub>10</sub>), Alkyloxycarbonylgruppen (bis C<sub>10</sub>), einschließlich der chemischen Verbindungen, bei denen Substitutionen zu einem Ringschluss mit dem Strukturelement A oder zu Ringsystemen, die die Reste R<sub>3</sub> bis R<sub>6</sub> enthalten, führen. Diese Ringsysteme dürfen vier bis sechs Atome umfassen.
+Wasserstoff, Fluor, Chlor, Brom, Iod, Alkyl- (bis C<sub>10</sub>), Cycloalkyl- (bis C<sub>10</sub>), Benzyl-, Phenyl-, Alkenyl- (bis C<sub>10</sub>), Alkinyl- (bis C<sub>10</sub>), Hydroxy-, Alkoxy- (bis C<sub>10</sub>), Alkylsulfanyl- (bis C<sub>10</sub>), Alkyloxycarbonylgruppen (bis C<sub>10</sub>), einschließlich der chemischen Verbindungen, bei denen Substitutionen zu einem Ringschluss mit dem Strukturelement A oder zu Ringsystemen, die die Reste R<sub>3</sub> bis R<sub>6</sub> enthalten, führen können. Diese Ringsysteme dürfen vier bis sechs Atome umfassen.
 
 Die aufgeführten Atomgruppen und Ringsysteme können zudem mit beliebigen, chemisch möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod substituiert sein. Die auf diese Weise entstehenden Substituenten R<sub>3</sub> bis R<sub>6</sub> dürfen dabei eine durchgehende Kettenlänge von maximal zwölf Atomen aufweisen (ohne Mitzählung von Wasserstoffatomen). Atome von Ringstrukturen werden dabei nicht in die Zählung einbezogen.
 
 Sofern die Reste R<sub>3</sub> bis R<sub>6</sub> Bestandteil eines Ringsystems sind, das das Stickstoffatom des Strukturelements B enthält, gelten für weitere Substituenten die Beschränkungen gemäß Buchstabe a.
 
-c) Carbonylgruppe in beta-Stellung zum Stickstoffatom (sogenannte bk-Derivate, siehe Abbildung der Cathinon-Grundstruktur unter Nummer 1.: R<sub>5</sub> und R<sub>6</sub> am C<sub>2</sub>-Atom: Carbonylgruppe (C=O)).
+c) Carbonylgruppe in beta-Stellung zum Stickstoffatom (sogenannte bk-Derivate, siehe Abbildung der Cathinon-Grundstruktur unter Nummer 1: R<sub>5</sub> und R<sub>6</sub> am C<sub>2</sub>-Atom: Carbonylgruppe (C=O)).
 
-2  
-Cannabimimetika/synthetische Cannabinoide
+2. Cannabimimetika/synthetische Cannabinoide
 
 2.1  
 Von Indol, Pyrazol und 4-Chinolon abgeleitete Verbindungen
 
-Ein Cannabimimetikum bzw. ein synthetisches Cannabinoid der von Indol, Pyrazol und 4‑Chinolon abgeleiteten Verbindungen ist jede chemische Verbindung, die dem nachfolgend anhand eines Strukturbeispiels beschriebenen modularen Aufbau mit einer Kernstruktur entspricht, die an einer definierten Position über eine Brücke mit einem Brückenrest verknüpft ist und die an einer definierten Position der Kernstruktur eine Seitenkette trägt.
+Ein Cannabimimetikum bzw. ein synthetisches Cannabinoid der von Indol, Pyrazol oder 4‑Chinolon abgeleiteten Verbindungen ist jede chemische Verbindung, die dem nachfolgend anhand eines Strukturbeispiels beschriebenen modularen Aufbau mit einer Kernstruktur entspricht. Die Verbindung ist an einer definierten Position über eine Brücke mit einem Brückenrest verknüpft und trägt an einer definierten Position der Kernstruktur eine Seitenkette.
 
 Die Abbildung verdeutlicht den modularen Aufbau am Beispiel des 1-Fluor-JWH-018:
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0210.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0210.jpg) |
 
 1-Fluor-JWH-018 besitzt eine Indol-1,3-diyl-Kernstruktur, eine Carbonyl-Brücke in Position 3, einen 1-Naphthyl-Brückenrest und eine 1-Fluorpentyl-Seitenkette in Position 1.
 
@@ -154,11 +152,11 @@ Kernstruktur, Brücke, Brückenrest und Seitenkette werden wie folgt definiert:
 2.1.1  
 Kernstruktur
 
-Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis g beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis f können an den in den nachfolgenden Abbildungen gekennzeichneten Positionen mit einer beliebigen Kombination der Atome Wasserstoff, Fluor, Chlor, Brom, Iod und Phenyl-, Methyl-, Methoxy- und Nitrogruppen als Atomgruppen (Reste R<sub>1</sub> bis R<sub>3</sub>) substituiert sein.
+Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis h beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis g können an den in den nachfolgenden Abbildungen gekennzeichneten Positionen mit einer beliebigen Kombination der Atome Wasserstoff, Fluor, Chlor, Brom, Iod und Phenyl-, Methyl-, Methoxy- und Nitrogruppen als Atomgruppen (Reste R<sub>1</sub> bis R<sub>3</sub>) substituiert sein.
 
 Der Rest R der vom 4-Chinolon abgeleiteten Verbindungen (Buchstabe g) kann aus den folgenden Atomen oder Atomgruppen bestehen: Wasserstoff, Fluor, Chlor, Brom, Iod und Phenylthiogruppe (Anbindung über den Schwefel an die Kernstruktur).
 
-Die Wellenlinie gibt den Bindungsort für die Brücke an, die durchbrochene Linie gibt den Bindungsort für die Seitenkette an:
+Die Wellenlinie gibt den Bindungsort für die Brücke an. Die durchbrochene Linie gibt den Bindungsort für die Seitenkette an:
 
 a)
 
@@ -167,13 +165,15 @@ Brücke an der Kernstruktur
 
 Die Brücke an der Kernstruktur schließt die folgenden Strukturelemente ein, die jeweils an der unter Nummer 2.1.1 bezeichneten Stelle an die Kernstruktur gebunden sind:
 
-a) Carbonyl- und Azacarbonylgruppen,
+a) Carbonyl-, Methylencarbonyl- (CH<sub>2</sub>-Gruppe an Kernstruktur geknüpft) und Azacarbonylgruppen,
 
-b) Carboxamidogruppe (Carbonylgruppe an Kernstruktur geknüpft), unter Einschluss von kohlenstoff- und wasserstoffhaltigen Substituenten am Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer 2.1.1, Buchstabe a): X = CH) einen Sechsring bilden.
+b) Carboxamidogruppe (Carbonylgruppe an Kernstruktur geknüpft), unter Einschluss von kohlenstoff- und wasserstoffhaltigen Substituenten am Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer 2.1.1 Buchstabe a: X = CH) einen Sechsring bilden,
 
 c) Carboxylgruppe (Carbonylgruppe an Kernstruktur geknüpft),
 
-d) direkt an die Kernstruktur angebundene Stickstoffheterocyclen, die auch weitere Stickstoff-, Sauerstoff- oder Schwefelatome enthalten können, mit einer Ringgröße von bis zu fünf Atomen sowie einer Doppelbindung zum Stickstoffatom an der Anknüpfungsstelle.
+d) direkt an die Kernstruktur angebundene Stickstoffheterocyclen, die auch weitere Stickstoff-, Sauerstoff- oder Schwefelatome enthalten können, mit einer Ringgröße von bis zu fünf Atomen sowie einer Doppelbindung zum Stickstoffatom an der Anknüpfungsstelle,
+
+e) Hydrazongruppe mit Doppelbindung vom Stickstoff zu Position 3 der Kernstruktur zu Nummer 2.1.1 Buchstabe c.
 
 2.1.3  
 Brückenrest
@@ -186,14 +186,14 @@ beliebig substituierte gesättigte, ungesättigte oder aromatische Ringstrukture
 bb)  
 beliebig substituierte Kettenstrukturen, die unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von maximal zwölf Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen.
 
-b) Brücken mit der Möglichkeit der Anbindung von mehreren Brückenresten (beispielsweise Brücken zu Nummer 2.1.2 Buchstabe b und zu Nummer 2.1.2 Buchstabe d können auch mehrere Brückenreste gemäß den Definitionen zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe aa und zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe bb tragen. Die Molekülmassenbeschränkung von insgesamt 400 u gilt dann für die Summe der Brückenreste.
+b) Brücken mit der Möglichkeit der Anbindung von mehreren Brückenresten, beispielsweise Brücken zu Nummer 2.1.2 Buchstabe b, d oder Buchstabe e, können auch mehrere Brückenreste gemäß den Definitionen zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe aa und zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe bb tragen. Die Molekülmassenbeschränkung von insgesamt 400 u gilt dann für die Summe der Brückenreste.
 
 2.1.4  
 Seitenkette
 
-Die Seitenkette kann beliebige Kombinationen der Atome Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod aufweisen, soweit sie nicht gemäß den Buchstaben a und b eingeschränkt werden. Die Seitenkette darf eine maximale Molekülmasse von 300 u aufweisen und muss jeweils an der unter Nummer 2.1.1 bezeichneten Stelle der Kernstruktur angebunden sein und kann folgende Strukturelemente aufweisen:
+Die Seitenkette kann beliebige Kombinationen der Atome Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod aufweisen, soweit sie nicht gemäß den Buchstaben a und b eingeschränkt werden. Die Seitenkette darf eine maximale Molekülmasse von 300 u aufweisen und muss jeweils an der unter Nummer 2.1.1 bezeichneten Stelle der Kernstruktur angebunden sein. Die Seitenkette kann folgende Strukturelemente aufweisen:
 
-a) beliebig substituierte Kettenstrukturen, die in der Kette neben Kohlenstoffatomen ausschließlich auch Sauerstoff- und Schwefelatome aufweisen können und unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von drei bis maximal sieben Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen.
+a) beliebig substituierte Kettenstrukturen, die innerhalb der Kette neben Kohlenstoffatomen ausschließlich auch Sauerstoff- und Schwefelatome aufweisen können und unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von drei bis maximal sieben Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen,
 
 b) direkt angebundene oder über eine Kohlenwasserstoffbrücke (gesättigt oder einfach ungesättigt, verzweigt oder nicht verzweigt, in Position 2 optional oxo-substituiert) mit insgesamt ein bis vier Kohlenstoffatomen gekoppelte, beliebig substituierte gesättigte, ungesättigte oder aromatische Ringstrukturen mit drei bis sieben Ringatomen einschließlich Polyzyklen und Heterozyklen. Bei den Polyzyklen darf jeder Ring drei bis sieben Ringatome aufweisen. Heterozyklen dürfen neben Kohlenstoff die Atome Sauerstoff, Stickstoff und Schwefel im Ring aufweisen. Eine mögliche freie Valenz eines Stickstoffatoms im Ring kann ein Wasserstoffatom oder einen Methyl- oder Ethylrest tragen.
 
@@ -216,10 +216,9 @@ a) Der Rest R<sub>1</sub> kann aus den folgenden Atomen oder Atomgruppen bestehe
 
 b) Der Rest R<sub>2</sub> kann aus den folgenden Ringsystemen bestehen: Phenyl-, Pyridyl-, Cumyl-, 8-Chinolinyl-,3-Isochinolinyl-, 1-Naphthyl- und Adamantylrest. Diese Ringsysteme können weiterhin mit beliebigen Kombinationen der folgenden Atome oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methoxy-, Amino-, Hydroxy-, Cyano-, Methyl- und Phenylethergruppen.
 
-c) Die Reste R<sub>3</sub> und R<sub>4</sub> können aus einer beliebigen Kombination der Atome oder Atomgruppen Wasserstoff, Methyl-, Ethyl-, Propyl- und Isopropylgruppen bestehen. Die Reste R<sub>3</sub> und R<sub>4</sub> können auch ein gesättigtes Ringsystem bis zu einer Größe von sieben Atomen einschließlich dem Stickstoffatom bilden. Dieses Ringsystem kann die weiteren Elemente Stickstoff, Sauerstoff und Schwefel enthalten und eine beliebige Kombination der Elemente Wasserstoff, Fluor, Chlor, Brom und Iod tragen. Für die Substitution des Stickstoffatoms in einem solchen Ring gelten die für die Reste R<sub>3</sub> und R<sub>4</sub> in Satz 1 angegebenen Substitutionsmöglichkeiten.
+c) Die Reste R<sub>3</sub> und R<sub>4</sub> können aus einer beliebigen Kombination der Atome oder Atomgruppen Wasserstoff, Methyl-, Ethyl-, Propyl- und Isopropylgruppen bestehen. Die Reste R<sub>3</sub> und R<sub>4</sub> können auch ein gesättigtes Ringsystem bis zu einer Größe von sieben Atomen einschließlich des Stickstoffatoms bilden. Dieses Ringsystem kann die weiteren Elemente Stickstoff, Sauerstoff und Schwefel enthalten und eine beliebige Kombination der Elemente Wasserstoff, Fluor, Chlor, Brom und Iod tragen. Für die Substitution des Stickstoffatoms in einem solchen Ring gelten die für die Reste R<sub>3</sub> und R<sub>4</sub> in Satz 1 von Buchstaben c angegebenen Substitutionsmöglichkeiten.
 
-3  
-Benzodiazepine
+3. Benzodiazepine
 
 Die Gruppe der Benzodiazepine umfasst 1,4- und 1,5-Benzodiazepine und ihre Triazolo- und Imidazolo-Derivate (Nummer 3.1 Buchstabe a und b) sowie einige speziell substituierte Untergruppen dieser Benzodiazepine (Nummer 3.1 Buchstabe c bis f). Die maximale Molekülmasse beträgt jeweils 600 u.
 
@@ -232,35 +231,35 @@ a) 1,4-Benzodiazepine
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0350.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0360.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0370.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0360.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0370.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0380.jpg) |
 
 b) 1,5-Benzodiazepine
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0380.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0390.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0400.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0390.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0400.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0410.jpg) |
 
 c) Loprazolam-Abkömmlinge
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0410.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0420.jpg)
 
 d) Ketazolam-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0420.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0430.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0440.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0430.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0440.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0450.jpg) |
 
 e) Oxazolam-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0450.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0460.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0470.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0460.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0470.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0480.jpg) |
 
 f) Chlordiazepoxid-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0480.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0490.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0500.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0490.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0500.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0510.jpg) |
 
 3.2  
 Reste R<sub>1</sub>bis R<sub>7</sub>und X
@@ -289,7 +288,7 @@ e) Die Reste R<sub>3</sub> und R<sub>4</sub> können auch gemeinsam eine Carbony
 
 f) Der Rest R<sub>5</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
 
-Wasserstoff, Methyl-, Ethyl-, (N,N-Dimethylamino)methyl-, (N,N-Diethylamino)methyl-, (N,N-Dimethylamino)ethyl-, (N,N-Diethylamino)ethyl-, (Cyclopropyl)methyl-, (Trifluormethyl)methyl- und Prop-2-in-1-yl-Gruppen.
+Wasserstoff, Methyl-, Ethyl-, (N,N-Dimethylamino)methyl-, (N,N-Diethylamino)methyl-, (N,N-Dimethylamino)ethyl-, (N,N-Diethylamino)ethyl-, (Cyclopropyl)methyl-, (Trifluormethyl)methyl- und Prop-2-in-1-ylgruppen.
 
 g) Der Rest R<sub>6</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
 
@@ -305,16 +304,15 @@ j) Bei den 1,5-Benzodiazepinen kann statt R<sub>2</sub> und R<sub>7</sub> auch e
 
 k) Der Rest X schließt folgende Substituenten ein:
 
-Sauerstoff, Schwefel, Imino- und N-Methyliminogruppen. Wenn R<sub>5</sub> aus Wasserstoff besteht, können als tautomere Formen auch die entsprechenden Enole, Thioenole oder Enamine vorliegen.
+Sauerstoff, Schwefel, Imino- und N-Methyliminogruppen. Wenn R<sub>3</sub>, R<sub>4</sub> oder R<sub>5</sub> aus Wasserstoff besteht, können als tautomere Formen auch die entsprechenden Enole, Thioenole oder Enamine vorliegen.
 
-4  
-Von N-(2-Aminocyclohexyl)amid abgeleitete Verbindungen
+4. Von N-(2-Aminocyclohexyl)amid abgeleitete Verbindungen
 
 Eine von N-(2-Aminocyclohexyl)amid abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0510.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0520.jpg) |
 
 Die Grundstruktur N-(2-Aminocyclohexyl)amid kann an den in der Abbildung gekennzeichneten Positionen mit einer beliebigen Kombination der folgenden Atome, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>6</sub>) substituiert sein:
 
@@ -328,7 +326,7 @@ Der Rest R<sub>1</sub> oder R<sub>2</sub> kann auch an die Bindungsstelle der NR
 
 b) R<sub>3</sub>:
 
-Wasserstoff, Oxaspirogruppe (Ringgröße von zwei bis sieben Kohlenstoffatomen).
+Wasserstoff, Oxaspirogruppe (Ringgröße von drei bis acht Atomen einschließlich des Sauerstoffatoms).
 
 c) R<sub>4</sub>:
 
@@ -336,14 +334,13 @@ Wasserstoff, Alkylgruppe (bis C<sub>5</sub>).
 
 d) R<sub>5</sub> und R<sub>6</sub>:
 
-Der Phenylring kann an den Positionen 2, 3, 4, 5 und 6 beliebige Kombinationen folgender Substituenten enthalten: Wasserstoff, Brom, Chlor, Fluor, Iod.
+Der Phenylring kann an den Positionen 2, 3, 4, 5 und 6 beliebige Kombinationen folgender Substituenten enthalten: Wasserstoff, Brom, Chlor, Fluor, Iod und Trifluormethyl.
 
 Ferner sind Stoffe eingeschlossen, bei denen R<sub>5</sub> und R<sub>6</sub> gemeinsam an benachbarten C-Atomen ein Ringsystem (bis C<sub>6</sub>) unter Einbeziehung von Heteroatomen (Sauerstoff, Schwefel, Stickstoff) bilden. Im Fall eines Stickstoffs in diesem Ringsystem darf dieser die Substituenten Wasserstoff und Methylgruppe tragen.
 
 Die Anzahl (n) der Methylengruppen (CH<sub>2</sub>)n zwischen dem Phenylring und der Carbonylgruppe in der Kernstruktur kann null oder eins betragen.
 
-5  
-Von Tryptamin abgeleitete Verbindungen
+5. Von Tryptamin abgeleitete Verbindungen
 
 5.1  
 Indol-3-alkylamine
@@ -352,13 +349,13 @@ Eine von Indol-3-alkylamin abgeleitete Verbindung ist jede chemische Verbindung,
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0520.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0530.jpg) |
 
 Die Grundstruktur Indol-3-alkylamin kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>5</sub> und R<sub>n</sub>) substituiert sein:
 
 a) R<sub>1</sub> und R<sub>2</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (bis C<sub>6</sub>), Cycloalkylmethyl- (bis C<sub>6</sub>) und Allylgruppen.
+Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (Ringgröße bis C<sub>6</sub>), Cycloalkylmethyl- (Ringgröße bis C<sub>6</sub>) und Allylgruppen.
 
 Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines Pyrrolidinyl-Ringsystems ist.
 
@@ -372,7 +369,7 @@ Wasserstoff, Alkylgruppe (bis C<sub>2</sub>).
 
 d) R<sub>5</sub>:
 
-Wasserstoff, Alkylgruppe (bis C<sub>3</sub>).
+Wasserstoff, Alkyl- (bis C<sub>3</sub>), Alkylcarbonyl- (bis C<sub>10</sub>), Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
 
 e) R<sub>n</sub>:
 
@@ -387,32 +384,31 @@ Eine von Δ9,10</sup>-Ergolen abgeleitete Verbindung ist jede chemische Verbindu
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0530.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0540.jpg) |
 
 Die Grundstruktur Δ9,10</sup>-Ergolen kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub>) substituiert sein:
 
 a) R<sub>1</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>3</sub>) und Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Alkylcarbonyl (bis C<sub>4</sub>)-Gruppen.
+Wasserstoff, Alkyl- (bis C<sub>8</sub>), Cycloalkylmethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Alkylcarbonyl (bis C<sub>10</sub>)-Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
 
 b) R<sub>2</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>4</sub>), Allyl- und Prop-2-in-1-yl-Gruppen.
+Wasserstoff, Alkyl- (bis C<sub>4</sub>), Allyl- und Prop-2-in-1-ylgruppen.
 
 c) R<sub>3</sub> und R<sub>4</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>5</sub>), Cyclopropyl-, Allyl- und 1-Hydroxyalkyl (bis C<sub>2</sub>)-Gruppen.
+Wasserstoff, Alkyl- (bis C<sub>5</sub>), Cyclopropyl-, 1-Hydroxyalkyl- (bis C<sub>2</sub>) und Allylgruppen.
 
 Ferner sind Stoffe eingeschlossen, bei denen das Amid-Stickstoffatom Bestandteil eines Morpholino-, Pyrrolidino- oder Dimethylazetidid-Ringsystems ist.
 
-6  
-Von Arylcyclohexylamin abgeleitete Verbindung
+6. Von Arylcyclohexylamin abgeleitete Verbindungen
 
 Eine von Arylcyclohexylamin abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0540.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0550.jpg) |
 
 Die Grundstruktur Arylcyclohexylamin kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>3</sub> und R<sub>n</sub>) substituiert sein:
 
@@ -428,26 +424,25 @@ b) R<sub>3</sub>:
 
 Alkyl- (bis C<sub>6</sub>), Alkinylgruppen (bis C<sub>6</sub>) oder folgende Ringsysteme: Phenyl-, Pyrrolyl-, Pyridyl-, Thienyl-, Furanyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Dihydrobenzofuranyl-, Benzothiophenyl-Reste.
 
-Die Ringsysteme können an jeder chemisch möglichen Position als R<sub>3</sub> an die Kernstruktur angebunden sein und an beliebiger Position mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Alkylsulfanyl- (bis C<sub>6</sub>), Aminogruppen, einschließlich der chemischen Verbindungen, bei denen Substitutionen zu Ringsystemen oder einem Ringschluss mit dem Cyclohexylring führen. Diese Ringsysteme dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
+Die Ringsysteme können an jeder chemisch möglichen Position als R<sub>3</sub> an die Kernstruktur angebunden sein und an beliebiger Position mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Thiol-, Alkyl-(bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Alkylsulfanyl- (bis C<sub>6</sub>), Aminogruppen, einschließlich der chemischen Verbindungen, bei denen Substitutionen oder eine direkte Anbindung zu einem Ringschluss mit dem Cyclohexylring führen. Diese Ringsysteme dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
 
 c) R<sub>n</sub>:
 
 Das Cyclohexylringsystem kann an den Positionen zwei bis sechs mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Hydroxy-, Phenylalkylgruppen (in der Alkylkette C<sub>1</sub> bis C<sub>4</sub>) und Oxo (=O, doppelt gebundenes Sauerstoffatom am Ring).
 
-7  
-Von Benzimidazol abgeleitete Verbindung
+7. Von Benzimidazol abgeleitete Verbindungen
 
 Eine von Benzimidazol abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann:
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j2231-1_0550.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0560.jpg) |
 
 Die Grundstruktur kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub> und R<sub>n</sub>) substituiert sein:
 
 a) R<sub>1</sub> und R<sub>2</sub>:
 
-Wasserstoff, Alkylgruppen (bis C<sub>3</sub>),
+Wasserstoff, Alkylgruppen (bis C<sub>3</sub>).
 
 Ferner sind Stoffe eingeschlossen, bei denen das Amin-Stickstoffatom Bestandteil eines Morpholino-, Pyrrolidino- oder Piperidinyl-Ringsystems ist.
 
@@ -457,4 +452,4 @@ Wasserstoff, Nitro-, Trifluormethyl-, Methoxy-, Trifluormethoxy-, Cyanogruppen, 
 
 c) R<sub>n</sub>:
 
-Der Phenylring kann an den Positionen zwei bis sechs mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C<sub>4</sub>), Alkoxy- (bis C<sub>4</sub>), Trifluormethoxy-, Acetoxy-, Alkylsulfanyl- (bis C<sub>4</sub>), Trifluormethyl-, Hydroxy-, Cyanogruppen, Fluor, Chlor, Brom und Iod.
+Der Phenylring kann an den Positionen zwei bis sechs mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>5</sub>), Trifluormethoxy-, Acetoxy-, Alkylsulfanyl- (bis C<sub>5</sub>), Trifluormethyl-, Hydroxy-, Cyanogruppen, Fluor, Chlor, Brom und Iod.

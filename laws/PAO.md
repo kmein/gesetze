@@ -867,8 +867,6 @@ Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann ausgeschlossen sein,
 
 (4) Die persönliche berufsrechtliche Verantwortlichkeit der Gesellschafter, Organmitglieder und sonstigen Mitarbeiter der Berufsausübungsgesellschaft bleibt unberührt.
 
-§ 52e Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
-
 # § 52f – Zulassung
 
 (1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die Patentanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen Personengesellschaften, bei denen keine Beschränkung der Haftung der natürlichen Personen vorliegt und denen als Gesellschafter und als Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich Patentanwälte oder Angehörige eines in § 52c Absatz 1 Satz 1 Nummer 1 genannten Berufs angehören. Unberührt von Satz 2 bleibt der freiwillige Antrag auf eine Zulassung.
@@ -884,8 +882,6 @@ Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann ausgeschlossen sein,
 Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverfahren über das Vermögen der Berufsausübungsgesellschaft eröffnet ist oder die Berufsausübungsgesellschaft in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Mit der Zulassung wird die Berufsausübungsgesellschaft Mitglied der zulassenden Patentanwaltskammer.
-
-§ 52f Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
 
 # § 52g – Zulassungsverfahren; Anzeigepflicht
 

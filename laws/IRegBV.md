@@ -57,17 +57,17 @@ Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des Implantateregi
 
 # § 1 – Brustimplantate
 
-(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Januar 2023 zu erfüllen. Bis zum 31. Dezember 2022 finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
+(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Januar 2024 zu erfüllen. Bis zum 31. Dezember 2023 finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
 
-(2) Für Brustimplantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Juli 2022 zu erfüllen.
+(2) Für Brustimplantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Juli 2023 zu erfüllen.
 
 (3) Nicht als Brustimplantate erfasst werden azelluläre dermale Matrices und chirurgische Netze.
 
 # § 2 – Verpflichtungen der Kostenträger
 
-(1) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des Implantateregistergesetzes ab dem 1. Juli 2022 zu erfüllen.
+(1) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des Implantateregistergesetzes ab dem 1. Juli 2023 zu erfüllen.
 
-(2) Die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 2 und 3 des Implantateregistergesetzes erstmals zum 1. Januar 2024 zu erfüllen.
+(2) Die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 2 und 3 des Implantateregistergesetzes erstmals zum 1. Januar 2025 zu erfüllen.
 
 # § 3 – Besetzung der Auswertungsgruppen
 
@@ -209,27 +209,29 @@ Wird ein Mitglied oder ein stellvertretendes Mitglied abberufen oder scheidet es
 
 # § 15 – Datenübermittlung durch die verantwortlichen Gesundheitseinrichtungen
 
-(1) Die verantwortliche Gesundheitseinrichtung übermittelt zu jedem Behandlungsfall einer implantatbezogenen Maßnahme nach Maßgabe der folgenden Absätze
+(1) Die verantwortliche Gesundheitseinrichtung verwendet für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes ein eindeutiges Kennzeichen für die verantwortliche Gesundheitseinrichtung, das ihr von der Geschäftsstelle zugeteilt wird.
+
+(2) Die verantwortliche Gesundheitseinrichtung übermittelt nach Maßgabe der folgenden Absätze
 
 1. an die Registerstelle die Daten nach der Anlage 2 sowie
 
 2. an die Vertrauensstelle
 
-a) die Daten nach § 17 Absatz 1 Satz 2 Nummer 1, 4 und 5 des Implantateregistergesetzes und
+a) die Daten nach § 17 Absatz 1 Satz 2 Nummer 1 und 5 des Implantateregistergesetzes,
 
-b) ein internes Kennzeichen des gemeldeten Datensatzes, das eigens für die Meldung gebildet wird und keinen Rückschluss auf patienten- oder fallbezogene Daten zulässt.
+b) das eindeutige Kennzeichen nach Absatz 1 und
 
-Die verantwortliche Gesundheitseinrichtung ist verpflichtet, das interne Kennzeichen nach Satz 1 Nummer 2 Buchstabe b zusammen mit den Daten über die Behandlung der betroffenen Patientin oder des betroffenen Patienten aufzubewahren.
+c) ein internes Kennzeichen des gemeldeten Datensatzes, das eigens für die Meldung gebildet wird und keinen Rückschluss auf patienten- oder fallbezogene Daten zulässt.
 
-(2) Eine verantwortliche Gesundheitseinrichtung, die nicht über ein bundeseinheitliches Kennzeichen nach § 293 des Fünften Buches Sozialgesetzbuch verfügt, verwendet als eindeutiges Kennzeichen für die Übermittlungen nach Absatz 1 einen vom Bundesinstitut für Arzneimittel und Medizinprodukte vergebenen Objekt-Identifikator.
+Die Übermittlung kann für jede implantatbezogene Maßnahme einzeln oder zusammenhängend für alle während eines stationären oder ambulanten Aufenthalts vorgenommenen implantatbezogenen Maßnahmen erfolgen. Die verantwortliche Gesundheitseinrichtung ist verpflichtet, das interne Kennzeichen nach Satz 1 Nummer 2 Buchstabe c zusammen mit den Daten über die Behandlung der betroffenen Patientin oder des betroffenen Patienten aufzubewahren.
 
 (3) Die Vertrauensstelle pseudonymisiert in dem Verfahren nach § 9 Absatz 2 bis 4 des Implantateregistergesetzes jeweils die Daten
 
 1. nach § 17 Absatz 1 Satz 2 Nummer 1 des Implantateregistergesetzes sowie
 
-2. nach Absatz 1 Satz 1 Nummer 2 Buchstabe b und nach § 17 Absatz 1 Satz 2 Nummer 4 des Implantateregistergesetzes.
+2. nach Absatz 1 und 2 Satz 1 Nummer 2 Buchstabe c.
 
-(4) Die verantwortliche Gesundheitseinrichtung übermittelt der Vertrauensstelle den Datensatz nach Absatz 1 Satz 1 Nummer 2. Die Vertrauensstelle erzeugt eine Transfernummer und übermittelt diese an die verantwortliche Gesundheitseinrichtung. Die verantwortliche Gesundheitseinrichtung übermittelt die Daten nach Absatz 1 Satz 1 Nummer 1 zusammen mit der Transfernummer an die Registerstelle. Die Registerstelle ruft die nach Absatz 3 pseudonymisierten Daten mit Hilfe der Transfernummer bei der Vertrauensstelle ab und führt sie mit den nach Satz 3 übermittelten Daten zusammen.
+(4) Die verantwortliche Gesundheitseinrichtung übermittelt der Vertrauensstelle den Datensatz nach Absatz 2 Satz 1 Nummer 2. Die Vertrauensstelle erzeugt eine Transfernummer und übermittelt diese an die verantwortliche Gesundheitseinrichtung. Die verantwortliche Gesundheitseinrichtung übermittelt die Daten nach Absatz 2 Satz 1 Nummer 1 zusammen mit der Transfernummer an die Registerstelle. Die Registerstelle ruft die nach Absatz 3 pseudonymisierten Daten mit Hilfe der Transfernummer bei der Vertrauensstelle ab und führt sie mit den nach Satz 3 übermittelten Daten zusammen.
 
 (5) Die Transfernummer darf keinen Rückschluss auf die patienten- oder fallidentifizierenden Daten oder auf die implantatbezogene Maßnahme zulassen. Sie wird ausschließlich für die Übermittlung der Daten durch die verantwortliche Gesundheitseinrichtung und durch die Vertrauensstelle sowie für die Zusammenführung der Daten durch die Registerstelle verwendet. Sie ist zu löschen, wenn der Übermittlungsvorgang fehlschlägt oder
 
@@ -253,13 +255,13 @@ a) die durch die verantwortliche Gesundheitseinrichtung übermittelte Implantat-
 
 b) die verantwortliche Gesundheitseinrichtung der Registerstelle die Verwendung eines spezialangefertigten Implantats oder eines Implantats mit Sonderzulassung gemeldet hat, und
 
-4. einem aus den Angaben nach den Nummern 1 und 2 nach einem von der Registerstelle veröffentlichten Verfahren errechneten Hash-Wert.
+4. einem aus den Angaben nach den Nummern 1 bis 3 nach einem von der Registerstelle veröffentlichten Verfahren errechneten Hash-Wert.
 
 Die Registerstelle stellt den alphanumerischen Code der Meldebestätigung und den zugehörigen Hash-Wert in einer öffentlich zugänglichen Datenbank bereit.
 
 # § 17 – Berichtigung
 
-(1) Für die Vervollständigung oder Korrektur übermittelt die verantwortliche Gesundheitseinrichtung der Vertrauensstelle die Daten nach § 15 Absatz 1 Satz 1 Nummer 2 Buchstabe b und die Daten nach § 17 Absatz 1 Satz 2 Nummer 4 des Implantateregistergesetzes. Die Vertrauensstelle erzeugt eine Transfernummer und übermittelt diese an die verantwortliche Gesundheitseinrichtung. Die verantwortliche Gesundheitseinrichtung übermittelt die vervollständigten oder berichtigten Angaben zusammen mit der Transfernummer an die Registerstelle. Die Registerstelle ruft das nach § 15 Absatz 3 Nummer 2 gebildete Pseudonym mit Hilfe der Transfernummer bei der Vertrauensstelle ab, führt es mit den nach Satz 3 übermittelten Daten zusammen und bestätigt der verantwortlichen Gesundheitseinrichtung den Erhalt der Vervollständigung oder Korrektur. § 15 Absatz 5 gilt entsprechend.
+(1) Für die Vervollständigung oder Korrektur übermittelt die verantwortliche Gesundheitseinrichtung der Vertrauensstelle die Daten nach § 15 Absatz 1 und 2 Satz 1 Nummer 2 Buchstabe c. Die Vertrauensstelle erzeugt eine Transfernummer und übermittelt diese an die verantwortliche Gesundheitseinrichtung. Die verantwortliche Gesundheitseinrichtung übermittelt die vervollständigten oder berichtigten Angaben zusammen mit der Transfernummer an die Registerstelle. Die Registerstelle ruft das nach § 15 Absatz 3 Nummer 2 gebildete Pseudonym mit Hilfe der Transfernummer bei der Vertrauensstelle ab, führt es mit den nach Satz 3 übermittelten Daten zusammen und bestätigt der verantwortlichen Gesundheitseinrichtung den Erhalt der Vervollständigung oder Korrektur. § 15 Absatz 5 gilt entsprechend.
 
 (2) Für die Vervollständigung oder Korrektur gilt § 24 Absatz 1 Nummer 2 und Absatz 2 des Implantateregistergesetzes entsprechend.
 
@@ -419,7 +421,7 @@ II. Besondere Angaben für Brustimplantate
 
 6. technische Ausstattung, zum Beispiel Injektionssystem/Port, Chip, Ventiltyp, Nahtlaschen
 
-# Anlage 2 – (zu § 15 Absatz 1 Satz 1 Nummer 1)Von der verantwortlichen Gesundheitseinrichtung an die Registerstelle zu übermittelnde Daten
+# Anlage 2 – (zu § 15 Absatz 2 Satz 1 Nummer 1)
 
 (Fundstelle: BGBl. I 2021, 4353 - 4354)
 
@@ -435,7 +437,7 @@ b) verwendete Meldesoftware und Version der Spezifikation der zu übermittelnden
 
 2. Angaben zum Aufenthalt in der Gesundheitseinrichtung
 
-a) bundeseinheitliches Kennzeichen der verantwortlichen Gesundheitseinrichtung nach § 293 des Fünften Buches Sozialgesetzbuch oder Objekt-Identifikator nach § 15 Absatz 2
+a) das eindeutige Kennzeichen nach § 15 Absatz 1
 
 b) Art des Aufenthalts (ambulant, teilstationär, stationär)
 
@@ -473,9 +475,9 @@ i) intraoperative Maßnahmen
 
 j) simultane risikomodifizierende Prozeduren, die über eine alleinige Implantateinbringung oder -entfernung hinausgehen
 
-k) bei Revision erhobene Befunde
+k) bei Revision und Explantation erhobene Befunde
 
-l) Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, einschließlich möglicher Zusatzkodierungen
+l) Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, unter Angabe der Version einschließlich möglicher Zusatzkennzeichen
 
 5. Angaben zu Vorbehandlungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
 
@@ -501,7 +503,7 @@ h) bei Explantation und funktionslosem Verbleib des Implantats im Körper Datum 
 
 a) Datum der Entlassung
 
-b) Grund der Entlassung (zum Beispiel Abschluss der Behandlung, Verlegung in ein anderes Krankenhaus)
+b) Grund der Entlassung bei stationärer Behandlung (zum Beispiel Abschluss der Behandlung, Verlegung in ein anderes Krankenhaus)
 
 c) implantatbezogene Entlassungsdiagnosen mit Haupt- und Nebendiagnosen unter Angabe der Lokalisation, auf die sich die Diagnosen beziehen, einschließlich Kodes aus der internationalen Klassifikation der Krankheiten unter Angabe der Version
 
@@ -519,9 +521,11 @@ b) Verwendung azellulärer dermaler Matrices oder chirurgischer Netze mit
 Hersteller
 
 –  
-dem Hersteller und dem Produkt eigener einmaliger Produktkennung nach dem UDI-System (UDI Device Identifier – UDI-DI) einschließlich Basis-UDI-DI und Katalog- oder Artikelnummer, Produktcode oder ähnlichen herstellereigenen Merkmalen
+dem Hersteller und dem Produkt eigener einmaliger Produktkennung nach dem UDI-System (UDI Device Identifier – UDI-DI) und Katalog- oder Artikelnummer, Produktcode oder ähnlichen herstellereigenen Merkmalen
 
 –  
 Herstellungskennung nach dem UDI-System (UDI Production Identifier – UDI-PI) und herstellereigenen Identifikationsmerkmalen der Serie oder Charge
 
 3. Angaben zu den Implantaten (auch bei Explantation): Form, Oberfläche, Füllung und Volumen
+
+4. Bei Explantation gegebenenfalls Art der Weiterbehandlung
