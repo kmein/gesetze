@@ -4371,6 +4371,7 @@
 - [PfandBrAUmwG](laws/PfandBrAUmwG.md) Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
 - [PfandBrÜblG](laws/PfandBrÜblG.md) Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den Bund
 - [PfandlV](laws/PfandlV.md) Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher
+- [PfandMeldeV](laws/PfandMeldeV.md) Verordnung über pfandbriefrechtliche Meldungen
 - [PFAV](laws/PFAV.md) Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 - [PferdewMeistPrV](laws/PferdewMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin
 - [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der beruflichen Ausbildung nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
