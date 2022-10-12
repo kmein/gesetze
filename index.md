@@ -4424,6 +4424,7 @@
 - [PKDBSa](laws/PKDBSa.md) Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
 - [PKDBV](laws/PKDBV.md) Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
 - [PKEV 2022](laws/PKEV_2022.md) Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
+- [PKEV 2022 2](laws/PKEV_2022_2.md) Zweite Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
 - [PKGrG](laws/PKGrG.md) Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes
 - [PKHB 2011](laws/PKHB_2011.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2012](laws/PKHB_2012.md) Bekanntmachung zu § 115 der Zivilprozessordnung
