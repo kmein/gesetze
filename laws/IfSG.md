@@ -3396,7 +3396,7 @@ Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, könn
 
 (6) (weggefallen)
 
-(7) Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in Bezug auf landesrechtlich angeordnete Schutzmaßnahmen Erleichterungen oder Ausnahmen für Personen vorsehen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können. Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in den Fällen des § 28b Absatz 1 Satz 1 Nummer 4 dritter Teilsatz Buchstabe b, Nummer 5 dritter Teilsatz, Nummer 6 dritter Teilsatz und Nummer 8 zweiter Teilsatz Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist, denjenigen gleichstellen, die ein negatives Ergebnis einer mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können.
+(7) (weggefallen)
 
 # Anlage – (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4
 

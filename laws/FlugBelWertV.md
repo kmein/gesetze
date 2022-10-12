@@ -85,7 +85,7 @@ Gutachten, die vom Darlehensnehmer oder Flugzeugeigentümer vorgelegt oder in Au
 
 # § 12 – Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der Flugzeugbeleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen Flugzeugmarkt in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der Flugzeugbeleihungswert ist bei Bedarf zu mindern.
+(1) Der Flugzeugbeleihungswert ist längstens jährlich zu überwachen. Bestehen Anhaltspunkte, dass sich die Grundlagen der Flugzeugbeleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen Flugzeugmarkt in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Eine Überprüfung ist auch dann vorzunehmen, wenn die auf dem Beleihungsobjekt abgesicherte Forderung einen wesentlichen Leistungsrückstand von mindestens 90 Tagen aufweist. Der Flugzeugbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung zur Überprüfung des Flugzeugbeleihungswerts besteht, bleibt diese unberührt.
 

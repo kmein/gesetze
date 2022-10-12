@@ -101,7 +101,7 @@ Bei Schiffsbauwerken ist als Schiffsbeleihungswert der Zustandswert zu ermitteln
 
 # § 14 – Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der Schiffsbeleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der Schiffsbeleihungswert ist bei Bedarf zu mindern.
+(1) Der Schiffsbeleihungswert ist längstens jährlich zu überwachen. Bestehen Anhaltspunkte, dass sich die Grundlagen der Schiffsbeleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Eine Überprüfung ist auch dann vorzunehmen, wenn die auf dem Beleihungsobjekt abgesicherte Forderung einen wesentlichen Leistungsrückstand von mindestens 90 Tagen aufweist. Der Schiffsbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung zur Überprüfung des Schiffsbeleihungswerts besteht, bleibt diese unberührt.
 
