@@ -19,9 +19,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. stationären landgebundenen Anlagen zur Einfuhr, Entladung, Lagerung und Wiederverdampfung verflüssigten Erdgases,
 
-3. Leitungen, die der Anbindung von Anlagen nach Nummer 1 oder Nummer 2 an die Gasversorgungsnetze dienen (LNG-Anbindungsleitungen),
+3. Leitungen, die der Anbindung von Anlagen nach Nummer 1 oder Nummer 2 an die Gasversorgungsnetze dienen (LNG-Anbindungsleitungen) sowie Leitungen, die zur Ableitung der Gasmengen von Anlagen nach Nummer 1 zwingend erforderlich sind (mittelbare LNG-Anbindungsleitungen),
 
-4. Gewässerausbauten und Gewässerbenutzungen, die für Errichtung und Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind,
+4. Gewässerausbauten und Gewässerbenutzungen, die für Errichtung und Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind, insbesondere Häfen und Landungsstege,
 
 5. Dampf- oder Warmwasserpipelines, die für den Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind.
 
@@ -57,13 +57,23 @@ Die Zugänglichmachung hat für die Dauer von vier Tagen mittels Auslegung in R�
 
 (1) Das Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, ist mit folgenden Maßgaben anzuwenden:
 
-1. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 sind abweichend von § 10 Absatz 3 Satz 2 des Bundes-Immissionsschutzgesetzes der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen,
+1. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, sind abweichend von § 10 Absatz 3 Satz 2 des Bundes-Immissionsschutzgesetzes der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen,
 
-2. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 kann abweichend von § 10 Absatz 3 Satz 4 des Bundes-Immissionsschutzgesetzes die Öffentlichkeit bis eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; diese Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17),
+2. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 10 Absatz 3 Satz 4 des Bundes-Immissionsschutzgesetzes die Öffentlichkeit bis eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; diese Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17),
 
-3. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 kann die zuständige Behörde einen Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchführen, soweit sie diesen für erforderlich oder zweckmäßig hält,
+3. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann die zuständige Behörde einen Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchführen, soweit sie diesen für erforderlich oder zweckmäßig hält,
 
-4. für Anlagen nach § 2 Absatz 1 Nummer 1 und 2 ist die Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes mit der Bestimmung zu erteilen, dass der Betrieb der Anlage mit verflüssigtem Erdgas spätestens am 31. Dezember 2043 einzustellen ist.
+4. für Anlagen nach § 2 Absatz 1 Nummer 1 und 2 ist die Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes mit der Bestimmung zu erteilen, dass der Betrieb der Anlage mit verflüssigtem Erdgas spätestens am 31. Dezember 2043 einzustellen ist,
+
+5. bei Entscheidungen zu Vorhaben nach § 2 Absatz 1 Nummer 1 kann abweichend von § 8a Absatz 1 Nummer 1 des Bundes-Immissionsschutzgesetzes die zuständige Behörde den vorzeitigen Beginn bereits vor dem Vorliegen vollständiger Antragsunterlagen zulassen, wenn
+
+a) für diese Vorhaben keine Umweltverträglichkeitsprüfung durchgeführt werden muss,
+
+b) die Erstellung der fehlenden Unterlagen im Hinblick auf die Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
+
+c) auch ohne Berücksichtigung der fehlenden Unterlagen mit einer Entscheidung zugunsten des Antragstellers gerechnet werden kann.
+
+Im Fall des Satzes 1 Nummer 5 hat der Antragsteller das Vorhaben, die voraussichtlichen Auswirkungen des Vorhabens und den Grund für die nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen. Der Antragsteller hat die fehlenden Unterlagen unverzüglich nachzureichen. Im Fall des Satzes 1 Nummer 5 ist § 8a Absatz 1 Nummer 1 des Bundes-Immissionsschutzgesetzes mit der Maßgabe anzuwenden, dass die Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung der Öffentlichkeit zulassen soll.
 
 (2) Für eine Anlage nach § 2 Absatz 1 Nummer 1 und 2, die über den 31. Dezember 2043 hinaus betrieben werden soll, kann die Genehmigung zum Weiterbetrieb nur für einen Betrieb mit klimaneutralem Wasserstoff und Derivaten hiervon erteilt werden. Die Genehmigung nach Satz 1 ist bis zum Ablauf des 1. Januar 2035 zu beantragen.
 
@@ -71,7 +81,7 @@ Die Zugänglichmachung hat für die Dauer von vier Tagen mittels Auslegung in R�
 
 # § 6 – Maßgaben für die Anwendung des Bundesnaturschutzgesetzes
 
-Das Bundesnaturschutzgesetz vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, ist bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5 mit folgenden Maßgaben anzuwenden:
+Das Bundesnaturschutzgesetz vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, ist bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, mit folgenden Maßgaben anzuwenden:
 
 1. abweichend von § 17 Absatz 1 des Bundesnaturschutzgesetzes kann die Festsetzung von Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 2 des Bundesnaturschutzgesetzes bis zu zwei Jahre nach Erteilung der Zulassungsentscheidung erfolgen, hierfür hat der Verursacher die erforderlichen Angaben nach § 17 Absatz 4 Satz 1 Nummer 2 des Bundesnaturschutzgesetzes nachträglich zu machen. § 15 Absatz 4 Satz 2 des Bundesnaturschutzgesetzes ist entsprechend anzuwenden,
 
@@ -81,19 +91,31 @@ Das Bundesnaturschutzgesetz vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt dur
 
 Das Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 18. August 2021 (BGBl. I S. 3901) geändert worden ist, ist mit folgenden Maßgaben anzuwenden:
 
-1. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5 ist abweichend von § 70 Absatz 1 Satz 1 Halbsatz 2 des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, der Plan für die Dauer von mindestens einer Woche zur Einsicht auszulegen,
+1. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, ist abweichend von § 70 Absatz 1 Satz 1 zweiter Halbsatz des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, der Plan für die Dauer von mindestens einer Woche zur Einsicht auszulegen,
 
-2. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5 kann abweichend von § 70 Absatz 1 Satz 1 Halbsatz 2 des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 4 Satz 1 des Verwaltungsverfahrensgesetzes jeder, dessen Belange durch das Vorhaben berührt werden, bis zu einer Woche nach Ablauf der Auslegungsfrist Einwendungen gegen den Plan erheben,
+2. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 70 Absatz 1 Satz 1 zweiter Halbsatz des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 4 Satz 1 des Verwaltungsverfahrensgesetzes jeder, dessen Belange durch das Vorhaben berührt werden, bis zu einer Woche nach Ablauf der Auslegungsfrist Einwendungen gegen den Plan erheben,
 
-3. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5 kann abweichend von § 70 Absatz 1 Satz 1 Halbsatz 2 des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 6 Satz 1 des Verwaltungsverfahrensgesetzes die zuständige Behörde einen Erörterungstermin durchführen, sofern sie diesen für erforderlich hält,
+3. bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 70 Absatz 1 Satz 1 zweiter Halbsatz des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 6 Satz 1 des Verwaltungsverfahrensgesetzes die zuständige Behörde einen Erörterungstermin durchführen, sofern sie diesen für erforderlich hält,
 
-4. bei der Zulassung von Vorhaben nach § 2 Absatz 1 sind durch die Entnahme und Wiedereinleitung von Wasser zum Zweck der Regasifizierung verflüssigten Erdgases in der Regel keine schädlichen, auch durch den Erlass einzuhaltender Nebenbestimmungen nicht vermeidbaren oder nicht ausgleichbaren Gewässerveränderungen im Sinne des § 12 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes zu erwarten.
+4. bei der Zulassung von Vorhaben nach § 2 Absatz 1 sind durch die Entnahmen und Wiedereinleitungen von Wasser, die für den Betrieb der Vorhaben erforderlich sind, in der Regel keine schädlichen, auch durch den Erlass einzuhaltender Nebenbestimmungen nicht vermeidbaren oder nicht ausgleichbaren, Gewässerveränderungen im Sinne des § 12 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes zu erwarten,
+
+5. bei Entscheidungen zu Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5 kann abweichend von § 17 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes die zuständige Behörde den vorzeitigen Beginn bereits vor dem Vorliegen vollständiger Antragsunterlagen zulassen, wenn
+
+a) für diese Vorhaben keine Umweltverträglichkeitsprüfung durchgeführt werden muss,
+
+b) die Erstellung der fehlenden Unterlagen im Hinblick auf die Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
+
+c) auch ohne Berücksichtigung der fehlenden Unterlagen mit einer Entscheidung zugunsten des Antragstellers gerechnet werden kann,
+
+6. bei Planänderungen für Vorhaben nach § 2 Absatz 1 Nummer 1, 3, 4 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 70 Absatz 1 Satz 1 zweiter Halbsatz des Wasserhaushaltsgesetzes in Verbindung mit § 73 Absatz 8 des Verwaltungsverfahrensgesetzes jeder, dessen Belange durch das Vorhaben erstmals oder stärker als bisher berührt werden, bis zu einer Woche nach Mitteilung der Änderung Stellungnahmen abgeben und Einwendungen gegen den Plan erheben.
+
+Im Fall des Satzes 1 Nummer 5 hat der Antragsteller das Vorhaben, die voraussichtlichen Auswirkungen des Vorhabens und den Grund für die nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen. Der Antragsteller hat die fehlenden Unterlagen unverzüglich nachzureichen. Im Fall des Satzes 1 Nummer 5 ist § 17 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes mit der Maßgabe anzuwenden, dass die Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung der Öffentlichkeit zulassen soll.
 
 # § 8 – Maßgaben für die Anwendung des Energiewirtschaftsgesetzes
 
-(1) Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 26. April 2022 (BGBl. I S. 674) geändert worden ist, ist bei der Zulassung nach § 2 mit folgenden Maßgaben anzuwenden:
+(1) Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 26. April 2022 (BGBl. I S. 674) geändert worden ist, ist bei der Zulassung von Vorhaben nach § 2 mit folgenden Maßgaben anzuwenden:
 
-1. abweichend von § 43a des Energiewirtschaftsgesetzes gilt für das Anhörungsverfahren, dass:
+1. abweichend von § 43a des Energiewirtschaftsgesetzes gilt bei Vorhaben, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, für das Anhörungsverfahren, dass:
 
 a) der Plan abweichend von § 73 Absatz 3 des Verwaltungsverfahrensgesetzes für die Dauer von einer Woche auszulegen ist,
 
@@ -101,11 +123,13 @@ b) Einwendungen nach § 73 Absatz 4 des Verwaltungsverfahrensgesetzes nur bis ei
 
 c) ein Erörterungstermin in den Fällen des § 2 Absatz 1 Nummer 3 stattfinden kann, soweit die zuständige Behörde diesen für erforderlich hält,
 
-2. Kampfmittelräumungen, archäologische Untersuchungen und Bergungen gelten als Vorarbeiten im Sinne des § 44 des Energiewirtschaftsgesetzes,
+d) Gelegenheit zu Stellungnahmen und Einwendungen nach § 73 Absatz 8 des Verwaltungsverfahrensgesetzes bis zum Ablauf einer Woche nach Mitteilung der Änderungen zu geben ist,
+
+2. Kampfmittelräumungen, archäologische Untersuchungen und Bergungen sowie zwingend erforderliche Beseitigungen von Bäumen und anderen Gehölzen zur Baufeldfreimachung sowie die Durchführung naturschutzrechtlicher Ausgleichs- und Vermeidungsmaßnahmen einschließlich vorgezogener Ausgleichsmaßnahmen gelten als Vorarbeiten im Sinne des § 44 des Energiewirtschaftsgesetzes; für die Beseitigung von Bäumen und anderen Gehölzen zur Baufeldfreimachung sowie für die Durchführung naturschutzrechtlicher Ausgleichs- und Vermeidungsmaßnahmen einschließlich vorgezogener Ausgleichsmaßnahmen ist dies nur bis zum Ablauf des 28. Februar 2023 anzuwenden,
 
 3. der Vorhabenträger kann bereits nach Ablauf der Einwendungsfrist verlangen, dass das Verfahren der vorzeitigen Besitzeinweisung nach § 44b des Energiewirtschaftsgesetzes durchgeführt wird,
 
-4. für den vorzeitigen Baubeginn müssen die Voraussetzungen des § 44c Absatz 1 Satz 1 Nummer 3 und 4 sowie des § 44c Absatz 1 Satz 2 des Energiewirtschaftsgesetzes nicht vorliegen; für die Zustellung nach § 44c Absatz 3 des Energiewirtschaftsgesetzes ist § 74 Absatz 5 des Verwaltungsverfahrensgesetzes entsprechend anwendbar.
+4. für den vorzeitigen Baubeginn müssen die Voraussetzungen des § 44c Absatz 1 Satz 1 Nummer 3 sowie des § 44c Absatz 1 Satz 2 des Energiewirtschaftsgesetzes nicht vorliegen; für die Zustellung nach § 44c Absatz 3 des Energiewirtschaftsgesetzes ist § 74 Absatz 5 des Verwaltungsverfahrensgesetzes entsprechend anwendbar.
 
 (2) Soweit aufgrund der in Absatz 1 vorgesehenen Verfahrensvereinfachungen Vorschriften des Energierechts nicht anzuwenden sind, sind auch die Vorschriften des Verwaltungsverfahrensrechts, die diesen Verfahrensvereinfachungen sonst entgegenstehen würden, nicht anzuwenden.
 
@@ -179,15 +203,17 @@ Satz 1 gilt entsprechend für § 13 Absatz 2 Nummer 4 der Sektorenverordnung vom
 
 # § 10 – Weitere Verfahrensanordnungen
 
-(1) Ist für ein Zulassungsverfahren für ein Vorhaben nach § 2 eine ortsübliche oder öffentliche Bekanntmachung angeordnet und ist nach den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder die Auslegung zur Einsichtnahme vorgesehen, ist § 2 des Planungssicherstellungsgesetzes vom 20. Mai 2020 (BGBl. I S. 1041), das zuletzt durch Artikel 1 des Gesetzes vom 18. März 2021 (BGBl. I S. 353) geändert worden ist, mit der Maßgabe anzuwenden, dass eine Befristung auf Bekanntmachungen, deren Frist mit dem Ablauf des 31. Dezember 2022 endet, nicht stattfindet.
+(1) Ist für ein Zulassungsverfahren für ein Vorhaben nach § 2 eine ortsübliche oder öffentliche Bekanntmachung angeordnet und ist nach den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder die Auslegung zur Einsichtnahme vorgesehen, ist § 2 des Planungssicherstellungsgesetzes vom 20. Mai 2020 (BGBl. I S. 1041) in der jeweils geltenden Fassung mit der Maßgabe anzuwenden, dass eine Befristung auf Bekanntmachungen, deren Frist mit dem Ablauf des 31. Dezember 2023 endet, nicht stattfindet.
 
-(2) Ist für ein Genehmigungsverfahren für ein Vorhaben nach § 2 die Auslegung von Unterlagen oder Entscheidungen vorgesehen, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, ist § 3 des Planungssicherstellungsgesetzes mit der Maßgabe anzuwenden, dass eine Befristung auf Bekanntmachungen, deren Frist mit dem Ablauf des 31. Dezember 2022 endet, nicht stattfindet.
+(2) Ist für ein Genehmigungsverfahren für ein Vorhaben nach § 2 die Auslegung von Unterlagen oder Entscheidungen vorgesehen, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, ist § 3 des Planungssicherstellungsgesetzes mit der Maßgabe anzuwenden, dass eine Befristung auf Bekanntmachungen, deren Frist mit dem Ablauf des 31. Dezember 2023 endet, nicht stattfindet.
 
 (3) Ist für ein Genehmigungsverfahren für ein Vorhaben nach § 2 die Durchführung eines Erörterungstermins oder einer mündlichen Verhandlung angeordnet oder hält die Behörde einen Erörterungstermin für erforderlich, ist § 5 des Planungssicherstellungsgesetzes anzuwenden.
 
+(4) Für Entscheidungen über Vorhaben nach § 2 Absatz 1 sind die §§ 72 bis 77 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes anzuwenden.
+
 # § 11 – Rechtsbehelfe
 
-(1) Widerspruch und Anfechtungsklage gegen eine Zulassungsentscheidung für die Vorhaben nach § 2 haben keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Anfechtungsklage gegen eine Zulassungsentscheidung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung der Zulassungsentscheidung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
+(1) Widerspruch und Anfechtungsklage gegen eine Zulassungsentscheidung für die Vorhaben nach § 2 sowie gegen die Entscheidung über den vorzeitigen Beginn einer Maßnahme haben keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Anfechtungsklage gegen eine Zulassungsentscheidung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung der Zulassungsentscheidung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
 
 (2) Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch die Zulassungsentscheidung Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
@@ -223,4 +249,5 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über s
 
 # Anlage – (zu § 2)
 
-(Fundstelle: BGBl. I 2022, 809)
+(Fundstelle: BGBl. I 2022, 809;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

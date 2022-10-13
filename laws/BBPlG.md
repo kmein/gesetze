@@ -27,13 +27,13 @@
 
 a) wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder
 
-b) wie ein durch Landesplanungen bestimmter Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung oder
+b) wie ein durch Landesplanungen oder nach Landesrecht bestimmter Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung oder
 
 2. räumlich weit überwiegend
 
 a) einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder
 
-b) einem durch Landesplanungen bestimmten Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung entsprechen.
+b) einem durch Landesplanungen oder nach Landesrecht bestimmten Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung entsprechen.
 
 Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben im Sinne von Absatz 3 entsprechend anzuwenden.
 
@@ -1080,7 +1080,7 @@ Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen 
 Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);  
 Drehstrom Nennspannung 380 kV
 
-A2, G
+ 
 
 Kennzeichnung
 

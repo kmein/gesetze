@@ -489,7 +489,7 @@ Pro Kalenderjahr wird der Zuschlag für höchstens 3 500 Vollbenutzungsstunden 
 
 3. für das der Nachweis nach § 20 Absatz 2 nicht oder nicht rechtzeitig erbracht worden ist oder unzutreffend ist.
 
-Wird der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom entgegen § 8a Absatz 2 Nummer 2 des Kraft-Wärme-Kopplungsgesetzes selbst verbraucht, ist § 8d Absatz 1 des Kraft-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Abweichend von Satz 1 Nummer 1 darf der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom auch in ein geschlossenes Verteilernetz eingespeist werden. Im Fall des Satzes 3 ist der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom so zu behandeln, als wäre er in das Netz der allgemeinen Versorgung eingespeist worden.
+Abweichend von Satz 1 Nummer 1 darf der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom auch in ein geschlossenes Verteilernetz eingespeist werden. Im Fall des Satzes 2 ist der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom so zu behandeln, als wäre er in das Netz der allgemeinen Versorgung eingespeist worden.
 
 (4) Der Zuschlagswert verringert sich für das jeweilige Kalenderjahr für die Anzahl der Vollbenutzungsstunden in Höhe des in dem Kalendermonat erzeugten KWK-Stroms auf null, in dem die KWK-Anlage oder das innovative KWK-System entgegen der nach § 8 Absatz 1 Nummer 12 Buchstabe c abgegebenen Eigenerklärung bei Abruf des Netzbetreibers nicht in der Lage ist, die gesamte Einspeiseleistung durch den Netzbetreiber ferngesteuert zu reduzieren.
 
@@ -499,7 +499,7 @@ Wird der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom entgeg
 
 2. bei Zuschlägen, die in einem Ausschreibungstermin ab dem Jahr 2021 erteilt wurden, die tatsächliche Einspeisung innovativer erneuerbarer Wärme in ein Wärmenetz durch das innovative KWK-System innerhalb dieses Kalenderjahres einen Anteil an der Referenzwärme von 35 Prozent unterschreitet, wobei in den ersten fünf Kalenderjahren ab Aufnahme des Dauerbetriebs des innovativen KWK-Systems die Bereitstellung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten angerechnet wird.
 
-In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder Prozesswärme maßgeblich ist.
+In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder Prozesswärme maßgeblich ist. In dem Kalenderjahr, in dem die KWK-Anlage in Betrieb genommen wird, sind die Sätze 1 und 2 mit der Maßgabe entsprechend anzuwenden, dass für dieses Kalenderjahr anstelle des Wertes von 30 Prozent ein Wert von 2,5 Prozent pro Kalendermonat, der nach der Inbetriebnahme für dieses Kalenderjahr verbleibt, anzusetzen ist.
 
 (6) Entgegen den Absätzen 2 bis 5 erhaltene Zahlungen sind dem zur Auszahlung der Zuschlagszahlung verpflichteten Netzbetreiber vollumfänglich zurückzugewähren; die Einrede der Entreicherung ist ausgeschlossen. Die Netzbetreiber müssen die nach Satz 1 erhaltenen Zahlungen als Einnahmen im Rahmen des Belastungsausgleichs nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen.
 

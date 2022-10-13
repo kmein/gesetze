@@ -9,7 +9,7 @@ Die Beschleunigung des Ausbaus der länderübergreifenden und grenzüberschreite
 
 # § 2 – Anwendungsbereich, Verordnungsermächtigung
 
-(1) Dieses Gesetz gilt nur für die Errichtung oder Änderung von länderübergreifenden oder grenzüberschreitenden Höchstspannungsleitungen und Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land, die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4 Satz 1 des Energiewirtschaftsgesetzes als solche gekennzeichnet sind.
+(1) Dieses Gesetz gilt nur für die Errichtung oder Änderung von länderübergreifenden oder grenzüberschreitenden Höchstspannungsleitungen und Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land, die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4 Satz 1 des Energiewirtschaftsgesetzes als solche gekennzeichnet sind. § 18 Absatz 2 bleibt unberührt.
 
 (2) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung mit Zustimmung des Bundesrates für Leitungen nach Absatz 1 festzulegen, dass die Planfeststellungsverfahren nach Abschnitt 3 von der Bundesnetzagentur durchgeführt werden.
 
@@ -23,13 +23,15 @@ Die Beschleunigung des Ausbaus der länderübergreifenden und grenzüberschreite
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-1. „Änderung oder Erweiterung einer Leitung“ die Änderung oder der Ausbau einer Leitung einschließlich Änderungen des Betriebskonzepts in einer Bestandstrasse, wobei die bestehende Leitung grundsätzlich fortbestehen soll; hierzu zählen auch
+1. „Änderung oder Erweiterung einer Leitung“ die Änderung oder der Ausbau einer Leitung in einer Bestandstrasse, wobei die bestehende Leitung grundsätzlich fortbestehen soll; hierzu zählen auch
 
-a) die Mitführung von zusätzlichen Seilsystemen auf einer bestehenden Maststruktur einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung einzelner Masten um bis zu 20 Prozent ohne wesentliche Änderungen des Fundaments (Zubeseilung),
+a) die Mitführung von zusätzlichen Seilsystemen auf einer bestehenden Maststruktur einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung von Masten um bis zu 20 Prozent nebst den hierfür erforderlichen Änderungen des Fundaments (Zubeseilung),
 
-b) die Ersetzung eines bereits bestehenden Seilsystems durch ein neues leistungsstärkeres Seilsystem einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung einzelner Masten um bis zu 20 Prozent ohne wesentliche Änderungen des Fundaments (Umbeseilung) und
+b) die Ersetzung eines bereits bestehenden Seilsystems durch ein neues leistungsstärkeres Seilsystem einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung von Masten um bis zu 20 Prozent nebst den hierfür erforderlichen Änderungen des Fundaments (Umbeseilung) und
 
-c) Maßnahmen, die unter Beibehaltung der Masten lediglich die Auslastung der Leitung anpassen und keine oder allenfalls geringfügige und punktuelle bauliche Änderungen erfordern (Änderung des Betriebskonzepts),
+c) die standortnahe Änderung von Masten einschließlich einer Erhöhung der Masten um bis zu 20 Prozent nebst den hierfür erforderlichen Änderungen des Fundaments (standortnahe Maständerung),
+
+nicht jedoch Maßnahmen, die die Auslastung der Leitungen betrieblich anpassen einschließlich der für diese Anpassung erforderlichen geringfügigen und punktuellen baulichen Änderungen an den Masten (Änderung des Betriebskonzepts),
 
 2. „Bestandstrasse“ die Trasse einer bestehenden oder bereits zugelassenen Hoch- oder Höchstspannungsleitung,
 
@@ -87,7 +89,7 @@ Für die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4 Satz 1
 
 3. bei einem Neubau oder der Verlegung von Leerrohren innerhalb eines Trassenkorridors, der in einem Raumordnungsplan im Sinne von § 3 Absatz 1 Nummer 7 des Raumordnungsgesetzes festgelegt oder im Bundesnetzplan ausgewiesen ist.
 
-Der Verzicht auf die Durchführung der Bundesfachplanung kann auf einzelne Trassenabschnitte beschränkt werden. Bei Zubeseilungen und Umbeseilungen soll nach Satz 1 Nummer 1 auch dann auf die Durchführung der Bundesfachplanung verzichtet werden, wenn abweichend von § 3 Nummer 1 Buchstabe a und b eine Erhöhung von Masten nicht nur im Einzelfall und von mehr als 20 Prozent erforderlich ist.
+Der Verzicht auf die Durchführung der Bundesfachplanung kann auf einzelne Trassenabschnitte beschränkt werden. Bei der Änderung oder Erweiterung einer Leitung soll nach Satz 1 Nummer 1 auch dann auf die Durchführung der Bundesfachplanung verzichtet werden, wenn abweichend von § 3 Nummer 1 Buchstabe a, b und c eine Erhöhung von Masten von mehr als 20 Prozent erforderlich ist.
 
 (2) Auf die Durchführung der Bundesfachplanung kann bei einem Ersatz- oder Parallelneubau, der weit überwiegend in oder unmittelbar neben einer Bestandstrasse erfolgt, verzichtet werden. Der Verzicht auf die Durchführung der Bundesfachplanung kann auf einzelne Trassenabschnitte beschränkt werden.
 
@@ -167,7 +169,7 @@ Der Vorhabenträger legt der Bundesnetzagentur auf Grundlage der Ergebnisse der 
 
 (2) Der Vorhabenträger, die Träger öffentlicher Belange und diejenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben haben, sind von dem Erörterungstermin zu benachrichtigen. Sind außer der Benachrichtigung der Träger öffentlicher Belange und des Vorhabenträgers mehr als 50 Benachrichtigungen vorzunehmen, können diese Benachrichtigungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der Erörterungstermin auf der Internetseite der Bundesnetzagentur und in örtlichen Tageszeitungen bekannt gemacht wird, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird. Im Übrigen sind für die Erörterung die Vorschriften über die mündliche Verhandlung im förmlichen Verwaltungsverfahren nach § 67 Absatz 1 Satz 3, Absatz 2 Nummer 1 und 4 und Absatz 3 und § 68 des Verwaltungsverfahrensgesetzes und die Vorschriften für Massenverfahren nach den §§ 17 bis 19 des Verwaltungsverfahrensgesetzes entsprechend anzuwenden.
 
-(3) Ein Erörterungstermin findet nicht statt, wenn
+(3) Die Bundesnetzagentur kann auf eine Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 in Verbindung mit § 42 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Ein Erörterungstermin findet nicht statt, wenn
 
 1. Einwendungen und Stellungnahmen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben worden sind,
 
@@ -225,7 +227,7 @@ Jedes Land, das von der Entscheidung nach § 12 Absatz 2 und 3 betroffen ist, is
 
 # § 15 – Bindungswirkung der Bundesfachplanung
 
-(1) Die Entscheidung nach § 12 ist für die Planfeststellungsverfahren nach §§ 18 ff. verbindlich. Bundesfachplanungen haben grundsätzlich Vorrang vor nachfolgenden Landesplanungen und Bauleitplanungen.
+(1) Die Entscheidung nach § 12 ist für die Planfeststellungsverfahren nach §§ 18 ff. verbindlich. Bundesfachplanungen haben grundsätzlich Vorrang vor nachfolgenden Planungen, insbesondere Landesplanungen und Bauleitplanungen.
 
 (2) Die Geltungsdauer der Entscheidung nach § 12 Absatz 2 ist auf zehn Jahre befristet. Die Frist kann durch die Bundesnetzagentur um weitere fünf Jahre verlängert werden. Die Fristverlängerung soll erfolgen, wenn sich die für die Beurteilung maßgeblichen rechtlichen und tatsächlichen Verhältnisse nicht verändert haben.
 
@@ -261,7 +263,7 @@ Die durch die Bundesfachplanung bestimmten Trassenkorridore und die für Anbindu
 
 (1) Die Errichtung und der Betrieb sowie die Änderung von Leitungen im Sinne von § 2 Absatz 1 bedürfen der Planfeststellung durch die zuständige Behörde.
 
-(2) Auf Antrag des Vorhabenträgers können die für den Betrieb notwendigen Anlagen, insbesondere Konverterstationen, Phasenschieber, Umspannanlagen und Netzverknüpfungspunkte, in das Planfeststellungsverfahren integriert und durch Planfeststellung zugelassen werden. Dabei ist eine nachträgliche Integration in die Entscheidung zur Planfeststellung durch Planergänzungsverfahren möglich, solange die Entscheidung zur Planfeststellung gilt.
+(2) Auf Antrag des Vorhabenträgers können die für den Betrieb notwendigen Anlagen, insbesondere Konverterstationen, Phasenschieber, Umspannanlagen und Netzverknüpfungspunkte, durch Planfeststellung durch die nach Absatz 1 zuständige Behörde zugelassen werden. Dabei können sie in das Planfeststellungsverfahren von Leitungen im Sinne von § 2 Absatz 1 integriert werden, wobei eine nachträgliche Integration in die Entscheidung zur Planfeststellung durch Planergänzungsverfahren möglich, solange die Entscheidung zur Planfeststellung gilt.
 
 (3) Bei Vorhaben im Sinne von § 2 Absatz 3, 5 und 6 des Bundesbedarfsplangesetzes ist Absatz 2 auch für Leerrohre anzuwenden, wenn
 
@@ -281,7 +283,7 @@ Bei Vorhaben, die im Bundesbedarfsplangesetz entsprechend gekennzeichnet sind, s
 
 1. das Vorhaben in oder unmittelbar neben der Bestandstrasse zu errichten ist, soweit eine Bestandstrasse vorhanden ist, und
 
-2. bei einem Vorhaben gemäß § 2 Absatz 7 Satz 2 oder Satz 3 des Bundesbedarfsplangesetzes der für das weitere Vorhaben in den Bundesnetzplan aufgenommene Trassenkorridor oder der durch Landesplanungen bestimmte Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung zu beachten ist.
+2. bei einem Vorhaben gemäß § 2 Absatz 7 Satz 2 oder Satz 3 des Bundesbedarfsplangesetzes der für das weitere Vorhaben in den Bundesnetzplan aufgenommene Trassenkorridor oder der durch Landesplanungen oder nach Landesrecht bestimmte Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung zu beachten ist.
 
 Ziele der Raumordnung, die den Abstand von Höchstspannungsleitungen zu Gebäuden oder überbaubaren Grundstücksflächen regeln, sind keine zwingenden Gründe im Sinne von Absatz 3a Satz 3. Absatz 4 Satz 2 bis 5 ist insoweit nicht anzuwenden. Satz 1 Nummer 1 und die Sätze 2 und 3 sind entsprechend anzuwenden, wenn innerhalb eines durch die Bundesfachplanung bestimmten Trassenkorridors eine Bestandstrasse vorhanden ist.
 
@@ -289,11 +291,7 @@ Ziele der Raumordnung, die den Abstand von Höchstspannungsleitungen zu Gebäude
 
 (4) Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange im Rahmen der Abwägung zu berücksichtigen. Die Bindungswirkung der Ziele der Raumordnung gilt nur, wenn die Bundesnetzagentur bei der Aufstellung, Änderung oder Ergänzung des Raumordnungsplans nach § 9 des Raumordnungsgesetzes beteiligt worden ist und sie innerhalb einer Frist von zwei Monaten nach Mitteilung des rechtsverbindlichen Ziels nicht widersprochen hat. Der Widerspruch nach Satz 2 lässt die Bindungswirkung des Ziels der Raumordnung gegenüber der Bundesnetzagentur nicht entstehen, wenn das Ziel der Planfeststellung entgegensteht. Macht die Planfeststellung nachträglich ein Abweichen von den Zielen der Raumordnung erforderlich, kann die Bundesnetzagentur mit Zustimmung des Bundesministeriums für Wirtschaft und Energie innerhalb angemessener Frist, spätestens aber bis zum Abschluss der Planfeststellung, unter der Voraussetzung von Satz 3 nachträglich widersprechen. Muss infolge des nachträglichen Widerspruchs der Raumordnungsplan geändert, ergänzt oder aufgehoben werden, hat die Bundesnetzagentur die dadurch entstehenden Kosten zu ersetzen. § 6 des Raumordnungsgesetzes bleibt unberührt. Städtebauliche Belange sind zu berücksichtigen. § 38 Satz 1 und 3 und § 7 Satz 6 des Baugesetzbuches sind entsprechend anzuwenden.
 
-(4a) Für die Änderung oder Erweiterung einer Leitung nach § 3 Nummer 1 ist § 45c Absatz 1 Satz 1, 2 und 4 und Absatz 2 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, entsprechend anzuwenden mit den Maßgaben, dass
-
-1. der Umfang der artenschutzrechtlichen Prüfung auch ohne Änderungsgenehmigungsverfahren unberührt bleibt und
-
-2. die Berücksichtigung als Vorbelastung nur auf Antrag des Vorhabenträgers erfolgt.
+(4a) Für die Änderung oder Erweiterung einer Leitung nach § 3 Nummer 1 ist § 45c Absatz 2 Satz 1 und 2 sowie Absatz 3 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542) in der jeweils geltenden Fassung, unbeschadet des § 45 Absatz 7 des Bundesnaturschutzgesetzes, entsprechend anzuwenden.
 
 (5) Sofern dieses Gesetz keine abweichenden Regelungen enthält, sind für das Planfeststellungsverfahren und daran anknüpfende Verfahren die Bestimmungen in Teil 5 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
@@ -355,7 +353,7 @@ Die Planfeststellung beginnt mit dem Antrag des Vorhabenträgers. Der Antrag kan
 
 (4) Jede Person, deren Belange durch das Vorhaben berührt werden, kann innerhalb von einem Monat nach Ablauf der Auslegungsfrist nach Absatz 3 Satz 1 schriftlich oder elektronisch bei der Planfeststellungsbehörde Einwendungen gegen den Plan erheben. Satz 1 gilt entsprechend für Vereinigungen.
 
-(5) Die Planfeststellungsbehörde führt einen Erörterungstermin durch. Insoweit gelten die Bestimmungen des § 10 entsprechend.
+(5) Die Bestimmungen des § 10 sind auf eine Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung durch die Planfeststellungsbehörde entsprechend anzuwenden.
 
 (6) Anhörungsverfahren und Erörterungstermin können unterbleiben, wenn die Voraussetzungen des § 25 oder des § 24 Absatz 4 vorliegen.
 
@@ -393,17 +391,17 @@ Der Planfeststellungsbeschluss ist zeitgleich mit der Auslegung im Internet zu v
 
 (2) Abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung ist eine Umweltverträglichkeitsprüfung für die Änderung oder Erweiterung nicht durchzuführen bei
 
-1. Änderungen des Betriebskonzepts,
+1. standortnahen Maständerungen,
 
 2. Umbeseilungen oder
 
 3. Zubeseilungen.
 
-Satz 1 ist nur anzuwenden, wenn die Planfeststellungsbehörde feststellt, dass die Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind. Einer Feststellung, dass die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind, bedarf es nicht bei der Einführung eines witterungsabhängigen Freileitungsbetriebs oder sonstigen Änderungen, welche nicht zu Änderungen der Beurteilungspegel im Sinne der Technischen Anleitung zum Schutz gegen Lärm in der jeweils geltenden Fassung führen. Satz 1 Nummer 2 und 3 ist ferner jeweils nur anzuwenden, sofern einzeln oder im Zusammenwirken mit anderen Vorhaben eine erhebliche Beeinträchtigung eines Natura 2000-Gebiets oder eines bedeutenden Brut- oder Rastgebiets geschützter Vogelarten nicht zu erwarten ist. Satz 1 Nummer 3 ist bei Höchstspannungsfreileitungen mit einer Nennspannung von 220 Kilovolt oder mehr ferner nur anzuwenden, wenn die Zubeseilung eine Länge von höchstens 15 Kilometern hat.
+Satz 1 Nummer 2 und 3 ist nur anzuwenden, wenn die Planfeststellungsbehörde feststellt, dass die Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind. Einer Feststellung, dass die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind, bedarf es nicht bei Änderungen, welche nicht zu Änderungen der Beurteilungspegel im Sinne der Technischen Anleitung zum Schutz gegen Lärm in der jeweils geltenden Fassung führen. Satz 1 ist ferner nur anzuwenden, sofern einzeln oder im Zusammenwirken mit anderen Vorhaben eine erhebliche Beeinträchtigung eines Natura 2000-Gebiets oder eines bedeutenden Brut- oder Rastgebiets geschützter Vogelarten nicht zu erwarten ist. Satz 1 ist bei Höchstspannungsfreileitungen mit einer Nennspannung von 220 Kilovolt oder mehr ferner nur anzuwenden, wenn die Zubeseilung eine Länge von höchstens 15 Kilometern hat, oder die standortnahen Maständerungen oder die bei einer Umbeseilung erforderlichen Masterhöhungen räumlich zusammenhängend auf einer Länge von höchstens 15 Kilometern erfolgen.
 
 (3) Abweichend von Absatz 1 Satz 2 Nummer 2 kann eine Änderung oder Erweiterung auch dann im Anzeigeverfahren zugelassen werden, wenn die Planfeststellungsbehörde im Einvernehmen mit der nach Landesrecht zuständigen Immissionsschutzbehörde feststellt, dass die Vorgaben nach den §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind, und wenn weitere öffentliche Belange nicht berührt sind oder die hierfür erforderlichen behördlichen Entscheidungen vorliegen und sie dem Plan nicht entgegenstehen. Absatz 2 Satz 3 ist entsprechend anzuwenden.
 
-(4) Der Vorhabenträger zeigt gegenüber der Planfeststellungsbehörde die von ihm geplante Maßnahme an. Der Anzeige sind in ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt, dass die geplante Änderung oder Erweiterung den Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die Planfeststellungsbehörde entscheidet innerhalb eines Monats, ob anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erweiterung; im Fall des Absatzes 2 Satz 1 Nummer 1 bedarf es keiner Prüfung der dinglichen Rechte anderer. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.
+(4) Der Vorhabenträger zeigt gegenüber der Planfeststellungsbehörde die von ihm geplante Maßnahme an. Der Anzeige sind in ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt, dass die geplante Änderung oder Erweiterung den Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die Planfeststellungsbehörde entscheidet innerhalb eines Monats, ob anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erweiterung; im Fall der standortnahen Maständerung bleibt es unabhängig von den Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung beim Anzeigeverfahren. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.
 
 # § 26 – Zusammentreffen mehrerer Vorhaben
 

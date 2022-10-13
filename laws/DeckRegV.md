@@ -343,10 +343,7 @@ ggf. Darl. Nr.
 
 (Fundstelle: BGBl. I 2006, 2078)
 
-# Anlage 3 – (zu § 13)
+# Anlage 3 – (zu § 13)Formular DR 3Unterregister zum Deckungsregister (Hypotheken)/(Kommunal)/(Schiffshypotheken)/(Flugzeughypotheken) Unterregister für Ansprüche aus Derivategeschäften
 
-... (nicht darstellbares Formular DR 3 Unterregister zum Deckungsregister (Hypotheken)/(Kommunal)/(Schiffshypotheken)  
-Fundstelle: BGBl. I 2006, 2078
-
-  
+(Fundstelle: BGBl. I 2006, 2078;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
