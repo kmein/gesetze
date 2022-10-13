@@ -39,10 +39,6 @@ Soweit die Forderung durch einen Beschluss bereits gepfändet worden ist, ist f�
 
 Die Länder dürfen Anpassungen von den in den Anlagen bestimmten Formularen zulassen, die es, ohne den Inhalt zu verändern oder dessen Verständnis zu erschweren, ermöglichen, die Formulare in elektronischer Form auszufüllen und dem Gericht als strukturierten Datensatz zu übermitteln. Für die elektronische Übermittlung sind die in den Formularen enthaltenen Angaben in das XML-Format zu übertragen. Die Länder können dazu durch Verwaltungsvereinbarung eine gemeinsame zentrale Koordinierungsstelle einrichten.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 5 – Verbindlichkeit
 
 Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten Formulare verbindlich zu nutzen.
@@ -50,6 +46,10 @@ Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten Formulare v
 # § 6 – Übergangsregelung
 
 Für Anträge, die bis zum 1. November 2014 gestellt werden, können die bis zum 24. Juni 2014 bestimmten Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses weiter genutzt werden. Für Anträge, die bis zum 1. Juni 2015 gestellt werden, kann das bis zum 24. Juni 2014 bestimmte Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung weiter genutzt werden.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 1)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 

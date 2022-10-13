@@ -3695,6 +3695,10 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Absatz 6
 
 (5) § 36 findet mit der Maßgabe Anwendung, dass das Einvernehmen nur dann aus den sich aus den §§ 31, 33 bis 35 ergebenden Gründen versagt werden kann, wenn die städtebauliche Entwicklung des Gemeindegebiets der Gemeinde, in der das Vorhaben ausgeführt werden soll, beeinträchtigt würde. Abweichend von § 36 Absatz 2 Satz 2 gilt bis zum Ablauf des 31. Dezember 2022 das Einvernehmen als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
 
+# § 246d – Sonderregelung für Biogasanlagen
+
+Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31. Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion erhöht wird und die Biomasse überwiegend aus dem Betrieb oder überwiegend aus diesem und aus weniger als 50 Kilometer entfernten Betrieben nach § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten Betrieben nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
+
 # § 247 – Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 
 (1) Bei der Aufstellung von Bauleitplänen und sonstigen Satzungen nach diesem Gesetzbuch soll in der Abwägung den Belangen, die sich aus der Entwicklung Berlins als Hauptstadt Deutschlands ergeben, und den Erfordernissen der Verfassungsorgane des Bundes für die Wahrnehmung ihrer Aufgabe besonders Rechnung getragen werden.

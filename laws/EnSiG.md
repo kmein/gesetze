@@ -17,7 +17,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 3. die Herstellung, die Instandhaltung, die Abgabe, die Verbindung und die Verwendung von Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, sowie über Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandhaltung, Instandsetzung, Herstellung und Veränderung von Bauwerken und technischen Anlagen, die der Versorgung mit elektrischer Energie und Erdgas dienen,
 
-4. die Errichtung, den Einsatz und den Betrieb digitaler Plattformen durch die Verwaltungsbehörde oder durch Dritte für die Vorbereitung und Umsetzung von Maßnahmen nach den Nummern 1 bis 3; soweit Dritte aufgrund ihrer Funktion zur Errichtung, zum Einsatz oder zum Betrieb einer digitalen Plattform verpflichtet werden, sind insbesondere Regelungen zu den Rechten und Pflichten des Betreibers, zu den Registrierungs- und Mitwirkungspflichten von Teilnehmern der Plattform sowie zur Ausgestaltung der Kosten und Entgelte des Betriebs und der Teilnahme vorzusehen, und
+4. die Errichtung, den Einsatz und den Betrieb digitaler Plattformen durch die Verwaltungsbehörde oder durch Dritte für die Vorbereitung und Umsetzung von Maßnahmen nach den Nummern 1 bis 3; soweit Dritte aufgrund ihrer Funktion zur Errichtung, zum Einsatz oder zum Betrieb einer digitalen Plattform verpflichtet werden, sind insbesondere Regelungen zu den Rechten und Pflichten des Betreibers, zu den Registrierungs- und Mitwirkungspflichten von Teilnehmern der Plattform sowie zur Ausgestaltung der Kosten und Entgelte des Betriebs und der Teilnahme vorzusehen,
 
 5. befristete Abweichungen oder Ausnahmen für den Betrieb von Anlagen, soweit diese zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder für den Betrieb sonstiger Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, von
 
@@ -47,9 +47,9 @@ aa)
 der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,
 
 bb)  
-der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung,
+der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und
 
-cc) der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für Betriebssicherheit.
+6. befristete Abweichungen oder Ausnahmen für die Errichtung, den Betrieb und die Änderung von Anlagen, soweit diese Abweichungen oder Ausnahmen zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder von sonstigen Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, nach Abschnitt 3 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung.
 
 Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sowie europäischer und internationaler Verpflichtungen.
 
@@ -261,6 +261,10 @@ oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwid
 
 3. bei Begehung einer in Absatz 1 Nr. 1 bezeichneten Zuwiderhandlung eine außergewöhnliche Mangellage bei der Versorgung mit einem der in § 1 Abs. 1 Nr. 1 genannten Güter zur Erzielung von bedeutenden Vermögensvorteilen ausnutzt.
 
+(4) Die nach § 4 zuständige Behörde kann ihre Anordnung nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Die Höhe des Zwangsgelds beträgt bis zu 100 000 Euro.
+
+(5) Das Zwangsgeld soll das wirtschaftliche Interesse, das der Pflichtige an der Vornahme oder am Unterbleiben der von der nach § 4 zuständigen Behörde angeordneten Handlung hat, erreichen. Reicht das Höchstmaß nach Absatz 4 Satz 3 hierzu nicht aus, so kann es überschritten werden. Das wirtschaftliche Interesse des Pflichtigen ist nach pflichtgemäßem Ermessen zu ermitteln.
+
 # § 16 – Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
@@ -273,7 +277,7 @@ b) sofern sie von einer Landesbehörde erlassen worden sind, die in § 4 Abs. 5 
 
 2. bei Zuwiderhandlungen gegen eine nach § 1 oder nach § 2 erlassene Rechtsverordnung oder gegen eine auf Grund einer solchen Rechtsverordnung ergangene Verfügung,
 
-a) soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Energie oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
+a) soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Klimaschutz oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
 
 b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 genannten Stellen.
 
@@ -311,7 +315,7 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 (3) Die Anordnung einer Kapitalmaßnahme nach Absatz 2 Satz 1 kann vorsehen, dass
 
-1. das Grund- oder Stammkapital eines unter Treuhandverwaltung gestellten Unternehmens unter Ausschluss etwaiger Bezugsrechte der Gesellschafter und unter Zulassung zur Übernahme neuer Anteile durch juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden, erhöht wird,
+1. das Grund- oder Stammkapital eines unter Treuhandverwaltung gestellten Unternehmens unter Ausschluss etwaiger Bezugsrechte der Gesellschafter und unter Zulassung zur Übernahme neuer Anteile durch die Kreditanstalt für Wiederaufbau oder durch juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für Wiederaufbau unmittelbar oder mittelbar gehalten werden, erhöht wird,
 
 2. Kapital- und Gewinnrücklagen eines unter Treuhandverwaltung gestellten Unternehmens aufgelöst werden oder
 
@@ -345,7 +349,7 @@ Eine Kapitalherabsetzung nach Satz 1 Nummer 3 ist nur zulässig, nachdem der Tei
 
 Als Anteile im Sinne von Satz 1 Nummer 1 gelten auch Anteile an Personengesellschaften. Entsprechendes gilt, wenn abhängige Unternehmen im Sinne des Satzes 1 Nummer 3 in der Rechtsform einer Personengesellschaft geführt werden. Satz 1 gilt nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
 
-(3) Die Enteignungsgegenstände werden auf Enteignungsbegünstigte übertragen. Enteignungsbegünstigte sind juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden. Auf Verlangen eines Landes kann der Bund auch zugunsten dieses Landes enteignen.
+(3) Die Enteignungsgegenstände werden auf Enteignungsbegünstigte übertragen. Enteignungsbegünstigte sind die Kreditanstalt für Wiederaufbau oder juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden. Auf Verlangen eines Landes kann der Bund oder von der Kreditanstalt für Wiederaufbau auch zugunsten dieses Landes enteignen.
 
 (4) Die Enteignung ist nur zulässig, wenn sie zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie und zur Aufrechterhaltung der Versorgungssicherheit erforderlich ist und eine zeitlich begrenzte Treuhandverwaltung nach § 17 nicht hinreichend geeignet ist, diesen Zweck zu erfüllen.
 
@@ -475,23 +479,9 @@ Die Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundes
 
 (7) Das transparente und diskriminierungsfreie Verfahren regelt unter angemessener Beachtung der Interessen der Verbraucher insbesondere die der saldierten Preisanpassung unterfallenden Mengen, die Berechnung der Höhe der saldierten Preisanpassung, die Abschlagszahlungen, die Ausgleichsperiode, die Endabrechnung, die Rückerstattung und die Führung eines saldierten Preisanpassungskontos.
 
-# § 27 – Beschränkung von Leistungsverweigerungsrechten aufgrund des Ausfalls kontrahierter Liefermengen
+# § 27 – (weggefallen)
 
-(1) Die Ausübung eines gesetzlichen oder vertraglichen Leistungsverweigerungsrechtes durch ein Energieversorgungsunternehmen im Sinne des § 3 Nummer 18 des Energiewirtschaftsgesetzes aus einem Vertrag über die Lieferung von Erdgas setzt, soweit es mit dem Ausfall oder der Reduzierung von Gaslieferungen unter von dem Energieversorgungsunternehmen abgeschlossenen Lieferverträgen begründet wird, die Genehmigung der Bundesnetzagentur voraus. Das Erfordernis der Genehmigung durch die Bundesnetzagentur gilt nicht, wenn das Energieversorgungsunternehmen gegenüber der Bundesnetzagentur nachweist, dass eine Ersatzbeschaffung, unabhängig von den Kosten, unmöglich ist oder der Handel mit Gas für das deutsche Marktgebiet an der European Energy Exchange ausgesetzt ist. Sonstige Leistungsverweigerungsrechte bleiben unberührt.
-
-(2) Die Bundesnetzagentur entscheidet auf Antrag über die Genehmigung nach pflichtgemäßem Ermessen unter Berücksichtigung des öffentlichen Interesses an der Sicherstellung der Funktionsfähigkeit des Marktes. Sie teilt ihre Entscheidung dem antragstellenden Energieversorgungsunternehmen mit. § 29 sowie Teil 8 des Energiewirtschaftsgesetzes sind entsprechend anzuwenden.
-
-(3) Die Absätze 1 und 2 sind nur anzuwenden, solange die Alarmstufe oder die Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, besteht.
-
-# § 28 – Ausgleich von Vermögensnachteilen
-
-(1) Diejenige Behörde, die über eine Genehmigung nach § 27 entscheidet, hat den Betroffenen auf Antrag für den Vermögensnachteil zu entschädigen, den dieser dadurch erleidet, dass eine Ausübung eines Leistungsverweigerungsrechtes nach § 27 Absatz 1 Satz 1 oder seine Wirksamkeit einer behördlichen Genehmigung bedarf und diese nicht innerhalb einer angemessenen Frist erteilt wird.
-
-(2) Der Vermögensnachteil wird entschädigt, soweit das Vertrauen des Betroffenen auf das Recht zur Ausübung eines Leistungsverweigerungsrechtes schutzwürdig ist. Der Vermögensnachteil ist jedoch nicht über den Betrag des Interesses hinaus zu ersetzen, das der Betroffene an dem Recht zur Ausübung eines Leistungsverweigerungsrechtes hat. Unterstützungsmaßnahmen der öffentlichen Hand sind bei der Bemessung einer zu zahlenden Entschädigung zu berücksichtigen.
-
-(3) Der auszugleichende Vermögensnachteil wird durch die Behörde festgesetzt. Der Anspruch kann nur innerhalb eines Jahres geltend gemacht werden.
-
-(4) Für Streitigkeiten über die Entschädigung ist im Sinne des § 40 Absatz 2 Satz 1 der Verwaltungsgerichtsordnung der ordentliche Rechtsweg gegeben.
+# § 28 – (weggefallen)
 
 # § 29 – Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
 
@@ -592,7 +582,7 @@ Die Regelungen nach Satz 1 gelten auch im Fall einer Kapitalerhöhung nach § 17
 
 1. die Einsparung und die Reduzierung des Verbrauchs von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern, von elektrischer Energie und sonstigen Energien (Güter) mit Ausnahme von Vorschriften über Maßnahmen nach § 1 Absatz 3 zweiter Halbsatz,
 
-2. den schienengebundenen Transport von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern oder von sonstigen Energien (Güter) sowie Großtransformatoren und
+2. den schienengebundenen Transport von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern oder von sonstigen Energien (Güter) oder von Betriebs-, Hilfs- und Abfallstoffen, die für den Betrieb von Anlagen zur Energieerzeugung erforderlich sind oder bei dem Betrieb solcher Anlagen anfallen, sowie Großtransformatoren,
 
 3. befristete Abweichungen oder Ausnahmen für den Betrieb von Anlagen, soweit diese zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder für den Betrieb sonstiger Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, von
 
@@ -622,9 +612,9 @@ aa)
 der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,
 
 bb)  
-der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung,
+der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und
 
-cc) der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für Betriebssicherheit.
+4. befristete Abweichungen oder Ausnahmen für die Errichtung, den Betrieb und die Änderung von Anlagen, soweit diese Abweichungen oder Ausnahmen zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder von sonstigen Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, nach Abschnitt 3 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Eine drohende Knappheit im Sinne des Absatzes 1 ist insbesondere dann anzunehmen, wenn
 
@@ -643,6 +633,16 @@ cc) der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die z
 (5) Rechtsverordnungen nach Absatz 1 Nummer 2 werden von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt, soweit in ihnen nichts anderes bestimmt ist. Die §§ 5, 11 und 12 sind insoweit entsprechend anzuwenden.
 
 (6) Auf Rechtsverordnungen nach Absatz 1 Nummer 1 und 3 sind § 4 Absatz 5, § 5 Satz 1 sowie die §§ 11 und 12 entsprechend anzuwenden.
+
+# § 30a – Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage
+
+(1) Eine überwachungsbedürftige Anlage im Sinne des § 2 Absatz 13 der Betriebssicherheitsverordnung, die wegen einer ernsten oder erheblichen Gasmangellage errichtet oder so geändert wird, dass ihre Sicherheit beeinflusst wird, darf in Abweichung von § 18 Absatz 1 Satz 1 der Betriebssicherheitsverordnung ohne die erforderliche Erlaubnis verwendet werden. Die Prüfung gemäß § 15 Absatz 1 Satz 1 der Betriebssicherheitsverordnung muss durchgeführt werden und ergeben, dass die Anlage sicher betrieben werden kann. Dieses Ergebnis der Prüfung muss in einer Prüfbescheinigung gemäß § 17 Absatz 1 der Betriebssicherheitsverordnung dokumentiert werden.
+
+(2) Der Betreiber hat eine gemäß § 18 Absatz 1 Satz 1 der Betriebssicherheitsverordnung erforderliche Erlaubnis ohne schuldhaftes Zögern, spätestens jedoch drei Monate nach der Erteilung der Prüfbescheinigung gemäß § 17 Absatz 1 der Betriebssicherheitsverordnung, bei der zuständigen Behörde zu beantragen. Dem Antrag sind die Prüfbescheinigung und alle weiteren Unterlagen beizufügen, die für die Beurteilung eines Antrags auf Neuerrichtung oder auf Änderung der Bauart oder der Betriebsweise erforderlich sind. Bei neu errichteten überwachungsbedürftigen Anlagen ist auch der Prüfbericht gemäß § 18 Absatz 3 Satz 7 der Betriebssicherheitsverordnung einer zugelassenen Überwachungsstelle im Sinne von § 2 Absatz 14 der Betriebssicherheitsverordnung beizufügen.
+
+(3) Die zuständige Behörde hat über den Antrag innerhalb von drei Monaten, nachdem er bei ihr eingegangen ist, zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden.
+
+(4) Die Absätze 1 bis 3 sind nur bis zum Ablauf des 30. September 2024 anzuwenden.
 
 # § 31 – Inkrafttreten
 

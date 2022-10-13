@@ -65,7 +65,7 @@ Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des Implantateregi
 
 # § 2 – Verpflichtungen der Kostenträger
 
-(1) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des Implantateregistergesetzes ab dem 1. Juli 2023 zu erfüllen.
+(1) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des Implantateregistergesetzes ab dem 1. Januar 2023 zu erfüllen.
 
 (2) Die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 2 und 3 des Implantateregistergesetzes erstmals zum 1. Januar 2025 zu erfüllen.
 
