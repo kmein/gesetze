@@ -153,8 +153,7 @@ A1, B, E
 
  5a
 
-Höchstspannungsleitung Klein  
-Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom
+Höchstspannungsleitung Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom
 
 A1, B, E
 
@@ -1011,22 +1010,19 @@ A1
 
 89
 
-Höchstspannungsleitung Westerkappeln – Gersteinwerk;  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom Nennspannung 380 kV
 
 –
 
 90
 
-Höchstspannungsleitung Gersteinwerk – Lippe – Mengede;  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom Nennspannung 380 kV
 
 –
 
 91
 
-Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen;  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen; Drehstrom Nennspannung 380 kV
 
 –
 
@@ -1038,15 +1034,13 @@ Höchstspannungsleitung Walsum – Beeck; Drehstrom Nennspannung 380 kV
 
 93
 
-Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar;  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar; Drehstrom Nennspannung 380 kV
 
 A1
 
 94
 
-Höchstspannungsleitung Sechtem – Ließem – Weißenthurm;  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom Nennspannung 380 kV
 
 A1
 
@@ -1064,8 +1058,7 @@ A1
 
 97
 
-Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR); Drehstrom Nennspannung 380 kV
 
 A2, G
 
@@ -1077,8 +1070,7 @@ Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen 
 
 99
 
-Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);  
-Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom Nennspannung 380 kV
 
  
 
