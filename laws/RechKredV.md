@@ -1,4 +1,4 @@
-% Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute  (Kreditinstituts-Rechnungslegungsverordnung - RechKredV)
+% Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute  (Kreditinstituts-Rechnungslegungsverordnung - RechKredV)
 % Ausfertigungsdatum: 10.02.1992
  
 # Inhaltsübersicht

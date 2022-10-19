@@ -2420,51 +2420,49 @@ Gemeinschaftseinrichtungen im Sinne dieses Gesetzes sind Einrichtungen, in denen
 
 1. Cholera
 
-2. Coronavirus-Krankheit-2019 (COVID-19)
+2. Diphtherie
 
-3. Diphtherie
+3. Enteritis durch enterohämorrhagische E. coli (EHEC)
 
-4. Enteritis durch enterohämorrhagische E. coli (EHEC)
+4. virusbedingtem hämorrhagischen Fieber
 
-5. virusbedingtem hämorrhagischen Fieber
+5. Haemophilus influenzae Typ b-Meningitis
 
-6. Haemophilus influenzae Typ b-Meningitis
+6. Impetigo contagiosa (ansteckende Borkenflechte)
 
-7. Impetigo contagiosa (ansteckende Borkenflechte)
+7. Keuchhusten
 
-8. Keuchhusten
+8. ansteckungsfähiger Lungentuberkulose
 
-9. ansteckungsfähiger Lungentuberkulose
+9. Masern
 
-10. Masern
+10. Meningokokken-Infektion
 
-11. Meningokokken-Infektion
+11. Mumps
 
-12. Mumps
+12. durch Orthopockenviren verursachte Krankheiten
 
-13. durch Orthopockenviren verursachte Krankheiten
+13. Paratyphus
 
-14. Paratyphus
+14. Pest
 
-15. Pest
+15. Poliomyelitis
 
-16. Poliomyelitis
+16. Röteln
 
-17. Röteln
+17. Scharlach oder sonstigen Streptococcus pyogenes-Infektionen
 
-18. Scharlach oder sonstigen Streptococcus pyogenes-Infektionen
+18. Shigellose
 
-19. Shigellose
+19. Skabies (Krätze)
 
-20. Skabies (Krätze)
+20. Typhus abdominalis
 
-21. Typhus abdominalis
+21. Virushepatitis A oder E
 
-22. Virushepatitis A oder E
+22. Windpocken
 
-23. Windpocken
-
-erkrankt oder dessen verdächtig oder die verlaust sind, dürfen in den in § 33 genannten Gemeinschaftseinrichtungen keine Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige Tätigkeiten ausüben, bei denen sie Kontakt zu den dort Betreuten haben, bis nach ärztlichem Urteil eine Weiterverbreitung der Krankheit oder der Verlausung durch sie nicht mehr zu befürchten ist oder sie in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) einen Testnachweis nach § 22a Absatz 3 vorlegen. Satz 1 gilt entsprechend für die in der Gemeinschaftseinrichtung Betreuten mit der Maßgabe, dass sie die dem Betrieb der Gemeinschaftseinrichtung dienenden Räume nicht betreten, Einrichtungen der Gemeinschaftseinrichtung nicht benutzen und an Veranstaltungen der Gemeinschaftseinrichtung nicht teilnehmen dürfen. Satz 2 gilt auch für Kinder, die das 6. Lebensjahr noch nicht vollendet haben und an infektiöser Gastroenteritis erkrankt oder dessen verdächtig sind.
+erkrankt oder dessen verdächtig oder die verlaust sind, dürfen in den in § 33 genannten Gemeinschaftseinrichtungen keine Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige Tätigkeiten ausüben, bei denen sie Kontakt zu den dort Betreuten haben, bis nach ärztlichem Urteil eine Weiterverbreitung der Krankheit oder der Verlausung durch sie nicht mehr zu befürchten ist. Satz 1 gilt entsprechend für die in der Gemeinschaftseinrichtung Betreuten mit der Maßgabe, dass sie die dem Betrieb der Gemeinschaftseinrichtung dienenden Räume nicht betreten, Einrichtungen der Gemeinschaftseinrichtung nicht benutzen und an Veranstaltungen der Gemeinschaftseinrichtung nicht teilnehmen dürfen. Satz 2 gilt auch für Kinder, die das 6. Lebensjahr noch nicht vollendet haben und an infektiöser Gastroenteritis erkrankt oder dessen verdächtig sind.
 
 (2) Ausscheider von
 

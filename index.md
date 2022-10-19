@@ -4621,7 +4621,7 @@
 - [RebflV](laws/RebflV.md) Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
 - [ReblV](laws/ReblV.md) Verordnung zur Bekämpfung der Reblaus
 - [RebPflV 1986](laws/RebPflV_1986.md) Rebenpflanzgutverordnung
-- [RechKredV](laws/RechKredV.md) Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute
+- [RechKredV](laws/RechKredV.md) Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute
 - [RechPensV](laws/RechPensV.md) Verordnung über die Rechnungslegung von Pensionsfonds
 - [RechtsfachwPrV](laws/RechtsfachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
 - [RechVersV](laws/RechVersV.md) Verordnung über die Rechnungslegung von Versicherungsunternehmen
