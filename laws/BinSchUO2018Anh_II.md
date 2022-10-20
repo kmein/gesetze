@@ -876,11 +876,10 @@ Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in
 –  
 „E.U.“:
 
-Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.
+Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und<br />
-Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">5.01 Nr. 1</td><td style="text-align: left;">Allgemeines</td><td style="text-align: left;">E.U.</td></tr><tr class="even"><td style="text-align: left;">5.08 Nr. 3</td><td style="text-align: left;">automatisierter externer<br />
-Defibrillator</td><td style="text-align: left;">E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 01.01.2024</td></tr></tbody></table>
+Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">5.01 Nr. 1</td><td style="text-align: left;">Allgemeines</td><td style="text-align: left;">E.U.</td></tr><tr class="even"><td style="text-align: left;">5.08 Nr. 3</td><td style="text-align: left;">automatisierter externer Defibrillator</td><td style="text-align: left;">E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 01.01.2024</td></tr></tbody></table>
 
 # § 7.01 – Allgemeine Bestimmungen
 
