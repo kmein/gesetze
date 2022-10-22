@@ -211,7 +211,7 @@ f) an Bord dessen entgegen § 8.05 Satz 2 ein Abdruck der Anlage A zu dieser Ver
 
 g) das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
 
-h) das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
+h) das entgegen § 10.09 Nummer 3 Satz 1 nicht mit einem dort genannten Inland ECDIS Gerät ausgestattet ist,
 
 i) das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder,
 
@@ -305,7 +305,7 @@ e) das entgegen § 2.03 nicht geeicht ist,
 
 f) das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
 
-g) das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
+g) das entgegen § 10.09 Nummer 3 Satz 1 nicht mit einem dort genannten Inland ECDIS Gerät ausgestattet ist,
 
 h) das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder,
 

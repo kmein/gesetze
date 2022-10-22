@@ -133,9 +133,9 @@ b) ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr a
 
 5. entgegen § 1.09 Nummer 1, auch in Verbindung mit Nummer 5 Satz 1, nicht sicherstellt, dass das Ruder mit einer dort vorgeschriebenen Person besetzt ist,
 
-6. entgegen § 1.09 Nummer 4 nicht dafür sorgt, dass in dem dort genannten Fall zu seiner Unterrichtung und der des Rudergängers ein Ausguck aufgestellt ist,
+6. entgegen § 1.09 Nummer 4 Satz 1 nicht dafür sorgt, dass ein Ausguck aufgestellt ist,
 
-7. entgegen § 1.12 Nummer 3 Satz 1 oder Nummer 4, § 1.13 Nummer 2 oder 3, §§ 1.14, 1.15 Nummer 2 oder § 1.17 Nummer 1 Satz 1, Nummer 3 oder 4, jeweils auch in Verbindung mit Nummer 5, in den dort jeweils genannten Fällen nicht oder nicht rechtzeitig für eine Benachrichtigung sorgt,
+7. entgegen § 1.12 Nummer 3 Satz 1 oder Nummer 4, § 1.13 Nummer 2 oder 3, § 1.14, § 1.15 Nummer 2 oder § 1.17 Nummer 1 Satz 1 oder Nummer 4, jeweils auch in Verbindung mit Nummer 5, in den dort jeweils genannten Fällen nicht oder nicht rechtzeitig für eine Benachrichtigung sorgt,
 
 8. entgegen § 1.12 Nummer 5 nicht dafür sorgt, dass ein Gegenstand nach § 1.12 Nummer 1 nicht über die Bordwand seines Fahrzeugs, seines Schwimmkörpers oder seiner schwimmenden Anlage hinausragt,
 
@@ -145,11 +145,11 @@ b) ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr a
 
 11. entgegen § 1.16 Nummer 2 in den dort genannten Fällen nicht oder nicht rechtzeitig Hilfe leistet,
 
-12. entgegen § 1.17 Nummer 1 Satz 1 für eine Benachrichtigung der nächsten Dienststelle nicht, nicht richtig oder nicht rechtzeitig sorgt,
+12. entgegen § 1.17 Nummer 1 Satz 2 in dem in § 1.17 Nummer 1 Satz 1 genannten Fall nicht an Bord oder in der Nähe der Unfallstelle bleibt,
 
-13. entgegen § 1.17 Nummer 1 Satz 2 in dem in § 1.17 Nummer 1 Satz 1 genannten Fall nicht an Bord oder in der Nähe der Unfallstelle bleibt,
+13. entgegen § 1.17 Nummer 2 in dem dort genannten Fall nicht oder nicht rechtzeitig für eine Wahrschau sorgt,
 
-14. entgegen § 1.17 Nummer 2 in dem dort genannten Fall nicht oder nicht rechtzeitig für eine Wahrschau sorgt,
+14. entgegen § 1.17 Nummer 3, auch in Verbindung mit Nummer 5, eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
 15. entgegen § 1.18 Nummer 1 oder 2 in den dort jeweils genannten Fällen eine erforderliche Maßnahme nicht trifft,
 
@@ -691,13 +691,7 @@ b) ein Schallzeichen unter Umständen gebraucht, für die es nicht vorgeschriebe
 
 2. entgegen § 4.05 Nummer 8 Buchstabe b nicht sicherstellt, dass sein Fahrzeug mit den nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1 vorgeschriebenen Sprechfunkanlagen ausgerüstet ist,
 
-3. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug
-
-a) mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1 ausgestattet ist,
-
-b) in dem in § 4.07 Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
-
-c) in dem in § 4.07 Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+3. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass ein Fahrzeug mit einem dort genannten Gerät ausgestattet oder mit einer Sprechfunkanlage ausgerüstet ist,
 
 4. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht,
 
@@ -715,13 +709,7 @@ c) in dem in § 4.07 Nummer 8 genannten Fall mit einer Sprechfunkanlage für den
 
 4. entgegen § 4.06 Nummer 4 Buchstabe b die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einer geeigneten Person nach § 4.06 Nummer 1 Satz 1 Buchstabe b besetzt ist,
 
-5. entgegen § 4.07 Nummer 11 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Fahrzeug
-
-a) nicht mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1 ausgestattet ist,
-
-b) in dem in § 4.07 Nummer 3 Satz 1 genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
-
-c) in dem in § 4.07 Nummer 8 genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder
+5. entgegen § 4.07 Nummer 11 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt oder
 
 6. entgegen § 4.07 Nummer 11 Buchstabe b die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften nicht entspricht.
 
