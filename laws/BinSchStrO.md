@@ -246,10 +246,10 @@ bei einer Streckenangabe schließt der Kilometerendpunkt die jeweilige Kilometer
 
 die Besatzung nach Teil 3 der Binnenschiffspersonalverordnung oder nach den §§ 3.15 bis 3.23 der Schiffspersonalverordnung-Rhein, die sich nicht in der Ruhezeit befindet;
 
-46. „Inland ECDIS Gerät“:  
+46. „Inland AIS Gerät“:  
   
 
-ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards „Schiffsverfolgung und Aufspürung in der Binnenschifffahrt (Beschluss 2006-I-21)“ der Zentralkommission für die Rheinschifffahrt genutzt wird;
+ein Gerät im Sinne der Durchführungsverordnung (EU) 2019/838 der Kommission vom 20. Februar 2019 über die technischen Spezifikationen für Schiffsverfolgungs- und -aufspürungssysteme und zur Aufhebung der Verordnung (EG) Nr. 415/2007 (ABl. L 138 vom 24.5.2019, S. 31), die in Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS wiedergegeben ist, das auf einem Fahrzeug eingebaut ist und genutzt wird;
 
 47. „Inland AIS Gerät“:  
   
@@ -301,17 +301,22 @@ Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Bi
 
 Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
 
-57. „LNG-System“:  
+57. „ES-RIS“:  
+  
+
+Europäischer Standard für Binnenschiffsinformationsdienste in der Ausgabe 2021/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 2. Juni 2021 (BAnz AT 01.09.2021 B4)); dabei ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
+
+58. „LNG-System“:  
   
 
 sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, insbesondere Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
 
-58. „Bunkerbereich“:  
+59. „Bunkerbereich“:  
   
 
 der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
 
-59. „Flüssigerdgas (LNG)“:  
+60. „Flüssigerdgas (LNG)“:  
   
 
 Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde.
@@ -491,7 +496,7 @@ Außenbordarbeiten nur bei einem stillliegenden Fahrzeug und nur dann durchgefü
 
 3. Zur sicheren Steuerung des Fahrzeugs muss der Rudergänger in der Lage sein, alle im Steuerstand ankommenden Informationen und Weisungen zu empfangen oder von dort Informationen zu geben. Insbesondere muss er alle Schallzeichen wahrnehmen können und nach allen Seiten genügend freie Sicht haben.
 
-4. Soweit es besondere Umstände erfordern, hat der Schiffsführer dafür zu sorgen, dass zu seiner Unterrichtung und der des Rudergängers ein Ausguck aufgestellt ist.
+4. Soweit es besondere Umstände erfordern, hat der Schiffsführer dafür zu sorgen, dass zu seiner Unterrichtung und der des Rudergängers ein Ausguck aufgestellt ist. Ein besonderer Umstand im Sinne des Satzes 1 ist insbesondere der Fall, dass der Rudergänger während der Durchführung einer Prüfung an Bord eines Fahrzeuges zur Erlangung von Befähigungszeugnissen in der Binnenschifffahrt für die Dauer der Prüfung keine freie Sicht nach allen Seiten hat.
 
 5. Für die Fahrt auf den in der folgenden Tabelle genannten Binnenschifffahrtsstraßen:  
 
@@ -793,7 +798,7 @@ Eine sportliche Veranstaltung, Wasserfestlichkeit oder sonstige Veranstaltung, d
 
 # § 1.24 – Sonderregelung für Fahrzeugeim öffentlichen Dienst und für Wasserrettungsfahrzeuge
 
-1. Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des Bundeskriminalamtes, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes, der Wasserwirtschaftsverwaltungen oder der Fischereiaufsicht der Länder sind von der Beachtung der Binnenschifffahrtsstraßen-Ordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
+1. Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des Bundeskriminalamtes, der Streitkräfte, der Zollverwaltung, der Feuerwehr, des Zivil- und Katastrophenschutzes, der Wasserwirtschaftsverwaltungen oder der Fischereiaufsicht der Länder sind von der Beachtung der Binnenschifffahrtsstraßen-Ordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
 2. Dies gilt auch für ein Wasserrettungsfahrzeug einer öffentlich-rechtlichen Anstalt oder Körperschaft oder einer als gemeinnützig anerkannten Körperschaft im Rettungseinsatz.
 
@@ -1625,7 +1630,7 @@ b) bei Tag:
 
 # § 3.27 – Bezeichnung der Fahrzeuge der Überwachungsbehörden(Anlage 3: Bild 56)
 
-Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch für ein Feuerlöschboot oder für ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz sowie für ein Zollboot, ein Fahrzeug der Bundespolizei oder ein Fahrzeug des Bundeskriminalamtes.   
+Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch für ein Fahrzeug der Feuerwehr oder für ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz sowie für ein Fahrzeug der Zollverwaltung, ein Fahrzeug der Bundespolizei oder ein Fahrzeug des Bundeskriminalamtes.   
 
 |     |                                                      |                                                      |
 |:----|:-----------------------------------------------------|:-----------------------------------------------------|
@@ -1927,15 +1932,15 @@ a) für den Fall, dass die zuständige Behörde eine Ausnahme für Wasserfläche
 
 b) für ein Fahrzeug der Polizei, wenn die Übermittlung von AIS-Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Ein Fahrzeug, das mit einem Inland AIS Gerät ausgerüstet sein muss, muss zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus nach Maßgabe der Sätze 2 und 3, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses muss zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt werden. Das Inland ECDIS Gerät im Informationsmodus und die elektronische Binnenschifffahrtskarte müssen den Anforderungen der Durchführungsverordnung (EU) Nr. 909/2013 der Kommission vom 10. September 2013 zu den technischen Spezifikationen für das System zur elektronischen Darstellung von Binnenschifffahrtskarten und von damit verbundenen Informationen (Inland ECDIS) gemäß der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates (ABl. L 258 vom 28.9.2013 S. 1) entsprechen. Das Inland ECDIS Gerät im Informationsmodus muss in einem guten Betriebszustand sein. Die Sätze 1 bis 3 gelten nicht für eine Fähre.
+3. Ein Fahrzeug, das mit einem Inland AIS Gerät ausgerüstet sein muss, muss zusätzlich mit einem Inland ECDIS Gerät mit mindestens dem Informationsmodus nach Maßgabe der Sätze 3 bis 5, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein. Das Inland ECDIS Gerät muss zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt werden. Das Inland ECDIS Gerät und die elektronische Binnenschifffahrtskarte müssen den Anforderungen der Durchführungsverordnung (EU) Nr. 909/2013 der Kommission vom 10. September 2013 zu den technischen Spezifikationen für das System zur elektronischen Darstellung von Binnenschifffahrtskarten und von damit verbundenen Informationen (Inland ECDIS) gemäß der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates (ABl. L 258 vom 28.9.2013, S. 1), die durch die Durchführungsverordnung (EU) 2018/1973 (ABl. L 324 vom 19.12.2018, S. 1) geändert worden ist, entsprechen, die in Teil I „Elektronisches Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“ des ES-RIS wiedergegeben ist. Das Inland ECDIS Gerät muss in einem guten Betriebszustand sein. Ein Inland ECDIS Gerät, das den Anforderungen der am 26. September 2022 anzuwendenden Fassung der Binnenschifffahrtsstraßen-Ordnung entspricht, darf bis zum Ablauf des 19. Juni 2024 weiterhin betrieben werden. Die Sätze 1 bis 4 gelten nicht für eine Fähre.
 
-4. Es müssen folgende Daten nach Kapitel 2 des Standards Schiffsverfolgung und -aufspürung in der Binnenschifffahrt unverzüglich nach Fahrtantritt übermittelt werden:
+4. Es müssen folgende Daten nach der Durchführungsverordnung (EU) 2019/838, die in Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS wiedergegeben ist, unverzüglich nach Fahrtantritt übermittelt werden:
 
 a) User Identifier (Maritime Mobile Service Identity, MMSI);
 
 b) Schiffsname;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp nach der Durchführungsverordnung (EU) 2019/838, die in Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS wiedergegeben ist;
 
 d) einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe sofern keine ENI erteilt wurde, die IMO Nummer;
 
@@ -1963,7 +1968,7 @@ a) Länge über alles mit einer Genauigkeit von 0,1 m nach Anlage 9;
 
 b) Breite über alles mit einer Genauigkeit von 0,1 m nach Anlage 9;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp nach der Durchführungsverordnung (EU) 2019/838, die in Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS wiedergegeben ist;
 
 d) Navigationsstatus nach Anlage 9;
 
@@ -2006,7 +2011,7 @@ aaa)
 mit einem Inland AIS Gerät nach Nummer 1 Satz 1 ausgestattet ist,
 
 bbb)  
-in dem in Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist und
+in dem in Nummer 3 Satz 1 genannten Fall mit einem dort genannten Inland ECDIS Gerät ausgestattet ist und
 
 ccc) in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
 
@@ -2025,7 +2030,7 @@ aa)
 mit einem Inland AIS Gerät nach Nummer 1 Satz 1 ausgestattet ist,
 
 bb)  
-in dem in Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist und
+in dem in Nummer 3 Satz 1 genannten Fall mit einem dort genannten Inland ECDIS Gerät ausgestattet ist und
 
 cc) in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist und
 
@@ -2335,19 +2340,10 @@ Das andere Fahrzeug muss daraufhin, soweit notwendig, seinen Kurs und seine Gesc
 3. Ist an der Ausfahrt eines Hafens oder an der Mündung einer Nebenwasserstraße ein Tafelzeichen B.9a oder B.9b (Anlage 7) angebracht, darf ein aus dem Hafen oder aus der Nebenwasserstraße kommendes Fahrzeug in die Hauptwasserstraße nur einbiegen oder sie überqueren, wenn dadurch ein Fahrzeug auf der Hauptwasserstraße nicht gezwungen wird, seinen Kurs oder seine Geschwindigkeit zu ändern.   
 
 |     |                                                      |                                                      |
-|:----|:-----------------------------------------------------|:-----------------------------------------------------|
+|:----|-----------------------------------------------------:|-----------------------------------------------------:|
 |     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0120_ab1.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0121_ab1.jpg) |
 
   
-
-4. Ein rotes Licht, Zeichen A.1 (Anlage 7), mit einem weißen Pfeil  
-(Abschnitt II Nummer 2 Buchstabe c der Anlage 7) zeigt an, dass die Einfahrt  
-in den in Pfeilrichtung gelegenen Hafen oder in die in Pfeilrichtung gelegene  
-Nebenwasserstraße verboten ist.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0122_ab1.jpg)
-
-6. Werden die Zeichen nach den Nummern 4 und 5 nicht gegeben, darf in eine Nebenwasserstraße oder einen Hafen, deren oder dessen Mündung für eine gleichzeitige Einfahrt und Ausfahrt nicht ausreichend Platz bietet, erst eingefahren werden, wenn kein Fahrzeug ausfährt.
 
 # § 6.17 – Fahrt auf gleicher Höhe; Verbot der Annäherung an Fahrzeuge
 
@@ -2712,7 +2708,7 @@ Sind mehrere Schleusen vorhanden und ist für alle die Ausfahrt freigegeben, hat
 
 3. Ein zur Schleusung anstehendes Fahrzeug muss vorbehaltlich der Regelung nach Nummer 2 so weit aufschließen, dass es unverzüglich nach dem Zeichen zur Einfahrt in die Schleuse einfahren kann. Versäumt ein Fahrzeug das Aufrücken, verliert es für die anstehende Schleusung seinen Rang. Ein Fahrzeug, das auf das Zeichen zur Einfahrt nicht schleusungsbereit ist, wird so lange zurückgestellt, bis es seine Vorbereitungen beendet hat.
 
-4. Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungs- oder Feuerlöschfahrzeug auf der Fahrt zur Unfallstelle.
+4. Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungsfahrzeug oder ein Fahrzeug der Feuerwehr auf der Fahrt zur Unfallstelle.
 
 5. Auf Verlangen werden mit Vorrang in nachstehender Reihenfolge vor anderen als den in Nummer 4 genannten Fahrzeugen geschleust:
 
@@ -9609,7 +9605,7 @@ Die Klappbrücken Wittorf und Bardowick werden nur nach Anmeldung geöffnet.
 
 # § 18.27 – Verkehrsbeschränkungen der Schifffahrt
 
-Das Befahren der Ilmenau von der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km 0,50) ist verboten. Die zuständige Behörde kann im Einzelfall Ausnahmen zulassen. Satz 1 gilt nicht für ein Kleinfahrzeug ohne Antriebsmaschine.
+Das Befahren der Ilmenau von der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km 0,50) ist verboten. Die zuständige Behörde kann im Einzelfall Ausnahmen zulassen.
 
 # § 18.28 – Benutzung der Wasserstraßen
 
@@ -12011,9 +12007,9 @@ b) Sportfahrzeuge,
 
 c) Fahrzeuge der Überwachungsbehörden nach § 1.20,
 
-d) Feuerlöschboote,
+d) Fahrzeuge der Feuerwehr,
 
-e) Zollboote,
+e) Fahrzeuge der Zollverwaltung,
 
 f) Wasserrettungsfahrzeuge nach § 1.24 Nummer 2 im Rettungseinsatz oder bei einer Kontrollfahrt,
 
@@ -12129,9 +12125,9 @@ b) ein Sportfahrzeug,
 
 c) ein Fahrzeug der Überwachungsbehörden nach § 1.20,
 
-d) ein Feuerlöschboot,
+d) ein Fahrzeug der Feuerwehr,
 
-e) ein Zollboot,
+e) ein Fahrzeug der Zollverwaltung,
 
 f) ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz oder bei einer Kontrollfahrt,
 
@@ -12683,7 +12679,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 2. der Oberen Havel-Wasserstraße (OHW) vom Abzweig Langer Trödel (OHW-km 0,00/MzK-km 46,90) bis Neustrelitz (Nordostende Zierker See bei OHW-km 94,41) einschließlich Vosskanal, Obere Havel (Stolpsee, Schwedtsee, Baalensee, Röblinsee, Menowsee, Ziernsee, Ostteil des Ellbogensees, Großer und Kleiner Priepertsee, Westteil des Wangnitzsees, Finowsee, Westteil des Drewensees, Woblitzsee und Zierker See) mit Wentow-Gewässer nebst Fahrt nach Tornow und Tornowfließ (einschließlich Wentowkanal, Großer und Kleiner Wentowsee), Templiner Gewässer (Templiner Wasser, Kuhwallsee, Kleiner Lankensee, Röddelinsee, Templiner Kanal, Templiner See, Bruchsee, Fährsee und Zaarsee nebst Großer Lankensee und Gleuensee (Gleuenfließ)), Lychener Gewässer (Haussee, Woblitz, Großer Lychensee und Stadtsee), Quassower Havel von der Einmündung in den Woblitzsee bei km 87,23 bis Unterwasser Schleuse Zwenzow (km 92,09) einschließlich Großer Labussee,
 
-3. der Müritz-Havel-Wasserstraße (MHW) von der Einmündung in die Obere Havel-Wasserstraße (MHW-km 0,00/Ellbogensee bei Priepert, OHW-km 72,45) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (MHW-km 32,02/ Kleine Müritz, bei MEW-km 171,68) einschließlich Westteil des Ellbogensees, Nordteil des Großen Pälitzsees, Nordteil des Kleinen Pälitzsees, Canower See, Labussee, Kleiner Peetschsee, Nordteil des Großen Peetschsees, Ostteil des Vilzsees, Mössensee, Zotzensee und Mirower Kanal (Ragunsee, Sumpfsee) mit Südwestteil des Großen Pälitzsees, Rheinsberger Gewässer (Südteil des Kleinen Pälitzsees, Wolfsbrucher Schleusenkanal, Prebelowsee, Prebelowkanal, Tietzowsee, Hüttenkanal, Schlabornsee, Schlabornkanal, Rheinsberger See, Rheinsberger Kanal und Grienericksee) nebst Dollgowkanal und Dollgowsee, Zechliner Gewässer (Zootzenkanal, Zootzensee, Repenter Kanal, Großer Zechliner See, Zechliner Kanal, Schwarzer See), Großer Peetschsee, Westteil des Vilzsees und Mirower Adlersee bis Holmer Kamp (km 3,06), Mirower See, Bolter Kanal von dem Oberwasser der ehemaligen Schleuse Bolt bei km 1,97 bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (Müritz) und
+3. der Müritz-Havel-Wasserstraße (MHW) von der Einmündung in die Obere Havel-Wasserstraße (MHW-km 0,00/Ellbogensee bei Priepert, OHW-km 72,45) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (MHW-km 32,02/ Kleine Müritz, bei MEW-km 171,68) einschließlich Westteil des Ellbogensees, Nordteil des Großen Pälitzsees, Nordteil des Kleinen Pälitzsees, Canower See, Labussee, Kleiner Peetschsee, Ostteil des Vilzsees, Mössensee, Zotzensee und Mirower Kanal (Ragunsee, Sumpfsee) mit Südwestteil des Großen Pälitzsees, Rheinsberger Gewässer (Südteil des Kleinen Pälitzsees, Wolfsbrucher Schleusenkanal, Prebelowsee, Prebelowkanal, Tietzowsee, Hüttenkanal, Schlabornsee, Schlabornkanal, Rheinsberger See, Rheinsberger Kanal und Grienericksee) nebst Dollgowkanal und Dollgowsee, Zechliner Gewässer (Zootzenkanal, Zootzensee, Repenter Kanal, Großer Zechliner See, Zechliner Kanal, Schwarzer See), Großer Peetschsee, Westteil des Vilzsees und Mirower Adlersee bis Holmer Kamp (km 3,06), Mirower See, Bolter Kanal von dem Oberwasser der ehemaligen Schleuse Bolt bei km 1,97 bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (Müritz) und
 
 4. der Müritz-Elde-Wasserstraße (MEW) von der Einmündung des Elde-Seitenkanals in die Elbe (MEW-km 0,00/ El-km 504,08) bis Buchholz (MEW-km 180,00) einschließlich Elde-Seitenkanal und Mecklenburgische Oberseen (Plauer See, Petersdorfer See, Malchower See, Fleesensee, Kölpinsee, Müritz) mit Verbindungskanal Elde-Dreieck, Stör-Wasserstraße (StW-Störkanal, Stör und Schweriner See (von der Einmündung des Stangengrabens in den Schweriner See (Innensee, bei StW-km 25,29) bis zur Abzweigung des Wickendorfer Kanals/Langen Grabens aus dem Schweriner Außensee bei StW-km 30,34) nebst Ziegelsee).
 
@@ -18760,18 +18756,51 @@ Weiße Tonnen können zu anderen als den vorgenannten Zwecken verwendet werden. 
 
 2. Bezugspunkt der Positionsinformation auf dem Fahrzeug
 
-Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m eingeben.
+2.1  
+Bei Inland AIS Geräten, die vor dem 1. Dezember 2015 eingebaut wurden:
 
-Das Maß A ist in Richtung des Bugs ausgerichtet.   
+a) Für ein Fahrzeug
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j2948-1_0010.jpg)
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m eingeben.
 
-Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug  
-  
+Das Maß A ist in Richtung des Bugs ausgerichtet.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j2948-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1499-1_0030.jpg)
 
-Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband.
+Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+b) Für einen Verband
+
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m und die Werte für W und L mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1499-1_0040.jpg)
+
+Erläuterungen zu den W, L, A, B, C und D Werten für einen Verband
+
+2.2  
+Bei Inland AIS Geräten, die nach dem 1. Dezember 2015 eingebaut wurden:
+
+a) Für ein Fahrzeug
+
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1499-1_0050.jpg)
+
+Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+b) Für einen Verband
+
+Der Schiffsführer muss die Werte für EA, EB, EC und ED mit einer Genauigkeit von 0,1 m eingeben.
+
+Das Maß EA ist in Richtung des Bugs ausgerichtet.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1499-1_0060.jpg)
+
+Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband
 
 # Anlage 10 – Liste der berauschenden Mittel und Substanzen
 

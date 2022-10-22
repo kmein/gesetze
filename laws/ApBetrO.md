@@ -587,7 +587,7 @@ Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu erg
 
 2. zu den Prüfergebnissen und deren Freigabe durch den verantwortlichen Apotheker, der die Prüfung durchgeführt oder beaufsichtigt hat.
 
-# §§ 9 u. 10 (weggefallen)
+# §§ 9 und 10 – (weggefallen)
 
 \-
 

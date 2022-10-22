@@ -16920,7 +16920,7 @@ Wer durch Testament als Erbe eingesetzt oder mit einem Vermächtnis bedacht ist,
 
 Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist, über die Größe des Erbteils zu erteilen (Erbschein).
 
-# §§ 2354 bis 2359
+# §§ 2354 bis 2359 – (weggefallen)
 
 (weggefallen)
 
