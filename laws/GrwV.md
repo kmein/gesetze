@@ -25,7 +25,11 @@ jede statistisch signifikante, ökologisch bedeutsame und auf menschliche Tätig
 
 4. Eintrag
 
-eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4 des Wasserhaushaltsgesetzes.
+eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4 des Wasserhaushaltsgesetzes;
+
+5. denitrifizierende Verhältnisse
+
+Verhältnisse, bei denen die für den Denitrifikationsprozess im Grundwasser erforderlichen natürlichen Bedingungen gegeben sind; dies sind insbesondere das Vorliegen sauerstoffarmer Verhältnisse und das Vorhandensein von Abbauprodukten von Denitrifikationsprozessen im Grundwasser wie gelöstes Eisen(II) oder Sulfat.
 
 # § 2 – Bestimmung und Beschreibung der Grundwasserkörper
 
@@ -361,7 +365,8 @@ Landnutzung der Gebiete, in denen die Grundwasserneubildung erfolgt, einschließ
 
 # Anlage 2 – (zu § 3 Absatz 1, § 5 Absatz 1 und Absatz 3, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1)Schwellenwerte
 
-(Fundstelle: BGBl. I 2017, 1045 - 1046)
+(Fundstelle: BGBl. I 2017, 1045 - 1046;  
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 # Anlage 3 – (zu § 9 Absatz 1)Überwachung des mengenmäßigen Grundwasserzustands
 

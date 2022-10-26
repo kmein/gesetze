@@ -53,13 +53,13 @@ Diese Verordnung enthält Regelungen zu
 
 (1) Die regelmäßige Neubewertung der Sprachkenntnisse einer Stufe entsprechend § 125 Absatz 2 LuftPersV gilt als Verlängerungsprüfung.
 
-(2) Bei der Verlängerungsprüfung kann das Hörverstehen im Rahmen einer Auffrischungsschulung, einer Befähigungsüberprüfung, einer Kompetenzbeurteilung, einer praktischen Prüfung oder einer Streckenflugüberprüfung überprüft werden, wenn
+(2) Bei der Verlängerungsprüfung kann das Hörverstehen im Rahmen einer Auffrischungsschulung, einer Befähigungsüberprüfung, einer Kompetenzbeurteilung, einer praktischen Prüfung, einer Streckenflugüberprüfung oder im Rahmen einer genehmigten evidenzbasierten Ausbildung (EBT-Programm) überprüft werden, wenn
 
 1. der Sprechfunkverkehr mit der Flugverkehrskontrollstelle oder dem Fluginformationsdienst in der zu überprüfenden Sprache in einem Umfang stattfindet, der es ermöglicht, das Hörverstehen des Bewerbers eindeutig festzustellen, und
 
 2. der Sprachprüfer dabei der Flugprüfer oder Fluglehrer ist.
 
-(3) Der Sprechfunkverkehr nach Absatz 2 Nummer 1 kann im Rahmen der wiederkehrenden Schulung und Überprüfung in einem Flugsimulationsübungsgerät nach ORO.FC.230 des Anhangs III (Teil-ORO) der Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates entsprechend simuliert werden.
+(3) Der Sprechfunkverkehr nach Absatz 2 Nummer 1 kann im Rahmen der wiederkehrenden Schulung und Überprüfung in einem Flugsimulationsübungsgerät nach ORO.FC.230 oder der evidenzbasierten Ausbildung (EBT-Programm) nach ORO.FC.231 des Anhangs III (Teil-ORO) der Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates entsprechend simuliert werden.
 
 (4) Die Überprüfung der Sprechfertigkeiten hat in den Fällen der Absätze 2 und 3 unmittelbar vor oder unmittelbar nach dem fliegerischen Ereignis, der wiederkehrenden Schulung oder der Überprüfung stattzufinden.
 

@@ -221,6 +221,8 @@ e) Leistungen nach § 5 des Wehrsoldgesetzes;
 
 11b. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022 an seine Arbeitnehmer zur Anerkennung besonderer Leistungen während der Corona-Krise gewährte Leistungen bis zu einem Betrag von 4 500 Euro. Voraussetzung für die Steuerbefreiung ist, dass die Arbeitnehmer in Einrichtungen im Sinne des § 23 Absatz 3 Satz 1 Nummer 1 bis 4, 8, 11 oder Nummer 12 des Infektionsschutzgesetzes oder § 36 Absatz 1 Nummer 2 oder Nummer 7 des Infektionsschutzgesetzes tätig sind. Die Steuerbefreiung gilt entsprechend für Personen, die in den in Satz 2 genannten Einrichtungen im Rahmen einer Arbeitnehmerüberlassung oder im Rahmen eines Werk- oder Dienstleistungsvertrags eingesetzt werden. Nummer 11a findet auf die Leistungen im Sinne der Sätze 1 bis 3 keine Anwendung;
 
+11c. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in Form von Zuschüssen und Sachbezügen gewährte Leistungen zur Abmilderung der gestiegenen Verbraucherpreise bis zu einem Betrag von 3 000 Euro;
+
 12. aus einer Bundeskasse oder Landeskasse gezahlte Bezüge, die zum einen
 
 a) in einem Bundesgesetz oder Landesgesetz,

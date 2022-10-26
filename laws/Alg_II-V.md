@@ -21,7 +21,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 6. die aus Mitteln des Bundes gezahlte Überbrückungsbeihilfe nach Artikel IX Abs. 4 des Abkommens zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen (NATO-Truppenstatut) vom 19. Juni 1951 (BGBl. 1961 II S. 1190) an ehemalige Arbeitnehmer bei den Stationierungsstreitkräften und nach Artikel 5 des Gesetzes zu den Notenwechseln vom 25. September 1990 und 23. September 1991 über die Rechtsstellung der in Deutschland stationierten verbündeten Streitkräfte und zu den Übereinkommen vom 25. September 1990 zur Regelung bestimmter Fragen in Bezug auf Berlin vom 3. Januar 1994 (BGBl. 1994 II S. 26) an ehemalige Arbeitnehmer bei den alliierten Streitkräften in Berlin,
 
-7. (weggefallen)
+7. nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei gewährte Leistungen zur Abmilderung der gestiegenen Verbrauchspreise,
 
 8. Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an das nicht im Haushalt des Hilfebedürftigen lebende Kind weitergeleitet wird,
 

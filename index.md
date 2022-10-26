@@ -176,7 +176,7 @@
 - [AMG](laws/AMG.md) Gesetz über den Verkehr mit Arzneimitteln
 - [AMGBefugV](laws/AMGBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen zur Regelung von Verfahren, Weiterleitung von Ausfertigungen und Einreichung von Unterlagen nach dem Arzneimittelgesetz
 - [AMGBlauzAusnV](laws/AMGBlauzAusnV.md) Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz vor der Blauzungenkrankheit
-- [AMGZSAV](laws/AMGZSAV.md) Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder
+- [AMGZSAV](laws/AMGZSAV.md) Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder sowie der Aufgaben des Bundesministeriums für Gesundheit nach § 79 Absatz 4a des Arzneimittelgesetzes
 - [AMHV](laws/AMHV.md) Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
 - [AMPreisV](laws/AMPreisV.md) Arzneimittelpreisverordnung
 - [AMPV](laws/AMPV.md) Verordnung zur Anwendung der Arzneimittelprüfrichtlinien*
@@ -727,6 +727,7 @@
 - [BezeichnungsV](laws/BezeichnungsV.md) Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz
 - [BEZNG](laws/BEZNG.md) Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
 - [BfAAG](laws/BfAAG.md) Gesetz über die Errichtung eines Bundesamts für Auswärtige Angelegenheiten
+- [BfAAWidVertrAnO](laws/BfAAWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesamts für Auswärtige Angelegenheiten in Beihilfe-, Reisekosten- und Umzugskostenangelegenheiten sowie für die Beihilfefestsetzung
 - [BfAG](laws/BfAG.md) Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte
 - [BfAIPG](laws/BfAIPG.md) Gesetz über das Personal der Bundesagentur für Außenwirtschaft
 - [BfArMSitzBek](laws/BfArMSitzBek.md) Bekanntmachung über den Dienstsitz des Bundesinstituts für Arzneimittel und Medizinprodukte
@@ -747,6 +748,7 @@
 - [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
+- [BG-V](laws/BG-V.md) Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen anlässlich eines Brennstoffwechsels wegen einer ernsten oder erheblichen Gasmangellage 1
 - [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
 - [BGAktFV](laws/BGAktFV.md) Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten
 - [BGB](laws/BGB.md) Bürgerliches Gesetzbuch
@@ -2269,7 +2271,7 @@
 - [FuttMKontrV](laws/FuttMKontrV.md) Verordnung über die fachlichen Anforderungen an die in der Futtermittelüberwachung tätigen Kontrolleure
 - [FuttMV 1981](laws/FuttMV_1981.md) Futtermittelverordnung
 - [FVerkWBV](laws/FVerkWBV.md) Fernverkehrswegebestimmungsverordnung
-- [FVerlV](laws/FVerlV.md) Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Abs. 1 des Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen
+- [FVerlV](laws/FVerlV.md) Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Absatz 1 des Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen
 - [FVG](laws/FVG.md) Gesetz über die Finanzverwaltung
 - [FVG1971§5Abs3DV](laws/FVG1971§5Abs3DV.md) Verordnung zur Durchführung von § 5 Abs. 3 des Finanzverwaltungsgesetzes
 - [FVG1971§5Abs4DV](laws/FVG1971§5Abs4DV.md) Verordnung zur Durchführung von § 5 Abs. 4 des Finanzverwaltungsgesetzes

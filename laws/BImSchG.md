@@ -443,7 +443,7 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und die Änderung nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
-# § 16b – Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
+# § 16b – Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen
 
 (1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien modernisiert (Repowering), müssen auf Antrag des Vorhabenträgers im Rahmen des Änderungsgenehmigungsverfahrens nur Anforderungen geprüft werden, soweit durch das Repowering im Verhältnis zum gegenwärtigen Zustand unter Berücksichtigung der auszutauschenden Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können.
 
@@ -464,6 +464,10 @@ Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betr
 (5) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der Antragsteller diesen beantragt.
 
 (6) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für das Repowering von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe c der Verordnung über genehmigungsbedürftige Anlagen bleibt unberührt. Im vereinfachten Verfahren ist die Genehmigung auf Antrag des Trägers des Vorhabens öffentlich bekannt zu machen. In diesem Fall gilt § 10 Absatz 8 Satz 2 bis 6 entsprechend.
+
+(7) Werden bei einer genehmigten Windenergieanlage vor der Errichtung Änderungen am Anlagentyp vorgenommen oder wird er gewechselt, müssen im Rahmen des Änderungsgenehmigungsverfahrens nur dann Anforderungen geprüft werden, soweit durch die Änderung des Anlagentyps im Verhältnis zur genehmigten Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können. Die Absätze 5 und 6 sind entsprechend anzuwenden.
+
+(8) Wird die Leistung einer Windenergieanlage an Land ohne bauliche Veränderungen oder ohne den Austausch von Teilen und ohne eine Änderung der genehmigten Betriebszeiten erhöht, sind ausschließlich die Standsicherheit sowie die schädlichen Umwelteinwirkungen durch Geräusche und nachteilige Auswirkungen durch Turbulenzen zu prüfen. Die Absätze 5 und 6 sind entsprechend anzuwenden.
 
 # § 17 – Nachträgliche Anordnungen
 
@@ -780,6 +784,30 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 (1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine mittelgroße Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer sekundären Emissionsminderungsvorrichtung ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, der Betreiber weist der zuständigen Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
 
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
+
+# §§ 31e bis 31j – (zukünftig in Kraft)
+
+# § 31k – Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen
+
+(1) Bei Vorliegen der Alarmstufe oder der Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, soll die zuständige Behörde auf Antrag des Betreibers Abweichungen von einzelnen in der Genehmigung enthaltenen Anforderungen an die Geräusche zur Nachtzeit unter Abweichung von den Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm und an die optischen Immissionen der Windenergieanlage zulassen,
+
+1. um die Strommenge einer Windenergieanlage zu erhöhen, deren Betriebszeit zur Verminderung oder Vermeidung von Schattenwurf beschränkt ist, oder
+
+2. um die Leistung oder die Strommenge einer Windenergieanlage in der Nachtzeit zu erhöhen, soweit sich der Schallpegel der Anlage in dieser Zeit um maximal 4 Dezibel gegenüber dem bisher genehmigten Wert erhöht.
+
+(2) Dem Antrag sind die zur Beurteilung erforderlichen Unterlagen beizufügen. Die zuständige Behörde hat dem Betreiber den Eingang des Antrags unverzüglich zu bestätigen.
+
+(3) Eine beantragte Abweichung gilt nach Ablauf eines Monats nach Eingang des Antrags als zugelassen, wenn der Antrag hinreichend bestimmt ist, sich die beantragte Abweichung auf Anforderungen an die Geräusche zur Nachtzeit oder die optische Immission beschränkt und alle weiteren Anforderungen des Absatzes 1 eingehalten sind.
+
+(4) Über die Zulassung der Abweichungen nach Absatz 1 hinaus bedarf es weder einer Änderungsgenehmigung nach § 16 noch einer Anzeige nach § 15. Nach Absatz 1 zugelassene Abweichungen sind bis zum 15. April 2023 befristet. Hebt das Bundesministerium für Wirtschaft und Klimaschutz die Alarmstufe oder Notfallstufe im Sinne des Absatzes 1 vor dem 15. April 2023 auf, endet die Zulassung der Abweichungen bereits zum Ablauf des letzten Tages des auf die Aufhebung folgenden Quartals.
+
+# § 31l – Übergangsregelungen zu den §§ 31e bis 31k
+
+(1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den §§ 31e bis 31k durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach den §§ 31e bis 31k entfallen kann.
+
+(2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften, die zum Zeitpunkt des Beginns des Verfahrens galten, beendet werden, wenn der Verfahrensschritt hiernach schneller abgeschlossen werden kann.
+
+(3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
 # § 32 – Beschaffenheit von Anlagen
 

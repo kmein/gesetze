@@ -2757,8 +2757,6 @@ Haben mehrere Personen ein Kind gemeinsam erzogen, besteht Versicherungspflicht 
 
 (4) (weggefallen)
 
-(+++ § 26: Zur Anwendung vgl. § 434e F. ab 20.12.2001 +++)
-
 # § 27 – Versicherungsfreie Beschäftigte
 
 (1) Versicherungsfrei sind Personen in einer Beschäftigung als
@@ -4083,17 +4081,29 @@ Die Erstattung erfolgt für die Zeit, in der die Arbeitnehmerin oder der Arbeitn
 
 # § 109 – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer hinaus bis zur Dauer von 24 Monaten zu verlängern, wenn außergewöhnliche Verhältnisse auf dem gesamten Arbeitsmarkt vorliegen.
+(1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Wirtschaftszweige nach § 101 Absatz 1 Nummer 1 festzulegen. In der Regel sollen hierbei der fachliche Geltungsbereich tarifvertraglicher Regelungen berücksichtigt und die Tarifvertragsparteien vorher angehört werden.
 
-(1a) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer hinaus bis zur Dauer von 24 Monaten zu verlängern. Die Verordnung ist zeitlich zu befristen.
+(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, auf Grundlage von Vereinbarungen der Tarifvertragsparteien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festzulegen, ob, in welcher Höhe und für welche Arbeitnehmerinnen und Arbeitnehmer die ergänzenden Leistungen nach § 102 Absatz 2 bis 4 in den Zweigen des Baugewerbes und den einzelnen Wirtschaftszweigen erbracht werden.
 
-(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Wirtschaftszweige nach § 101 Absatz 1 Nummer 1 festzulegen. In der Regel sollen hierbei der fachliche Geltungsbereich tarifvertraglicher Regelungen berücksichtigt und die Tarifvertragsparteien vorher angehört werden.
+(3) Bei den Festlegungen nach den Absätzen 1 und 2 ist zu berücksichtigen, ob diese voraussichtlich in besonderem Maße dazu beitragen, die wirtschaftliche Tätigkeit in der Schlechtwetterzeit zu beleben oder die Beschäftigungsverhältnisse der von saisonbedingten Arbeitsausfällen betroffenen Arbeitnehmerinnen und Arbeitnehmer zu stabilisieren.
 
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, auf Grundlage von Vereinbarungen der Tarifvertragsparteien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festzulegen, ob, in welcher Höhe und für welche Arbeitnehmerinnen und Arbeitnehmer die ergänzenden Leistungen nach § 102 Absatz 2 bis 4 in den Zweigen des Baugewerbes und den einzelnen Wirtschaftszweigen erbracht werden.
+(4) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer hinaus bis zur Dauer von 24 Monaten zu verlängern. Die Rechtsverordnung ist zeitlich zu befristen.
 
-(4) Bei den Festlegungen nach den Absätzen 2 und 3 ist zu berücksichtigen, ob diese voraussichtlich in besonderem Maße dazu beitragen, die wirtschaftliche Tätigkeit in der Schlechtwetterzeit zu beleben oder die Beschäftigungsverhältnisse der von saisonbedingten Arbeitsausfällen betroffenen Arbeitnehmerinnen und Arbeitnehmer zu stabilisieren.
+(5) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-(5) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine vollständige oder teilweise Erstattung der von den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen, einzuführen. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. September 2022 außer Kraft.
+1. abweichend von § 96 Absatz 1 Satz 1 Nummer 4 den Anteil der in dem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die von einem Entgeltausfall von jeweils mehr als 10 Prozent ihres monatlichen Bruttoentgelts betroffen sein müssen, auf bis zu 10 Prozent herabzusetzen,
+
+2. abweichend von § 96 Absatz 4 Satz 2 Nummer 2 die Vermeidbarkeit eines Arbeitsausfalls zu regeln, indem auf den vollständigen oder teilweisen Einsatz von Erholungsurlaub verzichtet wird,
+
+3. abweichend von § 96 Absatz 4 Satz 2 Nummer 3 die Vermeidbarkeit eines Arbeitsausfalls zu regeln, indem auf den Einsatz von Arbeitszeitguthaben und negativen Arbeitszeitsalden vollständig oder teilweise verzichtet wird.
+
+Die Rechtsverordnung ist zeitlich zu befristen. Die Ermächtigungen nach Satz 1 treten mit Ablauf des 30. Juni 2023 außer Kraft.
+
+(6) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine vollständige oder teilweise Erstattung der von den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen, einzuführen. Die Rechtsverordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. Juni 2023 außer Kraft.
+
+(7) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, abweichend von § 99 Absatz 2 Satz 1 zu bestimmen, dass die Anzeige über den Arbeitsausfall auch dann als rechtzeitig erstattet gilt, wenn die Anzeige im Folgemonat erstattet wird. Die Rechtsverordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. Juni 2023 außer Kraft.
+
+(8) Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festzulegen, dass Entgelt aus einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezuges von Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht hinzugerechnet wird. Die Rechtsverordnung ist zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf des 30. Juni 2023 außer Kraft.
 
 # § 110 – Transfermaßnahmen
 
@@ -4700,8 +4710,6 @@ Satz 1 Nummer 3 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt 
 (4) Haben Arbeitslose innerhalb der letzten zwei Jahre vor der Entstehung des Anspruchs Arbeitslosengeld bezogen, ist Bemessungsentgelt mindestens das Entgelt, nach dem das Arbeitslosengeld zuletzt bemessen worden ist.
 
 (5) Ist die oder der Arbeitslose nicht mehr bereit oder in der Lage, die im Bemessungszeitraum durchschnittlich auf die Woche entfallende Zahl von Arbeitsstunden zu leisten, vermindert sich das Bemessungsentgelt für die Zeit der Einschränkung entsprechend dem Verhältnis der Zahl der durchschnittlichen regelmäßigen wöchentlichen Arbeitsstunden, die die oder der Arbeitslose künftig leisten will oder kann, zu der Zahl der durchschnittlich auf die Woche entfallenden Arbeitsstunden im Bemessungszeitraum. Einschränkungen des Leistungsvermögens bleiben unberücksichtigt, wenn Arbeitslosengeld nach § 145 geleistet wird. Bestimmt sich das Bemessungsentgelt nach § 152, ist insoweit die tarifliche regelmäßige wöchentliche Arbeitszeit maßgebend, die bei Entstehung des Anspruchs für Angestellte im öffentlichen Dienst des Bundes gilt.
-
-(+++ § 151 Abs. 3 Nr. 3: Zur Anwendung vgl. § 444a Abs. 3 +++)
 
 # § 152 – Fiktive Bemessung
 
@@ -5947,8 +5955,6 @@ Bei Entscheidungen über die Herabsetzung oder Entziehung laufender Leistungen g
 
 Für die Berechnung von Leistungen wird ein Monat mit 30 Tagen und eine Woche mit sieben Tagen berechnet. Bei der Anwendung der Vorschriften über die Erfüllung der für einen Anspruch auf Arbeitslosengeld erforderlichen Anwartschaftszeit sowie der Vorschriften über die Dauer eines Anspruchs auf Arbeitslosengeld nach dem Ersten Abschnitt des Vierten Kapitels dieses Buches entspricht ein Monat 30 Kalendertagen. Satz 2 gilt entsprechend bei der Anwendung der Vorschriften über die Erfüllung der erforderlichen Vorbeschäftigungszeiten sowie der Vorschrift über die Dauer des Anspruchs auf Übergangsgeld im Anschluß an eine abgeschlossene Leistung zur Teilhabe am Arbeitsleben.
 
-(+++ § 339 Satz 3: Zur Anwendung vgl. § 434g Abs. 3 +++)
-
 # § 340 – Aufbringung der Mittel
 
 Die Leistungen der Arbeitsförderung und die sonstigen Ausgaben der Bundesagentur werden durch Beiträge der Versicherungspflichtigen, der Arbeitgeber und Dritter (Beitrag zur Arbeitsförderung), Umlagen, Mittel des Bundes und sonstige Einnahmen finanziert.
@@ -6173,7 +6179,7 @@ Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung des Bundesrat
 
 # § 354 – Grundsatz
 
-Die Mittel für die ergänzenden Leistungen nach § 102 werden einschließlich der Verwaltungskosten und der sonstigen Kosten, die mit der Gewährung dieser Leistungen zusammenhängen, in den durch Verordnung nach § 109 Absatz 3 bestimmten Wirtschaftszweigen durch Umlage aufgebracht. Die Umlage wird unter Berücksichtigung von Vereinbarungen der Tarifvertragsparteien der Wirtschaftszweige von Arbeitgebern oder gemeinsam von Arbeitgebern sowie Arbeitnehmerinnen und Arbeitnehmern aufgebracht und getrennt nach Zweigen des Baugewerbes und weiteren Wirtschaftszweigen abgerechnet.
+Die Mittel für die ergänzenden Leistungen nach § 102 werden einschließlich der Verwaltungskosten und der sonstigen Kosten, die mit der Gewährung dieser Leistungen zusammenhängen, in den durch Verordnung nach § 109 Absatz 2 bestimmten Wirtschaftszweigen durch Umlage aufgebracht. Die Umlage wird unter Berücksichtigung von Vereinbarungen der Tarifvertragsparteien der Wirtschaftszweige von Arbeitgebern oder gemeinsam von Arbeitgebern sowie Arbeitnehmerinnen und Arbeitnehmern aufgebracht und getrennt nach Zweigen des Baugewerbes und weiteren Wirtschaftszweigen abgerechnet.
 
 # § 355 – Höhe der Umlage
 
