@@ -45,7 +45,13 @@ wenn er dem Besuch der in den Absätzen 1 und 2 bezeichneten Ausbildungsstätten
 
 (4) Ausbildungsförderung wird auch für die Teilnahme an einem Praktikum geleistet, das in Zusammenhang mit dem Besuch einer der in den Absätzen 1 und 2 bezeichneten oder nach Absatz 3 bestimmten Ausbildungsstätten gefordert wird und dessen Inhalt in Ausbildungsbestimmungen geregelt ist. Wird das Praktikum in Zusammenhang mit dem Besuch einer in Absatz 1 Nummer 1 bezeichneten Ausbildungsstätte gefordert, wird Ausbildungsförderung nur geleistet, wenn der Auszubildende nicht bei seinen Eltern wohnt.
 
-(5) Ausbildungsförderung wird nur geleistet, wenn der Ausbildungsabschnitt mindestens ein Schul- oder Studienhalbjahr dauert und die Ausbildung die Arbeitskraft des Auszubildenden im Allgemeinen voll in Anspruch nimmt. Ausbildungsabschnitt im Sinne dieses Gesetzes ist die Zeit, die an Ausbildungsstätten einer Ausbildungsstättenart einschließlich der im Zusammenhang hiermit geforderten Praktika bis zu einem Abschluss oder Abbruch verbracht wird. Ein Masterstudiengang nach § 7 Absatz 1a gilt im Verhältnis zu dem Studiengang, auf den er aufbaut, in jedem Fall als eigener Ausbildungsabschnitt.
+(5) Ausbildungsförderung wird nur geleistet, wenn
+
+1. der Ausbildungsabschnitt mindestens ein Schul- oder Studienhalbjahr dauert und
+
+2. die Ausbildung die Arbeitskraft des Auszubildenden im Allgemeinen voll in Anspruch nimmt.
+
+Ausbildungsabschnitt im Sinne dieses Gesetzes ist die Zeit, die an Ausbildungsstätten einer Ausbildungsstättenart einschließlich der im Zusammenhang hiermit geforderten Praktika bis zu einem Abschluss oder Abbruch verbracht wird. Ein Masterstudiengang nach § 7 Absatz 1a gilt im Verhältnis zu dem Studiengang, auf den er aufbaut, in jedem Fall als eigener Ausbildungsabschnitt.
 
 (6) Ausbildungsförderung wird nicht geleistet, wenn der Auszubildende
 
@@ -349,7 +355,7 @@ In der Rechtsverordnung können insbesondere Regelungen getroffen werden über
 
 (1) Ausbildungsförderung wird vom Beginn des Monats an geleistet, in dem die Ausbildung aufgenommen wird, frühestens jedoch vom Beginn des Antragsmonats an.
 
-(2) Ausbildungsförderung wird für die Dauer der Ausbildung – einschließlich der unterrichts- und vorlesungsfreien Zeit – geleistet, bei Studiengängen an Hochschulen und an Akademien im Sinne des § 2 Absatz 1 Satz 1 Nummer 6 jedoch grundsätzlich nur bis zum Ende der Förderungshöchstdauer nach § 15a. Für die Teilnahme an Einrichtungen des Fernunterrichts wird Ausbildungsförderung höchstens für 12 Kalendermonate geleistet.
+(2) Ausbildungsförderung wird für die Dauer der Ausbildung – einschließlich der unterrichts- und vorlesungsfreien Zeit – geleistet. Abweichend von Satz 1 wird bei Studiengängen an Hochschulen und an Akademien im Sinne des § 2 Absatz 1 Satz 1 Nummer 6 Ausbildungsförderung jedoch grundsätzlich nur bis zum Ende der Förderungshöchstdauer nach § 15a geleistet. Für die Teilnahme an Einrichtungen des Fernunterrichts wird Ausbildungsförderung höchstens für 12 Kalendermonate geleistet.
 
 (2a) Ausbildungsförderung wird auch geleistet, solange die Auszubildenden infolge von Erkrankung oder Schwangerschaft gehindert sind, die Ausbildung durchzuführen, nicht jedoch über das Ende des dritten Kalendermonats hinaus.
 
@@ -376,8 +382,6 @@ d) der Länder,
 überschritten worden ist.
 
 (3a) Auszubildenden an Hochschulen und an Akademien im Sinne des § 2 Absatz 1 Satz 1 Nummer 6, die sich in einem in sich selbständigen Studiengang befinden, wird als Hilfe zum Studienabschluss für höchstens zwölf Monate Ausbildungsförderung auch nach dem Ende der Förderungshöchstdauer oder der Förderungsdauer nach Absatz 3 Nummer 1, 2, 3 oder 5 geleistet, wenn die Auszubildenden spätestens innerhalb von vier Semestern nach diesem Zeitpunkt zur Abschlussprüfung zugelassen worden sind und die Prüfungsstelle bescheinigt, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können. Ist eine Abschlussprüfung nicht vorgesehen, gilt Satz 1 unter der Voraussetzung, dass die Auszubildenden eine Bestätigung der Ausbildungsstätte darüber vorlegen, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschließen können.
-
-(+++ § 15 Abs. 1 Halbsatz 2: Zur Anwendung vgl. BAföGÄndG 13 Art. 2 Nr. 1 +++)
 
 # § 15a – Förderungshöchstdauer, Verordnungsermächtigung
 
@@ -447,7 +451,7 @@ Nummer 2 gilt nicht, wenn der Auszubildende erstmalig aus wichtigem Grund oder a
 
 1. nach § 17 Absatz 2 Satz 1 geleistete Darlehen gelten die Absätze 2 bis 14 und die §§ 18a und 18b,
 
-2. nach § 17 Absatz 3 Satz 1 geleistete Darlehen gelten die Absätze 2 bis 12, 14 und § 18a.
+2. nach § 17 Absatz 3 Satz 1 geleistete Darlehen oder für Ausbildungsförderung, die nach einer Rechtsverordnung nach § 59 ausschließlich als Darlehen geleistet wird, gelten die Absätze 2 bis 12, 14 und § 18a.
 
 (2) Die Darlehen sind nicht zu verzinsen. Wenn Darlehensnehmende einen Zahlungstermin um mehr als 45 Tage überschritten haben, ist abweichend von Satz 1 jeweils der gesamte bis zu diesem Zeitpunkt noch nicht getilgte Betrag, höchstens jedoch der nach Maßgabe des Absatzes 13 Satz 1 zu tilgende Rückzahlungsbetrag – vorbehaltlich des Gleichbleibens der Rechtslage – mit 6 vom Hundert für das Jahr zu verzinsen. Für nach § 17 Absatz 3 Satz 1 geleistete Darlehen gilt die Pflicht zur Verzinsung für den gesamten noch zu tilgenden Rückzahlungsbetrag. Kosten für die Geltendmachung der Darlehensforderung sind durch die Verzinsung nicht abgegolten.
 
@@ -483,9 +487,11 @@ zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte Ausbildu
 
 1. den Beginn und das Ende der Verzinsung sowie den Verzicht auf Zinsen aus besonderen Gründen,
 
-2. das Verfahren zur Verwaltung und Einziehung der Darlehen – einschließlich der erforderlichen Nachweise oder der Zulässigkeit des Glaubhaftmachens mittels der Versicherung an Eides statt sowie der Maßnahmen zur Sicherung der Rückzahlungsansprüche – sowie zur Rückleitung der eingezogenen Beträge an Bund und Länder und
+2. das Verfahren zur Verwaltung und Einziehung der Darlehen – einschließlich der erforderlichen Nachweise oder der Zulässigkeit des Glaubhaftmachens mittels der Versicherung an Eides statt sowie der Maßnahmen zur Sicherung der Rückzahlungsansprüche – sowie zur Rückleitung der eingezogenen Beträge an Bund und Länder,
 
-3. die Erhebung von Kostenpauschalen für die Ermittlung der jeweiligen Anschrift der Darlehensnehmenden und für das Mahnverfahren.
+3. die Erhebung von Kostenpauschalen für die Ermittlung der jeweiligen Anschrift der Darlehensnehmenden und für das Mahnverfahren und
+
+4. die Voraussetzungen für das Vorliegen eines geringfügigen Verstoßes gegen die Zahlungs- und Mitwirkungspflichten im Sinne des Absatzes 12 Satz 1.
 
 # § 18a – Einkommensabhängige Rückzahlung
 
@@ -1145,9 +1151,39 @@ Für öffentlich-rechtliche Streitigkeiten aus diesem Gesetz ist der Verwaltungs
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1, 2 und 2a das Amt für Ausbildungsförderung, in den Fällen des Absatzes 1 Nummer 3 das Bundesverwaltungsamt.
 
-# § 59 – (weggefallen)
+# § 59 – Verordnungsermächtigung für Fälle bundesweiter Notlagen
 
-\-
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Fall einer vom Deutschen Bundestag auf Antrag der Bundesregierung durch Beschluss festgestellten bundesweiten Notlage für Auszubildende im Hinblick auf erhebliche Nachfrageeinbrüche auf dem Arbeitsmarkt für ausbildungsbegleitende Erwerbstätigkeiten (Notlage) den Kreis der Förderungsberechtigten nach diesem Gesetz vorübergehend auszuweiten. Der Deutsche Bundestag hat die Feststellung der Notlage wieder aufzuheben, wenn die Voraussetzungen nach Satz 1 nicht mehr vorliegen. Die Feststellung der Notlage gilt als aufgehoben, sofern der Deutsche Bundestag nicht spätestens drei Monate nach der Feststellung nach Satz 1 auf Antrag der Bundesregierung das Fortbestehen der Notlage feststellt.
+
+(2) Eine Rechtsverordnung nach Absatz 1 Satz 1 ist unverzüglich nach ihrer Verkündung dem Deutschen Bundestag mitzuteilen. Die Rechtsverordnung ist unverzüglich aufzuheben oder zu ändern, soweit es der Deutsche Bundestag binnen vier Wochen nach Verkündung der Rechtsverordnung verlangt.
+
+(3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann insbesondere für Auszubildende, die an einer Ausbildungsstätte nach § 2 im Inland ausgebildet werden, bestimmt werden, dass Förderungsvoraussetzungen nach § 2 Absatz 5 Satz 1 Nummer 2 und den §§ 7, 10, 11 und 15 Absatz 2 Satz 1 und nach § 48 nicht anzuwenden sind.
+
+(4) In der Rechtsverordnung nach Absatz 1 Satz 1 ist vorzusehen,
+
+1. dass im Einzelfall nur unter der Voraussetzung des Nachweises einer individuellen Betroffenheit von der Notlage
+
+a) Ausbildungsförderung nach § 17 Absatz 1 oder
+
+b) im Fall des Besuchs höherer Fachschulen, Akademien oder Hochschulen sowie bei Praktika im Zusammenhang mit solchen Ausbildungen Ausbildungsförderung nach § 17 Absatz 2
+
+geleistet wird, und
+
+2. wie der nach Nummer 1 erforderliche Nachweis zu führen ist.
+
+(5) In der Rechtsverordnung nach Absatz 1 Satz 1 kann vorgesehen werden, dass ohne Nachweis einer individuellen Betroffenheit von der Notlage im Sinne des Absatzes 4 abweichend von § 17 Absatz 1 oder 2 Ausbildungsförderung ausschließlich als Darlehen geleistet wird. Sobald der Deutsche Bundestag das Fortbestehen der Notlage in zwei aufeinander folgenden Beschlüssen festgestellt hat, kann in der Rechtsverordnung abweichend von Absatz 4 vorgesehen werden, dass Ausbildungsförderung nur nach Satz 1 geleistet wird.
+
+(6) In der Rechtsverordnung nach Absatz 1 Satz 1 kann ferner vorgesehen werden,
+
+1. dass kürzere Bewilligungszeiträume als nach § 50 Absatz 3 für den Regelfall bestimmt anzuwenden sind,
+
+2. dass die Höhe der Förderung abweichend von § 11 Absatz 1 auf einen in der Rechtsverordnung festgesetzten monatlichen Höchstbetrag begrenzt ist,
+
+3. dass die Antragstellenden im Fall der Förderung nach Absatz 5 die Höhe der monatlichen Auszahlungsrate bis zu einem in der Rechtsverordnung festgesetzten Höchstbetrag selbst bestimmen können.
+
+(7) Eine Rechtsverordnung nach Absatz 1 Satz 1 tritt spätestens mit dem Ende des Monats außer Kraft, der auf die Aufhebung der Notlage durch den Deutschen Bundestag folgt.
+
+(8) Eine Förderung auf Grundlage einer Rechtsverordnung nach Absatz 1 Satz 1 ist zusätzlich zu § 55 Absatz 2 als weiteres Erhebungsmerkmal zu erfassen.
 
 # § 60 – Opfer politischer Verfolgung durch SED-Unrecht
 
@@ -1219,7 +1255,7 @@ werden durch dieses Gesetz nicht berührt.
 
 (5) Für Auszubildende, denen für einen vor dem 1. August 2019 begonnenen Ausbildungsabschnitt Förderung geleistet wurde für den Besuch einer staatlichen Akademie, welche Abschlüsse verleiht, die nach Landesrecht Hochschulabschlüssen gleichgestellt sind, sind bis zum Ende dieses Ausbildungsabschnitts § 15 Absatz 2 Satz 1 und § 50 Absatz 2 Satz 4 in der am 31. Juli 2019 geltenden Fassung weiter anzuwenden. § 18 Absatz 4 Satz 1 in der ab dem 1. September 2019 geltenden Fassung gilt für sie mit der Maßgabe, dass ausschließlich die Nummer 2 anzuwenden ist.
 
-(6) Für Darlehensnehmende, denen vor dem 1. September 2019 Förderung nach § 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden Fassung geleistet wurde, sind diese Regelung, § 18 mit Ausnahme des Absatzes 3 Satz 1 und des Absatzes 5c sowie § 18a Absatz 5, die §§ 18b, 58 Absatz 1 Nummer 3 und § 60 Nummer 2 in der am 31. August 2019 geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die Förderungsleistungen jeweils auch noch über den 31. August 2019 hinaus erbracht werden.
+(6) Für Darlehensnehmende, denen vor dem 1. September 2019 Förderung nach § 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden Fassung geleistet wurde, sind diese Regelung, § 18 mit Ausnahme des Absatzes 3 Satz 1 und des Absatzes 5c sowie § 18a Absatz 5, die §§ 18b, 58 Absatz 1 Nummer 3 und § 60 Nummer 2 in der am 31. August 2019 geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die Förderungsleistungen jeweils auch noch über den 31. August 2019 hinaus erbracht werden. Abweichend von Satz 1 ist § 18 Absatz 14 in der ab dem 26. Oktober 2022 geltenden Fassung anzuwenden.
 
 (7) Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit Ausnahme von Bankdarlehen nach § 18c, können binnen einer Frist von sechs Monaten nach diesem Datum jeweils durch schriftliche oder elektronische Erklärung gegenüber dem Bundesverwaltungsamt verlangen, dass für die Rückzahlung des gesamten Darlehens § 18 Absatz 12 und § 18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind.
 

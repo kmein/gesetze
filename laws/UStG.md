@@ -3205,6 +3205,10 @@ innerhalb einer Gemeinde oder
 bb)  
 wenn die Beförderungsstrecke nicht mehr als 50 Kilometer beträgt;
 
+(5) § 12 Absatz 2 ist vom 1. Oktober 2022 bis 31. März 2024 mit der Maßgabe anzuwenden, dass der dort genannte Steuersatz auch für die Lieferung von Gas über das Erdgasnetz gilt.
+
+(6) § 12 Absatz 2 ist vom 1. Oktober 2022 bis 31. März 2024 mit der Maßgabe anzuwenden, dass der dort genannte Steuersatz auch für die Lieferung von Wärme über ein Wärmenetz gilt.
+
 # § 29 – Umstellung langfristiger Verträge
 
 (1) Beruht die Leistung auf einem Vertrag, der nicht später als vier Kalendermonate vor dem Inkrafttreten dieses Gesetzes abgeschlossen worden ist, so kann, falls nach diesem Gesetz ein anderer Steuersatz anzuwenden ist, der Umsatz steuerpflichtig, steuerfrei oder nicht steuerbar wird, der eine Vertragsteil von dem anderen einen angemessenen Ausgleich der umsatzsteuerlichen Mehr- oder Minderbelastung verlangen. Satz 1 gilt nicht, soweit die Parteien etwas anderes vereinbart haben. Ist die Höhe der Mehr- oder Minderbelastung streitig, so ist § 287 Abs. 1 der Zivilprozessordnung entsprechend anzuwenden.

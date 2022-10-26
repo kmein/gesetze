@@ -245,7 +245,7 @@ Der Leiharbeitnehmer ist nicht verpflichtet, bei einem Entleiher tätig zu sein,
 
 # § 11a – Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, für die Zeit ab dem 1. Juli 2022 durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4 Satz 2 geregelte Recht des Leiharbeitnehmers auf Vergütung bei Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben ist, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten Buch Sozialgesetzbuch gezahlt wird. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 30. September 2022 außer Kraft.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4 Satz 2 geregelte Recht des Leiharbeitnehmers auf Vergütung bei Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben ist, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten Buch Sozialgesetzbuch gezahlt wird. Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 30. Juni 2023 außer Kraft.
 
 # § 12 – Rechtsbeziehungen zwischen Verleiher und Entleiher
 
