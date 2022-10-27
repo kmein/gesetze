@@ -5,6 +5,56 @@
 
 Auf Grund des § 73 des Personenstandsgesetzes vom 19. Februar 2007 (BGBl. I S. 122), der durch Artikel 2 Abs. 2 Nr. 2 des Gesetzes vom 13. März 2008 (BGBl. I S. 313) geändert worden ist, des § 4 Abs. 3 Satz 3 des Staatsangehörigkeitsgesetzes, der zuletzt durch Artikel 5 des Gesetzes vom 19. August 2007 (BGBl. I S. 1970) geändert worden ist, Artikel 2 Abs. 1 des Gesetzes zu dem Übereinkommen vom 8. September 1976 über die Ausstellung mehrsprachiger Auszüge aus Personenstandsbüchern vom 16. April 1997 (BGBl. 1997 II S. 774) und des Artikels 2 Abs. 1 des Gesetzes zu dem Übereinkommen vom 5. September 1980 über die Ausstellung von Ehefähigkeitszeugnissen vom 5. Juni 1997 (BGBl. 1997 II S. 1086) verordnet das Bundesministerium des Innern im Benehmen mit dem Bundesministerium der Justiz:
 
+# Inhaltsübersicht
+
+  
+  
+Anlage 1 (zu § 11)
+
+Datenfelder in den Personenstandsregistern
+
+Anlage 2 (zu den §§ 11, 19, 48, 65)
+
+Eheregister
+
+Anlage 3 (zu den §§ 11, 19, 48, 65)
+
+Lebenspartnerschaftsregister
+
+Anlage 4 (zu den §§ 11, 19, 48, 65)
+
+Geburtenregister
+
+Anlage 5 (zu den §§ 11, 19, 48, 65)
+
+Sterberegister
+
+Anlage 6 (zu den §§ 48, 70)
+
+Eheurkunde
+
+Anlage 7 (zu den §§ 48, 70)
+
+Lebenspartnerschaftsurkunde
+
+Anlage 8 (zu den §§ 48, 70)
+
+Geburtsurkunde
+
+Anlage 9 (zu den §§ 48, 70)
+
+Sterbeurkunde
+
+Anlage 10 (zu § 29)
+
+Niederschrift über die Eheschließung
+
+Anlage 11 (zu § 31 Absatz 2)
+
+Bescheinigung nach § 31 Absatz 2 der Personenstandsverordnung (PStV)
+
+Anlage 12 (zu § 34)
+
 # § 1 – Standesamt
 
 (1) Jedes Standesamt führt eine Bezeichnung. Bei gleichnamigen Standesämtern ist ein unterscheidender Zusatz hinzuzufügen.
@@ -35,11 +85,35 @@ Auf Grund des § 73 des Personenstandsgesetzes vom 19. Februar 2007 (BGBl. I S. 
 
 Eintragungen im Personenstandsregister und sonstige Beurkundungen dürfen erst vorgenommen werden, wenn der zugrunde liegende Sachverhalt ermittelt und abschließend geprüft worden ist.
 
+# § 6 – Anzeige eines Personenstandsfalls
+
+(1) Über die mündliche Anzeige eines Personenstandsfalls ist vom Standesamt eine Niederschrift aufzunehmen. Die Niederschrift muss alle zur ordnungsgemäßen Beurkundung im Personenstandsregister erforderlichen Angaben enthalten.
+
+(2) Für die elektronische Anzeige einer Geburt oder eines Sterbefalls sollen das Datenaustauschformat XPersonenstand und das Übertragungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung verwendet werden; § 63 Absatz 4 gilt entsprechend.
+
 # § 7 – Zurückstellen der Beurkundung
 
 (1) Fehlen Angaben oder Nachweise für die Beurkundung eines Personenstandsfalls, kann das Standesamt die Beurkundung zurückstellen. Die Beurkundung des Personenstandsfalls ist in diesem Fall in angemessener Frist nachzuholen.
 
 (2) Dem Anzeigenden ist auf Antrag eine Bescheinigung darüber auszustellen, dass der Personenstandsfall angezeigt wurde, aber noch nicht beurkundet werden konnte.
+
+# § 8 – Prüfung der Staatsangehörigkeit
+
+(1) Zur Prüfung der deutschen Staatsangehörigkeit ist Folgendes vorzulegen:
+
+1. der Personalausweis oder der Reisepass oder
+
+2. eine erweiterte Bescheinigung der Meldebehörde, aus der sich die Staatsangehörigkeit ergibt.
+
+Bestehen danach Zweifel an der deutschen Staatsangehörigkeit, ist eine Staatsangehörigkeitsurkunde vorzulegen.
+
+(2) Wer nicht Deutscher ist, muss seine Staatsangehörigkeit durch Vorlage eines der folgenden Dokumente nachweisen:
+
+1. Reisepass oder Passersatz,
+
+2. amtlicher Personalausweis mit Angabe der Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz oder
+
+3. Bescheinigung der zuständigen Behörde seines Heimatstaates.
 
 # § 9 – Personenstandsregister, Registerinhalt
 
@@ -121,6 +195,22 @@ Für die Verarbeitung der nach dem Gesetz und dieser Verordnung zu registrierend
 
 (2) Die für die Register verwendeten Datenverarbeitungssysteme sind regelmäßig auf Funktionalität zu überprüfen. Die Registereinträge sind bei Bedarf auf Datenträger und Anlagen zu übertragen, die dem Stand der Technik entsprechen. Bei dieser Übertragung muss die Integrität der übertragenen Einträge überprüft und die Überprüfung dokumentiert werden. Es ist sicherzustellen, dass die in ausgesonderten Datenverarbeitungssystemen gespeicherten Daten spurenlos gelöscht werden.
 
+# § 14 – Berechtigungskonzept
+
+(1) Der Zugriff auf die Daten im Personenstandsregister erfolgt innerhalb eines Standesamts mit folgenden Berechtigungsstufen:
+
+1. Stufe A erlaubt, einen Eintrag abzuschließen und in das Personenstandsregister einzufügen, Einträge durch Folgebeurkundungen fortzuführen und Sperrvermerke sowie Hinweise aufzunehmen,
+
+2. Stufe B erlaubt, Hinweise aufzunehmen oder zu ändern,
+
+3. Stufe C erlaubt, einen Eintrag einzusehen,
+
+4. Stufe D erlaubt die Einsicht in das Suchverzeichnis, um festzustellen, ob der Eintrag bei dem betreffenden Standesamt geführt wird.
+
+Eine höhere Berechtigung schließt eine niedrigere ein.
+
+(2) Der Leiter des Standesamts legt die Berechtigung und die jeweilige Berechtigungsstufe fest. Die Zugriffsberechtigung für ein nach § 67 des Gesetzes eingerichtetes zentrales Personenstandsregister wird durch Rechtsverordnung der Landesregierung geregelt. Die Ermächtigung kann durch Rechtsverordnung auf oberste Landesbehörden übertragen werden.
+
 # § 15 – Personenstandsregister
 
 (1) Die Personenstandsregister fassen die Registereinträge mit Haupteintrag, etwaigen Folgebeurkundungen sowie Hinweisen eines Standesamts für gleichartige Personenstandsfälle (Geburt, Eheschließung, Begründung der Lebenspartnerschaft, Tod) zusammen. Bei elektronischer Führung werden auch die zu den jeweiligen Einträgen und Fortführungen angebrachten Sperrvermerke nach § 64 des Gesetzes, Signaturen und Suchdaten zur eindeutigen Identifizierung der Einträge und für die Suche über Namen im Personenstandsregister gespeichert.
@@ -201,6 +291,14 @@ Bei der Übergabe eines Personenstandsregisters, eines Sicherungsregisters und v
 
 (3) Für die Suche in dem elektronischen Auskunftssystem wird die vom Land Berlin hierfür entwickelte Online-Datenbank des Standesamts I in Berlin verwendet.
 
+# § 28 – Anmeldung
+
+(1) Die Eheschließenden sollen die beabsichtigte Eheschließung persönlich beim Standesamt anmelden. Ist einer der Eheschließenden hieran verhindert, kann er den anderen Eheschließenden schriftlich bevollmächtigen. Sind beide Eheschließenden aus wichtigen Gründen am Erscheinen in dem Standesamt verhindert, können sie die Eheschließung auch schriftlich oder durch einen Bevollmächtigten anmelden.
+
+(2) Über die mündliche Anmeldung ist eine Niederschrift aufzunehmen.
+
+(3) Soll die Ehe nicht in dem Standesamt geschlossen werden, bei dem sie angemeldet worden ist, so prüft das Standesamt, das die Anmeldung entgegengenommen hat, ob ein Ehehindernis vorliegt. Liegt ein Ehehindernis nicht vor, sind die vollständigen Anmeldeunterlagen mit einem Vermerk über das Ergebnis der Prüfung an das Standesamt zu senden, bei dem die Ehe geschlossen werden soll. Zusätzlich sollen diesem Standesamt die Anmeldedaten der Eheschließenden elektronisch übermittelt werden; für die Übermittlung gilt § 63.
+
 # § 29 – Eheschließung
 
 (1) Ist die Eheschließung durch einen Bevollmächtigten angemeldet worden, hat der Vertretene die bei der Anmeldung abgegebenen Erklärungen persönlich zu bestätigen.
@@ -266,6 +364,14 @@ Die nach Nummer 1 erforderliche Eheurkunde ist auch vorzulegen, wenn die Ehe auf
 (1) Liegen dem Standesamt bei der Beurkundung der Geburt keine geeigneten Nachweise zu Angaben über die Eltern des Kindes vor, ist hierüber im Geburtseintrag ein erläuternder Zusatz aufzunehmen; § 7 bleibt unberührt. Als Personenstandsurkunde darf bis zur Eintragung einer ergänzenden Folgebeurkundung zu den Angaben über die Eltern nur ein beglaubigter Registerausdruck ausgestellt werden.
 
 (2) Bei Geburt im Inland sind personenstandsrechtliche Änderungen, die nach der Geburt, aber vor der Beurkundung wirksam geworden sind, in den Haupteintrag aufzunehmen.
+
+# § 36 – Fortführung des Geburtenregisters
+
+(1) Die Änderung des Familiennamens eines Kindes ist nur dann als Folgebeurkundung einzutragen, wenn sie den Geburtsnamen betrifft.
+
+(2) Bei einer Namensänderung der Eltern und des Kindes ist die Namensänderung der Eltern auch dann als Folgebeurkundung einzutragen, wenn sie nicht zu einer übereinstimmenden Namensführung von Eltern und Kind geführt hat, aber durch Erklärungen nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder § 94 des Bundesvertriebenengesetzes erfolgt ist.
+
+(3) Die Angabe der rechtlichen Zugehörigkeit des Kindes zu einer Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist, wird auf Wunsch des Personensorgeberechtigten, ab dem 14. Lebensjahr nur auf Wunsch des Kindes selbst, eingetragen. Erhält das Standesamt eine Mitteilung über den Austritt des Kindes aus dieser Religionsgemeinschaft oder den Übertritt in eine andere Religionsgemeinschaft, so ist auch dies zu vermerken.
 
 # § 37 – Sterbefälle in Fahrzeugen, Bergwerken und Gewässern; unbekannter Sterbeort
 
@@ -353,6 +459,20 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 
 (2) Bei der Namensbestimmung nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die allgemeinen Grundsätze des deutschen Namensrechts zu beachten. Insbesondere soll der zum Familiennamen bestimmte Namensteil grundsätzlich nur aus einem Namen bestehen und sich als solcher von dem gewählten Vornamen unterscheiden.
 
+# § 46 – Bescheinigung über Erklärungen zur Namensführung
+
+Das Standesamt, das
+
+1. eine Erklärung, Einwilligung oder Zustimmung zur Namensführung auf Grund familienrechtlicher Vorschriften entgegengenommen hat,
+
+2. eine Erklärung nach § 94 des Bundesvertriebenengesetzes, § 1 des Minderheiten-Namensänderungsgesetzes oder Artikel 47, 48 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat,
+
+3. eine Erklärung zur Reihenfolge der Vornamen nach § 45a des Gesetzes entgegengenommen hat oder
+
+4. ein Personenstandsregister führt, aus dem sich eine Namensänderung nach den Nummern 1 bis 3 ergibt,
+
+erteilt der Person, deren Name geändert worden ist, hierüber auf Wunsch eine Bescheinigung.
+
 # § 47 – Berichtigungen
 
 (1) Das Standesamt, das selbst oder auf Anordnung des Gerichts einen abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in anderen Personenstandsregistern eine Berichtigung vorgenommen werden muss. Es teilt dem in Betracht kommenden Standesamt die Berichtigung mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates (§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung des betreffenden Ausländers bestätigt hat.
@@ -362,6 +482,16 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 (3) Die Mitteilung erfolgt durch Übersendung eines beglaubigten Registerausdrucks oder durch Datenübermittlung nach § 63.
 
 (4) Bei unrichtigen und fehlenden Elementbezeichnungen oder familienrechtlichen Bezeichnungen kann die Eintragung nach § 47 Absatz 1 des Gesetzes durch eine Folgebeurkundung richtig gestellt werden. Gleiches gilt auch bei der Fortführung von Hinweisen. Derartige Richtigstellungen bedürfen keiner Mitteilung nach den Absätzen 1 und 2.
+
+# § 48 – Personenstandsurkunden
+
+(1) Das Standesamt hat für die nach § 55 Abs. 1 des Gesetzes auszustellenden Personenstandsurkunden die Formulare nach den Mustern der Anlagen 2 bis 9 im Format DIN A4 zu verwenden. Die Formulare sind dem Beurkundungssachverhalt anzupassen und können programmgerecht eingerichtet werden, soweit dies im Einzelfall notwendig ist. Die Formulare nach den Mustern der Anlagen 2 bis 5 sind zusätzlich mit einem Vermerk über die Übereinstimmung des Ausdrucks mit dem Registerinhalt zu versehen. Die Formulare nach den Mustern der Anlagen 6 bis 9 können auch in einem kleineren Format hergestellt werden; dabei kann die Zeilengestaltung formatgerecht angepasst werden.
+
+(2) Wird bei der Beantragung einer Geburtsurkunde verlangt, Angaben nach § 59 Abs. 1 Nr. 2, 4 oder 5 des Gesetzes nicht aufzunehmen, entfällt in dem Urkundenformular auch das entsprechende Angabenfeld.
+
+(3) In den beglaubigten Registerausdruck sind die Hinweise nur auf Verlangen aufzunehmen. Der Hinweis auf eine in das Testamentsverzeichnis aufgenommene Mitteilung ist nur dann in den Registerausdruck aufzunehmen, wenn die Person, auf die sich der Geburtseintrag bezieht, dies verlangt.
+
+(4) Das Papier der Urkunden muss mindestens den Qualitätsanforderungen nach DIN 19307 – ASM 80 entsprechen. Schreibmittel müssen eine ständige Lesbarkeit sowie eine höchstmögliche Sicherheit gegen Fälschungsversuche gewährleisten. Für die Herstellung der Urkunden sind Drucker zu verwenden, die die Eignung für den Notariatsbereich besitzen.
 
 # § 49 – (weggefallen)
 
@@ -909,6 +1039,22 @@ Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer Geburt, 
 
 (4) Innerhalb von Rechenzentren und in besonders gesicherten verwaltungseigenen Netzen kann auf die Verwendung von OSCI-Transport verzichtet werden, wenn durch technische und organisatorische Maßnahmen sichergestellt wird, dass die durch die Verwendung von OSCI-Transport erzielten Sicherheitseigenschaften anderweitig in gleicher Qualität gewährleistet werden. Die getroffenen Maßnahmen sind im Betriebs- und Sicherheitskonzept (§ 13) zu dokumentieren.
 
+# § 64 – Abrufverfahren
+
+(1) Für Datenübermittlungen im automatisierten Abrufverfahren nach § 68 Abs. 2 des Gesetzes gilt § 63. Die eingesetzten Verfahren müssen sicherstellen, dass nur die zur Aufgabenerfüllung erforderlichen Daten abgerufen werden können.
+
+(2) Zur Sicherung der ordnungsgemäßen Datenverarbeitung und für die Abrechnung der Kosten des Abrufs werden alle Abrufe durch das registerführende Standesamt protokolliert. Im Protokoll sind das registerführende Standesamt, die Registrierungsdaten nach § 16 Abs. 2 Satz 1, die abrufende Person oder Stelle, ein Aktenzeichen oder eine sonstige Kennung des Abrufs, der Zeitpunkt des Abrufs sowie die für die Durchführung des Abrufs verwendeten Daten zu speichern. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt der Empfänger der Daten.
+
+(3) Die nach Absatz 2 gefertigten Protokolle werden vier Jahre nach Ablauf des Kalenderjahres vernichtet, in dem der Abruf erfolgt ist.
+
+# § 65 – Übergangsbeurkundungen
+
+(1) Standesämter, die am 1. Januar 2009 noch nicht über eine Ausstattung zur elektronischen Personenstandsregisterführung verfügen, beurkunden die Personenstandsfälle auf Formularen nach den Mustern der Anlagen 2 bis 5 im Format DIN A4. Die Formulare sind dem Beurkundungssachverhalt anzupassen und können programmgerecht eingerichtet werden, soweit dies im Einzelfall notwendig ist; § 48 Abs. 4 gilt entsprechend. Für die Sicherungsregister gilt Satz 1 mit der Maßgabe, dass die Formulare mit der zusätzlichen Angabe „Sicherungsregister“ zu versehen sind; die Übereinstimmung mit dem jeweiligen Personenstandsregister ist vom Standesbeamten zu beglaubigen.
+
+(2) Folgebeurkundungen und Hinweise können auf der Rückseite des Formulars vorgenommen werden. Folgebeurkundungen können auch am Rande des Haupteintrags vorgenommen werden. Hinweise können auch unterhalb des Haupteintrags eingetragen werden.
+
+(3) Für die Übergangsbeurkundungen gelten die §§ 15 bis 19, 21 und 25 entsprechend.
+
 # § 66 – Fortführung von Altregistern
 
 (1) Eine Folgebeurkundung zu einem Personenstandseintrag in einem bis zum 31. Dezember 2008 angelegten Personenstandsbuch oder Standesregister (Altregister) ist am Rand des Eintrags vorzunehmen. Hinweise sind unterhalb des Eintrags einzutragen; eine Nacherhebung fehlender Daten ist nicht erforderlich.
@@ -933,11 +1079,49 @@ Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer Geburt, 
 
 Ein Heiratseintrag wird vom 1. Januar 2009 an nur dann fortgeführt, wenn kein als Heiratseintrag fortzuführendes Familienbuch angelegt worden ist oder der Verbleib des Familienbuchs nicht festgestellt werden kann.
 
+# § 69 – Übernahme in elektronische Personenstandsregister
+
+(1) Bei der elektronischen Erfassung von Altregistern werden Registereinträge nach den Mustern der Anlagen 2 bis 5 erstellt. Der Sachverhalt ist in die elektronischen Register so zu übernehmen, dass der personenstandsrechtliche Verlauf nachvollziehbar ist und die durch die ursprüngliche Beurkundung verlautbarten Rechtsverhältnisse auch aus dem elektronisch nacherfassten Personenstandseintrag hervorgehen. Daten, die in den elektronischen Registern nicht vorgesehen sind, werden nicht übernommen. Daten, die im Papierregister nicht vorhanden sind, sind sorgfältig unter Beachtung des im Zeitpunkt der Beurkundung geltenden Rechts nachzuerheben, wenn sie zur Führung des elektronischen Registers erforderlich sind. Die Nacherhebung fehlender Daten, die zur Eintragung eines Hinweises führen würden, ist nicht erforderlich.
+
+(2) Für die elektronisch zu erfassenden Einträge sind Registrierungsdaten nach § 16 Absatz 2 zu bilden. Der vorhandenen Eintragsnummer sind die Kurzbezeichnung des jeweiligen Personenstandsregisters nach § 15 Absatz 2 und das Jahr der Erstbeurkundung hinzuzufügen. Weicht die Bezeichnung des Standesamts, das die zu erfassende Beurkundung vorgenommen hat, von der Bezeichnung des Standesamts ab, das jetzt die elektronische Erfassung vornimmt, werden die ursprüngliche Bezeichnung und die Standesamtsnummer übernommen; bei nicht vorhandener oder nicht verwendbarer Standesamtsnummer wird die Nummer des erfassenden Standesamts um eine fortlaufende dreistellige Ziffernfolge (Suffix) ergänzt, die das Standesamt einmalig vergibt. Der Name des Standesbeamten aus dem ursprünglichen Eintrag wird ohne Funktionsbezeichnung übernommen. Als Heiratseinträge fortgeführte Familienbücher im Sinne des § 77 Absatz 2 Satz 2 des Personenstandsgesetzes werden mit einer nicht belegten Eintragsnummer im Eheregister des Jahres nacherfasst, in dem sie angelegt wurden.
+
+(3) Der Standesbeamte, der die elektronische Erfassung durchführt, schließt den Eintrag mit seiner dauerhaft überprüfbaren qualifizierten elektronischen Signatur ab und speichert ihn in dem entsprechenden Personenstandsregister. Beurkundung im Sinne des § 54 des Gesetzes ist ab diesem Zeitpunkt ausschließlich der im elektronischen Personenstandsregister gespeicherte Eintrag.
+
+(4) Im Übrigen gelten die §§ 9 und 15 bis 20 entsprechend.
+
+(5) Einträge in Altregistern, die in elektronische Register übernommen wurden, sind mit einem entsprechenden Vermerk zu versehen; sie sind danach wie Sammelakten zu behandeln. Ist der gesamte Band nacherfasst, so ist das hierzu geführte Zweitbuch zu vernichten.
+
+(6) Für die Übernahme von Übergangsbeurkundungen nach § 75 des Gesetzes in elektronische Register und für die Neubeurkundung von in Verlust geratenen Einträgen nach § 8 Absatz 1 des Gesetzes gelten die Absätze 1 bis 5 entsprechend.
+
 # § 70 – Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 
 (1) Für die Ausstellung von Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen gilt § 48 entsprechend. An Stelle beglaubigter Registerausdrucke nach § 55 Abs. 1 Nr. 1 des Gesetzes werden beglaubigte Abschriften der Personenstandseinträge erteilt.
 
 (2) Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen werden nicht mehr ausgestellt, wenn die Einträge nach § 69 in elektronische Register übernommen worden sind.
+
+# § 71 – Fortführung, Benutzung und Aufbewahrung der Konsularregister
+
+(1) Für die Fortführung, Benutzung und Aufbewahrung
+
+1. der von den Konsularbeamten errichteten Heiratseinträge,
+
+2. der auf Grund der unter Nummer 1 genannten Einträge angelegten und als Heiratseinträge fortgeführten Familienbücher,
+
+3. der auf Grund des Gesetzes betreffend die Eheschließung und die Beurkundung des Personenstandes von Bundesangehörigen im Auslande vom 4. Mai 1870 (Bundes-Gesetzblatt des Norddeutschen Bundes S. 599) angelegten Personenstandsregister (Konsularregister)
+
+gelten die Vorschriften des Gesetzes und dieser Verordnung nach Maßgabe der Absätze 2 und 3.
+
+(2) Für die Fortführung der Konsularregister und für die Ausstellung von Personenstandsurkunden aus diesen Registern ist das Standesamt I in Berlin zuständig. Dabei gelten folgende Besonderheiten:
+
+1. Die Konsularregister können vom Standesamt I in Berlin in ein elektronisch geführtes Register übernommen werden. Für die Übernahme der Registerdaten und die Führung und Fortführung des elektronischen Konsularregisters gelten die Vorschriften für Altregister (§ 69) entsprechend. Die ersten Stücke der papiergeführten Konsularregister werden in diesem Fall als Sammelakten im Sinne von § 6 des Gesetzes aufbewahrt, Zweitstücke sind zu vernichten.
+
+2. Soweit kein elektronisches Konsularregister angelegt wird, stehen die ersten Stücke den Personenstandsregistern, die Zweitstücke den Sicherungsregistern im Sinne des Gesetzes und dieser Verordnung gleich. Ist von einem Konsularregister nur ein Stück vorhanden, ist kein Sicherungsregister anzulegen.
+
+3. Soweit die Einträge in den Konsularregistern die in den §§ 15, 21 und 31 des Gesetzes vorgeschriebenen Angaben nicht enthalten, ist keine Berichtigung oder Ergänzung vorzunehmen.
+
+4. Für die Ausstellung von Personenstandsurkunden sind die in § 48 Abs. 1 bezeichneten Formulare zu benutzen; dabei können diese Formulare den jeweiligen Erfordernissen angepasst werden. In diese Urkunden dürfen nur Angaben aufgenommen werden, die sich aus dem Eintrag ergeben. In den Ehe- und Sterbeurkunden ist das Alter anzugeben, soweit der Eintrag den Tag der Geburt nicht enthält.
+
+(3) Urkunden, Entscheidungen und Mitteilungen zu den in Absatz 1 Nummer 1 und 3 genannten Einträgen und Registern sind dem Standesamt I in Berlin zu übersenden; die Übersendung unterbleibt, wenn die Mitteilungen nur zur Eintragung von Hinweisen dienen würden.
 
 # § 72 – Besondere Aufgaben des Standesamts I in Berlin
 
@@ -966,6 +1150,73 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 # Schlussformel
 
 Der Bundesrat hat zugestimmt.
+
+# Anlage 1 – (zu § 11)Datenfelder in den Personenstandsregistern
+
+Fundstelle: BGBl. I 2018, 1770 - 1789)
+
+  
+  
+
+# Anlage 2 – (zu den §§ 11, 19, 48, 65)
+
+(Fundstelle: BGBl. I 2018, 1790 - 1791)
+
+# Anlage 3 – (zu den §§ 11, 19, 48, 65)
+
+(Fundstelle: BGBl. I 2018, 1792 - 1793)
+
+# Anlage 4 – (zu den §§ 11, 19, 48, 65)
+
+(Fundstelle: BGBl. I. 2018, 2642 - 2643)
+
+  
+  
+
+\_\_\_\_\_\_\_\_\_\_
+
+# Anlage 5 – (zu den §§ 11, 19, 48, 65)
+
+(Fundstelle: BGBl. I 2018, 2644)
+
+  
+  
+
+\_\_\_\_\_\_\_\_\_\_
+
+# Anlage 6 – (zu den §§ 48, 70)
+
+(Fundstelle: BGBl. I 2018, 1797)
+
+<a href="../normengrafiken/bgbl1_2018/j1797_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 7 – (zu den §§ 48, 70)
+
+(Fundstelle: BGBl. I 2018, 1798)
+
+<a href="../normengrafiken/bgbl1_2018/j1798_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 8 – (zu den §§ 48, 70)
+
+(Fundstelle: BGBl. I 2018, 1799)
+
+<a href="../normengrafiken/bgbl1_2018/j1799_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 9 – (zu den §§ 48, 70)
+
+(Fundstelle: BGBl. I 2018, 1800)
+
+<a href="../normengrafiken/bgbl1_2018/j1800_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 10 – (zu § 29)
+
+(Fundstelle: BGBl. I 2018, 1801 - 1802)
+
+# Anlage 11 – (zu § 31 Absatz 2)
+
+(Fundstelle: BGBl. I 2018, 1803)
+
+<a href="../normengrafiken/bgbl1_2018/j1803_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 12 – (zu § 34)
 
