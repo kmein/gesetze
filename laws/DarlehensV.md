@@ -35,9 +35,9 @@ Liegt im Fall von Einkommen aus selbständiger Erwerbstätigkeit kein Einkommens
 
 (3) Soweit eine Vorlage von Unterlagen nicht möglich ist, haben Darlehensnehmende das Vorliegen der für die Feststellung der Voraussetzungen erheblichen Tatsachen des § 18a Absatz 1 des Gesetzes an Eides statt zu versichern.
 
-# § 5 – Freistellung von der Rückzahlungsverpflichtung
+# § 4 – (weggefallen)
 
-\-
+# § 5 – (weggefallen)
 
 # § 6 – Vorzeitige Rückzahlung
 

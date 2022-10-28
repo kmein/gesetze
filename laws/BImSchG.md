@@ -785,7 +785,111 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
 
-# §§ 31e bis 31j – (zukünftig in Kraft)
+# § 31e – Zulassung vorzeitigen Beginns bei einer Gasmangellage
+
+(1) § 8a ist nach Maßgabe der Absätze 2 bis 5 anzuwenden, wenn eine Genehmigung beantragt wird
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit.
+
+(2) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die Genehmigungsbehörde den vorzeitigen Beginn bereits vor dem Vorliegen vollständiger Antragsunterlagen zulassen kann, wenn
+
+1. die Erstellung der fehlenden Unterlagen im Hinblick auf die Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
+
+2. auch ohne Berücksichtigung der fehlenden Unterlagen mit einer Entscheidung zugunsten des Antragstellers gerechnet werden kann.
+
+In diesem Fall hat der Antragsteller das Vorhaben, die voraussichtlichen Auswirkungen des Vorhabens und den Grund für die nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen. Der Antragsteller hat die fehlenden Unterlagen unverzüglich nachzureichen.
+
+(3) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung der Öffentlichkeit zulassen soll.
+
+(4) In den in Absatz 1 genannten Fällen besteht ein öffentliches Interesse oder ein berechtigtes Interesse des Antragstellers an dem vorzeitigen Beginn im Sinne des § 8a Absatz 1 Nummer 2.
+
+(5) In einem Verfahren zur Erteilung einer Genehmigung kann die Genehmigungsbehörde unter den in § 8a Absatz 1 genannten Voraussetzungen auch den Betrieb der Anlage vorläufig zulassen. Die Absätze 1 bis 4 gelten entsprechend. Satz 1 ist nicht anzuwenden, soweit die Richtlinie 2010/75/EU oder die Richtlinie 2012/18/EU entgegenstehen.
+
+# § 31f – Beteiligung der Öffentlichkeit in Genehmigungsverfahren
+
+(1) § 10 ist nach Maßgabe der Absätze 2 bis 4 anzuwenden, wenn ein Genehmigungsverfahren nach § 10, auch in Verbindung mit § 16 oder § 16a, durchzuführen ist
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit.
+
+§ 16 Absatz 2 Satz 1 und 2 sowie § 19 Absatz 4 Satz 2 bis 4 bleiben unberührt.
+
+(2) Abweichend von § 10 Absatz 3 Satz 2 sind der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach § 10 Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen.
+
+(3) Abweichend von § 10 Absatz 3 Satz 4 kann die Öffentlichkeit bis eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; diese Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU.
+
+(4) Die Genehmigungsbehörde soll auf die Durchführung eines Erörterungstermins nach § 10 Absatz 6 verzichten.
+
+# § 31g – Entbehrlichkeit einer Änderungsanzeige oder Änderungsgenehmigung
+
+(1) Es bedarf weder einer Anzeige nach § 15 noch einer Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei der zuständigen Behörde die Zulassung einer Ausnahme nach einer der in Absatz 2 genannten Vorschriften beantragt
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit.
+
+Ausnahmen nach den in Absatz 2 genannten Vorschriften sollen erteilt werden, wenn die Voraussetzungen hierfür vorliegen.
+
+(2) Ausnahmevorschriften im Sinne des Absatzes 1 sind
+
+1. die §§ 31a bis 31d,
+
+2. § 23 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen in der jeweils geltenden Fassung,
+
+3. § 6 Absatz 6 und § 24 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,
+
+4. § 16 der Verordnung über Anlagen zur biologischen Behandlung von Abfällen vom 20. Februar 2001 (BGBl. I S. 305, 317), die zuletzt durch Artikel 2 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739) geändert worden ist, in der jeweils geltenden Fassung,
+
+5. § 11 der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen vom 21. August 2001 (BGBl. I S. 2180), die zuletzt durch Artikel 13 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung und
+
+6. § 32 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen in der jeweils geltenden Fassung.
+
+# § 31h – Abweichungen von der Vierten Verordnung zum Bundes-Immissionsschutzgesetz
+
+Anlagen nach Nummer 9.1.1 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. Januar 2021 (BGBl. I S. 69) geändert worden ist, in der jeweils geltenden Fassung, die nicht länger als zwei Jahre betrieben werden und ein Fassungsvermögen von nicht mehr als 200 Tonnen haben, sind
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit
+
+im vereinfachten Verfahren nach § 19 des Bundes-Immissionsschutzgesetzes zu genehmigen. Die Genehmigung ist entsprechend zu befristen. § 19 Absatz 4 des Bundes-Immissionsschutzgesetzes bleibt von dieser Vorschrift unberührt.
+
+# § 31i – Abweichungen von der Technischen Anleitung zur Reinhaltung der Luft
+
+(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der Nummer 5.1.1 der Neufassung der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft – TA Luft) vom 18. August 2021 (GMBl S. 1050) Abweichungen von den Anforderungen der Nummer 5 der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft – TA Luft) vom 18. August 2021 (GMBl S. 1050) oder den Anforderungen der Nummer 5 der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft – TA Luft) vom 24. Juli 2002 (GMBl S. 511) zulassen, solange und soweit diese Abweichungen erforderlich sind
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit.
+
+Bei Anlagen, die von der Richtlinie 2010/75/EU erfasst werden, müssen die Anforderungen der Richtlinie 2010/75/EU eingehalten werden.
+
+(2) Es bedarf weder einer Anzeige nach § 15 noch einer Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei der zuständigen Behörde Abweichungen nach Absatz 1 beantragt.
+
+# § 31j – Überschreitung von Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm
+
+(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der Nummer 7.1 der Sechsten Allgemeinen Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische Anleitung zum Schutz gegen Lärm – TA Lärm) vom 26. August 1998 (GMBl S. 503), geändert durch die Allgemeine Verwaltungsvorschrift vom 1. Juni 2017 (BAnz AT 08.06.2017 B5) die Überschreitung von Immissionsrichtwerten zulassen, solange und soweit diese Überschreitung erforderlich ist
+
+1. im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder erheblichen Gasmangellage,
+
+2. weil wegen einer ernsten oder erheblichen Gasmangellage notwendige Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung stehen oder
+
+3. wegen einer anderen durch die ernste oder erhebliche Gasmangellage ausgelösten Notwendigkeit.
+
+(2) Es bedarf weder einer Anzeige nach § 15 noch einer Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei der zuständigen Behörde eine Überschreitung nach Absatz 1 beantragt.
 
 # § 31k – Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen
 
