@@ -2794,7 +2794,7 @@ Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit 
 
 (3) Die Vorschriften des Zwölften Kapitels des Fünften Buches gelten entsprechend.
 
-§ 54 Abs. 1 u. 2: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 3.4.2001 I 774 - 1 BvR 1629/94 -
+§ 54 Abs. 1 u. 2: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 3.4.2001 I 774 - 1 BvR 1629/94 -. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 15.12.2004 I 3448 mWv 1.1.2005.
 
 # § 55 – Beitragssatz, Beitragsbemessungsgrenze
 
