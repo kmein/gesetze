@@ -3,7 +3,7 @@
  
 # ----
 
-Bezirkspersonalräte werden bei folgenden militärischen Dienststellen gebildet, die den Behörden der Mittelstufe nach § 4 Absatz 1 Nummer 4 des Bundespersonalvertretungsgesetzes entsprechen:
+Bezirkspersonalräte werden bei den folgenden militärischen Dienststellen gebildet, die den Behörden der Mittelstufe nach § 4 Absatz 1 Nummer 4 des Bundespersonalvertretungsgesetzes entsprechen:
 
 1. Kommando Heer,
 
@@ -13,6 +13,8 @@ Bezirkspersonalräte werden bei folgenden militärischen Dienststellen gebildet,
 
 4. Kommando Streitkräftebasis,
 
-5. Kommando Sanitätsdienst der Bundeswehr und
+5. Kommando Sanitätsdienst der Bundeswehr,
 
-6. Kommando Cyber- und Informationsraum.
+6. Kommando Cyber- und Informationsraum und
+
+7. Territoriales Führungskommando der Bundeswehr.

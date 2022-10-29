@@ -521,6 +521,24 @@ ins Inland verbracht, hat der inländische Empfänger der nach Landesrecht für 
 
 (4) Für die in § 18 Abs. 8 Satz 2 der Weinverordnung genannten Erzeugnisse, deren Beförderung im Inland beginnt, hat der zur Ausstellung des Begleitpapiers nach Artikel 23 der Verordnung (EG) Nr. 436/2009 Verpflichtete unverzüglich zwei Kopien des nach Artikel 23 in Verbindung mit Anhang VI Abschnitt C oder Artikel 24 Absatz 1 der Verordnung (EG) Nr. 436/2009 auszustellenden Begleitpapiers der für den Verladeort zuständigen Stelle zuzuleiten. Diese leitet eine Kopie unverzüglich der für den Entladeort zuständigen Stelle zu. Absatz 3 ist entsprechend anzuwenden.
 
+# § 22 – Kontrollvorschriften(zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+
+(1) Wer ein Erzeugnis des Weinsektors innerhalb der Union in Verkehr bringt, hat das amtlich zugelassene Begleitdokument im Sinne des Artikels 147 Absatz 1 der Verordnung (EU) Nr. 1308/2013 beim Inverkehrbringen beizufügen.
+
+(1a) Wird ein
+
+1. nicht abgefülltes Erzeugnis, für das ein Begleitpapier nach der Verordnung (EG) Nr. 436/2009 ausgestellt ist,
+
+2. Erzeugnis, für das ein Dokument nach Artikel 43 Absatz 1 Unterabsatz 2 oder Artikel 44 Absatz 2 Satz 1 der Verordnung (EG) Nr. 555/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates über die gemeinsame Marktorganisation für Wein hinsichtlich der Stützungsprogramme, des Handels mit Drittländern, des Produktionspotentials und der Kontrollen im Weinsektor (ABl. L 170 vom 30.6.2008, S. 1) in der jeweils geltenden Fassung ausgestellt ist,
+
+ins Inland verbracht, hat der inländische Empfänger der nach Landesrecht für den Entladeort zuständigen Stelle eine Kopie des Begleitpapiers oder des Dokuments zu übersenden, bevor das Erzeugnis in den Verkehr gebracht, verwendet oder verwertet wird.
+
+(2) Für die in Artikel 29 der Verordnung (EG) Nr. 436/2009 genannten Erzeugnisse, deren Beförderung im Inland beginnt, hat der zur Ausstellung des Begleitpapiers Verpflichtete neben der nach Artikel 29 der genannten Verordnung zu versendenden Kopie spätestens am Tag nach Beginn der Beförderung eine Kopie der für den Verladeort zuständigen Stelle zuzuleiten. Für Erzeugnisse nach Satz 1, deren Beförderung im Hoheitsgebiet der Bundesrepublik Deutschland beginnt und endet, erfolgt durch die in Satz 1 genannten Verpflichteten die Übermittlung des Begleitpapiers spätestens am Tag nach Beginn der Beförderung.
+
+(3) Zusammen mit der in Anwendung des Artikels 29 der Verordnung (EG) Nr. 436/2009 zu versendenden Kopie hat der Versender, sofern die Beförderung im Inland beginnt und in einem anderen Mitgliedstaat endet, der für den Verladeort zuständigen Stelle Name und Anschrift der für den Entladeort zuständigen Stelle mitzuteilen. Die Verpflichtung des Satzes 1 kann durch einmalige Mitteilung erfüllt werden, wenn die für den Verladeort zuständige Stelle dem zustimmt.
+
+(4) Für die in § 18 Abs. 8 Satz 2 der Weinverordnung genannten Erzeugnisse, deren Beförderung im Inland beginnt, hat der zur Ausstellung des Begleitpapiers nach Artikel 23 der Verordnung (EG) Nr. 436/2009 Verpflichtete unverzüglich zwei Kopien des nach Artikel 23 in Verbindung mit Anhang VI Abschnitt C oder Artikel 24 Absatz 1 der Verordnung (EG) Nr. 436/2009 auszustellenden Begleitpapiers der für den Verladeort zuständigen Stelle zuzuleiten. Diese leitet eine Kopie unverzüglich der für den Entladeort zuständigen Stelle zu. Absatz 3 ist entsprechend anzuwenden.
+
 # § 23 – Begleitpapier, Ermächtigungen (zu § 30 Satz 1 Nummer 2 i. V. m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass der zur Ausstellung des Begleitpapiers Verpflichtete
@@ -756,6 +774,42 @@ Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes handelt, wer vor
 14. entgegen § 21 Satz 1 einen Vermerk nicht oder nicht in der vorgeschriebenen Weise anbringt, entgegen § 21 Satz 2 eine Angabe nicht, nicht richtig oder nicht vollständig macht oder entgegen § 21 Satz 3 oder 5 ein Begleitpapier oder eine Kopie nicht oder nicht in der vorgeschriebenen Weise aufbewahrt oder
 
 15. entgegen § 22 Abs. 1, 2 oder 4 Satz 1 eine Kopie nicht oder nicht rechtzeitig übersendet oder zuleitet.
+
+# § 40 – Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 1 Abs. 4 Satz 2 bis 4 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+2. entgegen § 4 die Vergällung von Weintrub vornimmt,
+
+3. entgegen § 5 Abs. 1 Ein- und Ausgangsbücher nicht führt,
+
+4. entgegen § 7 Abs. 5 ein Registerbuch nicht führt oder eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
+
+5. entgegen § 7 Abs. 4, 7 Satz 2 oder Abs. 8 eine Eintragung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht jährlich macht,
+
+6. entgegen § 8 Satz 1 oder § 10 Abs. 2 ein Buch nicht, nicht richtig oder nicht vollständig führt,
+
+7. entgegen § 10 Abs. 1 Satz 1 Behältnisse oder Flaschenstapel nicht oder nicht in der vorgeschriebenen Weise mit Merkzeichen versieht,
+
+8. entgegen § 10 Abs. 3 Bücher, Unterlagen oder Begleitpapiere nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
+
+9. entgegen § 13 Abs. 1 oder 3 Satz 1 ein Analysenbuch nicht, nicht richtig oder nicht vollständig führt oder nicht fünf Jahre aufbewahrt,
+
+10. entgegen § 14 Abs. 1 eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
+
+11. entgegen § 17 Satz 1 oder 2 Eintragungen nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht oder eine Eintragung unleserlich macht oder ohne Sichtbarmachung ändert,
+
+12. entgegen § 19 ein Begleitpapier nicht oder nicht nach dem vorgeschriebenen Muster verwendet oder nicht oder nicht richtig ausstellt,
+
+13. entgegen § 20 eine Eintragung oder eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
+
+14. entgegen § 21 Satz 1 einen Vermerk nicht oder nicht in der vorgeschriebenen Weise anbringt, entgegen § 21 Satz 2 eine Angabe nicht, nicht richtig oder nicht vollständig macht oder entgegen § 21 Satz 3 oder 5 ein Begleitpapier oder eine Kopie nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
+
+15. entgegen § 22 Absatz 1 ein Begleitdokument nicht, nicht richtig oder nicht rechtzeitig beifügt oder
+
+16. entgegen § 22 Absatz 1a, 2 oder 4 Satz 1 eine Kopie nicht, nicht richtig oder nicht rechtzeitig übersendet oder nicht, nicht richtig oder nicht rechtzeitig zuleitet.
 
 # § 41 – Fortbestehen anderer Vorschriften
 

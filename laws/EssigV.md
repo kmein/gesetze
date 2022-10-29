@@ -65,15 +65,7 @@ Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als wasserfrei
 
 # § 7
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung und Ergänzung des Lebensmittelgesetzes vom 21. Dezember 1958 (Bundesgesetzbl. I S. 950) auch im Land Berlin.
-
-# § 8
-
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
-(2)
-
-(3)
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Schlußformel
 

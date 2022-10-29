@@ -2006,6 +2006,7 @@
 - [EWKVerbotsV](laws/EWKVerbotsV.md) Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff*
 - [EWO](laws/EWO.md) Übereinkommen zur Gründung einer Europäischen Weltraumorganisation
 - [eWpG](laws/eWpG.md) Gesetz über elektronische Wertpapiere
+- [eWpRV](laws/eWpRV.md) Verordnung über Anforderungen an elektronische Wertpapierregister 1
 - [EWRAbkAG](laws/EWRAbkAG.md) Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
 - [EWRAbkAV](laws/EWRAbkAV.md) Verordnung zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum für die Anwendung von Vorschriften des Gesetzes über das Kreditwesen
 - [ExpertenratV](laws/ExpertenratV.md) Verordnung zur Ausgestaltung des unabhängigen Expertenrats für Klimafragen und zur Einsetzung der Geschäftsstelle

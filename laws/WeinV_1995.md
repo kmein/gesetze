@@ -323,6 +323,328 @@ Schlussbestimmungen
 
 Übergangsregelungen
 
+# Inhaltsübersicht
+
+Abschnitt 1
+
+Weinanbaugebiet
+
+§ 1
+
+(weggefallen)
+
+§ 2
+
+Landweingebiete
+
+§ 2a
+
+(weggefallen)
+
+Abschnitt 2
+
+Anbauregeln
+
+§ 3
+
+Formular für Anträge auf Genehmigung einer Neuanpflanzung
+
+§ 4
+
+Nachweis des Vorliegens von Prioritätskriterien
+
+§ 4a
+
+(weggefallen)
+
+§ 5
+
+Härtefallregelung für Neuanpflanzungen
+
+§ 6
+
+Erzeugnisse aus Versuchsanbau
+
+§ 7
+
+(weggefallen)
+
+§ 7a
+
+(weggefallen)
+
+§ 8
+
+Umstrukturierung und Umstellung
+
+§ 9
+
+(weggefallen)
+
+§ 10
+
+Hektarertragsregelung
+
+§ 10a
+
+Destillation
+
+Abschnitt 3
+
+Verarbeitung
+
+§ 11
+
+Behandlungsverfahren und Behandlungsstoffe
+
+§ 12
+
+(weggefallen)
+
+§ 13
+
+Behandlungsverfahren und Gehalt an Stoffen
+
+§ 13a
+
+(weggefallen)
+
+§ 14
+
+Hygienische Anforderungen
+
+§ 15
+
+Erhöhung des natürlichen Alkoholgehalts
+
+§ 16
+
+Süßung
+
+§ 16a
+
+(weggefallen)
+
+§ 17
+
+(weggefallen)
+
+§ 18
+
+Weitere Verarbeitungsregeln
+
+Abschnitt 4
+
+Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein
+
+§ 19
+
+Herstellen von Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. außerhalb des bestimmten Anbaugebietes
+
+§ 20
+
+Herstellen von Landwein außerhalb des Landweingebiets (zu § 22 Absatz 2 Nummer 2 des Weingesetzes)
+
+§ 20a
+
+Vorübergehende Änderung einer Produktspezifikation
+
+§ 21
+
+Qualitätsprüfung
+
+§ 22
+
+Antrag auf Erteilung einer Prüfungsnummer
+
+§ 23
+
+Untersuchungsbefund
+
+§ 24
+
+Prüfungsverfahren
+
+§ 25
+
+Zuständige Stelle
+
+§ 26
+
+Prüfungsbescheid
+
+§ 27
+
+Rücknahme der Prüfungsnummer
+
+§ 28
+
+Ausnahmen
+
+§ 28a
+
+Qualitätsprüfung bestimmter Qualitätsschaumweine
+
+Abschnitt 5
+
+Bezeichnung und Aufmachung
+
+§ 29
+
+Eintragung von Lagen und Bereichen
+
+§ 30
+
+Auszeichnungen und ähnliche Angaben
+
+§ 31
+
+Weine für religiöse Zwecke
+
+§ 32
+
+Angabe von Weinarten; Reifeangaben
+
+§ 32a
+
+Classic
+
+§ 32b
+
+Erstes Gewächs und Großes Gewächs
+
+§ 32c
+
+Weitere Bestimmungen für Classic
+
+§ 32d
+
+Abweichungen; Ausnahmen
+
+§ 33
+
+Liebfrau(en)milch; Hock
+
+§ 33a
+
+Verwendung bestimmter Behältnisse
+
+§ 34
+
+Riesling-Hochgewächs; Der Neue; primeur
+
+§ 34a
+
+Crémant, Winzersekt
+
+§ 34b
+
+Steillage; Terrassenlage
+
+§ 34c
+
+Teilweise gegorener Traubenmost
+
+§ 35
+
+(weggefallen)
+
+§ 36
+
+Vorgeschriebene Angaben
+
+§ 37
+
+Zugelassene und verbotene Angaben
+
+§ 38
+
+Angaben zum Betrieb und zur Abfüllung
+
+§ 39
+
+Geografische Angaben
+
+§ 39a
+
+Geografische Bezeichnungen mit EU-Schutz
+
+§ 40
+
+Angabe kleinerer geografischer Einheiten
+
+§ 41
+
+Geschmacksangaben
+
+§ 42
+
+Rebsortenangaben
+
+§ 43
+
+Jahrgangsangaben
+
+§ 44
+
+Kumulierungsverbot
+
+§ 45
+
+Verwendung von Kennziffern
+
+§ 46
+
+Angabe des Alkoholgehalts bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails
+
+§ 46a
+
+Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt
+
+§ 46b
+
+Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
+
+§ 47
+
+Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein
+
+§ 48
+
+(weggefallen)
+
+§ 49
+
+Art der Aufmachung
+
+§ 50
+
+Angabe des Loses
+
+§ 51
+
+(weggefallen)
+
+Abschnitt 6
+
+Straftaten und Ordnungswidrigkeiten
+
+§ 52
+
+Straftaten
+
+§ 53
+
+Ordnungswidrigkeiten
+
+Abschnitt 7
+
+Schlussbestimmungen
+
+§ 54
+
+Übergangsregelungen
+
 # § 1 – (wegefallen)
 
 \-
@@ -411,6 +733,8 @@ zu erbringen.
 
 Sofern ein Antrag nach § 7c Absatz 1 des Weingesetzes auf Neuanpflanzung in einem Gebiet gestellt wird, das für die Erzeugung von Weinen mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe in Betracht kommt und die für das betroffene Gebiet zuständige Landesregierung eine Rechtsverordnung nach § 7 Absatz 3 Satz 1 erlassen hat, ist dem Antrag ein Formular beizufügen, auf dem die Lage in dem betreffenden Anbaugebiet oder im Landweingebiet durch die zuständige Landesbehörde bestätigt wird. Das Formular wird dem Antragsteller von der Bundesanstalt für Landwirtschaft und Ernährung in elektronischer Form bereitgestellt.
 
+# § 4a – (weggefallen)
+
 # § 5 – Härtefallregelung für Neuanpflanzungen(zu § 7c Absatz 3 des Weingesetzes)
 
 (1) Einem Erzeuger, dem eine Genehmigung nach § 7c Absatz 1 Satz 1 des Weingesetzes erteilt worden ist, kann auf Antrag gestattet werden, die neu anzupflanzenden Reben auf einer anderen Fläche des Betriebes als der in der Genehmigung bezeichneten Fläche zu pflanzen, wenn er nachweist, dass
@@ -426,6 +750,16 @@ Sofern ein Antrag nach § 7c Absatz 1 des Weingesetzes auf Neuanpflanzung in ein
 # § 6 – Erzeugnisse aus Versuchsanbau (zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)
 
 (1) Die Anpflanzung oder Wiederbepflanzung von Flächen im Sinne von Artikel 3 Absatz 2 Unterabsatz 1 der Delegierten Verordnung (EU) 2018/273 der Kommission vom 11. Dezember 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Weinbaukartei, der Begleitdokumente und der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen, Mitteilungen und Veröffentlichung der mitgeteilten Informationen und zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf die diesbezüglichen Kontrollen und Sanktionen sowie zur Änderung der Verordnungen (EG) Nr. 555/2008, (EG) Nr. 606/2009 und (EG) Nr. 607/2009 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 436/2009 und der Delegierten Verordnung (EU) 2015/560 der Kommission (ABl. L 58 vom 28.2.2018, S. 1; L 120 vom 8.5.2019, S. 34), die durch die Delegierte Verordnung (EU) 2019/840 (ABl. L 138 vom 24.5.2019, S. 74) geändert worden ist, ist auf 0,1 Hektar pro Betrieb begrenzt und den zuständigen Landesbehörden vorab mitzuteilen. Die Landesregierungen können durch Rechtsverordnung Vorschriften über Form und Inhalt der Mitteilung erlassen.
+
+(2) Erzeugnisse von Flächen nach Absatz 1 dürfen bis zu 20 Hektoliter je Betrieb und Jahr in Verkehr gebracht werden. Soweit es sich bei Erzeugnissen nach Satz 1 um Erzeugnisse aus klassifizierten Rebsorten handelt, dürfen diese ab dem sechsten auf das Jahr der Klassifizierung der angebauten Rebsorte folgenden Jahr nicht mehr in Verkehr gebracht werden.
+
+(3) Die Landesregierungen können durch Rechtsverordnung von Absatz 2 Satz 1 abweichende Vermarktungsmengen festsetzen soweit sichergestellt ist, dass hierdurch kein Marktstörungsrisiko nach Artikel 3 Absatz 2 Unterabsatz 2 der Delegierten Verordnung (EU) 2018/273 entsteht.
+
+(4) Die Landesregierungen können durch Rechtsverordnung die Anpflanzung, Wiederbepflanzung oder Veredelung von nicht klassifizierten Keltertraubensorten zu wissenschaftlichen Forschungs- und Versuchszwecken auf Flächen beschränken, die für die Erzeugung von Wein mit einer geschützten Ursprungsbezeichnung oder einer geschützten geografischen Angabe in Betracht kommen.
+
+# § 6 – Erzeugnisse aus Versuchsanbau(zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)
+
+(1) Die Anpflanzung oder Wiederbepflanzung von Flächen im Sinne von Artikel 3 Absatz 2 Unterabsatz 1 der Delegierten Verordnung (EU) 2018/273 der Kommission vom 11. Dezember 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Weinbaukartei, der Begleitdokumente und der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen, Mitteilungen und Veröffentlichung der mitgeteilten Informationen und zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf die diesbezüglichen Kontrollen und Sanktionen sowie zur Änderung der Verordnungen (EG) Nr. 555/2008, (EG) Nr. 606/2009 und (EG) Nr. 607/2009 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 436/2009 und der Delegierten Verordnung (EU) 2015/560 der Kommission (ABl. L 58 vom 28.2.2018, S. 1; L 120 vom 8.5.2019, S. 34), die durch die Delegierte Verordnung (EU) 2019/840 (ABl. L 138 vom 24.5.2019, S. 74) geändert worden ist, ist auf 0,5 Hektar pro Betrieb begrenzt und den zuständigen Landesbehörden vorab mitzuteilen. Die Landesregierungen können durch Rechtsverordnung Vorschriften über Form und Inhalt der Mitteilung erlassen.
 
 (2) Erzeugnisse von Flächen nach Absatz 1 dürfen bis zu 20 Hektoliter je Betrieb und Jahr in Verkehr gebracht werden. Soweit es sich bei Erzeugnissen nach Satz 1 um Erzeugnisse aus klassifizierten Rebsorten handelt, dürfen diese ab dem sechsten auf das Jahr der Klassifizierung der angebauten Rebsorte folgenden Jahr nicht mehr in Verkehr gebracht werden.
 
@@ -521,9 +855,53 @@ nur Behandlungsverfahren angewendet werden, wenn durch sie kein Stoff zugesetzt 
 
 (9) (weggefallen)
 
+# § 11 – Behandlungsverfahren und Behandlungsstoffe(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+
+(1) Bei den zur Herstellung von weinhaltigen Getränken bestimmten Erzeugnissen dürfen nur die nach Artikel 80 Absatz 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung zugelassenen önologischen Verfahren angewendet und die dort aufgeführten Stoffe zugesetzt worden sein.
+
+(2) Ein Erzeugnis,
+
+1. das angereichert wurde, darf nicht gesäuert werden,
+
+2. das gesäuert wurde, darf weder angereichert noch entsäuert werden,
+
+3. das entsäuert wurde, darf nicht gesäuert werden.
+
+(3) Eine Cuvée im Sinne des Anhangs II Teil IV Nummer 12 der Verordnung (EU) Nr. 1308/2013,
+
+1. die gesäuert wurde, darf nicht entsäuert werden, und
+
+2. die entsäuert wurde, darf nicht gesäuert werden.
+
+(4) (weggefallen)
+
+(5) (weggefallen)
+
+(6) (weggefallen)
+
+(7) (weggefallen)
+
+(8) Soweit in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union nichts anderes bestimmt ist, dürfen bei im Inland hergestellten
+
+1. weinhaltigen Getränken (inländische weinhaltige Getränke),
+
+2. aromatisierten weinhaltigen Getränken (inländische aromatisierte weinhaltige Getränke),
+
+3. aromatisierten weinhaltigen Cocktails (inländische aromatisierte weinhaltige Cocktails) und
+
+4. aromatisierten Weinen (inländische aromatisierte Weine) sowie
+
+5. bei der Behandlung von anderen als inländischen weinhaltigen Getränken, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails und aromatisierten Weinen im Inland
+
+nur Behandlungsverfahren angewendet werden, wenn durch sie kein Stoff zugesetzt wird. Bei der Herstellung der in Satz 1 genannten Getränke dürfen Ionenaustauscher oder ultraviolette oder energiereiche Strahlen nicht angewendet werden.
+
+(9) (weggefallen)
+
 # § 12 – Reinheitsanforderungen(zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)
 
 Bei der Herstellung von Erzeugnissen dürfen die in Anlage 5 genannten Stoffe nur zugesetzt werden, wenn sie den dort aufgeführten Reinheitsanforderungen entsprechen.
+
+# § 12 – (weggefallen)
 
 # § 13 – Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
 
@@ -591,6 +969,72 @@ geerntet worden sind.
 
 (9) Die Länder können durch Rechtsverordnung in Jahren mit außergewöhnlichen Witterungsbedingungen die Säuerung von frischen Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach den in Anhang VIII Teil I Abschnitt C Nummer 2 und 3 der Verordnung (EU) Nr. 1308/2013 genannten Bedingungen zulassen.
 
+# § 13 – Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+
+(1) Solange und soweit nicht auf Grund anderer Rechtsvorschriften etwas Abweichendes bestimmt ist, dürfen Erzeugnisse, wenn sie in den Verkehr gebracht werden, keinen Gehalt an in Anlage 7 aufgeführten Stoffen aufweisen, der die dort jeweils angegebenen Höchstmengen überschreitet.
+
+(2) Soweit nicht nach Artikel 49 Absatz 1 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1) in der jeweils geltenden Fassung die Anforderungen des Kapitels III des vorstehend bezeichneten Rechtsaktes gelten und nicht nach Absatz 1 Nummer 2 in Verbindung mit der Anlage 7 etwas anderes bestimmt ist, gilt für
+
+1. Erzeugnisse, wenn sie in den Verkehr gebracht werden, vorbehaltlich der Nummer 2 als Gehalt an einem in Anlage 7a genannten Stoff, dessen Höchstmenge nicht überschritten werden darf, der in Anwendung des § 13 Absatz 5 des Weingesetzes für Weintrauben festgesetzte Gehalt
+
+a) bei in Anlage 7a Abschnitt 1 genannten Stoffen
+
+aa)  
+zuzüglich der durch die Herstellung eingetretenen Erhöhung oder
+
+bb)  
+abzüglich der durch die Herstellung eingetretenen Verringerung,
+
+b) bei in Anlage 7a Abschnitt 2 genannten Stoffen unverändert,
+
+2. Erzeugnisse, soweit sie aus mehreren, aus Weintrauben hergestellten Zutaten bestehen, wenn diese Erzeugnisse in den Verkehr gebracht werden, als Gehalt an einem in Anlage 7a genannten Stoff, dessen Höchstmenge nicht überschritten werden darf, der Gehalt, der sich aus der Summe der für die einzelnen Zutaten geltenden Gehalte für den Stoff entsprechend dem Anteil der Zutaten an dem jeweiligen Erzeugnis ergibt.
+
+(3) Absatz 2 gilt auch für Erzeugnisse, wenn sie als Zutat für ein anderes Lebensmittel, das kein Erzeugnis ist, in den Verkehr gebracht werden.
+
+(4) Die in Anhang V Abschnitt A Nummer 1 und 2 Buchstabe a der Verordnung (EG) Nummer 1493/1999 genannten Grenzwerte des Gesamtgehalts an Schwefeldioxid dürfen
+
+1. bei inländischem Wein aus im Jahr 2000 geernteten Trauben,
+
+2. bei Wein aus Trauben, die im Jahr 2006 in den Weinanbaugebieten der Länder Baden-Württemberg, Bayern, Hessen und Rheinland-Pfalz geerntet worden sind,
+
+um jeweils 40 mg/l überschritten werden.
+
+(4a) Die in Anhang I Teil B Abschnitt A Nummer 1 und 2 Buchstabe a und b der Delegierten Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers (ABl. L 149 vom 17.6.2019, S. 1; L 289 vom 8.11.2019, S. 59), die zuletzt durch die Delegierte Verordnung (EU) 2020/565 (ABl. L 129 vom 24.4.2020, S. 1) geändert worden ist, genannten Grenzwerte des Gesamtgehaltes an Schwefeldioxid dürfen bei in den Verkehr gebrachten Wein um jeweils höchstens 50 mg/l überschritten werden, soweit der Wein aus Trauben stammt, die im Jahr 2013 auf den Weinbauflächen
+
+1. des bestimmten Anbaugebietes „Mosel“,
+
+2. des Landweingebietes „Landwein der Mosel“,
+
+3. des Landweingebietes „Landwein der Ruwer“,
+
+4. des Landweingebietes „Landwein der Saar“ oder
+
+5. des Landweingebietes „Saarländischer Landwein“
+
+geerntet worden sind.
+
+(4b) Die in Anhang I B Abschnitt A Nummer 1 und 2 Buchstabe a und b der Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L 193 vom 24.7.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2015/596 (ABl. L 99 vom 16.4.2015, S. 21) geändert worden ist, genannten Grenzwerte des Gesamtgehaltes an Schwefeldioxid dürfen bei in den Verkehr gebrachten Wein um jeweils höchstens 50 mg/l überschritten werden, soweit der Wein aus Trauben stammt, die im Jahr 2014 auf den Weinbauflächen in Baden-Württemberg, Bayern, Hessen und Rheinland-Pfalz geerntet worden sind.
+
+(5) Bei inländischem Traubenmost und Wein aus im Jahre 2003 geernteten Trauben darf abweichend von Anhang V Abschnitt E Nummer 1 der Verordnung (EG) Nummer 1493/1999 eine Säuerung nach Maßgabe des Anhangs V Abschnitt E Nummer 2, 3 und 7 der genannten Verordnung vorgenommen werden.
+
+(6) Bei inländischem Traubenmost und Wein aus im Jahre 2009 geernteten Trauben darf abweichend von Anhang VIII Teil I Abschnitt C Nummer 1 der Verordnung (EU) Nr. 1308/2013 eine Säuerung nach Maßgabe des Anhangs VIII Teil I Abschnitt C Nummer 2, 3 und 7 der Verordnung (EU) Nr. 1308/2013 vorgenommen werden.
+
+(6a) Bei inländischem Traubenmost und Wein aus dem Jahre 2010 in den bestimmten Anbaugebieten Baden und Württemberg geernteten Trauben darf abweichend von Anhang VIII Teil I Abschnitt C Nummer 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates eine Säuerung nach Maßgabe des Anhangs VIII Teil I Abschnitt C Nummer 2, 3 und 7 der Verordnung (EG) Nr. 1308/2013 vorgenommen werden.
+
+(7) Prädikatswein mit dem Prädikat „Eiswein“, „Beerenauslese“ oder „Trockenbeerenauslese“ darf abweichend von Anhang I Teil C Nummer 1 der Delegierten Verordnung (EU) 2019/934 in der jeweils geltenden Fassung, wenn er in Verkehr gebracht wird, einen Gehalt an flüchtiger Säure aufweisen, der folgende Werte nicht übersteigt:
+
+1. 30 Milliäquivalent pro Liter Prädikatswein mit dem Prädikat „Eiswein” oder „Beerenauslese”,
+
+2. 35 Milliäquivalent pro Liter Prädikatswein mit dem Prädikat „Trockenbeerenauslese”.
+
+(8) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2010 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang XVa Abschnitt D Nummer 6 Buchstabe b der Verordnung (EG) Nr. 1234/2007 bis zum 15. Mai 2011 nach Anhang XVa Abschnitt C Nummer 1 Buchstabe a der Verordnung (EG) Nr. 1234/2007 entsäuert werden.
+
+(8a) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2013 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2014 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
+
+(8b) Jungwein, der aus im deutschen Weinanbaugebiet im Jahr 2021 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2022 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
+
+(9) (weggefallen)
+
 # § 13a – (weggefallen)
 
 # § 14 – Hygienische Anforderungen(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)
@@ -602,6 +1046,26 @@ Erzeugnisse dürfen nur unter Beachtung der Anforderungen des § 3 der Lebensmit
 (1) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost und Jungwein, soweit diese Erzeugnisse aus nach § 8 des Weingesetzes klassifizierten Rebsorten hergestellt worden sind, sowie Wein und Landwein darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, der Gesamtalkoholgehalt bei Rotwein 12 Volumenprozent in der Weinbauzone A und 12,5 Volumenprozent in der Weinbauzone B nicht übersteigen.
 
 (2) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein, soweit diese Erzeugnisse zur Erzeugung von Qualitätswein geeignet sind, darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, bei Qualitätswein der Gesamtalkoholgehalt 15 Volumenprozent nicht übersteigen.
+
+(3) Die Erhöhung des natürlichen Alkoholgehaltes darf bei
+
+1. Erzeugnissen, die zur Herstellung von Landwein geeignet und bestimmt sind, nicht mit konzentriertem Traubenmost oder
+
+2. den in Absatz 2 genannten Erzeugnissen nicht mit konzentriertem Traubenmost oder durch Konzentrierung durch Kälte
+
+vorgenommen werden.
+
+(3a) Vor der nach Anhang VIII Teil I Abschnitt A Nummer 3 der Verordnung (EU) Nr. 1308/2013 in Jahren mit außergewöhnlich ungünstigen Witterungsverhältnissen zulässigen Entscheidung über die Erhöhung der Grenzwerte für die Erhöhung des natürlichen Alkoholgehalts (erhöhte Anreicherung) um bis zu 0,5 Volumenprozentpunkte übersendet die für die betroffene Region oder im Falle mehrerer Länder die für den größeren Teil der betroffenen Region zuständige Landesstelle der Bundesanstalt für Landwirtschaft und Ernährung einen Antrag auf erhöhte Anreicherung mit den nach Anlage 1 erforderlichen Grundsätzen. Die Bundesanstalt für Landwirtschaft und Ernährung unterrichtet die Europäische Kommission nach Abstimmung mit dem Bundesministerium für Ernährung und Landwirtschaft vor einer positiven Entscheidung über den Antrag auf erhöhte Anreicherung. Spätestens eine Woche nach der Unterrichtung nach Satz 2 wird die getroffene Entscheidung im Bundesanzeiger veröffentlicht.
+
+(4) Die Anreicherung der Cuvée am Herstellungsort der Schaumweine wird nach Maßgabe des Anhangs II Abschnitt A Nummer 4 der Delegierten Verordnung (EU) 2019/934 zugelassen.
+
+# § 15 – Erhöhung des natürlichen Alkoholgehaltes(zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)
+
+(1) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost und Jungwein, soweit diese Erzeugnisse aus nach § 8 des Weingesetzes klassifizierten Rebsorten hergestellt worden sind, sowie Wein darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, der Gesamtalkoholgehalt bei Rotwein 12 Volumenprozent in der Weinbauzone A und 12,5 Volumenprozent in der Weinbauzone B nicht übersteigen.
+
+(2) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein, soweit diese Erzeugnisse zur Erzeugung von Qualitätswein geeignet sind, darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, bei Qualitätswein der Gesamtalkoholgehalt 15 Volumenprozent nicht übersteigen.
+
+(2a) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein darf, soweit diese Erzeugnisse zur Erzeugung von Wein geschützter geografischer Angabe geeignet sind, nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, bei Wein mit geschützter geografischer Angabe der Gesamtalkoholgehalt bei Weißwein 12,5 Volumenprozent in der Weinbauzone A und 13 Volumenprozent in der Weinbauzone B sowie bei Rotwein 13 Volumenprozent in der Weinbauzone A und 13,5 Volumenprozent in der Weinbauzone B nicht übersteigen.
 
 (3) Die Erhöhung des natürlichen Alkoholgehaltes darf bei
 
@@ -628,6 +1092,8 @@ vorgenommen werden.
 # § 17 – Umrechnung von Oechslegraden in Volumenprozent Alkohol(zu § 15 Nummer 7 des Weingesetzes)
 
 Die Ermittlung des natürlichen Alkoholgehalts in Volumenprozent (%vol) aus den Oechslegraden (Grad Oe) erfolgt nach der in der Anlage 8 aufgeführten Tabelle. Für andere Umrechnungen ist die Tabelle nicht anzuwenden.
+
+# § 17 – (weggefallen)
 
 # § 18 – Weitere Verarbeitungsregeln(zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)
 
@@ -736,6 +1202,30 @@ Sofern für den betroffenen geschützten Weinnamen eine Organisation zur Verwalt
 (5) Die Bundesanstalt für Landwirtschaft und Ernährung entscheidet im Einzelfall, ob die sofortige Vollziehbarkeit der Bewilligung nach Absatz 4 Satz 3 anzuordnen ist.
 
 (6) Die Bundesanstalt für Landwirtschaft und Ernährung veröffentlicht den bewilligenden Bescheid in nicht personenbezogener Form zusammen mit der geänderten Produktspezifikation im Bundesanzeiger und auf der Homepage der Bundesanstalt für Landwirtschaft und Ernährung.
+
+(7) Ferner benachrichtigt die Bundesanstalt für Landwirtschaft und Ernährung die für die durchzuführenden Kontrollen zuständige Landesbehörde über die geänderte Produktspezifikation und leitet gemäß Artikel 18 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2019/33 die vorübergehende Änderung der Produktspezifikation zusammen mit der Begründung innerhalb eines Monats nach Veröffentlichung des Bewilligungsbescheides nach Absatz 6 an die Kommission weiter.
+
+# § 20a – Vorübergehende Änderung einer Produktspezifikation(zu § 22c Absatz 9 Satz 3 des Weingesetzes)
+
+(1) Anträge auf vorübergehende Änderung einer Produktspezifikation sind schriftlich oder elektronisch bei der Bundesanstalt für Landwirtschaft und Ernährung zu stellen.
+
+(2) Anträge nach Absatz 1 müssen folgende Informationen enthalten:
+
+1. den Zeitraum, für den die vorübergehende Änderung gelten soll,
+
+2. eine Bescheinigung der für den Weinbau zuständigen obersten Landesbehörde des Landes oder der Länder, in dessen oder in deren örtlicher Zuständigkeit die betroffenen Rebflächen belegen sind, über die Anerkennung der besonderen Umstände und über die Anerkennung der vorübergehenden Änderung und
+
+3. eine Begründung der vorübergehenden Änderung.
+
+Sofern für den betroffenen geschützten Weinnamen eine Organisation zur Verwaltung herkunftsgeschützter Weinnamen nach § 22g Absatz 1 des Weingesetzes anerkannt und der Antrag nicht von dieser gestellt worden ist, ist zusätzlich zu den Informationen nach Satz 1 eine begründete Stellungnahme dieser Organisation beizufügen.
+
+(3) Für den Antrag nach Absatz 1 veröffentlicht die Bundesanstalt für Landwirtschaft und Ernährung im Bundesanzeiger ein zu verwendendes Muster.
+
+(4) Sind die vorgelegten Unterlagen vollständig, erfolgt unter Berücksichtigung der Bescheinigung nach Absatz 2 Satz 1 Nummer 2 und der Begründung nach Absatz 2 Satz 1 Nummer 3 eine Prüfung hinsichtlich des Vorliegens der erforderlichen Voraussetzungen für eine vorübergehende Änderung der Produktspezifikation nach Artikel 14 Absatz 2 der Delegierten Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf Anträge auf Schutz von Ursprungsbezeichnungen, geografischen Angaben und traditionellen Begriffen im Weinsektor, das Einspruchsverfahren, Einschränkungen der Verwendung, Änderungen der Produktspezifikationen, die Löschung des Schutzes sowie die Kennzeichnung und Aufmachung (ABl. L 9 vom 11.1.2019, S. 2; L 269 vom 23.10.2019, S. 13) in der jeweils geltenden Fassung. Die Bundesanstalt für Landwirtschaft und Ernährung entscheidet im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft über den Antrag. Liegen die Voraussetzungen für eine vorübergehende Änderung der Produktspezifikation vor, wird der Antrag bewilligt. Liegen die Voraussetzungen für eine vorübergehende Änderung nicht vor, wird der Antrag abgelehnt.
+
+(5) Die Bundesanstalt für Landwirtschaft und Ernährung entscheidet im Einzelfall, ob die sofortige Vollziehbarkeit der Bewilligung nach Absatz 4 Satz 3 anzuordnen ist.
+
+(6) Die Bundesanstalt für Landwirtschaft und Ernährung hat die geänderte Produktspezifikation auf ihrer Homepage und den bewilligenden Bescheid in nicht personenbezogener Form im Bundesanzeiger und auf ihrer Homepage zu veröffentlichen.
 
 (7) Ferner benachrichtigt die Bundesanstalt für Landwirtschaft und Ernährung die für die durchzuführenden Kontrollen zuständige Landesbehörde über die geänderte Produktspezifikation und leitet gemäß Artikel 18 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2019/33 die vorübergehende Änderung der Produktspezifikation zusammen mit der Begründung innerhalb eines Monats nach Veröffentlichung des Bewilligungsbescheides nach Absatz 6 an die Kommission weiter.
 
@@ -923,6 +1413,40 @@ erhalten haben. Anstelle einer Bewertung nach Anlage 9 Abschnitt II kann ein an 
 
 (6) Die Landesregierung unterrichtet das Bundesministerium für Ernährung und Landwirtschaft über eine Anerkennung einer Auszeichnung oder eines Gütezeichens. Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht zu Beginn eines Weinwirtschaftsjahres ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen anerkannten Auszeichnungen und Gütezeichen im Bundesanzeiger.
 
+# § 30 – Auszeichnungen und ähnliche Angaben(zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
+
+(1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene Auszeichnung oder ein Gütezeichen darf in der Kennzeichnung inländischer Erzeugnisse nur nach Maßgabe der folgenden Bestimmungen angegeben werden.
+
+(2) Es muss sich
+
+1. um
+
+a) eine Auszeichnung der Deutschen Landwirtschaftsgesellschaft e. V. oder
+
+b) eine von einer Landesregierung anerkannte Auszeichnung,
+
+2. um folgende Gütezeichen:
+
+a) „Deutsches Weinsiegel“ der Deutschen Landwirtschaftsgesellschaft e. V. oder
+
+b) ein von der Landesregierung anerkanntes Gütezeichen
+
+handeln. Im Falle des Satzes 1
+
+1. Nummer 1 muss der Wein bei einer im Rahmen des Wettbewerbs in entsprechender Anwendung der Anlage 9 Abschnitt II durchgeführten Sinnenprüfung mindestens die Qualitätszahl 3,50 und
+
+2. Nummer 2 muss der Wein bei einer in entsprechender Anwendung der Anlage 9 Abschnitt II durchgeführten Sinnenprüfung mindestens die Qualitätszahl 2,50
+
+erhalten haben. Anstelle einer Bewertung nach Anlage 9 Abschnitt II kann ein an internationalen Normen für Weinwettbewerbe orientiertes Bewertungsschema angewendet werden.
+
+(3) Eine Auszeichnung oder ein Gütezeichen darf nur für Wein einer homogenen Partie vergeben werden, der aus demselben Behältnis stammt. Nach der Abfüllung müssen die Behältnisse entsprechend den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, des Weingesetzes und der auf Grund des Weingesetzes erlassenen Rechtsverordnungen gekennzeichnet sein und mit einem nicht wiederverwendbaren Verschluss versehen sein.
+
+(4) (weggefallen)
+
+(5) Eine Anerkennung nach Absatz 2 Satz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe b setzt voraus, dass ein Wein bei dem Wettbewerb unter objektiven, nicht diskriminierenden Bedingungen im Vergleich mit anderen Weinen, die der gleichen Kategorie angehören und unter vergleichbaren Produktionsbedingungen hergestellt worden sind, unter Anwendung des Bewertungsschemas nach Anlage 9 Abschnitt II oder eines abweichenden Bewertungsschemas im Sinne des Absatzes 2 Satz 3 geprüft wird.
+
+(6) Die Landesregierung unterrichtet das Bundesministerium für Ernährung und Landwirtschaft über eine Anerkennung einer Auszeichnung oder eines Gütezeichens. Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht zu Beginn eines Weinwirtschaftsjahres ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen anerkannten Auszeichnungen und Gütezeichen auf seiner Homepage.
+
 # § 31 – Wein für religiöse Zwecke(zu § 24 Absatz 2 des Weingesetzes)
 
 Die Bezeichnungen "Abendmahlswein", "Messwein", "Koscherer Wein" oder "Koscherer Passahwein" dürfen nur im geschäftlichen Verkehr mit der jeweiligen Kirche oder Religionsgemeinschaft und nach deren besonderen Vorschriften gebraucht werden.
@@ -1072,6 +1596,68 @@ an Traubenmost nicht überschritten hat,
 3. der Abgrenzung oder Anmeldung besonderer Anbauflächen.
 
 (4) Bestehende Bezeichnungen, die die Begriffe „Erstes Gewächs“ oder „Großes Gewächs“ enthalten, dürfen weiterverwendet werden, wenn sie die in den Absätzen 1 bis 3 genannten Mindestanforderungen erfüllen.
+
+# § 32b – Erstes Gewächs und Großes Gewächs(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+
+(1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart Weißwein oder Rotwein handelt und
+
+1. eine einzige Rebsorte angegeben wird,
+
+2. er ausschließlich aus Weintrauben von zum Gebietsprofil passenden und in der jeweiligen Produktspezifikation festgelegten Rebsorten hergestellt worden ist, ausgenommen die zur Süßung verwendeten Erzeugnisse,
+
+3. die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren Ertrag
+
+a) 60 Hektoliter je Hektar oder
+
+b) 70 Hektoliter je Hektar, soweit die verwendeten Weintrauben von Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
+
+an Traubenmost nicht überschritten hat,
+
+4. die zur Herstellung verwendeten Weintrauben unter Berücksichtigung ihres Gesundheits- und Reifezustands selektiv gelesen worden sind,
+
+5. der zur Herstellung verwendete Traubenmost in den Anbaugebieten Mosel, Saale-Unstrut und Sachsen einen natürlichen Mindestalkoholgehalt von mindestens 10,5 Volumenprozent sowie in allen übrigen Anbaugebieten von mindestens 11,0 Volumenprozent aufweist,
+
+6. eine Einzellage oder eine kleinere geografische Einheit nach § 23 Absatz 1 Nummer 2 des Weingesetzes angegeben wird,
+
+7. der Jahrgang angegeben wird,
+
+8. er die nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union bei Wein geltenden Anforderungen für die Verwendung der Geschmacksangabe „trocken“ einhält,
+
+9. eine Geschmacksangabe nicht verwendet wird,
+
+10. er nicht vor dem 1. März des auf das Erntejahr der verwendeten Trauben folgenden Jahres an Endverbraucher abgegeben wird,
+
+11. eine Prädikatsangabe in der Kennzeichnung nicht verwendet wird.
+
+In der jeweiligen Produktspezifikation kann festgelegt werden, dass der Wein besondere gebiets- und rebsortentypische Merkmale aufweisen muss und einer nach Zeitpunkt, Bedingungen und Verfahren festgelegten gesonderten sensorischen Prüfung unterliegt.
+
+(2) Die Bezeichnung „Großes Gewächs“ darf nur verwendet werden, wenn es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart Weißwein oder Rotwein handelt und
+
+1. die Anforderungen nach Absatz 1 Nummer 1, 2, 5 bis 9 und 11 erfüllt sind,
+
+2. die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren Ertrag
+
+a) 50 Hektoliter je Hektar oder
+
+b) 60 Hektoliter je Hektar, soweit die verwendeten Weintrauben von Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
+
+an Traubenmost nicht überschritten hat,
+
+3. die zur Herstellung verwendeten Weintrauben von Hand gelesen worden sind,
+
+4. er zum Zeitpunkt einer in der jeweiligen Produktspezifikation festgelegten gesonderten Prüfung, die nicht später als sechs Monate nach Zuteilung einer amtlichen Prüfungsnummer erfolgen darf, die besonderen gebiets- und rebsortentypischen sensorischen Merkmale aufweist und
+
+5. er nicht vor dem 1. September des auf das Erntejahr der verwendeten Trauben folgenden Jahres an Endverbraucher abgegeben wird. Für Rotweine verlängert sich diese Frist um neun Monate.
+
+(3) In der jeweiligen Produktspezifikation können zusätzliche und strengere Anforderungen für die Verwendung der Bezeichnung „Erstes Gewächs“ und „Großes Gewächs“ festgelegt werden, soweit dies erforderlich ist, um regionalen Gegebenheiten Rechnung zu tragen, insbesondere hinsichtlich
+
+1. der erforderlichen natürlichen Mindestalkoholgehalte der verwendeten Traubenmoste,
+
+2. der maximalen Erträge je Hektar,
+
+3. der Abgrenzung oder Anmeldung besonderer Anbauflächen.
+
+(4) Bestehende Bezeichnungen, die die Begriffe „Erstes Gewächs“ oder „Großes Gewächs“ enthalten, dürfen weiterverwendet werden, wenn sie die in den Absätzen 1 bis 3 genannten Mindestanforderungen erfüllen. Soweit die nach Absatz 1 Nummer 2 und Absatz 2 Nummer 4 vorgesehenen Festlegungen in den Produktspezifikationen noch nicht getroffen sind, sind die entsprechenden verbandsinternen oder betrieblich festgelegten Anforderungen an die bestehenden Bezeichnungen weiter anzuwenden.
 
 # § 32c – Weitere Bestimmungen für Classic (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 Nummer 1 bis 3, dieser i.V.m. § 54 Absatz 1 des Weingesetzes)
 
@@ -1237,6 +1823,18 @@ Weinhaltige Getränke müssen als weinhaltiges Getränk bezeichnet werden. Abwei
 
 (3) Soweit nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, nach dem Weingesetz oder einer auf Grund des Weingesetzes erlassenen Rechtsverordnung Bezeichnungen oder sonstige Angaben für ausländische Erzeugnisse nur zulässig sind, wenn die Angabe durch eine Rechtsvorschrift des Herstellungslandes zugelassen ist, gilt diese Voraussetzung nur als erfüllt, wenn die Angabe auch für den Verkehr innerhalb des Herstellungslandes zulässig ist.
 
+# § 37 – Zugelassene und verbotene Angaben(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+
+(1) Die Worte Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese und Eiswein dürfen im geschäftlichen Verkehr allein oder in Verbindung mit anderen Worten für andere Erzeugnisse als Wein nicht gebraucht werden.
+
+(2) Für Qualitätsschaumwein und Sekt sowie Sekt b.A. darf das Wort "Cabinet" nur verwendet werden, wenn es in dieser Schreibweise deutlich getrennt von der Bezeichnung des Erzeugnisses in Verbindung mit dem Namen (Firma) des Herstellers oder desjenigen benutzt wird, der das Erzeugnis in den Verkehr bringt.
+
+(3) Soweit nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, nach dem Weingesetz oder einer auf Grund des Weingesetzes erlassenen Rechtsverordnung Bezeichnungen oder sonstige Angaben für ausländische Erzeugnisse nur zulässig sind, wenn die Angabe durch eine Rechtsvorschrift des Herstellungslandes zugelassen ist, gilt diese Voraussetzung nur als erfüllt, wenn die Angabe auch für den Verkehr innerhalb des Herstellungslandes zulässig ist.
+
+(4) Erzeugnisse, in deren Kennzeichnung und Aufmachung der Begriff „entalkoholisierter“ im Sinne des Artikels 119 Absatz 1 Buchstabe a Satz 1 Nummer i der Verordnung (EU) Nr. 1308/2013 zu verwenden ist, dürfen zusätzlich die Angabe „alkoholfrei“ in Kennzeichnung und Aufmachung tragen. Sobald der vorhandene Alkoholgehalt mindestens 0,05 Volumenprozent beträgt, ist die Angabe „alkoholfrei“ um die Angabe „(&lt; 0,5 % vol)“ zu ergänzen.
+
+(5) Erzeugnisse, in deren Kennzeichnung und Aufmachung der Begriff „teilweise entalkoholisierter“ im Sinne des Artikels 119 Absatz 1 Buchstabe a Satz 1 Nummer ii der Verordnung (EU) Nr. 1308/2013 zu verwenden ist, dürfen zusätzlich die Angabe „alkoholreduziert“ in Kennzeichnung und Aufmachung tragen.
+
 # § 38 – Angaben zum Betrieb und zur Abfüllung(zu § 24 Absatz 2 des Weingesetzes)
 
 (1) Eine Angabe zum Betrieb ist bei Federweißer, Landwein, Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur nach Maßgabe des Artikels 54 Absatz 1 in Verbindung mit Anhang VI der Delegierten Verordnung (EU) 2019/33 zulässig.
@@ -1313,6 +1911,32 @@ In den jeweiligen Produktspezifikationen können strengere und insbesondere hins
 
 (2) Bei inländischen weinhaltigen Getränken darf ein Hinweis auf die Herkunft der zu ihrer Herstellung verwendeten Erzeugnisse nicht verwendet werden.
 
+# § 39 – Geografische Angaben(zu § 24 Absatz 2 und 3 Nummer 4 und 5 in Verbindung mit § 54 Absatz 1 des Weingesetzes)
+
+(1) Wird zur Bezeichnung eines Qualitätsweines, Prädikatsweines, Sekts b.A., Qualitätslikörweines b.A. oder Qualitätsperlweines b.A. durch den nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 verantwortlichen Lebensmittelunternehmer beim Inverkehrbringen der Name
+
+1. eines Bereichs oder einer Großlage verwendet, ist diesem deutlich lesbar und unverwischbar in gleicher Farbe, Schriftart und Schriftgröße stets die Bezeichnung „Region“ unmittelbar voranzustellen,
+
+2. einer Gemeinde oder eines Ortsteils verwendet,
+
+a) muss der Traubenmost oder die Maische im gärfähig befüllten Behältnis mindestens den für das Prädikat Kabinett vorgeschriebenen natürlichen Mindestalkoholgehalt aufgewiesen haben und
+
+b) darf das Erzeugnis nicht vor dem 15. Dezember des Erntejahrgangs der verwendeten Trauben an Endverbraucher abgegeben werden,
+
+3. einer Einzellage oder einer kleineren geografischen Einheit nach § 23 Absatz 1 Nummer 2 des Weingesetzes verwendet,
+
+a) ist diesem deutlich lesbar und unverwischbar in gleicher Farbe und in einer Schriftgröße, bei der die Buchstaben unabhängig von der verwendeten Schriftart mindestens 1,2 Millimeter groß sind, stets der Gemeinde- oder Ortsteilname unmittelbar voranzustellen oder anzufügen,
+
+b) darf das Erzeugnis nicht vor dem 1. März des auf den Erntejahrgang der verwendeten Trauben folgenden Kalenderjahres an Endverbraucher abgegeben werden,
+
+c) darf das Erzeugnis mit Ausnahme der zur Süßung verwendeten Erzeugnisse nur aus einer in der jeweiligen Produktspezifikation dafür festgelegten Rebsorte oder mehreren solcher Rebsorten hergestellt worden sein,
+
+d) muss der Traubenmost oder die Maische im gärfähig befüllten Behältnis mindestens den für das Prädikat Kabinett vorgeschriebenen natürlichen Mindestalkoholgehalt aufgewiesen haben.
+
+In den jeweiligen Produktspezifikationen können strengere und insbesondere hinsichtlich des Hektarertrages weitere Anforderungen als die in Satz 1 vorgesehenen festgelegt werden.
+
+(2) (weggefallen)
+
 # § 39a – Geografische Bezeichnungen mit EU-Schutz (zu § 22c Absatz 8 Nummer 3, den §§ 22d und 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
 
 (1) Für einen Wein oder eine Gesamtheit von Weinen kann ein Antrag auf den Schutz einer Ursprungsbezeichnung oder einer geografischen Angabe nur gestellt werden, wenn der Wein oder die Gesamtheit der Weine die Anforderungen nach den Absätzen 2 und 3 erfüllt.
@@ -1358,6 +1982,52 @@ verwendet werden.
 (1) Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Rebsorte nach Maßgabe des Artikels 50 Absatz 1 Buchstabe a der Delegierten Verordnung (EU) 2019/33 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten stammen.
 
 (2) Bei einem Wein, ausgenommen Perlwein, Schaumwein und Qualitätsschaumwein, aus Erzeugnissen ab dem Erntejahrgang 2011, der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 bezeichnet ist, ist die Angabe der Bezeichnung einer der folgenden Rebsorten unzulässig:
+
+1. Blauer Frühburgunder,
+
+2. Blauer Limberger,
+
+3. Blauer Portugieser,
+
+4. Blauer Silvaner,
+
+5. Blauer Spätburgunder,
+
+6. Blauer Trollinger,
+
+7. Dornfelder,
+
+8. Grauer Burgunder,
+
+9. Grüner Silvaner,
+
+10. Müller-Thurgau,
+
+11. Müllerrebe,
+
+12. Roter Elbling,
+
+13. Roter Gutedel,
+
+14. Roter Riesling,
+
+15. Roter Traminer,
+
+16. Weißer Burgunder,
+
+17. Weißer Elbling,
+
+18. Weißer Gutedel,
+
+19. Weißer Riesling.
+
+Dies gilt auch für Synonyme der unter den in Satz 1 Nummer 1 bis 19 aufgeführten Bezeichnungen von Rebsorten.
+
+# § 42 – Rebsortenangaben(zu § 24 Absatz 2 des Weingesetzes)
+
+(1) Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Rebsorte nach Maßgabe des Artikels 50 Absatz 1 Buchstabe a der Delegierten Verordnung (EU) 2019/33 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten stammen.
+
+(2) Bei einem Wein, ausgenommen Perlwein, Schaumwein, Qualitätsschaumwein sowie entalkoholisierter und teilweise entalkoholisierter Wein, aus Erzeugnissen ab dem Erntejahrgang 2011, der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 bezeichnet ist, ist die Angabe der Bezeichnung einer der folgenden Rebsorten unzulässig:
 
 1. Blauer Frühburgunder,
 
@@ -1525,6 +2195,32 @@ Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett an
 
 (5) Die in den Absätzen 1 bis 4 genannten Getränke dürfen nur in den Verkehr gebracht werden, wenn bei ihrer Herstellung Wasser und, soweit sie gesüßt worden sind, zur Süßung ein anderer Stoff als Saccharose oder andere Erzeugnisse als Traubenmost oder rektifiziertes Traubenmostkonzentrat nicht zugesetzt worden sind.
 
+# § 47 – Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein(zu § 26 Absatz 3 Satz 1 des Weingesetzes)
+
+(1) Schäumende Getränke, die unter Zusatz von Kohlensäure aus entalkoholisiertem Wein hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr gebracht werden, wenn sie
+
+1. weniger als 0,5 Volumenprozent Alkohol enthalten und
+
+2. als „Schäumendes Getränk aus entalkoholisiertem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
+
+Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe „Schäumendes Getränk aus entalkoholisiertem Wein“ in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
+
+(2) Schäumende Getränke, die durch Vergärung oder unter Zusatz von Kohlensäure aus teilweise entalkoholisiertem Wein oder dem Vermischen aus entalkoholisiertem oder teilweise entalkoholisiertem Wein und Wein hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr gebracht werden, wenn sie
+
+1. mehr als 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol enthalten und
+
+2. als „Schäumendes Getränk aus alkoholreduziertem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
+
+Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe „Schäumendes Getränk aus alkoholreduziertem Wein“ in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
+
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 und des Absatzes 2 Satz 1 Nummer 2 darf der Name einer einzigen Rebsorte angegeben werden, wenn mindestens 85 Prozent des Erzeugnisses aus dieser Rebsorte hergestellt worden sind.
+
+(4) Die in den Absätzen 1 und 2 genannten Getränke dürfen nur in den Verkehr gebracht werden, wenn bei ihrer Herstellung
+
+1. kein Wasser zugesetzt worden ist und
+
+2. zur Süßung, sofern sie gesüßt worden sind, ausschließlich Saccharose Traubenmost oder rektifiziertes Traubenmostkonzentrat zugesetzt worden sind.
+
 # § 48 – (weggefallen)
 
 \-
@@ -1584,6 +2280,46 @@ c) zur sofortigen Verwendung in einem in Betrieb befindlichen Zubereitungs- oder
 4a. (weggefallen)
 
 5. entgegen § 12 einen Stoff zusetzt,
+
+6. (weggefallen)
+
+7. entgegen § 15 Absatz 3 den natürlichen Alkoholgehalt erhöht,
+
+8. entgegen § 16 Absatz 2 oder § 18 Absatz 9 Satz 3 ein Erzeugnis süßt,
+
+9. entgegen § 18 Absatz 1 oder 9 Satz 1 oder 2 ein Erzeugnis verschneidet,
+
+10. entgegen § 18 Absatz 2 ein Erzeugnis verwendet oder verschneidet,
+
+11. entgegen § 18 Absatz 3 Satz 1 ein anderes Erzeugnis, ein anderes Lebensmittel oder einen anderen Stoff zusetzt,
+
+12. entgegen § 18 Absatz 3 Satz 2 Wasser zusetzt oder
+
+13. entgegen § 18 Absatz 6 Alkohol oder Zucker zusetzt.
+
+(2) Nach § 49 Nummer 3 des Weingesetzes wird bestraft, wer
+
+1. entgegen § 18 Absatz 4 mit der Herstellung beginnt oder
+
+2. entgegen § 47 Absatz 1 Nummer 3 Satz 2, Absatz 2 Nummer 3 Satz 2, Absatz 3 Nummer 2 Satz 2 oder Absatz 4 Nummer 2 Satz 2 eine Angabe nicht, nicht richtig oder nicht in der vorgeschriebenen Weise macht.
+
+# § 52 – Straftaten
+
+(1) Nach § 48 Absatz 1 Nummer 2, Absatz 2, 3 des Weingesetzes wird bestraft, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 11 Absatz 1 ein anderes Behandlungsverfahren anwendet oder einen anderen Stoff zusetzt,
+
+2. entgegen § 11 Absatz 2 ein Erzeugnis säuert, anreichert oder entsäuert,
+
+2a. entgegen § 11 Absatz 3 eine Cuveé entsäuert oder säuert,
+
+3. entgegen § 11 Absatz 8 Satz 1 ein Behandlungsverfahren anwendet, durch das ein Stoff zugesetzt wird,
+
+4. entgegen § 11 Absatz 8 Satz 2 Ionenaustauscher oder ultraviolette oder energiereiche Strahlen anwendet,
+
+4a. (weggefallen)
+
+5. (weggefallen)
 
 6. (weggefallen)
 
@@ -1724,6 +2460,70 @@ werden.
 (18) Abweichend von § 32 Absatz 3 dürfen Erzeugnisse aus Trauben einschließlich des Erntejahrgangs 2020 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 (19) Abweichend von § 32b dürfen Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2023 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+# § 54 – Übergangsregelungen
+
+(1) Abweichend von § 33 Absatz 1 dürfen Qualitätsweine der bestimmten Anbaugebiete Nahe, Pfalz, Rheingau und Rheinhessen als Liebfrauenmilch (Liebfraumilch) bezeichnet werden, wenn sie überwiegend aus Trauben der Rebsorten Riesling, Silvaner, Müller-Thurgau oder Kerner hergestellt sind, die bis zum 31. August 1990 geerntet worden sind, und die Weine im Übrigen den Anforderungen des § 33 Absatz 1 entsprechen.
+
+(2) Abweichend von § 50 dürfen die dort genannten Erzeugnisse, die vor dem 31. Januar 1993
+
+1. in den Verkehr gebracht worden sind, weiter ohne die Angabe nach § 50 Absatz 1,
+
+2. etikettiert worden sind, ohne die Angabe nach § 50 Absatz 1
+
+in den Verkehr gebracht werden.
+
+(3) Soweit in Rechtsakten der Europäischen Gemeinschaft nichts anderes bestimmt ist, dürfen
+
+1. Erzeugnisse, die vor dem 1. September 1995 nach den bis dahin geltenden Vorschriften bezeichnet und aufgemacht worden sind, bis zur Erschöpfung der Bestände in den Verkehr gebracht oder ausgeführt werden,
+
+2. Etiketten, die vor dem 1. September 1995 nach den bis dahin geltenden Vorschriften gedruckt worden sind und deren Verwendung nach den Vorschriften dieser Verordnung nicht mehr zulässig ist, bis zum 31. August 1996 verwendet werden.
+
+(4) Soweit in Rechtsakten der Europäischen Gemeinschaft nichts anderes bestimmt ist, dürfen
+
+1. Erzeugnisse, die vor dem 24. Juli 1996 nach den bis dahin geltenden Vorschriften bezeichnet und aufgemacht worden sind, bis zur Erschöpfung der Bestände in den Verkehr gebracht oder ausgeführt werden,
+
+2. Etiketten, die vor dem 24. Juli 1996 nach den bis dahin geltenden Vorschriften gedruckt worden sind und deren Verwendung nach den Vorschriften dieser Verordnung nicht mehr zulässig ist, bis zum 24. Juli 1997 verwendet werden.
+
+(5) Erzeugnisse, die vor dem 25. November 2005 abgefüllt und gekennzeichnet worden sind und hinsichtlich ihrer Kennzeichnung den Vorschriften dieser Verordnung in der ab dem 10. Dezember 2005 geltenden Fassung nicht entsprechen, dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(6) Einem Wein, der vor dem 7. Dezember 2006 unter Verwendung von Eichenholzstücken im Sinne des Anhanges IV Nummer 4 Buchstabe e der Verordnung (EG) Nummer 1493/1999 behandelt worden ist, darf abweichend von § 21 Absatz 3 eine amtliche Prüfungsnummer für einen Prädikatswein zugeteilt werden.
+
+(7) Bei inländischem Qualitätswein und Prädikatswein, der aus Trauben der Ernte 2007 oder früherer Ernten hergestellt ist, darf die Angabe „im Barrique gereift“ nach Maßgabe der bis zum 12. Oktober 2007 geltenden Vorschriften verwendet werden.
+
+(8) Erzeugnisse, die vor dem 13. Oktober 2007 nach den bis dahin geltenden Vorschriften gekennzeichnet worden sind, dürfen bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(9) Bis zum Ablauf des 14. August 2008 dürfen aromatisierte weinhaltige Getränke, aromatisierte weinhaltige Cocktails und aromatisierter Wein nach den bis zum 14. Februar 2008 geltenden Vorschriften gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
+
+(10) Erzeugnisse dürfen vorbehaltlich des Satzes 2 noch bis zum 31. Mai 2009 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden. Erzeugnisse, die unter Verwendung von in Anlage 12 Nummer 13 und 14 genannten Zutaten hergestellt worden sind, dürfen noch bis zum 23. Dezember 2008 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(11) Abweichend von Absatz 10 Satz 1 dürfen die in Artikel 51 der Verordnung (EG) Nr. 607/2009 genannten Erzeugnisse über den 31. Mai 2009 hinaus bis zum 31. Dezember 2010 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(12) Erzeugnisse dürfen bis zum 31. Dezember 2010 noch nach den bis zum 25. Juni 2010 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(13) § 10 Absatz 1 in der sich aus der Neunten Verordnung zur Änderung weinrechtlicher Vorschriften vom 19. Juli 2011 (BGBl. I S. 1514) ergebenden Fassung ist auf Antrag eines Weintrauben, Traubenmost oder teilweise gegorenen Traubenmost übernehmenden Betriebes auch für Erzeugnisse des Erntejahrgangs 2010 zugrunde zu legen, soweit sich aus der Anwendung der Umrechnungsfaktoren beim abgebenden Weinbaubetrieb keine Überschreitung des Hektarertrages im Sinne des § 9 des Weingesetzes für das Erntejahr 2010 ergibt.
+
+(14) § 38 Absatz 1a ist erst ab dem 1. Januar 2015 anzuwenden; bis zu diesem Zeitpunkt abgefüllte Erzeugnisse und Getränke dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(15) Abweichend von § 34b Absatz 1, § 47 Absatz 1 Satz 1 Nummer 3, § 47 Absatz 2 Satz 1 Nummer 3, § 47 Absatz 3 Satz 1 Nummer 2 und § 47 Absatz 4 Satz 1 Nummer 2 dürfen Erzeugnisse
+
+1. noch bis zum 31. Juli 2016 nach den bis zum Ablauf des 11. Januar 2016 geltenden Vorschriften gekennzeichnet und
+
+2. bis zum Aufbrauchen der Bestände in den Verkehr gebracht
+
+werden.
+
+(16) Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2025 dürfen nach der bis zum Ablauf des 7. Mai 2021 geltenden Fassung des § 39 gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(17) Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2025 dürfen nach der bis zum 7. Mai 2021 geltenden Fassung des § 42 Absatz 2 gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden. Abweichend von § 42 Absatz 2 dürfen Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2020 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(18) Abweichend von § 32 Absatz 3 dürfen Erzeugnisse aus Trauben einschließlich des Erntejahrgangs 2020 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(19) Abweichend von § 32b dürfen Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2023 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(20) Getränke aus Trauben bis einschließlich des Erntejahrgangs 2022, dürfen noch bis 31. Dezember 2022 nach den bis zum Ablauf des 28. Oktober 2022 geltenden Vorschriften hergestellt und gekennzeichnet werden.
+
+(21) Getränke aus Trauben bis einschließlich des Erntejahrgangs 2022, die nach den bis zum Ablauf des 28. Oktober 2022 geltenden Vorschriften zulässig gekennzeichnet wurden, dürfen bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 # Anlage 1 – Grundsätze zur Anerkennung von Witterungsverhältnissen als für den Weinanbau außergewöhnlich ungünstige Witterungsverhältnisse(zu § 15 Absatz 3a Weinverordnung)
 
@@ -1883,6 +2683,8 @@ enthalten sind. Die Untersuchungslösung wird in der Weise hergestellt, dass etw
 V. Reinheitsanforderungen für Saccharose
 
 Saccharose darf zur Alkoholerhöhung nur verwendet werden, wenn sie technisch rein und nicht färbend ist; sie muss in der Trockensubstanz mindestens 99,5 vom Hundert vergärbaren Zucker enthalten.
+
+# Anlage 5 – (weggefallen)
 
 # Anlage 6 – (weggefallen)
 
@@ -2952,6 +3754,8 @@ Alkohol</th><th style="text-align: center;">°Oe</th><th style="text-align: cent
 Alkohol</th><th style="text-align: center;">°Oe</th><th style="text-align: center;">%vol<br />
 Alkohol</th><th style="text-align: center;">°Oe</th><th style="text-align: center;">%vol<br />
 Alkohol</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">40</td><td style="text-align: center;">4,4</td><td style="text-align: center;">59</td><td style="text-align: center;"> 7,3</td><td style="text-align: center;">78</td><td style="text-align: center;">10,3</td><td style="text-align: center;"> 97</td><td style="text-align: center;">13,3</td><td style="text-align: center;">116</td><td style="text-align: center;">16,3</td><td style="text-align: center;">135</td><td style="text-align: center;">19,2</td></tr><tr class="even"><td style="text-align: center;">41</td><td style="text-align: center;">4,5</td><td style="text-align: center;">60</td><td style="text-align: center;"> 7,5</td><td style="text-align: center;">79</td><td style="text-align: center;">10,5</td><td style="text-align: center;"> 98</td><td style="text-align: center;">13,4</td><td style="text-align: center;">117</td><td style="text-align: center;">16,4</td><td style="text-align: center;">136</td><td style="text-align: center;">19,4</td></tr><tr class="odd"><td style="text-align: center;">42</td><td style="text-align: center;">4,7</td><td style="text-align: center;">61</td><td style="text-align: center;"> 7,7</td><td style="text-align: center;">80</td><td style="text-align: center;">10,6</td><td style="text-align: center;"> 99</td><td style="text-align: center;">13,6</td><td style="text-align: center;">118</td><td style="text-align: center;">16,6</td><td style="text-align: center;">137</td><td style="text-align: center;">19,5</td></tr><tr class="even"><td style="text-align: center;">43</td><td style="text-align: center;">4,8</td><td style="text-align: center;">62</td><td style="text-align: center;"> 7,8</td><td style="text-align: center;">81</td><td style="text-align: center;">10,8</td><td style="text-align: center;">100</td><td style="text-align: center;">13,8</td><td style="text-align: center;">119</td><td style="text-align: center;">16,7</td><td style="text-align: center;">138</td><td style="text-align: center;">19,7</td></tr><tr class="odd"><td style="text-align: center;">44</td><td style="text-align: center;">5,0</td><td style="text-align: center;">63</td><td style="text-align: center;"> 8,0</td><td style="text-align: center;">82</td><td style="text-align: center;">10,9</td><td style="text-align: center;">101</td><td style="text-align: center;">13,9</td><td style="text-align: center;">120</td><td style="text-align: center;">16,9</td><td style="text-align: center;">139</td><td style="text-align: center;">19,8</td></tr><tr class="even"><td style="text-align: center;">45</td><td style="text-align: center;">5,2</td><td style="text-align: center;">64</td><td style="text-align: center;"> 8,1</td><td style="text-align: center;">83</td><td style="text-align: center;">11,1</td><td style="text-align: center;">102</td><td style="text-align: center;">14,1</td><td style="text-align: center;">121</td><td style="text-align: center;">17,0</td><td style="text-align: center;">140</td><td style="text-align: center;">20,0</td></tr><tr class="odd"><td style="text-align: center;">46</td><td style="text-align: center;">5,3</td><td style="text-align: center;">65</td><td style="text-align: center;"> 8,3</td><td style="text-align: center;">84</td><td style="text-align: center;">11,3</td><td style="text-align: center;">103</td><td style="text-align: center;">14,2</td><td style="text-align: center;">122</td><td style="text-align: center;">17,2</td><td style="text-align: center;">141</td><td style="text-align: center;">20,2</td></tr><tr class="even"><td style="text-align: center;">47</td><td style="text-align: center;">5,5</td><td style="text-align: center;">66</td><td style="text-align: center;"> 8,4</td><td style="text-align: center;">85</td><td style="text-align: center;">11,4</td><td style="text-align: center;">104</td><td style="text-align: center;">14,4</td><td style="text-align: center;">123</td><td style="text-align: center;">17,3</td><td style="text-align: center;">142</td><td style="text-align: center;">20,3</td></tr><tr class="odd"><td style="text-align: center;">48</td><td style="text-align: center;">5,6</td><td style="text-align: center;">67</td><td style="text-align: center;"> 8,6</td><td style="text-align: center;">86</td><td style="text-align: center;">11,6</td><td style="text-align: center;">105</td><td style="text-align: center;">14,5</td><td style="text-align: center;">124</td><td style="text-align: center;">17,5</td><td style="text-align: center;">143</td><td style="text-align: center;">20,5</td></tr><tr class="even"><td style="text-align: center;">49</td><td style="text-align: center;">5,8</td><td style="text-align: center;">68</td><td style="text-align: center;"> 8,8</td><td style="text-align: center;">87</td><td style="text-align: center;">11,7</td><td style="text-align: center;">106</td><td style="text-align: center;">14,7</td><td style="text-align: center;">125</td><td style="text-align: center;">17,7</td><td style="text-align: center;">144</td><td style="text-align: center;">20,6</td></tr><tr class="odd"><td style="text-align: center;">50</td><td style="text-align: center;">5,9</td><td style="text-align: center;">69</td><td style="text-align: center;"> 8,9</td><td style="text-align: center;">88</td><td style="text-align: center;">11,9</td><td style="text-align: center;">107</td><td style="text-align: center;">14,8</td><td style="text-align: center;">126</td><td style="text-align: center;">17,8</td><td style="text-align: center;">145</td><td style="text-align: center;">20,8</td></tr><tr class="even"><td style="text-align: center;">51</td><td style="text-align: center;">6,1</td><td style="text-align: center;">70</td><td style="text-align: center;"> 9,1</td><td style="text-align: center;">89</td><td style="text-align: center;">12,0</td><td style="text-align: center;">108</td><td style="text-align: center;">15,0</td><td style="text-align: center;">127</td><td style="text-align: center;">18,0</td><td style="text-align: center;">146</td><td style="text-align: center;">20,9</td></tr><tr class="odd"><td style="text-align: center;">52</td><td style="text-align: center;">6,3</td><td style="text-align: center;">71</td><td style="text-align: center;"> 9,2</td><td style="text-align: center;">90</td><td style="text-align: center;">12,2</td><td style="text-align: center;">109</td><td style="text-align: center;">15,2</td><td style="text-align: center;">128</td><td style="text-align: center;">18,1</td><td style="text-align: center;">147</td><td style="text-align: center;">21,1</td></tr><tr class="even"><td style="text-align: center;">53</td><td style="text-align: center;">6,4</td><td style="text-align: center;">72</td><td style="text-align: center;"> 9,4</td><td style="text-align: center;">91</td><td style="text-align: center;">12,4</td><td style="text-align: center;">110</td><td style="text-align: center;">15,3</td><td style="text-align: center;">129</td><td style="text-align: center;">18,3</td><td style="text-align: center;">148</td><td style="text-align: center;">21,3</td></tr><tr class="odd"><td style="text-align: center;">54</td><td style="text-align: center;">6,6</td><td style="text-align: center;">73</td><td style="text-align: center;"> 9,5</td><td style="text-align: center;">92</td><td style="text-align: center;">12,5</td><td style="text-align: center;">111</td><td style="text-align: center;">15,5</td><td style="text-align: center;">130</td><td style="text-align: center;">18,4</td><td style="text-align: center;">149</td><td style="text-align: center;">21,4</td></tr><tr class="even"><td style="text-align: center;">55</td><td style="text-align: center;">6,7</td><td style="text-align: center;">74</td><td style="text-align: center;"> 9,7</td><td style="text-align: center;">93</td><td style="text-align: center;">12,7</td><td style="text-align: center;">112</td><td style="text-align: center;">15,6</td><td style="text-align: center;">131</td><td style="text-align: center;">18,6</td><td style="text-align: center;">150</td><td style="text-align: center;">21,5</td></tr><tr class="odd"><td style="text-align: center;">56</td><td style="text-align: center;">6,9</td><td style="text-align: center;">75</td><td style="text-align: center;"> 9,8</td><td style="text-align: center;">94</td><td style="text-align: center;">12,8</td><td style="text-align: center;">113</td><td style="text-align: center;">15,8</td><td style="text-align: center;">132</td><td style="text-align: center;">18,8</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">57</td><td style="text-align: center;">7,0</td><td style="text-align: center;">76</td><td style="text-align: center;">10,0</td><td style="text-align: center;">95</td><td style="text-align: center;">13,0</td><td style="text-align: center;">114</td><td style="text-align: center;">15,9</td><td style="text-align: center;">133</td><td style="text-align: center;">18,9</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">58</td><td style="text-align: center;">7,2</td><td style="text-align: center;">77</td><td style="text-align: center;">10,2</td><td style="text-align: center;">96</td><td style="text-align: center;">13,1</td><td style="text-align: center;">115</td><td style="text-align: center;">16,1</td><td style="text-align: center;">134</td><td style="text-align: center;">19,1</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr></tbody></table>
+
+# Anlage 8 – (weggefallen)
 
 # Anlage 9 – (zu § 22 Absatz 1 und § 24 Absatz 1)  Prüfungsantrag/Sinnenprüfung
 
