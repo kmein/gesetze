@@ -17,13 +17,17 @@ Die Strahlendosis im Sinne der Nummer 1 darf in mehreren Teildosen verabreicht w
 
 (3) Zu Kontroll- und Messzwecken ist die Bestrahlung sowie die Behandlung von Lebensmitteln mit Neutronen zugelassen. Dabei darf die Energie der Strahlung im Falle von Röntgenstrahlung 10 Megaelektronvolt, im Falle von Neutronenstrahlung 14 Megaelektronvolt und bei anderer Strahlung 5 Megaelektronvolt nicht überschreiten. Die absorbierte Dosis darf bei Neutronenstrahlung 0,01 Gray und bei anderer Strahlung 0,5 Gray nicht überschreiten.
 
-(4) Die Behandlung durch direkte Einwirkung mit ultravioletten Strahlen ist zugelassen zur Entkeimung
+(4) Die Behandlung durch direkte Einwirkung mit ultravioletten Strahlen (Behandlung mit UV-C-Strahlen) ist zugelassen zur Entkeimung
 
 1. von Trinkwasser,
 
 2. der Oberfläche von Obst- und Gemüseerzeugnissen,
 
-3. von Hartkäse bei der Lagerung.
+3. von Hartkäse bei der Lagerung,
+
+4. von Eiern im Sinne des Anhangs I Nr. 5.1. der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55; L 226 vom 25.6.2004, S. 22; L 46 vom 21.2.2008, S. 50; L 119 vom 13.5.2010, S. 26; L 160 vom 12.6.2013, S. 15; L 66 vom 11.3.2015, S. 22; L 13 vom 16.1.2019, S. 12), die zuletzt durch die Verordnung (EU) 2021/1756 (ABl. L 357 vom 8.10.2021, S. 27) geändert worden ist.
+
+Lebensmittelunternehmer, die eine Behandlung mit UV-C-Strahlen nach Satz 1 Nummer 4 durchführen, müssen dafür Sorge tragen, dass nur Eier ohne sichtbare Verschmutzung der Oberfläche einer solchen Behandlung unterzogen werden.
 
 (5) Die bei der Entkeimung von Luft durch ultraviolette Strahlen auftretende indirekte Einwirkung auf Lebensmittel ist zugelassen.
 
