@@ -23,7 +23,11 @@ e) der Streitkräftebasis,
 
 f) des Cyber- und Informationsraums,
 
-2. der Befehlshaberin oder dem Befehlshaber des Einsatzführungskommandos der Bundeswehr,
+2. der Befehlshaberin oder dem Befehlshaber
+
+a) des Einsatzführungskommandos der Bundeswehr,
+
+b) des Territorialen Führungskommandos der Bundeswehr,
 
 3. den Präsidentinnen oder Präsidenten
 

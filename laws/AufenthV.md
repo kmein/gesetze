@@ -2125,7 +2125,7 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 # § 62 – Dateisystemführungspflicht der Ausländerbehörden
 
-Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen "Ausländerdatei A" und "Ausländerdatei B".
+Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen "Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der Ausländerdatei A entfällt, sofern die Speicherung der Daten im Ausländerzentralregister erfolgt.
 
 # § 63 – Ausländerdatei A
 

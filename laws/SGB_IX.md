@@ -2031,6 +2031,10 @@ Hilfen für ein Masterstudium werden abweichend von Satz 1 Nummer 2 auch erbrach
 
 (5) In besonderen Wohnformen des § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften Buches werden Aufwendungen für Wohnraum oberhalb der Angemessenheitsgrenze nach § 42a Absatz 6 des Zwölften Buches übernommen, sofern dies wegen der besonderen Bedürfnisse des Menschen mit Behinderungen erforderlich ist. Kapitel 8 ist anzuwenden.
 
+(6) Bei einer stationären Krankenhausbehandlung nach § 39 des Fünften Buches werden auch Leistungen für die Begleitung und Befähigung des Leistungsberechtigten durch vertraute Bezugspersonen zur Sicherstellung der Durchführung der Behandlung erbracht, soweit dies aufgrund des Vertrauensverhältnisses des Leistungsberechtigten zur Bezugsperson und aufgrund der behinderungsbedingten besonderen Bedürfnisse erforderlich ist. Vertraute Bezugspersonen im Sinne von Satz 1 sind Personen, die dem Leistungsberechtigten gegenüber im Alltag bereits Leistungen der Eingliederungshilfe insbesondere im Rahmen eines Rechtsverhältnisses mit einem Leistungserbringer im Sinne des Kapitels 8 erbringen. Die Leistungen umfassen Leistungen zur Verständigung und zur Unterstützung im Umgang mit Belastungssituationen als nichtmedizinische Nebenleistungen zur stationären Krankenhausbehandlung. Bei den Leistungen im Sinne von Satz 1 findet § 91 Absatz 1 und 2 gegenüber Kostenträgern von Leistungen zur Krankenbehandlung mit Ausnahme der Träger der Unfallversicherung keine Anwendung. § 17 Absatz 2 und 2a des Ersten Buches bleibt unberührt.
+
+(7) Das Bundesministerium für Gesundheit und das Bundesministerium für Arbeit und Soziales evaluieren im Einvernehmen mit den Ländern die Wirkung einschließlich der finanziellen Auswirkungen der Regelungen in Absatz 6 und in § 44b des Fünften Buches. Die Ergebnisse sind bis zum 31. Dezember 2025 zu veröffentlichen. Die Einbeziehung Dritter in die Durchführung der Untersuchung erfolgt im Benehmen mit den zuständigen obersten Landesbehörden, soweit Auswirkungen auf das Sozialleistungssystem der Eingliederungshilfe untersucht werden.
+
 # § 114 – Leistungen zur Mobilität
 
 Bei den Leistungen zur Mobilität nach § 113 Absatz 2 Nummer 7 gilt § 83 mit der Maßgabe, dass
@@ -2203,9 +2207,11 @@ e) den Dienststellen der Bundesagentur für Arbeit.
 
 4. die Berücksichtigung des Wunsch- und Wahlrechts nach § 8 im Hinblick auf eine pauschale Geldleistung,
 
-5. die Erkenntnisse aus vorliegenden sozialmedizinischen Gutachten und
+5. die Erkenntnisse aus vorliegenden sozialmedizinischen Gutachten,
 
-6. das Ergebnis über die Beratung des Anteils des Regelsatzes nach § 27a Absatz 3 des Zwölften Buches, der den Leistungsberechtigten als Barmittel verbleibt.
+6. das Ergebnis über die Beratung des Anteils des Regelsatzes nach § 27a Absatz 3 des Zwölften Buches, der den Leistungsberechtigten als Barmittel verbleibt, und
+
+7. die Einschätzung, ob für den Fall einer stationären Krankenhausbehandlung die Begleitung und Befähigung des Leistungsberechtigten durch vertraute Bezugspersonen zur Sicherstellung der Durchführung der Behandlung erforderlich ist.
 
 (5) Der Träger der Eingliederungshilfe stellt der leistungsberechtigten Person den Gesamtplan zur Verfügung.
 

@@ -9,9 +9,7 @@ Arzneimittel,
 
 2. die Zubereitungen aus den in der Anlage 1 bestimmten Stoffen oder Zubereitungen aus Stoffen sind oder
 
-3. denen die unter Nummer 1 oder 2 genannten Stoffe und Zubereitungen aus Stoffen zugesetzt sind oder
-
-4. die in den Anwendungsbereich des § 48 Abs. 1 Satz 1 Nr. 2 des Arzneimittelgesetzes fallen,
+3. denen die unter Nummer 1 oder 2 genannten Stoffe und Zubereitungen aus Stoffen zugesetzt sind
 
 dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztlichen Verschreibung abgegeben werden (verschreibungspflichtige Arzneimittel), soweit in den nachfolgenden Vorschriften nichts anderes bestimmt ist.
 
@@ -21,7 +19,7 @@ dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztliche
 
 1. Name, Vorname, Berufsbezeichnung und Anschrift der Praxis oder der Klinik der verschreibenden ärztlichen, tierärztlichen oder zahnärztlichen Person (verschreibende Person) einschließlich einer Telefonnummer zur Kontaktaufnahme,
 
-2. Datum der Ausfertigung,
+2. Datum der Ausfertigung oder, bei Verschreibungen in elektronischer Form, das Datum der qualifizierten elektronischen Signatur,
 
 3. Name und Geburtsdatum der Person, für die das Arzneimittel bestimmt ist,
 
@@ -105,7 +103,7 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 (3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für Frauen im gebärfähigen Alter den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen.
 
-(4) Eine Verschreibung nach Absatz 1 Satz 1 ist bis zu sechs Tagen nach dem Tag ihrer Ausstellung gültig.
+(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung gültig. Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln in elektronischer Form sind bis zu sechs Tage nach dem Datum ihrer qualifizierten elektronischen Signatur gültig.
 
 (5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person entweder elektronisch zur Verfügung gestellt oder gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
 
@@ -125,7 +123,7 @@ Auf der Verschreibung in elektronischer Form sind die Erklärungen nach Satz 2 N
 
 (1) Die Höchstmenge der Verschreibungen von oral anzuwendenden Arzneimitteln, die die Wirkstoffe Acitretin, Alitretinoin oder Isotretinoin enthalten, darf für Frauen im gebärfähigen Alter je Verschreibung den Bedarf für 30 Tage nicht übersteigen.
 
-(2) Verschreibungen von Arzneimitteln nach Absatz 1 sind für Frauen im gebärfähigen Alter bis zu sechs Tagen nach dem Tag ihrer Ausstellung gültig.
+(2) Verschreibungen von in Absatz 1 genannten Arzneimitteln sind für Frauen im gebärfähigen Alter bis zu sechs Tage nach dem Datum ihrer Ausfertigung gültig. Verschreibungen von in Absatz 1 genannten Arzneimitteln in elektronischer Form sind für Frauen im gebärfähigen Alter bis zu sechs Tage nach dem Datum ihrer qualifizierten elektronischen Signatur gültig.
 
 # § 4
 
@@ -139,9 +137,7 @@ Auf der Verschreibung in elektronischer Form sind die Erklärungen nach Satz 2 N
 
 Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus den in der Anlage 1 zu dieser Verordnung genannten Stoffen und Zubereitungen aus Stoffen nach einer homöopathischen Verfahrenstechnik, insbesondere nach den Regeln des Homöopathischen Arzneibuches hergestellt sind oder die aus Mischungen solcher Stoffe oder Zubereitungen aus Stoffen bestehen, wenn die Endkonzentration dieser Arzneimittel im Fertigprodukt die vierte Dezimalpotenz nicht übersteigt. Diese Arzneimittel dürfen auch mit nicht verschreibungspflichtigen Stoffen und Zubereitungen aus Stoffen gemischt werden.
 
-# § 6
-
-Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des Arzneimittelgesetzes sind Arzneimittel ausgenommen, die weder ein in Anlage 2 aufgeführter Stoff, dessen Zubereitung oder Salz sind, noch einen solchen Stoff, eine solche Zubereitung oder ein solches Salz enthalten.
+# § 6 – (weggefallen)
 
 # § 7 – (weggefallen)
 
@@ -3094,97 +3090,3 @@ Ipratropiumbromid und seinen Estern
 Zubereitungen aus Stoffen in pasten-, salben-, gelartiger oder ähnlicher Beschaffenheit sowie Emulsionen und Lösungen zur Einführung in die Gebärmutter und im Rahmen der Veterinärmedizin zusätzlich in Scheide und Euter der Tiere  
   
 Zuclopenthixol und seine Ester
-
-# Anlage 2 – (zu § 6)Stoffe nach § 6
-
-Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe.
-
-1. Enilconazol
-
-Flunixin
-
-Meclofenaminsäure
-
-2. Folgende Stoffe, soweit sie in Arzneimitteln enthalten sind, die auch oder ausschließlich zur Infusion oder Injektion, ausgenommen zur subcutanen Injektion, bestimmt sind
-
-(2-Aminoethyl)dihydrogenphosphat
-
-Arginin
-
-Betacaroten
-
-Borsäure
-
-Bromhexin
-
-Butafosfan
-
-Calcium
-
-Casein-Hydrolysat
-
-Cocarboxylase
-
-Colecalciferol
-
-Cyanocobalamin
-
-Dexpanthenol
-
-Dimethicon
-
-Ethanol
-
-Fructose
-
-Glucose
-
-Histidin
-
-4,5-O-Hydroxyborandiyl-D-gluconsäure
-
-Isoleucin
-
-Kalium
-
-Leucin
-
-Lysinhydrochlorid
-
-Magnesium
-
-Menadion
-
-Methionin
-
-Natrium
-
-Natriumriboflavin-5'-hydrogenphosphat
-
-Nicotinamid
-
-Phenylalanin
-
-Procain
-
-Pyridoxin
-
-Retinolpalmitat
-
-Sorbitol
-
-Stoffe, die in der Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1) in der jeweils geltenden Fassung gelistet sind und für die in dieser Verordnung ausschließlich eine Verwendung in homöopathischen Tierarzneimitteln vorgesehen ist, die im Einklang mit homöopathischen Arzneibüchern zubereitet wurden, wobei auch die jeweils angegebene Höchstkonzentration eingehalten wird.
-
-Thiaminchloridhydrochlorid
-
-Threonin
-
-Tocopherolacetat
-
-Toldimfos-Natrium
-
-Tryptophan
-
-Valin
-
-Vetrabutin.
