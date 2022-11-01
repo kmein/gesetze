@@ -961,6 +961,22 @@ Ist ein Insolvenzgläubiger zur Zeit der Eröffnung des Insolvenzverfahrens kraf
 
 (1) Wenn es zur Herbeiführung wahrheitsgemäßer Aussagen erforderlich erscheint, ordnet das Insolvenzgericht an, daß der Schuldner zu Protokoll an Eides Statt versichert, er habe die von ihm verlangte Auskunft nach bestem Wissen und Gewissen richtig und vollständig erteilt. Die §§ 478 bis 480, 483 der Zivilprozeßordnung gelten entsprechend.
 
+(1a) Das Gericht kann an Stelle des Gerichtsvollziehers die Maßnahmen nach § 802l Absatz 1 Satz 1 der Zivilprozessordnung durchführen, wenn
+
+1. eine Aufforderung zur Auskunftserteilung nach § 97 Absatz 1 nicht zustellbar ist und
+
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor der Aufforderung zur Auskunftserteilung die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist;
+
+2. der Schuldner seiner Auskunftspflicht nach § 97 nicht nachkommt oder
+
+3. dies aus anderen Gründen zur Erreichung der Zwecke des Insolvenzverfahrens erforderlich erscheint.
+
+§ 802l Absatz 2 der Zivilprozessordnung ist entsprechend anzuwenden.
+
 (2) Das Gericht kann den Schuldner zwangsweise vorführen und nach Anhörung in Haft nehmen lassen,
 
 1. wenn der Schuldner eine Auskunft oder die eidesstattliche Versicherung oder die Mitwirkung bei der Erfüllung der Aufgaben des Insolvenzverwalters verweigert;

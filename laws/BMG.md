@@ -139,7 +139,7 @@ g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,
 
-17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes, übergangsweise die Seriennummer des Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes,
+17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 1 und 2 Nummer 4 des AZR-Gesetzes,
 
 18. Auskunfts- und Übermittlungssperren,
 
@@ -216,9 +216,11 @@ die Tatsache, dass ein Einwohner bereits vor der Erfassung seines Jahrganges erf
 
 # § 5 – Zweckbindung der Daten
 
-(1) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten nur für die dort genannten Zwecke verarbeiten. Sie haben durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur nach Maßgabe des Satzes 1 verarbeitet werden.
+(1) Die Meldebehörde darf die Daten, die nach § 3 Absatz 1 Nummer 17a gespeichert sind, nur noch im Verkehr mit der Registerbehörde für das Ausländerzentralregister nutzen, sobald sie von der Ausländerbehörde nach § 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
 
-(2) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit zusammen mit den in § 3 Absatz 1 bezeichneten Daten verarbeitet werden, als dies zur Erfüllung der jeweiligen Aufgabe erforderlich ist. § 34 Absatz 3 und 4 bleibt unberührt mit der Maßgabe, dass
+(2) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten nur für die dort genannten Zwecke verarbeiten. Sie haben durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur nach Maßgabe des Satzes 1 verarbeitet werden.
+
+(3) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit zusammen mit den in § 3 Absatz 1 bezeichneten Daten verarbeitet werden, als dies zur Erfüllung der jeweiligen Aufgabe erforderlich ist. § 34 Absatz 3 und 4 bleibt unberührt mit der Maßgabe, dass
 
 1. die in § 3 Absatz 2 Nummer 1 genannten Daten nur an die Stellen übermittelt werden dürfen, die für die Vorbereitung und Durchführung der dort genannten Wahlen und Abstimmungen zuständig sind, und
 
@@ -887,7 +889,7 @@ Sterbedatum,
 ff)  
 Sterbeort sowie bei Versterben im Ausland auch den Staat.
 
-Die AZR-Nummer darf in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes nur zum Zweck der eindeutigen Zuordnung als zusätzliches Auswahldatum verwendet werden. Für Familiennamen, frühere Namen und Vornamen sowie für Ordens- und Künstlernamen ist eine phonetische Suche zulässig.
+Die AZR-Nummer darf in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 1 und 2 Nummer 4 des AZR-Gesetzes nur zum Zweck der eindeutigen Zuordnung als zusätzliches Auswahldatum verwendet werden. Für Familiennamen, frühere Namen und Vornamen sowie für Ordens- und Künstlernamen ist eine phonetische Suche zulässig.
 
 (2) Für automatisierte Abrufe und für Ersuchen um Übermittlung von Daten mittels freier Suche sollen vorbehaltlich des Satzes 2 verwenden:
 

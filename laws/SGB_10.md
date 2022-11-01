@@ -1724,7 +1724,7 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 
 # § 64 – Kostenfreiheit
 
-(1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten die Träger der gesetzlichen Rentenversicherung für jede auf der Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von 10,20 Euro.
+(1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten die Träger der gesetzlichen Rentenversicherung für jede auf der Grundlage des § 74a Absatz 2 und 3 erteilte Auskunft eine Gebühr von 10,20 Euro.
 
 (2) Geschäfte und Verhandlungen, die aus Anlass der Beantragung, Erbringung oder der Erstattung einer Sozialleistung nötig werden, sind kostenfrei. Dies gilt auch für die im Gerichts- und Notarkostengesetz bestimmten Gerichtskosten. Von Beurkundungs- und Beglaubigungskosten sind befreit Urkunden, die
 
@@ -2021,6 +2021,22 @@ c) die Meldebehörde innerhalb von drei Monaten vor Erteilung des Vollstreckungs
 4. die Anschrift oder der derzeitige oder zukünftige Aufenthaltsort des Schuldners trotz Anfrage bei der Meldebehörde nicht bekannt ist.
 
 Der Gerichtsvollzieher hat in seinem Ersuchen zu bestätigen, dass diese Voraussetzungen vorliegen. Das Ersuchen und die Auskunft sind elektronisch zu übermitteln.
+
+(3) Ersucht ein Insolvenzgericht nach § 98 Absatz 1a der Insolvenzordnung die Träger der gesetzlichen Rentenversicherung um Übermittlung des Namens und der Vornamen oder der Firma sowie der Anschrift der derzeitigen Arbeitgeber der betroffenen Person, so dürfen die Träger der gesetzlichen Rentenversicherung diese Daten vorbehaltlich der Sätze 2 bis 4 im Einzelfall übermitteln, wenn versicherungspflichtige Beschäftigungsverhältnisse der betroffenen Person vorliegen. Eine Übermittlung nach Satz 1 ist nur dann zulässig, wenn
+
+1. eine Aufforderung zur Auskunftserteilung nach § 97 Absatz 1 der Insolvenzordnung nicht zustellbar ist und
+
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor der Aufforderung zur Auskunftserteilung die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist;
+
+2. der Schuldner seiner Auskunftspflicht nach § 97 der Insolvenzordnung nicht nachkommt oder
+
+3. dies aus anderen Gründen zur Erreichung der Zwecke des Insolvenzverfahrens erforderlich erscheint.
+
+Die Träger der gesetzlichen Rentenversicherung sind zur Übermittlung nicht verpflichtet, wenn sich das Insolvenzgericht die Angaben auf andere Weise beschaffen kann oder wenn Grund zu der Annahme besteht, dass durch die Übermittlung schutzwürdige Interessen der betroffenen Person beeinträchtigt werden; § 4 Absatz 3 bleibt unberührt. Das Insolvenzgericht hat in seinem Ersuchen zu bestätigen, dass die Voraussetzungen des Satzes 2 vorliegen. Das Ersuchen und die Auskunft sind elektronisch zu übermitteln.
 
 # § 75 – Übermittlung von Sozialdaten für die Forschung und Planung
 

@@ -333,7 +333,8 @@ Die Verwaltungsportale können zum Zweck der Weiterleitung der Meldedaten in ein
 
 # § 7 – Abruf einer beschränkten Selbstauskunft aus dem Melderegister
 
-(1) Die Verwaltungsportale können für die elektronische Erteilung einer Selbstauskunft aus dem Melderegister durch die zuständige Meldebehörde nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in Verbindung mit § 10 des Bundesmeldegesetzes beschränkt auf die zu der Person im Melderegister gespeicherten Daten auf Antrag der betroffenen Person bei der für die alleinigen Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
+(1) Die Verwaltungsportale können für die elektronische Erteilung einer Selbstauskunft aus dem Melderegister durch die zuständige Meldebehörde nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in Verbindung mit § 10 des Bundesmeldegesetzes beschränkt auf die zu der Person im Melderegister gespeicherten Daten auf Antrag der betroffenen Person bei der für die alleinigen Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:  
+  
 
  1.
 
@@ -607,7 +608,7 @@ Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und S
 
 17\.
 
-die AZR-Nummer und die Seriennummer des Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes
+die AZR-Nummer
 
 1712, 1712a,
 
@@ -665,35 +666,31 @@ die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 
 
 24\.
 
-die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen
-
-3991,
-
-25\.
-
-die Tatsache, dass eine waffenrechtliche Erlaubnis erteilt oder ein Waffenbesitzverbot erlassen worden ist, sowie die Behörde, die diese Tatsache mitteilt, mit Angabe des Datums, an dem die waffenrechtliche Erlaubnis oder das Waffenbesitzverbot erstmals erlassen worden ist
+die Tatsache, dass eine waffenrechtliche Erlaubnis erteilt oder ein Waffenbesitzverbot erlassen worden ist, sowie die Behörde, die diese Tatsache mitteilt, mit Angabe des Datums, an dem die waffenrechtliche Erlaubnis erstmals erteilt oder das Waffenbesitzverbot erlassen worden ist
 
 2601, 2602,  
 2603, 2604,
 
-26\.
+25\.
 
 die Tatsache, dass eine sprengstoffrechtliche Erlaubnis oder ein Befähigungsschein nach § 20 des Sprengstoffgesetzes erteilt worden ist, sowie die Behörde, die diese Tatsache mitteilt, mit Angabe des Datums der erstmaligen Erteilung
 
 2801, 2802,
 
-27\.
+26\.
 
 den Namen und die Anschrift des Eigentümers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, auch den Namen und die Anschrift des Wohnungsgebers
 
 3001, 3002,
 
-28\.
+27\.
 
 die Tatsache, dass ein Einwohner bereits vor der Wehrerfassung seines Jahrganges erfasst worden ist
 
 3101\.
 
+  
+  
 Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsportale die dort genannten Daten zum Abruf im automatisierten Verfahren bereit.
 
 (2) Die Meldebehörde der alleinigen Wohnung oder Hauptwohnung oder der Nebenwohnung übermittelt mit den Daten nach Absatz 1 Satz 2 die nach § 55 Absatz 1 des Bundesmeldegesetzes durch Landesrecht bestimmten zusätzlich gespeicherten Daten.
@@ -722,7 +719,8 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 # § 9 – Elektronische Anmeldung
 
-(1) Die Verwaltungsportale können für die elektronische Anmeldung auf Antrag der meldepflichtigen Person bei der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde nach § 23a Absatz 1 des Bundesmeldegesetzes die folgenden Daten abrufen:
+(1) Die Verwaltungsportale können für die elektronische Anmeldung auf Antrag der meldepflichtigen Person bei der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde nach § 23a Absatz 1 des Bundesmeldegesetzes die folgenden Daten abrufen:  
+  
 
  1.
 
@@ -920,7 +918,7 @@ derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschri
 
 zu minderjährigen Kindern:
 
- 
+0001,
 
  
 
@@ -977,7 +975,7 @@ Auskunfts- und Übermittlungssperren
 
 18\.
 
-AZR-Nummer, übergangsweise Seriennummer des Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes
+AZR-Nummer
 
 1712,
 
@@ -987,9 +985,12 @@ für die Ausstellung von Pässen und Ausweisen die Tatsache, dass Passversagungs
 
 2301, 2302.
 
+  
+  
 Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegesetzes hält die Meldebehörde die in Satz 1 genannten Daten einer Person für die Verwaltungsportale zum Abruf im automatisierten Verfahren bereit. Die Daten von Personen nach Absatz 1 Satz 1 Nummer 8, 14 und 15, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
 
-(2) Nachdem die meldepflichtige Person die Richtigkeit der von der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde übermittelten Daten nach Absatz 1 Satz 1 bestätigt hat, übermittelt das Verwaltungsportal nach § 23a Absatz 2 des Bundesmeldegesetzes diese Daten sowie zusätzlich die folgenden von der meldepflichtigen Person gegenüber dem Verwaltungsportal angegebenen Daten an die Zuzugsmeldebehörde:
+(2) Nachdem die meldepflichtige Person die Richtigkeit der von der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde übermittelten Daten nach Absatz 1 Satz 1 bestätigt hat, übermittelt das Verwaltungsportal nach § 23a Absatz 2 des Bundesmeldegesetzes diese Daten sowie zusätzlich die folgenden von der meldepflichtigen Person gegenüber dem Verwaltungsportal angegebenen Daten an die Zuzugsmeldebehörde:  
+  
 
 |     |                                                                                                            |                |
 |:----|:-----------------------------------------------------------------------------------------------------------|---------------:|
@@ -998,6 +999,8 @@ Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegeset
 | 3\. | Anschrift der Wohnung, gekennzeichnet nach Haupt- und Nebenwohnung                                         | 1201 bis 1213, |
 | 4\. | Auszugsdatum, sofern es vom Einzugsdatum abweicht                                                          |         1306\. |
 
+  
+  
 Zusätzlich zu den Daten nach Satz 1 werden unter den Voraussetzungen des § 8 Absatz 2 die Daten nach § 8 Absatz 2 Nummer 1 und 2 übermittelt.
 
 (3) Das Verwaltungsportal übermittelt den Code, den die meldepflichtige Person nach § 23a Absatz 3 des Bundesmeldegesetzes erhalten und gegenüber dem Verwaltungsportal angegeben hat, elektronisch an die Zuzugsmeldebehörde.

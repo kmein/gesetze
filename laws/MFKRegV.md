@@ -11,11 +11,13 @@ Auf Grund des § 609 Absatz 7 der Zivilprozessordnung, der durch Artikel 2 Numme
 
 (2) Die öffentlichen Bekanntmachungen erfolgen durch Veröffentlichung auf einer Internetseite, die der inhaltlichen Verantwortung des Bundesamtes für Justiz unterliegt und von jedermann unentgeltlich eingesehen werden kann. Auf der Internetseite sind auch die vom Bundesamt für Justiz elektronisch zur Verfügung zu stellenden Formulare abrufbar.
 
-# § 2 – Öffentliche Bekanntmachungen
+# § 2 – Öffentliche Bekanntmachungen und Mitteilungen des Gerichts
 
 (1) Öffentlich bekannt zu machen sind die in § 607 Absatz 1 und 3 sowie die in § 611 Absatz 5 und § 612 der Zivilprozessordnung genannten Angaben zu einer Musterfeststellungsklage. Das Datum der öffentlichen Bekanntmachung ist jeweils anzugeben.
 
-(2) Das Gericht übermittelt die bekannt zu machenden Angaben in einem elektronischen Dokument an das Bundesamt für Justiz. Das elektronische Dokument ist nach einem vom Bundesamt für Justiz vorgegebenen Muster zu erstellen. Es ist auf einem sicheren Übermittlungsweg im Sinne von § 130a Absatz 4 der Zivilprozessordnung zu übermitteln.
+(2) Das Gericht übermittelt die bekannt zu machenden Angaben als strukturierten maschinenlesbaren Datensatz im Dateiformat XML in der jeweils gültigen XJustiz-Version auf einem sicheren Übermittlungsweg (§ 130a Absatz 4 der Zivilprozessordnung) an das Bundesamt für Justiz.
+
+(3) Genehmigt das Gericht den Inhalt und die Wirksamkeit eines Vergleichs durch Beschluss, so teilt es dem Bundesamt für Justiz entsprechend Absatz 2 auch mit, welche Verbraucher aus dem Vergleich ausgetreten sind.
 
 # § 3 – Anmeldung und Eintragung von Ansprüchen oder Rechtsverhältnissen
 
@@ -51,7 +53,7 @@ Lehnt das Bundesamt für Justiz eine Eintragung mit einem vollständig maschinel
 
 # § 6 – Auszug aus dem Klageregister
 
-(1) Fordert das Gericht einen Auszug an, verwendet es hierfür ein elektronisches Dokument, das nach einem vom Bundesamt für Justiz vorgegebenen Muster zu erstellen ist. Das Bundesamt für Justiz übermittelt den Auszug als elektronisches Dokument auf einem sicheren Übermittlungsweg im Sinne von § 130a Absatz 4 der Zivilprozessordnung. § 130a Absatz 2 der Zivilprozessordnung ist entsprechend anzuwenden.
+(1) Das Bundesamt für Justiz übermittelt dem Gericht der Musterfeststellungsklage auf Anforderung einen elektronischen Auszug aus dem Klageregister auf einem sicheren Übermittlungsweg (§ 130a Absatz 4 der Zivilprozessordnung) als strukturierten maschinenlesbaren Datensatz im Dateiformat XML in der jeweils gültigen XJustiz-Version.
 
 (2) Fordert eine Partei einen Auszug nach § 609 Absatz 6 der Zivilprozessordnung an, verwendet sie hierfür das vom Bundesamt für Justiz vorgegebene Formular. Das Bundesamt für Justiz kann den Auszug als elektronisches Dokument auf einem sicheren Übermittlungsweg entsprechend § 130a Absatz 4 der Zivilprozessordnung an deren Prozessbevollmächtigten übermitteln.
 

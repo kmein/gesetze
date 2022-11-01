@@ -17,15 +17,19 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 # § 3 – Berichtigung eines Datensatzes
 
-(1) Die Registerbehörde hat unabhängig von der Verantwortung der öffentlichen Stellen nach § 8 Abs. 1 des AZR-Gesetzes Hinweise auf eine mögliche Unrichtigkeit der gespeicherten Daten zu prüfen und unrichtige Daten zu berichtigen. Stellt sie fest, daß zu einem Ausländer im allgemeinen Datenbestand mehrere Datensätze bestehen, führt sie diese zu einem Datensatz zusammen. Über eine Zusammenführung von Datensätzen werden die aktenführenden Behörden unterrichtet. Soweit anlässlich der Zusammenführung eine Berichtigung übermittelter Daten vorgenommen wird, werden auch diejenigen Stellen unterrichtet, die diese Daten übermittelt haben (§ 38 Absatz 1 Satz 2 AZRG).
+(1) Die Registerbehörde hat unabhängig von der Verantwortung der öffentlichen Stellen nach § 8 Absatz 1 des AZR-Gesetzes Hinweise auf eine mögliche Unrichtigkeit der gespeicherten Daten zu prüfen und unrichtige Daten zu berichtigen. Stellt sie fest, daß zu einem Ausländer im allgemeinen Datenbestand mehrere Datensätze bestehen, führt sie diese zu einem Datensatz zusammen. Über eine Zusammenführung von Datensätzen werden die aktenführenden Behörden unterrichtet. Soweit anlässlich der Zusammenführung eine Berichtigung übermittelter Daten vorgenommen wird, werden auch diejenigen Stellen unterrichtet, die diese Daten übermittelt haben (§ 38 Absatz 1 Satz 2 AZRG).
 
 (2) Stellt die Registerbehörde fest, daß im allgemeinen Datenbestand des Registers Datensätze verschiedener Personen übereinstimmende oder nur geringfügig voneinander abweichende Grundpersonalien enthalten, speichert sie einen Hinweis auf die Personenverschiedenheit.
+
+(3) Stellt die Registerbehörde im allgemeinen Datenbestand des Registers einen Datensatz fest, bei dem weder eine Ausländerbehörde noch das Bundesamt für Migration und Flüchtlinge aktenführende Behörde ist, wird nach sechs Monaten automatisiert die Meldung „Fortzug nach unbekannt“ gespeichert.
+
+(4) Die Registerbehörde ersetzt die seit dem 5. Februar 2016 nach § 3 Absatz 3 Nummer 3 gespeicherten Daten zur Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes rückwirkend durch Daten zur Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes, welche ihr von der zuständigen Organisationseinheit des Bundesamtes für Migration und Flüchtlinge in einem automatisierten Verfahren übermittelt werden. Für die Richtigkeit der übermittelten Daten ist die beteiligte Organisationseinheit des Bundesamtes für Migration und Flüchtlinge verantwortlich.
 
 # § 4 – Allgemeine Regelungen
 
 (1) Die öffentlichen Stellen, die nach dem AZR-Gesetz verpflichtet oder berechtigt sind, an die Registerbehörde Daten zu übermitteln, die im Register zu speichern sind, ergeben sich aus Spalte C der Abschnitte I und II der Anlage zu dieser Verordnung.
 
-(2) Maßgeblich für die Datenübermittlung ist der Zeitpunkt, in dem einer der Anlässe nach § 2 oder § 28 des AZR-Gesetzes oder eine Entscheidung zu einem der Anlässe nach § 3 Absatz 1 Nummer 7 oder Absatz 4 Nummer 7 oder § 29 Abs. 1 Nr. 6 des AZR-Gesetzes vorliegt. Einzelheiten zum Zeitpunkt ergeben sich aus Spalte B der Abschnitte I bis III der Anlage zu dieser Verordnung. Die zur Datenübermittlung verpflichteten Stellen haben die Daten unverzüglich zu übermitteln. Bei mehreren Anlässen oder Entscheidungen können die Daten in einer Übermittlung zusammengefaßt werden, wenn dadurch keine wesentliche Verzögerung eintritt.
+(2) Maßgeblich für die Datenübermittlung ist der Zeitpunkt, in dem einer der Anlässe nach § 2 oder § 28 des AZR-Gesetzes oder eine Entscheidung zu einem der Anlässe nach § 3 Absatz 1 Nummer 7 oder Absatz 4 Nummer 7 oder § 29 Absatz 1 Nummer 6 des AZR-Gesetzes vorliegt. Einzelheiten zum Zeitpunkt ergeben sich aus Spalte B der Abschnitte I bis III der Anlage zu dieser Verordnung. Die zur Datenübermittlung verpflichteten Stellen haben die Daten unverzüglich zu übermitteln. Bei mehreren Anlässen oder Entscheidungen können die Daten in einer Übermittlung zusammengefaßt werden, wenn dadurch keine wesentliche Verzögerung eintritt.
 
 (3) Die Datenübermittlung an die Registerbehörde darf im Wege der Direkteingabe erfolgen. Sofern eine Zulassung der übermittelnden Stelle nach § 22 nicht möglich ist, darf die Übermittlung auch elektronisch oder schriftlich erfolgen. Die Übermittlung muss nach dem Stand der Technik abgesichert werden. Die Einhaltung des Stands der Technik wird vermutet, wenn die Übermittlung den in den Technischen Richtlinien (TR) des Bundesamtes für Sicherheit in der Informationstechnik niedergelegten Anforderungen entspricht.
 
@@ -43,15 +47,19 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (2) Erfolgt die Datenübermittlung auf anderem Wege, übermitteln die Stellen der Registerbehörde, soweit vorhanden, die AZR-Nummer, andernfalls die ihnen bekannten Grundpersonalien. Für die Registerbehörde gilt Absatz 1 entsprechend.
 
-(3) Daten, die nach § 29 Abs. 1 Nr. 6 bis 12 des AZR-Gesetzes gespeichert werden, sind unter Angabe der Visadatei-Nummer, des Familiennamens und der Vornamen der betroffenen Person zu übermitteln, damit diese Daten dem Datensatz zugespeichert werden können, der im konkreten Visumverfahren anlässlich der Übermittlung der Daten zum Visumantrag in der AZR-Visadatei angelegt wurde. Die Registerbehörde hat programmtechnische Vorkehrungen zu treffen, dass eine Speicherung dieser Daten als neuer Datensatz ausgeschlossen ist.
+(3) Daten, die nach § 29 Absatz 1 Nummer 6 bis 12 des AZR-Gesetzes gespeichert werden, sind unter Angabe der Visadatei-Nummer, des Familiennamens und der Vornamen der betroffenen Person zu übermitteln, damit diese Daten dem Datensatz zugespeichert werden können, der im konkreten Visumverfahren anlässlich der Übermittlung der Daten zum Visumantrag in der AZR-Visadatei angelegt wurde. Die Registerbehörde hat programmtechnische Vorkehrungen zu treffen, dass eine Speicherung dieser Daten als neuer Datensatz ausgeschlossen ist.
 
-# § 6 – Begründungstexte
+# § 6 – Dokumente
 
-(1) Die Daten, bei deren Übermittlung Begründungstexte nach § 6 Abs. 5 des AZR-Gesetzes zu übersenden sind, ergeben sich aus Spalte A des Abschnitts III der Anlage zu dieser Verordnung. Begründungstexte sind unverzüglich zu übersenden.
+Aus Abschnitt III der Anlage zu dieser Verordnung ergeben sich
 
-(2) Die Registerbehörde bewahrt die Begründungstexte gesondert auf. Sie speichert im Register beim Datensatz der betroffenen Person den Hinweis nach § 3 Absatz 1 Nummer 8 oder Absatz 4 Nummer 8 des AZR-Gesetzes, daß der Begründungstext vorliegt.
+1. die Daten, bei deren Übermittlung auch Dokumente nach § 6 Absatz 5 des AZR-Gesetzes zu übermitteln sind,
 
-(3) Die bei der Registerbehörde aufbewahrten Begründungstexte sind unverzüglich zu vernichten, sobald die Daten gelöscht werden, auf die sie sich beziehen.
+2. die übermittelnden Stellen und
+
+3. die Stellen, an die eine Übermittlung der Dokumente nach § 10 Absatz 1a und 6 des AZR-Gesetzes zu übermitteln sind.
+
+Die Dokumente sind unverzüglich zu übermitteln.
 
 # § 7 – Übermittlungssperren
 
@@ -85,7 +93,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (2) Das Übermittlungsersuchen kann auf maschinell verwertbaren Datenträgern, im Rahmen des Abrufs im automatisierten Verfahren, auf dafür vorgesehenen Vordrucken, in sonstiger Weise schriftlich oder fernmündlich erfolgen. Die ersuchende Stelle darf maschinell verwertbare Datenträger für das Übermittlungsersuchen nur nutzen, wenn diese bei der Registerbehörde angemeldet sind. Ein fernmündliches Übermittlungsersuchen ist nur für öffentliche Stellen und nur dann zulässig, wenn die mit einem schriftlichen Übermittlungsersuchen verbundene zeitliche Verzögerung aus dringenden dienstlichen Gründen nicht zu vertreten ist.
 
-(3) Die nach § 10 Abs. 1 Satz 2 des AZR-Gesetzes erforderliche Angabe zum Verarbeitungszweck besteht aus der Aufgabenbezeichnung und, soweit vorhanden, dem Geschäftszeichen des Verfahrens, zu dem die Daten übermittelt werden sollen. Die in § 20 Abs. 1 des AZR-Gesetzes bezeichneten Stellen geben statt des Geschäftszeichens des Verfahrens ein besonderes Geschäftszeichen für das Übermittlungsersuchen an, das eine Zuordnung zum Verfahren ermöglicht; dieses Geschäftszeichen und das Geschäftszeichen des Verfahrens sind in den nach § 20 Abs. 2 des AZR-Gesetzes vorgesehenen Aufzeichnungen anzugeben. Folgende Aufgabenbezeichnungen sind zu verwenden:
+(3) Die nach § 10 Absatz 1 Satz 2 des AZR-Gesetzes erforderliche Angabe zum Verarbeitungszweck besteht aus der Aufgabenbezeichnung und, soweit vorhanden, dem Geschäftszeichen des Verfahrens, zu dem die Daten übermittelt werden sollen. Die in § 20 Absatz 1 des AZR-Gesetzes bezeichneten Stellen geben statt des Geschäftszeichens des Verfahrens ein besonderes Geschäftszeichen für das Übermittlungsersuchen an, das eine Zuordnung zum Verfahren ermöglicht; dieses Geschäftszeichen und das Geschäftszeichen des Verfahrens sind in den nach § 20 Absatz 2 des AZR-Gesetzes vorgesehenen Aufzeichnungen anzugeben. Folgende Aufgabenbezeichnungen sind zu verwenden:
 
 1. ausländerrechtliche Aufgabe,
 
@@ -109,7 +117,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 10. Erfüllung von Verpflichtungen aus völkerrechtlichen Verträgen,
 
-11. Identitätsfeststellung nach § 15 Abs. 3 des AZR-Gesetzes,
+11. Identitätsfeststellung nach § 15 Absatz 3 des AZR-Gesetzes,
 
 12. Unterstützung der Zollfahndungsämter,
 
@@ -155,11 +163,15 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 32. Beratung und Bearbeitung von Einbürgerungsanträgen.
 
+33. (zukünftig)
+
+34. Abruf von Dokumenten.
+
 (4) (weggefallen)
 
-(5) Für die Angabe des Verarbeitungszwecks nach § 11 Abs. 1 Satz 3 Absatz 2 Satz 5 des AZR-Gesetzes gilt Absatz 3 entsprechend. Die Mitteilung hat schriftlich zu erfolgen.
+(5) Für die Angabe des Verarbeitungszwecks nach § 11 Absatz 1 Satz 3, Absatz 2 Satz 5 des AZR-Gesetzes gilt Absatz 3 entsprechend. Die Mitteilung hat schriftlich zu erfolgen.
 
-(6) Ähnliche Personen nach § 10 Abs. 3, § 21 Abs. 3 und § 31 Abs. 1 des AZR-Gesetzes sind solche Personen, deren Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien oder Angaben zum Ausweispapier oder Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern, Fingerabdruckdaten oder Angaben zum Ausweispapier oder Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
+(6) Ähnliche Personen nach § 10 Absatz 3, § 21 Absatz 3 und § 31 Absatz 1 des AZR-Gesetzes sind solche Personen, deren Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien oder Angaben zum Ausweispapier oder Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern, Fingerabdruckdaten oder Angaben zum Ausweispapier oder Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 # § 9 – Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
 
@@ -285,7 +297,7 @@ c) Daten nach § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Numme
 
 d) Daten zur Förderung der freiwilligen Ausreise und Reintegration nach § 3 Absatz 1 Nummer 6 des AZR-Gesetzes,
 
-3. nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 10, 10a und 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes,
+3. nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 9 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes,
 
 4. nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 des AZR-Gesetzes und Dokumente nach § 3 Absatz 3c in Verbindung mit § 2 Absatz 2b des AZR-Gesetzes,
 
@@ -371,6 +383,12 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
+ 
+
+ \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+
+ 
+
  \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
  
@@ -381,7 +399,7 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
- \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+\* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
  
 
@@ -487,6 +505,6 @@ wenn die rechtlichen Voraussetzungen vorliegen,
 (7) =  
 wenn ein Anlass oder eine Entscheidung nach (1) bis (6) die Datenübermittlung notwendig macht.
 
+Anlage Abschn. I Nr. 5b: Eingef. durch Art. 2 Nr. 7 Buchst. h G v. 9.7.2021 I 2467 mWv 1.11.2022 (Kursivdruck: "Landeskrimnalämter" müsste richtig "Landeskriminalämter" lauten)  
 Anlage Abschn. I Nr. 8 (Teil I) Spalte A Buchst. y (früher Buchst. z): Eingef. durch Art. 1 Nr. 15 Buchst. d DBuchst. dd V v. 11.12.2018 I 2424 mWv 15.9.2019; früherer Buchst. w wurde Buchst. y gem. Art. 1 Nr. 15 Buchst. d DBuchst. cc V v. 11.12.2018 I 2424 mWv 15.9.2019, Buchst. y aufgeh. u. früherer Buchst. z jetzt Buchst. y gem. Art. 2 Nr. 5 Buchst. h DBuchst. aa aaa u. bbb nach Maßgabe d. Art. 11 iVm. Art. 12 Abs. 6 G v. 4.8.2019 I 1131 mWv 1.5.2020 (Kursivdruck: Änderungsanweisung Art. 2 Nr. 5 Buchst. h DBuchst. aa bbb hätte richtig lauten müssen: "Die Buchstaben "z und ai" werden die Buchstaben "y und z".")  
-Anlage Abschn. I Nr. 9 Spalte A Buchst. q u. r (doppelt) Kursivdruck: Eingef. durch Art. 53 Nr. 1 Buchst. d G v. 15.8.2019 I 1307 mWv 1.3.2020  
 Anlage Abschn. I Nr. 10 Spalte A Buchst. a bis b DBuchst. ee: IdF d. Art. 53 Nr. 2 Buchst. a G v. 15.8.2019 I 1307 mWv 1.3.2020 (Kursivdruck: "Qualizierungsmaßnahme" müsste richtig "Qualifizierungsmaßnahme" lauten)

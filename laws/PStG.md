@@ -459,11 +459,11 @@ Benutzung für wissenschaftliche Zwecke
 
 § 67
 
-Einrichtung zentraler Register
+Zentrale Register
 
 § 68
 
-Mitteilungen an Behörden und Gerichte von Amts wegen
+Datenaustausch zwischen Standesämtern, Behörden und Gerichten
 
 § 68a
 
@@ -595,11 +595,11 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 # § 7 – Aufbewahrung
 
-(1) Die Personenstandsregister und die Sicherungsregister sind räumlich getrennt voneinander und vor unberechtigtem Zugriff geschützt aufzubewahren.
+(1) Die Personenstandsregister und die Sicherungsregister sind räumlich getrennt voneinander und vor unberechtigtem Zugriff geschützt aufzubewahren. Zum Schutz vor physischer Vernichtung beider Register durch Naturkatastrophen und Großschadenslagen soll die räumliche Trennung zwischen elektronischem Register und Sicherungsregister mindestens 20 Kilometer betragen.
 
 (2) Die Personenstandsregister sind dauernd aufzubewahren. Für die Sicherungsregister und die Sammelakten endet die Pflicht zur Aufbewahrung mit Ablauf der in § 5 Absatz 5 für das jeweilige Register genannten Frist.
 
-(3) Nach Ablauf der in § 5 Absatz 5 genannten Fristen sind die Personenstandsregister, die Sicherungsregister und die Sammelakten nach den jeweiligen archivrechtlichen Vorschriften den zuständigen öffentlichen Archiven zur Übernahme anzubieten. Dies gilt nicht für stillgelegte Registereinträge nach § 47 Absatz 4; diese sind zu löschen.
+(3) Nach Ablauf der in § 5 Absatz 5 genannten Fristen sind die entsprechenden Teile der Personenstandsregister, Sicherungsregister und Sammelakten nach den jeweiligen archivrechtlichen Vorschriften den zuständigen öffentlichen Archiven zur Übernahme anzubieten. Die entsprechenden Registereinträge und Sammelakten sind nach der Übernahme oder Ablehnung der Übernahme durch die Archive im Standesamt zu löschen; dies gilt nicht bei Ablehnung der Übernahme von Personenstandsregistern. Soweit es sich um elektronische Daten handelt, sind die entsprechenden Registereinträge und Sammelakten nach Übernahme oder Ablehnung der Übernahme durch die Archive im Standesamt zu löschen; Papiereinträge sind zu vernichten.
 
 # § 8 – Verlust eines Personenstandsregisters
 
@@ -619,11 +619,11 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 # § 10 – Auskunfts- und Nachweispflicht
 
-(1) Die nach diesem Gesetz zur Anzeige Verpflichteten haben die für die Beurkundung des Personenstandsfalls erforderlichen Angaben zu machen, soweit diese nicht Registern entnommen werden können, zu denen das Standesamt einen Zugang hat.
+(1) Die nach diesem Gesetz zur Anzeige Verpflichteten haben die für die Beurkundung des Personenstandsfalls erforderlichen Angaben zu machen und die erforderlichen Nachweise zu erbringen. Das Standesamt soll auf die Vorlage von Nachweisen verzichten, soweit diese aus Personenstandsregistern oder aus Registern anderer Behörden elektronisch abgerufen werden können.
 
 (2) Auskunftspflichtig unter den Voraussetzungen des Absatzes 1 sind weitere Personen, die Angaben zu Tatsachen machen können, die für Beurkundungen in den Personenstandsregistern benötigt werden.
 
-(3) Absatz 1 gilt für die Beibringung von Nachweisen entsprechend.
+(3) Werden dem Standesamt mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel versehene elektronische Dokumente übermittelt, so ist die Gültigkeit der Signatur oder des Siegels unter Berücksichtigung des aktuellen Standes der Technik zu prüfen und zu dokumentieren sowie der Beweiswert im Bedarfsfall gemäß § 15 des Vertrauensdienstegesetzes vom 18. Juli 2017 (BGBl. I S. 2745) sicherzustellen.
 
 (4) Eine Auskunfts- und Nachweispflicht besteht nicht bei einer vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes.
 
@@ -681,7 +681,7 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 1. Tag und Ort der Eheschließung,
 
-2. die Vornamen und die Familiennamen der Ehegatten, Ort und Tag ihrer Geburt, ihr Geschlecht sowie auf Wunsch eines Ehegatten seine rechtliche Zugehörigkeit zu einer Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist,
+2. die Vornamen und die Familiennamen der Ehegatten, Ort und Tag ihrer Geburt, ihr Geschlecht,
 
 3. die nach der Eheschließung geführten Vornamen und Familiennamen der Ehegatten.
 
@@ -711,13 +711,11 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 6. jede sonstige Änderung des Personenstandes, soweit sie Angaben im Eheeintrag betrifft,
 
-7. die Änderung der eingetragenen Religionszugehörigkeit, wenn der betroffene Ehegatte dies wünscht,
-
-8. Berichtigungen.
+7. Berichtigungen.
 
 Auf die Wiederverheiratung oder die Begründung einer Lebenspartnerschaft wird hingewiesen.
 
-(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz 1 Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe eingetragen worden ist. Wurde zum Eheeintrag eine Folgebeurkundung über die Auflösung der Ehe oder die Todeserklärung oder die gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz 1 Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur über die Änderung des Namens, Berichtigungen sowie in den Fällen des Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und die Auflösung der Ehe durch Eheschließung des anderen Ehegatten einzutragen. Die Änderung der Vornamen ist nicht einzutragen, wenn diese auf Grund des Transsexuellengesetzes oder in einem Adoptionsverfahren geändert wurden. Für einen Ehegatten, der wieder geheiratet oder eine Lebenspartnerschaft begründet hat, ist nur eine Folgebeurkundung über Berichtigungen nach Absatz 1 Nummer 8 einzutragen.
+(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz 1 Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe eingetragen worden ist. Wurde zum Eheeintrag eine Folgebeurkundung über die Auflösung der Ehe oder die Todeserklärung oder die gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz 1 Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur über die Änderung des Namens, Berichtigungen sowie in den Fällen des Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und die Auflösung der Ehe durch Eheschließung des anderen Ehegatten einzutragen. Die Änderung der Vornamen oder des Geschlechts ist nicht einzutragen, wenn die Änderung auf Grund des Transsexuellengesetzes, durch Erklärung nach § 45b oder in einem Adoptionsverfahren erfolgt ist. Für einen Ehegatten, der wieder geheiratet oder eine Lebenspartnerschaft begründet hat, ist nur eine Folgebeurkundung über Berichtigungen nach Absatz 1 Nummer 7 einzutragen.
 
 # § 17 – Fortführung des Lebenspartnerschaftsregisters
 
@@ -733,13 +731,13 @@ Für die Fortführung des Lebenspartnerschaftsregisters gilt § 16 entsprechend.
 
 # § 18 – Anzeige
 
-(1) Die Geburt eines Kindes muss dem Standesamt, in dessen Zuständigkeitsbereich es geboren ist,
+(1) Die Geburt eines Kindes ist dem Standesamt, in dessen Zuständigkeitsbereich es geboren ist, binnen einer Woche anzuzeigen, und zwar
 
-1. von den in § 19 Satz 1 genannten Personen mündlich oder
+1. von den in § 19 Satz 1 genannten Personen mündlich oder schriftlich, oder
 
-2. von den in § 20 Satz 1 und 2 genannten Einrichtungen schriftlich
+2. von den in § 20 Satz 1 und 2 genannten Einrichtungen schriftlich.
 
-binnen einer Woche angezeigt werden. Ist ein Kind tot geboren, so muss die Anzeige spätestens am dritten auf die Geburt folgenden Werktag erstattet werden.
+Ist ein Kind tot geboren, so muss die Anzeige spätestens am dritten auf die Geburt folgenden Werktag erstattet werden. In den Fällen des Satzes 1 Nummer 1 haben die anzeigenden Personen die Geburt des Kindes glaubhaft zu machen.
 
 (2) Bei einer vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes sind in der Anzeige auch das Pseudonym der Mutter und die für das Kind gewünschten Vornamen anzugeben.
 
@@ -751,7 +749,7 @@ Zur Anzeige sind verpflichtet
 
 2. jede andere Person, die bei der Geburt zugegen war oder von der Geburt aus eigenem Wissen unterrichtet ist.
 
-Eine Anzeigepflicht nach Nummer 2 besteht nur, wenn die sorgeberechtigten Eltern an der Anzeige gehindert sind.
+Eine Anzeigepflicht nach Nummer 2 besteht nur, wenn die sorgeberechtigten Eltern an der Anzeige gehindert oder unbekannten Aufenthalts sind.
 
 # § 20 – Anzeige durch Einrichtungen
 
@@ -767,7 +765,7 @@ Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in denen Geburtshil
 
 3. das Geschlecht des Kindes,
 
-4. die Vornamen und die Familiennamen der Eltern, ihr Geschlecht sowie auf Wunsch eines Elternteils seine rechtliche Zugehörigkeit zu einer Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist.
+4. die Vornamen und die Familiennamen der Eltern, ihr Geschlecht.
 
 (2) Ist ein Kind tot geboren, so werden nur die in Absatz 1 Nr. 2 bis 4 vorgeschriebenen Angaben mit dem Zusatz aufgenommen, dass das Kind tot geboren ist. Auf Wunsch einer Person, der bei Lebendgeburt des Kindes die Personensorge zugestanden hätte, sind auch Angaben nach Absatz 1 Nr. 1 einzutragen. Hätte die Personensorge bei Lebendgeburt des Kindes beiden Elternteilen zugestanden und führen sie keinen gemeinsamen Familiennamen, so kann ein Familienname für das Kind nur eingetragen werden, wenn sich die Eltern auf den Namen eines Elternteils einigen.
 
@@ -829,9 +827,7 @@ Wird in den Fällen der §§ 24 und 25 der Personenstand später ermittelt, so w
 
 4. die nachträgliche Angabe oder die Änderung des Geschlechts des Kindes,
 
-5. die rechtliche Zugehörigkeit des Kindes zu einer Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist, sowie die Änderung dieser Eintragung, sofern das Kind dies wünscht,
-
-6. die Berichtigung des Eintrags.
+5. die Berichtigung des Eintrags.
 
 (4) Für die aus Anlass der Beurkundungen nach den Absätzen 1 und 3 aufzunehmenden Hinweise gilt § 21 Abs. 3 entsprechend. Im Übrigen wird hingewiesen
 
@@ -845,7 +841,7 @@ Wird in den Fällen der §§ 24 und 25 der Personenstand später ermittelt, so w
 
 Der Tod eines Menschen muss dem Standesamt, in dessen Zuständigkeitsbereich er gestorben ist,
 
-1. von den in § 29 Abs. 1 Satz 1 genannten Personen mündlich oder
+1. von den in § 29 genannten Personen mündlich oder schriftlich, oder
 
 2. von den in § 30 Abs. 1 genannten Einrichtungen schriftlich
 
@@ -853,7 +849,7 @@ spätestens am dritten auf den Tod folgenden Werktag angezeigt werden.
 
 # § 29 – Anzeige durch Personen
 
-(1) Zur Anzeige sind verpflichtet
+Zur Anzeige sind verpflichtet
 
 1. jede Person, die mit dem Verstorbenen in häuslicher Gemeinschaft gelebt hat,
 
@@ -862,8 +858,6 @@ spätestens am dritten auf den Tod folgenden Werktag angezeigt werden.
 3. jede andere Person, die bei dem Tod zugegen war oder von dem Sterbefall aus eigenem Wissen unterrichtet ist.
 
 Eine Anzeigepflicht besteht nur, wenn eine in der Reihenfolge früher genannte Person nicht vorhanden oder an der Anzeige gehindert ist.
-
-(2) Ist mit der Anzeige ein bei einer Handwerkskammer oder Industrie- und Handelskammer registriertes Bestattungsunternehmen beauftragt, so kann die Anzeige auch schriftlich erstattet werden.
 
 # § 30 – Anzeige durch Einrichtungen und Behörden
 
@@ -877,7 +871,7 @@ Eine Anzeigepflicht besteht nur, wenn eine in der Reihenfolge früher genannte P
 
 (1) Im Sterberegister werden beurkundet
 
-1. die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner Geburt, das Geschlecht sowie auf Wunsch des Anzeigenden die rechtliche Zugehörigkeit des Verstorbenen zu einer Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist,
+1. die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner Geburt, das Geschlecht,
 
 2. der letzte Wohnsitz und der Familienstand des Verstorbenen,
 
@@ -957,7 +951,7 @@ Ausfertigungen der Beschlüsse über Todeserklärungen und gerichtliche Feststel
 
 # § 39 – Ehefähigkeitszeugnis
 
-(1) Zur Ausstellung eines Ehefähigkeitszeugnisses, dessen ein Deutscher zur Eheschließung im Ausland bedarf, ist das Standesamt zuständig, in dessen Zuständigkeitsbereich der Eheschließende seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Hat der Eheschließende im Inland weder Wohnsitz noch gewöhnlichen Aufenthalt, so ist der Ort des letzten gewöhnlichen Aufenthalts maßgebend; hat er sich niemals oder nur vorübergehend im Inland aufgehalten, so ist das Standesamt I in Berlin zuständig.
+(1) Zur Ausstellung eines Ehefähigkeitszeugnisses, dessen ein Deutscher zur Eheschließung im Ausland bedarf, ist das Standesamt zuständig, in dessen Zuständigkeitsbereich der Eheschließende seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Hat der Eheschließende im Inland weder Wohnsitz noch gewöhnlichen Aufenthalt, so ist der Ort des letzten gewöhnlichen Aufenthalts maßgebend; hat er sich niemals oder nur vorübergehend im Inland aufgehalten, so ist das Standesamt I in Berlin zuständig. Der Antrag auf Erteilung eines Ehefähigkeitszeugnisses kann mündlich oder schriftlich gestellt werden.
 
 (2) Das Ehefähigkeitszeugnis darf nur ausgestellt werden, wenn der beabsichtigten Eheschließung ein Ehehindernis nach deutschem Recht nicht entgegensteht; § 13 Abs. 1 bis 3 gilt entsprechend. Die Beibringung eines Ehefähigkeitszeugnisses für den anderen Eheschließenden ist nicht erforderlich. Das Ehefähigkeitszeugnis gilt für die Dauer von sechs Monaten.
 
@@ -1183,7 +1177,7 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 
 # § 56 – Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden
 
-(1) In der Ehe-, der Lebenspartnerschafts-, der Geburts- und der Sterbeurkunde werden das Standesamt, bei dem der Personenstandsfall beurkundet worden ist, und der Jahrgang sowie die Nummer des Registereintrags angegeben. Bei der Ausstellung der Eheurkunde aus der Niederschrift über die Eheschließung oder der Lebenspartnerschaftsurkunde aus der Niederschrift über die Begründung der Lebenspartnerschaft ist an Stelle der Nummer des Registereintrags ein Hinweis auf die Niederschrift aufzunehmen.
+(1) In der Ehe-, der Lebenspartnerschafts-, der Geburts- und der Sterbeurkunde werden das Standesamt, bei dem der Personenstandsfall beurkundet worden ist, und der Jahrgang sowie die Nummer des Registereintrags angegeben. Bei der Ausstellung der Eheurkunde aus der Niederschrift über die Eheschließung ist an Stelle der Nummer des Registereintrags ein Hinweis auf die Niederschrift aufzunehmen.
 
 (2) Ist ein Registereintrag durch Folgebeurkundungen fortgeführt worden, so werden nur die geänderten Tatsachen in die Personenstandsurkunden aufgenommen.
 
@@ -1199,9 +1193,7 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 
 2. Ort und Tag der Geburt der Ehegatten,
 
-3. Ort und Tag der Eheschließung,
-
-4. die rechtliche Zugehörigkeit eines Ehegatten zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt.
+3. Ort und Tag der Eheschließung.
 
 In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
@@ -1225,9 +1217,7 @@ In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 2. Ort und Tag der Geburt der Lebenspartner,
 
-3. Ort und Tag der Begründung der Lebenspartnerschaft,
-
-4. die rechtliche Zugehörigkeit eines Lebenspartners zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt.
+3. Ort und Tag der Begründung der Lebenspartnerschaft.
 
 In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
@@ -1249,19 +1239,17 @@ In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 2. das Geschlecht des Kindes,
 
-3. Ort und Tag der Geburt,
+3. Ort sowie Tag, Stunde und Minute der Geburt,
 
-4. die Vornamen und die Familiennamen der Eltern des Kindes,
+4. die Vornamen und die Familiennamen der Eltern des Kindes.
 
-5. die rechtliche Zugehörigkeit des Kindes und seiner Eltern zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt.
-
-(2) Auf Verlangen werden in die Geburtsurkunde Angaben nach Absatz 1 Nr. 2, 4 und 5 nicht aufgenommen.
+(2) Auf Verlangen werden in die Geburtsurkunde Angaben nach Absatz 1 Nummer 2 und 4 nicht aufgenommen.
 
 # § 60 – Sterbeurkunde
 
 In die Sterbeurkunde werden aufgenommen
 
-1. die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner Geburt sowie seine rechtliche Zugehörigkeit zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt,
+1. die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner Geburt,
 
 2. der letzte Wohnsitz und der Familienstand des Verstorbenen,
 
@@ -1303,7 +1291,7 @@ In die Sterbeurkunde werden aufgenommen
 
 (1) Behörden und Gerichten sind auf Ersuchen Personenstandsurkunden zu erteilen, Auskunft aus einem oder Einsicht in einen Registereintrag sowie die Durchsicht mehrerer Registereinträge zu gewähren, soweit dies zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich ist. Gleiches gilt für Auskunft aus den und Einsicht in die Sammelakten. Die Behörden und die Gerichte haben den Zweck anzugeben. Sie tragen die Verantwortung für die Zulässigkeit der Übermittlung.
 
-(2) Religionsgemeinschaften im Inland, die Körperschaften des öffentlichen Rechts sind, können unter den Voraussetzungen des Absatzes 1 Personenstandsurkunden und Auskünfte aus einem Personenstandsregister erteilt werden, soweit das Ersuchen Mitglieder ihrer Religionsgemeinschaft betrifft. Dabei kann eine Eheurkunde auch dann erteilt werden, wenn nur ein Ehegatte der betreffenden Religionsgemeinschaft angehört und die Ehegatten der Erteilung zugestimmt haben.
+(2) (weggefallen)
 
 (3) Ausländischen diplomatischen oder konsularischen Vertretungen im Inland können unter den Voraussetzungen des Absatzes 1 Personenstandsurkunden und Auskünfte aus einem Personenstandsregister erteilt werden, soweit das Ersuchen Angehörige des von ihnen vertretenen Staates betrifft. Ist dem Standesbeamten bekannt, dass es sich bei der betreffenden Person um einen heimatlosen Ausländer oder ausländischen Flüchtling im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge handelt, so ist die Benutzung der Register zu versagen.
 
@@ -1331,21 +1319,31 @@ Gleiches gilt für Auskunft aus den und Einsicht in die Sammelakten.
 
 2. dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist; in diesem Fall bedarf die Veröffentlichung der Zustimmung der obersten Bundes- oder Landesbehörde, die der Benutzung nach Absatz 2 zugestimmt hat.
 
-# § 67 – Einrichtung zentraler Register
+# § 67 – Zentrale Register
 
-(1) Die Länder dürfen zentrale Register einrichten zu dem Zweck, die Registereinträge der angeschlossenen Standesämter zu erfassen und ihre Benutzung nach Absatz 3 zu ermöglichen.
+(1) Die Länder dürfen zentrale Register einrichten zu dem Zweck, die Registereinträge der angeschlossenen Standesämter zu erfassen, ihre Benutzung nach Absatz 3 sowie ihre Fortführung nach Absatz 4 zu ermöglichen.
 
-(2) Die Standesämter dürfen bei ihnen gespeicherte Registereinträge an das zentrale Register übermitteln. Die Verantwortung für die Richtigkeit und Vollständigkeit der Daten trägt die übermittelnde Stelle. Das zentrale Register darf die Daten speichern zum Zweck der Übermittlung nach Absatz 3.
+(2) Die Standesämter dürfen bei ihnen gespeicherte Registereinträge an das zentrale Register übermitteln. Die Länder können zulassen, dass die elektronische Erfassung eines Altregisters nach § 76 Absatz 5 auch durch ein angeschlossenes Standesamt erfolgt, das den Haupteintrag nicht selbst errichtet hat. Die Verantwortung für die Richtigkeit und Vollständigkeit der Daten trägt die übermittelnde Stelle. Das zentrale Register darf die Daten speichern zum Zweck der Übermittlung nach Absatz 3.
 
-(3) Die Standesämter dürfen bei dem zentralen Register Registereinträge erheben, wenn die Angaben benötigt werden zur Erteilung von Personenstandsurkunden und Auskünften sowie zur Gewährung von Einsicht in die Personenstandsregister und Durchsicht dieser Register nach den §§ 55, 61 bis 66; die Benutzung der Personenstandsregister kann von allen an das zentrale Register angeschlossenen Standesämtern gewährt werden.
+(3) Die Standesämter dürfen zur Erfüllung der ihnen obliegenden Aufgaben bei dem zentralen Register Registereinträge nutzen, wenn die Angaben benötigt werden zur Erteilung von Personenstandsurkunden, elektronischen Personenstandsbescheinigungen und Auskünften sowie zur Gewährung von Einsicht in die Personenstandsregister und Durchsicht dieser Register nach den §§ 55, 61 bis 66; die Benutzung der Personenstandsregister kann allen an das zentrale Register angeschlossenen Standesämtern gewährt werden.
 
-(4) (weggefallen)
+(4) Die Länder können zulassen, dass an das zentrale Register übermittelte Registereinträge abweichend von § 5 Absatz 4 von jedem angeschlossenen Standesamt fortgeführt werden dürfen.
 
-# § 68 – Mitteilungen an Behörden und Gerichte von Amts wegen
+# § 68 – Datenaustausch zwischen Standesämtern, Behörden und Gerichten
 
 (1) Das Standesamt, das in einem Personenstandsregister eine Beurkundung vornimmt (§§ 3, 5), übermittelt Angaben hierüber von Amts wegen einer anderen Behörde oder einem Gericht, wenn sich die Mitteilungspflicht aus einer Rechtsvorschrift ergibt.
 
-(2) Die Einrichtung eines automatisierten Abrufverfahrens, das die Übermittlung personenbezogener Daten an andere Stellen als Standesämter durch Abruf ermöglicht, ist nur zulässig, soweit dies durch Bundes- oder Landesrecht unter Festlegung der Datenempfänger, der Art der zu übermittelnden Daten und des Zwecks der Übermittlung bestimmt wird.
+(2) Die Übermittlung von Daten zwischen Standesämtern durch automatisierte Abrufverfahren ist zulässig, soweit diese Daten zur Erfüllung der Aufgaben der abrufenden Stelle erforderlich sind. Bei Datenabrufen in automatisierten Abrufverfahren ist durch technische Maßnahmen sicherzustellen, dass die Berechtigung der abrufenden Stelle beim angefragten Standesamt erkannt und protokolliert wird. Ein Datenabruf im automatisierten Abrufverfahren darf nur die Einsicht in das Suchverzeichnis und in den der Abfrage zugehörigen Registereintrag ermöglichen. Bei Verfahren nach § 67 sind ergänzend landesrechtliche Regelungen zu beachten. Eine Datenübermittlung im automatisierten Abrufverfahren ist nicht zulässig, wenn
+
+1. die Benutzung eines Eintrags nach Ablauf der Fortführungsfristen nach § 5 Absatz 5 archivrechtlichen Vorschriften unterliegt,
+
+2. die Daten im Übermittlungsersuchen nicht mit den gespeicherten Daten korrespondieren,
+
+3. zu einem Registereintrag ein Sperrvermerk nach § 64 eingetragen ist oder
+
+4. ein Registereintrag nach § 47 Absatz 4 Satz 2 stillgelegt worden ist.
+
+Datenübermittlungen und Auskünfte zwischen den Standesämtern sind gebührenfrei.
 
 # § 68a – Rechte der betroffenen Person
 
@@ -1439,7 +1437,13 @@ b) mittels derer die Identität der Person, die die Eintragung vorgenommen hat, 
 
 23. die elektronische Erfassung und Fortführung der Übergangsbeurkundungen (§ 75) und Altregister (§ 76),
 
-24. die Benutzung der als Heiratseinträge fortgeführten Familienbücher (§ 77).
+24. die Benutzung der als Heiratseinträge fortgeführten Familienbücher (§ 77),
+
+25. die technischen Standards, die zu übermittelnden Daten, ihre Form sowie das Nähere über das Verfahren der Übermittlung bei Datenübermittlungen zwischen Standesämtern und einem Verwaltungsportal nach § 3 Absatz 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I. S. 3122, 3138), das zuletzt durch Artikel 16 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250) geändert worden ist (OZG),
+
+26. die Festlegung des Vertrauensniveaus im Sinne des Artikel 8 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44), das bei einer elektronischen Erbringung von Verwaltungsleistungen nach diesem Gesetz jeweils erforderlich ist,
+
+27. automatisierte Abrufverfahren und technische Benutzer nach § 68 sowie die im Einzelnen zu übermittelnden Angaben, die Protokollierung der Abrufe und die Verfahren der Übermittlung.
 
 # § 74 – Rechtsverordnungen der Landesregierungen
 
@@ -1463,7 +1467,7 @@ b) mittels derer die Identität der Person, die die Eintragung vorgenommen hat, 
 
 # § 75 – Übergangsbeurkundung
 
-Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013 in einem Papierregister beurkundeten Personenstandseinträge (Übergangsbeurkundungen) können in elektronische Register übernommen werden; in diesem Fall gelten die §§ 3 bis 5 entsprechend.
+Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013 in einem Papierregister beurkundeten Personenstandseinträge (Übergangsbeurkundungen) sollen in elektronische Register übernommen werden; in diesem Fall gelten die §§ 3 bis 5 entsprechend.
 
 # § 76 – Fortführung, Benutzung und Aufbewahrung der Altregister
 
@@ -1473,9 +1477,17 @@ Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013 in einem Papierregiste
 
 (3) Für die Benutzung der Altregister und der dazu geführten Sammelakten gelten die §§ 61 bis 66 entsprechend.
 
-(4) Für die Aufbewahrung und das Anbieten der Altregister, der Zweitbücher und der Sammelakten gegenüber den Archiven gilt § 7 Absatz 1 und 3 entsprechend.
+(4) Für die Aufbewahrung und das Anbieten der Altregister, der Zweitbücher und der Sammelakten gegenüber den Archiven gilt § 7 Absatz 1 Satz 1, Absatz 2 und 3 entsprechend.
 
-(5) Die Altregister können innerhalb der in § 5 Absatz 5 genannten Fristen elektronisch erfasst und fortgeführt werden; in diesem Fall gelten die §§ 3 bis 5 entsprechend.
+(5) Einträge aus Altregistern werden elektronisch erfasst und fortgeführt, wenn
+
+1. ein Anlass zur Fortführung des Registereintrags im Geburten-, Ehe- und Lebenspartnerschaftsregister besteht,
+
+2. die Ausstellung einer Personenstandsurkunde aus einem der in Nummer 1 genannten Register beantragt wird oder
+
+3. durch eine automatisierte Datenabfrage Daten aus einem papiergebundenen Altregister nach Nummer 1 abgefragt werden.
+
+Im Übrigen sollen sie elektronisch erfasst werden. Eine Nacherfassung im elektronischen Personenstandsregister nach den Sätzen 1 und 2 ist nicht erforderlich, wenn bereits die Hälfte der nach § 5 Absatz 5 für den entsprechenden Personenstandseintrag geltenden Fortführungsfrist abgelaufen ist oder die elektronische Nacherfassung aufgrund der in dem papiergebundenen Registereintrag beurkundeten Daten aus anderen Gründen nicht angezeigt ist.
 
 # § 77 – Fortführung, Aufbewahrung und Benutzung der Familienbücher
 
