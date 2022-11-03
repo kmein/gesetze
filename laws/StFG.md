@@ -569,9 +569,11 @@ Es wird ein Fonds des Bundes unter der Bezeichnung „Wirtschaftsstabilisierungs
 
 3. mehr als 249 Arbeitnehmer im Jahresdurchschnitt.
 
-(3) Der Wirtschaftsstabilisierungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
+(3) Unabhängig von der Erfüllung der Voraussetzungen von Absatz 2 Nummer 1 bis 3 gelten als Unternehmen der Realwirtschaft auch die in § 23 Absatz 2 genannten Unternehmen.
 
-(4) Das Bundesministerium für Wirtschaft und Energie ist der zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
+(4) Der Wirtschaftsstabilisierungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
+
+(5) Das Bundesministerium für Wirtschaft und Energie ist der zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
 
 # § 17 – Stellung im Rechtsverkehr
 
@@ -665,7 +667,9 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 # § 23 – Refinanzierung der Sonderprogramme der Kreditanstalt für Wiederaufbau
 
-Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Darlehen zur Refinanzierung der ihr von der Bundesregierung als Reaktion auf die so genannte Corona-Krise zugewiesenen Sonderprogramme gewähren. Die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
+(1) Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Darlehen zur Refinanzierung der ihr von der Bundesregierung als Reaktion auf die so genannte Corona-Krise zugewiesenen Sonderprogramme gewähren. Die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
+
+(2) Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Darlehen zur Refinanzierung der ihr von der Bundesregierung aufgrund des § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau zugewiesenen Geschäfte zur Sicherung der Liquidität von Unternehmen der Energiewirtschaft, insbesondere zur Sicherung der Energieversorgung oder zum Erhalt der dazu notwendigen Infrastruktur, gewähren.
 
 # § 24 – Kreditermächtigung
 
