@@ -131,7 +131,7 @@ Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach
 
 (2) Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, der Finanzagentur die Entscheidung über Maßnahmen nach den §§ 6, 7 und 8 und die Verwaltung des Fonds übertragen; Absatz 1 Satz 2 bleibt unberührt. Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung unverzüglich zu unterrichten.
 
-(3) Der Lenkungsausschuss ist besetzt mit je einem Vertreter des Bundeskanzleramts, des Bundesministeriums der Finanzen, des Bundesministeriums der Justiz und für Verbraucherschutz, des Bundesministeriums für Wirtschaft und Energie sowie einem Mitglied auf Vorschlag der Länder. Dem Lenkungsausschuss gehört als weiteres Mitglied ein Vertreter der Deutschen Bundesbank beratend an. Dem Lenkungsausschuss können weitere Mitglieder beratend angehören. Das Bundesministerium der Finanzen kann dem Lenkungsausschuss eine Geschäftsordnung geben.
+(3) Der Lenkungsausschuss ist besetzt mit je einem Vertreter des Bundeskanzleramts, des Bundesministeriums der Finanzen, des Bundesministeriums der Justiz, des Bundesministeriums für Wirtschaft und Klimaschutz sowie einem Mitglied auf Vorschlag der Länder. Dem Lenkungsausschuss gehört als weiteres Mitglied ein Vertreter der Deutschen Bundesbank beratend an. Dem Lenkungsausschuss können weitere Mitglieder beratend angehören. Das Bundesministerium der Finanzen kann dem Lenkungsausschuss eine Geschäftsordnung geben.
 
 (4) Die Richtlinien für die Verwaltung des Fonds bestimmt die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnungen nach Satz 1 und Absatz 2 unverzüglich zu unterrichten.
 
@@ -453,11 +453,11 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (3) Das Gremium tagt geheim. Die Mitglieder des Gremiums sind zur Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer Tätigkeit bekannt geworden sind. Dies gilt für alle Teilnehmerinnen und Teilnehmer der Sitzungen. § 3 Absatz 2 Satz 2 und 3 des Bundesschuldenwesengesetzes gilt entsprechend.
 
-# § 11 – Jahresrechnung und parlamentarische Unterrichtung
+# § 11 – Haushalts- und Vermögensrechnung und parlamentarische Unterrichtung
 
-(1) Das Bundesministerium der Finanzen stellt am Schluss eines jeden Rechnungsjahres die Jahresrechnung für den Fonds auf.
+(1) Das Bundesministerium der Finanzen stellt am Schluss eines jeden Rechnungsjahres die Haushalts- und Vermögensrechnung für den Fonds auf.
 
-(2) Die Jahresrechnung muss in übersichtlicher Weise den Bestand des Fonds einschließlich der Forderungen und Verbindlichkeiten erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
+(2) Die Haushalts- und Vermögensrechnung muss in übersichtlicher Weise den Bestand des Fonds einschließlich der Forderungen und Verbindlichkeiten erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
 
 (3) Ein Haushalts- oder Wirtschaftsplan wird nicht aufgestellt. Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundstages sind regelmäßig über den aktuellen Sachstand zu unterrichten. Das Gremium nach § 10a dieses Gesetzes ist in allen Fällen von wesentlicher Bedeutung unverzüglich zu unterrichten.
 
@@ -493,7 +493,7 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 (3a) Sofern Abspaltungen im Sinne des § 15 Absatz 1 des Umwandlungssteuergesetzes eine notwendige Vorbereitung von Stabilisierungsmaßnahmen im Sinne der §§ 6 bis 8 dieses Gesetzes darstellen, ist § 15 Absatz 3 des Umwandlungssteuergesetzes in der Fassung des Artikels 5 Nummer 2 des Gesetzes vom 14. August 2007 (BGBl. I S. 1912) nicht anzuwenden. Verrechenbare Verluste, verbleibende Verlustvorträge, nicht ausgeglichene negative Einkünfte und ein Zinsvortrag nach § 4h Absatz 1 Satz 2 des Einkommensteuergesetzes verbleiben bei der übertragenden Körperschaft.
 
-(4) Die zur Wahrnehmung der dem Fonds zugewiesenen Aufgaben als Erwerber vorgenommenen Rechtsakte und dessen Erwerbe als Enteignungsbegünstigter sind von der Grunderwerbsteuer befreit. Bei der Ermittlung des Vomhundertsatzes des § 1 Absatz 2a des Grunderwerbsteuergesetzes bleiben Erwerbe von Anteilen durch den Fonds außer Betracht.
+(4) Die zur Wahrnehmung der dem Fonds zugewiesenen Aufgaben als Erwerber vorgenommenen Rechtsakte und dessen Erwerbe als Enteignungsbegünstigter sind von der Grunderwerbsteuer befreit. Bei der Ermittlung des Vomhundertsatzes des § 1 Absatz 2a und § 1 Absatz 2b des Grunderwerbsteuergesetzes bleiben Erwerbe von Anteilen durch den Fonds außer Betracht.
 
 # § 14a – Steuerrechtliche Sonderregelungen im Zusammenhang mit Vermögensübertragungen nach den §§ 6a und 8a
 
@@ -569,11 +569,15 @@ Es wird ein Fonds des Bundes unter der Bezeichnung „Wirtschaftsstabilisierungs
 
 3. mehr als 249 Arbeitnehmer im Jahresdurchschnitt.
 
+Der Unternehmensbegriff nach Satz 1 gilt für Abschnitt 2 Teil 1 und 2 dieses Gesetzes.
+
 (3) Unabhängig von der Erfüllung der Voraussetzungen von Absatz 2 Nummer 1 bis 3 gelten als Unternehmen der Realwirtschaft auch die in § 23 Absatz 2 genannten Unternehmen.
 
-(4) Der Wirtschaftsstabilisierungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
+(4) Der Wirtschaftsstabilisierungsfonds dient zudem der Abfederung der Folgen der Energiekrise, insbesondere von Preissteigerungen beim Bezug von Gas und Strom in Deutschland nach Maßgabe des § 26a Absatz 1.
 
-(5) Das Bundesministerium für Wirtschaft und Energie ist der zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
+(5) Der Wirtschaftsstabilisierungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
+
+(6) Das Bundesministerium für Wirtschaft und Klimaschutz ist der zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
 
 # § 17 – Stellung im Rechtsverkehr
 
@@ -581,9 +585,9 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 # § 18 – Institutioneller Rahmen; Verordnungsermächtigung
 
-(1) Die Verwaltung des Wirtschaftsstabilisierungsfonds mit Ausnahme der Entscheidungen über Stabilisierungsmaßnahmen nach § 20 Absatz 1 und der Wahrnehmung der Aufgaben nach § 20 Absatz 3 obliegt der Finanzagentur. Die Finanzagentur nimmt die Aufgaben im Zusammenhang mit der Verwaltung des Wirtschaftsstabilisierungsfonds, auch im Namen des Wirtschaftsstabilisierungsfonds, als eigene wahr. Die Finanzagentur untersteht hinsichtlich der Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Die Fachaufsicht in Bezug auf die Entscheidungen über Stabilisierungsmaßnahmen nach § 20 wird vom Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie ausgeübt. Das Bundesministerium für Wirtschaft und Energie ist der Ansprechpartner für die Unternehmen.
+(1) Die Verwaltung des Wirtschaftsstabilisierungsfonds mit Ausnahme der Entscheidungen über Stabilisierungsmaßnahmen nach § 20 Absatz 1 und der Wahrnehmung der Aufgaben nach § 20 Absatz 3 obliegt der Finanzagentur. Die Finanzagentur nimmt die Aufgaben im Zusammenhang mit der Verwaltung des Wirtschaftsstabilisierungsfonds, auch im Namen des Wirtschaftsstabilisierungsfonds, als eigene wahr. Die Finanzagentur untersteht hinsichtlich der Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Die Fachaufsicht in Bezug auf die Entscheidungen über Stabilisierungsmaßnahmen nach § 20 wird vom Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz ausgeübt. Das Bundesministerium für Wirtschaft und Klimaschutz ist der Ansprechpartner für die Unternehmen.
 
-(2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Aufgaben und Befugnisse der Finanzagentur nach diesem Abschnitt vorübergehend selbst wahrnehmen oder auf einen geeigneten Dritten übertragen. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz Aufgaben und Befugnisse der Finanzagentur nach diesem Abschnitt vorübergehend selbst wahrnehmen oder auf einen geeigneten Dritten übertragen. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (3) Die Finanzagentur kann sich nach Maßgabe einer nach § 20 Absatz 6 erlassenen Rechtsverordnung bei der Erfüllung ihrer Aufgaben nach diesem Abschnitt geeigneter Dritter bedienen.
 
@@ -591,19 +595,23 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 # § 19 – Kostendeckung und Kostenerstattung; Verordnungsermächtigung
 
-(1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur entsprechend. Die §§ 3d und 3e Absatz 1 bis 3 gelten hinsichtlich der Kosten der Kreditanstalt für Wiederaufbau entsprechend. Für die Kosten, die dem Bundesministerium der Finanzen oder dem Bundesministerium für Wirtschaft und Energie sowie den nach diesem Gesetz vorgesehenen Gremien für Stabilisierungsmaßnahmen nach den §§ 21 und 22 dieses Gesetzes entstehen, können das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Energie von den jeweiligen Adressaten eine Erstattung, auch in Form von Kostenpauschalen, nach Maßgabe der nach Absatz 2 erlassenen Rechtsverordnung verlangen.
+(1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur entsprechend.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen
+(2) Für Auslagen, die dem Bundesministerium der Finanzen oder dem Bundesministerium für Wirtschaft und Klimaschutz sowie den nach diesem Gesetz vorgesehenen Gremien für Stabilisierungsmaßnahmen nach den §§ 21 und 22 dieses Gesetzes entstehen, können das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Klimaschutz von den jeweiligen Adressaten eine Erstattung, auch in Form von Kostenpauschalen, nach Maßgabe der nach Absatz 4 erlassenen Rechtsverordnung verlangen.
 
-1. zur Kostenerstattung und zu Kostenerstattungsverfahren sowie zu den Zahlungspflichtigen nach § 3e und nach Absatz 1;
+(3) Die §§ 3d und 3e Absatz 1 bis 3 gelten hinsichtlich der Kosten der Kreditanstalt für Wiederaufbau entsprechend.
 
-2. mit sonstigen Regelungen, die zur Deckung der Kosten entsprechend der Maßgabe der §§ 3d und 3e sowie des Absatzes 1 erforderlich sind, die bei der Erfüllung der Aufgaben im Rahmen der Wirtschaftsstabilisierung anfallen.
+(4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen
 
-(3) In der nach Absatz 2 erlassenen Rechtsverordnung kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit zu diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
+1. zur Kostenerstattung und zu Kostenerstattungsverfahren sowie zu den Zahlungspflichtigen nach § 3e und nach den Absätzen 1 bis 3;
+
+2. mit sonstigen Regelungen, die zur Deckung der Kosten entsprechend der Maßgabe der §§ 3d und 3e sowie der Absätze 1 bis 3 erforderlich sind, die bei der Erfüllung der Aufgaben im Rahmen der Wirtschaftsstabilisierung anfallen.
+
+(5) In der nach Absatz 4 erlassenen Rechtsverordnung kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit zu diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
 
 # § 20 – Entscheidung über Stabilisierungsmaßnahmen; Verordnungsermächtigung
 
-(1) Über vom Wirtschaftsstabilisierungsfonds nach den §§ 21 und 22 dieses Gesetzes vorzunehmende Stabilisierungsmaßnahmen entscheidet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie auf Antrag des Unternehmens nach pflichtgemäßem Ermessen unter Berücksichtigung
+(1) Über vom Wirtschaftsstabilisierungsfonds nach den §§ 21 und 22 dieses Gesetzes vorzunehmende Stabilisierungsmaßnahmen entscheidet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz auf Antrag des Unternehmens nach pflichtgemäßem Ermessen unter Berücksichtigung
 
 1. der Bedeutung des Unternehmens für die Wirtschaft Deutschlands,
 
@@ -619,11 +627,11 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (3) Die Führung der im Rahmen von Stabilisierungsmaßnahmen erworbenen Beteiligungen und die Verwahrung und Verwaltung der anderen im Rahmen von Rekapitalisierungsmaßnahmen nach § 22 übernommenen Instrumente obliegt dem Bundesministerium der Finanzen.
 
-(4) Das Bundesministerium für Wirtschaft und Energie ist die fachlich zuständige Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den Unternehmen der Realwirtschaft und zuständig für die Vorbereitung der Anträge. Anträge sind über das Bundesministerium für Wirtschaft und Energie einzureichen. Für Anträge erstellt das Bundesministerium für Wirtschaft und Energie die Ausschussvorbereitung einschließlich des Votums. Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, der Kreditanstalt für Wiederaufbau in bestimmten Fällen die Entscheidung über Stabilisierungsmaßnahmen nach den §§ 21 und 22, die Wahrnehmung der Aufgaben im Sinne des Absatzes 3, die Entgegennahme und Bearbeitung der Anträge nach Satz 1 sowie die Vorbereitung von Entscheidungen durch den interministeriellen Ausschuss nach Absatz 1 übertragen; Absatz 1 Satz 2 bleibt unberührt. Die Kreditanstalt für Wiederaufbau kann sich nach Maßgabe einer nach Satz 4 erlassenen Rechtsverordnung bei der Erfüllung ihrer Aufgaben nach diesem Abschnitt geeigneter Dritter bedienen. Für die Kreditanstalt für Wiederaufbau gilt § 3b Absatz 1 bis 3 entsprechend. Für im Rahmen der Wirtschaftsstabilisierung beauftragte Dritte gelten § 3a Absatz 6a und § 3b Absatz 1 bis 3 entsprechend. Sofern Aufgaben der Finanzagentur oder der Kreditanstalt für Wiederaufbau nach diesem Gesetz von anderen juristischen oder natürlichen Personen wahrgenommen werden, ist vertraglich sicherzustellen, dass der Bundesrechnungshof auch Erhebungsrechte bei diesen Personen hat. Bei Stabilisierungsmaßnahmen nach § 22 sind Erhebungsrechte des Bundesrechnungshofes bei den betroffenen Unternehmen vorzusehen.
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz ist die fachlich zuständige Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den Unternehmen der Realwirtschaft und zuständig für die Vorbereitung der Anträge. Anträge sind über das Bundesministerium für Wirtschaft und Klimaschutz einzureichen. Für Anträge erstellt das Bundesministerium für Wirtschaft und Klimaschutz die Ausschussvorbereitung einschließlich des Votums. Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, der Kreditanstalt für Wiederaufbau in bestimmten Fällen die Entscheidung über Stabilisierungsmaßnahmen nach den §§ 21 und 22, die Wahrnehmung der Aufgaben im Sinne des Absatzes 3, die Entgegennahme und Bearbeitung der Anträge nach Satz 1 sowie die Vorbereitung von Entscheidungen durch den interministeriellen Ausschuss nach Absatz 1 übertragen; Absatz 1 Satz 2 bleibt unberührt. Die Kreditanstalt für Wiederaufbau kann sich nach Maßgabe einer nach Satz 4 erlassenen Rechtsverordnung bei der Erfüllung ihrer Aufgaben nach diesem Abschnitt geeigneter Dritter bedienen. Für die Kreditanstalt für Wiederaufbau gilt § 3b Absatz 1 bis 3 entsprechend. Für im Rahmen der Wirtschaftsstabilisierung beauftragte Dritte gelten § 3a Absatz 6a und § 3b Absatz 1 bis 3 entsprechend. Sofern Aufgaben der Finanzagentur oder der Kreditanstalt für Wiederaufbau nach diesem Gesetz von anderen juristischen oder natürlichen Personen wahrgenommen werden, ist vertraglich sicherzustellen, dass der Bundesrechnungshof auch Erhebungsrechte bei diesen Personen hat. Bei Stabilisierungsmaßnahmen nach § 22 sind Erhebungsrechte des Bundesrechnungshofes bei den betroffenen Unternehmen vorzusehen.
 
-(5) Der Wirtschaftsstabilisierungsfonds-Ausschuss ist besetzt mit je einem Vertreter des Bundeskanzleramts, des Bundesministeriums der Finanzen, des Bundesministeriums für Wirtschaft und Energie, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Justiz und Verbraucherschutz und des Bundesministeriums für Verkehr und digitale Infrastruktur. Dem Wirtschaftsstabilisierungsfonds-Ausschuss können weitere Mitglieder beratend angehören. Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie dem Wirtschaftsstabilisierungsfonds-Ausschuss eine Geschäftsordnung geben.
+(5) Der Wirtschaftsstabilisierungsfonds-Ausschuss ist besetzt mit je einem Vertreter des Bundeskanzleramts, des Bundesministeriums der Finanzen, des Bundesministeriums für Wirtschaft und Klimaschutz, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums der Justiz und des Bundesministeriums für Digitales und Verkehr. Dem Wirtschaftsstabilisierungsfonds-Ausschuss können weitere Mitglieder beratend angehören. Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz dem Wirtschaftsstabilisierungsfonds-Ausschuss eine Geschäftsordnung geben.
 
-(6) Die Richtlinien für die Verwaltung des Wirtschaftsstabilisierungsfonds bestimmt das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Der Haushaltsausschuss des Deutschen Bundestages ist über Erlass und Änderungen der Rechtsverordnungen nach Satz 1 und Absatz 4 unverzüglich zu unterrichten.
+(6) Die Richtlinien für die Verwaltung des Wirtschaftsstabilisierungsfonds, einschließlich der Anwendbarkeit haushaltsrechtlicher Bestimmungen, bestimmt das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Der Haushaltsausschuss des Deutschen Bundestages ist über Erlass und Änderungen der Rechtsverordnungen nach Satz 1 und Absatz 4 unverzüglich zu unterrichten.
 
 (7) Für den Wirtschaftsstabilisierungsfonds gilt § 5 entsprechend.
 
@@ -631,7 +639,7 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (1) Der Wirtschaftsstabilisierungsfonds wird ermächtigt, für den Wirtschaftsstabilisierungsfonds Garantien bis zur Höhe von 100 Milliarden Euro für vom 28. März 2020 bis zum 30. Juni 2022 begebene Schuldtitel und begründete Verbindlichkeiten von Unternehmen zu übernehmen, um Liquiditätsengpässe zu beheben und die Refinanzierung am Kapitalmarkt zu unterstützen; die Laufzeit der Garantien und der abzusichernden Verbindlichkeiten darf 60 Monate nicht übersteigen. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind. Für die Übernahme von Garantien ist eine angemessene Gegenleistung zu erheben.
 
-(2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
+(2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 1. die Art der Garantie und der Risiken, die durch sie abgedeckt werden können,
 
@@ -651,9 +659,9 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (1) Der Wirtschaftsstabilisierungsfonds kann sich an der Rekapitalisierung von Unternehmen beteiligen. Die Rekapitalisierungsmaßnahmen umfassen den Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen, Wandelanleihen, den Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen, wenn dies für die Stabilisierung des Unternehmens erforderlich ist. Für die Rekapitalisierung ist eine angemessene Vergütung zu vereinbaren.
 
-(2) Das Bundesministerium der Finanzen entscheidet im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie über die in Absatz 1 genannten Maßnahmen. Eine Beteiligung durch den Wirtschaftsstabilisierungsfonds soll nur dann erfolgen, wenn ein wichtiges Interesse des Bundes an der Stabilisierung des Unternehmens vorliegt und sich der vom Bund angestrebte Zweck nicht besser und wirtschaftlicher auf andere Weise erreichen lässt. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind oder die seit dem 1. Januar 2017 in mindestens einer abgeschlossenen Finanzierungsrunde von privaten Kapitalgebern mit einem Unternehmenswert von mindestens 50 Millionen Euro einschließlich des durch diese Runde eingeworbenen Kapitals bewertet wurden. Die §§ 65 bis 69 der Bundeshaushaltsordnung finden keine Anwendung.
+(2) Das Bundesministerium der Finanzen entscheidet im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz über die in Absatz 1 genannten Maßnahmen. Eine Beteiligung durch den Wirtschaftsstabilisierungsfonds soll nur dann erfolgen, wenn ein wichtiges Interesse des Bundes an der Stabilisierung des Unternehmens vorliegt und sich der vom Bund angestrebte Zweck nicht besser und wirtschaftlicher auf andere Weise erreichen lässt. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind oder die seit dem 1. Januar 2017 in mindestens einer abgeschlossenen Finanzierungsrunde von privaten Kapitalgebern mit einem Unternehmenswert von mindestens 50 Millionen Euro einschließlich des durch diese Runde eingeworbenen Kapitals bewertet wurden. Die §§ 44 und 65 bis 69 der Bundeshaushaltsordnung finden keine Anwendung.
 
-(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
+(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 1. die Gegenleistung und die sonstigen Bedingungen der Rekapitalisierung,
 
@@ -685,7 +693,7 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (2) Unternehmen, die Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds nach den §§ 21 und 22 dieses Gesetzes in Anspruch nehmen, müssen die Gewähr für eine solide und umsichtige Geschäftspolitik bieten. Sie sollen insbesondere einen Beitrag zur Stabilisierung von Produktionsketten und zur Sicherung von Arbeitsplätzen leisten. Zur Sicherstellung der in den Sätzen 1 und 2 genannten Bedingungen können Auflagen mit den Begünstigten der Stabilisierungsmaßnahme vereinbart werden. Soweit in den Sitzungen des Aufsichtsrats von stabilisierten Unternehmen Vertreter der Finanzagentur oder der Kreditanstalt für Wiederaufbau als Sachverständige hinzugezogen oder als Vertreter benannt werden, sind diese von den Vorgaben der §§ 25c und 25d des Kreditwesengesetzes befreit. Satz 4 gilt entsprechend für Unternehmen, die Gegenstand von durch andere inländische Gebietskörperschaften errichtete, mit dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen gewährten Stabilisierungsmaßnahmen sind, soweit in den Sitzungen dieser stabilisierten Unternehmen Vertreter der entsprechenden Finanzagentur oder einer Landesförderbank oder -anstalt als Sachverständige hinzugezogen oder als Vertreter benannt werden.
 
-(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die von den begünstigten Unternehmen zu erfüllenden Anforderungen an
+(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die von den begünstigten Unternehmen zu erfüllenden Anforderungen an
 
 1. die Verwendung der aufgenommenen Mittel,
 
@@ -717,11 +725,67 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (1) Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds sind bis zum 30. Juni 2022 möglich. Anträge nach § 20 Absatz 1 Satz 1 können bis zum 30. April 2022 gestellt werden. Wenn der Wirtschaftsstabilisierungsfonds seine Aufgaben erfüllt hat, ist er abzuwickeln und aufzulösen. Für den Wirtschaftsstabilisierungsfonds ist ein Schlussergebnis zu ermitteln.
 
-(2) Der Wirtschaftsstabilisierungsfonds kann sich auch nach dem 30. Juni 2022 an Unternehmen nach § 16 Absatz 2 beteiligen, an denen er auf Grund von Maßnahmen nach § 22 bereits beteiligt ist, soweit dies erforderlich ist, um den Anteil seiner Kapitalbeteiligung an dem Unternehmen aufrechtzuerhalten oder gewährte Stabilisierungsmaßnahmen abzusichern.
+(2) Der Wirtschaftsstabilisierungsfonds kann Unternehmen, an deren Rekapitalisierung er sich bis zum 30. Juni 2022 auf Grund von Maßnahmen nach § 22 bereits beteiligt hat, auch danach weitere Stabilisierungsmaßnahmen nach den §§ 21 und 22 gewähren oder bestehende Stabilisierungsmaßnahmen in andere Stabilisierungsmaßnahmen überführen, soweit dies erforderlich ist, um gewährte Stabilisierungsmaßnahmen oder Teile hiervon abzusichern oder aufrechtzuerhalten. Der Wirtschaftsstabilisierungsfonds ist auch in diesen Fällen zur Vornahme der in den §§ 58 und 59 der Bundeshaushaltsordnung genannten Rechtsgeschäfte berechtigt.
 
 (3) Die Einzelheiten der Abwicklung und Auflösung des Wirtschaftsstabilisierungsfonds bestimmt die Bundesregierung jeweils durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die der Zustimmung des Deutschen Bundestages bedarf.
 
 (4) § 13 Absatz 5 gilt entsprechend.
+
+# § 26a – Maßnahmen; Verordnungsermächtigung
+
+(1) Zur Erfüllung des Zwecks nach § 16 Absatz 4 sind Ausgaben des Wirtschaftsstabilisierungsfonds zulässig für
+
+1. die Finanzierung staatlicher Programme zur Abfederung von Preissteigerungen beim Bezug und der Nutzung von Gas und Fernwärme insbesondere durch Verbraucherinnen, Verbraucher und Unternehmen (Gaspreisbremse),
+
+2. die Finanzierung und Zwischenfinanzierung von Programmen zur Abfederung von Preissteigerungen beim Bezug von Strom insbesondere durch Verbraucherinnen, Verbraucher und Unternehmen (Strompreisbremse),
+
+3. die Finanzierung von Stützungsmaßnahmen für auf Grund der Energiekrise in Schwierigkeiten geratene Unternehmen, insbesondere soweit sie nicht in ausreichendem Ausmaß von der Strom- und Gaspreisbremse erfasst werden, sowie für Gasimporteure, die für die Marktstabilität relevant sind, inklusive der Finanzierung der Ersatzbeschaffungen an den Energiemärkten, soweit sie nicht in ausreichendem Ausmaß von der Gaspreisbremse erfasst werden, sowie
+
+4. die Darlehensgewährung an die Kreditanstalt für Wiederaufbau zur Refinanzierung von Programmen und Stützungsmaßnahmen nach den Nummern 1 bis 3, soweit ihr entsprechende Geschäfte von der Bundesregierung auf Grund des § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau zugewiesen werden; die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
+
+Die Programme und Maßnahmen nach Satz 1 können insbesondere die Möglichkeit der Gewährung von Zuschüssen, Rekapitalisierungsmaßnahmen und Krediten umfassen. Die Finanzierung nach Satz 1 schließt Regelungen für Härtefälle nicht aus.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über die formalen und materiellen Voraussetzungen der Weiterreichung der Mittel des Wirtschaftsstabilisierungsfonds an die mit der Administration und Durchführung der Programme und Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3 betrauten Behörden und sonstigen Stellen, insbesondere über
+
+1. Anforderungen an zahlungsbegründende Unterlagen, Dokumentation der Mittelverwendung oder Zeitpunkt der Einreichung,
+
+2. Obergrenzen für Maximalauszahlungen in zu definierenden Zeiträumen sowie
+
+3. sonstige Vorgaben zur Sicherstellung der Zweckgebundenheit der Auszahlungen gemäß § 16 Absatz 4.
+
+# § 26b – Kreditermächtigung zur Finanzierung von Maßnahmen nach § 26a
+
+(1) Das Bundesministerium der Finanzen wird für das Jahr 2022 ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Finanzierung von Maßnahmen nach § 26a Absatz 1 Kredite in Höhe von 200 Milliarden Euro aufzunehmen. Die Kreditaufnahme ist bei der Feststellung der Kreditaufnahme nach Artikel 115 des Grundgesetzes für das Jahr 2022 und die sich daraus ergebende Tilgungsverpflichtung zu berücksichtigen. Die Kosten der Kreditaufnahme sind vom Wirtschaftsstabilisierungsfonds zu tragen.
+
+(2) Das Bundesministerium der Finanzen wird über Absatz 1 hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds im Jahr 2022 und in den folgenden Jahren Kredite in Höhe der jeweils zur Tilgung fällig werdenden Beträge aufzunehmen.
+
+(3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag anzurechnen.
+
+(4) Der Wirtschaftsstabilisierungsfonds kann zur Finanzierung der Aufgaben für Maßnahmen nach § 26a eine Rücklage bilden. Den Rücklagen sind bis zum Abschluss des Haushaltsjahres 2022 die bis zu diesem Zeitpunkt nicht benötigten Mittel aus der Kreditaufnahme nach Absatz 1 Satz 1 und in den Folgejahren jeweils bis zum Abschluss des Haushaltsjahres alle nicht verausgabten Mittel zuzuführen. Darüber hinaus fließen sämtliche Einnahmen und Rückflüsse aus den Maßnahmen nach § 26a Absatz 1, einschließlich Zinsen, Tilgungen und aus der Auflösung von Beteiligungen, dem Wirtschaftsstabilisierungsfonds zu. Die Mittel stehen in den Folgejahren zur Finanzierung von Maßnahmen nach § 26a einschließlich der Finanzierungskosten zur Verfügung.
+
+(5) Der Wirtschaftsstabilisierungsfonds kann überschüssige Liquidität auch in Forderungen an den Bund anlegen.
+
+# § 26c – Wirtschaftsplan und Haushaltsrecht
+
+Alle Einnahmen und Ausgaben des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes werden in einem jährlichen Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Der Wirtschaftsplan für das Jahr 2022 ergibt sich aus der Anlage. Ab dem Wirtschaftsjahr 2023 wird der Wirtschaftsplan dem Haushaltsgesetz als Anlage beigefügt. Er wird ab dem Jahr 2023 zusammen mit dem Haushaltsgesetz festgestellt.
+
+# § 26d – Rechnungslegung
+
+Die Bundesregierung legt jährlich zum Stichtag des 31. Dezember Rechnung über die Einnahmen und Ausgaben sowie über das Vermögen und die Schulden für den Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes. Die Rechnungen sind als Übersichten der Haushaltsrechnung des Bundes beizufügen.
+
+# § 26e – Berichtspflichten; Parlamentarische Kontrolle
+
+(1) Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen Bundestages ab dem 1. Januar 2023 mindestens halbjährlich über die Verwendung der bis dahin verausgabten Mittel des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes.
+
+(2) § 10a gilt entsprechend.
+
+# § 26f – Verwaltungskosten
+
+Die Kosten für die Verwaltung des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes trägt der Bund.
+
+# § 26g – Befristung
+
+Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1 Satz 1 Nummer 1 bis 3 sind bis zum Ablauf des 30. Juni 2024 möglich.
 
 # § 27 – Steuern
 
@@ -748,3 +812,208 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über �
 # § 31 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+
+# Anlage – Wirtschaftsplan des Wirtschaftsstabilisierungsfonds Abschnitt 2 Teil 3: Abfederung der Folgen der Energiekrise
+
+(Fundstelle: BGBl. I 2022, 1906 — 1908)
+
+  
+  
+
+Veranschlagt sind die Einnahmen und Ausgaben des Bundes aus den Maßnahmen zur Abfederung der Folgen der Energiekrise im Zusammenhang mit dem russischen Krieg gegen die Ukraine beim Bezug von Strom und Gas in Deutschland gemäß § 16 Absatz 4 und § 26a des Stabilisierungsfondsgesetzes. Aus dem Wirtschaftsplan können Maßnahmen nach § 26a Absatz 1 Satz 1 Nummer 1 bis 4 finanziert werden. Das Bundesministerium für Wirtschaft und Klimaschutz bewirtschaftet Teil 3 des Sondervermögens und stellt den Beauftragten für den Haushalt gemäß § 9 in Verbindung mit § 113 der Bundeshaushaltsordnung.   
+
+Überblick zur Anlage
+
+Soll  
+2022  
+1 000 €
+
+Soll  
+2021  
+1 000 €
+
+Veränderung  
+gegenüber  
+2021  
+1 000 €
+
+Ausgabereste 2021  
+1 000 €
+
+Ist  
+2020  
+1 000 €
+
+Einnahmen
+
+Verwaltungseinnahmen ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Übrige Einnahmen ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gesamteinnahmen ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ausgaben
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schuldendienst ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zuweisungen und Zuschüsse (ohne Investitionen) ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ausgaben für Investitionen ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Besondere Finanzierungsausgaben ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gesamtausgaben ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+davon nicht flexibilisiert ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Verpflichtungsermächtigung  
+im Haushalt 2022
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Verpflichtungsermächtigung ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+davon fällig:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+im Haushaltsjahr 20XX bis zu ..........
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
