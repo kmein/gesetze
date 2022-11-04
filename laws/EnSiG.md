@@ -7,6 +7,44 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # Inhaltsübersicht
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 # § 1 – Sicherung der Energieversorgung; Verordnungsermächtigung
 
 (1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall zu sichern, daß die Energieversorgung unmittelbar gefährdet oder gestört und die Gefährdung oder Störung der Energieversorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist, können durch Rechtsverordnung Vorschriften erlassen werden über
@@ -644,6 +682,10 @@ der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), d
 
 (4) Die Absätze 1 bis 3 sind nur bis zum Ablauf des 30. September 2024 anzuwenden.
 
-# § 31 – Inkrafttreten
+# § 31 – Besteuerung
+
+§ 14 Absatz 3 Satz 1 und Absatz 4 des Stabilisierungsfondsgesetzes finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes mit der Maßgabe entsprechend Anwendung, dass an die Stelle des Fonds der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
+
+# § 32 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft.

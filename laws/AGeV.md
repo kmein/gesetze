@@ -127,8 +127,6 @@ dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen Stoffe hinau
 
 2. er weist den gegenüber den Erzeugnissen mit einer Gattungsbezeichnung höheren Mindestalkoholgehalt auf, sofern ein solcher höherer Mindestalkoholgehalt in der jeweiligen Produktspezifikation des Erzeugnisses mit einer eingetragenen geografischen Angabe, in dessen abgegrenztem geografischen Gebiet die Region oder der Ort, die oder der in der geografischen Bezugnahme genannt wird, liegt, festgesetzt worden ist.
 
-# § 9a – (weggefallen)
-
 # § 10 – Begriffsbestimmungen
 
 (1) Weinähnliche Getränke sind alkoholhaltige Getränke, die durch teilweise oder vollständige alkoholische Gärung aus Fruchtsaft, Fruchtmark, jeweils auch in konzentrierter Form, oder Maische von frischen oder mit Kälte haltbar gemachten Früchten, auch in Mischung miteinander, oder aus frischen oder mit Kälte haltbar gemachten Rhabarberstängeln, aus Malzauszügen oder aus Honig sowie im Übrigen nach Maßgabe der Verkehrsauffassung hergestellt werden.
@@ -434,5 +432,3 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 | Hamburg:                | HH-, | Sachsen-Anhalt:      | ST-, |
 | Hessen:                 | HE-, | Schleswig-Holstein:  | SH-, |
 | Mecklenburg-Vorpommern: | MV-, | Thüringen:           | TH-. |
-
-# Anlage 4 – (weggefallen)
