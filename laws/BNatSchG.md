@@ -2311,7 +2311,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 
 # Anlage 1 – (zu § 45b Absatz 1 bis 5)
 
-(Fundstelle: BGBl. I 2022, 1365 - 1367)
+(Fundstelle des Originaltextes: BGBl. I 2022, 1365 - 1367)
 
 Abschnitt 1
 
