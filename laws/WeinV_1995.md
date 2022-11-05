@@ -1015,70 +1015,6 @@ beträgt,
 
 8. eine Geschmacksangabe nicht verwendet wird.
 
-# § 32b – Erstes Gewächs und Großes Gewächs(zu den §§ 16a und 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
-
-(1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart Weißwein oder Rotwein handelt und
-
-1. eine einzige Rebsorte angegeben wird,
-
-2. er ausschließlich aus Weintrauben von zum Gebietsprofil passenden und in der jeweiligen Produktspezifikation festgelegten Rebsorten hergestellt worden ist, ausgenommen die zur Süßung verwendeten Erzeugnisse,
-
-3. die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren Ertrag
-
-a) 60 Hektoliter je Hektar oder
-
-b) 70 Hektoliter je Hektar, soweit die verwendeten Weintrauben von Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
-
-an Traubenmost nicht überschritten hat,
-
-4. die zur Herstellung verwendeten Weintrauben unter Berücksichtigung ihres Gesundheits- und Reifezustands selektiv gelesen worden sind,
-
-5. der zur Herstellung verwendete Traubenmost einen natürlichen Mindestalkoholgehalt von mindestens 11,0 Volumenprozent aufweist,
-
-6. eine Einzellage oder eine kleinere geografische Einheit nach § 23 Absatz 1 Nummer 2 des Weingesetzes angegeben wird,
-
-7. der Jahrgang angegeben wird,
-
-8. er die nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union bei Wein geltenden Anforderungen für die Verwendung der Geschmacksangabe „trocken“ einhält,
-
-9. eine Geschmacksangabe nicht verwendet wird,
-
-10. er nicht vor dem 1. März des auf das Erntejahr der verwendeten Trauben folgenden Jahres an Endverbraucher abgegeben wird,
-
-11. eine Prädikatsangabe in der Kennzeichnung nicht verwendet wird.
-
-In der jeweiligen Produktspezifikation kann festgelegt werden, dass der Wein besondere gebiets- und rebsortentypische Merkmale aufweisen muss und einer nach Zeitpunkt, Bedingungen und Verfahren festgelegten gesonderten sensorischen Prüfung unterliegt.
-
-(2) Die Bezeichnung „Großes Gewächs“ darf nur verwendet werden, wenn es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart Weißwein oder Rotwein handelt und
-
-1. die Anforderungen nach Absatz 1 Nummer 1, 2, 6 bis 9 und 11 erfüllt sind,
-
-2. die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren Ertrag
-
-a) 50 Hektoliter je Hektar oder
-
-b) 60 Hektoliter je Hektar, soweit die verwendeten Weintrauben von Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
-
-an Traubenmost nicht überschritten hat,
-
-3. die zur Herstellung verwendeten Weintrauben von Hand gelesen worden sind,
-
-4. der zur Herstellung verwendete Traubenmost einen natürlichen Mindestalkoholgehalt von mindestens 12,0 Volumenprozent aufweist,
-
-5. er zum Zeitpunkt einer in der jeweiligen Produktspezifikation festgelegten gesonderten Prüfung, die nicht später als sechs Monate nach Zuteilung einer amtlichen Prüfungsnummer erfolgen darf, die besonderen gebiets- und rebsortentypischen sensorischen Merkmale aufweist und
-
-6. er nicht vor dem 1. September des auf das Erntejahr der verwendeten Trauben folgenden Jahres an Endverbraucher abgegeben wird. Für Rotweine verlängert sich diese Frist um neun Monate.
-
-(3) In der jeweiligen Produktspezifikation können zusätzliche und strengere Anforderungen für die Verwendung der Bezeichnung „Erstes Gewächs“ und „Großes Gewächs“ festgelegt werden, soweit dies erforderlich ist, um regionalen Gegebenheiten Rechnung zu tragen, insbesondere hinsichtlich
-
-1. der erforderlichen natürlichen Mindestalkoholgehalte der verwendeten Traubenmoste,
-
-2. der maximalen Erträge je Hektar,
-
-3. der Abgrenzung oder Anmeldung besonderer Anbauflächen.
-
-(4) Bestehende Bezeichnungen, die die Begriffe „Erstes Gewächs“ oder „Großes Gewächs“ enthalten, dürfen weiterverwendet werden, wenn sie die in den Absätzen 1 bis 3 genannten Mindestanforderungen erfüllen.
-
 # § 32b – Erstes Gewächs und Großes Gewächs(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 (1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart Weißwein oder Rotwein handelt und
@@ -1383,32 +1319,6 @@ d) muss der Traubenmost oder die Maische im gärfähig befüllten Behältnis min
 
 In den jeweiligen Produktspezifikationen können strengere und insbesondere hinsichtlich des Hektarertrages weitere Anforderungen als die in Satz 1 vorgesehenen festgelegt werden.
 
-(2) Bei inländischen weinhaltigen Getränken darf ein Hinweis auf die Herkunft der zu ihrer Herstellung verwendeten Erzeugnisse nicht verwendet werden.
-
-# § 39 – Geografische Angaben(zu § 24 Absatz 2 und 3 Nummer 4 und 5 in Verbindung mit § 54 Absatz 1 des Weingesetzes)
-
-(1) Wird zur Bezeichnung eines Qualitätsweines, Prädikatsweines, Sekts b.A., Qualitätslikörweines b.A. oder Qualitätsperlweines b.A. durch den nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 verantwortlichen Lebensmittelunternehmer beim Inverkehrbringen der Name
-
-1. eines Bereichs oder einer Großlage verwendet, ist diesem deutlich lesbar und unverwischbar in gleicher Farbe, Schriftart und Schriftgröße stets die Bezeichnung „Region“ unmittelbar voranzustellen,
-
-2. einer Gemeinde oder eines Ortsteils verwendet,
-
-a) muss der Traubenmost oder die Maische im gärfähig befüllten Behältnis mindestens den für das Prädikat Kabinett vorgeschriebenen natürlichen Mindestalkoholgehalt aufgewiesen haben und
-
-b) darf das Erzeugnis nicht vor dem 15. Dezember des Erntejahrgangs der verwendeten Trauben an Endverbraucher abgegeben werden,
-
-3. einer Einzellage oder einer kleineren geografischen Einheit nach § 23 Absatz 1 Nummer 2 des Weingesetzes verwendet,
-
-a) ist diesem deutlich lesbar und unverwischbar in gleicher Farbe und in einer Schriftgröße, bei der die Buchstaben unabhängig von der verwendeten Schriftart mindestens 1,2 Millimeter groß sind, stets der Gemeinde- oder Ortsteilname unmittelbar voranzustellen oder anzufügen,
-
-b) darf das Erzeugnis nicht vor dem 1. März des auf den Erntejahrgang der verwendeten Trauben folgenden Kalenderjahres an Endverbraucher abgegeben werden,
-
-c) darf das Erzeugnis mit Ausnahme der zur Süßung verwendeten Erzeugnisse nur aus einer in der jeweiligen Produktspezifikation dafür festgelegten Rebsorte oder mehreren solcher Rebsorten hergestellt worden sein,
-
-d) muss der Traubenmost oder die Maische im gärfähig befüllten Behältnis mindestens den für das Prädikat Kabinett vorgeschriebenen natürlichen Mindestalkoholgehalt aufgewiesen haben.
-
-In den jeweiligen Produktspezifikationen können strengere und insbesondere hinsichtlich des Hektarertrages weitere Anforderungen als die in Satz 1 vorgesehenen festgelegt werden.
-
 (2) (weggefallen)
 
 # § 39a – Geografische Bezeichnungen mit EU-Schutz (zu § 22c Absatz 8 Nummer 3, den §§ 22d und 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
@@ -1450,52 +1360,6 @@ Bei Perlwein und Perlwein mit zugesetzter Kohlensäure dürfen nur die Geschmack
 3. mild bei einem Restzuckergehalt von mehr als 50 Gramm je Liter
 
 verwendet werden.
-
-# § 42 – Rebsortenangaben(zu § 24 Absatz 2 des Weingesetzes)
-
-(1) Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Rebsorte nach Maßgabe des Artikels 50 Absatz 1 Buchstabe a der Delegierten Verordnung (EU) 2019/33 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten stammen.
-
-(2) Bei einem Wein, ausgenommen Perlwein, Schaumwein und Qualitätsschaumwein, aus Erzeugnissen ab dem Erntejahrgang 2011, der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 bezeichnet ist, ist die Angabe der Bezeichnung einer der folgenden Rebsorten unzulässig:
-
-1. Blauer Frühburgunder,
-
-2. Blauer Limberger,
-
-3. Blauer Portugieser,
-
-4. Blauer Silvaner,
-
-5. Blauer Spätburgunder,
-
-6. Blauer Trollinger,
-
-7. Dornfelder,
-
-8. Grauer Burgunder,
-
-9. Grüner Silvaner,
-
-10. Müller-Thurgau,
-
-11. Müllerrebe,
-
-12. Roter Elbling,
-
-13. Roter Gutedel,
-
-14. Roter Riesling,
-
-15. Roter Traminer,
-
-16. Weißer Burgunder,
-
-17. Weißer Elbling,
-
-18. Weißer Gutedel,
-
-19. Weißer Riesling.
-
-Dies gilt auch für Synonyme der unter den in Satz 1 Nummer 1 bis 19 aufgeführten Bezeichnungen von Rebsorten.
 
 # § 42 – Rebsortenangaben(zu § 24 Absatz 2 des Weingesetzes)
 
@@ -1626,48 +1490,6 @@ Die Angaben sind so bereitzustellen, dass der Endverbraucher oder der Anbieter v
 3. die schriftliche Aufzeichnung für die zuständige Behörde und auf Nachfrage auch für die Endverbraucher leicht zugänglich ist.
 
 Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte muss an gut sichtbarer Stelle, deutlich und gut lesbar darauf hingewiesen werden, dass die nach Absatz 2 erforderlichen Angaben mündlich bereitgestellt werden und eine schriftliche Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz 4 gilt entsprechend.
-
-# § 47 – Alkoholfreier und alkoholreduzierter Wein(zu § 26 Absatz 3 Satz 1 des Weingesetzes)
-
-(1) Getränke, die nicht Erzeugnisse im Sinne des Weingesetzes sind, dürfen hergestellt und in den Verkehr gebracht werden, wenn sie
-
-1. aus Wein unter schonender Entgeistung durch thermische Prozesse, Membranprozesse, bei deren Anwendung eine Volumenverminderung des Weines von höchstens 25 vom Hundert eintreten darf, oder Extraktion mit flüssigem Kohlendioxid hergestellt wurden,
-
-2. weniger als 0,5 Volumenprozent Alkohol enthalten und
-
-3. als „alkoholfreier Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "alkoholfreier Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
-
-(2) Getränke, die nicht Erzeugnisse im Sinne des Weingesetzes sind, dürfen hergestellt und in den Verkehr gebracht werden, wenn sie
-
-1. aus Wein unter schonender Entgeistung durch thermische Prozesse, Membranprozesse, bei deren Anwendung eine Volumenverminderung des Weines von höchstens 25 vom Hundert eintreten darf, oder Extraktion mit flüssigem Kohlendioxid oder durch Vermischen von entalkoholisiertem Wein mit Wein hergestellt wurden,
-
-2. mindestens 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol enthalten und
-
-3. als „alkoholreduzierter Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "alkoholreduzierter Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
-
-(3) Schäumende Getränke, die durch Vergärung oder unter Zusatz von Kohlensäure aus Getränken, die den Bestimmungen des Absatzes 1 entsprechen, hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr gebracht werden, wenn sie
-
-1. weniger als 0,5 Volumenprozent Alkohol enthalten und
-
-2. als „Schäumendes Getränk aus alkoholfreiem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "Schäumendes Getränk aus alkoholfreiem Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
-
-(4) Schäumende Getränke, die durch Vergärung oder unter Zusatz von Kohlensäure aus Getränken, die den Bestimmungen des Absatzes 2 entsprechen, hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr gebracht werden, wenn sie
-
-1. mehr als 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol enthalten und
-
-2. als „Schäumendes Getränk aus alkoholreduziertem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "Schäumendes Getränk aus alkoholreduziertem Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
-
-(4a) In den Fällen des Absatzes 1 Satz 1 Nummer 3, des Absatzes 2 Satz 1 Nummer 3, des Absatzes 3 Satz 1 Nummer 2 und des Absatzes 4 Satz 1 Nummer 2 kann der Name einer einzigen Rebsorte angegeben werden, soweit diese Rebsorte die Art der dort genannten Getränke bestimmt.
-
-(5) Die in den Absätzen 1 bis 4 genannten Getränke dürfen nur in den Verkehr gebracht werden, wenn bei ihrer Herstellung Wasser und, soweit sie gesüßt worden sind, zur Süßung ein anderer Stoff als Saccharose oder andere Erzeugnisse als Traubenmost oder rektifiziertes Traubenmostkonzentrat nicht zugesetzt worden sind.
 
 # § 47 – Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein(zu § 26 Absatz 3 Satz 1 des Weingesetzes)
 
@@ -1836,66 +1658,6 @@ ohne dass die dort bezeichneten Erzeugnisse den festgelegten Anforderungen entsp
 23. entgegen § 49 Absatz 4 Satz 1 die vorgeschriebenen Worte nicht voranstellt oder,
 
 24. entgegen § 49 Absatz 5 eine Marke verwendet.
-
-# § 54 – Übergangsregelungen
-
-(1) Abweichend von § 33 Absatz 1 dürfen Qualitätsweine der bestimmten Anbaugebiete Nahe, Pfalz, Rheingau und Rheinhessen als Liebfrauenmilch (Liebfraumilch) bezeichnet werden, wenn sie überwiegend aus Trauben der Rebsorten Riesling, Silvaner, Müller-Thurgau oder Kerner hergestellt sind, die bis zum 31. August 1990 geerntet worden sind, und die Weine im Übrigen den Anforderungen des § 33 Absatz 1 entsprechen.
-
-(2) Abweichend von § 50 dürfen die dort genannten Erzeugnisse, die vor dem 31. Januar 1993
-
-1. in den Verkehr gebracht worden sind, weiter ohne die Angabe nach § 50 Absatz 1,
-
-2. etikettiert worden sind, ohne die Angabe nach § 50 Absatz 1
-
-in den Verkehr gebracht werden.
-
-(3) Soweit in Rechtsakten der Europäischen Gemeinschaft nichts anderes bestimmt ist, dürfen
-
-1. Erzeugnisse, die vor dem 1. September 1995 nach den bis dahin geltenden Vorschriften bezeichnet und aufgemacht worden sind, bis zur Erschöpfung der Bestände in den Verkehr gebracht oder ausgeführt werden,
-
-2. Etiketten, die vor dem 1. September 1995 nach den bis dahin geltenden Vorschriften gedruckt worden sind und deren Verwendung nach den Vorschriften dieser Verordnung nicht mehr zulässig ist, bis zum 31. August 1996 verwendet werden.
-
-(4) Soweit in Rechtsakten der Europäischen Gemeinschaft nichts anderes bestimmt ist, dürfen
-
-1. Erzeugnisse, die vor dem 24. Juli 1996 nach den bis dahin geltenden Vorschriften bezeichnet und aufgemacht worden sind, bis zur Erschöpfung der Bestände in den Verkehr gebracht oder ausgeführt werden,
-
-2. Etiketten, die vor dem 24. Juli 1996 nach den bis dahin geltenden Vorschriften gedruckt worden sind und deren Verwendung nach den Vorschriften dieser Verordnung nicht mehr zulässig ist, bis zum 24. Juli 1997 verwendet werden.
-
-(5) Erzeugnisse, die vor dem 25. November 2005 abgefüllt und gekennzeichnet worden sind und hinsichtlich ihrer Kennzeichnung den Vorschriften dieser Verordnung in der ab dem 10. Dezember 2005 geltenden Fassung nicht entsprechen, dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(6) Einem Wein, der vor dem 7. Dezember 2006 unter Verwendung von Eichenholzstücken im Sinne des Anhanges IV Nummer 4 Buchstabe e der Verordnung (EG) Nummer 1493/1999 behandelt worden ist, darf abweichend von § 21 Absatz 3 eine amtliche Prüfungsnummer für einen Prädikatswein zugeteilt werden.
-
-(7) Bei inländischem Qualitätswein und Prädikatswein, der aus Trauben der Ernte 2007 oder früherer Ernten hergestellt ist, darf die Angabe „im Barrique gereift“ nach Maßgabe der bis zum 12. Oktober 2007 geltenden Vorschriften verwendet werden.
-
-(8) Erzeugnisse, die vor dem 13. Oktober 2007 nach den bis dahin geltenden Vorschriften gekennzeichnet worden sind, dürfen bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(9) Bis zum Ablauf des 14. August 2008 dürfen aromatisierte weinhaltige Getränke, aromatisierte weinhaltige Cocktails und aromatisierter Wein nach den bis zum 14. Februar 2008 geltenden Vorschriften gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
-
-(10) Erzeugnisse dürfen vorbehaltlich des Satzes 2 noch bis zum 31. Mai 2009 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden. Erzeugnisse, die unter Verwendung von in Anlage 12 Nummer 13 und 14 genannten Zutaten hergestellt worden sind, dürfen noch bis zum 23. Dezember 2008 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(11) Abweichend von Absatz 10 Satz 1 dürfen die in Artikel 51 der Verordnung (EG) Nr. 607/2009 genannten Erzeugnisse über den 31. Mai 2009 hinaus bis zum 31. Dezember 2010 nach den bis zum 18. März 2008 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(12) Erzeugnisse dürfen bis zum 31. Dezember 2010 noch nach den bis zum 25. Juni 2010 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(13) § 10 Absatz 1 in der sich aus der Neunten Verordnung zur Änderung weinrechtlicher Vorschriften vom 19. Juli 2011 (BGBl. I S. 1514) ergebenden Fassung ist auf Antrag eines Weintrauben, Traubenmost oder teilweise gegorenen Traubenmost übernehmenden Betriebes auch für Erzeugnisse des Erntejahrgangs 2010 zugrunde zu legen, soweit sich aus der Anwendung der Umrechnungsfaktoren beim abgebenden Weinbaubetrieb keine Überschreitung des Hektarertrages im Sinne des § 9 des Weingesetzes für das Erntejahr 2010 ergibt.
-
-(14) § 38 Absatz 1a ist erst ab dem 1. Januar 2015 anzuwenden; bis zu diesem Zeitpunkt abgefüllte Erzeugnisse und Getränke dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(15) Abweichend von § 34b Absatz 1, § 47 Absatz 1 Satz 1 Nummer 3, § 47 Absatz 2 Satz 1 Nummer 3, § 47 Absatz 3 Satz 1 Nummer 2 und § 47 Absatz 4 Satz 1 Nummer 2 dürfen Erzeugnisse
-
-1. noch bis zum 31. Juli 2016 nach den bis zum Ablauf des 11. Januar 2016 geltenden Vorschriften gekennzeichnet und
-
-2. bis zum Aufbrauchen der Bestände in den Verkehr gebracht
-
-werden.
-
-(16) Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2025 dürfen nach der bis zum Ablauf des 7. Mai 2021 geltenden Fassung des § 39 gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(17) Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2025 dürfen nach der bis zum 7. Mai 2021 geltenden Fassung des § 42 Absatz 2 gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden. Abweichend von § 42 Absatz 2 dürfen Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2020 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(18) Abweichend von § 32 Absatz 3 dürfen Erzeugnisse aus Trauben einschließlich des Erntejahrgangs 2020 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
-(19) Abweichend von § 32b dürfen Erzeugnisse aus Trauben bis einschließlich des Erntejahrgangs 2023 nach den bis zum Ablauf des 7. Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 # § 54 – Übergangsregelungen
 
