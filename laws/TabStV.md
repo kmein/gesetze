@@ -105,7 +105,7 @@ Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahme
 
 # § 8 – Änderung von Verhältnissen
 
-(1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach § 5 Absatz 1 und 2 Satz 1 angegebenen Verhältnisse vor der Änderung schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
+(1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach § 5 Absatz 1, 2 Satz 1 und Absatz 3 Satz 1 angegebenen Verhältnisse vor der Änderung schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
 
 1. eine Unternehmensumwandlung nach den Vorschriften des Umwandlungsgesetzes,
 
@@ -476,7 +476,7 @@ Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den Empfänger 
 
 (3) Packungen mit Tabakwaren, die verschiedenen Steuersätzen unterliegen, sind unzulässig. Auf allen Packungen muss deutlich lesbar die Menge angegeben sein. Ausgenommen sind Packungen mit Zigaretten und Rauchtabak, an denen Steuerzeichen angebracht sind.
 
-(4) Für Rauchtabak sind nur Packungen zulässig, deren Inhalte nicht auf Bruchteile eines Gramms lauten. Für Wasserpfeifentabak nach § 1 Absatz 2b des Gesetzes sind nur Packungen mit einer Menge bis zu 25 Gramm zulässig.
+(4) Für Rauchtabak sind nur Packungen zulässig, deren Inhalte nicht auf Bruchteile eines Gramms lauten. Bei Substituten für Tabakwaren sind bei Packungsinhalten bis zu 5 Milliliter nur Packungen zulässig, deren Inhalte auf nicht mehr als eine Dezimalstelle lauten. Andere Packungen sind nur zulässig, wenn deren Inhalte nicht auf Bruchteile eines Milliliters lauten. Für Wasserpfeifentabak nach § 1 Absatz 2b des Gesetzes sind nur Packungen mit einer Menge bis zu 25 Gramm zulässig.
 
 (5) Die Packungen dürfen unterteilt sein. Allseitige Verpackungen von Teilmengen sind jedoch nur zulässig für
 
@@ -486,7 +486,9 @@ Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den Empfänger 
 
 3. jeweils zehn Zigarren oder Zigarillos mit gleich bleibendem Umfang in weichen Umschließungen, wenn ihr Gesamtpreis nicht auf Bruchteile eines Cents lautet,
 
-4. höchstens drei Zigarren oder Zigarillos oder Mengen von 2,5 Gramm oder 5 Gramm Pfeifentabak, wenn die Unterteilungen unentgeltlich als Proben oder zu Werbezwecken an Verbraucherinnen und Verbraucher abgegeben werden sollen und entsprechend gekennzeichnet sind.
+4. höchstens drei Zigarren oder Zigarillos oder Mengen von 2,5 Gramm oder 5 Gramm Pfeifentabak, wenn die Unterteilungen unentgeltlich als Proben oder zu Werbezwecken an Verbraucherinnen und Verbraucher abgegeben werden sollen und entsprechend gekennzeichnet sind,
+
+5. Substitute für Tabakwaren mit einer Menge von insgesamt bis zu 5 Millilitern.
 
 # § 32 – Bezug der Steuerzeichen
 
@@ -516,11 +518,11 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 # § 33 – Berechnung des Steuerwerts und der Steuer
 
-(1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm Rauchtabak und aus der Mengenangabe auf dem Steuerzeichen berechnet. Für erhitzten Tabak wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer nach § 2 Absatz 1 Nummer 4 und 5 des Gesetzes, sowie aus den Mengenangaben auf dem Steuerzeichen berechnet. Dabei wird die Steuer in Cent eingesetzt, und zwar für die Zigarette bis auf fünf, für die Zigarre und den Zigarillo bis auf vier Dezimalstellen und für das Kilogramm Rauchtabak bis auf eine Dezimalstelle. Der Steuerwert wird in Cent bei Zigaretten und erhitztem Tabak bis auf vier, bei Zigarren, Zigarillos und Rauchtabak bis auf drei Dezimalstellen berechnet. Bei Substituten für Tabakwaren wird der Steuerwert des einzelnen Steuerzeichens aus der auf dem Steuerzeichen angegebenen Mengenangabe berechnet. Dabei wird die Steuer in Cent eingesetzt.
+(1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm Rauchtabak und aus der Mengenangabe auf dem Steuerzeichen berechnet. Für erhitzten Tabak wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer nach § 2 Absatz 1 Nummer 4 und 5 des Gesetzes und aus den Mengenangaben auf dem Steuerzeichen berechnet. Bei Substituten für Tabakwaren wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer für einen Milliliter und der auf dem Steuerzeichen angegebenen Mengenangabe berechnet. Dabei wird die Steuer in Cent eingesetzt, und zwar für die Zigarette bis auf fünf, für die Zigarre und das Zigarillo bis auf vier Dezimalstellen und für das Kilogramm Rauchtabak bis auf eine Dezimalstelle. Bei Substituten für Tabakwaren wird die Steuer in Cent eingesetzt. Der Steuerwert wird in Cent bei Zigaretten und erhitztem Tabak bis auf vier, bei Zigarren, Zigarillos, Rauchtabak und Substituten für Tabakwaren bis auf drei Dezimalstellen berechnet.
 
-(2) Der Steuerwert des Steuerzeichenbogens wird in Euro ausgedrückt und bei Steuerzeichen für Zigaretten bis auf vier, für Zigarren, Zigarillos und Rauchtabak bis auf drei Dezimalstellen gekürzt.
+(2) Der Steuerwert des Steuerzeichenbogens wird in Euro ausgedrückt und bei Steuerzeichen für Zigaretten und für erhitzten Tabak bis auf vier, für Zigarren, Zigarillos, Rauchtabak und Substitute für Tabakwaren bis auf drei Dezimalstellen gekürzt.
 
-(3) Für die Berechnung der Steuer, die nicht durch Verwendung von Steuerzeichen zu entrichten ist oder nicht entrichtet worden ist, gilt Absatz 1 Satz 2 entsprechend.
+(3) Für die Berechnung der Steuer, die nicht durch Verwendung von Steuerzeichen zu entrichten ist oder nicht entrichtet worden ist, gilt Absatz 1 Satz 4 entsprechend.
 
 # § 34 – Verwendung der Steuerzeichen
 
@@ -562,7 +564,7 @@ Tabakwaren aus Drittländern oder Drittgebieten sind in den Fällen des § 21 Ab
 
 # § 39 – Beförderungen zu privaten Zwecken
 
-(1) Werden mehr als 800 Zigaretten, 200 Zigarren, 400 Zigarillos oder ein Kilogramm Rauchtabak nach § 22 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass die Tabakwaren zu gewerblichen Zwecken in das Steuergebiet befördert werden (§ 23 des Gesetzes).
+(1) Werden mehr als 800 Zigaretten, 800 Stück erhitzter Tabak, 200 Zigarren, 400 Zigarillos oder ein Kilogramm Rauchtabak nach § 22 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass die Tabakwaren zu gewerblichen Zwecken in das Steuergebiet befördert werden (§ 23 des Gesetzes).
 
 (2) Die Weitergabe von Tabakwaren, auch wenn sie unentgeltlich erfolgt, gilt unabhängig von der verbrachten Menge nicht als Eigenbedarf nach § 22 des Gesetzes.
 
