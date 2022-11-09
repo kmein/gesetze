@@ -323,9 +323,11 @@ gilt, wenn diese Verfahren nicht bei einer Ausgangszollstelle beginnen, Satz 2. 
 
 (2) Ist Kaffee während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
+(3) In den Fällen des § 11 Absatz 4 des Gesetzes gelten hinsichtlich der §§ 14, 16, 17, 33 und 34 entsprechend. Die Frist nach § 11 Absatz 4 Satz 4 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
+
 # § 20 – Steueranmeldung
 
-(1) Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+(1) Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Das Hauptzollamt kann Steuerschuldnern nach § 11 Absatz 5 Nummer 2 des Gesetzes auf Antrag die Abgabe einer für einen Kalendermonat zusammengefassten Steueranmeldung widerruflich zulassen, soweit die in einem Kalendermonat hergestellte Menge 50 Kilogramm nicht übersteigt und Steuerbelange nicht beeinträchtigt sind. Für die Frist zur Abgabe der zusammengefassten Steueranmeldung gilt in diesen Fällen § 12 Absatz 1 Satz 1 und für die Fälligkeit der Steuer § 12 Absatz 1 Satz 2 des Gesetzes entsprechend.
 
 (2) Das Hauptzollamt überprüft die Steueranmeldung nach Absatz 1. Art und Umfang der Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung vorgegeben werden. Das Hauptzollamt kann von dem Anmeldepflichtigen weitere Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung entsprechend.
 
@@ -401,7 +403,7 @@ Für die Sicherheitsleistung gelten § 6 Absatz 1 Satz 2 und § 18 entsprechend.
 
 (5) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als Steuervertreter. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 18 Absatz 4 Satz 8 des Gesetzes zu leisten. Für die Sicherheitsleistung gelten § 6 Absatz 1 Satz 2 und § 18 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden. Die Erlaubnis des Steuervertreters wird bei Erteilung auch dem Versandhändler schriftlich oder elektronisch bekannt gegeben. Die Erlaubnis gilt damit auch für den Versandhändler als unter Widerrufsvorbehalt erteilt.
 
-(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 2 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei nicht nur gelegentlichen Lieferungen nach § 18 Absatz 5 Satz 4 des Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der Anzeige gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter entsprechend.
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 4 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei nicht nur gelegentlichen Lieferungen nach § 18 Absatz 5 Satz 4 des Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der Anzeige gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter entsprechend.
 
 (7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8 entsprechend. Die Erlaubnis des Steuervertreters erlischt, wenn die Erlaubnis für den Versandhändler erlischt. Die nach Absatz 5 Satz 7 als erteilt geltende Erlaubnis des Versandhändlers erlischt, wenn die für den Steuervertreter erteilte Erlaubnis erlischt.
 
@@ -440,6 +442,8 @@ Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1
 (2) Wer im Fall des § 21 Absatz 1 des Gesetzes eine Kaffeesteuervergütung beantragt, hat als Nachweis der Versteuerung im Steuergebiet dem Hauptzollamt eine Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen.
 
 (3) Die Anträge auf Steuerentlastung nach § 21 Absatz 1 des Gesetzes werden in der Steueranmeldung (§ 20 Absatz 1) des Steuerlagerinhabers gestellt.
+
+(4) In den Fällen des § 21 Absatz 4 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 14, 16, 17, 33 und 34 entsprechend. Die Frist nach § 21 Absatz 4 Satz 3 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der Feststellung der Unwirksamkeit gegenüber dem Steuerschuldner.
 
 # § 32 – Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
 
@@ -533,7 +537,7 @@ In Fällen, in denen der Kaffee oder die kaffeehaltigen Waren durch den Empfäng
 
 (1) Soll Kaffee vernichtet werden, hat der Steuerlagerinhaber dies beim Hauptzollamt mindestens eine Woche im Voraus unter Angabe des Zeitpunkts und des Orts der Vernichtung und der Art und Menge des Kaffees anzumelden. Das Hauptzollamt kann zulassen, dass der Kaffee unter Aufsicht einer Steuerhilfsperson vernichtet wird, wenn Belange der Steueraufsicht nicht entgegenstehen.
 
-(2) Werden kaffeehaltige Waren im Betrieb ihres Herstellers unter Steueraufsicht vernichtet, wird ihm die Kaffeesteuer auf Antrag entlastet. Das für den Betrieb Hauptzollamt kann einen anderen Ort der Vernichtung zulassen. Für das Verfahren bei der Vernichtung unter Steueraufsicht gilt Absatz 1 entsprechend.
+(2) Werden kaffeehaltige Waren im Betrieb ihres Herstellers unter Steueraufsicht vernichtet, wird ihm die Kaffeesteuer auf Antrag entlastet. Das Hauptzollamt kann einen anderen Ort der Vernichtung zulassen. Für das Verfahren bei der Vernichtung unter Steueraufsicht gilt Absatz 1 entsprechend.
 
 # § 37 – Probenentnahme im Rahmen der Steueraufsicht
 

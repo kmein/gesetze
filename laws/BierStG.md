@@ -13,11 +13,11 @@
 
 2. Mischungen von Bier im Sinn der Nummer 1 mit nichtalkoholischen Getränken, die der Position 2206 der Kombinierten Nomenklatur zuzuordnen sind.
 
-(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
+(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22) in der durch die Durchführungsverordnung (EU) 2018/1602 (ABl. L 273 vom 31.10.2018, S. 1) geänderten, am 1. Januar 2019 geltenden Fassung.
 
 # § 2 – Steuertarif
 
-(1) Bier wird nach Grad Plato in Steuerklassen eingeteilt. Grad Plato ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er sich nach der großen Ballingschen Formel aus dem im Bier vorhandenen Alkohol- und Extraktgehalt errechnet; Bruchteile eines Grades (Nachkommastellen) bleiben außer Betracht. Die Biersteuer beträgt für einen Hektoliter (hl) Bier 0,787 Euro je Grad Plato.
+(1) Bier wird nach Grad Plato in Steuerklassen eingeteilt. Grad Plato ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er sich nach der großen Ballingschen Formel aus dem im Bier vorhandenen Alkohol- und Extraktgehalt errechnet; Bruchteile eines Grades (Nachkommastellen) bleiben außer Betracht. Ab dem 1. Januar 2031 werden bei der Berechnung des Grades Plato alle Zutaten des Bieres, einschließlich derer, die nach Abschluss der Gärung hinzugefügt werden, berücksichtigt. Die Biersteuer beträgt für einen Hektoliter (hl) Bier 0,787 Euro je Grad Plato.
 
 (1a) Abweichend von Absatz 1 ermäßigt sich der Steuersatz vom 1. Januar 2021 bis zum 31. Dezember 2022 für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
 
@@ -41,9 +41,9 @@ Die Stufen beginnen bis auf die Stufe zwischen 5 000 hl und 6 000 hl aufsteige
 
 4. auf 56,0 Prozent bei einer Jahreserzeugung von 5 000 hl.
 
-Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 56 Prozent unverändert. Die Steuersätze werden auf vier Nachkommastellen, die Steuerbeträge je hl Bier auf zwei Nachkommastellen, genau ermittelt. Als Gesamtjahreserzeugung einer Brauerei gilt das gesamte in ihr im Brauverfahren erzeugte Bier (einschließlich Lizenzbier), für das innerhalb eines Kalenderjahres die Steuer entstanden ist, zuzüglich der aus der Brauerei unter Steueraussetzung entfernten sowie der steuerfrei abgegebenen oder verwendeten und der in der Brauerei zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Mengen, abzüglich der Mengen, die in diesem Zeitraum wieder in die Brauerei zurückgelangt sind. Jahreserzeugung ist die Gesamtjahreserzeugung ohne die Biermengen, die in Lizenz gebraut oder zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzt werden. Die für die Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Biermengen berechnen sich nach den Anteilsverhältnissen im Zeitpunkt der Entfernung des Bieres aus der Brauerei.
+Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 56 Prozent unverändert. Die Steuersätze werden auf vier Nachkommastellen, die Steuerbeträge je hl Bier auf zwei Nachkommastellen, genau ermittelt. Die Zugabe von Röstmalzbier nach dem Brauvorgang ist unschädlich für die Anwendung des ermäßigten Steuersatzes. Als Gesamtjahreserzeugung einer Brauerei gilt das gesamte in ihr im Brauverfahren erzeugte Bier (einschließlich Lizenzbier), für das innerhalb eines Kalenderjahres die Steuer entstanden ist, zuzüglich der aus der Brauerei unter Steueraussetzung entfernten sowie der steuerfrei abgegebenen oder verwendeten und der in der Brauerei zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Mengen, abzüglich der Mengen, die in diesem Zeitraum wieder in die Brauerei zurückgelangt sind. Zugaben nach Satz 6 sind der Gesamtjahreserzeugung zuzurechnen. Jahreserzeugung ist die Gesamtjahreserzeugung ohne die Biermengen, die in Lizenz gebraut oder zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzt werden. Die für die Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Biermengen berechnen sich nach den Anteilsverhältnissen im Zeitpunkt der Entfernung des Bieres aus der Brauerei.
 
-(3) Als unabhängig ist eine Brauerei anzusehen, die rechtlich und wirtschaftlich von einer anderen Brauerei unabhängig ist, Betriebsräume benutzt, die räumlich von anderen Brauereien getrennt sind und Bier nicht unter Lizenz braut. Das Brauen unter Lizenz ist jedoch für die Anwendung eines ermäßigten Steuersatzes unschädlich, wenn
+(3) Eine Brauerei ist ein Steuerlager, in dem Bier unter Steueraussetzung im Brauverfahren hergestellt und gelagert werden darf. Als unabhängig ist eine Brauerei anzusehen, die rechtlich und wirtschaftlich von einer anderen Brauerei unabhängig ist, Betriebsräume benutzt, die räumlich von anderen Brauereien getrennt sind und Bier nicht unter Lizenz braut. Das Brauen unter Lizenz ist jedoch für die Anwendung eines ermäßigten Steuersatzes unschädlich, wenn
 
 1. die Lizenzherstellung weniger als die Hälfte der Gesamtjahreserzeugung beträgt,
 
@@ -53,7 +53,11 @@ Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufstei
 
 (4) Voneinander abhängige Brauereien, die zusammen eine Gesamtjahreserzeugung von 200 000 hl nicht überschreiten, gelten für die Anwendung des ermäßigten Steuersatzes als eine Brauerei.
 
-(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 1a bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner. Wird Bier einer ausländischen unabhängigen Brauerei mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner.
+(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 1a bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner.
+
+(6) Wird Bier einer unabhängigen Brauerei eines anderen Mitgliedstaats mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner. Für die Inanspruchnahme des ermäßigten Steuersatzes nach Absatz 1a ist die Vorlage einer amtlichen Bescheinigung des anderen Mitgliedstaats erforderlich, aus der die Gesamtjahreserzeugung der Brauerei hervorgeht und die ihre Unabhängigkeit im Sinn des Absatzes 3 bestätigt. Absatz 4 gilt entsprechend.
+
+(7) Auf Antrag stellt das Hauptzollamt einem unabhängigen Hersteller mit Sitz im Steuergebiet eine Bescheinigung entsprechend Absatz 6 Satz 2 zur Vorlage in anderen Mitgliedstaaten aus.
 
 # § 3 – Sonstige Begriffsbestimmungen
 
@@ -91,7 +95,7 @@ Steuerlager sind Orte, an oder von denen Bier unter Steueraussetzung im Brauverf
 
 # § 5 – Steuerlagerinhaber
 
-(1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit in Höhe des Steuerwerts des voraussichtlich im Jahresdurchschnitt in zwei Monaten aus dem Steuerlager in den steuerrechtlich freien Verkehr überführten Bieres abhängig. Brauereien, die erstmals mit der Herstellung von Bier beginnen, haben in ihrem Antrag die voraussichtliche Jahreserzeugung anzugeben.
+(1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Brauereien, die erstmals mit der Herstellung von Bier beginnen, haben in ihrem Antrag die voraussichtliche Jahreserzeugung anzugeben.
 
 (2) Die Erlaubnis ist zu widerrufen, wenn eine der in Absatz 1 Satz 3 genannten Voraussetzungen nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
@@ -129,7 +133,9 @@ in ihren Betrieben zu gewerblichen Zwecken empfangen dürfen, wenn das Bier aus 
 
 4. diplomatische Missionen und konsularische Vertretungen;
 
-5. die in internationalen Übereinkommen vorgesehenen internationalen Einrichtungen.
+5. die in internationalen Übereinkommen vorgesehenen internationalen Einrichtungen;
+
+6. die Streitkräfte eines anderen Mitgliedstaats und deren ziviles Begleitpersonal, wenn diese Streitkräfte an einer Verteidigungsanstrengung im Steuergebiet teilnehmen, die zur Durchführung einer Tätigkeit der Europäischen Union im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird.
 
 (2) Ein Empfang unter Steueraussetzung ist nur möglich, wenn die Voraussetzungen für die Steuerfreiheit
 
@@ -141,7 +147,9 @@ in ihren Betrieben zu gewerblichen Zwecken empfangen dürfen, wenn das Bier aus 
 
 4. im Fall des Absatzes 1 Nummer 4 in Form der Gegenseitigkeit für die diplomatischen Missionen und konsularischen Vertretungen;
 
-5. im Fall des Absatzes 1 Nummer 5 nach den internationalen Übereinkommen für die internationalen Einrichtungen
+5. im Fall des Absatzes 1 Nummer 5 nach den internationalen Übereinkommen für die internationalen Einrichtungen;
+
+6. im Fall des Absatzes 1 Nummer 6 im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik der Europäischen Union
 
 und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
@@ -179,7 +187,7 @@ aufzunehmen, oder
 
 3. vom Begünstigten (§ 8) zu übernehmen.
 
-(4) In den Fällen des Absatzes 1 beginnt die Beförderung unter Steueraussetzung, wenn das Bier das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr übergeführt worden ist und endet mit der Aufnahme oder Übernahme.
+(4) In den Fällen des Absatzes 1 beginnt die Beförderung unter Steueraussetzung, wenn das Bier das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden ist, und endet mit der Aufnahme oder Übernahme.
 
 # § 11 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
@@ -229,7 +237,7 @@ im Steuergebiet aufzunehmen oder
 
 6. vom Begünstigten (§ 8) zu übernehmen.
 
-(5) In den Fällen des Absatzes 1 Nummer 1 beginnt die Beförderung unter Steueraussetzung, wenn das Bier das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr übergeführt worden ist. In den Fällen des Absatzes 1 Nummer 2 in Verbindung mit Absatz 4 endet die Beförderung unter Steueraussetzung mit der Aufnahme oder Übernahme.
+(5) In den Fällen des Absatzes 1 Nummer 1 beginnt die Beförderung unter Steueraussetzung, wenn das Bier das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden ist. In den Fällen des Absatzes 1 Nummer 2 in Verbindung mit Absatz 4 endet die Beförderung unter Steueraussetzung mit der Aufnahme oder Übernahme.
 
 # § 12 – Ausfuhr
 
@@ -415,7 +423,7 @@ Steuerschuldner ist, wer das Bier versendet, in Besitz hält oder verwendet.
 
 (1) Bier ist von der Steuer befreit, wenn es gewerblich verwendet wird
 
-1. zur Herstellung von Arzneimitteln durch dazu nach Arzneimittelrecht Befugte, ausgenommen reine Alkohol-Wasser-Mischungen,
+1. zur Herstellung von Arzneimitteln durch dazu nach Arzneimittelrecht Befugte,
 
 2. zur Herstellung von Essig,
 
@@ -559,31 +567,29 @@ d) zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch der 
 
 3. zur Durchführung
 
-a) von Artikel 35 der Systemrichtlinie das Verfahren bei der Beförderung von Bier des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat unter Verwendung des Begleitdokuments nach Artikel 34 der Systemrichtlinie und den dazu ergangenen Verordnungen in den jeweils geltenden Fassungen näher zu regeln und vorzusehen, dass durch bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden kann,
+a) der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19. Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) das Verfahren bei der Beförderung von Bier des steuerrechtlich freien Verkehrs und des Versandhandels näher zu regeln und dabei auch zuzulassen, dass durch bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden kann,
 
 b) der Artikel 14 und 41 der Systemrichtlinie Bier, das zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben wird, von der Steuer zu befreien und die notwendigen Vorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
-4. zur Erleichterung und zur Vereinfachung des automatisierten Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen, Steueranmeldungen oder sonstige für das Besteuerungsverfahren erforderliche Daten durch Datenfernübertragung übermittelt werden können, und dabei insbesondere
+5. im Benehmen mit dem Bundesministerium des Innern und für Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
-a) die Voraussetzungen für die Anwendung des Verfahrens,
+6. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die für das Besteuerungsverfahren erforderlich sind, ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
 
-b) die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu übermittelnden Daten,
+a) die Voraussetzungen für die Anwendung des Verfahrens der Datenfernübertragung,
+
+b) das Nähere über Form, Inhalt, Verarbeitung und Sicherung der zu übermittelnden Daten,
 
 c) die Art und Weise der Übermittlung der Daten,
 
 d) die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
-e) die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten verkürzt oder erlangt werden,
+e) die Mitwirkungspflichten Dritter oder deren Haftung, wenn auf Grund unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern verkürzt oder Steuervorteile erlangt werden,
 
-f) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+f) die Haftung des Datenübermittlers für verkürzte Steuern oder für zu Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine Gewissheit über die Identität des Auftraggebers verschafft hat,
 
-zu regeln, sowie
+g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Steuerpflichtigen oder Antragstellers.
 
-g) im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat anstelle der qualifizierten elektronischen Signatur ein anderes sicheres Verfahren, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt, und
-
-h) Ausnahmen von der Pflicht zur Verwendung einer qualifizierten elektronischen Signatur oder eines anderen sicheren Verfahrens nach Buchstabe g
-
-zuzulassen. Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen verwiesen werden; hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist.
+Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist.
 
 # § 29 – Durchführung
 
@@ -594,6 +600,12 @@ zuzulassen. Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 1. den Zeitpunkt der nach § 1 Absatz 3 anzuwendenden Fassung der Kombinierten Nomenklatur neu zu bestimmen und als Folge dessen den Wortlaut des Gesetzes an die geänderte Nomenklatur anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben, sowie Vorschriften über die Erfassung der steuerbaren Menge zu erlassen,
+
+2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 7 zu erlassen, insbesondere
+
+a) zum Besteuerungsverfahren und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird sowie
+
+b) das Verfahren nach § 2 Absatz 7 näher zu regeln,
 
 2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 5, insbesondere zum Besteuerungsverfahren zu erlassen und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird,
 
@@ -617,7 +629,7 @@ b) für häufig und regelmäßig stattfindende Beförderungen von Bier in einem 
 
 10. Vorschriften zum § 14 Absatz 3 zu erlassen, insbesondere zu den Anforderungen an den Nachweis,
 
-11. Vorschriften zu § 15 zu erlassen, insbesondere die Steuerfestsetzung nach Ablauf des Kalenderjahres und das Verfahren bei Aufnahme und Beendigung der Brautätigkeit zu regeln,
+11. Vorschriften zu § 15 zu erlassen, insbesondere die Steuerfestsetzung nach Ablauf des Kalenderjahres, die Steueranmeldung in den Fällen des § 14 Absatz 2 Nummer 2 und das Verfahren bei Aufnahme und Beendigung der Brautätigkeit zu regeln,
 
 12. vorzuschreiben, bei welcher Menge Bier nach § 19 Absatz 1 widerleglich vermutet wird, dass dieses nicht für den Eigenbedarf der Privatperson bestimmt ist,
 

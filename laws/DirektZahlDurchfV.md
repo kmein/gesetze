@@ -158,7 +158,9 @@ Der auf Grund des § 12 Absatz 1 des Direktzahlungen-Durchführungsgesetzes beka
 
 # § 13a – Kürzung der nationalen Reserve
 
-In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 für das Kalenderjahr 2021 wird die nationale Reserve um 20 Millionen Euro gekürzt.
+(1) In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 für das Kalenderjahr 2021 wird die nationale Reserve um 20 Millionen Euro gekürzt.
+
+(2) In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 für das Kalenderjahr 2022 wird die nationale Reserve um 7,5 Millionen Euro gekürzt.
 
 # § 14 – Zuständigkeit
 

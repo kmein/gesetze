@@ -13,13 +13,15 @@
 
 4. Schaumwein- und Zwischenerzeugnissteuergesetz und Schaumwein- und Zwischenerzeugnissteuerverordnung,
 
-5. Kaffeesteuergesetz und Kaffeesteuerverordnung,
+5. Biersteuergesetz und Biersteuerverordnung
 
-6. Alkoholsteuergesetz und Alkoholsteuerverordnung,
+6. Kaffeesteuergesetz und Kaffeesteuerverordnung,
 
-7. Alkopopsteuergesetz,
+7. Alkoholsteuergesetz und Alkoholsteuerverordnung,
 
-8. Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchführungsverordnung.
+8. Alkopopsteuergesetz,
+
+9. Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchführungsverordnung.
 
 (2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung auf die elektronische Übermittlung von Erklärungen im Rahmen der Beförderung verbrauchsteuerpflichtiger Waren.
 
