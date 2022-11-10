@@ -15,7 +15,7 @@
 
 3. Unterpositionen 2206 0031 und 2206 0039 mit einem ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 13 Volumenprozent bis 15 Volumenprozent.
 
-(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach der Durchführungsverordnung (EU) 2018/1602 der Kommission vom 11. Oktober 2018 zur Änderung des Anhangs I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 273 vom 31.10.2018, S. 1) in der am 1. Januar 2019 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
+(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22) in der durch die Durchführungsverordnung (EU) 2018/1602 (ABl. L 273 vom 31.10.2018, S. 1) geänderten, am 1. Januar 2019 geltenden Fassung.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -585,7 +585,7 @@ a) der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19. Dezember
 
 b) der Artikel 14 und 41 der Systemrichtlinie Schaumwein, der zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben wird, von der Steuer zu befreien und die notwendigen Vorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
-4. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+4. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 5. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die für das Verfahren erforderlich sind, ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
 
@@ -603,11 +603,13 @@ f) die Haftung des Datenübermittlers für verkürzte Steuern oder für zu Unrec
 
 g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Steuerpflichtigen oder Antragstellers.
 
-Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 6. den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben;
 
-7. zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und Schaumwein, der im freien Verkehr zu gewerblichen Zwecken in Fertigpackungen abgefüllt wird, bei seiner Entfernung aus dem abfüllenden Betrieb in gleicher Weise gekennzeichnet sein muss. Dabei können die Kennzeichnung und insbesondere die Herstellung, die Gestaltung, der Bezug, die Anbringung und die Verwendung der Steuerzeichen und das Steuerzeichenverfahren im Übrigen geregelt sowie notwendige Sicherungsmaßnahmen angeordnet werden. Darüber hinaus können in der Rechtsverordnung die Steuerzeichen als Wertzeichen zur Entrichtung der Schaumweinsteuer bestimmt und angeordnet werden, dass mit dem Bezug des Steuerzeichens in Höhe des Steuerwerts eine Steuerzeichenschuld in der Person des Beziehers entsteht, sowie Regelungen über die Entlastung von der Steuerzeichenschuld oder der Schaumweinsteuer getroffen werden, wenn Steuerzeichen zurückgegeben oder unter Steueraufsicht vernichtet werden oder ungültig gemacht oder gekennzeichneter Schaumwein aus dem freien Verkehr des Steuergebiets genommen wird. Dabei kann das Bundesministerium der Finanzen zur Durchführung des Steuerzeichenverfahrens bestimmen, dass Schaumwein nur in Steuerlagern in Fertigpackungen abgefüllt werden darf und für zurückgegebene, vernichtete oder ungültig gemachte Steuerzeichen Gebühren erhoben werden.
+7. zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und Schaumwein, der im freien Verkehr zu gewerblichen Zwecken in Fertigpackungen abgefüllt wird, bei seiner Entfernung aus dem abfüllenden Betrieb in gleicher Weise gekennzeichnet sein muss. Dabei können die Kennzeichnung und insbesondere die Herstellung, die Gestaltung, der Bezug, die Anbringung und die Verwendung der Steuerzeichen und das Steuerzeichenverfahren im Übrigen geregelt sowie notwendige Sicherungsmaßnahmen angeordnet werden. Darüber hinaus können in der Rechtsverordnung die Steuerzeichen als Wertzeichen zur Entrichtung der Schaumweinsteuer bestimmt und angeordnet werden, dass mit dem Bezug des Steuerzeichens in Höhe des Steuerwerts eine Steuerzeichenschuld in der Person des Beziehers entsteht, sowie Regelungen über die Entlastung von der Steuerzeichenschuld oder der Schaumweinsteuer getroffen werden, wenn Steuerzeichen zurückgegeben oder unter Steueraufsicht vernichtet werden oder ungültig gemacht oder gekennzeichneter Schaumwein aus dem freien Verkehr des Steuergebiets genommen wird. Dabei kann das Bundesministerium der Finanzen zur Durchführung des Steuerzeichenverfahrens bestimmen, dass Schaumwein nur in Steuerlagern in Fertigpackungen abgefüllt werden darf und für zurückgegebene, vernichtete oder ungültig gemachte Steuerzeichen Gebühren erhoben werden;
+
+8. zur Verfahrensvereinfachung, zur Vermeidung unangemessener wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 14 und 24 zu erlassen.
 
 # § 29 – Steuergegenstand
 
@@ -619,11 +621,11 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 # § 30 – Steuertarif
 
-(1) Die Steuer beträgt für Zwischenerzeugnisse vorbehaltlich des Absatzes 2 153 Euro/hl.
+(1) Die Steuer beträgt für Zwischenerzeugnisse vorbehaltlich der Absätze 2 und 3 153 Euro/hl.
 
-(2) Die Steuer beträgt für Zwischenerzeugnisse mit einem vorhandenen Alkoholgehalt von nicht mehr als 15 Volumenprozent 102 Euro/hl.
+(2) Die Steuer beträgt für Zwischenerzeugnisse mit einem vorhandenen Alkoholgehalt von nicht mehr als 15 Volumenprozent in anderer Aufmachung als in Absatz 3 102 Euro/hl.
 
-(3) Abweichend von Absatz 2 beträgt die Steuer für die dort genannten Zwischenerzeugnisse
+(3) Die Steuer beträgt für Zwischenerzeugnisse mit einem vorhandenen Alkoholgehalt von nicht mehr als 15 Volumenprozent
 
 1. in Flaschen mit Schaumweinstopfen und besonderer Haltevorrichtung oder
 

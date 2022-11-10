@@ -53,7 +53,7 @@ Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Rauch
 
 # § 1b – Substitute für Tabakwaren
 
-Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Tabakwaren sowie die dazu ergangenen Durchführungsbestimmungen auch für Substitute für Tabakwaren. Für die Beförderung von Substituten für Tabakwaren unter Steueraussetzung, den innergemeinschaftlichen Verkehr, die Ausfuhr aus dem Steuergebiet über andere Mitgliedstaaten, die Entstehung der Tabaksteuer und den Zeitpunkt, der für ihre Bemessung maßgebend ist, sowie die Person des Steuerschuldners gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
+Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Tabakwaren sowie die dazu ergangenen Durchführungsbestimmungen auch für Substitute für Tabakwaren. Für die Beförderung von Substituten für Tabakwaren unter Steueraussetzung im und aus dem Steuergebiet, sowie für die Beförderung von Substituten für Tabakwaren des zollrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten mit Ausnahme des Versandhandels gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
 
 # § 2 – Steuertarif
 
@@ -738,7 +738,7 @@ a) der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19. Dezember
 
 b) der Artikel 14 und 41 der Systemrichtlinie Tabakwaren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
-4. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+4. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 5. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die für das Verfahren erforderlich sind, ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
 
@@ -756,11 +756,13 @@ f) die Haftung des Datenübermittlers für verkürzte Steuern oder für zu Unrec
 
 g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Steuerpflichtigen oder Antragstellers.
 
-Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 6. Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
 
-7. den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben.
+7. den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben;
+
+8. zur Verfahrensvereinfachung, zur Vermeidung unangemessener wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 15 und 32 zu erlassen.
 
 (2) Das Bundesministerium der Finanzen erlässt die allgemeinen Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 

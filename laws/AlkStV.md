@@ -193,7 +193,7 @@ Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahme
 
 # § 8 – Änderung von Verhältnissen
 
-(1) Der Steuerlagerinhaber hat dem Hauptzollamt die Änderung der nach § 5 Absatz 1 und 2 Satz 1 angegebenen Verhältnisse vor der Änderung schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
+(1) Der Steuerlagerinhaber hat dem Hauptzollamt die Änderung der nach § 5 Absatz 1, 2 Satz 1 und Absatz 3 Satz 1 angegebenen Verhältnisse vor der Änderung schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
 
 1. eine Unternehmensumwandlung nach den Vorschriften des Umwandlungsgesetzes,
 
@@ -398,6 +398,18 @@ gewinnt und zusammen mit dem Abfindungsalkohol im Steuerlager zu trinkfertigem A
 (3) Alkohol darf aus dem Steuerlager nur dann unter Steueraussetzung befördert werden, wenn sich eine entsprechende Menge Alkohol gleicher Art buchmäßig im Steuerlager befindet, der nicht Abfindungsalkohol ist und der die gleiche Qualität besitzt wie der zu befördernde Alkohol.
 
 (4) Das Hauptzollamt ordnet zur Durchführung der Absätze 1 und 3 eine besondere Lagerbuchführung an.
+
+# § 15a – Amtliche Bescheinigung für unabhängige Hersteller
+
+(1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige Hersteller zur Gewährung ermäßigter Steuersätze in anderen Mitgliedstaaten gemäß § 2 Absatz 4 des Gesetzes ist beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Antragsberechtigt sind Steuerlagerinhaber nach § 5 des Gesetzes.
+
+(2) Für Alkohol nach § 1 Absatz 2 Nummer 1 des Gesetzes stellt das Hauptzollamt die Bescheinigung nach Absatz 1 nur unter der Voraussetzung aus, dass die unabhängige Verschlussbrennerei im vorangegangenen Kalenderjahr nicht mehr als 20 Hektoliter reinen Alkohol hergestellt hat. Der Antragsteller hat dies anhand geeigneter Unterlagen nachzuweisen. Das Hauptzollamt kann hierzu Anweisungen treffen.
+
+(3) Als amtliche Bescheinigung im Sinne von § 2 Absatz 3 Satz 2 des Gesetzes gilt auch eine von einem Versender mit Sitz in einem anderen Mitgliedstaat selbst ausgestellte Bescheinigung, wenn
+
+1. der Mitgliedstaat, in dem die kleine unabhängige Brennerei ansässig ist, die Ausstellung von Selbstbescheinigungen gestattet und
+
+2. die Gesamtjahreserzeugung der kleinen unabhängigen Brennerei nicht mehr als fünf Hektoliter reiner Alkohol beträgt.
 
 # § 16 – Registrierter Empfänger
 
