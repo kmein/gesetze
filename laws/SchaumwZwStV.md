@@ -223,6 +223,20 @@ Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung des Steue
 
 (4) Das Hauptzollamt befreit Inhaber von Versuchs- und Lehrbetrieben von den Verpflichtungen nach Absatz 1, wenn sichergestellt ist, dass dort Schaumwein ausschließlich zu Versuchs- oder Unterrichtszwecken hergestellt und im Rahmen dieser Zwecke verbraucht oder vernichtet wird.
 
+# § 11a – Amtliche Bescheinigung für unabhängige Hersteller
+
+(1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige Hersteller zur Gewährung ermäßigter Steuersätze in anderen Mitgliedstaaten gemäß § 2 Absatz 3 des Gesetzes ist beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
+
+(2) Für Schaumwein nach § 1 Absatz 2 Nummer 1 des Gesetzes stellt das Hauptzollamt die Bescheinigung nach Absatz 1 nur unter der Voraussetzung aus, dass der unabhängige Hersteller durchschnittlich im Weinwirtschaftsjahr (1. August eines Jahres bis 31. Juli des folgenden Jahres) insgesamt
+
+1. nicht mehr als 1 000 Hektoliter oder
+
+2. im Fall von Beförderungen in die Republik Malta, nicht mehr als 20 000 Hektoliter
+
+dieses Schaumweins erzeugt hat. Zur Berechnung der durchschnittlichen Erzeugung sind die dem Antrag vorausgegangenen drei Weinwirtschaftsjahre heranzuziehen. Sofern zwei oder mehrere unabhängige Hersteller zusammenarbeiten und ihre gemeinsame durchschnittliche Jahreserzeugung 1 000 Hektoliter oder 20 000 Hektoliter nicht übersteigt, können sie als ein einziger unabhängiger Hersteller behandelt werden. Der Nachweis der durchschnittlichen Jahreserzeugung erfolgt durch eine Bescheinigung der nach Weinrecht für den Antragsteller zuständigen Behörde. Hergestellte Mengen von Wein nach § 32 Absatz 1 Nummer 1 des Gesetzes sind bei der Bemessung der Mengen nach Satz 1 zu berücksichtigen.
+
+(3) Für anderen als in Absatz 2 genannten Schaumwein stellt das Hauptzollamt die Bescheinigung nach Absatz 1 unter der Voraussetzung aus, dass der unabhängige Hersteller im vorangegangenen Kalenderjahr insgesamt nicht mehr als 15 000 Hektoliter dieses Schaumweins oder Wein nach § 32 Absatz 1 Nummer 2 und 3 des Gesetzes hergestellt hat. Der Antragsteller hat dies anhand geeigneter Unterlagen nachzuweisen. Das Hauptzollamt kann hierzu Anweisungen treffen. Sofern zwei oder mehrere unabhängige Hersteller zusammenarbeiten und deren gemeinsame Herstellung 15 000 Hektoliter nicht übersteigt, können sie als ein einziger unabhängiger Hersteller behandelt werden. Hergestellte Mengen von Wein nach § 32 Absatz 1 Nummer 2 und 3 des Gesetzes sind bei der Bemessung der Mengen nach Satz 1 zu berücksichtigen.
+
 # § 12 – Registrierter Empfänger
 
 (1) Wer als registrierter Empfänger nach § 6 Absatz 1 Satz 1 Nummer 1 des Gesetzes Schaumwein unter Steueraussetzung nicht nur gelegentlich empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
@@ -394,7 +408,7 @@ zu kennzeichnen.
 
 (3) Der Verwender hat die zweite Ausfertigung als Beleg zu seinen Aufzeichnungen zu nehmen und dem Hauptzollamt unverzüglich die mit seinem Empfangsvermerk versehene dritte und vierte Ausfertigung vorzulegen. Dieses bestätigt die Übereinstimmung der beiden Ausfertigungen und die Empfangsberechtigung auf der dritten Ausfertigung (Rückschein). Der bestätigte Rückschein ist vom Verwender spätestens binnen zwei Wochen nach dem Empfang des Schaumweins an den Versender zurückzusenden. Die vierte Ausfertigung verbleibt beim Hauptzollamt.
 
-(4) Zur Vereinfachung des Verfahrens kann das für den Versender Hauptzollamt auf Antrag des Versenders zulassen, dass dieser anstelle des Begleitdokuments nach Absatz 1 für den in einem Kalendermonat an denselben Verwender abgegebenen Schaumwein eine Sammelanmeldung in dreifacher Ausfertigung unter Angabe der Lieferscheinnummern dem Verwender bis zum siebten Arbeitstag des folgenden Monats übersendet, wenn die einzelnen Sendungen von einem Lieferschein mit der deutlich sichtbaren Aufschrift  
+(4) Zur Vereinfachung des Verfahrens kann das für den Versender zuständige Hauptzollamt auf Antrag des Versenders zulassen, dass dieser anstelle des Begleitdokuments nach Absatz 1 für den in einem Kalendermonat an denselben Verwender abgegebenen Schaumwein eine Sammelanmeldung in dreifacher Ausfertigung unter Angabe der Lieferscheinnummern dem Verwender bis zum siebten Arbeitstag des folgenden Monats übersendet, wenn die einzelnen Sendungen von einem Lieferschein mit der deutlich sichtbaren Aufschrift  
   
 
 |                             |
@@ -478,7 +492,7 @@ Liegt kein Nachweis nach § 21 Absatz 6 vor, bestätigt das für den Empfänger 
 
 # § 30 – Steueranmeldung
 
-(1) Die Steueranmeldung nach § 15 Absatz 1 und 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+(1) Die Steueranmeldung nach § 15 Absatz 1 und 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Das Hauptzollamt kann Steuerschuldnern nach § 14 Absatz 5 Nummer 2 des Gesetzes auf Antrag die Abgabe einer für einen Kalendermonat zusammengefassten Steueranmeldung widerruflich zulassen, soweit die in einem Kalendermonat durchschnittlich hergestellte Menge 75 Liter nicht übersteigt und Steuerbelange nicht beeinträchtigt sind. Für die Frist zur Abgabe der zusammengefassten Steueranmeldung gilt in diesen Fällen § 15 Absatz 1 Satz 1 und für die Fälligkeit der Steuer § 15 Absatz 1 Satz 2 des Gesetzes entsprechend.
 
 (2) Das Hauptzollamt überprüft die Steueranmeldung nach Absatz 1. Art und Umfang der Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung durch eine Verfahrensanweisung vorgegeben werden. Das Hauptzollamt kann von dem Steuerschuldner weitere Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung entsprechend.
 
@@ -651,6 +665,10 @@ anzubringen sowie die Anschrift des zuständigen Hauptzollamts (§ 4 Absatz 2) z
 
 Die §§ 1 bis 32 und 34 bis 42 sind auf Zwischenerzeugnisse nach § 29 des Gesetzes anzuwenden.
 
+# § 43a – Amtliche Bescheinigung für unabhängige Hersteller
+
+Für unabhängige Hersteller von Zwischenerzeugnissen, deren Herstellung im vorangegangenen Kalenderjahr 250 Hektoliter nicht übersteigt, ist die Ausstellung einer amtlichen Bescheinigung zur Gewährung ermäßigter Steuersätze in anderen Mitgliedstaaten gemäß § 30 Absatz 4 in Verbindung mit § 2 Absatz 3 des Gesetzes beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
+
 # § 44 – Beförderungen zu privaten Zwecken
 
 (1) Werden mehr als 20 Liter Zwischenerzeugnisse nach § 19 in Verbindung mit § 29 Absatz 3 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass die Zwischenerzeugnisse zu gewerblichen Zwecken in das Steuergebiet befördert werden (§ 20 des Gesetzes).
@@ -688,6 +706,12 @@ Auf Verlangen des Hauptzollamts hat der Anmeldepflichtige weitere Angaben zu mac
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
 (2) Der Steuerlagerinhaber hat über die Zu- und Abgänge von Wein, der unter Steueraussetzung in andere und aus anderen Mitgliedstaaten befördert wird, Aufzeichnungen zu führen. Bei Wein aus Weintrauben gelten die nach Weinrecht zu führenden Ein- und Ausgangsbücher als ausreichende Aufzeichnungen, es sei denn, das Hauptzollamt ordnet etwas anderes an.
+
+# § 47a – Amtliche Bescheinigung für unabhängige Hersteller
+
+(1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige Hersteller zur Gewährung ermäßigter Steuersätze in anderen Mitgliedstaaten gemäß § 32 Absatz 2 Nummer 2 in Verbindung mit § 2 Absatz 3 des Gesetzes ist beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
+
+(2) Für Wein nach § 32 Absatz 1 Nummer 1 des Gesetzes gilt § 11a Absatz 2 entsprechend. Für Wein nach § 32 Absatz 1 Nummer 2 und 3 des Gesetzes gilt § 11a Absatz 3 entsprechend.
 
 # § 48 – Registrierter Empfänger
 
