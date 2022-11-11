@@ -790,6 +790,8 @@ Nicht anzeigepflichtig sind in den Fällen des Satzes 1 Nummer 2 auch zulassungs
 
 (4) Nach einem Wechsel des Betreibers einer nach § 46 Absatz 2 oder Absatz 3 prüfpflichtigen Anlage hat der neue Betreiber diesen Wechsel der zuständigen Behörde unverzüglich schriftlich anzuzeigen. Satz 1 gilt nicht für Betreiber von Heizölverbraucheranlagen.
 
+(+++ § 40: Zur Anwendung vgl. § 2 BG-V +++)
+
 # § 41 – Ausnahmen vom Erfordernis der Eignungsfeststellung
 
 (1) Die Eignungsfeststellung nach § 63 Absatz 1 des Wasserhaushaltsgesetzes ist über die in § 63 Absatz 2 und 3 des Wasserhaushaltsgesetzes geregelten Fälle hinaus nicht erforderlich für

@@ -83,7 +83,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt Geb�
 
 37. Wertpapierinstitutsgesetz.
 
-Nr. 15 Kursivdruck: Dies entspricht der amtlichen Kurzüberschrift bis 29.4.2011. Anschließend verkündete amtliche Kurzüberschriften lauten "ZAG-Instituts-Eigenkapitalverordnung" (seit 30.4.2011 I 288) und "ZAG-Instituts-Eigenmittelverordnung" (seit 14.12.2018 I 2330).
+Nr. 15 Kursivdruck: Dies entspricht der amtlichen Kurzbezeichnung bis 29.4.2011. Anschließend verkündete amtliche Kurzbezeichnungen lauten "ZAG-Instituts-Eigenkapitalverordnung" (seit 30.4.2011 I 288) und "ZAG-Instituts-Eigenmittelverordnung" (seit 14.12.2018 I 2330)
 
 # § 2 – Höhe der Gebühren
 
