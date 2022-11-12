@@ -507,6 +507,8 @@ Die Leistungen nach § 18a Absatz 3 Satz 1 Nummer 1 und 4 sind um den Anteil der
 
 (2b) Das Bundesamt für Strahlenschutz darf die Versicherungsnummer verarbeiten, soweit dies erforderlich ist, um für Zwecke des Strahlenschutzregisters eine persönliche Kennnummer zu erzeugen, die es ermöglicht, Daten zur Exposition durch ionisierende Strahlung dauerhaft und eindeutig Personen zuzuordnen.
 
+(2c) Die Landwirtschaftliche Alterskasse, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Deutsche Post AG dürfen die Versicherungsnummer verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach den §§ 3 und 5 des Rentenbeziehende-Energiepreispauschalengesetzes erforderlich ist.
+
 (3) Andere Behörden, Gerichte, Arbeitgeber oder Dritte dürfen die Versicherungsnummer nur verarbeiten, soweit dies für die Erfüllung einer gesetzlichen Aufgabe der in Absatz 1 genannten Stellen erforderlich ist
 
 1. bei Mitteilungen, für die die Verarbeitung von Versicherungsnummern in Rechtsvorschriften vorgeschrieben ist,

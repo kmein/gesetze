@@ -4876,7 +4876,7 @@ Die Arbeitstage, für die Pflegeunterstützungsgeld im Geltungszeitraum von § 1
 
 # § 150c – Sonderleistungen für zugelassene voll- und teilstationäre Pflegeeinrichtungen zur Anerkennung und Umsetzung zusätzlicher Aufgaben nach § 35 Absatz 1 des Infektionsschutzgesetzes
 
-(1) Die zugelassenen voll- und teilstationären Pflegeeinrichtungen sind verpflichtet, im Zeitraum vom 1. Oktober 2022 bis zum 30. April 2023 monatliche Sonderleistungen nach Maßgabe der Absätze 2 und 4 zu zahlen. Sie haben die nach § 35 Absatz 1 Satz 6 des Infektionsschutzgesetzes in der Einrichtung benannten Personen gegenüber den Pflegekassen zu melden.
+(1) Die zugelassenen voll- und teilstationären Pflegeeinrichtungen sind verpflichtet, im Zeitraum vom 1. Oktober 2022 bis zum 30. April 2023 monatliche Sonderleistungen nach Maßgabe der Absätze 2 bis 5 zu zahlen. Sie haben die nach § 35 Absatz 1 Satz 6 des Infektionsschutzgesetzes in der Einrichtung benannten Personen gegenüber den Pflegekassen zu melden.
 
 (2) Anspruch auf eine Sonderleistung nach Absatz 1 haben die in den zugelassenen voll- und teilstationären Pflegeeinrichtungen beschäftigten Personen mit Ausnahme der Leitung der Einrichtung, die nach § 35 Absatz 1 Satz 6 des Infektionsschutzgesetzes benannt und gegenüber den Pflegekassen gemeldet sind. Die Höhe der Sonderleistung beträgt je Pflegeeinrichtung und Monat insgesamt
 
