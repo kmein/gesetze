@@ -523,7 +523,7 @@ Auskünfte der Deutschen Post AG
 
 § 64
 
-(weggefallen)
+Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 
 § 65
 
@@ -2031,9 +2031,13 @@ Für die Führung und den Inhalt der Dateisysteme der landwirtschaftlichen Sozia
 
 Für Auskünfte der Deutschen Post AG an die für Sozialleistungen zuständigen Leistungsträger und diesen Gleichgestellte (§ 35 Erstes Buch Sozialgesetzbuch sowie § 69 Abs. 2 Zehntes Buch Sozialgesetzbuch) über personenbezogene Daten gilt § 151 Abs. 1 und 2 des Sechsten Buches Sozialgesetzbuch entsprechend. Die landwirtschaftliche Alterskasse darf der Deutschen Post AG Auskünfte über personenbezogene Daten entsprechend § 151 Abs. 3 des Sechsten Buches Sozialgesetzbuch erteilen.
 
-# § 64 – (weggefallen)
+# § 64 – Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 
-\-
+(1) Die Landwirtschaftliche Alterskasse darf zur Durchführung der ihr nach dem Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner übertragenen Aufgaben die bei ihr gespeicherten personenbezogenen Daten sowie die von den Stellen nach § 3 des Rentenbeziehende-Energiepreispauschalengesetzes vom 7. November 2022 (BGBl. I S. 1985) übermittelten personenbezogenen Daten zur Gewährung einer Energiepreispauschale verarbeiten, soweit dies für die Durchführung dieser Aufgaben erforderlich ist.
+
+(2) Die Übermittlung von Sozialdaten durch die Landwirtschaftliche Alterskasse an die Deutsche Post AG und die Deutsche Rentenversicherung Knappschaft-Bahn-See ist zulässig, soweit dies für die Erfüllung der Aufgaben nach den §§ 3 und 5 des Rentenbeziehende-Energiepreispauschalengesetzes vom 7. November 2022 (BGBl. I S. 1985) erforderlich ist.
+
+(3) Die Übermittlung nach Absatz 2 darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches Sozialgesetzbuch bedarf.
 
 # § 65 – Verordnungsermächtigung
 

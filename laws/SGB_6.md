@@ -8356,9 +8356,13 @@ Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen B
 
 (3) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus dem Dateisystem der Deutschen Rentenversicherung Knappschaft-Bahn-See an das Bundesamt für Wirtschaft und Ausfuhrkontrolle ermöglicht, ist zur Leistung der nach § 57 Absatz 1 Satz 2 des Kohleverstromungsbeendigungsgesetzes zu erbringenden Ausgleichszahlungen für Rentenminderungen, die sich durch die vorzeitige Inanspruchnahme einer sich an das Anpassungsgeld anschließenden Rente wegen Alters ergeben, zulässig. § 79 Absatz 2 bis 4 des Zehnten Buches Sozialgesetzbuch ist entsprechend anzuwenden.
 
-# § 274b
+# § 274b – Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 
-(weggefallen)
+(1) Die Träger der Rentenversicherung dürfen zur Durchführung der ihnen nach dem Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner übertragenen Aufgaben die bei ihnen jeweils gespeicherten personenbezogenen Daten sowie die von den Stellen nach den §§ 3 und 5 des Rentenbeziehende-Energiepreispauschalengesetzes vom 7. November 2022 (BGBl. I S. 1985) übermittelten personenbezogenen Daten verarbeiten, soweit dies zur Durchführung dieser Aufgaben erforderlich ist. Satz 1 gilt entsprechend für die Datenstelle der Rentenversicherung und die Deutsche Post AG.
+
+(2) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateisystemen der nach Absatz 1 genannten Stellen ermöglicht, ist zwischen den Trägern der Rentenversicherung, der Datenstelle der Rentenversicherung und der Deutschen Post AG zulässig, soweit diese Daten zur Durchführung der Aufgaben nach dem Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner erforderlich sind.
+
+(3) Die Übermittlung nach Absatz 2 darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches bedarf.
 
 # § 274c – Ausgleichsverfahren
 

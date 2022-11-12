@@ -4643,6 +4643,7 @@
 - [ReNoPatAusb-FachEigV](laws/ReNoPatAusb-FachEigV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten in Rechtsanwalt- und Patentanwaltschaft, Notariat und bei Rechtsbeiständen
 - [ReNoPatAusbV](laws/ReNoPatAusbV.md) Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten*
 - [RentBkGrSchG RP](laws/RentBkGrSchG_RP.md) Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz
+- [RentEPPG](laws/RentEPPG.md) Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 - [RentSV](laws/RentSV.md) Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post AG
 - [RentÜG](laws/RentÜG.md) Gesetz zur Entwicklung und Einführung einer Digitalen Rentenübersicht
 - [ResG](laws/ResG.md) Gesetz über die Rechtsstellung der Reservisten
@@ -5806,6 +5807,7 @@
 - [VBVG](laws/VBVG.md) Gesetz über die Vergütung von Vormündern und Betreuern
 - [VDG](laws/VDG.md) Vertrauensdienstegesetz
 - [VDV](laws/VDV.md) Verordnung zu Vertrauensdiensten 1, 2
+- [VEPPGewG](laws/VEPPGewG.md) Gesetz über die Gewährung einer einmaligen Energiepreispauschale an Versorgungsempfängerinnen und Versorgungsempfänger des Bundes
 - [VeranstFachwPrV](laws/VeranstFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
 - [VerbrVerbG](laws/VerbrVerbG.md) Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote
 - [VerbÜbkParisHaagG](laws/VerbÜbkParisHaagG.md) Gesetz über die am 6. November 1925 im Haag revidierte Pariser Verbandsübereinkunft zum Schutze des gewerblichen Eigentums

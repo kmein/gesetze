@@ -657,7 +657,9 @@ b) sie weisen einen vorhandenen Alkoholgehalt von mehr als 15 Volumenprozent bis
 
 1. § 1 Absatz 3 und 4,
 
-2. vorbehaltlich des § 33 bei Beförderungen von Wein aus anderen, in andere oder über andere Mitgliedstaaten die §§ 3 bis 9, 11 bis 13, 16 und 17 und 21 Absatz 7.
+2. § 2 Absatz 3 bis 5 sowie
+
+3. vorbehaltlich des § 33 bei Beförderungen von Wein aus anderen, in andere oder über andere Mitgliedstaaten die §§ 3 bis 9, 11 bis 13, 16 und 17 und 21 Absatz 7.
 
 # § 33 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
