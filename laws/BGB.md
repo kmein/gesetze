@@ -11995,7 +11995,7 @@ Jeder Ehegatte kann den Betrag, den er nach § 1512 oder nach § 1513 Abs. 1 ein
 
 # § 1517 – Verzicht eines Abkömmlings auf seinen Anteil
 
-(1) Zur Wirksamkeit eines Vertrags, durch den ein gemeinschaftlicher Abkömmling einem der Ehegatten gegenüber für den Fall, dass die Ehe durch dessen Tod aufgelöst wird, auf seinen Anteil am Gesamtgut der fortgesetzten Gütergemeinschaft verzichtet oder durch den ein solcher Verzicht aufgehoben wird, ist die Zustimmung des anderen Ehegatten erforderlich. Für die Zustimmung gilt die Vorschrift des § 1516 Abs. 2 Satz 3, 4.
+(1) Zur Wirksamkeit eines Vertrags, durch den ein gemeinschaftlicher Abkömmling einem der Ehegatten gegenüber für den Fall, dass die Ehe durch dessen Tod aufgelöst wird, auf seinen Anteil am Gesamtgut der fortgesetzten Gütergemeinschaft verzichtet oder durch den ein solcher Verzicht aufgehoben wird, ist die Zustimmung des anderen Ehegatten erforderlich. Für die Zustimmung gilt die Vorschrift des § 1516 Abs. 2 Absatz 2 Satz 2 und 3 entsprechend.
 
 (2) Die für den Erbverzicht geltenden Vorschriften finden entsprechende Anwendung.
 
