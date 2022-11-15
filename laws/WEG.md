@@ -517,7 +517,7 @@ Vereinbarungen, die vor dem 1. Dezember 2020 getroffen wurden und die von solche
 
 (3) § 7 Absatz 3 Satz 2 gilt auch für Vereinbarungen und Beschlüsse, die vor dem 1. Dezember 2020 getroffen oder gefasst wurden. Ist eine Vereinbarung oder ein Beschluss im Sinne des Satzes 1 entgegen der Vorgabe des § 7 Absatz 3 Satz 2 nicht ausdrücklich im Grundbuch eingetragen, erfolgt die ausdrückliche Eintragung in allen Wohnungsgrundbüchern nur auf Antrag eines Wohnungseigentümers oder der Gemeinschaft der Wohnungseigentümer. Ist die Haftung von Sondernachfolgern für Geldschulden entgegen der Vorgabe des § 7 Absatz 3 Satz 2 nicht ausdrücklich im Grundbuch eingetragen, lässt dies die Wirkung gegen den Sondernachfolger eines Wohnungseigentümers unberührt, wenn die Sondernachfolge bis zum 31. Dezember 2025 eintritt.
 
-(4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2022 anwendbar. Eine Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der Wohnungseigentümer war, gilt gegenüber den Wohnungseigentümern dieser Gemeinschaft der Wohnungseigentümer bis zum 1. Juni 2024 als zertifizierter Verwalter.
+(4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2023 anwendbar. Eine Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der Wohnungseigentümer war, gilt gegenüber den Wohnungseigentümern dieser Gemeinschaft der Wohnungseigentümer bis zum 1. Juni 2024 als zertifizierter Verwalter.
 
 (5) Für die bereits vor dem 1. Dezember 2020 bei Gericht anhängigen Verfahren sind die Vorschriften des dritten Teils dieses Gesetzes in ihrer bis dahin geltenden Fassung weiter anzuwenden.
 

@@ -6611,7 +6611,7 @@ Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar, kann das S
 
 (1) Für die Durchführung
 
-1. der Verordnung (EU) 2020/1784 des Europäischen Parlaments und des Rates vom 25. November 2020 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten (Zustellung von Schriftstücken) (ABl. L 405 vom 2.12.2020, S. 40) in ihrer jeweils geltenden Fassung sowie
+1. der Verordnung (EU) 2020/1784 des Europäischen Parlaments und des Rates vom 25. November 2020 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten (Zustellung von Schriftstücken) (ABl. L 405 vom 2.12.2020, S. 40; L 173 vom 30.6.2022, S. 133) in ihrer jeweils geltenden Fassung sowie
 
 2. des Abkommens zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen (ABl. L 300 vom 17.11.2005, S. 55; L 120 vom 5.5.2006, S. 23), das durch die Mitteilung Dänemarks vom 22. Dezember 2020 (ABl. L 19 vom 21.1.2021, S. 1) geändert worden ist,
 
