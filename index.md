@@ -2684,7 +2684,7 @@
 - [HeimsicherungsV](laws/HeimsicherungsV.md) Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zweck der Unterbringung eines Bewohners oder Bewerbers
 - [HeizkostenV](laws/HeizkostenV.md) Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten
 - [HeizkZG](laws/HeizkZG.md) Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses
-- [HeizkZuschG](laws/HeizkZuschG.md) Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses aufgrund stark gestiegener Energiekosten
+- [HeizkZuschG](laws/HeizkZuschG.md) Gesetz zur Gewährung eines Heizkostenzuschusses aufgrund stark gestiegener Energiekosten
 - [HeizölLBV](laws/HeizölLBV.md) Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise
 - [HerrentunnelMautHV](laws/HerrentunnelMautHV.md) Verordnung über die Höhe der Maut für die Benutzung des Herrentunnels
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
@@ -3291,7 +3291,7 @@
 - [KVWG](laws/KVWG.md) Gesetz zur Weiterentwicklung des Kassenarztrechts
 - [KWaffVtr](laws/KWaffVtr.md) Vertrag über die Nichtverbreitung von Kernwaffen
 - [KWG](laws/KWG.md) Gesetz über das Kreditwesen
-- [KWGVermV](laws/KWGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes *)
+- [KWGWpIGVermV](laws/KWGWpIGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes
 - [KWKAusV](laws/KWKAusV.md) Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme
 - [KWKG 2020](laws/KWKG_2020.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
 - [KWMV](laws/KWMV.md) Verordnung über Meldepflichten für bestimmte Kriegswaffen
