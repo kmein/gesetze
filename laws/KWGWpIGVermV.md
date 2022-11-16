@@ -1,4 +1,4 @@
-% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes *)  (KWG-Vermittlerverordnung - KWGVermV)
+% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes  (KWG-WpIG-Vermittlerverordnung - KWGWpIGVermV)
 % Ausfertigungsdatum: 04.12.2007
  
 # Eingangsformel
@@ -7,11 +7,11 @@ Auf Grund des § 24 Abs. 4 Satz 1 und 3 in Verbindung mit § 2 Abs. 10 Satz 4 un
 
 # § 1 – Einreichung der Anzeigen
 
-Die Anzeigen nach § 2 Abs. 10 Satz 1 und 3 des Kreditwesengesetzes sind im Wege der Datenfernübertragung unter Verwendung des von der Bundesanstalt bereitgestellten elektronischen Anzeigeverfahrens einzureichen. Vor der erstmaligen Verwendung des elektronischen Anzeigeverfahrens ist eine Anmeldung bei der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erforderlich. Die Anmeldung hat über die Internetseite der Bundesanstalt zu erfolgen. Die Bundesanstalt teilt unverzüglich nach Eingang der Anmeldung die zur Verwendung des elektronischen Anzeigeverfahrens erforderlichen Zertifikate zu. Unmittelbar nach jeder erfolgreichen Übermittlung einer Anzeige erhält das haftende Unternehmen eine Bestätigung.
+Die Anzeigen nach § 2 Absatz 10 Satz 1 und 3 des Kreditwesengesetzes sowie die Anzeigen nach § 3 Absatz 2 Satz 1 und 3 des Wertpapierinstitutsgesetzes sind im Wege der Datenfernübertragung unter Verwendung des von der Bundesanstalt bereitgestellten elektronischen Anzeigeverfahrens einzureichen. Vor der erstmaligen Verwendung des elektronischen Anzeigeverfahrens ist eine Anmeldung bei der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erforderlich. Die Anmeldung hat über die Internetseite der Bundesanstalt zu erfolgen. Die Bundesanstalt teilt unverzüglich nach Eingang der Anmeldung die zur Verwendung des elektronischen Anzeigeverfahrens erforderlichen Zertifikate zu. Unmittelbar nach jeder erfolgreichen Übermittlung einer Anzeige erhält das haftende Unternehmen eine Bestätigung.
 
 # § 2 – Inhalt der Anzeigen
 
-Die Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes muss enthalten:
+Die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes muss enthalten:
 
 1. sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, den Familiennamen, den Geburtsnamen, den Vornamen, den Tag und den Ort der Geburt sowie die Geschäftsanschrift des Vermittlers;
 
@@ -19,15 +19,15 @@ Die Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes muss enthalten:
 
 3. den Tag des Beginns der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen.
 
-Jede Änderung der nach Satz 1 angezeigten Angaben ist unverzüglich als Änderungsanzeige nach § 2 Abs. 10 Satz 3 des Kreditwesengesetzes in dem in § 1 vorgegebenen Verfahren einzureichen. Endet die Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen, ist der Tag der Beendigung der Tätigkeit anzuzeigen.
+Jede Änderung der nach Satz 1 angezeigten Angaben ist unverzüglich als Änderungsanzeige nach § 2 Absatz 10 Satz 3 des Kreditwesengesetzes oder § 3 Absatz 2 Satz 3 des Wertpapierinstitutsgesetzes in dem in § 1 vorgegebenen Verfahren einzureichen. Endet die Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen, ist der Tag der Beendigung der Tätigkeit anzuzeigen.
 
 # § 3 – Bestätigung der fachlichen Eignung und Zuverlässigkeit
 
-In der Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes hat das haftende Unternehmen, sofern es seinen Sitz im Inland hat, zu bestätigen, dass der vertraglich gebundene Vermittler fachlich geeignet und zuverlässig ist.
+In der Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes hat das haftende Unternehmen, sofern es seinen Sitz im Inland hat, zu bestätigen, dass der vertraglich gebundene Vermittler fachlich geeignet und zuverlässig ist.
 
 # § 4 – Inhalt des Registers
 
-(1) Von den Angaben nach § 2 werden die folgenden Angaben automatisiert in das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes eingestellt:
+(1) Von den Angaben nach § 2 werden die folgenden Angaben automatisiert in das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes eingestellt:
 
 1. sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, der Familienname, der Vorname sowie die Geschäftsanschrift des Vermittlers;
 
@@ -41,7 +41,7 @@ In der Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes hat das haftende
 
 1. die Firma, die Rechtsform und der Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des haftenden Unternehmens;
 
-2. der Tag, an dem die Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes bei der Bundesanstalt eingegangen ist;
+2. der Tag, an dem die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes bei der Bundesanstalt eingegangen ist;
 
 3. der Tag, an dem die Anzeige über die Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers bei der Bundesanstalt eingegangen ist;
 
@@ -57,15 +57,13 @@ Das haftende Unternehmen trägt die Verantwortung für die Vollständigkeit, die
 
 # § 6 – Einsichtnahme in das Register
 
-Die Einsichtnahme in das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes erfolgt ausschließlich im automatisierten Abrufverfahren.
+Die Einsichtnahme in das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes erfolgt ausschließlich im automatisierten Abrufverfahren.
 
 # § 7 – Dauer der Einsehbarkeit
 
 Die Angaben zu dem vertraglich gebundenen Vermittler sind nach Ablauf des Jahres, in das die angezeigte Beendigung seiner Tätigkeit für das haftende Unternehmen fällt, noch weitere fünf Jahre in dem Register einsehbar.
 
-# § 8 – Übergangsvorschrift
-
-Bis zum 31. Dezember 2007 können das Tätigwerden eines vertraglich gebundenen Vermittlers oder neue Verhältnisse im Sinne des § 2 Abs. 10 Satz 3 des Kreditwesengesetzes auch in Papierform bei der Bundesanstalt angezeigt werden. Die bereits vor dem 1. Januar 2008 aufgrund der bis zum 31. Oktober 2007 oder der ab dem 1. November 2007 geltenden Fassung des § 2 Abs. 10 des Kreditwesengesetzes der Bundesanstalt in Papierform angezeigten Vermittlerverhältnisse sind bis zum 31. März 2008 erneut nach Maßgabe der §§ 1 bis 3 dieser Verordnung anzuzeigen; der Tag des Beginns der Tätigkeit muss nicht angegeben werden.
+# § 8 – (weggefallen)
 
 # § 9 – Inkrafttreten
 

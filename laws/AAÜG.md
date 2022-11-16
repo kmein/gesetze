@@ -178,8 +178,6 @@ Die Vorschriften des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden
 
 (4) Ist bei einer Leistung nach Absatz 1 Einkommen des Berechtigten zu berücksichtigen, haben Arbeitgeber, Sozialversicherungsträger, Finanzbehörden und sonstige Dritte dem Versorgungsträger auf Verlangen die erforderliche Auskunft zu erteilen.
 
-§ 9 Abs. 1 Satz 1 Nr. 2 Satz 2: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 21.11.2001; 2002 I 1087 - 1 BvL 19/93, 1 BvR 1318/94, 1 BvR 1513/94, 1 BvR 2358/94, 1 BvR 308/95 -
-
 # § 10 – Vorläufige Begrenzung von Zahlbeträgen
 
 (1) Die Summe der Zahlbeträge aus gleichartigen Renten der Rentenversicherung und Leistungen der Zusatzversorgungssysteme nach Anlage 1 Nr. 2, 3 oder 19 bis 27 sowie die Zahlbeträge der Leistungen der Sonderversorgungssysteme nach Anlage 2 Nr. 1 bis 3 oder die Summe der Zahlbeträge der Leistungen nach § 4 Abs. 2 Nr. 1 und 2 werden einschließlich des Ehegattenzuschlags vom Ersten des auf die Verkündung dieses Gesetzes folgenden Kalendermonats an auf folgende Höchstbeträge begrenzt:
