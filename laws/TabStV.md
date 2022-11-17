@@ -67,7 +67,7 @@ Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt werden. Betr�
 
 (4) Das Steuerlager ist so einzurichten, dass im Rahmen der Steueraufsicht der Ablauf der Herstellung, der Be- und Verarbeitung, der Handlungen nach Absatz 3 Satz 2 sowie der Verbleib der Tabakwaren verfolgt werden können.
 
-(5) Das Hauptzollamt (§ 5 Absatz 2) kann unter Berücksichtigung von Belangen der Steueraufsicht bestimmen, dass bestimmte Räume und Flächen nicht in das Steuerlager einbezogen werden.
+(5) Das Hauptzollamt kann unter Berücksichtigung von Belangen der Steueraufsicht bestimmen, dass bestimmte Räume und Flächen nicht in das Steuerlager einbezogen werden.
 
 (6) Die Arbeitsstätte einer Heimarbeiterin oder eines Heimarbeiters gilt als Steuerlager des Auftraggebers, in dem Tabakwaren hergestellt werden, wenn die Heimarbeiterin oder der Heimarbeiter Tabakwaren nicht auf eigene Rechnung herstellt und für nur einen Hersteller tätig ist.
 

@@ -1495,8 +1495,6 @@ Der Inhaber der tatsächlichen Gewalt ist verpflichtet, den Beauftragten der zus
 
 (4) Weitergehende Pflichten und Befugnisse, insbesondere unter den Voraussetzungen der §§ 16 oder 17 oder nach den Vorschriften des 5. Abschnitts, bleiben unberührt.
 
-(+++ Abweichend von der Änderungsanweisung gem. Art. 6 Nr. 1 G v. 11.12.2018 I 2394 mWv 1.1.2019 "Dem § 16 wird folgender § 15a vorangestellt" wurde die Vorschrift wegen des inhaltlichen Zusammenhangs in Abstimmung mit dem zuständigen Ressort dem 3. Abschnitt mit der Überschrift "Überwachung" zugeordnet +++)
-
 # § 16 – Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
 
 (1) Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren. Im Rahmen dieser Maßnahmen können von der zuständigen Behörde personenbezogene Daten erhoben werden; diese dürfen nur von der zuständigen Behörde für Zwecke dieses Gesetzes verarbeitet werden.

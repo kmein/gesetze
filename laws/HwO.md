@@ -17,7 +17,7 @@
 
 Die Ausübung mehrerer Tätigkeiten im Sinne des Satzes 2 Nr. 1 und 2 ist zulässig, es sei denn, die Gesamtbetrachtung ergibt, dass sie für ein bestimmtes zulassungspflichtiges Handwerk wesentlich sind.
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage A zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder Bezeichnungen für sie festsetzt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage A zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder Bezeichnungen für sie festsetzt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
 # § 2
 
@@ -61,7 +61,7 @@ Wer ein Handwerk nach § 1 Abs. 1 betreibt, kann hierbei auch Arbeiten in andere
 
 (1) Öffentliche Stellen, die in Verfahren auf Grund dieses Gesetzes zu beteiligen sind, werden über das Ergebnis unterrichtet, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Der Empfänger darf die übermittelten Daten nur für den Zweck verarbeiten, für dessen Erfüllung sie ihm übermittelt worden sind.
 
-(2) Handwerkskammern unterrichten sich, soweit dieses Gesetz keine besonderen Vorschriften enthält, gegenseitig, auch durch Übermittlung personenbezogener Daten, und durch Abruf im automatisierten Verfahren, soweit dies zur Feststellung erforderlich ist, ob der Betriebsleiter die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt und ob er seine Aufgaben ordnungsgemäß wahrnimmt. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten eines Abrufs im automatisierten Verfahren zu regeln.
+(2) Handwerkskammern unterrichten sich, soweit dieses Gesetz keine besonderen Vorschriften enthält, gegenseitig, auch durch Übermittlung personenbezogener Daten, und durch Abruf im automatisierten Verfahren, soweit dies zur Feststellung erforderlich ist, ob der Betriebsleiter die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt und ob er seine Aufgaben ordnungsgemäß wahrnimmt. Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten eines Abrufs im automatisierten Verfahren zu regeln.
 
 # § 5b – Verfahren über eine einheitliche Stelle
 
@@ -83,13 +83,13 @@ Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetze
 
 # § 7
 
-(1) Als Inhaber eines Betriebs eines zulassungspflichtigen Handwerks wird eine natürliche oder juristische Person oder eine Personengesellschaft in die Handwerksrolle eingetragen, wenn der Betriebsleiter die Voraussetzungen für die Eintragung in die Handwerksrolle mit dem zu betreibenden Handwerk oder einem mit diesem verwandten Handwerk erfüllt. Das Bundesministerium für Wirtschaft und Energie bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates, welche zulassungspflichtige Handwerke sich so nahestehen, daß die Beherrschung des einen zulassungspflichtigen Handwerks die fachgerechte Ausübung wesentlicher Tätigkeiten des anderen zulassungspflichtigen Handwerks ermöglicht (verwandte zulassungspflichtige Handwerke).
+(1) Als Inhaber eines Betriebs eines zulassungspflichtigen Handwerks wird eine natürliche oder juristische Person oder eine Personengesellschaft in die Handwerksrolle eingetragen, wenn der Betriebsleiter die Voraussetzungen für die Eintragung in die Handwerksrolle mit dem zu betreibenden Handwerk oder einem mit diesem verwandten Handwerk erfüllt. Das Bundesministerium für Wirtschaft und Klimaschutz bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates, welche zulassungspflichtige Handwerke sich so nahestehen, daß die Beherrschung des einen zulassungspflichtigen Handwerks die fachgerechte Ausübung wesentlicher Tätigkeiten des anderen zulassungspflichtigen Handwerks ermöglicht (verwandte zulassungspflichtige Handwerke).
 
 (1a) In die Handwerksrolle wird eingetragen, wer in dem von ihm zu betreibenden oder in einem mit diesem verwandten zulassungspflichtigen Handwerk die Meisterprüfung bestanden hat.
 
-(2) In die Handwerksrolle werden ferner Ingenieure, Absolventen von technischen Hochschulen und von staatlichen oder staatlich anerkannten Fachschulen für Technik und für Gestaltung mit dem zulassungspflichtigen Handwerk eingetragen, dem der Studien- oder der Schulschwerpunkt ihrer Prüfung entspricht. Dies gilt auch für Personen, die eine andere, der Meisterprüfung für die Ausübung des betreffenden zulassungspflichtigen Handwerks mindestens gleichwertige deutsche staatliche oder staatlich anerkannte Prüfung erfolgreich abgelegt haben. Dazu gehören auch Prüfungen auf Grund einer nach § 42 dieses Gesetzes oder nach § 53 des Berufsbildungsgesetzes erlassenen Rechtsverordnung, soweit sie gleichwertig sind. Der Abschlussprüfung an einer deutschen Hochschule gleichgestellt sind Diplome, die nach Abschluss einer Ausbildung von mindestens drei Jahren oder einer Teilzeitausbildung von entsprechender Dauer an einer Universität, einer Hochschule oder einer anderen Ausbildungseinrichtung mit gleichwertigem Ausbildungsniveau in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz erteilt wurden; falls neben dem Studium eine Berufsausbildung gefordert wird, ist zusätzlich der Nachweis zu erbringen, dass diese abgeschlossen ist. Die Entscheidung, ob die Voraussetzungen für die Eintragung erfüllt sind, trifft die Handwerkskammer. Das Bundesministerium für Wirtschaft und Energie kann zum Zwecke der Eintragung in die Handwerksrolle nach Satz 1 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die Voraussetzungen bestimmen, unter denen die in Studien- oder Schulschwerpunkten abgelegten Prüfungen nach Satz 1 Meisterprüfungen in zulassungspflichtigen Handwerken entsprechen.
+(2) In die Handwerksrolle werden ferner Ingenieure, Absolventen von technischen Hochschulen und von staatlichen oder staatlich anerkannten Fachschulen für Technik und für Gestaltung mit dem zulassungspflichtigen Handwerk eingetragen, dem der Studien- oder der Schulschwerpunkt ihrer Prüfung entspricht. Dies gilt auch für Personen, die eine andere, der Meisterprüfung für die Ausübung des betreffenden zulassungspflichtigen Handwerks mindestens gleichwertige deutsche staatliche oder staatlich anerkannte Prüfung erfolgreich abgelegt haben. Dazu gehören auch Prüfungen auf Grund einer nach § 42 dieses Gesetzes oder nach § 53 des Berufsbildungsgesetzes erlassenen Rechtsverordnung, soweit sie gleichwertig sind. Der Abschlussprüfung an einer deutschen Hochschule gleichgestellt sind Diplome, die nach Abschluss einer Ausbildung von mindestens drei Jahren oder einer Teilzeitausbildung von entsprechender Dauer an einer Universität, einer Hochschule oder einer anderen Ausbildungseinrichtung mit gleichwertigem Ausbildungsniveau in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz erteilt wurden; falls neben dem Studium eine Berufsausbildung gefordert wird, ist zusätzlich der Nachweis zu erbringen, dass diese abgeschlossen ist. Die Entscheidung, ob die Voraussetzungen für die Eintragung erfüllt sind, trifft die Handwerkskammer. Das Bundesministerium für Wirtschaft und Klimaschutz kann zum Zwecke der Eintragung in die Handwerksrolle nach Satz 1 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die Voraussetzungen bestimmen, unter denen die in Studien- oder Schulschwerpunkten abgelegten Prüfungen nach Satz 1 Meisterprüfungen in zulassungspflichtigen Handwerken entsprechen.
 
-(2a) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß in die Handwerksrolle einzutragen ist, wer in einem anderen Mitgliedstaat der Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum eine der Meisterprüfung für die Ausübung des zu betreibenden Gewerbes oder wesentlicher Tätigkeiten dieses Gewerbes gleichwertige Berechtigung zur Ausübung eines Gewerbes erworben hat.
+(2a) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß in die Handwerksrolle einzutragen ist, wer in einem anderen Mitgliedstaat der Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum eine der Meisterprüfung für die Ausübung des zu betreibenden Gewerbes oder wesentlicher Tätigkeiten dieses Gewerbes gleichwertige Berechtigung zur Ausübung eines Gewerbes erworben hat.
 
 (3) In die Handwerksrolle wird ferner eingetragen, wer eine Ausnahmebewilligung nach § 8 oder § 9 Abs. 1 oder eine Gleichwertigkeitsfeststellung nach § 50c für das zu betreibende zulassungspflichtige Handwerk oder für ein diesem verwandtes zulassungspflichtiges Handwerk besitzt.
 
@@ -135,7 +135,7 @@ Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetze
 
 # § 9
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Richtlinien der Europäischen Union über die Anerkennung von Berufsqualifikationen im Rahmen der Niederlassungsfreiheit, des freien Dienstleistungsverkehrs und der Arbeitnehmerfreizügigkeit und zur Durchführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum (BGBl. 1993 II S. 267) sowie des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S. 6) zu bestimmen,
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Richtlinien der Europäischen Union über die Anerkennung von Berufsqualifikationen im Rahmen der Niederlassungsfreiheit, des freien Dienstleistungsverkehrs und der Arbeitnehmerfreizügigkeit und zur Durchführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum (BGBl. 1993 II S. 267) sowie des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S. 6) zu bestimmen,
 
 1. unter welchen Voraussetzungen einem Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, der im Inland zur Ausübung eines zulassungspflichtigen Handwerks eine gewerbliche Niederlassung unterhalten oder als Betriebsleiter tätig werden will, eine Ausnahmebewilligung zur Eintragung in die Handwerksrolle zu erteilen ist,
 
@@ -191,9 +191,9 @@ Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle abgelehnt worde
 
 (4) Können sich die Handwerkskammer und die Industrie- und Handelskammer nicht über eine gemeinsame Erklärung nach Absatz 3 Satz 2 verständigen, entscheidet eine von dem Deutschen Industrie- und Handelskammertag und dem Deutschen Handwerkskammertag (Trägerorganisationen) gemeinsam für die Dauer von jeweils vier Jahren gebildete Schlichtungskommission. Die Schlichtungskommission ist erstmals zum 1. Juli 2004 zu bilden.
 
-(5) Der Schlichtungskommission gehören drei Mitglieder an, von denen je ein Mitglied von jeder Trägerorganisation und ein Mitglied von beiden Trägerorganisationen gemeinsam zu benennen sind. Das gemeinsam benannte Mitglied führt den Vorsitz. Hat eine Trägerorganisation ein Mitglied nicht innerhalb von einem Monat nach Benennung des Mitglieds der anderen Trägerorganisation benannt, so erfolgt die Benennung durch das Bundesministerium für Wirtschaft und Energie. Das Bundesministerium für Wirtschaft und Energie benennt auch das vorsitzende Mitglied, wenn sich die Trägerorganisationen nicht innerhalb eines Monats einigen können, nachdem beide ihre Vorschläge für das gemeinsam zu benennende Mitglied unterbreitet haben. Die Schlichtungskommission gibt sich eine Geschäftsordnung.
+(5) Der Schlichtungskommission gehören drei Mitglieder an, von denen je ein Mitglied von jeder Trägerorganisation und ein Mitglied von beiden Trägerorganisationen gemeinsam zu benennen sind. Das gemeinsam benannte Mitglied führt den Vorsitz. Hat eine Trägerorganisation ein Mitglied nicht innerhalb von einem Monat nach Benennung des Mitglieds der anderen Trägerorganisation benannt, so erfolgt die Benennung durch das Bundesministerium für Wirtschaft und Klimaschutz. Das Bundesministerium für Wirtschaft und Klimaschutz benennt auch das vorsitzende Mitglied, wenn sich die Trägerorganisationen nicht innerhalb eines Monats einigen können, nachdem beide ihre Vorschläge für das gemeinsam zu benennende Mitglied unterbreitet haben. Die Schlichtungskommission gibt sich eine Geschäftsordnung.
 
-(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Schlichtungsverfahren zu regeln.
+(6) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Schlichtungsverfahren zu regeln.
 
 (7) Hält die zuständige Behörde die Erklärung nach Absatz 3 Satz 2 oder die Entscheidung der Schlichtungskommission für rechtswidrig, kann sie unmittelbar die Entscheidung der obersten Landesbehörde herbeiführen.
 
@@ -221,7 +221,7 @@ Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle abgelehnt worde
 
 (2) Ein Gewerbe ist ein zulassungsfreies Handwerk im Sinne dieses Gesetzes, wenn es handwerksmäßig betrieben wird und in Anlage B Abschnitt 1 zu diesem Gesetz aufgeführt ist. Ein Gewerbe ist ein handwerksähnliches Gewerbe im Sinne dieses Gesetzes, wenn es handwerksähnlich betrieben wird und in Anlage B Abschnitt 2 zu diesem Gesetz aufgeführt ist.
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage B zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt, Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage B zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt, Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
 # § 19
 
@@ -289,7 +289,7 @@ und den Teil IV der Meisterprüfung oder eine gleichwertige andere Prüfung, ins
 
 und im Falle der Nummern 2 bis 5 eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. Der Abschlussprüfung an einer deutschen Hochschule gemäß Satz 1 Nr. 4 gleichgestellt sind Diplome nach § 7 Abs. 2 Satz 4. Für den Nachweis der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen Rechtsverordnungen Anwendung.
 
-(4) Das Bundesministerium für Wirtschaft und Energie kann nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen, dass der Erwerb berufs- und arbeitspädagogischer Fertigkeiten, Kenntnisse und Fähigkeiten gesondert nachzuweisen ist. Dabei können Inhalt, Umfang und Abschluss der Maßnahmen für den Nachweis geregelt werden. Das Bestehen des Teils IV der Meisterprüfung gilt als Nachweis.
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz kann nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen, dass der Erwerb berufs- und arbeitspädagogischer Fertigkeiten, Kenntnisse und Fähigkeiten gesondert nachzuweisen ist. Dabei können Inhalt, Umfang und Abschluss der Maßnahmen für den Nachweis geregelt werden. Das Bestehen des Teils IV der Meisterprüfung gilt als Nachweis.
 
 (5) Die nach Landesrecht zuständige Behörde kann Personen, die die Voraussetzungen der Absätze 2, 3 und 4 nicht erfüllen, die fachliche Eignung nach Anhören der Handwerkskammer widerruflich zuerkennen.
 
@@ -317,7 +317,7 @@ und im Falle der Nummern 2 bis 5 eine angemessene Zeit in seinem Beruf praktisch
 
 # § 25
 
-(1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Gewerbe der Anlage A und der Anlage B Ausbildungsberufe staatlich anerkennen und hierfür Ausbildungsordnungen nach § 26 erlassen. Dabei können in einem Gewerbe mehrere Ausbildungsberufe staatlich anerkannt werden, soweit dies wegen der Breite des Gewerbes erforderlich ist; die in diesen Berufen abgelegten Gesellenprüfungen sind Prüfungen im Sinne des § 49 Abs. 1 oder § 51a Abs. 5 Satz 1.
+(1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung kann das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Gewerbe der Anlage A und der Anlage B Ausbildungsberufe staatlich anerkennen und hierfür Ausbildungsordnungen nach § 26 erlassen. Dabei können in einem Gewerbe mehrere Ausbildungsberufe staatlich anerkannt werden, soweit dies wegen der Breite des Gewerbes erforderlich ist; die in diesen Berufen abgelegten Gesellenprüfungen sind Prüfungen im Sinne des § 49 Abs. 1 oder § 51a Abs. 5 Satz 1.
 
 (2) Für einen anerkannten Ausbildungsberuf darf nur nach der Ausbildungsordnung ausgebildet werden.
 
@@ -325,7 +325,7 @@ und im Falle der Nummern 2 bis 5 eine angemessene Zeit in seinem Beruf praktisch
 
 (4) Wird die Ausbildungsordnung eines Ausbildungsberufs aufgehoben oder geändert oder werden Gewerbe in der Anlage A oder in der Anlage B gestrichen, zusammengefasst oder getrennt, so sind für bestehende Berufsausbildungsverhältnisse weiterhin die bis zu dem Zeitpunkt der Aufhebung oder Änderung geltenden Vorschriften anzuwenden, es sei denn, die ändernde Verordnung sieht eine abweichende Regelung vor.
 
-(5) Das Bundesministerium für Wirtschaft und Energie informiert die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die Abstimmung ein.
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz informiert die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die Abstimmung ein.
 
 # § 26
 
@@ -367,7 +367,7 @@ Im Fall des Satzes 1 Nummer 2a bedarf es eines Antrags der Lehrlinge (Auszubilde
 
 # § 27
 
-Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Ausnahmen von § 25 Abs. 2 und 3 sowie den §§ 26, 31 und 39 zulassen, die auch auf eine bestimmte Art und Zahl von Ausbildungsstätten beschränkt werden können.
+Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Ausnahmen von § 25 Abs. 2 und 3 sowie den §§ 26, 31 und 39 zulassen, die auch auf eine bestimmte Art und Zahl von Ausbildungsstätten beschränkt werden können.
 
 # § 27a
 
@@ -399,7 +399,7 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 # § 27d
 
-Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in beiden Handwerken in einer verkürzten Gesamtausbildungszeit gleichzeitig ausgebildet werden. Das Bundesministerium für Wirtschaft und Energie bestimmt im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung für welche verwandte Handwerke eine Gesamtausbildungszeit vereinbart werden kann und die Dauer der Gesamtausbildungszeit.
+Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in beiden Handwerken in einer verkürzten Gesamtausbildungszeit gleichzeitig ausgebildet werden. Das Bundesministerium für Wirtschaft und Klimaschutz bestimmt im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung für welche verwandte Handwerke eine Gesamtausbildungszeit vereinbart werden kann und die Dauer der Gesamtausbildungszeit.
 
 # § 28
 
@@ -608,9 +608,9 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Gesellenprüfung zusammen m
 
 # § 40
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Gesellenprüfung gleichstellen, wenn die Berufsausbildung und die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Gesellenprüfung gleichstellen, wenn die Berufsausbildung und die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-(2) Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Gesellenprüfung gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Gesellenprüfung gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 # § 40a
 
@@ -640,7 +640,7 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 
 # § 42
 
-(1) Als Grundlage für eine einheitliche höherqualifizierende Berufsbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Abschlüsse der höherqualifizierenden Berufsbildung anerkennen und hierfür Prüfungsregelungen erlassen (Fortbildungsordnungen).
+(1) Als Grundlage für eine einheitliche höherqualifizierende Berufsbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Abschlüsse der höherqualifizierenden Berufsbildung anerkennen und hierfür Prüfungsregelungen erlassen (Fortbildungsordnungen).
 
 (2) Die Fortbildungsordnungen haben festzulegen:
 
@@ -728,7 +728,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 # § 42e
 
-(1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Fortbildungsabschlüsse anerkennen und hierfür Prüfungsregelungen erlassen (Anpassungsfortbildungsordnungen).
+(1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Fortbildungsabschlüsse anerkennen und hierfür Prüfungsregelungen erlassen (Anpassungsfortbildungsordnungen).
 
 (2) Die Anpassungsfortbildungsordnungen haben festzulegen:
 
@@ -782,11 +782,11 @@ Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder Fortbildungsp
 
 # § 42i
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung Prüfungszeugnisse, die außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworben worden sind, den entsprechenden Zeugnissen über das Bestehen einer Fortbildungsprüfung auf der Grundlage der §§ 42b bis 42f gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung Prüfungszeugnisse, die außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworben worden sind, den entsprechenden Zeugnissen über das Bestehen einer Fortbildungsprüfung auf der Grundlage der §§ 42b bis 42f gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 # § 42j
 
-Als Grundlage für eine geordnete und einheitliche berufliche Umschulung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+Als Grundlage für eine geordnete und einheitliche berufliche Umschulung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1. die Bezeichnung des Umschulungsabschlusses,
 
@@ -822,7 +822,7 @@ Sofern die Umschulungsordnung (§ 42j) oder eine Regelung der Handwerkskammer (�
 
 # § 42o
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer Umschulungsprüfung auf der Grundlage der §§ 42j und 42k gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer Umschulungsprüfung auf der Grundlage der §§ 42j und 42k gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 # § 42p
 
@@ -854,7 +854,7 @@ Für die berufliche Fortbildung und die berufliche Umschulung behinderter Mensch
 
 (1) Die Vermittlung von Grundlagen für den Erwerb beruflicher Handlungsfähigkeit (§ 1 Abs. 2 des Berufsbildungsgesetzes) kann insbesondere durch inhaltlich und zeitlich abgegrenzte Lerneinheiten erfolgen, die aus den Inhalten anerkannter Ausbildungsberufe (Gewerbe der Anlage A oder der Anlage B) entwickelt werden (Qualifizierungsbausteine).
 
-(2) Über vermittelte Grundlagen für den Erwerb beruflicher Handlungsfähigkeit stellt der Anbieter der Berufsausbildungsvorbereitung eine Bescheinigung aus. Das Nähere regelt das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
+(2) Über vermittelte Grundlagen für den Erwerb beruflicher Handlungsfähigkeit stellt der Anbieter der Berufsausbildungsvorbereitung eine Bescheinigung aus. Das Nähere regelt das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 # § 42v
 
@@ -930,7 +930,7 @@ Der Berufsbildungsausschuß gibt sich eine Geschäftsordnung. Sie kann die Bildu
 
 # § 45
 
-(1) Als Grundlage für ein geordnetes und einheitliches Meisterprüfungswesen für zulassungspflichtige Handwerke kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
+(1) Als Grundlage für ein geordnetes und einheitliches Meisterprüfungswesen für zulassungspflichtige Handwerke kann das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
 
 1. welche Fertigkeiten und Kenntnisse in den einzelnen zulassungspflichtigen Handwerken zum Zwecke der Meisterprüfung zu berücksichtigen (Meisterprüfungsberufsbild A)
 
@@ -1059,7 +1059,7 @@ Die durch die Durchführung der Meisterprüfung entstehenden Kosten trägt die H
 
 # § 50a
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
 
 1. die förmlichen Anforderungen an die Zulassung zur Meisterprüfung,
 
@@ -1091,13 +1091,13 @@ Die durch die Durchführung der Meisterprüfung entstehenden Kosten trägt die H
 
 2. zum Nachteilsausgleich für Teilleistungsstörungen.
 
-(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
+(3) Soweit das Bundesministerium für Wirtschaft und Klimaschutz von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 (+++ Dritter Teil (§§ 45 bis 51g): Zur Weiteranwendung vgl. § 122a Abs. 1 Satz 1 +++)
 
 # § 50b
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
 
 (+++ Dritter Teil (§§ 45 bis 51g): Zur Weiteranwendung vgl. § 122a Abs. 1 Satz 1 +++)
 
@@ -1150,7 +1150,7 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 
 (1) Für zulassungsfreie Handwerke oder handwerksähnliche Gewerbe, für die eine Ausbildungsordnung nach § 25 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes erlassen worden ist, kann eine Meisterprüfung abgelegt werden.
 
-(2) Als Grundlage für ein geordnetes und einheitliches Meisterprüfungswesen für Handwerke oder Gewerbe im Sinne des Absatzes 1 kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
+(2) Als Grundlage für ein geordnetes und einheitliches Meisterprüfungswesen für Handwerke oder Gewerbe im Sinne des Absatzes 1 kann das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
 
 1. welche Fertigkeiten und Kenntnisse in den einzelnen zulassungsfreien Handwerken oder handwerksähnlichen Gewerben zum Zwecke der Meisterprüfung zu berücksichtigen sind (Meisterprüfungsberufsbild B),
 
@@ -1204,7 +1204,7 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 
 # § 51d
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
 
 1. die förmlichen Anforderungen an die Zulassung zur Meisterprüfung,
 
@@ -1236,13 +1236,13 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 
 2. zum Nachteilsausgleich für Teilleistungsstörungen.
 
-(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
+(3) Soweit das Bundesministerium für Wirtschaft und Klimaschutz von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 (+++ Dritter Teil (§§ 45 bis 51g): Zur Weiteranwendung vgl. § 122a Abs. 1 Satz 1 +++)
 
 # § 51e
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
 
 (+++ Dritter Teil (§§ 45 bis 51g): Zur Weiteranwendung vgl. § 122a Abs. 1 Satz 1 +++)
 
@@ -1626,7 +1626,7 @@ Durch die Satzung kann bestimmt werden, daß sich Vereinigungen von Inhabern han
 
 (1) Der Bundesinnungsverband ist der Zusammenschluß von Landesinnungsverbänden des gleichen Handwerks oder sich fachlich oder wirtschaftlich nahestehender Handwerke im Bundesgebiet.
 
-(2) Auf den Bundesinnungsverband finden die Vorschriften dieses Abschnitts sinngemäß Anwendung. Die nach § 80 erforderliche Genehmigung der Satzung und ihrer Änderung erfolgt durch das Bundesministerium für Wirtschaft und Energie.
+(2) Auf den Bundesinnungsverband finden die Vorschriften dieses Abschnitts sinngemäß Anwendung. Die nach § 80 erforderliche Genehmigung der Satzung und ihrer Änderung erfolgt durch das Bundesministerium für Wirtschaft und Klimaschutz.
 
 # § 86
 
@@ -2090,7 +2090,7 @@ Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der Gewerbe
 
 (4) Die für die einzelnen Handwerke oder handwerksähnlichen Gewerbe geltenden fachlichen Vorschriften sind bis zum Inkrafttreten von Rechtsverordnungen nach § 25 Abs. 1, § 45 Abs. 1 und § 51a Abs. 1 in Verbindung mit Abs. 2 anzuwenden.
 
-(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Fälle der Absätze 2 bis 4 ergänzende Übergangsvorschriften zu erlassen, soweit dies für eine ordnungsgemäße Überleitung bestehender Lehrlingsverhältnisse oder sonstiger Ausbildungsverhältnisse oder begonnener Prüfungen oder Prüfungsteile sachdienlich ist. Dabei kann auch von den Absätzen 2 bis 4 abgewichen werden.
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Fälle der Absätze 2 bis 4 ergänzende Übergangsvorschriften zu erlassen, soweit dies für eine ordnungsgemäße Überleitung bestehender Lehrlingsverhältnisse oder sonstiger Ausbildungsverhältnisse oder begonnener Prüfungen oder Prüfungsteile sachdienlich ist. Dabei kann auch von den Absätzen 2 bis 4 abgewichen werden.
 
 # § 122a
 
@@ -2128,9 +2128,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach diesem
 
 # § 124c
 
-(1) Die Mitglieder der Vollversammlung, der Innungsversammlung, der Mitgliederversammlung, der Delegiertenversammlung, der Vorstände und der Ausschüsse (Organe) der Handwerksorganisationen nach dem Vierten Teil sowie der Hauptgeschäftsführer einer Handwerkskammer bleiben auch nach Ablauf ihrer Amtszeit bis zur Abberufung oder bis zur Bestellung ihrer Nachfolger im Amt. Regelungen in Gesetz oder Satzung über das Ausscheiden, insbesondere den Widerruf, der Bestellung oder des Ausscheidens eines Mitglieds, bleiben unberührt.
-
-(2) Der Vorstand einer Handwerksorganisation im Sinne des Absatzes 1 kann auch ohne Ermächtigung in der Satzung durch Beschluss den Mitgliedern der Organe seiner Handwerksorganisation ermöglichen,
+(1) Der Vorstand einer Handwerksorganisation nach dem Vierten Teil kann auch ohne Ermächtigung in der Satzung durch Beschluss den Mitgliedern der Organe seiner Handwerksorganisation ermöglichen,
 
 1. an einer Sitzung ohne Anwesenheit am Versammlungsort teilzunehmen und Mitgliederrechte im Wege der elektronischen Kommunikation auszuüben oder
 
@@ -2138,7 +2136,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach diesem
 
 Zu einer Sitzung oder Beschlussfassung eines Organs darf abweichend von anderslautenden gesetzlichen oder satzungsrechtlichen Bestimmungen in Textform eingeladen werden. In der Einladung ist der Beschluss nach Satz 1 bekannt zu geben.
 
-(3) Der Präsident einer Handwerkskammer kann auch ohne Ermächtigung in der Satzung durch Beschluss den Mitgliedern des Vorstandes ermöglichen,
+(2) Der Präsident einer Handwerkskammer kann auch ohne Ermächtigung in der Satzung durch Beschluss den Mitgliedern des Vorstandes ermöglichen,
 
 1. an einer Sitzung ohne Anwesenheit am Versammlungsort teilzunehmen und Mitgliederrechte im Wege der elektronischen Kommunikation auszuüben oder
 
@@ -2146,7 +2144,7 @@ Zu einer Sitzung oder Beschlussfassung eines Organs darf abweichend von andersla
 
 In der Einladung zur Sitzung oder zur Beschlussfassung ist der Beschluss nach Satz 1 bekannt zu geben. Die Sätze 1 und 2 gelten für die übrigen Handwerksorganisationen nach dem Vierten Teil entsprechend.
 
-(4) In den Fällen des Absatzes 2 Satz 1 Nummer 2 oder des Absatzes 3 Satz 1 Nummer 2
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 oder des Absatzes 2 Satz 1 Nummer 2
 
 1. ist ein Beschluss gültig, wenn
 
@@ -2158,9 +2156,7 @@ c) der Beschluss mit der nach Gesetz oder der jeweiligen Satzung erforderlichen 
 
 2. sind die Vorschriften über die Öffentlichkeit von Sitzungen nicht anzuwenden.
 
-(5) Die Absätze 1, 3 und 4 gelten für Meisterprüfungsausschüsse nach § 47 entsprechend.
-
-(6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2023 nicht mehr anzuwenden.
+(4) Die Absätze 2 und 3 gelten für Meisterprüfungsausschüsse nach § 47 entsprechend.
 
 # § 125
 
