@@ -2005,6 +2005,7 @@
 - [eWpRV](laws/eWpRV.md) Verordnung über Anforderungen an elektronische Wertpapierregister 1
 - [EWRAbkAG](laws/EWRAbkAG.md) Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
 - [EWRAbkAV](laws/EWRAbkAV.md) Verordnung zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum für die Anwendung von Vorschriften des Gesetzes über das Kreditwesen
+- [EWSG](laws/EWSG.md) Gesetz über eine Soforthilfe für Letztverbraucher von leitungsgebundenem Erdgas und Kunden von Wärme
 - [ExpertenratV](laws/ExpertenratV.md) Verordnung zur Ausgestaltung des unabhängigen Expertenrats für Klimafragen und zur Einsetzung der Geschäftsstelle
 - [EZBAbk](laws/EZBAbk.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank
 - [EZBAbkG](laws/EZBAbkG.md) Gesetz zu dem Abkommen vom 18. September 1998 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank
@@ -3368,6 +3369,7 @@
 - [LMvitV](laws/LMvitV.md) Verordnung über vitaminisierte Lebensmittel
 - [LMZDV](laws/LMZDV.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften über Lebensmittelzusatzstoffe
 - [LNGG](laws/LNGG.md) Gesetz zur Beschleunigung des Einsatzes verflüssigten Erdgases
+- [LNGV](laws/LNGV.md) Verordnung zu regulatorischen Rahmenbedingungen für LNG-Anlagen
 - [LobbyRG](laws/LobbyRG.md) Gesetz zur Einführung eines Lobbyregisters für die Interessenvertretung gegenüber dem Deutschen Bundestag und gegenüber der Bundesregierung
 - [LogAPrO](laws/LogAPrO.md) Ausbildungs- und Prüfungsordnung für Logopäden
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
@@ -4756,6 +4758,7 @@
 - [RVBeitrSBek 2020](laws/RVBeitrSBek_2020.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2020
 - [RVBeitrSBek 2021](laws/RVBeitrSBek_2021.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2021
 - [RVBeitrSBek 2022](laws/RVBeitrSBek_2022.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2022
+- [RVBeitrSBek 2023](laws/RVBeitrSBek_2023.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2023
 - [RVBund/KnErG](laws/RVBund_KnErG.md) Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 - [RVBundDiszRAnO](laws/RVBundDiszRAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
 - [RVChilAbkG](laws/RVChilAbkG.md) Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
