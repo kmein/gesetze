@@ -23,13 +23,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ist die Bundesanstalt für Landwirtschaft und Ernährung, soweit die Durchführung den Mitgliedstaaten der Europäischen Union obliegt.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Absatz 1 bezeichneten Verfahren zu regeln, soweit dies zur Durchführung der in § 1 Absatz 1 genannten Rechtsakte erforderlich ist.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Absatz 1 bezeichneten Verfahren zu regeln, soweit dies zur Durchführung der in § 1 Absatz 1 genannten Rechtsakte erforderlich ist.
 
-(3) Ein Einspruch nach Artikel 21 der Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung eines Namens einer garantiert traditionellen Spezialität in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 erfolgt ist. Der Einspruch ist innerhalb von zwei Monaten nach Einreichung zu begründen. Die Gründe, auf welche der Einspruch gestützt wird, sind anzugeben.
+(3) Ein mit Gründen versehener Einspruch nach Artikel 21 der Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung eines Namens einer garantiert traditionellen Spezialität in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 erfolgt ist.
 
 # § 3 – Unterlassungs- und Schadensersatzanspruch
 
-(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden.
+(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden. Das Recht nach Satz 1 kann auch von einer Vereinigung im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 1151/2012 geltend gemacht werden.
 
 (2) Wer den Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 vorsätzlich oder fahrlässig zuwiderhandelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.
 
@@ -71,7 +71,7 @@ Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder Lebensmittel, di
 
 (5) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Voraussetzungen und das Verfahren der Überwachung der Agrarerzeugnisse oder Lebensmittel beim innergemeinschaftlichen Verbringen oder bei der Einfuhr oder Ausfuhr zu regeln.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Klimaschutz und der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Voraussetzungen und das Verfahren der Überwachung der Agrarerzeugnisse oder Lebensmittel beim innergemeinschaftlichen Verbringen oder bei der Einfuhr oder Ausfuhr zu regeln.
 
 # § 5 – Private Kontrollstellen
 

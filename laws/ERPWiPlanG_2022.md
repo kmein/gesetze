@@ -35,7 +35,7 @@ Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und Verpflic
 
 # § 6 – Befristung
 
-Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2023 außer Kraft.
+Die §§ 2 bis 5 treten am 31. Dezember 2022 außer Kraft.
 
 # Anlage – (zu § 1)Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
