@@ -2512,7 +2512,7 @@
 - [GoldSchmAusbV](laws/GoldSchmAusbV.md) Verordnung über die Berufsausbildung zum Goldschmied/zur Goldschmiedin
 - [GoldSilberschmiedMstrV](laws/GoldSilberschmiedMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Gold- und Silberschmiede-Handwerk
 - [GOP](laws/GOP.md) Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten
-- [GOT](laws/GOT.md) Gebührenordnung für Tierärzte
+- [GOT](laws/GOT.md) Gebührenordnung für Tierärztinnen und Tierärzte
 - [GOZ](laws/GOZ.md) Gebührenordnung für Zahnärzte
 - [GPatG](laws/GPatG.md) Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften
 - [GPEV](laws/GPEV.md) Verordnung zur Erhebung von Garantieprämien für die ergänzende staatliche Absicherung von Reisegutscheinen wegen der COVID-19-Pandemie
