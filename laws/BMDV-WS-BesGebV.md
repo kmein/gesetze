@@ -23,6 +23,8 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 
 6. Binnenschiffspersonalverordnung (BinSchPersV)
 
+6a. Binnenschifffahrtsaufgabengesetz (BinSchAufgG),
+
 7. Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
 
 8. Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen (RheinLotsO),
@@ -147,6 +149,8 @@ Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
 (3) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung nach Abschnitt 2 der Anlage zu § 2 Absatz 1, die vor dem 18. Januar 2022 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis zum Ablauf des 17. Januar 2022 geltende Recht weiter anzuwenden.
 
+(4) Bis zum Ablauf des 31. Dezember 2022 ist der Abschnitt 6 der Anlage in der am 29. September 2022 geltenden Fassung weiter anzuwenden.
+
 # § 5 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
@@ -260,9 +264,9 @@ a) Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands
 
 b) Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
 
-c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 14 Euro als Auslage erhoben.
+c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
 
-d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 6 Euro als Auslage erhoben. Für Auslandszustellungen durch die Bundesdruckerei beläuft sich dieser Zuschlag auf 8,10 Euro. Für Auslandszustellungen nach dem Tabellenabschnitt 2 wird ein Zuschlag in Höhe von 1,60 Euro als Auslage erhoben.
+d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
 
 3. Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 
