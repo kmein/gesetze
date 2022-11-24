@@ -201,7 +201,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe 30 Minuten. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten. Dem Prüfling ist eine zusätzliche Vorbereitungszeit von 15 Minuten einzuräumen.
 
-# § 14 – Prüfungsbereich „Organisieren der Verwaltungs- prozesse und Abrechnen von Leistungen“
+# § 14 – Prüfungsbereich „Organisieren der Verwaltungsprozesse und Abrechnen von Leistungen“
 
 (1) Im Prüfungsbereich „Organisieren der Verwaltungsprozesse und Abrechnen von Leistungen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
