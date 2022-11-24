@@ -225,7 +225,7 @@ d) Plausibilitätsprüfung durchführen, hierbei insbesondere Unstimmigkeiten, w
 
 e) Beurteilung des gesundheitlichen Gefährdungspotentials beim Kunden und Folgen aus dem Ergebnis ableiten,
 
-f) spezifischen Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen,
+f) spezifische Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen,
 
 g) die gesetzlich Vertretungsberechtigten des zu versorgenden Kindes oder Jugendlichen beraten und auf weiterführende Rehabilitationsmaßnahmen hinweisen,
 
@@ -252,6 +252,8 @@ e) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anfor
 f) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebote und Kostenvoranschläge für die Hörsystemversorgung, den Gehörschutz sowie das Zubehör nach vorheriger Kostenermittlung erstellen und dabei unterschiedliche Leistungen der Kostenträger berücksichtigen sowie
 
 g) Abrechnungsbegründungen für Spezialanpassungen und Zusatzgeräte erstellen.
+
+§ 9 Abs. 2 Nr 1 Buchstabe f Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "spezifischen" durch das Wort "spezifische" ersetzt
 
 # § 10 – Handlungsfeld „Leistungen eines Betriebs im Hörakustiker-Handwerk erbringen, kontrollieren und übergeben“
 
