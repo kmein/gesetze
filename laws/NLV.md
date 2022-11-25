@@ -99,10 +99,6 @@ Im Übrigen sind auch solche Angaben der Tabelle 2 des Anhangs der Durchführung
 
 3. vorschreiben, dass ein bestimmter Stoff nicht oder in einer bestimmten Einheit im Sinne von § 1 Absatz 1 der Einheitenverordnung nicht nachweisbar sein darf.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 3 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Absatz 1 Satz 1 oder Absatz 2 Satz 1 ein neuartiges Lebensmittel in den Verkehr bringt oder in oder auf einem Lebensmittel verwendet.
@@ -114,3 +110,7 @@ Der Bundesrat hat zugestimmt.
 # § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Neuartige Lebensmittel- und Lebensmittelzutaten-Verordnung in der Fassung der Bekanntmachung vom 14. Februar 2000 (BGBl. I S. 123), die zuletzt durch Artikel 13 der Verordnung vom 5. Juli 2017 (BGBl. I S. 2272) geändert worden ist, außer Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
