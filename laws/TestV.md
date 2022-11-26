@@ -119,39 +119,15 @@ Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik a
 
 # § 4a – Bürgertestung
 
-(1) Folgende asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen-Tests:
+Folgende asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen-Tests:
 
-1. Personen, die zum Zeitpunkt der Testung das fünfte Lebensjahr noch nicht vollendet haben,
+1. Personen nach § 4 Absatz 1 Satz 1 Nummer 3 und 4,
 
-2. Personen, die aufgrund einer medizinischen Kontraindikation, insbesondere einer Schwangerschaft im ersten Schwangerschaftsdrittel, zum Zeitpunkt der Testung nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können oder in den letzten drei Monaten vor der Testung aufgrund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden konnten,
+2. Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen beschäftigen, sowie Personen, die bei Leistungsberechtigten im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch beschäftigt sind,
 
-3. Personen, die zum Zeitpunkt der Testung an klinischen Studien zur Wirksamkeit von Impfstoffen gegen das Coronavirus SARS-CoV-2 teilnehmen oder in den letzten drei Monaten vor der Testung an solchen Studien teilgenommen haben,
+3. Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches Sozialgesetzbuch und
 
-4. Personen, die sich zum Zeitpunkt der Testung aufgrund einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 in Absonderung befinden, wenn die Testung zur Beendigung der Absonderung erforderlich ist,
-
-5. Personen nach § 4 Absatz 1 Satz 1 Nummer 3 und 4,
-
-6. Personen, die an dem Tag, an dem die Testung erfolgt,
-
-a) eine Veranstaltung in einem Innenraum besuchen werden oder
-
-b) zu einer Person Kontakt haben werden, die
-
-aa)  
-das 60. Lebensjahr vollendet hat oder
-
-bb)  
-aufgrund einer Vorerkrankung oder Behinderung ein hohes Risiko aufweist, schwer an COVID-19 zu erkranken,
-
-7. Personen, die durch die Corona-Warn-App des Robert Koch-Instituts eine Warnung mit der Statusanzeige erhöhtes Risiko erhalten haben,
-
-8. Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen beschäftigen, sowie Personen, die bei Leistungsberechtigten im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch beschäftigt sind,
-
-9. Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches Sozialgesetzbuch,
-
-10. Personen, die mit einer mit dem Coronavirus SARS-CoV-2 infizierten Person in demselben Haushalt leben.
-
-(2) Bei Testungen nach Absatz 1 Nummer 6 und 7 hat die zu testende Person einen Eigenanteil in Höhe von 3 Euro an den Leistungserbringer zu leisten. Dieser Eigenanteil kann auch von dem Land getragen werden, in dem die Testung durchgeführt wird.
+4. Personen, die sich zum Zeitpunkt der Testung aufgrund einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 in Absonderung befinden, wenn die Testung zur Beendigung der Absonderung erforderlich ist.
 
 # § 4b – Bestätigende Diagnostik-Testung
 
@@ -195,9 +171,7 @@ Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann
 
 a) zum Nachweis der Identität der zu testenden Person ein amtlicher Lichtbildausweis oder, soweit die zu testende Person das 18. Lebensjahr noch nicht vollendet hat, ein sonstiger amtlicher Lichtbildausweis und
 
-b) der Nachweis, dass die zu testende Person aus einem der in § 4a Absatz 1 genannten Gründe anspruchsberechtigt ist; im Fall des § 4a Absatz 1 Nummer 2 ein ärztliches Zeugnis im Original darüber, dass die zu testende Person aufgrund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden kann und im Fall des § 4a Absatz 1 Nummer 10 ein Nachweis über das Testergebnis der infizierten Person und ein Nachweis der übereinstimmenden Wohnanschrift,
-
-5. bei Testungen nach § 4a Absatz 1 Nummer 6 und 7 die zu testende Person gegenüber dem Leistungserbringer eine Selbstauskunft darüber abgibt, dass die Testung zu einem in § 4a Absatz 1 Nummer 6 oder Nummer 7 genannten Zweck und unter Eigenbeteiligung in Höhe von 3 Euro durchgeführt wurde.
+b) der Nachweis, dass die zu testende Person aus einem der in § 4a genannten Gründe anspruchsberechtigt ist.
 
 (4) Im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts sind die Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6 berechtigt, die folgende Gesamtanzahl von PoC-Antigen-Tests oder Antigentests zur Eigenanwendung je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen:
 
@@ -211,11 +185,13 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 (1) Die nach § 6 Absatz 1 berechtigten Leistungserbringer rechnen die von ihnen erbrachten Leistungen und die Sachkosten nach den §§ 9 bis 11 jeweils mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer tätig ist.
 
-(2) Einrichtungen und Unternehmen nach § 4 Absatz 2 rechnen die Sachkosten für die selbst beschafften Antigen-Tests nach § 11 jeweils mit der Kassenärztlichen Vereinigung ab, in deren Bezirk die Einrichtung oder das Unternehmen tätig ist. Die Absätze 4 und 5 gelten für die Abrechnung nach Satz 1 entsprechend. Abweichend von den Sätzen 1 und 2 sind die Sachkosten für die selbst beschafften Antigen-Tests von Einrichtungen und Unternehmen nach § 6 Absatz 4 Satz 1, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind, über eine Pflegekasse nach den in § 150 Absatz 2 bis 5a des Elften Buches Sozialgesetzbuch niedergelegten Verfahren abzurechnen. Zahnarztpraxen und Rettungsdienste rechnen die Sachkosten unter Angabe ihres bundeseinheitlichen Kennzeichens nach § 293 Absatz 1 des Fünften Buches Sozialgesetzbuch ab, soweit vergeben.
+(2) Einrichtungen und Unternehmen nach § 4 Absatz 2 rechnen die Sachkosten für die selbst beschafften Antigen-Tests nach § 11 jeweils mit der Kassenärztlichen Vereinigung ab, in deren Bezirk die Einrichtung oder das Unternehmen tätig ist. Die Absätze 4 und 5 gelten für die Abrechnung nach Satz 1 entsprechend. Abweichend von den Sätzen 1 und 2 sind die Sachkosten nach § 11 für die nach § 6 Absatz 4 Satz 1 selbst beschafften Antigen-Tests von Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind, über eine Pflegekasse nach den in § 150 Absatz 2 bis 5a des Elften Buches Sozialgesetzbuch niedergelegten Verfahren abzurechnen. Zahnarztpraxen und Rettungsdienste rechnen die Sachkosten unter Angabe ihres bundeseinheitlichen Kennzeichens nach § 293 Absatz 1 des Fünften Buches Sozialgesetzbuch ab, soweit vergeben.
 
-(3) Ausschließlich die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer sowie Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 rechnen die von ihnen erbrachten Leistungen nach § 12 jeweils mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer, die Einrichtung oder das Unternehmen tätig ist. Leistungen nach § 12 Absatz 1, 2, 5 und 6 im Zusammenhang mit der Testung von Personen nach § 4 Absatz 1 Satz 1 Nummer 2 und 3 dürfen nicht abgerechnet werden; dies gilt nicht für die Testung von Personen nach § 4 Absatz 1 Satz 1 Nummer 2 in Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5. Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 rechnen die Leistungen nach § 12 Absatz 3 getrennt von den Sachkosten nach § 11 ab. Diejenigen Einrichtungen und Unternehmen nach § 6 Absatz 4 Satz 1, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind, rechnen die von ihnen erbrachten Leistungen in Höhe der nach § 12 Absatz 3 enthaltenen Vergütungssätze über eine Pflegekasse nach den in § 150 Absatz 2 bis 5a des Elften Buches Sozialgesetzbuch niedergelegten Verfahren ab.
+(3) Ausschließlich die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer sowie Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 rechnen die von ihnen erbrachten Leistungen nach § 12 jeweils mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer, die Einrichtung oder das Unternehmen tätig ist. Leistungen nach § 12 Absatz 1, 2, 5 und 6 im Zusammenhang mit der Testung von Personen nach § 4 Absatz 1 Satz 1 Nummer 2 und 3 dürfen nicht abgerechnet werden; dies gilt nicht für die Testung von Personen nach § 4 Absatz 1 Satz 1 Nummer 2 in Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5. Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 rechnen die Leistungen nach § 12 Absatz 3 getrennt von den Sachkosten nach § 11 ab. Diejenigen Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind, rechnen die von ihnen nach § 6 Absatz 4 Satz 1 erbrachten Leistungen in Höhe der nach § 12 Absatz 3 enthaltenen Vergütungssätze über eine Pflegekasse nach den in § 150 Absatz 2 bis 5a des Elften Buches Sozialgesetzbuch niedergelegten Verfahren ab. Für die Abrechnung mit Ausnahme der Abrechnung durch die in Satz 4 genannten Einrichtungen und Unternehmen gilt Absatz 4 Satz 1, 6 und 7 entsprechend.
 
-(4) Die nach § 6 Absatz 1 berechtigten Leistungserbringer sind verpflichtet, die von der Kassenärztlichen Bundesvereinigung nach Absatz 6 Nummer 1 festgelegten Angaben in den Abrechnungsunterlagen auftragsbezogen zu dokumentieren und monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats an die Kassenärztlichen Vereinigungen zu übermitteln. Die zu übermittelnden Angaben dürfen keinen Bezug zu der getesteten Person aufweisen. Vertragsärztliche Leistungserbringer können für die Abrechnung von Leistungen nach den §§ 11 und 12 den Abrechnungsweg über den Datensatz KVDT nutzen. Die erforderlichen Angaben sind elektronisch zu übermitteln. Vertragsärztliche Leistungserbringer, die den Abrechnungsweg über den Datensatz KVDT nutzen, übermitteln quartalsweise.
+(3a) Die in Absatz 2 Satz 3 und Absatz 3 Satz 4 genannten Einrichtungen und Unternehmen haben die bis zum 30. November 2022 entstandenen Sachkosten nach § 11 und von ihnen erbrachten Leistungen nach § 12 Absatz 3 bis spätestens zum Ablauf des 31. Januar 2023 abzurechnen. Die in Absatz 2 Satz 3 und Absatz 3 Satz 4 genannten Einrichtungen und Unternehmen haben die ab dem 1. Dezember 2022 entstehenden Sachkosten nach § 11 und von ihnen erbrachten Leistungen nach § 12 Absatz 3 spätestens bis zum Ende des dritten Kalendermonats nach dem Kalendermonat, in dem der Anspruch entstanden ist, abzurechnen. Nach Ablauf der Fristen nach den Sätzen 1 und 2 ist die Abrechnung von Sachkosten nach § 11 und Leistungen nach § 12 Absatz 3 über eine Pflegekasse nach den in § 150 Absatz 2 bis 5a des Elften Buches Sozialgesetzbuch niedergelegten Verfahren ausgeschlossen.
+
+(4) Die nach § 6 Absatz 1 berechtigten Leistungserbringer sind verpflichtet, die von der Kassenärztlichen Bundesvereinigung nach Absatz 6 Nummer 1 festgelegten Angaben in den Abrechnungsunterlagen auftragsbezogen zu dokumentieren und monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats an die Kassenärztlichen Vereinigungen zu übermitteln. Die zu übermittelnden Angaben dürfen keinen Bezug zu der getesteten Person aufweisen. Vertragsärztliche Leistungserbringer können für die Abrechnung von Leistungen nach den §§ 11 und 12 den Abrechnungsweg über den Datensatz KVDT nutzen. Die erforderlichen Angaben sind elektronisch zu übermitteln. Vertragsärztliche Leistungserbringer, die den Abrechnungsweg über den Datensatz KVDT nutzen, übermitteln quartalsweise. Abweichend von Satz 1 sind Leistungen, die bis zum 30. November 2022 erbracht worden sind, bis spätestens zum Ablauf des 31. Januar 2023 abzurechnen. Die Abrechnung von Leistungen nach den §§ 9 bis 12 ist nach Ablauf der Fristen nach den Sätzen 1 und 6 ausgeschlossen.
 
 (5) Die nach § 6 Absatz 1 berechtigten Leistungserbringer und die sonstigen abrechnenden Stellen haben die nach Absatz 4 in Verbindung mit Absatz 6 Nummer 1 zu dokumentierenden Angaben und die für den Nachweis der korrekten Durchführung und Abrechnung notwendige Auftrags- und Leistungsdokumentation bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Zur Auftrags- und Leistungsdokumentation zählen soweit erforderlich insbesondere
 
@@ -235,11 +211,11 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 8. die schriftliche oder elektronische Bestätigung der getesteten Person oder ihres gesetzlichen Vertreters über die Durchführung des Tests,
 
-9. bei der Abrechnung von Leistungen nach § 4a Absatz 1 Nummer 6 und 7 für jede durchgeführte Testung die Selbstauskunft nach § 6 Absatz 3 Nummer 5.
+9. bei der Abrechnung von Leistungen nach § 4a Absatz 1 Nummer 6 und 7 der Coronavirus-Testverordnung in der bis zum 24. November 2022 geltenden Fassung, die bis zum 24. November 2022 erbracht wurden, für jede durchgeführte Testung die Selbstauskunft nach § 6 Absatz 3 Nummer 5.
 
-Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen einzelnen Angaben nach Satz 2 Nummer 1 bis 9 in den jeweiligen Fällen ganz oder teilweise abgesehen werden kann, regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31. Dezember 2022 unverändert zu speichern oder aufzubewahren.
+Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen einzelnen Angaben nach Satz 2 Nummer 1 bis 9 in den jeweiligen Fällen ganz oder teilweise abgesehen werden kann, regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31. Dezember 2023 unverändert zu speichern oder aufzubewahren.
 
-(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 15. Juli 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
+(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 9. Dezember 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
 
 1. die von den Leistungserbringern für die Abrechnung und für Zwecke des § 16 an die Kassenärztlichen Vereinigungen zu übermittelnden Angaben und die für den Nachweis der korrekten Abrechnung notwendigen Auftrags- und Leistungsdokumentation,
 
@@ -251,11 +227,11 @@ Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen e
 
 (7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26. Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b genannten Fällen und in den Fällen der §§ 3 und 4 danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
 
-(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 29. Juni 2022 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
+(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 24. November 2022 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
 
 (9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben.
 
-(10) Alle Leistungserbringer, die Testungen nach § 4a anbieten, sind verpflichtet, der zuständigen Stelle des öffentlichen Gesundheitsdienstes oder der von ihr benannten Stelle monatlich und standortbezogen die Zahl der von ihnen erbrachten Testungen nach § 4a und die Zahl der positiven Testergebnisse zu melden. Die zuständige oder benannte Stelle kann das Nähere zum Verfahren der Meldungen festlegen. Die gemeldeten Daten können an die jeweilige Kassenärztliche Vereinigung und das Robert Koch-Institut übermittelt und für Zwecke der nach § 7a Absatz 1a und 2 durchzuführenden Prüfungen verwendet werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
+(10) Alle Leistungserbringer, die Testungen nach § 4a anbieten, sind verpflichtet, der zuständigen Stelle des öffentlichen Gesundheitsdienstes oder der von ihr benannten Stelle monatlich, letztmalig für den Monat Februar des Jahres 2023 und standortbezogen die Zahl der von ihnen erbrachten Testungen nach § 4a und die Zahl der positiven Testergebnisse zu melden. Die zuständige oder benannte Stelle kann das Nähere zum Verfahren der Meldungen festlegen. Die gemeldeten Daten können an die jeweilige Kassenärztliche Vereinigung und das Robert Koch-Institut übermittelt und für Zwecke der nach § 7a Absatz 1a und 2 durchzuführenden Prüfungen verwendet werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
 
 # § 7a – Abrechnungsprüfung
 
@@ -303,9 +279,9 @@ Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öf
 
 # § 7b – Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22a Absatz 6 des Infektionsschutzgesetzes
 
-(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach § 12 Absatz 6 für die Ausstellung eines COVID-19-Genesenenzertifikates im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ergebende Vergütung mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Für die Erstellung von COVID-19-Genesenenzertifikaten im Sinne des § 22a Absatz 6 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Genesenenzertifikate und der dafür geltend gemachte Erstattungsbetrag ergibt. Die übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Genesenenzertifikat im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ausgestellt wurde. Die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach § 12 Absatz 6 für die Ausstellung eines COVID-19-Genesenenzertifikates im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ergebende Vergütung mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Für die Erstellung von COVID-19-Genesenenzertifikaten im Sinne des § 22a Absatz 6 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Genesenenzertifikate und der dafür geltend gemachte Erstattungsbetrag ergibt. Die übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Genesenenzertifikat im Sinne von § 22a Absatz 6 des Infektionsschutzgesetzes ausgestellt wurde. Die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Abweichend von Satz 1 sind Leistungen, die bis zum 30. November 2022 erbracht worden sind, bis spätestens zum Ablauf des 31. Januar 2023 abzurechnen. Die Abrechnung von Leistungen nach dieser Vorschrift ist nach Ablauf der Fristen nach den Sätzen 1 und 6 ausgeschlossen.
 
-(2) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt monatlich oder quartalsweise den sich für die Apotheken, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der Abrechnungen nach Absatz 1 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch das jeweilige Rechenzentrum in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach Satz 1 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Es bestimmt das Nähere zum Verfahren der Übermittlung und der Zahlung nach den Sätzen 1 bis 3. Die Rechenzentren leiten den sich aus der Abrechnung nach Absatz 1 Satz 1 ergebenden Betrag an die Apotheken weiter.
+(2) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt monatlich oder quartalsweise, letztmalig bis zum 15. November 2023, den sich für die Apotheken, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der Abrechnungen nach Absatz 1 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch das jeweilige Rechenzentrum in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Angaben sind bis zum 15. Dezember 2023 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach Satz 1 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Es bestimmt das Nähere zum Verfahren der Übermittlung und der Zahlung nach den Sätzen 1 bis 3. Die Rechenzentren leiten den sich aus der Abrechnung nach Absatz 1 Satz 1 ergebenden Betrag an die Apotheken weiter.
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 2 Satz 3 eine Aufstellung der gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
@@ -331,7 +307,7 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 (2) Die Vergütung bei überwachten Antigen-Tests zur Eigenanwendung beträgt je Testung 5 Euro.
 
-(3) Sofern Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung in eigener Verantwortung beschaffen und nutzen, beträgt die zu zahlende Vergütung für Leistungen nach Absatz 1 Satz 1 je Testung 7 Euro; wird die Person, die die Testung durchführt, unentgeltlich tätig, darf eine Vergütung nicht abgerechnet werden. Absatz 2 gilt entsprechend. Die Sätze 1 und 2 gelten entsprechend für diejenigen Einrichtungen und Unternehmen nach § 6 Absatz 4 Satz 1, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind.
+(3) Sofern Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung in eigener Verantwortung beschaffen und nutzen, beträgt die zu zahlende Vergütung für Leistungen nach Absatz 1 Satz 1 je Testung 7 Euro; wird die Person, die die Testung durchführt, unentgeltlich tätig, darf eine Vergütung nicht abgerechnet werden. Absatz 2 gilt entsprechend. Die Sätze 1 und 2 gelten entsprechend für diejenigen Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6, die nach § 72 des Elften Buches Sozialgesetzbuch zugelassene Pflegeeinrichtungen oder die nach Maßgabe des gemäß § 45a Absatz 3 des Elften Buches Sozialgesetzbuch erlassenen Landesrechts anerkannte Angebote zur Unterstützung im Alltag sind.
 
 (4) Für die ärztliche Schulung des Personals in nichtärztlich oder nichtzahnärztlich geführten Einrichtungen nach § 4 Absatz 2 Nummer 1 bis 6 und von einem Leistungserbringer nach § 6 Absatz 1 Nummer 2 und 3, der kein ärztlicher oder zahnärztlicher Leistungserbringer ist, zur Anwendung und Auswertung der PoC-Antigen-Tests und überwachten Antigen-Tests zur Eigenanwendung erhält der durchführende Arzt für eine höchstens alle zwei Monate je Einrichtung stattfindende Schulung 70 Euro je Schulung. Wird die Person, die die Schulung durchführt, unentgeltlich tätig oder führt eine Stelle des öffentlichen Gesundheitsdienstes diese Schulung durch, dürfen die Schulungsmaßnahmen nicht vergütet werden.
 
@@ -343,7 +319,7 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 # § 13 – Finanzierung von Testzentren
 
-(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 5 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
+(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
 
 (2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung und Nummer 3. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
 
@@ -353,9 +329,11 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 (5) Die erstattungsfähigen Kosten nach Absatz 1 Satz 1 werden durch die Kassenärztliche Vereinigung nach § 14 Absatz 1 an das Bundesamt für Soziale Sicherung übermittelt. Für Testzentren nach § 6 Absatz 1 Nummer 1 rechnen die Betreiber für jedes einzelne Testzentrum getrennt die erstattungsfähigen Kosten nach Absatz 1 Satz 1 gegenüber der Kassenärztlichen Vereinigung ab, in deren Bezirk das jeweilige Testzentrum liegt. Die Kassenärztliche Vereinigung behält für ihren zusätzlichen Aufwand der Abrechnung für Testzentren nach § 6 Absatz 1 Nummer 1 einen Verwaltungskostensatz in Höhe von 1 Prozent pro Abrechnungsbetrag ein. Für die Abrechnung der Kosten nach Absatz 1 Satz 4 gilt § 13 Absatz 5 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung.
 
+(6) Abrechnungen nach dieser Vorschrift haben spätestens bis zum 30. September 2023 zu erfolgen. Die Abrechnung von Kosten für die Errichtung und den laufenden Betrieb von Testzentren nach dieser Vorschrift ist nach Ablauf der in Satz 1 genannten Frist ausgeschlossen.
+
 # § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
 
-(1) Jede Kassenärztliche Vereinigung übermittelt monatlich oder quartalsweise folgende Angaben an das Bundesamt für Soziale Sicherung und an die jeweilige oberste Landesgesundheitsbehörde:
+(1) Jede Kassenärztliche Vereinigung übermittelt monatlich oder quartalsweise, letztmalig bis zum 15. November 2023, folgende Angaben an das Bundesamt für Soziale Sicherung und an die jeweilige oberste Landesgesundheitsbehörde:
 
 1. den Gesamtbetrag der sich nach § 7 Absatz 1 in Verbindung mit den §§ 9 und 10 ergebenden Abrechnung,
 
@@ -375,7 +353,7 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 9. die Höhe der Verwaltungskosten nach § 8 Satz 3.
 
-Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch die jeweilige Kassenärztliche Vereinigung in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach den Sätzen 1 und 2 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die jeweilige Kassenärztliche Vereinigung.
+Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch die jeweilige Kassenärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Angaben sind bis zum 15. Dezember 2023 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach den Sätzen 1 und 2 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die jeweilige Kassenärztliche Vereinigung.
 
 (2) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zu dem Verfahren der Übermittlung nach Absatz 1 Satz 1 und 2, zu dem Verfahren der Zahlungen aus der Liquiditätsreserve des Gesundheitsfonds nach Absatz 1 Satz 3 und zu dem Verfahren der Rückzahlungen an die Liquiditätsreserve des Gesundheitsfonds nach § 7a Absatz 5 Satz 6.
 
@@ -395,7 +373,7 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 # § 16 – Transparenz
 
-(1) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen jeden Monat über die Kassenärztliche Bundesvereinigung folgende Angaben zu übermitteln:
+(1) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen jeden Monat, letztmalig im Monat April des Jahres 2023, über die Kassenärztliche Bundesvereinigung folgende Angaben zu übermitteln:
 
 1. die Anzahl der nach § 7 Absatz 1 abgerechneten Leistungen, differenziert nach den §§ 9 bis 11, und den jeweiligen Gesamtbetrag der Abrechnung,
 
@@ -419,7 +397,7 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 (3) Die Kassenärztliche Bundesvereinigung veröffentlicht bis zum Ende des Monats, in dem die Übermittlung der Angaben nach Absatz 1 erfolgt, die Anzahl der jeweils von den Kassenärztlichen Vereinigungen abgerechneten Testungen nach § 4a und den Gesamtbetrag, der sich je Kassenärztlicher Vereinigung aus der Abrechnung der Testungen nach § 4a ergibt, sowie nach Abstimmung mit den Ländern weitere für statistische Zwecke relevante Angaben auf ihrer Internetseite.
 
-(4) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit einmal im Quartal über die Kassenärztliche Bundesvereinigung einen Bericht über die Abrechnungsprüfungen nach § 7a zu übermitteln. Der Bericht muss insbesondere folgende Angaben enthalten:
+(4) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit einmal im Quartal, letztmalig im Monat April des Jahres 2023, über die Kassenärztliche Bundesvereinigung einen Bericht über die Abrechnungsprüfungen nach § 7a zu übermitteln. Der Bericht muss insbesondere folgende Angaben enthalten:
 
 1. Angaben zur Anzahl der Abrechnungsprüfungen,
 
@@ -431,6 +409,22 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 5. Angaben zu den Gründen für die Rückzahlung von Beträgen an die Liquiditätsreserve des Gesundheitsfonds.
 
+(5) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit zum 31. Juli 2023, zum 31. Dezember 2023, zum 31. Juli 2024 und zum 31. Dezember 2024 über die Kassenärztliche Bundesvereinigung jeweils einen Bericht mit folgenden Angaben zu übermitteln:
+
+1. Angaben zur Anzahl der laufenden Verfahren, in denen Auszahlungen der Beträge nach § 14 Absatz 1 Satz 3 nach § 7a Absatz 5 Satz 1 ausgesetzt wurden,
+
+2. Angaben zur Höhe der Beträge, deren Auszahlung nach § 7a Absatz 5 Satz 1 in laufenden Verfahren ausgesetzt wurden,
+
+3. Angaben zur Anzahl der laufenden Verfahren, in denen Rückzahlungsansprüche nach § 7a Absatz 5 Satz 5 durch Bescheid geltend gemacht wurden,
+
+4. Angaben zur Höhe der nach § 7a Absatz 5 Satz 5 in laufenden Verfahren durch Bescheid geltend gemachten Rückzahlungsansprüche und zur Höhe der bereits nach § 7a Absatz 5 Satz 6 an die Liquiditätsreserve des Gesundheitsfonds gezahlten Rückerstattungsbeträge,
+
+5. Angaben zur Höhe der nach § 14 Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlten Beträge sowie zur Höhe der hiervon bereits an die Leistungserbringer gezahlten Beträge und der hiervon noch nicht an die Leistungserbringer gezahlten Beträge,
+
+6. Angaben zu den Gründen dafür, dass bereits nach § 14 Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlte Beträge noch nicht an die Leistungserbringer gezahlt wurden, soweit dies der Fall ist.
+
+Die Kassenärztliche Bundesvereinigung legt die Form eines von allen Kassenärztlichen Vereinigungen für die Erstellung des nach Satz 1 zu übermittelnden Berichts zu verwendenden Vordrucks bundeseinheitlich fest.
+
 # § 17 – Labordiagnostik durch Tierärzte
 
 (1) Tierärzte können im Rahmen einer Labordiagnostik den direkten Nachweis des Coronavirus SARS-CoV-2 führen. § 9 der Medizinprodukte-Betreiberverordnung gilt für Tierärzte entsprechend.
@@ -441,8 +435,6 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 30. November 2020 (BAnz AT 01.12.2020 V1), die durch Artikel 1 der Verordnung vom 15. Januar 2021 (BAnz AT 15.01.2021 V1) geändert worden ist, nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 27. Januar 2021 (BAnz AT 27.01.2021 V2), nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 8. März 2021 (BAnz AT 09.03.2021 V1), die durch Artikel 1 der Verordnung vom 3. Mai 2021 (BAnz AT 04.05.2021 V1) geändert worden ist und nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, gelten vorbehaltlich der Sätze 2 und 3 fort. Beauftragungen Dritter als Testzentrum nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung gelten seit dem 1. Juli 2021 als Beauftragungen Dritter nach § 6 Absatz 1 Nummer 2, soweit sie nicht nach Satz 3 unwirksam geworden sind. Eine bis zum 30. Juni 2021 erfolgte Beauftragung nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung durch Allgemeinverfügung ist seit dem 20. Juli 2021 unwirksam. Leistungen nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung, die bis zum 30. Juni 2021 erbracht wurden, werden nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung vergütet. Ärztliche Zeugnisse nach § 1 Absatz 1 Satz 2 Nummer 5 in der bis zum 12. November 2021 geltenden Fassung, die bis zum 12. November 2021 ausgestellt und noch nicht abgerechnet worden sind, werden nach den §§ 7 bis 12 vergütet und mit der nächstmöglichen Abrechnung abgerechnet. Leistungen der variantenspezifischen PCR-Testung nach § 9 der Coronavirus-Testverordnung in der bis zum 11. Februar 2022 geltenden Fassung, die bis zum 11. Februar 2022 erbracht wurden, werden nach § 9 der Coronavirus-Testverordnung in der bis zum 11. Februar 2022 geltenden Fassung vergütet.
 
-# § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Außerkrafttreten
 
-(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt mit Ablauf des 25. November 2022 außer Kraft.
-
-(2) Die Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, tritt mit Ablauf des 10. Oktober 2021 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2024 außer Kraft.

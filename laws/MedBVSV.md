@@ -90,7 +90,3 @@ Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung
 (3) Persönliche Schutzausrüstungen, die nach Maßgabe des Absatzes 2 Satz 2 von der zuständigen Marktüberwachungsbehörde nach § 25 Absatz 1 des Produktsicherheitsgesetzes als verkehrsfähig angesehen werden, sind von ihr mit einer Bestätigung zu versehen, die jeder Abgabeeinheit beizufügen ist und Auskunft darüber gibt, dass es sich um persönliche Schutzausrüstungen handelt, die nach Absatz 2 Satz 1 und nicht nach der Verordnung (EU) 2016/425 bereitgestellt werden.
 
 (4) Persönliche Schutzausrüstungen, die nach Maßgabe von Absatz 1 Satz 2 oder Absatz 2 Satz 2 von der zuständigen Marktüberwachungsbehörde nach § 25 Absatz 1 des Produktsicherheitsgesetzes als verkehrsfähig angesehen werden, dürfen abweichend von § 2 Absatz 1 Nummer 1 der PSA-Benutzungsverordnung durch den Arbeitgeber ausgewählt und den Beschäftigten bereitgestellt werden.
-
-# § 10 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Dezember 2023 außer Kraft.
