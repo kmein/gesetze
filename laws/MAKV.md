@@ -82,7 +82,3 @@ Absatz 2 Satz 2 gilt entsprechend. Ein Anspruch auf Vergütung nach Satz 1 oder 
 (2) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zur Übermittlung und Zahlung der Beträge nach Absatz 1 Satz 1 bis 3.
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit quartalsweise eine Aufstellung der nach Absatz 1 Satz 3 ausgezahlten Beträge.
-
-# § 6 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft; sie tritt mit Ablauf des 7. April 2023 außer Kraft.

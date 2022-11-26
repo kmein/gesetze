@@ -1541,6 +1541,7 @@
 - [DrechsHolzspielMstrV](laws/DrechsHolzspielMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Drechsler-(Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerk
 - [DrechslAusbV](laws/DrechslAusbV.md) Verordnung über die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)
 - [DRG-EKV 2022](laws/DRG-EKV_2022.md) Verordnung zu den Entgeltkatalogen für DRG-Krankenhäuser für das Jahr 2022
+- [DRG-EKV 2023](laws/DRG-EKV_2023.md) Verordnung zu den Entgeltkatalogen für DRG-Krankenhäuser für das Jahr 2023
 - [DRiG](laws/DRiG.md) Deutsches Richtergesetz
 - [DrittelbG](laws/DrittelbG.md) Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat
 - [DRK-SDDSG](laws/DRK-SDDSG.md) Gesetz zur Regelung des Datenschutzes für den Suchdienst des Deutschen Roten Kreuzes
