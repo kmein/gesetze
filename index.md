@@ -1508,7 +1508,6 @@
 - [DiplSchKonv](laws/DiplSchKonv.md) Übereinkommen über die Verhütung, Verfolgung und Bestrafung von Straftaten gegen völkerrechtlich geschützte Personen einschließlich Diplomaten
 - [DirektZahlDurchfG](laws/DirektZahlDurchfG.md) Gesetz zur Durchführung der Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik
 - [DirektZahlDurchfV](laws/DirektZahlDurchfV.md) Verordnung zur Durchführung der Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik
-- [DIVIIntRegV](laws/DIVIIntRegV.md) Verordnung zur Aufrechterhaltung und Sicherung intensivmedizinischer Krankenhauskapazitäten
 - [DJStiftAnO](laws/DJStiftAnO.md) Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
 - [DJStiftSa](laws/DJStiftSa.md) Satzung der "Stiftung Demokratische Jugend" (Anlage zur Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
 - [DJubV](laws/DJubV.md) Verordnung über die Gewährung von Dienstjubiläumszuwendungen
@@ -1781,7 +1780,6 @@
 - [EÖlBAbk NLD](laws/EÖlBAbk_NLD.md) Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EpiAAppOAbwV](laws/EpiAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite
 - [EpiÄApprO2002AbwV](laws/EpiÄApprO2002AbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Ärzte bei einer epidemischen Lage von nationaler Tragweite
-- [EpiGesAusbSichV](laws/EpiGesAusbSichV.md) Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen während einer epidemischen Lage von nationaler Tragweite
 - [EpiZÄPrOAbwV](laws/EpiZÄPrOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Zahnärzte bei einer epidemischen Lage von nationaler Tragweite
 - [EPSPV](laws/EPSPV.md) Verordnung über die Prüfung zum Prüfsachverständigen im Eisenbahnbereich
 - [EPSV](laws/EPSV.md) Verordnung zur Anerkennung, zum Einsatz und zur Überwachung von Prüfsachverständigen im Eisenbahnbereich
@@ -2775,7 +2773,6 @@
 - [HwStatG](laws/HwStatG.md) Gesetz über Statistiken im Handwerk
 - [HwVerwdtV](laws/HwVerwdtV.md) Verordnung über verwandte Handwerke
 - [HwWahlO](laws/HwWahlO.md) Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))
-- [HygPV](laws/HygPV.md) Verordnung zur pauschalen Abgeltung erhöhter Kosten für Hygieneaufwendungen im Heilmittelbereich
 - [HypAblV](laws/HypAblV.md) Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen
 - [HypBkGÄndG 5](laws/HypBkGÄndG_5.md) Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes
 - [HypKrlosErklG](laws/HypKrlosErklG.md) Gesetz über die Kraftloserklärung von Hypotheken-, Grundschuld- und Rentenschuldbriefen in besonderen Fällen
@@ -4915,7 +4912,6 @@
 - [SchulversucheV](laws/SchulversucheV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden
 - [SchUnfDatG](laws/SchUnfDatG.md) Schiffsunfalldatenbankgesetz
 - [SchuTSEV](laws/SchuTSEV.md) Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden *)
-- [SchutzmV](laws/SchutzmV.md) Verordnung zum Anspruch auf Schutzmasken zur Vermeidung einer Infektion mit dem Coronavirus SARS-CoV-2
 - [SchutzRAbk PRT](laws/SchutzRAbk_PRT.md) Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes
 - [SchutzRAbk SWE](laws/SchutzRAbk_SWE.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Wiederherstellung gewerblicher Schutzrechte
 - [SchuV](laws/SchuV.md) Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
