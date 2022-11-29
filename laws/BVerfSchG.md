@@ -479,7 +479,7 @@ Die Entscheidung trifft der Behördenleiter oder ein von ihm besonders beauftrag
 
 (2) Die Polizeien dürfen zur Verhinderung von Staatsschutzdelikten nach Absatz 1 Satz 2 das Bundesamt für Verfassungsschutz um Übermittlung der erforderlichen Informationen einschließlich personenbezogener Daten ersuchen. Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben das Bundesamt für Verfassungsschutz um die Übermittlung der erforderlichen Informationen einschließlich personenbezogener Daten ersuchen.
 
-§ 20 Abs. 1 Satz 1 u. 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
+§ 20 Abs. 1 Satz 1 u. 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
 
 # § 21 – Übermittlung von Informationen durch die Verfassungsschutzbehörden der Länder an Strafverfolgungs- und Sicherheitsbehörden in Angelegenheiten des Staats- und Verfassungsschutzes
 
@@ -487,7 +487,7 @@ Die Entscheidung trifft der Behördenleiter oder ein von ihm besonders beauftrag
 
 (2) Die Verfassungsschutzbehörden der Länder übermitteln dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst Informationen einschließlich personenbezogener Daten unter den Voraussetzungen des § 20 Abs. 1 Satz 3 sowie Abs. 2 Satz 2.
 
-§ 21 Abs. 1 Satz 1: IVm § 20 Abs. 1 Satz 1 u. 2 nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
+§ 21 Abs. 1 Satz 1: IVm § 20 Abs. 1 Satz 1 u. 2 nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
 
 # § 22 – Übermittlung von Informationen durch die Staatsanwaltschaften und Polizeien an den Militärischen Abschirmdienst
 

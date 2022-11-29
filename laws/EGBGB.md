@@ -3826,7 +3826,8 @@ Fügen Sie Ihren Namen oder den Namen Ihres Unternehmens, Ihre Anschrift und Ihr
 
 # Anlage 11 – (zu Artikel 250 § 2 Absatz 1)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2409 — 2410)
+(Fundstelle: BGBl. I 2017, 2409 — 2410;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3837,7 +3838,8 @@ Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtu
 
 # Anlage 12 – (zu Artikel 250 § 2 Absatz 2)Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2411 — 2412)
+(Fundstelle: BGBl. I 2017, 2411 — 2412;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3848,7 +3850,8 @@ Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtu
 
 # Anlage 13 – (zu Artikel 250 § 4)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2413 — 2414)
+(Fundstelle: BGBl. I 2017, 2413 — 2414;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3859,7 +3862,8 @@ Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtu
 
 # Anlage 14 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2415)
+(Fundstelle: BGBl. I 2017, 2415;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3867,7 +3871,8 @@ Gestaltungshinweise:
 
 # Anlage 15 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2416)
+(Fundstelle: BGBl. I 2017, 2416;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3875,7 +3880,8 @@ Gestaltungshinweise:
 
 # Anlage 16 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2417 — 2418)
+(Fundstelle: BGBl. I 2017, 2417 — 2418;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3886,7 +3892,8 @@ Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtu
 
 # Anlage 17 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2419)
+(Fundstelle: BGBl. I 2017, 2419;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3897,7 +3904,8 @@ Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtu
 
 # Anlage 18 – (zu Artikel 252 Absatz 1 Satz 1)Muster für den Sicherungsschein
 
-(Fundstelle: BGBl. I 2021, 2121)
+(Fundstelle: BGBl. I 2021, 2121;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 

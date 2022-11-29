@@ -91,6 +91,9 @@ Bei Nichtbestehen darf der Eignungstest einmal nach einer Mindestwartezeit von e
 
 (5) Der Seeärztliche Dienst hat den Zielerreichungsgrad als Ergebnis des psychologischen Eignungstests der Seelotsenbewerberin oder des Seelotsenbewerbers im Seelotseignungsverzeichnis zu dem in § 49 Absatz 2 Nummer 4 des Seelotsgesetzes genannten Zweck zu speichern und der Seelotsenbewerberin oder dem Seelotsenbewerber diesen schriftlich oder elektronisch mitzuteilen.
 
+(+++ § 3: Zur Anwendung vgl. § 11 Abs. 1 +++)  
+(+++ § 3: Zur Anwendung ab dem 1.1.2023 vgl. Bek. v. 21.11.2022 I 2097 +++)
+
 # § 4 – Durchführung der Seelotseignungsuntersuchung
 
 (1) Die zur Untersuchung befugte Ärztin oder der zur Untersuchung befugte Arzt hat vor jeder Seelotseignungsuntersuchung die Identität der zu untersuchenden Person festzustellen und durch Einblick in das Seelotseignungsverzeichnis die für die Person erfassten Daten auf das Vorliegen eines Sperrvermerks nach § 49 Absatz 3 Nummer 17 des Seelotsgesetzes zu prüfen. Eine Seelotseignungsuntersuchung darf nur durchgeführt und ein Seelotseignungszeugnis nur erteilt werden, wenn im Seelotseignungsverzeichnis kein Sperrvermerk eingetragen ist.
@@ -176,6 +179,8 @@ Die Berufsgenossenschaft kann Muster für die nach dieser Verordnung vorgesehene
 (4) Vor dem 28. Mai 2022 erteilte Zeugnisse über die körperliche und geistige Eignung für den Seelotsenberuf nach § 1 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit bis zum Ablauf des in § 2 Absatz 1 Satz 1 Nummer 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung vorgesehenen Untersuchungsintervalls.
 
 (5) Vor dem Tag der erstmaligen Anwendung des § 3 ausgestellte Bescheinigungen über psychologische Untersuchungen von Seelotsenbewerberinnen oder Seelotsenbewerbern nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit. Für die Zulassung zur Seelotsenanwärterin oder zum Seelotsenanwärter nach § 9 des Seelotsgesetzes hat die Aufsichtsbehörde für das Seelotswesen die in der Anlage 3 aufgeführten Maßstäbe zur Vergleichbarkeit der Ergebnisse der psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
+
+(+++ § 11 Abs. 3: Zur Anwendung d. § 3 ab dem 1.1.2023 vgl. Bek. v. 21.11.2022 I 2097 +++)
 
 # Anlage 1 – (zu § 2 Absatz 1 Nummer 2 und § 4 Absatz 2 Satz 2)Umfang der Seelotseignungsuntersuchung
 

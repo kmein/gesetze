@@ -23,7 +23,13 @@ verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
 Im Sinne dieser Verordnung bezeichnet der Begriff:
 
-1. „Nutzfahrzeug“: ein Kraftfahrzeug samt zugehörigem Anhänger oder Sattelanhänger, das der Beförderung von Gütern oder Fahrgästen dient und der Fahrzeugklasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub>, O<sub>4</sub> des Anhangs II der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1) oder der Fahrzeugklasse T<sub>b</sub> nach Artikel 4 Nummer 1 Buchstabe b der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2016/1788 (ABl. L 277 vom 13.10.2016, S. 1) geändert worden ist, angehört,
+1. „Nutzfahrzeug“: ein Kraftfahrzeug samt zugehörigem Anhänger oder Sattelanhänger, das der Beförderung von Gütern oder Fahrgästen dient und
+
+a) der Fahrzeugklasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> oder O<sub>4</sub> nach Artikel 4 der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/1445 (ABl. L 313 vom 6.9.2021, S. 4) geändert worden ist, oder
+
+b) der Fahrzeugklasse T1b, T2b, T3b, T4.1b, T4.2b oder T4.3b nach Artikel 4 der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/519 (ABl. L 91 vom 29.3.2019, S. 42) geändert worden ist,
+
+angehört,
 
 2. "Kontrolle": die von den Behörden nicht angekündigte und somit unerwartete, auf öffentlichen Straßen oder hierfür durch die nach § 3 Absatz 1 zuständigen Behörden gesondert bestimmten Flächen durchgeführte Überwachung, Prüfung oder Untersuchung eines Nutzfahrzeugs hinsichtlich seines technischen Zustands nach den Maßgaben des § 5 durch die zuständigen Behörden,
 
@@ -89,7 +95,7 @@ Der Kontrollbericht nach Nummer 1 und die Prüfbescheinigung nach Nummer 2 sind 
 
 # § 6 – Kontrollbericht
 
-Die zuständigen Behörden oder deren Beauftragte haben einen Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie 2014/47/EU zu fertigen, wenn ein erheblicher oder gefährlicher Mangel festgestellt oder eine gründlichere technische Unterwegskontrolle durchgeführt wurde. Eine Ausfertigung des Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
+Die zuständigen Behörden oder deren Beauftragte haben einen Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie 2014/47/EU in der durch Artikel 1 Nummer 2 der Delegierten Richtlinie (EU) 2021/1716 der Kommission vom 29. Juni 2021 zur Änderung der Richtlinie 2014/47/EU des Europäischen Parlaments und des Rates hinsichtlich Änderungen der Bezeichnungen von Fahrzeugklassen aufgrund von Änderungen der Typgenehmigungsvorschriften (ABl. L 342 vom 27.9.2021, S. 45) geänderten Fassung zu fertigen, wenn ein erheblicher oder gefährlicher Mangel festgestellt oder eine gründlichere technische Unterwegskontrolle durchgeführt wurde. Eine Ausfertigung des Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
 
 # § 7 – Bewertung von Mängeln und Folgemaßnahmen
 

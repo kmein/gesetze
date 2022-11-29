@@ -1513,6 +1513,8 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
 (5) Die Summen der sich nach Absatz 4 ergebenden regelbedarfsrelevanten Verbrauchsausgaben der Referenzhaushalte sind Grundlage für die Prüfung der Regelbedarfsstufen, insbesondere für die Altersabgrenzungen bei Kindern und Jugendlichen. Die nach Satz 1 für die Ermittlung der Regelbedarfsstufen zugrunde zu legenden Summen der regelbedarfsrelevanten Verbrauchsausgaben aus den Sonderauswertungen sind jeweils mit der sich nach § 28a Absatz 2 ergebenden Veränderungsrate entsprechend fortzuschreiben. Die sich durch die Fortschreibung nach Satz 2 ergebenden Summenbeträge sind jeweils bis unter 0,50 Euro abzurunden sowie von 0,50 Euro an aufzurunden und ergeben die Regelbedarfsstufen (Anlage).
 
+(+++ § 28: Zur Anwendung iVm d. Regelbedarfsermittlungsgesetz u. §§ 28a, 40 d. Zwölften Buches Sozialgesetzbuch vgl. Nr. 2 BVerfGE v. 19.10.2022 - 1 BvL 3/21 - +++)
+
 # § 28a – Fortschreibung der Regelbedarfsstufen
 
 (1) In Jahren, in denen keine Neuermittlung nach § 28 erfolgt, werden die Regelbedarfsstufen jeweils zum 1. Januar mit der sich nach Absatz 2 ergebenden Veränderungsrate fortgeschrieben. § 28 Absatz 5 Satz 3 gilt entsprechend.
