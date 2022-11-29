@@ -203,9 +203,15 @@ Die Entscheidung trifft jeweils die für die Finanzverwaltung zuständige oberst
 
 (2) Die Ziele der Vorbereitungsdienste bestimmen die Inhalte und Methoden der Lehrveranstaltungen sowie die Arbeiten, die den Beamtinnen und Beamten während der berufspraktischen Ausbildung übertragen werden. Eine Beschäftigung lediglich zur Entlastung anderer ist unzulässig.
 
+(+++ § 5: Zur Anwendung vgl. § 78 +++)  
+(+++ § 5: Zur Anwendung vgl. § 79 +++)
+
 # § 6 – Gliederung der Vorbereitungsdienste
 
 Die Vorbereitungsdienste gliedern sich in fachtheoretische und berufspraktische Abschnitte. Die fachtheoretischen Abschnitte werden an den Bildungseinrichtungen der Steuerbeamtinnen und Steuerbeamten, die berufspraktischen Abschnitte an den Ausbildungsfinanzämtern durchgeführt. Die Beamtinnen und Beamten sind zum Selbststudium verpflichtet.
+
+(+++ § 6: Zur Anwendung vgl. § 78 +++)  
+(+++ § 6: Zur Anwendung vgl. § 79 +++)
 
 # § 7 – Ausbildungsakte und Einsichtnahme
 
@@ -214,6 +220,9 @@ Die Vorbereitungsdienste gliedern sich in fachtheoretische und berufspraktische 
 (2) Die Beamtinnen und Beamten können auf schriftlichen oder elektronischen Antrag Einsicht in ihre Ausbildungsunterlagen nehmen. Die Einsichtnahme ist zu vermerken.
 
 (3) Nach Beendigung des Vorbereitungsdienstes wird die Ausbildungsakte mindestens fünf und längstens zehn Jahre aufbewahrt und anschließend vernichtet.
+
+(+++ § 7: Zur Anwendung vgl. § 78 +++)  
+(+++ § 7: Zur Anwendung vgl. § 79 +++)
 
 # § 8 – Ausbildende
 
@@ -227,6 +236,9 @@ Die Vorbereitungsdienste gliedern sich in fachtheoretische und berufspraktische 
 
 (5) Mit der Ausbildung soll nur betraut werden, wer über die erforderlichen berufspädagogischen und fachlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit für diese Aufgaben geeignet ist.
 
+(+++ § 8: Zur Anwendung vgl. § 78 +++)  
+(+++ § 8: Zur Anwendung vgl. § 79 +++)
+
 # § 9 – Ausbildungsplan
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter stellt für jede Beamtin und jeden Beamten einen Plan für die praktische Ausbildung nach dem Muster der Anlage 1 (Ausbildungsplan) auf.
@@ -234,6 +246,9 @@ Die Vorbereitungsdienste gliedern sich in fachtheoretische und berufspraktische 
 (2) Der Ausbildungsplan ist der Beamtin oder dem Beamten zur Verfügung zu stellen.
 
 (3) Abweichend vom Ausbildungsplan darf eine Beamtin oder ein Beamter nur nach Anhörung der Ausbildungsleiterin oder des Ausbildungsleiters eingesetzt werden.
+
+(+++ § 9: Zur Anwendung vgl. § 78 +++)  
+(+++ § 9: Zur Anwendung vgl. § 79 +++)
 
 # § 10 – Lehrende
 
@@ -255,6 +270,9 @@ Für nebenamtlich oder nebenberuflich tätige Lehrende können Ausnahmen zugelas
 
 (6) Absatz 5 gilt für die hauptamtlich Lehrenden an der Bundesfinanzakademie entsprechend.
 
+(+++ § 10: Zur Anwendung vgl. § 78 +++)  
+(+++ § 10: Zur Anwendung vgl. § 79 +++)
+
 # § 11 – Ausbildungsarbeitsgemeinschaften, Gestaltungspläne
 
 (1) Die Beamtin oder der Beamte nimmt während der berufspraktischen Abschnitte an Ausbildungsarbeitsgemeinschaften teil. Diese dienen dazu, die bis dahin fachtheoretisch und berufspraktisch erworbenen Kenntnisse und Fähigkeiten zu verknüpfen und zu üben. In den Ausbildungsarbeitsgemeinschaften sollen insbesondere die Automation des steuerlichen Festsetzungs- und Erhebungsverfahrens sowie praxisorientierte Arbeits- und Entscheidungstechniken bei der Veranlagung von Steuern behandelt werden.
@@ -262,6 +280,9 @@ Für nebenamtlich oder nebenberuflich tätige Lehrende können Ausnahmen zugelas
 (2) Die Ausbildungsarbeitsgemeinschaften finden in der Regel an den Finanzämtern, an den Bildungseinrichtungen oder an besonderen Einrichtungen statt. Ausbildungsarbeitsgemeinschaften können auch ortsunabhängig in digitaler Form durchgeführt werden. Die Bildungseinrichtungen und die Ausbildungsfinanzämter arbeiten bei der Vorbereitung und Durchführung der Ausbildungsarbeitsgemeinschaften zusammen.
 
 (3) Die Lerninhalte in den Ausbildungsarbeitsgemeinschaften werden durch Gestaltungspläne konkretisiert, die auf der Grundlage der Stoffgliederungspläne aufgestellt werden. Die Gestaltungspläne sind von der obersten Landesbehörde oder der von ihr bestimmten Stelle zu genehmigen.
+
+(+++ § 11: Zur Anwendung vgl. § 78 +++)  
+(+++ § 11: Zur Anwendung vgl. § 79 +++)
 
 # § 12 – Bewertung der Leistungen
 
@@ -398,6 +419,9 @@ unter 20,00
 
 (5) § 18 Absatz 1 und 2 bleibt unberührt.
 
+(+++ § 12: Zur Anwendung vgl. § 78 +++)  
+(+++ § 12: Zur Anwendung vgl. § 79 +++)
+
 # § 13 – Durchführung der Zwischenprüfung und der Laufbahnprüfung
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte Stelle ist zuständig für die organisatorische Durchführung der Zwischenprüfung und der Laufbahnprüfung.
@@ -408,6 +432,9 @@ unter 20,00
 
 (4) Die Anzahl der einzurichtenden Prüfungsausschüsse richtet sich nach dem Bedarf. Mehrere Länder können gemeinsame Prüfungsausschüsse bilden. Wenn die Durchführung der Zwischenprüfung oder der Laufbahnprüfung mehreren Prüfungsausschüssen übertragen wird, ist Sorge dafür zu tragen, dass ein gleichmäßiger Bewertungsmaßstab angewandt wird.
 
+(+++ § 13: Zur Anwendung vgl. § 78 +++)  
+(+++ § 13: Zur Anwendung vgl. § 79 +++)
+
 # § 14 – Auswahl und Geheimhaltung der Prüfungsarbeiten
 
 (1) Die Prüfungsarbeiten werden von der obersten Landesbehörde oder der von ihr bestimmten Stelle ausgewählt. Die zugelassenen Hilfsmittel und die Bearbeitungszeit müssen auf den Prüfungsarbeiten angegeben sein.
@@ -415,6 +442,12 @@ unter 20,00
 (2) Die Prüfungsarbeiten sind nach Prüfungsfächern getrennt bis zum Prüfungsbeginn geheim zu halten.
 
 (3) Durch geeignete Maßnahmen ist sicherzustellen, dass Unbefugte keinen Einblick in die Entwürfe der Prüfungsarbeiten erlangen können. Alle Verwaltungsangehörigen, die vom Inhalt der Entwürfe und von etwaigen Lösungshinweisen Kenntnis erhalten, sind zur Geheimhaltung verpflichtet.
+
+(+++ § 14 Abs. 1 Satz 2 und Abs. 3: Zur Anwendung vgl. § 55 Abs. 5 Satz 1 +++)  
+(+++ § 14 Abs. 1 Satz 2 und Abs. 3: Zur Anwendung vgl. § 56 Abs. 3 Satz 1 +++)  
+(+++ § 14 Abs. 1 Satz 2 und Abs. 3: Zur Anwendung vgl. § 57 Abs. 2 Satz 1 +++)  
+(+++ § 14: Zur Anwendung vgl. § 78 +++)  
+(+++ § 14: Zur Anwendung vgl. § 79 +++)
 
 # § 15 – Bewertungsverfahren bei Prüfungsarbeiten
 
@@ -424,9 +457,18 @@ unter 20,00
 
 (3) Jede ohne ausreichende Entschuldigung nicht oder nicht rechtzeitig abgelieferte Prüfungsarbeit ist mit der Notenpunktzahl 0 zu bewerten.
 
+(+++ § 15 Abs. 1 und 3: Zur Anwendung vgl. § 55 Abs. 5 Satz 1 +++)  
+(+++ § 15 Abs. 1 und 3: Zur Anwendung vgl. § 56 Abs. 3 Satz 1 +++)  
+(+++ § 15 Abs. 1 und 3: Zur Anwendung vgl. § 57 Abs. 2 Satz 1 +++)  
+(+++ § 15: Zur Anwendung vgl. § 78 +++)  
+(+++ § 15: Zur Anwendung vgl. § 79 +++)
+
 # § 16 – Zulässigkeit des Antwort-Wahl-Verfahrens
 
 Schriftliche Leistungsnachweise können ganz oder teilweise im Antwort-Wahl-Verfahren durchgeführt werden.
+
+(+++ § 16: Zur Anwendung vgl. § 78 +++)  
+(+++ § 16: Zur Anwendung vgl. § 79 +++)
 
 # § 17 – Ausgestaltung und Durchführung des Antwort-Wahl-Verfahrens
 
@@ -447,6 +489,9 @@ Schriftliche Leistungsnachweise können ganz oder teilweise im Antwort-Wahl-Verf
 (4) Eine Kprim-Aufgabe ist vollständig richtig gelöst, wenn die vier auf eine Frage oder Aussage folgenden Antwortmöglichkeiten oder Ergänzungen richtig als „zutreffend“ oder „nicht zutreffend“ oder als „richtig“ oder „falsch“ markiert worden sind. Sind drei der Antwortmöglichkeiten oder Ergänzungen richtig markiert worden, ist die Aufgabe zur Hälfte richtig gelöst. In allen anderen Fällen ist die Aufgabe nicht gelöst.
 
 (5) Für weitere Aufgaben gelten die Absätze 2 bis 4 sinngemäß.
+
+(+++ § 17: Zur Anwendung vgl. § 78 +++)  
+(+++ § 17: Zur Anwendung vgl. § 79 +++)
 
 # § 18 – Bewertungen von Leistungen im Antwort-Wahl-Verfahren
 
@@ -477,6 +522,9 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 
 (6) Wird eine automatisiert erfolgte Bewertung beanstandet, so ist die Bewertung des konkreten schriftlichen Leistungsnachweises durch die Lehrende oder den Lehrenden zu überprüfen. Bei der Beanstandung einer automatisiert erfolgten Bewertung einer Prüfungsarbeit ist die Bewertung von zwei Prüferinnen oder Prüfern, von denen eine oder einer Mitglied des Prüfungsausschusses sein soll, zu überprüfen.
 
+(+++ § 18: Zur Anwendung vgl. § 78 +++)  
+(+++ § 18: Zur Anwendung vgl. § 79 +++)
+
 # § 19 – E-Klausuren
 
 (1) Schriftliche Leistungsnachweise können ganz oder teilweise mittels elektronischer Geräte erbracht werden (E-Klausuren).
@@ -487,11 +535,17 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 
 (4) Es ist sicherzustellen, dass die elektronischen Daten eindeutig identifiziert und zweifelsfrei der zu prüfenden Person zugeordnet werden können. Nach Abschluss der E-Klausur muss die Unveränderbarkeit und Sicherheit der Daten gewährleistet sein.
 
+(+++ § 19: Zur Anwendung vgl. § 78 +++)  
+(+++ § 19: Zur Anwendung vgl. § 79 +++)
+
 # § 20 – Fehlerberichtigung
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten bei der Ermittlung oder der Bekanntgabe der Prüfungsergebnisse können berichtigt werden.
 
 (2) Prüfungszeugnisse, die aufgrund eines Fehlers nach Absatz 1 unrichtig sind, sind zurückzugeben.
+
+(+++ § 20: Zur Anwendung vgl. § 78 +++)  
+(+++ § 20: Zur Anwendung vgl. § 79 +++)
 
 # § 21 – Nachteilsausgleich
 
@@ -501,6 +555,9 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 
 (3) Gewährte Nachteilsausgleiche sind zu dokumentieren.
 
+(+++ § 21: Zur Anwendung vgl. § 78 +++)  
+(+++ § 21: Zur Anwendung vgl. § 79 +++)
+
 # § 22 – Säumnis, Verhinderung und Rücktritt bei Prüfungsleistungen
 
 (1) Versäumt die Beamtin oder der Beamte die von ihm zu erbringenden Prüfungsleistungen ganz oder teilweise ohne ausreichende Entschuldigung, so entscheidet der Prüfungsausschuss, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit ungenügend bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
@@ -508,6 +565,9 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 (2) Beruht die Säumnis auf einem Grund, den die Beamtin oder der Beamte nicht zu vertreten hat, so soll die Prüfung nach Wegfall des Hinderungsgrundes unverzüglich nachgeholt werden. Der Hinderungsgrund ist unverzüglich anzuzeigen und nachzuweisen. Eine Erkrankung ist durch Vorlage eines amtsärztlichen oder betriebsärztlichen Attestes nachzuweisen. Über die Anerkennung eines privatärztlichen Attestes entscheidet der Prüfungsausschuss. Der Prüfungsausschuss bestimmt zugleich, ob und in welchem Umfang bereits abgelieferte Prüfungsarbeiten anzurechnen sind. Für die Anrechnung sind insbesondere die Zahl der bereits abgelieferten Prüfungsarbeiten sowie Dauer, Grund und Häufigkeit der Säumnis zu berücksichtigen. Anstelle des Prüfungsausschusses kann auch die oberste Landesbehörde oder eine von ihr bestimmte Stelle die Entscheidungen treffen.
 
 (3) Bei Vorliegen eines wichtigen Grundes kann die Beamtin oder der Beamte mit Genehmigung des Prüfungsausschusses von der Prüfung zurücktreten. In diesem Fall gilt die schriftliche oder die mündliche Prüfung als nicht begonnen. Durch Landesrecht kann bestimmt werden, dass anstelle des Prüfungsausschusses die oberste Landesbehörde oder eine von ihr bestimmte Stelle über die Genehmigung entscheidet.
+
+(+++ § 22: Zur Anwendung vgl. § 78 +++)  
+(+++ § 22: Zur Anwendung vgl. § 79 +++)
 
 # § 23 – Ordnungsverstöße
 
@@ -521,6 +581,9 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 
 (5) Die Beamtin oder der Beamte ist vor einer Entscheidung anzuhören.
 
+(+++ § 23: Zur Anwendung vgl. § 78 +++)  
+(+++ § 23: Zur Anwendung vgl. § 79 +++)
+
 # § 24 – Prüfungsakte und Einsichtnahme
 
 (1) Nach Abschluss der Zwischenprüfung oder der Laufbahnprüfung können die Beamtinnen und Beamten auf schriftlichen oder elektronischen Antrag Einsicht in ihre Prüfungsakte nehmen. Der Antrag ist an die oberste Landesbehörde oder die von ihr bestimmte Stelle zu richten. Der Antrag ist innerhalb eines Monats nach Bekanntgabe des Prüfungsergebnisses zu stellen. Die Einsichtnahme ist zu vermerken.
@@ -530,6 +593,9 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 (3) Die Prüfungsakte wird nach Beendigung des Vorbereitungsdienstes mindestens fünf Jahre und längstens zehn Jahre aufbewahrt und anschließend vernichtet. Abweichend von Satz 1 können Prüfungszeugnisse der Laufbahnprüfung bis zu 30 Jahre aufbewahrt werden; sie werden anschließend vernichtet. Die Unterlagen können bei unterschiedlichen Stellen aufbewahrt werden.
 
 (4) Absatz 1 gilt entsprechend, wenn der Vorbereitungsdienst nach Abschluss der Prüfungen beendet ist oder wenn keine Übernahme in das Beamtenverhältnis erfolgt.
+
+(+++ § 24: Zur Anwendung vgl. § 78 +++)  
+(+++ § 24: Zur Anwendung vgl. § 79 +++)
 
 # § 25 – Ausbildungsablauf
 
@@ -545,11 +611,15 @@ um bis zu … Prozent</th><th style="text-align: center;">Notenpunktzahl</th></t
 
 (4) Die Beamtin oder der Beamte legt zum Abschluss des Vorbereitungsdienstes eine Laufbahnprüfung ab.
 
+(+++ § 25: Zur Anwendung vgl. § 78 +++)
+
 # § 26 – Ausbildungsstellen
 
 (1) Die fachtheoretische Ausbildung wird an Landesfinanzschulen oder an gleichstehenden Bildungseinrichtungen der Verwaltung durchgeführt.
 
 (2) Für die berufspraktische Ausbildung weist die oberste Landesbehörde oder die von ihr bestimmte Stelle die Beamtinnen und Beamten bestimmten Finanzämtern als Ausbildungsfinanzämtern zur praktischen Ausbildung zu. Die praktische Ausbildung in der Veranlagung soll auch in dafür bestimmten Arbeitsgebieten stattfinden.
+
+(+++ § 26: Zur Anwendung vgl. § 78 +++)
 
 # § 27 – Verlängerung oder Verkürzung des Vorbereitungsdienstes
 
@@ -567,15 +637,21 @@ Bei einer Unterbrechung eines Ausbildungsteilabschnitts der fachtheoretischen Au
 
 (4) Die Entscheidung über die Verlängerung oder Verkürzung trifft jeweils die oberste Landesbehörde oder die von ihr bestimmte Stelle. Vor der Entscheidung über die Verlängerung ist die Beamtin oder der Beamte anzuhören.
 
+(+++ § 27: Zur Anwendung vgl. § 78 +++)
+
 # § 28 – Erholungsurlaub
 
 Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretischen Ausbildung gewährt werden. Tage, an denen keine Lehrveranstaltungen der Bildungseinrichtungen stattfinden, werden auf den Anspruch auf Erholungsurlaub angerechnet.
+
+(+++ § 28: Zur Anwendung vgl. § 78 +++)
 
 # § 29 – Unterrichtsfächer und Gesamtstunden
 
 (1) Die fachtheoretische Ausbildung vermittelt neben der Fachkompetenz die methodische und die soziale Kompetenz. Die zu unterrichtenden Fächer und die Vorgaben zu den Mindestunterrichtsstunden der einzelnen Unterrichtsfächer sind der Anlage 2 zu entnehmen. Die Wahl der Lehrveranstaltungsform richtet sich nach den Ausbildungszielen.
 
 (2) Die Gesamtstundenzahl in den Lehrveranstaltungen beträgt mindestens 800 Unterrichtsstunden.
+
+(+++ § 29: Zur Anwendung vgl. § 78 +++)
 
 # § 30 – Übungen
 
@@ -585,6 +661,8 @@ Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretisch
 
 (3) Die Übungen sollen als solche in den Stoffgliederungsplänen und in den Lehrplänen ausgewiesen werden.
 
+(+++ § 30: Zur Anwendung vgl. § 78 +++)
+
 # § 31 – Stoffgliederungspläne, Lehrpläne und Abweichungen
 
 (1) Zur Gewährleistung der einheitlichen Ausbildung der Steuerbeamtinnen und Steuerbeamten erstellt das Bundesministerium der Finanzen im Einvernehmen mit den obersten Landesbehörden Stoffgliederungspläne, die einheitliche Lerninhalte für die fachtheoretische Ausbildung an den Landesfinanzschulen ausweisen.
@@ -592,6 +670,8 @@ Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretisch
 (2) Auf der Grundlage der Stoffgliederungspläne werden Lehrpläne aufgestellt. Die Lehrpläne bedürfen der Genehmigung der obersten Landesbehörde.
 
 (3) Abweichungen von den Stoffgliederungsplänen und den Lehrplänen sind zulässig, wenn sie der Anpassung der Ausbildung an die veränderten Verhältnisse dienen oder im Interesse einer sinnvollen Ausbildung erforderlich erscheinen. In den Fällen von grundsätzlicher Bedeutung ist vor der Abweichung der Koordinierungsausschuss zu hören.
+
+(+++ § 31: Zur Anwendung vgl. § 78 +++)
 
 # § 32 – Aufsichtsarbeiten
 
@@ -607,6 +687,8 @@ Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretisch
 
 (6) Sofern der schriftliche Teil der Laufbahnprüfung teilweise im Antwort-Wahl-Verfahren durchgeführt wird, sind die Aufsichtsarbeiten im zweiten Teil der fachtheoretischen Ausbildung aus den Fächern der Laufbahnprüfung ebenfalls teilweise im Antwort-Wahl-Verfahren durchzuführen.
 
+(+++ § 32: Zur Anwendung vgl. § 78 +++)
+
 # § 33 – Teilbeurteilungen und abschließende Beurteilung
 
 (1) Nach Beendigung des ersten und des zweiten Ausbildungsteilabschnitts der fachtheoretischen Ausbildung nehmen die Lehrenden jeweils Teilbeurteilungen der Leistungen der Beamtin oder des Beamten nach den Mustern der Anlagen 3 und 4 vor.
@@ -616,6 +698,8 @@ Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretisch
 (3) Der Durchschnittsnotenpunktzahl der abschließenden Beurteilung wird die Note für die fachtheoretische Ausbildung zugeordnet.
 
 (4) Die Teilbeurteilungen und die abschließende Beurteilung für die fachtheoretische Ausbildung sind der Beamtin oder dem Beamten bekannt zu geben.
+
+(+++ § 33: Zur Anwendung vgl. § 78 +++)
 
 # § 34 – Gliederung, Ziel und Inhalte
 
@@ -637,9 +721,13 @@ Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der fachtheoretisch
 
 (7) Abweichungen von den Stoffgliederungs- und Gestaltungsplänen für die Ausbildungsarbeitsgemeinschaften sowie von der zeitlichen Aufgliederung der berufspraktischen Ausbildung sind zulässig, wenn sie der Anpassung der Ausbildung an die veränderten Verhältnisse dienen oder im Interesse einer sinnvollen Ausbildung erforderlich erscheinen. In Fällen von grundsätzlicher Bedeutung ist vor der Abweichung der Koordinierungsausschuss anzuhören.
 
+(+++ § 34: Zur Anwendung vgl. § 78 +++)
+
 # § 35 – Beurteilung im Ausbildungsfinanzamt
 
 Die Amtsleitung hat vor Beginn des mündlichen Teils der Laufbahnprüfung die Beamtin oder den Beamten auf schriftlichen oder elektronischen Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters unter Verwendung des Musters der Anlage 5 zu beurteilen. Dabei sind die Stellungnahmen der Beschäftigten, denen die praktische Ausbildung und die Durchführung der Ausbildungsarbeitsgemeinschaften oblagen, zu berücksichtigen. Die Beurteilung schließt mit einer vollen Notenpunktzahl und der sich daraus ergebenden Note ab. Sie ist der Beamtin oder dem Beamten bekannt zu geben und mit ihr oder ihm zu besprechen.
+
+(+++ § 35: Zur Anwendung vgl. § 78 +++)
 
 # § 36 – Ziel und Bestandteile
 
@@ -648,6 +736,8 @@ Die Amtsleitung hat vor Beginn des mündlichen Teils der Laufbahnprüfung die Be
 (2) Die Laufbahnprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Die Laufbahnprüfung ist auf das Verständnis des Erlernten und insbesondere der mündliche Teil der Prüfung auf die Prüfung der methodischen und sozialen Handlungsfähigkeit gerichtet. Unter dieser Zielsetzung ist auch die Feststellung von Einzelkenntnissen einzubeziehen.
+
+(+++ § 36: Zur Anwendung vgl. § 78 +++)
 
 # § 37 – Prüfungsausschuss
 
@@ -666,6 +756,8 @@ Dem Prüfungsausschuss können auch andere Beschäftigte des öffentlichen Diens
 (4) Der Prüfungsausschuss beschließt mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Der Prüfungsausschuss kann Beschlüsse auch im schriftlichen oder elektronischen Umlaufverfahren fassen.
 
 (5) Die Laufbahnprüfung und die Beratungen des Prüfungsausschusses sind nicht öffentlich. Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann Personen, die nicht dem Prüfungsausschuss angehören und ein dienstliches Interesse haben, die Anwesenheit im mündlichen Teil der Laufbahnprüfungen mit Ausnahme der Beratungen des Prüfungsausschusses allgemein oder im Einzelfall gestatten. Die Mitglieder des Koordinierungsausschusses sind berechtigt an der Laufbahnprüfung und den Beratungen des Prüfungsausschusses teilzunehmen.
+
+(+++ § 37: Zur Anwendung vgl. § 78 +++)
 
 # § 38 – Prüfungsfächer
 
@@ -686,6 +778,8 @@ Dem Prüfungsausschuss können auch andere Beschäftigte des öffentlichen Diens
 (3) Die Bearbeitungszeit beträgt für jede Prüfungsarbeit drei Zeitstunden.
 
 (4) An einem Tag darf nur eine Prüfungsarbeit gestellt werden. Spätestens nach zwei aufeinanderfolgenden Prüfungstagen muss ein Tag prüfungsfrei bleiben.
+
+(+++ § 38: Zur Anwendung vgl. § 78 +++)
 
 # § 39 – Prüfungsablauf, Niederschrift
 
@@ -709,9 +803,13 @@ Dem Prüfungsausschuss können auch andere Beschäftigte des öffentlichen Diens
 
 4. festgestellte Unregelmäßigkeiten und sonstige Verstöße gegen die Prüfungsordnung.
 
+(+++ § 39: Zur Anwendung vgl. § 78 +++)
+
 # § 40 – Information über das Ergebnis des schriftlichen Teils der Laufbahnprüfung
 
 Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlichen Prüfungsarbeiten vor dem mündlichen Teil der Laufbahnprüfung schriftlich oder elektronisch informiert.
+
+(+++ § 40: Zur Anwendung vgl. § 78 +++)
 
 # § 41 – Zulassung zum mündlichen Teil der Laufbahnprüfung
 
@@ -741,6 +839,8 @@ Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlic
 
 (4) Wer zum mündlichen Teil nicht zugelassen ist, hat die Laufbahnprüfung nicht bestanden. Die oder der Vorsitzende des Prüfungsausschusses hat der Beamtin oder dem Beamten das Nichtbestehen der Laufbahnprüfung schriftlich oder elektronisch nach dem Muster der Anlage 6 bekannt zu geben.
 
+(+++ § 41: Zur Anwendung vgl. § 78 +++)
+
 # § 42 – Prüfungsfächer und Prüfungsablauf
 
 (1) Der mündliche Teil der Laufbahnprüfung kann sich auf die Fächer der Anlage 2 Nummer 1 bis 12 erstrecken. Neben den fachlichen Kenntnissen ist insbesondere zu prüfen, ob die Beamtin oder der Beamte über die notwendigen methodischen und sozialen Kompetenzen verfügt.
@@ -756,6 +856,8 @@ Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlic
 (6) Die Leistungen der Beamtin oder des Beamten werden nach dem Muster der Anlage 7 durch den Prüfungsausschuss bewertet und dokumentiert. Das Ergebnis des mündlichen Teils der Laufbahnprüfung ist in einer Durchschnittsnotenpunktzahl auszudrücken.
 
 (7) Der mündliche Teil der Laufbahnprüfung ist bestanden, wenn eine Durchschnittsnotenpunktzahl von mindestens 5 erreicht worden ist.
+
+(+++ § 42: Zur Anwendung vgl. § 78 +++)
 
 # § 43 – Ermittlung der Endnotenpunktzahl und Ergebnis
 
@@ -779,6 +881,8 @@ Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlic
 
 (4) Bei bestandener Laufbahnprüfung setzt der Prüfungsausschuss anhand der Endnotenpunktzahl die Prüfungsgesamtnote für die Laufbahnprüfung fest.
 
+(+++ § 43: Zur Anwendung vgl. § 78 +++)
+
 # § 44 – Bekanntgabe des Ergebnisses der Laufbahnprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses gibt den Beamtinnen und Beamten im Anschluss an die Beratung des Prüfungsausschusses die erreichte Endnotenpunktzahl, deren Ermittlung sowie die Prüfungsgesamtnote bekannt.
@@ -787,17 +891,23 @@ Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlic
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält eine Mitteilung über das Nichtbestehen nach dem Muster der Anlage 9.
 
+(+++ § 44: Zur Anwendung vgl. § 78 +++)
+
 # § 45 – Niederschrift
 
 (1) Über die Laufbahnprüfung ist eine Niederschrift nach dem Muster der Anlage 10 zu fertigen.
 
 (2) Die Niederschrift ist mit den Prüfungsarbeiten des schriftlichen Teils der Laufbahnprüfung zur Prüfungsakte zu nehmen.
 
+(+++ § 45: Zur Anwendung vgl. § 78 +++)
+
 # § 46 – Wiederholung
 
 (1) Hat die Beamtin oder der Beamte die Laufbahnprüfung nicht bestanden oder gilt diese als nicht bestanden, ist eine einmalige Wiederholung zulässig. Sie oder er kann zu dem der Wiederholungsprüfung vorangehenden Abschnitt der fachtheoretischen Ausbildung zugelassen werden. Der Vorbereitungsdienst kann bis zum Abschluss der Wiederholungsprüfung verlängert werden.
 
 (2) Die Prüfung ist vollständig zu wiederholen. Soweit Ausbildungsabschnitte ganz oder teilweise wiederholt werden, werden für die Ermittlung des Prüfungsergebnisses die neu abgegebenen Beurteilungen zugrunde gelegt.
+
+(+++ § 46: Zur Anwendung vgl. § 78 +++)
 
 # § 47 – Gliederung des Studiengangs
 
@@ -817,11 +927,15 @@ Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner schriftlic
 
 (6) Die Beamtin oder der Beamte legt im Vorbereitungsdienst eine Zwischenprüfung und eine Laufbahnprüfung ab.
 
+(+++ § 47: Zur Anwendung vgl. § 79 +++)
+
 # § 48 – Ausbildungsstellen
 
 (1) Die Fachstudien finden an Fachhochschulen der Verwaltung oder an gleichstehenden Bildungseinrichtungen der Verwaltung statt. Die Dienstaufsicht wird von der obersten Landesbehörde oder im Einvernehmen mit ihr ausgeübt. Die Fachaufsicht obliegt der obersten Landesbehörde. Ist die Fachhochschule in Fachbereiche gegliedert, so gelten die Sätze 2 und 3 für den Fachbereich, der für die Ausbildung der Steuerbeamtinnen und Steuerbeamten zuständig ist.
 
 (2) Für die berufspraktischen Studienzeiten weist die oberste Landesbehörde oder die von ihr bestimmte Stelle die Beamtinnen und Beamten bestimmten Finanzämtern als Ausbildungsfinanzämter zur praktischen Ausbildung zu. Die praktische Ausbildung in der Veranlagung soll auch in dafür bestimmten Arbeitsgebieten stattfinden.
+
+(+++ § 48: Zur Anwendung vgl. § 79 +++)
 
 # § 49 – Verlängerung oder Verkürzung des Vorbereitungsdienstes
 
@@ -839,15 +953,21 @@ Bei einer Unterbrechung eines Teils der Fachstudien um mehr als drei Wochen schl
 
 (4) Die Entscheidung über die Verlängerung oder Verkürzung trifft jeweils die oberste Landesbehörde oder die von ihr bestimmte Stelle. Vor der Entscheidung über die Verlängerung ist die Beamtin oder der Beamte anzuhören.
 
+(+++ § 49: Zur Anwendung vgl. § 79 +++)
+
 # § 50 – Erholungsurlaub
 
 Während des Studiums ist der Anspruch auf Erholungsurlaub anteilig auf die Fachstudien und die berufspraktische Studienzeit zu verteilen. Tage, an denen keine Lehrveranstaltungen der Bildungseinrichtungen stattfinden, werden auf den Anspruch auf Erholungsurlaub angerechnet.
+
+(+++ § 50: Zur Anwendung vgl. § 79 +++)
 
 # § 51 – Studienfächer und Gesamtstunden
 
 (1) Die Fachstudien vermitteln neben der Fachkompetenz die methodische und die soziale Kompetenz sowie das Verständnis für internationale Zusammenhänge. Die Studienfächer und Vorgaben zu Mindestunterrichtsstunden in einzelnen Studienfächern sind der Anlage 11 zu entnehmen. Die Wahl der Lehrveranstaltungsform richtet sich nach den Studienzielen.
 
 (2) Die Gesamtstundenzahl in den Lehrveranstaltungen beträgt mindestens 2 200 Unterrichtsstunden.
+
+(+++ § 51: Zur Anwendung vgl. § 79 +++)
 
 # § 52 – Lerninhalte und Einteilung der Studienfächer
 
@@ -857,6 +977,8 @@ Während des Studiums ist der Anspruch auf Erholungsurlaub anteilig auf die Fach
 
 (3) Ein angemessener Teil der Lehrveranstaltungen ist fächerübergreifend zu gestalten. Lehrveranstaltungen zum Schwerpunktthema sind stets fächerübergreifend zu gestalten.
 
+(+++ § 52: Zur Anwendung vgl. § 79 +++)
+
 # § 53 – Übungen und Seminare
 
 (1) Während der Fachstudien sind Übungen zu veranstalten. Die Übungen dienen dazu, die bis dahin fachtheoretisch und berufspraktisch vermittelten Kenntnisse und Fähigkeiten zu verknüpfen und einzuüben. In den Übungen sollen auch praxisorientierte Arbeits- und Entscheidungstechniken bei der Veranlagung von Steuern behandelt werden.
@@ -865,6 +987,8 @@ Während des Studiums ist der Anspruch auf Erholungsurlaub anteilig auf die Fach
 
 (3) Die Übungen sollen als solche in den Stoffgliederungsplänen und in den Lehrplänen ausgewiesen werden.
 
+(+++ § 53: Zur Anwendung vgl. § 79 +++)
+
 # § 54 – Stoffgliederungspläne, Lehrpläne und Abweichungen
 
 (1) Zur Gewährleistung der einheitlichen Ausbildung der Steuerbeamtinnen und Steuerbeamten erstellt das Bundesministerium der Finanzen im Einvernehmen mit den obersten Landesbehörden Stoffgliederungspläne, die einheitliche Lerninhalte für die Lehrveranstaltungen innerhalb der Fachstudien ausweisen.
@@ -872,6 +996,8 @@ Während des Studiums ist der Anspruch auf Erholungsurlaub anteilig auf die Fach
 (2) Auf der Grundlage der Stoffgliederungspläne werden Lehrpläne erstellt. Die Lehrpläne bedürfen der Genehmigung der obersten Landesbehörde.
 
 (3) Abweichungen von den Stoffgliederungsplänen und den Lehrplänen sind zulässig, wenn sie der Anpassung der Fachstudien an die veränderten Verhältnisse dienen oder im Interesse einer sinnvollen Durchführung der Fachstudien erforderlich erscheinen. In Fällen von grundsätzlicher Bedeutung ist vor der Abweichung der Koordinierungsausschuss anzuhören.
+
+(+++ § 54: Zur Anwendung vgl. § 79 +++)
 
 # § 55 – Aufsichtsarbeiten im Grund- und Hauptstudium
 
@@ -901,6 +1027,8 @@ Die Bearbeitungszeit der Aufsichtsarbeiten während des Grundstudiums beträgt j
 
 (6) Sofern die Zwischenprüfung oder der schriftliche Teil der Laufbahnprüfung teilweise im Antwort-Wahl-Verfahren durchgeführt wird, sind die Aufsichtsarbeiten aus den Fächern der Zwischenprüfung gemäß Absatz 1 und die Aufsichtsarbeiten aus den Fächern der Laufbahnprüfung gemäß Absatz 2 ebenfalls teilweise im Antwort-Wahl-Verfahren durchzuführen.
 
+(+++ § 55: Zur Anwendung vgl. § 79 +++)
+
 # § 56 – Abschlussklausuren im Grundstudium
 
 (1) Am Ende des Grundstudiums sind fünf Abschlussklausuren in den folgenden Fächern anzufertigen:
@@ -921,11 +1049,15 @@ Die Bearbeitungszeit der Aufsichtsarbeiten während des Grundstudiums beträgt j
 
 (4) Sofern die Abschlussklausuren gemäß Absatz 1 teilweise im Antwort-Wahl-Verfahren durchgeführt werden, sind die Aufsichtsarbeiten gemäß § 55 Absatz 1 Satz 2 in den Fächern der Abschlussklausuren ebenfalls teilweise im Antwort-Wahl-Verfahren durchzuführen.
 
+(+++ § 56: Zur Anwendung vgl. § 79 +++)
+
 # § 57 – Schriftliche Arbeit im Hauptstudium
 
 (1) Während des Hauptstudiums ist zu einem vorgegebenen Thema bis zu einem vorgegebenen Abgabetermin eine schriftliche Arbeit unter Anwendung wissenschaftlicher Erkenntnisse und Methoden anzufertigen. Die Bildungseinrichtung ist berechtigt, die Form der Abgabe zu regeln und das Einhalten vorstehender Grundsätze mittels elektronischer Hilfsmittel zu überprüfen.
 
 (2) § 14 Absatz 1 Satz 2 und Absatz 3, § 15 Absatz 1 und 3 sowie § 62 Absatz 1 bis 3 und Absatz 5 sind entsprechend anwendbar. An Stelle des in § 62 Absatz 5 Satz 2 und 3 genannten Prüfungsausschusses entscheidet die oberste Landesbehörde oder die von ihr bestimmte Stelle.
+
+(+++ § 57: Zur Anwendung vgl. § 79 +++)
 
 # § 58 – Beurteilungen und Studiennoten für die Fachstudien
 
@@ -947,6 +1079,8 @@ Die Bearbeitungszeit der Aufsichtsarbeiten während des Grundstudiums beträgt j
 
 (4) Die Beurteilungen und die Studiennoten sind der Beamtin oder dem Beamten bekannt zu geben.
 
+(+++ § 58: Zur Anwendung vgl. § 79 +++)
+
 # § 59 – Gliederung, Ziel und Inhalte
 
 (1) Die berufspraktischen Studienzeiten umfassen
@@ -967,9 +1101,13 @@ Die Bearbeitungszeit der Aufsichtsarbeiten während des Grundstudiums beträgt j
 
 (7) Abweichungen von den Stoffgliederungs- und Gestaltungsplänen für die Ausbildungsarbeitsgemeinschaften sowie von der zeitlichen Aufgliederung der berufspraktischen Studienzeiten sind zulässig, wenn sie der Anpassung der Ausbildung an die veränderten Verhältnisse dienen oder im Interesse einer sinnvollen Ausbildung erforderlich erscheinen. In Fällen von grundsätzlicher Bedeutung ist vor der Abweichung der Koordinierungsausschuss anzuhören.
 
+(+++ § 59: Zur Anwendung vgl. § 79 +++)
+
 # § 60 – Beurteilung im Ausbildungsfinanzamt
 
 Die Amtsleitung hat vor Beginn des mündlichen Teils der Laufbahnprüfung die Beamtin oder den Beamten auf schriftlichen oder elektronischen Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters unter Verwendung des Musters der Anlage 15 zu beurteilen. Dabei sind die Stellungnahmen der Beschäftigten, denen die praktische Ausbildung und die Durchführung der Ausbildungsarbeitsgemeinschaften oblagen, zu berücksichtigen. Die Beurteilung schließt mit einer vollen Notenpunktzahl und der sich daraus ergebenden Note ab. Sie ist der Beamtin oder dem Beamten bekannt zu geben und mit ihr oder ihm zu besprechen.
+
+(+++ § 60: Zur Anwendung vgl. § 79 +++)
 
 # § 61 – Prüfungsausschuss
 
@@ -988,6 +1126,8 @@ Anstelle der Beamtinnen und Beamten des höheren Dienstes können dem Prüfungsa
 (4) Der Prüfungsausschuss beschließt mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Der Prüfungsausschuss kann Beschlüsse auch im schriftlichen oder elektronischen Umlaufverfahren fassen.
 
 (5) Die Zwischenprüfung und die Laufbahnprüfung und die Beratungen des Prüfungsausschusses sind nicht öffentlich. Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann Personen, die nicht dem Prüfungsausschuss angehören und ein dienstliches Interesse haben, die Anwesenheit im mündlichen Teil der Laufbahnprüfung mit Ausnahme der Beratungen des Prüfungsausschusses allgemein oder im Einzelfall gestatten. Die Mitglieder des Koordinierungsausschusses sind berechtigt, an der Zwischenprüfung und der Laufbahnprüfung einschließlich der Beratungen teilzunehmen.
+
+(+++ § 61: Zur Anwendung vgl. § 79 +++)
 
 # § 62 – Prüfungsablauf, Niederschrift
 
@@ -1011,9 +1151,16 @@ Anstelle der Beamtinnen und Beamten des höheren Dienstes können dem Prüfungsa
 
 4. festgestellte Unregelmäßigkeiten und sonstige Verstöße gegen die Prüfungsordnung.
 
+(+++ § 62 Abs. 1 bis 5: Zur Anwendung vgl. § 55 Abs. 5 Satz 1 +++)  
+(+++ § 62 Abs. 1 bis 5: Zur Anwendung vgl. § 56 Abs. 3 Satz 1 +++)  
+(+++ § 62 Abs. 1 bis 3 und Abs. 5: Zur Anwendung vgl. § 57 Abs. 2 Satz 1 +++)  
+(+++ § 62: Zur Anwendung vgl. § 79 +++)
+
 # § 63 – Ziel
 
 In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er nach ihren oder seinen Kenntnissen und Fähigkeiten geeignet erscheint, den Studiengang für die Laufbahn des gehobenen Dienstes erfolgreich fortzusetzen. Die Zwischenprüfung erfolgt als schriftliche Prüfung.
+
+(+++ § 63: Zur Anwendung vgl. § 79 +++)
 
 # § 64 – Prüfungsfächer
 
@@ -1035,6 +1182,8 @@ In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er 
 
 (4) An einem Tag darf nur eine Prüfungsarbeit gestellt werden. Spätestens nach zwei aufeinanderfolgenden Prüfungstagen muss ein Tag prüfungsfrei bleiben.
 
+(+++ § 64: Zur Anwendung vgl. § 79 +++)
+
 # § 65 – Ermittlung der Endnotenpunktzahl und Ergebnis
 
 (1) Im Anschluss an die Bewertung der Prüfungsarbeiten setzt der Prüfungsausschuss die Endnotenpunktzahl der Zwischenprüfung fest. Über die Sitzung des Prüfungsausschusses ist eine Niederschrift anzufertigen.
@@ -1055,11 +1204,15 @@ In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er 
 
 (4) Bei bestandener Zwischenprüfung setzt der Prüfungsausschuss anhand der Endnotenpunktzahl die Prüfungsgesamtnote für die Zwischenprüfung fest.
 
+(+++ § 65: Zur Anwendung vgl. § 79 +++)
+
 # § 66 – Bekanntgabe des Ergebnisses der Zwischenprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses teilt den Beamtinnen und Beamten im Anschluss an die Zwischenprüfung die Bewertung der Prüfungsarbeiten, die Endnotenpunktzahl und die Prüfungsgesamtnote nach dem Muster der Anlage 16 mit.
 
 (2) Wer die Prüfung bestanden hat, erhält ein Zeugnis nach dem Muster der Anlage 8.
+
+(+++ § 66: Zur Anwendung vgl. § 79 +++)
 
 # § 67 – Wiederholung
 
@@ -1069,6 +1222,8 @@ In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er 
 
 (3) Ist die Zwischenprüfung in der Wiederholung nicht bestanden oder aufgrund eigenen Verschuldens der Beamtin oder des Beamten nicht innerhalb der Frist nach Absatz 2 Satz 1 wiederholt worden, so gilt die Zwischenprüfung als endgültig nicht bestanden; der Vorbereitungsdienst ist beendet. Landesrechtliche Regelungen bleiben unberührt.
 
+(+++ § 67: Zur Anwendung vgl. § 79 +++)
+
 # § 68 – Ziel
 
 (1) Die Laufbahnprüfung dient der Feststellung, ob die Beamtin oder der Beamte die Ziele des Vorbereitungsdienstes erreicht hat und nach dem Gesamtbild ihrer oder seiner Persönlichkeit für die angestrebte Laufbahn befähigt ist.
@@ -1076,6 +1231,8 @@ In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er 
 (2) Die Laufbahnprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Die Prüfung ist auf das Verständnis des Erlernten und insbesondere der mündliche Teil der Prüfung auf die Prüfung der methodischen und sozialen Handlungsfähigkeit gerichtet. Unter dieser Zielsetzung ist auch die Feststellung von Einzelkenntnissen einzubeziehen.
+
+(+++ § 68: Zur Anwendung vgl. § 79 +++)
 
 # § 69 – Prüfungsfächer des schriftlichen Teils der Laufbahnprüfung
 
@@ -1097,9 +1254,13 @@ In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie oder er 
 
 (4) An einem Tag darf nur eine Prüfungsarbeit gestellt werden. Spätestens nach zwei aufeinanderfolgenden Prüfungstagen muss ein Tag prüfungsfrei bleiben.
 
+(+++ § 69: Zur Anwendung vgl. § 79 +++)
+
 # § 70 – Information über das Ergebnis des schriftlichen Teils der Laufbahnprüfung
 
 Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftlichen Prüfungsarbeiten vor dem mündlichen Teil der Laufbahnprüfung schriftlich oder elektronisch informiert.
+
+(+++ § 70: Zur Anwendung vgl. § 79 +++)
 
 # § 71 – Zulassung zum mündlichen Teil der Laufbahnprüfung
 
@@ -1133,6 +1294,8 @@ Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftl
 
 (4) Wer zum mündlichen Teil nicht zugelassen ist, hat die Laufbahnprüfung nicht bestanden. Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses hat der Beamtin oder dem Beamten das Nichtbestehen der Laufbahnprüfung schriftlich oder elektronisch nach dem Muster der Anlage 17 bekannt zu geben.
 
+(+++ § 71: Zur Anwendung vgl. § 79 +++)
+
 # § 72 – Mündlicher Teil der Laufbahnprüfung
 
 (1) Der mündliche Teil der Laufbahnprüfung kann sich auf die Fächer der Anlage 11 Nummer 1 bis 7 erstrecken. Neben den fachlichen Kenntnissen ist insbesondere zu prüfen, ob die Beamtin oder der Beamte über die notwendigen methodischen und sozialen Kompetenzen verfügt.
@@ -1148,6 +1311,8 @@ Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftl
 (6) Die Leistungen der Beamtin oder des Beamten werden nach dem Muster der Anlage 18 durch den Prüfungsausschuss bewertet und dokumentiert. Das Ergebnis des mündlichen Teils der Laufbahnprüfung ist in einer Durchschnittsnotenpunktzahl auszudrücken.
 
 (7) Der mündliche Teil der Laufbahnprüfung ist bestanden, wenn eine Durchschnittsnotenpunktzahl von mindestens 5 erreicht worden ist.
+
+(+++ § 72: Zur Anwendung vgl. § 79 +++)
 
 # § 73 – Ermittlung der Endnotenpunktzahl und Ergebnis
 
@@ -1173,6 +1338,8 @@ Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftl
 
 (4) Bei bestandener Laufbahnprüfung setzt der Prüfungsausschuss anhand der Endnotenpunktzahl die Prüfungsgesamtnote der Laufbahnprüfung fest.
 
+(+++ § 73: Zur Anwendung vgl. § 79 +++)
+
 # § 74 – Bekanntgabe des Ergebnisses der Laufbahnprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses gibt den Beamtinnen und Beamten im Anschluss an die Beratung des Prüfungsausschusses die erreichte Endnotenpunktzahl, deren Ermittlung sowie die Prüfungsgesamtnote bekannt.
@@ -1181,11 +1348,15 @@ Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftl
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält eine Mitteilung über das Nichtbestehen nach dem Muster der Anlage 19.
 
+(+++ § 74: Zur Anwendung vgl. § 79 +++)
+
 # § 75 – Niederschrift
 
 (1) Über die Laufbahnprüfung ist eine Niederschrift nach dem Muster der Anlage 20 zu fertigen.
 
 (2) Die Niederschrift ist mit den Prüfungsarbeiten des schriftlichen Teils der Laufbahnprüfung zur Prüfungsakte zu nehmen.
+
+(+++ § 75: Zur Anwendung vgl. § 79 +++)
 
 # § 76 – Wiederholung
 
@@ -1193,9 +1364,13 @@ Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner schriftl
 
 (2) Die Prüfung ist vollständig zu wiederholen. Soweit Teile des Studiengangs ganz oder teilweise wiederholt werden, werden für die Ermittlung des Prüfungsergebnisses die neu abgegebenen Beurteilungen zugrunde gelegt.
 
+(+++ § 76: Zur Anwendung vgl. § 79 +++)
+
 # § 77 – Übernahmemöglichkeiten in die Laufbahn des mittleren Steuerverwaltungsdienstes
 
 Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann den Beamtinnen und Beamten, die die Laufbahnprüfung für den gehobenen Dienst endgültig nicht bestanden oder auf deren Wiederholung verzichtet haben, die Befähigung für die Laufbahn des mittleren Dienstes zuerkennen, wenn sie fachlich und persönlich für die Laufbahn des mittleren Dienstes geeignet sind. Die Beamtinnen und Beamten, denen die Befähigung für die Laufbahn des mittleren Dienstes zuerkannt wird, erhalten ein Befähigungszeugnis.
+
+(+++ § 77: Zur Anwendung vgl. § 79 +++)
 
 # § 78 – Aufstieg in den mittleren Steuerverwaltungsdienst
 
@@ -1699,6 +1874,8 @@ Ihre Prüfungsarbeiten im schriftlichen Teil der Laufbahnprüfung sind wie folgt
  
 
 \[Hinweis: An dieser Stelle ist eine den landesrechtlichen Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.\]
+
+Textvorschlag A Satz 4, Textvorschlag B Satz 3 und Textvorschlag C Satz 6 Kursivdruck: Die amtliche Langüberschrift lautet ab 11.3.2020 Steuerbeamtenausbildungsgesetz (2021 I 2442)
 
 # Anlage 7 – (zu § 42 Absatz 6 und § 43 Absatz 1)Beurteilungsblatt für die Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
 
@@ -2388,6 +2565,8 @@ Im mündlichen Teil der Laufbahnprüfung haben Sie eine Durchschnittsnotenpunktz
  
 
 \[Hinweis: An dieser Stelle ist eine den landesrechtlichen Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.\]
+
+Satz 4 Kursivdruck: Die amtliche Langüberschrift lautet ab 11.3.2020 Steuerbeamtenausbildungsgesetz (2021 I 2442)
 
 # Anlage 10 – (zu § 45)Niederschrift über die Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
 
@@ -4575,6 +4754,8 @@ Prüfungsgesamtnote (§ 12 Abs. 4 StBAPO)
 
 \[Hinweis: An dieser Stelle ist eine den landesrechtlichen Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.\]
 
+Textvorschlag B Satz 3, Textvorschlag C Satz 3 und Textvorschlag D Satz 5 Kursivdruck: Die amtliche Langüberschrift lautet ab 11.3.2020 Steuerbeamtenausbildungsgesetz (2021 I 2442)
+
 # Anlage 17 – (zu § 71 Absatz 4)Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
 
 (Fundstelle: BGBl. I 2022, 1955 - 1956)
@@ -4732,6 +4913,8 @@ Note (§ 12 Abs. 3 StBAPO)
  
 
 \[Hinweis: An dieser Stelle ist eine den landesrechtlichen Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.\]
+
+Textvorschlag A Satz 3, Textvorschlag B Satz 3 und Textvorschlag C Satz 6 Kursivdruck: Die amtliche Langüberschrift lautet ab 11.3.2020 Steuerbeamtenausbildungsgesetz (2021 I 2442)
 
 # Anlage 18 – (zu § 71 Absatz 3 und § 73 Absatz 1)Beurteilungsblatt für die Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
 
@@ -5447,6 +5630,8 @@ Im mündlichen Teil der Laufbahnprüfung haben Sie eine Durchschnittsnotenpunktz
  
 
 \[Hinweis: An dieser Stelle ist eine den landesrechtlichen Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.\]
+
+Satz 4 Kursivdruck: Die amtliche Langüberschrift lautet ab 11.3.2020 Steuerbeamtenausbildungsgesetz (2021 I 2442)
 
 # Anlage 20 – (zu § 75)Niederschrift über die Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
 

@@ -11,6 +11,8 @@ Auf Grund des § 11 Absatz 2 Satz 1 und 3 sowie des § 29 Absatz 2 Satz 1 und 3 
 
 (2) Unterlagen und Erklärungen, die nicht in deutscher Sprache verfasst sind, sind in amtlich beglaubigter Übersetzung einzureichen. Die Bundesanstalt kann im Einzelfall auf amtlich beglaubigte Übersetzungen verzichten.
 
+(3) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank ist für Anzeigen und Unterlagen ein elektronischer Einreichungsweg zu nutzen. Nähere Bestimmungen zum jeweiligen elektronischen Einreichungsweg treffen die Bundesanstalt und die Deutsche Bundesbank auf ihrer jeweiligen Internetseite.
+
 # § 2 – Unterlagen nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)
 
 (1) Erlaubnisanträge einschließlich der nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes erforderlichen Angaben und Nachweise sind der Bundesanstalt in zweifacher Ausfertigung einzureichen.
@@ -103,9 +105,113 @@ Wird der Jahresabschluss ohne Änderungen festgestellt, so genügt die Mitteilun
 
 (2) Änderungen der nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes angezeigten Verhältnisse hat das Institut spätestens einen Monat vor Wirksamwerden der Änderungen anzuzeigen.
 
-# § 8 – Anzeigen nach § 26 Absatz 2 und § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Auslagerung)
+# § 8 – Anzeigen nach § 26 Absatz 2 Satz 1 und Absatz 4 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Wesentliche Auslagerungen)
 
-In einer Anzeige nach § 26 Absatz 2 Satz 1 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes sind die beabsichtigten Vorkehrungen gemäß § 26 Absatz 1 Satz 1 des Zahlungsdiensteaufsichtsgesetzes zu beschreiben und Entwürfe der Auslagerungsverträge gemäß § 26 Absatz 1 Satz 6 des Zahlungsdiensteaufsichtsgesetzes einzureichen. Die Namen und Anschriften der Auslagerungsunternehmen sind anzugeben. Mit der Vollzugsanzeige nach § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes ist der geschlossene Vertrag in Kopie einzureichen.
+(1) In einer Anzeige nach § 26 Absatz 2 Satz 1 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes sind die beabsichtigten Vorkehrungen gemäß § 26 Absatz 1 Satz 1 des Zahlungsdiensteaufsichtsgesetzes zu beschreiben und Entwürfe der Auslagerungsverträge gemäß § 26 Absatz 1 Satz 6 des Zahlungsdiensteaufsichtsgesetzes einzureichen. Mit der Vollzugsanzeige nach § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes ist der geschlossene Vertrag einzureichen.
+
+(2) Anzeigen nach § 26 Absatz 2 Satz 1 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes über die Absicht und den Vollzug einer wesentlichen Auslagerung müssen weiterhin folgende Informationen enthalten:
+
+1. eine vom Institut vergebene Referenznummer für jeden Auslagerungsvertrag,
+
+2. Angaben zum Beginn und, sofern vereinbart, zum Ende der Vertragslaufzeit sowie gegebenenfalls zum Zeitpunkt der nächsten Vertragsverlängerung und zu den Kündigungsfristen,
+
+3. die Bezeichnung der auszulagernden oder ausgelagerten Aktivitäten und Prozesse, einschließlich einer Bezeichnung der Daten, die im Rahmen der Auslagerung übermittelt werden oder wurden, sowie die Angabe, ob personenbezogene Daten übermittelt werden oder wurden und ob das Auslagerungsunternehmen mit der Verarbeitung personenbezogener Daten beauftragt wird oder worden ist,
+
+4. eine Kategorie, die die Art der Aktivitäten und Prozesse widerspiegelt und die die Ermittlung verschiedener Arten von Vereinbarungen ermöglicht,
+
+5. die Angabe, ob in Teilen oder im Ganzen ausgelagert wird oder worden ist,
+
+6. die Firma, die Handelsregisternummer sowie gegebenenfalls die Rechtsträgerkennung, die im Handelsregister eingetragene Adresse und sonstige relevante Kontaktangaben des Auslagerungsunternehmens und die Firma des Mutterunternehmens,
+
+7. den Staat, in dem der Dienst erbracht werden soll oder wird, einschließlich des Standortes, an dem die Daten gespeichert werden sollen oder werden,
+
+8. das Datum der letzten Bewertung der Wesentlichkeit der auszulagernden oder ausgelagerten Aktivitäten und Prozesse und die Angabe, warum die Auslagerung als wesentlich eingestuft wird,
+
+9. bei der Auslagerung zu einem Cloud-Anbieter das Cloud-Dienstmodell, das Cloud- Bereitstellungsmodell und die Art der betreffenden Daten sowie die Standorte, an denen diese Daten gespeichert werden sollen oder werden,
+
+10. die Institute und sonstigen Unternehmen im aufsichtlichen Konsolidierungskreis, die von der Auslagerung Gebrauch machen, sofern einschlägig,
+
+11. die Angabe, ob das Auslagerungsunternehmen oder ein von ihm beauftragtes Subunternehmen Teil der Gruppe im Sinne des § 1 Absatz 6 des Zahlungsdiensteaufsichtsgesetzes ist, zu dem das Institut gehört, oder sich im Eigentum von anderen Instituten innerhalb der Institutsgruppe befindet, zu der das Institut gehört, sofern einschlägig,
+
+12. das Datum der letzten Risikoanalyse und eine Zusammenfassung der Ergebnisse dieser Risikoanalyse,
+
+13. die Benennung der Personen und ihrer Funktion oder des Entscheidungsgremiums des Instituts, die oder das den Auslagerungsvertrag genehmigt haben oder hat, sowie gegebenenfalls das Datum der Genehmigung,
+
+14. das auf den Auslagerungsvertrag anwendbare Recht,
+
+15. gegebenenfalls das Datum der letzten und der nächsten geplanten Prüfung durch das Institut beim Auslagerungsunternehmen,
+
+16. gegebenenfalls die Firmen und die Handelsregisternummern oder andere eindeutige Identifikationsnummern von durch das Auslagerungsunternehmen beauftragten Subunternehmen, an die wesentliche Teile einer wesentlichen Aktivität oder eines wesentlichen Prozesses weiter ausgelagert werden sollen oder wurden, jeweils einschließlich
+
+a) des Staates, in dem diese beauftragten Unternehmen registriert sind,
+
+b) des Standorts, an dem die Dienstleistung erbracht werden soll oder wird, und
+
+c) gegebenenfalls des Standorts, an dem die Daten gespeichert werden sollen oder werden,
+
+17. das Ergebnis der Bewertung der Ersetzbarkeit des Auslagerungsunternehmens durch
+
+a) die Zuordnung zu den Kategorien „leicht“, „schwierig“ oder „unmöglich“,
+
+b) die Angabe der Möglichkeit einer Wiedereingliederung der wesentlichen Aktivität oder des wesentlichen Prozesses in das Institut und
+
+c) die Angabe der Auswirkungen einer etwaigen Einstellung der wesentlichen Aktivität oder des wesentlichen Prozesses,
+
+18. die Angabe, ob alternative Auslagerungsunternehmen gemäß der Bewertung nach Nummer 17 Buchstabe a vorhanden sind,
+
+19. die Angabe, ob die auszulagernde oder ausgelagerte wesentliche Aktivität oder der auszulagernde oder ausgelagerte wesentliche Prozess Geschäftsvorgänge unterstützt, die zeitkritisch sind, und
+
+20. das für die Auslagerung veranschlagte jährliche Budget oder die damit verbundenen Kosten.
+
+(3) Anzeigen nach § 26 Absatz 4 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes über wesentliche Änderungen einer bestehenden wesentlichen Auslagerung die einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts haben können, sind insbesondere einzureichen bei
+
+1. Vertragsänderungen von wesentlicher Bedeutung,
+
+2. Vereinbarungen zusätzlicher vertraglicher Regelungen, insbesondere die Vereinbarung zusätzlicher Leistungen,
+
+3. Änderung der Bewertung, ob eine Auslagerung als wesentlich oder unwesentlich einzustufen ist,
+
+4. wesentlichen Abweichungen, die sich aufgrund einer neuen oder geänderten Risikoanalyse bezüglich der Auslagerung ergeben,
+
+5. Abschluss neuer Subauslagerungen wesentlicher Teile einer wesentlichen Aktivität oder eines wesentlichen Prozesses,
+
+6. Änderung der Bewertung zur Ersetzbarkeit des Auslagerungsunternehmens,
+
+7. nachträglicher Verlagerung der Erbringung von Dienstleistungen in Drittstaaten durch das Auslagerungsunternehmen oder seine beauftragten Subunternehmen,
+
+8. Kündigung oder sonstiger Beendigung des Auslagerungsvertrags,
+
+9. Kenntnis des Instituts von der Übernahme der Kontrolle über das Auslagerungsunternehmen durch ein anderes Unternehmen.
+
+Zeigt ein Institut eine wesentliche Änderung einer wesentlichen Auslagerung an, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestand, sind zudem die Daten nach Absatz 2 anzuzeigen.
+
+(4) Anzeigen nach den Absätzen 1 bis 3 sind elektronisch über die Melde- und Veröffentlichungsplattform der Bundesanstalt einzureichen.
+
+(5) Anzeigen nach § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes über schwerwiegende Vorfälle im Rahmen von bestehenden wesentlichen Auslagerungen, die einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts haben können, sind insbesondere einzureichen bei
+
+1. nicht nur kurzfristiger Unterbrechung oder Unmöglichkeit der Erbringung der ausgelagerten wesentlichen Aktivitäten oder des wesentlichen Prozesses,
+
+2. erheblichen Vertragsverletzungen durch das Auslagerungsunternehmen,
+
+3. erheblichen Rechtsverstößen, insbesondere durch den Wegfall der aufsichtsrechtlichen Voraussetzungen der Auslagerung, durch umfassende Einschränkungen von Informations- und Prüfrechten des Instituts oder der Bundesanstalt oder durch Verstöße des Auslagerungsunternehmens gegen datenschutzrechtliche Bestimmungen,
+
+4. fehlender oder nur sehr unzureichender Bereitschaft des Auslagerungsunternehmens, aufsichtliche Anordnungen umzusetzen oder an deren Umsetzung mitzuwirken, insbesondere im Rahmen der Missstandsbeseitigung und -vermeidung,
+
+5. erheblichen Sicherheitsvorfällen im Zusammenhang mit den ausgelagerten Aktivitäten und Prozessen beim Institut oder beim Auslagerungsunternehmen,
+
+6. unzureichendem Risiko- und Notfallmanagement des Auslagerungsunternehmens,
+
+7. unzureichenden Ressourcen des Auslagerungsunternehmens für die ordnungsgemäße Ausführung der ausgelagerten Aktivitäten oder Prozesse,
+
+8. Kenntnis des Instituts von Umständen, nach denen eine leitende Person des Auslagerungsunternehmens nicht als zuverlässig betrachtet werden kann,
+
+9. fehlender oder unzureichender Unterstützung durch das Auslagerungsunternehmen bei Beendigung der Auslagerung,
+
+10. drohender Zahlungsunfähigkeit des Auslagerungsunternehmens,
+
+11. Kenntnis des Instituts von schwerwiegenden Reputationsschäden beim Auslagerungsunternehmen,
+
+12. Konflikten am Sitz des Auslagerungsunternehmens in Drittstaaten, die zu einer wesentlichen Gefährdung der ausgelagerten Aktivitäten und Prozesse führen oder dazu führen könnten.
 
 # § 9 – Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)
 
@@ -249,18 +355,24 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 # Anlage 6 – (zu § 10 Absatz 2 Satz 5)Beteiligungen von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
 
-(Fundstelle: BGBl. I 2018, 2320 - 2322)
+(Fundstelle: BGBl. I 2018, 2320 - 2322;  
+  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2021/j1061_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2022/j2089_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 7 – (zu § 11 Absatz 1 und 2)Passivische Beteiligungsanzeige
 
-(Fundstelle: BGBl. I 2018, 2323 - 2325)
+(Fundstelle: BGBl. I 2018, 2323 - 2325;  
+  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2021/j1061_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2022/j2089_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 8 – (zu § 12 Absatz 1 und 2)Aktivische Beteiligungsanzeige
 
-(Fundstelle: BGBl. I 2018, 2326 - 2328)
+(Fundstelle: BGBl. I 2018, 2326 - 2328;  
+  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2021/j1061_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2022/j2089_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
