@@ -17,12 +17,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (Fundstelle: BAnz AT 24.11.2022 V1)
 
+<a href="../normengrafiken/banzat_2022/20221124v1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in  eigenem Fenster angezeigt</a>
+
 Anlage 1
 
 Fallpauschalen-Katalog und Pflegeerlöskatalog  
 (Entgelte nach § 9 Absatz 1 Nummer 1 und 2a des Krankenhausentgeltgesetzes)
 
-<a href="../normengrafiken/banzat_2022/20221124v1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in  eigenem Fenster angezeigt</a>
+ 
 
  
 
@@ -119,5 +121,3 @@ Ergänzende Informationen zur Abrechnung von bewerteten
 Zusatzentgelten aus dem Zusatzentgelte-Katalog (Anlage 2 und Anlage 5)
 
  
-
-<a href="../normengrafiken/banzat_2022/20221124v1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in  eigenem Fenster angezeigt</a>

@@ -5110,7 +5110,7 @@ Ist die Einhaltung der Anforderungen an Bevorratung und Lagerung nach Satz 1 und
 
 (6) Der Betreiber einer Anlage, die nach § 13b Absatz 4 und 5 und nach § 13d sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten wird und die vor dem 1. Januar 1970 in Betrieb genommen wurde, kann dem Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone sich die Anlage befindet, und der Bundesnetzagentur bis zum 9. August 2022 anzeigen, dass er von den Regelungen nach den Absätzen 1 bis 3 ausgenommen werden möchte. Eine befristete Teilnahme am Strommarkt nach § 50a ist nach einer Anzeige nach Satz 1 ausgeschlossen und § 50a Absatz 5 ist nicht anwendbar.
 
-(+++ § 50b: Zur Anwendung vgl. § 50a Abs. 4 (bis 31.3.2024 +++)
+(+++ § 50b: Zur Anwendung vgl. § 50a Abs. 4 (bis 31.3.2024) +++)
 
 # § 50c – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung
 

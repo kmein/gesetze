@@ -3020,6 +3020,7 @@
 - [KaffeeÜbk1983OrgVorRV](laws/KaffeeÜbk1983OrgVorRV.md) Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Kaffee-Organisation gem. Art. 23 des Internationalen Kaffee-Übereinkommens von 1983 in der Fassung der Verlängerung vom 4. Juli 1989
 - [KaffeeV 2001](laws/KaffeeV_2001.md) Verordnung über Kaffee, Kaffee- und Zichorien-Extrakte
 - [KAGB](laws/KAGB.md) Kapitalanlagegesetzbuch
+- [KAGBAuslAnzV](laws/KAGBAuslAnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach § 36 des Kapitalanlagegesetzbuchs
 - [KAGG/GewOErgG](laws/KAGG_GewOErgG.md) Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung
 - [KakaoV 2003](laws/KakaoV_2003.md) Verordnung über Kakao- und Schokoladenerzeugnisse
 - [KanalStTO 2010](laws/KanalStTO_2010.md) Verordnung über die Entgelte der Kanalsteurer auf dem Nord-Ostsee-Kanal
@@ -5869,6 +5870,7 @@
 - [VersAnsprReglGÄndG](laws/VersAnsprReglGÄndG.md) Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
 - [VersAnsprReglGÄndG 2](laws/VersAnsprReglGÄndG_2.md) Zweites Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
 - [VersatzV](laws/VersatzV.md) Verordnung über den Versatz von Abfällen unter Tage
+- [VersAusgl-AnzV](laws/VersAusgl-AnzV.md) Verordnung über die Anzeigen von Versicherungsunternehmen und Pensionsfonds zur Ausgliederung von Funktionen und Versicherungstätigkeiten
 - [VersAusglG](laws/VersAusglG.md) Gesetz über den Versorgungsausgleich
 - [VersAusglKassG](laws/VersAusglKassG.md) Gesetz über die Versorgungsausgleichskasse
 - [VersAusglKassG§3Abs1S2Bek](laws/VersAusglKassG§3Abs1S2Bek.md) Bekanntmachung nach § 3 Absatz 1 Satz 2 des Gesetzes über die Versorgungsausgleichskasse
