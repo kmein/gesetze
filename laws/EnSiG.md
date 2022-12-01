@@ -141,6 +141,8 @@ Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sow
 
 bei Erdöl, Erdölerzeugnissen, elektrischer Energie und Erdgas.
 
+(3a) Die Rechtsverordnung nach Absatz 3 Satz 2 in Verbindung mit Satz 1 ist nach ihrer Verkündung dem Bundestag mitzuteilen. Die Rechtsverordnung ist unverzüglich aufzuheben, wenn es der Bundestag innerhalb von zwei Monaten nach der Mitteilung verlangt.
+
 (4) Die Anwendung der Rechtsverordnungen kann, auch solange die Energieversorgung im Sinne des § 1 Abs. 1 und des § 2 Abs. 3 gefährdet oder gestört ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates ausgesetzt und wieder hergestellt werden. Der Lauf der in Absatz 2 Satz 1 festgelegten Frist wird durch eine Aussetzung der Anwendung nicht unterbrochen. Die Rechtsverordnungen nach § 1 sind unverzüglich aufzuheben oder außer Anwendung zu setzen, wenn keine Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Abs. 1 und des § 2 Abs. 3 mehr vorliegt oder wenn Bundestag und Bundesrat dies verlangen.
 
 (5) Rechtsverordnungen nach § 2 Abs. 1 dürfen erst angewendet werden, wenn dies zur Erfüllung der dort genannten Verpflichtungen erforderlich ist. Sie sind unverzüglich aufzuheben oder außer Anwendung zu setzen, wenn die Voraussetzungen des Satzes 1 nicht mehr vorliegen.
@@ -206,7 +208,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 # § 10 – Auskünfte, Datenerhebung und -übermittlung
 
-(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist. Die zuständigen Behörden übermitteln die nach den Sätzen 1 und 2 erlangten Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse an andere Behörden und den Marktgebietsverantwortlichen, soweit dies für die Vorbereitung und Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist.
+(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist. Die zuständigen Behörden übermitteln die nach den Sätzen 1 und 2 erlangten Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse an andere Behörden, den Marktgebietsverantwortlichen und die Betreiber von Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist.
 
 (2) Die mit der Einholung von Auskünften beauftragten Personen sind befugt, Grundstücke und die Geschäfts- und Betriebsräume des Auskunftspflichtigen während der üblichen Geschäfts- und Betriebsstunden zu betreten, dort Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 zu dulden.
 
@@ -214,19 +216,24 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (4) Auf die nach den Absätzen 1 und 2 erlangten Kenntnisse und Unterlagen sind §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-# § 11 – Entschädigung
+# § 11 – Entschädigung; Verordnungsermächtigung
 
-(1) Stellt eine nach Kapitel 1 dieses Gesetzes erlassene Rechtsverordnung oder eine Maßnahme auf Grund einer nach Kapitel 1 dieses Gesetzes erlassenen Rechtsverordnung eine Enteignung dar, ist eine Entschädigung in Geld zu leisten, soweit nicht nach § 11a eine Entschädigung zu leisten ist. Die Entschädigung bemißt sich nach dem für eine vergleichbare Leistung im Wirtschaftsverkehr üblichen Entgelt oder ist, falls es an einer vergleichbaren Leistung fehlt oder ein übliches Entgelt nicht zu ermitteln ist, unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bemessen.
+(1) Wenn dies zur Sicherung der Deckung des lebenswichtigen Bedarfs an Energie oder zur Erfüllung der Verpflichtungen zu Solidaritätsmaßnahmen nach § 2a erforderlich ist, kann durch eine Rechtsverordnung nach den §§ 1, 2 und 2a Absatz 1, jeweils in Verbindung mit § 3 oder durch eine Maßnahme aufgrund einer Rechtsverordnung nach den §§ 1, 2 und 2a Absatz 1, jeweils in Verbindung mit § 4 oder § 7 durch Enteignung das Eigentum an Erdöl und Erdölerzeugnissen, an sonstigen festen, flüssigen und gasförmigen Energieträgern, an elektrischer Energie und sonstigen Energien (Güter) oder an Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, auch zugunsten eines Dritten, entzogen werden. Satz 1 ist auch anzuwenden, soweit die Güter für nichtenergetische Zwecke bestimmt sind. Im Fall einer Enteignung nach Satz 1 ist eine Entschädigung in Geld zu leisten.
 
-(2) Zur Leistung der Entschädigung ist derjenige verpflichtet, der durch die Rechtsverordnung oder Maßnahme im Sinne des Absatzes 1 Satz 1 begünstigt ist. Ist kein Begünstigter vorhanden, so hat der Bund die Entschädigung zu leisten, wenn die Enteignung durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde erfolgt ist; in den übrigen Fällen hat das Land die Entschädigung zu leisten, das die Maßnahme angeordnet hat. Kann die Entschädigung von demjenigen, der begünstigt ist, nicht erlangt werden, so haftet nach Maßgabe des Satzes 2 der Bund oder das Land; soweit der Bund oder das Land den Entschädigungsberechtigten befriedigt, geht dessen Anspruch gegen den Begünstigten auf den Bund oder das Land über. Der Übergang kann nicht zum Nachteil des Entschädigungsberechtigten geltend gemacht werden.
+(2) Die Entschädigung wird gewährt für Vermögensnachteile, die unmittelbar durch die Enteignung entstehen.
 
-(3) Ist die Enteignung durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde erfolgt, so wird die Entschädigung von dieser Behörde festgesetzt. In den übrigen Fällen wird die Entschädigung von den in § 4 Abs. 5 genannten Stellen festgesetzt.
+(3) Vermögensvorteile, die dem Entschädigungsberechtigten infolge der Enteignung entstehen, sind bei der Festsetzung der Entschädigung mindernd zu berücksichtigen. Hat bei der Entstehung eines Vermögensnachteils ein Verschulden des Entschädigungsberechtigten mitgewirkt, so ist § 254 des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
 
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Verjährung der Ansprüche nach Absatz 1, über das Verfahren der Festsetzung einer Entschädigung sowie über die Zuständigkeit und das Verfahren der Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der Anforderungsbehörden die in Absatz 3 bezeichneten Stellen.
+(4) Für die Bemessung der Entschädigung sind bei der Enteignung von Gütern im Sinne des Absatzes 1 maßgeblich die Erwerbs- oder Produktionskosten des Entschädigungsberechtigten zum Zeitpunkt des Erwerbs oder der Produktion des enteigneten Guts zuzüglich der Kosten für die Finanzierung. Soweit das Gut nach Satz 1 aus einem Bestand enteignet wurde, der durch mehrere untrennbar zusammenhängende oder zusammengesetzte Erwerbsvorgänge erlangt wurde, sind als Maßstab die durchschnittlichen mengengewichteten Erwerbskosten heranzuziehen. Abweichend von Satz 1 ist der Verkehrswert maßgebend, wenn dies trotz des überragenden öffentlichen Interesses an der Sicherung der Energieversorgung nach § 1 oder an der Erfüllung der Verpflichtungen zu Solidaritätsmaßnahmen nach § 2a unter Abwägung der gegenseitigen Interessen im Einzelfall geboten ist; dies kann der Fall sein, wenn der Erwerb oder die Produktion nach Satz 1 so lange zurückliegen, dass ein Abstellen auf den Bemessungsmaßstab nach Satz 1 im Einzelfall unbillig wäre. Im Falle der Enteignung von Produktionsmitteln der gewerblichen Wirtschaft im Sinne des Absatzes 1 ist für die Bemessung der Entschädigung deren Verkehrswert maßgeblich. Soweit die Ermittlung der Bemessung nach den Sätzen 1 bis 4 die Mitwirkung des Entschädigungsberechtigten erfordert, ist dieser verpflichtet, die notwendigen Handlungen vorzunehmen.
 
-(+++ §§ 11 u. 12: Zur Geltung vgl. § 13 Satz 2 +++)  
-(+++ § 11: Zur Anwendung vgl. § 30 Abs. 5 Satz 2, Abs. 6 +++)  
-(+++ § 11 Abs. 3 u. 4: Zur Anwendung vgl. § 12 Abs. 3 +++)
+(5) Zur Leistung der Entschädigung ist derjenige verpflichtet, der durch die Rechtsverordnung oder Maßnahme im Sinne des Absatzes 1 Satz 1 begünstigt ist. Ist kein Begünstigter vorhanden, so hat der Bund die Entschädigung zu leisten, wenn die Enteignung durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde erfolgt ist; in den übrigen Fällen hat das Land die Entschädigung zu leisten, das die Maßnahme angeordnet hat. Kann die Entschädigung von demjenigen, der begünstigt ist, nicht erlangt werden, so haftet nach Maßgabe des Satzes 2 der Bund oder das Land; soweit der Bund oder das Land den Entschädigungsberechtigten befriedigt, geht dessen Anspruch gegen den Begünstigten auf den Bund oder das Land über. Der Übergang kann nicht zum Nachteil des Entschädigungsberechtigten geltend gemacht werden.
+
+(6) Ist die Enteignung durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde erfolgt, so wird die Entschädigung von dieser Behörde festgesetzt. In den übrigen Fällen wird die Entschädigung von den in § 4 Abs. 5 genannten Stellen festgesetzt.
+
+(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Verjährung der Ansprüche nach Absatz 1, über das Verfahren der Festsetzung einer Entschädigung sowie über die Zuständigkeit und das Verfahren der Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der Anforderungsbehörden die in Absatz 6 bezeichneten Stellen.
+
+(+++ § 11: Zur Anwendung vgl. § 30 Abs. 5 u. 6 +++)  
+(+++ § 11: Zur Anwendung vgl. § 12 Abs. 4 +++)
 
 # § 11a – Entschädigung für enteignete Gasspeichermengen
 
@@ -246,16 +253,15 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (1) Wird durch eine Rechtsverordnung oder Maßnahme im Sinne des § 11 Abs. 1 Satz 1 dem Betroffenen ein Vermögensnachteil zugefügt, der nicht nach § 11 abzugelten ist, so ist eine Entschädigung in Geld zu gewähren, soweit seine wirtschaftliche Existenz durch unabwendbare Schäden gefährdet oder vernichtet ist oder die Entschädigung zur Abwendung oder zum Ausgleich ähnlicher unbilliger Härten geboten ist.
 
-(2) Zur Leistung der Entschädigung ist der Bund verpflichtet, wenn der Vermögensnachteil durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde zugefügt worden ist; in den übrigen Fällen ist die Entschädigung von dem Land zu leisten, das die Maßnahme angeordnet hat.
+(2) Eine Entschädigung nach Absatz 1 ist regelmäßig geboten bei Maßnahmen aufgrund einer nach § 2a Absatz 1 erlassenen Rechtsverordnung.
 
-(3) § 11 Abs. 3 und 4 ist entsprechend anzuwenden.
+(3) Zur Leistung der Entschädigung ist der Bund verpflichtet, wenn der Vermögensnachteil durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde zugefügt worden ist; in den übrigen Fällen ist die Entschädigung von dem Land zu leisten, das die Maßnahme angeordnet hat.
 
-(+++ §§ 11 u. 12: Zur Geltung vgl. § 13 Satz 2 +++)  
-(+++ § 12: Zur Anwendung vgl. § 30 Abs. 5 Satz 2, Abs. 6 +++)
+(4) § 11 Absatz 3, 6 und 7 ist entsprechend anzuwenden.
 
-# § 13 – Entschädigung für Solidaritätsmaßnahmen für Erdgas
+(+++ § 12: Zur Anwendung vgl. § 30 Abs. 5 u. 6 +++)
 
-Maßnahmen aufgrund einer nach § 2a Absatz 1 für Erdgas erlassenen Rechtsverordnung sind zu entschädigen. Die §§ 11 und 12 gelten entsprechend.
+# § 13 – (weggefallen)
 
 # § 14 – Bekanntgabe und Zustellung
 
@@ -456,6 +462,42 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 3. sonstige Maßnahmen, die zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie im Rahmen einer Enteignung nach § 18 erforderlich sind.
 
 Die Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+
+# § 23a – Enteignung von beweglichen Sachen und Zugang zu Unterlagen
+
+(1) Zur Sicherung der Energieversorgung im Sinne des § 18 Absatz 1 können durch Verwaltungsakt Anordnungen getroffen werden über
+
+1. die Enteignung von beweglichen Sachen, die für die Errichtung von Erdgasleitungen erforderlich sind und
+
+2. den Zugang zu Unterlagen, insbesondere zu Dokumentationen, Schriftstücken, Zeichnungen, bildlichen Darstellungen und Aufzeichnungen einschließlich technischer Aufzeichnungen, und deren Nutzbarkeit, einschließlich der Einräumung von Nutzungsrechten in Bezug auf gewerbliche Schutzrechte und Urheberrechte, soweit Zugang und Nutzung die Errichtung von Erdgasleitungen ermöglichen oder ihre Errichtung beschleunigen können.
+
+(2) Enteignungsbegünstigte für Enteignungen im Sinne des Absatzes 1 Nummer 1 können auch private oder öffentliche Unternehmen sein, die Erdgasleitungen errichten und dafür Enteignungsgegenstände nach Absatz 1 Nummer 1 benötigen. Der Enteignungsgegenstand darf nur für den in Absatz 1 Nummer 1 bezeichneten Zweck verwendet werden.
+
+(3) Die Enteignung nach Absatz 1 Nummer 1 ist nur zulässig, wenn
+
+1. sie zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie und zur Aufrechterhaltung der Versorgungssicherheit erforderlich ist,
+
+2. der freihändige Erwerb oder die Herstellung dem Enteignungsgegenstand gleichwertiger Sachen nicht oder nicht in angemessener Frist möglich ist und
+
+3. der Enteignungsbegünstigte sich ernsthaft um den freihändigen Erwerb des Enteignungsgegenstandes zu angemessenen Bedingungen vergeblich bemüht hat.
+
+§ 19 Absatz 2 Satz 1 ist entsprechend anzuwenden.
+
+(4) Für eine Enteignung nach Absatz 1 Nummer 1 ist eine Entschädigung in Höhe des Verkehrswertes des Enteignungsgegenstandes zu leisten. § 21 Absatz 1 Satz 2 und 3, Absatz 2, 4 Satz 1 und 2 und Absatz 5 ist entsprechend anzuwenden. In dem Verwaltungsakt nach Absatz 1 Nummer 1 sind Angaben zur Höhe der Entschädigung aufzunehmen, wenn diese zum Zeitpunkt des Erlasses des Verwaltungsaktes bereits feststeht. Der Verwaltungsakt muss die in § 19 Absatz 1 Satz 2 Nummer 1 bis 3 genannten Angaben enthalten.
+
+(5) Der Zugang zu und das Recht zur Nutzung von Unterlagen im Sinne des Absatzes 1 Nummer 2 können auch zugunsten privater oder öffentlicher Unternehmen angeordnet werden, die die Erdgasleitungen im Sinne des Absatzes 1 errichten.
+
+(6) Die Anordnung nach Absatz 1 Nummer 2 ist nur zulässig,
+
+1. soweit die in den Unterlagen nach Absatz 1 Nummer 2 verkörperten Informationen nicht oder nicht in angemessener Frist auf andere Weise erlangt, erworben oder erstellt werden können und
+
+2. wenn der von der Anordnung Begünstigte sich ernsthaft um den freihändigen Erwerb der Unterlagen und der Rechte zur Nutzung nach Absatz 1 Nummer 2 zu angemessenen Bedingungen vergeblich bemüht hat.
+
+In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutzung nur solange und soweit ausüben darf, wie dies für die Errichtung von Erdgasleitungen im Sinne des Absatzes 1 notwendig ist. Die Anordnung kann bestimmen, dass der Zugang zu Unterlagen auch durch die Übermittlung von Kopien erfolgen kann, wenn diese den mit dem Zugang verfolgten Zweck in gleicher Weise erfüllen. Die herausgegebenen Unterlagen sind zurückzugeben, wenn das Recht zur Nutzung gemäß Satz 2 nicht mehr ausgeübt werden darf, dabei sind angefertigte Kopien zu vernichten. Die Vorschriften des Gesetzes zum Schutz von Geschäftsgeheimnissen vom 18. April 2019 (BGBl. I S. 466) bleiben unberührt.
+
+(7) Für die Nutzung der Unterlagen im Sinne des Absatzes 1 Nummer 2, einschließlich der Einräumung von Nutzungsrechten in Bezug auf gewerbliche Schutzrechte und Urheberrechte, ist durch den Bund auf Antrag ein im Einzelfall angemessenes Entgelt zu leisten. Die Höhe des Entgelts kann in einem selbständigen Verwaltungsakt festgelegt werden. Die Erstattungsansprüche des Bundes gegen denjenigen, zu dessen Gunsten die Nutzungsrechte eingeräumt werden, können auch durch Verwaltungsakt festgesetzt werden.
+
+(8) Verwaltungsakte nach dieser Vorschrift erlässt das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium der Finanzen. Eine Anfechtungsklage gegen einen Verwaltungsakt nach Absatz 1 hat keine aufschiebende Wirkung.
 
 # § 24 – Preisanpassungsrechte bei verminderten Gasimporten
 
@@ -664,13 +706,13 @@ der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), d
 
 4. im Sektor Erdöl die Tatbestände des § 12 Absatz 1 Satz 1 Nummer 1, 2, 5 oder 6 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74), das zuletzt durch Artikel 1 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2101) geändert worden ist, in der jeweils geltenden Fassung, vorliegen.
 
-(3) Rechtsverordnungen nach Absatz 1 erlässt die Bundesregierung. Die Bundesregierung kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium für Wirtschaft und Klimaschutz übertragen. Rechtsverordnungen des Bundesministeriums für Wirtschaft und Klimaschutz nach Absatz 1 Satz 1 Nummer 2 werden im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr erlassen.
+(3) Rechtsverordnungen nach Absatz 1 erlässt die Bundesregierung.
 
 (4) Rechtsverordnungen nach Absatz 1, deren Geltungsdauer sich auf nicht mehr als sechs Monate erstreckt, bedürfen nicht der Zustimmung des Bundesrates. Ihre Geltungsdauer darf nur mit Zustimmung des Bundesrates verlängert werden.
 
-(5) Rechtsverordnungen nach Absatz 1 Nummer 2 werden von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt, soweit in ihnen nichts anderes bestimmt ist. Die §§ 5, 11 und 12 sind insoweit entsprechend anzuwenden.
+(5) Rechtsverordnungen nach Absatz 1 Nummer 2 werden von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt, soweit in ihnen nichts anderes bestimmt ist. § 5 Satz 1, § 11 und § 12 Absatz 1, 3 und 4 sind insoweit entsprechend anzuwenden. § 5 Satz 2 ist nicht anzuwenden.
 
-(6) Auf Rechtsverordnungen nach Absatz 1 Nummer 1 und 3 sind § 4 Absatz 5, § 5 Satz 1 sowie die §§ 11 und 12 entsprechend anzuwenden.
+(6) Auf Rechtsverordnungen nach Absatz 1 Nummer 1 und 3 sind § 4 Absatz 5, § 5 Satz 1 sowie die §§ 11 und 12 Absatz 1, 3 und 4 entsprechend anzuwenden.
 
 # § 30a – Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage
 

@@ -43,7 +43,7 @@ f) die Einzelheiten der technischen Datenverarbeitung aus dem Seelotseignungsver
 
 g) die Kosten der Untersuchungen zur Seelotseignung und deren Übernahme sowie das jeweilige Verfahren,
 
-3. den Umfang der vorgeschriebenen Ausbildung und Prüfungen, das Verfahren bei Abnahme der Prüfungen festzulegen,
+3. den Umfang der vorgeschriebenen Ausbildung und Prüfungen, das Verfahren bei Abnahme der Prüfungen und bei Erstattung der in § 20 Absatz 3 Satz 2 näher bezeichneten, für die Finanzierung der Ausbildung erforderlichen Kosten wegen Abbruchs der Ausbildung oder wegen vorzeitigen Verzichts auf die Bestallung festzulegen,
 
 4. Art und Umfang der Weiterbildung der Seelotsinnen und Seelotsen zur laufenden Ergänzung der für die Lotstätigkeit notwendigen Kenntnisse zu bestimmen,
 
@@ -87,27 +87,49 @@ Wer den Beruf einer Seelotsin oder eines Seelotsen in einem Seelotsrevier ausüb
 
 (1) Als Seelotsenanwärterin oder Seelotsenanwärter darf nur zugelassen werden, wer für den Beruf der Seelotsin oder des Seelotsen auf Grund ihrer oder seiner Berufsausbildung und Berufserfahrung befähigt sowie gesundheitlich geeignet ist und die erforderliche Zuverlässigkeit besitzt. Gesundheitlich geeignet ist, wer nach seinem Gesundheitszustand für den Seelotsdienst geeignet und hinreichend widerstandsfähig ist und den zur Erhaltung der Sicherheit des Verkehrs gestellten besonderen Anforderungen des Seelotsdienstes genügt. Zuverlässig ist, wer die Gewähr für die Erfüllung der einer Seelotsin oder einem Seelotsen obliegenden Pflichten bietet. Eignung und Zuverlässigkeit müssen während der gesamten Dauer der Zulassung vorliegen.
 
-(2) Der Bewerber muss zum Zeitpunkt der Zulassung
+(2) Die Bewerberin oder der Bewerber muss zum Zeitpunkt der Zulassung zur zwölfmonatigen brüderschaftsbezogenen Ausbildung
 
-1. ein gültiges Befähigungszeugnis ohne Einschränkung in den nautischen Befugnissen zum Kapitän für den Dienst auf anderen als auf Fischereifahrzeugen oder ein als gleichwertig anerkanntes Befähigungszeugnis eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum besitzen,
+1. ein gültiges Befähigungszeugnis Kapitän NK nach § 29 Absatz 1 Satz 1 Nummer 3 der Seeleute-Befähigungsverordnung vom 8. Mai 2014 (BGBl. I S. 460), die zuletzt durch Artikel 66 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, ohne Einschränkungen nach § 9 der Seeleute-Befähigungsverordnung oder ein durch gültigen Anerkennungsvermerk nach § 20 Absatz 2 der Seeleute-Befähigungsverordnung anerkanntes Befähigungszeugnis mit Befugnissen zum Kapitän ohne Einschränkungen besitzen,
 
-2. ausweislich des Seefahrtsbuches oder eines gleichwertigen amtlichen Dokuments nach dem Erwerb eines solchen Befähigungszeugnisses eine Seefahrtzeit von mindestens zwei Jahren innerhalb der letzten fünf Jahre in einer dem Befähigungszeugnis entsprechend nautisch verantwortlichen Position geleistet haben,
+2. ausweislich von Dienstbescheinigungen gemäß § 33 des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868), das zuletzt durch Artikel 1 des Gesetzes vom 14. Oktober 2020 (BGBl. I S. 2112) geändert worden ist, oder eines jeweils gleichwertigen Dokuments nach dem Erwerb eines Befähigungszeugnisses nach Nummer 1 eine Seefahrtzeit von mindestens 24 Monaten innerhalb der letzten fünf Jahre in einer dem Befähigungszeugnis NK entsprechenden nautisch verantwortlichen Position geleistet haben,
 
-3. ein Zeugnis des seeärztlichen Dienstes der See-Berufsgenossenschaft über seine körperliche und geistige Eignung für den Beruf des Seelotsen vorlegen und
+3. ein gültiges Zeugnis über ihre oder seine gesundheitliche Eignung für den Beruf der Seelotsin oder des Seelotsen (Seelotseignungszeugnis) vorlegen,
 
-4. die deutsche Sprache in Wort und Schrift beherrschen und gute Kenntnisse der englischen Sprache besitzen.
+4. die deutsche Sprache in Wort und Schrift beherrschen und gute Kenntnisse der englischen Sprache besitzen und
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, auf Antrag einer Lotsenbrüderschaft für das jeweilige Seelotsrevier durch Rechtsverordnung abweichend von Absatz 2 Nr. 2 an Stelle der Seefahrtzeit eine lotsenspezifische praxisorientierte Grundausbildung vorzusehen. Die Zulassung zur Grundausbildung erfolgt durch ein Ausschreibungsverfahren. Der Erwerb des in Absatz 2 Nr. 1 bezeichneten Befähigungszeugnisses darf nach Bekanntgabe der Ausschreibung durch die Lotsenbrüderschaft nicht länger als drei Jahre zurückliegen. Die Grundausbildung zum Seelotsenanwärter muss auf der Grundlage eines von der Bundeslotsenkammer genehmigten Ausbildungsplans erfolgen, der den Anforderungen des von den Aufsichtsbehörden genehmigten Ausbildungsrahmenplans der Bundeslotsenkammer genügt. Die näheren Einzelheiten zum Zulassungsverfahren bei den Aufsichtsbehörden, zur Durchführung und Dauer der Grundausbildung und der Abschlussprüfung regelt die Rechtsverordnung nach Satz 1.
+5. die bestandene praktische Prüfung, die nach der revierbezogenen Ausbildung durchgeführt wird, nachweisen.
+
+(3) Ist eine Bewerberin oder ein Bewerber nicht in der Lage, entweder die Seefahrtzeit nach Absatz 2 Nummer 2 oder die abgelegte Prüfung nach Absatz 2 Nummer 5 nachzuweisen, so kann sie oder er zu einer um eine sechsmonatige lotsenspezifische und praxisorientierte Ausbildungszeit verlängerten revierbezogenen Ausbildung zugelassen werden.
+
+(4) Weist eine Bewerberin oder ein Bewerber an Stelle des in Absatz 2 Nummer 1 genannten Befähigungszeugnisses einen Bachelorabschluss der Fachrichtung Nautik nach und
+
+1. ein gültiges Befähigungszeugnis Nautischer Wachoffizier NWO nach § 29 Absatz 1 Satz 1 Nummer 1 der Seeleute-Befähigungsverordnung ohne Einschränkungen nach § 9 der Seeleute-Befähigungsverordnung oder
+
+2. ein mit dem Befähigungszeugnis nach Nummer 1 als gleichwertig anerkanntes Befähigungszeugnis für den nautischen Schiffsdienst eines anderen Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum,
+
+kann sie oder er zu einer Ausbildung zugelassen werden, die um eine weitere praxisorientierte revierübergreifende Ausbildungszeit von sechs Monaten verlängert ist. Die Nachweise nach Absatz 2 Nummer 2 und 5 sind für die Zulassung nicht notwendig.
+
+(5) Die Gleichwertigkeit nach Absatz 4 Nummer 2 wird auf Antrag vom Bundesamt für Seeschifffahrt und Hydrographie festgestellt, wenn die Bewerberin oder der Bewerber den Nachweis erbracht hat, dass sie oder er über gleichwertige Kenntnisse verfügt, wie sie von der Inhaberin oder dem Inhaber eines gültigen Befähigungszeugnisses zum Nautischen Wachoffizier NWO nach Absatz 4 Nummer 1 verlangt werden. Der Nachweis gilt regelmäßig als erbracht, wenn die Bewerberin oder der Bewerber
+
+1. eine vergleichbare Ausbildung entsprechend den Anforderungen nach § 30 Absatz 1 Satz 1 Nummer 2 der Seeleute-Befähigungsverordnung erfolgreich absolviert hat und
+
+2. einen Lehrgang mit den Inhalten der Nummer 5 der Anlage 2 (zu § 5) zur Seeleute-Befähigungsverordnung bestanden hat.
+
+Das Bundesamt kann im Einzelfall den Nachweis des erfolgreichen Abschlusses eines Anpassungslehrgangs oder eine angemessene berufliche Erfahrung verlangen.
+
+(6) Der Ersterwerb der Befähigungszeugnisse, die für eine Zulassung nach den Absätzen 3 oder 4 erforderlich sind, darf bei Bewerbungseingang nicht länger als drei Jahre zurückliegen.
 
 # § 10
 
-Der Seelotsenanwärter hat sich der für das Seelotsrevier vorgeschriebenen Ausbildung und nach deren Abschluß einer Prüfung durch die Aufsichtsbehörde zu unterziehen.
+Die Seelotsenanwärterin oder der Seelotsenanwärter hat sich der für das Seelotsrevier vorgeschriebenen Ausbildung und den Prüfungen nach den Vorgaben einer auf Grund des § 4 Nummer 3 erlassenen Rechtsverordnung zu unterziehen.
 
 # § 11
 
 (1) Eignung und Zuverlässigkeit nach § 9 Absatz 1 Satz 1 müssen während der gesamten Dauer der Bestallung vorliegen. Nach bestandener Prüfung vor der Aufsichtsbehörde ist die Seelotsenanwärterin oder der Seelotsenanwärter von der Aufsichtsbehörde durch Aushändigung einer Urkunde zur Seelotsin oder zum Seelotsen zu bestallen. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
-(2) Bei der Bestallung ist die Seelotsin oder der Seelotse durch die Aufsichtsbehörde auf die gewissenhafte Ausübung ihres oder seines Berufes zu verpflichten. Im Falle wiederholter Sorgfaltspflichtverletzungen kann die Aufsichtsbehörde gegenüber der Seelotsin oder dem Seelotsen auf deren oder dessen Kosten geeignete Fortbildungsmaßnahmen anordnen, um weitere Pflichtverletzungen zu verhindern.
+(2) Seelotsenanwärterinnen und Seelotsenanwärter, die die Ausbildung nach § 9 Absatz 4 begonnen haben, müssen vor der Bestallung den Masterabschluss der Fachrichtung Seelotswesen nachweisen.
+
+(3) Bei der Bestallung ist die Seelotsin oder der Seelotse durch die Aufsichtsbehörde auf die gewissenhafte Ausübung ihres oder seines Berufes zu verpflichten. Im Falle wiederholter Sorgfaltspflichtverletzungen kann die Aufsichtsbehörde gegenüber der Seelotsin oder dem Seelotsen auf deren oder dessen Kosten geeignete Fortbildungsmaßnahmen anordnen, um weitere Pflichtverletzungen zu verhindern.
 
 # § 12
 
@@ -188,6 +210,10 @@ Die Bestallung erlischt, wenn die Seelotsin oder der Seelotse Altersruhegeld erh
 (1) Die Seelotsin oder der Seelotse kann auf die Rechte aus der Bestallung verzichten.
 
 (2) Der Verzicht ist der Aufsichtsbehörde gegenüber schriftlich zu erklären. Er wird, falls die Aufsichtsbehörde nicht einem früheren Zeitpunkt zustimmt, mit Ablauf des dritten Monats wirksam, der auf die Abgabe der Erklärung folgt.
+
+(3) Wird der Verzicht binnen fünf Jahren nach der Bestallung erklärt, sind die für die Finanzierung der Ausbildung erforderlichen, nach § 28 Absatz 3 Satz 3 in Verbindung mit der Verteilungsordnung von der betreffenden Brüderschaft noch nicht abgeführten Lotsgeldanteile von der oder dem Verzichtenden nach Festsetzung durch die Brüderschaft zu erstatten. Die für die Finanzierung der Ausbildung erforderlichen Kosten enthalten die Kosten für die Unterhaltsbeiträge und die Aufwendungen für die sächliche und personelle Umsetzung der Ausbildungsinhalte für die jeweils nach § 9 Absatz 2 bis 4 notwendige Ausbildungszeit. Der festgesetzte Betrag muss die nicht abgeführten Lotsgeldanteile vollständig ausgleichen und darf deren Gesamtsumme nicht überschreiten.
+
+(4) Absatz 3 findet keine Anwendung, wenn der Verzicht aus einem wichtigen Grund erklärt wird. Ein wichtiger Grund liegt vor, wenn der Verzicht aus von der Seelotsin oder dem Seelotsen nicht zu vertretenden Umständen, wie zum Beispiel wegen der Pflegebedürftigkeit naher Angehöriger, erklärt wird.
 
 # § 21
 
@@ -273,11 +299,21 @@ Seelotsinnen und Seelotsen haben sich durch ihr Verhalten innerhalb und außerha
 
 8. die Lotsgelder für Rechnung der Seelotsinnen und Seelotsen einzunehmen;
 
-9. von den eingenommenen Lotsgeldern die Beträge einzubehalten, die nach § 27 Abs. 3 und nach § 35 Abs. 2 Nr. 6 sowie für die Versorgung der Seelotsen und die Zahlung eines Unterhaltsbeitrages an die Seelotsenanwärter erforderlich sind, die einbehaltenen Versorgungsbeiträge an die dafür zuständigen Stellen abzuführen, die einbehaltenen Unterhaltsbeiträge an die Seelotsenanwärter auszuzahlen sowie den Rest der Lotsgelder nach Maßgabe einer Verteilungsordnung an die Seelotsen zu verteilen.
+9. von den eingenommenen Lotsgeldern
+
+a) die Beträge einzubehalten, die nach Nummer 2, nach § 27 Absatz 3 und nach § 35 Absatz 2 Nummer 6 sowie für die Versorgung der Seelotsinnen und Seelotsen und die Zahlung von Unterhaltsbeiträgen an die Seelotsenanwärterinnen und Seelotsenanwärter erforderlich sind,
+
+b) die einbehaltenen Versorgungsbeiträge an die dafür zuständigen Stellen abzuführen,
+
+c) die einbehaltenen Unterhaltsbeiträge für die brüderschaftsbezogene Ausbildung an die Seelotsenanwärterinnen und Seelotsenanwärter auszuzahlen,
+
+d) die einbehaltenen Beträge für die revierübergreifende und die revierbezogene Ausbildung an die Bundeslotsenkammer abzuführen,
+
+sowie den Rest der Lotsgelder nach Maßgabe einer Verteilungsordnung an die Seelotsinnen und Seelotsen zu verteilen.
 
 (2) Die Börtordnung bedarf der Genehmigung der Aufsichtsbehörde.
 
-(3) Die Verteilungsordnung hat die Anteile des Seelotsen für den Fall einer Erkrankung sowie einer vorläufigen oder vorübergehenden Untersagung der Berufsausübung zu regeln. Sie kann dabei von der sonst vorgesehenen Verteilung abweichen.
+(3) Die Verteilungsordnung hat die Anteile der Seelotsin oder des Seelotsen für den Fall einer Erkrankung, einer vorläufigen oder vorübergehenden Untersagung der Berufsausübung sowie für die Finanzierung der revierübergreifenden und revierbezogenen Ausbildung zu regeln. Sie kann dabei von der sonst vorgesehenen Verteilung abweichen. Die Verteilungsordnungen der Brüderschaften haben die Anteile des Lotsgeldes, die von der Brüderschaft für die Finanzierung der revierübergreifenden und revierbezogenen Ausbildung der Seelotsinnen und Seelotsen in den ersten fünf Jahren nach deren Bestallung einzubehalten sind, gleichartig auszugestalten.
 
 (4) Die Lotsenbrüderschaften können Aufgaben nach Absatz 1 Nr. 6 der Bundeslotsenkammer übertragen, soweit diese zustimmt.
 
@@ -339,7 +375,9 @@ Ein Mitglied ist nicht stimmberechtigt, wenn der Beschluß die Vornahme eines Re
 
 6. sofern und soweit auf einem Seelotsrevier das tarifliche Lotsgeld-Soll-Aufkommen nicht erreicht wird, die Mindereinnahmen auf Antrag einer Lotsenbrüderschaft zwischen den einzelnen Lotsenbrüderschaften auszugleichen;
 
-7. Aufgaben wahrzunehmen, die ihr mit ihrer Zustimmung nach § 28 Abs. 4 übertragen worden sind.
+7. Aufgaben wahrzunehmen, die ihr mit ihrer Zustimmung nach § 28 Abs. 4 übertragen worden sind; und
+
+8. die nach § 28 Absatz 1 Nummer 9 Buchstabe a und d erhaltenen Gelder für die revierübergreifenden und revierbezogenen Ausbildungszwecke abzuführen und auszuzahlen; dazu gehören insbesondere die Unterhaltsbeiträge an die Seelotsenanwärterinnen und Seelotsenanwärter.
 
 # § 36
 

@@ -181,7 +181,7 @@ Begriffsbestimmungen und Anwendungen
 
 § 3.02
 
-Lichter und Signalleuchten
+Lichter
 
 § 3.03
 
@@ -313,7 +313,7 @@ Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
 § 3.28
 
-Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten im Fahrwasser ausführen
 
 § 3.29
 
@@ -1255,7 +1255,7 @@ Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkohol
 
 3. Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung verantwortlich.
 
-4. Die Mitglieder der diensttuenden Mindestbesatzung nach der Rheinschiffsuntersuchungsordnung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein.
+4. Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung nach der Verordnung über das Schiffspersonal auf dem Rhein dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einem gleichwertigen Alkoholgehalt in der Atemluft ist es den Mitgliedern der Mindestbesatzung verboten, ihren Dienst zu verrichten. Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen.
 
 Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einem gleichwertigen Alkoholgehalt in der Atemluft, ist es den in Satz 1 genannten Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen.
 
@@ -1591,15 +1591,13 @@ b) ein Verband gekuppelter Fahrzeuge, dessen Länge 140 m überschreitet, als ei
 
 # § 3.02 – Lichter und Signalleuchten
 
-1. Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung vorgeschriebenen Lichter von allen Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht werfen.
+1. Soweit nichts anderes bestimmt ist, müssen die Lichter von allen Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht werfen.
 
-2. Es dürfen nur Signalleuchten verwendet werden,
+2. Signalleuchten, ihre Gehäuse und ihr Zubehör müssen den Vorschriften des Artikels 7.05 Nummer 1 ES-TRIN entsprechen.
 
-a) deren Gehäuse, Zubehör und Lichtquellen das Zulassungskennzeichen tragen, das in den Vorschriften über die Farbe und Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in der Rheinschiffahrt vorgeschrieben ist und
+3. Lichter müssen in horizontaler Ausstrahlung, Farbe und Stärke den Anforderungen dieser Verordnung entsprechen.
 
-b) deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den Bestimmungen dieser Verordnung entsprechen.
-
-3. Die Nachtbezeichnung stilliegender nicht motorisierter Fahrzeuge braucht nicht Nummer 2 zu entsprechen; sie muß jedoch bei klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1.000,00 m haben.
+4. Die Nachtbezeichnung stillliegender, nicht motorisierter Fahrzeuge braucht nicht den Nummern 2 und 3 zu entsprechen; sie muss jedoch bei klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1000 m haben.
 
 # § 3.03 – Flaggen, Tafeln und Wimpel
 
