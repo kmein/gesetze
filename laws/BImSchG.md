@@ -447,7 +447,7 @@ Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betr
 
 (1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien modernisiert (Repowering), müssen auf Antrag des Vorhabenträgers im Rahmen des Änderungsgenehmigungsverfahrens nur Anforderungen geprüft werden, soweit durch das Repowering im Verhältnis zum gegenwärtigen Zustand unter Berücksichtigung der auszutauschenden Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können.
 
-(2) Die Modernisierung umfasst den vollständigen oder teilweisen Austausch von Anlagen oder Betriebssystemen und ‑geräten zum Austausch von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der Anlage. Bei einem vollständigen Austausch der Anlage sind zusätzlich folgende Anforderungen einzuhalten:
+(2) Die Modernisierung umfasst den vollständigen oder teilweisen Austausch von Anlagen oder Betriebssystemen und -geräten zum Austausch von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der Anlage. Bei einem vollständigen Austausch der Anlage sind zusätzlich folgende Anforderungen einzuhalten:
 
 1. Die neue Anlage wird innerhalb von 24 Monaten nach dem Rückbau der Bestandsanlage errichtet und
 
