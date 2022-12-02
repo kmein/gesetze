@@ -183,8 +183,7 @@ Dies gilt auch für Rechtsverordnungen nach § 2a Absatz 1 und nach § 2b Absatz
 
 Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder auf Grund von Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und § 2b Absatz 2 ergehen, haben keine aufschiebende Wirkung. Soweit dieses Gesetz nichts anderes bestimmt, sind für gerichtliche Rechtsbehelfe gegen Maßnahmen der Bundesnetzagentur nach diesem Gesetz oder nach Rechtsverordnungen aufgrund dieses Gesetzes die Bestimmungen der Abschnitte 2 bis 4 des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme der §§ 91 und 93 entsprechend anzuwenden.
 
-(+++ § 5: Zur Anwendung vgl. § 30 Abs. 5 Satz 2 +++)  
-(+++ § 5 Satz 1: Zur Anwendung vgl. § 30 Abs. 6 +++)
+(+++ § 5: Zur Anwendung vgl. § 30 Abs. 5 u. 6 +++)
 
 # § 6 – Verwaltungsvorschriften
 
@@ -415,6 +414,8 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (2) Zum Übergangszeitpunkt geht der Enteignungsgegenstand einschließlich aller damit zusammenhängenden Rechte auf den Enteignungsbegünstigten über. Sind über enteignete Anteile an Unternehmen nach § 18 Absatz 2 Satz 1 Nummer 1 und 3 oder sonstige Rechte im Sinne des § 18 Absatz 2 Satz 1 Nummer 2 Urkunden ausgegeben, so verbriefen sie ab dem Übergangszeitpunkt bis zur Aushändigung an den Enteignungsbegünstigten nur den Anspruch auf die Enteignungsentschädigung nach § 21. Der Übergangszeitpunkt ist von Amts wegen unverzüglich in das Handelsregister einzutragen.
 
+(+++ § 19 Abs. 2: Zur Anwendung vgl. § 23a Abs. 3 +++)
+
 # § 20 – Verfahren
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das Bundesministerium für Wirtschaft und Klimaschutz als Enteignungsbehörde. Das Bundesministerium der Finanzen ist zu beteiligen.
@@ -434,6 +435,8 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 (4) Die Entschädigung ist durch Zahlung eines Geldbetrages zu leisten. Die Entschädigungszahlung ist mit Ablauf des Tages, in den der Übergangszeitpunkt fällt, fällig. Die Höhe der Entschädigung wird in der Rechtsverordnung nach § 19 Absatz 1 oder durch das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium der Finanzen gesondert bekannt gemacht.
 
 (5) Entschädigungsbeträge sind mit einem Prozentpunkt über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem Übergangszeitpunkt an zu verzinsen.
+
+(+++ § 21: Zur Anwendung vgl. § 23a Abs. 4 +++)
 
 # § 22 – Rechtsschutz
 
