@@ -1,4 +1,4 @@
-% Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur  (BMVBS-Bundesnichtraucherschutzgesetz-Zuständigkeitsverordnung)
+% Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur  (BMVI-Bundesnichtraucherschutzgesetz-Zuständigkeitsverordnung)
 % Ausfertigungsdatum: 05.10.2007
  
 # Eingangsformel

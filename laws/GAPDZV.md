@@ -120,11 +120,9 @@ Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor beträgt 
 
 (3) Die Landesregierungen haben durch Rechtsverordnung nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes für die in § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes genannte Öko-Regelung festzulegen:
 
-1. mindestens 20 regionaltypische Kennarten oder Kennartengruppen des artenreichen Grünlands,
+1. mindestens 20 regionaltypische Kennarten oder Kennartengruppen des artenreichen Grünlands und
 
-2. eine Mindestzahl für jede Kennart oder Kennartengruppe, die je Hektar nachgewiesen werden muss, und
-
-3. die Methode zum Nachweis der Kennarten oder Kennartengruppen.
+2. die Methode zum Nachweis der Kennarten oder Kennartengruppen.
 
 (4) Die Landesregierungen können durch Rechtsverordnung nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes festlegen, dass bestimmte Flächen für die Öko-Regelungen nach § 20 Absatz 1 Nummer 1 Buchstabe a und b oder Buchstabe d, Nummer 3 oder Nummer 5 des GAP-Direktzahlungen-Gesetzes nicht in Betracht kommen, soweit dies erforderlich ist, um besonderen regionalen Gegebenheiten des Naturschutzes Rechnung zu tragen.
 

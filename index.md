@@ -1625,7 +1625,7 @@
 - [EdSchleifAusbV](laws/EdSchleifAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin*
 - [EdWBeitrV](laws/EdWBeitrV.md) Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau
 - [EEAV](laws/EEAV.md) Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung
-- [EEG 2023 <FnR ID="f106610_01"/>](laws/EEG_2023_<FnR_ID="f106610_01"_>.md) Gesetz für den Ausbau erneuerbarer Energien
+- [EEG 2023](laws/EEG_2023.md) Gesetz für den Ausbau erneuerbarer Energien*)
 - [EEMD-ZV](laws/EEMD-ZV.md) Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 - [EEMD-ZVAnl I](laws/EEMD-ZVAnl_I.md) Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 - [EEMD-ZVAnl II](laws/EEMD-ZVAnl_II.md) Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
