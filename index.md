@@ -2347,6 +2347,7 @@
 - [GBWiederhV](laws/GBWiederhV.md) Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden
 - [GBZugV](laws/GBZugV.md) Berufszugangsverordnung für den Güterkraftverkehr
 - [GDBNDVerfSchVDV](laws/GDBNDVerfSchVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes
+- [GDolmG](laws/GDolmG.md) Gesetz über die allgemeine Beeidigung von gerichtlichen Dolmetschern
 - [GDtWahlVDVtr](laws/GDtWahlVDVtr.md) Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GDtWahlVDVtrÄndVtr](laws/GDtWahlVDVtrÄndVtr.md) Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GDtWahlVDVtrG](laws/GDtWahlVDVtrG.md) Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990

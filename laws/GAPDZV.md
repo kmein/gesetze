@@ -128,7 +128,7 @@ Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor beträgt 
 
 (5) Den Landesregierungen wird die Befugnis übertragen, durch Rechtsverordnung nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes für die in § 20 Absatz 1 Nummer 1 Buchstaben b und c des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen aus der Liste zulässiger Arten für Saatgutmischungen bei Blühstreifen oder -flächen aus Anhang 1 zu Anlage 5 bestimmte Arten zu streichen oder geeignete Arten festzulegen, sofern dies erforderlich ist, um besonderen regionalen agrarstrukturellen oder naturschutzfachlichen Gegebenheiten Rechnung zu tragen.
 
-(+++ § 17 Abs. 1 und 2: Treten gem. § 28 Abs. 2 V v. 24.1.2022 I 139 an dem Tag in Kraft, an dem das GAP-Direktzahlungen-Gesetz nach § 36 Absatz 2 Satz 1 des GAP-Direktzahlungen-Gesetzes in Kraft tritt. +++)
+(+++ § 17 Abs. 1 und 2: Treten gem. § 28 Abs. 2 dieser V an dem Tag in Kraft, an dem das GAP-Direktzahlungen-Gesetz nach § 36 Absatz 2 Satz 1 des GAP-Direktzahlungen-Gesetzes in Kraft tritt. +++)
 
 # §§ 18 bis 19 – (zukünftig in Kraft)
 
