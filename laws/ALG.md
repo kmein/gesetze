@@ -2075,6 +2075,8 @@ zu bestimmen.
 
 Der monatliche Beitrag für ein Kalenderjahr ergibt sich, indem der Beitragssatz in der allgemeinen Rentenversicherung dieses Jahres, das der Ermittlung dieses Beitragssatzes zugrunde gelegte voraussichtliche Durchschnittsentgelt in der allgemeinen Rentenversicherung und der Wert 0,0346 miteinander vervielfältigt werden. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht. Für mitarbeitende Familienangehörige beträgt der Beitrag die Hälfte des Beitrags eines Landwirts.
 
+(+++ § 68 Satz 3: Zum Beitrag vgl. die jeweilige "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte"; ab dem Kalenderjahr 2022 vgl. die jeweilige "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte" +++)
+
 # § 69 – (weggefallen)
 
 \-
@@ -3404,6 +3406,8 @@ Der Lagebericht ist erstmals zum 31. Oktober 1997 vorzulegen.
 # § 114 – Beitragshöhe
 
 Für Landwirte, deren Unternehmen ihren Sitz im Beitrittsgebiet haben, wird der Beitrag bis zum 30. Juni 2024 ermittelt, indem der Beitrag durch den Umrechnungswert nach Anlage 10 des Sechsten Buches Sozialgesetzbuch geteilt wird. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht.
+
+(+++ § 114 Satz 3: Zum Beitrag vgl. die jeweilige "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte"; ab dem Kalenderjahr 2022 vgl. die jeweilige "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte" +++)
 
 # § 115 – Beitragstragung
 
