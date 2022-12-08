@@ -395,7 +395,7 @@ Satz 1 gilt nicht für Fahrgastboote.
 
 Satz 1 gilt nicht für Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren.
 
-§ 12 Abs. 1 Satz 1 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
+§ 12 Abs. 1 Satz 1 Nr. 2 (früher Nr. 3) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
 
 # § 13 – Amtlicher Berechtigungsschein
 

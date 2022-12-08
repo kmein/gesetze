@@ -144,6 +144,7 @@
 - [ALBeitrBek 2020](laws/ALBeitrBek_2020.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2020
 - [ALBeitrBek 2021](laws/ALBeitrBek_2021.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2021
 - [ALBeitrBek 2022](laws/ALBeitrBek_2022.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022
+- [ALBeitrBek 2023](laws/ALBeitrBek_2023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2023
 - [ALFV](laws/ALFV.md) Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
 - [Alg II-V](laws/Alg_II-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
@@ -3949,6 +3950,7 @@
 - [Münz20EuroBek 2022-09-12](laws/Münz20EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „1200 Jahre Kloster Corvey“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
+- [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek_1979.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -4044,6 +4046,7 @@
 - [Münz5EuroBek 2019-10-08](laws/Münz5EuroBek_2019-10-08.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gemäßigte Zone“)
 - [Münz5EuroBek 2020-08-20](laws/Münz5EuroBek_2020-08-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subpolare Zone“)
 - [Münz5EuroBek 2021-06-21](laws/Münz5EuroBek_2021-06-21.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Polare Zone“)
+- [Münz5EuroBek 2022-11-17](laws/Münz5EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Insektenreich“)
 - [MünzG](laws/MünzG.md) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
@@ -5898,6 +5901,7 @@
 - [VersorgAusglUmrFaktorBek 2020](laws/VersorgAusglUmrFaktorBek_2020.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2021](laws/VersorgAusglUmrFaktorBek_2021.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2022](laws/VersorgAusglUmrFaktorBek_2022.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+- [VersorgAusglUmrFaktorBek 2023](laws/VersorgAusglUmrFaktorBek_2023.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgLErstV](laws/VersorgLErstV.md) Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet
 - [VersResAbV](laws/VersResAbV.md) Verordnung zur befristeten Ausweitung des Stromerzeugungsangebots durch Anlagen aus der Versorgungsreserve
 - [VersRücklG](laws/VersRücklG.md) Gesetz über eine Versorgungsrücklage des Bundes
