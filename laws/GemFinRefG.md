@@ -37,7 +37,7 @@ Die Landesregierungen regeln durch Rechtsverordnung die Termine und das Verfahre
 
 # § 5a – Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
-(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2 Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
+(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Absatz 1 und 2 des Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2 Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
 
 (2) Der Anteil an der Umsatzsteuer nach Absatz 1 Satz 1 wird auf die einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl ausgedrückte Schlüsselzahl festgesetzt wird. Die Schlüsselzahl setzt sich zusammen
 
@@ -83,7 +83,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, nähere Bestimmungen über 
 
 (7) Die Umlage ist jährlich bis zum 1. Februar des auf das Erhebungsjahr folgenden Jahres an das Finanzamt abzuführen. Bis zum 1. Mai, 1. August und 1. November des Erhebungsjahres sind Abschlagszahlungen für das vorhergehende Kalendervierteljahr nach dem Istaufkommen in dem Vierteljahr zu leisten. Absatz 6 gilt für die Abschlagszahlungen entsprechend.
 
-(8) Die Landesregierungen können nähere Bestimmungen über die Festsetzung und Abführung der Umlage durch Rechtsverordnung treffen.
+(8) Die Landesregierungen können durch Rechtsverordnung nähere Bestimmungen über die Festsetzung und Abführung der Umlage einschließlich der Festlegung des zuständigen Finanzamts oder sonstiger zuständiger Landesbehörden treffen.
 
   
 

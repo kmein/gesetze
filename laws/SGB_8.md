@@ -2303,9 +2303,13 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 2. das Datum des Führungszeugnisses und
 
-3. die Information, ob die das Führungszeugnis betreffende Person wegen einer in Absatz 1 Satz 1 genannten Straftat rechtskräftig verurteilt worden ist.
+3. die Information, ob die das Führungszeugnis betreffende Person wegen einer der folgenden Straftaten rechtskräftig verurteilt worden ist:
 
-Die Träger der öffentlichen und freien Jugendhilfe dürfen die gespeicherten Daten nur verarbeiten, soweit dies erforderlich ist, um die Eignung einer Person für die Tätigkeit, die Anlass zu der Einsichtnahme in das Führungszeugnis gewesen ist, zu prüfen. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit nach Absatz 3 Satz 2 oder Absatz 4 Satz 2 wahrgenommen wird. Andernfalls sind die Daten spätestens sechs Monate nach Beendigung einer solchen Tätigkeit zu löschen.
+a) wegen einer in Absatz 1 Satz 1 genannten Straftat oder
+
+b) wegen einer nicht in Absatz 1 Satz 1 genannten Straftat, die die Person als ungeeignet im Umgang mit Kindern und Jugendlichen erscheinen lässt.
+
+Die Träger der öffentlichen und freien Jugendhilfe dürfen die gespeicherten Daten nur verarbeiten, soweit dies erforderlich ist, um die Eignung einer Person für diejenige Tätigkeit, die Anlass zu der Einsichtnahme in das Führungszeugnis gewesen ist, zu prüfen. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn die Person eine Tätigkeit nach Absatz 3 Satz 2 oder Absatz 4 Satz 2 nicht ausübt. Die Daten sind spätestens sechs Monate nach der letztmaligen Ausübung einer solchen Tätigkeit zu löschen.
 
 # § 73 – Ehrenamtliche Tätigkeit
 

@@ -1,10 +1,6 @@
 % Gesetz über die statistische Erhebung der Zeitverwendung  (Zeitverwendungserhebungsgesetz - ZVEG)
 % Ausfertigungsdatum: 02.06.2021
  
-# Eingangsformel
-
-Der Bundestag hat das folgende Gesetz beschlossen:
-
 # § 1 – Art und Gegenstand der Erhebungen
 
 Ab dem Jahr 2022 werden Erhebungen über die Verwendung von Zeit durch natürliche Personen auf repräsentativer Grundlage als Bundesstatistik durchgeführt.
@@ -128,9 +124,3 @@ soweit dies zur Umsetzung oder Durchführung von Rechtsakten der Europäischen U
 # § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 2021 in Kraft.
-
-# Schlussformel
-
-(1) Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.
-
-(2) Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im Bundesgesetzblatt zu verkünden.

@@ -4301,7 +4301,7 @@ a) in den Fällen des § 111, wenn die Aufforderung im Inland wahrnehmbar ist un
 
 b) in den Fällen des § 127, wenn der Zweck der Handelsplattform darauf ausgerichtet ist, die Begehung von rechtswidrigen Taten im Inland zu ermöglichen oder zu fördern und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat, und
 
-c) in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit Absatz 5, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat;
+c) in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit Absatz 6, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat;
 
 6. Straftaten gegen die persönliche Freiheit
 
@@ -6920,9 +6920,9 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 (1) Wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören,
 
-1. gegen eine nationale, rassische, religiöse oder durch ihre ethnische Herkunft bestimmte Gruppe, gegen Teile der Bevölkerung oder gegen einen Einzelnen wegen seiner Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu einem Teil der Bevölkerung zum Hass aufstachelt, zu Gewalt- oder Willkürmaßnahmen auffordert oder
+1. gegen eine nationale, rassische, religiöse oder durch ihre ethnische Herkunft bestimmte Gruppe, gegen Teile der Bevölkerung oder gegen einen Einzelnen wegen dessen Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu einem Teil der Bevölkerung zum Hass aufstachelt, zu Gewalt- oder Willkürmaßnahmen auffordert oder
 
-2. die Menschenwürde anderer dadurch angreift, dass er eine vorbezeichnete Gruppe, Teile der Bevölkerung oder einen Einzelnen wegen seiner Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu einem Teil der Bevölkerung beschimpft, böswillig verächtlich macht oder verleumdet,
+2. die Menschenwürde anderer dadurch angreift, dass er eine vorbezeichnete Gruppe, Teile der Bevölkerung oder einen Einzelnen wegen dessen Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu einem Teil der Bevölkerung beschimpft, böswillig verächtlich macht oder verleumdet,
 
 wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
@@ -6930,7 +6930,7 @@ wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
 1. einen Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich macht oder einer Person unter achtzehn Jahren einen Inhalt (§ 11 Absatz 3) anbietet, überlässt oder zugänglich macht, der
 
-a) zum Hass gegen eine in Absatz 1 Nummer 1 bezeichnete Gruppe, gegen Teile der Bevölkerung oder gegen einen Einzelnen wegen seiner Zugehörigkeit zu einer in Absatz 1 Nummer 1 bezeichneten Gruppe oder zu einem Teil der Bevölkerung aufstachelt,
+a) zum Hass gegen eine in Absatz 1 Nummer 1 bezeichnete Gruppe, gegen Teile der Bevölkerung oder gegen einen Einzelnen wegen dessen Zugehörigkeit zu einer in Absatz 1 Nummer 1 bezeichneten Gruppe oder zu einem Teil der Bevölkerung aufstachelt,
 
 b) zu Gewalt- oder Willkürmaßnahmen gegen in Buchstabe a genannte Personen oder Personenmehrheiten auffordert oder
 
@@ -6942,11 +6942,13 @@ c) die Menschenwürde von in Buchstabe a genannten Personen oder Personenmehrhei
 
 (4) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer öffentlich oder in einer Versammlung den öffentlichen Frieden in einer die Würde der Opfer verletzenden Weise dadurch stört, dass er die nationalsozialistische Gewalt- und Willkürherrschaft billigt, verherrlicht oder rechtfertigt.
 
-(5) Absatz 2 gilt auch für einen in den Absätzen 3 oder 4 bezeichneten Inhalt (§ 11 Absatz 3).
+(5) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine Handlung der in den §§ 6 bis 12 des Völkerstrafgesetzbuches bezeichneten Art gegen eine der in Absatz 1 Nummer 1 bezeichneten Personenmehrheiten oder gegen einen Einzelnen wegen dessen Zugehörigkeit zu einer dieser Personenmehrheiten öffentlich oder in einer Versammlung in einer Weise billigt, leugnet oder gröblich verharmlost, die geeignet ist, zu Hass oder Gewalt gegen eine solche Person oder Personenmehrheit aufzustacheln und den öffentlichen Frieden zu stören.
 
-(6) In den Fällen des Absatzes 2 Nummer 1, auch in Verbindung mit Absatz 5, ist der Versuch strafbar.
+(6) Absatz 2 gilt auch für einen in den Absätzen 3 bis 5 bezeichneten Inhalt (§ 11 Absatz 3).
 
-(7) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen 5 und 6, sowie in den Fällen der Absätze 3 und 4 gilt § 86 Absatz 4 entsprechend.
+(7) In den Fällen des Absatzes 2 Nummer 1, auch in Verbindung mit Absatz 6, ist der Versuch strafbar.
+
+(8) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen 6 und 7, sowie in den Fällen der Absätze 3 bis 5 gilt § 86 Absatz 4 entsprechend.
 
 # § 130a – Anleitung zu Straftaten
 
@@ -7988,7 +7990,7 @@ Der Beweis der Wahrheit der behaupteten oder verbreiteten Tatsache schließt die
 
 # § 192a – Verhetzende Beleidigung
 
-Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, die Menschenwürde anderer dadurch anzugreifen, dass er eine durch ihre nationale, rassische, religiöse oder ethnische Herkunft, ihre Weltanschauung, ihre Behinderung oder ihre sexuelle Orientierung bestimmte Gruppe oder einen Einzelnen wegen seiner Zugehörigkeit zu einer dieser Gruppen beschimpft, böswillig verächtlich macht oder verleumdet, an eine andere Person, die zu einer der vorbezeichneten Gruppen gehört, gelangen lässt, ohne von dieser Person hierzu aufgefordert zu sein, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, die Menschenwürde anderer dadurch anzugreifen, dass er eine durch ihre nationale, rassische, religiöse oder ethnische Herkunft, ihre Weltanschauung, ihre Behinderung oder ihre sexuelle Orientierung bestimmte Gruppe oder einen Einzelnen wegen dessen Zugehörigkeit zu einer dieser Gruppen beschimpft, böswillig verächtlich macht oder verleumdet, an eine andere Person, die zu einer der vorbezeichneten Gruppen gehört, gelangen lässt, ohne von dieser Person hierzu aufgefordert zu sein, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 # § 193 – Wahrnehmung berechtigter Interessen
 

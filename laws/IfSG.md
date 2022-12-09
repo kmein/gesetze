@@ -249,7 +249,7 @@ Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Sc
 
 § 38
 
-Erlass von Rechtsverordnungen
+Verordnungsermächtigung
 
 § 39
 
@@ -1473,7 +1473,7 @@ Die Übermittlung nach Satz 1 Nummer 1 und 3 hat über das elektronische Melde- 
 
 2. infektionshygienische Überwachung durch das Gesundheitsamt nach § 35 Absatz 1 Satz 3 und § 36 Absatz 1 und 2,
 
-3. hygienische Überwachung durch das Gesundheitsamt nach § 37 Absatz 3 und
+3. hygienische Überwachung durch das Gesundheitsamt oder die sonst zuständige Behörde nach § 37 Absatz 3 und
 
 4. infektionshygienische Überwachung durch die zuständige Behörde nach § 41 Absatz 1 Satz 2.
 
@@ -2702,29 +2702,79 @@ Personen, die keinen auf Grund der Rechtsverordnung nach Satz 1 Nummer 1 und 1a 
 
 muss so beschaffen sein, dass durch seinen Gebrauch eine Schädigung der menschlichen Gesundheit, insbesondere durch Krankheitserreger, nicht zu besorgen ist. Bei Schwimm- oder Badebecken muss die Aufbereitung des Wassers eine Desinfektion einschließen. Bei Schwimm- oder Badeteichen hat die Aufbereitung des Wassers durch biologische und mechanische Verfahren, die mindestens den allgemein anerkannten Regeln der Technik entsprechen, zu erfolgen.
 
-(3) Wassergewinnungs- und Wasserversorgungsanlagen, Schwimm- oder Badebecken und Schwimm- oder Badeteiche einschließlich ihrer Wasseraufbereitungsanlagen unterliegen hinsichtlich der in den Absätzen 1 und 2 genannten Anforderungen der Überwachung durch das Gesundheitsamt.
+(3) Wasserversorgungsanlagen, Schwimm- oder Badebecken und Schwimm- oder Badeteiche einschließlich ihrer Wasseraufbereitungsanlagen unterliegen hinsichtlich der in den Absätzen 1 und 2 genannten Anforderungen der Überwachung durch das Gesundheitsamt und, soweit es sich um die Überwachung radioaktiver Stoffe im Wasser für den menschlichen Gebrauch handelt, durch die sonst zuständige Behörde.
 
-# § 38 – Erlass von Rechtsverordnungen
+# § 38 – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Gesundheit bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates,
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
-1. welchen Anforderungen das Wasser für den menschlichen Gebrauch entsprechen muss, um der Vorschrift von § 37 Abs. 1 zu genügen,
+1. welchen Anforderungen das Wasser für den menschlichen Gebrauch entsprechen muss, um der Vorschrift von § 37 Absatz 1 zu genügen,
 
-2. dass und wie die Wassergewinnungs- und Wasserversorgungsanlagen und das Wasser in hygienischer Hinsicht zu überwachen sind,
+2. welchen Anforderungen Wasserversorgungsanlagen entsprechen müssen,
 
-3. welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten dem Unternehmer oder sonstigen Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage im Sinne der Nummern 1 und 2 obliegen, welche Wasseruntersuchungen dieser durchführen oder durchführen lassen muss und in welchen Zeitabständen diese vorzunehmen sind,
+3. dass und wie die Wasserversorgungsanlagen und das Wasser in hygienischer Hinsicht zu überwachen sind,
 
-4. die Anforderungen an Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung oder Verteilung des Wassers für den menschlichen Gebrauch, soweit diese nicht den Vorschriften des Lebensmittel- und Futtermittelgesetzbuches unterliegen, und insbesondere, dass nur Aufbereitungsstoffe und Desinfektionsverfahren verwendet werden dürfen, die hinreichend wirksam sind und keine vermeidbaren oder unvertretbaren Auswirkungen auf Gesundheit und Umwelt haben,
+4. dass die Betreiber von Wasserversorgungsanlagen
 
-5. in welchen Fällen das Wasser für den menschlichen Gebrauch, das den Anforderungen nach den Nummern 1 oder 4 nicht entspricht, nicht oder nur eingeschränkt abgegeben oder anderen nicht oder nur eingeschränkt zur Verfügung gestellt werden darf,
+a) Anzeigepflichten in Bezug auf die Wasserversorgungsanlagen und ihren Betrieb unterliegen,
 
-6. dass und wie die Bevölkerung über die Beschaffenheit des Wassers für den menschlichen Gebrauch und über etwaige zu treffende Maßnahmen zu informieren ist,
+b) bei der Planung, der Errichtung und dem Betrieb von Wasserversorgungsanlagen, insbesondere bei der Aufbereitung des Wassers, bestimmte Anforderungen und allgemein anerkannte Regeln der Technik einzuhalten haben,
 
-7. dass und wie Angaben über die Gewinnung und die Beschaffenheit des Wassers für den menschlichen Gebrauch einschließlich personenbezogener Daten, soweit diese für die Erfassung und die Überwachung der Wasserqualität und der Wasserversorgung erforderlich sind, zu übermitteln sind und
+c) Wasser auf bestimmte Parameter hin zu untersuchen und zu bewerten und die Ergebnisse aufzuzeichnen, aufzubewahren, dem Gesundheitsamt oder der sonst zuständigen Behörde zu übermitteln oder auf deren Verlangen zur Verfügung zu stellen haben,
 
-8. die Anforderungen an die Untersuchungsstellen, die das Wasser für den menschlichen Gebrauch analysieren.
+d) ein Risikomanagement der Wasserversorgungsanlage zu betreiben haben,
 
-In der Rechtsverordnung können auch Regelungen über die Anforderungen an die Wassergewinnungs- und Wasserversorgungsanlagen getroffen werden. Ferner kann in der Rechtsverordnung dem Umweltbundesamt die Aufgabe übertragen werden, zu prüfen und zu entscheiden, ob Stoffe, Verfahren und Materialien die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Voraussetzungen, Inhalt und Verfahren der Prüfung und Entscheidung können in der Rechtsverordnung näher bestimmt werden. In der Rechtsverordnung kann zudem festgelegt werden, dass Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung und Verteilung des Wassers für den menschlichen Gebrauch erst dann verwendet werden dürfen, wenn das Umweltbundesamt festgestellt hat, dass sie die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit es sich um Wassergewinnungsanlagen handelt.
+e) im Fall der Nichteinhaltung von Anforderungen die Ursache zu klären und Abhilfe zu schaffen haben,
+
+f) Maßnahmenpläne aufzustellen haben,
+
+g) an Überwachungsmaßnahmen des Gesundheitsamtes oder der sonst zuständigen Behörde mitzuwirken und diese zu dulden haben,
+
+5. welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten den Betreibern von Wasserversorgungsanlagen über Nummer 4 hinaus obliegen,
+
+6. welche Anforderungen an Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung oder Verteilung einschließlich Speicherung des Wassers für den menschlichen Gebrauch bestehen, soweit die Stoffe, Verfahren und Materialien nicht den Vorschriften des Lebensmittel- und Futtermittelgesetzbuches unterliegen, und insbesondere,
+
+a) dass nur Aufbereitungsstoffe und Desinfektionsverfahren verwendet werden dürfen, die hinreichend wirksam sind, keine vermeidbaren oder unvertretbaren Auswirkungen auf Gesundheit und Umwelt haben und für die das Umweltbundesamt geprüft und festgestellt hat, dass die Aufbereitungsstoffe und Desinfektionsverfahren diese Anforderungen unter bestimmten einzuhaltenden Einsatzbedingungen und bei Beachtung bestimmter Dokumentations- und Untersuchungspflichten erfüllen, und
+
+b) welche Anforderungen an Werkstoffe und Materialien, die Kontakt mit dem Wasser für den menschlichen Gebrauch haben, bestehen und dass Werkstoffe und Materialien nur verwendet werden dürfen, wenn das Umweltbundesamt geprüft und in Bewertungsgrundlagen mit Prüfvorschriften und Positivlisten festgestellt hat, dass die Werkstoffe und Materialien diese Anforderungen erfüllen,
+
+7. welche Voraussetzungen, Inhalte und Verfahren für die Prüfungen und Feststellungen des Umweltbundesamtes nach Nummer 6 gelten,
+
+8. in welchen Fällen das Wasser für den menschlichen Gebrauch, das den Anforderungen nach Nummer 1 oder Nummer 6 nicht entspricht, nicht oder nur eingeschränkt abgegeben oder anderen nicht oder nur eingeschränkt zur Verfügung gestellt werden darf,
+
+9. in welchen Fällen und wie die zuständige Behörde oder die Betreiber von Wasserversorgungsanlagen die Bevölkerung zu informieren haben über
+
+a) den Namen, die Adresse und die Eigentumsstruktur des Betreibers sowie Angaben zu einer Kontaktstelle,
+
+b) die Wasserversorgung,
+
+c) die Beschaffenheit des Wassers für den menschlichen Gebrauch im Hinblick auf die in § 37 Absatz 1 genannten Anforderungen,
+
+d) Ergebnisse der vorgeschriebenen Untersuchungen des Wassers für den menschlichen Gebrauch nach einer aufgrund der Nummer 4 erlassenen Rechtsverordnung,
+
+e) die Überwachung der Beschaffenheit des Wassers für den menschlichen Gebrauch nach § 37 Absatz 3,
+
+f) Maßnahmen des Betreibers zur Aufrechterhaltung oder Wiederherstellung der Beschaffenheit des Wassers für den menschlichen Gebrauch im Hinblick auf die in § 37 Absatz 1 genannten Anforderungen,
+
+g) die Maßnahmen des Betreibers zur Anwendung des risikobasierten Ansatzes für sicheres Wasser für den menschlichen Gebrauch,
+
+h) einen gesundheits- und verantwortungsbewussten Umgang mit Wasser für den menschlichen Gebrauch,
+
+i) den Verbrauch von Wasser für den menschlichen Gebrauch,
+
+j) die Höhe und die Berechnungsgrundlagen des Entgelts für Wasser für den menschlichen Gebrauch und
+
+k) Verbraucherbeschwerden in Bezug auf Pflichten des Betreibers nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, soweit dem Betreiber die Informationen als Zusammenfassungen oder Statistiken vorliegen,
+
+10. dass und wie Angaben über die Gewinnung und die Beschaffenheit des Wassers für den menschlichen Gebrauch einschließlich personenbezogener Daten zu übermitteln sind, soweit diese Angaben für die Erfassung und die Überwachung der Beschaffenheit des Wassers für den menschlichen Gebrauch und der Wasserversorgung erforderlich sind,
+
+11. welchen Anforderungen Untersuchungsstellen unterliegen, die das Wasser für den menschlichen Gebrauch untersuchen, und nach welchen Verfahren Untersuchungen des Wassers für den menschlichen Gebrauch durchzuführen sind,
+
+12. in welchen Fällen und wie Untersuchungsstellen, die das Wasser für den menschlichen Gebrauch untersuchen, dem Gesundheitsamt Ergebnisse von solchen Untersuchungen oder dem Umweltbundesamt Daten in aggregierter Form über Untersuchungen von Wasser für den menschlichen Gebrauch zu melden haben und
+
+13. in welchen Fällen und wie die Betreiber von Wasserversorgungsanlagen und Installationsunternehmen dem Gesundheitsamt Feststellungen über eine gefährliche Beschaffenheit von Wasserversorgungsanlagen, insbesondere im Hinblick auf das Vorhandensein des Werkstoffs Blei, mitzuteilen haben.
+
+Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, soweit in der Rechtsverordnung Regelungen zu Wasserversorgungsanlagen mit Wassergewinnung oder zu radioaktiven Stoffen im Wasser für den menschlichen Gebrauch getroffen werden.
 
 (2) Das Bundesministerium für Gesundheit bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -2732,7 +2782,7 @@ In der Rechtsverordnung können auch Regelungen über die Anforderungen an die W
 
 2. dass und wie die Schwimm- oder Badebecken, die Schwimm- oder Badeteiche und das Wasser in hygienischer Hinsicht zu überwachen sind,
 
-3. welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten dem Unternehmer oder sonstigen Inhaber eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches im Sinne der Nummern 1 und 2 obliegen, welche Wasseruntersuchungen dieser durchführen oder durchführen lassen muss und in welchen Zeitabständen diese vorzunehmen sind,
+3. welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten dem Betreiber eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches im Sinne der Nummern 1 und 2 obliegen, welche Wasseruntersuchungen dieser durchführen oder durchführen lassen muss und in welchen Zeitabständen diese vorzunehmen sind,
 
 4. in welchen Fällen das in § 37 Abs. 2 bezeichnete Wasser, das den Anforderungen nach Nummer 1 nicht entspricht, anderen nicht zur Verfügung gestellt werden darf und
 
@@ -2744,7 +2794,7 @@ Die Aufnahme von Mitteln und Verfahren zur Aufbereitung des in § 37 Absatz 2 Sa
 
 # § 39 – Untersuchungen, Maßnahmen der zuständigen Behörde
 
-(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen.
+(1) Der Betreiber einer Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen.
 
 (2) Die zuständige Behörde hat die notwendigen Maßnahmen zu treffen, um
 
@@ -2988,7 +3038,7 @@ Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörde
 
 # § 54b – Vollzug durch das Eisenbahn-Bundesamt
 
-Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für ortsfeste Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der zuständigen Behörde nach den §§ 37 bis 39 und 41 betroffen sind.
+Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
 
 # § 55 – Angleichung an Gemeinschaftsrecht
 
@@ -3324,7 +3374,7 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 23. entgegen § 51 Satz 2 ein Buch oder eine sonstige Unterlage nicht oder nicht rechtzeitig vorlegt, Einsicht nicht gewährt oder eine Prüfung nicht duldet oder
 
-24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 28b Absatz 1 Satz 2, § 32 Satz 1, § 35 Absatz 3 Satz 1 oder Satz 2, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Abs. 1 Satz 1 Nr. 3 oder Abs. 2 Nr. 3 oder 5 oder § 53 Abs. 1 Nr. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 28b Absatz 1 Satz 2, § 32 Satz 1, § 35 Absatz 3 Satz 1 oder Satz 2, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Absatz 1 Satz 1 Nummer 4 oder Absatz 2 Satz 1 Nummer 5 oder § 53 Absatz 1 Nummer 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7h, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
@@ -3346,7 +3396,7 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 4. entgegen § 52 Satz 1 Krankheitserreger oder Material abgibt.
 
-(2) Ebenso wird bestraft, wer einer Rechtsverordnung nach § 38 Abs. 1 Satz 1 Nr. 5 oder Abs. 2 Nr. 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+(2) Ebenso wird bestraft, wer einer Rechtsverordnung nach § 38 Absatz 1 Satz 1 Nummer 8 oder Absatz 2 Satz 1 Nummer 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
 (3) Wer durch eine in Absatz 1 bezeichnete Handlung eine in § 6 Abs. 1 Nr. 1 genannte Krankheit oder einen in § 7 genannten Krankheitserreger verbreitet, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft, soweit nicht die Tat in anderen Vorschriften mit einer schwereren Strafe bedroht ist.
 
