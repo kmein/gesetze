@@ -5,7 +5,7 @@
 
 (1) Für den Geltungsbereich dieses Gesetzes führt das Bundesamt für Justiz ein Zentralregister und ein Erziehungsregister (Bundeszentralregister).
 
-(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz und für Verbraucherschutz. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
+(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
 
 # § 2 – (weggefallen)
 
@@ -59,7 +59,7 @@ hat.
 
 7. die verhängten Strafen, die nach § 59 des Strafgesetzbuchs vorbehaltene Strafe sowie alle kraft Gesetzes eintretenden oder in der Entscheidung neben einer Strafe oder neben Freisprechung oder selbständig angeordneten oder vorbehaltenen Maßnahmen (§ 11 Abs. 1 Nr. 8 des Strafgesetzbuchs) und Nebenfolgen,
 
-8. bei Drittstaatsangehörigen im Sinne des Artikels 3 Nummer 7 der Verordnung (EU) 2019/816 des Europäischen Parlaments und des Rates vom 17. April 2019 zur Einrichtung eines zentralisierten Systems für die Ermittlung der Mitgliedstaaten, in denen Informationen zu Verurteilungen von Drittstaatsangehörigen und Staatenlosen (ECRIS-TCN) vorliegen, zur Ergänzung des Europäischen Strafregisterinformationssystems und zur Änderung der Verordnung (EU) 2018/1726 (ABl. L 135 vom 22.5.2019, S. 1), die durch die Verordnung (EU) 2019/818 (ABl. L 135 vom 22.5.2019, S. 85) geändert worden ist, oder Personen, die neben einer Unionsstaatsangehörigkeit auch die Staatsangehörigkeit eines Drittstaats besitzen, die daktyloskopische Nummer, wenn sie für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 erforderlich ist.
+8. bei Drittstaatsangehörigen im Sinne des Artikels 3 Nummer 7 der Verordnung (EU) 2019/816 des Europäischen Parlaments und des Rates vom 17. April 2019 zur Einrichtung eines zentralisierten Systems für die Ermittlung der Mitgliedstaaten, in denen Informationen zu Verurteilungen von Drittstaatsangehörigen und Staatenlosen (ECRIS-TCN) vorliegen, zur Ergänzung des Europäischen Strafregisterinformationssystems und zur Änderung der Verordnung (EU) 2018/1726 (ABl. L 135 vom 22.5.2019, S. 1), die zuletzt durch die Verordnung (EU) 2021/1151 (ABl. L 249 vom 14.7.2021, S. 7) geändert worden ist, oder Personen, die neben einer Unionsstaatsangehörigkeit auch die Staatsangehörigkeit eines Drittstaats besitzen, die daktyloskopische Nummer, wenn sie für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 erforderlich ist.
 
 (2) Die Anordnung von Erziehungsmaßregeln und Zuchtmitteln sowie von Nebenstrafen und Nebenfolgen, auf die bei Anwendung von Jugendstrafrecht erkannt worden ist, wird in das Register eingetragen, wenn sie mit einem Schuldspruch nach § 27 des Jugendgerichtsgesetzes, einer Verurteilung zu Jugendstrafe oder der Anordnung einer Maßregel der Besserung und Sicherung verbunden ist.
 
@@ -341,7 +341,7 @@ Ist bei Eintragung einer Verurteilung in das Register ersichtlich, daß im Regis
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen im Benehmen mit der Stelle, welche die Entscheidung getroffen hat, insbesondere im Interesse der Rehabilitierung der betroffenen Person anordnen, daß Eintragungen nach den §§ 10 und 11 vorzeitig aus dem Register entfernt werden, soweit nicht das öffentliche Interesse einer solchen Anordnung entgegensteht. Vor ihrer Entscheidung soll sie in den Fällen des § 11 die Anhörung einer oder eines in der Psychiatrie erfahrenen medizinischen Sachverständigen durchführen.
 
-(2) Gegen die Ablehnung eines Antrags auf Entfernung einer Eintragung steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
+(2) Gegen die Ablehnung eines Antrags auf Entfernung einer Eintragung steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 # § 26 – Zu Unrecht entfernte Eintragungen
 
@@ -399,6 +399,8 @@ b) eine Tätigkeit, die in einer Buchstabe a vergleichbaren Weise geeignet ist, 
 
 (2) Wer einen Antrag auf Erteilung eines erweiterten Führungszeugnisses stellt, hat eine schriftliche Aufforderung vorzulegen, in der die Person, die das erweiterte Führungszeugnis von der antragstellenden Person verlangt, bestätigt, dass die Voraussetzungen nach Absatz 1 vorliegen. Im Übrigen gilt § 30 entsprechend.
 
+(3) Die Daten aus einem erweiterten Führungszeugnis dürfen von der entgegennehmenden Stelle nur verarbeitet werden, soweit dies zur Prüfung der Eignung der Person für eine Tätigkeit, die Anlass zu der Vorlage des Führungszeugnisses gewesen ist, erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn die Person die Tätigkeit, die Anlass zu der Vorlage des Führungszeugnisses gewesen ist, nicht ausübt. Die Daten sind spätestens sechs Monate nach der letztmaligen Ausübung der Tätigkeit zu löschen.
+
 # § 30b – Europäisches Führungszeugnis
 
 (1) Sofern der Mitgliedstaat eine Übermittlung nach seinem Recht vorsieht, wird in das Führungszeugnis nach § 30 oder § 30a Absatz 1 die Mitteilung über Eintragungen in den Strafregistern anderer Mitgliedstaaten der Europäischen Union vollständig und in der übermittelten Sprache (Europäisches Führungszeugnis) für die folgenden Personen aufgenommen:
@@ -409,17 +411,23 @@ b) eine Tätigkeit, die in einer Buchstabe a vergleichbaren Weise geeignet ist, 
 
 Nicht aufgenommen werden Entscheidungen deutscher Gerichte. § 30 gilt entsprechend.
 
+(1a) Absatz 1 gilt entsprechend für die Mitteilung über Eintragungen im Strafregister eines Partnerstaates zu dessen Staatsangehörigen. Partnerstaat nach Satz 1 ist ein Drittstaat, mit dem die Europäische Union in einem Abkommen den elektronischen Austausch von Strafregisterinformationen vereinbart hat.
+
 (2) Ersuchen der Registerbehörde um Übermittlung der nach Absatz 1 in das Führungszeugnis zusätzlich aufzunehmenden Eintragungen für ein Europäisches Führungszeugnis von Personen, die die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen, sind an den Herkunftsmitgliedstaat zu richten.
 
-(3) Ersuchen der Registerbehörde um Übermittlung der nach Absatz 1 in das Führungszeugnis zusätzlich aufzunehmenden Eintragungen für ein Führungszeugnis von Drittstaatsangehörigen sind unter Nutzung des zentralisierten Systems für die Ermittlung der Mitgliedstaaten, die über Informationen zu Verurteilungen von Drittstaatsangehörigen verfügen, an die an diesem System teilnehmenden Mitgliedstaaten der Europäischen Union zu richten.
+(3) Ersuchen der Registerbehörde um Übermittlung der nach Absatz 1 oder Absatz 1a in das Führungszeugnis zusätzlich aufzunehmenden Eintragungen für ein Führungszeugnis von Drittstaatsangehörigen sind zu richten
 
-(4) Das Führungszeugnis soll spätestens 20 Werktage nach der Übermittlung der Ersuchen der Registerbehörde erteilt werden. Haben die Mitgliedstaaten keine Auskunft aus ihrem Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
+1. im Fall des Absatzes 1 unter Nutzung von ECRIS-TCN an die in diesem System ausgewiesenen Mitgliedstaaten der Europäischen Union und
+
+2. im Fall des Absatzes 1a an den jeweiligen Partnerstaat, dessen Staatsangehörigkeit die Person besitzt.
+
+(4) Das Führungszeugnis soll spätestens 20 Werktage nach der Übermittlung der Ersuchen der Registerbehörde erteilt werden. Haben die Mitgliedstaaten oder hat der Partnerstaat keine Auskunft aus ihrem Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
 
 # § 30c – Elektronische Antragstellung
 
-(1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde zu stellen. Die antragstellende Person kann sich nicht durch Bevollmächtigte vertreten lassen. Handelt sie in gesetzlicher Vertretung, hat sie ihre Vertretungsmacht nachzuweisen.
+(1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das Nutzerkonto nach § 3 Absatz 2 Satz 1 des Onlinezugangsgesetzes zu stellen. Die antragstellende Person kann sich nicht durch Bevollmächtigte vertreten lassen. Handelt sie in gesetzlicher Vertretung, hat sie ihre Vertretungsmacht nachzuweisen.
 
-(2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Dabei müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises, der eID-Karte oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
+(2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Der Nachweis ist ausschließlich über elektronische Identifizierungssysteme zulässig, die mit dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert sind. Um den elektronischen Identitätsnachweis führen zu können, müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises, der eID-Karte oder des elektronischen Aufenthaltstitels oder aus einem elektronischen Speicher- und Verarbeitungsmedium eines mobilen Endgeräts an die Registerbehörde übermittelt werden:
 
 1. die Daten nach § 18 Absatz 3 Satz 1 des Personalausweisgesetzes, nach § 12 Absatz 3 Satz 2 des eID-Karte-Gesetzes in Verbindung mit § 18 Absatz 3 Satz 1 des Personalausweisgesetzes oder nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes in Verbindung mit § 18 Absatz 3 Satz 1 des Personalausweisgesetzes und
 
@@ -603,7 +611,7 @@ Die Frist beginnt mit dem Tag des ersten Urteils (§ 5 Abs. 1 Nr. 4). Dieser Tag
 
 (2) Haben Verurteilte infolge der Verurteilung durch ein Gericht im Geltungsbereich dieses Gesetzes die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so darf eine Anordnung nach Absatz 1 nicht ergehen, solange sie diese Fähigkeit oder dieses Recht nicht wiedererlangt haben.
 
-(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
+(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 # § 40 – Nachträgliche Eintragung
 
@@ -647,7 +655,7 @@ Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere
 
 # § 42 – Auskunft an die betroffene Person
 
-Das Auskunftsrecht nach Artikel 15 Absatz 1 der Verordnung (EU) 2016/679 wird dadurch gewährleistet, dass der betroffenen Person mitgeteilt wird, welche Eintragungen über sie im Register enthalten sind. Für die Antragsberechtigung und das Verfahren gilt § 30 Absatz 1, für den Umfang der Auskunft gilt § 30b Absatz 1 Satz 1 und Absatz 2 bis 4 entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie, wenn die antragstellende Person im Geltungsbereich dieses Gesetzes wohnt, an ein von ihr benanntes Amtsgericht zu senden, bei dem sie die Mitteilung persönlich einsehen kann. Befindet sich die betroffene Person in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt die antragstellende Person außerhalb des Geltungsbereichs dieses Gesetzes, so ist die Mitteilung an eine von ihr benannte amtliche Vertretung der Bundesrepublik Deutschland zu senden, bei der sie die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten. Zum Schutz der betroffenen Personen ist die Aushändigung der Mitteilung oder einer Kopie unzulässig.
+Das Auskunftsrecht nach Artikel 15 Absatz 1 der Verordnung (EU) 2016/679 wird dadurch gewährleistet, dass der betroffenen Person mitgeteilt wird, welche Eintragungen über sie im Register enthalten sind. Für die Antragsberechtigung und das Verfahren gilt § 30 Absatz 1 entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie an ein von ihr benanntes Amtsgericht zu senden, bei dem sie die Mitteilung persönlich einsehen kann. Befindet sich die betroffene Person in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt die antragstellende Person außerhalb des Geltungsbereichs dieses Gesetzes, so kann sie die Mitteilung auch an eine von ihr benannte amtliche Vertretung der Bundesrepublik Deutschland senden lassen, bei der sie die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten. Zum Schutz der betroffenen Personen ist die Aushändigung der Mitteilung oder einer Kopie unzulässig.
 
 # § 42a – Auskunft für wissenschaftliche Zwecke
 
@@ -661,7 +669,7 @@ Das Auskunftsrecht nach Artikel 15 Absatz 1 der Verordnung (EU) 2016/679 wird da
 
 Bei der Abwägung nach Satz 1 Nr. 3 ist im Rahmen des öffentlichen Interesses das wissenschaftliche Interesse an dem Forschungsvorhaben besonders zu berücksichtigen.
 
-(1a) Die mehrfache Übermittlung von personenbezogenen Daten für eine wissenschaftliche Forschungsarbeit kann für einen angemessenen Zeitraum nach Anhörung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz zugelassen werden, wenn
+(1a) Die mehrfache Übermittlung von personenbezogenen Daten für eine wissenschaftliche Forschungsarbeit kann für einen angemessenen Zeitraum nach Anhörung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit mit Zustimmung des Bundesministeriums der Justiz zugelassen werden, wenn
 
 1. die Voraussetzungen von Absatz 1 Nummer 1 und 2 vorliegen,
 
@@ -813,7 +821,7 @@ Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen, für die 
 
 (2) Hat der Verurteilte infolge der Verurteilung durch ein Gericht im Geltungsbereich dieses Gesetzes die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so darf eine Anordnung nach Absatz 1 nicht ergehen, solange er diese Fähigkeit oder dieses Recht nicht wiedererlangt hat.
 
-(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
+(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 # § 50 – Zu Unrecht getilgte Eintragungen
 
@@ -895,13 +903,13 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (1) Die Registerbehörde trägt eine Verurteilung, die nicht durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes ergangen ist, ein, wenn ihr die Verurteilung von einer Behörde des Staates, der sie ausgesprochen hat, mitgeteilt worden ist und sich aus der Mitteilung nicht ergibt, daß die Voraussetzungen des § 54 nicht vorliegen.
 
-(2) Die betroffene Person soll unverzüglich zu der Eintragung gehört werden, wenn ihr Aufenthalt feststellbar ist. Ergibt sich, daß bei einer Verurteilung oder einem abtrennbaren Teil einer Verurteilung die Voraussetzungen des § 54 Abs. 1 nicht vorliegen, so ist die Eintragung insoweit zu entfernen. Lehnt die Registerbehörde einen Antrag der betroffenen Person auf Entfernung der Eintragung ab, so steht der betroffenen Person innerhalb von zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
+(2) Die betroffene Person soll unverzüglich zu der Eintragung gehört werden, wenn ihr Aufenthalt feststellbar ist. Ergibt sich, daß bei einer Verurteilung oder einem abtrennbaren Teil einer Verurteilung die Voraussetzungen des § 54 Abs. 1 nicht vorliegen, so ist die Eintragung insoweit zu entfernen. Lehnt die Registerbehörde einen Antrag der betroffenen Person auf Entfernung der Eintragung ab, so steht der betroffenen Person innerhalb von zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 # § 56 – Behandlung von Eintragungen
 
 (1) Eintragungen nach § 54 werden bei der Anwendung dieses Gesetzes wie Eintragungen von Verurteilungen durch deutsche Gerichte im Geltungsbereich dieses Gesetzes behandelt. Hierbei steht eine Rechtsfolge der im Geltungsbereich dieses Gesetzes geltenden Rechtsfolge gleich, der sie am meisten entspricht; Nebenstrafen und Nebenfolgen haben für die Anwendung dieses Gesetzes keine Rechtswirkung.
 
-(2) Für die Nichtaufnahme einer nach § 54 eingetragenen Verurteilung in das Führungszeugnis und für die Tilgung der Eintragung bedarf es nicht der Erledigung der Vollstreckung.
+(2) Für die Nichtaufnahme einer nach § 54 eingetragenen Verurteilung in das Führungszeugnis und für die Tilgung der Eintragung bedarf es nicht der Erledigung der Vollstreckung. Satz 1 gilt nicht, soweit die Verurteilung im Geltungsbereich dieses Gesetzes vollstreckt wird.
 
 (3) Die §§ 39 und 49 gelten entsprechend.
 
@@ -947,11 +955,15 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (4) Ersuchen eines Mitgliedstaates der Europäischen Union um Erteilung einer Auskunft aus dem Register für nichtstrafrechtliche Zwecke, deren Art oder Umfang in diesem Gesetz nicht vorgesehen ist, erledigt die Registerbehörde, soweit die Erteilung nach Maßgabe von Rechtsakten der Europäischen Union geboten ist, es sei denn, dass eine besondere fachliche Bewertung zur Beschränkung der Auskunft erforderlich ist. Ist eine solche Bewertung erforderlich, erhält die für die internationale Amtshilfe zuständige Behörde eine Auskunft aus dem Register. § 57 Absatz 1, 2 und 4 sowie § 8e des Verwaltungsverfahrensgesetzes gelten entsprechend.
 
-(5) Zur Aufnahme von deutschen Registerinformationen in das Führungszeugnis eines anderen Mitgliedstaates ist diesem auf sein Ersuchen ein Führungszeugnis für Private oder zur Vorlage bei einer Behörde nach § 30 über eine Person zu erteilen. Betrifft das Ersuchen eine Auskunft über die sie betreffenden Eintragungen in das Strafregister einer Person, so erteilt die Registerbehörde eine unbeschränkte Auskunft. Aus dem Ersuchen muss hervorgehen, dass ein entsprechender Antrag der Person im ersuchenden Mitgliedstaat vorliegt. Ein Führungszeugnis nach § 30a wird zu dem in Satz 1 genannten Zweck erteilt, wenn die Voraussetzungen nach § 30a vorliegen.
+(5) Zur Aufnahme von deutschen Registerinformationen in das Führungszeugnis eines anderen Mitgliedstaates ist diesem auf sein Ersuchen ein Führungszeugnis für Private oder zur Vorlage bei einer Behörde nach § 30 über eine Person zu erteilen. Aus dem Ersuchen muss hervorgehen, dass ein entsprechender Antrag der Person im ersuchenden Mitgliedstaat vorliegt. Ein Führungszeugnis nach § 30a wird zu dem in Satz 1 genannten Zweck erteilt, wenn die Voraussetzungen nach § 30a Absatz 1 und 2 Satz 2 vorliegen.
 
 (6) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle.
 
 (7) Ersuchen, die ausschließlich die Erteilung einer Auskunft aus dem Strafregister eines anderen Mitgliedstaates der Europäischen Union zum Inhalt haben und ihrem Umfang nach einer unbeschränkten Auskunft nach § 41 oder einem Behördenführungszeugnis nach § 31 vergleichbar sind, werden über die Registerbehörde an die Zentralbehörde des ersuchten Mitgliedstaates gerichtet.
+
+# § 57b – Speicherung und Austausch von Registerinformationen im Zusammenhang mit einem Partnerstaat
+
+Die §§ 56b und 57a Absatz 1 bis 3 und 5 bis 7 gelten entsprechend für die Speicherung und den Austausch von Registerinformationen im Zusammenhang mit einem Partnerstaat.
 
 # § 58 – Berücksichtigung von Verurteilungen
 
@@ -1125,6 +1137,6 @@ Soweit in anderen Vorschriften auf das Gesetz über beschränkte Auskunft aus de
 
 (3) Eintragungen nach § 11, die vor dem 1. Oktober 2002 erfolgt sind, werden nach 20 Jahren aus dem Zentralregister entfernt. Die Frist beginnt mit dem Tag der Entscheidung oder Verfügung. § 24 Abs. 4 gilt entsprechend.
 
-(4) Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 184i bis 184k, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuches, die vor dem 1. Juli 2022 in das Zentralregister eingetragen wurden, werden nach den Vorschriften dieses Gesetzes in der ab 1. Juli 2022 geltenden Fassung behandelt.
+(4) Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 184i bis 184l, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuches, die vor dem 1. Juli 2022 in das Zentralregister eingetragen wurden, werden nach den Vorschriften dieses Gesetzes in der ab 1. Juli 2022 geltenden Fassung behandelt.
 
 (5) § 21 Satz 2 in der ab dem 29. Juli 2017 geltenden Fassung ist erst ab dem 1. Mai 2018 anzuwenden. Bis zum 30. April 2018 ist § 21a Satz 2 in der am 20. November 2015 geltenden Fassung weiter anzuwenden.

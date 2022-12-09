@@ -1,10 +1,6 @@
 % Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr*  (Bundeswehrbeschaffungsbeschleunigungsgesetz - BwBBG)
 % Ausfertigungsdatum: 11.07.2022
  
-# Eingangsformel
-
-Der Bundestag hat das folgende Gesetz beschlossen:
-
 # § 1 – Zweck
 
 (1) Dieses Gesetz dient dem zeitnahen Erreichen eines breiten, modernen und innovationsorientierten Fähigkeitsspektrums der Bundeswehr und damit der Stärkung der Bündnis- und Verteidigungsfähigkeit.
@@ -102,9 +98,3 @@ Die Regelungen dieses Gesetzes sind auf vor dem Inkrafttreten dieses Gesetzes be
 # § 9 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Es tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
-
-# Schlussformel
-
-(1) Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.
-
-(2) Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im Bundesgesetzblatt zu verkünden.

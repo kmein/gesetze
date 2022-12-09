@@ -309,7 +309,7 @@ Der Genehmigungsinhaber hat in der ersten monatlichen Mitteilung über die erzeu
 
 (1d) Für das Kernkraftwerk Mülheim-Kärlich gelten Absatz 1a Satz 1, Absatz 1b Satz 1 bis 3 und Absatz 1c Satz 1 Nr. 3 mit der Maßgabe, dass vorbehaltlich des Satzes 2 die in Anlage 3 Spalte 2 aufgeführte Elektrizitätsmenge nur nach Übertragung auf die dort aufgeführten Kernkraftwerke in diesen produziert werden darf. Aus dem Elektrizitätsmengenkontingent des Kernkraftwerks Mülheim-Kärlich gemäß Anlage 3 Spalte 2 sind von einer Übertragung nach Absatz 1b Satz 1 bis 3 ausgenommen Elektrizitätsmengen von 25 900,00 Gigawattstunden.
 
-(1e) (weggefallen)
+(1e) Abweichend von Absatz 1a Satz 1 erlöschen die Berechtigungen zum Leistungsbetrieb für die Kernkraftwerke Isar 2, Emsland und Neckarwestheim 2 mit Ablauf des 15. April 2023. Dies gilt unabhängig davon, ob die in Anlage 3 Spalte 2 für die Kernkraftwerke Isar 2, Emsland und Neckarwestheim 2 jeweils aufgeführte Elektrizitätsmenge oder die sich auf Grund von Übertragungen nach Absatz 1b für diese Anlagen ergebende Elektrizitätsmenge erzeugt worden ist. Für den weiteren Leistungsbetrieb nach Satz 1 sind nur die in der jeweiligen Anlage noch vorhandenen Brennelemente zu nutzen. Auf die in Satz 1 genannten Kernkraftwerke ist § 19a Absatz 1 nicht anzuwenden. Im Übrigen bleiben die Vorschriften dieses Gesetzes, insbesondere die Befugnisse der zuständigen atomrechtlichen Genehmigungs- und Aufsichtsbehörden nach den §§ 17 und 19 unberührt.
 
 (2) Die Genehmigung darf nur erteilt werden, wenn
 

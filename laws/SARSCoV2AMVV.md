@@ -69,6 +69,20 @@ Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a der Apothekenbetriebsor
 
 (5) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe der vom Bund beschafften zugelassenen antiviralen Arzneimittel zur Behandlung von COVID-19-Erkrankungen an nach § 72 des Elften Buches Sozialgesetzbuch zugelassene vollstationäre Pflegeeinrichtungen entsteht, erhalten die Apotheken abweichend von Absatz 2 Satz 1 eine Vergütung in Höhe von 15 Euro zuzüglich Umsatzsteuer je abgegebene Packung. Sofern die Abgabe an nach § 72 des Elften Buches Sozialgesetzbuch zugelassene vollstationäre Pflegeeinrichtungen im Wege der Belieferung durch die Apotheken erfolgt, erhalten Apotheken eine zusätzliche Vergütung in Höhe von 8 Euro einschließlich Umsatzsteuer je erbrachter Belieferung.
 
+# § 4b – Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen, Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds und für die Refinanzierung aus Bundesmitteln
+
+(1) Die Apotheken rechnen monatlich, spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats, die sich nach § 4a Absatz 1, 2, 4 und 5 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Die Apotheken leiten die an sie ausgezahlte Vergütung nach § 4a Absatz 1 an den Großhandel weiter.
+
+(2) Die Ärztinnen und Ärzte rechnen monatlich, spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats, die sich nach § 4a Absatz 3 ergebende Vergütung mit der Kassenärztlichen Vereinigung ab, in deren Bezirk sie tätig sind.
+
+(3) Der Großhandel, die Apotheken sowie die Ärztinnen und Ärzte sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren und die Kassenärztlichen Vereinigungen sind verpflichtet, die ihnen nach Absatz 1 Satz 1 oder Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+
+(4) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt monatlich den sich für die Apotheken, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der Abrechnungen nach Absatz 1 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den übermittelten Beträgen sind durch das jeweilige Rechenzentrum in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Die Rechenzentren leiten den sich aus der Abrechnung nach Absatz 1 Satz 1 ergebenden Betrag an die Apotheken weiter. Das Bundesamt für Soziale Sicherung bestimmt das Nähere zur Übermittlung und Zahlung der Beträge nach den Sätzen 1 bis 3.
+
+(5) Jede Kassenärztliche Vereinigung übermittelt monatlich den sich für die Ärztinnen und Ärzte ergebenden Gesamtbetrag der Abrechnungen nach Absatz 2 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den übermittelten Beträgen sind durch die jeweilige Kassenärztliche Vereinigung in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die Kassenärztlichen Vereinigungen. Die Kassenärztlichen Vereinigungen leiten den sich aus der Abrechnung nach Absatz 2 Satz 1 ergebenden Betrag an die Ärztinnen und Ärzte weiter. Das Bundesamt für Soziale Sicherung bestimmt das Nähere zur Übermittlung und Zahlung der Beträge nach den Sätzen 1 bis 3.
+
+(6) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 4 Satz 3 und Absatz 5 Satz 3 eine Aufstellung der an die Rechenzentren und die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
+
 # § 5 – Ausnahmen vom Betäubungsmittelgesetz
 
 Einer Erlaubnis nach § 3 des Betäubungsmittelgesetzes bedarf auch nicht, wer im Rahmen des Betriebs einer öffentlichen Apotheke oder einer Krankenhausapotheke zur Sicherstellung des nicht aufschiebbaren Betäubungsmittelbedarfs für die Behandlung von Patienten in Anlage III des Betäubungsmittelgesetzes bezeichnete Betäubungsmittel an eine öffentliche Apotheke oder eine Krankenhausapotheke abgibt.
@@ -98,3 +112,13 @@ Einer Erlaubnis nach § 3 des Betäubungsmittelgesetzes bedarf auch nicht, wer i
 # § 7 – (weggefallen)
 
 # § 8 – (weggefallen)
+
+# § 9 – Inkrafttreten, Außerkrafttreten
+
+(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt vorbehaltlich der Absätze 2 bis 4 am 7. April 2023 außer Kraft.
+
+(2) § 4 Absatz 1 tritt spätestens am 31. Dezember 2020 außer Kraft.
+
+(3) (weggefallen)
+
+(4) § 7 tritt am 31. Mai 2022 außer Kraft.

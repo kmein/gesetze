@@ -28,9 +28,9 @@ Euro</td><td style="text-align: left;"><br />
 Euro</td><td style="text-align: left;"><br />
 4 154 000 000<br />
 Euro</td></tr><tr class="odd"><td style="text-align: left;">2022</td><td style="text-align: left;">minus<br />
-11 706 407 683<br />
+15 008 682 590<br />
 Euro</td><td style="text-align: left;"><br />
-9 306 407 683<br />
+12 608 682 590<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="even"><td style="text-align: left;">2023</td><td style="text-align: left;">minus<br />
@@ -196,6 +196,10 @@ Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem
 # § 12 – Feststellung der Umsatzsteueranteile
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die endgültige Höhe der Länderanteile an der Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
+
+# § 12a – Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
+
+Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung nach § 12 die Unterschiede zwischen den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022 einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 andererseits wie folgt zu berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7 Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr 2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der Unterschiede nach Satz 1 hinzugerechnet werden.
 
 # § 13 – Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
 

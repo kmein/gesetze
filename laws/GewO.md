@@ -3266,7 +3266,7 @@ erteilt.
 
 # § 150c – Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
 
-(1) Ersuchen von Stellen eines anderen Staates sowie von über- und zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem Register werden nach den hierfür geltenden völkerrechtlichen Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von der Registerbehörde ausgeführt und mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz bewilligt. Die Übermittlung personenbezogener Daten muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 und den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen.
+(1) Ersuchen von Stellen eines anderen Staates sowie von über- und zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem Register werden nach den hierfür geltenden völkerrechtlichen Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von der Registerbehörde ausgeführt und mit Zustimmung des Bundesministeriums der Justiz bewilligt. Die Übermittlung personenbezogener Daten muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 und den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen.
 
 (2) Ersuchen eines anderen Mitgliedstaates der Europäischen Union um Erteilung einer Auskunft werden von der Registerbehörde ausgeführt und bewilligt. Die Auskunft kann, soweit kein völkerrechtlicher Vertrag im Sinne des Absatzes 1 vorliegt, dem ersuchenden Mitgliedstaat für die gleichen Zwecke und in gleichem Umfang wie gegenüber vergleichbaren deutschen Stellen erteilt werden. Der ausländische Empfänger ist darauf hinzuweisen, dass er die Auskunft nur zu dem Zweck verwenden darf, für den sie erteilt worden ist. Die Auskunftserteilung unterbleibt, wenn sie in Widerspruch zur Charta der Grundrechte der Europäischen Union steht.
 
@@ -3296,9 +3296,9 @@ erteilt.
 
 # § 150e – Elektronische Antragstellung
 
-(1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
+(1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das Nutzerkonto nach § 3 Absatz 2 Satz 1 des Onlinezugangsgesetzes zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
 
-(2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Dabei müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises, der eID-Karte oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
+(2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Der Nachweis ist ausschließlich über elektronische Identifizierungssysteme zulässig, die mit dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert sind. Um den elektronischen Identitätsnachweis führen zu können, müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises, der eID-Karte, eines mobilen Endgeräts oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
 
 1. die Daten nach § 18 Absatz 3 Satz 1 des Personalausweisgesetzes, nach § 12 Absatz 3 Satz 2 des eID-Karte-Gesetzes in Verbindung mit § 18 Absatz 3 Satz 1 des Personalausweisgesetzes oder nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes in Verbindung mit § 18 Absatz 3 Satz 1 des Personalausweisgesetzes und
 
@@ -3392,7 +3392,7 @@ Im Rahmen eines solchen Auskunftsersuchens darf die Registerbehörde den ersucht
 
 # § 153c – Verwaltungsvorschriften
 
-Die näheren Bestimmungen über den Aufbau des Registers trifft das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates getroffen.
+Die näheren Bestimmungen über den Aufbau des Registers trifft das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates getroffen.
 
 # § 154
 
