@@ -807,6 +807,8 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (4) Die Bewertungen nach Absatz 1 oder Absatz 3 umfassen auch die Überprüfung, dass Maßnahmen zur Verhütung von Unfällen und zur Abmilderung von Unfallfolgen getroffen sind, einschließlich der Überprüfung der physischen Barrieren sowie der administrativen Schutzvorkehrungen des Genehmigungsinhabers, die versagen müssen, bevor Leben, Gesundheit und Sachgüter durch die Wirkung ionisierender Strahlen geschädigt würden. Die zuständige Aufsichtsbehörde kann nähere Anordnungen zu dem Umfang der Überprüfung und Bewertung durch den Genehmigungsinhaber treffen.
 
+(+++ § 19a Abs. 1: Zur Anwendung vgl. § 7 Abs. 1e F. 2022-12-04 +++)
+
 # § 20 – Sachverständige
 
 Im Genehmigungs- und Aufsichtsverfahren nach diesem Gesetz und den auf Grund dieses Gesetzes ergangenen Rechtsverordnungen können von den zuständigen Behörden Sachverständige zugezogen werden. § 7 Absatz 4 und 5 des Gesetzes über überwachungsbedürftige Anlagen findet entsprechende Anwendung.
