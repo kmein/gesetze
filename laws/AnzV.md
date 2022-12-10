@@ -17,9 +17,11 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Kreditwesengesetz zu erstatten oder vorzulegen sind und durch diese Verordnung näher bestimmt werden, sind vorbehaltlich abweichender Bestimmungen in dieser Verordnung jeweils in einfacher Ausfertigung der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes (Aufsichtsbehörde) und der für das Institut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen. Anzeigen und Vorlagen von Unterlagen von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften nach § 12a Absatz 1 Satz 3 und § 24 Absatz 3a des Kreditwesengesetzes sind der Hauptverwaltung, in deren Bereich das übergeordnete Unternehmen nach § 10a Absatz 2 Satz 1 des Kreditwesengesetzes oder das konglomeratsangehörige Unternehmen aus der Banken- und Wertpapierdienstleistungsbranche mit der höchsten Bilanzsumme seinen Sitz hat, einzureichen.
 
-(2) Sofern die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) Aufsichtsbehörde ist und der Bundesanstalt eine entsprechende Einverständniserklärung des Verbandes vorliegt, haben Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, die nach dieser Verordnung zu erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der Anzeige nach § 24 Absatz 1a Nummer 4 des Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für diesen bestimmten Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen an die Bundesanstalt und die für das betroffene Institut zuständige Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle verzichten.
+(2) Sofern die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) Aufsichtsbehörde ist und der Bundesanstalt eine entsprechende Einverständniserklärung des Verbandes vorliegt, haben Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, die nach dieser Verordnung zu erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der Anzeige nach § 24 Absatz 1a Nummer 4 bis 6 des Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für diesen bestimmten Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen an die Bundesanstalt und die für das betroffene Institut zuständige Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle verzichten.
 
 (3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des § 1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c und § 24a Absatz 4a des Kreditwesengesetzes zu beachten.
+
+(4) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank ist für Anzeigen und Unterlagen ein elektronischer Einreichungsweg zu nutzen. Nähere Bestimmungen zum jeweiligen elektronischen Einreichungsweg treffen die Bundesanstalt und die Deutsche Bundesbank auf ihrer jeweiligen Internetseite.
 
 # § 2 – Rechtsträgerkennung
 
@@ -45,7 +47,113 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (6) Übergeordnete Unternehmen einer Gruppe im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes haben sicherzustellen, dass alle Mitglieder ihrer Gruppe, für die sie nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz Informationen an die Bundesanstalt oder an die Deutsche Bundesbank zu melden haben, die Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
-# § 3 – (weggefallen)
+# § 3 – Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes (Wesentliche Auslagerungen)
+
+(1) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über die Absicht und den Vollzug einer wesentlichen Auslagerung müssen folgende Informationen enthalten:
+
+1. eine vom Institut vergebene Referenznummer für jeden Auslagerungsvertrag,
+
+2. Angaben zum Beginn und, sofern vereinbart, zum Ende der Vertragslaufzeit sowie gegebenenfalls zum Zeitpunkt der nächsten Vertragsverlängerung und zu den Kündigungsfristen,
+
+3. die Bezeichnung der wesentlichen Aktivitäten und Prozesse einschließlich einer Bezeichnung der Daten, die im Rahmen der Auslagerung übermittelt werden oder wurden, sowie die Angabe, ob personenbezogene Daten übermittelt werden oder wurden und ob das Auslagerungsunternehmen mit der Verarbeitung personenbezogener Daten beauftragt wird oder worden ist,
+
+4. eine Kategorie, die die Art der Aktivitäten und Prozesse widerspiegelt und die Ermittlung verschiedener Arten von Vereinbarungen ermöglicht,
+
+5. die Angabe, ob in Teilen oder im Ganzen ausgelagert wird oder worden ist,
+
+6. die Firma, die Handelsregisternummer sowie gegebenenfalls die Rechtsträgerkennung, die im Handelsregister eingetragene Adresse und sonstige relevante Kontaktangaben des Auslagerungsunternehmens und die Firma des Mutterunternehmens,
+
+7. den Staat, in dem der Dienst erbracht werden soll oder wird, einschließlich des Standortes, an dem die Daten gespeichert werden sollen oder werden,
+
+8. das Datum der letzten Bewertung der Wesentlichkeit der auszulagernden oder ausgelagerten Aktivitäten und Prozesse und die Angabe, warum die Auslagerung als wesentlich eingestuft wird,
+
+9. bei der Auslagerung zu einem Cloud-Anbieter das Cloud-Dienstmodell, das Cloud-Bereitstellungsmodell und die Art der betreffenden Daten sowie die Standorte, an denen diese Daten gespeichert werden sollen oder werden,
+
+10. die Institute und sonstigen Unternehmen im aufsichtlichen Konsolidierungskreis, die von der Auslagerung Gebrauch machen, sofern einschlägig,
+
+11. die Angabe, ob das Auslagerungsunternehmen oder ein von ihm beauftragtes Subunternehmen Teil der Institutsgruppe im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes oder der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes oder Mitglied des institutsbezogenen Sicherungssystems ist, zu der oder dem das Institut gehört, oder sich im Eigentum von anderen Instituten innerhalb der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe oder von anderen Mitgliedern des institutsbezogenen Sicherungssystems befindet, zu der oder dem das Institut gehört, sofern einschlägig,
+
+12. das Datum der letzten Risikoanalyse und eine Zusammenfassung der Ergebnisse dieser Risikoanalyse,
+
+13. die Benennung der Personen und ihrer Funktion oder des Entscheidungsgremiums des Instituts, die oder das den Auslagerungsvertrag genehmigt haben oder hat, sowie gegebenenfalls das Datum der Genehmigung,
+
+14. das auf den Auslagerungsvertrag anwendbare Recht,
+
+15. gegebenenfalls das Datum der letzten und der nächsten geplanten Prüfung durch das Institut beim Auslagerungsunternehmen,
+
+16. gegebenenfalls die Firmen und die Handelsregisternummern oder andere eindeutige Identifikationsnummern von durch das Auslagerungsunternehmen beauftragten Subunternehmen, an die wesentliche Teile einer wesentlichen Aktivität oder eines wesentlichen Prozesses weiter ausgelagert werden sollen oder wurden, jeweils einschließlich
+
+a) des Staates, in dem diese Subunternehmen registriert sind,
+
+b) des Standortes, an dem die Dienstleistung erbracht werden soll oder wird, und
+
+c) gegebenenfalls des Standortes, an dem die Daten gespeichert werden sollen oder werden,
+
+17. das Ergebnis einer Bewertung der Ersetzbarkeit des Auslagerungsunternehmens durch
+
+a) die Zuordnung zu den Kategorien „leicht“, „schwierig“ oder „unmöglich“,
+
+b) die Angabe der Möglichkeit einer Wiedereingliederung der wesentlichen Aktivität oder des wesentlichen Prozesses in das Institut und
+
+c) die Angabe der Auswirkungen einer etwaigen Einstellung der wesentlichen Aktivität oder des wesentlichen Prozesses,
+
+18. die Angabe, ob alternative Auslagerungsunternehmen gemäß der Bewertung nach Nummer 17 Buchstabe a vorhanden sind,
+
+19. die Angabe, ob die auszulagernde oder ausgelagerte wesentliche Aktivität oder der auszulagernde oder ausgelagerte wesentliche Prozess Geschäftsvorgänge unterstützt, die zeitkritisch sind, und
+
+20. das für die Auslagerung veranschlagte jährliche Budget oder die damit verbundenen Kosten.
+
+Bei Anzeigen nach Satz 1 ist der Auslagerungsvertrag auf Verlangen der Bundesanstalt einzureichen.
+
+(2) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über wesentliche Änderungen einer bestehenden wesentlichen Auslagerung, die einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts haben können, sind insbesondere einzureichen bei
+
+1. Vertragsänderungen von wesentlicher Bedeutung,
+
+2. Vereinbarungen zusätzlicher vertraglicher Regelungen, insbesondere der Vereinbarung zusätzlicher Leistungen,
+
+3. Änderung der Bewertung, ob eine Auslagerung als wesentlich oder unwesentlich einzustufen ist,
+
+4. wesentlichen Abweichungen, die sich aufgrund einer neuen oder geänderten Risikoanalyse bezüglich der Auslagerung ergeben,
+
+5. Abschluss neuer Subauslagerungen wesentlicher Teile einer wesentlichen Aktivität oder eines wesentlichen Prozesses,
+
+6. Änderung der Einschätzung zur Ersetzbarkeit des Auslagerungsunternehmens,
+
+7. nachträglicher Verlagerung der Erbringung von Dienstleistungen in Drittstaaten durch das Auslagerungsunternehmen oder seine beauftragten Subunternehmen,
+
+8. Kündigung oder sonstiger Beendigung des Auslagerungsvertrags,
+
+9. Kenntnis des Instituts von der Übernahme der Kontrolle über das Auslagerungsunternehmen durch ein anderes Unternehmen.
+
+Zeigt das Institut die wesentliche Änderung einer wesentlichen Auslagerung an, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestand, sind zudem die Daten nach Absatz 1 anzuzeigen.
+
+(3) Anzeigen nach Absatz 1 und 2 sind elektronisch über die Melde- und Veröffentlichungsplattform der Bundesanstalt einzureichen.
+
+(4) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über schwerwiegende Vorfälle im Rahmen von bestehenden wesentlichen Auslagerungen, die einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts haben können, sind insbesondere einzureichen bei
+
+1. nicht nur kurzfristiger Unterbrechung oder Unmöglichkeit der Erbringung der ausgelagerten wesentlichen Aktivität oder des wesentlichen Prozesses,
+
+2. erheblichen Vertragsverletzungen durch das Auslagerungsunternehmen,
+
+3. erheblichen Rechtsverstößen, insbesondere durch den Wegfall der aufsichtsrechtlichen Voraussetzungen der Auslagerung, durch umfassende Einschränkungen von Informations- und Prüfrechten des Instituts oder der Aufsichtsbehörde oder Verstößen des Auslagerungsunternehmens gegen datenschutzrechtliche Bestimmungen,
+
+4. fehlender oder unzureichender Bereitschaft des Auslagerungsunternehmens, aufsichtliche Anordnungen umzusetzen oder an deren Umsetzung mitzuwirken, insbesondere im Rahmen der Missstandsbeseitigung und -vermeidung,
+
+5. erheblichen Sicherheitsvorfällen im Zusammenhang mit den ausgelagerten Aktivitäten und Prozessen beim Institut oder beim Auslagerungsunternehmen,
+
+6. unzureichendem Risiko- und Notfallmanagement des Auslagerungsunternehmens,
+
+7. unzureichenden Ressourcen des Auslagerungsunternehmens für die ordnungsgemäße Ausführung der ausgelagerten Aktivitäten oder Prozesse,
+
+8. Kenntnis des Instituts von Umständen, nach denen eine leitende Person des Auslagerungsunternehmens nicht als zuverlässig betrachtet werden kann,
+
+9. fehlender oder unzureichender Unterstützung durch das Auslagerungsunternehmen bei Beendigung der Auslagerung,
+
+10. drohender Zahlungsunfähigkeit des Auslagerungsunternehmens,
+
+11. Kenntnis des Instituts von schwerwiegenden Reputationsschäden beim Auslagerungsunternehmen,
+
+12. Konflikten am Sitz des Auslagerungsunternehmens in einem Drittstaat, die zu einer wesentlichen Gefährdung der ausgelagerten Aktivitäten und Prozesse führen oder dazu führen könnten.
 
 # § 4 – Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes
 
@@ -260,6 +368,14 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 2. nur automatisierte Bank- oder Finanzdienstleistungen erbringen oder
 
 3. ausschließlich dem Betreiben von Geschäften dienen, die keine Bankgeschäfte oder Finanzdienstleistungen sind.
+
+# § 9a – Anzeigen nach § 24 Absatz 1a Nummer 5 und 6 des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
+
+(1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „Vergleich der Vergütungstrends und -praktiken“ nach den Anlagen 13 bis 15 einzureichen. Satz 1 gilt für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen mit Sitz im Inland die Angaben auf zusammengefasster oder teilkonsolidierter Basis einzureichen hat, sofern der Gruppe mindestens ein bedeutendes Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 2 entsprechend.
+
+(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes sind von CRR-Kreditinstituten jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit dem Formular „Vergütung ab 1 Million Euro (VAM)“ nach Anlage 16 oder mit dem Formular „REM HE“ nach Anlage 18 einzureichen. Verfügt ein Geschäftsleiter, Mitglied des Verwaltungs- oder Aufsichtsorgans oder Mitarbeiter nicht über eine Gesamtvergütung von mindestens einer Million Euro (Einkommensmillionär), so ist abweichend von Satz 1 das Formular „Fehlanzeige zur Anzeige der Vergütung ab 1 Million Euro(VAMFEHL)“ nach Anlage 17 einzureichen. Satz 2 gilt nicht für CRR-Kreditinstitute, die nicht bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind und die das zweite Geschäftsjahr in Folge über keinen Einkommensmillionär verfügen. CRR-Kreditinstitute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, haben abweichend von den Sätzen 1 bis 3 jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres das Formular „REM HE“ nach Anlage 18 einzureichen. Die Sätze 1 bis 4 finden auf CRR-Kreditinstitute, deren übergeordnetes Unternehmen seinen Sitz in einem anderen Staat innerhalb des Europäischen Wirtschaftsraums hat, keine Anwendung. Die Sätze 1 bis 4 gelten für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen die Angaben für alle gruppenangehörigen Institute mit Sitz innerhalb des Europäischen Wirtschaftsraums einzureichen hat. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 6 entsprechend. Die Anzeige nach Satz 1 oder 4 erfolgt separat aggregiert zum einen für Einkommensbänder von jeweils einer Million Euro und zum anderen für jeden Mitgliedsstaat des Europäischen Wirtschaftsraums, in dem mindestens ein Einkommensmillionär tätig ist. Einkommensmillionäre, die eine berufliche Tätigkeit in unterschiedlichen Mitgliedsstaaten des Europäischen Wirtschaftsraums ausüben, sind dem Mitgliedsstaat zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraums ausüben, sind einem Mitgliedsstaat nach Satz 9 zuzuordnen, sofern sie ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen Wirtschaftsraums ausüben.
+
+(3) Die Anzeigen nach Absatz 1 und 2 sind im elektronischen Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für die Einreichung zu verwendenden Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach Absatz 1 und 2 sind die Begriffsbestimmungen und Regelungen des Kreditwesengesetzes und der Institutsvergütungsverordnung zugrunde zu legen. Sie müssen sich jeweils auf die fixe und die variable Vergütung beziehen, die den Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans oder den Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist oder nach § 20 Absatz 4 Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Bei Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige erfolgt.
 
 # § 10 – Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
 
@@ -739,49 +855,23 @@ Nachgeordnete Unternehmen von
 
 3.  Beteiligungsunternehmen<span id="FnR.FnA1-F796418_F04"></span><a href="#FnA1-F796418_F04" class="FnR">4</a></sup>
 
-□ CRR-Kreditinstitut  
-(§ 1 Abs. 3d Satz 1 KWG)
-
-□ Wertpapierhandelsunternehmen  
-(§ 1 Abs. 3d Satz 4 KWG)
-
-□ E-Geld-Institut  
-(§ 1a Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Kreditinstitut  
-(§ 1 Abs. 1 KWG)
-
-□ sonstiges Finanzdienstleistungsinstitut  
-(§ 1 Abs. 1a KWG)
-
-□ Kapitalverwaltungsgesellschaft  
-(§ 17 KAGB)
-
-□ Finanzunternehmen  
-(§ 1 Abs. 3 KWG)
-
-□ Anbieter von Nebendienstleistungen  
-(Art. 4 Abs. 1 Nr. 18 CRR<span id="FnR.FnA1-F796418_F05"></span><a href="#FnA1-F796418_F05" class="FnR">5</a></sup> )
-
-□ Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 20 CRR)
-
-□ gemischte Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 21 CRR)
-
-□ Erstversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 1 VAG)
-
-□ Rückversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 2 VAG)
-
-□ Versicherungs-Holdinggesellschaft  
-(§ 7 Nr. 31 VAG)
-
-□ Zahlungsinstitut  
-(§ 1 Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Unternehmen
+<table width="100%" style="border: none;"><colgroup><col style="width: 30%" /><col style="width: 36%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">□ CRR -Kreditinstitut<br />
+(§ 1 Abs. 3d Satz 1 KWG)</td><td style="text-align: left;">□ Wertpapierinstitut<br />
+(§ 2 Abs. 1 WpIG)</td><td style="text-align: left;">□ E-Geld-Institut<br />
+(§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Kreditinstitut<br />
+(§ 1 Abs. 1 KWG)</td><td style="text-align: left;">□ Finanzdienstleistungsinstitut<br />
+(§ 1 Abs. 1a KWG)</td><td style="text-align: left;">□ Kapitalverwaltungsgesellschaft<br />
+(§ 17 KAGB)</td></tr><tr class="odd"><td style="text-align: left;">□ Finanzinstitut<br />
+(Art. 4 Abs. 1 Nr. 26 CRR<span id="FnR.FnA1-F796418_F05"></span><a href="#FnA1-F796418_F05" class="FnR">5</a></sup> )</td><td style="text-align: left;">□ Finanzunternehmen<br />
+(§ 1 Abs. 3 KWG)</td><td style="text-align: left;">□ Anbieter von Nebendienstleistungen<br />
+(Art. 4 Abs. 1 Nr. 18 CRR)</td></tr><tr class="even"><td style="text-align: left;">□ Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 20 CRR)</td><td style="text-align: left;">□ gemischte Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 21 CRR)</td><td style="text-align: left;">□ Versicherungsunternehmen<br />
+(§ 7 Nr. 33 VAG)</td></tr><tr class="odd"><td style="text-align: left;">□ Versicherungsunternehmen<br />
+eines Drittstaats<br />
+(§ 7 Nr. 34 VAG)</td><td style="text-align: left;">□ Versicherungs-Holdinggesellschaft<br />
+(§ 7 Nr. 31 VAG)</td><td style="text-align: left;">□ Zahlungsinstitut<br />
+(§ 1 Abs. 1 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Unternehmen</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr></tbody></table>
 
 4.  Angaben zu den Beteiligungsquoten<span id="FnR.FnA1-F796418_F10"></span><a href="#FnA1-F796418_F10" class="FnR">10</a></sup> , </sup><span id="FnR.FnA1-F796418_F11"></span><a href="#FnA1-F796418_F11" class="FnR">11</a></sup>
 
@@ -1246,55 +1336,23 @@ Diese Seite ist nicht mit einzureichen.
 
 3.  Anteilseigner<span id="FnR.FnA1-F796418_F504"></span><a href="#FnA1-F796418_F504" class="FnR">4</a></sup>
 
-□ CRR-Kreditinstitut  
-(§ 1 Abs. 3d Satz 1 KWG)
-
-□ Wertpapierhandelsunternehmen  
-(§ 1 Abs. 3d Satz 4 KWG)
-
-□ E-Geld-Institut  
-(§ 1a Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Kreditinstitut  
-(§ 1 Abs. 1 KWG)
-
-□ sonstiges Finanzdienstleistungsinstitut  
-(§ 1 Abs. 1a KWG)
-
-□ Kapitalverwaltungsgesellschaft  
-(§ 17 KAGB)
-
-□ Finanzunternehmen  
-(§ 1 Abs. 3 KWG)
-
-□ Anbieter von Nebendienstleistungen  
-(Art. 4 Abs. 1 Nr. 18 CRR<span id="FnR.FnA1-F796418_F505"></span><a href="#FnA1-F796418_F505" class="FnR">5</a></sup> )
-
-□ Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 20 CRR)
-
-□ gemischte Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 21 CRR)
-
-□ Erstversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 1 VAG)
-
-□ Rückversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 2 VAG)
-
-□ Versicherungs-Holdinggesellschaft  
-(§ 7 Nr. 31 VAG)
-
-□ Zahlungsinstitut  
-(§ 1 Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Unternehmen
-
-□ sonstiger Anteilseigner
-
- 
-
- 
+<table width="100%" style="border: none;"><colgroup><col style="width: 30%" /><col style="width: 36%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">□ CRR-Kreditinstitut<br />
+(§ 1 Abs. 3d Satz 1 KWG)</td><td style="text-align: left;">□ Wertpapierinstitut<br />
+(§ 2 Abs. 1 WpIG)</td><td style="text-align: left;">□ E-Geld-Institut<br />
+(§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Kreditinstitut<br />
+(§ 1 Abs. 1 KWG)</td><td style="text-align: left;">□ Finanzdienstleistungsinstitut<br />
+(§ 1 Abs. 1a KWG)</td><td style="text-align: left;">□ Kapitalverwaldungsgesellschaft<br />
+(§ 17 KAGB)</td></tr><tr class="odd"><td style="text-align: left;">□ Finanzinstitut<br />
+(Art. 4 Abs. 1 Nr. 26 CRR<span id="FnR.FnA1-F796418_F505"></span><a href="#FnA1-F796418_F505" class="FnR">5</a></sup> )</td><td style="text-align: left;">□ Finanzunternehmen<br />
+(§ 1 Abs. 3 KWG)</td><td style="text-align: left;">□ Anbieter von Nebendienstleistungen<br />
+(Art. 4 Abs. 1 Nr. 18 CRR)</td></tr><tr class="even"><td style="text-align: left;">□ Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 20 CRR)</td><td style="text-align: left;">□ gemischte Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 21 CRR)</td><td style="text-align: left;">□ Versicherungsunternehmen<br />
+(§ 7 Nr. 33 VAG)</td></tr><tr class="odd"><td style="text-align: left;">□ Versicherungsunternehmen<br />
+eines Drittstaats<br />
+(§ 7 Nr. 34 VAG)</td><td style="text-align: left;">□ Versicherungs-Holdinggesellschaft<br />
+(§ 7 Nr. 31 VAG)</td><td style="text-align: left;">□ Zahlungsinstitut<br />
+(§ 1 Abs. 1 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Unternehmen</td><td style="text-align: left;">□ sonstiger Anteilseigner</td><td style="text-align: left;"> </td></tr></tbody></table>
 
 4.  Nur auszufüllen bei der Anzeige einer bedeutenden Beteiligung eines Dritten an einem nachgeordneten ausländischen Unternehmen (§ 24 Abs. 1a Nr. 3 KWG)
 
@@ -1431,49 +1489,23 @@ Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LE
 
 2.  Beteiligungsunternehmen<span id="FnR.FnA1-F796418_F703"></span><a href="#FnA1-F796418_F703" class="FnR">3</a></sup>
 
-□ CRR-Kreditinstitut  
-(§ 1 Abs. 3d Satz 1 KWG)
-
-□ Wertpapierhandelsunternehmen  
-(§ 1 Abs. 3d Satz 4 KWG)
-
-□ E-Geld-Institut  
-(§ 1a Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Kreditinstitut  
-(§ 1 Abs. 1 KWG)
-
-□ sonstiges Finanzdienstleistungsinstitut  
-(§ 1 Abs. 1a KWG)
-
-□ Kapitalverwaltungsgesellschaft  
-(§ 17 KAGB)
-
-□ Finanzunternehmen  
-(§ 1 Abs. 3 KWG)
-
-□ Anbieter von Nebendienstleistungen  
-(Art. 4 Abs. 1 Nr. 18 CRR<span id="FnR.FnA1-F796418_F704"></span><a href="#FnA1-F796418_F704" class="FnR">4</a></sup> )
-
-□ Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 20 CRR)
-
-□ gemischte Finanzholding-Gesellschaft  
-(Art. 4 Abs. 1 Nr. 21 CRR)
-
-□ Erstversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 1 VAG)
-
-□ Rückversicherungsunternehmen  
-(§ 7 Nr. 33 Alt. 2 VAG)
-
-□ Versicherungs-Holdinggesellschaft  
-(§ 7 Nr. 31 VAG)
-
-□ Zahlungsinstitut  
-(§ 1 Abs. 1 Nr. 5 ZAG)
-
-□ sonstiges Unternehmen
+<table width="100%" style="border: none;"><colgroup><col style="width: 30%" /><col style="width: 36%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">□ CRR-Kreditinstitut<br />
+(§ 1 Abs. 3d Satz 1 KWG)</td><td style="text-align: left;">□ Wertpapierinstitut<br />
+(§ 2 Abs. 1 WpIG)</td><td style="text-align: left;">□ E-Geld-Institut<br />
+(§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Kreditinstitut<br />
+(§ 1 Abs. 1 KWG)</td><td style="text-align: left;">□ Finanzdienstleistungsinstitut<br />
+(§ 1 Abs. 1a KWG)</td><td style="text-align: left;">□ Kapitalverwaltungsgesellschaft<br />
+(§ 17 KAGB)</td></tr><tr class="odd"><td style="text-align: left;">□ Finanzinstitut<br />
+(Art. 4 Abs. 1 Nr. 26 CRR<span id="FnR.FnA1-F796418_F704"></span><a href="#FnA1-F796418_F704" class="FnR">4</a></sup> )</td><td style="text-align: left;">□ Finanzunternehmen<br />
+(§ 1 Abs. 3 KWG)</td><td style="text-align: left;">□ Anbieter von Nebendienstleistungen<br />
+(Art. 4 Abs. 1 Nr. 18 CRR)</td></tr><tr class="even"><td style="text-align: left;">□ Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 20 CRR)</td><td style="text-align: left;">□ gemischte Finanzholding-Gesellschaft<br />
+(Art. 4 Abs. 1 Nr. 21 CRR)</td><td style="text-align: left;">□ Versicherungsunternehmen<br />
+(§ 7 Nr. 33 VAG)</td></tr><tr class="odd"><td style="text-align: left;">□ Versicherungsunternehmen<br />
+eines Drittstaats<br />
+(§ 7 Nr. 34 VAG)</td><td style="text-align: left;">□ Versicherungs-Holdinggesellschaft<br />
+(§ 7 Nr. 31 VAG)</td><td style="text-align: left;">□ Zahlungsinstitut<br />
+(§ 1 Abs. 1 Satz Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Unternehmen</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr></tbody></table>
 
 3.  Angaben zu den Beteiligungsquoten<span id="FnR.FnA1-F796418_F708"></span><a href="#FnA1-F796418_F708" class="FnR">8</a></sup>
 
@@ -1517,7 +1549,7 @@ Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommand
 
 Diese Seite ist nicht mit einzureichen.
 
-# Anlage 8 – (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSI
+# Anlage 8 – (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSIECB-CONFIDENTIAL
 
 (Fundstelle: BGBl. I 2018, 1737 — 1738)
 
@@ -1562,7 +1594,7 @@ oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellscha
 <span id="FnA1-f804292_01_13"></span><a href="#FnR.FnA1-f804292_01_13" class="Footnote">3</a>  
 beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich haftender Gesellschafter, Geschäftsleiter-Vertreter im Verhinderungsfall, Prokurist
 
-# Anlage 9 – (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)PVVASI
+# Anlage 9 – (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)PVVASIECB-CONFIDENTIAL
 
 (Fundstelle: BGBl. I 2018, 1739 — 1740)
 
@@ -1599,7 +1631,7 @@ oder Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft
 <span id="FnA1-f804292_01_16"></span><a href="#FnR.FnA1-f804292_01_16" class="Footnote">3</a>  
 beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied, Aufsichtsratsvorsitzende(r), Verwaltungsratsvorsitzende(r), Beiratsmitglied
 
-# Anlage 10 – (zu § 5b Abs. 4 AnzV)PVFU
+# Anlage 10 – (zu § 5b Abs. 4 AnzV)PVFUECB-CONFIDENTIAL
 
 (Fundstelle: BGBl. I 2018, 1741 — 1744)
 
@@ -1786,7 +1818,7 @@ In der Regel handelt es sich bei den Verträgen der Geschäftsleiter um Dienstve
 Für ein Mitglied eines Verwaltungs- oder Aufsichtsorgans, das kein Arbeitnehmervertreter nach den jeweiligen Mitbestimmungsgesetzen ist, ist regelmäßig die Option „Sonstiges“ auszuwählen. Bei dieser Option sollten weitere Erläuterungen (z. B. geborenes Mitglied, Vertreter/in des Anteilseigners) gegeben werden.
 
 –  
-Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von vier Wochen nach Entscheidung des zuständigen Organs überschritten ist.
+Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von zwei Wochen nach Entscheidung des zuständigen Organs überschritten ist.
 
 Zu Erklärung des beaufsichtigten Unternehmens:
 
@@ -1796,7 +1828,7 @@ Zur Erstattung der Anzeige nach § 24 Abs. 1 Nr. 1, § 24 Abs. 1 Nr. 15, § 24 A
 –  
 Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualifikation, Zuverlässigkeit oder ausreichende zeitliche Verfügbarkeit der angezeigten Person auswirken kann. Soweit die Änderung nicht in Erfüllung der Anzeigepflichten nach dem KWG gemeldet wird (z. B. die Annahme eines weiteren Mandats), erfolgt die Information grundsätzlich durch das beaufsichtigte Unternehmen.
 
-# Anlage 11 – (zu § 5b Abs. 5 AnzV)PVFP
+# Anlage 11 – (zu § 5b Abs. 5 AnzV)PVFPECB-CONFIDENTIAL
 
 (Fundstelle: BGBl. I 2018, 1745 — 1754)
 
@@ -2728,7 +2760,7 @@ Zu Erklärung der Person:
 –  
 Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualifikation, Zuverlässigkeit oder ausreichende zeitliche Verfügbarkeit der angezeigten Person auswirken kann. Soweit die Änderung nicht in Erfüllung der Anzeigepflichten nach dem KWG gemeldet wird (z. B. die Annahme eines weiteren Mandats), erfolgt die Information grundsätzlich durch das beaufsichtigte Unternehmen.
 
-# Anlage 12 – (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSI
+# Anlage 12 – (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSIECB-CONFIDENTIAL
 
 (Fundstelle: BGBl. I 2018, 1755 — 1757)
 
@@ -2878,3 +2910,39 @@ g. Gesamtaufwand pro Woche in Stunden für alle Mandate, ohne das angezeigte Man
 h. Gesamtaufwand pro Jahr in Tagen für alle Mandate, ohne das angezeigte Mandat
 
  
+
+# Anlage 13 – (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2075)
+
+<a href="../normengrafiken/bgbl1_2022/j2075_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 14 – (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2076 - 2078)
+
+<a href="../normengrafiken/bgbl1_2022/j2076_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 15 – (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2079)
+
+<a href="../normengrafiken/bgbl1_2022/j2079_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 16 – (zu § 9a Absatz 2 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2080 - 2081)
+
+<a href="../normengrafiken/bgbl1_2022/j2080_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 17 – (zu § 9a Absatz 2 Satz 2 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2082)
+
+<a href="../normengrafiken/bgbl1_2022/j2082_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 18 – (zu § 9a Absatz 2 Sätze 1 und 4 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2083 - 2086)
+
+<a href="../normengrafiken/bgbl1_2022/j2083_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
