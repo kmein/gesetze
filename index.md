@@ -5502,6 +5502,7 @@
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 - [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)
 - [TeleFinV 2022](laws/TeleFinV_2022.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2022
+- [TeleFinV 2023](laws/TeleFinV_2023.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2023
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [TelekomAZV](laws/TelekomAZV.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Telekom AG
