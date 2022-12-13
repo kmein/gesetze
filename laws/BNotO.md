@@ -556,7 +556,7 @@ Im Fall des Satzes 1 Nummer 2 hat der Notar außerdem unverzüglich eine Sperrun
 
 3. Daten, die für den Gegenstand des Amtsgeschäfts erforderlich sind oder die auf Wunsch der Beteiligten aufgenommen werden sollen.
 
-(2) Der Notar kann Akten und Verzeichnisse in Papierform oder elektronisch führen, soweit die Form nicht durch oder auf Grund eines Gesetzes vorgeschrieben ist und für die Absatz 1 Satz 2 und 3 entsprechend gilt. Zusätzlich darf er für die Aktenführung Hilfsmittel verwenden, deren Vertraulichkeit ebenfalls zu gewährleisten ist und für die Absatz 1 Satz 2 und 3 entsprechend gilt. Werden Akten einer anderen Stelle zur Verwahrung übergeben, hat dies auch die zugehörigen Hilfsmittel zu umfassen.
+(2) Der Notar kann Akten und Verzeichnisse in Papierform oder elektronisch führen, soweit die Form nicht durch oder auf Grund eines Gesetzes vorgeschrieben ist. Zusätzlich darf er für die Aktenführung Hilfsmittel verwenden, deren Vertraulichkeit ebenfalls zu gewährleisten ist und für die Absatz 1 Satz 2 und 3 entsprechend gilt. Werden Akten einer anderen Stelle zur Verwahrung übergeben, hat dies auch die zugehörigen Hilfsmittel zu umfassen.
 
 (3) Akten und Verzeichnisse in Papierform darf der Notar außerhalb seiner Geschäftsstelle nur bei der Notarkammer oder mit Genehmigung der Aufsichtsbehörde führen. Seine Verfügungsgewalt muss gewahrt bleiben. Außer im Fall der Führung bei der Notarkammer darf eine gemeinsame Führung nur im Zusammenschluss mit anderen Notaren erfolgen. Die Genehmigung nach Satz 1 ist zu erteilen, wenn sichergestellt ist, dass die Anforderungen des Absatzes 1 und des Satzes 2 eingehalten werden. Die Genehmigung kann mit Nebenbestimmungen verbunden werden. Vor der Erteilung oder der Aufhebung der Genehmigung ist die Notarkammer anzuhören. Die Führung bei der Notarkammer ist der Aufsichtsbehörde mitzuteilen.
 
@@ -1286,7 +1286,7 @@ Das zuständige Standesamt hat der Registerbehörde den Tod, die Todeserklärung
 
 1. das zuständige Nachlassgericht über den Sterbefall und etwaige Angaben nach § 78d Absatz 1 Satz 1 und 2 und
 
-2. die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78d Absatz 1 Satz 1 Nummer 1.
+2. die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78d Absatz 1 Satz 1 und 2 Nummer 1.
 
 Die Benachrichtigung erfolgt elektronisch.
 
@@ -1928,7 +1928,7 @@ Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den L
 
 1. fachkundige Personen beschäftigen, die den Notaren im Tätigkeitsbereich der Kasse zur Dienstleistung zugewiesen werden,
 
-2. allein oder gemeinsam mit der anderen Kasse oder Notarkammern Einrichtungen im Sinne von Absatz 4 Nummer 3 zu unterhalten,
+2. allein oder gemeinsam mit der anderen Kasse oder Notarkammern Einrichtungen im Sinne von § 67 Absatz 4 Nummer 3 unterhalten,
 
 3. über Absatz 3 Nr. 3 hinausgehende Anschlussversicherungen abschließen,
 

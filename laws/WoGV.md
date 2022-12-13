@@ -668,6 +668,8 @@ mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
 <table style="border: none;"><colgroup><col style="width: 40%" /><col style="width: 60%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Hierbei bedeuten:</td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-1 geteilt durch</td><td style="text-align: right;">10,   </td></tr></tbody></table></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-2 geteilt durch</td><td style="text-align: right;">100,   </td></tr></tbody></table></td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-4 geteilt durch</td><td style="text-align: right;">10 000,   </td></tr></tbody></table></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">E-5 geteilt durch</td><td style="text-align: right;">100 000”   </td></tr></tbody></table></td></tr></tbody></table>
 
+§ 24 Abs. 3 Kursivdruck: Änderungsanweisung betrifft Anlage 2 des Wohngeldgesetzes in der bis zum 31.12.2022 geltenden Fassung
+
 # Anlage – (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020
 
 (Fundstelle: BGBl. I 2019, 1883 — 1927)

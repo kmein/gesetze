@@ -1771,7 +1771,7 @@ Die Verjährung beginnt, sobald die Tat beendet ist.
 
 (1) Der Einleitung eines anwaltsgerichtlichen Verfahrens steht es nicht entgegen, daß der Vorstand der Rechtsanwaltskammer bereits wegen desselben Verhaltens eine Rüge erteilt hat (§ 74). Hat das Anwaltsgericht den Rügebescheid aufgehoben (§ 74a), weil es eine Pflichtverletzung nach § 113 Absatz 1 bis 3 nicht festgestellt hat, so kann ein anwaltsgerichtliches Verfahren wegen desselben Verhaltens nur auf Grund solcher Tatsachen oder Beweismittel eingeleitet werden, die dem Anwaltsgericht bei seiner Entscheidung nicht bekannt waren.
 
-(2) Die Rüge wird mit der Rechtskraft eines anwaltsgerichtlichen Urteils unwirksam, das wegen desselben Verhaltens gegen den oder die Berufsausübungsgesellschaft ergeht und auf Freispruch oder eine anwaltsgerichtliche Maßnahme lautet. Die Rüge wird auch unwirksam, wenn rechtskräftig die Eröffnung des Hauptverfahrens abgelehnt ist, weil eine Pflichtverletzung nach § 113 Absatz 1 bis 3 nicht festzustellen ist.
+(2) Die Rüge wird mit der Rechtskraft eines anwaltsgerichtlichen Urteils unwirksam, das wegen desselben Verhaltens gegen den Rechtsanwalt oder die Berufsausübungsgesellschaft ergeht und auf Freispruch oder eine anwaltsgerichtliche Maßnahme lautet. Die Rüge wird auch unwirksam, wenn rechtskräftig die Eröffnung des Hauptverfahrens abgelehnt ist, weil eine Pflichtverletzung nach § 113 Absatz 1 bis 3 nicht festzustellen ist.
 
 # § 115b – Anderweitige Ahndung
 
