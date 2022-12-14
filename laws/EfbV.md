@@ -427,7 +427,7 @@ a) Inhaber eines Entsorgungsfachbetriebes war oder
 
 b) als für die Leitung und Beaufsichtigung des Betriebes verantwortliche Person in einem Entsorgungsfachbetrieb tätig war.
 
-(4) Die Zertifizierung einer Erstbehandlungsanlage nach § 21 Absatz 6 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl. I S. 1739), das zuletzt durch Artikel 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1739) geändert worden ist, in der jeweils geltenden Fassung als Entsorgungsfachbetrieb erfordert auch die Erfüllung der Voraussetzungen nach § 21 Absatz 2 Satz 2 des Elektro- und Elektronikgerätegesetzes.
+(4) Die Zertifizierung einer Erstbehandlungsanlage nach § 21 Absatz 8 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015, das zuletzt durch Artikel 23 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung als Entsorgungsfachbetrieb erfordert auch die Erfüllung der Voraussetzungen nach § 21 Absatz 2 Satz 2 des Elektro- und Elektronikgerätegesetzes.
 
 (5) Der Sachverständige muss durch geeignete Fortbildung über den für seine Tätigkeit notwendigen aktuellen Wissensstand verfügen.
 
