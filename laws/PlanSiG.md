@@ -61,13 +61,13 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 # § 2 – Ortsübliche und öffentliche Bekanntmachungen
 
-(1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine ortsübliche oder öffentliche Bekanntmachung angeordnet und ist nach den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder die Auslegung zur Einsichtnahme vorgesehen, so können der Anschlag oder die Auslegung durch eine Veröffentlichung des Inhalts der Bekanntmachung im Internet ersetzt werden, wenn die jeweilige Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet. Zusätzlich hat zumindest eine Bekanntmachung in einem amtlichen Veröffentlichungsblatt oder einer örtlichen Tageszeitung zu erfolgen.
+(1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine ortsübliche oder öffentliche Bekanntmachung angeordnet und ist nach den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder die Auslegung zur Einsichtnahme vorgesehen, so können der Anschlag oder die Auslegung durch eine Veröffentlichung des Inhalts der Bekanntmachung im Internet ersetzt werden, wenn die jeweilige Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2023 endet. Zusätzlich hat zumindest eine Bekanntmachung in einem amtlichen Veröffentlichungsblatt oder einer örtlichen Tageszeitung zu erfolgen.
 
 (2) Für die Veröffentlichung im Internet gilt § 27a Absatz 1 Satz 2 und Absatz 2 des Verwaltungsverfahrensgesetzes entsprechend.
 
 # § 3 – Auslegung von Unterlagen oder Entscheidungen
 
-(1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine Auslegung von Unterlagen oder Entscheidungen angeordnet, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, so kann die Auslegung durch eine Veröffentlichung im Internet ersetzt werden, wenn die jeweilige Auslegungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet. Für die Veröffentlichung im Internet gilt § 27a Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes entsprechend. In der Bekanntmachung der Auslegung ist darauf hinzuweisen, dass und wo die Veröffentlichung im Internet erfolgt. Soweit Regelungen in den in § 1 genannten Gesetzen den Zugang über ein zentrales Internetportal vorsehen, bleiben diese unberührt. Der Vorhabenträger hat Anspruch darauf, dass seine Betriebs- und Geschäftsgeheimnisse von der Behörde nicht unbefugt offenbart werden. Er kann der Veröffentlichung im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet. Widerspricht der Vorhabenträger der Veröffentlichung im Internet, hat die Behörde das Verfahren bis zu einer Auslegung auszusetzen.
+(1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine Auslegung von Unterlagen oder Entscheidungen angeordnet, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, so kann die Auslegung durch eine Veröffentlichung im Internet ersetzt werden, wenn die jeweilige Auslegungsfrist spätestens mit Ablauf des 31. Dezember 2023 endet. Für die Veröffentlichung im Internet gilt § 27a Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes entsprechend. In der Bekanntmachung der Auslegung ist darauf hinzuweisen, dass und wo die Veröffentlichung im Internet erfolgt. Soweit Regelungen in den in § 1 genannten Gesetzen den Zugang über ein zentrales Internetportal vorsehen, bleiben diese unberührt. Der Vorhabenträger hat Anspruch darauf, dass seine Betriebs- und Geschäftsgeheimnisse von der Behörde nicht unbefugt offenbart werden. Er kann der Veröffentlichung im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet. Widerspricht der Vorhabenträger der Veröffentlichung im Internet, hat die Behörde das Verfahren bis zu einer Auslegung auszusetzen.
 
 (2) Die angeordnete Auslegung soll daneben als zusätzliches Informationsangebot erfolgen, soweit dies nach Feststellung der zuständigen Behörde den Umständen nach möglich ist. Unterbleibt eine Auslegung, hat die zuständige Behörde zusätzlich zur Veröffentlichung nach Absatz 1 Satz 1 andere leicht zu erreichende Zugangsmöglichkeiten, etwa durch öffentlich zugängliche Lesegeräte oder in begründeten Fällen durch Versendung zur Verfügung zu stellen. Auf diese Zugangsmöglichkeiten ist in der Bekanntmachung nach § 2 Absatz 1 hinzuweisen.
 
@@ -78,7 +78,7 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 # § 4 – Erklärungen zur Niederschrift
 
-(1) In Verfahren nach den in § 1 genannten Gesetzen kann die Abgabe von Erklärungen zur Niederschrift bei der Behörde ausgeschlossen werden, wenn die jeweilige Erklärungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet und die zuständige Behörde festgestellt hat, dass innerhalb der Erklärungsfrist eine Entgegennahme zur Niederschrift nicht oder nur mit unverhältnismäßigem Aufwand möglich sein würde.
+(1) In Verfahren nach den in § 1 genannten Gesetzen kann die Abgabe von Erklärungen zur Niederschrift bei der Behörde ausgeschlossen werden, wenn die jeweilige Erklärungsfrist spätestens mit Ablauf des 31. Dezember 2023 endet und die zuständige Behörde festgestellt hat, dass innerhalb der Erklärungsfrist eine Entgegennahme zur Niederschrift nicht oder nur mit unverhältnismäßigem Aufwand möglich sein würde.
 
 (2) In Fällen des Absatzes 1 hat die zuständige Behörde einen Zugang für die Abgabe von elektronischen Erklärungen bereitzuhalten. In den Bekanntmachungen, in denen sonst auf die Möglichkeit der Abgabe von Erklärungen zur Niederschrift hingewiesen wird, ist auf die Möglichkeit der Abgabe elektronischer Erklärungen und den Ausschluss der Abgabe von Erklärungen zur Niederschrift hinzuweisen.
 
@@ -102,7 +102,7 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (1) Die Regelungen dieses Gesetzes sind auch auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren anwendbar. Ein Verfahrensschritt, der bereits begonnen wurde, ist jedoch zu wiederholen, wenn er nach diesem Gesetz durchgeführt werden soll. Abweichend von Satz 2 ist ein Verfahrensschritt, der bereits vor dem 16. März 2020 begonnen wurde, nicht zu wiederholen, wenn der Beteiligungsschritt in diesem Verfahrensschritt, der teilweise oder ganz entfallen oder erschwert worden ist, nach diesem Gesetz hätte entfallen können und lediglich der Hinweis auf das Unterbleiben einer einzelnen Beteiligungsmöglichkeit vorab nicht erteilt werden konnte.
 
-(2) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 2 bis 5 Gebrauch gemacht worden ist und die mit Ablauf des 31. Dezember 2022 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses Gesetzes bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
+(2) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 2 bis 5 Gebrauch gemacht worden ist und die mit Ablauf des 31. Dezember 2023 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses Gesetzes bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
 (3) Die für die in § 1 genannten Verfahren geltenden Fehlerfolgenregelungen sind entsprechend anzuwenden und bleiben im Übrigen unberührt. Fehler bei Bekanntmachungen haben keine Auswirkung auf die Rechtmäßigkeit der Verfahren, wenn der Hinweiszweck der Bekanntmachung erfüllt ist.
 
@@ -110,4 +110,4 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-(2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit Ablauf des 31. Dezember 2022 außer Kraft. Im Übrigen tritt das Gesetz mit Ablauf des 30. September 2027 außer Kraft.
+(2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit Ablauf des 31. Dezember 2023 außer Kraft. Im Übrigen tritt das Gesetz mit Ablauf des 30. September 2028 außer Kraft.

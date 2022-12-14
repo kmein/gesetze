@@ -25,7 +25,7 @@ Prävention durch Aufklärung
 
  
 
-2\. Abschnitt - Koordinierung und epidemische Lage von nationaler Tragweite
+2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
 
  
 
@@ -44,6 +44,10 @@ Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von 
 § 5b
 
 Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+§ 5c
+
+Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
 
  
 
@@ -467,6 +471,1416 @@ Einziehung
 
 Übergangsvorschriften
 
+# Inhaltsübersicht
+
+1\. Abschnitt - Allgemeine Vorschriften
+
+ 
+
+§ 1
+
+Zweck des Gesetzes
+
+§ 1a
+
+(weggefallen)
+
+§ 2
+
+Begriffsbestimmungen
+
+§ 3
+
+Prävention durch Aufklärung
+
+ 
+
+2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
+
+ 
+
+§ 4
+
+Aufgaben des Robert Koch-Instituts
+
+§ 5
+
+Epidemische Lage von nationaler Tragweite
+
+§ 5a
+
+Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+
+§ 5b
+
+Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+§ 5c
+
+Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+ 
+
+3\. Abschnitt - Überwachung
+
+ 
+
+§ 6
+
+Meldepflichtige Krankheiten
+
+§ 7
+
+Meldepflichtige Nachweise von Krankheitserregern
+
+§ 8
+
+Zur Meldung verpflichtete Personen
+
+§ 9
+
+Namentliche Meldung
+
+§ 10
+
+Nichtnamentliche Meldung
+
+§ 11
+
+Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+
+§ 12
+
+Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+
+§ 12a
+
+(weggefallen)
+
+§ 13
+
+Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+
+§ 14
+
+Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+
+§ 15
+
+Anpassung der Meldepflicht an die epidemische Lage
+
+§ 15a
+
+Durchführung der infektionshygienischen und hygienischen Überwachung
+
+ 
+
+ 
+
+ 
+
+4\. Abschnitt - Verhütung übertragbarer Krankheiten
+
+ 
+
+§ 16
+
+Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+
+§ 17
+
+Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 18
+
+Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+
+§ 19
+
+Aufgaben des Gesundheitsamtes in besonderen Fällen
+
+§ 20
+
+Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+
+§ 20a
+
+(weggefallen)
+
+§ 20b
+
+Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
+
+§ 20c
+
+Durchführung von Grippeschutzimpfungen
+
+§ 21
+
+Impfstoffe
+
+§ 22
+
+Impf-, Genesenen- und Testdokumentation
+
+§ 22a
+
+Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+§ 23
+
+Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+
+§ 23a
+
+Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+
+ 
+
+5\. Abschnitt - Bekämpfung übertragbarer Krankheiten
+
+ 
+
+§ 24
+
+Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 25
+
+Ermittlungen
+
+§ 26
+
+Teilnahme des behandelnden Arztes
+
+§ 27
+
+Gegenseitige Unterrichtung
+
+§ 28
+
+Schutzmaßnahmen
+
+§ 28a
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+
+§ 28b
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+
+§ 28c
+
+Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+
+§ 29
+
+Beobachtung
+
+§ 30
+
+Absonderung
+
+§ 31
+
+Berufliches Tätigkeitsverbot
+
+§ 32
+
+Erlass von Rechtsverordnungen
+
+ 
+
+6\. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
+
+ 
+
+§ 33
+
+Gemeinschaftseinrichtungen
+
+§ 34
+
+Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+
+§ 35
+
+Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+
+§ 36
+
+Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+
+ 
+
+7\. Abschnitt - Wasser
+
+ 
+
+§ 37
+
+Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+
+§ 38
+
+Verordnungsermächtigung
+
+§ 39
+
+Untersuchungen, Maßnahmen der zuständigen Behörde
+
+§ 40
+
+Aufgaben des Umweltbundesamtes
+
+§ 41
+
+Abwasser
+
+ 
+
+8\. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
+
+ 
+
+§ 42
+
+Tätigkeits- und Beschäftigungsverbote
+
+§ 43
+
+Belehrung, Bescheinigung des Gesundheitsamtes
+
+ 
+
+9\. Abschnitt - Tätigkeiten mit Krankheitserregern
+
+ 
+
+§ 44
+
+Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+
+§ 45
+
+Ausnahmen
+
+§ 46
+
+Tätigkeit unter Aufsicht
+
+§ 47
+
+Versagungsgründe, Voraussetzungen für die Erlaubnis
+
+§ 48
+
+Rücknahme und Widerruf
+
+§ 49
+
+Anzeigepflichten
+
+§ 50
+
+Veränderungsanzeige
+
+§ 50a
+
+Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+
+§ 51
+
+Aufsicht
+
+§ 52
+
+Abgabe
+
+§ 53
+
+Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+
+§ 53a
+
+Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+
+ 
+
+10\. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
+
+ 
+
+§ 54
+
+Vollzug durch die Länder
+
+§ 54a
+
+Vollzug durch die Bundeswehr
+
+§ 54b
+
+Vollzug durch das Eisenbahn-Bundesamt
+
+ 
+
+11\. Abschnitt - Angleichung an Gemeinschaftsrecht
+
+ 
+
+§ 55
+
+Angleichung an Gemeinschaftsrecht
+
+ 
+
+12\. Abschnitt - Entschädigung in besonderen Fällen
+
+ 
+
+§ 56
+
+Entschädigung
+
+§ 57
+
+Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+
+§ 58
+
+Aufwendungserstattung
+
+§ 59
+
+Arbeits- und sozialrechtliche Sondervorschriften
+
+§ 60
+
+Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
+
+§ 61
+
+Gesundheitsschadensanerkennung
+
+§ 62
+
+Heilbehandlung
+
+§ 63
+
+Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
+
+§ 64
+
+Zuständige Behörde für die Versorgung
+
+§ 65
+
+Entschädigung bei behördlichen Maßnahmen
+
+§ 66
+
+Zahlungsverpflichteter
+
+§ 67
+
+Pfändung
+
+ 
+
+13\. Abschnitt - Rechtsweg und Kosten
+
+ 
+
+§ 68
+
+Rechtsweg
+
+§ 69
+
+Kosten
+
+§§ 70 – 72
+
+(weggefallen)
+
+ 
+
+14\. Abschnitt - Straf- und Bußgeldvorschriften
+
+ 
+
+§ 73
+
+Bußgeldvorschriften
+
+§ 74
+
+Strafvorschriften
+
+§ 75
+
+Weitere Strafvorschriften
+
+§ 75a
+
+Weitere Strafvorschriften
+
+§ 76
+
+Einziehung
+
+ 
+
+15\. Abschnitt - Übergangsvorschriften
+
+ 
+
+§ 77
+
+Übergangsvorschriften
+
+# Inhaltsübersicht
+
+1\. Abschnitt - Allgemeine Vorschriften
+
+ 
+
+§ 1
+
+Zweck des Gesetzes
+
+§ 1a
+
+(weggefallen)
+
+§ 2
+
+Begriffsbestimmungen
+
+§ 3
+
+Prävention durch Aufklärung
+
+ 
+
+2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
+
+ 
+
+§ 4
+
+Aufgaben des Robert Koch-Instituts
+
+§ 5
+
+Epidemische Lage von nationaler Tragweite
+
+§ 5a
+
+Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+
+§ 5b
+
+Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+§ 5c
+
+Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+ 
+
+3\. Abschnitt - Überwachung
+
+ 
+
+§ 6
+
+Meldepflichtige Krankheiten
+
+§ 7
+
+Meldepflichtige Nachweise von Krankheitserregern
+
+§ 8
+
+Zur Meldung verpflichtete Personen
+
+§ 9
+
+Namentliche Meldung
+
+§ 10
+
+Nichtnamentliche Meldung
+
+§ 11
+
+Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+
+§ 12
+
+Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+
+§ 12a
+
+(weggefallen)
+
+§ 13
+
+Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+
+§ 14
+
+Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+
+§ 15
+
+Anpassung der Meldepflicht an die epidemische Lage
+
+§ 15a
+
+Durchführung der infektionshygienischen und hygienischen Überwachung
+
+ 
+
+ 
+
+ 
+
+4\. Abschnitt - Verhütung übertragbarer Krankheiten
+
+ 
+
+§ 16
+
+Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+
+§ 17
+
+Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 18
+
+Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+
+§ 19
+
+Aufgaben des Gesundheitsamtes in besonderen Fällen
+
+§ 20
+
+Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+
+§ 20a
+
+(weggefallen)
+
+§ 20b
+
+(weggefallen)
+
+§ 20c
+
+Durchführung von Grippeschutzimpfungen
+
+§ 21
+
+Impfstoffe
+
+§ 22
+
+Impf-, Genesenen- und Testdokumentation
+
+§ 22a
+
+Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+§ 23
+
+Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+
+§ 23a
+
+Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+
+ 
+
+5\. Abschnitt - Bekämpfung übertragbarer Krankheiten
+
+ 
+
+§ 24
+
+Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 25
+
+Ermittlungen
+
+§ 26
+
+Teilnahme des behandelnden Arztes
+
+§ 27
+
+Gegenseitige Unterrichtung
+
+§ 28
+
+Schutzmaßnahmen
+
+§ 28a
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+
+§ 28b
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+
+§ 28c
+
+Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+
+§ 29
+
+Beobachtung
+
+§ 30
+
+Absonderung
+
+§ 31
+
+Berufliches Tätigkeitsverbot
+
+§ 32
+
+Erlass von Rechtsverordnungen
+
+ 
+
+6\. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
+
+ 
+
+§ 33
+
+Gemeinschaftseinrichtungen
+
+§ 34
+
+Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+
+§ 35
+
+Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+
+§ 36
+
+Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+
+ 
+
+7\. Abschnitt - Wasser
+
+ 
+
+§ 37
+
+Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+
+§ 38
+
+Verordnungsermächtigung
+
+§ 39
+
+Untersuchungen, Maßnahmen der zuständigen Behörde
+
+§ 40
+
+Aufgaben des Umweltbundesamtes
+
+§ 41
+
+Abwasser
+
+ 
+
+8\. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
+
+ 
+
+§ 42
+
+Tätigkeits- und Beschäftigungsverbote
+
+§ 43
+
+Belehrung, Bescheinigung des Gesundheitsamtes
+
+ 
+
+9\. Abschnitt - Tätigkeiten mit Krankheitserregern
+
+ 
+
+§ 44
+
+Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+
+§ 45
+
+Ausnahmen
+
+§ 46
+
+Tätigkeit unter Aufsicht
+
+§ 47
+
+Versagungsgründe, Voraussetzungen für die Erlaubnis
+
+§ 48
+
+Rücknahme und Widerruf
+
+§ 49
+
+Anzeigepflichten
+
+§ 50
+
+Veränderungsanzeige
+
+§ 50a
+
+Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+
+§ 51
+
+Aufsicht
+
+§ 52
+
+Abgabe
+
+§ 53
+
+Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+
+§ 53a
+
+Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+
+ 
+
+10\. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
+
+ 
+
+§ 54
+
+Vollzug durch die Länder
+
+§ 54a
+
+Vollzug durch die Bundeswehr
+
+§ 54b
+
+Vollzug durch das Eisenbahn-Bundesamt
+
+ 
+
+11\. Abschnitt - Angleichung an Gemeinschaftsrecht
+
+ 
+
+§ 55
+
+Angleichung an Gemeinschaftsrecht
+
+ 
+
+12\. Abschnitt - Entschädigung in besonderen Fällen
+
+ 
+
+§ 56
+
+Entschädigung
+
+§ 57
+
+Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+
+§ 58
+
+Aufwendungserstattung
+
+§ 59
+
+Arbeits- und sozialrechtliche Sondervorschriften
+
+§ 60
+
+Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
+
+§ 61
+
+Gesundheitsschadensanerkennung
+
+§ 62
+
+Heilbehandlung
+
+§ 63
+
+Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
+
+§ 64
+
+Zuständige Behörde für die Versorgung
+
+§ 65
+
+Entschädigung bei behördlichen Maßnahmen
+
+§ 66
+
+Zahlungsverpflichteter
+
+§ 67
+
+Pfändung
+
+ 
+
+13\. Abschnitt - Rechtsweg und Kosten
+
+ 
+
+§ 68
+
+Rechtsweg
+
+§ 69
+
+Kosten
+
+§§ 70 – 72
+
+(weggefallen)
+
+ 
+
+14\. Abschnitt - Straf- und Bußgeldvorschriften
+
+ 
+
+§ 73
+
+Bußgeldvorschriften
+
+§ 74
+
+Strafvorschriften
+
+§ 75
+
+Weitere Strafvorschriften
+
+§ 75a
+
+Weitere Strafvorschriften
+
+§ 76
+
+Einziehung
+
+ 
+
+15\. Abschnitt - Übergangsvorschriften
+
+ 
+
+§ 77
+
+Übergangsvorschriften
+
+# Inhaltsübersicht
+
+1\. Abschnitt - Allgemeine Vorschriften
+
+ 
+
+§ 1
+
+Zweck des Gesetzes
+
+§ 1a
+
+(weggefallen)
+
+§ 2
+
+Begriffsbestimmungen
+
+§ 3
+
+Prävention durch Aufklärung
+
+ 
+
+2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
+
+ 
+
+§ 4
+
+Aufgaben des Robert Koch-Instituts
+
+§ 5
+
+Epidemische Lage von nationaler Tragweite
+
+§ 5a
+
+Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+
+§ 5b
+
+Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+§ 5c
+
+Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+ 
+
+3\. Abschnitt - Überwachung
+
+ 
+
+§ 6
+
+Meldepflichtige Krankheiten
+
+§ 7
+
+Meldepflichtige Nachweise von Krankheitserregern
+
+§ 8
+
+Zur Meldung verpflichtete Personen
+
+§ 9
+
+Namentliche Meldung
+
+§ 10
+
+Nichtnamentliche Meldung
+
+§ 11
+
+Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+
+§ 12
+
+Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+
+§ 12a
+
+(weggefallen)
+
+§ 13
+
+Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+
+§ 14
+
+Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+
+§ 15
+
+Anpassung der Meldepflicht an die epidemische Lage
+
+§ 15a
+
+Durchführung der infektionshygienischen und hygienischen Überwachung
+
+ 
+
+ 
+
+ 
+
+4\. Abschnitt - Verhütung übertragbarer Krankheiten
+
+ 
+
+§ 16
+
+Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+
+§ 17
+
+Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 18
+
+Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+
+§ 19
+
+Aufgaben des Gesundheitsamtes in besonderen Fällen
+
+§ 20
+
+Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+
+§ 20a
+
+(weggefallen)
+
+§ 20b
+
+(weggefallen)
+
+§ 20c
+
+Durchführung von Grippeschutzimpfungen
+
+§ 21
+
+Impfstoffe
+
+§ 22
+
+Impf-, Genesenen- und Testdokumentation
+
+§ 22a
+
+Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+§ 23
+
+Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+
+§ 23a
+
+Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+
+ 
+
+5\. Abschnitt - Bekämpfung übertragbarer Krankheiten
+
+ 
+
+§ 24
+
+Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 25
+
+Ermittlungen
+
+§ 26
+
+Teilnahme des behandelnden Arztes
+
+§ 27
+
+Gegenseitige Unterrichtung
+
+§ 28
+
+Schutzmaßnahmen
+
+§ 28a
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+
+§ 28b
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+
+§ 28c
+
+Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+
+§ 29
+
+Beobachtung
+
+§ 30
+
+Absonderung
+
+§ 31
+
+Berufliches Tätigkeitsverbot
+
+§ 32
+
+Erlass von Rechtsverordnungen
+
+ 
+
+6\. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
+
+ 
+
+§ 33
+
+Gemeinschaftseinrichtungen
+
+§ 34
+
+Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+
+§ 35
+
+Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+
+§ 36
+
+Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+
+ 
+
+7\. Abschnitt - Wasser
+
+ 
+
+§ 37
+
+Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+
+§ 38
+
+Verordnungsermächtigung
+
+§ 39
+
+Untersuchungen, Maßnahmen der zuständigen Behörde
+
+§ 40
+
+Aufgaben des Umweltbundesamtes
+
+§ 41
+
+Abwasser
+
+ 
+
+8\. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
+
+ 
+
+§ 42
+
+Tätigkeits- und Beschäftigungsverbote
+
+§ 43
+
+Belehrung, Bescheinigung des Gesundheitsamtes
+
+ 
+
+9\. Abschnitt - Tätigkeiten mit Krankheitserregern
+
+ 
+
+§ 44
+
+Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+
+§ 45
+
+Ausnahmen
+
+§ 46
+
+Tätigkeit unter Aufsicht
+
+§ 47
+
+Versagungsgründe, Voraussetzungen für die Erlaubnis
+
+§ 48
+
+Rücknahme und Widerruf
+
+§ 49
+
+Anzeigepflichten
+
+§ 50
+
+Veränderungsanzeige
+
+§ 50a
+
+Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+
+§ 51
+
+Aufsicht
+
+§ 52
+
+Abgabe
+
+§ 53
+
+Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+
+§ 53a
+
+Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+
+ 
+
+10\. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
+
+ 
+
+§ 54
+
+Vollzug durch die Länder
+
+§ 54a
+
+Vollzug durch die Bundeswehr
+
+§ 54b
+
+Vollzug durch das Eisenbahn-Bundesamt
+
+ 
+
+11\. Abschnitt - Angleichung an Gemeinschaftsrecht
+
+ 
+
+§ 55
+
+Angleichung an Gemeinschaftsrecht
+
+ 
+
+12\. Abschnitt - Entschädigung in besonderen Fällen
+
+ 
+
+§ 56
+
+Entschädigung
+
+§ 57
+
+Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+
+§ 58
+
+Aufwendungserstattung
+
+§ 59
+
+Arbeits- und sozialrechtliche Sondervorschriften
+
+§ 60
+
+(weggefallen)
+
+§ 61
+
+(weggefallen)
+
+§ 62
+
+(weggefallen)
+
+§ 63
+
+(weggefallen)
+
+§ 64
+
+(weggefallen)
+
+§ 65
+
+Entschädigung bei behördlichen Maßnahmen
+
+§ 66
+
+Zahlungsverpflichteter
+
+§ 67
+
+Pfändung
+
+ 
+
+13\. Abschnitt - Rechtsweg und Kosten
+
+ 
+
+§ 68
+
+Rechtsweg
+
+§ 69
+
+Kosten
+
+§§ 70 – 72
+
+(weggefallen)
+
+ 
+
+14\. Abschnitt - Straf- und Bußgeldvorschriften
+
+ 
+
+§ 73
+
+Bußgeldvorschriften
+
+§ 74
+
+Strafvorschriften
+
+§ 75
+
+Weitere Strafvorschriften
+
+§ 75a
+
+Weitere Strafvorschriften
+
+§ 76
+
+Einziehung
+
+ 
+
+15\. Abschnitt - Übergangsvorschriften
+
+ 
+
+§ 77
+
+Übergangsvorschriften
+
 # § 1 – Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen vorzubeugen, Infektionen frühzeitig zu erkennen und ihre Weiterverbreitung zu verhindern.
@@ -794,6 +2208,58 @@ Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie sol
 (3) Über die Bereitstellung der in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken entscheidet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium für Arbeit und Soziales.
 
 (4) Die in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken müssen einem in der Anlage genannten Maskentyp entsprechen.
+
+# § 5c – Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+(1) Niemand darf bei einer ärztlichen Entscheidung über die Zuteilung aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandener überlebenswichtiger intensivmedizinischer Behandlungskapazitäten (Zuteilungsentscheidung) benachteiligt werden, insbesondere nicht wegen einer Behinderung, des Grades der Gebrechlichkeit, des Alters, der ethnischen Herkunft, der Religion oder Weltanschauung, des Geschlechts oder der sexuellen Orientierung. Überlebenswichtige intensivmedizinische Behandlungskapazitäten sind im Sinne des Satzes 1 in einem Krankenhaus nicht ausreichend vorhanden, wenn
+
+1. der überlebenswichtige intensivmedizinische Behandlungsbedarf der Patientinnen und Patienten des Krankenhauses mit den dort vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten nicht gedeckt werden kann und
+
+2. eine anderweitige intensivmedizinische Behandlung der betroffenen Patientinnen und Patienten nicht möglich ist, insbesondere, weil eine Verlegung nicht in Betracht kommt
+
+a) aus gesundheitlichen Gründen oder
+
+b) da die regionalen und überregionalen intensivmedizinischen Behandlungskapazitäten nach den dem Krankenhaus vorliegenden Erkenntnissen ausgeschöpft sind.
+
+(2) Eine Zuteilungsentscheidung darf nur aufgrund der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit der betroffenen Patientinnen und Patienten getroffen werden. Komorbiditäten dürfen bei der Beurteilung der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit nur berücksichtigt werden, soweit sie aufgrund ihrer Schwere oder Kombination die auf die aktuelle Krankheit bezogene kurzfristige Überlebenswahrscheinlichkeit erheblich verringern. Kriterien, die sich auf die aktuelle und kurzfristige Überlebenswahrscheinlichkeit nicht auswirken, wie insbesondere eine Behinderung, das Alter, die verbleibende mittel- oder langfristige Lebenserwartung, der Grad der Gebrechlichkeit und die Lebensqualität, dürfen bei der Beurteilung der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit nicht berücksichtigt werden. Bereits zugeteilte überlebenswichtige intensivmedizinische Behandlungskapazitäten sind von der Zuteilungsentscheidung ausgenommen.
+
+(3) Die Zuteilungsentscheidung ist einvernehmlich von zwei Ärztinnen oder Ärzten zu treffen, die
+
+1. Fachärztinnen oder Fachärzte sind,
+
+2. im Bereich Intensivmedizin praktizieren,
+
+3. über mehrjährige Erfahrung im Bereich Intensivmedizin verfügen und
+
+4. die von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten unabhängig voneinander begutachtet haben.
+
+Besteht kein Einvernehmen, sind die von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten von einer weiteren gleich qualifizierten Ärztin oder einem weiteren gleich qualifizierten Arzt zu begutachten und ist die Zuteilungsentscheidung mehrheitlich zu treffen. Von den an der Zuteilungsentscheidung beteiligten Ärztinnen und Ärzten darf nur eine Ärztin oder ein Arzt in die unmittelbare Behandlung der von der Zuteilungsentscheidung betroffenen Patientinnen oder Patienten eingebunden sein. Ist eine Patientin oder ein Patient mit einer Behinderung oder einer Komorbidität von der Zuteilungsentscheidung betroffen, muss die Einschätzung einer hinzuzuziehenden Person berücksichtigt werden, durch deren Fachexpertise den besonderen Belangen dieser Patientin oder dieses Patienten Rechnung getragen werden kann. Die Begutachtung der von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten, die Mitwirkung an der Zuteilungsentscheidung sowie die Hinzuziehung nach Satz 4 kann in Form einer telemedizinischen Konsultation erfolgen.
+
+(4) Die oder der im Zeitpunkt der Zuteilungsentscheidung für die Behandlung der betroffenen Patientinnen und Patienten verantwortliche Ärztin oder Arzt hat Folgendes zu dokumentieren:
+
+1. die der Zuteilungsentscheidung zugrunde gelegten Umstände sowie
+
+2. welche Personen an der Zuteilungsentscheidung mitgewirkt haben und hinzugezogen wurden und wie sie abgestimmt oder Stellung genommen haben.
+
+Die §§ 630f und 630g des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
+
+(5) Krankenhäuser mit intensivmedizinischen Behandlungskapazitäten sind verpflichtet, in einer Verfahrensanweisung mindestens Folgendes festzulegen:
+
+1. ein Verfahren zur Benennung der Ärztinnen und Ärzte, die für die Mitwirkung an der Zuteilungsentscheidung zuständig sind, und
+
+2. die organisatorische Umsetzung der Entscheidungsabläufe nach Absatz 3.
+
+Sie haben die Einhaltung der Verfahrensanweisung sicherzustellen und müssen die Verfahrensanweisungen mindestens einmal im Jahr auf Weiterentwicklungsbedarf überprüfen und anpassen.
+
+(6) Krankenhäuser sind verpflichtet, eine Zuteilungsentscheidung unverzüglich der für die Krankenhausplanung zuständigen Landesbehörde anzuzeigen und ihr mitzuteilen, weshalb im Zeitpunkt der Zuteilungsentscheidung überlebenswichtige intensivmedizinische Behandlungskapazitäten nicht ausreichend vorhanden waren, um die für die Krankenhausplanung zuständige Landesbehörde in die Lage zu versetzen, im Rahmen ihrer Zuständigkeit tätig zu werden.
+
+(7) Das Bundesministerium für Gesundheit beauftragt innerhalb von sechs Monaten, nachdem erstmals einer für die Krankenhausplanung zuständigen Landesbehörde eine Zuteilungsentscheidung angezeigt wurde, spätestens jedoch bis zum 31. Dezember 2025, eine externe Evaluation dieser Vorschrift. Gegenstand der Evaluation sind insbesondere
+
+1. die Erreichung der Ziele, Vorkehrungen zum Schutz vor Diskriminierung zu schaffen und Rechtssicherheit für die handelnden Ärztinnen und Ärzte zu gewährleisten, und
+
+2. die Auswirkungen der Vorschrift und der nach Absatz 5 Satz 1 zu erstellenden Verfahrensanweisungen auf die medizinische Praxis unter Berücksichtigung der praktischen Umsetzbarkeit.
+
+Die Evaluation wird interdisziplinär insbesondere auf Grundlage rechtlicher, medizinischer und ethischer Erkenntnisse durch unabhängige Sachverständige durchgeführt, die jeweils zur Hälfte von dem Bundesministerium für Gesundheit und dem Deutschen Bundestag benannt werden. Die Sachverständigen haben bundesweite Verbände, Fachkreise und Selbstvertretungsorganisationen, deren Belange von der Vorschrift besonders berührt sind, angemessen zu beteiligen. Das Bundesministerium für Gesundheit übermittelt dem Deutschen Bundestag spätestens ein Jahr nach der Beauftragung das Ergebnis der Evaluation sowie eine Stellungnahme des Bundesministeriums für Gesundheit zu diesem Ergebnis.
 
 # § 6 – Meldepflichtige Krankheiten
 

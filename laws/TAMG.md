@@ -1067,6 +1067,8 @@ Die Nachweise nach Satz 1 sind mindestens drei Jahre aufzubewahren und auf Verla
 
 (5) Tierarzneimittel, die nach § 45 Absatz 4 zur Durchführung tierseuchenrechtlicher Maßnahmen bestimmt und nicht verschreibungspflichtig sind, dürfen bei Tieren, die der Gewinnung von Lebensmitteln dienen, nur gemäß der entsprechenden veterinärbehördlichen Anweisung angewendet werden.
 
+§ 50 Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -
+
 # § 51 – Befugnisse tierärztlicher Bildungsstätten
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich, die der Arzneimittelversorgung der dort behandelten Tiere dienen und von einer Tierärztin, einem Tierarzt, einer Apothekerin oder einem Apotheker geleitet werden, haben die Rechte und Pflichten, die eine Tierärztin oder ein Tierarzt nach den Vorschriften der Verordnung (EU) 2019/6 und dieses Gesetzes hat.

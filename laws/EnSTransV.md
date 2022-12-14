@@ -7,17 +7,15 @@
 
 (1) Diese Verordnung dient der Umsetzung unionsrechtlicher Vorgaben des Beihilferechts zur Erhebung, Verarbeitung, Nutzung und Übermittlung von Informationen durch die Zollverwaltung, die für die Erfüllung der Veröffentlichungs-, Informations- und Transparenzpflichten von Bedeutung sind. Auf § 66 Absatz 1 Nummer 21 des Energiesteuergesetzes und § 11 Satz 1 Nummer 13 des Stromsteuergesetzes wird Bezug genommen. Rechtsakte der Kommission hierzu sind insbesondere
 
-1. die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65);
+1. die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/1237 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist, in der jeweils geltenden Fassung;
 
 2. die Mitteilung der Kommission – Leitlinien für staatliche Umweltschutz- und Energiebeihilfen 2014 – 2020 (ABl. C 200 vom 28.6.2014, S. 1);
 
-3. die Mitteilung der Kommission zur Änderung der Mitteilungen der Kommission über Leitlinien der EU für die Anwendung der Vorschriften über staatliche Beihilfen im Zusammenhang mit dem schnellen Breitbandausbau, über Leitlinien für Regionalbeihilfen 2014 – 2020, über staatliche Beihilfen für Filme und andere audiovisuelle Werke, über Leitlinien für staatliche Beihilfen zur Förderung von Risikofinanzierungen sowie über Leitlinien für staatliche Beihilfen für Flughäfen und Luftverkehrsgesellschaften (ABl. C 198 vom 27.6.2014, S. 30);
-
-4. die Mitteilung der Kommission – Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1).
+3. die Mitteilung der Kommission – Leitlinien für staatliche Klima-, Umweltschutz- und Energiebeihilfen 2022 (ABl. C 80 vom 18.2.2022, S. 1).
 
 (2) Diese Verordnung gilt ausschließlich für die aufgrund des Energiesteuer- und des Stromsteuergesetzes gewährten Steuerbegünstigungen, die
 
-1. staatliche Beihilfen im Sinne des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union (AEU-Vertrag) darstellen und
+1. staatliche Beihilfen im Sinne des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) darstellen und
 
 2. bei der Kommission angezeigt oder von ihr genehmigt worden sind.
 
@@ -31,7 +29,7 @@
 
 3. die Steuerentlastungen,
 
-die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und zugleich staatliche Beihilfen im Sinne des Artikels 107 des AEU-Vertrags darstellen. Steuerbegünstigungen nach Satz 1 sind der Anlage zu dieser Verordnung zu entnehmen. Das Bundesministerium der Finanzen veröffentlicht bei Änderungen der Anlage eine Übersicht der betroffenen Vorschriften des Energiesteuer- und des Stromsteuerrechts jeweils gesondert im Bundesanzeiger und im Internet auf den Seiten der Zollverwaltung unter zoll.de.
+die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und zugleich staatliche Beihilfen im Sinne des Artikels 107 des AEUV darstellen. Steuerbegünstigungen nach Satz 1 sind der Anlage zu dieser Verordnung zu entnehmen. Das Bundesministerium der Finanzen veröffentlicht bei Änderungen der Anlage eine Übersicht der betroffenen Vorschriften des Energiesteuer- und des Stromsteuerrechts jeweils gesondert im Bundesanzeiger und im Internet auf den Seiten der Zollverwaltung unter zoll.de.
 
 (2) Begünstigt im Sinne dieser Verordnung ist, wer eine Steuerbegünstigung im Sinne des Absatzes 1 in Anspruch nimmt.
 
@@ -45,9 +43,17 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (5) Zuständiges Hauptzollamt im Sinne dieser Verordnung ist das Hauptzollamt nach § 1a der Energiesteuer-Durchführungsverordnung und nach § 1 der Stromsteuer-Durchführungsverordnung.
 
+(6) Fischerei und Aquakultur ist die Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen, die aufgeführt sind in Anhang I der Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/560 (ABl. L 130 vom 24.4.2020, S. 11) geändert worden ist, in der jeweils geltenden Fassung.
+
+(7) Primärerzeugung landwirtschaftlicher Erzeugnisse ist die Erzeugung von in Anhang I des AEUV aufgeführten Erzeugnissen des Bodens und der Viehzucht, ohne weitere Vorgänge, die die Beschaffenheit solcher Erzeugnisse verändern.
+
 # § 3 – Grundsätze
 
-(1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn die Höhe der einzelnen Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000 Euro oder mehr beträgt.
+(1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn die Höhe der einzelnen Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000 Euro oder mehr beträgt. Weitere Anzeige- oder Erklärungspflichten nach Satz 1 bestehen, wenn das Aufkommen im Kalenderjahr der einzelnen gewährten Steuerbegünstigung ab dem Kalenderjahr 2022 jeweils mehr als
+
+1. 30 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen Begünstigten nach § 2 Absatz 6 und wenn die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+
+2. 60 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7 und wenn die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird.
 
 (2) Abzugeben ist
 
@@ -65,7 +71,13 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 3. die weiteren Angaben, die von der Kommission in den in § 1 Absatz 1 zitierten Rechtsakten aufgeführt sind.
 
-(5) Eine Veröffentlichung erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist, mindestens 500 000 Euro beträgt. Die Veröffentlichung erfolgt in Aufkommensschritten von 500 000 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet.
+(5) Eine Veröffentlichung erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist, mehr als 500 000 Euro beträgt. Die Veröffentlichung erfolgt in Aufkommensschritten von 500 001 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet.
+
+(6) Eine Veröffentlichung nach den Absätzen 4 und 5 erfolgt auch in den Fällen einer Anzeige- oder Erklärungspflicht nach Absatz 1 Satz 2 Nummer 1 und 2. Eine Veröffentlichung erfolgt unabhängig von den Aufkommensschritten nach Absatz 5 Satz 2 zusätzlich
+
+1. in den Fällen nach Absatz 1 Satz 2 Nummer 1 im Aufkommensschritt von 30 001 Euro bis 500 000 Euro;
+
+2. in den Fällen nach Absatz 1 Satz 2 Nummer 2 im Aufkommensschritt von 60 001 Euro bis 500 000 Euro.
 
 # § 4 – Anzeigepflicht für Steuerbegünstigungen
 
@@ -83,9 +95,13 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 5. die Höhe der daraus resultierenden Steuerbegünstigung in Euro,
 
-6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes und
+6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes,
 
-7. ob der Begünstigte zum Zeitpunkt der Inanspruchnahme der Steuerbegünstigung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt.
+7. ob der Begünstigte zum Zeitpunkt der Inanspruchnahme der Steuerbegünstigung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt,
+
+8. ob der Begünstigte in der Fischerei und Aquakultur im Sinne des § 2 Absatz 6 tätig ist und
+
+9. ob der Begünstigte in der Primärerzeugung landwirtschaftlicher Erzeugnisse im Sinne des § 2 Absatz 7 tätig ist.
 
 (3) Für die Ermittlung der Angaben nach Absatz 2 Nummer 4 und 5 gilt § 39 Absatz 6 des Energiesteuergesetzes und § 8 Absatz 4a des Stromsteuergesetzes entsprechend. Das Verfahren nach Satz 1 dürfen Begünstigte ausnahmsweise auch dann sinngemäß anwenden, wenn ihnen zum Abgabetermin nach § 3 Absatz 3 für die Anzeige keine abschließenden Angaben zu Absatz 2 Nummer 4 und 5 möglich sind.
 
@@ -115,9 +131,13 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 5. die Höhe der daraus resultierenden, im vorangegangenen Kalenderjahr ausgezahlten Steuerentlastung in Euro,
 
-6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes und
+6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes,
 
-7. ob der Begünstigte zum Zeitpunkt der Gewährung der Steuerentlastung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt.
+7. ob der Begünstigte zum Zeitpunkt der Gewährung der Steuerentlastung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt,
+
+8. ob der Begünstigte in der Fischerei und Aquakultur im Sinne des § 2 Absatz 6 tätig ist und
+
+9. ob der Begünstigte in der Primärerzeugung landwirtschaftlicher Erzeugnisse im Sinne des § 2 Absatz 7 tätig ist.
 
 (3) Das zuständige Hauptzollamt kann darüber hinaus weitere Angaben und Unterlagen verlangen, soweit diese zur Dokumentation der Veröffentlichungs-, Informations- und Transparenzpflichten gegenüber der Kommission oder zur Nachweisführung erforderlich sind.
 
@@ -141,7 +161,7 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 # § 9 – Datenübermittlung im innerstaatlichen Bereich
 
-(1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten an die innerstaatliche Stelle, der die Übermittlung der vorgenannten Daten an die Kommission obliegt. Diese Stelle ist das Bundesministerium der Finanzen. Es kann die Aufgabe auf die Generalzolldirektion übertragen. Die Übertragung ist im Bundesanzeiger sowie im Internet auf den Seiten der Zollverwaltung unter zoll.de zu veröffentlichen.
+(1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten an die innerstaatliche Stelle, der die Übermittlung der vorgenannten Daten an die Kommission obliegt. Diese Stelle ist die Generalzolldirektion.
 
 (2) Die Zollverwaltung kann dem Statistischen Bundesamt bereits aufbereitete und anonymisierte Daten zur Darstellung und Veröffentlichung für statistische Zwecke übermitteln, soweit dies nach dem Bundesstatistikgesetz zulässig ist.
 
@@ -149,7 +169,7 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 # § 10 – Datenübermittlung an die Kommission
 
-Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt das Bundesministerium der Finanzen die nach den §§ 3 bis 5 erhobenen Daten an die Kommission oder an eine nachgeordnete Behörde der Europäischen Union, die die Kommission zur Verarbeitung der Daten bestimmt hat. Das Bundesministerium der Finanzen kann diese Aufgabe auf die Generalzolldirektion übertragen.
+Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die Generalzolldirektion die nach den §§ 3 bis 5 erhobenen Daten an die Kommission oder an eine nachgeordnete Behörde der Europäischen Union, die die Kommission zur Verarbeitung der Daten bestimmt hat.
 
 # § 11 – Berichtigung, Speicherung und Löschung der erhobenen Daten
 
