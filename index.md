@@ -2308,6 +2308,7 @@
 - [GAPDZV](laws/GAPDZV.md) Verordnung zur Durchführung der GAP-Direktzahlungen
 - [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
 - [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
+- [GAPKondV](laws/GAPKondV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
 - [GAPStatG](laws/GAPStatG.md) Gesetz über die Statistiken zu Gesundheitsausgaben und ihrer Finanzierung, zu Krankheitskosten sowie zum Personal im Gesundheitswesen
 - [GarBBAnO](laws/GarBBAnO.md) Anordnung über den Bau und Betrieb von Garagen
 - [GArchDVDV](laws/GArchDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes
