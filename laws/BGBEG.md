@@ -2431,7 +2431,8 @@ Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zu
 
 # Anlage 1 – (zu Artikel 246a § 1 Absatz 2 Satz 2)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
-(Fundstelle: BGBl. I 2013, S. 3663 – 3664)
+(Fundstelle: BGBl. I 2013, S. 3663 – 3664;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -2442,12 +2443,14 @@ Gestaltungshinweise:
 
 # Anlage 2 – (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
 
-(Fundstelle: BGBl. I 2013, S. 3665)  
+(Fundstelle: BGBl. I 2013, S. 3665;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)  
   
 
 # Anlage 3 – (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
 
-(Fundstelle: BGBl. I 2021, 1670 - 1671)
+(Fundstelle: BGBl. I 2021, 1670 - 1672;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -2537,7 +2540,8 @@ Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese 
 
 # Anlage 3a – (zu Artikel 246b § 2 Absatz 3 Satz 1)Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Zahlungsdiensterahmenverträgen
 
-(Fundstelle: BGBl. I 2021, 1673 - 1677)
+(Fundstelle: BGBl. I 2021, 1673 - 1677;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -2639,7 +2643,8 @@ Das Muster für die Widerrufsbelehrung gemäß dieser Anlage ist auch auf Vertr�
 
 # Anlage 3b – (zu Artikel 246b § 2 Absatz 3 Satz 1)Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Einzelzahlungsverträgen
 
-(Fundstelle: BGBl. I 2021, 1678 - 1681)
+(Fundstelle: BGBl. I 2021, 1678 - 1681;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gestaltungshinweise:
 
@@ -3282,11 +3287,13 @@ Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen 
 
 # Anlage 7 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2021, 1682 - 1686)
+(Fundstelle: BGBl. I 2021, 1682 - 1686;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 8 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2016, S. 433 - 435)
+(Fundstelle: BGBl. I 2016, S. 433 - 435;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
 
@@ -3552,7 +3559,8 @@ Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann n
 
 # Anlage 9 – (zu Artikel 246 Absatz 3)Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
 
-(Fundstelle: BGBl. I 2016, S. 436 - 438)
+(Fundstelle: BGBl. I 2016, S. 436 - 438;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
 

@@ -159,9 +159,9 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
-(+++ § 4 Abs. 1 Satz 1 und Abs. 2: Zur Geltung vgl. § 7 Abs. 1 Satz 3 +++)  
-(+++ § 4 Abs. 1 Satz 1 und Abs. 2: Zur Geltung vgl. § 7 Abs. 3 Satz 3 +++)  
-(+++ § 4 Abs. 1 Satz 1 und Abs. 2: Zur Geltung vgl. § 28 Abs. 1 Satz 3 +++)
+(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 7 Abs. 1 +++)  
+(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 7 Abs. 3 +++)  
+(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 28 Abs. 1 +++)
 
 # § 5 – Frist für die Anlage von Ersatzflächen
 
@@ -685,13 +685,21 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2022, 2259)
 
+ 
+
 Die Erosionsgefährdung durch Wind ist nach DIN 19706 (Bodenbeschaffenheit – Ermittlung der Erosionsgefährdung von Böden durch Wind, DIN – Deutsches Institut für Normung e.V., Februar 2013), zu ermitteln.
 
+ 
+
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2244-1_0010.jpg)
+
+ 
+
+ 
+
+Winderosionsgefährdungsklasse<span id="FnR.F824237_04"></span><a href="#F824237_04" class="FnR">4</a></sup>
 
 |                               |                      |
 |:-----------------------------:|:--------------------:|
 | Winderosionsgefährdungsklasse | Stufe nach DIN 19706 |
 |       K<sub>Wind</sub>        |   E<sub>nat</sub>5   |
-
-Winderosionsgefährdungsklasse<span id="FnR.F824237_04"></span><a href="#F824237_04" class="FnR">4</a></sup>
