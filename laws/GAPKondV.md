@@ -131,9 +131,9 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (3) Dem Antrag sind, soweit erforderlich, beizufügen:
 
-1. in den Fällen des Absatzes 1 Nummer 4 die schriftliche Zustimmungserklärung des Eigentümers,
+1. in den Fällen des Absatzes 2 Nummer 4 die schriftliche oder elektronische Zustimmungserklärung des Eigentümers,
 
-2. in den Fällen des Absatzes 1 Nummer 5 die schriftliche Bereitschaftserklärung des Begünstigten,
+2. in den Fällen des Absatzes 2 Nummer 5 die schriftliche oder elektronische Bereitschaftserklärung des Begünstigten,
 
 3. die schriftliche Verpflichtung des Eigentümers nach § 4 Absatz 6 Satz 2 oder
 
@@ -149,13 +149,13 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (2) Für die Umwandlung einer Ersatzfläche gilt § 5 Absatz 1 Satz 2 Nummer 3 des GAP-Konditionalitäten-Gesetzes entsprechend.
 
-(3) Soweit die Ersatzfläche nicht im Eigentum der antragstellenden Person steht, ist die schriftliche Zustimmung des Eigentümers der Fläche zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
+(3) Soweit die Ersatzfläche nicht im Eigentum der antragstellenden Person steht, ist die schriftliche oder elektronische Zustimmung des Eigentümers der Fläche zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
 
-(4) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, ist die schriftliche Bereitschaftserklärung des Begünstigten, zu dessen Betrieb die Fläche gehört, zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
+(4) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, ist die schriftliche oder elektronische Bereitschaftserklärung des Begünstigten, zu dessen Betrieb die Fläche gehört, zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
 
 (5) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, muss sie zu dem Betrieb eines Begünstigten gehören, der in Bezug auf diese Fläche an dem auf die Genehmigung folgenden Schlusstermin für den Sammelantrag nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes den Anforderungen des § 3 Absatz 1 des GAP-Konditionalitäten-Gesetzes unterliegt.
 
-(6) Die antragstellende Person hat sich gegenüber der zuständigen Behörde schriftlich zu verpflichten, im Falle eines Wechsels des Eigentums oder des Besitzes an einer Ersatzfläche während der Laufzeit der Verpflichtung nach Absatz 1 jeden nachfolgenden Eigentümer und den nachfolgenden Besitzer darüber zu unterrichten, dass und seit wann die Ersatzfläche der Verpflichtung nach Absatz 1 unterliegt. Soweit die Ersatzfläche nicht im Eigentum der antragstellenden Person steht, hat die antragstellende Person der zuständigen Behörde eine schriftliche Verpflichtung des Eigentümers des Ersatzgrundstücks zur Unterrichtung jedes nachfolgenden Eigentümers nach Satz 1 vorzulegen.
+(6) Die antragstellende Person hat sich gegenüber der zuständigen Behörde schriftlich oder elektronisch zu verpflichten, im Falle eines Wechsels des Eigentums oder des Besitzes an einer Ersatzfläche während der Laufzeit der Verpflichtung nach Absatz 1 jeden nachfolgenden Eigentümer und den nachfolgenden Besitzer darüber zu unterrichten, dass und seit wann die Ersatzfläche der Verpflichtung nach Absatz 1 unterliegt. Soweit die Ersatzfläche nicht im Eigentum der antragstellenden Person steht, hat die antragstellende Person der zuständigen Behörde eine schriftliche oder elektronische Verpflichtung des Eigentümers des Ersatzgrundstücks zur Unterrichtung jedes nachfolgenden Eigentümers nach Satz 1 vorzulegen.
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
@@ -209,9 +209,11 @@ Die Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes 
 
 2. nach § 7 rückumgewandelt wurde,
 
-3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde oder
+3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde,
 
-4. auf Grund einer Förderung gemäß § 1 Absatz 1 Satz 1 Nummer 3 des GAP-Konditionalitäten-Gesetzes aus Ackerland zu Dauergrünland umgewandelt wurde.
+4. auf Grund einer Förderung gemäß § 1 Absatz 1 Satz 1 Nummer 3 des GAP-Konditionalitäten-Gesetzes aus Ackerland zu Dauergrünland umgewandelt wurde oder
+
+5. ohne Genehmigung umgewandelt wurde und dessen Fläche größer als 500 Quadratmeter ist.
 
 (2) Absatz 1 gilt nur in dem Zeitraum, in dem die Flächen als Dauergrünland genutzt werden müssen.
 
@@ -237,7 +239,7 @@ Die Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes 
 
 a) die anlassbezogene Anpassung der Gebietskulisse und
 
-b) die Zuordnung landwirtschaftlicher Parzellen zur Gebietskulisse und
+b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 
 3. Ausnahmen von § 10 Absatz 1 des GAP-Konditionalitäten-Gesetzes für ältere Treposole, die nachweislich vor dem 1. Januar 2020 angelegt wurden.
 
@@ -255,9 +257,13 @@ b) die Zuordnung landwirtschaftlicher Parzellen zur Gebietskulisse und
 
 4. in einem von einer Landesregierung aus Naturschutzgründen durch Rechtsverordnung ausgewiesenen Gebiet liegt.
 
-# § 13 – Überprüfung der fachrechtlichen Genehmigung für die Neuanlage, Erneuerung oder Vertiefung von Anlagen zur Entwässerung
+# § 13 – Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen
 
-Ein Begünstigter, der ab dem 1. Januar 2022 eine Anlage zur Entwässerung von landwirtschaftlichen Flächen in der Gebietskulisse nach § 11 neu anlegt, erneuert oder vertieft, hat im Falle einer Kontrolle nach § 14 Absatz 1 Satz 1 des GAP-Konditionalitäten-Gesetzes nachzuweisen, dass die Genehmigung vorliegt, sofern eine solche nach Landesrecht erforderlich ist.
+(1) Wer eine landwirtschaftliche Fläche in einer nach § 11 festgelegten Gebietskulisse erstmalig durch eine Drainage oder einen Graben entwässern will, bedarf der Genehmigung durch die zuständige Behörde. Die zuständige Behörde darf die Genehmigung nur unter Beachtung klimarelevanter Belange, insbesondere der Vermeidung von Kohlendioxidemissionen, erteilen. Die Genehmigung bedarf des Einvernehmens der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde. Wasserrechtliche Zulassungspflichten bleiben unberührt.
+
+(2) Wer eine bestehende Drainage oder einen bestehenden Graben zur Entwässerung einer landwirtschaftlichen Fläche in einer nach § 11 festgelegten Gebietskulisse in der Art und Weise erneuern oder instand setzen will, dass dadurch eine Tieferlegung des vorhandenen Entwässerungsniveaus erfolgt, bedarf der Genehmigung durch die zuständige Behörde. Die zuständige Behörde darf die Genehmigung nach Satz 1 nur erteilen, sofern die aufgrund der Erneuerung oder Instandsetzung der Drainage oder des Grabens erfolgende Tieferlegung des vorhandenen Entwässerungsniveaus für die Fortsetzung der landwirtschaftlichen Tätigkeit auf der betroffenen Fläche zwingend erforderlich ist, dies zu keiner erheblichen Beeinträchtigung der Natur und der sonstigen Umwelt führt und klimarelevante Belange im Sinne des Absatzes 1 Satz 2 beachtet werden. Die Genehmigung bedarf des Einvernehmens der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde. Absatz 1 Satz 4 gilt entsprechend.
+
+(3) Bei einer Kontrolle nach § 14 Absatz 1 Satz 1 des GAP-Konditionalitäten-Gesetzes hat der Begünstigte die Genehmigung nach Absatz 1 oder Absatz 2 den zur Kontrolle befugten Personen vorzulegen.
 
 # § 14 – Verbot des Abbrennens von Stoppelfeldern
 
@@ -279,11 +285,11 @@ Stoppelfelder dürfen nicht abgebrannt werden.
 
 In der Rechtsverordnung nach Satz 2 sind die Gebiete zu bezeichnen, die den Erosionsgefährdungsklassen zugehören.
 
-(2) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K<sub>Wasser1</sub> nach Anlage 3 gehört und die nicht in eine Fördermaßnahme zum Erosionsschutz einbezogen ist, darf vom 1. Dezember bis zum 15. Februar nicht gepflügt werden. Das Pflügen nach der Ernte der Vorfrucht ist nur bei einer Aussaat vor dem 1. Dezember zulässig.
+(2) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K<sub>Wasser1</sub> nach Anlage 3 gehört, darf vom 1. Dezember bis zum 15. Februar nicht gepflügt werden. Das Pflügen nach der Ernte der Vorfrucht ist nur bei einer Aussaat vor dem 1. Dezember zulässig.
 
-(3) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K<sub>Wasser2</sub> nach Anlage 3 gehört und die nicht in eine Fördermaßnahme zum Erosionsschutz einbezogen ist, darf vom 1. Dezember bis zum 15. Februar nicht gepflügt werden. Das Pflügen zwischen dem 16. Februar und dem Ablauf des 30. November ist nur bei einer unmittelbar folgenden Aussaat zulässig. Spätester Zeitpunkt der Aussaat ist der 30. November. Vor der Aussaat von Kulturen mit einem Reihenabstand von 45 Zentimetern und mehr (Reihenkultur) ist das Pflügen verboten.
+(3) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K<sub>Wasser2</sub> nach Anlage 3 gehört, darf vom 1. Dezember bis zum 15. Februar nicht gepflügt werden. Das Pflügen zwischen dem 16. Februar und dem Ablauf des 30. November ist nur bei einer unmittelbar folgenden Aussaat zulässig. Spätester Zeitpunkt der Aussaat ist der 30. November. Vor der Aussaat von Kulturen mit einem Reihenabstand von 45 Zentimetern und mehr (Reihenkultur) ist das Pflügen verboten.
 
-(4) Eine Ackerfläche, die zur Winderosionsgefährdungsklasse K<sub>Wind</sub> nach Anlage 4 gehört und die nicht in eine Fördermaßnahme zum Erosionsschutz einbezogen ist, darf nur bei einer Aussaat vor dem 1. März gepflügt werden. Abweichend von Satz 1 ist das Pflügen, außer bei Reihenkulturen, ab dem 1. März nur bei einer unmittelbar folgenden Aussaat zulässig. Das Verbot des Pflügens bei Reihenkulturen gilt nicht, soweit
+(4) Eine Ackerfläche, die zur Winderosionsgefährdungsklasse K<sub>Wind</sub> nach Anlage 4 gehört, darf nur bei einer Aussaat vor dem 1. März gepflügt werden. Abweichend von Satz 1 ist das Pflügen, außer bei Reihenkulturen, ab dem 1. März nur bei einer unmittelbar folgenden Aussaat zulässig. Das Verbot des Pflügens bei Reihenkulturen gilt nicht, soweit
 
 1. Grünstreifen vor dem 1. Oktober quer zur Hauptwindrichtung im Abstand von höchstens 100 Metern zueinander und in einer Breite von jeweils mindestens 2,5 Metern eingesät werden,
 
@@ -307,7 +313,7 @@ c) besonderen Erfordernissen des Pflanzenschutzes nach § 1 Nummer 1 und 2 des 
 
 # § 17 – Mindestanforderungen an die Bodenbedeckung in den sensibelsten Zeiten
 
-(1) Der Begünstigte hat in der Zeit vom 1. Dezember des Antragsjahres bis 15. Januar des darauffolgenden Jahres auf seinem Ackerland eine Mindestbodenbedeckung sicherzustellen. Diese kann insbesondere erfolgen durch
+(1) In der Zeit vom 15. November des Antragsjahres bis zum 15. Januar des folgenden Jahres hat der Begünstigte auf mindestens 80 Prozent des Ackerlandes seines Betriebes eine Mindestbodenbedeckung sicherzustellen. Die Mindestbodenbedeckung nach Satz 1 hat zu erfolgen durch:
 
 1. mehrjährige Kulturen,
 
@@ -315,51 +321,51 @@ c) besonderen Erfordernissen des Pflanzenschutzes nach § 1 Nummer 1 und 2 des 
 
 3. Zwischenfrüchte,
 
-4. Stoppelbrachen von Körnerleguminosen und Getreide ohne Mais,
+4. Stoppelbrachen von Körnerleguminosen oder Getreide,
 
-5. Begrünungen, die nicht unter Nummer 1 bis 4 fallen, oder
+5. Begrünungen, die nicht unter Nummer 1 bis 4 fallen,
 
-6. Mulchauflagen.
+6. Mulchauflagen einschließlich solcher durch das Belassen von Ernteresten,
 
-Sofern eine Stoppelbrache nach Nummer 4 als Mindestbodenbedeckung gewählt wird, ist eine Bodenbearbeitung untersagt.
+7. eine mulchende nicht wendende Bodenbearbeitung oder
 
-(2) Absatz 1 gilt nicht für
+8. eine Abdeckung durch Folien, Vlies oder durch engmaschiges Netz oder ähnliches zur Sicherung der landwirtschaftlichen Produktion.
 
-1. Ackerland mit späträumenden Kulturen, die im Regelfall nach dem 1. Oktober geerntet werden und bei denen eine Mulchauflage aus Ernteresten bis zum 15. Januar auf der Fläche verbleibt,
+Sofern eine Stoppelbrache nach Satz 2 Nummer 4 oder Mulchauflage nach Nummer 6 als Mindestbodenbedeckung erfolgt, ist eine Bodenbearbeitung untersagt.
 
-2. Ackerland mit Dämmen für den Anbau von Kartoffeln, die vor dem in Absatz 1 genannten Zeitraum vorgeformt werden und
+(2) Abweichend von Absatz 1 Satz 1 kann der Begünstigte auf
 
-3. Ackerland, das in eine Fördermaßnahme zum Erosionsschutz im Sinne von § 16 einbezogen ist.
+1. Ackerland mit zur Bestellung im folgenden Jahr vorgeformten Dämmen in der Zeit vom 15. November des Antragsjahres bis zum 15. Januar des folgenden Jahres zwischen den Dämmen eine Selbstbegrünung zulassen,
 
-(3) Die Landesregierungen können durch Rechtsverordnung nach Maßgabe des § 23 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des GAP-Konditionalitäten-Gesetzes Ausnahmen von Absatz 1 festlegen, soweit dies erforderlich ist, um in bestimmten Gebieten Folgendem Rechnung zu tragen:
+2. Ackerland mit im folgenden Jahr angebauten frühen Sommerkulturen nach Anlage 5 eine Mindestbodenbedeckung nach Absatz 1 Satz 2 in der Zeit vom 15. September bis zum 15. November des Antragsjahres sicherstellen,
 
-1. witterungsbedingten Besonderheiten,
+3. Ackerland auf schweren Böden nach Anlage 6 oder solchen mit mindestens 17 Prozent Tongehalt in der Zeit beginnend unmittelbar nach der Ernte bis zum 1. Oktober des Antragsjahres eine Mindestbodenbedeckung nach Absatz 1 Satz 2 sicherstellen.
 
-2. besonderen Anforderungen bestimmter Kulturen, oder
+(3) In der Zeit vom 15. November des Antragsjahres bis zum 15. Januar des folgenden Jahres hat der Begünstige auf den Dauerkulturflächen seines Betriebes, die als Rebflächen oder für Obstbaumkulturen genutzt werden, zwischen den Reihen eine Selbstbegrünung zuzulassen, sofern nicht bereits eine Begrünung durch Aussaat besteht.
 
-3. besonderen Erfordernissen des Pflanzenschutzes im Sinne von § 1 Nummer 1 und 2 des Pflanzenschutzgesetzes.
-
-(4) Brachliegendes Ackerland ist der Selbstbegrünung zu überlassen oder durch Ansaat zu begrünen. In dem Zeitraum vom 1. April bis zum 15. August eines Jahres ist das Mähen oder das Zerkleinern des Aufwuchses auf diesen Flächen verboten. Ein Umbruch mit unverzüglich folgender Ansaat ist zu Pflegezwecken und zur Erfüllung von Verpflichtungen im Rahmen von Agrarumwelt- und Klimamaßnahmen oder der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b oder c des GAP-Direktzahlungen-Gesetzes außerhalb des in Satz 2 genannten Zeitraums zulässig. Innerhalb des in Satz 2 genannten Zeitraums ist ein Umbruch mit unverzüglicher Ansaat nur zulässig, wenn der Begünstigte verpflichtet ist, ein- oder mehrjährige Blühstreifen oder Blühflächen im Rahmen einer Agrarumwelt- und Klimamaßnahme oder der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b oder c des GAP-Direktzahlungen-Gesetzes anzulegen. Die Sätze 3 und 4 sind nicht auf Streifen oder Teilflächen anzuwenden, die als Teil einer zusammenhängenden und bis auf diese Streifen oder Teilflächen einheitlich bewirtschafteten Ackerfläche des Begünstigten dazu bestimmt sind, einen Beitrag zur Biodiversität oder zur Regulierung von Schwarzwildbeständen zu leisten. Eine Bodenbearbeitung mit anschließender Selbstbegrünung ist im Zeitraum vom 1. April bis zum 20. April eines Jahres zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen zum Schutz von gefährdeten Tierarten der Feldflur, wie dem Feldhamster, zulässig. Pflegemaßnahmen durch Schröpfschnitt sind im Zeitraum vom 1. Juli eines Jahres bis zum 28. Februar des Folgejahres bei der Anlage von mehrjährigen Blühstreifen oder Blühflächen zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen zulässig, soweit sie Bestandteil der Verpflichtungen sind.
+(4) Brachliegendes Ackerland ist der Selbstbegrünung zu überlassen oder durch Aussaat zu begrünen. In dem Zeitraum vom 1. April bis zum 15. August eines Jahres ist das Mähen oder das Zerkleinern des Aufwuchses auf diesen Flächen verboten. Ein Umbruch mit unverzüglich folgender Aussaat ist zu Pflegezwecken und zur Erfüllung von Verpflichtungen im Rahmen von Agrarumwelt- und Klimamaßnahmen oder der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b oder c des GAP-Direktzahlungen-Gesetzes außerhalb des in Satz 2 genannten Zeitraums zulässig. Innerhalb des in Satz 2 genannten Zeitraums ist ein Umbruch mit unverzüglicher Aussaat nur zulässig, wenn der Begünstigte verpflichtet ist, ein- oder mehrjährige Blühstreifen oder Blühflächen im Rahmen einer Agrarumwelt- und Klimamaßnahme oder der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b oder c des GAP-Direktzahlungen-Gesetzes anzulegen. Die Sätze 3 und 4 sind nicht auf Streifen oder Teilflächen anzuwenden, die als Teil einer zusammenhängenden und bis auf diese Streifen oder Teilflächen einheitlich bewirtschafteten Ackerfläche des Begünstigten dazu bestimmt sind, einen Beitrag zur Biodiversität oder zur Regulierung von Schwarzwildbeständen zu leisten. Eine Bodenbearbeitung mit anschließender Selbstbegrünung ist im Zeitraum vom 1. April bis zum 20. April eines Jahres zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen zum Schutz von gefährdeten Tierarten der Feldflur, wie dem Feldhamster, zulässig. Pflegemaßnahmen durch Schröpfschnitt sind im Zeitraum vom 1. Juli eines Jahres bis zum 28. Februar des Folgejahres bei der Anlage von mehrjährigen Blühstreifen oder Blühflächen zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen zulässig, soweit sie Bestandteil der Verpflichtungen sind.
 
 (5) Absatz 4 Satz 2 gilt entsprechend für Dauergrünlandflächen, auf denen keine Erzeugung stattfindet.
 
 # § 18 – Fruchtwechsel auf Ackerland
 
-(1) Der Begünstigte ist verpflichtet, im Antragsjahr auf jeder landwirtschaftlichen Parzelle des Ackerlands seines Betriebes eine andere Hauptkultur als im Vorjahr anzubauen. Anlage 5 Nummer 2.4 bis 2.6 der GAP-Direktzahlungen-Verordnung gilt entsprechend. Der Fruchtwechsel nach Satz 1 kann auch durch den Anbau einer Zweitkultur erbracht werden, sofern diese noch im selben Jahr zur Ernte führt.
+(1) Der Begünstigte ist verpflichtet, im Antragsjahr auf mindestens 33 Prozent des Ackerlands seines Betriebes eine andere Hauptkultur als im Vorjahr anzubauen. Anlage 5 Nummer 2.4 bis 2.8. der GAP-Direktzahlungen-Verordnung gilt entsprechend.
 
-(2) Auf höchstens der Hälfte des Ackerlands eines Betriebes kann ein Fruchtwechsel nach Absatz 1 auch durch den Anbau einer Zwischenfrucht oder durch die Begrünung infolge einer Untersaat in einer Hauptkultur erbracht werden. Die Aussaat der Zwischenfrucht oder die Begrünung infolge einer Untersaat muss vor dem 15. Oktober erfolgen. Die Zwischenfrucht oder die Begrünung infolge einer Untersaat ist bis zum 15. Februar des Folgejahres auf der Fläche zu belassen.
+(2) Der Begünstigte ist verpflichtet, auf zu der Anforderung des Absatzes 1 Satz 1 zusätzlichen mindestens 33 Prozent des Ackerlandes seines Betriebes einen Fruchtwechsel entweder durch den Anbau einer anderen Hauptkultur als im Vorjahr oder den Anbau einer Zwischenfrucht oder durch die Begrünung infolge einer Untersaat in der Hauptkultur vorzunehmen. Die Aussaat der Zwischenfrucht oder die Begrünung infolge einer Untersaat muss vor dem 15. Oktober erfolgen. Die Zwischenfrucht oder die Begrünung infolge einer Untersaat ist bis zum 15. Februar des Folgejahres auf der Fläche zu belassen. Beim Anbau einer Zwischenfrucht oder der Begrünung infolge einer Untersaat hat der Begünstige spätestens im dritten Jahr einen Wechsel der Hauptkultur vorzunehmen.
 
-(3) Die Landesregierungen können in begründeten Fällen durch Rechtsverordnung nach § 23 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des GAP-Konditionalitäten-Gesetzes für einzelne von den Ländern zu definierenden Kulturen einen mehrjährigen Fruchtwechsel zur Erhaltung des Bodenpotenzials auf höchstens der Hälfte des Ackerlands eines Betriebes und unter Berücksichtigung von Vorgaben zur Erhaltung des Humusgehaltes regeln, um besonderen regionalen Gegebenheiten Rechnung zu tragen. Für den mehrjährigen Fruchtwechsel nach Satz 1 hat der Begünstigte, wenn er auf einer Fläche zwei Jahre hintereinander die gleiche Hauptkultur angebaut hat, spätestens im dritten Jahr eine andere Hauptkultur anzubauen.
+(3) Der Begünstigte ist verpflichtet, auf dem nach Anwendung der Absätze 1 und 2 verbleibenden Ackerland seines Betriebes spätestens im dritten Jahr eine andere Hauptkultur anzubauen.
 
-(4) Die Landesregierungen können durch Rechtsverordnung nach Maßgabe des § 23 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des GAP-Konditionalitäten-Gesetzes Ausnahmen von Absatz 1 für folgende Hauptkulturen festlegen:
+(4) Die Verpflichtungen nach den Absätzen 1 bis 3 gelten nicht auf Ackerland mit folgenden Hauptkulturen:
 
 1. Mais zur Herstellung anerkannten Saatgutes nach § 4 des Saatgutverkehrsgesetzes,
 
-2. Tabak und
+2. Tabak,
 
 3. Roggen in Selbstfolge.
 
-(5) Die Verpflichtung nach Absatz 1 gilt nicht bei mehrjährigen Kulturen, Gras oder anderen Grünfutterpflanzen oder brachliegenden Flächen. Satz 1 umfasst auch
+Die Verpflichtung nach Absatz 1 gilt als erfüllt, wenn auf der Ackerfläche beetweise verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz- oder Zierpflanzen angebaut werden, sowie wenn die Ackerfläche als Versuchsflächen mit mehreren beihilfefähigen Kulturarten genutzt wird.
+
+(5) Die Verpflichtungen nach den Absätzen 1 bis 3 gelten nicht bei mehrjährigen Kulturen, Gras oder anderen Grünfutterpflanzen oder brachliegenden Flächen. Satz 1 umfasst auch
 
 1. Gras oder andere Grünfutterpflanzen bei dem Anbau zur Erzeugung von Saatgut,
 
@@ -367,7 +373,7 @@ Sofern eine Stoppelbrache nach Nummer 4 als Mindestbodenbedeckung gewählt wird,
 
 3. Kleegras und Luzerne in Reinsaat oder in Mischungen von Leguminosen, jedoch nur, solange diese Leguminosen vorherrschen.
 
-(6) Die Verpflichtung nach Absatz 1 gilt nicht auf Ackerland
+(6) Die Verpflichtungen nach den Absätzen 1 bis 3 gelten nicht auf Ackerland
 
 1. mit einer Gesamtgröße von bis zu 10 Hektar,
 
@@ -389,7 +395,7 @@ b) für die Erzeugung von Gras oder anderen Grünfutterpflanzen genutzt werden o
 
 c) einer Kombination der Nutzungen nach den Buchstaben a und b unterfallen.
 
-(7) Für Begünstigte, deren Betriebe nach der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47), die durch die Verordnung (EU) 2020/1693 (ABl. L 381 vom 13.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung zertifiziert sind, gelten die Verpflichtungen nach Absatz 1 als erfüllt.
+(7) Für Begünstigte, deren Betriebe nach der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47), die durch die Verordnung (EU) 2020/1693 (ABl. L 381 vom 13.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung zertifiziert sind, gelten die Verpflichtungen nach den Absätzen 1 bis 3 als erfüllt.
 
 # § 19 – Anpassung des Mindestanteils von nichtproduktiven Flächen und Landschaftselementen an Ackerland nach § 11 Absatz 2 des GAP-Konditionalitäten-Gesetzes
 
@@ -401,15 +407,15 @@ Der in § 11 Absatz 1 des GAP-Konditionalitäten-Gesetzes genannte Prozentsatz w
 
 1. nichtproduktive Fläche in Form von brachliegendem Ackerland, das eine Mindestparzellengröße von 0,1 Hektar aufweist, einschließlich der Landschaftselemente, die nach § 11 Absatz 1 Nummer 2 Buchstabe b der GAP-Direktzahlungen-Verordnung Bestandteil der förderfähigen Fläche des brachliegenden Ackerlands sind, und
 
-2. Landschaftselemente nach § 23 Absatz 1 Satz 2, die in einem unmittelbaren räumlichen Zusammenhang zum Ackerland des Begünstigten und dem Begünstigten zur Verfügung stehen.
+2. Landschaftselemente nach § 23 Absatz 1, die in einem unmittelbaren räumlichen Zusammenhang zum Ackerland des Begünstigten und dem Begünstigten zur Verfügung stehen.
 
 (2) Ein Agroforstsystem auf Ackerland nach § 4 Absatz 2 der GAP-Direktzahlungen-Verordnung wird nicht nach Absatz 1 angerechnet.
 
 # § 21 – Anforderungen an nichtproduktive Flächen
 
-(1) Eine nichtproduktive Fläche muss während des ganzen Antragsjahres, beginnend unmittelbar nach der Ernte der Hauptkultur im Vorjahr, der Selbstbegrünung überlassen werden. Die Bodenbearbeitung und der Einsatz von Dünge- und Pflanzenschutzmitteln sind auf solchen Flächen untersagt.
+(1) Der Begünstigte ist verpflichtet, die nichtproduktiven Flächen seines Betriebes während des gesamten Antragsjahres, beginnend unmittelbar nach der Ernte der Hauptkultur im Vorjahr, der Selbstbegrünung zu überlassen oder durch Aussaat zu begrünen. Die Begrünung durch Aussaat nach Satz 1 darf nicht mittels Reinsaat einer landwirtschaftlichen Kulturpflanze erfolgen. Eine Reinsaat liegt vor, wenn Samen nur einer Spezies verwendet werden. Die Bodenbearbeitung und der Einsatz von Dünge- und Pflanzenschutzmitteln sind auf Flächen nach Satz 1 untersagt. Abweichend von Satz 4 ist eine Bodenbearbeitung zulässig, soweit dadurch die Verpflichtung nach Satz 1 durch Begrünung durch Aussaat erfüllt wird.
 
-(2) Abweichend von Absatz 1 darf ab dem 15. August eines Jahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden.
+(2) Abweichend von Absatz 1 darf ab dem 1. September des Antragsjahres eine Aussaat, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden. Abweichend von Satz 1 darf eine Aussaat von Wintergerste oder Winterraps ab dem 15. August vorbereitet und durchgeführt werden.
 
 (3) Abweichend von Absatz 2 können die zuständigen Behörden ab dem 1. August des jeweiligen Jahres allgemein oder im Einzelfall zulassen, dass in Gebieten, in denen auf Grund außergewöhnlicher Umstände, insbesondere aufgrund ungünstiger Witterungsereignisse, nicht ausreichend Futter zur Verfügung steht oder stehen wird, der Aufwuchs durch eine Beweidung mit Tieren oder durch eine Schnittnutzung für Futterzwecke genutzt wird.
 
@@ -679,7 +685,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 3 – (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wasser
 
-(Fundstelle: BGBl. I 2022, 2258)
+(Fundstelle: BGBl. I 2022, 2258;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 4 – (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wind
 
@@ -703,3 +710,19 @@ Winderosionsgefährdungsklasse<span id="FnR.F824237_04"></span><a href="#F824237
 |:-----------------------------:|:--------------------:|
 | Winderosionsgefährdungsklasse | Stufe nach DIN 19706 |
 |       K<sub>Wind</sub>        |   E<sub>nat</sub>5   |
+
+# Anlage 5 – (zu § 17)Frühe Sommerkulturen
+
+(Fundstelle: BGBl. I 2022, 2276)
+
+Frühe Sommerkulturen, soweit deren Aussaat oder Pflanzung bis zum 31. März, in höheren Lagen (mindestens tiefste Mittelgebirgsstufe, submontan) bis zum 15. April, erfolgt:
+
+1. Sommergetreide ohne Mais und Hirse,
+
+2. Leguminosen ohne Sojabohnen,
+
+3. Sonnenblumen, Sommerraps, Sommerrüben, Körnersenf, Körnerhanf, Leindotter, Lein, Mohn, Heil-, Duft- und Gewürzpflanzen, Küchenkräuter, Faserhanf, Buchweizen, Amaranth, Quinoa, Kleegras, Klee- bzw. Luzernegras-Gemisch, Ackergras, Grünlandeinsaat, Kartoffeln, Rüben, Gemüsekulturen.
+
+# Anlage 6 – (zu § 17)Klassenzeichen für Bodenarten für schwere Böden
+
+(Fundstelle: BGBl. I 2022, 2276)
