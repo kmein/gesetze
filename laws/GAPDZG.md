@@ -83,121 +83,187 @@ Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorgan
 
 Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Übertragung von Mitteln auf die im Recht der Europäischen Union für Deutschland festgesetzte Zuweisung aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums.
 
-# §§ 3 und 3a – (zukünftig in Kraft)
+# § 3 – Übertragung von Mitteln
 
-(+++ §§ 3 und 3a: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+Von der in der Unionsregelung für Deutschland anfänglich festgesetzten Mittelzuweisung für Direktzahlungen für die Kalenderjahre 2023 bis 2026 werden auf die im Recht der Europäischen Union für Deutschland festgesetzte Zuweisung aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums für die Haushaltsjahre 2024 bis 2027 übertragen:
 
-# § 4 – (zukünftig in Kraft)
+1. 10 Prozent der anfänglich festgesetzten Mittelzuweisung für das Kalenderjahr 2023,
 
-(+++ § 4: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+2. 11 Prozent der anfänglich festgesetzten Mittelzuweisung für das Kalenderjahr 2024,
+
+3. 12,5 Prozent der anfänglich festgesetzten Mittelzuweisung für das Kalenderjahr 2025,
+
+4. 15 Prozent der anfänglich festgesetzten Mittelzuweisung für das Kalenderjahr 2026.
+
+# § 3a – Aktiver oder echter Betriebsinhaber
+
+Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder echten Betriebsinhabern zu gewähren sind, so werden die in diesem Gesetz vorgesehenen Direktzahlungen nur aktiven oder echten Betriebsinhabern gewährt.
+
+# § 4 – Einkommensgrundstützung
+
+(1) Ein Betriebsinhaber erhält jährlich auf Antrag eine Einkommensgrundstützung für Nachhaltigkeit (Einkommensgrundstützung).
+
+(2) Die Einkommensgrundstützung wird nicht auf der Grundlage von Zahlungsansprüchen gewährt.
+
+(3) Die Einkommensgrundstützung wird als bundeseinheitlicher Betrag je Hektar förderfähiger Fläche gewährt.
 
 # § 5 – Indikative Mittelzuweisung für die Einkommensgrundstützung
 
-(1) (zukünftig in Kraft)
+(1) Die indikative Mittelzuweisung für die Einkommensgrundstützung für jedes Antragsjahr ist der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen für das jeweilige Jahr abgezogen wurden.
 
-(2) (zukünftig in Kraft)
+(2) Die einschlägige Zuweisung ist die in der Unionsregelung für Deutschland enthaltene anfänglich festgesetzte Mittelzuweisung für Direktzahlungen, die nach der Übertragung von Mitteln nach § 3 für das jeweilige Jahr verbleibt (einschlägige Zuweisung).
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die indikative Mittelzuweisung für die Einkommensgrundstützung, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(4) (zukünftig in Kraft)
-
-(+++ § 5 Abs. 1, 2 und 4: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(4) Das Bundesministerium für Ernährung und Landwirtschaft macht die indikative Mittelzuweisung für die Einkommensgrundstützung, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 # § 6 – Geplanter Einheitsbetrag für die Einkommensgrundstützung
 
-(1) (zukünftig in Kraft)
+(1) Der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung ist der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1 durch die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 geteilt wird.
 
 (2) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 mit.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den geplanten Einheitsbetrag für die Einkommensgrundstützung, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(4) (zukünftig in Kraft)
+(4) Das Bundesministerium für Ernährung und Landwirtschaft macht den geplanten Einheitsbetrag für die Einkommensgrundstützung, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, zusammen mit der indikativen Mittelzuweisung für die Einkommensgrundstützung im Bundesanzeiger bekannt.
 
-(5) (zukünftig in Kraft)
+(5) Zu dem geplanten Einheitsbetrag für die Einkommensgrundstützung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
-(+++ § 6 Abs. 1, 4 und 5: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 7 – Tatsächlicher Einheitsbetrag für die Einkommensgrundstützung
 
-# § 7 – (zukünftig in Kraft)
+Der tatsächliche Einheitsbetrag für die Einkommensgrundstützung ist der nach § 31 berechnete Betrag.
 
-(+++ § 7: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 8 – Umverteilungseinkommensstützung
 
-# § 8 – (zukünftig in Kraft)
+(1) Ein Betriebsinhaber, der Anspruch auf Einkommensgrundstützung hat, erhält jährlich auf Antrag eine ergänzende Umverteilungseinkommensstützung für Nachhaltigkeit (Umverteilungseinkommensstützung).
 
-(+++ § 8: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(2) Die Umverteilungseinkommensstützung wird bundeseinheitlich gewährt:
+
+1. je Hektar förderfähiger Fläche eines Betriebsinhabers im Umfang von höchstens 60 Hektar förderfähiger Fläche unter Aufteilung in die Gruppe der ersten 40 Hektar förderfähiger Fläche (Gruppe 1) und die Gruppe der weiteren 20 Hektar förderfähiger Fläche (Gruppe 2) und
+
+2. auf der Grundlage der Festlegung eines Betrages je Hektar der Gruppe 1 und eines Betrages je Hektar der Gruppe 2.
 
 # § 9 – Indikative Mittelzuweisung für die Umverteilungseinkommensstützung
 
-(1) (zukünftig in Kraft)
+(1) Die indikative Mittelzuweisung für die Umverteilungseinkommensstützung für jedes Antragsjahr ist der Betrag, der 12 Prozent der einschlägigen Zuweisung entspricht.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die indikative Mittelzuweisung für die Umverteilungseinkommensstützung, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(3) (zukünftig in Kraft)
-
-(+++ § 9 Abs. 1 und 3: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(3) Das Bundesministerium für Ernährung und Landwirtschaft macht die indikative Mittelzuweisung für die Umverteilungseinkommensstützung, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 # § 10 – Geplante Einheitsbeträge für die Umverteilungseinkommensstützung
 
-(1) (zukünftig in Kraft)
+(1) Für die Berechnung des geplanten Einheitsbetrags je Hektar der Gruppe 1 wird die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013, die der Zahl nach auf die Gruppe 1 entfällt, und die mit dem Faktor 0,6 multiplizierte Zahl der der Zahl nach auf die Gruppe 2 entfallenden Zahlungsansprüche zusammengezählt.
 
-(2) (zukünftig in Kraft)
+(2) Der geplante Einheitsbetrag je Hektar der Gruppe 1 ist der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 9 Absatz 1 durch die Summe nach Absatz 1 geteilt wird.
 
-(3) (zukünftig in Kraft)
+(3) Der geplante Einheitsbetrag je Hektar der Gruppe 2 hat die Höhe von 60 Prozent des nach Absatz 2 berechneten geplanten Einheitsbetrages der Gruppe 1.
 
 (4) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 in der Aufgliederung nach Absatz 1 mit.
 
 (5) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die geplanten Einheitsbeträge für die Umverteilungseinkommensstützung für die Gruppe 1 und für die Gruppe 2, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergeben.
 
-(6) (zukünftig in Kraft)
+(6) Das Bundesministerium für Ernährung und Landwirtschaft macht die geplanten Einheitsbeträge für die Umverteilungseinkommensstützung für die Gruppe 1 und für die Gruppe 2, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023 ergeben, zusammen mit der indikativen Mittelzuweisung für die Umverteilungseinkommensstützung im Bundesanzeiger bekannt.
 
-(7) (zukünftig in Kraft)
+(7) Zu jedem geplanten Einheitsbetrag für die Umverteilungseinkommensstützung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
-(8) (zukünftig in Kraft)
+(8) Die Gewährung der Umverteilungseinkommensstützung ist ausgeschlossen, wenn ein Betriebsinhaber seinen Betrieb nach dem 1. Juni 2018 nachweislich zu dem Zweck aufgespalten hat, in den Genuss der Umverteilungseinkommensstützung zu kommen. Dies gilt auch für eine Zahlung an einen Betriebsinhaber, dessen Betrieb aus einer solchen Aufspaltung hervorgegangen ist.
 
-(+++ §§ 10 Abs. 1 bis 3 und 6 bis 8: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 11 – Tatsächliche Einheitsbeträge für die Umverteilungseinkommensstützung
 
-# § 11 – (zukünftig in Kraft)
+Die tatsächlichen Einheitsbeträge für die Umverteilungseinkommensstützung für die Gruppe 1 und für die Gruppe 2 sind die nach § 31 berechneten Beträge.
 
-(+++ § 11: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 12 – Junglandwirtinnen und Junglandwirte
 
-# §§ 12 bis 14 – (zukünftig in Kraft)
+(1) Eine Junglandwirtin oder ein Junglandwirt ist eine natürliche Person, die sich erstmals in einem landwirtschaftlichen Betrieb als Betriebsleiterin oder Betriebsleiter niederlässt und im Jahr der Niederlassung nicht älter als 40 Jahre ist.
 
-(+++ §§ 12 bis 14: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(2) Ein Betriebsinhaber, der keine natürliche Person ist, ist Junglandwirt, wenn der Betriebsinhaber erstmals wirksam und langfristig in Bezug auf die Entscheidungen zur Betriebsführung, zur Verwendung von Gewinnen und zu finanziellen Risiken von mindestens einer natürlichen Person – allein oder gemeinschaftlich mit anderen – kontrolliert wird, die
+
+1. im Jahr der Aufnahme dieser Kontrolle nicht älter als 40 Jahre ist,
+
+2. sich zuvor nicht in einem landwirtschaftlichen Betrieb als Betriebsleiterin oder Betriebsleiter niedergelassen hat und
+
+3. zuvor nicht im Sinne dieser Vorschrift einen Betriebsinhaber in einer anderen Rechtsform als der einer natürlichen Person kontrolliert hat.
+
+Eine natürliche Person kontrolliert einen Betriebsinhaber nach Satz 1 auch dann, wenn keine der in Satz 1 genannten Entscheidungen gegen sie getroffen werden kann. Wird ein Betriebsinhaber nach Satz 1 allein oder gemeinschaftlich von einem anderen Unternehmen kontrolliert, das keine natürliche Person ist, so gelten die Voraussetzungen von Satz 1 Nummer 1 bis 3 für eine natürliche Person, die die Kontrolle über dieses andere Unternehmen ausübt. Entscheidungen der in Satz 1 genannten Art, die eine natürliche Person auf Grund zwingender Rechtsvorschriften nicht im Sinne der Sätze 1 oder 2 kontrollieren kann, bleiben bei der Anwendung dieses Absatzes außer Betracht mit der Maßgabe, dass eine Mitwirkung der für die Eigenschaft als Junglandwirt maßgeblichen natürlichen Person an solchen Entscheidungen rechtlich möglich sein muss.
+
+# § 13 – Junglandwirte-Einkommensstützung
+
+(1) Eine Junglandwirtin oder ein Junglandwirt, die oder der Anspruch auf Einkommensgrundstützung hat, erhält für die Dauer von längstens fünf Jahren auf jährlich zu stellenden Antrag eine ergänzende Einkommensstützung für Junglandwirte (Junglandwirte-Einkommensstützung).
+
+(2) Die Junglandwirte-Einkommensstützung wird als bundeseinheitlicher Betrag je Hektar für bis zu 120 Hektar förderfähiger Fläche gewährt.
+
+# § 14 – Indikative Mittelzuweisung für die Junglandwirte-Einkommensstützung
+
+Die indikative Mittelzuweisung für die Junglandwirte-Einkommensstützung für jedes Antragsjahr ist der Betrag, der dem in der Unionsregelung für Deutschland vorgesehenen Mindestbetrag für das Ziel der Steigerung der Attraktivität für Junglandwirtinnen und Junglandwirte und der Unterstützung für Junglandwirtinnen und Junglandwirte entspricht.
 
 # § 15 – Geplanter Einheitsbetrag für die Junglandwirte-Einkommensstützung
 
-(1) (zukünftig in Kraft)
+(1) Der geplante Einheitsbetrag der Junglandwirte-Einkommensstützung je Hektar ist der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 14 durch die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 aller Empfänger der Zahlung für Junglandwirte für das Antragsjahr 2020 bis zur Zahl von jeweils 120 Zahlungsansprüchen geteilt wird.
 
-(2) (zukünftig in Kraft)
+(2) Zu dem geplanten Einheitsbetrag für die Junglandwirte-Einkommensstützung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 (3) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 aller Empfänger der Zahlung für Junglandwirte für das Antragsjahr 2020 bis zur Zahl von jeweils 120 Zahlungsansprüchen mit.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den geplanten Einheitsbetrag für die Junglandwirte-Einkommensstützung, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(5) (zukünftig in Kraft)
+(5) Das Bundesministerium für Ernährung und Landwirtschaft macht den geplanten Einheitsbetrag für die Junglandwirte-Einkommensstützung, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
-(+++ § 15 Abs. 1, 2 und 5: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 16 – Weitere Bestimmungen für die Junglandwirte-Einkommensstützung
 
-# §§ 16 bis 17 – (zukünftig in Kraft)
+(1) Die Junglandwirte-Einkommensstützung wird nur gewährt, wenn die erstmalige Beantragung spätestens für das fünfte Jahr nach dem Jahr der Niederlassung nach § 12 Absatz 1 oder der Aufnahme der Kontrolle nach § 12 Absatz 2 durch die für die Eigenschaft als Junglandwirt maßgebliche natürliche Person erfolgt.
 
-(+++ §§ 16 bis 17: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(2) Der Zeitraum von fünf Jahren, für den die Junglandwirte-Einkommensstützung längstens gewährt wird, beginnt mit dem Jahr der erstmaligen Beantragung.
 
-# § 18 – (zukünftig in Kraft)
+(3) Am Ende des Jahres der erstmaligen Beantragung der Junglandwirte-Einkommensstützung darf die Junglandwirtin oder der Junglandwirt nach § 12 Absatz 1 oder die gemäß § 12 Absatz 2 für die Eigenschaft als Junglandwirt maßgebliche natürliche Person nicht älter als 40 Jahre sein.
 
-(+++ § 18: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(4) Ein Betriebsinhaber, der die Zahlung für Junglandwirte nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 erhalten hat, erhält die Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr. 1307/2013. Absatz 5 bleibt unberührt.
+
+(5) Für die Gewährung der Junglandwirte-Einkommensstützung kann eine natürliche Person nicht mehr als einmal berücksichtigt werden.
+
+(6) Einem Betriebsinhaber, der keine natürliche Person ist, wird die Junglandwirte-Einkommensstützung nicht mehr gewährt, wenn keine natürliche Person mehr den Betriebsinhaber im Sinne von § 12 Absatz 2 Satz 1 kontrolliert, die ihn bei der erstmaligen Beantragung der Junglandwirte-Einkommensstützung kontrolliert hat.
+
+# § 17 – Tatsächlicher Einheitsbetrag für die Junglandwirte-Einkommensstützung
+
+Der tatsächliche Einheitsbetrag für die Junglandwirte-Einkommensstützung ist der nach § 31 berechnete Betrag.
+
+# § 18 – Öko-Regelungen
+
+Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für die freiwillig von ihm übernommenen Verpflichtungen zur Einhaltung von Regelungen für Klima und Umwelt (Öko-Regelungen).
 
 # § 19 – Mittel für Öko-Regelungen
 
-(1) (zukünftig in Kraft)
+(1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der Jahre 2025 bis 2027 sind jeweils der Betrag, der 25 Prozent des Betrags entspricht, der nach der Unionsregelung der Festsetzung der Zuweisung von Mitteln für Öko-Regelungen zugrunde zu legen ist.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(3) (zukünftig in Kraft)
-
-(+++ § 19 Abs. 1 und 2: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(3) Das Bundesministerium für Ernährung und Landwirtschaft macht den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 # § 20 – Festlegung der Öko-Regelungen
 
-(1) (zukünftig in Kraft)
+(1) Es werden mindestens folgende Öko-Regelungen angewendet:
+
+1. eine Bereitstellung von Flächen zur Verbesserung der Biodiversität und Erhaltung von Lebensräumen durch:
+
+a) nichtproduktive Flächen auf Ackerland über den sich aus oder auf Grund von § 11 des GAP-Konditionalitäten-Gesetzes ergebenden verpflichtenden Anteil hinaus,
+
+b) Anlage von Blühstreifen oder -flächen auf Ackerland, das der Betriebsinhaber nach Buchstabe a bereitstellt,
+
+c) Anlage von Blühstreifen oder -flächen in Dauerkulturen oder
+
+d) Altgrasstreifen oder -flächen in Dauergrünland,
+
+2. ein Anbau vielfältiger Kulturen mit mindestens fünf Hauptfruchtarten im Ackerbau einschließlich des Anbaus von Leguminosen mit einem Mindestanteil von 10 Prozent,
+
+3. die Beibehaltung einer agroforstlichen Bewirtschaftungsweise auf Ackerland und Dauergrünland,
+
+4. die Extensivierung des gesamten Dauergrünlands des Betriebs,
+
+5. die ergebnisorientierte extensive Bewirtschaftung von Dauergrünlandflächen mit Nachweis von mindestens vier regionalen Kennarten,
+
+6. die Bewirtschaftung von Acker- oder Dauerkulturflächen des Betriebes ohne Verwendung von chemisch-synthetischen Pflanzenschutzmitteln,
+
+7. die Anwendung von durch die Schutzziele bestimmten Landbewirtschaftungsmethoden auf landwirtschaftlichen Flächen in Natura 2000-Gebieten.
 
 (2) In einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften erfolgen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit:
 
@@ -209,27 +275,25 @@ Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Übe
 
 (3) Abweichend von § 2 Satz 2 können in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unter Beachtung des § 19 weitere Öko-Regelungen geregelt werden.
 
-(4) (zukünftig in Kraft)
+(4) Das Bundesministerium für Ernährung und Landwirtschaft überprüft und evaluiert bis zum 31. Dezember 2024 die in diesem Gesetz vorgesehenen Instrumente zur Förderung von Umwelt, Klima und Tierwohl.
 
-(+++ § 20 Abs. 1 und 4: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 21 – Tatsächliche Einheitsbeträge für Öko-Regelungen
 
-# § 21 – (zukünftig in Kraft)
+Der tatsächliche Einheitsbetrag oder die tatsächlichen Einheitsbeträge jeder Öko-Regelung ist oder sind die nach § 31 berechneten Beträge.
 
-(+++ § 21: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 22 – Zahlung für Mutterschafe und -ziegen
 
-# § 22 – (zukünftig in Kraft)
+(1) Ein Betriebsinhaber erhält jährlich auf Antrag eine gekoppelte Einkommensstützung für die Haltung von Mutterschafen oder -ziegen (Zahlung für Mutterschafe und -ziegen).
 
-(+++ § 22: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(2) Die Zahlung für Mutterschafe und -ziegen wird bundeseinheitlich je förderfähigem Mutterschaf und förderfähiger Mutterziege gewährt.
 
 # § 23 – Indikative Mittelzuweisung für die Zahlung für Mutterschafe und -ziegen
 
-(1) (zukünftig in Kraft)
+(1) Die indikative Mittelzuweisung für die Zahlung für Mutterschafe und -ziegen für jedes Antragsjahr ist der Betrag, der 1 Prozent der einschlägigen Zuweisung entspricht.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die indikative Mittelzuweisung für die Zahlung für Mutterschafe und -ziegen, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(3) (zukünftig in Kraft)
-
-(+++ § 23 Abs. 1 und 3: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(3) Das Bundesministerium für Ernährung und Landwirtschaft macht die indikative Mittelzuweisung für die Zahlung für Mutterschafe und -ziegen, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 # § 24 – Festlegungen für die Zahlung für Mutterschafe und -ziegen
 
@@ -245,23 +309,23 @@ Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Übe
 
 (2) Die Festsetzung des geplanten Einheitsbetrags, beginnend mit dem Jahr 2023, einschließlich der möglichen Festsetzung eines geplanten Höchst- oder Mindestbetrags oder beidem für den geplanten Einheitsbetrag für die Zahlung für Mutterschafe und -ziegen erfolgt in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften.
 
-# § 25 – (zukünftig in Kraft)
+# § 25 – Tatsächlicher Einheitsbetrag für die Zahlung für Mutterschafe und -ziegen
 
-(+++ § 25: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+Der tatsächliche Einheitsbetrag für die Zahlung für Mutterschafe und -ziegen ist der nach § 31 berechnete Betrag.
 
-# § 26 – (zukünftig in Kraft)
+# § 26 – Zahlung für Mutterkühe
 
-(+++ § 26: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(1) Ein Betriebsinhaber, der keine Kuhmilch oder Kuhmilcherzeugnisse abgibt, erhält jährlich auf Antrag eine gekoppelte Einkommensstützung für die Haltung von Mutterkühen (Zahlung für Mutterkühe).
+
+(2) Die Zahlung für Mutterkühe wird bundeseinheitlich je förderfähiger Mutterkuh gewährt.
 
 # § 27 – Indikative Mittelzuweisung für die Zahlung für Mutterkühe
 
-(1) (zukünftig in Kraft)
+(1) Die indikative Mittelzuweisung für die Zahlung für Mutterkühe für jedes Antragsjahr ist der Betrag, der 1 Prozent der einschlägigen Zuweisung entspricht.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die indikative Mittelzuweisung für die Zahlung für Mutterkühe, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
-(3) (zukünftig in Kraft)
-
-(+++ § 27 Abs. 1 und 3: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(3) Das Bundesministerium für Ernährung und Landwirtschaft macht die indikative Mittelzuweisung für die Zahlung für Mutterkühe, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 # § 28 – Festlegungen für die Zahlung für Mutterkühe
 
@@ -277,17 +341,17 @@ Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Übe
 
 (2) Die Festsetzung des geplanten Einheitsbetrags, beginnend mit dem Jahr 2023, einschließlich der möglichen Festsetzung eines geplanten Höchst- oder Mindestbetrags oder beidem für den geplanten Einheitsbetrag für die Zahlung für Mutterkühe erfolgt in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften.
 
-# § 29 – (zukünftig in Kraft)
+# § 29 – Tatsächlicher Einheitsbetrag für die Zahlung für Mutterkühe
 
-(+++ § 29: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+Der tatsächliche Einheitsbetrag für die Zahlung für Mutterkühe ist der nach § 31 berechnete Betrag.
 
-# § 30 – (zukünftig in Kraft)
+# § 30 – Mitteilungen der Länder
 
-(+++ § 30: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft jährlich bis zum 1. November für jeden geplanten Einheitsbetrag die Gesamtzahl der Einheiten mit, für die unter Berücksichtigung durchgeführter Kontrollen die jeweilige Zahlung zu gewähren ist.
 
 # § 31 – Berechnung der tatsächlichen Einheitsbeträge
 
-(1) (zukünftig in Kraft)
+(1) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die tatsächlichen Einheitsbeträge, die den Betriebsinhabern je Einheit zu gewähren sind.
 
 (2) Die Methode der Berechnung der tatsächlichen Einheitsbeträge wird in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften geregelt. Dabei ist insbesondere zu regeln, dass
 
@@ -301,13 +365,11 @@ b) soweit kein Fall des Buchstaben a vorliegt, für die sonstigen Direktzahlunge
 
 3. gewährleistet ist, dass der Betrag der in der Unionsregelung enthaltenen einschlägigen Zuweisung für das jeweilige Jahr eingehalten ist.
 
-(3) (zukünftig in Kraft)
+(3) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die Übertragung von Mitteln in den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums nach Absatz 2 Nummer 2 und führt sie durch.
 
-(+++ § 31 Abs. 1 und 3: Treten gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+# § 32 – Bekanntmachung der tatsächlichen Einheitsbeträge
 
-# § 32 – (zukünftig in Kraft)
-
-(+++ § 32: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+Das Bundesministerium für Ernährung und Landwirtschaft macht die tatsächlichen Einheitsbeträge, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergeben, jeweils im Bundesanzeiger bekannt.
 
 # § 33 – Horizontale Begriffsbestimmungen
 
@@ -319,9 +381,7 @@ b) soweit kein Fall des Buchstaben a vorliegt, für die sonstigen Direktzahlunge
 
 Bei der Regelung von Begriffsbestimmungen nach Satz 1 ist anzugeben, dass es sich um eine Begriffsbestimmung im Sinne dieser Vorschrift handelt.
 
-(2) (zukünftig in Kraft)
-
-(+++ § 33 Abs. 2: Tritt gem. § 36 Abs. 2 G v. 16.7.2021 I 3003 an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. +++)
+(2) § 12 regelt eine Begriffsbestimmung gemäß Absatz 1 Satz 1.
 
 # § 34 – Verordnungsermächtigungen
 

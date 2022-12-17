@@ -90,7 +90,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
-(6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2022 verlängert.
+(6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2023 verlängert.
 
 # § 5 – Erlösausgleiche für das Jahr 2021
 
