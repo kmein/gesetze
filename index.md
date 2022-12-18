@@ -427,7 +427,7 @@
 - [BAA-EinfDV-Saar](laws/BAA-EinfDV-Saar.md) Rechtsverordnung des Präsidenten des Bundesausgleichsamtes zur Einführung von Rechtsverordnungen im Saarland
 - [BAAZustV](laws/BAAZustV.md) Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleichsgesetz auf das Bundesausgleichsamt
 - [BAB-KAbgV](laws/BAB-KAbgV.md) Verordnung über Höhe und Erhebung der Konzessionsabgabe für das Betreiben eines Nebenbetriebs an der Bundesautobahn
-- [BABauRaumOG](laws/BABauRaumOG.md) Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung (Artikel 1 des Gesetzes über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung sowie zur Änderung besoldungsrechtlicher Vorschriften)
+- [BABauRaumOG](laws/BABauRaumOG.md) Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung
 - [BABefugV 2008](laws/BABefugV_2008.md) Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit
 - [BABG](laws/BABG.md) Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs
 - [BABRiGeschwV 1978](laws/BABRiGeschwV_1978.md) Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen
