@@ -89,7 +89,7 @@ der oder die Agrar-, Fischerei- oder Lebensmittelerzeugnisse gegen Entgelt verä
 
 2. eine Rechtsverordnung nach Absatz 3 für das betroffene Erzeugnis Teil 2 dieses Gesetzes für anwendbar erklärt.
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Teil 2 dieses Gesetzes auf nicht in Anhang I des Vertrages über die Arbeitsweise der Europäischen Union angeführte Agrarerzeugnisse für anwendbar zu erklären, soweit im Hinblick auf die Förderung der landwirtschaftlichen Erzeugung ein Bedürfnis für die Anerkennung von Agrarorganisationen für derartige Erzeugnisse besteht.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Teil 2 dieses Gesetzes auf nicht in Anhang I des Vertrages über die Arbeitsweise der Europäischen Union angeführte Agrarerzeugnisse für anwendbar zu erklären, soweit im Hinblick auf die Förderung der landwirtschaftlichen Erzeugung ein Bedürfnis für die Anerkennung von Agrarorganisationen für derartige Erzeugnisse besteht.
 
 # § 3 – Zuständigkeit; Verordnungsermächtigung
 
@@ -103,7 +103,7 @@ der oder die Agrar-, Fischerei- oder Lebensmittelerzeugnisse gegen Entgelt verä
 
 # § 4 – Voraussetzungen und Verfahren der Anerkennung; Verordnungsermächtigungen
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1. die Agrarerzeugnisse, für die jeweils Agrarorganisationen anerkannt werden, zu bestimmen,
 
@@ -161,7 +161,7 @@ Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf obers
 
 # § 5 – Allgemeinverbindlichkeit; Verordnungsermächtigungen
 
-(1) Soweit das Unionsrecht den Mitgliedstaaten die Möglichkeit eröffnet, dass Vereinbarungen, Beschlüsse oder aufeinander abgestimmte Verhaltensweisen einer anerkannten Agrarorganisation (Vorschriften) für dieser Agrarorganisation nicht angehörende Einzelunternehmen oder Gruppierungen (Nichtmitglieder) für verbindlich erklärt werden können (Allgemeinverbindlichkeit), wird das Bundesministerium ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach Maßgabe der Absätze 2 und 3 und einer Rechtsverordnung auf Grund des Absatzes 4 die Allgemeinverbindlichkeit ganz oder teilweise anzuordnen.
+(1) Soweit das Unionsrecht den Mitgliedstaaten die Möglichkeit eröffnet, dass Vereinbarungen, Beschlüsse oder aufeinander abgestimmte Verhaltensweisen einer anerkannten Agrarorganisation (Vorschriften) für dieser Agrarorganisation nicht angehörende Einzelunternehmen oder Gruppierungen (Nichtmitglieder) für verbindlich erklärt werden können (Allgemeinverbindlichkeit), wird das Bundesministerium ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung nach Maßgabe der Absätze 2 und 3 und einer Rechtsverordnung auf Grund des Absatzes 4 die Allgemeinverbindlichkeit ganz oder teilweise anzuordnen.
 
 (2) Eine Rechtsverordnung darf nur ergehen, um negativen Folgen für den betreffenden Erzeugnisbereich zu begegnen,
 
@@ -179,7 +179,7 @@ Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf obers
 
 Der Antrag kann wiederholt gestellt werden.
 
-(4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die mit Ausnahme der Regelung zu Nummer 1 der Zustimmung des Bundesrates bedarf, zu regeln
+(4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die mit Ausnahme der Regelung zu Nummer 1 der Zustimmung des Bundesrates bedarf, zu regeln
 
 1. nach Maßgabe des Satzes 2 die Erzeugnisbereiche, für die eine Rechtsverordnung nach Absatz 1 erlassen werden kann,
 
@@ -191,7 +191,7 @@ Der Antrag kann wiederholt gestellt werden.
 
 Die Einbeziehung eines Erzeugnisbereichs nach Satz 1 Nummer 1 darf nur erfolgen, soweit dies zur Verhinderung oder Beseitigung von Nachteilen für die Entwicklung des jeweils betroffenen Erzeugnisbereichs zweckmäßig ist.
 
-(5) Für die vorzeitige Aufhebung einer Rechtsverordnung nach Absatz 1 sind das Einvernehmen des Bundesministeriums für Wirtschaft und Energie und die Zustimmung des Bundesrates nicht erforderlich.
+(5) Für die vorzeitige Aufhebung einer Rechtsverordnung nach Absatz 1 sind das Einvernehmen des Bundesministeriums für Wirtschaft und Klimaschutz und die Zustimmung des Bundesrates nicht erforderlich.
 
 (6) Bezieht sich eine nach dem Unionsrecht ermöglichte Erklärung der Allgemeinverbindlichkeit auf einen räumlichen Bereich in dem Gebiet nur eines Landes, ist anstelle des Bundesministeriums die Landesregierung zuständig, eine Rechtsverordnung nach Absatz 1 zu erlassen, wobei in Absatz 3 Nummer 1 anstelle des Bundesministeriums die nach Landesrecht zuständige Stelle tritt. Die Landesregierung kann die Ermächtigung auf oberste Landesbehörden übertragen.
 
@@ -199,7 +199,7 @@ Die Einbeziehung eines Erzeugnisbereichs nach Satz 1 Nummer 1 darf nur erfolgen,
 
 (1) Für Tätigkeiten, die eine Agrarorganisation in dem von ihrer Anerkennung umfassten Bereich vornimmt und die dem in § 1 Absatz 1 Nummer 1, auch in Verbindung mit den Absätzen 2 oder 3, genannten Unionsrecht, dem Teil 2 dieses Gesetzes und den auf Grund dieses Gesetzes in Bezug auf Agrarorganisationen erlassenen Rechtsverordnungen (Agrarorganisationenrecht) entsprechen, gilt § 1 des Gesetzes gegen Wettbewerbsbeschränkungen nicht. Im Übrigen bleiben die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen unberührt.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1. den Austausch von Erkenntnissen über Tatsachen hinsichtlich der anerkannten Agrarorganisationen zwischen den für die Anerkennung zuständigen Stellen und den Kartellbehörden zu regeln, soweit der Austausch für das Tätigwerden der jeweils anderen Behörde erforderlich ist,
 
@@ -209,7 +209,7 @@ Die Einbeziehung eines Erzeugnisbereichs nach Satz 1 Nummer 1 darf nur erfolgen,
 
 # § 7 – Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten; Verordnungsermächtigung
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies während schwerer Ungleichgewichte auf den Märkten zur Durchführung von Rechtsakten der Europäischen Union über die Nichtanwendung des Artikels 101 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union auf Vereinbarungen und Beschlüsse von landwirtschaftlichen Erzeugerbetrieben, anerkannten Agrarorganisationen oder sonstigen Vereinigungen erforderlich ist, Vorschriften über das Verfahren sowie den Inhalt, Gegenstand und geografischen Anwendungsbereich der Vereinbarungen und Beschlüsse zu erlassen, soweit die genannten Rechtsakte bestimmt, bestimmbar oder begrenzt sind. Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist für die Durchführung zuständig. In Rechtsverordnungen nach Satz 1 kann vorgesehen werden, dass Anordnungen und Maßnahmen der Bundesanstalt des Benehmens oder des Einvernehmens des Bundeskartellamts bedürfen.
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies während schwerer Ungleichgewichte auf den Märkten zur Durchführung von Rechtsakten der Europäischen Union über die Nichtanwendung des Artikels 101 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union auf Vereinbarungen und Beschlüsse von landwirtschaftlichen Erzeugerbetrieben, anerkannten Agrarorganisationen oder sonstigen Vereinigungen erforderlich ist, Vorschriften über das Verfahren sowie den Inhalt, Gegenstand und geografischen Anwendungsbereich der Vereinbarungen und Beschlüsse zu erlassen, soweit die genannten Rechtsakte bestimmt, bestimmbar oder begrenzt sind. Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist für die Durchführung zuständig. In Rechtsverordnungen nach Satz 1 kann vorgesehen werden, dass Anordnungen und Maßnahmen der Bundesanstalt des Benehmens oder des Einvernehmens des Bundeskartellamts bedürfen.
 
 (2) Soweit es der Rechtsakt der Europäischen Union den Mitgliedstaaten überlässt, die Maßnahme ganz oder teilweise anzuwenden oder Optionen zu deren Ausübung vorsieht, kann in Rechtsverordnungen nach Absatz 1
 
@@ -489,7 +489,7 @@ wenn der Lieferant diese Vereinigung oder den Zusammenschluss mit der Einlegung 
 
 In der Beschwerde ist darzulegen, gegen welche der nach § 23 Satz 2 in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes zum Schutz von Geschäftsgeheimnissen verbotenen Handelspraktiken der Käufer gegenüber dem Lieferanten verstoßen haben soll.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Beschwerdeverfahren näher zu regeln.
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Beschwerdeverfahren näher zu regeln.
 
 # § 26 – Vertrauliche Behandlung von Informationen
 
@@ -521,7 +521,7 @@ Unbeschadet des Rechts des Lieferanten, nach § 25 eine Beschwerde einzulegen, u
 
 (2) Entscheidungen nach Absatz 1 Nummer 2 trifft die Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt. Entscheidungen im Verfahren nach § 55 Absatz 1 Nummer 1b hinsichtlich des Vorliegens eines Verstoßes gegen eines der in den § 23 Satz 2 in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes zum Schutz von Geschäftsgeheimnissen normierten Verbote trifft die Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt. Vor Entscheidungen hinsichtlich der Höhe des festzusetzenden Bußgelds nach § 55 Absatz 1 Nummer 1b und vor Veröffentlichung von Leitlinien nach Absatz 1 Nummer 4 gibt die Durchsetzungsbehörde dem Bundeskartellamt Gelegenheit zur Stellungnahme. Die Durchsetzungsbehörde kann dem Bundeskartellamt für die Zwecke der Sätze 1 bis 3 die entscheidungserheblichen Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse übermitteln. Liegen dem Bundeskartellamt Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnissen vor, die von den nach Satz 4 übermittelten Informationen abweichen, kann das Bundeskartellamt diese Informationen der Durchsetzungsbehörde übermitteln.
 
-(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Verfahren zur Beteiligung des Bundeskartellamts näher zu regeln.
+(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Verfahren zur Beteiligung des Bundeskartellamts näher zu regeln.
 
 (4) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000 Euro betragen.
 
@@ -679,7 +679,7 @@ Für Verfahren vor dem zuständigen Gericht gelten, soweit nichts anderes bestim
 
 # § 44 – Zulassung der Revision, absolute Revisionsgründe
 
-(1) Gegen Entscheidungen der Oberlandesgerichte findet die Revision an den Bundesgerichtshof statt, wenn das Oberlandesgericht die Revision zugelassen hat.
+(1) Gegen Entscheidungen des Oberlandesgerichts findet die Revision an den Bundesgerichtshof statt, wenn das Oberlandesgericht die Revision zugelassen hat.
 
 (2) Die Revision ist zuzulassen, wenn
 
@@ -769,9 +769,23 @@ Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der Durchsetzungsbehörde 
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden von dem nach § 32 Absatz 1 zuständigen Gericht erlassen.
 
+# § 52a – Zuständiger Senat bei dem Oberlandesgericht
+
+Der nach § 91 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bei dem Oberlandesgericht gebildete Kartellsenat entscheidet über die nach diesem Gesetz dem Oberlandesgericht zugewiesenen Rechtssachen.
+
+# § 52b – Zuständiger Senat beim Bundesgerichtshof
+
+(1) Der nach § 94 des Gesetzes gegen Wettbewerbsbeschränkungen beim Bundesgerichtshof gebildete Kartellsenat entscheidet über folgende Rechtsmittel:
+
+1. in Verwaltungssachen über die Revision gegen Entscheidungen des Oberlandesgerichts (§§ 44, 46, 47) und über die Nichtzulassungsbeschwerde (§ 45),
+
+2. in Bußgeldsachen über die Rechtsbeschwerde gegen Entscheidungen des Oberlandesgerichts (§ 50).
+
+(2) § 94 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen gilt entsprechend.
+
 # § 53 – Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen; Verordnungsermächtigung
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Durchführung unionsrechtlicher Bestimmungen über die Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen Vorschriften über
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Durchführung unionsrechtlicher Bestimmungen über die Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen Vorschriften über
 
 1. die Gestaltung der Vertragsbeziehungen, soweit sie nach dem Unionsrecht bestimmt oder bestimmbar ist,
 
@@ -791,7 +805,7 @@ zu erlassen.
 
 # § 54 – Überwachung; Mitteilungen; Verordnungsermächtigung
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nach Maßgabe des Absatzes 2 der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des Agrarorganisationenrechts oder der Einhaltung des Rechts über Geschäftsbeziehungen in der Lebensmittellieferkette oder zur Erfüllung von Mitteilungspflichten gegenüber Organen der Europäischen Union erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und der Besichtigung von Geschäftsräumen und Betriebsstätten während der üblichen Geschäfts- und Betriebszeiten, zur Vornahme von Proben sowie zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen vorgeschrieben werden.
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nach Maßgabe des Absatzes 2 der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des Agrarorganisationenrechts oder der Einhaltung des Rechts über Geschäftsbeziehungen in der Lebensmittellieferkette oder zur Erfüllung von Mitteilungspflichten gegenüber Organen der Europäischen Union erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und der Besichtigung von Geschäftsräumen und Betriebsstätten während der üblichen Geschäfts- und Betriebszeiten, zur Vornahme von Proben sowie zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen vorgeschrieben werden.
 
 (2) Die Zustimmung des Bundesrates ist nicht erforderlich, wenn die Vorschriften
 
@@ -847,6 +861,6 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des 
 
 # § 59 – Evaluierung der Regelungen über unlautere Handelspraktiken
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet unter Beteiligung des Bundesministeriums für Wirtschaft und Energie den durch das Zweite Gesetz zur Änderung des Agrarmarktstrukturgesetzes vom 2. Juni 2021 (BGBl. I S. 1278) eingefügten Teil 3 Kapitel 1 Abschnitt 1 nach Ablauf von zwei Jahren nach Inkrafttreten des Gesetzes im Hinblick auf die Wirksamkeit der Regelungen. Gegenstand der Evaluierung ist insbesondere die Auswirkung der §§ 11 bis 23 auf die Gestaltung der Vertragsbeziehungen von Lieferanten und Käufern. Neben der Überprüfung der Einhaltung bestehender Verbote kann der Deutsche Bundestag im Zuge der Evaluierung gegebenenfalls auch die Liste verbotener Handelspraktiken um neue, bisher nicht erfasste unlautere Handelspraktiken erweitern. In die Evaluierung fließen auch die Ergebnisse der Prüfung eines möglichen Verbots des Einkaufs von Lebensmitteln und Agrarerzeugnissen unterhalb ihrer Produktionskosten ein.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet unter Beteiligung des Bundesministeriums für Wirtschaft und Klimaschutz den durch das Zweite Gesetz zur Änderung des Agrarmarktstrukturgesetzes vom 2. Juni 2021 (BGBl. I S. 1278) eingefügten Teil 3 Kapitel 1 Abschnitt 1 nach Ablauf von zwei Jahren nach Inkrafttreten des Gesetzes im Hinblick auf die Wirksamkeit der Regelungen. Gegenstand der Evaluierung ist insbesondere die Auswirkung der §§ 11 bis 23 auf die Gestaltung der Vertragsbeziehungen von Lieferanten und Käufern. Neben der Überprüfung der Einhaltung bestehender Verbote kann der Deutsche Bundestag im Zuge der Evaluierung gegebenenfalls auch die Liste verbotener Handelspraktiken um neue, bisher nicht erfasste unlautere Handelspraktiken erweitern. In die Evaluierung fließen auch die Ergebnisse der Prüfung eines möglichen Verbots des Einkaufs von Lebensmitteln und Agrarerzeugnissen unterhalb ihrer Produktionskosten ein.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem Deutschen Bundestag über das Ergebnis der Evaluierung nach Absatz 1.
