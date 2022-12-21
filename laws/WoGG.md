@@ -312,7 +312,7 @@ Ein Ausgleich mit negativen Einkünften aus anderen Einkunftsarten oder mit nega
 
 2. die einkommensabhängigen, nach § 3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bezüge, die auf Grund gesetzlicher Vorschriften aus öffentlichen Mitteln versorgungshalber an Wehrdienstbeschädigte, im freiwilligen Wehrdienst Beschädigte, Zivildienstbeschädigte und im Bundesfreiwilligendienst Beschädigte oder ihre Hinterbliebenen, Kriegsbeschädigte und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt werden;
 
-3. die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil nach § 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes übersteigenden Teile von Leibrenten;
+3. die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil nach § 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes übersteigenden Teile von Leibrenten sowie der nach § 3 Nummer 14a des Einkommensteuergesetzes steuerfreie Anteil der Rente aus der gesetzlichen Rentenversicherung, der auf Grund des Zuschlags an Entgeltpunkten für langjährige Versicherung nach dem Sechsten Buch Sozialgesetzbuch geleistet wird;
 
 4. die nach § 3 Nr. 3 des Einkommensteuergesetzes steuerfreien
 

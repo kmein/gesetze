@@ -103,7 +103,7 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (3) Minderjährige Kinder, die mit ihren Eltern oder einem Elternteil in einer Haushaltsgemeinschaft leben, erhalten Leistungen nach Absatz 1 auch dann, wenn mindestens ein Elternteil in der Haushaltsgemeinschaft Leistungen nach Absatz 1 erhält.
 
-§ 2 Abs. 1 Satz 4 Nr. 1 idF d. G v. 13.8.2019 I 1294: Nach Maßgabe der Entscheidungsformel mit dem GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 19.10.2022 - 1 BvL 3/21 -. Bis zum Inkrafttreten einer Neuregelung findet auf Leistungsberechtigte nach § 2 Abs. 1 Satz 1 d. G § 28 d. Zwölften Buches Sozialgesetzbuch iVm d. Regelbedarfsermittlungsgesetz u. §§ 28a, 40 d. Zwölften Buches Sozialgesetzbuch nach Maßgabe der Entscheidungsformel Nr. 2 BVerfGE v. 19.10.2022 - 1 BvL 3/21 - ensprechend Anwendung.
+§ 2 Abs. 1 Satz 4 Nr. 1 idF d. G v. 13.8.2019 I 1290: Nach Maßgabe der Entscheidungsformel mit dem GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 19.10.2022 I 2359 - 1 BvL 3/21 -. Bis zum Inkrafttreten einer Neuregelung findet auf Leistungsberechtigte nach § 2 Abs. 1 Satz 1 d. G § 28 d. Zwölften Buches Sozialgesetzbuch iVm d. Regelbedarfsermittlungsgesetz u. §§ 28a, 40 d. Zwölften Buches Sozialgesetzbuch nach Maßgabe der Entscheidungsformel Nr. 2 BVerfGE v. 19.10.2022 - 1 BvL 3/21 - ensprechend Anwendung.
 
 # § 3 – Grundleistungen
 

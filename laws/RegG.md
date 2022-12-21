@@ -25,13 +25,13 @@ Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen P
 
 (2) Für das Jahr 2016 wird der Betrag auf 8 Milliarden Euro festgesetzt.
 
-(3) Ab dem Jahr 2017 bis einschließlich des Jahres 2031 steigt der in Absatz 2 bezeichnete Betrag jährlich um 1,8 vom Hundert.
+(3) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in Absatz 2 bezeichnete Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023 bis einschließlich des Jahres 2031 steigt der in Absatz 2 bezeichnete Betrag jährlich um 3 Prozent.
 
 (4) Die sich nach Absatz 2 in Verbindung mit Absatz 3 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 1 auf die Länder verteilt.
 
 (5) Zusätzlich zu den in der Anlage 1 festgelegten Beträgen erhalten die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen für das Jahr 2016 zusammen Regionalisierungsmittel in Höhe von 200 Millionen Euro.
 
-(6) Ab dem Jahr 2017 bis einschließlich 2031 steigt der in Absatz 5 genannte Betrag jährlich um 1,8 vom Hundert.
+(6) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in Absatz 5 genannte Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023 bis einschließlich des Jahres 2031 steigt der in Absatz 5 bezeichnete Betrag jährlich um 3 Prozent.
 
 (7) Die sich nach Absatz 5 in Verbindung mit Absatz 6 ergebenden zusätzlichen Regionalisierungsmittel für die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen werden nach Maßgabe der Anlage 2 Teil A auf diese Länder verteilt.
 
@@ -39,7 +39,7 @@ Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen P
 
 (9) Von den in den Anlagen 1 und 2 Teil B festgelegten Jahresbeträgen wird je ein Zwölftel zum 15. Tag eines jeden Monats überwiesen.
 
-(10) Die Dynamik des Anstiegs der Infrastrukturentgelte, insbesondere der Stations- und Trassenentgelte im Schienenpersonennahverkehr der bundeseigenen Eisenbahninfrastrukturunternehmen, ist nach Maßgabe des Eisenbahnregulierungsrechts zu begrenzen.
+(10) Die Dynamik des Anstiegs der Infrastrukturentgelte, insbesondere der Stations- und Trassenentgelte im Schienenpersonennahverkehr der bundeseigenen Eisenbahninfrastrukturunternehmen, ist nach Maßgabe des Eisenbahnregulierungsrechts zu begrenzen. Abweichend von § 37 Absatz 2 des Eisenbahnregulierungsgesetzes erhöhen sich die Entgelte für die Nutzung von Eisenbahnanlagen und für die Nutzung von Personenbahnhöfen im Jahr 2023 um 1,8 Prozent.
 
 (11) Über die in den Anlagen 1 und 2 festgelegten Beträge hinaus erhalten die Länder ab dem Jahr 2020 die folgenden zusätzlichen Regionalisierungsmittel:
 
@@ -49,17 +49,21 @@ Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen P
 
 3. für das Jahr 2022: 308 148 600,00 Euro und
 
-4. für das Jahr 2023: 463 695 274,80 Euro.
+4. für das Jahr 2023: 467 393 058,00 Euro.
 
-Ab dem Jahr 2024 steigt der Betrag bis 2031 jährlich um 1,8 vom Hundert des Betrags des jeweiligen Vorjahres.
+Ab dem Jahr 2024 bis einschließlich des Jahres 2031 steigt der Betrag jährlich um 3 Prozent des Betrags des jeweiligen Vorjahres.
 
 (12) Die sich nach Absatz 11 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 3 auf die Länder verteilt. Von diesen Jahresbeträgen wird je ein Zwölftel zum 15. jedes Monats überwiesen.
+
+(13) Über die in den Anlagen 1, 2 und 3 festgelegten Beträge hinaus erhalten die Länder im Jahr 2022 zusätzliche Regionalisierungsmittel in Höhe von 1 Milliarde Euro. Der in Satz 1 bezeichnete Betrag steigt ab dem Jahr 2023 bis einschließlich des Jahres 2031 jährlich um 3 Prozent.
+
+(14) Die sich nach Absatz 13 ergebenden absoluten Zahlbeträge sind nach Maßgabe der Anlage 4 auf die Länder zu verteilen. Der Jahresbetrag für das Jahr 2022 ist spätestens mit Ablauf des 30. Dezember 2022 zu überweisen. Ab dem Jahr 2023 ist von dem jeweiligen Jahresbetrag je ein Zwölftel zum 15. Tag eines jeden Monats zu überweisen.
 
 # § 6 – Verwendung
 
 (1) Mit den Beträgen nach § 5 ist insbesondere der Schienenpersonennahverkehr zu finanzieren. Die Mittel dürfen nicht dazu verwendet werden, um in Vorjahren für den öffentlichen Personennahverkehr geleistete eigene Finanzierungsbeiträge der Länder, Aufgabenträger und Kommunen nachträglich zu erstatten.
 
-(2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016, die Verwendung der Mittel nach Maßgabe der Anlage 4 bis zum 30. September des jeweiligen Folgejahres nach. Die Bundesregierung erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
+(2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016, die Verwendung der Mittel nach Maßgabe der Anlage 5 bis zum 30. September des jeweiligen Folgejahres nach. Die Bundesregierung erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 # § 7 – Unterstützung der Länder beim Ausgleich von finanziellen Nachteilen durch COVID 19
 
@@ -173,7 +177,7 @@ Baden-Württemberg</td><td style="text-align: right;">278 253 658,54 Euro<br /
 
 (11) Der Betrag nach den Absätzen 6 und 7 wird spätestens am 11. Juni 2022 ausgezahlt.
 
-(12) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach den Absätzen 1, 4 und 6 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 5 wie folgt nach:
+(12) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach den Absätzen 1, 4 und 6 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 6 wie folgt nach:
 
 1. als Bedarfsmeldung je Land nach Absatz 10 Satz 1 unter Berücksichtigung der bereits erfolgten Mittelumverteilungen der Länder;
 
@@ -218,7 +222,7 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
 (5) Die Länder passen einvernehmlich die in Absatz 3 festgelegte Verteilung in einer Endabrechnung an die in diesem Zeitraum tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
 
-(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund die Verwendung dieser Mittel bis zum 30. Juni 2024 gemäß Anlage 6 nach. Nicht im Jahr 2022 verwendete Mittel werden in den Folgejahren über die Anlage 4 nachgewiesen, indem diese Regionalisierungsmittel der Summe der verfügbaren Mittel zugerechnet werden.
+(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund die Verwendung dieser Mittel bis zum 30. Juni 2024 gemäß Anlage 7 nach. Nicht im Jahr 2022 verwendete Mittel werden in den Folgejahren über die Anlage 5 nachgewiesen, indem diese Regionalisierungsmittel der Summe der verfügbaren Mittel zugerechnet werden.
 
 # Anlage 1 (zu § 5 Absatz 4 und 9) – Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
 
@@ -243,62 +247,62 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 | SH       |    251 840 000,00 |    259 467 840,00 |    267 288 686,08 |    275 298 575,22 |
 | TH       |    310 888 000,00 |    308 022 368,00 |    304 952 845,54 |    301 673 021,02 |
 
-| Land/EUR |       2020        |       2021        |       2022        |       2023        |
-|:---------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| BW       |    980 180 004,99 | 1 014 756 257,62  | 1 041 649 677,46  | 1 069 173 415,30  |
-| BY       | 1 342 442 107,74  | 1 377 888 909,78  | 1 408 424 973,98  | 1 439 622 964,57  |
-| BE       |    446 744 676,90 |    450 229 211,49 |    456 018 342,59 |    461 870 008,14 |
-| BB       |    429 887 684,07 |    425 267 012,22 |    426 635 717,42 |    427 906 845,40 |
-| HB       |     52 409 610,73 |     54 402 550,62 |     55 916 026,07 |     57 466 360,22 |
-| HH       |    181 715 289,66 |    188 222 329,46 |    193 257 539,16 |    198 413 032,38 |
-| HE       |    637 910 879,97 |    649 646 921,14 |    661 474 123,11 |    673 516 618,74 |
-| MV       |    239 821 223,65 |    234 884 324,24 |    234 402 118,22 |    233 835 514,36 |
-| NI       |    748 160 080,77 |    763 691 110,45 |    778 488 201,88 |    793 570 552,68 |
-| NW       | 1 492 814 731,84  | 1 547 936 239,21  | 1 590 178 770,20  | 1 633 440 500,96  |
-| RP       |    449 743 193,97 |    457 742 361,17 |    465 937 204,54 |    474 269 689,65 |
-| SL       |    108 255 917,24 |    109 154 956,86 |    110 585 516,54 |    112 032 210,15 |
-| SN       |    535 265 368,60 |    528 631 858,39 |    529 866 673,84 |    530 974 665,92 |
-| ST       |    364 693 565,02 |    357 517 469,28 |    356 963 280,47 |    356 273 305,20 |
-| SH       |    283 510 218,83 |    291 954 524,04 |    298 892 528,55 |    305 985 707,96 |
-| TH       |    298 184 909,83 |    294 464 738,19 |    295 135 114,06 |    295 743 280,98 |
+| Land/EUR |       2020        |       2021        |       2022        |       2023       |
+|:---------|:-----------------:|:-----------------:|:-----------------:|:----------------:|
+| BW       |    980 180 004,99 | 1 014 756 257,62  | 1 041 649 677,46  | 1 081 776 638,27 |
+| BY       | 1 342 442 107,74  | 1 377 888 909,78  | 1 408 424 973,98  | 1 456 592 979,87 |
+| BE       |    446 744 676,90 |    450 229 211,49 |    456 018 342,59 |   467 314 448,32 |
+| BB       |    429 887 684,07 |    425 267 012,22 |    426 635 717,42 |   432 950 933,95 |
+| HB       |     52 409 610,73 |     54 402 550,62 |     55 916 026,07 |    58 143 763,29 |
+| HH       |    181 715 289,66 |    188 222 329,46 |    193 257 539,16 |   200 751 889,34 |
+| HE       |    637 910 879,97 |    649 646 921,14 |    661 474 123,11 |   681 455 910,91 |
+| MV       |    239 821 223,65 |    234 884 324,24 |    234 402 118,22 |   236 591 925,14 |
+| NI       |    748 160 080,77 |    763 691 110,45 |    778 488 201,88 |   802 925 018,92 |
+| NW       | 1 492 814 731,84  | 1 547 936 239,21  | 1 590 178 770,20  | 1 652 695 202,35 |
+| RP       |    449 743 193,97 |    457 742 361,17 |    465 937 204,54 |   479 860 295,03 |
+| SL       |    108 255 917,24 |    109 154 956,86 |    110 585 516,54 |   113 352 825,59 |
+| SN       |    535 265 368,60 |    528 631 858,39 |    529 866 673,84 |   537 233 699,31 |
+| ST       |    364 693 565,02 |    357 517 469,28 |    356 963 280,47 |   360 472 990,53 |
+| SH       |    283 510 218,83 |    291 954 524,04 |    298 892 528,55 |   309 592 612,18 |
+| TH       |    298 184 909,83 |    294 464 738,19 |    295 135 114,06 |   299 229 449,32 |
 
-| Land/EUR |       2024        |       2025        |       2026        |       2027        |
-|:---------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| BW       | 1 097 350 513,20  | 1 126 204 967,79  | 1 153 877 969,47  | 1 182 192 043,35  |
-| BY       | 1 471 487 753,14  | 1 504 033 236,25  | 1 536 040 042,68  | 1 568 702 052,83  |
-| BE       |    467 784 583,71 |    473 753 044,77 |    480 291 616,44 |    486 912 080,70 |
-| BB       |    429 094 731,26 |    430 177 345,86 |    432 517 771,38 |    434 803 074,76 |
-| HB       |     59 054 389,61 |     60 680 968,96 |     62 232 222,51 |     63 819 660,55 |
-| HH       |    203 691 507,92 |    209 095 722,75 |    214 274 683,76 |    219 572 340,36 |
-| HE       |    685 778 326,61 |    698 253 843,23 |    710 937 161,44 |    723 850 844,85 |
-| MV       |    233 163 339,23 |    232 391 203,09 |    232 529 341,53 |    232 597 158,20 |
-| NI       |    808 943 637,94 |    824 603 644,07 |    840 354 939,46 |    856 396 375,37 |
-| NW       | 1 677 744 436,10  | 1 723 114 078,19  | 1 766 484 776,88  | 1 810 858 531,75  |
-| RP       |    482 760 407,82 |    491 403 128,47 |    500 200 572,69 |    509 165 244,83 |
-| SL       |    113 495 155,03 |    114 974 467,49 |    116 585 011,80 |    118 216 283,97 |
-| SN       |    531 950 868,92 |    532 790 179,43 |    535 265 962,97 |    537 658 250,69 |
-| ST       |    355 442 834,72 |    354 457 641,41 |    354 832 679,86 |    355 106 375,41 |
-| SH       |    313 237 400,65 |    320 679 194,92 |    327 904 908,10 |    335 277 112,37 |
-| TH       |    296 268 490,88 |    296 726 180,85 |    298 089 285,83 |    299 415 057,84 |
+| Land/EUR |       2024       |       2025       |       2026       |       2027       |
+|:---------|:----------------:|:----------------:|:----------------:|:----------------:|
+| BW       | 1 123 373 732,01 | 1 166 502 781,87 | 1 209 254 378,14 | 1 253 531 539,66 |
+| BY       | 1 506 383 483,65 | 1 557 850 483,96 | 1 609 757 007,02 | 1 663 365 534,06 |
+| BE       |   478 877 903,88 |   490 704 854,31 |   503 341 562,39 |   516 294 838,59 |
+| BB       |   439 270 537,39 |   445 569 931,76 |   453 274 975,78 |   461 041 309,50 |
+| HB       |    60 454 840,32 |    62 852 252,59 |    65 218 844,21 |    67 670 864,31 |
+| HH       |   208 521 968,76 |   216 577 576,23 |   224 558 061,00 |   232 822 455,05 |
+| HE       |   702 041 279,27 |   723 238 729,96 |   745 056 147,87 |   767 531 696,00 |
+| MV       |   238 692 712,50 |   240 706 614,37 |   243 688 788,36 |   246 633 256,82 |
+| NI       |   828 127 405,61 |   854 109 573,53 |   880 684 887,50 |   908 075 699,73 |
+| NW       | 1 717 531 459,52 | 1 784 770 466,45 | 1 851 261 144,48 | 1 920 134 969,76 |
+| RP       |   494 208 873,53 |   508 986 492,49 |   524 205 980,59 |   539 890 872,12 |
+| SL       |   116 186 646,23 |   119 088 478,57 |   122 180 108,88 |   125 350 057,37 |
+| SN       |   544 565 866,31 |   551 854 452,99 |   560 954 213,80 |   570 103 291,25 |
+| ST       |   363 872 016,24 |   367 140 828,34 |   371 861 655,20 |   376 535 304,91 |
+| SH       |   320 665 697,55 |   332 153 723,04 |   343 641 577,55 |   355 509 443,03 |
+| TH       |   303 294 377,02 |   307 343 623,33 |   312 395 056,93 |   317 483 289,25 |
 
-| Land/EUR |       2028        |       2029        |       2030        |       2031        |
-|:---------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| BW       | 1 211 151 567,42  | 1 240 760 516,01  | 1 271 053 243,35  | 1 293 932 201,73  |
-| BY       | 1 602 052 128,13  | 1 636 094 546,68  | 1 670 843 427,41  | 1 700 918 609,11  |
-| BE       |    493 605 357,42 |    500 391 920,73 |    507 262 872,19 |    516 393 603,89 |
-| BB       |    437 020 603,54 |    439 187 175,30 |    441 290 148,96 |    449 233 371,65 |
-| HB       |     65 444 083,12 |     67 106 307,34 |     68 807 167,75 |     70 045 696,77 |
-| HH       |    224 991 287,59 |    230 534 175,49 |    236 203 710,17 |    240 455 376,96 |
-| HE       |    736 989 167,47 |    750 376 030,16 |    764 006 035,42 |    777 758 144,06 |
-| MV       |    232 592 076,77 |    232 511 450,93 |    232 352 562,73 |    236 534 908,85 |
-| NI       |    872 743 027,96 |    889 410 775,77 |    906 385 524,02 |    922 700 463,46 |
-| NW       | 1 856 257 400,74  | 1 902 703 910,85  | 1 950 221 067,92  | 1 985 325 047,14  |
-| RP       |    518 290 580,18 |    527 569 369,92 |    537 024 539,67 |    546 690 981,39 |
-| SL       |    119 868 508,40 |    121 541 910,83 |    123 236 718,35 |    125 454 979,28 |
-| SN       |    539 963 234,60 |    542 176 996,65 |    544 295 506,05 |    554 092 825,16 |
-| ST       |    355 265 048,46 |    355 324 467,40 |    355 270 919,56 |    361 665 796,11 |
-| SH       |    342 848 113,85 |    350 542 689,04 |    358 403 186,15 |    364 854 443,50 |
-| TH       |    300 682 066,95 |    301 907 766,05 |    303 069 899,61 |    308 525 157,80 |
+| Land/EUR |       2028       |       2029       |       2030       |       2031       |
+|:---------|:----------------:|:----------------:|:----------------:|:----------------:|
+| BW       | 1 299 377 001,93 | 1 346 834 062,97 | 1 395 980 387,47 | 1 437 859 799,09 |
+| BY       | 1 718 752 423,04 | 1 775 965 496,39 | 1 835 064 476,96 | 1 890 116 411,27 |
+| BE       |   529 561 672,31 |   543 170 801,28 |   557 119 872,49 |   573 833 468,67 |
+| BB       |   468 855 044,14 |   476 733 616,26 |   484 662 933,16 |   499 202 821,17 |
+| HB       |    70 211 308,65 |    72 843 275,88 |    75 569 970,97 |    77 837 070,10 |
+| HH       |   241 380 610,48 |   250 242 715,03 |   259 419 303,30 |   267 201 882,40 |
+| HE       |   790 674 594,86 |   814 526 239,69 |   839 097 376,08 |   864 270 297,36 |
+| MV       |   249 535 073,49 |   252 389 029,23 |   255 189 640,75 |   262 845 329,97 |
+| NI       |   936 317 344,28 |   965 447 169,96 |   995 470 820,47 | 1 025 334 945,09 |
+| NW       | 1 991 475 089,54 | 2 065 367 495,03 | 2 141 901 117,27 | 2 206 158 150,78 |
+| RP       |   556 045 071,75 |   572 671 670,98 |   589 806 704,71 |   607 500 905,85 |
+| SL       |   128 600 240,68 |   131 932 619,93 |   135 349 201,72 |   139 409 677,77 |
+| SN       |   579 296 454,55 |   588 528 114,67 |   597 792 307,61 |   615 726 076,83 |
+| ST       |   381 144 066,50 |   385 701 422,58 |   390 189 190,37 |   401 894 866,08 |
+| SH       |   367 822 629,53 |   380 510 846,40 |   393 629 315,91 |   405 438 195,39 |
+| TH       |   322 585 028,33 |   327 718 087,37 |   332 857 524,34 |   342 843 250,07 |
 
 # Anlage 2 (zu § 5 Absatz 7, 8 und 9) – Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
 
@@ -340,46 +344,50 @@ Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Bra
 | MV       | 33 444 200,00 | 34 046 195,60 | 34 659 027,12 | 35 282 889,61 |
 | SL       |  1 000 000,00 |  1 018 000,00 |  1 036 324,00 |  1 054 977,83 |
 | SN       | 49 346 000,00 | 50 234 228,00 | 51 138 444,10 | 52 058 936,10 |
-| ST       | 48 961 400,00 | 49 842 705,20 | 50 739 873,89 | 51 653 191,62 |
-| TH       | 27 628 000,00 | 28 125 304,00 | 28 631 559,47 | 29 146 927,54 |
+| ST       | 48 961 400,00 | 49 842 705,20 | 50 739 873,89 | 56 127 761,28 |
+| TH       | 27 628 000,00 | 28 125 304,00 | 28 631 559,47 | 31 671 843,30 |
 
 | Land/EUR |     2020      |     2021      |     2022      |     2023      |
 |:---------|:-------------:|:-------------:|:-------------:|:-------------:|
-| BE       |  4 378 565,22 |  4 457 379,40 |  4 537 612,23 |  4 619 289,25 |
-| BB       | 38 172 454,06 | 38 859 558,23 | 39 559 030,28 | 40 271 092,82 |
-| MV       | 35 917 981,62 | 36 564 505,29 | 37 222 666,39 | 37 892 674,38 |
-| SL       |  1 073 967,43 |  1 093 298,85 |  1 112 978,23 |  1 133 011,83 |
-| SN       | 52 995 996,95 | 53 949 924,89 | 54 921 023,54 | 55 909 601,96 |
+| BE       |  4 378 565,22 |  4 457 379,40 |  4 537 612,23 |  4 673 740,60 |
+| BB       | 38 172 454,06 | 38 859 558,23 | 39 559 030,28 | 40 745 801,19 |
+| MV       | 35 917 981,62 | 36 564 505,29 | 37 222 666,39 | 38 339 346,38 |
+| SL       |  1 073 967,43 |  1 093 298,85 |  1 112 978,23 |  1 146 367,58 |
+| SN       | 52 995 996,95 | 53 949 924,89 | 54 921 023,54 | 56 568 654,25 |
 | ST       | 52 582 949,07 | 53 529 442,16 | 54 492 972,12 | 55 473 845,61 |
 | TH       | 29 671 572,24 | 30 205 660,54 | 30 749 362,43 | 31 302 850,95 |
 
 | Land/EUR |     2024      |     2025      |     2026      |     2027      |
 |:---------|:-------------:|:-------------:|:-------------:|:-------------:|
-| BE       |  4 702 436,45 |  4 787 080,31 |  4 873 247,76 |  4 960 966,22 |
-| BB       | 40 995 972,49 | 41 733 900,00 | 42 485 110,20 | 43 249 842,18 |
-| MV       | 38 574 742,52 | 39 269 087,89 | 39 975 931,47 | 40 695 498,23 |
-| SL       |  1 153 406,05 |  1 174 167,36 |  1 195 302,37 |  1 216 817,81 |
-| SN       | 56 915 974,80 | 57 940 462,35 | 58 983 390,67 | 60 045 091,70 |
-| ST       | 56 472 374,83 | 57 488 877,58 | 58 523 677,38 | 59 577 103,57 |
-| TH       | 31 866 302,27 | 32 439 895,71 | 33 023 813,83 | 33 618 242,48 |
+| BE       |  4 813 952,81 |  4 958 371,40 |  5 107 122,54 |  5 260 336,22 |
+| BB       | 41 968 175,22 | 43 227 220,48 | 44 524 037,10 | 45 859 758,21 |
+| MV       | 39 489 526,77 | 40 674 212,58 | 41 894 438,95 | 43 151 272,12 |
+| SL       |  1 180 758,60 |  1 216 181,36 |  1 252 666,80 |  1 290 246,81 |
+| SN       | 58 265 713,87 | 60 013 685,29 | 61 814 095,85 | 63 668 518,72 |
+| ST       | 57 811 594,12 | 59 545 941,95 | 61 332 320,20 | 63 172 289,81 |
+| TH       | 32 621 998,60 | 33 600 658,56 | 34 608 678,32 | 35 646 938,67 |
 
 | Land/EUR |     2028      |     2029      |     2030      |     2031      |
 |:---------|:-------------:|:-------------:|:-------------:|:-------------:|
-| BE       |  5 050 263,61 |  5 141 168,35 |  5 233 709,38 |  5 327 916,15 |
-| BB       | 44 028 339,34 | 44 820 849,45 | 45 627 624,74 | 46 448 921,99 |
-| MV       | 41 428 017,20 | 42 173 721,51 | 42 932 848,50 | 43 705 639,77 |
-| SL       |  1 238 720,53 |  1 261 017,50 |  1 283 715,82 |  1 306 822,70 |
-| SN       | 61 125 903,35 | 62 226 169,61 | 63 346 240,66 | 64 486 473,00 |
-| ST       | 60 649 491,43 | 61 741 182,28 | 62 852 523,56 | 63 983 868,99 |
-| TH       | 34 223 370,85 | 34 839 391,52 | 35 466 500,57 | 36 104 897,58 |
+| BE       |  5 418 146,30 |  5 580 690,69 |  5 748 111,41 |  5 920 554,76 |
+| BB       | 47 235 550,95 | 48 652 617,48 | 50 112 196,01 | 51 615 561,89 |
+| MV       | 44 445 810,29 | 45 779 184,59 | 47 152 560,13 | 48 567 136,94 |
+| SL       |  1 328 954,21 |  1 368 822,84 |  1 409 887,52 |  1 452 184,15 |
+| SN       | 65 578 574,29 | 67 545 931,51 | 69 572 309,46 | 71 659 478,74 |
+| ST       | 65 067 458,50 | 67 019 482,26 | 69 030 066,73 | 71 100 968,73 |
+| TH       | 36 716 346,83 | 37 817 837,23 | 38 952 372,35 | 40 120 943,52 |
 
 # Anlage 3 (zu § 5 Absatz 11 und 12) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
 
 (Fundstelle: BGBl. I 2020, 446 – 447)
 
-# Anlage 4 (zu § 6 Absatz 2) – Verwendungsnachweis
+# Anlage 4 (zu § 5 Absatz 13 und 14) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
 
-(BGBl. I 2016, 2763 — 2764);  
+(Fundstelle: BGBl. I 2022, 2355 - 2356)
+
+# Anlage 5 (zu § 6 Absatz 2) – Verwendungsnachweis
+
+(BGBl. I 2016, 2763 – 2764);  
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
 Nachweis über die Verwendung der Regionalisierungsmittel
@@ -1227,10 +1235,10 @@ Die Übersicht der Verträge ist als gesonderte Anlage zu übersenden. Dabei sin
 <span id="FnA1-F7_796380"></span><a href="#FnR.FnA1-F7_796380" class="Footnote">7</a>  
 Angaben zur Höhe und geplanter Verwendung.
 
-# Anlage 5 – (zu § 7 Absatz 12)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1, 4 und 6
+# Anlage 6 – (zu § 7 Absatz 12)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1, 4 und 6
 
 (Fundstelle: BGBl. I 2022, 814)
 
-# Anlage 6 – (zu § 8 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 8 Absatz 2
+# Anlage 7 – (zu § 8 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 8 Absatz 2
 
 (Fundstelle: BGBl. I 2022, 815)
