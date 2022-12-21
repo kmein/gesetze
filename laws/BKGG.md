@@ -65,7 +65,30 @@ b) sich in einer Übergangszeit von höchstens vier Monaten befindet, die zwisch
 
 c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder
 
-d) ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr im Sinne des Jugendfreiwilligendienstegesetzes oder eine Freiwilligenaktivität im Rahmen des Europäischen Solidaritätskorps im Sinne der Verordnung (EU) Nr. 2018/1475 des Europäischen Parlaments und des Rates vom 2. Oktober 2018 zur Festlegung des rechtlichen Rahmens des Europäischen Solidaritätskorps sowie zur Änderung der Verordnung (EU) Nr. 1288/2013 und der Verordnung (EU) Nr. 1293/2013 sowie des Beschlusses Nr. 1313/2013/EU (ABl. L 250 vom 4.10.2018, S. 1) oder einen anderen Dienst im Ausland im Sinne von § 5 des Bundesfreiwilligendienstgesetzes oder einen entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne der Förderleitlinie des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung vom 1. Januar 2016 oder einen Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch oder einen Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 25. Mai 2018 (GMBl S. 545) oder einen Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes leistet oder
+d) einen der folgenden freiwilligen Dienste leistet:
+
+aa)  
+ein freiwilliges soziales Jahr im Sinne des Jugendfreiwilligendienstegesetzes,
+
+bb)  
+ein freiwilliges ökologisches Jahr im Sinne des Jugendfreiwilligendienstegesetzes,
+
+cc) einen Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes,
+
+dd)  
+eine Freiwilligentätigkeit im Rahmen des Europäischen Solidaritätskorps im Sinne der Verordnung (EU) 2021/888 des Europäischen Parlaments und des Rates vom 20. Mai 2021 zur Aufstellung des Programms für das Europäische Solidaritätskorps und zur Aufhebung der Verordnungen (EU) 2018/1475 und (EU) Nr. 375/2014 (ABl. L 202 vom 8.6.2021, S. 32),
+
+ee)  
+einen anderen Dienst im Ausland im Sinne von § 5 des Bundesfreiwilligendienstgesetzes,
+
+ff)  
+einen entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne der Förderleitlinie des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung vom 1. Januar 2016,
+
+gg)  
+einen Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch oder
+
+hh)  
+einen Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 4. Januar 2021 (GMBl S. 77) oder
 
 3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist.
 
@@ -102,17 +125,13 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 
 # § 4 – Andere Leistungen für Kinder
 
-(1) Kindergeld wird nicht für ein Kind gewährt, für das eine der folgenden Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu zahlen wäre:
+Kindergeld wird nicht für ein Kind gezahlt, für das eine der folgenden Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu zahlen wäre:
 
-1. Kinderzulagen aus der gesetzlichen Unfallversicherung oder Kinderzuschüsse aus den gesetzlichen Rentenversicherungen,
+1. Leistungen für Kinder, die im Ausland gewährt werden und dem Kindergeld oder der Kinderzulage aus der gesetzlichen Unfallversicherung nach § 217 Absatz 3 des Siebten Buches Sozialgesetzbuch in der bis zum 30. Juni 2020 geltenden Fassung oder dem Kinderzuschuss aus der gesetzlichen Rentenversicherung nach § 270 des Sechsten Buches Sozialgesetzbuch in der bis zum 16. November 2016 geltenden Fassung vergleichbar sind,
 
-2. Leistungen für Kinder, die außerhalb Deutschlands gewährt werden und dem Kindergeld oder einer der unter Nummer 1 genannten Leistungen vergleichbar sind,
+2. Leistungen für Kinder, die von einer zwischen- oder überstaatlichen Einrichtung gewährt werden und dem Kindergeld vergleichbar sind.
 
-3. Leistungen für Kinder, die von einer zwischen- oder überstaatlichen Einrichtung gewährt werden und dem Kindergeld vergleichbar sind.
-
-Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentur für Arbeit nach dem Dritten Buch Sozialgesetzbuch oder ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch oder steht er in Deutschland in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 3 mit Rücksicht darauf ausgeschlossen, dass sein Ehegatte oder Lebenspartner als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen Gemeinschaften für das Kind Anspruch auf Kinderzulage hat.
-
-(2) Ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 der Bruttobetrag der anderen Leistung niedriger als das Kindergeld nach § 6, wird Kindergeld in Höhe des Unterschiedsbetrages gezahlt. Ein Unterschiedsbetrag unter 5 Euro wird nicht geleistet.
+Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentur für Arbeit nach dem Dritten Buch Sozialgesetzbuch oder ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch oder steht er in Deutschland in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 2 mit Rücksicht darauf ausgeschlossen, dass sein Ehegatte oder Lebenspartner als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen Gemeinschaften für das Kind Anspruch auf Kinderzulage hat.
 
 # § 5 – Beginn und Ende des Anspruchs
 
