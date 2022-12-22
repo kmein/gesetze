@@ -15,25 +15,31 @@ Diese Verordnung benennt
 
 # § 2 – Nicht kooperative Steuerhoheitsgebiete
 
-Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke vom 5. Oktober 2021 (ABl. C 413 I vom 12.10.2021, S. 3) als nicht kooperativ genannt:
+Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke vom 4. Oktober 2022 (ABl. C 391 vom 12.10.2022, S. 2) als nicht kooperativ genannt:
 
 1. Amerikanisch-Samoa (seit dem 24. Dezember 2021),
 
-2. Fidschi (seit dem 24. Dezember 2021),
+2. Anguilla (seit dem 21. Dezember 2022),
 
-3. Guam (seit dem 24. Dezember 2021),
+3. Bahamas (seit dem 21. Dezember 2022),
 
-4. Palau (seit dem 24. Dezember 2021),
+4. Fidschi (seit dem 24. Dezember 2021),
 
-5. Panama (seit dem 24. Dezember 2021),
+5. Guam (seit dem 24. Dezember 2021),
 
-6. Samoa (seit dem 24. Dezember 2021),
+6. Palau (seit dem 24. Dezember 2021),
 
-7. Trinidad und Tobago (seit dem 24. Dezember 2021),
+7. Panama (seit dem 24. Dezember 2021),
 
-8. Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
+8. Samoa (seit dem 24. Dezember 2021),
 
-9. Vanuatu (seit dem 24. Dezember 2021).
+9. Trinidad und Tobago (seit dem 24. Dezember 2021),
+
+10. Turks- und Caicosinseln (seit dem 21. Dezember 2022),
+
+11. Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
+
+12. Vanuatu (seit dem 24. Dezember 2021).
 
 # § 3 – Inkrafttreten
 

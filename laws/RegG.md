@@ -224,9 +224,10 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
 (6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund die Verwendung dieser Mittel bis zum 30. Juni 2024 gemäß Anlage 7 nach. Nicht im Jahr 2022 verwendete Mittel werden in den Folgejahren über die Anlage 5 nachgewiesen, indem diese Regionalisierungsmittel der Summe der verfügbaren Mittel zugerechnet werden.
 
-# Anlage 1 (zu § 5 Absatz 4 und 9) – Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
+# Anlage 1 – (zu § 5 Absatz 4 und 9)Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
 
-(Fundstelle: BGBl. I 2016, 2759 — 2760)
+(Fundstelle: BGBl. I 2016, 2759 — 2760;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | Land/EUR |       2016        |       2017        |       2018        |       2019        |
 |:---------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
@@ -304,9 +305,10 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 | SH       |   367 822 629,53 |   380 510 846,40 |   393 629 315,91 |   405 438 195,39 |
 | TH       |   322 585 028,33 |   327 718 087,37 |   332 857 524,34 |   342 843 250,07 |
 
-# Anlage 2 (zu § 5 Absatz 7, 8 und 9) – Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
+# Anlage 2 – (zu § 5 Absatz 7, 8 und 9)Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
 
-(BGBl. I 2016, 2761 — 2762)
+(BGBl. I 2016, 2761 — 2762;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Teil A
 
@@ -377,15 +379,16 @@ Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Bra
 | ST       | 65 067 458,50 | 67 019 482,26 | 69 030 066,73 | 71 100 968,73 |
 | TH       | 36 716 346,83 | 37 817 837,23 | 38 952 372,35 | 40 120 943,52 |
 
-# Anlage 3 (zu § 5 Absatz 11 und 12) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
+# Anlage 3 – (zu § 5 Absatz 11 und 12)Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
 
-(Fundstelle: BGBl. I 2020, 446 – 447)
+(Fundstelle: BGBl. I 2020, 446 – 447;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-# Anlage 4 (zu § 5 Absatz 13 und 14) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
+# Anlage 4 – (zu § 5 Absatz 13 und 14)Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
 
 (Fundstelle: BGBl. I 2022, 2355 - 2356)
 
-# Anlage 5 (zu § 6 Absatz 2) – Verwendungsnachweis
+# Anlage 5 – (zu § 6 Absatz 2)Verwendungsnachweis
 
 (BGBl. I 2016, 2763 – 2764);  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1237,8 +1240,10 @@ Angaben zur Höhe und geplanter Verwendung.
 
 # Anlage 6 – (zu § 7 Absatz 12)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1, 4 und 6
 
-(Fundstelle: BGBl. I 2022, 814)
+(Fundstelle: BGBl. I 2022, 814;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 7 – (zu § 8 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 8 Absatz 2
 
-(Fundstelle: BGBl. I 2022, 815)
+(Fundstelle: BGBl. I 2022, 815;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

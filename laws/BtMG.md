@@ -2453,6 +2453,12 @@ Benzylpiperazin (BZP)
 
 \-
 
+Brorphin
+
+1-{1-\[1-(4-Bromphenyl)ethyl\]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-on
+
+\-
+
 Buphedron
 
 2-(Methylamino)-1-phenylbutan-1-on
@@ -2489,6 +2495,12 @@ Cetobemidon
 Ketobemidon
 
 1-\[4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl\]propan-1-on
+
+\-
+
+3-Chlormethcathinon (3-CMC, Clophedron)
+
+1-(3-Chlorphenyl)-2-methylaminopropan-1-on
 
 \-
 
@@ -2816,6 +2828,12 @@ indazol-3-carboxamid\]-3,3-dimethylbutanoat}
 
 Methyl{2-\[1-(5-fluorpentyl)-1H-indazol-  
 3-carboxamido\]-3-methylbutanoat}
+
+\-
+
+Eutylon (N-Ethylnorbutylon, bk-EBDB)
+
+1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on
 
 \-
 
@@ -3241,6 +3259,13 @@ Methyprylon
 \-
 
 3,3-Diethyl-5-methylpiperidin-2,4-dion
+
+\-
+
+Metonitazen
+
+N,N-Diethyl-2-{2-\[(4-methoxyphenyl)methyl\]-5-nitro-1H-  
+benzimidazol-1-yl}ethan-1-amin
 
 \-
 
