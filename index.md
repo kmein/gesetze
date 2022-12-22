@@ -1782,6 +1782,7 @@
 - [EpiAAppOAbwV](laws/EpiAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite
 - [EpiÄApprO2002AbwV](laws/EpiÄApprO2002AbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Ärzte bei einer epidemischen Lage von nationaler Tragweite
 - [EpiZÄPrOAbwV](laws/EpiZÄPrOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Zahnärzte bei einer epidemischen Lage von nationaler Tragweite
+- [EPPSG](laws/EPPSG.md) Gesetz zur Zahlung einer einmaligen Energiepreispauschale für Studierende, Fachschülerinnen und Fachschüler sowie Berufsfachschülerinnen und Berufsfachschüler in Bildungsgängen mit dem Ziel eines mindestens zweijährigen berufsqualifizierenden Abschlusses
 - [EPSPV](laws/EPSPV.md) Verordnung über die Prüfung zum Prüfsachverständigen im Eisenbahnbereich
 - [EPSV](laws/EPSV.md) Verordnung zur Anerkennung, zum Einsatz und zur Überwachung von Prüfsachverständigen im Eisenbahnbereich
 - [ErbbauRG](laws/ErbbauRG.md) Gesetz über das Erbbaurecht
@@ -1845,6 +1846,7 @@
 - [EthylenoxidV](laws/EthylenoxidV.md) Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln
 - [ETWStBefrV](laws/ETWStBefrV.md) Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic Windtunnel GmbH
 - [EU-DBA-SBG](laws/EU-DBA-SBG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2017/1852 des Rates vom 10. Oktober 2017 über Verfahren zur Beilegung von Besteuerungsstreitigkeiten in der Europäischen Union*
+- [EU-EnergieKBG](laws/EU-EnergieKBG.md) Gesetz zur Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU) 2022/1854
 - [EU-FahrgRBusBGebV](laws/EU-FahrgRBusBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen zur Durchsetzung der EU-Fahrgastrechte im Kraftomnibusverkehr
 - [EU-FahrgRBusG](laws/EU-FahrgRBusG.md) EU-Fahrgastrechte-Kraftomnibus-Gesetz
 - [EU-FahrgRBusV](laws/EU-FahrgRBusV.md) Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union im Kraftomnibusverkehr
