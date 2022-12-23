@@ -479,7 +479,7 @@ Von der Gewerbesteuer sind befreit
 
 1. das Bundeseisenbahnvermögen, die staatlichen Lotterieunternehmen, die zugelassenen öffentlichen Spielbanken mit ihren der Spielbankenabgabe unterliegenden Tätigkeiten und der Erdölbevorratungsverband nach § 2 Absatz 1 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74) in der jeweils geltenden Fassung;
 
-2. die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Niedersächsische Gesellschaft für öffentliche Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
+2. die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Niedersächsische Gesellschaft für öffentliche Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
 3. die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
 
@@ -559,7 +559,7 @@ e) bei Einrichtungen zur ambulanten oder stationären Rehabilitation die Behandl
 
 31. die Global Legal Entity Identifier Stiftung, soweit sie von der Körperschaftsteuer befreit ist;
 
-32. stehende Gewerbebetriebe von Anlagenbetreibern im Sinne des § 3 Nummer 2 des Erneuerbare-Energien-Gesetzes, wenn sich deren Tätigkeit ausschließlich auf die Erzeugung und Vermarktung von Strom aus einer auf, an oder in einem Gebäude angebrachten Solaranlage bis zu einer installierten Leistung von 10 Kilowatt beschränkt.
+32. stehende Gewerbebetriebe von Anlagenbetreibern im Sinne des § 3 Nummer 2 des Erneuerbare-Energien-Gesetzes, wenn sich deren Tätigkeit ausschließlich auf die Erzeugung und Vermarktung von Strom aus einer auf, an oder in einem Gebäude angebrachten Solaranlage bis zu einer installierten Leistung von 30 Kilowatt beschränkt.
 
 (+++ § 3: Zur Anwendung vgl. § 36 +++)
 
@@ -616,7 +616,7 @@ enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des Körperschaftsteuergesetz
 
 (1) Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes sind vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des Gewerbeertrags entsprechend anzuwenden.
 
-(2) Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des Einkommensteuergesetzes verbleibende geminderte Sanierungsertrag im Sinne des § 3a Absatz 3 Satz 1 des Einkommensteuergesetzes mindert nacheinander
+(2) ¹Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des Einkommensteuergesetzes verbleibende geminderte Sanierungsertrag im Sinne des § 3a Absatz 3 Satz 1 des Einkommensteuergesetzes mindert nacheinander
 
 1. den negativen Gewerbeertrag des Sanierungsjahrs des zu sanierenden Unternehmens,
 
@@ -624,9 +624,9 @@ enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des Körperschaftsteuergesetz
 
 3. im Sanierungsjahr ungeachtet des § 10a Satz 2 die nach § 10a Satz 6 zum Ende des vorangegangenen Erhebungszeitraums gesondert festgestellten Fehlbeträge; die in § 10a Satz 1 und 2 genannten Beträge werden der Minderung entsprechend aufgebraucht.
 
-Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens, wenn dieses die erlassenen Schulden innerhalb eines Zeitraums von fünf Jahren vor dem Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und soweit die entsprechenden Beträge zum Ablauf des Wirtschaftsjahrs der Übertragung bereits entstanden waren. Der verbleibende Sanierungsertrag nach Satz 2 ist zunächst um den Minderungsbetrag nach § 3a Absatz 3 Satz 2 Nummer 13 des Einkommensteuergesetzes zu kürzen. Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5 entsprechend anzuwenden. In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des Körperschaftsteuergesetzes entsprechend anzuwenden. An den Feststellungen der vortragsfähigen Fehlbeträge nehmen nur die nach Anwendung der Sätze 1 und 2 verbleibenden Beträge teil.
+²Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens, wenn dieses die erlassenen Schulden innerhalb eines Zeitraums von fünf Jahren vor dem Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und soweit die entsprechenden Beträge zum Ablauf des Wirtschaftsjahrs der Übertragung bereits entstanden waren. ³Der verbleibende Sanierungsertrag nach Satz 2 ist zunächst um den Minderungsbetrag nach § 3a Absatz 3 Satz 2 Nummer 13 des Einkommensteuergesetzes zu kürzen. ⁴Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5 entsprechend anzuwenden; dies gilt für Zwecke der Minderung nach Satz 1 Nummer 3 mit der Maßgabe, dass der sich für die Mitunternehmerschaft insgesamt ergebende Sanierungsertrag im Verhältnis der den Mitunternehmern zum Ende des vorangegangenen Erhebungszeitraums zugerechneten Fehlbeträge den Mitunternehmern zuzurechnen ist. ⁵In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des Körperschaftsteuergesetzes entsprechend anzuwenden. ⁶An den Feststellungen der vortragsfähigen Fehlbeträge nehmen nur die nach Anwendung der Sätze 1 und 2 verbleibenden Beträge teil.
 
-(3) In den Fällen des § 2 Absatz 2 Satz 2 ist § 15 Satz 1 Nummer 1a des Körperschaftsteuergesetzes entsprechend anzuwenden. Absatz 2 Satz 3 gilt entsprechend.
+(3) In den Fällen des § 2 Absatz 2 Satz 2 ist § 15 Satz 1 Nummer 1a des Körperschaftsteuergesetzes entsprechend anzuwenden. ²Absatz 2 Satz 3 gilt entsprechend.
 
 (+++ § 7b: Zur Anwendung vgl. § 36 Abs. 2c +++)
 
@@ -1026,13 +1026,13 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2021 anzuwenden.
 
-(2) ¹§ 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ²§ 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden. ³§ 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ⁴§ 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
+(2) ¹§ 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ²§ 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt erstmals für den Erhebungszeitraum 2023 anzuwenden. ³Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Erhebungszeitraum 2023 anzuwenden. ⁴§ 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden. ⁵§ 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ⁶§ 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ⁷§ 3 Nummer 32 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
 
 (3) ¹§ 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) geänderten Fassung ist erstmals für den Erhebungszeitraum 2009 anzuwenden. ²Für den Erhebungszeitraum 2008 ist § 7 Satz 3 in folgender Fassung anzuwenden:
 
-„Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1.“
+„Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1.“ ³§ 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den Erhebungszeitraum 2017 anzuwenden. ⁴§ 7 Satz 9 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
 
-³§ 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den Erhebungszeitraum 2017 anzuwenden. ⁴§ 7 Satz 9 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
+(3a) § 7b Absatz 2 Satz 4 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2023 anzuwenden.
 
 (4) ¹§ 8 Nummer 1 Buchstabe d Satz 2 ist nur auf Entgelte anzuwenden, die auf Verträgen beruhen, die nach dem 31. Dezember 2019 abgeschlossen worden sind. ²Dabei ist bei Verträgen, die vor dem 1. Januar 2025 abgeschlossen werden, statt einer Reichweite von 80 Kilometern eine Reichweite von 60 Kilometern ausreichend. ³§ 8 Nummer 1 Buchstabe d Satz 2 ist letztmals für den Erhebungszeitraum 2030 anzuwenden.
 

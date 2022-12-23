@@ -25,7 +25,7 @@
 
 10. das Finanzamt München für in der Italienischen Republik ansässige Unternehmer,
 
-11. das Finanzamt Kassel-Hofgeismar für in der Republik Kroatien ansässige Unternehmer,
+11. das Finanzamt Kassel für in der Republik Kroatien ansässige Unternehmer,
 
 12. das Finanzamt Bremen für in der Republik Lettland ansässige Unternehmer,
 
@@ -35,7 +35,7 @@
 
 15. das Finanzamt Saarbrücken Am Stadtgraben für im Großherzogtum Luxemburg ansässige Unternehmer,
 
-16. das Finanzamt Berlin Neukölln für in der Republik Mazedonien ansässige Unternehmer,
+16. das Finanzamt Berlin Neukölln für in der Republik Nordmazedonien ansässige Unternehmer,
 
 17. das Finanzamt Kleve für im Königreich der Niederlande ansässige Unternehmer,
 
@@ -55,7 +55,7 @@ d) das Finanzamt Nördlingen, wenn der Nachname oder der Firmenname des Unterneh
 
 e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus für alle Unternehmer, auf die das Verfahren nach § 18 Absatz 4e, § 18j oder § 18k des Umsatzsteuergesetzes anzuwenden ist,
 
-21. das Finanzamt Kassel-Hofgeismar für in der Portugiesischen Republik ansässige Unternehmer,
+21. das Finanzamt Kassel für in der Portugiesischen Republik ansässige Unternehmer,
 
 22. das Finanzamt Chemnitz-Süd für in Rumänien ansässige Unternehmer,
 
@@ -67,7 +67,7 @@ e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus fü
 
 26. das Finanzamt Chemnitz-Süd für in der Slowakischen Republik ansässige Unternehmer,
 
-27. das Finanzamt Kassel-Hofgeismar für im Königreich Spanien ansässige Unternehmer,
+27. das Finanzamt Kassel für im Königreich Spanien ansässige Unternehmer,
 
 28. das Finanzamt Oranienburg für in der Republik Slowenien ansässige Unternehmer,
 
@@ -88,6 +88,8 @@ Die örtliche Zuständigkeit nach Satz 1 gilt für die Außengebiete, Überseege
 (2) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz 2 der Abgabenordnung, die nicht von Absatz 1 erfasst werden, ist das Finanzamt Berlin Neukölln zuständig.
 
 (2a) Abweichend von den Absätzen 1 und 2 ist für die Unternehmer, die von § 18 Abs. 4c des Umsatzsteuergesetzes Gebrauch machen, das Bundeszentralamt für Steuern zuständig.
+
+(2b) Für die Unternehmer mit Sitz außerhalb des Gemeinschaftsgebiets (§ 1 Absatz 2a des Umsatzsteuergesetzes), die im Gemeinschaftsgebiet weder ihre Geschäftsleitung noch eine umsatzsteuerliche Betriebsstätte haben und die in einem anderen Mitgliedstaat der Europäischen Union die Teilnahme an dem Verfahren im Sinne des § 18j des Umsatzsteuergesetzes angezeigt haben, sind die Absätze 1 und 2 für Zwecke der Durchführung des Verfahrens im Sinne des § 18j des Umsatzsteuergesetzes mit der Maßgabe anzuwenden, dass der Unternehmer in dem Mitgliedstaat als ansässig zu behandeln ist, in dem die Teilnahme angezeigt wurde.
 
 (3) Die örtliche Zuständigkeit nach § 61 Absatz 1 Satz 1 und § 61a Absatz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
 

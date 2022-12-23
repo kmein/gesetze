@@ -127,17 +127,21 @@ Sind unbeschränkt steuerpflichtige Personen an einer ausländischen Gesellschaf
 
 # § 10 – Quellensteuermaßnahmen
 
-Über § 49 des Einkommensteuergesetzes hinaus liegen steuerpflichtige Einkünfte natürlicher Personen, Körperschaften, Personenvereinigungen oder Vermögensmassen, die in einem nicht kooperativen Steuerhoheitsgebiet ansässig sind, auch vor, soweit sie Einkünfte erzielen aus
+(1) Über § 49 des Einkommensteuergesetzes hinaus liegen steuerpflichtige Einkünfte derjenigen natürlichen Personen sowie derjenigen Körperschaften, Personenvereinigungen oder Vermögensmassen, die in einem nicht kooperativen Steuerhoheitsgebiet ansässig sind, auch vor, soweit sie Einkünfte erzielen aus
 
-1. Finanzierungsbeziehungen,
+1. Finanzierungsbeziehungen. Inhaberschuldverschreibungen, die durch eine Globalurkunde verbrieft und im Rahmen der Girosammelverwahrung bei einem Zentralverwahrer verwahrt werden und mit diesen vergleichbare Schuldtitel, die an einer anerkannten Börse im Sinne des § 138 Absatz 2 Satz 1 Nummer 3 Buchstabe b Satz 2 der Abgabenordnung handelbar sind, gelten nicht als Finanzierungsbeziehungen;
 
-2. Versicherungs- oder Rückversicherungsleistungen,
+2. Versicherungs- oder Rückversicherungsprämien;
 
-3. der Erbringung von Dienstleistungen, soweit nicht bereits Nummern 1 und 2, oder
+3. der Erbringung von Dienstleistungen, soweit sie nicht bereits von den Nummern 1 und 2 erfasst sind. Nutzungsüberlassungen gelten nicht als Erbringung von Dienstleistungen;
 
-4. dem Handel mit Waren oder Dienstleistungen,
+4. dem Handel mit Waren oder Dienstleistungen im Sinne der Nummer 3 oder
 
-die nach § 2 Absatz 1 Satz 1 erster Halbsatz des Einkommensteuergesetzes bei unbeschränkt Steuerpflichtigen der Besteuerung unterlägen, und die ihnen hierbei gewährten Vergütungen als Betriebsausgaben oder Werbungskosten eines anderen Steuerpflichtigen ungeachtet des § 8 Satz 1 bei dessen Veranlagung zur unbeschränkten Einkommensteuer oder Körperschaftsteuerpflicht berücksichtigt werden können. § 50a des Einkommensteuergesetzes, mit Ausnahme von dessen Absätzen 6 und 7, und §§ 73c bis 73g der Einkommensteuer-Durchführungsverordnung sowie die weiteren gesetzlichen Vorschriften, die an den Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes anknüpfen, gelten für die Vergütungen des Satzes 1 entsprechend. Dabei ist § 50a Absatz 2 Satz 1 des Einkommensteuergesetzes mit der Maßgabe anzuwenden, dass der Steuerabzug 15 Prozent der gesamten Einnahmen beträgt.
+5. der Vermietung und Verpachtung oder der Veräußerung von Rechten, die in ein inländisches öffentliches Buch oder Register eingetragen sind.
+
+Steuerpflichtige Einkünfte nach Satz 1 liegen bei dessen Nummern 1 bis 4 nur vor, wenn sie nach § 2 Absatz 1 Satz 1 erster Halbsatz des Einkommensteuergesetzes bei unbeschränkt Steuerpflichtigen der Besteuerung unterlägen und die dem Steuerpflichtigen hierbei gewährten Vergütungen als Betriebsausgaben oder Werbungskosten eines anderen unbeschränkt Steuerpflichtigen ungeachtet des § 8 Satz 1 bei dessen Veranlagung zur Einkommen- oder Körperschaftsteuer ungeachtet der Wahl der Gewinnermittlungsart berücksichtigt werden können.
+
+(2) § 50a Absatz 1, 2 Satz 1 und 2 und Absatz 3 bis 5 des Einkommensteuergesetzes und die §§ 73c bis 73g der Einkommensteuer-Durchführungsverordnung sowie die weiteren gesetzlichen Vorschriften, die an den Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes anknüpfen, gelten für die Vergütungen im Sinne des Absatzes 1 Satz 1 entsprechend. Dabei ist § 50a Absatz 2 Satz 1 des Einkommensteuergesetzes mit der Maßgabe anzuwenden, dass der Steuerabzug 15 Prozent der gesamten Einnahmen beträgt.
 
 # § 11 – Maßnahmen bei Gewinnausschüttungen und Anteilsveräußerungen
 
@@ -182,6 +186,8 @@ Die Aufzeichnungen nach Satz 1 sind spätestens ein Jahr nach Ablauf des betreff
 # § 13 – Anwendungsvorschriften
 
 (1) Die Abschnitte 3 und 4 dieses Gesetzes sind ab dem 1. Januar 2022 anzuwenden.
+
+(1a) § 10 in der Fassung des Artikels 24 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals ab dem 1. Januar 2022 anzuwenden.
 
 (2) Abweichend von Absatz 1 sind die Abschnitte 3 und 4 dieses Gesetzes in Bezug auf Steuerhoheitsgebiete, die am 1. Januar 2021 nicht auf der im Amtsblatt der Europäischen Union veröffentlichten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke genannt waren, ab dem 1. Januar 2023 anzuwenden.
 

@@ -6237,7 +6237,9 @@ Die Kosten für den Einzug der Umlage und der Prüfung der Arbeitgeber werden pa
 
 Der Umlagesatz beträgt 0,15 Prozent.
 
-(+++ Hinweis: Zur Höhe des Umlagesatzes für das Kalenderjahr 2022 siehe auch § 361 Nr. 1 iVm V v. 17.12.2021 I 5230 (Insolvenzgeldumlagesatzverordnung 2022) +++)
+(+++ Hinweis: Zur Höhe des Umlagesatzes siehe auch § 361 Nr. 1  
+iVm V v. 17.12.2021 I 5230 (InsoGeldFestV 2022) für das Kalenderjahr 2022,  
+iVm V v. 16.12.2022 I 2430 (InsoGeldFestV 2023) für das Kalenderjahr 2023 +++)
 
 # § 361 – Verordnungsermächtigung
 

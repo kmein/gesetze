@@ -2306,6 +2306,7 @@
 - [GaFöG](laws/GaFöG.md) Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter
 - [GAKG](laws/GAKG.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
 - [GalvMstrV](laws/GalvMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Galvaniseur-Handwerk
+- [GAPAusnV](laws/GAPAusnV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelungen hinsichtlich der Anwendung der Standards für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standards) 7 und 8 für das Antragsjahr 2023
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
 - [GAPDZV](laws/GAPDZV.md) Verordnung zur Durchführung der GAP-Direktzahlungen
 - [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
@@ -2636,7 +2637,6 @@
 - [GüKVO](laws/GüKVO.md) Verordnung über den Güterkraftverkehr
 - [GüLogFachwPrV](laws/GüLogFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Güterverkehr und Logistik und Geprüfte Fachwirtin für Güterverkehr und Logistik
 - [GVFG](laws/GVFG.md) Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden
-- [GVFV](laws/GVFV.md) Verordnung über das Formular für den Vollstreckungsauftrag an den Gerichtsvollzieher
 - [GVG](laws/GVG.md) Gerichtsverfassungsgesetz
 - [GVGEG](laws/GVGEG.md) Einführungsgesetz zum Gerichtsverfassungsgesetz
 - [GVIDVDV](laws/GVIDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes
@@ -5037,7 +5037,7 @@
 - [SGB 10/Kap3](laws/SGB_10_Kap3.md) Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten -
 - [SGB 11](laws/SGB_11.md) Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)
 - [SGB 12](laws/SGB_12.md) Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)
-- [SGB 2](laws/SGB_2.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)
+- [SGB 2](laws/SGB_2.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *
 - [SGB 3](laws/SGB_3.md) Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)
 - [SGB 4](laws/SGB_4.md) Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)
 - [SGB 5](laws/SGB_5.md) Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)

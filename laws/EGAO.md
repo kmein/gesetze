@@ -235,7 +235,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesra
 
 (5) § 152 Absatz 2 der Abgabenordnung ist nicht auf Steuererklärungen zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar 2022 anzuwenden.
 
-(5) § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung ist auf Versicherung- und Feuerschutzsteuer erstmals anzuwenden, soweit diese nach dem 31. Dezember 2020 anzumelden ist. Hinsichtlich anderer Steuern ist § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung in allen offenen Fällen anzuwenden.
+(6) § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung ist auf Versicherung- und Feuerschutzsteuer erstmals anzuwenden, soweit diese nach dem 31. Dezember 2020 anzumelden ist. Hinsichtlich anderer Steuern ist § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung in allen offenen Fällen anzuwenden.
 
 (+++ Art. 97 § 8: Zur Geltung vgl. Art. 97 §§ 10a, 17e u. 28 +++)
 
@@ -301,6 +301,8 @@ Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesra
 
 (4) Die §§ 109 und 149 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind erstmals anzuwenden für Besteuerungszeiträume, die nach dem 31. Dezember 2017 beginnen, und Besteuerungszeitpunkte, die nach dem 31. Dezember 2017 liegen. § 150 Absatz 7 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung ist erstmals anzuwenden für Besteuerungszeiträume, die nach dem 31. Dezember 2016 beginnen, und Besteuerungszeitpunkte, die nach dem 31. Dezember 2016 liegen. § 8 Absatz 4 Satz 3 und 4 ist entsprechend anzuwenden.
 
+(5) § 150 Absatz 7 Satz 2 der Abgabenordnung in der am 21. Dezember 2022 geltenden Fassung ist auf Steuererklärungen anzuwenden, die nach dem 21. Dezember 2022 abgegeben werden.
+
 # § 10b – Gesonderte Feststellungen
 
 § 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993 (BGBl. I S. 2310) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 1994 beginnen. § 180 Absatz 1 Satz 2 der Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 2014 beginnen.
@@ -350,6 +352,8 @@ Die Vorschriften des § 203 der Reichsabgabenordnung sind auch nach dem 31. Deze
 (4) § 231 Abs. 1 Satz 1 und Abs. 2 Satz 1 der Abgabenordnung in der Fassung des Artikels 17 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2601) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht abgelaufenen Verjährungsfristen.
 
 (5) § 228 Satz 2 sowie § 231 Absatz 1 Satz 1 und Absatz 2 Satz 1 der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung gelten für alle am 24. Juni 2017 noch nicht abgelaufenen Verjährungsfristen.
+
+(6) Die §§ 229 und 230 der Abgabenordnung in der am 21. Dezember 2022 geltenden Fassung gelten für alle am 21. Dezember 2022 noch nicht abgelaufenen Verjährungsfristen.
 
 # § 15 – Zinsen
 
@@ -467,6 +471,10 @@ Die Höhe der Gebühren und Auslagen im Vollstreckungsverfahren richtet sich nac
 (11) Wurde mit einem am 31. Dezember 2006 anhängigen Einspruch gegen die Entscheidung über die Festsetzung von Kindergeld nach Abschnitt X des Einkommensteuergesetzes die Verfassungswidrigkeit der für die Jahre 1996 bis 2000 geltenden Regelungen zur Höhe des Kindergeldes gerügt, gilt der Einspruch mit Wirkung vom 1. Januar 2007 ohne Einspruchsentscheidung insoweit als zurückgewiesen; dies gilt auch, wenn der Einspruch unzulässig ist. Abweichend von § 47 Abs. 1 und § 55 der Finanzgerichtsordnung endet die Klagefrist mit Ablauf des 31. Dezember 2007.
 
 (12) § 172 Abs. 3 und § 367 Abs. 2b der Abgabenordnung in der Fassung des Artikels 10 Nr. 12 und 16 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gelten auch, soweit Aufhebungs- oder Änderungsanträge oder Einsprüche vor dem 19. Dezember 2006 gestellt oder eingelegt wurden und die Allgemeinverfügung nach dem 19. Dezember 2006 im Bundessteuerblatt veröffentlicht wird.
+
+# § 18b – Zuständigkeit für Klagen nach § 32i Absatz 2 der Abgabenordnung
+
+§ 32i Absatz 5 Satz 2 der Abgabenordnung in der am 21. Dezember 2022 geltenden Fassung ist auf alle nach dem 20. Dezember 2022 anhängig gewordenen Klagen anzuwenden.
 
 # § 19
 
@@ -627,9 +635,9 @@ In den Fällen von Satz 1 Nummer 2 ist die Fallgestaltung im Bericht abstrakt zu
 
 § 89a der Abgabenordnung in der am 9. Juni 2021 geltenden Fassung ist erstmals auf Anträge anzuwenden, die nach dem 8. Juni 2021 bei der zuständigen Behörde eingegangen sind. § 178a der Abgabenordnung in der Fassung des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist letztmals auf Anträge anzuwenden, die am 8. Juni 2021 bei der zuständigen Behörde eingegangen sind.
 
-# § 35 – Abrufverfahren von Steuermessbeträgen
+# § 35 – Abrufverfahren bei Steuermessbeträgen und Zerlegungsbescheiden
 
-§ 184 Absatz 3 Satz 2 der Abgabenordnung findet erstmals für Steuermessbeträge Anwendung, die für Realsteuern des Jahres 2025 maßgeblich sind.
+§ 184 Absatz 3 Satz 2 und § 188 Absatz 1 Satz 2 der Abgabenordnung finden erstmals für die Steuermessbeträge und Zerlegungsbescheide Anwendung, die für Realsteuern des Jahres 2025 maßgeblich sind. Für Zwecke der Grundsteuer findet § 188 Absatz 1 Satz 2 der Abgabenordnung erst Anwendung, wenn die technischen und organisatorischen Voraussetzungen für den elektronischen Abruf erfüllt sind, spätestens aber ab dem 1. Januar 2025.
 
 # § 36 – Sonderregelungen auf Grund der Corona-Pandemie
 
