@@ -213,7 +213,11 @@ Das Bundeszentralamt für Steuern bedient sich zur Durchführung dieser Aufgaben
 
 45. die Übermittlung von Daten im Rahmen des automatisierten Datenabrufverfahrens mit den Trägern der gesetzlichen Rentenversicherung in den in § 151b Absatz 2 Satz 2 und § 151c Absatz 1 des Sechsten Buches Sozialgesetzbuch genannten Fällen;
 
-46. Mitwirkung bei der Festlegung der Einzelheiten der Risikomanagementsysteme zur Gewährleistung eines bundeseinheitlichen Vollzugs auf dem Gebiet der Steuern, die von den Landesfinanzbehörden im Auftrag des Bundes verwaltet werden.
+45a. die Durchführung des Besteuerungsverfahrens nach dem Gesetz zur Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU) 2022/1854;
+
+46. Mitwirkung bei der Festlegung der Einzelheiten der Risikomanagementsysteme zur Gewährleistung eines bundeseinheitlichen Vollzugs auf dem Gebiet der Steuern, die von den Landesfinanzbehörden im Auftrag des Bundes verwaltet werden;
+
+46a. die Prüfung nach § 7 Absatz 1 Satz 1 und 2 des Gesetzes über steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln, wenn im Zeitpunkt der Antragstellung keine Finanzbehörde nach § 20 der Abgabenordnung für die Besteuerung der ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist.
 
 Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes nach § 88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbehörden weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des Zugangs der Daten zur Durchführung von Verfahren im Sinne des § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur Datenschutzkontrolle zu speichern.
 

@@ -1744,11 +1744,11 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 (1) Das Finanzamt kann von jedem, für dessen Besteuerung eine gesonderte Feststellung von Bedeutung ist, die Abgabe einer Feststellungserklärung verlangen. Die Frist zur Abgabe der Feststellungserklärung muss mindestens einen Monat betragen.
 
-(2) Ist der Gegenstand der Feststellung mehreren Personen zuzurechnen oder ist eine Personengesellschaft oder Kapitalgesellschaft dessen Eigentümer, kann das Finanzamt auch von der Gemeinschaft oder Gesellschaft die Abgabe einer Feststellungserklärung verlangen. Dies gilt auch, wenn Gegenstand der Feststellung ein Anteil am Betriebsvermögen ist. Das Finanzamt kann in Erbbaurechtsfällen die Abgabe einer Feststellungserklärung vom Erbbauberechtigten und vom Erbbauverpflichteten verlangen. Absatz 4 Satz 2 ist nicht anzuwenden.
+(2) Ist der Gegenstand der Feststellung mehreren Personen zuzurechnen oder ist eine Personengesellschaft oder Kapitalgesellschaft dessen Eigentümer, kann das Finanzamt auch von der Gemeinschaft oder Gesellschaft die Abgabe einer Feststellungserklärung verlangen. Dies gilt auch, wenn Gegenstand der Feststellung ein Anteil am Betriebsvermögen ist. Das Finanzamt kann in Erbbaurechtsfällen die Abgabe einer Feststellungserklärung vom Erbbauberechtigten und vom Erbbauverpflichteten verlangen. Absatz 4 Satz 5 ist nicht anzuwenden.
 
 (3) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 kann das Finanzamt nur von der Kapitalgesellschaft die Abgabe einer Feststellungserklärung verlangen.
 
-(4) Der Erklärungspflichtige hat die Erklärung eigenhändig zu unterschreiben. Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abgegeben, sind andere Beteiligte insoweit von der Erklärungspflicht befreit.
+(4) Der Erklärungspflichtige hat die Erklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen eigenhändig zu unterschreiben. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten der elektronischen Übermittlung der Erklärungen für die Feststellungen nach § 151 Absatz 1 Satz 1 Nummer 1 bis 4 und jeweils deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen. Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abgegeben, sind andere Beteiligte insoweit von der Erklärungspflicht befreit.
 
 (5) § 181 Abs. 1 und 5 der Abgabenordnung ist entsprechend anzuwenden.
 
@@ -2134,7 +2134,11 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 (1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu Grunde zu legen.
 
-(2) Die für die Wertermittlung erforderlichen Daten des Gutachterausschusses im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs sind bei den Bewertungen nach den §§ 182 bis 196 für längstens zwei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als zwei Jahre hinaus angewendet werden.
+(2) Bei den Bewertungen nach den §§ 182 bis 196 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten sonstigen für die Wertermittlung erforderlichen Daten im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs anzuwenden, wenn diese Daten im Sinne des Absatzes 3 als geeignet anzusehen sind. Hat der Gutachterausschuss diese Daten auf einen Stichtag bezogen, ist der letzte Stichtag vor dem Bewertungsstichtag maßgeblich, sofern dieser nicht mehr als drei Jahre vor dem Bewertungsstichtag liegt. Liegt der Bezugsstichtag mehr als drei Jahre zurück oder ist kein Bezugsstichtag bestimmt, sind die sonstigen für die Wertermittlung erforderlichen Daten anzuwenden, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Diese Daten sind für längstens drei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als drei Jahre hinaus angewendet werden.
+
+(3) Die sonstigen für die Wertermittlung erforderlichen Daten nach Absatz 2 sind als geeignet anzusehen, wenn deren Ableitung weitgehend in demselben Modell erfolgt ist wie die Bewertung.
+
+(4) Soweit in den §§ 179 und 182 bis 196 nichts anderes bestimmt ist, werden Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, nicht berücksichtigt. § 198 bleibt hiervon unberührt.
 
 (+++ § 177: Zur Anwendung vgl. § 265 +++)
 
@@ -2186,7 +2190,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (8) Sonstige bebaute Grundstücke sind solche Grundstücke, die nicht unter die Absätze 2 bis 7 fallen.
 
-(9) Eine Wohnung ist die Zusammenfassung einer Mehrheit von Räumen, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung einer Mehrheit von Räumen muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Außerdem ist erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche muss mindestens 23 Quadratmeter (m²) betragen.
+(9) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist es erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
 # § 182 – Bewertung der bebauten Grundstücke
 
@@ -2218,7 +2222,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (1) Bei Anwendung des Vergleichswertverfahrens sind Kaufpreise von Grundstücken heranzuziehen, die hinsichtlich der ihren Wert beeinflussenden Merkmale mit dem zu bewertenden Grundstück hinreichend übereinstimmen (Vergleichsgrundstücke). Grundlage sind vorrangig die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs mitgeteilten Vergleichspreise.
 
-(2) Anstelle von Preisen für Vergleichsgrundstücke können von den Gutachterausschüssen für geeignete Bezugseinheiten, insbesondere Flächeneinheiten des Gebäudes, ermittelte und mitgeteilte Vergleichsfaktoren herangezogen werden. Bei Verwendung von Vergleichsfaktoren, die sich nur auf das Gebäude beziehen, ist der Bodenwert nach § 179 gesondert zu berücksichtigen. Anzuwenden sind die Vergleichsfaktoren, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt.
+(2) Anstelle von Preisen für Vergleichsgrundstücke können von den Gutachterausschüssen für geeignete Bezugseinheiten, insbesondere Flächeneinheiten des Gebäudes, ermittelte und mitgeteilte Vergleichsfaktoren herangezogen werden. Bei Verwendung von Vergleichsfaktoren, die sich nur auf das Gebäude beziehen, ist der Bodenwert nach § 179 gesondert zu berücksichtigen. Anzuwenden sind die von den Gutachterausschüssen ermittelten Vergleichsfaktoren nach Maßgabe des § 177 Absatz 2 und 3.
 
 (3) Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, werden im Vergleichswertverfahren nach den Absätzen 1 und 2 nicht berücksichtigt.
 
@@ -2230,7 +2234,9 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (2) Der Bodenwert ist der Wert des unbebauten Grundstücks nach § 179.
 
-(3) Der Bodenwert und der Gebäudeertragswert (§ 185) ergeben den Ertragswert des Grundstücks. Es ist mindestens der Bodenwert anzusetzen. Sonstige bauliche Anlagen, insbesondere Außenanlagen, sind regelmäßig mit dem Ertragswert des Gebäudes abgegolten.
+(3) Der Bodenwert und der Gebäudeertragswert (§ 185) ergeben den Ertragswert des Grundstücks. Es ist mindestens der Bodenwert anzusetzen.
+
+(4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist mit dem nach den Absätzen 1 bis 3 ermittelten Ertragswert abgegolten.
 
 # § 185 – Ermittlung des Gebäudeertragswerts
 
@@ -2238,7 +2244,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (2) Der Reinertrag des Grundstücks ist um den Betrag zu vermindern, der sich durch eine angemessene Verzinsung des Bodenwerts ergibt; dies ergibt den Gebäudereinertrag. Der Verzinsung des Bodenwerts ist der Liegenschaftszinssatz (§ 188) zu Grunde zu legen. Ist das Grundstück wesentlich größer, als es einer den Gebäuden angemessenen Nutzung entspricht, und ist eine zusätzliche Nutzung oder Verwertung einer Teilfläche zulässig und möglich, ist bei der Berechnung des Verzinsungsbetrags der Bodenwert dieser Teilfläche nicht zu berücksichtigen.
 
-(3) Der Gebäudereinertrag ist mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert oder verkürzt haben, ist von einer der Verlängerung oder Verkürzung entsprechenden Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt regelmäßig mindestens 30 Prozent der wirtschaftlichen Gesamtnutzungsdauer.
+(3) Der Gebäudereinertrag ist mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Das Alter des Gebäudes ist durch Abzug des Jahres der Bezugsfertigkeit des Gebäudes vom Jahr des Bewertungsstichtags zu bestimmen. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die Restnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von der entsprechend verlängerten Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt vorbehaltlich des Satzes 7 mindestens 30 Prozent der Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die nach den Sätzen 3 bis 6 ermittelte Restnutzungsdauer auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes am Bewertungsstichtag begrenzt.
 
 # § 186 – Rohertrag des Grundstücks
 
@@ -2256,51 +2262,57 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (1) Bewirtschaftungskosten sind die bei gewöhnlicher Bewirtschaftung nachhaltig entstehenden Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis; durch Umlagen gedeckte Betriebskosten bleiben unberücksichtigt.
 
-(2) Die Bewirtschaftungskosten sind nach Erfahrungssätzen anzusetzen. Anzuwenden sind die Erfahrungssätze, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von den Gutachterausschüssen keine geeigneten Erfahrungssätze zur Verfügung stehen, ist von den pauschalierten Bewirtschaftungskosten nach Anlage 23 auszugehen.
+(2) Anzusetzen sind die nach Absatz 3 an den Bewertungsstichtag angepassten Bewirtschaftungskosten aus Anlage 23.
+
+(3) Die Verwaltungskosten und Instandhaltungskosten für Wohnnutzung in Anlage 23 sind jährlich an den vom Statistischen Bundesamt festgestellten Verbraucherpreisindex für Deutschland anzupassen. Die Anpassung erfolgt mit dem Prozentsatz, um den sich der Verbraucherpreisindex für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Bewertungsstichtag vorausgeht, erhöht oder verringert hat. Die indizierten Bewirtschaftungskosten sind für alle Bewertungsstichtage des Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen veröffentlicht den maßgebenden Verbraucherpreisindex im Bundessteuerblatt.
 
 (+++ § 187: Zur Anwendung vgl. § 265 +++)
 
 # § 188 – Liegenschaftszinssatz
 
-(1) Der Liegenschaftszinssatz ist der Zinssatz, mit dem der Verkehrswert von Grundstücken im Durchschnitt marktüblich verzinst wird.
+(1) Liegenschaftszinssätze sind Kapitalisierungszinssätze, mit denen Verkehrswerte von Grundstücken je nach Grundstücksart im Durchschnitt marktüblich verzinst werden.
 
-(2) Anzuwenden sind die Liegenschaftszinssätze, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
+(2) Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Liegenschaftszinssätze nicht zur Verfügung stehen, gelten die folgenden Zinssätze:
 
-1. 5 Prozent für Mietwohngrundstücke,
+1. 3,5 Prozent für Mietwohngrundstücke,
 
-2. 5,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche,
+2. 4,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche,
 
-3. 6 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
+3. 5,0 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
 
-4. 6,5 Prozent für Geschäftsgrundstücke.
+4. 6,0 Prozent für Geschäftsgrundstücke.
 
 (+++ § 188: Zur Anwendung vgl. § 265 +++)
 
 # § 189 – Bewertung im Sachwertverfahren
 
-(1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude (Gebäudesachwert) getrennt vom Bodenwert nach § 190 zu ermitteln. Sonstige bauliche Anlagen, insbesondere Außenanlagen, und der Wert der sonstigen Anlagen sind regelmäßig mit dem Gebäudewert und dem Bodenwert abgegolten.
+(1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude (Gebäudesachwert) getrennt vom Bodenwert nach § 190 zu ermitteln.
 
 (2) Der Bodenwert ist der Wert des unbebauten Grundstücks nach § 179.
 
 (3) Der Bodenwert und der Gebäudesachwert (§ 190) ergeben den vorläufigen Sachwert des Grundstücks. Dieser ist zur Anpassung an den gemeinen Wert mit einer Wertzahl nach § 191 zu multiplizieren.
 
+(4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist grundsätzlich mit dem nach den Absätzen 1 bis 3 ermittelten Sachwert abgegolten. Dies gilt nicht bei besonders werthaltigen baulichen Außenanlagen und sonstigen Anlagen.
+
 # § 190 – Ermittlung des Gebäudesachwerts
 
-(1) Bei der Ermittlung des Gebäudesachwerts ist von den Regelherstellungskosten des Gebäudes auszugehen. Regelherstellungskosten sind die gewöhnlichen Herstellungskosten je Flächeneinheit. Durch Multiplikation der jeweiligen nach Absatz 2 an den Bewertungsstichtag angepassten Regelherstellungskosten mit der Brutto-Grundfläche des Gebäudes ergibt sich der Gebäuderegelherstellungswert. Die Regelherstellungskosten sind in der Anlage 24 enthalten.
+(1) Bei der Ermittlung des Gebäudesachwerts ist von den Regelherstellungskosten des Gebäudes auszugehen. Regelherstellungskosten sind die durchschnittlichen Herstellungskosten je Flächeneinheit. Die Regelherstellungskosten sind in der Anlage 24 enthalten.
 
-(2) Die Anpassung der Regelherstellungskosten erfolgt anhand der vom Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist auf die Preisindizes für die Bauwirtschaft abzustellen, die das Statistische Bundesamt für den Neubau in konventioneller Bauart von Wohn- und Nichtwohngebäuden jeweils als Jahresdurchschnitt ermittelt. Diese Preisindizes sind für alle Bewertungsstichtage des folgenden Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen veröffentlicht die maßgebenden Baupreisindizes im Bundessteuerblatt.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 24 zu diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten Regelherstellungskosten nach Maßgabe marktüblicher durchschnittlicher Herstellungskosten aktualisiert, soweit dies zur Ermittlung des gemeinen Werts erforderlich ist.
 
-(3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 24 zu diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten Regelherstellungskosten nach Maßgabe marktüblicher gewöhnlicher Herstellungskosten aktualisiert, soweit dies zur Ermittlung des gemeinen Werts erforderlich ist.
+(3) Zur Ermittlung des Gebäudesachwerts sind die durchschnittlichen Herstellungskosten des Gebäudes mit dem Regionalfaktor nach Absatz 5 sowie dem Alterswertminderungsfaktor nach Absatz 6 zu multiplizieren. Die durchschnittlichen Herstellungskosten des Gebäudes ergeben sich durch Multiplikation der Regelherstellungskosten nach den Absätzen 1 und 2 mit der jeweiligen Brutto-Grundfläche des Gebäudes und dem Baupreisindex nach Absatz 4.
 
-(4) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung abzuziehen. Diese wird regelmäßig nach dem Verhältnis des Alters des Gebäudes am Bewertungsstichtag zur wirtschaftlichen Gesamtnutzungsdauer nach Anlage 22 bestimmt. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert haben, so ist von einem entsprechenden späteren Baujahr auszugehen. Bei bestehender Abbruchverpflichtung für das Gebäude ist bei der Ermittlung der Alterswertminderung von der tatsächlichen Gesamtnutzungsdauer des Gebäudes auszugehen. Der nach Abzug der Alterswertminderung verbleibende Gebäudewert ist regelmäßig mit mindestens 30 Prozent des Gebäuderegelherstellungswerts anzusetzen.
+(4) Die Anpassung der Regelherstellungskosten an den Bewertungsstichtag erfolgt anhand der vom Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist auf die Preisindizes für die Bauwirtschaft abzustellen, die das Statistische Bundesamt für den Neubau in konventioneller Bauart von Wohn- und Nichtwohngebäuden jeweils als Jahresdurchschnitt ermittelt. Diese Preisindizes sind für alle Bewertungsstichtage des folgenden Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen veröffentlicht die maßgebenden Baupreisindizes im Bundessteuerblatt.
+
+(5) Durch Regionalfaktoren wird der Unterschied zwischen dem bundesdurchschnittlichen und dem regionalen Baukostenniveau berücksichtigt. Anzuwenden sind die Regionalfaktoren, die von den Gutachterausschüssen bei der Ableitung der Sachwertfaktoren nach § 191 Satz 1 zugrunde gelegt worden sind. Soweit von den Gutachterausschüssen keine geeigneten Regionalfaktoren zur Verfügung stehen, gilt der Regionalfaktor 1,0.
+
+(6) Der Alterswertminderungsfaktor entspricht dem Verhältnis der Restnutzungsdauer des Gebäudes am Bewertungsstichtag zur Gesamtnutzungsdauer nach Anlage 22. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Das Alter des Gebäudes ist durch Abzug des Jahres der Bezugsfertigkeit des Gebäudes vom Jahr des Bewertungsstichtags zu bestimmen. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die Restnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von der entsprechend verlängerten Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt vorbehaltlich des Satzes 6 mindestens 30 Prozent der Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die nach den Sätzen 2 bis 5 ermittelte Restnutzungsdauer auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes am Bewertungsstichtag begrenzt.
 
 (+++ § 190: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 # § 191 – Wertzahlen
 
-(1) Als Wertzahlen im Sinne des § 189 Abs. 3 sind die Sachwertfaktoren anzuwenden, die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs für das Sachwertverfahren bei der Verkehrswertermittlung abgeleitet wurden. Anzuwenden sind die Sachwertfaktoren, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt.
-
-(2) Soweit von den Gutachterausschüssen keine geeigneten Sachwertfaktoren zur Verfügung stehen, sind die in der Anlage 25 bestimmten Wertzahlen zu verwenden.
+Als Wertzahlen im Sinne des § 189 Absatz 3 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Sachwertfaktoren nach Maßgabe des § 177 Absatz 2 und 3 anzuwenden. Soweit derartige Sachwertfaktoren nicht zur Verfügung stehen, sind die in Anlage 25 bestimmten Wertzahlen zu verwenden.
 
 (+++ § 191: Zur Anwendung vgl. § 265 +++)
 
@@ -2312,51 +2324,81 @@ Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirt
 
 # § 193 – Bewertung des Erbbaurechts
 
-(1) Der Wert des Erbbaurechts ist im Vergleichswertverfahren nach § 183 zu ermitteln, wenn für das zu bewertende Erbbaurecht Vergleichskaufpreise oder aus Kaufpreisen abgeleitete Vergleichsfaktoren vorliegen.
+(1) Der Wert des Erbbaurechts ist durch Multiplikation des Werts des unbelasteten Grundstücks mit einem Erbbaurechtskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Wert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
-(2) In allen anderen Fällen setzt sich der Wert des Erbbaurechts zusammen aus einem Bodenwertanteil nach Absatz 3 und einem Gebäudewertanteil nach Absatz 5.
+(2) Der Wert des Erbbaurechts ist durch Multiplikation des nach den Absätzen 3 bis 5 ermittelten Werts mit einem Erbbaurechtsfaktor zu ermitteln, wenn für das zu bewertende Erbbaurecht kein Erbbaurechtskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtsfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaurechtsfaktoren nicht zur Verfügung stehen, gilt der Erbbaurechtsfaktor 1,0.
 
-(3) Der Bodenwertanteil ergibt sich aus der Differenz zwischen
+(3) Zur Ermittlung des Werts des Erbbaurechts wird zunächst die Summe aus
 
-1. dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks nach Absatz 4 und
+1. dem Wert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 abzüglich des Bodenwerts des unbelasteten Grundstücks nach § 179 und
 
-2. dem vertraglich vereinbarten jährlichen Erbbauzins.
+2. der nach Absatz 4 über die Restlaufzeit des Erbbaurechts kapitalisierten Differenz aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Erbbauzins
 
-Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren.
+gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach Absatz 5 ist abzuziehen.
 
-(4) Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks ergibt sich durch Anwendung des Liegenschaftszinssatzes im Sinne des § 188 Absatz 2 Satz 1 auf den Bodenwert nach § 179. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
+(4) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaurechtsfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit derartige Zinssätze nicht zur Verfügung stehen, gelten folgende Zinssätze:
 
-1. 3 Prozent für Ein- und Zweifamilienhäuser und Wohnungseigentum, das wie Ein- und Zweifamilienhäuser gestaltet ist,
+1. 2,5 Prozent für Ein- und Zweifamilienhäuser und Wohnungseigentum, das wie Ein- und Zweifamilienhäuser gestaltet ist,
 
-2. 5 Prozent für Mietwohngrundstücke und Wohnungseigentum, das nicht unter Nummer 1 fällt,
+2. 3,5 Prozent für Mietwohngrundstücke und Wohnungseigentum, das nicht unter Nummer 1 fällt,
 
-3. 5,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche, sowie sonstige bebaute Grundstücke,
+3. 4,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche, sowie sonstige bebaute Grundstücke,
 
-4. 6 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
+4. 5,0 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
 
-5. 6,5 Prozent für Geschäftsgrundstücke und Teileigentum.
+5. 6,0 Prozent für Geschäftsgrundstücke und Teileigentum.
 
-(5) Der Gebäudewertanteil ist bei der Bewertung des bebauten Grundstücks im Ertragswertverfahren der Gebäudeertragswert nach § 185, bei der Bewertung im Sachwertverfahren der Gebäudesachwert nach § 190. Ist der bei Ablauf des Erbbaurechts verbleibende Gebäudewert nicht oder nur teilweise zu entschädigen, ist der Gebäudewertanteil des Erbbaurechts um den Gebäudewertanteil des Erbbaugrundstücks nach § 194 Abs. 4 zu mindern.
+Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks ergibt sich durch Anwendung des Zinssatzes nach Satz 2 oder 3 auf den Bodenwert nach § 179. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
+
+(5) Zur Ermittlung des bei Ablauf des Erbbaurechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 3 Satz 2 ist auf den Zeitpunkt des Ablaufs des Erbbaurechts die Differenz aus dem Wert des Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Erbbaurechts zugrunde zu legen. Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Zinssätze im Sinne des Absatzes 4 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0. Der auf den Bewertungsstichtag abgezinste Unterschiedsbetrag ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren.
 
 (+++ § 193: Zur Anwendung vgl. § 265 +++)
 
 # § 194 – Bewertung des Erbbaugrundstücks
 
-(1) Der Wert des Erbbaugrundstücks ist im Vergleichswertverfahren nach § 183 zu ermitteln, wenn für das zu bewertende Grundstück Vergleichskaufpreise oder aus Kaufpreisen abgeleitete Vergleichsfaktoren vorliegen.
+(1) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Bodenwerts des unbelasteten Grundstücks mit einem Erbbaugrundstückskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaugrundstückskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Bodenwert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach § 179 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
-(2) In allen anderen Fällen bildet der Bodenwertanteil nach Absatz 3 den Wert des Erbbaugrundstücks. Dieser ist um einen Gebäudewertanteil nach Absatz 4 zu erhöhen, wenn der Wert des Gebäudes vom Eigentümer des Erbbaugrundstücks nicht oder nur teilweise zu entschädigen ist.
+(2) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Werts des Erbbaugrundstücks nach den Absätzen 3 bis 5 mit einem Erbbaugrundstücksfaktor zu ermitteln, wenn für das zu bewertende Erbbaugrundstück kein Erbbaugrundstückskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen ermittelten Erbbaugrundstücksfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaugrundstücksfaktoren nicht zur Verfügung stehen, gilt der Erbbaugrundstücksfaktor 1,0.
 
-(3) Der Bodenwertanteil ist die Summe des über die Restlaufzeit des Erbbaurechts abgezinsten Bodenwerts nach § 179 und der über diesen Zeitraum kapitalisierten Erbbauzinsen. Der Abzinsungsfaktor für den Bodenwert wird in Abhängigkeit vom Zinssatz nach § 193 Abs. 4 und der Restlaufzeit des Erbbaurechts ermittelt; er ist Anlage 26 zu entnehmen. Als Erbbauzinsen sind die am Bewertungsstichtag vereinbarten jährlichen Erbbauzinsen anzusetzen; sie sind mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren.
+(3) Zur Ermittlung des Werts des Erbbaugrundstücks wird zunächst die Summe aus
 
-(4) Der Gebäudewertanteil des Erbbaugrundstücks entspricht dem Gebäudewert oder dem anteiligen Gebäudewert, der dem Eigentümer des Erbbaugrundstücks bei Beendigung des Erbbaurechts durch Zeitablauf entschädigungslos zufällt; er ist nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen.
+1. dem nach Absatz 4 über die Restlaufzeit des Erbbaurechts abgezinsten Bodenwert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 und
+
+2. dem nach Absatz 5 über die Restlaufzeit des Erbbaurechts kapitalisierten vertraglich vereinbarten jährlichen Erbbauzins
+
+gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach § 193 Absatz 5 ist hinzuzurechnen.
+
+(4) Der Bodenwert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 ist über die Restlaufzeit des Erbbaurechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0.
+
+(5) Der vertraglich vereinbarte jährliche Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
 
 # § 195 – Gebäude auf fremdem Grund und Boden
 
-(1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absatz 2) und die wirtschaftliche Einheit des belasteten Grundstücks (Absatz 3) gesondert zu ermitteln.
+(1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absätze 2 bis 4) und die wirtschaftliche Einheit des belasteten Grundstücks (Absätze 5 bis 7) gesondert zu ermitteln. Die ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
 
-(2) Das Gebäude auf fremdem Grund und Boden wird bei einer Bewertung im Ertragswertverfahren mit dem Gebäudeertragswert nach § 185, bei einer Bewertung im Sachwertverfahren mit dem Gebäudesachwert nach § 190 bewertet. Ist der Nutzer verpflichtet, das Gebäude bei Ablauf des Nutzungsrechts zu beseitigen, ist bei der Ermittlung des Gebäudeertragswerts der Vervielfältiger nach Anlage 21 anzuwenden, der sich für die am Bewertungsstichtag verbleibende Nutzungsdauer ergibt. § 185 Abs. 3 Satz 5 ist nicht anzuwenden. Ist in diesen Fällen der Gebäudesachwert zu ermitteln, bemisst sich die Alterswertminderung im Sinne des § 190 Absatz 4 Satz 1 bis 3 nach dem Alter des Gebäudes am Bewertungsstichtag und der tatsächlichen Gesamtnutzungsdauer. § 190 Absatz 4 Satz 5 ist nicht anzuwenden.
+(2) Der Wert des Gebäudes auf fremdem Grund und Boden wird ermittelt durch Bildung der Summe aus
 
-(3) Der Wert des belasteten Grundstücks ist der auf den Bewertungsstichtag abgezinste Bodenwert nach § 179 zuzüglich des über die Restlaufzeit des Nutzungsrechts kapitalisierten Entgelts. Der Abzinsungsfaktor für den Bodenwert wird in Abhängigkeit vom Zinssatz nach § 193 Abs. 4 und der Restlaufzeit des Nutzungsverhältnisses ermittelt; er ist Anlage 26 zu entnehmen. Das über die Restlaufzeit des Nutzungsrechts kapitalisierte Entgelt ergibt sich durch Anwendung des Vervielfältigers nach Anlage 21 auf das zum Bewertungsstichtag vereinbarte jährliche Entgelt.
+1. dem Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Nutzungsrecht nicht bestünde, abzüglich des Bodenwerts des unbelasteten Grundstücks nach § 179 und
+
+2. der nach Absatz 3 über die Restlaufzeit des Nutzungsrechts kapitalisierten Differenz aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Nutzungsentgelt.
+
+Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach Absatz 4 ist abzuziehen.
+
+(3) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die von den Gutachterausschüssen ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3 zugrunde zu legen. Soweit von den Gutachterausschüssen keine derartigen Liegenschaftszinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3 entsprechend. Der angemessene Verzinsungsbetrag des Bodenwerts des fiktiv unbelasteten Grundstücks ergibt sich durch Anwendung des Zinssatzes nach Satz 2 oder 3 auf den Bodenwert nach § 179. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
+
+(4) Zur Ermittlung des bei Ablauf des Nutzungsrechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 2 Satz 2 ist auf den Zeitpunkt des Ablaufs des Nutzungsrechts die Differenz aus dem Wert des unbelasteten Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Nutzungsrechts zugrunde zu legen. Die so ermittelte Differenz ist über die Restlaufzeit des Nutzungsrechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Liegenschaftszinssätze im Sinne des Absatzes 3 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0. Die auf den Bewertungsstichtag abgezinste Differenz ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren. Ist der Nutzer verpflichtet, das Gebäude bei Ablauf des Nutzungsrechts zu beseitigen, ergibt sich kein Wertanteil des Gebäudes.
+
+(5) Der Wert des mit dem Nutzungsrecht belasteten Grundstücks wird ermittelt durch Bildung der Summe aus
+
+1. dem nach Absatz 6 über die Restlaufzeit des Nutzungsrechts abgezinsten Wert des Grundstücks, der nach § 179 festzustellen wäre, wenn die Belastung mit dem Nutzungsrecht nicht bestünde, und
+
+2. dem nach Absatz 7 über die Restlaufzeit des Nutzungsrechts kapitalisierten vertraglich vereinbarten jährlichen Nutzungsentgelt.
+
+Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes im Sinne des Absatzes 4 ist hinzuzurechnen.
+
+(6) Der Wert des unbelasteten Grundstücks nach § 179 ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0.
+
+(7) Das vertraglich vereinbarte jährliche Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Absatz 3 Satz 2 oder 3 anzuwendenden Zinssatzes.
 
 (+++ § 195 Abs. 2 Satz 4 u. 5: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
@@ -2743,7 +2785,7 @@ d) Hofstelle,
 § 234 Abs. 6 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 § 234 Abs. 6 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch Gesetz über die Festsetzung der Hebesätze für die Realsteuern für das Kalenderjahr 2022 sowie zur Änderung des Hamburgischen Grundsteuergesetzes v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
 
-# § 235 – Bewertungsstichtag
+# § 235 – Feststellungszeitpunkt
 
 (1) Für die Größe des Betriebs sowie für den Umfang und den Zustand der Gebäude sind die Verhältnisse im Feststellungszeitpunkt maßgebend.
 
@@ -3219,6 +3261,10 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (12) § 177 Absatz 1 und 2, § 179 Satz 3, § 183 Absatz 2 Satz 3, § 187 Absatz 2 Satz 2 und 3, § 188 Absatz 2 Satz 1, § 191 Absatz 1 Satz 2, § 193 Absatz 4 Satz 1 und § 198 Absatz 1 bis 3 in der Fassung des Artikels 1 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) sind auf Bewertungsstichtage nach dem 22. Juli 2021 anzuwenden.
 
+(13) Bis zu dem nach § 153 Absatz 4 Satz 3 jeweils festgelegten Beginn der elektronischen Übermittlung ist § 153 Absatz 2 und 4 in der bis zum 20. Dezember 2022 gültigen Fassung weiter anzuwenden.
+
+(14) § 177 Absatz 2, 3 und 4, § 181 Absatz 9, § 183 Absatz 2 Satz 3, § 184 Absatz 3 und 4, § 185 Absatz 3 Satz 4 bis 7, § 187 Absatz 2 und 3, § 188 Absatz 1 und 2, § 189 Absatz 1 und 4, die §§ 190, 191, 193, 194 und 195 sowie die Anlagen 21, 22, 23, 24 und 25 in der Fassung des Artikels 19 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) sind auf Bewertungsstichtage nach dem 31. Dezember 2022 anzuwenden.
+
 # § 266 – Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
 
 (1) Die erste Hauptfeststellung für die Grundsteuerwerte nach § 221 wird auf den 1. Januar 2022 für die Hauptveranlagung auf den 1. Januar 2025 durchgeführt.
@@ -3227,7 +3273,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (3) Werden der Finanzbehörde durch eine Erklärung im Sinne des § 228 auf den 1. Januar 2022 für die Bewertung eines Betriebs der Land- und Forstwirtschaft oder eines Grundstücks vor dem 1. Januar 2022 eingetretene Änderungen der tatsächlichen Verhältnisse erstmals bekannt, sind diese bei Fortschreibungen nach § 22 und Nachfeststellungen nach § 23 auf Feststellungszeitpunkte vor dem 1. Januar 2022 nicht zu berücksichtigen.
 
-(4) Einheitswertbescheide, Grundsteuermessbescheide und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, werden kraft Gesetzes zum 31. Dezember 2024 mit Wirkung für die Zukunft aufgehoben, soweit sie auf den §§ 19 bis 23, 27, 76, 79 Absatz 5, § 93 Absatz 1 Satz 2 des Bewertungsgesetzes in Verbindung mit Artikel 2 Absatz 1 Satz 1 und 3 des Gesetzes zur Änderung des Bewertungsgesetzes in der Fassung des Artikels 2 des Gesetzes vom 22. Juli 1970 (BGBl. I S. 1118) beruhen. Gleiches gilt für Einheitswertbescheide, Grundsteuermessbescheide und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, soweit sie auf den §§ 33, 34, 125, 129 des Bewertungsgesetzes in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) und § 42 des Grundsteuergesetzes vom 7. August 1973 (BGBl. I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, beruhen. Für die Bewertung des inländischen Grundbesitzes (§ 19 Absatz 1 in der Fassung vom 31. Dezember 2024) für Zwecke der Grundsteuer bis einschließlich zum Kalenderjahr 2024 ist das Bewertungsgesetz in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) geändert worden ist, weiter anzuwenden.
+(4) Einheitswertbescheide, Grundsteuermessbescheide, Bescheide über die Zerlegung des Grundsteuermessbetrags und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, werden kraft Gesetzes zum 31. Dezember 2024 mit Wirkung für die Zukunft aufgehoben, soweit sie auf den §§ 19 bis 23, 27, 76, 79 Absatz 5, § 93 Absatz 1 Satz 2 des Bewertungsgesetzes in Verbindung mit Artikel 2 Absatz 1 Satz 1 und 3 des Gesetzes zur Änderung des Bewertungsgesetzes in der Fassung des Artikels 2 des Gesetzes vom 22. Juli 1970 (BGBl. I S. 1118) beruhen. Gleiches gilt für Einheitswertbescheide, Grundsteuermessbescheide, Bescheide über die Zerlegung des Grundsteuermessbetrags und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, soweit sie auf den §§ 33, 34, 125, 129 des Bewertungsgesetzes in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) und § 42 des Grundsteuergesetzes vom 7. August 1973 (BGBl. I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, beruhen. Für die Bewertung des inländischen Grundbesitzes (§ 19 Absatz 1 in der Fassung vom 31. Dezember 2024) für Zwecke der Grundsteuer bis einschließlich zum Kalenderjahr 2024 ist das Bewertungsgesetz in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) geändert worden ist, weiter anzuwenden.
 
 (5) Bestehende wirtschaftliche Einheiten, die für Zwecke der Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
@@ -6180,13 +6226,13 @@ Gänsemast,
 
 Putenmast.
 
-# Anlage 21 – (zu § 185 Abs. 3 Satz 1, § 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und § 195 Abs. 2 Satz 2 und Abs. 3 Satz 3)Vervielfältiger
+# Anlage 21 – (zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)Vervielfältiger
 
 (Fundstelle: BGBl. I 2008, 3066 - 3068)
 
 In den Fällen anderer Zinssätze der Gutachterausschüsse ist der Vervielfältiger nach folgender Formel zu bilden:
 
-# Anlage 22 – (zu § 185 Absatz 3 Satz 3, § 190 Absatz 4 Satz 2)Wirtschaftliche Gesamtnutzungsdauer
+# Anlage 22 – (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2) Gesamtnutzungsdauer
 
 (Fundstelle: BGBl. I 2015, 1846)
 
@@ -6194,11 +6240,85 @@ Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden 
 
 (+++ Anlage 22: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
-# Anlage 23 – (zu § 187 Abs. 2 Satz 2)Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
+# Anlage 23 – (zu § 187 Absatz 2 und 3)Bewirtschaftungskosten
 
-(Fundstelle: BGBl. I 2008, 3070)
+(Fundstelle: BGBl. I 2022, 2317)
 
-# Anlage 24 – (zu § 190 Absatz 1 Satz 4 und Absatz 3)Ermittlung des Gebäuderegelherstellungswerts
+I.
+
+Bewirtschaftungskosten für Wohnnutzung
+
+1\.
+
+Verwaltungskosten (Basiswerte)
+
+jährlich je Wohnung
+
+230 Euro
+
+jährlich je Garage oder ähnlichen Einstellplatz
+
+ 30 Euro
+
+2\.
+
+Instandhaltungskosten (Basiswerte)
+
+jährlich je Quadratmeter Wohnfläche
+
+  9 Euro
+
+jährlich je Garage oder ähnlichen Einstellplatz
+
+ 68 Euro
+
+3\.
+
+Mietausfallwagnis
+
+jährlicher Rohertrag
+
+2 Prozent
+
+II\.
+
+Bewirtschaftungskosten für gewerbliche Nutzung
+
+1\.
+
+Verwaltungskosten
+
+jährlicher Rohertrag
+
+3 Prozent
+
+2\.
+
+Instandhaltungskosten
+
+jährlich je Quadratmeter Nutzfläche (alle Gebäudearten der Anlage 24, Teil II., mit Ausnahme der nachfolgend genannten Gebäudearten)
+
+100 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2
+
+jährlich je Quadratmeter Nutzfläche (Gebäudeart 13 der Anlage 24, Teil II.)
+
+50 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2
+
+jährlich je Quadratmeter Nutzfläche (Gebäudearten 15 bis 16 und 18 der Anlage 24, Teil II.)
+
+30 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2
+
+3\.
+
+Mietausfallwagnis
+
+jährlicher Rohertrag
+
+4 Prozent
+
+Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Stichtag der Ermittlung des Liegenschaftszinssatzes vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.
+
+# Anlage 24 – (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten
 
 (Fundstelle: BGBl. I 2015, 1847 – 1862)
 
@@ -8605,193 +8725,41 @@ keine
 
 (+++ Anlage 24: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
-# Anlage 25 – (zu § 191 Absatz 2)Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Absatz 1 Nummer 1 BewG und Wohnungseigentum nach § 181 Absatz 1 Nummer 3 BewG
+# Anlage 25 – (zu § 191 Satz 2)
 
-(Fundstelle: BGBl. I 2015, 1863)
-
- 
-
-Bodenrichtwert
+(Fundstelle: BGBl. I 2022, 2317 - 2318)
 
 Vorläufiger Sachwert § 189 Absatz 3
 
-bis
-
- 
-
-15 EUR/m²
+Bodenrichtwert oder abgeleiteter Bodenwert in EUR/m² nach § 179 Satz 4
 
 30 EUR/m²
 
-50 EUR/m²
+60 EUR/m²
 
-100 EUR/m²
+120 EUR/m²
 
-150 EUR/m²
-
-bis
+180 EUR/m²
 
  50 000 EUR
-
-1,0
-
-1,1
-
-1,2
-
-1,2
-
-1,2
-
- 
-
-100 000 EUR
-
-0,8
-
-0,9
-
-1,0
-
-1,1
-
-1,1
-
- 
-
-150 000 EUR
-
-0,8
-
-0,9
-
-0,9
-
-1,0
-
-1,0
-
- 
-
-200 000 EUR
-
-0,7
-
-0,8
-
-0,8
-
-0,9
-
-0,9
-
- 
-
-300 000 EUR
-
-0,6
-
-0,7
-
-0,7
-
-0,8
-
-0,8
-
- 
-
-400 000 EUR
-
-0,5
-
-0,6
-
-0,7
-
-0,7
-
-0,8
-
- 
-
-500 000 EUR
-
-0,5
-
-0,6
-
-0,6
-
-0,7
-
-0,8
-
-über
-
-500 000 EUR
-
-0,5
-
-0,5
-
-0,5
-
-0,6
-
-0,7
-
- 
-
-Bodenrichtwert
-
-Vorläufiger Sachwert § 189 Absatz 3
-
-bis
-
-über
-
- 
-
-200 EUR/m²
-
-300 EUR/m²
-
-400 EUR/m²
-
-500 EUR/m²
-
-500 EUR/m²
-
-bis
-
- 50 000 EUR
-
-1,3
-
-1,3
-
-1,4
 
 1,4
 
 1,5
 
- 
+1,6
+
+1,7
 
 100 000 EUR
 
-1,1
-
-1,2
-
 1,2
 
 1,3
 
-1,3
+1,4
 
- 
+1,4
 
 150 000 EUR
 
@@ -8799,27 +8767,19 @@ bis
 
 1,1
 
-1,1
+1,3
 
-1,2
-
-1,2
-
- 
+1,3
 
 200 000 EUR
 
+0,9
+
 1,0
 
-1,1
-
-1,1
-
 1,2
 
 1,2
-
- 
 
 300 000 EUR
 
@@ -8827,13 +8787,9 @@ bis
 
 1,0
 
-1,0
-
 1,1
 
-1,2
-
- 
+1,1
 
 400 000 EUR
 
@@ -8843,11 +8799,7 @@ bis
 
 1,0
 
-1,0
-
 1,1
-
- 
 
 500 000 EUR
 
@@ -8859,11 +8811,117 @@ bis
 
 1,0
 
-1,1
+Vorläufiger Sachwert § 189 Absatz 3
 
-über
+Bodenrichtwert oder abgeleiteter Bodenwert in EUR/m² nach § 179 Satz 4
+
+250 EUR/m²
+
+350 EUR/m²
+
+500 EUR/m²
+
+1 000 EUR/m²
+
+ 50 000 EUR
+
+1,7
+
+1,7
+
+1,8
+
+1,8
+
+100 000 EUR
+
+1,5
+
+1,5
+
+1,6
+
+1,7
+
+150 000 EUR
+
+1,3
+
+1,4
+
+1,5
+
+1,6
+
+200 000 EUR
+
+1,3
+
+1,4
+
+1,5
+
+1,6
+
+300 000 EUR
+
+1,2
+
+1,3
+
+1,4
+
+1,5
+
+400 000 EUR
+
+1,2
+
+1,3
+
+1,4
+
+1,5
 
 500 000 EUR
+
+1,1
+
+1,2
+
+1,3
+
+1,4
+
+Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
+
+Vorläufiger Sachwert § 189 Absatz 3
+
+Bodenrichtwert oder abgeleiteter Bodenwert in EUR/m² nach § 179 Satz 4
+
+50 EUR/m²
+
+150 EUR/m²
+
+400 EUR/m²
+
+ 500 000 EUR
+
+0,8
+
+0,9
+
+1,0
+
+ 750 000 EUR
+
+0,8
+
+0,9
+
+1,0
+
+1 000 000 EUR
 
 0,7
 
@@ -8871,55 +8929,31 @@ bis
 
 0,9
 
-0,9
-
-1,0
-
-Vorläufiger Sachwert § 189 Absatz 3
-
- 
-
-bis
-
-  500 000 EUR
-
-0,90
-
- 
-
-  750 000 EUR
-
-0,85
-
- 
-
-1 000 000 EUR
-
-0,80
-
- 
-
 1 500 000 EUR
 
-0,75
+0,7
 
- 
+0,8
+
+0,9
 
 2 000 000 EUR
 
-0,70
+0,7
 
- 
+0,8
 
-3 000 000 EUR
-
-0,65
-
-über
+0,8
 
 3 000 000 EUR
 
-0,60
+0,7
+
+0,7
+
+0,7
+
+Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
 (+++ Anlage 25: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
@@ -9047,7 +9081,7 @@ Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdaue
 (Fundstelle: BGBl. I 2021, 2932 – 2936;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche\*\*  
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche<span id="FnR.FnA1-f809323_02"></span><a href="#FnA1-f809323_02" class="FnR">**</a></sup>  
 (Wertverhältnisse/Stand: 1. Januar 2022)  
   
 
@@ -9083,7 +9117,7 @@ Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Lande
   
   
 
-Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
+Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung; nicht aufgeführte Gemeinden sind der Mietniveaustufe 3 zuzuordnen.
 
 (+++ Anlage 39 Teil I Fußnote (\*): Fehlender Bezug zum Text soll korrigiert werden +++)
 

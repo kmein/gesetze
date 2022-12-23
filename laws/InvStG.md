@@ -481,7 +481,7 @@ Die Vorschriften des Kapitels 2 sind auf Spezial-Investmentfonds und deren Anleg
 
 # § 26 – Anlagebestimmungen
 
-Ein Spezial-Investmentfonds ist ein Investmentfonds, der die Voraussetzungen für eine Gewerbesteuerbefreiung nach § 15 Absatz 2 und 3 erfüllt und in der Anlagepraxis nicht wesentlich gegen die nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
+Ein Spezial-Investmentfonds ist ein Investmentfonds, der in der Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen (Anlagebestimmungen) verstößt:
 
 1. Der Investmentfonds oder dessen Verwalter ist in seinem Sitzstaat einer Aufsicht über Vermögen zur gemeinschaftlichen Kapitalanlage unterstellt. Diese Bestimmung gilt für Investmentfonds, die nach § 2 Absatz 3 des Kapitalanlagegesetzbuchs von AIF-Kapitalverwaltungsgesellschaften verwaltet werden, als erfüllt.
 
@@ -527,9 +527,17 @@ a) Immobilien-Gesellschaften,
 
 b) ÖPP-Projektgesellschaften und
 
-c) Gesellschaften, deren Unternehmensgegenstand auf die Erzeugung erneuerbarer Energien nach § 5 Nummer 14 des Erneuerbare-Energien-Gesetzes gerichtet ist.
+c) Gesellschaften, deren Unternehmensgegenstand auf die Erzeugung erneuerbarer Energien nach § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes gerichtet ist.
 
 7. Ein Kredit darf nur kurzfristig und nur bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds aufgenommen werden. Investmentfonds, die nach den Anlagebedingungen das bei ihnen eingelegte Geld in Immobilien anlegen, dürfen kurzfristige Kredite bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds und im Übrigen Kredite bis zu einer Höhe von 60 Prozent des Verkehrswertes der unmittelbar oder mittelbar gehaltenen Immobilien aufnehmen.
+
+7a. Die Einnahmen aus einer aktiven unternehmerischen Bewirtschaftung im Sinne des § 15 Absatz 2 Satz 1 Nummer 2 betragen in einem Geschäftsjahr weniger als 5 Prozent der gesamten Einnahmen des Investmentfonds. Erzielt der Investmentfonds Einnahmen aus der Erzeugung oder Lieferung von Strom, die im Zusammenhang mit der Vermietung und Verpachtung von Immobilien stehen und
+
+a) aus dem Betrieb von Anlagen zur Stromerzeugung aus erneuerbaren Energien im Sinne des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes oder
+
+b) aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder Elektrofahrräder stammen,
+
+erhöht sich die Grenze des Satzes 1 auf 10 Prozent, wenn die Grenze des Satzes 1 nur durch diese Einnahmen überschritten wird.
 
 8. An dem Investmentfonds dürfen sich unmittelbar und mittelbar über Personengesellschaften insgesamt nicht mehr als 100 Anleger beteiligen. Natürliche Personen dürfen nur beteiligt sein, wenn
 
@@ -543,7 +551,7 @@ Der Bestandsschutz nach Satz 2 Buchstabe c ist bei Beteiligungen, die ab dem 24.
 
 9. Der Spezial-Investmentfonds hat ein Sonderkündigungsrecht, wenn die zulässige Anlegerzahl überschritten wird oder Personen beteiligt sind, die nicht die Voraussetzungen der Nummer 8 Satz 2 erfüllen.
 
-10. Die Anlagebestimmungen gehen aus den Anlagebedingungen hervor.
+10. Die Anlagebestimmungen gehen mit Ausnahme der Nummer 7a aus den Anlagebedingungen hervor.
 
 (+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 Abs. 4 +++)
 
@@ -565,13 +573,13 @@ Inländische Spezial-Investmentfonds können gebildet werden
 
 # § 29 – Steuerpflicht des Spezial-Investmentfonds
 
-(1) Die Vorschriften der §§ 6 und 7 für die Besteuerung von Investmentfonds sind auf Spezial-Investmentfonds anzuwenden, soweit sich aus den nachfolgenden Regelungen keine Abweichungen ergeben.
+(1) Die Vorschriften der §§ 6, 7, 11 und 15 für die Besteuerung von Investmentfonds sind auf Spezial-Investmentfonds anzuwenden, soweit sich aus den nachfolgenden Regelungen keine Abweichungen ergeben.
 
 (2) In der Statusbescheinigung nach § 7 Absatz 3 ist der Status als Spezial-Investmentfonds zu bestätigen.
 
 (3) Bei einer Überschreitung der zulässigen Beteiligungshöhe nach § 26 Nummer 6 sind auf den Spezial-Investmentfonds keine Besteuerungsregelungen anzuwenden, die eine über dieser Grenze liegende Beteiligungshöhe voraussetzen. Dies gilt auch, wenn in Abkommen zur Vermeidung der Doppelbesteuerung Abweichendes geregelt ist.
 
-(4) Spezial-Investmentfonds sind von der Gewerbesteuer befreit.
+(4) Die Körperschaftsteuer des Spezial-Investmentfonds ermäßigt sich nicht um die vom Spezial-Investmentfonds gezahlte Gewerbesteuer nach § 29 Absatz 1 in Verbindung mit § 15. Die vom Spezial-Investmentfonds gezahlte Gewerbesteuer ist nicht als Werbungskosten abziehbar.
 
 # § 30 – Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte mit Steuerabzug
 
@@ -659,7 +667,7 @@ Die Anzeige, Anmeldung und Entrichtung hat bei Steuerpflichtigen, die ihren Gewi
 
 # § 33 – Inländische Immobilienerträge und sonstige inländische Einkünfte ohne Steuerabzug
 
-(1) Die Steuerpflicht für die inländischen Immobilienerträge eines Spezial-Investmentfonds entfällt, wenn der Spezial-Investmentfonds auf ausgeschüttete oder ausschüttungsgleiche inländische Immobilienerträge Kapitalertragsteuer gemäß § 50 erhebt, an die zuständige Finanzbehörde abführt und den Anlegern Steuerbescheinigungen gemäß § 45a Absatz 2 des Einkommensteuergesetzes ausstellt.
+(1) Die Körperschaftsteuerpflicht für die inländischen Immobilienerträge eines Spezial-Investmentfonds entfällt, wenn der Spezial-Investmentfonds auf ausgeschüttete oder ausschüttungsgleiche inländische Immobilienerträge Kapitalertragsteuer gemäß § 50 erhebt, an die zuständige Finanzbehörde abführt und den Anlegern Steuerbescheinigungen gemäß § 45a Absatz 2 des Einkommensteuergesetzes ausstellt. Die Gewerbesteuerpflicht eines Spezial-Investmentfonds nach § 29 Absatz 1 in Verbindung mit § 15 entfällt nicht.
 
 (2) Die ausgeschütteten oder ausschüttungsgleichen inländischen Immobilienerträge gelten bei einem vereinnahmenden Investmentfonds oder Dach-Spezial-Investmentfonds als Einkünfte nach § 6 Absatz 4. Diese unterliegen einem Steuerabzug ohne Berücksichtigung des § 7 Absatz 1 Satz 3. Der Steuerabzug gegenüber einem Dach-Spezial-Investmentfonds entfällt, wenn der Dach-Spezial-Investmentfonds unwiderruflich gegenüber dem Ziel-Spezial-Investmentfonds erklärt, dass den Anlegern des Dach-Spezial-Investmentfonds Steuerbescheinigungen gemäß § 45a Absatz 2 des Einkommensteuergesetzes ausgestellt werden sollen (Immobilien-Transparenzoption). Bei ausgeübter Immobilien-Transparenzoption gelten
 
@@ -820,7 +828,7 @@ Die angewachsenen Ansprüche sind mit der Emissionsrendite anzusetzen, sofern di
 
 2. dem Spezial-Investmentfonds kein Ermäßigungsanspruch aus einem Abkommen zur Vermeidung der Doppelbesteuerung aufgrund eines Quellensteuerhöchstsatzes von unter 15 Prozent zusteht.
 
-(5) Sind in den ausgeschütteten oder ausschüttungsgleichen Erträgen inländische Immobilienerträge oder sonstige inländische Einkünfte enthalten, die von dem Spezial-Investmentfonds versteuert wurden, so sind 20 Prozent dieser ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz 4 Satz 2 ist entsprechend anzuwenden.
+(5) Sind in den ausgeschütteten oder ausschüttungsgleichen Erträgen inländische Immobilienerträge oder sonstige inländische Einkünfte enthalten, die auf Ebene des Spezial-Investmentfonds der Körperschaftsteuer unterlegen haben, so sind 20 Prozent dieser ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz 4 Satz 2 ist entsprechend anzuwenden.
 
 (+++ § 42: Zur Anwendung vgl. § 57 +++)  
 (+++ § 42: Zur Anwendung vgl. § 15 KStG 1977 +++)  
@@ -861,6 +869,8 @@ Die angewachsenen Ansprüche sind mit der Emissionsrendite anzusetzen, sofern di
 3. die auf die Spezial-Investmentanteile des Anlegers rechnerisch entfallende Beteiligung am Kapital der Gesellschaft die Voraussetzungen für eine Kürzung nach § 9 Nummer 2a und 7 des Gewerbesteuergesetzes erfüllt.
 
 (2) Die nach § 43 Absatz 3 zu gewährenden Teilfreistellungen sind bei der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes nur zur Hälfte zu berücksichtigen.
+
+(3) Die tarifliche Einkommensteuer des Anlegers ermäßigt sich nicht um die vom Spezial-Investmentfonds gezahlte Gewerbesteuer nach § 29 Absatz 1 in Verbindung mit § 15. Die vom Spezial-Investmentfonds gezahlte Gewerbesteuer ist beim Anleger nicht als Betriebsausgabe oder Werbungskosten abziehbar.
 
 # § 46 – Zinsschranke
 
@@ -1179,3 +1189,17 @@ in der Fassung des Artikels 10 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 30
 3. § 20 Absatz 3a Satz 2
 
 in der Fassung des Artikels 4 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050).
+
+(7) Ab dem 1. Januar 2023 anzuwenden sind:
+
+1. § 26,
+
+2. § 29 Absatz 1 und 4,
+
+3. § 33 Absatz 1,
+
+4. § 42 Absatz 5 Satz 1,
+
+5. § 45 Absatz 3
+
+in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294).

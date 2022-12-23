@@ -145,6 +145,26 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt.
 
+# § 13a – Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
+
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat als mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen.
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz 1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben mitzuteilen:
+
+1. die Art und die Höhe der jeweils gewährten Zahlung,
+
+2. das Datum, an dem die Zahlung bewilligt wurde,
+
+3. das Datum der Zahlung und
+
+4. bei unbarer Zahlung die Bankverbindung für das Konto, auf das die Zahlungen geleistet wurden.
+
+Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz oder teilweise zurückerstattet, ist die Rückzahlung abweichend von § 93c Absatz 3 der Abgabenordnung vom Bundesamt für Wirtschaft und Ausfuhrkontrolle unter Angabe des Datums, an dem die Zahlung bei ihm eingegangen ist, mitzuteilen.
+
+(3) Mitteilungen über im Kalenderjahr 2022 ausgezahlte Leistungen sind abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der Freigabe der amtlich bestimmten Schnittstelle bis zum 31. Dezember 2025 zu übermitteln. Das Bundesministerium der Finanzen kann im Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes Schreiben verlängern, sofern die technischen Voraussetzungen für die Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten Antrag des Bundesamts für Wirtschaft und Ausfuhrkontrolle kann die oberste Finanzbehörde desjenigen Landes, in dem das Bundesamt für Wirtschaft und Ausfuhrkontrolle seinen Sitz hat, diesem die Frist nach den Sätzen 1 oder 2 um längstens zehn Monate verlängern, sofern die technischen Voraussetzungen für die Übersendung der Mitteilungen bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nicht rechtzeitig vorliegen; das Bundesministerium der Finanzen ist über eine gewährte Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt. Mitteilungspflichten über Leistungen im Sinne des Absatzes 1 Satz 1, die sich nach anderen Bestimmungen dieser Verordnung ergeben, sind nicht anzuwenden.
+
 # § 14 – Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung
 
 (1) Die Kassenärztlichen Vereinigungen haben als mitteilungspflichtige Stelle im Sinne des § 93c Absatz 1 der Abgabenordnung den Finanzbehörden die von ihnen nach dem 31. Dezember 2020 an Leistungserbringer geleisteten Zahlungen nach der Coronavirus-Testverordnung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen. Als Steuerpflichtiger im Sinne des § 93c Absatz 1 Nummer 2 Buchstabe c oder Buchstabe d der Abgabenordnung ist stets der Leistungserbringer zu benennen, auch wenn die Erstattungsforderung abgetreten, verpfändet oder gepfändet ist. Von der Mitteilungspflicht ausgenommen sind Zahlungen nach Satz 1 an öffentliche Stellen des Bundes oder eines Landes im Sinne des § 6 Absatz 1a bis 1c der Abgabenordnung.

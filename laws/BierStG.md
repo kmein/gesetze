@@ -95,7 +95,7 @@ Steuerlager sind Orte, an oder von denen Bier unter Steueraussetzung im Brauverf
 
 # § 5 – Steuerlagerinhaber
 
-(1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Brauereien, die erstmals mit der Herstellung von Bier beginnen, haben in ihrem Antrag die voraussichtliche Jahreserzeugung anzugeben.
+(1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit in Höhe des Steuerwerts des voraussichtlich im Jahresdurchschnitt in zwei Monaten aus dem Steuerlager in den steuerrechtlich freien Verkehr überführten Bieres abhängig.
 
 (2) Die Erlaubnis ist zu widerrufen, wenn eine der in Absatz 1 Satz 3 genannten Voraussetzungen nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 

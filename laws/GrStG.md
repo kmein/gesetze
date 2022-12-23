@@ -73,7 +73,7 @@ c) die fließenden Gewässer und die ihren Abfluß regelnden Sammelbecken, sowei
 
 5. Grundbesitz, der für Zwecke der Wissenschaft, des Unterrichts oder der Erziehung benutzt wird, wenn durch die Landesregierung oder die von ihr beauftragte Stelle anerkannt ist, daß der Benutzungszweck im Rahmen der öffentlichen Aufgaben liegt. Der Grundbesitz muß ausschließlich demjenigen, der ihn benutzt, oder einer juristischen Person des öffentlichen Rechts zuzurechnen sein;
 
-6. Grundbesitz, der für die Zwecke eines Krankenhauses benutzt wird, wenn das Krankenhaus in dem Kalenderjahr, das dem Veranlagungszeitpunkt (§ 13 Abs. 1) vorangeht, die Voraussetzungen des § 67 Abs. 1 oder 2 der Abgabenordnung erfüllt hat. Der Grundbesitz muß ausschließlich demjenigen, der ihn benutzt, oder einer juristischen Person des öffentlichen Rechts zuzurechnen sein.
+6. Grundbesitz, der für die Zwecke eines Krankenhauses benutzt wird, wenn das Krankenhaus in dem Kalenderjahr, das dem Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) vorangeht, die Voraussetzungen des § 67 Abs. 1 oder 2 der Abgabenordnung erfüllt hat. Der Grundbesitz muß ausschließlich demjenigen, der ihn benutzt, oder einer juristischen Person des öffentlichen Rechts zuzurechnen sein.
 
 # § 5 – Zu Wohnzwecken benutzter Grundbesitz
 
@@ -158,7 +158,7 @@ b) im Sinne des § 249 Absatz 1 Nummer 5 bis 8 des Bewertungsgesetzes 0,34 Promi
 
 1. für das Grundstück nach § 13 Absatz 3 des Wohnraumförderungsgesetzes vom 13. September 2001 (BGBl. I S. 2376), das zuletzt durch Artikel 3 des Gesetzes vom 2. Oktober 2015 (BGBl. I S. 1610) geändert worden ist, eine Förderzusage erteilt wurde und
 
-2. die sich aus der Förderzusage im Sinne des § 13 Absatz 2 des Wohnraumförderungsgesetzes ergebenden Bindungen für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums bestehen.
+2. die sich aus der Förderzusage im Sinne des § 13 Absatz 2 des Wohnraumförderungsgesetzes ergebenden Bindungen im Hauptveranlagungszeitraum bestehen.
 
 Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für Teile eines Gebäudes vor, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
 
@@ -170,11 +170,11 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 
 2. einer Wohnungsbaugesellschaft zugerechnet wird, die als gemeinnützig im Sinne des § 52 der Abgabenordnung anerkannt ist, oder
 
-3. einer Genossenschaft oder einem Verein zugerechnet wird, der seine Geschäftstätigkeit auf die in § 5 Absatz 1 Nummer 10 Buchstabe a und b des Körperschaftsteuergesetzes genannten Bereiche beschränkt und von der Körperschaftsteuer befreit ist.
-
-Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums gewährt, wenn nachgewiesen wird, dass die jeweiligen Voraussetzungen am Hauptveranlagungsstichtag vorlagen. Entfallen die Voraussetzungen des Satzes 1 während des Hauptveranlagungszeitraums, ist dies nach § 19 Absatz 2 anzuzeigen.
+3. einer Genossenschaft oder einem Verein zugerechnet wird, für deren oder dessen Tätigkeit eine Steuerbefreiung nach § 5 Absatz 1 Nummer 10 des Körperschaftsteuergesetzes besteht und soweit der Grundbesitz der begünstigten Tätigkeit zuzuordnen ist.
 
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
+
+(6) Der Abschlag auf die Steuermesszahl nach den Absätzen 2 bis 5 wird auf Antrag zunächst für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums gewährt, wenn nachgewiesen wird, dass die jeweiligen Voraussetzungen zum Hauptveranlagungszeitpunkt vorliegen. Treten die Voraussetzungen der Absätze 2 bis 5 erst im Laufe des Hauptveranlagungszeitraums ein und liegen sie zu Beginn des Erhebungszeitraums vor, wird der Steuermessbetrag auf Antrag nach § 17 Absatz 2 Nummer 1 neu veranlagt. Entfallen die Voraussetzungen der Absätze 2 bis 5, ist dies nach § 19 Absatz 2 anzuzeigen und ist der Steuermessbetrag nach § 17 Absatz 2 Nummer 1 neu zu veranlagen oder nach § 21 zu ändern. Der Antrag auf eine Ermäßigung der Steuermesszahl nach den Absätzen 2 bis 5 kann durch eine entsprechende Angabe in einer Erklärung nach § 228 Absatz 1 des Bewertungsgesetzes erfolgen.
 
 §§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch Gesetz über die Festsetzung der Hebesätze für die Realsteuern für das Kalenderjahr 2022 sowie zur Änderung des Hamburgischen Grundsteuergesetzes v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)  
@@ -232,9 +232,11 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 # § 19 – Anzeigepflicht
 
-(1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
+(1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes, die zu einer Änderung oder zum Wegfall der Steuerbefreiung führen kann, hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
 
 (2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
+
+(3) Die Anzeigen nach den Absätzen 1 und 2 sind Steuererklärungen im Sinne der Abgabenordnung, die eigenhändig zu unterschreiben sind.
 
 § 19 Abs. 1 Satz 2 u. Abs. 2 Satz 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 § 19 Abs. 1 Satz 2 u. Abs 2 Satz 2 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch Gesetz über die Festsetzung der Hebesätze für die Realsteuern für das Kalenderjahr 2022 sowie zur Änderung des Hamburgischen Grundsteuergesetzes v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
@@ -355,7 +357,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 # § 33 – Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft
 
-(1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei Betrieben der Land- und Forstwirtschaft der tatsächliche Reinertrag des Steuergegenstandes um mehr als 50 Prozent gemindert ist und der Steuerschuldner die Minderung des tatsächlichen Reinertrags nicht zu vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende Minderung des tatsächlichen Reinertrags 100 Prozent, ist die Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen. Der tatsächliche Reinertrag eines Betriebs der Land- und Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 3 Satz 1 und 2 des Bewertungsgesetzes für ein Wirtschaftsjahr. Er gilt als in dem Erlasszeitraum bezogen, in dem das für den Betrieb der Land- und Forstwirtschaft maßgebliche Wirtschaftsjahr endet.
+(1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei Betrieben der Land- und Forstwirtschaft der tatsächliche Reinertrag des Steuergegenstandes um mehr als 50 Prozent gemindert ist und der Steuerschuldner die Minderung des tatsächlichen Reinertrags nicht zu vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende Minderung des tatsächlichen Reinertrags 100 Prozent, ist die Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen. Der tatsächliche Reinertrag eines Betriebs der Land- und Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 2 Satz 1 und 2 des Bewertungsgesetzes für ein Wirtschaftsjahr. Er gilt als in dem Erlasszeitraum bezogen, in dem das für den Betrieb der Land- und Forstwirtschaft maßgebliche Wirtschaftsjahr endet.
 
 (2) Der Erlass nach Absatz 1 wird nur gewährt, wenn die Einziehung der Grundsteuer nach den wirtschaftlichen Verhältnissen des Betriebs unbillig wäre. Ein Erlass nach Absatz 1 ist insbesondere ausgeschlossen, wenn für den Betrieb der Land- und Forstwirtschaft nach § 4 Absatz 1, § 4 Absatz 3 oder § 13a des Einkommensteuergesetzes für dasjenige Wirtschaftsjahr ein Gewinn ermittelt wurde, das im Erlasszeitraum bei der Ermittlung des tatsächlichen Reinertrags nach Absatz 1 zugrunde zu legen ist.
 

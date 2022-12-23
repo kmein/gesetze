@@ -3062,6 +3062,8 @@ bekannt geworden sind, oder
 
 2c. sie der Gesetzesfolgenabschätzung dient und die Voraussetzungen für eine Weiterverarbeitung nach § 29c Absatz 1 Satz 1 Nummer 5 vorliegen,
 
+2d. sie der Sicherung, Nutzung und wissenschaftlichen Verwertung von Archivgut der Finanzbehörden durch das Bundesarchiv nach Maßgabe des Bundesarchivgesetzes oder durch das zuständige Landes- oder Kommunalarchiv nach Maßgabe des einschlägigen Landesgesetzes oder der einschlägigen kommunalen Satzung dient, sofern die Beachtung der Vorgaben der §§ 6 und 10 bis 14 des Bundesarchivgesetzes im Landesrecht oder in der kommunalen Satzung sichergestellt ist,
+
 3. die betroffene Person zustimmt,
 
 4. sie der Durchführung eines Strafverfahrens wegen einer Tat dient, die keine Steuerstraftat ist, und die Kenntnisse
@@ -3133,7 +3135,7 @@ oder
 
 2. für die Geltendmachung eines Anspruchs auf Rückgewähr einer Leistung aus öffentlichen Mitteln
 
-erforderlich ist.
+erforderlich ist. In den Fällen von Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Nummer 2 ist die Offenbarung auf Ersuchen der zuständigen Stellen auch zulässig, soweit sie für die Durchführung eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus öffentlichen Mitteln erforderlich ist.
 
 (2) Die Finanzbehörden sind in den Fällen des Absatzes 1 verpflichtet, der zuständigen Stelle die jeweils benötigten Tatsachen mitzuteilen. In den Fällen des Absatzes 1 Nr. 1 Buchstabe b und Nr. 2 erfolgt die Mitteilung auch auf Antrag der betroffenen Person. Die Mitteilungspflicht nach den Sätzen 1 und 2 besteht nicht, soweit deren Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
@@ -3319,7 +3321,7 @@ Für die von Finanzbehörden gemäß Artikel 37 der Verordnung (EU) 2016/679 zu 
 
 (4) Die Finanzgerichtsordnung ist in den Fällen der Absätze 1 bis 3 nach Maßgabe der Absätze 5 bis 10 anzuwenden.
 
-(5) Für Verfahren nach Absatz 1 Satz 1 und Absatz 3 ist das Finanzgericht örtlich zuständig, in dessen Bezirk die jeweils zuständige Aufsichtsbehörde ihren Sitz hat. Für Verfahren nach Absatz 2 ist das Finanzgericht örtlich zuständig, in dessen Bezirk die beklagte Finanzbehörde ihren Sitz oder der beklagte Auftragsverarbeiter seinen Sitz hat.
+(5) Für Verfahren nach Absatz 1 Satz 1 und Absatz 3 ist das Finanzgericht örtlich zuständig, in dessen Bezirk die jeweils zuständige Aufsichtsbehörde ihren Sitz hat. Für Verfahren nach Absatz 2 ist das Finanzgericht örtlich zuständig, in dessen Bezirk die beklagte Finanzbehörde ihren Sitz oder der beklagte Auftragsverarbeiter seinen Sitz hat; § 38 Absatz 3 der Finanzgerichtsordnung gilt entsprechend.
 
 (6) Beteiligte eines Verfahrens nach Absatz 1 Satz 1 sind
 
@@ -4298,7 +4300,7 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 
 (6) Eine unterzeichnete Vorabverständigungsvereinbarung kann von der nach Absatz 1 Satz 1 zuständigen Behörde über den bestimmten Geltungszeitraum hinaus auf Antrag verlängert werden. Die Vorabverständigungsvereinbarung kann auf Antrag auf Veranlagungszeiträume, die dem Geltungszeitraum der Vereinbarung vorangehen, angewendet werden; die Fristen für Verständigungsverfahren des jeweils maßgebenden Abkommens zur Vermeidung der Doppelbesteuerung sind zu beachten. Die Sätze 1 und 2 setzen das Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit der von dieser beauftragten Behörde und der zuständigen Behörde des anderen Vertragsstaates voraus.
 
-(7) Die nach Absatz 1 Satz 1 zuständige Behörde erhebt für die Bearbeitung eines Antrags nach Absatz 1 oder Absatz 6 Satz 1 Gebühren, die vor Einleitung des Vorabverständigungsverfahrens oder der Bearbeitung eines Verlängerungsantrags festzusetzen sind. Die Einleitung des Vorabverständigungsverfahrens oder die Bearbeitung eines Verlängerungsantrags erfolgt durch die Versendung des ersten Schriftsatzes an den anderen Vertragsstaat. Die Gebühr ist vom Antragsteller innerhalb eines Monats nach Bekanntgabe ihrer Festsetzung zu entrichten. Das Vorabverständigungsverfahren oder die Bearbeitung eines Verlängerungsantrags wird erst eingeleitet, wenn die Gebührenfestsetzung unanfechtbar geworden und die Gebühr entrichtet ist. Die Gebühr beträgt 30 000 Euro für jeden Antrag im Sinne des Absatzes 1 sowie 15 000 Euro für jeden Verlängerungsantrag nach Absatz 6 Satz 1. Sofern es sich bei dem Antrag nicht um einen Verrechnungspreisfall handelt, beträgt die Gebühr für jeden Antrag ein Viertel der Gebühren nach Satz 5; Verrechnungspreisfälle sind Fälle, die die grenzüberschreitende Gewinnabgrenzung zwischen nahestehenden Personen und die Gewinnzuordnung zu Betriebsstätten betreffen. Bezieht sich der Antrag auf einen Sachverhalt, für dessen steuerliche Beurteilung im Zeitpunkt der Antragstellung bereits eine koordinierte bilaterale oder multilaterale steuerliche Außenprüfung durchgeführt wurde, die zu einem übereinstimmend festgestellten Sachverhalt und zu einer übereinstimmenden steuerlichen Würdigung geführt hat, wird die Gebühr um 75 Prozent reduziert. Sofern die Summe der von dem Vorabverständigungsverfahren erfassten Geschäftsvorfälle eines Verrechnungspreisfalls die Beträge des § 6 Absatz 2 Satz 1 der Gewinnabgrenzungsaufzeichnungs-Verordnung vom 12. Juli 2017 (BGBl. I S. 2367) voraussichtlich nicht überschreitet, beträgt die Gebühr 10 000 Euro für jeden Antrag im Sinne des Absatzes 1 und 7 500 Euro für jeden Antrag nach Absatz 6 Satz 1. In den Fällen des Absatzes 1 Satz 4 und 6 liegt ein Antrag vor, für den nur eine Gebühr festzusetzen und zu entrichten ist. In den Fällen des Absatzes 1 Satz 8 ist für jedes Vorabverständigungsverfahren eine gesonderte Gebühr festzusetzen und zu entrichten.
+(7) Die nach Absatz 1 Satz 1 zuständige Behörde erhebt für die Bearbeitung eines Antrags nach Absatz 1 oder Absatz 6 Satz 1 Gebühren, die vor Einleitung des Vorabverständigungsverfahrens oder der Bearbeitung eines Verlängerungsantrags festzusetzen sind. Die Einleitung des Vorabverständigungsverfahrens oder die Bearbeitung eines Verlängerungsantrags erfolgt durch die Versendung des ersten Schriftsatzes an den anderen Vertragsstaat. Die Gebühr ist vom Antragsteller innerhalb eines Monats nach Bekanntgabe ihrer Festsetzung zu entrichten. Das Vorabverständigungsverfahren oder die Bearbeitung eines Verlängerungsantrags wird erst eingeleitet, wenn die Gebührenfestsetzung unanfechtbar geworden und die Gebühr entrichtet ist. Die Gebühr beträgt 30 000 Euro für jeden Antrag im Sinne des Absatzes 1 sowie 15 000 Euro für jeden Verlängerungsantrag nach Absatz 6 Satz 1. Sofern es sich bei dem Antrag nicht um einen Verrechnungspreisfall handelt, beträgt die Gebühr für jeden Antrag ein Viertel der Gebühren nach Satz 5; Verrechnungspreisfälle sind Fälle, die die grenzüberschreitende Gewinnabgrenzung zwischen nahestehenden Personen und die Gewinnzuordnung zu Betriebsstätten betreffen. Bezieht sich der Antrag auf einen Sachverhalt, für dessen steuerliche Beurteilung im Zeitpunkt der Antragstellung bereits eine koordinierte bilaterale oder multilaterale steuerliche Außenprüfung durchgeführt wurde, die zu einem übereinstimmend festgestellten Sachverhalt und zu einer übereinstimmenden steuerlichen Würdigung geführt hat, wird die Gebühr um 75 Prozent reduziert. Sofern die Summe der von dem Vorabverständigungsverfahren erfassten Geschäftsvorfälle eines Verrechnungspreisfalls die Beträge des § 6 Absatz 2 Satz 1 der Gewinnabgrenzungsaufzeichnungs-Verordnung vom 12. Juli 2017 (BGBl. I S. 2367) voraussichtlich nicht überschreitet, beträgt die Gebühr 10 000 Euro für jeden Antrag im Sinne des Absatzes 1 und 7 500 Euro für jeden Antrag nach Absatz 6 Satz 1. In den Fällen des Absatzes 1 Satz 4 und 7 liegt ein Antrag vor, für den nur eine Gebühr festzusetzen und zu entrichten ist. In den Fällen des Absatzes 1 Satz 8 ist für jedes Vorabverständigungsverfahren eine gesonderte Gebühr festzusetzen und zu entrichten.
 
 (8) Nimmt der Antragsteller seinen Antrag nach Absatz 1 Satz 1 vor Bekanntgabe der Gebührenfestsetzung zurück, kann von einer Gebührenfestsetzung abgesehen werden. Wird der Antrag zurückgenommen oder abgelehnt, wird eine zu diesem Zeitpunkt unanfechtbar festgesetzte Gebühr nicht erstattet; dies gilt auch im Fall des Scheiterns des Vorabverständigungsverfahrens.
 
@@ -4376,7 +4378,7 @@ und der Abruf in diesen Fällen zur Festsetzung der Einkommensteuer erforderlich
 
 oder
 
-5. der Steuerpflichtige zustimmt.
+5. der Steuerpflichtige zustimmt oder die von ihm oder eine für ihn nach § 139b Absatz 10 Satz 1 an das Bundeszentralamt für Steuern übermittelte Kontoverbindung verifiziert werden soll.
 
 In diesen Fällen darf die Finanzbehörde oder in den Fällen des § 1 Abs. 2 die Gemeinde das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten einzelne Daten aus den nach § 93b Absatz 1 und 1a zu führenden Dateisystemen abzurufen; in den Fällen des Satzes 1 Nummer 1 bis 4b darf ein Abrufersuchen nur dann erfolgen, wenn ein Auskunftsersuchen an den Steuerpflichtigen nicht zum Ziel geführt hat oder keinen Erfolg verspricht.
 
@@ -4949,7 +4951,7 @@ außer wenn er nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweife
 
 (4) Die öffentliche Bekanntgabe eines Verwaltungsakts wird dadurch bewirkt, dass sein verfügender Teil ortsüblich bekannt gemacht wird. In der ortsüblichen Bekanntmachung ist anzugeben, wo der Verwaltungsakt und seine Begründung eingesehen werden können. Der Verwaltungsakt gilt zwei Wochen nach dem Tag der ortsüblichen Bekanntmachung als bekannt gegeben. In einer Allgemeinverfügung kann ein hiervon abweichender Tag, jedoch frühestens der auf die Bekanntmachung folgende Tag bestimmt werden.
 
-(5) Ein Verwaltungsakt wird zugestellt, wenn dies gesetzlich vorgeschrieben ist oder behördlich angeordnet wird. Die Zustellung richtet sich vorbehaltlich des Satzes 3 nach den Vorschriften des Verwaltungszustellungsgesetzes. Für die Zustellung an einen Bevollmächtigten gilt abweichend von § 7 Absatz 1 Satz 2 des Verwaltungszustellungsgesetzes Absatz 1 Satz 4 entsprechend.
+(5) Ein Verwaltungsakt wird zugestellt, wenn dies gesetzlich vorgeschrieben ist oder behördlich angeordnet wird. Die Zustellung richtet sich vorbehaltlich der Sätze 3 und 4 nach den Vorschriften des Verwaltungszustellungsgesetzes. Für die Zustellung an einen Bevollmächtigten gilt abweichend von § 7 Absatz 1 Satz 2 des Verwaltungszustellungsgesetzes Absatz 1 Satz 4 entsprechend. Erfolgt die öffentliche Zustellung durch Bekanntmachung einer Benachrichtigung auf der Internetseite oder in einem elektronischen Portal der Finanzbehörden, können die Anordnung und die Dokumentation nach § 10 Absatz 1 Satz 2 und Absatz 2 Satz 5 des Verwaltungszustellungsgesetzes elektronisch erfolgen.
 
 (6) Die Bekanntgabe eines Verwaltungsakts an einen Beteiligten zugleich mit Wirkung für und gegen andere Beteiligte ist zulässig, soweit die Beteiligten einverstanden sind; diese Beteiligten können nachträglich eine Abschrift des Verwaltungsakts verlangen.
 
@@ -5626,6 +5628,8 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 14. Tag des Ein- und Auszugs.
 
+(3a) Außerdem speichert das Bundeszentralamt für Steuern zu natürlichen Personen die für sie nach Absatz 10 zuletzt übermittelte internationale Kontonummer (IBAN), bei ausländischen Kreditinstituten auch den internationalen Banken-Identifizierungsschlüssel (BIC).
+
 (4) Die in Absatz 3 aufgeführten Daten werden gespeichert, um
 
 1. sicherzustellen, dass eine Person nur eine Identifikationsnummer erhält und eine Identifikationsnummer nicht mehrfach vergeben wird,
@@ -5644,7 +5648,9 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 (4b) Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden bei einer natürlichen Person auch für Zwecke der Digitalen Rentenübersicht gespeichert.
 
-(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4b genannten Zwecke verarbeitet werden. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten.
+(4c) Die nach Absatz 3a gespeicherten Daten werden gespeichert, um eine unbare Auszahlung von Leistungen aus öffentlichen Mitteln zu ermöglichen, bei denen die Verwendung der nach Absatz 3a gespeicherten Daten vorgesehen ist. Die in Absatz 3 aufgeführten Daten werden bei einer natürlichen Person auch für die in Satz 1 genannten Zwecke gespeichert.
+
+(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4c genannten Zwecke verarbeitet werden. Die in Absatz 3a aufgeführten Daten dürfen nur für die in Absatz 4c genannten Zwecke verarbeitet werden; eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten.
 
 (6) Zum Zwecke der erstmaligen Zuteilung der Identifikationsnummer übermitteln die Meldebehörden dem Bundeszentralamt für Steuern für jeden in ihrem Zuständigkeitsbereich mit alleiniger Wohnung oder Hauptwohnung im Melderegister registrierten Einwohner folgende Daten:
 
@@ -5670,11 +5676,27 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 Hierzu haben die Meldebehörden jedem in ihrem Zuständigkeitsbereich mit alleiniger Wohnung oder Hauptwohnung registrierten Einwohner ein Vorläufiges Bearbeitungsmerkmal zu vergeben. Dieses übermitteln sie zusammen mit den Daten nach Satz 1 an das Bundeszentralamt für Steuern. Das Bundeszentralamt für Steuern teilt der zuständigen Meldebehörde die dem Steuerpflichtigen zugeteilte Identifikationsnummer zur Speicherung im Melderegister unter Angabe des Vorläufigen Bearbeitungsmerkmals mit und löscht das Vorläufige Bearbeitungsmerkmal anschließend.
 
-(7) Die Meldebehörden haben im Falle der Speicherung einer Geburt im Melderegister sowie im Falle der Speicherung einer Person, für die bisher keine Identifikationsnummer zugeteilt worden ist, dem Bundeszentralamt für Steuern die Daten nach Absatz 6 Satz 1 zum Zwecke der Zuteilung der Identifikationsnummer zu übermitteln. Absatz 6 Satz 2 bis 5 gilt entsprechend.
+(7) Die Meldebehörden haben im Falle der Speicherung einer Geburt im Melderegister sowie im Falle der Speicherung einer Person, für die bisher keine Identifikationsnummer zugeteilt worden ist, dem Bundeszentralamt für Steuern die Daten nach Absatz 6 Satz 1 zum Zwecke der Zuteilung der Identifikationsnummer zu übermitteln. Absatz 6 Satz 2 bis 5 gilt entsprechend. Wird im Melderegister eine Person gespeichert, der nach eigenen Angaben noch keine Identifikationsnummer zugeteilt worden ist, so können die Meldebehörden dies in einem maschinellen Verfahren beim Bundeszentralamt für Steuern überprüfen; dabei dürfen nur die Daten nach Absatz 3 verwendet werden. Stimmen die von der Meldebehörde übermittelten Daten mit den beim Bundeszentralamt für Steuern nach Absatz 3 gespeicherten Daten überein, teilt das Bundeszentralamt für Steuern der Meldebehörde die in Absatz 3 Nummer 1, 3, 5, 8 und 10 genannten Daten mit; andernfalls teilt es der Meldebehörde mit, dass keine Zuordnung möglich war.
 
 (8) Die Meldebehörde teilt dem Bundeszentralamt für Steuern Änderungen der in Absatz 6 Satz 1 Nr. 1 bis 10 bezeichneten Daten sowie bei Sterbefällen den Sterbetag unter Angabe der Identifikationsnummer oder, sofern diese noch nicht zugeteilt wurde, unter Angabe des Vorläufigen Bearbeitungsmerkmals mit.
 
 (9) Das Bundeszentralamt für Steuern unterrichtet die Meldebehörden, wenn ihm konkrete Anhaltspunkte für die Unrichtigkeit der ihm von den Meldebehörden übermittelten Daten vorliegen.
+
+(10) Natürliche Personen, die das 18. Lebensjahr vollendet haben, können dem Bundeszentralamt für Steuern die IBAN, bei ausländischen Kreditinstituten auch den BIC, des für Auszahlungen in den Fällen des Absatzes 4c zu verwendenden Kontos unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten in einem sicheren Verfahren
+
+1. übermitteln,
+
+2. durch ihren Bevollmächtigten im Sinne des § 80 Absatz 2 übermitteln lassen oder
+
+3. durch das kontoführende Kreditinstitut übermitteln lassen; die Kreditinstitute haben zu diesem Zweck ein geeignetes Verfahren bereitzustellen.
+
+Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und für die nach § 63 des Einkommensteuergesetzes Kindergeld festgesetzt worden ist, teilt die zuständige Familienkasse als mitteilungspflichtige Stelle dem Bundeszentralamt für Steuern für die in Absatz 4c genannten Zwecke unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten der natürlichen Person die IBAN, bei ausländischen Kreditinstituten auch den BIC, des Kontos mit, auf welches das Kindergeld zuletzt ausgezahlt worden ist; dies gilt nicht, wenn es sich bei dem tatsächlichen Zahlungsempfänger weder um den Kindergeldberechtigten noch um das Kind handelt. Änderungen der nach den Sätzen 1 oder 2 bereits mitgeteilten IBAN, bei ausländischen Kreditinstituten auch des BIC, sind dem Bundeszentralamt für Steuern unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten umgehend mitzuteilen.
+
+(11) Die Übermittlung der in Absatz 10 genannten Daten an das Bundeszentralamt für Steuern muss elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle erfolgen.
+
+(12) Das Bundeszentralamt für Steuern stellt den für ein Verfahren im Sinne des Absatzes 4c zuständigen Stellen die in Absatz 3 Nummer 1, 3, 5, 8, 10, 12 und 13 sowie Absatz 3a genannten Daten zum automationsgestützten Abgleich oder zum Abruf durch Datenfernübertragung zur Verfügung.
+
+(13) Eine Datenübermittlung an das Bundeszentralamt für Steuern nach Absatz 10 Satz 1 ist erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt zulässig. Die nach Absatz 10 Satz 2 mitteilungspflichtigen Stellen haben die von ihnen mitzuteilenden Daten erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt an das Bundeszentralamt für Steuern zu übermitteln. Wird Kindergeld erstmals nach dem vom Bundesministerium der Finanzen nach Satz 2 bestimmten Zeitpunkt ausgezahlt, gilt Satz 2 entsprechend.
 
 # § 139c – Wirtschafts-Identifikationsnummer
 
@@ -6153,7 +6175,7 @@ Für das Befolgen der Anordnung ist eine Frist von vier Monaten nach Bekanntgabe
 
 (6) Zur Erleichterung und Vereinfachung des automatisierten Besteuerungsverfahrens kann das Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass und unter welchen Voraussetzungen Steuererklärungen oder sonstige für das Besteuerungsverfahren erforderliche Daten ganz oder teilweise durch Datenfernübertragung oder auf maschinell verwertbaren Datenträgern übermittelt werden können. In der Rechtsverordnung können von den §§ 72a und 87b bis 87d abweichende Regelungen getroffen werden. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates, soweit die Kraftfahrzeugsteuer, die Luftverkehrsteuer, die Versicherungsteuer und Verbrauchsteuern, mit Ausnahme der Biersteuer, betroffen sind.
 
-(7) Können Steuererklärungen, die nach amtlich vorgeschriebenem Vordruck abgegeben oder nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung übermittelt werden, nach § 155 Absatz 4 Satz 1 zu einer ausschließlich automationsgestützten Steuerfestsetzung führen, ist es dem Steuerpflichtigen zu ermöglichen, Angaben, die nach seiner Auffassung Anlass für eine Bearbeitung durch Amtsträger sind, in einem dafür vorgesehenen Abschnitt oder Datenfeld der Steuererklärung zu machen. Daten, die von mitteilungspflichtigen Stellen nach Maßgabe des § 93c an die Finanzverwaltung übermittelt wurden, gelten als Angaben des Steuerpflichtigen, soweit er nicht in einem dafür vorzusehenden Abschnitt oder Datenfeld der Steuererklärung abweichende Angaben macht.
+(7) Können Steuererklärungen, die nach amtlich vorgeschriebenem Vordruck abgegeben oder nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung übermittelt werden, nach § 155 Absatz 4 Satz 1 zu einer ausschließlich automationsgestützten Steuerfestsetzung führen, ist es dem Steuerpflichtigen zu ermöglichen, Angaben, die nach seiner Auffassung Anlass für eine Bearbeitung durch Amtsträger sind, in einem dafür vorgesehenen Abschnitt oder Datenfeld der Steuererklärung zu machen. Daten, die von mitteilungspflichtigen Stellen nach Maßgabe des § 93c an die Finanzverwaltung übermittelt wurden, gelten als Angaben des Steuerpflichtigen, soweit sie in den Steuererklärungsformularen als eDaten gekennzeichnet sind oder bei nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung übermittelten Steuererklärungen für den Belegabruf bereitgestellt werden und er nicht in einem dafür vorzusehenden Abschnitt oder Datenfeld der Steuererklärung abweichende Angaben macht.
 
 (8) Ordnen die Steuergesetze an, dass die Finanzbehörde auf Antrag zur Vermeidung unbilliger Härten auf eine Übermittlung der Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung verzichten kann, ist einem solchen Antrag zu entsprechen, wenn eine Erklärungsabgabe nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung für den Steuerpflichtigen wirtschaftlich oder persönlich unzumutbar ist. Dies ist insbesondere der Fall, wenn die Schaffung der technischen Möglichkeiten für eine Datenfernübertragung des amtlich vorgeschriebenen Datensatzes nur mit einem nicht unerheblichen finanziellen Aufwand möglich wäre oder wenn der Steuerpflichtige nach seinen individuellen Kenntnissen und Fähigkeiten nicht oder nur eingeschränkt in der Lage ist, die Möglichkeiten der Datenfernübertragung zu nutzen.
 
@@ -6345,7 +6367,7 @@ Ergeben sich bei einer vorgeschriebenen oder amtlich durchgeführten Bestandsauf
 
 (4) Legt ein Steuerpflichtiger über einen Geschäftsvorfall keine Aufzeichnungen im Sinne des § 90 Absatz 3 vor oder sind die über einen Geschäftsvorfall vorgelegten Aufzeichnungen im Wesentlichen unverwertbar, ist ein Zuschlag von 5 000 Euro festzusetzen. Der Zuschlag beträgt mindestens 5 Prozent und höchstens 10 Prozent des Mehrbetrags der Einkünfte, der sich nach einer Berichtigung auf Grund der Anwendung des Absatzes 3 ergibt, wenn sich danach ein Zuschlag von mehr als 5 000 Euro ergibt. Bei verspäteter Vorlage von verwertbaren Aufzeichnungen beträgt der Zuschlag bis zu 1 000 000 Euro, mindestens jedoch 100 Euro für jeden vollen Tag der Fristüberschreitung. Soweit den Finanzbehörden Ermessen hinsichtlich der Höhe des Zuschlags eingeräumt ist, sind neben dessen Zweck, den Steuerpflichtigen zur Erstellung und fristgerechten Vorlage der Aufzeichnungen im Sinne des § 90 Abs. 3 anzuhalten, insbesondere die von ihm gezogenen Vorteile und bei verspäteter Vorlage auch die Dauer der Fristüberschreitung zu berücksichtigen. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Pflichten nach § 90 Abs. 3 entschuldbar erscheint oder ein Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen steht dem eigenen Verschulden gleich. Der Zuschlag ist regelmäßig nach Abschluss der Außenprüfung festzusetzen.
 
-(4a) Verletzt der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Gesetzes zur Umsetzung steuerlicher Abwehrmaßnahmen gegen Steuervermeidung und unfairen Steuerwettbewerb, ist Absatz 4 entsprechend anzuwenden. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Mitwirkungspflichten entschuldbar erscheint oder das Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen ist dem Steuerpflichtigen zuzurechnen.
+(4a) Verletzt der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Steueroasen-Abwehrgesetzes, ist Absatz 4 entsprechend anzuwenden. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Mitwirkungspflichten entschuldbar erscheint oder das Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen ist dem Steuerpflichtigen zuzurechnen.
 
 (5) In den Fällen des § 155 Abs. 2 können die in einem Grundlagenbescheid festzustellenden Besteuerungsgrundlagen geschätzt werden.
 
@@ -6812,7 +6834,7 @@ Die beteiligten Steuerberechtigten können von der zuständigen Finanzbehörde A
 
 # § 188 – Zerlegungsbescheid
 
-(1) Über die Zerlegung ergeht ein schriftlicher Bescheid (Zerlegungsbescheid), der den Beteiligten bekannt zu geben ist, soweit sie betroffen sind.
+(1) Über die Zerlegung ergeht ein schriftlicher oder elektronischer Bescheid (Zerlegungsbescheid), der den Beteiligten bekannt zu geben ist, soweit sie betroffen sind. Die Bekanntgabe an Gemeinden erfolgt durch Bereitstellung zum Abruf nach § 122a; eine Einwilligung der Gemeinde ist nicht erforderlich.
 
 (2) Der Zerlegungsbescheid muss die Höhe des zu zerlegenden Steuermessbetrags angeben und bestimmen, welche Anteile den beteiligten Steuerberechtigten zugeteilt werden. Er muss ferner die Zerlegungsgrundlagen angeben.
 
@@ -6826,7 +6848,7 @@ Ist ein Steuermessbetrag in voller Höhe einem Steuerberechtigten zuzuteilen, be
 
 # § 191 – Haftungsbescheide, Duldungsbescheide
 
-(1) Wer kraft Gesetzes für eine Steuer haftet (Haftungsschuldner), kann durch Haftungsbescheid, wer kraft Gesetzes verpflichtet ist, die Vollstreckung zu dulden, kann durch Duldungsbescheid in Anspruch genommen werden. Die Anfechtung wegen Ansprüchen aus dem Steuerschuldverhältnis außerhalb des Insolvenzverfahrens erfolgt durch Duldungsbescheid, soweit sie nicht im Wege der Einrede nach § 9 des Anfechtungsgesetzes geltend zu machen ist; bei der Berechnung von Fristen nach den §§ 3 und 4 des Anfechtungsgesetzes steht der Erlass eines Duldungsbescheids der gerichtlichen Geltendmachung der Anfechtung nach § 7 Abs. 1 des Anfechtungsgesetzes gleich. Die Bescheide sind schriftlich zu erteilen.
+(1) Wer kraft Gesetzes für eine Steuer haftet (Haftungsschuldner), kann durch Haftungsbescheid, wer kraft Gesetzes verpflichtet ist, die Vollstreckung zu dulden, kann durch Duldungsbescheid in Anspruch genommen werden. Die Anfechtung wegen Ansprüchen aus dem Steuerschuldverhältnis außerhalb des Insolvenzverfahrens erfolgt durch Duldungsbescheid, soweit sie nicht im Wege der Einrede nach § 9 des Anfechtungsgesetzes geltend zu machen ist; bei der Berechnung von Fristen nach den §§ 3 und 4 des Anfechtungsgesetzes steht der Erlass eines Duldungsbescheids der gerichtlichen Geltendmachung der Anfechtung nach § 7 Abs. 1 des Anfechtungsgesetzes gleich. Die Bescheide sind schriftlich oder elektronisch zu erteilen.
 
 (2) Bevor gegen einen Rechtsanwalt, Patentanwalt, Notar, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer wegen einer Handlung im Sinne des § 69, die er in Ausübung seines Berufs vorgenommen hat, ein Haftungsbescheid erlassen wird, gibt die Finanzbehörde der zuständigen Berufskammer Gelegenheit, die Gesichtspunkte vorzubringen, die von ihrem Standpunkt für die Entscheidung von Bedeutung sind.
 
@@ -7175,7 +7197,7 @@ Die Finanzbehörden können Ansprüche aus dem Steuerschuldverhältnis ganz oder
   
 an dem Tag, an dem der Betrag der Finanzbehörde gutgeschrieben wird,
 
-3. bei Vorliegen einer Einzugsermächtigung
+3. bei Vorliegen eines SEPA-Lastschriftmandats
 
   
 am Fälligkeitstag.
@@ -7224,15 +7246,17 @@ Ansprüche aus dem Steuerschuldverhältnis unterliegen einer besonderen Zahlungs
 
 # § 229 – Beginn der Verjährung
 
-(1) Die Verjährung beginnt mit Ablauf des Kalenderjahrs, in dem der Anspruch erstmals fällig geworden ist. Sie beginnt jedoch nicht vor Ablauf des Kalenderjahrs, in dem die Festsetzung eines Anspruchs aus dem Steuerschuldverhältnis, ihre Aufhebung, Änderung oder Berichtigung nach § 129 wirksam geworden ist, aus der sich der Anspruch ergibt; eine Steueranmeldung steht einer Steuerfestsetzung gleich.
+(1) Die Verjährung beginnt mit Ablauf des Kalenderjahrs, in dem der Anspruch erstmals fällig geworden ist. Sie beginnt jedoch nicht vor Ablauf des Kalenderjahrs, in dem die Festsetzung eines Anspruchs aus dem Steuerschuldverhältnis, ihre Aufhebung, Änderung oder Berichtigung nach § 129 wirksam geworden ist, aus der sich der Anspruch ergibt; eine Steueranmeldung steht einer Steuerfestsetzung gleich. Wird die Festsetzung oder Anmeldung eines Anspruchs aus dem Steuerschuldverhältnis aufgehoben, geändert oder nach § 129 berichtigt, so beginnt die Verjährung des gesamten Anspruchs erst mit Ablauf des Kalenderjahrs, in dem die Aufhebung, Änderung oder Berichtigung wirksam geworden ist.
 
-(2) Ist ein Haftungsbescheid ohne Zahlungsaufforderung ergangen, so beginnt die Verjährung mit Ablauf des Kalenderjahrs, in dem der Haftungsbescheid wirksam geworden ist.
+(2) Ist ein Haftungsbescheid ohne Zahlungsaufforderung ergangen, so beginnt die Verjährung mit Ablauf des Kalenderjahrs, in dem die Zahlungsaufforderung nachgeholt worden ist, spätestens aber fünf Jahre nach Ablauf des Kalenderjahrs, in dem der Haftungsbescheid wirksam geworden ist.
 
 (+++ § 229 Abs. 1 Satz 2: Zur Geltung vgl. Art. 97 § 14 Abs. 3 AOEG 1977 +++)
 
 # § 230 – Hemmung der Verjährung
 
-Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann.
+(1) Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann.
+
+(2) Die Verjährung ist gehemmt, solange die Festsetzungsfrist des Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei nicht anzuwenden.
 
 # § 231 – Unterbrechung der Verjährung
 
@@ -7539,7 +7563,7 @@ Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist anderweit
 
 (2) Zur Vorbereitung der Vollstreckung können die Finanzbehörden die Vermögens- und Einkommensverhältnisse des Vollstreckungsschuldners ermitteln. Die Finanzbehörde darf ihr bekannte, nach § 30 geschützte Daten, die sie bei der Vollstreckung wegen Steuern und steuerlicher Nebenleistungen verwenden darf, auch bei der Vollstreckung wegen anderer Geldleistungen als Steuern und steuerlicher Nebenleistungen verwenden.
 
-(3) Zur Durchführung von Vollstreckungsmaßnahmen können die Vollstreckungsbehörden Auskunfts- und Unterstützungsersuchen nach § 757a der Zivilprozessordnung stellen.
+(3) Zur Durchführung von Vollstreckungsmaßnahmen können die Vollstreckungsbehörden Auskunfts- und Unterstützungsersuchen nach § 757a der Zivilprozessordnung stellen. § 757a Absatz 5 der Zivilprozessordnung ist dabei nicht anzuwenden.
 
 # § 250 – Vollstreckungsersuchen
 
@@ -7553,7 +7577,7 @@ Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist anderweit
 
 (2) Unberührt bleiben die Vorschriften der Insolvenzordnung sowie § 79 Abs. 2 des Bundesverfassungsgerichtsgesetzes. Die Finanzbehörde ist berechtigt, in den Fällen des § 201 Abs. 2, §§ 257 und 308 Abs. 1 der Insolvenzordnung sowie des § 71 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes gegen den Schuldner im Verwaltungswege zu vollstrecken.
 
-(3) Macht die Finanzbehörde im Insolvenzverfahren einen Anspruch aus dem Steuerschuldverhältnis als Insolvenzforderung geltend, so stellt sie erforderlichenfalls die Insolvenzforderung durch schriftlichen Verwaltungsakt fest.
+(3) Macht die Finanzbehörde im Insolvenzverfahren einen Anspruch aus dem Steuerschuldverhältnis als Insolvenzforderung geltend, so stellt sie erforderlichenfalls die Insolvenzforderung durch schriftlichen oder elektronischen Verwaltungsakt fest.
 
 (+++ § 251 Abs. 2 Satz 1 u. Abs. 2 Satz 2: Zur Geltung vgl. Art. 97 § 11a AOEG 1977 +++)  
 (+++ § 251 Abs. 3: Zur Geltung vgl. Art. 97 § 11a AOEG 1977 +++)
@@ -8620,7 +8644,7 @@ Der Ausschluss der Straffreiheit nach Satz 1 Nummer 1 Buchstabe a und c hindert 
 
 (2a) Soweit die Steuerhinterziehung durch Verletzung der Pflicht zur rechtzeitigen Abgabe einer vollständigen und richtigen Umsatzsteuervoranmeldung oder Lohnsteueranmeldung begangen worden ist, tritt Straffreiheit abweichend von den Absätzen 1 und 2 Satz 1 Nummer 3 bei Selbstanzeigen in dem Umfang ein, in dem der Täter gegenüber der zuständigen Finanzbehörde die unrichtigen Angaben berichtigt, die unvollständigen Angaben ergänzt oder die unterlassenen Angaben nachholt. Absatz 2 Satz 1 Nummer 2 gilt nicht, wenn die Entdeckung der Tat darauf beruht, dass eine Umsatzsteuervoranmeldung oder Lohnsteueranmeldung nachgeholt oder berichtigt wurde. Die Sätze 1 und 2 gelten nicht für Steueranmeldungen, die sich auf das Kalenderjahr beziehen. Für die Vollständigkeit der Selbstanzeige hinsichtlich einer auf das Kalenderjahr bezogenen Steueranmeldung ist die Berichtigung, Ergänzung oder Nachholung der Voranmeldungen, die dem Kalenderjahr nachfolgende Zeiträume betreffen, nicht erforderlich.
 
-(3) Sind Steuerverkürzungen bereits eingetreten oder Steuervorteile erlangt, so tritt für den an der Tat Beteiligten Straffreiheit nur ein, wenn er die aus der Tat zu seinen Gunsten hinterzogenen Steuern, die Hinterziehungszinsen nach § 235 und die Zinsen nach § 233a, soweit sie auf die Hinterziehungszinsen nach § 235 Absatz 4 angerechnet werden, innerhalb der ihm bestimmten angemessenen Frist entrichtet. In den Fällen des Absatzes 2a Satz 1 gilt Satz 1 mit der Maßgabe, dass die fristgerechte Entrichtung von Zinsen nach § 233a oder § 235 unerheblich ist.
+(3) Sind Steuerverkürzungen bereits eingetreten oder Steuervorteile erlangt, so tritt für den an der Tat Beteiligten Straffreiheit nur ein, wenn er die aus der Tat zu seinen Gunsten hinterzogenen Steuern, die Hinterziehungszinsen nach § 235 und die Zinsen nach § 233a, soweit sie auf die Hinterziehungszinsen nach § 235 Absatz 4 angerechnet werden, sowie die Verzugszinsen nach Artikel 114 des Zollkodex der Union innerhalb der ihm bestimmten angemessenen Frist entrichtet. In den Fällen des Absatzes 2a Satz 1 gilt Satz 1 mit der Maßgabe, dass die fristgerechte Entrichtung von Zinsen nach § 233a oder § 235 unerheblich ist.
 
 (4) Wird die in § 153 vorgesehene Anzeige rechtzeitig und ordnungsmäßig erstattet, so wird ein Dritter, der die in § 153 bezeichneten Erklärungen abzugeben unterlassen oder unrichtig oder unvollständig abgegeben hat, strafrechtlich nicht verfolgt, es sei denn, dass ihm oder seinem Vertreter vorher die Einleitung eines Straf- oder Bußgeldverfahrens wegen der Tat bekannt gegeben worden ist. Hat der Dritte zum eigenen Vorteil gehandelt, so gilt Absatz 3 entsprechend.
 
@@ -8934,7 +8958,7 @@ Die Staatsanwaltschaft kann von der Verfolgung einer Steuerhinterziehung, bei de
 
 (1) In Fällen, in denen Straffreiheit nur wegen § 371 Absatz 2 Satz 1 Nummer 3 oder 4 nicht eintritt, wird von der Verfolgung einer Steuerstraftat abgesehen, wenn der an der Tat Beteiligte innerhalb einer ihm bestimmten angemessenen Frist
 
-1. die aus der Tat zu seinen Gunsten hinterzogenen Steuern, die Hinterziehungszinsen nach § 235 und die Zinsen nach § 233a, soweit sie auf die Hinterziehungszinsen nach § 235 Absatz 4 angerechnet werden, entrichtet und
+1. die aus der Tat zu seinen Gunsten hinterzogenen Steuern, die Hinterziehungszinsen nach § 235 und die Zinsen nach § 233a, soweit sie auf die Hinterziehungszinsen nach § 235 Absatz 4 angerechnet werden, sowie die Verzugszinsen nach Artikel 114 des Zollkodex der Union entrichtet und
 
 2. einen Geldbetrag in folgender Höhe zugunsten der Staatskasse zahlt:
 

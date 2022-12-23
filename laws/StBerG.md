@@ -267,15 +267,13 @@ c) die in den Buchstaben a und b genannten Unternehmen, soweit sie für Unterneh
 
 a) Einkünfte aus nichtselbständiger Arbeit, sonstige Einkünfte aus wiederkehrenden Bezügen (§ 22 Nr. 1 des Einkommensteuergesetzes), Einkünfte aus Unterhaltsleistungen (§ 22 Nr. 1a des Einkommensteuergesetzes) oder Einkünfte aus Leistungen nach § 22 Nr. 5 des Einkommensteuergesetzes erzielen,
 
-b) keine Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selbständiger Arbeit erzielen oder umsatzsteuerpflichtige Umsätze ausführen, es sei denn, die den Einkünften zugrunde liegenden Einnahmen sind nach § 3 Nummer 12, 26, 26a oder 26b des Einkommensteuergesetzes in voller Höhe steuerfrei, und
+b) keine Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selbständiger Arbeit erzielen oder umsatzsteuerpflichtige Umsätze ausführen, es sei denn, die den Einkünften zugrunde liegenden Einnahmen sind nach § 3 Nummer 12, 26, 26a, 26b oder 72 des Einkommensteuergesetzes in voller Höhe steuerfrei, und
 
 c) Einnahmen aus anderen Einkunftsarten haben, die insgesamt die Höhe von achtzehntausend Euro, im Falle der Zusammenveranlagung von sechsunddreißigtausend Euro, nicht übersteigen und im Veranlagungsverfahren zu erklären sind oder auf Grund eines Antrags des Steuerpflichtigen erklärt werden. An die Stelle der Einnahmen tritt in Fällen des § 20 Absatz 2 des Einkommensteuergesetzes der Gewinn im Sinne des § 20 Absatz 4 des Einkommensteuergesetzes und in den Fällen des § 23 Absatz 1 des Einkommensteuergesetzes der Gewinn im Sinne des § 23 Absatz 3 Satz 1 des Einkommensteuergesetzes; Verluste bleiben unberücksichtigt.
 
 Die Befugnis erstreckt sich nur auf die Hilfeleistung bei der Einkommensteuer und ihren Zuschlagsteuern. Soweit zulässig, berechtigt sie auch zur Hilfeleistung bei der Eigenheimzulage und der Investitionszulage nach den §§ 3 bis 4 des Investitionszulagengesetzes 1999, bei mit Kinderbetreuungskosten im Sinne von § 10 Absatz 1 Nummer 5 des Einkommensteuergesetzes sowie bei mit haushaltsnahen Beschäftigungsverhältnissen im Sinne des § 35a des Einkommensteuergesetzes zusammenhängenden Arbeitgeberaufgaben sowie zur Hilfe bei Sachverhalten des Familienleistungsausgleichs im Sinne des Einkommensteuergesetzes und der sonstigen Zulagen und Prämien, auf die die Vorschriften der Abgabenordnung anzuwenden sind. Mitglieder, die arbeitslos geworden sind, dürfen weiterhin beraten werden.
 
-12. inländische Kapitalanlagegesellschaften sowie Personen, Gesellschaften und andere Gesamthandsgemeinschaften, soweit sie in Vertretung der Gläubiger von Kapitalerträgen Sammelanträge auf Erstattung von Kapitalertragsteuer nach § 45b des Einkommensteuergesetzes stellen,
-
-12a. ausländische Kreditinstitute, soweit sie in Vertretung der Gläubiger von Kapitalerträgen Anträge auf Erstattung von Kapitalertragsteuer nach § 50d des Einkommensteuergesetzes stellen,
+12. Kreditinstitute, soweit sie in Vertretung der Gläubiger von Kapitalerträgen Anträge auf Erstattung von Kapitalertragsteuer nach § 44a Absatz 9 oder § 50c des Einkommensteuergesetzes oder nach § 11 Absatz 1 des Investmentsteuergesetzes stellen,
 
 13. öffentlich bestellte versicherungsmathematische Sachverständige, soweit sie in unmittelbarem Zusammenhang mit der Berechnung von Pensionsrückstellungen, versicherungstechnischen Rückstellungen und Zuführungen zu Pensions- und Unterstützungskassen ihren Auftraggebern Hilfe in Steuersachen leisten,
 

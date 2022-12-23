@@ -145,9 +145,9 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 (4) Abweichend von dem in Absatz 3 genannten Übermittlungsweg dürfen die statistischen Ämter von Bund und Ländern im Auftrag der obersten Finanzbehörden von Bund und Ländern die Daten mittels sicheren Datentransfers auch direkt an von diesen beauftragte Forschungseinrichtungen weitergeben.
 
-# § 2b – Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer
+# § 2b – Statistische Aufbereitung von Daten aus der Umsatz-, Körperschaft- und Gewerbesteuer
 
-(1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Körperschaft- und Gewerbesteuer jährlich an das Bundesministerium der Finanzen. Die statistische Aufbereitung der Daten zur Körperschaftsteuer für die Veranlagungsjahre 2004 bis 2012 sowie zur Gewerbesteuer für die Veranlagungsjahre 2004 bis 2009 wird dem Statistischen Bundesamt übertragen.
+(1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Umsatz-, Körperschaft- und Gewerbesteuer jährlich an das Bundesministerium der Finanzen. Die statistische Aufbereitung der Daten zur Körperschaftsteuer für die Veranlagungsjahre 2004 bis 2012 sowie zur Gewerbesteuer für die Veranlagungsjahre 2004 bis 2009 wird dem Statistischen Bundesamt übertragen.
 
 (2) § 2a Absatz 3 und 4 ist entsprechend anzuwenden.
 

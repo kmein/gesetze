@@ -43,9 +43,11 @@ a) die gesonderte und einheitliche Feststellung nach § 14 Absatz 5 des Körpers
 
 b) den dem Organträger zuzurechnenden Gewerbeertrag
 
-Auswirkungen auf die Besteuerungsgrundlagen des Organträgers haben kann, oder
+Auswirkungen auf die Besteuerungsgrundlagen des Organträgers haben kann,
 
-4. zur Verwirklichung eines Erwerbsvorgangs im Sinne von § 1 Absatz 3 Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des Grunderwerbsteuergesetzes (grunderwerbsteuerliche Organschaft) führen kann.
+4. zur Verwirklichung eines Erwerbsvorgangs im Sinne von § 1 Absatz 3 Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des Grunderwerbsteuergesetzes (grunderwerbsteuerliche Organschaft) führen kann oder
+
+5. sich nach den §§ 20, 21, 24 oder 25 des Umwandlungssteuergesetzes bei verschiedenen Rechtsträgern steuerlich auswirkt und der steuerliche Wertansatz beim einbringenden oder übertragenden Rechtsträger vom steuerlichen Wertansatz beim übernehmenden Rechtsträger abhängt.
 
 Die Beteiligten sollen einen gemeinsamen Empfangsbevollmächtigten bestellen, der ermächtigt ist, für sie alle Verwaltungsakte und Mitteilungen in Empfang zu nehmen.
 
@@ -65,7 +67,9 @@ das Finanzamt, das für die gesonderte und einheitliche Feststellung nach § 14 
 
 4. nach Absatz 2 Satz 1 Nummer 4:
 
-das Finanzamt, das für die Festsetzung der Grunderwerbsteuer zuständig ist; ist der verwirklichte Sachverhalt Gegenstand einer gesonderten Feststellung nach § 17 Absatz 3 Satz 1 Nummer 2 oder Satz 2 in Verbindung mit Absatz 2 des Grunderwerbsteuergesetzes, ist das Finanzamt zuständig, das für die gesonderte Feststellung zuständig ist.
+das Finanzamt, das für die Festsetzung der Grunderwerbsteuer zuständig ist; ist der verwirklichte Sachverhalt Gegenstand einer gesonderten Feststellung nach § 17 Absatz 3 Satz 1 Nummer 2 oder Satz 2 in Verbindung mit Absatz 2 des Grunderwerbsteuergesetzes, ist das Finanzamt zuständig, das für die gesonderte Feststellung zuständig ist;
+
+5. nach Absatz 2 Satz 1 Nummer 5: das Finanzamt, das nach § 18 oder § 20 der Abgabenordnung für den übernehmenden Rechtsträger örtlich zuständig ist.
 
 In den Fällen des Absatzes 2 Satz 1 Nummer 2 wird für die Bestimmung der Zuständigkeit stets von einer bestehenden Organschaft ausgegangen. In den Fällen des Absatzes 2 Satz 1 Nummer 4 wird für die Bestimmung der Zuständigkeit davon ausgegangen, dass ein Erwerbsvorgang im Sinne des § 1 Absatz 3 Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des Grunderwerbsteuergesetzes verwirklicht wurde.
 
@@ -83,7 +87,7 @@ In den Fällen des Absatzes 2 Satz 1 Nummer 2 wird für die Bestimmung der Zust�
 
 # § 3 – Anwendungsvorschrift
 
-§ 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017 bei der zuständigen Finanzbehörde eingegangen sind.
+§ 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017 bei der zuständigen Finanzbehörde eingegangen sind. § 1 Absatz 2 Satz 1 Nummer 3 bis 5 und Absatz 3 Satz 1 Nummer 4 und 5 in der am 23. Dezember 2022 geltenden Fassung ist erstmals auf Anträge auf Erteilung einer verbindlichen Auskunft anzuwenden, die nach dem 31. Dezember 2022 bei der zuständigen Finanzbehörde eingegangen sind.
 
 # Schlussformel
 

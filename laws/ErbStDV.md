@@ -127,7 +127,7 @@ Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Anzeige hat
 
 4. wenn seit dem Zeitpunkt des Todes des Erblassers mehr als zehn Jahre vergangen sind. Das gilt nicht für Anzeigen über die Abwicklung von Erbauseinandersetzungen.
 
-(5) Die vorstehenden Vorschriften gelten entsprechend für Notare (Bezirksnotare) und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes übertragen sind.
+(5) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes übertragen sind.
 
 (+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)  
 (+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
@@ -146,7 +146,7 @@ zu befragen und die Angaben in der Anzeige mitzuteilen. Die Anzeige hat unverzü
 
 (3) Die Übersendung einer beglaubigten Abschrift von Schenkungs- und Übergabeverträgen und die Mitteilung der in Absatz 1 vorgesehenen Angaben darf unterbleiben, wenn Gegenstand der Schenkung nur Hausrat (einschließlich Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro und anderes Vermögen im reinen Wert von höchstens 20 000 Euro ist.
 
-(4) Die vorstehenden Vorschriften gelten entsprechend für Notare (Bezirksnotare) und sonstige Urkundspersonen.
+(4) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen.
 
 # § 9 – Anzeigepflicht der Auslandsstellen
 
@@ -630,7 +630,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     2.  Beschenkter Name, Vorname, Identifikationsnummer ...................
         Geburtstag                 .............
         Anschrift                  .........................................
-    3.  Vertrag vom                .......... Urkundenrolle-Nr. ............
+    3.  Vertrag vom                .......... Urkundenverzeichnis-Nr. ......
     4.  Ergänzende Angaben (§ 34 ErbStG, § 8 ErbStDV)
         Persönliches Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner)
         des Erwerbers zum Schenker (z. B. Kind, Geschwisterkind, Bruder der Mutter, 

@@ -363,13 +363,15 @@ Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die beso
 
 3. für Verlegetage, an denen ausschließlich Reise- oder Wartezeiten entstehen, sowie für ganztägige Zeiten der Regeneration.
 
-(3) Für Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist nach Beendigung der Tätigkeit im unmittelbaren Anschluss an diese für mindestens einen Tag, bei besonders hoher individueller Belastung während der Tätigkeit für mehrere Tage, Freistellung vom Dienst aus bestehenden Ansprüchen nach Absatz 2 anzuordnen
+(3) Für Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist nach Beendigung der Tätigkeit im unmittelbaren Anschluss an diese für mindestens einen Tag, bei besonders hoher individueller Belastung während der Tätigkeit für mehrere Tage, Freistellung vom Dienst aus bestehenden Ansprüchen nach Absatz 2 anzuordnen.
 
 (4) Für Tätigkeiten nach § 30c Absatz 4 Nummer 1 des Soldatengesetzes soll Soldatinnen und Soldaten, auf Antrag
 
 1. innerhalb von einem Monat vor Beginn der Tätigkeit Urlaub, Dienstbefreiung oder Freistellung vom Dienst für mindestens fünf zusammenhängende Tage gewährt werden,
 
 2. innerhalb von zwei Monaten nach Beendigung der Tätigkeit Urlaub, Dienstbefreiung oder Freistellung vom Dienst für mindestens 14 zusammenhängende Tage gewährt werden.
+
+(+++ § 23 Abs. 3: Das Textende wurde abweichend vom Bundesgesetzblatt mit einem Punkt versehen +++)
 
 # Anlage – (zu § 1 Absatz 2)
 

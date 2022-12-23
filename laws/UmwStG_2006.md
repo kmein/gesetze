@@ -608,7 +608,11 @@ In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesell
 
 2. § 20 Abs. 6 in der am 21. Mai 2003 geltenden Fassung für die Fälle des Ausschlusses des Besteuerungsrechts (§ 20 Abs. 3) weiterhin anwendbar, wenn auf die Einbringung Absatz 2 anzuwenden war,
 
-3. § 21 in der am 21. Mai 2003 geltenden Fassung ist für einbringungsgeborene Anteile im Sinne von § 21 Abs. 1, die auf einem Einbringungsvorgang beruhen, auf den Absatz 2 anwendbar war, weiterhin anzuwenden. Für § 21 Abs. 2 Satz 1 Nr. 2 in der am 21. Mai 2003 geltenden Fassung gilt dies mit der Maßgabe, dass eine Stundung der Steuer gemäß § 6 Abs. 5 des Außensteuergesetzes in der Fassung des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) unter den dort genannten Voraussetzungen erfolgt, wenn die Einkommensteuer noch nicht bestandskräftig festgesetzt ist; § 6 Abs. 6 und 7 des Außensteuergesetzes ist entsprechend anzuwenden.
+3. § 21 in der am 21. Mai 2003 geltenden Fassung für einbringungsgeborene Anteile im Sinne von § 21 Absatz 1, die auf einem Einbringungsvorgang beruhen, auf den Absatz 2 anwendbar war, weiterhin anzuwenden. Für § 21 Absatz 2 Satz 1 Nummer 2 in der am 21. Mai 2003 geltenden Fassung gilt dies mit der Maßgabe, dass
+
+a) eine Stundung der Steuer gemäß § 6 Absatz 5 des Außensteuergesetzes in der Fassung des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) erfolgt, wenn die Einkommensteuer noch nicht bestandskräftig festgesetzt ist und das die Besteuerung auslösende Ereignis vor dem 1. Januar 2022 eingetreten ist; § 6 Absatz 6 und 7 des Außensteuergesetzes in der am 30. Juni 2021 geltenden Fassung ist entsprechend anzuwenden;
+
+b) eine Stundung oder ein Entfallen der Steuer gemäß § 6 Absatz 3 und 4 des Außensteuergesetzes in der ab dem 1. Juli 2021 geltenden Fassung auf Antrag des Steuerpflichtigen erfolgt, wenn das die Besteuerung auslösende Ereignis nach dem 31. Dezember 2021 eintritt; § 6 Absatz 5 des Außensteuergesetzes ist entsprechend anzuwenden.
 
 (4) Abweichend von Absatz 1 sind §§ 22, 23 und 24 Abs. 5 nicht anzuwenden, soweit hinsichtlich des Gewinns aus der Veräußerung der Anteile oder einem gleichgestellten Ereignis im Sinne von § 22 Abs. 1 die Steuerfreistellung nach § 8b Abs. 4 des Körperschaftsteuergesetzes in der am 12. Dezember 2006 geltenden Fassung oder nach § 3 Nr. 40 Satz 3 und 4 des Einkommensteuergesetzes in der am 12. Dezember 2006 geltenden Fassung ausgeschlossen ist.
 

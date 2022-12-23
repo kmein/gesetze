@@ -73,7 +73,7 @@ Als an dem Feststellungsverfahren Beteiligte gelten neben den Beteiligten nach �
 
 # § 8 – Feststellungsgegenstand beim Übergang zur Liebhaberei
 
-Dient ein Betrieb von einem bestimmten Zeitpunkt an nicht mehr der Erzielung von Einkünften im Sinne des § 2 Abs. 1 Nr. 1 bis 3 des Einkommensteuergesetzes und liegt deshalb ein Übergang zur Liebhaberei vor, so ist auf diesen Zeitpunkt unabhängig von der Gewinnermittlungsart für jedes Wirtschaftsgut des Anlagevermögens der Unterschiedsbetrag zwischen dem gemeinen Wert und dem Wert, der nach § 4 Abs. 1 oder nach § 5 des Einkommensteuergesetzes anzusetzen wäre, gesondert und bei mehreren Beteiligten einheitlich festzustellen.
+Dient ein Betrieb von einem bestimmten Zeitpunkt an nicht mehr der Erzielung von Einkünften im Sinne des § 2 Abs. 1 Nr. 1 bis 3 des Einkommensteuergesetzes und liegt deshalb ein Übergang zur Liebhaberei vor, so ist auf diesen Zeitpunkt unabhängig von der Gewinnermittlungsart für jedes Wirtschaftsgut des Anlagevermögens der Unterschiedsbetrag zwischen dem gemeinen Wert und dem Wert, der nach § 4 Abs. 1 oder nach § 5 des Einkommensteuergesetzes anzusetzen wäre, gesondert und bei mehreren Beteiligten einheitlich festzustellen. Auf eine gesonderte Feststellung nach Satz 1 kann verzichtet werden, wenn es sich um einen Fall von geringer Bedeutung handelt.
 
 # § 9 – Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken
 
