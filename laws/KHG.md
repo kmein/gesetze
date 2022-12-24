@@ -95,7 +95,7 @@ Dieses Gesetz findet keine Anwendung auf
 
 4. Krankenhäuser der Träger der allgemeine Rentenversicherung und, soweit die gesetzliche Unfallversicherung die Kosten trägt, Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer Vereinigungen; das gilt nicht für Fachkliniken zur Behandlung von Erkrankungen der Atmungsorgane, soweit sie der allgemeinen Versorgung der Bevölkerung mit Krankenhäusern dienen.
 
-§ 28 bleibt unberührt.
+§ 28 bleibt unberührt. § 26f findet hinsichtlich der Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer Vereinigungen auch Anwendung, soweit die gesetzliche Unfallversicherung die Kosten trägt.
 
 # § 4
 

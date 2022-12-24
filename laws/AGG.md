@@ -339,7 +339,13 @@ Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist verpfli
 
 # § 27 – Aufgaben der Antidiskriminierungsstelle des Bundes
 
-(1) Wer der Ansicht ist, wegen eines in § 1 genannten Grundes benachteiligt worden zu sein, kann sich an die Antidiskriminierungsstelle des Bundes wenden.
+(1) Wer der Ansicht ist, wegen eines in § 1 genannten Grundes benachteiligt worden zu sein, kann sich an die Antidiskriminierungsstelle des Bundes wenden. An die Antidiskriminierungsstelle des Bundes können sich auch Beschäftigte wenden, die der Ansicht sind, benachteiligt worden zu sein auf Grund
+
+1. der Beantragung oder Inanspruchnahme einer Freistellung von der Arbeitsleistung oder der Anpassung der Arbeitszeit als Eltern oder pflegende Angehörige nach dem Bundeselterngeld- und Elternzeitgesetz, dem Pflegezeitgesetz oder dem Familienpflegezeitgesetz,
+
+2. des Fernbleibens von der Arbeit nach § 2 des Pflegezeitgesetzes oder
+
+3. der Verweigerung ihrer persönlich zu erbringenden Arbeitsleistung aus dringenden familiären Gründen nach § 275 Absatz 3 des Bürgerlichen Gesetzbuchs, wenn eine Erkrankung oder ein Unfall ihre unmittelbare Anwesenheit erforderten.
 
 (2) Die Antidiskriminierungsstelle des Bundes unterstützt auf unabhängige Weise Personen, die sich nach Absatz 1 an sie wenden, bei der Durchsetzung ihrer Rechte zum Schutz vor Benachteiligungen. Hierbei kann sie insbesondere
 
@@ -355,11 +361,11 @@ Soweit Beauftragte des Deutschen Bundestages oder der Bundesregierung zuständig
 
 1. Öffentlichkeitsarbeit,
 
-2. Maßnahmen zur Verhinderung von Benachteiligungen aus den in § 1 genannten Gründen,
+2. Maßnahmen zur Verhinderung von Benachteiligungen aus den in § 1 genannten Gründen sowie von Benachteiligungen von Beschäftigten gemäß Absatz 1 Satz 2,
 
 3. Durchführung wissenschaftlicher Untersuchungen zu diesen Benachteiligungen.
 
-(4) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages legen gemeinsam dem Deutschen Bundestag alle vier Jahre Berichte über Benachteiligungen aus den in § 1 genannten Gründen vor und geben Empfehlungen zur Beseitigung und Vermeidung dieser Benachteiligungen. Sie können gemeinsam wissenschaftliche Untersuchungen zu Benachteiligungen durchführen.
+(4) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages legen gemeinsam dem Deutschen Bundestag alle vier Jahre Berichte über Benachteiligungen aus den in § 1 genannten Gründen sowie über Benachteiligungen von Beschäftigten gemäß Absatz 1 Satz 2 vor und geben Empfehlungen zur Beseitigung und Vermeidung dieser Benachteiligungen. Sie können gemeinsam wissenschaftliche Untersuchungen zu Benachteiligungen durchführen.
 
 (5) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages sollen bei Benachteiligungen aus mehreren der in § 1 genannten Gründe zusammenarbeiten.
 

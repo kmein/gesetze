@@ -829,9 +829,11 @@ Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zusti
 
 # Art 82
 
-(1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt und im Bundesgesetzblatte verkündet. Rechtsverordnungen werden von der Stelle, die sie erläßt, ausgefertigt und vorbehaltlich anderweitiger gesetzlicher Regelung im Bundesgesetzblatte verkündet.
+(1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt und im Bundesgesetzblatt verkündet. Das Bundesgesetzblatt kann in elektronischer Form geführt werden. Rechtsverordnungen werden von der Stelle, die sie erlässt, ausgefertigt. Das Nähere zur Verkündung und zur Form von Gegenzeichnung und Ausfertigung von Gesetzen und Rechtsverordnungen regelt ein Bundesgesetz.
 
 (2) Jedes Gesetz und jede Rechtsverordnung soll den Tag des Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie mit dem vierzehnten Tage nach Ablauf des Tages in Kraft, an dem das Bundesgesetzblatt ausgegeben worden ist.
+
+(+++ Art. 82 Abs. 1 Satz 4: Siehe auch Verkündungs- und Bekanntmachungsgesetz 114-1 +++)
 
 # Art 83
 
