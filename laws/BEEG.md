@@ -443,7 +443,7 @@ Der Anspruch besteht nur für Zeiten, in denen keiner der Elternteile des Kindes
 
 (4) Der Arbeitnehmer oder die Arbeitnehmerin darf während der Elternzeit nicht mehr als 32 Wochenstunden im Durchschnitt des Monats erwerbstätig sein. Eine im Sinne des § 23 des Achten Buches Sozialgesetzbuch geeignete Tagespflegeperson darf bis zu fünf Kinder in Tagespflege betreuen, auch wenn die wöchentliche Betreuungszeit 32 Stunden übersteigt. Teilzeitarbeit bei einem anderen Arbeitgeber oder selbstständige Tätigkeit nach Satz 1 bedürfen der Zustimmung des Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus dringenden betrieblichen Gründen schriftlich ablehnen.
 
-(5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung der Arbeitszeit und ihre Verteilung beantragen. Über den Antrag sollen sich der Arbeitgeber und der Arbeitnehmer oder die Arbeitnehmerin innerhalb von vier Wochen einigen. Der Antrag kann mit der schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden werden. Unberührt bleibt das Recht, sowohl die vor der Elternzeit bestehende Teilzeitarbeit unverändert während der Elternzeit fortzusetzen, soweit Absatz 4 beachtet ist, als auch nach der Elternzeit zu der Arbeitszeit zurückzukehren, die vor Beginn der Elternzeit vereinbart war.
+(5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung der Arbeitszeit und ihre Verteilung beantragen. Der Antrag kann mit der schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden werden. Über den Antrag sollen sich der Arbeitgeber und der Arbeitnehmer oder die Arbeitnehmerin innerhalb von vier Wochen einigen. Lehnt der Arbeitgeber den Antrag ab, so hat er dies dem Arbeitnehmer oder der Arbeitnehmerin innerhalb der Frist nach Satz 3 mit einer Begründung mitzuteilen. Unberührt bleibt das Recht, sowohl die vor der Elternzeit bestehende Teilzeitarbeit unverändert während der Elternzeit fortzusetzen, soweit Absatz 4 beachtet ist, als auch nach der Elternzeit zu der Arbeitszeit zurückzukehren, die vor Beginn der Elternzeit vereinbart war.
 
 (6) Der Arbeitnehmer oder die Arbeitnehmerin kann gegenüber dem Arbeitgeber, soweit eine Einigung nach Absatz 5 nicht möglich ist, unter den Voraussetzungen des Absatzes 7 während der Gesamtdauer der Elternzeit zweimal eine Verringerung seiner oder ihrer Arbeitszeit beanspruchen.
 
@@ -465,7 +465,7 @@ b) für den Zeitraum zwischen dem dritten Geburtstag und dem vollendeten achten 
 
 vor Beginn der Teilzeittätigkeit schriftlich mitgeteilt.
 
-Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte Verringerung oder Verteilung der Arbeitszeit ablehnen will, muss er dies innerhalb der in Satz 5 genannten Frist mit schriftlicher Begründung tun. Hat ein Arbeitgeber die Verringerung der Arbeitszeit
+Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte Verringerung oder Verteilung der Arbeitszeit ablehnt, muss die Ablehnung innerhalb der in Satz 5 genannten Frist und mit schriftlicher Begründung erfolgen. Hat ein Arbeitgeber die Verringerung der Arbeitszeit
 
 1. in einer Elternzeit zwischen der Geburt und dem vollendeten dritten Lebensjahr des Kindes nicht spätestens vier Wochen nach Zugang des Antrags oder
 
