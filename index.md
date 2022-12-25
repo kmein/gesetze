@@ -266,6 +266,7 @@
 - [AsylbLG](laws/AsylbLG.md) Asylbewerberleistungsgesetz
 - [AsylbLG§3aAbs4Bek](laws/AsylbLG§3aAbs4Bek.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2020
 - [AsylbLG§3aAbs4Bek 2022](laws/AsylbLG§3aAbs4Bek_2022.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2022
+- [AsylbLG§3aAbs4Bek 2023](laws/AsylbLG§3aAbs4Bek_2023.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2023
 - [AsylbLG§3Abs4Bek](laws/AsylbLG§3Abs4Bek.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016
 - [AsylG](laws/AsylG.md) Asylgesetz
 - [AsylVfGNG](laws/AsylVfGNG.md) Gesetz zur Neuregelung des Asylverfahrens
@@ -3300,7 +3301,7 @@
 - [KWG](laws/KWG.md) Gesetz über das Kreditwesen
 - [KWGWpIGVermV](laws/KWGWpIGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes
 - [KWKAusV](laws/KWKAusV.md) Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme
-- [KWKG 2020](laws/KWKG_2020.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
+- [KWKG 2023](laws/KWKG_2023.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
 - [KWMV](laws/KWMV.md) Verordnung über Meldepflichten für bestimmte Kriegswaffen
 - [KyotoProt](laws/KyotoProt.md) Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen
 - [KyotoProtAnpfondsG](laws/KyotoProtAnpfondsG.md) Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds
@@ -5364,6 +5365,7 @@
 - [StromGVV](laws/StromGVV.md) Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz
 - [StromNEV](laws/StromNEV.md) Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen
 - [StromNZV](laws/StromNZV.md) Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen
+- [StromPBG](laws/StromPBG.md) Gesetz zur Einführung einer Strompreisbremse *
 - [StromStG](laws/StromStG.md) Stromsteuergesetz
 - [StromStG§10Abs3uaBek](laws/StromStG§10Abs3uaBek.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2016](laws/StromStG§10Abs3uaBek_2016.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
