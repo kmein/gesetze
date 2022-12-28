@@ -483,6 +483,14 @@ Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollv
 
 (3) Hat nicht das Zollkriminalamt die Ausschreibung veranlasst, so trägt die die Ausschreibung veranlassende Stelle der Zollverwaltung die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen.
 
+# § 14a – Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+
+(1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben zur Verhütung von Straftaten nach § 3 Absatz 1 Nummer 2 eine Person, eine Sache oder bargeldlose Zahlungsmittel zur Ermittlungsanfrage oder zur verdeckten Kontrolle in den nationalen Fahndungssystemen ausschreiben und zur Erfüllung seiner Aufgaben nach § 3 Absatz 4 personenbezogene Daten für Zwecke der Ausschreibung verarbeiten, wenn die Voraussetzungen des Artikels 36 Absatz 1 und 3 Buchstabe a oder c der Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S. 56) vorliegen. § 14 Absatz 3 gilt entsprechend.
+
+(2) Eigene Ausschreibungen des Zollkriminalamtes zur Erfüllung seiner Aufgaben zur Verhütung von Straftaten nach § 3 Absatz 1 Nummer 2 zur verdeckten Kontrolle dürfen nur auf Anordnung der Präsidentin oder des Präsidenten des Zollkriminalamtes, ihrer oder seiner Vertretung, oder durch die Leiterin oder den Leiter einer Abteilung des Zollkriminalamtes oder ihrer Vertretung erfolgen. Bei Gefahr im Verzug darf die Ausschreibung nach Satz 1 auch durch Beamte des höheren Dienstes des Zollkriminalamtes angeordnet werden.
+
+(3) Die Ausschreibung ist unter Angabe der maßgeblichen Gründe zu dokumentieren.
+
 # § 15 – Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt ist im Rahmen seiner Aufgaben nach § 3 Absatz 1 und 3 Zentralstelle für den elektronischen Datenverbund zwischen den Dienststellen, die am Zollfahndungsinformationssystem angeschlossen sind. Das Zollkriminalamt bestimmt mit Zustimmung des Bundesministeriums der Finanzen die in das Zollfahndungsinformationssystem einzubeziehenden Dateisysteme, die personenbezogene Daten enthalten.
@@ -493,9 +501,11 @@ Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollv
 
 2. die anderen ermittlungsführenden Dienststellen der Zollverwaltung,
 
-3. die Zentralstelle für Finanztransaktionsuntersuchungen und
+3. die Zentralstelle für Finanztransaktionsuntersuchungen,
 
-4. das Bundeskriminalamt.
+4. das Bundeskriminalamt und
+
+5. die Zentralstelle für Sanktionsdurchsetzung.
 
 (3) In der Errichtungsanordnung nach § 90 ist für jedes Dateisystem des Zollfahndungsinformationssystems, das personenbezogene Daten enthält, festzulegen, welche Stellen berichtigt sind, Daten zu erfassen und abzufragen. Die §§ 11 bis 14 sowie die §§ 27 und 28 gelten entsprechend. § 76 des Bundesdatenschutzgesetzes und § 91 bleiben unberührt.
 
@@ -597,7 +607,7 @@ und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 2. im Rahmen eines Verfahrens zur Erteilung einer ausfuhrrechtlichen Genehmigung oder zur Unterrichtung von Teilnehmern am Außenwirtschaftsverkehr, soweit hierdurch eine Genehmigungspflicht begründet werden kann.
 
-(4) Das Zollkriminalamt kann der Zentralstelle für Finanztransaktionsuntersuchungen personenbezogene Daten zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln.
+(4) Das Zollkriminalamt kann der Zentralstelle für Finanztransaktionsuntersuchungen personenbezogene Daten zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln. Satz 1 gilt entsprechend für die Übermittlung von personenbezogenen Daten an die Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben nach dem Sanktionsdurchsetzungsgesetz.
 
 (5) Die Einrichtung eines automatisierten Verfahrens für die Übermittlung von personenbezogenen Daten durch Abruf von Daten aus beim Zollkriminalamt geführten Dateisystemen ist mit Zustimmung des Bundesministeriums der Finanzen zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder ihrer besonderen Eilbedürftigkeit angemessen ist. Die Verantwortung für die Zulässigkeit der einzelnen Abfrage trägt der Dritte, an den übermittelt wird. § 91 findet entsprechende Anwendung.
 
@@ -862,6 +872,14 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 (2) Rechtfertigen tatsächliche Anhaltspunkte die Annahme, dass Beförderungsmittel zur Begehung von Zuwiderhandlungen nach Absatz 1 eingesetzt werden, so können die Behörden des Zollfahndungsdienstes auch personenbezogene Daten für Zwecke der Ausschreibung zur zollrechtlichen Überwachung dieser Beförderungsmittel verarbeiten.
 
 (3) Hat nicht eine Behörde des Zollfahndungsdienstes die Ausschreibung veranlasst, so trägt die die Ausschreibung veranlassende Stelle der Zollverwaltung die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen.
+
+# § 33a – Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+
+(1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer Aufgaben zur Verhütung von Straftaten nach § 4 und § 5 eine Person, eine Sache oder bargeldlose Zahlungsmittel zur Ermittlungsanfrage oder zur verdeckten Kontrolle in den nationalen Fahndungssystemen ausschreiben, wenn die Voraussetzungen des Artikels 36 Absatz 1 und 3 Buchstabe a oder c der Verordnung (EU) 2018/1862 vorliegen.
+
+(2) Die Ausschreibung zur verdeckten Kontrolle darf nur auf Anordnung der jeweiligen Behördenleitung oder ihrer Vertretung erfolgen. Bei Gefahr im Verzug darf die Ausschreibung nach Satz 1 auch durch Beamte des höheren Dienstes des Zollkriminalamtes angeordnet werden.
+
+(3) Die Ausschreibung ist unter Angabe der maßgeblichen Gründe zu dokumentieren.
 
 # § 34 – Aufzeichnung eingehender Telefonanrufe
 
@@ -1267,7 +1285,7 @@ und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 2. im Rahmen eines Verfahrens zur Erteilung einer ausfuhrrechtlichen Genehmigung oder zur Unterrichtung von Teilnehmern am Außenwirtschaftsverkehr, soweit hierdurch eine Genehmigungspflicht begründet werden kann.
 
-(5) Die Behörden des Zollfahndungsdienstes können der Zentralstelle für Finanztransaktionsuntersuchungen personenbezogene Daten zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln.
+(5) Die Behörden des Zollfahndungsdienstes können der Zentralstelle für Finanztransaktionsuntersuchungen personenbezogene Daten zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln. Satz 1 gilt entsprechend für die Übermittlung von personenbezogenen Daten an die Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben nach dem Sanktionsdurchsetzungsgesetz.
 
 (6) Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des Absatzes 2 personenbezogene Daten auch an nichtöffentliche Stellen übermitteln. Die Behörden des Zollfahndungsdienstes haben einen Nachweis zu führen, aus dem Anlass, Inhalt und Tag der Übermittlung sowie die Aktenfundstelle und der Empfänger ersichtlich sind. Die Nachweise sind gesondert aufzubewahren und gegen unberechtigten Zugriff zu sichern. Am Ende des Kalenderjahres, das dem Kalenderjahr ihrer Erstellung folgt, sind die Nachweise zu löschen. Die Löschung unterbleibt, solange
 
@@ -1807,6 +1825,8 @@ c) der Absender und Adressat der Postsendung sowie die Art und die Anzahl der ü
 
 1. des § 10 Absatz 2 und 3 sowie des § 30 Absatz 3 und 4 die von einer Beauskunftung betroffenen Personen,
 
+1a. des § 14a sowie des § 33a bei einer Ausschreibung zur verdeckten Kontrolle die Zielperson und die Personen, deren personenbezogene Daten gemeldet worden sind,
+
 2. des § 47 Absatz 2 Nummer 1 und 2 (längerfristige Observation, Bildaufnahmen oder Bildaufzeichnungen, Abhören und Aufzeichnen des nichtöffentlich gesprochenen Wortes außerhalb von Wohnungen) die Zielperson sowie die erheblich mitbetroffenen Personen,
 
 3. des § 47 Absatz 2 Nummer 3 und 4 (Einsatz Vertrauensperson, Einsatz Verdeckter Ermittler)
@@ -1839,11 +1859,11 @@ b) die Absender und Adressaten der überwachten Postsendungen,
 
 9. des § 78 (Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten) die Zielperson.
 
-Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Zudem kann die Benachrichtigung einer in Absatz 1 Nummer 6 und 7 bezeichneten Person, gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der Maßnahme nur unerheblich betroffen ist und anzunehmen ist, dass sie kein Interesse an einer Benachrichtigung hat. Nachforschungen zur Feststellung der Identität einer in Satz 1 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist. Die Gründe für das Absehen von der Benachrichtigung sind zu dokumentieren.
+Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Zudem kann die Benachrichtigung einer in Absatz 1 Nummer 6 und 7 bezeichneten Person, gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der Maßnahme nur unerheblich betroffen ist und anzunehmen ist, dass sie kein Interesse an einer Benachrichtigung hat. Nachforschungen zur Feststellung der Identität einer in Satz 1 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist. Die Gründe für das Absehen von der Benachrichtigung sind zu dokumentieren. In den Fällen des Absatzes 1 Satz 1 Nummer 1a unterrichtet die Stelle, die die Ausschreibung veranlasst hat, das Zollkriminalamt über die Löschung und darüber, ob der Betroffene benachrichtigt werden kann.
 
-(2) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des Zwecks der Maßnahme, des Bestandes des Staates, von Leib, Leben oder Freiheit einer Person oder bedeutender Vermögenswerte möglich ist. Im Falle des § 47 Absatz 2 Nummer 3 und 4 sowie des § 62 erfolgt die Benachrichtigung erst, sobald dies auch ohne Gefährdung der Möglichkeit der weiteren Verwendung der Vertrauensperson oder des Verdeckten Ermittlers möglich ist. Wird wegen des zugrunde liegenden Sachverhaltes ein strafrechtliches Ermittlungsverfahren geführt, entscheidet die Strafverfolgungsbehörde entsprechend den Vorschriften des Strafverfahrensrechts über den Zeitpunkt der Benachrichtigung. Wird die Benachrichtigung aus einem der vorgenannten Gründe zurückgestellt, ist dies zu dokumentieren.
+(2) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des Zwecks der Maßnahme, des Bestandes des Staates, von Leib, Leben oder Freiheit einer Person oder bedeutender Vermögenswerte möglich ist. Im Falle des § 47 Absatz 2 Nummer 3 und 4 sowie des § 62 erfolgt die Benachrichtigung erst, sobald dies auch ohne Gefährdung der Möglichkeit der weiteren Verwendung der Vertrauensperson oder des Verdeckten Ermittlers möglich ist. Wird wegen des zugrunde liegenden Sachverhaltes ein strafrechtliches Ermittlungsverfahren geführt, entscheidet die Strafverfolgungsbehörde entsprechend den Vorschriften des Strafverfahrensrechts, ob eine Benachrichtigung vorgenommen wird. Wird die Benachrichtigung aus einem der vorgenannten Gründe zurückgestellt, ist dies zu dokumentieren.
 
-(3) Erfolgt die nach Absatz 2 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere Zurückstellung der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer der weiteren Zurückstellung. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung endgültig von der Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz 1 genannte Frist mit der Beendigung der letzten Maßnahme. Die gerichtliche Zuständigkeit bestimmt sich nach den für die Anordnung der jeweiligen Maßnahme geltenden Vorschriften.
+(3) Erfolgt die nach Absatz 2 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere Zurückstellung der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer der weiteren Zurückstellung. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung endgültig von der Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden, eine weitere Verwendung der Daten gegen den Betroffenen ausgeschlossen ist und die Daten gelöscht werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz 1 genannte Frist mit der Beendigung der letzten Maßnahme. Die gerichtliche Zuständigkeit bestimmt sich nach den für die Anordnung der jeweiligen Maßnahme geltenden Vorschriften.
 
 (4) Auch nach Erledigung einer der in Absatz 1 genannten Maßnahme können betroffene Personen binnen zwei Wochen nach ihrer Benachrichtigung die Überprüfung der Rechtmäßigkeit der Anordnung sowie der Art und Weise des Vollzugs beantragen. Hierauf ist im Rahmen der Benachrichtigung hinzuweisen. Über den Antrag entscheidet das Gericht, das für die Anordnung der Maßnahme zuständig gewesen ist. Gegen die Entscheidung ist die sofortige Beschwerde statthaft.
 
@@ -1880,6 +1900,8 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 (6) Bei personenbezogenen Daten, die im Zollfahndungsinformationssystem gespeichert sind, obliegen die in den Absätzen 1 bis 3 genannten Verpflichtungen der Stelle, die die Daten unmittelbar in das System erfasst.
 
 (7) Ist eine Ausschreibung nach § 14 oder § 33 erfolgt, so sind die zu diesem Zweck gespeicherten personenbezogenen Daten nach der Zweckerfüllung, spätestens jedoch ein Jahr nach dem Beginn der Ausschreibung zu löschen. Besondere in diesem Gesetz enthaltene Vorschriften zur Löschung personenbezogener Daten und hierfür zu beachtender Fristen bleiben unberührt.
+
+(8) Ist eine Ausschreibung nach § 14a oder § 33a erfolgt, so sind die zu diesem Zweck gespeicherten personenbezogenen Daten nach der Zweckerfüllung, spätestens jedoch ein Jahr nach dem Beginn der Ausschreibung zu löschen. Spätestens nach Ablauf von sechs Monaten ist zu prüfen, ob die Voraussetzungen für die Ausschreibung noch bestehen. Das Ergebnis dieser Prüfung ist zu dokumentieren. Eine Verlängerung der Maßnahme um jeweils nicht mehr als ein Jahr ist zulässig, soweit die Voraussetzungen für die Anordnung der Maßnahme weiterhin vorliegen; bei einer Ausschreibung zur verdeckten Kontrolle bedarf die Verlängerung einer richterlichen Anordnung. Zuständiges Gericht ist das Amtsgericht, in dessen Bezirk die Stelle, die die Ausschreibung veranlasst hat, ihren Sitz hat. Die Bestimmungen des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit finden entsprechende Anwendung. Liegen die Voraussetzungen der Ausschreibung nicht mehr vor, ist die Ausschreibung aufzuheben und sind die aufgrund der Ausschreibung ergriffenen Maßnahmen unverzüglich zu beenden. Besondere in diesem Gesetz enthaltene Vorschriften zur Löschung personenbezogener Daten und hierfür zu beachtende Fristen bleiben unberührt.
 
 # § 97 – Berichtigung personenbezogener Daten, Einschränkung der Verarbeitung in Akten, Vernichtung von Akten
 

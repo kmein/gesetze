@@ -851,7 +851,7 @@ In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für allgemeine Strafs
 
 2. nach den Gesetzen über das Bank-, Depot-, Börsen- und Kreditwesen sowie nach dem Versicherungsaufsichtsgesetz, dem Zahlungsdiensteaufsichtsgesetz und dem Wertpapierhandelsgesetz,
 
-3. nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, den Devisenbewirtschaftungsgesetzen sowie dem Finanzmonopol-, Steuer- und Zollrecht, auch soweit dessen Strafvorschriften nach anderen Gesetzen anwendbar sind; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz darstellt, und nicht für Steuerstraftaten, welche die Kraftfahrzeugsteuer betreffen,
+3. nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, dem Sanktionsdurchsetzungsgesetz, den Devisenbewirtschaftungsgesetzen sowie dem Finanzmonopol-, Steuer- und Zollrecht, auch soweit dessen Strafvorschriften nach anderen Gesetzen anwendbar sind; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz darstellt, und nicht für Steuerstraftaten, welche die Kraftfahrzeugsteuer betreffen,
 
 4. nach dem Weingesetz und dem Lebensmittelrecht,
 

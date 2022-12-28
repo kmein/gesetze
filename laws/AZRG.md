@@ -179,6 +179,12 @@ Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen
 
  
 
+§ 17b
+
+Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung
+
+ 
+
 § 18
 
 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
@@ -963,6 +969,20 @@ An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur Erfüllung
 
 7. Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, 3, 7, 7a und 12.
 
+# § 17b – Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung
+
+An die Zentralstelle für Sanktionsdurchsetzung werden zur Erfüllung ihrer Aufgaben nach § 1 Absatz 1 des Sanktionsdurchsetzungsgesetzes zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und, soweit vorhanden, folgende Daten übermittelt:
+
+1. abweichende Namensschreibweisen,
+
+2. andere Namen,
+
+3. frühere Namen,
+
+4. Aliaspersonalien und
+
+5. Angaben zum Ausweispapier.
+
 # § 18 – Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
 
 (1) An die Bundesagentur für Arbeit werden für die Erfüllung ihrer Aufgaben nach dem Achten Abschnitt des Zweiten Kapitels des Aufenthaltsgesetzes, zur Überwachung der zeitlichen und zahlenmäßigen Beschränkungen der Beschäftigungen auf Grund von zwischenstaatlichen Regierungsvereinbarungen und Vermittlungsabsprachen und zur Erhebung und Erstattung von Gebühren neben den Grunddaten folgende Daten der betroffenen Person übermittelt:
@@ -1212,6 +1232,8 @@ Nach der Erhebung von Daten nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 4
 7. die Behörden der Zollverwaltung,
 
 7a. die Zentralstelle für Finanztransaktionsuntersuchungen,
+
+7b. die Zentralstelle für Sanktionsdurchsetzung,
 
 8. die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen,
 
@@ -1477,7 +1499,9 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 11. die obersten Bundes- und Landesbehörden, die mit der Durchführung ausländer- und asylrechtlicher Vorschriften als eigener Aufgabe betraut sind, soweit nicht § 21 anzuwenden ist,
 
-12. die Zentralstelle für Finanztransaktionsuntersuchungen.
+12. die Zentralstelle für Finanztransaktionsuntersuchungen,
+
+13. die Zentralstelle für Sanktionsdurchsetzung.
 
 (2) § 21 Abs. 1 bis 3 und die Übermittlungsregelungen dieses Gesetzes gelten entsprechend.
 

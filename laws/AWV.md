@@ -535,43 +535,7 @@ Bestehen ernsthafte Zweifel an der Richtigkeit eines Ursprungszeugnisses, könne
 
 # § 34 – Erhebung von Einfuhrdaten
 
-(1) Bei der Einfuhr von Waren der Warennummern 0105 11 11 bis 0105 99 50, 0207 11 10 bis 0207 13 70, 0207 13 99 bis 0207 14 70, 0207 14 99 bis 0207 26 80, 0207 26 99 bis 0207 27 80, 0207 27 99 bis 0207 42 80, 0207 44 10 bis 0207 44 81, 0207 44 99 bis 0207 45 81, 0207 45 99 bis 0207 52 90, 0207 54 10 bis 0207 54 81, 0207 54 99 bis 0207 55 81, 0207 55 99 bis 0207 60 81, 0207 60 99, 0209 90 00, 0401 10 10 bis 0403 10 39, 0403 90 11 bis 0403 90 69, 0404 10 02 bis 0407 90 90, 0408 11 80, 0408 19 81, 0408 19 89, 0408 91 80, 0408 99 80, 0701 10 00, 0701 90 50, 0701 90 90, 1105 10 00, 1105 20 00, 1602 32 11, 1602 39 21, 1702 11 00, 1702 19 00, 2106 90 51, 2309 90 20, 3502 11 90 und 3502 19 90 bis 3502 90 70 des Warenverzeichnisses für die Außenhandelsstatistik hat der Einführer zum Zweck der Marktbeobachtung gegenüber der Bundesanstalt für Landwirtschaft und Ernährung die folgenden Angaben zu machen:
-
-1. die Anmeldeart,
-
-2. die Belegnummer,
-
-3. den Zeitpunkt der Annahme der Anmeldung,
-
-4. den Namen und die Adresse des Empfängers,
-
-5. die EORI-Nummer des Empfängers,
-
-6. das Versendungsland,
-
-7. den Umrechnungskurs,
-
-8. die Art des Geschäfts,
-
-9. die Warenbezeichnung,
-
-10. die Warennummer,
-
-11. das Ursprungsland,
-
-12. die Rohmasse,
-
-13. den Verfahrenscode,
-
-14. die Eigenmasse,
-
-15. die statistische Menge in besonderer Maßeinheit,
-
-16. das einfuhrrechtliche Papier (Nummer und Datum) und
-
-17. den statistischen Wert.
-
-(2) Bei der Einfuhr von Waren der Warennummern 2705 00 00, 2707 10 00, 2707 20 00, 2707 30 00, 2707 50 00, 2709 00 10, 2709 00 90, 2710 12 11, 2710 19 99, 2710 99 00, 2711 11 00 bis 2711 29 00, 2712 10 10 bis 2713 20 00, 2713 90 90, 2715 00 00 und 3403 19 80 des Warenverzeichnisses für die Außenhandelsstatistik hat der Einführer zum Zweck der Marktbeobachtung gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die folgenden Angaben zu machen:
+(1) Bei der Einfuhr von Waren der Warennummern 2705 00 00, 2707 10 00, 2707 20 00, 2707 30 00, 2707 50 00, 2709 00 10, 2709 00 90, 2710 12 11, 2710 19 99, 2710 99 00, 2711 11 00 bis 2711 29 00, 2712 10 10 bis 2713 20 00, 2713 90 90, 2715 00 00 und 3403 19 80 des Warenverzeichnisses für die Außenhandelsstatistik hat der Einführer zum Zweck der Marktbeobachtung gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die folgenden Angaben zu machen:
 
 1. die Anmeldeart,
 
@@ -605,9 +569,9 @@ Bestehen ernsthafte Zweifel an der Richtigkeit eines Ursprungszeugnisses, könne
 
 16. den statistischen Wert.
 
-(3) Der Einführer übermittelt die Angaben nach den Absätzen 1 und 2 der zuständigen Zollstelle elektronisch mit der Einfuhranmeldung. Das Informationstechnikzentrum Bund leitet die Daten im Auftrag der zuständigen Zollstelle zum Zweck der Marktbeobachtung im Fall des Absatzes 1 an die Bundesanstalt für Landwirtschaft und Ernährung und im Fall des Absatzes 2 an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) weiter.
+(2) Der Einführer übermittelt die Angaben nach Absatz 1 der zuständigen Zollstelle elektronisch mit der Einfuhranmeldung. Das Informationstechnikzentrum Bund leitet die Daten im Auftrag der zuständigen Zollstelle zum Zweck der Marktbeobachtung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) weiter.
 
-(4) Die Bundesanstalt für Landwirtschaft und Ernährung und das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) löschen die Daten spätestens nach Ablauf von zwei Jahren. Die Frist beginnt mit dem Ende des Jahres, in dem die Daten von der zuständigen Zollstelle übermittelt worden sind.
+(3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) löscht die Daten spätestens nach Ablauf von zwei Jahren. Die Frist beginnt mit dem Ende des Jahres, in dem die Daten von der zuständigen Zollstelle übermittelt worden sind.
 
 # § 35 – Einfuhrkontrollmeldung
 
@@ -655,7 +619,7 @@ b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge 
 
 (1) Wenn für Waren auf Grund eines Rechtsakts der Europäischen Union ein Ursprungszeugnis oder eine Ursprungserklärung vorgesehen ist, sind diese bei der Einfuhrabfertigung vorzulegen. § 32 Absatz 1 Satz 1 Nummer 2 Buchstabe a und Satz 2 sowie § 32 Absatz 3 gelten entsprechend. Die Sätze 1 und 2 gelten nicht, wenn der Wert der in der Einfuhrsendung enthaltenen Waren, für die ein Ursprungszeugnis oder eine Ursprungserklärung vorgeschrieben ist, 1 000 Euro nicht übersteigt. Satz 3 gilt nicht, wenn es sich um Waren der Ernährung und Landwirtschaft handelt.
 
-(2) Das Ursprungszeugnis muss von einer berechtigten Stelle des Ursprungslandes ausgestellt sein. Das Bundesministerium für Wirtschaft und Energie macht eine Liste der berechtigten Stellen im Bundesanzeiger bekannt. Ist das Versendungsland nicht das Ursprungsland, so genügt die Vorlage eines Ursprungszeugnisses einer berechtigten Stelle des Versendungslandes.
+(2) Das Ursprungszeugnis muss von einer berechtigten Stelle des Ursprungslandes ausgestellt sein. Das Bundesministerium für Wirtschaft und Klimaschutz macht eine Liste der berechtigten Stellen im Bundesanzeiger bekannt. Ist das Versendungsland nicht das Ursprungsland, so genügt die Vorlage eines Ursprungszeugnisses einer berechtigten Stelle des Versendungslandes.
 
 (3) Die Ursprungserklärung muss vom Exporteur oder Lieferanten auf der Rechnung oder, falls eine Rechnung nicht vorgelegt werden kann, auf einem anderen mit der Ausfuhr in Verbindung stehenden geschäftlichen Beleg eingetragen werden. Sie muss bestätigen, dass die Waren ihren Ursprung im Sinne der Artikel 59 bis 63 der Verordnung (EU) Nr. 952/2013 in Verbindung mit den Artikeln 31 bis 36 der Delegierten Verordnung (EU) 2015/2446 in dem angegebenen Drittland haben.
 
@@ -975,7 +939,7 @@ b) zwar den Voraussetzungen des Artikels 4 Absatz 1 und 2 des Abkommens entsprec
 
 # § 55 – Anwendungsbereich der sektorübergreifenden Prüfung
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann prüfen, ob es die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 des Europäischen Parlaments und des Rates vom 19. März 2019 zur Schaffung eines Rahmens für die Überprüfung ausländischer Direktinvestitionen in der Union (ABl. L 79 I vom 21.3.2019, S. 1) voraussichtlich beeinträchtigt, wenn ein Unionsfremder unmittelbar oder mittelbar ein inländisches Unternehmen oder unmittelbar oder mittelbar eine Beteiligung im Sinne des § 56 an einem inländischen Unternehmen erwirbt.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann prüfen, ob es die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 des Europäischen Parlaments und des Rates vom 19. März 2019 zur Schaffung eines Rahmens für die Überprüfung ausländischer Direktinvestitionen in der Union (ABl. L 79 I vom 21.3.2019, S. 1) voraussichtlich beeinträchtigt, wenn ein Unionsfremder unmittelbar oder mittelbar ein inländisches Unternehmen oder unmittelbar oder mittelbar eine Beteiligung im Sinne des § 56 an einem inländischen Unternehmen erwirbt.
 
 (1a) Ein Erwerb im Sinne des Absatzes 1 liegt auch vor, wenn ein Unionsfremder
 
@@ -989,7 +953,7 @@ erwirbt.
 
 (2) Der Prüfung nach Absatz 1 unterliegen ferner Erwerbe, auch durch Unionsansässige, wenn es Anzeichen dafür gibt, dass eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft zumindest auch vorgenommen wurde, um eine Prüfung nach Absatz 1 zu unterlaufen. Anzeichen für eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft sind insbesondere, wenn der unmittelbare Erwerber mit Ausnahme des Erwerbs nach Absatz 1 keiner nennenswerten eigenständigen Wirtschaftstätigkeit nachgeht oder innerhalb der Europäischen Union keine auf Dauer angelegte eigene Präsenz in Gestalt von Geschäftsräumen, Personal oder Ausrüstungsgegenständen unterhält. Zweigniederlassungen und Betriebsstätten eines unionsfremden Erwerbers gelten nicht als unionsansässig. Erwerber aus den Mitgliedstaaten der Europäischen Freihandelsassoziation stehen Unionsansässigen gleich. Eine Präsenz des unmittelbaren Erwerbers in einem Mitgliedstaat der Europäischen Freihandelsassoziation steht einer Präsenz innerhalb der Europäischen Union gleich. Anzeichen für eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft sind ferner auch, wenn mehrere Erwerbe an demselben inländischen Unternehmen so aufeinander abgestimmt werden, dass bei gesonderter Betrachtung keiner der Erwerbe eine Beteiligung im Sinne des § 56 darstellt.
 
-(3) Das Bundesministerium für Wirtschaft und Energie hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekanntzugeben. Die Bekanntgabe nach Satz 1 muss schriftlich oder elektronisch erfolgen. Für die Wahrung der Frist nach Satz 1 ist allein die rechtzeitige Bekanntgabe der Mitteilung an das vom Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekanntzugeben. Die Bekanntgabe nach Satz 1 muss schriftlich oder elektronisch erfolgen. Für die Wahrung der Frist nach Satz 1 ist allein die rechtzeitige Bekanntgabe der Mitteilung an das vom Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 
 (4) (weggefallen)
 
@@ -1103,7 +1067,7 @@ b) Sicherheitsmoduls für Smart-Meter-Gateways ist, das zum Nachweis der sicherh
 
 24. Personen beschäftigt, die in lebenswichtigen Einrichtungen nach den §§ 5a, 5b oder § 9a der Sicherheitsüberprüfungsfeststellungsverordnung an sicherheitsempfindlichen Stellen im Sinne des § 1 Absatz 5 Satz 3 des Sicherheitsüberprüfungsgesetzes tätig sind,
 
-25. Rohstoffe oder deren Erze gewinnt, aufbereitet oder raffiniert, die im Rahmen der Rohstoffinitiative der Europäischen Kommission im Anhang einer Mitteilung der Kommission als Liste der kritischen Rohstoffe festgelegt wurden und die das Bundesministerium für Wirtschaft und Energie im Bundesanzeiger bekannt gemacht hat,
+25. Rohstoffe oder deren Erze gewinnt, aufbereitet oder raffiniert, die im Rahmen der Rohstoffinitiative der Europäischen Kommission im Anhang einer Mitteilung der Kommission als Liste der kritischen Rohstoffe festgelegt wurden und die das Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger bekannt gemacht hat,
 
 26. Güter entwickelt oder herstellt, auf die sich der Schutzbereich eines nach § 50 des Patentgesetzes geheimgestellten Patentes oder eines nach § 9 des Gebrauchsmustergesetzes geheimgestellten Gebrauchsmusters erstreckt, oder
 
@@ -1141,7 +1105,7 @@ erfüllen würden.
 
 Eine Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere aufgrund der Eigentümerstruktur oder in Form einer Finanzausstattung durch die Regierung, einschließlich sonstiger staatlicher Stellen oder Streitkräfte, eines Drittstaates, die über ein geringfügiges Maß hinausgeht, ausgeübt werden.
 
-(4) Der Abschluss eines schuldrechtlichen Vertrags über den Erwerb eines in Absatz 1 Nummer 1 bis 27 bezeichneten inländischen Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im Sinne des § 56 Absatz 1 oder Absatz 2, jeweils auch in Verbindung mit Absatz 4 Satz 1 oder 2, an einem inländischen Unternehmen im Sinne des Absatzes 1 Nummer 1 bis 27 durch einen Unionsfremden ist dem Bundesministerium für Wirtschaft und Energie vorbehaltlich des Satzes 2 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts schriftlich oder elektronisch zu melden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes hat die Meldung unverzüglich nach Veröffentlichung der Entscheidung zur Abgabe des Angebots zu erfolgen. Erwerbe nach § 56 Absatz 3 bleiben für die Meldepflicht nach Satz 1 außer Betracht. In der Meldung sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. In den Fällen des § 56 Absatz 4 Satz 1 Nummer 2, 1. Halbsatz und Satz 2 ist auch die Stimmrechtsvereinbarung anzugeben. Das Bundesministerium für Wirtschaft und Energie bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in der Meldung anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form der Meldung. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen.
+(4) Der Abschluss eines schuldrechtlichen Vertrags über den Erwerb eines in Absatz 1 Nummer 1 bis 27 bezeichneten inländischen Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im Sinne des § 56 Absatz 1 oder Absatz 2, jeweils auch in Verbindung mit Absatz 4 Satz 1 oder 2, an einem inländischen Unternehmen im Sinne des Absatzes 1 Nummer 1 bis 27 durch einen Unionsfremden ist dem Bundesministerium für Wirtschaft und Klimaschutz vorbehaltlich des Satzes 2 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts schriftlich oder elektronisch zu melden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes hat die Meldung unverzüglich nach Veröffentlichung der Entscheidung zur Abgabe des Angebots zu erfolgen. Erwerbe nach § 56 Absatz 3 bleiben für die Meldepflicht nach Satz 1 außer Betracht. In der Meldung sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. In den Fällen des § 56 Absatz 4 Satz 1 Nummer 2, 1. Halbsatz und Satz 2 ist auch die Stimmrechtsvereinbarung anzugeben. Das Bundesministerium für Wirtschaft und Klimaschutz bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in der Meldung anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form der Meldung. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen.
 
 (5) Zur Meldung nach Absatz 4 ist der unmittelbare Erwerber verpflichtet, auch wenn in dessen Person die Voraussetzungen des § 55 Absatz 1 nicht vorliegen.
 
@@ -1215,9 +1179,9 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 # § 58 – Unbedenklichkeitsbescheinigung
 
-(1) Das Bundesministerium für Wirtschaft und Energie bescheinigt dem Erwerber auf schriftlichen oder elektronischen Antrag die Unbedenklichkeit eines Erwerbs im Sinne des § 55, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 entgegenstehen (Unbedenklichkeitsbescheinigung). In dem Antrag sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. Das Bundesministerium für Wirtschaft und Energie bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in dem Antrag anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form des Antrags. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz bescheinigt dem Erwerber auf schriftlichen oder elektronischen Antrag die Unbedenklichkeit eines Erwerbs im Sinne des § 55, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 entgegenstehen (Unbedenklichkeitsbescheinigung). In dem Antrag sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. Das Bundesministerium für Wirtschaft und Klimaschutz bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in dem Antrag anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form des Antrags. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen.
 
-(2) Die Unbedenklichkeitsbescheinigung gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Energie nicht innerhalb der in § 14a Absatz 1 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren nach § 55 eröffnet. Für die Durchführung des Prüfverfahrens ist § 55 Absatz 3 Satz 1 und 2 mit der Maßgabe anzuwenden, dass dessen Eröffnung nur dem Antragsteller nach Absatz 1 Satz 1 bekannt zu geben ist; § 55 Absatz 3 Satz 3 ist nicht anzuwenden.
+(2) Die Unbedenklichkeitsbescheinigung gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Klimaschutz nicht innerhalb der in § 14a Absatz 1 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren nach § 55 eröffnet. Für die Durchführung des Prüfverfahrens ist § 55 Absatz 3 Satz 1 und 2 mit der Maßgabe anzuwenden, dass dessen Eröffnung nur dem Antragsteller nach Absatz 1 Satz 1 bekannt zu geben ist; § 55 Absatz 3 Satz 3 ist nicht anzuwenden.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn ein Prüfverfahren nach § 55 Absatz 3 eingeleitet wurde oder eine Pflicht zur Meldung nach § 55a Absatz 4 Satz 1 besteht.
 
@@ -1226,11 +1190,11 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 # § 58a – Freigabe eines Erwerbs nach § 55
 
-(1) Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 entgegenstehen und die Erteilung einer Unbedenklichkeitsbescheinigung nach § 58 Absatz 3 ausgeschlossen ist. Die Freigabe erfolgt bei Erwerben im Sinne des § 55a Absatz 1 Nummer 1 bis 27 gegenüber dem nach § 55a Absatz 5 Meldepflichtigen, in allen anderen Fällen gegenüber demjenigen, dem die Einleitung des Prüfverfahrens nach § 55 Absatz 3 Satz 1 bekannt zu geben ist.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Erwerb schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 entgegenstehen und die Erteilung einer Unbedenklichkeitsbescheinigung nach § 58 Absatz 3 ausgeschlossen ist. Die Freigabe erfolgt bei Erwerben im Sinne des § 55a Absatz 1 Nummer 1 bis 27 gegenüber dem nach § 55a Absatz 5 Meldepflichtigen, in allen anderen Fällen gegenüber demjenigen, dem die Einleitung des Prüfverfahrens nach § 55 Absatz 3 Satz 1 bekannt zu geben ist.
 
 (2) Die Freigabe gilt als erteilt, wenn auf Grund einer Meldung nach § 55a Absatz 4 das Prüfverfahren nach § 55 nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist eingeleitet wird oder wenn in einem nach § 55 Absatz 3 eingeleiteten Prüfverfahren die Befugnisse nach § 59 Absatz 1 und 3 nicht ausgeübt wurden und die in § 14a Absatz 1 Nummer 2, auch in Verbindung mit dessen Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Fristen abgelaufen sind.
 
-(3) Eine Freigabe kann mit der Auflage versehen werden, dass dem Bundesministerium für Wirtschaft und Energie der Erwerb weiterer Stimmrechte auch unterhalb der in § 56 Absatz 2 genannten Schwellenwerte zum Zwecke der Prüfung nach § 55 Absatz 1 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts anzuzeigen ist. § 14 Absatz 1 Satz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
+(3) Eine Freigabe kann mit der Auflage versehen werden, dass dem Bundesministerium für Wirtschaft und Klimaschutz der Erwerb weiterer Stimmrechte auch unterhalb der in § 56 Absatz 2 genannten Schwellenwerte zum Zwecke der Prüfung nach § 55 Absatz 1 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts anzuzeigen ist. § 14 Absatz 1 Satz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
@@ -1238,11 +1202,11 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 # § 59 – Untersagung oder Anordnungen
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann einen Erwerb im Sinne des § 55 bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit dessen Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist gegenüber dem unmittelbaren Erwerber untersagen oder gegenüber den am Erwerb Beteiligten und den mit ihnen verbundenen Unternehmen Anordnungen erlassen, um die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 zu gewährleisten.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann einen Erwerb im Sinne des § 55 bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit dessen Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist gegenüber dem unmittelbaren Erwerber untersagen oder gegenüber den am Erwerb Beteiligten und den mit ihnen verbundenen Unternehmen Anordnungen erlassen, um die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 zu gewährleisten.
 
 (2) (weggefallen)
 
-(3) Zur Durchsetzung einer Untersagung kann das Bundesministerium für Wirtschaft und Energie insbesondere
+(3) Zur Durchsetzung einer Untersagung kann das Bundesministerium für Wirtschaft und Klimaschutz insbesondere
 
 1. die Ausübung der Stimmrechte an dem erworbenen Unternehmen, die einem unionsfremden Erwerber gehören oder ihm zuzurechnen sind, untersagen oder einschränken oder
 
@@ -1250,7 +1214,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (4) Als Dritter kann nach § 23 Absatz 6b Satz 1 des Außenwirtschaftsgesetzes mit der Kontrolle angeordneter oder durch Vertrag übernommener Verpflichtungen der an einem Erwerb Beteiligten beauftragt werden, wer fachkundig, zuverlässig und unabhängig von den Verpflichteten und den weiteren an dem Erwerb Beteiligten ist. Als fachkundig gilt, wer aufgrund seiner Ausbildung, seiner beruflichen Qualifikation oder seiner nachgewiesenen Berufspraxis oder einer Kombination daraus über die erforderlichen Kenntnisse und Fähigkeiten verfügt, um die ihm übertragene Kontrolltätigkeit im Einklang mit allen einschlägigen Rechtsvorschriften und Normen und, soweit es um die Kontrolle technischer oder naturwissenschaftlicher Vorgänge oder Anforderungen geht, unter Beachtung der anerkannten Grundsätze von Wissenschaft und Technik, fach- und sachgerecht ausüben zu können.
 
-(5) In den Fällen des Absatzes 1 kann das Bundesministerium für Wirtschaft und Energie auch anordnen, dass die an einem Erwerb Beteiligten und die mit ihnen verbundenen Unternehmen dem Bundesministerium für Wirtschaft und Energie in bestimmten Zeitabständen einen schriftlichen oder elektronischen Bericht über die Einhaltung von angeordneten oder durch Vertrag übernommenen Verpflichtungen vorzulegen haben. Der Bericht muss von einer Person erstellt werden, die fachkundig im Sinne des Absatzes 4 Satz 2 und unabhängig von den Verpflichteten und den weiteren am Erwerb Beteiligten ist. Die Kosten des Berichts tragen die Verpflichteten.
+(5) In den Fällen des Absatzes 1 kann das Bundesministerium für Wirtschaft und Klimaschutz auch anordnen, dass die an einem Erwerb Beteiligten und die mit ihnen verbundenen Unternehmen dem Bundesministerium für Wirtschaft und Klimaschutz in bestimmten Zeitabständen einen schriftlichen oder elektronischen Bericht über die Einhaltung von angeordneten oder durch Vertrag übernommenen Verpflichtungen vorzulegen haben. Der Bericht muss von einer Person erstellt werden, die fachkundig im Sinne des Absatzes 4 Satz 2 und unabhängig von den Verpflichteten und den weiteren am Erwerb Beteiligten ist. Die Kosten des Berichts tragen die Verpflichteten.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
@@ -1264,7 +1228,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (3) Die Überlassung oder das anderweitige Offenlegen unternehmensbezogener Informationen im Sinne des § 15 Absatz 4 Satz 1 Nummer 3 oder 4 des Außenwirtschaftsgesetzes unmittelbar oder mittelbar an den Erwerber ist bis zu einer Entscheidung im Sinne des § 15 Absatz 3 Satz 2 des Außenwirtschaftsgesetzes oder bis zu dem dort genannten Zeitpunkt verboten.
 
-(4) Für den Fall, dass ein Erwerb im Sinne des Absatzes 1 untersagt wird, kann das Bundesministerium für Wirtschaft und Energie den Erwerbsbeteiligten gegenüber anordnen, den Erwerb rückgängig zu machen. Insbesondere kann angeordnet werden, dass
+(4) Für den Fall, dass ein Erwerb im Sinne des Absatzes 1 untersagt wird, kann das Bundesministerium für Wirtschaft und Klimaschutz den Erwerbsbeteiligten gegenüber anordnen, den Erwerb rückgängig zu machen. Insbesondere kann angeordnet werden, dass
 
 1. Wertpapiere, die aufgrund von Rechtsgeschäften im Sinne des Absatzes 1 erworben worden sind, innerhalb eines bestimmten Zeitraums über die Börse wieder zu veräußern oder an einen Treuhänder zu übertragen sind,
 
@@ -1272,7 +1236,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 # § 60 – Anwendungsbereich der sektorspezifischen Prüfung
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann prüfen, ob der Erwerb eines inländischen Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im Sinne des § 60a an einem inländischen Unternehmen durch einen Ausländer wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland voraussichtlich beeinträchtigt, wenn das Unternehmen
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann prüfen, ob der Erwerb eines inländischen Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im Sinne des § 60a an einem inländischen Unternehmen durch einen Ausländer wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland voraussichtlich beeinträchtigt, wenn das Unternehmen
 
 1. Güter im Sinne des Teils I Abschnitt A der Ausfuhrliste entwickelt, herstellt, modifiziert oder die tatsächliche Gewalt über solche Güter innehat,
 
@@ -1317,9 +1281,9 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (2) Der Prüfung nach Absatz 1 unterliegen ferner Erwerbe, auch durch Inländer, wenn es Anzeichen dafür gibt, dass eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft zumindest auch vorgenommen wurde, um eine Prüfung nach Absatz 1 zu unterlaufen. Anzeichen für eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft liegen insbesondere vor, wenn der unmittelbare Erwerber mit Ausnahme des Erwerbs nach Satz 1 keiner nennenswerten eigenständigen Wirtschaftstätigkeit nachgeht oder im Inland keine auf Dauer angelegte eigene Präsenz in Gestalt von Geschäftsräumen, Personal oder Ausrüstungsgegenständen unterhält. Zweigniederlassungen und Betriebsstätten eines ausländischen Erwerbers gelten nicht als inländisch. Anzeichen für eine missbräuchliche Gestaltung oder ein Umgehungsgeschäft sind ferner auch, wenn mehrere Erwerbe an demselben inländischen Unternehmen so aufeinander abgestimmt werden, dass bei gesonderter Betrachtung keiner der Erwerbe eine Beteiligung im Sinne des § 60a darstellt.
 
-(3) Der Erwerb ist dem Bundesministerium für Wirtschaft und Energie vorbehaltlich des Satzes 2 unverzüglich nach Abschluss des schuldrechtlichen Vertrages schriftlich oder elektronisch zu melden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes hat die Meldung unverzüglich nach Veröffentlichung der Entscheidung zur Abgabe des Angebots zu erfolgen. In der Meldung sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. In den Fällen des § 60a Absatz 2 in Verbindung mit § 56 Absatz 4 Satz 1 Nummer 2, 1. Halbsatz und Satz 2 ist auch die Stimmrechtsvereinbarung anzugeben. Das Bundesministerium für Wirtschaft und Energie bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in der Meldung anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form der Meldung. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen. Die Meldung hat ausschließlich durch den unmittelbaren Erwerber zu erfolgen, auch wenn in dessen Person die Voraussetzungen des Absatzes 1 nicht vorliegen.
+(3) Der Erwerb ist dem Bundesministerium für Wirtschaft und Klimaschutz vorbehaltlich des Satzes 2 unverzüglich nach Abschluss des schuldrechtlichen Vertrages schriftlich oder elektronisch zu melden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes hat die Meldung unverzüglich nach Veröffentlichung der Entscheidung zur Abgabe des Angebots zu erfolgen. In der Meldung sind insbesondere der Erwerb, der Erwerber, das zu erwerbende inländische Unternehmen und die Beteiligungsstrukturen an dem Erwerber anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. In den Fällen des § 60a Absatz 2 in Verbindung mit § 56 Absatz 4 Satz 1 Nummer 2, 1. Halbsatz und Satz 2 ist auch die Stimmrechtsvereinbarung anzugeben. Das Bundesministerium für Wirtschaft und Klimaschutz bestimmt durch Allgemeinverfügung weitere Informationen und Unterlagen, die in der Meldung anzugeben sind, einschließlich für die Prüfung erforderliche personenbezogene Daten, sowie die Form der Meldung. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen. Die Meldung hat ausschließlich durch den unmittelbaren Erwerber zu erfolgen, auch wenn in dessen Person die Voraussetzungen des Absatzes 1 nicht vorliegen.
 
-(4) Das Bundesministerium für Wirtschaft und Energie hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekannt zu geben. § 55 Absatz 3 Satz 2 bis 4 gilt entsprechend.
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekannt zu geben. § 55 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
@@ -1337,14 +1301,14 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 # § 61 – Freigabe eines Erwerbs nach § 60
 
-Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 7 schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland entgegenstehen. Die Freigabe gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Energie nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren gemäß § 60 Absatz 1 gegenüber dem Meldepflichtigen eröffnet. § 58a Absatz 3 gilt mit der Maßgabe entsprechend, dass an die Stelle des § 55 Absatz 1 der § 60 Absatz 1 tritt.
+Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Erwerb gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 7 schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland entgegenstehen. Die Freigabe gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Klimaschutz nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren gemäß § 60 Absatz 1 gegenüber dem Meldepflichtigen eröffnet. § 58a Absatz 3 gilt mit der Maßgabe entsprechend, dass an die Stelle des § 55 Absatz 1 der § 60 Absatz 1 tritt.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 62 – Untersagung oder Anordnungen
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann gegenüber dem Meldepflichtigen bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit den Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist einen Erwerb im Sinne des § 60 untersagen oder gegenüber den am Erwerb Beteiligten und den mit ihnen verbundenen Unternehmen Anordnungen erlassen, um wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland zu gewährleisten.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann gegenüber dem Meldepflichtigen bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit den Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist einen Erwerb im Sinne des § 60 untersagen oder gegenüber den am Erwerb Beteiligten und den mit ihnen verbundenen Unternehmen Anordnungen erlassen, um wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland zu gewährleisten.
 
 (2) § 59 Absatz 3 bis 5 und § 59a gilt entsprechend.
 
@@ -1353,7 +1317,7 @@ Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem
 
 # § 62a – Verfahrenswechsel im Prüfverfahren
 
-Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60 Absatz 1 Satz 1 herausstellt, dass die Voraussetzungen für eine Untersagung oder den Erlass von Anordnungen im Sinne der Vorschriften über das jeweils andere Verfahren vorliegen können, kann das Bundesministerium für Wirtschaft und Energie das jeweilige Prüfverfahren auf Grundlage der Voraussetzungen der Vorschriften des anderen Verfahrens fortsetzen. Hinsichtlich der Anwendung des § 14a des Außenwirtschaftsgesetzes gelten die bisherigen Verfahrenshandlungen für das andere Verfahren fort. Der Verfahrenswechsel ist dem unmittelbaren Erwerber, dem Veräußerer und dem inländischen Unternehmen unverzüglich schriftlich oder elektronisch bekannt zu geben.
+Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60 Absatz 1 Satz 1 herausstellt, dass die Voraussetzungen für eine Untersagung oder den Erlass von Anordnungen im Sinne der Vorschriften über das jeweils andere Verfahren vorliegen können, kann das Bundesministerium für Wirtschaft und Klimaschutz das jeweilige Prüfverfahren auf Grundlage der Voraussetzungen der Vorschriften des anderen Verfahrens fortsetzen. Hinsichtlich der Anwendung des § 14a des Außenwirtschaftsgesetzes gelten die bisherigen Verfahrenshandlungen für das andere Verfahren fort. Der Verfahrenswechsel ist dem unmittelbaren Erwerber, dem Veräußerer und dem inländischen Unternehmen unverzüglich schriftlich oder elektronisch bekannt zu geben.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
@@ -1542,7 +1506,7 @@ b) ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsät
 
 (1) Die Meldungen nach den §§ 64 bis 70 sind der Deutschen Bundesbank elektronisch einzureichen. Soweit die vorliegende Verordnung keine Formvorschriften enthält, sind dabei die von der Deutschen Bundesbank erlassenen Formvorschriften zu beachten.
 
-(2) Die Deutsche Bundesbank übermittelt dem Bundesministerium für Wirtschaft und Energie auf Verlangen die Angaben der Meldepflichtigen nach den §§ 64 und 65 in geeigneter Form.
+(2) Die Deutsche Bundesbank übermittelt dem Bundesministerium für Wirtschaft und Klimaschutz auf Verlangen die Angaben der Meldepflichtigen nach den §§ 64 und 65 in geeigneter Form.
 
 (3) Meldungen können anstatt elektronisch auch in anderer Form abgegeben werden, sofern die Deutsche Bundesbank dies genehmigt hat und die erlassenen Formvorschriften beachtet werden.
 
@@ -1610,7 +1574,9 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 5. in der jeweils geltenden Fassung des Anhangs des Beschlusses 2014/932/GASP des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 147), der zuletzt durch den Beschluss (GASP) 2015/882 des Rates vom 8. Juni 2015 (ABl. L 143 vom 9.6.2015, S. 11) geändert worden ist,
 
-6. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2016/1693 des Rates vom 20. September 2016 betreffend restriktive Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S. 25).
+6. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2016/1693 des Rates vom 20. September 2016 betreffend restriktive Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S. 25),
+
+7. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2022/2319 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 135).
 
 # § 75 – Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
 
@@ -1856,11 +1822,17 @@ e) die nationale Koalition der Kräfte der syrischen Revolution und Opposition f
 
 3. Kleinwaffen und dazugehörige Güter, die ausschließlich zur Verwendung durch internationale Patrouillen bestimmt sind, die in dem Dreistaaten-Schutzgebiet Sangha-Fluss für Sicherheit sorgen, um gegen Wilderei, den Elfenbein- und Waffenschmuggel und andere Aktivitäten vorzugehen, die gegen das innerstaatliche Recht der Zentralafrikanischen Republik oder gegen ihre völkerrechtlichen Verpflichtungen verstoßen,
 
-4. nichtletale militärische Güter, die ausschließlich für humanitäre oder Schutzzwecke bestimmt sind,
+4. Waffen und Munition, Militärfahrzeuge und -ausrüstungen an die Sicherheitskräfte der Zentralafrikanischen Republik, einschließlich der Institutionen der zivilen öffentlichen Ordnung, sofern solche Waffen, Munition, Fahrzeuge und Ausrüstungen dem ausschließlichen Zweck dienen, den Prozess der Reform des Sicherheitssektors in der Zentralafrikanischen Republik zu unterstützen oder dabei verwendet zu werden,
 
-5. Waffen mit einem Kaliber von bis zu 14,5 mm sowie speziell für diese Waffen entwickelte Munition und Komponenten, andere Rüstungsgüter sowie dazugehörige Güter und nichtletales Gerät an die Sicherheitskräfte der Zentralafrikanischen Republik, einschließlich der Institutionen der zivilen öffentlichen Ordnung, zu dem ausschließlichen Zweck, den Prozess der Reform des Sicherheitssektors in der Zentralafrikanischen Republik zu unterstützen oder dabei verwendet zu werden, und
+5. Rüstungsgüter und dazugehörige Güter im Einklang mit dem Verfahren nach Ziffer 54 f) der Resolution 2127 (2013) des Sicherheitsrates der Vereinten Nationen,
 
-6. Rüstungsgüter und dazugehörige Güter im Einklang mit dem Verfahren nach Ziffer 54 f) der Resolution 2127 (2013) des Sicherheitsrates der Vereinten Nationen.
+6. Güter, die von tschadischen oder sudanesischen Streitkräften ausschließlich zur eigenen Verwendung bei internationalen Patrouillen der am 23. Mai 2011 in Khartum von der Zentralafrikanischen Republik, Tschad und Sudan zur Erhöhung der Sicherheit in den gemeinsamen Grenzgebieten in Zusammenarbeit mit der MINUSCA eingerichteten dreiseitigen Truppe in die Zentralafrikanische Republik verbracht wurden, und
+
+7. nichtletale militärische Güter, die ausschließlich bestimmt sind
+
+a) für humanitäre Zwecke, oder
+
+b) für Schutzzwecke, zur Unterstützung des Prozesses der Reform des Sicherheitssektors in der Zentralafrikanischen Republik oder zur Nutzung in diesem Prozess.
 
 # § 76a – Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
 
@@ -2032,7 +2004,7 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 9. (weggefallen)
 
-10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31. Juli 2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2022/576 (ABl. L 111 vom 8.4.2022, S. 1) geändert worden ist,
+10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31. Juli 2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2022/1904 (ABl. L 259I vom 6.10.2022, S. 3) geändert worden ist,
 
 11. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 60), die zuletzt durch die Verordnung (EU) 2015/878 (ABl. L 143 vom 9.6.2014, S. 1) geändert worden ist,
 
@@ -2040,15 +2012,17 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 13. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 des Rates vom 30. August 2017 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea und zur Aufhebung der Verordnung (EG) Nr. 329/2007 (ABl. L 224 vom 31.8.2017, S. 1), die durch die Verordnung (EU) 2017/1858 (ABl. L 265 I vom 16.10.2017, S. 1) geändert worden ist,
 
-14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21) oder
+14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21),
 
-15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77)
+15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77) oder
+
+16. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 17)
 
 einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 des Rates vom 22. November 1996 zum Schutz vor den Auswirkungen der extraterritorialen Anwendung von einem Drittland erlassener Rechtsakte sowie von darauf beruhenden oder sich daraus ergebenden Maßnahmen (ABl. L 309 vom 29.11.1996, S. 1, L 179 vom 8.7.1997, S. 10), die durch die Verordnung (EG) Nr. 807/2003 (ABl. L 122 vom 16.5.2003, S. 36) geändert worden ist, einer dort genannten Forderung oder einem dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
-(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2020/2149 (ABl. L 428 vom 18.12.2020, S. 38) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
+(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2022/1359 (ABl. L 205 vom 5.8.2022, S. 99) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
 
 (4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 765/2006 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -2092,29 +2066,33 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 1. entgegen Artikel 2e Absatz 3 sich an einem dort genannten Projekt beteiligt oder zu einem solchen Projekt anderweitig beiträgt,
 
-2. entgegen Artikel 3a Absatz 1 Buchstabe a eine bestehende Beteiligung ausweitet,
+2. entgegen Artikel 2f Absatz 3 für ein Produkt oder eine Dienstleistung wirbt,
 
-3. entgegen Artikel 3a Absatz 1 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
+3. entgegen Artikel 3a Absatz 1 Buchstabe a eine bestehende Beteiligung ausweitet,
 
-4. entgegen Artikel 3a Absatz 1 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
+4. entgegen Artikel 3a Absatz 1 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
 
-5. entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz 1 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
+5. entgegen Artikel 3a Absatz 1 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
 
-6. entgegen Artikel 5 Absatz 5 ein dort genanntes Wertpapier notiert,
+6. entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz 1 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
 
-7. entgegen Artikel 5 Absatz 6 Satz 1 oder Artikel 5a Absatz 2 Satz 1 eine dort genannte Vereinbarung trifft,
+7. entgegen Artikel 5 Absatz 5 ein dort genanntes Wertpapier notiert,
 
-8. entgegen Artikel 5a Absatz 4 eine dort genannte Transaktion vornimmt,
+8. entgegen Artikel 5 Absatz 6 Satz 1 oder Artikel 5a Absatz 2 Satz 1 eine dort genannte Vereinbarung trifft,
 
-9. entgegen Artikel 5aa Absatz 1 ein Geschäft mit einer dort genannten juristischen Person, Organisation oder Einrichtung tätigt,
+9. entgegen Artikel 5a Absatz 4 eine dort genannte Transaktion vornimmt,
 
-10. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
+10. entgegen Artikel 5aa Absatz 1 ein Geschäft mit einer dort genannten juristischen Person, Organisation oder Einrichtung tätigt,
 
-11. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
+11. entgegen Artikel 5aa Absatz 1a einen dort genannten Posten bekleidet,
 
-12. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation oder Einrichtung unterstützt oder
+12. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
 
-13. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert.
+13. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
+
+14. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation oder Einrichtung unterstützt oder
+
+15. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert.
 
 (10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
 
@@ -2204,7 +2182,7 @@ Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals au
 
 # § 82b – Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung
 
-Das Bundesministerium für Wirtschaft und Energie bewertet unter Beteiligung des Auswärtigen Amts, des Bundesministeriums der Verteidigung, des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums der Finanzen, des Bundesministeriums für Gesundheit, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Ernährung und Landwirtschaft und des Bundesministeriums für Verkehr und digitale Infrastruktur die Anwendung der §§ 55 bis 62a in den Fassungen der Fünfzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 25. Mai 2020 (BAnz AT 02.06.2020 V1), der Sechzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 26. Oktober 2020 (BAnz AT 28.10.2020 V1) und der Siebzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 27. April 2021 (BAnz AT 30.04.2021 V1) im Hinblick auf die Wirksamkeit der Regelungen und den mit dem Vollzug der Regelungen verbundenen Aufwand für Unternehmen und Verwaltung. Der Evaluierungszeitraum beginnt mit dem 1. Mai 2021 und endet zeitgleich mit dem Evaluierungszeitraum nach § 31 des Außenwirtschaftsgesetzes in der Fassung des Ersten Gesetzes zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze vom 10. Juli 2020 (BGBl. I S. 1637).
+Das Bundesministerium für Wirtschaft und Klimaschutz bewertet unter Beteiligung des Auswärtigen Amts, des Bundesministeriums der Verteidigung, des Bundesministeriums des Innern und für Heimat, des Bundesministeriums der Finanzen, des Bundesministeriums für Gesundheit, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Ernährung und Landwirtschaft und des Bundesministeriums für Digitales und Verkehr die Anwendung der §§ 55 bis 62a in den Fassungen der Fünfzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 25. Mai 2020 (BAnz AT 02.06.2020 V1), der Sechzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 26. Oktober 2020 (BAnz AT 28.10.2020 V1) und der Siebzehnten Verordnung zur Änderung der Außenwirtschaftsverordnung vom 27. April 2021 (BAnz AT 30.04.2021 V1) im Hinblick auf die Wirksamkeit der Regelungen und den mit dem Vollzug der Regelungen verbundenen Aufwand für Unternehmen und Verwaltung. Der Evaluierungszeitraum beginnt mit dem 1. Mai 2021 und endet zeitgleich mit dem Evaluierungszeitraum nach § 31 des Außenwirtschaftsgesetzes in der Fassung des Ersten Gesetzes zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze vom 10. Juli 2020 (BGBl. I S. 1637).
 
 # § 83 – Inkrafttreten, Außerkrafttreten
 
@@ -2212,7 +2190,14 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 
 # Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BAnz AT 07.09.2021 V1)
+(Fundstelle: BAnz AT 23.12.2022 V1)
+
+  
+Ausfuhrliste  
+Anwendung der Ausfuhrliste  
+
+  
+Teil I  
 
 1. Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 AWV angeordneten Beschränkungen beziehen.
 
@@ -2285,7 +2270,7 @@ Die Beschränkungen hinsichtlich der Ausfuhr von „Technologie“ gelten nicht 
 
 a) Software-Anmerkung für Teil I Abschnitt A:
 
-Zur Erfassung von Software im Teil I Abschnitt A siehe Nummer 0021. Daneben gilt die Allgemeine Software-Anmerkung Nummer 6 Buchstabe b.
+Zur Erfassung von Software im Teil I Abschnitt A siehe Nummer 0021. Daneben gilt die Allgemeine Software-Anmerkung Nr. 6 Buchstabe b.
 
 b) Software-Anmerkung für Teil I Abschnitt B:
 
@@ -2316,13 +2301,13 @@ b) „allgemein zugänglich“ ist.
 
 8. Bei der Prüfung der Ausfuhrgenehmigungspflicht nach der AWV und der Ausfuhrliste ist zu beachten, dass die in Teil I Abschnitte A und B genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer Ausfuhrgenehmigungspflicht nach § 3 Absatz 3 des Gesetzes über die Kontrolle von Kriegswaffen unterliegen können.
 
-  
+Teil II
 
 1. Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit den Warennummern und in Spalte 2 mit den Warenbenennungen des Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
 
 2. Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung nur zulässig ist, wenn sie den vorgeschriebenen Vermarktungsnormen entsprechen, sind in Spalte 3 mit G gekennzeichnet.
 
-  
+TEIL I  
 
 A  
 Liste für Waffen, Munition und Rüstungsmaterial
@@ -2339,7 +2324,11 @@ b) Waffen, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengl
 
 c) Waffen für Randfeuer-Hülsenpatronen, die keine Vollautomaten sind,
 
-d) „deaktivierte Feuerwaffen“.
+d) ,deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1, Unterabschnitt 1 Nummer 1.4 WaffG‘.
+
+Technische Anmerkung:
+
+Eine ,Feuerwaffe ist deaktiviert‘, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen- oder pyrotechnische Munition verschossen werden können. Der Nachweis für die Deaktivierung ist nach § 8a des Beschussgesetzes zu erbringen; die Beschussämter sind überprüfende Behörde und erteilen eine Deaktivierungsbescheinigung.
 
 a) Lang- und Kurzwaffen mit gezogenem Lauf, einschließlich kombinierte Waffen, Maschinengewehre, Maschinenpistolen und Salvengewehre;
 
@@ -2388,7 +2377,7 @@ d) Waffen mit glattem Lauf, besonders konstruiert oder geändert für einen der 
 
 2. Betäubung von Tieren,
 
-3. seismische Tests,
+3. Seismische Tests,
 
 4. Abfeuern von industriellen Projektilen oder
 
@@ -2406,7 +2395,11 @@ d) Zubehör, konstruiert für die von Unternummern 0001a, 0001b oder 0001c erfas
 
 2. Schallunterdrücker oder -dämpfer,
 
-3. spezielle Rohrwaffen-Lafetten,
+3. ,Rohrwaffen-Lafette‘,
+
+Technische Anmerkung:
+
+Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ,Rohrwaffen-Lafette‘ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer Struktur zu befestigen.
 
 4. Mündungsfeuerdämpfer,
 
@@ -2439,7 +2432,7 @@ e) Waffen mit glattem Lauf, besonders konstruiert oder geändert für einen der 
 
 2. Betäubung von Tieren,
 
-3. seismische Tests,
+3. Seismische Tests,
 
 4. Abfeuern von industriellen Projektilen oder
 
@@ -2451,20 +2444,20 @@ Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordn
 
 f) Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengladung und keine Nachrichtenverbindung besitzen, über eine Entfernung von kleiner/gleich 500 m abzuschießen.
 
-b) Werfer besonders konstruiert oder geändert für militärische Zwecke, wie folgt:
+b) Werfer, besonders konstruiert oder geändert für militärische Zwecke, wie folgt:
 
 1. Nebelwerfer;
 
 2. Gaswerfer;
 
-3. pyrotechnische Werfer;
+3. Pyrotechnische Werfer;
 
 Anmerkung:  
 Unternummer 0002b erfasst nicht Signalpistolen.
 
 c) Zubehör, besonders konstruiert für die von Unternummer 0002a erfassten Waffen, wie folgt:
 
-1. Waffenzielgeräte und Halterungen für Waffenzielgeräte besonders konstruiert für militärische Zwecke,
+1. Waffenzielgeräte und Halterungen für Waffenzielgeräte, besonders konstruiert für militärische Zwecke,
 
 2. Tarnvorrichtungen,
 
@@ -2554,7 +2547,7 @@ Im Sinne von Unternummer 0004b2 bezeichnet der Begriff ,Tätigkeiten‘ das Hand
 Anmerkung 1:  
 Unternummer 0004b schließt ein:
 
-a) fahrbare Gasverflüssigungsanlagen mit einer Produktionskapazität von mindestens 1 t Flüssiggas pro Tag,
+a) fahrbare Gasverflüssigungsanlagen mit einer Produktionskapazität von mindestens 1 000 kg Flüssiggas pro Tag,
 
 b) schwimmfähige elektrisch leitende Kabel zum Räumen magnetischer Minen.
 
@@ -2568,7 +2561,7 @@ Unternummer 0004c erfasst nicht Flugkörperabwehrsysteme für Luftfahrzeuge mit 
 
 a) mit folgenden Flugkörperwarnsensoren:
 
-1. passive Sensoren mit einer Spitzenempfindlichkeit zwischen100-400 nm oder
+1. passive Sensoren mit einer Spitzenempfindlichkeit zwischen 100-400 nm oder
 
 2. aktive Flugkörperwarnsensoren mit gepulstem Doppler-Radar;
 
@@ -2597,7 +2590,7 @@ b) andere Feuerleiteinrichtungen, Überwachungs- und Alarmierungsausrüstung sow
 
 1. Zielerfassungs-, Zielzuordnungs-, Zielentfernungsmess-, Zielüberwachungs- oder Zielverfolgungssysteme;
 
-2. Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen;
+2. Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen:
 
 3. Datenverknüpfungs-Ausrüstung (data fusion equipment) oder Ausrüstung zur Sensorintegration (sensor integration equipment);
 
@@ -2765,7 +2758,7 @@ b) 2,4,5-Trichlorphenoxyessigsäure (CAS-Nr. 93-76-5) gemischt mit 2,4-Dichlorph
 
 c) Komponenten für Binärkampfstoffe und Schlüsselvorprodukte wie folgt:
 
-1. Alkyl(Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) phosphonsäuredifluoride wie:  
+1. Alkyl(Methyl-, Ethyl-, n-Propyl- oder Isopropyl-)phosphonsäuredifluoride wie:  
 DF: Methyl-phosphonsäuredifluorid (CAS-Nr. 676-99-3),
 
 2. Alkyl(R<sub>1</sub>)phosphonigsäure-O-2-dialkyl(R<sub>3</sub>,R<sub>4</sub>) aminoethyl-alkyl(R<sub>2</sub>)ester (R<sub>1</sub>, R<sub>3</sub>, R<sub>4</sub> = Methyl-, Ethyl-,n-Propyl-, Isopropyl-) (R<sub>2</sub> = H-, Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>) und entsprechend alkylierte oder protonierte Salze wie:  
@@ -2828,7 +2821,7 @@ i) „Biokatalysatoren“ für die Dekontamination und den Abbau chemischer Kamp
 
 1. „Biokatalysatoren“, besonders entwickelt für die Dekontamination und den Abbau der von Unternummer 0007b erfassten chemischen Kampfstoffe und erzeugt durch gezielte Laborauslese oder genetische Manipulation biologischer Systeme,
 
-2. biologische Systeme die eine spezifische genetische Information zur Herstellung der von Unternummer 0007i1 erfassten „Biokatalysatoren“ enthalten, wie folgt:
+2. biologische Systeme, die eine spezifische genetische Information zur Herstellung der von Unternummer 0007i1 erfassten „Biokatalysatoren“ enthalten, wie folgt:
 
 a) „Expressions-Vektoren“,
 
@@ -2851,7 +2844,8 @@ e) Perchlorameisensäuremethylester (Diphosgen) (CAS-Nr. 503-38-8),
 
 f) nicht belegt,
 
-g) Xylylbromide, ortho: (CAS-Nr. 89-92-9), meta: (CAS-Nr. 620-13-3), para: (CAS-Nr. 104-81-4),
+g) Xylylbromide, ortho: (CAS-Nr. 89-92-9), meta: (CAS-Nr. 620-13-3),  
+para: (CAS-Nr. 104-81-4),
 
 h) Benzylbromid (CAS-Nr. 100-39-0),
 
@@ -2895,7 +2889,7 @@ Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach § 17 oder 
 
 Ergänzende Anmerkung 1:
 
-Siehe auch Nummer 1C011 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+Siehe auch Nummer 1C011 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 Ergänzende Anmerkung 2:
 
@@ -3029,7 +3023,7 @@ j) TACOT (Tetranitrobenzotriazolobenzotriazol) (CAS-Nr. 25243-36-1),
 
 33. andere als die von Unternummer 0008a erfassten „Explosivstoffe“ und mit einer der folgenden Eigenschaften:
 
-a) Detonationsgeschwindigkeit größer als 8 700 m/s bei maximaler Dichte, oder
+a) Detonationsgeschwindigkeit größer als 8 700 m/s bei maximaler Dichte oder
 
 b) Detonationsdruck größer als 34 GPa (340 kbar),
 
@@ -3152,7 +3146,7 @@ Unternummer 0008c5b2 erfasst nicht Bor und Borcarbid, das mit Bor-10 angereicher
 
 8. kugelförmiges oder kugelähnliches Aluminiumpulver (CAS-Nr. 7429-90-5) mit einer Partikelgröße kleiner/gleich 60 µm und hergestellt aus Material mit einem Aluminiumgehalt von mindestens 99 %,
 
-9. Titansubhydrid (TiHn) mit einer stöchiometrischen Zusammensetzung n = TiH 0,65-1,68,
+9. Titansubhydrid (TiH<sub>n</sub>) mit einer stöchiometrischen Zusammensetzung n = 0,65-1,68,
 
 10. flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1 erfasst, wie folgt:
 
@@ -3194,7 +3188,7 @@ Unternummer 0008c12 schließt Thermite ein.
 
 d) Oxidationsmittel wie folgt und ,Mischungen‘ daraus:
 
-1. ADN (Ammoniumdinitramid oder SR12) (CAS-Nr.140456-78-6),
+1. ADN (Ammoniumdinitramid oder SR12) (CAS-Nr. 140456-78-6),
 
 2. AP (Ammoniumperchlorat) (CAS-Nr. 7790-98-9),
 
@@ -3349,7 +3343,8 @@ o) Acetylferrocen (CAS-Nr. 1271-55-2)/1,1'-Diacetylferrocen (CAS-Nr. 1273-94-5),
 
 15. metallorganische-Kupplungsreagentien wie folgt:
 
-a) Titan-IV-2,2-\[Bis-2-propenolat-methyl-butanolattris(dioctyl) phosphato\] (LICA 12) (CAS-Nr. 103850-22-2),
+a) Titan-IV-2,2-\[Bis-2-propenolat-methyl-butanolattris(dioctyl) phosphato\] (LICA 12)  
+(CAS-Nr. 103850-22-2),
 
 b) Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)-pyrophosphat  
 (KR3538),
@@ -3360,7 +3355,7 @@ c) Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(diocty
 
 17. Bindemittel wie folgt:
 
-a) 1,1R,1S-Trimesoyl-tris(2-ethylaziridin) (HX-868, BITA) (CAS-Nr. 7722-73-8),
+a) 1,1R,1S-Trimesoyl-tris(2-ethylaziridin) (HX-868, BITA) (CAS-Nr. 7722-73-8)
 
 b) polyfunktionelle Aziridinamide mit Isophthal-, Trimesin-, Isocyanur- oder Trimethyladipin-Grundstrukturen, auch mit einer 2-Methyl- oder 2-Ethyl-Aziridingruppe,
 
@@ -3515,7 +3510,7 @@ a) besonders geformt und formuliert für Gaserzeuger für zivile Verwendung,
 
 b) liegt als Verbindung oder Mischung mit nichtaktiven warmaushärtenden Bindemitteln oder Weichmachern vor und weist eine Masse von weniger als 250 g auf,
 
-c) der Wirkstoff enthält höchstens 80 Masse-% Ammoniumperchlorat (Unternummer 0008d2),
+c) der Wirkstoff enthält höchstens 80 Masse-% Ammoniumperchlorat (Unternummer 0008d2),
 
 d) enthält nicht mehr als 4 g NTO (Unternummer 0008a18) und
 
@@ -3658,11 +3653,10 @@ e) Einrichtungen für die Luftbetankung besonders konstruiert oder geändert fü
 
 2. unbemannte „Luftfahrzeuge“ erfasst von 0010c;
 
-f) ,Bodengeräte‘ besonders entwickelt für die von Unternummer 0010a erfassten „Luftfahrzeuge“ oder für die von Unternummer 0010d erfassten Triebwerke;
+f) Bodengeräte, besonders entwickelt für die von Unternummer 0010a erfassten „Luftfahrzeuge“ oder für die von Unternummer 0010d erfassten Triebwerke;
 
-Technische Anmerkung:
-
-,Bodengeräte‘ schließen Ausrüstung zum Druckbetanken und besonders konstruierte Ausrüstung zur Erleichterung von Operationen in begrenzten Abschnitten ein.
+Anmerkung:  
+Unternummer 0010f erfasst Ausrüstung zum Druckbetanken und Ausrüstung konstruiert zur Erleichterung von Operationen in begrenzten Abschnitten, einschließlich der an Bord eines Schiffes befindlichen Ausrüstungen.
 
 g) Lebenserhaltungsgeräte für die Flugbesatzung, Sicherheitsausrüstung für die Flugbesatzung und andere Einrichtungen für den Notausstieg, die nicht von Unternummer 0010a erfasst werden, besonders konstruiert für die von Unternummer 0010a erfassten „Luftfahrzeuge“;
 
@@ -3675,7 +3669,7 @@ Für Helme siehe auch Nummer 0013c.
 
 h) Fallschirme, Para-Gleiter und zugehörige Ausrüstung, wie folgt und besonders konstruierte Bestandteile hierfür:
 
-1. Fallschirme soweit nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst,
+1. Fallschirme, soweit nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst,
 
 2. Para-Gleiter,
 
@@ -3760,7 +3754,7 @@ c) „Raumfahrzeuge“ besonders konstruiert oder geändert für militärische Z
 0012  
 Waffensysteme mit hoher kinetischer Energie (high velocity kinetic energy weapon systems) und zugehörige Ausrüstung wie folgt sowie besonders konstruierte Bestandteile hierfür:
 
-a) Waffensysteme mit hoher kinetischer Energie besonders konstruiert für die Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+a) Waffensysteme mit hoher kinetischer Energie, besonders konstruiert für die Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
 
 b) besonders konstruierte Mess- und Auswertungsvorrichtungen sowie Versuchsmodelle einschließlich Diagnoseinstrumentierungen und Diagnoseobjekten für die dynamische Prüfung von Geschossen und Systemen mit hoher kinetischer Energie.
 
@@ -3797,7 +3791,7 @@ Ergänzende Anmerkung:
 Waffensysteme, die Unterkalibermunition verwenden oder allein mit chemischem Antrieb arbeiten, und Munition hierfür siehe Nummern 0001, 0002, 0003 und 0004.
 
 0013  
-Spezialpanzer- oder Schutzausrüstung, Konstruktionen sowie Bestandteile wie folgt:
+Spezialpanzer- oder Schutzausrüstung, Konstruktionen, Bestandteile und Zubehör wie folgt:
 
 a) Metallische oder nichtmetallische Panzerplatten mit einer der folgenden Eigenschaften:
 
@@ -3811,7 +3805,13 @@ Körperpanzer-Schutzplatten siehe Unternummer 0013d2.
 
 b) Konstruktionen aus metallischen oder nichtmetallischen Werkstoffen oder Kombinationen hieraus, besonders konstruiert, um militärische Systeme beschussfest zu machen, und besonders konstruierte Bestandteile hierfür;
 
-c) Helme, die gemäß militärischen Standards bzw. Spezifikationen oder hierzu gleichwertigen Leistungsanforderungen hergestellt sind, und besonders konstruierte Außenschalen, Innenschalen oder Polsterungen hierfür;
+c) Helme und besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür, wie folgt:
+
+1. Helme, hergestellt nach militärischen Standards, militärischen Spezifikationen oder vergleichbaren nationalen Normen;
+
+2. Außenschalen, Innenschalen oder Polsterungen, besonders konstruiert für in Unternummer 0013c1 erfasste Helme;
+
+3. zusätzliche ballistische Schutzkomponenten, besonders konstruiert für in Unternummer 0013c1 erfasste Helme.
 
 Ergänzende Anmerkung:
 
@@ -3826,7 +3826,7 @@ Für die Zwecke der Unternummer 0013d1 schließen militärische Standards bzw. S
 
 2. hartballistische Körperpanzer-Schutzplatten, die einen ballistischen Schutz größer/gleich Stufe III (NIJ 0101.06, Juli 2008 oder entsprechend „gleichwertige Standards“) bewirken.
 
-Anmerkung 1:  
+Anmerkung 1  
 Unternummer 0013a umfasst auch Panzerplatten in besonders hergestellter Verbundbauweise oder einzelne Panzerplatten aus nur einem Werkstoff, die
 
 a) einen ballistischen Schutz der Widerstandsklasse FB1 / BR1 nach DIN EN 1522 bzw. DIN EN 1063 oder vergleichbare Norm oder besser oder
@@ -3839,13 +3839,17 @@ Anmerkung 2:
 Unternummer 0013b schließt Werkstoffe ein, die besonders konstruiert sind zur Bildung einer explosions-reaktiven Panzerung oder zum Bau militärischer Unterstände (shelters).
 
 Anmerkung 3:  
-Unternummer 0013c erfasst nicht herkömmliche Stahlhelme, die weder mit Zusatzgeräten ausgerüstet noch für die Ausrüstung mit Zusatzgeräten geändert oder konstruiert sind.
+Unternummer 0013c erfasst nicht Helme mit allen folgenden Eigenschaften:
+
+a) sie wurden erstmalig vor 1970 hergestellt und
+
+b) sind weder mit in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Gütern ausgerüstet noch für die Ausrüstung mit derartigen Gütern geändert oder konstruiert.
 
 Anmerkung 4:  
 Unternummern 0013c und 0013d erfassen nicht einzelne Helme, Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu deren eigenem persönlichen Schutz mitgeführt werden.
 
 Anmerkung 5:  
-Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
+Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
 
 Ergänzende Anmerkung 1:
 
@@ -4022,7 +4026,7 @@ Technische Anmerkungen:
 
 a) besonders konstruierte oder geänderte Ausrüstung für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Bestandteile hierfür;
 
-b) besonders konstruierte Umweltprüfeinrichtungen für die Zulassungs- und Eignungsprüfung der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Ausrüstung hierfür.
+b) nicht anderweitig erfasste besonders konstruierte Umweltprüfeinrichtungen für die Zulassungs- und Eignungsprüfung der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Ausrüstung hierfür.
 
 Technische Anmerkung:
 
@@ -4148,7 +4152,7 @@ Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung, Besch
 Anmerkung 2:  
 Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von Sicherheitslücken“ oder auf „Reaktion auf Cybervorfälle“, die auf nichtmilitärische defensive Cybersicherheitsbereitschaft oder -reaktionsfähigkeit (non-military defensive cybersecurity readiness or response) beschränkt sind.
 
-c) „Software“, nicht erfasst von Unternummer 0021a oder 0021b, besonders entwickelt oder geändert, um nicht von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasste Ausrüstung zu befähigen, die militärischen Funktionen der von Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Ausrüstung zu erfüllen.
+c) „Software“, nicht erfasst von Unternummer 0021a oder 0021b, besonders entwickelt oder geändert, um nicht von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasste Ausrüstung zu befähigen, die militärischen Funktionen der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Ausrüstung zu erfüllen.
 
 Ergänzende Anmerkung:
 
@@ -4161,7 +4165,7 @@ a) „Technologie“, soweit nicht von Unternummer 0022b erfasst, die für die �
 
 b) „Technologie“ wie folgt:
 
-1. „Technologie“, „unverzichtbar“ für Konstruktion, Bestandteilmontage, Betrieb, Wartung und Reparatur vollständiger „Herstellungs“anlagen für von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren, auch wenn die Bestandteile dieser „Herstellungs“anlagen nicht erfasst werden;
+1. „Technologie“, „unverzichtbar“ für Konstruktion, Bestandteilmontage, Betrieb, Wartung und Reparatur vollständiger „Herstellungs“anlagen für von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasste Waren, auch wenn die Bestandteile dieser „Herstellungs“anlagen nicht erfasst werden;
 
 2. „Technologie“, „unverzichtbar“ für die „Entwicklung“ und „Herstellung“ von Handfeuerwaffen, auch wenn sie zur „Herstellung“ von Reproduktionen antiker Handfeuerwaffen eingesetzt wird,
 
@@ -4222,8 +4226,9 @@ b) Vorratsdatenspeicherungssysteme oder -geräte für Ereignisdaten (Intercept R
 
 Technische Anmerkung:
 
-Ereignisdaten schließen Signalisierungsinformationen, Ursprung und Ziel (Telefonnummern, IP oder MAC Adressen etc.), Datum und Dauer sowie geographische Herkunft der Kommunikation ein.
+Ereignisdaten schließen Signalisierungsinformationen, Ursprung und Ziel (Telefonnummern, IP- oder MAC-Adressen etc.), Datum und Dauer sowie geographische Herkunft der Kommunikation ein.
 
+  
 Anmerkung:  
 5A902 erfasst keine Systeme oder Geräte, die besonders konstruiert sind für einen der folgenden Zwecke:
 
@@ -4245,20 +4250,20 @@ Technische Anmerkung:
 ,Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden. Digitaler ,Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio) verwendet digitale Modulationsverfahren.
 
 5D902  
-„Software“, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
+„Software“, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
 a) „Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von in Nummer 5A902 erfassten Einrichtungen, Funktionen oder Leistungsmerkmalen;
 
-b) „Software“, besonders entwickelt oder geändert zur Erzielung der von Nummer 5A902 erfassten Eigenschaften, Funktionen oder Leistungsmerkmalen.
+b) „Software“, besonders entwickelt oder geändert zur Erzielung der von Nummer 5A902 erfassten Eigenschaften, Funktionen oder Leistungsmerkmale.
 
 5D911  
 „Software“, die besonders entwickelt oder geändert wurde für die „Verwendung“ von Ausrüstung, erfasst von Nummer 5A911, wenn das Bestimmungsland Sudan oder Südsudan ist.
 
 5E902  
-„Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+„Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 6A908  
-Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
+Radargestützte Navigations- oder Überwachungssysteme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
 
 6D908  
 „Software“, die besonders entwickelt oder geändert wurde für die „Entwicklung“, „Herstellung“ oder „Verwendung“ der von Nummer 6A908 erfassten Ausrüstung, wenn das Bestimmungsland Iran ist.
@@ -4266,7 +4271,7 @@ Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder F
 9A904  
 „Raumfahrzeug-“ und sonstige Ausrüstung wie folgt:
 
-a) Antennen, konstruiert für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt;
+a) Antennen, konstruiert für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EG) 2021/821 aufgeführten Gebiete liegt;
 
 b) „Laser“kommunikationsterminals (LCTs, „Laser“-Datenübertragungsstationen), die nicht von Nummer 9A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
@@ -4303,7 +4308,7 @@ d) Dachluken, rund mit schwenk- oder klappbarem Deckel,
 
 e) militärübliche Lackierung,
 
-f) Hakenkupplung für Anhänger in Verbindung mit einer sogenannten Nato-Steckdose.
+f) Hakenkupplung für Anhänger in Verbindung mit einer so genannten Nato-Steckdose.
 
 Anmerkung 2:  
 Nummer 9A991 erfasst nicht Landfahrzeuge, wenn diese von ihren Benutzern zu deren eigenem persönlichen Gebrauch mitgeführt werden.
@@ -4333,7 +4338,9 @@ Luftgekühlte Kolbentriebwerke (Flugmotoren) mit einem Hubraum größer/gleich 1
 9E992  
 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
-Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen  
+Verzeichnis der verwendeten Abkürzungen
+
+Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 
 <table style="border: none;"><colgroup><col style="width: 9%" /><col style="width: 91%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">AIP</td><td style="text-align: left;">Außenluftunabhängige Antriebssysteme<br />
 (Air Independent Propulsion)</td></tr><tr class="even"><td style="text-align: left;">C³I</td><td style="text-align: left;">Führung, Information und Aufklärung<br />
@@ -4344,7 +4351,7 @@ Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 (International Civil Aviation Organization)</td></tr><tr class="even"><td style="text-align: left;">RPV</td><td style="text-align: left;">Ferngesteuerte Flugobjekte<br />
 (remotely piloted air vehicles)</td></tr></tbody></table>
 
-  
+Begriffsbestimmungen
 
 Begriffe in ,einfachen Anführungszeichen‘ werden in einer Anmerkung zu dem entsprechenden Eintrag erläutert.
 
@@ -4371,8 +4378,8 @@ b) das Setzen von Funktionsbedienelementen einschließlich Parametereingaben.
 
 „Biokatalysatoren“ (0007 0022) (biocatalysts): ,Enzyme‘ oder andere biologische Verbindungen, die spezifische chemische Kampfstoffe binden und deren Abbau beschleunigen.
 
-Anmerkung: ,  
-Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
+Anmerkung:  
+,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
 
 „Biologische Agenzien“ (0007) (biological agents): Pathogene oder Toxine, ausgewählt oder geändert (z. B. Änderung der Reinheit, Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder Widerstandsfähigkeit gegen UV-Strahlung) für die Außergefechtsetzung von Menschen oder Tieren, die Funktionsbeeinträchtigung von Ausrüstung, die Vernichtung von Ernten oder die Schädigung der Umwelt.
 
@@ -4382,7 +4389,7 @@ a) ,Enzyme‘,
 
 b) ,antiidiotypische Antikörper‘, ,monoklonale Antikörper‘ oder ,polyklonale Antikörper‘,
 
-c) besonders entwickelte oder besonders verarbeitete ,Rezeptoren‘.
+c) besonders entwickelte oder besonders verarbeitete ,Rezeptoren'.
 
 Anmerkung 1:  
 ,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
@@ -4401,8 +4408,6 @@ Anmerkung 5:
 
 „Brennstoffzelle“ (0017) (fuel cell): eine elektrochemische Einrichtung, die durch den Verbrauch von Brennstoff aus einer externen Quelle chemische Energie direkt in elektrischen Gleichstrom umwandelt.
 
-„Deaktivierte Feuerwaffe“ (0001) (deactivated firearm): eine Feuerwaffe, die durch von der nationalen Behörde des EU-Mitgliedstaats oder des Teilnehmerstaats des Wassenaar-Arrangements festgelegte Verfahren außerstande gesetzt wird, ein Geschoss zu verschießen. Durch diese Verfahren werden die wesentlichen Teile der Feuerwaffe auf Dauer geändert. Entsprechend den nationalen Rechts- und Verwaltungsvorschriften kann die Deaktivierung der Feuerwaffe durch eine von einer zuständigen Behörde ausgestellte Bescheinigung bestätigt und auf der Feuerwaffe durch die Anbringung eines Stempels auf einem wesentlichen Teil der Waffe gekennzeichnet werden.
-
 „Digitalrechner“ (0021) (digital computer): Geräte, die alle folgenden Operationen in Form einer oder mehrerer diskreter Variablen ausführen können:
 
 a) Daten aufnehmen,
@@ -4418,8 +4423,8 @@ Veränderungen an einer gespeicherten Befehlsfolge schließen den Austausch von 
 
 „Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ,aktive Werkzeugeinheiten‘ und alle anderen Werkzeuge, die am Anschlussflansch am Ende des „Roboter“-Greifarms bzw. der -Greifarme angebaut sind.
 
-Anmerkung: ,  
-Aktive Werkzeugeinheit‘ (active tooling unit): eine Einrichtung, die dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale zuführt.
+Anmerkung:  
+,Aktive Werkzeugeinheit‘ (active tooling unit): eine Einrichtung, die dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale zuführt.
 
 „Energetische Materialien“ (0008) (energetic materials): Substanzen oder Mischungen, die durch eine chemische Reaktion Energie freisetzen, welche für die beabsichtigte Verwendung benötigt wird. „Explosivstoffe“, „Pyrotechnika“ und „Treibstoffe“ sind Untergruppen von energetischen Materialien.
 
@@ -4480,7 +4485,7 @@ Siehe auch „zivile Luftfahrzeuge“.
 
 „Reaktion auf Cybervorfälle“ (0021) (cyber incident response): Vorgang des Austauschs der erforderlichen Informationen über einen Cybersicherheitsvorfall mit Einzelpersonen oder Organisationen, die für die Durchführung oder Koordinierung von Maßnahmen zur Bewältigung des Cybersicherheitsvorfalls zuständig sind.
 
-„Reizstoffe“ (0007) (riot control agents): Stoffe, die unter den zu erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von Unruhen, beim Menschen spontan Reizungen der Sinnesorgane oder Handlungsunfähigkeit verursachende Wirkung hervorrufen, welche innerhalb kurzer Zeit nach Beendigung der Exposition verschwinden. (Tränengase sind eine Untermenge von „Reizstoffen“).
+„Reizstoffe“ (0007) (riot control agents): Stoffe, die, unter den zu erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von Unruhen, beim Menschen spontan Reizungen der Sinnesorgane oder Handlungsunfähigkeit verursachende Wirkung hervorrufen, welche innerhalb kurzer Zeit nach Beendigung der Exposition verschwinden.(Tränengase sind eine Untermenge von „Reizstoffen“).
 
 „Roboter“ (0017) (robot): ein Handhabungssystem, das bahn- oder punktgesteuert sein kann, Sensoren benutzen kann und alle folgenden Eigenschaften aufweist:
 
@@ -4511,7 +4516,7 @@ Das Programm wird durch feste, aber verstellbare Anschläge wie Stifte und Nocke
 
 „Satelliten-Navigationssystem“ (0011) (satellite navigation system): ein System, das aus Bodenstationen, einer Konstellation von Satelliten und Empfangsgeräten besteht und die Berechnung der Standorte von Empfangsgeräten auf der Grundlage der von den Satelliten empfangenen Signale ermöglicht. Der Begriff schließt weltweite Satelliten-Navigationssysteme und regionale Satelliten-Navigationssysteme ein.
 
-„Software“ (ASA 0004 0011 0021 5D902 5D911 6D908 9D904) (software): eine Sammlung eines oder mehrerer „Programme“ oder „Mikroprogramme“, die auf einem beliebigen greifbaren (Ausdrucks-)Medium fixiert sind.
+„Software“ (ASA 0004 0011 0021 5D902 5D911 6D908 9D904) (software): eine Sammlung eines oder mehrerer „Programme“ oder"Mikroprogramme“, die auf einem beliebigen greifbaren (Ausdrucks-)Medium fixiert sind.
 
 „Supraleitend“ (0020) (superconductive): Materialien (d. h. Metalle, Legierungen oder Verbindungen), die ihren elektrischen Widerstand vollständig verlieren können, d. h., sie können unbegrenzte elektrische Leitfähigkeit erreichen und sehr große elektrische Ströme ohne Joulesche Erwärmung übertragen.
 
@@ -4550,7 +4555,9 @@ Wenn ein Bestandteil auf Grund technischer Prüfung „weltraumgeeignet“ ist, 
 Anmerkung:  
 Siehe auch „Luftfahrzeug“.
 
-Waren pflanzlichen Ursprungs  
+TEIL II
+
+Waren pflanzlichen Ursprungs
 
 Nr. des  
 Warenverz. für die  
@@ -4570,7 +4577,6 @@ grund
 
 Abschnitt II  
 Waren pflanzlichen Ursprungs  
-  
 
 Kapitel 7  
 Gemüse, Pflanzen, Wurzeln und Knollen, die zu Ernährungszwecken verwendet werden
@@ -4584,28 +4590,25 @@ G
 ex 0703
 
 Speisezwiebeln, Schalotten, Knoblauch, Porree/Lauch und andere Gemüse der Allium-Arten, frisch oder gekühlt,  
-ausgenommen Speisezwiebeln für Saatzwecke der Unterposition 0703 10 11 und anderes Gemüse der Allium-Arten der Unterposition 0703 90 00
+ausgenommen Speisezwiebeln für Saatzwecke der Unterposition 0703 10 11
 
 G
 
 ex 0704
 
-Kohl, Blumenkohl/Karfiol, Kohlrabi, Wirsingkohl und ähnliche genießbare Kohlarten der Gattung Brassica, frisch oder gekühlt,  
-ausgenommen andere genießbare Kohlarten der Gattung Brassica der Unterposition 0704 90 90
+Kohl, Blumenkohl/Karfiol, Kohlrabi, Wirsingkohl und ähnliche genießbare Kohlarten der Gattung Brassica, frisch oder gekühlt
 
 G
 
 ex 0705
 
-Salate (Lactuca sativa) und Chicorée (Cichorium-Arten), frisch oder gekühlt,  
-ausgenommen andere Cichorium-Arten der Unterposition 0705 29 00
+Salate (Lactuca sativa) und Chicorée (Cichorium-Arten), frisch oder gekühlt
 
 G
 
 ex 0706
 
-Karotten und Speisemöhren, Speiserüben, Rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche genießbare Wurzeln, frisch oder gekühlt,  
-ausgenommen andere genießbare Wurzeln der Unterposition 0706 90 90
+Karotten und Speisemöhren, Speiserüben, Rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche genießbare Wurzeln, frisch oder gekühlt
 
 G
 
@@ -4617,16 +4620,14 @@ G
 
 ex 0708
 
-Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt,  
-ausgenommen Erbsen und Bohnen ohne Hülsen der Unterposition 0708 10 00 und 0708 20 00, sowie Puffbohnen anderer Arten als Vicia faba major der Unterposition 0708 90 00
+Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt
 
 G
 
 ex 0709
 
 Anderes Gemüse, frisch oder gekühlt,  
-ausgenommen andere Arten von Sellerie als Stauden- und Schnittsellerie der Unterposition 0709 40 00, andere Salate als Feldsalat der Unterposition 0709 99 10 und Gemüse der Unterpositionen 0709 51 00, 0709 59 10, 0709 59 30, 0709 59 50, 0709 59 90, 0709 60 91, 0709 60 95, 0709 60 99, 0709 92 10,  
-0709 92 90, 0709 99 40 und 0709 99 60
+ausgenommen Gemüse der Unterpositionen 0709 52 00, 0709 53 00, 0709 55 00, 0709 56 00, 0709 60 91, 0709 60 95, 0709 60 99, 0709 92 10, 0709 92 90, 0709 99 40 und 0709 99 60
 
 G
 
@@ -4635,8 +4636,8 @@ Genießbare Früchte, Schalen von Zitrusfrüchten oder von Melonen
 
 ex 0802
 
-Andere Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder enthäutet, ausgenommen Schalenfrüchte der Unterpositionen 0802 11 10, 0802 12 10, 0802 12 90, 0802 22 00, 0802 32 00, 0802 42 00, 0802 51 00, 0802 52 00, 0802 61 00, 0802 62 00, 0802 70 00, 0802 80 00, 0802 90 10, 0802 90 50  
-und 0802 90 85
+Andere Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder enthäutet,  
+ausgenommen Schalenfrüchte der Unterpositionen 0802 11 10, 0802 12 10, 0802 12 90, 0802 22 00, 0802 32 00, 0802 42 00, 0802 51 00, 0802 52 00, 0802 61 00, 0802 62 00, 0802 70 00, 0802 80 00, 0802 91 00, 0802 92 00, 0802 99 10 und 0802 99 90
 
 G
 
@@ -4696,15 +4697,14 @@ G
 
 ex 0809
 
-Aprikosen/Marillen, Kirschen, Pfirsiche (einschließlich Brugnolen und Nektarinen), Pflaumen, frisch  
-ausgenommen Schlehen, frisch
+Aprikosen/Marillen, Kirschen, Pfirsiche (einschließlich Brugnolen und Nektarinen), Pflaumen, frisch
 
 G
 
 ex 0810
 
 Andere Früchte, frisch  
-ausgenommen Cranberries (V. macrocarpon) zur Saftherstellung der Unterposition 0810 40 50, andere Vaccinium-Arten der Unterposition 0810 40 90 und Mispeln der Unterposition 0810 90 75
+ausgenommen Cranberries (V. macrocarpon) zur Saftherstellung der Unterposition 0810 40 50
 
 G
 

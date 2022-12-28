@@ -393,7 +393,7 @@ Bedingte Rechte sind wie unbedingte, Rechte, die durch Eintragung eines Widerspr
 
 (2) Das Bargebot ist von dem Zuschlag an zu verzinsen.
 
-(3) Das Bargebot ist so rechtzeitig durch Überweisung oder Einzahlung auf ein Konto der Gerichtskasse zu entrichten, dass der Betrag der Gerichtskasse vor dem Verteilungstermin gutgeschrieben ist und ein Nachweis hierüber im Termin vorliegt.
+(3) Das Bargebot ist so rechtzeitig durch Überweisung auf ein Konto der Gerichtskasse zu entrichten, dass der Betrag der Gerichtskasse vor dem Verteilungstermin gutgeschrieben ist und ein Nachweis hierüber im Termin vorliegt.
 
 (4) Der Ersteher wird durch Hinterlegung von seiner Verbindlichkeit befreit, wenn die Hinterlegung und die Ausschließung der Rücknahme im Verteilungstermin nachgewiesen werden.
 

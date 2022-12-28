@@ -739,13 +739,15 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 2. die Finanzierung und Zwischenfinanzierung von Programmen zur Abfederung von Preissteigerungen beim Bezug von Strom insbesondere durch Verbraucherinnen, Verbraucher und Unternehmen (Strompreisbremse),
 
-3. die Finanzierung von Stützungsmaßnahmen für auf Grund der Energiekrise in Schwierigkeiten geratene Unternehmen, insbesondere soweit sie nicht in ausreichendem Ausmaß von der Strom- und Gaspreisbremse erfasst werden, sowie für Gasimporteure, die für die Marktstabilität relevant sind, inklusive der Finanzierung der Ersatzbeschaffungen an den Energiemärkten, soweit sie nicht in ausreichendem Ausmaß von der Gaspreisbremse erfasst werden, sowie
+3. die Finanzierung von Stützungsmaßnahmen für auf Grund der Energiekrise in Schwierigkeiten geratene Unternehmen, insbesondere soweit sie nicht in ausreichendem Ausmaß von der Strom- und Gaspreisbremse erfasst werden, sowie für Gasimporteure, die für die Marktstabilität relevant sind, inklusive der Finanzierung der Ersatzbeschaffungen an den Energiemärkten, soweit sie nicht in ausreichendem Ausmaß von der Gaspreisbremse erfasst werden,
 
-4. die Darlehensgewährung an die Kreditanstalt für Wiederaufbau zur Refinanzierung von Programmen und Stützungsmaßnahmen nach den Nummern 1 bis 3, soweit ihr entsprechende Geschäfte von der Bundesregierung auf Grund des § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau zugewiesen werden; die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
+4. die Finanzierung von Programmen zur Abfederung von Preissteigerungen für private Verbraucherinnen und Verbraucher, soweit sie aufgrund der Nutzung anderer Brennstoffe wie beispielsweise Heizöl, Pellets oder Flüssiggas nicht in ausreichendem Ausmaß von der Strom- und Gaspreisbremse oder anderen Entlastungsmaßnahmen erfasst werden, sowie
+
+5. die Darlehensgewährung an die Kreditanstalt für Wiederaufbau zur Refinanzierung von Programmen und Stützungsmaßnahmen nach den Nummern 1 bis 4, soweit ihr entsprechende Geschäfte von der Bundesregierung auf Grund des § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau zugewiesen werden; die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
 
 Die Programme und Maßnahmen nach Satz 1 können insbesondere die Möglichkeit der Gewährung von Zuschüssen, Rekapitalisierungsmaßnahmen und Krediten umfassen. Die Finanzierung nach Satz 1 schließt Regelungen für Härtefälle nicht aus.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über die formalen und materiellen Voraussetzungen der Weiterreichung der Mittel des Wirtschaftsstabilisierungsfonds an die mit der Administration und Durchführung der Programme und Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3 betrauten Behörden und sonstigen Stellen, insbesondere über
+(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über die formalen und materiellen Voraussetzungen der Weiterreichung der Mittel des Wirtschaftsstabilisierungsfonds an die mit der Administration und Durchführung der Programme und Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 4 betrauten Behörden und sonstigen Stellen, insbesondere über
 
 1. Anforderungen an zahlungsbegründende Unterlagen, Dokumentation der Mittelverwendung oder Zeitpunkt der Einreichung,
 
@@ -785,7 +787,7 @@ Die Kosten für die Verwaltung des Wirtschaftsstabilisierungsfonds nach Abschnit
 
 # § 26g – Befristung
 
-Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1 Satz 1 Nummer 1 bis 3 sind bis zum Ablauf des 30. Juni 2024 möglich.
+Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1 Satz 1 Nummer 1 bis 4 sind bis zum Ablauf des 30. Juni 2024 möglich.
 
 # § 27 – Steuern
 

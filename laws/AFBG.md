@@ -165,7 +165,7 @@ und die geänderte Gesamtmaßnahme weiterhin die Fördervoraussetzungen des § 2
 
 (2) Anderen Ausländern wird Förderung geleistet, wenn sie ihren ständigen Wohnsitz im Inland haben und
 
-1. eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1, 2 oder 4, den §§ 23a, 25 Absatz 1 oder 2, den §§ 25a, 25b, 28, 37, 38 Absatz 1 Nummer 2, § 104a oder als Ehegatte, Lebenspartner oder Kind eines Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
+1. eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1, 2 oder 4, den §§ 23a, 25 Absatz 1 oder 2, den §§ 25a, 25b, 28, 37, 38 Absatz 1 Nummer 2, den §§ 104a, 104c oder als Ehegatte, Lebenspartner oder Kind eines Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
 
 2. eine Aufenthaltserlaubnis nach § 25 Absatz 3, 4 Satz 2 oder Absatz 5, § 31 des Aufenthaltsgesetzes oder als Ehegatte, Lebenspartner oder Kind eines Ausländers mit Aufenthaltserlaubnis eine Aufenthaltserlaubnis nach § 30, den §§ 32 bis 34 oder § 36a des Aufenthaltsgesetzes besitzen und sich seit mindestens 15 Monaten in Deutschland ununterbrochen rechtmäßig, gestattet oder geduldet aufhalten.
 
