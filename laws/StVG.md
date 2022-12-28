@@ -1825,9 +1825,11 @@ c) bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermö
 
 18. zur Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten, die aufgrund des § 40 des Bundes-Immissionsschutzgesetzes nach Maßgabe der straßenverkehrsrechtlichen Vorschriften angeordnet worden oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz der Wohnbevölkerung oder der Bevölkerung vor Abgasen ergangen sind,
 
-19. zur Überprüfung und Ergänzung der Angaben in Anträgen und Verwendungsnachweisen zu einer Förderung hinsichtlich der Einhaltung der Regelungen über die Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus) oder
+19. zur Überprüfung und Ergänzung der Angaben in Anträgen und Verwendungsnachweisen zu einer Förderung hinsichtlich der Einhaltung der Regelungen über die Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)
 
-20. für die in § 98 Absatz 1a Satz 1 der Insolvenzordnung genannten Zwecke, soweit kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
+20. für die in § 98 Absatz 1a Satz 1 der Insolvenzordnung genannten Zwecke, soweit kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt werden oder
+
+21. für Maßnahmen nach dem Außenwirtschaftsgesetz, dem Sanktionsdurchsetzungsgesetz oder den jeweils auf den genannten Gesetzen beruhenden Rechtsvorschriften.
 
 (1a) Die nach § 33 Absatz 1 Nummer 1 gespeicherten Daten über Beschaffenheit, Ausrüstung und Identifizierungsmerkmale von Fahrzeugen dürfen den Zentralen Leitstellen für Brandschutz, Katastrophenschutz und Rettungsdienst, wenn dies für Zwecke nach § 32 Absatz 2 Nummer 3 erforderlich ist, zur Rettung von Unfallopfern übermittelt werden.
 
@@ -1970,6 +1972,8 @@ Satz 1 gilt entsprechend für den Abruf der örtlich zuständigen Polizeidiensts
 (2j) Die Übermittlung nach § 35 Absatz 1 Nummer 19 darf durch Abruf im automatisierten Verfahren an das Bundesamt für Wirtschaft und Ausfuhrkontrolle erfolgen.
 
 (2k) Die Übermittlung nach § 35 Absatz 1 Nummer 20 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an das Insolvenzgericht erfolgen.
+
+(2l) Die Übermittlung nach § 35 Absatz 1 Nummer 21 darf durch Abruf im automatisierten Verfahren an die nach dem Außenwirtschaftsgesetz zuständigen Behörden und an die Zentralstelle zur Sanktionsdurchsetzung erfolgen.
 
 (3) Die Übermittlung nach § 35 Abs. 3 Satz 1 aus dem Zentralen Fahrzeugregister darf ferner durch Abruf im automatisierten Verfahren an die Polizeien des Bundes und der Länder zur Verfolgung von Straftaten oder zur Vollstreckung oder zum Vollzug von Strafen oder zur Abwehr einer im Einzelfall bestehenden Gefahr für die öffentliche Sicherheit, an die Zollfahndungsdienststellen zur Verhütung oder Verfolgung von Steuer- und Wirtschaftsstraftaten, an die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden zur Verhütung oder Verfolgung von Steuerstraftaten sowie an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst zur Erfüllung ihrer durch Gesetz übertragenen Aufgaben vorgenommen werden.
 

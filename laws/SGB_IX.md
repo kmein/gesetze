@@ -744,6 +744,34 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (4) Rehabilitationsdienste und -einrichtungen mit gleicher Aufgabenstellung sollen Arbeitsgemeinschaften bilden.
 
+# § 36a – Zuschuss zu Kosten für Erdgas, Wärme und andere Brennstoffe sowie Strom; Verordnungsermächtigung
+
+(1) Zum Ausgleich von Erdgas-, Wärme- und anderen Brennstoffkosten sowie Stromkosten zahlen die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 4 den anspruchsberechtigten Leistungserbringern auf Antrag einen einmaligen Zuschuss zu den Kosten für Erdgas, Wärme- und andere Brennstoffe sowie Strom. Der Zuschuss beträgt 95 Prozent der Differenz zwischen den entstandenen Energiekosten des Jahres 2022 und denen des Jahres 2021. Leistungsberechtigte nach Absatz 2 Nummer 3 erhalten auf Antrag einen Zuschuss in Höhe von 95 Prozent eines Fünftels der Differenz zwischen den entstandenen Energiekosten des Jahres 2022 und denen des Jahres 2021. Bei den entstandenen Energiekosten im Sinne der Sätze 2 und 3 sind die Entlastungen nach dem Erdgas-Wärme-Soforthilfegesetz zu berücksichtigen.
+
+(2) Anspruchsberechtigte Leistungserbringer sind
+
+1. Medizinische Vorsorge- und Rehabilitationseinrichtungen,
+
+a) mit denen ein Vertrag nach § 15 Absatz 2 des Sechsten Buches in Verbindung mit § 38 oder nach den §§ 33 und 34 des Siebten Buches besteht oder
+
+b) mit denen ein Versorgungsvertrag nach § 111 Absatz 2, § 111a Absatz 1 oder § 111c Absatz 1 des Fünften Buches besteht, oder
+
+c) die von der gesetzlichen Rentenversicherung oder der gesetzlichen Unfallversicherung selbst betrieben werden,
+
+2. Einrichtungen der beruflichen Rehabilitation nach § 51,
+
+3. Werkstätten für behinderte Menschen oder
+
+4. andere Leistungsanbieter nach § 60, soweit sie Leistungen nach § 57 erbringen.
+
+(3) Die nach Absatz 1 entstehenden Aufwendungen der Rehabilitationsträger einschließlich der Verwaltungskosten werden aus den Mitteln des Wirtschaftsstabilisierungsfonds getragen. Die Bereitstellung der Mittel erfolgt durch das Bundesamt für Soziale Sicherung. Die anfallenden Verwaltungskosten des Bundesamts für Soziale Sicherung werden ebenfalls aus den Mitteln des Wirtschaftsstabilisierungsfonds getragen.
+
+(4) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit den Bundesministerien für Gesundheit, für Wirtschaft und Klimaschutz sowie der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen zu den konkreten Voraussetzungen des Zuschusses nach Absatz 1, zum Verfahren nach Absatz 1 sowie zur Bereitstellung der Mittel nach Absatz 3 zu erlassen. Hierbei können insbesondere die Berechnung des Zuschusses, der Auszahlungszeitpunkt, das Antrags- und Auszahlungsverfahren sowie das Verfahren zur Umsetzung der Mittelbereitstellung an die Rehabilitationsträger näher geregelt werden.
+
+(5) § 29a des Erdgas-Wärme-Preisbremsengesetzes gilt entsprechend.
+
+(6) Es ist eine Erfolgskontrolle zu der Regelung durchzuführen. Die Kosten der Erfolgskontrolle werden aus den Mitteln des Wirtschaftsstabilisierungsfonds getragen.
+
 # § 37 – Qualitätssicherung, Zertifizierung
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5 vereinbaren gemeinsame Empfehlungen zur Sicherung und Weiterentwicklung der Qualität der Leistungen, insbesondere zur barrierefreien Leistungserbringung, sowie für die Durchführung vergleichender Qualitätsanalysen als Grundlage für ein effektives Qualitätsmanagement der Leistungserbringer. § 26 Absatz 4 ist entsprechend anzuwenden. Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 6 und 7 können den Empfehlungen beitreten.

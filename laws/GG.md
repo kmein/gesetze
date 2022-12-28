@@ -833,7 +833,7 @@ Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zusti
 
 (2) Jedes Gesetz und jede Rechtsverordnung soll den Tag des Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie mit dem vierzehnten Tage nach Ablauf des Tages in Kraft, an dem das Bundesgesetzblatt ausgegeben worden ist.
 
-(+++ Art. 82 Abs. 1 Satz 4: Siehe auch Verkündungs- und Bekanntmachungsgesetz 114-1 +++)
+(+++ Art. 82 Abs. 1 Satz 4: Siehe auch Verkündungs- und Bekanntmachungsgesetz 114-8 v. 20.12.2022 I 2752 (VkBkmG) +++)
 
 # Art 83
 

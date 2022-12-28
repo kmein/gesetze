@@ -1169,7 +1169,7 @@ Die verurteilte Person muss zuvor ausdrücklich über ihr Recht auf Wiederaufnah
 
 6. die für die betreffende Straftat im Ausstellungsmitgliedstaat gesetzlich vorgesehene Höchststrafe oder im Fall des Vorliegens eines rechtskräftigen Urteils die verhängte Strafe.
 
-(2) Die Ausschreibung zur Festnahme zwecks Überstellung oder Auslieferung nach dem Beschluss 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205, S. 63), die die unter Absatz 1 Nr. 1 bis 6 bezeichneten Angaben enthält oder der diese Angaben nachgereicht wurden, gilt als Europäischer Haftbefehl.
+(2) Die Ausschreibung zur Festnahme zwecks Überstellung oder Auslieferung nach der Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S. 56), die die unter Absatz 1 Nr. 1 bis 6 bezeichneten Angaben enthält oder der diese Angaben nachgereicht wurden, gilt als Europäischer Haftbefehl.
 
 # § 83b – Bewilligungshindernisse
 
