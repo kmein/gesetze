@@ -35,7 +35,7 @@ Nicht zu den Krankenhausleistungen gehören
 
 (3) Bei der Erbringung von allgemeinen Krankenhausleistungen durch nicht im Krankenhaus fest angestellte Ärztinnen und Ärzte hat das Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 
-(4) Die Deutsche Krankenhausgesellschaft prüft bis zum 31. Dezember 2021, ob zwischen Krankenhäusern erbrachte telekonsiliarärztliche Leistungen sachgerecht vergütet werden. Dabei ist auch zu prüfen, ob eine Anpassung der Vergütung notwendig ist. Die Deutsche Krankenhausgesellschaft veröffentlicht das Ergebnis der Prüfung barrierefrei auf ihrer Internetseite.
+(4) Die Deutsche Krankenhausgesellschaft prüft bis zum 31. Dezember 2021, ob zwischen Krankenhäusern erbrachte telekonsiliarärztliche Leistungen sachgerecht vergütet werden. Dabei ist auch zu prüfen, ob eine Anpassung der Vergütung notwendig ist. Die Deutsche Krankenhausgesellschaft veröffentlicht das Ergebnis der Prüfung barrierefrei auf ihrer Internetseite. Die Deutsche Krankenhausgesellschaft veröffentlicht bis zum 31. Dezember 2023 die Höhe von Vergütungen für telekonsiliarärztliche Leistungen, die zwischen Krankenhäusern erbracht werden.
 
 # § 3 – Vereinbarung eines Gesamtbetrags
 
@@ -227,7 +227,7 @@ Mit diesen Entgelten werden alle für die Versorgung der Patientinnen und Patien
 
 5. bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des § 10 Absatz 6 Satz 2 oder Satz 3 des Krankenhausentgeltgesetzes, wobei bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Falle des § 10 Absatz 6 Satz 3 des Krankenhausentgeltgesetzes ist die Veränderungsrate nach § 71 Absatz 3 des Fünften Buches Sozialgesetzbuch um 40 Prozent dieser Differenz zu erhöhen,
 
-6. den einheitlichen Aufbau der Datensätze und das Verfahren für die Übermittlung der Daten nach § 11 Absatz 4 Satz 1 sowie die Weiterentwicklung der von den Vertragsparteien auf Bundesebene vereinbarten Aufstellung der Entgelte und Budgetermittlung, wobei den Zwecken des leistungsbezogenen Vergleichs nach § 4 Rechnung zu tragen ist,
+6. den einheitlichen Aufbau der Datensätze und das Verfahren für die Übermittlung der Daten nach § 11 Absatz 4 Satz 1 und erstmals bis zum 26. Januar 2023 das Nähere zur Dokumentation des Eingangs von Daten, Unterlagen und Auskünften und zur Abrechnung des Abschlags nach § 11 Absatz 4 Satz 5 sowie die Weiterentwicklung der von den Vertragsparteien auf Bundesebene vereinbarten Aufstellung der Entgelte und Budgetermittlung, wobei den Zwecken des leistungsbezogenen Vergleichs nach § 4 Rechnung zu tragen ist,
 
 7. erstmals zum 31. März 2017 und ab 2018 bis zum 28. Februar jeden Jahres die Beschreibung von Leistungen, die für den Zweck des Vergütungssystems nach § 17d des Krankenhausfinanzierungsgesetzes in den Prozedurenschlüssel nach § 301 Absatz 2 des Fünften Buches Sozialgesetzbuch einzuführen sind, sowie die Benennung von Schlüsseln, die zu streichen sind, da sie sich für diesen Zweck als nicht erforderlich erwiesen haben; das Bundesinstitut für Arzneimittel und Medizinprodukte soll erforderliche Änderungen im Prozedurenschlüssel nach § 301 Absatz 2 des Fünften Buches Sozialgesetzbuch zum nächstmöglichen Zeitpunkt umsetzen,
 
@@ -245,19 +245,45 @@ Mit diesen Entgelten werden alle für die Versorgung der Patientinnen und Patien
 
 (2) Der Vereinbarungszeitraum beträgt ein Kalenderjahr, wenn das Krankenhaus ganzjährig betrieben wird. Ein Zeitraum, der mehrere Kalenderjahre umfasst, kann vereinbart werden.
 
-(3) Die Vertragsparteien nehmen die Verhandlung unverzüglich auf, nachdem eine Vertragspartei dazu schriftlich oder elektronisch aufgefordert hat. Die Verhandlung soll unter Berücksichtigung der Sechswochenfrist des § 18 Absatz 4 des Krankenhausfinanzierungsgesetzes so rechtzeitig abgeschlossen werden, dass das neue Budget und die neuen Entgelte mit Ablauf des laufenden Vereinbarungszeitraums in Kraft treten können.
+(3) Die Vertragsparteien nehmen die Verhandlung unverzüglich auf, nachdem eine Vertragspartei dazu schriftlich oder elektronisch aufgefordert hat. Die Verhandlung soll unter Berücksichtigung der Sechswochenfrist des § 18 Absatz 4 des Krankenhausfinanzierungsgesetzes so rechtzeitig abgeschlossen werden, dass das neue Budget und die neuen Entgelte mit Ablauf des Jahres, das dem Jahr vorausgeht, für das die Vereinbarung gelten soll, in Kraft treten können.
 
-(4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung den anderen Vertragsparteien, den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes genannten Beteiligten und der zuständigen Landesbehörde
+(4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung spätestens bis zum 31. Dezember des Jahres, das dem Jahr vorausgeht, für das die Vereinbarung gelten soll, den anderen Vertragsparteien, den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes genannten Beteiligten und der zuständigen Landesbehörde
 
 1. ab dem krankenhausindividuellen Einführungsjahr des Vergütungssystems und bis einschließlich des Jahres 2019 die Unterlagen der Vereinbarung nach § 9 Absatz 1 Nummer 6 in ihrer jeweils aktuellen Fassung sowie die Leistungs- und Kalkulationsaufstellung nach Anlage 1 in der am 31. Dezember 2012 geltenden Fassung mit Ausnahme der Abschnitte V1, V4, L4 und K4,
 
 2. für die Jahre ab 2020 die Unterlagen der Vereinbarung nach § 9 Absatz 1 Nummer 6 in ihrer jeweils aktuellen Fassung,
 
-3. erstmals für das Jahr 2018 den Nachweis, dass die zusätzlichen Mittel für Tariferhöhungen von Pflegepersonal zweckentsprechend für die Finanzierung des Pflegepersonals verwendet wurden.
+3. den Nachweis, dass die zusätzlichen Mittel für Tariferhöhungen von Pflegepersonal zweckentsprechend für die Finanzierung des Pflegepersonals verwendet wurden.
 
-Die Daten sind auf maschinenlesbaren Datenträgern vorzulegen. Das Krankenhaus hat auf gemeinsames Verlangen der anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes zusätzliche Unterlagen vorzulegen und Auskünfte zu erteilen, soweit dies zur Beurteilung der Leistungen des Krankenhauses im Rahmen seines Versorgungsauftrags im Einzelfall erforderlich ist und wenn der zu erwartende Nutzen den verursachten Aufwand deutlich übersteigt.
+Die Daten sind auf maschinenlesbaren Datenträgern vorzulegen. Die anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes können innerhalb von sechs Wochen nach Vorlage der Daten gemeinsam einmalig die Vorlage von zusätzlichen Unterlagen und die Erteilung von Auskünften verlangen, soweit dies zur Beurteilung der Leistungen des Krankenhauses im Rahmen seines Versorgungsauftrags im Einzelfall erforderlich ist und wenn der zu erwartende Nutzen den verursachten Aufwand deutlich übersteigt. Das Krankenhaus hat innerhalb von sechs Wochen nach Eingang des Verlangens nach Satz 3 die zusätzlichen Unterlagen vorzulegen und die Auskünfte zu erteilen. Die anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes vereinbaren für die Zeit vom 1. Juli des Jahres, für das die Vereinbarung nach Absatz 1 Satz 1 gelten soll, bis einen Monat nach der Vereinbarung nach Absatz 1 Satz 1 oder nach der Festsetzung nach § 13 Absatz 1 oder Absatz 3 einen Abschlag in Höhe von 1 Prozent des Rechnungsbetrags für jeden voll- oder teilstationären Fall, sofern der Krankenhausträger seinen Pflichten nach Satz 1 oder Satz 4 nicht nachkommt und die anderen Vertragsparteien für die Zeit vor einer möglichen Erhebung eines Abschlags dem Krankenhaus mindestens drei zumutbare Termine für die Verhandlung angeboten haben. Der Zeitpunkt des Abschlusses der Vereinbarung nach Absatz 1 Satz 1 ist von den Vertragsparteien schriftlich oder elektronisch zu dokumentieren; bei einer Festsetzung nach § 13 Absatz 1 oder Absatz 3 gilt das Datum der Entscheidung der Schiedsstelle. Die Genehmigung des vereinbarten Abschlags ist von den anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes bei der für die Krankenhausplanung zuständigen Landesbehörde zu beantragen. Die anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes haben den Krankenhausträger und die Schiedsstelle nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes zum Zeitpunkt der Antragstellung über den Antrag zu informieren. Die für die Krankenhausplanung zuständige Landesbehörde genehmigt die Erhebung des Abschlags innerhalb von vier Wochen ab dem Eingang des Antrags, wenn die Vereinbarung dem geltenden Recht entspricht.
 
 (5) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses, einschließlich regionaler oder struktureller Besonderheiten in der Leistungserbringung, sowie zur Höhe der Zu- und Abschläge nach § 5 so frühzeitig gemeinsam vorzuklären, dass die Verhandlung zügig durchgeführt werden kann.
+
+(6) Für die Vereinbarungszeiträume bis einschließlich des Vereinbarungszeitraums 2025, für die bis zum 29. Dezember 2022 noch keine Vereinbarung nach Absatz 1 Satz 1 geschlossen wurde, sind von dem Krankenhausträger die in Absatz 4 Satz 1 genannten Daten zu übermitteln
+
+1. bis zum 31. Oktober 2023 für die Vereinbarungszeiträume bis einschließlich des Vereinbarungszeitraums 2021,
+
+2. bis zum 31. März 2024 für den Vereinbarungszeitraum 2022,
+
+3. bis zum 30. September 2024 für den Vereinbarungszeitraum 2023,
+
+4. bis zum 31. März 2025 für den Vereinbarungszeitraum 2024 und
+
+5. bis zum 30. September 2025 für den Vereinbarungszeitraum 2025.
+
+Für die Vorlage der Unterlagen und für die Erteilung von Auskünften gilt Absatz 4 Satz 2 bis 9 mit der Maßgabe, dass der Abschlag nach Absatz 4 Satz 5 wie folgt zu vereinbaren ist:
+
+1. im Fall von Satz 1 Nummer 1 vom 1. Mai 2024 an,
+
+2. im Fall von Satz 1 Nummer 2 vom 1. Oktober 2024 an,
+
+3. im Fall von Satz 1 Nummer 3 vom 1. April 2025 an,
+
+4. im Fall von Satz 1 Nummer 4 vom 1. Oktober 2025 an und
+
+5. im Fall von Satz 1 Nummer 5 vom 1. April 2026 an.
+
+§ 13 Absatz 1, 2 und 3 Satz 3 gilt entsprechend.
 
 # § 12 – Vorläufige Vereinbarung
 
@@ -269,7 +295,7 @@ Können sich die Vertragsparteien insbesondere über die Höhe des Gesamtbetrags
 
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die Gegenstände, über die keine Einigung erreicht werden konnte.
 
-(3) (weggefallen)
+(3) Kommt eine Vereinbarung nach § 11 für Vereinbarungszeiträume ab dem Vereinbarungszeitraum 2026 nicht bis zum 31. Juli des Jahres, für das die Vereinbarung gelten soll, zustande, legt die Schiedsstelle nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung abweichend von Absatz 1 ohne Antrag einer Vertragspartei innerhalb von sechs Wochen ab dem 1. August des Jahres fest. Die Fristen nach Satz 1 verlängern sich jeweils um sechs Wochen, wenn die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vor Ablauf der Frist nach Satz 1 gegenüber der Schiedsstelle gemeinsam schriftlich oder elektronisch anzeigen, dass sie innerhalb der solchermaßen verlängerten Frist eine Vereinbarung nach § 11 abschließen werden. Die im Schiedsverfahren zu berücksichtigenden Daten, Unterlagen und Auskünfte des Krankenhausträgers oder der anderen Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes sind innerhalb der in § 11 Absatz 4 Satz 1 und 4 genannten Fristen zu übermitteln, vorzulegen oder zu erteilen; nach Ablauf dieser Fristen übermittelte, vorgelegte oder erteilte Daten, Unterlagen und Auskünfte dürfen von der Schiedsstelle nicht berücksichtigt oder im Falle von Klagen gegen die Genehmigung des Beschlusses der Schiedsstelle von dem Gericht nicht zugelassen werden, wenn die Zulassung nach der freien Überzeugung der Schiedsstelle oder des Gerichts die Erledigung des Rechtsstreits verzögern würde und die Nichteinhaltung der Fristen auf von dem Krankenhausträger oder von einer der anderen Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes zu vertretenden Gründen beruht.
 
 # § 14 – Genehmigung
 

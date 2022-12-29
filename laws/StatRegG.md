@@ -3,11 +3,11 @@
  
 # § 1
 
-(1) Beim Statistischen Bundesamt wird gemäß § 13 Absatz 1 des Bundesstatistikgesetzes ein Statistikregister geführt. Im Statistikregister dürfen zu den Einheiten, die gemäß der Verordnung (EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Schaffung eines gemeinsamen Rahmens für Unternehmensregister für statistische Zwecke und zur Aufhebung der Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6) in der jeweils geltenden Fassung erfasst werden, folgende Angaben gespeichert werden:
+(1) Beim Statistischen Bundesamt wird gemäß § 13 Absatz 1 des Bundesstatistikgesetzes ein Statistikregister geführt. Im Statistikregister dürfen zu den Einheiten, die nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/2152 des Europäischen Parlaments und des Rates vom 27. November 2019 über europäische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L 327 vom 17.12.2019, S. 1), die durch die Delegierte Verordnung (EU) 2021/1704 (ABl. L 339 vom 24.9.2021, S. 33) geändert worden ist, in der jeweils geltenden Fassung erfasst werden, folgende Angaben gespeichert werden:
 
-1. Angaben gemäß dem Anhang zur Verordnung (EG) Nr. 177/2008,
+1. Angaben nach Anhang VIII zur Durchführungsverordnung (EU) 2020/1197 der Kommission vom 30. Juli 2020 zur Festlegung technischer Spezifikationen und Einzelheiten nach der Verordnung (EU) 2019/2152 des Europäischen Parlaments und des Rates über europäische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L 271 vom 18.8.2020, S. 1), die durch die Durchführungsverordnung (EU) 2021/1225 (ABl. L 269 vom 28.7.2021, S. 58) geändert worden ist, in der jeweils geltenden Fassung,
 
-2. Zahl der Beschäftigten,
+2. Zahl der Beschäftigten nach Arten der Beschäftigungsverhältnisse,
 
 3. Umsatz,
 
@@ -31,7 +31,7 @@ Die genannten Angaben dürfen auch zu administrativen Einheiten gespeichert werd
 
 # § 2
 
-(1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Umsatzsteuerpflichtigen verwendet werden:
+(1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Satz 1 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das zuletzt durch Artikel 35 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) geändert worden ist, in der jeweils geltenden Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Umsatzsteuerpflichtigen verwendet werden:
 
 1. Dauer der Steuerpflicht,
 
@@ -55,7 +55,7 @@ Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zu
 
 3. Umsatzsteuer-Identifikationsnummer.
 
-(2) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Steuerpflichtigen mit Lieferungen, sonstigen Leistungen und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes verwendet werden:
+(2) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Satz 1 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken in der jeweils geltenden Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Steuerpflichtigen mit Lieferungen, sonstigen Leistungen und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes verwendet werden:
 
 1. Einkünfte aus Gewerbebetrieb,
 
@@ -69,7 +69,7 @@ Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zu
 
 2. Anschrift.
 
-(3) Die Übermittlungen nach den Absätzen 1 und 2 erfolgen abweichend von § 1 Absatz 2 Satz 1 in dem durch das Gesetz über Steuerstatistiken in seiner jeweils gültigen Fassung vorgegebenen Zeitrahmen.
+(3) Die Übermittlungen nach den Absätzen 1 und 2 erfolgen abweichend von § 1 Absatz 2 Satz 1 in dem durch das Gesetz über Steuerstatistiken in seiner jeweils geltenden Fassung vorgegebenen Zeitrahmen.
 
 # § 2a
 
@@ -179,7 +179,7 @@ Die statistischen Ämter des Bundes und der Länder dürfen den für statistisch
 
 1. wirtschaftliche Haupt- und Nebentätigkeiten (Wirtschaftszweige),
 
-2. Zahl der tätigen Personen und der sozialversicherungspflichtigen Beschäftigten,
+2. Zahl der tätigen Personen und der Beschäftigten nach Arten der Beschäftigungsverhältnisse,
 
 3. Gemeindeschlüssel, Straße und Hausnummer.
 
@@ -191,9 +191,9 @@ Die Angaben zu Straße und Hausnummer nach Satz 1 Nummer 3 dürfen nur zur Zuord
 
 (2) Das Statistische Bundesamt übermittelt der Deutschen Bundesbank zur Erfüllung ihrer statistischen Aufgaben und Verpflichtungen insbesondere aus unmittelbar geltenden europäischen Rechtsakten auf Anforderung folgende Angaben aus dem Statistikregister:
 
-1. Angaben gemäß Anhang der Verordnung (EG) Nr. 177/2008,
+1. Angaben nach Anhang VIII zur Durchführungsverordnung (EU) 2020/1197,
 
-2. Zahl der Beschäftigten,
+2. Zahl der Beschäftigten nach Arten der Beschäftigungsverhältnisse,
 
 3. Umsatz,
 

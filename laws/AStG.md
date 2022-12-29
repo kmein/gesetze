@@ -359,7 +359,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 2. zwischen der Bundesrepublik Deutschland und dem Staat, in dem die Familienstiftung Geschäftsleitung oder Sitz hat, auf Grund der Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes oder einer vergleichbaren zwei- oder mehrseitigen Vereinbarung, Auskünfte erteilt werden, die erforderlich sind, um die Besteuerung durchzuführen.
 
-(7) Die Einkünfte der Stiftung nach Absatz 1 werden in entsprechender Anwendung der Vorschriften des Körperschaftsteuergesetzes und des Einkommensteuergesetzes ermittelt. Bei der Ermittlung der Einkünfte gilt § 10 Absatz 3 entsprechend; § 8b des Körperschaftsteuergesetzes bleibt unberücksichtigt. Ergibt sich ein negativer Betrag, entfällt die Zurechnung.
+(7) Die Einkünfte der Stiftung nach Absatz 1 werden in entsprechender Anwendung der Vorschriften des Körperschaftsteuergesetzes und des Einkommensteuergesetzes ermittelt. Bei der Ermittlung der Einkünfte gilt § 10 Absatz 3 Satz 3 bis 6 entsprechend; § 8b des Körperschaftsteuergesetzes bleibt unberücksichtigt. Ergibt sich ein negativer Betrag, entfällt die Zurechnung.
 
 (8) Die nach Absatz 1 dem Stifter oder der bezugs- oder anfallsberechtigten Person zuzurechnenden Einkünfte gehören bei Personen, die ihre Einkünfte nicht nach dem Körperschaftsteuergesetz ermitteln, zu den Einkünften im Sinne des § 20 Absatz 1 Nummer 9 des Einkommensteuergesetzes. § 20 Absatz 8 des Einkommensteuergesetzes bleibt unberührt; § 3 Nummer 40 Satz 1 Buchstabe d und § 32d des Einkommensteuergesetzes sind nur insoweit anzuwenden, als diese Vorschriften bei unmittelbarem Bezug der zuzurechnenden Einkünfte durch die Personen im Sinne des Absatzes 1 anzuwenden wären. Soweit es sich beim Stifter oder der bezugs- oder anfallsberechtigten Person um Personen handelt, die ihre Einkünfte nach dem Körperschaftsteuergesetz ermitteln, bleibt § 8 Absatz 2 des Körperschaftsteuergesetzes unberührt; § 8b Absatz 1 und 2 des Körperschaftsteuergesetzes ist nur insoweit anzuwenden, als diese Vorschrift bei unmittelbarem Bezug der zuzurechnenden Einkünfte durch die Personen im Sinne des Absatzes 1 anzuwenden wäre.
 
@@ -434,7 +434,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von Satz 1 sind Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März 2021 nicht mehr zu berücksichtigen.
 
-(4) Die §§ 7 bis 13, 15 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung sind erstmals anzuwenden
+(4) Die §§ 7 bis 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden
 
 1. für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum,
 

@@ -151,7 +151,7 @@ Zu dem in Satz 1 genannten Zweck dürfen Angaben zu den Erhebungsmerkmalen vorü
 
 # § 8 – Aufbereitung von Daten aus dem Verwaltungsvollzug
 
-(1) Soweit Verwaltungsstellen des Bundes aufgrund nicht-statistischer Rechts- oder Verwaltungsvorschriften Daten erheben oder bei ihnen Daten auf sonstige Weise anfallen, kann die statistische Aufbereitung dieser Daten ganz oder teilweise dem Statistischen Bundesamt übertragen werden. Das Statistische Bundesamt ist mit Einwilligung der Auftrag gebenden Stelle berechtigt, aus den aufbereiteten Daten statistische Ergebnisse für allgemeine Zwecke darzustellen und zu veröffentlichen.
+(1) Soweit Verwaltungsstellen des Bundes aufgrund nicht-statistischer Rechts- oder Verwaltungsvorschriften Daten erheben oder bei ihnen Daten auf sonstige Weise anfallen, kann die statistische Aufbereitung dieser Daten ganz oder teilweise dem Statistischen Bundesamt übertragen werden. § 13a Satz 1 gilt entsprechend. Das Statistische Bundesamt ist mit Einwilligung der Auftrag gebenden Stelle berechtigt, aus den aufbereiteten Daten statistische Ergebnisse für allgemeine Zwecke darzustellen und zu veröffentlichen.
 
 (2) Besondere Regelungen in einer eine Bundesstatistik anordnenden Rechtsvorschrift bleiben unberührt.
 

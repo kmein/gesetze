@@ -127,7 +127,7 @@ Von der Besteuerung sind ausgenommen:
 
 (2) Geht ein Grundstück von einem Alleineigentümer auf eine Gesamthand über, so wird die Steuer in Höhe des Anteils nicht erhoben, zu dem der Veräußerer am Vermögen der Gesamthand beteiligt ist. Absatz 1 Satz 2 gilt entsprechend. Absatz 1 Satz 3 gilt entsprechend.
 
-(3) Die Absätze 1 und 2 sind insoweit nicht anzuwenden, als sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von fünf Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Satz 1 gilt nicht, soweit allein durch den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von fünf Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Bei der Anwendung des Satzes 1 gilt die Ausübung der Option nach § 1a des Körperschaftsteuergesetzes als Verminderung des Anteils des Veräußerers am Vermögen der Gesamthand, wenn die Option innerhalb der jeweils für Satz 1 geltenden Frist ausgeübt und wirksam wird.
+(3) Die Absätze 1 und 2 sind insoweit nicht anzuwenden, als sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von zehn Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Satz 1 gilt nicht, soweit allein durch den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von fünf Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Bei der Anwendung des Satzes 1 gilt die Ausübung der Option nach § 1a des Körperschaftsteuergesetzes als Verminderung des Anteils des Veräußerers am Vermögen der Gesamthand, wenn die Option innerhalb der jeweils für Satz 1 geltenden Frist ausgeübt und wirksam wird.
 
 (+++ § 5: Zur Anwendung vgl. § 23 +++)  
 § 5 Abs. 3 Kursivdruck: Gem. Art. 1 Nr. 2 G v. 12.5.2021 I 986 wird mWv 1.7.2021 das Wort "fünf" durch das Wort "zehn" ersetzt. Der Änderungsbefehl ist nicht ausführbar, da das Wort "fünf" sowohl in Satz 1 als auch in Satz 2 vorhanden ist und eine nähere Präzisierung der zu ändernden Textstelle fehlt.
@@ -514,7 +514,7 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (17) § 1 Absatz 1 Nummer 3 Satz 2 Buchstabe a und b und § 19 Absatz 6 in der Fassung des Artikels 32 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 28. Dezember 2020 verwirklicht werden.
 
-(18) § 1 Absatz 2a Satz 1 und 4, Absatz 2b, 3 und 3a Satz 1, § 5 Absatz 3, § 6 Absatz 3 Satz 2 und Absatz 4, § 6a Satz 1, § 7 Absatz 3, § 8 Absatz 2 Satz 1 Nummer 3 und 4 und Satz 2, § 13 Nummer 5 bis 8, § 17 Absatz 3 Satz 1 Nummer 2 und § 19 Absatz 1 Satz 1 Nummer 3a bis 9 und Absatz 6 in der am 1. Juli 2021 geltenden Fassung sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021 verwirklicht werden.
+(18) § 1 Absatz 2a Satz 1 und 4, Absatz 2b, 3 und 3a Satz 1, § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4, § 6a Satz 1, § 7 Absatz 3, § 8 Absatz 2 Satz 1 Nummer 3 und 4 und Satz 2, § 13 Nummer 5 bis 8, § 17 Absatz 3 Satz 1 Nummer 2 und § 19 Absatz 1 Satz 1 Nummer 3a bis 9 und Absatz 6 in der am 1. Juli 2021 geltenden Fassung sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021 verwirklicht werden.
 
 (19) Bei Anwendung des § 1 Absatz 2a in der am 1. Juli 2021 geltenden Fassung bleiben Übergänge von Anteilen am Gesellschaftsvermögen auf Gesellschafter unberücksichtigt, die mit Ablauf des 30. Juni 2021 keine neuen Gesellschafter im Sinne des § 1 Absatz 2a in der am 30. Juni 2021 geltenden Fassung mehr sind. Bei der Anwendung des § 1 Absatz 2a in der am 1. Juli 2021 geltenden Fassung ist für die Ermittlung, inwieweit sich der Gesellschafterbestand geändert hat, § 1 Absatz 2a Satz 3 bis 5 in der am 1. Juli 2021 geltenden Fassung auch auf vor dem 1. Juli 2021 erfolgte Anteilsübergänge anzuwenden.
 
@@ -526,7 +526,7 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (23) Bei der Anwendung des § 1 Absatz 2b bleiben Übergänge von Anteilen der Gesellschaft, die vor dem 1. Juli 2021 erfolgen, unberücksichtigt.
 
-(24) § 5 Absatz 3, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
+(24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
 
 # §§ 24 bis 27 – (weggefallen)
 

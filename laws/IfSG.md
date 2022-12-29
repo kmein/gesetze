@@ -1983,6 +1983,24 @@ Die Übermittlung nach Satz 1 Nummer 1 und 3 hat über das elektronische Melde- 
 
 (10) Abweichungen von den in dieser Vorschrift getroffenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
+# § 14a – Interoperabilität; Verordnungsermächtigung
+
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Förderung der Interoperabilität zwischen informationstechnischen Systemen, von offenen Standards für informationstechnische Systeme und der Integration von Schnittstellen in informationstechnischen Systemen der Gesellschaft für Telematik die Aufgabe zuzuweisen, für nicht ausschließlich in die Zuständigkeit der Länder fallende informationstechnische Systeme, die im Anwendungsbereich dieses Gesetzes eingesetzt werden,
+
+1. einen Bedarf an technischen, semantischen und syntaktischen Standards, Profilen und Leitfäden zu identifizieren sowie zu priorisieren,
+
+2. technische, semantische und syntaktische Standards, Profile und Leitfäden zu prüfen, in dem gebotenen Umfang selbst zu entwickeln und weiterzuentwickeln, den Herstellern und Anwendern von informationstechnischen Systemen zu empfehlen und auf der Wissensplattform nach § 7 Absatz 1 Satz 1 der IOP-Governance-Verordnung zu veröffentlichen.
+
+Das Bundesministerium für Gesundheit kann in der Rechtsverordnung nach Satz 1 festlegen, dass Empfehlungen nach Satz 1 Nummer 2 im Anwendungsbereich dieses Gesetzes von Anwendern von informationstechnischen Systemen verbindlich zu beachten sind. Anwender im Sinne von Satz 2 sind Gesundheitsämter und die zuständigen Landesbehörden. In der Rechtsverordnung nach Satz 1 ist das Nähere zu regeln zu
+
+1. den Modalitäten der Abstimmung mit dem Expertengremium nach § 4 Absatz 1 der IOP-Governance-Verordnung,
+
+2. den weiteren Einzelheiten der Wahrnehmung der nach Satz 1 zugewiesenen Aufgabe und den hierbei anzuwendenden Verfahren.
+
+Bei der Gesellschaft für Telematik unmittelbar für die Erfüllung der nach Satz 1 zugewiesenen Aufgabe entstehende Kosten werden vom Robert Koch-Institut getragen. Das Robert Koch-Institut legt die Einzelheiten der Kostenerstattung im Einvernehmen mit der Gesellschaft für Telematik fest.
+
+(2) Zum Zwecke der Förderung der Interoperabilität zwischen informationstechnischen Systemen und von offenen Standards für informationstechnische Systeme und der Integration von Schnittstellen in informationstechnischen Systemen sowie zum Zwecke der Optimierung des nach § 14 Absatz 1 Satz 1 eingerichteten elektronischen Melde- und Informationssystems sammeln und konsolidieren die Länder auf Anforderung des Robert Koch-Instituts technische und funktionale Anforderungen an nach § 14 Absatz 1 Satz 9 bereitzustellende kostenlose Software-Lösungen und übermitteln diese einheitlich abgestimmt an das Robert Koch-Institut, soweit die Anforderungen nicht ausschließlich in die Zuständigkeit der Länder fallen.
+
 # § 15 – Anpassung der Meldepflicht an die epidemische Lage
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Meldepflicht für die in § 6 aufgeführten Krankheiten oder die in § 7 aufgeführten Krankheitserreger aufzuheben, einzuschränken oder zu erweitern oder die Meldepflicht auf andere übertragbare Krankheiten oder Krankheitserreger auszudehnen, soweit die epidemische Lage dies zulässt oder erfordert. Wird die Meldepflicht nach Satz 1 auf andere übertragbare Krankheiten oder Krankheitserreger ausgedehnt, gelten die für meldepflichtige Krankheiten nach § 6 Absatz 1 Satz 1 Nummer 1 und meldepflichtige Nachweise von Krankheitserregern nach § 7 Absatz 1 Satz 1 geltenden Vorschriften für diese entsprechend. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Meldepflicht für feststellende Personen bei der Anwendung patientennaher Schnelltests bei Dritten aufzuheben.

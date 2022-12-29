@@ -173,7 +173,7 @@ Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung nach § 4 Vera
 
 (1) Die Datenübermittlungen durch die Registerbehörde werden bei der Registerbehörde protokolliert.
 
-(2) Die Protokolldaten von natürlichen Personen, die Unternehmen nach § 4 Absatz 1 sind, dürfen ausschließlich zum Zwecke der Erfüllung der Rechenschaftspflicht nach Artikel 5 Absatz 2 der Verordnung (EU) 2016/679 und der datenschutzrechtlichen Rechte der betroffenen Personen verwendet werden.
+(2) Die Protokolldaten von natürlichen Personen, die Unternehmen nach § 3 Absatz 1 sind, dürfen ausschließlich zum Zwecke der Erfüllung der Rechenschaftspflicht nach Artikel 5 Absatz 2 der Verordnung (EU) 2016/679 und der datenschutzrechtlichen Rechte der betroffenen Personen verwendet werden.
 
 (3) Unternehmen, die keine natürlichen Personen sind, können Auskünfte über die sie betreffenden Protokolldaten verlangen.
 
