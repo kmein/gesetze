@@ -125,7 +125,21 @@ Die Verarbeitung von personenbezogenen Daten in den Fällen von Satz 1 Nummer 3 
 
 (1) Das Bundeskriminalamt ist Nationales Zentralbüro der Bundesrepublik Deutschland für die Internationale Kriminalpolizeiliche Organisation und nationale Stelle für Europol nach § 1 des Europol-Gesetzes.
 
-(2) Das Bundeskriminalamt ist die zentrale nationale Stelle für den Informationsaustausch nach Artikel 39 Absatz 3 und Artikel 46 Absatz 2 des Schengener Durchführungsübereinkommens, für den Betrieb des nationalen Teils des Schengener Informationssystems und das SIRENE-Büro für den Austausch von Zusatzinformationen.
+(2) Das Bundeskriminalamt ist
+
+1. die zentrale nationale Stelle für den Informationsaustausch nach Artikel 39 Absatz 3 und Artikel 46 Absatz 2 des Schengener Durchführungsübereinkommens (BGBl. 2000 II S. 1106),
+
+2. die zentrale nationale Stelle für den Betrieb des nationalen Teils des Schengener Informationssystems
+
+a) nach Artikel 7 Absatz 1 der Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S. 56) sowie
+
+b) nach Artikel 7 Absatz 1 der Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006 (ABl. L 312 vom 7.12.2018, S. 14) und
+
+3. das SIRENE-Büro
+
+a) nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1862 sowie
+
+b) nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1861.
 
 (2a) Das Bundeskriminalamt ist Vermögensabschöpfungsstelle nach Artikel 1 des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007 über die Zusammenarbeit zwischen den Vermögensabschöpfungsstellen der Mitgliedstaaten auf dem Gebiet des Aufspürens und der Ermittlung von Erträgen aus Straftaten oder anderen Vermögensgegenständen im Zusammenhang mit Straftaten (ABl. L 332 vom 18.12.2007, S. 103). Das Bundeskriminalamt nimmt im Rahmen der bestehenden Zuständigkeiten seine Aufgaben auch als benannte Behörde nach Artikel 3 Absatz 1 und 2 der Richtlinie (EU) 2019/1153 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur Erleichterung der Nutzung von Finanz- und sonstigen Informationen für die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates (ABl. L 186 vom 11.7.2019, S. 122) wahr.
 
@@ -451,7 +465,7 @@ Die Kennzeichnung nach Satz 1 Nummer 1 kann auch durch Angabe der Rechtsgrundlag
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten nach Maßgabe des § 12 im Informationssystem weiterverarbeiten, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist und soweit dieses Gesetz keine zusätzlichen besonderen Voraussetzungen vorsieht.
 
-(2) Das Bundeskriminalamt kann personenbezogene Daten im Informationssystem weiterverarbeiten, soweit dies erforderlich ist zur Fahndung und polizeilichen Beobachtung oder gezielten Kontrolle, wenn das Bundeskriminalamt oder die die Ausschreibung veranlassende Stelle nach dem für sie geltenden Recht befugt ist, die mit der Ausschreibung für Zwecke der Strafverfolgung, des Strafvollzugs, der Strafvollstreckung oder der Abwehr erheblicher Gefahren vorgesehene Maßnahme vorzunehmen oder durch eine Polizeibehörde vornehmen zu lassen. Satz 1 gilt entsprechend für Ausschreibungen zur Durchführung aufenthaltsbeendender oder einreiseverhindernder Maßnahmen. Die veranlassende Stelle trägt die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen. Nach Beendigung einer Ausschreibung nach Satz 1 oder Satz 2 sind die zu diesem Zweck gespeicherten Daten unverzüglich zu löschen.
+(2) Das Bundeskriminalamt kann personenbezogene Daten im Informationssystem weiterverarbeiten, soweit dies erforderlich ist zur Fahndung und polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle, wenn das Bundeskriminalamt oder die die Ausschreibung veranlassende Stelle nach dem für sie geltenden Recht befugt ist, die mit der Ausschreibung für Zwecke der Strafverfolgung, des Strafvollzugs, der Strafvollstreckung oder der Abwehr erheblicher Gefahren vorgesehene Maßnahme vorzunehmen oder durch eine Polizeibehörde vornehmen zu lassen. Satz 1 gilt entsprechend für Ausschreibungen zur Durchführung aufenthaltsbeendender oder einreiseverhindernder Maßnahmen. Die veranlassende Stelle trägt die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen. Nach Beendigung einer Ausschreibung nach Satz 1 oder Satz 2 sind die zu diesem Zweck gespeicherten Daten unverzüglich zu löschen.
 
 (3) Das Bundeskriminalamt kann personenbezogene Daten, die es bei der Wahrnehmung seiner Aufgaben auf dem Gebiet der Strafverfolgung erlangt hat, unter den Voraussetzungen der §§ 18 und 19 im Informationssystem für Zwecke künftiger Strafverfahren weiterverarbeiten.
 
@@ -598,7 +612,7 @@ Das Bundesministerium des Innern, für Bau und Heimat bestimmt durch Rechtsveror
 
 4. bei der Durchführung erkennungsdienstlicher Maßnahmen erhobene personenbezogene Daten, die nach § 16 Absatz 5 weiterverarbeitet werden können,
 
-5. personenbezogene Daten zur Fahndung und polizeilichen Beobachtung sowie gezielten Kontrolle,
+5. personenbezogene Daten zur Fahndung und polizeilichen Beobachtung, Ermittlungsanfrage sowie gezielten Kontrolle,
 
 6. personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen und
 
@@ -727,7 +741,7 @@ Entsprechendes gilt, wenn Anhaltspunkte dafür vorliegen, dass Straftaten von er
 
 (2) Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann das Bundeskriminalamt gespeicherte nicht personenbezogene Daten, die der Suche nach Sachen dienen (Sachfahndung), für zentrale Polizeibehörden anderer Staaten nach Maßgabe zwischenstaatlicher Vereinbarungen zum Abruf im automatisierten Verfahren zur Sicherstellung von gestohlenen, unterschlagenen oder sonst abhanden gekommenen Sachen bereithalten.
 
-(3) Für Daten, die zu Zwecken der Fahndung nach Personen oder der polizeilichen Beobachtung oder gezielten Kontrolle gespeichert sind, ist die Einrichtung eines automatisierten Abrufverfahrens nach Absatz 2 mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat im Benehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder unter Beachtung des § 12 Absatz 2 bis 4 zulässig, soweit
+(3) Für Daten, die zu Zwecken der Fahndung nach Personen oder der polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle gespeichert sind, ist die Einrichtung eines automatisierten Abrufverfahrens nach Absatz 2 mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat im Benehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder unter Beachtung des § 12 Absatz 2 bis 4 zulässig, soweit
 
 1. tatsächliche Anhaltspunkte dafür vorliegen, dass die Abrufe zur Verhinderung und Verfolgung von Straftaten von erheblicher Bedeutung sowie zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich sind,
 
@@ -779,7 +793,7 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Absatz 3 Zentralstelle für den polizeilichen Informationsverbund zwischen Bund und Ländern. Es stellt zu diesem Zweck ein einheitliches Verbundsystem zur Verfügung.
 
-(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Ausschreibungen im Schengener Informationssystem erfolgen im polizeilichen Informationsverbund. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
+(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
 
 (3) Außer dem Bundeskriminalamt und den Landeskriminalämtern sind zur Teilnahme am polizeilichen Informationsverbund berechtigt:
 
@@ -805,7 +819,7 @@ Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, 
 
 (6) Das Auswärtige Amt ist zum Abruf im automatisierten Verfahren der Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung berechtigt, soweit dies für die Auslandsvertretungen in ihrer Eigenschaft als Pass- und Personalausweisbehörden erforderlich ist. Die Staatsanwaltschaften sind befugt, für Zwecke der Strafrechtspflege im automatisierten Verfahren abzurufen:
 
-1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung und, nach Maßgabe des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) sowie der Verordnung (EG) Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 381 vom 28.12.2006, S. 4), auch die Ausschreibungen, die im Schengener Informationssystem gespeichert sind,
+1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung,
 
 2. Daten über Freiheitsentziehungen und
 
@@ -813,7 +827,7 @@ Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, 
 
 (7) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, weitere im polizeilichen Informationsverbund gespeicherte Daten, die von den Staatsanwaltschaften zur Erfüllung ihrer Aufgaben benötigt werden, zum automatisierten Abruf freizugeben, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist.
 
-(8) Die Einrichtung eines automatisierten Abrufverfahrens ist für andere Behörden zur Erfüllung vollzugspolizeilicher Aufgaben mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat und der Innenministerien und Senatsinnenverwaltungen der Länder zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist.
+(8) Die Einrichtung eines automatisierten Abrufverfahrens ist für andere Behörden zur Erfüllung vollzugspolizeilicher Aufgaben sowie für die Zentralstelle für Sanktionsdurchsetzung für Aufgaben nach dem Sanktionsdurchsetzungsgesetz mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat und der Innenministerien und Senatsinnenverwaltungen der Länder zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist.
 
 (+++ § 29 Abs. 5: Zur Anwendung vgl. § 17 Abs. 3 +++)
 
@@ -875,7 +889,7 @@ sowie
 
 2. andere Personen zur Aufenthaltsermittlung ausschreiben,
 
-3. eine Person oder eine Sache ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1) oder zur gezielten Kontrolle (§ 47 Absatz 1 Nummer 2) und
+3. eine Person oder eine Sache ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1), zur Ermittlungsanfrage (§ 47 Absatz 1 Nummer 2) oder zur gezielten Kontrolle (§ 47 Absatz 1 Nummer 3) und
 
 4. Verfahren zur Feststellung der Identität von Personen durchführen.
 
@@ -889,9 +903,9 @@ sowie
 
 2. Vermisste, soweit sie nicht in Gewahrsam genommen werden sollen, zur Aufenthaltsermittlung ausschreiben,
 
-3. eine Person ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1) oder gezielten Kontrolle (§ 47 Absatz 1 Nummer 2), wenn Tatsachen die Annahme rechtfertigen, dass die Person Straftaten von erheblicher Bedeutung begehen wird und dies zur Verhütung solcher Straftaten erforderlich ist,
+3. eine Person ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1), zur Ermittlungsanfrage (§ 47 Absatz 1 Nummer 2) oder zur gezielten Kontrolle (§ 47 Absatz 1 Nummer 3), wenn Tatsachen die Annahme rechtfertigen, dass die Person Straftaten von erheblicher Bedeutung begehen wird und dies zur Verhütung solcher Straftaten erforderlich ist,
 
-4. das amtliche Kennzeichen und sonstige Merkmale eines Kraftfahrzeugs oder die Identifizierungsnummer oder äußere Kennzeichnung eines Wasserfahrzeugs, Luftfahrzeugs oder eines Containers ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1) oder gezielten Kontrolle (§ 47 Absatz 1 Nummer 2), wenn Tatsachen die Annahme rechtfertigen, dass dies zur Ingewahrsamnahme nach Nummer 1, zur Aufenthaltsermittlung nach Nummer 2 oder zur Straftatenverhütung nach Nummer 3 erforderlich ist.
+4. Kraftfahrzeuge unabhängig von der Antriebsart, Anhänger mit einem Leergewicht von mehr als 750 Kilogramm, Wohnwagen, Wasserfahrzeuge, Container, Luftfahrzeuge, Schusswaffen, amtliche oder gefälschte Blankodokumente, amtliche oder gefälschte Identitätsdokumente und bargeldlose Zahlungsmittel ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1), Ermittlungsanfrage (§ 47 Absatz 1 Nummer 2) oder gezielten Kontrolle (§ 47 Absatz 1 Nummer 3), wenn Tatsachen die Annahme rechtfertigen, dass dies zur Ingewahrsamnahme nach Nummer 1, zur Aufenthaltsermittlung nach Nummer 2 oder zur Straftatenverhütung nach Nummer 3 erforderlich ist.
 
 (5) Ausschreibungen nach Absatz 1 Nummer 2 und 3 und Absatz 4 Nummer 3, soweit sie aufgrund des Ersuchens eines Staates erfolgen, der nicht Mitgliedstaat der Europäischen Union ist, bedürfen der Anordnung durch das Gericht. Soweit Maßnahmen nach Absatz 1 Nummer 3 und Absatz 4 keiner gerichtlichen Anordnung bedürfen, werden sie durch die zuständige Abteilungsleitung des Bundeskriminalamtes oder deren Vertretung angeordnet. Die Anordnung ist aktenkundig zu machen.
 
@@ -905,9 +919,13 @@ sowie
 
 2. eine Person zur Aufenthaltsermittlung ausschreiben, wenn Tatsachen die Annahme rechtfertigen, dass von ihr eine Gefahr für Leib, Leben, Gesundheit oder wesentliche Vermögenswerte ausgeht, oder
 
-3. eine Person sowie das amtliche Kennzeichen und sonstige Merkmale des von ihr genutzten oder eingesetzten Kraftfahrzeugs oder die Identifizierungsnummer oder äußere Kennzeichnung eines von ihr genutzten Wasserfahrzeugs, Luftfahrzeugs oder eines Containers ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1) oder gezielten Kontrolle (§ 47 Absatz 1 Nummer 2), wenn Tatsachen die Annahme rechtfertigen, dass die Person eine Straftat von erheblicher Bedeutung begehen wird und dies zur Verhütung dieser Straftat erforderlich ist.
+3. eine Person sowie die von ihr genutzten oder eingesetzten Kraftfahrzeuge unabhängig von der Antriebsart, Anhänger mit einem Leergewicht von mehr als 750 Kilogramm, Wohnwagen, Wasserfahrzeuge, Container, Luftfahrzeuge, Schusswaffen, amtliche oder gefälschte Blankodokumente, amtliche oder gefälschte Identitätsdokumente und bargeldlose Zahlungsmittel ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1), zur Ermittlungsanfrage (§ 47 Absatz 1 Nummer 2) oder zur gezielten Kontrolle (§ 47 Absatz 1 Nummer 3), wenn Tatsachen die Annahme rechtfertigen, dass die Person eine Straftat von erheblicher Bedeutung begehen wird und dies zur Verhütung dieser Straftat erforderlich ist.
 
 Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
+
+# § 33a – (zukünftig in Kraft)
+
+# § 33b – (zukünftig in Kraft)
 
 # § 34 – Einsatz technischer Mittel zur Eigensicherung
 
@@ -1173,15 +1191,17 @@ Die Anordnung ist auf höchstens einen Monat zu befristen. Eine Verlängerung um
 
 (8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten kann sie oder er sich der technischen Unterstützung von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen, verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist unverzüglich nachzuholen.
 
-# § 47 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
+# § 47 – Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle
 
-(1) Das Bundeskriminalamt kann personenbezogene Daten, insbesondere die Personalien einer Person und das amtliche Kennzeichen eines von ihr benutzten oder eingesetzten Kraftfahrzeugs oder die Identifizierungsnummer oder äußere Kennzeichnung eines von ihr eingesetzten Wasserfahrzeugs, Luftfahrzeugs oder Containers, in Fahndungssystemen zur polizeilichen Beobachtung oder gezielten Kontrolle speichern, damit andere Polizeibehörden
+(1) Das Bundeskriminalamt kann personenbezogene Daten, insbesondere die Personalien einer Person und die von ihr genutzten oder eingesetzten Kraftfahrzeuge unabhängig von der Antriebsart, Anhänger mit einem Leergewicht von mehr als 750 Kilogramm, Wohnwagen, Wasserfahrzeuge, Container, Luftfahrzeuge, Schusswaffen, amtliche oder gefälschte Blankodokumente, amtliche oder gefälschte Identitätsdokumente und bargeldlose Zahlungsmittel, in den nationalen Fahndungssystemen zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle speichern, damit die Landeskriminalämter und die in § 29 Absatz 3 Nummer 1 bis 7 genannten Behörden
 
-1. Erkenntnisse über Ort und Zeit des Antreffens der Person, etwaiger Begleiter, des Fahrzeugs und seines Führers, mitgeführte Sachen oder des Containers und Umstände des Antreffens bei Gelegenheit einer Überprüfung aus anderem Anlass melden (Ausschreibung zur polizeilichen Beobachtung), oder
+1. Erkenntnisse über Ort und Zeit des Antreffens der Person, etwaiger Begleiter, des Fahrzeugs und seines Führers, mitgeführte Sachen oder die in Satz 1 genannten Sachen sowie unbare Zahlungsmittel und Umstände des Antreffens bei Gelegenheit einer Überprüfung aus anderem Anlass melden (Ausschreibung zur polizeilichen Beobachtung),
 
-2. die Person, etwaige Begleiter, das Fahrzeug und seinen Führer, mitgeführte Sachen oder den Container nach Maßgabe der geltenden Rechtsvorschriften durchsuchen (Ausschreibung zur gezielten Kontrolle).
+2. eine Befragung der Person auf der Grundlage von Informationen oder spezifischen Fragen, die vom Bundeskriminalamt zur Erforschung des Sachverhalts in die Ausschreibung aufgenommen wurden, nach Maßgabe der geltenden Rechtsvorschriften vornehmen (Ausschreibung zur Ermittlungsanfrage) oder
 
-(2) Die Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle nach Absatz 1 ist nur zulässig, wenn
+3. die Person, etwaige Begleiter, das Fahrzeug und seinen Führer, mitgeführte Sachen oder die in Satz 1 genannten Sachen nach Maßgabe der geltenden Rechtsvorschriften durchsuchen (Ausschreibung zur gezielten Kontrolle).
+
+(2) Die Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle nach Absatz 1 ist nur zulässig, wenn
 
 1. die Gesamtwürdigung der Person und ihre bisher begangenen Straftaten erwarten lassen, dass sie künftig Straftaten nach § 5 Absatz 1 Satz 2 begehen wird,
 
@@ -1191,11 +1211,11 @@ Die Anordnung ist auf höchstens einen Monat zu befristen. Eine Verlängerung um
 
 und dies zur Verhütung der Straftaten erforderlich ist.
 
-(3) Die Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle darf nur durch die zuständige Abteilungsleitung oder deren Vertretung angeordnet werden. Die Anordnung ist unter Angabe der maßgeblichen Gründe zu dokumentieren.
+(3) Die Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle darf nur durch die zuständige Abteilungsleitung oder deren Vertretung angeordnet werden. Die Anordnung ist unter Angabe der maßgeblichen Gründe zu dokumentieren.
 
 (4) Die Anordnung ist auf höchstens ein Jahr zu befristen. Spätestens nach Ablauf von sechs Monaten ist zu prüfen, ob die Voraussetzungen für die Anordnung noch bestehen. Das Ergebnis dieser Prüfung ist zu dokumentieren. Die Verlängerung der Laufzeit über insgesamt ein Jahr hinaus bedarf der gerichtlichen Anordnung.
 
-(5) Liegen die Voraussetzungen für die Anordnung nicht mehr vor, ist der Zweck der Maßnahme erreicht oder zeigt sich, dass er nicht erreicht werden kann, ist die Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle unverzüglich zu löschen.
+(5) Liegen die Voraussetzungen für die Anordnung nicht mehr vor, ist der Zweck der Maßnahme erreicht oder zeigt sich, dass er nicht erreicht werden kann, ist die Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle unverzüglich zu löschen.
 
 (+++ § 47 Abs. 3 bis 5: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
@@ -1745,9 +1765,9 @@ dürfen nur auf Antrag der Leitung der für den Personenschutz zuständigen Abte
 
 (+++ § 64: Zur Anwendung vgl. § 66 Abs. 1 +++)
 
-# § 65 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
+# § 65 – Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle
 
-(1) Das Bundeskriminalamt kann eine Ausschreibung zur polizeilichen Beobachtung oder eine Ausschreibung zur gezielten Kontrolle vornehmen, wenn
+(1) Das Bundeskriminalamt kann eine Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle vornehmen, wenn
 
 1. die Gesamtwürdigung der Person und ihre bisher begangenen Straftaten erwarten lassen, dass sie künftig Straftaten, durch die die zu schützenden Personen unmittelbar gefährdet sind, begehen wird,
 
@@ -1879,13 +1899,13 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 
 # § 76 – Nachträgliche Benachrichtigung über Ausschreibungen zur polizeilichen Beobachtung im Schengener Informationssystem
 
-(1) Ist eine Ausschreibung zur polizeilichen Beobachtung nach Artikel 36 Absatz 1 des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) durch eine Stelle der Bundesrepublik Deutschland in das Schengener Informationssystem eingegeben worden, hat das Bundeskriminalamt im Einvernehmen mit der Stelle, die die Ausschreibung veranlasst hat, die betroffene Person nach Beendigung der Ausschreibung über diese Ausschreibung zu benachrichtigen, soweit die Benachrichtigung nicht aufgrund anderer besonderer gesetzlicher Bestimmungen vorgesehen ist.
+(1) Ist eine Ausschreibung zur polizeilichen Beobachtung nach Artikel 36 Absatz 1 der Verordnung (EU) 2018/1862 durch eine Bundes- oder Landesbehörde in das Schengener Informationssystem eingegeben worden, hat die Behörde, die die Ausschreibung veranlasst hat, die betroffene Person nach Beendigung der Ausschreibung über die Ausschreibung zu benachrichtigen.
 
-(2) Die Benachrichtigung unterbleibt, solange dadurch die Durchführung einer rechtmäßigen Aufgabe im Zusammenhang mit der Ausschreibung gefährdet würde. Die Stelle, die die Ausschreibung veranlasst hat, unterrichtet das Bundeskriminalamt über die Löschung und darüber, ob die betroffene Person benachrichtigt werden kann.
+(2) Die Benachrichtigung unterbleibt, solange dadurch die Durchführung einer rechtmäßigen Aufgabe im Zusammenhang mit der Ausschreibung gefährdet würde. Die Stelle, die die Ausschreibung veranlasst hat, unterrichtet das Bundeskriminalamt über die Löschung und darüber, ob die betroffene Person benachrichtigt wurde.
 
 (3) Erfolgt die nach Absatz 2 Satz 1 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Ausschreibung, bedürfen weitere Zurückstellungen auf Antrag der Stelle, die die Ausschreibung veranlasst hat, der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer weiterer Zurückstellungen. Fünf Jahre nach Beendigung der Ausschreibung kann es dem endgültigen Absehen von der Benachrichtigung zustimmen, wenn die Voraussetzungen für eine Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Die Zuständigkeit des Gerichts bestimmt sich nach dem jeweils für die Stelle, die die Ausschreibung veranlasst hat, geltenden Bundes- oder Landesrecht. Ist insoweit keine Regelung getroffen, ist das Amtsgericht zuständig, in dessen Bezirk die Stelle, die die Ausschreibung veranlasst hat, ihren Sitz hat. In diesem Fall gelten für das Verfahren die Bestimmungen des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
-(4) Im Falle einer Ausschreibung nach § 17 Absatz 3 des Bundesverfassungsschutzgesetzes erfolgt die Benachrichtigung abweichend von Absatz 1 durch die Stelle, die die Ausschreibung veranlasst hat, nach Beendigung der Ausschreibung, sobald eine Gefährdung des Zwecks der Ausschreibung ausgeschlossen werden kann.
+(4) Im Falle einer Ausschreibung nach § 17 Absatz 3 des Bundesverfassungsschutzgesetzes erfolgt die Benachrichtigung abweichend von Absatz 2 und 3 durch die Stelle, die die Ausschreibung veranlasst hat, nach Beendigung der Ausschreibung, sobald eine Gefährdung des Zwecks der Ausschreibung ausgeschlossen werden kann.
 
 # § 77 – Aussonderungsprüffrist; Mitteilung von Löschungsverpflichtungen
 
@@ -2058,7 +2078,7 @@ Bei einer Verletzung des Schutzes personenbezogener Daten sind die teilnehmenden
 
 (1) Über die in den §§ 57 und 58 des Bundesdatenschutzgesetzes enthaltenen Rechte der betroffenen Person hinaus gilt für die Verarbeitung im polizeilichen Informationsverbund die Besonderheit, dass bei Daten, die im polizeilichen Informationsverbund verarbeitet werden, das Bundeskriminalamt die Auskunft nach § 57 des Bundesdatenschutzgesetzes im Einvernehmen mit der Stelle, die die datenschutzrechtliche Verantwortung nach § 31 Absatz 2 trägt, erteilt. Erteilt ein Landeskriminalamt Auskunft aus seinem Landessystem, kann es hiermit einen Hinweis auf einen vom Land in den polizeilichen Informationsverbund eingegebenen Datensatz verbinden. Bei der Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten findet Satz 1 entsprechende Anwendung bei Daten, die im polizeilichen Informationsverbund verarbeitet werden.
 
-(2) Bei Ausschreibungen zur polizeilichen Beobachtung durch ausländische Stellen nach Artikel 36 Absatz 1 des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) hat das Bundeskriminalamt eine Auskunft, die nach Artikel 58 Absatz 3 und 4 des Beschlusses 2007/533/JI unterblieben ist, nachträglich zu erteilen, wenn die der Auskunftserteilung entgegenstehenden Umstände entfallen sind. Es hat dies im Zusammenwirken mit der Stelle, die die Ausschreibung veranlasst hat, spätestens zum vorgesehenen Zeitpunkt der Löschung im nationalen Teil des Schengener Informationssystems zu prüfen.
+(2) Bei Ausschreibungen zur polizeilichen Beobachtung durch ausländische Stellen nach Artikel 36 Absatz 1 der Verordnung (EU) 2018/1862 hat das Bundeskriminalamt eine Auskunft, die nach Artikel 67 Absatz 2 und 3 der Verordnung (EU) 2018/1862 unterblieben ist, nachträglich zu erteilen, wenn die der Auskunftserteilung entgegenstehenden Umstände entfallen sind. Es hat dies im Zusammenwirken mit der Stelle, die die Ausschreibung veranlasst hat, spätestens zum vorgesehenen Zeitpunkt der Löschung im nationalen Teil des Schengener Informationssystems zu prüfen.
 
 (+++ § 84 Abs. 1 Satz 1 u. 2: Zur Anwendung vgl. § 17 Abs. 3 +++)
 

@@ -7,19 +7,23 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 1 – Errichtung, Zweck, Sitz
 
-(1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts (Bundesanstalt) errichtet. Sie trägt die Bezeichnung "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben" (Bundesanstalt für den Digitalfunk der BOS - BDBOS). Der Zweck der Bundesanstalt ist insbesondere der Aufbau und der Betrieb eines bundesweit einheitlichen digitalen Sprech- und Datenfunksystems für Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) in der Bundesrepublik Deutschland. Weiterer Zweck ist die Wahrnehmung der Aufgaben nach § 2 Absatz 1 Satz 2, soweit diese ihr hiernach übertragen worden sind.
+(1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts (Bundesanstalt) errichtet. Sie trägt die Bezeichnung "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben" (Bundesanstalt für den Digitalfunk der BOS - BDBOS). Der Zweck der Bundesanstalt ist insbesondere der Aufbau und der Betrieb eines bundesweit einheitlichen digitalen Sprech- und Datenfunksystems für Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) in der Bundesrepublik Deutschland. Weiterer Zweck ist die Wahrnehmung der Aufgaben nach § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1.
 
 (2) Die Bundesanstalt hat ihren Sitz in Berlin.
 
-# § 2 – Aufgaben
+# § 2 – Aufgaben; Rechtsverordnungsermächtigung
 
-(1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) aufzubauen, zu betreiben und seine Funktionsfähigkeit sicherzustellen. Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung, Aufbau, Betrieb und Sicherstellung der Funktionsfähigkeit weiterer staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben, die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung, Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen Kommunikationsinfrastrukturen ergeben, übertragen. Die Bundesanstalt nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der Digitalfunk BOS soll den Behörden und Organisationen mit Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie der Bundeswehr und, nach Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und Organisationen mit Sicherheitsaufgaben in den Ländern. Die Richtlinie nach § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes legt die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben fest.
+(1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) aufzubauen, zu betreiben, weiterzuentwickeln und seine Funktionsfähigkeit sicherzustellen. Die Bundesanstalt nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der Digitalfunk BOS soll den Behörden und Organisationen mit Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie der Bundeswehr und, nach Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und Organisationen mit Sicherheitsaufgaben in den Ländern. Die Richtlinie nach § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes legt die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben fest.
 
-(2) Die Bundesanstalt ist nach Maßgabe des Verwaltungsabkommens nach § 7 gemeinsame Vergabestelle des Bundes und der Länder für den Digitalfunk BOS.
+(2) Die Bundesanstalt hat die Aufgaben, die Kommunikationsinfrastruktur der Netze des Bundes aufzubauen, zu betreiben, weiterzuentwickeln und deren Funktionsfähigkeit sicherzustellen. Das Bundesministerium des Innern und für Heimat kann durch Rechtsverordnung im Benehmen mit den übrigen Bundesministerien ohne Zustimmung des Bundesrates die Zugangsberechtigung für die Nutzung der Netze des Bundes regeln.
 
-(3) Die Bundesanstalt kann Unternehmen mit dem Aufbau und dem Betrieb des Digitalfunk BOS betrauen.
+(3) Das Bundesministerium des Innern und für Heimat kann im Einvernehmen mit dem Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung, Aufbau, Betrieb, Sicherstellung der Funktionsfähigkeit und Weiterentwicklung weiterer staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben, die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung, Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen Kommunikationsinfrastrukturen ergeben, übertragen. Mit der Übertragung von Aufgaben ist deren Finanzierung zu regeln.
 
-(4) Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Beschränkung der Haftung von beauftragten Unternehmen gegenüber Dritten aufgrund der Beeinträchtigung der Dienstgüte des Digitalfunk BOS treffen.
+(4) Die Bundesanstalt ist nach Maßgabe des Verwaltungsabkommens nach § 7 gemeinsame Vergabestelle des Bundes und der Länder für den Digitalfunk BOS.
+
+(5) Die Bundesanstalt kann Unternehmen mit dem Aufbau und dem Betrieb des Digitalfunk BOS betrauen.
+
+(6) Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Beschränkung der Haftung von beauftragten Unternehmen gegenüber Dritten aufgrund der Beeinträchtigung der Dienstgüte des Digitalfunk BOS treffen.
 
 # § 2a – Begriffsbestimmungen
 
@@ -43,6 +47,8 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Nutzer des Digitalfunks BOS sind die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben nach § 2 Absatz 1 Satz 5 in Verbindung mit § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes sowie die Bundeswehr.
 
+(4) Bereitstellungsdienstleistung im Sinne dieses Gesetzes für Zwecke von Aufgaben nach § 2 Absatz 1 ist die entgeltliche oder unentgeltliche Einräumung von Nutzungsrechten an Standorten für Basisstationen, Übertragungsstrecken und Netzelemente wie beispielsweise Konzentratoren sowie in diesem Zusammenhang notwendige Dienstleistungen.
+
 # § 3 – Organe
 
 (1) Organe der Bundesanstalt sind die Präsidentin oder der Präsident und der Verwaltungsrat.
@@ -65,7 +71,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 5 – Verwaltungsrat
 
-(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht insoweit die Geschäftsführung durch die Präsidentin oder den Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer oder seiner Aufgaben. Ihm obliegt die Entscheidung über die grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei der Übertragung von Aufgaben im Sinne von § 2 Absatz 1 Satz 2. Näheres regelt die Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
+(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht insoweit die Geschäftsführung durch die Präsidentin oder den Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer oder seiner Aufgaben. Ihm obliegt die Entscheidung über die grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei Aufgaben im Sinne von § 2 Absatz 2 Satz 1 und Absatz 3. Näheres regelt die Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
 
 (2) Der Verwaltungsrat gibt sich eine Geschäftsordnung.
 
@@ -109,7 +115,9 @@ Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des Innern, fü
 
 # § 9 – Zweckvermögen, Finanzierung
 
-Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet die Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren Aufwand für die ihr nach § 2 Absatz 1 Satz 1 übertragenen Aufgaben anteilig durch Mittel von Bund und Ländern. Die Einzelheiten regelt das Verwaltungsabkommen nach § 7. Im Fall einer Aufgabenübertragung nach § 2 Absatz 1 Satz 2 erfolgt die Finanzierung nach der Verwaltungszuständigkeit.
+(1) Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet die Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren Aufwand für die ihr nach § 2 Absatz 1 Satz 1 übertragenen Aufgaben anteilig durch Mittel von Bund und Ländern. Die Einzelheiten regelt das Verwaltungsabkommen nach § 7.
+
+(2) Bereitstellungsleistungen des Bundes und der Länder dürfen ausschließlich gegenüber dem Bund, den Ländern oder anderen juristischen Personen des öffentlichen Rechts erbracht werden. Eine Erbringung von Bereitstellungsleistungen durch private Unternehmer ist ausgeschlossen. Die Einzelheiten der Bereitstellungsleistungen regelt das Verwaltungsabkommen nach § 7.
 
 # § 10 – Wirtschaftsplan, mittelfristige Planung
 
@@ -127,9 +135,9 @@ eine Übersicht über die Planstellen und Stellen sowie
 \-  
 eine Überleitungsrechnung auf Einnahmen und Ausgaben
 
-umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben gemäß § 2 Absatz 1 Satz 1 und 2 jeweils gesondert aus. Zusammen mit dem Wirtschaftsplan stellt die Präsidentin oder der Präsident eine mittelfristige Planung (Erfolgs-, Investitions- und Finanzierungsvorschau) auf, die das Planjahr und mindestens drei darauf folgende Geschäftsjahre umfasst. Geschäftsjahr ist das Kalenderjahr. Die näheren Einzelheiten regelt die Satzung.
+umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben gemäß § 2 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 jeweils gesondert aus. Zusammen mit dem Wirtschaftsplan stellt die Präsidentin oder der Präsident eine mittelfristige Planung (Erfolgs-, Investitions- und Finanzierungsvorschau) auf, die das Planjahr und mindestens drei darauf folgende Geschäftsjahre umfasst. Geschäftsjahr ist das Kalenderjahr. Die näheren Einzelheiten regelt die Satzung.
 
-(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem Bundesministerium des Innern, für Bau und Heimat den Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom Verwaltungsrat und vom Bundesministerium des Innern, für Bau und Heimat für übertragene Aufgaben gemäß § 2 Absatz 1 Satz 2 festgestellt. Er bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen.
+(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem Bundesministerium des Innern, für Bau und Heimat den Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom Verwaltungsrat und vom Bundesministerium des Innern, für Bau und Heimat für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 festgestellt. Er bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 # § 11 – Buchführung, Jahresabschluss
 
@@ -137,7 +145,7 @@ umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben 
 
 (2) Die Präsidentin oder der Präsident der Bundesanstalt stellt nach Abschluss des Geschäftsjahres einen Jahresabschluss und einen Lagebericht nach handelsrechtlichen Grundsätzen für große Kapitalgesellschaften auf und legt diese zur Abschlussprüfung vor.
 
-(3) Für Aufgaben gemäß § 2 Absatz 1 Satz 1 stellt der Verwaltungsrat den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten nach § 109 Absatz 3 Satz 2 der Bundeshaushaltsordnung. Das Bundesministerium des Innern, für Bau und Heimat stellt für übertragene Aufgaben gemäß § 2 Absatz 1 Satz 2 den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten im Einvernehmen mit dem Bundesministerium der Finanzen.
+(3) Für Aufgaben gemäß § 2 Absatz 1 Satz 1 stellt der Verwaltungsrat den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten nach § 109 Absatz 3 Satz 2 der Bundeshaushaltsordnung. Das Bundesministerium des Innern, für Bau und Heimat stellt für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 (4) Näheres regelt die Satzung. § 109 Abs. 2 Satz 3 und 4 der Bundeshaushaltsordnung ist anzuwenden.
 
@@ -321,7 +329,7 @@ Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden zu Zwecke
 
 # § 24 – Pflicht zur Abgabe eines Angebots für die Bereitstellung von Telekommunikationsleistungen
 
-(1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren Verlangen hin unverzüglich, spätestens aber drei Monate nach Zugang des Angebotsverlangens, ein Angebot zur Erfüllung der Aufgaben der Bundesanstalt nach § 2 Absatz 1 für die Bereitstellung von Telekommunikationsleistungen zu unterbreiten. Für die Bestimmung der Preise gilt die Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. 1953 Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, in der jeweils geltenden Fassung mit der Maßgabe, dass die Preise vorrangig auf Grundlage marktüblicher Konditionen zu kalkulieren sind. Scheidet eine Kalkulation auf Grundlage marktüblicher Konditionen aufgrund der Besonderheiten des Einzelfalls aus, sind die Selbstkostenpreise des Telekommunikationsunternehmens gemäß der Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen in der jeweils geltenden Fassung maßgeblich.
+(1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren Verlangen hin unverzüglich, spätestens aber drei Monate nach Zugang des Angebotsverlangens, ein Angebot zur Erfüllung der Aufgaben der Bundesanstalt nach § 2 Absatz 1 bis 3 für die Bereitstellung von Telekommunikationsleistungen zu unterbreiten. Für die Bestimmung der Preise gilt die Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. 1953 Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, in der jeweils geltenden Fassung mit der Maßgabe, dass die Preise vorrangig auf Grundlage marktüblicher Konditionen zu kalkulieren sind. Scheidet eine Kalkulation auf Grundlage marktüblicher Konditionen aufgrund der Besonderheiten des Einzelfalls aus, sind die Selbstkostenpreise des Telekommunikationsunternehmens gemäß der Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen in der jeweils geltenden Fassung maßgeblich.
 
 (2) Die Bundesanstalt darf von einem Telekommunikationsunternehmen ein Angebot nach Absatz 1 nur verlangen, wenn
 

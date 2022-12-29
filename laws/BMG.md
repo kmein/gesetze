@@ -806,9 +806,11 @@ Den in Absatz 4 Satz 1 genannten Behörden darf die Meldebehörde darüber hinau
 
 10. Hauptzollämter,
 
-11. Finanzbehörden, soweit sie strafverfolgend tätig sind, oder
+11. Finanzbehörden, soweit sie strafverfolgend tätig sind,
 
-12. Bundesamt für Justiz, soweit es Aufgaben der Vollstreckungshilfe nach dem Rahmenbeschluss 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen (ABl. L 76 vom 22.3.2005, S. 16), der durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, sowie Aufgaben des Strafnachrichtenaustausches nach dem Rahmenbeschluss 2009/315/JI des Rates vom 26. Februar 2009 über die Durchführung und den Inhalt des Austauschs von Informationen aus dem Strafregister zwischen den Mitgliedstaaten (ABl. L 93 vom 7.4.2009, S. 23) wahrnimmt.
+12. Zentralstelle für Sanktionsdurchsetzung oder
+
+13. Bundesamt für Justiz, soweit es Aufgaben der Vollstreckungshilfe nach dem Rahmenbeschluss 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen (ABl. L 76 vom 22.3.2005, S. 16), der durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, sowie Aufgaben des Strafnachrichtenaustausches nach dem Rahmenbeschluss 2009/315/JI des Rates vom 26. Februar 2009 über die Durchführung und den Inhalt des Austauschs von Informationen aus dem Strafregister zwischen den Mitgliedstaaten (ABl. L 93 vom 7.4.2009, S. 23) wahrnimmt.
 
 Die ersuchende Behörde hat den Namen und die Anschrift der betroffenen Person unter Hinweis auf den Anlass der Übermittlung aufzuzeichnen. Diese Aufzeichnungen sind aufzubewahren, durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern und nach Ablauf des Kalenderjahres, das dem Jahr der Erstellung der Aufzeichnung folgt, zu vernichten. Satz 3 gilt nicht, wenn die Daten nach Satz 2 Bestandteil von Akten oder Dateisystemen geworden sind.
 

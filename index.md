@@ -4825,6 +4825,7 @@
 - [SanDVergV](laws/SanDVergV.md) Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
 - [SanG](laws/SanG.md) Sanierungshilfengesetz
 - [SanInsKG](laws/SanInsKG.md) Gesetz zur vorübergehenden Anpassung sanierungs- und insolvenzrechtlicher Vorschriften zur Abmilderung von Krisenfolgen
+- [SanktDG](laws/SanktDG.md) Gesetz zur Durchsetzung von wirtschaftlichen Sanktionsmaßnahmen
 - [SanOAAusbGV](laws/SanOAAusbGV.md) Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und -Anwärter
 - [SaRegG](laws/SaRegG.md) Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen
 - [SARSCoV2AMVV](laws/SARSCoV2AMVV.md) Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie
@@ -5087,7 +5088,6 @@
 - [SignBenennV](laws/SignBenennV.md) Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 - [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
-- [SISIIG](laws/SISIIG.md) Gesetz zum Schengener Informationssystem der zweiten Generation *)
 - [SKAG Berlin](laws/SKAG_Berlin.md) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
 - [SkAufG](laws/SkAufG.md) Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland
 - [SkAufV AUT](laws/SkAufV_AUT.md) Verordnung zu dem Abkommen vom 6. November 2007 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über den vorübergehenden Aufenthalt von Angehörigen der deutschen Bundeswehr und Angehörigen des österreichischen Bundesheeres auf dem Gebiet des jeweils anderen Staats

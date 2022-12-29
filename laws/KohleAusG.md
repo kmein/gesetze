@@ -13,9 +13,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 # Art 10 – Beihilferechtlicher Vorbehalt
 
-Die Regelungen zur Zuschlagserteilung und Entstehung des Anspruchs auf den Steinkohlezuschlag in der Steinkohleausschreibung nach Artikel 1 § 18 Absatz 8, § 20 Absatz 1, §§ 21 und 23, die Regelungen zur Entschädigung für die Stilllegung von Braunkohleanlagen nach Artikel 1 §§ 44 und 45 und die Änderungen des Kraft-Wärme-Kopplungsgesetzes durch Artikel 7 dürfen erst angewendet werden, wenn und soweit eine beihilferechtliche Genehmigung durch die Europäische Kommission vorliegt oder wenn und soweit die Europäische Kommission mitgeteilt hat, dass die beihilferechtliche Prüfung auf andere Weise zum Abschluss gebracht werden kann. Im Fall einer Genehmigung nach Satz 1 dürfen die in Satz 1 genannten Regelungen nur nach Maßgabe und für die Dauer der jeweiligen Genehmigung angewendet werden. Das Bundesministerium für Wirtschaft und Energie macht den Tag der Bekanntgabe der beihilferechtlichen Genehmigung jeweils im Bundesanzeiger bekannt.
-
- 
+Die Regelungen zur Entschädigung für die Stilllegung von Braunkohleanlagen nach den §§ 44 und 45 des Kohleverstromungsbeendigungsgesetzes vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2022 (BGBl. I S. 2479) geändert worden ist, sowie die Regelungen zur Vergütung der Zeitlich gestreckten Stilllegung nach § 50 Absatz 1 Satz 2 des Kohleverstromungsbeendigungsgesetzes dürfen erst angewendet werden, wenn und soweit eine beihilferechtliche Genehmigung durch die Europäische Kommission vorliegt oder wenn und soweit die Europäische Kommission mitgeteilt hat, dass die beihilferechtliche Prüfung auf andere Weise zum Abschluss gebracht werden kann. Im Fall einer Genehmigung nach Satz 1 dürfen die in Satz 1 genannten Regelungen nur nach Maßgabe und für die Dauer der jeweiligen Genehmigung angewendet werden. Das Bundesministerium für Wirtschaft und Energie macht den Tag der Bekanntgabe der beihilferechtlichen Genehmigung jeweils im Bundesanzeiger bekannt.
 
 # Art 11 – Inkrafttreten
 

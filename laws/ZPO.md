@@ -5957,7 +5957,8 @@ Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskost
 
 (+++ Hinweis: Zur Höhe der nach § 115 Abs. 1 Satz 3 Nr. 1 Buchst. b und Nr. 2 sowie Satz 5 maßgebenden Beträge  
 ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021)  
-ab dem 1.1.2022 vgl. Bek. v. 17.12.2021 I 5239 (PKHB 2022) +++)
+ab dem 1.1.2022 vgl. Bek. v. 17.12.2021 I 5239 (PKHB 2022)  
+ab dem 1.1.2023 vgl. Bek. v. 22.12.2022 I 2843 (PKHB 2023) +++)
 
 # § 116 – Partei kraft Amtes; juristische Person; parteifähige Vereinigung
 
