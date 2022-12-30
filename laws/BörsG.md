@@ -197,13 +197,21 @@ Pflichten des Skontroführers
 
 Verteilung der Skontren
 
+ 
+
+Abschnitt 3a
+
+Unzuverlässigkeit von sanktionierten Personen
+
+ 
+
 § 30
 
-Vorhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
+Unzuverlässigkeit von sanktionierten Personen
 
 § 31
 
-Nachhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
+(weggefallen)
 
  
 
@@ -979,7 +987,9 @@ Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung von Dat
 
 Über die Verteilung der Skontren unter den für die Skontroführung geeigneten Antragstellern nach § 27 Abs. 1 Satz 2 und die Anzahl der Skontroführer entscheidet die Geschäftsführung. Die Zuteilung von Skontren kann befristet erfolgen. Das Nähere regelt die Börsenordnung. Die Börsenordnung kann als Kriterien für die Zuteilung der Skontren insbesondere die fachliche und wirtschaftliche Leistungsfähigkeit des Antragstellers vorsehen.
 
-# § 30 – (weggefallen)
+# § 30 – Unzuverlässigkeit von sanktionierten Personen
+
+Soweit nach den Abschnitten 1 und 3 die Zuverlässigkeit einer natürlichen oder juristischen Person oder einer Personengesellschaft erforderlich ist, gilt eine natürliche oder juristische Person oder eine Personengesellschaft als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 Halbsatz 2 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Unternehmen wahrnimmt, das nicht unter Satz 1 fällt.
 
 # § 31 – (weggefallen)
 
