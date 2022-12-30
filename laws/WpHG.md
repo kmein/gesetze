@@ -399,6 +399,10 @@ Nähere Bestimmungen enthält Artikel 3 der Delegierten Verordnung (EU) 2017/565
 
 (49) PRIIP im Sinne dieses Gesetzes ist ein Produkt im Sinne des Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014.
 
+# § 2a – Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1 fällt.
+
 # § 3 – Ausnahmen; Verordnungsermächtigung
 
 (1) Als Wertpapierdienstleistungsunternehmen gelten nicht
