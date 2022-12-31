@@ -115,7 +115,7 @@ c) durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen aus
 
 oder glaubhaft macht, dass er sich von der früheren Verfolgung oder Unterstützung derartiger Bestrebungen abgewandt hat,
 
-2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
+2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 und § 104c des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 3. den Lebensunterhalt für sich und seine unterhaltsberechtigten Familienangehörigen ohne Inanspruchnahme von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch bestreiten kann oder deren Inanspruchnahme nicht zu vertreten hat,
 

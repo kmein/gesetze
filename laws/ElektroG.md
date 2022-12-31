@@ -1101,7 +1101,7 @@ Soweit sich die nach diesem Gesetz Verpflichteten zur Erfüllung ihrer Pflichten
 
 (1) Abweichend von § 6 Absatz 1 Satz 3 haben Hersteller, die vor dem 1. Januar 2022 bereits registriert sind, bis zum Ablauf des 30. Juni 2022 der zuständigen Behörde ein Rücknahmekonzept vorzulegen.
 
-(2) § 6 Absatz 2 Nummer 2 und 3 gilt erst ab dem 1. Januar 2023.
+(2) § 6 Absatz 2 Satz 2 Nummer 2 und 3 gilt erst ab dem 1. Juli 2023.
 
 (3) Abweichend von § 8 Absatz 3 Satz 4 ist eine Zulassung des Bevollmächtigten nach § 37 Absatz 7 erst ab dem 1. Januar 2023 erforderlich.
 
@@ -1301,11 +1301,7 @@ HDMI-, Audio- und Videokabel
 
 Schmelzsicherungen
 
-Bekleidung mit elektrischen Funktionen
-
 elektrische Zigaretten
-
-elektronische Antriebe für Möbel
 
 Bekleidung mit elektrischen Funktionen (z.B. Heiz-, Massage- oder Leuchtfunktionen)
 
