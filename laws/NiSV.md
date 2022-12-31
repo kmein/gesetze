@@ -105,11 +105,23 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (4) Der Betreiber einer Anlage hat der zuständigen Behörde auf Verlangen nachzuweisen, dass die Anforderungen an den Betrieb der Anlage und die Anforderungen an die Dokumentation der Anwendungen und der Aufklärungsgespräche erfüllt sind.
 
-(+++ § 3 Abs. 3 Satz 3 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
+# § 4 – Fachkunde
 
-# § 4 – (zukünftig in Kraft)
+(1) Der Betreiber einer Anlage muss sicherstellen, dass die Person, die die Anlage anwendet, über die erforderliche Fachkunde nach den §§ 5, 6, 7, 8, 9 oder 11 verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Anwendung. Die Fachkunde soll dazu befähigen, das Behandlungsverfahren sicher anzuwenden, mit der Anwendung verbundene Risiken zu vermeiden und unvermeidliche Risiken sachgerecht zu minimieren.
 
-(+++ § 4: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
+(2) Die Fachkunde umfasst theoretische Kenntnisse und praktische Erfahrungen. Sie umfasst insbesondere Kenntnisse
+
+1. der physikalischen Eigenschaften der von der Anlage ausgehenden nichtionisierenden Strahlung,
+
+2. der biologischen Wirkungen und der Risiken dieser Strahlung,
+
+3. des Ausmaßes der Exposition,
+
+4. des technischen Aufbaus der verwendeten Anlage und der einzuhaltenden Anwendungsregeln und
+
+5. in Anatomie und Physiologie des Menschen sowie der Kriterien, die eine Behandlung ausschließen.
+
+(3) Die Fachkunde kann durch die erfolgreiche Teilnahme an einer geeigneten Schulung oder durch eine geeignete Aus- oder Weiterbildung erworben werden. Sie ist auf dem aktuellen Stand zu halten. Hierzu ist mindestens alle fünf Jahre eine Teilnahme an Fortbildungen erforderlich. Eine entsprechende Schulung, Ausbildung oder Fortbildung kann auch in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erfolgen. Aus den Inhalten muss sich ergeben, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen dieser Bestimmung erfüllt sind.
 
 # § 5 – Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
 
@@ -117,19 +129,23 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (2) Ablative Laseranwendungen oder Anwendungen, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, die Behandlung von Gefäßveränderungen und von pigmentierten Hautveränderungen, die Entfernung von Tätowierungen oder Permanent-Make-up sowie Anwendungen mit optischer Strahlung, deren Auswirkungen nicht auf die Haut und ihre Anhangsgebilde beschränkt sind, wie die Fettgewebereduktion, dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender ärztlicher Weiterbildung oder Fortbildung durchgeführt werden.
 
-(+++ § 5 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
-
 # § 6 – Fachkunde zur Anwendung von Hochfrequenzgeräten
 
 (1) Die erforderliche Fachkunde zur Anwendung von Hochfrequenzgeräten wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil B und Teil D oder von approbierten Ärztinnen und Ärzten durch entsprechende ärztliche Weiterbildung oder Fortbildung erworben.
 
 (2) Hochfrequenzanwendungen, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, sowie Hochfrequenzanwendungen, die der thermischen Fettgewebereduktion oder der Behandlung von Gefäßveränderungen oder von pigmentierten Hautveränderungen dienen, dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender ärztlicher Weiterbildung oder Fortbildung durchgeführt werden.
 
-(+++ § 6 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
+# § 7 – Fachkunde zur Anwendung von Anlagen zur elektrischen Nerven- und Muskelstimulation und zur Magnetfeldstimulation
 
-# § 7 – (zukünftig in Kraft)
+(1) Die erforderliche Fachkunde zur Anwendung von Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen Nervenstimulation oder zur Muskelstimulation oder zur Magnetfeldstimulation wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil E erworben.
 
-(+++ § 7: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
+(2) Die erforderliche Fachkunde zur Anwendung von Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen Nervenstimulation kann darüberhinaus wie folgt erworben werden:
+
+1. bei approbierten Ärztinnen und Ärzten durch den Nachweis entsprechender fachlicher Kenntnisse gemäß ärztlicher Weiterbildung oder Fortbildung oder
+
+2. durch eine Ausbildung nach dem Gesetz über die Berufe in der Physiotherapie.
+
+(3) Die erforderliche Fachkunde zur Anwendung von Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur elektrischen Muskelstimulation kann darüberhinaus durch eine Ausbildung nach dem Gesetz über die Berufe in der Physiotherapie erworben werden.
 
 # § 8 – Stimulation des Zentralen Nervensystems
 
@@ -140,8 +156,6 @@ Anlagen zur Stimulation des zentralen Nervensystems am Menschen dürfen nur von 
 (1) Die erforderliche Fachkunde zur Anwendung von Ultraschallgeräten wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil B und Teil F oder durch die Approbation als Ärztin oder als Arzt erworben.
 
 (2) Ultraschallanwendungen, insbesondere Anwendungen von fokussiertem Ultraschall, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, sowie Ultraschallanwendungen, die der gezielten thermischen Gewebekoagulation oder der Fettgewebereduktion dienen, dürfen nur von einer approbierten Ärztin oder einem approbierten Arzt durchgeführt werden.
-
-(+++ § 9 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 idF d. Art. 1 V v. 8.10.2021 I 4646 am 31.12.2022 in Kraft +++)
 
 # § 10 – Anwendung von Ultraschall an einer schwangeren Person
 

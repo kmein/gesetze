@@ -1285,7 +1285,7 @@ zu übermitteln. Die in
 
 2. Artikel 18 Absatz 3 Satz 2 der Verordnung (EG) Nr. 178/2002, auch in Verbindung mit Artikel 5 Absatz 1 der Verordnung (EG) Nr. 767/2009,
 
-genannten Informationen sind so vorzuhalten, dass sie der zuständigen Behörde spätestens 24 Stunden nach Aufforderung elektronisch übermittelt werden können. Die zuständige Behörde kann im Einzelfall Ausnahmen von den Anforderungen des Satzes 2 zulassen, soweit dies zur Vermeidung unbilliger Härten für den Lebensmittel- oder Futtermittelunternehmer geboten erscheint und es mit den in § 1 Absatz 1 Nummer 1 genannten Zwecken vereinbar ist.
+genannten Informationen sind so vorzuhalten, dass sie der zuständigen Behörde spätestens 24 Stunden nach Aufforderung in einem strukturierten, gängigen und maschinenlesbaren Format elektronisch übermittelt werden können. Die zuständige Behörde kann im Einzelfall Ausnahmen von den Anforderungen des Satzes 2 zulassen, soweit dies zur Vermeidung unbilliger Härten für den Lebensmittel- oder Futtermittelunternehmer geboten erscheint und es mit den in § 1 Absatz 1 Nummer 1 genannten Zwecken vereinbar ist.
 
 (4) Ergänzend zu Artikel 19 Absatz 1 Satz 1 der Verordnung (EG) Nr. 178/2002 hat ein Lebensmittelunternehmer, der Grund zu der Annahme hat, dass
 
