@@ -520,7 +520,7 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 4. Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
-4a. Planfeststellungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
+4a. Planfeststellungs- oder Plangenehmigungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 66 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
 5. Verfahren für die Errichtung, den Betrieb und die wesentliche Änderung von ortsfesten Anlagen zur Verbrennung oder thermischen Zersetzung von Abfällen mit einer jährlichen Durchsatzleistung (effektive Leistung) von mehr als einhunderttausend Tonnen und von ortsfesten Anlagen, in denen ganz oder teilweise Abfälle im Sinne des § 48 des Kreislaufwirtschaftsgesetzes gelagert oder abgelagert werden,
 
@@ -592,7 +592,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 5. über Klagen gegen Maßnahmen und Entscheidungen nach § 12 Absatz 3a des Abgeordnetengesetzes, nach den Vorschriften des Elften Abschnitts des Abgeordnetengesetzes, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
-6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 54a Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
+6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
 
 (2) In Verfahren nach Absatz 1 Nummer 6 ist § 48 Absatz 3 entsprechend anzuwenden.
 
@@ -772,7 +772,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 2. die nach bürgerlichem Recht in der Geschäftsfähigkeit Beschränkten, soweit sie durch Vorschriften des bürgerlichen oder öffentlichen Rechts für den Gegenstand des Verfahrens als geschäftsfähig anerkannt sind.
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
 (3) Für Vereinigungen sowie für Behörden handeln ihre gesetzlichen Vertreter und Vorstände.
 

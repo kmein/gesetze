@@ -505,7 +505,7 @@ Beteiligte am Verfahren sind
 
 (2) Für rechtsfähige und nichtrechtsfähige Personenvereinigungen, für Personen, die geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt sind, für alle Fälle der Vermögensverwaltung und für andere einer juristischen Person ähnliche Gebilde, die als solche der Besteuerung unterliegen, sowie bei Wegfall eines Steuerpflichtigen handeln die nach dem bürgerlichen Recht dazu befugten Personen. §§ 53 bis 58 der Zivilprozessordnung gelten sinngemäß.
 
-(3) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
+(3) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
 # § 59
 

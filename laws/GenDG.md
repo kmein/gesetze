@@ -211,7 +211,7 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 4. die Person durch das Untersuchungsergebnis voraussichtlich weder physisch noch psychisch belastet wird.
 
-(3) Es dürfen nur die für den jeweiligen Untersuchungszweck erforderlichen Untersuchungen der genetischen Probe vorgenommen werden. Andere Feststellungen dürfen nicht getroffen werden. Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
+(3) Es dürfen nur die für den jeweiligen Untersuchungszweck erforderlichen Untersuchungen der genetischen Probe vorgenommen werden. Andere Feststellungen dürfen nicht getroffen werden. Die §§ 1627 und 1821 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
 # § 15 – Vorgeburtliche genetische Untersuchungen
 
@@ -229,7 +229,7 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 3. der Vertreter nach § 8 Abs. 1 eingewilligt hat.
 
-Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
+Die §§ 1627 und 1821 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
 # § 16 – Genetische Reihenuntersuchungen
 
@@ -251,7 +251,7 @@ Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendu
 
 3. die Person voraussichtlich allenfalls geringfügig und nicht über die mit der Untersuchung und der Gewinnung der dafür erforderlichen genetischen Probe in der Regel verbundenen Risiken hinaus gesundheitlich beeinträchtigt wird.
 
-Für die Aufklärung und die Einwilligung des Vertreters gelten Absatz 1 Satz 1 und 2 und Absatz 2 entsprechend. Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
+Für die Aufklärung und die Einwilligung des Vertreters gelten Absatz 1 Satz 1 und 2 und Absatz 2 entsprechend. Die §§ 1627 und 1821 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
 (4) Genetische Untersuchungen zur Klärung der Abstammung dürfen nur durch Ärztinnen oder Ärzte oder durch auf dem Gebiet der Abstammungsbegutachtung erfahrene nichtärztliche Sachverständige mit abgeschlossener naturwissenschaftlicher Hochschulausbildung vorgenommen werden. § 7 Abs. 2 gilt entsprechend.
 

@@ -435,11 +435,13 @@ geleistet.
 
 (4) Abweichend von Absatz 3 Satz 2 leistet der Bund aus seinem Anteil auch
 
-1. die Finanzmittel, die zur Verwaltung der nach § 1 des Verkehrsinfrastrukturfinanzierungsgesellschaftsgesetzes errichteten Gesellschaft oder zur Verwaltung der im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes errichteten Gesellschaft dienen und diesen Gesellschaften vom Bund als Eigentümer zur Verfügung gestellt werden, sowie
+1. die Finanzmittel, die zur Verwaltung der im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes errichteten Gesellschaft dienen und dieser Gesellschaft vom Bund als Eigentümer zur Verfügung gestellt werden, sowie
 
 2. die Ausgaben im Zusammenhang mit der Durchführung des Mautsystemgesetzes.
 
 (5) Für das auf den Streckenabschnitten nach § 1 Absatz 4 angefallene Mautaufkommen findet die Zweckbindung nach Absatz 3 Satz 2 keine Anwendung.
+
+(6) In einem Haushaltsjahr nicht verausgabte Mittel nach Absatz 1 sind im jeweils übernächsten Haushaltsjahr dem Verkehrshaushalt zusätzlich zur Verfügung zu stellen. Nicht durch Einnahmen nach Absatz 1 gedeckte Ausgaben sind im übernächsten Haushaltsjahr im Verkehrshaushalt einzusparen. Dabei sind die tatsächlichen Ist-Einnahmen und Ist-Ausgaben zu berücksichtigen.
 
 # § 12 – Beginn der Mauterhebung auf Bundesautobahnen
 
@@ -469,61 +471,62 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 (7) Für Sachverhalte, die ab dem 28. Oktober 2020 und bis zum Ablauf des 30. September 2021 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 8.
 
-# § 15 – Verkündung von Rechtsverordnungen
+(8) Für Sachverhalte, die ab dem 1. Oktober 2021 und bis zum Ablauf des 31. Dezember 2022 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 9.
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 15 – (weggefallen)
 
 # Anlage 1 – (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
 
-(Fundstelle: BGBl. I 2018, 2252)
+(Fundstelle: BGBl. I 2022, 2237 – 2238)
 
-1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1:
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
 
-mautpflichtige Fahrzeuge oder Fahrzeugkombinationen:
+a) mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
 
-a) mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,065 Euro,
+b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
 
-b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,112 Euro,
+c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
 
-c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,155 Euro,
-
-d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,169 Euro.
+d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
 
 2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2:
 
-a) mautpflichtige Fahrzeuge oder Fahrzeugkombinationen unbeschadet der Zahl der Achsen, des zulässigen Gesamtgewichts und der benutzten Straßen:
+a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach zulässigem Gesamtgewicht und Achsanzahl in Euro:
 
-aa)  
-0,012 Euro in der Kategorie A,
-
-bb)  
-0,023 Euro in der Kategorie B,
-
-cc) 0,034 Euro in der Kategorie C,
-
-dd)  
-0,067 Euro in der Kategorie D,
-
-ee)  
-0,078 Euro in der Kategorie E,
-
-ff)  
-0,089 Euro in der Kategorie F.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 13%" /><col style="width: 22%" /><col style="width: 22%" /><col style="width: 22%" /><col style="width: 22%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Kategorie</th><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit bis zu<br />
+3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
+4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">A</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,022</td><td style="text-align: center;">0,023</td></tr><tr class="even"><td style="text-align: center;">B</td><td style="text-align: center;">0,043</td><td style="text-align: center;">0,052</td><td style="text-align: center;">0,062</td><td style="text-align: center;">0,062</td></tr><tr class="odd"><td style="text-align: center;">C</td><td style="text-align: center;">0,059</td><td style="text-align: center;">0,063</td><td style="text-align: center;">0,080</td><td style="text-align: center;">0,087</td></tr><tr class="even"><td style="text-align: center;">D</td><td style="text-align: center;">0,088</td><td style="text-align: center;">0,101</td><td style="text-align: center;">0,134</td><td style="text-align: center;">0,149</td></tr><tr class="odd"><td style="text-align: center;">E</td><td style="text-align: center;">0,113</td><td style="text-align: center;">0,121</td><td style="text-align: center;">0,164</td><td style="text-align: center;">0,182</td></tr><tr class="even"><td style="text-align: center;">F</td><td style="text-align: center;">0,114</td><td style="text-align: center;">0,123</td><td style="text-align: center;">0,169</td><td style="text-align: center;">0,187</td></tr></tbody></table>
 
 b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
 
-|      |             |                                                                                                                                                                                                            |
-|:-----|:------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| aa)  | Kategorie A | Fahrzeuge der Schadstoffklasse S 6,                                                                                                                                                                        |
-| bb)  | Kategorie B | Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,                                                                                                                                                   |
-| cc) | Kategorie C | Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
-| dd)  | Kategorie D | Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
-| ee)  | Kategorie E | Fahrzeuge der Schadstoffklasse S 2,                                                                                                                                                                        |
-| ff)  | Kategorie F | Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.                                                           |
+aa)  
+Kategorie A  
+Fahrzeuge der Schadstoffklasse S 6,
 
-3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3:
+bb)  
+Kategorie B  
+Fahrzeuge der EEV-Klasse 1 und der Schadstoffklasse S 5,
 
-0,002 Euro.
+cc) Kategorie C  
+Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+
+dd)  
+Kategorie D  
+Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+
+ee)  
+Kategorie E  
+Fahrzeuge der Schadstoffklasse S 2,
+
+ff)  
+Kategorie F  
+Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
+
+3. Mautteilsatz für die verursachten Lärmbelastungskosten differenziert nach zulässigem Gesamtgewicht und Achsanzahl je Kilometer nach § 3 Absatz 1 Nummer 3 in Euro:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit bis zu<br />
+3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
+4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,012</td></tr></tbody></table>
 
 # Anlage 2 – (zu § 14 Absatz 1)
 
@@ -834,3 +837,68 @@ b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführte
 | ff)  | Kategorie F | Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.                                                           |
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3: 0,002 Euro.
+
+# Anlage 9 – (zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022
+
+(Fundstelle: BGBl. I 2022, 2238)
+
+  
+  
+
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+
+a) mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,065 Euro,
+
+b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,112 Euro,
+
+c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,155 Euro,
+
+d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,169 Euro.
+
+2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2:
+
+a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen unbeschadet der Zahl der Achsen, des zulässigen Gesamtgewichts und der benutzten Straßen
+
+aa)  
+0,012 Euro in der Kategorie A,
+
+bb)  
+0,023 Euro in der Kategorie B,
+
+cc) 0,034 Euro in der Kategorie C,
+
+dd)  
+0,067 Euro in der Kategorie D,
+
+ee)  
+0,078 Euro in der Kategorie E,
+
+ff)  
+0,089 Euro in der Kategorie F;
+
+b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+
+aa)  
+Kategorie A  
+Fahrzeuge der Schadstoffklasse S 6,
+
+bb)  
+Kategorie B  
+Fahrzeuge der EEV-Klasse 1 und der Schadstoffklasse S 5,
+
+cc) Kategorie C  
+Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+
+dd)  
+Kategorie D  
+Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+
+ee)  
+Kategorie E  
+Fahrzeuge der Schadstoffklasse S 2,
+
+ff)  
+Kategorie F  
+Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
+
+3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3: 0,002 Euro.

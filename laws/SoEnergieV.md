@@ -7,7 +7,7 @@ Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund des § 71 
 
 # § 1 – Zweck und Ziel der Verordnung
 
-Die Verordnung regelt nach § 71 Nummer 5 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 12a des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, das Verfahren zur Vergabe von sonstigen Energiegewinnungsbereichen oder deren Teilbereichen in der ausschließlichen Wirtschaftszone, die im Flächenentwicklungsplan des Bundesamtes für Seeschifffahrt und Hydrographie festgelegt sind, mittels Ausschreibung von Berechtigungen zur Beantragung von Planfeststellungsverfahren zur Errichtung und zum Betrieb von Windenergieanlagen auf See und sonstigen Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden, (Antragsberechtigungen) und stellt deren Errichtung sicher.
+Die Verordnung regelt nach § 96 Nummer 5 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 1 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1325) geändert worden ist, das Verfahren zur Vergabe von sonstigen Energiegewinnungsbereichen oder deren Teilbereichen in der ausschließlichen Wirtschaftszone, die im Flächenentwicklungsplan des Bundesamtes für Seeschifffahrt und Hydrographie festgelegt sind, mittels Ausschreibung von Berechtigungen zur Beantragung von Planfeststellungsverfahren zur Errichtung und zum Betrieb von Windenergieanlagen auf See und sonstigen Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden, (Antragsberechtigungen) und stellt deren Errichtung sicher.
 
 # § 2 – Begriffsbestimmungen
 
@@ -47,7 +47,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie macht die Ausschreibungen sp�
 
 6. einen Hinweis auf die Realisierungsfristen nach § 14 und die Sanktionen bei deren Nichteinhaltung nach § 15,
 
-7. einen Hinweis auf die nach § 46 Absatz 6 und § 48 Absatz 4 Nummer 7 des Windenergie-auf-See-Gesetzes erforderliche Verpflichtungserklärung nach § 66 Absatz 2 des Windenergie-auf-See-Gesetzes.
+7. einen Hinweis auf die nach § 67 Absatz 6 und § 69 Absatz 3 Satz 1 Nummer 7 des Windenergie-auf-See-Gesetzes erforderliche Verpflichtungserklärung nach § 90 Absatz 2 des Windenergie-auf-See-Gesetzes.
 
 # § 7 – Sicherheit
 
@@ -85,7 +85,7 @@ Bieter müssen beim Bundesamt für Seeschifffahrt und Hydrographie für ihre Geb
 
 13. einen Projektzeitplan in Monaten
 
-a) bis zur Einreichung der für die Durchführung des Planfeststellungsverfahrens nach § 47 des Windenergie-auf-See-Gesetzes erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt und Hydrographie und
+a) bis zur Einreichung der für die Durchführung des Planfeststellungsverfahrens nach § 68 des Windenergie-auf-See-Gesetzes erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt und Hydrographie und
 
 b) ab der Erteilung des Planfeststellungsbeschlusses oder der Plangenehmigung durch das Bundesamt für Seeschifffahrt und Hydrographie bis zur Errichtung und zum Betrieb der Anlagen,
 
@@ -167,7 +167,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie bewertet die Erfüllung der K
 
 (8) Das Bundesamt für Seeschifffahrt und Hydrographie ist nicht an die Angaben und die Einordnung des Bieters nach § 8 Absatz 2 gebunden. Vorbehaltlich § 12 Absatz 1 ist die Gesamtpunktzahl die Summe aller Bewertungspunkte, die nach den Absätzen 2 bis 7 ermittelt worden sind. Das Bundesamt für Seeschifffahrt und Hydrographie kann zum Zwecke der Plausibilisierung und Validierung der Angaben in den Geboten Dritte beauftragen und ist zu diesem Zweck berechtigt, diesen die nach den §§ 8 und 9 erhobenen nicht personenbezogenen Daten zu übermitteln. Daten, die Betriebs- und Geschäftsgeheimnisse darstellen, dürfen an beauftragte Dritte nur übermittelt werden, wenn ein Bezug zu dem Unternehmen nicht mehr hergestellt werden kann.
 
-(9) Das Bundesamt für Seeschifffahrt und Hydrographie ist berechtigt, die nach den §§ 8 und 9 erhobenen nicht personenbezogenen Daten dem Bundesministerium für Wirtschaft und Energie zu Zwecken der Rechts- und Fachaufsicht sowie zu Zwecken der Evaluierung und Fortschreibung des Rechtsrahmens zu übermitteln. Das Bundesministerium für Wirtschaft und Energie darf die nach Satz 1 erlangten Daten an beauftragte Dritte zu Zwecken der Evaluierung nach § 99 des Erneuerbare-Energien-Gesetzes übermitteln. Absatz 8 Satz 4 ist für die Übermittlung an beauftragte Dritte nach Satz 2 entsprechend anzuwenden.
+(9) Das Bundesamt für Seeschifffahrt und Hydrographie ist berechtigt, die nach den §§ 8 und 9 erhobenen nicht personenbezogenen Daten dem Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der Rechts- und Fachaufsicht sowie zu Zwecken der Evaluierung und Fortschreibung des Rechtsrahmens zu übermitteln. Das Bundesministerium für Wirtschaft und Klimaschutz darf die nach Satz 1 erlangten Daten an beauftragte Dritte zu Zwecken der Evaluierung nach § 99 des Erneuerbare-Energien-Gesetzes übermitteln. Absatz 8 Satz 4 ist für die Übermittlung an beauftragte Dritte nach Satz 2 entsprechend anzuwenden.
 
 # § 10 – Ausschluss von Geboten
 
@@ -247,7 +247,7 @@ Die Antragsberechtigung ist eine Woche nach der öffentlichen Bekanntgabe nach S
 
 1. innerhalb von zwei Monaten nach Unterrichtung über die Erteilung der Antragsberechtigung nach § 13 Absatz 5 ein Konzept für ein Untersuchungsprogramm in Anlehnung an den „Standard Untersuchung der Auswirkungen von Offshore-Windenergieanlagen auf die Meeresumwelt (StUK 4)“, Stand 1. Oktober 2013<span id="FnR.F818470_05"></span><a href="#F818470_05" class="FnR">5</a></sup> , zur Ermittlung der Auswirkungen auf die Meeresumwelt beim Bundesamt für Seeschifffahrt und Hydrographie einreichen,
 
-2. innerhalb von 24 Monaten nach Unterrichtung über die Erteilung der Antragsberechtigung nach § 13 Absatz 5 die zur Durchführung des Anhörungsverfahrens über den Plan nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes und § 47 des Windenergie-auf-See-Gesetzes erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt und Hydrographie einreichen,
+2. innerhalb von 24 Monaten nach Unterrichtung über die Erteilung der Antragsberechtigung nach § 13 Absatz 5 die zur Durchführung des Anhörungsverfahrens über den Plan nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes und § 68 des Windenergie-auf-See-Gesetzes erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt und Hydrographie einreichen,
 
 3. innerhalb von 24 Monaten nach Erteilung des Planfeststellungsbeschlusses oder der Plangenehmigung gegenüber dem Bundesamt für Seeschifffahrt und Hydrographie den Nachweis über eine bestehende Finanzierung für die Errichtung der im Planfeststellungsbeschluss oder der Plangenehmigung zugelassenen Anlagen erbringen; für den Nachweis über eine bestehende Finanzierung sind verbindliche Verträge über die Bestellung der zu errichtenden Anlagen einschließlich aller erforderlichen Nebeneinrichtungen vorzulegen, dabei gilt dies für Fundamente, parkinterne Verkabelung sowie die Infrastruktur zum Transport der erzeugten finalen Energieträger bis zum Übergabepunkt nur, soweit diese jeweils im Konzept vorgesehen sind,
 

@@ -312,10 +312,6 @@ gleichbehandelt.
 
 Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31. Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur Änderung des Flaggenrechtsgesetzes und der Schiffsregisterordnung vom 20. Dezember 2012 (BGBl. I S. 2792) erlassenen Fassung.
 
-# § 25
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # Anlage – (zu § 7 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2012, 2794)

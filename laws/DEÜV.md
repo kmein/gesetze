@@ -3,7 +3,7 @@
  
 # § 1 – Grundsatz
 
-Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund des § 18i Absatz 4, §§ 28a, 99 und 106 bis 108 des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten .
+Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund des § 18i Absatz 4, §§ 28a, 99 und 106 bis 109 des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten .
 
 # § 2 – Meldepflichtige
 
@@ -33,7 +33,7 @@ Meldungen sind zu erstatten für
 
 4. Leiharbeitnehmer,
 
-5. Bezieher von Entgeltersatzleistungen oder von Arbeitslosengeld II,
+5. Bezieher von Entgeltersatzleistungen oder von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch,
 
 6. Wehr- und Zivildienstleistende.
 
@@ -151,7 +151,7 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 # § 14 – Stornierung
 
-(1) Meldungen sind unverzüglich zu stornieren, wenn sie nicht zu erstatten waren, bei einer unzuständigen Einzugsstelle erstattet wurden oder unzutreffende Angaben über die Zeit der Beschäftigung, das beitragspflichtige Arbeitsentgelt, den Abgabegrund, die Beitragsgruppen, den Personengruppenschlüssel, den Tätigkeitsschlüssel oder die Betriebsnummer des Arbeitgebers enthalten. Satz 1 gilt auch, wenn unzutreffende Angaben zum in der Unfallversicherung beitragspflichtigen Arbeitsentgelt, der Unfallversicherungsmitgliedsnummer des Beschäftigungsbetriebes, der Betriebsnummer des zuständigen Unfallversicherungsträgers oder der anzuwendenden Gefahrtarifstelle in der Meldung enthalten sind.
+(1) Meldungen sind unverzüglich zu stornieren, wenn sie nicht zu erstatten waren, bei einer unzuständigen Einzugsstelle erstattet wurden oder unzutreffende Angaben über die Zeit der Beschäftigung, das beitragspflichtige Arbeitsentgelt, den Abgabegrund, die Beitragsgruppen, den Personengruppenschlüssel, den Tätigkeitsschlüssel oder die Betriebsnummer des Arbeitgebers enthalten. Satz 1 gilt auch, wenn unzutreffende Angaben zum in der Unfallversicherung beitragspflichtigen Arbeitsentgelt, zu der Unternehmernummer nach § 136a des Siebten Buches Sozialgesetzbuch, der Betriebsnummer des zuständigen Unfallversicherungsträgers oder der anzuwendenden Gefahrtarifstelle in der Meldung enthalten sind.
 
 (2) Ist zum Zeitpunkt der Stornierung die Versicherungsnummer noch nicht bekannt, hat die Stornierung die für die Vergabe der Versicherungsnummer notwendigen Angaben zu enthalten.
 

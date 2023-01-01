@@ -37,17 +37,7 @@ Die Pfandbriefbank hat sicherzustellen, dass die barwertige Deckung nach § 4 Ab
 
 2. Für den dynamischen Ansatz ist auf der jeweiligen Zinskurve eine dem Umfang und der Struktur des Geschäftes der Pfandbriefbank angemessene Anzahl und Verteilung von Laufzeiten auszuwählen, wobei deren Anzahl mindestens sieben betragen und die Laufzeiten 1 Monat, 1 Jahr, 2 Jahre, 5 Jahre, 7 Jahre, 10 Jahre und 15 Jahre umfassen muss. Für den Zinssatz jeder gewählten Laufzeit ist die Standardabweichung der Tagesdifferenzen der logarithmierten Zinssätze auf Basis des historischen Beobachtungszeitraumes der vorherigen 250 Bankarbeitstage zu bestimmen. Die Standardabweichung der jeweiligen Laufzeit ist anschließend unter Zugrundelegung eines einseitigen Konfidenzniveaus von 99 Prozent und einer Haltedauer des Portfolios von 6 Monaten mit dem Faktor 2,33 und der Quadratwurzel aus 125 zu multiplizieren. Die sich ergebenden Werte sind danach mit dem aktuellen in Basispunkten ausgedrückten Zinssatz der jeweiligen Laufzeit zu multiplizieren. Um die so ermittelte Anzahl von Basispunkten, mindestens jedoch um 100 Basispunkte, ist an der dazugehörigen Laufzeit die zugrunde gelegte Zinskurve nach oben und unten zu verschieben. Zur Konstruktion der neuen Zinskurven werden die derart ermittelten neuen Zinssätze interpoliert. Solange für mindestens eine der verwendeten Stützstellen einer Zinskurve an mindestens einem der vorherigen 250 Bankarbeitstage ein Zinssatz von null oder ein negativer Zinssatz vorliegt, ist abweichend von Satz 2 für die Zinssätze sämtlicher Stützstellen dieser Zinskurve die Standardabweichung der in Basispunkten ausgedrückten Tagesdifferenzen auf Basis des historischen Beobachtungszeitraumes der vorherigen 250 Bankarbeitstage zu bestimmen. Satz 4 findet dann keine Anwendung.
 
-(2) Abweichend von Absatz 1 darf auch ein Risikowert in Ansatz gebracht werden. Dieser ist mittels eines eigenen Risikomodells zu ermitteln, dessen Eignung die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) auf Grundlage einer Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes bestätigt hat. § 313 Absatz 3 Satz 1 der Solvabilitätsverordnung gilt mit den folgenden Maßgaben entsprechend:
-
-1. Zur Anpassung an die Anforderungen des dynamischen Ansatzes müssen die gewählten Laufzeiten mindestens die in Absatz 1 Nr. 2 genannten Laufzeiten beinhalten.
-
-2. Der mittels des Risikomodells geschätzte Risikowert ist von einer Haltedauer von 10 Tagen auf 125 Tage durch Multiplikation mit Quadratwurzel 125 und Division mit Quadratwurzel 10 hochzuskalieren.
-
-3. Währungsrisiken, die im Rahmen der Schätzung des Risikowertes nicht mindestens gemäß den Anforderungen des § 6 berücksichtigt werden, sind entsprechend den dort genannten Anforderungen zusätzlich einzubeziehen.
-
-4. Der nach § 3 ermittelte Barwert der Deckungsmasse ist um den ermittelten Risikowert zu verringern.
-
-(3) Das einmal gewählte Verfahren ist durchgehend für alle Berechnungen anzuwenden.
+(2) Das einmal gewählte Verfahren ist durchgehend für alle Berechnungen anzuwenden.
 
 # § 6 – Simulation der Auswirkung von Währungsveränderungen auf die Barwerte
 
@@ -73,11 +63,9 @@ d) mindestens 25 Prozent bei Währungen sonstiger Staaten.
 
 1. das Verfahren zur Bewertung von Derivaten nach § 3 Abs. 1 Satz 2 sowie spätere Veränderungen dieses Verfahrens,
 
-2. das Verfahren zur Ermittlung der Standardabweichung sowie das Interpolationsverfahren nach § 5 Abs. 1 Nr. 2,
+2. das Verfahren zur Ermittlung der Standardabweichung sowie das Interpolationsverfahren nach § 5 Abs. 1 Nr. 2 und
 
-3. die Art und Weise der Berücksichtigung oder Einbeziehung der Währungsrisiken nach § 5 Abs. 2 Nr. 3 und
-
-4. das Verfahren zur Ermittlung der Standardabweichung nach § 6 Abs. 2 Nr. 2
+3. das Verfahren zur Ermittlung der Standardabweichung nach § 6 Abs. 2 Nr. 2
 
 zu dokumentieren.
 
@@ -85,7 +73,7 @@ zu dokumentieren.
 
 # § 8 – Methodenwechsel
 
-Die Pfandbriefbank darf das von ihr einmal gewählte Berechnungsverfahren nur mit Zustimmung der Bundesanstalt wechseln. Als Wechsel gilt dabei nicht nur die Wahl eines anderen vorgegebenen Berechnungsverfahrens, sondern ebenso der Wechsel von Parametern und Verfahren innerhalb des jeweils angewandten Berechnungsverfahrens. Bei Verwendung eigener Risikomodelle gilt Satz 2 zweiter Halbsatz mit der Einschränkung, dass unbeschadet des § 313 der Solvabilitätsverordnung eine Zustimmung nur hinsichtlich des Wechsels der in § 5 Abs. 2 genannten Parameter erforderlich ist. Die Zustimmung kann nur erteilt werden, wenn die Pfandbriefbank nachvollziehbar darlegt, dass die geänderte Methode zu einer Verbesserung der Ergebnisqualität führt.
+Die Pfandbriefbank darf das von ihr einmal gewählte Berechnungsverfahren nur mit Zustimmung der Bundesanstalt wechseln. Als Wechsel gilt dabei nicht nur die Wahl eines anderen vorgegebenen Berechnungsverfahrens, sondern ebenso der Wechsel von Parametern und Verfahren innerhalb des jeweils angewandten Berechnungsverfahrens. Die Zustimmung kann nur erteilt werden, wenn die Pfandbriefbank nachvollziehbar darlegt, dass die geänderte Methode zu einer Verbesserung der Ergebnisqualität führt.
 
 # § 9 – Übergangsbestimmungen
 

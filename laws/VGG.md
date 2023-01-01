@@ -249,7 +249,7 @@ Die Verwertungsgesellschaft weist in der Buchführung getrennt aus:
 
 1. der allgemeinen Anlagepolitik (§ 17 Absatz 1 Satz 2 Nummer 8) und den Grundsätzen des Risikomanagements (§ 17 Absatz 1 Satz 2 Nummer 5) entsprechen;
 
-2. gewährleisten, dass die Anlage in den in § 1807 Absatz 1 des Bürgerlichen Gesetzbuchs genannten Anlageformen oder in anderen Anlageformen unter Beachtung der Grundsätze einer wirtschaftlichen Vermögensverwaltung gemäß § 1811 Satz 2 des Bürgerlichen Gesetzbuchs erfolgt;
+2. gewährleisten, dass die Anlage der Rechtsverordnung nach § 240a Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs entsprechend oder in anderen Anlageformen unter Beachtung der Grundsätze einer wirtschaftlichen Vermögensverwaltung gemäß § 1798 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs erfolgt;
 
 3. gewährleisten, dass die Anlagen in angemessener Weise so gestreut werden, dass eine zu große Abhängigkeit von einem bestimmten Vermögenswert und eine Risikokonzentration im Portfolio insgesamt vermieden werden.
 

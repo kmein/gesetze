@@ -21,13 +21,7 @@ Zum 1. Januar 2016 wird als gewerbliche Berufsgenossenschaft die Berufsgenossens
 
 # § 4 – Dienstrechtliche Vorschriften
 
-(1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation hat Dienstherrnfähigkeit. Die Beamtinnen und Beamten sind Bundesbeamtinnen und Bundesbeamte. § 144 Satz 2 des Siebten Buches Sozialgesetzbuch findet keine Anwendung.
-
-(2) Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation können die Obergrenzen für Beförderungsämter nach § 17a Absatz 1 der Bundeshaushaltsordnung im selben Umfang überschritten werden, wie dies bei der Unfallkasse Post und Telekom nach § 149 Absatz 1 Satz 3 des Siebten Buches Sozialgesetzbuch in der am 31. Dezember 2015 geltenden Fassung zulässig war.
-
-(3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt auf Vorschlag des Vorstandes der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation die Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
-
-(4) Oberste Dienstbehörde für den Geschäftsführer und seinen Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
+Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation können die Obergrenzen für Beförderungsämter nach § 17a Absatz 1 der Bundeshaushaltsordnung im selben Umfang überschritten werden, wie dies bei der Unfallkasse Post und Telekom nach § 149 Absatz 1 Satz 3 des Siebten Buches Sozialgesetzbuch in der am 31. Dezember 2015 geltenden Fassung zulässig war.
 
 # § 5 – Übertragene Aufgaben, Verordnungsermächtigung
 

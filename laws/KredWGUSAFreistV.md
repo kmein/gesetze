@@ -11,4 +11,4 @@ Für Zweigstellen von Kreditinstituten mit Sitz in den Vereinigten Staaten von A
 
 # § 2
 
-§ 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10i des Kreditwesengesetzes sowie die zugehörigen Vorgaben der Artikel 430 bis 455 der Verordnung (EU) Nr. 575/2013 sind nicht auf die in § 1 genannten Zweigstellen anzuwenden.
+§ 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10j des Kreditwesengesetzes sowie die zugehörigen Vorgaben der Artikel 430 bis 455 der Verordnung (EU) Nr. 575/2013 sind nicht auf die in § 1 genannten Zweigstellen anzuwenden.

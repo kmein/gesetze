@@ -9,7 +9,7 @@ Auf Grund des § 88 Abs. 4 des Bundessozialhilfegesetzes in der Fassung der Beka
 
 Kleinere Barbeträge oder sonstige Geldwerte im Sinne des § 90 Absatz 2 Nummer 9 des Zwölften Buches Sozialgesetzbuch sind:
 
-1. für jede in § 19 Absatz 3, § 27 Absatz 1 und 2, § 41 und § 43 Absatz 1 Satz 2 des Zwölften Buches Sozialgesetzbuch genannte volljährige Person sowie für jede alleinstehende minderjährige Person, 5 000 Euro,
+1. für jede in § 19 Absatz 3, § 27 Absatz 1 und 2, § 41 und § 43 Absatz 1 Satz 2 des Zwölften Buches Sozialgesetzbuch genannte volljährige Person sowie für jede alleinstehende minderjährige Person, 10 000 Euro,
 
 2. für jede Person, die von einer Person nach Nummer 1 überwiegend unterhalten wird, 500 Euro.
 

@@ -811,10 +811,6 @@ Ein Widerspruch ist ausgeschlossen. Die Anfechtungsklage gegen Maßnahmen nach d
 
 Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über öffentlich-rechtliche Streitigkeiten nicht verfassungsrechtlicher Art nach diesem Gesetz. Im Übrigen bleibt die Zuständigkeit der ordentlichen Gerichte unberührt. Dabei entscheidet der Bundesgerichtshof in erster und letzter Instanz.
 
-# § 31 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # Anlage – Wirtschaftsplan des Wirtschaftsstabilisierungsfonds Abschnitt 2 Teil 3: Abfederung der Folgen der Energiekrise
 
 (Fundstelle: BGBl. I 2022, 1906 — 1908)

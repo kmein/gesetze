@@ -583,7 +583,13 @@ Wegen einer Erhöhung des Einkommens darf die Erziehungsbeihilfe während eines 
 
 (1) Bei der ergänzenden Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes ist für Erwerbstätige, vor allem wenn sie trotz beschränkten Leistungsvermögens einem Erwerb nachgehen, ein Freibetrag in angemessener Höhe anzuerkennen. Satz 1 gilt auch bei einer Unterbrechung der Erwerbstätigkeit bis zu 6 Monaten, wenn das Arbeitsverhältnis fortbesteht und bis zur Unterbrechung der Erwerbstätigkeit ein Freibetrag anerkannt war.
 
-(2) Unterschreitet das Erwerbseinkommen von Leistungsberechtigten 40 vom Hundert der Regelbedarfsstufe 1, ist ein Freibetrag in Höhe des Erwerbseinkommens anzuerkennen. Übersteigt das Erwerbseinkommen von Leistungsberechtigten 40 vom Hundert der Regelbedarfsstufe 1, ist ein Freibetrag in Höhe von 40 vom Hundert der Regelbedarfsstufe 1 zuzüglich des Betrags nach Absatz 3 anzuerkennen.
+(2) Unterschreitet das Erwerbseinkommen von Leistungsberechtigten 40 vom Hundert der Regelbedarfsstufe 1, ist ein Freibetrag in Höhe des Erwerbseinkommens anzuerkennen. Übersteigt das Erwerbseinkommen von Leistungsberechtigten 40 vom Hundert der Regelbedarfsstufe 1, ist ein Freibetrag in Höhe von 40 vom Hundert der Regelbedarfsstufe 1 zuzüglich des Betrags nach Absatz 3 anzuerkennen. An Stelle des Betrages von 40 vom Hundert der Regelbedarfsstufe 1 nach den Sätzen 1 und 2 wird ein Betrag von 520 Euro zugrunde gelegt bei Leistungsberechtigten, die das 25. Lebensjahr noch nicht vollendet haben und die
+
+1. eine nach dem Bundesausbildungsförderungsgesetz dem Grunde nach förderungsfähige Ausbildung durchführen,
+
+2. eine nach § 57 Absatz 1 des Dritten Buches Sozialgesetzbuch dem Grunde nach förderungsfähige Ausbildung oder eine nach § 54a des Dritten Buches Sozialgesetzbuch geförderte Einstiegsqualifizierung durchführen oder
+
+3. als Schülerinnen und Schüler allgemein- oder berufsbildender Schulen außerhalb der in § 25d Absatz 1 Satz 2 Nummer 5 des Bundesversorgungsgesetzes genannten Zeiten erwerbstätig sind.
 
 (3) In den Fällen des Absatzes 2 Satz 2 ist als zusätzlicher Freibetrag ein Betrag anzuerkennen, der folgende Vomhundertsätze des Betrags beträgt, der 40 vom Hundert der Regelbedarfsstufe 1 übersteigt:
 
@@ -596,6 +602,8 @@ Wegen einer Erhöhung des Einkommens darf die Erziehungsbeihilfe während eines 
 4. 10 vom Hundert bei Beschädigten mit einem Grad der Schädigungsfolgen von 50 bis 70, bei Witwen, Witwern, hinterbliebenen Lebenspartnern, hinterbliebenen Lebenspartnerinnen, Vollwaisen und Elternpaaren, auch wenn nur ein Elternteil erwerbstätig ist, und
 
 5. 5 vom Hundert bei Beschädigten mit einem Grad der Schädigungsfolgen von 30 oder 40, bei Halbwaisen und Elternteilen.
+
+In den Fällen des Absatzes 2 Satz 3 wird bei der Anwendung des Satzes 1 an Stelle des Betrages von 40 vom Hundert der Regelbedarfsstufe 1 ein Betrag von 520 Euro zugrunde gelegt.
 
 (4) Die Summe der Freibeträge nach den Absätzen 2 und 3 darf 50 vom Hundert der Regelbedarfsstufe 1 nicht unterschreiten.
 

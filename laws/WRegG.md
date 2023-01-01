@@ -35,9 +35,11 @@ c) nach den §§ 15, 15a, 16 Absatz 1 Nummer 1, 1c, 1d, 1f und 2 des Arbeitnehme
 
 d) nach § 21 Absatz 1 und 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 6 Absatz 39 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, oder
 
-e) nach § 23 Absatz 1 und 2 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, oder
+e) nach § 23 Absatz 1 und 2 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist;
 
-3. rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind.
+3. rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
+
+4. rechtskräftige Bußgeldentscheidungen, die wegen Ordnungswidrigkeiten nach § 24 Absatz 1 des Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S. 2959) ergangen sind, wenn ein Bußgeld von wenigstens einhundertfünfundsiebzigtausend Euro festgesetzt worden ist.
 
 (2) In das Wettbewerbsregister werden ferner Bußgeldentscheidungen eingetragen, die wegen Ordnungswidrigkeiten nach § 81 Absatz 1 Nummer 1, Absatz 2 Nummer 1 in Verbindung mit § 1 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind, wenn eine Geldbuße von wenigstens fünfzigtausend Euro festgesetzt worden ist. Nicht eingetragen werden Bußgeldentscheidungen, die nach § 81a Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind.
 
@@ -90,6 +92,8 @@ d) die die Zurechnung des Fehlverhaltens zu einem Unternehmen gemäß § 2 Absat
 (2) Teilt ein Unternehmen nach seiner Eintragung in das Wettbewerbsregister der Registerbehörde mit, dass es Maßnahmen zur Selbstreinigung im Sinne des § 123 Absatz 4 Satz 2 oder des § 125 des Gesetzes gegen Wettbewerbsbeschränkungen nachweisen kann, speichert die Registerbehörde die übermittelten Daten im Wettbewerbsregister.
 
 (3) Die in dem Wettbewerbsregister gespeicherten Daten und die Verfahrensakten der Registerbehörde sind vertraulich.
+
+(4) Die Registerbehörde kann zur Überprüfung und Vervollständigung der in Absatz 1 Nummer 4 genannten Daten das Bundeszentralamt für Steuern um Übermittlung der gültigen Umsatzsteuer-Identifikationsnummer eines Unternehmens, das in das Wettbewerbsregister eingetragen ist oder eingetragen werden soll, ersuchen. In dem Ersuchen hat die Registerbehörde Name oder Firma sowie Rechtsform und Anschrift des betroffenen Unternehmens anzugeben. § 27a Absatz 2 Satz 2 des Umsatzsteuergesetzes bleibt unberührt.
 
 # § 4 – Mitteilungen
 
@@ -215,7 +219,7 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 
 (3) Die Entscheidung über die Beschwerde kann ohne mündliche Verhandlung ergehen, es sei denn, ein Beteiligter beantragt, eine mündliche Verhandlung durchzuführen. § 65 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist entsprechend anzuwenden.
 
-# § 12 – Anwendungsbestimmungen; Verkündung von Rechtsverordnungen
+# § 12 – Anwendungsbestimmungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -224,7 +228,5 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 2. die Feststellung nach Nummer 1 im Bundesanzeiger bekannt zu machen.
 
 (2) Die §§ 2 und 4 sind nach Ablauf des Monats, der auf den Tag der Bekanntmachung nach Absatz 1 Nummer 2 folgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekannt zu machen. § 5 Absatz 2 und § 6 sind sechs Monate nach dem in Satz 1 genannten Tag anzuwenden; abweichend hiervon kann die Registerbehörde einem Auftraggeber auf dessen Ersuchen die Möglichkeit zur Abfrage nach § 6 Absatz 1 und 2 bereits ab dem in Satz 1 bezeichneten Tag eröffnen. Bis zur verpflichtenden Anwendung der in Satz 2 bezeichneten Vorschriften sind die landesrechtlichen Vorschriften über die Errichtung und den Betrieb eines dem § 1 entsprechenden Registers weiter anzuwenden.
-
-(3) Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
 (+++ Hinweis: Zur Bekanntmachung nach § 12 Abs. 1 vgl. Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 +++)

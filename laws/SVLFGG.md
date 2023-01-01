@@ -25,7 +25,13 @@ Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist zuständig
 
 # § 5 – Dienstherrnfähigkeit, Dienstrecht
 
-Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat das Recht, Beamtinnen und Beamte zu haben. Für die Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau gelten § 144 Satz 1 sowie die §§ 145 bis 147 des Siebten Buches Sozialgesetzbuch entsprechend.
+(1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamtinnen und Beamten sind Bundesbeamtinnen und Bundesbeamte.
+
+(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt auf Vorschlag des Vorstandes der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau die Beamtinnen und Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf die Geschäftsführung weiter zu übertragen.
+
+(3) Oberste Dienstbehörde für die Geschäftsführung und ihre Stellvertretung ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamtinnen und Beamten der Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der seine Befugnisse ganz oder teilweise auf die Geschäftsführung übertragen kann.
+
+(4) Für die Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau gelten die §§ 144 bis 147 des Siebten Buches Sozialgesetzbuch entsprechend.
 
 # § 6 – Kosten bei Errichtung
 

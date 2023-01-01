@@ -131,7 +131,7 @@ Wird für die Rückgabe eine Bilanz gefertigt, weil sich die Vermögenslage gege
 
 (2) Die Kapitalkonten von persönlich haftenden Gesellschaftern von Personenhandelsgesellschaften sind wie Anteile zu behandeln. Im Zeitpunkt der Schädigung vorhandenes Eigenkapital, das nicht gezeichnetes Kapital war, ist den Kapitalkonten der persönlich haftenden Gesellschafter in deren Verhältnis zuzurechnen, soweit sich aus dem Gesellschaftsvertrag nichts Abweichendes ergibt. Sind die Kapitalkonten nicht mehr feststellbar, so erfolgt die Zuordnung nach der Zahl der persönlich haftenden Gesellschafter. Beim Vorhandensein von Kommanditkapital ist § 10 Abs. 3 entsprechend anzuwenden.
 
-(3) Ist unbekannt oder ungewiß, wer Gesellschafter oder Mitglied des Berechtigten oder Rechtsnachfolger dieser Personen ist oder wo sich diese Personen aufhalten, so wird auf Antrag von Mitberechtigten oder von Amts wegen ein Pfleger nach den §§ 1911, 1913 des Bürgerlichen Gesetzbuchs bestellt.
+(3) Ist unbekannt oder ungewiß, wer Gesellschafter oder Mitglied des Berechtigten oder Rechtsnachfolger dieser Personen ist oder wo sich diese Personen aufhalten, so wird auf Antrag von Mitberechtigten oder von Amts wegen ein Pfleger nach den §§ 1882 und 1884 des Bürgerlichen Gesetzbuchs bestellt.
 
 # § 18 – Antrag auf Rückgabe
 

@@ -21,23 +21,25 @@ Unterliegen die in Anlage genannten gebührenfähigen Leistungen der Umsatzsteue
 
 # § 2 – Gebührenermäßigung und Gebührenbefreiung
 
-(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach den Nummern 1.1, 1.4 bis 1.7, 1.15, 2.1, 2.3, 3.1 und 3.2 der Anlage ermäßigen oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter Berücksichtigung
+(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach den Nummern 1.1, 1.4 bis 1.7, 1.13, 2.1, 2.3, 3.1 und 3.2 der Anlage ermäßigen oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter Berücksichtigung folgender Punkte unverhältnismäßig wäre:
 
-1. der Menge der in Verkehr gebrachten Geräte oder Batterien,
+1. Menge der in Verkehr gebrachten Geräte oder Batterien,
 
-2. des wirtschaftlichen Wertes der Registrierung für den Hersteller,
+2. wirtschaftlicher Wert der Registrierung für den Hersteller,
 
-3. der voraussichtlichen Entsorgungskosten und
+3. voraussichtliche Entsorgungskosten und
 
-4. der abfallwirtschaftlichen Relevanz
+4. abfallwirtschaftliche Relevanz.
 
-unverhältnismäßig wäre. Der Antrag muss Angaben zu allen Kriterien nach Satz 1 Nummer 1 bis 4 enthalten.
+Der Antrag muss Angaben zu allen Kriterien nach Satz 1 Nummer 1 bis 4 enthalten.
 
-(2) Der Antrag nach Absatz 1 ist innerhalb von drei Monaten nach Bekanntgabe des Gebührenbescheids bei der Behörde oder bei der beliehenen Gemeinsamen Stelle zu stellen, die den Gebührenbescheid erlassen hat. Erfolgt keine Bekanntgabe, ist der Antrag nach Absatz 1 spätestens innerhalb eines Jahres nach Entstehung der Gebührenschuld zu stellen. In den Fällen des Satzes 2 ist der Antrag bei der Behörde oder der beliehenen Gemeinsamen Stelle zu stellen, die für den Erlass des Gebührenbescheids zuständig ist.
+(2) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach der Nummer 1.17 ermäßigen oder von der Gebühr befreien, wenn der Standort der Erstbehandlungsanlage anerkannt ist als Werkstatt für behinderte Menschen nach dem Neunten Buch Sozialgesetzbuch. Dem Antrag muss eine Kopie des entsprechenden Anerkennungsbescheids der Bundesagentur für Arbeit beigefügt sein.
+
+(3) Der Antrag nach Absatz 1 oder Absatz 2 ist innerhalb von drei Monaten nach Bekanntgabe des Gebührenbescheids bei der Behörde oder bei der beliehenen Gemeinsamen Stelle zu stellen, die den Gebührenbescheid erlassen hat. Erfolgt keine Bekanntgabe, ist der Antrag nach Absatz 1 oder Absatz 2 spätestens innerhalb eines Jahres nach Entstehung der Gebührenschuld zu stellen. In den Fällen des Satzes 2 ist der Antrag bei der Behörde oder der beliehenen Gemeinsamen Stelle zu stellen, die für den Erlass des Gebührenbescheids zuständig ist.
 
 # § 3 – Übergangsvorschriften
 
-(1) Diese Verordnung gilt auch für die Erhebung von Gebühren für gebührenfähige Leistungen, die am 1. Januar 2022 bereits beantragt oder begonnen wurden, aber noch nicht vollständig erbracht sind.
+(1) Diese Verordnung gilt auch für die Erhebung von Gebühren für gebührenfähige Leistungen, die am 1. Januar 2023 bereits beantragt oder begonnen wurden, aber noch nicht vollständig erbracht sind.
 
 (2) Nummer 1.4 bis 1.6 der Anlage gilt entsprechend für die Prüfung von Nachweisen gemäß § 6 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes in der bis zum 23. Oktober 2015 geltenden Fassung in Verbindung mit § 46 Absatz 3 des Elektro- und Elektronikgerätegesetzes in der ab dem 24. Oktober 2015 geltenden Fassung.
 
@@ -51,4 +53,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 # Anlage – (zu § 1 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 5232 - 5235)
+(Fundstelle: BGBl. I 2022, 2225 — 2228)
+
+  
+  

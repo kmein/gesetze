@@ -43,9 +43,15 @@ b) in dem er als Staatenloser seinen vorherigen gewöhnlichen Aufenthalt hatte u
 
 Satz 1 gilt auch für Ausländer, die andere zu den darin genannten Straftaten oder Handlungen angestiftet oder sich in sonstiger Weise daran beteiligt haben.
 
-(3) Ein Ausländer ist auch nicht Flüchtling nach Absatz 1, wenn er den Schutz oder Beistand einer Organisation oder einer Einrichtung der Vereinten Nationen mit Ausnahme des Hohen Kommissars der Vereinten Nationen für Flüchtlinge nach Artikel 1 Abschnitt D des Abkommens über die Rechtsstellung der Flüchtlinge genießt. Wird ein solcher Schutz oder Beistand nicht länger gewährt, ohne dass die Lage des Betroffenen gemäß den einschlägigen Resolutionen der Generalversammlung der Vereinten Nationen endgültig geklärt worden ist, sind die Absätze 1 und 2 anwendbar.
+(3) Ein Ausländer ist auch nicht Flüchtling nach Absatz 1, wenn er
 
-(4) Einem Ausländer, der Flüchtling nach Absatz 1 ist, wird die Flüchtlingseigenschaft zuerkannt, es sei denn, er erfüllt die Voraussetzungen des § 60 Abs. 8 Satz 1 des Aufenthaltsgesetzes oder das Bundesamt hat nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen.
+1. den Schutz oder Beistand einer Organisation oder einer Einrichtung der Vereinten Nationen mit Ausnahme des Hohen Kommissars der Vereinten Nationen für Flüchtlinge nach Artikel 1 Abschnitt D des Abkommens über die Rechtsstellung der Flüchtlinge genießt oder
+
+2. von den zuständigen Behörden des Staates, in dem er seinen Aufenthalt genommen hat, als Person anerkannt wird, welche die Rechte und Pflichten, die mit dem Besitz der Staatsangehörigkeit dieses Staates verknüpft sind, beziehungsweise gleichwertige Rechte und Pflichten hat.
+
+Wird der Schutz oder Beistand nach Satz 1 Nummer 1 nicht länger gewährt, ohne dass die Lage des Betroffenen gemäß den einschlägigen Resolutionen der Generalversammlung der Vereinten Nationen endgültig erklärt worden ist, sind die Absätze 1 und 2 anwendbar.
+
+(4) Einem Ausländer, der Flüchtling nach Absatz 1 ist, wird die Flüchtlingseigenschaft zuerkannt, es sei denn, er erfüllt die Voraussetzungen des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder das Bundesamt hat nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen.
 
 # § 3a – Verfolgungshandlungen
 
@@ -163,6 +169,8 @@ Diese Ausschlussgründe gelten auch für Ausländer, die andere zu den genannten
 
 (5) Der Leiter des Bundesamtes kann mit den Ländern vereinbaren, dass in einer Aufnahmeeinrichtung Ausländer untergebracht werden, deren Verfahren beschleunigt nach § 30a bearbeitet werden sollen (besondere Aufnahmeeinrichtungen). Das Bundesamt richtet Außenstellen bei den besonderen Aufnahmeeinrichtungen nach Satz 1 ein oder ordnet sie diesen zu. Auf besondere Aufnahmeeinrichtungen finden die für Aufnahmeeinrichtungen geltenden Regelungen Anwendung, soweit nicht in diesem Gesetz oder einer anderen Rechtsvorschrift etwas anderes bestimmt wird.
 
+(6) Für Personen, die für das Bundesamt tätig werden sollen, ist eine einfache Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz durchzuführen. Von einer Sicherheitsüberprüfung kann abgesehen werden, wenn Art oder Dauer der Tätigkeit dies zulassen.
+
 # § 6 – Verbindlichkeit asylrechtlicher Entscheidungen
 
 Die Entscheidung über den Asylantrag ist in allen Angelegenheiten verbindlich, in denen die Anerkennung als Asylberechtigter oder die Zuerkennung des internationalen Schutzes im Sinne des § 1 Absatz 1 Nummer 2 rechtserheblich ist. Dies gilt nicht für das Auslieferungsverfahren sowie das Verfahren nach § 58a des Aufenthaltsgesetzes.
@@ -263,9 +271,7 @@ den damit betrauten öffentlichen Stellen, soweit es zur Erfüllung der in ihrer
 
 Gegen Maßnahmen und Entscheidungen nach diesem Gesetz findet kein Widerspruch statt.
 
-# § 11a – Vorübergehende Aussetzung von Entscheidungen
-
-Das Bundesministerium des Innern, für Bau und Heimat kann Entscheidungen des Bundesamtes nach diesem Gesetz zu bestimmten Herkunftsländern für die Dauer von sechs Monaten vorübergehend aussetzen, wenn die Beurteilung der asyl- und abschiebungsrelevanten Lage besonderer Aufklärung bedarf. Die Aussetzung nach Satz 1 kann verlängert werden.
+# § 11a – (weggefallen)
 
 # § 12 – Handlungsfähigkeit
 
@@ -277,7 +283,11 @@ Das Bundesministerium des Innern, für Bau und Heimat kann Entscheidungen des Bu
 
 # § 12a – Asylverfahrensberatung
 
-Das Bundesamt führt eine für die Asylsuchenden freiwillige, unabhängige staatliche Asylverfahrensberatung durch. Diese erfolgt in zwei Stufen. Auf der ersten Stufe werden allen Asylsuchenden vor Antragstellung in Gruppengesprächen Informationen zum Ablauf des Asylverfahrens sowie zu Rückkehrmöglichkeiten zur Verfügung gestellt. Auf der zweiten Stufe erhalten alle Asylsuchenden in Einzelgesprächen eine individuelle Asylverfahrensberatung, die durch das Bundesamt oder durch Wohlfahrtsverbände durchgeführt wird.
+(1) Der Bund fördert eine behördenunabhängige, ergebnisoffene, unentgeltliche, individuelle und freiwillige Asylverfahrensberatung. Die Förderung setzt voraus, dass die Träger der Asylverfahrensberatung ihre Zuverlässigkeit, die ordnungsgemäße und gewissenhafte Durchführung der Beratung sowie Verfahren zur Qualitätssicherung und -entwicklung nachweisen.
+
+(2) Die Asylverfahrensberatung umfasst Auskünfte zum Verfahren und kann nach Maßgabe des Rechtsdienstleistungsgesetzes auch Rechtsdienstleistungen zum Gegenstand haben. Die Beratung berücksichtigt die besonderen Umstände des Ausländers, insbesondere, ob dieser besondere Verfahrensgarantien oder besondere Garantien bei der Aufnahme benötigt. Die Beratung soll bereits vor der Anhörung erfolgen und kann bis zum unanfechtbaren Abschluss des Asylverfahrens durchgeführt werden.
+
+(3) Die Träger der Asylverfahrensberatung übermitteln dem Bundesamt und der obersten Landesbehörde oder der von der obersten Landesbehörde bestimmten Stelle personenbezogene Daten, die darauf hinweisen, dass der Ausländer besondere Verfahrensgarantien benötigt oder besondere Bedürfnisse bei der Aufnahme hat, wenn der Ausländer in die Übermittlung der Daten eingewilligt hat.
 
 # § 13 – Asylantrag
 
@@ -399,6 +409,8 @@ steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebun
 
 (2) Der Ausländer ist berechtigt, auf seine Kosten auch einen geeigneten Sprachmittler seiner Wahl hinzuzuziehen.
 
+(3) Die Hinzuziehung des Sprachmittlers kann in geeigneten Fällen ausnahmsweise im Wege der Bild- und Tonübertragung erfolgen.
+
 # § 18 – Aufgaben der Grenzbehörde
 
 (1) Ein Ausländer, der bei einer mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde (Grenzbehörde) um Asyl nachsucht, ist unverzüglich an die zuständige oder, sofern diese nicht bekannt ist, an die nächstgelegene Aufnahmeeinrichtung zur Meldung weiterzuleiten.
@@ -501,7 +513,13 @@ Ein Ausländer, der auf Grund von Rechtsvorschriften der Europäischen Gemeinsch
 
 # § 24 – Pflichten des Bundesamtes
 
-(1) Das Bundesamt klärt den Sachverhalt und erhebt die erforderlichen Beweise. Nach der Asylantragstellung unterrichtet das Bundesamt den Ausländer in einer Sprache, deren Kenntnis vernünftigerweise vorausgesetzt werden kann, über den Ablauf des Verfahrens und über seine Rechte und Pflichten im Verfahren, insbesondere auch über Fristen und die Folgen einer Fristversäumung. Es hat den Ausländer persönlich anzuhören. Von einer Anhörung kann abgesehen werden, wenn das Bundesamt den Ausländer als asylberechtigt anerkennen will oder wenn der Ausländer nach seinen Angaben aus einem sicheren Drittstaat (§ 26a) eingereist ist. Von einer Anhörung kann auch abgesehen werden, wenn das Bundesamt einem nach § 13 Absatz 2 Satz 2 beschränkten Asylantrag stattgeben will. Von der Anhörung ist abzusehen, wenn der Asylantrag für ein im Bundesgebiet geborenes Kind unter sechs Jahren gestellt und der Sachverhalt auf Grund des Inhalts der Verfahrensakten der Eltern oder eines Elternteils ausreichend geklärt ist.
+(1) Das Bundesamt klärt den Sachverhalt und erhebt die erforderlichen Beweise. Das Bundesamt unterrichtet den Ausländer frühzeitig in einer Sprache, deren Kenntnis vernünftigerweise vorausgesetzt werden kann, über den Ablauf des Verfahrens, über seine Rechte und Pflichten im Verfahren, insbesondere über Fristen und die Folgen einer Fristversäumung, sowie über freiwillige Rückkehrmöglichkeiten. Der Ausländer ist persönlich anzuhören. Von einer Anhörung kann abgesehen werden, wenn das Bundesamt
+
+1. dem Asylantrag vollständig stattgeben will oder
+
+2. der Auffassung ist, dass der Ausländer aufgrund dauerhafter Umstände, die sich seinem Einfluss entziehen, nicht zu einer Anhörung in der Lage ist. Im Zweifelsfall ist für die Feststellung der Dauerhaftigkeit der Umstände eine ärztliche Bestätigung erforderlich. Wird von einer Anhörung abgesehen, unternimmt das Bundesamt angemessene Bemühungen, damit der Ausländer weitere Informationen unterbreiten kann.
+
+Von der Anhörung ist abzusehen, wenn der Asylantrag für ein im Bundesgebiet geborenes Kind unter sechs Jahren gestellt und der Sachverhalt auf Grund des Inhalts der Verfahrensakten der Eltern oder eines Elternteils ausreichend geklärt ist. Die Tatsache, dass keine Anhörung stattgefunden hat, darf die Entscheidung nicht negativ beeinflussen. Die Entscheidung nach den Sätzen 4 und 7 ergeht nach Aktenlage.
 
 (1a) Sucht eine große Zahl von Ausländern gleichzeitig um Asyl nach und wird es dem Bundesamt dadurch unmöglich, die Anhörung in zeitlichem Zusammenhang mit der Antragstellung durchzuführen, so kann das Bundesamt die Anhörung vorübergehend von einer anderen Behörde, die Aufgaben nach diesem Gesetz oder dem Aufenthaltsgesetz wahrnimmt, durchführen lassen. Die Anhörung darf nur von einem dafür geschulten Bediensteten durchgeführt werden. Die Bediensteten dürfen bei der Anhörung keine Uniform tragen. § 5 Absatz 4 gilt entsprechend.
 
@@ -517,7 +535,23 @@ a) für eine Aussetzung der Abschiebung, insbesondere über die Notwendigkeit, d
 
 b) die nach § 25 Abs. 3 Satz 2 Nummer 1 bis 4 des Aufenthaltsgesetzes der Erteilung einer Aufenthaltserlaubnis entgegenstehen könnten.
 
-(4) Ergeht eine Entscheidung über den Asylantrag nicht innerhalb von sechs Monaten, hat das Bundesamt dem Ausländer auf Antrag mitzuteilen, bis wann voraussichtlich über seinen Asylantrag entschieden wird.
+(4) Eine Entscheidung über den Asylantrag ergeht innerhalb von sechs Monaten. Das Bundesamt kann die Frist auf höchstens 15 Monate verlängern, wenn
+
+1. sich in tatsächlicher oder rechtlicher Hinsicht komplexe Fragen ergeben,
+
+2. eine große Zahl von Ausländern gleichzeitig Anträge stellt, weshalb es in der Praxis besonders schwierig ist, das Verfahren innerhalb der Frist nach Satz 1 abzuschließen oder
+
+3. die Verzögerung eindeutig darauf zurückzuführen ist, dass der Ausländer seinen Pflichten nach § 15 nicht nachgekommen ist.
+
+Das Bundesamt kann die Frist von 15 Monaten ausnahmsweise um höchstens weitere drei Monate verlängern, wenn dies erforderlich ist, um eine angemessene und vollständige Prüfung des Antrags zu gewährleisten.
+
+(5) Besteht aller Voraussicht nach im Herkunftsstaat eine vorübergehend ungewisse Lage, sodass eine Entscheidung vernünftigerweise nicht erwartet werden kann, kann die Entscheidung abweichend von den in Absatz 4 genannten Fristen aufgeschoben werden. In diesen Fällen überprüft das Bundesamt mindestens alle sechs Monate die Lage in dem Herkunftsstaat. Das Bundesamt unterrichtet innerhalb einer angemessenen Frist die betroffenen Ausländer über die Gründe des Aufschubs der Entscheidung sowie die Europäische Kommission über den Aufschub der Entscheidungen.
+
+(6) Die Frist nach Absatz 4 Satz 1 beginnt mit der Stellung des Asylantrags nach § 14 Absatz 1 und 2. Ist ein Antrag gemäß dem Verfahren nach Maßgabe der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) zu behandeln, so beginnt die Frist nach Absatz 4 Satz 1, wenn die Bundesrepublik Deutschland als für die Prüfung zuständiger Mitgliedstaat bestimmt ist. Hält sich der Ausländer zu diesem Zeitpunkt nicht im Bundesgebiet auf, so beginnt die Frist mit seiner Überstellung in das Bundesgebiet.
+
+(7) Das Bundesamt entscheidet spätestens 21 Monate nach der Antragstellung nach § 14 Absatz 1 und 2.
+
+(8) Das Bundesamt informiert den Ausländer für den Fall, dass innerhalb von sechs Monaten keine Entscheidung ergehen kann, über die Verzögerung und unterrichtet ihn auf sein Verlangen über die Gründe für die Verzögerung und den zeitlichen Rahmen, innerhalb dessen mit einer Entscheidung zu rechnen ist.
 
 # § 25 – Anhörung
 
@@ -525,15 +559,17 @@ b) die nach § 25 Abs. 3 Satz 2 Nummer 1 bis 4 des Aufenthaltsgesetzes der Ertei
 
 (2) Der Ausländer hat alle sonstigen Tatsachen und Umstände anzugeben, die einer Abschiebung oder einer Abschiebung in einen bestimmten Staat entgegenstehen.
 
-(3) Ein späteres Vorbringen des Ausländers kann unberücksichtigt bleiben, wenn andernfalls die Entscheidung des Bundesamtes verzögert würde. Der Ausländer ist hierauf und auf § 36 Abs. 4 Satz 3 hinzuweisen.
+(3) Ein späteres Vorbringen des Ausländers kann unberücksichtigt bleiben, wenn andernfalls die Entscheidung des Bundesamtes verzögert würde. Der Ausländer ist hierauf und auf § 36 Absatz 4 Satz 3 hinzuweisen.
 
-(4) Bei einem Ausländer, der verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, soll die Anhörung in zeitlichem Zusammenhang mit der Asylantragstellung erfolgen. Einer besonderen Ladung des Ausländers und seines Bevollmächtigten bedarf es nicht. Entsprechendes gilt, wenn dem Ausländer bei oder innerhalb einer Woche nach der Antragstellung der Termin für die Anhörung mitgeteilt wird. Kann die Anhörung nicht an demselben Tag stattfinden, sind der Ausländer und sein Bevollmächtigter von dem Anhörungstermin unverzüglich zu verständigen. Erscheint der Ausländer ohne genügende Entschuldigung nicht zur Anhörung, entscheidet das Bundesamt nach Aktenlage, wobei auch die Nichtmitwirkung des Ausländers zu berücksichtigen ist.
+(4) Bei einem Ausländer, der verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, soll die Anhörung in zeitlichem Zusammenhang mit der Asylantragstellung erfolgen. Einer besonderen Ladung des Ausländers und seines Bevollmächtigten bedarf es nicht. Entsprechendes gilt, wenn dem Ausländer bei oder innerhalb einer Woche nach der Antragstellung der Termin für die Anhörung mitgeteilt wird. Kann die Anhörung nicht an demselben Tag stattfinden, sind der Ausländer und sein Bevollmächtigter von dem Anhörungstermin unverzüglich zu verständigen.
 
-(5) Bei einem Ausländer, der nicht verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, kann von der persönlichen Anhörung abgesehen werden, wenn der Ausländer einer Ladung zur Anhörung ohne genügende Entschuldigung nicht folgt. In diesem Falle ist dem Ausländer Gelegenheit zur schriftlichen Stellungnahme innerhalb eines Monats zu geben. Äußert sich der Ausländer innerhalb dieser Frist nicht, entscheidet das Bundesamt nach Aktenlage, wobei auch die Nichtmitwirkung des Ausländers zu würdigen ist. § 33 bleibt unberührt.
+(5) Bei einem Ausländer, der nicht verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, kann von der persönlichen Anhörung abgesehen werden, wenn der Ausländer einer Ladung zur Anhörung ohne genügende Entschuldigung nicht folgt. In diesem Falle ist dem Ausländer Gelegenheit zur schriftlichen Stellungnahme innerhalb eines Monats zu geben.
 
-(6) Die Anhörung ist nicht öffentlich. An ihr können Personen, die sich als Vertreter des Bundes, eines Landes oder des Hohen Flüchtlingskommissars der Vereinten Nationen ausweisen, teilnehmen. Anderen Personen kann der Leiter des Bundesamtes oder die von ihm beauftragte Person die Anwesenheit gestatten.
+(6) Die Anhörung ist nicht öffentlich. An ihr können Personen, die sich als Vertreter des Bundes, eines Landes oder des Hohen Flüchtlingskommissars der Vereinten Nationen ausweisen, teilnehmen. Der Ausländer kann sich bei der Anhörung von einem Bevollmächtigten oder Beistand im Sinne des § 14 des Verwaltungsverfahrensgesetzes begleiten lassen. Das Bundesamt kann die Anhörung auch dann durchführen, wenn der Bevollmächtigte oder Beistand trotz einer mit angemessener Frist erfolgten Ladung nicht an ihr teilnimmt. Satz 4 gilt nicht, wenn der Bevollmächtigte oder Beistand seine Nichtteilnahme vor Beginn der Anhörung genügend entschuldigt. Anderen Personen kann der Leiter des Bundesamtes oder die von ihm beauftragte Person die Anwesenheit gestatten.
 
-(7) Über die Anhörung ist eine Niederschrift aufzunehmen, die die wesentlichen Angaben des Ausländers enthält. Dem Ausländer ist eine Kopie der Niederschrift auszuhändigen oder mit der Entscheidung des Bundesamtes zuzustellen.
+(7) Die Anhörung kann in geeigneten Fällen ausnahmsweise im Wege der Bild- und Tonübertragung erfolgen.
+
+(8) Über die Anhörung ist eine Niederschrift aufzunehmen, die die wesentlichen Angaben des Ausländers enthält. Dem Ausländer ist eine Kopie der Niederschrift auszuhändigen oder mit der Entscheidung des Bundesamtes zuzustellen.
 
 # § 26 – Familienasyl und internationaler Schutz für Familienangehörige
 
@@ -611,7 +647,7 @@ Für zum Zeitpunkt ihrer Antragstellung minderjährige ledige Geschwister des mi
 
 1. ein anderer Staat
 
-a) nach Maßgabe der Verordnung (EU) Nr.604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) oder
+a) nach Maßgabe der Verordnung (EU) Nr. 604/2013 oder
 
 b) auf Grund von anderen Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages
 
@@ -705,11 +741,11 @@ Die §§ 48 bis 50 bleiben unberührt.
 
 # § 31 – Entscheidung des Bundesamtes über Asylanträge
 
-(1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist schriftlich zu begründen. Entscheidungen, die der Anfechtung unterliegen, sind den Beteiligten unverzüglich zuzustellen. Wurde kein Bevollmächtigter für das Verfahren bestellt, ist eine Übersetzung der Entscheidungsformel und der Rechtsbehelfsbelehrung in einer Sprache beizufügen, deren Kenntnis vernünftigerweise vorausgesetzt werden kann; Asylberechtigte und Ausländer, denen internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird oder bei denen das Bundesamt ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes festgestellt hat, werden zusätzlich über die Rechte und Pflichten unterrichtet, die sich daraus ergeben. Wird der Asylantrag nur nach § 26a oder § 29 Absatz 1 Nummer 1 abgelehnt, ist die Entscheidung zusammen mit der Abschiebungsanordnung nach § 34a dem Ausländer selbst zuzustellen. Sie kann ihm auch von der für die Abschiebung oder für die Durchführung der Abschiebung zuständigen Behörde zugestellt werden. Wird der Ausländer durch einen Bevollmächtigten vertreten oder hat er einen Empfangsberechtigten benannt, soll diesem ein Abdruck der Entscheidung zugeleitet werden.
+(1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist schriftlich zu begründen. Entscheidungen, die der Anfechtung unterliegen, sind den Beteiligten unverzüglich zuzustellen. Wurde kein Bevollmächtigter für das Verfahren bestellt, ist eine Übersetzung der Entscheidungsformel und der Rechtsbehelfsbelehrung in einer Sprache beizufügen, deren Kenntnis vernünftigerweise vorausgesetzt werden kann. Das Bundesamt informiert mit der Entscheidung über die Rechte und Pflichten, die sich aus ihr ergeben.
 
-(2) In Entscheidungen über zulässige Asylanträge und nach § 30 Abs. 5 ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
+(2) In Entscheidungen über zulässige Asylanträge und nach § 30 Absatz 5 ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
 
-(3) In den Fällen des Absatzes 2 und in Entscheidungen über unzulässige Asylanträge ist festzustellen, ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Davon kann abgesehen werden, wenn der Ausländer als Asylberechtigter anerkannt wird oder ihm internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird.
+(3) In den Fällen des Absatzes 2 und in Entscheidungen über unzulässige Asylanträge ist festzustellen, ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Davon kann abgesehen werden, wenn der Ausländer als Asylberechtigter anerkannt wird oder ihm internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird. Von der Feststellung nach Satz 1 kann auch abgesehen werden, wenn das Bundesamt in einem früheren Verfahren über das Vorliegen der Voraussetzungen des § 60 Absatz 5 und 7 des Aufenthaltsgesetzes entschieden hat und die Voraussetzungen des § 51 Absatz 1 bis 3 des Verwaltungsverfahrensgesetzes nicht vorliegen.
 
 (4) Wird der Asylantrag nur nach § 26a als unzulässig abgelehnt, bleibt § 26 Absatz 5 in den Fällen des § 26 Absatz 1 bis 4 unberührt.
 
@@ -721,7 +757,7 @@ Die §§ 48 bis 50 bleiben unberührt.
 
 # § 32 – Entscheidung bei Antragsrücknahme oder Verzicht
 
-Im Falle der Antragsrücknahme oder des Verzichts gemäß § 14a Abs. 3 stellt das Bundesamt in seiner Entscheidung fest, dass das Asylverfahren eingestellt ist und ob ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegt. In den Fällen des § 33 ist nach Aktenlage zu entscheiden.
+Im Falle der Antragsrücknahme oder des Verzichts gemäß § 14a Abs. 3 stellt das Bundesamt in seiner Entscheidung fest, dass das Asylverfahren eingestellt ist und ob ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegt.
 
 # § 32a – Ruhen des Verfahrens
 
@@ -731,7 +767,7 @@ Im Falle der Antragsrücknahme oder des Verzichts gemäß § 14a Abs. 3 stellt d
 
 # § 33 – Nichtbetreiben des Verfahrens
 
-(1) Der Asylantrag gilt als zurückgenommen, wenn der Ausländer das Verfahren nicht betreibt.
+(1) Das Bundesamt stellt das Verfahren ein oder lehnt den Asylantrag nach angemessener inhaltlicher Prüfung ab, wenn der Ausländer das Verfahren nicht betreibt. Sofern das Bundesamt das Verfahren einstellt, entscheidet es nach Aktenlage, ob ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegt.
 
 (2) Es wird vermutet, dass der Ausländer das Verfahren nicht betreibt, wenn er
 
@@ -741,13 +777,13 @@ Im Falle der Antragsrücknahme oder des Verzichts gemäß § 14a Abs. 3 stellt d
 
 3. gegen die räumliche Beschränkung seiner Aufenthaltsgestattung gemäß § 56 verstoßen hat, der er wegen einer Wohnverpflichtung nach § 30a Absatz 3 unterliegt.
 
-Die Vermutung nach Satz 1 gilt nicht, wenn der Ausländer unverzüglich nachweist, dass das in Satz 1 Nummer 1 genannte Versäumnis oder die in Satz 1 Nummer 2 und 3 genannte Handlung auf Umstände zurückzuführen war, auf die er keinen Einfluss hatte. Führt der Ausländer diesen Nachweis, ist das Verfahren fortzuführen. Wurde das Verfahren als beschleunigtes Verfahren nach § 30a durchgeführt, beginnt die Frist nach § 30a Absatz 2 Satz 1 neu zu laufen.
+Die Vermutung nach Satz 1 gilt nicht, wenn der Ausländer innerhalb eines Monats nach Zustellung der Entscheidung nach Absatz 1 nachweist, dass das in Satz 1 Nummer 1 genannte Versäumnis oder die in Satz 1 Nummer 2 und 3 genannte Handlung auf Umstände zurückzuführen war, auf die er keinen Einfluss hatte. Führt der Ausländer diesen Nachweis, ist das Verfahren fortzuführen. Wurde das Verfahren als beschleunigtes Verfahren nach § 30a durchgeführt, beginnt die Frist nach § 30a Absatz 2 Satz 1 neu zu laufen.
 
-(3) Der Asylantrag gilt ferner als zurückgenommen, wenn der Ausländer während des Asylverfahrens in seinen Herkunftsstaat gereist ist.
+(3) Als Nichtbetreiben des Verfahrens gilt ferner, wenn der Ausländer während des Asylverfahrens in seinen Herkunftsstaat gereist ist.
 
 (4) Der Ausländer ist auf die nach den Absätzen 1 und 3 eintretenden Rechtsfolgen schriftlich und gegen Empfangsbestätigung hinzuweisen.
 
-(5) In den Fällen der Absätze 1 und 3 stellt das Bundesamt das Asylverfahren ein. Ein Ausländer, dessen Asylverfahren gemäß Satz 1 eingestellt worden ist, kann die Wiederaufnahme des Verfahrens beantragen. Der Antrag ist persönlich bei der Außenstelle des Bundesamtes zu stellen, die der Aufnahmeeinrichtung zugeordnet ist, in welcher der Ausländer vor der Einstellung des Verfahrens zu wohnen verpflichtet war. Stellt der Ausländer einen neuen Asylantrag, so gilt dieser als Antrag im Sinne des Satzes 2. Das Bundesamt nimmt die Prüfung in dem Verfahrensabschnitt wieder auf, in dem sie eingestellt wurde. Abweichend von Satz 5 ist das Asylverfahren nicht wieder aufzunehmen und ein Antrag nach Satz 2 oder Satz 4 ist als Folgeantrag (§ 71) zu behandeln, wenn
+(5) Ein Ausländer, dessen Asylverfahren gemäß Absatz 1 eingestellt worden ist, kann die Wiederaufnahme des Verfahrens beantragen. Der Antrag ist persönlich bei der Außenstelle des Bundesamtes zu stellen, die der Aufnahmeeinrichtung zugeordnet ist, in welcher der Ausländer vor der Einstellung des Verfahrens zu wohnen verpflichtet war. Stellt der Ausländer einen neuen Asylantrag, so gilt dieser als Antrag im Sinne des Satzes 1. Das Bundesamt nimmt die Prüfung in dem Verfahrensabschnitt wieder auf, in dem sie eingestellt wurde. Abweichend von Satz 4 ist das Asylverfahren nicht wieder aufzunehmen und ein Antrag nach Satz 1 oder Satz 3 ist als Folgeantrag (§ 71) zu behandeln, wenn
 
 1. die Einstellung des Asylverfahrens zum Zeitpunkt der Antragstellung mindestens neun Monate zurückliegt oder
 
@@ -755,7 +791,7 @@ Die Vermutung nach Satz 1 gilt nicht, wenn der Ausländer unverzüglich nachweis
 
 Wird ein Verfahren nach dieser Vorschrift wieder aufgenommen, das vor der Einstellung als beschleunigtes Verfahren nach § 30a durchgeführt wurde, beginnt die Frist nach § 30a Absatz 2 Satz 1 neu zu laufen.
 
-(6) Für Rechtsbehelfe gegen eine Entscheidung nach Absatz 5 Satz 6 gilt § 36 Absatz 3 entsprechend.
+(6) Für Rechtsbehelfe gegen eine Entscheidung nach Absatz 5 Satz 5 gilt § 36 Absatz 3 entsprechend.
 
 # § 34 – Abschiebungsandrohung
 
@@ -799,7 +835,7 @@ In den Fällen des § 29 Absatz 1 Nummer 2 und 4 droht das Bundesamt dem Auslän
 
 # § 37 – Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung
 
-(1) Die Entscheidung des Bundesamtes über die Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 des Antrags und die Abschiebungsandrohung werden unwirksam, wenn das Verwaltungsgericht dem Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung entspricht. Das Bundesamt hat das Asylverfahren fortzuführen.
+(1) Die Entscheidung des Bundesamtes über die Unzulässigkeit nach § 29 Absatz 1 Nummer 4 des Antrags und die Abschiebungsandrohung werden unwirksam, wenn das Verwaltungsgericht dem Antrag nach § 80 Absatz 5 der Verwaltungsgerichtsordnung entspricht. Das Bundesamt hat das Asylverfahren fortzuführen.
 
 (2) Entspricht das Verwaltungsgericht im Falle eines als offensichtlich unbegründet abgelehnten Asylantrags dem Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung, endet die Ausreisefrist 30 Tage nach dem unanfechtbaren Abschluss des Asylverfahrens.
 
@@ -809,7 +845,7 @@ In den Fällen des § 29 Absatz 1 Nummer 2 und 4 droht das Bundesamt dem Auslän
 
 (1) In den sonstigen Fällen, in denen das Bundesamt den Ausländer nicht als Asylberechtigten anerkennt, beträgt die dem Ausländer zu setzende Ausreisefrist 30 Tage. Im Falle der Klageerhebung endet die Ausreisefrist 30 Tage nach dem unanfechtbaren Abschluss des Asylverfahrens.
 
-(2) Im Falle der Rücknahme des Asylantrags vor der Entscheidung des Bundesamtes beträgt die dem Ausländer zu setzende Ausreisefrist eine Woche.
+(2) Im Falle der Rücknahme des Asylantrags vor der Entscheidung des Bundesamtes oder der Einstellung des Verfahrens beträgt die dem Ausländer zu setzende Ausreisefrist eine Woche.
 
 (3) Im Falle der Rücknahme des Asylantrags oder der Klage oder des Verzichts auf die Durchführung des Asylverfahrens nach § 14a Absatz 3 kann dem Ausländer eine Ausreisefrist bis zu drei Monaten eingeräumt werden, wenn er sich zur freiwilligen Ausreise bereit erklärt.
 
@@ -1195,7 +1231,7 @@ die in Nummer 4 bezeichneten Voraussetzungen liegen vor, wenn der Ausländer ein
 
 (1) Die Aufenthaltsgestattung erlischt,
 
-1. wenn der Ausländer nach § 18 Abs. 2 und 3 zurückgewiesen oder zurückgeschoben wird,
+1. wenn der Ausländer nach § 18 Absatz 2 und 3 zurückgewiesen oder zurückgeschoben wird,
 
 1a. (weggefallen)
 
@@ -1203,7 +1239,7 @@ die in Nummer 4 bezeichneten Voraussetzungen liegen vor, wenn der Ausländer ein
 
 3. im Falle der Rücknahme des Asylantrags mit der Zustellung der Entscheidung des Bundesamtes,
 
-4. wenn eine nach diesem Gesetz oder nach § 60 Abs. 9 des Aufenthaltsgesetzes erlassene Abschiebungsandrohung vollziehbar geworden ist,
+4. wenn eine nach diesem Gesetz oder nach § 60 Absatz 9 des Aufenthaltsgesetzes erlassene Abschiebungsandrohung vollziehbar geworden ist,
 
 5. mit der Vollziehbarkeit einer Abschiebungsanordnung nach § 34a,
 
@@ -1215,7 +1251,7 @@ Liegt in den Fällen des § 23 Absatz 1 der dem Ausländer genannte Termin bei d
 
 (2) Die Aufenthaltsgestattung tritt wieder in Kraft, wenn
 
-1. ein nach § 33 Absatz 5 Satz 1 eingestelltes Verfahren wieder aufgenommen wird oder
+1. ein nach § 33 Absatz 1 eingestelltes Verfahren wieder aufgenommen wird oder
 
 2. der Ausländer den Asylantrag nach Ablauf der in Absatz 1 Satz 1 Nummer 2 oder Satz 2 genannten Frist stellt.
 
@@ -1263,83 +1299,89 @@ Liegt in den Fällen des § 23 Absatz 1 der dem Ausländer genannte Termin bei d
 
 # § 72 – Erlöschen
 
-(1) Die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft erlöschen, wenn der Ausländer
+(1) Die Anerkennung als Asylberechtigter und die Zuerkennung des internationalen Schutzes erlöschen, wenn der Ausländer
 
-1. sich freiwillig durch Annahme oder Erneuerung eines Nationalpasses oder durch sonstige Handlungen erneut dem Schutz des Staates, dessen Staatsangehörigkeit er besitzt, unterstellt,
+1. eindeutig, freiwillig und schriftlich gegenüber dem Bundesamt auf sie verzichtet oder
 
-1a. freiwillig in das Land, das er aus Furcht vor Verfolgung verlassen hat oder außerhalb dessen er sich aus Furcht vor Verfolgung befindet, zurückgekehrt ist und sich dort niedergelassen hat,
+2. auf seinen Antrag die deutsche Staatsangehörigkeit erworben hat.
 
-2. nach Verlust seiner Staatsangehörigkeit diese freiwillig wiedererlangt hat,
+Satz 1 Nummer 2 gilt entsprechend für die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes.
 
-3. auf Antrag eine neue Staatsangehörigkeit erworben hat und den Schutz des Staates, dessen Staatsangehörigkeit er erworben hat, genießt oder
+(2) Der Ausländer hat einen Anerkennungs-, Zuerkennungs- oder Feststellungsbescheid und einen Reiseausweis unverzüglich bei der Ausländerbehörde abzugeben.
 
-4. auf sie verzichtet oder vor Eintritt der Unanfechtbarkeit der Entscheidung des Bundesamtes den Antrag zurücknimmt.
+# § 73 – Widerrufs- und Rücknahmegründe
 
-(2) Der Ausländer hat einen Anerkennungsbescheid und einen Reiseausweis unverzüglich bei der Ausländerbehörde abzugeben.
+(1) Die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft ist zu widerrufen, wenn die Voraussetzungen für sie nicht mehr vorliegen. Dies ist insbesondere der Fall, wenn der Ausländer
 
-# § 73 – Widerruf und Rücknahme der Asylberechtigung und der Flüchtlingseigenschaft
+1. sich freiwillig erneut dem Schutz des Staates, dessen Staatsangehörigkeit er besitzt, unterstellt,
 
-(1) Die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft sind unverzüglich zu widerrufen, wenn die Voraussetzungen für sie nicht mehr vorliegen. Dies ist insbesondere der Fall, wenn der Ausländer nach Wegfall der Umstände, die zur Anerkennung als Asylberechtigter oder zur Zuerkennung der Flüchtlingseigenschaft geführt haben, es nicht mehr ablehnen kann, den Schutz des Staates in Anspruch zu nehmen, dessen Staatsangehörigkeit er besitzt, oder wenn er als Staatenloser in der Lage ist, in das Land zurückzukehren, in dem er seinen gewöhnlichen Aufenthalt hatte. Satz 2 gilt nicht, wenn sich der Ausländer auf zwingende, auf früheren Verfolgungen beruhende Gründe berufen kann, um die Rückkehr in den Staat abzulehnen, dessen Staatsangehörigkeit er besitzt oder in dem er als Staatenloser seinen gewöhnlichen Aufenthalt hatte.
+2. nach dem Verlust seiner Staatsangehörigkeit diese freiwillig wiedererlangt hat,
 
-(2) Die Anerkennung als Asylberechtigter ist zurückzunehmen, wenn sie auf Grund unrichtiger Angaben oder infolge Verschweigens wesentlicher Tatsachen erteilt worden ist und der Ausländer auch aus anderen Gründen nicht anerkannt werden könnte. Satz 1 ist auf die Zuerkennung der Flüchtlingseigenschaft entsprechend anzuwenden.
+3. auf Antrag eine neue Staatsangehörigkeit erworben hat und den Schutz des Staates, dessen Staatsangehörigkeit er erworben hat, genießt,
 
-(2a) Die Prüfung, ob die Voraussetzungen für einen Widerruf nach Absatz 1 oder eine Rücknahme nach Absatz 2 vorliegen, hat spätestens nach Ablauf von drei Jahren nach Unanfechtbarkeit der Entscheidung zu erfolgen. Liegen die Voraussetzungen für einen Widerruf oder eine Rücknahme vor, teilt das Bundesamt dieses Ergebnis der Ausländerbehörde spätestens innerhalb eines Monats nach dreijähriger Unanfechtbarkeit der begünstigenden Entscheidung mit. Anderenfalls kann eine Mitteilung an die Ausländerbehörde entfallen. Der Ausländerbehörde ist auch mitzuteilen, welche Personen nach § 26 ihre Asylberechtigung oder Flüchtlingseigenschaft von dem Ausländer ableiten und ob bei ihnen die Voraussetzungen für einen Widerruf nach Absatz 2b vorliegen. Ist nach der Prüfung ein Widerruf oder eine Rücknahme nicht erfolgt, steht eine spätere Entscheidung nach Absatz 1 oder Absatz 2 im Ermessen, es sei denn, der Widerruf oder die Rücknahme erfolgt, weil die Voraussetzungen des § 60 Abs. 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Abs. 2 vorliegen oder weil das Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat.
+4. freiwillig in das Land, das er aus Furcht vor Verfolgung verlassen hat oder außerhalb dessen er sich aus Furcht vor Verfolgung befindet, zurückgekehrt ist und sich dort niedergelassen hat,
 
-(2b) In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Voraussetzungen des § 26 Absatz 4 Satz 1 vorliegen. Die Anerkennung als Asylberechtigter ist ferner zu widerrufen, wenn die Anerkennung des Asylberechtigten, von dem die Anerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und der Ausländer nicht aus anderen Gründen als Asylberechtigter anerkannt werden könnte. In den Fällen des § 26 Absatz 5 ist die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Flüchtlingseigenschaft des Ausländers, von dem die Zuerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und dem Ausländer nicht aus anderen Gründen die Flüchtlingseigenschaft zuerkannt werden könnte. § 26 Absatz 1 Satz 2 gilt entsprechend.
+5. nach Wegfall der Umstände, die zur Anerkennung als Asylberechtigter oder zur Zuerkennung der Flüchtlingseigenschaft geführt haben, es nicht mehr ablehnen kann, den Schutz des Landes in Anspruch zu nehmen, dessen Staatsangehörigkeit er besitzt, oder
 
-(2c) Bis zur Bestandskraft des Widerrufs oder der Rücknahme entfällt für Einbürgerungsverfahren die Verbindlichkeit der Entscheidung über den Asylantrag.
+6. als Staatenloser nach Wegfall der Umstände, die zur Anerkennung als Asylberechtigter oder zur Zuerkennung der Flüchtlingseigenschaft geführt haben, in der Lage ist, in das Land zurückzukehren, in dem er seinen gewöhnlichen Aufenthalt hatte.
 
-(3) Bei Widerruf oder Rücknahme der Anerkennung als Asylberechtigter oder der Zuerkennung der Flüchtlingseigenschaft ist zu entscheiden, ob die Voraussetzungen für den subsidiären Schutz oder die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen.
+Die Veränderung der Umstände nach Satz 2 Nummer 5 und 6 muss erheblich und nicht nur vorübergehend sein, sodass die Furcht des Ausländers vor Verfolgung nicht länger als begründet angesehen werden kann.
 
-(3a) Der Ausländer ist nach Aufforderung durch das Bundesamt persönlich zur Mitwirkung bei der Prüfung des Vorliegens der Voraussetzungen des Widerrufs oder der Rücknahme der Anerkennung als Asylberechtigter oder der Zuerkennung der Flüchtlingseigenschaft verpflichtet, soweit dies für die Prüfung erforderlich und dem Ausländer zumutbar ist. § 15 Absatz 1 Satz 2, Absatz 2 Nummer 1, 4 bis 7 und Absatz 3 sowie § 16 gelten entsprechend, hinsichtlich der Sicherung der Identität durch erkennungsdienstliche Maßnahmen (§ 16 Absatz 1 Satz 1 und 2) mit der Maßgabe, dass sie nur zulässig ist, soweit die Identität des Ausländers nicht bereits gesichert worden ist. Das Bundesamt soll den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Mitwirkungspflichten anhalten. Kommt der Ausländer den Mitwirkungspflichten nicht oder nicht vollständig nach, kann das Bundesamt nach Aktenlage entscheiden, sofern
+(2) Die Zuerkennung des subsidiären Schutzes ist zu widerrufen, wenn die Umstände, die zur Zuerkennung des subsidiären Schutzes geführt haben, nicht mehr bestehen oder sich in einem Maß verändert haben, dass ein solcher Schutz nicht mehr erforderlich ist. Die Veränderung der Umstände nach Satz 1 muss wesentlich und nicht nur vorübergehend sein, sodass der Ausländer tatsächlich nicht länger Gefahr läuft, einen ernsthaften Schaden zu erleiden.
 
-1. die unterbliebene Mitwirkungshandlung nicht unverzüglich nachgeholt worden ist, oder
+(3) Absatz 1 Satz 2 Nummer 5 und 6 und Absatz 2 gelten nicht, wenn sich der Ausländer auf zwingende, auf früheren Verfolgungen beruhende Gründe oder auf früher erlittenen ernsthaften Schaden berufen kann, um die Inanspruchnahme des Schutzes des Landes, dessen Staatsangehörigkeit er besitzt, oder wenn er staatenlos ist, des Landes, in dem er seinen gewöhnlichen Aufenthalt hatte, abzulehnen.
+
+(4) Die Anerkennung als Asylberechtigter oder die Zuerkennung des internationalen Schutzes ist zurückzunehmen, wenn sie auf Grund unrichtiger Angaben oder infolge Verschweigens wesentlicher Tatsachen erteilt worden ist und sie dem Ausländer auch aus anderen Gründen nicht erteilt werden könnte.
+
+(5) Die Anerkennung als Asylberechtigter oder die Zuerkennung des internationalen Schutzes ist auch zurückzunehmen oder zu widerrufen, wenn der Ausländer von der Erteilung nach § 3 Absatz 2 bis 4 oder nach § 4 Absatz 2 oder 3 hätte ausgeschlossen werden müssen oder ausgeschlossen ist.
+
+(6) Die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zu widerrufen, wenn die Voraussetzungen nicht mehr vorliegen. Die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zurückzunehmen, wenn sie fehlerhaft ist.
+
+# § 73a – Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige
+
+In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als Asylberechtigter oder die Zuerkennung des internationalen Schutzes zu widerrufen, wenn die Voraussetzungen des § 26 Absatz 4 Satz 1 oder Absatz 5 Satz 3 vorliegen. Die Anerkennung als Asylberechtigter ist ferner zu widerrufen, wenn die Anerkennung des Asylberechtigten, von dem die Anerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und der Ausländer nicht aus anderen Gründen als Asylberechtigter anerkannt werden könnte. Die Zuerkennung des internationalen Schutzes ist ferner zu widerrufen, wenn der internationale Schutz des Ausländers, von dem die Zuerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und dem Ausländer nicht aus anderen Gründen internationaler Schutz zuerkannt werden könnte. § 26 Absatz 1 Satz 2 gilt entsprechend.
+
+# § 73b – Widerrufs- und Rücknahmeverfahren
+
+(1) Das Bundesamt prüft den Widerruf oder die Rücknahme nach § 73 und § 73a, sobald es Kenntnis von Umständen oder Tatsachen erhält, die einen Widerruf oder eine Rücknahme rechtfertigen könnten.
+
+(2) Bei Widerruf oder Rücknahme der Anerkennung als Asylberechtigter oder der Zuerkennung der Flüchtlingseigenschaft ist zu entscheiden, ob die Voraussetzungen für den subsidiären Schutz oder die Voraussetzungen eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Bei Widerruf oder Rücknahme des subsidiären Schutzes ist zu entscheiden, ob die Voraussetzungen eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen.
+
+(3) Liegen die Voraussetzungen für einen Widerruf oder eine Rücknahme vor, teilt das Bundesamt dieses Ergebnis der Ausländerbehörde mit. Der Ausländerbehörde ist auch mitzuteilen, welche Personen nach § 26 ihre Asylberechtigung oder ihren internationalen Schutz von dem Ausländer ableiten und ob bei ihnen die Voraussetzungen für einen Widerruf oder eine Rücknahme vorliegen.
+
+(4) Bis zur Bestandskraft des Widerrufs oder der Rücknahme entfällt für Einbürgerungsverfahren die Verbindlichkeit der Entscheidung über den Asylantrag.
+
+(5) Der Ausländer ist nach Aufforderung durch das Bundesamt persönlich zur Mitwirkung bei der Prüfung des Vorliegens der Voraussetzungen des Widerrufs oder der Rücknahme verpflichtet, soweit dies für die Prüfung erforderlich und dem Ausländer zumutbar ist. § 15 Absatz 1 Satz 2, Absatz 2 Nummer 1, 4 bis 7 und Absatz 3 sowie § 16 gelten entsprechend, hinsichtlich der Sicherung der Identität durch erkennungsdienstliche Maßnahmen (§ 16 Absatz 1 Satz 1 und 2) mit der Maßgabe, dass sie nur zulässig ist, soweit die Identität des Ausländers nicht bereits gesichert worden ist. Das Bundesamt soll den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Mitwirkungspflichten anhalten. Kommt der Ausländer den Mitwirkungspflichten nicht oder nicht vollständig nach, kann das Bundesamt nach Aktenlage entscheiden, sofern
+
+1. die unterbliebene Mitwirkungshandlung nicht unverzüglich nachgeholt worden ist oder
 
 2. der Ausländer die Mitwirkungspflichten ohne genügende Entschuldigung verletzt hat.
 
-Bei der Entscheidung nach Aktenlage sind für die Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes sämtliche maßgeblichen Tatsachen und Umstände zu berücksichtigen. Ferner ist zu berücksichtigen, inwieweit der Ausländer seinen Mitwirkungs-pflichten nachgekommen ist. Der Ausländer ist durch das Bundesamt auf Inhalt und Umfang seiner Mitwirkungspflichten nach dieser Vorschrift sowie auf die Rechtsfolgen einer Verletzung hinzuweisen.
+Bei der Entscheidung nach Aktenlage sind für die Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes sämtliche maßgeblichen Tatsachen und Umstände zu berücksichtigen. Ferner ist zu berücksichtigen, inwieweit der Ausländer seinen Mitwirkungspflichten nachgekommen ist. Der Ausländer ist durch das Bundesamt auf Inhalt und Umfang seiner Mitwirkungspflichten nach dieser Vorschrift sowie auf die Rechtsfolgen einer Verletzung hinzuweisen.
 
-(4) In den Fällen, in denen keine Aufforderung durch das Bundesamt nach Absatz 3a erfolgt ist, ist dem Ausländer die beabsichtigte Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes schriftlich mitzuteilen und ihm ist Gelegenheit zur Äußerung zu geben. Ihm kann aufgegeben werden, sich innerhalb eines Monats schriftlich zu äußern. Hat sich der Ausländer innerhalb dieser Frist nicht geäußert, ist nach Aktenlage zu entscheiden; der Ausländer ist auf diese Rechtsfolge hinzuweisen.
+(6) Dem Ausländer ist die beabsichtigte Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes schriftlich unter Angabe der Gründe mitzuteilen und ihm ist Gelegenheit zu einer mündlichen oder schriftlichen Äußerung zu geben. Ihm kann aufgegeben werden, sich innerhalb eines Monats schriftlich zu äußern. Hat sich der Ausländer innerhalb dieser Frist nicht geäußert, ist nach Aktenlage zu entscheiden; der Ausländer ist auf diese Rechtsfolge hinzuweisen.
 
-(5) Mitteilungen oder Entscheidungen des Bundesamtes, die eine Frist in Lauf setzen, sind dem Ausländer zuzustellen.
+(7) Die Entscheidung des Bundesamtes über den Widerruf oder die Rücknahme ergeht schriftlich. Sie ist zu begründen und ihr ist eine Rechtsbehelfsbelehrung beizufügen. Mitteilungen oder Entscheidungen des Bundesamtes, die eine Frist in Lauf setzen, sind dem Ausländer zuzustellen.
 
-(6) Ist die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft unanfechtbar widerrufen oder zurückgenommen oder aus einem anderen Grund nicht mehr wirksam, gilt § 72 Abs. 2 entsprechend.
+(8) Ist die Anerkennung als Asylberechtigter, die Zuerkennung des internationalen Schutzes oder die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes unanfechtbar widerrufen oder zurückgenommen oder aus einem anderen Grund nicht mehr wirksam, gilt § 72 Absatz 2 entsprechend. In den Fällen des § 75 Absatz 2 gilt § 72 Absatz 2 ab der Vollziehbarkeit der Entscheidung.
 
-(7) Für Entscheidungen des Bundesamtes über die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft, die im Jahre 2015 unanfechtbar geworden sind, endet die in Absatz 2a Satz 1 bestimmte Frist für die Entscheidung über einen Widerruf oder eine Rücknahme am 31. Dezember 2019, für Entscheidungen, die im Jahre 2016 unanfechtbar geworden sind, endet sie am 31. Dezember 2020 und für Entscheidungen, die im Jahre 2017 unanfechtbar geworden sind, endet sie am 31. Dezember 2021. Die Mitteilung an die Ausländerbehörde gemäß Absatz 2a Satz 2 hat spätestens bis zum 31. Januar des jeweiligen Folgejahres zu erfolgen.
+# § 73c – Ausländische Anerkennung als Flüchtling
 
-# § 73a – Ausländische Anerkennung als Flüchtling
+(1) Ist bei einem Ausländer, der von einem ausländischen Staat als Flüchtling im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge anerkannt worden ist, die Verantwortung für die Ausstellung des Reiseausweises auf die Bundesrepublik Deutschland übergegangen (Verantwortungsübergang), so erlischt seine Rechtsstellung als Flüchtling in der Bundesrepublik Deutschland, wenn einer der in § 72 Absatz 1 genannten Umstände eintritt. Der Ausländer hat den Reiseausweis unverzüglich bei der Ausländerbehörde abzugeben.
 
-(1) Ist bei einem Ausländer, der von einem ausländischen Staat als Flüchtling im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge anerkannt worden ist, die Verantwortung für die Ausstellung des Reiseausweises auf die Bundesrepublik Deutschland übergegangen, so erlischt seine Rechtsstellung als Flüchtling in der Bundesrepublik Deutschland, wenn einer der in § 72 Abs. 1 genannten Umstände eintritt. Der Ausländer hat den Reiseausweis unverzüglich bei der Ausländerbehörde abzugeben.
+(2) Im Falle des Verantwortungsübergangs auf die Bundesrepublik Deutschland wird dem Ausländer durch das Bundesamt die Rechtsstellung als Flüchtling in der Bundesrepublik Deutschland entzogen, wenn die Voraussetzungen für die Zuerkennung der Flüchtlingseigenschaft nicht oder nicht mehr vorliegen. Die §§ 73 bis 73b gelten entsprechend.
 
-(2) Dem Ausländer wird die Rechtsstellung als Flüchtling in der Bundesrepublik Deutschland entzogen, wenn die Voraussetzungen für die Zuerkennung der Flüchtlingseigenschaft nicht oder nicht mehr vorliegen. § 73 gilt entsprechend.
+# § 74 – Klagefrist, Zurückweisung verspäteten Vorbringens, Verhandlung durch den abgelehnten Richter
 
-# § 73b – Widerruf und Rücknahme des subsidiären Schutzes
-
-(1) Die Gewährung des subsidiären Schutzes ist zu widerrufen, wenn die Umstände, die zur Zuerkennung des subsidiären Schutzes geführt haben, nicht mehr bestehen oder sich in einem Maß verändert haben, dass ein solcher Schutz nicht mehr erforderlich ist. § 73 Absatz 1 Satz 3 gilt entsprechend.
-
-(2) Bei Anwendung des Absatzes 1 ist zu berücksichtigen, ob sich die Umstände so wesentlich und nicht nur vorübergehend verändert haben, dass der Ausländer, dem subsidiärer Schutz gewährt wurde, tatsächlich nicht länger Gefahr läuft, einen ernsthaften Schaden im Sinne des § 4 Absatz 1 zu erleiden.
-
-(3) Die Zuerkennung des subsidiären Schutzes ist zurückzunehmen, wenn der Ausländer nach § 4 Absatz 2 von der Gewährung subsidiären Schutzes hätte ausgeschlossen werden müssen oder ausgeschlossen ist oder eine falsche Darstellung oder das Verschweigen von Tatsachen oder die Verwendung gefälschter Dokumente für die Zuerkennung des subsidiären Schutzes ausschlaggebend war.
-
-(4) § 73 Absatz 2b Satz 3 und Absatz 2c bis 6 gilt entsprechend.
-
-# § 73c – Widerruf und Rücknahme von Abschiebungsverboten
-
-(1) Die Feststellung der Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zurückzunehmen, wenn sie fehlerhaft ist.
-
-(2) Die Feststellung der Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zu widerrufen, wenn die Voraussetzungen nicht mehr vorliegen.
-
-(3) § 73 Absatz 2c bis 6 gilt entsprechend.
-
-# § 74 – Klagefrist, Zurückweisung verspäteten Vorbringens
-
-(1) Die Klage gegen Entscheidungen nach diesem Gesetz muss innerhalb von zwei Wochen nach Zustellung der Entscheidung erhoben werden; ist der Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung innerhalb einer Woche zu stellen (§ 34a Absatz 2 Satz 1 und 3, § 36 Absatz 3 Satz 1 und 10), ist auch die Klage innerhalb einer Woche zu erheben.
+(1) Die Klage gegen Entscheidungen nach diesem Gesetz muss innerhalb von zwei Wochen nach Zustellung der Entscheidung erhoben werden; ist der Antrag nach § 80 Absatz 5 der Verwaltungsgerichtsordnung innerhalb einer Woche zu stellen (§ 34a Absatz 2 Satz 1 und 3, § 36 Absatz 3 Satz 1 und 10), ist auch die Klage innerhalb einer Woche zu erheben.
 
 (2) Der Kläger hat die zur Begründung dienenden Tatsachen und Beweismittel binnen einer Frist von einem Monat nach Zustellung der Entscheidung anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt entsprechend. Der Kläger ist über die Verpflichtung nach Satz 1 und die Folgen der Fristversäumung zu belehren. Das Vorbringen neuer Tatsachen und Beweismittel bleibt unberührt.
 
+(3) Wird ein Richter innerhalb eines Zeitraums von drei Werktagen vor der Verhandlung oder während der Verhandlung von einem der Beteiligten wegen Besorgnis der Befangenheit abgelehnt und würde die Entscheidung über die Ablehnung eine Verlegung des Termins oder Vertagung der Verhandlung erfordern, so kann der Termin oder die Verhandlung unter Mitwirkung des abgelehnten Richters durchgeführt oder fortgesetzt werden. Wird die Ablehnung für begründet erklärt, so ist der nach der Anbringung des Ablehnungsgesuchs liegende Teil der Verhandlung zu wiederholen.
+
 # § 75 – Aufschiebende Wirkung der Klage
 
-(1) Die Klage gegen Entscheidungen nach diesem Gesetz hat nur in den Fällen des § 38 Absatz 1 sowie der §§ 73, 73b und 73c aufschiebende Wirkung. Die Klage gegen Maßnahmen des Verwaltungszwangs (§ 73 Absatz 3a Satz 3) hat keine aufschiebende Wirkung.
+(1) Die Klage gegen Entscheidungen nach diesem Gesetz hat nur in den Fällen des § 38 Absatz 1 sowie des § 73b Absatz 7 Satz 1 aufschiebende Wirkung. Die Klage gegen Maßnahmen des Verwaltungszwangs (§ 73b Absatz 5) hat keine aufschiebende Wirkung.
 
 (2) Die Klage gegen Entscheidungen des Bundesamtes, mit denen die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft widerrufen oder zurückgenommen worden ist, hat in folgenden Fällen keine aufschiebende Wirkung:
 
@@ -1363,9 +1405,13 @@ Dies gilt entsprechend bei Klagen gegen den Widerruf oder die Rücknahme der Gew
 
 # § 77 – Entscheidung des Gerichts
 
-(1) In Streitigkeiten nach diesem Gesetz stellt das Gericht auf die Sach- und Rechtslage im Zeitpunkt der letzten mündlichen Verhandlung ab; ergeht die Entscheidung ohne mündliche Verhandlung, ist der Zeitpunkt maßgebend, in dem die Entscheidung gefällt wird. § 74 Abs. 2 Satz 2 bleibt unberührt.
+(1) In Streitigkeiten nach diesem Gesetz stellt das Gericht auf die Sach- und Rechtslage im Zeitpunkt der letzten mündlichen Verhandlung ab; ergeht die Entscheidung ohne mündliche Verhandlung, ist der Zeitpunkt maßgebend, in dem die Entscheidung gefällt wird. § 74 Absatz 2 Satz 2 bleibt unberührt.
 
-(2) Das Gericht sieht von einer weiteren Darstellung des Tatbestandes und der Entscheidungsgründe ab, soweit es den Feststellungen und der Begründung des angefochtenen Verwaltungsaktes folgt und dies in seiner Entscheidung feststellt oder soweit die Beteiligten übereinstimmend darauf verzichten.
+(2) Das Gericht kann außer in den Fällen des § 38 Absatz 1 und des § 73b Absatz 7 bei Klagen gegen Entscheidungen nach diesem Gesetz im schriftlichen Verfahren durch Urteil entscheiden, wenn der Ausländer anwaltlich vertreten ist. Auf Antrag eines Beteiligten muss mündlich verhandelt werden. Hierauf sind die Beteiligten von dem Gericht hinzuweisen.
+
+(3) Das Gericht sieht von einer weiteren Darstellung des Tatbestandes und der Entscheidungsgründe ab, soweit es den Feststellungen und der Begründung des angefochtenen Verwaltungsaktes folgt und dies in seiner Entscheidung feststellt oder soweit die Beteiligten übereinstimmend darauf verzichten.
+
+(4) Wird während des Verfahrens der streitgegenständliche Verwaltungsakt, mit dem ein Asylantrag als unzulässig abgelehnt wurde, durch eine Ablehnung als unbegründet oder offensichtlich unbegründet ersetzt, so wird der neue Verwaltungsakt Gegenstand des Verfahrens. Das Bundesamt übersendet dem Gericht, bei dem das Verfahren anhängig ist, eine Abschrift des neuen Verwaltungsakts. Nimmt der Kläger die Klage daraufhin unverzüglich zurück, trägt das Bundesamt die Kosten des Verfahrens. Unterliegt der Kläger ganz oder teilweise, entscheidet das Gericht nach billigem Ermessen.
 
 # § 78 – Rechtsmittel
 
@@ -1389,11 +1435,29 @@ Dies gilt entsprechend bei Klagen gegen den Widerruf oder die Rücknahme der Gew
 
 (7) Ein Rechtsbehelf nach § 84 Abs. 2 der Verwaltungsgerichtsordnung ist innerhalb von zwei Wochen nach Zustellung des Gerichtsbescheids zu erheben.
 
+(8) Gegen das Urteil des Oberverwaltungsgerichts steht den Beteiligten die Revision an das Bundesverwaltungsgericht abweichend von § 132 Absatz 1 und § 137 Absatz 1 der Verwaltungsgerichtsordnung auch zu, wenn das Oberverwaltungsgericht
+
+1. in der Beurteilung der allgemeinen asyl-, abschiebungs- oder überstellungsrelevanten Lage in einem Herkunfts- oder Zielstaat von deren Beurteilung durch ein anderes Oberverwaltungsgericht oder durch das Bundesverwaltungsgericht abweicht und
+
+2. die Revision deswegen zugelassen hat.
+
+Eine Nichtzulassungsbeschwerde kann auf diesen Zulassungsgrund nicht gestützt werden. Die Revision ist beschränkt auf die Beurteilung der allgemeinen asyl-, abschiebungs- oder überstellungsrelevanten Lage in einem Herkunfts- oder Zielstaat. In dem hierfür erforderlichen Umfang ist das Bundesverwaltungsgericht abweichend von § 137 Absatz 2 der Verwaltungsgerichtsordnung nicht an die in dem angefochtenen Urteil getroffenen tatsächlichen Feststellungen gebunden. Das Bundesverwaltungsgericht berücksichtigt für die Beurteilung der allgemeinen Lage diejenigen herkunfts- oder zielstaatsbezogenen Erkenntnisse, die von den in Satz 1 Nummer 1 genannten Gerichten verwertet worden sind, die ihm zum Zeitpunkt seiner mündlichen Verhandlung oder Entscheidung (§ 77 Absatz 1) von den Beteiligten vorgelegt oder die von ihm beigezogen oder erhoben worden sind. Die Anschlussrevision ist ausgeschlossen.
+
+(8a) Das Bundesministerium des Innern und für Heimat evaluiert im Einvernehmen mit dem Bundesministerium der Justiz die Revision nach Absatz 8 drei Jahre nach Inkrafttreten.
+
 # § 79 – Besondere Vorschriften für das Berufungsverfahren
 
-(1) In dem Verfahren vor dem Oberverwaltungsgericht gilt in Bezug auf Erklärungen und Beweismittel, die der Kläger nicht innerhalb der Frist des § 74 Abs. 2 Satz 1 vorgebracht hat, § 128a der Verwaltungsgerichtsordnung entsprechend.
+(1) In dem Verfahren vor dem Oberverwaltungsgericht gilt in Bezug auf Erklärungen und Beweismittel, die der Kläger nicht innerhalb der Frist des § 74 Absatz 2 Satz 1 vorgebracht hat, § 128a der Verwaltungsgerichtsordnung entsprechend.
 
-(2) § 130 Abs. 2 und 3 der Verwaltungsgerichtsordnung findet keine Anwendung.
+(2) Das Oberverwaltungsgericht darf die Sache, soweit ihre weitere Verhandlung erforderlich ist, unter Aufhebung des Urteils und des Verfahrens an das Verwaltungsgericht nur zurückverweisen, wenn das Verwaltungsgericht
+
+1. noch nicht in der Sache selbst entschieden hat oder
+
+2. die allgemeine asyl-, abschiebungs- oder überstellungsrelevante Lage in einem Herkunfts- oder Zielstaat anders als das Oberverwaltungsgericht beurteilt hat und nach der abweichenden Beurteilung des Oberverwaltungsgerichts eine umfangreiche oder aufwändige Beweisaufnahme notwendig ist.
+
+Das Verwaltungsgericht ist an die rechtliche und tatsächliche Beurteilung der Entscheidung des Oberverwaltungsgerichts gebunden.
+
+(3) Der Senat kann in Streitigkeiten nach diesem Gesetz das Berufungsverfahren einem seiner Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn der Senat eine Entscheidung zu der allgemeinen asyl-, abschiebungs- oder überstellungsrelevanten Lage in dem Herkunfts- oder Zielstaat getroffen hat, die nicht durch eine entscheidungserhebliche Veränderung der Lage überholt ist, die Sache sonst keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und die Rechtssache keine grundsätzliche Bedeutung hat. § 76 Absatz 2 und 3 gilt entsprechend.
 
 # § 80 – Ausschluss der Beschwerde
 

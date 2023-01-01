@@ -34,33 +34,33 @@ Euro</td><td style="text-align: left;"><br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="even"><td style="text-align: left;">2023</td><td style="text-align: left;">minus<br />
-9 706 407 683<br />
+9 892 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-7 306 407 683<br />
+7 492 407 683<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="odd"><td style="text-align: left;">2024</td><td style="text-align: left;">minus<br />
-9 894 407 683<br />
+10 080 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-7 494 407 683<br />
+7 680 407 683 Euro<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="even"><td style="text-align: left;">2025</td><td style="text-align: left;">minus<br />
-9 519 407 683<br />
+9 705 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-7 119 407 683<br />
+7 305 407 683<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="odd"><td style="text-align: left;">2026</td><td style="text-align: left;">minus<br />
-9 519 407 683<br />
+9 705 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-7 119 407 683<br />
+7 305 407 683<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro</td></tr><tr class="even"><td style="text-align: left;">ab 2027</td><td style="text-align: left;">minus<br />
-9 331 407 683<br />
+9 517 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-6 931 407 683<br />
+7 117 407 683<br />
 Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro.</td></tr></tbody></table>
@@ -156,11 +156,11 @@ Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellunge
 
 |                        |                  |
 |:-----------------------|:-----------------|
-| Brandenburg            | 50 920 000 Euro, |
-| Mecklenburg-Vorpommern | 34 304 000 Euro, |
-| Sachsen                | 85 492 000 Euro, |
-| Sachsen-Anhalt         | 50 116 000 Euro, |
-| Thüringen              | 47 168 000 Euro. |
+| Brandenburg            | 15 580 000 Euro, |
+| Mecklenburg-Vorpommern | 10 496 000 Euro, |
+| Sachsen                | 26 158 000 Euro, |
+| Sachsen-Anhalt         | 15 334 000 Euro, |
+| Thüringen              | 14 432 000 Euro. |
 
   
   

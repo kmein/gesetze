@@ -53,7 +53,7 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 # § 3 – Geltungsbereich, Konkurrenzen
 
-(1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge, Vormundschaft oder unter Pflegschaft, so treten im Verhältnis zu den Eltern und zu sorgeberechtigten Personen an die Stelle von §§ 1 und 2 die für das Sorgerechts-, Vormundschafts- oder Pflegschaftsverhältnis maßgebenden Vorschriften.
+(1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge, Vormundschaft oder unter Pflegschaft für Minderjährige, so treten im Verhältnis zu den Eltern und zu sorgeberechtigten Personen an die Stelle von §§ 1 und 2 die für das Sorgerechts-, Vormundschafts- oder Pflegschaftsverhältnis maßgebenden Vorschriften.
 
 (2) Weitergehende Ansprüche der verletzten Person werden durch dieses Gesetz nicht berührt.
 

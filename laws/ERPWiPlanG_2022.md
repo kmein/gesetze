@@ -11,27 +11,9 @@ Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2022, der diesem Gese
 
 festgestellt.
 
-# § 2 – Ermächtigung zur Kreditaufnahme
+# §§ 2 bis 5 – (weggefallen)
 
-Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, Kredite bei der Kreditanstalt für Wiederaufbau bis zu der Höhe von 30 Prozent des in § 1 festgestellten Betrages aufzunehmen.
-
-# § 3 – Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
-
-Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans, wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
-
-# § 4 – Übernahme von Gewährleistungen
-
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Bürgschaften, Garantien oder sonstige Gewährleistungen zur Förderung der gewerblichen Wirtschaft einschließlich der freien Berufe bis zu einem Gesamtbetrag von 3 306 000 000 Euro zu Lasten des ERP-Sondervermögens zu übernehmen.
-
-(2) Auf den Höchstbetrag nach Absatz 1 werden die aufgrund der Ermächtigungen der früheren Wirtschaftsplangesetze übernommenen Bürgschaften, Garantien und sonstigen Gewährleistungen angerechnet, soweit das ERP-Sondervermögen noch in Anspruch genommen werden kann oder in Anspruch genommen worden ist und für die erbrachten Leistungen keinen Ersatz erlangt hat.
-
-(3) Eine Bürgschaft, Garantie oder sonstige Gewährleistung ist auf den Höchstbetrag in der Höhe anzurechnen, in der das ERP-Sondervermögen daraus in Anspruch genommen werden kann. Zinsen und Kosten sind auf den Ermächtigungsrahmen nur anzurechnen, soweit bei der Übernahme ein gemeinsamer Haftungsbetrag für Hauptverpflichtung, Zinsen und Kosten festgelegt wird.
-
-(4) Soweit das ERP-Sondervermögen ohne Inanspruchnahme von seiner Haftung frei wird oder Ersatz für erbrachte Leistungen erlangt hat, ist eine übernommene Gewährleistung auf den Höchstbetrag nicht mehr anzurechnen.
-
-# § 5 – Vom Verwendungszweck ausgenommene Beträge
-
-Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
+(+++ §§ 2 bis 5: Treten gem. § 6, dieser idF d. Art. 2 G v. 15.11.2022 I 2035, am 31.12.2022 außer Kraft +++)
 
 # § 6 – Befristung
 

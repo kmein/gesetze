@@ -77,9 +77,9 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 2b. in der sie als ehemalige Soldaten auf Zeit Übergangsgebührnisse beziehen,
 
-3. für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
+3. für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
-3a. für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
+3a. für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
 4. für die sie Vorruhestandsgeld beziehen, wenn sie unmittelbar vor Beginn der Leistung versicherungspflichtig waren.
 
@@ -189,7 +189,7 @@ Satz 1 Nr. 1 gilt entsprechend für die Aufnahme einer zweiten selbständigen T�
 
 (1b) Personen, die eine geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, werden auf Antrag von der Versicherungspflicht befreit. Der schriftliche Befreiungsantrag ist dem Arbeitgeber zu übergeben. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen Beschäftigung nur erfolgt, wenn diese versicherungspflichtig ist. Der Antrag kann bei mehreren geringfügigen Beschäftigungen nur einheitlich gestellt werden und ist für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften Buches) Gebrauch machen.
 
-(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers.
+(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers. In den Fällen des Absatzes 1 Satz 1 Nummer 1 hat der Versicherte den Antrag elektronisch über die zuständige berufsständische Versorgungseinrichtung zu stellen. Diese leitet den Antrag durch Datenübertragung an den Träger der Rentenversicherung zusammen mit den Bestätigungen über das Vorliegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung, über das Bestehen einer Pflichtmitgliedschaft in der berufsständischen Kammer und über die Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung unverzüglich weiter. Der Träger der Rentenversicherung teilt seine Entscheidung dem Antragsteller in Textform und der den Antrag weiterleitenden berufsständischen Versorgungseinrichtung elektronisch mit. Der Eingang des Antrags bei der berufsständischen Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle der berufsständischen Versorgungseinrichtungen und die Datenstelle der Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
 (3) Über die Befreiung entscheidet der Träger der Rentenversicherung. Abweichend von Satz 1 entscheidet in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 die Deutsche Rentenversicherung Bund, nachdem das Vorliegen der Voraussetzungen bestätigt worden ist
 
@@ -287,7 +287,7 @@ ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erh
 
 3. vermindert erwerbsfähig sind oder bei denen dies in absehbarer Zeit zu erwarten ist, wenn sie die allgemeine Wartezeit erfüllt haben.
 
-§ 55 Abs. 2 ist entsprechend anzuwenden. Der Zeitraum von zwei Jahren nach Nummer 1 verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II. Für die Leistungen nach § 15a an Kinder von Versicherten sind die versicherungsrechtlichen Voraussetzungen erfüllt, wenn der Versicherte die allgemeine Wartezeit oder die in Satz 1 oder in Absatz 1 genannten versicherungsrechtlichen Voraussetzungen erfüllt hat.
+§ 55 Abs. 2 ist entsprechend anzuwenden. Der Zeitraum von zwei Jahren nach Nummer 1 verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Für die Leistungen nach § 15a an Kinder von Versicherten sind die versicherungsrechtlichen Voraussetzungen erfüllt, wenn der Versicherte die allgemeine Wartezeit oder die in Satz 1 oder in Absatz 1 genannten versicherungsrechtlichen Voraussetzungen erfüllt hat.
 
 (2a) Leistungen zur Teilhabe am Arbeitsleben werden an Versicherte auch erbracht,
 
@@ -441,9 +441,9 @@ Die Träger der gesetzlichen Rentenversicherung erbringen die Leistungen zur Tei
 
 a) Arbeitsentgelt oder Arbeitseinkommen erzielt und im Bemessungszeitraum Beiträge zur Rentenversicherung gezahlt haben oder
 
-b) Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld, Arbeitslosengeld II oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen oder im Falle des Bezugs von Arbeitslosengeld II zuvor aus Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
+b) Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld, Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen oder im Falle des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches zuvor aus Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
 
-(2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten Buch oder Anspruch auf Arbeitslosengeld II nach dem Zweiten Buch haben, haben abweichend von Absatz 1 Nummer 1 Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
+(2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten Buch oder Anspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches haben, haben abweichend von Absatz 1 Nummer 1 Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
 
 (3) Versicherte, die Anspruch auf Krankengeld nach § 44 des Fünften Buches haben und ambulante Leistungen zur Prävention und Nachsorge in einem zeitlich geringen Umfang erhalten, haben abweichend von Absatz 1 Nummer 1 ab Inkrafttreten der Vereinbarung nach Absatz 4 nur Anspruch auf Übergangsgeld, sofern die Vereinbarung dies vorsieht.
 
@@ -457,9 +457,9 @@ b) Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Kurzarbe
 
 (3) § 69 des Neunten Buches wird mit der Maßgabe angewendet, dass Versicherte unmittelbar vor dem Bezug der dort genannten Leistungen Pflichtbeiträge geleistet haben.
 
-(4) Versicherte, die unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der medizinischen Leistungen Arbeitslosengeld bezogen und die zuvor Pflichtbeiträge gezahlt haben, erhalten Übergangsgeld bei medizinischen Leistungen in Höhe des bei Krankheit zu erbringenden Krankengeldes (§ 47b Fünftes Buch); Versicherte, die unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der medizinischen Leistungen Arbeitslosengeld II bezogen und die zuvor Pflichtbeiträge gezahlt haben, erhalten Übergangsgeld bei medizinischen Leistungen in Höhe des Betrages des Arbeitslosengeldes II. Dies gilt nicht für Empfänger der Leistung,
+(4) Versicherte, die unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der medizinischen Leistungen Arbeitslosengeld bezogen und die zuvor Pflichtbeiträge gezahlt haben, erhalten Übergangsgeld bei medizinischen Leistungen in Höhe des bei Krankheit zu erbringenden Krankengeldes (§ 47b Fünftes Buch); Versicherte, die unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der medizinischen Leistungen Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches bezogen und die zuvor Pflichtbeiträge gezahlt haben, erhalten Übergangsgeld bei medizinischen Leistungen in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Dies gilt nicht für Empfänger der Leistung,
 
-a) die Arbeitslosengeld II nur darlehensweise oder
+a) die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur darlehensweise oder
 
 b) die nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches beziehen, oder
 
@@ -467,7 +467,7 @@ c) die auf Grund von § 2 Abs. 1a des Bundesausbildungsförderungsgesetzes keine
 
 d) deren Bedarf sich nach § 12 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes, nach § 62 Absatz 1 oder § 124 Absatz 1 Nummer 1 des Dritten Buches bemisst oder
 
-e) die Arbeitslosengeld II als ergänzende Leistungen zum Einkommen erhalten.
+e) die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches als ergänzende Leistungen zum Einkommen erhalten.
 
 (5) Für Versicherte, die im Bemessungszeitraum eine Bergmannsprämie bezogen haben, wird die Berechnungsgrundlage um einen Betrag in Höhe der gezahlten Bergmannsprämie erhöht.
 
@@ -1007,13 +1007,13 @@ Die Zeit der Erziehung eines Kindes bis zu dessen vollendetem zehnten Lebensjahr
 
 5. eine Rente bezogen haben, soweit diese Zeiten auch als Zurechnungszeit in der Rente berücksichtigt waren, und die vor dem Beginn dieser Rente liegende Zurechnungszeit,
 
-6. nach dem 31. Dezember 2010 Arbeitslosengeld II bezogen haben; dies gilt nicht für Empfänger der Leistung,
+6. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches bezogen haben; dies gilt nicht für Empfänger der Leistung,
 
-a) die Arbeitslosengeld II nur darlehensweise oder
+a) die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur darlehensweise oder
 
 b) nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen haben.
 
-Zeiten, in denen Versicherte nach Vollendung des 25. Lebensjahres wegen des Bezugs von Sozialleistungen versicherungspflichtig waren, sind nicht Anrechnungszeiten nach Satz 1 Nummer 1 und 3. Nach Vollendung des 25. Lebensjahres schließen Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II Anrechnungszeiten wegen Arbeitslosigkeit aus.
+Zeiten, in denen Versicherte nach Vollendung des 25. Lebensjahres wegen des Bezugs von Sozialleistungen versicherungspflichtig waren, sind nicht Anrechnungszeiten nach Satz 1 Nummer 1 und 3. Nach Vollendung des 25. Lebensjahres schließen Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Anrechnungszeiten wegen Arbeitslosigkeit aus.
 
 (2) Anrechnungszeiten nach Absatz 1 Satz 1 Nr. 1 und 2 bis 3a liegen nur vor, wenn dadurch eine versicherte Beschäftigung oder selbständige Tätigkeit oder ein versicherter Wehrdienst oder Zivildienst oder ein versichertes Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes unterbrochen ist; dies gilt nicht für Zeiten nach Vollendung des 17. und vor Vollendung des 25. Lebensjahres. Eine selbständige Tätigkeit ist nur dann unterbrochen, wenn sie ohne die Mitarbeit des Versicherten nicht weiter ausgeübt werden kann.
 
@@ -1418,9 +1418,9 @@ durch die Anzahl der belegungsfähigen Monate geteilt wird; bei Renten wegen ver
 
 Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Zeiten einer beruflichen Ausbildung, Fachschulausbildung oder der Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme auf 75 vom Hundert begrenzt. Der so begrenzte Gesamtleistungswert darf für einen Kalendermonat 0,0625 Entgeltpunkte nicht übersteigen. Zeiten einer beruflichen Ausbildung, Fachschulausbildung oder der Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme werden insgesamt für höchstens drei Jahre bewertet, vorrangig die beitragsfreien Zeiten der Fachschulausbildung und der Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme. Zeiten einer Schul- oder Hochschulausbildung und Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
 
-1. Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die Arbeitslosengeld oder Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind,
+1. Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die Arbeitslosengeld oder Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nicht oder Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind,
 
-1a. Arbeitslosengeld II bezogen worden ist,
+1a. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches bezogen worden ist,
 
 2. Krankheit nach dem 31. Dezember 1983 vorgelegen hat und nicht Beiträge gezahlt worden sind,
 
@@ -3397,7 +3397,7 @@ Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 
 
 2. bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld, Verletztengeld oder Versorgungskrankengeld beziehen, 80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen ist,
 
-2a. bei Personen, die im Anschluss an den Bezug von Arbeitslosengeld II Übergangsgeld oder Verletztengeld beziehen, monatlich der Betrag von 205 Euro,
+2a. bei Personen, die im Anschluss an den Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Übergangsgeld oder Verletztengeld beziehen, monatlich der Betrag von 205 Euro,
 
 2b. bei Personen, die Krankengeld nach § 44a des Fünften Buches beziehen, das der Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird dieses Krankengeld nach § 47b des Fünften Buches gezahlt, gilt Nummer 2,
 
@@ -4387,7 +4387,9 @@ versicherungspflichtig waren, bleiben in dieser Tätigkeit versicherungspflichti
 
 (3) § 2 Satz 1 Nr. 9 Buchstabe b zweiter Halbsatz und Satz 4 Nr. 3 ist auch anzuwenden, soweit die Tätigkeit in der Zeit vom 1. Januar 1999 bis zum 1. Juli 2006 ausgeübt worden ist. § 2 Satz 1 Nr. 1, 2 und 9 Buchstabe a in der ab 1. Mai 2007 geltenden Fassung ist auch anzuwenden, soweit Arbeitnehmer in der Zeit vom 1. Januar 1999 bis zum 30. April 2007 beschäftigt wurden.
 
-(4) Bezieher von Sozialleistungen, die am 31. Dezember 1995 auf Antrag versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.
+(4) Bezieher von Sozialleistungen, die am 31. Dezember 1995 auf Antrag versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.(4a) Als Zeit des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II bis zum 31. Dezember 2022.
+
+(4a) Als Zeit des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II bis zum 31. Dezember 2022.
 
 (5) Personen, die am 31. Dezember 2012 als Beschäftigte nach § 5 Absatz 2 in der bis zum 31. Dezember 2012 geltenden Fassung wegen Verzichts auf die Versicherungsfreiheit in einer geringfügigen Beschäftigung oder mehreren geringfügigen Beschäftigungen versicherungspflichtig waren, bleiben insoweit versicherungspflichtig; § 6 Absatz 1b in der ab dem 1. Januar 2013 geltenden Fassung gilt für diese Personen bezogen auf die am 31. Dezember 2012 ausgeübte Beschäftigung und weitere Beschäftigungen, auf die sich der Verzicht auf die Versicherungsfreiheit nach § 5 Absatz 2 in der bis zum 31. Dezember 2012 geltenden Fassung erstrecken würde, nicht.
 
@@ -6864,7 +6866,13 @@ Für Zeiten nach Satz 1 gelten die Vorschriften über Anrechnungszeiten wegen Ar
 
 (9) Anrechnungszeiten liegen bei Beziehern von Arbeitslosenhilfe, Unterhaltsgeld und Arbeitslosengeld II nicht vor, wenn die Bundesagentur für Arbeit oder in Fällen des § 6a des Zweiten Buches die zugelassenen kommunalen Träger für sie Beiträge an eine Versicherungseinrichtung oder Versorgungseinrichtung, an ein Versicherungsunternehmen oder an sie selbst gezahlt haben.
 
-(10) Anrechnungszeiten liegen nicht vor bei Beziehern von Arbeitslosengeld II, die in der Zeit vom 1. Januar 2011 bis zum 31. Dezember 2012 versicherungspflichtig beschäftigt oder versicherungspflichtig selbständig tätig gewesen sind oder eine Leistung bezogen haben, wegen der sie nach § 3 Satz 1 Nummer 3 versicherungspflichtig gewesen sind.
+(10) Anrechnungszeiten sind auch Zeiten, in denen Versicherte in der Zeit vom 1. Januar 2011 bis zum 31. Dezember 2022 Arbeitslosengeld II bezogen haben. Dies gilt nicht für Bezieher von Arbeitslosengeld II, die
+
+1. Arbeitslosengeld II nur darlehensweise oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen haben oder
+
+2. in der Zeit vom 1. Januar 2011 bis zum 31. Dezember 2012 versicherungspflichtig beschäftigt oder versicherungspflichtig selbständig tätig gewesen sind oder eine Leistung bezogen haben, wegen der sie nach § 3 Satz 1 Nummer 3 versicherungspflichtig gewesen sind.
+
+Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II nach Vollendung des 25. Lebensjahres schließen Anrechnungszeiten wegen Arbeitslosigkeit aus.
 
 # § 252a – Anrechnungszeiten im Beitrittsgebiet
 
@@ -7345,7 +7353,7 @@ Entgeltpunkte werden nicht ermittelt für
 
 (2) (weggefallen)
 
-(2a) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen Krankheit und Arbeitslosigkeit auf 80 vom Hundert begrenzt. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen hat, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die vor dem 1. Januar 2005 aber keine Arbeitslosenhilfe gezahlt worden ist, werden nicht bewertet.
+(2a) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen Krankheit und Arbeitslosigkeit auf 80 vom Hundert begrenzt. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen hat, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe, Arbeitslosengeld oder Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist, werden nicht bewertet.
 
 (3) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen einer Schul- oder Hochschulausbildung auf 75 vom Hundert begrenzt. Der so begrenzte Gesamtleistungswert darf für einen Kalendermonat 0,0625 Entgeltpunkte nicht übersteigen. Zeiten einer Schul- oder Hochschulausbildung werden insgesamt für höchstens drei Jahre bewertet; auf die drei Jahre werden Zeiten einer Fachschulausbildung oder der Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme angerechnet. Bei der begrenzten Gesamtleistungsbewertung für die Zeiten der Schul- oder Hochschulausbildung treten an die Stelle  
   
@@ -8680,13 +8688,11 @@ Nach dem 21. Juli 2009 gezahlte freiwillige Beiträge werden auf Antrag in volle
 
 (1) Überschreitet der Beitragssatz in der allgemeinen Rentenversicherung bis zum Jahr 2025 nach § 158 20 Prozent, ist dieser abweichend von § 158 auf höchstens 20 Prozent festzusetzen. Der Beitragssatz in der allgemeinen Rentenversicherung ist bis zum Jahr 2025 abweichend von § 158 auf mindestens 18,6 Prozent festzusetzen. Der Beitragssatz beträgt für das Jahr 2019 in der allgemeinen Rentenversicherung 18,6 Prozent und in der knappschaftlichen Rentenversicherung 24,7 Prozent.
 
-(2) Wenn bis zum Jahr 2025 mit einem Beitragssatz in der allgemeinen Rentenversicherung von 20 Prozent die Mittel der Nachhaltigkeitsrücklage am Ende des Kalenderjahres, für welches der Beitragssatz zu bestimmen ist, den Wert der Mindestrücklage nach § 158 Absatz 1 Satz 1 Nummer 1 unter Berücksichtigung der Sonderzahlungen nach § 287a voraussichtlich unterschreiten, ist der zusätzliche Bundeszuschuss nach § 213 Absatz 3 für das betreffende Jahr so zu erhöhen, dass die Mittel der Nachhaltigkeitsrücklage den Wert der Mindestrücklage voraussichtlich erreichen. Der zusätzliche Bundeszuschuss ohne den Betrag nach Satz 1 ist der Ausgangsbetrag für die Festsetzung des zusätzlichen Bundeszuschusses für das folgende Kalenderjahr nach § 213 Absatz 3.
+(2) Wenn bis zum Jahr 2025 mit einem Beitragssatz in der allgemeinen Rentenversicherung von 20 Prozent die Mittel der Nachhaltigkeitsrücklage am Ende des Kalenderjahres, für welches der Beitragssatz zu bestimmen ist, den Wert der Mindestrücklage nach § 158 Absatz 1 Satz 1 Nummer 1 voraussichtlich unterschreiten, ist der zusätzliche Bundeszuschuss nach § 213 Absatz 3 für das betreffende Jahr so zu erhöhen, dass die Mittel der Nachhaltigkeitsrücklage den Wert der Mindestrücklage voraussichtlich erreichen. Der zusätzliche Bundeszuschuss ohne den Betrag nach Satz 1 ist der Ausgangsbetrag für die Festsetzung des zusätzlichen Bundeszuschusses für das folgende Kalenderjahr nach § 213 Absatz 3.
 
-(3) Im Übrigen werden bis zum Jahr 2025 bei der Festsetzung des Beitragssatzes in der allgemeinen Rentenversicherung nach § 158 Absatz 1 und 2 die nach § 287a geleisteten Sonderzahlungen des Bundes nicht berücksichtigt.
+(3) (weggefallen)
 
-# § 287a – Sonderzahlungen des Bundes in den Jahren 2022 bis 2025
-
-Der Bund zahlt zusätzlich zu den Zuschüssen des Bundes nach den §§ 213 und 287e in den Kalenderjahren 2022 bis 2025 jeweils 500 Millionen Euro an die allgemeine Rentenversicherung. Die Beträge für die Kalenderjahre 2023 bis 2025 sind nach § 213 Absatz 2 Satz 1 bis 3 zu verändern. § 213 Absatz 6 ist entsprechend anzuwenden.
+# § 287a – (weggefallen)
 
 # § 287b – Ausgaben für Leistungen zur Teilhabe
 
@@ -10350,15 +10356,21 @@ Durchschnittsentgelt
 
 21
 
- 
+40 463
 
-41 541\*)
+ 
 
 22
 
  
 
 38 901\*)
+
+23
+
+ 
+
+43 142\*)
 
 -----
 
@@ -10999,6 +11011,14 @@ Angestellten
 
 103 800
 
+1.1.2023 - 31.12.2023
+
+87 600
+
+ 
+
+107 400
+
 # Anlage 2a – Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
 (Fundstelle: BGBl. I 2002, 872,  
@@ -11009,7 +11029,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 16%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Zeitraum</td><td style="text-align: left;">Allgemeine<br />
 Rentenversicherung</td><td style="text-align: left;">Knappschaftliche<br />
-Rentenversicherung</td></tr><tr class="even"><td style="text-align: left;">1.7.1990 - 31.12.1990</td><td style="text-align: left;">32 400</td><td style="text-align: left;">32 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1991 - 30. 6.1991</td><td style="text-align: left;">36 000</td><td style="text-align: left;">36 000</td></tr><tr class="even"><td style="text-align: left;">1.7.1991 - 31.12.1991</td><td style="text-align: left;">40 800</td><td style="text-align: left;">40 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.1992 - 31.12.1992</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1993 - 31.12.1993</td><td style="text-align: left;">63 600</td><td style="text-align: left;">78 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.1994 - 31.12.1994</td><td style="text-align: left;">70 800</td><td style="text-align: left;">87 600</td></tr><tr class="even"><td style="text-align: left;">1.1.1995 - 31.12.1995</td><td style="text-align: left;">76 800</td><td style="text-align: left;">93 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.1996 - 31.12.1996</td><td style="text-align: left;">81 600</td><td style="text-align: left;">100 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1997 - 31.12.1997</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1998 - 31.12.1998</td><td style="text-align: left;">84 000</td><td style="text-align: left;">103 200</td></tr><tr class="even"><td style="text-align: left;">1.1.1999 - 31.12.1999</td><td style="text-align: left;">86 400</td><td style="text-align: left;">105 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2000 - 31.12.2000</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2001 - 31.12.2001</td><td style="text-align: left;">87 600</td><td style="text-align: left;">108 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2002 - 31.12.2002</td><td style="text-align: left;">45 000</td><td style="text-align: left;">55 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2003 - 31.12.2003</td><td style="text-align: left;">51 000</td><td style="text-align: left;">63 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2004 - 31.12.2004</td><td style="text-align: left;">52 200</td><td style="text-align: left;">64 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2005 - 31.12.2005</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2006 - 31.12.2006</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2007 - 31.12.2007</td><td style="text-align: left;">54 600</td><td style="text-align: left;">66 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2008 - 31.12.2008</td><td style="text-align: left;">54 000</td><td style="text-align: left;">66 600</td></tr><tr class="even"><td style="text-align: left;">1.1.2009 - 31.12.2009</td><td style="text-align: left;">54 600</td><td style="text-align: left;">67 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2010 - 31.12.2010</td><td style="text-align: left;">55 800</td><td style="text-align: left;">68 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2011 - 31.12.2011</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2012 - 31.12.2012</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2013 - 31.12.2013</td><td style="text-align: left;">58 800</td><td style="text-align: left;">72 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2014 - 31.12.2014</td><td style="text-align: left;">60 000</td><td style="text-align: left;">73 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2015 - 31.12.2015</td><td style="text-align: left;">62 400</td><td style="text-align: left;">76 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2016 - 31.12.2016</td><td style="text-align: left;">64 800</td><td style="text-align: left;">79 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2017 - 31.12.2017</td><td style="text-align: left;">68 400</td><td style="text-align: left;">84 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2018 - 31.12.2018</td><td style="text-align: left;">69 600</td><td style="text-align: left;">85 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2019 - 31.12.2019</td><td style="text-align: left;">73 800</td><td style="text-align: left;">91 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2020 - 31.12.2020</td><td style="text-align: left;">77 400</td><td style="text-align: left;">94 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2021 - 31.12.2021</td><td style="text-align: left;">80 400</td><td style="text-align: left;">99 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2022 - 31.12.2022</td><td style="text-align: left;">81 000</td><td style="text-align: left;">100 200</td></tr></tbody></table>
+Rentenversicherung</td></tr><tr class="even"><td style="text-align: left;">1.7.1990 - 31.12.1990</td><td style="text-align: left;">32 400</td><td style="text-align: left;">32 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1991 - 30. 6.1991</td><td style="text-align: left;">36 000</td><td style="text-align: left;">36 000</td></tr><tr class="even"><td style="text-align: left;">1.7.1991 - 31.12.1991</td><td style="text-align: left;">40 800</td><td style="text-align: left;">40 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.1992 - 31.12.1992</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1993 - 31.12.1993</td><td style="text-align: left;">63 600</td><td style="text-align: left;">78 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.1994 - 31.12.1994</td><td style="text-align: left;">70 800</td><td style="text-align: left;">87 600</td></tr><tr class="even"><td style="text-align: left;">1.1.1995 - 31.12.1995</td><td style="text-align: left;">76 800</td><td style="text-align: left;">93 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.1996 - 31.12.1996</td><td style="text-align: left;">81 600</td><td style="text-align: left;">100 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1997 - 31.12.1997</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1998 - 31.12.1998</td><td style="text-align: left;">84 000</td><td style="text-align: left;">103 200</td></tr><tr class="even"><td style="text-align: left;">1.1.1999 - 31.12.1999</td><td style="text-align: left;">86 400</td><td style="text-align: left;">105 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2000 - 31.12.2000</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2001 - 31.12.2001</td><td style="text-align: left;">87 600</td><td style="text-align: left;">108 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2002 - 31.12.2002</td><td style="text-align: left;">45 000</td><td style="text-align: left;">55 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2003 - 31.12.2003</td><td style="text-align: left;">51 000</td><td style="text-align: left;">63 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2004 - 31.12.2004</td><td style="text-align: left;">52 200</td><td style="text-align: left;">64 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2005 - 31.12.2005</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2006 - 31.12.2006</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2007 - 31.12.2007</td><td style="text-align: left;">54 600</td><td style="text-align: left;">66 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2008 - 31.12.2008</td><td style="text-align: left;">54 000</td><td style="text-align: left;">66 600</td></tr><tr class="even"><td style="text-align: left;">1.1.2009 - 31.12.2009</td><td style="text-align: left;">54 600</td><td style="text-align: left;">67 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2010 - 31.12.2010</td><td style="text-align: left;">55 800</td><td style="text-align: left;">68 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2011 - 31.12.2011</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2012 - 31.12.2012</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2013 - 31.12.2013</td><td style="text-align: left;">58 800</td><td style="text-align: left;">72 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2014 - 31.12.2014</td><td style="text-align: left;">60 000</td><td style="text-align: left;">73 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2015 - 31.12.2015</td><td style="text-align: left;">62 400</td><td style="text-align: left;">76 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2016 - 31.12.2016</td><td style="text-align: left;">64 800</td><td style="text-align: left;">79 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2017 - 31.12.2017</td><td style="text-align: left;">68 400</td><td style="text-align: left;">84 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2018 - 31.12.2018</td><td style="text-align: left;">69 600</td><td style="text-align: left;">85 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2019 - 31.12.2019</td><td style="text-align: left;">73 800</td><td style="text-align: left;">91 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2020 - 31.12.2020</td><td style="text-align: left;">77 400</td><td style="text-align: left;">94 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2021 - 31.12.2021</td><td style="text-align: left;">80 400</td><td style="text-align: left;">99 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2022 - 31.12.2022</td><td style="text-align: left;">81 000</td><td style="text-align: left;">100 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2023 - 31.12.2023</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr></tbody></table>
 
 # Anlage 2b – Jährliche Höchstwerte an Entgeltpunkten
 

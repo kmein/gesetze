@@ -1057,6 +1057,14 @@ Kassen-Nachschau
 
 Ordnungsvorschriften für die Aufbewahrung von Unterlagen
 
+§ 147a
+
+Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
+
+§ 147b
+
+Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen
+
 § 148
 
 Bewilligung von Erleichterungen
@@ -1374,6 +1382,10 @@ Prüfungsgrundsätze
 § 200
 
 Mitwirkungspflichten des Steuerpflichtigen
+
+§ 200a
+
+Qualifiziertes Mitwirkungsverlangen
 
 § 201
 
@@ -2686,6 +2698,8 @@ Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristisch
 
 3. Zuschläge nach § 162 Absatz 4 und 4a,
 
+3a. Mitwirkungsverzögerungsgelder nach § 200a Absatz 2 und Zuschläge zum Mitwirkungsverzögerungsgeld nach § 200a Absatz 3,
+
 4. Zinsen nach den §§ 233 bis 237 sowie Zinsen nach den Steuergesetzen, auf die die §§ 238 und 239 anzuwenden sind, sowie Zinsen, die über die §§ 233 bis 237 und die Steuergesetze hinaus nach dem Recht der Europäischen Union auf zu erstattende Steuern zu leisten sind,
 
 5. Säumniszuschläge nach § 240,
@@ -2694,11 +2708,13 @@ Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristisch
 
 7. Kosten nach den §§ 89, 89a Absatz 7 sowie den §§ 178 und 337 bis 345,
 
-8. Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union und
+8. Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union,
 
-9. Verspätungsgelder nach § 22a Absatz 5 des Einkommensteuergesetzes.
+9. Verspätungsgelder nach § 22a Absatz 5 des Einkommensteuergesetzes und
 
-(5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 89a Absatz 7 steht dem Bund und dem jeweils betroffenen Land je zur Hälfte zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
+10. Kosten nach § 10 Absatz 5 und § 11 Absatz 7 des Plattformen-Steuertransparenzgesetzes.
+
+(5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 89a Absatz 7 steht dem Bund und dem jeweils betroffenen Land je zur Hälfte zu. Das Aufkommen der Kosten nach § 10 Absatz 5 und § 11 Absatz 7 des Plattformen-Steuertransparenzgesetzes steht dem Bund zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
 
 (+++ § 3: Zur Anwendung vgl. Art. 97 §§ 1 u. 22 AOEG 1977 +++)
 
@@ -2870,7 +2886,9 @@ a) das Finanzamt, von dessen Bezirk die Verwaltung dieser Einkünfte ausgeht, od
 
 b) das Finanzamt, in dessen Bezirk sich der wertvollste Teil des Vermögens, aus dem die gemeinsamen Einkünfte fließen, befindet, wenn die Verwaltung dieser Einkünfte im Geltungsbereich dieses Gesetzes nicht feststellbar ist.
 
-Dies gilt entsprechend bei einer gesonderten Feststellung nach § 180 Absatz 1 Satz 1 Nummer 3 oder § 180 Absatz 2.
+Dies gilt entsprechend bei einer gesonderten Feststellung nach § 180 Absatz 1 Satz 1 Nummer 3 oder § 180 Absatz 2,
+
+5. in den Fällen des § 180 Absatz 1a das Finanzamt, das für den Bescheid örtlich zuständig ist, für den der Teilabschlussbescheid unmittelbar Bindungswirkung entfaltet.
 
 (2) Ist eine gesonderte Feststellung mehreren Steuerpflichtigen gegenüber vorzunehmen und lässt sich nach Absatz 1 die örtliche Zuständigkeit nicht bestimmen, so ist jedes Finanzamt örtlich zuständig, das nach den §§ 19 oder 20 für die Steuern vom Einkommen und Vermögen eines Steuerpflichtigen zuständig ist, dem ein Anteil an dem Gegenstand der Feststellung zuzurechnen ist. Soweit dieses Finanzamt auf Grund einer Verordnung nach § 17 Abs. 2 Satz 3 und 4 des Finanzverwaltungsgesetzes sachlich nicht für die gesonderte Feststellung zuständig ist, tritt an seine Stelle das sachlich zuständige Finanzamt.
 
@@ -3963,7 +3981,7 @@ Beteiligte sind
 
 4. Behörden durch ihre Leiter, deren Vertreter oder Beauftragte.
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
 
@@ -4088,6 +4106,8 @@ Die Finanzbehörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie e
 # § 87a – Elektronische Kommunikation
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet. Ein elektronisches Dokument ist zugegangen, sobald die für den Empfang bestimmte Einrichtung es in für den Empfänger bearbeitbarer Weise aufgezeichnet hat; § 122 Absatz 2a sowie die §§ 122a und 123 Satz 2 und 3 bleiben unberührt. Übermittelt die Finanzbehörde Daten, die dem Steuergeheimnis unterliegen, sind diese Daten mit einem geeigneten Verfahren zu verschlüsseln; soweit alle betroffenen Personen schriftlich eingewilligt haben, kann auf eine Verschlüsselung verzichtet werden. Die kurzzeitige automatisierte Entschlüsselung, die beim Versenden einer De-Mail-Nachricht durch den akkreditierten Diensteanbieter zum Zweck der Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den Adressaten der De-Mail-Nachricht erfolgt, verstößt nicht gegen das Verschlüsselungsgebot des Satzes 3. Eine elektronische Benachrichtigung über die Bereitstellung von Daten zum Abruf oder über den Zugang elektronisch an die Finanzbehörden übermittelter Daten darf auch ohne Verschlüsselung übermittelt werden.
+
+(1a) Verhandlungen und Besprechungen können auch elektronisch durch Übertragung in Ton oder Bild und Ton erfolgen. Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Ist ein der Finanzbehörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, hat sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Macht ein Empfänger geltend, er könne das von der Finanzbehörde übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück zu übermitteln.
 
@@ -4310,7 +4330,11 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 
 (2) Ist ein Sachverhalt zu ermitteln und steuerrechtlich zu beurteilen, der sich auf Vorgänge außerhalb des Geltungsbereichs dieses Gesetzes bezieht, so haben die Beteiligten diesen Sachverhalt aufzuklären und die erforderlichen Beweismittel zu beschaffen. Sie haben dabei alle für sie bestehenden rechtlichen und tatsächlichen Möglichkeiten auszuschöpfen. Ein Beteiligter kann sich nicht darauf berufen, dass er Sachverhalte nicht aufklären oder Beweismittel nicht beschaffen kann, wenn er sich nach Lage des Falls bei der Gestaltung seiner Verhältnisse die Möglichkeit dazu hätte beschaffen oder einräumen lassen können.
 
-(3) Ein Steuerpflichtiger hat über die Art und den Inhalt seiner Geschäftsbeziehungen im Sinne des § 1 Absatz 4 des Außensteuergesetzes Aufzeichnungen zu erstellen. Die Aufzeichnungspflicht umfasst neben der Darstellung der Geschäftsvorfälle (Sachverhaltsdokumentation) auch die wirtschaftlichen und rechtlichen Grundlagen für eine den Fremdvergleichsgrundsatz beachtende Vereinbarung von Bedingungen, insbesondere Preisen (Verrechnungspreisen), sowie insbesondere Informationen zum Zeitpunkt der Verrechnungspreisbestimmung, zur verwendeten Verrechnungspreismethode und zu den verwendeten Fremdvergleichsdaten (Angemessenheitsdokumentation). Hat ein Steuerpflichtiger Aufzeichnungen im Sinne des Satzes 1 für ein Unternehmen zu erstellen, das Teil einer multinationalen Unternehmensgruppe ist, so gehört zu den Aufzeichnungen auch ein Überblick über die Art der weltweiten Geschäftstätigkeit der Unternehmensgruppe und über die von ihr angewandte Systematik der Verrechnungspreisbestimmung, es sei denn, der Umsatz des Unternehmens hat im vorangegangenen Wirtschaftsjahr weniger als 100 Millionen Euro betragen. Eine multinationale Unternehmensgruppe besteht aus mindestens zwei in verschiedenen Staaten ansässigen, im Sinne des § 1 Absatz 2 des Außensteuergesetzes einander nahestehenden Unternehmen oder aus mindestens einem Unternehmen mit mindestens einer Betriebsstätte in einem anderen Staat. Die Finanzbehörde soll die Vorlage von Aufzeichnungen im Regelfall nur für die Durchführung einer Außenprüfung verlangen. Die Vorlage richtet sich nach § 97. Sie hat jeweils auf Anforderung innerhalb einer Frist von 60 Tagen zu erfolgen. Aufzeichnungen über außergewöhnliche Geschäftsvorfälle sind zeitnah zu erstellen und innerhalb einer Frist von 30 Tagen nach Anforderung durch die Finanzbehörde vorzulegen. In begründeten Einzelfällen kann die Vorlagefrist nach den Sätzen 7 und 8 verlängert werden. Die Aufzeichnungen sind auf Anforderung der Finanzbehörde zu ergänzen. Um eine einheitliche Rechtsanwendung sicherzustellen, wird das Bundesministerium der Finanzen ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Art, Inhalt und Umfang der zu erstellenden Aufzeichnungen zu bestimmen.
+(3) Ein Steuerpflichtiger hat über die Art und den Inhalt seiner Geschäftsbeziehungen im Sinne des § 1 Absatz 4 des Außensteuergesetzes Aufzeichnungen zu erstellen. Die Aufzeichnungspflicht umfasst neben der Darstellung der Geschäftsvorfälle (Sachverhaltsdokumentation) auch die wirtschaftlichen und rechtlichen Grundlagen für eine den Fremdvergleichsgrundsatz beachtende Vereinbarung von Bedingungen, insbesondere Preisen (Verrechnungspreisen), sowie insbesondere Informationen zum Zeitpunkt der Verrechnungspreisbestimmung, zur verwendeten Verrechnungspreismethode und zu den verwendeten Fremdvergleichsdaten (Angemessenheitsdokumentation). Hat ein Steuerpflichtiger Aufzeichnungen im Sinne des Satzes 1 für ein Unternehmen zu erstellen, das Teil einer multinationalen Unternehmensgruppe ist, so gehört zu den Aufzeichnungen auch ein Überblick über die Art der weltweiten Geschäftstätigkeit der Unternehmensgruppe und über die von ihr angewandte Systematik der Verrechnungspreisbestimmung, es sei denn, der Umsatz des Unternehmens hat im vorangegangenen Wirtschaftsjahr weniger als 100 Millionen Euro betragen. Eine multinationale Unternehmensgruppe besteht aus mindestens zwei in verschiedenen Staaten ansässigen, im Sinne des § 1 Absatz 2 des Außensteuergesetzes einander nahestehenden Unternehmen oder aus mindestens einem Unternehmen mit mindestens einer Betriebsstätte in einem anderen Staat. Zu außergewöhnlichen Geschäftsvorfällen sind zeitnah Aufzeichnungen zu erstellen. Die Aufzeichnungen im Sinne dieses Absatzes sind auf Anforderung der Finanzbehörde zu ergänzen.
+
+(4) Die Finanzbehörde kann jederzeit die Vorlage der Aufzeichnungen nach Absatz 3 verlangen; die Vorlage richtet sich nach § 97. Im Falle einer Außenprüfung sind die Aufzeichnungen ohne gesondertes Verlangen vorzulegen. Die Aufzeichnungen sind jeweils innerhalb einer Frist von 30 Tagen nach Anforderung oder nach Bekanntgabe der Prüfungsanordnung vorzulegen. In begründeten Einzelfällen kann die Vorlagefrist verlängert werden.
+
+(5) Um eine einheitliche Rechtsanwendung sicherzustellen, wird das Bundesministerium der Finanzen ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Art, Inhalt und Umfang der nach den Absätzen 3 und 4 zu erstellenden Aufzeichnungen zu bestimmen.
 
 (+++ § 90: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
 
@@ -4375,6 +4399,8 @@ und der Abruf in diesen Fällen zur Festsetzung der Einkommensteuer erforderlich
 4a. zur Ermittlung, in welchen Fällen ein inländischer Steuerpflichtiger im Sinne des § 138 Absatz 2 Satz 1 Verfügungsberechtigter oder wirtschaftlich Berechtigter im Sinne des Geldwäschegesetzes eines Kontos oder Depots einer natürlichen Person, Personengesellschaft, Körperschaft, Personenvereinigung oder Vermögensmasse mit Wohnsitz, gewöhnlichem Aufenthalt, Sitz, Hauptniederlassung oder Geschäftsleitung außerhalb des Geltungsbereichs dieses Gesetzes ist, oder
 
 4b. zur Ermittlung der Besteuerungsgrundlagen in den Fällen des § 208 Absatz 1 Satz 1 Nummer 3
+
+4c. zur Durchführung der Amtshilfe für andere Mitgliedstaaten der Europäischen Union nach § 3a des EU-Amtshilfegesetzes oder
 
 oder
 
@@ -5202,6 +5228,8 @@ In den Fällen von Satz 1 Nummer 3 ist auch anzugeben, bei welcher Finanzbehörd
 
 (7) Das Bundeszentralamt für Steuern übermittelt alle ihm zugegangenen länderbezogenen Berichte an die jeweils zuständige Finanzbehörde. Enthält ein länderbezogener Bericht Angaben im Sinne von Absatz 2 für einen Vertragsstaat der völkerrechtlichen Vereinbarungen, übermittelt das Bundeszentralamt für Steuern auf Grundlage dieser völkerrechtlichen Vereinbarungen den ihm zugegangenen länderbezogenen Bericht an die zuständige Behörde des jeweiligen Vertragsstaates. Das Bundeszentralamt für Steuern nimmt die länderbezogenen Berichte entgegen, die ihm von den zuständigen Behörden der in Satz 2 genannten Vertragsstaaten übermittelt worden sind, und übermittelt diese an die jeweils zuständige Finanzbehörde. Das Bundeszentralamt für Steuern kann länderbezogene Berichte im Rahmen der ihm gesetzlich übertragenen Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die länderbezogenen Berichte und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt.
 
+(8) § 2a Absatz 5 Nummer 2 gilt nicht.
+
 (+++ § 138a: Zur Anwendung vgl. Art. 97 §§ 1 u. 31 AOEG 1977 +++)
 
 # § 138b – Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften
@@ -5461,7 +5489,7 @@ b) einer abstrakt gehaltenen Beschreibung der relevanten Geschäftstätigkeit od
 
 Soweit dem Intermediär bekannt ist, dass neben ihm mindestens ein weiterer Intermediär im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union zur Mitteilung derselben grenzüberschreitenden Steuergestaltung verpflichtet ist, so kann er im Datensatz nach Satz 1 die Angaben nach Satz 1 Nummer 1 auch hinsichtlich der anderen ihm bekannten Intermediäre machen.
 
-(4) Der mitteilende Intermediär hat den Nutzer darüber zu informieren, welche den Nutzer betreffenden Angaben er gemäß Absatz 3 an das Bundeszentralamt für Steuern übermittelt hat oder übermitteln wird. Im Fall des Absatzes 3 Satz 2 hat der mitteilende Intermediär die anderen ihm bekannten Intermediäre unverzüglich darüber zu informieren, dass die Angaben gemäß Absatz 3 an das Bundeszentralamt für Steuern übermittelt wurden.
+(4) Der mitteilende Intermediär hat den Nutzer darüber zu informieren, welche den Nutzer betreffenden Angaben er gemäß Absatz 3 an das Bundeszentralamt für Steuern übermitteln wird. Im Fall des Absatzes 3 Satz 2 hat der mitteilende Intermediär die anderen ihm bekannten Intermediäre unverzüglich darüber zu informieren, dass die Angaben gemäß Absatz 3 an das Bundeszentralamt für Steuern übermittelt wurden.
 
 (5) Das Bundeszentralamt für Steuern weist dem eingegangenen Datensatz im Sinne des Absatzes 3
 
@@ -5959,11 +5987,11 @@ Dies gilt nicht, wenn die Ware erkennbar nicht zur gewerblichen Weiterverwendung
 
 (2) Bücher und die sonst erforderlichen Aufzeichnungen sind im Geltungsbereich dieses Gesetzes zu führen und aufzubewahren. Dies gilt nicht, soweit für Betriebstätten außerhalb des Geltungsbereichs dieses Gesetzes nach dortigem Recht eine Verpflichtung besteht, Bücher und Aufzeichnungen zu führen, und diese Verpflichtung erfüllt wird. In diesem Fall sowie bei Organgesellschaften außerhalb des Geltungsbereichs dieses Gesetzes müssen die Ergebnisse der dortigen Buchführung in die Buchführung des hiesigen Unternehmens übernommen werden, soweit sie für die Besteuerung von Bedeutung sind. Dabei sind die erforderlichen Anpassungen an die steuerrechtlichen Vorschriften im Geltungsbereich dieses Gesetzes vorzunehmen und kenntlich zu machen.
 
-(2a) Abweichend von Absatz 2 Satz 1 kann der Steuerpflichtige elektronische Bücher und sonstige erforderliche elektronische Aufzeichnungen oder Teile davon in einem anderen Mitgliedstaat der Europäischen Union führen und aufbewahren. Macht der Steuerpflichtige von dieser Befugnis Gebrauch, hat er sicherzustellen, dass der Datenzugriff nach § 146b Absatz 2 Satz 2, § 147 Absatz 6 und § 27b Absatz 2 Satz 2 und 3 des Umsatzsteuergesetzes in vollem Umfang möglich ist.
+(2a) Abweichend von Absatz 2 Satz 1 kann der Steuerpflichtige elektronische Bücher und sonstige erforderliche elektronische Aufzeichnungen oder Teile davon in einem anderen Mitgliedstaat oder in mehreren Mitgliedstaaten der Europäischen Union führen und aufbewahren. Macht der Steuerpflichtige von dieser Befugnis Gebrauch, hat er sicherzustellen, dass der Datenzugriff nach § 146b Absatz 2 Satz 2, § 147 Absatz 6 und § 27b Absatz 2 Satz 2 und 3 des Umsatzsteuergesetzes in vollem Umfang möglich ist.
 
-(2b) Abweichend von Absatz 2 Satz 1 kann die zuständige Finanzbehörde auf schriftlichen oder elektronischen Antrag des Steuerpflichtigen bewilligen, dass elektronische Bücher und sonstige erforderliche elektronische Aufzeichnungen oder Teile davon in einem Drittstaat geführt und aufbewahrt werden können. Voraussetzung ist, dass
+(2b) Abweichend von Absatz 2 Satz 1 kann die zuständige Finanzbehörde auf schriftlichen oder elektronischen Antrag des Steuerpflichtigen bewilligen, dass elektronische Bücher und sonstige erforderliche elektronische Aufzeichnungen oder Teile davon in einem Drittstaat oder in mehreren Drittstaaten geführt und aufbewahrt werden können. Voraussetzung ist, dass
 
-1. der Steuerpflichtige der zuständigen Finanzbehörde den Standort des Datenverarbeitungssystems und bei Beauftragung eines Dritten dessen Namen und Anschrift mitteilt,
+1. der Steuerpflichtige der zuständigen Finanzbehörde den Standort oder die Standorte des Datenverarbeitungssystems oder bei Beauftragung eines Dritten dessen Namen und Anschrift mitteilt,
 
 2. der Steuerpflichtige seinen sich aus den §§ 90, 93, 97, 140 bis 147 und 200 Absatz 1 und 2 ergebenden Pflichten ordnungsgemäß nachgekommen ist,
 
@@ -5971,9 +5999,9 @@ Dies gilt nicht, wenn die Ware erkennbar nicht zur gewerblichen Weiterverwendung
 
 4. die Besteuerung hierdurch nicht beeinträchtigt wird.
 
-Werden der Finanzbehörde Umstände bekannt, die zu einer Beeinträchtigung der Besteuerung führen, hat sie die Bewilligung zu widerrufen und die unverzügliche Rückverlagerung der elektronischen Bücher und sonstigen erforderlichen elektronischen Aufzeichnungen in den Geltungsbereich dieses Gesetzes zu verlangen. Eine Änderung der unter Satz 2 Nummer 1 benannten Umstände ist der zuständigen Finanzbehörde unverzüglich mitzuteilen.
+Werden der Finanzbehörde Umstände bekannt, die zu einer Beeinträchtigung der Besteuerung führen, hat sie die Bewilligung zu widerrufen und die unverzügliche Rückverlagerung der elektronischen Bücher und sonstigen erforderlichen elektronischen Aufzeichnungen einen oder mehrere Mitgliedstaaten der Europäischen Union zu verlangen. Eine Änderung der unter Satz 2 Nummer 1 benannten Umstände ist der zuständigen Finanzbehörde unverzüglich mitzuteilen.
 
-(2c) Kommt der Steuerpflichtige der Aufforderung zur Rückverlagerung seiner elektronischen Buchführung oder seinen Pflichten nach Absatz 2b Satz 4, zur Einräumung des Datenzugriffs nach § 147 Abs. 6, zur Erteilung von Auskünften oder zur Vorlage angeforderter Unterlagen im Sinne des § 200 Abs. 1 im Rahmen einer Außenprüfung innerhalb einer ihm bestimmten angemessenen Frist nach Bekanntgabe durch die zuständige Finanzbehörde nicht nach oder hat er seine elektronische Buchführung ohne Bewilligung der zuständigen Finanzbehörde in einen Drittstaat verlagert, kann ein Verzögerungsgeld von 2 500 Euro bis 250 000 Euro festgesetzt werden.
+(2c) Kommt der Steuerpflichtige der Aufforderung zur Rückverlagerung seiner elektronischen Buchführung oder seinen Pflichten nach Absatz 2b Satz 4, zur Einräumung des Datenzugriffs nach § 147 Abs. 6, zur Erteilung von Auskünften oder zur Vorlage angeforderter Unterlagen im Sinne des § 200 Abs. 1 im Rahmen einer Außenprüfung innerhalb einer ihm bestimmten angemessenen Frist nach Bekanntgabe durch die zuständige Finanzbehörde nicht nach oder hat er seine elektronische Buchführung ohne Bewilligung der zuständigen Finanzbehörde in einen oder mehrere Drittstaaten verlagert, kann ein Verzögerungsgeld von 2 500 Euro bis 250 000 Euro festgesetzt werden.
 
 (3) Die Buchungen und die sonst erforderlichen Aufzeichnungen sind in einer lebenden Sprache vorzunehmen. Wird eine andere als die deutsche Sprache verwendet, so kann die Finanzbehörde Übersetzungen verlangen. Werden Abkürzungen, Ziffern, Buchstaben oder Symbole verwendet, muss im Einzelfall deren Bedeutung eindeutig festliegen.
 
@@ -6074,26 +6102,40 @@ Die Mitteilung nach Satz 1 ist innerhalb eines Monats nach Anschaffung oder Auß
 
 (5) Wer aufzubewahrende Unterlagen in der Form einer Wiedergabe auf einem Bildträger oder auf anderen Datenträgern vorlegt, ist verpflichtet, auf seine Kosten diejenigen Hilfsmittel zur Verfügung zu stellen, die erforderlich sind, um die Unterlagen lesbar zu machen; auf Verlangen der Finanzbehörde hat er auf seine Kosten die Unterlagen unverzüglich ganz oder teilweise auszudrucken oder ohne Hilfsmittel lesbare Reproduktionen beizubringen.
 
-(6) Sind die Unterlagen nach Absatz 1 mit Hilfe eines Datenverarbeitungssystems erstellt worden, hat die Finanzbehörde im Rahmen einer Außenprüfung das Recht, Einsicht in die gespeicherten Daten zu nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen zu nutzen. Sie kann im Rahmen einer Außenprüfung auch verlangen, dass die Daten nach ihren Vorgaben maschinell ausgewertet oder ihr die gespeicherten Unterlagen und Aufzeichnungen auf einem maschinell verwertbaren Datenträger zur Verfügung gestellt werden. Teilt der Steuerpflichtige der Finanzbehörde mit, dass sich seine Daten nach Absatz 1 bei einem Dritten befinden, so hat der Dritte
+(6) Sind die Unterlagen nach Absatz 1 mit Hilfe eines Datenverarbeitungssystems erstellt worden,
+
+1. hat die Finanzbehörde im Rahmen einer Außenprüfung das Recht, Einsicht in die gespeicherten Daten zu nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen zu nutzen,
+
+2. kann die Finanzbehörde verlangen, dass die Daten nach ihren Vorgaben maschinell ausgewertet zur Verfügung gestellt werden, oder
+
+3. kann die Finanzbehörde verlangen, dass die Daten nach ihren Vorgaben in einem maschinell auswertbaren Format an sie übertragen werden.
+
+Teilt der Steuerpflichtige der Finanzbehörde mit, dass sich seine Daten nach Absatz 1 bei einem Dritten befinden, so hat der Dritte
 
 1. der Finanzbehörde Einsicht in die für den Steuerpflichtigen gespeicherten Daten zu gewähren oder
 
 2. diese Daten nach den Vorgaben der Finanzbehörde maschinell auszuwerten oder
 
-3. ihr die für den Steuerpflichtigen gespeicherten Unterlagen und Aufzeichnungen auf einem maschinell verwertbaren Datenträger zur Verfügung zu stellen.
+3. ihr nach ihren Vorgaben die für den Steuerpflichtigen gespeicherten Daten in einem maschinell auswertbaren Format zu übertragen.
 
 Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der Außenprüfung betraute Amtsträger den in § 3 und § 4 Nummer 1 und 2 des Steuerberatungsgesetzes bezeichneten Personen sein Erscheinen in angemessener Frist anzukündigen. Sofern noch nicht mit einer Außenprüfung begonnen wurde, ist es im Fall eines Wechsels des Datenverarbeitungssystems oder im Fall der Auslagerung von aufzeichnungs- und aufbewahrungspflichtigen Daten aus dem Produktivsystem in ein anderes Datenverarbeitungssystem ausreichend, wenn der Steuerpflichtige nach Ablauf des fünften Kalenderjahres, das auf die Umstellung oder Auslagerung folgt, diese Daten ausschließlich auf einem maschinell lesbaren und maschinell auswertbaren Datenträger vorhält.
+
+(7) Die Verarbeitung und Aufbewahrung der nach Absatz 6 zur Verfügung gestellten Daten ist auch auf mobilen Datenverarbeitungssystemen der Finanzbehörden unabhängig von deren Einsatzort zulässig, sofern diese unter Berücksichtigung des Stands der Technik gegen unbefugten Zugriff gesichert sind. Die Finanzbehörde darf die nach Absatz 6 zur Verfügung gestellten und gespeicherten Daten bis zur Unanfechtbarkeit der die Daten betreffenden Verwaltungsakte auch auf den mobilen Datenverarbeitungssystemen unabhängig von deren Einsatzort aufbewahren.
 
 (+++ § 147: Zur Anwendung vgl. Art. 97 § 19a u. § 19b AOEG 1977 +++)  
 (+++ § 147: Zur Geltung vgl. § 93c +++)
 
 # § 147a – Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
 
-(1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2 Absatz 1 Nummer 4 bis 7 des Einkommensteuergesetzes (Überschusseinkünfte) mehr als 500 000 Euro im Kalenderjahr beträgt, haben die Aufzeichnungen und Unterlagen über die den Überschusseinkünften zu Grunde liegenden Einnahmen und Werbungskosten sechs Jahre aufzubewahren. Im Falle der Zusammenveranlagung sind für die Feststellung des Überschreitens des Betrags von 500 000 Euro die Summe der positiven Einkünfte nach Satz 1 eines jeden Ehegatten oder Lebenspartners maßgebend. Die Verpflichtung nach Satz 1 ist vom Beginn des Kalenderjahrs an zu erfüllen, das auf das Kalenderjahr folgt, in dem die Summe der positiven Einkünfte im Sinne des Satzes 1 mehr als 500 000 Euro beträgt. Die Verpflichtung nach Satz 1 endet mit Ablauf des fünften aufeinanderfolgenden Kalenderjahrs, in dem die Voraussetzungen des Satzes 1 nicht erfüllt sind. § 147 Absatz 2, Absatz 3 Satz 3 und die Absätze 4 bis 6 gelten entsprechend. Die Sätze 1 bis 3 und 5 gelten entsprechend in den Fällen, in denen die zuständige Finanzbehörde den Steuerpflichtigen für die Zukunft zur Aufbewahrung der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet, weil er seinen Mitwirkungspflichten nach § 12 Absatz 3 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachgekommen ist.
+(1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2 Absatz 1 Nummer 4 bis 7 des Einkommensteuergesetzes (Überschusseinkünfte) mehr als 500 000 Euro im Kalenderjahr beträgt, haben die Aufzeichnungen und Unterlagen über die den Überschusseinkünften zu Grunde liegenden Einnahmen und Werbungskosten sechs Jahre aufzubewahren. Im Falle der Zusammenveranlagung sind für die Feststellung des Überschreitens des Betrags von 500 000 Euro die Summe der positiven Einkünfte nach Satz 1 eines jeden Ehegatten oder Lebenspartners maßgebend. Die Verpflichtung nach Satz 1 ist vom Beginn des Kalenderjahrs an zu erfüllen, das auf das Kalenderjahr folgt, in dem die Summe der positiven Einkünfte im Sinne des Satzes 1 mehr als 500 000 Euro beträgt. Die Verpflichtung nach Satz 1 endet mit Ablauf des fünften aufeinanderfolgenden Kalenderjahrs, in dem die Voraussetzungen des Satzes 1 nicht erfüllt sind. § 147 Absatz 2, Absatz 3 Satz 5 und Absatz 4 bis 7 gilt entsprechend. Die Sätze 1 bis 3 und 5 gelten entsprechend in den Fällen, in denen die zuständige Finanzbehörde den Steuerpflichtigen für die Zukunft zur Aufbewahrung der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet, weil er seinen Mitwirkungspflichten nach § 12 Absatz 3 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachgekommen ist.
 
-(2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 und 6 gelten entsprechend.
+(2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 bis 7 gelten entsprechend.
 
 (+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 u. § 22 AOEG 1977 +++)
+
+# § 147b – Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen
+
+Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit Zustimmung des Bundesrates einheitliche digitale Schnittstellen und Datensatzbeschreibungen für den standardisierten Export von Daten bestimmen, die mit einem Datenverarbeitungssystem erstellt worden und nach § 147 Absatz 1 aufzubewahren sind. In der Rechtsverordnung kann auch eine Pflicht zur Implementierung und Nutzung der jeweiligen einheitlichen digitalen Schnittstelle oder von Datensatzbeschreibungen für den standardisierten Export von Daten bestimmt werden.
 
 # § 148 – Bewilligung von Erleichterungen
 
@@ -6261,6 +6303,8 @@ so ist er verpflichtet, dies unverzüglich anzuzeigen und die erforderliche Rich
 
 (3) Wer Waren, für die eine Steuervergünstigung unter einer Bedingung gewährt worden ist, in einer Weise verwenden will, die der Bedingung nicht entspricht, hat dies vorher der Finanzbehörde anzuzeigen.
 
+(4) Die Anzeige- und Berichtigungspflicht besteht ferner, wenn Prüfungsfeststellungen einer Außenprüfung unanfechtbar in einem Steuerbescheid, einem Feststellungsbescheid nach § 180 Absatz 1 Satz 1 Nummer 2 oder einem Teilabschlussbescheid nach § 180 Absatz 1a umgesetzt worden sind und die den Prüfungsfeststellungen zugrunde liegenden Sachverhalte auch in einer anderen vom oder für den Steuerpflichtigen abgegebenen Erklärung, die nicht Gegenstand der Außenprüfung war, zu einer Änderung der Besteuerungsgrundlagen führt.
+
 # § 154 – Kontenwahrheit
 
 (1) Niemand darf auf einen falschen oder erdichteten Namen für sich oder einen Dritten ein Konto errichten oder Buchungen vornehmen lassen, Wertsachen (Geld, Wertpapiere, Kostbarkeiten) in Verwahrung geben oder verpfänden oder sich ein Schließfach geben lassen.
@@ -6335,7 +6379,13 @@ Für bestimmte oder bestimmbare Fallgruppen können die obersten Finanzbehörden
 
 # § 158 – Beweiskraft der Buchführung
 
-Die Buchführung und die Aufzeichnungen des Steuerpflichtigen, die den Vorschriften der §§ 140 bis 148 entsprechen, sind der Besteuerung zugrunde zu legen, soweit nach den Umständen des Einzelfalls kein Anlass ist, ihre sachliche Richtigkeit zu beanstanden.
+(1) Die Buchführung und die Aufzeichnungen des Steuerpflichtigen, die den Vorschriften der §§ 140 bis 148 entsprechen, sind der Besteuerung zugrunde zu legen.
+
+(2) Absatz 1 gilt nicht,
+
+1. soweit nach den Umständen des Einzelfalls Anlass besteht, die sachliche Richtigkeit zu beanstanden oder
+
+2. soweit die elektronischen Daten nicht nach der Vorgabe der einheitlichen digitalen Schnittstellen des § 41 Absatz 1 Satz 7 des Einkommensteuergesetzes in Verbindung mit § 4 Absatz 2a der Lohnsteuer-Durchführungsverordnung, des § 146a oder des § 147b in Verbindung mit der jeweiligen Rechtsverordnung zur Verfügung gestellt werden.
 
 # § 159 – Nachweis der Treuhänderschaft
 
@@ -6357,15 +6407,15 @@ Ergeben sich bei einer vorgeschriebenen oder amtlich durchgeführten Bestandsauf
 
 (1) Soweit die Finanzbehörde die Besteuerungsgrundlagen nicht ermitteln oder berechnen kann, hat sie sie zu schätzen. Dabei sind alle Umstände zu berücksichtigen, die für die Schätzung von Bedeutung sind.
 
-(2) Zu schätzen ist insbesondere dann, wenn der Steuerpflichtige über seine Angaben keine ausreichenden Aufklärungen zu geben vermag oder weitere Auskunft oder eine Versicherung an Eides statt verweigert oder seine Mitwirkungspflicht nach § 90 Abs. 2 verletzt. Das Gleiche gilt, wenn der Steuerpflichtige Bücher oder Aufzeichnungen, die er nach den Steuergesetzen zu führen hat, nicht vorlegen kann, wenn die Buchführung oder die Aufzeichnungen der Besteuerung nicht nach § 158 zugrunde gelegt werden oder wenn tatsächliche Anhaltspunkte für die Unrichtigkeit oder Unvollständigkeit der vom Steuerpflichtigen gemachten Angaben zu steuerpflichtigen Einnahmen oder Betriebsvermögensmehrungen bestehen und der Steuerpflichtige die Zustimmung nach § 93 Abs. 7 Satz 1 Nr. 5 nicht erteilt. Hat der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb verletzt, so wird widerlegbar vermutet, dass in Deutschland steuerpflichtige Einkünfte in Bezug zu Staaten oder Gebieten im Sinne des § 3 Absatz 1 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb
+(2) Zu schätzen ist insbesondere dann, wenn der Steuerpflichtige über seine Angaben keine ausreichenden Aufklärungen zu geben vermag oder weitere Auskunft oder eine Versicherung an Eides statt verweigert oder seine Mitwirkungspflicht nach § 90 Abs. 2 verletzt. Das Gleiche gilt, wenn der Steuerpflichtige Bücher oder Aufzeichnungen, die er nach den Steuergesetzen zu führen hat, nicht vorlegen kann, wenn die Buchführung oder die Aufzeichnungen nach § 158 Absatz 2 nicht der Besteuerung zugrunde gelegt werden oder wenn tatsächliche Anhaltspunkte für die Unrichtigkeit oder Unvollständigkeit der vom Steuerpflichtigen gemachten Angaben zu steuerpflichtigen Einnahmen oder Betriebsvermögensmehrungen bestehen und der Steuerpflichtige die Zustimmung nach § 93 Abs. 7 Satz 1 Nr. 5 nicht erteilt. Hat der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb verletzt, so wird widerlegbar vermutet, dass in Deutschland steuerpflichtige Einkünfte in Bezug zu Staaten oder Gebieten im Sinne des § 3 Absatz 1 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb
 
 1. bisher nicht erklärt wurden, tatsächlich aber vorhanden sind, oder
 
 2. bisher zwar erklärt wurden, tatsächlich aber höher sind als erklärt.
 
-(3) Verletzt ein Steuerpflichtiger seine Mitwirkungspflichten nach § 90 Absatz 3 dadurch, dass er keine Aufzeichnungen über einen Geschäftsvorfall vorlegt, oder sind die über einen Geschäftsvorfall vorgelegten Aufzeichnungen im Wesentlichen unverwertbar oder wird festgestellt, dass der Steuerpflichtige Aufzeichnungen im Sinne des § 90 Absatz 3 Satz 8 nicht zeitnah erstellt hat, so wird widerlegbar vermutet, dass seine im Inland steuerpflichtigen Einkünfte, zu deren Ermittlung die Aufzeichnungen im Sinne des § 90 Absatz 3 dienen, höher als die von ihm erklärten Einkünfte sind. Hat in solchen Fällen die Finanzbehörde eine Schätzung vorzunehmen und können diese Einkünfte nur innerhalb eines bestimmten Rahmens, insbesondere nur auf Grund von Preisspannen bestimmt werden, kann dieser Rahmen zu Lasten des Steuerpflichtigen ausgeschöpft werden. Bestehen trotz Vorlage verwertbarer Aufzeichnungen durch den Steuerpflichtigen Anhaltspunkte dafür, dass seine Einkünfte bei Beachtung des Fremdvergleichsgrundsatzes höher wären als die auf Grund der Aufzeichnungen erklärten Einkünfte, und können entsprechende Zweifel deswegen nicht aufgeklärt werden, weil eine ausländische, nahe stehende Person ihre Mitwirkungspflichten nach § 90 Abs. 2 oder ihre Auskunftspflichten nach § 93 Abs. 1 nicht erfüllt, ist Satz 2 entsprechend anzuwenden.
+(3) Verletzt ein Steuerpflichtiger seine Mitwirkungspflichten nach § 90 Absatz 3 dadurch, dass er keine Aufzeichnungen über einen Geschäftsvorfall vorlegt, oder sind die über einen Geschäftsvorfall vorgelegten Aufzeichnungen im Wesentlichen unverwertbar oder wird festgestellt, dass der Steuerpflichtige Aufzeichnungen im Sinne des § 90 Absatz 3 Satz 5 nicht zeitnah erstellt hat, so wird widerlegbar vermutet, dass seine im Inland steuerpflichtigen Einkünfte, zu deren Ermittlung die Aufzeichnungen im Sinne des § 90 Absatz 3 dienen, höher als die von ihm erklärten Einkünfte sind. Hat in solchen Fällen die Finanzbehörde eine Schätzung vorzunehmen und können diese Einkünfte nur innerhalb eines bestimmten Rahmens, insbesondere nur auf Grund von Preisspannen bestimmt werden, kann dieser Rahmen zu Lasten des Steuerpflichtigen ausgeschöpft werden. Bestehen trotz Vorlage verwertbarer Aufzeichnungen durch den Steuerpflichtigen Anhaltspunkte dafür, dass seine Einkünfte bei Beachtung des Fremdvergleichsgrundsatzes höher wären als die auf Grund der Aufzeichnungen erklärten Einkünfte, und können entsprechende Zweifel deswegen nicht aufgeklärt werden, weil eine ausländische, nahe stehende Person ihre Mitwirkungspflichten nach § 90 Abs. 2 oder ihre Auskunftspflichten nach § 93 Abs. 1 nicht erfüllt, ist Satz 2 entsprechend anzuwenden.
 
-(4) Legt ein Steuerpflichtiger über einen Geschäftsvorfall keine Aufzeichnungen im Sinne des § 90 Absatz 3 vor oder sind die über einen Geschäftsvorfall vorgelegten Aufzeichnungen im Wesentlichen unverwertbar, ist ein Zuschlag von 5 000 Euro festzusetzen. Der Zuschlag beträgt mindestens 5 Prozent und höchstens 10 Prozent des Mehrbetrags der Einkünfte, der sich nach einer Berichtigung auf Grund der Anwendung des Absatzes 3 ergibt, wenn sich danach ein Zuschlag von mehr als 5 000 Euro ergibt. Bei verspäteter Vorlage von verwertbaren Aufzeichnungen beträgt der Zuschlag bis zu 1 000 000 Euro, mindestens jedoch 100 Euro für jeden vollen Tag der Fristüberschreitung. Soweit den Finanzbehörden Ermessen hinsichtlich der Höhe des Zuschlags eingeräumt ist, sind neben dessen Zweck, den Steuerpflichtigen zur Erstellung und fristgerechten Vorlage der Aufzeichnungen im Sinne des § 90 Abs. 3 anzuhalten, insbesondere die von ihm gezogenen Vorteile und bei verspäteter Vorlage auch die Dauer der Fristüberschreitung zu berücksichtigen. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Pflichten nach § 90 Abs. 3 entschuldbar erscheint oder ein Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen steht dem eigenen Verschulden gleich. Der Zuschlag ist regelmäßig nach Abschluss der Außenprüfung festzusetzen.
+(4) Legt ein Steuerpflichtiger über einen Geschäftsvorfall keine Aufzeichnungen im Sinne des § 90 Absatz 3 vor oder sind die über einen Geschäftsvorfall vorgelegten Aufzeichnungen im Wesentlichen unverwertbar, ist ein Zuschlag von 5 000 Euro festzusetzen. Der Zuschlag beträgt mindestens 5 Prozent und höchstens 10 Prozent des Mehrbetrags der Einkünfte, der sich nach einer Berichtigung auf Grund der Anwendung des Absatzes 3 ergibt, wenn sich danach ein Zuschlag von mehr als 5 000 Euro ergibt. Der Zuschlag ist regelmäßig nach Abschluss der Außenprüfung festzusetzen. Bei verspäteter Vorlage von verwertbaren Aufzeichnungen beträgt der Zuschlag bis zu 1 000 000 Euro, mindestens jedoch 100 Euro für jeden vollen Tag der Fristüberschreitung; er kann für volle Wochen und Monate der verspäteten Vorlage in Teilbeträgen festgesetzt werden. Soweit den Finanzbehörden Ermessen hinsichtlich der Höhe des jeweiligen Zuschlags eingeräumt ist, sind neben dem Zweck dieses Zuschlags, den Steuerpflichtigen zur Erstellung und fristgerechten Vorlage der Aufzeichnungen nach § 90 Absatz 3 anzuhalten, insbesondere die von ihm gezogenen Vorteile und bei verspäteter Vorlage auch die Dauer der Fristüberschreitung zu berücksichtigen. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Pflichten nach § 90 Abs. 3 entschuldbar erscheint oder ein Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen steht dem eigenen Verschulden gleich.
 
 (4a) Verletzt der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Steueroasen-Abwehrgesetzes, ist Absatz 4 entsprechend anzuwenden. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Mitwirkungspflichten entschuldbar erscheint oder das Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen ist dem Steuerpflichtigen zuzurechnen.
 
@@ -6512,7 +6562,7 @@ beginnt die Festsetzungsfrist frühestens mit Ablauf des Kalenderjahres, in dem 
 
 (3a) Wird ein Steuerbescheid mit einem Einspruch oder einer Klage angefochten, so läuft die Festsetzungsfrist nicht ab, bevor über den Rechtsbehelf unanfechtbar entschieden ist; dies gilt auch, wenn der Rechtsbehelf erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der Festsetzungsfrist ist hinsichtlich des gesamten Steueranspruchs gehemmt; dies gilt nicht, soweit der Rechtsbehelf unzulässig ist. In den Fällen des § 100 Abs. 1 Satz 1, Abs. 2 Satz 2, Abs. 3 Satz 1, § 101 der Finanzgerichtsordnung ist über den Rechtsbehelf erst dann unanfechtbar entschieden, wenn ein auf Grund der genannten Vorschriften erlassener Steuerbescheid unanfechtbar geworden ist.
 
-(4) Wird vor Ablauf der Festsetzungsfrist mit einer Außenprüfung begonnen oder wird deren Beginn auf Antrag des Steuerpflichtigen hinausgeschoben, so läuft die Festsetzungsfrist für die Steuern, auf die sich die Außenprüfung erstreckt oder im Fall der Hinausschiebung der Außenprüfung erstrecken sollte, nicht ab, bevor die auf Grund der Außenprüfung zu erlassenden Steuerbescheide unanfechtbar geworden sind oder nach Bekanntgabe der Mitteilung nach § 202 Abs. 1 Satz 3 drei Monate verstrichen sind. Dies gilt nicht, wenn eine Außenprüfung unmittelbar nach ihrem Beginn für die Dauer von mehr als sechs Monaten aus Gründen unterbrochen wird, die die Finanzbehörde zu vertreten hat. Die Festsetzungsfrist endet spätestens, wenn seit Ablauf des Kalenderjahrs, in dem die Schlussbesprechung stattgefunden hat, oder, wenn sie unterblieben ist, seit Ablauf des Kalenderjahrs, in dem die letzten Ermittlungen im Rahmen der Außenprüfung stattgefunden haben, die in § 169 Abs. 2 genannten Fristen verstrichen sind; eine Ablaufhemmung nach anderen Vorschriften bleibt unberührt.
+(4) Wird vor Ablauf der Festsetzungsfrist mit einer Außenprüfung begonnen oder wird deren Beginn auf Antrag des Steuerpflichtigen hinausgeschoben, so läuft die Festsetzungsfrist für die Steuern, auf die sich die Außenprüfung erstreckt oder im Fall der Hinausschiebung der Außenprüfung erstrecken sollte, nicht ab, bevor die aufgrund der Außenprüfung zu erlassenden Steuerbescheide unanfechtbar geworden sind oder nach Bekanntgabe der Mitteilung nach § 202 Absatz 1 Satz 3 drei Monate verstrichen sind. Dies gilt nicht, wenn eine Außenprüfung unmittelbar nach ihrem Beginn für die Dauer von mehr als sechs Monaten aus Gründen unterbrochen wird, die die Finanzbehörde zu vertreten hat. Die Ablaufhemmung nach Satz 1 endet spätestens fünf Jahre nach Ablauf des Kalenderjahres, in dem die Prüfungsanordnung bekanntgegeben wurde; eine weitergehende Ablaufhemmung nach anderen Vorschriften bleibt unberührt. Wird auf Antrag des Steuerpflichtigen der Beginn der Außenprüfung verschoben oder die Außenprüfung unterbrochen, so verlängert sich die Frist nach Satz 3 erster Halbsatz für die in Satz 1 genannten Steuern um die Dauer des Hinausschiebens oder der Unterbrechung. Nimmt die Finanzbehörde für die in Satz 1 genannten Steuern vor Ablauf der Frist nach Satz 3 erster Halbsatz zwischenstaatliche Amtshilfe in Anspruch, verlängert sich diese Frist um die Dauer der zwischenstaatlichen Amtshilfe, mindestens aber um ein Jahr. Satz 5 gilt nur, sofern der Steuerpflichtige auf die Inanspruchnahme der zwischenstaatlichen Amtshilfe vor Ablauf der Frist nach Satz 3 erster Halbsatz hingewiesen wurde. Wird dem Steuerpflichtigen vor Ablauf der Festsetzungsfrist die Einleitung eines Strafverfahrens für eine der in Satz 1 genannten Steuern bekanntgegeben und wird infolgedessen mit einer Außenprüfung nicht begonnen oder eine bereits begonnene Außenprüfung unterbrochen, ist Satz 3 nicht anzuwenden; die Absätze 5 und 6 bleiben unberührt. § 200a Absatz 4 und 5 bleibt unberührt.
 
 (5) Beginnen die Behörden des Zollfahndungsdienstes oder die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden vor Ablauf der Festsetzungsfrist beim Steuerpflichtigen mit Ermittlungen der Besteuerungsgrundlagen, so läuft die Festsetzungsfrist insoweit nicht ab, bevor die auf Grund der Ermittlungen zu erlassenden Steuerbescheide unanfechtbar geworden sind; Absatz 4 Satz 2 gilt sinngemäß. Das Gleiche gilt, wenn dem Steuerpflichtigen vor Ablauf der Festsetzungsfrist die Einleitung des Steuerstrafverfahrens oder des Bußgeldverfahrens wegen einer Steuerordnungswidrigkeit bekannt gegeben worden ist; § 169 Abs. 1 Satz 3 gilt sinngemäß.
 
@@ -6528,7 +6578,7 @@ beginnt die Festsetzungsfrist frühestens mit Ablauf des Kalenderjahres, in dem 
 
 (10a) Soweit Daten eines Steuerpflichtigen im Sinne des § 93c innerhalb von sieben Kalenderjahren nach dem Besteuerungszeitraum oder dem Besteuerungszeitpunkt den Finanzbehörden zugegangen sind, endet die Festsetzungsfrist nicht vor Ablauf von zwei Jahren nach Zugang dieser Daten.
 
-(11) Ist eine geschäftsunfähige oder in der Geschäftsfähigkeit beschränkte Person ohne gesetzlichen Vertreter, so endet die Festsetzungsfrist nicht vor Ablauf von sechs Monaten nach dem Zeitpunkt, in dem die Person unbeschränkt geschäftsfähig wird oder der Mangel der Vertretung aufhört. Dies gilt auch, soweit für eine Person ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs angeordnet ist, der Betreuer jedoch verstorben oder auf andere Weise weggefallen oder aus rechtlichen Gründen an der Vertretung des Betreuten verhindert ist.
+(11) Ist eine geschäftsunfähige oder in der Geschäftsfähigkeit beschränkte Person ohne gesetzlichen Vertreter, so endet die Festsetzungsfrist nicht vor Ablauf von sechs Monaten nach dem Zeitpunkt, in dem die Person unbeschränkt geschäftsfähig wird oder der Mangel der Vertretung aufhört. Dies gilt auch, soweit für eine Person ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs angeordnet ist, der Betreuer jedoch verstorben oder auf andere Weise weggefallen oder aus rechtlichen Gründen an der Vertretung des Betreuten verhindert ist.
 
 (12) Richtet sich die Steuer gegen einen Nachlass, so endet die Festsetzungsfrist nicht vor dem Ablauf von sechs Monaten nach dem Zeitpunkt, in dem die Erbschaft von dem Erben angenommen oder das Insolvenzverfahren über den Nachlass eröffnet wird oder von dem an die Steuer gegen einen Vertreter festgesetzt werden kann.
 
@@ -6717,6 +6767,8 @@ b) in anderen als den in Buchstabe a genannten Fällen die Einkünfte aus Land- 
 
 Wenn sich in den Fällen von Satz 1 Nummer 2 Buchstabe b die für die örtliche Zuständigkeit maßgeblichen Verhältnisse nach Schluss des Gewinnermittlungszeitraums geändert haben, so richtet sich die örtliche Zuständigkeit auch für Feststellungszeiträume, die vor der Änderung der maßgeblichen Verhältnisse liegen, nach § 18 Absatz 1 Nummer 1 bis 3 in Verbindung mit § 26.
 
+(1a) Einzelne, im Rahmen einer Außenprüfung für den Prüfungszeitraum ermittelte und abgrenzbare Besteuerungsgrundlagen können gesondert festgestellt werden (Teilabschlussbescheid), solange noch kein Prüfungsbericht nach § 202 Absatz 1 ergangen ist. Auf Antrag des Steuerpflichtigen soll ein Teilabschlussbescheid ergehen, wenn daran ein erhebliches Interesse besteht und dies vom Steuerpflichtigen glaubhaft gemacht wird.
+
 (2) Zur Sicherstellung einer einheitlichen Rechtsanwendung bei gleichen Sachverhalten und zur Erleichterung des Besteuerungsverfahrens kann das Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass in anderen als den in Absatz 1 genannten Fällen Besteuerungsgrundlagen gesondert und für mehrere Personen einheitlich festgestellt werden. Dabei können insbesondere geregelt werden
 
 1. der Gegenstand und der Umfang der gesonderten Feststellung,
@@ -6754,7 +6806,7 @@ Das nach § 18 Absatz 1 Nummer 4 zuständige Finanzamt kann durch Bescheid fests
 
 # § 181 – Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht
 
-(1) Für die gesonderte Feststellung gelten die Vorschriften über die Durchführung der Besteuerung sinngemäß. Steuererklärung im Sinne des § 170 Absatz 2 Satz 1 Nummer 1 ist die Erklärung zur gesonderten Feststellung. Wird eine Erklärung zur gesonderten Feststellung nach § 180 Absatz 2 ohne Aufforderung durch die Finanzbehörde abgegeben, gilt § 170 Absatz 3 sinngemäß.
+(1) Für die gesonderte Feststellung gelten die Vorschriften über die Durchführung der Besteuerung sinngemäß. Steuererklärung im Sinne des § 170 Absatz 2 Satz 1 Nummer 1 ist die Erklärung zur gesonderten Feststellung. Wird eine Erklärung zur gesonderten Feststellung nach § 180 Absatz 2 ohne Aufforderung durch die Finanzbehörde abgegeben, gilt § 170 Absatz 3 sinngemäß. In den Fällen des § 180 Absatz 1a ist keine Erklärung zur gesonderten Feststellung abzugeben; als Steuererklärung nach § 170 Absatz 2 Satz 1 Nummer 1 gilt in diesem Fall die Steuererklärung, für deren Besteuerungszeitraum der Teilabschlussbescheid unmittelbar Bindungswirkung entfaltet.
 
 (2) Eine Erklärung zur gesonderten Feststellung hat derjenige abzugeben, dem der Gegenstand der Feststellung ganz oder teilweise zuzurechnen ist. Erklärungspflichtig sind insbesondere
 
@@ -6915,6 +6967,12 @@ Die Finanzbehörde bestimmt den Umfang der Außenprüfung in einer schriftlich o
 
 (2) Auf Antrag der Steuerpflichtigen soll der Beginn der Außenprüfung auf einen anderen Zeitpunkt verlegt werden, wenn dafür wichtige Gründe glaubhaft gemacht werden.
 
+(3) Mit der Prüfungsanordnung kann die Vorlage von aufzeichnungs- oder aufbewahrungspflichtigen Unterlagen innerhalb einer angemessenen Frist verlangt werden. Sind diese Unterlagen mit Hilfe eines Datenverarbeitungssystems erstellt worden, sind die Daten in einem maschinell auswertbaren Format an die Finanzbehörde zu übertragen. Im Übrigen bleibt § 147 Absatz 6 unberührt.
+
+(4) Sind Unterlagen nach Absatz 3 vorgelegt worden, sollen dem Steuerpflichtigen die beabsichtigten Prüfungsschwerpunkte der Außenprüfung mitgeteilt werden. Die Nennung von Prüfungsschwerpunkten stellt keine Einschränkung der Außenprüfung auf bestimmte Sachverhalte nach § 194 dar.
+
+(5) Ist Grundlage der Außenprüfung ein Steuerbescheid, der aufgrund einer in § 149 Absatz 3 genannten Steuererklärung erlassen wurde, soll die Prüfungsanordnung bis zum Ablauf des Kalenderjahres erlassen werden, das auf das Kalenderjahr folgt, in dem der Steuerbescheid wirksam geworden ist. Wird die Prüfungsanordnung aus Gründen, die die Finanzbehörde zu vertreten hat, zu einem späteren Zeitpunkt bekanntgegeben, beginnt die Frist nach § 171 Absatz 4 Satz 3 erster Halbsatz mit Ablauf des Kalenderjahres, das auf das Kalenderjahr folgt, in dem der in Satz 1 bezeichnete Steuerbescheid wirksam geworden ist. Erstreckt sich die Außenprüfung zugleich auf mehrere Steuerbescheide, sind die Sätze 1 und 2 mit der Maßgabe anzuwenden, dass der Zeitpunkt des Wirksamwerdens des zuletzt ergangenen Steuerbescheids einheitlich maßgeblich ist.
+
 (+++ § 197: Zur Geltung vgl. § 203a +++)  
 (+++ § 197: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -6929,7 +6987,7 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (1) Der Außenprüfer hat die tatsächlichen und rechtlichen Verhältnisse, die für die Steuerpflicht und für die Bemessung der Steuer maßgebend sind (Besteuerungsgrundlagen), zugunsten wie zuungunsten des Steuerpflichtigen zu prüfen.
 
-(2) Der Steuerpflichtige ist während der Außenprüfung über die festgestellten Sachverhalte und die möglichen steuerlichen Auswirkungen zu unterrichten, wenn dadurch Zweck und Ablauf der Prüfung nicht beeinträchtigt werden.
+(2) Der Steuerpflichtige ist während der Außenprüfung über die festgestellten Sachverhalte und die möglichen steuerlichen Auswirkungen zu unterrichten, wenn dadurch Zweck und Ablauf der Prüfung nicht beeinträchtigt werden. Die Finanzbehörde kann mit dem Steuerpflichtigen vereinbaren, in regelmäßigen Abständen Gespräche über die festgestellten Sachverhalte und die möglichen steuerlichen Auswirkungen zu führen. Sie kann im Einvernehmen mit dem Steuerpflichtigen Rahmenbedingungen für die Mitwirkung nach § 200 festlegen; werden die Rahmenbedingungen vom Steuerpflichtigen erfüllt, unterbleibt ein qualifiziertes Mitwirkungsverlangen nach § 200a.
 
 (+++ § 199: Zur Geltung vgl. § 203a +++)  
 (+++ § 199: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
@@ -6938,16 +6996,38 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (1) Der Steuerpflichtige hat bei der Feststellung der Sachverhalte, die für die Besteuerung erheblich sein können, mitzuwirken. Er hat insbesondere Auskünfte zu erteilen, Aufzeichnungen, Bücher, Geschäftspapiere und andere Urkunden zur Einsicht und Prüfung vorzulegen, die zum Verständnis der Aufzeichnungen erforderlichen Erläuterungen zu geben und die Finanzbehörde bei Ausübung ihrer Befugnisse nach § 147 Abs. 6 zu unterstützen. Sind der Steuerpflichtige oder die von ihm benannten Personen nicht in der Lage, Auskünfte zu erteilen, oder sind die Auskünfte zur Klärung des Sachverhalts unzureichend oder versprechen Auskünfte des Steuerpflichtigen keinen Erfolg, so kann der Außenprüfer auch andere Betriebsangehörige um Auskunft ersuchen. § 93 Absatz 2 Satz 2 gilt nicht.
 
-(2) Die in Absatz 1 genannten Unterlagen hat der Steuerpflichtige in seinen Geschäftsräumen oder, soweit ein zur Durchführung der Außenprüfung geeigneter Geschäftsraum nicht vorhanden ist, in seinen Wohnräumen oder an Amtsstelle vorzulegen. Ein zur Durchführung der Außenprüfung geeigneter Raum oder Arbeitsplatz sowie die erforderlichen Hilfsmittel sind unentgeltlich zur Verfügung zu stellen.
+(2) Die in Absatz 1 genannten Unterlagen hat der Steuerpflichtige in seinen Geschäftsräumen oder, soweit ein zur Durchführung der Außenprüfung geeigneter Geschäftsraum nicht vorhanden ist, in seinen Wohnräumen oder an Amtsstelle vorzulegen. Sind mobile Endgeräte der Außenprüfer unter Berücksichtigung des Stands der Technik gegen unbefugten Zugriff gesichert, gilt die ortsunabhängige Tätigkeit als an Amtsstelle ausgeübt. Ein zur Durchführung der Außenprüfung geeigneter Raum oder Arbeitsplatz sowie die erforderlichen Hilfsmittel sind unentgeltlich zur Verfügung zu stellen. § 147 Absatz 6 und 7 bleibt unberührt.
 
 (3) Die Außenprüfung findet während der üblichen Geschäfts- oder Arbeitszeit statt. Die Prüfer sind berechtigt, Grundstücke und Betriebsräume zu betreten und zu besichtigen. Bei der Betriebsbesichtigung soll der Betriebsinhaber oder sein Beauftragter hinzugezogen werden.
 
 (+++ § 200: Zur Anwendung vgl. Art. 97 § 19b AOEG 1977 u. § 5 Abs. 2 InvStG u. § 74 Abs. 2 AlkStV +++)  
 (+++ § 200: Zur Geltung vgl. § 203a +++)
 
+# § 200a – Qualifiziertes Mitwirkungsverlangen
+
+(1) Nach Ablauf von sechs Monaten seit Bekanntgabe der Prüfungsanordnung kann der Steuerpflichtige zur Mitwirkung nach § 200 Absatz 1 in einem schriftlich oder elektronisch zu erteilenden Mitwirkungsverlangen mit Rechtsbehelfsbelehrung nach § 356 aufgefordert werden (qualifiziertes Mitwirkungsverlangen). Hat die Finanzbehörde den Steuerpflichtigen auf die Möglichkeit eines qualifizierten Mitwirkungsverlangens hingewiesen und ist der Steuerpflichtige seinen Mitwirkungspflichten dennoch nicht oder nicht hinreichend nachgekommen, ist eine weitergehende Begründung nicht erforderlich. § 200 Absatz 2 gilt entsprechend. Das qualifizierte Mitwirkungsverlangen ist innerhalb einer Frist von einem Monat nach Bekanntgabe zu erfüllen; in begründeten Einzelfällen kann die Frist verlängert werden.
+
+(2) Kommt der Steuerpflichtige dem qualifizierten Mitwirkungsverlangen innerhalb der Frist nach Absatz 1 Satz 4 nicht oder nicht hinreichend nach (Mitwirkungsverzögerung), ist ein Mitwirkungsverzögerungsgeld festzusetzen. Das Mitwirkungsverzögerungsgeld beträgt 75 Euro für jeden vollen Kalendertag der Mitwirkungsverzögerung. Es ist höchstens für 150 Kalendertage festzusetzen. Die Festsetzung des Mitwirkungsverzögerungsgeldes kann für volle Wochen und Monate der Mitwirkungsverzögerung in Teilbeträgen erfolgen. Die Mitwirkungsverzögerung endet mit Ablauf des Tages, an dem das qualifizierte Mitwirkungsverlangen vollständig erfüllt wurde, spätestens mit Ablauf des Tages der Schlussbesprechung. Von der Festsetzung eines Mitwirkungsverzögerungsgeldes ist abzusehen, wenn der Steuerpflichtige glaubhaft macht, dass die Mitwirkungsverzögerung entschuldbar ist; das Verschulden eines Vertreters oder eines Erfüllungsgehilfen ist dem Steuerpflichtigen zuzurechnen.
+
+(3) Liegt eine Mitwirkungsverzögerung vor, kann ein Zuschlag zum Mitwirkungsverzögerungsgeld festgesetzt werden, wenn
+
+1. in den letzten fünf Jahren vor dem ersten Tag der Mitwirkungsverzögerung ein Mitwirkungsverzögerungsgeld festgesetzt wurde und zu befürchten ist, dass der Steuerpflichtige ohne einen Zuschlag zum Mitwirkungsverzögerungsgeld seiner aktuellen Verpflichtung nach Absatz 1 nicht nachkommt, oder
+
+2. zu befürchten ist, dass der Steuerpflichtige aufgrund seiner wirtschaftlichen Leistungsfähigkeit ohne einen Zuschlag zum Mitwirkungsverzögerungsgeld seiner aktuellen Verpflichtung nach Absatz 1 nicht nachkommt. Dies ist insbesondere anzunehmen, wenn die Umsatzerlöse des Steuerpflichtigen in einem der von der Außenprüfung umfassten Kalenderjahre mindestens 12 Millionen Euro betragen haben oder der Steuerpflichtige einem Konzern angehört, dessen im Konzernabschluss ausgewiesene konsolidierte Umsatzerlöse in einem der von der Außenprüfung umfassten Kalenderjahre mindestens 120 Millionen Euro betragen haben.
+
+Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro für jeden vollen Kalendertag der Mitwirkungsverzögerung und ist höchstens für 150 Kalendertage festzusetzen; er kann für volle Wochen und Monate der Mitwirkungsverzögerung in Teilbeträgen festgesetzt werden. Absatz 2 Satz 5 und 6 gilt entsprechend.
+
+(4) Wurde wegen einer Mitwirkungsverzögerung ein Mitwirkungsverzögerungsgeld nach Absatz 2 festgesetzt, verlängert sich die Frist nach § 171 Absatz 4 Satz 3 erster Halbsatz für die Steuern, auf die sich die Außenprüfung erstreckt, um die Dauer der Mitwirkungsverzögerung, mindestens aber um ein Jahr. Abweichend von Satz 1 gilt § 171 Absatz 4 Satz 3 erster Halbsatz für die Steuern, auf die sich die Außenprüfung erstreckt, nicht, wenn außerdem in den letzten fünf Jahren vor dem ersten Tag der Mitwirkungsverzögerung ein Mitwirkungsverzögerungsgeld nach Absatz 2 festgesetzt wurde. Ist die Erfüllung der geforderten Mitwirkung unmöglich, gelten die Sätze 1 und 2 entsprechend, wenn der Steuerpflichtige auf die Unmöglichkeit nicht unverzüglich hingewiesen hat.
+
+(5) Wird ein qualifiziertes Mitwirkungsverlangen nach Absatz 1, die Festsetzung eines Mitwirkungsverzögerungsgeldes nach Absatz 2 oder die Festsetzung eines Zuschlags zum Mitwirkungsverzögerungsgeld nach Absatz 3 mit einem Einspruch oder einer Klage angefochten, so läuft die Festsetzungsfrist für die Steuern, auf die sich die Außenprüfung erstreckt, nicht vor Ablauf eines Jahres nach der Unanfechtbarkeit der Entscheidung über den Rechtsbehelf ab.
+
+(6) Im qualifizierten Mitwirkungsverlangen ist auf die Möglichkeit der Festsetzung eines Mitwirkungsverzögerungsgeldes nach Absatz 2 und eines Zuschlags zum Mitwirkungsverzögerungsgeld nach Absatz 3 sowie auf die voraussichtliche Höhe des Zuschlags und auf die Rechtsfolgen nach den Absätzen 4 und 5 hinzuweisen.
+
+(7) Die Betragsgrenzen nach Absatz 3 Satz 1 Nummer 2 sind mindestens alle drei Jahre und spätestens erstmals zum 1. Januar 2026 zu evaluieren.
+
 # § 201 – Schlussbesprechung
 
-(1) Über das Ergebnis der Außenprüfung ist eine Besprechung abzuhalten (Schlussbesprechung), es sei denn, dass sich nach dem Ergebnis der Außenprüfung keine Änderung der Besteuerungsgrundlagen ergibt oder dass der Steuerpflichtige auf die Besprechung verzichtet. Bei der Schlussbesprechung sind insbesondere strittige Sachverhalte sowie die rechtliche Beurteilung der Prüfungsfeststellungen und ihre steuerlichen Auswirkungen zu erörtern.
+(1) Über das Ergebnis der Außenprüfung ist eine Besprechung abzuhalten (Schlussbesprechung), es sei denn, dass sich nach dem Ergebnis der Außenprüfung keine Änderung der Besteuerungsgrundlagen ergibt oder dass der Steuerpflichtige auf die Besprechung verzichtet. Bei der Schlussbesprechung sind insbesondere strittige Sachverhalte sowie die rechtliche Beurteilung der Prüfungsfeststellungen und ihre steuerlichen Auswirkungen zu erörtern. Eine Schlussbesprechung kann mit Zustimmung des Steuerpflichtigen auch fernmündlich oder nach § 87a Absatz 1a elektronisch durchgeführt werden.
 
 (2) Besteht die Möglichkeit, dass auf Grund der Prüfungsfeststellungen ein Straf- oder Bußgeldverfahren durchgeführt werden muss, soll der Steuerpflichtige darauf hingewiesen werden, dass die straf- oder bußgeldrechtliche Würdigung einem besonderen Verfahren vorbehalten bleibt.
 
@@ -6956,9 +7036,11 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 # § 202 – Inhalt und Bekanntgabe des Prüfungsberichts
 
-(1) Über das Ergebnis der Außenprüfung ergeht ein schriftlicher Bericht (Prüfungsbericht). Im Prüfungsbericht sind die für die Besteuerung erheblichen Prüfungsfeststellungen in tatsächlicher und rechtlicher Hinsicht sowie die Änderungen der Besteuerungsgrundlagen darzustellen. Führt die Außenprüfung zu keiner Änderung der Besteuerungsgrundlagen, so genügt es, wenn dies dem Steuerpflichtigen schriftlich mitgeteilt wird.
+(1) Über das Ergebnis der Außenprüfung ergeht ein schriftlicher oder elektronischer Bericht (Prüfungsbericht). Im Prüfungsbericht sind die für die Besteuerung erheblichen Prüfungsfeststellungen in tatsächlicher und rechtlicher Hinsicht sowie die Änderungen der Besteuerungsgrundlagen darzustellen. Führt die Außenprüfung zu keiner Änderung der Besteuerungsgrundlagen, so genügt es, wenn dies dem Steuerpflichtigen schriftlich oder elektronisch mitgeteilt wird. Wurden Besteuerungsgrundlagen in einem Teilabschlussbescheid nach § 180 Absatz 1a gesondert festgestellt, ist im Prüfungsbericht darauf hinzuweisen.
 
 (2) Die Finanzbehörde hat dem Steuerpflichtigen auf Antrag den Prüfungsbericht vor seiner Auswertung zu übersenden und ihm Gelegenheit zu geben, in angemessener Zeit dazu Stellung zu nehmen.
+
+(3) Sollen Besteuerungsgrundlagen in einem Teilabschlussbescheid nach § 180 Absatz 1a gesondert festgestellt werden, ergeht vor Erlass des Teilabschlussbescheids ein schriftlicher oder elektronischer Teilprüfungsbericht; Absatz 1 Satz 2 bis 4 und Absatz 2 gelten entsprechend.
 
 (+++ § 202: Zur Geltung vgl. § 203a +++)  
 (+++ § 202: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
@@ -6967,7 +7049,7 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (1) Bei Steuerpflichtigen, bei denen die Finanzbehörde eine Außenprüfung in regelmäßigen Zeitabständen nach den Umständen des Falles nicht für erforderlich hält, kann sie eine abgekürzte Außenprüfung durchführen. Die Prüfung hat sich auf die wesentlichen Besteuerungsgrundlagen zu beschränken.
 
-(2) Der Steuerpflichtige ist vor Abschluss der Prüfung darauf hinzuweisen, inwieweit von den Steuererklärungen oder den Steuerfestsetzungen abgewichen werden soll. Die steuerlich erheblichen Prüfungsfeststellungen sind dem Steuerpflichtigen spätestens mit den Steuerbescheiden schriftlich mitzuteilen. § 201 Abs. 1 und § 202 Abs. 2 gelten nicht.
+(2) Der Steuerpflichtige ist vor Abschluss der Prüfung darauf hinzuweisen, inwieweit von den Steuererklärungen oder den Steuerfestsetzungen abgewichen werden soll. Die steuerlich erheblichen Prüfungsfeststellungen sind dem Steuerpflichtigen spätestens mit den Steuerbescheiden schriftlich oder elektronisch mitzuteilen. § 201 Abs. 1 und § 202 Abs. 2 gelten nicht.
 
 (+++ § 203: Zur Geltung vgl. § 203a +++)  
 (+++ § 203: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
@@ -6988,7 +7070,13 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 # § 204 – Voraussetzung der verbindlichen Zusage
 
-Im Anschluss an eine Außenprüfung soll die Finanzbehörde dem Steuerpflichtigen auf Antrag verbindlich zusagen, wie ein für die Vergangenheit geprüfter und im Prüfungsbericht dargestellter Sachverhalt in Zukunft steuerrechtlich behandelt wird, wenn die Kenntnis der künftigen steuerrechtlichen Behandlung für die geschäftlichen Maßnahmen des Steuerpflichtigen von Bedeutung ist.
+(1) Im Anschluss an eine Außenprüfung soll die Finanzbehörde dem Steuerpflichtigen auf Antrag verbindlich zusagen, wie ein für die Vergangenheit geprüfter und im Prüfungsbericht dargestellter Sachverhalt in Zukunft steuerrechtlich behandelt wird, wenn die Kenntnis der künftigen steuerrechtlichen Behandlung für die geschäftlichen Maßnahmen des Steuerpflichtigen von Bedeutung ist.
+
+(2) Abweichend von Absatz 1 kann die Finanzverwaltung dem Steuerpflichtigen bereits nach Erlass eines Teilabschlussbescheids nach § 180 Absatz 1a auf Antrag verbindlich zusagen, wie ein für die Vergangenheit geprüfter und im Teilabschlussbericht dargestellter Sachverhalt in Zukunft steuerlich behandelt wird, wenn
+
+1. die Kenntnis der künftigen steuerrechtlichen Behandlung für die geschäftlichen Maßnahmen des Steuerpflichtigen von Bedeutung ist und
+
+2. ein besonderes Interesse des Steuerpflichtigen an einer Erteilung vor dem Abschluss der Außenprüfung besteht und dies glaubhaft gemacht wird.
 
 (+++ § 204: Zur Anwendung vgl. Art. 97 § 12 AOEG 1977 +++)
 
@@ -7080,7 +7168,7 @@ Die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden und
 
 # § 211 – Pflichten der betroffenen Person
 
-(1) Wer von einer Maßnahme der Steueraufsicht betroffen wird, hat den Amtsträgern auf Verlangen Aufzeichnungen, Bücher, Geschäftspapiere und andere Urkunden über die der Steueraufsicht unterliegenden Sachverhalte und über den Bezug und den Absatz verbrauchsteuerpflichtiger Waren vorzulegen, Auskünfte zu erteilen und die zur Durchführung der Steueraufsicht sonst erforderlichen Hilfsdienste zu leisten. § 200 Abs. 2 Satz 2 gilt sinngemäß.
+(1) Wer von einer Maßnahme der Steueraufsicht betroffen wird, hat den Amtsträgern auf Verlangen Aufzeichnungen, Bücher, Geschäftspapiere und andere Urkunden über die der Steueraufsicht unterliegenden Sachverhalte und über den Bezug und den Absatz verbrauchsteuerpflichtiger Waren vorzulegen, Auskünfte zu erteilen und die zur Durchführung der Steueraufsicht sonst erforderlichen Hilfsdienste zu leisten. § 200 Absatz 2 Satz 3 gilt sinngemäß.
 
 (2) Die Pflichten nach Absatz 1 gelten auch dann, wenn bei einer gesetzlich vorgeschriebenen Nachversteuerung verbrauchsteuerpflichtiger Waren in einem der Steueraufsicht unterliegenden Betrieb oder Unternehmen festgestellt werden soll, an welche Empfänger und in welcher Menge nachsteuerpflichtige Waren geliefert worden sind.
 
@@ -8738,9 +8826,13 @@ eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 
 4. entgegen § 146a Absatz 1 Satz 1 ein dort genanntes System nicht oder nicht richtig verwendet,
 
-5. entgegen § 146a Absatz 1 Satz 2 ein dort genanntes System nicht oder nicht richtig schützt oder
+5. entgegen § 146a Absatz 1 Satz 2 ein dort genanntes System nicht oder nicht richtig schützt,
 
-6. entgegen § 146a Absatz 1 Satz 5 gewerbsmäßig ein dort genanntes System oder eine dort genannte Software bewirbt oder in den Verkehr bringt
+6. entgegen § 146a Absatz 1 Satz 5 gewerbsmäßig ein dort genanntes System oder eine dort genannte Software bewirbt oder in den Verkehr bringt,
+
+7. entgegen § 147 Absatz 1 Nummer 1 bis 3 oder 4 eine Unterlage nicht oder nicht für die vorgeschriebene Dauer aufbewahrt oder
+
+8. entgegen § 147a Absatz 1 Satz 1 oder Absatz 2 Satz 1 eine Aufzeichnung oder eine Unterlage nicht oder nicht mindestens sechs Jahre aufbewahrt
 
 und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuervorteile zu erlangen. Satz 1 Nr. 1 gilt auch dann, wenn Einfuhr- und Ausfuhrabgaben verkürzt werden können, die von einem anderen Mitgliedstaat der Europäischen Union verwaltet werden oder die einem Staat zustehen, der für Waren aus der Europäischen Union auf Grund eines Assoziations- oder Präferenzabkommens eine Vorzugsbehandlung gewährt; § 370 Abs. 7 gilt entsprechend. Das Gleiche gilt, wenn sich die Tat auf Umsatzsteuern bezieht, die von einem anderen Mitgliedstaat der Europäischen Union verwaltet werden.
 
@@ -8762,15 +8854,19 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 1g. entgegen § 138k Satz 1 in der Steuererklärung die Angabe der von ihm verwirklichten grenzüberschreitenden Steuergestaltung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
+1h. einer vollziehbaren Anordnung nach § 147 Absatz 6 Satz 1 zuwiderhandelt,
+
+1i. entgegen § 147 Absatz 6 Satz 2 Nummer 1 Einsicht nicht, nicht richtig oder nicht vollständig gewährt oder
+
 2. die Pflichten nach § 154 Absatz 1 bis 2c verletzt.
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Auflage nach § 120 Abs. 2 Nr. 4 zuwiderhandelt, die einem Verwaltungsakt für Zwecke der besonderen Steueraufsicht (§§ 209 bis 217) beigefügt worden ist.
 
-(4) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 1 und 2, Absatz 2 Nummer 1a, 1b und 2 sowie Absatz 3 kann mit einer Geldbuße bis zu 5 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+(4) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 1, 2 und 8, Absatz 2 Nummer 1a, 1b und 2 sowie Absatz 3 kann mit einer Geldbuße bis zu 5 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (5) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1c kann mit einer Geldbuße bis zu 10 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
-(6) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 3 bis 6 kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+(6) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 3 bis 7 und Absatz 2 Nummer 1h und 1i kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1 und 1d bis 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 

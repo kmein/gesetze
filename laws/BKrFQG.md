@@ -563,9 +563,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (4) Soweit eine Ordnungswidrigkeit nach Absatz 1 oder nach Absatz 2 Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Güterverkehr festgestellt wird oder in einem Unternehmen begangen wird, das seinen Sitz im Ausland hat, ist das Bundesamt für Güterverkehr Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
-# § 29 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 29 – (weggefallen)
 
 # § 30 – Übergangsvorschriften
 

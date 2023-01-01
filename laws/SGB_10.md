@@ -1049,7 +1049,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 4. Behörden durch ihre Leiter, deren Vertreter oder Beauftragte.
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuches den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuches den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
 
@@ -1105,7 +1105,7 @@ Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäft
 
 (3) Der Vertreter hat gegen den Rechtsträger der Behörde, die um seine Bestellung ersucht hat, Anspruch auf eine angemessene Vergütung und auf die Erstattung seiner baren Auslagen. Die Behörde kann von dem Vertretenen Ersatz ihrer Aufwendungen verlangen. Sie bestimmt die Vergütung und stellt die Auslagen und Aufwendungen fest.
 
-(4) Im Übrigen gelten für die Bestellung und für das Amt des Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über die Betreuung, in den übrigen Fällen die Vorschriften über die Pflegschaft entsprechend.
+(4) Im Übrigen gelten für die Bestellung und für das Amt des Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über die Betreuung, in den übrigen Fällen die Vorschriften über die sonstige Pflegschaft entsprechend.
 
 # § 16 – Ausgeschlossene Personen
 
@@ -1920,7 +1920,7 @@ Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur Erfüllung der 
 
 12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes sowie nach § 7 des Registerzensuserprobungsgesetzes zum Zwecke der Entwicklung von Verfahren für die zuverlässige Zuordnung von Personendatensätzen aus ihren Datenbeständen und von Verfahren der Qualitätssicherung eines Registerzensus,
 
-13. nach § 69a des Erneuerbare-Energien-Gesetzes zur Berechnung der Bruttowertschöpfung im Verfahren zur Begrenzung der EEG-Umlage,
+13. nach § 58 des Energiefinanzierungsgesetzes zur Berechnung der Bruttowertschöpfung im Verfahren der Besonderen Ausgleichsregelung,
 
 14. nach § 6 Absatz 3 des Wohnungslosenberichterstattungsgesetzes für die Erhebung über wohnungslose Personen,
 
@@ -1960,7 +1960,7 @@ Daten über die Gesundheit eines Ausländers dürfen nur übermittelt werden,
 
 (2a) Eine Übermittlung personenbezogener Daten eines Leistungsberechtigten nach § 1 des Asylbewerberleistungsgesetzes ist zulässig, soweit sie für die Durchführung des Asylbewerberleistungsgesetzes erforderlich ist.
 
-(3) Eine Übermittlung von Sozialdaten ist auch zulässig, soweit es nach pflichtgemäßem Ermessen eines Leistungsträgers erforderlich ist, dem Betreuungsgericht die Bestellung eines Betreuers oder eine andere Maßnahme in Betreuungssachen zu ermöglichen. § 7 des Betreuungsbehördengesetzes gilt entsprechend.
+(3) Eine Übermittlung von Sozialdaten ist zulässig, soweit es nach pflichtgemäßem Ermessen eines Leistungsträgers erforderlich ist, dem Betreuungsgericht die Bestellung eines Betreuers oder eine andere Maßnahme in Betreuungssachen zu ermöglichen. § 9 des Betreuungsorganisationsgesetzes gilt entsprechend. Eine Übermittlung von Sozialdaten ist auch zulässig, soweit sie im Einzelfall für die Erfüllung der Aufgaben der Betreuungsbehörden nach § 8 des Betreuungsorganisationsgesetzes erforderlich ist.
 
 (4) Eine Übermittlung von Sozialdaten ist außerdem zulässig, soweit sie im Einzelfall für die rechtmäßige Erfüllung der in der Zuständigkeit der Zentralstelle für Finanztransaktionsuntersuchungen liegenden Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes erforderlich ist. Die Übermittlung ist auf Angaben über Name, Vorname sowie früher geführte Namen, Geburtsdatum, Geburtsort, derzeitige und frühere Anschriften der betroffenen Person sowie Namen und Anschriften seiner derzeitigen und früheren Arbeitgeber beschränkt.
 

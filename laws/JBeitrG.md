@@ -19,7 +19,7 @@
 
 4a. Ansprüche auf Zahlung der vom Gericht im Verfahren der Prozesskostenhilfe oder nach § 4b der Insolvenzordnung bestimmten Beträge;
 
-4b. nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Ansprüche;
+4b. nach den §§ 168d, 292 und 292a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Ansprüche;
 
 5. Zulassungs- und Prüfungsgebühren;
 

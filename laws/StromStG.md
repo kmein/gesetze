@@ -55,7 +55,7 @@ Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
 # § 4 – Erlaubnis
 
-(1) Wer als Versorger mit Sitz im Steuergebiet Strom leisten oder als Eigenerzeuger Strom zum Selbstverbrauch entnehmen oder als Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets beziehen will, bedarf der Erlaubnis. Einer Erlaubnis als Eigenerzeuger bedarf es nicht, wenn der Eigenerzeuger Inhaber einer Erlaubnis als Versorger ist oder soweit der Eigenerzeuger Strom zum Selbstverbrauch entnimmt, der nach § 9 Abs. 1 Nr. 3 Buchstabe a, Nr. 4 oder Nr. 5 von der Steuer befreit ist.
+(1) Wer als Versorger mit Sitz im Steuergebiet Strom leisten oder als Eigenerzeuger Strom zum Selbstverbrauch entnehmen oder als Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets beziehen will, bedarf der Erlaubnis. Einer Erlaubnis als Eigenerzeuger bedarf es nicht, wenn der Eigenerzeuger Inhaber einer Erlaubnis als Versorger ist oder soweit der Eigenerzeuger Strom zum Selbstverbrauch entnimmt, der nach § 9 Absatz 1 Nummer 3 Buchstabe a, Nummer 4, 5 oder Nummer 6 von der Steuer befreit ist.
 
 (2) Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die, soweit nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet, ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen.
 
@@ -245,7 +245,7 @@ wenn diese Streitkräfte im Steuergebiet an einer Verteidigungsanstrengung teiln
 
 # § 10 – Erlass, Erstattung oder Vergütung in Sonderfällen
 
-(1) Die Steuer für nachweislich versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke, ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat, wird auf Antrag nach Maßgabe der Absätze 2 bis 8 erlassen, erstattet oder vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000 Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
+(1) Die Steuer für nachweislich versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke, ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat, wird auf Antrag nach Maßgabe der nachfolgenden Absätze erlassen, erstattet oder vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000 Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
 
 (1a) (weggefallen)
 
@@ -281,7 +281,9 @@ Kleine und mittlere Unternehmen können anstelle der in Satz 1 Nummer 1 genannte
 
 a) das Unternehmen nachweist, dass es im Antragsjahr oder früher die Einführung eines Energiemanagementsystems nach Absatz 3 Satz 1 Nummer 1 Buchstabe a abgeschlossen hat, oder wenn das Unternehmen nachweist, dass es im Jahr 2015 oder früher als Organisation nach Artikel 13 der Verordnung (EG) Nr. 1221/2009 registriert worden ist, und
 
-b) die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind.
+b) die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind,
+
+3. für das Antragsjahr 2023, wenn das Unternehmen nachweist, dass es im Antragsjahr die Voraussetzungen nach Absatz 3 Satz 1 Nummer 1 erfüllt und mit dem Antrag die Bereitschaft erklärt, alle in dem jeweiligen System des Absatzes 3 Satz 1 Nummer 1 als wirtschaftlich vorteilhaft identifizierten Endenergieeinsparmaßnahmen umzusetzen.
 
 Für kleine und mittlere Unternehmen gilt Absatz 3 Satz 2 entsprechend.
 
@@ -291,7 +293,7 @@ Für kleine und mittlere Unternehmen gilt Absatz 3 Satz 2 entsprechend.
 
 2. ab dem Antragsjahr 2015 die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind; Absatz 6 gilt entsprechend.
 
-Als Zeitpunkt der Neugründung gilt der Zeitpunkt der erstmaligen Betriebsaufnahme. Neu gegründete Unternehmen sind nur solche, die nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung entstanden sind.
+Als Zeitpunkt der Neugründung gilt der Zeitpunkt der erstmaligen Betriebsaufnahme. Neu gegründete Unternehmen sind nur solche, die nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung entstanden sind. Satz 1 Nummer 2 gilt nicht für das Antragsjahr 2023.
 
 (6) Stellt die Bundesregierung fest, dass der nach der Anlage zu § 10 für das Antragsjahr vorgesehene Zielwert für eine Reduzierung der Energieintensität nicht erreicht wurde, erhalten die Unternehmen die Steuerentlastung abweichend von Absatz 3 Satz 1 Nummer 2 Buchstabe a
 
@@ -348,7 +350,7 @@ c) das Erteilen und das Erlöschen einer Erlaubnis sowie das zugehörige Erlaubn
 
 d) für die Speicherung von Strom in den Batterien oder sonstigen Speichern der elektrisch betriebenen Fahrzeuge das Erteilen und das Erlöschen einer Erlaubnis sowie das zugehörige Erlaubnisverfahren im Übrigen zu regeln, die Verfahren für die Steuerentstehung oder die Steuerentlastung zu regeln und Vorschriften über Angaben und Nachweise zu erlassen, die für die Steuerentlastungen erforderlich sind; dabei kann es anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
 
-4. die Zuordnung von Unternehmen zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zu regeln (§ 2 Nr. 3 und 5);
+4. die Zuordnung von Unternehmen zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige (§ 2 Nummer 3 und 5) auch abweichend von den Zuordnungsregelungen der Klassifikation der Wirtschaftszweige zu regeln;
 
 5. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung das Erteilen und das Erlöschen einer Erlaubnis nach § 4, das zugehörige Erlaubnisverfahren im Übrigen und das Verfahren der Sicherheitsleistung näher zu regeln;
 

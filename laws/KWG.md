@@ -217,6 +217,10 @@ Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrel
 
 Kombinierte Kapitalpufferanforderung
 
+§ 10j
+
+Anforderung an den Puffer der Verschuldungsquote
+
 § 11
 
 Liquidität
@@ -2165,7 +2169,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (3) Eigenmittel, die zur Einhaltung der Eigenmittelempfehlung eingesetzt werden, um das Risiko einer übermäßigen Verschuldung abzudecken, dürfen nicht zur Erfüllung der zusätzlichen Eigenmittelanforderungen nach § 6c, die angeordnet wurden, um das Risiko einer übermäßigen Verschuldung abzudecken, verwendet werden und auch nicht zur Erfüllung der in § 6c Absatz 6 Satz 1 Nummer 1 bis 4 aufgezählten Anforderungen. Eigenmittel, die zur Einhaltung der Eigenmittelempfehlungen eingesetzt werden, um sonstige Risiken abzudecken, dürfen nicht zur Erfüllung der zusätzlichen Eigenmittelanforderungen nach § 6c, die angeordnet wurden, um andere Risiken als das Risiko einer übermäßigen Verschuldung abzudecken, verwendet werden und auch nicht zur Erfüllung der in § 6c Absatz 6 Satz 2 Nummer 1 bis 4 aufgezählten Anforderungen.
 
-(4) Solange ein Institut die in den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Anforderungen, die zusätzliche Eigenmittelanforderung nach § 6c, die kombinierte Kapitalpufferanforderung nach § 10i und die Anforderung an den Puffer der Verschuldungsquote nach Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 erfüllt, löst die Abdeckung der Eigenmittelempfehlung nicht in voller Höhe keine der Beschränkungen nach § 10i Absatz 1a bis 3 aus.
+(4) Solange ein Institut die in den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Anforderungen, die zusätzliche Eigenmittelanforderung nach § 6c, die kombinierte Kapitalpufferanforderung nach § 10i und die Anforderung an den Puffer der Verschuldungsquote nach Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 erfüllt, löst die Abdeckung der Eigenmittelempfehlung nicht in voller Höhe keine der Beschränkungen nach § 10i Absatz 1a bis 3 und § 10j Absatz 2 und 3 aus.
 
 (+++ § 6d: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)
 
@@ -2641,6 +2645,8 @@ d) Anordnung und Ermittlung der Quote für den Kapitalpuffer für anderweitig sy
 
 e) Höhe und zu den näheren Einzelheiten der Berechnung des maximal ausschüttungsfähigen Betrags für die kombinierte Kapitalpufferanforderung nach § 10i,
 
+f) Höhe und zu den näheren Einzelheiten der Berechnung des maximal ausschüttungsfähigen Betrags für die Anforderung an den Puffer der Verschuldungsquote nach § 10j,
+
 6. nähere Bestimmungen zur Festsetzung der Prozentsätze und Faktoren nach Artikel 465 Absatz 2, Artikel 467 Absatz 3, Artikel 468 Absatz 3, Artikel 478 Absatz 3, Artikel 479 Absatz 4, Artikel 480 Absatz 3, Artikel 481 Absatz 5 und Artikel 486 Absatz 6 der Verordnung (EU) Nr. 575/2013,
 
 7. nähere Bestimmungen zu den in der Verordnung (EU) Nr. 575/2013 vorgesehenen Antrags- und Anzeigeverfahren und
@@ -3091,6 +3097,75 @@ Daneben kann sie von dem Institut verlangen, seine Eigenmittel innerhalb eines b
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
 (+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+
+# § 10j – Anforderung an den Puffer der Verschuldungsquote
+
+(1) Ein global systemrelevantes Institut muss zusätzlich zu dem Kernkapital, das zur Einhaltung der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 und erhöhter Eigenmittelanforderungen zur Absicherung gegen Risiken einer übermäßigen Verschuldung nach § 6c sowie nach § 10 Absatz 3 und 4 erforderlich ist, einen aus Kernkapital bestehenden Puffer der Verschuldungsquote gemäß Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 vorhalten.
+
+(2) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote erfüllt, darf keine Ausschüttung aus dem Kernkapital oder auf Kernkapitalinstrumente nach Absatz 5 vornehmen, wenn dadurch sein Kernkapital so stark abnehmen würde, dass die Anforderung an den Puffer der Verschuldungsquote nicht mehr erfüllt wäre.
+
+(3) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt, muss den maximal ausschüttungsfähigen Betrag in Bezug auf die Verschuldungsquote berechnen und der Aufsichtsbehörde anzeigen. Das global systemrelevante Institut muss Vorkehrungen treffen, um zu gewährleisten, dass die Höhe der ausschüttungsfähigen Gewinne und der maximal ausschüttungsfähige Betrag in Bezug auf die Verschuldungsquote genau berechnet werden. Es muss in der Lage sein, der Aufsichtsbehörde die Genauigkeit der Berechnung auf Anfrage nachzuweisen. Bis zur Entscheidung der Aufsichtsbehörde über die Genehmigung des Kapitalerhaltungsplans nach den Absätzen 7 bis 9 darf das global systemrelevante Institut
+
+1. keine Ausschüttung aus dem harten Kernkapital oder auf harte Kernkapitalinstrumente nach Absatz 5 vornehmen,
+
+2. keine Verpflichtung zur Zahlung einer variablen Vergütung oder von freiwilligen Altersvorsorgeleistungen übernehmen oder eine variable Vergütung zahlen, wenn die entsprechende Verpflichtung in einem Zeitraum übernommen worden ist, in dem das global systemrelevante Institut die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt hat, und
+
+3. keine Zahlungen aus zusätzlichen Kernkapitalinstrumenten vornehmen.
+
+Das Nähere regelt eine nach § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe f erlassene Rechtsverordnung.
+
+(4) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt und beabsichtigt, eine Ausschüttung ausschüttungsfähiger Gewinne oder eine Maßnahme nach Absatz 3 Satz 3 Nummer 1 bis 3 durchzuführen, teilt diese Absicht der Aufsichtsbehörde unter Angabe der folgenden Informationen mit:
+
+1. von dem global systemrelevanten Institut vorgehaltene Eigenmittel, aufgeschlüsselt nach
+
+a) hartem Kernkapital,
+
+b) zusätzlichem Kernkapital;
+
+2. Höhe der Zwischengewinne und der Gewinne zum Jahresende;
+
+3. Höhe des maximal ausschüttungsfähigen Betrags in Bezug auf die Verschuldungsquote;
+
+4. Höhe der ausschüttungsfähigen Gewinne und deren beabsichtigte Aufteilung auf:
+
+a) Dividendenzahlungen,
+
+b) Aktienrückkäufe,
+
+c) Zahlungen in Bezug auf zusätzliche Kernkapitalinstrumente,
+
+d) Zahlung einer variablen Vergütung oder freiwilliger Altersvorsorgeleistungen, entweder auf Grund der Übernahme einer neuen Zahlungsverpflichtung oder auf Grund einer Zahlungsverpflichtung, die in einem Zeitraum übernommen wurde, in dem das global systemrelevante Institut die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt hat.
+
+(5) Eine Ausschüttung aus dem Kernkapital oder auf Kernkapitalinstrumente umfasst
+
+1. eine Ausschüttung aus hartem Kernkapital oder auf harte Kernkapitalinstrumente nach § 10i Absatz 5,
+
+2. eine Rückzahlung der in Verbindung mit den Eigenmittelinstrumenten nach Artikel 51 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 575/2013 eingezahlten Beträge und
+
+3. eine Ausschüttung der in Artikel 51 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 575/2013 genannten Position.
+
+(6) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt, muss einen Kapitalerhaltungsplan erstellen. Der Kapitalerhaltungsplan ist innerhalb von fünf Arbeitstagen nachdem das global systemrelevante Institut festgestellt hat, dass es die Anforderung an den Puffer der Verschuldungsquote nicht erfüllen kann, der Aufsichtsbehörde vorzulegen. Die Aufsichtsbehörde kann die Frist zur Vorlage auf längstens zehn Arbeitstage verlängern, wenn dies im Einzelfall und unter Berücksichtigung des Umfangs und der Komplexität der Geschäftstätigkeit angemessen erscheint. Der Kapitalerhaltungsplan umfasst die Elemente nach § 10i Absatz 6 Satz 3 Nummer 1 bis 3 und weitere Informationen, die die Aufsichtsbehörde für die in Absatz 7 vorgeschriebene Bewertung als notwendig erachtet.
+
+(7) Die Aufsichtsbehörde bewertet den Kapitalerhaltungsplan und genehmigt ihn, wenn sie der Auffassung ist, dass durch seine Umsetzung sehr wahrscheinlich ausreichend Kernkapital erhalten oder aufgenommen wird, damit das global systemrelevante Institut die Anforderung an den Puffer der Verschuldungsquote innerhalb des von der Aufsichtsbehörde als angemessen erachteten Zeitraums erfüllen kann. Die Aufsichtsbehörde entscheidet über die Genehmigung innerhalb von 14 Tagen nach Eingang des Kapitalerhaltungsplans.
+
+(8) Nach Genehmigung des Kapitalerhaltungsplans ist das global systemrelevante Institut berechtigt, eine Ausschüttung ausschüttungsfähiger Gewinne sowie Maßnahmen nach Absatz 3 Satz 3 Nummer 1 bis 3 bis zur Höhe des maximal ausschüttungsfähigen Betrags in Bezug auf die Verschuldungsquote durchzuführen.
+
+(9) Genehmigt die Aufsichtsbehörde den Kapitalerhaltungsplan nicht,
+
+1. ordnet die Aufsichtsbehörde an, dass die Ausschüttungsbeschränkungen des Absatzes 2 fortgelten, oder
+
+2. erlaubt die Aufsichtsbehörde dem global systemrelevanten Institut die Durchführung von Maßnahmen im Sinne des Absatzes 3 Satz 3 Nummer 1 bis 3 bis zu einem Betrag, der den maximal ausschüttungsfähigen Betrag in Bezug auf die Verschuldungsquote nicht übersteigen darf.
+
+Daneben kann die Aufsichtsbehörde von dem global systemrelevanten Institut verlangen, seine Eigenmittel innerhalb eines bestimmten Zeitraums auf eine bestimmte Höhe aufzustocken.
+
+(10) Die Beschränkungen nach den Absätzen 2 und 3 finden ausschließlich Anwendung
+
+1. auf Zahlungen und Ausschüttungen, die zu einer Verringerung des Kernkapitals oder der Gewinne führen, und
+
+2. sofern die Aussetzung einer Zahlung oder eine versäumte Zahlung weder einen Ausfall noch eine Voraussetzung für die Einleitung eines Verfahrens nach den für das global systemrelevante Institut geltenden Insolvenzvorschriften darstellt.
+
+(+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
+(+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)
 
 # § 11 – Liquidität
 
@@ -4656,7 +4731,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 2. die Anforderungen
 
-a) nach den §§ 10a, 10c bis 10i jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
+a) nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
 
 b) nach den §§ 17, 20, 23, 25 und 27 des Finanzkonglomerate-Aufsichtsgesetzes,
 
@@ -5288,6 +5363,8 @@ Ein Mitglied eines Organs sowie ein Beschäftigter haben auf Verlangen auch nach
 3. die Anforderungen des § 6c,
 
 4. die kombinierte Kapitalpufferanforderung nach § 10i,
+
+4a. die Anforderung an den Puffer der Verschuldungsquote nach § 10j,
 
 5. die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten und die Anforderung an das Verlustabsorptionskapital nach den §§ 49 bis 51 des Sanierungs- und Abwicklungsgesetzes oder
 
@@ -6327,7 +6404,7 @@ k) § 24 Absatz 3a Satz 1 Nummer 3,
 
 l) § 24a Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 Satz 1, Absatz 3a Satz 1, Absatz 3b Satz 1, Absatz 3c Satz 1, oder § 24a Absatz 4 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24a Absatz 5,
 
-m) § 28 Absatz 1 Satz 1 oder
+m) § 45b Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2 oder Absatz 3, oder § 45b Absatz 1 Satz 1 Nummer 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder
 
 n) § 53a Satz 2 oder Satz 5,
 
@@ -6349,7 +6426,7 @@ a) § 2c Absatz 1b Satz 1 oder Satz 3 oder Absatz 2 Satz 1,
 
 b) § 6a Absatz 1,
 
-c) § 10i Absatz 8 Satz 1 Nummer 1,
+c) § 10i Absatz 8 Satz 1 Nummer 1 oder § 10j Absatz 9 Satz 1 Nummer 1,
 
 d) § 12a Absatz 2 Satz 1,
 
@@ -6369,7 +6446,7 @@ k) § 45 Absatz 1 oder Absatz 5 Satz 5 bis 9,
 
 l) § 45a Absatz 1 Satz 1,
 
-m) § 45b Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2 oder Absatz 3, oder § 45b Absatz 1 Satz 1 Nummer 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder
+m) § 45b Absatz 1 oder
 
 n) § 46 Absatz 1 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 8,
 
@@ -6381,7 +6458,7 @@ a) § 2f Absatz 1 Satz 1 einen Antrag nicht oder nicht rechtzeitig stellt oder b
 
 b) § 2f Absatz 4 Satz 2 die erforderlichen Informationen nicht, nicht richtig oder nicht vollständig der Aufsichtsbehörde anzeigt,
 
-4. entgegen § 10i Absatz 2 oder Absatz 3 Satz 3 Nummer 1 eine Ausschüttung vornimmt,
+4. entgegen § 10i Absatz 2 oder Absatz 3 Satz 3 Nummer 1 oder § 10j Absatz 3 oder Absatz 4 Satz 3 Nummer 1 eine Ausschüttung vornimmt,
 
 5. entgegen § 18 Absatz 1 Satz 1 einen Kredit gewährt,
 

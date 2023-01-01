@@ -111,7 +111,7 @@ auf Dauer oder vorübergehend zu verbieten oder zu beschränken sowie die hierf�
 
 (2) Rechtsverordnungen nach Absatz 1 können bei Gefahr im Verzuge oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden. Rechtsverordnungen nach Satz 1 bedürfen nicht des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Die Rechtsverordnungen treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-(3) § 73 des Lebensmittel- und Futtermittelgesetzbuches gilt entsprechend.
+(3) (weggefallen)
 
 # § 6 – Strafvorschriften
 

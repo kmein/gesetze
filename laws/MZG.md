@@ -401,7 +401,7 @@ Beteiligung der öffentlichen Arbeitsvermittlung an der Suche nach der derzeitig
 
 2. für Arbeitslose und Arbeitsuchende:
 
-a) Bezug von Arbeitslosengeld und Arbeitslosengeld II,
+a) Bezug von Arbeitslosengeld und Bürgergeld,
 
 b) Anlass der Arbeitssuche,
 
@@ -849,3 +849,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 1. die Erhebung einzelner Erhebungsmerkmale auszusetzen, die Periodizität zu verlängern, Erhebungszeitpunkte zu verschieben sowie den Kreis der zu Befragenden einzuschränken, wenn die Ergebnisse nicht mehr oder nicht mehr in der ursprünglich vorgesehenen Ausführlichkeit oder Häufigkeit oder zu anderen Zeitpunkten benötigt werden,
 
 2. den Beginn der unterjährigen Folgebefragung nach § 5 Absatz 3 Nummer 2 gemeinsam mit der Verringerung des Auswahlsatzes nach § 7 Absatz 6 auf einen späteren Zeitpunkt zu verschieben.
+
+# § 20 – Übergangsregelung
+
+Die Erhebungen für die im Jahr 2022 liegenden Berichtswochen werden nach dem Mikrozensusgesetz vom 7. Dezember 2016 (BGBl. I S. 2826), das durch Artikel 178 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, durchgeführt.

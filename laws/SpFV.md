@@ -31,7 +31,7 @@ nicht gewerbsmäßig, für Sport- oder Erholungszwecke verwendete Fahrzeuge, ein
 
 (1) Wer auf den Binnenschifffahrtsstraßen ein Sportboot führen will, bedarf einer Fahrerlaubnis für die jeweilige Antriebsart. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen nachgewiesen (Anlage 1).
 
-(2) Als Fahrerlaubnis im Sinne des Absatzes 1 werden für die jeweilige Antriebsart anerkannt:
+(2) Als Fahrerlaubnis und als Nachweis im Sinne des Absatzes 1 werden für die jeweilige Antriebsart anerkannt:
 
 1. das Schifferpatent für den Bodensee der Kategorien B oder C oder den Hochrhein nach der Bodensee-Schifffahrts-Ordnung,
 
@@ -73,13 +73,15 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 
 (6) Gegen Vorlage eines der in Absatz 3 genannten Befähigungsnachweise bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag eine Fahrerlaubnis erteilt und ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt, sofern die Voraussetzungen des § 6 Absatz 1 Nummer 1 bis 3 vorliegen. Das Ablegen einer Prüfung ist in diesem Fall nicht erforderlich.
 
-(7) Gegen Vorlage eines der in Absatz 4 genannten Sportbootführerscheine bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt. Das Ablegen einer Prüfung ist in diesem Fall nicht erforderlich.
+(7) Gegen Vorlage eines der in Absatz 4 genannten Sportbootführerscheine bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt. Das Ablegen einer Prüfung ist in diesem Fall nicht erforderlich. Fahrzeugbezogene Berechtigungen eines in Absatz 4 bezeichneten Befähigungsnachweises, die zu Gunsten des Inhabers von § 1 abweichen, sind in den nach Satz 1 auszustellenden Sportbootführerschein einzutragen.
+
+(8) Die Anträge nach den Absätzen 5 bis 7 und nach § 5 Absatz 4 können auch elektronisch über das Verwaltungsportal des Bundes gestellt werden.
 
 # § 4 – Fahrerlaubnis für die Seeschifffahrtsstraßen
 
 (1) Wer auf den Seeschifffahrtsstraßen ein Sportboot mit Antriebsmaschine führen will, bedarf einer Fahrerlaubnis. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen nachgewiesen (Anlage 1).
 
-(2) Als Fahrerlaubnis im Sinne des Absatzes 1 werden anerkannt:
+(2) Als Fahrerlaubnis und als Nachweis im Sinne des Absatzes 1 werden anerkannt:
 
 1. ein Befähigungszeugnis zum Kapitän, ein Befähigungszeugnis zum nautischen Schiffsoffizier oder ein Befähigungsnachweis zum Schiffsmechaniker oder
 
@@ -103,13 +105,19 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 
 (8) Eine Übersicht über die nach Absatz 2 Nummer 2 und Absatz 3 anerkannten Befähigungsnachweise wird im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
 
+(9) Die Anträge nach den Absätzen 5 bis 7 können auch elektronisch über das Verwaltungsportal des Bundes gestellt werden.
+
 # § 5 – Besondere Regelungen
 
 (1) Keiner Fahrerlaubnis nach dieser Verordnung bedürfen
 
 1. Personen beim Führen eines Sportbootes auf dem Rhein, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung höchstens 3,68 Kilowatt beträgt,
 
-2. auf allen übrigen Binnenschifffahrtsstraßen und auf den Seeschifffahrtsstraßen Personen beim Führen eines Sportbootes, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung höchstens 11,03 Kilowatt beträgt,
+2. auf allen übrigen Binnenschifffahrtsstraßen und auf den Seeschifffahrtsstraßen Personen beim Führen eines Sportbootes, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung bei Verwendung eines
+
+a) Verbrennungsmotors höchstens 11,03 Kilowatt,
+
+b) Elektromotors höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 beträgt,
 
 3. Personen beim Führen eines Segelsurfbretts,
 
@@ -145,19 +153,25 @@ a) eines Sportbootes mit Antriebsmaschine mindestens 16 Jahre alt sein,
 
 b) eines Sportbootes unter Segel mindestens 14 Jahre alt sein,
 
-2. körperlich und geistig zum Führen eines Sportbootes tauglich sein,
+2. zum Führen eines Sportbootes körperlich und psychisch (medizinisch) tauglich sein,
 
 3. zuverlässig sein,
 
 4. die erforderliche Befähigung in einer Prüfung nach § 8 nachgewiesen haben.
 
-Ein Bewerber, der noch nicht 18 Jahre alt ist, bedarf der schriftlichen Zustimmung des gesetzlichen Vertreters.
+Ein Bewerber, der noch nicht 18 Jahre alt oder sonst in seiner Geschäftsfähigkeit beschränkt ist, bedarf der schriftlichen oder elektronischen Zustimmung des gesetzlichen Vertreters.
 
-(2) Körperlich untauglich zum Führen eines Sportbootes ist insbesondere, wer nicht über ein ausreichendes Seh-, Hör- oder Farbunterscheidungsvermögen verfügt.
+(2) Die medizinische Tauglichkeit des Bewerbers ist durch einen Tauglichkeitsnachweis eines niedergelassenen Arztes nach Anhang 1 der Anlage 2 zu bestätigen. Zur Beurteilung der medizinischen Tauglichkeit kann dem Arzt
 
-(3) Zur Feststellung oder Überprüfung der körperlichen oder geistigen Tauglichkeit des Bewerbers kann der Prüfungsausschuss die Vorlage eines amts- oder fachärztlichen Zeugnisses oder Gutachtens verlangen.
+1. eine Bescheinigung über das ausreichende Sehvermögen einer nach § 67 der Fahrerlaubnis-Verordnung anerkannten Sehteststelle unter Einhaltung der DIN 58220 Ausgabe September 2013 und
 
-(4) Einem Bewerber, der körperlich oder geistig bedingt tauglich ist, kann die Fahrerlaubnis unter Auflagen erteilt werden, soweit dadurch die mit dem Mangel der Tauglichkeit verbundenen Gefahren ausgeglichen werden können. Ein nicht ausreichendes Farbunterscheidungsvermögen kann nicht durch Auflagen ausgeglichen werden. Tritt eine bedingte Tauglichkeit nach der Erteilung der Fahrerlaubnis ein, können nachträglich Auflagen erteilt werden. Die Auflagen sind im Sportbootführerschein zu vermerken. Fällt ein Mangel der körperlichen oder geistigen Tauglichkeit nachträglich weg, können die zum Ausgleich erteilten Auflagen auf Antrag gestrichen werden. Für die Erteilung und Streichung der Auflagen sind die beliehenen Verbände zuständig.
+2. eine Bescheinigung über das Hörvermögen eines in der Handwerksrolle eingetragenen Hörakustikerbetriebs
+
+vorgelegt werden. Die medizinische Tauglichkeit kann auch durch Tauglichkeitsnachweis nach Anlage 5 der Binnenschiffspersonalverordnung oder durch ein Seediensttauglichkeitszeugnis für den Decksdienst nach § 5 der Maritimen-Medizin-Verordnung nachgewiesen werden.
+
+(3) Bestehen Zweifel an der medizinischen Tauglichkeit, kann zu ihrer Feststellung oder Überprüfung der Prüfungsausschuss die Vorlage eines amtsärztlichen oder fachärztlichen Zeugnisses oder Gutachtens verlangen.
+
+(4) Wird einem Bewerber durch den Tauglichkeitsnachweis eine vorübergehende oder dauerhaft bedingte medizinische Tauglichkeit bescheinigt oder tritt eine bedingte medizinische Tauglichkeit später ein, sind Maßnahmen und Beschränkungen (Auflagen) in die Fahrerlaubnis aufzunehmen, die geeignet sind, die mit der bedingten medizinischen Tauglichkeit verbundenen Gefahren auszugleichen. Ein nicht ausreichendes Farbunterscheidungsvermögen kann nicht durch Auflagen ausgeglichen werden. Fällt ein Mangel der medizinischen Tauglichkeit nachträglich weg, können die zum Ausgleich erteilten Auflagen auf Antrag aufgehoben werden. Für die Erteilung und Aufhebung der Auflagen sind die beliehenen Verbände zuständig.
 
 (5) Unzuverlässig ist insbesondere, wer gegen verkehrsstrafrechtliche Vorschriften erheblich verstoßen hat und deswegen rechtskräftig verurteilt worden ist. Tatsachen, die Zweifel an der Zuverlässigkeit begründen können, sind insbesondere:
 
@@ -173,7 +187,7 @@ Ein Bewerber, der noch nicht 18 Jahre alt ist, bedarf der schriftlichen Zustimmu
 
 # § 7 – Antrag auf Zulassung zur Prüfung
 
-(1) Der Antrag auf Zulassung zur Prüfung und Erteilung der Fahrerlaubnis ist spätestens eine Woche vor dem Prüfungstermin vollständig an den Prüfungsausschuss zu richten, bei dem der Bewerber die Prüfung ablegen möchte.
+(1) Der Antrag auf Zulassung zur Prüfung und Erteilung der Fahrerlaubnis ist schriftlich oder elektronisch über das Verwaltungsportal des Bundes spätestens eine Woche vor dem Prüfungstermin vollständig an den Prüfungsausschuss zu richten, bei dem der Bewerber die Prüfung ablegen möchte.
 
 (2) Der Antrag muss folgende Angaben, Erklärungen und Unterlagen enthalten:
 
@@ -183,9 +197,9 @@ Ein Bewerber, der noch nicht 18 Jahre alt ist, bedarf der schriftlichen Zustimmu
 
 3. ein aktuelles Passbild in der Größe 35 x 45 Millimeter, das den Bewerber ohne Kopfbedeckung zeigt,
 
-4. ein ärztliches Zeugnis nach dem Muster der Anlage 2, das vom untersuchenden Arzt unmittelbar dem Vorsitzenden des zuständigen Prüfungsausschusses in einem verschlossenen Umschlag und in Abschrift dem Antragsteller zuzuleiten ist, oder eine Kopie des amtlichen Sportbootführerscheins für den jeweils anderen Geltungsbereich oder die andere Antriebsart, wenn dieser durch Prüfung erworben worden und zum Zeitpunkt der Antragstellung nicht älter als ein Jahr ist,
+4. einen medizinischen Tauglichkeitsnachweis nach dem Muster nach Anhang 1 der Anlage 2, der vom untersuchenden Arzt unmittelbar dem Vorsitzenden des zuständigen Prüfungsausschusses in einem verschlossenen Umschlag und in Abschrift dem Antragsteller zuzuleiten ist, oder eine Kopie des amtlichen Sportbootführerscheins für den jeweils anderen Geltungsbereich oder die andere Antriebsart, wenn dieser durch Prüfung erworben worden und zum Zeitpunkt der Antragstellung nicht älter als ein Jahr ist,
 
-5. die Kopie eines gültigen amtlichen Kraftfahrzeugführerscheins oder auf Verlangen des Prüfungsausschusses ein Führungszeugnis nach den Vorschriften des Bundeszentralregistergesetzes (Belegart O), wenn ein gültiger amtlicher Kraftfahrzeugführerschein nicht vorgelegt wird,
+5. die Kopie eines gültigen amtlichen Kraftfahrzeugführerscheins oder auf Verlangen des Prüfungsausschusses ein Führungszeugnis nach den Vorschriften des Bundeszentralregistergesetzes, wenn ein gültiger amtlicher Kraftfahrzeugführerschein nicht vorgelegt wird,
 
 6. eine Erklärung, ob dem Bewerber die Fahrerlaubnis für Sportboote bereits ein- oder mehrmals entzogen worden ist,
 
@@ -197,23 +211,21 @@ Ein Bewerber, der noch nicht 18 Jahre alt ist, bedarf der schriftlichen Zustimmu
 
 10. Ort und Datum der gewünschten Prüfung,
 
-11. freiwillig eine E-Mail-Adresse und eine Telefonnummer.
+11. im Fall eines elektronischen Verfahrens eine E-Mail-Adresse,
 
-Der Bewerber muss den Antrag unterschreiben.
+12. freiwillig eine Telefonnummer.
 
-(3) Im Falle des Satzes 1 Nummer 4 kann in den Richtlinien nach § 16 Absatz 2 Satz 3 bestimmt werden,
+Der Bewerber muss den Antrag unterschreiben, sofern dieser nicht elektronisch über das Verwaltungsportal des Bundes gestellt wird.
 
-1. in welchen Fällen der Nachweis über ein ausreichendes Sehvermögen auch mit einer Sehtestbescheinigung einer amtlich anerkannten Sehteststelle geführt werden kann und
-
-2. in welchen Fällen der Nachweis über ein ausreichendes Hörvermögen auch mit einer Hörtestbescheinigung eines Hörgeräteakustikbetriebes geführt werden kann.
-
-(4) Der Bewerber wird zur Prüfung zugelassen,
+(3) Der Bewerber wird zur Prüfung zugelassen,
 
 1. wenn die Voraussetzungen nach den Absätzen 1 und 2 erfüllt sind und
 
-2. die Gebühren nach einer Besonderen Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 22 Absatz 4 des Bundesgebührengesetzes bezahlt worden sind.
+2. der angeforderte Vorschuss für die voraussichtlich entstehenden Gebühren bezahlt worden ist.
 
-(5) Eine förmliche Zulassung ist nicht erforderlich. Sie kann durch die Einladung zur Prüfung erfolgen.
+(4) Eine förmliche Zulassung ist nicht erforderlich. Sie kann durch die Einladung zur Prüfung erfolgen.
+
+(5) Wollen Bewerber die Prüfung für einen in § 8 Absatz 1 bezeichneten Teil (Teilprüfung) bei einem anderen Prüfungsausschuss ablegen, hat der bisher zuständige Prüfungsausschuss die in Absatz 2 genannten Unterlagen, eine Ergebnisniederschrift über die bereits abgelegte Teilprüfung sowie sonstige Aktenbestandteile nach Zahlung der hierfür erforderlichen Zustellungskosten durch den Bewerber an den anderen Prüfungsausschuss zu übersenden. Die Gebühr zur Zulassung zur Prüfung wird von dem anderen Prüfungsausschuss erneut erhoben. Die Absätze 3 und 4 gelten entsprechend.
 
 (6) Ist die Zulassung zur Prüfung zu versagen, hat der Leiter des Prüfungsausschusses dem Bewerber einen schriftlichen Bescheid mit Gründen, Kostenentscheidung und Rechtsbehelfsbelehrung zuzustellen.
 
@@ -221,9 +233,9 @@ Der Bewerber muss den Antrag unterschreiben.
 
 # § 8 – Prüfung
 
-(1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung nachzuweisen, deren Inhalt sich nach Antriebsart und Geltungsbereich des zu erwerbenden Sportbootführerscheins bestimmt. Die Prüfung besteht in der Regel aus einem theoretischen Teil und einem praktischen Teil. Die Teilprüfungen können zu verschiedenen Zeitpunkten absolviert werden. Die Einzelheiten der theoretischen Prüfung ergeben sich aus der Anlage 3, die Einzelheiten der praktischen Prüfung ergeben sich aus der Anlage 4.
+(1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung nachzuweisen, deren Inhalt sich nach Antriebsart und Geltungsbereich des zu erwerbenden Sportbootführerscheins bestimmt. Die Prüfung besteht in der Regel aus einem theoretischen Teil und einem praktischen Teil. Die Teilprüfungen können zu verschiedenen Zeitpunkten und bei unterschiedlichen Prüfungsausschüssen, auch des jeweils anderen Verbands, absolviert werden. Die Einzelheiten der theoretischen Prüfung ergeben sich aus der Anlage 3, die Einzelheiten der praktischen Prüfung ergeben sich aus der Anlage 4.
 
-(2) Der Leiter des Prüfungsausschusses bestimmt den Prüfungstermin und beruft die Prüfungskommission ein. Die Prüfungskommission besteht aus einem Vorsitzenden und mindestens einem weiteren Prüfer. Alle Mitglieder der Prüfungskommission müssen Inhaber des mit der Prüfung zu erwerbenden Sportbootführerscheins für den entsprechenden Geltungsbereich und die entsprechende Antriebsart sein. Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theoretischen Teils mindestens zwei, für die Abnahme des praktischen Teils mindestens ein Prüfer erforderlich.
+(2) Der Leiter des Prüfungsausschusses bestimmt den Prüfungstermin und beruft die Prüfungskommission ein, die die jeweiligen Prüfungen oder Teilprüfungen abnimmt. Die Prüfungskommission besteht aus einem Vorsitzenden und mindestens einem weiteren Prüfer. Alle Mitglieder der Prüfungskommission müssen Inhaber des mit der Prüfung zu erwerbenden Sportbootführerscheins für den entsprechenden Geltungsbereich und die entsprechende Antriebsart sein. Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theoretischen Teils mindestens zwei, für die Abnahme des praktischen Teils mindestens ein Prüfer erforderlich.
 
 (3) Eine Prüfungstätigkeit ist immer dann ausgeschlossen,
 
@@ -235,13 +247,13 @@ Der Bewerber muss den Antrag unterschreiben.
 
 (5) Für die Abnahme der praktischen Prüfung hat der Bewerber regelmäßig ein geeignetes Sportboot mit Bootsführer zu stellen, das den Anforderungen der Anlage 5 zu dieser Verordnung entspricht.
 
-(6) Zum Bestehen der Prüfung müssen alle Prüfungsteile innerhalb eines Jahres bestanden werden. Ein bestandener Prüfungsteil ist ein Jahr gültig. Ein nicht bestandener Prüfungsteil kann nicht an demselben Tag wiederholt werden.
+(6) Zum Bestehen der Prüfung müssen alle Prüfungsteile innerhalb eines Jahres bestanden werden. Die Jahresfrist beginnt mit Antritt der ersten Teilprüfung. Ein nicht bestandener Prüfungsteil kann nicht an demselben Tag wiederholt werden.
 
 (7) Inhaber eines internationalen Zertifikats, das nach der Resolution Nr. 40 ECE von einem anderen Staat als der Bundesrepublik Deutschland ordnungsgemäß ausgestellt wurde, sind beim Erwerb einer Fahrerlaubnis für die jeweilige Antriebsart und den jeweiligen Geltungsbereich von der praktischen Prüfung befreit.
 
 (8) Hat der Bewerber in der Prüfung die Befähigung zum Führen eines Sportbootes nachgewiesen, wird ihm die entsprechende Fahrerlaubnis erteilt und ein entsprechender Sportbootführerschein unter Verwendung des Musters der Anlage 1 ausgestellt. Sofern erforderlich, wird auf Antrag des Bewerbers ein vorläufiger Sportbootführerschein nach dem Muster der Anlage 9 ausgestellt.
 
-(9) Besteht ein Bewerber die Prüfung nicht, hat ihm der Vorsitzende oder ein von ihm beauftragtes Mitglied der Prüfungskommission das Ergebnis mündlich mitzuteilen. Die Mitteilung erfolgt mit dem Hinweis, dass der Bewerber einen schriftlichen Bescheid mit Gründen und Rechtsbehelfsbelehrung erhält.
+(9) Besteht ein Bewerber die Prüfung nicht, hat ihm der Vorsitzende, ein von ihm beauftragtes Mitglied der Prüfungskommission oder der Prüfungsausschussleiter das Ergebnis fernmündlich, mündlich, per E-Mail oder schriftlich innerhalb von 72 Stunden mitzuteilen. Die Mitteilung erfolgt mit dem Hinweis, dass der Bewerber einen schriftlichen Bescheid mit Gründen und Rechtsbehelfsbelehrung erhält.
 
 (10) Die Prüfungen sind nicht öffentlich. Vertreter der nach § 16 zuständigen Stellen können die Prüfungen beaufsichtigen. Sie gehören nicht der Prüfungskommission an.
 
@@ -265,13 +277,13 @@ Der Bewerber muss den Antrag unterschreiben.
 
 1. für die Prüfertätigkeit geeignet und zuverlässig sein,
 
-2. körperlich und geistig zum Führen eines Sportbootes tauglich sein,
+2. zum Führen eines Sportbootes medizinisch tauglich sein,
 
 3. ausreichende Kenntnisse und Fähigkeiten zu den in den Prüfungsteilen abgefragten Themen besitzen und
 
 4. die Gewähr bieten, dass die Hoheitsaufgaben nach Maßgabe dieser Verordnung und nach Maßgabe der zu ihrer Durchführung erlassenen Richtlinien ordnungsgemäß ausgeführt werden.
 
-Zum Nachweis der körperlichen und geistigen Tauglichkeit ist vor der ersten Bestellung den beliehenen Verbänden ein ärztliches Zeugnis nach dem Muster der Anlage 2 vorzulegen, das vom untersuchenden Arzt unmittelbar dem beliehenen Verband in einem verschlossenen Umschlag und in Abschrift dem Prüfer zuzuleiten ist. § 7 Absatz 3 gilt entsprechend. Zur Feststellung oder Überprüfung der körperlichen oder geistigen Tauglichkeit des Prüfers kann der beliehene Verband zusätzlich die Vorlage eines amts- oder fachärztlichen Zeugnisses oder Gutachtens verlangen. Zum Nachweis der Zuverlässigkeit ist den beliehenen Verbänden vor der ersten Bestellung ein behördliches Führungszeugnis (Belegart O) nach den Vorschriften des Bundeszentralregistergesetzes vorzulegen.
+Zum Nachweis der medizinischen Tauglichkeit ist dem jeweiligen beliehenen Verband ein Tauglichkeitsnachweis nach dem Muster in Anhang 2 der Anlage 2 vorzulegen, der vom untersuchenden Arzt unmittelbar dem beliehenen Verband in einem verschlossenen Umschlag und in Abschrift dem Prüfer zuzuleiten ist. Zur Feststellung oder Überprüfung der medizinischen Tauglichkeit des Prüfers kann der beliehene Verband zusätzlich die Vorlage eines amts- oder fachärztlichen Zeugnisses oder Gutachtens verlangen. Zum Nachweis der Zuverlässigkeit ist den beliehenen Verbänden vor der ersten Bestellung ein Führungszeugnis zur Vorlage bei einer Behörde nach den Vorschriften des Bundeszentralregistergesetzes vorzulegen.
 
 (2) Die Leiter der Prüfungsausschüsse und die anderen Prüfer müssen
 
@@ -279,19 +291,19 @@ Zum Nachweis der körperlichen und geistigen Tauglichkeit ist vor der ersten Bes
 
 2. die für eine Bestellung als Prüfer erforderlichen Voraussetzungen nach der Anlage 6 erfüllen.
 
-(3) Die regelmäßige Bestellung der Leiter der Prüfungsausschüsse und der Prüfer erfolgt für die Dauer von fünf Jahren. Bei einer regelmäßigen Bestellung dürfen die Leiter der Prüfungsausschüsse und die Prüfer noch nicht 67Jahre alt sein; die Bestellung endet automatisch mit Ablauf des 31. Dezember des Jahres, in dem der Leiter des Prüfungsausschusses oder der Prüfer 72 Jahre alt wird. Die beliehenen Verbände haben die Leiter der Prüfungsausschüsse und die Prüfer über ihre Stellung nach Maßgabe der Anlage 7 zu belehren und die Gewähr zu bieten, dass diese die vorstehenden Voraussetzungen jederzeit erfüllen.
+(3) Die regelmäßige Bestellung der Leiter der Prüfungsausschüsse und der Prüfer erfolgt für die Dauer von fünf Jahren und kann nach Nachweis des Vorliegens der Voraussetzung nach Absatz 1 Satz 2 erneuert werden. Die beliehenen Verbände haben die Leiter der Prüfungsausschüsse und die Prüfer über ihre Stellung nach Maßgabe der Anlage 7 zu belehren und die Gewähr zu bieten, dass diese die vorstehenden Voraussetzungen jederzeit erfüllen.
 
 (4) Wenn Umstände eintreten, die den Leiter des Prüfungsausschusses oder einen anderen Prüfer für die Prüfertätigkeit ungeeignet oder unzuverlässig erscheinen lassen, so haben die beliehenen Verbände dies zu prüfen. Ergibt die Prüfung, dass der betreffende Leiter oder Prüfer nicht mehr geeignet oder zuverlässig ist, ist er von dem beliehenen Verband aus seinem Amt zu entlassen.
 
 # § 11 – Ersatzausfertigung
 
-Ist ein Sportbootführerschein, der in dem Verzeichnis gemäß § 17 registriert ist, unbrauchbar geworden oder wird glaubhaft gemacht, dass er verloren gegangen ist, wird auf Antrag des Inhabers von dem beliehenen Verband eine Ersatzausfertigung ausgestellt, die als solche zu kennzeichnen ist. Sofern erforderlich, wird auf Antrag des Inhabers ein vorläufiger Sportbootführerschein nach dem Muster der Anlage 9 ausgestellt. Der Inhaber hat einen unbrauchbar gewordenen oder von ihm wieder aufgefundenen Sportbootführerschein unverzüglich bei den beliehenen Verbänden abzugeben.
+Ist ein Sportbootführerschein, der in einem amtlichen Register verzeichnet ist, unbrauchbar geworden oder wird glaubhaft gemacht, dass er verloren gegangen ist, wird auf Antrag des Inhabers von dem beliehenen Verband eine Ersatzausfertigung ausgestellt, die als solche zu kennzeichnen ist. Der Antrag auf Ausstellung einer Ersatzausfertigung kann auch elektronisch über das Verwaltungsportal des Bundes gestellt werden. Sofern erforderlich, wird auf Antrag des Inhabers ein vorläufiger Sportbootführerschein nach dem Muster der Anlage 9 ausgestellt. Der Inhaber hat einen unbrauchbar gewordenen oder von ihm wieder aufgefundenen Sportbootführerschein unverzüglich bei den beliehenen Verbänden abzugeben.
 
 # § 12 – Pflichten des Schiffseigentümers und des Schiffsführers
 
 (1) Der jeweils erforderliche Befähigungsnachweis ist beim Führen von Sportbooten vom Schiffsführer mitzuführen. Der Befähigungsnachweis ist den zur Kontrolle befugten Personen auf Verlangen zur Prüfung auszuhändigen. Anstelle des Sportbootführerscheins für den Geltungsbereich Seeschifffahrtsstraßen kann auch der Sportküstenschifferschein, der Sportseeschifferschein und der Sporthochseeschifferschein nach der Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom 3. März 1998 (BGBl. I S. 394), die zuletzt durch Artikel 4 Absatz 125 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist, mitgeführt und zur Kontrolle ausgehändigt werden. Der Schiffseigentümer darf nicht anordnen oder zulassen, dass entgegen § 3 Absatz 1 oder § 4 Absatz 1 ein Fahrzeug ohne die hierfür vorgeschriebene Fahrerlaubnis geführt wird.
 
-(2) Ein Sportboot führt nicht, wer es unter Aufsicht des Schiffsführers steuert. Die schifffahrtsrechtlichen Vorschriften über die Anforderungen an den Rudergänger bleiben unberührt.
+(2) Ein Sportboot führt nicht, wer es unter ständiger Aufsicht des Schiffsführers steuert. Die schifffahrtsrechtlichen Vorschriften über die Anforderungen an den Rudergänger bleiben unberührt.
 
 # § 13 – Entziehung der Fahrerlaubnis oder des Befähigungsnachweises
 
@@ -415,167 +427,236 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 # Anlage 1 – (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein
 
-(Fundstelle: BGBl. I 2017, 1026)
+(Fundstelle: BGBl. I 2022, 2213)
+
+Vorderseite
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2211-1_0010.jpg)
+
+Rückseite
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2211-1_0020.jpg)
+
+Das Zertifikat ist unter Berücksichtigung der internationalen ISO/IEC-Norm 7810 auszustellen.
+
+Ländercode gemäß ISO ALPHA-2.
+
+# Anlage 2 – (zu § 7 Absatz 2 Nummer 4 und § 10 Absatz 1 Satz 2)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)
+
+(Fundstelle: BGBl. I 2022, 2214 - 2219)
+
+Der untersuchende Arzt soll bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeiten in Bezug auf Auftreten und Prognose abdeckt.
+
+Die Grundsätze, die bei dem hier angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von der untenstehenden Auflistung abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen, klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsentscheidung die folgenden Punkte zu berücksichtigen sind:
+
+1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund derer sie nicht in der Lage ist, die für den Betrieb des Sportboots notwendigen Aufgaben jederzeit ausführen zu können und die Umgebung korrekt wahrzunehmen.
+
+2. Die in der Tabelle in Teil 1 aufgeführten Gesundheitsstörungen sind übliche Beispiele für Gesundheitsstörungen, die zu einer Untauglichkeit führen können. Sie sind als Anhaltspunkte für Mediziner gedacht und ersetzen nicht eine fundierte ärztliche Beurteilung des Einzelfalls. Tauglichkeitsentscheidungen beruhen auf der Feststellung der Gesundheitsstörung und der Beurteilung sonstiger pathologischer Merkmale, die sich der untersuchenden Person zeigen.
+
+In den Teilen 2 und 3 finden sich jeweils die relevanten Tauglichkeitsanforderungen für das erforderliche Hör- und Sehvermögen (ICD-10-Codes H 00-59 und H 68-95); diese können auch von einer Stelle nach § 6 Absatz 2 Satz 2 dem Arzt bestätigt werden.
+
+3. In der Tabelle in Teil 1 sind zu üblichen Gesundheitsstörungen Kriterien zur Orientierung angegeben, die zu einer Untauglichkeit führen können. Auch führt die Tabelle Kriterien an, die trotz der Gesundheitsstörung einer Tauglichkeit nicht entgegenstehen. Kann die medizinische Tauglichkeit nicht in vollem Umfang nachgewiesen werden, können Risikominderungsmaßnahmen und Beschränkungen zur Gewährleistung einer gleichwertigen Sicherheit der Schifffahrt auferlegt werden. Einige Risikominderungsmaßnahmen und Beschränkungen sind ebenfalls in der Tabelle genannt.
+
+In den Teilen 2 und 3 sind neben den Anforderungen an das Seh- und Hörvermögen potentielle Risikominderungsmaßnahmen und Beschränkungen vorgegeben.
+
+4. Das Ergebnis der Tauglichkeitsuntersuchung ist unter Verwendung der Muster in Anhang 1 oder 2 dieser Anlage festzuhalten; weitere Angaben sind zu unterlassen.
+
+Die Tabelle ist wie folgt aufgebaut:
+
+Spalte 1:  
+Internationale Klassifikation der Krankheiten der WHO – 10. Revision (ICD-10); die Codes werden als Hilfe für die Analyse und insbesondere für die internationale Sammlung und Aufbereitung der Daten angeführt;
+
+Spalte 2:  
+der allgemeine Name der Krankheit oder einer Gruppe von Krankheiten;
+
+Spalte 3:  
+die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: untauglich;
+
+Spalte 4:  
+die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: tauglich.
+
+Anzeichen für Krankheiten oder körperliche Mängel, die die Untersuchte oder den Untersuchten zum Führen eines Sportbootes als ungeeignet oder trotzdem geeignet oder beschränkt geeignet erscheinen lassen, können sein:  
+  
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 11%" /><col style="width: 30%" /><col style="width: 28%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Code</th><th style="text-align: center;">Gesundheitsstörung<br />
+Begründung<br />
+der eventuellen Unvereinbarkeit</th><th style="text-align: center;">Unvereinbarkeit</th><th style="text-align: center;">Vereinbarkeit</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">A 00-B99<br />
+(allgemein)</td><td style="text-align: center;">Infektionen<br />
+Persönliche Einschränkungen</td><td style="text-align: center;">Bei fortbestehendem Risiko für rezidivierende Beeinträchtigungen oder wiederholte Infektionen</td><td style="text-align: center;">Keine Symptome, die das sichere Handeln beeinträchtigen<br />
+Beschränkung 04<span id="FnR.FnA1-F824315_01"></span><a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="even"><td style="text-align: center;">D 50-89<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Bluterkrankungen<br />
+Unterschiedliche Blutungsneigung, mögliche Einschränkung der Belastbarkeit</td><td style="text-align: center;">Chronische Gerinnungsstörung</td><td style="text-align: center;">Beurteilung des Einzelfalls<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;">E 00-90</td><td style="text-align: center;">Endokrine und Stoffwechselerkrankungen</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">E 10</td><td style="text-align: center;">Diabetes mellitus mit Insulin behandelt</td><td style="text-align: center;">Bei unzureichend kontrollierter Stoffwechselsituation oder fehlender Therapieadhärenz<br />
+Hypoglykämie in der Vorgeschichte oder fehlende Hypoglykämiewahrnehmung<br />
+Beeinträchtigung durch Komplikationen des Diabetes</td><td style="text-align: center;">Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen:<br />
+ggf. tauglich<br />
+mit einer zeitlichen Befristung<br />
+von maximal 5 Jahren<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;">E 11-14</td><td style="text-align: center;">Diabetes mellitus – nicht mit Insulin behandelt<br />
+andere Medikation Progression hin zur Insulinbedürftigkeit/<br />
+-therapie, erhöhte Wahrscheinlichkeit für Komplikationen, die das Sehvermögen,<br />
+das Nervensystem und das Herz-Kreislauf-System betreffen</td><td style="text-align: center;"> </td><td style="text-align: center;">Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen:<br />
+ggf. tauglich<br />
+mit einer zeitlichen Befristung<br />
+von maximal 5 Jahren<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann<br />
+angezeigt sein</td></tr><tr class="even"><td style="text-align: center;">E 65-68</td><td style="text-align: center;">Übergewicht/abnormales Körpergewicht – Über- oder Unterschreitung<br />
+Risiko zu verunfallen sowie eingeschränkte Beweglichkeit und Belastbarkeit für die Ausführung von Routine- und Notfallaufgaben</td><td style="text-align: center;">Sicherheitsrelevante Aufgaben können nicht wahrgenommen werden</td><td style="text-align: center;">Anforderungen der sicherheitsrelevanten Pflichten können erfüllt werden<br />
+Beschränkung 07<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;">E 00-90<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Sonstige Endokrine und Stoffwechselerkrankungen<br />
+erhebliche Störung der Drüsen mit innerer Sekretion, insbesondere der Schilddrüse, der Epithelkörperchen oder der Nebennieren</td><td style="text-align: center;">Bei fortbestehender Einschränkung, Notwendigkeit häufiger Anpassungen der Medikation oder erhöhter Wahrscheinlichkeit schwerer Komplikationen</td><td style="text-align: center;">Anforderungen der sicherheitsrelevanten Pflichten können erfüllt werden<br />
+Beschränkung 07<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="even"><td style="text-align: center;">F 00-99</td><td style="text-align: center;">Psychische, kognitive und Verhaltensstörungen</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">F 10</td><td style="text-align: center;">Alkoholmissbrauch<br />
+(Abhängigkeit)<br />
+Verhaltensauffälligkeiten, Rezidive, Unfälle</td><td style="text-align: center;">Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach auftreten werden</td><td style="text-align: center;">Bei Abstinenz: drei aufeinanderfolgende Jahre lang: tauglich<br />
+mit einer zeitlichen Befristung<br />
+von einem Jahr mit den<br />
+Beschränkungen 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Danach tauglich für einen<br />
+Zeitraum von drei Jahren<br />
+mit den Beschränkungen 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> und 05<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Danach tauglich ohne Beschränkungen für aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine mit dem Missbrauch zusammenhängenden Auffälligkeiten festgestellt werden</td></tr><tr class="even"><td style="text-align: center;">F 11-19</td><td style="text-align: center;">Drogenabhängigkeit/anhaltender Substanzmissbrauch<br />
+Rezidive, Unfälle, Verhaltensauffälligkeiten; schließt sowohl illegalen Drogenkonsum als auch Abhängigkeit von verschriebenen Medikamenten ein</td><td style="text-align: center;">Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach verschlechtern oder auftreten werden</td><td style="text-align: center;">Bei Abstinenz: drei aufeinanderfolgende Jahre lang: tauglich mit einer zeitlichen Befristung von einem Jahr mit der Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Danach tauglich für einen Zeitraum von drei Jahren mit der Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Danach tauglich ohne Beschränkungen für<br />
+aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine mit dem Missbrauch zusammenhängende Auffälligkeiten festgestellt werden</td></tr><tr class="odd"><td style="text-align: center;">F 20-31</td><td style="text-align: center;">Psychosen (akute) -organisch, schizophren oder andere Kategorien der ICD-Liste zugehörig. Bipolare Störungen (manisch-depressiv)<br />
+Rezidive, die zu Veränderung der Wahrnehmung und des Denkens, zu Unfällen sowie auffälligem und riskantem Verhalten führen können</td><td style="text-align: center;">Nach einer einzigen Episode mit auslösenden Faktoren: bis drei Monate nach der Erstdiagnose<br />
+Nach einer einzigen Episode ohne auslösende Faktoren oder mehr als einer Episode mit oder ohne auslösende Faktoren: bis zwei Jahre nach der letzten Episode<br />
+Fortbestehende Wahrscheinlichkeit eines Rezidivs: Tauglichkeit nicht erfüllt</td><td style="text-align: center;">Wenn die Behandlung eingehalten wird und keine Nebenwirkungen der Medikation bestehen: tauglich, ggf.<br />
+mit Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Beschränkung nach 05<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein<br />
+Wenn während eines Zeitraums von zwei Jahren kein Rückfall aufgetreten ist und keine Medikation erforderlich war: tauglich, wenn ein Facharzt feststellt, dass die Ursache eindeutig als vorübergehend identifizierbar und ein Rückfall sehr unwahrscheinlich ist</td></tr><tr class="even"><td style="text-align: center;">F 32-38</td><td style="text-align: center;">Affektive Störungen<br />
+Schwere Angstzustände, Depressionen oder jede andere psychische Störung, die die Leistung beeinträchtigen kann, Rezidiv, eingeschränkte Leistungsfähigkeit, insbesondere in Notfällen; Gefährdung des Fahrzeugs oder Dritter oder Selbstgefährdung kann nicht ausgeschlossen werden</td><td style="text-align: center;">Persistierende oder rezidivierende Symptome, die zu Beeinträchtigungen führen</td><td style="text-align: center;">Nach vollständiger Genesung und nach umfassender Beurteilung des Einzelfalls<br />
+Wenn während eines Zeitraums von zwei Jahren kein Rückfall aufgetreten ist und keine Medikation erforderlich war: tauglich, wenn der Facharzt festgestellt hat, dass die Ursache eindeutig als vorübergehend identifizierbar und ein Rückfall sehr unwahrscheinlich ist<br />
+Ggf. zeitliche Befristung: fünf Jahre<br />
+Beschränkungen 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+und/oder 07<a href="#FnA1-F824315_01" class="FnR">***</a></sup> können angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;">F 00-99<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Andere Störungen<br />
+z. B. Persönlichkeitsstörungen, Aufmerksamkeitsstörungen (ADHS), Entwicklungsstörungen (z. B. Autismus)</td><td style="text-align: center;">Sofern die Einschätzung besteht, dass sicherheitsrelevante Konsequenzen auftreten können</td><td style="text-align: center;">Sofern keine negativen Auswirkungen zu erwarten sind und eine Gefährdung ausgeschlossen werden kann</td></tr><tr class="even"><td style="text-align: center;">G 00-99</td><td style="text-align: center;">Krankheiten des Nervensystems</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">G 40-41</td><td style="text-align: center;">Epilepsie, Erkrankungen oder Schäden des zentralen Nervensystems mit wesentlichen Funktionsstörungen, insbesondere organische Krankheiten des Gehirns oder des Rückenmarks und deren Folgezustände, funktionelle Störungen nach Schädel- oder Hirnverletzungen, Hirndurchblutungsstörungen</td><td style="text-align: center;">Für die Dauer der Abklärung und ein Jahr nach dem<br />
+letzten Anfall<br />
+Wiederholte Anfälle, keine Kontrolle durch Medikation</td><td style="text-align: center;">Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und<br />
+Notfallaufgaben, unter Berücksichtigung neurologisch-<br />
+psychiatrischer fachärztlicher Empfehlung<br />
+Ein Jahr nach dem Anfall, bei stabiler Medikation:<br />
+tauglich, ggf. mit<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup><br />
+Tauglich ohne Beschränkungen, sofern anfallsfrei und keine Einnahme von Medikamenten in den letzten zehn Jahren</td></tr><tr class="even"><td style="text-align: center;">G 43</td><td style="text-align: center;">Migräne, Anfälle mit<br />
+einhergehender starker<br />
+Beeinträchtigung des<br />
+Allgemeinzustands</td><td style="text-align: center;">Häufige Anfälle, die zu starken Leistungseinschränkungen führen</td><td style="text-align: center;">Mit Beschränkung, sofern keine leistungseinschränkenden Auswirkungen zu erwarten sind</td></tr><tr class="odd"><td style="text-align: center;">G 47</td><td style="text-align: center;">Schlafapnoe, Narkolepsie</td><td style="text-align: center;">Behandlung erfolglos oder wird nicht eingehalten</td><td style="text-align: center;">Wenn der Facharzt bestätigt, dass die Behandlung mindestens zwei Jahren vollständig kontrolliert wurde: tauglich, ggf. mit<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup></td></tr><tr class="even"><td style="text-align: center;">G 00-99<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Sonstige Erkrankungen des Nervensystems, z. B. Multiple Sklerose, Parkinson-Krankheit<br />
+Rezidive/Progression, Einschränkungen von Muskelkraft, Gleichgewichtssinn, Koordination und Beweglichkeit</td><td style="text-align: center;">Wenn die Person nicht<br />
+in der Lage ist die physischen Leistungsanforderungen zu erfüllen</td><td style="text-align: center;">Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und Notfallaufgaben, unter Berücksichtigung neurologisch-<br />
+psychiatrischer fachärztlicher Empfehlungen</td></tr><tr class="odd"><td style="text-align: center;">H 00-99</td><td style="text-align: center;">Erkrankungen der Augen und Ohren</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">H 00-59</td><td style="text-align: center;">Augenerkrankungen:<br />
+fortschreitend oder wiederholt (z. B. Glaukom, Makulapathien, diabetische Retinopathie, Retinitis pigmentosa etc.)</td><td style="text-align: center;">Unfähigkeit, den einschlägigen Anforderungen an das Sehvermögen zu genügen</td><td style="text-align: center;">Sehr geringe Wahrscheinlichkeit, dass eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Sehvermögen nicht mehr<br />
+erfüllt werden<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann<br />
+angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;">H 68-95</td><td style="text-align: center;">Krankheiten des Ohres:<br />
+fortschreitend (z. B. Otosklerose)</td><td style="text-align: center;">Unfähigkeit, den einschlägigen Anforderungen an das Hörvermögen zu genügen</td><td style="text-align: center;">Sehr geringe Wahrscheinlichkeit, dass eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Hörvermögen nicht mehr<br />
+erfüllt werden<br />
+Beschränkung 04<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann<br />
+angezeigt sein</td></tr><tr class="even"><td style="text-align: center;">H 81</td><td style="text-align: center;">Ménière-Krankheiten und andere Formen von chronischem oder rezidivierendem stark beeinträchtigendem Schwindel</td><td style="text-align: center;">Häufige Anfälle, die zu starken Leistungseinschränkungen führen</td><td style="text-align: center;">Beurteilung des Einzelfalls<br />
+Sehr geringe Wahrscheinlichkeit von Beeinträchtigungen auf Fahrzeugen</td></tr><tr class="odd"><td style="text-align: center;">I 00-99<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Erkrankungen und/oder<br />
+Veränderungen des Herzens und/oder des Kreislaufes mit Einschränkungen der Leistungs- bzw. Regulationsfähigkeit</td><td style="text-align: center;">Wenn die körperliche Belastbarkeit eingeschränkt ist oder Episoden mit<br />
+starker Einschränkung der Leistungsfähigkeit auftreten oder bei Behandlung mit Antikoagulantien oder wenn auf Dauer eine erhöhte Wahrscheinlichkeit für das Auftreten einer Beeinträchtigung besteht</td><td style="text-align: center;">Beurteilung des Einzelfalls<br />
+auf der Grundlage des Rates eines Kardiologen</td></tr><tr class="even"><td style="text-align: center;">J 45-46</td><td style="text-align: center;">Bronchialasthma mit Anfällen<br />
+</td><td style="text-align: center;">Bei vorhersehbarem Risiko für das plötzliche Auftreten lebensbedrohlicher Asthmaanfälle oder mit der Vorgeschichte eines schlecht kontrollierten Asthmas, d. h. mit häufigen Behandlungen im Krankenhaus in der Vergangenheit</td><td style="text-align: center;">Beurteilung des Einzelfalls<br />
+auf Grundlage des Rates eines Pneumologen</td></tr><tr class="odd"><td style="text-align: center;">K 00-99<br />
+nicht<br />
+separat<br />
+gelistet</td><td style="text-align: center;">Neigung zu Gallen- oder Nierenkoliken</td><td style="text-align: center;">Rezidivierende oder persistierende leistungsbeeinträchtigende Symptome</td><td style="text-align: center;">Beurteilung des Einzelfalls durch einen Facharzt<br />
+Sehr geringe Wahrscheinlichkeit eines plötzlichen Auftretens einer Gallen- oder Nierenkolik</td></tr><tr class="even"><td style="text-align: center;">Y 83.4<br />
+Z 97.1</td><td style="text-align: center;">Missbildungen von Gliedmaßen oder Teilverlust von Gliedmaßen mit Beeinträchtigung der Greiffähigkeit und/oder der Stand- bzw. Gangsicherheit<br />
+Einschränkungen der Mobilität mit Auswirkungen auf die Routine- und Notfallaufgaben</td><td style="text-align: center;">Wenn wesentliche Routinen nicht wahrgenommen werden können</td><td style="text-align: center;">Beurteilung des Einzelfalls durch einen Facharzt<br />
+Beschränkung 03<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein</td></tr><tr class="odd"><td style="text-align: center;"> </td><td style="text-align: center;">Sonstige Gesundheitsstörungen/medizinische Auffälligkeiten, die gegen eine Tauglichkeit sprechen könnten</td><td style="text-align: center;">Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden<br />
+Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben.<br />
+In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden</td><td style="text-align: center;">Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden<br />
+Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben. In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden</td></tr></tbody></table>
 
-Das Zertifikat ist unter Berücksichtigung der internationalen ISO/IEC-Norm 7810 auszustellen. Ländercode gemäß ISO ALPHA-2
+Mindestkriterien in Bezug auf das Sehvermögen
 
-# Anlage 2 – (zu § 7 Absatz 2 Nummer 4, § 10 Absatz 1 Satz 2)Ärztliches Zeugnis
+1. Tagessehschärfe
 
-(Fundstelle: BGBl. I 2017, 1027 - 1028;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Die Prüfung der Sehschärfe in der Ferne erfolgt durch einen Arzt oder Augenoptiker nach DIN 58220 Ausgabe September 2013.
 
-(\* Nichtzutreffendes bitte streichen)
+Die Sehschärfe auf beiden Augen gemeinsam oder auf dem besseren Auge muss mit oder ohne Sehhilfe größer oder gleich 0,8 sein. Einäugiges Sehen ist erlaubt.
 
-Die/der durch Reisepass oder Personalausweis ausgewiesene
+Offenkundiges Doppelsehen (Motilität), das nicht korrigiert werden kann, ist nicht erlaubt. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges.
 
-Vorname: \_\_\_\_\_\_\_\_\_\_\_\_ Name: \_\_\_\_\_\_\_\_\_\_
+Beschränkung 01<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein.
 
-geboren am: \_\_\_\_\_\_\_\_\_\_ in: \_\_\_\_\_\_\_\_\_\_\_ 
+2. Dämmerungssehvermögen:
 
-wurde heute auf die Tauglichkeit zur Führung eines Sportbootes auf den See- und Binnenschifffahrtsstraßen untersucht.
+Zu testen bei Glaukom, Netzhauterkrankungen oder Medientrübungen (z. B. Katarakt). Kontrastsehen bei 0,032 cd/m2 ohne Blendung; Testergebnis 1:2,7 oder besser, mit dem Mesotest überprüft.
 
-I. Sehvermögen
+3. Gesichtsfeld:
 
-1. Sehschärfe
+Liegen anamnestische Hinweise auf Gesichtsfeldausfälle beispielsweise durch Vorerkrankungen oder Unfälle vor, ist es erforderlich das horizontale Gesichtsfeld daraufhin zu überprüfen, dass mindestens ein Auge den Sehschärfen-Standard erfüllt und den Sektor des nicht sehenden Auges tüchtig kompensiert.
 
-Die Prüfung der Sehschärfe erfolgt durch einen Arzt oder Augenoptiker nach DIN 58220. Die Sehschärfe muss ohne oder mit Sehhilfe (Brille, Kontaktlinsen) mindestens 0,7 auf dem einen und 0,5 auf dem anderen Auge betragen. Werden diese Werte nur mit Sehhilfe erreicht, muss die Sehschärfe ohne Sehhilfe für jedes Auge mindestens 0,1 betragen. Ist die Sehschärfe beider Augen zusammen besser als die jedes einzelnen Auges, kann der Wert der Sehschärfe beider Augen zusammen als der Wert des Auges mit der besseren Sehschärfe angesetzt werden.
+Bei Glaukom oder Netzhautdystrophie oder wenn bei der Erstuntersuchung Anomalien erkannt werden, ist ein formeller Test durch einen Augenarzt erforderlich.
 
-Die Sehschärfe ist ohne Sehhilfe ausreichend (tauglich)
+4. Farbunterscheidungsvermögen
 
-□
+Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Test mittels 24 Ishihara-Farbtafeln mit maximal zwei Fehlern besteht. Alternativ kann einer der unten genannten, anerkannten alternativen Tests durchgeführt werden.
 
-Die Sehschärfe ist nur mit Sehhilfe ausreichend (bedingt tauglich)
+Im Zweifelsfall ist eine Prüfung mit dem Anomaloskop durchzuführen. Der mit dem Anomaloskop gemessene Anomal-Quotient muss zwischen 0,7 und 1,4 liegen und somit auf eine normale Trichromasie hindeuten. Ergibt die Untersuchung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test keine Farbentüchtigkeit, so ist eine Grünschwäche (Deuteranomalie) mit einem Anomalquotienten zwischen 1,4 und 6,0 zulässig.
 
-□
+Anerkannte, zu den Ishihara-Farbtafeln alternative Tests sind:
 
-Die Sehschärfe ist ohne und mit Sehhilfe nicht ausreichend (untauglich)
+a) Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern);
 
-□
+b) Kuchenbecker-Broschmann (maximal zwei Fehler);
 
-2\. Farbunterscheidungsvermögen
+c) HRR (Ergebnis mindestens „leicht“);
 
-Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Untersuchte den Farnsworth-Panel-D-15-Test oder einen anerkannten Farbtafeltest besteht. Farbfiltersehhilfen sind unzulässig. In Zweifelsfällen muss die Prüfung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test durchgeführt werden. Ergibt die Untersuchung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test keine Farbentüchtigkeit (normale Trichromasie mit einem Anomalquotienten zwischen 0,7 und 1,4), so ist nur eine Grünschwäche (Deuteranomalie) mit einem Anomalquotienten zwischen 1,4 und 6,0) zulässig. Anerkannte Farbtafeltests sind:
+d) TMC (Ergebnis mindestens „second degree“);
 
-a) Ishihara nach den Tafeln 12 bis 14,
+e) Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“);
 
-b) Stilling/Velhagen,
+f) Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben);
 
-c) Boström,
+g) Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten).
 
-d) HRR (Ergebnis mindestens „leicht“),
+Der Gebrauch von Filtergläsern als Sehhilfen für das Farbunterscheidungsvermögen, z. B. getönte Kontaktlinsen und Brille, ist nicht zulässig.
 
-e) TMC (Ergebnis mindestens „second degree“),
+Mindestkriterien in Bezug auf das Hörvermögen
 
-f) Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“).
+Das Hörvermögen ist als ausreichend anzusehen, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Meter Entfernung verstanden wird.
 
-|                                     |                           |                                    |
-|:------------------------------------|:--------------------------|:-----------------------------------|
-| Das Farbunterscheidungsvermögen ist | □  ausreichend (tauglich) | □  nicht ausreichend (untauglich), |
+Beschränkung 02<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein.
 
-der Anomalquotient beträgt \_\_\_\_\_,\_\_\_\_\_.
+Anlage 2 Einführung Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Seevermögen" durch das Wort "Sehvermögen" ersetzt
 
- 
+# Anhang 1 zu Anlage 2 – (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Tauglichkeitsnachweises
 
-(Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift der amtlich anerkannten Sehteststelle)
+(Fundstelle: BGBl. I 2022, 2220)
 
-II\. Hörvermögen
+Die untersuchte Person wurde hinsichtlich ihrer medizinischen Tauglichkeit mit folgendem Ergebnis untersucht:
 
-Das erforderliche Hörvermögen ist vorhanden, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Metern Entfernung verstanden wird.
+Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
 
-Das Hörvermögen ist ohne Hörhilfe
+Eine Bescheinigung des Hörakustikerbetriebs mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
 
-ausreichend (tauglich)
+# Anhang 2 zu Anlage 2 – (zu § 10 Absatz 1 Satz 2)Muster des ärztlichen Tauglichkeitsnachweises
 
-□
+(Fundstelle: BGBl. I 2022, 2221)
 
-Das Hörvermögen ist nur mit Hörhilfe
+Die untersuchte Person wurde hinsichtlich ihrer körperlichen Fähigkeiten mit folgendem Ergebnis untersucht:
 
-ausreichend (bedingt tauglich)
+Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
 
-□
-
-Das Hörvermögen ist ohne und mit Hörhilfe nicht ausreichend (untauglich)
-
-□
-
- 
-
-(Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift des Hörgeräteakustikbetriebes)
-
-– bitte wenden –
-
-III\. Sonstige die Tauglichkeit beeinträchtigende Befunde
-
-Auch das Vorhandensein sonstiger körperlicher Mängel oder Krankheiten (Beispiele vgl. unten \*) kann die Tauglichkeit zum Führen eines Sportbootes einschränken oder ausschließen.
-
-Die/der Untersuchte ist zum Führen eines Sportbootes
-
-  □ tauglich
-
-  □ untauglich
-
-  □ bedingt tauglich
-
-Bei bedingter Tauglichkeit kommt/kommen aus ärztlicher Sicht folgende Auflage/n in Betracht:
-
-  □ Sehhilfe
-
-  □ Hörhilfe
-
-Sonstige Auflage/(n): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Ort, Datum)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Stempel mit Anschrift und Unterschrift der Ärztin/des Arztes)
-
-\* Körperliche und geistige Mängel
-
-Anzeichen für Krankheiten oder körperliche Mängel, die die Untersuchte/den Untersuchten als Schiffsführer ungeeignet erscheinen lassen, können sein:
-
-–  
-Anfallsleiden jeglicher Ursache
-
-–  
-Krankheiten jeglicher Ursache, die mit Bewusstseins- und/oder Gleichgewichtsstörungen einhergehen
-
-–  
-Erkrankungen oder Schäden des zentralen Nervensystems mit wesentlichen Funktionsstörungen, insbesondere organische Krankheiten des Gehirns oder des Rückenmarks und deren Folgezustände, funktionelle Störungen nach Schädel- oder Hirnverletzungen, Hirndurchblutungsstörungen
-
-–  
-Störungen oder erhebliche Beeinträchtigungen der zentralnervösen Belastbarkeit und/oder der Vigilanz
-
-–  
-Gemüts- und/oder Geisteskrankheiten, auch außerhalb eines akuten Schubes
-
-–  
-Diabetes mellitus mit nicht regulierbaren, erheblichen Schwankungen der Blutzuckerwerte
-
-–  
-erhebliche Störung der Drüsen mit innerer Sekretion, insbesondere der Schilddrüse, der Epithelkörperchen oder der Nebennieren
-
-–  
-schwere Erkrankungen der blutbildenden Systeme
-
-–  
-Bronchialasthma mit Anfällen
-
-–  
-Erkrankungen und/oder Veränderungen des Herzens und/oder des Kreislaufes mit Einschränkungen der Leistungs- bzw. Regulationsfähigkeit, Blutdruckveränderungen stärkeren Grades, Zustand nach Herzinfarkt mit erheblicher Reinfarktgefährdung
-
-–  
-Neigung zu Gallen- oder Nierenkoliken
-
-–  
-Missbildungen von Gliedmaßen oder Teilverlust von Gliedmaßen mit Beeinträchtigung der Greiffähigkeit und/oder der Stand- bzw. Gangsicherheit
-
-–  
-Erkrankungen bzw. Unfallfolgen, die zu erheblicher Einschränkung der Beweglichkeit oder zum Verlust oder zur Herabsetzung der groben Kraft eines für die Durchführung der Tätigkeit wichtigen Gliedes führen
-
-–  
-chronischer Alkoholmissbrauch bzw. Alkoholkrankheit, Betäubungsmittelsucht und/oder andere Suchtformen.
+Eine Bescheinigung des Hörgeräteakustikbetriebes mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
 
 # Anlage 3 – (zu § 8 Absatz 1 Satz 4)Theoretische Prüfung zum Erwerb des Sportbootführerscheins
 
@@ -595,7 +676,7 @@ Für den Geltungsbereich Seeschifffahrtsstraßen ist außer dem Fragebogen eine 
 
 1.2 Anerkennung von Prüfungsteilen
 
-Fähigkeiten, die beim Erwerb des Sportbootführerscheins für einen Geltungsbereich oder eine Antriebsart bereits geprüft wurden, werden beim Erwerb des Sportbootführerscheins für den anderen Geltungsbereich oder die andere Antriebsart grundsätzlich nicht erneut geprüft. Erfolgt die Prüfung für den anderen Geltungsbereich oder die andere Antriebsart nicht bei demselben Prüfungsausschuss für den zuerst erworbenen Geltungsbereich oder die zuerst erworbene Antriebsart, ist zum Nachweis der geprüften Fähigkeiten die Vorlage des Sportbootführerscheins erforderlich. Prüfungsteile (theoretische oder praktische Prüfung), die bei einem Prüfungsausschuss des anderen Verbands durchgeführt wurden, werden nicht anerkannt.
+Fähigkeiten, die beim Erwerb des Sportbootführerscheins für einen Geltungsbereich oder eine Antriebsart bereits geprüft wurden, werden beim Erwerb des Sportbootführerscheins für den anderen Geltungsbereich oder die andere Antriebsart grundsätzlich nicht erneut geprüft. Erfolgt die Prüfung für den anderen Geltungsbereich oder die andere Antriebsart nicht bei demselben Prüfungsausschuss für den zuerst erworbenen Geltungsbereich oder die zuerst erworbene Antriebsart, ist zum Nachweis der geprüften Fähigkeiten die Vorlage des Sportbootführerscheins erforderlich.
 
 1.3 Hilfsmittel
 
@@ -1143,7 +1224,13 @@ Auf dem Prüfungsboot muss für jede an Bord befindliche Person eine Rettungswes
 
 Für die Prüfung zum Erwerb des Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen muss auf dem Prüfungsboot ein Kompass vorhanden sein.
 
-Bei Prüfungen zum Führen von Sportbooten mit Antriebsmaschine muss das Prüfungsboot mit einer Antriebsmaschine ausgestattet sein, die eine Nutzleistung von mehr als 11,03 kW besitzt. Dies gilt auch für Prüfungen, die auf dem Rhein durchgeführt werden.
+Bei Prüfungen zum Führen von Sportbooten mit Antriebsmaschine muss das Prüfungsboot mit einer Antriebsmaschine ausgestattet sein, die eine Nutzleistung von mehr als
+
+a) 11,03 Kilowatt bei Verwendung eines Verbrennungsmotors,
+
+b) 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 bei Verwendung eines Elektromotors
+
+besitzt. Dies gilt auch für Prüfungen, die auf dem Rhein durchgeführt werden.
 
 # Anlage 6 – (zu § 10 Absatz 2 Nummer 2)Voraussetzungen für eine Bestellung als Prüfer
 
@@ -1223,70 +1310,75 @@ sich den Bewerbern gegenüber höflich, aber bestimmt zu verhalten.
 
 # Anhang 1 – (zu Anlage 7)Niederschrift
 
-(Fundstelle: BGBl. I 2017, 1037)
+(Fundstelle: BGBl. I 2022, 2222)
 
-über die Verpflichtungen nach § 83 Absatz 2 Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102) und nach § 5 Bundesdatenschutzgesetz in der Fassung der Bekanntmachung vom 14. Januar 2003 (BGBl. I S. 66) jeweils in geltender Fassung.
+über die Verpflichtungen zur gewissenhaften und unparteiischen Tätigkeit und zur Verschwiegenheit, auch im Sinne des § 83 Absatz 2 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), und nach § 53 des Bundesdatenschutzgesetzes in der Fassung der Bekanntmachung vom 30. Juni 2017 (BGBl. I S. 2097) in Verbindung mit Artikel 32 Absatz 4 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1), jeweils in geltender Fassung.
 
-Frau/Herr «Titel»
+Herr/Frau  
+«Titel» «Vorname» «Name»
 
-geboren am
+geboren am  
+«Geburtsdatum»
 
-wohnhaft
+wohnhaft  
+«Straße», «Ort»
 
-wurde heute im Rahmen der Tätigkeit als Prüfer in der Sportschifffahrt verpflichtet, die Arbeit gewissenhaft und unparteiisch auszuüben und die gebotene Verschwiegenheit zu wahren.
+wurde heute im Rahmen der Tätigkeit als «Prüfer/-in» des Prüfungsausschusses «\[…\]» für die Sportschifffahrt gemäß § 9 Absatz 2 i. V. m. § 10 der Sportbootführerscheinverordnung (SpFV) vom 3. Mai 2017 (BGBl. I S. 1016) und den Durchführungsrichtlinien in den jeweils geltenden Fassungen verpflichtet, die Arbeit entsprechend untenstehender Gesetze/Vorschriften, Belehrungen und Vorgaben gewissenhaft und unparteiisch auszuüben und die gebotene Verschwiegenheit zu wahren.
 
-Es wurde auf folgende für Sie geltende Gesetze/Vorschriften jeweils in der geltenden Fassung hingewiesen:
+Es wurde auf folgende geltende Gesetze/Vorschriften jeweils in der geltenden Fassung hingewiesen:
 
 Strafgesetzbuch:
 
-§ 133 Absatz 1 und 3  
-– Verwahrungsbruch
+§ 133 Absatz 1, 3  
+– Verwahrungsbruch
 
 § 201 Absatz 3  
-– Verletzung der Vertraulichkeit des Wortes
+– Verletzung der Vertraulichkeit des Wortes
 
-§ 203 Absatz 2, 4 und 5  
-– Verletzung von Privatgeheimnissen
+§ 203 Absatz 2, 4, 5  
+– Verletzung von Privatgeheimnissen
 
 § 204  
-– Verwertung fremder Geheimnisse
+– Verwertung fremder Geheimnisse
 
 § 331  
-– Vorteilsannahme
+– Vorteilsannahme
 
 § 332  
-– Bestechlichkeit
+– Bestechlichkeit
 
 § 353b  
-– Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
+– Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
 
 § 355  
-– Verletzung des Steuergeheimnisses
+– Verletzung des Steuergeheimnisses
 
 § 358  
-– Nebenfolgen
+– Nebenfolgen
 
 Abgabenordnung:
 
-§ 30 Absatz 1 bis 3  
-– Steuergeheimnis
+§ 30 Absätze 1 bis 3  
+– Steuergeheimnis
 
 Bundesdatenschutzgesetz:
 
-§ 5  
-– Datengeheimnis
+§§ 41 – 43  
+– Sanktionen
 
-§ 9  
-– Technische und organisatorische Maßnahmen
+§ 83  
+– Schadensersatz und Entschädigung
 
-– Anlage zu § 9 Satz 1
+Datenschutz-Grundverordnung:
 
-Mit der Unterzeichnung dieser Niederschrift bestätige ich, dass ich den wesentlichen Inhalt der vorbezeichneten Gesetze/Vorschriften zur Kenntnis genommen habe.
+Artikel 5  
+– Grundsätze für die Verarbeitung personenbezogener Daten
 
-|                                                              |                                  |                                                            |
-|:-------------------------------------------------------------|:---------------------------------|:-----------------------------------------------------------|
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| Unterschrift der/des Verpflichtenden                         | Ort und Datum                    | Unterschrift der/des Verpflichteten                        |
+Artikel 9  
+– Verarbeitung besonderer Kategorien personenbezogener Daten
+
+Artikel 24, 25 und 32  
+– Anforderungen an die Sicherheit bei der Datenverarbeitung personenbezogener Daten
 
 # Anlage 8 – (zu § 5 Absatz 2)Binnenschifffahrtsstraßen, auf denen für das Führen eines Sportbootes unter Segel eine Fahrerlaubnis erforderlich ist
 

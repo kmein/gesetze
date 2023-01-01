@@ -1019,7 +1019,7 @@ Für das Erziehungsregister gelten die Vorschriften des Zweiten Teils, soweit di
 
 8. (weggefallen)
 
-9. vorläufige und endgültige Entscheidungen des Familiengerichts nach § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs sowie Entscheidungen des Familiengerichts nach § 1837 Abs. 4 in Verbindung mit § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs, welche die Sorge für die Person des Minderjährigen betreffen; ferner die Entscheidungen, durch welche die vorgenannten Entscheidungen aufgehoben oder geändert werden.
+9. vorläufige und endgültige Entscheidungen des Familiengerichts nach § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs sowie Entscheidungen des Familiengerichts nach § 1802 Absatz 2 Satz 3 in Verbindung mit § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs, welche die Sorge für die Person des Minderjährigen betreffen; ferner die Entscheidungen, durch welche die vorgenannten Entscheidungen aufgehoben oder geändert werden.
 
 (2) In den Fällen des Absatzes 1 Nr. 7 ist zugleich die vom Gericht nach § 45 Abs. 3 oder § 47 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes getroffene Maßnahme einzutragen.
 

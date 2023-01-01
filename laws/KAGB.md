@@ -3811,7 +3811,7 @@ Der Jahresabschluss einer geschlossenen Publikumsinvestmentkommanditgesellschaft
 
 (1) Die Offenlegung des Jahresberichts einer geschlossenen Publikumsinvestmentkommanditgesellschaft erfolgt, auch wenn auf diese § 264a des Handelsgesetzbuchs nicht anzuwenden ist, spätestens neun Monate nach Ende des Geschäftsjahres nach Maßgabe des insoweit entsprechend anzuwendenden § 325 Absatz 1 Satz 2, Absatz 1b, 2a, 2b, 5 und 6 des Handelsgesetzbuchs; die §§ 328, 329 Absatz 1 und 4 und die §§ 335 bis 335b des Handelsgesetzbuchs sind entsprechend anzuwenden.
 
-(2) Der Bericht einer geschlossenen Publikumsinvestmentkommanditgesellschaft nach Absatz 1 muss dem Publikum an den Stellen zugänglich sein, die im Verkaufsprospekt und in den wesentlichen Anlegerinformationen angegeben sind.
+(2) Der Bericht einer geschlossenen Publikumsinvestmentkommanditgesellschaft nach Absatz 1 muss dem Publikum an den Stellen zugänglich sein, die im Verkaufsprospekt angegeben sind.
 
 (3) Einem Anleger der geschlossenen Investmentkommanditgesellschaft wird der Jahresbericht auf Anfrage vorgelegt.
 
@@ -3900,9 +3900,11 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 (+++ § 163: Zur Anwendung vgl. § 52 Abs. 5 u. § 345 Abs. 1 Satz 5 +++)  
 (+++ § 163 Abs. 2 Satz 2 u. 4 bis 10: Zur Geltung vgl. § 272a Abs. 5 Satz 4 +++)
 
-# § 164 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
+# § 164 – Erstellung von Verkaufsprospekt, Basisinformationsblatt und wesentlichen Anlegerinformationen
 
-(1) Die Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat für die von ihr verwalteten offenen Publikumsinvestmentvermögen den Verkaufsprospekt und die wesentlichen Anlegerinformationen zu erstellen und dem Publikum die jeweils aktuelle Fassung auf der Internetseite der Kapitalverwaltungsgesellschaft oder der EU-OGAW-Verwaltungsgesellschaft zugänglich zu machen. Bei offenen AIF-Publikumsinvestmentvermögen dürfen Verkaufsprospekt und wesentliche Anlegerinformationen dem Publikum erst zugänglich gemacht werden, sobald die Verwaltungsgesellschaft mit dem Vertrieb des Investmentvermögens gemäß § 316 beginnen darf.
+(1) Die Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat für ein von ihr verwaltetes offenes Publikumsinvestmentvermögen den Verkaufsprospekt und, falls das offene Publikumsinvestmentvermögen nicht ausschließlich an professionelle Anleger vertrieben wird, das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 zu erstellen und dem Publikum die jeweils aktuellen Fassungen auf der Internetseite der Kapitalverwaltungsgesellschaft oder der EU-OGAW-Verwaltungsgesellschaft zugänglich zu machen. Bei offenen AIF-Publikumsinvestmentvermögen dürfen Verkaufsprospekt und Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 dem Publikum erst zugänglich gemacht werden, sobald die Verwaltungsgesellschaft mit dem Vertrieb des Investmentvermögens gemäß § 316 beginnen darf.
+
+(1a) Falls die Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft für einen inländischen OGAW ein Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 abfasst, bereitstellt, überarbeitet und übersetzt, muss sie nicht zusätzlich die wesentlichen Anlegerinformationen erstellen.
 
 (2) Für die einzelnen Teilinvestmentvermögen eines Umbrella-Investmentvermögens kann ein gemeinsamer Verkaufsprospekt erstellt werden, in dem die folgenden Angaben in klarer und übersichtlicher Art und Weise darzustellen sind:
 
@@ -3912,9 +3914,9 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 
 (3) Die Angaben in den wesentlichen Anlegerinformationen sowie die Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten.
 
-(4) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat der Bundesanstalt für die von ihr verwalteten inländischen OGAW den Verkaufsprospekt und die wesentlichen Anlegerinformationen unverzüglich nach erstmaliger Verwendung einzureichen. Auf Anfrage hat die OGAW-Kapitalverwaltungsgesellschaft der Bundesanstalt auch den Verkaufsprospekt für die von ihr nach den §§ 49 und 50 verwalteten EU-OGAW zur Verfügung zu stellen.
+(4) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat der Bundesanstalt für die von ihr verwalteten inländischen OGAW den Verkaufsprospekt und entweder das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die wesentlichen Anlegerinformationen unverzüglich nach erstmaliger Verwendung einzureichen. Auf Anfrage hat die OGAW-Kapitalverwaltungsgesellschaft der Bundesanstalt auch den Verkaufsprospekt für die von ihr nach den §§ 49 und 50 verwalteten EU-OGAW zur Verfügung zu stellen.
 
-(5) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat der Bundesanstalt für die von ihr verwalteten inländischen OGAW alle Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen unverzüglich nach erstmaliger Verwendung einzureichen.
+(5) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat der Bundesanstalt für die von ihr verwalteten inländischen OGAW alle Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen unverzüglich nach erstmaliger Verwendung einzureichen.
 
 (+++ § 164: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
@@ -4075,27 +4077,15 @@ b) eine Zusammenfassung der Vergütungspolitik und eine Erklärung darüber, das
 
 (3) Diese wesentlichen Merkmale muss der Anleger verstehen können, ohne dass hierfür zusätzliche Dokumente herangezogen werden müssen. Die wesentlichen Anlegerinformationen müssen redlich und eindeutig und dürfen nicht irreführend sein. Sie müssen mit den einschlägigen Teilen des Verkaufsprospekts übereinstimmen. Sie sind kurz zu halten und in allgemein verständlicher Sprache abzufassen. Sie sind in einem einheitlichen Format zu erstellen, um Vergleiche zu ermöglichen.
 
-(4) Für die inländischen OGAW bestimmen sich die näheren Inhalte, Form und Gestaltung der wesentlichen Anlegerinformationen nach der Verordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates im Hinblick auf die wesentlichen Informationen für den Anleger und die Bedingungen, die einzuhalten sind, wenn die wesentlichen Informationen für den Anleger oder der Prospekt auf einem anderen dauerhaften Datenträger als Papier oder auf einer Website zur Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1; L 108 vom 28.4.2011, S. 38). Für offene AIF-Publikumsinvestmentvermögen ist die Verordnung (EU) Nr. 583/2010 hinsichtlich der näheren Inhalte, der Form und Gestaltung der wesentlichen Anlegerinformationen entsprechend anzuwenden, soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
+(4) Für die inländischen OGAW bestimmen sich die näheren Inhalte, Form und Gestaltung der wesentlichen Anlegerinformationen nach der Verordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates im Hinblick auf die wesentlichen Informationen für den Anleger und die Bedingungen, die einzuhalten sind, wenn die wesentlichen Informationen für den Anleger oder der Prospekt auf einem anderen dauerhaften Datenträger als Papier oder auf einer Website zur Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1; L 108 vom 28.4.2011, S. 38).
 
 (5) Die Verwaltungsgesellschaft weist in den wesentlichen Anlegerinformationen eine Gesamtkostenquote aus. Die Gesamtkostenquote stellt eine einzige Zahl dar, die auf den Zahlen des vorangegangenen Geschäftsjahres basiert. Sie umfasst sämtliche vom Investmentvermögen im Jahresverlauf getragenen Kosten und Zahlungen im Verhältnis zum durchschnittlichen Nettoinventarwert des Investmentvermögens und wird in den wesentlichen Anlegerinformationen unter der Bezeichnung „laufende Kosten“ im Sinne von Artikel 10 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 583/2010 zusammengefasst; sie ist als Prozentsatz auszuweisen. Sofern in den Anlagebedingungen eine erfolgsabhängige Verwaltungsvergütung oder eine zusätzliche Verwaltungsvergütung für den Erwerb, die Veräußerung oder die Verwaltung von Vermögensgegenständen nach § 231 Absatz 1 und § 234 vereinbart wurde, ist diese darüber hinaus gesondert als Prozentsatz des durchschnittlichen Nettoinventarwertes des Investmentvermögens anzugeben. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu Methoden und Grundlagen der Berechnung der Gesamtkostenquote zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(6) Für Immobilien-Sondervermögen nach § 230 und Infrastruktur-Sondervermögen nach § 260a sind Artikel 4 Absatz 8 und die Artikel 8 und 9 der Verordnung (EU) Nr. 583/2010 nicht anzuwenden. Die Darstellung des Risiko- und Ertragsprofils nach Absatz 2 Satz 1 Nummer 3 für Immobilien-Sondervermögen und für Infrastruktur-Sondervermögen hat eine Bezeichnung der wesentlichen Risiken und Chancen zu enthalten, die mit einer Anlage in den Immobilien-Sondervermögen oder Infrastruktur-Sondervermögen verbunden sind. Ausdrücklich hinzuweisen ist auf solche wesentlichen Risiken, die Einfluss auf das Risikoprofil des Sondervermögens haben, insbesondere sind die Risiken der Immobilieninvestitionen und der Beteiligung an den Immobilien-Gesellschaften oder den Infrastruktur-Projektgesellschaften zu bezeichnen. Daneben ist ein Hinweis auf die Beschreibung der wesentlichen Risiken im Verkaufsprospekt aufzunehmen. Die Darstellung muss den Anleger in die Lage versetzen, die Bedeutung und die Wirkung der verschiedenen Risikofaktoren zu verstehen. Die Beschreibung ist in Textform zu erstellen und darf keine grafischen Elemente aufweisen. Daneben sind folgende Angaben aufzunehmen:
+(6) (weggefallen)
 
-1. ein genereller Hinweis, dass mit der Investition in das Sondervermögen neben den Chancen auf Wertsteigerungen auch Risiken verbunden sein können und
+(7) (weggefallen)
 
-2. anstelle der Angaben nach Artikel 7 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) Nr. 583/2010 ein Hinweis auf die Einschränkung der Rückgabemöglichkeiten für den Anleger nach § 256 Absatz 1 Nummer 1 oder § 260d Absatz 1 Nummer 4 sowie ein Hinweis auf die Möglichkeit der Aussetzung der Rücknahme von Anteilen und deren Folgen nach § 257.
-
-(7) Für Dach-Hedgefonds gemäß den §§ 225 bis 229 sind Artikel 4 Absatz 8 und die Artikel 8 und 9 der Verordnung (EU) Nr. 583/2010 nicht anzuwenden. Die Darstellung des Risiko- und Ertragsprofils nach Absatz 2 Satz 1 Nummer 3 hat für Dach-Hedgefonds eine Bezeichnung der wesentlichen Risiken und Chancen, die mit einer Anlage in diesen Investmentvermögen verbunden sind, zu enthalten. Dabei ist auf die wesentlichen Risiken hinzuweisen, die Einfluss auf das Risikoprofil des Investmentvermögens haben; dabei sind auch die Risiken der Zielinvestmentvermögen einzubeziehen, wenn diese einen wesentlichen Einfluss auf das Risikoprofil des Investmentvermögens haben. Absatz 6 Satz 4 bis 6 gilt entsprechend. Daneben sind folgende Angaben aufzunehmen:
-
-1. anstelle der Angaben nach Artikel 7 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 583/2010 der Hinweis auf die Möglichkeit zur Einschränkung der Rücknahme nach § 227,
-
-2. im Abschnitt „Risiko- und Ertragsprofil“ zusätzlich der Warnhinweis nach § 228 Absatz 2,
-
-3. zusätzlich zu den Angaben nach Artikel 28 der Verordnung (EU) Nr. 583/2010 auch Angaben zum Erwerb ausländischer nicht beaufsichtigter Zielinvestmentvermögen nach § 228 Absatz 1 Nummer 2,
-
-4. zusätzlich zu den Angaben nach Artikel 29 der Verordnung (EU) Nr. 583/2010 auch Angaben zu Krediten und Leerverkäufen nach § 228 Absatz 1 Nummer 4.
-
-(8) Die Ermittlung und Erläuterung der Risiken im Rahmen des Risiko- und Ertragsprofils nach den Absätzen 6 und 7 müssen mit dem internen Verfahren zur Ermittlung, Messung und Überwachung von Risiken übereinstimmen, das die Verwaltungsgesellschaft im Sinne der Artikel 38 bis 40 der Richtlinie 2010/43/EU oder der Artikel 38 bis 56 der Verordnung (EU) Nr. 231/2013 angewendet hat. Verwaltet eine Verwaltungsgesellschaft mehr als ein Investmentvermögen, sind die hiermit verbundenen Risiken einheitlich zu ermitteln und widerspruchsfrei zu erläutern.
+(8) (weggefallen)
 
 (+++ § 166: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
@@ -4167,7 +4157,7 @@ Gibt die Kapitalverwaltungsgesellschaft oder die Verwahrstelle den Ausgabepreis 
 
 1. die Anlagebedingungen oder die Satzung des Feederfonds und des Masterfonds,
 
-2. den Verkaufsprospekt und die wesentlichen Anlegerinformationen des Feederfonds und des Masterfonds gemäß den §§ 164, 166 oder gemäß Artikel 78 der Richtlinie 2009/65/EG,
+2. den Verkaufsprospekt und entweder das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die wesentlichen Anlegerinformationen des Feederfonds und des Masterfonds gemäß den §§ 164, 166 oder gemäß Artikel 78 der Richtlinie 2009/65/EG,
 
 3. die Master-Feeder-Vereinbarung oder die entsprechenden internen Regelungen für Geschäftstätigkeiten gemäß § 175 Absatz 1 Satz 2 oder Artikel 60 Absatz 1 Unterabsatz 3 der Richtlinie 2009/65/EG,
 
@@ -4183,7 +4173,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 1. der Antrag auf Genehmigung der Änderung der Anlagebedingungen unter Bezeichnung des Masterfonds,
 
-2. die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen und
+2. die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen und
 
 3. die Unterlagen gemäß Absatz 3.
 
@@ -4220,7 +4210,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 7. eine Beschreibung der steuerlichen Auswirkungen der Anlage in den Masterfonds für den Feederfonds.
 
-(2) Handelt es sich bei dem Feederfonds um einen OGAW, hat die den Feederfonds verwaltende Kapitalverwaltungsgesellschaft der Bundesanstalt vorbehaltlich der Einreichungspflicht nach § 171 Absatz 3 auch Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen des Masterfonds unverzüglich nach erstmaliger Verwendung einzureichen. Handelt es sich bei dem Feederfonds um ein Sonstiges Investmentvermögen, sind der Bundesanstalt auch die Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen des Masterfonds gemäß § 316 Absatz 4 mitzuteilen.
+(2) Handelt es sich bei dem Feederfonds um einen OGAW, hat die den Feederfonds verwaltende Kapitalverwaltungsgesellschaft der Bundesanstalt vorbehaltlich der Einreichungspflicht nach § 171 Absatz 3 auch Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen des Masterfonds unverzüglich nach erstmaliger Verwendung einzureichen. Handelt es sich bei dem Feederfonds um ein Sonstiges Investmentvermögen, sind der Bundesanstalt auch die Änderungen des Verkaufsprospekts und des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 des Masterfonds gemäß § 316 Absatz 4 mitzuteilen.
 
 (3) Die Anlagebedingungen des Feederfonds müssen die Bezeichnung des Masterfonds enthalten.
 
@@ -4330,7 +4320,7 @@ a) den Antrag auf Genehmigung des Weiterbestehens,
 
 b) den Antrag auf Genehmigung der Änderung der Anlagebedingungen mit der Bezeichnung des Masterfonds, in dessen Anteile mindestens 85 Prozent des Wertes des Investmentvermögens angelegt werden sollen,
 
-c) die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen und
+c) die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen und
 
 d) die Angaben und Unterlagen nach § 171 Absatz 3;
 
@@ -4338,7 +4328,7 @@ d) die Angaben und Unterlagen nach § 171 Absatz 3;
 
 a) den Antrag auf Genehmigung der Änderung der Anlagebedingungen,
 
-b) die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen.
+b) die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen.
 
 Wenn die Verwaltungsgesellschaft des Masterfonds die Kapitalverwaltungsgesellschaft des Feederfonds mehr als fünf Monate vor dem Beginn der Abwicklung des Masterfonds über ihre verbindliche Entscheidung zur Abwicklung informiert hat, hat die Kapitalverwaltungsgesellschaft des Feederfonds abweichend von der Frist nach Satz 2 den Genehmigungsantrag und die Angaben und Unterlagen nach Satz 2 spätestens drei Monate vor der Abwicklung des Masterfonds bei der Bundesanstalt einzureichen.
 
@@ -4382,13 +4372,13 @@ b) der Feederfonds nach einer Spaltung eines Masterfonds Anteile am Investmentve
 
 a) gegebenenfalls der Antrag auf Genehmigung der Änderung der Anlagebedingungen und
 
-b) gegebenenfalls die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen;
+b) gegebenenfalls die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen;
 
 2. bei einem Antrag nach Absatz 2 Satz 2 Nummer 2 oder Nummer 3
 
 a) der Antrag auf Genehmigung der Änderung der Anlagebedingungen unter Bezeichnung des Masterfonds,
 
-b) die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen und
+b) die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen und
 
 c) die Angaben und Unterlagen nach § 171 Absatz 3;
 
@@ -4396,7 +4386,7 @@ c) die Angaben und Unterlagen nach § 171 Absatz 3;
 
 a) der Antrag auf Genehmigung der Änderung der Anlagebedingungen und
 
-b) die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen.
+b) die vorgenommenen Änderungen des Verkaufsprospekts und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen.
 
 Hat die Verwaltungsgesellschaft des Masterfonds der Kapitalverwaltungsgesellschaft des Feederfonds die Verschmelzungsinformationen nach § 177 mehr als vier Monate vor der geplanten Verschmelzung oder Spaltung übermittelt, hat die Kapitalverwaltungsgesellschaft des Feederfonds abweichend von der Frist nach Satz 1 den Genehmigungsantrag und die Angaben und Unterlagen nach Satz 1 spätestens drei Monate vor dem Wirksamwerden der Verschmelzung eines Masterfonds oder der Spaltung eines ausländischen Masterfonds bei der Bundesanstalt einzureichen.
 
@@ -4424,7 +4414,7 @@ Die Kapitalverwaltungsgesellschaft des Feederfonds darf erhaltene Vermögensgege
 
 1. den Hinweis, dass die Bundesanstalt die Anlage des Feederfonds in Anteile des Masterfonds genehmigt hat,
 
-2. die wesentlichen Anlegerinformationen nach den §§ 164 und 166 oder nach Artikel 78 der Richtlinie 2009/65/EG über Feederfonds und Masterfonds,
+2. das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die wesentlichen Anlegerinformationen nach den §§ 164 und 166 oder nach Artikel 78 der Richtlinie 2009/65/EG über Feederfonds und Masterfonds,
 
 3. das Datum der ersten Anlage des Feederfonds in dem Masterfonds oder, wenn er bereits in dem Masterfonds angelegt hat, das Datum des Tages, an dem seine Anlagen die bisher für ihn geltenden Anlagegrenzen übersteigen werden, und
 
@@ -4438,7 +4428,8 @@ Diese Informationen müssen spätestens 30 Tage vor dem in Satz 1 Nummer 3 genan
 
 (4) In den Fällen der Umwandlung in einen Feederfonds nach Absatz 1 ist die Übertragung aller Vermögensgegenstände des in den Feederfonds umgewandelten Investmentvermögens an den Masterfonds gegen Ausgabe von Anteilen am Masterfonds zulässig.
 
-(+++ § 180: Zur Anwendung vgl. § 52 Abs. 5 +++)
+(+++ § 180: Zur Anwendung vgl. § 52 Abs. 5 +++)  
+(+++ § 180 Abs. 3: Zur Geltung vgl. § 272h Abs. 2 +++)
 
 # § 181 – Gegenstand der Verschmelzung; Verschmelzungsarten
 
@@ -4456,7 +4447,7 @@ Diese Informationen müssen spätestens 30 Tage vor dem in Satz 1 Nummer 3 genan
 
 1. den Verschmelzungsplan nach § 184,
 
-2. bei grenzüberschreitender Verschmelzung eine aktuelle Fassung des Verkaufsprospekts gemäß Artikel 69 Absatz 1 und 2 der Richtlinie 2009/65/EG und der wesentlichen Anlegerinformationen gemäß Artikel 78 der Richtlinie 2009/65/EG des übernehmenden EU-OGAW,
+2. bei grenzüberschreitender Verschmelzung eine aktuelle Fassung des Verkaufsprospekts gemäß Artikel 69 Absatz 1 und 2 der Richtlinie 2009/65/EG und entweder des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen gemäß Artikel 78 der Richtlinie 2009/65/EG des übernehmenden EU-OGAW,
 
 3. eine Erklärung der Verwahrstellen des übertragenden Sondervermögens und des übernehmenden Sondervermögens oder des EU-OGAW zu ihrer Prüfung nach § 185 Absatz 1 oder bei einer grenzüberschreitenden Verschmelzung gemäß Artikel 41 der Richtlinie 2009/65/EG und
 
@@ -4554,7 +4545,7 @@ Weitere Angaben sind zulässig, können aber nicht von der Bundesanstalt verlang
 
 4. maßgebliche Verfahrensaspekte und den geplanten Übertragungsstichtag, zu dem die Verschmelzung wirksam wird, nach Maßgabe des Artikels 4 Absatz 5 bis 8 der Richtlinie 2010/44/EU und
 
-5. eine aktuelle Fassung der wesentlichen Anlegerinformationen gemäß den §§ 164 und 166 oder gemäß Artikel 78 der Richtlinie 2009/65/EG des übernehmenden Sondervermögens oder EU-OGAW nach Maßgabe des Artikels 5 der Richtlinie 2010/44/EU.
+5. eine aktuelle Fassung des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen gemäß den §§ 164 und 166 oder gemäß Artikel 78 der Richtlinie 2009/65/EG des übernehmenden Sondervermögens oder EU-OGAW nach Maßgabe des Artikels 5 der Richtlinie 2010/44/EU.
 
 Werden zu Beginn der Verschmelzungsinformationen die wesentlichen Punkte der Verschmelzung zusammengefasst, ist darin auf den jeweiligen Abschnitt im Dokument zu verweisen, der die weiteren Informationen enthält. Die Verschmelzungsinformationen sind den Anlegern auf einem dauerhaften Datenträger zu übermitteln und auf der Internetseite der Kapitalverwaltungsgesellschaft zugänglich zu machen. Die Kapitalverwaltungsgesellschaft hat die Übermittlung der Verschmelzungsinformationen an die Anleger im Bundesanzeiger bekannt zu machen; dabei ist mitzuteilen, wo und auf welche Weise weitere Informationen zur Verschmelzung erlangt werden können. Die Übermittlung der Verschmelzungsinformationen gilt drei Tage nach der Aufgabe zur Post oder Absendung als erfolgt. Dies gilt nicht, wenn feststeht, dass der dauerhafte Datenträger den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat.
 
@@ -5875,7 +5866,7 @@ zu ermitteln, wobei
 
 2. bei wirtschaftlicher Betrachtungsweise eine Streuung des Ausfallrisikos gewährleistet ist.
 
-Der geschlossene inländische Publikums-AIF muss spätestens 18 Monate nach Beginn des Vertriebs risikogemischt investiert sein. Für den Zeitraum nach Satz 3, in dem der geschlossene Publikums-AIF noch nicht risikogemischt investiert ist, sind die Anleger in dem Verkaufsprospekt und den wesentlichen Anlegerinformationen gemäß § 268 darauf hinzuweisen.
+Der geschlossene inländische Publikums-AIF muss spätestens 18 Monate nach Beginn des Vertriebs risikogemischt investiert sein. Für den Zeitraum nach Satz 3, in dem der geschlossene Publikums-AIF noch nicht risikogemischt investiert ist, sind die Anleger in dem Verkaufsprospekt darauf hinzuweisen.
 
 (2) Abweichend von Absatz 1 darf die AIF-Kapitalverwaltungsgesellschaft für den geschlossenen inländischen Publikums-AIF ohne Einhaltung des Grundsatzes der Risikomischung investieren, wenn
 
@@ -5887,7 +5878,7 @@ a) die sich verpflichten, mindestens 20 000 Euro zu investieren, und
 
 b) für die die in § 1 Absatz 19 Nummer 33 Buchstabe a Doppelbuchstabe bb bis ee genannten Voraussetzungen erfüllt sind.
 
-Ein nachfolgender Erwerb der Anteile oder Aktien dieses AIF kraft Gesetzes durch einen Privatanleger, der die Anforderungen nach Satz 1 Nummer 2 nicht erfüllt, ist unbeachtlich. Wenn für den geschlossenen inländischen Publikums-AIF ohne Einhaltung des Grundsatzes der Risikomischung investiert wird, müssen der Verkaufsprospekt und die wesentlichen Anlegerinformationen an hervorgehobener Stelle auf das Ausfallrisiko mangels Risikomischung hinweisen.
+Ein nachfolgender Erwerb der Anteile oder Aktien dieses AIF kraft Gesetzes durch einen Privatanleger, der die Anforderungen nach Satz 1 Nummer 2 nicht erfüllt, ist unbeachtlich. Wenn für den geschlossenen inländischen Publikums-AIF ohne Einhaltung des Grundsatzes der Risikomischung investiert wird, müssen der Verkaufsprospekt an hervorgehobener Stelle auf das Ausfallrisiko mangels Risikomischung hinweisen.
 
 # § 263 – Beschränkung von Leverage und Belastung
 
@@ -5903,7 +5894,7 @@ Ein nachfolgender Erwerb der Anteile oder Aktien dieses AIF kraft Gesetzes durch
 
 (4) Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass die Belastung nach Absatz 3 insgesamt 150 Prozent des aggregierten eingebrachten Kapitals und noch nicht eingeforderten zugesagten Kapitals des geschlossenen Publikums-AIF, berechnet auf der Grundlage der Beträge, die nach Abzug sämtlicher direkt oder indirekt von den Anlegern getragener Gebühren, Kosten und Aufwendungen für Anlagen zur Verfügung stehen nicht überschreitet.
 
-(5) Die in den Absätzen 1 und 4 genannten Grenzen gelten nicht während der Dauer des erstmaligen Vertriebs eines geschlossenen inländischen Publikums-AIF, längstens jedoch für einen Zeitraum von 18 Monaten ab Beginn des Vertriebs, sofern dies in den Anlagebedingungen vorgesehen ist. In dem Verkaufsprospekt und den wesentlichen Anlegerinformationen gemäß § 268 sind die Anleger auf die fehlenden Begrenzungen hinzuweisen.
+(5) Die in den Absätzen 1 und 4 genannten Grenzen gelten nicht während der Dauer des erstmaligen Vertriebs eines geschlossenen inländischen Publikums-AIF, längstens jedoch für einen Zeitraum von 18 Monaten ab Beginn des Vertriebs, sofern dies in den Anlagebedingungen vorgesehen ist. In dem Verkaufsprospekt sind die Anleger auf die fehlenden Begrenzungen hinzuweisen.
 
 (+++ § 263 Abs. 2: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
@@ -5949,9 +5940,9 @@ sind vor Ausgabe der Anteile oder Aktien in Textform festzuhalten.
 
 (+++ § 267 Abs. 3: Zur Geltung vgl. § 272g Abs. 3 +++)
 
-# § 268 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
+# § 268 – Erstellung von Verkaufsprospekt und Basisinformationsblatt
 
-(1) Die AIF-Kapitalverwaltungsgesellschaft hat für die von ihr verwalteten geschlossenen Publikums-AIF den Verkaufsprospekt und die wesentlichen Anlegerinformationen zu erstellen. Sobald die AIF-Kapitalverwaltungsgesellschaft mit dem Vertrieb des geschlossenen Publikums-AIF gemäß § 316 beginnen darf, hat sie dem Publikum die aktuelle Fassung des Verkaufsprospekts und der wesentlichen Anlegerinformationen auf der Internetseite der AIF-Kapitalverwaltungsgesellschaft zugänglich zu machen. Die Pflicht zur Erstellung eines Verkaufsprospekts gilt nicht für solche geschlossenen AIF-Publikumsinvestmentaktiengesellschaften, die einen Prospekt nach der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) erstellen müssen und in diesen Prospekt zusätzlich die Angaben gemäß § 269 als ergänzende Informationen aufnehmen.
+(1) Die AIF-Kapitalverwaltungsgesellschaft hat für die von ihr verwalteten geschlossenen Publikums-AIF den Verkaufsprospekt und, falls der geschlossene Publikums-AIF nicht ausschließlich an professionelle Anleger vertrieben wird, das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 zu erstellen. Sobald die AIF-Kapitalverwaltungsgesellschaft mit dem Vertrieb des geschlossenen Publikums-AIF gemäß § 316 beginnen darf, hat sie dem Publikum die aktuelle Fassung des Verkaufsprospekts und des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 auf der Internetseite der AIF-Kapitalverwaltungsgesellschaft zugänglich zu machen. Die Pflicht zur Erstellung eines Verkaufsprospekts gilt nicht für solche geschlossenen AIF-Publikumsinvestmentaktiengesellschaften, die einen Prospekt nach der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) erstellen müssen und in diesen Prospekt zusätzlich die Angaben gemäß § 269 als ergänzende Informationen aufnehmen.
 
 (2) Die wesentlichen Anlegerinformationen sowie die Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten. Bei geschlossenen Publikums-AIF mit einer einmaligen Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
 
@@ -5999,29 +5990,7 @@ c) ein Hinweis, dass in Beteiligungen an ÖPP-Projektgesellschaften, die nicht z
 
 Steht noch nicht fest, in welche konkreten Anlageobjekte investiert werden soll, ist dies im Verkaufsprospekt anzugeben.
 
-# § 270 – Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen
-
-(1) Für die wesentlichen Anlegerinformationen für geschlossene Publikums-AIF gilt § 166 Absatz 1 bis 3 und 5 nach Maßgabe der folgenden Vorschriften entsprechend.
-
-(2) Für geschlossene Publikums-AIF sind die Artikel 3 bis 7, 10 bis 24, 26 bis 30 und 38 der Verordnung (EU) Nr. 583/2010 hinsichtlich der näheren Inhalte, der Form und Gestaltung der wesentlichen Anlegerinformationen entsprechend mit folgenden Maßgaben anzuwenden:
-
-1. sofern bereits feststeht, in welche konkreten Anlageobjekte im Sinne von § 261 Absatz 1 Nummer 1 investiert werden soll, ist zusätzlich zu den in Artikel 7 Absatz 1 der Verordnung (EU) Nr. 583/2010 genannten Mindestangaben eine Beschreibung dieser Anlageobjekte erforderlich. Andernfalls ist die Angabe aufzunehmen, dass noch nicht feststeht, in welche konkreten Anlageobjekte investiert werden soll;
-
-2. in den Fällen, in denen eine Beschreibung von konkreten Anlageobjekten im Sinne von Nummer 1 oder eine Darstellung von Performance-Szenarien erfolgt, ist Artikel 6 der Verordnung (EU) Nr. 583/2010 mit der Maßgabe anzuwenden, dass die wesentlichen Anlegerinformationen ausgedruckt nicht länger als drei Seiten sein dürfen;
-
-3. die in Artikel 10 Absatz 2 Buchstabe b und c der Verordnung (EU) Nr. 583/2010 genannten Kosten umfassen die mit der Anlage in den geschlossenen Publikums-AIF verbundenen Kosten und Provisionen;
-
-4. sofern gemäß Artikel 15 Absatz 4 der Verordnung (EU) Nr. 583/2010 keine Daten über die frühere Wertentwicklung für ein vollständiges Kalenderjahr vorliegen, sind anstelle der bisherigen Wertentwicklung im Sinne von § 166 Absatz 2 Satz 1 Nummer 5 die Aussichten für die Kapitalrückzahlung und Erträge unter verschiedenen Marktbedingungen in Form einer Illustration darzustellen; die Illustration muss mindestens drei zweckmäßige Szenarien der potenziellen Wertentwicklung des geschlossenen Publikums-AIF enthalten;
-
-5. Artikel 4 Absatz 8 und die Artikel 8 und 9 der Verordnung (EU) Nr. 583/2010 sind nicht anzuwenden; die Darstellung des Risiko- und Ertragsprofils nach § 166 Absatz 2 Satz 1 Nummer 3 hat dafür eine Bezeichnung der wesentlichen Risiken und Chancen, die mit einer Anlage verbunden sind, zu enthalten. Dabei ist auf die wesentlichen Risiken, die Einfluss auf das Risikoprofil des geschlossenen Publikums-AIF haben, hinzuweisen; insbesondere sind die Risiken der Investitionen in die Vermögensgegenstände, in die der geschlossene Publikums-AIF investiert, zu bezeichnen. Daneben ist ein Hinweis auf die Beschreibung der wesentlichen Risiken im Verkaufsprospekt aufzunehmen. Die Darstellung muss den Anleger in die Lage versetzen, die Bedeutung und die Wirkung der verschiedenen Risikofaktoren zu verstehen. Die Beschreibung ist in Textform zu erstellen und darf keine grafischen Elemente aufweisen. Daneben sind folgende Angaben aufzunehmen:
-
-a) ein genereller Hinweis, dass mit der Investition in den geschlossenen Publikums-AIF neben den Chancen auf Wertsteigerungen auch Risiken verbunden sein können, und
-
-b) anstelle der Angaben nach Artikel 7 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) Nr. 583/2010 ein Hinweis auf die fehlende oder nur eingeschränkte Möglichkeit der Rückgabe von Anteilen.
-
-(3) Die Ermittlung und die Erläuterung der Risiken im Rahmen des Risiko- und Ertragsprofils nach Absatz 2 Satz 1 Nummer 5 müssen mit dem internen Verfahren zur Ermittlung, Messung und Überwachung von Risiken übereinstimmen, das die AIF-Kapitalverwaltungsgesellschaft im Sinne der Artikel 38 bis 56 der Verordnung (EU) Nr. 231/2013 angewendet hat. Verwaltet eine AIF-Kapitalverwaltungsgesellschaft mehr als ein Investmentvermögen, sind die hiermit verbundenen Risiken einheitlich zu ermitteln und widerspruchsfrei zu erläutern.
-
-(4) Sofern in den Anlagebedingungen eine zusätzliche Verwaltungsvergütung für den Erwerb, die Veräußerung oder die Verwaltung von Vermögensgegenständen nach § 261 Absatz 1 Nummer 1 vereinbart wurde, ist diese Vergütung neben der Gesamtkostenquote nach § 166 Absatz 5 gesondert als Prozentsatz des durchschnittlichen Nettoinventarwertes des geschlossenen Publikums-AIF anzugeben.
+# § 270 – (weggefallen)
 
 # § 271 – Bewertung, Bewertungsverfahren, Bewerter
 
@@ -6067,7 +6036,7 @@ Die Anforderung des Satzes 1 gilt auch für eine Unterbeteiligung an einer Gesel
 
 1. die Anlagebedingungen oder die Satzung des geschlossenen Feederfonds und des geschlossenen Masterfonds,
 
-2. den Verkaufsprospekt und die wesentlichen Anlegerinformationen des geschlossenen Feederfonds und des geschlossenen Masterfonds gemäß den §§ 268 und 270,
+2. den Verkaufsprospekt und das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 des geschlossenen Feederfonds und des geschlossenen Masterfonds gemäß § 268,
 
 3. die Master-Feeder-Vereinbarung oder die entsprechenden internen Regelungen für Geschäftstätigkeiten gemäß § 272d Absatz 1 Satz 2,
 
@@ -6081,7 +6050,7 @@ Die Anforderung des Satzes 1 gilt auch für eine Unterbeteiligung an einer Gesel
 
 1. der Antrag auf Genehmigung der Änderung der Anlagebedingungen unter Bezeichnung des geschlossenen Masterfonds,
 
-2. die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen und
+2. die vorgenommenen Änderungen des Verkaufsprospekts und des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 und
 
 3. die Unterlagen gemäß Absatz 4.
 
@@ -6107,7 +6076,7 @@ Die Genehmigung ist innerhalb einer Frist von vier Wochen nach Eingang des Antra
 
 7. eine Beschreibung der steuerlichen Auswirkungen der Anlage in den geschlossenen Masterfonds für den geschlossenen Feederfonds.
 
-(2) Änderungen des Verkaufsprospektes und der wesentlichen Anlegerinformationen des geschlossenen Masterfonds sind der Bundesanstalt gemäß § 316 Absatz 4 mitzuteilen.
+(2) Änderungen des Verkaufsprospektes und des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 des geschlossenen Masterfonds sind der Bundesanstalt gemäß § 316 Absatz 4 mitzuteilen.
 
 (3) Die Anlagebedingungen des geschlossenen Feederfonds müssen die Bezeichnung des geschlossenen Masterfonds enthalten.
 
@@ -6179,7 +6148,7 @@ a) den Antrag auf Genehmigung des Weiterbestehens,
 
 b) den Antrag auf Genehmigung der Änderung der Anlagebedingungen mit der Bezeichnung des Masterfonds, in dessen Anteile mindestens 85 Prozent des Wertes des Investmentvermögens angelegt werden sollen,
 
-c) die geänderten Stellen des Verkaufsprospekts und der wesentlichen Anlegerinformationen und
+c) die geänderten Stellen des Verkaufsprospekts und des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 und
 
 d) die Angaben und Unterlagen nach § 272a Absatz 3;
 
@@ -6187,7 +6156,7 @@ d) die Angaben und Unterlagen nach § 272a Absatz 3;
 
 a) den Antrag auf Genehmigung der Änderung der Anlagebedingungen,
 
-b) die vorgenommenen Änderungen des Verkaufsprospekts und der wesentlichen Anlegerinformationen.
+b) die vorgenommenen Änderungen des Verkaufsprospekts des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014.
 
 Wenn die Verwaltungsgesellschaft des geschlossenen Masterfonds die Kapitalverwaltungsgesellschaft des geschlossenen Feederfonds mehr als fünf Monate vor dem Beginn der Abwicklung des Masterfonds über ihre verbindliche Entscheidung zur Abwicklung informiert hat, hat die Kapitalverwaltungsgesellschaft des geschlossenen Feederfonds abweichend von der Frist nach Satz 2 den Antrag auf Genehmigung und die Angaben und Unterlagen nach Satz 2 spätestens drei Monate vor der Abwicklung des Masterfonds bei der Bundesanstalt einzureichen.
 
@@ -6211,7 +6180,7 @@ Bankguthaben, die der geschlossene Feederfonds vor Genehmigung nach Absatz 2 als
 
 1. den Hinweis, dass die Bundesanstalt die Anlage des Feederfonds in Anteile des Masterfonds genehmigt hat,
 
-2. die wesentlichen Anlegerinformationen nach den §§ 268 und 270 über den geschlossenen Feederfonds und den geschlossenen Masterfonds und
+2. das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 über den geschlossenen Feederfonds und den geschlossenen Masterfonds und
 
 3. das Datum der ersten Anlage des geschlossenen Feederfonds in dem geschlossenen Masterfonds oder, wenn er bereits in dem Masterfonds angelegt hat, das Datum des Tages, an dem seine Anlagen die bisher für ihn geltenden Anlagegrenzen übersteigen werden.
 
@@ -6786,9 +6755,9 @@ Im Fall von EU-OGAW oder an Privatanleger vertriebener EU-AIF oder ausländische
 
 # § 297 – Verkaufsunterlagen und Hinweispflichten
 
-(1) Dem am Erwerb eines Anteils oder einer Aktie an einem OGAW Interessierten sind rechtzeitig vor Vertragsschluss die wesentlichen Anlegerinformationen in der geltenden Fassung kostenlos zur Verfügung zu stellen. Darüber hinaus sind ihm sowie auch dem Anleger eines OGAW auf Verlangen der Verkaufsprospekt sowie der letzte veröffentlichte Jahres- und Halbjahresbericht kostenlos zur Verfügung zu stellen.
+(1) Dem am Erwerb eines Anteils oder einer Aktie an einem OGAW interessierten professionellen Anleger sind rechtzeitig vor Vertragsschluss die wesentlichen Anlegerinformationen oder das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 jeweils in der geltenden Fassung kostenlos zur Verfügung zu stellen. Darüber hinaus sind einem Interessierten sowie auch dem Anleger eines OGAW auf Verlangen der Verkaufsprospekt sowie der letzte veröffentlichte Jahres- und Halbjahresbericht kostenlos zur Verfügung zu stellen.
 
-(2) Der am Erwerb eines Anteils oder einer Aktie an einem AIF interessierte Privatanleger ist vor Vertragsschluss über den jüngsten Nettoinventarwert des Investmentvermögens oder den jüngsten Marktpreis der Anteile oder Aktien gemäß den §§ 168 und 271 Absatz 1 zu informieren. Ihm sind rechtzeitig vor Vertragsschluss die wesentlichen Anlegerinformationen, der Verkaufsprospekt und der letzte veröffentlichte Jahres- und Halbjahresbericht in der geltenden Fassung kostenlos zur Verfügung zu stellen.
+(2) Der am Erwerb eines Anteils oder einer Aktie an einem AIF interessierte Privatanleger ist vor Vertragsschluss über den jüngsten Nettoinventarwert des Investmentvermögens oder den jüngsten Marktpreis der Anteile oder Aktien gemäß den §§ 168 und 271 Absatz 1 zu informieren. Ihm sind rechtzeitig vor Vertragsschluss der Verkaufsprospekt und der letzte veröffentlichte Jahres- und Halbjahresbericht in der geltenden Fassung kostenlos zur Verfügung zu stellen.
 
 (3) Die Anlagebedingungen und gegebenenfalls die Satzung oder der Gesellschaftsvertrag und der Treuhandvertrag mit dem Treuhandkommanditisten sind dem Verkaufsprospekt von OGAW und AIF beizufügen, es sei denn, dieser enthält einen Hinweis, wo diese im Geltungsbereich dieses Gesetzes kostenlos erhalten werden können.
 
@@ -6806,7 +6775,8 @@ Im Fall von EU-OGAW oder an Privatanleger vertriebener EU-AIF oder ausländische
 
 (+++ § 297: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 +++)  
 (+++ § 297: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 +++)  
-(+++ § 297: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)
+(+++ § 297: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)  
+(+++ § 297 Abs. 7: Zur Geltung vgl. § 307 Abs. 2 Satz 2 +++)
 
 # § 298 – Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW
 
@@ -6908,17 +6878,13 @@ In sonstigen Veröffentlichungen und Werbeschriften über den AIF im Sinne von S
 
 (4) Die AIF-Verwaltungsgesellschaft veröffentlicht in einem im Verkaufsprospekt zu benennenden Informationsmedium die Änderungen, die sich in Bezug auf die Haftung der Verwahrstelle ergeben.
 
-# § 301 – Sonstige Veröffentlichungspflichten
-
-Auf der Internetseite der Kapitalverwaltungsgesellschaft, der EU-Verwaltungsgesellschaft oder der ausländischen AIF-Verwaltungsgesellschaft ist jeweils eine geltende Fassung der wesentlichen Anlegerinformationen zu veröffentlichen.
-
-(+++ § 301: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 296 Abs. 3 Satz 1 +++)
+# § 301 – (weggefallen)
 
 # § 302 – Werbung
 
 (1) Für Werbung für AIF gegenüber Privatanlegern gelten neben den Vorschriften der Artikel 4 Absatz 1, 4 und 5 der Verordnung (EU) 2019/1156 die Regelungen der folgenden Absätze.
 
-(2) Die AIF-Verwaltungsgesellschaft stellt sicher, dass Werbung, die spezifische Informationen zu einem bestimmten, von ihr verwalteten AIF enthält, zu keiner Zeit weder zu den Informationen, die im Verkaufsprospekt dieses AIF enthalten sind, noch zu den in § 166 Absatz 1, § 270 Absatz 1 oder § 318 Absatz 5 genannten wesentlichen Anlegerinformationen dieses AIF im Widerspruch steht oder die Bedeutung der genannten Informationen herabsetzt. Die AIF-Verwaltungsgesellschaft stellt sicher, dass in der Werbung jederzeit darauf hingewiesen wird, dass ein Prospekt existiert und dass die wesentlichen Anlegerinformationen verfügbar sind. Die AIF-Verwaltungsgesellschaft stellt sicher, dass dieser Werbung jederzeit entnommen werden kann, wo, wie und in welcher Sprache Anleger oder potenzielle Anleger den Prospekt und die wesentlichen Anlegerinformationen erhalten können. Die AIF-Verwaltungsgesellschaft stellt sicher, dass die Werbung jederzeit Hyperlinks zu den entsprechenden Dokumenten oder die Adressen der Websites angibt, die die entsprechenden Dokumente enthalten.
+(2) Die AIF-Verwaltungsgesellschaft stellt sicher, dass Werbung, die spezifische Informationen zu einem bestimmten, von ihr verwalteten AIF enthält, zu keiner Zeit weder zu den Informationen, die im Verkaufsprospekt dieses AIF enthalten sind, noch zum Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 dieses AIF im Widerspruch steht oder die Bedeutung der genannten Informationen herabsetzt. Die AIF-Verwaltungsgesellschaft stellt sicher, dass in der Werbung jederzeit darauf hingewiesen wird, dass ein Prospekt existiert und dass das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 verfügbar sind. Die AIF-Verwaltungsgesellschaft stellt sicher, dass dieser Werbung jederzeit entnommen werden kann, wo, wie und in welcher Sprache Anleger oder potenzielle Anleger den Prospekt und das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 erhalten können. Die AIF-Verwaltungsgesellschaft stellt sicher, dass die Werbung jederzeit Hyperlinks zu den entsprechenden Dokumenten oder die Adressen der Websites angibt, die die entsprechenden Dokumente enthalten.
 
 (3) Die AIF-Verwaltungsgesellschaft hat in der in Absatz 2 genannten Werbung jederzeit sicherzustellen, dass Angaben darüber enthalten sind, wo, wie und in welcher Sprache Anleger oder potenzielle Anleger eine Zusammenfassung der Anlegerrechte erhalten können, und Hyperlinks zu den entsprechenden Zusammenfassungen angegeben sind, die gegebenenfalls auch auf Informationen zu im Falle etwaiger Rechtsstreitigkeiten zugänglichen Instrumenten der kollektiven Rechtsdurchsetzung auf nationaler und Unionsebene verweisen. Außerdem hat die AIF-Verwaltungsgesellschaft sicherzustellen, dass in der Werbung eindeutig angegeben wird, dass die AIF-Verwaltungsgesellschaft beschließen kann, den Vertrieb zu widerrufen.
 
@@ -7134,7 +7100,7 @@ c) gegebenenfalls der rechtlichen oder wirtschaftlichen Verbindungen zwischen di
 
 (4) Ist die AIF-Verwaltungsgesellschaft durch die Verordnung (EU) 2017/1129 verpflichtet, einen Wertpapierprospekt zu veröffentlichen, so hat sie die in Absatz 1 genannten Angaben entweder gesondert oder als ergänzende Angaben im Wertpapierprospekt offenzulegen.
 
-(5) Dem am Erwerb eines Anteils oder einer Aktie interessierten semiprofessionellen Anleger sind rechtzeitig vor Vertragsschluss entweder wesentliche Anlegerinformationen nach § 166 oder § 270 oder ein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung zu stellen.
+(5) (weggefallen)
 
 (+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 4 u. § 66 Abs. 4 +++)
 
@@ -7177,15 +7143,15 @@ Angaben über die nach § 306a getroffenen Vorkehrungen und Maßnahmen sind in d
 
 3. die Anlagebedingungen oder die Satzung des EU-OGAW, den Verkaufsprospekt sowie den letzten Jahresbericht und den anschließenden Halbjahresbericht gemäß Artikel 93 Absatz 2 Buchstabe a der Richtlinie 2009/65/EG und
 
-4. die in Artikel 78 der Richtlinie 2009/65/EG genannten wesentlichen Anlegerinformationen.
+4. das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die in Artikel 78 der Richtlinie 2009/65/EG genannten wesentlichen Anlegerinformationen.
 
 Der Vertrieb kann aufgenommen werden, wenn die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft von der zuständigen Stelle des Herkunftsmitgliedstaates des EU-OGAW über diese Übermittlung unterrichtet wurde. Die näheren Inhalte, die Form und die Gestaltung des Anzeigeverfahrens bestimmen sich nach den Artikeln 1 bis 5 der Verordnung (EU) Nr. 584/2010.
 
-(2) Die in Absatz 1 Satz 1 Nummer 3 genannten Unterlagen sind entweder in deutscher Sprache oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache vorzulegen. Die in Absatz 1 Satz 1 Nummer 4 genannten wesentlichen Anlegerinformationen sind in deutscher Sprache vorzulegen. Verantwortlich für die Übersetzungen ist die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft; der Inhalt der ursprünglichen Informationen muss richtig und vollständig wiedergeben werden. Das Anzeigeschreiben gemäß Absatz 1 Satz 1 Nummer 1 und die Bescheinigung gemäß Absatz 1 Satz 1 Nummer 2 sind in einer in internationalen Finanzkreisen gebräuchlichen Sprache vorzulegen, sofern die Bundesanstalt und die zuständige Stelle des Herkunftsmitgliedstaates nicht vereinbart haben, dass diese in einer Amtssprache beider Mitgliedstaaten übermittelt werden können.
+(2) Die in Absatz 1 Satz 1 Nummer 3 genannten Unterlagen sind entweder in deutscher Sprache oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache vorzulegen. Das in Absatz 1 Satz 1 Nummer 4 genannte Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die dort genannten wesentlichen Anlegerinformationen sind in deutscher Sprache vorzulegen. Verantwortlich für die Übersetzungen ist die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft; der Inhalt der ursprünglichen Informationen muss richtig und vollständig wiedergeben werden. Das Anzeigeschreiben gemäß Absatz 1 Satz 1 Nummer 1 und die Bescheinigung gemäß Absatz 1 Satz 1 Nummer 2 sind in einer in internationalen Finanzkreisen gebräuchlichen Sprache vorzulegen, sofern die Bundesanstalt und die zuständige Stelle des Herkunftsmitgliedstaates nicht vereinbart haben, dass diese in einer Amtssprache beider Mitgliedstaaten übermittelt werden können.
 
 (3) Die Bundesanstalt verlangt im Rahmen des Anzeigeverfahrens keine zusätzlichen Unterlagen, Zertifikate oder Informationen, die nicht in Artikel 93 der Richtlinie 2009/65/EG vorgesehen sind.
 
-(4) Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft hat die Bundesanstalt über Änderungen der Anlagebedingungen oder der Satzung, des Verkaufsprospekts, des Jahresberichts, des Halbjahresberichts und der wesentlichen Anlegerinformationen gemäß Artikel 78 der Richtlinie 2009/65/EG jeweils unverzüglich zu unterrichten und unverzüglich darüber zu informieren, wo diese Unterlagen in elektronischer Form verfügbar sind. Die Bundesanstalt hat eine E-Mail-Adresse anzugeben, an die die Aktualisierungen und Änderungen sämtlicher in Satz 1 genannter Unterlagen übermittelt werden müssen. Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft hat bei der Übersendung die Änderungen oder Aktualisierungen zu beschreiben oder eine geänderte Fassung des jeweiligen Dokuments als Anlage in einem gebräuchlichen elektronischen Format beizufügen.
+(4) Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft hat die Bundesanstalt über Änderungen der Anlagebedingungen oder der Satzung, des Verkaufsprospekts, des Jahresberichts, des Halbjahresberichts sowie des Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014 oder der wesentlichen Anlegerinformationen gemäß Artikel 78 der Richtlinie 2009/65/EG jeweils unverzüglich zu unterrichten und unverzüglich darüber zu informieren, wo diese Unterlagen in elektronischer Form verfügbar sind. Die Bundesanstalt hat eine E-Mail-Adresse anzugeben, an die die Aktualisierungen und Änderungen sämtlicher in Satz 1 genannter Unterlagen übermittelt werden müssen. Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft hat bei der Übersendung die Änderungen oder Aktualisierungen zu beschreiben oder eine geänderte Fassung des jeweiligen Dokuments als Anlage in einem gebräuchlichen elektronischen Format beizufügen.
 
 (5) Werden Informationen über die Modalitäten der Vermarktung oder vertriebene Anteil- oder Aktienklassen, die im Anzeigeschreiben gemäß Artikel 93 Absatz 1 der Richtlinie 2009/65/EG mitgeteilt wurden, geändert, so teilt die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft diese Änderung der Bundesanstalt vor Umsetzung der Änderung in Textform mit.
 
@@ -7217,7 +7183,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 1. die Anlagebedingungen und gegebenenfalls die Satzung, der Verkaufsprospekt sowie der letzte Jahresbericht und der anschließende Halbjahresbericht,
 
-2. die wesentlichen Anlegerinformationen gemäß § 166,
+2. das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die wesentlichen Anlegerinformationen gemäß § 166,
 
 3. die Angaben, die für die Inrechnungstellung oder die Mitteilung etwaiger geltender behördlicher Gebühren oder Entgelte durch die zuständigen Behörden des Aufnahmestaates erforderlich sind, einschließlich der Anschrift, und Angaben zu den Einrichtungen, die für die Ausübung der in § 306a Absatz 1 genannten Aufgaben zuständig sind.
 
@@ -7231,7 +7197,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 4. in eine in internationalen Finanzkreisen gebräuchliche Sprache.
 
-(3) Die wesentlichen Anlegerinformationen sind in der Amtssprache oder in einer der Amtssprachen des Aufnahmestaates oder in einer von den zuständigen Stellen des Aufnahmestaates akzeptierten Sprache vorzulegen. Verantwortlich für die Übersetzung ist die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft; die Übersetzung muss den Inhalt der ursprünglichen Informationen richtig und vollständig wiedergeben.
+(3) Das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 oder die wesentlichen Anlegerinformationen sind in der Amtssprache oder in einer der Amtssprachen des Aufnahmestaates oder in einer von den zuständigen Stellen des Aufnahmestaates akzeptierten Sprache vorzulegen. Verantwortlich für die Übersetzung ist die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft; die Übersetzung muss den Inhalt der ursprünglichen Informationen richtig und vollständig wiedergeben.
 
 (4) Die Bundesanstalt prüft, ob die gemäß Absatz 1 übermittelten Unterlagen vollständig sind. Fehlende Angaben und Unterlagen fordert sie innerhalb von zehn Arbeitstagen als Ergänzungsanzeige an. Die Ergänzungsanzeige ist der Bundesanstalt innerhalb von sechs Monaten nach der Erstattung der Anzeige oder der letzten Ergänzungsanzeige einzureichen; anderenfalls ist eine Übermittlung der Anzeige nach Absatz 5 ausgeschlossen. Die Frist nach Satz 3 ist eine Ausschlussfrist. Eine erneute Anzeige ist jederzeit möglich.
 
@@ -7327,9 +7293,9 @@ Die in Satz 1 Nummer 1 und 2 genannten Angebote und Bekanntmachungen enthalten e
 
 3. die Angabe der Verwahrstelle oder einen Verweis auf die von der Bundesanstalt gemäß den §§ 87, 69 Absatz 1 genehmigte Verwahrstelle des angezeigten AIF;
 
-4. den Verkaufsprospekt und die wesentlichen Anlegerinformationen des angezeigten AIF;
+4. den Verkaufsprospekt und das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 des angezeigten AIF;
 
-5. falls es sich bei dem angezeigten AIF um einen Feederfonds oder geschlossenen Feederfonds handelt, einen Verweis auf die von der Bundesanstalt genehmigten Anlagebedingungen des Masterfonds oder geschlossenen Masterfonds, einen Verweis auf die von der Bundesanstalt gemäß § 87 in Verbindung mit § 69 genehmigte Verwahrstelle des Masterfonds oder geschlossenen Masterfonds, den Verkaufsprospekt und die wesentlichen Anlegerinformationen des Masterfonds oder geschlossenen Masterfonds sowie die Angabe, ob der Masterfonds oder geschlossene Masterfonds im Geltungsbereich dieses Gesetzes an Privatanleger vertrieben werden darf.
+5. falls es sich bei dem angezeigten AIF um einen Feederfonds oder geschlossenen Feederfonds handelt, einen Verweis auf die von der Bundesanstalt genehmigten Anlagebedingungen des Masterfonds oder geschlossenen Masterfonds, einen Verweis auf die von der Bundesanstalt gemäß § 87 in Verbindung mit § 69 genehmigte Verwahrstelle des Masterfonds oder geschlossenen Masterfonds, den Verkaufsprospekt und das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 des Masterfonds oder geschlossenen Masterfonds sowie die Angabe, ob der Masterfonds oder geschlossene Masterfonds im Geltungsbereich dieses Gesetzes an Privatanleger vertrieben werden darf.
 
 (2) Die Bundesanstalt prüft, ob die gemäß Absatz 1 übermittelten Angaben und Unterlagen vollständig sind. Fehlende Angaben und Unterlagen fordert die Bundesanstalt innerhalb einer Frist von 20 Arbeitstagen nach dem Tag, an dem sämtliche der folgenden Voraussetzungen vorliegen, als Ergänzungsanzeige an:
 
@@ -7347,7 +7313,9 @@ Mit Eingang der Ergänzungsanzeige beginnt die in Satz 2 genannte Frist erneut. 
 
 (5) Betrifft die Änderung nach Absatz 4 einen wichtigen neuen Umstand oder eine wesentliche Unrichtigkeit in Bezug auf die im Verkaufsprospekt eines geschlossenen inländischen Publikums-AIF enthaltenen Angaben, die die Beurteilung des Investmentvermögens oder der AIF-Kapitalverwaltungsgesellschaft beeinflussen könnten, so ist diese Änderung auch als Nachtrag zum Verkaufsprospekt, der den Empfänger des Widerrufs bezeichnen sowie einen Hinweis, wo der Nachtrag zur kostenlosen Ausgabe bereitgehalten wird, und an hervorgehobener Stelle auch eine Belehrung über das Widerrufsrecht enthalten muss, unverzüglich im Bundesanzeiger und in einer hinreichend verbreiteten Wirtschafts- oder Tageszeitung oder in den im Verkaufsprospekt zu bezeichneten elektronischen Informationsmedien zu veröffentlichen.
 
+(+++ § 316 Abs. 2 u. 3: Zur Anwendung vgl. § 320 Abs. 2 Eingangssatz +++)  
 (+++ § 316 Abs. 4 Satz 1 bis 3: Zur Anwendung vgl. § 320 Abs. 4 Satz 1 +++)  
+(+++ § 316 Abs. 5: Zur Geltung vgl. § 320 Abs. 4 Satz 3 +++)  
 § 316 Abs. 1 Satz 2 Nr. 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "geschlossenen" durch das Wort "geschlossene" ersetzt
 
 # § 317 – Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger
@@ -7429,7 +7397,7 @@ c) einen wirksamen Informationsaustausch gewährleisten, der es der Bundesanstal
 
 5. die in § 175 oder § 272d vorgesehenen Vereinbarungen wurden abgeschlossen.
 
-# § 318 – Verkaufsprospekt und wesentliche Anlegerinformationen beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
+# § 318 – Verkaufsprospekt beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
 
 (1) Der Verkaufsprospekt des EU-AIF oder des ausländischen AIF muss mit einem Datum versehen sein und alle Angaben enthalten, die zum Zeitpunkt der Antragstellung für die Beurteilung der Anteile oder Aktien des EU-AIF oder des ausländischen AIF von wesentlicher Bedeutung sind. Er muss zumindest die in § 165 Absatz 2 bis 7 und 9 geforderten Angaben enthalten. Der Verkaufsprospekt eines geschlossenen AIF muss keine Angaben entsprechend § 165 Absatz 3 Nummer 2 und Absatz 4 bis 7, dafür aber Angaben entsprechend § 269 Absatz 2 Nummer 2 und 3 und Absatz 3 sowie einen Hinweis enthalten, wie die Anteile oder Aktien übertragen werden können und gegebenenfalls Hinweise entsprechend § 262 Absatz 1 Satz 4, § 262 Absatz 2 Satz 3, § 263 Absatz 5 Satz 2 und gegebenenfalls einen Hinweis, in welcher Weise ihre freie Handelbarkeit eingeschränkt ist. Der Verkaufsprospekt eines Feeder-AIF muss zusätzlich die Angaben nach § 173 Absatz 1 oder § 272b Absatz 1 enthalten. Darüber hinaus muss der Verkaufsprospekt eines EU-AIF oder ausländischen AIF insbesondere Angaben enthalten
 
@@ -7451,9 +7419,9 @@ Der Verkaufsprospekt muss ferner ausdrückliche Hinweise darauf enthalten, dass 
 
 2. bei offenen AIF, wenn der Stichtag des Jahresberichts länger als acht Monate zurückliegt, auch ein Halbjahresbericht nach § 299 Absatz 1 Satz 1 Nummer 4.
 
-(5) Für EU-AIF und ausländische AIF sind wesentliche Anlegerinformationen zu erstellen. Für offene EU-AIF und offene ausländische AIF gilt § 166 Absatz 1 bis 5 und für geschlossene EU-AIF und geschlossene ausländische AIF gilt § 270 entsprechend. Für die wesentlichen Anlegerinformationen von EU-AIF und ausländischen AIF, die Immobilien-Sondervermögen oder Infrastruktur-Sondervermögen entsprechen, sind die Anforderungen nach § 166 Absatz 6 und von EU-AIF und ausländischen AIF, die Dach-Hedgefonds nach § 225 entsprechen, sind die Anforderungen nach § 166 Absatz 7 zu beachten.
+(5) (weggefallen)
 
-(6) Die wesentlichen Anlegerinformationen sowie Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten. Bei geschlossenen AIF mit einer einmaligen Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
+(6) Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten. Bei geschlossenen AIF mit einer einmaligen Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
 
 # § 319 – Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
 
@@ -7475,7 +7443,7 @@ b) einer ausländischen AIF-Verwaltungsgesellschaft vor dem Zeitpunkt, auf den i
 
 2. alle wesentlichen Angaben zur AIF-Verwaltungsgesellschaft, zum AIF, zum Repräsentanten, zur Verwahrstelle und zur Zahlstelle sowie die Bestätigungen des Repräsentanten, der Verwahrstelle und der Zahlstelle über die Übernahme dieser Funktionen; Angaben zur Verwahrstelle sind nur insoweit erforderlich, als sie von der Bescheinigung nach Nummer 1 Buchstabe a nicht erfasst werden;
 
-3. die Anlagebedingungen, die Satzung oder den Gesellschaftsvertrag des EU-AIF oder ausländischen AIF, seinen Geschäftsplan, der auch die wesentlichen Angaben zu seinen Organen enthält, sowie den Verkaufsprospekt und die wesentliche Anlegerinformationen und alle weiteren für den Anleger verfügbaren Informationen über den angezeigten AIF sowie wesentliche Angaben über die für den Vertrieb im Geltungsbereich dieses Gesetzes vorgesehenen Vertriebsgesellschaften;
+3. die Anlagebedingungen, die Satzung oder den Gesellschaftsvertrag des EU-AIF oder ausländischen AIF, seinen Geschäftsplan, der auch die wesentlichen Angaben zu seinen Organen enthält, sowie den Verkaufsprospekt, das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014 und alle weiteren für den Anleger verfügbaren Informationen über den angezeigten AIF sowie wesentliche Angaben über die für den Vertrieb im Geltungsbereich dieses Gesetzes vorgesehenen Vertriebsgesellschaften;
 
 4. den letzten Jahresbericht, der den Anforderungen des § 299 Absatz 1 Satz 1 Nummer 3 entsprechen muss, und, wenn der Stichtag des Jahresberichts länger als acht Monate zurückliegt und es sich nicht um einen geschlossenen AIF handelt, auch der anschließende Halbjahresbericht, der den Anforderungen des § 299 Absatz 1 Satz 1 Nummer 4 entsprechen muss; der Jahresbericht muss mit dem Bestätigungsvermerk eines Wirtschaftsprüfers versehen sein;
 
@@ -7532,6 +7500,8 @@ beträgt.
 5. Angaben zum Sitz des Master-AIF und seiner Verwaltungsgesellschaft, falls es sich bei dem angezeigten AIF um einen Feeder-AIF handelt;
 
 6. alle in § 307 Absatz 1 genannten weiteren Informationen für jeden angezeigten AIF;
+
+6a. im Fall des beabsichtigten Vertriebs an semiprofessionelle Anleger das Basisinformationsblatt gemäß Verordnung (EU) Nr. 1286/2014;
 
 7. Angaben zu den Vorkehrungen, die getroffen wurden, um zu verhindern, dass Anteile oder Aktien des angezeigten AIF an Privatanleger vertrieben werden, insbesondere wenn die AIF-Kapitalverwaltungsgesellschaft für die Erbringung von Wertpapierdienstleistungen für den angezeigten AIF auf unabhängige Unternehmen zurückgreift.
 
@@ -8188,7 +8158,7 @@ einen Leerverkauf durchführt,
 
 72. entgegen § 264 Absatz 1 Satz 1 nicht dafür sorgt, dass die genannte Verfügungsbeschränkung in das Grundbuch oder ein dort genanntes Register eingetragen wird,
 
-73. entgegen § 268 Absatz 1 Satz 1 einen dort genannten Verkaufsprospekt oder die wesentlichen Anlegerinformationen nicht, nicht richtig oder nicht vollständig erstellt oder entgegen § 268 Absatz 1 Satz 2 einen dort genannten Verkaufsprospekt oder die wesentlichen Anlegerinformationen dem Publikum nicht, nicht richtig oder nicht vollständig zugänglich macht,
+73. entgegen § 268 Absatz 1 Satz 1 einen dort genannten Verkaufsprospekt nicht, nicht richtig oder nicht vollständig erstellt oder entgegen § 268 Absatz 1 Satz 2 einen dort genannten Verkaufsprospekt dem Publikum nicht, nicht richtig oder nicht vollständig zugänglich macht,
 
 74. entgegen § 282 Absatz 2 Satz 1 in einen dort genannten Vermögensgegenstand investiert,
 
@@ -8218,7 +8188,7 @@ einen Leerverkauf durchführt,
 
 79d. entgegen § 306b Absatz 3 Satz 1 oder Absatz 4 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-80. entgegen § 307 Absatz 5 die wesentlichen Anlegerinformationen dem semiprofessionellen Anleger nicht rechtzeitig zur Verfügung stellt, falls er kein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung stellt,
+80. (weggefallen)
 
 81. entgegen § 312 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 

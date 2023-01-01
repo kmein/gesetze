@@ -185,7 +185,7 @@ Herstellung von Arzneimitteln zur parenteralen Anwendung
 
 § 35a
 
-Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken
+Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
 
 Fünfter Abschnitt
 
@@ -287,7 +287,7 @@ d) über Medizinprodukte,
 
 2. die Durchführung von einfachen Gesundheitstests,
 
-2a. die Vorbereitung und Durchführung von Grippeschutzimpfungen,
+2a. die Vorbereitung und Durchführung von Schutzimpfungen,
 
 3. das patientenindividuelle Anpassen von Medizinprodukten sowie
 
@@ -304,6 +304,8 @@ d) über Medizinprodukte,
 (16) Validierung ist das Erbringen eines dokumentierten Nachweises, der mit hoher Sicherheit belegt, dass durch einen spezifischen Prozess oder ein Standardarbeitsverfahren ein Arzneimittel hergestellt und geprüft wird, das den vorher festgelegten Qualitätsmerkmalen entspricht.
 
 (17) Herstellen im geschlossenen System ist die Überführung steriler Ausgangsmaterialien oder Lösungen in ein vorsterilisiertes geschlossenes Behältnis, ohne dass der Inhalt dabei mit der äußeren Umgebung in Kontakt kommt.
+
+(18) Schutzimpfungen im Sinne dieser Verordnung sind Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2.
 
 # § 2 – Apothekenleiter
 
@@ -323,17 +325,17 @@ d) über Medizinprodukte,
 
 (3) Der Apothekenleiter hat der zuständigen Behörde jede weitere berufliche oder gewerbsmäßige Tätigkeit anzuzeigen, bevor sie aufgenommen wird.
 
-(3a) Der Apothekenleiter hat sicherzustellen, dass Grippeschutzimpfungen nur durchgeführt werden, wenn
+(3a) Der Apothekenleiter hat sicherzustellen, dass Schutzimpfungen nur durchgeführt werden, wenn
 
-1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind,
+1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
 
-2. die Grippeschutzimpfungen durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind,
+2. die Schutzimpfungen durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
 
-3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Grippeschutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird, und
+3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird, und
 
-4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung der Grippeschutzimpfung abdeckt.
+4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung der Schutzimpfungen abdeckt.
 
-Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Grippeschutzimpfungen und die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich der Durchführung von Grippeschutzimpfungen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung anzuzeigen.
+Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich der Durchführung von Schutzimpfungen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung anzuzeigen.
 
 (4) Der Apothekenleiter darf neben Arzneimitteln und apothekenpflichtigen Medizinprodukten die in § 1a Absatz 10 genannten Waren nur in einem Umfang anbieten oder feilhalten, der den ordnungsgemäßen Betrieb der Apotheke und den Vorrang des Arzneimittelversorgungsauftrages nicht beeinträchtigt. Satz 1 ist auf die apothekenüblichen Dienstleistungen nach § 1a Absatz 11 entsprechend anzuwenden.
 
@@ -363,7 +365,7 @@ Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Grippesc
 
 (2) Zur Gewährleistung eines ordnungsgemäßen Betriebs der Apotheke muss das notwendige Personal, insbesondere auch das pharmazeutische Personal, in ausreichender Zahl vorhanden sein. Das zur Versorgung eines Krankenhauses zusätzlich erforderliche Personal ergibt sich aus Art und Umfang einer medizinisch zweckmäßigen und ausreichenden Versorgung des Krankenhauses mit Arzneimitteln und apothekenpflichtigen Medizinprodukten unter Berücksichtigung von Größe, Art und Leistungsstruktur des Krankenhauses. Satz 2 gilt entsprechend für die Versorgung von Einrichtungen im Sinne von § 12a des Apothekengesetzes.
 
-(3) (weggefallen)
+(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein Apotheker oder eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte Person anwesend ist. § 23 Absatz 3 bleibt unberührt.
 
 (4) Die Bewertung der Analyse und die Beratung im Rahmen eines Medikationsmanagements müssen durch einen Apotheker der Apotheke erfolgen.
 
@@ -382,6 +384,24 @@ Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Grippesc
 5. bei der Vorbereitung der Arzneimittel zur Abgabe.
 
 Das zur Herstellung nach Satz 1 oder zur Unterstützung nach Satz 2 eingesetzte Personal muss für diese Aufgaben entsprechend qualifiziert sein und über die bei den jeweiligen Tätigkeiten gebotene Sorgfalt nachweislich zu Anfang und danach fortlaufend vom pharmazeutischen Personal unterwiesen werden.
+
+(5b) Abweichend von Absatz 5 Satz 3 entfällt die Pflicht zur Beaufsichtigung eines pharmazeutisch-technischen Assistenten bei der Ausführung pharmazeutischer Tätigkeiten, wenn
+
+1. der pharmazeutisch-technische Assistent
+
+a) seine Berufstätigkeit in Apotheken mindestens drei Jahre in Vollzeit oder in entsprechendem Umfang in Teilzeit ausgeübt hat und die staatliche Prüfung mindestens mit der Gesamtnote „gut“ bestanden hat oder seine Berufstätigkeit in Apotheken mindestens fünf Jahre in Vollzeit oder in entsprechendem Umfang in Teilzeit ausgeübt hat und
+
+b) über ein gültiges Fortbildungszertifikat einer Apothekerkammer als Nachweis seiner regelmäßigen Fortbildung verfügt und
+
+2. der Apothekenleiter
+
+a) sich im Rahmen einer mindestens einjährigen Berufstätigkeit des pharmazeutisch-technischen Assistenten in seinem Verantwortungsbereich nach § 2 Absatz 2 vergewissert hat, dass der pharmazeutisch-technische Assistent die pharmazeutischen Tätigkeiten ohne Beaufsichtigung zuverlässig ausführen kann, und
+
+b) nach schriftlicher Anhörung des pharmazeutisch-technischen Assistenten Art und Umfang der pharmazeutischen Tätigkeiten schriftlich oder elektronisch festgelegt hat, für die die Pflicht zur Beaufsichtigung entfällt.
+
+Pharmazeutisch-technische Assistenten, die ihre Berufsqualifikation oder Fortbildungszertifikate im Ausland erworben oder ihren Beruf im Ausland ausgeübt haben, müssen eine Berufsqualifikation, eine Fortbildung sowie eine Berufserfahrung nachweisen, die den Maßstäben des Satzes 1 entsprechen. Die Pflicht zur Beaufsichtigung nach Absatz 5 Satz 3 entfällt nicht bei der Herstellung von Arzneimitteln zur parenteralen Anwendung, beim patientenindividuellen Stellen oder Verblistern von Arzneimitteln sowie bei der Abgabe von Betäubungsmitteln, von Arzneimitteln mit den Wirkstoffen Lenalidomid, Pomalidomid oder Thalidomid und von Arzneimitteln, die nach § 73 Absatz 3 oder Absatz 3b des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbracht werden. Absatz 1 bleibt unberührt.
+
+(5c) Die Pflicht zur Beaufsichtigung nach Absatz 5 Satz 3 entsteht erneut, soweit der Apothekenleiter auf Grund nachträglich eingetretener Umstände nicht mehr sicher ist, dass der pharmazeutisch-technische Assistent die jeweilige pharmazeutische Tätigkeit ohne Beaufsichtigung zuverlässig ausführen kann, oder der pharmazeutisch-technische Assistent über kein gültiges Fortbildungszertifikat einer Apothekerkammer als Nachweis seiner regelmäßigen Fortbildung mehr verfügt. Die schriftliche oder elektronische Festlegung nach Absatz 5b Satz 1 Nummer 2 Buchstabe b ist nach schriftlicher Anhörung des pharmazeutisch-technischen Assistenten entsprechend anzupassen.
 
 (6) Zur Versorgung eines Krankenhauses mit Ausnahme der Zustellung darf der Apothekenleiter nur Personal einsetzen, das in seinem Betrieb tätig ist. Satz 1 findet entsprechende Anwendung auf die Versorgung von Bewohnern einer zu versorgenden Einrichtung im Sinne des § 12a des Apothekengesetzes.
 
@@ -541,7 +561,7 @@ Die Plausibilitätsprüfung ist von einem Apotheker oder im Vertretungsfall nach
 
 6. bei Rezepturarzneimitteln, die auf Kundenanforderung hergestellt werden, den Namen des Kunden sowie
 
-7. den Namen der Person, die das Rezepturarzneimittel hergestellt hat.
+7. das Namenszeichen der Person, die das Rezepturarzneimittel hergestellt hat, und, falls ein pharmazeutisch-technischer Assistent die Herstellung unter Beaufsichtigung durchgeführt hat, das Namenszeichen des Apothekers, der die Herstellung beaufsichtigt hat.
 
 Anstelle des Namens des Patienten, Tierhalters oder Kunden nach Satz 1 Nummer 4, 5 oder 6 kann auch eine Bezug nehmende Herstellnummer dokumentiert werden. Das Herstellungsprotokoll ist von einem Apotheker oder im Vertretungsfall nach § 2 Absatz 6 von der zur Vertretung berechtigten Person mit dem Ergebnis der für die Freigabe vorgenommenen organoleptischen Prüfung und seiner Bestätigung zu ergänzen, dass das angefertigte Arzneimittel dem angeforderten Rezepturarzneimittel entspricht (Freigabe). Die Freigabe muss vor der Abgabe an den Patienten erfolgen.
 
@@ -575,17 +595,21 @@ Anstelle des Namens des Patienten, Tierhalters oder Kunden nach Satz 1 Nummer 4,
 
 6. das Verfalldatum oder das Nachtestdatum sowie
 
-7. die Unterschrift der Person, die das Arzneimittel hergestellt hat.
+7. das Namenszeichen der Person, die das Arzneimittel hergestellt hat, und, falls ein pharmazeutisch-technischer Assistent die Herstellung unter Beaufsichtigung durchgeführt hat, das Namenszeichen des Apothekers, der die Herstellung beaufsichtigt hat.
 
 Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu ergänzen, dass die angefertigten Arzneimittel der Herstellungsanweisung entsprechen (Freigabe).
 
 (3) Für die Prüfung von Defekturarzneimitteln ist eine Prüfanweisung anzufertigen, die von einem Apotheker der Apotheke zu unterschreiben ist. Die Prüfanweisung muss mindestens Angaben enthalten zur Probenahme, zur Prüfmethode und zu der Art der Prüfungen, einschließlich der zulässigen Soll- oder Grenzwerte.
 
-(4) Die Prüfung ist gemäß der Prüfanweisung nach Absatz 3 durchzuführen und von der Person zu dokumentieren, die die Prüfung durchgeführt hat (Prüfprotokoll). Das Prüfprotokoll muss die zugrunde liegende Prüfanweisung nennen und insbesondere Angaben enthalten
+(4) Die Prüfung ist gemäß der Prüfanweisung nach Absatz 3 durchzuführen und von der Person zu dokumentieren, die die Prüfung durchgeführt hat (Prüfprotokoll). Das Prüfprotokoll muss die zugrunde liegende Prüfanweisung nennen und insbesondere folgende Angaben enthalten:
 
-1. zum Datum der Prüfung,
+1. das Datum der Prüfung,
 
-2. zu den Prüfergebnissen und deren Freigabe durch den verantwortlichen Apotheker, der die Prüfung durchgeführt oder beaufsichtigt hat.
+2. die Prüfergebnisse,
+
+3. das Namenszeichen des Prüfenden und, falls ein pharmazeutisch-technischer Assistent die Prüfung unter Beaufsichtigung durchgeführt hat, das Namenszeichen des Apothekers, der die Prüfung beaufsichtigt hat, sowie
+
+4. die Freigabe durch die Unterschrift eines Apothekers der Apotheke.
 
 # §§ 9 und 10 – (weggefallen)
 
@@ -595,7 +619,7 @@ Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu erg
 
 (1) Zur Herstellung von Arzneimitteln dürfen nur Ausgangsstoffe verwendet werden, deren ordnungsgemäße Qualität festgestellt ist. Auf die Prüfung der Ausgangsstoffe finden die Vorschriften des § 6 Absatz 1 und 3 entsprechende Anwendung.
 
-(2) Werden Ausgangsstoffe bezogen, deren Qualität durch ein Prüfzertifikat nach § 6 Abs. 3 nachgewiesen ist, ist in der Apotheke mindestens die Identität festzustellen. Das Prüfzertifikat soll auch Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben, soweit es sich um einen Wirkstoff handelt. Die Verantwortung des Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen sind Aufzeichnungen mit Namenszeichen des prüfenden oder die Prüfung beaufsichtigenden Apothekers zu machen.
+(2) Werden Ausgangsstoffe bezogen, deren Qualität durch ein Prüfzertifikat nach § 6 Abs. 3 nachgewiesen ist, ist in der Apotheke mindestens die Identität festzustellen. Das Prüfzertifikat soll auch Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben, soweit es sich um einen Wirkstoff handelt. Die Verantwortung des Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen sind Aufzeichnungen zu machen; § 8 Absatz 4 Satz 2 gilt entsprechend.
 
 (3) Werden Arzneimittel, die keine Fertigarzneimittel sind, zur Herstellung anderer Arzneimittel bezogen, gelten die Absätze 1 und 2 entsprechend.
 
@@ -619,7 +643,7 @@ Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu erg
 
 4. das Datum und die Ergebnisse der Prüfung,
 
-5. das Namenszeichen des prüfenden oder die Prüfung beaufsichtigenden Apothekers.
+5. das Namenszeichen des Prüfenden und, falls ein pharmazeutisch-technischer Assistent die Prüfung unter Beaufsichtigung durchgeführt hat, das Namenszeichen des Apothekers, der die Prüfung beaufsichtigt hat.
 
 # § 13 – Behältnisse
 
@@ -797,7 +821,7 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 5. das in § 300 Abs. 3 Nr. 1 des Fünften Buches Sozialgesetzbuch genannte bundeseinheitliche Kennzeichen für das abgegebene Fertigarzneimittel, soweit es zur Anwendung bei Menschen bestimmt ist.
 
-Abweichend von Nummer 2 kann der Apothekenleiter nach Maßgabe des § 3 Abs. 5 die Befugnis zum Abzeichnen von Verschreibungen auf pharmazeutisch-technische Assistenten übertragen. Der pharmazeutisch-technische Assistent hat in den Fällen des Absatzes 5 Satz 3 und bei Verschreibungen, die nicht in der Apotheke verbleiben, die Verschreibung vor, in allen übrigen Fällen unverzüglich nach der Abgabe der Arzneimittel einem Apotheker vorzulegen.
+Abweichend von Nummer 2 kann der Apothekenleiter nach Maßgabe des § 3 Abs. 5 die Befugnis zum Abzeichnen von Verschreibungen auf pharmazeutisch-technische Assistenten übertragen. Der pharmazeutisch-technische Assistent hat in den Fällen des Absatzes 5 Satz 3 und bei Verschreibungen, die nicht in der Apotheke verbleiben, die Verschreibung vor, in allen übrigen Fällen unverzüglich nach der Abgabe der Arzneimittel einem Apotheker vorzulegen. Die Pflicht zur Vorlage entfällt und entsteht erneut entsprechend den Regelungen in § 3 Absatz 5b und 5c.
 
 (6a) Bei dem Erwerb und der Abgabe von Blutzubereitungen, Sera aus menschlichem Blut und Zubereitungen aus anderen Stoffen menschlicher Herkunft sowie Arzneimitteln zur spezifischen Therapie von Gerinnungsstörungen bei Hämophilie sind zum Zwecke der Rückverfolgung folgende Angaben aufzuzeichnen:
 
@@ -1035,7 +1059,7 @@ Der Leiter der Krankenhausapotheke ist Mitglied der Arzneimittelkommission des K
 
 (2) Für den Einsatz des Apothekenpersonals ist der Leiter der Krankenhausapotheke verantwortlich.
 
-(3) Die Vorschriften des § 3 Absatz 1, 5 und 6 gelten entsprechend.
+(3) Die Vorschriften des § 3 Absatz 1, 5, 5b, 5c und 6 gelten entsprechend.
 
 # § 29 – Räume und Einrichtung der Krankenhausapotheke
 
@@ -1057,7 +1081,7 @@ Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Kran
 
 (3) Arzneimittel aus zur Abgabe an den Verbraucher bestimmten Packungen dürfen nur dann ohne äußere Umhüllung abgegeben werden, wenn auf dem Behältnis die Bezeichnung des Arzneimittels, die Chargenbezeichnung und, soweit für das Arzneimittel vorgeschrieben, das Verfalldatum sowie Aufbewahrungshinweise angegeben sind und die Packungsbeilage hinzugefügt wird.
 
-(4) Die Vorschriften des § 17 Absatz 1, 1a, 4, 5, 6 Satz 1 Nummer 1 bis 3 sowie Satz 2 und 3 und Absatz 6a bis 6c gelten entsprechend.
+(4) Die Vorschriften des § 17 Absatz 1, 1a, 4, 5, 6 Satz 1 Nummer 1 bis 3 und Satz 2 bis 4 sowie Absatz 6a bis 6c gelten entsprechend.
 
 # § 32 – Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
 
@@ -1187,39 +1211,41 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 (6) Auf die Herstellung der parenteralen Arzneimittel sind die §§ 6 bis 8 anzuwenden. Die Plausibilitätsprüfung der ärztlichen Verordnung muss insbesondere auch patientenindividuelle Faktoren sowie die Regeldosierung und die daraus möglicherweise resultierende individuelle Dosis beinhalten. Die Herstellungsanweisung muss auch eine Kontrolle der Berechnungen, der Einwaagen und der einzusetzenden Ausgangsstoffe durch eine zweite Person oder durch validierte elektronische Verfahren sowie eine Dichtigkeitsprüfung des befüllten Behältnisses vorsehen.
 
-# § 35a – Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken
+# § 35a – Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
 
-(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Grippeschutzimpfungen insbesondere Festlegungen zu treffen:
+(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Schutzimpfungen insbesondere Festlegungen zu treffen:
 
 1. zur Vorbereitung der Impfung,
 
 2. zur Aufklärung und Einholung der Einwilligung der zu impfenden Person,
 
-3. zur Anamnese und zur Entscheidung, wann die Grippeschutzimpfung nicht durchgeführt wird,
+3. zur Anamnese und zur Entscheidung, wann die Schutzimpfung nicht durchgeführt wird,
 
 4. zur Durchführung der Impfung,
 
 5. zur Dokumentation der Impfung,
 
-6. zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der an den Vorbereitungen und der Durchführung der Grippeschutzimpfung beteiligten Personen und
+6. zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der an den Vorbereitungen und der Durchführung der Schutzimpfung beteiligten Personen und
 
 7. zur Meldung bei Verdacht auf eine über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung.
 
-(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Grippeschutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der zu impfenden Person und die Grippeschutzimpfungen durchführen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Grippeschutzimpfungen.
+(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der zu impfenden Person und die Schutzimpfungen durchführen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
 
-(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung und die Durchführung der Grippeschutzimpfungen muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Grippeschutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; insbesondere können keine Räume genutzt werden, die für einen anderweitigen Zweck vorgesehen und in denen die notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen Grippeschutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5 nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Grippeschutzimpfung ist die Privatsphäre der zu impfenden Personen zu schützen.
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung und die Durchführung der Schutzimpfungen muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; insbesondere können keine Räume genutzt werden, die für einen anderweitigen Zweck vorgesehen und in denen die notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen Schutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5 nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Schutzimpfung ist die Privatsphäre der zu impfenden Personen zu schützen.
 
-(4) Vor der Grippeschutzimpfung hat die impfende Person die zu impfende Person über die zu verhütende Krankheit und die Impfung aufzuklären, die Anamnese durchzuführen und die Einwilligung der zu impfenden Person einzuholen. Die Aufklärung umfasst insbesondere
+(4) Vor der Schutzimpfung hat die impfende Person die zu impfende Person über die zu verhütende Krankheit und die Impfung aufzuklären, die Anamnese durchzuführen und die Einwilligung der zu impfenden Person einzuholen. Die Aufklärung umfasst insbesondere
 
 1. Informationen über den Nutzen der Impfung und über die zu verhütende Krankheit,
 
 2. Hinweise auf mögliche Nebenwirkungen, Komplikationen und Kontraindikationen,
 
-3. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Impfung und
+3. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Impfung,
 
-4. Informationen über Beginn und Dauer der Schutzwirkung.
+4. Informationen über Beginn und Dauer der Schutzwirkung und
 
-(5) Die Dokumentation der Grippeschutzimpfung muss Angaben enthalten zu:
+5. Hinweise zu Auffrischimpfungen.
+
+(5) Die Dokumentation der Schutzimpfung muss Angaben enthalten zu:
 
 1. Datum und Durchführung der Aufklärung der zu impfenden Person,
 
@@ -1237,7 +1263,7 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 8. Name und Bestätigung der Person, die die Aufklärung, Anamnese und Impfung durchgeführt hat.
 
-Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5 erforderlich. Die Dokumentation der Grippeschutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5 erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
 
 (6) Es sind geeignete Hygienemaßnahmen zum Schutz der zu impfenden Person und des Apothekenpersonals zu treffen.
 
@@ -1255,13 +1281,13 @@ Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das Apothekenwesen h
 
 1b. entgegen § 17 Abs. 2b ein dort genanntes Arzneimittel im Wege des Versandes in den Verkehr bringt,
 
-1c. entgegen § 35a Absatz 2 Satz 1 eine Grippeschutzimpfung durchführt,
+1c. entgegen § 35a Absatz 2 Satz 1 eine Schutzimpfung durchführt,
 
 2. als Apothekenleiter
 
 a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 nicht sicherstellt, dass eine Aufklärung, Anamnese oder das Einholen der Einwilligung der zu impfenden Person durchgeführt wird,
 
-b) entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine Grippeschutzimpfung durchgeführt wird,
+b) entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine Schutzimpfung nur durch einen berechtigten Apotheker durchgeführt wird,
 
 c) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
@@ -1336,6 +1362,8 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 (2) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, ist § 35 Absatz 5 ab dem 1. Juni 2013 anzuwenden; bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich mindestens den Anforderungen der Klasse A für die lokale Zone und der Klasse C für den Umgebungsbereich entsprechen.
 
 (3) Apothekenleiter, die bereits vor dem 30. Juni 2022 Grippeschutzimpfungen durch ihre Apotheken durchführen lassen, haben abweichend von § 2 Absatz 3a Satz 2 der zuständigen Behörde die Durchführung von Grippeschutzimpfungen und die dafür vorgesehenen Räumlichkeiten bis zum 31. Juli 2022 anzuzeigen.
+
+(4) Apothekenleiter, die vor dem 1. Januar 2023 Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch ihre Apotheken haben durchführen lassen, haben abweichend von § 2 Absatz 3a Satz 2 der zuständigen Behörde die Durchführung von Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür vorgesehenen Räumlichkeiten bis zum 1. Februar 2023 anzuzeigen.
 
 # § 38 – Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 

@@ -9,17 +9,17 @@ Auf Grund des Artikels 2 des Gesetzes vom 21. Juni 1965 zu dem Haager Übereinko
 
 Die Apostille nach Artikel 3 Abs. 1 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation stellen aus
 
-1. das Bundesverwaltungsamt für alle von einem Gericht oder einer Behörde des Bundes aufgenommenen öffentlichen Urkunden, soweit nicht der Präsident des Deutschen Patentamts zuständig ist,
+1. das Bundesamt für Auswärtige Angelegenheiten für alle von einem Gericht oder einer Behörde des Bundes ausgestellten öffentlichen Urkunden, soweit nicht der Präsident des Deutschen Patent- und Markenamts zuständig ist,
 
-2. der Präsident des Deutschen Patentamts für die vom Bundespatentgericht oder vom Deutschen Patentamt aufgenommenen öffentlichen Urkunden.
+2. der Präsident des Deutschen Patent- und Markenamts für die vom Bundespatentgericht oder vom Deutschen Patent- und Markenamt ausgestellten öffentlichen Urkunden.
 
 # § 2
 
 Die Gebühr für die Ausstellung der Apostille und für die Prüfung gemäß Artikel 7 Absatz 2 des Übereinkommens beträgt je 25 Euro. Im Übrigen gilt für die Erhebung von Gebühren und Auslagen
 
-1. beim Bundesverwaltungsamt das Bundesgebührengesetz, der 5. Abschnitt des Konsulargesetzes und die Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes,
+1. beim Bundesamt für Auswärtige Angelegenheiten das Bundesgebührengesetz, der 5. Abschnitt des Konsulargesetzes und die Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes,
 
-2. beim Deutschen Patent- und Markenamt die DPMA-Verwaltungskostenverordnung vom 14. Juli 2006 (BGBl. I S. 1586), die zuletzt durch Artikel 211 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
+2. beim Deutschen Patent- und Markenamt die DPMA-Verwaltungskostenverordnung vom 14. Juli 2006 (BGBl. I S. 1586), die zuletzt durch Artikel 4 der Verordnung vom 7. Februar 2022 (BGBl. I S. 171) geändert worden ist,
 
 in der jeweils geltenden Fassung.
 

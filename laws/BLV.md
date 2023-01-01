@@ -163,7 +163,7 @@ Bei besonderen Anforderungen einer Laufbahn kann der schriftliche Teil durch wei
 
 Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der mündliche Teil kann in einer Fremdsprache durchgeführt werden.
 
-(6a) Bis zum 31. Dezember 2022 kann der mündliche Teil des Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen geboten ist und wenn geeignete technische Einrichtungen zur Verfügung stehen.
+(6a) Bis zum 31. Dezember 2024 kann der mündliche Teil des Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen geboten ist und wenn geeignete technische Einrichtungen zur Verfügung stehen.
 
 (7) Die im Auswahlverfahren erbrachten Leistungen sind mit Punkten oder Noten zu bewerten. Es ist eine Rangfolge der geeigneten Bewerberinnen und Bewerber festzulegen. Die Rangfolge ist für die Einstellung in den Vorbereitungsdienst maßgeblich.
 

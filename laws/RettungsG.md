@@ -130,7 +130,3 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 2. die Entschädigung nach § 4,
 
 3. sonstige Maßnahmen, die zur Sicherstellung des Zweckes dieses Gesetzes im Rahmen einer Enteignung zur Sicherung der Finanzmarktstabilität nach § 1 erforderlich sind.
-
-# § 9 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

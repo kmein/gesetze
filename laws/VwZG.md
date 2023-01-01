@@ -63,7 +63,7 @@ Im Fall des § 181 Abs. 1 der Zivilprozessordnung kann das zuzustellende Dokumen
 
 # § 6 – Zustellung an gesetzliche Vertreter
 
-(1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an ihre gesetzlichen Vertreter zuzustellen. Gleiches gilt bei Personen, für die ein Betreuer bestellt ist, soweit der Aufgabenkreis des Betreuers reicht.
+(1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an ihre gesetzlichen Vertreter zuzustellen. Gleiches gilt bei Personen, für die ein Betreuer bestellt ist, soweit der Aufgabenkreis des Betreuers reicht. Das zugestellte Dokument ist der betreuten Person nach Wahl der Behörde abschriftlich mitzuteilen oder elektronisch zu übermitteln.
 
 (2) Bei Behörden wird an den Behördenleiter, bei juristischen Personen, nicht rechtsfähigen Personenvereinigungen und Zweckvermögen an ihre gesetzlichen Vertreter zugestellt. § 34 Abs. 2 der Abgabenordnung bleibt unberührt.
 

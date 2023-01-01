@@ -7,7 +7,7 @@
 
 (1) Die Vergütung (Gebühren und Auslagen) für anwaltliche Tätigkeiten der Rechtsanwältinnen und Rechtsanwälte bemisst sich nach diesem Gesetz. Dies gilt auch für eine Tätigkeit als besonderer Vertreter nach den §§ 57 und 58 der Zivilprozessordnung, nach § 118e der Bundesrechtsanwaltsordnung, nach § 103b der Patentanwaltsordnung oder nach § 111c des Steuerberatungsgesetzes. Andere Mitglieder einer Rechtsanwaltskammer, Partnerschaftsgesellschaften und sonstige Gesellschaften stehen einem Rechtsanwalt im Sinne dieses Gesetzes gleich.
 
-(2) Dieses Gesetz gilt nicht für eine Tätigkeit als Syndikusrechtsanwalt (§ 46 Absatz 2 der Bundesrechtsanwaltsordnung). Es gilt ferner nicht für eine Tätigkeit als Vormund, Betreuer, Pfleger, Verfahrenspfleger, Verfahrensbeistand, Testamentsvollstrecker, Insolvenzverwalter, Sachwalter, Mitglied des Gläubigerausschusses, Restrukturierungsbeauftragter, Sanierungsmoderator, Mitglied des Gläubigerbeirats, Nachlassverwalter, Zwangsverwalter, Treuhänder oder Schiedsrichter oder für eine ähnliche Tätigkeit. § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs bleibt<span id="FnR.F820331_03"></span><a href="#F820331_03" class="FnR">3</a></sup> unberührt.
+(2) Dieses Gesetz gilt nicht für eine Tätigkeit als Syndikusrechtsanwalt (§ 46 Absatz 2 der Bundesrechtsanwaltsordnung). Es gilt ferner nicht für eine Tätigkeit als Vormund, Betreuer, Pfleger, Verfahrenspfleger, Verfahrensbeistand, Testamentsvollstrecker, Insolvenzverwalter, Sachwalter, Mitglied des Gläubigerausschusses, Restrukturierungsbeauftragter, Sanierungsmoderator, Mitglied des Gläubigerbeirats, Nachlassverwalter, Zwangsverwalter, Treuhänder oder Schiedsrichter oder für eine ähnliche Tätigkeit. § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs und § 4 Absatz 2 des Vormünder- und Betreuervergütungsgesetzes bleiben unberührt.
 
 (3) Die Vorschriften dieses Gesetzes über die Erinnerung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
@@ -517,7 +517,7 @@ Der Gegenstandswert in Verfahren nach dem Unternehmensstabilisierungs- und -rest
 
 # § 30 – Gegenstandswert in gerichtlichen Verfahren nach dem Asylgesetz
 
-(1) In Klageverfahren nach dem Asylgesetz beträgt der Gegenstandswert 5 000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro. Sind mehrere natürliche Personen an demselben Verfahren beteiligt, erhöht sich der Wert für jede weitere Person in Klageverfahren um 1 000 Euro und in Verfahren des vorläufigen Rechtsschutzes um 500 Euro.
+(1) In Klageverfahren nach dem Asylgesetz beträgt der Gegenstandswert 5 000 Euro, in den Fällen des § 77 Absatz 4 Satz 1 des Asylgesetzes 10 000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro. Sind mehrere natürliche Personen an demselben Verfahren beteiligt, erhöht sich der Wert für jede weitere Person in Klageverfahren um 1 000 Euro und in Verfahren des vorläufigen Rechtsschutzes um 500 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 

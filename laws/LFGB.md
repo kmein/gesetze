@@ -2333,9 +2333,7 @@ Vor Erlass von Rechtsverordnungen nach diesem Gesetz ist die in Artikel 9 der Ve
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sowie mit der Europäischen Kommission, Einrichtungen der Europäischen Union und der EFTA-Überwachungsbehörde obliegt dem Bundesministerium. Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf Bundesoberbehörden oder bundesunmittelbare rechtsfähige Anstalten des öffentlichen Rechts, durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen. Ferner kann es im Einzelfall im Benehmen mit der zuständigen obersten Landesbehörde dieser die Befugnis übertragen. Die obersten Landesbehörden können die Befugnisse nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 
-# § 73 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 73 – (weggefallen)
 
 # § 74 – Geltungsbereich bestimmter Vorschriften
 

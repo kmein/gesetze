@@ -4327,7 +4327,7 @@ b) versucht hat, vertrauliche Informationen zu erhalten, durch die es unzulässi
 
 c) fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, die die Vergabeentscheidung des öffentlichen Auftraggebers erheblich beeinflussen könnten, oder versucht hat, solche Informationen zu übermitteln.
 
-(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes und § 21 des Schwarzarbeitsbekämpfungsgesetzes bleiben unberührt.
+(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des Schwarzarbeitsbekämpfungsgesetzes und § 22 des Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S. 2959) bleiben unberührt.
 
 (+++ § 124: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 

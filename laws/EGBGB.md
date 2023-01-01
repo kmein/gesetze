@@ -557,9 +557,19 @@ Auf vor dem 31. März 2020 abgeschlossene Vorgänge bleibt das bisherige Interna
 
 Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die Vorschriften des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung weiter anzuwenden.
 
-# § 54 – (zukünftig in Kraft)
+# § 54 – Übergangsvorschrift zum Gesetz zur Reform des Vormundschafts- und Betreuungsrechts
 
-(+++ Art. 229 § 54: Tritt zukünftig in Kraft gem. Art. 2 Nr. 6 G v. 4.5.2021 I 882 mwv 1.1.2023 +++)
+(1) Eine bei Ablauf des 31. Dezember 2022 bestehende Geschäftsfähigkeit besteht fort.
+
+(2) Mit Inkrafttreten dieses Gesetzes am 1. Januar 2023 wird die Bestellung eines Gegenvormunds und eines Gegenbetreuers wirkungslos.
+
+(3) Ist am 1. Januar 2023 ein Betreuer zur Besorgung aller Angelegenheiten bestellt, ist der Aufgabenkreis bis zum 1. Januar 2024 nach Maßgabe des § 1815 Absatz 1 des Bürgerlichen Gesetzbuchs zu ändern.
+
+(4) Auf Betreuungen, die am 1. Januar 2023 bestehen, findet § 1815 Absatz 2 Nummer 1 bis 4 des Bürgerlichen Gesetzbuchs bis zum 1. Januar 2028 keine Anwendung. Bei der nächsten Entscheidung über die Aufhebung oder Verlängerung der Betreuung oder im Rahmen eines gerichtlichen Genehmigungsverfahrens nach § 1831 Absatz 2 des Bürgerlichen Gesetzbuchs hat das Betreuungsgericht über den Aufgabenkreis nach Maßgabe des § 1815 Absatz 2 des Bürgerlichen Gesetzbuchs zu entscheiden.
+
+(5) Betreuer, die erstmals durch § 1859 Absatz 2 des Bürgerlichen Gesetzbuchs befreit sind, haben bis zum Ablauf des am 1. Januar 2023 noch laufenden Betreuungsjahres Rechnung zu legen.
+
+(6) Auf vor dem 1. Januar 2023 abgeschlossene Vorgänge bleibt das bisherige Internationale Privatrecht anwendbar.
 
 # § 55 – Übergangsvorschrift zum Gesetz zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung
 
@@ -600,6 +610,32 @@ Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des Bürgerli
 # § 63 – Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
 
 § 194 des Bürgerlichen Gesetzbuchs in der ab dem 30. Dezember 2021 geltenden Fassung ist auf die an diesem Tag bestehenden noch nicht verjährten Ansprüche anzuwenden.
+
+# § 64 – Übergangsvorschrift zum Gesetz zur Abschaffung des Güterrechtsregisters
+
+(1) Abweichend von § 1412 des Bürgerlichen Gesetzbuchs können Ehegatten und Partner einer eingetragenen Lebenspartnerschaft auch aus Eintragungen im Güterrechtsregister Dritten gegenüber Einwendungen
+
+1. gegen ein Rechtsgeschäft herleiten, das zwischen einem der Ehegatten und dem Dritten vorgenommen worden ist, wenn das Geschäft vor dem 1. Januar 2028 abgeschlossen oder die Rechtshandlung vorgenommen worden ist, oder
+
+2. gegen ein rechtskräftiges Urteil herleiten, das zwischen einem der Ehegatten und dem Dritten ergangen ist, wenn der Rechtsstreit vor dem 1. Januar 2028 rechtshängig geworden ist.
+
+(2) Haben die Ehegatten Gütergemeinschaft vereinbart und dies in das Güterrechtsregister eintragen lassen, kann jeder Ehegatte ab dem 1. Januar 2023 verlangen, dass die vertragliche Regelung wegen Wegfalls des Güterrechtsregisters nach den Grundsätzen des § 313 des Bürgerlichen Gesetzbuchs angepasst wird.
+
+(3) Wird eine bestehende Eintragung in dem Register in der Zeit vom 1. Januar 2023 bis 31. Dezember 2027 unrichtig oder verlegen beide Ehegatten in diesem Zeitraum ihren gewöhnlichen Aufenthalt in einen anderen Registerbezirk, so verliert die Eintragung ihre Wirkung. Eine nach Satz 1 unwirksame Eintragung ist auf Antrag eines Ehegatten zu löschen; die folgenden Vorschriften sind in der bis einschließlich 31. Dezember 2022 geltenden Fassung entsprechend anzuwenden:
+
+1. die §§ 1558 und 1560 des Bürgerlichen Gesetzbuchs,
+
+2. die auf der Grundlage des § 1558 Absatz 2 des Bürgerlichen Gesetzbuchs erlassenen Rechtsverordnungen,
+
+3. das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit und
+
+4. § 3 Nummer 1 Buchstabe e des Rechtspflegergesetzes.
+
+(4) Bis zum 31. Dezember 2037 ist jedem die Einsicht in das Register gestattet. Von den Eintragungen kann eine Abschrift angefordert werden. Die Abschrift ist auf Verlangen zu beglaubigen.
+
+(5) Nach dem 31. Dezember 2037 können aus der Registereintragung keine Rechte mehr hergeleitet werden.
+
+(6) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) werden durch Einsicht in das Register nach Absatz 4 gewährt. Das Gericht ist nicht verpflichtet, Personen, deren personenbezogene Daten im Güterrechtsregister oder in den Registerakten gespeichert sind, über die Offenlegung dieser Daten an Dritte Auskunft zu erteilen. Im Übrigen gilt § 79a Absatz 2 und 3 des Bürgerlichen Gesetzbuchs entsprechend.
 
 # § 1 – (weggefallen)
 
@@ -1035,13 +1071,13 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor de
 
 (2) Jeder Ehegatte kann, sofern nicht vorher ein Ehevertrag geschlossen oder die Ehe geschieden worden ist, bis zum Ablauf von zwei Jahren nach Wirksamwerden des Beitritts dem Kreisgericht gegenüber erklären, daß für die Ehe der bisherige gesetzliche Güterstand fortgelten solle. § 1411 des Bürgerlichen Gesetzbuchs gilt entsprechend. Wird die Erklärung abgegeben, so gilt die Überleitung als nicht erfolgt. Aus der Wiederherstellung des ursprünglichen Güterstandes können die Ehegatten untereinander und gegenüber einem Dritten Einwendungen gegen ein Rechtsgeschäft, das nach der Überleitung zwischen den Ehegatten oder zwischen einem von ihnen und dem Dritten vorgenommen worden ist, nicht herleiten.
 
-(3) Für die Entgegennahme der Erklärung nach Absatz 2 ist jedes Kreisgericht zuständig. Die Erklärung muß notariell beurkundet werden. Haben die Ehegatten die Erklärung nicht gemeinsam abgegeben, so hat das Kreisgericht sie dem anderen Ehegatten nach den für Zustellungen von Amts wegen geltenden Vorschriften der Zivilprozeßordnung bekanntzumachen. Für die Zustellung werden Auslagen nach § 137 Nr. 2 der Kostenordnung nicht erhoben. Wird mit der Erklärung ein Antrag auf Eintragung in das Güterrechtsregister verbunden, so hat das Kreisgericht den Antrag mit der Erklärung an das Registergericht weiterzuleiten. Der aufgrund der Erklärung fortgeltende gesetzliche Güterstand ist, wenn einer der Ehegatten dies beantragt, in das Güterrechtsregister einzutragen. Wird der Antrag nur von einem der Ehegatten gestellt, so soll das Registergericht vor der Eintragung den anderen Ehegatten hören. Für das gerichtliche Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+(3) Für die Entgegennahme der Erklärung nach Absatz 2 ist jedes Kreisgericht zuständig. Die Erklärung muß notariell beurkundet werden. Haben die Ehegatten die Erklärung nicht gemeinsam abgegeben, so hat das Kreisgericht sie dem anderen Ehegatten nach den für Zustellungen von Amts wegen geltenden Vorschriften der Zivilprozeßordnung bekanntzumachen. Für die Zustellung werden Auslagen nach § 137 Nr. 2 der Kostenordnung nicht erhoben. Für das gerichtliche Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 (4) In den Fällen des Absatzes 1 gilt für die Auseinandersetzung des bis zum Wirksamwerden des Beitritts erworbenen gemeinschaftlichen Eigentums und Vermögens § 39 des Familiengesetzbuchs der Deutschen Demokratischen Republik sinngemäß.
 
 (5) Für Ehegatten, die vor dem Wirksamwerden des Beitritts geschieden worden sind, bleibt für die Auseinandersetzung des gemeinschaftlichen Eigentums und Vermögens und für die Entscheidung über die Ehewohnung das bisherige Recht maßgebend.
 
-(6) Für die Beurkundung der Erklärung nach Absatz 2 und der Anmeldung zum Güterrechtsregister sowie für die Eintragung in das Güterrechtsregister beträgt der Geschäftswert 3 000 Euro.
+(6) Für die Beurkundung der Erklärung nach Absatz 2 beträgt der Geschäftswert 3 000 Euro.
 
 # § 4a – Gemeinschaftliches Eigentum
 
@@ -1049,7 +1085,7 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor de
 
 (2) Haben die Ehegatten eine Erklärung nach § 4 Abs. 2 Satz 1 abgegeben, so finden auf das bestehende und künftige gemeinschaftliche Eigentum die Vorschriften über das durch beide Ehegatten verwaltete Gesamtgut einer Gütergemeinschaft entsprechende Anwendung. Für die Auflösung dieser Gemeinschaft im Falle der Scheidung sind jedoch die Vorschriften des Familiengesetzbuchs der Deutschen Demokratischen Republik nach Maßgabe des § 4 anzuwenden.
 
-(3) Es wird widerleglich vermutet, daß gemeinschaftliches Eigentum von Ehegatten nach dem Familiengesetzbuch der Deutschen Demokratischen Republik Bruchteilseigentum zu ein halb Anteilen ist, sofern sich nicht aus dem Grundbuch andere Bruchteile ergeben oder aus dem Güterrechtsregister ergibt, daß eine Erklärung nach § 4 Abs. 2 und 3 abgegeben oder Gütergemeinschaft vereinbart worden ist.
+(3) Es wird widerleglich vermutet, daß gemeinschaftliches Eigentum von Ehegatten nach dem Familiengesetzbuch der Deutschen Demokratischen Republik Bruchteilseigentum zu ein halb Anteilen ist, sofern sich nicht aus dem Grundbuch andere Bruchteile ergeben.
 
 # § 5 – Unterhalt des geschiedenen Ehegatten
 

@@ -3,7 +3,9 @@
  
 # § 1 – Errichtung, Zweck, Sitz
 
-(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehört insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften). Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern. Die Abführung an den Bundeshaushalt erfolgt auf der Grundlage des Wirtschaftsplanes.
+(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehören insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften), sowie die zivilen Bauangelegenheiten des Bundes insbesondere auf den Dienstliegenschaften; die gesetzlich festgelegte Zuständigkeit des Bundesamtes für Bauwesen und Raumordnung für die Durchführung von Bauaufgaben bleibt unberührt. Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen und unter Berücksichtigung des in § 15 des Bundes-Klimaschutzgesetzes festgelegten Ziels der klimaneutralen Bundesverwaltung bis 2030 sowie der Vorbildfunktion öffentlicher Gebäude bei der energetischen Sanierung vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern.
+
+(1a) Die Bundesanstalt hat bei der Erfüllung ihrer Aufgaben nach diesem Gesetz auch bau-, wohnungs-, stadtentwicklungspolitische und ökologische Ziele des Bundes zu unterstützen.
 
 (2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie hat das Recht, Außenstellen als Haupt- oder Nebenstellen einzurichten.
 
@@ -25,17 +27,41 @@
 
 # § 3 – Aufsicht
 
-(1) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen.
+(1) Die Bundesanstalt untersteht der Rechtsaufsicht des Bundesministeriums der Finanzen.
 
-(2) Soweit die Bundesanstalt Aufgaben aus dem Geschäftsbereich eines anderen Bundesministeriums erledigt, übt dieses die Rechts- und Fachaufsicht aus. Fachliche Weisungen mit wesentlichen finanziellen oder organisatorischen Auswirkungen auf die Bundesanstalt ergehen im Einvernehmen mit dem Bundesministerium der Finanzen.
+(2) Soweit die Bundesanstalt Aufgaben aus dem Geschäftsbereich eines anderen Bundesministeriums erledigt, übt dieses die Rechtsaufsicht aus. Anordnungen mit wesentlichen finanziellen oder organisatorischen Auswirkungen auf die Bundesanstalt ergehen im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 # § 4 – Organe, Satzung
 
 (1) Die Bundesanstalt wird von einem Vorstand geleitet und vertreten. Er besteht aus der Sprecherin oder dem Sprecher und bis zu zwei weiteren Mitgliedern. Aufgaben und Befugnisse des Vorstandes bestimmen dieses Gesetz und die Satzung. Die Sprecherin oder der Sprecher führt die Amtsbezeichnung "Sprecherin des Vorstandes der Bundesanstalt für Immobilienaufgaben" oder "Sprecher des Vorstandes der Bundesanstalt für Immobilienaufgaben"; die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstandes der Bundesanstalt für Immobilienaufgaben".
 
-(2) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat berät und unterstützt den Vorstand. Der Verwaltungsrat setzt sich aus bis zu zehn sachverständigen Personen zusammen, die vom Bundesministerium der Finanzen nach Maßgabe der Satzung benannt werden. Der Vorsitzende des Verwaltungsrates wird vom Bundesministerium der Finanzen bestimmt. Näheres regelt die Geschäftsordnung des Verwaltungsrates, die vom Bundesministerium der Finanzen erlassen wird.
+(2) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat überwacht den Vorstand der Bundesanstalt und unterstützt diesen bei der Erfüllung seiner Aufgaben. Der Vorstand hat den Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt zu unterrichten. Der Verwaltungsrat gibt sich im Einvernehmen mit dem Bundesministerium der Finanzen eine Geschäftsordnung. Der Verwaltungsrat trifft auf Vorlage des Vorstands Beschlüsse über
 
-(3) Das Bundesministerium der Finanzen erlässt die Satzung der Bundesanstalt. In die Satzung sind insbesondere Bestimmungen aufzunehmen über
+1. die Feststellung und wesentliche Änderungen des Wirtschaftsplans einschließlich der Finanzierung und Durchführung von Bauprojekten des zivilen Bundesbaus in Zuständigkeit der Bundesanstalt,
+
+2. die Feststellung des Jahresabschlusses,
+
+3. die Empfehlung zur Höhe der Abführung,
+
+4. die Entlastung des Vorstands und
+
+5. die Verwendung des Bilanzgewinns.
+
+Die Beschlüsse des Verwaltungsrats ergehen mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die oder der Vorsitzende ist berechtigt, einem nach Satz 5 gefassten Beschluss zu widersprechen (Vetorecht), wenn sie oder er der Auffassung ist, dass der Beschluss wichtigen Interessen des Bundes nicht gerecht wird, insbesondere im Widerspruch zu den der Bundesanstalt übertragenen Aufgaben steht. Die Ausübung des Vetorechts soll auf Beschlüsse mit erheblichen finanziellen Auswirkungen für die Bundesanstalt beschränkt werden. Beschließt der Verwaltungsrat mit der Mehrheit seiner Mitglieder, das Vetorecht der oder des Vorsitzenden zurückzuweisen, entscheidet das Bundesministerium der Finanzen auf Vorlage der oder des Vorsitzenden. Sofern das Vetorecht nicht zurückgewiesen wird, gilt die Vorlage der oder des Vorsitzenden als beschlossen.
+
+(3) Der Verwaltungsrat besteht aus
+
+1. der oder dem Vorsitzenden, die oder der vom Bundesministerium der Finanzen entsandt wird,
+
+2. jeweils einer Vertreterin oder einem Vertreter, die oder der vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, vom Bundesministerium der Verteidigung und vom Bundesministerium für Wirtschaft und Klimaschutz entsandt werden,
+
+3. bis zu fünf Mitgliedern des Deutschen Bundestages, darunter die oder der Vorsitzende der Kommission des Ältestenrates für Bau- und Raumangelegenheiten des Deutschen Bundestages, und
+
+4. bis zu vier weiteren sachverständigen Personen.
+
+Die Mitglieder des Verwaltungsrats werden durch das Bundesministerium der Finanzen für eine Amtszeit von vier Jahren berufen. Die in Satz 1 Nummer 3 genannten Mitglieder des Deutschen Bundestages werden vom Deutschen Bundestag vorgeschlagen; sie werden für die Dauer der Wahlperiode des Deutschen Bundestages in den Verwaltungsrat berufen und bleiben nach Ende der Wahlperiode des Deutschen Bundestages noch so lange im Amt, bis die neuen Mitglieder berufen worden sind. Eine erneute Berufung ist möglich. Die in Satz 1 Nummer 4 genannten sachverständigen Personen werden im Einvernehmen mit dem Haushaltsausschuss und dem Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen des Deutschen Bundestages berufen. Näheres regelt die Geschäftsordnung.
+
+(4) Das Bundesministerium der Finanzen erlässt die Satzung der Bundesanstalt. In die Satzung sind insbesondere Bestimmungen aufzunehmen über
 
 1. den Aufbau und die Organisation,
 
@@ -72,9 +98,9 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 # § 6 – Finanzierung
 
-(1) Die Anstalt deckt ihren Aufwand für die ihr nach § 2 übertragenen Aufgaben aus den Erträgen der Verwaltung und Verwertung des ihr übertragenen Bundesvermögens und aus vereinbarten Erstattungen. Die Bundesanstalt kann in ihrer Eröffnungsbilanz und in den folgenden Jahresabschlüssen Rücklagen bilden. Mit Feststellung des Jahresabschlusses durch das Bundesministerium der Finanzen ist über die Verwendung des Bilanzgewinnes zu beschließen. Einzelheiten regelt die Satzung.
+(1) Die Bundesanstalt deckt ihren Aufwand für die ihr nach den §§ 1 und 2 übertragenen Aufgaben aus den Erträgen der Verwaltung und Verwertung des ihr übertragenen Bundesvermögens und aus vereinbarten Erstattungen. Die Bundesanstalt kann in ihrer Eröffnungsbilanz und in den folgenden Jahresabschlüssen Rücklagen bilden. Mit Feststellung des Jahresabschlusses durch den Verwaltungsrat ist über die Verwendung des Bilanzgewinnes zu beschließen. Einzelheiten regelt die Satzung.
 
-(2) Die Anstalt hat kein Recht zur Kreditaufnahme am Markt; notwendige Kredite gewährt der Bund nach Maßgabe des Haushaltsgesetzes.
+(2) Die Bundesanstalt hat kein Recht zur Kreditaufnahme am Markt; notwendige Kredite gewährt der Bund nach Maßgabe des Haushaltsgesetzes.
 
 (3) Ein Insolvenzverfahren über das Vermögen der Bundesanstalt findet nicht statt. § 12 Abs. 2 der Insolvenzordnung ist entsprechend in der Weise anzuwenden, dass sich die Ansprüche der Arbeitnehmer gegen den Bund richten.
 
@@ -91,17 +117,17 @@ eine Überleitungsrechnung auf Einnahmen und Ausgaben einschließlich der Invest
 \-  
 eine Personalplanung
 
-umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen eingestellt werden. Die Bundesanstalt ist verpflichtet, aufgrund der Entscheidung des Bundesministers der Finanzen hieraus Beträge dem Bundeshaushalt zuzuführen. Geschäftsjahr ist das Kalenderjahr. Einzelheiten regelt die Satzung.
+umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen eingestellt werden. Geschäftsjahr ist das Kalenderjahr. Einzelheiten regelt die Satzung.
 
-(2) Der Wirtschaftsplan bedarf der Genehmigung des Bundesministeriums der Finanzen. Übersichten über die Einnahmen und Ausgaben und ein Stellenplan sind dem Haushaltsplan des Bundes als Anlagen beizufügen.
+(2) Der Wirtschaftsplan bedarf der Genehmigung des Verwaltungsrats. Die Abführung an den Bundeshaushalt erfolgt auf der Grundlage des Wirtschaftsplanes. Die Höhe der Abführung soll sich am Jahresüberschuss der Bundesanstalt orientieren.
 
 # § 8 – Buchung, Jahresabschluss
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen Buchführung.
 
-(2) Das der Bundesanstalt übertragene Vermögen ist nach handelsrechtlichen Grundsätzen zu bewerten. Die Regelungen der §§ 7, 9, 10, 17 und 36 des D-Markbilanzgesetzes finden entsprechende Anwendung, wobei die Frist des § 36 Abs. 4 Satz 2 des D-Markbilanzgesetzes mit Ablauf des Jahres 2009 endet.
+(2) Das der Bundesanstalt übertragene Vermögen ist nach handelsrechtlichen Grundsätzen zu bewerten.
 
-(3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen zur abschließenden Festsetzung der Abführungen an den Bundeshaushalt und zur Entlastung des Vorstandes vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden.
+(3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden. § 69 der Bundeshaushaltsordnung gilt entsprechend.
 
 # § 9 – Prüfungsrecht des Bundesrechnungshofes
 
@@ -109,11 +135,9 @@ Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushalts
 
 # § 10 – Anwendung des Haushaltsrechts
 
-(1) Die §§ 7, 9, 24 der Bundeshaushaltsordnung sowie die Vorschriften des Teils III der Bundeshaushaltsordnung gelten entsprechend mit Ausnahme der §§ 38 und 45 sowie der Bestimmungen, die eine Buchung nach Einnahmen und Ausgaben voraussetzen. Hinsichtlich der nach § 2 Abs. 2 und 3 übertragenen Grundstücke bleiben die §§ 63 und 64 der Bundeshaushaltsordnung unberührt.
+(1) Die Bundesanstalt handelt nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechend § 7 der Bundeshaushaltsordnung. Hinsichtlich der nach § 2 Abs. 2 und 3 übertragenen Grundstücke bleiben die §§ 63 und 64 der Bundeshaushaltsordnung unberührt.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, weitere Ausnahmen von der Anwendung der Vorschriften der Bundeshaushaltsordnung mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages zuzulassen.
-
-(3) Das Bundesministerium der Finanzen sowie andere Bundesministerien, die der Bundesanstalt Aufgaben übertragen, können die Bundesanstalt ermächtigen, Teile des Bundeshaushaltes zu bewirtschaften. Insoweit gelten die Vorschriften der Bundeshaushaltsordnung einschließlich der dazu ergangenen Verwaltungsvorschriften in der jeweils geltenden Fassung.
+(2) Das Bundesministerium der Finanzen sowie andere Bundesministerien, die der Bundesanstalt Aufgaben übertragen, können die Bundesanstalt ermächtigen, Teile des Bundeshaushaltes zu bewirtschaften. Insoweit gelten die Vorschriften der Bundeshaushaltsordnung einschließlich der dazu ergangenen Verwaltungsvorschriften in der jeweils geltenden Fassung.
 
 # § 11 – Beamtinnen und Beamte
 
@@ -123,7 +147,7 @@ Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushalts
 
 (3) Die Bundespräsidentin oder der Bundespräsident ernennt die Beamtinnen und Beamten der Bundesbesoldungsordnung B; die Sprecherin oder der Sprecher des Vorstandes ernennt die übrigen Beamtinnen und Beamten.
 
-(4) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, Beihilfe, Reise- und Umzugskosten sowie Trennungsgeld und die automatisierte Verarbeitung personenbezogener Daten ganz oder teilweise gegen Erstattung der Verwaltungskosten auf Behörden der Bundesfinanzverwaltung übertragen. Die Übertragung ist im Bundesgesetzblatt zu veröffentlichen.
+(4) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, Beihilfe, Reise- und Umzugskosten sowie Trennungsgeld und die automatisierte Verarbeitung personenbezogener Daten ganz oder teilweise gegen Erstattung der Verwaltungskosten auf Behörden der Bundesverwaltung übertragen. Die Übertragung ist im Bundesgesetzblatt zu veröffentlichen.
 
 # § 12 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 

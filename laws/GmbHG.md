@@ -73,7 +73,7 @@ Sitz der Gesellschaft ist der Ort im Inland, den der Gesellschaftsvertrag bestim
 
 (2) Geschäftsführer kann nur eine natürliche, unbeschränkt geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
 
-1. als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen Gesetzbuchs) unterliegt,
+1. als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen Gesetzbuchs) unterliegt,
 
 2. aufgrund eines gerichtlichen Urteils oder einer vollziehbaren Entscheidung einer Verwaltungsbehörde einen Beruf, einen Berufszweig, ein Gewerbe oder einen Gewerbezweig nicht ausüben darf, sofern der Unternehmensgegenstand ganz oder teilweise mit dem Gegenstand des Verbots übereinstimmt,
 

@@ -635,10 +635,6 @@ Angleichung an das Recht der Europäischen Union
 
 Rechtsverordnungen in bestimmten Fällen
 
-§ 83b
-
-Verkündung von Rechtsverordnungen
-
  
 
 Sechzehnter Abschnitt
@@ -2755,7 +2751,7 @@ Bei xenogenen Arzneimitteln müssen die Anforderungen nach Satz 1 Nummer 3 im Hi
 
 vorliegen.
 
-Erklärt eine Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, nicht an der klinischen Prüfung teilnehmen zu wollen, oder bringt sie dies in sonstiger Weise zum Ausdruck, so gilt dies als ausdrücklicher Wunsch im Sinne des Artikels 31 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 536/2014. Bei einer volljährigen Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, darf eine klinische Prüfung im Sinne des Artikels 31 Absatz 1 Buchstabe g Ziffer ii der Verordnung (EU) Nr. 536/2014, die ausschließlich einen Nutzen für die repräsentierte Bevölkerungsgruppe, zu der die betroffene Person gehört, zur Folge haben wird (gruppennützige klinische Prüfung), nur durchgeführt werden, soweit die betroffene Person als einwilligungsfähige volljährige Person für den Fall ihrer Einwilligungsunfähigkeit schriftlich nach ärztlicher Aufklärung festgelegt hat, dass sie in bestimmte, zum Zeitpunkt der Festlegung noch nicht unmittelbar bevorstehende gruppennützige klinische Prüfungen einwilligt. Der Betreuer prüft, ob diese Festlegungen auf die aktuelle Situation zutreffen. Die Erklärung kann jederzeit formlos widerrufen werden. § 1901a Absatz 1, 4 und 5 des Bürgerlichen Gesetzbuches gilt im Übrigen entsprechend. Die betroffene Person ist über sämtliche für die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören insbesondere die Aufklärung über das Wesen, die Ziele, den Nutzen, die Folgen, die Risiken und die Nachteile klinischer Prüfungen, die unter den Bedingungen des Artikels 31 der Verordnung (EU) Nr. 536/2014 stattfinden, sowie die in Artikel 29 Absatz 2 Buchstabe a Ziffer ii und iv der Verordnung (EU) Nr. 536/2014 angeführten Inhalte. Bei Minderjährigen, für die nach Erreichen der Volljährigkeit Satz 1 gelten würde, darf eine solche gruppennützige klinische Prüfung nicht durchgeführt werden.
+Erklärt eine Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, nicht an der klinischen Prüfung teilnehmen zu wollen, oder bringt sie dies in sonstiger Weise zum Ausdruck, so gilt dies als ausdrücklicher Wunsch im Sinne des Artikels 31 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 536/2014. Bei einer volljährigen Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der klinischen Prüfung zu erkennen und ihren Willen hiernach auszurichten, darf eine klinische Prüfung im Sinne des Artikels 31 Absatz 1 Buchstabe g Ziffer ii der Verordnung (EU) Nr. 536/2014, die ausschließlich einen Nutzen für die repräsentierte Bevölkerungsgruppe, zu der die betroffene Person gehört, zur Folge haben wird (gruppennützige klinische Prüfung), nur durchgeführt werden, soweit die betroffene Person als einwilligungsfähige volljährige Person für den Fall ihrer Einwilligungsunfähigkeit schriftlich nach ärztlicher Aufklärung festgelegt hat, dass sie in bestimmte, zum Zeitpunkt der Festlegung noch nicht unmittelbar bevorstehende gruppennützige klinische Prüfungen einwilligt. Der Betreuer prüft, ob diese Festlegungen auf die aktuelle Situation zutreffen. Die Erklärung kann jederzeit formlos widerrufen werden. § 1827 Absatz 1, 4 und 5 des Bürgerlichen Gesetzbuches gilt im Übrigen entsprechend. Die betroffene Person ist über sämtliche für die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören insbesondere die Aufklärung über das Wesen, die Ziele, den Nutzen, die Folgen, die Risiken und die Nachteile klinischer Prüfungen, die unter den Bedingungen des Artikels 31 der Verordnung (EU) Nr. 536/2014 stattfinden, sowie die in Artikel 29 Absatz 2 Buchstabe a Ziffer ii und iv der Verordnung (EU) Nr. 536/2014 angeführten Inhalte. Bei Minderjährigen, für die nach Erreichen der Volljährigkeit Satz 1 gelten würde, darf eine solche gruppennützige klinische Prüfung nicht durchgeführt werden.
 
 (5) Eine klinische Prüfung darf in Notfällen nur durchgeführt werden, wenn die Voraussetzungen des Artikels 35 der Verordnung (EU) Nr. 536/2014 vorliegen.
 
@@ -4223,10 +4219,6 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 # § 83a – Rechtsverordnungen in bestimmten Fällen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union in diesem Gesetz oder in aufgrund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
-
-# § 83b – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
 # § 84 – Gefährdungshaftung
 

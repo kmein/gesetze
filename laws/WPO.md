@@ -284,7 +284,7 @@ Die Entscheidung über den Antrag auf Bestellung kann ausgesetzt werden, wenn ge
 
 (5) (weggefallen)
 
-(6) Sind Berufsangehörige wegen einer psychischen Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung zur Wahrnehmung ihrer Rechte in dem Verfahren nicht in der Lage, bestellt das Betreuungsgericht auf Antrag der Wirtschaftsprüferkammer einen Betreuer als gesetzlichen Vertreter in dem Verfahren; die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bei der Anordnung einer Betreuung nach den §§ 1896ff. des Bürgerlichen Gesetzbuches sind entsprechend anzuwenden. Zum Betreuer soll ein Berufsangehöriger oder eine Berufsangehörige bestellt werden.
+(6) Sind Berufsangehörige wegen einer psychischen Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung zur Wahrnehmung ihrer Rechte in dem Verfahren nicht in der Lage, bestellt das Betreuungsgericht auf Antrag der Wirtschaftsprüferkammer einen Betreuer als gesetzlichen Vertreter in dem Verfahren; die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bei der Anordnung einer Betreuung nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuches sind entsprechend anzuwenden. Zum Betreuer soll ein Berufsangehöriger oder eine Berufsangehörige bestellt werden.
 
 (7) Entfällt die aufschiebende Wirkung einer Anfechtungsklage, sind § 116Abs. 2 bis 4, § 117 Abs. 2 und § 121 entsprechend anzuwenden. Die Anfechtungsklage gegen einen Widerruf aus den Gründen des Absatzes 2 Nr. 4 hat keine aufschiebende Wirkung.
 

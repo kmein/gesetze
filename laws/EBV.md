@@ -45,7 +45,9 @@ a) steuerpflichtiger Arbeitslohn, getrennt nach laufenden und sonstigen Bezügen
 
 b) Sozialversicherungsbruttoentgelt, gegebenenfalls abweichend je Versicherungszweig und getrennt nach laufenden und einmaligen Bezügen und Abzügen,
 
-c) Gesamtbruttoentgelt ohne Trennung nach laufenden und einmaligen Bezügen und Abzügen;
+c) Gesamtbruttoentgelt ohne Trennung nach laufenden und einmaligen Bezügen und Abzügen,
+
+d) pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach § 40a Absatz 2 und § 40b des Einkommensteuergesetzes jeweils nach ihrer gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto alle weiteren pauschal besteuerten Bezüge;
 
 3. die gesetzlichen Abzüge vom steuerpflichtigen Arbeitslohn und Sozialversicherungsbruttoentgelt, getrennt nach laufendem und einmaligem Bruttoentgelt
 
@@ -88,6 +90,8 @@ b) Beiträge der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer zur Zu
 # § 2 – Verfahren
 
 (1) Arbeitnehmerinnen und Arbeitnehmer erhalten eine Entgeltbescheinigung nach § 1 in Textform für jeden Abrechnungszeitraum mit der Abrechnung des Entgeltes. Die Verpflichtung entfällt, wenn sich gegenüber dem letzten Abrechnungszeitraum keine Änderungen ergeben oder sich nur der Abrechnungszeitraum selbst (§ 1 Absatz 1 Nummer 6) ändert. Enthält eine Entgeltbescheinigung gegenüber der letzten Bescheinigung inhaltliche Änderungen, ist gegebenenfalls der Hinweis aufzunehmen, für welche Entgeltabrechnungszeiträume keine Bescheinigung ausgestellt wurde, da keine Veränderungen vorlagen, sodass ein durchgehender Nachweis möglich ist.
+
+(1a) Die Angaben nach § 1 Absatz 2 Nummer 2 Buchstabe d und Absatz 3 können jeweils für die einzelne Angabe als Anlage der Bescheinigung nach Absatz 1 angefügt werden.
 
 (2) Die Arbeitnehmerin oder der Arbeitnehmer können das Kirchensteuermerkmal in der Entgeltbescheinigung schwärzen.
 

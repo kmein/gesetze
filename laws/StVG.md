@@ -2761,8 +2761,6 @@ e) Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt unverz
 
 # § 66 – Verkündung von Rechtsverordnungen
 
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # Anlage – (zu § 24a)
 
 (Fundstelle: BGBl. I 2007, 1045)

@@ -237,7 +237,7 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 2. Klagen in Aufsichtsangelegenheiten gegenüber dem Gemeinsamen Bundesausschuss, denen die in Nummer 1 genannten Entscheidungen und Regelungen der Richtlinien des Gemeinsamen Bundesausschusses zugrunde liegen, und
 
-3. Klagen aufgrund von Verträgen nach den §§ 73b und 73c des Fünften Buches Sozialgesetzbuch sowie Klagen im Zusammenhang mit der Teilnahme an der vertragsärztlichen Versorgung aufgrund von Ermächtigungen nach den §§ 116, 116a und 117 bis 119b des Fünften Buches Sozialgesetzbuch, Klagen wegen der Vergütung nach § 120 des Fünften Buches Sozialgesetzbuch sowie Klagen aufgrund von Verträgen nach § 140a des Fünften Buches Sozialgesetzbuch, soweit es um die Bereinigung der Gesamtvergütung nach § 140d des Fünften Buches Sozialgesetzbuch geht.
+3. Klagen aufgrund von Verträgen nach § 73b des Fünften Buches Sozialgesetzbuch und § 73c des Fünften Buches Sozialgesetzbuch in der am 22. Juli 2015 geltenden Fassung sowie Klagen im Zusammenhang mit der Teilnahme an der vertragsärztlichen Versorgung aufgrund von Ermächtigungen nach den §§ 116, 116a und 117 bis 119c des Fünften Buches Sozialgesetzbuch, Klagen wegen der Vergütung nach § 120 des Fünften Buches Sozialgesetzbuch sowie Klagen aufgrund von Verträgen nach § 140a des Fünften Buches Sozialgesetzbuch, soweit es um die Bereinigung der Gesamtvergütung nach § 140d des Fünften Buches Sozialgesetzbuch geht.
 
 (3) Der Bezirk einer Kammer kann auf Bezirke anderer Sozialgerichte erstreckt werden. Die beteiligten Länder können die Ausdehnung des Bezirks einer Kammer auf das Gebiet oder Gebietsteile mehrerer Länder vereinbaren.
 
@@ -411,9 +411,9 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (2) Die Landessozialgerichte entscheiden im ersten Rechtszug über
 
-1. Klagen gegen Entscheidungen der Landesschiedsämter sowie der sektorenübergreifenden Schiedsgremien auf Landesebene und gegen Beanstandungen von Entscheidungen der Landesschiedsämter und der sektorenübergreifenden Schiedsgremien auf Landesebene nach dem Fünften Buch Sozialgesetzbuch, gegen Entscheidungen der Schiedsstellen nach § 120 Absatz 4 des Fünften Buches Sozialgesetzbuch, der Schiedsstellen nach § 133 des Neunten Buches Sozialgesetzbuch, der Schiedsstelle nach § 76 des Elften Buches Sozialgesetzbuch und der Schiedsstellen nach § 81 des Zwölften Buches Sozialgesetzbuch,
+1. Klagen gegen Entscheidungen der Landesschiedsämter sowie der sektorenübergreifenden Schiedsgremien auf Landesebene und gegen Beanstandungen von Entscheidungen der Landesschiedsämter und der sektorenübergreifenden Schiedsgremien auf Landesebene nach dem Fünften Buch Sozialgesetzbuch, gegen Entscheidungen der Schiedsstellen nach § 75 Absatz 3c, § 111b Absatz 6, § 120 Absatz 4, § 132a Absatz 3 und § 132l Absatz 4 des Fünften Buches Sozialgesetzbuch, der Schiedsstellen nach § 133 des Neunten Buches Sozialgesetzbuch, der Schiedsstelle nach § 76 des Elften Buches Sozialgesetzbuch und des Schiedsgremiums nach § 113c Absatz 4 des Elften Buches Sozialgesetzbuch und der Schiedsstellen nach § 81 des Zwölften Buches Sozialgesetzbuch,
 
-2. Aufsichtsangelegenheiten gegenüber Trägern der Sozialversicherung und ihren Verbänden, gegenüber den Kassenärztlichen und Kassenzahnärztlichen Vereinigungen sowie der Kassenärztlichen und Kassenzahnärztlichen Bundesvereinigung, bei denen die Aufsicht von einer Landes- oder Bundesbehörde ausgeübt wird,
+2. Aufsichtsangelegenheiten gegenüber Trägern der Sozialversicherung und ihren Verbänden, gegenüber den Kassenärztlichen und Kassenzahnärztlichen Vereinigungen, gegenüber der Kassenärztlichen und Kassenzahnärztlichen Bundesvereinigung und den Medizinischen Diensten sowie dem Medizinischen Dienst Bund, bei denen die Aufsicht von einer Landes- oder Bundesbehörde ausgeübt wird,
 
 3. Klagen in Angelegenheiten der Erstattung von Aufwendungen nach § 6b des Zweiten Buches Sozialgesetzbuch,
 
@@ -437,9 +437,9 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 2. Klagen gegen Entscheidungen des Bundesministeriums für Gesundheit nach § 87 Abs. 6 des Fünften Buches Sozialgesetzbuch gegenüber den Bewertungsausschüssen und den erweiterten Bewertungsausschüssen sowie gegen Beanstandungen des Bundesministeriums für Gesundheit gegenüber den Bundesschiedsämtern und dem sektorenübergreifenden Schiedsgremium auf Bundesebene,
 
-3. Klagen gegen Entscheidungen und Richtlinien des Gemeinsamen Bundesausschusses (§§ 91, 92 des Fünften Buches Sozialgesetzbuch), Klagen in Aufsichtsangelegenheiten gegenüber dem Gemeinsamen Bundesausschuss, Klagen gegen die Festsetzung von Festbeträgen durch die Spitzenverbände der Krankenkassen oder den Spitzenverband Bund der Krankenkassen, Klagen gegen Entscheidungen der Schiedsstellen nach den §§ 129, 130b und 134 des Fünften Buches Sozialgesetzbuch sowie Klagen gegen Entscheidungen des Schlichtungsausschusses Bund nach § 19 des Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 10. April 1991 (BGBl. I S. 886), das zuletzt durch Artikel 3 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist.
+3. Klagen gegen Entscheidungen und Richtlinien des Gemeinsamen Bundesausschusses (§§ 91, 92 des Fünften Buches Sozialgesetzbuch), Klagen in Aufsichtsangelegenheiten gegenüber dem Gemeinsamen Bundesausschuss, Klagen gegen die Festsetzung von Festbeträgen durch die Spitzenverbände der Krankenkassen oder den Spitzenverband Bund der Krankenkassen, Klagen gegen Entscheidungen der Schiedsstellen nach den §§ 125, 129, 130b, 131, 134, 134a des Fünften Buches Sozialgesetzbuch und der Schlichtungsstelle nach § 319 des Fünften Buches Sozialgesetzbuch sowie Klagen gegen Entscheidungen des Schlichtungsausschusses Bund nach § 19 des Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 10. April 1991 (BGBl. I S. 886), das zuletzt durch Artikel 3 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist,
 
-4. (weggefallen)
+4. Klagen gegen Entscheidungen des Qualitätsausschusses nach § 113b Absatz 1 des Elften Buches Sozialgesetzbuch sowie des erweiterten Qualitätsausschusses nach § 113b Absatz 3 des Elften Buches Sozialgesetzbuch und gegen Entscheidungen des Bundesministeriums für Gesundheit nach § 113b Absatz 9 des Elften Buches Sozialgesetzbuch gegenüber dem Qualitätsausschuss und dem erweiterten Qualitätsausschuss sowie über Klagen, welche die Mitwirkung an den Richtlinien des Medizinischen Dienstes Bund betreffen (§ 17 Absatz 1, §§ 18b, 112a Absatz 2, § 114a Absatz 7 und § 114c Absatz 1 des Elften Buches Sozialgesetzbuch).
 
 (5) (weggefallen)
 
@@ -1973,7 +1973,11 @@ Verfahren in Streitigkeiten über Entscheidungen von Vergabekammern, die Rechtsb
 
 # § 210
 
-Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020 bei den Sozialgerichten anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf die Landessozialgerichte über. Dies gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
+(1) Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020 bei den Sozialgerichten anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf die Landessozialgerichte über. Dies gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
+
+(2) Verfahren gegen Entscheidungen der Schiedsstellen nach § 75 Absatz 3c, § 111b Absatz 6, § 132a Absatz 3, § 132l Absatz 4 des Fünften Buches Sozialgesetzbuch und des Schiedsgremiums nach § 113c Absatz 4 des Elften Buches Sozialgesetzbuch, die am 1. Januar 2023 anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf die Landessozialgerichte über. Satz 1 gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
+
+(3) Verfahren gegen Entscheidungen der Schiedsstellen nach den §§ 125, 131 und 134a des Fünften Buches Sozialgesetzbuch, der Schlichtungsstelle nach § 319 des Fünften Buches Sozialgesetzbuch, des Qualitätsausschusses nach § 113b Absatz 1 des Elften Buches Sozialgesetzbuch und des erweiterten Qualitätsausschusses nach § 113b Absatz 3 des Elften Buches Sozialgesetzbuch sowie Klagen, welche die Mitwirkung an den Richtlinien des Medizinischen Dienstes Bund betreffen (§ 17 Absatz 1, §§ 18b, 112a Absatz 2, § 114a Absatz 7 und § 114c Absatz 1 des Elften Buches Sozialgesetzbuch), die am 1. Januar 2023 anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf das Landessozialgericht Berlin-Brandenburg über. Satz 1 gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
 
 # §§ 211 bis 217 – (weggefallen)
 

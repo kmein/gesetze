@@ -1597,6 +1597,7 @@
 - [EBArbSchV](laws/EBArbSchV.md) Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes
 - [EbertStiftG](laws/EbertStiftG.md) Gesetz über die Errichtung einer Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte
 - [EBeV 2022](laws/EBeV_2022.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2021 und 2022
+- [EBeV 2030](laws/EBeV_2030.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2023 bis 2030
 - [EBIG](laws/EBIG.md) Gesetz zur Europäischen Bürgerinitiative
 - [EBIZustV](laws/EBIZustV.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 5 des Gesetzes zur Europäischen Bürgerinitiative
 - [EBKrG](laws/EBKrG.md) Gesetz über Kreuzungen von Eisenbahnen und Straßen

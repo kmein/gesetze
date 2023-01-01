@@ -311,25 +311,13 @@ Datenzugang nach Satz 1 ist entsprechend den zuständigen Übertragungsnetzbetre
 
 (1) Betreiber von EEG-Anlagen, für die erstmals die Flexibilitätsprämie nach § 50b des Erneuerbare-Energien-Gesetzes in Anspruch genommen werden soll, müssen die geplante Inanspruchnahme im Marktstammdatenregister eintragen. Die Eintragung darf frühestens drei Monate vor der geplanten Inanspruchnahme der Flexibilitätsprämie erfolgen. Diese Frist ist abweichend von § 7 Absatz 1 auch anzuwenden auf die Registrierung einer Erhöhung der installierten Leistung der Anlage, wenn die Leistung zur Inanspruchnahme der Flexibilitätsprämie erhöht wird.
 
-(2) Betreiber von EEG-Anlagen, in denen erstmals ausschließlich Biomethan zur Stromerzeugung eingesetzt wird, um eine Förderung nach den Bestimmungen des Erneuerbare-Energien-Gesetzes in der Fassung, die für die Anlage nach § 100 Absatz 2 Satz 1 Nummer 4 oder Nummer 10 und Absatz 3 Satz 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung maßgeblich ist, in Anspruch zu nehmen, müssen die Umstellung als EEG-Anlage innerhalb eines Monats nach der Umstellung im Marktstammdatenregister eintragen.
+(2) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese Angabe nicht anzuwenden.
 
-(3) Wird eine EEG-Anlage, die ausschließlich mit Biomethan betrieben wurde, endgültig stillgelegt, so muss der Anlagenbetreiber bei der Registrierung der Stilllegung erklären, ob er der Nutzung der frei gewordenen Kapazität im Sinn des § 100 Absatz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung widerspricht.
-
-(4) Ein Betreiber, der die frei gewordene Kapazität einer stillgelegten Anlage, die ausschließlich mit Biomethan betrieben wurde, nutzen möchte, muss
-
-1. dies dem Netzbetreiber mitteilen, an dessen Netz er eine Anlage anschließen möchte, und
-
-2. die Anlage, der die Kapazität zugewiesen werden soll, zumindest als Projekt registrieren.
-
-Der Netzbetreiber muss der Bundesnetzagentur die Nutzung der Kapazität unverzüglich mitteilen.
-
-(5) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese Angabe nicht anzuwenden.
-
-(6) Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
+(3) Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
 
 # § 19 – Veröffentlichungen
 
-(1) Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen Internetseite:
+Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen Internetseite:
 
 1. spätestens zum letzten Kalendertag eines Monats
 
@@ -353,7 +341,7 @@ a) den annualisierten Brutto-Zubau von Solaranlagen in dem Bezugszeitraum und
 
 b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerbare-Energien-Gesetzes für Solaranlagen ergeben.
 
-(2) Zur Umsetzung des § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung hat die Bundesnetzagentur die Stilllegungen nach § 18 Absatz 3 gesondert auf ihrer Internetseite zu veröffentlichen, soweit der Nutzung der freigewordenen Kapazität nicht widersprochen wurde. Dabei veröffentlicht sie auch die Höhe der installierten Leistung der jeweiligen Anlage, die für den Nachweis nach § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung herangezogen werden kann. Die Veröffentlichung muss aktualisiert werden, sobald eine Stilllegung eingetragen worden ist oder ein Netzbetreiber die geplante Nutzung der Kapazität im Sinn des § 18 Absatz 4 angezeigt hat.
+(+++ Neufassung d. § 19 Abs. 1 gem. Art. 10 Nr. 7 G v. 20.7.2022 I 1237 mWv 1.1.2023 aufgrund textlicher Unstimmigkeit nicht ausführbar +++)
 
 # § 20 – Nutzungsbestimmungen
 

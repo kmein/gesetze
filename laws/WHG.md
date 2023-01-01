@@ -750,6 +750,16 @@ Im Übrigen gelten die landesrechtlichen Vorschriften.
 
 (2) Stauanlagen und Stauhaltungsdämme sind nach den allgemein anerkannten Regeln der Technik zu errichten, zu betreiben und zu unterhalten; die Anforderungen an den Hochwasserschutz müssen gewahrt sein. Wer Stauanlagen und Stauhaltungsdämme betreibt, hat ihren ordnungsgemäßen Zustand und Betrieb auf eigene Kosten zu überwachen (Eigenüberwachung). Entsprechen vorhandene Stauanlagen oder Stauhaltungsdämme nicht den vorstehenden Anforderungen, so kann die zuständige Behörde die Durchführung der erforderlichen Maßnahmen innerhalb angemessener Fristen anordnen.
 
+(3) Eine Solaranlage darf nicht errichtet und betrieben werden
+
+1. in und über einem oberirdischen Gewässer, das kein künstliches oder erheblich verändertes Gewässer ist, und
+
+2. in und über einem künstlichen oder erheblich veränderten Gewässer, wenn ausgehend von der Linie des Mittelwasserstandes
+
+a) die Anlage mehr als 15 Prozent der Gewässerfläche bedeckt oder
+
+b) der Abstand zum Ufer weniger als 40 Meter beträgt.
+
 # § 37 – Wasserabfluss
 
 (1) Der natürliche Ablauf wild abfließenden Wassers auf ein tiefer liegendes Grundstück darf nicht zum Nachteil eines höher liegenden Grundstücks behindert werden. Der natürliche Ablauf wild abfließenden Wassers darf nicht zum Nachteil eines tiefer liegenden Grundstücks verstärkt oder auf andere Weise verändert werden.

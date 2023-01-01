@@ -404,9 +404,7 @@ Im Falle des § 4 Absatz 1 Satz 2 gilt die technische Einsatzbereitschaft im Sin
 
 (3) Die Infrastrukturabgabebehörde beginnt abweichend von Absatz 2 Satz 1 bereits ab dem Tag, der auf die Bekanntmachung nach Absatz 1 Satz 1 Nummer 2 folgt, unverzüglich mit der Festsetzung der Infrastrukturabgabe für die in § 5 Absatz 2 Satz 1 Nummer 1 bezeichneten Kraftfahrzeuge mit Wirkung für den Beginn der Erhebung der Infrastrukturabgabe.
 
-# § 17 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 17 – (weggefallen)
 
 # § 18 – Evaluierung
 

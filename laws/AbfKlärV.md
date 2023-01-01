@@ -113,6 +113,16 @@ Zu den Böden des Landschaftsbaus zählen insbesondere Rekultivierungsflächen, 
 
 (2) Ein Klärschlammerzeuger, Gemischhersteller oder Komposthersteller, der Klärschlamm, Klärschlammgemisch oder Klärschlammkompost auf oder in einem Boden verwertet, hat die Verwertung nach Maßgabe der Anforderungen dieser Verordnung vorzunehmen.
 
+# § 3a – Berichtspflichten; Phosphoruntersuchungen
+
+(1) Klärschlammerzeuger, die im Kalenderjahr 2023 eine Abwasserbehandlungsanlage betreiben, haben der zuständigen Behörde bis spätestens 31. Dezember 2023 einen Bericht über die geplanten und eingeleiteten Maßnahmen zur Sicherstellung der ab 1. Januar 2029 durchzuführenden Phosphorrückgewinnung, zur Auf- oder Einbringung von Klärschlamm auf oder in Böden oder zur sonstigen Klärschlammentsorgung im Sinne des Kreislaufwirtschaftsgesetzes vorzulegen. Klärschlammerzeuger, die eine Abwasserbehandlungsanlage erstmals nach dem 31. Dezember 2023 in Betrieb nehmen, haben den Bericht nach Satz 1 spätestens sechs Monate nach der Betriebsaufnahme der Abwasserbehandlungsanlage vorzulegen.
+
+(2) Klärschlammerzeuger, die im Kalenderjahr 2023 eine Abwasserbehandlungsanlage betreiben, haben Proben des anfallenden Klärschlamms im Kalenderjahr 2023 nach den Bestimmungen des § 32 Absatz 1 und 3 auf den Phosphorgehalt und den Gehalt an basisch wirksamen Stoffen insgesamt, bewertet als Calciumoxid, untersuchen zu lassen. Das Untersuchungsergebnis ist dem Bericht nach Absatz 1 Satz 1 beizufügen. Wurde der Klärschlamm bereits nach § 5 Absatz 1 Satz 1 Nummer 4 ordnungsgemäß auf den Phosphorgehalt untersucht, kann der Klärschlammerzeuger die Ergebnisse dieser Untersuchung verwenden, wenn die Ergebnisse nicht älter als ein Jahr sind.
+
+(3) Klärschlammerzeuger, die nach dem 31. Dezember 2023 eine Abwasserbehandlungsanlage in Betrieb nehmen, haben Proben des anfallenden Klärschlamms innerhalb von sechs Monaten nach der Betriebsaufnahme der Abwasserbehandlungsanlage nach den Bestimmungen des § 32 Absatz 1 und 3 untersuchen zu lassen. Das Untersuchungsergebnis ist dem Bericht nach Absatz 1 Satz 2 beizufügen.
+
+(4) Die Klärschlammuntersuchung nach den Absätzen 2 und 3 ist im Kalenderjahr 2027 zu wiederholen. Absatz 2 Satz 3 gilt entsprechend. Der Klärschlammerzeuger hat das Untersuchungsergebnis innerhalb von vier Wochen nach Durchführung der Untersuchung der zuständigen Behörde vorzulegen.
+
 # § 4 – Bodenbezogene Untersuchungspflichten
 
 (1) Der Klärschlammerzeuger hat vor der erstmaligen Auf- oder Einbringung des Klärschlamms auf der durch den Klärschlammnutzer nach § 16 Absatz 1 Satz 1 mitgeteilten Auf- oder Einbringungsfläche
@@ -689,33 +699,35 @@ Die zuständige Behörde hat jährlich einen Auf- oder Einbringungsplan über de
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 4 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit § 4 Absatz 1 Satz 2, die Bodenart nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bestimmen lässt,
+1. entgegen § 3a Absatz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-2. entgegen § 4 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit § 4 Absatz 1 Satz 2, oder entgegen § 4 Absatz 2 eine Bodenuntersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
+2. entgegen § 3a Absatz 2 Satz 1 oder Absatz 3 Satz 1 oder § 5 Absatz 1 oder 2 Satz 1, jeweils auch in Verbindung mit Absatz 3, eine dort genannte Untersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
 
-3. entgegen § 4 Absatz 4 oder § 5 Absatz 2 Satz 2 eine Untersuchung nicht oder nicht rechtzeitig wiederholt,
+3. entgegen § 3a Absatz 4 Satz 1, § 4 Absatz 4 oder § 5 Absatz 2 Satz 2 eine Untersuchung nicht oder nicht rechtzeitig wiederholt,
 
-4. entgegen § 5 Absatz 1 oder 2 Satz 1, jeweils auch in Verbindung mit Absatz 3, eine dort genannte Untersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
+4. entgegen § 4 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit § 4 Absatz 1 Satz 2, die Bodenart nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bestimmen lässt,
 
-5. entgegen § 7 Absatz 1 Satz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt,
+5. entgegen § 4 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit § 4 Absatz 1 Satz 2, oder entgegen § 4 Absatz 2 eine Bodenuntersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
 
-6. entgegen § 8 Absatz 1, auch in Verbindung mit Absatz 2 Satz 1, oder § 15 Absatz 2 oder 3 einen Klärschlamm abgibt, auf- oder einbringt oder ein Klärschlammgemisch oder einen Klärschlammkompost herstellt,
+6. entgegen § 7 Absatz 1 Satz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt,
 
-7. entgegen § 11 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost abgibt oder auf- oder einbringt,
+7. entgegen § 8 Absatz 1, auch in Verbindung mit Absatz 2 Satz 1, oder § 15 Absatz 2 oder 3 einen Klärschlamm abgibt, auf- oder einbringt oder ein Klärschlammgemisch oder einen Klärschlammkompost herstellt,
 
-8. entgegen § 12 Absatz 1 Satz 1 einen Klärschlamm nicht richtig abgibt,
+8. entgegen § 11 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost abgibt oder auf- oder einbringt,
 
-9. entgegen § 13 Absatz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost bereitstellt,
+9. entgegen § 12 Absatz 1 Satz 1 einen Klärschlamm nicht richtig abgibt,
 
-10. entgegen § 14 Absatz 1 Satz 1 oder Absatz 2 Satz 1 mehr als die dort genannte Menge an Klärschlamm Trockenmasse, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt,
+10. entgegen § 13 Absatz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost bereitstellt,
 
-11. entgegen § 14 Absatz 2 Satz 4 ein Klärschlammgemisch oder einen Klärschlammkompost einsetzt,
+11. entgegen § 14 Absatz 1 Satz 1 oder Absatz 2 Satz 1 mehr als die dort genannte Menge an Klärschlamm Trockenmasse, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt,
 
-12. entgegen § 15 Absatz 1 einen Klärschlamm oder einen Rohschlamm abgibt oder auf- oder einbringt,
+12. entgegen § 14 Absatz 2 Satz 4 ein Klärschlammgemisch oder einen Klärschlammkompost einsetzt,
 
-13. entgegen § 15 Absatz 4, 5 oder 6 Satz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt oder
+13. entgegen § 15 Absatz 1 einen Klärschlamm oder einen Rohschlamm abgibt oder auf- oder einbringt,
 
-14. entgegen § 24 Absatz 2 Satz 1 der zuständigen Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig berichtet.
+14. entgegen § 15 Absatz 4, 5 oder 6 Satz 1 einen Klärschlamm, ein Klärschlammgemisch oder einen Klärschlammkompost auf- oder einbringt oder
+
+15. entgegen § 24 Absatz 2 Satz 1 der zuständigen Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig berichtet.
 
 (2) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 

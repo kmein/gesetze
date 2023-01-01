@@ -536,6 +536,8 @@ Jeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach diesem Ges
 
 (3) In der Zusammenarbeit mit gemeinnützigen und freien Einrichtungen und Organisationen wirken die Leistungsträger darauf hin, daß sich ihre Tätigkeit und die der genannten Einrichtungen und Organisationen zum Wohl der Leistungsempfänger wirksam ergänzen. Sie haben dabei deren Selbständigkeit in Zielsetzung und Durchführung ihrer Aufgaben zu achten. Die Nachprüfung zweckentsprechender Verwendung bei der Inanspruchnahme öffentlicher Mittel bleibt unberührt. Im übrigen ergibt sich ihr Verhältnis zueinander aus den besonderen Teilen dieses Gesetzbuchs; § 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches findet keine Anwendung.
 
+(4) Die Leistungsträger arbeiten mit den Betreuungsbehörden bei der Erfüllung ihrer Aufgaben zur Vermittlung geeigneter Hilfen zur Betreuungsvermeidung zusammen. Soziale Rechte dürfen nicht deshalb abgelehnt, versagt oder eingeschränkt werden, weil ein rechtlicher Betreuer nach § 1814 Absatz 1 des Bürgerlichen Gesetzbuchs bestellt worden ist oder bestellt werden könnte.
+
 # § 18 – Leistungen der Ausbildungsförderung
 
 (1) Nach dem Recht der Ausbildungsförderung können Zuschüsse und Darlehen für den Lebensunterhalt und die Ausbildung in Anspruch genommen werden.

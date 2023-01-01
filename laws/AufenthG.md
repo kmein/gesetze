@@ -1237,7 +1237,7 @@ Ein vorübergehender Bezug von Sozialleistungen ist für die Lebensunterhaltssic
 
 1. er die Aufenthaltserlaubnis seit fünf Jahren besitzt, wobei die Aufenthaltszeit des der Erteilung der Aufenthaltserlaubnis vorangegangenen Asylverfahrens abweichend von § 55 Absatz 3 des Asylgesetzes auf die für die Erteilung der Niederlassungserlaubnis erforderliche Zeit des Besitzes einer Aufenthaltserlaubnis angerechnet wird,
 
-2. das Bundesamt für Migration und Flüchtlinge nicht nach § 73 Absatz 2a des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den Widerruf oder die Rücknahme vorliegen; ist der Erteilung der Aufenthaltserlaubnis eine Entscheidung des Bundesamtes vorausgegangen, die im Jahr 2015, 2016 oder 2017 unanfechtbar geworden ist, muss das Bundesamt mitgeteilt haben, dass die Voraussetzungen für den Widerruf oder die Rücknahme nicht vorliegen,
+2. das Bundesamt für Migration und Flüchtlinge nicht nach § 73b Absatz 3 des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den Widerruf oder die Rücknahme vorliegen,
 
 3. sein Lebensunterhalt überwiegend gesichert ist,
 
@@ -1249,7 +1249,7 @@ Ein vorübergehender Bezug von Sozialleistungen ist für die Lebensunterhaltssic
 
 1. er die Aufenthaltserlaubnis seit drei Jahren besitzt, wobei die Aufenthaltszeit des der Erteilung der Aufenthaltserlaubnis vorangegangenen Asylverfahrens abweichend von § 55 Absatz 3 des Asylgesetzes auf die für die Erteilung der Niederlassungserlaubnis erforderliche Zeit des Besitzes einer Aufenthaltserlaubnis angerechnet wird,
 
-2. das Bundesamt für Migration und Flüchtlinge nicht nach § 73 Absatz 2a des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den Widerruf oder die Rücknahme vorliegen; ist der Erteilung der Aufenthaltserlaubnis eine Entscheidung des Bundesamtes vorausgegangen, die im Jahr 2015, 2016 oder 2017 unanfechtbar geworden ist, muss das Bundesamt mitgeteilt haben, dass die Voraussetzungen für den Widerruf oder die Rücknahme nicht vorliegen,
+2. das Bundesamt für Migration und Flüchtlinge nicht nach § 73b Absatz 3 des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den Widerruf oder die Rücknahme vorliegen,
 
 3. er die deutsche Sprache beherrscht,
 
@@ -3269,7 +3269,7 @@ Sofern Fingerabdrücke nach Satz 2 Nummer 9 erfasst werden, müssen diese in mit
 
 2. gegen den ein Strafverfahren wegen einer oder mehrerer der in § 36a Absatz 3 Nummer 2 genannten Straftaten eingeleitet wurde, oder
 
-3. bei dem ein Widerrufsverfahren nach § 73b Absatz 1 Satz 1 des Asylgesetzes oder ein Rücknahmeverfahren nach § 73b Absatz 3 des Asylgesetzes eingeleitet wurde,
+3. bei dem ein Widerrufs- oder Rücknahmeverfahren nach § 73b des Asylgesetzes eingeleitet wurde,
 
 ist die Entscheidung über die Erteilung des Aufenthaltstitels gemäß § 36a Absatz 1 bis zum Abschluss des jeweiligen Verfahrens, im Falle einer gerichtlichen Entscheidung bis zu ihrer Rechtskraft, auszusetzen, es sei denn, über den Aufenthaltstitel gemäß § 36a Absatz 1 kann ohne Rücksicht auf den Ausgang des Verfahrens entschieden werden. Im Fall von Satz 1 Nummer 3 ist bei einem Widerruf oder einer Rücknahme der Zuerkennung des subsidiären Schutzes auf das Verfahren zur Entscheidung über den Widerruf des Aufenthaltstitels des Ausländers nach § 52 Absatz 1 Satz 1 Nummer 4 abzustellen.
 

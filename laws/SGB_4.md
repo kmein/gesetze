@@ -3,7 +3,7 @@
  
 # Inhaltsübersicht
 
-Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 1 Nr. 1 Buchst. h iVm Art. 28 Abs. 6a G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 1 G v. 11.2.2021 I 154 mWv 1.1.2022, d. Art. 1 Nr. 1 Buchst. e G v. 12.6.2020 I 1248 mWv 1.1.2022, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 I 1387 mWv 1.7.2021, d. Art. 2c Nr. 1 G v. 16.7.2021 I 2970 mWv 1.4.2022, d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021 u. d. Art. 7 Nr. 1 Buchst. a u. b G v. 28.6.2022 I 969 mWv 1.10.2022; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
+Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 11 Nr. 1 iVm Art. 16 Abs. 4 G v. 22.11.2019 I 1746 idF d. Art. 12b G v. 11.2.2021 I 154 u. d. Art. 4b G v. 23.3.2022 I 482 mWv 1.1.2023, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 1 Nr. 1 Buchst. h iVm Art. 28 Abs. 6a G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 1 G v. 11.2.2021 I 154 mWv 1.1.2022, d. Art. 1 Nr. 1 Buchst. e G v. 12.6.2020 I 1248 mWv 1.1.2022, d. Art. 28 Abs. 13 G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 4 G v. 11.2.2021 I 154 u. d. Art. 4c G v. 23.3.2022 I 482 mWv 1.1.2023, d. Art. 1 Nr. 1 Buchst. a u. i G v. 12.6.2020 I 1248 mWv 1.1.2023, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 I 1387 mWv 1.7.2021, d. Art. 2c Nr. 1 G v. 16.7.2021 I 2970 mWv 1.4.2022, d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021 u. d. Art. 7 Nr. 1 Buchst. a u. b G v. 28.6.2022 I 969 mWv 1.10.2022; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
 # § 1 – Sachlicher Geltungsbereich
 
@@ -593,6 +593,10 @@ Eine Person darf nur einen auf ihren Namen ausgestellten Sozialversicherungsausw
 
 (2) In den Fällen, in denen eine meldende Stelle für einen Beschäftigungsbetrieb für mehr als einen Abrechnungskreis Meldungen erstatten will, erhält sie auf elektronischen Antrag bei der Vergabe eines weiteren Zertifikates zur Sicherung der Datenübertragung von der das Zertifikat ausstellenden Stelle eine gesonderte Absendernummer. Für diese gesonderte achtstellige Absendernummer ist ein festgelegter alphanumerischer Nummernkreis zu nutzen. Das Nähere zum Aufbau der Nummer, zu den übermittelnden Angaben und zum Verfahren regeln die Gemeinsamen Grundsätze nach § 28b Absatz 1 Satz 1 Nummer 4.
 
+# § 18o – Verarbeitung der Unternehmernummer
+
+Die Sozialversicherungsträger, ihre Verbände, ihre Arbeitsgemeinschaften, die Bundesagentur für Arbeit, die Künstlersozialkasse, die berufsständischen Versorgungseinrichtungen und deren Datenannahmestellen dürfen die Unternehmernummer nach § 136a Absatz 1 und 2 sowie die Angaben nach Absatz 3 des Siebten Buches verarbeiten, soweit dies für die Erfüllung einer Aufgabe nach diesem Gesetzbuch und dem Künstlersozialversicherungsgesetz erforderlich ist.
+
 # § 19 – Leistungen auf Antrag oder von Amts wegen
 
 Leistungen in der gesetzlichen Kranken- und Rentenversicherung, nach dem Recht der Arbeitsförderung sowie in der sozialen Pflegeversicherung werden auf Antrag erbracht, soweit sich aus den Vorschriften für die einzelnen Versicherungszweige nichts Abweichendes ergibt. Leistungen in der gesetzlichen Unfallversicherung werden von Amts wegen erbracht, soweit sich aus den Vorschriften für die gesetzliche Unfallversicherung nichts Abweichendes ergibt.
@@ -605,23 +609,23 @@ Bei der Inanspruchnahme von Leistungen, die den Zugang zu allen Formen und allen
 
 (1) Die Mittel der Sozialversicherung einschließlich der Arbeitsförderung werden nach Maßgabe der besonderen Vorschriften für die einzelnen Versicherungszweige durch Beiträge der Versicherten, der Arbeitgeber und Dritter, durch staatliche Zuschüsse und durch sonstige Einnahmen aufgebracht.
 
-(2) Der Übergangsbereich im Sinne dieses Gesetzbuches umfasst Arbeitsentgelte aus mehr als geringfügigen Beschäftigungen nach § 8 Absatz 1 Nummer 1, die regelmäßig 1 600 Euro im Monat nicht übersteigen; bei mehreren Beschäftigungsverhältnissen ist das insgesamt erzielte Arbeitsentgelt maßgebend.
+(2) Der Übergangsbereich im Sinne dieses Gesetzbuches umfasst Arbeitsentgelte aus mehr als geringfügigen Beschäftigungen nach § 8 Absatz 1 Nummer 1, die regelmäßig 2 000 Euro im Monat nicht übersteigen; bei mehreren Beschäftigungsverhältnissen ist das insgesamt erzielte Arbeitsentgelt maßgebend.
 
 (2a) Bei Beschäftigten, deren monatliches Arbeitsentgelt aus einer mehr als geringfügigen Beschäftigung den oberen Grenzbetrag des Übergangsbereichs nach Absatz 2 nicht übersteigt, ist die beitragspflichtige Einnahme BE der Betrag in Euro, der sich nach folgender Formel berechnet:  
   
 
-|     |                                                    |     |
-|:----|:---------------------------------------------------|:----|
-|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0969-1_0010.jpg) |     |
+|     |                                                  |     |
+|:----|:-------------------------------------------------|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1988_0010.jpg) |     |
 
   
   
 Dabei ist AE das Arbeitsentgelt in Euro, G die Geringfügigkeitsgrenze und F der Faktor, der sich berechnet, indem der Wert 28 Prozent geteilt wird durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist. Der Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ist die Summe der zum 1. Januar desselben Kalenderjahres geltenden Beitragssätze in der allgemeinen Rentenversicherung, in der sozialen Pflegeversicherung sowie zur Arbeitsförderung und des um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung. Für die Zeit vom 1. Oktober 2022 bis zum 31. Dezember 2022 beträgt der Faktor F 0,7009. Der Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu geben. Zur Bestimmung des vom Arbeitnehmer zu tragenden Anteils am Sozialversicherungsbeitrag wird als beitragspflichtige Einnahme der Betrag zu Grunde gelegt, der sich nach folgender Formel berechnet:  
   
 
-|     |                                                    |     |
-|:----|:---------------------------------------------------|:----|
-|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0969-1_0020.jpg) |     |
+|     |                                                  |     |
+|:----|:-------------------------------------------------|:----|
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1988_0020.jpg) |     |
 
   
   
@@ -653,7 +657,7 @@ Die Versicherungsträger haben die Beiträge, soweit diese von ihnen festzusetze
 
 (1) Laufende Beiträge, die geschuldet werden, werden entsprechend den Regelungen der Satzung der Krankenkasse und den Entscheidungen des Spitzenverbandes Bund der Krankenkassen fällig. Beiträge, die nach dem Arbeitsentgelt oder dem Arbeitseinkommen zu bemessen sind, sind in voraussichtlicher Höhe der Beitragsschuld spätestens am drittletzten Bankarbeitstag des Monats fällig, in dem die Beschäftigung oder Tätigkeit, mit der das Arbeitsentgelt oder Arbeitseinkommen erzielt wird, ausgeübt worden ist oder als ausgeübt gilt; ein verbleibender Restbeitrag wird zum drittletzten Bankarbeitstag des Folgemonats fällig. Der Arbeitgeber kann abweichend von Satz 2 den Betrag in Höhe der Beiträge des Vormonats zahlen; für einen verbleibenden Restbetrag bleibt es bei der Fälligkeit zum drittletzten Bankarbeitstag des Folgemonats. In den Fällen des Satzes 3 sind Beiträge, die auf eine Einmalzahlung im Vormonat entfallen, nicht zu berücksichtigen. Sonstige Beiträge werden spätestens am Fünfzehnten des Monats fällig, der auf den Monat folgt, für den sie zu entrichten sind. Die erstmalige Fälligkeit der Beiträge für die nach § 3 Satz 1 Nummer 1a des Sechsten Buches versicherten Pflegepersonen ist abhängig von dem Zeitpunkt, zu dem die Pflegekasse, das private Versicherungsunternehmen, die Festsetzungsstelle für die Beihilfe oder der Dienstherr bei Heilfürsorgeberechtigten die Versicherungspflicht der Pflegeperson festgestellt hat oder ohne Verschulden hätte feststellen können. Wird die Feststellung in der Zeit vom Ersten bis zum Fünfzehnten eines Monats getroffen, werden die Beiträge erstmals spätestens am Fünfzehnten des folgenden Monats fällig; wird die Feststellung in der Zeit vom Sechzehnten bis zum Ende eines Monats getroffen, werden die Beiträge erstmals am Fünfzehnten des zweiten darauffolgenden Monats fällig; das Nähere vereinbaren die Spitzenverbände der beteiligten Träger der Sozialversicherung, der Verband der privaten Krankenversicherung e. V. und die Festsetzungsstellen für die Beihilfe.
 
-(2) Die Beiträge für eine Sozialleistung im Sinne des § 3 Satz 1 Nummer 3 des Sechsten Buches einschließlich Sozialleistungen, auf die die Vorschriften des Fünften und des Sechsten Buches über die Kranken- und Rentenversicherung der Bezieher von Arbeitslosengeld oder die Krankenversicherung der Bezieher von Arbeitslosengeld II entsprechend anzuwenden sind, werden am Achten des auf die Zahlung der Sozialleistung folgenden Monats fällig. Die Träger der Rentenversicherung und die Bundesagentur für Arbeit können unbeschadet des Satzes 1 vereinbaren, dass die Beiträge zur Rentenversicherung aus Sozialleistungen der Bundesagentur für Arbeit zu den vom Bundesamt für Soziale Sicherung festgelegten Fälligkeitsterminen für die Rentenzahlungen im Inland gezahlt werden. Die Träger der Rentenversicherung mit Ausnahme der Deutschen Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung, die Bundesagentur für Arbeit und die Behörden des sozialen Entschädigungsrechts können unbeschadet des Satzes 1 vereinbaren, dass die Beiträge zur Rentenversicherung und nach dem Recht der Arbeitsförderung aus Sozialleistungen nach dem sozialen Entschädigungsrecht in voraussichtlicher Höhe der Beitragsschuld spätestens zum 30. Juni des laufenden Jahres und ein verbleibender Restbetrag zum nächsten Fälligkeitstermin gezahlt werden.
+(2) Die Beiträge für eine Sozialleistung im Sinne des § 3 Satz 1 Nummer 3 des Sechsten Buches einschließlich Sozialleistungen, auf die die Vorschriften des Fünften und des Sechsten Buches über die Kranken- und Rentenversicherung der Bezieher von Arbeitslosengeld oder die Krankenversicherung der Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches entsprechend anzuwenden sind, werden am Achten des auf die Zahlung der Sozialleistung folgenden Monats fällig. Die Träger der Rentenversicherung und die Bundesagentur für Arbeit können unbeschadet des Satzes 1 vereinbaren, dass die Beiträge zur Rentenversicherung aus Sozialleistungen der Bundesagentur für Arbeit zu den vom Bundesamt für Soziale Sicherung festgelegten Fälligkeitsterminen für die Rentenzahlungen im Inland gezahlt werden. Die Träger der Rentenversicherung mit Ausnahme der Deutschen Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung, die Bundesagentur für Arbeit und die Behörden des sozialen Entschädigungsrechts können unbeschadet des Satzes 1 vereinbaren, dass die Beiträge zur Rentenversicherung und nach dem Recht der Arbeitsförderung aus Sozialleistungen nach dem sozialen Entschädigungsrecht in voraussichtlicher Höhe der Beitragsschuld spätestens zum 30. Juni des laufenden Jahres und ein verbleibender Restbetrag zum nächsten Fälligkeitstermin gezahlt werden.
 
 (2a) Bei Verwendung eines Haushaltsschecks (§ 28a Absatz 7) sind die Beiträge für das in den Monaten Januar bis Juni erzielte Arbeitsentgelt am 31. Juli des laufenden Jahres und für das in den Monaten Juli bis Dezember erzielte Arbeitsentgelt am 31. Januar des folgenden Jahres fällig.
 
@@ -825,7 +829,7 @@ eine Meldung zu erstatten. Jede Meldung sowie die darin enthaltenen Datensätze 
 
 (2a) Der Arbeitgeber hat für jeden in einem Kalenderjahr Beschäftigten, der in der Unfallversicherung versichert ist, zum 16. Februar des Folgejahres eine besondere Jahresmeldung zur Unfallversicherung zu erstatten. Diese Meldung enthält über die Angaben nach Absatz 3 Satz 1 Nummer 1 bis 3, 6 und 9 hinaus folgende Angaben:
 
-1. die Mitgliedsnummer des Unternehmers;
+1. die Unternehmernummer nach § 136a des Siebten Buches;
 
 2. die Betriebsnummer des zuständigen Unfallversicherungsträgers;
 
@@ -848,6 +852,8 @@ Arbeitgeber, die Mitglied der landwirtschaftlichen Berufsgenossenschaft sind und
 6. die Betriebsnummer seines Beschäftigungsbetriebes,
 
 7. die Beitragsgruppen,
+
+7a. (weggefallen)
 
 8. die zuständige Einzugsstelle und
 
@@ -1247,7 +1253,7 @@ Hat ein Arbeitgeber mehrere Beschäftigungsbetriebe, wird er insgesamt geprüft.
 
 (6) Zu prüfen sind auch steuerberatende Stellen, Rechenzentren und vergleichbare Einrichtungen, die im Auftrag des Arbeitgebers oder einer von ihm beauftragten Person Löhne und Gehälter abrechnen oder Meldungen erstatten. Die örtliche Zuständigkeit richtet sich im Bereich der Regionalträger nach dem Sitz dieser Stellen. Absatz 5 gilt entsprechend.
 
-(6a) Für die Prüfung nach Absatz 1 gilt § 147 Absatz 6 Satz 1 und 2 der Abgabenordnung entsprechend mit der Maßgabe, dass der Rentenversicherungsträger eine Übermittlung der Daten im Einvernehmen mit dem Arbeitgeber verlangen kann. Die Deutsche Rentenversicherung Bund bestimmt in Grundsätzen bundeseinheitlich das Nähere zum Verfahren der Datenübermittlung und der dafür erforderlichen Datensätze und Datenbausteine. Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+(6a) Für die Prüfung nach Absatz 1 sind dem zuständigen Rentenversicherungsträger die notwendigen Daten elektronisch aus einem systemgeprüften Entgeltabrechnungsprogramm zu übermitteln; für Daten aus der Finanzbuchhaltung kann dies nur im Einvernehmen mit dem Arbeitgeber erfolgen. Die Deutsche Rentenversicherung Bund bestimmt in Grundsätzen bundeseinheitlich das Nähere zum Verfahren der Datenübermittlung und der dafür erforderlichen Datensätze und Datenbausteine. Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 (7) Die Träger der Rentenversicherung haben eine Übersicht über die Ergebnisse ihrer Prüfungen zu führen und bis zum 31. März eines jeden Jahres für das abgelaufene Kalenderjahr den Aufsichtsbehörden vorzulegen. Das Nähere über Inhalt und Form der Übersicht bestimmen einvernehmlich die Aufsichtsbehörden der Träger der Rentenversicherung mit Wirkung für diese.
 
@@ -1276,6 +1282,8 @@ zu verarbeiten, soweit dies für die Prüfung, ob die Arbeitgeber ihre Meldepfli
 (10) Arbeitgeber werden wegen der Beschäftigten in privaten Haushalten nicht geprüft.
 
 (11) Sind beim Übergang der Prüfung der Arbeitgeber von Krankenkassen auf die Träger der Rentenversicherung Angestellte übernommen worden, die am 1. Januar 1995 ganz oder überwiegend mit der Prüfung der Arbeitgeber beschäftigt waren, sind die bis zum Zeitpunkt der Übernahme gültigen Tarifverträge oder sonstigen kollektiven Vereinbarungen für die übernommenen Arbeitnehmer bis zum Inkrafttreten neuer Tarifverträge oder sonstiger kollektiver Vereinbarungen maßgebend. Soweit es sich bei einem gemäß Satz 1 übernommenen Beschäftigten um einen Dienstordnungs-Angestellten handelt, tragen der aufnehmende Träger der Rentenversicherung und die abgebende Krankenkasse bei Eintritt des Versorgungsfalles die Versorgungsbezüge anteilig, sofern der Angestellte im Zeitpunkt der Übernahme das 45. Lebensjahr bereits vollendet hatte. § 107b Absatz 2 bis 5 des Beamtenversorgungsgesetzes gilt sinngemäß.
+
+(+++ § 28p Abs. 6a Satz 1: IdF d. Art. 1 Nr. 17 Buchst. b G v. 12.6.2020 I 1248 mWv 1.1.2023; Änderungsanweisung d. Art. 8 Abs. 1 G v. 20.12.2022 I 2730 mWv 1.1.2023 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
 # § 28q – Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung
 
@@ -2442,7 +2450,7 @@ Die Aufteilung der Kosten innerhalb der gesetzlichen Krankenversicherung und der
 
 (1) Die Meldung des elektronischen Lohnnachweises enthält insbesondere folgende Angaben:
 
-1. die Mitgliedsnummer des Unternehmers;
+1. die Unternehmernummer nach § 136a des Siebten Buches;
 
 2. die Betriebsnummer der die Abrechnung durchführenden Stelle;
 
@@ -2456,7 +2464,7 @@ Die Aufteilung der Kosten innerhalb der gesetzlichen Krankenversicherung und der
 
 # § 101 – Stammdatendatei
 
-(1) Die Deutsche Gesetzliche Unfallversicherung e. V. errichtet eine Stammdatendatei, in der der zuständige Unfallversicherungsträger, die Mitgliedsnummer des Unternehmers, die anzuwendenden Gefahrtarifstellen, die dazugehörigen Betriebsnummern der die Abrechnung durchführenden Stellen und gegebenenfalls weitere erforderliche Identifikationsmerkmale gespeichert sind.
+(1) Die Deutsche Gesetzliche Unfallversicherung e. V. errichtet eine Stammdatendatei, in der der zuständige Unfallversicherungsträger, die Unternehmernummer nach § 136a des Siebten Buches, die anzuwendenden Gefahrtarifstellen, die dazugehörigen Betriebsnummern der die Abrechnung durchführenden Stellen und gegebenenfalls weitere erforderliche Identifikationsmerkmale gespeichert sind.
 
 (2) Die Unfallversicherungsträger melden alle notwendigen Daten zur Errichtung einer Stammdatendatei an die Deutsche Gesetzliche Unfallversicherung e. V., Änderungen der Daten sind unverzüglich zu melden. Die Unfallversicherungsträger dürfen die zur Erledigung ihrer gesetzlichen Aufgaben notwendigen Daten aus der Stammdatendatei abrufen, speichern, verändern und nutzen.
 
@@ -2556,11 +2564,33 @@ gilt Absatz 1 entsprechend.
 
 (4) Das Nähere zur Auftragserteilung, zum Verfahren der Kostenerstattung sowie zu den Übertragungswegen zwischen der Datenstelle der Rentenversicherung und den nach § 12 Absatz 1 des Bundeselterngeld- und Elternzeitgesetzes zuständigen Behörden regeln die für die Durchführung des Bundeselterngeld- und Elternzeitgesetzes zuständigen Landesregierungen und die Deutsche Rentenversicherung Bund im Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Arbeit und Soziales in einer Rahmenvereinbarung, die ein bundeseinheitliches Verfahren sicherstellt.
 
-# § 109 – zukünftig in Kraft
+# § 109 – Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber
 
-\-
+(1) Die Krankenkasse hat nach Eingang der Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches eine Meldung zum Abruf für den Arbeitgeber zu erstellen, die insbesondere die folgenden Daten enthält:
 
-(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen des Verschiebens des Inkrafttretens des § 109 idF d. Art. 11 Nr. 3 iVm Art. 16 Abs. 4 G v. 22.11.2019 I 1746 idF d. Art. 12b G v. 11.2.2021 I 154 u. d. Art. 4b G v. 23.3.2022 I 482 bis 31.12.2022 nicht ausführbar. +++)
+1. den Namen des Beschäftigten,
+
+2. den Beginn und das Ende der Arbeitsunfähigkeit,
+
+3. das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit,
+
+4. die Kennzeichnung als Erst- oder Folgemeldung und
+
+5. die Angabe, ob Anhaltspunkte dafür vorliegen, dass die Arbeitsunfähigkeit auf einem Arbeitsunfall oder sonstigen Unfall oder auf den Folgen eines Arbeitsunfalls oder sonstigen Unfalls beruht.
+
+In den Fällen, in denen die Krankenkasse die Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches für einen geringfügig beschäftigten Versicherten erhält, hat sie die Daten nach Satz 1 für die nach § 2 Absatz 1 Satz 2 des Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung zuständige Deutsche Rentenversicherung Knappschaft-Bahn-See ausschließlich für die Zwecke des Erstattungsverfahrens nach dem Aufwendungsausgleichsgesetz zum Abruf bereitzustellen. Arbeitgeber haben die Daten nach Satz 1 in den nach Satz 2 genannten Fällen bei der zuständigen Krankenkasse durch ein nach § 95b systemgeprüftes Programm oder eine Ausfüllhilfe abzurufen. Beauftragt der Arbeitgeber einen Dritten mit dem Abruf, darf dieser die Daten verarbeiten. Unberührt bleibt die Verpflichtung des behandelnden Arztes, dem Versicherten eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit nach § 73 Absatz 2 Satz 1 Nummer 9 des Fünften Buches in Verbindung mit § 5 Absatz 1a Satz 2 des Entgeltfortzahlungsgesetzes auszuhändigen.
+
+(2) Stellt die Krankenkasse auf Grundlage der Angaben zur Diagnose in den Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches und auf Grundlage von weiteren ihr vorliegenden Daten fest, dass die Entgeltfortzahlung im Krankheitsfall wegen anrechenbarer Vorerkrankungszeiten für einen Arbeitgeber ausläuft, so übermittelt sie dem betroffenen Arbeitgeber eine Meldung mit den Angaben über die für ihn relevanten Vorerkrankungszeiten. Satz 1 gilt nicht für geringfügig Beschäftigte.
+
+(3) Die Absätze 1 und 2 gelten nicht für Beschäftigte nach den §§ 8a und 12.
+
+(3a) Die Absätze 1 bis 3 gelten entsprechend bei Eingang der Daten nach § 301 Absatz 1 Satz 1 Nummer 3 und 7 des Fünften Buches mit der Maßgabe, dass die Meldung abweichend von Absatz 1 Satz 1 nur die Daten nach Absatz 1 Satz 1 Nummer 1 und den Beginn, die voraussichtliche Dauer und das Ende des stationären Krankenhausaufenthaltes zu enthalten hat. Für die Übermittlung der Arbeitsunfähigkeitsdaten von den Krankenhäusern an die Krankenkassen werden die Dienste der Telematikinfrastruktur nach dem Fünften Buch genutzt, sobald diese zur Verfügung stehen.
+
+(3b) Die Absätze 1 bis 3 und 3a Satz 2 gelten entsprechend bei Eingang von Arbeitsunfähigkeitsdaten, wenn sie nach § 201 Absatz 2 des Siebten Buches an die Krankenkassen übermittelt werden.
+
+(4) Das Nähere zu den Datensätzen und zum Verfahren regelt der Spitzenverband Bund der Krankenkassen in Grundsätzen. Die Grundsätze bedürfen der Genehmigung durch das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vor der Genehmigung anzuhören.
+
+§ 109 Abs. 1 Satz 2 Kursivdruck: Der Zitiername des "Gesetzes über den Ausgleich der Arbeitgeberzuwendungen für Entgeltfortzahlung" wurde aufgrund offensichtlicher Unrichtigkeit durch den des "Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung" ersetzt
 
 # § 110 – (weggefallen)
 
@@ -2782,35 +2812,11 @@ Soweit die Ausgaben der knappschaftlichen Krankenversicherung der Rentner für V
 
 Bis zum 31. Dezember 2021 kann die Datenstelle der Rentenversicherung in geeigneten Fällen an Pilotprojekten gemäß § 28 Absatz 4 des Bundeselterngeld- und Elternzeitgesetzes mitwirken. Die hierdurch entstehenden Kosten sind der Deutschen Rentenversicherung Bund zu erstatten. Das Nähere zur Mitwirkung und zum Kostenerstattungsverfahren regelt die Deutsche Rentenversicherung Bund in Einzelvereinbarungen mit den Projektverantwortlichen.
 
-# § 125 – Pilotprojekt zur Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber
+# § 125 – (weggefallen)
 
-(1) Die Krankenkasse kann nach Eingang der Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches eine Meldung zum Abruf für den Arbeitgeber erstellen, die die folgenden Daten enthält:
+# § 126 – Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern
 
-1. den Namen des Beschäftigten,
-
-2. den Beginn und das Ende der Arbeitsunfähigkeit,
-
-3. das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit,
-
-4. die Kennzeichnung als Erst- oder Folgemeldung und
-
-5. die Angabe, ob Anhaltspunkte dafür vorliegen, dass die Arbeitsunfähigkeit auf einem Arbeitsunfall oder sonstigem Unfall oder auf den Folgen eines Arbeitsunfalls oder sonstigen Unfalls beruht.
-
-In den Fällen, in denen die Krankenkasse die Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches für einen geringfügig beschäftigten Versicherten erhält, kann sie die Daten nach Satz 1 für die nach § 2 Absatz 1 Satz 2 des Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung zuständige Deutsche Rentenversicherung Knappschaft-Bahn-See ausschließlich für die Zwecke des Erstattungsverfahrens nach dem Aufwendungsausgleichsgesetz zum Abruf bereitstellen. Arbeitgeber können die Daten nach Satz 1 bei der zuständigen Krankenkasse durch systemgeprüfte Programme abrufen. Beauftragt der Arbeitgeber einen Dritten mit dem Abruf, darf dieser die Daten verarbeiten. Unberührt bleibt die Verpflichtung des behandelnden Arztes, dem Versicherten eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit nach § 73 Absatz 2 Satz 1 Nummer 9 des Fünften Buches in Verbindung mit § 5 Absatz 1a Satz 2 des Entgeltfortzahlungsgesetzes auszuhändigen.
-
-(2) Stellt die Krankenkasse auf Grundlage der Angaben zur Diagnose in den Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches und auf der Grundlage von weiteren ihr vorliegenden Daten fest, dass die Entgeltfortzahlung im Krankheitsfall wegen anrechenbarer Vorerkrankungszeiten für einen Arbeitgeber ausläuft, so kann sie dem betroffenen Arbeitgeber eine Meldung mit den Angaben über die für ihn relevanten Vorerkrankungszeiten übermitteln. Satz 1 gilt nicht für geringfügig Beschäftigte.
-
-(3) Die Absätze 1 und 2 gelten nicht für Beschäftigte nach den §§ 8a und 12.
-
-(4) Die Absätze 1 bis 3 gelten entsprechend bei Eingang der Daten nach § 301 Absatz 1 Satz 1 Nummer 3 und 7 des Fünften Buches mit der Maßgabe, dass die Meldung abweichend von Absatz 1 Satz 1 nur die Daten nach Absatz 1 Satz 1 Nummer 1 und den Beginn, die voraussichtliche Dauer und das Ende des stationären Krankenhausaufenthaltes zu enthalten hat.
-
-(4a) Die Absätze 1 bis 4 gelten entsprechend bei Eingang von Arbeitsunfähigkeitsdaten, wenn sie nach § 201 Absatz 2 des Siebten Buches an die Krankenkassen übermittelt werden. Für die Übermittlung der Arbeitsunfähigkeitsdaten an die Krankenkassen werden die Dienste der Telematikinfrastruktur nach dem Fünften Buch genutzt, sobald diese zur Verfügung stehen.
-
-(5) Das Nähere zu den Datensätzen und zum Verfahren regelt der Spitzenverband Bund der Krankenkassen in Grundsätzen. Die Grundsätze bedürfen der Genehmigung durch das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vor der Genehmigung anzuhören.
-
-(6) Die teilnehmenden Krankenkassen haben monatlich dem Spitzenverband Bund der Krankenkassen über die Erfahrungen mit dem Meldeverfahren zu berichten.
-
-§ 125 Abs. 1 Satz 2 Kursivdruck: Der Zitiername des "Gesetzes über den Ausgleich der Arbeitgeberzuwendungen für Entgeltfortzahlung" wurde aufgrund offensichtlicher Unrichtigkeit durch den des "Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung" ersetzt
+Auf Antrag des Arbeitgebers bei dem für die Prüfung nach § 28p Absatz 1 Satz 1 zuständigen Rentenversicherungsträger kann für Zeiträume bis zum 31. Dezember 2026 auf eine elektronische Übermittlung der gespeicherten Daten nach § 28p Absatz 6a verzichtet werden.
 
 # § 127 – Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern
 

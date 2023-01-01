@@ -27,7 +27,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (1) Soweit in den in § 1 genannten Rechtsakten nichts anderes vorgeschrieben ist, erfolgt die Sicherheitsleistung durch Hinterlegung einer Geldsumme zugunsten oder durch selbstschuldnerische Bürgschaft gegenüber der Bundesrepublik Deutschland.
 
-(2) Die zuständige Stelle kann andere Arten von Sicherheiten nach Artikel 51 Absatz 2 der Durchführungsverordnung (EU) Nr. 908/2014 der Kommission vom 6. August 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S. 59; L 114 vom 5.5.2015, S. 25), die zuletzt durch die Durchführungsverordnung (EU) 2019/936 (ABl. L 149 vom 7.6.2019, S. 58) geändert worden ist, in der jeweils geltenden Fassung zulassen, wenn andernfalls die wirtschaftliche Existenz des Verpflichteten gefährdet wäre oder ein sonstiger besonderer Grund vorliegt.
+(2) Die zuständige Stelle kann andere Arten von Sicherheiten nach Artikel 52 Absatz 2 der Durchführungsverordnung (EU) 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131) in der jeweils geltenden Fassung zulassen, wenn andernfalls die wirtschaftliche Existenz des Verpflichteten gefährdet wäre oder ein sonstiger besonderer Grund vorliegt.
 
 (3) Für Sicherheiten, die bei Dienststellen der Bundesfinanzverwaltung zu leisten sind, gelten die Vorschriften der Abgabenordnung sinngemäß, soweit die in § 1 genannten Rechtsakte nicht entgegenstehen.
 
@@ -35,7 +35,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 # § 4 – Verzicht auf die Sicherheitsleistung
 
-Soweit in den in § 1 genannten Rechtsakten nichts anderes vorgeschrieben ist, verzichtet die zuständige Stelle auf die Leistung einer Sicherheit, wenn sie sich auf weniger als 500 EUR beläuft und das Zahlungsversprechen nach Artikel 18 Absatz 2 der Delegierten Verordnung (EU) Nr. 907/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates im Hinblick auf die Zahlstellen und anderen Einrichtungen, die finanzielle Verwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 255 vom 28.8.2014, S. 18), die zuletzt durch die Delegierte Verordnung (EU) 2018/967 (ABl. L 174 vom 10.7.2018, S. 2) geändert worden ist, in der jeweils geltenden Fassung abgegeben wird. Satz 1 findet keine Anwendung auf Sicherheiten für Lizenzen im Sinne des § 5 des Marktorganisationsgesetzes.
+Soweit in den in § 1 genannten Rechtsakten nichts anderes vorgeschrieben ist, verzichtet die zuständige Stelle auf die Leistung einer Sicherheit, wenn sie sich auf weniger als 500 EUR beläuft und das Zahlungsversprechen nach Artikel 19 Absatz 2 der Delegierten Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95) in der jeweils geltenden Fassung abgegeben wird. Satz 1 findet keine Anwendung auf Sicherheiten für Lizenzen im Sinne des § 5 des Marktorganisationsgesetzes.
 
 # § 5 – Befreiung von der Sicherheitsleistung
 
@@ -47,7 +47,7 @@ Soweit in den in § 1 genannten Rechtsakten nichts anderes vorgeschrieben ist, v
 
 (1) Die Sicherheiten verfallen zugunsten der Bundesrepublik Deutschland, soweit in den in § 1 genannten Rechtsakten nicht etwas anderes bestimmt ist. Die zuständige Stelle erklärt den Verfall einer Sicherheit durch Bescheid.
 
-(2) Der nach Artikel 55 Absatz 2 der Durchführungsverordnung (EU) Nr. 908/2014 zu erhebende Zinssatz liegt fünf Prozentpunkte über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs.
+(2) Der nach Artikel 56 Absatz 2 der Durchführungsverordnung (EU) 2022/128 zu erhebende Zinssatz liegt fünf Prozentpunkte über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs.
 
 # § 7 – Zu Unrecht freigegebene Sicherheiten
 

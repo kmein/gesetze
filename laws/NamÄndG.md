@@ -7,7 +7,7 @@ Der Familienname eines Deutschen im Sinne des Grundgesetzes, eines Staatenlosen 
 
 # § 2
 
-(1) Für eine beschränkt geschäftsfähige oder geschäftsunfähige Person stellt der gesetzliche Vertreter den Antrag; ein Vormund oder Pfleger bedarf hierzu der Genehmigung des Familiengerichts, ein Betreuer der Genehmigung des Betreuungsgerichts. Für eine geschäftsfähige Person, für die in dieser Angelegenheit ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs angeordnet ist, stellt der Betreuer den Antrag; er bedarf hierzu der Genehmigung des Betreuungsgerichts.
+(1) Für eine beschränkt geschäftsfähige oder geschäftsunfähige Person stellt der gesetzliche Vertreter den Antrag; ein Vormund oder Pfleger bedarf hierzu der Genehmigung des Familiengerichts, ein Betreuer der Genehmigung des Betreuungsgerichts. Für eine geschäftsfähige Person, für die in dieser Angelegenheit ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs angeordnet ist, stellt der Betreuer den Antrag; er bedarf hierzu der Genehmigung des Betreuungsgerichts.
 
 (2) Das Gericht hat den Antragsteller in den Fällen des Absatzes 1 Satz 1, wenn er als beschränkt Geschäftsfähiger das sechzehnte Lebensjahr vollendet hat, sowie in den Fällen des Absatzes 1 Satz 2 zu dem Antrag zu hören.
 

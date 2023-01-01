@@ -2469,7 +2469,7 @@ In den Fällen des § 121 Abs. 1 darf der Vollzug der Haft nicht länger als ein
 
 (3) Der Unterbringungsbefehl ist aufzuheben, wenn die Voraussetzungen der einstweiligen Unterbringung nicht mehr vorliegen oder wenn das Gericht im Urteil die Unterbringung in einem psychiatrischen Krankenhaus oder einer Entziehungsanstalt nicht anordnet. Durch die Einlegung eines Rechtsmittels darf die Freilassung nicht aufgehalten werden. § 120 Abs. 3 gilt entsprechend.
 
-(4) Hat der Untergebrachte einen gesetzlichen Vertreter oder einen Bevollmächtigten im Sinne des § 1906 Abs. 5 des Bürgerlichen Gesetzbuches, so sind Entscheidungen nach Absatz 1 bis 3 auch diesem bekannt zu geben.
+(4) Hat der Untergebrachte einen gesetzlichen Vertreter oder einen Bevollmächtigten im Sinne des § 1831 Absatz 5 und des § 1820 Absatz 2 Nummer 2 des Bürgerlichen Gesetzbuches, so sind Entscheidungen nach Absatz 1 bis 3 auch diesem bekannt zu geben.
 
 # § 127 – Vorläufige Festnahme
 

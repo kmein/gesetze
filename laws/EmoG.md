@@ -95,9 +95,7 @@ geregelt werden. In Rechtsverordnungen nach Satz 1 kann die Kennzeichnung im Inl
 
 (3) Fahrzeugen, die die Anforderung des Absatzes 2 erfüllen, dürfen auch nach dem 31. Dezember 2017 die Bevorrechtigungen gewährt werden, die Fahrzeugen nach § 3 Absatz 2 gewährt werden können.
 
-# § 6 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen auf Grund dieses Gesetzes können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 6 – (weggefallen)
 
 # § 7 – Berichterstattung
 

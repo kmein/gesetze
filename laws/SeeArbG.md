@@ -2313,9 +2313,7 @@ nicht anzuwenden. Soweit nach den §§ 49 und 54 abweichende Regelungen über di
 
 (2) Die nach § 29 Absatz 1 Satz 2, Absatz 2 und 3, § 76a Absatz 4 Satz 3, § 78 sowie § 106a Absatz 3 Satz 3 und § 130 Absatz 7 bestehenden Verpflichtungen erfüllt der Reeder auch, wenn er die aufgeführten Kopien und Unterlagen in ein elektronisches Informationssystem im Sinne des Absatzes 1 einstellt.
 
-# § 151 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 151 – (weggefallen)
 
 # § 152 – Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen
 
