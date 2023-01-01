@@ -39,7 +39,7 @@ Die Lebenspartner leben im Güterstand der Zugewinngemeinschaft, wenn sie nicht 
 
 # § 7 – Lebenspartnerschaftsvertrag
 
-Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1563 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1519 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 # § 8 – Sonstige vermögensrechtliche Wirkungen
 

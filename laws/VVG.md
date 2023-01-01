@@ -1287,7 +1287,11 @@ Der Versicherungsnehmer einer Lebensversicherung kann jederzeit für den Schluss
 
 (2) Bei einer Versicherung, die Versicherungsschutz für ein Risiko bietet, bei dem der Eintritt der Verpflichtung des Versicherers gewiss ist, steht das Kündigungsrecht dem Versicherungsnehmer auch dann zu, wenn die Prämie in einer einmaligen Zahlung besteht.
 
-(3) Die Absätze 1 und 2 sind nicht auf einen für die Altersvorsorge bestimmten Versicherungsvertrag anzuwenden, bei dem der Versicherungsnehmer mit dem Versicherer eine Verwertung vor dem Eintritt in den Ruhestand unwiderruflich ausgeschlossen hat; der Wert der vom Ausschluss der Verwertbarkeit betroffenen Ansprüche darf die in § 12 Abs. 2 Nr. 3 des Zweiten Buches Sozialgesetzbuch bestimmten Beträge nicht übersteigen. Entsprechendes gilt, soweit die Ansprüche nach § 851c oder § 851d der Zivilprozessordnung nicht gepfändet werden dürfen.
+(3) Die Absätze 1 und 2 sind nicht auf einen für die Altersvorsorge bestimmten Versicherungsvertrag anzuwenden,
+
+1. wenn die Vertragsparteien bei einem nach § 5a des Altersvorsorgeverträge-Zertifizierungsgesetzes zertifizierten Basisrentenvertrag die Verwertung der Ansprüche gemäß § 10 Absatz 1 Nummer 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ausgeschlossen haben oder
+
+2. soweit die Vertragsparteien eine Verwertung unwiderruflich ausgeschlossen haben und dieser Ausschluss erforderlich ist, um den Pfändungsschutz nach § 851c der Zivilprozessordnung oder § 851d der Zivilprozessordnung herbeizuführen.
 
 # § 169 – Rückkaufswert
 

@@ -7,7 +7,7 @@
 
 (2) Absatz 1 gilt nicht, soweit Unterhalt
 
-1. für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe, des Sozialgeldes, der öffentlichen Jugendhilfe, dem Land oder dem Dritten aus übergegangenem Recht oder
+1. für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe, des Bürgergeldes, der öffentlichen Jugendhilfe, dem Land oder dem Dritten aus übergegangenem Recht oder
 
 2. nach § 94 Absatz 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33 Absatz 1 Satz 2 und Absatz 3 Satz 2 des Zweiten Buches Sozialgesetzbuch oder nach § 7 Abs. 4 Satz 1 des Unterhaltsvorschußgesetzes
 

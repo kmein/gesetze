@@ -727,6 +727,30 @@ c) für den Besteuerungszeitraum 2023 die Angabe „26 Monate“ und
 
 d) für den Besteuerungszeitraum 2024 die Angabe „25 Monate“.
 
+# § 37 – Modernisierung der Außenprüfung
+
+(1) Die durch Artikel 3 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2730) geänderten Vorschriften der Abgabenordnung sind auf alle am 1. Januar 2023 anhängigen Verfahren anzuwenden, soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.
+
+(2) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz 5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, § 171 Absatz 4, § 180 Absatz 1a, § 181 Absatz 1 Satz 4, § 197 Absatz 5, § 199 Absatz 2 Satz 2 und 3, die §§ 200a, 202 Absatz 1 Satz 4 und Absatz 3 sowie § 204 Absatz 2 der Abgabenordnung in der am 1. Januar 2023 geltenden Fassung sind vorbehaltlich des Absatzes 3 erstmals auf Steuern und Steuervergütungen anzuwenden, die nach dem 31. Dezember 2024 entstehen. Für Steuern und Steuervergütungen, die vor dem 1. Januar 2025 entstehen, sind § 90 Absatz 3 Satz 5 bis 11, § 162 Absatz 3 und 4, § 171 Absatz 4 sowie § 204 der Abgabenordnung in der am 31. Dezember 2022 geltenden Fassung vorbehaltlich des Absatzes 3 weiterhin anzuwenden. Die Sätze 1 und 2 gelten für gesonderte Feststellungen von Besteuerungsgrundlagen entsprechend.
+
+(3) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz 5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, § 180 Absatz 1a, § 181 Absatz 1 Satz 4, § 199 Absatz 2 Satz 2 und 3, § 200a Absatz 1 bis 3 und 6, § 202 Absatz 1 Satz 4 und Absatz 3 sowie § 204 Absatz 2 der Abgabenordnung in der am 1. Januar 2023 geltenden Fassung sind abweichend von Absatz 2 auch für Steuern und Steuervergütungen anzuwenden, die vor dem 1. Januar 2025 entstehen, wenn für diese Steuern und Steuervergütungen nach dem 31. Dezember 2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung bekanntgegeben wurde. Satz 1 gilt für gesonderte Feststellungen von Besteuerungsgrundlagen entsprechend.
+
+(4) § 146 Absatz 2c der Abgabenordnung in der am 1. Januar 2025 geltenden Fassung ist vorbehaltlich des Satzes 3 erstmals auf Steuern und Steuervergütungen anzuwenden, die nach dem 31. Dezember 2024 entstehen. Für Steuern und Steuervergütungen, die vor dem 1. Januar 2025 entstehen, ist § 146 Absatz 2c der Abgabenordnung in der am 1. Januar 2023 geltenden Fassung vorbehaltlich des Satzes 3 weiterhin anzuwenden. § 146 Absatz 2c der Abgabenordnung in der am 1. Januar 2025 geltenden Fassung ist für Steuern und Steuervergütungen, die vor dem 1. Januar 2025 entstehen, abweichend von Satz 2 auch für Steuern und Steuervergütungen anzuwenden, die vor dem 1. Januar 2025 entstehen, wenn für diese Steuern und Steuervergütungen nach dem 31. Dezember 2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung bekanntgegeben wurde. Die Sätze 1 bis 3 gelten für gesonderte Feststellungen von Besteuerungsgrundlagen entsprechend.
+
+# § 38 – Erprobung alternativer Prüfungsmethoden
+
+(1) Soweit im Rahmen einer Außenprüfung eines Steuerpflichtigen nach den §§ 193 bis 202 der Abgabenordnung die Wirksamkeit eines von ihm eingesetzten Steuerkontrollsystems hinsichtlich der erfassten Steuerarten oder Sachverhalte überprüft wurde und kein oder nur ein unbeachtliches steuerliches Risiko für die in § 149 Absatz 3 der Abgabenordnung genannten Steuern und gesonderten Feststellungen besteht, kann die Finanzbehörde im Benehmen mit dem Bundeszentralamt für Steuern dem Steuerpflichtigen auf Antrag unter dem Vorbehalt des Widerrufs für die nächste Außenprüfung nach § 193 Absatz 1 der Abgabenordnung Beschränkungen von Art und Umfang der Ermittlungen unter der Voraussetzung verbindlich zusagen, dass keine Änderungen der Verhältnisse eintreten. Der Steuerpflichtige hat Veränderungen des Kontrollsystems zu dokumentieren und sie der Finanzbehörde unverzüglich schriftlich oder elektronisch mitzuteilen.
+
+(2) Ein Steuerkontrollsystem umfasst alle innerbetrieblichen Maßnahmen, die gewährleisten, dass
+
+1. die Besteuerungsgrundlagen zutreffend aufgezeichnet und berücksichtigt werden sowie
+
+2. die hierauf entfallenden Steuern fristgerecht und vollständig abgeführt werden.
+
+Das Steuerkontrollsystem muss die steuerlichen Risiken laufend abbilden.
+
+(3) Systemprüfungen von Steuerkontrollsystemen und daraufhin nach Absatz 1 Satz 1 zugesagte Erleichterungen sind von den Landesfinanzbehörden bis zum 30. April 2029 zu evaluieren. Die obersten Finanzbehörden der Länder haben die Ergebnisse der Evaluierung dem Bundesministerium der Finanzen bis zum 30. Juni 2029 mitzuteilen.
+
 # § 1 – Zuständigkeit
 
 (1) Für vor dem 1. Januar 1991 nach dem Recht der Bundesrepublik Deutschland oder der Deutschen Demokratischen Republik entstandene Besitz- und Verkehrsteuern, Zulagen und Prämien, auf die Abgabenrecht Anwendung findet, und dazugehörige steuerliche Nebenleistungen, bleiben die nach den bisher geltenden Vorschriften einschließlich der Vorschriften der Einzelsteuergesetze örtlich zuständigen Finanzbehörden weiterhin zuständig. Dies gilt auch für das Rechtsbehelfsverfahren.

@@ -69,7 +69,15 @@ sowie bei einer oder mehreren Wahlstationen, bei denen eine sachgerechte Ausbild
 
 (5) Während der Ausbildung können Ausbildungslehrgänge bis zu einer Gesamtdauer von drei Monaten vorgesehen werden.
 
-(6) Das Nähere regelt das Landesrecht.
+(6) Die Ableistung des Vorbereitungsdienstes in Teilzeit ist auf Antrag zu eröffnen im Falle der tatsächlichen Betreuung oder Pflege
+
+1. mindestens eines Kindes unter 18 Jahren oder
+
+2. eines laut ärztlichen Gutachtens pflegebedürftigen Ehegatten, Lebenspartners oder in gerader Linie Verwandten.
+
+Liegen besondere persönliche Gründe vor, die in Art und Umfang den in Satz 1 genannten Gründen vergleichbar sind und eine besondere Härte darstellen, kann auf Antrag die Ableistung des Vorbereitungsdienstes in Teilzeit eröffnet werden. Für die Ableistung in Teilzeit wird der regelmäßige Dienst um ein Fünftel reduziert. Die Dauer des Vorbereitungsdienstes in Teilzeit beträgt zweieinhalb Jahre. Die Zeit der Verlängerung des Vorbereitungsdienstes ist in angemessener Weise auf die Pflichtstationen zu verteilen.
+
+(7) Das Nähere regelt das Landesrecht.
 
 # § 5c – Anrechnung einer Ausbildung für den gehobenen Dienst
 
@@ -83,7 +91,7 @@ sowie bei einer oder mehreren Wahlstationen, bei denen eine sachgerechte Ausbild
 
 (2) Der Stoff der universitären Schwerpunktbereichsprüfung und der staatlichen Pflichtfachprüfung ist so zu bemessen, dass das Studium nach fünf Studienjahren abgeschlossen werden kann. In der universitären Schwerpunktbereichsprüfung ist mindestens eine schriftliche Leistung zu erbringen. In der staatlichen Pflichtfachprüfung sind schriftliche und mündliche Leistungen zu erbringen; das Landesrecht kann bestimmen, dass Prüfungsleistungen während des Studiums erbracht werden, jedoch nicht vor Ablauf von zweieinhalb Studienjahren. Das Zeugnis über die erste Prüfung weist die Ergebnisse der bestandenen universitären Schwerpunktbereichsprüfung und der bestandenen staatlichen Pflichtfachprüfung sowie zusätzlich eine Gesamtnote aus, in die das Ergebnis der bestandenen staatlichen Pflichtfachprüfung mit 70 vom Hundert und das Ergebnis der bestandenen universitären Schwerpunktbereichsprüfung mit 30 vom Hundert einfließt; es wird in dem Land erteilt, in dem die staatliche Pflichtfachprüfung bestanden wurde.
 
-(3) Die schriftlichen Leistungen in der zweiten Staatsprüfung sind frühestens im 18. und spätestens im 21. Ausbildungsmonat zu erbringen. Sie beziehen sich mindestens auf die Ausbildung bei den Pflichtstationen. Sieht das Landesrecht neben Aufsichtsarbeiten auch eine häusliche Arbeit vor, kann bestimmt werden, dass diese Leistung nach Beendigung der letzten Station erbracht werden muss. Die mündlichen Leistungen beziehen sich auf die gesamte Ausbildung.
+(3) Die schriftlichen Leistungen in der zweiten Staatsprüfung sind frühestens im 18. und spätestens im 21. Ausbildungsmonat zu erbringen; bei Teilzeitausbildung nach § 5b Absatz 6 Satz 1 ist die Verlängerung des Vorbereitungsdienstes angemessen zu berücksichtigen. Die schriftlichen Leistungen beziehen sich mindestens auf die Ausbildung bei den Pflichtstationen. Sieht das Landesrecht neben Aufsichtsarbeiten auch eine häusliche Arbeit vor, kann bestimmt werden, dass diese Leistung nach Beendigung der letzten Station erbracht werden muss. Die mündlichen Leistungen beziehen sich auf die gesamte Ausbildung.
 
 (4) In den staatlichen Prüfungen kann das Prüfungsorgan bei seiner Entscheidung von der rechnerisch ermittelten Gesamtnote abweichen, wenn dies auf Grund des Gesamteindrucks den Leistungsstand des Kandidaten besser kennzeichnet und die Abweichung auf das Bestehen der Prüfung keinen Einfluss hat; hierbei sind bei der zweiten Staatsprüfung auch die Leistungen im Vorbereitungsdienst zu berücksichtigen. Die Abweichung darf ein Drittel des durchschnittlichen Umfangs einer Notenstufe nicht übersteigen. Der Anteil der mündlichen Prüfungsleistungen an der Gesamtnote darf 40 vom Hundert nicht übersteigen. Eine rechnerisch ermittelte Anrechnung von im Vorbereitungsdienst erteilten Noten auf die Gesamtnote der zweiten Staatsprüfung ist ausgeschlossen.
 

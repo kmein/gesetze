@@ -25,7 +25,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 8. Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an das nicht im Haushalt des Hilfebedürftigen lebende Kind weitergeleitet wird,
 
-9. bei Sozialgeldempfängern, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
+9. bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
 10. nach § 3 Nummer 11a oder 11b des Einkommensteuergesetzes steuerfrei gewährte Leistungen aufgrund der COVID-19-Pandemie sowie den Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
 
@@ -43,7 +43,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach § 31 des Bundesversorgungsgesetzes, die für den Grad der Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
 
-(4) Nicht als Einkommen zu berücksichtigen sind Einnahmen von Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden, soweit diese einen Betrag in Höhe von 2 400 Euro kalenderjährlich nicht überschreiten. Satz 1 gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf Ausbildungsvergütung haben. Die Bestimmungen des Jugendarbeitsschutzgesetzes bleiben unberührt.
+(4) (weggefallen)
 
 # § 2 – Berechnung des Einkommens aus nichtselbständiger Arbeit
 

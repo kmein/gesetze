@@ -26,7 +26,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 2. Grundsicherung im Alter und bei Erwerbsminderung nach dem Vierten Kapitel des Zwölften Buches Sozialgesetzbuch,
 
-3. Arbeitslosengeld II oder Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch,
+3. Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch,
 
 4. Leistungen nach dem Asylbewerberleistungsgesetz.
 

@@ -293,7 +293,7 @@ b) wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe oder Jugen
 
 3. der regelmäßig Alkohol, Rauschmittel oder Medikamente missbraucht,
 
-4. für den eine rechtliche Betreuung nach den §§ 1896 ff. des Bürgerlichen Gesetzbuchs besteht.
+4. für den eine rechtliche Betreuung nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs besteht.
 
 Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Satz 2 Nummer 1 erfasst sind, oder im Fall von Entscheidungen der Gerichte oder Staatsanwaltschaften nach § 153a der Strafprozessordnung verneint werden, wenn der zugrunde liegende Sachverhalt für die Beurteilung der Zuverlässigkeit von Personen im Umgang mit Luftfahrzeugen von Bedeutung ist und seit dem Eintritt der Rechtskraft der letzten Verurteilung oder der Entscheidung fünf Jahre noch nicht verstrichen sind. Die Sätze 1 bis 3 gelten auch für Bewerber um eine Erlaubnis für erlaubnispflichtiges Personal nach § 1 Nummer 7 und 8.
 

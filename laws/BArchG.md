@@ -73,7 +73,7 @@ Der Bund unterhält ein Bundesarchiv als selbstständige Bundesoberbehörde, die
 
 Das Bundesarchiv stellt den bleibenden Wert der Unterlagen im Benehmen mit der anbietenden Stelle fest.
 
-(3) Das Bundesarchiv kann auch Unterlagen anderer als der in § 1 Nummer 8 genannten öffentlichen Stellen sowie Unterlagen nichtöffentlicher Einrichtungen und natürlicher Personen als Archivgut des Bundes übernehmen oder erwerben, wenn ihm diese Unterlagen angeboten werden und es den bleibenden Wert dieser Unterlagen festgestellt hat.
+(3) Das Bundesarchiv kann auch Unterlagen anderer als der in § 1 Nummer 9 genannten öffentlichen Stellen sowie Unterlagen nichtöffentlicher Einrichtungen und natürlicher Personen als Archivgut des Bundes übernehmen oder erwerben, wenn ihm diese Unterlagen angeboten werden und es den bleibenden Wert dieser Unterlagen festgestellt hat.
 
 (4) Das Bundesarchiv berät die öffentlichen Stellen des Bundes im Rahmen seiner Zuständigkeit bei der Verwaltung und Sicherung ihrer Unterlagen. Bei der Einführung neuer Systeme der Informationstechnologie insbesondere zur Führung elektronischer Akten gemäß § 6 des E-Government-Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749), das zuletzt durch Artikel 15 des Gesetzes vom 20. November 2019 (BGBl. I S. 1626) geändert worden ist, oder bei der wesentlichen Änderung solcher Systeme ist das Bundesarchiv rechtzeitig zu informieren, wenn hierbei anbietungspflichtige Unterlagen entstehen können.
 

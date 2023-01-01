@@ -53,7 +53,7 @@ zwischen einem Unternehmer und einem Verbraucher gelten,
 
 8. das Rechtsdienstleistungsgesetz,
 
-9. die §§ 59 und 60 Absatz 1, die §§ 78, 79 Absatz 2 und 3 sowie § 80 des Erneuerbare-Energien-Gesetzes,
+9. die §§ 57, 79 Absatz 2 und 3 sowie § 80 des Erneuerbare-Energien-Gesetzes,
 
 10. das Wohn- und Betreuungsvertragsgesetz,
 

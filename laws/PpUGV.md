@@ -135,7 +135,7 @@ Die Mitteilungen nach Satz 1 Nummer 1 bis 6 haben standortbezogen und unter Nenn
 
 # § 6 – Festlegung der Pflegepersonaluntergrenzen
 
-(1) Für die folgenden pflegesensitiven Bereiche in Krankenhäusern werden die folgenden Pflegepersonaluntergrenzen schichtbezogen als Verhältnis von Patientinnen und Patienten zu einer Pflegekraft festgelegt, die unter Berücksichtigung der in Absatz 2 genannten Höchstanteile von Pflegehilfskräften und der in Absatz 2a genannten Höchstanteile von Hebammen auf den Stationen oder für die betroffenen intensivmedizinischen Behandlungseinheiten, die einem pflegesensitiven Bereich angehören, stets einzuhalten sind:
+(1) Für die folgenden pflegesensitiven Bereiche in Krankenhäusern werden die folgenden Pflegepersonaluntergrenzen schichtbezogen als Verhältnis von Patientinnen und Patienten zu einer Pflegekraft festgelegt, die unter Berücksichtigung der in Absatz 2 genannten Höchstanteile von Pflegehilfskräften auf den Stationen oder für die betroffenen intensivmedizinischen Behandlungseinheiten, die einem pflegesensitiven Bereich angehören, stets einzuhalten sind:
 
 1. Intensivmedizin bis zum 31. Januar 2021:
 
@@ -221,11 +221,11 @@ a) in der Tagschicht: 3,5 zu 1,
 
 b) in der Nachtschicht: 5 zu 1,
 
-15. Gynäkologie und Geburtshilfe ab dem 1. Januar 2022:
+15. Gynäkologie und Geburtshilfe ab dem 1. Januar 2023:
 
-a) in der Tagschicht: 8 zu 1,
+a) in der Tagschicht 7,5 zu 1,
 
-b) in der Nachtschicht: 18 zu 1,
+b) in der Nachtschicht: 15 zu 1,
 
 16. Hals-Nasen-Ohrenheilkunde und Urologie ab dem 1. Januar 2023:
 
@@ -337,11 +337,7 @@ a) in der Tagschicht: 10 Prozent,
 
 b) in der Nachtschicht: 5 Prozent.
 
-(2a) Zur Einhaltung der Pflegepersonaluntergrenzen nach Absatz 1 Nummer 15 dürfen auch Hebammen mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes, auch in Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes, berücksichtigt werden. Der Anteil von Hebammen an der Gesamtzahl der Pflegefachkräfte und Hebammen darf dabei die folgenden Grenzwerte nicht überschreiten:
-
-1. in der Tageschicht: 10 Prozent,
-
-2. in der Nachtschicht: 5 Prozent.
+(2a) Zur Einhaltung der Pflegepersonaluntergrenzen nach Absatz 1 Nummer 15 dürfen auch Hebammen mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes, auch in Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes, berücksichtigt werden.
 
 (3) Führt die Anwendung der Pflegepersonaluntergrenzen zu dem Ergebnis, dass für die auf einer Station oder in einer intensivmedizinischen Behandlungseinheit zu versorgenden Patientenanzahl weniger als eine Pflegekraft vorgehalten werden müsste, ist die Anwesenheit mindestens einer Pflegefachkraft sicherzustellen.
 

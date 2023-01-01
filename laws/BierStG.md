@@ -19,7 +19,9 @@
 
 (1) Bier wird nach Grad Plato in Steuerklassen eingeteilt. Grad Plato ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er sich nach der großen Ballingschen Formel aus dem im Bier vorhandenen Alkohol- und Extraktgehalt errechnet; Bruchteile eines Grades (Nachkommastellen) bleiben außer Betracht. Ab dem 1. Januar 2031 werden bei der Berechnung des Grades Plato alle Zutaten des Bieres, einschließlich derer, die nach Abschluss der Gärung hinzugefügt werden, berücksichtigt. Die Biersteuer beträgt für einen Hektoliter (hl) Bier 0,787 Euro je Grad Plato.
 
-(1a) Abweichend von Absatz 1 ermäßigt sich der Steuersatz vom 1. Januar 2021 bis zum 31. Dezember 2022 für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
+(1a) (weggefallen)
+
+(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
 
 1. auf 75 Prozent bei einer Jahreserzeugung von 40 000 hl,
 
@@ -29,19 +31,7 @@
 
 4. auf 50 Prozent bei einer Jahreserzeugung von 5 000 hl.
 
-Die Stufen beginnen bis auf die Stufe zwischen 5 000 hl und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 hl und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 50 Prozent unverändert. Absatz 2 Satz 5 bis 8 gilt entsprechend.
-
-(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz ab dem 1. Januar 2023 für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
-
-1. auf 84,0 Prozent bei einer Jahreserzeugung von 40 000 hl,
-
-2. auf 78,4 Prozent bei einer Jahreserzeugung von 20 000 hl,
-
-3. auf 67,2 Prozent bei einer Jahreserzeugung von 10 000 hl,
-
-4. auf 56,0 Prozent bei einer Jahreserzeugung von 5 000 hl.
-
-Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 56 Prozent unverändert. Die Steuersätze werden auf vier Nachkommastellen, die Steuerbeträge je hl Bier auf zwei Nachkommastellen, genau ermittelt. Die Zugabe von Röstmalzbier nach dem Brauvorgang ist unschädlich für die Anwendung des ermäßigten Steuersatzes. Als Gesamtjahreserzeugung einer Brauerei gilt das gesamte in ihr im Brauverfahren erzeugte Bier (einschließlich Lizenzbier), für das innerhalb eines Kalenderjahres die Steuer entstanden ist, zuzüglich der aus der Brauerei unter Steueraussetzung entfernten sowie der steuerfrei abgegebenen oder verwendeten und der in der Brauerei zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Mengen, abzüglich der Mengen, die in diesem Zeitraum wieder in die Brauerei zurückgelangt sind. Zugaben nach Satz 6 sind der Gesamtjahreserzeugung zuzurechnen. Jahreserzeugung ist die Gesamtjahreserzeugung ohne die Biermengen, die in Lizenz gebraut oder zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzt werden. Die für die Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Biermengen berechnen sich nach den Anteilsverhältnissen im Zeitpunkt der Entfernung des Bieres aus der Brauerei.
+Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 50 Prozent unverändert. Die Steuersätze werden auf vier Nachkommastellen, die Steuerbeträge je hl Bier auf zwei Nachkommastellen, genau ermittelt. Die Zugabe von Röstmalzbier nach dem Brauvorgang ist unschädlich für die Anwendung des ermäßigten Steuersatzes. Als Gesamtjahreserzeugung einer Brauerei gilt das gesamte in ihr im Brauverfahren erzeugte Bier (einschließlich Lizenzbier), für das innerhalb eines Kalenderjahres die Steuer entstanden ist, zuzüglich der aus der Brauerei unter Steueraussetzung entfernten sowie der steuerfrei abgegebenen oder verwendeten und der in der Brauerei zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Mengen, abzüglich der Mengen, die in diesem Zeitraum wieder in die Brauerei zurückgelangt sind. Zugaben nach Satz 6 sind der Gesamtjahreserzeugung zuzurechnen. Jahreserzeugung ist die Gesamtjahreserzeugung ohne die Biermengen, die in Lizenz gebraut oder zur Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzt werden. Die für die Herstellung von Bier im Sinn des § 1 Absatz 2 Nummer 2 benutzten Biermengen berechnen sich nach den Anteilsverhältnissen im Zeitpunkt der Entfernung des Bieres aus der Brauerei.
 
 (3) Eine Brauerei ist ein Steuerlager, in dem Bier unter Steueraussetzung im Brauverfahren hergestellt und gelagert werden darf. Als unabhängig ist eine Brauerei anzusehen, die rechtlich und wirtschaftlich von einer anderen Brauerei unabhängig ist, Betriebsräume benutzt, die räumlich von anderen Brauereien getrennt sind und Bier nicht unter Lizenz braut. Das Brauen unter Lizenz ist jedoch für die Anwendung eines ermäßigten Steuersatzes unschädlich, wenn
 
@@ -53,9 +43,9 @@ Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufstei
 
 (4) Voneinander abhängige Brauereien, die zusammen eine Gesamtjahreserzeugung von 200 000 hl nicht überschreiten, gelten für die Anwendung des ermäßigten Steuersatzes als eine Brauerei.
 
-(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 1a bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner.
+(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 2 bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner.
 
-(6) Wird Bier einer unabhängigen Brauerei eines anderen Mitgliedstaats mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner. Für die Inanspruchnahme des ermäßigten Steuersatzes nach Absatz 1a ist die Vorlage einer amtlichen Bescheinigung des anderen Mitgliedstaats erforderlich, aus der die Gesamtjahreserzeugung der Brauerei hervorgeht und die ihre Unabhängigkeit im Sinn des Absatzes 3 bestätigt. Absatz 4 gilt entsprechend.
+(6) Wird Bier einer unabhängigen Brauerei eines anderen Mitgliedstaats mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner. Für die Inanspruchnahme des ermäßigten Steuersatzes nach Absatz 2 ist die Vorlage einer amtlichen Bescheinigung des anderen Mitgliedstaats erforderlich, aus der die Gesamtjahreserzeugung der Brauerei hervorgeht und die ihre Unabhängigkeit im Sinn des Absatzes 3 bestätigt. Absatz 4 gilt entsprechend.
 
 (7) Auf Antrag stellt das Hauptzollamt einem unabhängigen Hersteller mit Sitz im Steuergebiet eine Bescheinigung entsprechend Absatz 6 Satz 2 zur Vorlage in anderen Mitgliedstaaten aus.
 
@@ -601,7 +591,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 1. den Zeitpunkt der nach § 1 Absatz 3 anzuwendenden Fassung der Kombinierten Nomenklatur neu zu bestimmen und als Folge dessen den Wortlaut des Gesetzes an die geänderte Nomenklatur anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben, sowie Vorschriften über die Erfassung der steuerbaren Menge zu erlassen,
 
-2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 7 zu erlassen, insbesondere
+2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 2 bis 7 zu erlassen, insbesondere
 
 a) zum Besteuerungsverfahren und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird sowie
 

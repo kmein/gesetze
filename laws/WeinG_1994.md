@@ -382,7 +382,7 @@ Rechtsverordnungen zur Durchführung des Gemeinschaftsrechts oder Unionsrecht
 
 § 55
 
-Verkündung von Rechtsverordnungen
+(weggefallen)
 
 § 56
 
@@ -1862,9 +1862,7 @@ Rechtsverordnungen nach den Absätzen 2 und 3 können im Falle des Satzes 1 Numm
 
 (2) Soweit dieses Gesetz oder eine nach Absatz 1 erlassene Rechtsverordnung die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, sind diese befugt, die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
-# § 55 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen des Bundes nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 55 – (weggefallen)
 
 # § 56 – Übergangsregelungen
 

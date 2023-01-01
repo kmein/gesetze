@@ -728,7 +728,7 @@ Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Ka
 
 (1) Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine Entscheidung oder die Vornahme einer Handlung werden in jedem Rechtszug hinsichtlich eines jeden Teils des Verfahrensgegenstands nur einmal erhoben.
 
-(2) Für Eintragungen in das Vereinsregister, Güterrechtsregister, Grundbuch, Schiffs- und Schiffsbauregister und in das Register für Pfandrechte an Luftfahrzeugen werden die Gebühren für jede Eintragung gesondert erhoben, soweit nichts anderes bestimmt ist.
+(2) Für Eintragungen in das Vereinsregister, Grundbuch, Schiffs- und Schiffsbauregister und in das Register für Pfandrechte an Luftfahrzeugen werden die Gebühren für jede Eintragung gesondert erhoben, soweit nichts anderes bestimmt ist.
 
 # § 56 – Teile des Verfahrensgegenstands
 
@@ -1557,7 +1557,7 @@ Hauptabschnitt 3 Registersachen sowie unternehmensrechtliche und ähnliche Ver
 
 Abschnitt 1 Vereinsregistersachen
 
-Abschnitt 2 Güterrechtsregistersachen
+Abschnitt 2 (weggefallen)
 
 Abschnitt 3 Zwangs- und Ordnungsgeld in Verfahren nach den §§ 389 bis 392 FamFG
 
@@ -2479,19 +2479,7 @@ bestimmten
 Gebühr
 
 Abschnitt 2  
-Güterrechtsregistersachen
-
-13200
-
-Verfahren über die Eintragung aufgrund eines Ehe- oder Lebenspartnerschaftsvertrags
-
-100,00 €
-
-13201
-
-Verfahren über sonstige Eintragungen  .......... 
-
- 50,00 €
+(weggefallen)
 
 Abschnitt 3  
 Zwangs- und Ordnungsgeld in Verfahren nach den §§ 389 bis 392 FamFG
@@ -4463,7 +4451,7 @@ Vorbemerkung 2.2.1.1:
  1. Anforderung und Prüfung einer Erklärung oder Bescheinigung nach öffentlich-rechtlichen Vorschriften mit Ausnahme der Unbedenklichkeitsbescheinigung des Finanzamts,  
  2. Anforderung und Prüfung einer anderen als der in Nummer 4 genannten gerichtlichen Entscheidung oder Bescheinigung, dies gilt auch für die Ermittlung des Inhalts eines ausländischen Registers,  
  3. Fertigung, Änderung oder Ergänzung der Liste der Gesellschafter (§ 8 Abs. 1 Nr. 3, § 40 GmbHG) oder der Liste der Personen, welche neue Geschäftsanteile übernommen haben (§ 57 Abs. 3 Nr. 2 GmbHG),  
- 4. Anforderung und Prüfung einer Entscheidung des Familien-, Betreuungs- oder Nachlassgerichts einschließlich aller Tätigkeiten des Notars gemäß den §§ 1828 und 1829 BGB im Namen der Beteiligten sowie die Erteilung einer Bescheinigung über die Wirksamkeit oder Unwirksamkeit des Rechtsgeschäfts,  
+ 4. Anforderung und Prüfung einer Entscheidung des Familien-, Betreuungs- oder Nachlassgerichts einschließlich aller Tätigkeiten des Notars gemäß den §§ 1855 und 1856 BGB im Namen der Beteiligten sowie die Erteilung einer Bescheinigung über die Wirksamkeit oder Unwirksamkeit des Rechtsgeschäfts,  
  5. Anforderung und Prüfung einer Vollmachtsbestätigung oder einer privatrechtlichen Zustimmungserklärung,  
  6. Anforderung und Prüfung einer privatrechtlichen Verzichtserklärung,  
  7. Anforderung und Prüfung einer Erklärung über die Ausübung oder Nichtausübung eines privatrechtlichen Vorkaufs- oder Wiederkaufsrechts,  
@@ -4986,7 +4974,7 @@ Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a BeurkG)
 
 25100
 
-Beglaubigung einer Unterschrift, eines Handzeichens oder einer qualifizierten elektronischen Signatur ..........   
+Beglaubigung einer Unterschrift, eines Handzeichens oder einer qualifizierten elektronischen Signatur  ..........   
  (1) Die Gebühr entsteht nicht in den in Vorbemerkung 2.4.1 Abs. 2 genannten Fällen.  (2) Mit der Gebühr ist die Beglaubigung mehrerer Unterschriften, Handzeichen oder qualifizierter elektronischer Signaturen abgegolten, wenn diese in einem einzigen Vermerk erfolgt.
 
 0,2  
@@ -4996,7 +4984,7 @@ höchstens
 
 25101
 
-Die Beglaubigung erfolgt für ..........   
+Die Beglaubigung erfolgt für  ..........   
 1. eine Erklärung, für die nach den Staatsschuldbuchgesetzen eine öffentliche Beglaubigung vorgeschrieben ist,  
 2. eine Zustimmung gemäß § 27 der Grundbuchordnung sowie einen damit verbundenen Löschungsantrag gemäß § 13 der Grundbuchordnung,  
 3. den Nachweis der Verwaltereigenschaft gemäß § 26 Abs. 4 WEG:  
@@ -5265,7 +5253,7 @@ Zusatzgebühr für jede angefangene halbe Stunde der Abwesenheit, wenn nicht die
 Die Tätigkeit wird auf Verlangen eines Beteiligten außerhalb der Geschäftsstelle des Notars vorgenommen und betrifft ausschließlich  
 1. die Errichtung, Aufhebung oder Änderung einer Verfügung von Todes wegen,  
 2. die Errichtung, den Widerruf oder die Änderung einer Vollmacht, die zur Registrierung im Zentralen Vorsorgeregister geeignet ist,  
-3. die Abgabe einer Erklärung gemäß § 1897 Abs. 4 BGB oder  
+3. die Abgabe einer Erklärung gemäß § 1816 Abs. 2 BGB betreffend die Person eines Betreuers oder  
 4. eine Willensäußerung eines Beteiligten hinsichtlich seiner medizinischen Behandlung oder deren Abbruch:  
 Zusatzgebühr  ..........   
  Die Gebühr entsteht für jeden Auftraggeber nur einmal. Im Übrigen gelten die Absätze 2 und 3 der Anmerkung zu Nummer 26002 entsprechend.
@@ -5465,7 +5453,7 @@ in voller Höhe
 31015
 
 An den Verfahrenspfleger zu zahlende Beträge  ..........   
- Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1836c BGB erhoben.
+ Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880 Abs. 2 BGB erhoben.
 
 in voller Höhe
 
@@ -5657,8 +5645,8 @@ Pauschale für die Inanspruchnahme des Videokommunikationssystems der Bundesnota
 2.  für das Beurkundungsverfahren  ..........   
  Erfolgt die Beglaubigung mehrerer qualifizierter elektronischer Signaturen in einem einzigen Vermerk, entsteht die Pauschale nur einmal.
 
-  
-  8,00 €  
+   
+8,00 €  
 25,00 €
 
 # Anlage 2 – (zu § 34 Absatz 3)

@@ -1974,9 +1974,9 @@ Im Übrigen beschließt die große Jugendkammer eine Besetzung mit zwei Richtern
 
 (3) Familiengerichtliche Erziehungsaufgaben sind
 
-1. die Unterstützung der Eltern, des Vormundes und des Pflegers durch geeignete Maßnahmen (§ 1631 Abs. 3, §§ 1800, 1915 des Bürgerlichen Gesetzbuches),
+1. die Unterstützung der Eltern, des Vormunds und des Pflegers durch geeignete Maßnahmen (§ 1631 Absatz 3, § 1802 Absatz 1 Satz 1, § 1813 Absatz 1 des Bürgerlichen Gesetzbuchs),
 
-2. die Maßnahmen zur Abwendung einer Gefährdung des Jugendlichen (§§ 1666, 1666a, 1837 Abs. 4, § 1915 des Bürgerlichen Gesetzbuches).
+2. die Maßnahmen zur Abwendung einer Gefährdung des Jugendlichen (§§ 1666, 1666a, auch in Verbindung mit § 1802 Absatz 2 Satz 3 und § 1813 Absatz 1 des Bürgerlichen Gesetzbuches).
 
 3. (weggefallen)
 

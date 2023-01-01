@@ -13,7 +13,7 @@
 
 (2) Die im Bundesbedarfsplan mit „B“ gekennzeichneten Vorhaben können als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen über große Entfernungen nach § 12b Absatz 1 Satz 4 Nummer 3 Buchstabe a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
 
-(3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz (Offshore-Anbindungsleitungen). Sie werden im Küstenmeer als Seekabel und landeinwärts bis zu den im Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und betrieben oder geändert.
+(3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind Offshore-Anbindungsleitungen im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Sie werden im Küstenmeer als Seekabel und landeinwärts bis zu den im Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und betrieben oder geändert.
 
 (4) Die im Bundesbedarfsplan mit „D“ gekennzeichneten Vorhaben sind als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach § 12b Absatz 1 Satz 3 Nummer 3 Buchstabe b des Energiewirtschaftsgesetzes zu errichten und zu betreiben oder zu ändern. Die für die Zulassung des Vorhabens zuständige Behörde kann den Einsatz von Hochtemperaturleiterseilen bei Vorhaben des Bundesbedarfsplans, die nicht unter Satz 1 fallen, genehmigen, soweit dies technisch und wirtschaftlich effizient ist.
 
@@ -97,7 +97,7 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach § 12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes oder dem gemeinsamen Umsetzungsbericht nach § 12d Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
 
-(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Energie über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
+(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
 # § 6 – Rechtsschutz
 

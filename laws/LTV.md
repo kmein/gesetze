@@ -96,10 +96,11 @@ genannten Bedingungen für
 Containerschiffe mit einer  
 Bruttoraumzahl über 20 000 um40 vom Hundert
 
-2. auf der Trave für Fahrzeuge, die  
-im Außenbereich bis Lübeck-  
-Travemünde von der Lotsen-  
-annahmepflicht befreit sind, um15 vom Hundert
+2. auf der Trave
+
+a) für Fahrzeuge, die im Außenbereich bis Lübeck-Travemünde von der Lotsenannahmepflicht befreit sind, um 15 vom Hundert,
+
+b) für die Fahrtstrecken nach Anlage 2 Abschnitt A Nummer 1.8 Buchstabe e und f um 20 vom Hundert.
 
 3. auf dem Seelotsrevier Wismar/Rostock/Stralsund
 
@@ -171,6 +172,10 @@ von einem von der Generaldirektion Wasserstraßen und Schifffahrt bestimmten Sac
 (1) Die Lotsabgaben und Lotsgelder werden von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und eingezogen. Diese kann Dritte mit der Entgegennahme der Zahlungen beauftragen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt kann von der Zahlung der Lotsabgaben aus Gründen des öffentlichen Interesses ganz oder teilweise befreien.
+
+# § 8
+
+§ 2 Absatz 1 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024 nicht mehr anzuwenden.
 
 # Anlage 1 – (zu § 1 Absatz 1)Verzeichnis und Tabelle der Lotsabgaben
 
@@ -734,7 +739,9 @@ im Verkehr auf den Fahrtstrecken zwischen
 <table width="100%" style="border: none;"><colgroup><col style="width: 6%" /><col style="width: 47%" /><col style="width: 47%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">a)</td><td style="text-align: left;">den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht</td><td style="text-align: right;">100 vom Hundert</td></tr><tr class="even"><td style="text-align: left;">b)</td><td style="text-align: left;">den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk<br />
 und der Leuchttonne „Trave“ in der Lübecker Bucht</td><td style="text-align: right;">90 vom Hundert</td></tr><tr class="odd"><td style="text-align: left;">c)</td><td style="text-align: left;">den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,<br />
 Lübeck-Schlutup und Lübeck-Herrenwyk</td><td style="text-align: right;">70 vom Hundert</td></tr><tr class="even"><td style="text-align: left;">d)</td><td style="text-align: left;">den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“<br />
-in der Lübecker Bucht</td><td style="text-align: right;">70 vom Hundert</td></tr></tbody></table>
+in der Lübecker Bucht</td><td style="text-align: right;">70 vom Hundert</td></tr><tr class="odd"><td style="text-align: left;">e)</td><td style="text-align: left;">den Liegeplätzen der Kaianlagen Lübeck-Siems., Lübeck-Schlutup und<br />
+Lübeck-Herrenwyk untereinander unter Benutzung der Bundeswasserstraße Trave</td><td style="text-align: right;">40 vom Hundert</td></tr><tr class="even"><td style="text-align: left;">f)</td><td style="text-align: left;">den Liegeplätzen innerhalb der Lübecker Stadthäfen und Lübeck-Travemünde<br />
+unter Benutzung der Bundeswasserstraße Trave</td><td style="text-align: right;">40 vom Hundert</td></tr></tbody></table>
 
 des Betrages nach Abschnitt B Teil II Spalte 3;
 

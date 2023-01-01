@@ -379,7 +379,11 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 (1) Keines Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen bedarf nach dieser Verordnung, wer
 
-1. ein Fahrzeug führt, das nur mit Muskelkraft oder unter Segel angetrieben wird oder mit einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung nicht mehr als 11,03 Kilowatt beträgt,
+1. ein Fahrzeug führt, das
+
+a) nur mit Muskelkraft oder unter Segel angetrieben wird oder
+
+b) mit einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung bei einem Verbrennungsmotor nicht mehr als 11,03 Kilowatt oder bei einem Elektromotor höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 beträgt,
 
 2. ein nicht in Fahrt befindliches schwimmendes Gerät ohne eigenen Antrieb auf den Wasserstraßen der Zonen 3 und 4 sowie außerhalb des Fahrwassers der Wasserstraßen der Anlage 1 führt,
 

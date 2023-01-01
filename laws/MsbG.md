@@ -149,7 +149,7 @@ Im Übrigen sind die Begriffsbestimmungen aus § 3 des Energiewirtschaftsgesetze
 
 (1) Der Messstellenbetreiber bestimmt im Rahmen der Anforderungen dieses Gesetzes Art, Zahl und Größe von Mess- und Steuereinrichtungen. In den Fällen des § 14 Absatz 3 der Stromgrundversorgungsverordnung vom 26. Oktober 2006 (BGBl. I S. 2391) und des § 14 Absatz 3 der Gasgrundversorgungsverordnung vom 26. Oktober 2006 (BGBl. I S. 2391, 2396) hat der Messstellenbetreiber die Belange des Grundversorgers angemessen zu berücksichtigen, soweit dies technisch möglich ist.
 
-(2) Mess- und Steuereinrichtungen müssen den mess- und eichrechtlichen Vorschriften, den Anforderungen dieses Gesetzes, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen sowie den von dem Netzbetreiber nach der Stromnetzzugangsverordnung und der Gasnetzzugangsverordnung einheitlich für sein Netzgebiet vorgesehenen technischen Mindestanforderungen genügen. Die Mindestanforderungen des Netzbetreibers müssen sachlich gerechtfertigt und diskriminierungsfrei sein. Die Möglichkeit, zusätzliche Messfunktionen vorzusehen, bleibt unberührt.
+(2) Mess- und Steuereinrichtungen müssen den mess- und eichrechtlichen Vorschriften, den Anforderungen dieses Gesetzes, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen sowie den von dem Netzbetreiber einheitlich für sein Netzgebiet vorgesehenen technischen Mindestanforderungen genügen. Die Mindestanforderungen des Netzbetreibers müssen sachlich gerechtfertigt und diskriminierungsfrei sein. Die Möglichkeit, zusätzliche Messfunktionen vorzusehen, bleibt unberührt.
 
 # § 9 – Messstellenverträge
 
@@ -599,7 +599,7 @@ Eine Anpassung einzelner oder aller Preisobergrenzen aus den §§ 31 und 32 ist 
 
 1. die in § 60 benannten Prozesse einschließlich und, soweit nach § 60 Absatz 2 in Verbindung mit § 75 Nummer 4 festgelegt, der Plausibilisierung und Ersatzwertbildung im Smart-Meter-Gateway und die standardmäßig erforderliche Datenkommunikation sowie
 
-2. bei Letztverbrauchern mit einem Jahresstromverbrauch von höchstens 10 000 Kilowattstunden, soweit es der variable Stromtarif im Sinne von § 40 Absatz 5 des Energiewirtschaftsgesetzes erfordert, maximal die tägliche Bereitstellung von Zählerstandsgängen des Vortages gegenüber dem Energielieferanten und dem Netzbetreiber sowie
+2. bei Letztverbrauchern mit einem Jahresstromverbrauch von höchstens 10 000 Kilowattstunden, soweit es der Stromtarif im Sinne von § 41a des Energiewirtschaftsgesetzes erfordert, maximal die tägliche Bereitstellung von Zählerstandsgängen des Vortages gegenüber dem Energielieferanten, dem Betreiber von Verteilernetzen sowie dem Übertragungsnetzbetreiber und Bilanzkoordinator sowie
 
 3. die Übermittlung der nach § 61 erforderlichen Informationen an eine lokale Anzeigeeinheit oder über eine Anwendung in einem Online-Portal, welches einen geschützten individuellen Zugang ermöglicht sowie
 
@@ -815,7 +815,7 @@ Messsysteme, die ausschließlich der Erfassung der zur Beladung von Elektromobil
 
 2. anlässlich vorvertraglicher Maßnahmen, die der jeweilige Anschlussnutzer veranlasst hat,
 
-3. zur Erfüllung rechtlicher Verpflichtungen, welche den berechtigten Stellen auf Grund dieses Gesetzes, des Energiewirtschaftsgesetzes, des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes und der auf diesen Gesetzen beruhenden Rechtsverordnungen und Festlegungen der Regulierungsbehörden auferlegt sind, oder
+3. zur Erfüllung rechtlicher Verpflichtungen, welche den berechtigten Stellen auf Grund dieses Gesetzes, des Energiewirtschaftsgesetzes, des Erneuerbare-Energien-Gesetzes, des Energiefinanzierungsgesetzes, des Kraft-Wärme-Kopplungsgesetzes und der auf diesen Gesetzen beruhenden Rechtsverordnungen und Festlegungen der Regulierungsbehörden auferlegt sind, oder
 
 4. zur Wahrnehmung einer Aufgabe des Netzbetreibers, die in Ausübung ihm übertragener hoheitlicher Befugnisse erfolgt.
 
@@ -881,7 +881,7 @@ Unbeschadet des Artikels 15 in Verbindung mit Artikel 12 Absatz 5 der Verordnung
 
 1. bei Letztverbrauchern mit einem Jahresstromverbrauch von über 100 000 Kilowattstunden durch eine Zählerstandsgangmessung oder, soweit erforderlich, durch eine viertelstündige registrierende Lastgangmessung,
 
-2. sobald Letztverbraucher mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung oder, soweit vorhanden, durch eine viertelstündige registrierte Lastgangmessung,
+2. sobald Letztverbraucher mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung oder, soweit vorhanden, durch eine viertelstündige registrierende Lastgangmessung,
 
 3. sobald steuerbare Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung,
 
@@ -891,7 +891,7 @@ Unbeschadet des Artikels 15 in Verbindung mit Artikel 12 Absatz 5 der Verordnung
 
 (3) Die Messung von Strom aus Anlagen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz mit einer installierten Leistung von über 100 Kilowatt erfolgt durch eine Zählerstandsgangmessung oder, soweit erforderlich, durch eine viertelstündige registrierende Einspeisegangmessung.
 
-(4) Die Messung von Strom aus Anlagen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz mit einer installierten Leistung von höchstens 100 Kilowatt, die mit einem intelligenten Messsystem ausgestattet sind, erfolgt durch eine Zählerstandsgangmessung. Ist kein intelligentes Messsystem vorhanden, so erfolgt die Messung durch Erfassung der eingespeisten elektrischen Arbeit entsprechend den Anforderungen des Netzbetreibers.
+(4) Die Messung von Strom aus Anlagen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz mit einer installierten Leistung von höchstens 100 Kilowatt, die mit einem intelligenten Messsystem ausgestattet sind, erfolgt durch eine Zählerstandsgangmessung oder, soweit vorhanden, durch eine viertelstündige registrierende Einspeisegangmessung. Ist weder ein intelligentes Messsystem noch eine viertelstündige registrierende Einspeisegangmessung vorhanden, so erfolgt die Messung durch Erfassung der eingespeisten elektrischen Arbeit entsprechend den Anforderungen des Netzbetreibers.
 
 (5) Fallen Erzeugungs- und Verbrauchssituationen an einem Anschlusspunkt zusammen, sind jeweils entnommene und eingespeiste sowie, soweit angeordnet, verbrauchte und erzeugte Energie in einem einheitlichen Verfahren zu messen.
 
@@ -949,7 +949,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 a) in den Fällen des § 55 Absatz 1 Nummer 1,
 
-b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, sowie bei bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden,
+b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, sowie bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden,
 
 c) in den Fällen des § 55 Absatz 1 Nummer 3
 
@@ -959,7 +959,7 @@ die bezogene Monatsarbeit sowie die aufgetretene Maximalleistung, im Übrigen j�
 
 a) in den Fällen des § 55 Absatz 1 Nummer 1 Last- oder Zählerstandsgänge,
 
-b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, sowie bei bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
+b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, im Fall des § 35 Absatz 1 Satz 2 Nummer 2 sowie bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
 
 c) in den Fällen des § 55 Absatz 1 Nummer 3 Last- oder Zählerstandsgänge,
 
@@ -971,7 +971,7 @@ in 15-minütiger Auflösung;
 
 a) in den Fällen des § 55 Absatz 1 Nummer 1 Last- oder Zählerstandsgänge,
 
-b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, sowie bei bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
+b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, im Fall des § 35 Absatz 1 Satz 2 Nummer 2 sowie bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
 
 c) in den Fällen des § 55 Absatz 1 Nummer 3 Last- oder Zählerstandsgänge,
 
@@ -983,7 +983,7 @@ in 15-minütiger Auflösung, im Übrigen jährlich Jahresarbeitswerte;
 
 a) in den Fällen des § 55 Absatz 1 Nummer 1 Last- oder Zählerstandsgänge,
 
-b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, sowie bei bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
+b) in den Fällen des § 55 Absatz 1 Nummer 2 bei Letztverbrauchern, bei denen hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden und dabei der erzeugte Strom nicht vollständig in das Netz der allgemeinen Versorgung eingespeist wird, im Fall des § 35 Absatz 1 Satz 2 Nummer 2 sowie bei Letztverbrauchern mit einem Jahresstromverbrauch von über 10 000 Kilowattstunden Last- oder Zählerstandsgänge,
 
 c) in den Fällen des § 55 Absatz 1 Nummer 3 Last- oder Zählerstandsgänge,
 
@@ -1067,7 +1067,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 8. Aggregation der Last- und Einspeisegänge von Einzelzählpunkten zu Bilanzkreissummenzeitreihen je Bilanzkreis und Bilanzierungsgebiet für die Einbeziehung in die Bilanzkreisabrechnung in den Fällen, die nicht von § 67 Absatz 1 Nummer 6 erfasst sind,
 
-9. Erhebung der EEG-Umlage von Elektrizitätsversorgungsunternehmen, Letztverbrauchern und Eigenversorgern nach dem Erneuerbare-Energien-Gesetz,
+9. Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
 
 10. Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur nach § 75 ergebender Pflichten.
 
@@ -1087,7 +1087,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 1. Erbringungskontrolle und Abrechnung von Regelleistung aus dezentralen Anlagen,
 
-2. Prognose der Abnahmestellen mit Eigenerzeugung zur Verbesserung der Vermarktung nach § 59 des Erneuerbare-Energien-Gesetzes,
+2. Prognose der Abnahmestellen mit Eigenerzeugung zur Verbesserung der Vermarktung nach § 57 des Erneuerbare-Energien-Gesetzes,
 
 3. Information zur aktuellen Einspeisung aus Photovoltaikanlagen,
 
@@ -1099,9 +1099,9 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 7. Bilanzkoordination einschließlich der Überwachung der Bilanzkreistreue und der ordnungsgemäßen Bilanzkreisbewirtschaftung zeitnah nach dem Erfüllungszeitpunkt,
 
-8. Erstattung von finanziellen Förderungen und Erhebung von vermiedenen Netzentgelten nach § 57 des Erneuerbare-Energien-Gesetzes,
+8. Erstattung von finanziellen Förderungen und Erhebung von vermiedenen Netzentgelten nach § 13 des Energiefinanzierungsgesetzes,
 
-9. Erhebung der EEG-Umlage von Elektrizitätsversorgungsunternehmen, Letztverbrauchern und Eigenversorgern nach dem Erneuerbare-Energien-Gesetz,
+9. Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
 
 10. Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur nach § 75 ergebender Pflichten.
 
@@ -1145,7 +1145,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 6. Erstellung der Energiemengenprognose nach § 4 der Stromnetzzugangsverordnung,
 
-7. Zahlung der EEG-Umlage nach § 60 des Erneuerbare-Energien-Gesetzes,
+7. (weggefallen)
 
 8. Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur nach § 75 ergebender Pflichten.
 

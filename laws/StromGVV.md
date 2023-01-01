@@ -163,7 +163,7 @@ a) die Stromsteuer nach § 3 des Stromsteuergesetzes vom 24. März 1999 (BGBl. I
 
 b) die Konzessionsabgabe nach Maßgabe des § 4 Absatz 1 und 2 der Konzessionsabgabenverordnung vom 9. Januar 1992 (BGBl. I S. 12, 407), die zuletzt durch Artikel 3 Absatz 4 der Verordnung vom 1. November 2006 (BGBl. I S. 2477) geändert worden ist,
 
-c) jeweils gesondert die Umlagen und Aufschläge nach § 60 Absatz 1 des Erneuerbare-Energien-Gesetzes, § 26 des Kraft-Wärme-Kopplungsgesetzes, § 19 Absatz 2 der Stromnetzentgeltverordnung, § 17f Absatz 5 des Energiewirtschaftsgesetzes und § 18 der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012 (BGBl. I S. 2998) in der jeweils geltenden Fassung,
+c) jeweils gesondert die Umlagen und Aufschläge nach § 12 Absatz 1 des Energiefinanzierungsgesetzes, § 19 Absatz 2 der Stromnetzentgeltverordnung und § 18 der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012 (BGBl. I S. 2998) in der jeweils geltenden Fassung,
 
 d) jeweils gesondert die Netzentgelte und, soweit sie nach § 1 Absatz 1 Satz 3 Gegenstand des Grundversorgungsvertrages sind, die Entgelte des Messstellenbetreibers oder die Entgelte der Betreiber von Energieversorgungsnetzen für den Messstellenbetrieb und die Messung.
 

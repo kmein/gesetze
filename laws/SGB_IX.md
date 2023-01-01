@@ -571,7 +571,9 @@ Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabep
 
 (3) Die Integrationsämter sind bei der Durchführung des Teilhabeplanverfahrens zu beteiligen, soweit sie Leistungen für schwerbehinderte Menschen nach Teil 3 erbringen. Das zuständige Integrationsamt kann das Teilhabeplanverfahren nach § 19 Absatz 5 anstelle des leistenden Rehabilitationsträgers durchführen, wenn die Rehabilitationsträger und das Integrationsamt sowie das nach § 19 Absatz 1 Satz 2 zu beteiligende Jobcenter dies in Abstimmung mit den Leistungsberechtigten vereinbaren.
 
-(4) Bestehen im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach § 1896 Absatz 1 des Bürgerlichen Gesetzbuches, informiert der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger mit Zustimmung der Leistungsberechtigten die zuständige Betreuungsbehörde über die Erstellung des Teilhabeplans, soweit dies zur Vermittlung anderer Hilfen, bei denen kein Betreuer bestellt wird, erforderlich ist.
+(4) Bestehen im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach § 1814 Absatz 1 des Bürgerlichen Gesetzbuchs, wird die zuständige Betreuungsbehörde mit Zustimmung des Leistungsberechtigten vom für die Durchführung des Teilhabeplanverfahrens verantwortlichen Rehabilitationsträger informiert. Der Betreuungsbehörde werden in diesen Fällen die Ergebnisse der bisherigen Ermittlungen und Gutachten mit dem Zweck mitgeteilt, dass diese dem Leistungsberechtigten andere Hilfen, bei denen kein Betreuer bestellt wird, vermitteln kann. Auf Vorschlag der Betreuungsbehörde kann sie mit Zustimmung des Leistungsberechtigten am Teilhabeplanverfahren beratend teilnehmen.
+
+(+++ § 22: Die Änderungsanweisung gem. Art. 13 G v. 4.5.2021 I 882 mWv 1.1.2023 ist nicht ausführbar, da § 22 keinen Abs. 5 hat; Art. 13 aufgeh. durch Art. 15 Nr. 1 G v. 24.6.2022 I 959 mWv 1.1.2023 +++)
 
 # § 23 – Verantwortliche Stelle für den Sozialdatenschutz
 
@@ -702,9 +704,9 @@ Sach- und Dienstleistungen können auch im Ausland erbracht werden, wenn sie dor
 
 (3) Bei der Förderung von Beratungsangeboten ist die von Leistungsträgern und Leistungserbringern unabhängige ergänzende Beratung von Betroffenen für Betroffene besonders zu berücksichtigen.
 
-(4) Das Bundesministerium für Arbeit und Soziales erlässt eine Förderrichtlinie, nach deren Maßgabe die Dienste gefördert werden können, welche ein unabhängiges ergänzendes Beratungsangebot anbieten. Das Bundesministerium für Arbeit und Soziales entscheidet im Benehmen mit der zuständigen obersten Landesbehörde über diese Förderung.
+(4) (weggefallen)
 
-(5) Die Förderung erfolgt aus Bundesmitteln und ist bis zum 31. Dezember 2022 befristet. Die Bundesregierung berichtet den gesetzgebenden Körperschaften des Bundes bis zum 30. Juni 2021 über die Einführung und Inanspruchnahme der ergänzenden unabhängigen Teilhabeberatung.
+(5) (weggefallen)
 
 (6) Die Bundesmittel für die Zuschüsse werden ab dem Jahr 2023 auf 65 Millionen Euro festgesetzt. Aus den Bundesmitteln sind insbesondere auch die Aufwendungen zu finanzieren, die für die Administration, die Vernetzung, die Qualitätssicherung und die Öffentlichkeitsarbeit der Beratungsangebote notwendig sind.
 
@@ -1833,15 +1835,47 @@ Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzun
 
 (5) Bei Personen, die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel des Zwölften Buches in der am 31. Dezember 2019 geltenden Fassung bezogen haben und auch ab dem 1. Januar 2020 Leistungen nach Teil 2 dieses Buches erhalten, ist der Träger der Eingliederungshilfe örtlich zuständig, dessen örtliche Zuständigkeit sich am 1. Januar 2020 im Einzelfall in entsprechender Anwendung von § 98 Absatz 1 Satz 1 oder Absatz 5 des Zwölften Buches oder in entsprechender Anwendung von § 98 Absatz 2 Satz 1 und 2 in Verbindung mit § 107 des Zwölften Buches ergeben würde. Absatz 1 Satz 3 bis 5 gilt entsprechend. Im Übrigen bleiben die Absätze 2 bis 4 unberührt.
 
-# § 99 – Leistungsberechtigung, Verordnungsermächtigung
+# § 99 – Leistungsberechtigter Personenkreis
 
-(1) Leistungen der Eingliederungshilfe erhalten Menschen mit Behinderungen im Sinne von § 2 Absatz 1 Satz 1 und 2, die wesentlich in der gleichberechtigten Teilhabe an der Gesellschaft eingeschränkt sind (wesentliche Behinderung) oder von einer solchen wesentlichen Behinderung bedroht sind, wenn und solange nach der Besonderheit des Einzelfalles Aussicht besteht, dass die Aufgabe der Eingliederungshilfe nach § 90 erfüllt werden kann.
+(1) Eingliederungshilfe ist Personen nach § 2 Absatz 1 Satz 1 und 2 zu leisten, deren Beeinträchtigungen die Folge einer Schädigung der Körperfunktion und -struktur einschließlich der geistigen und seelischen Funktionen sind und die dadurch in Wechselwirkung mit den Barrieren in erheblichem Maße in ihrer Fähigkeit zur Teilhabe an der Gesellschaft eingeschränkt sind. Eine Einschränkung der Fähigkeit zur Teilhabe an der Gesellschaft in erheblichem Maße liegt vor, wenn die Ausführung von Aktivitäten in einer größeren Anzahl der Lebensbereiche nach Absatz 4 nicht ohne personelle oder technische Unterstützung möglich oder in einer geringeren Anzahl der Lebensbereiche auch mit personeller oder technischer Unterstützung nicht möglich ist. Mit steigender Anzahl der Lebensbereiche nach Absatz 4 ist ein geringeres Ausmaß der jeweiligen Einschränkung für die Leistungsberechtigung ausreichend.
 
-(2) Von einer wesentlichen Behinderung bedroht sind Menschen, bei denen der Eintritt einer wesentlichen Behinderung nach fachlicher Erkenntnis mit hoher Wahrscheinlichkeit zu erwarten ist.
+(2) Leistungsberechtigt nach diesem Teil sind auch Personen, denen nach fachlicher Kenntnis eine erhebliche Einschränkung im Sinne von Absatz 1 Satz 2 mit hoher Wahrscheinlichkeit droht. Ist bei Personen nach § 2 Absatz 1 Satz 1 und 2 die Ausführung von Aktivitäten in weniger als den nach Absatz 1 Satz 2 bestimmten Lebensbereichen nicht ohne personelle oder technische Unterstützung möglich oder in weniger als den nach Absatz 1 Satz 2 bestimmten Lebensbereichen auch mit personeller oder technischer Unterstützung nicht möglich, ist aber im Einzelfall in ähnlichem Ausmaß personelle oder technische Unterstützung zur Ausführung von Aktivitäten notwendig, können Leistungen der Eingliederungshilfe gewährt werden.
 
-(3) Menschen mit anderen geistigen, seelischen, körperlichen oder Sinnesbeeinträchtigungen, durch die sie in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren in der gleichberechtigten Teilhabe an der Gesellschaft eingeschränkt sind, können Leistungen der Eingliederungshilfe erhalten.
+(3) Bei der Feststellung des erheblichen Maßes der Einschränkung nach Absatz 1 Satz 2 ist die für die Art der Behinderung typisierende notwendige Unterstützung in Lebensbereichen nach Absatz 4 maßgebend.
 
-(4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen über die Konkretisierung der Leistungsberechtigung in der Eingliederungshilfe erlassen. Bis zum Inkrafttreten einer nach Satz 1 erlassenen Rechtsverordnung gelten die §§ 1 bis 3 der Eingliederungshilfe-Verordnung in der am 31. Dezember 2019 geltenden Fassung entsprechend.
+(4) Lebensbereiche im Sinne von Absatz 1 Satz 2 sind
+
+1. Lernen und Wissensanwendung,
+
+2. allgemeine Aufgaben und Anforderungen,
+
+3. Kommunikation,
+
+4. Mobilität,
+
+5. Selbstversorgung,
+
+6. häusliches Leben,
+
+7. interpersonelle Interaktionen und Beziehungen,
+
+8. bedeutende Lebensbereiche sowie
+
+9. Gemeinschafts-, soziales und staatsbürgerliches Leben.
+
+(5) Personelle Unterstützung im Sinne von Absatz 1 Satz 2 ist die regelmäßig wiederkehrende und über einen längeren Zeitraum andauernde Unterstützung durch eine anwesende Person. Bei Kindern und Jugendlichen bis zur Vollendung des 18. Lebensjahres bleibt die Notwendigkeit von Unterstützung auf Grund der altersgemäßen Entwicklung unberücksichtigt.
+
+(6) Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 erhalten Personen, die die Voraussetzungen nach § 58 Absatz 1 Satz 1 erfüllen.
+
+(7) Das Nähere über
+
+1. die größere und geringere Anzahl nach Absatz 1 Satz 2,
+
+2. das Verhältnis von der Anzahl der Lebensbereiche zum Ausmaß der jeweiligen Einschränkung nach Absatz 1 Satz 3 und
+
+3. die Inhalte der Lebensbereiche nach Absatz 4
+
+bestimmt ein Bundesgesetz.
 
 # § 100 – Eingliederungshilfe für Ausländer
 

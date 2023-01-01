@@ -3,7 +3,7 @@
  
 # § 1 – Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
 
-(1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat ist ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.
+(1) Im Geschäftsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in Bonn.
 
@@ -17,32 +17,24 @@
 
 2. der obersten Bundesbehörden,
 
-3. der Bundesrepublik Deutschland im Ausland mit Ausnahme der Bauten im Geschäftsbereich des Bundesministeriums der Verteidigung,
+3. der Bundesrepublik Deutschland im Ausland mit Ausnahme einfacher Baumaßnahmen sowie der Bauten im Geschäftsbereich des Bundesministeriums der Verteidigung,
 
-4. des Bundes in Berlin,
+4. des Bundes in Berlin und
 
-5. im Geschäftsbereich eines Bundesministeriums bei überwiegendem Interesse des Bundes,
+5. im Geschäftsbereich eines Bundesministeriums bei überwiegendem Interesse des Bundes, soweit in diesem Fall das Bundesministerium im Einvernehmen mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen dem Bundesamt die Aufgabe übertragen hat.
 
-soweit das Bundesministerium des Innern, für Bau und Heimat oder im Falle der Nummer 5 das Bundesministerium im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat dem Bundesamt die Aufgabe übertragen hat.
+(3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen fachlich bei der Wahrnehmung seiner Aufgaben auf den in den Absätzen 1 und 2 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.
 
-(3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium des Innern, für Bau und Heimat fachlich bei der Wahrnehmung der Aufgaben auf den in Absatz 1 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.
+(3a) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen bei der Festlegung von übergeordneten baupolitischen und baukulturellen Vorgaben und Standardsetzungen für den zivilen Bundesbau.
 
-(4) Das Bundesamt für Bauwesen und Raumordnung betreibt zur Erledigung seiner Aufgaben wissenschaftliche Forschung auf den Gebieten der Raumordnung, des Städtebaus und des Wohnungswesens. Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen dem Bundesamt in entsprechender Anwendung von § 16 Abs. 6 des Bundesstatistikgesetzes Einzelangaben übermitteln, soweit dies zur Erfüllung der in Satz 1 genannten Forschungsaufgaben erforderlich ist. Die Daten dürfen nur für diesen Zweck und in von den anderen Aufgabenbereichen des Bundesamtes räumlich, organisatorisch und personell getrennten Organisationseinheiten gespeichert und genutzt werden.
+(4) Das Bundesamt für Bauwesen und Raumordnung betreibt zur Erledigung seiner Aufgaben wissenschaftliche Forschung auf den Gebieten der Raumordnung, des Städtebaus, des Bau- und Wohnungswesens. Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen dem Bundesamt in entsprechender Anwendung von § 16 Abs. 6 des Bundesstatistikgesetzes Einzelangaben übermitteln, soweit dies zur Erfüllung der in Satz 1 genannten Forschungsaufgaben erforderlich ist. Die Daten dürfen nur für diesen Zweck und in von den anderen Aufgabenbereichen des Bundesamtes räumlich, organisatorisch und personell getrennten Organisationseinheiten gespeichert und genutzt werden.
 
-(5) Das Bundesamt für Bauwesen und Raumordnung erledigt, soweit nicht die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist, weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang stehende Aufgaben des Bundes, mit deren Durchführung es vom Bundesministerium des Innern, für Bau und Heimat oder von der sachlich zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat beauftragt wird.
+(5) Das Bundesamt für Bauwesen und Raumordnung erledigt, soweit nicht die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist, weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang stehende Aufgaben des Bundes, mit deren Durchführung es vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen oder von der sachlich zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen beauftragt wird.
 
-(6) Bauangelegenheiten der Verfassungsorgane des Bundes und der obersten Bundesbehörden kann die Bundesregierung im Einvernehmen mit dem betroffenen Verfassungsorgan einer Gesellschaft des privaten Rechts übertragen.
+(6) Die Verfassungsorgane des Bundes können ihre Bauangelegenheiten im Einzelfall auch jeweils in eigener Zuständigkeit regeln.
 
-# § 3 – Fachaufsicht
+# § 3 – Aufsicht
 
-Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht durch das Bundesministerium des Innern, für Bau und Heimat. Für Bauangelegenheiten im Geschäftsbereich des Bundesministeriums der Verteidigung untersteht es dessen Fachaufsicht. Bei der Erledigung von Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums des Innern, für Bau und Heimat nach § 2 Abs. 5 untersteht das Bundesamt den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher Art sind.
+Die Aufsicht über das Bundesamt für Bauwesen und Raumordnung wird durch das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen ausgeübt. Die Zuständigkeit des Bundesministeriums der Verteidigung für seine Bauangelegenheiten bleibt insoweit unberührt.
 
-# § 4 – Überleitungsvorschriften
-
-(1) Leiter des Bundesamtes für Bauwesen und Raumordnung wird der Präsident der Bundesbaudirektion. Stellvertretender Leiter wird der Direktor und Professor der Bundesforschungsanstalt für Landeskunde und Raumordnung; dieser ist berechtigt, neben seiner neuen Amtsbezeichnung den Zusatz "und Professor" zu führen.
-
-(2) (weggefallen)
-
-(3) Beim Bundesamt für Bauwesen und Raumordnung werden im Zeitraum vom 1. Juli 2004 bis 30. September 2004 eine Gleichstellungsbeauftragte und eine Vertreterin nach den Bestimmungen des Bundesgleichstellungsgesetzes gewählt. Bis zur Wahl nehmen die bisherigen Gleichstellungsbeauftragten des Bundesamtes für Bauwesen und Raumordnung und der Bauverwaltung des Bundes in Berlin die Aufgaben der Gleichstellungsbeauftragten gemeinsam wahr.
-
-(4) Bauvorhaben der Verfassungsorgane des Bundes und der obersten Bundesbehörden in dem vom Internationalen Städtebaulichen Ideenwettbewerb Spreebogen erfaßten Bereich in Berlin sind der Bundesbaugesellschaft Berlin mbH übertragen.
+# § 4 – (weggefallen)

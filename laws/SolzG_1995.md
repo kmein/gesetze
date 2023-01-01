@@ -55,13 +55,13 @@ nach dem ab 1. Januar 1998 zu erhebenden Steuerabzugsbetrag.
 
 (2) Bei der Veranlagung zur Einkommensteuer ist Bemessungsgrundlage für den Solidaritätszuschlag die Einkommensteuer, die abweichend von § 2 Abs. 6 des Einkommensteuergesetzes unter Berücksichtigung von Freibeträgen nach § 32 Abs. 6 des Einkommensteuergesetzes in allen Fällen des § 32 des Einkommensteuergesetzes festzusetzen wäre.
 
-(2a) Vorbehaltlich des § 40a Absatz 2 des Einkommensteuergesetzes ist beim Steuerabzug vom Arbeitslohn Bemessungsgrundlage die Lohnsteuer; beim Steuerabzug vom laufenden Arbeitslohn und beim Jahresausgleich ist die Lohnsteuer maßgebend, die sich ergibt, wenn der nach § 39b Absatz 2 Satz 5 des Einkommensteuergesetzes zu versteuernde Jahresbetrag für die Steuerklassen I, II und III im Sinne des § 38b des Einkommensteuergesetzes um den Kinderfreibetrag von 5 460 Euro sowie den Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf von 2 928 Euro und für die Steuerklasse IV im Sinne des § 38b des Einkommensteuergesetzes um den Kinderfreibetrag von 2 730 Euro sowie den Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf von 1 464 Euro für jedes Kind vermindert wird, für das eine Kürzung der Freibeträge für Kinder nach § 32 Absatz 6 Satz 4 des Einkommensteuergesetzes nicht in Betracht kommt. Bei der Anwendung des § 39b des Einkommensteuergesetzes für die Ermittlung des Solidaritätszuschlages ist die als Lohnsteuerabzugsmerkmal gebildete Zahl der Kinderfreibeträge maßgebend. Bei Anwendung des § 39f des Einkommensteuergesetzes ist beim Steuerabzug vom laufenden Arbeitslohn die Lohnsteuer maßgebend, die sich bei Anwendung des nach § 39f Abs. 1 des Einkommensteuergesetzes ermittelten Faktors auf den nach den Sätzen 1 und 2 ermittelten Betrag ergibt.
+(2a) Vorbehaltlich des § 40a Absatz 2 des Einkommensteuergesetzes ist beim Steuerabzug vom Arbeitslohn Bemessungsgrundlage die Lohnsteuer; beim Steuerabzug vom laufenden Arbeitslohn und beim Jahresausgleich ist die Lohnsteuer maßgebend, die sich ergibt, wenn der nach § 39b Absatz 2 Satz 5 des Einkommensteuergesetzes zu versteuernde Jahresbetrag für die Steuerklassen I, II und III im Sinne des § 38b des Einkommensteuergesetzes um den doppelten Kinderfreibetrag sowie den doppelten Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf und für die Steuerklasse IV im Sinne des § 38b des Einkommensteuergesetzes um den Kinderfreibetrag sowie den Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf (§ 32 Absatz 6 Satz 1 des Einkommensteuergesetzes) für jedes Kind vermindert wird, für das eine Kürzung der Freibeträge für Kinder nach § 32 Absatz 6 Satz 4 des Einkommensteuergesetzes nicht in Betracht kommt. Bei der Anwendung des § 39b des Einkommensteuergesetzes für die Ermittlung des Solidaritätszuschlages ist die als Lohnsteuerabzugsmerkmal gebildete Zahl der Kinderfreibeträge maßgebend. Bei Anwendung des § 39f des Einkommensteuergesetzes ist beim Steuerabzug vom laufenden Arbeitslohn die Lohnsteuer maßgebend, die sich bei Anwendung des nach § 39f Abs. 1 des Einkommensteuergesetzes ermittelten Faktors auf den nach den Sätzen 1 und 2 ermittelten Betrag ergibt.
 
 (3) Der Solidaritätszuschlag ist von einkommensteuerpflichtigen Personen nur zu erheben, wenn die Bemessungsgrundlage nach Absatz 1 Nummer 1 und 2, vermindert um die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes,
 
-1. in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes 33 912 Euro,
+1. in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes 35 086 Euro,
 
-2. in anderen Fällen 16 956 Euro
+2. in anderen Fällen 17 543 Euro
 
 übersteigt. Auf die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes ist der Solidaritätszuschlag ungeachtet des Satzes 1 zu erheben.
 
@@ -69,33 +69,31 @@ nach dem ab 1. Januar 1998 zu erhebenden Steuerabzugsbetrag.
 
 1. bei monatlicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als 2 826 Euro und
+a) in der Steuerklasse III mehr als 2 923,83 Euro und
 
-b) in den Steuerklasse I, II, IV bis VI mehr als 1 413 Euro,
+b) in den Steuerklassen I, II, IV bis VI mehr als 1 461,92 Euro,
 
 2. bei wöchentlicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als 659,40 Euro und
+a) in der Steuerklasse III mehr als 682,23 Euro und
 
-b) in den Steuerklassen I, II, IV bis VI mehr als 329,70 Euro,
+b) in den Steuerklassen I, II, IV bis VI mehr als 341,11 Euro,
 
 3. bei täglicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als 94,20 Euro und
+a) in der Steuerklasse III mehr als 97,46 Euro und
 
-b) in den Steuerklassen I, II, IV bis VI mehr als 47,10 Euro
-
-beträgt.
+b) in den Steuerklassen I, II, IV bis VI mehr als 48,73 Euro beträgt.
 
 (4a) Beim Abzug von einem sonstigen Bezug ist der Solidaritätszuschlag nur zu erheben, wenn die Jahreslohnsteuer im Sinne des § 39b Absatz 3 Satz 5 des Einkommensteuergesetzes unter Berücksichtigung des Kinderfreibetrags und des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf für jedes Kind entsprechend den Vorgaben in Absatz 2a folgende Beträge übersteigt:
 
-1. in den Steuerklassen I, II, IV bis VI 16 956 Euro und
+1. in den Steuerklassen I, II, IV bis VI 17 543 Euro und
 
-2. in der Steuerklasse III 33 912 Euro.
+2. in der Steuerklasse III 35 086 Euro.
 
 Die weiteren Berechnungsvorgaben in § 39b Absatz 3 des Einkommensteuergesetzes finden Anwendung.
 
-(5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr als 33 912 Euro und in den Steuerklassen I, II oder IV mehr als 16 956 Euro beträgt.
+(5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr als 35 086 Euro und in den Steuerklassen I, II oder IV mehr als 17 543 Euro beträgt.
 
 (+++ § 3: Zur Anwendung vgl. § 6 +++)
 
@@ -154,3 +152,5 @@ Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltung
 (21) § 3 Absatz 3 und § 4 Satz 2 in der Fassung des Gesetzes vom 10. Dezember 2019 (BGBl. I S. 2115) sind erstmals im Veranlagungszeitraum 2021 anzuwenden. § 3 Absatz 4 und 4a und § 4 Satz 2 und 4 in der Fassung des Gesetzes vom 10. Dezember 2019 (BGBl. I S. 2115) sind erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2020 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2020 zufließen. § 3 Absatz 5 in der Fassung des Gesetzes vom 10. Dezember 2019 (BGBl. I S. 2115) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr 2021 anzuwenden.
 
 (22) § 3 Absatz 2a in der am 1. Januar 2021 geltenden Fassung ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2020 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2020 zufließen.
+
+(23) § 3 Absatz 2a in der am 1. Januar 2023 geltenden Fassung ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2022 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2022 zufließen. § 3 Absatz 3 in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals im Veranlagungszeitraum 2023 anzuwenden. § 3 Absatz 4 und 4a in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2022 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2022 zufließen. § 3 Absatz 5 in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr 2023 anzuwenden.

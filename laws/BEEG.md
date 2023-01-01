@@ -373,7 +373,7 @@ Liegt der Behörde von der anderen berechtigten Person weder ein Antrag auf Elte
 
 (4) Die nach den Absätzen 1 bis 3 nicht zu berücksichtigenden oder nicht heranzuziehenden Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder.
 
-(5) Die Absätze 1 bis 4 gelten nicht bei Leistungen nach dem Zweiten Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch, § 6a des Bundeskindergeldgesetzes und dem Asylbewerberleistungsgesetz. Bei den in Satz 1 bezeichneten Leistungen bleiben das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen in Höhe des nach § 2 Absatz 1 berücksichtigten Einkommens aus Erwerbstätigkeit vor der Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. Soweit die berechtigte Person Elterngeld Plus bezieht, verringern sich die Beträge nach Satz 2 um die Hälfte.
+(5) Die Absätze 1 bis 4 gelten nicht bei Leistungen nach dem Zweiten Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch, § 6a des Bundeskindergeldgesetzes und dem Asylbewerberleistungsgesetz. Bei den in Satz 1 bezeichneten Leistungen bleiben das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen in Höhe des nach § 2 Absatz 1 berücksichtigten Einkommens aus Erwerbstätigkeit vor der Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. Soweit die berechtigte Person Elterngeld Plus bezieht, verringern sich die Beträge nach Satz 2 um die Hälfte. Abweichend von Satz 2 bleibt Mutterschaftsgeld gemäß § 19 des Mutterschutzgesetzes in voller Höhe unberücksichtigt.
 
 (6) Die Absätze 1 bis 4 gelten entsprechend, soweit für eine Sozialleistung ein Kostenbeitrag erhoben werden kann, der einkommensabhängig ist.
 
@@ -387,7 +387,7 @@ Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes und vergleic
 
 (2) Den nach Absatz 1 zuständigen Behörden obliegt auch die Beratung zur Elternzeit.
 
-(2) Der Bund trägt die Ausgaben für das Elterngeld und das Betreuungsgeld.
+(3) Der Bund trägt die Ausgaben für das Elterngeld. Die damit zusammenhängenden Einnahmen sind an den Bund abzuführen. Für die Ausgaben und die mit ihnen zusammenhängenden Einnahmen sind die Vorschriften über das Haushaltsrecht des Bundes einschließlich der Verwaltungsvorschriften anzuwenden.
 
 # § 13 – Rechtsweg
 

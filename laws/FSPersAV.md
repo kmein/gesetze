@@ -171,7 +171,7 @@ b) wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe oder Jugen
 
 3. die regelmäßig psychoaktive Substanzen missbrauchen,
 
-4. für die eine rechtliche Betreuung nach den §§ 1896 ff. des Bürgerlichen Gesetzbuchs besteht.
+4. für die eine rechtliche Betreuung nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs besteht.
 
 Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 1 erfasst sind, oder im Fall von Entscheidungen der Gerichte oder Staatsanwaltschaften nach § 153a der Strafprozessordnung verneint werden, wenn der zugrunde liegende Sachverhalt für die Beurteilung der Zuverlässigkeit von Personen im Umgang mit Luftfahrzeugen von Bedeutung ist und seit dem Eintritt der Rechtskraft der letzten Verurteilung oder der Entscheidung fünf Jahre noch nicht verstrichen sind.
 
@@ -521,7 +521,7 @@ b) wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe oder Jugen
 
 3. die regelmäßig psychoaktive Substanzen missbrauchen,
 
-4. für die eine rechtliche Betreuung nach den §§ 1896 ff. des Bürgerlichen Gesetzbuchs besteht.
+4. für die eine rechtliche Betreuung nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs besteht.
 
 Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 1 erfasst sind, oder im Fall von Entscheidungen der Gerichte oder Staatsanwaltschaften nach § 153a der Strafprozessordnung verneint werden, wenn der zugrunde liegende Sachverhalt für die Beurteilung der Zuverlässigkeit von Personen im Umgang mit Luftfahrzeugen von Bedeutung ist und seit dem Eintritt der Rechtskraft der letzten Verurteilung oder der Entscheidung fünf Jahre noch nicht verstrichen sind.
 

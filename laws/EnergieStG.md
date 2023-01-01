@@ -296,7 +296,7 @@ b) beim Reinigen von Putzstoffen, Arbeitskleidung oder Altpapier,
 
 (3) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen nach Absatz 2 Satz 2 nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
-(4) Das Lager kann auch der Einlagerung von Energieerzeugnissen durch Dritte (Einlagerer) dienen. Will der Einlagerer Steuerschuldner nach § 8 Abs. 2 Satz 2 werden, muss ihm zuvor eine Erlaubnis erteilt worden sein (zugelassener Einlagerer). Diese wird auf Antrag erteilt, wenn die Einlagerung durch den Einlagerer dem Großhandel oder dem Großhandelsvertrieb durch Hersteller dient und der Einlagerer die eingelagerten Energieerzeugnisse im eigenen Namen vertreibt. Die Erlaubnis wird nicht erteilt, wenn die Energieerzeugnisse ausschließlich nach § 2 Abs. 1 Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 versteuert oder zu steuerfreien Zwecken entnommen werden sollen. Absatz 2 Satz 2 und 3 und Absatz 3 gelten entsprechend.
+(4) Das Lager kann auch der Einlagerung von Energieerzeugnissen durch Dritte (Einlagerer) dienen. Will der Einlagerer Steuerschuldner nach § 8 Abs. 2 Satz 2 werden, muss ihm zuvor eine Erlaubnis erteilt worden sein (zugelassener Einlagerer). Diese wird auf Antrag erteilt, wenn die Einlagerung durch den Einlagerer dem Großhandel oder dem Großhandelsvertrieb durch Hersteller dient und der Einlagerer die eingelagerten Energieerzeugnisse im eigenen Namen vertreibt. Die Erlaubnis wird nicht erteilt, wenn die Energieerzeugnisse ausschließlich nach § 2 Absatz 3 versteuert oder zu steuerfreien Zwecken entnommen werden sollen. Absatz 2 Satz 2 und 3 und Absatz 3 gelten entsprechend.
 
 (5) Abweichend von den Absätzen 1 und 2 kann das Hauptzollamt auf Antrag für Flüssiggase, ordnungsgemäß gekennzeichnete Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur und Heizöle der Unterpositionen 2710 19 62 bis 2710 19 68 und der Unterpositionen 2710 20 31 bis 2710 20 39 der Kombinierten Nomenklatur, die nach § 2 Abs. 1 Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 versteuert oder zu steuerfreien Zwecken nach den §§ 25, 26 oder § 27 Abs. 1 abgegeben werden sollen oder die unter Steueraussetzung in ein anderes Steuerlager im Steuergebiet verbracht werden sollen, auch dann eine Erlaubnis nach Absatz 2 erteilen, wenn das Lager keine Lagerstätten besitzt.
 
@@ -1234,9 +1234,9 @@ Eine Anlage zur Kraft-Wärme-Kopplung ist hocheffizient, wenn sie die Kriterien 
 
 (10) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse zur gekoppelten Erzeugung von Kraft und Wärme verwendet hat. Verwender im Sinn des Satzes 1 ist nur diejenige Person, die die Energieerzeugnisse in einer KWK-Anlage zum Betrieb der Anlage einsetzt.
 
-(11) Die teilweise Steuerentlastung nach den Absätzen 1, 3 und 4 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+(11) Die teilweise Steuerentlastung nach den Absätzen 1, 3 und 4 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Satz 1 gilt sinngemäß für die vollständige Steuerentlastung nach Absatz 6. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-(12) Die vollständige Steuerentlastung nach Absatz 6 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen beihilferechtlichen Genehmigung der Europäischen Kommission. Das Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+(12) (weggefallen)
 
 # § 53b – (weggefallen)
 
@@ -1312,7 +1312,9 @@ Kleine und mittlere Unternehmen können anstelle der in Satz 1 Nummer 1 genannte
 
 a) das Unternehmen nachweist, dass es im Antragsjahr oder früher die Einführung eines Energiemanagementsystems nach Absatz 4 Satz 1 Nummer 1 Buchstabe a abgeschlossen hat, oder wenn das Unternehmen nachweist, dass es im Jahr 2015 oder früher als Organisation nach Artikel 13 der Verordnung (EG) Nr. 1221/2009 registriert worden ist, und
 
-b) die Voraussetzungen des Absatzes 4 Satz 1 Nummer 2 erfüllt sind.
+b) die Voraussetzungen des Absatzes 4 Satz 1 Nummer 2 erfüllt sind,
+
+3. für das Antragsjahr 2023, wenn das Unternehmen nachweist, dass es im Antragsjahr die Voraussetzungen nach Absatz 4 Satz 1 Nummer 1 erfüllt und mit dem Antrag die Bereitschaft erklärt, alle in dem jeweiligen System des Absatzes 4 Satz 1 Nummer 1 als wirtschaftlich vorteilhaft identifizierten Endenergieeinsparmaßnahmen umzusetzen.
 
 Für kleine und mittlere Unternehmen gilt Absatz 4 Satz 2 entsprechend.
 
@@ -1322,7 +1324,7 @@ Für kleine und mittlere Unternehmen gilt Absatz 4 Satz 2 entsprechend.
 
 2. ab dem Antragsjahr 2015 die Voraussetzungen des Absatzes 4 Satz 1 Nummer 2 erfüllt sind; Absatz 7 gilt entsprechend.
 
-Als Zeitpunkt der Neugründung gilt der Zeitpunkt der erstmaligen Betriebsaufnahme. Neu gegründete Unternehmen sind nur solche, die nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung entstanden sind.
+Als Zeitpunkt der Neugründung gilt der Zeitpunkt der erstmaligen Betriebsaufnahme. Neu gegründete Unternehmen sind nur solche, die nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung entstanden sind. Satz 1 Nummer 2 gilt nicht für das Antragsjahr 2023.
 
 (7) Stellt die Bundesregierung fest, dass der nach der Anlage zu § 55 für das Antragsjahr vorgesehene Zielwert für eine Reduzierung der Energieintensität nicht erreicht wurde, erhalten die Unternehmen die Steuerentlastung abweichend von Absatz 4 Satz 1 Nummer 2 Buchstabe a
 

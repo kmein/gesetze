@@ -5,195 +5,108 @@
 
 Diese Verordnung trifft Regelungen
 
-1. zur Vermarktung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms durch die Übertragungsnetzbetreiber nach § 59 des Erneuerbare-Energien-Gesetzes,
+1. zur Vermarktung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms durch die Übertragungsnetzbetreiber nach § 57 des Erneuerbare-Energien-Gesetzes,
 
-2. zur Ermittlung und Veröffentlichung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
+2. (weggefallen)
 
 3. in Bezug auf Herkunftsnachweise und den Betrieb des Herkunftsnachweisregisters nach § 79 des Erneuerbare-Energien-Gesetzes und in Bezug auf Regionalnachweise und die Einrichtung und den Betrieb des Regionalnachweisregisters nach § 79a des Erneuerbare-Energien-Gesetzes,
 
 3a. zur Anschlussförderung von Güllekleinanlagen nach § 88b des Erneuerbare-Energien-Gesetzes,
 
-3b. zu Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes und
+3b. (weggefallen)
 
 4. zur Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen aufgrund des Erneuerbare-Energien-Gesetzes auf die Bundesnetzagentur und auf das Umweltbundesamt.
 
 # § 2 – Vermarktung durch die Übertragungsnetzbetreiber
 
-Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom nur am Spotmarkt einer Strombörse nach Maßgabe der Erneuerbare-Energien-Ausführungsverordnung vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.
+(1) Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom nur am Spotmarkt einer Strombörse vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden. Eine gemeinsame Vermarktung nach Satz 1 schließt die Möglichkeit ein, Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im Rahmen eines Dienstleistungsverhältnisses zu übertragen.
+
+(2) Die Übertragungsnetzbetreiber müssen am vortägigen Spotmarkt einer Strombörse über eine marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Stroms vollständig veräußern.
+
+(3) Differenzen zwischen der gemäß jeweils aktueller Prognose vorhergesagten viertelstündlichen Einspeisung und der nach Absatz 2 zu vermarktenden stündlichen Einspeisung können am Spotmarkt einer Strombörse für jede Viertelstunde des Folgetages über Auktionen mit viertelstündlichen Handelsprodukten erworben oder veräußert werden. Gebote nach Satz 1 können preislimitiert eingestellt werden.
+
+(4) Differenzen zwischen der nach aktualisierten Prognosen vorhergesagten viertelstündlichen Einspeisung und den bereits veräußerten und erworbenen Strommengen sind über den untertägigen kontinuierlichen Handel am Spotmarkt einer Strombörse zu erwerben oder zu veräußern. Mit Abschluss der letzten Handelsmöglichkeiten nach Satz 1 müssen die Differenzen nach Satz 1 vollständig ausgeglichen sein.
+
+(5) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Strom sind nach dem Stand von Wissenschaft und Technik zu erstellen.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-# § 3 – Ermittlung der EEG-Umlage
+# § 3 – Transparenz der Vermarktungstätigkeiten
 
-(1) Die Übertragungsnetzbetreiber ermitteln die EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes transparent aus
+Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-Energien-Gesetzes auf einer gemeinsamen Internetseite in einheitlichem Format in nicht personenbezogener Form zu veröffentlichen:
 
-1. der Differenz zwischen den prognostizierten Einnahmen nach Absatz 3 Nummer 1, 3, 3a, 3b, 6 und 7 sowie Absatz 5 für das folgende Kalenderjahr und den prognostizierten Ausgaben nach Absatz 4 für das folgende Kalenderjahr und
+1. die nach § 2 Absatz 2 veräußerte Einspeisung aufgeschlüsselt nach den Technologiegruppen Windenergie, solare Strahlungsenergie und Sonstige in mindestens stündlicher Auflösung; sie ist spätestens bis 18 Uhr desselben Tages zu veröffentlichen,
 
-2. dem Differenzbetrag zwischen den tatsächlichen Einnahmen nach Absatz 3 und den tatsächlichen Ausgaben nach Absatz 4 zum Zeitpunkt der Ermittlung.
+2. die nach § 2 Absatz 2 veräußerte monatliche Einspeisung aufgeschlüsselt nach den Technologiegruppen Windenergie an Land, Windenergie auf See, solare Strahlungsenergie, Biomasse und Sonstige; sie ist für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen,
 
-Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energien-Gesetzes die EEG-Umlage gezahlt werden muss, ist in Cent pro Kilowattstunde zu ermitteln. Hierbei ist § 66 Absatz 5 Satz 2 des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden. Die nach Absatz 11 abgegrenzten Einnahmen und Ausgaben dürfen bei der Ermittlung nach Satz 1 nicht berücksichtigt werden. Die EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes kann keinen negativen Wert annehmen.
+3. die nach § 2 Absatz 3 veräußerten und erworbenen Strommengen aufgeschlüsselt nach Handelsplätzen in viertelstündlicher Auflösung; sie sind spätestens bis 18 Uhr desselben Tages zu veröffentlichen,
 
-(2) Die Prognosen nach Absatz 1 sind nach dem Stand von Wissenschaft und Technik zu erstellen. Für die Prognose der Einnahmen nach Absatz 3 Nummer 1 ist der Durchschnitt der täglichen Abrechnungspreise für das Produkt Phelix Baseload Year Future an der Strombörse für das folgende Kalenderjahr zugrunde zu legen. Maßgeblich ist dabei der Handelszeitraum vom 16. Juni bis zum 15. September des laufenden Kalenderjahres.
+4. die nach § 2 Absatz 4 veräußerten und erworbenen Strommengen in viertelstündlicher Auflösung; sie sind spätestens am Folgetag bis 18 Uhr zu veröffentlichen,
 
-(3) Einnahmen sind
+5. die Differenz zwischen den gemäß der jeweils aktuellsten vor Handelsschluss verfügbaren Prognose insgesamt zu veräußernden Strommengen und den hierfür insgesamt nach § 2 Absatz 2 bis 4 veräußerten und erworbenen Strommengen; sie ist in viertelstündlicher Auflösung spätestens am Folgetag bis 18 Uhr zu veröffentlichen,
 
-1. Erlöse aus der Vermarktung nach § 2,
+6. die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-Bilanzkreises in viertelstündlicher Auflösung; sie ist unverzüglich nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen, und
 
-2. Zahlungen der EEG-Umlage,
-
-3. Zahlungen nach § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes, soweit die Saldierung nach § 57 Absatz 4 des Erneuerbare-Energien-Gesetzes für den Übertragungsnetzbetreiber einen positiven Saldo ergeben hat,
-
-3a. Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Absenkung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
-
-3b. Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Finanzierung der Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a,
-
-4. positive Differenzbeträge aus Zinsen nach Absatz 5,
-
-5. Erlöse aus Rückforderungsansprüchen entsprechend den Vorgaben nach § 57 Absatz 5 oder auf Grund von nachträglichen Korrekturen nach § 62 des Erneuerbare-Energien-Gesetzes und aus Zahlungsansprüchen der Übertragungsnetzbetreiber nach Absatz 7,
-
-6. Erlöse aus Versteigerungen von Anbindungskapazitäten für Windenergieanlagen auf See nach § 17d Absatz 4 Satz 5 des Energiewirtschaftsgesetzes,
-
-7. Erlöse aus der Abrechnung der Ausgleichsenergie für den EEG-Bilanzkreis nach § 11 der Stromnetzzugangsverordnung,
-
-8. Erlöse auf Grund von Rechtsverordnungen nach § 88 oder § 88a des Erneuerbare-Energien-Gesetzes, die dort als Einnahmen im Sinne dieses Absatzes benannt werden,
-
-9. positive Differenzbeträge und Zinsen nach § 6 Absatz 3 der Erneuerbare-Energien-Ausführungsverordnung,
-
-10. Zahlungen nach § 55 des Erneuerbare-Energien-Gesetzes und nach § 60 des Windenergie-auf-See-Gesetzes und
-
-11. Zahlungen nach § 38d Absatz 5 des Erneuerbare-Energien-Gesetzes.
-
-(3a) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsansätze zur Absenkung der EEG-Umlage im Entwurf des Haushaltsgesetzes für das nachfolgende Kalenderjahr zu berücksichtigen, den die Bundesregierung nach § 29 Absatz 1 der Bundeshaushaltsordnung beschließt. Sofern im Haushaltsgesetz des dem Kalenderjahr nach Satz 1 vorangehenden Kalenderjahres eine Verpflichtungsermächtigung für diesen Zweck veranschlagt wurde, richtet sich die Höhe der Zahlung nach dem Betrag, der von der Bundesrepublik Deutschland in einem Bescheid an die Übertragungsnetzbetreiber festgesetzt worden ist, wenn der Bescheid den Übertragungsnetzbetreibern spätestens einen Werktag vor der Veröffentlichung der EEG-Umlage nach § 5 Absatz 1 bekannt gegeben wird; dabei besteht keine Pflicht zum Erlass eines Bescheides.
-
-(3b) Der Bescheid über die Feststellung der Bundesmittel nach Absatz 3a Satz 2 kann ganz oder teilweise widerrufen werden, soweit die im Bescheid festgestellten Bundesmittel noch nicht ausgezahlt worden sind und für die Deckung des EEG-Kontos nicht mehr erforderlich sind.
-
-(4) Ausgaben sind
-
-1. Zahlungen nach den §§ 19 und 50 des Erneuerbare-Energien-Gesetzes und nach den entsprechenden Bestimmungen in früheren Fassungen des Erneuerbare-Energien-Gesetzes, soweit diese Bestimmungen übergangsweise nach den §§ 100 und 101 des Erneuerbare-Energien-Gesetzes oder nach § 12a dieser Verordnung fortgelten,
-
-2. Ausgaben auf Grund einer Verordnung nach den §§ 88 und 88a des Erneuerbare-Energien-Gesetzes, die dort als Ausgaben im Sinne dieses Absatzes benannt werden,
-
-3. (weggefallen)
-
-4. negative Differenzbeträge aus Zinsen nach Absatz 5,
-
-5. Rückzahlungen der Übertragungsnetzbetreiber nach Absatz 7,
-
-6. notwendige Kosten der Übertragungsnetzbetreiber für den untertägigen Ausgleich,
-
-7. notwendige Kosten der Übertragungsnetzbetreiber aus der Abrechnung der Ausgleichsenergie für den EEG-Bilanzkreis,
-
-8. notwendige Kosten für die Erstellung von Prognosen für die Vermarktung nach § 2
-
-9. Ausgaben nach § 6 der Erneuerbare-Energien-Ausführungsverordnung und
-
-10. geleistete Erstattungen nach § 6 Absatz 5 oder § 38d Absatz 6 des Erneuerbare-Energien-Gesetzes.
-
-(5) Differenzbeträge zwischen Einnahmen und Ausgaben sind zu verzinsen. Der Zinssatz beträgt für den Kalendermonat 0,3 Prozentpunkte über dem Monatsdurchschnitt des Euro Interbank Offered Rate-Satzes für die Beschaffung von Einmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europäischen Währungsunion (EURIBOR) mit einer Laufzeit von einem Monat. Soweit der tatsächliche Zinssatz den Zinssatz nach Satz 2 übersteigt, sind auch diese Zinseinnahmen als Einnahmen nach Absatz 3 Nummer 4 anzusehen.
-
-(6) Einnahmen und Ausgaben, die bereits im Rahmen der Bestimmung der Erlösobergrenzen nach § 4 Absatz 2 der Anreizregulierungsverordnung oder einer späteren Änderung der Erlösobergrenzen Berücksichtigung gefunden haben, sind bei der Ermittlung nach Absatz 1 nicht anzusetzen. Hiervon ausgenommen sind Einnahmen und Ausgaben, soweit sie auf Grund dieser Verordnung zusätzlich entstehen. Zusätzliche Einnahmen und Ausgaben im Sinne von Satz 2 sind gegenüber der Bundesnetzagentur nachzuweisen.
-
-(7) Entstehen infolge von Abweichungen zwischen den monatlichen Abschlagszahlungen nach § 60 Absatz 1 Satz 4 des Erneuerbare-Energien-Gesetzes und der Endabrechnung nach § 73 Absatz 2 des Erneuerbare-Energien-Gesetzes Zahlungsansprüche zugunsten oder zulasten der Übertragungsnetzbetreiber, müssen diese bis zum 30. September des auf die Einspeisung folgenden Jahres ausgeglichen werden.
-
-(8) Die Übertragungsnetzbetreiber können bei der Ermittlung der EEG-Umlage hinsichtlich der Prognose der Einnahmen und Ausgaben nach Absatz 1 Satz 1 Nummer 1 zusätzlich eine Liquiditätsreserve vorsehen. Sehen die Übertragungsnetzbetreiber eine Liquiditätsreserve nach Satz 1 vor, werden die Einnahmen nach Absatz 3 Nummer 3a und die nach Absatz 11 abgegrenzten Einnahmen und Ausgaben bei der Ermittlung der Differenz nach Absatz 1 Satz 1 Nummer 1 nicht berücksichtigt. Die Liquiditätsreserve darf 10 Prozent des Differenzbetrages nach Absatz 1 Satz 1 Nummer 1 nicht überschreiten.
-
-(9) Zwischen den Übertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3a im Einvernehmen mit dem Bundesministerium der Finanzen ein öffentlich-rechtlicher Vertrag abgeschlossen. Der Vertrag enthält insbesondere Regelungen zur Verteilung der Mittel zwischen den Übertragungsnetzbetreibern.
-
-(9a) Zwischen den Übertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Ernährung und Landwirtschaft, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3b im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und mit dem Bundesministerium der Finanzen ein öffentlich-rechtlicher Vertrag abgeschlossen.
-
-(10) Weicht im Fall des Absatzes 3a Satz 1 ein dem Entwurf des Haushaltsgesetzes nachfolgend vom Haushaltsgesetzgeber beschlossenes Haushaltsgesetz wesentlich von den Ansätzen des Entwurfs des Haushaltsgesetzes ab, legt die Bundesregierung rechtzeitig vor der Ermittlung der nächsten EEG-Umlage einen Vorschlag für eine Neugestaltung des Absatzes 3a vor.
-
-(11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Absätzen 3 und 4 für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom mit Ausnahme von im Jahr 2021 geleisteten Aufschlägen nach § 23b Absatz 2 des Erneuerbare-Energien-Gesetzes eindeutig von den sonstigen Einnahmen und Ausgaben nach den Absätzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
-
-(12) Die Übertragungsnetzbetreiber teilen dem Bundesministerium für Wirtschaft und Klimaschutz bis zum 30. September 2022 in entsprechender Anwendung von Teil 3 des Energiefinanzierungsgesetzes vom 20. Juli 2022 (BGBl. I S. 1237, 1272) den EEG-Finanzierungsbedarf nach § 2 Nummer 2 des Energiefinanzierungsgesetzes für das Jahr 2023 mit, wobei zu unterstellen ist, dass die Salden der Bankkonten nach § 47 Absatz 1 des Energiefinanzierungsgesetzes am 31. Dezember 2022 jeweils den Wert null haben.
+7. die Angaben nach § 72 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) (+++ § 3: zur Anwendung vgl. § 3a Satz 1 +++)
 
-# § 3a – Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen
+# § 4 – Anreize zur bestmöglichen Vermarktung
 
-Die Übertragungsnetzbetreiber ermitteln den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach § 3. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach § 3 Absatz 1 Satz 4 bei der Ermittlung der EEG-Umlage nicht berücksichtigten Einnahmen und Ausgaben ausgleichen.
+(1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom bestmöglich zu vermarkten, werden pro Kalenderjahr (Anreizjahr) die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit einem Vergleichswert verglichen.
 
-# § 4 – Beweislast
+(2) Beeinflussbare Differenzkosten bestehen aus einer Komponente, die die Aktivitäten an einem untertägigen Spotmarkt abbildet, und einer Komponente, die die Inanspruchnahme der Ausgleichsenergie abbildet. Die Ermittlung der beeinflussbaren Differenzkosten pro Viertelstunde erfolgt, indem
 
-Ist die Notwendigkeit oder die Höhe der Aufwendungen nach § 3 oder § 3a streitig, trifft die Beweislast die Übertragungsnetzbetreiber.
+1. bei untertägiger Beschaffung pro Viertelstunde die beschaffte Menge (K<sub>UT</sub>) mit der Differenz zwischen dem tatsächlich gezahlten Preis (P<sub>UT</sub>) und dem Preis des Vortagshandels (P<sub>VT</sub>) multipliziert wird,
+
+2. bei untertägiger Veräußerung die veräußerte oder gelieferte Menge (VK<sub>UT</sub>) mit der Differenz zwischen dem Preis des Vortageshandels (P<sub>VT</sub>) und dem tatsächlich gezahlten Preis (P<sub>UT</sub>) multipliziert wird,
+
+3. bei Bezug von positiver Ausgleichsenergie pro Viertelstunde die bezogene Menge (K<sub>AE</sub>) mit der Differenz zwischen dem tatsächlich gezahlten Preis (P<sub>AE</sub>) und dem Preis des Vortageshandels (P<sub>VT</sub>) multipliziert wird oder
+
+4. bei Bezug von negativer (gelieferter) Ausgleichsenergie die gelieferte Menge (VK<sub>AE</sub>) mit der Differenz zwischen dem Preis des Vortageshandels (P<sub>VT</sub>) und dem tatsächlich gezahlten Preis (P<sub>AE</sub>) multipliziert wird.
+
+Als Preis des Vortageshandels (P<sub>VT</sub>) gilt der Spotmarktpreis nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes. Als Aktivitäten an einem untertägigen Spotmarkt gelten für die Ermittlung der beeinflussbaren Differenzkosten die Handelsaktivitäten nach § 2 Absatz 3 und 4. Die beeinflussbaren Differenzkosten pro Viertelstunde werden nach der folgenden Formel ermittelt:
+
+<table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">K<sub>UT</sub> ∙ (P<sub>UT</sub> – P<sub>VT</sub>) + VK<sub>UT</sub> ∙ (P<sub>VT</sub> – P<sub>UT</sub>) +<br />
+K<sub>AE</sub> ∙ (P<sub>AE</sub> – P<sub>VT</sub>) + VK<sub>AE</sub> ∙ (P<sub>VT</sub> – P<sub>AE</sub>).</td></tr></tbody></table>
+
+(3) Für die Ermittlung der spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers im Sinn des Absatzes 1 ist die Summe der nach Maßgabe des Absatzes 2 ermittelten Viertelstundenwerte eines Kalenderjahres durch die innerhalb dieses Zeitraums zu vermarktende Menge des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms zu dividieren.
+
+(4) Der Vergleichswert im Sinn des Absatzes 1 ist der arithmetische Mittelwert der jeweiligen spezifischen beeinflussbaren Differenzkosten aller Übertragungsnetzbetreiber der beiden Vorjahre.
+
+(5) Der Übertragungsnetzbetreiber hat Anspruch auf einen Bonus, wenn seine spezifischen beeinflussbaren Differenzkosten den Vergleichswert zuzüglich eines Zuschlags von 5 Cent pro Megawattstunde nicht übersteigen. Die Höhe des Bonus beträgt 25 Prozent der Differenz zwischen dem Vergleichswert zuzüglich des Zuschlags und den spezifischen beeinflussbaren Differenzkosten nach Absatz 3 multipliziert mit der zu vermarktenden Menge im Sinn des Absatzes 3 Satz 2. Die Auszahlung von Boni ist für alle Übertragungsnetzbetreiber zusammen auf 20 Millionen Euro pro Kalenderjahr begrenzt. Die maximal in einem Kalenderjahr zu erreichende Höhe des Bonus eines einzelnen Übertragungsnetzbetreibers ergibt sich aus dem Anteil seiner zu vermarktenden Strommenge an der insgesamt zu vermarktenden Strommenge aller Übertragungsnetzbetreiber multipliziert mit 20 Millionen Euro.
+
+(6) In dem auf das Anreizjahr folgenden Jahr verbuchen die Übertragungsnetzbetreiber den etwaigen Bonus im Rahmen der Ermittlung des EEG-Finanzierungsbedarfs nach Anlage 1 des Energiefinanzierungsgesetzes als prognostizierte Ausgabenposition nach Anlage 1 Nummer 1.1.2 des Energiefinanzierungsgesetzes in Verbindung mit Anlage 1 Nummer 5.7 des Energiefinanzierungsgesetzes. Übertragungsnetzbetreiber, die eine Bonuszahlung nach Absatz 5 geltend machen, müssen dies bis zum 31. März des auf das Anreizjahr folgenden Jahres bei der Bundesnetzagentur anzeigen und die sachliche Richtigkeit der Berechnung nachweisen. § 54 des Energiefinanzierungsgesetzes ist entsprechend anzuwenden.
+
+(7) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres bezogen auf das Anreizjahr.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-# § 5 – Veröffentlichung der EEG-Umlage
+# § 5 – Preislimitierung in Ausnahmefällen
 
-(1) Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres die Höhe der EEG-Umlage für das folgende Kalenderjahr auf ihren Internetseiten veröffentlichen. Bei der Veröffentlichung sind in nicht personenbezogener Form auch anzugeben:
+(1) Der Übertragungsnetzbetreiber kann nach Maßgabe der folgenden Absätze für diejenigen Stunden des folgenden Tages, für die im Fall von negativen Preisen an einer der Strombörsen ein Aufruf zur zweiten Auktion ergeht, von der Verpflichtung abweichen, die vollständige gemäß aktueller Prognose vorhergesagte stündliche Einspeisung zu preisunabhängigen Geboten an den Spotmärkten dieser Strombörsen nach § 2 Absatz 2 zu veräußern. Der Übertragungsnetzbetreiber hat der Bundesnetzagentur die konkreten Stunden, in denen er von der Befugnis nach Satz 1 Gebrauch macht, unverzüglich anzuzeigen. Die Sätze 1 und 2 sind entsprechend anzuwenden auf diejenigen Stunden des Folgetages, für die aufgrund einer partiellen Entkopplung grenzüberschreitend gekoppelter Marktgebiete von der Strombörse zu einer Anpassung der Gebote aufgerufen wird.
 
-1. die Datengrundlagen, Annahmen, Rechenwege, Berechnungen und Endwerte, die in die Ermittlung nach § 3 eingeflossen sind, und
+(2) In den Fällen des Absatzes 1 ist der Übertragungsnetzbetreiber berechtigt, preislimitierte Gebote im Rahmen der Vermarktung nach § 2 Absatz 2 abzugeben. Die zu veräußernde Strommenge ist in 20 gleich große Tranchen aufzuteilen und jeweils mit einem eigenen Preislimit anzubieten. Die Preislimits müssen bei mindestens –350 Euro pro Megawattstunde und höchstens –150 Euro pro Megawattstunde liegen. Jeder Betrag in Schritten von einem Euro innerhalb dieses Rahmens wird zufallsgesteuert mit gleicher Wahrscheinlichkeit als Preislimit gesetzt. Die Preislimits müssen für jeden Fall des Absatzes 1 neu bestimmt werden. Die Preislimits sind bis zur Veröffentlichung nach Satz 7 vertraulich zu behandeln. Der Übertragungsnetzbetreiber ist verpflichtet, zwei Werktage nach Ende der Auktion auf seiner Internetseite Folgendes bekannt zu geben:
 
-2. eine Prognose, wie sich der Differenzbetrag nach § 3 Absatz 1 Satz 1 Nummer 1 auf verschiedene Gruppen von Letztverbrauchern verteilt.
+1. Stunden, für die er ein preislimitiertes Gebot abgegeben hat,
 
-(2) Die Angaben nach Absatz 1 müssen einen sachkundigen Dritten in die Lage versetzen, ohne weitere Informationen die Ermittlung der EEG-Umlage vollständig nachzuvollziehen.
+2. Höhe der Preislimits jeder Tranche und
 
-(3) Die Übertragungsnetzbetreiber müssen die Angaben nach Absatz 1 bis zum 15. Oktober eines Kalenderjahres auch der Bundesnetzagentur nach § 4 Absatz 4 der Erneuerbare-Energien-Ausführungsverordnung mitteilen.
+3. am Spotmarkt nach § 2 Absatz 2 unverkaufte Energiemenge.
 
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) (+++ § 5: Zur Anwendung vgl. § 5a Satz 2 +++)
+(3) Kann im Fall von preislimitierten Angeboten die nach § 2 Absatz 2 zu vermarktende Strommenge nicht oder nicht vollständig veräußert werden, weil der börslich gebildete negative Preis unterhalb des negativen Preislimits liegt, hat eine notwendige anderweitige Veräußerung dieser Strommenge soweit möglich nach § 2 Absatz 3 und 4 zu erfolgen. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner Internetseite Folgendes bekannt zu geben:
 
-# § 5a – Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen
+1. Stunden, für die Energie nach § 2 Absatz 3 und 4 unverkauft geblieben ist,
 
-Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes für das folgende Kalenderjahr auf ihren Internetseiten veröffentlichen. Im Übrigen ist § 5 entsprechend anzuwenden.
+2. die Menge der in der jeweiligen Stunde unverkauften Energie.
 
-# § 6 – Veröffentlichung der EEG-Vorausschau
+(4) Ist aufgrund nachprüfbarer Tatsachen zu erwarten, dass eine Veräußerung nach Absatz 3 nicht oder nur zu Preisen möglich sein wird, die deutlich unterhalb der nach Absatz 2 gesetzten negativen Preislimits liegen würden, kann der Übertragungsnetzbetreiber zur Stützung der börslichen Preise Vereinbarungen nutzen, in denen sich Stromerzeuger freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers die Einspeisung von Strom ganz oder teilweise zu unterlassen oder in denen sich Stromverbraucher freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers ihren Stromverbrauch in bestimmtem Ausmaß zu erhöhen. Die für freiwillige Maßnahmen nach Satz 1 gezahlten Preise dürfen nicht höher sein als die Preise, die sich am vortägigen Spotmarkt für die betreffende Stunde eingestellt hätten, wenn die im Rahmen freiwilliger Vereinbarungen von allen Übertragungsnetzbetreibern abgerufenen Mengen bereits als Nachfrage in die Preisbildung des vortägigen Spotmarkts eingegangen wären. Freiwillige Abregelungsvereinbarungen mit Stromerzeugern, die im Fall der Einspeisung eine Vergütung nach dem Erneuerbare-Energien-Gesetz erhielten, dürfen erst genutzt werden, wenn Vereinbarungen mit anderen Stromerzeugern oder Stromverbrauchern vollständig ausgenutzt wurden. Der Übertragungsnetzbetreiber hat eine Verfahrensanweisung zu entwickeln, in welchen Fällen und in welcher Weise er von den Bestimmungen dieses Absatzes Gebrauch machen wird. Die Verfahrensanweisung und etwaige Änderungen derselben sind der Bundesnetzagentur vor der erstmaligen Anwendung anzuzeigen. Die in diesem Absatz genannten Vereinbarungen sind der Bundesnetzagentur auf Verlangen jederzeit vorzulegen. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner Internetseite bekannt zu geben, für welche Stunden und für welche Energiemenge in der jeweiligen Stunde er von Vereinbarungen im Sinn des Satzes 1 Gebrauch gemacht hat.
 
-(1) Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres eine Vorausschau für die Entwicklung des Ausbaus der erneuerbaren Energien in den folgenden fünf Kalenderjahren erstellen und veröffentlichen. Diese Vorausschau muss mindestens die folgenden Angaben enthalten:
+(5) Die durch die in Absatz 4 genannten Maßnahmen entstehenden Kosten gelten als Kosten für den untertägigen Ausgleich im Sinn der Anlage 1 Nummer 5.3 des Energiefinanzierungsgesetzes. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden.
 
-1. eine Prognose der Entwicklung
+(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-a) der installierten Leistung der Anlagen,
-
-b) der Volllaststunden,
-
-c) der erzeugten Jahresarbeit,
-
-d) der an die Anlagenbetreiber zu leistenden Zahlungen,
-
-e) der Aufteilung der eingespeisten Strommengen auf die Veräußerungsformen nach § 21b Absatz 1 des Erneuerbare-Energien-Gesetzes und
-
-f) der Höhe der vermiedenen Netzentgelte nach § 18 der Stromnetzentgeltverordnung sowie
-
-2. eine Prognose des Letztverbrauchs, aufgegliedert nach
-
-a) Letztverbrauch, für den die EEG-Umlage in voller Höhe gezahlt werden muss,
-
-b) Letztverbrauch, für den die EEG-Umlage in verringerter Höhe gezahlt werden muss, und
-
-c) Letztverbrauch, für den keine EEG-Umlage gezahlt werden muss.
-
-Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu berücksichtigen.
-
-(2) Die Angaben nach Absatz 1 Satz 2 Nummer 1 müssen für die folgenden Energieträger getrennt veröffentlicht werden:
-
-1. Wasserkraft,
-
-2. Windenergie an Land,
-
-3. Windenergie auf See,
-
-4. solare Strahlungsenergie aus Freiflächenanlagen,
-
-5. solare Strahlungsenergie aus sonstigen Anlagen,
-
-6. Geothermie,
-
-7. Energie aus Biomasse,
-
-8. Deponiegas,
-
-9. Klärgas und
-
-10. Grubengas.
-
-(3) Die Prognose nach Absatz 1 muss nach dem Stand von Wissenschaft und Technik erstellt werden. Die Datengrundlagen und Annahmen, die in die Prognose eingeflossen sind, müssen angegeben werden.
-
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) § 6 Abs. 1 Satz 2 Nr. 1 Buchst. d: IdF d. Art. 17 Nr. 4 Buchst. a G v. 13.10.2016 I 2258 mWv 1.1.2017
-
-# § 6a – Weitere Transparenzpflicht
-
-Die Übertragungsnetzbetreiber müssen dem Bundesministerium für Ernährung und Landwirtschaft ab dem Jahr 2022 jährlich spätestens bis zum 30. September die Summe der im jeweils vorangegangenen Kalenderjahr gezahlten Anschlussförderung für Güllekleinanlagen nach Abschnitt 3a mitteilen.
+# § 6 – (weggefallen)
 
 # § 7 – Herkunftsnachweisregister
 
@@ -227,7 +140,7 @@ Die Übertragungsnetzbetreiber müssen dem Bundesministerium für Ernährung und
 
 5. den Standort, den Typ, die installierte Leistung und den Zeitpunkt der Inbetriebnahme der Anlage, in der der Strom erzeugt wurde, sowie
 
-6. Angaben dazu, ob, in welcher Art und in welchem Umfang
+6. Angaben dazu, ob und in welcher Art
 
 a) für die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleistet wurden,
 
@@ -355,83 +268,9 @@ Anlagen, deren Betreiber die Geltendmachung des verlängerten Zahlungsanspruchs 
 
 Die Bundesregierung evaluiert die Anschlussförderung nach diesem Abschnitt bis zum 31. Dezember 2023 auch mit Blick auf Anlagen, deren ursprünglicher Anspruch auf Zahlung nach dem 31. Dezember 2024 endet.
 
-# § 12h – Anwendungsbereich dieses Abschnitts
+# §§ 12h bis 12l – (weggefallen)
 
-(1) Dieser Abschnitt regelt die Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes für Strom, der ab dem 1. Januar 2022 in einer Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wird.
-
-(2) Die Bundesregierung wird die Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes unverzüglich, nachdem die Europäische Union die Anforderungen an Grünen Wasserstoff für einen oder mehrere Nutzungspfade näher bestimmt hat, überarbeiten und an die Anforderungen der Europäischen Union anpassen. Ziel sind Anforderungen, die für alle Nutzungspfade von Grünem Wasserstoff möglichst einheitlich sind und zugleich den systemdienlichen Betrieb von Einrichtungen zur Herstellung von Grünem Wasserstoff sicherstellen, insbesondere Anforderungen an den Standort dieser Einrichtungen.
-
-# § 12i – Anforderungen an Grünen Wasserstoff
-
-(1) Grüner Wasserstoff im Sinn der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes ist nur Wasserstoff, der innerhalb der ersten 5 000 Vollbenutzungsstunden eines Kalenderjahres in der Einrichtung zur Herstellung von Grünem Wasserstoff elektrochemisch durch den ausschließlichen Verbrauch von Strom hergestellt worden ist,
-
-1. der nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes stammt,
-
-2. der nachweislich zu einem Anteil von mindestens 80 Prozent aus Anlagen stammt, die ihren Standort in der Preiszone für Deutschland haben, und der nachweislich zu einem Anteil von höchstens 20 Prozent aus Anlagen stammt, die ihren Standort in einer Preiszone haben, die mit der Preiszone für Deutschland elektrisch verbunden ist, und
-
-3. für den weder eine Zahlung nach dem Erneuerbare-Energien-Gesetz, nach dieser Verordnung oder nach dem Kraft-Wärme-Kopplungsgesetz in der jeweils für die Anlage maßgeblichen Fassung noch eine sonstige Förderung im Sinn des § 9 Nummer 6 Buchstabe b in Anspruch genommen wird.
-
-(2) Strom, der in einer Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wird, stammt nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes, wenn
-
-1. im Fall des Verbrauchs von Strom, den ein Elektrizitätsversorgungsunternehmen über ein Netz an den Betreiber der Einrichtung geliefert hat,
-
-a) für diesen Strom Herkunftsnachweise für erneuerbare Energien nach § 30 der Herkunfts- und Regionalnachweis-Durchführungsverordnung entwertet wurden und
-
-b) diese Herkunftsnachweise, sofern die Anlage ihren Standort im Bundesgebiet hat, die Angabe zur optionalen Kopplung nach § 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung enthalten, oder
-
-2. im Fall des Verbrauchs von Strom, der nicht durch ein Netz durchgeleitet wird, der Strom in einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes erzeugt und zeitgleich bezogen auf jedes 15-Minuten-Intervall in der Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wurde.
-
-Eine mess- und eichrechtskonforme Messung der Zeitgleichheit von Erzeugung und Verbrauch ist zur Erfüllung der Anforderung nach Satz 1 Nummer 2 nur erforderlich, wenn nicht schon anderweitig sichergestellt ist, dass Strom, bezogen auf jedes 15-Minuten-Intervall, höchstens bis zur Höhe der tatsächlichen Erzeugung als Verbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff als erzeugt und verbraucht in Ansatz gebracht wird.
-
-(3) Die Vollbenutzungsstunden eines Kalenderjahres im Sinn von Absatz 1 werden durch den Quotienten aus dem gesamten kalenderjährlichen Stromverbrauch und dem maximalen Stromverbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen ermittelt.
-
-# § 12j – Mitteilungspflichten
-
-Betreiber von Einrichtungen zur Herstellung von Grünem Wasserstoff und Elektrizitätsversorgungsunternehmen, die Strom an Letztverbraucher zur Herstellung von Grünem Wasserstoff liefern, müssen im Rahmen ihrer Mitteilung nach § 74 und § 74a des Erneuerbare-Energien-Gesetzes dem Netzbetreiber, der zur Erhebung der EEG-Umlage berechtigt ist, durch Vorlage eines Prüfungsvermerks eines Wirtschaftsprüfers, einer Wirtschaftsprüfungsgesellschaft, eines genossenschaftlichen Prüfungsverbandes, eines vereidigten Buchprüfers oder einer Buchprüfungsgesellschaft nachweisen:
-
-1. den maximalen Stromverbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen der maximalen Leistungsaufnahme der Einrichtung zur Herstellung von Grünem Wasserstoff,
-
-2. die in dem betreffenden Kalenderjahr von der Einrichtung zur Herstellung von Grünem Wasserstoff verbrauchte Strommenge,
-
-3. dass für das betreffende Kalenderjahr die EEG-Umlage für Strom, der von dem Betreiber selbst verbraucht wurde, nicht nach § 64a des Erneuerbare-Energien-Gesetzes begrenzt ist,
-
-4. die Einhaltung der Voraussetzungen des § 12i im Fall des Verbrauchs von Strom in den Fällen des
-
-a) § 12i Absatz 2 Satz 1 Nummer 1 durch Vorlage von Entwertungsnachweisen für den Betreiber der Einrichtung zur Herstellung von Grünem Wasserstoff nach § 30 Absatz 3 Satz 2 und 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung aus dem Herkunftsnachweisregister sowie der Angabe der Nummern, unter denen die Anlagen, für deren erzeugten Strom die Herkunftsnachweise ausgestellt wurden, im Marktstammdatenregister registriert sind,
-
-b) § 12i Absatz 2 Satz 1 Nummer 2 durch die Angabe der Nummern, unter denen die Anlagen im Marktstammdatenregister registriert sind.
-
-Sobald die nach Satz 1 Nummer 4 Buchstabe a vorzulegenden Entwertungsnachweise im Wege einer automatisierten Bescheinigung des Herkunftsnachweisregisters nachgewiesen werden können, tritt diese automatisierte Bescheinigung an die Stelle des Entwertungsnachweises nach Satz 1 Nummer 4 Buchstabe a.
-
-# § 12k – Verringerung der EEG-Umlage bei Verstoß gegen Mitteilungspflichten
-
-Der nach § 69b des Erneuerbare-Energien-Gesetzes verringerte Anspruch auf Zahlung der EEG-Umlage erhöht sich auf 100 Prozent, soweit der Betreiber der Einrichtung zur Herstellung von Grünem Wasserstoff oder das Elektrizitätsversorgungsunternehmen für das jeweilige Kalenderjahr die Mitteilungspflichten nach § 74 oder § 74a des Erneuerbare-Energien-Gesetzes in Verbindung mit § 12j nicht erfüllt hat.
-
-# § 12l – Berichtspflichten
-
-(1) Das Bundesministerium für Wirtschaft und Energie prüft mögliche Auswirkungen von Einrichtungen zur Herstellung von Grünem Wasserstoff auf das Stromnetz, insbesondere auf das Ausmaß von Netzengpasssituationen und den Bedarf an Netzreserve, und legt dem Bundestag hierzu bis zum 31. Dezember 2023 einen Bericht vor.
-
-(2) Das Umweltbundesamt legt der Bundesregierung bis zum 31. Dezember 2021 einen Bericht dazu vor, wie die Vorschriften zur optionalen Kopplung von Herkunftsnachweisen nach § 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung im Hinblick auf bisherige Erfahrungen mit diesem Instrument sowie die zukünftige Nutzung dieses Instruments für die Zwecke des marktgängigen und flexiblen Nachweises der Anforderungen an Grünen Wasserstoff nach dieser Verordnung einschließlich für Anlagen mit Standort außerhalb des Bundesgebiets angepasst werden können.
-
-# § 13 – Subdelegation an die Bundesnetzagentur
-
-Die Bundesnetzagentur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie zu regeln:
-
-1. die Anforderungen an die Vermarktung der Strommengen nach § 2, insbesondere den Handelsplatz, die Prognoseerstellung, die Beschaffung der Ausgleichsenergie, die Mitteilungs- und Veröffentlichungspflichten,
-
-2. die Bestimmung der Positionen, die als Einnahmen oder Ausgaben nach § 3 gelten, und des anzuwendenden Zinssatzes,
-
-3. Anreize zur bestmöglichen Vermarktung des Stroms,
-
-4. die Übertragung der Aufgabe der Vermarktung auf Dritte in einem transparenten und diskriminierungsfreien Verfahren, insbesondere die Einzelheiten der Ausschreibung und die Rechtsbeziehungen der Dritten zu den Übertragungsnetzbetreibern,
-
-5. die Voraussetzungen, unter denen die Übertragungsnetzbetreiber berechtigt werden können,
-
-a) mit Anlagenbetreibern vertragliche Vereinbarungen zu treffen, die unter angemessener Berücksichtigung des Einspeisevorrangs der Optimierung der Vermarktung des Stroms dienen; dies schließt die Berücksichtigung der durch solche Vereinbarungen entstehenden Kosten als Ausgaben nach § 3 Absatz 4 ein, sofern sie volkswirtschaftlich angemessen sind,
-
-b) Anlagen, die nach dem 31. Dezember 2015 in Betrieb genommen werden und deren Strom nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergütet wird, abzuregeln, wenn der Spotmarktpreis nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes andauernd negativ ist und
-
-6. nähere Bestimmungen zur Zahlung der EEG-Umlage nach § 61 des Erneuerbare-Energien-Gesetzes, auch unter Einbeziehung der Netzbetreiber, die nicht Übertragungsnetzbetreiber sind, und die notwendigen Anpassungen bei den Mitteilungs- und Veröffentlichungspflichten.
+# § 13 – (weggefallen)
 
 # § 14 – Subdelegation an das Umweltbundesamt
 
@@ -472,7 +311,3 @@ Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Recht
 1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes, und
 
 2. die zu installierende Leistung auf dieser Fläche.
-
-# § 16 – Beihilferechtlicher Genehmigungsvorbehalt
-
-Abschnitt 3b darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewendet werden.

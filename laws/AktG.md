@@ -1519,7 +1519,7 @@ Neue Gewinnanteilscheine dürfen an den Inhaber des Erneuerungsscheins nicht aus
 
 (3) Mitglied des Vorstands kann nur eine natürliche, unbeschränkt geschäftsfähige Person sein. Mitglied des Vorstands kann nicht sein, wer
 
-1. als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen Gesetzbuchs) unterliegt,
+1. als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen Gesetzbuchs) unterliegt,
 
 2. aufgrund eines gerichtlichen Urteils oder einer vollziehbaren Entscheidung einer Verwaltungsbehörde einen Beruf, einen Berufszweig, ein Gewerbe oder einen Gewerbezweig nicht ausüben darf, sofern der Unternehmensgegenstand ganz oder teilweise mit dem Gegenstand des Verbots übereinstimmt,
 
@@ -1875,7 +1875,7 @@ Ist die Anwendung des Mitbestimmungsgesetzes oder die Anwendung von Vorschriften
 
 # § 100 – Persönliche Voraussetzungen für Aufsichtsratsmitglieder
 
-(1) Mitglied des Aufsichtsrats kann nur eine natürliche, unbeschränkt geschäftsfähige Person sein. Ein Betreuter, der bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen Gesetzbuchs) unterliegt, kann nicht Mitglied des Aufsichtsrats sein.
+(1) Mitglied des Aufsichtsrats kann nur eine natürliche, unbeschränkt geschäftsfähige Person sein. Ein Betreuter, der bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen Gesetzbuchs) unterliegt, kann nicht Mitglied des Aufsichtsrats sein.
 
 (2) Mitglied des Aufsichtsrats kann nicht sein, wer
 

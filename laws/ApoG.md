@@ -337,7 +337,7 @@ Der Deutsche Apothekerverband e. V. hat den Schaden zu ersetzen, der der Bundesr
 
 1b. unzulässige Formen der Bereitstellung, Aushändigung und Ausgabe von Arzneimitteln,
 
-1c. die Voraussetzungen für und die Anforderungen an die Vorbereitung und Durchführung von Grippeschutzimpfungen, insbesondere zu den Verpflichtungen des Apothekenleiters, zur Aufklärung der zu impfenden Personen, zu den Räumlichkeiten und deren Ausstattung, zum Personaleinsatz, zur Dokumentation, zu den Fristen für die Aufbewahrung der Dokumentation und zu den Hygienemaßnahmen,
+1c. die Voraussetzungen für und die Anforderungen an die Vorbereitung und Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2, insbesondere zu den Verpflichtungen des Apothekenleiters, zur Aufklärung der zu impfenden Personen, zu den Räumlichkeiten und deren Ausstattung, zum Personaleinsatz, zur Dokumentation, zu den Fristen für die Aufbewahrung der Dokumentation und zu den Hygienemaßnahmen,
 
 2. die Führung und Aufbewahrung von Nachweisen über die in Nummer 1 genannten Betriebsvorgänge,
 

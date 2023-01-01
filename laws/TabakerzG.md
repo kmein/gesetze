@@ -856,7 +856,7 @@ Die zuständigen Behörden dürfen die Einfuhr oder das sonstige Verbringen von 
 
 (3) Rechtsverordnungen nach den Absätzen 1 und 2 bedürfen nicht des Einvernehmens mit den jeweils zu beteiligenden Bundesministerien. Die Rechtsverordnungen treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-(4) Rechtsverordnungen in den Fällen der Absätze 1 und 2 können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+(4) (weggefallen)
 
 # § 44 – Rechtsverordnungen zur Angleichung an Unionsrecht
 

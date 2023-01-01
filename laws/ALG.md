@@ -1239,7 +1239,7 @@ c) bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminde
 
 1. regelmäßig Arbeitsentgelt, Arbeitseinkommen, vergleichbares Einkommen oder Erwerbsersatzeinkommen (Absatz 4) beziehen, das ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft jährlich das Zwölffache der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch überschreitet,
 
-1a. Arbeitslosengeld II beziehen, wenn sie im letzten Kalendermonat vor dem Bezug von Arbeitslosengeld II nicht versichert waren,
+1a. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, wenn sie im letzten Kalendermonat vor dem Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nicht versichert waren,
 
 2. wegen Erziehung eines Kindes in der gesetzlichen Rentenversicherung versicherungspflichtig sind oder nur deshalb nicht versicherungspflichtig sind, weil sie nach § 56 Abs. 4 des Sechsten Buches Sozialgesetzbuch von der Anrechnung von Kindererziehungszeiten ausgeschlossen sind,
 

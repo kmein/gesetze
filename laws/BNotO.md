@@ -308,7 +308,7 @@ Wird der Eid von einer Notarin geleistet, so treten an die Stelle der Wörter "e
 
 (5) Der Notar darf keine mit seinem Amt unvereinbare Gesellschaftsbeteiligung eingehen. Es ist ihm insbesondere verboten, sich an einer Gesellschaft, die eine Tätigkeit im Sinne des § 34c Abs. 1 der Gewerbeordnung ausübt, zu beteiligen, wenn er alleine oder zusammen mit den Personen, mit denen er sich nach § 9 verbunden oder mit denen er gemeinsame Geschäftsräume hat, mittelbar oder unmittelbar einen beherrschenden Einfluß ausübt.
 
-(6) Der Notar hat sich in dem für seine Amtstätigkeit erforderlichen Umfang fortzubilden.
+(6) Der Notar hat sich in dem für seine Amtstätigkeit erforderlichen Umfang fortzubilden. Dies umfasst die Pflicht, sich über Rechtsänderungen zu informieren.
 
 # § 15 – Verweigerung der Amtstätigkeit
 
@@ -520,9 +520,7 @@ Der Notar hat durch geeignete Vorkehrungen die Wahrung der Unabhängigkeit und U
 
 Der Notar hat sich gegenüber anderen Notaren, Notarassessoren, Gerichten, Behörden, Rechtsanwälten und anderen seine Auftraggeber beratenden Personen in der seinem Amt entsprechenden Weise zu verhalten.
 
-# § 32 – Bezug von Gesetzes- und Amtsblättern
-
-Der Notar hat das Bundesgesetzblatt Teil I, das Gesetzblatt des Landes, das Bekanntmachungsblatt der Landesjustizverwaltung und das Verkündungsblatt der Bundesnotarkammer zu halten. Sind mehrere Notare zu gemeinsamer Berufsausübung verbunden, so genügt der gemeinschaftliche Bezug je eines Stücks.
+# § 32 – (weggefallen)
 
 # § 33 – Elektronische Signatur
 
@@ -600,7 +598,7 @@ Will sich der Notar länger als eine Woche von seinem Amtssitz entfernen oder is
 
 (2) Im Fall der vorläufigen Amtsenthebung kann eine Vertretung auch von Amts wegen bestellt werden. Dies gilt auch, wenn ein Notar es unterlässt, einen Antrag nach Absatz 1 oder nach § 48c zu stellen, obwohl er aus gesundheitlichen Gründen zur ordnungsgemäßen Ausübung seines Amtes vorübergehend unfähig ist.
 
-(3) Zur Vertretung darf nur bestellt werden, wer im Sinne des § 5 Absatz 1 und 2 persönlich und im Sinne des § 5 Absatz 5 fachlich geeignet ist. Die ständige Vertretung soll nur einem Notar, einem Notarassessor oder einem Notar außer Dienst übertragen werden. Als ständige Vertretung eines Anwaltsnotars kann nach Anhörung der Notarkammer auch ein Rechtsanwalt bestellt werden. Abgesehen von den Fällen des Absatzes 2 soll als Vertretung nur bestellt werden, wer von dem Notar vorgeschlagen wurde und zur Übernahme des Amtes bereit ist. Für den Notar kann auch ein nach § 1896 des Bürgerlichen Gesetzbuchs bestellter Betreuer oder ein nach § 1911 des Bürgerlichen Gesetzbuchs bestellter Abwesenheitspfleger den Antrag stellen und die Vertretung vorschlagen.
+(3) Zur Vertretung darf nur bestellt werden, wer im Sinne des § 5 Absatz 1 und 2 persönlich und im Sinne des § 5 Absatz 5 fachlich geeignet ist. Die ständige Vertretung soll nur einem Notar, einem Notarassessor oder einem Notar außer Dienst übertragen werden. Als ständige Vertretung eines Anwaltsnotars kann nach Anhörung der Notarkammer auch ein Rechtsanwalt bestellt werden. Abgesehen von den Fällen des Absatzes 2 soll als Vertretung nur bestellt werden, wer von dem Notar vorgeschlagen wurde und zur Übernahme des Amtes bereit ist. Für den Notar kann auch ein nach § 1814 des Bürgerlichen Gesetzbuchs bestellter Betreuer oder ein nach § 1884 des Bürgerlichen Gesetzbuchs bestellter Abwesenheitspfleger den Antrag stellen und die Vertretung vorschlagen.
 
 (4) Auf die Vertretung sind die für den Notar geltenden Vorschriften mit Ausnahme des § 19a entsprechend anzuwenden, soweit nicht nachstehend etwas anderes geregelt ist.
 
@@ -1192,7 +1190,7 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 # § 78a – Zentrales Vorsorgeregister; Verordnungsermächtigung
 
-(1) Die Bundesnotarkammer führt als Registerbehörde ein automatisiertes elektronisches Register über Vorsorgevollmachten und Betreuungsverfügungen. Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
+(1) Die Bundesnotarkammer führt als Registerbehörde ein automatisiertes elektronisches Register über Vorsorgevollmachten, Betreuungsverfügungen, Patientenverfügungen und Widersprüche gegen eine Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen Gesetzbuchs. Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
 
 (2) In das Zentrale Vorsorgeregister dürfen Angaben aufgenommen werden über
 
@@ -1204,9 +1202,13 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 4. Vorschläge zur Auswahl des Betreuers,
 
-5. Wünsche zur Wahrnehmung der Betreuung und
+5. Wünsche zur Wahrnehmung der Betreuung,
 
-6. den Vorschlagenden.
+6. den Vorschlagenden,
+
+7. den einer Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen Gesetzbuchs Widersprechenden und
+
+8. den Ersteller einer Patientenverfügung.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über
 
@@ -1222,7 +1224,7 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 # § 78b – Auskunft und Gebühren
 
-(1) Die Registerbehörde erteilt Gerichten auf Ersuchen Auskunft aus dem Zentralen Vorsorgeregister. Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
+(1) Die Registerbehörde erteilt Gerichten und Ärzten auf Ersuchen Auskunft aus dem Zentralen Vorsorgeregister. Ärzte dürfen nur um Auskunft ersuchen, soweit diese für die Entscheidung über eine dringende medizinische Behandlung erforderlich ist. Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
 
 (2) Das Zentrale Vorsorgeregister wird durch Gebühren finanziert. Die Registerbehörde kann Gebühren für die Aufnahme von Erklärungen in das Register erheben. Zur Zahlung der Gebühren sind der Antragsteller und derjenige verpflichtet, der für die Gebührenschuld eines anderen kraft Gesetzes haftet. Mehrere Gebührenschuldner haften als Gesamtschuldner. Gerichte und Notare können die Gebühren für die Registerbehörde entgegennehmen.
 

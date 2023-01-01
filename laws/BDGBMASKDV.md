@@ -21,7 +21,7 @@ Das Bundesministerium für Arbeit und Soziales überträgt seine Befugnisse als 
 
 6. der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau mit Ausnahme der Vorsitzenden oder des Vorsitzenden der Geschäftsführung und die übrigen Mitglieder der Geschäftsführung auf den Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der diese Befugnisse auf die Vorsitzende oder den Vorsitzenden der Geschäftsführung oder ein weiteres Mitglied der Geschäftsführung weiter übertragen kann,
 
-7. der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation mit Ausnahme der Direktorin oder des Direktors und der übrigen Mitglieder der Geschäftsführung auf den Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der diese Befugnisse auf die Direktorin oder den Direktor oder ein weiteres Mitglied der Geschäftsführung weiter übertragen kann.
+7. den in Anlage 1 des Siebten Buches Sozialgesetzbuch aufgeführten gewerblichen Berufsgenossenschaften mit Ausnahme der Geschäftsführerin oder des Geschäftsführers oder der Mitglieder der Geschäftsführung auf den Vorstand der in Anlage 1 des Siebten Buches Sozialgesetzbuch aufgeführten gewerblichen Berufsgenossenschaften, der diese Befugnisse auf die Geschäftsführerin oder den Geschäftsführer oder ein Mitglied der Geschäftsführung weiter übertragen kann.
 
 # § 2 – Dienstvorgesetzte
 
@@ -79,11 +79,11 @@ a) für die Vorsitzende oder den Vorsitzenden der Geschäftsführung und die üb
 
 b) für die übrigen Beamtinnen und Beamten die Vorsitzende oder der Vorsitzende der Geschäftsführung;
 
-6. bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+6. bei den in Anlage 1 des Siebten Buches Sozialgesetzbuch aufgeführten gewerblichen Berufsgenossenschaften
 
-a) für die Direktorin oder den Direktor und die übrigen Mitglieder der Geschäftsführung die Bundesministerin oder der Bundesminister für Arbeit und Soziales und
+a) für die Geschäftsführerin oder den Geschäftsführer oder die Mitglieder der Geschäftsführung die Bundesministerin oder der Bundesminister für Arbeit und Soziales und
 
-b) für die übrigen Beamtinnen und Beamten die Direktorin oder der Direktor.
+b) für die übrigen Beamtinnen und Beamten die Geschäftsführerin oder der Geschäftsführer oder die Vorsitzende oder der Vorsitzende der Geschäftsführung.
 
 # § 3 – Höhere Dienstvorgesetzte
 
@@ -143,9 +143,9 @@ a) für die Vorsitzende oder den Vorsitzenden der Geschäftsführung und die üb
 
 b) für die übrigen Beamtinnen und Beamten der Vorstand;
 
-6. bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+6. bei den in Anlage 1 des Siebten Buches Sozialgesetzbuch genannten gewerblichen Berufsgenossenschaften
 
-a) für die Direktorin oder den Direktor und für die übrigen Mitglieder der Geschäftsführung die Bundesministerin oder der Bundesminister für Arbeit und Soziales und
+a) für die Geschäftsführerin oder den Geschäftsführer oder die Mitglieder der Geschäftsführung die Bundesministerin oder der Bundesminister für Arbeit und Soziales und
 
 b) für die übrigen Beamtinnen und Beamten der Vorstand.
 

@@ -55,7 +55,7 @@ Ausbildungsabschnitt im Sinne dieses Gesetzes ist die Zeit, die an Ausbildungsst
 
 (6) Ausbildungsförderung wird nicht geleistet, wenn der Auszubildende
 
-1. Unterhaltsgeld, Arbeitslosengeld bei beruflicher Weiterbildung nach dem Dritten Buch Sozialgesetzbuch oder Arbeitslosengeld II bei beruflicher Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch erhält,
+1. Unterhaltsgeld, Arbeitslosengeld bei beruflicher Weiterbildung nach dem Dritten Buch Sozialgesetzbuch oder Bürgergeld bei beruflicher Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch erhält,
 
 2. Leistungen von den Begabtenförderungswerken erhält,
 

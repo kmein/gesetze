@@ -637,7 +637,15 @@ Wird die Leistung in einer stationären oder teilstationären Einrichtung erbrac
 
 2. ein Betrag in Höhe der Grundrente, soweit nach § 44 Absatz 5 Leistungen auf die Witwengrundrente angerechnet werden oder soweit die Grundrente nach § 65 ruht,
 
-3. Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag.
+3. Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag,
+
+4. Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes,
+
+5. Einnahmen von Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden; dies gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf Ausbildungsvergütung haben,
+
+6. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in Höhe von 3 000 Euro kalenderjährlich nicht übersteigen und
+
+7. Erbschaften.
 
 Satz 2 gilt auch für den der Witwen- und Waisenbeihilfe nach § 48 zugrunde liegenden Betrag der Grundrente.
 
@@ -705,15 +713,15 @@ höchstens jedoch aus einem Betrag in Höhe von einem Zwölftel des Bemessungsbe
 
 # § 25f
 
-(1) Einzusetzen ist das gesamte verwertbare Vermögen. Dies gilt auch für Ansparungen aus Leistungen nach diesem Gesetz. Leistungen der Kriegsopferfürsorge dürfen nicht von dem Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für die Leistungsberechtigten, die das Vermögen einzusetzen haben, und für ihre unterhaltsberechtigten Angehörigen eine Härte bedeuten würde. Dies ist der Fall, wenn der Einsatz des Vermögens eine angemessene Lebensführung, die Aufrechterhaltung einer angemessenen Alterssicherung oder die Sicherstellung einer angemessenen Bestattung und Grabpflege wesentlich erschweren würde. Vermögenswerte aus Nachzahlungen von Renten nach diesem Gesetz bleiben für einen Zeitraum von einem Jahr unberücksichtigt. Im Übrigen gelten § 90 Absatz 2 Nummer 1 bis 7 und 9, § 91 des Zwölften Buches Sozialgesetzbuch sowie § 25c Absatz 3 entsprechend.
+(1) Einzusetzen ist das gesamte verwertbare Vermögen. Dies gilt auch für Ansparungen aus Leistungen nach diesem Gesetz. Leistungen der Kriegsopferfürsorge dürfen nicht von dem Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für die Leistungsberechtigten, die das Vermögen einzusetzen haben, und für ihre unterhaltsberechtigten Angehörigen eine Härte bedeuten würde. Dies ist der Fall, wenn der Einsatz des Vermögens eine angemessene Lebensführung, die Aufrechterhaltung einer angemessenen Alterssicherung oder die Sicherstellung einer angemessenen Bestattung und Grabpflege wesentlich erschweren würde. Vermögenswerte aus Nachzahlungen von Renten nach diesem Gesetz bleiben für einen Zeitraum von einem Jahr unberücksichtigt. Im Übrigen gelten § 90 Absatz 2 Nummer 1 bis 7, 9 und 10, § 91 des Zwölften Buches Sozialgesetzbuch sowie § 25c Absatz 3 entsprechend.
 
 (2) Als kleinere Barbeträge oder sonstige Geldwerte sind folgende Prozentsätze des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe a zu berücksichtigen:
 
 1. 40 Prozent bei Erbringung von Pflegegeld nach § 26c Absatz 1 für Pflegebedürftige der Pflegegrade 4 oder 5, von Blindenhilfe nach § 27d Absatz 1 Nummer 4 sowie von allen Leistungen an Sonderfürsorgeberechtigte mit Ausnahme der ergänzenden Hilfe zum Lebensunterhalt,
 
-2. 20 Prozent bei Erbringung aller übrigen Leistungen,
+2. 35 Prozent bei Erbringung aller übrigen Leistungen,
 
-zuzüglich eines Betrags in Höhe von 20 Prozent des Bemessungsbetrags für den nicht getrennt lebenden Ehegatten oder Lebenspartner oder für den Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft und in Höhe von 2 Prozent für jede weitere vom Leistungsberechtigten, seinem Ehegatten oder Lebenspartner oder dem Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft überwiegend unterhaltene Person.
+zuzüglich eines Betrags in Höhe von 35 Prozent des Bemessungsbetrags für den nicht getrennt lebenden Ehegatten oder Lebenspartner oder für den Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft und in Höhe von 2 Prozent für jede weitere vom Leistungsberechtigten, seinem Ehegatten oder Lebenspartner oder dem Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft überwiegend unterhaltene Person.
 
 (3) Selbst genutztes Wohneigentum im Sinne des § 17 Abs. 2 des Wohnraumförderungsgesetzes, das von Leistungsberechtigten allein oder zusammen mit Angehörigen ganz oder teilweise bewohnt wird, denen es nach dem Tod der Leistungsberechtigten als Wohnung dienen soll, ist nicht zu verwerten.
 
@@ -723,7 +731,7 @@ zuzüglich eines Betrags in Höhe von 20 Prozent des Bemessungsbetrags für den 
 
 2. weitere 20 Prozent für Beschädigte bei Erbringung von Pflegegeld nach § 26c Absatz 1 für Pflegebedürftige der Pflegegrade 4 oder 5, von Blindenhilfe nach § 27d Absatz 1 Nummer 4 sowie von allen Leistungen an Sonderfürsorgeberechtigte mit Ausnahme der ergänzenden Hilfe zum Lebensunterhalt,
 
-3. 20 Prozent für jeden Elternteil, bei dem die Beschädigten leben, und für dessen nicht getrennt lebenden Ehegatten oder Lebenspartner oder für dessen Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft sowie
+3. 35 Prozent für jeden Elternteil, bei dem die Beschädigten leben, und für dessen nicht getrennt lebenden Ehegatten oder Lebenspartner oder für dessen Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft sowie
 
 4. 2 Prozent für jede weitere Person, die von den Eltern oder einem Elternteil oder von dessen nicht getrennt lebendem Ehegatten oder Lebenspartner oder von dessen Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft überwiegend unterhalten wird.
 
@@ -875,7 +883,7 @@ für einen der Dauer des Grundwehrdienstes entsprechenden Zeitraum.
 
 # § 27a
 
-Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend.
+Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels und die §§ 134 und 140 des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend.
 
 # § 27b
 

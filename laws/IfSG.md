@@ -135,476 +135,6 @@ Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
 
 § 20a
 
-Immunitätsnachweis gegen COVID-19
-
-§ 20b
-
-Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
-
-§ 20c
-
-Durchführung von Grippeschutzimpfungen
-
-§ 21
-
-Impfstoffe
-
-§ 22
-
-Impf-, Genesenen- und Testdokumentation
-
-§ 22a
-
-Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
-
-§ 23
-
-Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
-
-§ 23a
-
-Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
-
- 
-
-5\. Abschnitt - Bekämpfung übertragbarer Krankheiten
-
- 
-
-§ 24
-
-Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
-
-§ 25
-
-Ermittlungen
-
-§ 26
-
-Teilnahme des behandelnden Arztes
-
-§ 27
-
-Gegenseitige Unterrichtung
-
-§ 28
-
-Schutzmaßnahmen
-
-§ 28a
-
-Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
-
-§ 28b
-
-Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
-
-§ 28c
-
-Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
-
-§ 29
-
-Beobachtung
-
-§ 30
-
-Absonderung
-
-§ 31
-
-Berufliches Tätigkeitsverbot
-
-§ 32
-
-Erlass von Rechtsverordnungen
-
- 
-
-6\. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
-
- 
-
-§ 33
-
-Gemeinschaftseinrichtungen
-
-§ 34
-
-Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
-
-§ 35
-
-Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
-
-§ 36
-
-Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
-
- 
-
-7\. Abschnitt - Wasser
-
- 
-
-§ 37
-
-Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
-
-§ 38
-
-Verordnungsermächtigung
-
-§ 39
-
-Untersuchungen, Maßnahmen der zuständigen Behörde
-
-§ 40
-
-Aufgaben des Umweltbundesamtes
-
-§ 41
-
-Abwasser
-
- 
-
-8\. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
-
- 
-
-§ 42
-
-Tätigkeits- und Beschäftigungsverbote
-
-§ 43
-
-Belehrung, Bescheinigung des Gesundheitsamtes
-
- 
-
-9\. Abschnitt - Tätigkeiten mit Krankheitserregern
-
- 
-
-§ 44
-
-Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
-
-§ 45
-
-Ausnahmen
-
-§ 46
-
-Tätigkeit unter Aufsicht
-
-§ 47
-
-Versagungsgründe, Voraussetzungen für die Erlaubnis
-
-§ 48
-
-Rücknahme und Widerruf
-
-§ 49
-
-Anzeigepflichten
-
-§ 50
-
-Veränderungsanzeige
-
-§ 50a
-
-Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
-
-§ 51
-
-Aufsicht
-
-§ 52
-
-Abgabe
-
-§ 53
-
-Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
-
-§ 53a
-
-Verfahren über eine einheitliche Stelle, Entscheidungsfrist
-
- 
-
-10\. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
-
- 
-
-§ 54
-
-Vollzug durch die Länder
-
-§ 54a
-
-Vollzug durch die Bundeswehr
-
-§ 54b
-
-Vollzug durch das Eisenbahn-Bundesamt
-
- 
-
-11\. Abschnitt - Angleichung an Gemeinschaftsrecht
-
- 
-
-§ 55
-
-Angleichung an Gemeinschaftsrecht
-
- 
-
-12\. Abschnitt - Entschädigung in besonderen Fällen
-
- 
-
-§ 56
-
-Entschädigung
-
-§ 57
-
-Verhältnis zur Sozialversicherung und zur Arbeitsförderung
-
-§ 58
-
-Aufwendungserstattung
-
-§ 59
-
-Arbeits- und sozialrechtliche Sondervorschriften
-
-§ 60
-
-Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
-
-§ 61
-
-Gesundheitsschadensanerkennung
-
-§ 62
-
-Heilbehandlung
-
-§ 63
-
-Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
-
-§ 64
-
-Zuständige Behörde für die Versorgung
-
-§ 65
-
-Entschädigung bei behördlichen Maßnahmen
-
-§ 66
-
-Zahlungsverpflichteter
-
-§ 67
-
-Pfändung
-
- 
-
-13\. Abschnitt - Rechtsweg und Kosten
-
- 
-
-§ 68
-
-Rechtsweg
-
-§ 69
-
-Kosten
-
-§§ 70 – 72
-
-(weggefallen)
-
- 
-
-14\. Abschnitt - Straf- und Bußgeldvorschriften
-
- 
-
-§ 73
-
-Bußgeldvorschriften
-
-§ 74
-
-Strafvorschriften
-
-§ 75
-
-Weitere Strafvorschriften
-
-§ 75a
-
-Weitere Strafvorschriften
-
-§ 76
-
-Einziehung
-
- 
-
-15\. Abschnitt - Übergangsvorschriften
-
- 
-
-§ 77
-
-Übergangsvorschriften
-
-# Inhaltsübersicht
-
-1\. Abschnitt - Allgemeine Vorschriften
-
- 
-
-§ 1
-
-Zweck des Gesetzes
-
-§ 1a
-
-(weggefallen)
-
-§ 2
-
-Begriffsbestimmungen
-
-§ 3
-
-Prävention durch Aufklärung
-
- 
-
-2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
-
- 
-
-§ 4
-
-Aufgaben des Robert Koch-Instituts
-
-§ 5
-
-Epidemische Lage von nationaler Tragweite
-
-§ 5a
-
-Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
-
-§ 5b
-
-Schutzmasken in der Nationalen Reserve Gesundheitsschutz
-
-§ 5c
-
-Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
-
- 
-
-3\. Abschnitt - Überwachung
-
- 
-
-§ 6
-
-Meldepflichtige Krankheiten
-
-§ 7
-
-Meldepflichtige Nachweise von Krankheitserregern
-
-§ 8
-
-Zur Meldung verpflichtete Personen
-
-§ 9
-
-Namentliche Meldung
-
-§ 10
-
-Nichtnamentliche Meldung
-
-§ 11
-
-Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
-
-§ 12
-
-Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
-
-§ 12a
-
-(weggefallen)
-
-§ 13
-
-Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
-
-§ 14
-
-Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
-
-§ 15
-
-Anpassung der Meldepflicht an die epidemische Lage
-
-§ 15a
-
-Durchführung der infektionshygienischen und hygienischen Überwachung
-
- 
-
- 
-
- 
-
-4\. Abschnitt - Verhütung übertragbarer Krankheiten
-
- 
-
-§ 16
-
-Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
-
-§ 17
-
-Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
-
-§ 18
-
-Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
-
-§ 19
-
-Aufgaben des Gesundheitsamtes in besonderen Fällen
-
-§ 20
-
-Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
-
-§ 20a
-
 (weggefallen)
 
 § 20b
@@ -874,6 +404,476 @@ Arbeits- und sozialrechtliche Sondervorschriften
 § 64
 
 (weggefallen)
+
+§ 65
+
+Entschädigung bei behördlichen Maßnahmen
+
+§ 66
+
+Zahlungsverpflichteter
+
+§ 67
+
+Pfändung
+
+ 
+
+13\. Abschnitt - Rechtsweg und Kosten
+
+ 
+
+§ 68
+
+Rechtsweg
+
+§ 69
+
+Kosten
+
+§§ 70 – 72
+
+(weggefallen)
+
+ 
+
+14\. Abschnitt - Straf- und Bußgeldvorschriften
+
+ 
+
+§ 73
+
+Bußgeldvorschriften
+
+§ 74
+
+Strafvorschriften
+
+§ 75
+
+Weitere Strafvorschriften
+
+§ 75a
+
+Weitere Strafvorschriften
+
+§ 76
+
+Einziehung
+
+ 
+
+15\. Abschnitt - Übergangsvorschriften
+
+ 
+
+§ 77
+
+Übergangsvorschriften
+
+# Inhaltsübersicht
+
+1\. Abschnitt - Allgemeine Vorschriften
+
+ 
+
+§ 1
+
+Zweck des Gesetzes
+
+§ 1a
+
+(weggefallen)
+
+§ 2
+
+Begriffsbestimmungen
+
+§ 3
+
+Prävention durch Aufklärung
+
+ 
+
+2\. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
+
+ 
+
+§ 4
+
+Aufgaben des Robert Koch-Instituts
+
+§ 5
+
+Epidemische Lage von nationaler Tragweite
+
+§ 5a
+
+Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+
+§ 5b
+
+Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+§ 5c
+
+Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+ 
+
+3\. Abschnitt - Überwachung
+
+ 
+
+§ 6
+
+Meldepflichtige Krankheiten
+
+§ 7
+
+Meldepflichtige Nachweise von Krankheitserregern
+
+§ 8
+
+Zur Meldung verpflichtete Personen
+
+§ 9
+
+Namentliche Meldung
+
+§ 10
+
+Nichtnamentliche Meldung
+
+§ 11
+
+Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+
+§ 12
+
+Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+
+§ 12a
+
+(weggefallen)
+
+§ 13
+
+Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+
+§ 14
+
+Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+
+§ 15
+
+Anpassung der Meldepflicht an die epidemische Lage
+
+§ 15a
+
+Durchführung der infektionshygienischen und hygienischen Überwachung
+
+ 
+
+ 
+
+ 
+
+4\. Abschnitt - Verhütung übertragbarer Krankheiten
+
+ 
+
+§ 16
+
+Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+
+§ 17
+
+Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 18
+
+Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+
+§ 19
+
+Aufgaben des Gesundheitsamtes in besonderen Fällen
+
+§ 20
+
+Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+
+§ 20a
+
+(weggefallen)
+
+§ 20b
+
+Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
+
+§ 20c
+
+Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
+
+§ 21
+
+Impfstoffe
+
+§ 22
+
+Impf-, Genesenen- und Testdokumentation
+
+§ 22a
+
+Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+§ 23
+
+Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+
+§ 23a
+
+Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+
+ 
+
+5\. Abschnitt - Bekämpfung übertragbarer Krankheiten
+
+ 
+
+§ 24
+
+Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+
+§ 25
+
+Ermittlungen
+
+§ 26
+
+Teilnahme des behandelnden Arztes
+
+§ 27
+
+Gegenseitige Unterrichtung
+
+§ 28
+
+Schutzmaßnahmen
+
+§ 28a
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+
+§ 28b
+
+Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+
+§ 28c
+
+Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+
+§ 29
+
+Beobachtung
+
+§ 30
+
+Absonderung
+
+§ 31
+
+Berufliches Tätigkeitsverbot
+
+§ 32
+
+Erlass von Rechtsverordnungen
+
+ 
+
+6\. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
+
+ 
+
+§ 33
+
+Gemeinschaftseinrichtungen
+
+§ 34
+
+Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+
+§ 35
+
+Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+
+§ 36
+
+Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+
+ 
+
+7\. Abschnitt - Wasser
+
+ 
+
+§ 37
+
+Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+
+§ 38
+
+Verordnungsermächtigung
+
+§ 39
+
+Untersuchungen, Maßnahmen der zuständigen Behörde
+
+§ 40
+
+Aufgaben des Umweltbundesamtes
+
+§ 41
+
+Abwasser
+
+ 
+
+8\. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
+
+ 
+
+§ 42
+
+Tätigkeits- und Beschäftigungsverbote
+
+§ 43
+
+Belehrung, Bescheinigung des Gesundheitsamtes
+
+ 
+
+9\. Abschnitt - Tätigkeiten mit Krankheitserregern
+
+ 
+
+§ 44
+
+Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+
+§ 45
+
+Ausnahmen
+
+§ 46
+
+Tätigkeit unter Aufsicht
+
+§ 47
+
+Versagungsgründe, Voraussetzungen für die Erlaubnis
+
+§ 48
+
+Rücknahme und Widerruf
+
+§ 49
+
+Anzeigepflichten
+
+§ 50
+
+Veränderungsanzeige
+
+§ 50a
+
+Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+
+§ 51
+
+Aufsicht
+
+§ 52
+
+Abgabe
+
+§ 53
+
+Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+
+§ 53a
+
+Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+
+ 
+
+10\. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
+
+ 
+
+§ 54
+
+Vollzug durch die Länder
+
+§ 54a
+
+Vollzug durch die Bundeswehr
+
+§ 54b
+
+Vollzug durch das Eisenbahn-Bundesamt
+
+ 
+
+11\. Abschnitt - Angleichung an Gemeinschaftsrecht
+
+ 
+
+§ 55
+
+Angleichung an Gemeinschaftsrecht
+
+ 
+
+12\. Abschnitt - Entschädigung in besonderen Fällen
+
+ 
+
+§ 56
+
+Entschädigung
+
+§ 57
+
+Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+
+§ 58
+
+Aufwendungserstattung
+
+§ 59
+
+Arbeits- und sozialrechtliche Sondervorschriften
+
+§ 60
+
+Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
+
+§ 61
+
+Gesundheitsschadensanerkennung
+
+§ 62
+
+Heilbehandlung
+
+§ 63
+
+Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
+
+§ 64
+
+Zuständige Behörde für die Versorgung
 
 § 65
 
@@ -2245,97 +2245,15 @@ Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten N
 
 § 20 Abs. 8 Satz 3: vgl. BVerfGE v. 21.7.2022 - 1 BvR 469/20, 1 BvR 470/20, 1 BvR 471/20, 1 BvR 472/20 -
 
-# § 20a – Immunitätsnachweis gegen COVID-19
-
-(1) Folgende Personen müssen ab dem 15. März 2022 über einen Impf- oder Genesenennachweis nach § 22a Absatz 1 oder Absatz 2 verfügen:
-
-1. Personen, die in folgenden Einrichtungen oder Unternehmen tätig sind:
-
-a) Krankenhäuser,
-
-b) Einrichtungen für ambulantes Operieren,
-
-c) Vorsorge- oder Rehabilitationseinrichtungen,
-
-d) Dialyseeinrichtungen,
-
-e) Tageskliniken,
-
-f) Entbindungseinrichtungen,
-
-g) Behandlungs- oder Versorgungseinrichtungen, die mit einer der in den Buchstaben a bis f genannten Einrichtungen vergleichbar sind,
-
-h) Arztpraxen, Zahnarztpraxen,
-
-i) Praxen sonstiger humanmedizinischer Heilberufe,
-
-j) Einrichtungen des öffentlichen Gesundheitsdienstes, in denen medizinische Untersuchungen, Präventionsmaßnahmen oder ambulante Behandlungen durchgeführt werden,
-
-k) Rettungsdienste,
-
-l) sozialpädiatrische Zentren nach § 119 des Fünften Buches Sozialgesetzbuch,
-
-m) medizinische Behandlungszentren für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen nach § 119c des Fünften Buches Sozialgesetzbuch,
-
-n) Einrichtungen der beruflichen Rehabilitation nach § 51 des Neunten Buches Sozialgesetzbuch und Dienste der beruflichen Rehabilitation,
-
-o) Begutachtungs- und Prüfdienste, die auf Grund der Vorschriften des Fünften Buches Sozialgesetzbuch oder des Elften Buches Sozialgesetzbuch tätig werden,
-
-2. Personen, die in voll- oder teilstationären Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen oder in vergleichbaren Einrichtungen tätig sind,
-
-3. Personen, die in ambulanten Pflegediensten und weiteren Unternehmen, die den in Nummer 2 genannten Einrichtungen vergleichbare Dienstleistungen im ambulanten Bereich anbieten, tätig sind; zu diesen Unternehmen gehören insbesondere:
-
-a) ambulante Pflegeeinrichtungen gemäß § 72 des Elften Buches Sozialgesetzbuch sowie Einzelpersonen gemäß § 77 des Elften Buches Sozialgesetzbuch,
-
-b) ambulante Pflegedienste, die ambulante Intensivpflege in Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen Wohnformen erbringen,
-
-c) Unternehmen, die Assistenzleistungen nach § 78 des Neunten Buches Sozialgesetzbuch erbringen,
-
-d) Unternehmen, die Leistungen der interdisziplinären Früherkennung und Frühförderung nach § 42 Absatz 2 Nummer 2 des Neunten Buches Sozialgesetzbuch und § 46 des Neunten Buches Sozialgesetzbuch in Verbindung mit der Frühförderungsverordnung oder heilpädagogische Leistungen nach § 79 des Neunten Buches Sozialgesetzbuch erbringen,
-
-e) Beförderungsdienste, die für Einrichtungen nach Nummer 2 dort behandelte, betreute, gepflegte oder untergebrachte Personen befördern oder die Leistungen nach § 83 Absatz 1 Nummer 1 des Neunten Buches Sozialgesetzbuch erbringen, und
-
-f) Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen für die Erbringung entsprechender Dienstleistungen beschäftigen.
-
-Satz 1 gilt nicht für Personen, die auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können, und für Schwangere, die sich im ersten Schwangerschaftsdrittel befinden.
-
-(2) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig sind, haben der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens bis zum Ablauf des 15. März 2022 folgenden Nachweis vorzulegen:
-
-1. einen Impfnachweis nach § 22a Absatz 1,
-
-2. einen Genesenennachweis nach § 22a Absatz 2,
-
-3. ein ärztliches Zeugnis darüber, dass sie sich im ersten Schwangerschaftsdrittel befinden, oder
-
-4. ein ärztliches Zeugnis darüber, dass sie auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können.
-
-Wenn der Nachweis nach Satz 1 nicht bis zum Ablauf des 15. März 2022 vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Angaben zu übermitteln. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann bestimmen, dass
-
-1. der Nachweis nach Satz 1 nicht der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens, sondern dem Gesundheitsamt oder einer anderen staatlichen Stelle gegenüber zu erbringen ist,
-
-2. die Benachrichtigung nach Satz 2 nicht durch die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens, sondern durch die nach Nummer 1 bestimmte Stelle zu erfolgen hat,
-
-3. die Benachrichtigung nach Satz 2 nicht gegenüber dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, sondern gegenüber einer anderen staatlichen Stelle zu erfolgen hat.
-
-(3) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen ab dem 16. März 2022 tätig werden sollen, haben der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens vor Beginn ihrer Tätigkeit einen Nachweis nach Absatz 2 Satz 1 vorzulegen. Wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Angaben zu übermitteln. Absatz 2 Satz 3 gilt entsprechend. Eine Person nach Satz 1, die keinen Nachweis nach Absatz 2 Satz 1 vorlegt, darf nicht in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen beschäftigt werden. Eine Person nach Satz 1, die über keinen Nachweis nach Absatz 2 Satz 1 verfügt oder diesen nicht vorlegt, darf nicht in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig werden. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann allgemeine Ausnahmen von den Sätzen 4 und 5 zulassen, wenn das Paul-Ehrlich-Institut auf seiner Internetseite einen Lieferengpass zu allen Impfstoffen mit einer Komponente gegen das Coronavirus SARS-CoV-2, die für das Inverkehrbringen in Deutschland zugelassen oder genehmigt sind, bekannt gemacht hat; parallel importierte und parallel vertriebene Impfstoffe mit einer Komponente gegen das Coronavirus SARS-CoV-2 bleiben unberücksichtigt.
-
-(4) Soweit ein Nachweis nach Absatz 2 Satz 1 ab dem 16. März 2022 seine Gültigkeit auf Grund Zeitablaufs verliert, haben Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig sind, der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens einen neuen Nachweis nach Absatz 2 Satz 1 innerhalb eines Monats nach Ablauf der Gültigkeit des bisherigen Nachweises vorzulegen. Wenn der neue Nachweis nach Satz 1 nicht innerhalb dieses Monats vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Angaben zu übermitteln. Absatz 2 Satz 3 gilt entsprechend.
-
-(5) Die in Absatz 1 Satz 1 genannten Personen haben dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, auf Anforderung einen Nachweis nach Absatz 2 Satz 1 vorzulegen. Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises, so kann das Gesundheitsamt eine ärztliche Untersuchung dazu anordnen, ob die betroffene Person auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden kann; Personen, die über die Echtheit oder inhaltliche Richtigkeit des vorgelegten Nachweises Auskunft geben können, sind verpflichtet, auf Verlangen des Gesundheitsamtes die erforderlichen Auskünfte insbesondere über die dem Nachweis zugrundeliegenden Tatsachen zu erteilen, Unterlagen vorzulegen und Einsicht zu gewähren; § 15a Absatz 2 Satz 2 gilt entsprechend. Das Gesundheitsamt kann einer Person, die trotz der Anforderung nach Satz 1 keinen Nachweis innerhalb einer angemessenen Frist vorlegt oder der Anordnung einer ärztlichen Untersuchung nach Satz 2 nicht Folge leistet, untersagen, dass sie die dem Betrieb einer in Absatz 1 Satz 1 genannten Einrichtung oder eines in Absatz 1 Satz 1 genannten Unternehmens dienenden Räume betritt oder in einer solchen Einrichtung oder einem solchen Unternehmen tätig wird. Widerspruch und Anfechtungsklage gegen eine vom Gesundheitsamt nach Satz 1 oder Satz 2 erlassene Anordnung oder ein von ihm nach Satz 3 erteiltes Verbot haben keine aufschiebende Wirkung. Sobald ein Nachweis nach Absatz 2 Satz 1 vorgelegt wird, ist die Maßnahme nach Satz 3 aufzuheben und das Verwaltungszwangsverfahren mit sofortiger Wirkung einzustellen.
-
-(6) Die Absätze 1 bis 5 gelten nicht für die in den Einrichtungen oder von den Unternehmen behandelten, betreuten, gepflegten oder untergebrachten Personen.
-
-(7) (weggefallen)
-
-(8) Durch die Absätze 1 bis 5 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
+# § 20a – (weggefallen)
 
 # § 20b – Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
 
-(1) Abweichend von § 20 Absatz 4 Satz 1 sind Zahnärzte, Tierärzte sowie Apotheker zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
+(1) Abweichend von § 20 Absatz 4 Satz 1 sind Zahnärzte und Tierärzte zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
 
 1. sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde und
 
-2. ihnen eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt, der Tierarzt oder der Apotheker in andere geeignete Strukturen, insbesondere ein mobiles Impfteam, eingebunden ist.
+2. ihnen eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt oder der Tierarzt in andere geeignete Strukturen, insbesondere ein mobiles Impfteam, eingebunden ist.
 
 (2) Die ärztliche Schulung nach Absatz 1 Nummer 1 hat insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu umfassen:
 
@@ -2353,11 +2271,11 @@ d) Einholung der Einwilligung der zu impfenden Person,
 
 3. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
 
-Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, über die jeder Berufsangehörige, der an der jeweiligen ärztlichen Schulung teilnimmt, verfügt, berücksichtigen und auf diesen aufbauen. Für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das 18. Lebensjahr vollendet haben, bedarf es einer ärztlichen Schulung nach Absatz 1 Nummer 1 nicht, wenn ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch oder nach § 20c Absatz 1 Satz 1 Nummer 1 erfolgreich eine ärztliche Schulung zur Durchführung von Grippeschutzimpfungen absolviert hat.
+Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, über die jeder Berufsangehörige, der an der jeweiligen ärztlichen Schulung teilnimmt, verfügt, berücksichtigen und auf diesen aufbauen.
 
 (3) Bis zum 31. Dezember 2021 entwickeln in Zusammenarbeit mit der Bundesärztekammer:
 
-1. die Bundesapothekerkammer ein Mustercurriculum für die ärztliche Schulung der Apotheker,
+1. (weggefallen)
 
 2. die Bundeszahnärztekammer ein Mustercurriculum für die ärztliche Schulung der Zahnärzte und
 
@@ -2365,19 +2283,19 @@ Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworben
 
 (4) Die Möglichkeit der ärztlichen Delegation der Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 auf nichtärztliches Gesundheitspersonal bleibt unberührt.
 
-# § 20c – Durchführung von Grippeschutzimpfungen
+# § 20c – Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
 
-(1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur Durchführung von Grippeschutzimpfungen bei Personen, die das 18. Lebensjahr vollendet haben, berechtigt, wenn
+(1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur Durchführung von Grippeschutzimpfungen bei Personen, die das 18. Lebensjahr vollendet haben, und zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
 
 1. sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde und
 
-2. sie die Grippeschutzimpfungen für eine öffentliche Apotheke, zu deren Personal sie gehören, durchführen.
+2. sie die Schutzimpfungen für eine öffentliche Apotheke, zu deren Personal sie gehören, durchführen.
 
-Einer ärztlichen Schulung nach Satz 1 Nummer 1 bedarf es nicht, wenn ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch oder zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 nach § 20b Absatz 1 Nummer 1 erfolgreich eine ärztliche Schulung absolviert hat.
+Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht, wenn ein Apotheker bereits zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erfolgreich eine nach § 20b Absatz 1 Nummer 1 in der bis zum 31. Dezember 2022 geltenden Fassung erforderliche ärztliche Schulung absolviert hat. Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht für die Impfung von Personen, die das 18. Lebensjahr vollendet haben, wenn ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch oder nach diesem Absatz in der bis zum 31. Dezember 2022 geltenden Fassung zur Durchführung von Grippeschutzimpfungen erfolgreich eine ärztliche Schulung absolviert hat.
 
 (2) Die ärztliche Schulung nach Absatz 1 Satz 1 Nummer 1 hat insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu umfassen:
 
-1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung von Grippeschutzimpfungen, insbesondere zur
+1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2, insbesondere zur
 
 a) Aufklärung,
 
@@ -2391,7 +2309,7 @@ d) Einholung der Einwilligung der zu impfenden Person,
 
 3. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
 
-(3) Die Bundesapothekerkammer entwickelt bis zum 31. Juli 2022 in Zusammenarbeit mit der Bundesärztekammer auf Basis von bereits vorliegenden Schulungen im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch ein Mustercurriculum für die ärztliche Schulung der Apotheker nach Absatz 1 Satz 1 Nummer 1.
+(3) Die Bundesapothekerkammer entwickelt bis zum 1. Februar 2023 in Zusammenarbeit mit der Bundesärztekammer auf Basis von bereits bestehenden Mustercurricula nach diesem Absatz und nach § 20b Absatz 3 Nummer 1 jeweils in der bis zum 31. Dezember 2022 geltenden Fassung ein Mustercurriculum für die ärztliche Schulung der Apotheker nach Absatz 1 Satz 1 Nummer 1.
 
 # § 21 – Impfstoffe
 
@@ -3854,13 +3772,13 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 7d. entgegen § 20 Absatz 12 Satz 1, auch in Verbindung mit Absatz 13, einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-7e. entgegen § 20a Absatz 2 Satz 2, Absatz 3 Satz 2 oder Absatz 4 Satz 2 eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+7e. (weggefallen)
 
-7f. einer vollziehbaren Anordnung nach § 20a Absatz 2 Satz 3 Nummer 3, auch in Verbindung mit Absatz 3 Satz 3 oder Absatz 4 Satz 3, oder nach § 20a Absatz 5 Satz 3 zuwiderhandelt,
+7f. (weggefallen)
 
-7g. entgegen § 20a Absatz 3 Satz 4 oder Satz 5 eine Person beschäftigt oder in einer Einrichtung oder einem Unternehmen tätig wird,
+7g. (weggefallen)
 
-7h. entgegen § 20a Absatz 5 Satz 1 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+7h. (weggefallen)
 
 8. entgegen § 22 Absatz 1 eine Schutzimpfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
@@ -3920,7 +3838,7 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 28b Absatz 1 Satz 2, § 32 Satz 1, § 35 Absatz 3 Satz 1 oder Satz 2, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Absatz 1 Satz 1 Nummer 4 oder Absatz 2 Satz 1 Nummer 5 oder § 53 Absatz 1 Nummer 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7h, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7d, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
 # § 74 – Strafvorschriften
 

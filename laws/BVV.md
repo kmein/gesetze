@@ -187,7 +187,7 @@ In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin ein
 
 # § 9 – Beitragsabrechnung
 
-(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu erfassen und lesbar zur Verfügung zu stellen; für die Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach Mitgliedsnummern:
+(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu erfassen und lesbar zur Verfügung zu stellen; für die Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach Unternehmernummern nach § 136a des Siebten Buches Sozialgesetzbuch:
 
 1. dem Familien- und Vornamen und gegebenenfalls dem betrieblichen Ordnungsmerkmal,
 
@@ -340,7 +340,11 @@ Verdacht der prüfenden Stelle auf Beitragshinterziehung, Verstöße gegen das A
 
 21. die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat,
 
-22. die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und 8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach § 98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden.
+21a. den Bescheid des Rentenversicherungsträgers über die Befreiung des Arbeitgebers nach § 8 Absatz 3 Satz 2,
+
+22. die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und 8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach § 98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden,
+
+23. über die Befreiung der elektronischen Übermittlung nach § 126 des Vierten Buches Sozialgesetzbuch.
 
 (2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger der Rentenversicherung und der Datenstelle der Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches Sozialgesetzbuch verarbeitet werden.
 

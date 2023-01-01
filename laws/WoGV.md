@@ -670,10 +670,16 @@ mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
 § 24 Abs. 3 Kursivdruck: Änderungsanweisung betrifft Anlage 2 des Wohngeldgesetzes in der bis zum 31.12.2022 geltenden Fassung
 
-# Anlage – (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020
+# Anlage – (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023
 
-(Fundstelle: BGBl. I 2019, 1883 — 1927)
+(Fundstelle: BGBl. I 2022, 2166 – 2210)
 
-Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.   
-Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2016 und 31. Dezember 2017 einschließlich der bis zum 31. März 2018 erfolgten rückwirkenden Bewilligungen.   
-Relevanter Gebietsstand ist der 31. März 2018, der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 30. September 2017.
+Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.
+
+Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2019 und 31. Dezember 2020 einschließlich der bis zum 31. März 2021 erfolgten rückwirkenden Bewilligungen.
+
+Relevanter Gebietsstand ist der 31. März 2021, der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 30. September 2020.
+
+| Gemeinsame Mietenstufe:       | Mietenstufe |
+|:------------------------------|:-----------:|
+| Inseln ohne Festlandanschluss |      V      |

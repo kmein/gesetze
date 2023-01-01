@@ -82,22 +82,6 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (2) In Fällen des Absatzes 1 hat die zuständige Behörde einen Zugang für die Abgabe von elektronischen Erklärungen bereitzuhalten. In den Bekanntmachungen, in denen sonst auf die Möglichkeit der Abgabe von Erklärungen zur Niederschrift hingewiesen wird, ist auf die Möglichkeit der Abgabe elektronischer Erklärungen und den Ausschluss der Abgabe von Erklärungen zur Niederschrift hinzuweisen.
 
-# § 5 – Erörterungstermine, mündliche Verhandlungen und Antragskonferenzen
-
-(1) Ist in Verfahren nach den in § 1 genannten Gesetzen die Durchführung eines Erörterungstermins oder einer mündlichen Verhandlung in das Ermessen der Behörde gestellt, können bei der Ermessensentscheidung auch geltende Beschränkungen aufgrund der COVID-19-Pandemie und das Risiko der weiteren Ausbreitung des Virus berücksichtigt werden.
-
-(2) Ist in Verfahren nach den in § 1 genannten Gesetzen die Durchführung eines Erörterungstermins oder einer mündlichen Verhandlung angeordnet, auf die nach den dafür geltenden Vorschriften nicht verzichtet werden kann, genügt eine Online-Konsultation nach Absatz 4.
-
-(3) Die zur Teilnahme an einem Erörterungstermin oder einer mündlichen Verhandlung Berechtigten sind von der Durchführung der ersatzweisen Online-Konsultation zu benachrichtigen. § 73 Absatz 6 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend.
-
-(4) Für die Online-Konsultation werden den zur Teilnahme Berechtigten die sonst im Erörterungstermin oder der mündlichen Verhandlung zu behandelnden Informationen zugänglich gemacht. Ihnen ist innerhalb einer vorher bekannt zu machenden angemessenen Frist Gelegenheit zu geben, sich schriftlich oder elektronisch dazu zu äußern. Die zuständige Behörde hat geeignete Vorkehrungen dafür zu treffen, dass nur die nach den Sätzen 1 und 2 Berechtigten Zugang zu der Online-Konsultation haben. Die Regelungen über die Online-Konsultation lassen den bereits eingetretenen Ausschluss von Einwendungen unberührt. § 3 Absatz 1 Sätze 5 bis 7 gelten entsprechend.
-
-(5) Die Online-Konsultation nach Absatz 4 kann mit Einverständnis der zur Teilnahme Berechtigten durch eine Telefon- oder Videokonferenz ersetzt werden. Absatz 4 gilt mit Ausnahme von Satz 2 in diesem Fall entsprechend. Über die Telefon- oder Videokonferenz ist ein Protokoll zu führen.
-
-(6) In Verfahren nach den in § 1 genannten Gesetzen kann die zuständige Behörde anstelle der Durchführung einer Antragskonferenz Gelegenheit zur schriftlichen oder elektronischen Stellungnahme geben.
-
-(7) § 3 Absatz 3 gilt entsprechend.
-
 # § 6 – Übergangsregelung
 
 (1) Die Regelungen dieses Gesetzes sind auch auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren anwendbar. Ein Verfahrensschritt, der bereits begonnen wurde, ist jedoch zu wiederholen, wenn er nach diesem Gesetz durchgeführt werden soll. Abweichend von Satz 2 ist ein Verfahrensschritt, der bereits vor dem 16. März 2020 begonnen wurde, nicht zu wiederholen, wenn der Beteiligungsschritt in diesem Verfahrensschritt, der teilweise oder ganz entfallen oder erschwert worden ist, nach diesem Gesetz hätte entfallen können und lediglich der Hinweis auf das Unterbleiben einer einzelnen Beteiligungsmöglichkeit vorab nicht erteilt werden konnte.

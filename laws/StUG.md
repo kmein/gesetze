@@ -1033,7 +1033,7 @@ c) der Empfänger der Informationen Amtsträger oder nach dem Verpflichtungsgese
 
 Unterlagen mit personenbezogenen Informationen nach Satz 1 Nummer 3, 4 und 7 dürfen nur zur Verfügung gestellt werden, soweit durch deren Verwendung keine überwiegenden schutzwürdigen Interessen der dort genannten Personen beeinträchtigt werden. Bei der Abwägung ist insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar auf einer Menschenrechtsverletzung beruht.
 
-(2) Unterlagen, die sich nach § 2 Absatz 1 Nummer 3 Buchstabe b bis d in besonderer Verwahrung befinden, dürfen nur mit Einwilligung des Bundesministers des Innern, für Bau und Heimat verwendet werden.
+(2) Unterlagen, die sich nach § 2 Absatz 2 Nummer 3 Buchstabe b bis d in besonderer Verwahrung befinden, dürfen nur mit Einwilligung des Bundesministers des Innern, für Bau und Heimat verwendet werden.
 
 (3) Personenbezogene Informationen dürfen nur veröffentlicht werden, wenn
 
@@ -1137,7 +1137,7 @@ Eine Beschäftigung von ehemaligen Mitarbeitern des Staatssicherheitsdienstes be
 
 (1) Personenbezogene Informationen aus Unterlagen des Staatssicherheitsdienstes darf das Bundesarchiv nur insoweit automatisiert verarbeiten, als dies zur Erfüllung seiner Aufgaben erforderlich ist.
 
-(2) Die Einrichtung automatisierter Abrufverfahren zum Zwecke der Übermittlung ist unzulässig. § 2 Absatz 1 Nummer 5 bleibt unberührt.
+(2) Die Einrichtung automatisierter Abrufverfahren zum Zwecke der Übermittlung ist unzulässig. § 2 Absatz 2 Nummer 5 bleibt unberührt.
 
 (3) Die Erteilung eines Auftrags zur Verarbeitung von Informationen aus den Unterlagen ist nur dann zulässig, wenn die Verarbeitung beim Bundesarchiv mit eigenen Mitteln nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, der Auftragsverarbeiter unter besonderer Berücksichtigung der Eignung gerade für den Umgang mit diesen Informationen ausgewählt worden ist und er die Informationen ausschließlich entsprechend den Weisungen des Bundesarchivs verarbeitet.
 

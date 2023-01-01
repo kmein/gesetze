@@ -33,15 +33,15 @@ f) Gesundheits- und Kinderkrankenpflegerin, Gesundheits- und Kinderkrankenpflege
 
 g) im Bereich der Pflegehilfe und -assistenz, insbesondere für die Berufe Krankenpflegehelfer, Krankenpflegehelferin, Pflegehelfer, Pflegehelferin, Pflegeassistent, Pflegeassistentin, Pflegefachassistent, Pflegefachassistentin,
 
-h) medizinisch-technischer Laboratoriumsassistent, medizinisch-technische Laboratoriumsassistentin,
+h) medizinischer Technologe für Laboratoriumsanalytik, medizinische Technologin für Laboratoriumsanalytik,
 
-i) medizinisch-technischer Radiologieassistent, medizinisch-technische Radiologieassistentin,
+i) medizinischer Technologe für Radiologie, medizinische Technologin für Radiologie,
 
 j) Logopäde, Logopädin,
 
 k) Orthoptist, Orthoptistin,
 
-l) medizinisch-technischer Assistent für Funktionsdiagnostik, medizinisch-technische Assistentin für Funktionsdiagnostik,
+l) medizinischer Technologe für Funktionsdiagnostik, medizinische Technologin für Funktionsdiagnostik,
 
 m) Anästhesietechnische Assistentin, Anästhesietechnischer Assistent,
 
@@ -992,6 +992,66 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt dem Spitzenverba
 (7) Das Bundesamt für Soziale Sicherung zahlt einen Betrag in Höhe von 500 Millionen Euro bis zum 4. Oktober 2022 aus der Liquiditätsreserve des Gesundheitsfonds an den Spitzenverband Bund der Krankenkassen. Das Bundesamt für Soziale Sicherung unterrichtet das Bundesministerium für Gesundheit unverzüglich über die Auszahlung. Der Bund erstattet den gezahlten Betrag innerhalb von einer Woche nach der Unterrichtung nach Satz 2 an die Liquiditätsreserve des Gesundheitsfonds. Der Spitzenverband Bund der Krankenkassen leitet den Auszahlungsbetrag in der Höhe, der in dem Bescheid nach Absatz 6 Satz 3 für das jeweilige Krankenhaus festgelegt wurde, an das jeweilige Krankenhaus weiter. Nach Abschluss der Weiterleitungen nach Satz 4 übermittelt der Spitzenverband Bund der Krankenkassen dem Bundesministerium für Gesundheit bis zum 31. Januar 2023 eine krankenhausbezogene Aufstellung der weitergeleiteten Beträge. Die notwendigen Aufwendungen des Instituts für das Entgeltsystem im Krankenhaus für die Erfüllung der Aufgaben nach dieser Vorschrift sind aus dem Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 zu finanzieren, der erforderlichenfalls entsprechend zu erhöhen ist.
 
 (8) Jedes Krankenhaus, das die Auszahlung aus Bundesmitteln erhalten hat, muss den Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer 2, dem Spitzenverband Bund der Krankenkassen und dem Institut für das Entgeltsystem im Krankenhaus bis zum 30. September 2023 eine Bestätigung des Jahresabschlussprüfers über die zweckentsprechende Verwendung der Mittel vorlegen, die auch die Anzahl der in Absatz 2 Satz 1 genannten Pflegefachkräfte, die nach Absatz 4 Satz 1 Nummer 2 mitgeteilte Anzahl der Intensivpflegefachkräfte und die Anzahl der im Jahr 2021 insgesamt in der Intensivpflege eingesetzten Pflegefachkräfte beinhalten muss. Werden die Bestätigungen nicht oder nicht vollständig vorgelegt oder wurden die Mittel nicht zweckentsprechend verwendet, ist der entsprechende Betrag bis zum 31. Dezember 2023 an den Spitzenverband Bund der Krankenkassen zurückzuzahlen. Dieser leitet die zurückgezahlten Beträge an die Liquiditätsreserve des Gesundheitsfonds weiter. Das Bundesamt für Soziale Sicherung erstattet die Summe der zurückgezahlten Beträge bis zum 31. Juli 2024 aus der Liquiditätsreserve des Gesundheitsfonds an den Bund.
+
+# § 26f – Ausgleich für Steigerungen der Kosten für den Bezug von Erdgas, Wärme und Strom
+
+(1) Zugelassene Krankenhäuser erhalten für den Zeitraum vom 1. Oktober 2022 bis zum 30. April 2024 aus der Liquiditätsreserve des Gesundheitsfonds eine krankenhausindividuelle Ausgleichszahlung zum pauschalen Ausgleich von mittelbar durch den Anstieg der Energiepreise verursachten Kostensteigerungen und krankenhausindividuelle Erstattungsbeträge zum Ausgleich ihrer gestiegenen Kosten für den Bezug von leitungsgebundenem Erdgas, leitungsgebundener Fernwärme und leitungsgebundenem Strom. Der Bund stellt der Liquiditätsreserve des Gesundheitsfonds zur Verfügung:
+
+1. bis zum 17. Januar 2023 einen Betrag für das Jahr 2023 in Höhe von bis zu 4,5 Milliarden Euro und
+
+2. bis zum 16. Januar 2024 einen Betrag für das Jahr 2024 in Höhe von bis zu weiteren 1,5 Milliarden Euro.
+
+Mittel, die für das Jahr 2023 nicht an die Länder oder an die benannten Krankenkassen gezahlt worden sind, stehen für Zahlungen im Jahr 2024 zur Verfügung. Nach Abschluss der Zahlungen an die Länder und an die benannten Krankenkassen nach dieser Vorschrift nicht gezahlte Mittel werden an den Bund zurückgeführt.
+
+(2) Für die Ermittlung der Höhe der krankenhausindividuellen Ausgleichszahlung nach Absatz 1 Satz 1 übermitteln die zugelassenen Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer Vereinigungen bis zum 10. Januar 2023 die Anzahl ihrer auf die akutstationäre Versorgung der gesetzlichen Unfallversicherung entfallenden Betten und Intensivbetten an die für die Krankenhausplanung zuständigen Landesbehörden, die diese Anzahl und die Summe der ihnen nach § 21 Absatz 3 Satz 1 Nummer 3 des Krankenhausentgeltgesetzes zum 31. März 2022 durch die Datenstelle jeweils übermittelte Anzahl der aufgestellten Betten und Intensivbetten der Krankenhäuser addieren und das Ergebnis bis zum 15. Januar 2023 an das Bundesamt für Soziale Sicherung übermitteln. Das Bundesamt für Soziale Sicherung teilt einen Betrag in Höhe von 1,5 Milliarden Euro auf die Länder entsprechend dem Verhältnis der von diesen jeweils fristgerecht übermittelten Bettenanzahlen auf und zahlt den hiernach auf jedes Land entfallenden Betrag am 31. Januar 2023, am 28. Februar 2023 und am 31. März 2023 in drei gleichen Teilbeträgen aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Land zur Weiterleitung an die Krankenhäuser entsprechend dem Verhältnis der jeweiligen Bettenanzahl. Nach dem 15. Januar 2023 übermittelte Daten zur Bettenanzahl bleiben bei der Aufteilung nach Satz 2 unberücksichtigt.
+
+(3) Die Krankenhäuser ermitteln die Höhe der krankenhausindividuellen Erstattungsbeträge nach Absatz 1 Satz 1 für folgende Zeiträume getrennt:
+
+1. Oktober 2022 bis Dezember 2022,
+
+2. Januar 2023 bis Dezember 2023 und
+
+3. Januar 2024 bis April 2024.
+
+(4) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 1, indem sie von ihren auf die Monate Oktober 2022 bis Dezember 2022 entfallenden Kosten für den Bezug von leitungsgebundenem Erdgas, leitungsgebundener Fernwärme und leitungsgebundenem Strom die Summe abziehen, die dem dreifachen Betrag der für den Monat März 2022 gezahlten Abschläge für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom entspricht, und das Ergebnis gemäß Absatz 7 Satz 1 Nummer 1 mindern. Soweit in den Bezugskosten nach Satz 1 Kosten von Einrichtungen des Krankenhauses enthalten sind, die nicht der akutstationären Versorgung dienen, insbesondere Kosten medizinischer Versorgungszentren, von Vorsorge- oder Rehabilitationseinrichtungen oder stationärer Pflegeeinrichtungen, sind die Bezugskosten nach Satz 1 um die rechnerisch auf diese Einrichtungen entfallenden Anteile zu verringern. Ist der sich aus der Berechnung nach den Sätzen 1 und 2 ergebende Differenzbetrag größer als null, übermitteln die Krankenhäuser den Differenzbetrag an die für die Krankenhausplanung zuständige Landesbehörde oder an eine von dieser Landesbehörde benannte Krankenkasse und weisen gegenüber dieser Landesbehörde oder Krankenkasse durch Vorlage der entsprechenden Abrechnungen die Höhe der Bezugskosten nach Satz 1 nach. Nach Prüfung der nach Satz 3 übermittelten Differenzbeträge und vorgelegten Nachweise addiert die für die Krankenhausplanung zuständige Landesbehörde oder die benannte Krankenkasse die übermittelten Differenzbeträge und übermittelt das Ergebnis bis zum 15. Februar 2023 an das Bundesamt für Soziale Sicherung. Das Bundesamt für Soziale Sicherung zahlt die entsprechenden Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Land oder an die benannte Krankenkasse zur Weiterleitung an die Krankenhäuser.
+
+(5) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 2, indem sie
+
+1. von den auf die Monate Januar 2023 bis Dezember 2023 voraussichtlich entfallenden Kosten für den Bezug von leitungsgebundenem Erdgas, leitungsgebundener Fernwärme und leitungsgebundenem Strom die Summe abziehen, die dem zwölffachen Betrag der für den Monat März 2022 gezahlten Abschläge für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom entspricht,
+
+2. das Ergebnis nach Nummer 1 gemäß Absatz 7 Satz 1 Nummer 2 mindern und
+
+3. das Ergebnis nach Nummer 2 um den Teil eines sich aus den Jahresrechnungen für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom für das Jahr 2022 ergebenden Nachzahlungsbetrags erhöhen oder eines sich ergebenden Rückzahlungsbetrags verringern, der auf die Monate Oktober 2022 bis Dezember 2022 entfällt.
+
+Bei der Ermittlung nach Satz 1 sind die Abschläge zu Grunde zu legen, die die Versorgungsunternehmen den Krankenhäusern nach den §§ 4 und 7 des Strompreisbremsegesetzes sowie nach den §§ 6 und 14 des Gaspreisbremsengesetzes in Rechnung gestellt haben. Absatz 4 Satz 2 und 3 gilt entsprechend. Nach Prüfung der übermittelten Differenzbeträge und der vorgelegten Nachweise addiert die für die Krankenhausplanung zuständige Landesbehörde oder die benannte Krankenkasse die übermittelten Differenzbeträge und übermittelt das Ergebnis bis zum 30. April 2023 an das Bundesamt für Soziale Sicherung, das die übermittelten Beträge addiert. Nach dem 30. April 2023 dem Bundesamt für Soziale Sicherung übermittelte Beträge bleiben unberücksichtigt. Das Bundesamt für Soziale Sicherung berechnet einen Höchstbetrag der Erstattungsbeträge für den Zeitraum nach Absatz 3 Nummer 2 als Differenz zwischen dem Betrag nach Absatz 1 Satz 2 Nummer 1 und der Summe der nach den Absätzen 2 und 4 an die Länder und die benannten Krankenkassen gezahlten Beträge. Unterschreitet die nach Satz 4 berechnete Summe der fristgerecht übermittelten Beträge den nach Satz 6 berechneten Höchstbetrag, zahlt das Bundesamt für Soziale Sicherung die fristgerecht übermittelten Beträge in Abständen von jeweils zwei Monaten in vier gleichen Teilbeträgen aus der Liquiditätsreserve des Gesundheitsfonds an die Länder oder an die benannten Krankenkassen zur Weiterleitung an die Krankenhäuser. Überschreitet die nach Satz 4 berechnete Summe der fristgerecht übermittelten Beträge den nach Satz 6 berechneten Höchstbetrag, kürzt das Bundesamt für Soziale Sicherung die auf die Länder entfallenden Beträge in dem Verhältnis, in dem die Summe der fristgerecht übermittelten Beträge zu dem Höchstbetrag steht, und zahlt den sich jeweils ergebenden Betrag in Abständen von jeweils zwei Monaten in vier gleichen Teilbeträgen aus der Liquiditätsreserve des Gesundheitsfonds an die Länder oder an die benannten Krankenkassen zur Weiterleitung an die Krankenhäuser.
+
+(6) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 3, indem sie
+
+1. von den auf die Monate Januar 2024 bis April 2024 voraussichtlich entfallenden Kosten für den Bezug von leitungsgebundenem Erdgas, leitungsgebundener Fernwärme und leitungsgebundenem Strom die Summe abziehen, die dem vierfachen Betrag der für den Monat März 2022 gezahlten Abschläge für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom entspricht,
+
+2. von dem Ergebnis nach Nummer 1 den Wert nach Absatz 7 Satz 1 Nummer 3 abziehen und
+
+3. das Ergebnis nach Nummer 2 um einen sich aus den Jahresrechnungen für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom für das Jahr 2023 ergebenden Nachzahlungsbetrag erhöhen oder einen sich ergebenden Rückzahlungsbetrag verringern.
+
+Absatz 4 Satz 2 und 3 gilt entsprechend. Nach Prüfung der übermittelten Differenzbeträge nach Satz 1 und der vorgelegten Nachweise addiert die für die Krankenhausplanung zuständige Landesbehörde oder die benannte Krankenkasse die übermittelten Differenzbeträge und übermittelt das Ergebnis bis zum 30. April 2024 an das Bundesamt für Soziale Sicherung, das die übermittelten Beträge addiert. Nach dem 30. April 2024 dem Bundesamt für Soziale Sicherung übermittelte Beträge bleiben bei der Berechnung unberücksichtigt. Das Bundesamt für Soziale Sicherung berechnet einen Höchstbetrag der Erstattungsbeträge für den Zeitraum nach Absatz 3 Nummer 3, indem es den Betrag nach Absatz 1 Satz 2 Nummer 2 und den für das Jahr 2023 nicht gezahlten Betrag nach Absatz 1 Satz 2 Nummer 1 addiert. Unterschreitet die Summe der fristgerecht übermittelten Beträge den nach Satz 6 berechneten Höchstbetrag, zahlt das Bundesamt für Soziale Sicherung die fristgerecht übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die Länder oder die benannten Krankenkassen zur Weiterleitung an die Krankenhäuser. Überschreitet die Summe der fristgerecht übermittelten Beträge den Höchstbetrag, kürzt das Bundesamt für Soziale Sicherung die auf die Länder entfallenden Beträge in dem Verhältnis, in dem die Summe der übermittelten Beträge zu dem Höchstbetrag steht, und zahlt den sich jeweils ergebenden Betrag aus der Liquiditätsreserve des Gesundheitsfonds an die Länder oder an die benannten Krankenkassen zur Weiterleitung an die Krankenhäuser.
+
+(7) Bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge nach den Absätzen 4 bis 6 ist durch die Krankenhäuser mindernd zu berücksichtigen:
+
+1. bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge nach Absatz 4 der Veränderungswert nach § 9 Absatz 1b des Krankenhausentgeltgesetzes für das Jahr 2022,
+
+2. bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge nach Absatz 5 der Veränderungswert nach § 9 Absatz 1b des Krankenhausentgeltgesetzes für das Jahr 2023 und
+
+3. bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge nach Absatz 6 der Veränderungswert nach § 9 Absatz 1b des Krankenhausentgeltgesetzes für das Jahr 2024.
+
+Die jeweils aufgrund der Verminderung nach Satz 1 abzuziehenden Beträge gehen nicht in den Gesamtbetrag oder die Erlösausgleiche nach diesem Gesetz oder der Bundespflegesatzverordnung ein.
+
+(8) Krankenhäuser, die Zahlungen nach den Absätzen 2 oder 4 bis 6 erhalten haben, sind verpflichtet, eine Energieberatung durch einen Gebäudeenergieberater durchführen zu lassen und der für die Krankenhausplanung zuständigen Landesbehörde oder der benannten Krankenkasse bis zum 15. Januar 2024 die erfolgte Beratung und die konkreten Maßnahmen zur Umsetzung der Empfehlungen der Energieberatung nachzuweisen. Bei Krankenhäusern, die den Nachweis nach Satz 1 nicht oder nicht rechtzeitig vorlegen, kürzt die für die Krankenhausplanung zuständige Landesbehörde oder die benannte Krankenkasse den nach Absatz 6 Satz 3 an das Bundesamt für Soziale Sicherung zu übermittelnden Betrag um 20 Prozent.
+
+(9) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 vereinbaren bis zum 15. Januar 2023 das Nähere zum Nachweis der Bezugskosten für leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und leitungsgebundenen Strom. Kommt eine Vereinbarung nicht innerhalb dieser Frist zustande, legt die Schiedsstelle nach § 18a Absatz 6 ohne Antrag einer Vertragspartei den Inhalt der Vereinbarung innerhalb von zwei Wochen fest.
+
+(10) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zum Verfahren der Übermittlung der von den für die Krankenhausplanung zuständigen Landesbehörden oder den benannten Krankenkassen addierten Differenzbeträge sowie zum Verfahren der Zahlung aus der Liquiditätsreserve des Gesundheitsfonds nach den Absätzen 2 und 4 bis 6. Das Bundesamt für Soziale Sicherung teilt dem Bundesministerium für Gesundheit unverzüglich die Höhe der an die jeweiligen Länder oder benannten Krankenkassen nach den Absätzen 2 und 4 bis 6 gezahlten Beträge mit.
+
+(11) Die Länder oder die benannten Krankenkassen übermitteln dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen jeweils zum 30. Juni 2023, zum 30. Juni 2024 und zum 30. September 2024 eine krankenhausbezogene Aufstellung über die krankenhausindividuellen Ausgleichszahlungen nach Absatz 2 und über die krankenhausindividuellen Erstattungsbeträge nach den Absätzen 4 bis 6. Der Spitzenverband Bund der Krankenkassen übermittelt den Vertragsparteien nach § 18 Absatz 2 die Höhe der einem Krankenhaus gezahlten krankenhausindividuellen Ausgleichszahlung nach Absatz 2 und krankenhausindividuellen Erstattungsbeträge nach den Absätzen 4 bis 6.
 
 # § 27 – Zuständigkeitsregelung
 

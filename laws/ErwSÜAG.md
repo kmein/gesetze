@@ -88,7 +88,7 @@ Für den Bezirk des Kammergerichts ist das Amtsgericht Schöneberg in Berlin zus
 
 (1) Das Verfahren nach den Artikeln 23 und 25 des Übereinkommens richtet sich nach dem Buch 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Die §§ 275, 276, 297 Abs. 5, §§ 308, 309 und 311 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend anzuwenden.
 
-(2) Das Gericht hat den Betroffenen persönlich anzuhören, wenn die anzuerkennende oder für vollstreckbar zu erklärende Maßnahme eine im Inland vorzunehmende Maßnahme im Sinn des § 312 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen Eingriff im Sinn des § 1904 des Bürgerlichen Gesetzbuchs oder eine im Inland vorzunehmende Sterilisation beinhaltet. Im Übrigen soll das Gericht den Betroffenen persönlich anhören. § 278 Abs. 3 bis 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt entsprechend.
+(2) Das Gericht hat den Betroffenen persönlich anzuhören, wenn die anzuerkennende oder für vollstreckbar zu erklärende Maßnahme eine im Inland vorzunehmende Maßnahme im Sinn des § 312 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen Eingriff im Sinn des § 1829 des Bürgerlichen Gesetzbuchs oder eine im Inland vorzunehmende Sterilisation beinhaltet. Im Übrigen soll das Gericht den Betroffenen persönlich anhören. § 278 Abs. 3 bis 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt entsprechend.
 
 (3) Das Gericht kann die im Inland zuständige Betreuungsbehörde anhören, wenn es der Betroffene verlangt oder wenn es der Sachaufklärung dient. Die Anhörung anderer Personen liegt im Ermessen des Gerichts.
 
@@ -132,7 +132,7 @@ Die Feststellung nach Artikel 23 des Übereinkommens, dass die Voraussetzungen f
 
 6. die Übernahme der Kosten für die Unterbringung nicht geregelt ist.
 
-(2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden ist, oder einer Maßnahme im Sinn des § 1906 Absatz 4 oder § 1906a Absatz 1 oder Absatz 4 des Bürgerlichen Gesetzbuchs spricht sich das Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des Übereinkommens gegen das Ersuchen aus, wenn
+(2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden ist, oder einer Maßnahme im Sinn des § 1831 Absatz 4 oder § 1832 Absatz 1 oder Absatz 4 des Bürgerlichen Gesetzbuchs spricht sich das Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des Übereinkommens gegen das Ersuchen aus, wenn
 
 1. im ersuchenden Staat über die ersuchte Maßnahme kein Gericht entscheidet oder
 
@@ -144,7 +144,7 @@ Die Feststellung nach Artikel 23 des Übereinkommens, dass die Voraussetzungen f
 
 (5) Der Widerspruch nach Artikel 33 Abs. 2 des Übereinkommens ist der ersuchenden Behörde unverzüglich bekannt zu machen. Die Entscheidung, von einem Widerspruch abzusehen, ist dem Betroffenen selbst und, falls ein solcher bestellt ist, dem Betreuer oder einer Person mit vergleichbaren Aufgaben sowie dem Leiter der Einrichtung bekannt zu machen, in welcher der Betroffene untergebracht werden soll. Der Beschluss ist unanfechtbar.
 
-(6) Im Übrigen sind auf das Verfahren die §§ 316, 317 Abs. 1 Satz 1, Abs. 4, 5, §§ 318, 325 Abs. 1 und § 338 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie § 8 Abs. 1 Satz 1, Abs. 3 und 4 entsprechend anzuwenden.
+(6) Im Übrigen sind auf das Verfahren die §§ 316, 317 Absatz 1 Satz 1, Absatz 5, 6, die §§ 318, 325 Absatz 1 und § 338 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie § 8 Abs. 1 Satz 1, Abs. 3 und 4 entsprechend anzuwenden.
 
 # § 13 – Bescheinigungen über inländische Schutzmaßnahmen
 

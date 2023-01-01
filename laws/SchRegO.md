@@ -295,9 +295,7 @@ Für den Eintragungsantrag sowie für die Vollmacht zur Stellung eines solchen g
 
 Erklärungen, durch die ein Eintragsantrag zurückgenommen oder eine zur Stellung des Eintragungsantrags erteilte Vollmacht widerrufen wird, bedürfen der in § 37 Abs. 1 Satz 1 vorgeschriebenen Form.
 
-# § 40
-
-Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
+# § 40 – (weggefallen)
 
 # § 41
 

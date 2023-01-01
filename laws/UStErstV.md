@@ -25,13 +25,13 @@
 
 # § 4
 
-(1) Der Antrag auf Erstattung ist unter Beifügung der in Betracht kommenden Rechnungen nach einem vom Bundesminister der Finanzen zu bestimmenden Muster beim Auswärtigen Amt einzureichen. In ihm hat der Missionschef oder der Leiter der berufskonsularischen Vertretung zu versichern, daß die Gegenstände oder die sonstigen Leistungen für den nach § 1 oder § 2 vorgesehenen Gebrauch bestimmt sind. Das Auswärtige Amt sendet den Antrag mit einer Stellungnahme an das Bundeszentralamt für Steuern, das die Angaben des Antragstellers prüft und über den Antrag entscheidet.
+(1) Der Antrag auf Erstattung ist unter Beifügung der in Betracht kommenden Rechnungen und Zahlungsnachweise nach einem vom Bundesministerium der Finanzen zu bestimmenden Muster beim Bundeszentralamt für Steuern in Papierform oder elektronisch einzureichen. In ihm hat der Missionschef oder der Leiter der berufskonsularischen Vertretung zu versichern, dass die Gegenstände oder die sonstigen Leistungen für den nach § 1 oder § 2 vorgesehenen Gebrauch bestimmt sind. Das Bundeszentralamt für Steuern prüft die Angaben des Antragstellers und entscheidet über den Antrag.
 
 (2) Der Antrag ist bis zum Ablauf des Kalenderjahres zu stellen, das auf das Kalenderjahr folgt, in dem der Umsatz an den Antragsteller bewirkt worden ist. Der Antrag muß alle Erstattungsansprüche eines Abrechnungszeitraums, der mindestens ein Kalendervierteljahr beträgt, umfassen.
 
 (3) Dem Antragsteller ist ein schriftlicher Bescheid zu erteilen, wenn dem Antrage nicht entsprochen wird.
 
-(4) Mindert sich der Steuerbetrag, so hat der Antragsteller das Auswärtige Amt unverzüglich zu unterrichten. Der zuviel erhaltene Erstattungsbetrag ist innerhalb eines Monats nach Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den Erstattungsansprüchen auf Grund eines in diesem Zeitraum abgegebenen Antrags verrechnet werden.
+(4) Mindert sich der Steuerbetrag, so hat der Antragsteller das Bundeszentralamt für Steuern unverzüglich zu unterrichten. Der zuviel erhaltene Erstattungsbetrag ist innerhalb eines Monats nach Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den Erstattungsansprüchen auf Grund eines in diesem Zeitraum abgegebenen Antrags verrechnet werden.
 
 # § 5
 

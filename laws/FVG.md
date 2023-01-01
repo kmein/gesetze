@@ -179,7 +179,9 @@ Das Bundeszentralamt für Steuern bedient sich zur Durchführung dieser Aufgaben
 
 28b. die Unterstützung der Finanzbehörden der Länder bei der Ermittlung von Steuergestaltungen, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit länderübergreifender, internationaler oder erheblicher Bedeutung zum Gegenstand haben; das Bundeszentralamt für Steuern hat zur Wahrnehmung dieser Aufgabe alle hierfür erforderlichen Informationen zu sammeln und auszuwerten und die Behörden der Länder über die sie betreffenden Informationen zu unterrichten;
 
-29. die Durchführung der gesonderten Feststellung und Erteilung der Bescheinigung nach § 27 Abs. 8 des Körperschaftsteuergesetzes;
+29. die Durchführung der gesonderten Feststellung der Einlagenrückgewähr nach § 27 Absatz 8 des Körperschaftsteuergesetzes;
+
+29a. Entgegennahme, Verarbeitung und Weiterleitung der Versicherungsdaten bei privaten Krankenversicherungen und privaten Pflege-Pflichtversicherungen nach § 39 Absatz 4a des Einkommensteuergesetzes;
 
 30. die Bildung, Speicherung und Bereitstellung elektronischer Lohnsteuerabzugsmerkmale;
 
@@ -221,7 +223,7 @@ Das Bundeszentralamt für Steuern bedient sich zur Durchführung dieser Aufgaben
 
 Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes nach § 88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbehörden weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des Zugangs der Daten zur Durchführung von Verfahren im Sinne des § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur Datenschutzkontrolle zu speichern.
 
-(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5 bis 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 30 bis 34, 36, 38 und 42 bis 46.
+(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5 bis 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und 42 bis 46.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie die nach § 44b Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes erstattete Kapitalertragsteuer werden von den Ländern in dem Verhältnis getragen, in dem sie an dem Aufkommen der betreffenden Steuern beteiligt sind. Kapitalertragsteuer, die das Bundeszentralamt für Steuern anlässlich der Vergütung von Körperschaftsteuer vereinnahmt hat, steht den Ländern in demselben Verhältnis zu. Für die Aufteilung ist das Aufkommen an den betreffenden Steuern in den einzelnen Ländern maßgebend, das sich ohne Berücksichtigung der in den Sätzen 1 und 2 bezeichneten Steuerbeträge für das Vorjahr ergibt. Das Nähere bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
@@ -383,9 +385,9 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (4) Das Bundesministerium der Finanzen erstattet dem Haushalts- und dem Finanzausschuss des Deutschen Bundestages jährlich zum 1. März Bericht über den aktuellen Stand und die Fortschritte des Zusammenwirkens von Bund und Ländern nach Absatz 2.
 
-# § 20a – Druckdienstleistungen für Bundesfinanzbehörden
+# § 20a – Druckdienstleistungen für Bundes- oder Landesfinanzbehörden
 
-(1) Das Bundesministerium der Finanzen darf sich zum Drucken und Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der Abgabenordnung und sonstigen Schreiben im Verwaltungsverfahren nach der Abgabenordnung der Bundesfinanzbehörden und zu deren anschließenden verschlossenen Übergabe an einen Postdienstleister (Druckdienstleistung) nur dann einer nicht öffentlichen Stelle als Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung im Rahmen eines Vertrages bedienen, wenn
+(1) Das Bundesministerium der Finanzen darf sich zum Drucken und Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der Abgabenordnung und sonstigen Schreiben im Verwaltungsverfahren nach der Abgabenordnung der Bundesfinanzbehörden und zu deren anschließenden verschlossenen Übergabe an einen Postdienstleister (Druckdienstleistung) nur dann einer nicht öffentlichen Stelle als Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 47 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung im Rahmen eines Vertrages bedienen, wenn
 
 1. die Druckdienstleistung insoweit weder von der Bundesverwaltung noch durch automatische Einrichtungen der Behörden eines Landes oder eines anderen Verwaltungsträgers in wirtschaftlich vertretbarer Weise geleistet werden kann,
 
@@ -395,11 +397,13 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 4. die Druckdienstleistung im Inland stattfindet,
 
-5. der Auftragsverarbeiter im Rahmen der Artikel 25 und 32 der Verordnung (EU) 2016/679 ein vom Bundesministerium der Finanzen freizugebendes IT-Sicherheitskonzept nach dem Standard des aktuellen IT-Grundschutzkatalogs des Bundesamtes für Sicherheit in der Informationstechnik erstellt hat,
+5. der Auftragsverarbeiter im Rahmen der Artikel 25 und 32 der Verordnung (EU) 2016/679 ein vom Bundesministerium der Finanzen freizugebendes IT-Sicherheitskonzept nach dem Standard des aktuellen IT-Grundschutzkompendiums des Bundesamtes für Sicherheit in der Informationstechnik erstellt hat,
 
 6. der Auftragsverarbeiter die überlassenen Daten entsprechend der vertraglich festgelegten Frist nach Abschluss der Druckdienstleistung löscht und
 
 7. das Ergebnis der Druckdienstleistung vom Auftragsverarbeiter protokolliert und diese Protokolldaten entsprechend der vertraglich festgelegten Frist an die vom Auftraggeber benannte Stelle übermittelt werden.
+
+Satz 1 gilt für die obersten Finanzbehörden der Länder entsprechend.
 
 (2) Absatz 1 gilt entsprechend, wenn der Auftragsverarbeiter sich eines weiteren Auftragsverarbeiters bedienen will.
 

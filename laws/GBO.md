@@ -303,11 +303,7 @@ Eine Erklärung, durch die ein Eintragungsantrag zurückgenommen wird, bedarf de
 
 (2) Wird das Register elektronisch geführt, kann in den Fällen des Absatzes 1 Satz 1 der Nachweis auch durch die Bezugnahme auf das Register geführt werden. Dabei sind das Registergericht und das Registerblatt anzugeben.
 
-# § 33
-
-(1) Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
-
-(2) Ist das Grundbuchamt zugleich das Registergericht, so genügt statt des Zeugnisses nach Absatz 1 die Bezugnahme auf das Register.
+# § 33 – (weggefallen)
 
 # § 34
 

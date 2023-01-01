@@ -125,7 +125,7 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (1) Der Anbieter hat die vom Antragsteller im Zulageantrag anzugebenden Daten sowie die Mitteilungen nach § 89 Abs. 1 Satz 5 des Einkommensteuergesetzes zu erfassen und an die zentrale Stelle zu übermitteln. Erfolgt eine Datenübermittlung nach § 89 Abs. 3 des Einkommensteuergesetzes, gilt Satz 1 entsprechend.
 
-(2) Der Anbieter hat einen ihm bekannt gewordenen Tatbestand des § 95 Absatz 1 des Einkommensteuergesetzes der zentralen Stelle mitzuteilen. Wenn dem Anbieter ausschließlich eine Anschrift des Zulageberechtigten außerhalb der Mitgliedstaaten der Europäischen Union und der Staaten, auf die das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) anwendbar ist, bekannt ist, teilt er dies der zentralen Stelle mit.
+(2) Der Anbieter hat einen ihm bekannt gewordenen Tatbestand des § 95 des Einkommensteuergesetzes der zentralen Stelle mitzuteilen. Wenn dem Anbieter ausschließlich eine Anschrift des Zulageberechtigten außerhalb der Mitgliedstaaten der Europäischen Union und der Staaten, auf die das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) anwendbar ist, bekannt ist, teilt er dies der zentralen Stelle mit.
 
 (3) Der Anbieter hat der zentralen Stelle die Zahlung des nach § 90 Abs. 3 Satz 3 des Einkommensteuergesetzes abzuführenden Rückforderungsbetrages und des nach § 94 Abs. 1 Satz 3 des Einkommensteuergesetzes abzuführenden Rückzahlungsbetrages, jeweils bezogen auf den Zulageberechtigten, sowie die Zahlung von ihm geschuldeter Verspätungs- oder Säumniszuschläge mitzuteilen.
 
@@ -149,13 +149,11 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (2) Die zentrale Stelle hat dem Anbieter die Auszahlung der Zulage nach § 90 Abs. 2 Satz 1 des Einkommensteuergesetzes und § 15, jeweils bezogen auf den Zulageberechtigten, mitzuteilen. Mit Zugang der Mitteilung nach Satz 1 entfällt der Vorbehalt der Nachprüfung der Mitteilung nach Absatz 1 Satz 2. Die zentrale Stelle kann eine Mahnung (§ 259 der Abgabenordnung) nach amtlich vorgeschriebenem Datensatz an den Anbieter übermitteln.
 
-(3) Wird der Rückzahlungsbetrag nach § 95 Abs. 3 Satz 1 des Einkommensteuergesetzes erlassen, hat die zentrale Stelle dies dem Anbieter mitzuteilen.
+(3) (weggefallen)
 
 # § 13 – Anzeigepflichten des Zulageberechtigten
 
-(1) (weggefallen)
-
-(2) Liegt ein Tatbestand des § 95 Absatz 1 des Einkommensteuergesetzes vor, hat der Zulageberechtigte dies dem Anbieter auch dann anzuzeigen, wenn aus dem Vertrag bereits Leistungen bezogen werden.
+Liegt ein Tatbestand des § 95 des Einkommensteuergesetzes vor, hat der Zulageberechtigte dies dem Anbieter ab Beginn der Auszahlungsphase anzuzeigen.
 
 # § 14 – Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen
 

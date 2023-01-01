@@ -249,6 +249,46 @@ Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies zur Durc
 
 Die zuständigen Landesbehörden vereinbaren mit den Unfallversicherungsträgern nach § 20 Abs. 2 Satz 3 des Siebten Buches Sozialgesetzbuch die Maßnahmen, die zur Umsetzung der gemeinsamen Arbeitsprogramme nach § 20a Abs. 2 Nr. 2 und der gemeinsamen Beratungs- und Überwachungsstrategie notwendig sind; sie evaluieren deren Zielerreichung mit den von der Nationalen Arbeitsschutzkonferenz nach § 20a Abs. 2 Nr. 3 bestimmten Kennziffern.
 
+(3a) Zu nach dem 1. Januar 2023 durchgeführten Betriebsbesichtigungen und deren Ergebnissen übermitteln die für den Arbeitsschutz zuständigen Landesbehörden an den für die besichtigte Betriebsstätte zuständigen Unfallversicherungsträger im Wege elektronischer Datenübertragung folgende Informationen:
+
+1. Name und Anschrift des Betriebs,
+
+2. Anschrift der besichtigten Betriebsstätte, soweit nicht mit Nummer 1 identisch,
+
+3. Kennnummer zur Identifizierung,
+
+4. Wirtschaftszweig des Betriebs,
+
+5. Datum der Besichtigung,
+
+6. Anzahl der Beschäftigten zum Zeitpunkt der Besichtigung,
+
+7. Vorhandensein einer betrieblichen Interessenvertretung,
+
+8. Art der sicherheitstechnischen Betreuung,
+
+9. Art der betriebsärztlichen Betreuung,
+
+10. Bewertung der Arbeitsschutzorganisation einschließlich
+
+a) der Unterweisung,
+
+b) der arbeitsmedizinischen Vorsorge und
+
+c) der Ersten Hilfe und sonstiger Notfallmaßnahmen,
+
+11. Bewertung der Gefährdungsbeurteilung einschließlich
+
+a) der Ermittlung von Gefährdungen und Festlegung von Maßnahmen,
+
+b) der Prüfung der Umsetzung der Maßnahmen und ihrer Wirksamkeit und
+
+c) der Dokumentation der Gefährdungen und Maßnahmen,
+
+12. Verwaltungshandeln in Form von Feststellungen, Anordnungen oder Bußgeldern.
+
+Die übertragenen Daten dürfen von den Unfallversicherungsträgern nur zur Erfüllung der in ihrer Zuständigkeit nach § 17 Absatz 1 des Siebten Buches Sozialgesetzbuch liegenden Aufgaben verarbeitet werden.
+
 (4) Die für den Arbeitsschutz zuständige oberste Landesbehörde kann mit Trägern der gesetzlichen Unfallversicherung vereinbaren, daß diese in näher zu bestimmenden Tätigkeitsbereichen die Einhaltung dieses Gesetzes, bestimmter Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen überwachen. In der Vereinbarung sind Art und Umfang der Überwachung sowie die Zusammenarbeit mit den staatlichen Arbeitsschutzbehörden festzulegen.
 
 (5) Soweit nachfolgend nichts anderes bestimmt ist, ist zuständige Behörde für die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen in den Betrieben und Verwaltungen des Bundes die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern, für Bau und Heimat. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallversicherung Bund und Bahn, die insoweit der Aufsicht des Bundesministeriums des Innern, für Bau und Heimat unterliegt; Aufwendungen werden nicht erstattet. Im öffentlichen Dienst im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur führt die Unfallversicherung Bund und Bahn, soweit die Eisenbahn-Unfallkasse bis zum 31. Dezember 2014 Träger der Unfallversicherung war, dieses Gesetz durch. Für Betriebe und Verwaltungen in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen führt das jeweilige Bundesministerium, soweit es jeweils zuständig ist, oder die von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im Geschäftsbereich des Bundesministeriums der Finanzen führt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation dieses Gesetz durch, soweit der Geschäftsbereich des ehemaligen Bundesministeriums für Post und Telekommunikation betroffen ist. Die Sätze 1 bis 4 gelten auch für Betriebe und Verwaltungen, die zur Bundesverwaltung gehören, für die aber eine Berufsgenossenschaft Träger der Unfallversicherung ist. Die zuständigen Bundesministerien können mit den Berufsgenossenschaften für diese Betriebe und Verwaltungen vereinbaren, daß das Gesetz von den Berufsgenossenschaften durchgeführt wird; Aufwendungen werden nicht erstattet.

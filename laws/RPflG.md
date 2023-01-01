@@ -35,7 +35,7 @@ c) Aufgebotsverfahren nach Buch 8 des Gesetzes über das Verfahren in Familiensa
 
 d) Pachtkreditsachen im Sinne des Pachtkreditgesetzes,
 
-e) Güterrechtsregistersachen nach den §§ 1558 bis 1563 des Bürgerlichen Gesetzbuchs sowie nach Buch 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, auch in Verbindung mit § 7 des Lebenspartnerschaftsgesetzes,
+e) (weggefallen)
 
 f) Urkundssachen einschließlich der Entgegennahme der Erklärung,
 
@@ -197,9 +197,9 @@ Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenhe
 
 9. die Anordnung einer Betreuung oder Pflegschaft auf Grund dienstrechtlicher Vorschriften, soweit hierfür das Familiengericht zuständig ist;
 
-10. die Anordnung einer Vormundschaft oder einer Pflegschaft über einen Angehörigen eines fremden Staates einschließlich der vorläufigen Maßregeln nach Artikel 24 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche;
+10. (weggefallen)
 
-11. die religiöse Kindererziehung betreffenden Maßnahmen nach § 1801 des Bürgerlichen Gesetzbuchs sowie den §§ 2, 3 und 7 des Gesetzes über die religiöse Kindererziehung;
+11. die religiöse Kindererziehung betreffenden Maßnahmen nach den §§ 2, 3 und 7 des Gesetzes über die religiöse Kindererziehung;
 
 12. die Ersetzung der Zustimmung
 
@@ -221,27 +221,25 @@ b) eines gesetzlichen Vertreters zu der Sorgeerklärung eines beschränkt gesch�
 
 (1) Von den Angelegenheiten, die dem Betreuungsgericht übertragen sind, bleiben dem Richter vorbehalten:
 
-1. Verrichtungen auf Grund der §§ 1896 bis 1900, 1908a und 1908b Absatz 1, 2 und 5 des Bürgerlichen Gesetzbuchs sowie die anschließende Bestellung eines neuen Betreuers;
+1. Verrichtungen aufgrund der §§ 1814 bis 1816, 1817 Absatz 1 bis 4, der §§ 1818, 1819, 1820 Absatz 3 bis 5 und des § 1868 Absatz 1 bis 4 und 7 des Bürgerlichen Gesetzbuchs sowie die anschließende Bestellung eines neuen Betreuers;
 
-2. die Bestellung eines neuen Betreuers im Fall des Todes des Betreuers nach § 1908c des Bürgerlichen Gesetzbuchs;
+2. die Bestellung eines neuen Betreuers im Fall des Todes des Betreuers nach § 1869 des Bürgerlichen Gesetzbuchs;
 
-3. Verrichtungen auf Grund des § 1908d des Bürgerlichen Gesetzbuchs, des § 291 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
+3. Verrichtungen auf Grund des § 1871 des Bürgerlichen Gesetzbuchs, des § 291 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
 
-4. Verrichtungen auf Grund der §§ 1903 bis 1905 des Bürgerlichen Gesetzbuchs;
+4. Verrichtungen auf Grund der §§ 1825, 1829 und 1830 des Bürgerlichen Gesetzbuchs;
 
-5. die Anordnung einer Betreuung oder Pflegschaft über einen Angehörigen eines fremden Staates einschließlich der vorläufigen Maßregeln nach Artikel 24 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche;
+5. (weggefallen)
 
 6. die Anordnung einer Betreuung oder Pflegschaft auf Grund dienstrechtlicher Vorschriften;
 
-7. die Entscheidungen nach § 1908i Absatz 1 Satz 1 in Verbindung mit § 1632 Absatz 1 bis 3, § 1797 Absatz 1 Satz 2 und § 1798 des Bürgerlichen Gesetzbuchs;
+7. die Entscheidung nach § 1834 des Bürgerlichen Gesetzbuchs;
 
 8. die Genehmigung nach § 6 des Gesetzes über die freiwillige Kastration und andere Behandlungsmethoden;
 
 9. die Genehmigung nach § 3 Absatz 1 Satz 2 sowie nach § 6 Absatz 2 Satz 1, § 7 Absatz 3 Satz 2 und § 9 Absatz 3 Satz 1, jeweils in Verbindung mit § 3 Absatz 1 Satz 2 des Gesetzes über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen;
 
 10. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
-Satz 1 Nummer 1 bis 3 findet keine Anwendung, wenn die genannten Verrichtungen nur eine Betreuung nach § 1896 Absatz 3 des Bürgerlichen Gesetzbuchs betreffen.
 
 (2) Die Maßnahmen und Anordnungen nach den §§ 6 bis 12 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) bleiben dem Richter vorbehalten.
 
@@ -331,9 +329,9 @@ geregelten Geschäfte.
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in den vorstehenden Vorschriften bestimmten Richtervorbehalte ganz oder teilweise aufzuheben, soweit sie folgende Angelegenheiten betreffen:
 
-1. die Geschäfte nach § 14 Absatz 1 Nummer 9 und 10 sowie § 15 Absatz 1 Satz 1 Nummer 1 bis 6, soweit sie nicht die Entscheidung über die Anordnung einer Betreuung und die Festlegung des Aufgabenkreises des Betreuers auf Grund der §§ 1896 und 1908a des Bürgerlichen Gesetzbuchs sowie die Verrichtungen auf Grund der §§ 1903 bis 1905 und 1908d des Bürgerlichen Gesetzbuchs und von § 278 Absatz 5 und § 283 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit betreffen;
+1. die Geschäfte nach § 14 Absatz 1 Nummer 9 sowie § 15 Absatz 1 Nummer 1 bis 6, soweit sie nicht die Entscheidung über die Anordnung einer Betreuung und die Festlegung des Aufgabenkreises des Betreuers aufgrund der §§ 1814, 1815 und 1820 Absatz 3 des Bürgerlichen Gesetzbuchs sowie die Verrichtungen aufgrund des § 1820 Absatz 4 und 5, der §§ 1825, 1829 und 1830 und 1871 des Bürgerlichen Gesetzbuchs und von § 278 Absatz 5 und § 283 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit betreffen;
 
-2. die Geschäfte nach § 16 Absatz 1 Nummer 1, soweit sie den nach § 14 Absatz 1 Nummer 9 und 10 dieses Gesetzes ausgeschlossenen Geschäften in Kindschaftssachen entsprechen;
+2. die Geschäfte nach § 16 Absatz 1 Nummer 1, soweit sie den nach § 14 Absatz 1 Nummer 9 dieses Gesetzes ausgeschlossenen Geschäften in Kindschaftssachen entsprechen;
 
 3. die Geschäfte nach § 16 Absatz 1 Nummer 2;
 
@@ -347,7 +345,7 @@ Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen
 
 (2) In der Verordnung nach Absatz 1 ist vorzusehen, dass der Rechtspfleger das Verfahren dem Richter zur weiteren Bearbeitung vorzulegen hat, soweit bei den Geschäften nach Absatz 1 Satz 1 Nummer 2 bis 5 gegen den Erlass der beantragten Entscheidung Einwände erhoben werden.
 
-(3) Soweit von der Ermächtigung nach Absatz 1 Nummer 1 hinsichtlich der Auswahl und Bestellung eines Betreuers Gebrauch gemacht wird, sind die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die Bestellung eines Betreuers auch für die Anordnung einer Betreuung und Festlegung des Aufgabenkreises des Betreuers nach § 1896 des Bürgerlichen Gesetzbuchs anzuwenden.
+(3) Soweit von der Ermächtigung nach Absatz 1 Nummer 1 hinsichtlich der Auswahl und Bestellung eines Betreuers Gebrauch gemacht wird, sind die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die Bestellung eines Betreuers auch für die Anordnung einer Betreuung und Festlegung des Aufgabenkreises des Betreuers nach den §§ 1814 und 1815 des Bürgerlichen Gesetzbuchs anzuwenden.
 
 # § 19a – Verfahren nach dem internationalen Insolvenzrecht
 
@@ -649,13 +647,13 @@ Auf die nach den §§ 29 und 31 dem Rechtspfleger übertragenen Geschäfte sind 
 
 (2) Mit den Aufgaben eines Rechtspflegers kann auch ein Beamter des Justizdienstes betraut werden, der im Lande Baden-Württemberg die Befähigung zum Amt des Bezirksnotars erworben hat.
 
-(3) Nimmt ein Beamter des Justizdienstes nach Absatz 2 Aufgaben nach § 3 Nummer 2 Buchstabe b, c oder i wahr, gelten weder § 15 Absatz 1 Satz 1 Nummer 1 bis 3 und 5 noch § 16. Dem Richter bleiben vorbehalten:
+(3) Nimmt ein Beamter des Justizdienstes nach Absatz 2 Aufgaben nach § 3 Nummer 2 Buchstabe b, c oder i wahr, gelten weder § 15 Absatz 1 Nummer 1 bis 3 noch § 16. Dem Richter bleiben vorbehalten:
 
 1. die Anordnung einer Vorführung nach § 278 Absatz 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 2. die Anordnung, Erweiterung oder Aufhebung eines Einwilligungsvorbehalts und
 
-3. der Erlass einer Maßregel in Bezug auf eine Untersuchung des Gesundheitszustandes, auf eine Heilbehandlung oder einen ärztlichen Eingriff nach § 1908i Absatz 1 Satz 1 und § 1915 Absatz 1 jeweils in Verbindung mit § 1846 des Bürgerlichen Gesetzbuchs.
+3. der Erlass einer Maßregel in Bezug auf eine Untersuchung des Gesundheitszustandes, auf eine Heilbehandlung oder einen ärztlichen Eingriff nach § 1867 auch in Verbindung mit § 1888 Absatz 1 des Bürgerlichen Gesetzbuchs.
 
 # § 33a – Übergangsregelung für die Jugendstrafvollstreckung
 

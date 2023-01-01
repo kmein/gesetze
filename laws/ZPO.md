@@ -315,7 +315,7 @@ Umfang der Prozessfähigkeit
 
 § 53
 
-Prozessunfähigkeit bei Betreuung oder Pflegschaft
+Prozessfähigkeit bei rechtlicher Betreuung
 
 § 54
 
@@ -936,6 +936,10 @@ Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung
 § 170
 
 Zustellung an Vertreter
+
+§ 170a
+
+Zustellung bei rechtlicher Betreuung
 
 § 171
 
@@ -5485,15 +5489,17 @@ Die Vorschriften dieses Titels sind auf den Urkundsbeamten der Geschäftsstelle 
 
 (2) Das Verschulden eines gesetzlichen Vertreters steht dem Verschulden der Partei gleich.
 
-(3) Hat eine nicht prozessfähige Partei, die eine volljährige natürliche Person ist, wirksam eine andere natürliche Person schriftlich mit ihrer gerichtlichen Vertretung bevollmächtigt, so steht diese Person einem gesetzlichen Vertreter gleich, wenn die Bevollmächtigung geeignet ist, gemäß § 1896 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs die Erforderlichkeit einer Betreuung entfallen zu lassen.
+(3) Hat eine nicht prozessfähige Partei, die eine volljährige natürliche Person ist, wirksam eine andere natürliche Person schriftlich mit ihrer gerichtlichen Vertretung bevollmächtigt, so steht diese Person einem gesetzlichen Vertreter gleich, wenn die Bevollmächtigung geeignet ist, gemäß § 1814 Absatz 3 Satz 2 Nummer 1 des Bürgerlichen Gesetzbuchs die Erforderlichkeit einer Betreuung entfallen zu lassen.
 
 # § 52 – Umfang der Prozessfähigkeit
 
-(1) Eine Person ist insoweit prozessfähig, als sie sich durch Verträge verpflichten kann.
+Eine Person ist insoweit prozessfähig, als sie sich durch Verträge verpflichten kann.
 
-# § 53 – Prozessunfähigkeit bei Betreuung oder Pflegschaft
+# § 53 – Prozessfähigkeit bei rechtlicher Betreuung
 
-Wird in einem Rechtsstreit eine prozessfähige Person durch einen Betreuer oder Pfleger vertreten, so steht sie für den Rechtsstreit einer nicht prozessfähigen Person gleich.
+(1) Bei Personen, für die ein Betreuer bestellt ist, richtet sich die Prozessfähigkeit nach den allgemeinen Vorschriften.
+
+(2) Wird ein Betreuter in einem Rechtsstreit durch einen Betreuer vertreten, kann der Betreuer in jeder Lage des Verfahrens gegenüber dem Prozessgericht schriftlich oder zu Protokoll der Geschäftsstelle erklären, dass der Rechtsstreit fortan ausschließlich durch ihn geführt wird (Ausschließlichkeitserklärung). Mit Eingang der Ausschließlichkeitserklärung steht der Betreute für den weiteren Rechtsstreit einer nicht prozessfähigen Person gleich. Der Betreuer kann die Ausschließlichkeitserklärung jederzeit mit Wirkung für die Zukunft zurücknehmen.
 
 # § 53a – (weggefallen)
 
@@ -6508,6 +6514,12 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 (3) Bei mehreren gesetzlichen Vertretern oder Leitern genügt die Zustellung an einen von ihnen.
 
+# § 170a – Zustellung bei rechtlicher Betreuung
+
+(1) Wird an eine Person zugestellt, für die ein Betreuer bestellt ist, ist diesem eine Abschrift des zugestellten Dokuments mitzuteilen, soweit er bekannt ist und sein Aufgabenkreis betroffen ist.
+
+(2) Wird nach § 170 Absatz 1 an den Betreuer zugestellt, ist dem Betreuten eine Abschrift des zugestellten Dokuments mitzuteilen.
+
 # § 171 – Zustellung an Bevollmächtigte
 
 An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an den Vertretenen zugestellt werden. Der Vertreter hat eine schriftliche Vollmacht vorzulegen.
@@ -6524,15 +6536,17 @@ An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an
 
 (2) Einen sicheren Übermittlungsweg für die elektronische Zustellung eines elektronischen Dokuments haben zu eröffnen:
 
-1. Rechtsanwälte, Notare, Gerichtsvollzieher sowie
+1. Rechtsanwälte, Notare, Gerichtsvollzieher, Steuerberater sowie
 
 2. Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
 
-Steuerberater und sonstige in professioneller Eigenschaft am Prozess beteiligte Personen, Vereinigungen und Organisationen, bei denen von einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
+Sonstige in professioneller Eigenschaft am Prozess beteiligte Personen, Vereinigungen und Organisationen, bei denen von einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
 
 (3) Die elektronische Zustellung an die in Absatz 2 Genannten wird durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das Gericht zu übermitteln ist. Für die Übermittlung ist der vom Gericht mit der Zustellung zur Verfügung gestellte strukturierte Datensatz zu verwenden. Stellt das Gericht keinen strukturierten Datensatz zur Verfügung, so ist dem Gericht das elektronische Empfangsbekenntnis als elektronisches Dokument (§ 130a) zu übermitteln.
 
 (4) An andere als die in Absatz 2 Genannten kann ein elektronisches Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben. Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als erteilt. Andere als natürliche Personen können die Zustimmung auch allgemein erteilen. Ein elektronisches Dokument gilt am dritten Tag nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
+
+§ 173 Abs. 2 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde die Schreibweise des Wortes "sonstige" durch "Sonstige" ersetzt
 
 # § 174 – Zustellung durch Aushändigung an der Amtsstelle
 
@@ -10302,7 +10316,7 @@ Zur Zwangsvollstreckung in das Gesellschaftsvermögen einer nach § 705 des Bür
 
 # § 741 – Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
 
-Betreibt ein Ehegatte oder Lebenspartner, der in Gütergemeinschaft lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten oder Lebenspartners gegen den Betrieb des Erwerbsgeschäfts oder der Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister eingetragen war.
+Betreibt ein Ehegatte, der in Gütergemeinschaft lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so genügt zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes Urteil.
 
 # § 742 – Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
 
