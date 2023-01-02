@@ -1,14 +1,14 @@
 % Verordnung zur Verlängerung der Zugangserleichterungen für den Bezug von Kurzarbeitergeld  (Kurzarbeitergeldzugangsverordnung - KugZuV)
-% Ausfertigungsdatum: 23.06.2022
+% Ausfertigungsdatum: 19.12.2022
  
-# Eingangsformel
+# § 1 – Erleichterter Zugang zum Kurzarbeitergeld
 
-Auf Grund des § 421c Absatz 5 des Dritten Buches Sozialgesetzbuch – Arbeitsförderung –, der durch Artikel 1 Nummer 4 des Gesetzes vom 23. März 2022 (BGBl. I S. 482) eingefügt worden ist, verordnet die Bundesregierung:
+(1) Das Kurzarbeitergeld wird bis zum Ablauf des 30. Juni 2023 mit den Maßgaben der Absätze 2 und 3 geleistet.
 
-# § 1 – Verlängerung des erleichterten Zugangs zum Kurzarbeitergeld nach § 421c Absatz 4 des Dritten Buches Sozialgesetzbuch
+(2) Abweichend von § 96 Absatz 1 Satz 1 Nummer 4 des Dritten Buches Sozialgesetzbuch wird der Anteil der in dem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die im jeweiligen Kalendermonat (Anspruchszeitraum) von einem Entgeltausfall von jeweils mehr als 10 Prozent ihres monatlichen Bruttoentgelts betroffen sind, auf mindestens 10 Prozent herabgesetzt.
 
-Die in § 421c Absatz 4 Satz 1 des Dritten Buches Sozialgesetzbuch genannte Frist wird bis zum Ablauf des 31. Dezember 2022 verlängert.
+(3) § 96 Absatz 4 Satz 2 Nummer 3 des Dritten Buches Sozialgesetzbuch gilt nicht für den Aufbau negativer Arbeitszeitsalden.
 
-# § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. Juli 2022 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2022 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 30. Juni 2023 außer Kraft.
