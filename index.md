@@ -37,7 +37,6 @@
 - [ABZusGrBrückVtrCESG](laws/ABZusGrBrückVtrCESG.md) Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusGrBrückVtrCESNotw](laws/ABZusGrBrückVtrCESNotw.md) Verbalnote zum Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusPolAbkG](laws/ABZusPolAbkG.md) Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig
-- [AckerBoSaatV 2022](laws/AckerBoSaatV_2022.md) Verordnung über besondere Anforderungen an Saatgut von Ackerbohnen im Rahmen der Saatgutanerkennung 2022
 - [AdenauerHStiftG](laws/AdenauerHStiftG.md) Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
 - [AdG](laws/AdG.md) Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 - [AdKG](laws/AdKG.md) Gesetz zur Errichtung der Akademie der Künste
@@ -68,6 +67,7 @@
 - [AELV 2020](laws/AELV_2020.md) Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2020
 - [AELV 2021](laws/AELV_2021.md) Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2021
 - [AELV 2022](laws/AELV_2022.md) Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2022
+- [AELV 2023](laws/AELV_2023.md) Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2023
 - [ÄndSchnAusbV](laws/ÄndSchnAusbV.md) Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
 - [AEntG](laws/AEntG.md) Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen
 - [AEntGMeldStellV](laws/AEntGMeldStellV.md) Verordnung zur Bestimmung der zuständigen Behörde bei Mitteilungen und Anmeldungen nach dem Arbeitnehmer-Entsendegesetz
@@ -113,7 +113,6 @@
 - [AgrarservMeistPrV](laws/AgrarservMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin
 - [AgrarZahlVerpflG](laws/AgrarZahlVerpflG.md) Gesetz zur Regelung der Einhaltung von Anforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
 - [AgrarZahlVerpflV](laws/AgrarZahlVerpflV.md) Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
-- [AgrStatEBV 2021](laws/AgrStatEBV_2021.md) Verordnung zur Erhebung agrarstatistischer Daten für die Emissionsberichterstattung
 - [AgrStatG](laws/AgrStatG.md) Gesetz über Agrarstatistiken
 - [AgrStatV](laws/AgrStatV.md) Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung des Kreises der zu Befragenden nach dem Agrarstatistikgesetz
 - [AgrStruktGÄndG](laws/AgrStruktGÄndG.md) Gesetz zur Änderung des Gesetzes über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
@@ -350,7 +349,6 @@
 - [AusbBerAufhV 3](laws/AusbBerAufhV_3.md) Dritte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 - [AusbBerAufhV 4](laws/AusbBerAufhV_4.md) Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 - [AusbBerAufhV 5](laws/AusbBerAufhV_5.md) Fünfte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
-- [AusbDienstLArbbV5](laws/AusbDienstLArbbV5.md) Fünfte Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [AusbEignMedPharmV](laws/AusbEignMedPharmV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Medizinischen, Zahnmedizinischen und Tiermedizinischen Fachangestellten sowie der Pharmazeutisch-kaufmännischen Angestellten
 - [AusbEignV 2009](laws/AusbEignV_2009.md) Ausbilder-Eignungsverordnung
 - [AusbErstV](laws/AusbErstV.md) Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei Ausführung der Ausbildungsvermittlung
@@ -646,7 +644,6 @@
 - [BehWerkPrZustV](laws/BehWerkPrZustV.md) Verordnung über die Bestimmung der zuständigen Stelle für die Durchführung der Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen
 - [BehZAbk](laws/BehZAbk.md) Zollabkommen über Behälter
 - [BeiratsV](laws/BeiratsV.md) Verordnung über die Errichtung eines Beirates für Ausbildungsförderung
-- [BeiSaV 2019](laws/BeiSaV_2019.md) Verordnung über die Erhebung von Beiträgen zur Arbeitsförderung nach einem niedrigeren Beitragssatz für die Kalenderjahre 2019 bis 2022
 - [BeitrEntlG](laws/BeitrEntlG.md) Gesetz zur Entlastung der Beiträge in der gesetzlichen Krankenversicherung
 - [BeitrEntlKrG](laws/BeitrEntlKrG.md) Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung
 - [BeitrLV 2005](laws/BeitrLV_2005.md) Verordnung zur Bestimmung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für 2005
@@ -900,7 +897,6 @@
 - [BKrFQV](laws/BKrFQV.md) Verordnung zur Durchführung des Berufskraftfahrerqualifikationsgesetzes
 - [BKrFQVAbluaÄndVBer](laws/BKrFQVAbluaÄndVBer.md) Berichtigung der Verordnung zur Ablösung der Berufskraftfahrer-Qualifikations-Verordnung und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften
 - [BKRG](laws/BKRG.md) Bundeskrebsregisterdatengesetz
-- [BKRKleinBeihBReg 2022](laws/BKRKleinBeihBReg_2022.md) Regelung zur vorübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich der Bundesrepublik Deutschland auf der Grundlage des Befristeten Krisenrahmens (BKR) der Europäischen Kommission für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine
 - [BKV](laws/BKV.md) Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
 - [BKV](laws/BKV.md) Berufskrankheiten-Verordnung
 - [BKWid/BVtrAnO](laws/BKWid_BVtrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz von Beschäftigten des Bundeskanzleramtes
@@ -1189,7 +1185,6 @@
 - [BSWAG](laws/BSWAG.md) Gesetz über den Ausbau der Schienenwege des Bundes
 - [BTÄO](laws/BTÄO.md) Bundes-Tierärzteordnung
 - [BTBerlinBek](laws/BTBerlinBek.md) Bekanntmachung über die Arbeitsfähigkeit des Deutschen Bundestages in Berlin
-- [BtBG](laws/BtBG.md) Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger
 - [BTBRGGO](laws/BTBRGGO.md) Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
 - [BTBRGGOÄndErgBek 1990](laws/BTBRGGOÄndErgBek_1990.md) Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur Änderung der Gemeinsamen Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß), den der Bundesrat am 12. Oktober 1990 zustimmend zur Kenntnis genommen hat
 - [BTEpiFortbestBek](laws/BTEpiFortbestBek.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
@@ -1224,6 +1219,7 @@
 - [BtMVV](laws/BtMVV.md) Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln
 - [BtOG](laws/BtOG.md) Betreuungsorganisationsgesetz
 - [BTPräsAmtsbezAnO](laws/BTPräsAmtsbezAnO.md) Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung
+- [BtRegV](laws/BtRegV.md) Verordnung über die Registrierung von beruflichen Betreuern
 - [BTVBhHFZustAnO](laws/BTVBhHFZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten der Verwaltung des Deutschen Bundestages im Widerspruchsverfahren und über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe und der Heilfürsorge
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
 - [BuchBMstrV](laws/BuchBMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Buchbinder-Handwerk
@@ -1279,8 +1275,6 @@
 - [BVollzVergV](laws/BVollzVergV.md) Bundesvollziehungsvergütungsverordnung
 - [BVSAuflG](laws/BVSAuflG.md) Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz
 - [BVV](laws/BVV.md) Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung des Gesamtsozialversicherungsbeitrages
-- [BVwAAufgUAnO 1968](laws/BVwAAufgUAnO_1968.md) Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
-- [BVwAAufgÜAnO 1969](laws/BVwAAufgÜAnO_1969.md) Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
 - [BVwAAufgÜAnO 1992](laws/BVwAAufgÜAnO_1992.md) Anordnung betreffend die Übertragung von Aufgaben auf das Bundesverwaltungsamt
 - [BVwADisRZustAnO](laws/BVwADisRZustAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts auf das Bundesverwaltungsamt
 - [BVwAG](laws/BVwAG.md) Gesetz über die Errichtung des Bundesverwaltungsamtes
@@ -1346,15 +1340,13 @@
 - [CLNIG](laws/CLNIG.md) Gesetz zu dem Straßburger Übereinkommen vom 4. November 1988 über die Beschränkung der Haftung in der Binnenschiffahrt (CLNI)
 - [CMRG](laws/CMRG.md) Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
 - [CMRProt](laws/CMRProt.md) Protokoll zum Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr
+- [CO2KostAufG](laws/CO2KostAufG.md) Gesetz zur Aufteilung der Kohlendioxidkosten
 - [ComKrimÜbkG](laws/ComKrimÜbkG.md) Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität
 - [ContrPrV](laws/ContrPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
-- [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
-- [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
-- [COV19EFreistVerlV](laws/COV19EFreistVerlV.md) Verordnung zur Verlängerung der vorübergehenden Freistellung von Einkommen aus Tätigkeiten BAföG-Geförderter in systemrelevanten Branchen aus Anlass der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
 - [CSC](laws/CSC.md) Internationales Übereinkommen über sichere Container
 - [CSCG](laws/CSCG.md) Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
@@ -1555,7 +1547,6 @@
 - [DSiegelErl](laws/DSiegelErl.md) Erlaß über die Dienstsiegel
 - [DSLBSa](laws/DSLBSa.md) Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)
 - [DSLBUmwG](laws/DSLBUmwG.md) Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft
-- [DSPV](laws/DSPV.md) Verordnung zur Berechnung der durchschnittlichen Strompreise für die Besondere Ausgleichsregelung nach dem Erneuerbare-Energien-Gesetz
 - [DSÜbk](laws/DSÜbk.md) Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten
 - [DSÜbkG](laws/DSÜbkG.md) Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten
 - [DtA-VÜG](laws/DtA-VÜG.md) Gesetz zur Übertragung des Vermögens der Deutschen Ausgleichsbank auf die Kreditanstalt für Wiederaufbau
@@ -1599,7 +1590,6 @@
 - [EBeV 2022](laws/EBeV_2022.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2021 und 2022
 - [EBeV 2030](laws/EBeV_2030.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2023 bis 2030
 - [EBIG](laws/EBIG.md) Gesetz zur Europäischen Bürgerinitiative
-- [EBIZustV](laws/EBIZustV.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 5 des Gesetzes zur Europäischen Bürgerinitiative
 - [EBKrG](laws/EBKrG.md) Gesetz über Kreuzungen von Eisenbahnen und Straßen
 - [EBO](laws/EBO.md) Eisenbahn-Bau- und Betriebsordnung
 - [EBPensNOG](laws/EBPensNOG.md) Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
@@ -1627,7 +1617,6 @@
 - [EdlStFAusbV](laws/EdlStFAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin
 - [EdSchleifAusbV](laws/EdSchleifAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin*
 - [EdWBeitrV](laws/EdWBeitrV.md) Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau
-- [EEAV](laws/EEAV.md) Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung
 - [EEG 2023](laws/EEG_2023.md) Gesetz für den Ausbau erneuerbarer Energien*)
 - [EEMD-ZV](laws/EEMD-ZV.md) Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 - [EEMD-ZVAnl I](laws/EEMD-ZVAnl_I.md) Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
@@ -1698,7 +1687,7 @@
 - [EiMarktV](laws/EiMarktV.md) Verordnung über Vermarktungsnormen für Eier
 - [EinbTestV](laws/EinbTestV.md) Verordnung zu Einbürgerungstest und Einbürgerungskurs
 - [EinglMindV](laws/EinglMindV.md) Verordnung über die Mindestanforderungen an die Vereinbarungen über Leistungen der Eingliederung nach dem Zweiten Buch Sozialgesetzbuch
-- [EinglMV 2022](laws/EinglMV_2022.md) Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2022
+- [EinglMV 2023](laws/EinglMV_2023.md) Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2023
 - [EinhEuA](laws/EinhEuA.md) Einheitliche Europäische Akte
 - [EinhV](laws/EinhV.md) Ausführungsverordnung zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
 - [EinhZeitG](laws/EinhZeitG.md) Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
@@ -1755,6 +1744,7 @@
 - [EnergieStG](laws/EnergieStG.md) Energiesteuergesetz
 - [EnergieStV](laws/EnergieStV.md) Verordnung zur Durchführung des Energiesteuergesetzes
 - [ENeuOG](laws/ENeuOG.md) Gesetz zur Neuordnung des Eisenbahnwesens
+- [EnFG](laws/EnFG.md) Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen
 - [EnLAG](laws/EnLAG.md) Gesetz zum Ausbau von Energieleitungen
 - [EnSiG](laws/EnSiG.md) Gesetz zur Sicherung der Energieversorgung
 - [EnSiGEntschV](laws/EnSiGEntschV.md) Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz
@@ -1818,6 +1808,7 @@
 - [ERPWiPlanG 1968](laws/ERPWiPlanG_1968.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1968
 - [ERPWiPlanG 1969](laws/ERPWiPlanG_1969.md) Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969
 - [ERPWiPlanG 2022](laws/ERPWiPlanG_2022.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2022
+- [ERPWiPlanG 2023](laws/ERPWiPlanG_2023.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2023
 - [ErstAnzV](laws/ErstAnzV.md) Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen
 - [ErstrG](laws/ErstrG.md) Gesetz über die Erstreckung von gewerblichen Schutzrechten
 - [ERVDPMAV](laws/ERVDPMAV.md) Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
@@ -2664,6 +2655,7 @@
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
+- [Haushaltsgesetz 2023](laws/Haushaltsgesetz_2023.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2023
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
 - [HaWiAusbV](laws/HaWiAusbV.md) Verordnung über die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
@@ -2880,6 +2872,7 @@
 - [InsoGeldFestV 2019](laws/InsoGeldFestV_2019.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2019
 - [InsoGeldFestV 2020](laws/InsoGeldFestV_2020.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2020
 - [InsoGeldFestV 2022](laws/InsoGeldFestV_2022.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2022
+- [InsoGeldFestV 2023](laws/InsoGeldFestV_2023.md) Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2023
 - [InsoKostV](laws/InsoKostV.md) Verordnung über die Pauschalierung der sonstigen Kosten für die Erbringung von Insolvenzgeld
 - [InsStatG](laws/InsStatG.md) Gesetz über die Insolvenz- und Restrukturierungsstatistik
 - [InstallateurHeizungsbauerMstrV](laws/InstallateurHeizungsbauerMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk
@@ -3245,8 +3238,8 @@
 - [KrWG](laws/KrWG.md) Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 - [KryptoFAV](laws/KryptoFAV.md) Verordnung über Kryptofondsanteile *
 - [KryptoWTransferV](laws/KryptoWTransferV.md) Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten
-- [KSAbg2021V](laws/KSAbg2021V.md) Künstlersozialabgabe-Verordnung 2021
 - [KSAbg2022V](laws/KSAbg2022V.md) Künstlersozialabgabe-Verordnung 2022
+- [KSAbg2023V](laws/KSAbg2023V.md) Künstlersozialabgabe-Verordnung 2023
 - [KSchG](laws/KSchG.md) Kündigungsschutzgesetz
 - [KSEVtr](laws/KSEVtr.md) Vertrag über Konventionelle Streitkräfte in Europa
 - [KSEVtrAG](laws/KSEVtrAG.md) Ausführungsgesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkräfte in Europa (KSE-Vertrag)
@@ -3382,7 +3375,7 @@
 - [LogAPrO](laws/LogAPrO.md) Ausbildungs- und Prüfungsordnung für Logopäden
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG.md) Gesetz über den Beruf des Logopäden
-- [LohnUGAÜV 4](laws/LohnUGAÜV_4.md) Vierte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
+- [LohnUGAÜV 5](laws/LohnUGAÜV_5.md) Fünfte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 - [LorbBlErl 2013](laws/LorbBlErl_2013.md) Erlass über die Stiftung des Silbernen Lorbeerblattes
 - [LottStVereinfV](laws/LottStVereinfV.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 - [LPachtVG](laws/LPachtVG.md) Gesetz über die Anzeige und Beanstandung von Landpachtverträgen
@@ -3542,6 +3535,7 @@
 - [LuftVStAbsenkV 2020](laws/LuftVStAbsenkV_2020.md) Verordnung zur Absenkung der Steuersätze im Jahr 2020 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStAbsenkV 2021](laws/LuftVStAbsenkV_2021.md) Verordnung zur Absenkung der Steuersätze im Jahr 2021 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStAbsenkV 2022](laws/LuftVStAbsenkV_2022.md) Verordnung zur Absenkung der Steuersätze im Jahr 2022 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
+- [LuftVStAbsenkV 2023](laws/LuftVStAbsenkV_2023.md) Verordnung zur Absenkung der Steuersätze im Jahr 2023 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStDV](laws/LuftVStDV.md) Verordnung zur Durchführung des Luftverkehrsteuergesetzes
 - [LuftVStFestV 2014](laws/LuftVStFestV_2014.md) Verordnung zur Festlegung der Steuersätze im Jahr 2014 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStFestV 2015](laws/LuftVStFestV_2015.md) Verordnung zur Festlegung der Steuersätze im Jahr 2015 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
@@ -3758,15 +3752,13 @@
 - [MStaatÜbk](laws/MStaatÜbk.md) Übereinkommen über die Verringerung der Mehrstaatigkeit und über die Wehrpflicht von Mehrstaatern
 - [MStDVDV](laws/MStDVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Steuerdienst des Bundes
 - [MsV](laws/MsV.md) Verordnung über den Inhalt und das Verfahren zur Erstellung und zur Anpassung von Mietspiegeln sowie zur Konkretisierung der Grundsätze für qualifizierte Mietspiegel
-- [MTA-APrV](laws/MTA-APrV.md) Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin
-- [MTAG](laws/MTAG.md) Gesetz über technische Assistenten in der Medizin
+- [MTAPrV](laws/MTAPrV.md) Ausbildungs- und Prüfungsverordnung für Medizinische Technologinnen und Medizinische Technologen 1
 - [MTBG](laws/MTBG.md) Gesetz über die Berufe in der medizinischen Technologie
 - [MtDFmEloAufklVDV](laws/MtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
 - [MTSKraftV](laws/MTSKraftV.md) Verordnung zur Markttransparenzstelle für Kraftstoffe
 - [MüG](laws/MüG.md) Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten
 - [MühGetreiWiTechAusbV](laws/MühGetreiWiTechAusbV.md) Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft*
 - [MüMstrV](laws/MüMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Müller-Handwerk
-- [MündelPfandBrV](laws/MündelPfandBrV.md) Verordnung über die Mündelsicherheit der Pfandbriefe und verwandten Schuldverschreibungen
 - [Münz100/200EuroBek](laws/Münz100_200EuroBek.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 und 200 Euro (Goldmünze "Übergang zur Währungsunion - Einführung des Euro")
 - [Münz100EuroBek](laws/Münz100EuroBek.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Weltkulturerbestadt Quedlinburg")
 - [Münz100EuroBek 2004](laws/Münz100EuroBek_2004.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO-Weltkulturerbestadt Bamberg")
@@ -4428,15 +4420,12 @@
 - [PharmKfmAusbV 2012](laws/PharmKfmAusbV_2012.md) Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten*)
 - [PharmRefPrV](laws/PharmRefPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
 - [PharmStV](laws/PharmStV.md) Verordnung über Stoffe mit pharmakologischer Wirkung
-- [PharmTAG](laws/PharmTAG.md) Gesetz über den Beruf des pharmazeutisch-technischen Assistenten
 - [PHöchstMengV](laws/PHöchstMengV.md) Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln
 - [PhysLabAusbV](laws/PhysLabAusbV.md) Verordnung über die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
 - [PhysTh-APrV](laws/PhysTh-APrV.md) Ausbildungs- und Prüfungsverordnung für Physiotherapeuten
 - [PIDV](laws/PIDV.md) Verordnung zur Regelung der Präimplantationsdiagnostik
 - [PKDBSa](laws/PKDBSa.md) Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
 - [PKDBV](laws/PKDBV.md) Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
-- [PKEV 2022](laws/PKEV_2022.md) Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
-- [PKEV 2022 2](laws/PKEV_2022_2.md) Zweite Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
 - [PKGrG](laws/PKGrG.md) Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes
 - [PKHB 2011](laws/PKHB_2011.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2012](laws/PKHB_2012.md) Bekanntmachung zu § 115 der Zivilprozessordnung
@@ -4554,6 +4543,7 @@
 - [PSA-DG](laws/PSA-DG.md) Gesetz zur Durchführung der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen (PSA) und zur Aufhebung der Richtlinie 89/686/EWG des Rates
 - [PSG](laws/PSG.md) Gesetz zur Sicherstellung von Postdienstleistungen in besonderen Fällen
 - [PStG](laws/PStG.md) Personenstandsgesetz
+- [PStTG](laws/PStTG.md) Gesetz über die Meldepflicht und den automatischen Austausch von Informationen meldender Plattformbetreiber in Steuersachen
 - [PStV](laws/PStV.md) Verordnung zur Ausführung des Personenstandsgesetzes
 - [PsychKVVerbG](laws/PsychKVVerbG.md) Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker
 - [PsychotrStÜbk](laws/PsychotrStÜbk.md) Übereinkommen von 1971 über psychotrope Stoffe
@@ -4563,6 +4553,7 @@
 - [PsychThG/SGB5uaÄndG](laws/PsychThG_SGB5uaÄndG.md) Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches Sozialgesetzbuch und anderer Gesetze
 - [PsychThV](laws/PsychThV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie
 - [PTA-APrV](laws/PTA-APrV.md) Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten
+- [PTAG](laws/PTAG.md) Gesetz über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten
 - [PTBBGebV](laws/PTBBGebV.md) Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt
 - [PTNeuOG](laws/PTNeuOG.md) Gesetz zur Neuordnung des Postwesens und der Telekommunikation
 - [PTStiftErnAnO](laws/PTStiftErnAnO.md) Anordnung zur Übertragung des Rechtes zur Ernennung und Entlassung der Beamten der Museumsstiftung Post und Telekommunikation
@@ -5090,6 +5081,7 @@
 - [SignBenennV](laws/SignBenennV.md) Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 - [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
+- [SiV](laws/SiV.md) Verordnung über die Anforderungen an Sicherheiten und die Anlage bestimmter Vermögen
 - [SKAG Berlin](laws/SKAG_Berlin.md) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
 - [SkAufG](laws/SkAufG.md) Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland
 - [SkAufV AUT](laws/SkAufV_AUT.md) Verordnung zu dem Abkommen vom 6. November 2007 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über den vorübergehenden Aufenthalt von Angehörigen der deutschen Bundeswehr und Angehörigen des österreichischen Bundesheeres auf dem Gebiet des jeweils anderen Staats
@@ -5301,6 +5293,7 @@
 - [StBerFAngEignV](laws/StBerFAngEignV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten im Bereich der Steuerberatung
 - [StBerG](laws/StBerG.md) Steuerberatungsgesetz
 - [StBerGÄndG 3](laws/StBerGÄndG_3.md) Drittes Gesetz zur Änderung des Steuerberatungsgesetzes
+- [StBPPV](laws/StBPPV.md) Verordnung über die Steuerberaterplattform und die besonderen elektronischen Steuerberaterpostfächer
 - [StBVV](laws/StBVV.md) Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 - [STCW-Code](laws/STCW-Code.md) Entschließung 2 zu den Änderungen der Anlage des Internationalen Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 - [StDAV](laws/StDAV.md) Verordnung über den automatisierten Abruf von Steuerdaten
@@ -5458,6 +5451,7 @@
 - [SVBezGrV 2019](laws/SVBezGrV_2019.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2019
 - [SVBezGrV 2020](laws/SVBezGrV_2020.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020
 - [SVBezGrV 2021](laws/SVBezGrV_2021.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2021
+- [SVBezGrV 2023](laws/SVBezGrV_2023.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2023
 - [SVDDRAuflG](laws/SVDDRAuflG.md) Gesetz über die Auflösung der Staatlichen Versicherung der Deutschen Demokratischen Republik in Abwicklung
 - [SVersLV](laws/SVersLV.md) Verordnung über nicht überführte Leistungen der Sonderversorgungssysteme der DDR
 - [SVertO](laws/SVertO.md) Gesetz über das Verfahren bei der Errichtung und Verteilung eines Fonds zur Beschränkung der Haftung in der See- und Binnenschiffahrt
@@ -5509,7 +5503,6 @@
 - [TechFachwPrV](laws/TechFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 - [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)
-- [TeleFinV 2022](laws/TeleFinV_2022.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2022
 - [TeleFinV 2023](laws/TeleFinV_2023.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2023
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
@@ -5648,9 +5641,9 @@
 - [TVMindestbedingungen FlWi 2](laws/TVMindestbedingungen_FlWi_2.md) Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021
 - [TVMindestlohn Gerüstb 7](laws/TVMindestlohn_Gerüstb_7.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021
 - [TVMindestlohn Steinmetz 4](laws/TVMindestlohn_Steinmetz_4.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
+- [TVMindestlohn VFlughSiK 2](laws/TVMindestlohn_VFlughSiK_2.md) Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfenvom 28. März 2022
 - [TVMindestlohnDachd 11](laws/TVMindestlohnDachd_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. Juli 2021
 - [TVMindestlohnGebäude 2022](laws/TVMindestlohnGebäude_2022.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022
-- [TVMindestlohnPäda 5](laws/TVMindestlohnPäda_5.md) Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
 - [TVöD](laws/TVöD.md) Tarifvertrag für den öffentlichen Dienst
 - [TWirtAusbStEignV 2005](laws/TWirtAusbStEignV_2005.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 - [TWirtAusbV 2005](laws/TWirtAusbV_2005.md) Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
@@ -5820,7 +5813,6 @@
 - [VbF](laws/VbF.md) Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten zu Lande
 - [VbrInsFV](laws/VbrInsFV.md) Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren
 - [VBVG](laws/VBVG.md) Gesetz über die Vergütung von Vormündern und Betreuern
-- [VBVG](laws/VBVG.md) Gesetz über die Vergütung von Vormündern und Betreuern
 - [VDG](laws/VDG.md) Vertrauensdienstegesetz
 - [VDV](laws/VDV.md) Verordnung zu Vertrauensdiensten 1, 2
 - [VEPPGewG](laws/VEPPGewG.md) Gesetz über die Gewährung einer einmaligen Energiepreispauschale an Versorgungsempfängerinnen und Versorgungsempfänger des Bundes
@@ -5834,7 +5826,6 @@
 - [VereinsG](laws/VereinsG.md) Gesetz zur Regelung des öffentlichen Vereinsrechts
 - [VereinsGDV](laws/VereinsGDV.md) Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts (Vereinsgesetz)
 - [VerfGlasAusbV](laws/VerfGlasAusbV.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
-- [VergMindV 2019](laws/VergMindV_2019.md) Verordnung zur Festsetzung eines vergabespezifischen Mindestentgelts für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch für die Kalenderjahre 2019 bis 2022
 - [VergMstrV](laws/VergMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk
 - [VergoldAusbV](laws/VergoldAusbV.md) Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin
 - [VergStatVO](laws/VergStatVO.md) Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen
@@ -5853,7 +5844,6 @@
 - [VerkPBG](laws/VerkPBG.md) Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen Ländern sowie im Land Berlin
 - [VerkSiG](laws/VerkSiG.md) Gesetz zur Sicherstellung des Verkehrs
 - [VerkStatG](laws/VerkStatG.md) Gesetz über die Statistik der See- und Binnenschifffahrt, des Güterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs
-- [VerkVereinfG](laws/VerkVereinfG.md) Gesetz über vereinfachte Verkündungen und Bekanntgaben
 - [VerlG](laws/VerlG.md) Gesetz über das Verlagsrecht
 - [VermAbk CHE](laws/VermAbk_CHE.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die deutschen Vermögenswerte in der Schweiz
 - [VermAbk PRT](laws/VermAbk_PRT.md) Abkommen über deutsche Vermögenswerte in Portugal
@@ -5947,7 +5937,7 @@
 - [VII151214](laws/VII151214.md) Verordnung zur Änderung des OCCAR-Übereinkommens vom 9. September 1998
 - [VISZG](laws/VISZG.md) Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem
 - [VKAbgG](laws/VKAbgG.md) Gesetz über Rechtsverhältnisse der Abgeordneten der Volkskammer der Deutschen Demokratischen Republik
-- [VkBkmG](laws/VkBkmG.md) Gesetz über die Verkündung von Rechtsverordnungen und Bekanntmachungen
+- [VkBkmG](laws/VkBkmG.md) Gesetz über die Verkündung von Gesetzen und Rechtsverordnungen und über Bekanntmachungen
 - [VkENOG](laws/VkENOG.md) Gesetz zur Neuordnung der Verantwortung in der kerntechnischen Entsorgung
 - [VKFV](laws/VKFV.md) Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung
 - [VKFVÄndBek 2019](laws/VKFVÄndBek_2019.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
@@ -6028,7 +6018,6 @@
 - [VwZG](laws/VwZG.md) Verwaltungszustellungsgesetz
 - [VZOG](laws/VZOG.md) Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen
 - [VZOZÜV](laws/VZOZÜV.md) Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsidenten der Oberfinanzdirektionen in den neuen Ländern nach dem Vermögenszuordnungsgesetz auf das Bundesamt zur Regelung offener Vermögensfragen
-- [VZVV](laws/VZVV.md) Verordnung zur Verlängerung des Zeitraums für das vereinfachte Verfahren für den Zugang zu den Grundsicherungssystemen und für den Mehrbedarf für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie
 - [Wabau-AusbV 2004](laws/Wabau-AusbV_2004.md) Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin
 - [WachszMstrV](laws/WachszMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wachszieher-Handwerk
 - [WährUmStAbschlG](laws/WährUmStAbschlG.md) Gesetz zum Abschluß der Währungsumstellung
@@ -6156,7 +6145,6 @@
 - [WissZeitVG](laws/WissZeitVG.md) Gesetz über befristete Arbeitsverträge in der Wissenschaft
 - [WiStrG 1954](laws/WiStrG_1954.md) Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
 - [WiVwAuflV](laws/WiVwAuflV.md) Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
-- [WM2022LärmSchV](laws/WM2022LärmSchV.md) Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Weltmeisterschaft 2022
 - [WMVO](laws/WMVO.md) Werkstätten-Mitwirkungsverordnung
 - [WO](laws/WO.md) Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes
 - [WoBauÄndG 1965](laws/WoBauÄndG_1965.md) Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der Zweckbestimmung von Sozialwohnungen
@@ -6624,6 +6612,7 @@
 - [2. RAV](laws/2._RAV.md) Zweite Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [2. SprengV](laws/2._SprengV.md) Zweite Verordnung zum Sprengstoffgesetz
 - [2. TreuhUntÜV](laws/2._TreuhUntÜV.md) Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nach dem Treuhandgesetz und von Unternehmensbeteiligungen der Bundesanstalt für vereinigungsbedingte Sonderaufgaben
+- [2. VFlughSiKArbbV](laws/2._VFlughSiKArbbV.md) Zweite Verordnung über zwingende Arbeitsbedingungen für Sicherheitskräfte an Verkehrsflughäfen
 - [2. WasSV](laws/2._WasSV.md) Zweite Wassersicherstellungsverordnung
 - [2. WindSeeV](laws/2._WindSeeV.md) Zweite Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes
 - [2. WOMitbestG](laws/2._WOMitbestG.md) Zweite Wahlordnung zum Mitbestimmungsgesetz

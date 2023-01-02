@@ -1,102 +1,188 @@
-% Gesetz über die Verkündung von Rechtsverordnungen und Bekanntmachungen  (Verkündungs- und Bekanntmachungsgesetz - VkBkmG)
-% Ausfertigungsdatum: 30.01.1950
+% Gesetz über die Verkündung von Gesetzen und Rechtsverordnungen und über Bekanntmachungen  (Verkündungs- und Bekanntmachungsgesetz - VkBkmG)
+% Ausfertigungsdatum: 20.12.2022
  
-# § 1 – Amtliche Verkündungs- und Bekanntmachungsorgane des Bundes
+# § 1 – Verkündungs- und Bekanntmachungsorgane des Bundes
 
-(1) Neben dem Bundesgesetzblatt dienen der Bundesanzeiger und das Verkehrsblatt der Verkündung von Rechtsverordnungen des Bundes sowie der Veröffentlichung amtlicher Bekanntmachungen.
+(1) Das Bundesgesetzblatt ist das Verkündungsorgan des Bundes für Gesetze und Rechtsverordnungen. Das Bundesgesetzblatt ist außerdem das Bekanntmachungsorgan des Bundes, wenn durch Rechtsvorschrift die amtliche Bekanntmachung im Bundesgesetzblatt vorgeschrieben ist.
 
-(2) Die Herausgabe eigener Bekanntmachungsorgane durch die Behörden des Bundes für Bekanntmachungen innerhalb ihres Zuständigkeitsbereichs bleibt unberührt.
+(2) Der Bundesanzeiger ist ein Bekanntmachungsorgan des Bundes. Er hat einen amtlichen Teil. Dieser ist bestimmt für
 
-# § 2 – Verkündung von Rechtsverordnungen
+1. andere als die in Absatz 1 Satz 2 genannten amtlichen Bekanntmachungen der Behörden des Bundes, einschließlich Ausschreibungen und Hinweise, und
 
-(1) Rechtsverordnungen des Bundes werden im Bundesgesetzblatt oder im Bundesanzeiger verkündet; sie werden vorbehaltlich anderer gesetzlicher Regelung im Bundesanzeiger verkündet, wenn der Verordnungsgeber feststellt, dass ihr unverzügliches Inkrafttreten wegen Gefahr im Verzug oder zur Durchführung oder Umsetzung von Rechtsakten der Europäischen Union erforderlich ist.
-
-(2) Rechtsverordnungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes können im Verkehrsblatt verkündet werden.
-
-(3) Auf Rechtsverordnungen, die im Bundesanzeiger oder im Verkehrsblatt verkündet werden, ist unter Angabe der Stelle ihrer Veröffentlichung und des Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt hinzuweisen.
-
-# § 3 – Verkündung von Verkehrstarifen
-
-(1) Die vom Bundesministerium für Verkehr und digitale Infrastruktur festgesetzten oder genehmigten Verkehrstarife einschließlich der Tarife der Spedition und Lagerei und der Abgabentarife der Schiffahrt können im Verkehrsblatt verkündet werden.
-
-(2) Der volle Wortlaut des Tarifes braucht nicht verkündet zu werden, sofern die genaue Bezeichnung des Tarifes, seine letzte Änderung, die Bezugsquelle und das Datum des Inkrafttretens sowie bei einem befristeten Tarif das Datum des Außerkrafttretens verkündet werden.
-
-# § 4 – Inkrafttreten der Rechtsverordnungen und Verkehrstarife
-
-(1) Rechtsverordnungen treten, falls sie nichts anderes bestimmen, mit dem vierzehnten Tag nach Ablauf des Tages in Kraft, an dem sie im Verkündungsorgan veröffentlicht worden sind.
-
-(2) Zu dem gleichen Zeitpunkt treten auch Verkehrstarife in Kraft, falls nichts anderes bestimmt ist.
-
-# § 5 – Bundesanzeiger
-
-(1) Der Bundesanzeiger wird vom Bundesministerium der Justiz und für Verbraucherschutz elektronisch herausgegeben. Er ist im Internet unter der Adresse
-
-vollständig und dauerhaft zur Abfrage bereitzuhalten. Jede Veröffentlichung des Bundesanzeigers weist auf diese Adresse hin.
-
-(2) Der Bundesanzeiger enthält einen amtlichen Teil. Der amtliche Teil ist bestimmt für
-
-1. die Verkündung von Rechtsverordnungen nach § 2 Absatz 1;
-
-2. sonstige amtliche Bekanntmachungen, Ausschreibungen und Hinweise der Behörden des Bundes und der Länder.
+2. amtliche Bekanntmachungen der Behörden der Länder, sofern die Bekanntmachung im amtlichen Teil des Bundesanzeigers durch Bundesgesetz oder Rechtsverordnung des Bundes vorgeschrieben ist.
 
 Der Bundesanzeiger kann weitere Teile für andere Bekanntmachungen enthalten.
 
-# § 6 – Zugang zum Bundesanzeiger
+(3) Das Bundesgesetzblatt und der Bundesanzeiger werden vom Bundesministerium der Justiz herausgegeben.
 
-(1) Der amtliche Teil des Bundesanzeigers ist für jedermann jederzeit frei zugänglich.
+# § 2 – Ausgabe und dauerhafte Bereithaltung im Internet
 
-(2) Veröffentlichungen im amtlichen Teil des Bundesanzeigers können von jedermann unentgeltlich ausgedruckt und gespeichert werden.
+(1) Das Bundesgesetzblatt wird vom Bundesamt für Justiz auf der Internetseite www.recht.bund.de ausgegeben. Es wird dort vollständig und dauerhaft bereitgehalten.
 
-(3) Ausdrucke einzelner Veröffentlichungen des Bundesanzeigers können gegen angemessenes Entgelt beim Betreiber des Bundesanzeigers bezogen werden. Auf die Bezugsmöglichkeit ist im Bundesanzeiger deutlich hinzuweisen.
+(2) Der Bundesanzeiger wird vom Betreiber des Bundesanzeigers auf der Internetseite www.bundesanzeiger.de ausgegeben. Er wird dort vollständig und dauerhaft bereitgehalten.
 
-(4) Im Bundesanzeiger ist ein kostenfreier Dienst anzubieten, der Nutzer über neu erscheinende Ausgaben des amtlichen Teils des Bundesanzeigers und deren Inhalt sowie über das Erscheinen gedruckter Anlagenbände und deren Bezugsmöglichkeit gemäß Absatz 3 selbsttätig elektronisch informiert; Nutzer haben hierfür lediglich die Adresse ihres elektronischen Postfachs anzugeben.
+(3) § 7 des Datennutzungsgesetzes vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung ist anzuwenden.
 
-# § 7 – Sicherheitsanforderungen
+# § 3 – Verkündung und amtliche Bekanntmachung
 
-(1) Der Verkündung im Bundesanzeiger müssen Dokumente zugrunde gelegt werden, aus denen sich die Ausfertigung durch den Verordnungsgeber eindeutig ergibt.
+(1) Die Verkündung von Gesetzen und Rechtsverordnungen erfolgt jeweils durch die Ausgabe einer Nummer des Bundesgesetzblatts. Amtliche Bekanntmachungen im Bundesgesetzblatt erfolgen jeweils durch die Ausgabe einer Nummer des Bundesgesetzblatts. Jede Nummer des Bundesgesetzblatts trägt das Datum ihrer Ausgabe.
 
-(2) Zur Verkündung oder Bekanntmachung im amtlichen Teil des Bundesanzeigers muss ein Dokument in einem ständig und dauerhaft verfügbaren und lesbaren Format vorgelegt werden. Die inhaltliche Übereinstimmung eines solchen Dokuments mit der Ausfertigung der Rechtsverordnung oder mit dem der Bekanntmachung zugrunde liegenden Original muss gewährleistet sein. Nachträgliche inhaltliche Veränderungen eines Dokuments nach Satz 1 sind unzulässig; durch technische Vorkehrungen muss sichergestellt sein, dass solche Veränderungen zuverlässig erkennbar sind.
+(2) Die amtlichen Bekanntmachungen im Bundesanzeiger erfolgen jeweils durch Ausgabe einer Nummer des amtlichen Teils des Bundesanzeigers. Absatz 1 Satz 3 gilt entsprechend.
 
-(3) Sobald ein Dokument nach Absatz 2 verkündet oder bekannt gemacht ist, muss es zeitnah in einem gesonderten, nicht für die Allgemeinheit zugänglichen informationstechnischen System archiviert werden. Die Archivierung muss den Verkündungs- oder Bekanntmachungszeitpunkt dokumentieren. § 15 des Vertrauensdienstegesetzes gilt für die archivierten Dokumente entsprechend.
+# § 4 – Freier Zugang
 
-# § 8 – Ersatzverkündung, Ersatzbekanntmachung
+(1) Das Bundesgesetzblatt ist jederzeit frei zugänglich. Es kann unentgeltlich gelesen, ausgedruckt, gespeichert und verwertet werden.
 
-(1) Ist die elektronische Bereitstellung oder Bereithaltung des Bundesanzeigers nicht nur kurzzeitig unmöglich, müssen Verkündungen und Bekanntmachungen auf andere dauerhaft allgemein zugängliche Weise erfolgen (Ersatzverkündung, Ersatzbekanntmachung); § 7 gilt entsprechend.
+(2) Der amtliche Teil des Bundesanzeigers ist jederzeit frei zugänglich. Er kann unentgeltlich gelesen, ausgedruckt und gespeichert werden.
 
-(2) Im Fall des Absatzes 1 kann der Bundesanzeiger in gedruckter Form herausgegeben werden. Er ist nach einem zuvor vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger bekannt gemachten Verteiler an Bibliotheken und Behörden zu verbreiten. Im Bundesgesetzblatt ist unverzüglich bekannt zu machen,
+# § 5 – Benachrichtigungsdienste
 
-1. dass der Bundesanzeiger in gedruckter Form herausgegeben wird,
+Für das Bundesgesetzblatt ist ein unentgeltlicher elektronischer Benachrichtigungsdienst bereitzustellen, der über jede Ausgabe einer neuen Nummer und deren Inhalt informiert. Gleiches gilt für den amtlichen Teil des Bundesanzeigers.
 
-2. wann die Unmöglichkeit nach Absatz 1 eingetreten ist und
+# § 6 – Änderungsverbot; Löschung personenbezogener Daten; Berichtigungen
 
-3. an welche Bibliotheken und Behörden der Bundesanzeiger verteilt wird.
+(1) Änderungen des Bundesgesetzblatts auf der Internetseite www.recht.bund.de und des amtlichen Teils des Bundesanzeigers auf der Internetseite www.bundesanzeiger.de sind vorbehaltlich des Absatzes 2 unzulässig.
 
-(3) Rechtsverordnungen sind unter Hinweis auf die Fundstelle der Ersatzverkündung in die nächste elektronische Ausgabe des amtlichen Teils des Bundesanzeigers als nicht amtliche Fassung aufzunehmen. Auf Ersatzbekanntmachungen ist in der nächsten elektronischen Ausgabe des Bundesanzeigers in geeigneter Weise hinzuweisen.
+(2) Müssen personenbezogene Daten aus Gründen ihres Schutzes gelöscht werden, so werden in der betreffenden Nummer des Bundesgesetzblatts oder des amtlichen Teils des Bundesanzeigers diese Daten unkenntlich gemacht und wird ein Hinweis auf Datum und Grund der Löschung angebracht.
 
-(4) Für den Einzelbezug des ersatzweise ausgegebenen Bundesanzeigers in gedruckter Form gilt § 6 Absatz 3 entsprechend. Der Dienst nach § 6 Absatz 4 ist möglichst aufrechtzuerhalten.
+(3) Die Berichtigung von offenbaren Unrichtigkeiten im Bundesgesetzblatt ist dort bekannt zu machen. Satz 1 gilt für den Bundesanzeiger entsprechend.
 
-# § 9 – Verordnungsermächtigung
+# § 7 – Sicherung der Echtheit und Unverfälschtheit
 
-Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren der Verkündungen und der Bekanntmachungen im amtlichen Teil des Bundesanzeigers, zu den Anforderungen an die Dokumente und zur Archivierung zu regeln sowie Sicherheitsanforderungen für die Verkündung und Bekanntmachung festzulegen. Gleiches gilt für die Ersatzverkündung und Ersatzbekanntmachung.
+(1) Jede Nummer des Bundesgesetzblatts, die nach § 3 Absatz 1 oder nach § 8 Absatz 1 ausgegeben wird, und jede Nummer des amtlichen Teils des Bundesanzeigers trägt ein qualifiziertes elektronisches Siegel nach Artikel 3 Nummer 27 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44).
 
-# § 10 – Ergänzende Verkündungen und Bekanntmachungen
+(2) Wird die Urschrift eines Gesetzes elektronisch zur Gegenzeichnung und Ausfertigung vorgelegt, so erfolgen diese jeweils durch qualifizierte elektronische Signatur nach Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014. Gleiches gilt auch für die Ausfertigung von Rechtsverordnungen und amtlichen Bekanntmachungen.
 
-(1) Bestandteile einer Rechtsverordnung, die in dem Verkündungs- oder Bekanntmachungsorgan nicht oder nur mit unverhältnismäßigem Aufwand in einer Weise dargestellt werden können, die den genauen Inhalt hinreichend deutlich offenbart, können anstelle der Verkündung im amtlichen Verkündungs- oder Bekanntmachungsorgan bei mindestens einer bestimmten Stelle der Bundesverwaltung zu jedermanns Einsicht während der Dienstzeit ausgelegt werden. Die Auslegung setzt voraus, dass in der Rechtsverordnung
+# § 8 – Ersatzverkündungen und -bekanntmachungen des Bundesgesetzblatts
 
-1. der Inhalt der Bestandteile beschrieben ist sowie
+(1) Ist die Ausgabe einer Nummer des Bundesgesetzblatts auf der Internetseite www.recht.bund.de nicht nur kurzfristig unmöglich, so erfolgt die Verkündung oder amtliche Bekanntmachung durch Ausgabe der Nummer des Bundesgesetzblatts auf der Internetseite www.bundesanzeiger.de. Auf Anordnung des Bundesamtes für Justiz hat der Betreiber des Bundesanzeigers diese Nummer des Bundesgesetzblatts auf der Internetseite www.bundesanzeiger.de öffentlich bereitzustellen und sie dort bis zur nachträglichen Bereitstellung auf der Internetseite www.recht.bund.de bereitzuhalten.
 
-2. Ort und Zeit der Auslegung genau bezeichnet sind.
+(2) Ist die Ausgabe einer Nummer des Bundesgesetzblatts auch auf der Internetseite www.bundesanzeiger.de nicht nur kurzfristig unmöglich, so erfolgt die Verkündung oder amtliche Bekanntmachung durch Ausgabe einer gedruckten Nummer des Bundesgesetzblatts. Die gedruckte Nummer des Bundesgesetzblatts ist nach einem zuvor vom Bundesministerium der Justiz im Bundesanzeiger bekannt gemachten Verteiler an Bibliotheken und Behörden auszugeben.
 
-(2) Bestandteile nach Absatz 1 können gegen angemessenes Entgelt bezogen werden. Auf die Bezugsmöglichkeit ist im Verkündungs- oder Bekanntmachungsorgan hinzuweisen.
+# § 9 – Vereinfachte Verkündungen und vereinfachte amtliche Bekanntmachungen
 
-(3) Die Absätze 1 und 2 gelten für amtliche Bekanntmachungen entsprechend.
+Ist die Ausgabe einer Nummer des Bundesgesetzblatts weder nach § 3 Absatz 1 noch nach § 8 rechtzeitig möglich, so findet sie in den folgenden Fällen als vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung statt:
 
-# § 11 – Berichtigungen
+1. Verkündung der Feststellung des Verteidigungsfalles (Artikel 115a Absatz 3 Satz 2 des Grundgesetzes),
 
-(1) Werden Druckfehler oder offensichtliche Unrichtigkeiten in Verkündungen oder Bekanntmachungen berichtigt, ist die Berichtigung in dem amtlichen Verkündungs- oder Bekanntmachungsorgan bekannt zu machen, in dem die Verkündung oder Bekanntmachung erfolgt ist.
+2. Bekanntgabe des Zeitpunktes des Eintritts des Verteidigungsfalles (Artikel 115a Absatz 4 Satz 2 des Grundgesetzes),
 
-(2) Die Berichtigung einer Verkündung oder Bekanntmachung im amtlichen Teil des Bundesanzeigers durch Überschreiben oder sonstige Veränderung des ursprünglich veröffentlichten Dokuments ist ausgeschlossen. Dem Dokument, das berichtigt wird, soll ein Hinweis hinzugefügt werden, der über die Fundstelle der Berichtigung informiert.
+3. Verkündung von Bundesgesetzen im Verteidigungsfall (Artikel 115d Absatz 3 des Grundgesetzes),
 
-# § 12 – Übergangsvorschrift
+4. Verkündung von Rechtsverordnungen des Bundes im Verteidigungsfall und in den Fällen des Artikels 80a Absatz 1 und 3 des Grundgesetzes,
 
-Der elektronische Bundesanzeiger wird in den Bundesanzeiger überführt. Die Internetadresse www.ebundesanzeiger.de ist mindestens bis zum 1. Juni 2012 aufrechtzuerhalten.
+5. Bekanntmachung von Beschlüssen des Bundestages nach Artikel 80a Absatz 1 des Grundgesetzes und
+
+6. Bekanntmachung von Beschlüssen internationaler Organe im Rahmen eines Bündnisvertrages und der Zustimmung der Bundesregierung bei der Anwendung des Artikels 80a Absatz 3 Satz 1 des Grundgesetzes.
+
+# § 10 – Arten der vereinfachten Verkündung und der vereinfachten amtlichen Bekanntmachung
+
+(1) Eine vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung nach § 9 erfolgt durch die Ausgabe der Nummer des Bundesgesetzblatts
+
+1. im Rundfunk oder Fernsehen,
+
+2. in der gedruckten oder digitalen Tagespresse,
+
+3. als Aushang an den für amtliche Bekanntmachungen vorgesehenen Stellen bei den Verwaltungen der Gemeinden und Landkreise oder durch eine andere amtliche Bekanntmachung für das Gebiet einer Gemeinde oder eines Landkreises oder
+
+4. in sozialen Netzwerken über die vom Presse- und Informationsamt der Bundesregierung betriebenen Profile.
+
+(2) Die für die vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung zuständige Stelle hat den Zeitpunkt und den Wortlaut der Ausgabe der Nummer des Bundesgesetzblatts zu dokumentieren.
+
+(3) Werden mehrere der in Absatz 1 genannten Medien genutzt, so wird die Verkündung oder amtliche Bekanntmachung durch diejenige Ausgabe bewirkt, die zuerst erfolgt ist.
+
+(4) Die Befugnis der Bundespräsidentin oder des Bundespräsidenten, für ihren oder seinen Zuständigkeitsbereich andere Arten der vereinfachten Verkündung oder der vereinfachten amtlichen Bekanntmachung vorzusehen, bleibt unberührt.
+
+# § 11 – Duldungs- und Mitwirkungspflichten; Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage
+
+(1) Die für die Verkündung oder die amtliche Bekanntmachung zuständige Stelle kann
+
+1. anordnen, dass der Betreiber eines sozialen Netzwerks eine vereinfachte Verkündung oder eine vereinfachte amtliche Bekanntmachung (§§ 9 und 10 Absatz 1 Nummer 4) duldet,
+
+2. dem Betreiber eines sozialen Netzwerks untersagen, die vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung zu löschen oder ihre öffentliche Sichtbarkeit einzuschränken,
+
+3. anordnen, dass der Betreiber eines sozialen Netzwerks einen Hinweis auf eine bereits erfolgte vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung duldet.
+
+(2) Wer eines der in § 10 Absatz 1 Nummer 1 und 2 genannten Medien betreibt, hat auf Anordnung der für die Verkündung oder amtliche Bekanntmachung zuständigen Stelle eine vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung unverzüglich vorzunehmen. Die zuständige Stelle kann in der Anordnung auch Folgendes bestimmen:
+
+1. bei vereinfachter Verkündung oder vereinfachter amtlicher Bekanntmachung in der digitalen Tagespresse (§ 10 Absatz 1 Nummer 2):
+
+a) den Zeitpunkt der Verkündung oder amtlichen Bekanntmachung und
+
+b) die Dauer, für die der Wortlaut der Verkündung oder Bekanntmachung auf der Startseite des jeweiligen Internetauftritts angezeigt werden muss, sowie
+
+2. bei vereinfachter Verkündung oder vereinfachter amtlicher Bekanntmachung im Rundfunk oder Fernsehen (§ 10 Absatz 1 Nummer 1):
+
+a) den Zeitpunkt der Verkündung oder Bekanntmachung und
+
+b) die Anzahl der zu sendenden Wiederholungen.
+
+(3) Ist eine vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung bereits erfolgt, so kann die zuständige Stelle gegenüber Betreibern von Medien nach § 10 Absatz 1 Nummer 1 und 2 anordnen, auf diese Verkündung oder amtliche Bekanntmachung hinzuweisen.
+
+(4) Verantwortlich für die Umsetzung der Anordnungen nach den Absätzen 2 und 3 sind
+
+1. bei Rundfunkanstalten die Intendantinnen und Intendanten,
+
+2. in Verlagsunternehmen die Verlegerinnen und Verleger, die Herausgeberinnen und Herausgeber sowie die Chefredakteurinnen und Chefredakteure.
+
+(5) Widerspruch und Anfechtungsklage gegen Anordnungen nach den Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
+
+# § 12 – Nachträgliche Bereitstellung
+
+Sobald die Ausgabe des Bundesgesetzblatts auf der Internetseite www.recht.bund.de wieder möglich ist, werden dort die nach den §§ 8 und 9 ausgegebenen Nummern des Bundesgesetzblatts unverzüglich bereitgestellt.
+
+# § 13 – Aufwendungsersatz
+
+Wer zur Ausführung folgender Anordnungen verpflichtet wurde, kann von der Bundesrepublik Deutschland nach Maßgabe des § 670 des Bürgerlichen Gesetzbuchs den Ersatz der Aufwendungen verlangen:
+
+1. zur Durchführung der Ersatzverkündung oder -bekanntmachung im Bundesgesetzblatt (§ 8 Absatz 1 Satz 2),
+
+2. zur Durchführung der vereinfachten Verkündung oder vereinfachten amtlichen Bekanntmachung (§ 11 Absatz 2 Satz 1) oder
+
+3. zu einem Hinweis auf eine vereinfachte Verkündung oder vereinfachte amtliche Bekanntmachung (§ 11 Absatz 3).
+
+# § 14 – Ersatzbekanntmachungen des Bundesanzeigers
+
+(1) Ist die Ausgabe des Bundesanzeigers auf der Internetseite www.bundesanzeiger.de nicht nur kurzfristig unmöglich, so erfolgen Bekanntmachungen durch Ausgabe des Bundesanzeigers in gedruckter Form. Die gedruckte Ausgabe des Bundesanzeigers ist nach einem zuvor vom Bundesministerium der Justiz im Bundesanzeiger bekannt gemachten Verteiler an Bibliotheken und Behörden auszugeben. Bekanntmachungen in weiteren Teilen des Bundesanzeigers (§ 1 Absatz 2 Satz 4) können in den Fällen des Satzes 1 auch in einer anderen dauerhaft allgemein zugänglichen Form erfolgen.
+
+(2) Im Fall der Ersatzbekanntmachung nach Absatz 1 Satz 1 ist, sofern diese nicht nach Absatz 1 Satz 3 erfolgt, im Bundesgesetzblatt unverzüglich bekannt zu machen,
+
+1. dass der Bundesanzeiger in gedruckter Form ausgegeben wird,
+
+2. wann die Unmöglichkeit eingetreten ist, den Bundesanzeiger auf der Internetseite www.bundesanzeiger.de auszugeben, und
+
+3. an welche Bibliotheken und Behörden der gedruckte Bundesanzeiger ausgegeben wird.
+
+(3) Sobald die Ausgabe des Bundesanzeigers auf der Internetseite www.bundesanzeiger.de wieder möglich ist, werden dort die zuvor gedruckten Bekanntmachungen (Absatz 1 Satz 1) und sonstigen Ersatzbekanntmachungen (Absatz 1 Satz 3) unverzüglich elektronisch bereitgestellt.
+
+# § 15 – Zuständige Stelle für die amtliche Bekanntmachung von Beschlüssen nach Artikel 80a des Grundgesetzes
+
+Zuständige Stelle für die amtliche Bekanntmachung der Beschlüsse nach Artikel 80a Absatz 1 und 3 Satz 1 des Grundgesetzes ist die Bundesregierung oder ein von ihr bestimmtes Mitglied der Bundesregierung.
+
+# § 16 – Verfahren der amtlichen Bekanntmachung von Beschlüssen nach Artikel 80a des Grundgesetzes
+
+Beschlüsse nach Artikel 80a Absatz 1 und 3 Satz 1 des Grundgesetzes sind unverzüglich im Bundesgesetzblatt bekannt zu machen. In der amtlichen Bekanntmachung ist der Zeitpunkt der Beschlussfassung anzugeben. Beschlüsse internationaler Organe nach Artikel 80a Absatz 3 Satz 1 des Grundgesetzes müssen nicht in ihrem vollen Wortlaut, jedoch zusammen mit der zugehörigen Zustimmung der Bundesregierung in einem Umfang bekannt gemacht werden, aus dem sich eindeutig ergibt, welche Rechtsvorschriften nach Maßgabe dieser Beschlüsse anwendbar sind. Die anwendbaren Rechtsvorschriften sind jeweils genau zu bezeichnen.
+
+# § 17 – Dauerhafte Aufbewahrung
+
+(1) Jede Nummer des Bundesgesetzblatts ist zusammen mit einem Nachweis über den Verkündungs- oder Bekanntmachungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv (nach § 8 Absatz 1 Satz 2 des Bundesarchivgesetzes) abzugeben. Im Falle des § 8 Absatz 2 Satz 1 ist die gedruckte Nummer des Bundesgesetzblatts zu digitalisieren sowie mit einem qualifizierten Siegel gemäß § 7 Absatz 1 zu versehen und in dieser Form zusammen mit einem Nachweis über den Verkündungs- oder Bekanntmachungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben. Im Falle des § 9 sind die Dokumente nach § 10 Absatz 2 zu digitalisieren sowie mit einem qualifizierten Siegel gemäß § 7 Absatz 1 zu versehen und zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben. In den Fällen des § 12 ist auch die auf der Internetseite www.recht.bund.de bereitgestellte Nummer des Bundesgesetzblatts, sofern noch nicht geschehen, mit einem qualifizierten Siegel gemäß § 7 Absatz 1 zu versehen und zusammen mit einem Nachweis über den Bereitstellungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben.
+
+(2) Elektronisch ausgefertigte Urschriften der im Bundesgesetzblatt vorzunehmenden Verkündungen und amtlichen Bekanntmachungen sind zusammen mit der zugehörigen Nummer des Bundesgesetzblatts zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben.
+
+(3) Jede Nummer des amtlichen Teils des Bundesanzeigers ist zusammen mit einem Nachweis über den Bekanntmachungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben. Im Falle des § 14 Absatz 1 Satz 1 ist die gedruckte Nummer des amtlichen Teils des Bundesanzeigers zu digitalisieren sowie mit einem qualifizierten Siegel gemäß § 7 Absatz 1 zu versehen und in dieser Form zusammen mit einem Nachweis über den Bekanntmachungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben. Im Falle des § 14 Absatz 3 ist auch die auf der Internetseite www.bundesanzeiger.de bereitgestellte Nummer des amtlichen Teils des Bundesanzeigers, sofern noch nicht geschehen, mit einem qualifizierten Siegel gemäß § 7 Absatz 1 zu versehen und zusammen mit einem Nachweis über den Bereitstellungszeitpunkt zur dauerhaften Aufbewahrung an das digitale Zwischenarchiv abzugeben.
+
+# § 18 – Erhaltung des Beweiswerts
+
+Enthalten die nach § 17 Absatz 1 und 3 dauerhaft aufzubewahrenden Dokumente ein qualifiziertes elektronisches Siegel, eine qualifizierte elektronische Signatur oder einen qualifizierten elektronischen Zeitstempel, sind sie im digitalen Zwischenarchiv durch geeignete Maßnahmen nach dem Stand der Technik neu zu schützen, bevor der Sicherheitswert des vorhandenen Siegels, der vorhandenen Signatur oder des vorhandenen Zeitstempels durch Zeitablauf geringer wird und ein nach dem Stand der Technik angemessenes Schutzniveau nicht mehr gewährleistet ist.
+
+# § 19 – Strafvorschriften
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer vollziehbaren Anordnung nach § 11 Absatz 1 Nummer 1 oder 2 oder Absatz 2 Satz 1 zuwiderhandelt.
+
+# § 20 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer eine in § 19 bezeichnete Handlung fahrlässig begeht.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 11 Absatz 1 Nummer 3 oder Absatz 3 zuwiderhandelt.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.

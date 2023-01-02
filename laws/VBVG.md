@@ -1,53 +1,83 @@
 % Gesetz über die Vergütung von Vormündern und Betreuern  (Vormünder- und Betreuervergütungsgesetz - VBVG)
-% Ausfertigungsdatum: 21.04.2005
+% Ausfertigungsdatum: 04.05.2021
  
-# § 1 – Feststellung der Berufsmäßigkeit und Vergütungsbewilligung
+# § 1 – Berufsmäßigkeit; Vergütung und Aufwendungsersatz
 
-(1) Das Familiengericht hat die Feststellung der Berufsmäßigkeit gemäß § 1836 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuchs zu treffen, wenn dem Vormund in einem solchen Umfang Vormundschaften übertragen sind, dass er sie nur im Rahmen seiner Berufsausübung führen kann, oder wenn zu erwarten ist, dass dem Vormund in absehbarer Zeit Vormundschaften in diesem Umfang übertragen sein werden. Berufsmäßigkeit liegt im Regelfall vor, wenn
+(1) Das Familiengericht stellt die Berufsmäßigkeit im Sinne von § 1808 Absatz 3 des Bürgerlichen Gesetzbuchs fest, wenn dem Vormund in einem solchen Umfang Vormundschaften übertragen sind, dass er sie nur im Rahmen seiner Berufsausübung führen kann, oder wenn zu erwarten ist, dass ihm in absehbarer Zeit in einem solchen Umfang Vormundschaften übertragen sein werden. Berufsmäßigkeit liegt im Regelfall vor, wenn der Vormund mehr als zehn Vormundschaften führt oder für die Führung der Vormundschaft voraussichtlich mindestens 20 Wochenstunden erforderlich sind.
 
-1. der Vormund mehr als zehn Vormundschaften führt oder
+(2) Unabhängig von den Voraussetzungen nach Absatz 1 liegt Berufsmäßigkeit vor, wenn ein Vereinsvormund oder das Jugendamt als Vormund oder ein Vormundschaftsverein oder das Jugendamt als vorläufiger Vormund bestellt wird.
 
-2. die für die Führung der Vormundschaft erforderliche Zeit voraussichtlich 20 Wochenstunden nicht unterschreitet.
+(3) Stellt das Familiengericht die Berufsmäßigkeit nach Absatz 1 Satz 1 fest oder liegt Berufsmäßigkeit gemäß Absatz 2 vor, kann der Vormund vom Mündel Vergütung und Aufwendungsersatz nach Maßgabe der nachstehenden Bestimmungen verlangen. Das Gericht hat die Zahlung zu bewilligen.
 
-(2) Trifft das Familiengericht die Feststellung nach Absatz 1 Satz 1, so hat es dem Vormund oder dem Gegenvormund eine Vergütung zu bewilligen. Ist der Mündel mittellos im Sinne des § 1836d des Bürgerlichen Gesetzbuchs, so kann der Vormund die nach Satz 1 zu bewilligende Vergütung aus der Staatskasse verlangen.
+# § 2 – Zahlung aus der Staatskasse und Rückgriff, Erlöschen und Geltendmachung der Ansprüche
 
-# § 2 – Erlöschen der Ansprüche
+(1) Ist der Mündel mittellos im Sinne von § 1880 des Bürgerlichen Gesetzbuchs, so kann der Vormund Vergütung sowie Vorschuss oder Ersatz der Aufwendungen aus der Staatskasse verlangen.
 
-Der Vergütungsanspruch erlischt, wenn er nicht binnen 15 Monaten nach seiner Entstehung beim Familiengericht geltend gemacht wird; die Geltendmachung des Anspruchs beim Familiengericht gilt dabei auch als Geltendmachung gegenüber dem Mündel. § 1835 Abs. 1a des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(2) Die Ansprüche auf Vergütung und Aufwendungsersatz erlöschen, wenn sie nicht binnen 15 Monaten nach ihrer Entstehung gerichtlich geltend gemacht werden. § 1877 Absatz 4 Satz 2 und 3 sowie Absatz 5 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 # § 3 – Stundensatz des Vormunds
 
-(1) Die dem Vormund nach § 1 Abs. 2 zu bewilligende Vergütung beträgt für jede Stunde der für die Führung der Vormundschaft aufgewandten und erforderlichen Zeit 23 Euro. Verfügt der Vormund über besondere Kenntnisse, die für die Führung der Vormundschaft nutzbar sind, so erhöht sich der Stundensatz
+(1) Die dem Vormund nach § 1 Absatz 3 zu bewilligende Vergütung beträgt für jede Stunde der für die Führung der Vormundschaft aufgewandten und erforderlichen Zeit 23 Euro. Verfügt der Vormund über besondere Kenntnisse, die für die Führung der Vormundschaft nutzbar sind, so erhöht sich der Stundensatz
 
 1. auf 29,50 Euro, wenn diese Kenntnisse durch eine abgeschlossene Lehre oder eine vergleichbare abgeschlossene Ausbildung erworben sind;
 
 2. auf 39 Euro, wenn diese Kenntnisse durch eine abgeschlossene Ausbildung an einer Hochschule oder durch eine vergleichbare abgeschlossene Ausbildung erworben sind.
 
-Eine auf die Vergütung anfallende Umsatzsteuer wird, soweit sie nicht nach § 19 Abs. 1 des Umsatzsteuergesetzes unerhoben bleibt, zusätzlich ersetzt.
+Eine auf die Vergütung anfallende Umsatzsteuer wird, soweit sie nicht nach § 19 Absatz 1 des Umsatzsteuergesetzes unerhoben bleibt, zusätzlich ersetzt.
 
 (2) Bestellt das Familiengericht einen Vormund, der über besondere Kenntnisse verfügt, die für die Führung der Vormundschaft allgemein nutzbar und durch eine Ausbildung im Sinne des Absatzes 1 Satz 2 erworben sind, so wird vermutet, dass diese Kenntnisse auch für die Führung der dem Vormund übertragenen Vormundschaft nutzbar sind. Dies gilt nicht, wenn das Familiengericht aus besonderen Gründen bei der Bestellung des Vormunds etwas anderes bestimmt.
 
-(3) Soweit die besondere Schwierigkeit der vormundschaftlichen Geschäfte dies ausnahmsweise rechtfertigt, kann das Familiengericht einen höheren als den in Absatz 1 vorgesehenen Stundensatz der Vergütung bewilligen. Dies gilt nicht, wenn der Mündel mittellos ist.
+(3) Soweit die besondere Schwierigkeit der vormundschaftlichen Angelegenheiten dies ausnahmsweise rechtfertigt, kann das Familiengericht einen höheren als den in Absatz 1 vorgesehenen Stundensatz der Vergütung bewilligen. Dies gilt nicht, wenn der Mündel mittellos ist.
 
 (4) Der Vormund kann Abschlagszahlungen verlangen.
 
-# § 4 – Vergütung des Betreuers
+# § 4 – Aufwendungsersatz des Vormunds
 
-(1) Die dem Betreuer nach § 1 Absatz 2 zu bewilligende Vergütung bestimmt sich nach monatlichen Fallpauschalen, die in den Vergütungstabellen A bis C der Anlage festgelegt sind.
+(1) Für seine anlässlich der Führung der Vormundschaft erforderlichen Aufwendungen kann der Berufsvormund Vorschuss oder Ersatz in entsprechender Anwendung des § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs verlangen.
 
-(2) Die Vergütung des Betreuers richtet sich nach Vergütungstabelle A, sofern der Betreuer über keine besonderen Kenntnisse verfügt, die für die Führung der Betreuung nutzbar sind.
+(2) Für solche Dienste, die zu seinem Gewerbe oder seinem Beruf gehören, kann der Berufsvormund anstelle der Vergütung nach § 1 Absatz 3 als Aufwendung Ersatz in entsprechender Anwendung des § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs verlangen.
 
-(3) Verfügt der Betreuer über besondere Kenntnisse, die für die Führung der Betreuung nutzbar sind, so richtet sich die Vergütung
+(+++ § 4 Abs. 2: Zur Nichtanwendung vgl. § 5 Abs. 1 Satz 3 +++)
 
-1. nach Vergütungstabelle B, wenn diese Kenntnisse durch eine abgeschlossene Lehre oder eine vergleichbare abgeschlossene Ausbildung erworben sind;
+# § 5 – Vergütung und Aufwendungsersatz für Vormundschaftsvereine
 
-2. nach Vergütungstabelle C, wenn diese Kenntnisse durch eine abgeschlossene Ausbildung an einer Hochschule oder durch eine vergleichbare abgeschlossene Ausbildung erworben sind.
+(1) Ist ein Vereinsvormund bestellt oder führt der Verein eine Beistandschaft, so ist dem Verein eine Vergütung in entsprechender Anwendung von § 3 zu bewilligen. Ist der Verein als vorläufiger Vormund bestellt, ist ihm eine Vergütung nach § 3 Absatz 1 Nummer 2 zu bewilligen. Zusätzlich zu der Vergütung nach Satz 1 oder Satz 2 kann der Verein Vorschuss oder Ersatz der Aufwendungen in entsprechender Anwendung von § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs verlangen; § 4 Absatz 2 ist nicht anwendbar. Allgemeine Verwaltungskosten werden nicht ersetzt.
 
-(4) § 3 Absatz 2 gilt entsprechend. § 1 Absatz 1 Satz 2 Nummer 2 findet keine Anwendung.
+(2) Der Vereinsvormund selbst kann keine Vergütung und keinen Aufwendungsersatz geltend machen.
 
-# § 5 – Fallpauschalen
+# § 6 – Vergütung und Aufwendungsersatz für das Jugendamt
 
-(1) Die Höhe der Fallpauschalen nach § 4 Absatz 1 richtet sich nach
+(1) Dem Jugendamt als Vormund steht keine Vergütung zu.
+
+(2) Für seine Aufwendungen kann das Jugendamt keinen Vorschuss verlangen. Es kann in entsprechender Anwendung von § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs Ersatz nur insoweit verlangen, als der Mündel nicht mittellos im Sinne von § 1880 des Bürgerlichen Gesetzbuchs ist. Allgemeine Verwaltungskosten werden nicht ersetzt.
+
+# § 7 – Vergütung und Aufwendungsersatz des beruflichen Betreuers
+
+(1) Ein beruflicher Betreuer nach § 19 Absatz 2 des Betreuungsorganisationsgesetzes, der selbständig rechtliche Betreuungen führt, kann vom Betreuten Vergütung und Aufwendungsersatz nach Maßgabe der §§ 8 bis 12, 15 und 16 verlangen.
+
+(2) Ist ein beruflicher Betreuer nach § 19 Absatz 2 des Betreuungsorganisationsgesetzes, der als Mitarbeiter eines anerkannten Betreuungsvereins rechtliche Betreuungen führt, als Vereinsbetreuer bestellt, kann der Betreuungsverein vom Betreuten Vergütung und Aufwendungsersatz nach Maßgabe der §§ 8 bis 12, 15 und 16 verlangen. Der Vereinsbetreuer selbst kann keine Vergütung und keinen Aufwendungsersatz geltend machen.
+
+(3) Die Bewilligung der Zahlung erfolgt durch das Betreuungsgericht nach § 292 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+
+# § 8 – Höhe der Vergütung; Verordnungsermächtigung
+
+(1) Die dem beruflichen Betreuer nach § 7 zu bewilligende Vergütung bestimmt sich nach monatlichen Fallpauschalen, die in den Vergütungstabellen A bis C der Anlage festgelegt sind.
+
+(2) Die Vergütung des beruflichen Betreuers richtet sich nach
+
+1. Vergütungstabelle A, sofern der Betreuer weder über eine abgeschlossene Lehre noch über eine abgeschlossene Ausbildung an einer Hochschule oder eine vergleichbare Ausbildung verfügt;
+
+2. Vergütungstabelle B, wenn der Betreuer über eine abgeschlossene Lehre oder eine vergleichbare abgeschlossene Ausbildung verfügt;
+
+3. Vergütungstabelle C, wenn der Betreuer über eine abgeschlossene Ausbildung an einer Hochschule oder eine vergleichbare abgeschlossene Ausbildung verfügt.
+
+(3) Der Vorstand des am Sitz oder hilfsweise am Wohnsitz des beruflichen Betreuers zuständigen Amtsgerichts stellt auf Antrag des Betreuers nach dessen Registrierung fest, nach welcher Vergütungstabelle sich die von diesem zu beanspruchenden Vergütungen richten. Die Feststellung nach Satz 1 gilt für das gerichtliche Verfahren zur Festsetzung der Vergütung bundesweit. Sie kann auf Antrag des beruflichen Betreuers geändert werden, wenn dieser eine Änderung der Voraussetzungen nach Absatz 2 nachweist. Die Feststellung oder Änderung wirkt auf den Zeitpunkt der Antragstellung zurück.
+
+(4) Die Landesregierungen werden ermächtigt, zur sachdienlichen Erledigung der Verfahren nach Absatz 3 durch Rechtsverordnung die Zuständigkeit anderer Gerichte abweichend von Absatz 3 Satz 1 festzulegen. Die Landesregierungen können die Ermächtigung nach Satz 1 auf die Landesjustizverwaltungen übertragen.
+
+# § 9 – Fallpauschalen
+
+(1) Die Höhe der Fallpauschalen nach § 8 Absatz 1 richtet sich nach
 
 1. der Dauer der Betreuung,
 
@@ -55,13 +85,13 @@ Eine auf die Vergütung anfallende Umsatzsteuer wird, soweit sie nicht nach § 1
 
 3. dem Vermögensstatus des Betreuten.
 
-(2) Hinsichtlich der Dauer der Betreuung wird bei der Berechnung der Fallpauschalen zwischen den Zeiträumen in den ersten drei Monaten der Betreuung, im vierten bis sechsten Monat, im siebten bis zwölften Monat, im 13. bis 24. Monat und ab dem 25. Monat unterschieden. Für die Berechnung der Monate gelten § 187 Absatz 1 und § 188 Absatz 2 des Bürgerlichen Gesetzbuchs entsprechend. Ändern sich Umstände, die sich auf die Vergütung auswirken, vor Ablauf eines vollen Monats, so ist die Fallpauschale zeitanteilig nach Tagen zu berechnen; § 187 Absatz 1, § 188 Absatz 1 und § 191 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+(2) Hinsichtlich der Dauer der Betreuung wird bei der Berechnung der Fallpauschalen zwischen den Zeiträumen in den ersten drei Monaten der Betreuung, im vierten bis sechsten Monat, im siebten bis zwölften Monat, im 13. bis 24. Monat und ab dem 25. Monat unterschieden. Für die Berechnung der Monate gelten § 187 Absatz 1 und § 188 Absatz 2 des Bürgerlichen Gesetzbuchs entsprechend.
 
 (3) Hinsichtlich des gewöhnlichen Aufenthaltsortes des Betreuten ist zwischen stationären Einrichtungen und diesen nach Satz 3 gleichgestellten ambulant betreuten Wohnformen einerseits und anderen Wohnformen andererseits zu unterscheiden. Im Sinne dieses Gesetzes sind
 
 1. stationäre Einrichtungen:
 
-Einrichtungen, die dem Zweck dienen, Volljährige aufzunehmen, ihnen Wohnraum zu überlassen sowie tatsächliche Betreuung oder Pflege zur Verfügung zu stellen oder vorzuhalten, und die in ihrem Bestand von Wechsel und Zahl der Bewohner unabhängig sind und entgeltlich betrieben werden;
+Einrichtungen, die dem Zweck dienen, Volljährige aufzunehmen, ihnen Wohnraum zu überlassen, sowie tatsächliche Betreuung oder Pflege zur Verfügung zu stellen oder vorzuhalten, und die in ihrem Bestand von Wechsel und Zahl der Bewohner unabhängig sind und entgeltlich betrieben werden;
 
 2. ambulant betreute Wohnformen:
 
@@ -69,11 +99,9 @@ entgeltliche Angebote, die dem Zweck dienen, Volljährigen das Leben in einem ge
 
 Ambulant betreute Wohnformen sind stationären Einrichtungen gleichgestellt, wenn die in der ambulant betreuten Wohnform extern angebotenen Leistungen tatsächlicher Betreuung oder Pflege als Rund-um-die-Uhr-Versorgung durch professionelle Betreuungs- oder Pflegekräfte zur Verfügung gestellt oder vorgehalten werden und der Anbieter der extern angebotenen Betreuungs- und Pflegeleistungen nicht frei wählbar ist.
 
-(4) Hinsichtlich der Bestimmung des Vermögensstatus des Betreuten ist entscheidend, ob am Ende des Abrechnungsmonats Mittellosigkeit nach § 1836d des Bürgerlichen Gesetzbuchs vorliegt.
+(4) Hinsichtlich der Bestimmung des Vermögensstatus des Betreuten ist entscheidend, ob am Ende des Abrechnungsmonats Mittellosigkeit nach § 1880 des Bürgerlichen Gesetzbuchs vorliegt. Hinsichtlich der Bestimmung des gewöhnlichen Aufenthaltes nach Absatz 3 ist entscheidend, wo der gewöhnliche Aufenthalt am Ende des Abrechnungsmonats liegt. Bei sonstigen Änderungen von Umständen, die sich auf die Vergütung auswirken und die vor Ablauf eines vollen Monats eintreten, ist die Vergütung zeitanteilig nach Tagen zu berechnen; § 187 Absatz 1, § 188 Absatz 1 und § 191 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-(5) Die Fallpauschalen gelten auch Ansprüche auf Ersatz anlässlich der Betreuung entstandener Aufwendungen ab. Die gesonderte Geltendmachung von Aufwendungen im Sinne des § 1835 Absatz 3 des Bürgerlichen Gesetzbuchs bleibt unberührt.
-
-# § 5a – Gesonderte Pauschalen
+# § 10 – Gesonderte Pauschalen
 
 (1) Ist der Betreute nicht mittellos, wird der Betreuer mit einer zusätzlichen monatlichen Pauschale in Höhe von 30 Euro vergütet, wenn dieser die Verwaltung
 
@@ -89,675 +117,78 @@ zu besorgen hat. Die Pauschale kann geltend gemacht werden, wenn einer der Fäll
 
 (3) Findet ein Wechsel von einem beruflichen zu einem ehrenamtlichen Betreuer statt, ist der berufliche Betreuer mit einer einmaligen Pauschale in Höhe des 1,5-fachen der zum Zeitpunkt des Betreuerwechsels zu vergütenden Fallpauschale zu vergüten. Dies gilt auch dann, wenn zunächst neben dem beruflichen Betreuer ein ehrenamtlicher Betreuer bestellt war und dieser die Betreuung allein fortführt.
 
-(4) Die Pauschalen nach den Absätzen 1 bis 3 können nur gemeinsam mit einem Vergütungsantrag nach den §§ 4 und 5 geltend gemacht werden.
+(4) Die Pauschalen nach den Absätzen 1 bis 3 können nur gemeinsam mit einem Vergütungsantrag nach den §§ 8 und 9 geltend gemacht werden.
 
-# § 6 – Sonderfälle der Betreuung
+# § 11 – Aufwendungsersatz
 
-In den Fällen des § 1899 Abs. 2 und 4 des Bürgerlichen Gesetzbuchs erhält der Betreuer eine Vergütung nach § 1 Abs. 2 in Verbindung mit § 3; für seine Aufwendungen kann er Vorschuss und Ersatz nach § 1835 des Bürgerlichen Gesetzbuchs mit Ausnahme der Aufwendungen im Sinne von § 1835 Abs. 2 des Bürgerlichen Gesetzbuchs beanspruchen. Ist im Fall des § 1899 Absatz 4 des Bürgerlichen Gesetzbuchs die Verhinderung tatsächlicher Art, sind die Vergütung und der Aufwendungsersatz nach § 4 in Verbindung mit § 5 sowie die Pauschale nach § 5a Absatz 1 zu bewilligen und im Fall des § 5 nach Tagen zu teilen; § 187 Absatz 1 und § 188 Absatz 1 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+Die Fallpauschalen nach § 9 gelten auch Ansprüche auf Ersatz anlässlich der Betreuung entstandener Aufwendungen ab. Die gesonderte Geltendmachung von Aufwendungen im Sinne des § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs durch Betreuer nach § 7 Absatz 1 bleibt unberührt.
 
-# § 7 – Vergütung und Aufwendungsersatz für Betreuungsvereine
+# § 12 – Sonderfälle der Betreuung
 
-(1) Ist ein Vereinsbetreuer bestellt, so ist dem Verein eine Vergütung und Aufwendungsersatz nach § 1 Abs. 2 in Verbindung mit den §§ 4 bis 5a zu bewilligen. § 1 Abs. 1 sowie § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs finden keine Anwendung.
+(1) Dem Sterilisationsbetreuer nach § 1817 Absatz 2 des Bürgerlichen Gesetzbuchs und dem Ergänzungsbetreuer nach § 1817 Absatz 5 des Bürgerlichen Gesetzbuchs ist eine Vergütung nach § 3 zu bewilligen. Vorschuss oder Ersatz der Aufwendungen kann er in entsprechender Anwendung von § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs verlangen; § 4 Absatz 2 gilt entsprechend. Allgemeine Verwaltungskosten werden nicht ersetzt.
 
-(2) § 6 gilt entsprechend; der Verein kann im Fall von § 6 Satz 1 Vorschuss und Ersatz der Aufwendungen nach § 1835 Abs. 1, 1a und 4 des Bürgerlichen Gesetzbuchs verlangen. § 1835 Abs. 5 Satz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(2) Dem Verhinderungsbetreuer nach § 1817 Absatz 4 des Bürgerlichen Gesetzbuchs sind die Vergütung nach § 8 in Verbindung mit § 9 sowie die Pauschale nach § 10 Absatz 1 zu bewilligen und im Fall des § 9 nach Tagen zu teilen; § 187 Absatz 1 und § 188 Absatz 1 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-(3) Der Vereinsbetreuer selbst kann keine Vergütung und keinen Aufwendungsersatz nach diesem Gesetz oder nach den §§ 1835 bis 1836 des Bürgerlichen Gesetzbuchs geltend machen.
+# § 13 – Vergütung und Aufwendungsersatz für Betreuungsvereine
 
-# § 8 – Vergütung und Aufwendungsersatz für Behördenbetreuer
+(1) Ist der Betreuungsverein nach § 1818 Absatz 1 des Bürgerlichen Gesetzbuchs als Betreuer bestellt, ist ihm eine Vergütung nach den §§ 8 bis 10 zu bewilligen, wenn der Mitarbeiter, dem die Führung der Betreuung gemäß § 1818 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs übertragen worden ist, als beruflicher Betreuer registriert ist. Die Höhe der Vergütung richtet sich nach der aufgrund der Feststellung nach § 8 Absatz 3 für den Mitarbeiter anzuwendenden Vergütungstabelle. Eine Vergütung ist auch dann zu bewilligen, wenn der Mitarbeiter spätestens sechs Monate nach Beginn seiner Tätigkeit für den Betreuungsverein registriert ist.
 
-(1) Ist ein Behördenbetreuer bestellt, so kann der zuständigen Behörde eine Vergütung nach § 1836 Abs. 2 des Bürgerlichen Gesetzbuchs bewilligt werden, soweit der Umfang oder die Schwierigkeit der Betreuungsgeschäfte dies rechtfertigen. Dies gilt nur, soweit eine Inanspruchnahme des Betreuten nach § 1836c des Bürgerlichen Gesetzbuchs zulässig ist.
+(2) In den Fällen des § 1817 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs sind dem Betreuungsverein nach Maßgabe des Absatzes 1 Vergütung und Aufwendungsersatz nach § 12 zu bewilligen. Aufwendungen im Sinne von § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs kann der Verein nicht geltend machen. Allgemeine Verwaltungskosten werden nicht ersetzt.
 
-(2) Unabhängig von den Voraussetzungen nach Absatz 1 Satz 1 kann die Betreuungsbehörde Aufwendungsersatz nach § 1835 Abs. 1 Satz 1 und 2 in Verbindung mit Abs. 5 Satz 2 des Bürgerlichen Gesetzbuchs verlangen, soweit eine Inanspruchnahme des Betreuten nach § 1836c des Bürgerlichen Gesetzbuchs zulässig ist.
+# § 14 – Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde
 
-(3) Für den Behördenbetreuer selbst gilt § 7 Abs. 3 entsprechend.
+(1) Ist ein Behördenbetreuer bestellt, so kann der zuständigen Behörde nur unter den in § 1876 Satz 2 des Bürgerlichen Gesetzbuchs bestimmten Voraussetzungen eine Vergütung bewilligt werden. Für ihre Aufwendungen kann die Betreuungsbehörde keinen Vorschuss und in entsprechender Anwendung von § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs Ersatz nur insoweit verlangen, als der Betreute nicht mittellos im Sinne des § 1880 des Bürgerlichen Gesetzbuchs ist. Allgemeine Verwaltungskosten werden nicht ersetzt.
 
-(4) § 2 ist nicht anwendbar.
+(2) Der Behördenbetreuer selbst kann keine Vergütung, keinen Vorschuss und keinen Aufwendungsersatz geltend machen.
 
-# § 9 – Abrechnungszeitraum für die Betreuungsvergütung
+(3) Ist die Betreuungsbehörde nach § 1818 Absatz 4 des Bürgerlichen Gesetzbuchs als Betreuer bestellt, steht ihr keine Vergütung zu. Für die Aufwendungen der Betreuungsbehörde gilt Absatz 1 Satz 2 und 3 entsprechend.
 
-Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen Zeitraum geltend gemacht werden. Dies gilt nicht für die Geltendmachung von Vergütung und Aufwendungsersatz in den Fällen des § 6.
+(4) § 1877 Absatz 4 des Bürgerlichen Gesetzbuchs ist auf Ansprüche der Betreuungsbehörde nicht anzuwenden.
 
-# § 10 – Mitteilung an die Betreuungsbehörde
+# § 15 – Abrechnungszeitraum für die Betreuungsvergütung
 
-(1) Wer Betreuungen entgeltlich führt, hat der Betreuungsbehörde, in deren Bezirk er seinen Sitz oder Wohnsitz hat, kalenderjährlich mitzuteilen
+(1) Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen Zeitraum geltend gemacht werden. Dies gilt nicht für die Geltendmachung von Vergütung und Aufwendungsersatz in den Fällen der §§ 12 und 13 Absatz 2.
 
-1. die Zahl der von ihm im Kalenderjahr geführten Betreuungen aufgeschlüsselt nach Betreuten in stationären Einrichtungen und diesen gleichgestellten ambulant betreuten Wohnformen einerseits und anderen Wohnformen andererseits sowie
+(2) Der Betreuer kann, wenn eine Veränderung der für die Höhe der Vergütung maßgeblichen Kriterien des § 9 Absatz 1 Nummer 2 und 3 nicht zu erwarten ist, die Festsetzung der Vergütung auch für zukünftige Zeiträume nach § 292 Absatz 2 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beantragen. Für die Dauer der Festsetzung nach § 292 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gelten die Vergütungsansprüche als geltend gemacht nach § 16 Absatz 3. Eine Änderung der Kriterien des § 9 Absatz 1 hat der Betreuer unverzüglich mitzuteilen.
 
-2. den von ihm für die Führung von Betreuungen im Kalenderjahr erhaltenen Geldbetrag.
+# § 16 – Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche
 
-(2) Die Mitteilung erfolgt jeweils bis spätestens 31. März für den Schluss des vorangegangenen Kalenderjahrs. Die Betreuungsbehörde kann verlangen, dass der Betreuer die Richtigkeit der Mitteilung an Eides statt versichert.
+(1) Ist der Betreute mittellos im Sinne des § 1880 des Bürgerlichen Gesetzbuchs, so kann der Betreuer die Vergütung sowie Vorschuss oder Ersatz der Aufwendungen aus der Staatskasse verlangen.
 
-(3) Die Betreuungsbehörde ist berechtigt und auf Verlangen des Betreuungsgerichts verpflichtet, dem Betreuungsgericht diese Mitteilung zu übermitteln.
+(2) Soweit die Staatskasse den Betreuer befriedigt, gehen die Ansprüche des Betreuers nach Maßgabe des § 1881 des Bürgerlichen Gesetzbuchs auf die Staatskasse über.
 
-# § 11 – Umschulung und Fortbildung von Berufsvormündern
+(3) Die Ansprüche auf Vergütung und Aufwendungsersatz erlöschen, wenn sie nicht binnen 15 Monaten nach ihrer Entstehung gerichtlich geltend gemacht werden. § 1877 Absatz 4 Satz 2 und 3 sowie Absatz 5 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-(1) Durch Landesrecht kann bestimmt werden, dass es einer abgeschlossenen Lehre im Sinne des § 3 Abs. 1 Satz 2 Nr. 1 und § 4 Absatz 3 Nummer 1 gleichsteht, wenn der Vormund oder Betreuer besondere Kenntnisse im Sinne dieser Vorschrift durch eine dem Abschluss einer Lehre vergleichbare Prüfung vor einer staatlichen oder staatlich anerkannten Stelle nachgewiesen hat. Zu einer solchen Prüfung darf nur zugelassen werden, wer
+# § 17 – Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern
+
+(1) Durch Landesrecht kann bestimmt werden, dass es einer abgeschlossenen Lehre im Sinne des § 3 Absatz 1 Satz 2 Nummer 1 und § 4 Absatz 3 Nummer 1 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis einschließlich 31. Dezember 2022 geltenden Fassung gleichsteht, wenn der Vormund oder Betreuer besondere Kenntnisse im Sinne dieser Vorschrift durch eine dem Abschluss einer Lehre vergleichbare Prüfung vor einer staatlichen oder staatlich anerkannten Stelle nachgewiesen hat. Zu einer solchen Prüfung darf nur zugelassen werden, wer
 
 1. mindestens drei Jahre lang Vormundschaften oder Betreuungen berufsmäßig geführt und
 
-2. an einer Umschulung oder Fortbildung teilgenommen hat, die besondere Kenntnisse im Sinne des § 3 Abs. 1 Satz 2 und § 4 Absatz 3 vermittelt, welche nach Art und Umfang den durch eine abgeschlossene Lehre vermittelten vergleichbar sind.
+2. an einer Umschulung oder Fortbildung teilgenommen hat, die besondere Kenntnisse im Sinne des § 3 Absatz 1 Satz 2 und § 4 Absatz 3 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis zum 31. Dezember 2022 geltenden Fassung vermittelt, welche nach Art und Umfang den durch eine abgeschlossene Lehre vermittelten vergleichbar sind.
 
-(2) Durch Landesrecht kann bestimmt werden, dass es einer abgeschlossenen Ausbildung an einer Hochschule im Sinne des § 3 Abs. 1 Satz 2 Nr. 2 und § 4 Absatz 3 Nummer 2 gleichsteht, wenn der Vormund oder Betreuer Kenntnisse im Sinne dieser Vorschrift durch eine Prüfung vor einer staatlichen oder staatlich anerkannten Stelle nachgewiesen hat. Zu einer solchen Prüfung darf nur zugelassen werden, wer
+(2) Durch Landesrecht kann bestimmt werden, dass es einer abgeschlossenen Ausbildung an einer Hochschule im Sinne des § 3 Absatz 1 Satz 2 Nummer 2 und § 4 Absatz 3 Nummer 2 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis einschließlich 31. Dezember 2022 geltenden Fassung gleichsteht, wenn der Vormund oder Betreuer Kenntnisse im Sinne dieser Vorschrift durch eine Prüfung vor einer staatlichen oder staatlich anerkannten Stelle nachgewiesen hat. Zu einer solchen Prüfung darf nur zugelassen werden, wer
 
 1. mindestens fünf Jahre lang Vormundschaften oder Betreuungen berufsmäßig geführt und
 
-2. an einer Umschulung oder Fortbildung teilgenommen hat, die besondere Kenntnisse im Sinne des § 3 Abs. 1 Satz 2 und § 4 Absatz 3 vermittelt, welche nach Art und Umfang den durch eine abgeschlossene Ausbildung an einer Hochschule vermittelten vergleichbar sind.
+2. an einer Umschulung oder Fortbildung teilgenommen hat, die besondere Kenntnisse im Sinne des § 3 Absatz 1 Satz 2 und § 4 Absatz 3 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis einschließlich 31. Dezember 2022 geltenden Fassung vermittelt, welche nach Art und Umfang den durch eine abgeschlossene Ausbildung an einer Hochschule vermittelten vergleichbar sind.
 
-(3) Das Landesrecht kann weitergehende Zulassungsvoraussetzungen aufstellen. Es regelt das Nähere über die an eine Umschulung oder Fortbildung im Sinne des Absatzes 1 Satz 2 Nr. 2, Absatzes 2 Satz 2 Nr. 2 zu stellenden Anforderungen, über Art und Umfang der zu erbringenden Prüfungsleistungen, über das Prüfungsverfahren und über die Zuständigkeiten. Das Landesrecht kann auch bestimmen, dass eine in einem anderen Land abgelegte Prüfung im Sinne dieser Vorschrift anerkannt wird.
+(3) Das Landesrecht kann weitergehende Zulassungsvoraussetzungen aufstellen. Es regelt das Nähere über die an eine Umschulung oder Fortbildung im Sinne des Absatzes 1 Satz 2 Nummer 2 und des Absatzes 2 Satz 2 Nummer 2 zu stellenden Anforderungen, über Art und Umfang der zu erbringenden Prüfungsleistungen, über das Prüfungsverfahren und über die Zuständigkeiten. Das Landesrecht kann auch bestimmen, dass eine in einem anderen Land abgelegte Prüfung im Sinne dieser Vorschrift anerkannt wird.
 
-# § 12 – Übergangsregelungen
+# § 18 – Übergangsregelung
 
-Auf Vergütungsansprüche von Betreuern, Vormündern, Pflegern und Verfahrenspflegern für Leistungen, die vor dem 27. Juli 2019 erbracht wurden, ist dieses Gesetz bis zum Ende des angefangenen Betreuungsmonats in seiner bis dahin geltenden Fassung anzuwenden.
+Auf Vergütungsansprüche von Betreuern, Vormündern, Pflegern und Verfahrenspflegern für Leistungen, die vor dem 1. Januar 2023 erbracht wurden, ist das Vormünder- und Betreuervergütungsgesetz vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, bis zum Ende des angefangenen Abrechnungsmonats in seiner bis dahin geltenden Fassung anzuwenden.
 
-# Anlage – (zu § 4 Absatz 1)
+# § 19 – Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben
 
-(Fundstelle: BGBl. I 2019, 869 - 870)
+(1) Für berufliche Betreuer, die bis einschließlich 1. Januar 2023 seit weniger als drei Jahren berufliche Betreuungen führen, gilt § 4 Absatz 2 bis 4 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis einschließlich 31. Dezember 2022 geltenden Fassung, bis sie ihre Sachkunde nach § 32 Absatz 2 Satz 2 des Betreuungsorganisationsgesetzes gegenüber der Stammbehörde nachgewiesen haben.
 
-Vergütungstabelle A
+(2) Soweit durch Landesrecht auf der Grundlage von § 11 des Vormünder- und Betreuervergütungsgesetzes vom 21. April 2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, in der bis einschließlich 1. Januar 2023 geltenden Fassung oder von § 2 des Berufsvormündervergütungsgesetzes vom 25. Juni 1998 (BGBl. I S. 1580, 1586), das zuletzt durch Artikel 29 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3574) geändert worden ist, in der bis einschließlich 30. Juni 2005 geltenden Fassung Prüfungsleistungen mit Abschlüssen gleichgestellt sind, sind die Prüfungsleistungen bei der Feststellung, nach welcher Vergütungstabelle sich die Vergütung richtet, im Verfahren nach § 8 Absatz 2 und 3 entsprechend zu Grunde zu legen.
 
-Nr.
+# Anlage – (zu § 8 Absatz 1)
 
-Dauer der  
-Betreuung
+(Fundstelle: BGBl. I 2021, 930- 931; bzgl. einzelner Änderungen vgl. Fußnote)
 
-Nr.
+ 
 
-Gewöhnlicher  
-Aufenthaltsort
-
-Nr.
-
-Vermögensstatus
-
-monatliche  
-Pauschale
-
-A1
-
-In den ersten  
-drei Monaten
-
-A1.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-A1.1.1
-
-mittellos
-
-194,00 €
-
-A1.1.2
-
-nicht mittellos
-
-200,00 €
-
-A1.2
-
-andere Wohnform
-
-A1.2.1
-
-mittellos
-
-208,00 €
-
-A1.2.2
-
-nicht mittellos
-
-298,00 €
-
-A2
-
-Im vierten bis  
-sechsten Monat
-
-A2.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-A2.1.1
-
-mittellos
-
-129,00 €
-
-A2.1.2
-
-nicht mittellos
-
-158,00 €
-
-A2.2
-
-andere Wohnform
-
-A2.2.1
-
-mittellos
-
-170,00 €
-
-A2.2.2
-
-nicht mittellos
-
-208,00 €
-
-A3
-
-Im siebten bis  
-zwölften Monat
-
-A3.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-A3.1.1
-
-mittellos
-
-124,00 €
-
-A3.1.2
-
-nicht mittellos
-
-140,00 €
-
-A3.2
-
-andere Wohnform
-
-A3.2.1
-
-mittellos
-
-151,00 €
-
-A3.2.2
-
-nicht mittellos
-
-192,00 €
-
-A4
-
-Im 13. bis  
-24. Monat
-
-A4.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-A4.1.1
-
-mittellos
-
-87,00 €
-
-A4.1.2
-
-nicht mittellos
-
-91,00 €
-
-A4.2
-
-andere Wohnform
-
-A4.2.1
-
-mittellos
-
-122,00 €
-
-A4.2.2
-
-nicht mittellos
-
-158,00 €
-
-A5
-
-Ab dem 25. Monat
-
-A5.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-A5.1.1
-
-mittellos
-
-62,00 €
-
-A5.1.2
-
-nicht mittellos
-
-78,00 €
-
-A5.2
-
-andere Wohnform
-
-A5.2.1
-
-mittellos
-
-105,00 €
-
-A5.2.2
-
-nicht mittellos
-
-130,00 €
-
-Vergütungstabelle B
-
-Nr.
-
-Dauer der  
-Betreuung
-
-Nr.
-
-Gewöhnlicher  
-Aufenthaltsort
-
-Nr.
-
-Vermögensstatus
-
-monatliche  
-Pauschale
-
-B1
-
-In den ersten  
-drei Monaten
-
-B1.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-B1.1.1
-
-mittellos
-
-241,00 €
-
-B1.1.2
-
-nicht mittellos
-
-249,00 €
-
-B1.2
-
-andere Wohnform
-
-B1.2.1
-
-mittellos
-
-258,00 €
-
-B1.2.2
-
-nicht mittellos
-
-370,00 €
-
-B2
-
-Im vierten bis  
-sechsten Monat
-
-B2.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-B2.1.1
-
-mittellos
-
-158,00 €
-
-B2.1.2
-
-nicht mittellos
-
-196,00 €
-
-B2.2
-
-andere Wohnform
-
-B2.2.1
-
-mittellos
-
-211,00 €
-
-B2.2.2
-
-nicht mittellos
-
-258,00 €
-
-B3
-
-Im siebten bis  
-zwölften Monat
-
-B3.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-B3.1.1
-
-mittellos
-
-154,00 €
-
-B3.1.2
-
-nicht mittellos
-
-174,00 €
-
-B3.2
-
-andere Wohnform
-
-B3.2.1
-
-mittellos
-
-188,00 €
-
-B3.2.2
-
-nicht mittellos
-
-238,00 €
-
-B4
-
-Im 13. bis  
-24. Monat
-
-B4.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-B4.1.1
-
-mittellos
-
-107,00 €
-
-B4.1.2
-
-nicht mittellos
-
-113,00 €
-
-B4.2
-
-andere Wohnform
-
-B4.2.1
-
-mittellos
-
-151,00 €
-
-B4.2.2
-
-nicht mittellos
-
-196,00 €
-
-B5
-
-Ab dem 25. Monat
-
-B5.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-B5.1.1
-
-mittellos
-
-78,00 €
-
-B5.1.2
-
-nicht mittellos
-
-96,00 €
-
-B5.2
-
-andere Wohnform
-
-B5.2.1
-
-mittellos
-
-130,00 €
-
-B5.2.2
-
-nicht mittellos
-
-161,00 €
-
-Vergütungstabelle C
-
-Nr.
-
-Dauer der  
-Betreuung
-
-Nr.
-
-Gewöhnlicher  
-Aufenthaltsort
-
-Nr.
-
-Vermögensstatus
-
-monatliche  
-Pauschale
-
-C1
-
-In den ersten  
-drei Monaten
-
-C1.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-C1.1.1
-
-mittellos
-
-317,00 €
-
-C1.1.2
-
-nicht mittellos
-
-327,00 €
-
-C1.2
-
-andere Wohnform
-
-C1.2.1
-
-mittellos
-
-339,00 €
-
-C1.2.2
-
-nicht mittellos
-
-486,00 €
-
-C2
-
-Im vierten bis  
-sechsten Monat
-
-C2.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-C2.1.1
-
-mittellos
-
-208,00 €
-
-C2.1.2
-
-nicht mittellos
-
-257,00 €
-
-C2.2
-
-andere Wohnform
-
-C2.2.1
-
-mittellos
-
-277,00 €
-
-C2.2.2
-
-nicht mittellos
-
-339,00 €
-
-C3
-
-Im siebten bis  
-zwölften Monat
-
-C3.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-C3.1.1
-
-mittellos
-
-202,00 €
-
-C3.1.2
-
-nicht mittellos
-
-229,00 €
-
-C3.2
-
-andere Wohnform
-
-C3.2.1
-
-mittellos
-
-246,00 €
-
-C3.2.2
-
-nicht mittellos
-
-312,00 €
-
-C4
-
-Im 13. bis  
-24. Monat
-
-C4.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-C4.1.1
-
-mittellos
-
-141,00 €
-
-C4.1.2
-
-nicht mittellos
-
-149,00 €
-
-C4.2
-
-andere Wohnform
-
-C4.2.1
-
-mittellos
-
-198,00 €
-
-C4.2.2
-
-nicht mittellos
-
-257,00 €
-
-C5
-
-Ab dem 25. Monat
-
-C5.1
-
-stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-C5.1.1
-
-mittellos
-
-102,00 €
-
-C5.1.2
-
-nicht mittellos
-
-127,00 €
-
-C5.2
-
-andere Wohnform
-
-C5.2.1
-
-mittellos
-
-171,00 €
-
-C5.2.2
-
-nicht mittellos
-
-211,00 €
+ 
