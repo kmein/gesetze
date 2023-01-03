@@ -590,9 +590,7 @@ und aus Gewinnsucht oder gewerbsmäßig handelt.
 
 Die Länder können zur Regelung der Seefischerei oder zur Durchführung des Fischereirechts der Europäischen Union weitere Vorschriften erlassen, soweit dieses Gesetz keine Regelung trifft oder das Bundesministerium für Ernährung und Landwirtschaft von seinen Ermächtigungen nach § 15 keinen Gebrauch macht. Sie können im Interesse der auf Dauer bestmöglichen Nutzung und Erhaltung der Fischbestände die Ausübung des Fischfangs Beschränkungen unterwerfen, die über eine bundesrechtliche Regelung hinausgehen. Die Vorschriften der Länder haben sich im Rahmen des Fischereirechts der Europäischen Union zu halten.
 
-# § 22 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 1 des Gesetzes über die Verkündung von Rechtsverordnungen auch im elektronischen Bundesanzeiger verkündet werden. Auf Rechtsverordnungen, die im elektronischen Bundesanzeiger verkündet werden, ist unter Angabe der Stelle ihrer Veröffentlichung und des Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt hinzuweisen.
+# § 22 – (weggefallen)
 
 # § 22a – Übergangs- und Anwendungsbestimmungen
 

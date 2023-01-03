@@ -13,7 +13,7 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der fachspezifische Vorb
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele der Ausbildung
 
@@ -27,9 +27,7 @@ Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methode
 
 # § 4 – Auswahlverfahren
 
-(1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den mittleren nichttechnischen Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer Auswahlkommission durchgeführt und besteht aus einem schriftlichen und einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann anstelle des Bundesverwaltungsamts eine andere Behörde über die Einstellung entscheiden.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den mittleren nichttechnischen Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer Auswahlkommission durchgeführt und besteht aus einem schriftlichen und einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des Innern und für Heimat kann anstelle des Bundesverwaltungsamts eine andere Behörde über die Einstellung entscheiden.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungsplätze, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden, jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen.
 
@@ -45,7 +43,7 @@ Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methode
 
 Je Auswahlkommission kann eine Tarifbeschäftigte oder ein Tarifbeschäftigter anstelle einer Beamtin oder eines Beamten zum Mitglied bestellt werden, wenn sie oder er über vergleichbare Kenntnisse verfügt. Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Einstellungsbehörde für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
 
-(4a) Die Einstellungsbehörde kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(4a) Die Einstellungsbehörde kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2024 – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder des gehobenen nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
 
@@ -157,7 +155,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 
 (1) Die Ausbildung gliedert sich in eng verzahnte fachtheoretische Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch Behörden des Bundes und der Kommunen unterstützt.
 
-(1a) Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
+(1a) Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 (2) Die Ausbildung gliedert sich in folgende Abschnitte:  
   
@@ -171,9 +169,9 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 | 5   | Praktikum III        | Bundesbehörde        | 6 Monate |
 | 6   | Abschlusslehrgang    | Bundesverwaltungsamt | 5 Monate |
 
-(3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 das Praktikum II – abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.
+(3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 das Praktikum II – abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.
 
-(4) Das Bundesverwaltungsamt kann mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat festlegen, dass bis zum 31. Dezember 2022 die Ausbildungsabschnitte – abweichend von Absatz 2 –
+(4) Das Bundesverwaltungsamt kann mit Zustimmung des Bundesministeriums des Innern und für Heimat festlegen, dass bis zum 31. Dezember 2024 die Ausbildungsabschnitte – abweichend von Absatz 2 –
 
 1. anders gegliedert werden,
 
@@ -185,7 +183,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 
 (1) Die fachtheoretische Ausbildung umfasst mindestens 1 090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den Einführungslehrgang, mindestens 320 Lehrstunden auf den Zwischenlehrgang und mindestens 540 Lehrstunden auf den Abschlusslehrgang.
 
-(1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 die Lehrstunden – abweichend von Absatz 1 Satz 2 – anders auf die Ausbildungsabschnitte verteilt werden.
+(1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 die Lehrstunden – abweichend von Absatz 1 Satz 2 – anders auf die Ausbildungsabschnitte verteilt werden.
 
 (2) Die fachtheoretische Ausbildung erstreckt sich auf folgende Fachgebiete:
 
@@ -251,9 +249,9 @@ b) zwei schriftliche oder mündliche Leistungstests.
 
 Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zwischenprüfung und in der Abschlussprüfung.
 
-(1a) Bis zum 31. Dezember 2022 können schriftliche Leistungstests mit Unterstützung durch Informationstechnik durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 können schriftliche Leistungstests mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von Absatz 1 Satz 1 – weniger Leistungstests zu absolvieren sind.
+(1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von Absatz 1 Satz 1 – weniger Leistungstests zu absolvieren sind.
 
 (2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
 
@@ -379,7 +377,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen Kenntnisse nachzuweisen.
 
-(1a) Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31. Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt.
+(1a) Mit Zustimmung des Bundesministeriums des Innern und für Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31. Dezember 2024 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt.
 
 (2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl von mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern wird rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen Abschlussprüfung zugelassen werden oder nicht.
 
@@ -387,7 +385,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (4) Die Prüfungskommission bewertet die Leistungen. Auf Vorschlag der Fachprüferin oder des Fachprüfers bewertet die Prüfungskommission einvernehmlich die Prüfungsleistung des jeweiligen Fachgebiets. Das Ergebnis der mündlichen Abschlussprüfung wird aus dem Durchschnitt der Bewertungen für die einzelnen Fachgebiete gebildet.
 
-(5) Die mündliche Abschlussprüfung ist nicht öffentlich. Angehörige des Prüfungsamts können unabhängig vom Einverständnis der Anwärterinnen und Anwärter anwesend sein. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums des Innern, für Bau und Heimat und des Bundesverwaltungsamts, die mit der Ausbildung befasst sind, die Anwesenheit allgemein oder im Einzelfall gestatten. In Ausnahmefällen kann auch anderen mit der Ausbildung befassten Personen die Anwesenheit gestattet werden, wenn die Anwärterin oder der Anwärter dem nicht widerspricht. Es sollen nicht mehr als fünf Zuhörerinnen und Zuhörer zugelassen werden. Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
+(5) Die mündliche Abschlussprüfung ist nicht öffentlich. Angehörige des Prüfungsamts können unabhängig vom Einverständnis der Anwärterinnen und Anwärter anwesend sein. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums des Innern und für Heimat und des Bundesverwaltungsamts, die mit der Ausbildung befasst sind, die Anwesenheit allgemein oder im Einzelfall gestatten. In Ausnahmefällen kann auch anderen mit der Ausbildung befassten Personen die Anwesenheit gestattet werden, wenn die Anwärterin oder der Anwärter dem nicht widerspricht. Es sollen nicht mehr als fünf Zuhörerinnen und Zuhörer zugelassen werden. Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
 
 (6) Über die mündliche Abschlussprüfung fertigt die oder der Vorsitzende der Prüfungskommission ein Protokoll an, aus dem die wesentlichen Umstände der Prüfung und die Bewertung hervorgehen. Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu bestätigen.
 

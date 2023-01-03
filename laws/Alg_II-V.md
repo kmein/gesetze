@@ -1,4 +1,4 @@
-% Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld*  (Arbeitslosengeld II/Sozialgeld-Verordnung - Alg II-V)
+% Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld  (Bürgergeld-Verordnung - Bürgergeld-V)
 % Ausfertigungsdatum: 17.12.2007
  
 # Eingangsformel

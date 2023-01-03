@@ -97,7 +97,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes –
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Studiums
 
@@ -360,7 +360,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 Mitglieder der Auswahlkommission können auch vergleichbare Angestellte sein. Mindestens ein Mitglied der Auswahlkommission soll haupt- oder nebenamtliche Lehrkraft der Hochschule sein.
 
-(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern bestehen:
+(2a) Bis zum 31. Dezember 2024 kann eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern bestehen:
 
 1. einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes der Hochschule oder einer Ausbildungsbehörde als Vorsitzender oder Vorsitzendem und
 
@@ -446,8 +446,6 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 4. eine Gruppendiskussion.
 
-(4) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
-
 # § 19 – Bestehen des mündlichen Teils
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturierten Interview und im Fall der Anwendung weiterer Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die Mindestpunktzahl erreicht worden ist.
@@ -472,7 +470,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 (2) Das Studium umfasst 24 Monate Fachstudien an der Hochschule und zwölf Monate berufspraktische Studienzeiten.
 
-(2a) Bis zum 31. Dezember 2022 können in den Fachstudien und den berufspraktischen Studienzeiten für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
+(2a) Bis zum 31. Dezember 2024 können in den Fachstudien und den berufspraktischen Studienzeiten für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:
 
@@ -524,7 +522,7 @@ Berufspraktische Studienzeit II
 
 Hauptstudium II
 
-(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1. die Studienabschnitte – abweichend von Absatz 3 – anders gegliedert werden und
 
@@ -902,7 +900,7 @@ Wird eine Prüfung oder ein Prüfungsteil von zwei Prüfenden bewertet, wird das
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie einen Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 

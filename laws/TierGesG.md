@@ -1186,7 +1186,17 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 7. entgegen § 24 Absatz 9 eine Maßnahme nicht duldet oder eine Person nicht unterstützt oder
 
-8. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 4 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+8. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 4
+
+a) Buchstabe a,
+
+b) Buchstabe b,
+
+c) Buchstabe c oder
+
+d) Buchstabe d
+
+genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 4 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
