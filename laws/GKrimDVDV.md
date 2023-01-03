@@ -161,7 +161,7 @@ Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Dienstbehörde
 
@@ -359,8 +359,6 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (2) Das Auswahlverfahren wird beim Bundeskriminalamt durchgeführt.
 
-(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
-
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an Studienplätzen, so kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an Studienplätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
 
 (4) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine elektronische Mitteilung über die Nichtzulassung. Die Bewerbungsunterlagen sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch eingesandte Bewerbungsunterlagen sind endgültig zu löschen.
@@ -513,7 +511,7 @@ Modul 14
 
 Thesis der Bachelorarbeit
 
-(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in einen anderen Studienabschnitt verschoben werden. In den Studienabschnitt „Bachelorarbeit“ dürfen jedoch keine Lehrveranstaltungen verschoben werden.
+(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in einen anderen Studienabschnitt verschoben werden. In den Studienabschnitt „Bachelorarbeit“ dürfen jedoch keine Lehrveranstaltungen verschoben werden.
 
 (2) Die Einzelheiten der Studieninhalte und des Studienverlaufs legt die Hochschule in einem Modulhandbuch fest. Das Modulhandbuch wird auf der Website des Bundeskriminalamts veröffentlicht.
 
@@ -527,7 +525,7 @@ Thesis der Bachelorarbeit
 
 (2) Die praxisintegrierenden Studienzeiten I werden bei einer Kriminalpolizeidienststelle einer Landespolizei durchgeführt. Die praxisintegrierenden Studienzeiten II werden beim Bundeskriminalamt durchgeführt.
 
-(3) Bis zum 31. Dezember 2022 können für alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
+(3) Bis zum 31. Dezember 2024 können für alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 # § 14 – Gestaltung und Organisation der praxisintegrierenden Studienzeiten
 
@@ -619,7 +617,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 5. eines Kurzvortrags.
 
-(1a) Bis zum 31. Dezember 2022
+(1a) Bis zum 31. Dezember 2024
 
 1. können Klausuren mit Unterstützung durch Informationstechnik durchgeführt werden und
 
@@ -821,7 +819,7 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (1) Die Verteidigung wird als Einzelprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung der Verteidigung der Bachelorarbeit Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der Verteidigung der Bachelorarbeit Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Die Verteidigung besteht aus
 
@@ -1033,8 +1031,6 @@ b) an einer staatlich anerkannten Hochschule.
 
 (2) Das Auswahlverfahren wird beim Bundeskriminalamt durchgeführt.
 
-(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
-
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
 (4) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an zur Verfügung stehenden Plätzen, so kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an zur Verfügung stehenden Plätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
@@ -1109,7 +1105,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 | Modul 8 | Politisch motivierte Kriminalität                                                                                          |
 | Modul 9 | Polizeiliche Informationserhebung und Informationsverwendung sowie Phänomen Cybercrime                                     |
 
-(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes Modul verschoben werden.
+(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes Modul verschoben werden.
 
 (2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt dieser Module richtet sich nach dem Modulhandbuch „Cyberkriminalität“, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Die Einzelheiten der Studieninhalte und des Studienverlaufs legt die Hochschule in einem Modulhandbuch fest, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Das Modulhandbuch wird auf der Website des Bundeskriminalamts veröffentlicht.
 
@@ -1181,7 +1177,7 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
-(1a) Bis zum 31. Dezember 2022 können die Klausuren mit Unterstützung durch Informationstechnik durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 können die Klausuren mit Unterstützung durch Informationstechnik durchgeführt werden.
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
@@ -1259,7 +1255,7 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder Gruppenprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
 
@@ -1347,8 +1343,6 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 (2) Das Auswahlverfahren wird beim Bundeskriminalamt durchgeführt.
 
-(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
-
 (3) Zum Auswahlverfahren wird zugelassen, wer die für die Laufbahnaufgaben erforderlichen wissenschaftlichen und methodischen Grundkenntnisse durch ein mit einem Bachelor oder Master abgeschlossenen Hochschulstudium oder durch einen gleichwertigen Abschluss nachgewiesen hat und nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
 (4) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an zur Verfügung stehenden Plätzen, so kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an zur Verfügung stehenden Plätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
@@ -1430,7 +1424,7 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 | Modul 9  | Polizeiliche Informationserhebung und Informationsverwendung sowie Phänomen Cybercrime                                     |
 | Modul 10 | Fachpraxis Bundeskriminalamt                                                                                               |
 
-(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes Modul verschoben werden.
+(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes Modul verschoben werden.
 
 (2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt der Module 1 bis 4 und 6 bis 10 richtet sich nach dem Modulhandbuch für die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ in der Fassung, die bei Beginn der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gilt.
 
@@ -1500,7 +1494,7 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
-(1a) Bis zum 31. Dezember 2022 können die Klausuren mit Unterstützung durch Informationstechnik durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 können die Klausuren mit Unterstützung durch Informationstechnik durchgeführt werden.
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
@@ -1578,7 +1572,7 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder Gruppenprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
 

@@ -77,7 +77,7 @@ Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst f
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Vorbereitungsdienstes
 
@@ -245,7 +245,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Werden Ausnahmen von Absatz 2 Nummer 1 zugelassen, so ist die Einstellung mit der Auflage zu versehen, dass der Befähigungsnachweis bis zum Abschluss des Vorbereitungsdienstes vorzulegen ist. Anwärterinnen und Anwärter, die den in Absatz 2 Nummer 1 genannten Befähigungsnachweis nicht bis zum Abschluss des Vorbereitungsdienstes vorlegen, werden nicht in ein Beamtenverhältnis auf Probe übernommen.
 
-(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise auch noch nach Abschluss des Vorbereitungsdienstes vorgelegt werden können.
+(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2024 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise auch noch nach Abschluss des Vorbereitungsdienstes vorgelegt werden können.
 
 (4) Über die Einstellung der Bewerberinnen und Bewerber entscheidet die Bundespolizeiakademie auf der Grundlage der Rangfolge, die anhand des im Auswahlverfahren erzielten Gesamtergebnisses festgelegt worden ist.
 
@@ -495,7 +495,7 @@ d) polizeispezifische Erste Hilfe sowie
 
 (4) In der Grundausbildung ist in jedem Fach der theoretischen und der praktischen Ausbildung mindestens ein Leistungstest durchzuführen.
 
-(4a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 davon abgesehen werden kann, in der Grundausbildung in jedem Fach der theoretischen und der praktischen Ausbildung mindestens einen Leistungstest durchzuführen.
+(4a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024 davon abgesehen werden kann, in der Grundausbildung in jedem Fach der theoretischen und der praktischen Ausbildung mindestens einen Leistungstest durchzuführen.
 
 (5) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
@@ -545,7 +545,7 @@ c) Polizeitechnik,
 
 2. in jedem der in Absatz 2 Nummer 2 genannten Fächer.
 
-(3a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 während der weiteren Ausbildung in den in Absatz 2 Nummer 1 Buchstabe c, d, g und h und Nummer 2 genannten Fächern auf einen Leistungstest verzichtet werden kann.
+(3a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024 während der weiteren Ausbildung in den in Absatz 2 Nummer 1 Buchstabe c, d, g und h und Nummer 2 genannten Fächern auf einen Leistungstest verzichtet werden kann.
 
 (4) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
@@ -669,7 +669,7 @@ Die Zwischenprüfung besteht aus
 
 3. einer praktischen Prüfung.
 
-Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 in der Zwischenprüfung die praktische Prüfung entfällt.
+Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024 in der Zwischenprüfung die praktische Prüfung entfällt.
 
 # § 34 – Gegenstand und Durchführung der schriftlichen Prüfung
 
@@ -829,7 +829,7 @@ Die praktische Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 4. Angehörige des Prüfungsamts,
 
-5. eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern, für Bau und Heimat und
+5. eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern und für Heimat und
 
 6. eine Vertreterin oder ein Vertreter des Bundespolizeipräsidiums.
 
@@ -885,7 +885,7 @@ c) der 15-fachen Rangpunktzahl der mündlichen Prüfung sowie
 
 # § 46 – Wiederholung der Zwischenprüfung
 
-(1) Hat eine Anwärterin oder ein Anwärter die Zwischenprüfung nicht bestanden, so kann sie oder er die Zwischenprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
+(1) Hat eine Anwärterin oder ein Anwärter die Zwischenprüfung nicht bestanden, so kann sie oder er die Zwischenprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern und für Heimat eine zweite Wiederholung zulassen.
 
 (2) Die Wiederholung der Zwischenprüfung erfolgt frühestens drei Monate nach Bekanntgabe des Ergebnisses. Sie muss spätestens bis zum Ende der weiteren Ausbildung (§ 23) abgeschlossen sein.
 
@@ -1093,7 +1093,7 @@ Die Bundespolizeiakademie entscheidet mit Zustimmung des Bundespolizeipräsidium
 
 4. Angehörige des Prüfungsamts,
 
-5. eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern, für Bau und Heimat sowie
+5. eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern und für Heimat sowie
 
 6. eine Vertreterin oder ein Vertreter des Bundespolizeipräsidiums.
 
@@ -1141,7 +1141,7 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 # § 64 – Wiederholung der Laufbahnprüfung
 
-(1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
+(1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern und für Heimat eine zweite Wiederholung zulassen.
 
 (2) Die Wiederholung der Laufbahnprüfung erfolgt frühestens drei Monate nach Bekanntgabe des Ergebnisses.
 

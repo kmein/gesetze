@@ -13,7 +13,7 @@ Diese Verordnung regelt
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Diplomstudium
 
@@ -147,7 +147,7 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (3) Werden Ausnahmen von Absatz 2 zugelassen, so ist die Einstellung mit der Auflage zu versehen, dass die Befähigungsnachweise bis zum Abschluss des Grundstudiums vorzulegen sind. Studierende, die die in Absatz 2 genannten Befähigungsnachweise nicht bis zum Abschluss des Grundstudiums vorlegen, sind aus dem Beamtenverhältnis zu entlassen.
 
-(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise erst bis zum Abschluss des Vorbereitungsdienstes vorzulegen sind.
+(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2024 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise erst bis zum Abschluss des Vorbereitungsdienstes vorzulegen sind.
 
 (4) Die Bundespolizeiakademie entscheidet über die Einstellung der Bewerberinnen und Bewerber auf der Grundlage der Rangfolge nach § 12 Absatz 2.
 
@@ -328,7 +328,7 @@ Polizeitraining (während der Module 10 bis 18)
 
 (1) In den Modulen 1 bis 3, 8, 9, 11 bis 13, 15 und 17 sind Leistungstests durchzuführen.
 
-(1a) Bis zum 31. Dezember 2022 kann davon abgesehen werden, dass in allen der in Absatz 1 genannten Module Leistungstests zu absolvieren sind.
+(1a) Bis zum 31. Dezember 2024 kann davon abgesehen werden, dass in allen der in Absatz 1 genannten Module Leistungstests zu absolvieren sind.
 
 (2) Ein Leistungstest kann durchgeführt werden in Form
 
@@ -576,7 +576,7 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (1) Die schriftlichen Prüfungen bestehen aus jeweils mindestens einer Klausur in den Modulen 10 und 14.
 
-(1a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 eine Klausur durch eine mündliche Prüfung ersetzt wird. Für die mündliche Prüfung gelten die Regelungen zur mündlichen Abschlussprüfung nach § 35 Absatz 2 bis 4 Satz 1 entsprechend. Das Ergebnis der mündlichen Prüfung tritt an die Stelle der entfallenen Klausur.
+(1a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2024 eine Klausur durch eine mündliche Prüfung ersetzt wird. Für die mündliche Prüfung gelten die Regelungen zur mündlichen Abschlussprüfung nach § 35 Absatz 2 bis 4 Satz 1 entsprechend. Das Ergebnis der mündlichen Prüfung tritt an die Stelle der entfallenen Klausur.
 
 (2) Die Bearbeitungszeit der Klausuren eines Moduls beträgt insgesamt mindestens 240 Minuten.
 
@@ -602,7 +602,7 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (3) In der praktischen Prüfung im Modul 20 wird die Handlungsfähigkeit bei polizeifachlichen Standardmaßnahmen geprüft. Die Prüfung soll 30 Minuten dauern. Näheres regelt das Modulhandbuch.
 
-(3a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 – abweichend von den Absätzen 1 und 3 – auf die praktische Leistungsabnahme im Modul 20 verzichtet wird.
+(3a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2024 – abweichend von den Absätzen 1 und 3 – auf die praktische Leistungsabnahme im Modul 20 verzichtet wird.
 
 (4) Gruppenleistungen sind zulässig, wenn die Einzelbeiträge abgegrenzt werden können und eine Bewertung jedes Einzelbeitrags möglich ist.
 
@@ -652,7 +652,7 @@ Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpun
 
 (3) Gegenstand, Verlauf und Ergebnis der mündlichen Abschlussprüfung werden von einer Protokollführerin oder einem Protokollführer protokolliert, die oder den das Prüfungsamt bestimmt. Das Protokoll ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 
-(4) Die mündliche Abschlussprüfung ist nicht öffentlich. Die Leiterin oder der Leiter des Fachbereichs Bundespolizei der Hochschule sowie Angehörige des Prüfungsamts können teilnehmen. Das Bundesministerium des Innern, für Bau und Heimat und das Bundespolizeipräsidium können jeweils eine Vertreterin oder einen Vertreter zur Teilnahme an der mündlichen Abschlussprüfung entsenden. Das Prüfungsamt kann auch anderen Personen die Anwesenheit in der mündlichen Abschlussprüfung allgemein oder im Einzelfall gestatten. Diese anderen Personen dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder, Angehörige des Prüfungsamts sowie die Protokollführerin oder der Protokollführer anwesend sein.
+(4) Die mündliche Abschlussprüfung ist nicht öffentlich. Die Leiterin oder der Leiter des Fachbereichs Bundespolizei der Hochschule sowie Angehörige des Prüfungsamts können teilnehmen. Das Bundesministerium des Innern und für Heimat und das Bundespolizeipräsidium können jeweils eine Vertreterin oder einen Vertreter zur Teilnahme an der mündlichen Abschlussprüfung entsenden. Das Prüfungsamt kann auch anderen Personen die Anwesenheit in der mündlichen Abschlussprüfung allgemein oder im Einzelfall gestatten. Diese anderen Personen dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder, Angehörige des Prüfungsamts sowie die Protokollführerin oder der Protokollführer anwesend sein.
 
 # § 36 – Bewertung und Bestehen der mündlichen Abschlussprüfung
 
@@ -750,7 +750,7 @@ g) der 24-fachen Rangpunktzahl der mündlichen Abschlussprüfung sowie
 
 # § 41 – Wiederholung von Prüfungen
 
-(1) Studierende, die die Zwischenprüfung, die schriftlichen Prüfungen der Laufbahnprüfung, die praktischen Prüfungen der Laufbahnprüfung, die Diplomarbeit oder die mündliche Abschlussprüfung nicht bestanden haben, können die entsprechende Prüfung jeweils einmal wiederholen. In begründeten Ausnahmefällen kann das Bundesministerium des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
+(1) Studierende, die die Zwischenprüfung, die schriftlichen Prüfungen der Laufbahnprüfung, die praktischen Prüfungen der Laufbahnprüfung, die Diplomarbeit oder die mündliche Abschlussprüfung nicht bestanden haben, können die entsprechende Prüfung jeweils einmal wiederholen. In begründeten Ausnahmefällen kann das Bundesministerium des Innern und für Heimat eine zweite Wiederholung zulassen.
 
 (2) Wird die Zwischenprüfung wiederholt, ist sie frühestens einen Monat nach Bekanntgabe des Ergebnisses und spätestens fünf Monate nach Ende des Grundstudiums zu wiederholen. Das weitere Studium wird wegen der Wiederholung der Zwischenprüfung nicht ausgesetzt.
 
@@ -758,7 +758,7 @@ g) der 24-fachen Rangpunktzahl der mündlichen Abschlussprüfung sowie
 
 (4) Werden schriftliche oder praktische Prüfungen der Laufbahnprüfung oder die mündliche Abschlussprüfung wiederholt, setzt das Prüfungsamt die Wiederholungstermine für alle Studierenden auf Vorschlag des Fachbereichs Bundespolizei der Hochschule fest. Die Wiederholung soll frühestens einen Monat nach Bekanntgabe des Ergebnisses erfolgen. Soweit erforderlich, ist der Vorbereitungsdienst durch die Bundespolizeiakademie zu verlängern.
 
-(4a) Bis zum 31. Dezember 2022 gilt für die Wiederholung schriftlicher Prüfungen der Laufbahnprüfung § 28 Absatz 1a entsprechend.
+(4a) Bis zum 31. Dezember 2024 gilt für die Wiederholung schriftlicher Prüfungen der Laufbahnprüfung § 28 Absatz 1a entsprechend.
 
 (5) Die bei der Wiederholung erreichten Rangpunkte ersetzen die zuvor erreichten.
 

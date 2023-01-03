@@ -15,7 +15,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Studiums
 
@@ -30,8 +30,6 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 # § 4 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und ehemalige Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung bestimmten Voraussetzungen erfüllen.
 
@@ -51,7 +49,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 Mitglieder der Auswahlkommission können auch Tarifbeschäftigte sein, die über entsprechende Kenntnisse verfügen. Die Einstellungsbehörde beruft die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern.
 
-(2a) Die Einstellungsbehörde kann festlegen, dass bis zum 31. Dezember 2022 die Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(2a) Die Einstellungsbehörde kann festlegen, dass bis zum 31. Dezember 2024 die Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes als Vorsitzender oder Vorsitzendem und
 
@@ -85,13 +83,13 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Hochschule
 
 7. Hauptstudium III.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Studienabschnitte anders gegliedert werden.
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Studienabschnitte anders gegliedert werden.
 
 (3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt die Hochschule in einem Modulhandbuch fest.
 
 # § 7a – Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
+Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 # § 8 – Fachstudien
 
@@ -163,11 +161,11 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen. In der Zwischenprüfung haben die Studierenden nachzuweisen, dass sie einen Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
 
 (2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe „Basisqualifikationen“ und drei weiteren Klausuren. Näheres legt die Hochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen ausgewählt, die die Lehrkräfte einreichen.
 
-(2a) Bis zum 31. Dezember 2022 können eine oder zwei der vier Klausuren jeweils durch eine Hausarbeit ersetzt werden. Das Thema für die jeweilige Hausarbeit wird von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen der Lehrkräfte ausgewählt.
+(2a) Bis zum 31. Dezember 2024 können eine oder zwei der vier Klausuren jeweils durch eine Hausarbeit ersetzt werden. Das Thema für die jeweilige Hausarbeit wird von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen der Lehrkräfte ausgewählt.
 
 (3) Die Zwischenprüfung ist bestanden, wenn die Klausur zur Modulgruppe „Basisqualifikationen“ und zwei weitere Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
 
@@ -197,7 +195,7 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(2a) Bis zum 31. Dezember 2020 kann für die Durchführung der Referate und der anderen mündlichen Leistungen Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(2a) Bis zum 31. Dezember 2024 kann für die Durchführung der Referate und der anderen mündlichen Leistungen Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (3) Das Nähere legt die Hochschule im Modulhandbuch fest.
 
@@ -247,7 +245,7 @@ Klausuren können mit Unterstützung durch Informationstechnik durchgeführt wer
 
 (3) Präsentation und Disputation werden als Einzelprüfung durchgeführt. Die Präsentation dauert in der Regel 15 Minuten. Die sich daran anschließende Disputation soll mindestens 20 und höchstens 30 Minuten dauern.
 
-(3a) Bis zum 31. Dezember 2022 kann für die Durchführung der Präsentation und Disputation Videokonferenztechnik genutzt werden, wenn dafür entsprechende technische Einrichtungen zur Verfügung stehen.
+(3a) Bis zum 31. Dezember 2024 kann für die Durchführung der Präsentation und Disputation Videokonferenztechnik genutzt werden, wenn dafür entsprechende technische Einrichtungen zur Verfügung stehen.
 
 (4) Die Präsentation und die Disputation sind hochschulöffentlich, wenn die oder der Studierende oder ihre oder seine Einstellungsbehörde dem nicht widerspricht. Unabhängig von deren Einverständnis können Angehörige des Prüfungsamtes anwesend sein. Das Prüfungsamt kann allgemein oder im Einzelfall gestatten, dass darüber hinaus mit der Ausbildung befasste Personen bei der Präsentation und der Disputation anwesend sind. Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen anfertigen. Bei den Beratungen über die Bewertung der Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 

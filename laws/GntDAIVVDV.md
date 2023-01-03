@@ -15,7 +15,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Studiums
 
@@ -29,9 +29,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 # § 4 – Auswahlverfahren
 
-(1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Hochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Hochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern, für Bau und Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Hochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Hochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern und für Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an Studienplätzen, kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an Studienplätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen. Das Nähere zu den Kriterien und zum Verfahren der Auswahl regelt die Auswahlverfahrensrichtlinie.
 
@@ -47,7 +45,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 In begründeten Fällen kann auch eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Kommission zum Mitglied der Auswahlkommission bestellt werden, sofern sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Hochschule für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Auswahlkommission – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Auswahlkommission – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer Beamtin oder einem Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft als Vorsitzender oder Vorsitzendem und
 
@@ -87,7 +85,7 @@ Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des Erholungsurl
 
 2. drei Fachstudienabschnitte und zwei hierzu parallel stattfindende Praktikumsabschnitte im Hauptstudium.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1. Semester des Präsenzstudiengangs anders gegliedert werden als nach Absatz 3 und
 
@@ -127,13 +125,13 @@ Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des Erholungsurl
 
 7. Interkulturelles Handeln in der Bundesverwaltung.
 
-(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von den Absätzen 2 und 3 – Lehrveranstaltungen zu den Kompetenzbereichen oder Teile der Lehrveranstaltungen in ein anderes Semester verschoben werden, und zwar auch in ein Semester einer berufspraktischen Studienzeit.
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von den Absätzen 2 und 3 – Lehrveranstaltungen zu den Kompetenzbereichen oder Teile der Lehrveranstaltungen in ein anderes Semester verschoben werden, und zwar auch in ein Semester einer berufspraktischen Studienzeit.
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
 # § 7a – Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können nach Entscheidung der Hochschule digitale Lehrformate genutzt werden
+Bis zum 31. Dezember 2024 können nach Entscheidung der Hochschule digitale Lehrformate genutzt werden
 
 1. für einzelne oder für alle Lehrveranstaltungen des Präsenzstudiengangs und
 
@@ -201,7 +199,7 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entsprechende Qualifikation verfügen. Zwei Mitglieder der Prüfungskommission sollen Lehrkräfte der Hochschule sein.
 
-(6a) Abweichend von Absatz 6 Satz 2 bis 4 können bis zum 31. Dezember 2022 von den fünf Mitgliedern der Prüfungskommission für die mündliche Abschlussprüfung höchstens vier Prüfende auch Lehrbeauftragte sein, die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder Arbeitnehmer des Bundes sind, wenn sie
+(6a) Abweichend von Absatz 6 Satz 2 bis 4 können bis zum 31. Dezember 2024 von den fünf Mitgliedern der Prüfungskommission für die mündliche Abschlussprüfung höchstens vier Prüfende auch Lehrbeauftragte sein, die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder Arbeitnehmer des Bundes sind, wenn sie
 
 1. über langjährige Erfahrungen als Lehrbeauftragte an der Hochschule verfügen und
 
@@ -209,7 +207,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (7) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 eine Prüfungskommission bereits beschlussfähig ist, wenn mindestens drei Mitglieder anwesend sind.
+(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 eine Prüfungskommission bereits beschlussfähig ist, wenn mindestens drei Mitglieder anwesend sind.
 
 (8) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
@@ -237,7 +235,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 7. ein Kurzvortrag.
 
-(4a) Bis zum 31. Dezember 2022 können
+(4a) Bis zum 31. Dezember 2024 können
 
 1. die Leistungstests Klausur, Sprachtest und Lehrveranstaltungsprotokoll mit Unterstützung durch Informationstechnik durchgeführt werden, und
 
@@ -249,17 +247,17 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (7) Modulprüfungen in den Praktika bestehen aus einem Praktikumsbericht und einem Rundgespräch. Daneben fließt in die Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
-(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Modulprüfung in einem Praktikum nur aus einem Praktikumsbericht besteht.
+(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Modulprüfung in einem Praktikum nur aus einem Praktikumsbericht besteht.
 
 # § 13 – Prüfungen im Grundstudium
 
 (1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung studiengangbegleitend durchgeführt werden.
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung studiengangbegleitend durchgeführt werden.
 
 (2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen Modulen des Grundstudiums. Die Modulprüfungen werden als Klausuren mit einer Bearbeitungszeit von jeweils 180 Minuten durchgeführt. Die Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
 
-(2a) Bis zum 31. Dezember 2022 können höchstens zwei der vier Modulprüfungen der Zwischenprüfung – abweichend von Absatz 2 Satz 2 – als Hausarbeit durchgeführt werden. Das jeweilige Thema für die Hausarbeit wählt die Dekanin oder der Dekan des Zentralbereichs aus den Vorschlägen der Lehrkräfte aus.
+(2a) Bis zum 31. Dezember 2024 können höchstens zwei der vier Modulprüfungen der Zwischenprüfung – abweichend von Absatz 2 Satz 2 – als Hausarbeit durchgeführt werden. Das jeweilige Thema für die Hausarbeit wählt die Dekanin oder der Dekan des Zentralbereichs aus den Vorschlägen der Lehrkräfte aus.
 
 (3) Die Zwischenprüfung ist bestanden, wenn
 
@@ -289,7 +287,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (2) Gegenstand der mündlichen Abschlussprüfung sollen zu gleichen Teilen die Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die mündliche Abschlussprüfung soll nicht länger als 40 Minuten dauern.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1. für die mündliche Abschlussprüfung die folgenden Kompetenzbereiche zu dem Kompetenzbereich „rechtliches Handeln in der Bundesverwaltung“ zusammengefasst werden:
 
@@ -311,13 +309,13 @@ c) Finanzen in der Bundesverwaltung (§ 7 Absatz 3 Nummer 5).
 
 Ist festgelegt worden, dass die in Satz 1 Nummer 1 genannten Kompetenzbereiche zusammengefasst werden, so soll die mündliche Abschlussprüfung nicht länger als 30 Minuten dauern.
 
-(2b) Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann die Hochschule festlegen, dass bis zum 31. Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn von der Ausnahmemöglichkeit nach Absatz 2a Gebrauch gemacht würde.
+(2b) Mit Zustimmung des Bundesministeriums des Innern und für Heimat kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn von der Ausnahmemöglichkeit nach Absatz 2a Gebrauch gemacht würde.
 
 (3) In der interdisziplinären Prüfung sollen die Studierenden nachweisen, dass sie die Inhalte der absolvierten Module zueinander in Beziehung setzen können und dass ihre Kenntnisse und Fähigkeiten den Anforderungen an Beamtinnen und Beamte des gehobenen nichttechnischen Verwaltungsdienstes genügen. Die Prüfung soll als Gruppenprüfung durchgeführt werden. Eine Prüfungsgruppe soll aus höchstens fünf Studierenden bestehen.
 
 (4) Die Prüfungskommission bewertet die Leistungen. Gegenstand, Verlauf und Ergebnis der Prüfung werden protokolliert. Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
-(5) Die Prüfung ist hochschulöffentlich, wenn die Studierenden nicht widersprechen. Angehörige des Prüfungsamtes können unabhängig vom Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums des Innern, für Bau und Heimat, der Präsidentin oder dem Präsidenten und den Fachbereichsleitungen der Fachhochschule, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die Anwesenheit bei der mündlichen Prüfung grundsätzlich oder im Einzelfall gestatten. Zuhörerinnen und Zuhörer dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
+(5) Die Prüfung ist hochschulöffentlich, wenn die Studierenden nicht widersprechen. Angehörige des Prüfungsamtes können unabhängig vom Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums des Innern und für Heimat, der Präsidentin oder dem Präsidenten und den Fachbereichsleitungen der Fachhochschule, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die Anwesenheit bei der mündlichen Prüfung grundsätzlich oder im Einzelfall gestatten. Zuhörerinnen und Zuhörer dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
 
 (6) Die Prüfung muss bis zum Ende des Vorbereitungsdienstes abgeschlossen sein.
 
@@ -447,7 +445,7 @@ nicht ausreichend
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb von sechs Wochen nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Ist auch die Wiederholung erfolglos, ist das Studium beendet.
 
-(2) Ist die Zwischenprüfung nicht bestanden, kann sie spätestens fünf Monate nach Ende des Grundstudiums und frühestens einen Monat nach Bekanntgabe des Ergebnisses einmal wiederholt werden. In begründeten Ausnahmefällen kann das Bundesministerium des Innern, für Bau und Heimat eine zweite Wiederholung zulassen. Die Zwischenprüfung ist vollständig zu wiederholen. Die weitere Ausbildung wird wegen der Wiederholung der Prüfung nicht ausgesetzt. Absatz 1 Satz 2 gilt entsprechend.
+(2) Ist die Zwischenprüfung nicht bestanden, kann sie spätestens fünf Monate nach Ende des Grundstudiums und frühestens einen Monat nach Bekanntgabe des Ergebnisses einmal wiederholt werden. In begründeten Ausnahmefällen kann das Bundesministerium des Innern und für Heimat eine zweite Wiederholung zulassen. Die Zwischenprüfung ist vollständig zu wiederholen. Die weitere Ausbildung wird wegen der Wiederholung der Prüfung nicht ausgesetzt. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Wird die Diplomarbeit mit weniger als fünf Rangpunkten bewertet, kann sie einmal wiederholt werden. Die Bearbeitungszeit für die Wiederholung der Diplomarbeit beginnt mit der Ausgabe des Themas. Absatz 1 Satz 2 gilt entsprechend. Für die letzten sechs Wochen der Bearbeitungszeit sind diese Studierenden von Lehrveranstaltungen und von ihren sonstigen Dienstpflichten freizustellen.
 
