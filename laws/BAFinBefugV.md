@@ -91,7 +91,7 @@ verordnet das Bundesministerium der Finanzen:
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
-1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 62 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
+1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 60 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
 
 2. Rechtsverordnungen nach Maßgabe des § 1 Absatz 5 Satz 3, des § 5 Absatz 2 Satz 1 und des § 6 Absatz 4 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes,
 

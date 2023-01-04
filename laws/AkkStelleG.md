@@ -183,10 +183,6 @@ Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen zuverlä
 
 (2) § 5 Absatz 7 in der ab dem 25. Juli 2017 geltenden Fassung ist erstmals auf eine Änderung oder einen Neuerlass der Geschäftsordnung anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
 
-# § 13a – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

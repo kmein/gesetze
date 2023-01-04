@@ -585,9 +585,7 @@ Bestellungen zum Bezirksschornsteinfegermeister wandeln sich unbeschadet der §�
 
 Am 31. Dezember 2012 festgestellte Ruhegelder wegen Versetzung in den Ruhestand werden vom 1. Januar 2013 an als Ruhegeld bei Berufsunfähigkeit weitergezahlt.
 
-# § 44 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 44 – (weggefallen)
 
 # § 45 – Anwendungsbestimmungen
 

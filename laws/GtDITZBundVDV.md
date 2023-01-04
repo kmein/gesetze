@@ -56,7 +56,7 @@ verordnet das Bundesministerium der Finanzen:
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Vorbereitungsdienstes
 
@@ -272,7 +272,7 @@ Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten des Bac
 
 Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte sein, die über eine entsprechende Qualifikation verfügen.
 
-(2a) Das Informationstechnikzentrum Bund kann festlegen, dass bis zum 31. Dezember 2022 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(2a) Das Informationstechnikzentrum Bund kann festlegen, dass bis zum 31. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des höheren Dienstes des Bundes als Vorsitzender oder Vorsitzendem und
 
@@ -287,8 +287,6 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 # § 10 – Durchführung des Auswahlverfahrens, Täuschungen
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann ganz oder teilweise mit Unterstützung von Informationstechnik durchgeführt werden. Mit der Durchführung des schriftlichen Teils können Dritte betraut werden. Die Gesamtverantwortung für die Bewertung der Leistungen trägt die Auswahlkommission.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Das Informationstechnikzentrum Bund legt die Dauer, die zu bearbeitenden Aufgaben und den Ablauf des Auswahlverfahrens, die Bewertungs- und Gewichtungssystematik sowie die für das Bestehen erforderlichen Mindestpunktzahlen in einem Auswahlkonzept fest.
 

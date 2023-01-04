@@ -29,7 +29,7 @@ Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst f
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele der Ausbildung
 
@@ -269,7 +269,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes nach Satz 1 Nummer 2 kann der Auswahlkommission auch eine Beamtin oder ein Beamter des mittleren Dienstes der Besoldungsgruppe A 9 (mittlerer Dienst) angehören. In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je Auswahlkommission bestellt werden.
 
-(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2021 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten, die oder der mindestens der Besoldungsgruppe A 13 angehört, als Vorsitzender oder Vorsitzendem und
 
@@ -328,8 +328,6 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 # § 15 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die Dauer der Simulationsübungen einschließlich erforderlicher Vorbereitungszeiten und die Dauer des Interviews werden den Bewerberinnen und Bewerbern vor Beginn des mündlichen Teils mitgeteilt. Die Dauer der Simulationsübungen beträgt pro Bewerberin oder Bewerber höchstens 150 Minuten.
 
@@ -391,7 +389,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend. Die Auszubildenden sind zum Selbststudium verpflichtet.
 
-(3a) Die Generalzolldirektion kann mit Zustimmung des Bundesministeriums der Finanzen festlegen, dass bis zum 31. Dezember 2022 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
+(3a) Die Generalzolldirektion kann mit Zustimmung des Bundesministeriums der Finanzen festlegen, dass bis zum 31. Dezember 2024 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
 
 (4) Für die fachtheoretische Ausbildung und für die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Ausbildung werden die Auszubildenden von den Ausbildungsbehörden an die Generalzolldirektion abgeordnet. Die Praktika werden bei der Ausbildungsbehörde durchgeführt.
 
@@ -659,7 +657,7 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 2. mindestens ein Mitglied der Prüfungskommission weiblich sein muss, wenn weibliche Auszubildende geprüft werden.
 
-(5a) Das Prüfungsamt kann festlegen, dass eine Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung bis zum 31. Dezember 2022 – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(5a) Das Prüfungsamt kann festlegen, dass eine Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung bis zum 31. Dezember 2024 – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des höheren Dienstes oder des gehobenen Dienstes, die oder der mindestens der Besoldungsgruppe A 12 angehört, als Vorsitzender oder Vorsitzendem und
 
@@ -775,7 +773,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (2) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. Eine Gruppe soll aus nicht mehr als sechs Auszubildenden bestehen. Die Dauer der Prüfung darf je Auszubildende oder Auszubildenden 30 Minuten nicht unterschreiten und soll 40 Minuten nicht überschreiten. Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung und stellt den ordnungsgemäßen Ablauf der Prüfung sicher. Die mündliche Prüfung wird durch mindestens eine Pause von angemessener Dauer unterbrochen.
 
-(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2024
 
 1. die mündliche Abschlussprüfung – abweichend von Absatz 2 Satz 1 – als Einzelprüfung durchgeführt wird,
 
@@ -783,7 +781,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 3. für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
-(2b) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von § 39 Absatz 2 – auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
+(2b) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von § 39 Absatz 2 – auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
 
 1. die technischen Einrichtungen für die Nutzung von Videokonferenztechnik nicht zur Verfügung stehen und
 

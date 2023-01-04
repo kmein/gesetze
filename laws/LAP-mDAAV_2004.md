@@ -195,7 +195,7 @@ Inkrafttreten, Außerkrafttreten
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziel und Inhalt der Ausbildung
 
@@ -255,7 +255,7 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 (2) Das Auswahlverfahren umfasst einen schriftlichen und einen mündlichen Teil und kann auch psychologische Eignungstests und Sprachtests umfassen. Das Auswahlverfahren wird von einem unabhängigen Ausschuss durchgeführt; dieser kann externe Beraterinnen oder Berater sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
-(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete Einrichtungen zur Verfügung stehen.
+(2a) (weggefallen)
 
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und Bewerber zugelassen, die nach den eingereichten Unterlagen die Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein Vorverfahren durchgeführt wird. Schwerbehinderte Menschen sowie ehemalige Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen, grundsätzlich zum Auswahlverfahren zugelassen. Frauen und Männer werden in einem ausgewogenen Verhältnis berücksichtigt.
 
@@ -275,7 +275,7 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 5. eine oder ein von der Leiterin oder dem Leiter der Zentralabteilung des Auswärtigen Amts bestellte Beamtin oder bestellter Beamter des mittleren Auswärtigen Dienstes.
 
-(6a) Bis zum 31. Dezember 2022 kann als Mitglied des Auswahlausschusses nach Absatz 6 Satz 4 Nummer 4 und 5 auch jeweils eine entsprechende Arbeitnehmerin oder ein entsprechender Arbeitnehmer bestellt werden.
+(6a) Bis zum 31. Dezember 2024 kann als Mitglied des Auswahlausschusses nach Absatz 6 Satz 4 Nummer 4 und 5 auch jeweils eine entsprechende Arbeitnehmerin oder ein entsprechender Arbeitnehmer bestellt werden.
 
 (7) Die Leiterin, der Leiter, die stellvertretende Leiterin oder der stellvertretende Leiter der Zentralabteilung des Auswärtigen Amts können als weitere stimmberechtigte Mitglieder am Auswahlverfahren teilnehmen. In der Regel führt die Leiterin oder der Leiter der Aus- und Fortbildungsstätte des Auswärtigen Amts den Vorsitz. Im Falle der Teilnahme der Leiterin oder des Leiters der Zentralabteilung führt diese oder dieser den Vorsitz. Die oder der Vorsitzende des Auswahlausschusses wird vertreten durch
 
@@ -287,7 +287,7 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder dem Leiter der Zentralabteilung des Auswärtigen Amts für die Dauer von drei Jahren bestellt. Der Auswahlausschuss ist beschlussfähig, wenn die oder der Vorsitzende und mindestens zwei Mitglieder anwesend sind. Er entscheidet mit Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 der Auswahlausschuss – abweichend von Absatz 7 Satz 6 – schon dann beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres Mitglied anwesend sind.
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 der Auswahlausschuss – abweichend von Absatz 7 Satz 6 – schon dann beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres Mitglied anwesend sind.
 
 (8) Je ein Mitglied des Personalrats und der Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 
@@ -354,7 +354,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 | 3\. | Auslandspraktikum                                                                                                                               | 8 bis 10 Monate, |
 | 4\. | Schlusslehrgang                                                                                                                                 |  6 bis 7 Monate. |
 
-(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 Ausbildungsabschnitte
+(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 Ausbildungsabschnitte
 
 1. in einer anderen Abfolge durchgeführt werden als nach Absatz 1 und
 
@@ -362,7 +362,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 # § 10a – Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen der Ausbildungsabschnitte digitale Lehrformate genutzt werden.
+Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen der Ausbildungsabschnitte digitale Lehrformate genutzt werden.
 
 # § 11 – Fachtheoretische Ausbildung
 
@@ -410,7 +410,7 @@ Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen de
 
 (2) Ferner sind im Einführungslehrgang eine Aufsichtsarbeit in der Hauptsprache und im Informationstechnik-Grundlagenkurs sowie im Schlusslehrgang je eine Aufsichtsarbeit in der Hauptsprache und in der Nebensprache anzufertigen.
 
-(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 
 1. einzelne oder alle Aufsichtsarbeiten im Einführungs- und im Schlusslehrgang mit Unterstützung durch Informationstechnik durchgeführt werden und
 
@@ -434,7 +434,7 @@ Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen de
 
 (3) Die Prüfung besteht aus einer Sprachprüfung in der Hauptsprache (§ 19) und aus einer Fachprüfung (§ 20). Beide Prüfungen bestehen aus je einem schriftlichen und einem mündlichen Teil.
 
-(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 bei der Sprachprüfung und der Fachprüfung
+(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 bei der Sprachprüfung und der Fachprüfung
 
 1. der schriftliche Teil jeweils mit Unterstützung durch Informationstechnik durchgeführt wird und
 
@@ -464,7 +464,7 @@ Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen de
 
 (2) Die mündliche Sprachprüfung findet nach Beendigung der schriftlichen Sprachprüfung und vor der Fachprüfung statt. Sie wird vor der Prüfungskommission abgelegt, die mit einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem sowie einer Beamtin oder einem Beamten des gehobenen Dienstes als Beisitzerin oder Beisitzer und zwei Sprachlehrerinnen oder Sprachlehrern als Fachprüferinnen oder Fachprüfer besetzt ist. Die mündliche Sprachprüfung dauert nicht mehr als 15 Minuten und besteht aus dem Lesen und Übersetzen eines Textes aus der Fremdsprache und einer anschließenden kurzen Unterhaltung in der Fremdsprache. § 20 Abs. 10 bis 12 gilt entsprechend. In der Nebensprache können die Anwärterinnen und Anwärter eine vergleichbare mündliche Sprachprüfung ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
 
-(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 die Prüfungskommission nur besetzt ist mit
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 die Prüfungskommission nur besetzt ist mit
 
 1. einer Beamtin oder einem Beamten des gehobenen Dienstes als Vorsitzender oder Vorsitzendem und
 
@@ -500,7 +500,7 @@ Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen de
 
 13. Liegenschaftsrecht.
 
-(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von Absatz 1 Satz 1 –
+(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von Absatz 1 Satz 1 –
 
 1. der Umfang der Aufsichtsarbeiten reduziert und die Bearbeitungszeit der Aufsichtsarbeiten verkürzt wird und
 
@@ -524,7 +524,7 @@ Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen de
 
 (9) Die mündliche Fachprüfung richtet sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für den mittleren Auswärtigen Dienst vier der in Absatz 1 Satz 2 genannten Fachgebiete als Prüfungsfächer aus. Es sollen nicht mehr als fünf Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für jeden Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
 
-(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 
 1. der mündliche Teil der Fachprüfung als Einzelprüfung durchgeführt wird,
 
