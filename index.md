@@ -146,7 +146,6 @@
 - [ALBeitrBek 2023](laws/ALBeitrBek_2023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2023
 - [ALFV](laws/ALFV.md) Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
-- [Alg II-V](laws/Alg_II-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld*
 - [AlkopopStG](laws/AlkopopStG.md) Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
 - [AlkopopStV](laws/AlkopopStV.md) Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer
 - [AlkoVerfrG](laws/AlkoVerfrG.md) Gesetz über die Verfrachtung alkoholischer Waren
@@ -1229,6 +1228,7 @@
 - [BüchsMstrV](laws/BüchsMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Büchsenmacher-Handwerk
 - [BühnenM/PlastAusbV](laws/BühnenM_PlastAusbV.md) Verordnung über die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
 - [BüPinAusbV](laws/BüPinAusbV.md) Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin*
+- [Bürgergeld-V](laws/Bürgergeld-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
 - [BürgPoRPakt](laws/BürgPoRPakt.md) Internationaler Pakt über bürgerliche und politische Rechte
 - [BürgPoRPaktGG](laws/BürgPoRPaktGG.md) Gesetz zu dem Internationalen Pakt vom 19. Dezember 1966 über bürgerliche und politische Rechte
 - [BüroMKfAusbV](laws/BüroMKfAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*
@@ -1346,6 +1346,7 @@
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
+- [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
 - [CSC](laws/CSC.md) Internationales Übereinkommen über sichere Container
@@ -5032,7 +5033,7 @@
 - [SGB 10/Kap3](laws/SGB_10_Kap3.md) Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten -
 - [SGB 11](laws/SGB_11.md) Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)
 - [SGB 12](laws/SGB_12.md) Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)
-- [SGB 2](laws/SGB_2.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *
+- [SGB 2](laws/SGB_2.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)
 - [SGB 3](laws/SGB_3.md) Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)
 - [SGB 4](laws/SGB_4.md) Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)
 - [SGB 5](laws/SGB_5.md) Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)

@@ -453,6 +453,10 @@ Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zu
 
 Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse; Festlegungskompetenz
 
+§ 24b
+
+Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten
+
 § 25
 
 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
@@ -1350,7 +1354,11 @@ Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und 
 
 § 118b
 
-(weggefallen)
+Befristete Sonderregelungen für Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung
+
+§ 118c
+
+Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023
 
 § 119
 
@@ -3843,6 +3851,18 @@ Im Falle des Satzes 2 Nr. 1 und 2 ist das Interesse an der Ermöglichung eines e
 
 Sofern im Haushaltsgesetz des Kalenderjahres, das dem Kalenderjahr vorangeht, in dem der Bundeszuschuss erfolgen soll, eine Verpflichtungsermächtigung zum Zweck der Absenkung der Übertragungsnetzentgelte veranschlagt wurde, richtet sich die Höhe des Zuschusses nach dem Betrag, der von der Bundesrepublik Deutschland in einem Bescheid an die Übertragungsnetzbetreiber mit Regelzonenverantwortung festgesetzt worden ist, wenn der Bescheid den Übertragungsnetzbetreibern mit Regelzonenverantwortung spätestens am 30. September des Kalenderjahres, das dem Kalenderjahr vorangeht, in dem der Zuschuss erfolgen soll, bekannt gegeben wird; dabei besteht keine Pflicht zum Erlass eines Bescheides. Die Aufteilung der Zahlungen zur Absenkung der Übertragungsnetzentgelte auf die Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt entsprechend dem jeweiligen Anteil ihrer Erlösobergrenze an der Summe der Erlösobergrenzen aller Übertragungsnetzbetreiber mit Regelzonenverantwortung. Zwischen den Übertragungsnetzbetreibern mit Regelzonenverantwortung und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Klimaschutz, wird vor der Bereitstellung eines Bundeszuschusses zum Zweck der Absenkung der Übertragungsnetzentgelte im Einvernehmen mit dem Bundesministerium der Finanzen ein öffentlich-rechtlicher Vertrag abgeschlossen. Die Bundesnetzagentur ist berechtigt, durch Festlegung nach § 29 Absatz 1 nähere Vorgaben zur Berücksichtigung des Bundeszuschusses bei der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte zu machen.
 
+# § 24b – Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten
+
+(1) Die Netzkosten des Kalenderjahres 2023 der Übertragungsnetzbetreiber mit Regelzonenverantwortung werden anteilig durch einen Zuschuss in Höhe von insgesamt 12,84 Milliarden Euro gedeckt. Der Zuschuss wird aus dem Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes finanziert. Zu diesem Zweck sind die Übertragungsnetzbetreiber mit Regelzonenverantwortung berechtigt, den nach Absatz 2 für sie berechneten Anteil an dem Zuschuss von dem Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes abzubuchen. Macht ein Übertragungsnetzbetreiber mit Regelzonenverantwortung von seiner Berechtigung zur Abbuchung nach Satz 3 Gebrauch, hat diese in Höhe seines Anteils nach Absatz 2 an dem Betrag von 1,07 Milliarden Euro zum 15. eines Kalendermonats zu erfolgen, wobei sich die Berechtigung auf den Zeitraum beginnend mit dem 15. Februar 2023 und endend mit dem 15. Januar 2024 beschränkt.
+
+(2) Die Aufteilung der monatlichen Zuschussbeträge auf die Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt entsprechend dem jeweiligen Anteil des Anstiegs ihrer Erlösobergrenze des Kalenderjahres 2023 gegenüber ihrer Erlösobergrenze des Kalenderjahres 2022 an der Summe des Anstiegs der Erlösobergrenzen aller Übertragungsnetzbetreiber mit Regelzonenverantwortung. Die Abbuchung der monatlichen Zuschussbeträge zu den Übertragungsnetzkosten von dem Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes an die Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt entsprechend diesem Verhältnis.
+
+(3) Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben den Zuschuss nach Absatz 1 Satz 1 bei der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte, die auf Grundlage der Rechtsverordnung nach § 24 Satz 2 Nummer 4 Buchstabe b erfolgt, für das Kalenderjahr 2023 rechnerisch von dem Gesamtbetrag der in die Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte einfließenden Erlösobergrenzen abzuziehen und entsprechend die Netzentgelte mindernd einzusetzen. Die Bundesnetzagentur ist berechtigt, durch Festlegung nach § 29 Absatz 1 nähere Vorgaben zur Berücksichtigung des Zuschusses bei der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte zu machen.
+
+(4) Soweit das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes bis zum zehnten Tag eines Kalendermonats kein ausreichendes Guthaben aufweist, damit eine Auszahlung nach Absatz 1 Satz 3 getätigt werden kann, ist eine Buchung in entsprechender Höhe von dem separaten Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach § 47 Absatz 1 Satz 1 des Energiefinanzierungsgesetzes auf das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes zulässig und vorzunehmen, soweit die Gesamtsumme dieser Buchungen den Betrag, den die Bundesrepublik Deutschland auf Grund des Bescheides vom 9. Oktober 2020 als Zuschuss zur Absenkung der EEG-Umlage geleistet hat, nicht übersteigt.
+
+(5) Wenn das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes auch nach den Buchungen nach Absatz 4 zur Gewährung der monatlichen Rate nach Absatz 1 Satz 3 nicht ausreichend gedeckt ist oder eine Abbuchung nach Absatz 1 Satz 2 aus rechtlichen Gründen nicht möglich ist, sind die Übertragungsnetzbetreiber mit Regelzonenverantwortung abweichend von § 20 Absatz 1 berechtigt, ihre Netzentgelte im Kalenderjahr 2023 einmalig unterjährig zum ersten Tag eines Monats anzupassen. Die Entscheidung zur Neukalkulation der Übertragungsnetzentgelte nach Satz 1 ist von allen Übertragungsnetzbetreibern mit Regelzonenverantwortung gemeinsam zu treffen. Die beabsichtigte Anpassung ist sechs Wochen vor ihrem Wirksamwerden der Bundesnetzagentur mitzuteilen und auf der gemeinsamen Internetseite der Übertragungsnetzbetreiber mit Regelzonenverantwortung zu veröffentlichen. Sofern die Übertragungsnetzbetreiber mit Regelzonenverantwortung das Recht nach Satz 1 zur einmaligen unterjährigen Anpassung ihrer Netzentgelte nutzen, sind auch die Betreiber von Elektrizitätsverteilernetzen abweichend von § 20 Absatz 1 berechtigt, auf dieser Grundlage ihre Netzentgelte zu demselben Datum anzupassen.
+
 # § 25 – Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
 
 Die Gewährung des Zugangs zu den Gasversorgungsnetzen ist im Sinne des § 20 Abs. 2 insbesondere dann nicht zumutbar, wenn einem Gasversorgungsunternehmen wegen seiner im Rahmen von Gaslieferverträgen eingegangenen unbedingten Zahlungsverpflichtungen ernsthafte wirtschaftliche und finanzielle Schwierigkeiten entstehen würden. Auf Antrag des betroffenen Gasversorgungsunternehmens entscheidet die Regulierungsbehörde, ob die vom Antragsteller nachzuweisenden Voraussetzungen des Satzes 1 vorliegen. Die Prüfung richtet sich nach Artikel 48 der Richtlinie 2009/73/EG (ABl. L 211 vom 14.8.2009, S. 94). Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die bei der Prüfung nach Artikel 48 der Richtlinie 2009/73/EG anzuwendenden Verfahrensregeln festzulegen. In der Rechtsverordnung nach Satz 4 kann vorgesehen werden, dass eine Entscheidung der Regulierungsbehörde, auch abweichend von den Vorschriften dieses Gesetzes, ergehen kann, soweit dies in einer Entscheidung der Kommission der Europäischen Gemeinschaften vorgesehen ist.
@@ -5174,7 +5194,27 @@ Ist die Einhaltung der Anforderungen an Bevorratung und Lagerung nach Satz 1 und
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Einzelheiten des Verfahrens zur befristeten Teilnahme am Strommarkt von Anlagen aus der Netzreserve nach den §§ 50a bis 50c und zur befristeten Versorgungsreserve Braunkohle nach § 50d.
 
-(2) Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1 nähere Bestimmungen zu den Nachweisen nach § 50b Absatz 2 Nummer 3 erlassen.
+(2) Die Bundesregierung kann nach Ausrufung der Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, oder nach Übermittlung einer Frühwarnung gemäß Artikel 14 Absatz 1 der Verordnung (EU) 2019/941 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Risikovorsorge im Elektrizitätssektor und zur Aufhebung der Richtlinie 2005/89/EG, durch Deutschland oder einen Mitgliedsstaat, dessen Übertragungsnetzbetreiber mit den deutschen Übertragungsnetzbetreibern dasselbe regionale Koordinierungszentrum nach Maßgabe von Artikel 36 der Verordnung (EU) 2019/943 teilt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zulassen, dass die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung befristet Anlagen, die nach § 13b Absatz 4 und 5, § 13d oder § 50a Absatz 4 Satz 2 sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve im Inland vorgehalten werden, zur Veräußerung von Strommengen aus diesen Anlagen am Strommarkt einsetzen oder die Betreiber dieser Anlagen zu einer Veräußerung dieser Strommengen auffordern (Vermarktung von Reserveanlagen). In der Rechtsverordnung sollen insbesondere Regelungen getroffen werden
+
+1. zur Regelung konkretisierender Einsatzkriterien,
+
+2. zur näheren Bestimmung der nach Satz 1 einzusetzenden Anlagen der Netzreserve, deren Erzeugungsmengen am Strommarkt eingesetzt werden können, insbesondere zur Regelung einer Ausnahme für die Anlagen, die nach § 50a Absatz 1 in Verbindung mit der Stromangebotsausweitungsverordnung befristet am Strommarkt teilnehmen,
+
+3. zu den Einzelheiten und der operativen Ausgestaltung der Vermarktung gemäß derer die Übertragungsnetzbetreiber mit Regelzonenverantwortung die erzeugten Strommengen am Strommarkt einsetzen dürfen und deren Verhältnis zu den bestehenden Netzreserveverträgen, dies schließt die Vermarktung von Strommengen durch die Anlagenbetreiber auf Anweisung des Übertragungsnetzbetreibers mit Regelzonenverantwortung ein,
+
+4. zur Konkretisierung des Zeitraums in dem die Vermarktung zugelassen wird, die längstens bis zum Ablauf des 31. März 2024 zulässig ist,
+
+5. zur Regelung der Erstattung von Kosten, die durch den Einsatz in der Vermarktung von Reserveanlagen entstehen, soweit diese nicht bereits anderweitig ersetzt werden,
+
+6. zum Verhältnis der Vergütungsregelungen in den Reserven nach § 13c dieses Gesetzes sowie § 6 der Netzreserveverordnung,
+
+7. zur Verwendung von Strommarkterlösen, soweit diese durch die Vermarktung erzielt werden und
+
+8. zur Einhaltung und Herstellung von Transparenz für die Regulierungsbehörde und alle Marktteilnehmer.
+
+Während der Vermarktung von Reserveanlagen nach Satz 1 darf der Betreiber, in dem Fall, dass dieser die Mengen veräußert, die elektrische Leistung oder Arbeit und die thermische Leistung der Anlage ganz oder teilweise am Strommarkt veräußern und Kohle verfeuern.
+
+(3) Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1 nähere Bestimmungen zu den Nachweisen nach § 50b Absatz 2 Nummer 3 erlassen.
 
 # § 50f – Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung
 
@@ -6923,6 +6963,14 @@ Voraussetzungen nach Satz 2 Nummer 2 können insbesondere auch auf eine von den 
 
 (46c) Auf Planfeststellungsverfahren von Offshore-Anbindungsleitungen nach § 43 Absatz 1 Satz 1 Nummer 2 und 4, für die der Antrag auf Planfeststellung vor dem 13. Oktober 2022 gestellt wurde, ist § 43b Absatz 2 nicht anzuwenden.
 
+(46d) Die Bundesnetzagentur kann zur Sicherstellung der Investitionsfähigkeit der Betreiber von Verteilernetzen oder zur Wahrung der Grundsätze insbesondere einer preisgünstigen Versorgung nach § 1 durch Festlegung nach § 29 Absatz 1 Regelungen für die Bestimmung des kalkulatorischen Fremdkapitalzinssatzes treffen, die von einer Rechtsverordnung nach § 21a in Verbindung mit § 24 abweichen oder diese ergänzen. Die Bundesnetzagentur kann dabei insbesondere
+
+1. davon absehen, eine Bestimmung des Fremdkapitalzinssatzes für die jeweilige Regulierungsperiode insgesamt vorzunehmen,
+
+2. die Festlegung auf neue Investitionen begrenzen sowie
+
+3. einen Bezugszeitraum oder Bezugsgrößen für die Ermittlung kalkulatorischer Fremdkapitalzinsen bestimmen.
+
 (47) Auf Zuschläge, die in den Jahren 2021 und 2022 nach § 23 des Windenergie-auf-See-Gesetzes in der Fassung vom 10. Dezember 2020 erteilt wurden, ist das Energiewirtschaftsgesetz in der am 31. Dezember 2022 geltenden Fassung anzuwenden.
 
 # § 118a – Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation
@@ -6939,7 +6987,75 @@ Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Re
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Bundesnetzagentur übertragen. Die Sätze 1 und 2 treten mit Ablauf des 31. Dezember 2027 außer Kraft.
 
-# § 118b – (weggefallen)
+# § 118b – Befristete Sonderregelungen für Energielieferverträge mit Haushalts kunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung
+
+(1) Bis zum Ablauf des 30. April 2024 ist § 41b Absatz 2 auf Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung mit den Maßgaben der Absätze 2 bis 9 anzuwenden. Von den Vorgaben der Absätze 2 bis 9 abweichende vertragliche Vereinbarungen sind unwirksam. Im Übrigen ist § 41b unverändert anzuwenden.
+
+(2) Bei der Nichterfüllung einer Zahlungsverpflichtung des Haushaltskunden trotz Mahnung ist der Energielieferant berechtigt, die Energieversorgung vier Wochen nach vorheriger Androhung unterbrechen zu lassen und die Unterbrechung beim zuständigen Netzbetreiber zu beauftragen. Der Energielieferant kann mit der Mahnung zugleich die Unterbrechung der Energieversorgung androhen, sofern die Folgen einer Unterbrechung nicht außer Verhältnis zur Schwere der Zuwiderhandlung stehen oder der Haushaltskunde darlegt, dass hinreichende Aussicht besteht, dass er seinen Zahlungsverpflichtungen nachkommt. Im Falle einer Androhung nach Satz 1 hat der Energielieferant den Haushaltskunden einfach verständlich zu informieren, wie er dem Energielieferanten das Vorliegen von Voraussetzungen nach Absatz 3 in Textform mitteilen kann. Der Energielieferant hat dem Haushaltskunden die Kontaktadresse anzugeben, an die der Haushaltskunde die Mitteilung zu übermitteln hat.
+
+(3) Die Verhältnismäßigkeit einer Unterbrechung im Sinne des Absatzes 2 Satz 2 ist insbesondere dann nicht gewahrt, wenn infolge der Unterbrechung eine konkrete Gefahr für Leib oder Leben der dadurch Betroffenen zu besorgen ist. Der Energielieferant hat den Haushaltskunden mit der Androhung der Unterbrechung über die Möglichkeit zu informieren, Gründe für eine Unverhältnismäßigkeit der Unterbrechung, insbesondere eine Gefahr für Leib und Leben, in Textform mitzuteilen und auf Verlangen des Energielieferanten glaubhaft zu machen.
+
+(4) Der Energielieferant darf eine Unterbrechung wegen Zahlungsverzugs nur durchführen lassen, wenn der Haushaltskunde nach Abzug etwaiger Anzahlungen in Verzug ist
+
+1. mit Zahlungsverpflichtungen in Höhe des Doppelten der rechnerisch auf den laufenden Kalendermonat entfallenden Abschlags- oder Vorauszahlung oder
+
+2. für den Fall, dass keine Abschlags- oder Vorauszahlungen zu entrichten sind, mit mindestens einem Sechstel des voraussichtlichen Betrages der Jahresrechnung.
+
+Der Zahlungsverzug des Haushaltskunden muss mindestens 100 Euro betragen. Bei der Berechnung der Höhe des Betrages nach den Sätzen 1 und 2 bleiben diejenigen nicht titulierten Forderungen außer Betracht, die der Haushaltskunde form- und fristgerecht sowie schlüssig begründet beanstandet hat. Ferner bleiben diejenigen Rückstände außer Betracht, die wegen einer Vereinbarung zwischen Energielieferant und Haushaltskunde noch nicht fällig sind oder die aus einer streitigen und noch nicht rechtskräftig entschiedenen Preiserhöhung des Energielieferanten resultieren.
+
+(5) Der Energielieferant ist verpflichtet, den betroffenen Haushaltskunden mit der Androhung einer Unterbrechung der Energielieferung wegen Zahlungsverzuges nach Absatz 2 zugleich in Textform über Möglichkeiten zur Vermeidung der Unterbrechung zu informieren, die für den Haushaltskunden keine Mehrkosten verursachen. Dazu können beispielsweise gehören:
+
+1. örtliche Hilfsangebote zur Abwendung einer Versorgungsunterbrechung wegen Nichtzahlung,
+
+2. Vorauszahlungssysteme,
+
+3. Informationen zu Energieaudits und zu Energieberatungsdiensten und
+
+4. Hinweise auf staatliche Unterstützungsmöglichkeiten der sozialen Mindestsicherung und bei welcher Behörde diese beantragt werden können oder auf eine anerkannte Schuldner- und Verbraucherberatung.
+
+Ergänzend ist auf die Pflicht des Energielieferanten nach Absatz 7 hinzuweisen, dem Haushaltskunden auf dessen Verlangen innerhalb einer Woche sowie unabhängig von einem solchen Verlangen spätestens mit der Ankündigung der Unterbrechung eine Abwendungsvereinbarung anzubieten, und dem Haushaltskunden ein standardisiertes Antwortformular zu übersenden, mit dem der Haushaltskunde die Übersendung einer Abwendungsvereinbarung anfordern kann. Die Informationen nach den Sätzen 1 bis 3 sind in einfacher und verständlicher Weise zu erläutern.
+
+(6) Der Beginn der Unterbrechung der Energielieferung ist dem Haushaltskunden acht Werktage im Voraus durch briefliche Mitteilung anzukündigen. Zusätzlich soll die Ankündigung nach Möglichkeit auch auf elektronischem Wege in Textform erfolgen.
+
+(7) Der betroffene Haushaltskunde ist ab dem Erhalt einer Androhung der Unterbrechung nach Absatz 2 Satz 1 berechtigt, von dem Energielieferanten die Übermittlung des Angebots für eine Abwendungsvereinbarung zu verlangen. Der Energielieferant ist verpflichtet, dem betroffenen Haushaltskunden im Falle eines Verlangens nach Satz 1 innerhalb einer Woche und ansonsten spätestens mit der Ankündigung einer Unterbrechung der Energielieferung nach Absatz 6 zugleich in Textform den Abschluss einer Abwendungsvereinbarung anzubieten. Das Angebot für die Abwendungsvereinbarung hat zu beinhalten:
+
+1. eine Vereinbarung über zinsfreie monatliche Ratenzahlungen zur Tilgung der nach Absatz 4 ermittelten Zahlungsrückstände sowie
+
+2. eine Verpflichtung des Energielieferanten zur Weiterversorgung nach Maßgabe der mit dem Haushaltskunden vereinbarten Vertragsbedingungen, solange der Kunde seine laufenden Zahlungsverpflichtungen erfüllt, und
+
+3. allgemein verständliche Erläuterungen der Vorgaben für Abwendungsvereinbarungen.
+
+Unabhängig vom gesetzlichen Widerrufsrecht des Haushaltskunden darf nicht ausgeschlossen werden, dass er innerhalb eines Monats nach Abschluss der Abwendungsvereinbarung Einwände gegen die der Ratenzahlung zugrunde liegenden Forderungen in Textform erheben kann. Die Ratenzahlungsvereinbarung nach Satz 3 Nummer 1 muss so gestaltet sein, dass der Haushaltskunde sich dazu verpflichtet, die Zahlungsrückstände in einem für den Energielieferanten sowie für den Haushaltskunden wirtschaftlich zumutbaren Zeitraum vollständig auszugleichen. Als in der Regel zumutbar ist je nach Höhe der Zahlungsrückstände ein Zeitraum von sechs bis 18 Monaten anzusehen. Überschreiten die Zahlungsrückstände die Summe von 300 Euro, beträgt dieser Zeitraum mindestens zwölf bis höchstens 24 Monate. In die Bemessung der Zeiträume nach den Sätzen 6 und 7 soll die Höhe der jeweiligen Zahlungsrückstände maßgeblich einfließen. Nimmt der Haushaltskunde das Angebot vor Durchführung der Unterbrechung in Textform an, darf die Energielieferung durch den Energielieferanten nicht unterbrochen werden. Der Haushaltskunde kann in dem Zeitraum, den die Abwendungsvereinbarung umfasst, von dem Energielieferanten eine Aussetzung der Verpflichtungen nach Satz 3 Nummer 1 hinsichtlich der monatlichen Ratenzahlungsvereinbarung in Höhe von bis zu drei Monatsraten verlangen, solange er im Übrigen seine laufenden Zahlungsverpflichtungen aus dem Liefervertrag erfüllt. Darüber hat der Haushaltskunde den Energielieferanten vor Beginn des betroffenen Zeitraums in Textform zu informieren. Im Falle eines Verlangens auf Aussetzung nach Satz 10 verlängert sich der nach den Sätzen 6 und 7 bemessene Zeitraum entsprechend. Kommt der Haushaltskunde seinen Verpflichtungen aus der Abwendungsvereinbarung nicht nach, ist der Energielieferant berechtigt, die Energielieferung unter Beachtung des Absatzes 6 zu unterbrechen.
+
+(8) In einer Unterbrechungsandrohung nach Absatz 2 Satz 1 und in einer Ankündigung des Unterbrechungsbeginns nach Absatz 6 ist klar und verständlich sowie in hervorgehobener Weise auf den Grund der Unterbrechung sowie darauf hinzuweisen, welche voraussichtlichen Kosten dem Haushaltskunden infolge der Unterbrechung nach Absatz 2 Satz 1 und einer nachfolgenden Wiederherstellung der Energielieferung nach Absatz 9 in Rechnung gestellt werden können.
+
+(9) Der Energielieferant hat die Energielieferung unverzüglich wiederherstellen zu lassen, sobald die Gründe für ihre Unterbrechung entfallen sind und der Haushaltskunde die Kosten der Unterbrechung und Wiederherstellung der Belieferung ersetzt hat. Die Kosten können für strukturell vergleichbare Fälle pauschal berechnet werden. Dabei muss die pauschale Berechnung einfach nachvollziehbar sein. Die Pauschale darf die nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht übersteigen. Auf Verlangen des Haushaltskunden ist die Berechnungsgrundlage nachzuweisen. Der Nachweis geringerer Kosten ist dem Haushaltskunden zu gestatten. Die in Rechnung gestellten Kosten dürfen, auch im Falle einer Pauschalierung, die tatsächlich entstehenden Kosten nicht überschreiten.
+
+(10) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bis zum 31. Dezember 2023 die praktische Anwendung dieser Vorschrift und die Notwendigkeit einer Weitergeltung über den 30. April 2024 hinaus. In die Überprüfung sollen die Regelungen in den Rechtsverordnungen nach § 39 Absatz 2 einbezogen werden, soweit diese bis zum 30. April 2024 befristet sind.
+
+# § 118c – Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023
+
+(1) Die Betreiber von Verteilernetzen sind berechtigt, Entnahmestellen von Letztverbrauchern, die ab dem 1. Januar 2023 keinem Energielieferanten zugeordnet sind, ab dem 1. Januar 2023 befristet bis spätestens zum 28. Februar 2023 dem Bilanzkreis des Energielieferanten zuzuordnen, der den betroffenen Letztverbraucher bis zum 31. Dezember 2022 an der jeweiligen Entnahmestelle mit Energie beliefert hat. Satz 1 ist nur für Letztverbraucher anzuwenden, die an das Energieversorgungsnetz in Mittelspannung oder Mitteldruck oder, soweit nicht die Ersatzversorgung nach § 38 anwendbar ist, in der Umspannung von Nieder- zu Mittelspannung angeschlossen sind.
+
+(2) Energielieferanten, denen nach Absatz 1 Satz 1 eine Entnahmestelle zugeordnet wurde, sind verpflichtet, Letztverbraucher im Sinne des Absatzes 1 Satz 2, die sie aufgrund eines in dem Zeitraum vom 31. Dezember 2022 bis zum 31. Januar 2023 beendeten oder auslaufenden Energieliefervertrages bis zu diesem Datum beliefert haben, bis längstens zum 28. Februar 2023 vorbehaltlich der Absätze 3 bis 5 entsprechend der bis zum 31. Dezember 2022 geltenden Vertragsbedingungen weiter zu beliefern, sofern die betroffenen Letztverbraucher für die von dem bisherigen Liefervertrag erfasste Entnahmestelle ab dem 1. Januar 2023 noch keinen neuen Energieliefervertrag abgeschlossen haben (Notversorgung). Schließt der betroffene Letztverbraucher einen neuen Energieliefervertrag, endet die Notversorgung nach Satz 1 mit dem Tag des Beginns der Energielieferung auf der Grundlage des neuen Energieliefervertrages.
+
+(3) Der zur Notversorgung verpflichtete Energielieferant ist berechtigt, hierfür ein angemessenes Entgelt zu verlangen, das nicht höher sein darf als die Summe
+
+1. der Kosten einer kurzfristigen Beschaffung der für die Notversorgung erforderlichen Energiemengen über Börsenprodukte sowie Beschaffungsnebenkosten zuzüglich eines Aufschlags von 10 Prozent,
+
+2. der für die Belieferung des betroffenen Letztverbrauchers anfallenden Kosten für Netzentgelte und staatlich veranlasste Preisbestandteile sowie
+
+3. sonstiger, in dem bisherigen Liefervertrag vereinbarten Preis- und Kostenbestandteile.
+
+(4) Der zur Notversorgung verpflichtete Energielieferant ist berechtigt, den Energieverbrauch des Letztverbrauchers in Zeitabschnitten nach seiner Wahl abzurechnen, die einen Tag nicht unterschreiten dürfen. Er ist berechtigt, von dem Letztverbraucher eine Zahlung bis zu fünf Werktage im Voraus oder eine Sicherheit zu verlangen. Sofern der Letztverbraucher eine fällige Forderung nicht innerhalb von zwei Werktagen begleicht, ist der Energielieferant berechtigt, die Notversorgung nach Absatz 2 fristlos zu beenden. Der Energielieferant hat den Verteilernetzbetreiber über den Zeitpunkt der Beendigung der Notversorgung nach Satz 3 des betreffenden Letztverbrauchers zu informieren. Im Fall des Satzes 3 und nach der Information nach Satz 4 entfällt das Recht des Verteilernetzbetreibers nach Absatz 1 Satz 1.
+
+(5) Die Betreiber von Verteilernetzen haben den zur Notversorgung verpflichteten Energielieferanten unverzüglich nach dem 24. Dezember 2022 zu informieren, welche Entnahmestellen ab dem 1. Januar 2023 bisher keinem Energieliefervertrag zugeordnet werden können.
+
+(6) Das Recht der Betreiber von Verteilernetzen nach Absatz 1 und die Pflicht des Energielieferanten zur befristeten Notversorgung nach den Absätzen 2 bis 4 bestehen nicht
+
+1. für Energielieferanten, die ihre Geschäftstätigkeit als Energielieferant vollständig und ordnungsgemäß zum 31. Dezember 2022 beendet haben, oder
+
+2. sofern die Versorgung für den zur Notversorgung verpflichteten Energielieferanten aus wirtschaftlichen Gründen, die für die Zwecke dieser Vorschrift insbesondere in der Zahlungsfähigkeit des Letztverbrauchers liegen können, nicht zumutbar ist.
 
 # § 119 – Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
 

@@ -182,7 +182,7 @@ Inkrafttreten, Außerkrafttreten
 
 # § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziel und Inhalt der Ausbildung
 
@@ -236,7 +236,7 @@ Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung seiner
 
 (2) Das Auswahlverfahren umfasst schriftliche und mündliche Teile und kann auch psychologische Eignungs- und Sprachtests umfassen. Das Auswahlverfahren wird von einem unabhängigen Ausschuss durchgeführt; dieser kann externe Beraterinnen und Berater sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
-(2a) Bis zum 31. Dezember 2022 können die mündlichen Teile des Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(2a) (weggefallen)
 
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und Bewerber zugelassen, die nach den eingereichten Unterlagen die Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein Vorverfahren durchgeführt wird. Schwerbehinderte Menschen werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen, grundsätzlich zum Auswahlverfahren zugelassen. Frauen und Männer werden in einem ausgewogenen Verhältnis berücksichtigt.
 
@@ -276,7 +276,7 @@ c) eine Beamtin oder ein Beamter des gehobenen Dienstes.
 
 Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder dem Leiter der Zentralabteilung des Auswärtigen Amts für die Dauer von drei Jahren bestellt. Der Auswahlausschuss ist beschlussfähig, wenn die oder der Vorsitzende und mindestens zwei Mitglieder anwesend sind. Der Ausschuss entscheidet mit Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 der Auswahlausschuss schon dann beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres Mitglied anwesend sind.
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 der Auswahlausschuss schon dann beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres Mitglied anwesend sind.
 
 (8) Je ein Mitglied des Personalrats und der Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 
@@ -358,7 +358,7 @@ Die praktischen und theoretischen Ausbildungsinhalte werden eng aufeinander abge
 
 # § 10a – Digitale Lehrformate
 
-Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 für alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
+Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 für alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
 
 # § 11 – Allgemeines
 
@@ -426,7 +426,7 @@ Die Durchführung der Laufbahnprüfung obliegt der Aus- und Fortbildungsstätte 
 
 (3) Für die Bearbeitung jeder Aufsichtsarbeit in den vier Fachprüfungen (Absatz 1 Nr. 1 bis 4) werden mindestens drei und höchstens vier Zeitstunden angesetzt. Die mündliche Prüfung soll eine Zeitdauer von 20 Minuten pro Person nicht überschreiten; es sollen nicht mehr als fünf Anwärterinnen und Anwärter gleichzeitig geprüft werden. Für das Ergebnis der Fachprüfungen zählen der schriftliche Teil und der mündliche Teil je zur Hälfte. Besteht der schriftliche Teil der Prüfung aus zwei Aufsichtsarbeiten, zählen der schriftliche Teil zu zwei Dritteln und der mündliche Teil zu einem Drittel. Besteht der schriftliche Teil aus drei Aufsichtsarbeiten, zählen der schriftliche Teil zu drei Vierteln und der mündliche Teil zu einem Viertel.
 
-(3a) Bis zum 31. Dezember 2022 können in den Fachprüfungen
+(3a) Bis zum 31. Dezember 2024 können in den Fachprüfungen
 
 1. die Aufsichtsarbeiten
 
@@ -448,7 +448,7 @@ c) jeweils durch eine Hausarbeit ersetzt werden und
 
 Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündliche Teil je zur Hälfte.
 
-(4a) Bis zum 31. Dezember 2022 können in den Sprachprüfungen
+(4a) Bis zum 31. Dezember 2024 können in den Sprachprüfungen
 
 1. die Aufsichtsarbeiten mit Unterstützung durch Informationstechnik durchgeführt werden und
 
@@ -464,7 +464,7 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 
 2. einer mündlichen Prüfung über historische, politische, wirtschaftliche, rechtliche, organisatorische und andere für den Auswärtigen Dienst wichtige Fragen einschließlich Fragen mit aktuellem Bezug aus Fächern, die Gegenstand der Fachprüfungen waren. Die Prüfungszeit der mündlichen Prüfung soll für jede Anwärterin oder jeden Anwärter nicht mehr als 30 Minuten betragen.
 
-(1a) Bis zum 31. Dezember 2022 kann
+(1a) Bis zum 31. Dezember 2024 kann
 
 1. die Aufgabe für den Aktenvortrag mit Unterstützung durch Informationstechnik gestellt werden,
 
