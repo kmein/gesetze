@@ -1985,7 +1985,7 @@ soweit dies zur Bekämpfung von Leistungsmissbrauch erforderlich ist.
 
 (2) (weggefallen)
 
-# § 54 – (weggfallen)
+# § 54 – (weggefallen)
 
 # § 55 – Wirkungsforschung
 
