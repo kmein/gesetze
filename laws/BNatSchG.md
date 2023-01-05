@@ -2305,7 +2305,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 
 (5) Abweichend von Absatz 4 ist § 45b Absatz 1 bis 6 bereits vor dem in Absatz 4 genannten Tag anzuwenden, wenn der Träger eines Vorhabens dies verlangt.
 
-(6) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz prüft gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz unter Einbeziehung der maßgeblich betroffenen Verbände die Einführung einer probabilistischen Methode zur Berechnung der Kollisionswahrscheinlichkeit und legt dem Bundeskabinett hierzu bis zum 30. Juni 2023 einen Bericht zur Einführung der Methode oder einen Vorschlag zur Anpassung dieses Gesetzes oder eine Rechtsverordnung zur Einführung der Methode nach Maßgabe von § 54 Absatz 10c Nummer 1 vor. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz evaluiert gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz die in den §§ 45b bis 45d enthaltenen Bestimmungen über einen Zeitraum von zwei Jahren ab dem 29. Juli 2022 und danach alle drei Jahre.
+(6) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz prüft gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz unter Einbeziehung der maßgeblich betroffenen Verbände die Einführung einer probabilistischen Methode zur Berechnung der Kollisionswahrscheinlichkeit und legt dem Bundeskabinett hierzu bis zum 30. Juni 2023 einen Bericht zur Einführung der Methode oder einen Vorschlag zur Anpassung dieses Gesetzes oder eine Rechtsverordnung zur Einführung der Methode nach Maßgabe von § 54 Absatz 10c Satz 1 Nummer 1 vor. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz evaluiert gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz die in den §§ 45b bis 45d enthaltenen Bestimmungen über einen Zeitraum von zwei Jahren ab dem 29. Juli 2022 und danach alle drei Jahre.
 
 § 74 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch [§ 21 Abs. 1 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bnatschgag_ha__21.html "Anzeige in neuem Fenster") v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93); geänderte Abweichung durch § 21 Abs. 1 Nr. 4 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402, dieser geändert durch Art. 2 G v. 2.12.2013 HmbGVBl. S. 484, mWv 7.12.2013 (vgl. BGBl. I 2015, 123)
 
@@ -2595,26 +2595,29 @@ Z<sub>um</sub> der als Prozentwert im Verhältnis zum Jahresertrag ausgedrückte
 2. Berechnung der Zumutbarkeitsschwelle  
   
 
-Die Zumutbarkeitsschwelle für die Anordnung von Schutzmaßnahmen für Windenergieanlagen an Land nach § 45b Absatz 2 wird nach folgenden Formeln bestimmt, bei deren Berechnung auf zwei Nachkommastellen zu runden ist:
+Die Zumutbarkeitsschwelle für die Anordnung von Schutzmaßnahmen für Windenergieanlagen an Land nach § 45b Absatz 6 wird nach folgenden Formeln bestimmt, bei deren Berechnung auf zwei Nachkommastellen zu runden ist:
 
 2.1  
-Maximal zumutbarer Energieverlust
+Maximal zumutbarer monetärer Verlust
 
   
 
-|                                               |
-|:---------------------------------------------:|
-| Z<sub>EV</sub> = P · VBH · Z<sub>um</sub> · d |
+|                                                    |
+|:--------------------------------------------------:|
+| Z<sub>MV</sub> = P · VBH · Z<sub>um</sub> · AW · d |
 
   
 
 2.2  
 Prozentualer Anteil der Abschaltungen
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1362-1_0010.jpg)
+  
+Die Formel Z<sub>Abs</sub> wird wie folgt gefasst:
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2240-1_0010.jpg)
 
   
-Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist (Flst<sub>Mahd</sub> · M<sub>ahd</sub>) + (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) + (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>) · h + (Flst<sub>Ausn</sub> · h) bei der Berechnung aus der Formel zu streichen.   
+Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist ((Flst<sub>Mahd</sub> · M<sub>ahd</sub>) + (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) + (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>)) · h + (Flst<sub>Ausn</sub> · h) bei der Berechnung aus der Formel zu streichen.   
 
 Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder eine andere Kombination dieser drei Ereignisse) angeordnet, ist das nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (Flst<sub>Mahd</sub> · M<sub>ahd</sub>) oder (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) oder (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>).   
 
@@ -2658,10 +2661,13 @@ Maximal zulässiger monetärer Verlust im Basisschutz
 3.2  
 Prozentualer Anteil der Abschaltungen im Basisschutz
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1362-1_0020.jpg)
+  
+Die Formel B<sub>Abs</sub> wird wie folgt gefasst:
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2240-1_0020.jpg)
 
   
-Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist (Flst<sub>Mahd</sub> · M<sub>ahd</sub>) + (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) + (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>) · h + (Flst<sub>Ausn</sub> · h) bei der Berechnung aus der Formel zu streichen.   
+Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist ((Flst<sub>Mahd</sub> · M<sub>ahd</sub>) + (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) + (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>)) · h + (Flst<sub>Ausn</sub> · h) bei der Berechnung aus der Formel zu streichen.   
 
 Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder eine andere Kombination dieser drei Ereignisse) angeordnet, ist das nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (Flst<sub>Mahd</sub> · M<sub>ahd</sub>) oder (Flst<sub>Ernte</sub> · E<sub>rnte</sub>) oder (Flst<sub>Pflügen</sub> · P<sub>flügen</sub>).   
 

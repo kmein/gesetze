@@ -1005,6 +1005,10 @@ Einschränkung eines Grundrechts
 
 § 107
 
+(zukünftig in Kraft)
+
+§ 108
+
 Übergangsregelung
 
  
@@ -2921,7 +2925,9 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 # § 92 – Ausgestaltung der Heranziehung
 
-(1) Aus ihrem Einkommen nach Maßgabe der §§ 93 und 94 heranzuziehen sind:
+(1) Zu den Kosten der in § 91 Absatz 1 genannten Leistungen und vorläufigen Maßnahmen sind Elternteile aus ihrem Einkommen nach Maßgabe der §§ 93 und 94 heranzuziehen; leben sie mit dem jungen Menschen zusammen, so werden sie auch zu den Kosten der in § 91 Absatz 2 genannten Leistungen herangezogen.
+
+(1a) Unabhängig von ihrem Einkommen sind nach Maßgabe von § 93 Absatz 1 Satz 3 und § 94 Absatz 3 heranzuziehen:
 
 1. Kinder und Jugendliche zu den Kosten der in § 91 Absatz 1 Nummer 1 bis 7 genannten Leistungen und vorläufigen Maßnahmen,
 
@@ -2929,15 +2935,11 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 3. Leistungsberechtigte nach § 19 zu den Kosten der in § 91 Absatz 1 Nummer 2 genannten Leistungen,
 
-4. Ehegatten und Lebenspartner junger Menschen und Leistungsberechtigter nach § 19 zu den Kosten der in § 91 Absatz 1 und 2 genannten Leistungen und vorläufigen Maßnahmen,
-
-5. Elternteile zu den Kosten der in § 91 Absatz 1 genannten Leistungen und vorläufigen Maßnahmen; leben sie mit dem jungen Menschen zusammen, so werden sie auch zu den Kosten der in § 91 Absatz 2 genannten Leistungen herangezogen.
-
-(1a) Zu den Kosten vollstationärer Leistungen sind volljährige Leistungsberechtigte nach § 19 zusätzlich aus ihrem Vermögen nach Maßgabe der §§ 90 und 91 des Zwölften Buches heranzuziehen.
+4. Elternteile zu den Kosten der in § 91 Absatz 1 genannten Leistungen und vorläufigen Maßnahmen; leben sie mit dem jungen Menschen zusammen, so werden sie auch zu den Kosten der in § 91 Absatz 2 genannten Leistungen herangezogen.
 
 (2) Die Heranziehung erfolgt durch Erhebung eines Kostenbeitrags, der durch Leistungsbescheid festgesetzt wird; Elternteile werden getrennt herangezogen.
 
-(3) Ein Kostenbeitrag kann bei Eltern, Ehegatten und Lebenspartnern ab dem Zeitpunkt erhoben werden, ab welchem dem Pflichtigen die Gewährung der Leistung mitgeteilt und er über die Folgen für seine Unterhaltspflicht gegenüber dem jungen Menschen aufgeklärt wurde. Ohne vorherige Mitteilung kann ein Kostenbeitrag für den Zeitraum erhoben werden, in welchem der Träger der öffentlichen Jugendhilfe aus rechtlichen oder tatsächlichen Gründen, die in den Verantwortungsbereich des Pflichtigen fallen, an der Geltendmachung gehindert war. Entfallen diese Gründe, ist der Pflichtige unverzüglich zu unterrichten.
+(3) Ein Kostenbeitrag kann bei Eltern ab dem Zeitpunkt erhoben werden, ab welchem dem Pflichtigen die Gewährung der Leistung mitgeteilt und er über die Folgen für seine Unterhaltspflicht gegenüber dem jungen Menschen aufgeklärt wurde. Ohne vorherige Mitteilung kann ein Kostenbeitrag für den Zeitraum erhoben werden, in welchem der Träger der öffentlichen Jugendhilfe aus rechtlichen oder tatsächlichen Gründen, die in den Verantwortungsbereich des Pflichtigen fallen, an der Geltendmachung gehindert war. Entfallen diese Gründe, ist der Pflichtige unverzüglich zu unterrichten.
 
 (4) Ein Kostenbeitrag kann nur erhoben werden, soweit Unterhaltsansprüche vorrangig oder gleichrangig Berechtigter nicht geschmälert werden. Von der Heranziehung der Eltern ist abzusehen, wenn das Kind, die Jugendliche, die junge Volljährige oder die Leistungsberechtigte nach § 19 schwanger ist oder der junge Mensch oder die nach § 19 leistungsberechtigte Person ein leibliches Kind bis zur Vollendung des sechsten Lebensjahres betreut.
 
@@ -2945,7 +2947,13 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 # § 93 – Berechnung des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen; dies gilt nicht für
+
+1. monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten Buches für sonstige Bedürfnisse genannten Betrages und
+
+2. monatliche Leistungen nach § 122 des Dritten Buches bis zu einer Höhe des in § 123 Satz 1 Nummer 2, § 124 Nummer 2 und § 125 des Dritten Buches genannten Betrages.
+
+Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
 
 (2) Von dem Einkommen sind abzusetzen
 
@@ -2969,29 +2977,21 @@ Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
 
 # § 94 – Umfang der Heranziehung
 
-(1) Die Kostenbeitragspflichtigen sind aus ihrem Einkommen in angemessenem Umfang zu den Kosten heranzuziehen. Die Kostenbeiträge dürfen die tatsächlichen Aufwendungen nicht überschreiten. Eltern sollen nachrangig zu den jungen Menschen herangezogen werden. Ehegatten und Lebenspartner sollen nachrangig zu den jungen Menschen, aber vorrangig vor deren Eltern herangezogen werden.
+(1) Die Kostenbeitragspflichtigen sind aus ihrem Einkommen in angemessenem Umfang zu den Kosten heranzuziehen. Die Kostenbeiträge dürfen die tatsächlichen Aufwendungen nicht überschreiten.
 
-(2) Für die Bestimmung des Umfangs sind bei jedem Elternteil, Ehegatten oder Lebenspartner die Höhe des nach § 93 ermittelten Einkommens und die Anzahl der Personen, die mindestens im gleichen Range wie der untergebrachte junge Mensch oder Leistungsberechtigte nach § 19 unterhaltsberechtigt sind, angemessen zu berücksichtigen.
+(2) Für die Bestimmung des Umfangs sind bei jedem Elternteil die Höhe des nach § 93 ermittelten Einkommens und die Anzahl der Personen, die mindestens im gleichen Range wie der untergebrachte junge Mensch oder Leistungsberechtigte nach § 19 unterhaltsberechtigt sind, angemessen zu berücksichtigen.
 
-(3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses erbracht und bezieht einer der Elternteile Kindergeld für den jungen Menschen, so hat dieser unabhängig von einer Heranziehung nach Absatz 1 Satz 1 und 2 und nach Maßgabe des Absatzes 1 Satz 3 und 4 einen Kostenbeitrag in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil den Kostenbeitrag nach Satz 1 nicht, so sind die Träger der öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen. Bezieht der Elternteil Kindergeld nach § 1 Absatz 1 des Bundeskindergeldgesetzes, gilt Satz 2 entsprechend. Bezieht der junge Mensch das Kindergeld selbst, gelten die Sätze 1 und 2 entsprechend.
+(3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses erbracht und bezieht einer der Elternteile Kindergeld für den jungen Menschen, so hat dieser unabhängig von einer Heranziehung nach Absatz 1 Satz 1 und 2 einen Kostenbeitrag in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil den Kostenbeitrag nach Satz 1 nicht, so sind die Träger der öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen. Bezieht der Elternteil Kindergeld nach § 1 Absatz 1 des Bundeskindergeldgesetzes, gilt Satz 2 entsprechend. Bezieht der junge Mensch das Kindergeld selbst, gelten die Sätze 1 und 2 entsprechend. Die Heranziehung der Elternteile erfolgt nachrangig zu der Heranziehung der jungen Menschen zu einem Kostenbeitrag in Höhe des Kindergeldes.
 
 (4) Werden Leistungen über Tag und Nacht erbracht und hält sich der junge Mensch nicht nur im Rahmen von Umgangskontakten bei einem Kostenbeitragspflichtigen auf, so ist die tatsächliche Betreuungsleistung über Tag und Nacht auf den Kostenbeitrag anzurechnen.
 
-(5) Für die Festsetzung der Kostenbeiträge von Eltern, Ehegatten und Lebenspartnern junger Menschen und Leistungsberechtigter nach § 19 werden nach Einkommensgruppen gestaffelte Pauschalbeträge durch Rechtsverordnung des zuständigen Bundesministeriums mit Zustimmung des Bundesrates bestimmt.
+(5) Für die Festsetzung der Kostenbeiträge von Eltern werden nach Einkommensgruppen gestaffelte Pauschalbeträge durch Rechtsverordnung des zuständigen Bundesministeriums mit Zustimmung des Bundesrates bestimmt.
 
-(6) Bei vollstationären Leistungen haben junge Menschen und Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2 genannten Beträge höchstens 25 Prozent ihres Einkommens als Kostenbeitrag einzusetzen. Maßgeblich ist das Einkommen des Monats, in dem die Leistung oder die Maßnahme erbracht wird. Folgendes Einkommen aus einer Erwerbstätigkeit innerhalb eines Monats bleibt für den Kostenbeitrag unberücksichtigt:
-
-1. Einkommen aus Schülerjobs oder Praktika mit einer Vergütung bis zur Höhe von 150 Euro monatlich,
-
-2. Einkommen aus Ferienjobs,
-
-3. Einkommen aus einer ehrenamtlichen Tätigkeit oder
-
-4. 150 Euro monatlich als Teil einer Ausbildungsvergütung.
+(6) (weggefallen)
 
 # § 95 – Überleitung von Ansprüchen
 
-(1) Hat eine der in § 92 Absatz 1 genannten Personen für die Zeit, für die Jugendhilfe gewährt wird, einen Anspruch gegen einen anderen, der weder Leistungsträger im Sinne des § 12 des Ersten Buches noch Kostenbeitragspflichtiger ist, so kann der Träger der öffentlichen Jugendhilfe durch schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht.
+(1) Hat eine in § 92 Absatz 1a genannte Person oder ein Ehegatte oder Lebenspartner des jungen Menschen oder Leistungsberechtigten nach § 19 für die Zeit, für die Jugendhilfe gewährt wird, einen Anspruch gegen einen anderen, so kann der Träger der öffentlichen Jugendhilfe durch schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht. Dies gilt unter der Maßgabe, dass der andere weder Leistungsträger im Sinne des § 12 des Ersten Buches noch eine in § 92 Absatz 1a genannte Person noch eine andere gegenüber dem jungen Menschen oder Leistungsberechtigten nach § 19 dem Grunde nach zum Unterhalt verpflichtete Person ist.
 
 (2) Der Übergang darf nur insoweit bewirkt werden, als bei rechtzeitiger Leistung des anderen entweder Jugendhilfe nicht gewährt worden oder ein Kostenbeitrag zu leisten wäre. Der Übergang ist nicht dadurch ausgeschlossen, dass der Anspruch nicht übertragen, verpfändet oder gepfändet werden kann.
 
@@ -3007,7 +3007,7 @@ Der erstattungsberechtigte Träger der öffentlichen Jugendhilfe kann die Festst
 
 # § 97a – Pflicht zur Auskunft
 
-(1) Soweit dies für die Berechnung oder den Erlass eines Kostenbeitrags oder die Übernahme eines Teilnahmebeitrags nach § 90 oder die Ermittlung eines Kostenbeitrags nach den §§ 92 bis 94 erforderlich ist, sind Eltern, Ehegatten und Lebenspartner junger Menschen sowie Leistungsberechtigter nach § 19 verpflichtet, dem örtlichen Träger über ihre Einkommensverhältnisse Auskunft zu geben. Junge Volljährige und volljährige Leistungsberechtigte nach § 19 sind verpflichtet, dem örtlichen Träger über ihre Einkommens- und Vermögensverhältnisse Auskunft zu geben. Eltern, denen die Sorge für das Vermögen des Kindes oder des Jugendlichen zusteht, sind auch zur Auskunft über dessen Einkommen verpflichtet. Ist die Sorge über das Vermögen des Kindes oder des Jugendlichen anderen Personen übertragen, so treten diese an die Stelle der Eltern.
+(1) Soweit dies für die Berechnung oder den Erlass eines Kostenbeitrags oder die Übernahme eines Teilnahmebeitrags nach § 90 oder die Ermittlung eines Kostenbeitrags nach den §§ 92 bis 94 erforderlich ist, sind Eltern, Ehegatten und Lebenspartner junger Menschen sowie Leistungsberechtigter nach § 19 verpflichtet, dem örtlichen Träger über ihre Einkommensverhältnisse Auskunft zu geben. Junge Volljährige und volljährige Leistungsberechtigte nach § 19 sind verpflichtet, dem örtlichen Träger über ihre Einkommensverhältnisse Auskunft zu geben. Eltern, denen die Sorge für das Vermögen des Kindes oder des Jugendlichen zusteht, sind auch zur Auskunft über dessen Einkommen verpflichtet. Ist die Sorge über das Vermögen des Kindes oder des Jugendlichen anderen Personen übertragen, so treten diese an die Stelle der Eltern.
 
 (2) Soweit dies für die Berechnung der laufenden Leistung nach § 39 Absatz 6 erforderlich ist, sind Pflegepersonen verpflichtet, dem örtlichen Träger darüber Auskunft zu geben, ob der junge Mensch im Rahmen des Familienleistungsausgleichs nach § 31 des Einkommensteuergesetzes berücksichtigt wird oder berücksichtigt werden könnte und ob er ältestes Kind in der Pflegefamilie ist. Pflegepersonen, die mit dem jungen Menschen in gerader Linie verwandt sind, sind verpflichtet, dem örtlichen Träger über ihre Einkommens- und Vermögensverhältnisse Auskunft zu geben.
 
@@ -3425,7 +3425,9 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes) eingeschränkt.
 
-# § 107 – Übergangsregelung
+# § 107 – (zukünftig in Kraft)
+
+# § 108 – Übergangsregelung
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend begleitet und untersucht
 

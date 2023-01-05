@@ -111,6 +111,14 @@ Genehmigungsbehörden
 
  
 
+ 
+
+Übermittlung von Informationen
+
+§ 11a
+
+ 
+
 Zweiter Abschnitt
 
  
@@ -525,6 +533,14 @@ zu übertragen.
 
 (5) Das Bundesamt für Verfassungsschutz kann bei der Prüfung der Zuverlässigkeit gemäß § 6 Abs. 3 Nr. 3 herangezogen werden.
 
+# § 11a – Übermittlung von Informationen
+
+(1) Die Genehmigungsbehörden dürfen die Informationen, einschließlich personenbezogener Daten, die ihnen bei der Erfüllung ihrer Aufgaben nach diesem Gesetz bekannt geworden sind, an andere öffentliche Stellen des Bundes oder der Länder übermitteln, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 des Außenwirtschaftsgesetzes, zur Zollabfertigung, zur Prüfung der Zuverlässigkeit nach § 6 Absatz 3 Nummer 3 oder zur Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, dem Außenwirtschaftsgesetz oder einer auf Grund des Außenwirtschaftsgesetzes erlassenen Rechtsverordnung erforderlich ist.
+
+(2) Informationen über die Versagung von Genehmigungen dürfen abweichend von Absatz 1 nur übermittelt werden, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 des Außenwirtschaftsgesetzes, zur Prüfung der Zuverlässigkeit nach § 6 Absatz 3 Nummer 3 oder zur Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, dem Außenwirtschaftsgesetz oder einer auf Grund des Außenwirtschaftsgesetzes erlassenen Rechtsverordnung erforderlich ist.
+
+(3) Die Empfänger dürfen die nach den Absätzen 1 und 2 übermittelten Informationen, einschließlich personenbezogener Daten, nur für die Zwecke verwenden, für die sie übermittelt wurden oder soweit es zur Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, nach dem Außenwirtschaftsgesetz oder einer auf Grund des Außenwirtschaftsgesetzes erlassenen Rechtsverordnung erforderlich ist.
+
 # § 12 – Pflichten im Verkehr mit Kriegswaffen
 
 (1) Wer eine nach diesem Gesetz genehmigungsbedürftige Handlung vornimmt, hat die erforderlichen Maßnahmen zu treffen,
@@ -612,6 +628,8 @@ zuständig.
 (5) Wer einer Genehmigung nach den §§ 2 bis 4a bedarf, ist verpflichtet, die erforderlichen Auskünfte zu erteilen, die Betriebsaufzeichnungen und sonstige Unterlagen zur Einsicht und Prüfung vorzulegen und das Betreten von Räumen und Grundstücken zu dulden. Das gleiche gilt für Personen, denen die in § 12 genannten Pflichten obliegen.
 
 (6) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+(6a) Für die Übermittlung von Informationen, einschließlich personenbezogener Daten, durch die Überwachungsbehörden gilt § 11a entsprechend.
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Vorschriften zur Durchführung der nach Absatz 3 zulässigen Überwachungsmaßnahmen zu erlassen und das Verfahren der Überwachungsbehörden zu regeln.
 
