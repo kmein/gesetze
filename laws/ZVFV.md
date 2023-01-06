@@ -19,6 +19,8 @@ a) wegen Geldforderungen, die keine gesetzlichen Unterhaltsansprüche sind, das 
 
 b) wegen gesetzlicher Unterhaltsansprüche das Formular der Anlage 8.
 
+(+++ § 1: Zur Geltung vgl. § 5 Abs. 1 +++)
+
 # § 2 – Nutzung der Formulare
 
 (1) Die Formulare der Anlagen 1 bis 5 sind ausschließlich für die folgenden Zwecke verbindlich:
@@ -42,6 +44,8 @@ b) wegen gesetzlicher Unterhaltsansprüche das Formular der Anlage 8.
 3. das Formular der Anlage 8, wenn die Zwangsvollstreckung wegen gesetzlicher Unterhaltsansprüche betrieben wird.
 
 (5) Die Formulare der Anlagen 6 bis 8 sind insgesamt mehrfach zu nutzen, wenn bei einfacher Nutzung die erforderlichen Angaben nicht gemacht werden können, es sei denn, die erforderlichen Angaben werden in einem nach § 3 Absatz 2 Nummer 6 Buchstabe a zulässigerweise abweichenden Formular gemacht.
+
+(+++ § 2: Zur Geltung vgl. § 5 Abs. 1 +++)
 
 # § 3 – Abweichungen von den Formularen
 
@@ -80,6 +84,8 @@ b) insgesamt einschließlich des dazugehörigen Rahmens und der insoweit betroff
 1. Absatz 2 Nummer 4 und 6 Buchstabe a nicht anwendbar,
 
 2. Absatz 2 Nummer 6 Buchstabe b nur bei den Modulen Q, R und S des Formulars der Anlage 5 und nur dann anwendbar, wenn das jeweils am Anfang des betreffenden Moduls befindliche Kontrollkästchen nicht markiert wird.
+
+(+++ § 3: Zur Geltung vgl. § 5 Abs. 1 +++)
 
 # § 4 – Elektronisch auslesbares Formular
 

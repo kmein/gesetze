@@ -7139,7 +7139,7 @@ b) beim Ausgleich von wirtschaftlichen Vor- und Nachteilen gegebenenfalls entsta
 
 # § 121 – Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j
 
-§ 50g tritt mit Ablauf des 31. März 2023 außer Kraft. Die §§ 50a bis 50c sowie 50e, 50f, 50h und 50i treten mit Ablauf des 31. März 2024 außer Kraft. § 50j tritt mit Ablauf des 30. Juni 2024 außer Kraft.
+§ 50g tritt mit Ablauf des 30. April 2024 außer Kraft. Die §§ 50a bis 50c sowie 50e, 50f, 50h und 50i treten mit Ablauf des 31. März 2024 außer Kraft. § 50j tritt mit Ablauf des 30. Juni 2024 außer Kraft.
 
 # Anlage (zu § 13g) – Berechnung der Vergütung
 

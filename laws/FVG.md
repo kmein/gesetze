@@ -105,7 +105,9 @@ c) der länderbezogenen Berichte im Sinne des § 138a Absatz 2 der Abgabenordnun
 
 5f. die automatische Übermittlung von Informationen zu grenzüberschreitenden Steuergestaltungen gemäß § 7 Absatz 13 des EU-Amtshilfegesetzes sowie die Entgegennahme von Informationen im Sinne des Artikels 8ab der Richtlinie 2011/16/EU gemäß § 7 Absatz 14 des EU-Amtshilfegesetzes;
 
-5g. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e und 5f im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e und 5f durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
+5g. die Entgegennahme, die Weiterleitung und die Übermittlung von Informationen nach § 9 Absatz 1 bis 3 und die Durchführung der Verfahren gemäß den §§ 10 bis 12 und 25 bis 27 des Plattformen-Steuertransparenzgesetzes;
+
+5h. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e, 5f und 5g im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e, 5f und 5g durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 6. die zentrale Sammlung und Auswertung von Unterlagen über steuerliche Auslandsbeziehungen nach näherer Weisung des Bundesministeriums der Finanzen;
 
@@ -223,7 +225,7 @@ Das Bundeszentralamt für Steuern bedient sich zur Durchführung dieser Aufgaben
 
 Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes nach § 88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbehörden weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des Zugangs der Daten zur Durchführung von Verfahren im Sinne des § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur Datenschutzkontrolle zu speichern.
 
-(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5 bis 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und 42 bis 46.
+(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und 42 bis 46.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie die nach § 44b Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes erstattete Kapitalertragsteuer werden von den Ländern in dem Verhältnis getragen, in dem sie an dem Aufkommen der betreffenden Steuern beteiligt sind. Kapitalertragsteuer, die das Bundeszentralamt für Steuern anlässlich der Vergütung von Körperschaftsteuer vereinnahmt hat, steht den Ländern in demselben Verhältnis zu. Für die Aufteilung ist das Aufkommen an den betreffenden Steuern in den einzelnen Ländern maßgebend, das sich ohne Berücksichtigung der in den Sätzen 1 und 2 bezeichneten Steuerbeträge für das Vorjahr ergibt. Das Nähere bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 

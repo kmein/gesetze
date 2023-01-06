@@ -349,7 +349,7 @@ b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühfl
 
 c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes: die Angaben nach Buchstabe b,
 
-d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes: Altgrastreifen und -flächen nach Lage und Größe,
+d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes: Altgrasstreifen und -flächen nach Lage und Größe,
 
 e) § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes: für das gesamte Ackerland mit Ausnahme des brachliegenden Ackerlandes die Kulturarten nach Nutzungscode, die im Zeitraum vom 1. Juni bis zum 15. Juli des Antragsjahres am längsten auf der jeweiligen Fläche stehen als Hauptfruchtart im Sinne der Anlage 5 Nummer 2 zur GAP-Direktzahlungen-Verordnung sowie die Flächen nach Lage und Größe,
 
@@ -362,6 +362,8 @@ h) § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage 
 i) § 20 Absatz 1 Nummer 6 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe,
 
 j) § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe.
+
+Nr. 2 Buchstabe d Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird das Wort "Altgrastreifen" durch das Wort "Altgrasstreifen" ersetzt
 
 # § 14 – Besondere Angaben bei einem Antrag auf gekoppelte Einkommensstützungen
 
@@ -838,11 +840,13 @@ so wird die ermittelte Anzahl im Umfang der Differenz zwischen den angemeldeten 
 
 # § 48 – Grenzwerte und Ausnahmen
 
-(1) Der Schwellenwert nach §14 Absatz 1 Nummer 2 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes beträgt 25 Euro je Direktzahlung nach § 1 Nummer 4 Buchstabe a bis c und e bzw. im Falle der Öko-Regelung nach § 1 Nummer 4 Buchstabe d je Maßnahme nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes. Im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes gilt abweichend von Satz 1 ein Schwellenwert von 0,1 Hektar.
+(1) Der Schwellenwert nach § 14 Absatz 1 Nummer 2 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes beträgt 25 Euro je Direktzahlung nach § 1 Nummer 4 Buchstabe a bis c und e bzw. im Falle der Öko-Regelung nach § 1 Nummer 4 Buchstabe d je Maßnahme nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes. Im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes gilt abweichend von Satz 1 ein Schwellenwert von 0,1 Hektar.
 
 (2) Sind mehrere Betriebsinhaber von einem Fall höherer Gewalt oder außergewöhnlicher Umstände betroffen, kann die zuständige Behörde die von dem Fall höherer Gewalt oder außergewöhnlicher Umstände betroffenen Gebiete ortsüblich bekanntmachen mit der Folge, dass für alle Betriebsinhaber dieses Gebietes ein Fall höherer Gewalt oder außergewöhnlicher Umstände angenommen wird. Die Bekanntmachung ersetzt die Anzeige des Betriebsinhabers nach § 14 Absatz 4 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes.
 
 (3) Mit Ausnahme der §§ 47 und 49 sind die Vorschriften dieses Abschnittes nicht bei Verstößen anzuwenden, bei denen Kapitel 3 Abschnitt 3 der GAP-Konditionalitäten-Verordnung anzuwenden ist.
+
+Abs. 1 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "§14" durch die Angabe "§ 14" ersetzt
 
 # § 49 – Aufrechnung
 
