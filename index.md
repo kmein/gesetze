@@ -1746,6 +1746,7 @@
 - [EnergieStV](laws/EnergieStV.md) Verordnung zur Durchführung des Energiesteuergesetzes
 - [ENeuOG](laws/ENeuOG.md) Gesetz zur Neuordnung des Eisenbahnwesens
 - [EnFG](laws/EnFG.md) Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen
+- [EnKostDPRL](laws/EnKostDPRL.md) Richtlinie über die Gewährung von Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs („Energiekostendämpfungsprogramm“)
 - [EnLAG](laws/EnLAG.md) Gesetz zum Ausbau von Energieleitungen
 - [EnSiG](laws/EnSiG.md) Gesetz zur Sicherung der Energieversorgung
 - [EnSiGEntschV](laws/EnSiGEntschV.md) Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz
@@ -5362,6 +5363,7 @@
 - [StromNEV](laws/StromNEV.md) Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen
 - [StromNZV](laws/StromNZV.md) Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen
 - [StromPBG](laws/StromPBG.md) Gesetz zur Einführung einer Strompreisbremse *
+- [StromPBGAnwBek](laws/StromPBGAnwBek.md) Bekanntmachung über die Anwendbarkeit des Strompreisbremsegesetzes
 - [StromStG](laws/StromStG.md) Stromsteuergesetz
 - [StromStG§10Abs3uaBek](laws/StromStG§10Abs3uaBek.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2016](laws/StromStG§10Abs3uaBek_2016.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes

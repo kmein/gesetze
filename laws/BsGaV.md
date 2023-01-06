@@ -149,7 +149,7 @@ Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel 6 Nummer
 
 Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fiktive Betriebsausgaben, die auf Grund anzunehmender schuldrechtlicher Beziehungen entstehen (§§ 16 und 17).
 
-(3) In den Aufzeichnungen, die nach § 90 Absatz 3 der Abgabenordnung zu erstellen und nach § 90 Absatz 4 der Abgabenordung vorzulegen sind, sind auch darzulegen:
+(3) In den Aufzeichnungen, die nach § 90 Absatz 3 der Abgabenordnung zu erstellen und nach § 90 Absatz 4 der Abgabenordnung vorzulegen sind, sind auch darzulegen:
 
 1. die Gründe für die Zuordnung der Bestandteile, einschließlich der Gründe für die Zuordnung der Geschäftsvorfälle des Unternehmens (§ 9), der Chancen und Risiken (§ 10) und der Sicherungsgeschäfte (§ 11), sowie
 
