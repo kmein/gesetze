@@ -129,7 +129,3 @@ f) eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht fristgemä�
 # § 10
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
-
-# § 11
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

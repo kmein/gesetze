@@ -1322,9 +1322,7 @@ zu erlassen und hierbei insbesondere im Falle nicht im Inland vorkommender Tiers
 
 (3) Die Länder können vorsehen, dass Eigentümern und Nutzungsberechtigten, denen auf Grund von Vorschriften dieses Gesetzes oder Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind, insbesondere die Nutzung von Grundstücken wesentlich erschwert wird, ohne dass eine Entschädigung nach den Absätzen 1 oder 2 zu leisten ist, auf Antrag ein angemessener Ausgleich nach Maßgabe des jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
-# § 40 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 40 – (weggefallen)
 
 # § 41 – Verhältnis zu anderen Vorschriften
 

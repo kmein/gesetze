@@ -9,9 +9,9 @@ Die in Anlage 1 aufgeführten Stoffe dürfen den in dieser Anlage bezeichneten T
 
 Die in den Anlagen 2 und 3 aufgeführten Stoffe, deren Anwendung nicht nach § 1 ausgeschlossen ist, dürfen Tieren, die der Gewinnung von Lebensmitteln dienen, nur zugeführt werden, wenn diese Tiere in den Anlagen bezeichnet sind. Die Stoffe dürfen nur für die dort genannten Anwendungsgebiete unter den dort aufgeführten Bedingungen zugeführt werden, sofern sie
 
-1. als Fertigarzneimittel für die in den Anlagen 2 und 3 genannten Anwendungsgebiete zugelassen sind und
+1. als Tierarzneimittel für die in den Anlagen 2 und 3 genannten Anwendungsgebiete zugelassen sind und
 
-2. entsprechend der dem Fertigarzneimittel beiliegenden Gebrauchsinformation angewendet werden.
+2. entsprechend der jeweiligen Zulassungsbedingungen angewendet werden.
 
 # § 3
 

@@ -577,9 +577,7 @@ Nach diesem Gesetz anerkannte Zuchtverbände und Zuchtunternehmen dürfen Abnehm
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen auf Vorschriften des Unionsrechts in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
 
-# § 29 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 29 – (weggefallen)
 
 # § 30 – Außerkrafttreten
 

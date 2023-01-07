@@ -312,7 +312,3 @@ Für die in diesem Gesetz verwendeten Begriffe gelten die Begriffsbestimmungen d
 (2) Eine Übertragung der Beseitigungspflicht nach § 3 Absatz 2 dieses Gesetzes in der bis zum 11. August 2016 geltenden Fassung gilt als Übertragung nach § 3 Absatz 3 dieses Gesetzes fort.
 
 (3) Ein nach § 6 dieses Gesetzes in der bis zum 11. August 2016 geltenden Fassung nach landesrechtlichen Vorschriften bestimmter Einzugsbereich gilt als Einzugsbereich im Sinne dieses Gesetzes.
-
-# § 17 – Bekanntmachungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

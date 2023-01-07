@@ -12,6 +12,7 @@
 # § 2 – Geheimhaltungsgrade
 
 (1) VS werden je nach dem Schutz, dessen sie bedürfen, in folgende Geheimhaltungsgrade eingestuft:  
+  
 
 |                |                      |
 |:---------------|:---------------------|
@@ -27,7 +28,7 @@
 
 (4) Als VS-VERTRAULICH eingestuft werden VS, deren Kenntnis durch Unbefugte den Interessen oder dem Ansehen der Bundesrepublik Deutschland oder eines ihrer Länder abträglich oder für einen fremden Staat von Vorteil sein könnte.
 
-(5) VS, die nicht unter die Geheimhaltungsgrade STRENG GEHEIM, GEHEIM oder VS-VERTRAULICH fallen, aber nicht für die Öffentlichkeit bestimmt sind, erhalten den Geheimhaltungsgrad VS-NUR FÜR DEN DIENSTGEBRAUCH. Protokolle über nichtöffentliche Sitzungen der Ausschüsse (§ 69 Abs. 1 Satz 1 GO-BT) sind grundsätzlich keine Verschlußsachen im Sinne der Geheimschutzordnung des Bundestages (§ 73 GO-BT).
+(5) VS, die nicht unter die Geheimhaltungsgrade STRENG GEHEIM, GEHEIM oder VS-VERTRAULICH fallen, aber nicht für die Öffentlichkeit bestimmt sind, erhalten den Geheimhaltungsgrad VS-NUR FÜR DEN DIENSTGEBRAUCH. Protokolle über nichtöffentliche Sitzungen der Ausschüsse (vgl. § 69 Absatz 1 und 2 GO-BT) sind grundsätzlich keine Verschlußsachen im Sinne der Geheimschutzordnung des Bundestages (§ 73 GO-BT).
 
 (6) Die Kennzeichnung von VS erfolgt unter entsprechender Anwendung der Verschlußsachenanweisung für die Bundesbehörden.
 
@@ -75,7 +76,7 @@ Der Empfänger von VS der Geheimhaltungsgrade VS-VERTRAULICH und höher darf wei
 
 # § 7 – Behandlung von VS in Ausschüssen
 
-(1) Die Ausschüsse können für einen Beratungsgegenstand oder für Teile desselben einen Geheimhaltungsgrad beschließen (§ 69 Abs. 7 GO-BT). Wird über VS der Geheimhaltungsgrade VS-VERTRAULICH und höher beraten, führt der Vorsitzende die entsprechende Beschlußfassung unverzüglich in derselben Sitzung herbei und stellt vor Beginn der Beratungen fest, daß sich keine unbefugten Personen im Sitzungssaal aufhalten.
+(1) Die Ausschüsse können für einen Beratungsgegenstand oder für Teile desselben einen Geheimhaltungsgrad beschließen (§ 69 Absatz 3 GO-BT). Wird über VS der Geheimhaltungsgrade VS-VERTRAULICH und höher beraten, führt der Vorsitzende die entsprechende Beschlußfassung unverzüglich in derselben Sitzung herbei und stellt vor Beginn der Beratungen fest, daß sich keine unbefugten Personen im Sitzungssaal aufhalten.
 
 (2) Bei Beratungen über STRENG GEHEIM- oder GEHEIM-Angelegenheiten dürfen nur die Beschlüsse protokolliert werden. Der Ausschuß kann beschließen, daß die Beratungen dem Inhalt nach festgehalten werden; in diesem Fall hat er über Auflage und Verteilung der Protokolle zu beschließen.
 

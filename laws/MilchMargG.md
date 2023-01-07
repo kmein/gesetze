@@ -175,9 +175,7 @@ Vor Erlaß von Rechtsverordnungen nach diesem Gesetz soll ein jeweils auszuwähl
 
 Unberührt bleiben die Vorschriften des Lebensmittelrechts, soweit nicht Vorschriften dieses Gesetzes entgegenstehen.
 
-# § 15 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 15 – (weggefallen)
 
 # § 16 – Inkrafttreten, abgelöste Vorschriften
 

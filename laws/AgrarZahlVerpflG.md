@@ -103,9 +103,7 @@ zu regeln. § 6 Absatz 4 Satz 2 des Marktorganisationsgesetzes gilt entsprechend
 
 (4) Verwaltungskontrollen im Sinne des Artikels 96 Absatz 2 der Verordnung (EU) Nr. 1306/2013 sind nicht durchzuführen.
 
-# § 6 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 6 – (weggefallen)
 
 # § 7 – Übergangsregelungen
 
