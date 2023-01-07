@@ -155,8 +155,4 @@ Soweit nicht nach § 2 Absatz 2 das Marktorganisationsgesetz anzuwenden ist, gel
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-# § 12 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # Anlage – (zu § 4 Absatz 2)

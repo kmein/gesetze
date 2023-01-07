@@ -694,7 +694,3 @@ Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet
 # § 15 – Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch allgemeine Verwaltungsvorschriften das Nähere zur einheitlichen Anwendung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen durch seine nachgeordneten Behörden oder die von ihm beliehenen juristischen Personen regeln.
-
-# § 16 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

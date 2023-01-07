@@ -831,9 +831,7 @@ dienen,
 
 kann in der jeweiligen Rechtsverordnung mit Zustimmung des Bundesrates vorgeschrieben werden, dass von diesen Vorschriften durch Landesrecht nicht abgewichen werden kann. Die Vorschriften, von denen durch Landesrecht nicht abgewichen werden kann, sind dabei zu nennen. § 6 Absatz 4 Satz 2 ist im Falle einer Rechtsverordnung nach Satz 1 nicht anzuwenden.
 
-# § 43 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 43 – (weggefallen)
 
 # § 44 – Übergangsregelungen
 

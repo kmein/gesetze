@@ -1513,11 +1513,7 @@ Durch Rechtsverordnung des Bundesministeriums für Ernährung und Landwirtschaft
 
 (2) Rechtsverordnungen nach Absatz 1 treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-# § 73 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
-(+++ § 73: Zur Anwendung vgl. § 74 Abs. 14 +++)
+# § 73 – (weggefallen)
 
 # § 74 – Übergangsvorschriften
 
@@ -1558,7 +1554,5 @@ Ist keiner der in dem Pflanzenschutzmittel enthaltenen Wirkstoffe in Anhang I de
 (12) Pflanzenschutzmittel, die vor dem 14. Februar 2012 für die Anwendung im Haus- und Kleingartenbereich gekennzeichnet worden sind, gelten als zugelassen für nichtberufliche Anwender. Sie dürfen mit dieser Kennzeichnung noch bis zum 14. Juni 2015 in Verkehr gebracht werden.
 
 (13) Pflanzenschutzmittel, die nach den am 13. Februar 2012 geltenden Bestimmungen gekennzeichnet sind, dürfen noch bis zum 14. Juni 2015 in Verkehr gebracht werden.
-
-(14) Bis zum Ablauf des 31. März 2012 ist § 73 mit der Maßgabe anzuwenden, dass die Verkündung abweichend von § 1 des Gesetzes über die Verkündung von Rechtsverordnungen im elektronischen Bundesanzeiger erfolgt und auf eine so verkündete Verordnung unter Angabe der Stelle ihrer Veröffentlichung und des Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt hinzuweisen ist.
 
 § 74 Abs. 6 Nr. 1 Satz 1 Kursivdruck: Müsste richtig „worden ist,“ lauten

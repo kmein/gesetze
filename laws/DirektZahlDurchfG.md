@@ -367,9 +367,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 In Rechtsverordnungen auf Grund der in § 1 Absatz 2 Satz 1 Nummer 1 bezeichneten Vorschriften oder auf Grund dieses Gesetzes kann als für die Durchführung zuständige Stelle die Bundesanstalt für Landwirtschaft und Ernährung bestimmt werden.
 
-# § 28 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 28 – (weggefallen)
 
 # § 29 – Inkrafttreten
 

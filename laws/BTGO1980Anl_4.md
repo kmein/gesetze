@@ -3,7 +3,7 @@
  
 # I. – Fragerecht
 
-1. In jeder Sitzungswoche wird eine Fragestunde mit einer Dauer von höchstens 90 Minuten durchgeführt.
+1. In jeder Sitzungswoche wird eine Fragestunde mit einer Dauer von höchstens 45 Minuten durchgeführt.
 
 Jedes Mitglied des Bundestages ist berechtigt, für die Fragestunden einer Sitzungswoche bis zu zwei Fragen zur mündlichen Beantwortung an die Bundesregierung zu richten.
 
@@ -14,8 +14,6 @@ Die Fragen werden nach den Geschäftsbereichen der Bundesregierung in einer Druc
 Der Präsident bestimmt, in welcher Reihenfolge die Geschäftsbereiche aufgerufen werden.
 
 2. Zulässig sind Fragen aus den Bereichen, für die die Bundesregierung unmittelbar oder mittelbar verantwortlich ist.
-
-Fragen, die einen Tagesordnungspunkt der laufenden Sitzungswoche betreffen, werden schriftlich beantwortet. Das gilt nicht, wenn für den Tagesordnungspunkt auf Begründung und Aussprache verzichtet wird.
 
 Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen Beantwortung der Bundesregierung übermittelt. Nummern 14 und 15 finden Anwendung.
 
@@ -35,7 +33,7 @@ Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen 
 
 # III. – Durchführung der Fragestunde
 
-9. Der Präsident ruft die Nummer der Frage und den Namen des Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird seine Frage nur dann schriftlich beantwortet, wenn er bis zum Aufruf des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung gebeten hat.
+9. Der Präsident ruft die Nummer der Frage und den Namen des Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird seine Frage nur dann schriftlich beantwortet, wenn er aufgrund der Teilnahme an der Sitzung eines Ausschusses diese nicht mündlich stellen kann und er bis zum Aufruf des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung gebeten hat.
 
 10. Ist der zuständige Bundesminister oder sein Vertreter nicht anwesend, so kann der Fragesteller verlangen, daß seine Fragen zu Beginn der Fragestunde aufgerufen werden, in der der Bundesminister oder sein Vertreter anwesend ist; sein Fragerecht darf hierdurch nicht eingeschränkt werden.
 

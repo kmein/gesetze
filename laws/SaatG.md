@@ -1391,10 +1391,6 @@ Rechtsverordnungen nach den Abschnitten 1 und 2 können auch zur Durchführung v
 
 § 3 Abs. 1 Satz 1 Nr. 6 und 8 und Abs. 2 Satz 1 Nr. 1, § 4 Abs. 2 und 3 Satz 1, § 10 Abs. 2 Nr. 1, § 15 Abs. 1 Satz 3 und § 16 Abs. 1 Satz 1 Nr. 1 finden für Vertragsstaaten, die nicht Mitgliedstaaten der Europäischen Union sind, keine Anwendung auf Pflanzgut von Rebe einschließlich Ruten und Rutenteilen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anwendung der Regelungen nach Satz 1 auf die genannten Vertragsstaaten auszudehnen, wenn die Rechtsvorschriften der Europäischen Gemeinschaft oder der Europäischen Union über den Verkehr mit vegetativem Vermehrungsgut von Reben für die genannten Vertragsstaaten anwendbar werden.
 
-# § 61b – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # § 62 – Übergangsvorschrift
 
 (1) Die Sortenliste nach dem Saatgutverkehrsgesetz in der Fassung der Bekanntmachung vom 23. Juni 1975 (BGBl. I S. 1453) wird nach diesem Gesetz weitergeführt. Bisher eingetragene Sorten gelten als zugelassene Sorten im Sinne dieses Gesetzes.

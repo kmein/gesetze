@@ -69,9 +69,7 @@ Die Daten nach Absatz 1 sind spätestens mit Ablauf von zwei Jahren nach dem Tag
 
 (2) Abweichend von Absatz 1 kann bis zum 31. Juli 2015 die Rechtsverordnung nach Absatz 1 ohne Zustimmung des Bundesrates erlassen werden. Die Rechtsverordnung tritt spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-# § 4 – Verkündung von Rechtsverordnungen
-
-Die Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 4 – (weggefallen)
 
 # § 5 – Inkrafttreten
 

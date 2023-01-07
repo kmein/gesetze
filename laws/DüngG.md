@@ -319,7 +319,7 @@ Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 zu dulden, die mit der Ü
 
 Die zuständigen Behörden können, soweit dies zur Einhaltung der Anforderungen dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich oder durch Rechtsakte der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung gewonnen haben, anderen zuständigen Behörden desselben Landes, den zuständigen Behörden anderer Länder, des Bundes oder anderer Mitgliedstaaten oder der Europäische Kommission mitteilen.
 
-(7) Zum Zweck der Überwachung der Einhaltung der Anforderungen des § 3 Absatz 1 bis 3 und der auf Grund des § 3 Absatz 4 auch in Verbindung mit Absatz 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz 6, erlassenen Rechtsverordnungen übermitteln die in den Nummern 1 bis 4 genannten Stellen und Behörden den für die Überwachung nach Absatz 1 zuständigen Behörden auf Ersuchen die folgenden Daten:
+(7) Zum Zweck der Überwachung der Einhaltung der Anforderungen des § 3 Absatz 1 bis 3 und der auf Grund des § 3 Absatz 4 auch in Verbindung mit Absatz 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz 5, erlassenen Rechtsverordnungen übermitteln die in den Nummern 1 bis 4 genannten Stellen und Behörden den für die Überwachung nach Absatz 1 zuständigen Behörden auf Ersuchen die folgenden Daten:
 
 1. die Zahlstellen im Sinne des § 2 Nummer 3 des InVeKoS-Daten-Gesetzes vom 2. Dezember 2014 (BGBl. I S. 1928, 1931), das zuletzt durch Artikel 2 der Verordnung vom 8. März 2016 (BGBl. I S. 452) geändert worden ist, in der jeweils geltenden Fassung bereits vorhandene Angaben über
 
@@ -364,7 +364,7 @@ d) Nachweise über vertragliche Vereinbarungen des Genehmigungsinhabers mit eine
 
 Im Falle des Satzes 1 Nummer 4 Buchstabe d unterbleibt eine Übermittlung, soweit Betriebs- oder Geschäftsgeheimnisse des Dritten anderenfalls gefährdet würden. Die Übermittlung der Daten nach Satz 1 kann im automatisierten Verfahren, nach Maßgabe des § 10 des Bundesdatenschutzgesetzes auch im automatisierten Abrufverfahren erfolgen.
 
-(8) Die für die Überwachung nach Absatz 1 zuständigen Behörden dürfen zu dem in Absatz 7 Satz 1 genannten Zweck die dort genannten Daten erheben, speichern und nutzen. Zu dem in Absatz 7 Satz 1 genannten Zweck dürfen die zuständigen Behörden diese Daten mit Daten abgleichen, die sie nach diesem Gesetz oder den auf Grund des § 3 Absatz 4 oder 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz 6, erlassenen Rechtsverordnungen erhoben, gespeichert oder genutzt haben. Die in Satz 1 genannten Daten sind durch die nach Absatz 1 zuständige Behörde unverzüglich zu löschen, sobald sie zur Erfüllung des Zwecks, zu dem sie erhoben, gespeichert oder genutzt worden sind, nicht mehr erforderlich sind.
+(8) Die für die Überwachung nach Absatz 1 zuständigen Behörden dürfen zu dem in Absatz 7 Satz 1 genannten Zweck die dort genannten Daten erheben, speichern und nutzen. Zu dem in Absatz 7 Satz 1 genannten Zweck dürfen die zuständigen Behörden diese Daten mit Daten abgleichen, die sie nach diesem Gesetz oder den auf Grund des § 3 Absatz 4 oder 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz 5, erlassenen Rechtsverordnungen erhoben, gespeichert oder genutzt haben. Die in Satz 1 genannten Daten sind durch die nach Absatz 1 zuständige Behörde unverzüglich zu löschen, sobald sie zur Erfüllung des Zwecks, zu dem sie erhoben, gespeichert oder genutzt worden sind, nicht mehr erforderlich sind.
 
 # § 13 – Behördliche Anordnungen
 
@@ -452,17 +452,17 @@ sind.
 
 1. einer Rechtsverordnung
 
-a) nach § 3 Absatz 4 oder 5 Nummer 2, 3, 5, 6, 8 oder 10, auch in Verbindung mit § 15 Absatz 6 Satz 1, oder nach § 11a Absatz 2 Satz 6 Nummer 1, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+a) nach § 3 Absatz 4 oder 5 Nummer 2, 3, 5, 6, 8 oder 10, auch in Verbindung mit § 15 Absatz 5 Satz 1, oder nach § 11a Absatz 2 Satz 6 Nummer 1, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
-b) nach § 3 Absatz 5 Nummer 1 oder 9, jeweils auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1, oder nach § 3 Absatz 5 Nummer 4, auch in Verbindung mit § 15 Absatz 6 Satz 1,
+b) nach § 3 Absatz 5 Nummer 1 oder 9, jeweils auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1, oder nach § 3 Absatz 5 Nummer 4, auch in Verbindung mit § 15 Absatz 5 Satz 1,
 
-c) nach § 3 Absatz 5 Nummer 7 oder § 11a Absatz 2 Satz 4 oder 6 Nummer 2, jeweils auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1, oder nach § 11 Absatz 3 Nummer 7 oder 8,
+c) nach § 3 Absatz 5 Nummer 7 oder § 11a Absatz 2 Satz 4 oder 6 Nummer 2, jeweils auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1, oder nach § 11 Absatz 3 Nummer 7 oder 8,
 
-d) nach § 4, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+d) nach § 4, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
-e) nach § 5 Abs. 2, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+e) nach § 5 Abs. 2, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
-f) nach § 7, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+f) nach § 7, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -494,9 +494,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (4) Das Bundesministerium kann Rechtsverordnungen nach diesem Gesetz, die ausschließlich der Umsetzung verbindlicher technischer Vorschriften aus Richtlinien oder Beschlüsse der Europäischen Union, die Sachbereiche dieses Gesetzes, insbesondere über den Verkehr mit oder die Anwendung von Düngemitteln, betreffen, dienen, ohne Zustimmung des Bundesrates erlassen.
 
-(5) Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
-(6) In den Rechtsverordnungen auf Grund dieses Gesetzes, ausgenommen § 11, kann die jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen werden. Soweit eine nach Satz 1 erlassene Rechtsverordnung die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, sind diese befugt,
+(5) In den Rechtsverordnungen auf Grund dieses Gesetzes, ausgenommen § 11, kann die jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen werden. Soweit eine nach Satz 1 erlassene Rechtsverordnung die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, sind diese befugt,
 
 1. außer im Falle einer Rechtsverordnung nach § 3 Absatz 5 Nummer 2 bis 6, 8 und 10 die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen,
 

@@ -316,7 +316,3 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 5 
 (2) Rechtsverordnungen nach Absatz 1 treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
-
-# § 18 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 114-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 3 des Gesetzes vom 11. Juni 2019 (BGBl. I S. 754) geändert worden ist, im Bundesanzeiger verkündet werden.

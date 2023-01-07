@@ -1361,10 +1361,6 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung de
 
 # § 21c – (weggefallen)
 
-# § 21d
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
-
 # § 22
 
 (Inkrafttreten)

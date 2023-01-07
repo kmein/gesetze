@@ -99,9 +99,7 @@ verteilt. Der in Satz 1 Nummer 2 Buchstabe a bezeichnete Verteilerschlüssel fü
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Annahme der Meldungen nach § 3 und die Verteilung der Unionsbeihilfen nach § 4 auf die Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
-# § 7 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen des Bundes nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 7 – (weggefallen)
 
 # § 8 – Übergangsvorschriften
 

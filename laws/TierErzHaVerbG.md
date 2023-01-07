@@ -175,9 +175,7 @@ erforderlich ist, die Überwachung durch die nach § 1 jeweils zuständige Behö
 
 Durch die Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
-# § 10 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 10 – (weggefallen)
 
 # § 11 – Inkrafttreten
 
