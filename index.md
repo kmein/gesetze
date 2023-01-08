@@ -175,7 +175,6 @@
 - [AMFarbV](laws/AMFarbV.md) Arzneimittelfarbstoffverordnung
 - [AMG](laws/AMG.md) Gesetz über den Verkehr mit Arzneimitteln
 - [AMGBefugV](laws/AMGBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen zur Regelung von Verfahren, Weiterleitung von Ausfertigungen und Einreichung von Unterlagen nach dem Arzneimittelgesetz
-- [AMGBlauzAusnV](laws/AMGBlauzAusnV.md) Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz vor der Blauzungenkrankheit
 - [AMGZSAV](laws/AMGZSAV.md) Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder sowie der Aufgaben des Bundesministeriums für Gesundheit nach § 79 Absatz 4a des Arzneimittelgesetzes
 - [AMHV](laws/AMHV.md) Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
 - [AMPreisV](laws/AMPreisV.md) Arzneimittelpreisverordnung
@@ -190,7 +189,6 @@
 - [AMV](laws/AMV.md) Verordnung über die Amtsdauer, Amtsführung und Entschädigung der Mitglieder des Gemeinsamen Bundesausschusses und der Landesausschüsse der Ärzte (Zahnärzte) und Krankenkassen
 - [AMVerkRÄndV 3](laws/AMVerkRÄndV_3.md) Dritte Verordnung zur Änderung der Verordnung über die Zulassung von Arzneimitteln für den Verkehr außerhalb der Apotheken und zur Änderung der Verordnung über den Ausschluß von Arzneimitteln vom Verkehr außerhalb der Apotheken
 - [AMVerkRV](laws/AMVerkRV.md) Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel
-- [AMVLBV](laws/AMVLBV.md) Verordnung mit arzneimittelrechtlichen Vorschriften über die Arzneimittelverwendung in landwirtschaftlichen Betrieben
 - [AMVO](laws/AMVO.md) Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und in handwerksähnlichen Gewerben
 - [AMVV](laws/AMVV.md) Verordnung über die Verschreibungspflicht von Arzneimitteln
 - [AMWarnV](laws/AMWarnV.md) Arzneimittel-Warnhinweisverordnung
@@ -211,6 +209,7 @@
 - [AntarktUmwSchProtAG](laws/AntarktUmwSchProtAG.md) Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag
 - [AntarktUmwSchProtAG§6Abs5V](laws/AntarktUmwSchProtAG§6Abs5V.md) Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängigen Kommission wissenschaftlicher Sachverständiger nach § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes vom 22. September 1994
 - [AntarktVtrG](laws/AntarktVtrG.md) Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959
+- [Antibiotika-Arzneimittel-Verwendungsverordnung](laws/Antibiotika-Arzneimittel-Verwendungsverordnung.md) Verordnung über die Verwendung antibiotisch wirksamer Arzneimittel
 - [AntiDHG](laws/AntiDHG.md) Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen
 - [AntiDopG](laws/AntiDopG.md) Gesetz gegen Doping im Sport
 - [AnwZpvV](laws/AnwZpvV.md) Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
@@ -2108,6 +2107,7 @@
 - [FinDAGKostV](laws/FinDAGKostV.md) Verordnung über die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz
 - [FinDASa](laws/FinDASa.md) Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [FinDASaV](laws/FinDASaV.md) Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
+- [FinDiszErstV](laws/FinDiszErstV.md) Verordnung zur Durchführung der Erstattung von Mitteln aus der Finanzdisziplin des Europäischen Garantiefonds für die Landwirtschaft an die Empfänger von Direktzahlungen
 - [FinDPrV](laws/FinDPrV.md) Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft
 - [FinPlG](laws/FinPlG.md) Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung
 - [FinRVV](laws/FinRVV.md) Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden Risikotransfer
@@ -5493,8 +5493,6 @@
 - [TÄHAV](laws/TÄHAV.md) Verordnung über tierärztliche Hausapotheken
 - [TätoV](laws/TätoV.md) Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen*)
 - [TAMG](laws/TAMG.md) Gesetz über den Verkehr mit Tierarzneimitteln und zur Durchführung unionsrechtlicher Vorschriften betreffend Tierarzneimittel 1
-- [TAMMitDurchfV](laws/TAMMitDurchfV.md) Verordnung über die Durchführung von Mitteilungen nach §§ 58a und 58b des Arzneimittelgesetzes
-- [TamPV](laws/TamPV.md) Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien *)
 - [TAppV](laws/TAppV.md) Verordnung zur Approbation von Tierärztinnen und Tierärzten
 - [TarifOAufhV](laws/TarifOAufhV.md) Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen
 - [TArztHAusbZustV](laws/TArztHAusbZustV.md) Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin
