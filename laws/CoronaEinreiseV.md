@@ -47,19 +47,27 @@ Im Sinne dieser Verordnung ist:
 
 Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder Luftweg aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland,
 
- 2. Einreiseportal
-
-vom Robert Koch-Institut nach § 36 Absatz 9 Satz 1 des Infektionsschutzgesetzes eingerichtetes elektronisches Melde- und Informationssystem unter https://www.einreiseanmeldung.de,
+ 2. (weggefallen)
 
  3. (weggefallen)
 
  3a. Virusvariantengebiet
 
-ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine bestimmte, in der Bundesrepublik Deutschland noch nicht oder nicht mehr verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften auftritt, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass
+a) ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine in der Bundesrepublik Deutschland noch nicht oder nicht mehr verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften im Sinne des Buchstaben b aufzutreten droht aufgrund
 
-a) bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Variante aufweisen oder
+aa)  
+einer dort festgestellten oder anzunehmenden und im Vergleich zur Bundesrepublik Deutschland höheren Ausbreitungsgeschwindigkeit (Dynamik der Infektion) oder Inzidenz in Verbindung mit
 
-b) sie andere ähnlich schwerwiegende besorgniserregende Eigenschaften aufweist, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht,
+bb)  
+nicht ausreichend vorhandenen oder verlässlichen Sequenzdaten zum Variantenvorkommen und epidemiologischer Daten, welche Rückschlüsse auf die Krankheitsschwere zulassen, insbesondere Daten zu Hospitalisierungen, Aufnahmen auf Intensivstationen sowie Todeszahlen von Infizierten mit dem Coronavirus SARS-CoV-2, es sei denn, es liegen sonstige Berichte vor, welche hinreichend verlässliche Rückschlüsse darauf zulassen, dass die zirkulierenden Varianten keine besorgniserregenden Eigenschaften im Sinne des Buchstaben b aufweisen, oder
+
+b) ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine bestimmte, in der Bundesrepublik Deutschland noch nicht oder nicht mehr verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften auftritt, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass
+
+aa)  
+bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Variante aufweisen oder
+
+bb)  
+sie andere ähnlich schwerwiegende besorgniserregende Eigenschaften aufweist, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht,
 
  4. eine asymptomatische Person
 
@@ -169,45 +177,31 @@ Zertifikate nach der Verordnung (EU) 2021/953 des Europäischen Parlaments und d
 
 § 2 Satz 1 Nr. 10 Buchst. b DBuchst. bb: IdF d. Art. 1 Nr. 1 Buchst. b V v. 28.9.2022 BAnz AT 29.09.2022 V2 mWv 30.9.2022 (Kursivdruck: laut Änderungsanweisung wird das Wort „mindestens“ durch das Wort „ab“ ersetzt und werden die Wörter „erhalten hat“ durch die Wörter „nachweisen kann“ ersetzt; in Abstimmung mit dem zuständigen Ressort wurden die Wörter "erhalten hat" nur nach dem neuen Wort "ab" beim zweiten Vorkommen mit dem ehemaligen Text "Impfstoff erhalten hat" durch die Wörter "Impfstoff nachweisen kann" ersetzt; das erste Vorkommen vor dem neuen Wort "ab" mit dem Text "Impfstoffe erhalten hat" wurde nicht geändert)
 
-# § 3 – Anmeldepflicht
-
-(1) Personen, die in die Bundesrepublik Deutschland einreisen wollen und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum geplanten Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, vor der Einreise der zuständigen Behörde folgende Angaben durch Nutzung des Einreiseportals mitzuteilen (digitale Einreiseanmeldung):
-
-1. ihre personenbezogenen Angaben nach § 2 Nummer 16 des Infektionsschutzgesetzes,
-
-2. das Datum ihrer voraussichtlichen Einreise,
-
-3. ihre Aufenthaltsorte bis zu zehn Tage vor und nach der Einreise,
-
-4. das für die Einreise genutzte Reisemittel und vorliegende Informationen zum Sitzplatz,
-
-5. Angaben, ob ein Impfnachweis vorliegt,
-
-6. Angaben, ob ein Testnachweis beziehungsweise Genesenennachweis vorliegt, und
-
-7. Angaben, ob bei ihnen typische Anhaltspunkte für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegen.
-
-(2) Sofern eine digitale Einreiseanmeldung nicht möglich ist, ist stattdessen ausnahmsweise eine vollständig ausgefüllte Ersatzmitteilung nach dem Muster der Anlage bei der Einreise mitzuführen.
+# § 3 – (weggefallen)
 
 # § 4 – Absonderungspflicht
 
-(1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, sich unverzüglich nach der Einreise auf eigene Kosten für einen Zeitraum nach Absatz 2 abzusondern. Nach der Einreise haben sich Personen nach Satz 1 auf direktem Weg in die Haupt- oder Nebenwohnung oder in eine andere, eine Absonderung ermöglichende Unterkunft zu begeben. Den absonderungspflichtigen Personen ist es in diesem Zeitraum nicht gestattet, Besuch von Personen zu empfangen, die nicht ihrem Hausstand angehören. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 innerhalb des jeweils maßgeblichen Absonderungszeitraums nach Absatz 2 bei ihnen auftreten. Personen nach Satz 1 unterliegen für die Zeit der Absonderung der Beobachtung durch die zuständige Behörde.
+(1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet im Sinne von § 2 Satz 1 Nummer 3a Buchstabe b eingestuften Gebiet aufgehalten haben, sind verpflichtet, sich unverzüglich nach der Einreise auf eigene Kosten für einen Zeitraum nach Absatz 2 abzusondern. Nach der Einreise haben sich Personen nach Satz 1 auf direktem Weg in die Haupt- oder Nebenwohnung oder in eine andere, eine Absonderung ermöglichende Unterkunft zu begeben. Den absonderungspflichtigen Personen ist es in diesem Zeitraum nicht gestattet, Besuch von Personen zu empfangen, die nicht ihrem Hausstand angehören. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 innerhalb des jeweils maßgeblichen Absonderungszeitraums nach Absatz 2 bei ihnen auftreten. Personen nach Satz 1 unterliegen für die Zeit der Absonderung der Beobachtung durch die zuständige Behörde.
 
 (2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von 14 Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von 14 Tagen zu dem Zeitpunkt,
 
 1. in dem das betroffene Virusvariantengebiet nach der Einreise in die Bundesrepublik Deutschland nicht mehr als solches eingestuft wird oder
 
-2. die einreisende Person einen Impfnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermittelt, der ausweist, dass die Person vollständig mit einem Impfstoff gegen COVID-19 geimpft ist, für den das Robert Koch-Institut festgestellt und auf seiner Internetseite ausdrücklich unter Bezug auf diese Vorschrift bekanntgemacht hat, dass dieser Impfstoff gegen die Virusvariante hinreichend wirksam ist, derentwegen die Einstufung als Virusvariantengebiet erfolgt ist.
+2. die einreisende Person einen Impfnachweis an die zuständige Behörde übermittelt, der ausweist, dass die Person vollständig mit einem Impfstoff gegen COVID-19 geimpft ist, für den das Robert Koch-Institut festgestellt und auf seiner Internetseite ausdrücklich unter Bezug auf diese Vorschrift bekanntgemacht hat, dass dieser Impfstoff gegen die Virusvariante hinreichend wirksam ist, derentwegen die Einstufung als Virusvariantengebiet erfolgt ist.
 
 (3) (weggefallen)
 
 # § 5 – Nachweispflicht
 
-Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
+Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend. Bei der Einreise aus einem Virusvariantengebiet im Sinne von § 2 Satz 1 Nummer 3a Buchstabe a kann auch ein PoC-Antigen-Test vorgelegt werden.
+
+# § 5a – Testpflicht nach Einreise
+
+Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, unverzüglich nach Einreise auf Anforderung der zuständigen Behörde zum Zwecke der stichprobenartigen Überprüfung des Vorliegens von Virusvarianten eine Testung mittels PoC-Antigen-Test und im Falle eines positiven PoC-Antigen-Tests eine bestätigende Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) durchführen zu lassen. Anstelle des PoC-Antigen-Tests kann auch direkt ein Test mittels Nukleinsäurenachweis durchgeführt werden.
 
 # § 6 – Ausnahmen
 
-(1) Die §§ 3 und 4 gelten nicht für Personen, die
+(1) § 4 gilt nicht für Personen, die
 
 1. durch ein Virusvariantengebiet lediglich durchgereist sind und dort keinen Zwischenaufenthalt hatten,
 
@@ -241,31 +235,13 @@ b) im Rahmen des Grenzverkehrs für bis zu 24 Stunden in die Bundesrepublik Deut
 
 # § 7 – Vorlage- und Übermittlungspflichten
 
-(1) Erfolgt die Einreise aus einem Virusvariantengebiet mittels eines Beförderers, sind diesem vor der Beförderung folgende Nachweise auf dessen Anforderung hin zum Zwecke der stichprobenhaften Überprüfung vorzulegen:
+(1) Erfolgt die Einreise aus einem Virusvariantengebiet mittels eines Beförderers, ist diesem vor der Beförderung ein Testnachweis auf dessen Anforderung hin zum Zwecke der stichprobenhaften Überprüfung vorzulegen. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr kann die Vorlage abweichend von Satz 1 auch noch während der Beförderung erfolgen. Das Vorliegen einer Ausnahme von § 5 ist auf Verlangen des Beförderers glaubhaft zu machen.
 
-1. die Bestätigung der erfolgreich durchgeführten digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 und
+(2) Bei der Einreise in die Bundesrepublik Deutschland mit Voraufenthalt in einem Virusvariantengebiet ist ein Testnachweis mitzuführen und der zuständigen Behörde oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung zum Zwecke der stichprobenhaften Überprüfung vorzulegen. Das Vorliegen einer Ausnahme von § 5 ist auf Verlangen der zuständigen Behörde oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde glaubhaft zu machen. Für Personen, die zum Zwecke einer Arbeitsaufnahme in die Bundesrepublik Deutschland einreisen, kann auch der Arbeitgeber oder ein sonstiger Dritter den Nachweis nach Satz 1 erbringen. Bei einer Einreise aus einem Schengen-Staat erfolgt die Anforderung der Vorlage der Nachweise stichprobenhaft anlässlich grenzpolizeilicher Aufgabenwahrnehmung. Bei einer Einreise, die nicht aus einem Schengen-Staat erfolgt, erfolgt die Anforderung im Rahmen der Einreisekontrolle.
 
-2. ein Testnachweis.
+(3) (weggefallen)
 
-Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr kann die Vorlage abweichend von Satz 1 auch noch während der Beförderung erfolgen. Das Vorliegen einer Ausnahme von § 3 Absatz 1 oder § 5 ist auf Verlangen des Beförderers glaubhaft zu machen.
-
-(2) Bei der Einreise in die Bundesrepublik Deutschland mit Voraufenthalt in einem Virusvariantengebiet sind folgende Nachweise mitzuführen und der zuständigen Behörde oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung zum Zwecke der stichprobenhaften Überprüfung vorzulegen:
-
-1. die Bestätigung der erfolgreich durchgeführten digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 und
-
-2. ein Testnachweis.
-
-Das Vorliegen einer Ausnahme von § 3 Absatz 1 oder § 5 ist auf Verlangen der zuständigen Behörde oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde glaubhaft zu machen. Für Personen, die zum Zwecke einer Arbeitsaufnahme in die Bundesrepublik Deutschland einreisen, kann auch der Arbeitgeber oder ein sonstiger Dritter den Nachweis nach Satz 1 erbringen. Bei einer Einreise aus einem Schengen-Staat erfolgt die Anforderung der Vorlage der Nachweise stichprobenhaft anlässlich grenzpolizeilicher Aufgabenwahrnehmung. Bei einer Einreise, die nicht aus einem Schengen-Staat erfolgt, erfolgt die Anforderung im Rahmen der Einreisekontrolle.
-
-(3) Im Fall des § 3 Absatz 2 ist die vollständig ausgefüllte Ersatzmitteilung zum Zwecke der Kontrolle und Überlassung an die zuständige Behörde auf Anforderung auszuhändigen an:
-
-1. den Beförderer, sofern die Einreise unter Inanspruchnahme eines Beförderers aus einem Schengen-Staat erfolgt, oder
-
-2. die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde.
-
-Sofern eine Anforderung nach Satz 1 im Rahmen der Einreise nicht erfolgt ist, ist spätestens 24 Stunden nach Einreise entweder eine digitale Einreiseanmeldung nachzuholen oder die vollständig ausgefüllte Ersatzmitteilung an die zuständige Behörde zu übermitteln.
-
-(4) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, haben, wenn sie nach § 3 zu einer Anmeldung verpflichtet sind, einen Testnachweis oder in den Fällen des § 4 Absatz 2 Satz 2 Nummer 2 einen Impfnachweis durch Nutzung des Einreiseportals an die zuständige Behörde zu übermitteln. Für Personen, die zum Zwecke einer Arbeitsaufnahme in die Bundesrepublik Deutschland einreisen, kann auch der Arbeitgeber oder ein sonstiger Dritter den Nachweis nach Satz 1 erbringen.
+(4) (weggefallen)
 
 # § 8 – Informationspflichten der Verkehrsunternehmen
 
@@ -273,15 +249,15 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 # § 9 – Pflichten der Beförderer im Zusammenhang mit der Beförderung
 
-(1) Beförderer, die Personen vorbehaltlich des § 10 aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, haben, soweit keine Ausnahme oder Maßgabe nach § 6 Absatz 1 Satz 1 oder Satz 2 vorliegt, vor der Beförderung die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 stichprobenhaft zu kontrollieren. Diese sind im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Die vollständig ausgefüllten Ersatzmitteilungen nach § 3 Absatz 2 sind bei Beförderungen aus einem Schengen-Staat einzusammeln und unverzüglich durch die Beförderer an die zuständige Behörde zu übermitteln. Beförderer, die Personen aus einem Virusvariantengebiet außerhalb von Schengen-Staaten in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist und die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 an diese zum Zwecke der stichprobenhaften Überprüfung und Überlassung an die zuständige Behörde auszuhändigen ist. Beförderer haben die Beförderungen aus einem Virusvariantengebiet in die Bundesrepublik Deutschland zu unterlassen, wenn die zu befördernden Personen im Rahmen der Kontrolle nach Satz 1 keine Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder keine vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 vorgelegt haben; dies gilt auch, wenn nach Prüfung nach Satz 2 die angegebenen Daten offensichtlich unrichtig sind. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr aus einem Virusvariantengebiet kann die Kontrolle in Abweichung von Satz 5 auch noch während der Beförderung erfolgen.
+(1) Beförderer, die Personen vorbehaltlich des § 10 aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, haben, soweit keine Ausnahme oder Maßgabe nach § 6 Absatz 1 Satz 1 oder Satz 2 vorliegt, vor der Beförderung den Testnachweis nach § 5 stichprobenhaft zu kontrollieren. Dieser ist im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Beförderer, die Personen aus einem Virusvariantengebiet außerhalb von Schengen-Staaten in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass der Testnachweis im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist.
 
-(2) Für Beförderer, die Personen aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis entsprechend; es dürfen, soweit es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
+(2) Es dürfen, soweit es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Erfolgt die Beförderung aus einem Virusvariantengebiet im Sinne von § 2 Satz 1 Nummer 3a Buchstabe a in die Bundesrepublik Deutschland, so reicht auch ein PoC-Antigen-Test als Testnachweis aus. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
 
-(3) Die Absätze 1 und 2 gelten nicht im öffentlichen Personennahverkehr.
+(3) Absatz 1 gilt nicht im öffentlichen Personennahverkehr.
 
 # § 10 – Beförderungsverbot aus Virusvariantengebieten
 
-(1) Beförderer sind verpflichtet, Beförderungen aus Virusvariantengebieten in die Bundesrepublik Deutschland zu unterlassen.
+(1) Beförderer sind verpflichtet, Beförderungen aus Virusvariantengebieten im Sinne von § 2 Satz 1 Nummer 3a Buchstabe b in die Bundesrepublik Deutschland zu unterlassen.
 
 (2) Das Beförderungsverbot gilt nicht für
 
@@ -321,7 +297,7 @@ Das Vorliegen einer Ausnahme nach Satz 1 ist auf Verlangen des Beförderers oder
 
 Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 3 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+1. (weggefallen)
 
 2. entgegen § 4 Absatz 1 Satz 1 sich nicht oder nicht rechtzeitig absondert,
 
@@ -331,23 +307,23 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 5. entgegen § 7 Absatz 1 Satz 1 oder Absatz 2 Satz 1 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-6. entgegen § 7 Absatz 3 Satz 1 eine Ersatzmitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
+6. (weggefallen)
 
-7. entgegen § 7 Absatz 3 Satz 2 eine digitale Einreiseanmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachholt und eine Ersatzmitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+7. (weggefallen)
 
 8. entgegen § 8 nicht sicherstellt, dass eine dort genannte Information barrierefrei zur Verfügung gestellt wird,
 
-9. entgegen § 9 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1 erster Halbsatz, eine Bestätigung, eine Ersatzmitteilung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig kontrolliert,
+9. entgegen § 9 Absatz 1 Satz 1 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig kontrolliert,
 
-10. entgegen § 9 Absatz 1 Satz 5 erster Halbsatz oder § 10 Absatz 1 eine Beförderung nicht unterlässt,
+10. entgegen § 10 Absatz 1 eine Beförderung nicht unterlässt,
 
-11. entgegen § 9 Absatz 2 Satz 1 zweiter Halbsatz eine Person befördert oder
+11. entgegen § 9 Absatz 2 Satz 1 eine Person befördert oder
 
 12. entgegen § 11 Absatz 1 Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 31. Januar 2023 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 7. April 2023 außer Kraft.
 
 # Anlage
 

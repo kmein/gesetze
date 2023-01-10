@@ -113,6 +113,8 @@ Die vorstehenden Ermäßigungen können nicht nebeneinander geltend gemacht werd
 
 (5) Das Beratungsgeld wird erhöht im Seelotsrevier Wismar/Rostock/Stralsund um 15 vom Hundert für Schiffe mit gasförmiger oder flüssiger Ladung einschließlich Tanker in Ballast sowie für Schiffe mit feuergefährlicher oder explosiver Gesamtladung.
 
+(+++ § 2 Abs. 1 Satz 1 Nr. 2 Buchst. b: Zur Nichtanwendung vgl. § 8 +++)
+
 # § 3
 
 Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem Eigentümer des Wasserfahrzeuges diejenigen Personen verpflichtet, die das Befahren des Reviers und die Inanspruchnahme der Leistungen der Seelotsen im eigenen oder fremden Namen veranlasst haben. Mehrere Zahlungspflichtige haften als Gesamtschuldner.
