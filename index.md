@@ -10,6 +10,7 @@
 - [AAÜGErstV](laws/AAÜGErstV.md) Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund
 - [AAustVorhAbk USA](laws/AAustVorhAbk_USA.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Durchführung von Austauschvorhaben zum Zwecke der Aus- und Weiterbildung
 - [ABAG](laws/ABAG.md) Gesetz zur Ablösung des Arznei- und Heilmittelbudgets
+- [ABAMVerwV](laws/ABAMVerwV.md) Verordnung über die Verwendung antibiotisch wirksamer Arzneimittel
 - [ABBergV](laws/ABBergV.md) Bergverordnung für alle bergbaulichen Bereiche
 - [ABBV](laws/ABBV.md) Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz
 - [AbfAEV](laws/AbfAEV.md) Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen
@@ -209,7 +210,6 @@
 - [AntarktUmwSchProtAG](laws/AntarktUmwSchProtAG.md) Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag
 - [AntarktUmwSchProtAG§6Abs5V](laws/AntarktUmwSchProtAG§6Abs5V.md) Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängigen Kommission wissenschaftlicher Sachverständiger nach § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes vom 22. September 1994
 - [AntarktVtrG](laws/AntarktVtrG.md) Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959
-- [Antibiotika-Arzneimittel-Verwendungsverordnung](laws/Antibiotika-Arzneimittel-Verwendungsverordnung.md) Verordnung über die Verwendung antibiotisch wirksamer Arzneimittel
 - [AntiDHG](laws/AntiDHG.md) Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen
 - [AntiDopG](laws/AntiDopG.md) Gesetz gegen Doping im Sport
 - [AnwZpvV](laws/AnwZpvV.md) Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes

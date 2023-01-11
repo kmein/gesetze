@@ -379,6 +379,14 @@ Ausschreibung zur Fahndung
 
  
 
+§ 30a
+
+Ausschreibung zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle
+
+ 
+
+ 
+
 § 31
 
 Ausschreibung zur grenzpolizeilichen Beobachtung
@@ -1386,6 +1394,20 @@ c) das Antreffen der als vermißt geltenden Person festzustellen, oder
 (4) Die Speicherung in der für die Grenzfahndung geführten Datei erfolgt durch die in der Rechtsverordnung nach § 58 Abs. 1 bestimmte Bundespolizeibehörde. Die Berechtigung zum Abruf von Daten im automatisierten Verfahren aus der für die Grenzfahndung geführten Datei darf nur den mit der Wahrnehmung der polizeilichen Kontrollen des grenzüberschreitenden Verkehrs beauftragten Behörden eingeräumt werden.
 
 (5) Die Bundespolizei kann ferner personenbezogene Daten der in Absatz 1 bezeichneten Art im automatisierten Verfahren in den Fahndungsbestand des polizeilichen Informationssystems zum Zwecke der Einreiseverweigerung, Ingewahrsamnahme, Aufenthaltsermittlung oder Überprüfung der Person eingeben, wenn sie nach den Vorschriften dieses Gesetzes befugt ist, die mit der Ausschreibung bezweckte Maßnahme selbst vorzunehmen oder durch eine zum Abruf der Daten im automatisierten Verfahren berechtigte Stelle vornehmen zu lassen.
+
+# § 30a – Ausschreibung zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle
+
+(1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach § 1 Absatz 3 sowie nach den §§ 2 bis 7 eine Person, eine Sache oder bargeldlose Zahlungsmittel zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle im polizeilichen Informationsverbund ausschreiben, wenn die Voraussetzungen des Artikels 36 Absatz 1 und 3 Buchstabe a und c der Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S. 56) vorliegen.
+
+(2) Die Ausschreibung zur verdeckten Kontrolle darf nur durch die Präsidentin oder den Präsidenten des Bundespolizeipräsidiums oder einer Bundespolizeidirektion, ihrer oder seiner Vertretung, oder durch die Leiterin oder den Leiter einer Abteilung des Bundespolizeipräsidiums angeordnet werden. Bei Gefahr im Verzug darf die Ausschreibung nach Satz 1 auch durch Beamte des höheren Dienstes des Bundespolizeipräsidiums angeordnet werden.
+
+(3) Die Ausschreibung ist unter Angabe der maßgeblichen Gründe zu dokumentieren.
+
+(4) Die Anordnung einer Personenausschreibung nach Absatz 1 ist auf höchstens ein Jahr zu befristen. Spätestens nach Ablauf von sechs Monaten ist zu prüfen, ob die Voraussetzungen für die Anordnung noch bestehen. Das Ergebnis dieser Prüfung ist zu dokumentieren. Eine Verlängerung der Anordnung um jeweils nicht mehr als ein Jahr ist zulässig, sofern die Voraussetzungen der Anordnung weiterhin vorliegen; bei einer Personenausschreibung zur verdeckten Kontrolle bedarf die Verlängerung einer richterlichen Anordnung. Zuständig ist das Amtsgericht, in dessen Bezirk die Bundespolizeibehörde nach Absatz 2 Satz 1 ihren Sitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
+
+(5) Liegen die Voraussetzungen für die Anordnung nicht mehr vor, ist der Zweck der Maßnahme erreicht oder zeigt sich, dass er nicht mehr erreicht werden kann, ist die Ausschreibung unverzüglich zu löschen.
+
+(6) Über die Personenausschreibung zur verdeckten Kontrolle sind die Zielperson und die Personen, deren personenbezogene Daten gemeldet worden sind, zu benachrichtigen. Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Nachforschungen zur Feststellung der Identität einer in Satz 2 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist. Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des Zwecks der Maßnahme, des Bestandes des Staates, von Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem Wert, deren Erhaltung im öffentlichen Interesse liegt, möglich ist. Wird wegen des zugrundeliegenden Sachverhaltes ein strafrechtliches Ermittlungsverfahren geführt, entscheidet die Strafverfolgungsbehörde entsprechend den Vorschriften des Strafverfahrensrechts, ob eine Benachrichtigung vorgenommen wird. Die Benachrichtigung erfolgt durch die Bundespolizeibehörde, die die Maßnahme veranlasst hat. Wird die Benachrichtigung aus einem der vorgenannten Gründe zurückgestellt, ist dies zu dokumentieren. Erfolgt die nach Satz 4 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere Zurückstellung der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer der weiteren Zurückstellung. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung endgültig von der Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden, eine weitere Verwendung der Daten gegen den Betroffenen ausgeschlossen ist und die Daten gelöscht werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz 8 genannte Frist mit der Beendigung der letzten Maßnahme.
 
 # § 31 – Ausschreibung zur grenzpolizeilichen Beobachtung
 

@@ -2759,7 +2759,7 @@ e) Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt unverz
 
 (7) Ordnungswidrigkeiten nach § 23 in der bis zum Ablauf des 27. Juli 2021 geltenden Fassung können abweichend von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden Bestimmungen geahndet werden.
 
-# § 66 – Verkündung von Rechtsverordnungen
+# § 66 – (weggefallen)
 
 # Anlage – (zu § 24a)
 
