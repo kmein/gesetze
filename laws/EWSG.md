@@ -179,6 +179,14 @@ Dem Auszahlungsantrag ist der Ergebnisbericht nach Absatz 4 Satz 4 beizufügen.
 
 (5) Ergibt sich aus der Endabrechnung nach Absatz 1 Satz 1 oder dem Prüfvermerk nach Absatz 1 Satz 2 oder Satz 4 oder als Ergebnis von Prüfungshandlungen nach Absatz 4 eine von dem Lieferanten erhaltene Überzahlung, so hat der Lieferant diese innerhalb eines Monats nach Aufforderung durch den Beauftragten zurückzuzahlen. Im Übrigen wird ein sich aus der Endabrechnung nach Absatz 1 Satz 1 ergebender und die Vorauszahlung nach § 8 übersteigender Betrag auf Aufforderung durch den Beauftragten sowie ein nach Absatz 3 beantragter Erstattungsbetrag von der Kreditanstalt für Wiederaufbau an das in dem Antrag nach § 8 Absatz 2 Satz 1 Nummer 2 oder § 9 Absatz 2 Satz 1 Nummer 2 bezeichnete Kreditinstitut oder dessen Zentralinstitut mit schuldbefreiender Wirkung für den Bund ausgezahlt. Diese Zahlungen sind von § 70 Satz 1 und 2 der Bundeshaushaltsordnung ausgenommen.
 
+# § 10a – Veröffentlichungs-, Berichts- und Aufbewahrungspflichten
+
+(1) Der Beauftragte veröffentlicht innerhalb von zwölf Monaten, nachdem die Höhe der Gewährung der Beihilfe feststeht, die in Anhang III der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1) geforderten Daten zu gewährten Einzelbeihilfen von mehr als 100 000 Euro durch Einstellung in die Beihilfetransparenzdatenbank der Europäischen Kommission.
+
+(2) Der Beauftragte übermittelt dem Bundesministerium für Wirtschaft und Klimaschutz einen Jahresbericht zu den Entlastungen nach diesem Gesetz, das diesen abnimmt und der Europäischen Kommission vorlegt. Die Erdgaslieferanten und Wärmeversorgungsunternehmen unterstützen den Beauftragten bei der Erstellung des Berichts.
+
+(3) Der Beauftragte muss alle Unterlagen über die nach diesem Gesetz gewährten Entlastungsbeträge, die die Einhaltung der in diesem Gesetz genannten Voraussetzungen belegen, für zehn Jahre nach Gewährung der Beihilfe aufbewahren. Sie sind der Europäischen Kommission auf Verlangen herauszugeben.
+
 # § 11 – Sozialrechtliche Regelung
 
 (1) Wird Personen, die Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch oder Zwölften Buch Sozialgesetzbuch oder ergänzende Hilfe zum Lebensunterhalt nach dem Bundesversorgungsgesetz erhalten, von ihrem Erdgaslieferanten nach § 3 Absatz 2 Satz 1 Alternative 2 die für den Monat Dezember 2022 vereinbarte Voraus- oder Abschlagszahlung überwiesen, gilt diese Einnahme mit der nächsten Rechnung nach den §§ 40 bis 40c des Energiewirtschaftsgesetzes, die diese Personen nach dem 1. Dezember 2022 erhalten, als zugeflossen.

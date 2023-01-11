@@ -6839,8 +6839,6 @@ Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nich
 
 Vorläufige Entscheidungen nach § 328 Absatz 1 Nummer 3 über die Zahlung von Kurzarbeitergeld für die Monate März 2020 bis Juni 2022 können auch ohne eine abschließende Prüfung der Voraussetzungen und des Umfangs des Anspruchs auf Kurzarbeitergeld (Abschlussprüfung) durch eine endgültige Entscheidung abgeschlossen werden, wenn der Gesamtauszahlungsbetrag des Kurzarbeitergeldes und der dem Arbeitgeber erstatteten Sozialversicherungsbeiträge für den jeweiligen Arbeitsausfall 10 000 Euro nicht überschreitet. Anlassbezogene Prüfungen erfolgen in den Fällen des Satzes 1, wenn Hinweise auf einen Missbrauch von Leistungen vorliegen oder der Arbeitgeber oder die Betriebsvertretung die Durchführung der Abschlussprüfungen verlangen.
 
-(+++ Hinweis: Zur Verlängerung der Frist nach § 421c Abs. 4 Satz 1 vgl. V v. 23.6.2022 I 985 +++)
-
 # § 421d – Vorübergehende Sonderregelungen zum Arbeitslosengeld
 
 (1) Für Personen, deren Anspruch auf Arbeitslosengeld sich in der Zeit vom 1. Mai 2020 bis zum 31. Dezember 2020 auf einen Tag gemindert hat, verlängert sich die Anspruchsdauer einmalig um drei Monate.
