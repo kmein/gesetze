@@ -2668,7 +2668,6 @@
 - [HBPolVDAufstV](laws/HBPolVDAufstV.md) Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
 - [HdBALBV](laws/HdBALBV.md) Verordnung über die Leistungsbezüge und Zulagen an der Hochschule der Bundesagentur für Arbeit
 - [HdGStiftG](laws/HdGStiftG.md) Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland" (Artikel 1 d. Gesetzes zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland")
-- [HDiszErstV](laws/HDiszErstV.md) Verordnung zur Durchführung der Erstattung von Mitteln aus der Haushaltsdisziplin des Europäischen Garantiefonds für die Landwirtschaft (EGFL) an die Empfänger von Direktzahlungen
 - [HdlDlStatG](laws/HdlDlStatG.md) Gesetz über die Statistik im Handels- und Dienstleistungsbereich
 - [HdlFachwPrV](laws/HdlFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Handelsfachwirt und Geprüfte Handelsfachwirtin
 - [HdlKlG](laws/HdlKlG.md) Handelsklassengesetz
@@ -4976,6 +4975,7 @@
 - [SeelotAusbNOKIV](laws/SeelotAusbNOKIV.md) Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwärter im Seelotsrevier Nord-Ostsee-Kanal I
 - [SeelotRevierV 1978](laws/SeelotRevierV_1978.md) Verordnung über das Seelotswesen außerhalb der Reviere
 - [SeeLotsEigV](laws/SeeLotsEigV.md) Verordnung über die Feststellung der gesundheitlichen Eignung von Seelotsinnen und Seelotsen
+- [SeeLotsEigV§11Bek](laws/SeeLotsEigV§11Bek.md) Bekanntmachung nach § 11 der Seelotseignungsverordnung
 - [SeemAmtsBek 1982](laws/SeemAmtsBek_1982.md) Bekanntmachung über die Seemannsämter außerhalb des Geltungsbereiches des Grundgesetzes und die mit der Wahrnehmung seemannsamtlicher Aufgaben beauftragten Honorarkonsularbeamten der Bundesrepublik Deutschland
 - [SeemannsÄKostV 2001](laws/SeemannsÄKostV_2001.md) Kostenverordnung für Amtshandlungen der Seemannsämter
 - [SeemGÄndG](laws/SeemGÄndG.md) Gesetz zur Änderung und Ergänzung des Seemannsgesetzes

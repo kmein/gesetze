@@ -416,6 +416,8 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Außenwandflächen oder Kraft-Wärme-Kopplungsanlagen innerhalb von Gebäuden nicht bereits nach den §§ 2 bis 13 zulässig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollständig oder überwiegend in das öffentliche Netz eingespeist wird.
 
+(4) In einem Gebiet nach § 11 Absatz 2 für Anlagen, die der Nutzung der Sonnenenergie dienen, sind Anlagen zur Herstellung oder Speicherung von Wasserstoff zulässig, wenn die Voraussetzungen entsprechend § 249a Absatz 4 gegeben sind. In Gewerbe- und Industriegebieten gilt Satz 1 entsprechend, wenn dort eine Anlage, die der Nutzung der Sonnenenergie dient und die keine Nebenanlage im Sinne dieser Vorschrift ist, tatsächlich vorhanden ist. Absatz 1 Satz 3 gilt entsprechend.
+
 # § 15 – Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
 
 (1) Die in den §§ 2 bis 14 aufgeführten baulichen und sonstigen Anlagen sind im Einzelfall unzulässig, wenn sie nach Anzahl, Lage, Umfang oder Zweckbestimmung der Eigenart des Baugebiets widersprechen. Sie sind auch unzulässig, wenn von ihnen Belästigungen oder Störungen ausgehen können, die nach der Eigenart des Baugebiets im Baugebiet selbst oder in dessen Umgebung unzumutbar sind, oder wenn sie solchen Belästigungen oder Störungen ausgesetzt werden.
@@ -701,6 +703,10 @@ Ist der Entwurf eines Bauleitplans vor dem 20. September 2013 nach § 3 Absatz 2
 # § 25e – Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland
 
 Ist der Entwurf eines Bauleitplans vor dem 23. Juni 2021 nach § 3 Absatz 2 des Baugesetzbuchs oder nach dem Planungssicherstellungsgesetz öffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 23. Juni 2021 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
+
+# § 25f – Überleitungsvorschrift aus Anlass des Gesetzes zur sofortigen Verbesserung der Rahmenbedingungen für die erneuerbaren Energien im Städtebaurecht
+
+Ist der Entwurf eines Bauleitplans vor dem 1. Januar 2023 nach § 3 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt oder nach § 3 Absatz 1 des Planungssicherstellungsgesetzes im Internet veröffentlicht worden, ist auf ihn diese Verordnung in der bis zum 1. Januar 2023 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 # § 26 – (Berlin-Klausel)
 

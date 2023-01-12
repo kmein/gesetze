@@ -4654,8 +4654,6 @@ Mittel für den Erwerb, die Errichtung, die Erweiterung und den Umbau von Immobi
 
 (1) Die Unfallversicherungsträger sind verpflichtet, Altersrückstellungen für die bei ihnen beschäftigten Arbeitnehmerinnen und Arbeitnehmer, denen eine Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen gewährleistet wird, zu bilden. Die Altersrückstellungen umfassen Versorgungsausgaben für Versorgungsbezüge und Beihilfen. Die Verpflichtung besteht auch, wenn die Unfallversicherungsträger gegenüber ihren Tarifbeschäftigten Leistungen der betrieblichen Altersvorsorge unmittelbar zugesagt haben.
 
-(1a) (weggefallen)
-
 (2) Die Rückstellungen dürfen nur zweckentsprechend verwendet werden.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft das Nähere zur Höhe der für die Altersrückstellungen erforderlichen Zuweisungssätze, zum Zahlverfahren der Zuweisungen, zur Überprüfung der Höhe der Zuweisungssätze sowie zur Anlage des Deckungskapitals durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Das Bundesministerium für Arbeit und Soziales kann die Befugnis nach Satz 1 mit Zustimmung des Bundesrates durch Rechtsverordnung auf das Bundesamt für Soziale Sicherung übertragen. Rechtsverordnungen, die nach Satz 2 erlassen werden, bedürfen einer Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. sowie der landwirtschaftlichen Berufsgenossenschaft und ergehen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales sowie dem Bundesministerium für Ernährung und Landwirtschaft.

@@ -1125,9 +1125,9 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 § 49 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 30 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__30.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
 
-# § 50 – Öffentliche Wasserversorgung
+# § 50 – Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Die der Allgemeinheit dienende Wasserversorgung (öffentliche Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge.
+(1) Die der Allgemeinheit dienende Wasserversorgung (öffentliche Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge. Hierzu gehört auch, dass Trinkwasser aus dem Leitungsnetz an öffentlichen Orten durch Innen- und Außenanlagen bereitgestellt wird, soweit dies technisch durchführbar und unter Berücksichtigung des Bedarfs und der örtlichen Gegebenheiten, wie Klima und Geografie, verhältnismäßig ist.
 
 (2) Der Wasserbedarf der öffentlichen Wasserversorgung ist vorrangig aus ortsnahen Wasservorkommen zu decken, soweit überwiegende Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen. Der Bedarf darf insbesondere dann mit Wasser aus ortsfernen Wasservorkommen gedeckt werden, wenn eine Versorgung aus ortsnahen Wasservorkommen nicht in ausreichender Menge oder Güte oder nicht mit vertretbarem Aufwand sichergestellt werden kann.
 
@@ -1135,7 +1135,33 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (4) Wassergewinnungsanlagen dürfen nur nach den allgemein anerkannten Regeln der Technik errichtet, unterhalten und betrieben werden.
 
-(5) Durch Rechtsverordnung der Landesregierung oder durch Entscheidung der zuständigen Behörde können Träger der öffentlichen Wasserversorgung verpflichtet werden, auf ihre Kosten die Beschaffenheit des für Zwecke der öffentlichen Wasserversorgung gewonnenen oder gewinnbaren Wassers zu untersuchen oder durch eine von ihr bestimmte Stelle untersuchen zu lassen. Insbesondere können Art, Umfang und Häufigkeit der Untersuchungen sowie die Übermittlung der Untersuchungsergebnisse näher geregelt werden. Die Landesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
+(4a) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz erlässt durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über
+
+1. die Bewertung von Einzugsgebieten von Entnahmestellen für die Trinkwassergewinnung sowie über das Risikomanagement für solche Einzugsgebiete, jeweils einschließlich der Regelung von
+
+a) Pflichten der Betreiber von Wassergewinnungsanlagen, der Behörden, von Verursachern und möglichen Verursachern von Gewässerbelastungen sowie von Grundstückseigentümern und Inhabern der tatsächlichen Gewalt über Grundstücke,
+
+b) Befugnissen der zuständigen Behörde zur Anordnung bestimmter Maßnahmen gegenüber den Betreibern von Wassergewinnungsanlagen, Verursachern und möglichen Verursachern von Gewässerbelastungen sowie Grundstückseigentümern und Inhabern der tatsächlichen Gewalt über Grundstücke,
+
+2. die Anforderungen an die Fachkunde der Personen, die die Bewertung und das Risikomanagement durchführen,
+
+3. die behördlichen Verfahren bei der Bewertung und beim Risikomanagement, einschließlich der Behörden und Betreibern von Wassergewinnungsanlagen obliegenden Dokumentations- und Berichtspflichten sowie der Pflichten zur Beschaffung und Übermittlung von Informationen,
+
+4. die Anforderungen an Untersuchungsstellen, die Rohwasser, Oberflächenwasser und Grundwasser untersuchen sowie Anforderungen an die Untersuchungsverfahren,
+
+5. die Anforderungen an Maßnahmenprogramme und Bewirtschaftungspläne im Zusammenhang mit dem Risikomanagement nach Nummer 1.
+
+Die Bewertung nach Satz 1 Nummer 1 umfasst insbesondere
+
+1. die Bestimmung und nähere Beschreibung von Einzugsgebieten von Entnahmestellen für die Trinkwassergewinnung, einschließlich kartenmäßiger Darstellungen und Georeferenzierung,
+
+2. die Erfassung und Bewertung von Gefährdungen für die menschliche Gesundheit und die Trinkwassergewinnung und
+
+3. die Überwachung und die Untersuchung des Oberflächenwassers, des Grundwassers und des Rohwassers.
+
+Das Risikomanagement nach Satz 1 Nummer 1 umfasst insbesondere Vorsorge-, Risikominderungs-, Überwachungs- und Untersuchungsmaßnahmen, sonstige Maßnahmen zur Risikobeherrschung sowie die Prüfung der Notwendigkeit, Schutzgebiete festzusetzen oder anzupassen.
+
+(5) Durch Rechtsverordnung der Landesregierung oder durch Entscheidung der zuständigen Behörde können Träger der öffentlichen Wasserversorgung verpflichtet werden, über die Verpflichtungen in einer Verordnung nach Absatz 4a hinaus auf ihre Kosten weitergehende Untersuchungen der Beschaffenheit des für Zwecke der öffentlichen Wasserversorgung gewonnenen oder gewinnbaren Wassers vorzunehmen oder durch eine von ihr bestimmte Stelle vornehmen zu lassen. Insbesondere können Art, Umfang und Häufigkeit der Untersuchungen sowie die Übermittlung der Untersuchungsergebnisse näher geregelt werden. Die Landesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
 
 # § 51 – Festsetzung von Wasserschutzgebieten
 
@@ -2119,7 +2145,7 @@ zuwiderhandelt,
 
 a) § 23 Absatz 1 Nummer 1, 3 bis 8 oder Nummer 9 oder
 
-b) § 23 Absatz 1 Nummer 10 oder Nummer 11
+b) § 23 Absatz 1 Nummer 10 oder Nummer 11 oder § 50 Absatz 4a Satz 1 Nummer 3
 
 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
