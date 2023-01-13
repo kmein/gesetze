@@ -206,7 +206,7 @@ Die Bundesanstalt hat die Mitteilung nach Artikel 3 Buchstabe b der Delegierten 
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 27. Januar 2023 außer Kraft, sofern nicht mit der Zustimmung des Bundesrates etwas anderes verordnet wird.
+(2) Sie tritt mit Ablauf des 31. Dezember 2024 außer Kraft. Sie ist auf Sachverhalte, die vor diesem Tag eingetreten sind, weiter anzuwenden.
 
 # Anlage – (zu § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe b)Beihilfeberechtigte Sektoren
 

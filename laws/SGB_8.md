@@ -473,10 +473,6 @@ Mitteilungspflichten des Jugendamts
 
 § 58
 
-Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister
-
-§ 58a
-
 Auskunft über Alleinsorge aus dem Sorgeregister
 
  
@@ -2125,17 +2121,17 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (6) Für die Pflegschaft für Minderjährige gelten die Absätze 1 bis 5 entsprechend.
 
-# § 58 – Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister
+# § 58 – Auskunft über Alleinsorge aus dem Sorgeregister
 
-(1) Zum Zwecke der Erteilung der Bescheinigung nach Absatz 2 wird für Kinder nicht miteinander verheirateter Eltern bei dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt ein Sorgeregister geführt. In das Sorgeregister erfolgt jeweils eine Eintragung, wenn
+(1) Zum Zwecke der Erteilung der schriftlichen Auskunft nach Absatz 2 wird für Kinder nicht miteinander verheirateter Eltern bei dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt ein Sorgeregister geführt. In das Sorgeregister erfolgt jeweils eine Eintragung, wenn
 
-1. Sorgeerklärungen nach § 1626a Absatz 1 Nummer 1 des Bürgerlichen Gesetzbuchs abgegeben werden oder
+1. Sorgeerklärungen nach § 1626a Absatz 1 Nummer 1 des Bürgerlichen Gesetzbuchs abgegeben werden,
 
-2. aufgrund einer gerichtlichen Entscheidung die elterliche Sorge den Eltern ganz oder zum Teil gemeinsam übertragen wird.
+2. aufgrund einer rechtskräftigen gerichtlichen Entscheidung die elterliche Sorge den Eltern ganz oder zum Teil gemeinsam übertragen worden ist oder
 
-Das Sorgeregister enthält auch Eintragungen, wenn Sorgeerklärungen nach Artikel 224 § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche in der bis zum 19. Mai 2013 geltenden Fassung ersetzt wurden.
+3. die elterliche Sorge aufgrund einer rechtskräftigen gerichtlichen Entscheidung ganz oder zum Teil der Mutter entzogen oder auf den Vater allein übertragen worden ist.
 
-(2) Liegen keine Eintragungen im Sorgeregister vor, so erhält die mit dem Vater des Kindes nicht verheiratete Mutter auf Antrag hierüber eine Bescheinigung von dem nach § 87c Absatz 6 Satz 1 zuständigen Jugendamt. Die Mutter hat dafür Geburtsdatum und Geburtsort des Kindes oder des Jugendlichen anzugeben sowie den Namen, den das Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt geführt hat.
+(2) Liegen keine Eintragungen im Sorgeregister vor, so erhält die mit dem Vater des Kindes nicht verheiratete Mutter auf Antrag hierüber eine schriftliche Auskunft von dem nach § 87c Absatz 6 Satz 1 zuständigen Jugendamt. Die Mutter hat dafür Geburtsdatum und Geburtsort des Kindes oder des Jugendlichen anzugeben sowie den Namen, den das Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt geführt hat. Bezieht sich die gerichtliche Entscheidung nach Absatz 1 Satz 2 Nummer 2 oder Nummer 3 nur auf Teile der elterlichen Sorge, so erhält die mit dem Vater des Kindes nicht verheiratete Mutter auf Antrag eine schriftliche Auskunft darüber, dass Eintragungen nur in Bezug auf die durch die Entscheidung betroffenen Teile der elterlichen Sorge vorliegen. Satz 2 gilt entsprechend.
 
 # § 59 – Beurkundung
 
