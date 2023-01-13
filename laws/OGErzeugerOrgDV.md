@@ -187,7 +187,9 @@ Soweit in dieser Verordnung nicht anders geregelt, sind die §§ 6 und 7 der Agr
 
 3. die Zielsetzungen des operationellen Programms unter Berücksichtigung der Erzeugungs- und Absatzprognosen mit einer Erläuterung, wie das Programm zu den Zielen des nationalen GAP-Strategieplans beitragen soll, und die Bestätigung, dass es mit diesen übereinstimmt,
 
-4. messbare Endziele, um die Beurteilung der Fortschritte bei der Programmdurchführung zu erleichtern, die vorgeschlagenen Maßnahmen,
+4. messbare Endziele, um die Beurteilung der Fortschritte bei der Programmdurchführung zu erleichtern,
+
+4a. die vorgeschlagenen Maßnahmen,
 
 5. die Laufzeit des Programms,
 
@@ -209,7 +211,7 @@ c) der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates 
 
 d) der Delegierten Verordnung (EU) 2022/126,
 
-e) der Delegierten Verordnung (EU) zur Regelung der Anerkennungsvoraussetzungen, die die Delegierte Verordnung (EU) 2017/891 ablöst, und
+e) der Delegierten Verordnung (EU) 2017/891 der Kommission vom 13. März 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Sektoren Obst und Gemüse sowie Verarbeitungserzeugnisse aus Obst und Gemüse und zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf die in diesen Sektoren anzuwendenden Sanktionen und zur Änderung der Durchführungsverordnung (EU) Nr. 543/2011 der Kommission und
 
 f) der vorliegenden Verordnung, und
 
@@ -229,7 +231,7 @@ f) der vorliegenden Verordnung, und
 
 (3) Im Fall der Vorlage eines operationellen Programms nach § 11 Absatz 4 darf das operationelle Programm erst nach der Anerkennung als Erzeugerorganisation genehmigt werden.
 
-(4) Die Landesstelle hat im Rahmen der Genehmigung eines operationellen Programms festzulegen, ob Maßnahmen in einem Betrag oder in Tranchen aus dem Betriebsfonds finanziert werden dürfen.
+(4) Die Landesstelle hat im Rahmen der Genehmigung eines operationellen Programms festzulegen, ob Investitionen in einem Betrag oder in Tranchen aus dem Betriebsfonds finanziert werden dürfen.
 
 # § 13 – Durchführungszeitraum eines operationellen Programms
 
@@ -485,7 +487,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 2. die Durchführung der Maßnahmen und ihre Übereinstimmung mit dem genehmigten operationellen Programm,
 
-3. die Übereinstimmung der Ausgaben mit dem Unionsrecht und die Einhaltung der danach festgelegten Fristen und
+3. die Übereinstimmung der Ausgaben mit dem Unionsrecht und die Einhaltung der danach festgelegten Voraussetzungen und
 
 4. die vollständige Lieferung der Erzeugnisse durch die Mitglieder, die Erbringung der Dienstleistungen und die Richtigkeit der gemeldeten Ausgaben.
 
@@ -593,9 +595,9 @@ so setzt die Landesstelle die Anerkennung der Erzeugerorganisation oder Vereinig
 
 2. eine Aufsichtspflichtverletzung nach § 130 Absatz 1 des Gesetzes über Ordnungswidrigkeiten begangen hat und die Zuwiderhandlung eine mit der Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen im Zusammenhang stehenden Straftat ist, die Pflichten verletzt, welche die anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen treffen,
 
-so hat die Landesstelle die Auszahlungen an die anerkannte Erzeugerorganisation oder die anerkannte Vereinigung auszusetzen, solange der hinreichende Verdacht besteht.
+so hat die Landesstelle die Auszahlungen an die anerkannte Erzeugerorganisation oder die anerkannte Vereinigung von Erzeugerorganisationen auszusetzen, solange der hinreichende Verdacht besteht.
 
-(3) Hat eine im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten für eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen tätige Person in dieser Eigenschaft im Zusammenhang mit der Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen eine Straftat im Sinne des Absatzes 1 Nummer 1 oder eine Ordnungswidrigkeit im Sinne des Absatzes 1 Nummer 2 begangen, so schließt die betreffenden Maßnahmen von der Beihilfe im Rahmen des betreffenden operationellen Programms aus.
+(3) Hat eine im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten für eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen tätige Person in dieser Eigenschaft im Zusammenhang mit der Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen eine Straftat im Sinne des Absatzes 1 Nummer 1 oder eine Ordnungswidrigkeit im Sinne des Absatzes 1 Nummer 2 begangen, so schließt die Landesstelle die betreffenden Maßnahmen von der Beihilfe im Rahmen des betreffenden operationellen Programms aus.
 
 (4) Absatz 1 ist gegenüber § 31 vorrangig anzuwenden.
 
@@ -603,11 +605,11 @@ so hat die Landesstelle die Auszahlungen an die anerkannte Erzeugerorganisation 
 
 (1) Soweit die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, vorsätzlich die Durchführung einer Vor-Ort-Kontrolle in Bezug auf die Anerkennungsvoraussetzungen nach Unionsrecht und den §§ 2 bis 8 verhindert, hat die Landesstelle den Antrag auf Anerkennung abzulehnen oder die bereits erfolgte Anerkennung bis zur erfolgreichen Überprüfung der Anerkennungsvoraussetzungen auszusetzen.
 
-(2) Die Landesstelle kann einen Antrag auf Anerkennung ablehnen, sofern die Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte im jeweils im Zusammenhang mit der Anerkennung stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
+(2) Die Landesstelle kann einen Antrag auf Anerkennung ablehnen, sofern die Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte jeweils im Zusammenhang mit der Anerkennung stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
 
 (3) Die Landesstelle hat einen Antrag auf Genehmigung eines operationellen Programms oder auf Beihilfe abzulehnen, soweit die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, die Durchführung einer Vor-Ort-Kontrolle verhindert und dadurch eine Kontrolle eines bestimmten Förderzeitraums nicht möglich ist. Bereits kontrollierte Teile eines operationellen Programms oder eines Beihilfeantrags bleiben von der Ablehnung unberührt.
 
-(4) Die Landesstelle kann jeweils einen Antrag auf Genehmigung eines operationellen Programms oder einen Beihilfeantrag ablehnen, sofern die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und im jeweils im Zusammenhang mit der Genehmigung eines operationellen Programms oder des Beihilfeantrags stehenden Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
+(4) Die Landesstelle kann jeweils einen Antrag auf Genehmigung eines operationellen Programms oder einen Beihilfeantrag ablehnen, sofern die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und jeweils im Zusammenhang mit der Genehmigung eines operationellen Programms oder des Beihilfeantrags stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
 
 # § 36 – Kürzung bei verspäteter Antragstellung
 

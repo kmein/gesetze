@@ -1,6 +1,8 @@
 % Gesetz zum Schutz der Kulturpflanzen  (Pflanzenschutzgesetz - PflSchG)
 % Ausfertigungsdatum: 06.02.2012
  
+# Inhaltsübersicht
+
 # § 1 – Zweck
 
 Zweck dieses Gesetzes ist,
