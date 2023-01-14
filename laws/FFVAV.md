@@ -73,7 +73,9 @@ c) die auf Wärme oder Kälte erhobenen Steuern, Abgaben oder Zölle,
 
 5. Informationen über Beschwerdeverfahren im Zusammenhang mit der Verbrauchsmessung und der Abrechnung, über Dienste von Bürgerbeauftragten oder über alternative Streitbeilegungsverfahren, soweit diese zur Anwendung kommen,
 
-6. Vergleiche mit dem normierten oder durch Vergleichstests ermittelten Durchschnittskunden derselben Nutzerkategorie; im Fall der elektronischen Übermittlung der Abrechnung kann ein solcher Vergleich vom Versorgungsunternehmen alternativ online bereitgestellt und in der Abrechnung darauf verwiesen werden.
+6. Vergleiche mit dem normierten oder durch Vergleichstests ermittelten Durchschnittskunden derselben Nutzerkategorie; im Fall der elektronischen Übermittlung der Abrechnung kann ein solcher Vergleich vom Versorgungsunternehmen alternativ online bereitgestellt und in der Abrechnung darauf verwiesen werden,
+
+7. in Fällen, in denen das Versorgungsunternehmen sich gegenüber dem Kunden zur Lieferung von Wärme oder Kälte verpflichtet, die zu einem bestimmten Anteil aus oder auf Basis von erneuerbaren Energien oder unvermeidbarer Abwärme erzeugt worden ist, einen Nachweis über den Anteil oder die Menge der eingesetzten erneuerbaren Energieträger und der eingesetzten Wärme- oder Kältetechnologien mittels Herkunftsnachweisen, die von der zuständigen Behörde nach § 5 des Herkunftsnachweisregistergesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr. 9) für die an den Kunden gelieferte Wärme oder Kälte ausgestellt wurde.
 
 (2) Abweichend von Absatz 1 muss das Versorgungsunternehmen, soweit Abrechnungen im Fall des § 4 Absatz 3 Satz 2 nicht auf dem tatsächlichen Verbrauch beruhen, auf klare und verständliche Weise erklären, wie der in der Abrechnung ausgewiesene Betrag berechnet wurde. In der Abrechnung sind insoweit mindestens die Informationen gemäß Absatz 1 Nummer 4 und 5 anzugeben.
 
