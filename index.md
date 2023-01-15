@@ -2705,6 +2705,7 @@
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.md) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.md) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
 - [HkGAufhuaÄndG](laws/HkGAufhuaÄndG.md) Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
+- [HkNRG](laws/HkNRG.md) Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung eines Herkunftsnachweisregisters für gasförmige Energieträger und eines Herkunftsnachweisregisters für Wärme oder Kälte aus erneuerbaren Energien
 - [HKohlStiftG](laws/HKohlStiftG.md) Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung
 - [HKrimDAPrV](laws/HKrimDAPrV.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
 - [HkRNDV](laws/HkRNDV.md) Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
