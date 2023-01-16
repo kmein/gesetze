@@ -123,11 +123,9 @@ Folgende asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen
 
 1. Personen nach § 4 Absatz 1 Satz 1 Nummer 3 und 4,
 
-2. Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen beschäftigen, sowie Personen, die bei Leistungsberechtigten im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch beschäftigt sind,
+2. Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen beschäftigen, sowie Personen, die bei Leistungsberechtigten im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch beschäftigt sind, und
 
-3. Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches Sozialgesetzbuch und
-
-4. Personen, die sich zum Zeitpunkt der Testung aufgrund einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 in Absonderung befinden, wenn die Testung zur Beendigung der Absonderung erforderlich ist.
+3. Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches Sozialgesetzbuch.
 
 # § 4b – Bestätigende Diagnostik-Testung
 
