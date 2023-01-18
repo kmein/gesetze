@@ -7,7 +7,7 @@ Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015 gemäß § 14 
 
 # A.
 
-Mit Wirkung vom 1. Januar 2016 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2023 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
 
@@ -21,15 +21,21 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
 
 5. des Wehr- und Ersatzdienstes einschließlich des diesen Bereich betreffenden Disziplinarrechts;
 
-6. des Strafrechts und des Strafverfahrensrechts mit Ausnahme von Verfahren, in denen Fragen der Auslegung und Anwendung des Artikels 5 oder des Artikels 8 GG überwiegen;
+6. des Strafrechts und des Strafverfahrensrechts mit Ausnahme von
+
+a) Verfahren, in denen Fragen der Auslegung und Anwendung des Artikels 5 oder des Artikels 8 GG überwiegen und
+
+b) Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt der Strafprozessordnung (StPO);
 
 7. des Vollzugs von Untersuchungs- und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung und Besserung sowie der Anordnung und des Vollzugs anderer Freiheitsentziehungen;
 
 8. des Bußgeldverfahrens;
 
-9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts.
+9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts,
 
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäftsjahr 2022 eingehen, aus den Rechtsbereichen
+jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
+
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus den Rechtsbereichen
 
 1. des Vertriebenenrechts;
 
@@ -39,23 +45,21 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäf
 
 4. des Petitionsrechts;
 
-5. des Rechts der Zwangsversteigerung und Zwangsvollstreckung (soweit es sich nicht um Erkenntnisverfahren handelt);
+5. des Rechts der Zwangsversteigerung und der Zwangsvollstreckung im Sinne des Achten Buchs der Zivilprozessordnung (ZPO), wenn der angegriffene Hoheitsakt durch das Vollstreckungsgericht erlassen wurde und dieses nicht nur in unmittelbarer oder entsprechender Anwendung von § 769 Absatz 2 ZPO tätig geworden ist;
 
 6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
 
-7. des Wohnungseigentumsrechts;
+7. des Kaufrechts;
 
-8. des Kaufrechts;
+8. des Rechts des Versicherungswesens;
 
-9. des Dienst- und Werkvertragsrechts mit Ausnahme des Anwaltsvertragsrechts;
+9. des sonstigen Deliktsrechts,
 
-10. des Rechts des Versicherungswesens und
+jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
-11. des sonstigen Deliktsrechts.
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2022 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche (einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen):
-
-1. allgemeines Persönlichkeitsrecht;
+1. Allgemeines Persönlichkeitsrecht;
 
 2. Recht der Glaubens- und Bekenntnisfreiheit (Artikel 4 Absatz 1 und 2 GG);
 
@@ -77,7 +81,7 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2022 eingehen, aus d
 
 11. Erbrecht;
 
-12. Mietrecht;
+12. Miet- und Pachtrecht;
 
 13. Wettbewerbsrecht;
 
@@ -99,7 +103,13 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2022 eingehen, aus d
 
 22. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
 
-23. Vollstreckung öffentlich-rechtlicher Forderungen.
+23. Vollstreckung öffentlich-rechtlicher Forderungen;
+
+24. Wohnungseigentumsrecht;
+
+25. Dienst- und Werkvertragsrecht,
+
+jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
@@ -109,8 +119,10 @@ IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
 # B.
 
-Für bis zum 31. Dezember 2015 anhängig werdende Verfahren bleibt es bei der bisherigen Senatszuständigkeit.
+Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche Rechtsbereich anhand des Verfahrensgegenstands des dem angegriffenen Hoheitsakt zugrundeliegenden Ausgangsverfahrens, es sei denn, der Schwerpunkt liegt erkennbar auf einem Rechtsgebiet, das dem anderen Senat zugewiesen ist.
 
 # C.
 
-Der Beschluss des Bundesverfassungsgerichts vom 15. November 1993 (BGBl. I S. 2492), der zuletzt durch Beschluss des Plenums vom 19. November 2014 (BGBl. 2015 I S. 24) geändert worden ist, tritt mit Ablauf des 31. Dezember 2015 außer Kraft.
+Am 31. Dezember 2022 anhängige Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt StPO (A. I. Ziffer 6 Buchstabe b) gehen mit Ausnahme der Verfahren mit den Aktenzeichen 2 BvR 626/20, 2 BvR 714/20, 2 BvR 715/20, 2 BvR 1749/20, 2 BvR 2180/20, 2 BvR 1258/21, 2 BvR 1844/21 in die Zuständigkeit des Ersten Senats über.
+
+Im Übrigen bleibt es für am 31. Dezember 2022 anhängige Verfahren bei der bisherigen Senatszuständigkeit.

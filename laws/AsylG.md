@@ -1233,8 +1233,6 @@ die in Nummer 4 bezeichneten Voraussetzungen liegen vor, wenn der Ausländer ein
 
 1. wenn der Ausländer nach § 18 Absatz 2 und 3 zurückgewiesen oder zurückgeschoben wird,
 
-1a. (weggefallen)
-
 2. wenn der Ausländer innerhalb von zwei Wochen, nachdem ihm der Ankunftsnachweis ausgestellt worden ist, noch keinen Asylantrag gestellt hat,
 
 3. im Falle der Rücknahme des Asylantrags mit der Zustellung der Entscheidung des Bundesamtes,
