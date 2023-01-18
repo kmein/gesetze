@@ -1372,7 +1372,7 @@ An die Stelle der Angabe nach Absatz 1 Satz 1 Nr. 3 tritt die Registrierungsnumm
 (11) Aus Fertigarzneimitteln entnommene Teilmengen dürfen nur mit einer Kennzeichnung abgegeben werden, die mindestens den Anforderungen nach Absatz 8 Satz 1 entspricht. Absatz 1b findet keine Anwendung.
 
 (+++ § 10 Abs. 1: Zur Anwendung vgl. § 109 Abs. 1 +++)  
-§ 10 Abs. 1c: Eingef. durch Art. 1. Nr. 7 Buchst. c G v. 19.10.2012 I 2192 mWv ersten Tag des vierten Jahres, der auf die Verkündung des delegierten Rechtsaktes der Europäischen Kommission nach Artikel 54a Absatz 2 der Richtlinie 2001/83/EG im Amtsblatt der Europäischen Union folgt; Inkraft gem. Art. 12a Nr. 1 G v. 20.12.2016 I 3048 mWv 9.2.2019
+§ 10 Abs. 1c: Eingef. durch Art. 1. Nr. 7 Buchst. c G v. 19.10.2012 I 2192 mWv ersten Tag des vierten Jahres, der auf die Verkündung des delegierten Rechtsaktes der Europäischen Kommission nach Artikel 54a Absatz 2 der Richtlinie 2001/83/EG im Amtsblatt der Europäischen Union folgt; Inkraft gem. Art. 12a Nr. 1 G v. 20.12.2016 I 3048 mWv 9.2.2019; idF d. Art. 3 Nr. 10 Buchst. d G v. 27.9.2021 I 4530 mWv 28.1.2022
 
 # § 10a – Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen
 
@@ -1670,8 +1670,6 @@ handelt. Tätigkeiten nach Satz 2 Nummer 1 und 3 sind der zuständigen Behörde 
 (5) Die Erlaubnis zur Herstellung von Prüf- oder Hilfspräparaten im Sinne des Artikels 2 Absatz 2 Nummer 5 und 8 der Verordnung (EU) Nr. 536/2014 wird von der zuständigen Behörde nach Maßgabe des Artikels 61 Absatz 1 bis 3 der Verordnung (EU) Nr. 536/2014 erteilt. Für die Erteilung der Erlaubnis finden die §§ 16, 17 und 64 Absatz 3a Satz 2 entsprechende Anwendung.
 
 (6) Der Inhaber der Erlaubnis nach Absatz 5 ist verpflichtet, der sachkundigen Person nach § 14 Absatz 1 Nummer 1 und § 15 die Erfüllung ihrer Aufgabe zu ermöglichen und ihr insbesondere alle erforderlichen Hilfsmittel zur Verfügung zu stellen.
-
-§ 13 Abs. 2 Nr. 1 (früher Satz 1 Nr. 1): IdF d. Art. 1 Nr. 13 Buchst. c DBuchst. aa aaa G v. 17.7.2009 I 1990 mWv 23.7.2009 u. d. Art. 2 Nr. 5 Buchst. b DBuchst. aa G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 13 Abs. 5 u. 6: Eingef. durch Art. 2 Nr. 5 Buchst. d G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft.
 
 # § 14 – Entscheidung über die Herstellungserlaubnis
 

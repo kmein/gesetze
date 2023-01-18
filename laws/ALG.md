@@ -257,7 +257,7 @@ Renten wegen Erwerbsminderung und Hinzuverdienst
 
 § 27b
 
-Vorzeitige Altersrente und Hinzuverdienst
+(weggefallen)
 
 § 28
 
@@ -969,7 +969,7 @@ Verordnungsermächtigung
 
 § 105a
 
-Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Rente zum 1. April 2004
+(weggefallen)
 
  
 
@@ -1051,7 +1051,7 @@ Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des
 
 § 111
 
-Zuständige Versicherungsträger
+(weggefallen)
 
 § 112
 
@@ -1067,7 +1067,7 @@ Finanzierung
 
 § 113
 
-Lagebericht
+(weggefallen)
 
 § 114
 
@@ -1087,7 +1087,7 @@ Beitragserstattung
 
 § 117a
 
-Ausgaben für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe
+(weggefallen)
 
 § 118
 
@@ -1095,7 +1095,7 @@ Aufrechnung mit Beitragsentlastungen
 
 § 119
 
-Überführung der Betriebsmittel
+(weggefallen)
 
 § 119a
 
@@ -1605,7 +1605,7 @@ um den jeweiligen Vomhundertsatz, um den der allgemeine Rentenwert nach Absatz 8
 
 2. der nur teilweisen nicht in voller Höhe erbrachten Leistung in dem Umfang, in dem die Rente wegen Erwerbsminderung nicht geleistet wurde,
 
-mindert. Satz 2 gilt entsprechend für Zeiten nach Satz 1 Nummer 2 wegen Überschreitens einer Hinzuverdienstgrenze, wenn dadurch eine vorzeitige Altersrente nicht in voller Höhe geleistet wurde.
+mindert. Satz 2 gilt entsprechend für Zeiten nach Satz 1 Nummer 2 wegen Überschreitens einer Hinzuverdienstgrenze, wenn dadurch eine vorzeitige Altersrente nicht in voller Höhe geleistet wurde. § 27a Absatz 1a gilt entsprechend.
 
 (11) Für Zeiten nach Absatz 2 Satz 1, die nach Beginn einer Rente, bei der ein Abschlag zu berücksichtigen ist, zurückgelegt werden, wird ein Monatsteilbetrag ermittelt. Die aus diesen Zeiten ermittelte Steigerungszahl ist mit einem nach den Absätzen 8 bis 10 verminderten allgemeinen Rentenwert zu vervielfältigen, wenn die in Absatz 8 genannten Voraussetzungen vorliegen.
 
@@ -1617,7 +1617,9 @@ mindert. Satz 2 gilt entsprechend für Zeiten nach Satz 1 Nummer 2 wegen Übersc
 
 (3) Ein Zuschlag zur Steigerungszahl, der sich aus der Zahlung von Beiträgen zur Wiederauffüllung eines geminderten Anrechts ergibt, wird bei Renten wegen Erwerbsminderung nur berücksichtigt, wenn die Beiträge bis zu dem Zeitpunkt gezahlt worden sind, bis zu dem eine Steigerungszahl für freiwillige Beiträge zu ermitteln ist.
 
-(4) Die Begründung von Anrechten durch externe Teilung nach § 43 Absatz 3 führt zu einem Zuschlag zur Steigerungszahl. Dieser ist zu ermitteln, indem der vom Familiengericht nach § 222 Absatz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Kapitalbetrag durch das Zwölffache des Beitrags geteilt wird, der nach § 68 als Beitrag für das Jahr maßgebend ist, in das das Ende der Ehezeit fällt. Bei einer Vereinbarung nach § 6 des Versorgungsausgleichsgesetzes tritt an die Stelle des Endes der Ehezeit der Beitrag zum Zeitpunkt der Zahlung. § 76 Absatz 4 Satz 3 und 4 und § 187 Absatz 6 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
+(4) Die Begründung von Anrechten durch externe Teilung nach § 43 Absatz 3 führt zu einem Zuschlag zur Steigerungszahl. Dieser ist zu ermitteln, indem der vom Familiengericht nach § 222 Absatz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Kapitalbetrag durch das Zwölffache des Beitrags geteilt wird, der nach § 68 als Beitrag für das Jahr maßgebend ist, in das das Ende der Ehezeit fällt. § 76 Absatz 4 Satz 3 und 4 und § 187 Absatz 6 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
+
+(5) Der Zuschlag zur Steigerungszahl oder der Abschlag von der Steigerungszahl wird bei Entscheidungen über den Versorgungsausgleich nach dem bis zum 31. August 2009 geltenden Versorgungsausgleichsrecht ermittelt, indem der Monatsbetrag des begründeten Anrechts durch den allgemeinen Rentenwert beziehungsweise den allgemeinen Rentenwert (Ost) mit seinem Wert bei Ende der Ehezeit geteilt wird.
 
 # § 25 – Anpassung
 
@@ -1637,47 +1639,31 @@ Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates de
 
 (1) Eine Rente wegen Erwerbsminderung wird bis zum Erreichen der Regelaltersgrenze in Abhängigkeit vom monatlich erzielten Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit oder von einem vergleichbaren Einkommen nach Maßgabe von Absatz 2 in voller oder teilweiser Höhe geleistet, wenn die in Absatz 2 genannten Hinzuverdienstgrenzen nicht überschritten werden. Ein zweimaliges Überschreiten um jeweils einen Betrag bis zur Hinzuverdienstgrenze nach Absatz 2 im Laufe eines jeden Kalenderjahres bleibt außer Betracht. Für das zu berücksichtigende Einkommen findet § 96a Absatz 2, 3 und 4 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe entsprechend Anwendung, dass Arbeitseinkommen aus Land- und Forstwirtschaft nur berücksichtigt wird, wenn der Rentenbezieher Landwirt ist.
 
+(1a) Steht das zu berücksichtigende monatliche Einkommen noch nicht fest, so wird das voraussichtlich erzielte Einkommen zugrunde gelegt. Ergibt die Feststellung des tatsächlichen Einkommens unter Berücksichtigung des bisher zu Grunde gelegten voraussichtlichen Einkommens eine Änderung des Hinzuverdienstes, sind die bisherigen Bescheide für die betreffenden Zeiträume entsprechend aufzuheben. Soweit Bescheide aufgehoben wurden, sind bereits erbrachte Leistungen zu erstatten; § 50 Absatz 3 und 4 des Zehnten Buches Sozialgesetzbuch bleibt unberührt. Nicht anzuwenden sind die Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches Sozialgesetzbuch), zur Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten Buches Sozialgesetzbuch) und zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse (§ 48 des Zehnten Buches Sozialgesetzbuch).
+
 (2) Die Hinzuverdienstgrenze beträgt
 
 1. bei einer Rente wegen teilweiser Erwerbsminderung
 
-a) in voller Höhe das 0,69fache,
+a) in voller Höhe das 0,88fache,
 
-b) in Höhe der Hälfte das 0,84fache
+b) in Höhe der Hälfte das 1,07fache
 
 der monatlichen Bezugsgröße,
 
-2. bei einer Rente wegen voller Erwerbsminderung in voller Höhe monatlich den Betrag der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch,
+2. bei einer Rente wegen voller Erwerbsminderung in voller Höhe das 0,44fache der monatlichen Bezugsgröße,
 
 3. bei einer Rente wegen voller Erwerbsminderung
 
-a) in Höhe von drei Vierteln das 0,51fache,
+a) in Höhe von drei Vierteln das 0,65fache,
 
-b) in Höhe der Hälfte das 0,69fache,
+b) in Höhe der Hälfte das 0,88fache,
 
-c) in Höhe eines Viertels das 0,84fache
-
-der monatlichen Bezugsgröße.
-
-# § 27b – Vorzeitige Altersrente und Hinzuverdienst
-
-(1) Trifft eine vorzeitige Altersrente bis zum Erreichen der Regelaltersgrenze mit Einkommen zusammen, findet § 27a mit Ausnahme des § 96a Absatz 3 und 4 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe Anwendung, dass an die Stelle der dort genannten Hinzuverdienstgrenzen die Hinzuverdienstgrenzen nach Absatz 2 treten.
-
-(2) Die Hinzuverdienstgrenze beträgt
-
-1. bei einer vorzeitigen Altersrente in voller Höhe monatlich den Betrag der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch,
-
-2. bei einer vorzeitigen Altersrente
-
-a) in Höhe von zwei Dritteln das 0,39fache,
-
-b) in Höhe der Hälfte das 0,57fache,
-
-c) in Höhe von einem Drittel das 0,75fache
+c) in Höhe eines Viertels das 1,07fache
 
 der monatlichen Bezugsgröße.
 
-(+++ § 27b: zur Nichtanwendung vgl. § 106 Abs. 8 +++)
+# § 27b – (weggefallen)
 
 # § 28 – Einkommensanrechnung auf Renten wegen Todes
 
@@ -1897,7 +1883,7 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 
 (2) Die interne Teilung erfolgt, indem zu Lasten der von der ausgleichspflichtigen Person nach diesem Gesetz erworbenen Anrechte für die ausgleichsberechtigte Person Anrechte bei der landwirtschaftlichen Alterskasse übertragen werden. Anrechte aus Zeiten im Beitrittsgebiet (§ 102) und aus Zeiten im übrigen Bundesgebiet sind getrennt intern zu teilen.
 
-(3) Durch externe Teilung im Versorgungsausgleich können Anrechte nach diesem Gesetz nur begründet werden, wenn die ausgleichsberechtigte Person vor dem Ende der Ehezeit bereits Anrechte nach diesem Gesetz erworben hat.
+(3) Durch externe Teilung im Versorgungsausgleich können Anrechte nach diesem Gesetz nur begründet werden, wenn die ausgleichsberechtigte Person vor dem Ende der Ehezeit bereits Anrechte nach diesem Gesetz erworben hat und am Ende der Ehezeit eine bindende Rente wegen Alters nicht bezieht. § 187 Absatz 5 Satz 2 und 3 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 # § 44 – Beginn und Abschluß
 
@@ -2107,7 +2093,7 @@ Sind beide Ehegatten Landwirte, haften sie gesamtschuldnerisch. Die Beiträge we
 
 (1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt werden, um Anrechte, die um einen Abschlag von der Steigerungszahl gemindert worden sind, ganz oder teilweise wieder aufzufüllen.
 
-(2) Die Beiträge werden auf der Grundlage des auf dem Versorgungsausgleich beruhenden Abschlags von der Steigerungszahl (§ 24 Abs. 2, § 101) ermittelt; für jeden vollen Wert ist das Zwölffache des Betrages zu zahlen, der nach § 68 als Beitrag für das Jahr, in dem die Beiträge gezahlt werden, maßgebend ist. Für die Wirksamkeit der Beitragszahlung gilt § 187 Abs. 4 und 5 des Sechsten Buches Sozialgesetzbuch entsprechend.
+(2) Die Beiträge werden auf der Grundlage des auf dem Versorgungsausgleich beruhenden Abschlags von der Steigerungszahl (§ 24 Abs. 2, § 101) ermittelt; für jeden vollen Wert ist das Zwölffache des Betrages zu zahlen, der nach § 68 als Beitrag für das Jahr, in dem die Beiträge gezahlt werden, maßgebend ist. Für die Wirksamkeit der Beitragszahlung gilt § 187 Absatz 5 des Sechsten Buches Sozialgesetzbuch entsprechend. Nach bindender Bewilligung einer Rente wegen Alters ist eine Beitragszahlung zur Wiederauffüllung nicht zulässig.
 
 (3) Sind Beiträge nach Absatz 1 gezahlt worden und ergeht eine Entscheidung zur Abänderung des Wertausgleichs nach der Scheidung, sind im Umfang der Abänderung zu viel gezahlte Beiträge unter Anrechnung gewährter Leistungen zurückzuzahlen.
 
@@ -2115,7 +2101,27 @@ Sind beide Ehegatten Landwirte, haften sie gesamtschuldnerisch. Die Beiträge we
 
 (1) Für die Auskunfts- und Mitteilungspflichten von Versicherten gilt § 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Die Datenstelle der Rentenversicherung übermittelt der landwirtschaftlichen Alterskasse die in § 196 Absatz 2a Nummer 2 des Sechsten Buches Sozialgesetzbuch genannten Daten mit der Maßgabe, dass die übermittelten Daten zur Wahrnehmung der Aufgaben nach § 62 und zur Feststellung der Versicherungspflicht von Ehegatten oder Lebenspartnern nach § 1 Absatz 3 genutzt werden dürfen. Die landwirtschaftliche Alterskasse übermittelt hierzu der Datenstelle in einem automatisierten Verfahren den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Familienstand, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung von nicht verheirateten oder verpartnerten Landwirten im Sinne des § 1 Absatz 2 und von Empfängern einer Witwenrente oder Witwerrente nach diesem Gesetz. Die Datenstelle führt den Abgleich der ihr übermittelten Daten durch. Bei Eheschließung oder Begründung einer Lebenspartnerschaft von Landwirten übermittelt die Datenstelle das Datum der Eheschließung oder der Begründung einer Lebenspartnerschaft und den Vor- und Familiennamen des Ehegatten oder Lebenspartners, bei Eheschließung oder Begründung einer Lebenspartnerschaft von Empfängern einer Witwenrente oder Witwerrente das Datum der Eheschließung oder der Begründung der Lebenspartnerschaft. § 196 Absatz 2a Satz 2 des Sechsten Buches Sozialgesetzbuch gilt für die Datenstelle mit der Maßgabe, dass die Daten erst gelöscht werden, nachdem der Abgleich nach den Sätzen 2 bis 4 erfolgt ist.
+(2) Die Datenstelle der Rentenversicherung übermittelt der landwirtschaftlichen Alterskasse die in § 196 Absatz 2a Satz 1 Nummer 2 des Sechsten Buches Sozialgesetzbuch genannten Daten mit der Maßgabe, dass die übermittelten Daten zur Wahrnehmung der Aufgaben nach § 62 und zur Feststellung der Versicherungspflicht von Ehegatten nach § 1 Absatz 3 genutzt werden dürfen. Die landwirtschaftliche Alterskasse übermittelt hierzu der Datenstelle in einem automatisierten Verfahren von nicht verheirateten Landwirten im Sinne des § 1 Absatz 2 und von Empfängern einer Witwenrente oder Witwerrente nach diesem Gesetz
+
+1. eine vorhandene Versichertennummer der Rentenversicherung,
+
+2. den Familiennamen oder den Lebenspartnerschaftsnamen,
+
+3. den Geburtsnamen,
+
+4. den Vornamen,
+
+5. den Familienstand,
+
+6. den Tag, den Monat und das Jahr der Geburt,
+
+7. den Geburtsort,
+
+8. die Anschrift der alleinigen oder der Hauptwohnung und
+
+9. die Staatsangehörigkeit.
+
+Die Datenstelle führt den Abgleich der ihr übermittelten Daten durch. Bei Eheschließung von Landwirten oder Empfängern einer Witwenrente oder Witwerrente übermittelt die Datenstelle das Datum der Eheschließung. § 196 Absatz 2a Satz 2 des Sechsten Buches Sozialgesetzbuch gilt für die Datenstelle mit der Maßgabe, dass die Daten erst gelöscht werden, nachdem der Abgleich nach den Sätzen 2 bis 4 erfolgt ist. Ist für nicht verheiratete Landwirte im Sinne des § 1 Absatz 2 sowie Empfänger einer Witwenrente oder Witwerrente eine Versicherungsnummer bei der Datenstelle der Rentenversicherung bisher nicht vergeben worden, ist dies zur Umsetzung des Abgleichs nach den Sätzen 2 bis 4 von der Datenstelle der Rentenversicherung nachzuholen. Der Datenstelle der Rentenversicherung werden hierfür vor dem Abgleich nach den Sätzen 2 bis 4 von der landwirtschaftlichen Alterskasse in einem automatisierten Verfahren die Angaben nach § 150 Absatz 2 Nummer 2 bis 4 und 6 des Sechsten Buches Sozialgesetzbuch übermittelt. Die Deutsche Rentenversicherung Bund legt das Verfahren zur Vergabe einer Versicherungsnummer in Fällen des Satzes 6 fest. Die landwirtschaftliche Alterskasse trägt die Kosten der Vergabe der Versicherungsnummer. Die Höhe der Kosten wird durch Vereinbarung zwischen der Deutschen Rentenversicherung Bund und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau geregelt.
 
 # § 74 – (weggefallen)
 
@@ -3287,17 +3293,7 @@ Für Witwenrenten und Witwerrenten mit einem Rentenartfaktor vor mindestens 0,6 
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den nach § 102 Abs. 4 ermittelten allgemeinen Rentenwert (Ost) und den Termin für seine Veränderung zu bestimmen.
 
-# § 105a – Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Rente zum 1. April 2004
-
-Widerspruch und Klage gegen
-
-1. die Veränderung des Zahlbetrags der Rente,
-
-2. die Festsetzung des Beitragszuschusses nach § 35a oder
-
-3. den Wegfall des Beitragszuschusses nach § 35b
-
-zum 1. April 2004 aufgrund einer Veränderung der allgemeinen Beitragssätze der Krankenkassen, einer Veränderung des durchschnittlichen allgemeinen Beitragssatzes der Krankenkassen oder der Neuregelung der Tragung der Beiträge zur Pflegeversicherung haben keine aufschiebende Wirkung.
+# § 105a – (weggefallen)
 
 # § 106 – Zusammentreffen von Renten mit Einkommen
 
@@ -3357,9 +3353,9 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 
 (7) Bestand am 31. Dezember 2002 Anspruch auf eine Rente wegen Erwerbsminderung und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen bis zum 31. Dezember 2007 nicht als Hinzuverdienst.
 
-(8) Bestand am 31. Dezember 2018 Anspruch auf eine vorzeitige Altersrente, ist § 27b nicht anzuwenden.
+(8) Bestand am 31. Dezember 2018 Anspruch auf eine Rente wegen Erwerbsminderung, ist § 27a in der bis zum 31. Dezember 2018 geltenden Fassung anzuwenden.
 
-(9) § 27b findet in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2022 keine Anwendung.
+(9) (weggefallen)
 
 # § 106a – Einkommensanrechnung auf Renten wegen Todes
 
@@ -3391,17 +3387,13 @@ Für die Erbringung von Betriebs- oder Haushaltshilfe zur Aufrechterhaltung des 
 
 \-
 
-# § 111 – Zuständige Versicherungsträger
-
-Für die Erfüllung der Aufgaben der Alterssicherung der Landwirte wird bei jeder landwirtschaftlichen Berufsgenossenschaft im Beitrittsgebiet eine landwirtschaftliche Alterskasse errichtet.
+# § 111 – (weggefallen)
 
 # § 112 – Versicherungskonto
 
-Die landwirtschaftlichen Alterskassen sind verpflichtet, spätestens ab 1. Januar 1997 Versicherungskonten zu führen.
+Die landwirtschaftliche Alterskasse ist verpflichtet, Versicherungskonten zu führen.
 
-# § 113 – Lagebericht
-
-Der Lagebericht ist erstmals zum 31. Oktober 1997 vorzulegen.
+# § 113 – (weggefallen)
 
 # § 114 – Beitragshöhe
 
@@ -3435,25 +3427,19 @@ werden innerhalb einer Frist von zwei Jahren nach dem Ende der Beitragspflicht a
 
 (2) Beiträge für Zeiten vor dem 1. Januar 1995 werden nicht erstattet, soweit am 31. Dezember 1994 keine Beiträge zur Altershilfe für Landwirte gezahlt wurden und nach dem am 31. Dezember 1994 geltenden Recht eine Erstattung von Beiträgen ausgeschlossen war.
 
-# § 117a – Ausgaben für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe
-
-Abweichend von der Regelung über die Veränderung der jährlichen Ausgaben zur Teilhabe sowie für Betriebs- und Haushaltshilfe nach § 80 Absatz 1 beträgt der Ausgabenbetrag für das Jahr 2017 für Leistungen zur Teilhabe 19 Millionen Euro und für Betriebs- und Haushaltshilfe 12 Millionen Euro.
+# § 117a – (weggefallen)
 
 # § 118 – Aufrechnung mit Beitragsentlastungen
 
 Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz, die für Beiträge für den landwirtschaftlichen Unternehmer gezahlt wurden, werden vor Ermittlung des Erstattungsbetrages für eine Beitragserstattung nach den Vorschriften der §§ 75 bis 77 und 117 gegen die für den gleichen Zeitraum gezahlten Beiträge aufgerechnet. Verwaltungsakte über die Erbringung von Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz sind insoweit mit Wirkung für die Vergangenheit zurückzunehmen.
 
-# § 119 – Überführung der Betriebsmittel
-
-(1) Die am 31. Dezember 1994 vorhandenen Betriebsmittel in der Altershilfe für Landwirte sind den Einnahmen für das Kalenderjahr 1995 zuzurechnen.
-
-(2) Für die Jahre vor 1995 findet ein Ausgleich der Bundesmittel nicht mehr statt.
+# § 119 – (weggefallen)
 
 # § 119a – (weggefallen)
 
 # § 120 – Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
 
-Der Zuschuss zum Beitrag für das Beitrittsgebiet errechnet sich nach Maßgabe von § 33 Abs. 1 in Verbindung mit § 114. Der Zuschuss zum Beitrag wird auf volle Euro gerundet. Die Zuschussbeträge werden vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht.
+Der Zuschuss zum Beitrag für das Beitrittsgebiet errechnet sich nach Maßgabe von § 33 Abs. 1 in Verbindung mit § 114. Der Zuschuss zum Beitrag wird auf volle Euro gerundet.
 
 # § 121 – Anspruchsvoraussetzungen
 

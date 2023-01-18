@@ -339,7 +339,7 @@ Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches Sozialgesetzbu
 
 # § 31
 
-(1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder einer anderen Stelle außerhalb der Bundesrepublik Deutschland für die nach Bundesrecht anzurechnenden Zeiten eine Rente aus der gesetzlichen Rentenversicherung oder an Stelle einer solchen eine andere Leistung gewährt, so ruht die Rente in Höhe des in Euro umgerechneten Betrags, der als Leistung des Trägers der Sozialversicherung oder der anderen Stelle außerhalb der Bundesrepublik Deutschland ausgezahlt wird. Auf Steigerungsbeträge aus Beiträgen der Höherversicherung findet Satz 1 keine Anwendung.
+(1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder einer anderen Stelle außerhalb der Bundesrepublik Deutschland für die nach Bundesrecht anzurechnenden Zeiten eine Rente aus der gesetzlichen Rentenversicherung oder an Stelle einer solchen eine andere Leistung gewährt, so ruht die Rente in Höhe des in Euro umgerechneten Betrags, der als Leistung des Trägers der Sozialversicherung oder der anderen Stelle außerhalb der Bundesrepublik Deutschland ausgezahlt wird. Auf Steigerungsbeträge aus Beiträgen der Höherversicherung findet Satz 1 keine Anwendung. § 18d des Vierten Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Der Berechtigte hat dem zuständigen Träger der gesetzlichen Rentenversicherungen unverzüglich anzuzeigen, wenn ihm eine der in Absatz 1 genannten Stellen eine Rente oder eine andere Leistung gewährt.
 
