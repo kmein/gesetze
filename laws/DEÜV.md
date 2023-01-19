@@ -3,7 +3,7 @@
  
 # § 1 – Grundsatz
 
-Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund des § 18i Absatz 4, §§ 28a, 99 und 106 bis 109 des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten .
+Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund des § 18i Absatz 4, §§ 28a, 99 und 106 bis 109 des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach § 28f Absatz 3 Satz 1 und § 28p Absatz 6a des Vierten Buches Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten.
 
 # § 2 – Meldepflichtige
 
@@ -53,11 +53,11 @@ Den Beschäftigten stehen Personen gleich, für die ein anderer wie ein Arbeitge
 
 (5) (weggefallen)
 
-(6) Alle persönlichen Angaben für Meldungen sind amtlichen Unterlagen, die Versicherungsnummer ist dem Sozialversicherungsausweis zu entnehmen.
+(6) Alle persönlichen Angaben sind amtlichen Dokumenten zu entnehmen. Die Versicherungsnummer ist aus der Meldung der Datenstelle der Rentenversicherungsträger nach § 28a Absatz 3a Satz 2 des Vierten Buches Sozialgesetzbuch zu entnehmen. Kann keine Versicherungsnummer nach Satz 2 übermittelt werden, hat der Beschäftigte den Versicherungsnummernachweis nach § 147 des Sechsten Buches Sozialgesetzbuch unverzüglich vorzulegen oder der Arbeitgeber hat die Vergabe einer Versicherungsnummer zu beantragen.
 
 (7) Ist bei einer Anmeldung die Versicherungsnummer nicht bekannt, sind die für die Vergabe der Versicherungsnummer erforderlichen Angaben, insbesondere der vollständige Name, der Geburtsname, das Geburtsdatum, der Geburtsort, das Geburtsland, das Geschlecht, die Staatsangehörigkeit und die Anschrift aufzunehmen.
 
-(8) Bei erstmaliger Aufnahme einer versicherungspflichtigen Beschäftigung im Geltungsbereich dieser Verordnung durch einen Angehörigen eines anderen Mitgliedstaates der Europäischen Union oder eines Staates, für den das Abkommen über den Europäischen Wirtschaftsraum gilt, sind außerdem das Geburtsland sowie die Versicherungsnummer des Landes der Staatsangehörigkeit einzutragen.
+(8) (weggefallen)
 
 (9) (weggefallen)
 
@@ -161,7 +161,9 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 # § 17 – Datenübertragungsverfahren
 
-Die Daten sind durch https in dem Standard zu übertragen, der in den Gemeinsamen Grundsätzen nach § 95 des Vierten Buches Sozialgesetzbuch festgelegt ist. Für den Einsatz von https sind die Anforderungen in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu berücksichtigen.
+(1) Die Daten sind durch https in dem Standard zu übertragen, der in den Gemeinsamen Grundsätzen nach § 95 des Vierten Buches Sozialgesetzbuch festgelegt ist. Für den Einsatz von https sind die Anforderungen in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu berücksichtigen.
+
+(2) Die Daten sind in dem Zeichensatz zu übertragen, der in den nach § 95 des Vierten Buches Sozialgesetzbuch zu vereinbarenden Gemeinsamen Grundsätzen festgelegt ist.
 
 # § 18 – (weggefallen)
 
@@ -178,6 +180,8 @@ Wer ein Programm oder eine Ausfüllhilfe zur Übermittlung, zur Annahme oder zum
 (3) Erfüllt ein Programm oder eine Ausfüllhilfe nicht die Voraussetzungen der Systemprüfung oder wird es nach Absatz 2 verändert, ohne einen Antrag auf erneute Systemprüfung zu stellen, ist die Zulassung zu versagen oder unverzüglich zu entziehen.
 
 (4) Über die Prüfung ist ein Protokoll zu erstellen, das bis zur Erteilung einer neuen Zulassung aufzubewahren ist.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die Programme zur Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
 
 # § 21 – Zulassungsbescheid
 
@@ -253,7 +257,7 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (3) Die Datenstelle der Rentenversicherung hat die für die Aufgabenerfüllung der Bundesagentur für Arbeit erforderlichen Daten unverzüglich weiterzuleiten.
 
-(4) Die Datenstelle der Rentenversicherung erstellt für alle in den Meldeverfahren beteiligten Sozialversicherungsträger zur Sicherung der Qualität der Meldungen nach den §§ 26 Absatz 4, 28a, 28f Absatz 3 Satz 1, §§ 106 und 108 des Vierten Buches Sozialgesetzbuch Kernprüfprogramme; § 28b Absatz 4 des Vierten Buches Sozialgesetzbuch gilt. Für alle weiteren in Satz 1 nicht genannten Meldeverfahren ist der Spitzenverband Bund der Krankenkassen zuständig. Soweit Meldungen an berufsständische Versorgungseinrichtungen betroffen sind, ist die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. an der Erstellung der Gemeinsamen Grundsätze zu beteiligen. Nutzen Arbeitgeber oder andere Meldepflichtige ein systemgeprüftes Entgeltabrechnungsprogramm, so sind von diesen Programmen die Anforderungen der Kernprüfprogramme zu erfüllen. Die berufsständischen Versorgungseinrichtungen sollen die Kernprüfprogramme nutzen; das Nähere über das Verfahren und die Kostenbeteiligung regeln die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. und die Datenstelle der Rentenversicherung in einer Vereinbarung.
+(4) Die Datenstelle der Rentenversicherung erstellt für alle in den Meldeverfahren beteiligten Sozialversicherungsträger zur Sicherung der Qualität der Meldungen nach den §§ 26 Absatz 4, 28a, 28f Absatz 3 Satz 1, 28p Absatz 6a, §§ 106 bis 106c und 108 des Vierten Buches Sozialgesetzbuch Kernprüfprogramme; § 28b Absatz 4 des Vierten Buches Sozialgesetzbuch gilt. Die Datenstelle der Rentenversicherung kann mit den beteiligten Sozialversicherungsträgern durch Verwaltungsvereinbarung eine von Satz 1 abweichende Zuständigkeit für die Erstellung eines Kernprüfprogramms festlegen. Für alle weiteren in Satz 1 nicht genannten Meldeverfahren ist der Spitzenverband Bund der Krankenkassen zuständig. Soweit Meldungen an berufsständische Versorgungseinrichtungen betroffen sind, ist die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. an der Erstellung der Gemeinsamen Grundsätze zu beteiligen. Nutzen Arbeitgeber oder andere Meldepflichtige ein systemgeprüftes Entgeltabrechnungsprogramm, so sind von diesen Programmen die Anforderungen der Kernprüfprogramme zu erfüllen. Die berufsständischen Versorgungseinrichtungen sollen die Kernprüfprogramme nutzen; das Nähere über das Verfahren und die Kostenbeteiligung regeln die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. und die Datenstelle der Rentenversicherung in einer Vereinbarung.
 
 # § 37 – (weggefallen)
 
@@ -291,7 +295,7 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (3) (weggefallen)
 
-(4) Der Wehr- oder Zivildienstleistende hat spätestens bei Dienstantritt der Dienststelle seine Versicherungsnummer unter Vorlage des Sozialversicherungsausweises anzugeben. § 5 Abs. 7 gilt entsprechend; die Vergabedaten sind an die Datenstelle der Rentenversicherung weiterzuleiten.
+(4) Der Wehr- oder Zivildienstleistende hat spätestens bei Dienstantritt der Dienststelle seine Versicherungsnummer anzugeben. § 5 Abs. 7 gilt entsprechend; die Vergabedaten sind an die Datenstelle der Rentenversicherung weiterzuleiten.
 
 (5) Die §§ 25 und 38 Abs. 5 gelten entsprechend.
 

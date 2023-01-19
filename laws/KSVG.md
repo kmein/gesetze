@@ -53,7 +53,7 @@ In der gesetzlichen Rentenversicherung ist nach diesem Gesetz versicherungsfrei,
 
 4. nach anderen gesetzlichen Vorschriften mit Ausnahme von § 7 des Fünften Buches Sozialgesetzbuch versicherungsfrei oder von der Versicherungspflicht befreit ist,
 
-5. eine nicht unter § 2 fallende selbständige Tätigkeit erwerbsmäßig ausübt, es sei denn, diese ist geringfügig im Sinne des § 8 des Vierten Buches Sozialgesetzbuch,
+5. als wirtschaftliche Haupttätigkeit eine nicht unter § 2 fallende selbständige Tätigkeit erwerbsmäßig ausübt, es sei denn, diese ist geringfügig im Sinne des § 8 des Vierten Buches Sozialgesetzbuch,
 
 6. Wehr- oder Zivildienstleistender ist; § 193 des Fünften Buches Sozialgesetzbuch bleibt unberührt,
 
@@ -73,7 +73,7 @@ ist.
 
 (1) Wer erstmals eine Tätigkeit als selbständiger Künstler oder Publizist aufnimmt und nicht zu dem in § 5 Abs. 1 genannten Personenkreis gehört, wird auf Antrag von der Krankenversicherungspflicht nach diesem Gesetz befreit, wenn er der Künstlersozialkasse eine Versicherung für den Krankheitsfall bei einem privaten Krankenversicherungsunternehmen nachweist. Voraussetzung ist, daß er für sich und seine Familienangehörigen, die bei Versicherungspflicht des Künstlers oder Publizisten in der gesetzlichen Krankenversicherung versichert wären, Vertragsleistungen beanspruchen kann, die der Art nach den Leistungen der gesetzlichen Krankenversicherung bei Krankheit entsprechen. Der Antrag ist spätestens drei Monate nach Feststellung der Versicherungspflicht bei der Künstlersozialkasse zu stellen.
 
-(2) Wer nach Absatz 1 von der Krankenversicherungspflicht befreit worden ist, kann gegenüber der Künstlersozialkasse bis zum Ablauf der in § 3 Abs. 2 genannten Frist schriftlich erklären, daß seine Befreiung von der Versicherungspflicht enden soll. Die Versicherungspflicht beginnt nach Ablauf der in § 3 Abs. 2 genannten Frist.
+(2) Die Befreiung von der Krankenversicherungspflicht nach Absatz 1 endet drei Jahre nach Ablauf der in § 3 Absatz 2 genannten Frist mit Ablauf des nächstfolgenden 31. März. Sofern innerhalb der Frist nach Satz 1 ein Antrag auf Befreiung nach § 7 gestellt wird, wirkt diese ab dem Zeitpunkt des Ablaufs der in Satz 1 genannten Frist. Wer nach Absatz 1 von der Krankenversicherungspflicht befreit worden ist, kann gegenüber der Künstlersozialkasse bis zum Ablauf der in § 3 Abs. 2 genannten Frist schriftlich erklären, daß seine Befreiung von der Versicherungspflicht enden soll. Die Versicherungspflicht beginnt in diesem Fall nach Ablauf der in § 3 Abs. 2 genannten Frist.
 
 # § 7
 
@@ -113,13 +113,13 @@ ist.
 
 # § 10
 
-(1) Selbständige Künstler und Publizisten, die nach § 7 von der Versicherungspflicht befreit und freiwillig in der gesetzlichen Krankenversicherung versichert sind, erhalten auf Antrag von der Künstlersozialkasse als vorläufigen Beitragszuschuß die Hälfte des Beitrages, der im Falle der Versicherungspflicht für einen Künstler oder Publizisten bei Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung zuzüglich des kassenindividuellen Zusatzbeitragssatzes nach § 242 des Fünften Buches Sozialgesetzbuch, zu zahlen wäre, höchstens jedoch die Hälfte des Betrages, den sie tatsächlich zu zahlen haben. Für Künstler und Publizisten, die im Falle einer Versicherungspflicht keinen Anspruch auf Krankengeld hätten, ist bei der Berechnung des Zuschusses nach Satz 1 anstelle des allgemeinen Beitragssatzes der ermäßigte Beitragssatz der gesetzlichen Krankenversicherung (§ 243 des Fünften Buches Sozialgesetzbuch) zugrunde zu legen. Der Anspruch beginnt mit dem auf den Antrag folgenden Kalendermonat. Bei Zuschussberechtigten, die nach diesem Gesetz in der allgemeinen Rentenversicherung nicht versichert sind, ist für die Berechnung des endgültigen Zuschusses das erzielte Jahresarbeitseinkommen maßgebend; es ist der Künstlersozialkasse bis zu der Höhe der Beitragsbemessungsgrenze in der gesetzlichen Krankenversicherung bis zum 31. Mai des folgenden Jahres zu melden. Die Höhe der Aufwendungen für die freiwillige Krankenversicherung sind der Künstlersozialkasse für jedes Kalenderjahr bis zum 31. Mai des folgenden Jahres nachzuweisen.
+(1) Selbständige Künstler und Publizisten, die nach § 6 oder § 7 von der Versicherungspflicht befreit und freiwillig in der gesetzlichen Krankenversicherung versichert sind, erhalten auf Antrag von der Künstlersozialkasse als vorläufigen Beitragszuschuß die Hälfte des Beitrages, der im Falle der Versicherungspflicht für einen Künstler oder Publizisten bei Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung zuzüglich des kassenindividuellen Zusatzbeitragssatzes nach § 242 des Fünften Buches Sozialgesetzbuch, zu zahlen wäre, höchstens jedoch die Hälfte des Betrages, den sie tatsächlich zu zahlen haben. Für Künstler und Publizisten, die im Falle einer Versicherungspflicht keinen Anspruch auf Krankengeld hätten, ist bei der Berechnung des Zuschusses nach Satz 1 anstelle des allgemeinen Beitragssatzes der ermäßigte Beitragssatz der gesetzlichen Krankenversicherung (§ 243 des Fünften Buches Sozialgesetzbuch) zugrunde zu legen. Der Anspruch beginnt mit dem auf den Antrag folgenden Kalendermonat. Bei Zuschussberechtigten, die nach diesem Gesetz in der allgemeinen Rentenversicherung nicht versichert sind, ist für die Berechnung des endgültigen Zuschusses das erzielte Jahresarbeitseinkommen maßgebend; es ist der Künstlersozialkasse bis zu der Höhe der Beitragsbemessungsgrenze in der gesetzlichen Krankenversicherung bis zum 31. Mai des folgenden Jahres zu melden. Die Höhe der Aufwendungen für die freiwillige Krankenversicherung sind der Künstlersozialkasse für jedes Kalenderjahr bis zum 31. Mai des folgenden Jahres nachzuweisen.
 
 (2) Selbständige Künstler und Publizisten, die nach § 6 Abs. 3a des Fünften Buches Sozialgesetzbuch in Verbindung mit § 5 Abs. 1 Nr. 4 versicherungsfrei oder nach den §§ 6 oder 7 von der Versicherungspflicht befreit und bei einem privaten Krankenversicherungsunternehmen versichert sind, erhalten auf Antrag von der Künstlersozialkasse einen vorläufigen Beitragszuschuß, wenn sie für sich und ihre Familienangehörigen, die bei Versicherungspflicht des Künstlers oder Publizisten in der gesetzlichen Krankenversicherung versichert wären, Vertragsleistungen beanspruchen können, die der Art nach den Leistungen der gesetzlichen Krankenversicherung bei Krankheit entsprechen. Der Zuschuss beträgt die Hälfte des Beitrages, den die Künstlersozialkasse bei Versicherungspflicht unter Zugrundelegung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung zuzüglich des durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches Sozialgesetzbuch zu zahlen hätte, höchstens jedoch die Hälfte des Betrages, den der Künstler oder Publizist für seine private Krankenversicherung zu zahlen hat; für Zeiten, für die bei Versicherungspflicht Arbeitseinkommen nicht zugrunde gelegt wird (§ 234 Abs. 1 Satz 3 des Fünften Buches Sozialgesetzbuch), wird ein Beitragszuschuss nicht gezahlt. Für Künstler und Publizisten, die bei Mitgliedschaft in einer Krankenkasse keinen Anspruch auf Krankengeld hätten, ist bei der Berechnung des Zuschusses anstelle des allgemeinen Beitragssatzes der ermäßigte Beitragssatz der gesetzlichen Krankenversicherung (§ 243 des Fünften Buches Sozialgesetzbuch) zugrunde zu legen. Bei einer Befreiung nach § 6 beginnt der Anspruch mit dem Kalendermonat, in dem die Meldung nach § 11 Abs. 1 eingeht. Bei einer Befreiung nach § 7 gilt Absatz 1 Satz 2. Absatz 1 Satz 4 und 5 gilt. § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
 # § 10a
 
-(1) Selbständige Künstler und Publizisten, die nach § 7 von der Krankenversicherungspflicht befreit und in der sozialen Pflegeversicherung versichert sind, erhalten auf Antrag von der Künstlersozialkasse als vorläufigen Beitragszuschuß die Hälfte des Beitrages, den die Künstlersozialkasse bei Versicherungspflicht nach diesem Gesetz an die Pflegekasse zu zahlen hätte, höchstens jedoch die Hälfte des Betrages, den sie tatsächlich zu zahlen haben. § 10 Abs. 1 Satz 2 bis 4 gilt entsprechend.
+(1) Selbständige Künstler und Publizisten, die nach § 6 oder § 7 von der Krankenversicherungspflicht befreit und in der sozialen Pflegeversicherung versichert sind, erhalten auf Antrag von der Künstlersozialkasse als vorläufigen Beitragszuschuß die Hälfte des Beitrages, den die Künstlersozialkasse bei Versicherungspflicht nach diesem Gesetz an die Pflegekasse zu zahlen hätte, höchstens jedoch die Hälfte des Betrages, den sie tatsächlich zu zahlen haben. § 10 Abs. 1 Satz 2 bis 4 gilt entsprechend.
 
 (2) Selbständige Künstler und Publizisten, die nach § 6 Abs. 3a des Fünften Buches Sozialgesetzbuch in Verbindung mit § 5 Abs. 1 Nr. 4 versicherungsfrei oder nach § 6 oder § 7 von der Krankenversicherungspflicht befreit und bei einem privaten Versicherungsunternehmen gegen Pflegebedürftigkeit versichert sind, erhalten auf Antrag von der Künstlersozialkasse einen vorläufigen Beitragszuschuß, wenn sie für sich und ihre Angehörigen, die bei Versicherungspflicht des Künstlers oder Publizisten in der sozialen Pflegeversicherung versichert wären, Vertragsleistungen beanspruchen können, die nach Art und Umfang den Leistungen des Elften Buches Sozialgesetzbuch gleichwertig sind. § 61 Abs. 6 und 7 des Elften Buches Sozialgesetzbuch gilt entsprechend. Der Zuschuss beträgt die Hälfte des Beitrages, den die Künstlersozialkasse bei Versicherungspflicht an die Pflegekasse zu zahlen hätte, höchstens jedoch die Hälfte des Betrages, den der Künstler oder Publizist für seine private Pflegeversicherung zu zahlen hat. § 10 Abs. 2 Satz 2 zweiter Halbsatz und Satz 4 bis 6 gilt entsprechend.
 
@@ -143,11 +143,13 @@ Der Bescheid über die Festsetzung des endgültigen Beitragszuschusses soll mit 
 
 (2) Erstattet der Zuschußberechtigte trotz Aufforderung die Meldung nach Absatz 1 Satz 1 nicht, entfällt der Anspruch auf den Beitragszuschuß bis zum Ablauf des auf die Meldung folgenden Monats. Satz 1 gilt entsprechend, wenn er den Melde- und Nachweispflichten nach §§ 10 und 10a trotz Aufforderung nicht nachkommt. Die Rückforderung vorläufig gezahlter Beitragszuschüsse bleibt unberührt.
 
-(3) Ändern sich die Verhältnisse, die für die Ermittlung des voraussichtlichen Jahresarbeitseinkommens maßgebend waren, ist auf Antrag die Änderung mit Wirkung vom Ersten des Monats an zu berücksichtigen, der auf den Monat folgt, in dem der Antrag bei der Künstlersozialkasse eingeht. Satz 1 gilt entsprechend, wenn das Jahresarbeitseinkommen geschätzt worden ist.
+(3) Ändern sich die Verhältnisse, die für die Ermittlung des voraussichtlichen Jahresarbeitseinkommens maßgebend waren, ist auf Antrag die Änderung mit Wirkung vom Ersten des Monats an zu berücksichtigen, der auf den Monat folgt, in dem der Antrag bei der Künstlersozialkasse eingeht. Satz 1 gilt entsprechend, wenn das Jahreseinkommen geschätzt worden ist; Versicherte haben ihrer Meldung in diesen Fällen vorhandene Unterlagen beizufügen, aus denen sich die Änderung der Verhältnisse ergibt.
 
 # § 13
 
-Die Künstlersozialkasse kann von den Versicherten und den Zuschußberechtigten Angaben darüber verlangen, in welchem der Bereiche selbständiger künstlerischer und publizistischer Tätigkeiten das Arbeitseinkommen jeweils erzielt wurde, in welchem Umfang das Arbeitseinkommen auf Geschäften mit zur Künstlersozialabgabe Verpflichteten beruhte und von welchen zur Künstlersozialabgabe Verpflichteten Arbeitseinkommen bezogen wurde. Außerdem kann die Künstlersozialkasse von den Versicherten und den Zuschussberechtigten Angaben darüber verlangen, in welcher Höhe Arbeitseinkommen aus künstlerischen, publizistischen und sonstigen selbständigen Tätigkeiten in den vergangenen vier Kalenderjahren erzielt wurde. Für den Nachweis der Angaben zur Höhe des Arbeitseinkommens kann sie die Vorlage der erforderlichen Unterlagen, insbesondere von Einkommensteuerbescheiden oder Gewinn- und Verlustrechnungen, verlangen. Die Erhebung dieser Angaben erfolgt durch eine wechselnde jährliche Stichprobe.
+(1) Die Künstlersozialkasse kann von den Versicherten und den Zuschußberechtigten Angaben darüber verlangen, in welchem der Bereiche selbständiger künstlerischer und publizistischer Tätigkeiten das Arbeitseinkommen jeweils erzielt wurde, in welchem Umfang das Arbeitseinkommen auf Geschäften mit zur Künstlersozialabgabe Verpflichteten beruhte und von welchen zur Künstlersozialabgabe Verpflichteten Arbeitseinkommen bezogen wurde. Außerdem kann die Künstlersozialkasse von den Versicherten und den Zuschussberechtigten Angaben darüber verlangen, in welcher Höhe Arbeitseinkommen aus künstlerischen, publizistischen und sonstigen selbständigen Tätigkeiten im Zeitraum von bis zu sechs vorangegangenen Kalenderjahren erzielt wurde.
+
+(2) Für den Nachweis der Angaben zur Höhe des Arbeitseinkommens kann sie die Vorlage der erforderlichen Unterlagen, insbesondere von Einkommensteuerbescheiden oder Gewinn- und Verlustrechnungen, verlangen. Die Erhebung dieser Angaben erfolgt durch eine wechselnde jährliche Stichprobe. Die nach § 35 geregelten Befugnisse der Künstlersozialkasse zu anlassbezogenen Prüfungen bleiben davon unberührt. Hat die Künstlersozialkasse bei einer Prüfung festgestellt, dass das Arbeitseinkommen von Versicherten im Prüfzeitraum die in § 3 Absatz 1 genannte Grenze nicht überstiegen hat, oder bestehen konkrete Anhaltspunkte, dass das Arbeitseinkommen zukünftig diese Grenze nicht übersteigt, kann sie jährlich wiederkehrend Unterlagen über das Arbeitseinkommen anfordern. Die Künstlersozialkasse kann anlässlich einer Prüfung bei Versicherten personenbezogene Daten nach § 31 Absatz 2 der Abgabenordnung bei den Finanzbehörden anfordern.
 
 # § 14
 
@@ -187,7 +189,9 @@ Als Tag der Zahlung der Beitragsanteile gilt:
 
 # § 18
 
-Für die Erhebung eines Säumniszuschlags auf rückständige Beitragsanteile des Versicherten gilt § 24 des Vierten Buches Sozialgesetzbuch entsprechend. Die Säumniszuschläge gehören zum Vermögen der Künstlersozialkasse.
+(1) Für die Erhebung eines Säumniszuschlags auf rückständige Beitragsanteile der Versicherten gilt § 24 des Vierten Buches Sozialgesetzbuch entsprechend.
+
+(2) Säumniszuschläge auf rückständige Beitragsanteile sowie Zinsen, die wegen der Stundung von Beitragsanteilen erhoben werden, gehören zum Vermögen der Künstlersozialkasse.
 
 # § 19
 
@@ -219,9 +223,9 @@ Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§ 24) eine U
 
 1. Buch-, Presse- und sonstige Verlage, Presseagenturen (einschließlich Bilderdienste),
 
-2. Theater (ausgenommen Filmtheater), Orchester, Chöre und vergleichbare Unternehmen; Voraussetzung ist, daß ihr Zweck überwiegend darauf gerichtet ist, künstlerische oder publizistische Werke oder Leistungen öffentlich aufzuführen oder darzubieten; Absatz 2 bleibt unberührt,
+2. Theater (ausgenommen Filmtheater), Orchester, Chöre und vergleichbare Unternehmen; Voraussetzung ist, daß ihr Zweck überwiegend darauf gerichtet ist, künstlerische oder publizistische Werke oder Leistungen öffentlich aufzuführen oder darzubieten; Absatz 2 Satz 1 Nummer 2 bleibt unberührt,
 
-3. Theater-, Konzert- und Gastspieldirektionen sowie sonstige Unternehmen, deren wesentlicher Zweck darauf gerichtet ist, für die Aufführung oder Darbietung künstlerischer oder publizistischer Werke oder Leistungen zu sorgen; Absatz 2 bleibt unberührt,
+3. Theater-, Konzert- und Gastspieldirektionen sowie sonstige Unternehmen, deren wesentlicher Zweck darauf gerichtet ist, für die Aufführung oder Darbietung künstlerischer oder publizistischer Werke oder Leistungen zu sorgen; Absatz 2 Satz 1 Nummer 2 bleibt unberührt,
 
 4. Rundfunk, Fernsehen,
 
@@ -235,11 +239,19 @@ Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§ 24) eine U
 
 9. Aus- und Fortbildungseinrichtungen für künstlerische oder publizistische Tätigkeiten.
 
-Zur Künstlersozialabgabe sind auch Unternehmer verpflichtet, die für Zwecke ihres eigenen Unternehmens Werbung oder Öffentlichkeitsarbeit betreiben und dabei nicht nur gelegentlich Aufträge an selbständige Künstler oder Publizisten erteilen.
+(2) Zur Künstlersozialabgabe sind auch Unternehmer verpflichtet,
 
-(2) Zur Künstlersozialabgabe sind ferner Unternehmer verpflichtet, die nicht nur gelegentlich Aufträge an selbständige Künstler oder Publizisten erteilen, um deren Werke oder Leistungen für Zwecke ihres Unternehmens zu nutzen, wenn im Zusammenhang mit dieser Nutzung Einnahmen erzielt werden sollen. Werden in einem Kalenderjahr nicht mehr als drei Veranstaltungen durchgeführt, in denen künstlerische oder publizistische Werke oder Leistungen aufgeführt oder dargeboten werden, liegt eine nur gelegentliche Erteilung von Aufträgen im Sinne des Satzes 1 vor. Satz 1 gilt nicht für Musikvereine, soweit für sie Chorleiter oder Dirigenten regelmäßig tätig sind.
+1. die für Zwecke ihres eigenen Unternehmens Werbung oder Öffentlichkeitsarbeit betreiben und hierbei selbständige Künstler oder Publizisten beauftragen oder
 
-(3) Aufträge werden nur gelegentlich an selbständige Künstler oder Publizisten im Sinne von Absatz 1 Satz 2 oder Absatz 2 Satz 1 erteilt, wenn die Summe der Entgelte nach § 25 aus den in einem Kalenderjahr nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erteilten Aufträgen 450 Euro nicht übersteigt. Absatz 2 Satz 2 bleibt unberührt.
+2. die selbständige Künstler oder Publizisten beauftragen, um deren Werke oder Leistungen für Zwecke ihres Unternehmens zu nutzen, wenn im Zusammenhang mit dieser Nutzung Einnahmen erzielt werden sollen.
+
+Die Abgabepflicht nach Satz 1 setzt voraus, dass die Summe der Entgelte nach § 25 für einen in einem Kalenderjahr erteilten Auftrag oder mehrere in einem Kalenderjahr erteilte Aufträge 450 Euro übersteigt. Eine Abgabepflicht nach Satz 1 besteht in Fällen des Satzes 1 Nummer 2 nicht
+
+1. für Entgelte, die im Rahmen der Durchführung von Veranstaltungen gezahlt werden, wenn in einem Kalenderjahr nicht mehr als drei Veranstaltungen durchgeführt werden, in denen künstlerische oder publizistische Werke oder Leistungen aufgeführt oder dargeboten werden sowie
+
+2. für Musikvereine, soweit für sie Chorleiter oder Dirigenten regelmäßig tätig sind.
+
+(3) (weggefallen)
 
 # § 25
 
@@ -307,7 +319,9 @@ Die zur Abgabe Verpflichteten haben der Künstlersozialkasse oder den Trägern d
 
 # § 30
 
-Für die Erhebung eines Säumniszuschlags auf rückständige Künstlersozialabgabe und Abgabevorauszahlungen gilt § 24 des Vierten Buches Sozialgesetzbuch entsprechend. Die Säumniszuschläge gehören zum Vermögen der Künstlersozialkasse.
+(1) Für die Erhebung eines Säumniszuschlags auf rückständige Künstlersozialabgabe und Abgabevorauszahlungen gilt § 24 des Vierten Buches Sozialgesetzbuch entsprechend.
+
+(2) Säumniszuschläge auf rückständige Künstlersozialabgabe und Abgabevorauszahlungen sowie Zinsen, die bei einer Stundung der Künstlersozialabgabe oder von Abgabevorauszahlungen erhoben werden, gehören zum Vermögen der Künstlersozialkasse.
 
 # § 31
 
@@ -475,7 +489,7 @@ Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem Bundeszusc
 
 # § 45
 
-§ 80 des Vierten Buches Sozialgesetzbuch gilt entsprechend.
+Die §§ 80, 83 bis 86 des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 46
 
@@ -519,13 +533,13 @@ Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlic
 
 (1) Selbständige Künstler und Publizisten, die am 31. Dezember 1988 auf Grund des § 5 Nr. 6 in der am 31. Dezember 1988 geltenden Fassung in der gesetzlichen Krankenversicherung nicht versicherungspflichtig sind, bleiben versicherungsfrei.
 
-(2) Selbständige Künstler und Publizisten, deren Tätigkeitsort am 31. Dezember 1991 im Beitrittsgebiet liegt und die von der Krankenversicherungspflicht befreit sind, bleiben versicherungsfrei, wenn sie ihren Wohnsitz vor dem 3. Oktober 1990 in diesem Gebiet hatten. Für die Beendigung der Befreiung von der Krankenversicherungspflicht gilt § 6 Absatz 2 entsprechend.
+(2) Selbständige Künstler und Publizisten, deren Tätigkeitsort am 31. Dezember 1991 im Beitrittsgebiet liegt und die von der Krankenversicherungspflicht befreit sind, bleiben versicherungsfrei, wenn sie ihren Wohnsitz vor dem 3. Oktober 1990 in diesem Gebiet hatten.
 
-(3) Die Vorschriften des § 10 über einen Zuschuß zum Krankenversicherungsbeitrag finden Anwendung. Im Fall des Absatzes 2 Satz 1 beginnt der Anspruch mit dem auf den Antrag folgenden Kalendermonat.
+(3) Wer am 1. Januar 2023 gemäß § 6 Absatz 1 und 2 in der bis zum 31. Dezember 2022 geltenden Fassung von der Versicherungspflicht in der gesetzlichen Krankenversicherung dauerhaft befreit ist, bleibt befreit, sofern er nicht innerhalb der in § 6 Absatz 2 Satz 1 geregelten Frist schriftlich gegenüber der Künstlersozialkasse erklärt, dass seine Befreiung von der Versicherungspflicht mit Ablauf der Frist enden soll.
 
-# § 56b
+(4) Die Vorschriften des § 10 über einen Zuschuß zum Krankenversicherungsbeitrag finden Anwendung. Im Fall des Absatzes 2 Satz 1 beginnt der Anspruch mit dem auf den Antrag folgenden Kalendermonat.
 
-Endet die in § 6 Abs. 1 in der am 31. Dezember 1988 geltenden Fassung genannte Fünfjahresfrist nach dem 31. Dezember 1988, bleibt die Befreiung von der Krankenversicherungspflicht bestehen; § 6 Abs. 2 gilt entsprechend. Endet die Fünfjahresfrist vor dem 1. Juli 1989, gilt § 6 Abs. 2 entsprechend mit der Maßgabe, daß die Erklärung bis zum Ablauf von drei Monaten nach dem Ende der Fünfjahresfrist abgegeben werden kann.
+# § 56b – (weggefallen)
 
 # § 57
 

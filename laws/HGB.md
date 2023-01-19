@@ -93,7 +93,8 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 (5) Die Führung des Unternehmensregisters schließt auch den Informationsaustausch nach § 9c ein.
 
-(+++ § 8b: Zur Anwendung vgl. Art. 75 Abs. 3 HGBEG +++) (+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
+(+++ § 8b: Zur Anwendung vgl. Art. 75 Abs. 3 HGBEG +++)  
+(+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
 
 # § 9 – Einsichtnahme in das Handelsregister und das Unternehmensregister
 

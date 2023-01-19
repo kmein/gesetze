@@ -618,6 +618,8 @@ a) Informationen an Rentenbezieher nach § 26a Satz 2 und
 
 b) Ausweisen zum Nachweis der Rentenberechtigung, soweit diese Entgelte zusätzlich entstehen.
 
+Dies gilt auch für die Entgelte in den Fällen, in denen die physische Versendung durch digitale Verfahren ersetzt wird, die die Deutsche Post AG selbst betreibt oder für die sie Dienstleistungen Dritter in Anspruch nimmt.
+
 (2) Der Renten Service hat dafür Sorge zu tragen, daß die Auslagen für die Inanspruchnahme von Dienstleistungen Dritter so gering wie möglich gehalten werden.
 
 # § 35 – Fälligkeit, Vorschüsse und Abrechnung

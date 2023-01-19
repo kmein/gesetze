@@ -181,7 +181,7 @@ Der Anspruch richtet sich gegen den Versorgungsträger, wenn die versicherungsf�
 
 # § 6 – Vorzeitige Altersleistung
 
-Einem Arbeitnehmer, der die Altersrente aus der gesetzlichen Rentenversicherung als Vollrente in Anspruch nimmt, sind auf sein Verlangen nach Erfüllung der Wartezeit und sonstiger Leistungsvoraussetzungen Leistungen der betrieblichen Altersversorgung zu gewähren. Fällt die Altersrente aus der gesetzlichen Rentenversicherung wieder weg oder wird sie auf einen Teilbetrag beschränkt, so können auch die Leistungen der betrieblichen Altersversorgung eingestellt werden. Der ausgeschiedene Arbeitnehmer ist verpflichtet, die Aufnahme oder Ausübung einer Beschäftigung oder Erwerbstätigkeit, die zu einem Wegfall oder zu einer Beschränkung der Altersrente aus der gesetzlichen Rentenversicherung führt, dem Arbeitgeber oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
+Einem Arbeitnehmer, der die Altersrente aus der gesetzlichen Rentenversicherung als Vollrente in Anspruch nimmt, sind auf sein Verlangen nach Erfüllung der Wartezeit und sonstiger Leistungsvoraussetzungen Leistungen der betrieblichen Altersversorgung zu gewähren. Wird die Altersrente aus der gesetzlichen Rentenversicherung auf einen Teilbetrag beschränkt, können die Leistungen der betrieblichen Altersversorgung eingestellt werden. Der ausgeschiedene Arbeitnehmer ist verpflichtet, eine Beschränkung der Altersrente aus der gesetzlichen Rentenversicherung dem Arbeitgeber oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
 
 # § 7 – Umfang des Versicherungsschutzes
 
