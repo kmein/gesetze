@@ -1760,7 +1760,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 # § 61 – Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
 
-(1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und macht es mit den in der Anlage 11 unter den Nummern 1 bis 6 bezeichneten Angaben öffentlich bekannt.
+(1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und macht es mit den in der Anlage 11 unter den Nummern 1 bis 8 bezeichneten Angaben öffentlich bekannt.
 
 (2) Der Wahlausschuß benachrichtigt die gewählten Bewerber und teilt ihnen mit, daß sie zu der ersten Sitzung der Vertreterversammlung oder des Verwaltungsrates mindestens einen Monat vorher geladen werden.
 
@@ -1904,9 +1904,9 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (2) Eine durch die Wahl des Vorstandes erforderlich gewordene Ergänzung der Vertreterversammlung (§ 60 Abs. 1 in Verbindung mit § 59 Abs. 1 des Vierten Buches Sozialgesetzbuch) ist unverzüglich durchzuführen. Der Vorsitzende des Vorstandes teilt dem Wahlausschuß das Ergebnis des Ergänzungsverfahrens mit.
 
-(3) Auf Grund dieser Mitteilungen stellt der Wahlausschuß unverzüglich das endgültige Wahlergebnis fest und macht es zusammen mit der Begründung nach § 52 Absatz 1a Satz 3 des Vierten Buches Sozialgesetzbuch öffentlich bekannt. Dabei sind Familienname, Vorname, Geburtsjahr und Anschrift der Mitglieder der Vertreterversammlung oder des Verwaltungsrates, des Vorsitzenden der Vertreterversammlung oder des Verwaltungsrates, der Mitglieder des Vorstandes und des Vorsitzenden des Vorstandes sowie ihrer Stellvertreter anzugeben. Bei abwechselndem Vorsitz in der Vertreterversammlung, im Verwaltungsrat oder im Vorstand ist auch anzugeben, für welche Zeiträume welche Personen den Vorsitz führen.
+(3) Auf Grund dieser Mitteilungen stellt der Wahlausschuß unverzüglich das endgültige Wahlergebnis fest und macht es zusammen mit der Begründung nach § 52 Absatz 1a Satz 3 des Vierten Buches Sozialgesetzbuch öffentlich bekannt. Dabei sind Familienname, Vorname, Geburtsjahr und Wohnort der Mitglieder der Vertreterversammlung oder des Verwaltungsrates, des Vorsitzenden der Vertreterversammlung oder des Verwaltungsrates, der Mitglieder des Vorstandes und des Vorsitzenden des Vorstandes sowie ihrer Stellvertreter anzugeben. Bei abwechselndem Vorsitz in der Vertreterversammlung, im Verwaltungsrat oder im Vorstand ist auch anzugeben, für welche Zeiträume welche Personen den Vorsitz führen.
 
-(4) Bei Betriebskrankenkassen sind in der öffentlichen Bekanntmachung auch Familienname, Vorname, Geburtsjahr und Anschrift des Arbeitgebers oder seines Stellvertreters, der dem Verwaltungsrat angehört, anzugeben.
+(4) Bei Betriebskrankenkassen sind in der öffentlichen Bekanntmachung auch Familienname, Vorname, Geburtsjahr und der Dienstort des Arbeitgebers oder seines Stellvertreters, der dem Verwaltungsrat angehört, anzugeben.
 
 (5) Der zuständige Landeswahlbeauftragte, der Bundeswahlbeauftragte und die Aufsichtsbehörde erhalten unverzüglich eine Abschrift der Bekanntmachung.
 

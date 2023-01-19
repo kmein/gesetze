@@ -15,9 +15,9 @@ Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches Sozialgesetzbuch - Geme
 
 (1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte tragen, werden durch Anwendung des halben Beitragssatzes auf das Arbeitsentgelt und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Auf Beiträge, die der Arbeitgeber allein trägt, kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt sich der Beitrag aus der Summe der getrennt berechneten gerundeten Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden durch Anwendung des für diese Beiträge geltenden Beitragssatzes oder Beitragszuschlags auf das Arbeitsentgelt berechnet; Satz 3 zweiter Halbsatz gilt entsprechend. Wird die Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf die Mindestbeitragsbemessungsgrundlage angewandt und der vom Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der Beitragsanteil des Beschäftigten.
 
-(2) Abweichend von Absatz 1 Satz 1 wird in den Fällen des Übergangsbereichs der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch und anschließende Verdoppelung des gerundeten Ergebnisses berechnet. Bei Entgelten bis zur Geringfügigkeitsgrenze ergibt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch durch Anwendung des Faktors F auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuch zugrunde liegende Arbeitsentgelt. Der vom Beschäftigten zu tragende Beitragsanteil wird durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung zuzüglich des kassenindividuellen Zusatzbeitragssatzes ergebenden Beitragssatzes auf die nach § 20 Absatz 2a Satz 6 des Vierten Buches Sozialgesetzbuch ermittelte beitragspflichtige Einnahme berechnet und gerundet. Der Abzug des Beitragsanteils des Beschäftigten von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Arbeitgebers. Überschreiten einzelne Entgelte in Fällen des § 20 Absatz 2a des Vierten Buches Sozialgesetzbuch nicht die Geringfügigkeitsgrenze, ist kein Beitragsanteil nach Satz 3 zu ermitteln, der Arbeitgeber trägt insoweit den gesamten Beitrag allein. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen gerundet.
+(2) Abweichend von Absatz 1 Satz 1 wird in den Fällen des Übergangsbereichs der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch und anschließende Verdoppelung des gerundeten Ergebnisses berechnet. Bei Entgelten bis zur Geringfügigkeitsgrenze ergibt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch durch Anwendung des Faktors F auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuch zugrunde liegende Arbeitsentgelt. Der vom Beschäftigten zu tragende Beitragsanteil wird durch Anwendung des jeweiligen halben Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des halben kassenindividuellen Zusatzbeitragssatzes auf die nach § 20 Absatz 2a Satz 6 des Vierten Buches Sozialgesetzbuch ermittelte beitragspflichtige Einnahme berechnet und gerundet. Der Abzug des Beitragsanteils des Beschäftigten von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Arbeitgebers. Überschreiten einzelne Entgelte in Fällen des § 20 Absatz 2a des Vierten Buches Sozialgesetzbuch nicht die Geringfügigkeitsgrenze, ist kein Beitragsanteil nach Satz 3 zu ermitteln, der Arbeitgeber trägt insoweit den gesamten Beitrag allein. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen gerundet.
 
-(3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt Absatz 2 Satz 1, 2 und 6 mit der Maßgabe, dass die beitragspflichtige Einnahme nach § 134 Absatz 1 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende Beitragsanteil durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung zuzüglich des kassenindividuellen Zusatzbeitragssatzes ergebenden Beitragssatzes auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
+(3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt Absatz 2 Satz 1, 2 und 6 mit der Maßgabe, dass die beitragspflichtige Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende Beitragsanteil durch Anwendung des halben Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des halben kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
 
 # § 3 – Tag der Zahlung, Zahlungsmittel
 
@@ -28,8 +28,6 @@ Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches Sozialgesetzbuch - Geme
 2. bei Zahlung durch Scheck, bei Überweisung oder Einzahlung auf ein Konto der Einzugsstelle der Tag der Wertstellung zugunsten der Einzugsstelle, bei rückwirkender Wertstellung das Datum des elektronischen Kontoauszuges des Geldinstituts der Einzugsstelle,
 
 3. bei Vorliegen einer Einzugsermächtigung der Tag der Fälligkeit.
-
-Abweichend von Satz 1 und 2 tritt in den Fällen des § 28f Abs. 4 des Vierten Buches Sozialgesetzbuch an die Stelle der Einzugsstelle die beauftragte Stelle.
 
 (2) Zahlungen in fremder Währung und durch Wechsel sind nicht zugelassen.
 
@@ -61,7 +59,7 @@ Werden die Beiträge vom Arbeitgeber im Wege des Lastschriftverfahrens eingezoge
 
 (3) Der Zahlungsempfänger kann bestimmen, auf welches seiner Konten die Einzugsstelle zu überweisen hat. Die Bundesagentur für Arbeit bestimmt, an welche ihrer Dienststellen weiterzuleiten ist. Auf Verlangen des Zahlungsempfängers sind die Überweisungen beschleunigt, z. B. durch Blitzgiro oder telegrafisch, vorzunehmen; die anfallenden Gebühren behalten die Einzugsstellen ein.
 
-(4) In den Fällen des § 28f Abs. 4 des Vierten Buches Sozialgesetzbuch tritt an die Stelle der Einzugsstelle im Sinne der Absätze 1 bis 3 die beauftragte Stelle.
+(4) (weggefallen)
 
 # § 6 – Abrechnung
 
@@ -155,7 +153,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 7a. der Nachweis eines Krankenversicherungsschutzes nach § 28a Absatz 9a des Vierten Buches Sozialgesetzbuch,
 
-8. eine Kopie des Antrags nach § 7a Abs. 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen, deren Bescheid nach § 7a Abs. 2 des Vierten Buches Sozialgesetzbuch sowie gutachterliche Äußerungen nach § 7a Absatz 4b des Vierten Buches Sozialgesetzbuch,
+8. eine Kopie des Antrags nach § 7a Absatz 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen, deren Bescheid nach § 7a Absatz 2 des Vierten Buches Sozialgesetzbuch, gutachterliche Äußerungen nach § 7a Absatz 4b des Vierten Buches Sozialgesetzbuch sowie eine Dokumentation, welchen Auftragnehmern er eine Kopie der gutachterlichen Äußerung nach § 7a Absatz 4b Satz 4 des Vierten Buches Sozialgesetzbuch ausgehändigt hat,
 
 9. den Bescheid der zuständigen Einzugsstelle über die Feststellung der Versicherungspflicht nach § 28h Abs. 2 des Vierten Buches Sozialgesetzbuch,
 
@@ -173,17 +171,17 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach § 22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und für Schiffe der Rheinschifffahrt die Rheinschifffahrtszugehörigkeitsurkunde,
 
-17. Veranlagungs-, Änderungs- und Nachtragsbescheide der Träger der gesetzlichen Unfallversicherung,
+17. (weggefallen)
 
-18. die Daten der übermittelten Bescheinigungen nach § 106 des Vierten Buches Sozialgesetzbuch,
+18. die Daten der übermittelten Bescheinigungen nach den §§ 106 bis 106c des Vierten Buches Sozialgesetzbuch,
 
 18a. bei einem Antrag auf Abschluss einer Ausnahmevereinbarung eine Erklärung, in welcher der Beschäftigte bestätigt, dass der Abschluss einer Ausnahmevereinbarung zur Geltung der deutschen Rechtsvorschriften nach Artikel 16 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 in seinem Interesse liegt,
 
-19. die schriftliche Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.
+19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.
 
 In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
 
-(3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
+(3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten, soweit möglich, in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
 
 # § 9 – Beitragsabrechnung
 
