@@ -663,7 +663,7 @@ sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 von dem Betroffenen,
 
 Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die Kredit- und Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungs- und E-Geld-Institute, die Kreditanstalt für Wiederaufbau, die Kapitalverwaltungsgesellschaften, extern verwalteten OGAW-Investmentaktiengesellschaften, Versicherungsunternehmen, Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind, die Abwicklungsanstalten sowie die Bilanzkontrollemittenten nach Maßgabe der §§ 16a bis 16s umzulegen.
 
-(+++ § 16: Zur Anwendung vgl. § 23 +++)
+(+++ § 16: Zur Anwendung vgl. § 24 +++)
 
 # § 16a – Umlagefähige Kosten; Umlagejahr
 
@@ -697,7 +697,7 @@ Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie 
 
 (4) Die Einnahmen im Sinne des § 16 sind von den Kosten des Aufgabenbereichs abzusetzen, dem sie jeweils unmittelbar zuzurechnen sind. Einnahmen, die zwei Aufgabenbereichen gemeinsam zugerechnet werden können, sind entsprechend dem Verhältnis der Kosten, die den Aufgabenbereichen unmittelbar zuzurechnen sind, abzuziehen. Einnahmen, die keinem Aufgabenbereich unmittelbar zugerechnet werden können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen abzuziehen.
 
-(+++ § 16b: Zur Anwendung vgl. § 23 +++)
+(+++ § 16b: Zur Anwendung vgl. § 24 +++)
 
 # § 16c – Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
 
@@ -711,7 +711,7 @@ Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie 
 
 Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb eines Aufgabenbereichs oder einer Gruppe für einen Umlagepflichtigen ermittelt wird. Ein Umlagepflichtiger kann mehreren Aufgabenbereichen oder Gruppen innerhalb eines Aufgabenbereichs zugeordnet sein. Die Umlagepflicht und die Verteilung der Kosten innerhalb eines Aufgabenbereichs bestimmen sich nach Maßgabe der §§ 16e bis 16l.
 
-(+++ § 16d: Zur Anwendung vgl. § 23 +++)
+(+++ § 16d: Zur Anwendung vgl. § 24 +++)
 
 # § 16e – Kostenermittlung und Umlagepflicht im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
@@ -1003,6 +1003,8 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (4) Die inländischen Börsen haben der Bundesanstalt zur Festsetzung der Umlage und der Umlagevorauszahlung über die Börsenumsätze Auskünfte zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann von den Unternehmen Auskünfte und die Vorlage von Unterlagen verlangen, soweit dies zur Festsetzung der Umlage und der Umlagevorauszahlung erforderlich ist. Die nach Satz 1 vorzulegenden Unterlagen umfassen Bestätigungen der gemeldeten Umsätze je Wertpapier durch einen Wirtschaftsprüfer, eine Wirtschaftsprüfungsgesellschaft, einen vereidigten Buchprüfer oder eine Buchprüfungsgesellschaft.
 
+(+++ § 16l: Zur Anwendung vgl. § 24 +++)
+
 # § 16m – Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit
 
 (1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das die Umlagepflicht besteht.
@@ -1015,7 +1017,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (5) Die Bundesanstalt kann zulassen, dass ein Verband die Umlagebeträge der ihm angehörenden Umlagepflichtigen für diese Umlagepflichtigen in einer Summe entrichtet, wenn er sich hierzu in Schriftform gegenüber der Bundesanstalt verpflichtet hat. In diesem Fall werden die Festsetzungen gegenüber den verbandsangehörigen Umlagepflichtigen diesen über den Verband bekannt gegeben, soweit sich die Umlagepflichtigen damit einverstanden erklärt haben oder der Verband erklärt hat, zum Empfang der Festsetzungen ermächtigt zu sein. Eine gesonderte Bekanntgabe der Festsetzung an den einzelnen verbandsangehörigen Umlagepflichtigen ist insoweit entbehrlich.
 
-(+++ § 16l: Zur Anwendung vgl. § 23 +++)
+(+++ § 16m: Zur Anwendung vgl. § 24 +++)
 
 # § 16n – Festsetzung und Fälligkeit von Umlagevorauszahlungen
 
@@ -1029,7 +1031,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (5) Soweit der Umlagebetrag die Vorauszahlung voraussichtlich übersteigen wird, kann die Bundesanstalt für das laufende Umlagejahr eine weitere Umlagevorauszahlung festsetzen. Die Vorauszahlungspflicht bestimmt sich nach Absatz 2. Die umzulegenden Kosten sind nach Maßgabe des Absatzes 3 zu verteilen. Für den nach Satz 1 festgesetzten Vorauszahlungsbetrag hat die Bundesanstalt den Zeitpunkt der Fälligkeit zu bestimmen.
 
-(+++ § 16m: Zur Anwendung vgl. § 23 +++)
+(+++ § 16n: Zur Anwendung vgl. § 24 +++)
 
 # § 16o – Differenz zwischen Umlagebetrag und Vorauszahlung
 
@@ -1039,7 +1041,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Ansprüche auf Erstattung von Überzahlungen im Sinne des Absatzes 2 erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften Kalenderjahres nach dem Kalenderjahr geltend gemacht werden, in dem die Festsetzung des Umlagebetrages oder die Aufhebung des Vorauszahlungsbescheides unanfechtbar geworden ist.
 
-(+++ § 16n: Zur Anwendung vgl. § 23 +++)
+(+++ § 16o: Zur Anwendung vgl. § 24 +++)
 
 # § 16p – Säumniszuschläge; Beitreibung
 
@@ -1059,7 +1061,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (5) Nicht fristgerecht entrichtete Umlage- und Umlagevorauszahlungsbeträge werden nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes durch die Bundesanstalt beigetrieben. Vollstreckungsbehörde ist das für den Sitz oder die Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
 
-(+++ § 16o: Zur Anwendung vgl. § 23 +++)
+(+++ § 16p: Zur Anwendung vgl. § 24 +++)
 
 # § 16q – Festsetzungsverjährung
 
@@ -1069,7 +1071,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung unanfechtbar geworden ist; dies gilt auch, wenn der Rechtsbehelf erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt. Satz 1 gilt entsprechend für vor Ablauf der Festsetzungsfrist gestellte Anträge auf Aufhebung oder Änderung der Festsetzung.
 
-(+++ § 16p: Zur Anwendung vgl. § 23 +++)
+(+++ § 16q: Zur Anwendung vgl. § 24 +++)
 
 # § 16r – Zahlungsverjährung
 
@@ -1121,7 +1123,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (6) Wird die Festsetzung des Umlagebetrages angefochten, erlöschen die Zahlungsansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Festsetzung unanfechtbar geworden ist oder sich das Verfahren auf andere Weise erledigt hat. Die Frist nach Satz 1 kann durch verjährungsunterbrechende Maßnahmen nach Absatz 3 unterbrochen werden.
 
-(+++ § 16q: Zur Anwendung vgl. § 23 +++)
+(+++ § 16r: Zur Anwendung vgl. § 24 +++)
 
 # § 16s – Erstattung überzahlter Umlagebeträge
 
@@ -1131,7 +1133,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Ansprüche auf Erstattung von zu Unrecht erhobenen Umlagebeträgen und von sonstigen Überzahlungen im Sinne des Absatzes 1 erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften Kalenderjahres geltend gemacht werden, das auf die Entstehung des Anspruchs folgt.
 
-(+++ § 16r: Zur Anwendung vgl. § 23 +++)
+(+++ § 16s: Zur Anwendung vgl. § 24 +++)
 
 # § 17 – Zwangsmittel; Bekanntgabe von Allgemeinverfügungen
 

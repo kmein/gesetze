@@ -2035,8 +2035,6 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
 
 (3a) Ein Ausländer, der als Asylberechtigter anerkannt ist, der im Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings im Sinne des § 3 Absatz 1 des Asylgesetzes oder eines subsidiär Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylgesetzes genießt oder der einen von einer Behörde der Bundesrepublik Deutschland ausgestellten Reiseausweis nach dem Abkommen vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) besitzt, darf nur bei Vorliegen zwingender Gründe der nationalen Sicherheit oder öffentlichen Ordnung ausgewiesen werden.
 
-(3b) (weggefallen)
-
 (4) Ein Ausländer, der einen Asylantrag gestellt hat, kann nur unter der Bedingung ausgewiesen werden, dass das Asylverfahren unanfechtbar ohne Anerkennung als Asylberechtigter oder ohne die Zuerkennung internationalen Schutzes (§ 1 Absatz 1 Nummer 2 des Asylgesetzes) abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
 
 1. ein Sachverhalt vorliegt, der nach Absatz 3a eine Ausweisung rechtfertigt oder
