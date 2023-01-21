@@ -711,6 +711,10 @@ Die Bestimmungen dieses Absatzes finden keine Anwendung auf Vereinbarungen, die 
 
 ausgeübt werden. Für Tätigkeiten, bei denen die Einnahmen nach Satz 1 nicht beitragspflichtig sind, bestehen keine Meldepflichten nach diesem Buch.
 
+# § 23d – Abgeltung von abgeleiteten Entgeltguthaben bei Beendigung oder Ruhen des Beschäftigungsverhältnisses
+
+Für die Abgeltung von Entgeltguthaben, die aus Arbeitszeitguthaben abgeleitet sind, findet § 23a mit der Maßgabe Anwendung, dass nach Beendigung oder bei Ruhen des Beschäftigungsverhältnisses ausgezahlte Entgeltguthaben auch dann dem letzten Entgeltabrechnungszeitraum zuzuordnen sind, wenn dieser nicht im laufenden Kalenderjahr liegt.
+
 # § 24 – Säumniszuschlag
 
 (1) Für Beiträge und Beitragsvorschüsse, die der Zahlungspflichtige nicht bis zum Ablauf des Fälligkeitstages gezahlt hat, ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1 Prozent des rückständigen, auf 50 Euro nach unten abgerundeten Betrages zu zahlen. Eine jeweils gesonderte Abrundung rückständiger Beiträge und Beitragsvorschüsse unterschiedlicher Fälligkeit ohne vorherige Addition ist zulässig. Bei einem rückständigen Betrag unter 150 Euro ist der Säumniszuschlag nicht zu erheben, wenn dieser gesondert anzufordern wäre. Für die Erhebung von Säumniszuschlägen in der gesetzlichen Unfallversicherung gilt § 169 des Siebten Buches.

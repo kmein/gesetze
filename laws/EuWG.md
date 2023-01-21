@@ -65,7 +65,7 @@ mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Kreis und für jede
 
 (1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltage
 
-1. das achtzehnte Lebensjahr vollendet haben,
+1. das sechzehnte Lebensjahr vollendet haben,
 
 2. seit mindestens drei Monaten
 
@@ -83,7 +83,7 @@ Die Voraussetzungen nach Satz 1 Nr. 2 sind auch bei einem dreimonatigen aufeinan
 
 (3) Wahlberechtigt sind auch alle Staatsangehörigen der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger), die in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten und die am Wahltage
 
-1. das achtzehnte Lebensjahr vollendet haben,
+1. das sechzehnte Lebensjahr vollendet haben,
 
 2. seit mindestens drei Monaten
 

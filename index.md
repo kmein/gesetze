@@ -1998,6 +1998,7 @@
 - [EWKKennzV](laws/EWKKennzV.md) Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
 - [EWKVerbotsV](laws/EWKVerbotsV.md) Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff*
 - [EWO](laws/EWO.md) Übereinkommen zur Gründung einer Europäischen Weltraumorganisation
+- [EWPBG](laws/EWPBG.md) Gesetz zur Einführung von Preisbremsen für leitungsgebundenes Erdgas und Wärme
 - [eWpG](laws/eWpG.md) Gesetz über elektronische Wertpapiere
 - [eWpRV](laws/eWpRV.md) Verordnung über Anforderungen an elektronische Wertpapierregister 1
 - [EWRAbkAG](laws/EWRAbkAG.md) Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
