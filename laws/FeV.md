@@ -3077,7 +3077,7 @@ Aufgrund der oben angeführten Untersuchung wurden die Anforderungen nach Anlage
 
 Auflagen/Beschränkungen erforderlich:  
 □ nein  
-□ ja
+□ ja \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (weggefallen)
 
@@ -3109,7 +3109,7 @@ Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in Anlage 6 Nummer
 
 Auflagen/Beschränkungen erforderlich  
 □ nein  
-□ ja,
+□ ja, \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Das Zeugnis ist 2 Jahre gültig.
 

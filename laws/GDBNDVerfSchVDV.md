@@ -1309,7 +1309,3 @@ c) vor einem staatlichen Prüfungsausschuss.
 (1) Das Studium wird einem systematischen Qualitätsmanagement unterworfen.
 
 (2) Teil des systematischen Qualitätsmanagements ist die Evaluation. Das Nähere zur Evaluation regelt die Evaluationsordnung des Fachbereichs Nachrichtendienste der Hochschule.
-
-# § 83 – (weggefallen)
-
-# § 84 – (weggefallen)
