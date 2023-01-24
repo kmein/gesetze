@@ -842,7 +842,7 @@ Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teil
 
 § 50d
 
-(zukünftig in Kraft)
+Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
 
 § 50e
 
@@ -5188,7 +5188,37 @@ Ist die Einhaltung der Anforderungen an Bevorratung und Lagerung nach Satz 1 und
 
 (+++ § 50c: Zur Anwendung vgl. § 50a Abs. 4 (bis 31.3.2024 +++)
 
-# § 50d – (zukünftig in Kraft)
+# § 50d – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
+
+(1) Die in § 13g Absatz 1 Satz 1 Nummer 3 und 4 genannten Erzeugungsanlagen (Reserveanlagen) werden ab dem 1. Oktober 2022 bis zum 31. März 2024 in eine Reserve (Versorgungsreserve) überführt. Die Reserveanlagen dürfen bis zum 31. März 2024 nicht endgültig stillgelegt werden. Mit Ablauf des 31. März 2024 müssen sie endgültig stillgelegt werden. § 13g Absatz 1 Satz 3 ist nicht anwendbar.
+
+(2) Die Reserveanlagen dienen dem Zweck, dem Elektrizitätsversorgungssystem kurzfristig zusätzliche Erzeugungskapazitäten, insbesondere zur Einsparung von Erdgas in der Stromerzeugung, zur Verfügung zu stellen. Die Bundesregierung kann nach Ausrufung der Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates zulassen, dass die Betreiber die Reserveanlagen befristet am Strommarkt einsetzen. Voraussetzung für den Erlass der Rechtsverordnung nach Satz 2 ist die Prüfung und Berücksichtigung der Auswirkungen auf die Trinkwasserversorgung sowie die Feststellung, dass die Rückkehr der Anlagen, die aufgrund von § 50a befristet am Strommarkt teilnehmen, nicht ausreicht, um die Versorgung mit Gas gewährleisten zu können. In der Rechtsverordnung ist zu regeln, für welchen Zeitraum der befristete Einsatz am Strommarkt erlaubt ist (Abrufzeitraum), jedoch längstens bis zum Ablauf des 31. März 2024.
+
+(3) Während der Versorgungsreserve müssen die Anlagenbetreiber jederzeit sicherstellen, dass die Reserveanlagen innerhalb von 240 Stunden nach Inkrafttreten der Rechtsverordnung nach Absatz 2 betriebsbereit sind.
+
+(4) Während der Abrufzeiträume entscheiden die Anlagenbetreiber eigenverantwortlich über die Fahrweise der Reserveanlagen. Die Anlagenbetreiber veräußern den Strom am Strommarkt.
+
+(5) Die Betreiber der Reserveanlagen erhalten für den Zeitraum in der Versorgungsreserve außerhalb der Abrufzeiträume eine Vergütung. Diese Vergütung umfasst
+
+1. die nachgewiesenen notwendigen Kosten, die für die betreffenden Reserveanlagen zur Herstellung der Versorgungsreserve entstanden sind, sofern sie über die Maßnahmen der Sicherheitsbereitschaft hinausgehen, und
+
+2. die nachgewiesenen notwendigen Kosten für die Vorhaltung der betreffenden Reserveanlagen, insbesondere für das Personal, die Instandhaltung und Wartung.
+
+Im Fall der Reserveanlagen nach § 13g Absatz 1 Satz 1 Nummer 4 richtet sich die Vergütung für die Vorhaltung nach Satz 2 Nummer 2 bis zum 1. Oktober 2023 ausschließlich nach § 13g Absatz 5 Satz 1 und 2 und ab dem 1. Oktober 2023 ausschließlich nach Satz 2 Nummer 2. Weitergehende Kosten, insbesondere sonstige Vergütungsbestandteile der Sicherheitsbereitschaft, sind nicht erstattungsfähig. § 13g Absatz 5 Satz 3 ist für Reserveanlagen ab dem 1. Dezember 2022 entsprechend anzuwenden. Während der Abrufzeiträume besteht kein Vergütungsanspruch.
+
+(6) Nach Ablauf der Versorgungsreserve
+
+1. haben die Betreiber einen Anspruch auf Zahlung der Vergütung nach Absatz 5, soweit die ihnen zustehende Vergütung nach Absatz 5 größer ist als die Hälfte der von den Betreibern in den Abrufzeiträumen mit den Reserveanlagen erwirtschafteten Überschüsse, und
+
+2. ist der Restwert der investiven Vorteile bei wiederverwertbaren Anlagenteilen, die der Betreiber der Reserveanlage im Rahmen der Vergütung nach Absatz 5 erhalten hat, von dem Betreiber zu erstatten; maßgeblich ist der Restwert zu dem Zeitpunkt, ab dem sich die Reserveanlage nicht mehr in der Versorgungsreserve befindet.
+
+(7) Die Höhe der am Ende der Versorgungsreserve nach den Absätzen 5 und 6 zu zahlenden Vergütung wird durch die Bundesnetzagentur nach Beendigung der Versorgungsreserve auf Verlangen eines Betreibers für diesen festgesetzt. Der Betreiber der Reserveanlage hat gegen den zuständigen Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung einen Vergütungsanspruch in der von der Bundesnetzagentur festgesetzten Höhe. Die Bundesnetzagentur kann zur geeigneten und angemessenen Berücksichtigung der bei den Betreibern von Übertragungsnetzen anfallenden Kosten in den Netzentgelten Festlegungen nach § 29 Absatz 1 treffen.
+
+(8) Für die Reserveanlagen ist § 13g ab dem 1. Oktober 2022 nicht mehr anzuwenden, soweit in den Absätzen 1 bis 7 nichts anderes geregelt ist.
+
+(9) Die Absätze 1 bis 8 dürfen nur nach Maßgabe und für die Dauer einer beihilferechtlichen Genehmigung der Europäischen Kommission angewendet werden.
+
+(+++ §§ 50a bis 50j: Eingef. durch Art. 1 Nr. 5 G v. 8.7.2022 I 1054 mWv 12.7.2022, § 50d gem. Art. 6 Abs. 2 G v. 8.7.2022 I 1054 mWv 30.9.2022 (Bekanntmachung ist in Vorbereitung) +++)
 
 # § 50e – Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur
 

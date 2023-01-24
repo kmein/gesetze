@@ -236,8 +236,6 @@ Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung seiner
 
 (2) Das Auswahlverfahren umfasst schriftliche und mündliche Teile und kann auch psychologische Eignungs- und Sprachtests umfassen. Das Auswahlverfahren wird von einem unabhängigen Ausschuss durchgeführt; dieser kann externe Beraterinnen und Berater sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
-(2a) (weggefallen)
-
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und Bewerber zugelassen, die nach den eingereichten Unterlagen die Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein Vorverfahren durchgeführt wird. Schwerbehinderte Menschen werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen, grundsätzlich zum Auswahlverfahren zugelassen. Frauen und Männer werden in einem ausgewogenen Verhältnis berücksichtigt.
 
 (4) Auf Grund der Bewertung der Bewerbung, der Ergebnisse des schriftlichen Verfahrens und gegebenenfalls der psychologischen Eignungstests entscheidet der Auswahlausschuss, wer zum mündlichen Teil des Auswahlverfahrens zugelassen wird.
