@@ -553,7 +553,7 @@ Der Bestandsschutz nach Satz 2 Buchstabe c ist bei Beteiligungen, die ab dem 24.
 
 10. Die Anlagebestimmungen gehen mit Ausnahme der Nummer 7a aus den Anlagebedingungen hervor.
 
-(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 Abs. 4 +++)
+(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 Abs. 4 u. 7 +++)
 
 # § 27 – Rechtsformen von inländischen Spezial-Investmentfonds
 
@@ -580,6 +580,8 @@ Inländische Spezial-Investmentfonds können gebildet werden
 (3) Bei einer Überschreitung der zulässigen Beteiligungshöhe nach § 26 Nummer 6 sind auf den Spezial-Investmentfonds keine Besteuerungsregelungen anzuwenden, die eine über dieser Grenze liegende Beteiligungshöhe voraussetzen. Dies gilt auch, wenn in Abkommen zur Vermeidung der Doppelbesteuerung Abweichendes geregelt ist.
 
 (4) Die Körperschaftsteuer des Spezial-Investmentfonds ermäßigt sich nicht um die vom Spezial-Investmentfonds gezahlte Gewerbesteuer nach § 29 Absatz 1 in Verbindung mit § 15. Die vom Spezial-Investmentfonds gezahlte Gewerbesteuer ist nicht als Werbungskosten abziehbar.
+
+(+++ § 29: Zur Anwendung vgl. § 57 Abs. 7 +++)
 
 # § 30 – Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte mit Steuerabzug
 
@@ -684,6 +686,8 @@ als zugeflossen.
 (3) Die ausgeschütteten oder ausschüttungsgleichen inländischen Immobilienerträge gelten bei beschränkt steuerpflichtigen Anlegern als unmittelbar bezogene Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe f, Nummer 6 oder Nummer 8 des Einkommensteuergesetzes. Satz 1 und Absatz 2 Satz 4 Nummer 1 gelten auch für die Anwendung der Regelungen in Abkommen zur Vermeidung der Doppelbesteuerung. Der Abzug der Kapitalertragsteuer durch den Spezial-Investmentfonds auf die in den ausgeschütteten oder ausschüttungsgleichen Erträgen enthaltenen inländischen Immobilienerträge hat bei beschränkt steuerpflichtigen Anlegern, abweichend von § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes, keine abgeltende Wirkung.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für sonstige inländische Einkünfte, die bei Vereinnahmung keinem Steuerabzug unterliegen. Die sonstigen inländischen Einkünfte gelten bei beschränkt steuerpflichtigen Anlegern als unmittelbar bezogene Einkünfte nach dem Tatbestand des § 49 Absatz 1 des Einkommensteuergesetzes, der der Vereinnahmung durch den Spezial-Investmentfonds zugrunde lag.
+
+(+++ § 33: Zur Anwendung vgl. § 57 Abs. 7 +++)
 
 # § 34 – Spezial-Investmenterträge
 
@@ -871,6 +875,8 @@ Die angewachsenen Ansprüche sind mit der Emissionsrendite anzusetzen, sofern di
 (2) Die nach § 43 Absatz 3 zu gewährenden Teilfreistellungen sind bei der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes nur zur Hälfte zu berücksichtigen.
 
 (3) Die tarifliche Einkommensteuer des Anlegers ermäßigt sich nicht um die vom Spezial-Investmentfonds gezahlte Gewerbesteuer nach § 29 Absatz 1 in Verbindung mit § 15. Die vom Spezial-Investmentfonds gezahlte Gewerbesteuer ist beim Anleger nicht als Betriebsausgabe oder Werbungskosten abziehbar.
+
+(+++ § 45: Zur Anwendung vgl. § 57 Abs. 7 +++)
 
 # § 46 – Zinsschranke
 

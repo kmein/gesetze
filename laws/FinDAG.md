@@ -57,6 +57,10 @@ Elektronische Zustellung durch Bereitstellung zum Abruf
 
 Bekanntgabe und Zustellung im Ausland
 
+§ 4i
+
+Absehen von einer Anhörung
+
 Zweiter Abschnitt
 
  
@@ -414,6 +418,10 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 (2) Ist der Verwaltungsakt zuzustellen, so kann die Bundesanstalt abweichend von § 10 des Verwaltungszustellungsgesetzes die Zustellung bei Personen mit Wohnsitz oder Unternehmen mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes, für die kein Bevollmächtigter mit Sitz im Inland benannt wurde, durch öffentliche Bekanntmachung im Bundesanzeiger vornehmen. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für eine Anhörung nach § 28 des Verwaltungsverfahrensgesetzes.
+
+# § 4i – Absehen von einer Anhörung
+
+Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von Auskünften und die Vorlage von Unterlagen verlangen, ohne dass dem Adressaten zuvor nach § 28 Absatz 1 des Verwaltungsverfahrensgesetzes Gelegenheit gegeben werden muss, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
 
 # § 5 – Organe, Satzung
 
