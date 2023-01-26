@@ -137,9 +137,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 1. im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 19 Absatz 4 Satz 1 und 2,
 
-2. im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3 und
+2. im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3,
 
-3. im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
+3. im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1 und
+
+4. nach Maßgabe des § 152i Absatz 1.
 
 # § 1d
 

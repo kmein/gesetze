@@ -37,9 +37,9 @@ Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühre
 
 12. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), die zuletzt durch die Verordnung (EU) 2020/561 (ABl. 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung,
 
-13. Medizinprodukterecht-Durchführungsgesetz,
+13. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167; L 233 vom 1.7.2021, S. 9), die zuletzt durch die Verordnung (EU) 2022/112 (ABl. L 19 vom 28.1.2022, S. 3) geändert worden ist, in der jeweils geltenden Fassung,
 
-14. Medizinproduktegesetz und Medizinprodukte-Sicherheitsplanverordnung, jeweils in der bis einschließlich zum 25. Mai 2021 geltenden Fassung, für In-vitro-Diagnostika,
+14. Medizinprodukterecht-Durchführungsgesetz,
 
 15. Infektionsschutzgesetz,
 
@@ -244,6 +244,32 @@ Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistun
  
 
  
+
+ 
+
+ 
+
+Vorbemerkung:
+
+In der nachstehenden Tabelle bedeuten:
+
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
+
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
+
+ 
+
+ 
+
+ 
+
+Vorbemerkung:
+
+In der nachstehenden Tabelle bedeuten:
+
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
+
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 
  
 
