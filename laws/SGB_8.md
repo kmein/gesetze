@@ -2943,13 +2943,13 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 # § 93 – Berechnung des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen; dies gilt nicht für
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt nicht für
 
 1. monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten Buches für sonstige Bedürfnisse genannten Betrages und
 
 2. monatliche Leistungen nach § 122 des Dritten Buches bis zu einer Höhe des in § 123 Satz 1 Nummer 2, § 124 Nummer 2 und § 125 des Dritten Buches genannten Betrages.
 
-Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
+Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
 
 (2) Von dem Einkommen sind abzusetzen
 

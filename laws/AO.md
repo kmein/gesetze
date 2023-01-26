@@ -3375,6 +3375,8 @@ Für die von Finanzbehörden gemäß Artikel 37 der Verordnung (EU) 2016/679 zu 
 
 (10) In Verfahren nach Absatz 1 Satz 1 haben eine Klage oder ein Antrag aufschiebende Wirkung. Die zuständige Aufsichtsbehörde darf gegenüber einer Finanzbehörde, deren Rechtsträger oder deren Auftragsverarbeiter nicht die sofortige Vollziehung anordnen.
 
+(+++ § 32i: Zur Anwendung vgl. Art. 97 § 18b AOEG 1977 +++)
+
 # § 32j – Antrag auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
 
 Hält der oder die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit oder eine nach Landesrecht für die Kontrolle des Datenschutzes zuständige Stelle einen Angemessenheitsbeschluss der Europäischen Kommission, auf dessen Gültigkeit es bei der Entscheidung über die Beschwerde einer betroffenen Person hinsichtlich der Verarbeitung personenbezogener Daten ankommt, für rechtswidrig, so gilt § 21 des Bundesdatenschutzgesetzes.
@@ -6890,6 +6892,8 @@ Die beteiligten Steuerberechtigten können von der zuständigen Finanzbehörde A
 
 (2) Der Zerlegungsbescheid muss die Höhe des zu zerlegenden Steuermessbetrags angeben und bestimmen, welche Anteile den beteiligten Steuerberechtigten zugeteilt werden. Er muss ferner die Zerlegungsgrundlagen angeben.
 
+(+++ § 188: Zur Anwendung vgl. Art. 97 § 35 AOEG 1977 +++)
+
 # § 189 – Änderung der Zerlegung
 
 Ist der Anspruch eines Steuerberechtigten auf einen Anteil am Steuermessbetrag nicht berücksichtigt und auch nicht zurückgewiesen worden, so wird die Zerlegung von Amts wegen oder auf Antrag geändert oder nachgeholt. Ist der bisherige Zerlegungsbescheid gegenüber denjenigen Steuerberechtigten, die an dem Zerlegungsverfahren bereits beteiligt waren, unanfechtbar geworden, so dürfen bei der Änderung der Zerlegung nur solche Änderungen vorgenommen werden, die sich aus der nachträglichen Berücksichtigung der bisher übergangenen Steuerberechtigten ergeben. Eine Änderung oder Nachholung der Zerlegung unterbleibt, wenn ein Jahr vergangen ist, seitdem der Steuermessbescheid unanfechtbar geworden ist, es sei denn, dass der übergangene Steuerberechtigte die Änderung oder Nachholung der Zerlegung vor Ablauf des Jahres beantragt hatte.
@@ -7338,13 +7342,15 @@ Ansprüche aus dem Steuerschuldverhältnis unterliegen einer besonderen Zahlungs
 
 (2) Ist ein Haftungsbescheid ohne Zahlungsaufforderung ergangen, so beginnt die Verjährung mit Ablauf des Kalenderjahrs, in dem die Zahlungsaufforderung nachgeholt worden ist, spätestens aber fünf Jahre nach Ablauf des Kalenderjahrs, in dem der Haftungsbescheid wirksam geworden ist.
 
-(+++ § 229 Abs. 1 Satz 2: Zur Geltung vgl. Art. 97 § 14 Abs. 3 AOEG 1977 +++)
+(+++ § 229: Zur Geltung vgl. Art. 97 § 14 AOEG 1977 +++)
 
 # § 230 – Hemmung der Verjährung
 
 (1) Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann.
 
 (2) Die Verjährung ist gehemmt, solange die Festsetzungsfrist des Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei nicht anzuwenden.
+
+(+++ § 230: Zur Geltung vgl. Art. 97 § 14 AOEG 1977 +++)
 
 # § 231 – Unterbrechung der Verjährung
 

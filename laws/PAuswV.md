@@ -297,8 +297,6 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 (7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern, für Bau und Heimat abzustimmen.
 
-# § 23 – (weggefallen)
-
 # § 23 – Speicherung von personenbezogenen Daten; Zugriffsschutz
 
 Auf einen elektronischen Identitätsnachweis mit einem mobilen Endgerät sind § 14 Absatz 1 mit der Maßgabe, dass abweichend von § 14 Absatz 1 Nummer 1 vor der Übermittlung personenbezogener Daten stets die Geheimnummer übermittelt werden muss, sowie § 14 Absatz 2 Nummer 1 und 2 entsprechend anzuwenden.
