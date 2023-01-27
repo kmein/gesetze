@@ -1769,6 +1769,7 @@
 - [EnVKV](laws/EnVKV.md) Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnWG](laws/EnWG.md) Gesetz über die Elektrizitäts- und Gasversorgung
 - [EnWGKostV](laws/EnWGKostV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz
+- [EnWGKostVÄndV9Ber](laws/EnWGKostVÄndV9Ber.md) Berichtigung der Neunten Verordnung zur Änderung der Energiewirtschaftskostenverordnung
 - [EnWPrV](laws/EnWPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft
 - [EÖlAnrAbk BEL](laws/EÖlAnrAbk_BEL.md) Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bundesrepublik Deutschland und dem Vice-Premier Ministre des Affaires Economiques du Royaume de Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EÖlBAbk NLD](laws/EÖlBAbk_NLD.md) Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
