@@ -5218,8 +5218,6 @@ Im Fall der Reserveanlagen nach § 13g Absatz 1 Satz 1 Nummer 4 richtet sich die
 
 (9) Die Absätze 1 bis 8 dürfen nur nach Maßgabe und für die Dauer einer beihilferechtlichen Genehmigung der Europäischen Kommission angewendet werden.
 
-(+++ §§ 50a bis 50j: Eingef. durch Art. 1 Nr. 5 G v. 8.7.2022 I 1054 mWv 12.7.2022, § 50d gem. Art. 6 Abs. 2 G v. 8.7.2022 I 1054 mWv 30.9.2022 (Bekanntmachung ist in Vorbereitung) +++)
-
 # § 50e – Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Einzelheiten des Verfahrens zur befristeten Teilnahme am Strommarkt von Anlagen aus der Netzreserve nach den §§ 50a bis 50c und zur befristeten Versorgungsreserve Braunkohle nach § 50d.

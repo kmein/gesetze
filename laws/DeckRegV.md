@@ -181,6 +181,8 @@ Eintragungen von Deckungswerten nach § 4 Absatz 1 Satz 3, § 19 Absatz 1 Satz 1
 
 Die Bundesanstalt hat die Aufzeichnungen zwei Jahre aufzubewahren. Die Aufzeichnungen sind vor unberechtigtem Zugriff sowie vor Beschädigung oder Zerstörung durch äußere Einwirkungen besonders zu schützen. Die Befugnisse zum physischen Zugriff auf die Aufzeichnungen sind auf bestimmte Mitarbeiter der Bundesanstalt zu beschränken.
 
+(+++ § 17: Zur Anwendung vgl. § 18 Abs. 3 +++)
+
 # § 18 – Übergangsbestimmungen
 
 (1) Deckungsregister, die die Institute bereits vor Inkrafttreten dieser Verordnung aufgrund gesetzlicher Vorschriften geführt haben und die eine eindeutige vermögensrechtliche Zuordnung der eingetragenen Deckungswerte ermöglichen, dürfen bis zum 31. Dezember 2006 in der bisherigen Weise fortgeführt werden. Danach gelten die Anforderungen dieser Verordnung nur für neu einzutragende Deckungswerte.

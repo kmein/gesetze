@@ -1752,6 +1752,8 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 (5) § 181 Abs. 1 und 5 der Abgabenordnung ist entsprechend anzuwenden.
 
+(+++ § 153: Zur Anwendung vgl. § 265 +++)
+
 # § 154 – Beteiligte am Feststellungsverfahren
 
 (1) Am Feststellungsverfahren sind beteiligt
@@ -2192,6 +2194,8 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (9) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist es erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
+(+++ § 181: Zur Anwendung vgl. § 265 +++)
+
 # § 182 – Bewertung der bebauten Grundstücke
 
 (1) Der Wert der bebauten Grundstücke ist nach dem Vergleichswertverfahren (Absatz 2 und § 183), dem Ertragswertverfahren (Absatz 3 und §§ 184 bis 188) oder dem Sachwertverfahren (Absatz 4 und §§ 189 bis 191) zu ermitteln.
@@ -2238,6 +2242,8 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist mit dem nach den Absätzen 1 bis 3 ermittelten Ertragswert abgegolten.
 
+(+++ § 184: Zur Anwendung vgl. § 265 +++)
+
 # § 185 – Ermittlung des Gebäudeertragswerts
 
 (1) Bei der Ermittlung des Gebäudeertragswerts ist von dem Reinertrag des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des Grundstücks (§ 186) abzüglich der Bewirtschaftungskosten (§ 187).
@@ -2245,6 +2251,8 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 (2) Der Reinertrag des Grundstücks ist um den Betrag zu vermindern, der sich durch eine angemessene Verzinsung des Bodenwerts ergibt; dies ergibt den Gebäudereinertrag. Der Verzinsung des Bodenwerts ist der Liegenschaftszinssatz (§ 188) zu Grunde zu legen. Ist das Grundstück wesentlich größer, als es einer den Gebäuden angemessenen Nutzung entspricht, und ist eine zusätzliche Nutzung oder Verwertung einer Teilfläche zulässig und möglich, ist bei der Berechnung des Verzinsungsbetrags der Bodenwert dieser Teilfläche nicht zu berücksichtigen.
 
 (3) Der Gebäudereinertrag ist mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Das Alter des Gebäudes ist durch Abzug des Jahres der Bezugsfertigkeit des Gebäudes vom Jahr des Bewertungsstichtags zu bestimmen. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die Restnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von der entsprechend verlängerten Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt vorbehaltlich des Satzes 7 mindestens 30 Prozent der Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die nach den Sätzen 3 bis 6 ermittelte Restnutzungsdauer auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes am Bewertungsstichtag begrenzt.
+
+(+++ § 185: Zur Anwendung vgl. § 265 +++)
 
 # § 186 – Rohertrag des Grundstücks
 
@@ -2293,6 +2301,8 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 (3) Der Bodenwert und der Gebäudesachwert (§ 190) ergeben den vorläufigen Sachwert des Grundstücks. Dieser ist zur Anpassung an den gemeinen Wert mit einer Wertzahl nach § 191 zu multiplizieren.
 
 (4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist grundsätzlich mit dem nach den Absätzen 1 bis 3 ermittelten Sachwert abgegolten. Dies gilt nicht bei besonders werthaltigen baulichen Außenanlagen und sonstigen Anlagen.
+
+(+++ § 189: Zur Anwendung vgl. § 265 +++)
 
 # § 190 – Ermittlung des Gebäudesachwerts
 
@@ -2372,6 +2382,8 @@ gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil d
 
 (5) Der vertraglich vereinbarte jährliche Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
 
+(+++ § 194: Zur Anwendung vgl. § 265 +++)
+
 # § 195 – Gebäude auf fremdem Grund und Boden
 
 (1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absätze 2 bis 4) und die wirtschaftliche Einheit des belasteten Grundstücks (Absätze 5 bis 7) gesondert zu ermitteln. Die ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
@@ -2400,7 +2412,7 @@ Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebä
 
 (7) Das vertraglich vereinbarte jährliche Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Absatz 3 Satz 2 oder 3 anzuwendenden Zinssatzes.
 
-(+++ § 195 Abs. 2 Satz 4 u. 5: Zur Anwendung vgl. § 265 Abs. 10 +++)
+(+++ § 195: Zur Anwendung vgl. § 265 +++)
 
 # § 196 – Grundstücke im Zustand der Bebauung
 
@@ -2791,6 +2803,7 @@ d) Hofstelle,
 
 (2) Für die stehenden und umlaufenden Betriebsmittel ist der Stand am Ende des Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt vorangegangen ist.
 
+(+++ § 235: Zur Anwendung vgl. § 265 +++)  
 §§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
 
 # § 236 – Bewertungsgrundsätze
@@ -6232,13 +6245,15 @@ Putenmast.
 
 In den Fällen anderer Zinssätze der Gutachterausschüsse ist der Vervielfältiger nach folgender Formel zu bilden:
 
+(+++ Anlage 21: Zur Anwendung vgl. § 265 +++)
+
 # Anlage 22 – (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2) Gesamtnutzungsdauer
 
 (Fundstelle: BGBl. I 2015, 1846)
 
 Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.
 
-(+++ Anlage 22: Zur Anwendung vgl. § 265 Abs. 10 +++)
+(+++ Anlage 22: Zur Anwendung vgl. § 265 +++)
 
 # Anlage 23 – (zu § 187 Absatz 2 und 3)Bewirtschaftungskosten
 
@@ -6317,6 +6332,8 @@ jährlicher Rohertrag
 4 Prozent
 
 Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Stichtag der Ermittlung des Liegenschaftszinssatzes vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.
+
+(+++ Anlage 23: Zur Anwendung vgl. § 265 +++)
 
 # Anlage 24 – (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten
 
@@ -8723,7 +8740,7 @@ keine
 ➉Reitbodenbewässerung (komfortable Ausführung)  
 ➀➀Schüttwände aus Beton-Fertigteilen
 
-(+++ Anlage 24: Zur Anwendung vgl. § 265 Abs. 10 +++)
+(+++ Anlage 24: Zur Anwendung vgl. § 265 +++)
 
 # Anlage 25 – (zu § 191 Satz 2)
 
@@ -8955,7 +8972,7 @@ Bodenrichtwert oder abgeleiteter Bodenwert in EUR/m² nach § 179 Satz 4
 
 Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
-(+++ Anlage 25: Zur Anwendung vgl. § 265 Abs. 10 +++)
+(+++ Anlage 25: Zur Anwendung vgl. § 265 +++)
 
 # Anlage 26 – (zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)Abzinsungsfaktoren
 

@@ -392,5 +392,3 @@ A) Warenhäuser, Selbstbedienungs- und Fachmärkte, Hotels, Kliniken, Rehabilita
 B) Produktionsimmobilien:
 
 1,0 Prozentpunkte.
-
-# Anlage 4 – (weggefallen)

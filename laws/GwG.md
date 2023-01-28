@@ -1018,22 +1018,6 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die technischen Einzelheiten zu Einrichtung und Führung des Transparenzregisters einschließlich der Speicherung historischer Datensätze sowie die Einhaltung von Löschungsfristen für die im Transparenzregister gespeicherten Daten zu regeln.
 
-# § 18 – Einrichtung des Transparenzregisters und registerführende Stelle
-
-(1) Es wird ein Register zur Erfassung und Zugänglichmachung von Angaben über den wirtschaftlich Berechtigten (Transparenzregister) eingerichtet.
-
-(2) Das Transparenzregister wird als hoheitliche Aufgabe des Bundes von der registerführenden Stelle elektronisch geführt. Daten, die im Transparenzregister gespeichert sind, werden als chronologische Datensammlung angelegt.
-
-(3) Ist eine Mitteilung nach § 20 unvollständig, unklar oder bestehen Zweifel, welcher Vereinigung nach § 20 Absatz 1 die in der Mitteilung enthaltenen Angaben zum wirtschaftlich Berechtigten zuzuordnen sind, kann die registerführende Stelle von der in der Mitteilung genannten Vereinigung verlangen, dass diese die für eine Eintragung in das Transparenzregister erforderlichen Informationen innerhalb einer angemessenen Frist übermittelt. Dies gilt entsprechend für Mitteilungen von Rechtsgestaltungen nach § 21.
-
-(3a) Die registerführende Stelle ist berechtigt, der Behörde nach § 56 Absatz 5 Satz 2 die Informationen und Unterlagen zu übermitteln, die für die Erfüllung der Aufgaben der Behörde nach § 56 Absatz 5 Satz 2 erforderlich sind.
-
-(4) Die registerführende Stelle erstellt auf Antrag Ausdrucke von Daten, die im Transparenzregister gespeichert sind, und Bestätigungen, dass im Transparenzregister keine aktuelle Eintragung aufgrund einer Mitteilung nach § 20 Absatz 1 oder § 21 vorliegt. Sie beglaubigt auf Antrag, dass die übermittelten Daten mit dem Inhalt des Transparenzregisters übereinstimmen. Mit der Beglaubigung ist keine Gewähr für die Richtigkeit und Vollständigkeit der Angaben zum wirtschaftlich Berechtigten verbunden. Ein Antrag auf Ausdruck von Daten, die lediglich über das Transparenzregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 9 zugänglich gemacht werden, kann auch über das Transparenzregister an das Gericht vermittelt werden. Dies gilt entsprechend für die Vermittlung eines Antrags auf Ausdruck von Daten, die gemäß § 22 Absatz 1 Satz 1 Nummer 2 und 3 zugänglich gemacht werden, an den Betreiber des Unternehmensregisters.
-
-(5) Die registerführende Stelle erstellt ein Informationssicherheitskonzept für das Transparenzregister, aus dem sich die getroffenen technischen und organisatorischen Maßnahmen zum Datenschutz ergeben.
-
-(6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die technischen Einzelheiten zu Einrichtung und Führung des Transparenzregisters einschließlich der Speicherung historischer Datensätze sowie die Einhaltung von Löschungsfristen für die im Transparenzregister gespeicherten Daten zu regeln.
-
 # § 19 – Angaben zum wirtschaftlich Berechtigten
 
 (1) Im Transparenzregister sind im Hinblick auf Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 folgende Angaben zum wirtschaftlich Berechtigten nach Maßgabe des § 23 zugänglich:
@@ -1225,36 +1209,6 @@ Eine Eintragung durch die registerführende Stelle nach Absatz 1 wird nicht vorg
 Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 8, die aus dem Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister oder Vereinsregister elektronisch abrufbar sind.
 
 (2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 bis 8 über die Internetseite des Transparenzregisters zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen Daten (Indexdaten) zu übermitteln. Der Betreiber des Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 und 3 dem Transparenzregister. Die Landesjustizverwaltungen übermitteln die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 4 bis 8 dem Transparenzregister. Die Indexdaten dienen nur der Zugangsvermittlung und dürfen nicht zugänglich gemacht werden.
-
-(3) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz für die Datenübermittlung nach Absatz 2 Satz 3 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, technische Einzelheiten der Datenübermittlung zwischen den Behörden der Länder und dem Transparenzregister einschließlich der Vorgaben für die zu verwendenden Datenformate und zur Sicherstellung von Datenschutz und Datensicherheit zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht sind ausgeschlossen.
-
-(4) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Registrierungsverfahren für die Mitteilungsverpflichteten nach den §§ 20 und 21 sowie technische Einzelheiten der Datenübermittlung nach Absatz 2 Satz 2 sowie nach den §§ 20 und 21 einschließlich der Vorgaben für die zu verwendenden Datenformate und Formulare sowie zur Sicherstellung von Datenschutz und Datensicherheit zu regeln.
-
-# § 22 – Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung
-
-(1) Über die Internetseite des Transparenzregisters sind nach Maßgabe des § 23 zugänglich:
-
-1. Eintragungen im Transparenzregister zu Meldungen nach § 20 Absatz 1 Satz 1 und nach § 21 sowie Immobilien nach § 19a,
-
-2. Bekanntmachungen des Bestehens einer Beteiligung nach § 20 Absatz 6 des Aktiengesetzes,
-
-3. Stimmrechtsmitteilungen nach den §§ 40 und 41 des Wertpapierhandelsgesetzes,
-
-4. Listen der Gesellschafter von Gesellschaften mit beschränkter Haftung und Unternehmergesellschaften nach § 8 Absatz 1 Nummer 3, § 40 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sowie Gesellschafterverträge gemäß § 8 Absatz 1 Nummer 1 in Verbindung mit § 2 Absatz 1a Satz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, sofern diese als Gesellschafterliste gelten, nach § 2 Absatz 1a Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung,
-
-5. Eintragungen im Handelsregister,
-
-6. Eintragungen im Partnerschaftsregister,
-
-7. Eintragungen im Genossenschaftsregister,
-
-8. Eintragungen im Vereinsregister,
-
-9. Eintragungen in das Gesellschaftsregister.
-
-Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 9, die aus dem Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister oder Vereinsregister elektronisch abrufbar sind.
-
-(2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 bis 9 über die Internetseite des Transparenzregisters zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen Daten (Indexdaten) zu übermitteln. Der Betreiber des Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 und 3 dem Transparenzregister. Die Landesjustizverwaltungen übermitteln die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 4 bis 8 dem Transparenzregister. Die Indexdaten dienen nur der Zugangsvermittlung und dürfen nicht zugänglich gemacht werden.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz für die Datenübermittlung nach Absatz 2 Satz 3 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, technische Einzelheiten der Datenübermittlung zwischen den Behörden der Länder und dem Transparenzregister einschließlich der Vorgaben für die zu verwendenden Datenformate und zur Sicherstellung von Datenschutz und Datensicherheit zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht sind ausgeschlossen.
 
