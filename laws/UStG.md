@@ -2431,7 +2431,7 @@ Bei Steueranmeldungen im Sinne von § 18 Abs. 1 und 3 kann die Zustimmung nach �
 
 Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuerbeträgen entsprechend der Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung der Mehrwertsteuer gemäß der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung, sondern in einem anderen Mitgliedstaat ansässige Steuerpflichtige (ABl. EU Nr. L 44 S. 23) in einem anderen Mitgliedstaat stellen kann, hat diesen Antrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung dem Bundeszentralamt für Steuern zu übermitteln. In diesem hat er die Steuer für den Vergütungszeitraum selbst zu berechnen. § 18 Absatz 4f ist entsprechend anzuwenden. Leitet das Bundeszentralamt für Steuern den Antrag nicht an den Mitgliedstaat der Erstattung weiter, ist der Bescheid über die Ablehnung dem Antragsteller durch Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach Satz 4 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
 
-(+++ § 18g: Zur Anwendung vgl. § 27 Abs. 14 +++)
+(+++ § 18g: Zur Anwendung vgl. § 27 +++)
 
 # § 18h – Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
 

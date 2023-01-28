@@ -173,7 +173,7 @@ die nach § 2 Absatz 2 Satz 1 und § 2 Absatz 3 Satz 1, § 5 Absatz 2 bis 4 oder
 
 (5) Vier Wochen vor Erteilung einer Auskunft an die gemäß Absatz 3 Auskunft ersuchende Person hat das Bundesinstitut für Arzneimittel und Medizinprodukte den Samenspender über die anstehende Auskunftserteilung zu informieren. Vor der Information des Samenspenders hat das Bundesinstitut für Arzneimittel und Medizinprodukte eine Anfrage zu den Anschriftsdaten des Samenspenders bei der Meldebehörde durchzuführen. Die Pflicht nach Satz 2 besteht nur im Zusammenhang mit dem ersten Auskunftsersuchen. Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt eine Auskunft an die gemäß Absatz 3 Auskunft ersuchende Person auch dann, wenn die Information des Samenspenders nach Satz 1 fehlschlägt.
 
-(6) Das Bundesinstitut für Arzneimittel und Medizinproduktekann für die Erteilung von Auskünften aus dem Samenspenderregister Entgelte verlangen.
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für die Erteilung von Auskünften aus dem Samenspenderregister Entgelte verlangen.
 
 # § 11 – Auskunfts- und Berichtigungsansprüche
 

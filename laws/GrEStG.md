@@ -129,8 +129,7 @@ Von der Besteuerung sind ausgenommen:
 
 (3) Die Absätze 1 und 2 sind insoweit nicht anzuwenden, als sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von zehn Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Satz 1 gilt nicht, soweit allein durch den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union sich der Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von fünf Jahren nach dem Übergang des Grundstücks auf die Gesamthand vermindert. Bei der Anwendung des Satzes 1 gilt die Ausübung der Option nach § 1a des Körperschaftsteuergesetzes als Verminderung des Anteils des Veräußerers am Vermögen der Gesamthand, wenn die Option innerhalb der jeweils für Satz 1 geltenden Frist ausgeübt und wirksam wird.
 
-(+++ § 5: Zur Anwendung vgl. § 23 +++)  
-§ 5 Abs. 3 Kursivdruck: Gem. Art. 1 Nr. 2 G v. 12.5.2021 I 986 wird mWv 1.7.2021 das Wort "fünf" durch das Wort "zehn" ersetzt. Der Änderungsbefehl ist nicht ausführbar, da das Wort "fünf" sowohl in Satz 1 als auch in Satz 2 vorhanden ist und eine nähere Präzisierung der zu ändernden Textstelle fehlt.
+(+++ § 5: Zur Anwendung vgl. § 23 +++)
 
 # § 6 – Übergang von einer Gesamthand
 
@@ -526,7 +525,7 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (23) Bei der Anwendung des § 1 Absatz 2b bleiben Übergänge von Anteilen der Gesellschaft, die vor dem 1. Juli 2021 erfolgen, unberücksichtigt.
 
-(24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
+(24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
 
 # §§ 24 bis 27 – (weggefallen)
 
