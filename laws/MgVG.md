@@ -115,6 +115,10 @@ Nichtaufnahme oder Abbruch der Verhandlungen
 
 Niederschrift
 
+§ 19a
+
+Information über das Verhandlungsergebnis
+
 § 20
 
 Kosten des besonderen Verhandlungsgremiums
@@ -177,7 +181,7 @@ Tendenzunternehmen
 
 Kapitel 3
 
-Verhältnis zum nationalen Recht
+Ergänzende Vorschriften
 
  
 
@@ -187,7 +191,11 @@ Fortbestehen nationaler Arbeitnehmervertretungsstrukturen
 
 § 30
 
-Nachfolgende innerstaatliche Verschmelzungen
+Nachfolgende innerstaatliche Umwandlungen
+
+§ 30a
+
+Nachfolgende grenzüberschreitende Umwandlungen
 
  
 
@@ -213,7 +221,7 @@ Errichtungs- und Tätigkeitsschutz
 
 Teil 5
 
-Straf- und Bußgeldvorschriften
+Straf- und Bußgeldvorschriften, Übergangsvorschrift
 
  
 
@@ -225,13 +233,17 @@ Strafvorschriften
 
 Bußgeldvorschriften
 
+§ 36
+
+Übergangsvorschrift
+
 # § 1 – Zielsetzung des Gesetzes
 
 (1) Das Gesetz regelt die Mitbestimmung der Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) in den Unternehmensorganen der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft. Ziel des Gesetzes ist, die in den an der Verschmelzung beteiligten Gesellschaften erworbenen Mitbestimmungsrechte der Arbeitnehmer zu sichern. Diese Rechte sind maßgeblich für die Ausgestaltung der Mitbestimmung in der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft.
 
 (2) Wenn das nationale Recht des Mitgliedstaats, in dem die aus einer grenzüberschreitenden Verschmelzung hervorgehende Gesellschaft ihren Sitz hat, keinen ausreichenden Schutz zur Sicherung der Mitbestimmung der Arbeitnehmer gewährt, wird eine Vereinbarung über die Mitbestimmung der Arbeitnehmer in der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft getroffen. Kommt es nicht zu einer Vereinbarung, wird die Mitbestimmung der Arbeitnehmer kraft Gesetzes sichergestellt.
 
-(3) Die Vorschriften dieses Gesetzes sowie die nach Absatz 2 zu treffende Vereinbarung sind so auszulegen, dass das Ziel der Europäischen Gemeinschaft, die Mitbestimmung der Arbeitnehmer in der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft sicherzustellen, gefördert wird.
+(3) Die Vorschriften dieses Gesetzes sowie die nach Absatz 2 zu treffende Vereinbarung sind so auszulegen, dass das Ziel der Europäischen Union, die Mitbestimmung der Arbeitnehmer in der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft sicherzustellen, gefördert wird.
 
 # § 2 – Begriffsbestimmungen
 
@@ -239,7 +251,7 @@ Bußgeldvorschriften
 
 (2) Beteiligte Gesellschaften sind die Kapitalgesellschaften, die unmittelbar an der Verschmelzung beteiligt sind.
 
-(3) Tochtergesellschaften sind rechtlich selbstständige Unternehmen, auf die eine andere Gesellschaft einen beherrschenden Einfluss im Sinne von Artikel 3 Abs. 2 bis 7 der Richtlinie 94/45/EG des Rates vom 22. September 1994 über die Einsetzung eines Europäischen Betriebsrates oder die Schaffung eines Verfahrens zur Unterrichtung und Anhörung der Arbeitnehmer in gemeinschaftsweit operierenden Unternehmen und Unternehmensgruppen (ABl. EG Nr. L 254 S. 64) ausüben kann. § 6 Abs. 2 bis 4 des Europäische Betriebsräte-Gesetzes vom 28. Oktober 1996 (BGBl. I S. 1548, 2022) ist anzuwenden.
+(3) Tochtergesellschaften sind rechtlich selbständige Unternehmen, auf die eine andere Gesellschaft einen beherrschenden Einfluss im Sinne von Artikel 3 Absatz 2 bis 7 der Richtlinie 2009/38/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Einsetzung eines Europäischen Betriebsrats oder die Schaffung eines Verfahrens zur Unterrichtung und Anhörung der Arbeitnehmer in gemeinschaftsweit operierenden Unternehmen und Unternehmensgruppen (ABl. L 122 vom 16.5.2009, S. 28), die zuletzt durch die Richtlinie (EU) 2015/1794 vom 6. Oktober 2015 (ABl. L 263 vom 8.10.2015, S. 1) geändert worden ist, ausüben kann. § 6 Absatz 2 bis 4 des Europäische Betriebsräte-Gesetzes ist anzuwenden.
 
 (4) Betroffene Tochtergesellschaften oder betroffene Betriebe sind Tochtergesellschaften oder Betriebe einer beteiligten Gesellschaft, die zu Tochtergesellschaften oder Betrieben der aus einer grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft werden sollen.
 
@@ -252,6 +264,10 @@ Bußgeldvorschriften
 1. die Wahrnehmung des Rechts, einen Teil der Mitglieder des Aufsichts- oder Verwaltungsorgans der Gesellschaft zu wählen oder zu bestellen, oder
 
 2. die Wahrnehmung des Rechts, die Bestellung eines Teils oder aller Mitglieder des Aufsichts- oder Verwaltungsorgans der Gesellschaft zu empfehlen oder abzulehnen.
+
+(8) Eine grenzüberschreitende Verschmelzung ist eine Verschmelzung nach dem Ersten Teil des Sechsten Buches des Umwandlungsgesetzes.
+
+(9) Eine innerstaatliche Umwandlung ist eine Verschmelzung nach dem Zweiten Buch des Umwandlungsgesetzes, eine Spaltung nach dem Dritten Buch des Umwandlungsgesetzes oder ein Formwechsel nach dem Fünften Buch des Umwandlungsgesetzes.
 
 # § 3 – Geltungsbereich
 
@@ -267,7 +283,7 @@ Vorbehaltlich des § 5 finden auf die aus einer grenzüberschreitenden Verschmel
 
 Die nachfolgenden Regelungen über die Mitbestimmung der Arbeitnehmer kraft Vereinbarung oder in den Fällen des § 23 die Regelungen über die Mitbestimmung kraft Gesetzes finden Anwendung, wenn
 
-1. in den sechs Monaten vor der Veröffentlichung des Verschmelzungsplans mindestens eine der beteiligten Gesellschaften durchschnittlich mehr als 500 Arbeitnehmer beschäftigt und in dieser Gesellschaft ein System der Mitbestimmung im Sinne des § 2 Abs. 7 besteht;
+1. mindestens eine der beteiligten Gesellschaften in den sechs Monaten vor der Offenlegung des Verschmelzungsplans eine durchschnittliche Zahl von Arbeitnehmern beschäftigt, die mindestens vier Fünfteln des im Recht des Mitgliedstaats dieser Gesellschaft festgelegten Schwellenwerts entspricht, der die Mitbestimmung der Arbeitnehmer auslöst;
 
 2. das für die aus einer grenzüberschreitenden Verschmelzung hervorgehende Gesellschaft maßgebende innerstaatliche Recht nicht mindestens den gleichen Umfang an Mitbestimmung der Arbeitnehmer vorsieht, wie er in den jeweiligen an der Verschmelzung beteiligten Gesellschaften bestand; der Umfang an Mitbestimmung der Arbeitnehmer bemisst sich nach dem Anteil der Arbeitnehmervertreter
 
@@ -293,9 +309,13 @@ oder
 
 2. die in diesen Gesellschaften und Betrieben bestehenden Arbeitnehmervertretungen,
 
-3. die Zahl der in diesen Gesellschaften und Betrieben jeweils beschäftigten Arbeitnehmer sowie die daraus zu errechnende Gesamtzahl der in einem Mitgliedstaat beschäftigten Arbeitnehmer und
+3. die Zahl der in diesen Gesellschaften und Betrieben jeweils beschäftigten Arbeitnehmer sowie die daraus zu errechnende Gesamtzahl der in einem Mitgliedstaat beschäftigten Arbeitnehmer,
 
-4. die Zahl der Arbeitnehmer, denen Mitbestimmungsrechte in den Organen dieser Gesellschaften zustehen.
+4. die Zahl der Arbeitnehmer, denen Mitbestimmungsrechte in den Organen dieser Gesellschaften zustehen,
+
+5. die Angabe, ob die Voraussetzungen des § 5 Nummer 1 vorliegen, sowie alle Angaben, die für diese Feststellung erforderlich sind, und
+
+6. die Angabe, ob die Leitungen nach § 15 Absatz 3 entschieden haben, ohne vorhergehende Verhandlung unmittelbar die Regelungen der §§ 23 bis 28 über die Mitbestimmung kraft Gesetzes anzuwenden.
 
 (4) Maßgeblicher Zeitpunkt für die Ermittlung der Zahl der Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 2.
 
@@ -313,7 +333,7 @@ oder
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen Verhandlungsgremiums richten sich nach den jeweiligen Bestimmungen der Mitgliedstaaten, in denen sie gewählt oder bestellt werden.
 
-(2) Zu Mitgliedern des besonderen Verhandlungsgremiums wählbar sind im Inland Arbeitnehmer der Gesellschaften und Betriebe sowie Gewerkschaftsvertreter. Frauen und Männer sollen entsprechend ihrem zahlenmäßigen Verhältnis gewählt werden. Für jedes Mitglied ist ein Ersatzmitglied zu wählen.
+(2) Zu Mitgliedern des besonderen Verhandlungsgremiums wählbar sind im Inland Arbeitnehmer der beteiligten Gesellschaften, der betroffenen Tochtergesellschaften und betroffenen Betriebe sowie Gewerkschaftsvertreter. Frauen und Männer sollen entsprechend ihrem zahlenmäßigen Verhältnis gewählt werden. Für jedes Mitglied ist ein Ersatzmitglied zu wählen.
 
 (3) Gehören dem besonderen Verhandlungsgremium mehr als zwei Mitglieder aus dem Inland an, ist jedes dritte Mitglied ein Vertreter einer Gewerkschaft, die in einer an der Verschmelzung beteiligten Gesellschaft, betroffenen Tochtergesellschaft oder einem betroffenen Betrieb vertreten ist.
 
@@ -333,7 +353,7 @@ oder
 
 # § 10 – Zusammensetzung des Wahlgremiums; Urwahl
 
-(1) Die nach diesem Gesetz oder dem Gesetz eines anderen Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der Verschmelzung beteiligten Gesellschaften, betroffenen Tochtergesellschaften und betroffenen Betriebe entfallenden Mitglieder des besonderen Verhandlungsgremiums werden von einem Wahlgremium in geheimer und unmittelbarer Wahl gewählt. Im Fall des § 8 Abs. 3 ist jedes dritte Mitglied auf Vorschlag einer Gewerkschaft zu wählen, die in einer an der Verschmelzung beteiligten Gesellschaft, einer betroffenen Tochtergesellschaft oder einem betroffenen Betrieb vertreten ist. Wird nur ein Wahlvorschlag gemacht, muss dieser mindestens doppelt so viele Bewerber enthalten wie Vertreter von Gewerkschaften zu wählen sind. Jeder Wahlvorschlag einer Gewerkschaft muss von einem Vertreter der Gewerkschaft unterzeichnet sein. Im Fall des § 8 Abs. 4 ist jedes siebte Mitglied auf Vorschlag der Sprecherausschüsse zu wählen; Satz 3 gilt entsprechend. Besteht in einer beteiligten Gesellschaft oder in einer der beteiligten Tochtergesellschaften oder den betroffenen Betrieben kein Sprecherausschuss, können die leitenden Angestellten Wahlvorschläge machen; ein Wahlvorschlag muss von einem Zwanzigstel oder 50 der wahlberechtigten leitenden Angestellten unterzeichnet sein.
+(1) Die nach diesem Gesetz oder dem Gesetz eines anderen Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der Verschmelzung beteiligten Gesellschaften, betroffenen Tochtergesellschaften und betroffenen Betriebe entfallenden Mitglieder des besonderen Verhandlungsgremiums werden von einem Wahlgremium in geheimer und unmittelbarer Wahl gewählt. Im Fall des § 8 Abs. 3 ist jedes dritte Mitglied auf Vorschlag einer Gewerkschaft zu wählen, die in einer an der Verschmelzung beteiligten Gesellschaft, einer betroffenen Tochtergesellschaft oder einem betroffenen Betrieb vertreten ist. Wird nur ein Wahlvorschlag gemacht, muss dieser mindestens doppelt so viele Bewerber enthalten wie Vertreter von Gewerkschaften zu wählen sind. Jeder Wahlvorschlag einer Gewerkschaft muss von einem Vertreter der Gewerkschaft unterzeichnet sein. Im Fall des § 8 Abs. 4 ist jedes siebte Mitglied auf Vorschlag der Sprecherausschüsse zu wählen; Satz 3 gilt entsprechend. Besteht in einer der beteiligten Gesellschaften und in ihren betroffenen Tochtergesellschaften und in ihren betroffenen Betrieben kein Sprecherausschuss, können die leitenden Angestellten Wahlvorschläge machen; ein Wahlvorschlag muss von einem Zwanzigstel oder von 50 der wahlberechtigten inländischen leitenden Angestellten unterzeichnet sein.
 
 (2) Ist aus dem Inland nur eine Unternehmensgruppe an der Verschmelzung beteiligt, besteht das Wahlgremium aus den Mitgliedern des Konzernbetriebsrates oder, sofern ein solcher nicht besteht, aus den Mitgliedern der Gesamtbetriebsräte oder, sofern ein solcher in einem Unternehmen nicht besteht, aus den Mitgliedern des Betriebsrates. Betriebsratslose Betriebe und Unternehmen einer Unternehmensgruppe werden vom Konzernbetriebsrat, Gesamtbetriebsrat oder Betriebsrat mit vertreten.
 
@@ -375,7 +395,7 @@ oder
 
 # § 14 – Sitzungen; Geschäftsordnung
 
-(1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder oder im Fall des § 13 nach Ablauf der in § 13 Abs. 1 Satz 1 genannten Frist zur konstituierenden Sitzung des besonderen Verhandlungsgremiums ein und informieren die örtlichen Betriebs- und Unternehmensleitungen. Das besondere Verhandlungsgremium wählt aus seiner Mitte einen Vorsitzenden und mindestens zwei Stellvertreter. Es kann sich eine schriftliche Geschäftsordnung geben.
+(1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder oder im Fall des § 13 Absatz 2 nach Ablauf der in § 13 Abs. 1 Satz 1 genannten Frist zur konstituierenden Sitzung des besonderen Verhandlungsgremiums ein und informieren die örtlichen Betriebs- und Unternehmensleitungen. Das besondere Verhandlungsgremium wählt aus seiner Mitte einen Vorsitzenden und mindestens zwei Stellvertreter. Es kann sich eine schriftliche Geschäftsordnung geben.
 
 (2) Der Vorsitzende kann weitere Sitzungen einberufen.
 
@@ -385,9 +405,11 @@ oder
 
 (2) Die Leitungen haben dem besonderen Verhandlungsgremium rechtzeitig alle erforderlichen Auskünfte zu erteilen und die erforderlichen Unterlagen zur Verfügung zu stellen. Das besondere Verhandlungsgremium ist insbesondere über das Verschmelzungsvorhaben und den Verlauf des Verfahrens bis zur Eintragung der aus der grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft zu unterrichten. Zeitpunkt, Häufigkeit und Ort der Verhandlungen werden zwischen den Leitungen und dem besonderen Verhandlungsgremium einvernehmlich festgelegt.
 
+(3) Die Leitungen der beteiligten Gesellschaften können entscheiden, auf Verhandlungen mit dem besonderen Verhandlungsgremium zu verzichten und gemäß § 23 Absatz 1 Satz 1 Nummer 3 unmittelbar die Regelungen der §§ 23 bis 28 über die Mitbestimmung kraft Gesetzes anzuwenden. Satz 1 gilt nicht, wenn im Fall des § 5 Nummer 1 in keiner der beteiligten Gesellschaften eine Mitbestimmung der Arbeitnehmer besteht.
+
 # § 16 – Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
 
-(1) Das besondere Verhandlungsgremium kann bei den Verhandlungen Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen Gewerkschaftsorganisationen auf Gemeinschaftsebene zählen können, hinzuziehen, um sich von ihnen bei seiner Arbeit unterstützen zu lassen. Diese Sachverständigen können, wenn das besondere Verhandlungsgremium es wünscht, an den Verhandlungen in beratender Funktion teilnehmen.
+(1) Das besondere Verhandlungsgremium kann bei den Verhandlungen Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen Gewerkschaftsorganisationen auf Unionsebene zählen können, hinzuziehen, um sich von ihnen bei seiner Arbeit unterstützen zu lassen. Diese Sachverständigen können, wenn das besondere Verhandlungsgremium es wünscht, an den Verhandlungen in beratender Funktion teilnehmen.
 
 (2) Das besondere Verhandlungsgremium kann beschließen, die Vertreter von geeigneten außenstehenden Organisationen vom Beginn der Verhandlungen zu unterrichten.
 
@@ -395,7 +417,7 @@ oder
 
 (1) Die Mitglieder des besonderen Verhandlungsgremiums, die in einem Mitgliedstaat gewählt oder bestellt werden, vertreten alle in dem jeweiligen Mitgliedstaat beschäftigten Arbeitnehmer. Solange aus einem Mitgliedstaat keine Mitglieder in das besondere Verhandlungsgremium gewählt oder bestellt sind (§ 13 Abs. 2), gelten die betroffenen Arbeitnehmer als nicht vertreten.
 
-(2) Das besondere Verhandlungsgremium beschließt vorbehaltlich des Absatzes 3 und § 18 Abs. 1 mit der Mehrheit seiner Mitglieder, in der zugleich die Mehrheit der vertretenen Arbeitnehmer enthalten sein muss. Jedes auf das Inland entfallende Mitglied vertritt gleich viele Arbeitnehmer.
+(2) Das besondere Verhandlungsgremium beschließt vorbehaltlich des Absatzes 3 und § 18 mit der Mehrheit seiner Mitglieder, in der zugleich die Mehrheit der vertretenen Arbeitnehmer enthalten sein muss. Jedes auf das Inland entfallende Mitglied vertritt gleich viele Arbeitnehmer.
 
 (3) Hätten die Verhandlungen eine Minderung der Mitbestimmungsrechte zur Folge, so ist für einen Beschluss zur Billigung einer solchen Vereinbarung eine Mehrheit von zwei Dritteln der Mitglieder des besonderen Verhandlungsgremiums erforderlich, die mindestens zwei Drittel der Arbeitnehmer in mindestens zwei Mitgliedstaaten vertreten. Dies gilt, sofern sich die Mitbestimmung auf mindestens 25 Prozent der Gesamtzahl der Arbeitnehmer der beteiligten Gesellschaften und der betroffenen Tochtergesellschaften erstreckt.
 
@@ -428,6 +450,10 @@ In eine Niederschrift, die vom Vorsitzenden und einem weiteren Mitglied des beso
 3. die jeweiligen Mehrheiten, mit denen die Beschlüsse gefasst worden sind.
 
 Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
+
+# § 19a – Information über das Verhandlungsergebnis
+
+Die Leitungen informieren die Arbeitnehmervertretungen, die Sprecherausschüsse sowie die in inländischen Betrieben vertretenen Gewerkschaften unverzüglich über das Ergebnis der Verhandlungen nach § 19 Satz 1 Nummer 1 oder Nummer 2. Besteht keine Arbeitnehmervertretung, erfolgt die Information gegenüber den Arbeitnehmern.
 
 # § 20 – Kosten des besonderen Verhandlungsgremiums
 
@@ -509,7 +535,7 @@ In den Fällen des Satzes 1 Nr. 2 und 3 muss vor der Eintragung der aus der gren
 
 Für das Abberufungsverfahren gelten die §§ 10 bis 12 entsprechend mit der Maßgabe, dass an die Stelle der beteiligten Gesellschaften, betroffenen Tochtergesellschaften und betroffenen Betriebe die aus der grenzüberschreitenden Verschmelzung hervorgehende Gesellschaft, ihre Tochtergesellschaften und Betriebe treten; abweichend von § 10 Abs. 5 und § 12 Abs. 1 Satz 3 bedarf der Beschluss einer Mehrheit von drei Vierteln der abgegebenen Stimmen.
 
-(2) Die Wahl eines Mitglieds oder eines Ersatzmitglieds der Arbeitnehmer aus dem Inland im Aufsichts- oder Verwaltungsorgan kann angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte. Zur Anfechtung berechtigt sind die in Absatz 1 Satz 2 Genannten und die Leitung der aus der grenzüberschreitenden Verschmelzung hervorgegangenen Gesellschaft. Die Klage muss innerhalb eines Monats nach der Bekanntgabe gemäß § 25 Abs. 3 Satz 2 oder 3 erhoben werden.
+(2) Die Wahl eines Mitglieds oder eines Ersatzmitglieds der Arbeitnehmer aus dem Inland im Aufsichts- oder Verwaltungsorgan kann angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte. Zur Anfechtung berechtigt sind die in Absatz 1 Satz 2 Genannten und die Leitung der aus der grenzüberschreitenden Verschmelzung hervorgegangenen Gesellschaft. Die Klage muss innerhalb eines Monats nach der Bekanntgabe gemäß § 25 Abs. 3 Satz 3 oder 4 erhoben werden.
 
 # § 27 – Rechtsstellung; Innere Ordnung
 
@@ -527,15 +553,31 @@ Auf eine aus einer grenzüberschreitenden Verschmelzung hervorgehende Gesellscha
 
 2. Zwecken der Berichterstattung oder Meinungsäußerung, auf die Artikel 5 Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist,
 
-dient, finden Kapitel 2 und § 30 keine Anwendung.
+dient, findet Kapitel 2 keine Anwendung.
 
 # § 29 – Fortbestehen nationaler Arbeitnehmervertretungsstrukturen
 
 Regelungen über die Arbeitnehmervertretungen und deren Strukturen in einer beteiligten Gesellschaft mit Sitz im Inland, die durch die Verschmelzung als eigenständige juristische Person erlischt, bestehen nach Eintragung der aus der grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft fort. Die Leitung der aus der grenzüberschreitenden Verschmelzung hervorgegangenen Gesellschaft stellt sicher, dass diese Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
 
-# § 30 – Nachfolgende innerstaatliche Verschmelzungen
+# § 30 – Nachfolgende innerstaatliche Umwandlungen
 
-Bei innerstaatlichen Verschmelzungen, die einer grenzüberschreitenden Verschmelzung nachfolgen, richtet sich die Mitbestimmung der Arbeitnehmer entsprechend § 4 nach den nationalen Regelungen. Sehen diese Regelungen nicht mindestens den in der aus der grenzüberschreitenden Verschmelzung hervorgegangenen Gesellschaft bestehenden Umfang an Mitbestimmung im Sinne des § 5 Nr. 2 vor, gelten die für diese Gesellschaft maßgeblichen Regelungen über die Mitbestimmung für die Dauer von drei Jahren ab deren Eintragung in der aus der innerstaatlichen Verschmelzung hervorgehenden Gesellschaft fort.
+(1) Besteht in der aus der grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft eine Mitbestimmung der Arbeitnehmer, so finden die Vorschriften dieses Gesetzes entsprechende Anwendung auf innerstaatliche Umwandlungen, für die innerhalb von vier Jahren nach Wirksamwerden der grenzüberschreitenden Verschmelzung
+
+1. ein Verschmelzungsvertrag (§ 5 des Umwandlungsgesetzes) geschlossen wird,
+
+2. ein Spaltungs- und Übernahmevertrag (§ 126 des Umwandlungsgesetzes) geschlossen wird,
+
+3. ein Spaltungsplan (§ 136 des Umwandlungsgesetzes) aufgestellt wird oder
+
+4. ein Formwechselbeschluss (§ 193 des Umwandlungsgesetzes) gefasst wird.
+
+(2) Anstelle der §§ 9 und 10 finden im Fall einer Spaltung nach dem Dritten Buch des Umwandlungsgesetzes oder im Fall eines Formwechsels nach dem Fünften Buch des Umwandlungsgesetzes die §§ 7, 10 und 11 des Gesetzes über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung entsprechende Anwendung.
+
+# § 30a – Nachfolgende grenzüberschreitende Umwandlungen
+
+(1) Die Vorschriften dieses Gesetzes finden Anwendung, wenn eine aus einer grenzüberschreitenden Verschmelzung hervorgegangene Gesellschaft an einer weiteren grenzüberschreitenden Verschmelzung beteiligt ist und die daraus hervorgehende Gesellschaft ihren Sitz im Inland hat.
+
+(2) Die Vorschriften dieses Gesetzes finden Anwendung, wenn eine aus einem grenzüberschreitenden Formwechsel oder einer grenzüberschreitenden Spaltung hervorgegangene Gesellschaft an einer weiteren grenzüberschreitenden Verschmelzung beteiligt ist und die daraus hervorgehende Gesellschaft ihren Sitz im Inland hat. Wird der Verschmelzungsvertrag (§ 5 des Umwandlungsgesetzes) innerhalb von vier Jahren nach Wirksamwerden des grenzüberschreitenden Formwechsels oder der grenzüberschreitenden Spaltung geschlossen, so ist eine Minderung von Mitbestimmungsrechten durch Vereinbarung (§ 17 Absatz 3 und 4) ausgeschlossen und findet für die Mitbestimmung kraft Gesetzes § 23 Absatz 1 Satz 2 keine Anwendung.
 
 # § 31 – Geheimhaltung; Vertraulichkeit
 
@@ -600,3 +642,7 @@ Niemand darf
 (1) Ordnungswidrig handelt, wer entgegen § 6 Abs. 2 oder § 7 Abs. 4 Satz 2 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
+
+# § 36 – Übergangsvorschrift
+
+Auf grenzüberschreitende Verschmelzungen, für die ein Verschmelzungsvertrag vor dem 31. Januar 2023 geschlossen wurde, ist dieses Gesetz in der bis zum Ablauf des 30. Januar 2023 geltenden Fassung anzuwenden.

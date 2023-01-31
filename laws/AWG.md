@@ -833,9 +833,7 @@ Die nach § 13 zuständigen Behörden tragen die Verantwortung für die Zulässi
 
 (3) In einer Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes sind für individuell zurechenbare öffentliche Leistungen des Bundesministeriums für Wirtschaft und Energie und des Bundesamts für Wirtschaft und Ausfuhrkontrolle nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Gebühren ab dem 1. Januar 2023 zu regeln.
 
-# § 29 – Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+# § 29 – (weggefallen)
 
 # § 30 – Anwendung unmittelbar geltender Vorschriften der Europäischen Union
 
