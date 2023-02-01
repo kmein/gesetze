@@ -183,7 +183,7 @@ Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weite
 
 # § 11 – Einstellung in den Vorbereitungsdienst
 
-Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als Dienstbezeichnung die Amtsbezeichnung des Eingangsamts ihrer Laufbahn mit dem Zusatz „Anwärterin“ oder „Anwärter“, in Laufbahnen des höheren Dienstes die Dienstbezeichnung „Referendarin“ oder „Referendar“. Die für die Gestaltung des Vorbereitungsdienstes zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat andere Dienstbezeichnungen festsetzen.
+Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als Dienstbezeichnung die Amtsbezeichnung des Eingangsamts ihrer Laufbahn mit dem Zusatz „Anwärterin“ oder „Anwärter“, in Laufbahnen des höheren Dienstes die Dienstbezeichnung „Referendarin“ oder „Referendar“. Die für die Gestaltung des Vorbereitungsdienstes zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern und für Heimat andere Dienstbezeichnungen festsetzen.
 
 # § 11a – Einfacher Dienst
 
@@ -559,7 +559,7 @@ Weitere Beförderungen sind ausgeschlossen.
 
 # § 30 – Verlängerung der Probezeit
 
-(1) Die Probezeit verlängert sich um die Zeit einer Beurlaubung ohne Besoldung. Dies gilt nicht, wenn die oberste Dienstbehörde bei der Gewährung der Beurlaubung festgestellt hat, dass die Beurlaubung dienstlichen Interessen oder öffentlichen Belangen dient. Die obersten Dienstbehörden bestimmen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, unter welchen Voraussetzungen dienstliche oder öffentliche Belange anerkannt werden können.
+(1) Die Probezeit verlängert sich um die Zeit einer Beurlaubung ohne Besoldung. Dies gilt nicht, wenn die oberste Dienstbehörde bei der Gewährung der Beurlaubung festgestellt hat, dass die Beurlaubung dienstlichen Interessen oder öffentlichen Belangen dient. Die obersten Dienstbehörden bestimmen im Einvernehmen mit dem Bundesministerium des Innern und für Heimat, unter welchen Voraussetzungen dienstliche oder öffentliche Belange anerkannt werden können.
 
 (2) Die Probezeit wird nicht verlängert durch Zeiten
 

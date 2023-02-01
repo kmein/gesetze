@@ -3662,6 +3662,7 @@
 - [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
 - [MForschG](laws/MForschG.md) Gesetz über die Durchführung wissenschaftlicher Meeresforschung
 - [MfSÜPrRLBek 2022](laws/MfSÜPrRLBek_2022.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
+- [MgFSG](laws/MgFSG.md) Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung
 - [MgVG](laws/MgVG.md) Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung
 - [MgvG](laws/MgvG.md) Gesetz zur Vorbereitung der Schaffung von Baurecht durch Maßnahmengesetz im Verkehrsbereich
 - [MietNEinV](laws/MietNEinV.md) Verordnung zur Einstufung der Gemeinden in eine Mietniveaustufe im Sinne des § 254 des Bewertungsgesetzes
