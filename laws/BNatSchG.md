@@ -833,6 +833,8 @@ von herausragender Bedeutung sind. Nationale Naturmonumente sind wie Naturschutz
 
 (2) In einem Landschaftsschutzgebiet sind unter besonderer Beachtung des § 5 Absatz 1 und nach Maßgabe näherer Bestimmungen alle Handlungen verboten, die den Charakter des Gebiets verändern oder dem besonderen Schutzzweck zuwiderlaufen.
 
+(3) In einem Landschaftsschutzgebiet sind die Errichtung und der Betrieb von Windenergieanlagen sowie der zugehörigen Nebenanlagen nicht verboten, wenn sich der Standort der Windenergieanlagen in einem Windenergiegebiet nach § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) befindet. Satz 1 gilt auch, wenn die Erklärung zur Unterschutzstellung nach § 22 Absatz 1 entgegenstehende Bestimmungen enthält. Für die Durchführung eines im Übrigen zulässigen Vorhabens bedarf es insoweit keiner Ausnahme oder Befreiung. Bis gemäß § 5 des Windenergieflächenbedarfsgesetzes festgestellt wurde, dass das jeweilige Land den Flächenbeitragswert nach Anlage 1 Spalte 2 des Windenergieflächenbedarfsgesetzes oder der jeweilige regionale oder kommunale Planungsträger ein daraus abgeleitetes Teilflächenziel erreicht hat, gelten die Sätze 1 bis 3 auch außerhalb von für die Windenergienutzung ausgewiesenen Gebieten im gesamten Landschaftsschutzgebiet entsprechend. Die Sätze 1 bis 4 gelten nicht, wenn der Standort in einem Natura 2000-Gebiet oder einer Stätte, die nach Artikel 11 des Übereinkommens vom 16. November 1972 zum Schutz des Kultur- und Naturerbes der Welt (BGBl. 1977 II S. 213, 215) in die Liste des Erbes der Welt aufgenommen wurde, liegt.
+
 # § 27 – Naturparke
 
 (1) Naturparke sind einheitlich zu entwickelnde und zu pflegende Gebiete, die

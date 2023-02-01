@@ -195,7 +195,7 @@ b) Wald;
 
 (2a) Flächen zum Ausgleich im Sinne des § 1a Abs. 3 im Geltungsbereich des Flächennutzungsplans können den Flächen, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, ganz oder teilweise zugeordnet werden.
 
-(2b) Für die Zwecke des § 35 Absatz 3 Satz 3 können sachliche Teilflächennutzungspläne aufgestellt werden; sie können auch für Teile des Gemeindegebiets aufgestellt werden.
+(2b) Für die Zwecke des § 35 Absatz 3 Satz 3 oder des § 249 Absatz 2 können sachliche Teilflächennutzungspläne aufgestellt werden; sie können auch für Teile des Gemeindegebiets aufgestellt werden.
 
 (3) Im Flächennutzungsplan sollen gekennzeichnet werden:
 
@@ -387,7 +387,7 @@ Die Festsetzungen nach den Sätzen 1 und 2 können für Teile des räumlichen Ge
 
 # § 9a – Verordnungsermächtigung
 
-Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
+(1) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
 
 1. Darstellungen und Festsetzungen in den Bauleitplänen über
 
@@ -402,6 +402,8 @@ c) die Bauweise sowie die überbaubaren und die nicht überbaubaren Grundstücks
 3. die Zulässigkeit der Festsetzung nach Maßgabe des § 9 Absatz 3 über verschiedenartige Baugebiete oder verschiedenartige in den Baugebieten zulässige bauliche und sonstige Anlagen;
 
 4. die Ausarbeitung der Bauleitpläne einschließlich der dazugehörigen Unterlagen sowie über die Darstellung des Planinhalts, insbesondere über die dabei zu verwendenden Planzeichen und ihre Bedeutung.
+
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der Umweltprüfung bei der Aufstellung von Bauleitplänen. Sofern dabei auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz zu erlassen.
 
 # § 10 – Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans
 
@@ -823,7 +825,7 @@ In den Satzungen nach Absatz 4 Satz 1 Nummer 2 und 3 können einzelne Festsetzun
 
 4. wegen seiner besonderen Anforderungen an die Umgebung, wegen seiner nachteiligen Wirkung auf die Umgebung oder wegen seiner besonderen Zweckbestimmung nur im Außenbereich ausgeführt werden soll, es sei denn, es handelt sich um die Errichtung, Änderung oder Erweiterung einer baulichen Anlage zur Tierhaltung, die dem Anwendungsbereich der Nummer 1 nicht unterfällt und die einer Pflicht zur Durchführung einer standortbezogenen oder allgemeinen Vorprüfung oder einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung unterliegt, wobei bei kumulierenden Vorhaben für die Annahme eines engen Zusammenhangs diejenigen Tierhaltungsanlagen zu berücksichtigen sind, die auf demselben Betriebs- oder Baugelände liegen und mit gemeinsamen betrieblichen oder baulichen Einrichtungen verbunden sind,
 
-5. der Erforschung, Entwicklung oder Nutzung der Wind- oder Wasserenergie dient,
+5. der Erforschung, Entwicklung oder Nutzung der Windenergie nach Maßgabe des § 249 oder der Erforschung, Entwicklung oder Nutzung der Wasserenergie dient,
 
 6. der energetischen Nutzung von Biomasse im Rahmen eines Betriebs nach Nummer 1 oder 2 oder eines Betriebs nach Nummer 4, der Tierhaltung betreibt, sowie dem Anschluss solcher Anlagen an das öffentliche Versorgungsnetz dient, unter folgenden Voraussetzungen:
 
@@ -3629,6 +3631,16 @@ Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 
 
 (2) Im Anwendungsbereich des § 34 Absatz 2 ist § 14 Absatz 1a der Baunutzungsverordnung nicht anzuwenden; für die der öffentlichen Versorgung mit Telekommunikationsdienstleistungen dienenden Nebenanlagen gilt dort § 14 Absatz 2 der Baunutzungsverordnung entsprechend.
 
+# § 245e – Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land
+
+(1) Die Rechtswirkungen eines Raumordnungs- oder Flächennutzungsplans gemäß § 35 Absatz 3 Satz 3 in der bis zum 1. Februar 2023 geltenden Fassung für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, gelten vorbehaltlich des § 249 Absatz 5 Satz 2 fort, wenn der Plan bis zum 1. Februar 2024 wirksam geworden ist. Sie entfallen, soweit für den Geltungsbereich des Plans das Erreichen des Flächenbeitragswerts oder eines daraus abgeleiteten Teilflächenziels gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) festgestellt wird, spätestens aber mit Ablauf des 31. Dezember 2027. Der Plan gilt im Übrigen fort, wenn nicht im Einzelfall die Grundzüge der Planung berührt werden. Die Möglichkeit des Planungsträgers, den Plan zu ändern, zu ergänzen oder aufzuheben, bleibt unberührt. Werden in einem Flächennutzungsplan oder Raumordnungsplan zusätzliche Flächen für die Nutzung von Windenergie dargestellt, kann die Abwägung auf die Belange beschränkt werden, die durch die Darstellung der zusätzlichen Flächen berührt werden. Dabei kann von dem Planungskonzept, das der Abwägung über bereits dargestellte Flächen zu Grunde gelegt wurde, abgewichen werden, sofern die Grundzüge der Planung erhalten werden. Von der Wahrung der Grundzüge der bisherigen Planung ist regelmäßig auszugehen, wenn Flächen im Umfang von nicht mehr als 25 Prozent der schon bislang dargestellten Flächen zusätzlich dargestellt werden. § 249 Absatz 6 bleibt unberührt.
+
+(2) § 15 Absatz 3 ist entsprechend anzuwenden, wenn die Gemeinde beschlossen hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen, um den Flächenbeitragswert im Sinne des § 3 Absatz 1 des Windenergieflächenbedarfsgesetzes oder ein daraus abgeleitetes Teilflächenziel zu erreichen. Die Entscheidung kann längstens bis zum Ablauf des 31. Dezember 2027 ausgesetzt werden.
+
+(3) Die in Absatz 1 Satz 1 genannten Rechtswirkungen gemäß § 35 Absatz 3 Satz 3 können Vorhaben im Sinne des § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, nicht entgegengehalten werden, es sei denn, die Grundzüge der Planung werden berührt. Dies gilt nicht, wenn das Vorhaben in einem Natura 2000-Gebiet im Sinne des § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, oder in einem Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes verwirklicht werden soll.
+
+(4) Die in Absatz 1 Satz 1 genannten Rechtswirkungen können Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht entgegengehalten werden, wenn an der Stelle des Vorhabens in einem Planentwurf eine Ausweisung für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, vorgesehen ist, für den Planentwurf bereits eine Beteiligung nach § 3 Absatz 2, § 4 des Baugesetzbuchs oder § 9 Absatz 2 des Raumordnungsgesetzes durchgeführt wurde und anzunehmen ist, dass das Vorhaben den künftigen Ausweisungen entspricht.
+
 # § 246 – Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
 (1) In den Ländern Berlin und Hamburg entfallen die in § 6 Absatz 1, § 10 Absatz 2 und § 190 Absatz 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
@@ -3733,13 +3745,33 @@ Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne d
 
 In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Nummer 2 oder 3 sind bei Maßnahmen an bestehenden Gebäuden zum Zwecke der Energieeinsparung geringfügige Abweichungen von dem festgesetzten Maß der baulichen Nutzung, der Bauweise und der überbaubaren Grundstücksfläche zulässig, soweit dies mit nachbarlichen Interessen und baukulturellen Belangen vereinbar ist. Satz 1 gilt entsprechend für Anlagen zur Nutzung solarer Strahlungsenergie in, an und auf Dach- und Außenwandflächen. In den im Zusammenhang bebauten Ortsteilen gelten die Sätze 1 und 2 entsprechend für Abweichungen vom Erfordernis des Einfügens in die Eigenart der näheren Umgebung (§ 34 Absatz 1 Satz 1).
 
-# § 249 – Sonderregelungen zur Windenergie
+# § 249 – Sonderregelungen für Windenergieanlagen an Land
 
-(1) Werden in einem Flächennutzungsplan zusätzliche Flächen für die Nutzung von Windenergie dargestellt, folgt daraus nicht, dass die vorhandenen Darstellungen des Flächennutzungsplans zur Erzielung der Rechtswirkungen des § 35 Absatz 3 Satz 3 nicht ausreichend sind. Satz 1 gilt entsprechend bei der Änderung oder Aufhebung von Darstellungen zum Maß der baulichen Nutzung. Die Sätze 1 und 2 gelten für Bebauungspläne, die aus den Darstellungen des Flächennutzungsplans entwickelt werden, entsprechend.
+(1) § 35 Absatz 3 Satz 3 ist auf Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht anzuwenden.
 
-(2) Nach § 9 Absatz 2 Satz 1 Nummer 2 kann auch festgesetzt werden, dass die im Bebauungsplan festgesetzten Windenergieanlagen nur zulässig sind, wenn sichergestellt ist, dass nach der Errichtung der im Bebauungsplan festgesetzten Windenergieanlagen andere im Bebauungsplan bezeichnete Windenergieanlagen innerhalb einer im Bebauungsplan zu bestimmenden angemessenen Frist zurückgebaut werden. Die Standorte der zurückzubauenden Windenergieanlagen können auch außerhalb des Bebauungsplangebiets oder außerhalb des Gemeindegebiets liegen. Darstellungen im Flächennutzungsplan, die die Rechtswirkungen des § 35 Absatz 3 Satz 3 haben, können mit Bestimmungen entsprechend den Sätzen 1 und 2 mit Wirkung für die Zulässigkeit der Windenergieanlagen nach § 35 Absatz 1 Nummer 5 verbunden sein.
+(2) Außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) richtet sich die Zulässigkeit der in Absatz 1 genannten Vorhaben in einem Land nach § 35 Absatz 2, wenn das Erreichen eines in Anlage 1 des Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde. Hat ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes regionale oder kommunale Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, gilt die Rechtsfolge des Satzes 1 für das Gebiet der jeweiligen Region oder Gemeinde. Der Eintritt der Rechtsfolge der Sätze 1 und 2 ist gesetzliche Folge der Feststellung.
 
-(3) Die Länder können durch Landesgesetze bestimmen, dass § 35 Absatz 1 Nummer 5 auf Vorhaben, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nur Anwendung findet, wenn sie bestimmte Mindestabstände zu den im Landesgesetz bezeichneten zulässigen baulichen Nutzungen zu Wohnzwecken einhalten. Ein Mindestabstand nach Satz 1 darf höchstens 1 000 Meter von der Mitte des Mastfußes der Windenergieanlage bis zur nächstgelegenen im Landesgesetz bezeichneten baulichen Nutzung zu Wohnzwecken betragen. Die weiteren Einzelheiten, insbesondere zur Abstandsfestlegung und zu den Auswirkungen der festgelegten Abstände auf Ausweisungen in geltenden Flächennutzungsplänen und Raumordnungsplänen, sind in den Landesgesetzen nach Satz 1 zu regeln. Auf der Grundlage von § 249 Absatz 3 in der bis zum 14. August 2020 geltenden Fassung erlassene Landesgesetze gelten fort; sie können geändert werden, sofern die wesentlichen Elemente der in dem fortgeltenden Landesgesetz enthaltenen Regelung beibehalten werden.
+(3) Die Rechtsfolge des Absatzes 2 gilt bis zum Ablauf des 31. Dezember 2030 nicht für Vorhaben im Sinne des § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, es sei denn, das Vorhaben soll in einem Natura 2000-Gebiet im Sinne des § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, oder in einem Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes verwirklicht werden.
+
+(4) Die Feststellung des Erreichens eines Flächenbeitragswerts oder Teilflächenziels steht der Ausweisung zusätzlicher Flächen für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht entgegen.
+
+(5) Der nach § 3 Absatz 2 Satz 1 Nummer 1 oder Nummer 2 des Windenergieflächenbedarfsgesetzes jeweils zuständige Planungsträger ist bei der Ausweisung von Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes an entgegenstehende Ziele der Raumordnung oder entgegenstehende Darstellungen in Flächennutzungsplänen nicht gebunden, soweit dies erforderlich ist, um den Flächenbeitragswert im Sinne des § 3 Absatz 1 des Windenergieflächenbedarfsgesetzes oder ein daraus abgeleitetes Teilflächenziel zu erreichen. Wurden Windenergiegebiete unter Anwendung von Satz 1 ausgewiesen, entfallen innerhalb dieser Gebiete die entsprechenden Bindungen auch im Zulassungsverfahren.
+
+(6) Die Ausweisung von Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes erfolgt nach den für die jeweiligen Planungsebenen geltenden Vorschriften für Gebietsausweisungen. Für die Rechtswirksamkeit des Plans ist es hingegen unbeachtlich, ob und welche sonstigen Flächen im Planungsraum für die Ausweisung von Windenergiegebieten geeignet sind.
+
+(7) Sobald und solange nach Ablauf des jeweiligen Stichtages gemäß § 3 Absatz 1 Satz 2 des Windenergieflächenbedarfsgesetzes weder der Flächenbeitragswert nach Anlage 1 Spalte 1 oder Spalte 2 des Windenergieflächenbedarfsgesetzes noch ein daraus abgeleitetes Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht wird,
+
+1. entfällt die Rechtsfolge des Absatzes 2 und
+
+2. können Darstellungen in Flächennutzungsplänen, Ziele der Raumordnung sowie sonstige Maßnahmen der Landesplanung einem Vorhaben nach § 35 Absatz 1 Nummer 5, das der Erforschung, Entwicklung oder Nutzung der Windenergie dient, nicht entgegengehalten werden.
+
+Landesgesetze nach Absatz 9 Satz 1 und 4 sind nicht mehr anzuwenden, wenn gemäß § 5 Absatz 3 Satz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde, dass ein Land den Nachweis gemäß § 3 Absatz 3 des Windenergieflächenbedarfsgesetzes bis zum Ablauf des 30. November 2024 nicht erbracht hat oder wenn der Flächenbeitragswert nach Anlage 1 Spalte 1 oder Spalte 2 des Windenergieflächenbedarfsgesetzes zum jeweiligen Stichtag nicht erreicht wird.
+
+(8) Nach § 9 Absatz 2 Satz 1 Nummer 2 kann auch festgesetzt werden, dass die im Bebauungsplan festgesetzten Windenergieanlagen nur zulässig sind, wenn sichergestellt ist, dass nach der Errichtung der im Bebauungsplan festgesetzten Windenergieanlagen andere im Bebauungsplan bezeichnete Windenergieanlagen innerhalb einer im Bebauungsplan zu bestimmenden angemessenen Frist zurückgebaut werden. Die Standorte der zurückzubauenden Windenergieanlagen können auch außerhalb des Bebauungsplangebiets oder außerhalb des Gemeindegebiets liegen. Darstellungen im Flächennutzungsplan können mit Bestimmungen entsprechend den Sätzen 1 und 2 mit Wirkung für die Zulässigkeit der Windenergieanlagen nach § 35 Absatz 1 Nummer 5 verbunden sein.
+
+(9) Die Länder können durch Landesgesetze bestimmen, dass § 35 Absatz 1 Nummer 5 auf Vorhaben, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nur Anwendung findet, wenn sie bestimmte Mindestabstände zu den im Landesgesetz bezeichneten zulässigen baulichen Nutzungen zu Wohnzwecken einhalten. Ein Mindestabstand nach Satz 1 darf höchstens 1 000 Meter von der Mitte des Mastfußes der Windenergieanlage bis zur nächstgelegenen im Landesgesetz bezeichneten baulichen Nutzung zu Wohnzwecken betragen. Die weiteren Einzelheiten, insbesondere zur Abstandsfestlegung, sind in den Landesgesetzen nach Satz 1 zu regeln. Auf der Grundlage dieses Absatzes in der bis zum 14. August 2020 oder bis zum 1. Februar 2023 geltenden Fassung erlassene Landesgesetze gelten fort; sie können geändert werden, sofern die wesentlichen Elemente der in dem fortgeltenden Landesgesetz enthaltenen Regelung beibehalten werden. In den Landesgesetzen nach den Sätzen 1 und 4 ist zu regeln, dass die Mindestabstände nicht auf Flächen in Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes anzuwenden sind. Für Landesgesetze nach Satz 4 ist dies bis zum Ablauf des 31. Mai 2023 zu regeln.
+
+(10) Der öffentliche Belang einer optisch bedrängenden Wirkung steht einem Vorhaben nach § 35 Absatz 1 Nummer 5, das der Erforschung, Entwicklung oder Nutzung der Windenergie dient, in der Regel nicht entgegen, wenn der Abstand von der Mitte des Mastfußes der Windenergieanlage bis zu einer zulässigen baulichen Nutzung zu Wohnzwecken mindestens der zweifachen Höhe der Windenergieanlage entspricht. Höhe im Sinne des Satzes 1 ist die Nabenhöhe zuzüglich Radius des Rotors.
 
 # § 249a – Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien
 
@@ -3775,7 +3807,7 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 2. das Vorhaben soll die bergbaulichen Tätigkeiten nicht erheblich beeinträchtigen.
 
-Der Geltungsbereich der Rechtsverordnung kann auf bestimmte Teile eines Abbaubereichs beschränkt werden.
+Der Geltungsbereich der Rechtsverordnung kann auf bestimmte Teile eines Abbaubereichs beschränkt werden. Die Rechtsfolge des § 249 Absatz 2 Satz 1 und 2 tritt im Geltungsbereich der Rechtsverordnung nicht ein.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass ein Vorhaben zur Nutzung solarer Strahlungsenergie innerhalb des Abbaubereichs eines Braunkohlen- oder Sanierungsplans dann zulässig ist, wenn
 

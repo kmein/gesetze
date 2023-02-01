@@ -173,6 +173,8 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (4) Die erheblichen Auswirkungen der Durchführung der Raumordnungspläne auf die Umwelt sind auf Grundlage der in der zusammenfassenden Erklärung nach § 10 Abs. 3 genannten Überwachungsmaßnahmen von der in den Landesplanungsgesetzen genannten Stelle, oder, sofern Landesplanungsgesetze keine Regelung treffen, von der für den Raumordnungsplan zuständigen oder der im Raumordnungsplan bezeichneten öffentlichen Stelle zu überwachen, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und um in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen. Die in ihren Belangen berührten öffentlichen Stellen unterrichten die öffentliche Stelle nach Satz 1, sofern nach den ihnen vorliegenden Erkenntnissen die Durchführung des Raumordnungsplans erhebliche, insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt hat.
 
+(5) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der Umweltprüfung bei der Aufstellung von Raumordnungsplänen. Sofern dabei auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz zu erlassen.
+
 § 8 (früher § § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
 # § 9 – Beteiligung bei der Aufstellung von Raumordnungsplänen
@@ -454,6 +456,8 @@ Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 (2) § 11 ist auch auf Raumordnungspläne der Länder anzuwenden, die vor dem 29. November 2017 in Kraft getreten sind. Weiter gehende landesrechtliche Regelungen zur Unbeachtlichkeit von Fehlern bei der Planaufstellung oder durch Fristablauf bleiben unberührt.
 
 (3) Am 29. November 2017 geltendes Landesrecht, das § 2 Absatz 2, die §§ 6 bis 12 oder die Vorschriften des Abschnitts 2 dieses Gesetzes ergänzt, sowie landesrechtliche Gebührenregelungen und weiter gehendes Landesrecht zur Beschleunigung des Verfahrens bei Änderung eines ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
+
+(4) Für Raumordnungspläne, die Windenergiegebiete im Sinne von § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) beinhalten, sind die Überleitungsvorschriften des § 245e des Baugesetzbuchs und die Sonderregelungen des § 249 des Baugesetzbuchs vorrangig anzuwenden.
 
 § 27 (früher § 28 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 

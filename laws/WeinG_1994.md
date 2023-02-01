@@ -1716,7 +1716,9 @@ Die gebietlichen Absatzförderungseinrichtungen und der Deutsche Weinfonds unter
 
 3. in anderen als den in Nummer 4, § 49 Satz 1 Nummer 6 oder Nummer 7 bezeichneten Fällen entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union eine der in Nummer 1 bezeichneten Handlungen begeht, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
 
-4. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist. § 58 Absatz 2 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach § 2 Nummer 1 entsprechend.
+4. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+
+§ 58 Absatz 2 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach § 2 Nummer 1 entsprechend.
 
 (2) Wer eine der in Absatz 1 bezeichneten Handlungen fahrlässig begeht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
