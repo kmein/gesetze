@@ -613,6 +613,7 @@
 - [BECV](laws/BECV.md) Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel
 - [BEDBPStruktG](laws/BEDBPStruktG.md) Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Postnachfolgeunternehmen
 - [BedGgstV](laws/BedGgstV.md) Bedarfsgegenständeverordnung
+- [BEDV](laws/BEDV.md) Verordnung zur Kompensation doppelt bilanzierter Brennstoffemissionen nach Brennstoffemissionshandelsgesetz
 - [BEEG](laws/BEEG.md) Gesetz zum Elterngeld und zur Elternzeit
 - [BefBedV](laws/BefBedV.md) Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
 - [BefBezG 2008](laws/BefBezG_2008.md) Gesetz über befriedete Bezirke für Verfassungsorgane des Bundes
@@ -5649,6 +5650,7 @@
 - [TVMindestlohn VFlughSiK 2](laws/TVMindestlohn_VFlughSiK_2.md) Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 28. März 2022
 - [TVMindestlohnDachd 11](laws/TVMindestlohnDachd_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. Juli 2021
 - [TVMindestlohnGebäude 2022](laws/TVMindestlohnGebäude_2022.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022
+- [TVMindestlohnPäda 6](laws/TVMindestlohnPäda_6.md) Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
 - [TVöD](laws/TVöD.md) Tarifvertrag für den öffentlichen Dienst
 - [TWirtAusbStEignV 2005](laws/TWirtAusbStEignV_2005.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 - [TWirtAusbV 2005](laws/TWirtAusbV_2005.md) Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
@@ -5831,6 +5833,7 @@
 - [VereinsG](laws/VereinsG.md) Gesetz zur Regelung des öffentlichen Vereinsrechts
 - [VereinsGDV](laws/VereinsGDV.md) Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts (Vereinsgesetz)
 - [VerfGlasAusbV](laws/VerfGlasAusbV.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
+- [VergMindV 2023](laws/VergMindV_2023.md) Verordnung zur Festsetzung eines vergabespezifischen Mindestentgelts für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch für die Kalenderjahre 2023 bis 2026
 - [VergMstrV](laws/VergMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk
 - [VergoldAusbV](laws/VergoldAusbV.md) Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin
 - [VergStatVO](laws/VergStatVO.md) Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen
@@ -6133,6 +6136,7 @@
 - [WildTArtÜbkInkrÄndV 3](laws/WildTArtÜbkInkrÄndV_3.md) Dritte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 - [WildTArtÜbkInkrÄndV 4](laws/WildTArtÜbkInkrÄndV_4.md) Vierte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 - [WildTArtÜbkInkrÄndV 5](laws/WildTArtÜbkInkrÄndV_5.md) Fünfte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
+- [WindBG](laws/WindBG.md) Gesetz zur Festlegung von Flächenbedarfen für Windenergieanlagen an Land
 - [WindSeeG](laws/WindSeeG.md) Gesetz zur Entwicklung und Förderung der Windenergie auf See
 - [WinterbeschV](laws/WinterbeschV.md) Verordnung über ergänzende Leistungen zum Saison-Kurzarbeitergeld und die Aufbringung der erforderlichen Mittel zur Aufrechterhaltung der Beschäftigung in den Wintermonaten
 - [WinzAusbStEignV](laws/WinzAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin
@@ -6679,6 +6683,7 @@
 - [5. SGG-ÄndG](laws/5._SGG-ÄndG.md) Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [5. VermBG](laws/5._VermBG.md) Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer
 - [53. AnrV](laws/53._AnrV.md) Dreiundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
+- [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
