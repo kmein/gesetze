@@ -3009,6 +3009,8 @@ i) Arzneimittel, die im Falle des § 21 Absatz 2 Nummer 3 zur Verfügung gestell
 
 5. auf gesetzlicher Grundlage eingerichtete oder im Benehmen mit dem Bundesministerium von der zuständigen Behörde anerkannte zentrale Beschaffungsstellen für Arzneimittel,
 
+5a. durch Landesrecht bestimmte Träger der Luftrettung, soweit es sich um aus menschlichem Blut gewonnene Erythrozytenkonzentrate handelt,
+
 6. Tierärzte im Rahmen des Betriebes einer tierärztlichen Hausapotheke, soweit es sich um Fertigarzneimittel handelt, zur Anwendung an den von ihnen behandelten Tieren und zur Abgabe an deren Halter,
 
 7. zur Ausübung der Zahnheilkunde berechtigte Personen, soweit es sich um Fertigarzneimittel handelt, die ausschließlich in der Zahnheilkunde verwendet und bei der Behandlung am Patienten angewendet werden,
@@ -3018,12 +3020,6 @@ i) Arzneimittel, die im Falle des § 21 Absatz 2 Nummer 3 zur Verfügung gestell
 9. Hochschulen, soweit es sich um Arzneimittel handelt, die für die Ausbildung der Studierenden der Pharmazie und der Veterinärmedizin benötigt werden,
 
 10. staatlich anerkannte Lehranstalten für pharmazeutisch-technische Assistentinnen und Assistenten, sofern es sich um Arzneimittel handelt, die für die Ausbildung benötigt werden.
-
-(1a) (weggefallen)
-
-(1b) (weggefallen)
-
-(1c) (weggefallen)
 
 (2) Die in Absatz 1 Nr. 5 bis 9 bezeichneten Empfänger dürfen die Arzneimittel nur für den eigenen Bedarf im Rahmen der Erfüllung ihrer Aufgaben beziehen. Die in Absatz 1 Nr. 5 bezeichneten zentralen Beschaffungsstellen dürfen nur anerkannt werden, wenn nachgewiesen wird, dass sie unter fachlicher Leitung eines Apothekers stehen und geeignete Räume und Einrichtungen zur Prüfung, Kontrolle und Lagerung der Arzneimittel vorhanden sind.
 
@@ -3698,7 +3694,7 @@ Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Form
 
 # § 67a – Datenbankgestütztes Informationssystem
 
-(1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des Bundes und der Länder wirken mit dem Deutschen Institut für Medizinische Dokumentation und Information (DIMDI) zusammen, um ein gemeinsam nutzbares zentrales Informationssystem über Arzneimittel und Wirkstoffe sowie deren Hersteller oder Einführer zu errichten. Dieses Informationssystem fasst die für die Erfüllung der jeweiligen Aufgaben behördenübergreifend notwendigen Informationen zusammen. Das Deutsche Institut für Medizinische Dokumentation und Information (DIMDI) errichtet dieses Informationssystem auf der Grundlage der von den zuständigen Behörden oder Bundesoberbehörden nach der Rechtsverordnung nach Absatz 3 zur Verfügung gestellten Daten und stellt dessen laufenden Betrieb sicher. Daten aus dem Informationssystem werden an die zuständigen Behörden und Bundesoberbehörden zur Erfüllung ihrer im Gesetz geregelten Aufgaben sowie an die Europäische Arzneimittel-Agentur übermittelt. Die zuständigen Behörden und Bundesoberbehörden erhalten darüber hinaus für ihre im Gesetz geregelten Aufgaben Zugriff auf die aktuellen Daten aus dem Informationssystem. Eine Übermittlung an andere Stellen ist zulässig, soweit dies die Rechtsverordnung nach Absatz 3 vorsieht. Für seine Leistungen kann das Deutsche Institut für Medizinische Dokumentation und Information (DIMDI) Entgelte verlangen. Diese werden in einem Entgeltkatalog festgelegt, der der Zustimmung des Bundesministeriums bedarf.
+(1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des Bundes und der Länder wirken mit dem Bundesinstitut für Arzneimittel und Medizinprodukte zusammen, um ein gemeinsam nutzbares zentrales Informationssystem über Arzneimittel und Wirkstoffe sowie deren Hersteller oder Einführer zu errichten. Dieses Informationssystem fasst die für die Erfüllung der jeweiligen Aufgaben behördenübergreifend notwendigen Informationen zusammen. Das Bundesinstitut für Arzneimittel und Medizinprodukte errichtet dieses Informationssystem auf der Grundlage der von den zuständigen Behörden oder Bundesoberbehörden nach der Rechtsverordnung nach Absatz 3 zur Verfügung gestellten Daten und stellt dessen laufenden Betrieb sicher. Daten aus dem Informationssystem werden an die zuständigen Behörden und Bundesoberbehörden zur Erfüllung ihrer im Gesetz geregelten Aufgaben sowie an die Europäische Arzneimittel-Agentur übermittelt. Die zuständigen Behörden und Bundesoberbehörden erhalten darüber hinaus für ihre im Gesetz geregelten Aufgaben Zugriff auf die aktuellen Daten aus dem Informationssystem. Eine Übermittlung an andere Stellen ist zulässig, soweit dies die Rechtsverordnung nach Absatz 3 vorsieht. Für seine Leistungen kann das Bundesinstitut für Arzneimittel und Medizinprodukte Entgelte verlangen. Diese werden in einem Entgeltkatalog festgelegt, der der Zustimmung des Bundesministeriums bedarf.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt allgemein verfügbare Datenbanken mit Informationen zu Arzneimitteln über ein Internetportal bereit. Das Internetportal wird mit dem von der Europäischen Arzneimittel-Agentur eingerichteten europäischen Internetportal nach Artikel 26 der Verordnung (EG) Nr. 726/2004 für Arzneimittel verbunden. Darüber hinaus stellt das Bundesinstitut für Arzneimittel und Medizinprodukte Informationen zum Versandhandel mit Arzneimitteln über ein allgemein zugängliches Internetportal zur Verfügung. Dieses Internetportal wird verbunden mit dem von der Europäischen Arzneimittel-Agentur betriebenen Internetportal, das Informationen zum Versandhandel und zum gemeinsamen Versandhandelslogo enthält. Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt die Adressen der Internetportale im Bundesanzeiger bekannt.
 
@@ -3712,7 +3708,7 @@ In dieser Rechtsverordnung kann auch vorgeschrieben werden, dass Anzeigen auf el
 
 (3a) (weggefallen)
 
-(4) Die Rechtsverordnung nach Absatz 3 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel oder um Arzneimittel handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
+(4) Die Rechtsverordnung nach Absatz 3 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit es sich um radioaktive Arzneimittel oder um Arzneimittel handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 (5) Das Bundesinstitut für Arzneimittel und Medizinprodukte ergreift die notwendigen Maßnahmen, damit Daten nur den dazu befugten Personen übermittelt werden und nur diese Zugang zu diesen Daten erhalten.
 
@@ -4628,7 +4624,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mac
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
-1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5 und 6 Buchstabe b und
+1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5 Buchstabe b und
 
 2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
 
