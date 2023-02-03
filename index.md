@@ -1344,7 +1344,6 @@
 - [ComKrimÜbkG](laws/ComKrimÜbkG.md) Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität
 - [ContrPrV](laws/ContrPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
-- [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
@@ -1618,7 +1617,7 @@
 - [EdlStFAusbV](laws/EdlStFAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin
 - [EdSchleifAusbV](laws/EdSchleifAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin*
 - [EdWBeitrV](laws/EdWBeitrV.md) Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau
-- [EEG 2023](laws/EEG_2023.md) Gesetz für den Ausbau erneuerbarer Energien*)
+- [EEG 2023](laws/EEG_2023.md) Gesetz für den Ausbau erneuerbarer Energien
 - [EEMD-ZV](laws/EEMD-ZV.md) Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 - [EEMD-ZVAnl I](laws/EEMD-ZVAnl_I.md) Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 - [EEMD-ZVAnl II](laws/EEMD-ZVAnl_II.md) Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
@@ -4922,6 +4921,7 @@
 - [SchulversucheV](laws/SchulversucheV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden
 - [SchUnfDatG](laws/SchUnfDatG.md) Schiffsunfalldatenbankgesetz
 - [SchuTSEV](laws/SchuTSEV.md) Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden *)
+- [Schutzmaßnahmenaussetzungsverordnung](laws/Schutzmaßnahmenaussetzungsverordnung.md) Verordnung zur Aussetzung von Verpflichtungen nach § 28b Absatz 1 des Infektionsschutzgesetzes
 - [SchutzRAbk PRT](laws/SchutzRAbk_PRT.md) Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes
 - [SchutzRAbk SWE](laws/SchutzRAbk_SWE.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Wiederherstellung gewerblicher Schutzrechte
 - [SchuV](laws/SchuV.md) Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
