@@ -2190,7 +2190,7 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 
 # Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BAnz AT 23.12.2022 V1)
+(Fundstelle: BAnz AT 23.12.2022 V1, Anhang 1)
 
   
 Ausfuhrliste  
@@ -4485,7 +4485,7 @@ Siehe auch „zivile Luftfahrzeuge“.
 
 „Reaktion auf Cybervorfälle“ (0021) (cyber incident response): Vorgang des Austauschs der erforderlichen Informationen über einen Cybersicherheitsvorfall mit Einzelpersonen oder Organisationen, die für die Durchführung oder Koordinierung von Maßnahmen zur Bewältigung des Cybersicherheitsvorfalls zuständig sind.
 
-„Reizstoffe“ (0007) (riot control agents): Stoffe, die, unter den zu erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von Unruhen, beim Menschen spontan Reizungen der Sinnesorgane oder Handlungsunfähigkeit verursachende Wirkung hervorrufen, welche innerhalb kurzer Zeit nach Beendigung der Exposition verschwinden.(Tränengase sind eine Untermenge von „Reizstoffen“).
+„Reizstoffe“ (0007) (riot control agents): Stoffe, die, unter den zu erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von Unruhen, beim Menschen spontan Reizungen der Sinnesorgane oder Handlungsunfähigkeit verursachende Wirkung hervorrufen, welche innerhalb kurzer Zeit nach Beendigung der Exposition verschwinden. (Tränengase sind eine Untermenge von „Reizstoffen“).
 
 „Roboter“ (0017) (robot): ein Handhabungssystem, das bahn- oder punktgesteuert sein kann, Sensoren benutzen kann und alle folgenden Eigenschaften aufweist:
 
@@ -4726,8 +4726,6 @@ ex 1211 90 86
 Basilikum, Melisse, Pfefferminze, Origanum vulgare (Dost/Oregano/wilder Majoran), Rosmarin, Salbei, frisch oder gekühlt, weder gemahlen noch sonst zerkleinert
 
 G
-
-Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Unterummer" durch das Wort "Unternummer" ersetzt
 
 # Anlage 2 – (weggefallen)
 
