@@ -19,10 +19,6 @@ Auf Grund des § 5 Nr. 1, 4 und 5 des Lebensmittelgesetzes in der Fassung der Be
 
 (3) Für Weinessig gilt die Begriffsbestimmung in Anhang VII Teil II Nr. 17 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung. Im übrigen gelten die Vorschriften dieser Verordnung.
 
-# § 1a
-
-\-
-
 # § 2
 
 Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als wasserfreie Essigsäure, enthält, und Essigessenz dürfen nur in verschlossenen Behältnissen in den Verkehr gebracht werden, die den zu erwartenden Beanspruchungen sicher widerstehen und aus Werkstoffen hergestellt sind, die von Essigessenz nicht angegriffen werden und mit ihr nicht in gefährlicher Weise reagieren. Die Behältnisse müssen in deutscher Sprache und in deutlich sichtbarer, leicht lesbarer Schrift mit dem Hinweis "Vorsicht! Nicht unverdünnt genießen!" versehen sein.
@@ -48,8 +44,6 @@ Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als wasserfrei
 (3) Der Gehalt an Essigsäure und anderen Säuren, die den verwendeten Ausgangs- oder Rohstoffen oder erlaubten Zusätzen entstammen (Gesamtsäuregehalt), ist, berechnet als wasserfreie Essigsäure, bei Essig in Gramm je 100 Milliliter, bei Essigessenz in Gramm je 100 Gramm mit den Worten "...% Säure" anzugeben.
 
 (4) Für die Art und Weise der Angaben nach den Absätzen 1 bis 3 gelten Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung und § 2 der Lebensmittelinformations-Durchführungsverordnung entsprechend.
-
-# § 4a – (weggefallen)
 
 # § 5
 
