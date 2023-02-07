@@ -711,7 +711,6 @@ des Grundlohns nicht übersteigen.
 (+++ § 4 Abs. 4a: Zur Anwendung vgl. § 13a Abs. 3 (F 2014-12-22) +++)  
 (+++ § 4 Abs. 5: Zur Anwendung vgl. § 10 Abs. 1 +++)  
 (+++ § 4 Abs. 5 bis 7: Zur Anwendung vgl. § 6 Abs. 7 InvStG 2018 +++)  
-§ 4 Abs. 5 Satz 1 Nr. 6b (F. 19.7.2006): Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 6.7.2010 I 1157 (2 BvL 13/09)  
 § 4 Abs. 5 Satz 1 Nr. 8 (F. 25.7.1984): Mit GG insoweit vereinbar, als der auf die Abschöpfung des wirtschaftlichen Vorteils entfallende Teil der Geldbuße vom Abzug als Betriebsausgabe ausgeschlossen ist, BVerfGE v. 23.1.1990 I 913 (1 BvL 4/87, 1 BvL 5/87, 1 BvL 6/87, 1 BvL 7/87)
 
 # § 4a – Gewinnermittlungszeitraum, Wirtschaftsjahr
@@ -2851,7 +2850,7 @@ b) innerhalb eines Zeitraums zwischen dem zehnten und 20. Jahr nach dem Beginn d
 
 des nach Satz 5 noch nicht erfassten Auflösungsbetrags als Leistung nach Satz 1 zu erfassen; § 92a Absatz 3 Satz 9 gilt entsprechend mit der Maßgabe, dass als noch nicht zurückgeführter Betrag im Wohnförderkonto der noch nicht erfasste Auflösungsbetrag gilt. ⁷Bei erstmaligem Bezug von Leistungen, in den Fällen des § 93 Absatz 1 sowie bei Änderung der im Kalenderjahr auszuzahlenden Leistung hat der Anbieter (§ 80) nach Ablauf des Kalenderjahres dem Steuerpflichtigen nach amtlich vorgeschriebenem Muster den Betrag der im abgelaufenen Kalenderjahr zugeflossenen Leistungen im Sinne der Sätze 1 bis 3 je gesondert mitzuteilen; mit Einverständnis des Steuerpflichtigen kann die Mitteilung elektronisch bereitgestellt werden. ⁸Werden dem Steuerpflichtigen Abschluss- und Vertriebskosten eines Altersvorsorgevertrages erstattet, gilt der Erstattungsbetrag als Leistung im Sinne des Satzes 1. ⁹In den Fällen des § 3 Nummer 55a richtet sich die Zuordnung zu Satz 1 oder Satz 2 bei der ausgleichsberechtigten Person danach, wie eine nur auf die Ehezeit bezogene Zuordnung der sich aus dem übertragenen Anrecht ergebenden Leistung zu Satz 1 oder Satz 2 bei der ausgleichspflichtigen Person im Zeitpunkt der Übertragung ohne die Teilung vorzunehmen gewesen wäre. ¹⁰Dies gilt sinngemäß in den Fällen des § 3 Nummer 55 und 55e. ¹¹Wird eine Versorgungsverpflichtung nach § 3 Nummer 66 auf einen Pensionsfonds übertragen und hat der Steuerpflichtige bereits vor dieser Übertragung Leistungen auf Grund dieser Versorgungsverpflichtung erhalten, so sind insoweit auf die Leistungen aus dem Pensionsfonds im Sinne des Satzes 1 die Beträge nach § 9a Satz 1 Nummer 1 und § 19 Absatz 2 entsprechend anzuwenden; § 9a Satz 1 Nummer 3 ist nicht anzuwenden. ¹²Wird auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes oder einer externen Teilung nach § 14 des Versorgungsausgleichsgesetzes ein Anrecht zugunsten der ausgleichsberechtigten Person begründet, so gilt dieser Vertrag insoweit zu dem gleichen Zeitpunkt als abgeschlossen wie der Vertrag der ausgleichspflichtigen Person, wenn die aus dem Vertrag der ausgleichspflichtigen Person ausgezahlten Leistungen zu einer Besteuerung nach Satz 2 führen. ¹³Für Leistungen aus Altersvorsorgeverträgen nach § 93 Absatz 3 ist § 34 Absatz 1 entsprechend anzuwenden. ¹⁴Soweit Begünstigungen, die mit denen in Satz 2 vergleichbar sind, bei der deutschen Besteuerung gewährt wurden, gelten die darauf beruhenden Leistungen ebenfalls als Leistung nach Satz 1. ¹⁵§ 20 Absatz 1 Nummer 6 Satz 9 in der ab dem 27. Juli 2016 geltenden Fassung findet keine Anwendung. ¹⁶Nummer 1 Satz 3 Buchstabe a Doppelbuchstabe aa Satz 9 gilt entsprechend.
 
-(+++ § 22: Zur Anwendung vgl. § 52, 38 +++)  
+(+++ § 22: Zur Anwendung vgl. §§ 38, 52, 123 +++)  
 § 22 Nr. 3 Satz 3: Soweit er sich auf laufende Einkünfte aus der Vermietung beweglicher Gegenstände bezieht mit Art. 3 Abs. 1 GG unvereinbar und nichtig gem. BVerfGE v. 30.9.1998 I 3430 - 2 BvR 1818/91 -
 
 # § 22a – Rentenbezugsmitteilungen an die zentrale Stelle
@@ -6515,8 +6514,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 ²Soweit es für die Anwendung von Vorschriften dieses Gesetzes auf den Erhalt von Kindergeld ankommt, stehen die Leistungen nach Satz 1 dem Kindergeld gleich. ³Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentur für Arbeit nach § 24 des Dritten Buches Sozialgesetzbuch oder ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch oder steht er im Inland in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 2 mit Rücksicht darauf ausgeschlossen, dass sein Ehegatte als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen Union für das Kind Anspruch auf Kinderzulage hat.
 
-(+++ § 65: Zur Anwendung vgl. § 52 +++)  
-§ 65 Abs. 2: Nach Maßgabe der Entscheidungsformel mit GG vereinbar gem. BVerfGE v. 8.6.2004 I 2570 - 2 BvL 5/00 -
+(+++ § 65: Zur Anwendung vgl. § 52 +++)
 
 # § 66 – Höhe des Kindergeldes, Zahlungszeitraum
 
