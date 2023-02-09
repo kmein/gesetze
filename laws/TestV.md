@@ -283,6 +283,8 @@ Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öf
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 2 Satz 3 eine Aufstellung der gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
+(+++ § 7b Abs. 2 Satz 1: IdF d. Art. 1 Nr. 4 Buchst. b DBuchst. aa V v. 24.11.2022 BAnz AT 24.11.2022 V2 mWv 25.11.2022 (bezeichnet als Abs. 2 Satz 1 Satzteil vor der Aufzählung; sinngemäß konsolidiert +++)
+
 # § 8 – Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
 
 Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung und Verteilung des zu verwendenden Vordrucks sowie der Abrechnung von Leistungen von Leistungserbringern nach dieser Verordnung einen Verwaltungskostensatz in Höhe von 0,7 Prozent des jeweiligen Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für Leistungserbringer und sonstige abrechnende Stellen, die nicht Mitglied dieser Kassenärztlichen Vereinigung sind und noch keine Leistungen ihr gegenüber abgerechnet haben, behalten die Kassenärztlichen Vereinigungen einen Verwaltungskostensatz bis zum 30. April 2022 in Höhe von 3,5 Prozent und ab dem 1. Mai 2022 in Höhe von 2,5 Prozent des Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für die Abrechnung der Sachkosten nach § 11 werden den Kassenärztlichen Vereinigungen Verwaltungskosten in Höhe von 1,6 Prozent des Gesamtbetrags der Abrechnungen durch das Bundesamt für Soziale Sicherung erstattet.
