@@ -822,7 +822,8 @@ Ich versichere die Richtigkeit und Vollständigkeit meiner Angaben. Über nachtr
 
 # Anlage 3 – (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2809 — 2811)
+(Fundstelle: BGBl. I 2016, 2809 - 2811;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1315,7 +1316,8 @@ Diese Seite ist nicht mit einzureichen.
 
 # Anlage 5 – (zu § 8 Abs. 1 und 2 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2814 — 2816)
+(Fundstelle: BGBl. I 2016, 2814 - 2816;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1341,7 +1343,7 @@ Diese Seite ist nicht mit einzureichen.
 (§ 2 Abs. 1 WpIG)</td><td style="text-align: left;">□ E-Geld-Institut<br />
 (§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)</td></tr><tr class="even"><td style="text-align: left;">□ sonstiges Kreditinstitut<br />
 (§ 1 Abs. 1 KWG)</td><td style="text-align: left;">□ Finanzdienstleistungsinstitut<br />
-(§ 1 Abs. 1a KWG)</td><td style="text-align: left;">□ Kapitalverwaldungsgesellschaft<br />
+(§ 1 Abs. 1a KWG)</td><td style="text-align: left;">□ Kapitalverwaltungsgesellschaft<br />
 (§ 17 KAGB)</td></tr><tr class="odd"><td style="text-align: left;">□ Finanzinstitut<br />
 (Art. 4 Abs. 1 Nr. 26 CRR<span id="FnR.FnA1-F796418_F505"></span><a href="#FnA1-F796418_F505" class="FnR">5</a></sup> )</td><td style="text-align: left;">□ Finanzunternehmen<br />
 (§ 1 Abs. 3 KWG)</td><td style="text-align: left;">□ Anbieter von Nebendienstleistungen<br />
@@ -1440,6 +1442,8 @@ Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommand
 
 Diese Seite ist nicht mit einzureichen.
 
+(+++ Anlage 5 Tabelle unter Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kapitalverwaldungsgesellschaft" durch das Wort "Kapitalverwaltungsgesellschaft" ersetzt +++)
+
 # Anlage 6 – (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)NTLSI
 
 (Fundstelle: BGBl. I 2018, 1735 — 1736)
@@ -1476,7 +1480,8 @@ Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LE
 
 # Anlage 7 – (zu § 11 Abs. 2 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2819 — 2820)
+(Fundstelle: BGBl. I 2016, 2819 - 2820;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1551,7 +1556,8 @@ Diese Seite ist nicht mit einzureichen.
 
 # Anlage 8 – (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSIECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1737 — 1738)
+(Fundstelle: BGBl. I 2018, 1737 - 1738;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1596,7 +1602,8 @@ beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich haftender Gesel
 
 # Anlage 9 – (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)PVVASIECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1739 — 1740)
+(Fundstelle: BGBl. I 2018, 1739 - 1740;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1633,7 +1640,8 @@ beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied, Aufsichtsratsvors
 
 # Anlage 10 – (zu § 5b Abs. 4 AnzV)PVFUECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1741 — 1744)
+(Fundstelle: BGBl. I 2018, 1741 - 1744;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -1830,7 +1838,8 @@ Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualif
 
 # Anlage 11 – (zu § 5b Abs. 5 AnzV)PVFPECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1745 — 1754)
+(Fundstelle: BGBl. I 2018, 1745 - 1754;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -2762,7 +2771,8 @@ Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualif
 
 # Anlage 12 – (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSIECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1755 — 1757)
+(Fundstelle: BGBl. I 2018, 1755 - 1757;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   

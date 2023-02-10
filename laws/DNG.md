@@ -152,6 +152,8 @@ c) Verbände, deren Mitglieder unter Buchstabe a oder Buchstabe b fallen,
 
 (4) Die Metadaten zu maschinenlesbaren Daten sind, soweit möglich und sinnvoll, über das nationale Metadatenportal GovData zur Verfügung zu stellen.
 
+(+++ § 7: Zur Anwendung vgl. § 2 Abs. 3 VkBkmG +++)
+
 # § 8 – Dynamische Daten
 
 (1) Der Datenbereitsteller muss die Nutzung von dynamischen Daten unmittelbar nach der Erfassung in Echtzeit mithilfe geeigneter Anwendungsprogrammierschnittstellen und, falls technisch erforderlich, als Massen-Download ermöglichen.

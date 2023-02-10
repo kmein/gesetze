@@ -159,9 +159,7 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
-(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 7 Abs. 1 +++)  
-(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 7 Abs. 3 +++)  
-(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 28 Abs. 1 +++)
+(+++ § 4 Abs. 1 und 2: Zur Geltung vgl. § 7 Abs. 1, 3 u. § 28 Abs. 1 +++)
 
 # § 5 – Frist für die Anlage von Ersatzflächen
 
