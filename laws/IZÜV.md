@@ -99,6 +99,8 @@ Der Erlaubnisbescheid oder der Genehmigungsbescheid, die Bezeichnung des für di
 
 (3) Für die Beteiligung anderer Behörden gilt § 11 der Verordnung über das Genehmigungsverfahren entsprechend.
 
+(+++ § 4: Zur Geltung vgl. § 5 Abs. 1 Nr. 1 bis 3 LNGG +++)
+
 # § 5 – Grenzüberschreitende Beteiligung von Behörden und Öffentlichkeit
 
 (1) Kann eine zu einer Industrieanlage gehörige Gewässerbenutzung oder eine Anlage nach § 60 Absatz 3 Satz 1 Nummer 2 oder Nummer 3 des Wasserhaushaltsgesetzes nach den Antragsunterlagen erhebliche Auswirkungen in einem anderen Staat haben oder ersucht ein anderer Staat, der möglicherweise von den Auswirkungen erheblich berührt wird, um Unterrichtung, so werden die von dem anderen Staat benannten Behörden zum gleichen Zeitpunkt und im gleichen Umfang über das Vorhaben oder über Anpassungsmaßnahmen unterrichtet wie die beteiligten Behörden, spätestens jedoch zum Zeitpunkt der öffentlichen Bekanntmachung nach § 4 Absatz 1 und mindestens im gleichen Umfang dieser Bekanntmachung. Mit der Unterrichtung ist der von dem anderen Staat benannten Behörde Gelegenheit zu geben, innerhalb einer angemessenen Frist mitzuteilen, ob eine Teilnahme an dem Verfahren im Sinne dieser Vorschrift gewünscht wird. Wenn der andere Staat die zu unterrichtenden Behörden nicht benannt hat, ist die oberste für Umweltangelegenheiten zuständige Behörde des anderen Staates zu unterrichten. Die Unterrichtung wird durch die für die Zulassung zuständige Wasserbehörde vorgenommen.
