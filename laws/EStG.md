@@ -6556,6 +6556,8 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 2. soweit vorhanden, die in § 139b Absatz 3 Nummer 1, 3, 5, 8 und 10 und Absatz 3a der Abgabenordnung genannten Daten der Personen, bei denen für dieses Kind nach § 39e Absatz 1 ein Kinderfreibetrag berücksichtigt wird.
 
+(+++ § 69: Zur Anwendung vgl. § 52 +++)
+
 # § 70 – Festsetzung und Zahlung des Kindergeldes
 
 (1) ¹Das Kindergeld nach § 62 wird von den Familienkassen durch Bescheid festgesetzt und ausgezahlt. ²Die Auszahlung von festgesetztem Kindergeld erfolgt rückwirkend nur für die letzten sechs Monate vor Beginn des Monats, in dem der Antrag auf Kindergeld eingegangen ist. ³Der Anspruch auf Kindergeld nach § 62 bleibt von dieser Auszahlungsbeschränkung unberührt.
@@ -7039,6 +7041,8 @@ d) der auf den Altersvorsorge-Eigenheimbetrag entfällt.
 # § 95 – Sonderfälle der Rückzahlung
 
 ¹Die §§ 93 und 94 gelten entsprechend, wenn sich der Wohnsitz oder gewöhnliche Aufenthalt des Zulageberechtigten ab Beginn der Auszahlungsphase außerhalb der Mitgliedstaaten der Europäischen Union und der Staaten befindet, auf die das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) anwendbar ist, oder wenn der Zulageberechtigte ungeachtet eines Wohnsitzes oder gewöhnlichen Aufenthaltes in einem dieser Staaten nach einem Abkommen zur Vermeidung der Doppelbesteuerung mit einem dritten Staat als außerhalb des Hoheitsgebiets dieser Staaten ansässig gilt. ²Satz 1 gilt nicht, sofern sich der Wohnsitz oder gewöhnliche Aufenthalt des Zulageberechtigten bereits seit dem 22. Juni 2016 ununterbrochen im Vereinigten Königreich Großbritannien und Nordirland befindet und der Vertrag vor dem 23. Juni 2016 abgeschlossen worden ist.
+
+(+++ § 95: Zur Anwendung vgl. § 52 +++)
 
 # § 96 – Anwendung der Abgabenordnung, allgemeine Vorschriften
 

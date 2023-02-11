@@ -283,7 +283,7 @@ Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öf
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 2 Satz 3 eine Aufstellung der gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
-(+++ § 7b Abs. 2 Satz 1: IdF d. Art. 1 Nr. 4 Buchst. b DBuchst. aa V v. 24.11.2022 BAnz AT 24.11.2022 V2 mWv 25.11.2022 (bezeichnet als Abs. 2 Satz 1 Satzteil vor der Aufzählung; sinngemäß konsolidiert +++)
+(+++ § 7b Abs. 2 Satz 1: IdF d. Art. 1 Nr. 4 Buchst. b DBuchst. aa V v. 24.11.2022 BAnz AT 24.11.2022 V2 mWv 25.11.2022 (bezeichnet als Abs. 2 Satz 1 Satzteil vor der Aufzählung; sinngemäß konsolidiert) +++)
 
 # § 8 – Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
 

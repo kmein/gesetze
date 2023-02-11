@@ -2723,11 +2723,13 @@ Die Bundesnetzagentur teilt Tatsachen, die den Verdacht einer Straftat oder eine
 
 (1) Der Bund ist befugt, Verkehrswege für die öffentlichen Zwecken dienenden Telekommunikationslinien unentgeltlich zu benutzen, soweit dadurch nicht der Widmungszweck der Verkehrswege dauernd beschränkt wird (Nutzungsberechtigung). Als Verkehrswege gelten öffentliche Wege, Plätze, Brücken und Tunnel sowie die öffentlichen Gewässer.
 
-(2) Der Bund überträgt die Nutzungsberechtigung nach Absatz 1 durch die Bundesnetzagentur auf Antrag an die Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken dienen der Telekommunikationslinien. In dem Antrag nach Satz 1 ist das Gebiet zu bezeichnen, für das die Nutzungsberechtigung übertragen werden soll.
+(2) Der Bund überträgt die Nutzungsberechtigung nach Absatz 1 durch die Bundesnetzagentur auf Antrag an die Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken dienender Telekommunikationslinien. In dem Antrag nach Satz 1 ist das Gebiet zu bezeichnen, für das die Nutzungsberechtigung übertragen werden soll.
 
 (3) Die Bundesnetzagentur überträgt die Nutzungsberechtigung, wenn der Antragsteller nachweislich fachkundig, zuverlässig und leistungsfähig ist, Telekommunikationslinien zu errichten und die Nutzungsberechtigung mit den Regulierungszielen nach § 2 vereinbar ist. Die Bundesnetzagentur erteilt die Nutzungsberechtigung für die Dauer der öffentlichen Tätigkeit. Sie entscheidet über vollständige Anträge innerhalb von sechs Wochen.
 
 (4) Beginn und Beendigung der Nutzung sowie jeder sonstige Wegfall der Nutzungsberechtigung nach Absatz 2, Namensänderungen, Anschriftenänderungen und identitätswahrende Umwandlungen des Unternehmens sind der Bundesnetzagentur unverzüglich mitzuteilen. Die Bundesnetzagentur stellt diese Informationen den Wegebaulastträgern zur Verfügung. Für Schäden, die daraus entstehen, dass Änderungen nicht rechtzeitig mitgeteilt wurden, haftet der Nutzungsberechtigte.
+
+§ 125 Abs. 2 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Worte "dienen der" durch das Wort "dienender" ersetzt
 
 # § 126 – Pflichten der Eigentümer und Betreiber öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken dienender Telekommunikationslinien
 
