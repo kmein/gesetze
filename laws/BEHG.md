@@ -39,15 +39,11 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
  
 
-# § 1 – Zweck des Gesetzes
-
-Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten für Emissionen aus Brennstoffen zu schaffen und für eine Bepreisung dieser Emissionen zu sorgen, soweit diese Emissionen nicht vom EU-Emissionshandel erfasst sind, um damit zur Erreichung der nationalen Klimaschutzziele, einschließlich des langfristigen Ziels der Netto-Treibhausgasneutralität bis zum Jahr 2045, und zur Erreichung der Minderungsziele nach der EU-Klimaschutzverordnung sowie zur Verbesserung der Energieeffizienz beizutragen. Zweck des nationalen Emissionshandelssystems ist die Bepreisung fossiler Treibhausgasemissionen.
-
 # § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Emission von Treibhausgasen aus den in Anlage 1 genannten Brennstoffen, die gemäß den Absätzen 2 und 2a in Verkehr gebracht werden.
 
-(2) Brennstoffe gelten mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 oder Absatz 2, § 18 Absatz 2, § 18a Absatz 1, § 19b Absatz 1, § 22 Absatz 1, § 30 Absatz 1, § 32 Absatz 1, den §§ 34, 35, 36 Absatz 1, § 37 Absatz 2 Satz 5 und 6, Absatz 3 Satz 2, Absatz 4 Satz 1, § 38 Absatz 1, § 40 Absatz 1, § 41 Absatz 1, § 43 Absatz 1 oder § 44 Absatz 4 Satz 2 des Energiesteuergesetzes als in Verkehr gebracht. Brennstoffe im Verfahren der steuerfreien Verwendung nach § 37 Absatz 2 Nummer 3 oder Nummer 4 des Energiesteuergesetzes gelten ebenfalls als in Verkehr gebracht, sofern sie nicht in einer dem EU-Emissionshandel unterliegenden Anlage verwendet werden.
+(2) Brennstoffe gelten mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 18b Absatz 1, § 19b Absatz 1, § 22 Absatz 1, § 30 Absatz 1, § 32 Absatz 1, den §§ 34, 35, 36 Absatz 1, § 37 Absatz 2 Satz 5 und 6, Absatz 3 Satz 2, Absatz 4 Satz 1, § 38 Absatz 1, § 40 Absatz 1, § 41 Absatz 1, § 43 Absatz 1 oder § 44 Absatz 4 Satz 2 des Energiesteuergesetzes als in Verkehr gebracht. Brennstoffe im Verfahren der steuerfreien Verwendung nach § 37 Absatz 2 Nummer 3 oder Nummer 4 des Energiesteuergesetzes gelten ebenfalls als in Verkehr gebracht, sofern sie nicht in einer dem EU-Emissionshandel unterliegenden Anlage verwendet werden.
 
 (2a) Sofern Brennstoffe nicht bereits nach Absatz 2 als in Verkehr gebracht gelten, gelten sie als in Verkehr gebracht, wenn sie in Anlagen zur Beseitigung oder Verwertung von Abfällen verwendet werden, die nach
 

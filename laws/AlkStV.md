@@ -15,31 +15,29 @@ das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium fü
 
 # § 1 – Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist oder sind:
+Im Sinne dieser Verordnung ist:
 
-1. Systemrichtlinie: die Richtlinie 2008/118/EG des Rates vom 16. Dezember 2008 über das allgemeine Verbrauchsteuersystem und zur Aufhebung der Richtlinie 92/12/EWG (ABl. L 9 vom 14.1.2009, S. 12), die zuletzt durch die Richtlinie 2013/61/EU (ABl. L 353 vom 28.12.2013, S. 5) geändert worden ist, in der jeweils geltenden Fassung;
+1. EMCS-Durchführungsverordnung: die Verordnung (EG) Nr. 684/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Richtlinie 2008/118/EG des Rates in Bezug auf die EDV-gestützten Verfahren für die Beförderung verbrauchsteuerpflichtiger Waren unter Steueraussetzung (ABl. L 197 vom 29.7.2009, S. 24), die zuletzt durch die Durchführungsverordnung (EU) 2020/1811 (ABl. L 404 vom 2.12.2020, S. 3) geändert worden ist, in der jeweils geltenden Fassung;
 
-2. EDV-gestütztes Beförderungs- und Kontrollsystem: ein System, über das Personen, die an Beförderungen unter Steueraussetzung beteiligt sind, elektronische Meldungen über Bewegungen von Alkoholerzeugnissen mit der Zollverwaltung austauschen, um diese Bewegungen zu kontrollieren;
+2. EDV-gestütztes Beförderungs- und Kontrollsystem: ein System, über das Personen, die an Beförderungen von Alkoholerzeugnissen unter Steueraussetzung oder an Lieferungen von Alkoholerzeugnissen zu gewerblichen Zwecken nach § 24 des Gesetzes beteiligt sind, elektronische Meldungen über Bewegungen von Alkoholerzeugnissen mit der Zollverwaltung austauschen, um diese Bewegungen zu kontrollieren;
 
 3. elektronisches Verwaltungsdokument: Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
-4. vereinfachtes Begleitdokument: ein Dokument nach Artikel 2 Absatz 1 oder ein anderes Dokument nach Artikel 2 Absatz 2 der Verordnung (EWG) Nr. 3649/92 der Kommission vom 17. Dezember 1992 über ein vereinfachtes Begleitdokument für die Beförderung von verbrauchsteuerpflichtigen Waren, die sich bereits im steuerrechtlich freien Verkehr des Abgangsmitgliedstaats befinden (ABl. L 369 vom 18.12.1992, S. 17) jeweils in Verbindung mit Artikel 34 der Systemrichtlinie;
+4. Begleitdokument: begleitendes Verwaltungsdokument nach amtlich vorgeschriebenem Vordruck;
 
-5. Ausgangszollstelle:
+5. vereinfachtes elektronisches Verwaltungsdokument: Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
-a) für im Eisenbahnverkehr, mit der Post, im Luft- oder im Seeverkehr beförderte Alkoholerzeugnisse die Zollstelle, die für den Ort zuständig ist, an dem die Alkoholerzeugnisse von Eisenbahngesellschaften, Postdiensten, Luftverkehrs- oder Schifffahrtsgesellschaften im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung mit Bestimmung in ein Drittland oder Drittgebiet übernommen werden,
+6. Ausfallverfahren: Verfahren, das zu Beginn, während oder nach Beendigung der Beförderung von Alkoholerzeugnissen unter Steueraussetzung oder der Lieferung zu gewerblichen Zwecken von Alkoholerzeugnissen nach § 24 des Gesetzes angewendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
 
-b) für in sonstiger Weise beförderte Alkoholerzeugnisse die letzte Zollstelle vor dem Ausgang der Alkoholerzeugnisse aus dem Verbrauchsteuergebiet der Europäischen Union;
+7. Durchführungsverordnung zum Unionszollkodex: die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558; L 101 vom 13.4.2017, S. 166; L 157 vom 20.6.2018, S. 27; L 387 vom 19.11.2020, S. 31), die zuletzt durch die Durchführungsverordnung (EU) 2021/235 (ABl. L 63 vom 23.2.2021, S. 386) geändert worden ist, in der jeweils geltenden Fassung;
 
-6. Ausfallverfahren: Verfahren, das zu Beginn, während oder nach Beendigung der Beförderung von Alkoholerzeugnissen unter Steueraussetzung angewendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
+8. Ausgangszollstelle: die nach Artikel 329 der Durchführungsverordnung zum Unionszollkodex definierte Zollstelle;
 
-7. Zollkodex-Durchführungsverordnung: die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 253 vom 11.10.1993, S. 1, L 268 vom 19.10.1994, S. 32, L 180 vom 19.7.1996, S. 34, L 156 vom 13.6.1997, S. 59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG) Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist;
+9. selbstgewonnene Rohstoffe: Stoffe, die von einem Abfindungsbrenner oder von einem Stoffbesitzer als Eigentümer, Nießbraucher oder Pächter geerntet oder von ihm oder seinen Beauftragten gesammelt oder in einem von ihm für eigene Rechnung geführten Betrieb erzeugt worden sind;
 
-8. selbstgewonnene Rohstoffe: Stoffe, die von einem Abfindungsbrenner oder von einem Stoffbesitzer als Eigentümer, Nießbraucher oder Pächter geerntet oder von ihm oder seinen Beauftragten gesammelt oder in einem von ihm für eigene Rechnung geführten Betrieb erzeugt worden sind;
+10. Abfindungsalkohol: Alkohol, der in einer Abfindungsbrennerei gewonnen wird und direkt mit der Gewinnung in den steuerrechtlich freien Verkehr überführt wird;
 
-9. Abfindungsalkohol: Alkohol, der in einer Abfindungsbrennerei gewonnen wird und direkt mit der Gewinnung in den steuerrechtlich freien Verkehr überführt wird;
-
-10. zuständiges Hauptzollamt: Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung dasjenige Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet, ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
+11. Delegierte Verordnung zum Unionszollkodex: die Delegierte Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom 23.2.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
 
 # § 1a – Hauptzollamt; örtliche Zuständigkeit
 
@@ -315,11 +313,13 @@ Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung des Steue
      
     (+++ § 10 Abs. 3: zur Anwendung vgl. § 60 Abs. 2 u. § 63 Abs. 2 +++) 
 
-# § 11 – Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung
+# § 11 – Vollständige Zerstörung, unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung
 
-(1) Sind Alkoholerzeugnisse unbeabsichtigt vollständig zerstört worden oder unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen hinreichend nachzuweisen. Das Hauptzollamt kann hinsichtlich der Anzeigepflicht und der Nachweisführung Vereinfachungen zulassen und Anordnungen treffen.
+(1) Sind Alkoholerzeugnisse unbeabsichtigt vollständig zerstört worden oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber dies dem Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen hinreichend nachzuweisen. Das Hauptzollamt kann hinsichtlich der Anzeigepflicht und der Nachweisführung Vereinfachungen zulassen und Anordnungen treffen.
 
 (2) Beabsichtigt der Steuerlagerinhaber Alkoholerzeugnisse nach § 27 Absatz 2 Nummer 4 des Gesetzes zu vernichten, so hat er dies eine Woche im Voraus dem Hauptzollamt anzuzeigen. Die Vernichtung hat er anhand betrieblicher Unterlagen hinreichend nachzuweisen. Das Hauptzollamt kann hinsichtlich der Anzeigepflicht und der Nachweisführung Vereinfachungen zulassen und Anordnungen treffen. Die Vernichtung ist amtlich zu überwachen, soweit das Hauptzollamt nicht darauf verzichtet. Außersteuerliche Vorschriften bleiben unberührt.
+
+(3) Die Absätze 1 und 2 gelten für die beabsichtigte Zerstörung von Alkoholerzeugnissen nach § 18 Absatz 3 Satz 2 des Gesetzes entsprechend. Die Anzeige der beabsichtigen Zerstörung ist in den Fällen, in denen die Alkoholerzeugnisse unter Steueraussetzung befördert werden, durch den Versender abzugeben. Soweit die vorgelegten Nachweise anerkannt werden, wird die nach § 41 für die Beförderung geleistete Sicherheit freigegeben.
 
   
 
@@ -445,7 +445,7 @@ gewinnt und zusammen mit dem Abfindungsalkohol im Steuerlager zu trinkfertigem A
 
 (3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis, als registrierter Versender tätig zu sein. Mit der Erlaubnis wird für den registrierten Versender eine Verbrauchsteuernummer vergeben. Bei der Beförderung in andere oder über andere Mitgliedstaaten ist vor der Erteilung der Erlaubnis Sicherheit für die Steuer nach § 7 Absatz 2 Satz 3 des Gesetzes zu leisten. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
-(4) Die Erlaubnis nach Absatz 3 gilt nicht für die Orte der Einfuhr, an denen Alkoholerzeugnisse nach den Artikeln 263 bis 267 der Zollkodex-Durchführungsverordnung oder aus einem Zolllager des Typs D im Sinne des Artikels 525 Absatz 2 Buchstabe a der Zollkodex-Durchführungsverordnung in den zollrechtlich freien Verkehr überführt werden. Sie gilt jedoch für die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der Delegierten Verordnung zum Unionszollkodex die Überlassung der Alkoholerzeugnisse zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
+(4) Die Erlaubnis nach Absatz 3 gilt nicht für die Orte der Einfuhr, an denen Alkoholerzeugnisse nach Artikel 182 des Unionszollkodex zum zollrechtlich freien Verkehr überlassen werden. Sie gilt jedoch für die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der Delegierten Verordnung zum Unionszollkodex die Überlassung der Alkoholerzeugnisse zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
 
 (5) Der registrierte Versender hat ein Belegheft sowie Aufzeichnungen über die beförderten Alkoholerzeugnisse zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Die beförderten Alkoholerzeugnisse sind vom registrierten Versender unverzüglich aufzuzeichnen.
 
@@ -453,7 +453,7 @@ gewinnt und zusammen mit dem Abfindungsalkohol im Steuerlager zu trinkfertigem A
 
 # § 18 – Begünstigte, Ausstellen der Freistellungsbescheinigung
 
-(1) Ein Begünstigter, der Alkoholerzeugnisse unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 13 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Das zuständige Hauptzollamt versieht die erste und die zweite Ausfertigung mit einem Bestätigungsvermerk. Der Begünstigte nach Satz 1 hat die erste und die zweite Ausfertigung dem Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach dem Empfang der Alkoholerzeugnisse durch den Begünstigten verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Die Alkoholerzeugnisse sind unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
+(1) Ein Begünstigter, der Alkoholerzeugnisse unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Das zuständige Hauptzollamt versieht die erste und die zweite Ausfertigung mit einem Bestätigungsvermerk. Der Begünstigte nach Satz 1 hat die erste und die zweite Ausfertigung dem Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach dem Empfang der Alkoholerzeugnisse durch den Begünstigten verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Die Alkoholerzeugnisse sind unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
 
 (2) Zuständiges Hauptzollamt ist
 
@@ -587,11 +587,11 @@ Die im vereinfachten Lohnbrennen in einem Kalenderjahr gewonnene Alkoholmenge in
 
 (3) Personen, die ihre Eigenschaft als Stoffbesitzer auf Grund von § 11 Absatz 4 des Gesetzes verloren haben, kann das Hauptzollamt die Eigenschaft als Stoffbesitzer wiederzuerkennen.
 
-# § 28 – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
+# § 28 – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
 
-Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und Bedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 13 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Bedingungen einzuhalten.
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem nach § 13 Absatz 1 des Gesetzes austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Rahmenbedingungen einzuhalten.
 
-# § 29 – Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
+# § 29 – Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
 
 (1) Sollen Alkoholerzeugnisse unter Steueraussetzung befördert werden aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
 
@@ -599,13 +599,13 @@ Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen
 
 2. in ein Steuerlager, in den Betrieb eines registrierten Empfängers oder zu einem Begünstigten in einem anderen Mitgliedstaat oder
 
-3. zu einem Ort, an dem die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen,
+3. zu einem Ort, an dem die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt werden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen ist,
 
-hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+hat der Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments mit dem in Artikel 3 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (2) Das Hauptzollamt überprüft automatisiert die Angaben in dem Entwurf des elektronischen Verwaltungsdokuments. Bei Beförderungen vom Ort der Einfuhr erfolgt zusätzlich ein Abgleich mit der Zollanmeldung. Gibt es keine Beanstandungen, wird der Entwurf des elektronischen Verwaltungsdokuments mit einem eindeutigen Referenzcode versehen und dem Versender als elektronisches Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
-(3) Der Beförderer hat während der Beförderung einen Ausdruck des vom zuständigen Hauptzollamt übermittelten elektronischen Verwaltungsdokuments mitzuführen. Anstelle des Ausdrucks kann ein Handelspapier mitgeführt werden, sofern dieses dieselben Daten enthält oder aus ihm der eindeutige Referenzcode hervorgeht. Bei der Beförderung von Alkoholerzeugnissen aus anderen Mitgliedstaaten gelten die Sätze 1 und 2 entsprechend.
+(3) Der Beförderer hat während der Beförderung den eindeutigen Referenzcode mitzuführen und auf Verlangen mitzuteilen. Das Hauptzollamt kann die Vorlage eines Ausdrucks des elektronischen Verwaltungsdokuments oder jedes anderen Handelspapiers verlangen. Bei der Beförderung von Alkoholerzeugnissen aus anderen Mitgliedstaaten gelten die Sätze 1 und 2 entsprechend.
 
 (4) Der Versender hat die Alkoholerzeugnisse auf Verlangen des Hauptzollamts unverändert vorzuführen. Dabei kann das Hauptzollamt Verschlussmaßnahmen anordnen.
 
@@ -629,7 +629,7 @@ Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten befördert, ha
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung der Alkoholerzeugnisse noch nicht begonnen hat.
 
-(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Annullierungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems vor Beginn der Beförderung den Entwurf der elektronischen Annullierungsmeldung mit dem in Artikel 4 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in der Annullierungsmeldung. Gibt es keine Beanstandungen, wird dies dem Versender unter Angabe des Datums und der Zeit der Prüfung mitgeteilt. Beanstandungen werden dem Versender ebenfalls mitgeteilt.
 
@@ -637,11 +637,11 @@ Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten befördert, ha
 
 (+++ § 31 Abs. 3 u. 4: zur Anwendung vgl. § 37 Abs. 3 +++)
 
-# § 32 – Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
+# § 32 – Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen bei Verwendung des elektronischen Verwaltungsdokuments
 
-(1) Während der Beförderung der Alkoholerzeugnisse unter Steueraussetzung kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort ändern und einen anderen zulässigen Bestimmungsort angeben (§ 14 Absatz 1, § 15 Absatz 1 Nummer 1, § 16 Absatz 1 des Gesetzes). Satz 1 gilt auch für Alkoholerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
+(1) Während der Beförderung der Alkoholerzeugnisse unter Steueraussetzung kann der Versender den Bestimmungsort oder den Empfänger der Alkoholerzeugnisse ändern und einen anderen zulässigen Bestimmungsort oder einen anderen Empfänger angeben (§ 14 Absatz 1, § 15 Absatz 1 Nummer 1, § 16 Absatz 1 des Gesetzes). Satz 1 gilt auch für Alkoholerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
-(2) Um den Bestimmungsort zu ändern, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Vor Änderung des Bestimmungsorts oder des Empfängers der Alkoholerzeugnisse hat der Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmeldung mit dem in Artikel 5 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben im Entwurf der elektronischen Änderungsmeldung. Gibt es keine Beanstandungen, wird dem Entwurf der Änderungsmeldung eine fortlaufende Vorgangsnummer zugewiesen und dem Versender als Änderungsmeldung zum ursprünglichen elektronischen Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
@@ -655,7 +655,7 @@ Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten befördert, ha
 
 # § 33 – Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
 
-(1) Nach der Aufnahme der Alkoholerzeugnisse, auch in Teilmengen, an einem Bestimmungsort, der in § 14 Absatz 1 Nummer 1 und § 15 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+(1) Nach der Aufnahme der Alkoholerzeugnisse, auch von Teilmengen, an einem Bestimmungsort, der in § 14 Absatz 1 Nummer 1 und § 15 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in Artikel 7 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
 (2) Das Hauptzollamt überprüft automatisiert die Angaben in der Eingangsmeldung. Gibt es keine Beanstandungen, wird dies dem Empfänger mitgeteilt. Gibt es Beanstandungen, wird dies dem Empfänger ebenfalls mitgeteilt. Das für den Versender zuständige Hauptzollamt übermittelt diesem die Eingangsmeldung, wenn er ein Steuerlagerinhaber im Steuergebiet oder ein registrierter Versender im Steuergebiet ist. Eine Eingangsmeldung, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, wird vom Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
 
@@ -663,11 +663,19 @@ Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten befördert, ha
 
 (4) Der Empfänger hat auf Verlangen des Hauptzollamts die Alkoholerzeugnisse unverändert vorzuführen.
 
-(5) In den Fällen des § 16 des Gesetzes erstellt das zuständige Hauptzollamt auf der Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung, mit der bestätigt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben. Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung an den Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das zuständige Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
+(5) Das Hauptzollamt erstellt auf der Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung, mit der
 
-(6) Unbeschadet des § 40 gilt die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 als Nachweis, dass die Beförderung der Alkoholerzeugnisse beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union nicht verlassen haben.
+1. in den Fällen des § 16 Absatz 1 Nummer 1 des Gesetzes bestätigt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben, oder
+
+2. in den Fällen des § 16 Absatz 1 Nummer 2 des Gesetzes bestätigt wird, dass die Alkoholerzeugnisse in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung an den Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das zuständige Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
+
+(6) Unbeschadet des § 40 gilt die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 als Nachweis, dass die Beförderung der Alkoholerzeugnisse beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union nicht verlassen haben oder nicht in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 (7) Ist der Empfänger bei Beförderungen von Alkoholerzeugnissen unter Steueraussetzung ein Steuerlagerinhaber im Steuergebiet, der die Alkoholerzeugnisse unter Steueraussetzung in ein anderes Steuerlager im Steuergebiet oder in den Betrieb eines Verwenders nach § 28 Absatz 1 des Gesetzes im Steuergebiet weiterbefördert, kann das Hauptzollamt auf Antrag unter Widerrufsvorbehalt zulassen, dass die Alkoholerzeugnisse als in sein Steuerlager aufgenommen und zugleich entnommen gelten, sobald der Empfänger im Steuergebiet an den Alkoholerzeugnissen Besitz erlangt hat. Die Vorschriften zu den Beförderungen unter Steueraussetzung bleiben unberührt.
+
+(8) Dürfen Alkoholerzeugnisse das Zollgebiet der Europäischen Union nicht verlassen, erstellt das Hauptzollamt eine Meldung auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch eine Meldung, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt die Meldung über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Meldungen über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang der Meldung über die nicht erfolgte Ausfuhr annulliert der Versender das elektronische Verwaltungsdokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Alkoholerzeugnisse.
 
   
 
@@ -683,9 +691,9 @@ Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten befördert, ha
 
 (1) Bei Beförderungen von Alkoholerzeugnissen unter Steueraussetzung zwischen Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der Steuerlagerinhaber gleichzeitig registrierter Versender ist, zwischen Orten der Einfuhr im Steuergebiet und den Steuerlagern dieses Steuerlagerinhabers im Steuergebiet kann das Hauptzollamt auf Antrag des Steuerlagerinhabers anstelle des Verfahrens mit elektronischem Verwaltungsdokument andere geeignete Verfahren zulassen, wenn Steuerbelange nicht gefährdet sind.
 
-(2) Bei häufigen und regelmäßigen Beförderungen von Alkoholerzeugnissen unter Steueraussetzung zur Abgabe als Schiffs-, Flugzeug- und Reisebedarf nach § 27 der Zollverordnung kann in den Fällen, in denen nach Artikel 786 der Zollkodex-Durchführungsverordnung ein zollrechtliches Ausfuhrverfahren durchgeführt wird, das zuständige Hauptzollamt auf Antrag des Steuerlagerinhabers zulassen, dass dieser für die in einem Kalendermonat abgegebenen Alkoholerzeugnisse bis zum zehnten Tag nach Ablauf des Kalendermonats, in dem die Beförderung begonnen hat, den Entwurf eines zusammengefassten elektronischen Verwaltungsdokuments übermittelt, wenn
+(2) Bei häufigen und regelmäßigen Beförderungen von Alkoholerzeugnissen unter Steueraussetzung zur Abgabe als Schiffs-, Flugzeug- und Reisebedarf nach § 27 der Zollverordnung kann in den Fällen, in denen nach Artikel 269 Absatz 1, 2 Buchstabe c und Absatz 3 des Unionszollkodex ein Ausfuhrverfahren durchgeführt wird, das Hauptzollamt auf Antrag des Steuerlagerinhabers zulassen, dass dieser für die in einem Kalendermonat abgegebenen Alkoholerzeugnisse bis zum zehnten Tag nach Ablauf des Kalendermonats, in dem die Beförderung begonnen hat, den Entwurf eines zusammengefassten elektronischen Verwaltungsdokuments übermittelt, wenn
 
-1. dem Steuerlagerinhaber das Verfahren nach Artikel 285a Absatz 1a der Zollkodex-Durchführungsverordnung bewilligt wurde;
+1. dem Steuerlagerinhaber das Verfahren nach Artikel 182 des Unionszollkodex bewilligt wurde;
 
 2. die Beförderung ausschließlich im Steuergebiet erfolgt und
 
@@ -724,13 +732,15 @@ Der Versender hat eine Ausfertigung des Handelspapiers zu seinen Aufzeichnungen 
 
 # § 36 – Beginn einer Beförderung im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender abweichend von § 29 nur dann eine Beförderung von Alkoholerzeugnissen unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck verwendet wird.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender abweichend von § 29 nur dann eine Beförderung von Alkoholerzeugnissen unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 der EMCS-Durchführungsverordnung verwendet wird.
 
 (2) Der Versender hat das Hauptzollamt vor Beginn der ersten Beförderung im Ausfallverfahren in geeigneter schriftlicher Form über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems zu unterrichten. Eine Unterrichtung ist nicht erforderlich, wenn es sich um einen durch das Informationstechnikzentrum Bund veröffentlichten Ausfall handelt.
 
 (3) Der Versender hat das Ausfalldokument vor Beginn der Beförderung in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er unverzüglich dem Hauptzollamt vorzulegen. Der Beförderer der Alkoholerzeugnisse hat während der Beförderung die dritte Ausfertigung mitzuführen.
 
 (4) Der Versender hat auf Verlangen des Hauptzollamts jede Beförderung im Ausfallverfahren vor Beginn anzuzeigen. Daneben hat der Versender auf Verlangen des Hauptzollamts die zweite Ausfertigung des Ausfalldokuments bereits vor Beginn einer Beförderung vorzulegen. § 29 Absatz 4 gilt entsprechend.
+
+(4a) In den Fällen des § 16 Absatz 1 des Gesetzes oder des Ausgangs von Alkoholerzeugnissen in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete, händigt der Versender dem Anmelder zur Ausfuhr die dritte Ausfertigung des Ausfalldokuments aus. Der Anmelder zur Ausfuhr legt diese Ausfertigung oder die eindeutige Kennung der Ausgangszollstelle vor. Der Inhalt des Ausfalldokuments muss der Ausfuhrmeldung für die angemeldeten Alkoholerzeugnisse entsprechen.
 
 (5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender dem zuständigen Hauptzollamt unverzüglich für alle im Ausfallverfahren durchgeführten Beförderungen unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments zu übermitteln, der dieselben Daten wie das Ausfalldokument nach Absatz 1 enthält und in dem auf die Verwendung des Ausfallverfahrens hingewiesen wird. § 29 Absatz 2 und 5 gilt entsprechend.
 
@@ -748,31 +758,39 @@ Der Versender hat eine Ausfertigung des Handelspapiers zu seinen Aufzeichnungen 
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt dem Versender das elektronische Verwaltungsdokument vor, hat er dem Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Annullierungsmeldung nach § 31 Absatz 2 zu übermitteln. § 31 Absatz 3 und 4 gilt entsprechend.
 
-# § 38 – Änderung des Bestimmungsorts im Ausfallverfahren
+# § 38 – Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort während der Beförderung der Alkoholerzeugnisse abweichend von § 32 mit nach amtlich vorgeschriebenem Vordruck ändern (Änderungsdokument). Satz 1 gilt auch für Alkoholerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender den Bestimmungsort oder den Empfänger der Alkoholerzeugnisse während der Beförderung der Alkoholerzeugnisse abweichend von § 32 mit nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung ändern (Änderungsdokument). Satz 1 gilt auch für Alkoholerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
-(2) Der Versender hat das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem zuständigen Hauptzollamt unverzüglich zu übermitteln. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Beförderungspapiers zu vermerken, wenn ihm nicht das Änderungsdokument übermittelt wurde.
+(2) Vor Änderung des Bestimmungsorts oder des Empfängers der Alkoholerzeugnisse hat der Versender das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem Hauptzollamt unverzüglich vorzulegen. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Beförderungspapiers zu vermerken, wenn die Beförderung bereits mit einem Ausfalldokument begonnen und ihm nicht das Änderungsdokument übermittelt wurde.
 
-(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender dem zuständigen Hauptzollamt unverzüglich für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 32 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument nach Absatz 1 enthält. § 32 Absatz 3 bis 6 gilt entsprechend.
+(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender dem Hauptzollamt unverzüglich für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts oder des Empfängers der Alkoholerzeugnisse unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 32 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument nach Absatz 1 enthält. § 32 Absatz 3 bis 6 gilt entsprechend.
 
-(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts sowie die Übermittlung der zweiten Ausfertigung des Änderungsdokuments gilt § 36 Absatz 2 und 4 Satz 1 und 2 entsprechend.
+(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts oder des Empfängers der Alkoholerzeugnisse sowie die Vorlage der zweiten Ausfertigung des Änderungsdokuments gilt § 36 Absatz 2 und 4 Satz 1 und 2 entsprechend.
 
 # § 39 – Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
-(1) Kann der Empfänger die Eingangsmeldung nach § 33 Absatz 1 nach Beendigung einer Beförderung von Alkoholerzeugnissen unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder weil ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 32 Absatz 6 nicht zugeleitet wurde, hat er dem zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck vorzulegen, mit dem er den Empfang der Alkoholerzeugnisse bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 33 Absatz 1 entsprechend.
+(1) Kann der Empfänger die Eingangsmeldung nach § 33 Absatz 1 nach Beendigung einer Beförderung von Alkoholerzeugnissen unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder weil ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 32 Absatz 6 nicht zugeleitet wurde, hat er dem Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 3 der EMCS-Durchführungsverordnung vorzulegen, mit dem er den Empfang der Alkoholerzeugnisse bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 33 Absatz 1 entsprechend.
 
 (2) Der Empfänger hat das Eingangsdokument unverzüglich in drei Exemplaren auszufertigen. Das Hauptzollamt bestätigt die drei Exemplare und gibt dem Empfänger die erste Ausfertigung zurück. Der Empfänger hat diese Ausfertigung zu seinen Aufzeichnungen zu nehmen. Wird die Eingangsmeldung nicht innerhalb der in § 33 Absatz 1 genannten Frist vom Empfänger übermittelt, übersendet das Hauptzollamt die zweite Ausfertigung des Eingangsdokuments dem für den Versender zuständigen Hauptzollamt, das diese an den Versender weiterleitet. Eingangsdokumente, die von den zuständigen Behörden eines anderen Mitgliedstaats übersendet wurden, werden vom Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 32 Absatz 5 oder 6 dem Empfänger vor, hat dieser dem Hauptzollamt unverzüglich für das im Ausfallverfahren erstellte Eingangsdokument unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems eine Eingangsmeldung nach § 33 Absatz 1 zu übermitteln, die dieselben Daten wie das Eingangsdokument nach Absatz 1 enthält. § 33 Absatz 2 gilt entsprechend.
 
-(4) Kann nach Beendigung einer Beförderung von Alkoholerzeugnissen unter Steueraussetzung die Ausfuhrmeldung nach § 33 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das zuständige Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn die Alkoholerzeugnisse aus dem Steuergebiet versendet wurden. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
+(4) Kann nach Beendigung einer Beförderung von Alkoholerzeugnissen unter Steueraussetzung die Ausfuhrmeldung nach § 33 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn die Alkoholerzeugnisse aus dem Steuergebiet versendet wurden. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
 
-(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 33 Absatz 5 Satz 1. § 33 Absatz 5 Satz 2 und 3 gilt entsprechend.
+(4a) Dürfen Alkoholerzeugnisse in den Fällen des § 16 Absatz 1 des Gesetzes oder des Ausgangs von Alkoholerzeugnissen in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt ein Ausfalldokument auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch ein Ausfalldokument, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt das Ausfalldokument über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfalldokumente über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden an den Versender im Steuergebiet von dem Hauptzollamt weitergeleitet. Nach Eingang des Ausfalldokuments annulliert der Versender das Ausfalldokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Alkoholerzeugnisse nach amtlich vorgeschriebenem Vordruck.
+
+(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das Hauptzollamt eine Ausfuhrmeldung nach § 33 Absatz 5 Satz 1 oder eine Meldung nach § 33 Absatz 8. § 33 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
 # § 40 – Ersatznachweise für die Beendigung der Beförderung
 
-Liegt kein Nachweis nach § 33 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 39 vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn hinreichend belegt ist, dass die Alkoholerzeugnisse den angegebenen Bestimmungsort erreicht haben oder das Verbrauchsteuergebiet der Europäischen Union verlassen haben (Ersatznachweis). Als hinreichender Beleg im Sinne von Satz 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie die Eingangsmeldung und in dem dieser den Empfang der Alkoholerzeugnisse bestätigt.
+(1) Liegt kein Nachweis nach § 33 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 39 vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Alkoholerzeugnisse
+
+1. den angegebenen Bestimmungsort erreicht haben oder
+
+2. das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+(2) Als hinreichender Ersatznachweis nach Absatz 1 Nummer 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie eine Eingangsmeldung und in dem der Empfänger den Empfang der Alkoholerzeugnisse bestätigt. Als hinreichender Ersatznachweis nach Absatz 1 Nummer 2 gilt insbesondere ein Sichtvermerk der Ausgangszollstelle, der bestätigt, dass die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 # § 41 – Art und Höhe der Sicherheitsleistung
 
@@ -784,11 +802,13 @@ Liegt kein Nachweis nach § 33 Absatz 6 vor, bestätigt das für den Empfänger 
 
 # § 42 – Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
-(1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt, kann das zuständige Hauptzollamt im Allgemeinen Fehlmengen bis zu 0,5 Prozent der Alkoholerzeugnisse als unwiederbringlich verloren gegangen ansehen. Satz 1 gilt nicht für Alkoholerzeugnisse in Fertigpackungen.
+(1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt, entscheidet das Hauptzollamt über die steuerliche Behandlung von Fehlmengen. Es kann im Allgemeinen Fehlmengen bis zu 0,5 Prozent der Alkoholerzeugnisse als unwiederbringlich verloren gegangen ansehen, sofern es sich nicht um Alkoholerzeugnisse in Fertigpackungen handelt.
 
 (2) Geht der Rückschein in den Fällen des § 35 Absatz 3 Satz 3 oder Absatz 4 Satz 4 nicht binnen zwei Monaten beim Versender ein, ist dies vom Versender unverzüglich dem für ihn zuständigen Hauptzollamt anzuzeigen.
 
 (3) Sind die Alkoholerzeugnisse während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört worden oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und nachzuweisen.
+
+(4) In den Fällen des § 18 Absatz 4 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 33 und 40 entsprechend. Die Frist nach § 18 Absatz 4 Satz 4 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 (+++ § 42 Abs. 1: zur Anwendung vgl. § 51 Abs. 1 +++)
 
@@ -812,51 +832,175 @@ Alkoholerzeugnisse aus Drittländern oder Drittgebieten sind in den Fällen der 
 
 # § 47 – Beförderungen zu privaten Zwecken
 
-(1) Werden mehr als 10 Liter Alkohol oder Alkohol zu Trinkzwecken nach § 23 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird vermutet, dass dieser zu gewerblichen Zwecken in das Steuergebiet befördert wird. Die Vermutung kann widerlegt werden.
+(1) Werden mehr als 10 Liter Alkohol oder Alkohol zu Trinkzwecken nach § 23 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird vermutet, dass dieser zu gewerblichen Zwecken in das Steuergebiet geliefert wird (§§ 24 bis 24c des Gesetzes). Die Vermutung kann widerlegt werden.
 
 (2) Die Weitergabe von Alkohol oder Alkohol zu Trinkzwecken, auch wenn sie unentgeltlich erfolgt, gilt unabhängig von der verbrachten Menge nicht als Eigenbedarf nach § 23 des Gesetzes.
 
-# § 48 – Beförderungen zu gewerblichen Zwecken
+# § 48 – Zertifizierter Empfänger
 
-(1) Wer Alkoholerzeugnisse aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken im Steuergebiet beziehen, erstmals in Besitz halten oder verwenden will, hat
+(1) Wer als zertifizierter Empfänger nach § 24a Absatz 1 Satz 1 Nummer 1 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs nicht nur gelegentlich empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
-1. dies im Voraus beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck unter Angabe von Art, Menge und Alkoholgehalt der Alkoholerzeugnisse anzuzeigen und
+1. Lagepläne mit den jeweils beantragten Empfangsorten und Angabe der Anschriften,
 
-2. Sicherheit für die Steuer nach § 24 Absatz 3 des Gesetzes zu leisten.
+2. eine Darstellung der Buchführung über den Empfang und den Verbleib der Alkoholerzeugnisse.
 
-Für die Steueranmeldung gilt § 44 entsprechend. Das zuständige Hauptzollamt kann von dem zur Anzeige Verpflichteten verlangen, weitere Angaben zu machen, Aufzeichnungen über den Bezug der Alkoholerzeugnisse zu führen und die Alkoholerzeugnisse unverändert vorzuführen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist.
+Die Sätze 1 und 2 gelten auch für das Verbringen oder Verbringenlassen von Alkoholerzeugnissen in das Steuergebiet, wenn diese nach § 24 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden.
 
-(2) Wer nicht nur gelegentlich Alkoholerzeugnisse aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken im Steuergebiet beziehen und dabei die Verfahrensvereinfachung nach § 24 Absatz 4 Satz 3 des Gesetzes in Anspruch nehmen will, hat dies im Voraus beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Für die Zulassung zu diesem Verfahren, für die Sicherheitsleistung, für das Belegheft sowie für die Aufzeichnungen über die bezogenen Alkoholerzeugnisse, für die Anzeigepflicht bei Änderung der dargestellten betrieblichen Verhältnisse und für die Steueranmeldung gelten die Regelungen für registrierte Empfänger in § 16 Absatz 3 Satz 1, 3 und 4, Absatz 5 und 6 sowie § 44 entsprechend.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Anforderungen nach Absatz 1 Satz 2 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 
-(3) Werden Alkoholerzeugnisse nach Absatz 1 Satz 1 und Absatz 2 Satz 1 in das Steuergebiet befördert, hat der Beförderer die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments während der Beförderung mitzuführen.
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als zertifizierter Empfänger für die beantragten Empfangsorte. Mit der Erlaubnis wird für den zertifizierten Empfänger eine Verbrauchsteuernummer vergeben. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 24a Absatz 3 des Gesetzes für die entstehende Steuer zu leisten. § 7 Satz 2 und § 41 gelten entsprechend. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
-(4) Der Bezieher nach Absatz 1 Satz 1 hat dem zuständigen Hauptzollamt mit der Steueranmeldung die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments, versehen mit seiner Empfangsbestätigung, vorzulegen. Auf Antrag bestätigt das zuständige Hauptzollamt die Anmeldung oder Entrichtung der Steuer.
+(4) Beabsichtigt der zertifizierte Empfänger zusätzlich zu den bewilligten Empfangsorten einen weiteren Empfangsort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Empfangsort gilt als genehmigt, wenn dem zertifizierten Empfänger nicht bis eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
+
+(5) Für den Erlaubnisinhaber nach § 5 des Gesetzes oder nach § 6 des Gesetzes gilt für die ihm bewilligten Steuerlager oder Empfangsorte die Erlaubnis als zertifizierter Empfänger als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
+
+1. beim Hauptzollamt vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat,
+
+2. die anfallende Sicherheit nach § 24a Absatz 3 des Gesetzes geleistet hat und
+
+3. an dem Verfahren nach § 48b, auch in Verbindung mit § 28, teilnimmt.
+
+Absatz 3 Satz 2 und 4 gilt entsprechend. Beabsichtigt der Erlaubnisinhaber einen weiteren Empfangsort als zertifizierter Empfänger zu betreiben, gilt Absatz 4 entsprechend.
+
+(6) Der zertifizierte Empfänger hat ein Belegheft sowie Aufzeichnungen über die im Rahmen einer Lieferung zu gewerblichen Zwecken empfangenen Alkoholerzeugnisse zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Der Empfang der Alkoholerzeugnisse ist vom zertifizierten Empfänger unverzüglich aufzuzeichnen.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 7a, 8 und 9 entsprechend.
+
+(8) Wer als zertifizierter Empfänger im Einzelfall nach § 24a Absatz 1 Satz 1 Nummer 2 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Versenders der Alkoholerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Satz 1 gilt auch für das Verbringen oder Verbringenlassen von Alkoholerzeugnissen in das Steuergebiet, wenn diese nach § 24 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann weitere Angaben sowie Aufzeichnungen über die im Rahmen der Lieferung zu gewerblichen Zwecken empfangenen Alkoholerzeugnisse verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 24a Absatz 4 des Gesetzes für die entstehende Steuer zu leisten. Eine Erlaubnis als zertifizierter Empfänger im Einzelfall kann auch Privatpersonen erteilt werden, die Alkoholerzeugnisse empfangen wollen, deren Beförderung nicht unter § 47 oder unter § 50 fällt.
 
 (+++ § 48 Abs. 3: zur Anwendung vgl. § 49 +++)
 
-# § 49 – Durchfuhr von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs eines anderen Mitgliedstaates
+# § 48a – Zertifizierter Versender
 
-Werden Alkoholerzeugnisse nach § 24 Absatz 2 Satz 2 Nummer 1 des Gesetzes durch das Steuergebiet befördert, gilt § 48 Absatz 3 entsprechend.
+(1) Wer als zertifizierter Versender nach § 24b Absatz 1 Satz 1 Nummer 1 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs nicht nur gelegentlich versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
-# § 50 – Versandhandel, Beauftragter
+1. eine Aufstellung mit den beantragten Versandorten und Angabe der Anschriften,
 
-(1) Der Versandhändler hat die Anzeige nach § 25 Absatz 3 Satz 1 des Gesetzes nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt abzugeben.
+2. eine Darstellung der Buchführung über den Versand und den Verbleib der Alkoholerzeugnisse.
 
-(2) Der Beauftragte des Versandhändlers hat den Antrag auf Erlaubnis nach § 25 Absatz 3 Satz 2 des Gesetzes vor Aufnahme seiner Tätigkeit beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu stellen. Das zuständige Hauptzollamt kann vom Antragsteller weitere Angaben verlangen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich sind.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Anforderungen nach Absatz 1 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 
-(3) Das zuständige Hauptzollamt erteilt dem Antragsteller schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis, sofern er Sicherheit für die Steuer, die im Einzelfall oder bei nicht nur gelegentlichen Lieferungen nach § 25 Absatz 4 Satz 4 des Gesetzes voraussichtlich während eines Monats entsteht, geleistet hat. Für das Erlöschen und den Fortbestand der Erlaubnis gilt § 9 entsprechend. Für die Sicherheitsleistung nach § 25 Absatz 4 Satz 4 des Gesetzes gilt § 7 Satz 2 entsprechend. Die Erlaubnis kann befristet werden.
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als zertifizierter Versender für die beantragten Versandorte. Mit der Erlaubnis wird für den zertifizierten Versender eine Verbrauchsteuernummer vergeben. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
-(4) Der Beauftragte hat ein Belegheft zu führen. Das zuständige Hauptzollamt kann dazu sowie zu den Aufzeichnungen und den Anzeigen nach § 25 Absatz 3 Satz 4 des Gesetzes Anordnungen treffen. Der Beauftragte ist verpflichtet, Änderungen der nach Absatz 2 dargestellten Verhältnisse dem zuständigen Hauptzollamt unverzüglich anzuzeigen.
+(4) Beabsichtigt der zertifizierte Versender zusätzlich zu den bewilligten Versandorten einen weiteren Versandort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Versandort gilt als genehmigt, wenn dem zertifizierten Versender nicht bis spätestens eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
 
-(5) Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt abzugeben.
+(5) Für den Erlaubnisinhaber nach § 5 des Gesetzes oder nach § 7 des Gesetzes gilt für die ihm bewilligten Steuerlager oder Versandorte die Erlaubnis als zertifizierter Versender als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
 
-# § 51 – Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+1. beim Hauptzollamt vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat und
 
-(1) Stellt der Bezieher nach § 48 Absatz 1 Satz 1 oder Absatz 2 Satz 1 Abweichungen gegenüber den Angaben im vereinfachten Begleitdokument fest, hat er dies dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen. § 42 Absatz 1 gilt entsprechend.
+2. an dem Verfahren nach § 48b, auch in Verbindung mit § 28, teilnimmt.
 
-(2) Sind die Alkoholerzeugnisse während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
+Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt der Erlaubnisinhaber zusätzlich zu den bewilligten Versandorten einen weiteren Versandort als zertifizierter Versender zu betreiben, gilt Absatz 4 entsprechend.
 
-(3) Die Steuerschuldner nach § 26 Absatz 2 Satz 1 des Gesetzes haben die Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben.
+(6) Der zertifizierte Versender hat ein Belegheft sowie Aufzeichnungen über die im Rahmen der Lieferung zu gewerblichen Zwecken in andere Mitgliedstaaten versandten Alkoholerzeugnisse zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Der Versand der Alkoholerzeugnisse ist vom zertifizierten Versender unverzüglich aufzuzeichnen.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 7a, 8 und 9 entsprechend.
+
+(8) Wer als zertifizierter Versender im Einzelfall nach § 24b Absatz 1 Satz 1 Nummer 2 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Empfängers der Alkoholerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Hauptzollamt kann weitere Angaben sowie Aufzeichnungen über die im Rahmen der Lieferung zu gewerblichen Zwecken in andere Mitgliedstaaten versandten Alkoholerzeugnisse verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Empfänger sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Eine Erlaubnis als zertifizierter Versender im Einzelfall kann auch Privatpersonen erteilt werden, die Alkoholerzeugnisse versenden wollen, deren Beförderung nicht unter § 47 oder unter § 50 fällt.
+
+# § 48b – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+
+(1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs das vereinfachte elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs-und Kontrollsystem nach § 24c Absatz 1 des Gesetzes austauschen. Weiter legt sie in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Im Übrigen gilt § 28.
+
+(2) Für häufig und regelmäßig stattfindende Beförderungen von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs kann das Bundesministerium der Finanzen mit weiteren von den Beförderungen betroffenen Mitgliedstaaten Vereinbarungen schließen, um vereinfachte Verfahren festzulegen. Dabei können auch Ausnahmen für die verpflichtende Verwendung eines vereinfachten elektronischen Verwaltungsdokuments vorgesehen werden.
+
+(3) Für die Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs kann das Hauptzollamt auf Antrag und im Benehmen mit den zuständigen Steuerbehörden der betroffenen Mitgliedstaaten ein vereinfachtes Verfahren, auch unter Verzicht auf die verpflichtende Verwendung eines vereinfachten elektronischen Verwaltungsdokuments zulassen. Die Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
+
+# § 48c – Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Sollen Alkoholerzeugnisse des steuerrechtlich freien Verkehrs nach diesem Abschnitt aus dem Steuergebiet befördert werden
+
+1. in einen anderen Mitgliedstaat oder
+
+2. in das Steuergebiet, wenn die Beförderung durch das Gebiet eines anderen Mitgliedstaats erfolgt,
+
+so hat der zertifizierte Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+
+(2) Für die Überprüfung der Angaben im Entwurf des vereinfachten elektronischen Verwaltungsdokuments gilt § 29 Absatz 2 entsprechend.
+
+(3) Während der Beförderung ist der eindeutige Referenzcode vom Beförderer mitzuführen und auf Anfrage mitzuteilen. Dies gilt auch bei der Beförderung von Alkoholerzeugnissen aus anderen Mitgliedstaaten. In den Fällen des Absatzes 1 Nummer 2 ist ein Ausdruck des vereinfachten elektronischen Verwaltungsdokuments mitzuführen.
+
+(4) Der zertifizierte Versender hat auf Verlangen des Hauptzollamts die Alkoholerzeugnisse unverändert vorzuführen.
+
+(5) Das Hauptzollamt leitet im Fall des Absatzes 1 Nummer 2 das vereinfachte elektronische Verwaltungsdokument an den zertifizierten Empfänger weiter. Wird dem Hauptzollamt von den zuständigen Behörden eines anderen Mitgliedstaats ein vereinfachtes elektronisches Verwaltungsdokument übermittelt, so wird es vom Hauptzollamt an den zertifizierten Empfänger im Steuergebiet weitergeleitet.
+
+# § 48d – Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Während der Beförderung der Alkoholerzeugnisse kann der zertifizierte Versender den Bestimmungsort ändern und zwar
+
+1. in einen Lieferort, der von demselben zertifizierten Empfänger in demselben Mitgliedstaat betrieben wird, oder
+
+2. in den Abgangsort.
+
+Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfänger die Übernahme der Alkoholerzeugnisse ablehnt.
+
+(2) Für die Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen gilt § 32 Absatz 2, 3 und 6 entsprechend.
+
+# § 48e – Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Nach der Aufnahme der Alkoholerzeugnisse, auch von Teilmengen, an einem von der Erlaubnis umfassten Bestimmungsort hat der zertifizierte Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Verbringen oder Verbringenlassen von Alkoholerzeugnissen in das Steuergebiet steht der Aufnahme nach Satz 1 gleich, sofern die Alkoholerzeugnisse nach § 24 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+
+(2) Für die Überprüfung der Eingangsmeldung gilt § 33 Absatz 2 Satz 1 bis 3 entsprechend. Abweichend davon erfolgt die Mitteilung an den zertifizierten Empfänger, dass es keine Beanstandungen gibt, erst nach der Vorlage des Nachweises dafür, dass
+
+1. die Alkoholerzeugnisse in ein Steuerlager aufgenommen wurden,
+
+2. die Alkoholsteuer angemeldet wurde oder
+
+3. sich an die Lieferung eine Steuerbefreiung anschließt.
+
+(3) Der zertifizierte Empfänger hat auf Verlangen des Hauptzollamts die Alkoholerzeugnisse unverändert vorzuführen.
+
+(4) Unbeschadet des § 51 gilt die Eingangsmeldung nach Absatz 1 als Nachweis dafür, dass die Beförderung der Alkoholerzeugnisse beendet wurde.
+
+# § 48f – Beförderung im Ausfallverfahren
+
+Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung und kann das vereinfachte elektronische Verwaltungsdokument somit nicht angewendet werden, gelten für das Ausfallverfahren die §§ 36, 38 und 39 entsprechend. In diesen Fällen sind Ausfalldokumente nach amtlich vorgeschriebenem Vordruck zu verwenden.
+
+# § 48g – Ersatznachweise für die Beendigung der Beförderung
+
+(1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das Steuergebiet kein Nachweis nach § 48e Absatz 4 oder § 48f in Verbindung mit § 39 Absatz 1 vor, bestätigt das für den zertifizierten Empfänger zuständige Hauptzollamt durch einen Sichtvermerk die Beendigung der Beförderung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Alkoholerzeugnisse den angegebenen Bestimmungsort erreicht haben.
+
+(2) Ein Sichtvermerk der zuständigen Behörde des Bestimmungsmitgliedstaats bei einer Beförderung aus dem Steuergebiet in einen anderen Mitgliedstaat gilt, sofern er vom Hauptzollamt akzeptiert wird, als hinreichender Ersatznachweis dafür, dass
+
+1. der zertifizierte Empfänger die dort angefallene Verbrauchsteuer entrichtet hat,
+
+2. der zertifizierte Empfänger die Alkoholerzeugnisse in ein Steuerlager aufgenommen hat oder
+
+3. die Alkoholerzeugnisse von der Verbrauchsteuer befreit sind.
+
+# § 49 – (weggefallen)
+
+# § 50 – Versandhandel
+
+(1) Wer als Versandhändler nach § 25 Absatz 1 des Gesetzes Alkoholerzeugnisse an Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im Voraus beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
+
+(2) Die Erlaubnis nach Absatz 1 gilt als unter Widerrufsvorbehalt erteilt, sobald
+
+1. das Hauptzollamt schriftlich oder elektronisch die Unternehmensnummer mitgeteilt hat und
+
+2. der Versandhändler die erforderliche Sicherheit nach § 25 Absatz 2 des Gesetzes geleistet hat.
+
+Für die Sicherheitsleistung gelten § 7 Satz 2 und § 41 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden.
+
+(3) Beauftragt der Versandhändler nach § 25 Absatz 2 des Gesetzes einen Steuervertreter, hat er diesen vor der ersten Lieferung mittels einer Anzeige nach amtlich vorgeschriebenem Vordruck bei dem für den Steuervertreter zuständigen Hauptzollamt zu benennen. Ein Antrag nach Absatz 1 ist in diesem Fall nicht erforderlich. Ist der Versandhändler bei Benennung des Steuervertreters bereits steuerlich in Erscheinung getreten, geht die Zuständigkeit auf das für den Steuervertreter zuständige Hauptzollamt über.
+
+(4) Der Steuervertreter bedarf für seine Tätigkeit für den Versandhändler einer Erlaubnis. Die Erlaubnis ist beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf Verlangen des Hauptzollamts hat der Steuervertreter weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
+
+(5) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als Steuervertreter. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 25 Absatz 2 des Gesetzes zu leisten. Für die Sicherheit gelten § 7 Satz 2 und § 41 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden. Die Erlaubnis des Steuervertreters wird bei Erteilung auch dem Versandhändler schriftlich oder elektronisch bekannt gegeben. Die Erlaubnis gilt damit auch für den Versandhändler als unter Widerrufsvorbehalt erteilt.
+
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 25 Absatz 2 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei nicht nur gelegentlichen Lieferungen nach § 25 Absatz 2 Satz 5 des Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der Anzeige gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter entsprechend.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 7a, 8 und 9 entsprechend. Die Erlaubnis des Steuervertreters erlischt, wenn die Erlaubnis für den Versandhändler erlischt. Die nach Absatz 5 Satz 7 als erteilt geltende Erlaubnis des Versandhändlers erlischt, wenn die für den Steuervertreter erteilte Erlaubnis erlischt.
+
+# § 51 – Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
+
+Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Teilverlusts von Alkoholerzeugnissen gelten § 11 Absatz 2 und § 42 entsprechend.
+
+# § 51a – Steueranmeldung; Kleinbetragsregelung
+
+(1) Die Steueranmeldung nach § 26b Absatz 1 bis 4 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+
+(2) Für die Überprüfung der Steueranmeldung und die Kleinbetragsregelung gelten § 44 Absatz 2 und § 45 entsprechend.
 
 # § 52 – Vergällung von Alkohol
 
@@ -874,7 +1018,7 @@ Werden Alkoholerzeugnisse nach § 24 Absatz 2 Satz 2 Nummer 1 des Gesetzes durch
 
 (2) Vollständig vergällter Alkohol tritt mit seiner Entnahme aus dem Steuerlager unter Steuerbefreiung in den steuerrechtlich freien Verkehr.
 
-(3) Wird vollständig vergällter Alkohol aus anderen oder in andere Mitgliedstaaten befördert, hat der Beförderer die zweite und die dritte Ausfertigung des vereinfachten Begleitdokuments mitzuführen.
+(3) Wird vollständig vergällter Alkohol aus anderen oder in andere Mitgliedstaaten befördert, hat der Beförderer die zweite und die dritte Ausfertigung des vereinfachten elektronischen Begleitdokuments mitzuführen.
 
 (4) Das Bundesministerium der Finanzen kann zur Durchführung des Artikels 27 Absatz 5 der Richtlinie 92/83/EWG des Rates vom 19. Oktober 1992 zur Harmonisierung der Struktur der Verbrauchsteuern auf Alkohol und alkoholische Getränke (ABl. L 316 vom 31.10.1992, S. 21, L 19 vom 27.1.1995, S. 52), die zuletzt durch das Protokoll über die Bedingungen und Einzelheiten der Aufnahme der Republik Bulgarien und Rumäniens in die Europäische Union (ABl. L 157 vom 21.6.2005, S. 86) geändert worden ist, in der jeweils geltenden Fassung, durch Allgemeinverfügung eine Steuerbefreiung nach § 27 Absatz 2 Nummer 6 des Gesetzes versagen. Das Bundesministerium der Finanzen kann auch eine bereits gewährte Steuerbefreiung zurücknehmen, wenn das für die vollständige Vergällung von Alkohol verwendete Vergällungsmittel aus Gründen der Sicherung des Steueraufkommens oder des Gesundheitsschutzes ungeeignet ist. Die Allgemeinverfügung ist im Bundesanzeiger sowie im Internet auf der zentralen Informationsplattform www.zoll.de zu veröffentlichen.
 
@@ -986,9 +1130,9 @@ die nachweislich dazu bestimmt sind, unter geringer Dosierung zur Herstellung un
 
 # § 61 – Lagerung, Bestandsaufnahme
 
-(1) Der Verwender darf die Alkoholerzeugnisse nur an den angemeldeten Orten lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn Steuerbelange nicht beeinträchtigt werden. Es kann vom Verwender verlangen, dass in den Lagerräumen sowie in den Räumen, in denen die Alkoholerzeugnisse steuerfrei verwendet werden, Bekanntmachungen auszuhängen sind, in denen die vorgesehene Verwendung angegeben und auf die steuerlichen Folgen einer zweckwidrigen Verwendung hingewiesen wird. Für die Vernichtung, die vollständige Zerstörung und den unwiederbringlichen Verlust von Alkoholerzeugnissen gilt § 11 entsprechend.
+(1) Der Verwender darf die Alkoholerzeugnisse nur an den angemeldeten Orten empfangen und lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn Steuerbelange nicht beeinträchtigt werden. Es kann vom Verwender verlangen, dass in den Lagerräumen sowie in den Räumen, in denen die Alkoholerzeugnisse steuerfrei verwendet werden, Bekanntmachungen auszuhängen sind, in denen die vorgesehene Verwendung angegeben und auf die steuerlichen Folgen einer zweckwidrigen Verwendung hingewiesen wird. Für die Vernichtung, die vollständige Zerstörung und den unwiederbringlichen Gesamt- oder Teilverlust von Alkoholerzeugnissen gilt § 11 entsprechend.
 
-(2) Der Verwender hat versteuerte und unversteuerte Alkoholerzeugnisse getrennt voneinander zu lagern. Der Verwender hat dem zuständigen Hauptzollamt im Voraus anzuzeigen, wenn er Arzneimittel aus unvergälltem und unversteuertem Alkohol herstellt und daneben versteuerten Alkohol beziehen will. Er ist verpflichtet, Aufzeichnungen über den Bezug und die Verwendung des versteuerten Alkohols zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
+(2) Der Verwender hat versteuerte Alkoholerzeugnisse und Alkoholerzeugnisse, die sich in der steuerfreien Verwendung befinden, getrennt voneinander zu lagern. Der Verwender, der im Rahmen seiner Erlaubnis Arzneimittel aus unvergälltem und unversteuertem Alkohol herstellt und daneben versteuerten Alkohol verarbeiten will, hat dies im Voraus dem Hauptzollamt anzuzeigen. Er ist verpflichtet, Aufzeichnungen über den Bezug und den Verbleib des versteuerten Alkohols zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
 (3) Der Verwender hat einmal jährlich den Bestand aufzunehmen, wenn nach § 60 Absatz 2 ein Verwendungsbuch geführt wird oder andere Aufzeichnungen an seiner Stelle zugelassen sind. Die §§ 12 und 13 Absatz 1 gelten entsprechend.
 
@@ -1012,27 +1156,23 @@ die nachweislich dazu bestimmt sind, unter geringer Dosierung zur Herstellung un
 
 (5) Der Steuerlagerinhaber kann beim Hauptzollamt beantragen, versteuerte Alkoholerzeugnisse unter Steueraussetzung an Steuerlagerinhaber oder in Betriebe von registrierten Empfängern in anderen Mitgliedstaaten zu befördern, ohne die Alkoholerzeugnisse in sein Steuerlager aufzunehmen. Die Alkoholerzeugnisse sind auf Verlangen des Hauptzollamts vorher vorzuführen. Die Absätze 2 und 3 gelten entsprechend.
 
-(6) Für die Überprüfung der Steueranmeldung gilt § 44 Absatz 2 entsprechend.
+(6) In den Fällen des § 29 Absatz 2 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 33 und 40 entsprechend. Die Frist nach § 29 Absatz 2 Satz 3 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der Feststellung der Unwirksamkeit gegenüber dem Steuerschuldner.
+
+(7) Für die Überprüfung der Steueranmeldung gilt § 44 Absatz 2 entsprechend.
 
 (+++ § 63 Abs. 3 S. 3: zur Anwendung vgl. § 64 Abs. 4 +++)
 
-# § 64 – Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
+# § 64 – Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
 
-(1) Wer Alkoholerzeugnisse des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken, ausgenommen im Versandhandel, in andere Mitgliedstaaten befördern will, hat das vereinfachte Begleitdokument vor Beginn der Beförderung auszufertigen. Der Beförderer hat die zweite und die dritte Ausfertigung während der Beförderung mitzuführen.
+(1) In den Fällen des § 30 Absatz 1 des Gesetzes ist die Steuerentlastung mit einer Entlastungsanmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen. Die Entlastungsanmeldung kann einmal im Monat zusammengefasst für die Alkoholerzeugnisse, für die die Voraussetzungen für eine Entlastung vorliegen, beim Hauptzollamt abgegeben werden. In der Entlastungsanmeldung sind die für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und der Entlastungsbetrag selbst zu berechnen. Der Nachweis der Versteuerung im Steuergebiet ist der Entlastungsanmeldung beizufügen.
 
-(2) Wer eine Steuerentlastung nach § 30 Absatz 1 des Gesetzes für versteuerte Alkoholerzeugnisse, die in andere Mitgliedstaaten befördert werden, nicht nur gelegentlich in Anspruch nehmen will, hat dies dem zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck anzuzeigen. Der Anzeige ist in doppelter Ausfertigung eine Aufstellung über die Art der Alkoholerzeugnisse unter Angabe ihres Alkoholgehalts beizufügen. Der Entlastungsberechtigte hat außerdem zu versichern, dass die Alkoholerzeugnisse zum Regelsatz versteuert sind und keinen Abfindungsalkohol enthalten. Änderungen der dargestellten Verhältnisse hat der Entlastungsberechtigte dem zuständigen Hauptzollamt unverzüglich anzuzeigen.
+(2) Mit der Entlastungsanmeldung ist ein Ausdruck der Eingangsmeldung des vereinfachten elektronischen Verwaltungsdokuments als Nachweis nach § 30 Absatz 2 Nummer 1 des Gesetzes vorzulegen. Sofern die Eingangsmeldung mehrere Positionen enthält, ist die Position, für die die Entlastung beantragt wird, zu benennen. Ein Nachweis nach § 48g Absatz 2 kann als hinreichender Nachweis in den Fällen anerkannt werden, in denen keine Eingangsmeldung abgegeben wurde. In den Fällen des § 30 Absatz 2 Nummer 2 und 3 des Gesetzes ist der Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen.
 
-(3) Der Entlastungsberechtigte hat ein Belegheft und Aufzeichnungen über die Beförderungen von Alkoholerzeugnissen in andere Mitgliedstaaten zu führen. Das zuständige Hauptzollamt kann dazu Anordnungen treffen. Auf Verlangen des zuständigen Hauptzollamts hat der Entlastungsberechtigte die Alkoholerzeugnisse vor Beginn der Beförderung vorzuführen.
+(3) Der Entlastungsberechtigte hat, sofern er die Alkoholerzeugnisse nicht selbst versteuert hat, als Nachweis der Versteuerung im Steuergebiet nach § 30 Absatz 1 Satz 1 des Gesetzes dem Hauptzollamt eine Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen. Der Entlastungsberechtigte hat bei der Beförderung von inländischem Alkohol zu Trinkzwecken durch eine Erklärung des Herstellers auch den Nachweis zu führen, dass der Alkohol keinen Abfindungsalkohol enthält.
 
-(4) Der Entlastungsberechtigte hat die Steuerentlastung mit einer Entlastungsanmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen. Er hat die Steuerentlastung für alle Alkoholerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts nach Absatz 6 aus dem Steuergebiet befördert worden sind. Der Entlastungsberechtigte hat die Entlastungsanmeldung dem zuständigen Hauptzollamt bis zum zehnten Tag des zweiten Monats, der dem Entlastungsabschnitt folgt, abzugeben. Die Entlastungsanmeldung muss alle für die Bemessung der Steuerentlastung erforderlichen Angaben und den selbst berechneten Entlastungsbetrag enthalten. Außerdem ist vom Entlastungsberechtigten die dritte vom Empfänger bestätigte Ausfertigung des vereinfachten Begleitdokuments zusammen mit dem Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen. Als Versteuerungsnachweis gilt auch die amtliche Bestätigung des anderen Mitgliedstaats, dass die Alkoholerzeugnisse dort ordnungsgemäß steuerlich erfasst wurden. Der Entlastungsberechtigte hat außerdem, sofern er die Alkoholerzeugnisse nicht selbst versteuert hat, als Nachweis der Versteuerung im Steuergebiet dem zuständigen Hauptzollamt eine Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen. Der Entlastungsberechtigte hat bei der Beförderung von inländischem Alkohol zu Trinkzwecken durch eine Erklärung des Herstellers auch den Nachweis zu führen, dass der Alkohol keinen Abfindungsalkohol enthält. § 63 Absatz 3 Satz 3 gilt entsprechend.
+(4) Der Antrag auf Erlass oder Erstattung der Steuer nach § 30 Absatz 3 des Gesetzes ist mit einer Entlastungsanmeldung nach Absatz 1 Satz 1 bei dem Hauptzollamt zu stellen, das die Steuer nach § 26a Absatz 1 Nummer 4 des Gesetzes erhoben hat. Dem Antrag ist der Versteuerungsnachweis des anderen Mitgliedstaats beizufügen.
 
-(5) Die Frist zur Abgabe der Entlastungsanmeldung nach Absatz 4 Satz 3 kann vom zuständigen Hauptzollamt auf Antrag im Einzelfall verlängert werden.
-
-(6) Der Entlastungsabschnitt umfasst ein Kalendervierteljahr. Das zuständige Hauptzollamt kann den Entlastungsabschnitt auf Antrag bis auf einen Kalendermonat verkürzen oder bis auf ein Kalenderjahr verlängern. Außerdem kann es in Einzelfällen die Steuer unverzüglich erlassen, erstatten oder vergüten.
-
-(7) Entnimmt der Entlastungsberechtigte seinem Steuerlager die Alkoholerzeugnisse unter Versteuerung, hat er die Steuerentlastung bis zum zehnten Tag des Monats, der auf den Entlastungsabschnitt folgt, in der Steueranmeldung nach § 44 zu beantragen. Der Entlastungsabschnitt beträgt in diesem Fall einen Kalendermonat.
-
-(8) Der Entlastungsberechtigte hat den Antrag auf Erlass oder Erstattung der Steuer nach § 30 Absatz 3 des Gesetzes mit einer Entlastungsanmeldung nach Absatz 4 Satz 1 bei dem Hauptzollamt zu stellen, das die Steuer nach § 26 Absatz 2 des Gesetzes erhoben hat. Dem Antrag ist der Versteuerungsnachweis des anderen Mitgliedstaats beizufügen.
+(5) Für die Überprüfung der Steueranmeldung gilt § 44 Absatz 2 entsprechend.
 
 # § 65 – Anmeldungen im Rahmen der Steueraufsicht
 
@@ -1122,15 +1262,7 @@ Wird das Gerät an einem anderen Ort aufgestellt, so ist dies spätestens drei W
 
 An Gefäßen, die zur alkoholischen Gärung verwendet werden, dürfen keine Einrichtungen vorhanden sein, die zum Aufkochen des Inhalts verwendet werden können. Es ist jedoch zulässig, dass die Gefäße mit einer Dampfleitung verbunden sind, die in die Wandung des Gefäßes oben einmündet, nicht in das Gefäß hineinragt und an deren Einmündung kein Rohr oder Schlauch angebracht werden kann. Das Hauptzollamt kann weitere Ausnahmen von Satz 1 zulassen.
 
-# § 70 – Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
-
-(1) Wer Alkoholerzeugnisse des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken durch einen anderen Mitgliedstaat an einen Empfänger im Steuergebiet befördert, hat das vereinfachte Begleitdokument vor Beginn der Beförderung auszufertigen. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis „Transit/Alkoholerzeugnisse des steuerrechtlich freien Verkehrs“ anzubringen sowie die Anschrift des zuständigen Hauptzollamts zu vermerken. Der Beförderer hat während der Beförderung die zweite und dritte Ausfertigung mitzuführen. Er hat die Alkoholerzeugnisse auf dem kürzesten zumutbaren Weg durch den anderen Mitgliedstaat (Transitmitgliedstaat) zu befördern.
-
-(2) Der Versender hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem zuständigen Hauptzollamt vorzulegen. Nach Beendigung der Beförderung hat der Empfänger die Übernahme der Alkoholerzeugnisse auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und sie dem für den Versender zuständigen Hauptzollamt zu übermitteln.
-
-(3) Tritt während der Beförderung auf dem Gebiet des Transitmitgliedstaats eine Unregelmäßigkeit ein, hat der Beförderer die zuständige Steuerbehörde des Transitmitgliedstaats und das für den Versender zuständige Hauptzollamt unverzüglich zu unterrichten.
-
-(4) Sollen Alkoholerzeugnisse des steuerrechtlich freien Verkehrs regelmäßig durch einen anderen Mitgliedstaat befördert werden, kann das zuständige Hauptzollamt auf Antrag des Versenders und im Benehmen mit der zuständigen Steuerbehörde des Transitmitgliedstaats ein erleichtertes Verfahren unter Verzicht auf das vereinfachte Begleitdokument zulassen. Das zuständige Hauptzollamt schreibt das Verfahren vor und erteilt unter Widerrufsvorbehalt eine Erlaubnis. Das zuständige Hauptzollamt leitet eine Ausfertigung dieser Erlaubnis der zuständigen Steuerbehörde des Transitmitgliedstaats zu.
+# § 70 – (weggefallen)
 
 # §§ 71 bis 76 – (weggefallen)
 
@@ -1138,30 +1270,58 @@ An Gefäßen, die zur alkoholischen Gärung verwendet werden, dürfen keine Einr
 
 (1) Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
-1. entgegen § 8 Absatz 1 Satz 1, Absatz 2, Absatz 3 Satz 1 oder Absatz 4 Satz 1 oder 2, jeweils auch in Verbindung mit § 16 Absatz 6 Satz 1, § 17 Absatz 6 Satz 1, § 48 Absatz 2 Satz 2 oder § 59 Absatz 4 Satz 1, entgegen § 9 Absatz 6, auch in Verbindung mit § 16 Absatz 6 Satz 2, § 17 Absatz 6 Satz 2, § 50 Absatz 3 Satz 2 oder § 59 Absatz 4 Satz 2, entgegen § 11 Absatz 1 Satz 1 oder Absatz 2 Satz 1, jeweils auch in Verbindung mit § 61 Absatz 1 Satz 4, entgegen § 12 Absatz 1 Satz 4, auch in Verbindung mit § 61 Absatz 3 Satz 2, entgegen § 36 Absatz 4 Satz 1, auch in Verbindung mit § 38 Absatz 4, entgegen § 42 Absatz 2 oder 3, § 48 Absatz 1 Satz 1 Nummer 1, § 50 Absatz 4 Satz 3, § 51 Absatz 1 Satz 1, § 59 Absatz 2 Satz 2, § 61 Absatz 2 Satz 2, § 64 Absatz 2 Satz 4 oder § 65 Absatz 2 oder Absatz 6 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+1. entgegen
 
-2. entgegen § 12 Absatz 1 Satz 1, 2 oder Absatz 2 Satz 2, § 65 Absatz 1 Satz 1 oder Absatz 5 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
+a) § 8 Absatz 1 Satz 1, auch in Verbindung mit § 20 Absatz 4, oder entgegen § 8 Absatz 3 Satz 1 oder Absatz 4 Satz 1 oder 2, jeweils auch in Verbindung mit § 16 Absatz 6, § 17 Absatz 6, § 26 Absatz 3 Satz 4, § 48 Absatz 7, § 48a Absatz 7, § 50 Absatz 7 Satz 1 oder § 59 Absatz 4,
 
-3. entgegen § 10 Absatz 1 Satz 1, Absatz 2 Satz 1 oder 2 oder Absatz 3 Satz 1, auch in Verbindung mit § 60 Absatz 2 Satz 5, entgegen § 13 Absatz 4 Satz 3, § 16 Absatz 5 Satz 1 oder 4, auch in Verbindung mit § 48 Absatz 2 Satz 2, entgegen § 17 Absatz 5 Satz 1 oder 3, § 22 Absatz 1 Satz 1, § 50 Absatz 4 Satz 1, § 60 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 61 Absatz 2 Satz 3, § 64 Absatz 3 Satz 1 oder § 65 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 4, ein Belegheft, ein Lagerbuch, eine Aufzeichnung oder ein Verwendungsbuch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig führt,
+b) § 8 Absatz 5, auch in Verbindung mit § 16 Absatz 6, § 17 Absatz 6, § 20 Absatz 4, § 26 Absatz 3 Satz 4, § 48 Absatz 7, § 48a Absatz 7, § 50 Absatz 7 Satz 1 oder § 59 Absatz 4,
 
-4. einer vollziehbaren Anordnung nach § 22 Absatz 2 zuwiderhandelt,
+c) § 11 Absatz 1 Satz 1, auch in Verbindung mit § 61 Absatz 1 Satz 4, entgegen § 48 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, oder entgegen § 48a Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3,
 
-5. entgegen § 29 Absatz 1, § 31 Absatz 2, § 32 Absatz 2, § 33 Absatz 1 Satz 1 oder Absatz 3 Satz 1, § 36 Absatz 3 Satz 3 oder Absatz 5 Satz 1, § 37 Absatz 3 Satz 1, § 38 Absatz 2 Satz 3 oder Absatz 3 Satz 1, § 39 Absatz 3 Satz 1 oder § 70 Absatz 2 Satz 2 eine Übermittlung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+d) § 11 Absatz 2 Satz 1, auch in Verbindung mit § 51 oder § 61 Absatz 1 Satz 4,
 
-6. entgegen § 29 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, entgegen § 30 Satz 1, § 35 Absatz 2 Satz 3, § 36 Absatz 3 Satz 4, § 48 Absatz 3, auch in Verbindung mit § 49, entgegen § 64 Absatz 1 Satz 2 oder § 70 Absatz 1 Satz 3 einen Ausdruck oder eine Ausfertigung nicht mitführt,
+e) § 12 Absatz 1 Satz 4, auch in Verbindung mit § 61 Absatz 3 Satz 2,
 
-7. entgegen § 29 Absatz 4 Satz 1, auch in Verbindung mit § 36 Absatz 4 Satz 3, entgegen § 33 Absatz 4, § 35 Absatz 6 Satz 1, § 48 Absatz 1 Satz 3, § 63 Absatz 5 Satz 2 oder § 64 Absatz 3 Satz 3 ein Alkoholerzeugnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorführt,
+f) § 36 Absatz 4 Satz 1, auch in Verbindung § 38 Absatz 4 oder § 48f, oder
 
-8. entgegen § 35 Absatz 3 Satz 1 oder Absatz 4 Satz 2, § 36 Absatz 4 Satz 2, auch in Verbindung mit § 38 Absatz 4, entgegen § 39 Absatz 1 Satz 1 oder § 48 Absatz 4 Satz 1 eine Ausfertigung oder ein Dokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+g) § 42 Absatz 2 oder 3, § 59 Absatz 2 Satz 2, § 61 Absatz 2 Satz 2 oder § 65 Absatz 2 oder 6
 
-9. entgegen § 35 Absatz 3 Satz 3 oder Absatz 4 Satz 4 einen Rückschein oder eine Sammelanmeldung nicht oder nicht rechtzeitig zurücksendet,
+eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-10. entgegen § 36 Absatz 2 Satz 1, § 37 Absatz 2 Satz 3, § 38 Absatz 2 Satz 4 oder § 70 Absatz 3 eine Unterrichtung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt oder
+2. entgegen
 
-11. entgegen § 36 Absatz 7 Satz 1 oder 2 oder § 38 Absatz 2 Satz 5 eine Eintragung oder einen Vermerk nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt.
+a) § 10 Absatz 1 Satz 1, Absatz 2 Satz 1 oder 2 oder Absatz 3 Satz 1, auch in Verbindung mit § 60 Absatz 2 Satz 5, § 63 Absatz 1 Satz 2 oder Absatz 2 Satz 2,
 
-(2) Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 2 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 35 Absatz 8 Satz 1 oder Absatz 9 Satz 2 oder § 62 Absatz 1 Satz 2 ein Handelspapier nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beigibt.
+b) § 13 Absatz 4 Satz 3, § 14 Absatz 3 Satz 1, § 16 Absatz 5 Satz 1 oder 4 oder
 
-# § 78 – Inkrafttreten, Außerkrafttreten
+c) § 17 Absatz 5 Satz 1 oder 3, § 22 Absatz 1 Satz 1, § 48 Absatz 6 Satz 1 oder 3, § 48a Absatz 6 Satz 1 oder 3, § 60 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 61 Absatz 2 Satz 3 oder § 65 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 5,
 
-Diese Verordnung tritt am 1. Januar 2018 in Kraft. Die Branntweinsteuerverordnung vom 5. Oktober 2009 (BGBl. I S. 3262, 3280), die zuletzt durch Artikel 9 Absatz 8 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, und die Branntweinmonopolverordnung vom 20. Februar 1998 (BGBl. I S. 383), die zuletzt durch Artikel 6 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2722) geändert worden ist, treten mit Ablauf des 31. Dezember 2017 außer Kraft.
+ein Belegheft, ein Lagerbuch, eine Aufzeichnung oder ein Verwendungsbuch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig führt,
+
+3. entgegen § 12 Absatz 1 Satz 1 oder 2 oder Absatz 2 Satz 2, § 62 Absatz 2 oder § 65 Absatz 1 Satz 1 oder Absatz 5 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
+
+4. entgegen § 29 Absatz 1, § 31 Absatz 2, § 32 Absatz 2, auch in Verbindung mit § 48d Absatz 2, entgegen § 33 Absatz 1 Satz 1 oder Absatz 3 Satz 1, § 36 Absatz 5 Satz 1, auch in Verbindung mit § 48f Satz 1, entgegen § 37 Absatz 3 Satz 1, § 38 Absatz 3 Satz 1, § 39 Absatz 3 Satz 1, jeweils auch im Verbindung mit § 48f Satz 1, entgegen § 48c Absatz 1 oder § 48e Absatz 1 Satz 1 eine Übermittlung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+5. entgegen § 29 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, entgegen § 36 Absatz 7 Satz 2 oder § 48c Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+6. entgegen § 29 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, entgegen § 30 Satz 1, § 35 Absatz 2 Satz 3, § 35 Absatz 8 Satz 5 oder Absatz 9 Satz 6, § 36 Absatz 3 Satz 4, § 48c Absatz 3 Satz 1 oder 3 oder § 53 Absatz 3 den eindeutigen Referenzcode, einen Ausdruck oder eine Ausfertigung nicht mitführt,
+
+7. entgegen § 29 Absatz 4 Satz 1, auch in Verbindung mit § 36 Absatz 4 Satz 3, entgegen § 33 Absatz 4, § 35 Absatz 6 Satz 1, § 48c Absatz 4, § 48e Absatz 3 oder § 63 Absatz 5 Satz 2 ein Alkoholerzeugnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorführt,
+
+8. entgegen § 35 Absatz 2 Satz 1, Absatz 8 Satz 1 oder Absatz 9 Satz 2, § 36 Absatz 3 Satz 1, auch in Verbindung mit § 48f Satz 1, entgegen § 37 Absatz 2 Satz 1, § 38 Absatz 2 Satz 1 oder § 39 Absatz 2 Satz 1, jeweils auch in Verbindung mit § 48f Satz 1, ein Dokument nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig ausfertigt,
+
+9. entgegen § 35 Absatz 3 Satz 1 oder Absatz 4 Satz 2, § 36 Absatz 2 Satz 3 oder Absatz 4 Satz 2, auch in Verbindung mit § 38 Absatz 4, jeweils auch in Verbindung mit § 48f Satz 1, entgegen § 38 Absatz 2 Satz 3, auch in Verbindung mit § 48f Satz 1, oder entgegen § 39 Absatz 1 eine Ausfertigung oder ein Dokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+10. entgegen § 35 Absatz 3 Satz 3 oder Absatz 4 Satz 4 einen Rückschein oder eine Sammelanmeldung nicht oder nicht rechtzeitig zurücksendet,
+
+11. entgegen § 36 Absatz 2 Satz 1, auch in Verbindung mit § 38 Absatz 4 oder § 48f Satz 1, entgegen § 37 Absatz 2 Satz 3 oder § 38 Absatz 2 Satz 4, auch in Verbindung mit § 48f Satz 1, eine Unterrichtung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+12. entgegen § 36 Absatz 7 Satz 1 oder 2 oder § 38 Absatz 2 Satz 5, auch in Verbindung mit § 48f Satz 1, eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder eine Angabe nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vermerkt oder
+
+13. entgegen § 59 Absatz 2 Satz 1 einen Erlaubnisschein nicht oder nicht rechtzeitig zurückgibt.
+
+(2) Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 2 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 62 Absatz 1 Satz 2 ein Handelspapier nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beigibt.
+
+# § 78 – Übergangsvorschriften
+
+Für Beförderungen von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs mit einem vereinfachten Begleitdokument aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.

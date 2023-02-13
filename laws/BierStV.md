@@ -7,27 +7,23 @@
 
 Im Sinn dieser Verordnung ist
 
-1. Systemrichtlinie: Richtlinie 2008/118/EG des Rates vom 16. Dezember 2008 über das allgemeine Verbrauchsteuersystem und zur Aufhebung der Richtlinie 92/12/EWG (ABl. L 9 vom 14.1.2009, S. 12) in der jeweils geltenden Fassung;
+1. EMCS-Durchführungsverordnung: die Verordnung (EG) Nr. 684/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Richtlinie 2008/118/EG des Rates in Bezug auf die EDV-gestützten Verfahren für die Beförderung verbrauchsteuerpflichtiger Waren unter Steueraussetzung (ABl. L 197 vom 29.7.2009, S. 24), die zuletzt durch die Durchführungsverordnung (EU) 2020/1811 (ABl. L 404 vom 2.12.2020, S. 3) geändert worden ist, in der jeweils geltenden Fassung;
 
-2. EDV-gestütztes Beförderungs- und Kontrollsystem: System, über das Personen, die an Beförderungen unter Steueraussetzung beteiligt sind, elektronische Meldungen über Bewegungen von Bier mit der Zollverwaltung austauschen; das System dient der Kontrolle dieser Bewegungen;
+2. EDV-gestütztes Beförderungs- und Kontrollsystem: System, über das Personen, die an Beförderungen von Bier unter Steueraussetzung oder an Lieferungen von Bier zu gewerblichen Zwecken nach § 20 des Gesetzes beteiligt sind, elektronische Meldungen über Bewegungen von Bier mit der Zollverwaltung austauschen; das System dient der Kontrolle dieser Bewegungen;
 
 3. elektronisches Verwaltungsdokument: Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
 4. Begleitdokument: begleitendes Verwaltungsdokument nach amtlich vorgeschriebenem Vordruck;
 
-5. vereinfachtes Begleitdokument: das Dokument nach Artikel 2 Absatz 1 oder ein anderes Dokument nach Artikel 2 Absatz 2 der Verordnung (EWG) Nr. 3649/92 der Kommission vom 17. Dezember 1992 über ein vereinfachtes Begleitdokument für die Beförderung von verbrauchsteuerpflichtigen Waren, die sich bereits im steuerrechtlich freien Verkehr des Abgangsmitgliedstaats befinden (ABl. L 369 vom 18.12.1992, S. 17) in Verbindung mit Artikel 34 der Systemrichtlinie;
+5. vereinfachtes elektronisches Verwaltungsdokument: Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
-6. Ausgangszollstelle:
+6. Ausfallverfahren: ein Verfahren das zu Beginn, während oder nach Beendigung der Beförderung von Bier unter Steueraussetzung oder zu Beginn, während oder nach der Lieferung von Bier zu gewerblichen Zwecken nach § 20 des Gesetzes angewendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
 
-a) für im Eisenbahnverkehr, mit der Post, im Luft- oder im Seeverkehr befördertes Bier die Zollstelle, die für den Ort zuständig ist, an dem das Bier von Eisenbahngesellschaften, Postdiensten, Luftverkehrs- oder Schifffahrtsgesellschaften im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung mit Bestimmung in ein Drittland oder Drittgebiet übernommen wird,
+7. Durchführungsverordnung zum Unionszollkodex: die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558; L 101 vom 13.4.2017, S. 166; L 157 vom 20.6.2018, S. 27; L 387 vom 19.11.2020, S. 31), die zuletzt durch die Durchführungsverordnung (EU) 2021/235 (ABl. L 63 vom 23.2.2021, S. 386) geändert worden ist, in der jeweils geltenden Fassung;
 
-b) für in sonstiger Weise oder unter anderen als in Buchstabe a genannten Umständen befördertes Bier die letzte Zollstelle vor dem Ausgang der Waren aus dem Verbrauchsteuergebiet der Europäischen Gemeinschaft;
+8. Ausgangszollstelle: die nach Artikel 329 der Durchführungsverordnung zum Unionszollkodex definierte Zollstelle;
 
-7. Ausfallverfahren: Verfahren das zu Beginn, während oder nach Beendigung der Beförderung von Bier unter Steueraussetzung angewendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
-
-8. Zollkodex-Durchführungsverordnung: die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 253 vom 11.10.1992, S. 1, L 268 vom 19.10.1994, S. 32, L 180 vom 19.7.1996, S. 34, L 156 vom 13.6.1997, S. 59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG) Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist;
-
-9. Brauerei: jedes Steuerlager, in dem Bier unter Steueraussetzung im Brauverfahren hergestellt und gelagert werden darf.
+9. Delegierte Verordnung zum Unionszollkodex: die Delegierte Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom 23.2.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
 
 # § 1a – Hauptzollamt, örtliche Zuständigkeit
 
@@ -211,11 +207,13 @@ Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung des Steue
 
 (3) Der Steuerlagerinhaber hat die Zu- und Abgänge unverzüglich aufzuzeichnen. Das Hauptzollamt kann zulassen, dass insbesondere die Entnahmen in den steuerrechtlich freien Verkehr in der Lagerbuchführung für längstens einen Kalendermonat zusammengefasst aufgezeichnet werden.
 
-# § 10 – Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung
+# § 10 – Vollständige Zerstörung, unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung
 
-(1) Ist Bier unbeabsichtigt vollständig zerstört worden oder unwiederbringlich verloren gegangen, hat der Hersteller ohne Erlaubnis nach § 5 oder der Steuerlagerinhaber dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung treffen.
+(1) Ist Bier unbeabsichtigt vollständig zerstört worden oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber dies dem Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung treffen.
 
 (2) Die Vernichtung von Bier nach § 23 Absatz 2 Nummer 4 des Gesetzes ist vom Steuerlagerinhaber mindestens eine Woche im Voraus anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung treffen. Die Vernichtung ist amtlich zu überwachen, soweit das Hauptzollamt nicht darauf verzichtet. Außersteuerliche Vorschriften bleiben unberührt.
+
+(3) Die Absätze 1 und 2 gelten für die beabsichtigte Zerstörung von Bier nach § 14 Absatz 3 Satz 2 des Gesetzes entsprechend. Die Anzeige der beabsichtigten Zerstörung ist in den Fällen, in denen das Bier unter Steueraussetzung befördert wird, durch den Versender abzugeben. Sofern die vorgelegten Nachweise anerkannt werden, wird die nach § 19 für die Beförderung geleistete Sicherheit freigegeben.
 
 # § 11 – Bestandsaufnahme im Steuerlager
 
@@ -277,7 +275,7 @@ Wird in einem Steuerlager, in dem Bier hergestellt wird, Bier ausgeschenkt, darf
 
 (3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als registrierter Versender. Mit der Erlaubnis wird für den registrierten Versender eine Verbrauchsteuernummer vergeben. Bei Beförderungen in andere oder über andere Mitgliedstaaten ist vor der Erteilung der Erlaubnis Sicherheit für die Steuer nach § 7 Absatz 2 Satz 3 des Gesetzes zu leisten. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
-(4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte der Einfuhr, an denen Bier nach den Artikeln 263 bis 267 der Zollkodex-Durchführungsverordnung oder aus einem Zolllager des Typs D im Sinn des Artikels 525 Absatz 2 Buchstabe a der Zollkodex-Durchführungsverordnung in den zollrechtlich freien Verkehr übergeführt wird. Hiervon ausgenommen sind die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der Delegierten Verordnung zum Unionszollkodex die Überlassung des Bieres zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
+(4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte der Einfuhr, an denen Bier nach Artikel 182 des Unionszollkodex zum zollrechtlich freien Verkehr überlassen wird. Hiervon ausgenommen sind die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der Delegierten Verordnung zum Unionszollkodex die Überlassung des Bieres zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
 
 (5) Der registrierte Versender hat ein Belegheft sowie Aufzeichnungen über das beförderte Bier zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Das beförderte Bier ist vom registrierten Versender unverzüglich aufzuzeichnen.
 
@@ -285,7 +283,7 @@ Wird in einem Steuerlager, in dem Bier hergestellt wird, Bier ausgeschenkt, darf
 
 # § 15 – Begünstigte, Ausstellen der Freistellungsbescheinigung
 
-(1) Ein Begünstigter, der Bier unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 13 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene erste und zweite Ausfertigung dem Steuerlagerinhaber als Versender oder dem registrierten Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach der Übernahme des Bieres verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Das Bier ist unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
+(1) Ein Begünstigter, der Bier unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene erste und zweite Ausfertigung dem Steuerlagerinhaber als Versender oder dem registrierten Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach der Übernahme des Bieres verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Das Bier ist unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
 
 (2) Zuständiges Hauptzollamt ist für Begünstigte
 
@@ -301,11 +299,11 @@ Wird in einem Steuerlager, in dem Bier hergestellt wird, Bier ausgeschenkt, darf
 
 (6) Wird Bier, das nach den Absätzen 1 bis 5 von Begünstigten nach § 8 Absatz 1 Nummer 4 bis 6 des Gesetzes unter Steueraussetzung empfangen wurde, an Dritte abgegeben, entsteht die Steuer nach § 14 Absatz 1 des Gesetzes. Steuerschuldner ist neben der Person, die das Bier an Dritte abgegeben hat, die Person, die dieses in Empfang genommen hat. Der Steuerschuldner hat unverzüglich eine Steueranmeldung beim zuständigen Hauptzollamt abzugeben. Für die Steueranmeldung gilt § 31 entsprechend. Die Steuer ist sofort fällig. Mehrere Steuerschuldner sind Gesamtschuldner.
 
-# § 16 – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
+# § 16 – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
 
-Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und Bedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 9 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Bedingungen einzuhalten.
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem nach § 9 Absatz 1 des Gesetzes austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Rahmenbedingungen einzuhalten.
 
-# § 17 – Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
+# § 17 – Erstellen des elektronischen Verwaltungsdokuments, Mitführen des eindeutigen Referenzcodes
 
 (1) Soll Bier unter Steueraussetzung befördert werden aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
 
@@ -313,13 +311,13 @@ Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen
 
 2. in ein Steuerlager, in den Betrieb eines registrierten Empfängers oder zu einem Begünstigten in einem anderen Mitgliedstaat oder
 
-3. zu einem Ort, an dem das Bier das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt,
+3. zu einem Ort, an dem das Bier das Verbrauchsteuergebiet der Europäischen Union verlässt oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wird, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen ist,
 
-hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln. In dem Entwurf ist der Stammwürzegehalt des Bieres in Grad Plato und gegebenenfalls entsprechend den Anforderungen des Bestimmungsmitgliedstaats zusätzlich der Alkoholgehalt in Volumenprozent bei 20 Grad Celsius anzugeben.
+hat der Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments mit dem in Artikel 3 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. In dem Entwurf ist der Stammwürzegehalt des Bieres in Grad Plato und gegebenenfalls entsprechend den Anforderungen des Bestimmungsmitgliedstaats zusätzlich der Alkoholgehalt in Volumenprozent bei 20 Grad Celsius anzugeben.
 
 (2) Das Hauptzollamt überprüft automatisiert die Angaben in dem Entwurf des elektronischen Verwaltungsdokuments. Bei Beförderungen vom Ort der Einfuhr erfolgt zusätzlich ein Abgleich mit der Zollanmeldung. Gibt es keine Beanstandungen, wird der Entwurf des elektronischen Verwaltungsdokuments mit einem eindeutigen Referenzcode versehen und dem Versender als elektronisches Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
-(3) Der Beförderer hat während der Beförderung einen Ausdruck des vom zuständigen Hauptzollamt übermittelten elektronischen Verwaltungsdokuments mitzuführen. Anstelle des ausgedruckten elektronischen Verwaltungsdokuments kann ein Handelspapier mitgeführt werden, wenn dieses dieselben Daten enthält oder aus dem der eindeutige Referenzcode hervorgeht. Bei der Beförderung von Bier aus anderen Mitgliedstaaten gelten die Sätze 1 und 2 entsprechend.
+(3) Der Beförderer hat während der Beförderung den eindeutigen Referenzcode mitzuführen und auf Verlangen mitzuteilen. Das Hauptzollamt kann die Vorlage eines Ausdrucks des elektronischen Verwaltungsdokuments oder jedes anderen Handelspapiers verlangen. Bei der Beförderung von Bier aus anderen Mitgliedstaaten gelten die Sätze 1 und 2 entsprechend.
 
 (4) Der Versender hat auf Verlangen des Hauptzollamts das Bier unverändert vorzuführen. Dabei kann das Hauptzollamt Verschlussmaßnahmen anordnen.
 
@@ -341,17 +339,17 @@ Wird Bier unter Steueraussetzung zu Begünstigten befördert, hat der Befördere
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung des Bieres noch nicht begonnen hat.
 
-(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Annullierungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Annullierungsmeldung mit dem in Artikel 4 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in der Annullierungsmeldung. Gibt es keine Beanstandungen, wird dies dem Versender unter Angabe des Datums und der Zeit der Prüfung mitgeteilt. Beanstandungen werden dem Versender ebenfalls mitgeteilt.
 
 (4) Ist ein elektronisches Verwaltungsdokument für die Beförderung von Bier unter Steueraussetzung annulliert worden, das für einen Empfänger im Steuergebiet bestimmt war, der entweder ein Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das für den Empfänger zuständige Hauptzollamt die eingehende Annullierungsmeldung an diesen weiter.
 
-# § 21 – Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
+# § 21 – Änderung des Bestimmungsorts oder des Empfängers von Bier bei Verwendung des elektronischen Verwaltungsdokuments
 
-(1) Während der Beförderung des Bieres unter Steueraussetzung kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort ändern und einen anderen zulässigen Bestimmungsort angeben (§ 10 Absatz 1, § 11 Absatz 1 Nummer 1, § 12 Absatz 1 des Gesetzes). Satz 1 gilt auch für Bier, das nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt wird.
+(1) Während der Beförderung des Bieres unter Steueraussetzung kann der Versender den Bestimmungsort oder den Empfänger des Bieres ändern und einen anderen zulässigen Bestimmungsort oder einen anderen Empfänger angeben (§ 10 Absatz 1, § 11 Absatz 1 Nummer 1, § 12 Absatz 1 des Gesetzes). Satz 1 gilt auch für Bier, das nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt wird.
 
-(2) Um den Bestimmungsort zu ändern, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Vor Änderung des Bestimmungsorts oder des Empfängers des Bieres hat der Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmeldung mit dem in Artikel 5 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in dem Entwurf der elektronischen Änderungsmeldung. Gibt es keine Beanstandungen, wird dem Entwurf der Änderungsmeldung eine fortlaufende Vorgangsnummer zugewiesen und dem Versender als Änderungsmeldung zum ursprünglichen elektronischen Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
@@ -363,7 +361,7 @@ Wird Bier unter Steueraussetzung zu Begünstigten befördert, hat der Befördere
 
 # § 22 – Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
 
-(1) Nach der Aufnahme des Bieres, auch von Teilmengen, an einem Bestimmungsort, der in § 10 Absatz 1 Nummer 1 und § 11 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+(1) Nach der Aufnahme des Bieres, auch von Teilmengen, an einem Bestimmungsort, der in § 10 Absatz 1 Nummer 1 und § 11 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in Artikel 7 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
 (2) Das Hauptzollamt überprüft automatisiert die Angaben in der Eingangsmeldung. Gibt es keine Beanstandungen, wird dies dem Empfänger mitgeteilt. Gibt es Beanstandungen, wird dies dem Empfänger ebenfalls mitgeteilt. Das für den Versender zuständige Hauptzollamt übermittelt diesem die Eingangsmeldung, wenn er ein Steuerlagerinhaber im Steuergebiet oder ein registrierter Versender im Steuergebiet ist. Eine Eingangsmeldung, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, wird an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
 
@@ -371,19 +369,27 @@ Wird Bier unter Steueraussetzung zu Begünstigten befördert, hat der Befördere
 
 (4) Der Empfänger hat auf Verlangen des Hauptzollamts das Bier unverändert vorzuführen.
 
-(5) In den Fällen des § 12 des Gesetzes erstellt das Hauptzollamt auf der Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung mit der bestätigt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen hat. Dies gilt auch bei der Ausfuhr von Teilmengen. Das zuständige Hauptzollamt übermittelt die Ausfuhrmeldung an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden an den Versender im Steuergebiet von dem zuständigen Hauptzollamt weitergeleitet.
+(5) Das Hauptzollamt erstellt auf der Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung, mit der
 
-(6) Unbeschadet des § 30 gilt die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 als Nachweis, dass die Beförderung des Bieres beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Gemeinschaft nicht verlassen hat.
+1. in den Fällen des § 12 Absatz 1 Nummer 1 des Gesetzes bestätigt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Union verlassen hat, oder
+
+2. in den Fällen des § 12 Absatz 1 Nummer 2 des Gesetzes bestätigt wird, dass das Bier in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung an den Versender im Steuergebiet. Ausfuhrmeldungen, die von den Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das zuständige Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
+
+(6) Unbeschadet des § 30 gilt die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 als Nachweis, dass die Beförderung des Bieres beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Union nicht verlassen hat oder nicht in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 (7) Ist der Empfänger bei Beförderungen von Bier unter Steueraussetzung ein Steuerlagerinhaber im Steuergebiet, der das Bier unter Steueraussetzung in ein anderes Steuerlager im Steuergebiet oder in den Betrieb eines Verwenders nach § 23a Absatz 1 des Gesetzes im Steuergebiet weiterbefördert, kann das Hauptzollamt auf Antrag unter Widerrufsvorbehalt zulassen, dass das Bier als in sein Steuerlager aufgenommen und zugleich entnommen gilt, sobald der Empfänger im Steuergebiet an dem Bier Besitz erlangt hat. Die Vorschriften zu den Beförderungen unter Steueraussetzung bleiben unberührt.
+
+(8) Darf Bier das Zollgebiet der Europäischen Union nicht verlassen, erstellt das Hauptzollamt eine Meldung auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch eine Meldung, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt die Meldung über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Meldungen über die nicht erfolgte Ausfuhr, die von den Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang der Meldung über die nicht erfolgte Ausfuhr annulliert der Versender das elektronische Verwaltungsdokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger des Bieres.
 
 # § 23 – Beförderungen im Steuergebiet in Sonderfällen
 
 (1) Bei Beförderungen von Bier unter Steueraussetzung zwischen Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der Steuerlagerinhaber gleichzeitig registrierter Versender ist, zwischen Orten der Einfuhr im Steuergebiet und den Steuerlagern dieses Steuerlagerinhabers im Steuergebiet kann das Hauptzollamt auf Antrag des Steuerlagerinhabers anstelle des Verfahrens mit elektronischem Verwaltungsdokument andere geeignete Verfahren zulassen, wenn Steuerbelange nicht gefährdet sind.
 
-(2) Bei häufigen und regelmäßigen Beförderungen von Bier unter Steueraussetzung zur Abgabe als Schiffs-, Flugzeug- und Reisebedarf nach § 27 der Zollverordnung kann in den Fällen, in denen nach Artikel 786 der Zollkodex-Durchführungsverordnung ein zollrechtliches Ausfuhrverfahren durchgeführt wird, das zuständige Hauptzollamt auf Antrag des Steuerlagerinhabers zulassen, dass dieser für das in einem Kalendermonat abgegebene Bier bis zum zehnten Tag nach Ablauf des Kalendermonats, in dem die Beförderung begonnen hat, den Entwurf eines zusammengefassten elektronischen Verwaltungsdokuments übermittelt, wenn
+(2) Bei häufigen und regelmäßigen Beförderungen von Bier unter Steueraussetzung zur Abgabe als Schiffs-, Flugzeug- und Reisebedarf nach § 27 der Zollverordnung kann in den Fällen, in denen nach Artikel 269 Absatz 1, 2 Buchstabe c und Absatz 3 des Unionszollkodex ein Ausfuhrverfahren durchgeführt wird, das Hauptzollamt auf Antrag des Steuerlagerinhabers zulassen, dass dieser für das in einem Kalendermonat abgegebene Bier bis zum zehnten Tag nach Ablauf des Kalendermonats, in dem die Beförderung begonnen hat, den Entwurf eines zusammengefassten elektronischen Verwaltungsdokuments übermittelt, wenn
 
-1. dem Steuerlagerinhaber das Verfahren nach Artikel 285a Absatz 1a der Zollkodex-Durchführungsverordnung bewilligt wurde,
+1. dem Steuerlagerinhaber das Verfahren nach Artikel 182 des Unionszollkodex bewilligt wurde,
 
 2. die Beförderung ausschließlich im Steuergebiet erfolgt und
 
@@ -441,13 +447,15 @@ verwendet werden.
 
 # § 25 – Beginn einer Beförderung im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender abweichend von § 17 nur dann eine Beförderung von Bier unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck verwendet wird.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender abweichend von § 17 nur dann eine Beförderung von Bier unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 1 der EMCS-Durchführungsverordnung verwendet wird.
 
 (2) Der Versender hat vor Beginn der ersten Beförderung im Ausfallverfahren das Hauptzollamt in geeigneter schriftlicher Form über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems zu unterrichten. Eine Unterrichtung ist nicht erforderlich, wenn es sich um einen durch das Informationstechnikzentrum Bund veröffentlichten Ausfall handelt.
 
 (3) Der Versender hat das Ausfalldokument vor Beginn der Beförderung in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er unverzüglich dem Hauptzollamt vorzulegen. Der Beförderer des Bieres hat während der Beförderung die dritte Ausfertigung mitzuführen.
 
 (4) Der Versender hat auf Verlangen des Hauptzollamts jede Beförderung im Ausfallverfahren vor Beginn anzuzeigen. Daneben hat der Versender auf Verlangen des Hauptzollamts die zweite Ausfertigung des Ausfalldokuments bereits vor Beginn einer Beförderung vorzulegen. § 17 Absatz 4 gilt entsprechend.
+
+(4a) In den Fällen des § 12 Absatz 1 des Gesetzes oder des Ausgangs von Bier in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete händigt der Versender dem Anmelder zur Ausfuhr die dritte Ausfertigung des Ausfalldokuments aus. Der Anmelder zur Ausfuhr legt diese Ausfertigung oder die eindeutige Kennung des Ausfalldokuments der Ausgangszollstelle vor. Die Angaben des Ausfalldokuments müssen den Angaben der Ausfuhrmeldung für das angemeldete Bier entsprechen.
 
 (5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Beförderungen dem Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments zu übermitteln, der dieselben Daten wie das Ausfalldokument nach Absatz 1 enthält und in dem auf die Verwendung des Ausfallverfahrens hingewiesen wird. § 17 Absatz 2 und 5 gilt entsprechend.
 
@@ -463,39 +471,49 @@ verwendet werden.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt dem Versender das elektronische Verwaltungsdokument vor, hat er dem zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Annullierungsmeldung nach § 20 Absatz 2 zu übermitteln. § 20 Absatz 3 und 4 gilt entsprechend.
 
-# § 27 – Änderung des Bestimmungsorts im Ausfallverfahren
+# § 27 – Änderung des Bestimmungsorts oder des Empfängers von Bier im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort während der Beförderung des Bieres abweichend von § 21 nach amtlich vorgeschriebenem Vordruck ändern (Änderungsdokument). Satz 1 gilt auch für Bier, das nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt wird.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender den Bestimmungsort oder den Empfänger des Bieres während der Beförderung des Bieres abweichend von § 21 nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung ändern (Änderungsdokument). Satz 1 gilt auch für Bier, das nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt wird.
 
-(2) Der Versender hat das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem zuständigen Hauptzollamt unverzüglich zu übermitteln. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn ihm nicht das Änderungsdokument übermittelt wurde.
+(2) Vor der Änderung des Bestimmungsorts oder des Empfängers des Bieres hat der Versender das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem Hauptzollamt unverzüglich vorzulegen. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn die Beförderung bereits mit einem Ausfalldokument begonnen und ihm nicht das Änderungsdokument übermittelt wurde.
 
-(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts dem zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 21 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument enthält. § 21 Absatz 3 bis 6 gilt entsprechend.
+(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts oder des Empfängers des Bieres dem Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 21 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument enthält. § 21 Absatz 3 bis 6 gilt entsprechend.
 
-(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts sowie die Übermittlung der zweiten Ausfertigung des Änderungsdokuments gilt § 25 Absatz 2 und 4 Satz 1 und 2 entsprechend.
+(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts oder des Empfängers des Bieres sowie die Vorlage der zweiten Ausfertigung des Änderungsdokuments gilt § 25 Absatz 2 und 4 Satz 1 und 2 entsprechend.
 
 # § 28 – Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
-(1) Kann der Empfänger die Eingangsmeldung nach § 22 Absatz 1 nach Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 21 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck vorzulegen, mit dem er den Empfang des Bieres bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 22 Absatz 1 entsprechend.
+(1) Kann der Empfänger die Eingangsmeldung nach § 22 Absatz 1 nach Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 21 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 3der EMCS-Durchführungsverordnung vorzulegen, mit dem er den Empfang des Bieres bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 22 Absatz 1 entsprechend.
 
 (2) Der Empfänger hat das Eingangsdokument unverzüglich in drei Exemplaren auszufertigen. Das für ihn zuständige Hauptzollamt bestätigt die drei Exemplare und gibt dem Empfänger die erste Ausfertigung zurück. Der Empfänger hat diese bestätigte erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Wird die Eingangsmeldung nicht innerhalb der in § 22 Absatz 1 genannten Frist vom Empfänger übermittelt, übersendet das Hauptzollamt die zweite Ausfertigung des Eingangsdokuments dem für den Versender zuständigen Hauptzollamt, das diese an den Versender weiterleitet. Eingangsdokumente, die von den zuständigen Behörden eines anderen Mitgliedstaats übersendet wurden, werden an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument oder die Meldung nach § 21 Absatz 5 oder Absatz 6 dem Empfänger vor, hat dieser dem Hauptzollamt unverzüglich für das im Ausfallverfahren erstellte Eingangsdokument unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems eine Eingangsmeldung nach § 22 Absatz 1 zu übermitteln, die dieselben Daten wie das Eingangsdokument nach Absatz 1 enthält. § 22 Absatz 2 gilt entsprechend.
 
-(4) Kann nach der Beendigung einer Beförderung von Bier unter Steueraussetzung die Ausfuhrmeldung nach § 22 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen hat. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn das Bier aus dem Steuergebiet versendet wurde. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
+(4) Kann nach der Beendigung einer Beförderung von Bier unter Steueraussetzung die Ausfuhrmeldung nach § 22 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass das Bier das Verbrauchsteuergebiet der Europäischen Union verlassen hat oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn das Bier aus dem Steuergebiet versendet wurde. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
 
-(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 22 Absatz 5 Satz 1. § 22 Absatz 5 Satz 2 und 3 gilt entsprechend.
+(4a) Darf Bier in den Fällen des § 12 Absatz 1 des Gesetzes oder des Ausgangs von Bier in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt ein Ausfalldokument auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch ein Ausfalldokument, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt das Ausfalldokument über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfalldokumente über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden an den Versender im Steuergebiet von dem Hauptzollamt weitergeleitet. Nach Eingang des Ausfalldokuments annulliert der Versender das Ausfalldokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger des Bieres nach amtlich vorgeschriebenem Vordruck.
+
+(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das Hauptzollamt eine Ausfuhrmeldung nach § 22 Absatz 5 Satz 1 oder eine Meldung nach § 22 Absatz 8. § 22 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
 # § 29 – Ersatznachweise für die Beendigung der Beförderung
 
-Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen auch keine Eingangs- oder Ausfuhrmeldung nach § 28 vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn hinreichend belegt ist, dass das Bier den angegebenen Bestimmungsort erreicht hat oder das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen hat (Ersatznachweis). Als hinreichender Beleg im Sinn von Satz 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie die Eingangsmeldung und in dem dieser den Empfang des Bieres bestätigt.
+(1) Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 28 vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass das Bier
+
+1. den angegebenen Bestimmungsort erreicht hat oder
+
+2. das Verbrauchsteuergebiet der Europäischen Union verlassen hat oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+(2) Als hinreichender Ersatznachweis nach Satz 1 Nummer 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie eine Eingangsmeldung und in dem der Empfänger den Empfang des Bieres bestätigt. Als hinreichender Ersatznachweis nach Satz 1 Nummer 2 gilt insbesondere ein Sichtvermerk der Ausgangszollstelle, der bestätigt, dass das Bier das Verbrauchsteuergebiet der Europäischen Union verlassen hat oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 # § 30 – Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
-(1) Werden beim Empfänger im Steuergebiet Mengenabweichungen festgestellt, hat das zuständige Hauptzollamt zu prüfen, ob Steuern zu erheben sind. Dabei kann es im Allgemeinen Fehlmengen bis zu 0,5 Prozent als auf Grund der Beschaffenheit des Bieres als unwiederbringlich verloren gegangen ansehen, sofern es sich nicht um Bier in Fässern, Containern, Flaschen, Dosen oder anderen Fertigpackungen handelt.
+(1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt, entscheidet das Hauptzollamt über die steuerliche Behandlung von Fehlmengen. Es kann im Allgemeinen Fehlmengen bis zu 0,5 Prozent als auf Grund der Beschaffenheit des Bieres als unwiederbringlich verloren gegangen ansehen, sofern es sich nicht um Bier in Fässern, Containern, Flaschen, Dosen oder anderen Fertigpackungen handelt.
 
-(2) Geht der Rückschein in den Fällen des § 24 nicht binnen zwei Monaten beim Versender ein, ist dies vom Steuerlagerinhaber als Versender oder vom registrierten Versender unverzüglich dem zuständigen Hauptzollamt (§ 4 Absatz 2) anzuzeigen.
+(2) Geht der Rückschein in den Fällen des § 24 Absatz 3 Satz 3 oder Absatz 4 Satz 4 nicht binnen zwei Monaten beim Versender ein, ist dies vom Versender unverzüglich dem Hauptzollamt anzuzeigen.
 
-(3) Ist Bier während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
+(3) Ist Bier während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
+
+(4) In den Fällen des § 14 Absatz 4 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 22 und 29 entsprechend. Die Frist nach § 14 Absatz 4 Satz 4 des Gesetzes beginnt mit der Bekanntgabe der Feststellung einer Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 # § 31 – Steuererklärung, Steueranmeldung
 
@@ -541,43 +559,173 @@ Bier aus Drittländern oder Drittgebieten ist in den Fällen der Einfuhr nach de
 
 # § 34 – Beförderungen zu privaten Zwecken
 
-Werden mehr als 110 Liter Bier nach § 19 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass das Bier zu gewerblichen Zwecken in das Steuergebiet befördert wird (§ 20 des Gesetzes).
+(1) Werden mehr als 110 Liter Bier nach § 19 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass das Bier zu gewerblichen Zwecken in das Steuergebiet geliefert wird (§§ 20 bis 20c des Gesetzes).
 
 (2) Die Weitergabe von Bier, auch wenn sie unentgeltlich erfolgt, gilt unabhängig von der verbrachten Menge nicht als Eigenbedarf nach § 19 des Gesetzes.
 
-# § 35 – Beförderungen zu gewerblichen Zwecken
+# § 35 – Zertifizierter Empfänger
 
-(1) Wer Bier aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken im Steuergebiet beziehen, erstmals in Besitz halten oder verwenden will, hat dies im Voraus dem zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck unter Angabe der für die Besteuerung wesentlichen Merkmale (Menge, Steuerklasse) anzuzeigen und Sicherheit für die Steuer nach § 20 Absatz 4 des Gesetzes zu leisten. Für die Steueranmeldung gilt § 31 Absatz 1 Satz 4 entsprechend. Auf Verlangen des zuständigen Hauptzollamts hat der zur Anzeige Verpflichtete weitere Angaben zu machen, Aufzeichnungen über den Bezug des Bieres zu führen und dieses unverändert vorzuführen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheint.
+(1) Wer als zertifizierter Empfänger nach § 20a Absatz 1 Satz 1 Nummer 1 des Gesetzes Bier des steuerrechtlich freien Verkehrs nicht nur gelegentlich empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
-(2) Wer Bier aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken im Steuergebiet nicht nur gelegentlich beziehen und dabei die Verfahrensvereinfachung nach § 20 Absatz 5 Satz 3 des Gesetzes in Anspruch nehmen will, hat dies im Voraus beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck zu beantragen. Für die Zulassung zu diesem Verfahren, die Sicherheitsleistung, das Belegheft sowie die Aufzeichnungen über das bezogene Bier, die Anzeigepflicht bei Änderung der angemeldeten betrieblichen Verhältnisse und die Steueranmeldung gelten die Regelungen für registrierte Empfänger in § 13 Absatz 3 Satz 1, 3 und 4, Absatz 5 und 6 sowie § 31 Absatz 1 Satz 4 entsprechend.
+1. Lagepläne mit den jeweils beantragten Empfangsorten und Angabe der Anschriften,
 
-(3) Wird Bier nach Absatz 1 Satz 1 und Absatz 2 Satz 1 in das Steuergebiet befördert, hat der Beförderer die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments während der Beförderung mitzuführen.
+2. eine Darstellung der Buchführung über den Empfang und den Verbleib des Bieres.
 
-(4) Der Bezieher nach Absatz 1 hat dem zuständigen Hauptzollamt mit der Steueranmeldung die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments, versehen mit seiner Empfangsbestätigung, vorzulegen. Auf Antrag bestätigt das zuständige Hauptzollamt die Anmeldung oder Entrichtung der Steuer.
+Die Sätze 1 und 2 gelten entsprechend für das Verbringen oder Verbringenlassen von Bier in das Steuergebiet, wenn dieses nach § 20 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurde.
 
-# § 36 – Durchfuhr von Bier des steuerrechtlich freien Verkehrs eines anderen Mitgliedstaats
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Anforderungen nach Absatz 1 Satz 2 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 
-Wird Bier nach § 20 Absatz 2 Satz 2 Nummer 1 des Gesetzes durch das Steuergebiet befördert, gilt § 35 Absatz 3 entsprechend.
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als zertifizierter Empfänger für die beantragten Empfangsorte. Mit der Erlaubnis wird für den zertifizierten Empfänger eine Verbrauchsteuernummer vergeben. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 20a Absatz 3 des Gesetzes für die entstehende Steuer zu leisten. § 6 Absatz 1 Satz 2 und § 19 gelten entsprechend. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
-# § 37 – Versandhandel, Beauftragter
+(4) Beabsichtigt der zertifizierte Empfänger, zusätzlich zu den bewilligten Empfangsorten einen weiteren Empfangsort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Empfangsort gilt als genehmigt, wenn ihm nicht bis eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
 
-(1) Der Versandhändler hat die Anzeige nach § 21 Absatz 4 Satz 1 des Gesetzes nach amtlich vorgeschriebenem Vordruck abzugeben.
+(5) Für den Inhaber einer Erlaubnis als Steuerlagerinhaber nach § 5 Absatz 1 Satz 1 des Gesetzes oder als registrierter Empfänger nach § 6 des Gesetzes gilt für die ihm bewilligten Steuerlager oder Empfangsorte die Erlaubnis als zertifizierter Empfänger als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
 
-(2) Der Beauftragte des Versandhändlers hat den Antrag auf Erlaubnis vor Aufnahme seiner Tätigkeit nach § 21 Absatz 4 Satz 3 des Gesetzes beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck zu stellen. Dem Antrag ist bei Unternehmen, die in das Handels- oder Genossenschaftsregister eingetragen oder einzutragen sind, in doppelter Ausfertigung ein aktueller Registerauszug beizufügen. Auf Verlangen des zuständigen Hauptzollamts hat der Antragsteller weitere Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
+1. beim Hauptzollamt vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat,
 
-(3) Das zuständige Hauptzollamt erteilt dem Beauftragten des Versandhändlers schriftlich unter Widerrufsvorbehalt die Erlaubnis, sofern der Beauftragte Sicherheit geleistet hat für die im Einzelfall oder bei nicht nur gelegentlichen Lieferungen nach § 21 Absatz 5 Satz 4 des Gesetzes für die voraussichtlich während eines Monats entstehende Steuer. Für das Erlöschen und den Fortbestand der Erlaubnis gilt § 8, für die Sicherheitsleistung nach § 21 Absatz 5 Satz 4 des Gesetzes gilt § 6 Absatz 1 Satz 2 entsprechend. Die Erlaubnis kann befristet werden.
+2. die anfallende Sicherheit nach § 20a Absatz 3 des Gesetzes geleistet hat und
 
-(4) Der Beauftragte hat ein Belegheft zu führen. Das zuständige Hauptzollamt kann dazu sowie zu den Aufzeichnungen und den Anzeigen nach § 21 Absatz 4 Satz 5 des Gesetzes Anordnungen treffen. Der Beauftragte ist verpflichtet, alle die Erlaubnis betreffenden Änderungen der dargestellten Verhältnisse dem zuständigen Hauptzollamt unverzüglich anzuzeigen.
+3. an dem Verfahren nach § 35b, auch in Verbindung mit § 16, teilnimmt.
 
-(5) Die Steueranmeldung nach § 21 Absatz 5 Satz 2 und 6 des Gesetzes ist nach § 31 Absatz 5 abzugeben.
+Absatz 3 Satz 2 und 4 gilt entsprechend. Beabsichtigt der Inhaber der Erlaubnis, zusätzlich zu den bewilligten Empfangsorten einen weiteren Empfangsort als zertifizierter Empfänger zu betreiben, gilt Absatz 4 entsprechend.
 
-# § 38 – Unregelmäßigkeiten während der Beförderung von Bier des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+(6) Der zertifizierte Empfänger hat ein Belegheft sowie Aufzeichnungen über das im Rahmen einer Lieferung zu gewerblichen Zwecken empfangene Bier zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Der Empfang des Bieres ist vom zertifizierten Empfänger unverzüglich aufzuzeichnen.
 
-(1) Stellt der Bezieher (§ 35 Absatz 1 oder Absatz 2) Abweichungen gegenüber den Angaben im vereinfachten Begleitdokument fest, hat er dies dem für ihn zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen. § 30 Absatz 1 gilt entsprechend.
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8 entsprechend.
 
-(2) Ist Bier während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
+(8) Wer als zertifizierter Empfänger im Einzelfall nach § 20a Absatz 1 Satz 1 Nummer 2 des Gesetzes Bier des steuerrechtlich freien Verkehrs empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Versenders des Bieres nach amtlich vorgeschriebenem Vordruck zu beantragen. Satz 1 gilt auch für das Verbringen oder Verbringenlassen von Bier in das Steuergebiet, wenn es nach § 20 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurde. Das Hauptzollamt kann weitere Angaben sowie Aufzeichnungen über das im Rahmen der Lieferung zu gewerblichen Zwecken empfangene Bier verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Vor der Erteilung der Erlaubnis ist Sicherheit nach § 20a Absatz 4 des Gesetzes für die entstehende Steuer zu leisten. Eine Erlaubnis als zertifizierter Empfänger im Einzelfall kann auch Privatpersonen erteilt werden, die Bier empfangen wollen, dessen Beförderung nicht unter § 34 oder § 37 fällt.
 
-(3) Die Steueranmeldung nach § 22 Absatz 3 Satz 2 des Gesetzes ist nach § 31 Absatz 5 abzugeben.
+# § 35a – Zertifizierter Versender
+
+(1) Wer als zertifizierter Versender nach § 20b Absatz 1 Satz 1 Nummer 1 des Gesetzes Bier des steuerrechtlich freien Verkehrs nicht nur gelegentlich versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
+
+1. eine Aufstellung mit den beantragten Versandorten und Angabe der Anschriften,
+
+2. eine Darstellung der Buchführung über den Versand und den Verbleib des Bieres.
+
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Anforderungen nach Absatz 1 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
+
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als zertifizierter Versender für die beantragten Versandorte. Mit der Erlaubnis wird für den zertifizierten Versender eine Verbrauchsteuernummer vergeben. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
+
+(4) Beabsichtigt der zertifizierte Versender, zusätzlich zu den bewilligten Versandorten einen weiteren Versandort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Versandort gilt als genehmigt, wenn ihm nicht bis spätestens eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
+
+(5) Für den Inhaber einer Erlaubnis als Steuerlagerinhaber nach § 5 des Gesetzes oder als registrierter Versender nach § 7 des Gesetzes gilt für die ihm bewilligten Steuerlager oder Versandorte die Erlaubnis als zertifizierter Versender als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
+
+1. beim Hauptzollamt vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat und
+
+2. an dem Verfahren nach § 35b, auch in Verbindung mit § 16, teilnimmt.
+
+Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt der Inhaber der Erlaubnis, zusätzlich zu den bewilligten Versandorten einen weiteren Versandort als zertifizierter Versender zu betreiben, gilt Absatz 4 entsprechend.
+
+(6) Der zertifizierte Versender hat ein Belegheft sowie Aufzeichnungen über das im Rahmen der Lieferung zu gewerblichen Zwecken in andere Mitgliedstaaten versandte Bier zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Der Versand des Bieres ist vom zertifizierten Versender unverzüglich aufzuzeichnen.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8 entsprechend.
+
+(8) Wer als zertifizierter Versender im Einzelfall nach § 20b Absatz 1 Satz 1 Nummer 2 des Gesetzes Bier des steuerrechtlich freien Verkehrs versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Empfängers des Bieres nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Hauptzollamt kann weitere Angaben sowie Aufzeichnungen über das im Rahmen der Lieferung zu gewerblichen Zwecken in andere Mitgliedstaaten versandte Bier verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Empfänger sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Eine Erlaubnis als zertifizierter Versender im Einzelfall kann auch Privatpersonen erteilt werden, die Bier versenden wollen, dessen Beförderung nicht unter § 34 oder § 37 fällt.
+
+# § 35b – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem, Ausfallverfahren und vereinfachte Verfahren
+
+(1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen von Bier des steuerrechtlich freien Verkehrs das vereinfachte elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem nach § 20c Absatz 1 des Gesetzes austauschen. Weiter legt sie in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Im Übrigen gilt § 16.
+
+(2) Für häufig und regelmäßig stattfindende Beförderungen von Bier des steuerrechtlich freien Verkehrs kann das Bundesministerium der Finanzen mit weiteren von den Beförderungen betroffenen Mitgliedstaaten Vereinbarungen schließen, um vereinfachte Verfahren festzulegen. Dabei können auch Ausnahmen für die verpflichtende Verwendung eines vereinfachten elektronischen Verwaltungsdokuments vorgesehen werden.
+
+(3) Für die Beförderung von Bier des steuerrechtlich freien Verkehrs kann das Hauptzollamt auf Antrag und im Benehmen mit den zuständigen Steuerbehörden der betroffenen Mitgliedstaaten ein vereinfachtes Verfahren auch unter Verzicht auf die verpflichtende Verwendung eines vereinfachten elektronischen Verwaltungsdokuments zulassen. Die Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
+
+# § 35c – Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Soll Bier des steuerrechtlich freien Verkehrs nach diesem Abschnitt aus dem Steuergebiet befördert werden
+
+1. in einen anderen Mitgliedstaat oder
+
+2. in das Steuergebiet, wenn die Beförderung durch das Gebiet eines anderen Mitgliedstaats erfolgt,
+
+so hat der zertifizierte Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+
+(2) Für die Überprüfung der Angaben im Entwurf des vereinfachten elektronischen Verwaltungsdokuments gilt § 17 Absatz 2 entsprechend.
+
+(3) Während der Beförderung ist der eindeutige Referenzcode vom Beförderer mitzuführen und auf Anfrage mitzuteilen. Dies gilt auch bei der Beförderung von Bier aus anderen Mitgliedstaaten. In den Fällen des Absatzes 1 Nummer 2 ist ein Ausdruck des vereinfachten elektronischen Verwaltungsdokuments vom Beförderer mitzuführen.
+
+(4) Der zertifizierte Versender hat auf Verlangen des Hauptzollamts das Bier unverändert vorzuführen.
+
+(5) Das Hauptzollamt leitet im Fall des Absatzes 1 Nummer 2 das vereinfachte elektronische Verwaltungsdokument an den zertifizierten Empfänger weiter. Wird dem Hauptzollamt von den zuständigen Behörden eines anderen Mitgliedstaats ein vereinfachtes elektronisches Verwaltungsdokument übermittelt, so wird es vom Hauptzollamt an den zertifizierten Empfänger im Steuergebiet weitergeleitet.
+
+# § 35d – Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Während der Beförderung des Bieres kann der zertifizierte Versender den Bestimmungsort ändern, und zwar
+
+1. in einen Lieferort, der von demselben zertifizierten Empfänger in demselben Mitgliedstaat betrieben wird, oder
+
+2. in den Abgangsort.
+
+Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfänger die Übernahme des Bieres ablehnt.
+
+(2) Für die Änderung des Bestimmungsorts oder des Empfängers von Bier gilt § 21 Absatz 2, 3 und 6 entsprechend.
+
+# § 35e – Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Nach der Aufnahme des Bieres, auch von Teilmengen, an einem vom Erlaubnisumfang umfassten Bestimmungsort hat der zertifizierte Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Verbringen oder Verbringenlassen von Bier in das Steuergebiet steht der Aufnahme nach Satz 1 gleich, sofern das Bier nach § 20 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurde. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+
+(2) Für die Überprüfung der Angaben in der Eingangsmeldung gilt § 22 Absatz 2 Satz 1 bis 3 entsprechend. Abweichend davon erfolgt die Mitteilung an den zertifizierten Empfänger, dass es keine Beanstandungen gibt, erst nach der Vorlage des Nachweises, dass
+
+1. das Bier in ein Steuerlager aufgenommen wurde,
+
+2. die Biersteuer angemeldet wurde oder
+
+3. sich an die Lieferung eine Steuerbefreiung anschließt.
+
+(3) Der zertifizierte Empfänger hat auf Verlangen des Hauptzollamts das Bier unverändert vorzuführen.
+
+(4) Unbeschadet des § 38 gilt die Eingangsmeldung nach Absatz 1 als Nachweis, dass die Beförderung des Bieres beendet wurde.
+
+# § 35f – Beförderung im Ausfallverfahren
+
+Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung und kann das vereinfachte elektronische Verwaltungsdokument somit nicht angewendet werden, gelten für das Ausfallverfahren die §§ 25, 27 und 28 entsprechend. In diesem Fall sind Ausfalldokumente nach amtlich vorgeschriebenem Vordruck zu verwenden.
+
+# § 35g – Ersatznachweise für die Beendigung der Beförderung
+
+(1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das Steuergebiet kein Nachweis nach § 35e Absatz 4 oder § 35f in Verbindung mit § 28 Absatz 1 vor, bestätigt das für den zertifizierten Empfänger zuständige Hauptzollamt durch einen Sichtvermerk die Beendigung der Beförderung, wenn hinreichend belegt ist, dass das Bier den angegebenen Bestimmungsort erreicht hat.
+
+(2) Ein Sichtvermerk der zuständigen Behörde des Bestimmungsmitgliedstaats bei einer Beförderung aus dem Steuergebiet in einen anderen Mitgliedstaat gilt, sofern er vom Hauptzollamt akzeptiert wird, als hinreichender Nachweis dafür, dass
+
+1. der zertifizierte Empfänger die dort angefallene Verbrauchsteuer entrichtet hat,
+
+2. der zertifizierte Empfänger das Bier in ein Steuerlager aufgenommen hat oder
+
+3. das Bier von der Verbrauchsteuer befreit ist.
+
+# § 36 – (weggefallen)
+
+# § 37 – Versandhandel
+
+(1) Wer als Versandhändler nach § 21 Absatz 1 des Gesetzes Bier an Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im Voraus beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
+
+(2) Die Erlaubnis nach Absatz 1 gilt als unter Widerrufsvorbehalt erteilt, sobald
+
+1. das Hauptzollamt schriftlich oder elektronisch die Unternehmensnummer mitgeteilt hat und
+
+2. der Versandhändler die erforderliche Sicherheit nach § 21 Absatz 2 des Gesetzes geleistet hat.
+
+Für die Sicherheitsleistung gelten § 6 Absatz 1 Satz 2 und § 19 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden.
+
+(3) Beauftragt der Versandhändler nach § 21 Absatz 2 des Gesetzes einen Steuervertreter, hat er diesen vor der ersten Lieferung mittels einer Anzeige nach amtlich vorgeschriebenem Vordruck bei dem für den Steuervertreter zuständigen Hauptzollamt zu benennen. Ein Antrag nach Absatz 1 ist in diesem Fall nicht erforderlich. Ist der Versandhändler bei Benennung des Steuervertreters bereits steuerlich in Erscheinung getreten, geht die Zuständigkeit auf das für den Steuervertreter zuständige Hauptzollamt über.
+
+(4) Der Steuervertreter bedarf für seine Tätigkeit für den Versandhändler einer Erlaubnis. Die Erlaubnis ist beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf Verlangen des Hauptzollamts hat er weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
+
+(5) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als Steuervertreter. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 21 Absatz 2 des Gesetzes zu leisten. Für die Sicherheit gelten § 6 Absatz 1 Satz 2 und § 19 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden. Die Erlaubnis des Steuervertreters wird bei Erteilung auch dem Versandhändler schriftlich oder elektronisch bekanntgegeben. Die Erlaubnis gilt damit auch für den Versandhändler als unter Widerrufsvorbehalt erteilt.
+
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 21 Absatz 2 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei nicht nur gelegentlichen Lieferungen nach § 21 Absatz 2 Satz 5 des Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der Anzeige gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter entsprechend.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8 entsprechend. Die Erlaubnis des Steuervertreters erlischt, wenn die Erlaubnis des Versandhändlers erlischt. Die nach Absatz 5 Satz 7 als erteilt geltende Erlaubnis des Versandhändlers erlischt, wenn die Erlaubnis des Steuervertreters erlischt.
+
+# § 38 – Unregelmäßigkeiten während der Beförderung von Bier des steuerrechtlich freien Verkehrs
+
+Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Teilverlusts von Bier gelten § 10 Absatz 2 und § 30 entsprechend.
+
+# § 38a – Steueranmeldung; Kleinbetragsregelung
+
+(1) Die Steueranmeldung nach § 22b Absatz 1 bis 4 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+
+(2) Für die Überprüfung der Steueranmeldung und die Kleinbetragsregelung gelten § 31 Absatz 4 und § 32 entsprechend.
 
 # § 39 – Antrag auf Erlaubnis zur steuerfreien Verwendung
 
@@ -593,7 +741,7 @@ Arzneimittelhersteller haben außerdem ihre arzneimittelrechtliche Herstellungsb
 
 # § 39a – Erteilung der Erlaubnis, Erlaubnisschein
 
-(1) Das Hauptzollamt erteilt dem Verwender schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien Verwendung des Bieres und stellt auf Antrag einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden. Eine Erlaubnis wird nicht erteilt, wenn der voraussichtliche Jahresbedarf an unvergälltem Bier unter 75 Hektoliter liegt.
+(1) Das Hauptzollamt erteilt dem Verwender schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien Verwendung des Bieres und stellt auf Antrag einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden. Eine Erlaubnis wird nicht erteilt, wenn der voraussichtliche Jahresbedarf an unvergälltem Bier unter 75 Hektoliter liegt. In den Fällen des § 23 Absatz 1 Nummer 8 des Gesetzes wird eine Erlaubnis zur steuerfreien Verwendung unabhängig vom voraussichtlichen Jahresbedarf und ausschließlich zur erstmaligen Schaffung eines Steuergegenstandes nach § 1 Absatz 2 Nummer 1 des Alkoholsteuergesetzes erteilt.
 
 (2) Der Verwender hat den Erlaubnisschein unverzüglich zurückzugeben, wenn die Erlaubnis erloschen ist oder die steuerfreie Verwendung eingestellt wird. Er hat den Verlust des Erlaubnisscheins dem Hauptzollamt unverzüglich anzuzeigen.
 
@@ -609,7 +757,7 @@ Arzneimittelhersteller haben außerdem ihre arzneimittelrechtliche Herstellungsb
 
 # § 39c – Lagerung, Bestandsaufnahme
 
-(1) Der Verwender darf das Bier nur an den angemeldeten Orten lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn Steuerbelange nicht beeinträchtigt werden. Es kann verlangen, dass in den Lagerräumen sowie in den Räumen, in denen das Bier steuerfrei verwendet wird, Bekanntmachungen auszuhängen sind, in denen die vorgesehene Verwendung angegeben und auf die steuerlichen Folgen einer zweckwidrigen Verwendung hingewiesen wird. Für die vollständige Zerstörung, den unwiederbringlichen Verlust und die Vernichtung gilt § 10 entsprechend.
+(1) Der Verwender darf das Bier nur an den angemeldeten Orten empfangen und lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn Steuerbelange nicht beeinträchtigt werden. Es kann verlangen, dass in den Lagerräumen sowie in den Räumen, in denen das Bier steuerfrei verwendet wird, Bekanntmachungen auszuhängen sind, in denen die vorgesehene Verwendung angegeben und auf die steuerlichen Folgen einer zweckwidrigen Verwendung hingewiesen wird. Für die vollständige Zerstörung, den unwiederbringlichen Gesamt- oder Teilverlust und die Vernichtung gilt § 10 entsprechend.
 
 (2) Der Verwender hat versteuertes Bier und Bier, das sich in der steuerfreien Verwendung befindet, getrennt voneinander zu lagern. Der Verwender, der im Rahmen seiner Erlaubnis Arzneimittel aus unvergälltem, unversteuertem Bier herstellt und daneben versteuertes Bier verarbeiten will, hat dies im Voraus dem Hauptzollamt anzuzeigen. Er ist verpflichtet, Aufzeichnungen über den Bezug und den Verbleib des versteuerten Bieres zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -637,7 +785,7 @@ versehen sind.
 
 (2) Haus- und Hobbybrauer haben den Beginn der Herstellung und den Herstellungsort dem Hauptzollamt vorab anzuzeigen. In der Anzeige ist die Biermenge anzugeben, die voraussichtlich innerhalb eines Kalenderjahres erzeugt wird. Das Hauptzollamt kann Erleichterungen zulassen.
 
-(3) Wird die Menge nach Absatz 1 überschritten, ist eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben.
+(3) Wird die Menge nach Absatz 1 überschritten, ist eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 15 Absatz 2 in Verbindung mit § 14 Absatz 5 Satz 1 Nummer 2 des Gesetzes gilt entsprechend.
 
 # § 42 – Steuerentlastung im Steuergebiet
 
@@ -649,85 +797,31 @@ versehen sind.
 
 (4) Die Zustimmung des Hauptzollamts nach § 24 Absatz 1 Satz 2 des Gesetzes soll nur erteilt werden, wenn die Rücknahme in das ursprüngliche Steuerlager aus wirtschaftlichen Gründen nicht möglich ist.
 
-(5) Für die Steuererstattung nach § 24 Absatz 2 des Gesetzes wird die Mindestmenge auf 10 hl je Einzelfall festgesetzt.
+(5) In den Fällen des § 24 Absatz 2 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 22 und 29 entsprechend. Die Frist nach § 24 Absatz 2 Satz 3 des Gesetzes beginnt mit der Bekanntgabe der Feststellung einer Unwirksamkeit gegenüber dem Steuerschuldner.
 
-# § 43 – Steuerentlastung bei der Beförderung von Bier des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
+(6) Für die Steuererstattung nach § 24 Absatz 3 des Gesetzes wird die Mindestmenge auf 10 hl je Einzelfall festgesetzt.
 
-(1) Wer Bier zu gewerblichen Zwecken, ausgenommen im Versandhandel, in andere Mitgliedstaaten befördern will, hat das vereinfachte Begleitdokument auszufertigen. Der Beförderer hat die zweite und dritte Ausfertigung während der Beförderung des Bieres mitzuführen.
+(7) Für die Überprüfung der Steueranmeldung gilt § 31 Absatz 4 entsprechend.
 
-(2) Wer eine Steuerentlastung nach § 25 Absatz 1 des Gesetzes für in andere Mitgliedstaaten befördertes versteuertes Bier nicht nur gelegentlich in Anspruch nehmen will, hat dies vorher dem zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck anzuzeigen. Der Anzeige ist in doppelter Ausfertigung eine Aufstellung über die Art des Bieres und seines Stammwürzegehalts nach Grad Plato beizufügen. Änderungen der dargestellten Verhältnisse hat der Entlastungsberechtigte dem zuständigen Hauptzollamt unverzüglich anzuzeigen.
+# § 43 – Steuerentlastung bei der Beförderung von Bier des steuerrechtlich freien Verkehrs
 
-(3) Der Entlastungsberechtigte hat ein Belegheft zu führen und Aufzeichnungen über die Beförderungen in andere Mitgliedstaaten zu führen. Das zuständige Hauptzollamt kann dazu Anordnungen treffen. Auf Verlangen des zuständigen Hauptzollamts hat der Entlastungsberechtigte das Bier vor Beginn der Beförderung vorzuführen.
+(1) In den Fällen des § 25 Absatz 1 des Gesetzes ist die Steuerentlastung mit einer Entlastungsanmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen. Die Entlastungsanmeldung kann einmal im Monat zusammengefasst für das Bier, für das die Voraussetzungen für eine Entlastung vorliegen, beim Hauptzollamt abgegeben werden. In der Entlastungsanmeldung sind alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und der Entlastungsbetrag selbst zu berechnen. Der Nachweis der Versteuerung im Steuergebiet ist der Entlastungsanmeldung beizufügen.
 
-(4) Die Steuerentlastung ist mit einer Entlastungsanmeldung nach amtlich vorgeschriebenem Vordruck für das Bier zu beantragen, das innerhalb eines Entlastungsabschnitts nach Absatz 5 aus dem Steuergebiet befördert worden ist. Der Entlastungsberechtigte hat die Anmeldung dem zuständigen Hauptzollamt bis zum zehnten Tag des zweiten auf den Entlastungsabschnitt folgenden Monats abzugeben, in ihr alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und den Entlastungsbetrag selbst zu berechnen. Außerdem ist die dritte vom Empfänger bestätigte Ausfertigung des vereinfachten Begleitdokuments zusammen mit dem Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen. Als Versteuerungsnachweis gilt auch die amtliche Bestätigung des anderen Mitgliedstaats, dass das Bier dort ordnungsgemäß steuerlich erfasst wurde. Der Entlastungsberechtigte hat außerdem, sofern er das Bier nicht selbst versteuert hat, als Nachweis der Versteuerung im Steuergebiet (§ 25 Absatz 1 Satz 1 des Gesetzes) dem zuständigen Hauptzollamt eine Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Frist nach Satz 2 kann vom Hauptzollamt auf Antrag im Einzelfall verlängert werden.
+(2) Mit der Entlastungsanmeldung ist ein Ausdruck der Eingangsmeldung des vereinfachten elektronischen Verwaltungsdokuments als Nachweis nach § 25 Absatz 2 Nummer 1 des Gesetzes vorzulegen. Sofern die Eingangsmeldung mehrere Positionen enthält, ist die Position, für die die Entlastung beantragt wird, zu benennen. Ein Nachweis nach § 35g Absatz 2 kann als hinreichender Nachweis in den Fällen anerkannt werden, in denen keine Eingangsmeldung abgegeben wurde. In den Fällen des § 25 Absatz 2 Nummer 2 und 3 des Gesetzes ist der Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen.
 
-(5) Der Entlastungsabschnitt umfasst ein Kalendervierteljahr. Das zuständige Hauptzollamt kann ihn auf Antrag bis auf einen Kalendermonat verkürzen oder bis auf ein Kalenderjahr verlängern. Außerdem kann es in Einzelfällen die Steuer unverzüglich erlassen, erstatten oder vergüten.
+(3) Der Entlastungsberechtigte hat, sofern er das Bier nicht selbst versteuert hat, als Nachweis der Versteuerung im Steuergebiet nach § 25 Absatz 1 Satz 1 des Gesetzes dem Hauptzollamt eine Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen.
 
-(6) Hat der Entlastungsberechtigte die Waren unter Versteuerung seinem Steuerlager entnommen, hat er die Entlastung in der Steuererklärung nach § 31 Absatz 1 Satz 1 zu beantragen. In diesem Fall beträgt der Entlastungsabschnitt einen Kalendermonat.
+(4) Der Antrag auf Erlass oder Erstattung der Steuer nach § 25 Absatz 3 des Gesetzes ist mit einer Entlastungsanmeldung nach Absatz 1 Satz 1 bei dem Hauptzollamt zu stellen, das die Steuer nach § 22a Absatz 1 Nummer 4 des Gesetzes erhoben hat. Dem Antrag ist der Versteuerungsnachweis des anderen Mitgliedstaats beizufügen.
 
-(7) Der Antrag auf Erlass oder Erstattung der Steuer nach § 25 Absatz 3 des Gesetzes ist mit einer Entlastungsanmeldung nach Absatz 4 Satz 1 bei dem Hauptzollamt zu stellen, das die Steuer nach § 22 Absatz 3 des Gesetzes erhoben hat. Dem Antrag ist der Nachweis über die Versteuerung in dem anderen Mitgliedstaat beizufügen.
+(5) Für die Überprüfung der Entlastungsanmeldung gilt § 31 Absatz 4 entsprechend.
 
 # § 44 – Probenentnahme im Rahmen der Steueraufsicht
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die der Biersteuer unterliegen oder unterliegen können, sowie von Stoffen, die zur Herstellung solcher Waren bestimmt sind, und von den Umschließungen dieser Waren zu Untersuchungszwecken unentgeltlich Proben entnehmen. Auf Verlangen ist eine Entnahmebestätigung auszustellen. Auf Anforderung des Hauptzollamts haben Erlaubnisinhaber zu Untersuchungszwecken unentgeltlich Proben zur Verfügung zu stellen.
 
-# § 45 – Beförderung von Bier des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
+# § 45 – (weggefallen)
 
-(1) Wer Bier des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken durch das Gebiet eines anderen Mitgliedstaats an einen Empfänger im Steuergebiet befördern will, hat das vereinfachte Begleitdokument auszufertigen. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis
-
-|                                                    |
-|:--------------------------------------------------:|
-| „Transit/Bier des steuerrechtlich freien Verkehrs“ |
-
-anzubringen sowie die Anschrift des zuständigen Hauptzollamts (§ 4 Absatz 2) zu vermerken. Der Beförderer des Bieres hat die Ausfertigungen zwei und drei des vereinfachten Begleitdokuments während der Beförderung mitzuführen. Er hat das Bier auf dem kürzesten zumutbaren Weg durch den anderen Mitgliedstaat (Transitmitgliedstaat) zu befördern.
-
-(2) Der Versender hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem zuständigen Hauptzollamt vorzulegen. Nach Beendigung der Beförderung hat der Empfänger die Übernahme des Bieres auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und diese dem für den Versender zuständigen Hauptzollamt vorzulegen.
-
-(3) Tritt während der Beförderung auf dem Gebiet des Transitmitgliedstaats eine Unregelmäßigkeit ein, hat der Beförderer die zuständige Steuerbehörde des Transitmitgliedstaats und das für den Versender zuständige Hauptzollamt unverzüglich zu unterrichten. § 13 Absatz 1 des Gesetzes gilt entsprechend.
-
-(4) Soll Bier des steuerrechtlich freien Verkehrs regelmäßig durch einen anderen Mitgliedstaat befördert werden, kann das Hauptzollamt auf Antrag des Versenders und im Benehmen mit der zuständigen Steuerbehörde des Transitmitgliedstaats ein erleichtertes Verfahren unter Verzicht auf das vereinfachte Begleitdokument zulassen. Das Hauptzollamt schreibt das Verfahren vor und erteilt unter Widerrufsvorbehalt eine Erlaubnis. Eine Ausfertigung dieser Erlaubnis ist der zuständigen Steuerbehörde des Transitmitgliedstaats zuzuleiten.
-
-# § 46 – Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
-
-(1) Für das Besteuerungsverfahren erforderliche Daten können durch Datenfernübertragung übermittelt werden (elektronische Datenübermittlung), sobald die organisatorischen und technischen Voraussetzungen bei der Zollverwaltung dafür vorliegen. Mit der elektronischen Datenübermittlung können Dritte beauftragt werden.
-
-(2) Das Bundesministerium der Finanzen bestimmt Einzelheiten der elektronischen Datenübermittlung nach Absatz 1 Satz 1 durch eine Verfahrensanweisung, die vom Bundesministerium der Finanzen im Internet auf den Seiten der Zollverwaltung (www.zoll.de) veröffentlicht wird.
-
-(3) Bei der elektronischen Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende Verfahren einzusetzen, die die Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten. Im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden.
-
-(4) Die Pflichten der Programmhersteller nach den §§ 48 und 49 sind ausschließlich öffentlich-rechtlicher Art.
-
-# § 47 – Schnittstellen
-
-Bei der elektronischen Datenübermittlung sind die hierfür vom Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß zu bedienen. Die für die Übermittlung benötigten Schnittstellen werden über das Internet zur Verfügung gestellt.
-
-# § 48 – Anforderungen an die Programme
-
-(1) Programme, die für die Verarbeitung von für das Besteuerungsverfahren erforderlichen Daten bestimmt sind, müssen im Rahmen des in der Programmbeschreibung angegebenen Programmumfangs die richtige und vollständige Verarbeitung der für das Besteuerungsverfahren erforderlichen Daten gewährleisten.
-
-(2) Auf den Programmumfang sowie auf Fallgestaltungen, in denen eine richtige und vollständige Erhebung, Verarbeitung und Übermittlung ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
-# § 49 – Prüfung der Programme
-
-(1) Programme, die für die Verarbeitung von für das Besteuerungsverfahren erforderlichen Daten bestimmt sind, sind vom Hersteller vor der ersten Nutzung und nach jeder Änderung daraufhin zu prüfen, ob sie die Anforderungen nach § 48 Absatz 1 erfüllen. Hierbei sind ein Protokoll über den letzten durchgeführten Testlauf und eine Programmauflistung zu erstellen, die fünf Jahre aufzubewahren sind. Die Aufbewahrungsfrist nach Satz 2 beginnt mit Ablauf des Kalenderjahres der erstmaligen Nutzung zur Datenübermittlung. Elektronische, magnetische und optische Speicherverfahren, die eine jederzeitige Wiederherstellung der eingesetzten Programmversion in Papierform ermöglichen, sind der Programmauflistung gleichgestellt.
-
-(2) Die vom Bundesministerium der Finanzen bestimmte Dienststelle (Prüfungsstelle) ist befugt, die für die Erfassung, Verarbeitung oder elektronische Übermittlung der Daten bestimmten Programme und Dokumentationen zu überprüfen. § 200 der Abgabenordnung gilt entsprechend.
-
-(3) Der Hersteller oder Vertreiber eines fehlerhaften Programms ist unverzüglich zur Nachbesserung oder Ablösung aufzufordern. Soweit eine unverzügliche Nachbesserung oder Ablösung nicht erfolgt, ist die Prüfungsstelle berechtigt, die Programme des Herstellers von der elektronischen Übermittlung nach § 46 technisch auszuschließen. Die Prüfungsstelle ist nicht verpflichtet, die Programme zu prüfen.
-
-(4) Sind Programme nach Absatz 1 zum allgemeinen Vertrieb vorgesehen, hat der Hersteller der Prüfungsstelle auf Verlangen Muster zum Zweck der Prüfung kostenfrei zur Verfügung zu stellen.
-
-# § 50 – Haftung
-
-(1) Der Hersteller von Programmen, die für die Verarbeitung von für das Besteuerungsverfahren erforderlichen Daten bestimmt sind, haftet, soweit die Daten infolge einer vorsätzlichen oder grob fahrlässigen Verletzung einer Pflicht nach den §§ 48 und 49 unrichtig oder unvollständig verarbeitet werden und dadurch Steuern verkürzt oder zu Unrecht steuerliche Vorteile erlangt werden, für die verkürzten Steuern oder zu Unrecht erhaltenen Steuervorteile.
-
-(2) Wer Programme nach Absatz 1 zur elektronischen Datenübermittlung im Auftrag (§ 46 Absatz 1 Satz 2) einsetzt, haftet, soweit auf Grund unrichtiger oder unvollständiger Übermittlung Steuern vorsätzlich oder grob fahrlässig verkürzt oder zu Unrecht steuerliche Vorteile erlangt werden.
-
-# § 51 – Authentifizierung, Datenübermittlung im Auftrag
-
-(1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine qualifizierte elektronische Signatur erforderlich. Eine qualifizierte elektronische Signatur ist dann nicht erforderlich, wenn ein anderes sicheres Verfahren eingesetzt wird, welches den Datenübermittler (Absender der Daten) authentifiziert und die in § 46 Absatz 3 bestimmten Anforderungen an die Gewährleistung der Authentizität und Integrität der Daten in gleicher Weise erfüllt.
-
-(2) Im Falle der Übermittlung im Auftrag (§ 46 Absatz 1 Satz 2) hat der Dritte die Daten dem Auftraggeber unverzüglich in leicht nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der Auftraggeber hat die Daten unverzüglich zu überprüfen.
+# §§ 46 bis 51 – (weggefallen)
 
 # § 52 – Ordnungswidrigkeiten
 
@@ -735,54 +829,44 @@ Bei der elektronischen Datenübermittlung sind die hierfür vom Bundesministeriu
 
 1. entgegen
 
-a) § 7 Absatz 1 Satz 1 oder Satz 3 oder Absatz 2 Satz 1 oder Satz 2, jeweils auch in Verbindung mit § 13 Absatz 6, § 14 Absatz 6, § 35 Absatz 2 Satz 2 oder § 39a Absatz 4,
+a) § 7 Absatz 1 Satz 1, Absatz 3 Satz 1 oder 2 oder Absatz 4, jeweils auch in Verbindung mit § 13 Absatz 6, § 14 Absatz 6, § 35 Absatz 7, § 35a Absatz 7, § 37 Absatz 7 Satz 1 oder § 39a Absatz 4,
 
-b) § 8 Absatz 6 Satz 1, auch in Verbindung mit § 13 Absatz 6, § 14 Absatz 6, § 35 Absatz 2 Satz 2, § 37 Absatz 3 Satz 2 oder § 39a Absatz 4,
+b) § 10 Absatz 1 Satz 1, auch in Verbindung mit § 39c Absatz 1 Satz 4, entgegen § 11 Absatz 1 Satz 4, auch in Verbindung mit § 39c Absatz 3 Satz 2, entgegen § 30 Absatz 2 oder 3, jeweils auch in Verbindung mit § 38, entgegen § 31a Absatz 3, § 35 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, entgegen § 35a Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, entgegen § 39a Absatz 2 Satz 2 oder § 41 Absatz 2 Satz 1 oder
 
-c) § 11 Absatz 1 Satz 5, § 30 Absatz 2 oder Absatz 3, § 35 Absatz 1 Satz 1, § 37 Absatz 4 Satz 3, § 38 Absatz 1 Satz 1, § 39a Absatz 2 Satz 2 oder § 41 Absatz 2 Satz 1 oder
-
-d) § 25 Absatz 4 Satz 1, auch in Verbindung mit § 27 Absatz 4
+c) § 25 Absatz 4 Satz 1, auch in Verbindung mit § 27 Absatz 4, jeweils auch in Verbindung mit § 35f Satz 1,
 
 eine Anzeige nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-2. entgegen § 8 Absatz 5 Satz 2, auch in Verbindung mit § 39a Absatz 4 oder § 11 Absatz 1 Satz 1 oder Absatz 3 Satz 2 oder § 39d Absatz 2 eine Anmeldung oder Erklärung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
+2. entgegen § 8 Absatz 6 Satz 2, auch in Verbindung mit § 39a Absatz 4, entgegen § 11 Absatz 1 Satz 1 oder Absatz 3 Satz 2 oder § 31a Absatz 1 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
 
-3. entgegen § 9 Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder Absatz 3 Satz 1, § 13 Absatz 5 Satz 1 oder 3, jeweils auch in Verbindung mit § 35 Absatz 2 Satz 2, § 14 Absatz 5 Satz 1 oder 3 oder § 37 Absatz 4 Satz 1 oder § 39b Absatz 1 Satz 1 oder Absatz 2 Satz 1 ein Belegheft, ein Buch oder eine Aufzeichnung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig führt,
+3. entgegen § 9 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 13 Absatz 5 Satz 1 oder 3, § 14 Absatz 5 Satz 1 oder 3, § 31a Absatz 2 Satz 1, § 35 Absatz 6 Satz 1, § 35a Absatz 6 Satz 1, § 39b Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder § 39c Absatz 2 Satz 3 ein Belegheft, ein Lagerbuch, eine Aufzeichnung oder ein Verwendungsbuch nicht, nicht richtig oder nicht in der vorgeschriebenen Weise führt,
 
-4. entgegen § 17 Absatz 1 Satz 1, § 20 Absatz 2, § 21 Absatz 2, § 22 Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 Satz 1, § 25 Absatz 3 Satz 2 oder Absatz 5 Satz 1, § 26 Absatz 3 Satz 1, § 27 Absatz 2 Satz 3 oder Absatz 3 Satz 1 oder § 28 Absatz 3 Satz 1 eine Übermittlung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+4. entgegen § 9 Absatz 3 Satz 1, auch in Verbindung mit § 39b Absatz 2 Satz 5, entgegen § 35 Absatz 6 Satz 3 oder § 35a Absatz 6 Satz 3 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig fertigt,
 
-5. entgegen § 17 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, § 18 Satz 1, § 24 Absatz 2 Satz 3, § 25 Absatz 3 Satz 4 oder § 35 Absatz 3, auch in Verbindung mit § 36, einen Ausdruck oder eine Ausfertigung eines Dokuments oder einer Bescheinigung nicht mitführt,
+5. entgegen § 17 Absatz 1 Satz 1, § 20 Absatz 2, § 21 Absatz 2, auch in Verbindung mit § 35d Absatz 2, entgegen § 22 Absatz 1 Satz 1 oder Absatz 3 Satz 1, § 25 Absatz 5 Satz 1, auch in Verbindung mit § 35f Satz 1, entgegen § 26 Absatz 3 Satz 1 oder entgegen § 27 Absatz 3 Satz 1 oder § 28 Absatz 3 Satz 1, jeweils auch in Verbindung mit § 35f Satz 1, eine Übermittlung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-6. entgegen § 17 Absatz 4 Satz 1, auch in Verbindung mit § 25 Absatz 4 Satz 3, § 22 Absatz 4, § 24 Absatz 6 Satz 1 oder § 35 Absatz 1 Satz 3 das Bier nicht, nicht vollständig oder nicht rechtzeitig vorführt,
+6. entgegen § 17 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, entgegen § 25 Absatz 7 Satz 2 oder § 35c Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine Mittelung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-7. entgegen § 24 Absatz 2 Satz 1, § 25 Absatz 3 Satz 1, § 26 Absatz 2 Satz 1, § 27 Absatz 2 Satz 1 oder § 28 Absatz 2 Satz 1 ein Dokument nicht, nicht richtig oder nicht in der vorgeschriebenen Weise ausfertigt,
+7. entgegen § 17 Absatz 3 Satz 1, auch in Verbindung mit Absatz 3 Satz 3, entgegen § 18 Satz 1, § 24 Absatz 2 Satz 3, § 25 Absatz 3 Satz 4 oder § 35c Absatz 3 Satz 1, auch in Verbindung mit Satz 2, einen Referenzcode oder eine Ausfertigung nicht mitführt,
 
-8. entgegen § 24 Absatz 3 Satz 1 oder Absatz 4 Satz 2, § 25 Absatz 4 Satz 2, auch in Verbindung mit § 27 Absatz 4, § 28 Absatz 1 Satz 1, § 35 Absatz 4 Satz 1 oder § 45 Absatz 2 ein Dokument oder eine Ausfertigung nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+8. entgegen § 17 Absatz 4 Satz 1, auch in Verbindung mit § 25 Absatz 4 Satz 3, entgegen § 22 Absatz 4, § 24 Absatz 6 Satz 1, § 35c Absatz 4 oder § 35e Satz 3 das Bier nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorführt,
 
-9. entgegen § 24 Absatz 3 Satz 3 oder Absatz 4 Satz 4 einen Rückschein oder eine Sammelanmeldung als Rückschein nicht oder nicht rechtzeitig zurücksendet,
+9. entgegen § 24 Absatz 2 Satz 1, § 25 Absatz 3 Satz 1, auch in Verbindung mit § 35f Satz 1, entgegen § 26 Absatz 2 Satz 1, entgegen § 27 Absatz 2 Satz 1 oder § 28 Absatz 2 Satz 1, jeweils auch in Verbindung mit § 35f, ein Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausfertigt,
 
-10. entgegen § 25 Absatz 2 Satz 1, § 26 Absatz 2 Satz 3 oder § 27 Absatz 2 Satz 4 eine Unterrichtung nicht, nicht richtig oder nicht rechtzeitig vornimmt oder
+10. entgegen § 24 Absatz 3 Satz 1 oder Absatz 4 Satz 2, § 25 Absatz 3 Satz 3 oder Absatz 4 Satz 2, auch in Verbindung mit § 27 Absatz 4, entgegen § 27 Absatz 2 Satz 3 oder § 28 Absatz 1 Satz 1, jeweils auch in Verbindung mit § 35f Satz 1, eine Ausfertigung oder ein Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-11. entgegen § 25 Absatz 7 Satz 1 oder 2 oder § 27 Absatz 2 Satz 5 eine Eintragung oder einen Vermerk nicht, nicht rechtzeitig oder nicht in der vorgeschriebenen Weise vornimmt,
+11. entgegen § 24 Absatz 3 Satz 3 oder Absatz 4 Satz 4 einen Rückschein oder eine Sammelanmeldung nicht oder nicht rechtzeitig zurücksendet,
 
-12. entgegen § 39a Absatz 2 Satz 1 einen Erlaubnisschein nicht oder nicht rechtzeitig zurückgibt.
+12. entgegen § 25 Absatz 2 Satz 1, auch in Verbindung mit § 27 Absatz 4 oder § 35f Satz 1, entgegen § 26 Absatz 2 Satz 3 oder § 27 Absatz 2 Satz 4, auch in Verbindung mit § 35f Satz 1, eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-(2) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 2 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
+13. entgegen § 25 Absatz 7 Satz 1 oder 2, jeweils auch in Verbindung mit § 35f Satz 1, eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-1. entgegen § 24 Absatz 5 Satz 2 einen Lieferschein, eine Rechnung oder ein Dokument nicht, nicht rechtzeitig oder nicht in der vorgeschriebenen Weise kennzeichnet oder
+14. entgegen § 27 Absatz 2 Satz 5, auch in Verbindung mit § 35f Satz 1, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vermerkt,
 
-2. entgegen § 39d Absatz 1 Satz 2 ein Handelspapier nicht, nicht richtig oder nicht in der vorgeschriebenen Weise beigibt oder
+15. entgegen § 39a Absatz 2 Satz 1 einen Erlaubnisschein nicht oder nicht rechtzeitig zurückgibt.
 
-3. entgegen § 45 Absatz 1 Satz 2 einen Hinweis nicht, nicht richtig oder nicht in der vorgeschriebenen Weise anbringt.
+(2) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 2 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 39d Absatz 1 Satz 2 ein Handelspapier nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beigibt.
 
 # § 53 – Übergangsregelungen
 
-Für Beförderungen
-
-1. von Bier unter Steueraussetzung, die vor dem 1. Januar 2011 begonnen worden sind,
-
-2. von Bier unter Steueraussetzung im Steuergebiet, die vor dem 1. Januar 2012 begonnen worden sind,
-
-3. von Bier, das unter Steueraussetzung unmittelbar aus dem Steuergebiet in Drittländer oder Drittgebiete ausgeführt wird und dessen Beförderung vor dem 1. Januar 2012 begonnen worden ist,
-
-ist diese Verordnung in der bis zum 31. März 2010 geltenden Fassung weiter anzuwenden, es sei denn, die Beförderungen sind mit einem elektronischen Verwaltungsdokument begonnen worden. Für die Ausfuhrförmlichkeiten ist in den Fällen des Satzes 1 Nummer 3 ab dem 1. Januar 2011 Artikel 793c der Zollkodex-Durchführungsverordnung in der bis zum 31. Dezember 2010 geltenden Fassung weiter anzuwenden.
+Für Beförderungen von Bier des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
