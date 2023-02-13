@@ -219,7 +219,7 @@ Entfernung und Entnahme von Energieerzeugnissen
 
  
 
-Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes
+Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes
 
  
 
@@ -228,8 +228,6 @@ Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes
 § 23a
 
 Steueranmeldung
-
- 
 
  
 
@@ -242,6 +240,8 @@ Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 3
 § 23b
 
 Überprüfung der Steueranmeldung
+
+ 
 
  
 
@@ -317,7 +317,7 @@ Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
 § 28b
 
-Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
+Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
 
 § 28c
 
@@ -333,7 +333,7 @@ Annullierung des elektronischen Verwaltungsdokuments
 
 § 31
 
-Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
+Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments
 
 § 32
 
@@ -361,7 +361,7 @@ Annullierung im Ausfallverfahren
 
 § 36b
 
-Änderung des Bestimmungsorts im Ausfallverfahren
+Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren
 
 § 36c 
 
@@ -389,7 +389,7 @@ Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
  
 
-Zu § 15 des Gesetzes
+Zu den §§ 15, 15a, 15b und 15c des Gesetzes
 
  
 
@@ -397,19 +397,47 @@ Zu § 15 des Gesetzes
 
 § 38
 
-Anzeige und Zulassung
+Zertifizierter Empfänger
+
+§ 38a
+
+Zertifizierter Versender
+
+§ 38b
+
+Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+
+§ 38c
+
+Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+
+§ 38d
+
+Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+§ 38e
+
+Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+§ 38f
+
+Beförderung im Ausfallverfahren
+
+§ 38g
+
+Ersatznachweise für die Beendigung der Beförderung
 
 § 39
 
-Beförderung
+(weggefallen)
 
 § 40
 
-Pflichten des Anzeigepflichtigen, Steueraufsicht
+(weggefallen)
 
  
 
-Zu den §§ 15, 17, 21 und 46 des Gesetzes
+Zu den §§ 17, 18b, 21 und 46 des Gesetzes
 
  
 
@@ -429,13 +457,13 @@ Zu § 18 des Gesetzes
 
 § 42
 
-Versandhandel, Beauftragter
+Versandhandel
 
  
 
  
 
-Zu § 18a des Gesetzes
+Zu § 18c des Gesetzes
 
  
 
@@ -447,7 +475,7 @@ Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steue
 
  
 
-Zu den §§ 19 bis 19b des Gesetzes
+Zu § 19b des Gesetzes
 
  
 
@@ -457,21 +485,13 @@ Zu den §§ 19 bis 19b des Gesetzes
 
 Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten
 
- 
-
-Zu § 66 Abs. 1 Nr. 16 des Gesetzes
-
- 
-
- 
-
 § 44
 
-Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten
+(weggefallen)
 
 § 45
 
-Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
+(weggefallen)
 
  
 
@@ -497,6 +517,14 @@ Vermischungen bei der Abgabe aus Transportmitteln
 
 Spülvorgänge und sonstige Vermischungen, Steueranmeldung
 
+§ 49a
+
+Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
+
+§ 49b
+
+Nachweise für die Vorversteuerung
+
  
 
 Zu § 23 des Gesetzes
@@ -507,11 +535,7 @@ Zu § 23 des Gesetzes
 
 § 49a
 
-Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
-
-§ 49b
-
-Nachweise für die Vorversteuerung
+Abgabe von sonstigen Energieerzeugnissen
 
 § 50
 
@@ -1177,27 +1201,21 @@ Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositione
 
 Räume, Gefäße und Lagerplätze, in oder auf denen Energieerzeugnisse gelagert werden, sowie in den Fällen des § 7 Absatz 6 des Gesetzes die Fahrzeuge oder die Anhänger ohne Zulassung zum Straßenverkehr;
 
-8. EDV-gestütztes Beförderungs- und Kontrollsystem: System, über das Personen, die an Beförderungen unter Steueraussetzung beteiligt sind, elektronische Meldungen über Bewegungen von Energieerzeugnissen mit der Zollverwaltung austauschen; das System dient der Kontrolle dieser Bewegungen;
+8. EDV-gestütztes Beförderungs- und Kontrollsystem: System, über das Personen, die an Beförderungen von Energieerzeugnissen unter Steueraussetzung oder Lieferungen von Energieerzeugnissen zu gewerblichen Zwecken nach § 15 des Gesetzes beteiligt sind, elektronische Meldungen über Bewegungen von Energieerzeugnissen mit der Zollverwaltung austauschen; das System dient der Kontrolle dieser Bewegungen;
+
+8a. EMCS-Durchführungsverordnung: die Verordnung (EG) Nr. 684/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Richtlinie 2008/118/EG des Rates in Bezug auf die EDV-gestützten Verfahren für die Beförderung verbrauchsteuerpflichtiger Waren unter Steueraussetzung (ABl. L 197 vom 29.7.2009, S. 24), die zuletzt durch die Durchführungsverordnung (EU) 2020/1811 (ABl. L 404 vom 2.12.2020, S. 3) geändert worden ist, in der jeweils geltenden Fassung;
 
 9. elektronisches Verwaltungsdokument: der Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
-10. Ausfallverfahren: Verfahren, das zu Beginn, während oder nach Beendigung der Beförderung von Energieerzeugnissen unter Steueraussetzung verwendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
+10. Ausfallverfahren: ein Verfahren, das zu Beginn, während oder nach der Beendigung der Beförderung von Energieerzeugnissen unter Steueraussetzung oder zu Beginn, während oder nach der Lieferung von Energieerzeugnissen zu gewerblichen Zwecken nach § 15 des Gesetzes angewendet wird, wenn das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht;
 
-11. Ausgangszollstelle:
+11. Ausgangszollstelle: die nach Artikel 329 der Durchführungsverordnung zum Unionszollkodex bestimmte Zollstelle;
 
-a) für im Eisenbahnverkehr, mit der Post, im Luft- oder im Seeverkehr beförderte Energieerzeugnisse die Zollstelle, die für den Ort zuständig ist, an dem die Energieerzeugnisse von Eisenbahngesellschaften, Postdiensten, Luftverkehrs- oder Schifffahrtsgesellschaften im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung mit Bestimmung in ein Drittland oder Drittgebiet übernommen werden,
+12. vereinfachtes elektronisches Verwaltungsdokument: Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz, der mit einem eindeutigen Referenzcode versehen ist;
 
-b) für in Rohrleitungen beförderte Energieerzeugnisse die von dem Mitgliedstaat, in dessen Gebiet der Ausführer ansässig ist, bezeichnete Zollstelle,
+13. Durchführungsverordnung zum Unionszollkodex: die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558; L 101 vom 13.4.2017, S. 166; L 157 vom 20.6.2018, S. 27; L 387 vom 19.11.2020, S. 31), die zuletzt durch die Durchführungsverordnung (EU) 2021/235 (ABl. L 63 vom 23.2.2021, S. 386) geändert worden ist, in der jeweils geltenden Fassung;
 
-c) für in sonstiger Weise oder unter anderen als in Buchstabe a und b genannten Umständen beförderte Energieerzeugnisse die letzte Zollstelle vor dem Ausgang der Energieerzeugnisse aus dem Verbrauchsteuergebiet der Europäischen Gemeinschaft;
-
-12. vereinfachtes Begleitdokument:
-
-Versanddokument nach Artikel 2 Abs. 1 in Verbindung mit dem Anhang der Verordnung (EWG) Nr. 3649/92 der Kommission vom 17. Dezember 1992 über ein vereinfachtes Begleitdokument für die Beförderung von verbrauchsteuerpflichtigen Waren, die sich bereits im steuerrechtlich freien Verkehr des Abgangsmitgliedstaats befinden (ABl. EG Nr. L 369 S. 17), in der jeweils geltenden Fassung. Als vereinfachtes Begleitdokument gelten auch Handelsdokumente, wenn sie die gleichen Angaben unter Hinweis auf das entsprechende Feld im Vordruck des vereinfachten Begleitdokuments enthalten und an gut sichtbarer Stelle mit dem Aufdruck "Vereinfachtes Begleitdokument (verbrauchsteuerpflichtige Waren) zu verbrauchsteuerlichen Kontrollzwecken" versehen sind;
-
-13. Zollkodex-Durchführungsverordnung:
-
-die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 253 S. 1, 1994 Nr. L 268 S. 32, 1996 Nr. L 180 S. 34, 1997 Nr. L 156 S. 59, 1999 Nr. L 111 S. 88), die durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist;
+13a. Delegierte Verordnung zum Unionszollkodex: die Delegierte Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom 23.2.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung;
 
 14. Stromsteuer-Durchführungsverordnung:
 
@@ -1273,9 +1291,9 @@ Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei einem Schwe
 
 (1) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur sind dann ordnungsgemäß gekennzeichnet im Sinne von § 2 Abs. 3 Satz 1 Nr. 1, § 27 Abs. 1 Satz 2, § 48 Abs. 1 Satz 1 und § 52 Abs. 1 Satz 2 des Gesetzes, wenn sie im Steuergebiet vor der erstmaligen Abgabe in einem Kennzeichnungsbetrieb unter Verwendung von zugelassenen Kennzeichnungseinrichtungen mit 4,1 g N-Ethyl-1-(4-phenylazophenylazo)naphthyl-2-amin oder 5,3 g N-Ethylhexyl-1-(tolylazotolylazo)naphthyl-2-amin oder 6,1 g N-Tridecyl-1-(tolylazotolylazo)naphthyl-2-amin oder einem in der Farbwirkung äquivalenten Gemisch aus diesen Farbstoffen (Rotfarbstoffe) und 6,0 g N-Ethyl-N-(2-(1-isobutoxyethoxy)ethyl)-4-(phenylazo)-anilin (Solvent Yellow 124 - Markierstoff) auf 1 000 Liter bei 15 Grad Celsius gleichmäßig vermischt (gekennzeichnet) wurden.
 
-(2) Werden Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur aus einem anderen Mitgliedstaat (§ 1a Satz 1 Nummer 5 des Gesetzes), einem Drittgebiet (§ 1a Satz 1 Nummer 6 des Gesetzes) oder einem Drittland (§ 1a Satz 1 Nummer 7 des Gesetzes) in das Steuergebiet verbracht oder eingeführt, gelten sie vorbehaltlich gegenteiliger Feststellung als ordnungsgemäß gekennzeichnet, wenn eine Bescheinigung in einer Amtssprache der Europäischen Gemeinschaft der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl außerhalb des Steuergebiets gekennzeichnet worden ist und nach Art und Menge mindestens den Gehalt der in Absatz 1 genannten Kennzeichnungsstoffe und höchstens 9,0 g Solvent Yellow 124 auf 1 000 Liter bei 15 Grad Celsius gleichmäßig verteilt enthält. Wird ein zu geringer Anteil an Kennzeichnungsstoffen festgestellt, gilt § 7 Abs. 2 Satz 5 bis 7 sinngemäß.
+(2) Werden Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur aus einem anderen Mitgliedstaat (§ 1a Satz 1 Nummer 5 des Gesetzes), einem Drittgebiet (§ 1a Satz 1 Nummer 6 des Gesetzes) oder einem Drittland (§ 1a Satz 1 Nummer 7 des Gesetzes) in das Steuergebiet verbracht oder eingeführt, gelten sie vorbehaltlich gegenteiliger Feststellung als ordnungsgemäß gekennzeichnet, wenn eine Bescheinigung in einer Amtssprache der Europäischen Union der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl außerhalb des Steuergebiets gekennzeichnet worden ist und nach Art und Menge mindestens den Gehalt der in Absatz 1 genannten Kennzeichnungsstoffe und höchstens 9,0 g Solvent Yellow 124 auf 1 000 Liter bei 15 Grad Celsius gleichmäßig verteilt enthält. Wird ein zu geringer Anteil an Kennzeichnungsstoffen festgestellt, gilt § 7 Abs. 2 Satz 5 bis 7 sinngemäß.
 
-(3) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur, die aus einem anderen Mitgliedstaat in das Steuergebiet verbracht werden und neben der nach Absatz 2 Satz 1 vorgeschriebenen Menge Solvent Yellow 124 andere als in Absatz 1 genannte Kennzeichnungsstoffe enthalten, gelten vorbehaltlich gegenteiliger Feststellung als ordnungsgemäß gekennzeichnet, wenn diese Kennzeichnungsstoffe in gleicher Weise (Rotfärbung) und mit vergleichbarer Zuverlässigkeit wie die in Absatz 1 genannten Kennzeichnungsstoffe das Erkennen als gekennzeichnetes Energieerzeugnis und die Unterscheidung von anderen Energieerzeugnissen ermöglichen. Das Bundesministerium der Finanzen bestimmt im Verwaltungswege, welche der in den anderen Mitgliedstaaten zugelassenen Kennzeichnungsverfahren die Voraussetzungen erfüllen. Weitere Voraussetzung ist, dass eine Bescheinigung in einer Amtssprache der Europäischen Gemeinschaft der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl nach dem Recht des anderen Mitgliedstaats ordnungsgemäß gekennzeichnet ist.
+(3) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur, die aus einem anderen Mitgliedstaat in das Steuergebiet verbracht werden und neben der nach Absatz 2 Satz 1 vorgeschriebenen Menge Solvent Yellow 124 andere als in Absatz 1 genannte Kennzeichnungsstoffe enthalten, gelten vorbehaltlich gegenteiliger Feststellung als ordnungsgemäß gekennzeichnet, wenn diese Kennzeichnungsstoffe in gleicher Weise (Rotfärbung) und mit vergleichbarer Zuverlässigkeit wie die in Absatz 1 genannten Kennzeichnungsstoffe das Erkennen als gekennzeichnetes Energieerzeugnis und die Unterscheidung von anderen Energieerzeugnissen ermöglichen. Das Bundesministerium der Finanzen bestimmt im Verwaltungswege, welche der in den anderen Mitgliedstaaten zugelassenen Kennzeichnungsverfahren die Voraussetzungen erfüllen. Weitere Voraussetzung ist, dass eine Bescheinigung in einer Amtssprache der Europäischen Union der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl nach dem Recht des anderen Mitgliedstaats ordnungsgemäß gekennzeichnet ist.
 
 # § 3 – Antrag auf Zulassung von Kennzeichnungseinrichtungen
 
@@ -1755,7 +1773,7 @@ Für den Antrag, die Erteilung, die Überprüfung und das Erlöschen der Erlaubn
 
 # § 23a – Steueranmeldung
 
-Die Steueranmeldungen nach § 8 Absatz 3 und 4, § 9 Absatz 2, § 9a Absatz 5, § 14 Absatz 7 Satz 1, § 15 Absatz 5, § 16 Absatz 3, § 22 Absatz 2 Satz 3 und § 23 Absatz 6 des Gesetzes sind nach amtlich vorgeschriebenem Vordruck abzugeben.
+Die Steueranmeldungen nach § 8 Absatz 3 und 4, § 9 Absatz 2, § 9a Absatz 5, § 14 Absatz 7 Satz 1, § 16 Absatz 3, § 18c, § 22 Absatz 2 Satz 3 und § 23 Absatz 6 des Gesetzes sind nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 # § 23b – Überprüfung von Steueranmeldungen
 
@@ -1823,7 +1841,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 1. von Unternehmen, die in das Handels-, Genossenschafts- oder Vereinsregister eingetragen sind, ein aktueller Registerauszug,
 
-2. eine Aufstellung mit den Orten der Einfuhr beim Eingang der Energieerzeugnisse aus Drittländern und Drittgebieten (§ 1a Satz 1 Nummer 6, 7 und 9 des Gesetzes),
+2. eine Aufstellung mit den Orten der Einfuhr beim Eingang der Energieerzeugnisse aus Drittländern oder Drittgebieten (§ 1a Satz 1 Nummer 6, 7 und 9 des Gesetzes),
 
 3. eine Darstellung der Aufzeichnungen über den Versand und den Verbleib der Energieerzeugnisse.
 
@@ -1833,7 +1851,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 (3a) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend.
 
-(4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte der Einfuhr, an denen die Energieerzeugnisse nach den Artikeln 263 bis 267 der Zollkodex-Durchführungsverordnung oder aus einem Zolllager des Typs D im Sinn des Artikels 525 Absatz 2 Buchstabe a der Zollkodex-Durchführungsverordnung in den zollrechtlich freien Verkehr überführt werden. Hiervon ausgenommen sind die Fälle, in denen das Hauptzollamt die Überlassung der Energieerzeugnisse zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
+(4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte der Einfuhr, an denen die Energieerzeugnisse nach Artikel 182 des Unionszollkodex zum zollrechtlich freien Verkehr überlassen werden. Hiervon ausgenommen sind die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der Delegierten Verordnung zum Unionszollkodex die Überlassung der Energieerzeugnisse zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
 
 (5) Der registrierte Versender hat Aufzeichnungen über die unter Steueraussetzung versandten Energieerzeugnisse sowie ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Die unter Steueraussetzung versandten Energieerzeugnisse sind vom registrierten Versender unverzüglich aufzuzeichnen.
 
@@ -1843,7 +1861,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 # § 28 – Begünstigte, Freistellungsbescheinigung
 
-(1) Ein Begünstigter, der Energieerzeugnisse unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 13 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des Hauptzollamts versehene erste und zweite Ausfertigung dem Steuerlagerinhaber als Versender oder dem registrierten Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim Hauptzollamt. Die zweite Ausfertigung hat der Beförderer während der Beförderung der Energieerzeugnisse mitzuführen. Die erste Ausfertigung hat der Versender im Steuergebiet zu seinen steuerlichen Aufzeichnungen zu nehmen. Nach der Übernahme der Energieerzeugnisse verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten.
+(1) Ein Begünstigter, der Energieerzeugnisse unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des Hauptzollamts versehene erste und zweite Ausfertigung dem Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim Hauptzollamt. Die zweite Ausfertigung hat der Beförderer während der Beförderung der Energieerzeugnisse mitzuführen. Die erste Ausfertigung hat der Versender im Steuergebiet zu seinen steuerlichen Aufzeichnungen zu nehmen. Nach der Übernahme der Energieerzeugnisse verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten.
 
 (2) Zuständiges Hauptzollamt ist für Begünstigte
 
@@ -1861,9 +1879,9 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 # § 28a – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
-Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und Bedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Bedingungen einzuhalten.
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Rahmenbedingungen einzuhalten.
 
-# § 28b – Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
+# § 28b – Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
 
 (1) Sollen Energieerzeugnisse unter Steueraussetzung aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
 
@@ -1871,13 +1889,13 @@ Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen
 
 2. in ein Steuerlager, in den Betrieb eines registrierten Empfängers oder zu einem Begünstigten in einem anderen Mitgliedstaat befördert werden (§ 11 Absatz 1 Nummer 1 des Gesetzes) oder
 
-3. zu einem Ort, an dem die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen, befördert werden (§ 13 Absatz 1 des Gesetzes),
+3. zu einem Ort, an dem die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen, befördert werden oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt werden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen ist (§ 13 Absatz 1 des Gesetzes),
 
-hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments mit dem in Artikel 3 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (2) Das Hauptzollamt überprüft automatisiert die Angaben in dem Entwurf des elektronischen Verwaltungsdokuments. Bei Beförderungen vom Ort der Einfuhr erfolgt zusätzlich ein Abgleich mit der Zollanmeldung. Gibt es keine Beanstandungen, wird der Entwurf des elektronischen Verwaltungsdokuments mit einem eindeutigen Referenzcode versehen und dem Versender als elektronisches Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
-(3) Der Beförderer hat während der Beförderung einen Ausdruck des vom Hauptzollamt übermittelten elektronischen Verwaltungsdokuments mitzuführen. Anstelle des ausgedruckten elektronischen Verwaltungsdokuments kann ein Handelspapier mitgeführt werden, wenn dieses dieselben Daten enthält oder wenn aus diesem der eindeutige Referenzcode hervorgeht.
+(3) Der Beförderer hat während der Beförderung den eindeutigen Referenzcode mitzuführen und auf Verlangen mitzuteilen. Das Hauptzollamt kann die Vorlage eines Ausdrucks des elektronischen Verwaltungsdokuments oder jedes anderen Handelspapiers verlangen.
 
 (4) Der Versender hat auf Verlangen des Hauptzollamts die Energieerzeugnisse unverändert vorzuführen. Dabei kann das Hauptzollamt Verschlussmaßnahmen anordnen.
 
@@ -1885,9 +1903,9 @@ hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem fü
 
 # § 28c – Unbestimmter Empfänger
 
-(1) Stehen in den Fällen des § 10 Absatz 1 des Gesetzes oder des § 11 Absatz 1 des Gesetzes zu Beginn einer Beförderung im Seeverkehr oder auf Binnenwasserstraßen der Empfänger und der Bestimmungsort noch nicht endgültig fest, kann das Hauptzollamt auf Antrag des Steuerlagerinhabers als Versender oder des registrierten Versenders unter Widerrufsvorbehalt zulassen, diese Angaben im Entwurf des elektronischen Verwaltungsdokuments wegzulassen.
+(1) Stehen in den Fällen des § 10 Absatz 1 des Gesetzes oder des § 11 Absatz 1 des Gesetzes zu Beginn einer Beförderung im Seeverkehr oder auf Binnenwasserstraßen der Empfänger und der Bestimmungsort noch nicht endgültig fest, kann das Hauptzollamt auf Antrag des Versenders unter Widerrufsvorbehalt zulassen, diese Angaben im Entwurf des elektronischen Verwaltungsdokuments wegzulassen.
 
-(2) Der Steuerlagerinhaber als Versender oder der registrierte Versender hat den zu Beginn der Beförderung noch nicht festgelegten Empfänger und Bestimmungsort während der Beförderung der Energieerzeugnisse über das EDV-gestützte Beförderungs- und Kontrollsystem zu ergänzen, sobald er Kenntnis über die Angaben zum Empfänger und zum zugelassenen Bestimmungsort hat, spätestens jedoch zum Ende der Beförderung.
+(2) Der Versender hat den zu Beginn der Beförderung noch nicht festgelegten Empfänger und Bestimmungsort während der Beförderung der Energieerzeugnisse über das EDV-gestützte Beförderungs- und Kontrollsystem zu ergänzen, sobald er Kenntnis über die Angaben zum Empfänger und zum zugelassenen Bestimmungsort hat, spätestens jedoch zum Ende der Beförderung.
 
 (3) Für die Datenübermittlung mittels des EDV-gestützten Beförderungs- und Kontrollsystems gilt § 31 entsprechend.
 
@@ -1903,17 +1921,17 @@ hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem fü
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung der Energieerzeugnisse noch nicht begonnen hat.
 
-(2) Um das elektronische Verwaltungsdokuments zu annullieren, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems vor Beginn der Beförderung den Entwurf der elektronischen Annullierungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Um das elektronische Verwaltungsdokuments zu annullieren, hat der Versender dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems vor Beginn der Beförderung den Entwurf der elektronischen Annullierungsmeldung mit dem in Artikel 4 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in der Annullierungsmeldung. Gibt es keine Beanstandungen, wird dies dem Versender unter Angabe des Datums und der Zeit der Prüfung mitgeteilt. Beanstandungen werden dem Versender ebenfalls mitgeteilt.
 
 (4) Ist ein elektronisches Verwaltungsdokument für die Beförderung von Energieerzeugnissen unter Steueraussetzung annulliert worden, die für einen Empfänger im Steuergebiet bestimmt waren, der entweder ein Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das für den Empfänger zuständige Hauptzollamt die eingehende Annullierungsmeldung an diesen weiter.
 
-# § 31 – Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
+# § 31 – Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments
 
-(1) Während der Beförderung der Energieerzeugnisse unter Steueraussetzung kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort ändern und einen anderen zulässigen Bestimmungsort (§ 10 Absatz 1 Nummer 1, § 11 Absatz 1 Nummer 1 Buchstabe a und b, § 13 Absatz 1 des Gesetzes) angeben. Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
+(1) Während der Beförderung der Energieerzeugnisse unter Steueraussetzung kann der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse ändern und einen anderen zulässigen Bestimmungsort oder einen anderen Empfänger (§ 10 Absatz 1 Nummer 1, § 11 Absatz 1 Nummer 1 Buchstabe a und b, § 13 Absatz 1 des Gesetzes) angeben. Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
-(2) Um den Bestimmungsort zu ändern, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+(2) Vor Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse hat der Versender dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf der elektronischen Änderungsmitteilung mit dem in Artikel 5 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in dem Entwurf der elektronischen Änderungsmeldung. Gibt es keine Beanstandungen, wird dem Entwurf der Änderungsmeldung eine fortlaufende Vorgangsnummer zugewiesen und dem Versender als Änderungsmeldung zum ursprünglichen elektronischen Verwaltungsdokument übermittelt. Beanstandungen werden dem Versender mitgeteilt.
 
@@ -1925,7 +1943,7 @@ hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem fü
 
 # § 32 – Aufteilung von Warensendungen während der Beförderung
 
-(1) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung im Steuergebiet (§ 10 des Gesetzes) kann der Steuerlagerinhaber als Versender oder der registrierte Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn
+(1) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung im Steuergebiet (§ 10 des Gesetzes) kann der Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn
 
 1. sich die Gesamtmenge der beförderten Energieerzeugnisse dadurch nicht ändert,
 
@@ -1933,11 +1951,11 @@ hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem fü
 
 3. die in der Verfahrensanweisung (§ 28a) festgelegten Bedingungen eingehalten werden.
 
-Um Energieerzeugnisse aufteilen zu können, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung nach amtlich vorgeschriebenem Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
+Um Energieerzeugnisse aufteilen zu können, hat der Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung mit dem in Artikel 6 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
 
-(2) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung in andere Mitgliedstaaten (§ 11 Absatz 1 Nummer 1 des Gesetzes) kann der Steuerlagerinhaber als Versender oder der registrierte Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn die Voraussetzungen nach Absatz 1 Nummer 1 und 3 vorliegen. Um Energieerzeugnisse aufteilen zu können, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung nach amtlich vorgeschriebenem Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
+(2) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung in andere Mitgliedstaaten (§ 11 Absatz 1 Nummer 1 des Gesetzes) kann der Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn die Voraussetzungen nach Absatz 1 Nummer 1 und 3 vorliegen. Um Energieerzeugnisse aufteilen zu können, hat der Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung mit dem in Artikel 6 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
 
-(3) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung in andere Mitgliedstaaten (§ 11 Absatz 1 Nummer 1 des Gesetzes) kann der Steuerlagerinhaber als Versender oder der registrierte Versender die Energieerzeugnisse außerhalb des Steuergebiets in zwei oder mehrere Warensendungen aufteilen, wenn die Voraussetzungen nach Absatz 1 Nummer 1 und 3 vorliegen und der Mitgliedstaat, in dem die Energieerzeugnisse aufgeteilt werden, eine solche Aufteilung auf seinem Gebiet zulässt. Um Energieerzeugnisse aufteilen zu können, hat der Steuerlagerinhaber als Versender oder der registrierte Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung nach amtlich vorgeschriebenem Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
+(3) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung in andere Mitgliedstaaten (§ 11 Absatz 1 Nummer 1 des Gesetzes) kann der Versender die Energieerzeugnisse außerhalb des Steuergebiets in zwei oder mehrere Warensendungen aufteilen, wenn die Voraussetzungen nach Absatz 1 Nummer 1 und 3 vorliegen und der Mitgliedstaat, in dem die Energieerzeugnisse aufgeteilt werden, eine solche Aufteilung auf seinem Gebiet zulässt. Um Energieerzeugnisse aufteilen zu können, hat der Versender dem für ihn zuständigen Hauptzollamt den Entwurf der Aufteilungsmitteilung mit dem in Artikel 6 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems zu übermitteln.
 
 (4) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung aus anderen Mitgliedstaaten (§ 11 Absatz 1 Nummer 2 und 3 des Gesetzes) kann der Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn die Voraussetzungen nach Absatz 1 Nummer 1 und 3 vorliegen. Der Versender hat die Zollverwaltung rechtzeitig, mindestens aber 24 Stunden vor der Aufteilung, darüber zu unterrichten, wo die Energieerzeugnisse im Steuergebiet aufgeteilt werden sollen, und Kontrollen zu dulden.
 
@@ -1947,7 +1965,7 @@ Um Energieerzeugnisse aufteilen zu können, hat der Steuerlagerinhaber als Verse
 
 # § 33 – Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung
 
-(1) Werden Energieerzeugnisse unter Steueraussetzung aus anderen Mitgliedstaaten zu einem Empfänger im Steuergebiet oder durch das Steuergebiet befördert, hat der Beförderer während der Beförderung einen Ausdruck des elektronischen Verwaltungsdokuments oder ein entsprechendes Handelsdokument für die Energieerzeugnisse mitzuführen.
+(1) Werden Energieerzeugnisse unter Steueraussetzung aus anderen Mitgliedstaaten zu einem Empfänger im Steuergebiet oder durch das Steuergebiet befördert, hat der Beförderer während der Beförderung den eindeutigen Referenzcode mitzuführen und auf Verlangen mitzuteilen. Das Hauptzollamt kann die Vorlage eines Ausdrucks des elektronischen Verwaltungsdokuments oder jedes anderen Handelspapiers für die Energieerzeugnisse verlangen.
 
 (2) Ein elektronisches Verwaltungsdokument, das von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, wird an den Empfänger im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet, wenn dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
@@ -1971,7 +1989,7 @@ Werden die Energieerzeugnisse außerhalb des Steuergebiets in Besitz genommen, i
 
 # § 34 – Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments
 
-(1) Nach der Aufnahme der Energieerzeugnisse, auch von Teilmengen, an einem Bestimmungsort, der in § 10 Absatz 1 oder § 11 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+(1) Nach der Aufnahme der Energieerzeugnisse, auch von Teilmengen, an einem Bestimmungsort, der in § 10 Absatz 1 oder § 11 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in Artikel 7 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
 (2) Das für den Empfänger zuständige Hauptzollamt überprüft automatisiert die Angaben in der Eingangsmeldung. Gibt es keine Beanstandungen, wird dies dem Empfänger mitgeteilt. Beanstandungen werden dem Empfänger ebenfalls mitgeteilt. Das für den Versender zuständige Hauptzollamt übermittelt dem Versender die Eingangsmeldung, wenn dieser ein Steuerlagerinhaber im Steuergebiet oder ein registrierter Versender im Steuergebiet ist. Eine Eingangsmeldung, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, wird an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
 
@@ -1979,9 +1997,17 @@ Werden die Energieerzeugnisse außerhalb des Steuergebiets in Besitz genommen, i
 
 (4) Der Empfänger hat auf Verlangen des Hauptzollamts die Energieerzeugnisse unverändert vorzuführen.
 
-(5) In den Fällen des § 13 des Gesetzes erstellt das für den Versender zuständige Hauptzollamt auf Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung, mit der bestätigt wird, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen haben. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
+(5) Das Hauptzollamt erstellt auf der Grundlage der von der Ausgangszollstelle übermittelten Ausgangsbestätigung eine Ausfuhrmeldung, mit der bestätigt wird, dass die Energieerzeugnisse
 
-(6) Die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 gilt als Nachweis, dass die Beförderung der Energieerzeugnisse beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft nicht verlassen haben.
+1. in den Fällen des § 13 Absatz 1 Nummer 1 des Gesetzes das Verbrauchsteuergebiet der Europäischen Union verlassen haben, oder
+
+2. in den Fällen des § 13 Absatz 1 Nummer 2 des Gesetzes in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
+
+(6) Die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 gilt als Nachweis, dass die Beförderung der Energieerzeugnisse beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union nicht verlassen haben oder nicht in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+(7) Dürfen die Energieerzeugnisse das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt eine Meldung auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch eine Meldung, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt die Meldung über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Meldungen über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang der Meldung über die nicht erfolgte Ausfuhr annulliert der Versender das elektronische Verwaltungsdokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse.
 
 # § 35 – Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument
 
@@ -1999,13 +2025,15 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 # § 36 – Beginn der Beförderung im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender abweichend von § 28b nur dann eine Beförderung von Energieerzeugnissen unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck verwendet wird.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender abweichend von § 28b nur dann eine Beförderung von Energieerzeugnissen unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 1 der EMCS-Durchführungsverordnung verwendet wird.
 
-(2) Der Versender hat vor Beginn der ersten Beförderung im Ausfallverfahren das für ihn zuständige Hauptzollamt schriftlich über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems zu unterrichten. Eine Unterrichtung ist nicht erforderlich, wenn es sich um einen von der Zollverwaltung veranlassten Ausfall handelt.
+(2) Der Versender hat vor Beginn der ersten Beförderung im Ausfallverfahren das für ihn zuständige Hauptzollamt schriftlich über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems zu unterrichten. Eine Unterrichtung ist nicht erforderlich, wenn es sich um einen durch das Informationstechnikzentrum Bund veröffentlichten Ausfall handelt.
 
-(3) Der Versender hat das Ausfalldokument in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er unverzüglich dem für ihn zuständigen Hauptzollamt zu übermitteln. Der Beförderer der Energieerzeugnisse hat während der Beförderung die dritte Ausfertigung mitzuführen. Abweichend von Satz 3 kann das Hauptzollamt Ausnahmen von der unverzüglichen Übermittlung sowie weitere Verfahrensvereinfachungen zulassen, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
+(3) Der Versender hat das Ausfalldokument vor Beginn der Beförderung in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er unverzüglich dem für ihn zuständigen Hauptzollamt vorzulegen. Der Beförderer der Energieerzeugnisse hat während der Beförderung die dritte Ausfertigung mitzuführen. Abweichend von Satz 3 kann das Hauptzollamt Ausnahmen von der unverzüglichen Übermittlung sowie weitere Verfahrensvereinfachungen zulassen, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 (4) Der Versender hat auf Verlangen des Hauptzollamts jede Beförderung im Ausfallverfahren vor Beginn anzuzeigen. Daneben hat er auf Verlangen des Hauptzollamts die zweite Ausfertigung des Ausfalldokuments bereits vor Beginn der Beförderung zu übermitteln. § 28b Absatz 4 gilt entsprechend.
+
+(4a) In den Fällen des § 13 des Gesetzes händigt der Versender dem Anmelder zur Ausfuhr die dritte Ausfertigung des Ausfalldokuments aus. Der Anmelder zur Ausfuhr legt diese Ausfertigung oder die eindeutige Kennung des Ausfalldokuments der Ausgangszollstelle vor. Die Angaben des Ausfalldokuments müssen den Angaben der Ausfuhrmeldung für die angemeldeten Energieerzeugnisse entsprechen.
 
 (5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender dem für ihn zuständigen Hauptzollamt unverzüglich für alle im Ausfallverfahren durchgeführten Beförderungen unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des elektronischen Verwaltungsdokuments zu übermitteln, der dieselben Daten wie das Ausfalldokument nach Absatz 1 enthält und in dem auf die Verwendung des Ausfallverfahrens hingewiesen wird. § 28b Absatz 2 und 5 gilt entsprechend.
 
@@ -2015,27 +2043,27 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 # § 36a – Annullierung im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender das elektronische Verwaltungsdokument abweichend von § 30 oder das Ausfalldokument nach amtlich vorgeschriebenem Vordruck annullieren (Annullierungsdokument), solange die Beförderung der Energieerzeugnisse noch nicht begonnen hat.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender das elektronische Verwaltungsdokument abweichend von § 30 oder das Ausfalldokument nach amtlich vorgeschriebenem Vordruck annullieren (Annullierungsdokument), solange die Beförderung der Energieerzeugnisse noch nicht begonnen hat.
 
-(2) Der Versender hat das Annullierungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Mit der zweiten Ausfertigung hat er unverzüglich das für ihn zuständige Hauptzollamt zu unterrichten.
+(2) Der Versender hat das Annullierungsdokument vor Beginn der Beförderung in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Mit der zweiten Ausfertigung hat er unverzüglich das für ihn zuständige Hauptzollamt zu unterrichten.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt dem Versender das elektronische Verwaltungsdokument vor, hat er dem für ihn zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Annullierungsmeldung nach § 30 Absatz 2 zu übermitteln. § 30 Absatz 3 und 4 gilt entsprechend.
 
-# § 36b – Änderung des Bestimmungsorts im Ausfallverfahren
+# § 36b – Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender den Bestimmungsort während der Beförderung der Energieerzeugnisse abweichend von § 31 nach amtlich vorgeschriebenem Vordruck ändern (Änderungsdokument). Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse während der Beförderung der Energieerzeugnisse abweichend von § 31 nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung ändern (Änderungsdokument). Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
-(2) Der Versender hat das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem für ihn zuständigen Hauptzollamt unverzüglich zu übermitteln. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder im Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn ihm nicht das Änderungsdokument übermittelt wurde.
+(2) Vor Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse hat der Versender das Änderungsdokument in zwei Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die zweite Ausfertigung hat er dem für ihn zuständigen Hauptzollamt unverzüglich vorzulegen. Er hat den Beförderer unverzüglich über die geänderten Angaben im elektronischen Verwaltungsdokument oder im Ausfalldokument zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn die Beförderung bereits mit einem Ausfalldokument begonnen und wenn ihm nicht das Änderungsdokument übermittelt wurde.
 
-(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts dem für ihn zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 31 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument nach Absatz 1 enthält. § 31 Absatz 3 bis 6 gilt entsprechend.
+(3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Änderungen des Bestimmungsorts oder des Empfängers der Energieerzeugnisse dem für ihn zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Änderungsmeldung nach § 31 Absatz 2 zu übermitteln, der dieselben Daten wie das Änderungsdokument nach Absatz 1 enthält. § 31 Absatz 3 bis 6 gilt entsprechend.
 
-(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts sowie die Übermittlung der zweiten Ausfertigung des Änderungsdokuments gilt § 36 Absatz 2 und 4 Satz 1 und 2 entsprechend.
+(4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse sowie die Vorlage der zweiten Ausfertigung des Änderungsdokuments gilt § 36 Absatz 2 und 4 Satz 1 und 2 entsprechend.
 
 # § 36c – Aufteilung im Ausfallverfahren
 
-(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Steuerlagerinhaber als Versender oder der registrierte Versender während der Beförderung von Energieerzeugnissen unter Steueraussetzung die Energieerzeugnisse nach Maßgabe des § 32 Absatz 1 bis 3 in zwei oder mehrere Warensendungen aufteilen. Für die Aufteilung im Ausfallverfahren ist abweichend von § 32 das Ausfalldokument nach amtlich vorgeschriebenem Vordruck zu verwenden.
+(1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender während der Beförderung von Energieerzeugnissen unter Steueraussetzung die Energieerzeugnisse nach Maßgabe des § 32 Absatz 1 bis 3 in zwei oder mehrere Warensendungen aufteilen. Für die Aufteilung im Ausfallverfahren ist abweichend von § 32 das Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung zu verwenden.
 
-(2) Der Versender hat je Teilsendung ein Ausfalldokument in zwei Exemplaren auszufertigen. Er hat die jeweils erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die jeweils zweite Ausfertigung hat er dem für ihn zuständigen Hauptzollamt unverzüglich zu übermitteln. Er hat den Beförderer unverzüglich über die Einzelheiten der neuen Teilsendungen zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn ihm nicht die Ausfalldokumente der neuen Teilsendungen übermittelt wurden.
+(2) Der Versender hat je Teilsendung ein Ausfalldokument vor der Aufteilung der Sendung in zwei Exemplaren auszufertigen. Er hat die jeweils erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Die jeweils zweite Ausfertigung hat er dem für ihn zuständigen Hauptzollamt unverzüglich vorzulegen. Er hat den Beförderer unverzüglich über die Einzelheiten der neuen Teilsendungen zu unterrichten. Der Beförderer hat die Angaben unverzüglich auf der Rückseite des mitgeführten Dokuments zu vermerken, wenn ihm nicht die Ausfalldokumente der neuen Teilsendungen übermittelt wurden.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung, hat der Versender für alle im Ausfallverfahren durchgeführten Aufteilungen dem für ihn zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Aufteilungsmitteilung nach § 32 zu übermitteln, der dieselben Daten wie die Ausfalldokumente nach Absatz 1 enthält.
 
@@ -2045,23 +2073,31 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 # § 36d – Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
-(1) Kann der Empfänger die Eingangsmeldung nach § 34 Absatz 1 nach Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 31 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck vorzulegen, mit dem er den Empfang der Energieerzeugnisse bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 34 Absatz 1 entsprechend.
+(1) Kann der Empfänger die Eingangsmeldung nach § 34 Absatz 1 nach Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 31 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 3 der EMCS-Durchführungsverordnung vorzulegen, mit dem er den Empfang der Energieerzeugnisse bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 34 Absatz 1 entsprechend.
 
-(2) Der Empfänger hat das Eingangsdokument in drei Exemplaren auszufertigen. Das Hauptzollamt bestätigt die drei Exemplare und gibt dem Empfänger die erste Ausfertigung zurück. Der Empfänger hat diese Ausfertigung zu seinen Aufzeichnungen zu nehmen. Wird die Eingangsmeldung nicht innerhalb der in § 34 Absatz 1 genannten Frist vom Empfänger übermittelt, übersendet das für den Empfänger zuständige Hauptzollamt die zweite Ausfertigung des Eingangsdokuments dem für den Versender zuständigen Hauptzollamt, das diese an den Versender weiterleitet. Eingangsdokumente, die von den zuständigen Behörden eines anderen Mitgliedstaats übersendet wurden, werden an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
+(2) Der Empfänger hat das Eingangsdokument unverzüglich in drei Exemplaren auszufertigen. Das Hauptzollamt bestätigt die drei Exemplare und gibt dem Empfänger die erste Ausfertigung zurück. Der Empfänger hat diese Ausfertigung zu seinen Aufzeichnungen zu nehmen. Wird die Eingangsmeldung nicht innerhalb der in § 34 Absatz 1 genannten Frist vom Empfänger übermittelt, übersendet das Hauptzollamt die zweite Ausfertigung des Eingangsdokuments dem für den Versender zuständigen Hauptzollamt, das diese an den Versender weiterleitet. Eingangsdokumente, die von den zuständigen Behörden eines anderen Mitgliedstaats übersendet wurden, werden an den Versender im Steuergebiet von dem für ihn zuständigen Hauptzollamt weitergeleitet.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument oder die Meldung nach § 31 Absatz 5 oder Absatz 6 dem Empfänger vor, hat dieser dem für ihn zuständigen Hauptzollamt unverzüglich für das im Ausfallverfahren erstellte Eingangsdokument unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems eine Eingangsmeldung nach § 34 Absatz 1 zu übermitteln, die dieselben Daten wie das Eingangsdokument nach Absatz 1 enthält. § 34 Absatz 2 gilt entsprechend.
 
-(4) Kann nach Beendigung einer Beförderung von Energieerzeugnissen unter Steueraussetzung die Ausfuhrmeldung nach § 34 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen haben. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn die Energieerzeugnisse aus dem Steuergebiet versendet wurden. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
+(4) Kann nach Beendigung einer Beförderung von Energieerzeugnissen unter Steueraussetzung die Ausfuhrmeldung nach § 34 Absatz 5 nicht erstellt werden, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder das elektronische Verwaltungsdokument nicht übermittelt wurde, so erstellt das Hauptzollamt ein Ausfuhrdokument, in dem bestätigt wird, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war. Dies gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übersendet dem Versender eine Ausfertigung dieses Ausfuhrdokuments, wenn die Energieerzeugnisse aus dem Steuergebiet versendet wurden. In den Fällen, in denen ein entsprechendes Ausfuhrdokument von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, übersendet das Hauptzollamt dem Versender eine Ausfertigung.
 
-(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 34 Absatz 5 Satz 1. § 34 Absatz 5 Satz 2 und 3 gilt entsprechend.
+(4a) Dürfen Energieerzeugnisse in den Fällen des § 13 des Gesetzes das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt ein Ausfalldokument auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch ein Ausfalldokument, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt das Ausfalldokument über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Ausfalldokumente über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang des Ausfalldokuments annulliert der Versender das Ausfalldokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse nach amtlich vorgeschriebenem Vordruck.
+
+(5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 34 Absatz 5 Satz 1 oder eine Meldung nach § 34 Absatz 7. § 34 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
 # § 37 – Ersatznachweise für die Beendigung der Beförderung
 
-Liegt kein Nachweis nach § 34 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 36c vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn hinreichend belegt ist, dass die Energieerzeugnisse den angegebenen Bestimmungsort erreicht oder das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen haben (Ersatznachweis). Als hinreichender Beleg im Sinn von Satz 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie die Eingangsmeldung und in dem dieser den Empfang der Energieerzeugnisse bestätigt.
+(1) Liegt kein Nachweis nach § 34 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 36c vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Energieerzeugnisse
+
+1. den angegebenen Bestimmungsort erreicht haben oder
+
+2. das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
+
+(2) Als hinreichender Ersatznachweis nach Absatz 1 Nummer 1 gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben Angaben enthält wie eine Eingangsmeldung und in dem der Empfänger den Empfang der Energieerzeugnisse bestätigt. Als hinreichender Ersatznachweis nach Absatz 1 Nummer 2 gilt insbesondere ein Sichtvermerk der Ausgangszollstelle, der bestätigt, dass die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen haben oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 # § 37a – Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
-(1) Sind Energieerzeugnisse während der Beförderung unter Steueraussetzung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
+(1) Sind Energieerzeugnisse während der Beförderung unter Steueraussetzung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
 (2) Bei wiederholt auftretenden Fehlmengen kann das Hauptzollamt auf Antrag eines Steuerschuldners gemäß § 14 Absatz 7 Satz 3 und 4 des Gesetzes auf die sofortige Abgabe der Steueranmeldung verzichten, sofern
 
@@ -2075,35 +2111,159 @@ Für die Fristen zur Abgabe der Steueranmeldung und für die Fälligkeit der Ste
 
 (3) Einem Antrag auf Verzicht auf die sofortige Abgabe der Steueranmeldung kann nur stattgegeben werden, wenn der Antragsteller erklärt, dass er für alle im Antrag genannten Beförderungsvorgänge auf die Möglichkeit verzichtet nachzuweisen, dass eine Fehlmenge nicht auf eine Unregelmäßigkeit zurückzuführen ist. Die Steueranmeldung nach den Sätzen 1 und 2 hat unabhängig von der monatlichen Steueranmeldung zu erfolgen.
 
-(4) In den Fällen des § 14 Absatz 2 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 34 und 37 sinngemäß.
+(4) In den Fällen des § 14 Absatz 2 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 34 und 37 sinngemäß. Die Frist nach § 14 Absatz 2 Satz 5 des Gesetzes beginnt mit der schriftlichen oder elektronischen Bekanntgabe der Feststellung einer Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
-# § 38 – Anzeige und Zulassung
+# § 38 – Zertifizierter Empfänger
 
-(1) Die Anzeige nach § 15 Absatz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck bei dem für den Anzeigepflichtigen zuständigen Hauptzollamt zu erstatten. Sollen die bezogenen Energieerzeugnisse in ein Verfahren der Steuerbefreiung (§ 24 Absatz 1 des Gesetzes) überführt werden, ist der Erlaubnisschein beizufügen, soweit die Erlaubnis nicht allgemein erteilt ist.
+(1) Wer als zertifizierter Empfänger Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur gelegentlich empfangen will, hat die Erlaubnis nach § 15a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Verbringen oder Verbringenlassen außerhalb des Steuergebiets in Empfang genommener Energieerzeugnisse in das Steuergebiet nach § 15 Satz 3 des Gesetzes steht dem Empfang nach Satz 1 gleich. Dem Antrag sind beizufügen:
 
-(2) Der Anzeigepflichtige hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
+1. von Unternehmen, die in das Handels- oder Genossenschaftsregister eingetragen sind, ein aktueller Registerauszug,
 
-(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Zulassung zum Bezug, zum Inbesitzhalten oder zur Verwendung der Energieerzeugnisse, wenn der Anzeigepflichtige Sicherheit in Höhe der Steuer geleistet hat, die voraussichtlich entsteht. Für die Sicherheitsleistung gilt § 29, für das Erlöschen der Zulassung § 14 Abs. 2 und 4 sinngemäß. Die Zulassung kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+2. ein Lageplan mit dem beantragten Empfangsort im Betrieb mit Angabe der Anschrift,
 
-# § 39 – Beförderung
+3. eine Darstellung der Aufzeichnungen über den Empfang und Verbleib der Energieerzeugnisse,
 
-(1) Werden Energieerzeugnisse im Sinn des § 4 des Gesetzes in anderen als den in § 15 Absatz 4 des Gesetzes genannten Fällen aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken in das Steuergebiet verbracht, hat der Beförderer während der Beförderung die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments mitzuführen, das für die Energieerzeugnisse ordnungsgemäß ausgefertigt wurde. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware verbracht werden.
+4. eine Darstellung der Mengenermittlung, wenn die Energieerzeugnisse nach § 2 des Gesetzes versteuert werden sollen.
 
-(2) Der Anzeigepflichtige im Sinn des § 15 Absatz 3 des Gesetzes hat dem Hauptzollamt mit der Steueranmeldung die mit seiner Empfangsbestätigung versehene zweite und dritte Ausfertigung des vereinfachten Begleitdokuments vorzulegen. Auf Antrag bestätigt das Hauptzollamt die Anmeldung oder Entrichtung der Steuer. Ist bei der Beförderung eine Empfangsbestätigung nach Artikel 4 Satz 4 der Verordnung (EWG) Nr. 3649/92 erforderlich, hat der Anzeigepflichtige die für den Lieferer bestimmte Ausfertigung des vereinfachten Begleitdokuments mit der vom Abgangsmitgliedstaat vorgesehenen Empfangsbestätigung unverzüglich an den Lieferer zurückzusenden.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 Satz 3 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 
-# § 40 – Pflichten des Anzeigepflichtigen, Steueraufsicht
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als zertifizierter Empfänger für die beantragten Empfangsorte. Mit der Erlaubnis wird für den zertifizierten Empfänger eine Verbrauchsteuernummer vergeben. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 15a Absatz 3 des Gesetzes für die entstehende Steuer zu leisten. § 29 gilt entsprechend. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung verbunden werden.
 
-(1) Der Anzeigepflichtige hat ein Empfangsbuch über den Bezug, die Lieferung, die Lagerung oder die Verwendung der Energieerzeugnisse zu führen, aus dem jeweils Art, Kennzeichnung und Menge der Energieerzeugnisse, der Lieferer, der Empfänger und die Reihenfolge der Lieferungen hervorgehen. Das Hauptzollamt kann dazu Anordnungen treffen. Anzeigepflichtige, die die Energieerzeugnisse im Rahmen einer förmlichen Einzelerlaubnis verwenden oder verteilen, haben den Bezug und den weiteren Verbleib der Energieerzeugnisse nur im Verwendungsbuch nachzuweisen. Der Anzeigepflichtige hat auf Verlangen des Hauptzollamts weitere Aufzeichnungen zu führen. Das Hauptzollamt kann einfachere Aufzeichnungen zulassen, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Das Empfangsbuch ist jeweils für ein Kalenderjahr zu führen und spätestens am 31. Januar des folgenden Jahres abzuschließen. Der Anzeigepflichtige hat dem Hauptzollamt auf Verlangen das abgeschlossene Empfangsbuch abzuliefern.
+(4) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend.
 
-(2) Auf Anordnung des Hauptzollamts sind im Betrieb des Anzeigepflichtigen die Bestände an Energieerzeugnissen amtlich festzustellen. Dazu hat der Anzeigepflichtige das Empfangsbuch oder die an seiner Stelle zugelassenen Aufzeichnungen aufzurechnen und auf Verlangen des Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck anzumelden. Der Anzeigepflichtige hat auf Verlangen des Hauptzollamts auch andere Energieerzeugnisse, mit denen er handelt, die er lagert oder verwendet, oder auch andere Stoffe in die Bestandsaufnahme oder Anmeldung einzubeziehen.
+(5) Beabsichtigt der zertifizierte Empfänger zusätzlich zu den bewilligten Empfangsorten einen weiteren Empfangsort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Empfangsort gilt als genehmigt, wenn dem zertifizierten Empfänger nicht bis eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
 
-(3) Die mit der Steueraufsicht betrauten Amtsträger können für steuerliche Zwecke unentgeltlich Proben von Energieerzeugnissen und anderen im Betrieb des Anzeigepflichtigen befindlichen Erzeugnissen zur Untersuchung entnehmen.
+(6) Für den Erlaubnisinhaber nach § 6, § 7 oder § 9a des Gesetzes gilt für die ihm bewilligten Steuerlager oder Empfangsorte die Erlaubnis als zertifizierter Empfänger als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
 
-(4) Absatz 2 gilt nicht, wenn der Anzeigepflichtige bereits als Inhaber einer förmlichen Einzelerlaubnis die in § 56 genannten Pflichten zu erfüllen hat.
+1. beim Hauptzollamt rechtzeitig vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat,
+
+2. die anfallende Sicherheit geleistet hat und
+
+3. an dem Verfahren nach § 38b, auch in Verbindung mit § 28a, teilnimmt.
+
+Absatz 3 Satz 2 und § 29 gelten entsprechend. Beabsichtigt der Erlaubnisinhaber zusätzlich zu den bewilligten Empfangsorten einen weiteren Empfangsort als zertifizierter Empfänger zu betreiben, gilt Absatz 5 entsprechend.
+
+(7) Der zertifizierte Empfänger hat Aufzeichnungen über die zu gewerblichen Zwecken empfangenen Energieerzeugnisse sowie ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Zertifizierte Empfänger, die die empfangenen Energieerzeugnisse im Rahmen einer förmlichen Einzelerlaubnis verwenden oder verteilen, haben den Empfang nur im Verwendungsbuch oder in den an seiner Stelle zugelassenen Aufzeichnungen nachzuweisen.
+
+(8) Die mit der Steueraufsicht betrauten Personen können für steuerliche Zwecke unentgeltlich Proben von Energieerzeugnissen und anderen Erzeugnissen zur Untersuchung entnehmen, die sich im Betrieb des zertifizierten Empfängers befinden.
+
+(9) Beabsichtigt der zertifizierte Empfänger die nach Absatz 1 angegebenen Verhältnisse zu ändern, hat er dies dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
+
+(10) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 entsprechend.
+
+(11) Wer als zertifizierter Empfänger im Einzelfall Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr empfangen will, hat die Erlaubnis nach § 15a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Versenders der Energieerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Verbringen oder Verbringenlassen außerhalb des Steuergebiets in Empfang genommener Energieerzeugnisse in das Steuergebiet nach § 15 Absatz 1 Satz 3 des Gesetzes steht dem Empfang nach Satz 1 gleich. Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erteilung der Erlaubnis gilt Absatz 3 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Der zertifizierte Empfänger im Einzelfall hat auf Verlangen des Hauptzollamts Aufzeichnungen über die zu gewerblichen Zwecken empfangenen Energieerzeugnisse zu führen. Eine Erlaubnis als zertifizierter Empfänger im Einzelfall kann auch Privatpersonen erteilt werden, die Energieerzeugnisse empfangen wollen, deren Beförderung nicht unter § 16 oder § 18 des Gesetzes fällt.
+
+# § 38a – Zertifizierter Versender
+
+(1) Wer als zertifizierter Versender Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur gelegentlich versenden will, hat die Erlaubnis nach § 15b Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind beizufügen:
+
+1. von Unternehmen, die in das Handels- oder Genossenschaftsregister eingetragen oder einzutragen sind, ein aktueller Registerauszug,
+
+2. eine Aufstellung mit den beantragten Versandorten mit Angabe der Anschriften,
+
+3. eine Darstellung der Aufzeichnungen über den Versand und den Verbleib der Energieerzeugnisse.
+
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
+
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als zertifizierter Versender für die beantragten Versandorte. Mit der Erlaubnis wird für den zertifizierten Versender eine Verbrauchsteuernummer vergeben. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Abgabenordnung versehen werden.
+
+(4) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend.
+
+(5) Beabsichtigt ein zertifizierter Versender zusätzlich zu den bewilligten Versandorten einen weiteren Versandort zu betreiben, hat er dies dem Hauptzollamt spätestens vier Wochen vor Beginn der Beförderung anzuzeigen. Der Versandort gilt als genehmigt, wenn dem zertifizierten Versender nicht bis spätestens eine Woche vor Beginn der Beförderung eine anderslautende Entscheidung des Hauptzollamts zugegangen ist.
+
+(6) Für den Erlaubnisinhaber nach § 6, § 7 oder § 9b des Gesetzes gilt für die ihm bewilligten Steuerlager oder Versandorte die Erlaubnis als zertifizierter Versender als unter Widerrufsvorbehalt erteilt, sofern der Inhaber
+
+1. beim Hauptzollamt rechtzeitig vor Beginn einer Beförderung eine Anzeige nach amtlich vorgeschriebenem Vordruck abgegeben hat und
+
+2. an dem Verfahren nach § 38b, auch in Verbindung mit § 28a, teilnimmt.
+
+Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt er einen weiteren Versandort als zertifizierter Versender zu betreiben, gilt Absatz 5 entsprechend.
+
+(7) Der zertifizierte Versender hat Aufzeichnungen über die zu gewerblichen Zwecken in andere Mitgliedstaaten versandten Energieerzeugnisse sowie ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
+
+(8) Beabsichtigt der zertifizierte Versender die nach Absatz 1 angegebenen Verhältnisse zu ändern, hat er dies dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
+
+(9) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 entsprechend.
+
+(10) Wer als zertifizierter Versender im Einzelfall Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr versenden will, hat die Erlaubnis nach § 15b Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Empfängers der Energieerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erteilung der Erlaubnis gilt Absatz 3 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Empfänger sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Eine Erlaubnis als zertifizierter Versender im Einzelfall kann auch Privatpersonen erteilt werden, die Energieerzeugnisse versenden wollen, deren Beförderung nicht unter § 16 oder § 18 des Gesetzes fällt.
+
+# § 38b – Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+
+(1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen von Energieerzeugnissen im steuerrechtlich freien Verkehr das vereinfachte elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 15c Absatz 1 des Gesetzes) austauschen. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Im Übrigen gilt § 28a.
+
+(2) Für häufig und regelmäßig stattfindende Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs kann das Bundesministerium der Finanzen mit weiteren von den Beförderungen betroffenen Mitgliedstaaten Vereinbarungen schließen, um vereinfachte Verfahren für die Beförderung festzulegen. Dabei können auch Ausnahmen für die verpflichtende Verwendung eines vereinfachten elektronischen Verwaltungsdokuments vorgesehen werden.
+
+(3) Für die Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs kann das Hauptzollamt auf Antrag und im Benehmen mit den zuständigen Steuerbehörden der betroffenen Mitgliedstaaten ein vereinfachtes Verfahren für die Beförderung, auch unter Verzicht auf die Verwendung eines vereinfachten elektronischen Verwaltungsdokuments, zulassen. Die Zulassung erfolgt mit der jeweiligen Erlaubnis.
+
+# § 38c – Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Sollen Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nach diesem Abschnitt aus dem Steuergebiet befördert werden
+
+1. in einen anderen Mitgliedstaat oder
+
+2. in das Steuergebiet, wenn die Beförderung durch das Gebiet eines anderen Mitgliedstaats erfolgt,
+
+so hat der zertifizierte Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf des vereinfachten elektronischen Verwaltungsdokuments nach amtlich vorgeschriebenem Datensatz zu übermitteln.
+
+(2) Für die Überprüfung der Angaben im Entwurf des vereinfachten elektronischen Verwaltungsdokuments gilt § 28b Absatz 2 entsprechend.
+
+(3) Während der Beförderung ist der eindeutige Referenzcode vom Beförderer mitzuführen und auf Anfrage mitzuteilen. Dies gilt auch bei der Beförderung von Energieerzeugnissen im Sinn des § 4 des Gesetzes aus anderen Mitgliedstaaten. In den Fällen des Absatzes 1 Nummer 2 ist ein Ausdruck des vereinfachten elektronischen Verwaltungsdokuments vom Beförderer mitzuführen.
+
+(4) Der zertifizierte Versender hat auf Verlangen des Hauptzollamts die Energieerzeugnisse unverändert vorzuführen.
+
+(5) Das Hauptzollamt leitet im Fall des Absatzes 1 Nummer 2 das vereinfachte elektronische Verwaltungsdokument an den zertifizierten Empfänger weiter. Ein vereinfachtes elektronisches Verwaltungsdokument, das von den zuständigen Behörden eines anderen Mitgliedstaats dem Hauptzollamt übermittelt wurde, wird vom Hauptzollamt an den zertifizierten Empfänger im Steuergebiet weitergeleitet.
+
+# § 38d – Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Während der Beförderung von Energieerzeugnissen im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr kann der zertifizierte Versender den Bestimmungsort ändern, und zwar
+
+1. in einen Lieferort, der von demselben zertifizierten Empfänger in demselben Mitgliedstaat betrieben wird, oder
+
+2. in den Abgangsort.
+
+Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfänger die Übernahme der Energieerzeugnisse ablehnt.
+
+(2) Für die Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse gilt § 31 Absatz 2, 3 und 6 entsprechend.
+
+# § 38e – Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+
+(1) Nach Aufnahme der Energieerzeugnisse im Sinn des § 4 des Gesetzes, auch von Teilmengen, an einem vom Erlaubnisumfang erfassten Bestimmungsort hat der zertifizierte Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in dem delegierten Rechtsakt nach Artikel 43 Absatz 1 Systemrichtlinie in seiner jeweils gültigen Fassung vorgeschriebenem Datensatz zu übermitteln. Das Verbringen oder Verbringenlassen von Energieerzeugnissen in das Steuergebiet steht der Aufnahme nach Satz 1 gleich, sofern die Energieerzeugnisse nach § 15 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
+
+(2) Für die Überprüfung der Angaben in der Eingangsmeldung gilt § 34 Absatz 2 Satz 1 bis 3 entsprechend. Abweichend davon erfolgt die Mitteilung an den zertifizierten Empfänger, dass es keine Beanstandungen gibt, erst nach der Vorlage des Nachweises, dass
+
+1. die Energieerzeugnisse in ein Steuerlager aufgenommen wurden,
+
+2. die Energiesteuer angemeldet wurde oder
+
+3. sich an die Lieferung ein Verfahren der Steuerbefreiung anschließt.
+
+(3) Der zertifizierte Empfänger hat auf Verlangen des Hauptzollamts die Energieerzeugnisse unverändert vorzuführen.
+
+(4) Unbeschadet des § 42a gilt die Eingangsmeldung als Nachweis dafür, dass die Beförderung der Energieerzeugnisse beendet wurde.
+
+# § 38f – Beförderung im Ausfallverfahren
+
+Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung und kann das vereinfachte elektronische Verwaltungsdokument somit nicht angewendet werden, gelten für das Ausfallverfahren die §§ 36, 36b und 36c entsprechend. In diesem Fall sind Ausfalldokumente nach amtlich vorgeschriebenem Vordruck zu verwenden.
+
+# § 38g – Ersatznachweise für die Beendigung der Beförderung
+
+(1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das Steuergebiet kein Nachweis nach § 38e Absatz 4 oder § 38f in Verbindung mit § 38d Absatz 1 vor, bestätigt das für den zertifizierten Empfänger zuständige Hauptzollamt durch einen Sichtvermerk die Beendigung der Beförderung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Energieerzeugnisse den angegebenen Bestimmungsort erreicht haben.
+
+(2) Ein Sichtvermerk der zuständigen Behörde des Bestimmungsmitgliedstaats bei einer Beförderung aus dem Steuergebiet in einen anderen Mitgliedstaat gilt, sofern er vom Hauptzollamt akzeptiert wird, als hinreichender Ersatznachweis dafür, dass
+
+1. der zertifizierte Empfänger die dort angefallene Verbrauchsteuer entrichtet hat,
+
+2. der zertifizierte Empfänger die Energieerzeugnisse in ein Steuerlager aufgenommen hat oder
+
+3. die Energieerzeugnisse von der Verbrauchsteuer befreit sind.
+
+# § 39 – (weggefallen)
+
+# § 40 – (weggefallen)
 
 # § 41 – Hauptbehälter
 
-Hauptbehälter im Sinn des § 15 Absatz 4 Nummer 1, § 21 Absatz 1 Satz 3 Nummer 1 und § 46 Absatz 1 Satz 2 des Gesetzes sind:
+Hauptbehälter im Sinn des § 18b Absatz 2 Nummer 3, § 21 Absatz 1 Satz 3 Nummer 1 und § 46 Absatz 1 Satz 2 des Gesetzes sind:
 
 1. die fest eingebauten Behälter, die die unmittelbare Verwendung des Kraftstoffs für den Antrieb der Fahrzeuge und gegebenenfalls für den Betrieb der Kühlanlage oder sonstigen Anlagen während der Beförderung ermöglichen,
 
@@ -2111,41 +2271,41 @@ Hauptbehälter im Sinn des § 15 Absatz 4 Nummer 1, § 21 Absatz 1 Satz 3 Nummer
 
 Besteht ein Hauptbehälter aus mehr als einem Kraftstoffbehälter, ist ein Absperrventil in der Leitung zwischen zwei Kraftstoffbehältern unschädlich.
 
-# § 42 – Versandhandel, Beauftragter
+# § 42 – Versandhandel
 
-(1) Die Anzeige nach § 18 Absatz 3 Satz 1 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck bei dem für den Beauftragten zuständigen Hauptzollamt zu erstatten.
+(1) Wer als Versandhändler Energieerzeugnisse im Sinn des § 4 des Gesetzes an Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
 
-(2) Der Beauftragte des Versandhändlers hat die Erlaubnis nach § 18 Absatz 3 Satz 3 des Gesetzes nach amtlich vorgeschriebenem Vordruck vor Aufnahme seiner Tätigkeit bei dem für ihn zuständigen Hauptzollamt zu beantragen. Dem Antrag ist von Unternehmen, die in das Handels-, Genossenschafts- oder Vereinsregister eingetragen sind, ein aktueller Registerauszug beizufügen. Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
+(2) Die Erlaubnis als Versandhändler gilt als unter Widerrufsvorbehalt erteilt, sobald das Hauptzollamt
 
-(3) Das Hauptzollamt erteilt dem Beauftragten des Versandhändlers schriftlich oder elektronisch die Erlaubnis, wenn der Beauftragte Sicherheit nach § 18 Absatz 3 Satz 5 oder Absatz 4 Satz 5 des Gesetzes geleistet hat. Für die Sicherheitsleistung gilt § 29, für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 und 4 sinngemäß. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+1. schriftlich oder elektronisch die Unternehmensnummer mitgeteilt hat und
 
-(4) Der Beauftragte hat ein Belegheft zu führen. Er hat in den Anzeigen nach § 18 Absatz 3 Satz 5 des Gesetzes die Art der Energieerzeugnisse nach der Bezeichnung im Gesetz, den voraussichtlichen Lieferumfang und, soweit sie zum Zeitpunkt der Anzeige bereits bekannt sind, Name und Anschrift des Empfängers oder der Empfänger sowie den Tag der jeweiligen Lieferung anzugeben. Das Hauptzollamt kann dazu sowie zu den vom Beauftragten zu führenden Aufzeichnungen weitere Anordnungen treffen. Der Beauftragte hat dem Hauptzollamt Änderungen der die Erlaubnis betreffenden Verhältnisse unverzüglich schriftlich anzuzeigen.
+2. der Versandhändler die erforderliche Sicherheit nach § 18 Absatz 3 des Gesetzes geleistet hat.
 
-# § 42a – Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+Für die Sicherheitsleistung gilt § 29 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden.
 
-Stellt der Empfänger der Energieerzeugnisse Abweichungen gegenüber den Angaben im vereinfachten Begleitdokument fest, hat er dies dem für ihn zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen. § 37a Absatz 1 gilt entsprechend.
+(3) Beauftragt der Versandhändler nach § 18 Absatz 3 des Gesetzes einen Steuervertreter, hat er diesen vor der ersten Lieferung mittels einer Anzeige nach amtlich vorgeschriebenem Vordruck bei dem für den Steuervertreter zuständigen Hauptzollamt zu benennen. Ein Antrag nach Absatz 1 ist in diesem Fall nicht erforderlich. Ist der Versandhändler bei Benennung des Steuervertreters bereits steuerlich in Erscheinung getreten, geht die Zuständigkeit auf das für den Steuervertreter zuständige Hauptzollamt über.
+
+(4) Der Steuervertreter bedarf für seine Tätigkeit für den Versandhändler einer Erlaubnis. Die Erlaubnis ist beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf Verlangen des Hauptzollamts hat der Steuervertreter weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
+
+(5) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis als Steuervertreter. Die Erlaubnis wird nur erteilt, wenn der Steuervertreter ordnungsmäßig kaufmännische Bücher führt und rechtzeitig Jahresabschlüsse aufstellt, soweit er nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet ist. Vor der Erteilung der Erlaubnis ist eine Sicherheit nach § 18 Absatz 3 des Gesetzes zu leisten. Für die Sicherheitsleistung gilt § 29 entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht gefährdet werden. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Abgabenordnung versehen werden. Die Erlaubnis des Steuervertreters wird bei Erteilung auch dem Versandhändler schriftlich oder elektronisch bekannt gegeben. Die Erlaubnis gilt damit auch für den Versandhändler als unter Widerrufsvorbehalt erteilt.
+
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 3 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei nicht nur gelegentlichen Lieferungen nach § 18 Absatz 3 Satz 5 des Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der Anzeige nach § 18 Absatz 3 Satz 4 des Gesetzes gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter entsprechend.
+
+(7) Der Versandhändler und der Steuervertreter haben dem Hauptzollamt Änderungen der die Erlaubnis betreffenden Verhältnisse unverzüglich schriftlich anzuzeigen.
+
+(8) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 entsprechend.
+
+# § 42a – Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs
+
+Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Teilverlusts von Energieerzeugnissen gilt § 37a entsprechend. Bei hinreichendem Nachweis oder allgemein zugelassenen Mengenabweichungen kann die Sicherheit vollständig oder teilweise freigegeben werden.
 
 # § 43 – Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten
 
 Energieerzeugnisse aus Drittländern und Drittgebieten sind in den Fällen des § 19b Absatz 3 des Gesetzes nach den Zollvorschriften mit den für die Besteuerung maßgeblichen Merkmalen anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-# § 44 – Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten
+# § 44 – (weggefallen)
 
-Wer in § 4 des Gesetzes genannte Energieerzeugnisse des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten verbringen will, hat das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware verbracht werden. Der Lieferer hat die erste Ausfertigung des Begleitdokuments zu seinen Aufzeichnungen zu nehmen. Der Beförderer hat die zweite und dritte Ausfertigung des Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
-
-# § 45 – Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
-
-(1) Werden die in § 4 des Gesetzes genannten Energieerzeugnisse des steuerrechtlich freien Verkehrs durch das Gebiet eines anderen Mitgliedstaats an einen Empfänger im Steuergebiet befördert, hat der Versender das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware befördert werden. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis  
-  
-
-<table width="100%" style="border: none;"><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">„Transit/Energieerzeugnisse<br />
-des steuerrechtlich freien Verkehrs“</td></tr></tbody></table>
-
-anzubringen sowie die Anschrift des für ihn zuständigen Hauptzollamts zu vermerken.
-
-(2) Der Versender hat das vereinfachte Begleitdokument in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem für ihn zuständigen Hauptzollamt zu übermitteln. Der Beförderer hat während der Beförderung der Energieerzeugnisse die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments mitzuführen. Er hat die Energieerzeugnisse auf dem kürzesten zumutbaren Weg durch das Gebiet des anderen Mitgliedstaats (Transitmitgliedstaat) zu befördern. Nach Beendigung der Beförderung hat der Empfänger die Übernahme der Energieerzeugnisse auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und sie dem für den Versender zuständigen Hauptzollamt zu übermitteln.
-
-(3) Tritt während der Beförderung auf dem Gebiet des Transitmitgliedstaats eine Unregelmäßigkeit ein, hat der Beförderer die zuständige Steuerbehörde des Mitgliedstaats und das für den Versender zuständige Hauptzollamt unverzüglich zu unterrichten. § 18a Absatz 2 des Gesetzes gilt entsprechend.
+# § 45 – (weggefallen)
 
 # § 46 – Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
 
@@ -2411,7 +2571,7 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 # § 57 – Bezug und Abgabe von steuerfreien Energieerzeugnissen
 
-(1) Werden steuerfreie Energieerzeugnisse aus einem Steuerlager an einen Erlaubnisinhaber abgegeben, hat der Inhaber des abgebenden Steuerlagers vorbehaltlich des § 45 die einzelnen Lieferungen durch Empfangsbestätigungen des Empfängers oder mit Zulassung des Hauptzollamts durch betriebliche Versandpapiere nachzuweisen, die den Namen und die Anschrift des Empfängers sowie Art, Menge und steuerlichen Zustand der Energieerzeugnisse und den Zeitpunkt der Lieferung enthalten.
+(1) Werden steuerfreie Energieerzeugnisse aus einem Steuerlager an einen Erlaubnisinhaber abgegeben, hat der Inhaber des abgebenden Steuerlagers die einzelnen Lieferungen durch Empfangsbestätigungen des Empfängers oder mit Zulassung des Hauptzollamts durch betriebliche Versandpapiere nachzuweisen, die den Namen und die Anschrift des Empfängers sowie Art, Menge und steuerlichen Zustand der Energieerzeugnisse und den Zeitpunkt der Lieferung enthalten.
 
 (2) (weggefallen)
 
@@ -2429,9 +2589,9 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 (9) Für die Verteilung von steuerfreien Energieerzeugnissen gelten die Absätze 1 bis 4 sinngemäß.
 
-(10) Wer als Erlaubnisinhaber steuerfreie Energieerzeugnisse nach § 4 des Gesetzes in ein Drittland ausführen will, hat das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware ausgeführt werden. An die Stelle des Empfängers tritt die Zollstelle, an der die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen. Der Beförderer hat die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
+(10) Wer als Erlaubnisinhaber steuerfreie Energieerzeugnisse nach § 4 des Gesetzes in ein Drittland ausführen will, hat das vereinfachte Begleitdokument vor Beginn der Beförderung auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware ausgeführt werden. An die Stelle des Empfängers tritt die Zollstelle, an der die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen. Der Beförderer hat die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
 
-(11) Werden die Energieerzeugnisse von einer Eisenbahngesellschaft, einem Postdienst oder einer Luftverkehrsgesellschaft im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung aus dem Verbrauchsteuergebiet der Europäischen Gemeinschaft übernommen, gelten die Energieerzeugnisse vorbehaltlich gegenteiliger Feststellung mit der Bestätigung der Übernahme als ausgeführt. Wird der Beförderungsvertrag mit der Folge geändert, dass eine Beförderung, die außerhalb des Verbrauchsteuergebiets der Europäischen Gemeinschaft enden sollte, innerhalb dieses Gebiets endet, erteilt die zuständige Zollstelle (Ausgangszollstelle im Sinne des Artikels 793 Abs. 2 Buchstabe a der Zollkodex-Durchführungsverordnung) die Zustimmung zur Änderung nach Artikel 796 Abs. 2 der Zollkodex-Durchführungsverordnung nur, wenn gewährleistet ist, dass die Energieerzeugnisse im Verbrauchsteuergebiet der Europäischen Gemeinschaft ordnungsgemäß steuerlich erfasst werden.
+(11) Werden die Energieerzeugnisse von einer Eisenbahngesellschaft, einem Postdienst oder einer Luftverkehrsgesellschaft im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung aus dem Verbrauchsteuergebiet der Europäischen Union übernommen, gelten die Energieerzeugnisse vorbehaltlich gegenteiliger Feststellung mit der Bestätigung der Übernahme als ausgeführt. Wird der Beförderungsvertrag mit der Folge geändert, dass eine Beförderung, die außerhalb des Verbrauchsteuergebiets der Europäischen Union enden sollte, innerhalb dieses Gebiets endet, erteilt die zuständige Zollstelle (Ausgangszollstelle im Sinn des § 1 Nummer 11) die Zustimmung zur Änderung nach Artikel 340 Absatz 3 der Durchführungsverordnung zum Zollkodex nur, wenn gewährleistet ist, dass die Energieerzeugnisse im Verbrauchsteuergebiet der Europäischen Union ordnungsgemäß steuerlich erfasst werden.
 
 (12) Der Erlaubnisinhaber hat im Fall des Absatzes 11 den Inhalt der Sendung auf dem Beförderungspapier gut sichtbar mit der Kurzbezeichnung "VSt" als verbrauchsteuerpflichtige Ware zu kennzeichnen, die Sendung in ein Eisenbahn-, Post- oder Luftfrachtausgangsbuch nach amtlich vorgeschriebenem Vordruck einzutragen und das Buch dem Beförderer zur Bestätigung der Übernahme der Sendung vorzulegen. Das Hauptzollamt kann anstelle des Eisenbahn-, Post- oder Luftfrachtausgangsbuchs andere Aufzeichnungen zulassen, wenn die Steuerbelange dadurch nicht gefährdet werden.
 
@@ -2665,7 +2825,7 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden sinngemäß Anwendung
 
-1. die §§ 38 und 40 in den Fällen, in denen § 15 des Gesetzes nach § 34 des Gesetzes sinngemäß gilt,
+1. die §§ 38 bis 38g in den Fällen, in denen die §§ 15 bis 15c des Gesetzes nach § 34 des Gesetzes sinngemäß gilt,
 
 2. § 42 in den Fällen, in denen § 18 des Gesetzes nach § 34 des Gesetzes sinngemäß gilt.
 
@@ -2847,7 +3007,7 @@ e) die nach § 101 Absatz 4 Satz 2 erforderliche Selbsterklärung bereits vorgel
 
 Wird Erdgas nicht leitungsgebunden aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden sinngemäß Anwendung
 
-1. die §§ 38 und 40 in den Fällen, in denen § 15 des Gesetzes nach § 40 des Gesetzes sinngemäß gilt,
+1. die die §§ 38 bis 38g in den Fällen, in denen §§ 15 bis 15c des Gesetzes nach § 40 des Gesetzes sinngemäß gilt,
 
 2. § 42 in den Fällen, in denen § 18 des Gesetzes nach § 40 des Gesetzes sinngemäß gilt.
 
@@ -2935,7 +3095,7 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Abs. 3 des Gesetzes), in denen E
 
 (2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
 
-(3) Im Fall des § 46 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 46 Absatz 2 des Gesetzes hat der Antragsteller, ausgenommen im Versandhandel, dem Antrag die dritte Ausfertigung des vereinfachten Begleitdokuments mit ordnungsgemäßer Empfangsbestätigung des Empfängers sowie eine amtliche Bestätigung des anderen Mitgliedstaats darüber, dass die Energieerzeugnisse dort ordnungsgemäß steuerlich erfasst worden sind, beizufügen.
+(3) Im Fall des § 46 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 46 Absatz 2 des Gesetzes hat der Antragsteller, ausgenommen im Versandhandel, dem Antrag einen Ausdruck der Eingangsmeldung des vereinfachten elektronischen Verwaltungsdokuments als Nachweis nach § 46 Absatz 2 Nummer 1 des Gesetzes beizufügen. In den Fällen, in denen keine Eingangsmeldung abgegeben wurde, kann ein Ersatznachweis nach § 38g Absatz 2 als hinreichender Nachweis anerkannt werden. In den Fällen des § 46 Absatz 2 Satz 1 Nummer 1 des Gesetzes ist der Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen.
 
 (4) In den Fällen des § 46 Absatz 1 Satz 1 Nummer 2 bis 4 des Gesetzes hat der Antragsteller das Verbringen oder die Ausfuhr durch eindeutige, leicht nachprüfbare Belege nachzuweisen.
 
@@ -3669,35 +3829,37 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (1) Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
-1. entgegen § 4 Abs. 3 Satz 1, auch in Verbindung mit § 4 Abs. 4, entgegen § 7 Abs. 1 Satz 3, Abs. 2 Satz 2 oder Abs. 4 Satz 1, jeweils auch in Verbindung mit § 8 Abs. 1, entgegen § 11 Absatz 4, § 15 Abs. 2 Satz 3, Abs. 4 Satz 2, Abs. 8, 9 Satz 1, Abs. 10 oder Abs. 11, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, entgegen § 19 Abs. 2 Satz 3, Abs. 4 Satz 2 oder Abs. 9 Satz 1, jeweils auch in Verbindung mit § 22, entgegen § 19 Abs. 8 oder Abs. 10, jeweils auch in Verbindung mit § 21 Abs. 3 Satz 3 oder § 22, entgegen § 26 Absatz 6, § 27 Absatz 6, § 36 Absatz 4 Satz 1, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, § 37a, § 42 Absatz 4 Satz 4, § 42a Satz 1, § 51 Abs. 4, § 54 Absatz 8, auch in Verbindung mit § 73 Abs. 2 oder § 84 Abs. 2, § 56 Absatz 6 Satz 2 oder Absatz 8, jeweils auch in Verbindung mit § 85 Absatz 7, entgegen § 56 Absatz 10, § 61 Abs. 1 Satz 2, § 64 Abs. 5, § 67 Abs. 4, 6 oder Abs. 8 Satz 1, § 75 Abs. 4, 6 oder Abs. 8 Satz 1, § 79 Abs. 3 oder § 85 Abs. 4 oder Abs. 6 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+1. entgegen § 4 Abs. 3 Satz 1, auch in Verbindung mit § 4 Abs. 4, entgegen § 7 Abs. 1 Satz 3, Abs. 2 Satz 2 oder Abs. 4 Satz 1, jeweils auch in Verbindung mit § 8 Abs. 1, entgegen § 11 Absatz 4, § 15 Abs. 2 Satz 3, Abs. 4 Satz 2, Abs. 8, 9 Satz 1, Abs. 10 oder Abs. 11, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, entgegen § 19 Abs. 2 Satz 3, Abs. 4 Satz 2 oder Abs. 9 Satz 1, jeweils auch in Verbindung mit § 22, entgegen § 19 Abs. 8 oder Abs. 10, jeweils auch in Verbindung mit § 21 Abs. 3 Satz 3 oder § 22, entgegen § 26 Absatz 6, § 27 Absatz 6, § 36 Absatz 4 Satz 1, auch in Verbindung mit § 36b Absatz 4, § 36c Absatz 4 oder § 38f Satz 1, entgegen § 37a Absatz 1, auch in Verbindung mit § 42a Satz 1, entgegen § 38 Absatz 5 Satz 1 oder Absatz 9, § 38a Absatz 5 Satz 1 oder Absatz 8, § 42 Absatz 7, § 51 Abs. 4, § 54 Absatz 8, auch in Verbindung mit § 73 Abs. 2 oder § 84 Abs. 2, § 56 Absatz 6 Satz 2 oder Absatz 8, jeweils auch in Verbindung mit § 85 Absatz 7, entgegen § 56 Absatz 10, § 61 Abs. 1 Satz 2, § 64 Abs. 5, § 67 Abs. 4, 6 oder Abs. 8 Satz 1, § 75 Abs. 4, 6 oder Abs. 8 Satz 1, § 79 Abs. 3 oder § 85 Abs. 4 oder Abs. 6 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-2. entgegen § 7 Abs. 3, auch in Verbindung mit § 8 Abs. 1, § 15 Abs. 2 Satz 3, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 3, auch in Verbindung mit § 22, § 23 Absatz 3 Satz 1, § 26 Absatz 4 Satz 1 oder Absatz 8 Satz 4, § 27 Absatz 5 Satz 1, § 40 Abs. 1 Satz 4, § 48 Abs. 2, § 51 Abs. 2 Satz 1 oder Satz 3, § 64 Abs. 2 Satz 1 oder Satz 3, § 67 Abs. 2 Satz 1 oder Satz 3, § 75 Abs. 2 Satz 1 oder Satz 3, § 79 Abs. 2 Satz 1, § 85 Abs. 2 Satz 1 oder Satz 3, § 100a Absatz 4 Satz 1, auch in Verbindung mit § 101 Absatz 4, oder § 106 Satz 1 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
+2. entgegen § 7 Abs. 3, auch in Verbindung mit § 8 Abs. 1, § 15 Abs. 2 Satz 3, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 3, auch in Verbindung mit § 22, § 23 Absatz 3 Satz 1, § 26 Absatz 4 Satz 1 oder Absatz 8 Satz 4, § 27 Absatz 5 Satz 1, § 38 Absatz 7 Satz 1, § 38a Absatz 7 Satz 1, § 48 Abs. 2, § 51 Abs. 2 Satz 1 oder Satz 3, § 64 Abs. 2 Satz 1 oder Satz 3, § 67 Abs. 2 Satz 1 oder Satz 3, § 75 Abs. 2 Satz 1 oder Satz 3, § 79 Abs. 2 Satz 1, § 85 Abs. 2 Satz 1 oder Satz 3, § 100a Absatz 4 Satz 1, auch in Verbindung mit § 101 Absatz 4, oder § 106 Satz 1 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
 
-3. entgegen § 15 Abs. 2 Satz 1, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 1, auch in Verbindung mit § 22, § 40 Abs. 1 Satz 1 oder § 56 Abs. 3 Satz 1 ein Buch nicht oder nicht richtig führt,
+3. entgegen § 15 Abs. 2 Satz 1, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 1, auch in Verbindung mit § 22, § 38 Absatz 7 Satz 1, § 38a Absatz 7 Satz 1 oder § 56 Abs. 3 Satz 1 ein Belegheft oder ein Buch nicht oder nicht richtig führt,
 
-4. entgegen § 15 Abs. 2 Satz 6, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 6, auch in Verbindung mit § 22, § 40 Abs. 1 Satz 7 oder § 56 Abs. 4 Satz 2 ein Buch nicht oder nicht rechtzeitig abliefert,
+4. entgegen § 15 Abs. 2 Satz 6, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 6, auch in Verbindung mit § 22, oder § 56 Abs. 4 Satz 2 ein Buch nicht oder nicht rechtzeitig abliefert,
 
 5. entgegen § 15 Abs. 3 Satz 1, § 19 Abs. 3 Satz 1, auch in Verbindung mit § 22 oder § 56 Abs. 3 Satz 6 eine Zusammenstellung nicht, nicht richtig oder nicht rechtzeitig vorlegt,
 
-6. entgegen § 15 Absatz 3 Satz 2, § 15 Absatz 4 Satz 1, auch in Verbindung mit § 109 Absatz 5 Satz 2, § 19 Absatz 3 Satz 2 oder Absatz 4 Satz 1, jeweils auch in Verbindung mit § 22, § 56 Absatz 5 Satz 1, § 56 Absatz 6 Satz 1, auch in Verbindung mit § 85 Absatz 7, § 85 Absatz 3 Satz 1 oder § 109 Absatz 5 Satz 1 eine Anmeldung nicht, nicht richtig oder nicht rechtzeitig abgibt,
+6. entgegen § 15 Absatz 3 Satz 2, § 15 Absatz 4 Satz 1, auch in Verbindung mit § 109 Absatz 5 Satz 2, § 19 Absatz 3 Satz 2 oder Absatz 4 Satz 1, jeweils auch in Verbindung mit § 22, § 56 Absatz 5 Satz 1, § 56 Absatz 6 Satz 1, auch in Verbindung mit § 85 Absatz 7, § 85 Absatz 3 Satz 1 oder § 109 Absatz 5 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt,
 
-7. entgegen § 15 Abs. 5 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 5 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 22, § 40 Abs. 2 Satz 2 oder Satz 3 oder § 56 Abs. 7 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 85 Absatz 7, ein Buch oder eine Aufzeichnung nicht, nicht richtig oder nicht rechtzeitig aufrechnet, einen Bestand nicht, nicht richtig oder nicht rechtzeitig anmeldet oder ein anderes Energieerzeugnis nicht, nicht richtig oder nicht vollständig einbezieht,
+7. entgegen § 15 Abs. 5 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 5 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 22, oder § 56 Abs. 7 Satz 2 oder Satz 3, jeweils auch in Verbindung mit § 85 Absatz 7, ein Buch oder eine Aufzeichnung nicht, nicht richtig oder nicht rechtzeitig aufrechnet, einen Bestand nicht, nicht richtig oder nicht rechtzeitig anmeldet oder ein anderes Energieerzeugnis nicht, nicht richtig oder nicht vollständig einbezieht,
 
-8. entgegen § 27 Absatz 5 Satz 3, § 33 Absatz 3 oder Absatz 4, § 36 Absatz 7 Satz 1 oder Satz 2, § 36b Absatz 2 Satz 5, § 36c Absatz 2 Satz 5, § 57 Absatz 3, auch in Verbindung mit § 57 Absatz 9, § 57 Absatz 7 Satz 1 oder Absatz 15, § 68 Absatz 1 Satz 1, § 69 Absatz 2, auch in Verbindung mit § 69 Absatz 4, 5 oder § 76 Absatz 3 Satz 2, oder § 76 Absatz 1 Satz 1 eine Eintragung, eine Aufzeichnung oder einen Vermerk nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+8. entgegen § 27 Absatz 5 Satz 3, § 33 Absatz 3 oder Absatz 4, § 36 Absatz 7 Satz 1 oder Satz 2, § 36b Absatz 2 Satz 5, § 36c Absatz 2 Satz 5, jeweils auch in Verbindung mit § 38f Satz 1, entgegen § 57 Absatz 3, auch in Verbindung mit § 57 Absatz 9, § 57 Absatz 7 Satz 1 oder Absatz 15, § 68 Absatz 1 Satz 1, § 69 Absatz 2, auch in Verbindung mit § 69 Absatz 4, 5 oder § 76 Absatz 3 Satz 2, oder § 76 Absatz 1 Satz 1 eine Eintragung, eine Aufzeichnung oder einen Vermerk nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-9. entgegen § 28 Absatz 1 Satz 4, § 28b Absatz 3, § 33 Absatz 1, § 36 Absatz 3 Satz 4, § 39 Absatz 1 Satz 1, § 44 Satz 4, § 45 Absatz 2 Satz 3 oder § 57 Absatz 10 Satz 4 ein Dokument nicht mitführt,
+9. entgegen § 28 Absatz 1 Satz 4, § 28b Absatz 3, § 33 Absatz 1, § 36 Absatz 3 Satz 4, § 38c Absatz 3 Satz 1 oder 3 oder § 57 Absatz 10 Satz 4 ein Dokument nicht mitführt,
 
-10. entgegen § 28b Absatz 4 Satz 1, auch in Verbindung mit § 36 Absatz 4 Satz 3, oder § 34 Absatz 4 Energieerzeugnisse nicht, nicht vollständig oder nicht rechtzeitig vorführt,
+9a. entgegen § 28b Absatz 3 Satz 1, § 33 Absatz 1 oder § 38c Absatz 3 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-11. entgegen § 32 Absatz 4 Satz 2, § 36 Absatz 2 Satz 1, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, entgegen § 36a Absatz 2 Satz 3, § 36b Absatz 2 Satz 4, § 36c Absatz 2 Satz 4 oder § 45 Absatz 3 Satz 1 eine Unterrichtung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+10. entgegen § 28b Absatz 4 Satz 1, auch in Verbindung mit § 36 Absatz 4 Satz 3, entgegen § 34 Absatz 4, § 38c Absatz 4 oder § 38e Absatz 3 Energieerzeugnisse nicht, nicht vollständig oder nicht rechtzeitig vorführt,
 
-12. entgegen § 34 Absatz 1 Satz 1, entgegen § 36 Absatz 3 Satz 3 oder entgegen § 36 Absatz 4 Satz 2, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, entgegen § 36 Absatz 5 Satz 1 oder Absatz 7 Satz 2, entgegen § 36a Absatz 3 Satz 1, entgegen § 36b Absatz 2 Satz 3 oder Absatz 3 Satz 1, entgegen § 36c Absatz 2 Satz 3 oder Absatz 3 oder entgegen § 36d Absatz 3 Satz 1 eine Übermittlung oder Mitteilung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+11. entgegen § 32 Absatz 4 Satz 2, § 36 Absatz 2 Satz 1, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, entgegen § 36a Absatz 2 Satz 3, § 36b Absatz 2 Satz 4 oder § 36c Absatz 2 Satz 4, jeweils auch in Verbindung mit § 38f Satz 1, eine Unterrichtung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-13. entgegen § 36d Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder § 39 Absatz 2 Satz 1 ein Dokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+12. entgegen § 34 Absatz 1 Satz 1, § 36 Absatz 4 Satz 2, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, entgegen § 36 Absatz 5 Satz 1, § 36a Absatz 3 Satz 1, § 36b Absatz 3 Satz 1, § 36c Absatz 3, § 36d Absatz 3 Satz 1 oder § 38c Absatz 1 eine Übermittlung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-14. entgegen § 39 Absatz 2 Satz 3 eine Ausfertigung nicht oder nicht rechtzeitig zurücksendet,
+13. entgegen § 36 Absatz 3 Satz 1, auch in Verbindung mit § 38f Satz 1, entgegen § 36a Absatz 2 Satz 1, § 36b Absatz 2 Satz 1, § 36c Absatz 2 Satz 1, jeweils auch in Verbindung mit § 38f Satz 1, entgegen § 36d Absatz 2 Satz 1 oder § 57 Absatz 10 Satz 1 ein Dokument nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig ausfertigt,
 
-15. entgegen § 44 Satz 1, § 45 Absatz 1 Satz 1 oder § 57 Absatz 10 Satz 1 ein Dokument nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig ausfertigt,
+14. entgegen § 36 Absatz 3 Satz 3, § 36b Absatz 2 Satz 3 oder § 36c Absatz 2 Satz 3 eine Ausfertigung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
+
+15. (weggefallen)
 
 16. entgegen § 56 Abs. 11, § 67 Abs. 7 oder § 85 Abs. 5 den Erlaubnisschein nicht oder nicht rechtzeitig zurückgibt,
 
@@ -3745,13 +3907,9 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 # § 112 – Übergangsregelung
 
-(1) Für Beförderungen
+(1) Für Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten mit einem vereinfachten Begleitdokument, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
 
-1. von Energieerzeugnissen unter Steueraussetzung im Steuergebiet, die vor dem 1. Januar 2012 begonnen worden sind,
-
-2. von Energieerzeugnissen, die unter Steueraussetzung unmittelbar aus dem Steuergebiet in Drittländer oder Drittgebiete ausgeführt werden und deren Beförderungen vor dem 1. Januar 2012 begonnen worden sind,
-
-ist diese Verordnung in der bis zum 31. März 2010 geltenden Fassung weiter anzuwenden, es sei denn, die Beförderungen sind mit einem elektronischen Verwaltungsdokument begonnen worden. Für die Ausfuhrförmlichkeiten ist in den Fällen des Satzes 1 Nummer 2 ab dem 1. Januar 2011 der Artikel 793c der Zollkodex-Durchführungsverordnung in der bis zum 31. Dezember 2010 geltenden Fassung weiter anzuwenden.
+(1a) Für Beförderungen unter Steueraussetzung zur Ausfuhr kann die Mitteilung nach Artikel 21 Absatz 5 der Systemrichtlinie bis zum 13. Februar 2024 auf anderem Wege als über das EDV-gestützte System erfolgen.
 
 (2) Für Anträge auf eine Steuerentlastung nach § 53 des Gesetzes in der am 31. März 2012 geltenden Fassung sind die §§ 9 bis 11, 98 und 99 in der zu diesem Zeitpunkt geltenden Fassung weiter anzuwenden.
 
