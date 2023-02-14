@@ -43,8 +43,6 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach § 31 des Bundesversorgungsgesetzes, die für den Grad der Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
 
-(4) (weggefallen)
-
 # § 2 – Berechnung des Einkommens aus nichtselbständiger Arbeit
 
 (1) Bei der Berechnung des Einkommens aus nichtselbständiger Arbeit (§ 14 des Vierten Buches Sozialgesetzbuch) ist von den Bruttoeinnahmen auszugehen.

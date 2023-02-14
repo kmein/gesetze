@@ -1419,7 +1419,7 @@ Auf die Rüge der durch die Entscheidung beschwerten Partei ist das Verfahren fo
 
 Im Verfahren vor dem Deutschen Patent- und Markenamt, dem Patentgericht und dem Bundesgerichtshof haben die Beteiligten ihre Erklärungen über tatsächliche Umstände vollständig und der Wahrheit gemäß abzugeben.
 
-(+++ Zur Anwendung d. § 124 vgl. § 23 Abs. 3 Satz 3 GeschmMG 2004 +++)
+§ 124: (+++ Zur Anwendung d. § 124 vgl. § 23 Abs. 3 Satz 3 GeschmMG 2004 +++)
 
 # § 125
 
