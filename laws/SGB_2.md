@@ -1317,8 +1317,6 @@ Dies gilt nicht, wenn erwerbsfähige Leistungsberechtigte einen wichtigen Grund 
 
 (6) Erwerbsfähige Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, sollen innerhalb von vier Wochen nach Feststellung einer Leistungsminderung ein Beratungsangebot erhalten, in dem die Inhalte des Kooperationsplans überprüft und bei Bedarf fortgeschrieben werden.
 
-§ 31a Abs. 1 Satz 1, 2 u. 3: Nach Maßgabe der Entscheidungsformel mit Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG unvereinbar gem. BVerfGE v. 5.11.2019 I 2046 - 1 BvL 7/16 -
-
 # § 31b – Beginn und Dauer der Minderung
 
 (1) Der Auszahlungsanspruch mindert sich mit Beginn des Kalendermonats, der auf das Wirksamwerden des Verwaltungsaktes folgt, der die Pflichtverletzung und den Umfang der Minderung der Leistung feststellt. In den Fällen des § 31 Absatz 2 Nummer 3 tritt die Minderung mit Beginn der Sperrzeit oder mit dem Erlöschen des Anspruchs nach dem Dritten Buch ein. Die Feststellung der Minderung ist nur innerhalb von sechs Monaten ab dem Zeitpunkt der Pflichtverletzung zulässig.

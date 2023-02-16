@@ -31,13 +31,15 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten Einkommensarten bereitgestellt wird,
 
-12. Geldgeschenke an Minderjährige anlässlich der Firmung, Kommunion, Konfirmation oder vergleichbarer religiöser Feste sowie anlässlich der Jugendweihe, soweit sie den in § 12 Absatz 2 Satz 1 Nummer 1a des Zweiten Buches Sozialgesetzbuch genannten Betrag nicht überschreiten,
+12. Geldgeschenke an Minderjährige anlässlich der Firmung, Kommunion, Konfirmation oder vergleichbarer religiöser Feste sowie anlässlich der Jugendweihe, soweit sie den Betrag von 3 100 Euro nicht überschreiten,
 
 13. die auf Grund eines Bundesprogramms gezahlten Außerordentlichen Wirtschaftshilfen zur Abfederung von Einnahmeausfällen, die ab dem 2. November 2020 infolge der vorübergehenden Schließung von Betrieben und Einrichtungen entstanden sind (Novemberhilfe und Dezemberhilfe),
 
 14. die pauschalierten Betriebskostenzuschüsse, die auf Grund des Förderelements „Neustarthilfe“ des Bundesprogramms Überbrückungshilfe III gezahlt werden,
 
-15. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf Grund einer epidemischen Lage von nationaler Tragweite, die vom Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des Bundes oder der Länder gezahlt werden.
+15. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf Grund einer epidemischen Lage von nationaler Tragweite, die vom Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des Bundes oder der Länder gezahlt werden,
+
+16. in der Zeit vom 1. Januar 2023 bis zum Ablauf des 30. Juni 2023 erzielte Einnahmen von Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden, soweit diese einen Betrag in Höhe von 2 400 Euro kalenderjährlich nicht überschreiten; dies gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf Ausbildungsvergütung haben.
 
 (2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zugrunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Hilfebedürftige Leistungen erbringen, sind die um die Absetzbeträge nach § 11b des Zweiten Buches Sozialgesetzbuch bereinigten Einnahmen in der Regel nicht als Einkommen zu berücksichtigen, soweit sie einen Freibetrag in Höhe des doppelten Betrags des nach § 20 Absatz 2 Satz 1 maßgebenden Regelbedarfs zuzüglich der anteiligen Aufwendungen für Unterkunft und Heizung sowie darüber hinausgehend 50 Prozent der diesen Freibetrag übersteigenden bereinigten Einnahmen nicht überschreiten. § 11a des Zweiten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -127,9 +129,9 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
 # § 7 – Nicht zu berücksichtigendes Vermögen
 
-(1) Außer dem in § 12 Abs. 3 des Zweiten Buches Sozialgesetzbuch genannten Vermögen sind Vermögensgegenstände nicht als Vermögen zu berücksichtigen, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
+(1) Außer dem in § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch genannten Vermögen sind Vermögensgegenstände nicht als Vermögen zu berücksichtigen, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
 
-(2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zu Grunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Leistungsberechtigte Leistungen erbringen, ist Vermögen nicht zu berücksichtigen, das nach § 12 Abs. 2 des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Abs. 3 des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
+(2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zu Grunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Leistungsberechtigte Leistungen erbringen, ist Vermögen nicht zu berücksichtigen, das nach § 12 Abs. 2 des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
 
 # § 8 – Wert des Vermögens
 

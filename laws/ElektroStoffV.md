@@ -379,7 +379,7 @@ Eine unterzeichnete Version muss nach Wahl des Herstellers entweder in deutscher
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 1 ein Elektro- oder Elektronikgerät in Verkehr bringt.
 
-(2) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 3 Absatz 2 Satz 1 Nummer 3 ein Elektro- und Elektronikgerät in Verkehr bringt,
 
