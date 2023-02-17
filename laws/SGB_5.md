@@ -8354,7 +8354,7 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (3) § 226 gilt entsprechend.
 
-(+++ § 232a Abs. 1a Satz 1: Abs. 1a aufgeh. durch Art. 1 Nr. 21 G v. 7.11.2022 I 1990 mWv 12.11.2022, Änderungsanweisung des Art. 12 Abs. 9 Nr. 5 G v. 16.12.2022 I 2328 mWv 1.1.2023 somit nicht ausführbar +++)
+(+++ § 232a Abs. 1a Satz 1: Abs. 1a aufgeh. durch Art. 1 Nr. 21 G v. 7.11.2022 I 1990 mWv 12.11.2022, Änderungsanweisung d. Art. 12 Abs. 9 Nr. 5 G v. 16.12.2022 I 2328 mWv 1.1.2023 somit nicht ausführbar +++)
 
 # § 232b – Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld
 
