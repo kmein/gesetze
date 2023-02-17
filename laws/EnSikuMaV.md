@@ -145,4 +145,4 @@ Für Arbeitsräume in Arbeitsstätten gelten die in § 6 Absatz 1 Satz 1 festgel
 
 # § 13 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. September 2022 in Kraft und mit Ablauf des 28. Februar 2023 außer Kraft.
+Diese Verordnung tritt am 1. September 2022 in Kraft und mit Ablauf des 15. April 2023 außer Kraft.

@@ -71,7 +71,7 @@ Dem Bundesministerium für Wirtschaft und Klimaschutz wird die Befugnis übertra
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Diese Verordnung tritt mit Ablauf des 28. Februar 2023 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird.
+(2) Diese Verordnung tritt mit Ablauf des 31. März 2024 außer Kraft.
 
 # Anlage 1 – (zu § 1 Absatz 1 und § 6)Energiekorridor-Netz
 
