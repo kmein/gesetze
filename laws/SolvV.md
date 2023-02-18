@@ -17,7 +17,7 @@ Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Art
 
 (4) Die §§ 33 bis 37 dieser Verordnung sind ergänzend zu den §§ 10c bis 10i des Kreditwesengesetzes von denjenigen Instituten und Gruppen anzuwenden, die sich an die Vorgaben dieser Vorschriften halten müssen.
 
-(+++ § 1 Abs. 2 Satz 2: Zur Anwendung vgl. § 39 Satz 3 +++)
+(+++ § 1 Abs. 2 Satz 2: Zur Anwendung ab 1.10.2016 vgl. § 39 Satz 3 +++)
 
 # § 2 – Anträge und Anzeigen
 

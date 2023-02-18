@@ -243,6 +243,7 @@
 - [AromenDV](laws/AromenDV.md) Durchführungsverordnung über Aromen und Aromen enthaltende Lebensmittel
 - [ARSchiedsGAufhG](laws/ARSchiedsGAufhG.md) Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes
 - [Art115V](laws/Art115V.md) Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach § 5 des Artikel 115-Gesetzes
+- [Art17Abs1Nr2BIZIHECAbkErklBek](laws/Art17Abs1Nr2BIZIHECAbkErklBek.md) Bekanntmachung einer Erklärung gegenüber der Bank für Internationalen Zahlungsausgleich nach Artikel 17 Absatz 1 Nummer 2 des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main vom 9. Dezember 2022
 - [ArtSchutzÜbk](laws/ArtSchutzÜbk.md) Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen
 - [ARV](laws/ARV.md) Verordnung über die Reisekostenvergütung bei Auslandsdienstreisen
 - [ArznRAV](laws/ArznRAV.md) Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach § 311a des Fünften Buches Sozialgesetzbuch
