@@ -25,17 +25,19 @@ entsprechend anzuwenden sind auf die Kreditanstalt für Wiederaufbau (Anstalt) u
 
 Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind entsprechend anzuwenden:
 
-1. die Begriffsbestimmungen und Regelungen der Artikel 4 und 5 der Verordnung (EU) Nr. 575/2013 sowie des § 1 des Kreditwesengesetzes, soweit sie in Vorschriften, die nach dieser Verordnung entsprechend anzuwenden sind, verwendet werden,
+1. Artikel 3 der Verordnung (EU) Nr. 575/2013,
 
-2. die Artikel 6 und 7 der Verordnung (EU) Nr. 575/2013 sowie § 2a des Kreditwesengesetzes,
+2. die Begriffsbestimmungen und Regelungen der Artikel 4 und 5 der Verordnung (EU) Nr. 575/2013 sowie des § 1 des Kreditwesengesetzes, soweit sie in Vorschriften, die nach dieser Verordnung entsprechend anzuwenden sind, verwendet werden,
 
-3. § 2d des Kreditwesengesetzes,
+3. die Artikel 6 und 7 der Verordnung (EU) Nr. 575/2013 sowie § 2a des Kreditwesengesetzes,
 
-4. die §§ 6, 6a und 7 des Kreditwesengesetzes,
+4. § 2d des Kreditwesengesetzes,
 
-5. § 6b des Kreditwesengesetzes und
+5. die §§ 6, 6a und 7 des Kreditwesengesetzes,
 
-6. § 8 Absatz 2 des Kreditwesengesetzes.
+6. die §§ 6b bis 6d des Kreditwesengesetzes und
+
+7. § 8 Absatz 2 des Kreditwesengesetzes.
 
 # § 3 – Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
 
@@ -43,29 +45,33 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 
 1. die Artikel 25 bis 91 der Verordnung (EU) Nr. 575/2013 sowie die §§ 10 und 12a des Kreditwesengesetzes,
 
-2. die Artikel 92 bis 386 und 500 der Verordnung (EU) Nr. 575/2013,
+2. die Artikel 92 bis 386 und die Artikel 465 bis 501b der Verordnung (EU) Nr. 575/2013,
 
 3. die Artikel 11 bis 24 der Verordnung (EU) Nr. 575/2013 sowie § 10a des Kreditwesengesetzes,
 
-4. die §§ 10c bis 10i des Kreditwesengesetzes,
+4. die §§ 10b bis 10j des Kreditwesengesetzes,
 
-5. die Artikel 387 bis 410 der Verordnung (EU) Nr. 575/2013 sowie die §§ 13 bis 13c, 15 und 17 bis 22 des Kreditwesengesetzes,
+5. § 12 des Kreditwesengesetzes,
 
-6. § 23 des Kreditwesengesetzes,
+6. die Artikel 387 bis 410 der Verordnung (EU) Nr. 575/2013 sowie die §§ 13 bis 13c, 15 und 17 bis 22 des Kreditwesengesetzes,
 
-7. die §§ 24 bis 24b und 25 des Kreditwesengesetzes,
+7. § 23 des Kreditwesengesetzes,
 
-8. die §§ 25a und 25b des Kreditwesengesetzes, soweit sich nicht aus § 8 etwas Abweichendes ergibt,
+8. die §§ 24 bis 24b und 25 des Kreditwesengesetzes,
 
-9. die §§ 25c bis 25e des Kreditwesengesetzes, § 7 Absatz 5 des Gesetzes über die Kreditanstalt für Wiederaufbau bleibt unberührt,
+9. die §§ 25a und 25b des Kreditwesengesetzes, soweit sich nicht aus § 8 etwas Abweichendes ergibt,
 
-10. die §§ 25f bis 25m des Kreditwesengesetzes,
+10. die §§ 25c bis 25f des Kreditwesengesetzes, § 7 Absatz 5 des Gesetzes über die Kreditanstalt für Wiederaufbau bleibt unberührt,
 
-11. § 26 des Kreditwesengesetzes,
+11. die §§ 25g bis 25m des Kreditwesengesetzes,
 
-12. die §§ 28 bis 30 und 31 Absatz 3 des Kreditwesengesetzes und
+12. § 26 des Kreditwesengesetzes,
 
-13. die Artikel 429 und 430 der Verordnung (EU) Nr. 575/2013.
+13. die §§ 28 bis 30 und 31 Absatz 3 des Kreditwesengesetzes,
+
+14. die Artikel 429 bis 429g der Verordnung (EU) Nr. 575/2013 und
+
+15. die Artikel 430 und 430b der Verordnung (EU) Nr. 575/2013.
 
 # § 4 – Vorschriften über die Beaufsichtigung der Institute
 
@@ -77,7 +83,7 @@ Folgende Vorschriften des Kreditwesengesetzes sind auf die Anstalt und die KfW-G
 
 3. die §§ 44 und 44a des Kreditwesengesetzes,
 
-4. die §§ 45 bis 46 des Kreditwesengesetzes und
+4. die §§ 45 bis 46a des Kreditwesengesetzes und
 
 5. § 49 des Kreditwesengesetzes.
 
@@ -101,7 +107,7 @@ Für Zuweisungsgeschäfte nach § 2 Absatz 4 des Gesetzes über die Kreditanstal
 
 (1) Die Bundesanstalt übt die Aufsicht über die Einhaltung der in dieser Verordnung für entsprechend anwendbar erklärten bankaufsichtsrechtlichen Vorschriften durch die Anstalt und die KfW-Gruppe aus. Die Bundesanstalt arbeitet dabei entsprechend § 7 des Kreditwesengesetzes mit der Deutschen Bundesbank zusammen.
 
-(2) Die Bundesanstalt unterrichtet das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Energie bei besonderem Anlass jeweils unverzüglich darüber, wenn sie in Ausübung der Aufsicht über die Anstalt nach dieser Verordnung
+(2) Die Bundesanstalt unterrichtet das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Klimaschutz bei besonderem Anlass jeweils unverzüglich darüber, wenn sie in Ausübung der Aufsicht über die Anstalt nach dieser Verordnung
 
 1. beabsichtigt, Anordnungen zu treffen oder Maßnahmen zu ergreifen, oder
 

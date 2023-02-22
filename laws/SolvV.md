@@ -672,6 +672,39 @@ Dabei steht
 
 (+++ § 37: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
+# § 37a – Maximal ausschüttungsfähiger Betrag in Bezug auf die Verschuldungsquote
+
+(1) Der maximal ausschüttungsfähige Betrag in Bezug auf die Verschuldungsquote im Sinne des § 10j Absatz 3 Satz 1 des Kreditwesengesetzes errechnet sich durch Multiplikation des nach Absatz 2 berechneten Betrags mit dem nach Absatz 3 festgelegten Faktor. Er reduziert sich durch jede nach § 10j Absatz 3 Satz 4 Nummer 1 bis 3 des Kreditwesengesetzes durchgeführte Maßnahme.
+
+(2) Der zu multiplizierende Betrag ergibt sich aus
+
+1. den Zwischengewinnen, die nicht im harten Kernkapital nach Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen im Zusammenhang mit den Maßnahmen nach § 10j Absatz 3 Satz 4 Nummer 1 bis 3 des Kreditwesengesetzes,
+
+2. zuzüglich der Gewinne zum Jahresende, die nicht im harten Kernkapital nach Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen im Zusammenhang mit den Maßnahmen nach § 10j Absatz 3 Satz 4 Nummer 1 bis 3 des Kreditwesengesetzes,
+
+3. abzüglich der Beträge, die in Form von Steuern zu zahlen wären, wenn die unter den Nummern 1 und 2 aufgeführten Gewinne einbehalten würden.
+
+(3) Liegt das von dem global systemrelevanten Institut vorgehaltene und nicht zur Einhaltung der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 und zur Einhaltung der zusätzlichen Eigenmittelanforderungen zur Absicherung gegen Risiken einer übermäßigen Verschuldung nach § 6c sowie nach § 10 Absatz 3 und 4 des Kreditwesengesetzes verwendete Kernkapital, ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße im Sinne von Artikel 429 Absatz 4 der Verordnung (EU) Nr. 575/2013, innerhalb des
+
+1. ersten, das heißt des untersten, Quartils der Anforderung an den Puffer der Verschuldungsquote, so beträgt der Faktor 0;
+
+2. zweiten Quartils der Anforderung an den Puffer der Verschuldungsquote, so beträgt der Faktor 0,2;
+
+3. dritten Quartils der Anforderung an den Puffer der Verschuldungsquote, so beträgt der Faktor 0,4;
+
+4. vierten, das heißt des obersten, Quartils der Anforderung an den Puffer der Verschuldungsquote, so beträgt der Faktor 0,6.
+
+(4) Die Ober- und Untergrenzen für jedes Quartil der Anforderung an den Puffer der Verschuldungsquote sind wie folgt zu berechnen:  
+  
+
+|                                                                                                                                                                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Die Untergrenze des Quartils ist gleich Anforderungen an den Puffer der Verschuldungsquote geteilt durch 4 mal Klammer auf Qn minus 1 Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j00400_0010.jpg) |
+| ![Die Obergrenze des Quartils ist gleich Anforderungen an den Puffer der Verschuldungsquote geteilt durch 4 mal Qn](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j00400_0020.jpg)                                 |
+|                                                                                                                                                                                                   |
+
+Dabei steht Q<sub>n</sub> für die Ordinalzahl des betreffenden Quartils.
+
 # § 38 – Übergangsvorschriften
 
 (1) § 22 Nummer 4 ist ab dem Tag, ab dem der Technische Regulierungsstandard nach Artikel 124 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 575/2013 anzuwenden ist, nicht mehr anzuwenden. Das Bundesministerium der Finanzen macht den Zeitpunkt, zu dem die Durchführungsstandards nach Artikel 124 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 575/2013 anwendbar sind, im Bundesgesetzblatt bekannt.
