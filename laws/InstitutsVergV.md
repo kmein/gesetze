@@ -200,9 +200,11 @@ Setzt sich die Vergütung aus mehreren Bestandteilen gemäß den Nummern 1 bis 3
 
 2. ist sicherzustellen, dass das Institut und die Gruppe in der Lage sind,
 
-a) eine angemessene Eigenmittel- und Liquiditätsausstattung und
+a) eine angemessene Eigenmittel- und Liquiditätsausstattung,
 
-b) die kombinierten Kapitalpufferanforderungen gemäß § 10i des Kreditwesengesetzes
+b) die kombinierten Kapitalpufferanforderungen gemäß § 10i des Kreditwesengesetzes und
+
+c) sofern es sich um ein global systemrelevantes Institut handelt, die Anforderung an den Puffer der Verschuldungsquote gemäß § 10j des Kreditwesengesetzes
 
 dauerhaft aufrechtzuerhalten oder wiederherzustellen.
 
