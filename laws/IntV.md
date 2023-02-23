@@ -199,8 +199,6 @@ Der Orientierungskurs umfasst 100 Unterrichtsstunden. Er findet im Anschluss an 
 
 (3) Das Bundesamt stellt in Abstimmung mit den Kommunen, dem Bundesverwaltungsamt, anderen nach Bundes- oder Landesrecht zuständigen Stellen, den Trägern migrationsspezifischer Beratungsangebote sowie mit den zugelassenen Kursträgern den örtlichen Bedarf für die Integrationskurse nach den Absätzen 1 und 2 fest.
 
-(4) (weggefallen)
-
 # § 14 – Organisation der Integrationskurse, Ordnungsmäßigkeit der Teilnahme
 
 (1) Der Integrationskurs wird in der Regel als ganztägiger Unterricht angeboten. Das Angebot von Teilzeitkursen soll auf einen zügigen Abschluss des Kurses ausgerichtet sein.
