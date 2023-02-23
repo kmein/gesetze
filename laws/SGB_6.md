@@ -297,8 +297,6 @@ ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erh
 
 (3) Die versicherungsrechtlichen Voraussetzungen haben auch überlebende Ehegatten erfüllt, die Anspruch auf große Witwenrente oder große Witwerrente wegen verminderter Erwerbsfähigkeit haben. Sie gelten für die Vorschriften dieses Abschnitts als Versicherte.
 
-(+++ § 11 Abs. 2a: Zur Anwendung vgl. Art. 9 G v. 21.12.1993 I 2353 +++)
-
 # § 12 – Ausschluss von Leistungen
 
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
@@ -4409,7 +4407,7 @@ versicherungspflichtig waren, bleiben in dieser Tätigkeit versicherungspflichti
 
 (3) § 2 Satz 1 Nr. 9 Buchstabe b zweiter Halbsatz und Satz 4 Nr. 3 ist auch anzuwenden, soweit die Tätigkeit in der Zeit vom 1. Januar 1999 bis zum 1. Juli 2006 ausgeübt worden ist. § 2 Satz 1 Nr. 1, 2 und 9 Buchstabe a in der ab 1. Mai 2007 geltenden Fassung ist auch anzuwenden, soweit Arbeitnehmer in der Zeit vom 1. Januar 1999 bis zum 30. April 2007 beschäftigt wurden.
 
-(4) Bezieher von Sozialleistungen, die am 31. Dezember 1995 auf Antrag versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.(4a) Als Zeit des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II bis zum 31. Dezember 2022.
+(4) Bezieher von Sozialleistungen, die am 31. Dezember 1995 auf Antrag versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.
 
 (4a) Als Zeit des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II bis zum 31. Dezember 2022.
 
