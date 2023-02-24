@@ -3165,7 +3165,7 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Abs. 3 des Gesetzes), in denen E
 
 # § 92 – Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen
 
-(1) Bewilligte Spülvorgänge im Sinne des § 48 Abs. 1 Satz 1 Nr. 1 des Gesetzes sind die vom Hauptzollamt nach § 49 Abs. 1 zugelassenen Vermischungen von leichtem Heizöl und Gasölen der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur.
+(1) Bewilligte Spülvorgänge im Sinne des § 48 Abs. 1 Satz 1 Nr. 1 des Gesetzes sind die vom Hauptzollamt nach § 49 Abs. 1 zugelassenen Vermischungen von leichtem Heizöl und Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur.
 
 (2) Die Steuerentlastung nach § 48 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen, wobei im Fall der Steuerentlastung für bewilligte Spülvorgänge alle Spülvorgänge eines Entlastungsabschnitts in einer Anmeldung zusammenzufassen sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag für Gemische, die bei bewilligten Spülvorgängen angefallen sind, spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse vermischt wurden, und für Gemische, die versehentlich entstanden sind, unmittelbar nach Feststellung der Vermischung beim Hauptzollamt gestellt wird.
 
