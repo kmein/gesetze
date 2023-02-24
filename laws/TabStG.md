@@ -965,7 +965,7 @@ d) zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch der 
 
 a) der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19. Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) das Verfahren bei der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs und des Versandhandels näher zu regeln und dabei auch zuzulassen, dass durch bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden kann,
 
-b) der Artikel 13 und 49 der Systemrichtlinie Tabakwaren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
+b) der Artikel 13 und 49 der Systemrichtlinie Tabakwaren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
 5. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
@@ -985,7 +985,7 @@ f) die Haftung des Datenübermittlers für verkürzte Steuern oder für zu Unrec
 
 g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Steuerpflichtigen oder Antragstellers.
 
-Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden. Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 7. Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
 

@@ -233,9 +233,9 @@ Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung mit Zustimmun
 
 Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung einen abweichenden erstmaligen Anwendungszeitpunkt zu bestimmen, wenn bis zum 30. Juni 2018 erkennbar ist, dass die technischen oder organisatorischen Voraussetzungen für eine Anwendung des § 152 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung noch nicht erfüllt sind.
 
-(5) § 152 Absatz 2 der Abgabenordnung ist nicht auf Steuererklärungen zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar 2022 anzuwenden.
+(5) § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung ist auf Versicherung- und Feuerschutzsteuer erstmals anzuwenden, soweit diese nach dem 31. Dezember 2020 anzumelden ist. Hinsichtlich anderer Steuern ist § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung in allen offenen Fällen anzuwenden.
 
-(6) § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung ist auf Versicherung- und Feuerschutzsteuer erstmals anzuwenden, soweit diese nach dem 31. Dezember 2020 anzumelden ist. Hinsichtlich anderer Steuern ist § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29. Dezember 2020 geltenden Fassung in allen offenen Fällen anzuwenden.
+(6) § 152 Absatz 2 der Abgabenordnung ist nicht auf Steuererklärungen zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar 2022 anzuwenden.
 
 (+++ Art. 97 § 8: Zur Geltung vgl. Art. 97 §§ 10a, 17e u. 28 +++)
 

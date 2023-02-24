@@ -333,7 +333,7 @@ Wird Schaumwein unter Steueraussetzung zu Begünstigten befördert, hat der Bef�
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung des Schaumweins noch nicht begonnen hat.
 
-(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Versender oder der registrierte Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems vor Beginn der Beförderung den Entwurf der elektronischen Annullierungsmeldung mit dem in Artikel 4 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
+(2) Um das elektronische Verwaltungsdokument zu annullieren, hat der Versender dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems vor Beginn der Beförderung den Entwurf der elektronischen Annullierungsmeldung mit dem in Artikel 4 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln.
 
 (3) Das Hauptzollamt überprüft automatisiert die Angaben in der Annullierungsmeldung. Gibt es keine Beanstandungen, wird dies dem Versender unter Angabe des Datums und der Zeit der Prüfung mitgeteilt. Beanstandungen werden dem Versender ebenfalls mitgeteilt.
 
@@ -369,7 +369,7 @@ Wird Schaumwein unter Steueraussetzung zu Begünstigten befördert, hat der Bef�
 
 2. in den Fällen des § 12 Absatz 1 Nummer 2 des Gesetzes bestätigt wird, dass der Schaumwein in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
-Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung den Versender im Steuergebiet. Ausfuhrmeldungen, die von den Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das zuständige Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
+Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt die Ausfuhrmeldung den Versender im Steuergebiet. Ausfuhrmeldungen, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das zuständige Hauptzollamt an den Versender im Steuergebiet weitergeleitet.
 
 (6) Unbeschadet des § 29 gilt die Eingangsmeldung nach Absatz 1 oder die Ausfuhrmeldung nach Absatz 5 als Nachweis, dass die Beförderung des Schaumweins beendet wurde. Die Ausfuhrmeldung gilt nicht als Nachweis, wenn nachträglich festgestellt wird, dass der Schaumwein das Verbrauchsteuergebiet der Europäischen Union nicht verlassen hat oder nicht in das externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 

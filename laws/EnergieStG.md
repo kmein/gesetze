@@ -25,9 +25,9 @@ a) 3824 99 86, 3824 99 93,
 
 b) 3824 99 92 und 3824 99 96 (jeweils ausgenommen zubereitete Rostschutzmittel, Amine als wirksame Bestandteile enthaltend, sowie zusammengesetzte anorganische Löse- und Verdünnungsmittel für Lacke und ähnliche Erzeugnisse),
 
-c) 3826 00 10 und 3826 00 90 der Kombinierten Nomenklatur,
+c) 3826 00 10 und 3826 00 90
 
-die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
+der Kombinierten Nomenklatur, die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
 
 (3) Als Energieerzeugnisse im Sinne dieses Gesetzes gelten mit Ausnahme von Torf und Waren der Positionen 4401 und 4402 der Kombinierten Nomenklatur auch:
 
@@ -314,7 +314,7 @@ b) beim Reinigen von Putzstoffen, Arbeitskleidung oder Altpapier,
 
 (3) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen nach Absatz 2 Satz 2 nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
-(4) Das Lager kann auch der Einlagerung von Energieerzeugnissen durch Dritte (Einlagerer) dienen. Will der Einlagerer Steuerschuldner nach § 8 Abs. 2 Satz 2 werden, muss ihm zuvor eine Erlaubnis erteilt worden sein (zugelassener Einlagerer). Diese wird auf Antrag erteilt, wenn die Einlagerung durch den Einlagerer dem Großhandel oder dem Großhandelsvertrieb durch Hersteller dient und der Einlagerer die eingelagerten Energieerzeugnisse im eigenen Namen vertreibt. Die Erlaubnis wird nicht erteilt, wenn die Energieerzeugnisse ausschließlich nach nach § 2 Absatz 3 versteuert oder zu steuerfreien Zwecken entnommen werden sollen. Absatz 2 Satz 2 und 3 und Absatz 3 gelten entsprechend.
+(4) Das Lager kann auch der Einlagerung von Energieerzeugnissen durch Dritte (Einlagerer) dienen. Will der Einlagerer Steuerschuldner nach § 8 Abs. 2 Satz 2 werden, muss ihm zuvor eine Erlaubnis erteilt worden sein (zugelassener Einlagerer). Diese wird auf Antrag erteilt, wenn die Einlagerung durch den Einlagerer dem Großhandel oder dem Großhandelsvertrieb durch Hersteller dient und der Einlagerer die eingelagerten Energieerzeugnisse im eigenen Namen vertreibt. Die Erlaubnis wird nicht erteilt, wenn die Energieerzeugnisse ausschließlich nach § 2 Absatz 3 versteuert oder zu steuerfreien Zwecken entnommen werden sollen. Absatz 2 Satz 2 und 3 und Absatz 3 gelten entsprechend.
 
 (5) Abweichend von den Absätzen 1 und 2 kann das Hauptzollamt auf Antrag für Flüssiggase, ordnungsgemäß gekennzeichnete Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur und Heizöle der Unterpositionen 2710 19 62 bis 2710 19 68 und der Unterpositionen 2710 20 31 bis 2710 20 39 der Kombinierten Nomenklatur, die nach § 2 Abs. 1 Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 versteuert oder zu steuerfreien Zwecken nach den §§ 25, 26 oder § 27 Abs. 1 abgegeben werden sollen oder die unter Steueraussetzung in ein anderes Steuerlager im Steuergebiet verbracht werden sollen, auch dann eine Erlaubnis nach Absatz 2 erteilen, wenn das Lager keine Lagerstätten besitzt.
 
@@ -870,7 +870,7 @@ Abweichend von Satz 1 bleiben die §§ 163 und 227 der Abgabenordnung unberührt
 
 2. im Steuergebiet als Kraft- oder Heizstoff verwendet werden, wenn eine Steuer nicht nach Nummer 1 entstanden ist,
 
-3. mit Energieerzeugnissen nach § 4 außerhalb eines Steuerlagers gemischt werden, wenn das Gemisch ein Energieerzeugnis im Sinn des § 4 ist und als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet wird, oder
+3. mit Energieerzeugnissen im Sinn des § 4 außerhalb eines Steuerlagers gemischt werden, wenn das Gemisch ein Energieerzeugnis im Sinn des § 4 ist und als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet wird, oder
 
 4. mit versteuertem Erdgas gemischt werden, wenn das Gemisch Erdgas ist und als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet wird.
 
@@ -924,7 +924,7 @@ Eine Abgabe im Steuergebiet als Kraft- oder Heizstoff im Sinn des Satzes 1 Numme
 
 2. zur Herstellung von in § 4 genannten Kraft- oder Heizstoffen.
 
-Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Herstellung nach § 6 liegt. Satz 2 gilt nicht, wenn zur Herstellung eines Energieerzeugnisses im Sinn des § 4 Waren der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur eingesetzt werden und diese nach § 4 Nr. 3 nicht unter Steueraussetzung befördert werden können.
+Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Herstellung nach § 6 liegt. Satz 2 gilt nicht, wenn zur Herstellung eines Energieerzeugnisses im Sinn des § 4 Waren der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur eingesetzt werden und diese im Sinn des § 4 Nr. 3 nicht unter Steueraussetzung befördert werden können.
 
 (2) Energieerzeugnisse dürfen steuerfrei verwendet werden als Probe zu Untersuchungszwecken.
 
@@ -1689,7 +1689,7 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 (6) (weggefallen)
 
-(7) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag nach den Absatz 5 mindestens 50 Euro im Kalenderjahr beträgt.
+(7) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag nach Absatz 5 mindestens 50 Euro im Kalenderjahr beträgt.
 
 (8) Entlastungsberechtigt ist
 
