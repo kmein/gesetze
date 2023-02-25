@@ -61,9 +61,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 # Anlage – (zu § 2 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2018, 1170 - 1177)
+(Fundstelle: BGBl. I 2018, 1170 - 1177;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-(+++ Anlage laufende Nr. 9005 Spalte 3: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Prüfllabore" durch "Prüflabore" ersetzt +++)
+Anlage Nr. 9005 Spalte 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Prüfllabore" durch "Prüflabore" ersetzt
 
 # Anhang – (zu Nummer 4011 der Anlage)Katalog der Geräte, die der Bordprüfung unterliegen
 
