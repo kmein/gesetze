@@ -2327,6 +2327,7 @@
 - [GasSpBefüllV](laws/GasSpBefüllV.md) Verordnung zur Zurverfügungstellung unterbrechbarer Speicherkapazitäten zur Gewährleistung der Versorgungssicherheit
 - [GasSpFüllstV](laws/GasSpFüllstV.md) Verordnung zur Anpassung von Füllstandsvorgaben für Gasspeicheranlagen
 - [GasSV](laws/GasSV.md) Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
+- [GaStatAusV](laws/GaStatAusV.md) Verordnung zur Aussetzung der Erhebung über Kinder in den Klassenstufen eins bis vier nach dem Achten Buch Sozialgesetzbuch
 - [GastG](laws/GastG.md) Gaststättengesetz
 - [GastroAusbV](laws/GastroAusbV.md) Verordnung über die Berufsausbildungen zur Fachkraft für Gastronomie, zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie sowie zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie*
 - [GastStG](laws/GastStG.md) Gaststaatgesetz
@@ -2427,6 +2428,7 @@
 - [GewStDV](laws/GewStDV.md) Gewerbesteuer-Durchführungsverordnung
 - [GewStG](laws/GewStG.md) Gewerbesteuergesetz
 - [GFABPrV](laws/GFABPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung
+- [GFDV](laws/GFDV.md) Verordnung über die Art der Daten, die nach § 30 Absatz 1 Satz 1 und § 31 Absatz 1 Satz 1 des Bundespolizeigesetzes zur Grenzfahndung und zur grenzpolizeilichen Beobachtung gespeichert werden dürfen
 - [GFG](laws/GFG.md) Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen
 - [GFlFleischV](laws/GFlFleischV.md) Verordnung über Vermarktungsnormen für Geflügelfleisch
 - [GflSalmoV](laws/GflSalmoV.md) Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn und bei Puten
@@ -4976,9 +4978,8 @@
 - [SeegerVorRV](laws/SeegerVorRV.md) Verordnung über Vorrechte und Immunitäten des Internationalen Seegerichtshofs
 - [SeeGVG](laws/SeeGVG.md) Gesetz über die Vollstreckung von Entscheidungen internationaler Gerichte auf dem Gebiet des Seerechts
 - [SeehundWattmSchAbk](laws/SeehundWattmSchAbk.md) Abkommen zum Schutz der Seehunde im Wattenmeer
-- [SeeLAuFV](laws/SeeLAuFV.md) Verordnung über die Aus- und Fortbildung der Seelotsen
+- [SeeLAuFV](laws/SeeLAuFV.md) Verordnung über die Aus- und Fortbildung der Seelotsinnen und Seelotsen
 - [SeeLG](laws/SeeLG.md) Gesetz über das Seelotswesen
-- [SeelotAusbNOKIV](laws/SeelotAusbNOKIV.md) Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwärter im Seelotsrevier Nord-Ostsee-Kanal I
 - [SeelotRevierV 1978](laws/SeelotRevierV_1978.md) Verordnung über das Seelotswesen außerhalb der Reviere
 - [SeeLotsEigV](laws/SeeLotsEigV.md) Verordnung über die Feststellung der gesundheitlichen Eignung von Seelotsinnen und Seelotsen
 - [SeeLotsEigV§11Bek](laws/SeeLotsEigV§11Bek.md) Bekanntmachung nach § 11 der Seelotseignungsverordnung
