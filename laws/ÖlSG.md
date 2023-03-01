@@ -99,10 +99,6 @@ Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen Mitgliedst
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-# § 9
-
-\-
-
 # § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -128,19 +124,3 @@ Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen Mitgliedst
 # § 10
 
 \-
-
-# § 11
-
-(weggefallen)
-
-# § 12
-
-(weggefallen)
-
-# § 13
-
-(weggefallen)
-
-# § 14
-
-(weggefallen)

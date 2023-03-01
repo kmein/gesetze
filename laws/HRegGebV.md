@@ -839,7 +839,7 @@ des Protokolls der Hauptversammlung (§ 130 Abs. 5 AktG)
 5006
 
 –  
-von Verträgen, eines Verschmelzungsplans oder von entsprechenden Entwürfen nach dem UmwG
+von Verträgen, Plänen oder entsprechenden Entwürfen nach dem UmwG
 
   
 50,00 €

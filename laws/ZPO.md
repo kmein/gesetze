@@ -1521,6 +1521,10 @@ Urteil unter Vorbehalt erbrechtlich beschränkter Haftung
 
 Urteil unter Vorbehalt seerechtlich beschränkter Haftung
 
+§ 305b
+
+Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung
+
 § 306
 
 Verzicht
@@ -7449,6 +7453,10 @@ so kann das Gericht das Recht auf Beschränkung der Haftung bei der Entscheidung
 1. im Falle des Absatzes 1 Satz 1 unter dem Vorbehalt, dass der Beklagte das Recht auf Beschränkung der Haftung geltend machen kann, wenn ein Fonds nach dem Haftungsbeschränkungsübereinkommen errichtet worden ist oder bei Geltendmachung des Rechts auf Beschränkung der Haftung errichtet wird,
 
 2. im Falle des Absatzes 1 Satz 2 unter dem Vorbehalt, dass der Beklagte das Recht auf Beschränkung der Haftung geltend machen kann, wenn ein Fonds nach § 5d des Binnenschifffahrtsgesetzes errichtet worden ist oder bei Geltendmachung des Rechts auf Beschränkung der Haftung errichtet wird.
+
+# § 305b – Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung
+
+Durch die Geltendmachung der dem Rechtsträger nach § 133 Absatz 3 Satz 2 des Umwandlungsgesetzes zustehenden Einrede wird eine unter dem Vorbehalt der beschränkten Haftung ergehende Verurteilung des Rechtsträgers nicht ausgeschlossen.
 
 # § 306 – Verzicht
 

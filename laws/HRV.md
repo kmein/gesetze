@@ -41,7 +41,7 @@ Die Register einschließlich der Registerordner werden elektronisch geführt. §
 
 # § 9 – Registerordner
 
-(1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden Dokumente werden für jedes Registerblatt (§ 13) in einen dafür bestimmten Registerordner aufgenommen. Aufgenommen werden sollen solche Dokumente, deren Einreichung zum Handelsregister durch Rechtsvorschriften besonders angeordnet ist; hiervon ausgenommen sind jedoch Dokumente, die gemäß § 12 Absatz 1 Satz 5 des Handelsgesetzbuchs eingereicht werden. Sie sind in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung) ist der Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache der Europäischen Union übermittelten Übersetzungen (§ 11 des Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist kenntlich zu machen, dass die für eine frühere Fassung eingereichte Übersetzung nicht dem aktualisierten Stand des Dokuments entspricht.
+(1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden Dokumente sowie eine Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung nach § 316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des Umwandlungsgesetzes werden für jedes Registerblatt (§ 13) in einen dafür bestimmten Registerordner aufgenommen. Aufgenommen werden sollen solche Dokumente, deren Einreichung zum Handelsregister durch Rechtsvorschriften besonders angeordnet ist; hiervon ausgenommen sind jedoch Dokumente, die gemäß § 12 Absatz 1 Satz 5 des Handelsgesetzbuchs eingereicht werden. Sie sind in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung) ist der Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache der Europäischen Union übermittelten Übersetzungen (§ 11 des Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist kenntlich zu machen, dass die für eine frühere Fassung eingereichte Übersetzung nicht dem aktualisierten Stand des Dokuments entspricht.
 
 (2) Schriftstücke, die vor dem 1. Januar 2007 eingereicht worden sind, können zur Ersetzung der Urschrift in ein elektronisches Dokument übertragen und in dieser Form in den Registerordner übernommen werden. Sie sind in den Registerordner zu übernehmen, sobald ein Antrag auf elektronische Übermittlung (§ 9 Abs. 2 des Handelsgesetzbuchs) vorliegt.
 
@@ -81,7 +81,9 @@ Die Register einschließlich der Registerordner werden elektronisch geführt. §
 
 6. im Handelsregister eingetragene Informationen über alle Personen, die als Organ oder als Mitglied eines Organs der Gesellschaft befugt sind, die Gesellschaft gerichtlich und außergerichtlich zu vertreten, sowie Informationen dazu, ob die zur Vertretung der Gesellschaft befugten Personen die Gesellschaft allein oder nur gemeinschaftlich vertreten können,
 
-7. Informationen über alle von der Gesellschaft in anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum eingerichtete Zweigniederlassungen, einschließlich des Namens, der Eintragungsnummer, der einheitlichen europäischen Kennung und des Staates, in dem die Zweigniederlassung eingetragen ist.
+7. Informationen über alle von der Gesellschaft in anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum eingerichtete Zweigniederlassungen, einschließlich des Namens, der Eintragungsnummer, der einheitlichen europäischen Kennung und des Staates, in dem die Zweigniederlassung eingetragen ist und
+
+8. Informationen über eine grenzüberschreitende Umwandlung.
 
 # § 12 – Form der Eintragungen
 
@@ -213,7 +215,7 @@ Der Richter oder im Fall des § 27 Abs. 2 der Urkundsbeamte der Geschäftsstelle
 
 1. für die Erteilung von Abschriften oder Ausdrucken oder die elektronische Übermittlung der Eintragungen und der zum Register eingereichten Schriftstücke und Dokumente; wird eine auszugsweise Abschrift, ein auszugsweiser Ausdruck oder eine auszugsweise elektronische Übermittlung beantragt, so entscheidet bei Zweifeln über den Umfang des Auszugs der Richter;
 
-2. für die Beglaubigung und die Erteilung oder elektronische Übermittlung von Bescheinigungen nach § 9 Abs. 5 des Handelsgesetzbuchs;
+2. für die Beglaubigung und die Erteilung oder elektronische Übermittlung von Bescheinigungen nach § 9 Abs. 5 des Handelsgesetzbuchs und von Verschmelzungs-, Spaltungs- oder Formwechselbescheinigungen nach § 316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des Umwandlungsgesetzes;
 
 3. für die Eintragung der in § 32 des Handelsgesetzbuchs vorgesehenen Vermerke im Zusammenhang mit einem Insolvenzverfahren;
 
@@ -474,6 +476,26 @@ Urteile, durch die ein in das Register eingetragener Beschluß der Hauptversamml
 # § 46
 
 Wird bei einer in Abteilung B eingetragenen Handelsgesellschaft die Änderung der Firma zum Handelsregister angemeldet, weil das Geschäft mit dem Recht zur Fortführung der Firma auf einen Einzelkaufmann, eine juristische Person oder eine Handelsgesellschaft übertragen worden ist, und wird von dem Erwerber die Fortführung der Firma angemeldet, so ist bei der Eintragung in der Spalte "Bemerkungen" auf das bisherige Registerblatt zu verweisen und umgekehrt.
+
+# § 46a
+
+(1) Eintragungen bei grenzüberschreitenden Umwandlungen nach dem Umwandlungsgesetz enthalten mindestens die folgenden Angaben:
+
+1. von allen beteiligten Gesellschaften Firma und Rechtsform sowie das Register, in dem die Gesellschaft eingetragen ist, und die Nummer der Eintragung,
+
+2. bei einer grenzüberschreitenden Verschmelzung durch Aufnahme oder einer grenzüberschreitenden Spaltung zur Aufnahme die Tatsache, dass eine grenzüberschreitende Verschmelzung oder Spaltung erfolgt ist, und den Tag der Eintragung,
+
+3. bei einer grenzüberschreitenden Verschmelzung durch Neugründung, einer grenzüberschreitenden Spaltung zur Neugründung oder einem grenzüberschreitenden Formwechsel die Tatsache, dass die Eintragung der neuen Gesellschaft oder die Eintragung der neuen Rechtsform infolge einer grenzüberschreitenden Verschmelzung oder Spaltung oder eines grenzüberschreitenden Formwechsels erfolgte.
+
+(2) Bei Schließung des Registerblattes infolge einer grenzüberschreitenden Umwandlung sind mindestens anzugeben:
+
+1. die Tatsache, dass die Schließung infolge einer grenzüberschreitenden Verschmelzung, einer grenzüberschreitenden Aufspaltung oder eines grenzüberschreitenden Formwechsels erfolgte, und
+
+2. der Tag der Schließung.
+
+(3) Bei Ausstellung der Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung bestimmt sich der Inhalt der Eintragung nach § 316 Absatz 1, § 329 oder § 343 Absatz 1 des Umwandlungsgesetzes.
+
+(4) Nach anderen Vorschriften erforderliche Angaben bleiben unberührt.
 
 # § 47 – Grundsatz
 
