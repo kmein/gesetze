@@ -1612,6 +1612,8 @@ Die Bundesnotarkammer ist befugt, zur Erfüllung der ihr durch Gesetz oder Satzu
 
 (2) Soweit gesetzlich nichts anderes geregelt ist, bestimmt die Landesjustizverwaltung die jeweiligen Zuständigkeiten der Aufsichtsbehörden.
 
+(3) Eine Rechtsverordnung nach § 60 Absatz 2 des Gerichtsverfassungsgesetzes kann auch vorsehen, dass das Recht der Aufsicht über die Notare und Notarassessoren dem Präsidenten eines Landgerichts für die Bezirke mehrerer Landgerichte zugewiesen wird. Eine Zuweisung nach Satz 1 erstreckt sich auch auf die Zuständigkeiten nach § 13 Absatz 3 Satz 1, § 40 Absatz 2 Satz 1, § 51 Absatz 2 und § 51a Absatz 1 Satz 2.
+
 # § 93 – Befugnisse der Aufsichtsbehörden
 
 (1) Den Aufsichtsbehörden obliegt die regelmäßige Prüfung und Überwachung der Amtsführung der Notare und des Dienstes der Notarassessoren. Zusätzliche Zwischenprüfungen und Stichproben sind ohne besonderen Anlaß zulässig. Bei einem neubestellten Notar wird die erste Prüfung innerhalb der ersten zwei Jahre seiner Tätigkeit vorgenommen.

@@ -11,17 +11,23 @@ Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die Bestimmung
 
 3. der Barabfindung von Minderheitsaktionären, deren Aktien durch Beschluss der Hauptversammlung auf den Hauptaktionär übertragen worden sind (§§ 327a bis 327f des Aktiengesetzes);
 
-4. der Zuzahlung an Anteilsinhaber oder der Barabfindung von Anteilsinhabern anlässlich der Umwandlung von Rechtsträgern (§§ 15, 34, 122h, 122i, 176 bis 181, 184, 186, 196 oder § 212 des Umwandlungsgesetzes);
+4. der Zuzahlung oder der zusätzlich zu gewährenden Aktien an Anteilsinhaber oder der Barabfindung von Anteilsinhabern (§§ 15, 34, 72a, 125 Absatz 1 Satz 1, §§ 176 bis 181, 184, 186, 196, 212, 305 Absatz 2, §§ 313, 320 Absatz 2, §§ 327 und 340 des Umwandlungsgesetzes);
 
-5. der Zuzahlung an Anteilsinhaber oder der Barabfindung von Anteilsinhabern bei der Gründung oder Sitzverlegung einer SE (§§ 6, 7, 9, 11 und 12 des SE-Ausführungsgesetzes);
+5. der Zuzahlung oder der zusätzlich zu gewährenden Aktien an Anteilsinhaber oder der Barabfindung von Anteilsinhabern bei der Gründung oder Sitzverlegung einer SE (§§ 6, 7, 9, 11 und 12 des SE-Ausführungsgesetzes);
 
 6. der Zuzahlung an Mitglieder bei der Gründung einer Europäischen Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
 
 # § 2 – Zuständigkeit
 
-(1) Zuständig ist das Landgericht, in dessen Bezirk der Rechtsträger, dessen Anteilsinhaber antragsberechtigt sind, seinen Sitz hat. Sind nach Satz 1 mehrere Landgerichte zuständig oder sind bei verschiedenen Landgerichten Spruchverfahren nach Satz 1 anhängig, die in einem sachlichen Zusammenhang stehen, so ist § 2 Abs. 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden. Besteht Streit oder Ungewissheit über das zuständige Gericht nach Satz 2, so ist § 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
+(1) Zuständig ist das Landgericht, in dessen Bezirk der Rechtsträger, dessen Anteilsinhaber antragsberechtigt sind, seinen Sitz hat oder hatte.
 
-(2) Der Vorsitzende einer Kammer für Handelssachen entscheidet
+(2) Sind nach Absatz 1 mehrere Gerichte zuständig oder sind bei verschiedenen Landgerichten Spruchverfahren anhängig, die in einem sachlichen Zusammenhang stehen, so ist das Gericht zuständig, das zuerst mit der Angelegenheit befasst ist. Besteht Streit oder Ungewissheit über das zuständige Gericht nach Satz 1, so ist § 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
+
+(3) Ist bei dem Landgericht eine Kammer für Handelssachen gebildet, so entscheidet diese anstelle der Zivilkammer.
+
+(4) Die Länder können vereinbaren, dass Entscheidungen in Verfahren nach diesem Gesetz für mehrere Länder den Landgerichten eines Landes zugewiesen werden.
+
+(5) Der Vorsitzende einer Kammer für Handelssachen entscheidet
 
 1. über die Abgabe von Verfahren;
 
@@ -55,27 +61,25 @@ Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
 5. der Nummer 6 jedes in der dort angeführten Vorschrift des SCE-Ausführungsgesetzes bezeichnete Mitglied.
 
-In den Fällen der Nummern 1, 3, 4 und 5 ist die Antragsberechtigung nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung Anteilsinhaber ist. Die Stellung als Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
+In den Fällen der Nummern 1, 3, 4 und 5 ist die Antragsberechtigung nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung Anteilsinhaber ist; dies gilt nicht für die Bestimmung der Barabfindung bei grenzüberschreitenden Umwandlungen (§§ 313, 327 und 340 des Umwandlungsgesetzes) gemäß § 1 Nummer 4. Die Stellung als Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 
 # § 4 – Antragsfrist und Antragsbegründung
 
 (1) Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in den Fällen
 
-1. der Nummer 1 die Eintragung des Bestehens oder einer unter § 295 Abs. 2 des Aktiengesetzes fallenden Änderung des Unternehmensvertrags im Handelsregister nach § 10 des Handelsgesetzbuchs;
+1. der Nummer 1 der Unternehmensvertrag oder seine Änderung;
 
-2. der Nummer 2 die Eintragung der Eingliederung im Handelsregister nach § 10 des Handelsgesetzbuchs;
+2. der Nummer 2 die Eingliederung;
 
-3. der Nummer 3 die Eintragung des Übertragungsbeschlusses im Handelsregister nach § 10 des Handelsgesetzbuchs;
+3. der Nummer 3 der Übergang aller Aktien der Minderheitsaktionäre auf den Hauptaktionär;
 
-4. der in Nummer 4 genannten §§ 15, 34, 176 bis 181, 184, 186, 196 und 212 des Umwandlungsgesetzes die Eintragung der Umwandlung im Handelsregister nach den Vorschriften des Umwandlungsgesetzes;
+4. der Nummer 4 die Umwandlung;
 
-5. der in Nummer 4 genannten §§ 122h und 122i des Umwandlungsgesetzes die Eintragung der grenzüberschreitenden Verschmelzung nach den Vorschriften des Staates, dessen Recht die übertragende oder neue Gesellschaft unterliegt;
+5. der Nummer 5 die Gründung oder Sitzverlegung der SE oder
 
-6. der Nummer 5 die Eintragung der SE nach den Vorschriften des Sitzstaates;
+6. der Nummer 6 die Gründung der Europäischen Genossenschaft
 
-7. der Nummer 6 die Eintragung der Europäischen Genossenschaft nach den Vorschriften des Sitzstaates
-
-bekannt gemacht worden ist. Die Frist wird in den Fällen des § 2 Abs. 1 Satz 2 und 3 durch Einreichung bei jedem zunächst zuständigen Gericht gewahrt.
+wirksam geworden ist. Die Frist wird in den Fällen des § 2 Absatz 2 durch Einreichung bei jedem zunächst zuständigen Gericht gewahrt. Die Frist wird auch dann gewahrt, wenn der Antrag bei einem sachlich oder örtlich unzuständigen Gericht eingereicht wird.
 
 (2) Der Antragsteller muss den Antrag innerhalb der Frist nach Absatz 1 begründen. Die Antragsbegründung hat zu enthalten:
 
@@ -107,9 +111,15 @@ Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 ist in den
 
 zu richten.
 
+In den Fällen des Satzes 1 Nummer 4 kann bei einer Abspaltung ein Antrag auf Bestimmung der Barabfindung wahlweise auch gegen den übertragenden Rechtsträger gerichtet werden.
+
+# § 5a – Vertretung durch einen Rechtsanwalt
+
+Vor den Landgerichten, den Oberlandesgerichten und einem Obersten Landesgericht müssen sich die Beteiligten durch einen Rechtsanwalt vertreten lassen. Vor dem Bundesgerichtshof müssen sich die Beteiligten durch einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt vertreten lassen. Satz 1 ist auf den gemeinsamen Vertreter nicht anzuwenden.
+
 # § 6 – Gemeinsamer Vertreter
 
-(1) Das Gericht hat den Antragsberechtigten, die nicht selbst Antragsteller sind, zur Wahrung ihrer Rechte frühzeitig einen gemeinsamen Vertreter zu bestellen; dieser hat die Stellung eines gesetzlichen Vertreters. Werden die Festsetzung des angemessenen Ausgleichs und die Festsetzung der angemessenen Abfindung beantragt, so hat es für jeden Antrag einen gemeinsamen Vertreter zu bestellen, wenn aufgrund der konkreten Umstände davon auszugehen ist, dass die Wahrung der Rechte aller betroffenen Antragsberechtigten durch einen einzigen gemeinsamen Vertreter nicht sichergestellt ist. Die Bestellung eines gemeinsamen Vertreters kann vollständig unterbleiben, wenn die Wahrung der Rechte der Antragsberechtigten auf andere Weise sichergestellt ist. Das Gericht hat die Bestellung des gemeinsamen Vertreters im Bundesanzeiger bekannt zu machen. Wenn in den Fällen des § 1 Nr. 1 bis 3 die Satzung der Gesellschaft, deren außenstehende oder ausgeschiedene Aktionäre antragsberechtigt sind, oder in den Fällen des § 1 Nr. 4 der Gesellschaftsvertrag, der Partnerschaftsvertrag, die Satzung oder das Statut des übertragenden oder formwechselnden Rechtsträgers noch andere Blätter oder elektronische Informationsmedien für die öffentlichen Bekanntmachungen bestimmt hatte, so hat es die Bestellung auch dort bekannt zu machen.
+(1) Das Gericht hat den Antragsberechtigten, die nicht selbst Antragsteller sind, zur Wahrung ihrer Rechte frühzeitig einen Rechtsanwalt als gemeinsamen Vertreter zu bestellen; dieser hat die Stellung eines gesetzlichen Vertreters. Werden die Festsetzung des angemessenen Ausgleichs und die Festsetzung der angemessenen Abfindung beantragt, so hat es für jeden Antrag einen gemeinsamen Vertreter zu bestellen, wenn aufgrund der konkreten Umstände davon auszugehen ist, dass die Wahrung der Rechte aller betroffenen Antragsberechtigten durch einen einzigen gemeinsamen Vertreter nicht sichergestellt ist. Die Bestellung eines gemeinsamen Vertreters kann vollständig unterbleiben, wenn die Wahrung der Rechte der Antragsberechtigten auf andere Weise sichergestellt ist. Das Gericht hat die Bestellung des gemeinsamen Vertreters im Bundesanzeiger bekannt zu machen. Wenn in den Fällen des § 1 Nr. 1 bis 3 die Satzung der Gesellschaft, deren außenstehende oder ausgeschiedene Aktionäre antragsberechtigt sind, oder in den Fällen des § 1 Nr. 4 der Gesellschaftsvertrag, der Partnerschaftsvertrag, die Satzung oder das Statut des übertragenden, übernehmenden oder formwechselnden Rechtsträgers noch andere Blätter oder elektronische Informationsmedien für die öffentlichen Bekanntmachungen bestimmt hatte, so hat es die Bestellung auch dort bekannt zu machen.
 
 (2) Der gemeinsame Vertreter kann von dem Antragsgegner in entsprechender Anwendung des Rechtsanwaltsvergütungsgesetzes den Ersatz seiner Auslagen und eine Vergütung für seine Tätigkeit verlangen; mehrere Antragsgegner haften als Gesamtschuldner. Die Auslagen und die Vergütung setzt das Gericht fest. Gegenstandswert ist der für die Gerichtsgebühren maßgebliche Geschäftswert. Das Gericht kann den Zahlungsverpflichteten auf Verlangen des Vertreters die Leistung von Vorschüssen aufgeben. Aus der Festsetzung findet die Zwangsvollstreckung nach der Zivilprozessordnung statt.
 
@@ -117,15 +127,25 @@ zu richten.
 
 # § 6a – Gemeinsamer Vertreter bei Gründung einer SE
 
-Wird bei der Gründung einer SE durch Verschmelzung oder bei der Gründung einer Holding-SE nach dem Verfahren der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1) gemäß den Vorschriften des SE-Ausführungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer sich verschmelzenden oder die Gründung einer SE anstrebenden Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
+Wird bei der Gründung einer SE durch Verschmelzung oder bei der Gründung einer Holding-SE nach dem Verfahren der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1) gemäß den Vorschriften des SE-Ausführungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung, zusätzlichen Gewährung von Aktien oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer sich verschmelzenden oder die Gründung einer SE anstrebenden Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen Rechtsanwalt als gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
 # § 6b – Gemeinsamer Vertreter bei Gründung einer Europäischen Genossenschaft
 
-Wird bei der Gründung einer Europäischen Genossenschaft durch Verschmelzung nach dem Verfahren der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1) nach den Vorschriften des SCE-Ausführungsgesetzes ein Antrag auf Bestimmung einer baren Zuzahlung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Mitglieder einer sich verschmelzenden Genossenschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
+Wird bei der Gründung einer Europäischen Genossenschaft durch Verschmelzung nach dem Verfahren der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1) nach den Vorschriften des SCE-Ausführungsgesetzes ein Antrag auf Bestimmung einer baren Zuzahlung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Mitglieder einer sich verschmelzenden Genossenschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen Rechtsanwalt als gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
 # § 6c – Gemeinsamer Vertreter bei grenzüberschreitender Verschmelzung
 
 Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgesetzes) gemäß § 122h oder § 122i des Umwandlungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
+
+# § 6c – Grenzüberschreitende Umwandlungen
+
+(1) Wird bei einer grenzüberschreitenden Umwandlung (§§ 305, 320 und 333 des Umwandlungsgesetzes) ein Antrag auf Bestimmung einer Zuzahlung, zusätzlich zu gewährender Aktien oder einer Barabfindung gestellt, so bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen Rechtsanwalt als gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Absatz 1 Satz 4 und Absatz 2 gilt entsprechend.
+
+(2) Wird bei einer grenzüberschreitenden Umwandlung ein Antrag auf Bestimmung einer Zuzahlung oder zusätzlich zu gewährender Aktien gestellt, so soll das Gericht mit jeder Stelle, die nach dem Recht eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, dem eine andere an der grenzüberschreitenden Umwandlung beteiligte Gesellschaft unterliegt, und die für einen Antrag auf Bestimmung einer Zuzahlung oder zusätzlich zu gewährender Anteile zuständig ist, zusammenarbeiten. Ist anlässlich der grenzüberschreitenden Umwandlung vor der zuständigen ausländischen Behörde oder Stelle ein Verfahren nach Satz 1 eingeleitet worden, so kann das Gericht insbesondere
+
+1. Informationen austauschen und
+
+2. nach Maßgabe des § 404 der Zivilprozessordnung dieselbe Person als Sachverständigen bestimmen.
 
 # § 7 – Vorbereitung der mündlichen Verhandlung
 
@@ -171,6 +191,26 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (4) Verspätete Rügen, die die Zulässigkeit der Anträge betreffen und nicht von Amts wegen zu berücksichtigen sind, sind nur zuzulassen, wenn der Beteiligte die Verspätung genügend entschuldigt.
 
+# § 10a – Gewährung zusätzlicher Aktien
+
+(1) Soweit gemäß § 72a des Umwandlungsgesetzes zusätzliche Aktien zu gewähren sind, bestimmt das Gericht
+
+1. in den Fällen des § 72a Absatz 1 und 2 Satz 1 unter Zugrundelegung des angemessenen Umtauschverhältnisses
+
+a) den zusätzlich zu gewährenden Nennbetrag oder bei Stückaktien die Zahl der zusätzlich zu gewährenden Aktien und
+
+b) den dem Zinsanspruch gemäß § 72a Absatz 6 Satz 1 Nummer 1 zugrunde zu legenden Ausgleichsbetrag,
+
+2. im Fall des § 72a Absatz 2 Satz 2 die Höhe des nachträglich einzuräumenden Bezugsrechts,
+
+3. in den Fällen des § 72a Absatz 3 die Höhe der baren Zuzahlung und
+
+4. in den Fällen des § 72a Absatz 4 und 5 die Höhe der Entschädigung in Geld.
+
+(2) In den Fällen des § 72a Absatz 1 Satz 2 des Umwandlungsgesetzes hat das Gericht den zusätzlich zu gewährenden Nennbetrag oder bei Stückaktien die Zahl der zusätzlich zu gewährenden Aktien unter Zugrundelegung des Umtauschverhältnisses des nachfolgenden Umwandlungsvorgangs zu bestimmen. Antragsgegner ist die Gesellschaft, auf die die Pflicht zur Gewährung zusätzlicher Aktien übergegangen ist.
+
+(3) Die Absätze 1 und 2 gelten für die Gewährung zusätzlicher Aktien gemäß § 248a des Umwandlungsgesetzes entsprechend.
+
 # § 11 – Gerichtliche Entscheidung; Gütliche Einigung
 
 (1) Das Gericht entscheidet durch einen mit Gründen versehenen Beschluss.
@@ -179,17 +219,27 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (3) Das Gericht hat seine Entscheidung oder die Niederschrift über einen Vergleich den Beteiligten zuzustellen.
 
-(4) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Beteiligten einen schriftlichen Vergleichsvorschlag des Gerichts durch Schriftsatz gegenüber dem Gericht annehmen. Das Gericht stellt das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen Vergleichs durch Beschluss fest. § 164 der Zivilprozessordnung gilt entsprechend. Der Beschluss ist den Beteiligten zuzustellen.
+(4) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Beteiligten
+
+1. dem Gericht einen schriftlichen Vergleichsvorschlag unterbreiten oder
+
+2. einen schriftlichen oder zu Protokoll der mündlichen Verhandlung erklärten Vergleichsvorschlag des Gerichts durch Schriftsatz oder durch Erklärung zu Protokoll der mündlichen Verhandlung gegenüber dem Gericht annehmen.
+
+Das Gericht stellt das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen Vergleichs durch Beschluss fest. § 164 der Zivilprozessordnung gilt entsprechend. Der Beschluss ist den Beteiligten zuzustellen.
+
+# § 11a – Ermittlung der Kompensation durch das Gericht
+
+Einigen sich der Antragsgegner, die gemeinsamen Vertreter und eine Mehrheit von Antragstellern, die mindestens 90 Prozent des von sämtlichen Antragstellern gehaltenen Grund- oder Stammkapitals umfasst, auf eine bestimmte Kompensation, so kann das Gericht deren Höhe im Rahmen seiner Schätzung berücksichtigen.
 
 # § 12 – Beschwerde
 
-(1) Gegen die Entscheidung nach § 11 findet die Beschwerde statt. Die Beschwerde kann nur durch Einreichung einer von einem Rechtsanwalt unterzeichneten Beschwerdeschrift eingelegt werden.
+(1) Gegen die Entscheidungen nach § 11 findet die Beschwerde statt. Sie ist durch Einreichung einer Beschwerdeschrift bei dem Beschwerdegericht einzulegen; § 68 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist nicht anzuwenden. Die Beschwerde ist zu begründen.
 
 (2) Die Landesregierung kann die Entscheidung über die Beschwerde durch Rechtsverordnung für die Bezirke mehrerer Oberlandesgerichte einem der Oberlandesgerichte oder dem Obersten Landesgericht übertragen, wenn dies zur Sicherung einer einheitlichen Rechtsprechung dient. Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 # § 13 – Wirkung der Entscheidung
 
-Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für und gegen alle, einschließlich derjenigen Anteilsinhaber, die bereits gegen die ursprünglich angebotene Barabfindung oder sonstige Abfindung aus dem betroffenen Rechtsträger ausgeschieden sind.
+Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für und gegen alle, einschließlich derjenigen Anteilsinhaber, die bereits gegen die ursprünglich angebotene Barabfindung oder sonstige Abfindung aus dem betroffenen Rechtsträger ausgeschieden sind. Ein Vergleich bleibt unberührt, auch wenn er vom gemeinsamen Vertreter geschlossen wurde.
 
 # § 14 – Bekanntmachung der Entscheidung
 
@@ -217,10 +267,12 @@ bekannt zu machen.
 
 # § 16 – Zuständigkeit bei Leistungsklage
 
-Für Klagen auf Leistung des Ausgleichs, der Zuzahlung oder der Abfindung, die im Spruchverfahren bestimmt worden sind, ist das Gericht des ersten Rechtszuges und der gleiche Spruchkörper ausschließlich zuständig, der gemäß § 2 mit dem Verfahren zuletzt inhaltlich befasst war.
+Für Klagen auf Leistung des Ausgleichs, der Zuzahlung, zusätzlich zu gewährenden Aktien oder der Abfindung, die im Spruchverfahren bestimmt worden sind, ist das Gericht des ersten Rechtszuges und der gleiche Spruchkörper ausschließlich zuständig, der gemäß § 2 mit dem Verfahren zuletzt inhaltlich befasst war.
 
 # § 17 – Allgemeine Bestimmungen; Übergangsvorschrift
 
 (1) Sofern in diesem Gesetz nichts anderes bestimmt ist, finden auf das Verfahren die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit Anwendung.
 
 (2) Für Verfahren, in denen ein Antrag auf gerichtliche Entscheidung vor dem 1. September 2003 gestellt worden ist, sind weiter die entsprechenden bis zu diesem Tag geltenden Vorschriften des Aktiengesetzes und des Umwandlungsgesetzes anzuwenden. Auf Beschwerdeverfahren, in denen die Beschwerde nach dem 1. September 2003 eingelegt wird, sind die Vorschriften dieses Gesetzes anzuwenden.
+
+(3) Die Änderungen der §§ 1 bis 6c, 10a bis 13, 16 und 17 durch das Gesetz zur Umsetzung der Umwandlungsrichtlinie und zur Änderung weiterer Gesetze vom 22. Februar 2023 (BGBl. 2023 I Nr. 51) sind erstmals auf Spruchverfahren anzuwenden, in denen ein Antrag auf gerichtliche Entscheidung ab dem 31. Januar 2023 gestellt wurde.

@@ -2005,7 +2005,11 @@ i) die Kreditanstalt für Wiederaufbau,
 
 4. für Patentanwälte nach § 2 Absatz 1 Nummer 10 die Patentanwaltskammer (§ 53 der Patentanwaltsordnung),
 
-5. für Notare nach § 2 Absatz 1 Nummer 10 der jeweilige Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Absatz 1 Nummer 1 der Bundesnotarordnung),
+5. für Notare nach § 2 Absatz 1 Nummer 10
+
+a) der jeweilige Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Absatz 1 Nummer 1 der Bundesnotarordnung),
+
+b) im Fall des § 92 Absatz 3 der Bundesnotarordnung der jeweilige Präsident des Landgerichts, dem die Zuständigkeit zugewiesen wurde,
 
 6. für Wirtschaftsprüfer und vereidigte Buchprüfer nach § 2 Absatz 1 Nummer 12 die Wirtschaftsprüferkammer (§ 57 Absatz 2 Nummer 17 der Wirtschaftsprüferordnung),
 

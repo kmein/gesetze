@@ -181,12 +181,12 @@ Weisen Sie auf die anerkannten Mehrbedarfe aufgrund Ihrer besonderen Lebenssitua
 
  
 
-# Anlage 2
+# Anlage 2 – (zu § 1 Nummer 2) Antrag auf Vergütung
 
-(Fundstelle: BGBl. I 2014, 10)
+(Fundstelle: BGBl. I 2022, 2411 - 2412)
 
  
 
-<a href="../normengrafiken/bgbl1_2014/j0002-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2022/j2368-1_0330.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
  

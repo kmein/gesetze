@@ -3939,7 +3939,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 # § 388 – Androhung
 
-(1) Sobald das Registergericht von einem Sachverhalt, der sein Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des Handelsgesetzbuchs, auch in Verbindung mit § 5 Abs. 2 des Partnerschaftsgesellschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 316 des Umwandlungsgesetzes oder § 12 des EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben, innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs zu rechtfertigen.
+(1) Sobald das Registergericht von einem Sachverhalt, der sein Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des Handelsgesetzbuchs, auch in Verbindung mit § 5 Abs. 2 des Partnerschaftsgesellschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben, innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs zu rechtfertigen.
 
 (2) In gleicher Weise kann das Registergericht gegen die Mitglieder des Vorstands eines Vereins oder dessen Liquidatoren vorgehen, um sie zur Befolgung der in § 78 des Bürgerlichen Gesetzbuchs genannten Vorschriften anzuhalten.
 
@@ -4678,3 +4678,9 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, durch die für das Aufge
 (3) Für Anmeldungen, die bis einschließlich 8. Juni 2017 beurkundet oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
 
 (4) § 158a findet keine Anwendung in Verfahren, in denen ein Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist.
+
+(5) Wenn Betreuung oder Einwilligungsvorbehalt vor dem 1. Januar 2023 angeordnet wurde, müssen erstmalige Entscheidungen über die Aufhebung oder Verlängerung der Maßnahme abweichend von den in § 294 Absatz 3 Satz 2 und § 295 Absatz 2 Satz 2 genannten Fristen zu folgenden Zeitpunkten erfolgen:
+
+1. über Maßnahmen, die bis zum Ablauf des 30. Juni 2022 angeordnet wurden, bis spätestens zum Ablauf des 30. Juni 2024,
+
+2. über Maßnahmen, die zwischen dem 1. Juli 2022 und dem 31. Dezember 2022 angeordnet wurden, spätestens zwei Jahre nach der Anordnung.

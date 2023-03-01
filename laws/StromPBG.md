@@ -238,7 +238,7 @@ a) im Fall von Netzentnahmestellen, die über standardisierte Lastprofile bilanz
 b) im Fall von Netzentnahmestellen, die nicht über standardisierte Lastprofile beliefert werden, der Netzentnahme,
 
 aa)  
-die der zuständige Messstellenbetreiber für das Kalenderjahr 2021gemessen oder anderweitig festgestellt hat, geteilt durch zwölf, oder
+die der zuständige Messstellenbetreiber für das Kalenderjahr 2021 gemessen oder anderweitig festgestellt hat, geteilt durch zwölf, oder
 
 bb)  
 die nach § 5 Absatz 2 Satz 2 Nummer 2 Buchstabe b geschätzt wurde, geteilt durch zwölf,
@@ -269,6 +269,7 @@ im Fall der Erbringung einer Schienenverkehrsleistung im Schienenpersonenfernver
 
 Elektrizitätsversorgungsunternehmen und Letztverbraucher können einvernehmlich eine von Satz 2 abweichende monatliche Verteilung des Jahreskontingents in den Fällen des § 5 Absatz 2 Satz 2 Nummer 2 mit Wirkung für den verbleibenden Entlastungszeitraum vereinbaren.
 
+§ 6 Satz 2 Nummer 1 Buchstabe b Doppelbuchstabe aa Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "2021gemessen" durch die Angabe "2021 gemessen" ersetzt  
 (+++ § 6: Zur Anwendung vgl. § 7 Abs. 2 +++)
 
 # § 7 – Entlastungsbetrag von sonstigen Letztverbrauchern
@@ -1400,7 +1401,7 @@ Eine nachträgliche Korrektur von Rechnungen, die das Elektrizitätsversorgungsu
 
 Dieses Gesetz darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission angewandt werden. Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Tag, ab dem dieses Gesetz nach Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 
-(+++ Zur Anwendung dieses G ab dem 24.12.2022 vgl. Bek. v. 28.12.2022 I 2894 +++)
+(+++ Zur Anwendung dieses G ab dem 24.12.2022 vgl. Bek. v. 28.12.2022 I 2894 u. v. 24.2.2023 I Nr. 52 +++)
 
 # Anlage 1 – (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten
 

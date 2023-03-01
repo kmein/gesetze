@@ -339,7 +339,7 @@ geregelten Geschäfte.
 
 5. die Geschäfte nach § 16 Absatz 1 Nummer 6 und 7 sowie Absatz 2;
 
-6. die Geschäfte nach § 17 Nummer 1.
+6. die Geschäfte nach § 17 Nummer 1, soweit sie nicht die Prüfung und Entscheidung nach § 316 Absatz 3, gegebenenfalls in Verbindung mit § 329 Satz 1, und § 343 Absatz 3 des Umwandlungsgesetzes betreffen.
 
 Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
