@@ -461,7 +461,7 @@ Für die Eintragung der Europäischen Genossenschaft und für die in Artikel 7 A
 
 # § 36 – Straf- und Bußgeldvorschriften
 
-(1) Die Strafvorschriften der §§ 147 bis 151a des Genossenschaftsgesetzes, des § 15a Absatz 4 bis 6 der Insolvenzordnung, des § 340m in Verbindung mit den §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 152 des Genossenschaftsgesetzes und des § 340n des Handelsgesetzbuchs gelten auch für die Europäische Genossenschaft im Sinn des Artikels 8 Abs. 1 Buchstabe c Nr. ii der Verordnung (EG) Nr. 1435/2003. Soweit sie
+(1) Die Strafvorschriften der §§ 147 bis 151a des Genossenschaftsgesetzes, des § 15a Absatz 4 bis 6 der Insolvenzordnung, des § 340m in Verbindung mit den §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 152 des Genossenschaftsgesetzes und des § 340n des Handelsgesetzbuchs gelten auch für die Europäische Genossenschaft im Sinn des Artikels 8 Abs. 1 Buchstabe c Nr. ii der Verordnung (EG) Nr. 1435/2003. Soweit sie
 
 1. Mitglieder des Vorstands,
 

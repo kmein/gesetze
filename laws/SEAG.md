@@ -336,13 +336,15 @@ Die nach Artikel 21 der Verordnung bekannt zu machenden Angaben sind dem Registe
 
 # § 6 – Verbesserung des Umtauschverhältnisses
 
-(1) Unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung kann eine Klage gegen den Verschmelzungsbeschluss einer übertragenden Gesellschaft nicht darauf gestützt werden, dass das Umtauschverhältnis der Anteile nicht angemessen ist.
+(1) Unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung kann eine Klage gegen den Verschmelzungsbeschluss nicht darauf gestützt werden, dass das Umtauschverhältnis der Anteile nicht angemessen ist.
 
-(2) Ist bei der Gründung einer SE durch Verschmelzung nach dem Verfahren der Verordnung das Umtauschverhältnis der Anteile nicht angemessen, so kann jeder Aktionär einer übertragenden Gesellschaft, dessen Recht, gegen die Wirksamkeit des Verschmelzungsbeschlusses Klage zu erheben, nach Absatz 1 ausgeschlossen ist, von der SE einen Ausgleich durch bare Zuzahlung verlangen.
+(2) Ist bei der Gründung einer SE durch Verschmelzung nach dem Verfahren der Verordnung das Umtauschverhältnis der Anteile nicht angemessen, so kann jeder Aktionär, dessen Recht, gegen die Wirksamkeit des Verschmelzungsbeschlusses Klage zu erheben, nach Absatz 1 ausgeschlossen ist, von der SE einen Ausgleich durch bare Zuzahlung verlangen.
 
 (3) Die bare Zuzahlung ist nach Ablauf des Tages, an dem die Verschmelzung im Sitzstaat der SE nach den dort geltenden Vorschriften eingetragen und bekannt gemacht worden ist, mit jährlich 5 Prozentpunkten über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-(4) Macht ein Aktionär einer übertragenden Gesellschaft unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung geltend, dass das Umtauschverhältnis der Anteile nicht angemessen sei, so hat auf seinen Antrag das Gericht nach dem Spruchverfahrensgesetz vom 12. Juni 2003 (BGBl. I S. 838) eine angemessene bare Zuzahlung zu bestimmen. Satz 1 findet auch auf Aktionäre einer übertragenden Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Anwendung, sofern nach dem Recht dieses Staates ein Verfahren zur Kontrolle und Änderung des Umtauschverhältnisses der Aktien vorgesehen ist und deutsche Gerichte für die Durchführung eines solchen Verfahrens international zuständig sind.
+(4) Macht ein Aktionär unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung geltend, dass das Umtauschverhältnis der Anteile nicht angemessen sei, so hat auf seinen Antrag das Gericht nach dem Spruchverfahrensgesetz vom 12. Juni 2003 (BGBl. I S. 838) eine angemessene bare Zuzahlung zu bestimmen. Satz 1 findet auch auf Aktionäre einer Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Anwendung, sofern nach dem Recht dieses Staates ein Verfahren zur Kontrolle und Änderung des Umtauschverhältnisses der Aktien vorgesehen ist und deutsche Gerichte für die Durchführung eines solchen Verfahrens international zuständig sind.
+
+(5) Die §§ 72a und 72b des Umwandlungsgesetzes und § 10a des Spruchverfahrensgesetzes sind entsprechend anzuwenden.
 
 # § 7 – Abfindungsangebot im Verschmelzungsplan
 
@@ -350,13 +352,13 @@ Die nach Artikel 21 der Verordnung bekannt zu machenden Angaben sind dem Registe
 
 (2) Die Barabfindung muss die Verhältnisse der Gesellschaft im Zeitpunkt der Beschlussfassung über die Verschmelzung berücksichtigen. Die Barabfindung ist nach Ablauf des Tages, an dem die Verschmelzung im Sitzstaat der SE nach den dort geltenden Vorschriften eingetragen und bekannt gemacht worden ist, mit jährlich 5 Prozentpunkten über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-(3) Die Angemessenheit einer anzubietenden Barabfindung ist stets durch Verschmelzungsprüfer zu prüfen. Die §§ 10 bis 12 des Umwandlungsgesetzes sind entsprechend anzuwenden. Die Berechtigten können auf die Prüfung oder den Prüfungsbericht verzichten; die Verzichtserklärungen sind notariell zu beurkunden.
+(3) § 30 Absatz 2 des Umwandlungsgesetzes gilt entsprechend.
 
 (4) Das Angebot nach Absatz 1 kann nur binnen zwei Monaten nach dem Tage angenommen werden, an dem die Verschmelzung im Sitzstaat der SE nach den dort geltenden Vorschriften eingetragen und bekannt gemacht worden ist. Ist nach Absatz 7 dieser Vorschrift ein Antrag auf Bestimmung der Barabfindung durch das Gericht gestellt worden, so kann das Angebot binnen zwei Monaten nach dem Tage angenommen werden, an dem die Entscheidung im Bundesanzeiger bekannt gemacht worden ist.
 
 (5) Unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung kann eine Klage gegen die Wirksamkeit des Verschmelzungsbeschlusses einer übertragenden Gesellschaft nicht darauf gestützt werden, dass das Angebot nach Absatz 1 zu niedrig bemessen oder dass die Barabfindung im Verschmelzungsplan nicht oder nicht ordnungsgemäß angeboten worden ist.
 
-(6) Einer anderweitigen Veräußerung des Anteils durch den Aktionär stehen nach Fassung des Verschmelzungsbeschlusses bis zum Ablauf der in Absatz 4 bestimmten Frist Verfügungsbeschränkungen bei den beteiligten Rechtsträgern nicht entgegen.
+(6) Einer anderweitigen Veräußerung des Anteils durch einen Aktionär, der nach Absatz 1 Adressat des Barabfindungsangebots ist, stehen nach Fassung des Verschmelzungsbeschlusses bis zum Ablauf der in Absatz 4 Satz 1 bestimmten Frist Verfügungsbeschränkungen bei den beteiligten Rechtsträgern nicht entgegen.
 
 (7) Macht ein Aktionär einer übertragenden Gesellschaft unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung geltend, dass eine im Verschmelzungsplan bestimmte Barabfindung, die ihm nach Absatz 1 anzubieten war, zu niedrig bemessen sei, so hat auf seinen Antrag das Gericht nach dem Spruchverfahrensgesetz vom 12. Juni 2003 (BGBl. I S. 838) die angemessene Barabfindung zu bestimmen. Das Gleiche gilt, wenn die Barabfindung nicht oder nicht ordnungsgemäß angeboten worden ist. Die Sätze 1 und 2 finden auch auf Aktionäre einer übertragenden Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Anwendung, sofern nach dem Recht dieses Staates ein Verfahren zur Abfindung von Minderheitsaktionären vorgesehen ist und deutsche Gerichte für die Durchführung eines solchen Verfahrens international zuständig sind.
 
@@ -485,7 +487,7 @@ Wählt eine SE gemäß Artikel 38 Buchstabe b der Verordnung in ihrer Satzung da
 
 (2) Nach anderen als den zuletzt angewandten vertraglichen oder gesetzlichen Vorschriften kann der Verwaltungsrat nur zusammengesetzt werden, wenn nach § 25 oder nach § 26 die in der Bekanntmachung des Vorsitzenden des Verwaltungsrats oder in der gerichtlichen Entscheidung angegebenen vertraglichen oder gesetzlichen Vorschriften anzuwenden sind.
 
-(3) Besteht bei einer börsennotierten SE der Verwaltungsrat aus derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen in dem Verwaltungsrat Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im Verwaltungsrat ist bei erforderlich werdenden Neubesetzungen einzelner oder mehrerer Sitze im Verwaltungsrat zu beachten. Reicht die Zahl der neu zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem regulären Ende wahrgenommen werden.
+(3) Besteht bei einer börsennotierten SE der Verwaltungsrat aus derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen in dem Verwaltungsrat Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im Verwaltungsrat ist bei erforderlich werdenden Neubesetzungen einzelner oder mehrerer Sitze im Verwaltungsrat zu beachten. Reicht die Zahl der neu zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem regulären Ende wahrgenommen werden. § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes gelten entsprechend.
 
 # § 25 – Bekanntmachung über die Zusammensetzung des Verwaltungsrats
 
@@ -783,7 +785,7 @@ Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben auße
 
 # § 53 – Straf- und Bußgeldvorschriften
 
-(1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des § 334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung. Soweit sie
+(1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des § 334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung. Soweit sie
 
 1. Mitglieder des Vorstands,
 

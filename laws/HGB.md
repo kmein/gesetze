@@ -120,9 +120,21 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 # § 9b – Europäisches System der Registervernetzung
 
-(1) Die Eintragungen im Handelsregister und die zum Handelsregister eingereichten Dokumente sowie die Unterlagen der Rechnungslegung nach § 325 sind, soweit sie Kapitalgesellschaften betreffen oder Zweigniederlassungen von Kapitalgesellschaften, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegen, auch über das Europäische Justizportal zugänglich. Hierzu übermitteln die Landesjustizverwaltungen die Daten des Handelsregisters und die das Unternehmensregister führende Stelle übermittelt die Daten der Rechnungslegungsunterlagen jeweils an die zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl. L 169 vom 30.6.2017, S. 46), die zuletzt durch die Richtlinie (EU) 2019/2121 (ABl. L 321 vom 12.12.2019, S. 1; L 20 vom 24.1.2020, S. 24) geändert worden ist, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite des Europäischen Justizportals erforderlich ist.
+(1) Folgende Informationen und Unterlagen, soweit sie Kapitalgesellschaften betreffen oder Zweigniederlassungen von Kapitalgesellschaften, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegen, sind auch über das Europäische Justizportal zugänglich:
 
-(2) Das Registergericht, bei dem das Registerblatt einer Kapitalgesellschaft oder Zweigniederlassung einer Kapitalgesellschaft im Sinne des Absatzes 1 Satz 1 geführt wird, nimmt am Informationsaustausch zwischen den Registern über die zentrale Europäische Plattform teil. Den Kapitalgesellschaften und Zweigniederlassungen von Kapitalgesellschaften im Sinne des Absatzes 1 Satz 1 ist zu diesem Zweck eine einheitliche europäische Kennung zuzuordnen. Das Registergericht übermittelt nach Maßgabe der folgenden Absätze an die zentrale Europäische Plattform die Information über
+1. Eintragungen im Handelsregister,
+
+2. Registerbekanntmachungen,
+
+3. zum Handelsregister eingereichte Dokumente,
+
+4. Unterlagen der Rechnungslegung nach § 325 sowie
+
+5. eine Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung nach § 316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des Umwandlungsgesetzes.
+
+Hierzu übermitteln die Landesjustizverwaltungen die Daten des Handelsregisters und die das Unternehmensregister führende Stelle übermittelt die Daten der Rechnungslegungsunterlagen jeweils an die zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl. L 169 vom 30.6.2017, S. 46), die zuletzt durch die Richtlinie (EU) 2019/2121 (ABl. L 321 vom 12.12.2019, S. 1; L 20 vom 24.1.2020, S. 24) geändert worden ist, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite des Europäischen Justizportals erforderlich ist. Die Zugänglichmachung der Informationen und Unterlagen über das Europäische Justizportal erfolgt nach Maßgabe der Bestimmungen der Durchführungsverordnung (EU) 2021/1042 der Kommission vom 18. Juni 2021 mit Durchführungsbestimmungen zur Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates in Bezug auf technische Spezifikationen und Verfahren für das System der Registervernetzung und zur Aufhebung der Durchführungsverordnung (EU) 2020/2244 der Kommission (ABl. L 225 vom 25.6.2021, S. 7).
+
+(2) Das Registergericht, bei dem das Registerblatt einer Kapitalgesellschaft oder Zweigniederlassung einer Kapitalgesellschaft im Sinne des Absatzes 1 Satz 1 geführt wird, nimmt am Informationsaustausch zwischen den Registern über die zentrale Europäische Plattform teil. Den Kapitalgesellschaften und Zweigniederlassungen von Kapitalgesellschaften im Sinne des Absatzes 1 Satz 1 ist zu diesem Zweck eine einheitliche europäische Kennung zuzuordnen. Das Registergericht übermittelt nach Maßgabe der folgenden Absätze an die zentrale Europäische Plattform die Informationen und Unterlagen über
 
 1. die Eintragung der Eröffnung, Einstellung oder Aufhebung eines Insolvenzverfahrens über das Vermögen der Gesellschaft,
 
@@ -130,7 +142,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 3. die Löschung der Gesellschaft,
 
-4. das Wirksamwerden einer Verschmelzung nach § 122a des Umwandlungsgesetzes,
+4. die Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung nach § 316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des Umwandlungsgesetzes, das Wirksamwerden einer grenzüberschreitenden Umwandlung sowie die Eintragung der aus einer grenzüberschreitenden Spaltung hervorgehenden, neuen Gesellschaft oder die Eintragung der grenzüberschreitenden Spaltung zur Aufnahme im Register der übernehmenden Gesellschaft,
 
 5. die Eintragung der Errichtung der Zweigniederlassung und die Eintragung der Aufhebung der Zweigniederlassung sowie
 
@@ -146,11 +158,11 @@ d) der Eintragungsnummer der Gesellschaft oder der Zweigniederlassung,
 
 e) der Personen, die als gesetzlich vorgesehenes Gesellschaftsorgan oder als Mitglieder eines solchen Organs befugt sind, die Gesellschaft gerichtlich und außergerichtlich zu vertreten, oder die an der Verwaltung, Beaufsichtigung oder Kontrolle der Gesellschaft teilnehmen.
 
-Die Informationsübermittlung erfolgt nach Maßgabe der Bestimmungen der Durchführungsverordnung (EU) 2020/2244 der Kommission vom 17. Dezember 2020 mit Durchführungsbestimmungen zur Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates in Bezug auf technische Spezifikationen und Verfahren für das System der Registervernetzung und zur Aufhebung der Durchführungsverordnung (EU) 2015/884 der Kommission (ABl. L 439 vom 29.12.2020, S. 1).
+Die Übermittlung der Informationen und Unterlagen erfolgt nach Maßgabe der Bestimmungen der Durchführungsverordnung (EU) 2021/1042.
 
 (3) Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus dem Handelsregister zugänglich gemacht (Absatz 1) und im Rahmen des Informationsaustauschs zwischen den Registern übermittelt und empfangen werden (Absatz 2), und sie sind, vorbehaltlich der Zuständigkeit der das Unternehmensregister führenden Stelle nach Absatz 1 Satz 2, für die Abwicklung des Datenverkehrs nach den Absätzen 1 und 2 zuständig. § 9 Absatz 1 Satz 3 bis 5 gilt entsprechend.
 
-(4) Die das Unternehmensregister führende Stelle übermittelt nach den Vorgaben der Durchführungsverordnung (EU) 2020/2244 eine Änderung der Unterlagen der Rechnungslegung, die eine Kapitalgesellschaft mit Sitz im Inland offengelegt hat (§ 325 Absatz 1b Satz 1), unverzüglich an die zentrale Europäische Plattform, wenn die Kapitalgesellschaft eine Zweigniederlassung errichtet hat, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt. Empfängt die das Unternehmensregister führende Stelle über das Europäische System der Registervernetzung Daten zu einer Änderung der Unterlagen der Rechnungslegung einer Kapitalgesellschaft, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt und die eine inländische Zweigniederlassung errichtet hat, so bestätigt die registerführende Stelle den Eingang der Daten über das Europäische System der Registervernetzung.
+(4) Die das Unternehmensregister führende Stelle übermittelt nach den Vorgaben der Durchführungsverordnung (EU) 2021/1042 eine Änderung der Unterlagen der Rechnungslegung, die eine Kapitalgesellschaft mit Sitz im Inland offengelegt hat (§ 325 Absatz 1b Satz 1), unverzüglich an die zentrale Europäische Plattform, wenn die Kapitalgesellschaft eine Zweigniederlassung errichtet hat, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt. Empfängt die das Unternehmensregister führende Stelle über das Europäische System der Registervernetzung Daten zu einer Änderung der Unterlagen der Rechnungslegung einer Kapitalgesellschaft, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt und die eine inländische Zweigniederlassung errichtet hat, so bestätigt die registerführende Stelle den Eingang der Daten über das Europäische System der Registervernetzung.
 
 # § 9c – Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung
 
@@ -4851,11 +4863,15 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte gelten, 
 
 # § 365
 
-(1) In betreff der Form des Indossaments, in betreff der Legitimation des Besitzers und der Prüfung der Legitimation sowie in betreff der Verpflichtung des Besitzers zur Herausgabe, finden die Vorschriften der Artikel 11 bis 13, 36, 74 der Wechselordnung entsprechende Anwendung.
+(1) In betreff der Form des Indossaments, in betreff der Legitimation des Besitzers und der Prüfung der Legitimation sowie in betreff der Verpflichtung des Besitzers zur Herausgabe, finden die Vorschriften der Artikel 13, 14 Absatz 2, Artikel 16 und 40 Absatz 3 Satz 2 des Wechselgesetzes entsprechende Anwendung.
 
 (2) Ist die Urkunde vernichtet oder abhanden gekommen, so unterliegt sie der Kraftloserklärung im Wege des Aufgebotsverfahrens. Ist das Aufgebotsverfahren eingeleitet, so kann der Berechtigte, wenn er bis zur Kraftloserklärung Sicherheit bestellt, Leistung nach Maßgabe der Urkunde von dem Schuldner verlangen.
 
 § 365 Abs. 1 Kursivdruck: Jetzt Art. 13, 14 Abs. 2, Art. 16 u. 40 Abs. 3 Satz 2 des Wechselgesetzes 4133-1 gem. Art. 3 Abs. 1 G v. 21.6.1933 I 409
+
+# § 365a
+
+Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie die Transportversicherungspolice, sofern sichergestellt ist, dass die Authentizität und Integrität der Aufzeichnung gewahrt bleiben (elektronische Transportversicherungspolice). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung einer elektronischen Transportversicherungspolice sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in eine elektronische Transportversicherungspolice zu regeln.
 
 # § 366
 

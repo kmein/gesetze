@@ -1439,7 +1439,7 @@ Ist die Ausübung von Rechten aus der Aktie davon abhängig, dass der Aktionär 
 
 2. wenn die Aktien Personen, die im Arbeitsverhältnis zu der Gesellschaft oder einem mit ihr verbundenen Unternehmen stehen oder standen, zum Erwerb angeboten werden sollen,
 
-3. wenn der Erwerb geschieht, um Aktionäre nach § 305 Abs. 2, § 320b oder nach § 29 Abs. 1, § 125 Satz 1 in Verbindung mit § 29 Abs. 1, § 207 Abs. 1 Satz 1 des Umwandlungsgesetzes abzufinden,
+3. wenn der Erwerb geschieht, um Aktionäre nach § 305 Abs. 2, § 320b oder nach § 29 Abs. 1, § 125 Satz 1 in Verbindung mit § 29 Abs. 1, § 207 Abs. 1 Satz 1, § 313 Absatz 1, auch in Verbindung mit § 327, oder § 340 Absatz 1 des Umwandlungsgesetzes abzufinden,
 
 4. wenn der Erwerb unentgeltlich geschieht oder ein Kreditinstitut oder Wertpapierinstitut mit dem Erwerb eine Einkaufskommission ausführt,
 
@@ -1531,7 +1531,7 @@ b) nach den §§ 283 bis 283d des Strafgesetzbuchs (Insolvenzstraftaten),
 
 c) der falschen Angaben nach § 399 dieses Gesetzes oder § 82 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung,
 
-d) der unrichtigen Darstellung nach § 400 dieses Gesetzes, § 331 des Handelsgesetzbuchs, § 313 des Umwandlungsgesetzes oder § 17 des Publizitätsgesetzes,
+d) der unrichtigen Darstellung nach § 400 dieses Gesetzes, § 331 des Handelsgesetzbuchs, § 346 des Umwandlungsgesetzes oder § 17 des Publizitätsgesetzes,
 
 e) nach den §§ 263 bis 264a oder den §§ 265b bis 266a des Strafgesetzbuchs zu einer Freiheitsstrafe von mindestens einem Jahr
 

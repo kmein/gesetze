@@ -16350,7 +16350,7 @@ Die Unwirksamkeit einer Auflage hat die Unwirksamkeit der unter der Auflage gema
 
 # § 2201 – Unwirksamkeit der Ernennung
 
-Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist oder nach § 1896 zur Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.
+Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist oder nach § 1814 zur Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.
 
 # § 2202 – Annahme und Ablehnung des Amts
 

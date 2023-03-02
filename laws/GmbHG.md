@@ -85,7 +85,7 @@ b) nach den §§ 283 bis 283d des Strafgesetzbuchs (Insolvenzstraftaten),
 
 c) der falschen Angaben nach § 82 dieses Gesetzes oder § 399 des Aktiengesetzes,
 
-d) der unrichtigen Darstellung nach § 400 des Aktiengesetzes, § 331 des Handelsgesetzbuchs, § 313 des Umwandlungsgesetzes oder § 17 des Publizitätsgesetzes oder
+d) der unrichtigen Darstellung nach § 400 des Aktiengesetzes, § 331 des Handelsgesetzbuchs, § 346 des Umwandlungsgesetzes oder § 17 des Publizitätsgesetzes oder
 
 e) nach den §§ 263 bis 264a oder den §§ 265b bis 266a des Strafgesetzbuchs zu einer Freiheitsstrafe von mindestens einem Jahr
 
@@ -347,7 +347,7 @@ Liegt die in § 31 Abs. 1 bezeichnete Voraussetzung nicht vor, so sind die Gesel
 
 (2) Eigene Geschäftsanteile, auf welche die Einlage vollständig geleistet ist, darf sie nur erwerben, sofern sie im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb bilden könnte, ohne das Stammkapital oder eine nach dem Gesellschaftsvertrag zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Gesellschafter verwandt werden darf. Als Pfand nehmen darf sie solche Geschäftsanteile nur, soweit der Gesamtbetrag der durch Inpfandnahme eigener Geschäftsanteile gesicherten Forderungen oder, wenn der Wert der als Pfand genommenen Geschäftsanteile niedriger ist, dieser Betrag nicht höher ist als das über das Stammkapital hinaus vorhandene Vermögen. Ein Verstoß gegen die Sätze 1 und 2 macht den Erwerb oder die Inpfandnahme der Geschäftsanteile nicht unwirksam; jedoch ist das schuldrechtliche Geschäft über einen verbotswidrigen Erwerb oder eine verbotswidrige Inpfandnahme nichtig.
 
-(3) Der Erwerb eigener Geschäftsanteile ist ferner zulässig zur Abfindung von Gesellschaftern nach § 29 Abs. 1, § 122i Abs. 1 Satz 2, § 125 Satz 1 in Verbindung mit § 29 Abs. 1 und § 207 Abs. 1 des Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten nach dem Wirksamwerden der Umwandlung oder nach der Rechtskraft der gerichtlichen Entscheidung erfolgt und die Gesellschaft im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb bilden könnte, ohne das Stammkapital oder eine nach dem Gesellschaftsvertrag zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Gesellschafter verwandt werden darf.
+(3) Der Erwerb eigener Geschäftsanteile ist ferner zulässig zur Abfindung von Gesellschaftern nach § 29 Absatz 1, nach § 125 Satz 1 in Verbindung mit § 29 Absatz 1, nach § 207 Absatz 1, nach § 313 Absatz 1, nach § 327 in Verbindung mit § 313 Absatz 1 und nach § 340 Absatz 1 des Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten nach dem Wirksamwerden der Umwandlung oder nach der Rechtskraft der gerichtlichen Entscheidung erfolgt und die Gesellschaft im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb bilden könnte, ohne das Stammkapital oder eine nach dem Gesellschaftsvertrag zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Gesellschafter verwandt werden darf.
 
 # § 34 – Einziehung von Geschäftsanteilen
 
