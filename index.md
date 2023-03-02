@@ -122,6 +122,7 @@
 - [AHiVwVtrAUTG](laws/AHiVwVtrAUTG.md) Gesetz zu dem Vertrag vom 31. Mai 1988 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen
 - [AHStatDV](laws/AHStatDV.md) Verordnung zur Durchführung des Gesetzes über die Statistik des Warenverkehrs mit dem Ausland
 - [AHStatG](laws/AHStatG.md) Gesetz über die Statistik des Warenverkehrs mit dem Ausland
+- [AHundV](laws/AHundV.md) Assistenzhundeverordnung
 - [AIIBÜbkG](laws/AIIBÜbkG.md) Gesetz zu dem Übereinkommen vom 29. Juni 2015 zur Gründung der Asiatischen Infrastruktur-Investitionsbank
 - [AKG](laws/AKG.md) Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden
 - [AkkStelleG](laws/AkkStelleG.md) Gesetz über die Akkreditierungsstelle
@@ -1245,7 +1246,6 @@
 - [ButtV 1997](laws/ButtV_1997.md) Verordnung über Butter und andere Milchstreichfette
 - [BUZAV](laws/BUZAV.md) Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahren der Zuteilung und des Erwerbs von Ausgleichsforderungen
 - [BVABesZustAnO](laws/BVABesZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesversicherungsamtes sowie bei Klagen des Dienstherrn in besoldungsrechtlichen Angelegenheiten
-- [BVABundFamkV](laws/BVABundFamkV.md) Verordnung zur Einrichtung einer Bundesfamilienkasse beim Bundesverwaltungsamt
 - [BVAG](laws/BVAG.md) Gesetz über die Errichtung des Bundesversicherungsamts, die Aufsicht über die Sozialversicherungsträger und die Regelung von Verwaltungszuständigkeiten in der Sozialversicherung und der betrieblichen Altersfürsorge
 - [BVARKAnO](laws/BVARKAnO.md) Allgemeine Anordnung über die Zuständigkeit des Bundesversicherungsamtes auf dem Gebiete des Reisekostenrechts
 - [BVASitzBek](laws/BVASitzBek.md) Bekanntmachung über den Dienstsitz des Bundesversicherungsamtes
@@ -5371,6 +5371,7 @@
 - [StromNZV](laws/StromNZV.md) Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen
 - [StromPBG](laws/StromPBG.md) Gesetz zur Einführung einer Strompreisbremse *
 - [StromPBGAnwBek](laws/StromPBGAnwBek.md) Bekanntmachung über die Anwendbarkeit des Strompreisbremsegesetzes
+- [StromPBGAnwBek 2023](laws/StromPBGAnwBek_2023.md) Bekanntmachung über die Anwendbarkeit des Strompreisbremsegesetzes
 - [StromStG](laws/StromStG.md) Stromsteuergesetz
 - [StromStG§10Abs3uaBek](laws/StromStG§10Abs3uaBek.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2016](laws/StromStG§10Abs3uaBek_2016.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes

@@ -133,10 +133,6 @@ Wird bei der Gründung einer SE durch Verschmelzung oder bei der Gründung einer
 
 Wird bei der Gründung einer Europäischen Genossenschaft durch Verschmelzung nach dem Verfahren der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1) nach den Vorschriften des SCE-Ausführungsgesetzes ein Antrag auf Bestimmung einer baren Zuzahlung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Mitglieder einer sich verschmelzenden Genossenschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen Rechtsanwalt als gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
-# § 6c – Gemeinsamer Vertreter bei grenzüberschreitender Verschmelzung
-
-Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgesetzes) gemäß § 122h oder § 122i des Umwandlungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
-
 # § 6c – Grenzüberschreitende Umwandlungen
 
 (1) Wird bei einer grenzüberschreitenden Umwandlung (§§ 305, 320 und 333 des Umwandlungsgesetzes) ein Antrag auf Bestimmung einer Zuzahlung, zusätzlich zu gewährender Aktien oder einer Barabfindung gestellt, so bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen Rechtsanwalt als gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Absatz 1 Satz 4 und Absatz 2 gilt entsprechend.
