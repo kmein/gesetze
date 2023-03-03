@@ -4295,7 +4295,7 @@ Triazolam
 8-Chlor-6-(2-chlorphenyl)-1-methyl-4H-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepin
 
 \-  
-ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 025 mg Triazolam enthalten -
+ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 0,25 mg Triazolam enthalten -
 
 Zolpidem
 
