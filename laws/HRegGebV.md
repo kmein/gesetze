@@ -55,13 +55,13 @@ Wird eine Anmeldung zurückgewiesen, sind 170 Prozent der für die Eintragung be
 
 Wird die Anmeldung einer sonstigen späteren Eintragung, die mehrere Tatsachen zum Gegenstand hat, teilweise zurückgenommen oder zurückgewiesen, ist für jeden zurückgenommenen oder zurückgewiesenen Teil von den Gebühren 1503, 2501 und 3501 des Gebührenverzeichnisses auszugehen. § 3 Absatz 2 bleibt unberührt.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 5a – Übergangsvorschrift
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
 # Anlage – (zu § 1)
 
