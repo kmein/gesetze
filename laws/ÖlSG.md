@@ -27,9 +27,7 @@
 
 1. die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der Bescheinigung,
 
-2. das Verfahren bei der Ausstellung und Einziehung der Bescheinigung,
-
-3. die gebührenpflichtigen Tatbestände für individuell zurechenbare öffentliche Leistungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung.
+2. das Verfahren bei der Ausstellung und Einziehung der Bescheinigung.
 
 In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere die Mitteilungspflichten des Eigentümers eines Seeschiffes im Verfahren der Ausstellung der Bescheinigung, auch hinsichtlich nach Ausstellung eintretender Umstände, und im Verfahren der Einziehung der Bescheinigung geregelt werden.
 
@@ -105,9 +103,9 @@ Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen Mitgliedst
 
 1. einer Rechtsverordnung nach § 2 Absatz 4 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-2. entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Satz 3, nicht eine dort genannte Bescheinigung an Bord gibt,
+2. entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, oder entgegen § 3 Absatz 1 Satz 2, auch in Verbindung mit Satz 5, nicht sicherstellt, dass eine dort genannte Bescheinigung an Bord mitgeführt wird,
 
-3. entgegen § 3 Abs. 1 Satz 2, auch in Verbindung mit Satz 3, nicht eine dort genannte Bescheinigung an Bord mitführt oder auf Verlangen vorweist oder
+3. entgegen § 3 Absatz 1 Satz 3, auch in Verbindung mit Satz 4 oder 5, eine dort genannte Bescheinigung an Bord nicht mitführt oder nicht oder nicht rechtzeitig vorweist oder
 
 4. entgegen § 5 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 5 Absatz 7 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
@@ -117,7 +115,7 @@ Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen Mitgliedst
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
-1. in den Fällen des Absatzes 1 Nummer 1 bis 3 das Bundesamt für Seeschifffahrt und Hydrographie und
+1. in den Fällen des Absatzes 1 Nummer 1 bis 3 und des Absatzes 2 das Bundesamt für Seeschifffahrt und Hydrographie und
 
 2. in den Fällen des Absatzes 1 Nummer 4 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
