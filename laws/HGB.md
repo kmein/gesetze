@@ -7120,5 +7120,3 @@ Auf Antrag eines Bergers (§ 574 Absatz 1) kann das für die Hauptsache zuständ
 # § 619 – Zustellungen an den Kapitän oder Schiffer
 
 Eine Klage eines Schiffsgläubigers auf Duldung der Zwangsvollstreckung in ein Schiff sowie ein Urteil oder ein Beschluss in einem Verfahren über einen Arrest in ein Schiff können dem Kapitän dieses Schiffes oder, soweit ein Binnenschiff betroffen ist, dem Schiffer zugestellt werden.
-
-# Anlage – (weggefallen)

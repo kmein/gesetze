@@ -1401,7 +1401,7 @@ Eine nachträgliche Korrektur von Rechnungen, die das Elektrizitätsversorgungsu
 
 Dieses Gesetz darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission angewandt werden. Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Tag, ab dem dieses Gesetz nach Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 
-(+++ Zur Anwendung dieses G ab dem 24.12.2022 vgl. Bek. v. 28.12.2022 I 2894 u. v. 24.2.2023 I Nr. 52 +++)
+(+++ Zur Anwendung dieses G ab dem 24.12.2022 bzw. 25.2.2023 vgl. Bek. v. 28.12.2022 I 2894 u. v. 24.2.2023 I Nr. 52 +++)
 
 # Anlage 1 – (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten
 
