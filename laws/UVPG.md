@@ -1261,7 +1261,8 @@ ii) die Anfälligkeit des Vorhabens für die Risiken von schweren Unfällen oder
 
 # Anlage 5 – Liste „SUP-pflichtiger Pläne und Programme“
 
-(Fundstelle: BGBl. I 2021, 588 – 589)
+(Fundstelle: BGBl. I 2021, 588 – 589;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
