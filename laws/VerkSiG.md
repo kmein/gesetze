@@ -243,7 +243,7 @@ f) Aufgaben auf dem Gebiet des Straßenverkehrs, soweit sie über den Bereich ei
 
 (2) Die Landesregierungen können bestimmen, daß die nach diesem Gesetz oder auf Grund dieses Gesetzes kreisangehörigen Gemeinden zugewiesenen Aufgaben von kommunalen Zusammenschlüssen oder Gemeindeverbänden wahrgenommen werden.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe f auf dem Gebiet des Güterkraftverkehrs dem Bundesamt für Güterverkehr übertragen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe a dem Eisenbahn-Bundesamt übertragen.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe f auf dem Gebiet des Güterkraftverkehrs dem Bundesamt für Logistik und Mobilität übertragen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe a dem Eisenbahn-Bundesamt übertragen.
 
 (4) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des Gemeindeverbands.
 

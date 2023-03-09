@@ -132,11 +132,11 @@ Verkehrsleistungen im Sinne dieses Gesetzes dürfen nur auf bestimmte Zeit, län
 
 Die anforderungsberechtigte Behörde richtet ihre Anforderung an die koordinierende Behörde.
 
-(1a) Koordinierende Behörde ist das Bundesamt für Güterverkehr. Die koordinierende Behörde legt fest, welcher Verkehrsträger die Verkehrsleistung zu erbringen hat, und übermittelt die Anforderung an die zuständige Behörde nach Absatz 2.
+(1a) Koordinierende Behörde ist das Bundesamt für Logistik und Mobilität. Die koordinierende Behörde legt fest, welcher Verkehrsträger die Verkehrsleistung zu erbringen hat, und übermittelt die Anforderung an die zuständige Behörde nach Absatz 2.
 
 (2) Zuständige Behörden für den Erlass eines Verpflichtungsbescheides nach Übermittlung der Anforderung durch die koordinierende Behörde sind
 
-1. das Bundesamt für Güterverkehr auf dem Gebiet des Straßenverkehrs,
+1. das Bundesamt für Logistik und Mobilität auf dem Gebiet des Straßenverkehrs,
 
 2. die Generaldirektion Wasserstraßen und Schifffahrt auf dem Gebiet der Seeschifffahrt und der Binnenschifffahrt,
 

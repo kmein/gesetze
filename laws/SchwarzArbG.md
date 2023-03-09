@@ -277,7 +277,7 @@ Zur Erfüllung ihrer Mitteilungspflicht nach § 6 Absatz 1 Satz 1 in Verbindung 
 
 9. den in § 71 Abs. 1 bis 3 des Aufenthaltsgesetzes genannten Behörden,
 
-10. dem Bundesamt für Güterverkehr,
+10. dem Bundesamt für Logistik und Mobilität,
 
 11. den nach Landesrecht für die Genehmigung und Überwachung des Gelegenheitsverkehrs mit Kraftfahrzeugen nach § 46 des Personenbeförderungsgesetzes zuständigen Behörden,
 

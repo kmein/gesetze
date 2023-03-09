@@ -95,7 +95,7 @@ die höheren Verkehrsbehörden der Länder, sofern nicht nach Landesrecht andere
 
 b) für die ihm nach § 19 Abs. 3 des Verkehrssicherstellungsgesetzes übertragenen Aufgaben
 
-das Bundesamt für Güterverkehr;
+das Bundesamt für Logistik und Mobilität;
 
 c) im übrigen
 

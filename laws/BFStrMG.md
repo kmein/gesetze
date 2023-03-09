@@ -97,11 +97,11 @@ c) die Bundesgrenze;
 
 Ergibt sich im Falle des Satzes 1 Nummer 2 eine Abschnittslänge von weniger als 100 Metern, werden Knotenpunkte zusammengelegt. Die Zusammenlegung erfolgt so, dass der Knotenpunkt bei der höherrangigen Straße gesetzt wird. Bei gleichrangigen Straßen erfolgt die Zusammenlegung so, dass der Knotenpunkt bei der Straße mit der höheren Nummer nach der Nummerierung des Bundesinformationssystems Straße gesetzt wird.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem üblichen Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Güterverkehr zu übertragen.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem üblichen Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
 # § 4 – Mautentrichtung und Mauterstattung
 
-(1) Der Mautschuldner hat die Maut in der sich aus § 3, auch in Verbindung mit § 14, ergebenden Höhe spätestens bei Beginn der mautpflichtigen Benutzung oder im Fall einer Stundung zu dem festgesetzten Zeitpunkt an das Bundesamt für Güterverkehr zu entrichten. Die Maut wird für ein bestimmtes Fahrzeug mit dem ihm zugeteilten Kennzeichen entrichtet.
+(1) Der Mautschuldner hat die Maut in der sich aus § 3, auch in Verbindung mit § 14, ergebenden Höhe spätestens bei Beginn der mautpflichtigen Benutzung oder im Fall einer Stundung zu dem festgesetzten Zeitpunkt an das Bundesamt für Logistik und Mobilität zu entrichten. Die Maut wird für ein bestimmtes Fahrzeug mit dem ihm zugeteilten Kennzeichen entrichtet.
 
 (2) § 13 Absatz 3 und die §§ 16 bis 19 und 21 des Bundesgebührengesetzes sind, soweit sich aus diesem Gesetz oder aus den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht etwas anderes ergibt, mit der Maßgabe entsprechend anzuwenden, dass abweichend von § 16 Absatz 1 des Bundesgebührengesetzes ein Säumniszuschlag erhoben werden kann,
 
@@ -109,9 +109,9 @@ Ergibt sich im Falle des Satzes 1 Nummer 2 eine Abschnittslänge von weniger als
 
 2. der mit Ablauf des fünften Tages nach dem Tag der Fälligkeit der Maut zu entrichten ist.
 
-Erstattungen nach § 21 des Bundesgebührengesetzes sind schriftlich beim Bundesamt für Güterverkehr zu beantragen. Auf Verlangen des Bundesamtes für Güterverkehr sind geeignete Unterlagen zur Aufklärung des Anspruchs vorzulegen. Über den Erstattungsantrag wird durch Bescheid entschieden. Absatz 5 Satz 3 gilt entsprechend.
+Erstattungen nach § 21 des Bundesgebührengesetzes sind schriftlich beim Bundesamt für Logistik und Mobilität zu beantragen. Auf Verlangen des Bundesamtes für Logistik und Mobilität sind geeignete Unterlagen zur Aufklärung des Anspruchs vorzulegen. Über den Erstattungsantrag wird durch Bescheid entschieden. Absatz 5 Satz 3 gilt entsprechend.
 
-(3) Das Bundesamt für Güterverkehr kann einem Privaten die Errichtung und den Betrieb eines Systems zur Erhebung der Maut übertragen oder diesen beauftragen, an der Erhebung der Maut mitzuwirken (Betreiber). Die Übertragung oder die Beauftragung ist vom Bundesamt für Güterverkehr im Bundesanzeiger bekannt zu geben. Zum Zweck des Betriebs des Mauterhebungssystems darf der Betreiber nachfolgende Daten verarbeiten:
+(3) Das Bundesamt für Logistik und Mobilität kann einem Privaten die Errichtung und den Betrieb eines Systems zur Erhebung der Maut übertragen oder diesen beauftragen, an der Erhebung der Maut mitzuwirken (Betreiber). Die Übertragung oder die Beauftragung ist vom Bundesamt für Logistik und Mobilität im Bundesanzeiger bekannt zu geben. Zum Zweck des Betriebs des Mauterhebungssystems darf der Betreiber nachfolgende Daten verarbeiten:
 
 1. Höhe der entrichteten Maut,
 
@@ -139,15 +139,15 @@ b) des Anbieters nach § 10 Absatz 1 oder § 11 Absatz 1 des Mautsystemgesetzes 
 
 Diese Daten dürfen ausschließlich für die Zwecke dieses Gesetzes verarbeitet werden. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Für Anbieter im Sinne des § 10 Absatz 1 und des § 11 Absatz 1 des Mautsystemgesetzes gelten die Sätze 3 bis 5 entsprechend.
 
-(3a) Erfolgt die Berechnung der Maut für die Nutzer von Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes, einschließlich des Erkennungsprozesses zur Unterscheidung mautpflichtiger von nicht mautpflichtigen Streckenabschnitten und der Ermittlung der abschnittsbezogenen Erhebungsdaten und der Erstellung der Mautbuchungsnachweise, durch das Bundesamt für Güterverkehr, muss ein Anbieter dem Bundesamt für Güterverkehr zu diesem Zweck die in Absatz 3 Satz 3 Nummer 5, 6 und 7 Buchstabe b sowie Nummer 8 bis 10 genannten Daten übermitteln. Das Bundesamt für Güterverkehr darf die in Absatz 3 Satz 3 Nummer 5, 6 und 7 Buchstabe b sowie Nummer 8 bis 10 genannten Daten zu dem in Satz 1 genannten Zweck erheben, speichern und verwenden. Nach Abschluss des Erkennungsprozesses übermittelt das Bundesamt für Güterverkehr den Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes die Mautbuchungsnachweise. Die Berechnung der Maut für die Nutzer von Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes erfolgt ab dem 1. Januar 2026 ausschließlich durch das Bundesamt für Güterverkehr. Das Bundesamt für Güterverkehr kann den Betreiber mit der Berechnung der Maut beauftragen. Die Beauftragung ist vom Bundesamt für Güterverkehr im Bundesanzeiger bekannt zu geben. § 4 Absatz 3 Satz 4 und 5 gilt entsprechend.
+(3a) Erfolgt die Berechnung der Maut für die Nutzer von Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes, einschließlich des Erkennungsprozesses zur Unterscheidung mautpflichtiger von nicht mautpflichtigen Streckenabschnitten und der Ermittlung der abschnittsbezogenen Erhebungsdaten und der Erstellung der Mautbuchungsnachweise, durch das Bundesamt für Logistik und Mobilität, muss ein Anbieter dem Bundesamt für Logistik und Mobilität zu diesem Zweck die in Absatz 3 Satz 3 Nummer 5, 6 und 7 Buchstabe b sowie Nummer 8 bis 10 genannten Daten übermitteln. Das Bundesamt für Logistik und Mobilität darf die in Absatz 3 Satz 3 Nummer 5, 6 und 7 Buchstabe b sowie Nummer 8 bis 10 genannten Daten zu dem in Satz 1 genannten Zweck erheben, speichern und verwenden. Nach Abschluss des Erkennungsprozesses übermittelt das Bundesamt für Logistik und Mobilität den Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes die Mautbuchungsnachweise. Die Berechnung der Maut für die Nutzer von Anbietern nach § 10 Absatz 1 und § 11 Absatz 1 des Mautsystemgesetzes erfolgt ab dem 1. Januar 2026 ausschließlich durch das Bundesamt für Logistik und Mobilität. Das Bundesamt für Logistik und Mobilität kann den Betreiber mit der Berechnung der Maut beauftragen. Die Beauftragung ist vom Bundesamt für Logistik und Mobilität im Bundesanzeiger bekannt zu geben. § 4 Absatz 3 Satz 4 und 5 gilt entsprechend.
 
-(3b) Abweichend von Absatz 3 Satz 4 und 5 darf im Zeitraum bis zum 31. Dezember 2025 das Bundesamt für Güterverkehr bei Vorliegen eines Verdachts eines Verstoßes gegen die Kabotageregelungen gemäß Artikel 8 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72) in der jeweils geltenden Fassung die in Absatz 3 Satz 3 Nummer 5 und 10 genannten Daten zum ersten befahrenen Mautabschnitt nach der Einfahrt in das Bundesgebiet und zum letzten befahrenen Mautabschnitt vor der Ausfahrt aus dem Bundesgebiet zum Zweck der Ermittlung des Ortes und der Zeit des Grenzübertritts von in einem Mitgliedstaat der Europäischen Union oder im Europäischen Wirtschaftsraum zugelassenen Fahrzeugen für die Verfolgung von Ordnungswidrigkeiten nach § 19 Absatz 2a und Absatz 4 Nummer 2 des Güterkraftverkehrsgesetzes verarbeiten.
+(3b) Abweichend von Absatz 3 Satz 4 und 5 darf im Zeitraum bis zum 31. Dezember 2025 das Bundesamt für Logistik und Mobilität bei Vorliegen eines Verdachts eines Verstoßes gegen die Kabotageregelungen gemäß Artikel 8 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72) in der jeweils geltenden Fassung die in Absatz 3 Satz 3 Nummer 5 und 10 genannten Daten zum ersten befahrenen Mautabschnitt nach der Einfahrt in das Bundesgebiet und zum letzten befahrenen Mautabschnitt vor der Ausfahrt aus dem Bundesgebiet zum Zweck der Ermittlung des Ortes und der Zeit des Grenzübertritts von in einem Mitgliedstaat der Europäischen Union oder im Europäischen Wirtschaftsraum zugelassenen Fahrzeugen für die Verfolgung von Ordnungswidrigkeiten nach § 19 Absatz 2a und Absatz 4 Nummer 2 des Güterkraftverkehrsgesetzes verarbeiten.
 
 (4) Der Mautschuldner hat bei der Mauterhebung mitzuwirken. Er hat die technischen Einrichtungen zur Mautentrichtung ordnungsgemäß zu nutzen und die für die Maut maßgeblichen Tatsachen anzugeben. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der Nutzung der technischen Einrichtungen zu regeln und die nach Satz 2 maßgeblichen Tatsachen festzulegen sowie das Verfahren der Angabe dieser Tatsachen zu regeln.
 
 (5) Eine Maut oder, im Fall des Absatzes 6 Satz 1, ein der Maut entsprechender Betrag wird auf Verlangen ganz oder teilweise erstattet, wenn die Fahrt, für die sie entrichtet wurde, nicht oder nicht vollständig durchgeführt wird (Erstattung der Maut). Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Erstattung der Maut zu regeln. Die Bearbeitungsgebühr für ein Erstattungsverlangen beträgt höchstens 20 Euro.
 
-(6) Verpflichtet sich der Betreiber oder ein Anbieter, der einen Vertrag nach § 4d Absatz 1 oder § 4f Absatz 1 mit dem Bundesamt für Güterverkehr abgeschlossen hat, gegenüber dem Bundesamt für Güterverkehr zur unbedingten Zahlung eines Betrages in Höhe der entstandenen Maut des Mautschuldners, so ist der Mautschuldner insoweit von der Verpflichtung zur Entrichtung der Maut an das Bundesamt für Güterverkehr befreit, als der Mautschuldner
+(6) Verpflichtet sich der Betreiber oder ein Anbieter, der einen Vertrag nach § 4d Absatz 1 oder § 4f Absatz 1 mit dem Bundesamt für Logistik und Mobilität abgeschlossen hat, gegenüber dem Bundesamt für Logistik und Mobilität zur unbedingten Zahlung eines Betrages in Höhe der entstandenen Maut des Mautschuldners, so ist der Mautschuldner insoweit von der Verpflichtung zur Entrichtung der Maut an das Bundesamt für Logistik und Mobilität befreit, als der Mautschuldner
 
 1. nachweist, dass zwischen ihm und dem Betreiber oder dem jeweiligen Anbieter ein Rechtsverhältnis besteht, auf Grund dessen der Mautschuldner für jede mautpflichtige Benutzung einer mautpflichtigen Straße im Sinne des § 1 ein Entgelt in Höhe der zu entrichtenden Maut an den Betreiber oder den jeweiligen Anbieter zahlen muss oder gezahlt hat, und
 
@@ -159,9 +159,9 @@ Der Nachweis nach Satz 1 ist auf geeignete Weise zu erbringen, insbesondere gelt
 
 Das Mautsystem nach diesem Gesetz ist ein elektronisches Mautsystem im Sinne des § 1 Absatz 1 des Mautsystemgesetzes.
 
-# § 4b – Bundesamt für Güterverkehr
+# § 4b – Bundesamt für Logistik und Mobilität
 
-Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für Güterverkehr für das elektronische Mautsystem nach diesem Gesetz zuständige Stelle des Bundes nach dem Mautsystemgesetz.
+Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für Logistik und Mobilität für das elektronische Mautsystem nach diesem Gesetz zuständige Stelle des Bundes nach dem Mautsystemgesetz.
 
 # § 4c – Zulassungsverfahren
 
@@ -181,13 +181,13 @@ Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für G�
 
 # § 4d – Prüfvereinbarung und Prüfverfahren
 
-(1) Das Bundesamt für Güterverkehr hat mit einem Anbieter, der nach § 4 des Mautsystemgesetzes registriert ist und einen Antrag auf Zulassung zur Erbringung mautdienstbezogener Leistungen nach § 10 Absatz 1 des Mautsystemgesetzes gestellt hat, einen öffentlich-rechtlichen Vertrag zu schließen, mit dem der Anbieter es dem Bundesamt für Güterverkehr ermöglicht, das Erfüllen der Anforderungen nach § 4f Absatz 1 festzustellen (Prüfvereinbarung).
+(1) Das Bundesamt für Logistik und Mobilität hat mit einem Anbieter, der nach § 4 des Mautsystemgesetzes registriert ist und einen Antrag auf Zulassung zur Erbringung mautdienstbezogener Leistungen nach § 10 Absatz 1 des Mautsystemgesetzes gestellt hat, einen öffentlich-rechtlichen Vertrag zu schließen, mit dem der Anbieter es dem Bundesamt für Logistik und Mobilität ermöglicht, das Erfüllen der Anforderungen nach § 4f Absatz 1 festzustellen (Prüfvereinbarung).
 
 (2) Jede Prüfvereinbarung enthält nach näherer Bestimmung durch eine Rechtsverordnung nach § 4h Satz 1 für alle Anbieter einheitliche Regelungen
 
 1. zum zeitlichen und organisatorischen Ablauf des Prüfverfahrens und des Pilotbetriebs einschließlich dem Beginn und dem Ende des Prüfverfahrens und des Pilotbetriebs,
 
-2. zu den Mitwirkungs- und Leistungspflichten des Anbieters und des Bundesamtes für Güterverkehr,
+2. zu den Mitwirkungs- und Leistungspflichten des Anbieters und des Bundesamtes für Logistik und Mobilität,
 
 3. zum rechtmäßigen Umgang mit Daten, insbesondere der Sicherheit der Daten, Datenschutz, Behandlung vertraulicher Daten, Übermittlung, Speicherung, Einschränkung der Verarbeitung und Löschung,
 
@@ -205,17 +205,17 @@ Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für G�
 
 In die Prüfvereinbarung können ferner solche Regelungen aufgenommen werden, die keinen unmittelbaren Bezug zu der Leistungserbringung haben, jedoch zur Gestaltung sonstiger Beziehungen der Vertragsparteien erforderlich sind.
 
-(3) Nach Abschluss der Prüfvereinbarung nach Absatz 1 stellt das Bundesamt für Güterverkehr fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt, soweit dies vor Durchführung des Pilotbetriebs nach § 4e Absatz 2 möglich ist.
+(3) Nach Abschluss der Prüfvereinbarung nach Absatz 1 stellt das Bundesamt für Logistik und Mobilität fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt, soweit dies vor Durchführung des Pilotbetriebs nach § 4e Absatz 2 möglich ist.
 
 # § 4e – Beschränkte Zulassung und Pilotbetrieb
 
-(1) Das Bundesamt für Güterverkehr lässt nach § 11 Absatz 1 des Mautsystemgesetzes einen Anbieter auf Antrag zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen zum Zwecke der Durchführung des Pilotbetriebs nach Absatz 3 durch Verwaltungsakt zu (beschränkte Zulassung), wenn der Anbieter das Prüfverfahren nach § 4d Absatz 3 erfolgreich bestanden hat.
+(1) Das Bundesamt für Logistik und Mobilität lässt nach § 11 Absatz 1 des Mautsystemgesetzes einen Anbieter auf Antrag zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen zum Zwecke der Durchführung des Pilotbetriebs nach Absatz 3 durch Verwaltungsakt zu (beschränkte Zulassung), wenn der Anbieter das Prüfverfahren nach § 4d Absatz 3 erfolgreich bestanden hat.
 
-(2) Nach Erteilung der beschränkten Zulassung nach Absatz 1 stellt das Bundesamt für Güterverkehr im Rahmen eines Pilotbetriebs nach § 11 Absatz 1 des Mautsystemgesetzes fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt.
+(2) Nach Erteilung der beschränkten Zulassung nach Absatz 1 stellt das Bundesamt für Logistik und Mobilität im Rahmen eines Pilotbetriebs nach § 11 Absatz 1 des Mautsystemgesetzes fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt.
 
 # § 4f – Zulassung von Anbietern
 
-(1) Das Bundesamt für Güterverkehr lässt nach § 10 Absatz 2 des Mautsystemgesetzes einen Anbieter auf Antrag zur Mitwirkung bei der Erhebung der Maut auf den nach § 1 mautpflichtigen Straßen durch öffentlich-rechtlichen Vertrag zu (Zulassungsvertrag), wenn der Anbieter
+(1) Das Bundesamt für Logistik und Mobilität lässt nach § 10 Absatz 2 des Mautsystemgesetzes einen Anbieter auf Antrag zur Mitwirkung bei der Erhebung der Maut auf den nach § 1 mautpflichtigen Straßen durch öffentlich-rechtlichen Vertrag zu (Zulassungsvertrag), wenn der Anbieter
 
 1. gewährleistet, dass seine Mitwirkung bei der Erhebung der Maut nur nach Maßgabe des § 4 Absatz 6 erfolgt,
 
@@ -233,11 +233,11 @@ In die Prüfvereinbarung können ferner solche Regelungen aufgenommen werden, di
 
 4. zu den Fallgruppen, in denen das Verfahren zur Feststellung der Gebrauchstauglichkeit von Interoperabilitätskomponenten nach § 23 des Mautsystemgesetzes ganz oder teilweise zu wiederholen ist,
 
-5. zu Mitwirkungs- und Leistungspflichten des Anbieters und des Bundesamtes für Güterverkehr,
+5. zu Mitwirkungs- und Leistungspflichten des Anbieters und des Bundesamtes für Logistik und Mobilität,
 
 6. zum rechtmäßigen Umgang mit Daten, insbesondere der Sicherheit der Daten, Datenschutz und der Behandlung vertraulicher Daten, Übermittlung, Speicherung, Einschränkung der Verarbeitung und Löschung,
 
-7. zu den Maßnahmen zur Sicherung der vollständigen Mauterhebung und Mautauskehr an das Bundesamt für Güterverkehr und zur Durchführung der Überwachung des Anbieters, einschließlich Zutritts- und Einsichtsrechten des Bundesamtes für Güterverkehr,
+7. zu den Maßnahmen zur Sicherung der vollständigen Mauterhebung und Mautauskehr an das Bundesamt für Logistik und Mobilität und zur Durchführung der Überwachung des Anbieters, einschließlich Zutritts- und Einsichtsrechten des Bundesamtes für Logistik und Mobilität,
 
 8. zu den Vorgaben zur Absicherung der finanziellen Ansprüche des Bundes,
 
@@ -257,25 +257,25 @@ In den Zulassungsvertrag können ferner solche Regelungen aufgenommen werden, di
 
 # § 4g – Überwachung
 
-(1) Das Bundesamt für Güterverkehr überwacht die Einhaltung der Pflichten der Anbieter aus den Prüfvereinbarungen nach § 4d Absatz 1, den beschränkten Zulassungen nach § 4e Absatz 1 und den Zulassungsverträgen nach § 4f Absatz 1 und ergreift die Maßnahmen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur Beseitigung festgestellter Verstöße oder zur Verhütung künftiger Verstöße erforderlich sind. Dazu gehört insbesondere die Befugnis, eine Prüfvereinbarung nach § 4d Absatz 1 oder einen Zulassungsvertrag nach § 4f Absatz 1 zu kündigen, wenn die Kündigungsvoraussetzungen vorliegen.
+(1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der Pflichten der Anbieter aus den Prüfvereinbarungen nach § 4d Absatz 1, den beschränkten Zulassungen nach § 4e Absatz 1 und den Zulassungsverträgen nach § 4f Absatz 1 und ergreift die Maßnahmen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur Beseitigung festgestellter Verstöße oder zur Verhütung künftiger Verstöße erforderlich sind. Dazu gehört insbesondere die Befugnis, eine Prüfvereinbarung nach § 4d Absatz 1 oder einen Zulassungsvertrag nach § 4f Absatz 1 zu kündigen, wenn die Kündigungsvoraussetzungen vorliegen.
 
-(2) Das Bundesamt für Güterverkehr hat die beschränkte Zulassung zu widerrufen, wenn die Voraussetzungen nach § 4f Absatz 1 nachträglich entfallen sind. Das Bundesamt für Güterverkehr hat die beschränkte Zulassung zurückzunehmen, wenn die Voraussetzungen nach § 4f Absatz 1 nicht vorgelegen haben.
+(2) Das Bundesamt für Logistik und Mobilität hat die beschränkte Zulassung zu widerrufen, wenn die Voraussetzungen nach § 4f Absatz 1 nachträglich entfallen sind. Das Bundesamt für Logistik und Mobilität hat die beschränkte Zulassung zurückzunehmen, wenn die Voraussetzungen nach § 4f Absatz 1 nicht vorgelegen haben.
 
-(3) Das Bundesamt für Güterverkehr kann die beschränkte Zulassung widerrufen, wenn der Anbieter gegen Pflichten verstößt, die sich aus diesem Gesetz, auf Grund dieses Gesetzes oder aus der Prüfvereinbarung nach § 4d Absatz 1 ergeben und deshalb eine ordnungsgemäße Durchführung des Pilotbetriebs nicht möglich ist.
+(3) Das Bundesamt für Logistik und Mobilität kann die beschränkte Zulassung widerrufen, wenn der Anbieter gegen Pflichten verstößt, die sich aus diesem Gesetz, auf Grund dieses Gesetzes oder aus der Prüfvereinbarung nach § 4d Absatz 1 ergeben und deshalb eine ordnungsgemäße Durchführung des Pilotbetriebs nicht möglich ist.
 
 (4) Widerspruch und Anfechtungsklage gegen Rücknahme oder Widerruf der beschränkten Zulassung haben keine aufschiebende Wirkung.
 
 # § 4h – Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d Absatz 2 und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich festzusetzen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Güterverkehr zu übertragen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d Absatz 2 und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich festzusetzen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
 # § 4i – Rechtsverordnungen zu Gebietsvorgaben
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach § 1 mautpflichtigen Straßen festzulegen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Güterverkehr zu übertragen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach § 1 mautpflichtigen Straßen festzulegen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
 # § 4j – Nutzerlisten
 
-(1) Der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter übermitteln dem Bundesamt für Güterverkehr auf elektronischem Weg zu den in Absatz 3 genannten Zwecken täglich Daten nach Satz 2 zu den jeweiligen Verträgen, die der Betreiber oder der Anbieter mit seinen Nutzern abgeschlossen hat (Nutzerlisten). In den Nutzerlisten sind folgende Daten zu speichern:
+(1) Der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter übermitteln dem Bundesamt für Logistik und Mobilität auf elektronischem Weg zu den in Absatz 3 genannten Zwecken täglich Daten nach Satz 2 zu den jeweiligen Verträgen, die der Betreiber oder der Anbieter mit seinen Nutzern abgeschlossen hat (Nutzerlisten). In den Nutzerlisten sind folgende Daten zu speichern:
 
 1. Kennzeichen des Fahrzeugs oder der Fahrzeugkombination,
 
@@ -283,7 +283,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 3. Vertragsnummer des Nutzers.
 
-(2) Auf Verlangen des Bundesamtes für Güterverkehr haben der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter folgende Daten zu den in Absatz 3 genannten Zwecken zu übermitteln:
+(2) Auf Verlangen des Bundesamtes für Logistik und Mobilität haben der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter folgende Daten zu den in Absatz 3 genannten Zwecken zu übermitteln:
 
 1. Name und Anschrift des Nutzers,
 
@@ -293,13 +293,13 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 4. Vertragsnummer des Nutzers.
 
-(3) Das Bundesamt für Güterverkehr darf die in den Absätzen 1 und 2 genannten Daten ausschließlich zur Wahrnehmung seiner hoheitlichen Aufgaben im Rahmen der Kontrolle der Einhaltung der Mautpflicht und Ahndung von Verstößen sowie bei der Überwachung des Betreibers und der nach § 4e oder § 4f zugelassenen Anbieter erheben, speichern und verwenden. Eine Übermittlung, Nutzung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
+(3) Das Bundesamt für Logistik und Mobilität darf die in den Absätzen 1 und 2 genannten Daten ausschließlich zur Wahrnehmung seiner hoheitlichen Aufgaben im Rahmen der Kontrolle der Einhaltung der Mautpflicht und Ahndung von Verstößen sowie bei der Überwachung des Betreibers und der nach § 4e oder § 4f zugelassenen Anbieter erheben, speichern und verwenden. Eine Übermittlung, Nutzung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 
-(4) Die Daten nach Absatz 1 sind vom Bundesamt für Güterverkehr drei Jahre nach Ablauf des Kalenderjahres, in dem sie übermittelt worden sind, zu löschen. Die Daten nach Absatz 2 sind vom Bundesamt für Güterverkehr nach Erfüllung des Zwecks ihrer Übermittlung, spätestens nach Ablauf der haushaltsrechtlichen Aufbewahrungsfristen unverzüglich zu löschen.
+(4) Die Daten nach Absatz 1 sind vom Bundesamt für Logistik und Mobilität drei Jahre nach Ablauf des Kalenderjahres, in dem sie übermittelt worden sind, zu löschen. Die Daten nach Absatz 2 sind vom Bundesamt für Logistik und Mobilität nach Erfüllung des Zwecks ihrer Übermittlung, spätestens nach Ablauf der haushaltsrechtlichen Aufbewahrungsfristen unverzüglich zu löschen.
 
 # § 5 – Nachweis der Mautentrichtung durch den Mautschuldner
 
-Der Mautschuldner hat auf Verlangen des Bundesamtes für Güterverkehr die ordnungsgemäße Entrichtung der Maut nachzuweisen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten über das Verfahren zum Nachweis der Mautentrichtung zu regeln. Im Falle des nicht ordnungsgemäßen Nachweises des zulässigen Gesamtgewichts des Fahrzeuges oder der Fahrzeugkombination wird der Mautteilsatz für die Infrastrukturkosten je nach Anzahl der Achsen nach dem Höchstsatz in Anlage 1 Nummer 1 Buchstabe c oder d berechnet. Im Falle des nicht ordnungsgemäßen Nachweises der Emissionsklasse des Fahrzeuges wird der Mautteilsatz für die verursachten Luftverschmutzungskosten nach dem Höchstsatz in Anlage 1 Nummer 2 Buchstabe a Doppelbuchstabe ff berechnet.
+Der Mautschuldner hat auf Verlangen des Bundesamtes für Logistik und Mobilität die ordnungsgemäße Entrichtung der Maut nachzuweisen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten über das Verfahren zum Nachweis der Mautentrichtung zu regeln. Im Falle des nicht ordnungsgemäßen Nachweises des zulässigen Gesamtgewichts des Fahrzeuges oder der Fahrzeugkombination wird der Mautteilsatz für die Infrastrukturkosten je nach Anzahl der Achsen nach dem Höchstsatz in Anlage 1 Nummer 1 Buchstabe c oder d berechnet. Im Falle des nicht ordnungsgemäßen Nachweises der Emissionsklasse des Fahrzeuges wird der Mautteilsatz für die verursachten Luftverschmutzungskosten nach dem Höchstsatz in Anlage 1 Nummer 2 Buchstabe a Doppelbuchstabe ff berechnet.
 
 (+++ § 5 Satz 4: Zur Anwendung vgl. § 7 Abs. 5 Lkw-MautV 2018 +++)
 
@@ -309,9 +309,9 @@ Der Betreiber hat die Einrichtungen für den Betrieb des Mauterhebungssystems un
 
 # § 7 – Kontrolle
 
-(1) Das Bundesamt für Güterverkehr überwacht die Einhaltung der Vorschriften dieses Gesetzes. Das Bundesamt für Güterverkehr kann sich bei der Kontrolle der Einhaltung der Mautpflicht der Hilfe des Betreibers im Sinne des § 4 Absatz 3 bedienen. Dem Betreiber kann zu diesem Zweck die Feststellung von Benutzungen mautpflichtiger Straßen im Sinne des § 1 und der ordnungsgemäßen Mautentrichtung übertragen werden.
+(1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der Vorschriften dieses Gesetzes. Das Bundesamt für Logistik und Mobilität kann sich bei der Kontrolle der Einhaltung der Mautpflicht der Hilfe des Betreibers im Sinne des § 4 Absatz 3 bedienen. Dem Betreiber kann zu diesem Zweck die Feststellung von Benutzungen mautpflichtiger Straßen im Sinne des § 1 und der ordnungsgemäßen Mautentrichtung übertragen werden.
 
-(2) Das Bundesamt für Güterverkehr und der Betreiber dürfen im Rahmen der Kontrolle folgende Daten erheben, speichern, verwenden und einander übermitteln:
+(2) Das Bundesamt für Logistik und Mobilität und der Betreiber dürfen im Rahmen der Kontrolle folgende Daten erheben, speichern, verwenden und einander übermitteln:
 
 1. Bild des Fahrzeugs,
 
@@ -333,11 +333,11 @@ Der Betreiber hat die Einrichtungen für den Betrieb des Mauterhebungssystems un
 
 Diese Daten dürfen ausschließlich zum Zweck der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 
-(3) Der Betreiber übermittelt darüber hinaus für die Durchführung der Kontrolle nach Absatz 1 dem Bundesamt für Güterverkehr die Daten über die Mautentrichtung nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9. Das Bundesamt für Güterverkehr darf die ihm übermittelten Daten auch zur Überwachung des Betreibers verarbeiten. Für Anbieter nach den §§ 4e und 4f gelten die Sätze 1 und 2 entsprechend. Erfolgt die Berechnung der Maut für die Nutzer der Anbieter nach den §§ 4e und 4f durch das Bundesamt für Güterverkehr nach § 4 Absatz 3a, darf das Bundesamt für Güterverkehr die Daten nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9 auch zur Überwachung der Anbieter nach den §§ 4e und 4f verarbeiten.
+(3) Der Betreiber übermittelt darüber hinaus für die Durchführung der Kontrolle nach Absatz 1 dem Bundesamt für Logistik und Mobilität die Daten über die Mautentrichtung nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9. Das Bundesamt für Logistik und Mobilität darf die ihm übermittelten Daten auch zur Überwachung des Betreibers verarbeiten. Für Anbieter nach den §§ 4e und 4f gelten die Sätze 1 und 2 entsprechend. Erfolgt die Berechnung der Maut für die Nutzer der Anbieter nach den §§ 4e und 4f durch das Bundesamt für Logistik und Mobilität nach § 4 Absatz 3a, darf das Bundesamt für Logistik und Mobilität die Daten nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9 auch zur Überwachung der Anbieter nach den §§ 4e und 4f verarbeiten.
 
-(3a) Das Bundesamt für Güterverkehr darf auf den nach § 1 Absatz 1 mautpflichtigen Straßen auch stichprobenartig optisch-elektronische Einrichtungen einsetzen, um zu überprüfen, ob der Betreiber die Einhaltung der Mautpflicht nach § 7 Absatz 1 Satz 2 ordnungsgemäß kontrolliert. § 4 des Bundesdatenschutzgesetzes ist nicht anzuwenden. Die erhobenen Daten dürfen ausschließlich zum dem in Satz 1 genannten Zweck gespeichert und verwendet werden; Absatz 2 Satz 3 gilt entsprechend.
+(3a) Das Bundesamt für Logistik und Mobilität darf auf den nach § 1 Absatz 1 mautpflichtigen Straßen auch stichprobenartig optisch-elektronische Einrichtungen einsetzen, um zu überprüfen, ob der Betreiber die Einhaltung der Mautpflicht nach § 7 Absatz 1 Satz 2 ordnungsgemäß kontrolliert. § 4 des Bundesdatenschutzgesetzes ist nicht anzuwenden. Die erhobenen Daten dürfen ausschließlich zum dem in Satz 1 genannten Zweck gespeichert und verwendet werden; Absatz 2 Satz 3 gilt entsprechend.
 
-(4) Die Mitarbeiter des Bundesamtes für Güterverkehr können Kraftfahrzeuge zum Zweck der Kontrolle der Einhaltung der Mautpflicht nach § 1 anhalten. Die zur Kontrolle berechtigten Personen sind befugt, Anordnungen zum Zweck der Durchführung der Kontrollmaßnahmen nach Satz 1 zu erteilen. Dies entbindet den Verkehrsteilnehmer nicht von seiner Sorgfaltspflicht.
+(4) Die Mitarbeiter des Bundesamtes für Logistik und Mobilität können Kraftfahrzeuge zum Zweck der Kontrolle der Einhaltung der Mautpflicht nach § 1 anhalten. Die zur Kontrolle berechtigten Personen sind befugt, Anordnungen zum Zweck der Durchführung der Kontrollmaßnahmen nach Satz 1 zu erteilen. Dies entbindet den Verkehrsteilnehmer nicht von seiner Sorgfaltspflicht.
 
 (5) Hat der Mautschuldner die Maut vor der Benutzung einer mautpflichtigen Straße im Sinne des § 1 entrichtet und ist ihm hierüber ein Beleg erteilt worden, so hat er diesen im Rahmen seiner Nachweispflicht nach § 5 bei der Benutzung einer mautpflichtigen Straße im Sinne des § 1 mitzuführen und auf Verlangen den zur Kontrolle befugten Personen zur Prüfung auszuhändigen. Er hat darüber hinaus den Fahrzeugschein oder die Zulassungsbescheinigung Teil I, die vorgeschriebenen Beförderungspapiere und den Führerschein den zur Kontrolle befugten Personen zur Prüfung auszuhändigen. Sofern für Fahrten eine Berechtigung (Erlaubnis nach dem Güterkraftverkehrsgesetz und Nachweise über die Beschäftigung und die Tätigkeiten des Fahrpersonals auf Kraftfahrzeugen, Gemeinschaftslizenz, CEMT-, CEMT-Umzugs- oder Drittstaatengenehmigung) oder ein Nachweis der Erfüllung bestimmter Technik-, Sicherheits- und Umweltanforderungen für das Kraftfahrzeug vorgeschrieben ist, gilt Satz 2 entsprechend. Der Fahrzeugführer hat auf Verlangen Auskunft über alle Tatsachen zu erteilen, die für die Durchführung der Kontrolle von Bedeutung sind.
 
@@ -351,11 +351,11 @@ nicht mitführt oder den zur Kontrolle befugten Personen nicht aushändigt.
 
 (7) Die zur Kontrolle befugten Personen sind berechtigt, die geschuldete Maut am Ort der Kontrolle zu erheben. § 8 Absatz 2 gilt entsprechend. Sie können die Weiterfahrt bis zur Entrichtung der Maut untersagen, wenn die Maut trotz Aufforderung am Ort der Kontrolle nicht entrichtet wird und Tatsachen vorliegen, die Zweifel an der späteren Einbringlichkeit der Maut begründen.
 
-(8) Weitergehende Befugnisse des Bundesamtes für Güterverkehr, die ihm nach anderen gesetzlichen Bestimmungen zur Überwachung der Einhaltung der Vorschriften nach diesem Gesetz zustehen, bleiben unberührt.
+(8) Weitergehende Befugnisse des Bundesamtes für Logistik und Mobilität, die ihm nach anderen gesetzlichen Bestimmungen zur Überwachung der Einhaltung der Vorschriften nach diesem Gesetz zustehen, bleiben unberührt.
 
 # § 8 – Nachträgliche Mauterhebung
 
-(1) Die Maut kann auch nachträglich durch Bescheid von jedem Mautschuldner der jeweiligen mautpflichtigen Straßenbenutzung erhoben werden. Der Bescheid kann mit einer Nebenbestimmung versehen werden. Dem Betreiber kann die nachträgliche Erhebung der Maut für die Fälle übertragen werden, in denen er nach § 7 Absatz 1 Satz 3 eine Benutzung einer mautpflichtigen Straße im Sinne des § 1 feststellt und die geschuldete Maut nicht entrichtet und nicht im Rahmen der Kontrolle gemäß § 7 Absatz 7 erhoben wurde. Widerspruchsbehörde ist das Bundesamt für Güterverkehr.
+(1) Die Maut kann auch nachträglich durch Bescheid von jedem Mautschuldner der jeweiligen mautpflichtigen Straßenbenutzung erhoben werden. Der Bescheid kann mit einer Nebenbestimmung versehen werden. Dem Betreiber kann die nachträgliche Erhebung der Maut für die Fälle übertragen werden, in denen er nach § 7 Absatz 1 Satz 3 eine Benutzung einer mautpflichtigen Straße im Sinne des § 1 feststellt und die geschuldete Maut nicht entrichtet und nicht im Rahmen der Kontrolle gemäß § 7 Absatz 7 erhoben wurde. Widerspruchsbehörde ist das Bundesamt für Logistik und Mobilität.
 
 (2) Kann im Verwaltungsverfahren über die nachträgliche Mauterhebung die tatsächliche Wegstrecke der Benutzung mautpflichtiger Straßen im Sinne des § 1 nicht festgestellt werden, wird eine Maut erhoben, die einer Wegstrecke von 500 Kilometern auf mautpflichtigen Straßen im Sinne des § 1 entspricht. Im Fall des Satzes 1 wird beim Mautteilsatz für die Infrastrukturkosten der Betrag nach Anlage 1 Nummer 1 Buchstabe d sowie beim Mautteilsatz für die verursachten Luftverschmutzungskosten der Betrag nach Anlage 1 Nummer 2 Buchstabe a Doppelbuchstabe ff zugrunde gelegt, es sei denn, der Mautschuldner kann nachweisen, dass eine günstigere Fallgruppe vorliegt. Beim Mautteilsatz für die Lärmbelastungskosten kommt der Betrag nach Anlage 1 Nummer 3 zur Anwendung. Eine nachträgliche Mauterhebung entfällt, soweit der Mautschuldner nachweislich die ihm obliegenden Pflichten bei der Mautentrichtung erfüllt hat.
 
@@ -371,9 +371,9 @@ Gegen Mautforderungen, die durch Verwaltungsakt nach § 7 Absatz 7 Satz 1 und §
 
 (1) Der Betreiber hat die nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9 gespeicherten Daten unverzüglich zu löschen, wenn ein Mauterstattungsverlangen nicht fristgerecht gestellt worden ist. Ist ein Erstattungsverlangen fristgerecht gestellt worden, sind die Daten unverzüglich nach Abschluss des Verfahrens zu löschen. Für Anbieter nach den §§ 4e und 4f gelten die Sätze 1 und 2 entsprechend.
 
-(1a) Die nach § 4 Absatz 3 Satz 3 Nummer 10 und nach § 4 Absatz 3a Satz 2 in Verbindung mit Absatz 3 Satz 3 Nummer 10 gespeicherten Daten sind unverzüglich nach Durchlaufen des Erkennungsprozesses vom Betreiber und vom Anbieter nach den §§ 4e und 4f automatisiert zu anonymisieren und spätestens nach 120 Tagen nach Durchlaufen des Erkennungsprozesses zu löschen. Erfolgt die Berechnung der Maut für die Nutzer der Anbieter nach den §§ 4e und 4f durch das Bundesamt für Güterverkehr nach § 4 Absatz 3a, gilt Satz 1 für das Bundesamt für Güterverkehr entsprechend. Ein Anbieter nach den §§ 4e und 4f muss die Daten nach § 4 Absatz 3 Satz 3 Nummer 10 unverzüglich nach dem Empfang der Mautbuchungsnachweise nach § 4 Absatz 3a Satz 3 löschen, spätestens aber 72 Stunden nach der Übermittlung der Daten nach § 4 Absatz 3 Satz 3 Nummer 10 an das Bundesamt für Güterverkehr.
+(1a) Die nach § 4 Absatz 3 Satz 3 Nummer 10 und nach § 4 Absatz 3a Satz 2 in Verbindung mit Absatz 3 Satz 3 Nummer 10 gespeicherten Daten sind unverzüglich nach Durchlaufen des Erkennungsprozesses vom Betreiber und vom Anbieter nach den §§ 4e und 4f automatisiert zu anonymisieren und spätestens nach 120 Tagen nach Durchlaufen des Erkennungsprozesses zu löschen. Erfolgt die Berechnung der Maut für die Nutzer der Anbieter nach den §§ 4e und 4f durch das Bundesamt für Logistik und Mobilität nach § 4 Absatz 3a, gilt Satz 1 für das Bundesamt für Logistik und Mobilität entsprechend. Ein Anbieter nach den §§ 4e und 4f muss die Daten nach § 4 Absatz 3 Satz 3 Nummer 10 unverzüglich nach dem Empfang der Mautbuchungsnachweise nach § 4 Absatz 3a Satz 3 löschen, spätestens aber 72 Stunden nach der Übermittlung der Daten nach § 4 Absatz 3 Satz 3 Nummer 10 an das Bundesamt für Logistik und Mobilität.
 
-(2) Das Bundesamt für Güterverkehr hat die Daten nach § 4 Absatz 3 Satz 3 Nummer 5 vier Jahre nach Ablauf des Kalenderjahres, in dem die mautpflichtige Benutzung von Straßen beendet wurde, zu löschen. Die übrigen nach § 7 Absatz 3 Satz 1 übermittelten Daten sind sechs Jahre nach der Übermittlung zu löschen.
+(2) Das Bundesamt für Logistik und Mobilität hat die Daten nach § 4 Absatz 3 Satz 3 Nummer 5 vier Jahre nach Ablauf des Kalenderjahres, in dem die mautpflichtige Benutzung von Straßen beendet wurde, zu löschen. Die übrigen nach § 7 Absatz 3 Satz 1 übermittelten Daten sind sechs Jahre nach der Übermittlung zu löschen.
 
 (3) Die Daten nach § 7 Absatz 2 Satz 1 sind unverzüglich zu löschen,
 
@@ -385,15 +385,15 @@ Gegen Mautforderungen, die durch Verwaltungsakt nach § 7 Absatz 7 Satz 1 und §
 
 1. vom Betreiber nach Abschluss des Nacherhebungsverfahrens,
 
-2. vom Bundesamt für Güterverkehr zwei Jahre, nachdem die Daten erstmalig gespeichert worden sind.
+2. vom Bundesamt für Logistik und Mobilität zwei Jahre, nachdem die Daten erstmalig gespeichert worden sind.
 
 (5) Bilder und Daten, die im Rahmen der Kontrolle nach § 7 Absatz 2 erhoben und gespeichert wurden, sind unmittelbar nach dem Kontrollvorgang zu löschen, wenn das Kraftfahrzeug nicht der Mautpflicht unterliegt.
 
-(5a) Das Bundesamt für Güterverkehr hat die Daten nach § 7 Absatz 3a Satz 1 drei Monate nach Aufzeichnung zu löschen. Abweichend von Satz 1 hat es die Daten sechs Jahre nach Ende des Kalenderjahres, in dem sie erhoben wurden, zu löschen, wenn sich ein mit dieser Datenerhebung dokumentierter Messfall ursächlich auf die Höhe der Vergütung des Betreibers auswirkt.
+(5a) Das Bundesamt für Logistik und Mobilität hat die Daten nach § 7 Absatz 3a Satz 1 drei Monate nach Aufzeichnung zu löschen. Abweichend von Satz 1 hat es die Daten sechs Jahre nach Ende des Kalenderjahres, in dem sie erhoben wurden, zu löschen, wenn sich ein mit dieser Datenerhebung dokumentierter Messfall ursächlich auf die Höhe der Vergütung des Betreibers auswirkt.
 
 (6) Nach diesem Gesetz gespeicherte Daten dürfen in anonymisierter Form für statistische Zwecke und für Zwecke des Verkehrsmanagements verwendet werden.
 
-(7) Das Bundesamt für Güterverkehr übermittelt in anonymisierter Form die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 in regelmäßigen Abständen an das vom Bundesministerium für Verkehr und digitale Infrastruktur betriebene offene Datenportal mCLOUD oder ein Nachfolgeportal, auf dem die Daten allen Interessierten gebührenfrei und in standardisierter Form zur Verfügung gestellt werden.
+(7) Das Bundesamt für Logistik und Mobilität übermittelt in anonymisierter Form die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 in regelmäßigen Abständen an das vom Bundesministerium für Verkehr und digitale Infrastruktur betriebene offene Datenportal mCLOUD oder ein Nachfolgeportal, auf dem die Daten allen Interessierten gebührenfrei und in standardisierter Form zur Verfügung gestellt werden.
 
 # § 10 – Bußgeldvorschriften
 
@@ -411,7 +411,7 @@ Gegen Mautforderungen, die durch Verwaltungsakt nach § 7 Absatz 7 Satz 1 und §
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 und 2 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität.
 
 # § 10a – Kostentragungspflicht bei Nichtermittelbarkeit des Führers des Motorfahrzeugs
 

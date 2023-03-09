@@ -21,9 +21,9 @@ b) in den übrigen Fällen das Hauptzollamt, das zuerst mit der Sache befasst wi
 
 3. für widerrechtlich benutzte Fahrzeuge das Hauptzollamt, das zuerst mit der Sache befasst wird oder bei Einhaltung der verkehrsrechtlich vorgeschriebenen Zulassung nach Nummer 1 zuständig wäre.
 
-# § 2 – Mitwirkung des Bundesamtes für Güterverkehr
+# § 2 – Mitwirkung des Bundesamtes für Logistik und Mobilität
 
-Das Bundesamt für Güterverkehr überwacht die Einhaltung der kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer 3 Buchstabe d und Absatz 3 des Güterkraftverkehrsgesetzes.
+Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer 3 Buchstabe d und Absatz 3 des Güterkraftverkehrsgesetzes.
 
 # § 3 – Steuererklärung
 
@@ -166,7 +166,7 @@ In den Fällen des Satzes 1 Nummer 2 kann die Steuererklärung vor dem Eingang d
 
 # § 13 – Mitführ- und Auskunftspflichten des Steuerschuldners
 
-(1) Der Steuerschuldner hat die Steuerkarte mitzuführen und auf Verlangen den Bediensteten der Zollverwaltung, der Polizei oder des Bundesamtes für Güterverkehr vorzuzeigen.
+(1) Der Steuerschuldner hat die Steuerkarte mitzuführen und auf Verlangen den Bediensteten der Zollverwaltung, der Polizei oder des Bundesamtes für Logistik und Mobilität vorzuzeigen.
 
 (2) In den Fällen des § 10 Nummer 1 hat der Steuerschuldner die Steuerkarte bei jedem Grenzübertritt vorzulegen und den in Absatz 1 genannten Behörden auf Verlangen Auskunft zu erteilen.
 

@@ -27,9 +27,9 @@ Auf Grund des § 3 Absatz 6, der §§ 17a und 23 Absatz 3 und 5 des Güterkraftv
 
 Ändert sich nach der Erteilung der Gemeinschaftslizenz eine der in Artikel 16 Absatz 2 Buchstabe a bis d der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG (ABl. L 300 vom 14.11.2009, S. 51) genannten Angaben, eine zur Vertretung ermächtigte Person oder das zuständige Amtsgericht, falls das Unternehmen im Handels- oder Genossenschaftsregister eingetragen ist, so hat der Unternehmer dies der nach Landesrecht zuständigen Behörde unverzüglich mitzuteilen und auf Verlangen nachzuweisen. Ist nach Auffassung der nach Landesrecht zuständigen Behörde eine Änderung der Lizenzurkunde erforderlich, so hat das Unternehmen die Lizenzurkunde und deren beglaubigten Kopien unverzüglich vorzulegen.
 
-# § 3 – Zuständigkeiten des Bundesamtes für Güterverkehr (Bundesamt)
+# § 3 – Zuständigkeiten des Bundesamtes für Logistik und Mobilität (Bundesamt)
 
-Das Bundesamt für Güterverkehr (Bundesamt) ist zuständig für die Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen nach Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
+Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen nach Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
 
 # § 4 – Geltungsbereich, Erteilung und Entziehung der CEMT-Genehmigung
 

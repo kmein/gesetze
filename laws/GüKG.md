@@ -111,7 +111,7 @@ Abschnitt
 
  
 
-Bundesamt für Güterverkehr
+Bundesamt für Logistik und Mobilität
 
  
 
@@ -317,9 +317,9 @@ c) mit land- und forstwirtschaftlichen Fahrzeugen mit einer bauartbedingten Höc
 
 (5) Eine Erlaubnis ist zurückzunehmen, wenn nachträglich bekannt wird, dass die Erlaubnis hätte versagt werden müssen. Eine Erlaubnis ist zu widerrufen, wenn nachträglich Tatsachen eintreten, die zur Versagung hätten führen müssen. Die Finanzbehörden dürfen die nach Landesrecht zuständigen Behörden davon in Kenntnis setzen, dass der Unternehmer die ihm obliegenden steuerrechtlichen Verpflichtungen wiederholt nicht erfüllt hat oder eine eidesstattliche Versicherung nach § 284 der Abgabenordnung abgegeben hat.
 
-(5a) Rechtzeitig vor der Entscheidung über die Erteilung, die Rücknahme oder den Widerruf der Erlaubnis und von Erlaubnisausfertigungen gibt die nach Landesrecht zuständige Behörde dem Bundesamt für Güterverkehr, den beteiligten Verbänden des Verkehrsgewerbes, der fachlich zuständigen Gewerkschaft und der zuständigen Industrie- und Handelskammer Gelegenheit zur Stellungnahme. Vor der Entscheidung über die Erteilung, die Rücknahme oder den Widerruf von Erlaubnisausfertigungen kann die nach Landesrecht zuständige Behörde hiervon absehen.
+(5a) Rechtzeitig vor der Entscheidung über die Erteilung, die Rücknahme oder den Widerruf der Erlaubnis und von Erlaubnisausfertigungen gibt die nach Landesrecht zuständige Behörde dem Bundesamt für Logistik und Mobilität, den beteiligten Verbänden des Verkehrsgewerbes, der fachlich zuständigen Gewerkschaft und der zuständigen Industrie- und Handelskammer Gelegenheit zur Stellungnahme. Vor der Entscheidung über die Erteilung, die Rücknahme oder den Widerruf von Erlaubnisausfertigungen kann die nach Landesrecht zuständige Behörde hiervon absehen.
 
-(5b) Rechtfertigen Tatsachen die Annahme, dass der Unternehmer oder der Verkehrsleiter die Voraussetzungen hinsichtlich der Zuverlässigkeit nach Artikel 6 der Verordnung (EG) Nr. 1071/2009 nicht erfüllt, kann dem Unternehmer oder dem Verkehrsleiter die Führung von Güterkraftverkehrsgeschäften untersagt werden. Das Untersagungsverfahren gegen diese Personen kann unabhängig vom Verlauf eines Verfahrens auf Widerruf der Erlaubnis fortgesetzt werden. Auf Antrag ist dem Unternehmer oder dem Verkehrsleiter die Führung von Güterkraftverkehrsgeschäften wieder zu gestatten, wenn Tatsachen die Annahme rechtfertigen, dass eine Unzuverlässigkeit im Sinne des Satzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres nach Bestandskraft der Untersagungsverfügung kann die Wiederaufnahme nur gestattet werden, wenn hierfür besondere Gründe vorliegen. Rechtzeitig vor der Entscheidung über die Untersagung der Führung von Güterkraftverkehrsgeschäften gegenüber dem Unternehmer oder dem Verkehrsleiter gibt die nach Landesrecht zuständige Behörde dem Bundesamt für Güterverkehr Gelegenheit zur Stellungnahme.
+(5b) Rechtfertigen Tatsachen die Annahme, dass der Unternehmer oder der Verkehrsleiter die Voraussetzungen hinsichtlich der Zuverlässigkeit nach Artikel 6 der Verordnung (EG) Nr. 1071/2009 nicht erfüllt, kann dem Unternehmer oder dem Verkehrsleiter die Führung von Güterkraftverkehrsgeschäften untersagt werden. Das Untersagungsverfahren gegen diese Personen kann unabhängig vom Verlauf eines Verfahrens auf Widerruf der Erlaubnis fortgesetzt werden. Auf Antrag ist dem Unternehmer oder dem Verkehrsleiter die Führung von Güterkraftverkehrsgeschäften wieder zu gestatten, wenn Tatsachen die Annahme rechtfertigen, dass eine Unzuverlässigkeit im Sinne des Satzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres nach Bestandskraft der Untersagungsverfügung kann die Wiederaufnahme nur gestattet werden, wenn hierfür besondere Gründe vorliegen. Rechtzeitig vor der Entscheidung über die Untersagung der Führung von Güterkraftverkehrsgeschäften gegenüber dem Unternehmer oder dem Verkehrsleiter gibt die nach Landesrecht zuständige Behörde dem Bundesamt für Logistik und Mobilität Gelegenheit zur Stellungnahme.
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen, durch die
 
@@ -447,7 +447,7 @@ Der Werkverkehr ist erlaubnisfrei. Es besteht keine Versicherungspflicht.
 
 # § 10 – Organisation
 
-(1) Das Bundesamt für Güterverkehr (Bundesamt) ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Es wird von dem Präsidenten geleitet.
+(1) Das Bundesamt für Logistik und Mobilität (Bundesamt) ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr. Es wird von dem Präsidenten geleitet.
 
 (2) Der Aufbau des Bundesamtes wird durch das Bundesministerium für Verkehr und digitale Infrastruktur geregelt.
 
@@ -587,7 +587,7 @@ Die Zuständigkeit des Bundesamtes nach Satz 1 umfasst sämtliche Aufgaben im Zu
 
 # § 14b – Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
 
-(1) Das Bundesamt für Güterverkehr ist zuständig für die Aufgaben nach den Artikeln 4, 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1).
+(1) Das Bundesamt ist zuständig für die Aufgaben nach den Artikeln 4, 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1).
 
 (2) Bei der Kontrolle der Einhaltung der Bestimmungen nach Artikel 21 gilt § 12 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und Satz 2 und 3 entsprechend; bei der Verfolgung von Zuwiderhandlungen gilt § 20 entsprechend.
 

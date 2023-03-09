@@ -923,10 +923,6 @@ sowie
 
 Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
 
-# § 33a – (zukünftig in Kraft)
-
-# § 33b – (zukünftig in Kraft)
-
 # § 34 – Einsatz technischer Mittel zur Eigensicherung
 
 (1) Werden vom Bundeskriminalamt beauftragte Personen im Rahmen der Befugnisse des Bundeskriminalamtes aus Gründen der Strafverfolgung tätig, dürfen, soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder Freiheit unerlässlich ist, ohne Wissen der betroffenen Personen im Beisein oder in unmittelbarem zeitlichem Zusammenhang mit dem Einsatz der vom Bundeskriminalamt beauftragten Person das innerhalb oder außerhalb einer Wohnung nicht öffentlich gesprochene Wort mit technischen Mitteln abgehört und aufgezeichnet und Lichtbilder und Bildaufzeichnungen hergestellt werden.

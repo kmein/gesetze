@@ -787,12 +787,6 @@ Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts
 
 §§ 301 bis 304
 
-(weggefallen)
-
- 
-
-§§ 305 bis 312
-
  
 
 Sechstes Buch

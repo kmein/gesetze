@@ -561,7 +561,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nummer 3 und 7 Buchstabe a mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(4) Soweit eine Ordnungswidrigkeit nach Absatz 1 oder nach Absatz 2 Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Güterverkehr festgestellt wird oder in einem Unternehmen begangen wird, das seinen Sitz im Ausland hat, ist das Bundesamt für Güterverkehr Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+(4) Soweit eine Ordnungswidrigkeit nach Absatz 1 oder nach Absatz 2 Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Logistik und Mobilität festgestellt wird oder in einem Unternehmen begangen wird, das seinen Sitz im Ausland hat, ist das Bundesamt für Logistik und Mobilität Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
 # § 29 – (weggefallen)
 

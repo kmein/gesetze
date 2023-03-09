@@ -1543,7 +1543,7 @@ die Fahrerlaubnisnummer,
 
 2. die mit den Aufgaben nach § 2 des Bundespolizeigesetzes betrauten Stellen der Zollverwaltung und die Zollfahndungsdienststellen,
 
-3. das Bundesamt für Güterverkehr,
+3. das Bundesamt für Logistik und Mobilität,
 
 4. die Polizeibehörden der Länder.
 
