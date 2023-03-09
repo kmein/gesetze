@@ -290,9 +290,9 @@ bei der Infrastrukturabgabebehörde zu stellen. § 32 des Verwaltungsverfahrensg
 
 # § 11 – Überwachung
 
-(1) Das Bundesamt für Güterverkehr überwacht stichprobenartig die Einhaltung der Abgabenpflicht nach diesem Gesetz. Das Bundesamt für Güterverkehr kann sich dabei der Mitwirkung eines privaten Dritten bedienen. Die Mitwirkung ist vom Bundesamt für Güterverkehr im Bundesanzeiger bekannt zu geben. Dem privaten Dritten nach Satz 2 kann zu diesem Zweck die Feststellung von Benutzungen von Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, und der ordnungsgemäßen Abgabenentrichtung übertragen werden.
+(1) Das Bundesamt für Logistik und Mobilität überwacht stichprobenartig die Einhaltung der Abgabenpflicht nach diesem Gesetz. Das Bundesamt für Logistik und Mobilität kann sich dabei der Mitwirkung eines privaten Dritten bedienen. Die Mitwirkung ist vom Bundesamt für Logistik und Mobilität im Bundesanzeiger bekannt zu geben. Dem privaten Dritten nach Satz 2 kann zu diesem Zweck die Feststellung von Benutzungen von Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, und der ordnungsgemäßen Abgabenentrichtung übertragen werden.
 
-(2) Soweit es zum Zwecke der Überwachung erforderlich ist, dürfen das Bundesamt für Güterverkehr und der private Dritte im Sinne des Absatzes 1 Satz 2 im Rahmen der Überwachung, hinsichtlich Nummer 2 nur im Rahmen einer Vor-Ort-Kontrolle, folgende Daten erheben, speichern und verwenden:
+(2) Soweit es zum Zwecke der Überwachung erforderlich ist, dürfen das Bundesamt für Logistik und Mobilität und der private Dritte im Sinne des Absatzes 1 Satz 2 im Rahmen der Überwachung, hinsichtlich Nummer 2 nur im Rahmen einer Vor-Ort-Kontrolle, folgende Daten erheben, speichern und verwenden:
 
 1. Bild des Kraftfahrzeugs ohne Erfassung der Fahrzeuginsassen,
 
@@ -306,19 +306,19 @@ bei der Infrastrukturabgabebehörde zu stellen. § 32 des Verwaltungsverfahrensg
 
 6. Klasse und Art des Aufbaus im Sinne des Anhangs II der Richtlinie 2007/46/EG.
 
-Diese Daten dürfen ausschließlich zum Zweck der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden. Der private Dritte im Sinne des Absatzes 1 Satz 2 darf die Daten nach Satz 1 an das Bundesamt für Güterverkehr übermitteln.
+Diese Daten dürfen ausschließlich zum Zweck der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden. Der private Dritte im Sinne des Absatzes 1 Satz 2 darf die Daten nach Satz 1 an das Bundesamt für Logistik und Mobilität übermitteln.
 
-(3) Das Bundesamt für Güterverkehr und der private Dritte im Sinne des Absatzes 1 Satz 2 übermitteln die Daten nach Absatz 2 Satz 1 Nummer 3 bis 6 zum Zweck der Überwachung des Betreibers nach § 4 Absatz 1 Satz 2 an das Kraftfahrt-Bundesamt. Das Kraftfahrt-Bundesamt darf die ihm nach Satz 1 übermittelten Daten zu dem dort genannten Zweck speichern und verwenden. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
+(3) Das Bundesamt für Logistik und Mobilität und der private Dritte im Sinne des Absatzes 1 Satz 2 übermitteln die Daten nach Absatz 2 Satz 1 Nummer 3 bis 6 zum Zweck der Überwachung des Betreibers nach § 4 Absatz 1 Satz 2 an das Kraftfahrt-Bundesamt. Das Kraftfahrt-Bundesamt darf die ihm nach Satz 1 übermittelten Daten zu dem dort genannten Zweck speichern und verwenden. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 
-(4) Das Kraftfahrt-Bundesamt darf die Daten nach § 6 Absatz 2 dem Bundesamt für Güterverkehr sowie dem privaten Dritten nach Absatz 1 Satz 2 zum Zweck der Durchführung der Überwachung übermitteln. Die Übermittlung nach Satz 1 aus dem Infrastrukturabgaberegister an das Bundesamt für Güterverkehr sowie den privaten Dritten nach Absatz 1 Satz 2 kann durch Abruf im automatisierten Verfahren erfolgen. Das Bundesamt für Güterverkehr darf die ihm übermittelten Daten auch zur Überwachung des privaten Dritten nach Absatz 1 Satz 2 verarbeiten.
+(4) Das Kraftfahrt-Bundesamt darf die Daten nach § 6 Absatz 2 dem Bundesamt für Logistik und Mobilität sowie dem privaten Dritten nach Absatz 1 Satz 2 zum Zweck der Durchführung der Überwachung übermitteln. Die Übermittlung nach Satz 1 aus dem Infrastrukturabgaberegister an das Bundesamt für Logistik und Mobilität sowie den privaten Dritten nach Absatz 1 Satz 2 kann durch Abruf im automatisierten Verfahren erfolgen. Das Bundesamt für Logistik und Mobilität darf die ihm übermittelten Daten auch zur Überwachung des privaten Dritten nach Absatz 1 Satz 2 verarbeiten.
 
 (5) Der Fahrzeugführer hat den Fahrzeugschein oder die Zulassungsbescheinigung Teil I und den Führerschein oder einen anderen Identitätsnachweis den zur Überwachung befugten Personen zur Prüfung auszuhändigen. Sofern für Fahrten ein Nachweis der Erfüllung bestimmter Technik-, Sicherheits- und Umweltanforderungen für das Kraftfahrzeug vorgeschrieben ist, gilt Satz 1 entsprechend. Der Fahrzeugführer hat auf Verlangen Auskunft über alle Tatsachen zu erteilen, die für die Durchführung der Überwachung von Bedeutung sind.
 
-(6) Die zur Überwachung befugten Personen des Bundesamtes für Güterverkehr können Kraftfahrzeuge zum Zweck der Überwachung der Einhaltung der Abgabenpflicht nach § 1 anhalten. Die Zeichen und Weisungen der zur Überwachung befugten Personen sind zu befolgen. Dies entbindet den Verkehrsteilnehmer nicht von seiner Sorgfaltspflicht.
+(6) Die zur Überwachung befugten Personen des Bundesamtes für Logistik und Mobilität können Kraftfahrzeuge zum Zweck der Überwachung der Einhaltung der Abgabenpflicht nach § 1 anhalten. Die Zeichen und Weisungen der zur Überwachung befugten Personen sind zu befolgen. Dies entbindet den Verkehrsteilnehmer nicht von seiner Sorgfaltspflicht.
 
-(7) Die zur Überwachung befugten Personen des Bundesamtes für Güterverkehr sind berechtigt, die Infrastrukturabgabe nach § 12 und eine Sicherheitsleistung in Höhe des zu erwartenden Bußgeldes nach § 14 nebst Verfahrenskosten am Ort der Überwachung zu erheben. Sie können die Weiterfahrt bis zur Entrichtung der Infrastrukturabgabe untersagen, wenn die Infrastrukturabgabe trotz Aufforderung am Ort der Überwachung nicht entrichtet wird und Tatsachen vorliegen, die Zweifel an der späteren Einbringlichkeit der Infrastrukturabgabe nach § 12 begründen. Sie können die Weiterfahrt ferner untersagen, wenn die zur Durchführung der Überwachung erforderlichen Unterlagen nicht ausgehändigt werden, die verlangten Auskünfte nicht erteilt werden oder eine nach § 46 Absatz 1 des Gesetzes über Ordnungswidrigkeiten in Verbindung mit § 132 Absatz 1 Nummer 1 der Strafprozessordnung angeordnete Sicherheitsleistung nicht oder nicht vollständig erbracht wird.
+(7) Die zur Überwachung befugten Personen des Bundesamtes für Logistik und Mobilität sind berechtigt, die Infrastrukturabgabe nach § 12 und eine Sicherheitsleistung in Höhe des zu erwartenden Bußgeldes nach § 14 nebst Verfahrenskosten am Ort der Überwachung zu erheben. Sie können die Weiterfahrt bis zur Entrichtung der Infrastrukturabgabe untersagen, wenn die Infrastrukturabgabe trotz Aufforderung am Ort der Überwachung nicht entrichtet wird und Tatsachen vorliegen, die Zweifel an der späteren Einbringlichkeit der Infrastrukturabgabe nach § 12 begründen. Sie können die Weiterfahrt ferner untersagen, wenn die zur Durchführung der Überwachung erforderlichen Unterlagen nicht ausgehändigt werden, die verlangten Auskünfte nicht erteilt werden oder eine nach § 46 Absatz 1 des Gesetzes über Ordnungswidrigkeiten in Verbindung mit § 132 Absatz 1 Nummer 1 der Strafprozessordnung angeordnete Sicherheitsleistung nicht oder nicht vollständig erbracht wird.
 
-(8) Weitergehende Befugnisse des Bundesamtes für Güterverkehr, die ihm nach anderen gesetzlichen Bestimmungen zustehen, bleiben unberührt.
+(8) Weitergehende Befugnisse des Bundesamtes für Logistik und Mobilität, die ihm nach anderen gesetzlichen Bestimmungen zustehen, bleiben unberührt.
 
 # § 12 – Nachträgliche Erhebung der Infrastrukturabgabe
 
@@ -350,7 +350,7 @@ genutzt werden. In den Fällen des Satzes 1 Nummer 1 entspricht die nachträglic
 
 (3) Ergänzend zu § 41 Absatz 2 des Verwaltungsverfahrensgesetzes gilt für die Bekanntgabe von Verwaltungsakten im Ausland § 122 Absatz 2 Nummer 2 der Abgabenordnung entsprechend.
 
-(4) Abweichend von Absatz 1 Satz 1 ist für die nachträgliche Erhebung der Abgabe das Bundesamt für Güterverkehr zuständig, wenn die Erhebung im Rahmen der dem Bundesamt für Güterverkehr obliegenden Überwachung nach § 11 Absatz 1 erfolgt.
+(4) Abweichend von Absatz 1 Satz 1 ist für die nachträgliche Erhebung der Abgabe das Bundesamt für Logistik und Mobilität zuständig, wenn die Erhebung im Rahmen der dem Bundesamt für Logistik und Mobilität obliegenden Überwachung nach § 11 Absatz 1 erfolgt.
 
 # § 13 – Datenlöschung, Geschäftsstatistiken
 
@@ -374,7 +374,7 @@ genutzt werden. In den Fällen des Satzes 1 Nummer 1 entspricht die nachträglic
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität.
 
 # § 15 – Abgabenaufkommen
 

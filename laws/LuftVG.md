@@ -1955,7 +1955,7 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 2. das Bundesministerium für Verkehr und digitale Infrastruktur im Bereich der Aufgaben, die nach den §§ 31a bis 31c den dort genannten natürlichen oder juristischen Personen des privaten Rechts übertragen sind; § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend,
 
-3. das Bundesamt für Güterverkehr im Bereich der Vorlage und Untersagung von Beförderungsentgelten nach den §§ 21 und 21a,
+3. das Bundesamt für Logistik und Mobilität im Bereich der Vorlage und Untersagung von Beförderungsentgelten nach den §§ 21 und 21a,
 
 4. das Bundesaufsichtsamt für Flugsicherung für Ordnungswidrigkeiten nach § 58 Abs. 1 Nr. 10 im Zusammenhang mit der Verletzung von Regeln über das Führen von Luftfahrzeugen, Flüge nach Sichtflug- oder Instrumentenflugregeln, Flugverfahren und die damit verbundenen Festlegungen und Anordnungen der Flugverkehrskontrolle sowie für Ordnungswidrigkeiten, die von militärischen Luftfahrzeugführern mit militärischen Luftfahrzeugen begangen werden.
 

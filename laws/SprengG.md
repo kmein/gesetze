@@ -1536,7 +1536,7 @@ zuwiderhandelt,
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 1b, 4, 6, 11 und 12 sowie 16, soweit sich die Rechtsverordnung auf Auskunfts-, Mitteilungs- oder Anzeigepflichten bezieht, mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen des Absatzes 1 und in den Fällen des Absatzes 1a mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(3) Wird eine Zuwiderhandlung nach Absatz 1 Nummer 5a oder Nummer 12 von einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
+(3) Wird eine Zuwiderhandlung nach Absatz 1 Nummer 5a oder Nummer 12 von einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und Mobilität.
 
 # § 42 – Strafbare Verletzung von Schutzvorschriften
 

@@ -129,7 +129,7 @@ Folgende Behörden dürfen den Namen und die Anschrift, Geburtsdatum und -ort, T
 
 3. die zuständigen Polizeibehörden einschließlich des Bundeskriminalamtes und der Landeskriminalämter,
 
-4. das Bundesamt für Güterverkehr, das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, die Bundesanstalt für Landwirtschaft und Ernährung und das Auswärtige Amt.
+4. das Bundesamt für Logistik und Mobilität, das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, die Bundesanstalt für Landwirtschaft und Ernährung und das Auswärtige Amt.
 
 (2) Soweit in diesem Gesetz und in den Abfallgesetzen des Bundes und der Länder nichts anderes bestimmt ist, dürfen personenbezogene Daten nur bei den betroffenen Personen erhoben werden. Ohne deren Mitwirkung dürfen sie nur erhoben werden,
 
@@ -159,7 +159,7 @@ b) die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand 
 
 (1) Die zuständigen Landesbehörden führen gemäß Artikel 34 der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24), die zuletzt durch die Richtlinie (EU) 2015/1127 (ABl. L 184 vom 11.7.2015, S. 13) geändert worden ist, Kontrollen von Einrichtungen, Unternehmen, Maklern und Händlern gemäß Artikel 50 Absatz 2 der Verordnung (EG) Nr. 1013/2006 und auf der Grundlage von nach § 11a erstellten Kontrollplänen durch.
 
-(2) Die gemäß § 14 Absatz 1 und 2 Satz 1 zuständigen Behörden kontrollieren die Verbringung von Abfällen und die damit verbundene Verwertung oder Beseitigung gemäß Artikel 50 Absatz 2 und 3 bis 4d der Verordnung (EG) Nr. 1013/2006 und auf der Grundlage von nach § 11a erstellten Kontrollplänen. Bei der Kontrolle von Verbringungen von Abfällen wirken die vom Bundesministerium der Finanzen bestimmten Zollbehörden sowie das Bundesamt für Güterverkehr im Rahmen ihrer bestehenden Aufgaben mit. Die Zollbehörden und das Bundesamt für Güterverkehr arbeiten im Rahmen ihrer Möglichkeiten mit den zuständigen Landesbehörden zusammen.
+(2) Die gemäß § 14 Absatz 1 und 2 Satz 1 zuständigen Behörden kontrollieren die Verbringung von Abfällen und die damit verbundene Verwertung oder Beseitigung gemäß Artikel 50 Absatz 2 und 3 bis 4d der Verordnung (EG) Nr. 1013/2006 und auf der Grundlage von nach § 11a erstellten Kontrollplänen. Bei der Kontrolle von Verbringungen von Abfällen wirken die vom Bundesministerium der Finanzen bestimmten Zollbehörden sowie das Bundesamt für Logistik und Mobilität im Rahmen ihrer bestehenden Aufgaben mit. Die Zollbehörden und das Bundesamt für Logistik und Mobilität arbeiten im Rahmen ihrer Möglichkeiten mit den zuständigen Landesbehörden zusammen.
 
 (3) Besteht der Verdacht eines Verstoßes gegen Bestimmungen der Verordnung (EG) Nr. 1013/2006 oder dieses Gesetzes, insbesondere der Verdacht einer illegalen Verbringung, unterrichten die in den Absätzen 1 und 2 genannten Behörden die Landesbehörde, die für das Gebiet zuständig ist, in dem die Kontrolle durchgeführt wurde, sowie
 
@@ -169,7 +169,7 @@ b) die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand 
 
 3. im Falle der Verbringung durch das Bundesgebiet die für die Durchfuhr zuständige Behörde gemäß § 14 Abs. 4
 
-unverzüglich schriftlich oder elektronisch über den Verdacht und die Gründe dafür. Dies gilt nicht, falls das Bundesamt für Güterverkehr den alleinigen Verdacht eines Verstoßes gegen die Kennzeichnungspflicht gemäß § 10 Absatz 1 Satz 1 hat und entweder für dessen Verfolgung nach § 18 Absatz 5 zuständig ist oder den Vorgang an die zuständige Behörde des jeweiligen Landes abgibt.
+unverzüglich schriftlich oder elektronisch über den Verdacht und die Gründe dafür. Dies gilt nicht, falls das Bundesamt für Logistik und Mobilität den alleinigen Verdacht eines Verstoßes gegen die Kennzeichnungspflicht gemäß § 10 Absatz 1 Satz 1 hat und entweder für dessen Verfolgung nach § 18 Absatz 5 zuständig ist oder den Vorgang an die zuständige Behörde des jeweiligen Landes abgibt.
 
 (4) Nachdem die Landesbehörde, die für das Gebiet zuständig ist, in dem die Kontrolle durchgeführt wurde, gemäß Absatz 3 unterrichtet wurde und den Verdacht und die Gründe dafür als stichhaltig erachtet, stellt sie auf Kosten und Gefahr der verfügungsberechtigten Person sicher, dass Vorkehrungen für die sichere Lagerung getroffen werden, bis
 
@@ -195,7 +195,7 @@ anderweitig entschieden hat oder haben und ihr ihre Entscheidung schriftlich ode
 
 1. beteiligen sich die Länder untereinander, soweit die Inhalte der Kontrollpläne andere Länder betreffen, und
 
-2. führen die Länder das Einvernehmen mit den zuständigen Zollbehörden und dem Bundesamt für Güterverkehr herbei bezüglich der Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für Güterverkehr betreffen; die Generalzolldirektion und das Bundesamt für Güterverkehr teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
+2. führen die Länder das Einvernehmen mit den zuständigen Zollbehörden und dem Bundesamt für Logistik und Mobilität herbei bezüglich der Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für Güterverkehr betreffen; die Generalzolldirektion und das Bundesamt für Güterverkehr teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
 
 # § 12 – Maßnahmen zur Überwachung
 
@@ -247,7 +247,7 @@ Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur D
 
 (1) Für die Übermittlung von Informationen nach Artikel 13 des Basler Übereinkommens an das Sekretariat des Basler Übereinkommens ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die nach Artikel 13 des Basler Übereinkommens erforderlich sind. Dazu gehören insbesondere die Informationen zur Fertigung des Berichts nach Artikel 13 Abs. 3 des Basler Übereinkommens, vor allem die Angaben im Notifizierungsformular. Das Umweltbundesamt übermittelt der Kommission eine Kopie dieses Berichts gemäß Artikel 51 Abs. 1 der Verordnung (EG) Nr. 1013/2006.
 
-(2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 Satz 1 der Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder, die Generalzolldirektion und das Bundesamt für Güterverkehr dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG) Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt veröffentlicht den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG) Nr. 1013/2006 genannten Abschnitt dieses Berichts zusammen mit zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der Übermittlung dieses Berichts an die Kommission auf seiner Webseite.
+(2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 Satz 1 der Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder, die Generalzolldirektion und das Bundesamt für Logistik und Mobilität dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG) Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt veröffentlicht den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG) Nr. 1013/2006 genannten Abschnitt dieses Berichts zusammen mit zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der Übermittlung dieses Berichts an die Kommission auf seiner Webseite.
 
 # § 17 – Zollstellen
 
@@ -315,7 +315,7 @@ durchführt.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 6, 10, 17 und 18 Buchstabe a und b und des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 5, 9, 12, 13 und 14 und des Absatzes 2 Nummer 2 mit einer Geldbuße bis zu zwanzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr bei Transporten von Abfällen auf der Straße, soweit die Zuwiderhandlung in einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche Niederlassung hat, und soweit die betroffene Person im Inland keinen Wohnsitz hat.
+(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität bei Transporten von Abfällen auf der Straße, soweit die Zuwiderhandlung in einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche Niederlassung hat, und soweit die betroffene Person im Inland keinen Wohnsitz hat.
 
 (6) Soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, wird das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 18 geahndet werden können.
 

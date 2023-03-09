@@ -23,7 +23,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen des Übereinkommens.
 
-(2) Zuständig für die Erteilung und Entziehung der Zulassung (Artikel IV Abs. 1 des Übereinkommens) sowie für die Kontrolle der Container einschließlich der hieraus folgenden Maßnahmen (Artikel IV Abs. 5 und Artikel VI des Übereinkommens) sind diejenigen Behörden, die von den Landesregierungen oder den von ihnen benannten Stellen bestimmt werden. Zu Kontrollen der Container nach Satz 1 sind außerdem das Bundesamt für Güterverkehr im Rahmen des § 11 des Güterkraftverkehrsgesetzes, die Grenzzollstellen und andere für die Kontrolle an der Grenze zuständige Stellen der Zollverwaltung berechtigt.
+(2) Zuständig für die Erteilung und Entziehung der Zulassung (Artikel IV Abs. 1 des Übereinkommens) sowie für die Kontrolle der Container einschließlich der hieraus folgenden Maßnahmen (Artikel IV Abs. 5 und Artikel VI des Übereinkommens) sind diejenigen Behörden, die von den Landesregierungen oder den von ihnen benannten Stellen bestimmt werden. Zu Kontrollen der Container nach Satz 1 sind außerdem das Bundesamt für Logistik und Mobilität im Rahmen des § 11 des Güterkraftverkehrsgesetzes, die Grenzzollstellen und andere für die Kontrolle an der Grenze zuständige Stellen der Zollverwaltung berechtigt.
 
 (3) Wird der Zulassungsantrag nach Artikel IV Abs. 3 des Übereinkommens im Geltungsbereich dieses Gesetzes gestellt, so ist die Behörde desjenigen Bundeslandes zuständig, in dem der Antragsteller seine Hauptniederlassung oder seinen Sitz hat. Bei Hauptniederlassung oder Sitz außerhalb des Geltungsbereiches dieses Gesetzes ist die von der Freien und Hansestadt Hamburg bestimmte Behörde zuständig. Antragsteller kann der Hersteller des Containers, der Eigentümer oder derjenige sein, für den der Container hergestellt wird.
 
@@ -140,7 +140,7 @@ Zeile 8 in englischer Sprache: "SIDE WALL STRENGTH ... P", in französischer Spr
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Behörde, die von der Landesregierung durch Rechtsverordnung bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
-(4) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung eines Containers auf der Straße in einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
+(4) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung eines Containers auf der Straße in einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und Mobilität.
 
 # Art 8
 

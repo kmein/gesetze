@@ -7,7 +7,7 @@
 
 (2) Die §§ 2 bis 6 gelten nicht für Kontrollen von Gefahrguttransporten der Streitkräfte, die durch deutsche Behörden und die Streitkräfte gemeinsam durchgeführt werden.
 
-(3) Das Bundesamt für Güterverkehr wendet die §§ 2 bis 6 entsprechend an.
+(3) Das Bundesamt für Logistik und Mobilität wendet die §§ 2 bis 6 entsprechend an.
 
 # § 2 – Begriffsbestimmungen
 
@@ -25,11 +25,11 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 # § 3 – Kontrollen auf der Straße
 
-(1) Die oberste Landesbehörde oder die von ihr bestimmte oder nach Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet ein repräsentativer Anteil der Gefahrguttransporte auf der Straße den in dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um zu überprüfen, ob die Vorschriften für die Beförderung gefährlicher Güter auf der Straße eingehalten werden. Diese Kontrollen werden in Ausführung von Artikel 3 der Verordnung (EWG) Nr. 4060/89 und Artikel 1 der Verordnung (EWG) Nr. 3912/92 durchgeführt. Das Bundesamt für Güterverkehr kontrolliert im Rahmen seiner Zuständigkeit nach dem Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße in angemessenem Umfang.
+(1) Die oberste Landesbehörde oder die von ihr bestimmte oder nach Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet ein repräsentativer Anteil der Gefahrguttransporte auf der Straße den in dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um zu überprüfen, ob die Vorschriften für die Beförderung gefährlicher Güter auf der Straße eingehalten werden. Diese Kontrollen werden in Ausführung von Artikel 3 der Verordnung (EWG) Nr. 4060/89 und Artikel 1 der Verordnung (EWG) Nr. 3912/92 durchgeführt. Das Bundesamt für Logistik und Mobilität kontrolliert im Rahmen seiner Zuständigkeit nach dem Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße in angemessenem Umfang.
 
-(2) Bei der Festlegung des repräsentativen Anteils der Gefahrguttransporte im Sinne des Absatzes 1 Satz 1 ist der Anteil der im jeweiligen Land zugelassenen Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen am Gesamtbestand der genannten Kraftfahrzeuge in Deutschland zu berücksichtigen. Die Zahlen über Gefahrgutbeförderungen und Fahrzeugbestände werden jährlich zum 30. Juni für das vorangegangene Jahr durch das Bundesamt für Güterverkehr in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
+(2) Bei der Festlegung des repräsentativen Anteils der Gefahrguttransporte im Sinne des Absatzes 1 Satz 1 ist der Anteil der im jeweiligen Land zugelassenen Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen am Gesamtbestand der genannten Kraftfahrzeuge in Deutschland zu berücksichtigen. Die Zahlen über Gefahrgutbeförderungen und Fahrzeugbestände werden jährlich zum 30. Juni für das vorangegangene Jahr durch das Bundesamt für Logistik und Mobilität in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
-(3) Die nach Landesrecht für die Überwachung zuständigen Behörden und das Bundesamt für Güterverkehr orientieren sich bei der Durchführung von Kontrollmaßnahmen, die der Umsetzung der Richtlinie 95/50/EG dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis der Kontrolle händigt der Prüfer dem Fahrzeugführer eine geeignete Kontrollbescheinigung aus.
+(3) Die nach Landesrecht für die Überwachung zuständigen Behörden und das Bundesamt für Logistik und Mobilität orientieren sich bei der Durchführung von Kontrollmaßnahmen, die der Umsetzung der Richtlinie 95/50/EG dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis der Kontrolle händigt der Prüfer dem Fahrzeugführer eine geeignete Kontrollbescheinigung aus.
 
 (4) Die Kontrollen nach den Absätzen 1 bis 3 sind im Stichprobenverfahren möglichst auf einem ausgedehnten Teil des Straßennetzes durchzuführen. Sie sind möglichst an Orten durchzuführen, an denen Fahrzeuge, bei denen Verstöße festgestellt wurden, in einen vorschriftsmäßigen Zustand versetzt oder - wenn die Behörde es für angebracht hält - an Ort und Stelle oder an einem von dieser Behörde bezeichneten Platz abgestellt werden können, ohne dass dadurch ein Sicherheitsrisiko entsteht.
 
@@ -49,7 +49,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 # § 5 – Berichtswesen
 
-(1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte Stelle und das Bundesamt für Güterverkehr übermitteln dem Bundesministerium für Verkehr und digitale Infrastruktur für jedes Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach dem Muster in der Anlage 5 erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
+(1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte Stelle und das Bundesamt für Logistik und Mobilität übermitteln dem Bundesministerium für Verkehr und digitale Infrastruktur für jedes Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach dem Muster in der Anlage 5 erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
 
 1. Anzahl der kontrollierten Fahrzeuge, aufgeschlüsselt nach der Zulassung in Deutschland, in anderen Mitgliedstaaten der Europäischen Union oder in Drittländern,
 
@@ -59,7 +59,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 4. Anzahl und Art der veranlassten Sanktionen.
 
-(2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
+(2) Das Bundesamt für Logistik und Mobilität erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
 # Anlage 1 – (zu § 3 Abs. 3 Satz 1)Prüfliste
 

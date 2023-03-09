@@ -1671,7 +1671,7 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwalt
 
 (3) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis zu hunderttausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr, soweit es sich um Ordnungswidrigkeiten nach Absatz 1 Nummer 6 bis 8 oder nach Absatz 2 Nummer 1, 7, 8, 10 bis 13 und 15 handelt und die Zuwiderhandlung im Zusammenhang mit der Beförderung von Abfällen durch Fahrzeuge zur Güterbeförderung auf der Straße in einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche Niederlassung hat, und soweit die betroffene Person im Inland keinen Wohnsitz hat.
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität, soweit es sich um Ordnungswidrigkeiten nach Absatz 1 Nummer 6 bis 8 oder nach Absatz 2 Nummer 1, 7, 8, 10 bis 13 und 15 handelt und die Zuwiderhandlung im Zusammenhang mit der Beförderung von Abfällen durch Fahrzeuge zur Güterbeförderung auf der Straße in einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche Niederlassung hat, und soweit die betroffene Person im Inland keinen Wohnsitz hat.
 
 # § 70 – Einziehung
 

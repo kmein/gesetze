@@ -395,7 +395,7 @@ Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-Druckgerä
 
 # § 14 – Besondere Zuständigkeiten im Straßenverkehr
 
-(1) Das Bundesamt für Güterverkehr ist zuständige Behörde für die Entgegennahme der Berichte über Ereignisse mit gefährlichen Gütern nach Unterabschnitt 1.8.5.1 ADR und deren Vorlage an das Bundesministerium für Verkehr und digitale Infrastruktur.
+(1) Das Bundesamt für Logistik und Mobilität ist zuständige Behörde für die Entgegennahme der Berichte über Ereignisse mit gefährlichen Gütern nach Unterabschnitt 1.8.5.1 ADR und deren Vorlage an das Bundesministerium für Verkehr und digitale Infrastruktur.
 
 (2) Das Kraftfahrt-Bundesamt ist zuständige Behörde für die Typgenehmigung von Fahrzeugen nach Unterabschnitt 9.1.2.2 Satz 1 ADR.
 
@@ -1113,7 +1113,7 @@ Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Cont
 
 (1) Der Verlader, Befüller, Beförderer, Entlader, Empfänger im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt, der Betreiber der Eisenbahninfrastruktur im Eisenbahnverkehr und der Betreiber einer Annahmestelle in der Binnenschifffahrt haben dafür zu sorgen, dass nach Unterabschnitt 1.8.5.1 ADR/RID/ADN die Vorlage eines Berichts spätestens einen Monat nach dem Ereignis
 
-1. im Straßenverkehr an das Bundesamt für Güterverkehr,
+1. im Straßenverkehr an das Bundesamt für Logistik und Mobilität,
 
 2. im Eisenbahnverkehr an das Eisenbahn-Bundesamt und
 

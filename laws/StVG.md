@@ -1955,7 +1955,7 @@ Satz 1 gilt entsprechend für den Abruf der örtlich zuständigen Polizeidiensts
 
 (2b) Die Übermittlung nach § 35 Abs. 1 Nr. 11 und 12 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an den Privaten, der mit der Erhebung der Mautgebühr beliehen worden ist, erfolgen.
 
-(2c) Die Übermittlung nach § 35 Abs. 1 Nr. 10 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an das Bundesamt für Güterverkehr und an eine sonstige öffentliche Stelle, die mit der Erhebung der Maut nach dem Bundesfernstraßenmautgesetz beauftragt ist, erfolgen.
+(2c) Die Übermittlung nach § 35 Abs. 1 Nr. 10 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an das Bundesamt für Logistik und Mobilität und an eine sonstige öffentliche Stelle, die mit der Erhebung der Maut nach dem Bundesfernstraßenmautgesetz beauftragt ist, erfolgen.
 
 (2d) Die Übermittlung nach § 35 Absatz 1 Nummer 14 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an die zentrale Behörde (§ 4 des Auslandsunterhaltsgesetzes) erfolgen.
 

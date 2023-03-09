@@ -51,13 +51,13 @@ angehört,
 
 (2) Die zuständigen Behörden können amtlich anerkannte Sachverständige und Prüfer für den Kraftfahrzeugverkehr nach dem Kraftfahrsachverständigengesetz, Prüfingenieure nach Anlage VIIIb Nummer 3.9 der Straßenverkehrs-Zulassungs-Ordnung oder die für die Durchführung von Sicherheitsprüfungen anerkannten Kraftfahrzeugwerkstätten aus gegebenem Anlass beauftragen, an den technischen Kontrollen ganz oder teilweise mitzuwirken.
 
-(3) Das Bundesamt für Güterverkehr wird als die für die Bundesrepublik Deutschland zuständige Kontaktstelle bestimmt, die im Rahmen dieser Verordnung die Informationen und die Amtshilfe unter den Mitgliedstaaten und deren Behörden und das Berichtswesen mit der Kommission der Europäischen Union entsprechend der §§ 8 bis 10 durchführt.
+(3) Das Bundesamt für Logistik und Mobilität wird als die für die Bundesrepublik Deutschland zuständige Kontaktstelle bestimmt, die im Rahmen dieser Verordnung die Informationen und die Amtshilfe unter den Mitgliedstaaten und deren Behörden und das Berichtswesen mit der Kommission der Europäischen Union entsprechend der §§ 8 bis 10 durchführt.
 
 # § 4 – Häufigkeit der Kontrollen
 
 (1) Die zuständigen Behörden stellen sicher, dass in ihrem sachlichen und örtlichen Zuständigkeitsbereich ein ausreichender Anteil an Nutzfahrzeugen den in dieser Verordnung vorgesehenen Kontrollen unterworfen wird, um zu prüfen, ob die technischen Vorschriften in den Zeiträumen zwischen den nach § 29 der Straßenverkehrs-Zulassungs-Ordnung oder der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2014, S. 51; L 334 vom 22.12.2015, S. 66) vorgeschriebenen Untersuchungen der Nutzfahrzeuge eingehalten werden.
 
-(2) Ausreichend ist ein repräsentativer Anteil an den im jeweiligen Land zugelassenen Nutzfahrzeugen und dem Verkehrsaufkommen mit Nutzfahrzeugen. Die Zahlen über den jeweiligen Bestand der Nutzfahrzeuge und das Verkehrsaufkommen mit Nutzfahrzeugen in den Ländern werden alle zwei Jahre zum 30. Juni für die vorangegangenen zwei Jahre den Ländern durch das Bundesamt für Güterverkehr in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
+(2) Ausreichend ist ein repräsentativer Anteil an den im jeweiligen Land zugelassenen Nutzfahrzeugen und dem Verkehrsaufkommen mit Nutzfahrzeugen. Die Zahlen über den jeweiligen Bestand der Nutzfahrzeuge und das Verkehrsaufkommen mit Nutzfahrzeugen in den Ländern werden alle zwei Jahre zum 30. Juni für die vorangegangenen zwei Jahre den Ländern durch das Bundesamt für Logistik und Mobilität in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
 # § 5 – Kontrollen auf der Straße
 
@@ -111,11 +111,11 @@ Die zuständigen Behörden oder deren Beauftragte haben einen Kontrollbericht na
 
 # § 8 – Informationen unter den Mitgliedstaaten
 
-Die obersten Landesbehörden oder die von ihnen beauftragten Stellen teilen jährlich zum 30. Juni dem Bundesamt für Güterverkehr zur Durchführung der Informationen unter den Mitgliedstaaten mit, welche Behörde in ihrem Land für die Durchführung der Kontrollen zuständig und wer Ansprechpartner ist.
+Die obersten Landesbehörden oder die von ihnen beauftragten Stellen teilen jährlich zum 30. Juni dem Bundesamt für Logistik und Mobilität zur Durchführung der Informationen unter den Mitgliedstaaten mit, welche Behörde in ihrem Land für die Durchführung der Kontrollen zuständig und wer Ansprechpartner ist.
 
 # § 9 – Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten
 
-(1) Das Bundesamt für Güterverkehr nimmt die Aufgaben als nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen, Mitteilungen und Ersuchen nach den Absätzen 2 bis 5 richten die zuständigen Behörden der Länder unmittelbar an die nationale Kontaktstelle.
+(1) Das Bundesamt für Logistik und Mobilität nimmt die Aufgaben als nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen, Mitteilungen und Ersuchen nach den Absätzen 2 bis 5 richten die zuständigen Behörden der Länder unmittelbar an die nationale Kontaktstelle.
 
 (2) Werden an einem nicht in Deutschland zugelassenen Fahrzeug erhebliche oder gefährliche Mängel festgestellt, die zu einer Einschränkung oder einem Verbot der Nutzung des Fahrzeugs führen, hat die zuständige Behörde das Ergebnis der Kontrolle an die nationale Kontaktstelle mit den Angaben des Kontrollberichts gemäß Anhang IV der Richtlinie 2014/47/EU zu übermitteln. Die nationale Kontaktstelle unterrichtet die Kontaktstelle des Mitgliedstaats, in dem das Fahrzeug zugelassen ist, über das Ergebnis der Kontrolle, indem sie dieser die Angaben des Kontrollberichts gemäß Anhang IV der Richtlinie 2014/47/EU übermittelt. Weitere Maßnahmen nach dieser Verordnung bleiben unberührt.
 
@@ -127,23 +127,23 @@ Die obersten Landesbehörden oder die von ihnen beauftragten Stellen teilen jäh
 
 # § 10 – Berichtswesen
 
-(1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln dem Bundesamt für Güterverkehr jeweils für zwei Kalenderjahre spätestens zwei Monate nach deren Ablauf einen nach dem Muster in Anlage 3 für ihren Bereich erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
+(1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln dem Bundesamt für Logistik und Mobilität jeweils für zwei Kalenderjahre spätestens zwei Monate nach deren Ablauf einen nach dem Muster in Anlage 3 für ihren Bereich erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
 
 1. Anzahl der kontrollierten Nutzfahrzeuge, aufgeschlüsselt nach den Fahrzeugklassen und nach dem Zulassungsland gemäß des Anhangs V (Übersichtstabelle) der Richtlinie 2014/47/EU,
 
 2. Anzahl der festgestellten Mängel zu den Prüfpunkten des Anhangs IV Nummer 10 der Richtlinie 2014/47/EU, aufgeschlüsselt nach den Fahrzeugklassen und nach dem Zulassungsland gemäß des Anhangs V (Ergebnisse der gründlicheren Kontrollen) der Richtlinie 2014/47/EU.
 
-Das Musterformular ist in elektronischem Format für jedes Zulassungsland zu erstellen und dem Bundesamt für Güterverkehr ausschließlich per De-Mail oder E-Mail zu übermitteln.
+Das Musterformular ist in elektronischem Format für jedes Zulassungsland zu erstellen und dem Bundesamt für Logistik und Mobilität ausschließlich per De-Mail oder E-Mail zu übermitteln.
 
-(2) Das Bundesamt für Güterverkehr erstellt auf Grund der Berichte nach Absatz 1 einen für Deutschland zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Union. Der Bericht wird den obersten Verkehrsbehörden der Länder übermittelt.
+(2) Das Bundesamt für Logistik und Mobilität erstellt auf Grund der Berichte nach Absatz 1 einen für Deutschland zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Union. Der Bericht wird den obersten Verkehrsbehörden der Länder übermittelt.
 
 (3) (weggefallen)
 
-# § 11 – Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei und der Zollverwaltung
+# § 11 – Kontrollen des Bundesamtes für Logistik und Mobilität, der Bundespolizei und der Zollverwaltung
 
 Diese Verordnung wird entsprechend angewendet durch:
 
-1. das Bundesamt für Güterverkehr gemäß § 11 Abs. 2 Nr. 3 Buchstabe m des Güterkraftverkehrsgesetzes,
+1. das Bundesamt für Logistik und Mobilität gemäß § 11 Abs. 2 Nr. 3 Buchstabe m des Güterkraftverkehrsgesetzes,
 
 2. die Bundespolizei bei Einfahrten von Nutzfahrzeugen aus einem Drittland nach Deutschland im Rahmen seiner Gefahrenabwehr und
 
@@ -161,7 +161,7 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 2 – (weggefallen)
 
-# Anlage 3 – (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
+# Anlage 3 – (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Logistik und Mobilität über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
 
 (Fundstelle: BGBl. I 2018, 547 — 548)
 

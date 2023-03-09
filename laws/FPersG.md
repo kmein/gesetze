@@ -79,7 +79,7 @@ Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den zurückgele
 
 (1a) Die Aufsichtsbehörde kann die erforderlichen Maßnahmen anordnen, die der Arbeitgeber, der Verlader, der Spediteur, der Reiseveranstalter, der Hauptauftragnehmer, der Unterauftragnehmer und die Fahrervermittlungsagentur zur Erfüllung der sich aus diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten zu treffen haben.
 
-(2) Unberührt bleibt die Zuständigkeit des Bundesamtes für Güterverkehr nach § 9 Abs. 2 dieses Gesetzes und nach § 11 Abs. 2 Nr. 3 Buchstabe a, § 12 Abs. 6 des Güterkraftverkehrsgesetzes.
+(2) Unberührt bleibt die Zuständigkeit des Bundesamtes für Logistik und Mobilität nach § 9 Abs. 2 dieses Gesetzes und nach § 11 Abs. 2 Nr. 3 Buchstabe a, § 12 Abs. 6 des Güterkraftverkehrsgesetzes.
 
 (3) Der Unternehmer, der Fahrzeughalter und die Mitglieder des Fahrpersonals sind verpflichtet, der zuständigen Behörde innerhalb einer von ihr festzusetzenden Frist
 
@@ -221,7 +221,7 @@ Im Fall von Satz 1 Nummer 1 wird die regelmäßige wöchentliche Ruhezeit nach A
 
 (1) Wird ein Verstoß in einem Unternehmen begangen, das im Geltungsbereich dieses Gesetzes seinen Sitz oder eine geschäftliche Niederlassung hat, ist nur die Verwaltungsbehörde örtlich zuständig, in deren Bezirk die geschäftliche Niederlassung oder der Hauptsitz des Betriebes liegt, bei dem der Betroffene tätig ist. Die §§ 38 und 39 des Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Soweit nach Satz 1 oder Satz 2 eine Verwaltungsbehörde zuständig ist, die nicht auch für die Kontrolle der Bestimmungen dieses Gesetzes auf dem Betriebsgelände zuständig ist, unterrichtet diese Verwaltungsbehörde die für die Kontrollen der Bestimmungen dieses Gesetzes auf dem Betriebsgelände zuständige Behörde über begangene Ordnungswidrigkeiten.
 
-(2) Wird ein Verstoß in einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
+(2) Wird ein Verstoß in einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und Mobilität.
 
 (3) (weggefallen)
 

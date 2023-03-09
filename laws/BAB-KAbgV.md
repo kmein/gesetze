@@ -17,19 +17,19 @@ Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der Fassung 
 
 # § 2 – Fälligkeit der Konzessionsabgabe
 
-(1) Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr spätestens 30 Tage nach Ablauf eines Kalendervierteljahres die im vorangegangenen Kalendervierteljahr abgegebenen Kraftstoffmengen (§ 1 Abs. 2) und die anderen Umsätze (§ 1 Abs. 3) mitzuteilen und die daraus berechnete Konzessionsabgabe zu entrichten.
+(1) Der Konzessionsinhaber hat dem Bundesamt für Logistik und Mobilität spätestens 30 Tage nach Ablauf eines Kalendervierteljahres die im vorangegangenen Kalendervierteljahr abgegebenen Kraftstoffmengen (§ 1 Abs. 2) und die anderen Umsätze (§ 1 Abs. 3) mitzuteilen und die daraus berechnete Konzessionsabgabe zu entrichten.
 
-(2) Auf Antrag eines Konzessionsinhabers kann die Abrechnung einmal jährlich zu einem vom Bundesamt für Güterverkehr festgesetzten Termin vorgenommen werden. Der Konzessionsinhaber hat zu diesem Termin die im vorangegangenen Jahr abgegebenen Kraftstoffmengen (§ 1 Abs. 2) und die anderen Umsätze (§ 1 Abs. 3) mitzuteilen. Außerdem hat er spätestens 30 Tage nach Ablauf eines Kalendervierteljahres eine vom Bundesamt für Güterverkehr festgesetzte Abschlagszahlung zu leisten. Eine sich aus der jährlichen Abrechnung ergebende Restzahlung ist spätestens 30 Tage nach Feststellung der Jahresabrechnung zu leisten.
+(2) Auf Antrag eines Konzessionsinhabers kann die Abrechnung einmal jährlich zu einem vom Bundesamt für Logistik und Mobilität festgesetzten Termin vorgenommen werden. Der Konzessionsinhaber hat zu diesem Termin die im vorangegangenen Jahr abgegebenen Kraftstoffmengen (§ 1 Abs. 2) und die anderen Umsätze (§ 1 Abs. 3) mitzuteilen. Außerdem hat er spätestens 30 Tage nach Ablauf eines Kalendervierteljahres eine vom Bundesamt für Logistik und Mobilität festgesetzte Abschlagszahlung zu leisten. Eine sich aus der jährlichen Abrechnung ergebende Restzahlung ist spätestens 30 Tage nach Feststellung der Jahresabrechnung zu leisten.
 
-(3) Für die Mitteilung der abgegebenen Kraftstoffmengen und der anderen Umsätze an das Bundesamt für Güterverkehr ist das als Anlage beigefügte Formblatt zu verwenden.
+(3) Für die Mitteilung der abgegebenen Kraftstoffmengen und der anderen Umsätze an das Bundesamt für Logistik und Mobilität ist das als Anlage beigefügte Formblatt zu verwenden.
 
 # § 3 – Vorlage der Geschäftsunterlagen
 
-Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr auf Verlangen seine Bücher und Aufzeichnungen vorzulegen und Auskünfte zu erteilen, die für die Feststellung der Höhe der Konzessionsabgabe erforderlich sind. Überläßt der Konzessionsinhaber das Recht auf Ausübung der Konzession einem Dritten, so obliegen auch dem Dritten die Pflichten aus Satz 1.
+Der Konzessionsinhaber hat dem Bundesamt für Logistik und Mobilität auf Verlangen seine Bücher und Aufzeichnungen vorzulegen und Auskünfte zu erteilen, die für die Feststellung der Höhe der Konzessionsabgabe erforderlich sind. Überläßt der Konzessionsinhaber das Recht auf Ausübung der Konzession einem Dritten, so obliegen auch dem Dritten die Pflichten aus Satz 1.
 
 # § 4 – Sicherheitsleistung
 
-Zur Sicherung der Ansprüche auf Zahlung der Konzessionsabgabe kann das Bundesamt für Güterverkehr vom Konzessionsinhaber Sicherheit im Form einer unbefristeten selbstschuldnerischen Bankbürgschaft verlangen. Anstelle der Bürgschaft kann auch eine gleichwertige Sicherheit anderer Art geleistet werden.
+Zur Sicherung der Ansprüche auf Zahlung der Konzessionsabgabe kann das Bundesamt für Logistik und Mobilität vom Konzessionsinhaber Sicherheit im Form einer unbefristeten selbstschuldnerischen Bankbürgschaft verlangen. Anstelle der Bürgschaft kann auch eine gleichwertige Sicherheit anderer Art geleistet werden.
 
 # § 5 – Anwendung der Abgabenordnung
 

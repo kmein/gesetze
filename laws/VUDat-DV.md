@@ -7,7 +7,7 @@ Auf Grund des § 15 Absatz 7 des Güterkraftverkehrsgesetzes vom 22. Juni 1998 (
 
 # § 1 – Verkehrsunternehmensdatei
 
-Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in Form einer Datenbank. Die Datei ist nach Maßgabe des § 2 Absatz 3 allgemein zugänglich.
+Das Bundesamt für Logistik und Mobilität (Bundesamt) betreibt die Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in Form einer Datenbank. Die Datei ist nach Maßgabe des § 2 Absatz 3 allgemein zugänglich.
 
 # § 2 – Zu speichernde Daten
 

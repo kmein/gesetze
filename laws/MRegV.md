@@ -85,7 +85,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 (4) Das Gutachten nach Absatz 3 darf zum Zeitpunkt der Antragstellung nicht älter als drei Monate sein und ist als Originaldokument oder als amtlich beglaubigte Kopie des Originaldokuments vorzulegen.
 
-(5) Der Antragsteller hat auf Verlangen des Bundesamtes für Güterverkehr zusätzlich die dem Gutachten zugrunde liegenden Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
+(5) Der Antragsteller hat auf Verlangen des Bundesamtes für Logistik und Mobilität zusätzlich die dem Gutachten zugrunde liegenden Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
 
 (+++ § 7: Zur Anwendung vgl. § 10 +++)
 
@@ -153,7 +153,7 @@ In den Fällen des § 6 Absatz 2 Satz 1 und § 7 Absatz 2 ist die Voraussetzung 
 
 3. eine Unbedenklichkeitsbescheinigung der Krankenkassen, bei denen die Beschäftigten versichert sind, und der Berufsgenossenschaft,
 
-4. den Antrag auf Vorlage eines Führungszeugnisses oder eines Europäischen Führungszeugnisses beim Bundesamt für Güterverkehr und
+4. den Antrag auf Vorlage eines Führungszeugnisses oder eines Europäischen Führungszeugnisses beim Bundesamt für Logistik und Mobilität und
 
 5. einen Auszug aus dem Gewerbezentralregister zur Vorlage bei einer Behörde.
 
@@ -167,7 +167,7 @@ Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7 Absatz 2
 
 # § 11 – Gebühren und Auslagen
 
-(1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes sowie die regelmäßige Überprüfung der Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes werden vom Bundesamt für Güterverkehr Gebühren und Auslagen erhoben.
+(1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes sowie die regelmäßige Überprüfung der Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes werden vom Bundesamt für Logistik und Mobilität Gebühren und Auslagen erhoben.
 
 (2) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren bestimmen sich nach der Anlage.
 

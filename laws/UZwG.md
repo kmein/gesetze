@@ -231,7 +231,7 @@ Vollzugsbeamte des Bundes nach diesem Gesetz sind
 
 5. (weggefallen)
 
-6. die Beauftragten des Bundesamtes für Güterverkehr, soweit sie mit Überwachungsaufgaben nach den §§ 11 bis 13 des Güterkraftverkehrsgesetzes betraut sind;
+6. die Beauftragten des Bundesamtes für Logistik und Mobilität, soweit sie mit Überwachungsaufgaben nach den §§ 11 bis 13 des Güterkraftverkehrsgesetzes betraut sind;
 
 7. die Beamten der Bundesgerichte und der Behörden der Bundesjustizverwaltung, die mit Vollzugs- und Sicherungsaufgaben betraut sind;
 

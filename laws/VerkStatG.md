@@ -361,13 +361,13 @@ e) (weggefallen)
 
 2. die für die Güterkraftverkehrsstatistik zuständige Stelle im Kraftfahrt-Bundesamt die von den Unternehmen mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und der Kraftfahrzeuganhänger an das Zentrale Fahrzeugregister des Kraftfahrt-Bundesamtes, das dieser Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach § 7 Abs. 1 Nr. 1 mitteilt.
 
-(2) Zur Durchführung der Unternehmensstatistik des Güterkraftverkehrs nach § 1 Nr. 4 übermittelt die im Bundesamt für Güterverkehr zuständige Stelle die von den Unternehmen des gewerblichen Güterkraftverkehrs und des Werkverkehrs mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und Kraftfahrzeuganhänger dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes, das an diese Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach § 8 Abs. 1 Nr. 2 mitteilt.
+(2) Zur Durchführung der Unternehmensstatistik des Güterkraftverkehrs nach § 1 Nr. 4 übermittelt die im Bundesamt für Logistik und Mobilität zuständige Stelle die von den Unternehmen des gewerblichen Güterkraftverkehrs und des Werkverkehrs mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und Kraftfahrzeuganhänger dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes, das an diese Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach § 8 Abs. 1 Nr. 2 mitteilt.
 
 # § 10 – Vernichtung von Erhebungsunterlagen
 
 (1) Jeweils spätestens drei Monate nach Veröffentlichung eines Beförderungsmonats sind beim Kraftfahrt-Bundesamt die Erhebungsunterlagen zur Erhebung nach § 1 Nr. 3 zu vernichten.
 
-(2) Jeweils spätestens ein Jahr nach dem Erhebungsstichtag sind beim Bundesamt für Güterverkehr die Erhebungsunterlagen zur Erhebung nach § 1 Nr. 4 zu vernichten.
+(2) Jeweils spätestens ein Jahr nach dem Erhebungsstichtag sind beim Bundesamt für Logistik und Mobilität die Erhebungsunterlagen zur Erhebung nach § 1 Nr. 4 zu vernichten.
 
 # § 11 – Erhebungsbereich
 
@@ -689,19 +689,19 @@ Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nu
 
 (2) Die Erhebung und Aufbereitung der Daten nach § 1 Nr. 3 in Verbindung mit § 7 (Güterkraftverkehrsstatistik) wird vom Kraftfahrt-Bundesamt durchgeführt.
 
-(3) Die Erhebung nach § 1 Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des Güterkraftverkehrs) wird vom Bundesamt für Güterverkehr durchgeführt.
+(3) Die Erhebung nach § 1 Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des Güterkraftverkehrs) wird vom Bundesamt für Logistik und Mobilität durchgeführt.
 
 (4) Die Erhebungen nach § 1 Nr. 3 und 4 werden hinsichtlich der methodischen Fragen im Benehmen mit dem Statistischen Bundesamt durchgeführt.
 
-(5) Die Erhebungen nach § 1 Nr. 3 und 4 werden im Kraftfahrt-Bundesamt und im Bundesamt für Güterverkehr in Organisationseinheiten durchgeführt, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen der Bundesämter getrennt sind. Die in diesen Organisationseinheiten tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse über Auskunftspflichtige nicht für andere Aufgaben verwenden.
+(5) Die Erhebungen nach § 1 Nr. 3 und 4 werden im Kraftfahrt-Bundesamt und im Bundesamt für Logistik und Mobilität in Organisationseinheiten durchgeführt, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen der Bundesämter getrennt sind. Die in diesen Organisationseinheiten tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse über Auskunftspflichtige nicht für andere Aufgaben verwenden.
 
 (6) Die Auswahl der Unternehmen zur Erhebung nach § 1 Nr. 7 in Verbindung mit § 16 Abs. 1 Satz 1 Nr. 2 (Personenverkehrsstatistik) wird nach einem mathematisch-statistischen Auswahlverfahren vom Statistischen Bundesamt durchgeführt. Die für die Auswahl erforderlichen Einzelangaben übermitteln die statistischen Ämter der Länder dem Statistischen Bundesamt.
 
 # § 28 – Übermittlungsregelung
 
-(1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, nicht jedoch zur Regelung von Einzelfällen, vom Statistischen Bundesamt, den statistischen Ämtern der Länder, dem Kraftfahrt-Bundesamt und dem Bundesamt für Güterverkehr Tabellen mit statistischen Ergebnissen aus den Erhebungen nach § 1 Nr. 1 bis 12 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Zur Vorbereitung von Planungs- und Gesetzgebungsverfahren können die in Satz 1 genannten Tabellen an die von den obersten Bundes- und Landesbehörden beauftragten Gutachter übermittelt werden. Die Gutachter müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die in Satz 1 genannten Tabellen nur für die Zwecke verwenden, für die sie übermittelt worden sind. Sie sind, soweit es sich nicht um offenkundige Tatsachen handelt, von den Gutachtern geheim zu halten. Die Übermittlungen sind vom Statistischen Bundesamt, vom Kraftfahrt-Bundesamt und vom Bundesamt für Güterverkehr nach Maßgabe des § 16 Abs. 9 des Bundesstatistikgesetzes aufzuzeichnen. Die Aufzeichnungen sind mindestens fünf Jahre aufzubewahren.
+(1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, nicht jedoch zur Regelung von Einzelfällen, vom Statistischen Bundesamt, den statistischen Ämtern der Länder, dem Kraftfahrt-Bundesamt und dem Bundesamt für Logistik und Mobilität Tabellen mit statistischen Ergebnissen aus den Erhebungen nach § 1 Nr. 1 bis 12 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Zur Vorbereitung von Planungs- und Gesetzgebungsverfahren können die in Satz 1 genannten Tabellen an die von den obersten Bundes- und Landesbehörden beauftragten Gutachter übermittelt werden. Die Gutachter müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die in Satz 1 genannten Tabellen nur für die Zwecke verwenden, für die sie übermittelt worden sind. Sie sind, soweit es sich nicht um offenkundige Tatsachen handelt, von den Gutachtern geheim zu halten. Die Übermittlungen sind vom Statistischen Bundesamt, vom Kraftfahrt-Bundesamt und vom Bundesamt für Logistik und Mobilität nach Maßgabe des § 16 Abs. 9 des Bundesstatistikgesetzes aufzuzeichnen. Die Aufzeichnungen sind mindestens fünf Jahre aufzubewahren.
 
-(2) Das Bundesamt für Güterverkehr und das Kraftfahrt-Bundesamt übermitteln dem Statistischen Bundesamt auf Ersuchen aus den Erhebungen nach § 1 Nr. 3 und 4 Einzelangaben in der angeforderten sachlichen und regionalen Gliederungstiefe, soweit dies für die methodische Weiterentwicklung der Statistiken verkehrsträgerübergreifender Ergebnisdarstellungen und für die Erfüllung von Aufgaben im supra- und internationalen Bereich erforderlich ist.
+(2) Das Bundesamt für Logistik und Mobilität und das Kraftfahrt-Bundesamt übermitteln dem Statistischen Bundesamt auf Ersuchen aus den Erhebungen nach § 1 Nr. 3 und 4 Einzelangaben in der angeforderten sachlichen und regionalen Gliederungstiefe, soweit dies für die methodische Weiterentwicklung der Statistiken verkehrsträgerübergreifender Ergebnisdarstellungen und für die Erfüllung von Aufgaben im supra- und internationalen Bereich erforderlich ist.
 
 # § 29 – Veröffentlichung
 
@@ -709,7 +709,7 @@ Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nu
 
 1. das Kraftfahrt-Bundesamt die Ergebnisse der Erhebung nach § 1 Nr. 3 in Verbindung mit § 7 (Güterkraftverkehrsstatistik),
 
-2. das Bundesamt für Güterverkehr die Ergebnisse der Erhebung nach § 1 Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des Güterkraftverkehrs).
+2. das Bundesamt für Logistik und Mobilität die Ergebnisse der Erhebung nach § 1 Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des Güterkraftverkehrs).
 
 (2) Das Statistische Bundesamt veröffentlicht Ergebnisse nach Absatz 1 für verkehrsträgerübergreifende Darstellungen.
 
@@ -727,4 +727,4 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 # § 31 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
-Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 23 Abs. 1 des Bundesstatistikgesetzes das Bundesamt für Güterverkehr, soweit Auskunftspflichten nach § 26 Abs. 1 Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 für die Statistiken nach § 1 Nr. 3 und 4 betroffen sind.
+Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 23 Abs. 1 des Bundesstatistikgesetzes das Bundesamt für Logistik und Mobilität, soweit Auskunftspflichten nach § 26 Abs. 1 Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 für die Statistiken nach § 1 Nr. 3 und 4 betroffen sind.
