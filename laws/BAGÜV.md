@@ -1,4 +1,4 @@
-% Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr  (BAG-Übertragungsverordnung - BAGÜV)
+% Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Logistik und Mobilität  (BALM-Übertragungsverordnung - BALMÜV)
 % Ausfertigungsdatum: 14.01.2016
  
 # Eingangsformel

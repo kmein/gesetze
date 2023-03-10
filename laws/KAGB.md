@@ -69,6 +69,8 @@ c) bei Kommanditgesellschaften das eingezahlte Geschäftskapital und die Rückla
 
 Als Rücklagen im Sinne der Buchstaben a bis c gelten die Posten im Sinne des Artikels 26 Absatz 1 Buchstabe b bis e in Verbindung mit Artikel 26 Absatz 2 bis 4 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
 
+1a. Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einer Kapitalverwaltungsgesellschaft wahrnimmt, die nicht unter Satz 1 fällt.
+
 2. Arbeitnehmervertreter sind Vertreter der Arbeitnehmer im Sinne von Artikel 2 Buchstabe e der Richtlinie 2002/14/EG des Europäischen Parlaments und des Rates vom 11. März 2002 zur Festlegung eines allgemeinen Rahmens für die Unterrichtung und Anhörung der Arbeitnehmer in der Europäischen Gemeinschaft (ABl. L 80 vom 23.3.2002, S. 29).
 
 3. Aufnahmemitgliedstaat einer OGAW-Kapitalverwaltungsgesellschaft ist ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem eine OGAW-Kapitalverwaltungsgesellschaft
@@ -902,7 +904,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 § 2c Absatz 1b Satz 2 bis 8 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
-(3) In den in § 2c Absatz 2 Satz 1 Nummer 1 bis 3 des Kreditwesengesetzes genannten Fällen kann die Bundesanstalt dem Inhaber der bedeutenden Beteiligung und den von ihm kontrollierten Unternehmen die Ausübung des Stimmrechts untersagen und anordnen, dass über die Anteile nur mit ihrer Zustimmung verfügt werden darf. Im Fall einer Verfügung nach Satz 1 hat das Gericht am Sitz der externen OGAW-Kapitalverwaltungsgesellschaft auf Antrag der Bundesanstalt, der externen OGAW-Kapitalverwaltungsgesellschaft oder eines an ihr Beteiligten einen Treuhänder zu bestellen, auf den es die Ausübung des Stimmrechts überträgt. § 2c Absatz 2 Satz 3 bis 9 des Kreditwesengesetzes ist entsprechend anzuwenden.
+(3) In den in § 2c Absatz 2 Satz 1 Nummer 1 bis 3 des Kreditwesengesetzes genannten Fällen kann die Bundesanstalt dem Inhaber der bedeutenden Beteiligung und den von ihm kontrollierten Unternehmen die Ausübung des Stimmrechts untersagen und anordnen, dass über die Anteile nur mit ihrer Zustimmung verfügt werden darf. Im Fall einer Verfügung nach Satz 1 hat das Gericht am Sitz der externen OGAW-Kapitalverwaltungsgesellschaft auf Antrag der Bundesanstalt, der externen OGAW-Kapitalverwaltungsgesellschaft oder eines an ihr Beteiligten einen Treuhänder zu bestellen, auf den es die Ausübung des Stimmrechts überträgt. § 2c Absatz 2 Satz 3 bis 11 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 (4) Bei der Beurteilung nach Absatz 2 arbeitet die Bundesanstalt mit den zuständigen Stellen der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige eine der in § 8 Absatz 3 Satz 2 Nummer 1 bis 3 des Kreditwesengesetzes aufgeführten natürlichen oder juristischen Personen ist. § 8 Absatz 3 Satz 3 und 4 des Kreditwesengesetzes gilt entsprechend. Die Bundesanstalt hat in ihrer Entscheidung alle Bemerkungen oder Vorbehalte der für den Anzeigepflichtigen zuständigen Stelle anzugeben.
 
@@ -912,7 +914,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 # § 20 – Erlaubnis zum Geschäftsbetrieb
 
-(1) Der Geschäftsbetrieb einer Kapitalverwaltungsgesellschaft bedarf der Erlaubnis der Bundesanstalt. Die Bundesanstalt kann die Erlaubnis auf die Verwaltung bestimmter Arten von Investmentvermögen beschränken. Die Bundesanstalt kann die Erlaubnis mit Nebenbestimmungen verbinden.
+(1) Der Geschäftsbetrieb einer Kapitalverwaltungsgesellschaft bedarf der Erlaubnis der Bundesanstalt. Die Bundesanstalt kann die Erlaubnis auf die Verwaltung bestimmter Arten von Investmentvermögen beschränken. Die Bundesanstalt kann die Erlaubnis mit Nebenbestimmungen verbinden. Eine Erlaubnis nach Satz 1 ist auch dann erforderlich, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach Satz 1 erlaubnispflichtige Geschäfte betreibt, ihren satzungsmäßigen Sitz vom Ausland ins Inland verlegt.
 
 (2) Externe OGAW-Kapitalverwaltungsgesellschaften dürfen neben der kollektiven Vermögensverwaltung von OGAW folgende Dienstleistungen und Nebendienstleistungen erbringen:
 
@@ -1565,9 +1567,11 @@ erfüllt hat. § 29 Absatz 3 des Kreditwesengesetzes ist mit der Maßgabe entspr
 
 1. von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht,
 
-2. den Geschäftsbetrieb, auf den sich die Erlaubnis bezieht, seit mehr als sechs Monaten nicht mehr ausübt oder
+2. den Geschäftsbetrieb, auf den sich die Erlaubnis bezieht, seit mehr als sechs Monaten nicht mehr ausübt,
 
-3. ausdrücklich auf sie verzichtet.
+3. ausdrücklich auf sie verzichtet oder
+
+4. im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ihren satzungsmäßigen Sitz ins Ausland verlegt.
 
 Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentaktiengesellschaften mit fixem Kapital, bei offenen Investmentkommanditgesellschaften oder bei geschlossenen Investmentkommanditgesellschaften muss der Verzicht im Sinne von Satz 1 Nummer 3 gegenüber der Bundesanstalt durch Vorlage eines Handelsregisterauszuges nachgewiesen werden, aus dem sich die entsprechende Änderung des Unternehmensgegenstandes wie auch die Änderung der Firma ergibt.
 
@@ -1693,9 +1697,11 @@ Statt der Aufhebung der Registrierung kann die Bundesanstalt die verantwortliche
 
 1. von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht,
 
-2. den Geschäftsbetrieb, auf den sich die Registrierung bezieht, seit mehr als sechs Monaten nicht mehr ausübt oder
+2. den Geschäftsbetrieb, auf den sich die Registrierung bezieht, seit mehr als sechs Monaten nicht mehr ausübt,
 
-3. ausdrücklich auf sie verzichtet.
+3. ausdrücklich auf sie verzichtet oder
+
+4. im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ihren satzungsmäßigen Sitz ins Ausland verlegt.
 
 § 39 Absatz 1 Satz 2 findet entsprechend Anwendung.
 

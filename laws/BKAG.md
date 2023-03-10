@@ -793,7 +793,7 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Absatz 3 Zentralstelle für den polizeilichen Informationsverbund zwischen Bund und Ländern. Es stellt zu diesem Zweck ein einheitliches Verbundsystem zur Verfügung.
 
-(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
+(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Ausschreibungen im Schengener Informationssystem erfolgen im polizeilichen Informationsverbund. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
 
 (3) Außer dem Bundeskriminalamt und den Landeskriminalämtern sind zur Teilnahme am polizeilichen Informationsverbund berechtigt:
 
@@ -819,7 +819,7 @@ Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, 
 
 (6) Das Auswärtige Amt ist zum Abruf im automatisierten Verfahren der Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung berechtigt, soweit dies für die Auslandsvertretungen in ihrer Eigenschaft als Pass- und Personalausweisbehörden erforderlich ist. Die Staatsanwaltschaften sind befugt, für Zwecke der Strafrechtspflege im automatisierten Verfahren abzurufen:
 
-1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung,
+1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung und, nach Maßgabe des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) sowie der Verordnung (EG) Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 381 vom 28.12.2006, S. 4), auch die Ausschreibungen, die im Schengener Informationssystem gespeichert sind,
 
 2. Daten über Freiheitsentziehungen und
 
