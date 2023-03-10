@@ -195,7 +195,7 @@ anderweitig entschieden hat oder haben und ihr ihre Entscheidung schriftlich ode
 
 1. beteiligen sich die Länder untereinander, soweit die Inhalte der Kontrollpläne andere Länder betreffen, und
 
-2. führen die Länder das Einvernehmen mit den zuständigen Zollbehörden und dem Bundesamt für Logistik und Mobilität herbei bezüglich der Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für Güterverkehr betreffen; die Generalzolldirektion und das Bundesamt für Güterverkehr teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
+2. führen die Länder das Einvernehmen mit den zuständigen Zollbehörden und dem Bundesamt für Logistik und Mobilität herbei bezüglich der Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für Logistik und Mobilität betreffen; die Generalzolldirektion und das Bundesamt für Logistik und Mobilität teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
 
 # § 12 – Maßnahmen zur Überwachung
 
