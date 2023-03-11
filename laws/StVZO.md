@@ -2183,7 +2183,7 @@ An Fahrzeugen, die nicht breiter als 2 000 mm und nicht länger als 6 000 mm s
 
 (3) Mit einer oder, wenn die horizontale und vertikale Sichtbarkeit (geometrische Sichtbarkeit) es für die Rundumwirkung erfordert, mehreren Warnleuchten für blaues Blinklicht dürfen ausgerüstet sein:
 
-1. Kraftfahrzeuge sowie Anhänger, die dem Vollzugsdienst der Polizei, der Militärpolizei, der Bundespolizei, des Zolldienstes, des Bundesamtes für Güterverkehr oder der Bundesstelle für Flugunfalluntersuchung dienen, insbesondere Kommando-, Streifen-, Mannschaftstransport-, Verkehrsunfall-, Mordkommissionsfahrzeuge,
+1. Kraftfahrzeuge sowie Anhänger, die dem Vollzugsdienst der Polizei, der Militärpolizei, der Bundespolizei, des Zolldienstes, des Bundesamtes für Logistik und Mobilität oder der Bundesstelle für Flugunfalluntersuchung dienen, insbesondere Kommando-, Streifen-, Mannschaftstransport-, Verkehrsunfall-, Mordkommissionsfahrzeuge,
 
 2. Einsatz- und Kommando-Kraftfahrzeuge sowie Anhänger der Feuerwehren und der anderen Einheiten und Einrichtungen des Zivil- und Katastrophenschutzes und des Rettungsdienstes, falls sie als solche außen deutlich sichtbar gekennzeichnet sind,
 
@@ -2201,7 +2201,7 @@ Je ein Paar Warnleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung 
 
 3. nach hinten wirkende Signalgeber für rote oder gelbe Lichtschrift.
 
-Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen mit einem nach hinten wirkenden Signalgeber für rote Lichtschrift ausgerüstet sein. Die Warnleuchten für rotes Blinklicht und blaues Blinklicht dürfen nicht gemeinsam betrieben werden können. Ergänzend zu den Signalgebern dürfen fluoreszierende oder retroreflektierende Folien verwendet werden.
+Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Logistik und Mobilität dürfen mit einem nach hinten wirkenden Signalgeber für rote Lichtschrift ausgerüstet sein. Die Warnleuchten für rotes Blinklicht und blaues Blinklicht dürfen nicht gemeinsam betrieben werden können. Ergänzend zu den Signalgebern dürfen fluoreszierende oder retroreflektierende Folien verwendet werden.
 
 (4) Mit einer oder, wenn die horizontale und vertikale Sichtbarkeit es erfordert, mehreren Warnleuchten für gelbes Blinklicht – Rundumlicht – dürfen ausgerüstet sein:
 

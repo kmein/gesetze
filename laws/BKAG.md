@@ -793,7 +793,7 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Absatz 3 Zentralstelle für den polizeilichen Informationsverbund zwischen Bund und Ländern. Es stellt zu diesem Zweck ein einheitliches Verbundsystem zur Verfügung.
 
-(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Ausschreibungen im Schengener Informationssystem erfolgen im polizeilichen Informationsverbund. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
+(2) Das Verbundsystem erfüllt die Grundfunktionen nach § 13 Absatz 2. Innerhalb des Verbundsystems stellen die daran teilnehmenden Behörden einander Daten zum Abruf und zur Verarbeitung zur Verfügung. Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der Länder sowie im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die in den polizeilichen Informationsverbund einzubeziehenden Daten.
 
 (3) Außer dem Bundeskriminalamt und den Landeskriminalämtern sind zur Teilnahme am polizeilichen Informationsverbund berechtigt:
 
@@ -819,7 +819,7 @@ Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, 
 
 (6) Das Auswärtige Amt ist zum Abruf im automatisierten Verfahren der Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung berechtigt, soweit dies für die Auslandsvertretungen in ihrer Eigenschaft als Pass- und Personalausweisbehörden erforderlich ist. Die Staatsanwaltschaften sind befugt, für Zwecke der Strafrechtspflege im automatisierten Verfahren abzurufen:
 
-1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung und, nach Maßgabe des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) sowie der Verordnung (EG) Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 381 vom 28.12.2006, S. 4), auch die Ausschreibungen, die im Schengener Informationssystem gespeichert sind,
+1. Fahndungsausschreibungen zur Festnahme und Aufenthaltsermittlung,
 
 2. Daten über Freiheitsentziehungen und
 
@@ -922,6 +922,80 @@ sowie
 3. eine Person sowie die von ihr genutzten oder eingesetzten Kraftfahrzeuge unabhängig von der Antriebsart, Anhänger mit einem Leergewicht von mehr als 750 Kilogramm, Wohnwagen, Wasserfahrzeuge, Container, Luftfahrzeuge, Schusswaffen, amtliche oder gefälschte Blankodokumente, amtliche oder gefälschte Identitätsdokumente und bargeldlose Zahlungsmittel ausschreiben zur polizeilichen Beobachtung (§ 47 Absatz 1 Nummer 1), zur Ermittlungsanfrage (§ 47 Absatz 1 Nummer 2) oder zur gezielten Kontrolle (§ 47 Absatz 1 Nummer 3), wenn Tatsachen die Annahme rechtfertigen, dass die Person eine Straftat von erheblicher Bedeutung begehen wird und dies zur Verhütung dieser Straftat erforderlich ist.
 
 Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
+
+# § 33a – Schengener Informationssystem (SIS)
+
+(1) Als zentrale nationale Stelle nach § 3 Absatz 2 Nummer 2 ist das Bundeskriminalamt dafür zuständig, ein einheitliches nationales System (N.SIS) zu errichten, zu betreiben, zu warten sowie weiterzuentwickeln und an das zentrale SIS anzuschließen
+
+1. nach Artikel 19 der Verordnung (EU) 2018/1860 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Nutzung des Schengener Informationssystems für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (ABl. L 312 vom 7.12.2018, S. 1) in Verbindung mit Artikel 6 der Verordnung (EU) 2018/1861,
+
+2. nach Artikel 6 der Verordnung (EU) 2018/1861 und
+
+3. nach Artikel 6 der Verordnung (EU) 2018/1862.
+
+Das Bundeskriminalamt stellt den nach § 33b Absatz 1 Satz 1 Nummer 1 bis 18 berechtigten staatlichen Stellen das N.SIS für den Zugriff dieser Stellen auf das SIS auf Grundlage der in Satz 1 genannten Verordnungen zur Verfügung, damit diese Stellen Daten aus dem SIS abrufen sowie Ausschreibungen in das SIS eingeben und diese Ausschreibungen bearbeiten können.
+
+(2) Das Bundeskriminalamt hat durch organisatorische und technische Maßnahmen sicherzustellen, dass Zugriffe auf das N.SIS nur möglich sind, soweit die jeweiligen staatlichen Stellen nach den in Absatz 1 Satz 1 genannten Verordnungen hierzu berechtigt sind.
+
+(3) Zugriffe auf das SIS durch das Bundeskriminalamt, die Landeskriminalämter und die in § 29 Absatz 3 Satz 1 Nummer 1 bis 7 genannten Behörden erfolgen im polizeilichen Informationsverbund. Ausgenommen hiervon sind Ausschreibungen der Bundespolizei nach Artikel 3 der Verordnung (EU) 2018/1860; hierfür gilt Absatz 1 Satz 2 entsprechend.
+
+(4) Das Bundeskriminalamt kann sich bei der Zurverfügungstellung des Zugriffs nach Absatz 1 Satz 2 für die Ausländerbehörden, das Auswärtige Amt, das Bundesamt für Auswärtige Angelegenheiten, die Auslandsvertretungen, das Bundesamt für Migration und Flüchtlinge und die obersten Landesbehörden der Unterstützung des Bundesverwaltungsamtes sowie bei der Zurverfügungstellung für die für die Zulassung von Kraftfahrzeugen zuständigen Behörden der technischen Unterstützung des Kraftfahrt-Bundesamtes bedienen. Soweit die in Satz 1 genannte Unterstützung des Bundesverwaltungsamtes über eine technische Unterstützung hinausgeht, verarbeitet es im Auftrag und nach Weisung des Bundeskriminalamtes Daten für den Betrieb des nationalen Teils des SIS.
+
+# § 33b – Auf das SIS zugriffsberechtigte Stellen
+
+(1) Die auf Grundlage der in § 33a Absatz 1 Satz 1 genannten Verordnungen auf das SIS zugriffsberechtigten staatlichen Stellen sind neben dem Bundeskriminalamt, den Landeskriminalämtern und den in § 29 Absatz 3 Satz 1 Nummer 1 bis 7 genannten Behörden:
+
+1. die Ausländerbehörden für die Zwecke des Artikels 34 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+2. das Auswärtige Amt für die Zwecke des Artikels 34 Absatz 1 Buchstabe d und f der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+3. das Bundesamt für Auswärtige Angelegenheiten für die Zwecke des Artikels 34 Absatz 1 Buchstabe d und f der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+4. die Auslandsvertretungen für die Zwecke des Artikels 34 Absatz 1 Buchstabe d und f der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+5. das Bundesamt für Migration und Flüchtlinge für die Zwecke des Artikels 34 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+6. das Bundesamt für Seeschifffahrt und Hydrographie für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+7. die Wasserstraßen- und Schifffahrtsämter für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+8. die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+9. das Luftfahrt-Bundesamt für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+10. das Kraftfahrt-Bundesamt für die Zwecke des Artikels 45 Absatz 1 der Verordnung (EU) 2018/1862,
+
+11. die für die Zulassung von Kraftfahrzeugen zuständigen Behörden für die Zwecke des Artikels 45 Absatz 1 der Verordnung (EU) 2018/1862,
+
+12. das Bundesverwaltungsamt für die Zwecke des Artikels 34 Absatz 1 Buchstabe d und f der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1862,
+
+13. die Waffenbehörden bei der Erteilung waffenrechtlicher Erlaubnisse für die Zwecke des Artikels 47 Absatz 1 der Verordnung (EU) 2018/1862,
+
+14. die für die Eintragung von Wasserfahrzeugen in ein Schiffsregister zuständigen Amtsgerichte für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+15. die für die Erteilung von amtlichen Kennzeichen für Wasserfahrzeuge nach landesrechtlichen Vorschriften zuständigen Landesbehörden für die Zwecke des Artikels 46 Absatz 1 der Verordnung (EU) 2018/1862,
+
+16. die obersten Landesbehörden im Rahmen ihrer Zuständigkeiten nach dem Aufenthaltsgesetz für die Zwecke des Artikels 34 Absatz 1 Buchstabe d der Verordnung (EU) 2018/1861,
+
+17. die Hauptzollämter für die Zwecke des Artikels 34 Absatz 1 Buchstabe b und c der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1 Buchstabe b und c der Verordnung (EU) 2018/1862 und
+
+18. die Staatsanwaltschaften für die Zwecke des Artikels 44 Absatz 3 der Verordnung (EU) 2018/1862.
+
+Die in Satz 1 Nummer 1 bis 18 genannten berechtigten staatlichen Stellen haben einen direkten Zugriff auf das N.SIS.
+
+(2) Ausschreibungen des Bundesamtes für Verfassungsschutz, des Militärischen Abschirmdienstes und des Bundesnachrichtendienstes nach Artikel 36 Absatz 4 der Verordnung (EU) 2018/1862 in Verbindung mit § 17 Absatz 3 des Bundesverfassungsschutzgesetzes erfolgen durch das Bundeskriminalamt in Amtshilfe im polizeilichen Informationsverbund. Soweit das Bundeskriminalamt auf eine Ausschreibung einer der in Satz 1 genannten Behörden Informationen nach Artikel 37 Absatz 1 der Verordnung (EU) 2018/1862 erhält, übermittelt es diese Informationen an diejenige in Satz 1 genannte Behörde, für die die Ausschreibung erfolgt ist.
+
+(3) Nichtstaatliche Stellen im Sinne des Artikels 46 Absatz 3 Satz 1 der Verordnung (EU) 2018/1862 sind die in den §§ 1 bis 4a der Verordnung zur Beauftragung von Luftsportverbänden vom 16. Dezember 1993 (BGBl. I S. 2111), die zuletzt durch Artikel 5 der Verordnung vom 12. Dezember 2016 (BGBl. I S. 2864) geändert worden ist, und die in § 5 Satz 2 der Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 2 § 4 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, genannten Organisationen. Sie erhalten über das Bundeskriminalamt Zugang zu den in Artikel 46 Absatz 1 der Verordnung (EU) 2018/1862 genannten Daten im SIS.
+
+(4) Die in Absatz 1 Satz 1 Nummer 6 bis 11 und 13 bis 15 genannten berechtigten staatlichen Stellen sowie die in Absatz 3 genannten nichtstaatlichen Stellen sind verpflichtet, in jedem der in den Artikeln 45 bis 47 der Verordnung (EU) 2018/1862 genannten Verfahren die ihnen zugänglichen Daten zu der in Artikel 45 Absatz 1, Artikel 46 Absatz 1 oder Artikel 47 Absatz 1 der Verordnung (EU) 2018/1862 vorgesehenen Überprüfung abzurufen. Im Falle eines Treffers informieren die in Satz 1 genannten Stellen darüber die jeweils zuständige Landespolizeidienststelle.
+
+(5) Soweit den nach Absatz 1 Satz 1 berechtigten staatlichen Stellen ein direkter Zugriff auf das N.SIS technisch nicht möglich ist, erhalten sie über das Bundeskriminalamt Zugang zu den Daten im SIS für die in Absatz 1 Satz 1 jeweils genannten Zwecke.
+
+(6) Nur die berechtigte staatliche Stelle, die Daten zu einer Person oder Sache eingegeben hat, ist befugt, diese zu ändern, zu berichtigen und zu löschen. Hat eine teilnehmende Stelle des SIS Anhaltspunkte dafür, dass Daten unrichtig oder zu löschen sind, teilt sie dies umgehend der eingebenden Behörde mit, die verpflichtet ist, diese Mitteilung unverzüglich zu prüfen und erforderlichenfalls die Daten unverzüglich zu berichtigen oder zu löschen oder in ihrer Verarbeitung einzuschränken. Im Falle einer Löschung der Daten hat die Behörde nach Satz 1 auch die Daten zu der Person nach § 3 Absatz 3f des AZR-Gesetzes, die sie an die Registerbehörde nach § 1 Absatz 1 Satz 1 des AZR-Gesetzes übermittelt hat, unverzüglich im Ausländerzentralregister zu löschen oder die Löschung durch die Registerbehörde zu veranlassen.
+
+(7) Im Rahmen des nationalen SIS obliegt die datenschutzrechtliche Verantwortung für die dort gespeicherten Daten, namentlich für die Rechtmäßigkeit der Erhebung, die Zulässigkeit der Eingabe sowie die Richtigkeit oder Aktualität der Daten, den Stellen, die die Daten unmittelbar eingeben. Die verantwortliche Stelle muss feststellbar sein. Die Verantwortung für die Zulässigkeit des Abrufs im automatisierten Verfahren trägt die empfangende Stelle.
+
+(8) Die Datenschutzkontrolle obliegt der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Die von den Ländern in das SIS eingegebenen Datensätze können auch von den jeweiligen im Landesrecht bestimmten öffentlichen Stellen, die für die Kontrolle der Einhaltung der Vorschriften über den Datenschutz zuständig sind, im Zusammenhang mit der Wahrnehmung ihrer Prüfungsaufgaben in den Ländern kontrolliert werden, soweit die Länder nach Absatz 7 verantwortlich sind. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit arbeitet insoweit mit den im Landesrecht bestimmten öffentlichen Stellen, die für die Kontrolle der Einhaltung der Vorschriften über den Datenschutz zuständig sind, zusammen.
 
 # § 34 – Einsatz technischer Mittel zur Eigensicherung
 

@@ -453,7 +453,6 @@
 - [BAföG-TeilerlaßV](laws/BAföG-TeilerlaßV.md) Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
 - [BAföGZustV 2004](laws/BAföGZustV_2004.md) Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
 - [BAFzAZustAnO](laws/BAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
-- [BAGÜV](laws/BAGÜV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr
 - [BahnG](laws/BahnG.md) Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs
 - [BahnVorschrAnwG](laws/BahnVorschrAnwG.md) Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
 - [BAIUDBwOWiZustV](laws/BAIUDBwOWiZustV.md) Verordnung über die Zuständigkeit des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für die Verfolgung und Ahndung von Ordnungswidrigkeiten
@@ -461,6 +460,7 @@
 - [BAKredWWSUBefÜV](laws/BAKredWWSUBefÜV.md) Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [BaktWaffVernÜbk](laws/BaktWaffVernÜbk.md) Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 - [BaktWaffVernÜbkG](laws/BaktWaffVernÜbkG.md) Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
+- [BALMÜV](laws/BALMÜV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Logistik und Mobilität
 - [BAMBGebV](laws/BAMBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Materialforschung und -prüfung
 - [BankFachwPrV](laws/BankFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
 - [BankkflAusbV](laws/BankkflAusbV.md) Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau*
@@ -5091,6 +5091,7 @@
 - [SignBenennV](laws/SignBenennV.md) Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 - [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
+- [SISIIIGArt3Nr5u7InkrBek](laws/SISIIIGArt3Nr5u7InkrBek.md) Bekanntmachung über das Inkrafttreten des Artikels 3 Nummer 5 und 7 des SIS-III-Gesetzes
 - [SiV](laws/SiV.md) Verordnung über die Anforderungen an Sicherheiten und die Anlage bestimmter Vermögen
 - [SKAG Berlin](laws/SKAG_Berlin.md) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
 - [SkAufG](laws/SkAufG.md) Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland

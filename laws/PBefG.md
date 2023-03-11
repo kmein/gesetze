@@ -1259,7 +1259,7 @@ bezeichneten Gebot oder Verbot entspricht, soweit eine Rechtsverordnung nach § 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 5 Buchstabe a mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Genehmigungsbehörde oder die von der Landesregierung bestimmte Behörde. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen. In den Fällen des § 52 Abs. 3 Satz 2 ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
+(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Genehmigungsbehörde oder die von der Landesregierung bestimmte Behörde. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen. In den Fällen des § 52 Abs. 3 Satz 2 ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und Mobilität.
 
 (4) In den Fällen des Absatzes 1 kann die Ordnungswidrigkeit auf der Grundlage und nach Maßgabe internationaler Übereinkünfte auch dann geahndet werden, wenn sie im Bereich gemeinsamer Grenzabfertigungsanlagen außerhalb des räumlichen Geltungsbereiches dieses Gesetzes begangen wird.
 

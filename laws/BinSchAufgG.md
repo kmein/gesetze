@@ -415,7 +415,7 @@ an die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes o
 
 4. Überprüfung von Angaben in Zusammenhang mit den Regelungen des Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
 
-5. Durchführung der Marktbeobachtung nach § 14 des Güterkraftverkehrsgesetzes an das Bundesamt für Güterverkehr
+5. Durchführung der Marktbeobachtung nach § 14 des Güterkraftverkehrsgesetzes an das Bundesamt für Logistik und Mobilität
 
 übermittelt werden.
 
