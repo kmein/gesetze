@@ -1829,7 +1829,7 @@ b) die in Nummer 1 Buchstabe b, c, d und h bezeichneten Daten und das Ende des V
 
 2. für die Zwecke des Verkehrssicherstellungsgesetzes den nach § 19 des Verkehrssicherstellungsgesetzes bestimmten Behörden,
 
-3. für die Zwecke des Verkehrsleistungsgesetzes dem Bundesamt für Güterverkehr sowie
+3. für die Zwecke des Verkehrsleistungsgesetzes dem Bundesamt für Logistik und Mobilität sowie
 
 4. für die Zwecke des Katastrophenschutzes den nach den von den Ländern für Maßnahmen des Katastrophenschutzes erlassenen Gesetzen zuständigen Stellen
 
@@ -1841,7 +1841,7 @@ auf entsprechende Anforderung die nach § 31 Absatz 1 gespeicherten Fahrzeugdate
 
 2. für die Zwecke des Verkehrssicherstellungsgesetzes den nach § 19 des Verkehrssicherstellungsgesetzes bestimmten Behörden,
 
-3. für die Zwecke des Verkehrsleistungsgesetzes dem Bundesamt für Güterverkehr sowie
+3. für die Zwecke des Verkehrsleistungsgesetzes dem Bundesamt für Logistik und Mobilität sowie
 
 4. für die Zwecke des Katastrophenschutzes den nach den von den Ländern für Maßnahmen des Katastrophenschutzes erlassenen Gesetzen zuständigen Stellen und den diesen vorgesetzten Behörden
 
@@ -1925,7 +1925,7 @@ b) die Fahrzeugklasse, die Marke, die Handelsbezeichnung, den Typ und bei Pkw di
 
 (4) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2b des Straßenverkehrsgesetzes dürfen die nach § 32 Absatz 1 in Verbindung mit § 6 Absatz 7 Nummer 1 und 7 Buchstabe c bis e gespeicherten Halterdaten und die nach § 30 Absatz 1 Nummer 9 gespeicherten Fahrzeugdaten bereitgehalten werden, soweit sie für die Ermittlung des Schuldners und der Höhe der Mautgebühr nach dem Fernstraßenbauprivatfinanzierungsgesetz in der Fassung der Bekanntmachung vom 6. Januar 2006 (BGBl. I S. 49) in der jeweils geltenden Fassung erforderlich sind. Die Daten nach Satz 1 werden für den mit der Erhebung der Mautgebühr nach dem Fernstraßenbauprivatfinanzierungsgesetz beliehenen Privaten zum Abruf bereitgehalten. Gleiches gilt für Daten, soweit sie für die Ermittlung des Schuldners und der Höhe der Mautgebühr nach Gesetzen der Länder über den gebührenfinanzierten Neu- und Ausbau von Straßen erforderlich sind.
 
-(5) Die Übermittlung nach § 36 Absatz 2c des Straßenverkehrsgesetzes von Fahrzeugdaten und Daten von Fahrzeugkombinationen, die für die Erhebung der Maut nach dem Bundesfernstraßenmautgesetz in der jeweils geltenden Fassung maßgeblich sind, ist durch Abruf im automatisierten Verfahren zulässig. Satz 1 gilt auch für die in Ziffer 33 des Fahrzeugscheins oder Ziffer 22 der Zulassungsbescheinigung Teil I eingetragenen Fahrzeugdaten und Daten von Fahrzeugkombinationen, die im Zentralen Fahrzeugregister erfasst sind. Die Daten nach Satz 1 werden bereitgehalten für das Bundesamt für Güterverkehr und eine sonstige öffentliche Stelle, die mit der Erhebung der Autobahnmaut beauftragt ist.
+(5) Die Übermittlung nach § 36 Absatz 2c des Straßenverkehrsgesetzes von Fahrzeugdaten und Daten von Fahrzeugkombinationen, die für die Erhebung der Maut nach dem Bundesfernstraßenmautgesetz in der jeweils geltenden Fassung maßgeblich sind, ist durch Abruf im automatisierten Verfahren zulässig. Satz 1 gilt auch für die in Ziffer 33 des Fahrzeugscheins oder Ziffer 22 der Zulassungsbescheinigung Teil I eingetragenen Fahrzeugdaten und Daten von Fahrzeugkombinationen, die im Zentralen Fahrzeugregister erfasst sind. Die Daten nach Satz 1 werden bereitgehalten für das Bundesamt für Logistik und Mobilität und eine sonstige öffentliche Stelle, die mit der Erhebung der Autobahnmaut beauftragt ist.
 
 (5a) Zur Übermittlung durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2d und 2e des Straßenverkehrsgesetzes die in Absatz 2 Nummer 1 Buchstabe a und b genannten Daten für Anfragen unter Verwendung folgender Angaben bereitgehalten werden:
 

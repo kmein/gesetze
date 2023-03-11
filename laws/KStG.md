@@ -1449,7 +1449,7 @@ Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse
 
 (7) Die Endbestände sind getrennt auszuweisen und werden gesondert festgestellt; dabei sind die verbleibenden unbelasteten Teilbeträge im Sinne des § 30 Abs. 2 Nr. 1 und 3 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, in einer Summe auszuweisen.
 
-(+++ § 36: Zur Anwendung vgl. § 34 Abs. 13f +++)  
+(+++ § 36: Zur Anwendung vgl. § 34 Abs. 13f idF v. 8.12.2010 u. § 34 Abs. 11 idF v. 25.7.2014 +++)  
 § 36 Abs. 3 u. Abs. 4 idF v. 23.10.2000: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 17.11.2009; 2010 I 326 - 1 BvR 2192/05 -
 
 # § 37 – Körperschaftsteuerguthaben und Körperschaftsteuerminderung

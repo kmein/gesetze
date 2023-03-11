@@ -228,7 +228,7 @@ mündliche Prüfung zu 25 Prozent.
 
 (2) Wird in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraumes die Anerkennung einer im Inland erworbenen Berufsqualifikation beantragt, so arbeitet die Genehmigungsbehörde mit den zuständigen Behörden des anderen Staates zusammen und leistet Amtshilfe. Sie teilt diesen Behörden auf deren Ersuchen mit, ob im Inland eine rechtmäßige Niederlassung besteht oder bestanden hat und ob strafrechtliche Verurteilungen oder andere Tatsachen vorliegen, die geeignet sind, Zweifel an der Zuverlässigkeit zu begründen.
 
-(3) Das Bundesamt für Güterverkehr unterrichtet die zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union oder des Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1073/2009 über die ihm bekannt gewordenen Verstöße gegen die Vorschriften für das Personenkraftverkehrsgewerbe und gemäß Artikel 56 Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt gewordenen strafrechtlichen Verurteilungen und andere Tatsachen, die geeignet sind, Zweifel an der Zuverlässigkeit des Unternehmens zu begründen.
+(3) Das Bundesamt für Logistik und Mobilität unterrichtet die zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union oder des Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1073/2009 über die ihm bekannt gewordenen Verstöße gegen die Vorschriften für das Personenkraftverkehrsgewerbe und gemäß Artikel 56 Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt gewordenen strafrechtlichen Verurteilungen und andere Tatsachen, die geeignet sind, Zweifel an der Zuverlässigkeit des Unternehmens zu begründen.
 
 # § 11 – Inkrafttreten, Außerkrafttreten
 

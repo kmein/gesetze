@@ -89,7 +89,7 @@ Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in folgen
 
 (2) Die Durchführung der Aufsicht richtet sich nach den §§ 54 und 54a des Personenbeförderungsgesetzes.
 
-(3) Sofern das Unternehmen nicht in Deutschland niedergelassen ist und kein Fall des Absatzes 1 vorliegt, hat das Bundesamt für Güterverkehr unter Beachtung der §§ 4b und 4c des Bundesdatenschutzgesetzes
+(3) Sofern das Unternehmen nicht in Deutschland niedergelassen ist und kein Fall des Absatzes 1 vorliegt, hat das Bundesamt für Logistik und Mobilität unter Beachtung der §§ 4b und 4c des Bundesdatenschutzgesetzes
 
 1. Rechtsverstöße, die geeignet sind, die Begrenzung oder den Entzug des Marktzugangs des Unternehmens zu begründen, nach Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1073/2009 der zuständigen Behörde des Niederlassungsstaates sowie
 

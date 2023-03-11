@@ -145,7 +145,7 @@ Widerspruch und Anfechtungsklage gegen nach § 6 erlassene Verwaltungsakte oder 
 
 (1) Soweit dies zur Sicherstellung der Grundversorgung in einer Versorgungskrise erforderlich ist, können die zuständigen Behörden unter den dort genannten Voraussetzungen
 
-1. nach § 7 des Verkehrsleistungsgesetzes über die Bundesanstalt beim Bundesamt für Güterverkehr Verkehrsleistungen anfordern,
+1. nach § 7 des Verkehrsleistungsgesetzes über die Bundesanstalt beim Bundesamt für Logistik und Mobilität Verkehrsleistungen anfordern,
 
 2. nach den §§ 10 bis 14 des Verkehrssicherstellungsgesetzes in Verbindung mit einer auf Grund des Verkehrssicherstellungsgesetzes erlassenen Rechtsverordnung Leistungen anfordern,
 
