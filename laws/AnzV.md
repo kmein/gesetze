@@ -449,7 +449,7 @@ Bei der Einreichung des festgestellten Jahresabschlusses ist der Tag der Festste
 
 einzureichen.
 
-(5) Zur Beurteilung der Zuverlässigkeit der Antragsteller und der Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer 1 bis 5, §§ 9 bis 11 und 14 der Inhaberkontrollverordnung genannten Erklärungen und Unterlagen beizufügen und auf Verlangen der Bundesanstalt Auskünfte zu erteilen. Jeder Lebenslauf nach § 10 der Inhaberkontrollverordnung ist eigenhändig zu unterzeichnen. Die §§ 4, 5 und 16 der Inhaberkontrollverordnung sind entsprechend anzuwenden.
+(5) Zur Beurteilung der Zuverlässigkeit der Antragsteller und der Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer 1 bis 5, §§ 8a bis 11a und 14 der Inhaberkontrollverordnung genannten Erklärungen und Unterlagen beizufügen und auf Verlangen der Bundesanstalt Auskünfte zu erteilen. Jeder Lebenslauf nach § 10 der Inhaberkontrollverordnung ist eigenhändig zu unterzeichnen. Die §§ 4, 5 und 16 der Inhaberkontrollverordnung sind entsprechend anzuwenden.
 
 (6) Zur Beurteilung der zur Leitung des Instituts erforderlichen fachlichen Eignung der Inhaber und der Geschäftsleiter und zur Beurteilung der erforderlichen Sachkunde der Mitglieder des Verwaltungs- oder Aufsichtsorgans sind,
 
