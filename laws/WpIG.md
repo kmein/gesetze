@@ -377,6 +377,8 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 (38) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Wertpapierinstitut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerung von Aktivitäten und Prozessen, die für die Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
+§ 2 Abs. 20 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Satzzeichen "erbringt;" durch das Satzzeichen "erbringt." ersetzt
+
 # § 3 – Ausnahmen
 
 (1) Als Wertpapierinstitut gelten nicht

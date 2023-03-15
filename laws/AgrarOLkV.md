@@ -97,7 +97,7 @@ des § 3 Absatz 3 und des § 8 Absatz 5 Satz 1 und 3 des Agrarorganisationen-und
 
 (1) Die Bereiche von Agrarerzeugnissen, für die jeweils Agrarorganisationen anerkannt werden können, (Erzeugnisbereiche) sind
 
-1. die Sektoren, die in Artikel 1 Absatz 2 Buchstabe a bis h und j bis w der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung festgelegt sind, wobei die in Abschnitt I der Anlage dieser Verordnung enthaltenen Ergänzungen einzelner dieser Sektoren als Bestandteil des jeweiligen Erzeugnisbereichs gelten, sowie
+1. die Sektoren, die in Artikel 1 Absatz 2 Buchstabe a bis h und j bis w der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12) in der jeweils geltenden Fassung festgelegt sind, wobei die in Abschnitt I der Anlage dieser Verordnung enthaltenen Ergänzungen einzelner dieser Sektoren als Bestandteil des jeweiligen Erzeugnisbereichs gelten, sowie
 
 2. die in Abschnitt II der Anlage dieser Verordnung genannten Erzeugnisbereiche.
 
@@ -105,7 +105,7 @@ des § 3 Absatz 3 und des § 8 Absatz 5 Satz 1 und 3 des Agrarorganisationen-und
 
 (3) Abweichend von Absatz 1 können im Erzeugnisbereich Wein keine Branchenverbände anerkannt werden. Abweichend von Satz 1 können die Landesregierungen durch Rechtsverordnung vorsehen, dass zur Berücksichtigung besonderer regionaler Bedürfnisse Branchenverbände anerkannt werden.
 
-(4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine Anerkennung von Agrarorganisationen nach anderen Vorschriften vorgesehen ist, gilt diese Verordnung nicht.
+(4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine Anerkennung von Agrarorganisationen nach anderen Vorschriften vorgesehen ist, gelten Teil 1, § 33 Absatz 1, 2 und 3 Nummer 1, § 34 und, soweit die Durchführung des Agrarorganisationenrechts betroffen ist, die §§ 32 und 33 Absatz 3 Nummer 2 und 3 dieser Verordnung nicht, soweit nicht in anderen Rechtsvorschriften etwas Abweichendes bestimmt ist.
 
 # § 2 – Grundsatz der Anerkennung
 
@@ -189,7 +189,7 @@ Soweit eine nicht in einem amtlichen Register eintragungsfähige Personenvereini
 
 1. eine Agrarorganisation wiederholt verstößt gegen
 
-a) Bestimmungen in den Artikeln 149, 152 bis 165, 167 und 172 der Verordnung (EU) Nr. 1308/2013 und in den auf der Grundlage der Artikel 166, 173 und 174 der Verordnung (EU) Nr. 1308/2013 erlassenen Rechtsakten oder
+a) Bestimmungen in den Artikeln 149, 152 bis 165, 166a und 167 der Verordnung (EU) Nr. 1308/2013 und in den auf der Grundlage der Artikel 166, 173 und 174 der Verordnung (EU) Nr. 1308/2013 erlassenen Rechtsakten oder
 
 b) Bestimmungen dieser Verordnung, die den in Buchstabe a bezeichneten Bestimmungen entsprechen, oder
 
@@ -237,7 +237,7 @@ b) aus denen von ihr oder ihm oder der Erzeugerorganisation ein Agrarverarbeitun
 
 Satz 1 Nummer 2 gilt nicht im Erzeugnisbereich Milch und Milcherzeugnisse.
 
-(2) Abweichend von Absatz 1 Satz 1 Nummer 2 kann einer Erzeugerorganisation auch eine erzeugende Peron, die zugleich Mitglied einer oder mehrerer anderer Erzeugerorganisationen in diesem Erzeugnisbereich ist, nach Maßgabe der Sätze 2 bis 4 angehören. Die betreffende Person muss zwei getrennte Produktionseinheiten in unterschiedlichen geografischen Gebieten besitzen. Soweit eine oder mehrere Produktionseinheiten in einem anderen geografischen Gebiet liegen, darf die erzeugende Person für diese Produktionseinheiten einer anderen Erzeugerorganisation angehören. Unterschiedliche geografische Gebiete liegen vor, wenn die betroffenen Erzeugerorganisationen unterschiedliche räumliche Bereiche abdecken.
+(2) Abweichend von Absatz 1 Satz 1 Nummer 2 kann einer Erzeugerorganisation auch eine erzeugende Person, die zugleich Mitglied einer oder mehrerer anderer Erzeugerorganisationen in diesem Erzeugnisbereich ist, nach Maßgabe der Sätze 2 bis 4 angehören. Die betreffende Person muss zwei getrennte Produktionseinheiten in unterschiedlichen geografischen Gebieten besitzen. Soweit eine oder mehrere Produktionseinheiten in einem anderen geografischen Gebiet liegen, darf die erzeugende Person für diese Produktionseinheiten einer anderen Erzeugerorganisation angehören. Unterschiedliche geografische Gebiete liegen vor, wenn die betroffenen Erzeugerorganisationen unterschiedliche räumliche Bereiche abdecken.
 
 (3) Für den Fall, dass eine erzeugende Person während ihrer Mitgliedschaft die nach Absatz 1 Satz 1 Nummer 1 vorgeschriebene Erzeugung einstellt, muss die Satzung einer Erzeugerorganisation vorsehen, dass das Mitglied, vorbehaltlich einer Mitgliedschaft im Sinne des Absatzes 4, innerhalb eines Jahres nach der Einstellung aus der Erzeugerorganisation ausscheidet, sofern vereins- oder gesellschaftsrechtliche Vorschriften nicht entgegenstehen.
 
@@ -395,7 +395,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (3) Die zuständigen Stellen teilen dem Bundesministerium bis zum 15. Juni des jeweiligen Jahres in elektronisch verarbeitungsfähiger Form das Ergebnis der Kontrolle nach der Verordnung (EWG) Nr. 1516/74 mit.
 
-(4) Die zuständigen Stellen teilen der Bundesanstalt bis zum 31. August eines jeden Wirtschaftsjahres in elektronisch verarbeitungsfähiger Form in Bezug auf dieses Wirtschaftsjahr die Angaben zu den Branchenvereinbarungen und Wertaufteilungsklauseln mit, die in Artikel 12 Buchstabe b in Verbindung mit Anhang III Nummer 2 Buchstabe E der Durchführungsverordnung (EU) 2017/1185 der Kommission vom 20. April 2017 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission und zur Änderung und Aufhebung mehrerer Verordnungen der Kommission (ABl. L 171 vom 4.7.2017, S. 113), die durch die Durchführungsverordnung (EU) 2019/1746 (ABl. L 268 vom 22.10.2019, S. 6; L 155 vom 18.5.2020, S. 51) geändert worden ist, in der jeweils geltenden Fassung genannt sind.
+(4) Die zuständigen Stellen teilen der Bundesanstalt bis zum 31. August eines jeden Wirtschaftsjahres in elektronisch verarbeitungsfähiger Form in Bezug auf dieses Wirtschaftsjahr die Angaben zu den Branchenvereinbarungen und Wertaufteilungsklauseln mit, die in Artikel 12 Buchstabe b in Verbindung mit Anhang III Nummer 2 Buchstabe E der Durchführungsverordnung (EU) 2017/1185 der Kommission vom 20. April 2017 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission und zur Änderung und Aufhebung mehrerer Verordnungen der Kommission (ABl. L 171 vom 4.7.2017, S. 113) in der jeweils geltenden Fassung genannt sind.
 
 # § 22 – Einhaltung der Voraussetzungen bei Vertragsverhandlungen
 
@@ -407,11 +407,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 # § 23 – Mitteilungen bei Verhandlungen über Rohmilchlieferverträge
 
-(1) Die zuständigen Stellen teilen der Bundesanstalt in elektronisch verarbeitungsfähiger Form mit:
-
-1. zusammen mit der Mitteilung nach § 28 Absatz 1 die in Artikel 1 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39), die durch die Durchführungsverordnung (EU) 2015/2000 (ABl. L 292 vom 10.11.2015, S. 4) geändert worden ist, in der jeweils geltenden Fassung genannten Angaben, soweit sie nicht bereits von § 28 Absatz 1 erfasst werden, sowie
-
-2. bis zum 1. März eines jeden Jahres die in Artikel 3 Absatz 1 der Durchführungsverordnung (EU) Nr. 511/2012 genannten Angaben.
+(1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch verarbeitungsfähiger Form bis zum 1. März eines jeden Jahres die Angaben mitzuteilen, die in Artikel 3 Absatz 1 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39) in der jeweils geltenden Fassung genannt sind.
 
 (2) Ergibt sich aus einer Mitteilung nach Artikel 2 Absatz 1 der Durchführungsverordnung (EU) Nr. 511/2012, dass die Vertragsverhandlungen mehr als einen Mitgliedstaat betreffen, übermittelt die zuständige Stelle die Informationen im Sinne des Artikels 3 Absatz 2 der Durchführungsverordnung (EU) Nr. 511/2012 in elektronisch verarbeitungsfähiger Form der Bundesanstalt und nachrichtlich der zuständigen Kartellbehörde.
 
@@ -433,29 +429,23 @@ Die zuständige Stelle hat jährlich auf der Grundlage einer Risikoanalyse minde
 
 # § 28 – Mitteilungen
 
-(1) Die zuständigen Stellen teilen der Bundesanstalt bis zum 10. März eines jeden Jahres in elektronisch verarbeitungsfähiger Form folgende auf das Vorjahr bezogene Angaben mit:
+(1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch verarbeitungsfähiger Form mitzuteilen:
 
-1. die zum 31. Dezember anerkannten Agrarorganisationen,
+1. bis zum 1. März eines jeden Jahres die Angaben, die in Artikel 5 Absatz 1 der Delegierten Verordnung (EU) 2016/232 der Kommission vom 15. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf bestimmte Aspekte der Zusammenarbeit zwischen Erzeugern (ABl. L 44 vom 19.2.2016, S. 1) in der jeweils geltenden Fassung genannt sind,
 
-2. die Anerkennungen,
+2. bis zum 15. Oktober eines jeden Jahres die Angaben, die in Artikel 5 Absatz 2 Buchstabe a und b der Delegierten Verordnung (EU) 2016/232 genannt sind.
 
-3. die Versagungen der Anerkennung,
+Für die Mitteilungen nach Satz 1 kann die Bundesanstalt elektronische Formulare bereitstellen. Sofern die Bundesanstalt elektronische Formulare bereitstellt, haben die zuständigen Stellen diese zu verwenden.
 
-4. den Wegfall der Anerkennung,
+(2) Eine anerkannte Agrarorganisation hat der zuständigen Stelle alle Informationen, die für die Erfüllung von Mitteilungspflichten nach Absatz 1 erforderlich sind, mindestens einen Monat vor Ablauf der jeweiligen in Absatz 1 genannten Fristen mitzuteilen. Für die Mitteilungen nach Satz 1 kann die zuständige Stelle schriftliche oder elektronische Muster, Vordrucke oder Formulare bereitstellen. Sofern die zuständige Stelle schriftliche oder elektronische Muster, Vordrucke oder Formulare bereitstellt, hat die anerkannte Agrarorganisation diese zu verwenden.
 
-5. das Ruhen der Anerkennung und die Aufhebung des Ruhens sowie
+(3) Soweit nach Unionsrecht Angaben bezüglich anerkannter Agrarorganisationen über Absatz 1 hinaus zu erheben sind, hat
 
-6. für anerkannte Erzeugerorganisationen jeweils die Liste nach § 9 Absatz 5.
+1. eine anerkannte Agrarorganisation der zuständigen Stelle solche Angaben mitzuteilen,
 
-In den Fällen des Satzes 1 Nummer 3 und 4 ist der Mitteilung eine Zusammenfassung der maßgebenden Gründe beizufügen.
+2. die zuständige Stelle der Bundesanstalt solche Angaben mitzuteilen.
 
-(2) Die Angaben nach Absatz 1 erfolgen jeweils
-
-1. aufgeteilt nach Erzeugnisbereichen und den in § 1 Absatz 1 Nummer 1 des Agrarorganisationen-und-Lieferketten-Gesetzes genannten Organisationsformen sowie
-
-2. als Gesamtzahl.
-
-(3) Soweit nach Unionsrecht Angaben über Absatz 1 hinaus zu erheben sind, teilen die zuständigen Stellen solche Angaben der Bundesanstalt mit. Ist im Unionsrecht eine Frist für die Erhebung solcher Angaben oder für deren Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 mindestens einen Monat vor Ablauf der betreffenden Frist zu erfolgen, soweit nicht in dieser Verordnung eine anderweitige Frist bestimmt ist.
+Ist im Unionsrecht eine Frist für die Erhebung solcher Angaben oder für deren Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 Nummer 1 mindestens zwei Monate und die Mitteilung nach Satz 1 Nummer 2 mindestens einen Monat vor Ablauf der betreffenden Frist zu erfolgen, soweit nicht in dieser Verordnung eine andere Frist bestimmt ist.
 
 (4) Soweit Angaben, die im Rahmen dieser Verordnung der Bundesanstalt vorliegen, der Europäischen Union zu übermitteln sind, teilt die Bundesanstalt die Angaben nach den Vorschriften des Unionsrechts der Europäischen Union mit.
 
@@ -493,7 +483,7 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 5. erforderliche Auskünfte verlangen.
 
-(2) Die leitenden Personen einer Agrarorganisation, der Käufer und der Lieferant sind verpflichtet,
+(2) Die Agrarorganisation, der Käufer und der Lieferant sind verpflichtet,
 
 1. die in Absatz 1 Nummer 1 bis 4 genannten Handlungen zu dulden und
 
@@ -509,7 +499,7 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 2. entgegen § 4 Absatz 1 Satz 4 eine Angabe nicht richtig macht oder einen Nachweis nicht richtig vorlegt,
 
-3. entgegen § 4 Absatz 3 Satz 1, § 5 Absatz 3 Satz 2, auch in Verbindung mit § 34 Absatz 3 Satz 4, oder entgegen § 17 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht oder
+3. entgegen § 4 Absatz 3 Satz 1, § 5 Absatz 3 Satz 2 oder § 17 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht oder
 
 4. entgegen § 22 Absatz 1 Satz 1, auch in Verbindung mit Absatz 3, eine dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beifügt.
 
@@ -519,11 +509,13 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 1. entgegen § 26 eine Unterlage nicht oder nicht mindestens vier Jahre aufbewahrt,
 
-2. entgegen § 32 Absatz 2 Satz 1 Nummer 1, auch in Verbindung mit Satz 2, eine dort genannte Handlung nicht duldet oder
+2. entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht duldet,
 
-3. entgegen § 32 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit Satz 2, bei einer dort genannten Maßnahme nicht mitwirkt.
+3. entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme nicht mitwirkt oder
 
-(4) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 3 des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 2 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39), die durch die Durchführungsverordnung (EU) 2015/2000 (ABl. L 292 vom 10.11.2015, S. 4) geändert worden ist, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+4. entgegen § 28 Absatz 2 Satz 1 die dort genannten Informationen nicht, nicht vollständig oder nicht rechtzeitig mitteilt.
+
+(4) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 3 des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 2 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39), die zuletzt durch die Durchführungsverordnung (EU) 2022/2091 (ABl. L 281 vom 31.10.2022, S. 16) geändert worden ist, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 # § 34 – Übergangsbestimmungen
 

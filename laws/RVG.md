@@ -1939,7 +1939,7 @@ Terminsgebühr, soweit in Nummer 3106 nichts anderes bestimmt ist ..........
 
 (1) Die Gebühr entsteht auch, wenn
 
-1. in einem Verfahren, für das mündliche Verhandlung vorgeschrieben ist, im Einverständnis mit den Parteien oder Beteiligten oder gemäß § 307 oder § 495a ZPO ohne mündliche Verhandlung entschieden oder in einem solchen Verfahren mit oder ohne Mitwirkung des Gerichts ein Vertrag im Sinne der Nummer 1000 geschlossen wird oder eine Erledigung der Rechtssache im Sinne der Nummer 1002 eingetreten ist,
+1. in einem Verfahren, für das mündliche Verhandlung vorgeschrieben ist, im Einverständnis mit den Parteien oder Beteiligten oder gemäß § 307 oder § 495a ZPO oder § 77 Abs. 2 AsylG ohne mündliche Verhandlung entschieden oder in einem solchen Verfahren mit oder ohne Mitwirkung des Gerichts ein Vertrag im Sinne der Nummer 1000 geschlossen wird oder eine Erledigung der Rechtssache im Sinne der Nummer 1002 eingetreten ist,
 
 2. nach § 84 Abs. 1 Satz 1 VwGO oder § 105 Abs. 1 Satz 1 SGG durch Gerichtsbescheid entschieden wird und eine mündliche Verhandlung beantragt werden kann oder
 
