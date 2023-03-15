@@ -1771,7 +1771,6 @@
 - [EnVKV](laws/EnVKV.md) Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnWG](laws/EnWG.md) Gesetz über die Elektrizitäts- und Gasversorgung
 - [EnWGKostV](laws/EnWGKostV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz
-- [EnWGKostVÄndV9Ber](laws/EnWGKostVÄndV9Ber.md) Berichtigung der Neunten Verordnung zur Änderung der Energiewirtschaftskostenverordnung
 - [EnWPrV](laws/EnWPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft
 - [EÖlAnrAbk BEL](laws/EÖlAnrAbk_BEL.md) Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bundesrepublik Deutschland und dem Vice-Premier Ministre des Affaires Economiques du Royaume de Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EÖlBAbk NLD](laws/EÖlBAbk_NLD.md) Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
@@ -4925,7 +4924,7 @@
 - [SchulversucheV](laws/SchulversucheV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden
 - [SchUnfDatG](laws/SchUnfDatG.md) Schiffsunfalldatenbankgesetz
 - [SchuTSEV](laws/SchuTSEV.md) Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden *)
-- [Schutzmaßnahmenaussetzungsverordnung](laws/Schutzmaßnahmenaussetzungsverordnung.md) Verordnung zur Aussetzung von Verpflichtungen nach § 28b Absatz 1 des Infektionsschutzgesetzes
+- [SchutzmAussV](laws/SchutzmAussV.md) Verordnung zur Aussetzung von Verpflichtungen nach § 28b Absatz 1 des Infektionsschutzgesetzes
 - [SchutzRAbk PRT](laws/SchutzRAbk_PRT.md) Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes
 - [SchutzRAbk SWE](laws/SchutzRAbk_SWE.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Wiederherstellung gewerblicher Schutzrechte
 - [SchuV](laws/SchuV.md) Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
