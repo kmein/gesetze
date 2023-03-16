@@ -537,13 +537,13 @@ Kommt nach § 60 Abs. 3 die Beiladung von mehr als 50 Personen in Betracht, kann
 
 (1) Die Beteiligten können vor dem Finanzgericht den Rechtsstreit selbst führen.
 
-(2) Die Beteiligten können sich durch einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer als Bevollmächtigten vertreten lassen; zur Vertretung berechtigt sind auch Gesellschaften im Sinne des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes, die durch solche Personen handeln. Darüber hinaus sind als Bevollmächtigte vor dem Finanzgericht vertretungsbefugt nur
+(2) Die Beteiligten können sich durch einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer als Bevollmächtigten vertreten lassen; zur Vertretung berechtigt sind auch Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz 2 des Steuerberatungsgesetzes handeln. Darüber hinaus sind als Bevollmächtigte vor dem Finanzgericht vertretungsbefugt nur
 
 1. Beschäftigte des Beteiligten oder eines mit ihm verbundenen Unternehmens (§ 15 des Aktiengesetzes); Behörden und juristische Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse können sich auch durch Beschäftigte anderer Behörden oder juristischer Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse vertreten lassen,
 
 2. volljährige Familienangehörige (§ 15 der Abgabenordnung, § 11 des Lebenspartnerschaftsgesetzes), Personen mit Befähigung zum Richteramt und Streitgenossen, wenn die Vertretung nicht im Zusammenhang mit einer entgeltlichen Tätigkeit steht,
 
-3. Personen und Vereinigungen im Sinne des § 3a des Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des Steuerberatungsgesetzes,
+3. Personen und Vereinigungen im Sinne der §§ 3a und 3c des Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des Steuerberatungsgesetzes,
 
 3a. zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser Befugnisse,
 

@@ -2748,7 +2748,7 @@
 - [HonigV](laws/HonigV.md) Honigverordnung
 - [HopfEinV](laws/HopfEinV.md) Verordnung zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Einfuhr von Hopfen aus Drittländern
 - [HopfG](laws/HopfG.md) Hopfengesetz
-- [HopfV](laws/HopfV.md) Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts*)
+- [HopfV 2023](laws/HopfV_2023.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften im Hopfensektor
 - [HotelAusbV](laws/HotelAusbV.md) Verordnung über die Berufsausbildungen zum Hotelfachmann und zur Hotelfachfrau sowie zum Kaufmann für Hotelmanagement und zur Kauffrau für Hotelmanagement*
 - [HotelMeistPrV](laws/HotelMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
 - [HPflEGRLDV](laws/HPflEGRLDV.md) Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger

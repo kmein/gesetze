@@ -251,7 +251,7 @@ Die Genehmigung ist zu versagen, wenn die Tätigkeit nach Satz 1 mit dem öffent
 
 1. der Sitz der betroffenen juristischen Person oder rechtsfähigen Personengesellschaft oder die Hauptniederlassung oder der Wohnsitz des betroffenen Einzelkaufmanns,
 
-2. bei einer juristischen Person oder rechtsfähigen Personengesellschaft mit Sitz im Ausland oder einem Einzelkaufmann mit Hauptniederlassung im Ausland der Sitz oder die Geschäftsanschrift der betroffenen Zweigniederlassung oder
+2. bei einer juristischen Person oder rechtsfähigen Personengesellschaft mit Sitz im Ausland oder einem Einzelkaufmann mit Hauptniederlassung im Ausland der Sitz oder die Geschäftsanschrift der betroffenen Zweigniederlassung,
 
 3. der Wohnsitz oder Sitz eines organschaftlichen Vertreters der betroffenen juristischen Person oder rechtsfähigen Personengesellschaft oder
 

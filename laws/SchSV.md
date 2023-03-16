@@ -150,7 +150,7 @@ wenn durch Besichtigung die Übereinstimmung mit den anwendbaren Vorschriften di
 
 (4) Der Verantwortliche hat unter Antragstellung und auf eigene Kosten sicherzustellen, daß ein Schiff im Sinne des Absatzes 3, das die Bundesflagge führt und für das weder ein solches Schiffssicherheitszeugnis noch ein entsprechendes nach internationalen Regelungen an Bord mitzuführendes Bau- und Ausrüstungszeugnis oder eine Bescheinigung nach Maßgabe des Absatzes 5 gültig ist, vor der ersten Inbetriebnahme des Schiffes durch ihn oder auf seine Veranlassung oder vor der ersten Fahrt nach Ungültigwerden eines solchen Zeugnisses
 
-1. bei Bestehen einer Ausrüstungs- oder Zulassungspflicht für Navigations- oder Funkausrüstung an Bord dem Bundesamt für Seeschiffahrt oder Hydrographie zur Überprüfung dieser Ausrüstung sowie
+1. bei Bestehen einer Ausrüstungs- oder Zulassungspflicht für Navigations- oder Funkausrüstung an Bord dem Bundesamt für Seeschiffahrt und Hydrographie zur Überprüfung dieser Ausrüstung sowie
 
 2. in jedem Fall der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation zur Überprüfung des sicheren Zustands des Schiffes und seiner Ausrüstung
 

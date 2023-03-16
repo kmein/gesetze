@@ -47,9 +47,11 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 
 4. (weggefallen)
 
+Gesellschaften nach Satz 1 Nummer 2 und 3 handeln durch ihre Gesellschafter und Vertreter, in deren Person die für die Erbringung der geschäftsmäßigen Hilfeleistung in Steuersachen gesetzlich vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
+
 # § 3a – Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
 
-(1) Personen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz beruflich niedergelassen sind und dort befugt geschäftsmäßig Hilfe in Steuersachen nach dem Recht des Niederlassungsstaates leisten, sind zur vorübergehenden und gelegentlichen geschäftsmäßigen Hilfeleistung in Steuersachen im Anwendungsbereich dieses Gesetzes befugt. Die vorübergehende und gelegentliche geschäftsmäßige Hilfeleistung in Steuersachen kann vom Staat der Niederlassung aus erfolgen. Der Umfang der Befugnis zur Hilfeleistung in Steuersachen im Inland richtet sich nach dem Umfang dieser Befugnis im Niederlassungsstaat. Bei ihrer Tätigkeit im Inland unterliegen sie denselben Berufsregeln wie die in § 3 genannten Personen. Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert ist, gilt die Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen im Inland nur, wenn die Person den Beruf in einem oder in mehreren Mitgliedstaaten oder Vertragsstaaten oder der Schweiz während der vorhergehenden zehn Jahre mindestens ein Jahr lang ausgeübt hat. Ob die geschäftsmäßige Hilfeleistung in Steuersachen vorübergehend und gelegentlich erfolgt, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßiger Wiederkehr und Kontinuität zu beurteilen.
+(1) Personen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz beruflich niedergelassen sind und dort befugt geschäftsmäßig Hilfe in Steuersachen nach dem Recht des Niederlassungsstaates leisten, sind zur vorübergehenden und gelegentlichen geschäftsmäßigen Hilfeleistung in Steuersachen in der Bundesrepublik Deutschland befugt. Die vorübergehende und gelegentliche geschäftsmäßige Hilfeleistung in Steuersachen kann vom Staat der Niederlassung aus erfolgen. Der Umfang der Befugnis zur Hilfeleistung in Steuersachen im Inland richtet sich nach dem Umfang dieser Befugnis im Niederlassungsstaat. Bei ihrer Tätigkeit im Inland unterliegen sie denselben Berufsregeln wie die in § 3 genannten Personen. Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert ist, gilt die Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen im Inland nur, wenn die Person den Beruf in einem oder in mehreren Mitgliedstaaten oder Vertragsstaaten oder der Schweiz während der vorhergehenden zehn Jahre mindestens ein Jahr lang ausgeübt hat. Ob die geschäftsmäßige Hilfeleistung in Steuersachen vorübergehend und gelegentlich erfolgt, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßiger Wiederkehr und Kontinuität zu beurteilen.
 
 (2) Die geschäftsmäßige Hilfeleistung in Steuersachen nach Absatz 1 ist nur zulässig, wenn die Person vor der ersten Erbringung im Inland der zuständigen Stelle schriftlich oder elektronisch Meldung erstattet. Zuständige Stelle ist für Personen aus:
 
@@ -187,7 +189,7 @@ Für die Prüfung der Trennbarkeit der Tätigkeiten nach Satz 1 Nummer 3 berück
 
 # § 3e – Erlaubnis zum partiellen Zugang
 
-(1) Die Gewährung des partiellen Zugangs berechtigt die Person zur geschäftsmäßigen Hilfeleistung in Steuersachen im gesamten Hoheitsgebiet der Bundesrepublik Deutschland, beschränkt auf die Tätigkeit, für die partieller Zugang gewährt wurde. Der Umfang der Befugnis zur Hilfeleistung in Steuersachen in dem betreffenden Teilbereich im Inland richtet sich nach dem Umfang dieser Befugnis im Herkunftsmitgliedstaat. Bei der Ausübung der Tätigkeit sind die Berufsbezeichnung des Herkunftsmitgliedstaates und der Herkunftsmitgliedstaat anzugeben. Eine Verwechslung mit der Berufsbezeichnung nach § 43 muss ausgeschlossen sein. Dem Auftraggeber ist der Umfang des Tätigkeitsbereichs vor Leistungsbeginn in Textform mitzuteilen. Im Übrigen gelten die Vorschriften des Dritten Abschnitts des Zweiten Teils.
+(1) Die Gewährung des partiellen Zugangs berechtigt die Person zur geschäftsmäßigen Hilfeleistung in Steuersachen im gesamten Hoheitsgebiet der Bundesrepublik Deutschland, beschränkt auf die Tätigkeit, für die partieller Zugang gewährt wurde. Der Umfang der Befugnis zur Hilfeleistung in Steuersachen in dem betreffenden Teilbereich im Inland richtet sich nach dem Umfang dieser Befugnis im Herkunftsmitgliedstaat. Bei der Ausübung der Tätigkeit sind die Berufsbezeichnung des Herkunftsmitgliedstaates und der Herkunftsmitgliedstaat anzugeben. Eine Verwechslung mit der Berufsbezeichnung nach § 43 muss ausgeschlossen sein. Dem Auftraggeber ist der Umfang des Tätigkeitsbereichs vor Leistungsbeginn in Textform mitzuteilen. Im Übrigen gelten die Vorschriften des Dritten Abschnitts des Zweiten Teils sowie die auf Grund von § 86 Absatz 2 Nummer 2 erlassene Satzung entsprechend.
 
 (2) Die nach § 3d Absatz 2 Satz 2 zuständige Stelle kann alle aus ihrer Sicht zur Beurteilung des Antrags auf partiellen Zugang erforderlichen Informationen bei den zuständigen Stellen im Herkunftsmitgliedstaat einholen bei berechtigten Zweifeln
 
@@ -229,11 +231,17 @@ Die zuständige Stelle kann einer partiell zugelassenen Person die weitere Hilfe
 
 (1) Die Bundessteuerberaterkammer führt ein elektronisches Verzeichnis aller Personen, denen nach § 3d Absatz 1 ein partieller Zugang erteilt worden ist und die nach § 3e Absatz 4 in das Berufsregister eingetragen sind. Das Verzeichnis dient der Information der Behörden und Gerichte, der Rechtsuchenden sowie anderer am Rechtsverkehr Beteiligter. Die Steuerberaterkammern geben die im Berufsregister nach § 3e Absatz 4 gespeicherten Daten im automatisierten Verfahren in das von der Bundessteuerberaterkammer geführte Verzeichnis ein. Die zuständige Steuerberaterkammer trägt die datenschutzrechtliche Verantwortung für die von ihr in das Verzeichnis eingegebenen Daten, insbesondere für die Rechtmäßigkeit der Erhebung, die Vollständigkeit und die Richtigkeit der Daten. Der Abruf einzelner Daten aus dem Gesamtverzeichnis steht jedermann unentgeltlich zu.
 
-(2) In das elektronische Verzeichnis sind einzutragen:
+(2) In das elektronische Verzeichnis sind einzutragen
 
-1. bei natürlichen Personen der Familienname und den oder die Vornamen, das Geburtsdatum, die Anschrift der beruflichen Niederlassung einschließlich der Anschriften aller Beratungsstellen, die Berufsbezeichnung, unter der die Tätigkeit nach § 3e Absatz 1 Satz 2 im Inland zu erbringen ist, sowie der Name und die Anschrift der nach § 3d Absatz 2 Satz 2 zuständigen Steuerberaterkammer;
+1. der Familienname und der oder die Vornamen,
 
-2. bei juristischen Personen und Personengesellschaften der Name oder die Firma, das Gründungsjahr, die Anschrift einschließlich der Anschriften aller weiterer Beratungsstellen, der Familienname, den oder die Vornamen der gesetzlichen Vertreter, die Berufsbezeichnung, unter der die Tätigkeit nach § 3e Absatz 1 Satz 2 im Inland zu erbringen ist, sowie der Name und die Anschrift der nach § 3d Absatz 2 Satz 2 zuständigen Steuerberaterkammer.
+2. das Geburtsdatum,
+
+3. die Anschrift der beruflichen Niederlassung einschließlich der Anschriften aller Beratungsstellen,
+
+4. die Berufsbezeichnung, unter der die Tätigkeit nach § 3e Absatz 1 Satz 2 im Inland zu erbringen ist, sowie
+
+5. der Name und die Anschrift der nach § 3d Absatz 2 Satz 2 zuständigen Steuerberaterkammer.
 
 # § 4 – Befugnis zu beschränkter Hilfeleistung in Steuersachen
 
@@ -327,7 +335,7 @@ Das Verbot des § 5 gilt nicht für
 
 3. wenn eine Tätigkeit als Arbeitnehmer zur Umgehung des Verbots nach § 5 missbraucht wird.
 
-(2) Die für die Finanzverwaltung zuständige oberste Landesbehörde kann den in § 4 Nr. 7 bezeichneten Vereinigungen im Einvernehmen mit den fachlich beteiligten obersten Landesbehörden die Hilfeleistung in Steuersachen ganz oder teilweise untersagen, wenn eine sachgemäße Tätigkeit nicht gewährleistet ist. Dies gilt nicht, wenn eine der in § 3 Nr. 1 aufgeführten Personen die Hilfeleistung in Steuersachen leitet.
+(2) Die für die Finanzverwaltung zuständige oberste Landesbehörde kann den in § 4 Nr. 7 bezeichneten Vereinigungen im Einvernehmen mit den fachlich beteiligten obersten Landesbehörden die Hilfeleistung in Steuersachen ganz oder teilweise untersagen, wenn eine sachgemäße Tätigkeit nicht gewährleistet ist. Dies gilt nicht, wenn eine der in § 3 Satz 1 Nummer 1 aufgeführten Personen die Hilfeleistung in Steuersachen leitet.
 
 (3) Diejenige Finanzbehörde, in deren Zuständigkeitsbereich die nach Absatz 1 zu untersagende Hilfeleistung in Steuersachen geleistet wird, kann diese Hilfeleistung in Steuersachen in ihrem Zuständigkeitsbereich untersagen. Die Finanzbehörde ist befugt, andere Finanzbehörden über die Untersagung nach Satz 1 zu unterrichten. § 30 der Abgabenordnung steht dem nicht entgegen.
 
@@ -337,7 +345,7 @@ Das Verbot des § 5 gilt nicht für
 
 (2) Werbung, die auf die Erteilung eines Auftrags zur geschäftsmäßigen Hilfeleistung in Steuersachen im Einzelfall gerichtet ist, ist verboten. Dies gilt nicht für die Durchführung der Tätigkeiten nach § 6 Nr. 3 und 4.
 
-(3) Die in § 3 Nr. 1 bis 3 bezeichneten Personen und Gesellschaften dürfen auf ihre Befugnis zur Hilfeleistung in Steuersachen nach den für sie geltenden berufsrechtlichen Vorschriften hinweisen.
+(3) Die in § 3 Satz 1 bezeichneten Personen und Gesellschaften dürfen auf ihre Befugnis zur Hilfeleistung in Steuersachen nach den für sie geltenden berufsrechtlichen Vorschriften hinweisen.
 
 (4) Die in § 6 Nr. 4 bezeichneten Personen dürfen auf ihre Befugnisse zur Hilfeleistung in Steuersachen hinweisen und sich als Buchhalter bezeichnen. Personen, die den anerkannten Abschluss „Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin“ oder „Steuerfachwirt/Steuerfachwirtin“ erworben haben, dürfen unter dieser Bezeichnung werben. Die genannten Personen dürfen dabei nicht gegen das Gesetz gegen den unlauteren Wettbewerb verstoßen.
 
@@ -407,7 +415,7 @@ Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Ber
 
 # § 12 – Hilfeleistung im Abgabenrecht fremder Staaten
 
-Personen und Vereinigungen im Sinne des § 3 Nr. 1 bis 3 sind in Angelegenheiten, die das Abgabenrecht fremder Staaten betreffen, zur geschäftsmäßigen Hilfe in Steuersachen befugt. Die entsprechenden Befugnisse Dritter auf Grund anderer Rechtsvorschriften bleiben unberührt.
+Personen und Vereinigungen im Sinne des § 3 Satz 1 sind in Angelegenheiten, die das Abgabenrecht fremder Staaten betreffen, zur geschäftsmäßigen Hilfe in Steuersachen befugt. Die entsprechenden Befugnisse Dritter auf Grund anderer Rechtsvorschriften bleiben unberührt.
 
 # § 13 – Zweck und Tätigkeitsbereich
 
@@ -535,7 +543,7 @@ b) der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensver
 
 (3) Der Lohnsteuerhilfeverein darf zum Leiter einer Beratungsstelle nur Personen bestellen, die
 
-1. zu dem in § 3 Nr. 1 bezeichneten Personenkreis gehören oder
+1. zu dem in § 3 Satz 1 Nummer 1 bezeichneten Personenkreis gehören oder
 
 2. eine Abschlußprüfung in einem kaufmännischen Ausbildungsberuf bestanden haben oder eine andere gleichwertige Vorbildung besitzen und nach Abschluß der Ausbildung drei Jahre in einem Umfang von mindestens 16 Wochenstunden auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern praktisch tätig gewesen sind oder
 
@@ -969,7 +977,7 @@ b) eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum.
 
 2. mit Angehörigen ausländischer Berufe, die im Ausland einen Beruf ausüben, der in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Berufsträgers dem Beruf des Steuerberaters oder des Steuerbevollmächtigten vergleichbar ist und bei dem die Voraussetzungen für die Berufsausübung den Anforderungen dieses Gesetzes im Wesentlichen entsprechen,
 
-3. mit Rechtsanwälten, Patentanwälten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung oder der Wirtschaftsprüferordnung ihren Beruf mit Rechtsanwälten, Patentanwälten, Wirtschaftsprüfern oder vereidigten Buchprüfern im Geltungsbereich dieses Gesetzes gemeinschaftlich ausüben dürfen,
+3. mit Rechtsanwälten, Patentanwälten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung oder der Wirtschaftsprüferordnung ihren Beruf mit Rechtsanwälten, Patentanwälten, Wirtschaftsprüfern oder vereidigten Buchprüfern in der Bundesrepublik Deutschland gemeinschaftlich ausüben dürfen,
 
 4. mit Personen, die in der Berufsausübungsgesellschaft einen freien Beruf nach § 1 Absatz 2 des Partnerschaftsgesellschaftsgesetzes ausüben, es sei denn, dass die Verbindung mit dem Beruf des Steuerberaters oder Steuerbevollmächtigten, insbesondere seiner Stellung als unabhängigem Organ der Steuerrechtspflege, nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann.
 
@@ -1003,7 +1011,7 @@ Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann ausgeschlossen sein,
 
 # § 53 – Anerkennung
 
-(1) Berufsausübungsgesellschaften bedürfen der Anerkennung durch die Steuerberaterkammer, in deren Kammerbezirk die Berufsausübungsgesellschaft ihren Sitz hat. Keiner Anerkennung nach Satz 1 bedürfen Personengesellschaften, bei denen keine Beschränkung der Haftung der natürlichen Personen vorliegt und denen als Gesellschafter und als Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich Steuerberater und Steuerbevollmächtigte oder Angehörige eines in § 50 Absatz 1 Satz 1 Nummer 1 genannten Berufs angehören, sowie Wirtschaftsprüfungsgesellschaften und Buchprüfungsgesellschaften. Unberührt von Satz 2 bleibt der freiwillige Antrag auf eine Anerkennung. Für Berufsausübungsgesellschaften, die ihren Sitz nicht im Inland haben, ist die Steuerberaterkammer des Kammerbezirks zuständig, in der die weitere Beratungsstelle unterhalten wird oder der Zustellungsbevollmächtigte ansässig ist.
+(1) Berufsausübungsgesellschaften bedürfen der Anerkennung durch die Steuerberaterkammer, in deren Kammerbezirk die Berufsausübungsgesellschaft ihren Sitz hat. Keiner Anerkennung nach Satz 1 bedürfen Personengesellschaften, bei denen keine Beschränkung der Haftung der natürlichen Personen vorliegt und denen als Gesellschafter und als Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich Steuerberater und Steuerbevollmächtigte oder Angehörige eines in § 50 Absatz 1 Satz 1 Nummer 1 genannten Berufs angehören, sowie Wirtschaftsprüfungsgesellschaften und Buchprüfungsgesellschaften. Unberührt von Satz 2 bleibt der freiwillige Antrag auf eine Anerkennung. Für Berufsausübungsgesellschaften, die ihren Sitz nicht im Inland haben, ist die Steuerberaterkammer zuständig, in deren Kammerbezirk die weitere Beratungsstelle unterhalten wird oder der Zustellungsbevollmächtigte ansässig ist.
 
 (2) Die Anerkennung ist zu erteilen, wenn
 
@@ -1055,7 +1063,11 @@ Die zuständige Steuerberaterkammer kann zur Prüfung der Voraussetzungen des §
 
 Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverfahren über das Vermögen der Berufsausübungsgesellschaft eröffnet ist oder die Berufsausübungsgesellschaft in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
-(4) Die Anerkennung kann widerrufen werden, wenn die Berufsausübungsgesellschaft nicht innerhalb von drei Monaten nach der Anerkennung im Bezirk der Steuerberaterkammer nach § 55e Absatz 1 eine berufliche Niederlassung einrichtet.
+(4) Die Anerkennung der Berufsausübungsgesellschaft kann widerrufen werden, wenn
+
+1. nicht innerhalb von drei Monaten nach der Anerkennung im Bezirk der Steuerberaterkammer nach § 55e Absatz 1 eine berufliche Niederlassung eingerichtet wird oder
+
+2. keine berufliche Niederlassung nach § 55e Absatz 1 mehr besteht.
 
 (5) Ordnet die zuständige Steuerberaterkammer die sofortige Vollziehung der Verfügung an, sind § 139 Absatz 2, 4 und 5, § 140 Absatz 2 sowie § 145 entsprechend anzuwenden. Wird die Anerkennung widerrufen, weil die Berufsausübungsgesellschaft die vorgeschriebene Berufshaftpflichtversicherung nicht unterhält, ist die Anordnung der sofortigen Vollziehung in der Regel zu treffen.
 
@@ -1073,7 +1085,7 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 4. anerkannte Buchprüfungsgesellschaften.
 
-Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Berufsausübungsgesellschaft an. Haben sich Steuerberater und Steuerbevollmächtigte, Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Unterabschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer anerkannten Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
+Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Gesellschaft an. Haben sich Steuerberater und Steuerbevollmächtigte, Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Unterabschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer anerkannten Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
 
 (2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften oder Kommanditgesellschaften auf Aktien müssen die Aktien auf Namen lauten.
 
@@ -1085,7 +1097,7 @@ Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der 
 
 # § 55b – Geschäftsführungsorgane; Aufsichtsorgane
 
-(1) Nur Steuerberater, Steuerbevollmächtigte oder Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe können Mitglieder des Geschäftsführungs- oder Aufsichtsorgans einer anerkannten Berufsausübungsgesellschaft sein. Mitbestimmungsrechtliche Regelungen bleiben unberührt. Bei der geschäftsmäßigen Hilfeleistung in Steuersachen sind Weisungen von Personen, die nicht den in § 3 Nummer 1 genannten Berufen angehören, gegenüber Personen, die den Berufen nach § 3 Nummer 1 angehören, unzulässig.
+(1) Nur Steuerberater, Steuerbevollmächtigte oder Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe können Mitglieder des Geschäftsführungs- oder Aufsichtsorgans einer anerkannten Berufsausübungsgesellschaft sein. Mitbestimmungsrechtliche Regelungen bleiben unberührt. Bei der geschäftsmäßigen Hilfeleistung in Steuersachen sind Weisungen von Personen, die nicht den in § 3 Satz 1 Nummer 1 genannten Berufen angehören, gegenüber Personen, die den Berufen nach § 3 Satz 1 Nummer 1 angehören, unzulässig.
 
 (2) Von der Mitgliedschaft in einem Geschäftsführungs- oder Aufsichtsorgan ist ausgeschlossen, wer einen der Versagungstatbestände des § 40 Absatz 2 erfüllt oder gegen wen eine der in Absatz 5 Satz 3 genannten Maßnahmen verhängt wurde.
 
@@ -1093,7 +1105,7 @@ Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der 
 
 (4) Die Mitglieder des Geschäftsführungs- und Aufsichtsorgans sind verpflichtet, für die Einhaltung des Berufsrechts in der Berufsausübungsgesellschaft zu sorgen.
 
-(5) Für diejenigen Mitglieder des Geschäftsführungs- und Aufsichtsorgans der Berufsausübungsgesellschaft, die keine Gesellschafter sind, gelten die Berufspflichten nach § 51 Absatz 1 bis 3 und § 52 entsprechend. Die §§ 81 und 82 sowie die Vorschriften des Ersten bis Vierten Unterabschnitts des Fünften Abschnitts des Zweiten Teils sind entsprechend anzuwenden. An die Stelle der Ausschließung aus dem Beruf (§ 90 Absatz 1 Nummer 5) tritt
+(5) Für diejenigen Mitglieder des Geschäftsführungs- und Aufsichtsorgans der Berufsausübungsgesellschaft, die keine Gesellschafter sind, gelten die Berufspflichten nach § 51 Absatz 1 bis 3 entsprechend. Die §§ 81 und 82 sowie die Vorschriften des Ersten bis Vierten Unterabschnitts des Fünften Abschnitts des Zweiten Teils sind entsprechend anzuwenden. An die Stelle der Ausschließung aus dem Beruf (§ 90 Absatz 1 Nummer 5) tritt
 
 1. bei Mitgliedern eines Geschäftsführungsorgans, die nicht Steuerberater oder Steuerbevollmächtigte sind, die Aberkennung der Eignung, eine Berufsausübungsgesellschaft zu vertreten und ihre Geschäfte zu führen, und
 
@@ -1103,9 +1115,7 @@ Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der 
 
 (7) Auf Prokuristen und Handlungsbevollmächtigte zum gesamten Geschäftsbetrieb sind die Absätze 1, 5 und 6 entsprechend anzuwenden.
 
-# § 55c – Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen
-
-Berufsausübungsgesellschaften sind befugt, geschäftsmäßig Hilfeleistung in Steuersachen nach § 2 zu erbringen. Sie handeln durch ihre Gesellschafter und Vertreter, in deren Person die für die Erbringung der geschäftsmäßigen Hilfeleistung in Steuersachen gesetzlich vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
+# § 55c – (weggefallen)
 
 # § 55d – Vertretung vor Gerichten und Behörden
 
@@ -1131,7 +1141,7 @@ Berufsausübungsgesellschaften sind befugt, geschäftsmäßig Hilfeleistung in S
 
 (4) Für Berufsausübungsgesellschaften, die keinen rechtsformbedingten Ausschluss der Haftung und keine Beschränkung der Haftung der natürlichen Personen vorsehen, beträgt die Mindestversicherungssumme 500 000 Euro für jeden Versicherungsfall.
 
-(5) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der Gesellschafter und mit der Zahl der Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer Gesellschafter und der Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
+(5) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der Gesellschafter, die Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer sind, und der Geschäftsführer, die nicht Gesellschafter und Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer Gesellschafter, die Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer sind, und der Geschäftsführer, die nicht Gesellschafter und Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
 
 # § 55g – Steuerberatungsgesellschaft
 
@@ -1189,7 +1199,7 @@ Werbung ist nur erlaubt, soweit sie über die berufliche Tätigkeit in Form und 
 
 # § 58 – Tätigkeit als Angestellter
 
-Steuerberater und Steuerbevollmächtigte dürfen ihren Beruf als Angestellte einer Person oder Vereinigung im Sinne des § 3 Nr. 1 bis 3 ausüben. Sie dürfen ferner tätig werden
+Steuerberater und Steuerbevollmächtigte dürfen ihren Beruf als Angestellte einer Person oder Vereinigung im Sinne des § 3 Satz 1 ausüben. Sie dürfen ferner tätig werden
 
 1. als Leiter oder als Angestellte von genossenschaftlichen Prüfungsverbänden, genossenschaftlichen Treuhandstellen oder überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts,
 
@@ -1207,7 +1217,7 @@ b) deren Zweck ausschließlich der Betrieb von Einrichtungen zur Unterstützung 
 
 5a. als Angestellte, wenn sie im Rahmen des Angestelltenverhältnisses Tätigkeiten im Sinne des § 33 wahrnehmen. Dies gilt nicht, wenn hierdurch die Pflicht zur unabhängigen und eigenverantwortlichen Berufsausübung beeinträchtigt wird. Der Steuerberater oder Steuerbevollmächtigte darf für einen Auftraggeber, dem er auf Grund eines ständigen Dienst- oder ähnlichen Beschäftigungsverhältnisses seine Arbeitszeit und -kraft zur Verfügung stellen muss, nicht in seiner Eigenschaft als Steuerberater oder Steuerbevollmächtigter tätig werden. Bei Mandatsübernahme hat der Steuerberater oder Steuerbevollmächtigte den Mandanten auf seine Angestelltentätigkeit hinzuweisen. § 57 Abs. 4 Nr. 2 Satz 2 bleibt unberührt,
 
-6. als Angestellte von ausländischen Berufsangehörigen, die ihre berufliche Niederlassung im Ausland haben, wenn diese den in § 50 Absatz 1 Satz 1 genannten vergleichbar sind und die Voraussetzungen für die Berufsausübung den Anforderungen dieses Gesetzes im wesentlichen entsprechen; für Angestellte von Vereinigungen mit Sitz im Ausland gilt dies nur, soweit es sich um Vereinigungen handelt, deren Vorstandsmitglieder, Geschäftsführer, persönlich haftende Gesellschafter, Mitglieder oder sonstige Anteilseigner mehrheitlich Personen sind, die im Ausland einen den in § 3 Nr. 1 genannten Berufen in der Ausbildung und den Befugnissen vergleichbaren Beruf ausüben und bei denen die Voraussetzungen für die Berufsausübung den Anforderungen dieses Gesetzes im Wesentlichen entsprechen,
+6. als Angestellte von ausländischen Berufsangehörigen, die ihre berufliche Niederlassung im Ausland haben, wenn diese den in § 50 Absatz 1 Satz 1 genannten vergleichbar sind und die Voraussetzungen für die Berufsausübung den Anforderungen dieses Gesetzes im wesentlichen entsprechen; für Angestellte von Vereinigungen mit Sitz im Ausland gilt dies nur, soweit es sich um Vereinigungen handelt, deren Vorstandsmitglieder, Geschäftsführer, persönlich haftende Gesellschafter, Mitglieder oder sonstige Anteilseigner mehrheitlich Personen sind, die im Ausland einen den in § 3 Satz 1 Nummer 1 genannten Berufen in der Ausbildung und den Befugnissen vergleichbaren Beruf ausüben und bei denen die Voraussetzungen für die Berufsausübung den Anforderungen dieses Gesetzes im Wesentlichen entsprechen,
 
 7. als Geschäftsführer oder als Angestellte einer europäischen wirtschaftlichen Interessenvereinigung, wenn alle Geschäftsführer und alle Mitglieder Angehörige europäischer steuerberatender, wirtschaftsprüfender oder rechtsberatender Berufe sind,
 
@@ -1277,7 +1287,7 @@ Steuerberater und Steuerbevollmächtigter, die in ihrem Beruf in Anspruch genomm
 
 zu richten.
 
-(2) Die Abtretung von Gebührenforderungen oder die Übertragung ihrer Einziehung an Personen und Vereinigungen im Sinne des § 3 Nr. 1 bis 3 ist auch ohne Zustimmung des Mandanten zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Steuerberaters oder Steuerbevollmächtigten gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Steuerberater oder Steuerbevollmächtigte.
+(2) Die Abtretung von Gebührenforderungen oder die Übertragung ihrer Einziehung an Personen und Vereinigungen im Sinne des § 3 Satz 1 ist auch ohne Zustimmung des Mandanten zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Steuerberaters oder Steuerbevollmächtigten gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Steuerberater oder Steuerbevollmächtigte.
 
 # § 65 – Pflicht zur Übernahme einer Prozessvertretung
 
@@ -1475,11 +1485,11 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 a) der Familienname, der Vorname oder die Vornamen, das Geburtsdatum und der Geburtsort des Steuerberaters oder Steuerbevollmächtigen,
 
-b) das Datum der Bestellung und der Behörde oder der Steuerberaterkammer, die die Bestellung vorgenommen hat,
+b) das Datum der Bestellung und der Name der Behörde oder der Steuerberaterkammer, die die Bestellung vorgenommen hat,
 
 c) die Befugnis zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“ und der Bezeichnungen nach der Fachberaterordnung,
 
-d) die Anschrift der beruflichen Niederlassung, die Telekommunikationsdaten, einschließlich der geschäftlichen E-Mail-Adresse, und die geschäftliche Internetadresse,
+d) die Anschrift der beruflichen Niederlassung, die geschäftlichen Telekommunikationsdaten, einschließlich der E-Mail-Adresse, und die geschäftliche Internetadresse,
 
 e) berufliche Zusammenschlüsse im Sinne der §§ 49, 50 und 55h,
 
@@ -1501,7 +1511,7 @@ b) das Datum der Anerkennung als Berufsausübungsgesellschaft und der Name der B
 
 c) die Befugnis zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“,
 
-d) die Anschrift der beruflichen Niederlassung, die Telekommunikationsdaten, einschließlich der geschäftlichen E-Mail-Adresse, und die geschäftliche Internetadresse,
+d) die Anschrift der beruflichen Niederlassung, die geschäftlichen Telekommunikationsdaten, einschließlich der E-Mail-Adresse, und die geschäftliche Internetadresse,
 
 e) berufliche Zusammenschlüsse im Sinne der §§ 49, 50 und 55h,
 
@@ -1515,7 +1525,7 @@ bei juristischen Personen und rechtsfähigen Personengesellschaften: deren Name 
 
 g) bei juristischen Personen: zu jedem Mitglied des zur gesetzlichen Vertretung berufenen Organs der Familienname, der Vorname oder die Vornamen und der Beruf,
 
-h) bei rechtsfähigen Personengesellschaften: die vertretungsberechtigten Gesellschafter und deren Beruf,
+h) bei rechtsfähigen Personengesellschaften: der Familienname, der Vorname oder die Vornamen und der Beruf der vertretungsberechtigten Gesellschafter,
 
 i) der Familienname, der Vorname oder die Vornamen und der Beruf der angestellten Steuerberater, Steuerbevollmächtigten, Rechtsanwälte, Wirtschaftsprüfer und vereidigten Buchprüfer, die zur Vertretung der Berufsausübungsgesellschaft berechtigt sind, sofern die Eintragung in das Berufsregister von der Berufsausübungsgesellschaft beantragt wird,
 
@@ -1523,7 +1533,7 @@ j) die Anschrift der weiteren Beratungsstellen, der Familienname, der Vorname od
 
 k) der Familienname, der Vorname oder die Vornamen und die Anschrift des Vertreters oder Zustellungsbevollmächtigten, sofern ein solcher bestellt oder benannt worden ist,
 
-l) bei anerkannten Berufsausübungsgesellschaften: das Bestehen eines Berufs- oder Vertretungsverbots im Sinne des § 90 Absatz 2 Nummer 4 oder des § 134,
+l) das Bestehen eines Berufs- oder Vertretungsverbots im Sinne des § 90 Absatz 2 Nummer 4 oder des § 134,
 
 m) die Bezeichnung des besonderen elektronischen Steuerberaterpostfachs der Berufsausübungsgesellschaft sowie
 
@@ -1553,9 +1563,9 @@ d) der Familienname, der Vorname oder die Vornamen und die Anschrift der die wei
 
 e) alle Veränderungen der Angaben zu den Buchstaben a bis d.
 
-(2) Für Berufsausübungsgesellschaften, die nach § 53 Absatz 1 Satz 2 nicht anerkennungspflichtig sind, gilt Absatz 1 Nummer 2 und 4 mit der Maßgabe entsprechend, dass anstelle des Datums der Anerkennung der Tag der Registrierung im Berufsregister einzutragen ist. Abweichend von Satz 1 ist bei Berufsausübungsgesellschaften in der Rechtsform der Partnerschaftsgesellschaft der Tag der Eintragung im Partnerschaftsregister einzutragen.
+(2) Für Berufsausübungsgesellschaften, die nicht anerkannt werden sollen, gilt Absatz 1 Nummer 2 und 4 mit der Maßgabe entsprechend, dass anstelle des Datums der Anerkennung der Tag der Registrierung im Berufsregister einzutragen ist. Abweichend von Satz 1 ist bei Berufsausübungsgesellschaften in der Rechtsform der Partnerschaftsgesellschaft der Tag der Eintragung im Partnerschaftsregister einzutragen. Die zuständige Steuerberaterkammer kann für die Prüfung der in das Berufsregister einzutragenden Tatsachen die Vorlage geeigneter Nachweise einschließlich des Gesellschaftsvertrags oder der Satzung verlangen.
 
-(3) Die zuständige Steuerberaterkammer nimmt Neueintragungen in das Berufsregister nach Absatz 1 Nummer 1 und 2 nur nach Durchführung eines Identifizierungsverfahrens vor. In den Fällen des Absatzes 1 Nummer 2 sind die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter und Partner zu identifizieren.
+(3) Die zuständige Steuerberaterkammer nimmt Neueintragungen in das Berufsregister nach Absatz 1 Nummer 1 und 2 nur nach Durchführung eines Identifizierungsverfahrens vor. In den Fällen des Absatzes 1 Nummer 2 sind die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter und Partner zu identifizieren. Die Sätze 1 und 2 gelten auch, soweit Absatz 1 Nummer 2 für Berufsausübungsgesellschaften, die nicht anerkannt werden sollen, nach Absatz 2 Satz 1 entsprechend gilt.
 
 (4) Für Berufsausübungsgesellschaften, die ihren Sitz nicht im Inland haben, gilt Absatz 1 Nummer 2 mit der Maßgabe, dass die Steuerberaterkammer des Registerbezirks zuständig ist, in dem die weitere Beratungsstelle unterhalten wird oder der Zustellungsbevollmächtigte ansässig ist.
 
@@ -1569,35 +1579,43 @@ a) die Bestellung erloschen, vollziehbar zurückgenommen oder widerrufen ist ode
 
 b) die berufliche Niederlassung aus dem Registerbezirk verlegt wird;
 
-2. Berufsausübungsgesellschaften, wenn
+2. anerkannte Berufsausübungsgesellschaften, wenn
 
 a) die Anerkennung erloschen, vollziehbar zurückgenommen oder widerrufen ist oder
 
 b) der Sitz aus dem Registerbezirk verlegt wird;
 
-3. weitere Beratungsstellen, wenn die Beratungsstelle aufgelöst ist.
+3. nicht anerkannte Berufsausübungsgesellschaften, wenn
+
+a) sie aufgelöst sind,
+
+b) der nach § 50 Absatz 3 Satz 1 erforderliche Unternehmensgegenstand nicht mehr besteht oder
+
+c) der Sitz aus dem Registerbezirk verlegt wird;
+
+4. weitere Beratungsstellen, wenn die Beratungsstelle aufgelöst ist.
 
 (2) Die Eintragung über die Befugnis zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“ ist zu löschen, wenn bei einer Berufsausübungsgesellschaft die in § 44 Absatz 3 bezeichneten Voraussetzungen weggefallen sind. Die Eintragung von Bezeichnungen nach der Fachberaterordnung ist zu löschen, wenn die Bezeichnung nicht mehr geführt werden darf.
 
 # § 76c – Mitteilungspflichten; Einsicht in das Berufsregister
 
-(1) Die in das Berufsregister einzutragenden Tatsachen sind der zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
+(1) Die in das Berufsregister einzutragenden oder eingetragenen Tatsachen sind der zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
 
 1. im Fall des § 76a Absatz 1 Nummer 1 von dem einzutragenden Steuerberater oder Steuerbevollmächtigten;
 
-2. im Fall des § 76a Absatz 1 Nummer 2 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der einzutragenden Berufsausübungsgesellschaft;
+2. im Fall des § 76a Absatz 1 Nummer 2, auch in Verbindung mit § 76a Absatz 2, von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der einzutragenden oder eingetragenen Berufsausübungsgesellschaft;
 
 3. im Fall des § 76a Absatz 1 Nummer 3 von dem Steuerberater oder Steuerbevollmächtigten, der die weitere Beratungsstelle errichtet hat;
 
-4. im Fall des § 76a Absatz 1 Nummer 4 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Berufsausübungsgesellschaft, die die weitere Beratungsstelle errichtet haben.
+4. im Fall des § 76a Absatz 1 Nummer 4, auch in Verbindung mit § 76a Absatz 2, von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Berufsausübungsgesellschaft, die die weitere Beratungsstelle errichtet hat.
 
 (2) Die im Berufsregister zu löschenden Tatsachen sind der zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
 
-1. im Fall des § 76b Absatz 1 Nummer 1 Buchstabe b von dem Steuerberater oder Steuerbevollmächtigten, der seine berufliche Niederlassung verlegt;
+1. in den Fällen des § 76b Absatz 1 Nummer 1 Buchstabe b von dem Steuerberater oder Steuerbevollmächtigten, der seine berufliche Niederlassung verlegt;
 
-2. in den Fällen des § 76b Absatz 1 Nummer 2 Buchstabe b von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Berufsausübungsgesellschaft;
+2. in den Fällen des § 76b Absatz 1 Nummer 2 Buchstabe b und Nummer 3 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Berufsausübungsgesellschaft;
 
-3. in den Fällen des § 76b Absatz 1 Nummer 3 von den in Absatz 1 Nummer 3 oder 4 genannten Personen;
+3. in den Fällen des § 76b Absatz 1 Nummer 4 von den in Absatz 1 Nummer 3 oder 4 genannten Personen;
 
 4. in den Fällen des § 76b Absatz 2 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Berufsausübungsgesellschaft.
 
@@ -1625,7 +1643,7 @@ b) der Sitz aus dem Registerbezirk verlegt wird;
 
 # § 76e – Anzeigepflichten
 
-(1) Im Januar eines jeden Kalenderjahres haben die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter einer Berufsausübungsgesellschaft sowie die Gesellschafter einer Gesellschaft bürgerlichen Rechts im Sinne des § 55a Absatz 1 Satz 3 eine von ihnen unterschriebene Liste der Gesellschafter bei der zuständigen Steuerberaterkammer einzureichen. Aus dieser Liste müssen Name, Vornamen, Beruf, Wohnort und berufliche Niederlassung der Gesellschafter, ihre Aktien, Stammeinlagen oder Beteiligungsverhältnisse ersichtlich sein. Sind seit Einreichung der letzten Liste keine Veränderungen hinsichtlich der Person oder des Berufs der Gesellschafter und des Umfangs der Beteiligung eingetreten, so genügt die Einreichung einer entsprechenden Erklärung.
+(1) Im Januar eines jeden Kalenderjahres haben die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter einer Berufsausübungsgesellschaft sowie die Gesellschafter einer Gesellschaft bürgerlichen Rechts im Sinne des § 55a Absatz 1 Satz 3 eine von ihnen unterschriebene Liste der Gesellschafter bei der zuständigen Steuerberaterkammer einzureichen. Aus dieser Liste müssen Name, Vornamen, Beruf, Wohnort und berufliche Niederlassung der Gesellschafter sowie deren Aktien, Stammeinlagen oder Beteiligungsverhältnisse ersichtlich sein. Sind seit Einreichung der letzten Liste keine Veränderungen hinsichtlich der Person oder des Berufs der Gesellschafter und des Umfangs der Beteiligung eingetreten, so genügt die Einreichung einer entsprechenden Erklärung.
 
 (2) Absatz 1 gilt in den Fällen des § 154 Absatz 2 Satz 1 entsprechend.
 
@@ -1915,7 +1933,7 @@ c) der Name und die Anschrift der zuständigen Steuerberaterkammer,
 
 d) die Anschrift der Berufsausübungsgesellschaft und die Anschriften ihrer weiteren Beratungsstellen,
 
-e) die geschäftlichen Telekommunikationsdaten, einschließlich der E-Mailadresse, und die geschäftliche Internetadresse der Berufsausübungsgesellschaft und die der weiteren Beratungsstellen,
+e) die geschäftlichen Telekommunikationsdaten, einschließlich der E-Mailadresse, und die geschäftliche Internetadresse,
 
 f) folgende Angaben zu den Gesellschaftern:
 
@@ -2679,7 +2697,7 @@ Für Maßnahmen, die in Verfahren wegen Straftaten oder Ordnungswidrigkeiten ode
 
 3. nicht nach Absatz 1 als anerkannt gelten,
 
-müssen bis zum 1. November 2022 ihre Anerkennung beantragen. Ihnen stehen bis zur Entscheidung der zuständigen Steuerberaterkammer über den Antrag auf Anerkennung die Befugnisse nach den §§ 55c und 55d zu.
+müssen bis zum 1. November 2022 ihre Anerkennung beantragen. Ihnen stehen bis zur Entscheidung der zuständigen Steuerberaterkammer über den Antrag auf Anerkennung die Befugnisse nach § 3 Satz 1 Nummer 2 und Satz 2 sowie § 55d zu.
 
 # § 157e – Anwendungsvorschrift zur Steuerberaterplattform und zu den besonderen elektronischen Steuerberaterpostfächern
 

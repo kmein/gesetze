@@ -87,7 +87,8 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung, 
 
 # Anlage
 
-(Fundstelle: BGBl. I 2022, 1553 — 1565)
+(Fundstelle: BGBl. I 2022, 1553 - 1565;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -388,9 +389,8 @@ Eine von Δ9,10</sup>-Ergolen abgeleitete Verbindung ist jede chemische Verbindu
 
 Die Grundstruktur Δ9,10</sup>-Ergolen kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub>) substituiert sein:
 
-a) R<sub>1</sub>:
-
-Wasserstoff, Alkyl- (bis C<sub>8</sub>), Cycloalkylmethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Alkylcarbonyl (bis C<sub>10</sub>)-Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
+a) R<sub>1</sub>:  
+Wasserstoff, Alkyl- (bis C<sub>8</sub>), Cycloalkylmethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>10</sub>), Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
 
 b) R<sub>2</sub>:
 

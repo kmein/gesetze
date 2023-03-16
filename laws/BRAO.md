@@ -533,7 +533,9 @@ c) Notar, Notarvertretung, Notariatsverwalter, Notarassessor oder als im Vorbere
 
 2. mit einem Angehörigen eines anderen Berufs nach § 59c Absatz 1 Satz 1, dem ein Tätigwerden bei entsprechender Anwendung des Absatzes 1 untersagt wäre.
 
-Satz 1 ist nicht anzuwenden, soweit dem Tätigkeitsverbot nach Absatz 1 eine Tätigkeit als Referendar im Vorbereitungsdienst nach Absatz 1 Nummer 1 Buchstabe a oder c zugrunde liegt. Ein Tätigkeitsverbot nach Satz 1 bleibt bestehen, wenn der nach Absatz 1 ausgeschlossene Rechtsanwalt die gemeinschaftliche Berufsausübung beendet. Satz 1 findet in den Fällen, in denen das Tätigkeitsverbot auf Absatz 1 Nummer 3 beruht, keine Anwendung, wenn die betroffenen Personen der Tätigkeit nach umfassender Information in Textform durch den Rechtsanwalt zugestimmt haben und geeignete Vorkehrungen die Verhinderung einer Offenbarung vertraulicher Informationen sicherstellen. Soweit es für die Prüfung eines Tätigkeitsverbots erforderlich ist, dürfen der Verschwiegenheit unterliegende Tatsachen einem Rechtsanwalt auch ohne Einwilligung der betroffenen Person offenbart werden.
+Satz 1 ist nicht anzuwenden, soweit dem Tätigkeitsverbot nach Absatz 1 eine Tätigkeit als Referendar im Vorbereitungsdienst nach Absatz 1 Nummer 1 Buchstabe a oder c oder als wissenschaftlicher Mitarbeiter bei einem Rechtsanwalt oder in einer Berufsausübungsgesellschaft nach Absatz 1 Nummer 3 zugrunde liegt. Die Tätigkeit als wissenschaftlicher Mitarbeiter nach Satz 2 umfasst berufliche Tätigkeiten während des rechtswissenschaftlichen Studiums und in der Zeit nach dem Bestehen der ersten Prüfung bis zum Bestehen der zweiten Staatsprüfung.
+
+(3) Ein Tätigkeitsverbot nach Absatz 2 Satz 1 bleibt bestehen, wenn der nach Absatz 1 ausgeschlossene Rechtsanwalt die gemeinschaftliche Berufsausübung beendet. Absatz 2 Satz 1 findet in den Fällen, in denen das Tätigkeitsverbot auf Absatz 1 Nummer 3 beruht, keine Anwendung, wenn die betroffenen Personen der Tätigkeit nach umfassender Information in Textform durch den Rechtsanwalt zugestimmt haben und geeignete Vorkehrungen die Verhinderung einer Offenbarung vertraulicher Informationen sicherstellen. Soweit es für die Prüfung eines Tätigkeitsverbots erforderlich ist, dürfen der Verschwiegenheit unterliegende Tatsachen einem Rechtsanwalt auch ohne Einwilligung der betroffenen Person offenbart werden.
 
 # § 46 – Angestellte Rechtsanwälte und Syndikusrechtsanwälte
 
@@ -891,9 +893,9 @@ Für Berufsausübungsgesellschaften nach dem Gesellschaftsrecht eines Staates, d
 
 1. mit Mitgliedern einer Rechtsanwaltskammer, Mitgliedern der Patentanwaltskammer, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern,
 
-2. mit Angehörigen von Rechtsanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland oder nach § 206 berechtigt wären, sich im Geltungsbereich dieses Gesetzes niederzulassen,
+2. mit Angehörigen von Rechtsanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland oder nach § 206 berechtigt wären, sich in der Bundesrepublik Deutschland niederzulassen, und mit Angehörigen von Patentanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland oder nach § 157 der Patentanwaltsordnung berechtigt wären, sich in der Bundesrepublik Deutschland niederzulassen,
 
-3. mit Patentanwälten, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach der Patentanwaltsordnung, dem Steuerberatungsgesetz oder der Wirtschaftsprüferordnung ihren Beruf mit Patentanwälten, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern oder vereidigten Buchprüfern im Geltungsbereich dieses Gesetzes gemeinschaftlich ausüben dürfen,
+3. mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach dem Steuerberatungsgesetz oder der Wirtschaftsprüferordnung ihren Beruf mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern oder vereidigten Buchprüfern in der Bundesrepublik Deutschland gemeinschaftlich ausüben dürfen,
 
 4. mit Personen, die in der Berufsausübungsgesellschaft einen freien Beruf nach § 1 Absatz 2 des Partnerschaftsgesellschaftsgesetzes ausüben, es sei denn, dass die Verbindung mit dem Beruf des Rechtsanwalts, insbesondere seiner Stellung als unabhängigem Organ der Rechtspflege, nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann.
 
@@ -1063,7 +1065,7 @@ Berufsausübungsgesellschaften sind befugt, Rechtsdienstleistungen im Sinne des 
 
 (3) Für alle Berufsausübungsgesellschaften, die keinen rechtsformbedingten Ausschluss der Haftung und keine Beschränkung der Haftung der natürlichen Personen vorsehen, beträgt die Mindestversicherungssumme 500 000 Euro für jeden Versicherungsfall.
 
-(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der Gesellschafter und mit der Zahl der Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer Gesellschafter und der Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
+(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
 
 # § 59p – Rechtsanwaltsgesellschaft
 
@@ -2015,7 +2017,7 @@ Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem Bundesgerichtshof w
 
 # § 149 – Verfahren
 
-(1) Das Anwaltsgericht hat von Amts wegen alle Beweise zu erheben, die eine Entscheidung darüber begründen können, ob das eingestellte Verfahren zur Ausschließung aus der Rechtsanwaltschaft oder zur Aberkennung der Rechtdienstleistungsbefugnis geführt hätte. Den Umfang des Verfahrens bestimmt das Anwaltsgericht nach pflichtmäßigem Ermessen, ohne an Anträge gebunden zu sein; seine Verfügungen können insoweit nicht angefochten werden.
+(1) Das Anwaltsgericht hat von Amts wegen alle Beweise zu erheben, die eine Entscheidung darüber begründen können, ob das eingestellte Verfahren zur Ausschließung aus der Rechtsanwaltschaft oder zur Aberkennung der Rechtsdienstleistungsbefugnis geführt hätte. Den Umfang des Verfahrens bestimmt das Anwaltsgericht nach pflichtmäßigem Ermessen, ohne an Anträge gebunden zu sein; seine Verfügungen können insoweit nicht angefochten werden.
 
 (2) Zeugen sind, soweit nicht Ausnahmen vorgeschrieben oder zugelassen sind, eidlich zu vernehmen.
 
@@ -2276,7 +2278,9 @@ Der beim Bundesgerichtshof zugelassene Rechtsanwalt hat seine Kanzlei am Sitz de
 
 6. die berufliche Fortbildung der Rechtsanwälte zu fördern;
 
-7. die elektronische Kommunikation der Rechtsanwälte mit Gerichten, Behörden und sonstigen Dritten zu unterstützen.
+7. die elektronische Kommunikation der Rechtsanwälte mit Gerichten, Behörden und sonstigen Dritten zu unterstützen;
+
+8. die Rechtsanwaltskammern und die Rechtsanwälte bei der Erfüllung ihrer Pflichten im Rahmen der Geldwäschebekämpfung zu unterstützen.
 
 # § 178 – Beiträge zur Bundesrechtsanwaltskammer
 
@@ -2614,7 +2618,7 @@ Für Maßnahmen, die in Verfahren wegen Straftaten oder Ordnungswidrigkeiten ode
 
 festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Berufsträgers dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechen. Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung ohne Zustimmung des Bundesrates diejenigen Berufe aus Staaten, die nicht Mitgliedstaaten der Welthandelsorganisation sind, festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Berufsträgers dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechen und für die außerdem die Gegenseitigkeit verbürgt ist.
 
-(3) Die Befugnis zur Erbringung von Rechtdienstleistungen nach Absatz 1 erstreckt sich
+(3) Die Befugnis zur Erbringung von Rechtsdienstleistungen nach Absatz 1 erstreckt sich
 
 1. für Angehörige von Berufen nach Absatz 2 Satz 1 auf die Gebiete des Rechts des Herkunftsstaats und des Völkerrechts,
 
@@ -2622,7 +2626,11 @@ festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Beru
 
 # § 207 – Aufnahme in die Rechtsanwaltskammer und berufliche Stellung; Rücknahme und Widerruf
 
-(1) Dem Antrag auf Aufnahme in die Rechtsanwaltskammer (§ 206 Absatz 1 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Eine Bescheinigung nach Satz 1 ist der Rechtsanwaltskammer jährlich vorzulegen.
+(1) Dem Antrag auf Aufnahme in die Rechtsanwaltskammer (§ 206 Absatz 1 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Eine Bescheinigung nach Satz 1 ist der Rechtsanwaltskammer jährlich vorzulegen. Die Rechtsanwaltskammer kann auf die Vorlage der Bescheinigung nach den Sätzen 1 und 2 verzichten, wenn der ausländische Rechtsanwalt glaubhaft darlegt und so weit wie möglich belegt, dass er
+
+1. trotz Vornahme aller zumutbaren Bemühungen keine Bescheinigung der in seinem Herkunftsstaat zuständigen Behörde hat erlangen können und
+
+2. in seinem Herkunftsstaat dem Beruf des Rechtsanwalts zugehörig ist; hierbei hat er die Zugehörigkeit gegenüber der Rechtsanwaltskammer an Eides statt zu versichern.
 
 (2) Die Aufnahme in die Rechtsanwaltskammer ist zu widerrufen, wenn
 
@@ -2632,7 +2640,7 @@ festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Beru
 
 (3) Für die Entscheidung über den Antrag, für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer sowie für die Rücknahme und den Widerruf der Aufnahme in die Rechtsanwaltskammer gelten im Übrigen
 
-1. sinngemäß der Zweite Teil mit Ausnahme der §§ 4 und 12 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 12a und 17, der Dritte und Vierte Teil, der Vierte Abschnitt des Fünften Teils, der Sechste, Siebente, Zehnte, Elfte und Dreizehnte Teil und
+1. sinngemäß der Zweite Teil mit Ausnahme der §§ 4 und 12 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 12a und 17, der Dritte Teil mit Ausnahme des § 59j Absatz 3, der Vierte Teil, der Vierte Abschnitt des Fünften Teils, der Sechste, Siebente, Zehnte, Elfte und Dreizehnte Teil und
 
 2. die auf Grund des § 31d erlassene Rechtsverordnung.
 
@@ -2664,7 +2672,7 @@ Für die Berufshaftpflichtversicherung gilt § 7 Absatz 1 und 2 des Gesetzes üb
 
 5. sie durch die für den Ort ihrer deutschen Zweigniederlassung zuständige Rechtsanwaltskammer zugelassen ist.
 
-(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 59c Absatz 2, die §§ 59d, 59e, 59f, 59g, 59h, 59i Absatz 2 bis 5 und die §§ 59j, 59m, 59n und 59o entsprechend. § 59j ist mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Rechtsanwälte oder nach § 206 Absatz 1 niedergelassene ausländische Rechtsanwälte in vertretungsberechtigter Zahl angehören müssen.
+(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 59c Absatz 2, die §§ 59d, 59e, 59f, 59g, 59h, 59i Absatz 2 bis 5 und die §§ 59j, 59m, 59n und 59o entsprechend. § 59j ist mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Rechtsanwälte oder nach § 206 Absatz 1 niedergelassene ausländische Rechtsanwälte in vertretungsberechtigter Zahl angehören müssen. § 59o ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der Geschäftsführer, sondern auf die Zahl der Mitglieder der Geschäftsleitung nach Absatz 1 Nummer 4 abzustellen ist.
 
 (3) Die zugelassene Berufsausübungsgesellschaft ist berechtigt, in der Bundesrepublik Deutschland durch nach § 206 Absatz 3 Nummer 1 befugte niedergelassene ausländische Rechtsanwälte Rechtsdienstleistungen auf den Gebieten des Rechts des Herkunftsstaats des für die Berufsausübungsgesellschaft handelnden niedergelassenen ausländischen Rechtsanwalts und des Völkerrechts zu erbringen.
 

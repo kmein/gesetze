@@ -3818,7 +3818,17 @@ Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen oder um ein
 
 (1d) Das Bundesamt unterrichtet die Bundesanstalt für Finanzdienstleistungsaufsicht unverzüglich über jedes Ordnungsgeld, das gemäß Absatz 1 gegen eine Kapitalgesellschaft im Sinne des § 264d oder gegen ein Mitglied ihrer Vertretungsorgane festgesetzt wird. Wird gegen eine solche Ordnungsgeldfestsetzung Beschwerde eingelegt, unterrichtet das Bundesamt die Bundesanstalt für Finanzdienstleistungsaufsicht über diesen Umstand sowie über den Ausgang des Beschwerdeverfahrens.
 
-(2) Auf das Verfahren sind die §§ 15 bis 19, § 40 Abs. 1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12 Abs. 1 Nr. 1 bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21 Abs. 1, §§ 23 und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe der nachfolgenden Absätze entsprechend anzuwenden. Das Ordnungsgeldverfahren ist ein Justizverwaltungsverfahren. Zur Vertretung der Beteiligten sind auch Wirtschaftsprüfer und vereidigte Buchprüfer, Steuerberater, Steuerbevollmächtigte, Personen und Vereinigungen im Sinn des § 3 Nr. 4 des Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr. 1 des Steuerberatungsgesetzes handeln, befugt.
+(2) Auf das Verfahren sind die §§ 15 bis 19, § 40 Abs. 1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12 Abs. 1 Nr. 1 bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21 Abs. 1, §§ 23 und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe der nachfolgenden Absätze entsprechend anzuwenden. Das Ordnungsgeldverfahren ist ein Justizverwaltungsverfahren. Zur Vertretung der Beteiligten sind auch befugt
+
+1. Wirtschaftsprüfer und vereidigte Buchprüfer,
+
+2. Steuerberater und Steuerbevollmächtigte,
+
+3. Personen und Vereinigungen im Sinne der §§ 3a und 3c des Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des Steuerberatungsgesetzes,
+
+4. zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser Befugnisse sowie
+
+5. Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz 2 des Steuerberatungsgesetzes handeln.
 
 (2a) Die Akten einschließlich der Verfahrensakten in der Zwangsvollstreckung werden elektronisch geführt. Auf die elektronische Aktenführung und die elektronische Kommunikation ist § 110c des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden, jedoch dessen Satz 1
 

@@ -497,7 +497,9 @@ c) Notar, Notarvertretung, Notariatsverwalter, Notarassessor oder als im Vorbere
 
 2. mit einem Angehörigen eines anderen Berufs nach § 52c Absatz 1 Satz 1, dem ein Tätigwerden bei entsprechender Anwendung des Absatzes 1 untersagt wäre.
 
-Satz 1 ist nicht anzuwenden, soweit dem Tätigkeitsverbot nach Absatz 1 eine Tätigkeit als Bewerber für den Beruf des Patentanwalts im Rahmen der Ausbildung nach Absatz 1 Nummer 1 Buchstabe a oder als Referendar im Vorbereitungsdienst nach Absatz 1 Nummer 1 Buchstabe a oder c zugrunde liegt. Ein Tätigkeitsverbot nach Satz 1 bleibt bestehen, wenn der nach Absatz 1 ausgeschlossene Patentanwalt die gemeinschaftliche Berufsausübung beendet. Satz 1 ist in den Fällen, in denen das Tätigkeitsverbot auf Absatz 1 Nummer 3 oder 4 beruht, nicht anzuwenden, wenn die betroffenen Personen der Tätigkeit nach umfassender Information durch den Patentanwalt in Textform zugestimmt haben und geeignete Vorkehrungen die Verhinderung einer Offenbarung vertraulicher Informationen sicherstellen. Soweit es für die Prüfung eines Tätigkeitsverbots erforderlich ist, dürfen der Verschwiegenheit unterliegende Tatsachen einem Patentanwalt auch ohne Einwilligung der betroffenen Person offenbart werden.
+Satz 1 ist nicht anzuwenden, soweit dem Tätigkeitsverbot nach Absatz 1 eine Tätigkeit als Bewerber für den Beruf des Patentanwalts im Rahmen der Ausbildung nach Absatz 1 Nummer 1 Buchstabe a, als Referendar im Vorbereitungsdienst nach Absatz 1 Nummer 1 Buchstabe a oder c oder als wissenschaftlicher Mitarbeiter bei einem Patentanwalt oder in einer Berufsausübungsgesellschaft nach Absatz 1 Nummer 4 zugrunde liegt. Die Tätigkeit als wissenschaftlicher Mitarbeiter nach Satz 2 umfasst berufliche Tätigkeiten während des Erwerbs der technischen Befähigung (§ 6) und während der Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes (§ 7) bis zum Bestehen der Prüfung über die erforderlichen Rechtskenntnisse (§ 8).
+
+(3) Ein Tätigkeitsverbot nach Absatz 2 Satz 1 bleibt bestehen, wenn der nach Absatz 1 ausgeschlossene Patentanwalt die gemeinschaftliche Berufsausübung beendet. Absatz 2 Satz 1 findet in den Fällen, in denen das Tätigkeitsverbot auf Absatz 1 Nummer 3 oder 4 beruht, keine Anwendung, wenn die betroffenen Personen der Tätigkeit nach umfassender Information in Textform durch den Patentanwalt zugestimmt haben und geeignete Vorkehrungen die Verhinderung einer Offenbarung vertraulicher Informationen sicherstellen. Soweit es für die Prüfung eines Tätigkeitsverbots erforderlich ist, dürfen der Verschwiegenheit unterliegende Tatsachen einem Patentanwalt auch ohne Einwilligung der betroffenen Person offenbart werden.
 
 # § 41a – Angestellte Patentanwälte und Syndikuspatentanwälte
 
@@ -831,13 +833,13 @@ Für Berufsausübungsgesellschaften nach dem Gesellschaftsrecht eines Staates, d
 
 # § 52c – Berufsausübungsgesellschaften mit Angehörigen anderer Berufe
 
-(1) Die Verbindung zu einer Berufsausübungsgesellschaft nach § 52b Absatz 1 ist Patentenanwälten auch gestattet
+(1) Die Verbindung zu einer Berufsausübungsgesellschaft nach § 52b Absatz 1 ist Patentanwälten auch gestattet
 
 1. mit Mitgliedern der Patentanwaltskammer, Mitgliedern einer Rechtsanwaltskammer, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern,
 
-2. mit Angehörigen von Patentanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland oder nach § 157 berechtigt wären, sich im Geltungsbereich dieses Gesetzes niederzulassen,
+2. mit Angehörigen von Patentanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland oder nach § 157 berechtigt wären, sich in der Bundesrepublik Deutschland niederzulassen, und mit Angehörigen von Rechtsanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland oder nach § 206 der Bundesrechtsanwaltsordnung berechtigt wären, sich in der Bundesrepublik Deutschland niederzulassen,
 
-3. mit Rechtsanwälten, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach der Bundesrechtsanwaltsordnung, dem Steuerberatungsgesetz oder der Wirtschaftsprüferordnung ihren Beruf mit Rechtsanwälten, Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern oder vereidigten Buchprüfern im Geltungsbereich dieses Gesetzes gemeinschaftlich ausüben dürfen,
+3. mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern anderer Staaten, die nach dem Steuerberatungsgesetz oder der Wirtschaftsprüferordnung ihren Beruf mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern oder vereidigten Buchprüfern in der Bundesrepublik Deutschland gemeinschaftlich ausüben dürfen,
 
 4. mit Personen, die in der Berufsausübungsgesellschaft einen freien Beruf nach § 1 Absatz 2 des Partnerschaftsgesellschaftsgesetzes ausüben, es sei denn, dass die Verbindung mit dem Beruf des Patentanwalts, insbesondere seiner Stellung als unabhängigem Organ der Rechtspflege, nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann.
 
@@ -999,7 +1001,7 @@ b) ein bisheriger Zustellungsbevollmächtigter weggefallen ist, oder
 
 (3) Für alle Berufsausübungsgesellschaften, die keinen rechtsformbedingten Ausschluss der Haftung und keine Beschränkung der Haftung der natürlichen Personen vorsehen, beträgt die Mindestversicherungssumme 500 000 Euro für jeden Versicherungsfall.
 
-(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der Gesellschafter und mit der Zahl der Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer Gesellschafter und der Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
+(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der patentanwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der patentanwaltlichen Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer patentanwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der patentanwaltlichen Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
 
 # § 52o – Patentanwaltsgesellschaft
 
@@ -2061,7 +2063,11 @@ festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Beru
 
 # § 158 – Aufnahme in die Patentanwaltskammer und berufliche Stellung; Rücknahme und Widerruf
 
-(1) Dem Antrag auf Aufnahme in die Patentanwaltskammer (§ 157 Absatz 1 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Eine Bescheinigung nach Satz 1 ist der Patentanwaltskammer jährlich vorzulegen.
+(1) Dem Antrag auf Aufnahme in die Patentanwaltskammer (§ 157 Absatz 1 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Eine Bescheinigung nach Satz 1 ist der Patentanwaltskammer jährlich vorzulegen. Die Patentanwaltskammer kann auf die Vorlage der Bescheinigung nach den Sätzen 1 und 2 verzichten, wenn der ausländische Patentanwalt glaubhaft darlegt und so weit wie möglich belegt, dass er
+
+1. trotz Vornahme aller zumutbaren Bemühungen keine Bescheinigung der in seinem Herkunftsstaat zuständigen Behörde hat erlangen können und
+
+2. in seinem Herkunftsstaat dem Beruf des Patentanwalts zugehörig ist; hierbei hat er die Zugehörigkeit gegenüber der Patentanwaltskammer an Eides statt zu versichern.
 
 (2) Die Aufnahme in die Patentanwaltskammer ist zu widerrufen, wenn
 
@@ -2071,11 +2077,11 @@ festlegen, die in Bezug auf die Ausbildung zum Beruf und die Befugnisse des Beru
 
 (3) Für die Entscheidung über den Antrag, für die Rechtsstellung nach Aufnahme in die Patentanwaltskammer sowie für die Rücknahme und den Widerruf der Aufnahme in die Patentanwaltskammer gelten im Übrigen
 
-1. sinngemäß der Zweite und Dritte Unterabschnitt des Ersten Abschnitts des Zweiten Teils mit Ausnahme des § 18 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 19 und 24, der Dritte und Vierte Teil, der Dritte Abschnitt des Fünften Teils, der Sechste, der Siebente, der Achte und der Zehnte Teil und
+1. sinngemäß der Zweite und Dritte Unterabschnitt des Ersten Abschnitts des Zweiten Teils mit Ausnahme des § 18 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 19 und 24, der Dritte Teil mit Ausnahme des § 52j Absatz 3, der Vierte Teil, der Dritte Abschnitt des Fünften Teils, der Sechste, der Siebente, der Achte und der Zehnte Teil und
 
 2. die auf Grund des § 29 Absatz 5 erlassene Rechtsverordnung.
 
-Für die Berufshaftpflichtversicherung gilt § 17 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland entsprechend. Vorläufige Berufs- oder Vertretungsverbote nach § 132 sind für den Geltungsbereich dieses Gesetzes auszusprechen. An die Stelle der Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1 Nummer 4) tritt das Verbot, im Geltungsbereich dieses Gesetzes fremde patentanwaltliche Angelegenheiten zu besorgen; mit der Rechtskraft dieser Entscheidung verliert der Verurteilte die Mitgliedschaft in der Patentanwaltskammer.
+Für die Berufshaftpflichtversicherung gilt § 21 Absatz 2 Satz 1 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland entsprechend. Vorläufige Berufs- oder Vertretungsverbote nach § 132 sind für den Geltungsbereich dieses Gesetzes auszusprechen. An die Stelle der Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1 Nummer 4) tritt das Verbot, im Geltungsbereich dieses Gesetzes fremde patentanwaltliche Angelegenheiten zu besorgen; mit der Rechtskraft dieser Entscheidung verliert der Verurteilte die Mitgliedschaft in der Patentanwaltskammer.
 
 (4) Der niedergelassene ausländische Patentanwalt hat die Berufsbezeichnung nach dem Recht des Herkunftsstaats zu führen. Er hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikuspatentanwalt in die Patentanwaltskammer aufgenommen, so hat er seiner Berufsbezeichnung zudem die Bezeichnung „(Syndikus)“ nachzustellen. Der niedergelassene ausländische Patentanwalt ist berechtigt, im beruflichen Verkehr zugleich die Bezeichnung „Mitglied der Patentanwaltskammer“ zu verwenden.
 
@@ -2103,7 +2109,7 @@ Für die Berufshaftpflichtversicherung gilt § 17 des Gesetzes über die Tätigk
 
 5. sie durch die Patentanwaltskammer zugelassen ist.
 
-(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 52c Absatz 2, die §§ 52d, 52e, 52f, 52g, 52h und 52i Absatz 2 bis 5 sowie die §§ 52j, 52l, 52m und 52n entsprechend. § 52j ist dabei mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Patentanwälte oder nach § 157 niedergelassene ausländische Patentanwälte in vertretungsberechtigter Zahl angehören müssen.
+(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 52c Absatz 2, die §§ 52d, 52e, 52f, 52g, 52h und 52i Absatz 2 bis 5 sowie die §§ 52j, 52l, 52m und 52n entsprechend. § 52j ist dabei mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Patentanwälte oder nach § 157 niedergelassene ausländische Patentanwälte in vertretungsberechtigter Zahl angehören müssen. § 52n ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der Geschäftsführer, sondern auf die Zahl der Mitglieder der Geschäftsleitung nach Absatz 1 Nummer 4 abzustellen ist.
 
 (3) Die zugelassene Berufsausübungsgesellschaft ist berechtigt, in der Bundesrepublik Deutschland durch nach § 157 Absatz 3 Nummer 1 befugte niedergelassene ausländische Patentanwälte patentanwaltliche Rechtsdienstleistungen auf den Gebieten des Rechts des Herkunftsstaats des für die Berufsausübungsgesellschaft handelnden niedergelassenen ausländischen Patentanwalts und des Völkerrechts zu erbringen.
 
