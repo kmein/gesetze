@@ -57,7 +57,7 @@ gestattet war. In den Fällen des Satzes 1 Nummer 1 bis 3 ist der Umfang der Bef
 
 # § 5 – Diplom-Juristen aus dem Beitrittsgebiet
 
-Personen, die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet ein rechtswissenschaftliches Studium als Diplom-Jurist an einer Universität oder wissenschaftlichen Hochschule abgeschlossen haben und nach dem 3. Oktober 1990 zum Richter, Staatsanwalt oder Notar ernannt, im höheren Verwaltungsdienst beschäftigt oder als Rechtsanwalt zugelassen wurden, stehen in den nachfolgenden Vorschriften einer Person mit Befähigung zum Richteramt gleich:
+Personen, die bis zum 9. September 1996 die fachlichen Voraussetzungen für die Zulassung zur Rechtsanwaltschaft nach § 4 des Rechtsanwaltsgesetzes vom 13. September 1990 (GBl. I Nr. 61 S. 1504) erfüllt haben, stehen in den nachfolgenden Vorschriften einer Person mit Befähigung zum Richteramt gleich:
 
 1. § 6 Abs. 2 Satz 1 und § 7 Abs. 2 Satz 1 des Rechtsdienstleistungsgesetzes,
 
@@ -81,12 +81,22 @@ Personen, die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet ein rec
 
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und registrierten Rechtsbeiständen geführt werden.
 
-# § 7 – Übergangsvorschrift zu § 13 Absatz 2 des Rechtsdienstleistungsgesetzes
+# § 7 – Übergangsvorschrift zur Änderung der Zuständigkeit im Rechtsdienstleistungsgesetz
 
-Registrierte Personen im Sinne des § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes, die vor dem 1. Oktober 2021 registriert wurden und Tätigkeiten auf in § 11 Absatz 1 des Rechtsdienstleistungsgesetzes nicht genannten Rechtsgebieten oder als Nebenleistungen zur Inkassodienstleistung erbringen, haben der für sie zuständigen Aufsichtsbehörde bis zum 30. Juni 2022 eine inhaltliche Darstellung der von ihnen ausgeübten Tätigkeiten zu übermitteln. Diese muss insbesondere Angaben dazu enthalten,
+(1) Das Bundesamt für Justiz hat in der Zeit vom 1. Januar bis 31. August 2024 über die Landesjustizverwaltungen die von den nach § 19 des Rechtsdienstleistungsgesetzes zuständigen Behörden zur Durchführung des Rechtsdienstleistungsgesetzes geführten Akten zur Anlage eigener Akten anzufordern. Die aktenführenden Behörden haben dem Bundesamt für Justiz die angeforderten Akten innerhalb von drei Monaten zusammen mit einer Liste der Akten zu übermitteln. Nehmen die aktenführenden Behörden in die nach Satz 1 angeforderten Akten zwischen dem Zeitpunkt ihrer Übermittlung nach Satz 2 und dem 31. Dezember 2024 weitere Inhalte auf oder legen sie in dieser Zeit neue Akten an, so haben sie diese Inhalte oder Akten spätestens am 10. Januar 2025 dem Bundesamt für Justiz zu übermitteln. Zudem haben sie dem Bundesamt für Justiz spätestens am 10. Januar 2025 Listen derjenigen Akten zu übermitteln,
 
-1. auf welchen Rechtsgebieten die Tätigkeiten erbracht werden und
+1. in denen am 31. Dezember 2024 Prüfungen noch nicht abgeschlossen waren und
 
-2. welche Tätigkeiten als Nebenleistungen erbracht werden.
+2. bei denen in dem in Satz 3 genannten Zeitraum der Fall des Absatzes 2 Satz 1 eingetreten ist.
 
-Erachtet die zuständige Behörde eine nach Satz 2 Nummer 2 mitgeteilte Nebenleistung als nicht zulässig, so hat sie dies der registrierten Person innerhalb von vier Monaten nach Eingang der Darstellung mitzuteilen.
+Die Sätze 1 bis 3 gelten nicht für Akten, die Absatz 2 Satz 1 unterfallen.
+
+(2) Die Zuständigkeit für die Aufbewahrung von Akten, bei denen die Fristen nach § 7 der Rechtsdienstleistungsverordnung vor dem 1. Januar 2025 begonnen haben, bestimmt sich nach § 19 des Rechtsdienstleistungsgesetzes in der bis zum 31. Dezember 2024 geltenden Fassung. Die Zuständigkeit für vor dem 1. Januar 2025 wegen Zuwiderhandlungen nach § 20 Absatz 1 oder 2 des Rechtsdienstleistungsgesetzes eingeleitete Bußgeldverfahren verbleibt auch nach dem 31. Dezember 2024 bei den an diesem Tag für diese Verfahren sachlich zuständigen Verwaltungsbehörden.
+
+(3) Die nach Absatz 2 am 31. Dezember 2024 zuständigen Behörden haben dem Bundesamt für Justiz auf dessen Anforderung Auskunft über dem Absatz 2 unterfallende Akten zu erteilen und diese zur Einsichtnahme zu übermitteln, soweit dies zur Erfüllung der Aufgaben des Bundesamts für Justiz erforderlich ist.
+
+(4) Die nach § 19 des Rechtsdienstleistungsgesetzes in der bis zum 31. Dezember 2024 geltenden Fassung zuständigen Behörden haben diejenigen von ihnen zur Durchführung des Rechtsdienstleistungsgesetzes geführten Akten, die nicht Absatz 2 Satz 1 unterfallen, mit Ablauf des Jahres 2025 zu vernichten. Das Bundesamt für Justiz hat diejenigen von ihm angelegten Akten, die Absatz 1 Satz 4 Nummer 2 unterfallen, mit Ablauf des Jahres 2025 zu vernichten.
+
+(5) Akten im Sinne dieser Vorschrift sind auch elektronische Akten. Bei diesen tritt an die Stelle der Vernichtung die Löschung.
+
+(6) Die Zuständigkeit für vor dem 1. Januar 2025 wegen Zuwiderhandlungen nach § 160 Absatz 1 des Steuerberatungsgesetzes in der bis zum 31. Dezember 2024 geltenden Fassung eingeleitete Bußgeldverfahren bestimmt sich nach dem 31. Dezember 2024 auch dann nach § 164 des Steuerberatungsgesetzes, wenn sie einen Verstoß gegen § 5 Absatz 1 des Steuerberatungsgesetzes zum Gegenstand hatten. Absatz 3 gilt entsprechend.

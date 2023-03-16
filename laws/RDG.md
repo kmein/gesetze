@@ -123,7 +123,7 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 (5) Personen, die eine Berufsqualifikation im Sinne des § 12 Absatz 3 Satz 4 besitzen und nur für einen Teilbereich nach § 10 Absatz 1 Satz 2 registriert sind, haben ihre Berufstätigkeit unter der in die deutsche Sprache übersetzten Berufsbezeichnung ihres Herkunftsstaates auszuüben.
 
-# § 12 – Registrierungsvoraussetzungen
+# § 12 – Registrierungsvoraussetzungen; Verordnungsermächtigung
 
 (1) Voraussetzungen für die Registrierung sind
 
@@ -155,9 +155,9 @@ aus der Rechts- oder Patentanwaltschaft oder einem im Steuerberatungsgesetz oder
 
 (4) Juristische Personen und Gesellschaften ohne Rechtspersönlichkeit müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
+(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
 
-# § 13 – Registrierungsverfahren
+# § 13 – Registrierungsverfahren; Verordnungsermächtigung
 
 (1) Der Antrag auf Registrierung ist an die für den Ort der inländischen Hauptniederlassung zuständige Behörde zu richten. Hat eine Person im Inland keine Niederlassung, so kann sie den Antrag an jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde richten. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
 
@@ -185,7 +185,7 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie
 
 (5) Inkassodienstleister, die Tätigkeiten auf anderen als bereits zuvor mitgeteilten Rechtsgebieten erbringen wollen, haben diese Tätigkeiten unverzüglich der zuständigen Behörde in Textform mitzuteilen. Satz 1 gilt entsprechend, wenn andere als bereits zuvor mitgeteilte Nebenleistungen erbracht werden sollen. Erachtet die zuständige Behörde eine nach Satz 2 mitgeteilte Nebenleistung als nicht zulässig, so hat sie dies dem Inkassodienstleister innerhalb von zwei Monaten mitzuteilen.
 
-(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+(6) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
 
 # § 13a – Darlegungs- und Informationspflichten bei Inkassodienstleistungen gegenüber Privatpersonen
 
@@ -263,7 +263,7 @@ d) welche Auswirkungen es auf einen Vergleichsschluss haben kann, wenn Forderung
 
 1. die Angabe, welche Vergütung bei Eintritt welcher Bedingungen verdient sein soll,
 
-2. die Angabe, ob und gegebenenfalls welchen Einfluss die Vereinbarung auf die gegebenenfalls von dem Verbraucher zu zahlenden Gerichtskosten, Verwaltungskosten und die von diesem zu erstattenden Kosten anderer Beteiligter haben soll,
+2. die Angabe, ob und gegebenenfalls welchen Einfluss die Vereinbarung auf die gegebenenfalls von dem Auftraggeber zu zahlenden Gerichtskosten, Verwaltungskosten und die von diesem zu erstattenden Kosten anderer Beteiligter haben soll,
 
 3. die wesentlichen Gründe, die für die Bemessung des Erfolgshonorars bestimmend sind, insbesondere im Hinblick auf die Erfolgsaussichten der Rechtsdurchsetzung, den Aufwand des Inkassodienstleisters und die Möglichkeit, die Kosten für die Inkassotätigkeit vom Schuldner ersetzt zu erhalten, sowie
 
@@ -381,7 +381,7 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehende Registrierung erbracht, so kann die zuständige Behörde die Fortsetzung des Betriebs verhindern.
 
-# § 16 – Inhalt des Rechtsdienstleistungsregisters
+# § 16 – Inhalt des Rechtsdienstleistungsregisters; Verordnungsermächtigung
 
 (1) Das Rechtsdienstleistungsregister dient der Information der Rechtsuchenden, der Personen, die Rechtsdienstleistungen anbieten, des Rechtsverkehrs und öffentlicher Stellen. Die Einsicht in das Rechtsdienstleistungsregister steht jedem unentgeltlich zu.
 
@@ -415,9 +415,9 @@ d) der Dauer der Untersagung.
 
 Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn sie in die Veröffentlichung dieser Daten in Textform eingewilligt hat. Wird ein Abwickler bestellt, ist auch dies unter Angabe von Familienname, Vorname und Anschrift des Abwicklers zu veröffentlichen.
 
-(3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
+(3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
 
-# § 17 – Löschung von Veröffentlichungen
+# § 17 – Löschung von Veröffentlichungen; Verordnungsermächtigung
 
 (1) Die im Rechtsdienstleistungsregister öffentlich bekanntgemachten Daten sind zu löschen
 
@@ -435,9 +435,9 @@ Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäft
 
 Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine Löschung erst nach Beendigung der Abwicklung.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
+(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
 
-# § 18 – Umgang mit personenbezogenen Daten
+# § 18 – Umgang mit personenbezogenen Daten; Verordnungsermächtigung
 
 (1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einem Dateisystem speichern und aus diesem im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
 
@@ -457,7 +457,7 @@ Satz 3 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interes
 
 (2a) Wird in einem verwaltungsgerichtlichen Verfahren festgestellt, dass eine Person bei einem Antrag auf Anerkennung ihrer Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132; L 268 vom 15.10.2015, S. 35; L 95 vom 9.4.2016, S. 20) geändert worden ist, in der jeweils geltenden Fassung einen gefälschten Berufsqualifikationsnachweis verwendet hat, hat die zuständige Behörde die Angaben zur Identität der Person und die Tatsache, dass sie einen gefälschten Berufsqualifikationsnachweis verwendet hat, binnen drei Tagen nach Rechtskraft der gerichtlichen Entscheidung über das Binnenmarkt-Informationssystem den anderen Mitgliedstaaten der Europäischen Union, den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz mitzuteilen. § 38 Absatz 2 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland gilt entsprechend.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln.
+(3) Das Bundesministerium der Justiz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln.
 
 # § 19 – Zuständigkeit und Übertragung von Befugnissen
 

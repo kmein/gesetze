@@ -872,7 +872,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 3. Rentenberater im Umfang ihrer Befugnisse nach § 10 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit Satz 2, des Rechtsdienstleistungsgesetzes,
 
-4. Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des Steuerberatungsgesetzes, zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser Befugnisse sowie Gesellschaften im Sinn des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr. 1 des Steuerberatungsgesetzes handeln, in Angelegenheiten nach den §§ 28h und 28p des Vierten Buches Sozialgesetzbuch,
+4. Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte Buchprüfer, Personen und Vereinigungen im Sinne der §§ 3a und 3c des Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des Steuerberatungsgesetzes, zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser Befugnisse sowie Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz 2 des Steuerberatungsgesetzes handeln, in Angelegenheiten nach den §§ 28h und 28p des Vierten Buches Sozialgesetzbuch,
 
 5. selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung für ihre Mitglieder,
 

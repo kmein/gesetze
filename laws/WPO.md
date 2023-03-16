@@ -596,7 +596,7 @@ Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer, die aufgr
 
 (2) Berufsangehörige haben sich jeder Tätigkeit zu enthalten, die mit ihrem Beruf oder mit dem Ansehen des Berufs unvereinbar ist. Sie haben sich der besonderen Berufspflichten bewusst zu sein, die ihnen aus der Befugnis erwachsen, gesetzlich vorgeschriebene Bestätigungsvermerke zu erteilen. Sie haben sich auch außerhalb der Berufstätigkeit des Vertrauens und der Achtung würdig zu erweisen, die der Beruf erfordert. Sie sind verpflichtet, sich fortzubilden.
 
-(3) Wer Abschlussprüfer eines Unternehmens von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs war oder wer als verantwortlicher Prüfungspartner im Sinne der Sätze 3 oder 4 bei der Abschlussprüfung eines solchen Unternehmens tätig war, darf dort innerhalb von zwei Jahren nach der Beendigung der Prüfungstätigkeit keine wichtige Führungstätigkeit ausüben und nicht Mitglied des Aufsichtsrats, des Prüfungsausschusses des Aufsichtsrats oder des Verwaltungsrats sein. Satz 1 gilt mit der Maßgabe, dass die Frist ein Jahr beträgt, entsprechend für
+(3) Wer Abschlussprüfer eines Unternehmens von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs war oder wer als verantwortlicher Prüfungspartner im Sinne der Sätze 3 oder 4 bei der Abschlussprüfung eines solchen Unternehmens tätig war, darf dort innerhalb von zwei Jahren nach der Beendigung der Prüfungstätigkeit keine wichtige Führungstätigkeit ausüben, nicht als Mitglied des Aufsichtsrats, des Prüfungsausschusses des Aufsichtsrats oder des Verwaltungsrats tätig sein und sich nicht zur Übernahme einer der vorgenannten Tätigkeiten verpflichten. Satz 1 gilt mit der Maßgabe, dass die Frist ein Jahr beträgt, entsprechend für
 
 1. Personen, die als Abschlussprüfer oder verantwortliche Prüfungspartner gesetzliche Abschlussprüfungen eines sonstigen Unternehmens durchgeführt haben,
 
@@ -1322,7 +1322,7 @@ b) im Rahmen einer Aufsichts- oder Beschwerdesache oder eines Widerrufsverfahren
 
 Die in Satz 1 Nummer 1 und 2 genannten Personen sind in Textform über ihre Verschwiegenheitspflicht zu belehren.
 
-(3) Wurde im Rahmen eines Vertretungsverhältnisses eine Berufspflichtverletzung begangen, dürfen die in den Absätzen 1 und 2 Satz 1 Nummer 1 und 2 bezeichneten Personen den Vertretenen über ein gegen ein Mitglied der Wirtschaftsprüferkammer geführtes berufsaufsichtliches Verfahren unterrichten. Abweichend von Absatz 1 dürfen die in den Absätzen 1 und 2 Satz 1 Nummer 1 und 2 bezeichneten Personen in Fällen von öffentlichem Interesse, die mögliche Pflichtverletzungen im Zusammenhang mit gesetzlichen Abschlussprüfungen betreffen, auf Anfrage darüber Auskunft geben, ob berufsaufsichtliche Verfahren eingeleitet wurden und ob diese noch andauern oder bereits abgeschlossen wurden. Die Auskunft darf keine personenbezogenen Daten enthalten. § 69 bleibt unberührt.
+(3) Wurde im Rahmen eines Vertretungsverhältnisses eine Berufspflichtverletzung begangen, dürfen die in den Absätzen 1 und 2 Satz 1 Nummer 1 und 2 bezeichneten Personen den Vertretenen über ein gegen ein Mitglied der Wirtschaftsprüferkammer geführtes berufsaufsichtliches Verfahren unterrichten. Abweichend von Absatz 1 dürfen die in den Absätzen 1 und 2 Satz 1 Nummer 1 und 2 bezeichneten Personen in Fällen von öffentlichem Interesse, die mögliche Pflichtverletzungen im Zusammenhang mit gesetzlichen Abschlussprüfungen betreffen, auf Anfrage darüber Auskunft geben, ob berufsaufsichtliche Verfahren eingeleitet wurden und ob diese noch andauern oder bereits abgeschlossen wurden. Die Auskunft darf auch Informationen zur Art des Abschlusses und der getroffenen Maßnahmen, jedoch keine personenbezogenen Daten enthalten. § 69 bleibt unberührt.
 
 (4) In Verfahren vor Gerichten und Behörden dürfen die in den Absätzen 1 und 2 Satz 1 Nummer 1 und 2 genannten Personen über Angelegenheiten, die ihrer Verschwiegenheitspflicht unterliegen, ohne Genehmigung nicht aussagen. Die Genehmigung zur Aussage erteilt der Vorstand der Wirtschaftsprüferkammer nach pflichtgemäßem Ermessen. Die Genehmigung soll nur versagt werden, wenn dies mit Rücksicht auf die Stellung oder die Aufgaben der Wirtschaftsprüferkammer oder berechtigte Belange der Personen, über welche die Tatsachen bekannt geworden sind, unabweisbar erforderlich ist. § 28 Absatz 2 des Bundesverfassungsgerichtsgesetzes bleibt unberührt.
 
@@ -1410,7 +1410,7 @@ Zur Durchführung von Ermittlungen in Aufsichts- und Beschwerdesachen sowie in W
 
 1. ohne besonderen Anlass gemäß Artikel 26 der Verordnung (EU) Nr. 537/2014,
 
-2. soweit sich aus den unter Nummer 1 genannten Inspektionen oder sonstigen Umständen konkrete Anhaltspunkte für Verstöße gegen Berufspflichten bei der Durchführung von gesetzlich vorgeschriebenen Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs ergeben,
+2. soweit sich aus den unter Nummer 1 genannten Inspektionen oder sonstigen Umständen konkrete Anhaltspunkte für Verstöße gegen Berufspflichten bei der Durchführung von gesetzlich vorgeschriebenen Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ergeben,
 
 3. aufgrund von Mitteilungen, der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 110 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes oder einer anderen nationalen oder internationalen Stelle.
 
@@ -1424,7 +1424,7 @@ Werden bei den Ermittlungen nach Satz 1 Verletzungen von Berufsrecht festgestell
 
 # § 66b – Verschwiegenheit; Schutz von Privatgeheimnissen
 
-(1) Beamte und Angestellte, die in der Abschlussprüferaufsichtsstelle tätig sind, Mitglieder des bei ihr eingerichteten Fachbeirats und sonstige von ihr Beauftragte sind zur Verschwiegenheit verpflichtet; die Artikel 31 bis 34 der Verordnung (EU) Nr. 537/2014 und § 66c Absatz 4 und 6 bleiben unberührt. Die §§ 59c und 64 gelten sinngemäß; eine erforderliche Genehmigung nach § 59c Absatz 4 erteilt das Bundesministerium für Wirtschaft und Energie.
+(1) Beamte und Angestellte, die in der Abschlussprüferaufsichtsstelle tätig sind, Mitglieder des bei ihr eingerichteten Fachbeirats und sonstige von ihr Beauftragte sind zur Verschwiegenheit verpflichtet; die Artikel 31 bis 34 der Verordnung (EU) Nr. 537/2014 und § 66c Absatz 4 und 6 bleiben unberührt. Die §§ 59c und 64 gelten sinngemäß. In den Fällen des § 59c Absatz 3 Satz 2 darf auch darüber Auskunft gegeben werden, ob eine der betroffenen Abschlussprüfungen Gegenstand eines Inspektionsverfahrens nach § 62b ist oder war. Eine erforderliche Ausnahmegenehmigung nach § 59c Absatz 4 erteilt das Bundesministerium für Wirtschaft und Klimaschutz.
 
 (2) Die in Absatz 1 Satz 1 genannten Personen dürfen, auch nach Beendigung ihrer Tätigkeit, ein fremdes Geheimnis, namentlich ein Geschäfts- oder Betriebsgeheimnis, das ihnen bei ihrer Tätigkeit bekannt geworden ist, nicht offenbaren und nicht verwerten.
 
@@ -1492,7 +1492,7 @@ Für den Informationsaustausch zwischen der Abschlussprüferaufsichtsstelle und 
 
 6. Ausschließung aus dem Beruf und
 
-7. Feststellung, dass der Bestätigungsvermerk nicht die Anforderungen des § 322 des Handelsgesetzbuchs und, soweit Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs betroffen sind, des Artikels 10 der Verordnung (EU) Nr. 537/2014 erfüllt.
+7. Feststellung, dass der Bestätigungsvermerk nicht die Anforderungen des § 322 des Handelsgesetzbuchs und, soweit Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs betroffen sind, des Artikels 10 der Verordnung (EU) Nr. 537/2014 erfüllt.
 
 (2) Die berufsaufsichtlichen Maßnahmen nach Absatz 1 können nebeneinander verhängt werden. Der Vorstand der Wirtschaftsprüferkammer soll in die Entscheidung über die Verhängung berufsaufsichtlicher Maßnahmen alle Pflichtverletzungen einbeziehen, die ihm im Zeitpunkt der Verhängung der Maßnahme bekannt sind.
 
@@ -1612,7 +1612,7 @@ Wird der Einspruch gegen eine berufsaufsichtliche Maßnahme zurückgewiesen, so 
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im ersten Rechtszug eine Kammer des Landgerichts (Kammer für Wirtschaftsprüfersachen), in dessen Bezirk die Wirtschaftsprüferkammer ihren Sitz hat.
 
-(2) Die Kammer für Wirtschaftsprüfersachen entscheidet außerhalb der Hauptverhandlung in der Besetzung von drei Mitgliedern mit Einschluß des Vorsitzenden. In der Hauptverhandlung ist sie mit dem Vorsitzenden und zwei Berufsangehörigen als Beisitzern besetzt.
+(2) Die Kammer für Wirtschaftsprüfersachen entscheidet außerhalb der Hauptverhandlung in der Besetzung von drei Mitgliedern mit Einschluß des Vorsitzenden. In der Hauptverhandlung ist sie mit dem Vorsitzenden und zwei Berufsangehörigen als Beisitzern besetzt. Abweichend von Satz 2 beschließt die Kammer bis zur Anberaumung der Hauptverhandlung für diese eine Besetzung mit drei Richtern mit Einschluss des Vorsitzenden und zweier Berufsangehöriger als Beisitzer, wenn dies nach dem Umfang, der Schwierigkeit oder der besonderen Bedeutung des Falles erforderlich erscheint. Der Beschluss ist unanfechtbar.
 
 # § 73 – Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
 
