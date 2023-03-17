@@ -2865,7 +2865,7 @@
 - [InfrAG](laws/InfrAG.md) Gesetz über die Erhebung einer zeitbezogenen Infrastrukturabgabe für die Benutzung von Bundesfernstraßen
 - [InfrGG](laws/InfrGG.md) Gesetz zur Errichtung einer Infrastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen
 - [InfrGGBV](laws/InfrGGBV.md) Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes
-- [InhKontrollV](laws/InhKontrollV.md) Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes *)
+- [InhKontrollV](laws/InhKontrollV.md) Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 17 des Versicherungsaufsichtsgesetzes *)
 - [InhPapG](laws/InhPapG.md) Gesetz betreffend die Inhaberpapiere mit Prämien
 - [INMARSAT](laws/INMARSAT.md) Übereinkommen über die Internationale Seefunksatelliten-Organisation
 - [INMARSATVorRProt](laws/INMARSATVorRProt.md) Protokoll über die Vorrechte und Immunitäten der Internationalen Seefunksatelliten-Organisation (INMARSAT)
@@ -5502,6 +5502,8 @@
 - [TÄHAV](laws/TÄHAV.md) Verordnung über tierärztliche Hausapotheken
 - [TätoV](laws/TätoV.md) Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen*)
 - [TAMG](laws/TAMG.md) Gesetz über den Verkehr mit Tierarzneimitteln und zur Durchführung unionsrechtlicher Vorschriften betreffend Tierarzneimittel 1
+- [TAMKatV](laws/TAMKatV.md) Verordnung über Einteilungskriterien für die Kategorien der Apothekenpflicht oder Freiverkäuflichkeit von Tierarzneimitteln und veterinärmedizintechnischen Produkten
+- [TAMWHV](laws/TAMWHV.md) Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Tierarzneimitteln und Wirkstoffen 1
 - [TAppV](laws/TAppV.md) Verordnung zur Approbation von Tierärztinnen und Tierärzten
 - [TarifOAufhV](laws/TarifOAufhV.md) Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen
 - [TArztHAusbZustV](laws/TArztHAusbZustV.md) Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin

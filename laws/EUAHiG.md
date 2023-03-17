@@ -316,7 +316,8 @@ Die Übermittlung erfolgt auf elektronischem Weg. Auf die praktischen Regelungen
 (+++ § 7 Abs. 3 u. 4: Zur Anwendung vgl. § 21 Abs. 3 +++)  
 (+++ § 7 Abs. 10 bis 12: Zur Anwendung vgl. § 21 Abs. 4 +++)  
 (+++ § 7 Abs. 13: Zur Anwendung vgl. § 21 Abs. 5 +++)  
-(+++ § 7 Abs. 14: Zur Anwendung vgl. § 21 Abs. 4 +++)
+(+++ § 7 Abs. 14: Zur Anwendung vgl. § 21 Abs. 4 +++)  
+(+++ § 7 Abs. 14a: Zur Anwendung vgl. § 21 Abs. 6 +++)
 
 # § 8 – Spontane Übermittlung von Informationen an andere Mitgliedstaaten
 

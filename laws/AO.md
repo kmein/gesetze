@@ -2716,7 +2716,7 @@ Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristisch
 
 (5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 89a Absatz 7 steht dem Bund und dem jeweils betroffenen Land je zur Hälfte zu. Das Aufkommen der Kosten nach § 10 Absatz 5 und § 11 Absatz 7 des Plattformen-Steuertransparenzgesetzes steht dem Bund zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
 
-(+++ § 3: Zur Anwendung vgl. Art. 97 §§ 1 u. 22 AOEG 1977 +++)
+(+++ § 3: Zur Anwendung vgl. Art. 97 §§ 1, 22 u. 37 AOEG 1977 +++)
 
 # § 4 – Gesetz
 
@@ -2892,7 +2892,7 @@ Dies gilt entsprechend bei einer gesonderten Feststellung nach § 180 Absatz 1 S
 
 (2) Ist eine gesonderte Feststellung mehreren Steuerpflichtigen gegenüber vorzunehmen und lässt sich nach Absatz 1 die örtliche Zuständigkeit nicht bestimmen, so ist jedes Finanzamt örtlich zuständig, das nach den §§ 19 oder 20 für die Steuern vom Einkommen und Vermögen eines Steuerpflichtigen zuständig ist, dem ein Anteil an dem Gegenstand der Feststellung zuzurechnen ist. Soweit dieses Finanzamt auf Grund einer Verordnung nach § 17 Abs. 2 Satz 3 und 4 des Finanzverwaltungsgesetzes sachlich nicht für die gesonderte Feststellung zuständig ist, tritt an seine Stelle das sachlich zuständige Finanzamt.
 
-(+++ § 18: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+(+++ § 18: Zur Anwendung vgl. Art. 97 §§ 1 u. 37 AOEG 1977 +++)
 
 # § 19 – Steuern vom Einkommen und Vermögen natürlicher Personen
 
@@ -4135,7 +4135,7 @@ In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zu
 
 (8) Wird ein elektronisch erlassener Verwaltungsakt durch Bereitstellung zum Abruf nach § 122a bekannt gegeben, ist ein sicheres Verfahren zu verwenden, das die für die Datenbereitstellung verantwortliche Stelle oder Einrichtung der Finanzverwaltung authentifiziert und die Vertraulichkeit und Integrität des Datensatzes gewährleistet. Die abrufberechtigte Person hat sich zu authentisieren. Absatz 6 Satz 2 gilt entsprechend.
 
-(+++ § 87a: Zur Anwendung vgl. Art. 97 §§ 1, 27 u. 28 AOEG 1977, § 18h Abs. 6 UStG 1980 u. § 150 dieses G +++)
+(+++ § 87a: Zur Anwendung vgl. Art. 97 §§ 1, 27, 28 u. 37 AOEG 1977, § 18h Abs. 6 UStG 1980 u. § 150 dieses G +++)
 
 # § 87b – Bedingungen für die elektronische Übermittlung von Daten an Finanzbehörden
 
@@ -4338,7 +4338,7 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 
 (5) Um eine einheitliche Rechtsanwendung sicherzustellen, wird das Bundesministerium der Finanzen ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Art, Inhalt und Umfang der nach den Absätzen 3 und 4 zu erstellenden Aufzeichnungen zu bestimmen.
 
-(+++ § 90: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
+(+++ § 90: Zur Anwendung vgl. Art. 97 §§ 22 u. 37 AOEG 1977 +++)
 
 # § 91 – Anhörung Beteiligter
 
@@ -4457,7 +4457,7 @@ Für andere Zwecke ist ein Abrufersuchen an das Bundeszentralamt für Steuern hi
 (10) Ein Abrufersuchen nach Absatz 7 oder Absatz 8 und dessen Ergebnis sind vom Ersuchenden zu dokumentieren.
 
 (+++ § 93: Zur Anwendung vgl. § 4 Abs. 2 VermAnlG, § 9 Abs. 2 WpÜG, § 8 Abs. 2 WpHG u. § 27 Abs. 2 WpPG jeweils F. ab 2.11.2015 +++)  
-(+++ § 93: Zur Anwendung vgl. Art. 97 § 26 AOEG 1977 +++)  
+(+++ § 93: Zur Anwendung vgl. Art. 97 §§ 26 u. 37 AOEG 1977 +++)  
 (+++ § 93: Zur Anwendung vgl. § 22f UStG 1980 +++)
 
 # § 93a – Allgemeine Mitteilungspflichten
@@ -5232,7 +5232,7 @@ In den Fällen von Satz 1 Nummer 3 ist auch anzugeben, bei welcher Finanzbehörd
 
 (8) § 2a Absatz 5 Nummer 2 gilt nicht.
 
-(+++ § 138a: Zur Anwendung vgl. Art. 97 §§ 1 u. 31 AOEG 1977 +++)
+(+++ § 138a: Zur Anwendung vgl. Art. 97 §§ 1, 31 u. 37 AOEG 1977 +++)
 
 # § 138b – Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften
 
@@ -5527,7 +5527,7 @@ Bei Anwendung von Satz 1 Nummer 2 Buchstabe a gilt § 138d Absatz 4 entsprechend
 
 (9) Mehrere Intermediäre derselben grenzüberschreitenden Steuergestaltung sind nebeneinander zur Mitteilung verpflichtet. Ein Intermediär ist in diesem Fall von der Mitteilungspflicht gegenüber dem Bundeszentralamt für Steuern befreit, soweit er nachweisen kann, dass die in Absatz 3 bezeichneten Informationen zu derselben grenzüberschreitenden Steuergestaltung bereits durch einen anderen Intermediär dem Bundeszentralamt für Steuern oder der zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union im Einklang mit den dort geltenden Rechtsvorschriften mitgeteilt wurden.
 
-(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 § 33 AOEG 1977 +++)
+(+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 §§ 33 u. 37 AOEG 1977 +++)
 
 # § 138g – Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer
 
@@ -6013,7 +6013,7 @@ Werden der Finanzbehörde Umstände bekannt, die zu einer Beeinträchtigung der 
 
 (6) Die Ordnungsvorschriften gelten auch dann, wenn der Unternehmer Bücher und Aufzeichnungen, die für die Besteuerung von Bedeutung sind, führt, ohne hierzu verpflichtet zu sein.
 
-(+++ § 146: Zur Anwendung vgl. Art. 97 § 19b u. § 30 AOEG 1977 +++)  
+(+++ § 146: Zur Anwendung vgl. Art. 97 §§ 19b, 30 u. 37 AOEG 1977 +++)  
 (+++ § 146: Zur Geltung vgl. § 93c +++)
 
 # § 146a – Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungsermächtigung
@@ -6124,7 +6124,7 @@ Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der 
 
 (7) Die Verarbeitung und Aufbewahrung der nach Absatz 6 zur Verfügung gestellten Daten ist auch auf mobilen Datenverarbeitungssystemen der Finanzbehörden unabhängig von deren Einsatzort zulässig, sofern diese unter Berücksichtigung des Stands der Technik gegen unbefugten Zugriff gesichert sind. Die Finanzbehörde darf die nach Absatz 6 zur Verfügung gestellten und gespeicherten Daten bis zur Unanfechtbarkeit der die Daten betreffenden Verwaltungsakte auch auf den mobilen Datenverarbeitungssystemen unabhängig von deren Einsatzort aufbewahren.
 
-(+++ § 147: Zur Anwendung vgl. Art. 97 § 19a u. § 19b AOEG 1977 +++)  
+(+++ § 147: Zur Anwendung vgl. Art. 97 §§ 19a, 19b u. 37 AOEG 1977 +++)  
 (+++ § 147: Zur Geltung vgl. § 93c +++)
 
 # § 147a – Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
@@ -6133,11 +6133,13 @@ Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der 
 
 (2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 bis 7 gelten entsprechend.
 
-(+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 u. § 22 AOEG 1977 +++)
+(+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 u. §§ 22 u. 37 AOEG 1977 +++)
 
 # § 147b – Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen
 
 Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit Zustimmung des Bundesrates einheitliche digitale Schnittstellen und Datensatzbeschreibungen für den standardisierten Export von Daten bestimmen, die mit einem Datenverarbeitungssystem erstellt worden und nach § 147 Absatz 1 aufzubewahren sind. In der Rechtsverordnung kann auch eine Pflicht zur Implementierung und Nutzung der jeweiligen einheitlichen digitalen Schnittstelle oder von Datensatzbeschreibungen für den standardisierten Export von Daten bestimmt werden.
+
+(+++ § 147b: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)
 
 # § 148 – Bewilligung von Erleichterungen
 
@@ -6307,6 +6309,8 @@ so ist er verpflichtet, dies unverzüglich anzuzeigen und die erforderliche Rich
 
 (4) Die Anzeige- und Berichtigungspflicht besteht ferner, wenn Prüfungsfeststellungen einer Außenprüfung unanfechtbar in einem Steuerbescheid, einem Feststellungsbescheid nach § 180 Absatz 1 Satz 1 Nummer 2 oder einem Teilabschlussbescheid nach § 180 Absatz 1a umgesetzt worden sind und die den Prüfungsfeststellungen zugrunde liegenden Sachverhalte auch in einer anderen vom oder für den Steuerpflichtigen abgegebenen Erklärung, die nicht Gegenstand der Außenprüfung war, zu einer Änderung der Besteuerungsgrundlagen führt.
 
+(+++ § 153: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)
+
 # § 154 – Kontenwahrheit
 
 (1) Niemand darf auf einen falschen oder erdichteten Namen für sich oder einen Dritten ein Konto errichten oder Buchungen vornehmen lassen, Wertsachen (Geld, Wertpapiere, Kostbarkeiten) in Verwahrung geben oder verpfänden oder sich ein Schließfach geben lassen.
@@ -6389,6 +6393,8 @@ Für bestimmte oder bestimmbare Fallgruppen können die obersten Finanzbehörden
 
 2. soweit die elektronischen Daten nicht nach der Vorgabe der einheitlichen digitalen Schnittstellen des § 41 Absatz 1 Satz 7 des Einkommensteuergesetzes in Verbindung mit § 4 Absatz 2a der Lohnsteuer-Durchführungsverordnung, des § 146a oder des § 147b in Verbindung mit der jeweiligen Rechtsverordnung zur Verfügung gestellt werden.
 
+(+++ § 158: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)
+
 # § 159 – Nachweis der Treuhänderschaft
 
 (1) Wer behauptet, dass er Rechte, die auf seinen Namen lauten, oder Sachen, die er besitzt, nur als Treuhänder, Vertreter eines anderen oder Pfandgläubiger innehabe oder besitze, hat auf Verlangen nachzuweisen, wem die Rechte oder Sachen gehören; anderenfalls sind sie ihm regelmäßig zuzurechnen. Das Recht der Finanzbehörde, den Sachverhalt zu ermitteln, wird dadurch nicht eingeschränkt.
@@ -6423,7 +6429,7 @@ Ergeben sich bei einer vorgeschriebenen oder amtlich durchgeführten Bestandsauf
 
 (5) In den Fällen des § 155 Abs. 2 können die in einem Grundlagenbescheid festzustellenden Besteuerungsgrundlagen geschätzt werden.
 
-(+++ § 162: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
+(+++ § 162: Zur Anwendung vgl. Art. 97 §§ 22 u. 37 AOEG 1977 +++)
 
 # § 163 – Abweichende Festsetzung von Steuern aus Billigkeitsgründen
 
@@ -6590,7 +6596,7 @@ beginnt die Festsetzungsfrist frühestens mit Ablauf des Kalenderjahres, in dem 
 
 (15) Soweit ein Dritter Steuern für Rechnung des Steuerschuldners einzubehalten und abzuführen oder für Rechnung des Steuerschuldners zu entrichten hat, endet die Festsetzungsfrist gegenüber dem Steuerschuldner nicht vor Ablauf der gegenüber dem Steuerentrichtungspflichtigen geltenden Festsetzungsfrist.
 
-(+++ § 171: Zur Anwendung vgl. Art. 97 §§ 1 u. 27 AOEG 1977 +++)  
+(+++ § 171: Zur Anwendung vgl. Art. 97 §§ 1, 27 u. 37 AOEG 1977 +++)  
 (+++ § 171: Zur Geltung vgl. Art. 97 §§ 10 u. 11a AOEG 1977 +++)  
 (+++ § 171 Abs. 8: Zur Anwendung vgl. Art. 97 § 15 Abs. 16 AOEG 1977 +++)  
 (+++ § 171 Abs. 10a: Zur Anwendung vgl. § 45b Abs. 8 Nr. 2 EStG +++)
@@ -6803,7 +6809,7 @@ Das nach § 18 Absatz 1 Nummer 4 zuständige Finanzamt kann durch Bescheid fests
 
 2. Steuerabzugsbeträge und Körperschaftsteuer auf die festgesetzte Steuer anzurechnen sind.
 
-(+++ § 180: Zur Anwendung vgl. Art. 97 §§ 1 u. 10b AOEG 1977, § 56 InvStG 2018 +++)  
+(+++ § 180: Zur Anwendung vgl. Art. 97 §§ 1, 10b u. 37 AOEG 1977, § 56 InvStG 2018 +++)  
 (+++ § 180: Zur Geltung vgl. § 18 +++)
 
 # § 181 – Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht
@@ -6830,7 +6836,7 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (5) Eine gesonderte Feststellung kann auch nach Ablauf der für sie geltenden Feststellungsfrist insoweit erfolgen, als die gesonderte Feststellung für eine Steuerfestsetzung von Bedeutung ist, für die die Festsetzungsfrist im Zeitpunkt der gesonderten Feststellung noch nicht abgelaufen ist; hierbei bleibt § 171 Abs. 10 außer Betracht. Hierauf ist im Feststellungsbescheid hinzuweisen. § 169 Abs. 1 Satz 3 gilt sinngemäß.
 
-(+++ § 181: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+(+++ § 181: Zur Anwendung vgl. Art. 97 §§ 1 u. 37 AOEG 1977 +++)
 
 # § 182 – Wirkungen der gesonderten Feststellung
 
@@ -6977,6 +6983,7 @@ Die Finanzbehörde bestimmt den Umfang der Außenprüfung in einer schriftlich o
 
 (5) Ist Grundlage der Außenprüfung ein Steuerbescheid, der aufgrund einer in § 149 Absatz 3 genannten Steuererklärung erlassen wurde, soll die Prüfungsanordnung bis zum Ablauf des Kalenderjahres erlassen werden, das auf das Kalenderjahr folgt, in dem der Steuerbescheid wirksam geworden ist. Wird die Prüfungsanordnung aus Gründen, die die Finanzbehörde zu vertreten hat, zu einem späteren Zeitpunkt bekanntgegeben, beginnt die Frist nach § 171 Absatz 4 Satz 3 erster Halbsatz mit Ablauf des Kalenderjahres, das auf das Kalenderjahr folgt, in dem der in Satz 1 bezeichnete Steuerbescheid wirksam geworden ist. Erstreckt sich die Außenprüfung zugleich auf mehrere Steuerbescheide, sind die Sätze 1 und 2 mit der Maßgabe anzuwenden, dass der Zeitpunkt des Wirksamwerdens des zuletzt ergangenen Steuerbescheids einheitlich maßgeblich ist.
 
+(+++ § 197: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)  
 (+++ § 197: Zur Geltung vgl. § 203a +++)  
 (+++ § 197: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -6993,6 +7000,7 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (2) Der Steuerpflichtige ist während der Außenprüfung über die festgestellten Sachverhalte und die möglichen steuerlichen Auswirkungen zu unterrichten, wenn dadurch Zweck und Ablauf der Prüfung nicht beeinträchtigt werden. Die Finanzbehörde kann mit dem Steuerpflichtigen vereinbaren, in regelmäßigen Abständen Gespräche über die festgestellten Sachverhalte und die möglichen steuerlichen Auswirkungen zu führen. Sie kann im Einvernehmen mit dem Steuerpflichtigen Rahmenbedingungen für die Mitwirkung nach § 200 festlegen; werden die Rahmenbedingungen vom Steuerpflichtigen erfüllt, unterbleibt ein qualifiziertes Mitwirkungsverlangen nach § 200a.
 
+(+++ § 199: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)  
 (+++ § 199: Zur Geltung vgl. § 203a +++)  
 (+++ § 199: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -7004,7 +7012,7 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (3) Die Außenprüfung findet während der üblichen Geschäfts- oder Arbeitszeit statt. Die Prüfer sind berechtigt, Grundstücke und Betriebsräume zu betreten und zu besichtigen. Bei der Betriebsbesichtigung soll der Betriebsinhaber oder sein Beauftragter hinzugezogen werden.
 
-(+++ § 200: Zur Anwendung vgl. Art. 97 § 19b AOEG 1977 u. § 5 Abs. 2 InvStG u. § 74 Abs. 2 AlkStV +++)  
+(+++ § 200: Zur Anwendung vgl. Art. 97 §§ 19b u. 37 AOEG 1977 u. § 5 Abs. 2 InvStG u. § 74 Abs. 2 AlkStV +++)  
 (+++ § 200: Zur Geltung vgl. § 203a +++)
 
 # § 200a – Qualifiziertes Mitwirkungsverlangen
@@ -7029,12 +7037,15 @@ Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro f
 
 (7) Die Betragsgrenzen nach Absatz 3 Satz 1 Nummer 2 sind mindestens alle drei Jahre und spätestens erstmals zum 1. Januar 2026 zu evaluieren.
 
+(+++ § 200a: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)
+
 # § 201 – Schlussbesprechung
 
 (1) Über das Ergebnis der Außenprüfung ist eine Besprechung abzuhalten (Schlussbesprechung), es sei denn, dass sich nach dem Ergebnis der Außenprüfung keine Änderung der Besteuerungsgrundlagen ergibt oder dass der Steuerpflichtige auf die Besprechung verzichtet. Bei der Schlussbesprechung sind insbesondere strittige Sachverhalte sowie die rechtliche Beurteilung der Prüfungsfeststellungen und ihre steuerlichen Auswirkungen zu erörtern. Eine Schlussbesprechung kann mit Zustimmung des Steuerpflichtigen auch fernmündlich oder nach § 87a Absatz 1a elektronisch durchgeführt werden.
 
 (2) Besteht die Möglichkeit, dass auf Grund der Prüfungsfeststellungen ein Straf- oder Bußgeldverfahren durchgeführt werden muss, soll der Steuerpflichtige darauf hingewiesen werden, dass die straf- oder bußgeldrechtliche Würdigung einem besonderen Verfahren vorbehalten bleibt.
 
+(+++ § 201: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)  
 (+++ § 201: Zur Geltung vgl. § 203a +++)  
 (+++ § 201: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -7046,6 +7057,7 @@ Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro f
 
 (3) Sollen Besteuerungsgrundlagen in einem Teilabschlussbescheid nach § 180 Absatz 1a gesondert festgestellt werden, ergeht vor Erlass des Teilabschlussbescheids ein schriftlicher oder elektronischer Teilprüfungsbericht; Absatz 1 Satz 2 bis 4 und Absatz 2 gelten entsprechend.
 
+(+++ § 202: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)  
 (+++ § 202: Zur Geltung vgl. § 203a +++)  
 (+++ § 202: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -7055,6 +7067,7 @@ Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro f
 
 (2) Der Steuerpflichtige ist vor Abschluss der Prüfung darauf hinzuweisen, inwieweit von den Steuererklärungen oder den Steuerfestsetzungen abgewichen werden soll. Die steuerlich erheblichen Prüfungsfeststellungen sind dem Steuerpflichtigen spätestens mit den Steuerbescheiden schriftlich oder elektronisch mitzuteilen. § 201 Abs. 1 und § 202 Abs. 2 gelten nicht.
 
+(+++ § 203: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)  
 (+++ § 203: Zur Geltung vgl. § 203a +++)  
 (+++ § 203: Zur Anwendung vgl. § 5 Abs. 2 InvStG 2018 +++)
 
@@ -7082,7 +7095,7 @@ Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro f
 
 2. ein besonderes Interesse des Steuerpflichtigen an einer Erteilung vor dem Abschluss der Außenprüfung besteht und dies glaubhaft gemacht wird.
 
-(+++ § 204: Zur Anwendung vgl. Art. 97 § 12 AOEG 1977 +++)
+(+++ § 204: Zur Anwendung vgl. Art. 97 §§ 12 u. 37 AOEG 1977 +++)
 
 # § 205 – Form der verbindlichen Zusage
 
@@ -7177,6 +7190,8 @@ Die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden und
 (2) Die Pflichten nach Absatz 1 gelten auch dann, wenn bei einer gesetzlich vorgeschriebenen Nachversteuerung verbrauchsteuerpflichtiger Waren in einem der Steueraufsicht unterliegenden Betrieb oder Unternehmen festgestellt werden soll, an welche Empfänger und in welcher Menge nachsteuerpflichtige Waren geliefert worden sind.
 
 (3) Vorkehrungen, die die Ausübung der Steueraufsicht hindern oder erschweren, sind unzulässig.
+
+(+++ § 211: Zur Anwendung vgl. Art. 97 § 37 AOEG 1977 +++)
 
 # § 212 – Durchführungsvorschriften
 
@@ -8876,7 +8891,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1 und 1d bis 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
-(+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32 u. 33 AOEG 1977 +++)
+(+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 AOEG 1977 +++)
 
 # § 380 – Gefährdung der Abzugsteuern
 

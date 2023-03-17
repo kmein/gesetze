@@ -159,6 +159,8 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (5) Die Hilfs- und Nebenrechnung einer Betriebsstätte eines Unternehmens, das weder nach inländischem noch nach ausländischem Recht buchführungspflichtig ist und das auch tatsächlich keine Bücher führt, ist entsprechend einer Einnahmenüberschussrechnung im Sinne des § 4 Absatz 3 des Einkommensteuergesetzes zu erstellen. Zum Zeitpunkt der Beendigung der Betriebsstätte ist eine Hilfs- und Nebenrechnung zu erstellen, die eine Aufstellung der Vermögenswerte enthält.
 
+§ 3 Abs. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtgkeit wurde das Wort "Abgabenordung" durch "Abgabenordnung" ersetzt
+
 # § 4 – Zuordnung von Personalfunktionen
 
 (1) Eine Personalfunktion ist der Betriebsstätte zuzuordnen, in der die Personalfunktion ausgeübt wird. Eine Personalfunktion ist einer Betriebsstätte jedoch nicht zuzuordnen, wenn die Personalfunktion
