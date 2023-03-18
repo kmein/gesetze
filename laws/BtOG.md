@@ -121,6 +121,8 @@ Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt, die si
 
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Gebühren und Auslagen für die Beglaubigung abweichend von Absatz 4 zu regeln. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
+(+++ § 7: Zur Anwendung vgl. § 34 +++)
+
 # § 8 – Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung
 
 (1) Wenn im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach § 1814 Absatz 1 des Bürgerlichen Gesetzbuchs bestehen, soll die Behörde dem Betroffenen zur Vermeidung der Bestellung eines Betreuers ein Beratungs- und Unterstützungsangebot unterbreiten. Die Beratung und Unterstützung umfasst auch die Pflicht, andere Hilfen nach § 5 Absatz 1, bei denen kein Betreuer bestellt wird, mit Zustimmung des Betroffenen zu vermitteln. Insbesondere ist ein Kontakt zwischen dem Betroffenen und dem Beratungs- und Unterstützungsangebot des sozialen Hilfesystems herzustellen. Bei antragsabhängigen Leistungen ist der Betroffene dabei zu unterstützen, die notwendigen Anträge selbst zu stellen. Die Behörde arbeitet zur Vermittlung geeigneter Hilfen zur Betreuungsvermeidung mit den zuständigen Sozialleistungsträgern zusammen.

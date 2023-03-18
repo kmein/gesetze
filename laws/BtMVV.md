@@ -684,6 +684,6 @@ Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des Betäubungsmittelgesetzes han
 
 # § 18 – Übergangsvorschrift
 
-(1) Die Bundesärztekammer hat die Richtlinie nach § 5 Absatz 12 Satz 1 bis 3 und Absatz 14 Satz 3 dem Bundesministerium für Gesundheit spätestens bis zum 31. August 2017 zur Genehmigung vorzulegen. Das Bundesministerium für Gesundheit macht die genehmigte Richtlinie unverzüglich im Bundesanzeiger bekannt.
+(1) Abweichend von § 5 Absatz 14 Satz 2 in der bis einschließlich 7. April 2023 geltenden Fassung hat die Bundesärztekammer Änderungen der nach § 5 Absatz 12 Satz 1 bis 3, Absatz 13 und 14 Satz 1 in der bis einschließlich 7. April 2023 geltenden Fassung zu erstellenden Richtlinie, die auf Grund von Änderungen dieser Verordnung durch die Verordnung zur Änderung der Betäubungsmittel-Verschreibungsverordnung und der Tierärztegebührenordnung vom 15. März 2023 (BGBl. 2023 I Nr. 70) erforderlich werden, dem Bundesministerium für Gesundheit in einer Neufassung der Richtlinie spätestens bis zum 20. März 2023 zur Genehmigung vorzulegen. Abweichend von § 5 Absatz 14 Satz 4 in der bis einschließlich 7. April 2023 geltenden Fassung macht das Bundesministerium für Gesundheit die genehmigten, in Satz 1 bezeichneten Änderungen der Richtlinie durch Bekanntmachung einer Neufassung der Richtlinie im Bundesanzeiger bekannt.
 
-(2) Bis zur Bekanntmachung der Richtlinie gemäß Absatz 1 Satz 2 findet die Verordnung in ihrer bis zum 29. Mai 2017 geltenden Fassung weiter Anwendung.
+(2) Erfolgt die Bekanntmachung der Neufassung der Richtlinie gemäß Absatz 1 Satz 2 nach dem 7. April 2023, so ist diese Verordnung bis zum Zeitpunkt dieser Bekanntmachung der Neufassung in der bis einschließlich 7. April 2023 geltenden Fassung anzuwenden.

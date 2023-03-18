@@ -159,4 +159,4 @@ Der Bundesrat hat zugestimmt.
 
  
 
-Tabelle Nr 717 Spalte 2 Kursivdruck: Ausgrund offensichtlicher Unrichtigkeit wird das Wort "neurogische" durch das Wort "neurologische" ersetzt.
+Tabelle Nr. 717 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "neurogische" durch das Wort "neurologische" ersetzt
