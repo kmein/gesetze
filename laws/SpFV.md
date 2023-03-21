@@ -375,31 +375,29 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 (3) Über die Entziehung der Fahrerlaubnis nach § 13 oder die Anordnung des Ruhens der Fahrerlaubnis nach § 14 entscheidet die Generaldirektion Wasserstraßen und Schifffahrt. Die Entscheidung ist, sofern der Inhaber eines Befähigungsnachweises betroffen ist, unter Angabe der Gründe der Stelle mitzuteilen, die die Fahrerlaubnis erteilt hat.
 
-# § 17 – Verzeichnis
+# § 17 – Datenverarbeitung
 
-(1) Die beliehenen Verbände führen ein gemeinsames Verzeichnis der Inhaber einer Fahrerlaubnis. Das Verzeichnis enthält folgende Angaben:
+(1) Die beliehenen Verbände sorgen dafür, dass die bei der Generaldirektion Wasserstraßen und Schifffahrt geführte Datei über die Inhaber einer von ihnen ausgestellten Fahrerlaubnis im Sinne der §§ 3 und 4 laufend auf dem aktuellen Stand gehalten wird. Dazu dürfen folgende Daten erhoben, gespeichert und verwendet werden:
 
 1. Vor- und Nachname des Inhabers,
 
 2. Anschrift des Inhabers,
 
-3. Geschlecht des Inhabers,
+3. Geburtsdatum, Geburtsort des Inhabers,
 
-4. Geburtsdatum, Geburtsort und Nationalität des Inhabers,
+4. Datum der Erteilung der Fahrerlaubnis,
 
-5. Datum der Erteilung der Fahrerlaubnis,
+5. Ausstellungsdatum, ausstellende Stelle und Nummer des erteilten Sportbootführerscheins,
 
-6. Ausstellungsdatum, ausstellende Stelle und Nummer des erteilten Sportbootführerscheins,
+6. nach § 6 Absatz 4 erteilte Auflagen,
 
-7. nach § 6 Absatz 4 erteilte Auflagen,
+7. im Fall der Verlustmeldung eines Sportbootführerscheins das Datum der Erteilung einer Ersatzausfertigung,
 
-8. im Fall der Verlustmeldung eines Sportbootführerscheins das Datum der Erteilung einer Ersatzausfertigung,
+8. im Fall der Entziehung oder des Ruhens der Fahrerlaubnis den Grund sowie die Frist, innerhalb derer eine neue Fahrerlaubnis nicht erteilt werden darf,
 
-9. im Fall der Entziehung der Fahrerlaubnis den Grund sowie die Frist, innerhalb derer eine neue Fahrerlaubnis nicht erteilt werden darf.
+9. im Fall der Sicherstellung das Datum der Sicherstellung und die verwahrende Behörde.
 
-(2) Auskünfte aus dem Verzeichnis dürfen nur an Gerichte, Seeämter, Staatsanwaltschaften, die Generaldirektion Wasserstraßen und Schifffahrt und Polizeibehörden erteilt werden, soweit die Erteilung der Auskünfte für deren jeweilige Aufgabenerfüllung erforderlich ist.
-
-(3) Es ist sicherzustellen, dass die beliehenen Verbände jederzeit Zugriff auf das Verzeichnis haben.
+(2) Das Bundesamt für Seeschifffahrt und Hydrographie kann zur Überprüfung der jährlichen Anzahl der ausgestellten Sportbootführerscheine auf die bei der Generaldirektion Wasserstraßen und Schifffahrt geführte Datei insoweit einen lesenden Zugriff erhalten.
 
 # § 18 – Ordnungswidrigkeiten
 

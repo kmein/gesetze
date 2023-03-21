@@ -159,7 +159,7 @@ Als Besatzungsmitglied darf nur tätig sein, wer für die von ihm zu verrichtend
 
 (2) Der zugelassene Arzt hat vor jeder Seediensttauglichkeitsuntersuchung die Identität der zu untersuchenden Person festzustellen und Einblick in die für die Person erfassten Daten des Seediensttauglichkeitsverzeichnisses nach Maßgabe des § 19 Absatz 6 zu nehmen. Er darf eine Untersuchung auf Seediensttauglichkeit nur durchführen und ein Seediensttauglichkeitszeugnis nur erteilen, wenn im Seediensttauglichkeitsverzeichnis kein Sperrvermerk eingetragen ist.
 
-(3) Der zugelassene Arzt darf die Seediensttauglichkeit nur bescheinigen, wenn er auf Grund einer medizinischen Untersuchung die Seediensttauglichkeit festgestellt hat. Das Seediensttauglichkeitszeugnis kann auch auf Grund einer Untersuchung eines Arztes des seeärztlichen Dienstes der Berufsgenossenschaft durch diese ausgestellt werden, soweit dies in diesem Gesetz oder auf Grund dieses Gesetzes bestimmt ist.
+(3) Der zugelassene Arzt darf die Seediensttauglichkeit nur bescheinigen, wenn er auf Grund seiner medizinischen Untersuchung die Seediensttauglichkeit festgestellt hat. Das Seediensttauglichkeitszeugnis kann auch auf Grund einer Untersuchung eines Arztes des seeärztlichen Dienstes der Berufsgenossenschaft durch diese ausgestellt werden, soweit dies in diesem Gesetz oder auf Grund dieses Gesetzes bestimmt ist.
 
 (4) Jede Untersuchung auf Seediensttauglichkeit sowie jede Ausstellung eines Seediensttauglichkeitszeugnisses ist der Berufgenossenschaft durch den zugelassenen Arzt unverzüglich nach Abschluss der Untersuchung zum Zweck der Einstellung in das Seediensttauglichkeitsverzeichnis nach Maßgabe des Satzes 2 elektronisch zu melden. In der Meldung sind die in § 19 Absatz 3 Nummer 1 bis 7 und 9 bis 16 bezeichneten Daten anzugeben.
 
@@ -203,7 +203,7 @@ Die Berufsgenossenschaft ist befugt, Untersuchungsergebnisse über diese Person 
 
 gegenüber einer zu untersuchenden Person anordnen, dass eine Seediensttauglichkeitsuntersuchung ausschließlich durch Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft durchgeführt und das Seediensttauglichkeitszeugnis durch diese erteilt wird. Die Anordnung ist zusätzlich als Sperrvermerk in das Seediensttauglichkeitsverzeichnis einzutragen.
 
-(2) Wenn die Berufsgenossenschaft Grund zu der Annahme hat, dass ein Besatzungsmitglied die Anforderungen an die Seediensttauglichkeit nicht mehr erfüllt, kann sie anordnen, dass sich das Besatzungsmitglied binnen einer bestimmten Frist einer Untersuchung bei einem Arzt des seeärztlichen Dienstes der Berufsgenossenschaft zu unterziehen hat. Die Berufsgenossenschaft kann ergänzend zu der Untersuchung nach Satz 1 ein Gutachten einer Fachärztin oder eines Facharztes heranziehen. Sie ist befugt, Untersuchungsergebnisse über dieses Besatzungsmitglied im Einzelfall von dem Arzt, der die vorhergegangene Untersuchung durchgeführt hat, anzufordern. Ein Grund im Sinne des Satzes 1 ist im Falle des § 17 Absatz 2 stets gegeben.
+(2) Wenn die Berufsgenossenschaft Grund zu der Annahme hat, dass ein Besatzungsmitglied die Anforderungen an die Seediensttauglichkeit nicht mehr erfüllt, kann sie anordnen, dass sich das Besatzungsmitglied binnen einer bestimmten Frist einer Untersuchung bei einem Arzt des seeärztlichen Dienstes der Berufsgenossenschaft zu unterziehen hat. In der Anordnung nach Satz 1 kann die Berufsgenossenschaft auch anordnen, dass die Untersuchung abweichend von Satz 1 bei einem vom seeärztlichen Dienst der Berufsgenossenschaft bestimmten Facharzt zu erfolgen hat. Der Facharzt ist verpflichtet, das Gutachten unverzüglich dem seeärztlichen Dienst zu übermitteln. Die Berufsgenossenschaft ist zudem befugt, Untersuchungsergebnisse über dieses Besatzungsmitglied im Einzelfall von dem Arzt, der die vorausgegangene Untersuchung durchgeführt hat, anzufordern.
 
 (3) Ergibt die angeordnete Untersuchung nach Absatz 2 Satz 1, dass das Besatzungsmitglied nicht mehr seediensttauglich ist, oder wird die in Absatz 2 Satz 1 bezeichnete Frist nicht eingehalten, so erklärt die Berufsgenossenschaft das Seediensttauglichkeitszeugnis für ungültig. Bestehen im Falle des Absatzes 2 Satz 1 erhebliche Zweifel an der Seediensttauglichkeit, kann die Berufsgenossenschaft das Seediensttauglichkeitszeugnis schon mit der Anordnung nach Absatz 2 Satz 1 für vorläufig ungültig erklären. Über Erklärungen nach Satz 1 oder 2 sind der Reeder und der Kapitän unverzüglich durch die Berufsgenossenschaft zu unterrichten. Ein für ungültig oder vorläufig ungültig erklärtes Seediensttauglichkeitszeugnis ist von der Berufsgenossenschaft einzuziehen. Während der Dauer der Beschäftigung auf einem Schiff hat der Kapitän das eingezogene Seediensttauglichkeitszeugnis auf Verlangen der Berufsgenossenschaft zu übermitteln, ansonsten das Besatzungsmitglied. Mit Eintritt der Unanfechtbarkeit der Entscheidung über die Ungültigkeit des Seediensttauglichkeitszeugnisses ist dieses zu vernichten.
 
@@ -243,21 +243,19 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn die Ärztin oder der Arzt nic
 
 # § 17 – Überwachung der Ärzte
 
-(1) Ein zugelassener Arzt unterliegt der Überwachung durch die Berufsgenossenschaft. Über die Befugnisse des § 143 hinaus können die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft
+(1) Ein zugelassener Arzt unterliegt der Überwachung durch die Berufsgenossenschaft. Über die Befugnisse des § 143 hinaus können die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft und deren berufsmäßig tätige Gehilfen
 
-1. verlangen, dass der Berufsgenossenschaft medizinische Befunde und die auf diesen beruhenden Seediensttauglichkeitszeugnisse in einer Weise zur Verfügung gestellt werden, dass eine Zuordnung zu der untersuchten Person nicht möglich ist,
+1. verlangen, dass der Berufsgenossenschaft medizinische Befunde und die auf diesen beruhenden Seediensttauglichkeitszeugnisse zur Verfügung gestellt werden,
 
 2. Auskunft über die durchgeführten Untersuchungen und ausgestellten Seediensttauglichkeitszeugnisse verlangen,
 
-3. anordnen, bei Untersuchungen gegenwärtig zu sein, soweit die zu untersuchende Person vor der Untersuchung eingewilligt hat.
+3. anordnen, bei Untersuchungen anwesend zu sein, soweit die zu untersuchende Person vor der Untersuchung nach Artikel 4 Nummer 11 in Verbindung mit den Artikeln 7 und 9 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) eingewilligt hat.
 
-Die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft sind bei Wahrnehmung ihrer Befugnisse nach Satz 2 im selben Maße wie der überwachte Arzt zur Verschwiegenheit über die zur Kenntnis gelangten Tatsachen und sonstigen Informationen verpflichtet. Soweit die in Satz 2 Nummer 2 bezeichneten Daten elektronisch gespeichert sind, sind diese auf Verlangen der Berufsgenossenschaft auszudrucken. Die Berufsgenossenschaft hat alle Unterlagen, die personenbezogene, insbesondere medizinische Daten enthalten und ihr entgegen Satz 2 Nummer 1 zur Kenntnis gelangt sind, an den zugelassenen Arzt zurückzugeben oder zu vernichten. Bereits bei ihr gespeicherte Daten sind zu löschen.
+(2) Die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft und deren berufsmäßig tätige Gehilfen sind bei Wahrnehmung ihrer Befugnisse nach Absatz 1 Satz 2 in demselben Maße wie der überwachte Arzt zur Verschwiegenheit über die zur Kenntnis gelangten Tatsachen und sonstigen Informationen verpflichtet. Soweit die in Absatz 1 Satz 2 Nummer 1 und 2 bezeichneten Daten elektronisch gespeichert sind, sind diese auf Verlangen der Berufsgenossenschaft vom zugelassenen Arzt oder von dessen berufsmäßig tätigen Gehilfen zu dem in Absatz 1 Satz 1 genannten Zweck auszudrucken und der Berufsgenossenschaft anschließend zu übersenden. Die Berufsgenossenschaft hat alle medizinischen Befunde, die sie nach Absatz 1 Satz 2 vom zugelassenen Arzt im Original oder in Kopie angefordert hat, einschließlich der nach Satz 2 übermittelten Ausdrucke, nach dem Abschluss der Überwachung nach Absatz 1 Satz 1 an den zugelassenen Arzt unverzüglich zurückzugeben oder zu vernichten. Bereits bei ihr in diesem Zusammenhang gespeicherte Daten sind von der Berufsgenossenschaft unverzüglich nach Rückgabe oder Vernichtung nach Satz 3 zu löschen.
 
-(2) Stellt die Berufsgenossenschaft im Rahmen einer Überprüfung nach Absatz 1 fest, dass einem offensichtlich untauglichen Bewerber ein Seediensttauglichkeitszeugnis erteilt worden ist und es zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer sonst unmittelbar drohenden Gefahr für die öffentliche Sicherheit erforderlich ist, hat der zugelassene Arzt der Berufgenossenschaft auf Verlangen im Einzelfall die Zuordnung zu der Person des Bewerbers zu ermöglichen, um die erforderlichen Maßnahmen zur Gefahrenabwehr gegenüber dem Inhaber dieses Seediensttauglichkeitszeugnisses treffen zu können.
+(3) Der zugelassene Arzt hat die Maßnahmen nach Absatz 1 Satz 2 und Absatz 2 Satz 2 zu dulden.
 
-(3) Der zugelassene Arzt hat die Maßnahmen nach Absatz 1 Satz 2 und Absatz 2 zu dulden.
-
-(4) Soweit es im Rahmen der Zulassung von Ärzten erforderlich ist, dürfen die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft Untersuchungen auf Seediensttauglichkeit durchführen und Seediensttauglichkeitszeugnisse ausstellen. Im Rahmen dieser Untersuchungen sind die zu schulenden Ärzte befugt, bei den Untersuchungen gegenwärtig zu sein, soweit die zu untersuchende Person vor der Untersuchung eingewilligt hat. Absatz 1 Satz 3 gilt für die zu schulenden Ärzte entsprechend.
+(4) Soweit es im Rahmen der Zulassung von Ärzten erforderlich ist, dürfen die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft Untersuchungen auf Seediensttauglichkeit durchführen und Seediensttauglichkeitszeugnisse ausstellen. Im Rahmen dieser Untersuchungen sind die zu schulenden Ärzte befugt, bei den Untersuchungen anwesend zu sein, soweit die zu untersuchende Person vor der Untersuchung nach Artikel 4 Nummer 11 in Verbindung mit den Artikeln 7 und 9 Absatz 2 Buchstabe a der Datenschutz-Grundverordnung eingewilligt hat. Absatz 2 Satz 1 gilt für die zu schulenden Ärzte entsprechend.
 
 # § 18 – Übernahme der Untersuchungskosten
 
@@ -335,7 +333,7 @@ Die Berufsgenossenschaft kann die von ihr nach Satz 1 übernommenen Kosten nach 
 
 (6) Zum Zweck des Absatzes 2 Nummer 1 und 4 dürfen Daten nach Absatz 3 Nummer 1, 2, 5, 15 und 17 an die zugelassenen Ärzte übermittelt und von ihnen verwendet werden, soweit dies zur Erfüllung der ihnen obliegenden Aufgaben erforderlich ist. Bei der ersten Seediensttauglichkeitsuntersuchung eines Besatzungsmitglieds darf ein zugelassener Arzt Daten nach Absatz 3 Nummer 1 bis 6 und 10 bis 16 erheben. Bei einer Folgeuntersuchung darf ein zugelassener Arzt Daten nach Absatz 3 Nummer 6, 10 und 12 bis 16 speichern sowie Daten nach Absatz 3 Nummer 1, 4, 5 und 6 verändern.
 
-(7) Zum Zweck des Absatzes 2 Nummer 5 dürfen Daten nach Absatz 3 Nummer 1, 2, 13 bis 15 an das Bundesamt für Seeschifffahrt und Hydrographie übermittelt und von ihm verwendet werden, soweit dies zur Erfüllung der ihm obliegenden Aufgaben erforderlich ist.
+(7) Zum Zweck des Absatzes 2 Nummer 5 dürfen Daten nach Absatz 3 Nummer 1, 2, 4, 10, 13 bis 15 an das Bundesamt für Seeschifffahrt und Hydrographie übermittelt und von ihm verwendet werden, soweit dies zur Erfüllung der ihm obliegenden Aufgaben erforderlich ist.
 
 (8) Zum Zweck des Absatzes 2 Nummer 5 dürfen auf Antrag Daten nach Absatz 3 Nummer 1, 2, 14 und 15 an Unternehmen, zuständige Stellen anderer Staaten oder internationale oder europäische Organisationen übermittelt und von ihnen verwendet werden, soweit dies zur Erfüllung der ihnen obliegenden Aufgaben erforderlich ist. Werden Daten an eine ausländische öffentliche Stelle oder an eine internationale oder europäische Organisation übermittelt, ist der Empfänger darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie übermittelt werden. Eine Übermittlung unterbleibt, wenn dadurch schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, insbesondere wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist.
 
@@ -347,7 +345,7 @@ Die Berufsgenossenschaft kann die von ihr nach Satz 1 übernommenen Kosten nach 
 
 # § 20 – Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. die näheren Anforderungen an die Seediensttauglichkeit, einschließlich der erforderlichen Nachuntersuchungen durch die Berufsgenossenschaft,
 
@@ -447,7 +445,7 @@ Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den seeverkehr
 
 # § 27 – Rechtsverordnungen
 
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren der Antragstellung und zur Erteilung der Bescheinigung nach § 26 Absatz 1 zu regeln.
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren der Antragstellung und zur Erteilung der Bescheinigung nach § 26 Absatz 1 zu regeln.
 
 # § 28 – Heuervertrag
 
@@ -549,7 +547,7 @@ Das Besatzungsmitglied hat die Dienste zu verrichten, zu denen es im Rahmen des 
 
 2. der Name und die Anschrift des Reeders; im Falle eines anderen Arbeitgebers der Name und die Anschrift des Arbeitgebers und des Reeders,
 
-3. der Name des Schiffes, der Schiffstyp, die Identifikationsnummer, die Vermessung, die Maschinenleistung und das Fahrtgebiet,
+3. der Name des Schiffes, der Schiffstyp, die IMO-Schiffsidentifikationsnummer, das Unterscheidungssignal, die Vermessung, die Antriebsleistung, das Fahrtgebiet und die seegebietsbezogene funktechnische Ausrüstung des Schiffes,
 
 4. der Zeitpunkt des Beginns und des Endes des Dienstes an Bord,
 
@@ -821,7 +819,7 @@ Im Falle des Satzes 1 Nummer 5 sind zusätzlich nachstehende Anforderungen einzu
 
 # § 55 – Rechtsverordnungen
 
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. die näheren Anforderungen zum Führen der Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise nach § 50 Absatz 1 und 2 zu bestimmen,
 
@@ -1291,7 +1289,7 @@ Für die Berufsbildung in Berufen nach § 92 ist die Berufsbildungsstelle Seesch
 
 # § 92 – Rechtsverordnungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung ohne Zustimmung des Bundesrates nach Anhörung der für Berufsbildungsfragen zuständigen obersten Landesbehörden der Küstenländer Ausbildungsberufe in der Seeschifffahrt staatlich anzuerkennen und Bestimmungen zu erlassen über
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung ohne Zustimmung des Bundesrates nach Anhörung der für Berufsbildungsfragen zuständigen obersten Landesbehörden der Küstenländer Ausbildungsberufe in der Seeschifffahrt staatlich anzuerkennen und Bestimmungen zu erlassen über
 
 1. die Bezeichnung des anzuerkennenden Ausbildungsberufes,
 
@@ -1339,7 +1337,7 @@ Mitreisende Partner sind verpflichtet, sich ausreichend gegen Unfall und Krankhe
 
 # § 96 – Rechtsverordnungen
 
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. die näheren Anforderungen an die Wohn- und Aufenthaltsräume, sanitären Anlagen, Wascheinrichtungen und Küchenräume sowie Freizeiteinrichtungen an Bord der Schiffe, einschließlich der zugehörigen Einrichtungen und Versorgungsanlagen, und deren Einsatzbereitschaft zu bestimmen,
 
@@ -1483,7 +1481,7 @@ Weigert sich ein Besatzungsmitglied ohne berechtigten Grund, die angebotene Heil
 
 (1) Der Reeder hat dafür zu sorgen, dass das Schiff mit den für eine ausreichende medizinische Betreuung der Personen an Bord erforderlichen Räumlichkeiten (medizinische Räumlichkeiten) versehen ist. Zu den medizinischen Räumlichkeiten gehören
 
-1. die Kranken-, Behandlungs- und Operationsräume,
+1. die Kranken-, Behandlungs- und Eingriffsräume,
 
 2. die Einrichtung dieser Räume, insbesondere der Apothekenschrank, sanitäre Einrichtungen und Kommunikationseinrichtungen sowie Beleuchtung und Belüftung.
 
@@ -1501,7 +1499,7 @@ Die medizinische Ausstattung muss hinsichtlich ihres Inhaltes, ihrer Aufbewahrun
 
 # § 108 – Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur errichtet einen Ausschuss für medizinische Ausstattung in der Seeschifffahrt (Ausschuss). Dem Ausschuss obliegt es,
+(1) Das Bundesministerium für Digitales und Verkehr errichtet einen Ausschuss für medizinische Ausstattung in der Seeschifffahrt (Ausschuss). Dem Ausschuss obliegt es,
 
 1. Entwicklungen im Bereich der medizinischen Ausstattung fortlaufend zu verfolgen,
 
@@ -1511,7 +1509,7 @@ Die medizinische Ausstattung muss hinsichtlich ihres Inhaltes, ihrer Aufbewahrun
 
 Bei der Feststellung des Standes der medizinischen Erkenntnisse sind insbesondere der jeweilige Schiffstyp, die Anzahl der Personen an Bord, der Einsatzzweck, das Fahrtgebiet, die Art, die Dauer und das Ziel der Reisen sowie einschlägige national und international empfohlene ärztliche Normen zu berücksichtigen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur hat den vom Ausschuss festgestellten Stand der medizinischen Erkenntnisse im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die Berufsgenossenschaft kann eine Bekanntmachung nach Satz 1 nachrichtlich auf ihrer Internetseite veröffentlichen.
+(2) Das Bundesministerium für Digitales und Verkehr hat den vom Ausschuss festgestellten Stand der medizinischen Erkenntnisse im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die Berufsgenossenschaft kann eine Bekanntmachung nach Satz 1 nachrichtlich auf ihrer Internetseite veröffentlichen.
 
 (3) Der Ausschuss besteht aus einer Vertreterin oder einem Vertreter
 
@@ -1543,11 +1541,11 @@ Ferner gehören dem Ausschuss mit beratender Stimme an:
 
 3. eine Vertreterin oder ein Vertreter der Deutschen Gesellschaft für Maritime Medizin, die oder der nicht zugleich den in Satz 1 genannten Einrichtungen angehört.
 
-Den Vorsitz führt eine Vertreterin oder ein Vertreter des Bundesministeriums für Verkehr und digitale Infrastruktur, die oder der kein Stimmrecht hat. Die in Satz 1 Nummer 1 bis 7 bezeichneten Personen müssen hinsichtlich der medizinischen Behandlung und Versorgung von Personen an Bord oder hinsichtlich der Zulassung und Registrierung von Arzneimitteln, Betäubungsmitteln und Medizinprodukten fachkundig sein; die in Satz 1 Nummer 8 bis 10 bezeichneten Personen müssen Inhaber eines Befähigungszeugnisses für den nautischen Dienst auf Kauffahrteischiffen sein oder über gleichwertige Seefahrterfahrung einschließlich praktischer Kenntnisse in der medizinischen Betreuung an Bord verfügen.
+Den Vorsitz führt eine Vertreterin oder ein Vertreter des Bundesministeriums für Digitales und Verkehr, die oder der kein Stimmrecht hat. Die in Satz 1 Nummer 1 bis 7 bezeichneten Personen müssen hinsichtlich der medizinischen Behandlung und Versorgung von Personen an Bord oder hinsichtlich der Zulassung und Registrierung von Arzneimitteln, Betäubungsmitteln und Medizinprodukten fachkundig sein; die in Satz 1 Nummer 8 bis 10 bezeichneten Personen müssen Inhaber eines Befähigungszeugnisses für den nautischen Dienst auf Kauffahrteischiffen sein oder über gleichwertige Seefahrterfahrung einschließlich praktischer Kenntnisse in der medizinischen Betreuung an Bord verfügen.
 
 (4) Der Ausschuss ist bei der Wahrnehmung seiner Aufgaben unabhängig. Der Ausschuss tagt nicht öffentlich. Über die Beratungen ist, mit Ausnahme der gefassten Beschlüsse, gegenüber Dritten Stillschweigen zu wahren. Der Ausschuss ist beschlussfähig, wenn mehr als die Hälfte der stimmberechtigten Mitglieder anwesend sind; er fasst seine Beschlüsse mit der Mehrheit von zwei Dritteln der anwesenden stimmberechtigten Mitglieder. Außerhalb von Sitzungen können Beschlüsse im schriftlichen Verfahren gefasst werden, wenn kein stimmberechtigtes Mitglied widerspricht; in diesem Falle bedarf ein Beschluss der Mehrheit von zwei Dritteln aller stimmberechtigten Mitglieder.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur beruft die Mitglieder des Ausschusses auf Vorschlag der entsendungsberechtigten Behörden und sonstigen Einrichtungen für die Dauer von drei Jahren. Für jedes Mitglied ist ein Vertreter zu berufen. Wiederberufung ist zulässig. Das Bundesministerium für Verkehr und digitale Infrastruktur kann einen Vorschlag nur zurückweisen, wenn die vorgeschlagene Person die notwendige Fachkunde nicht besitzt. Das Bundesministerium für Verkehr und digitale Infrastruktur hat ferner, soweit im Einzelfall ein besonderer fachlicher Bedarf besteht, je eine Vertreterin oder einen Vertreter
+(5) Das Bundesministerium für Digitales und Verkehr beruft die Mitglieder des Ausschusses auf Vorschlag der entsendungsberechtigten Behörden und sonstigen Einrichtungen für die Dauer von drei Jahren. Für jedes Mitglied ist ein Vertreter zu berufen. Wiederberufung ist zulässig. Das Bundesministerium für Digitales und Verkehr kann einen Vorschlag nur zurückweisen, wenn die vorgeschlagene Person die notwendige Fachkunde nicht besitzt. Das Bundesministerium für Digitales und Verkehr hat ferner, soweit im Einzelfall ein besonderer fachlicher Bedarf besteht, je eine Vertreterin oder einen Vertreter
 
 1. des Bernhard-Nocht-Instituts für Tropenmedizin im Hinblick auf tropenmedizinische Belange,
 
@@ -1557,7 +1555,7 @@ Den Vorsitz führt eine Vertreterin oder ein Vertreter des Bundesministeriums f�
 
 4. der Bundesanstalt für Landwirtschaft und Ernährung im Hinblick auf besondere Belange der Seefischerei
 
-zu beratenden Mitgliedern des Ausschusses auf Vorschlag der genannten Einrichtungen zu berufen; die Sätze 2 und 3 gelten entsprechend. Darüber hinaus kann das Bundesministerium für Verkehr und digitale Infrastruktur bei sonstigem Bedarf weitere Personen benennen, die beratend an Sitzungen des Ausschusses teilnehmen können.
+zu beratenden Mitgliedern des Ausschusses auf Vorschlag der genannten Einrichtungen zu berufen; die Sätze 2 und 3 gelten entsprechend. Darüber hinaus kann das Bundesministerium für Digitales und Verkehr bei sonstigem Bedarf weitere Personen benennen, die beratend an Sitzungen des Ausschusses teilnehmen können.
 
 (6) Die Geschäftsführung des Ausschusses obliegt der Berufsgenossenschaft; sie nimmt an den Sitzungen teil.
 
@@ -1597,7 +1595,7 @@ hinsichtlich der medizinischen Räumlichkeiten und der medizinischen Ausstattung
 
 (1) Die Berufsgenossenschaft kann auf Antrag im Einzelfall Ausnahmen von den Anforderungen nach diesem Unterabschnitt und den auf Grund der Vorschriften dieses Unterabschnitts erlassenen Rechtsverordnungen bewilligen, soweit dies mit dem Stand der medizinischen Erkenntnisse vereinbar ist und die medizinische Behandlung und Versorgung der Personen an Bord nicht gefährdet wird.
 
-(2) Die Berufsgenossenschaft kann mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur gegenüber den Reedern anordnen, dass abweichend von dem im Verkehrsblatt oder im Bundesanzeiger veröffentlichten Stand der medizinischen Erkenntnisse die medizinische Ausstattung bestimmten Anforderungen zu genügen hat, soweit dies erforderlich ist, um neueren Erkenntnissen, die im Stand der medizinischen Erkenntnisse noch nicht berücksichtigt sind, Rechnung zu tragen. Eine Anordnung nach Satz 1 gilt bis zur Veröffentlichung eines neueren Standes der medizinischen Erkenntnisse, längstens für zwei Jahre. Die Anordnung ist im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben; sie kann zusätzlich auf der Internetseite der Berufsgenossenschaft veröffentlicht werden.
+(2) Die Berufsgenossenschaft kann mit Zustimmung des Bundesministeriums für Digitales und Verkehr gegenüber den Reedern anordnen, dass abweichend von dem im Verkehrsblatt oder im Bundesanzeiger veröffentlichten Stand der medizinischen Erkenntnisse die medizinische Ausstattung bestimmten Anforderungen zu genügen hat, soweit dies erforderlich ist, um neueren Erkenntnissen, die im Stand der medizinischen Erkenntnisse noch nicht berücksichtigt sind, Rechnung zu tragen. Eine Anordnung nach Satz 1 gilt bis zur Veröffentlichung eines neueren Standes der medizinischen Erkenntnisse, längstens für zwei Jahre. Die Anordnung ist im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben; sie kann zusätzlich auf der Internetseite der Berufsgenossenschaft veröffentlicht werden.
 
 # § 112 – Funk- und satellitenfunkärztliche Betreuung
 
@@ -1605,7 +1603,7 @@ Der vom Bund nach § 1 Nummer 7a des Seeaufgabengesetzes eingerichtete funk- ode
 
 # § 113 – Rechtsverordnungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Sicherstellung einer ausreichenden medizinischen Behandlung und Versorgung an Bord eines Schiffes durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur Sicherstellung einer ausreichenden medizinischen Behandlung und Versorgung an Bord eines Schiffes durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. die Geschäftsordnung für den Ausschuss für medizinische Ausstattung in der Seeschifffahrt zu regeln; dabei kann die Bildung von vorbereitenden Unterausschüssen, deren Aufgaben und deren Zusammensetzung bestimmt werden,
 
@@ -1719,7 +1717,7 @@ Satz 2 ist nicht anzuwenden auf gezielte Tätigkeiten mit biologischen Arbeitsst
 
 # § 118 – Rechtsverordnungen
 
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates die Arbeitsverbote und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3 für Jugendliche bei Arbeiten, die mit besonderen Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung verbunden sind, zu bestimmen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates die Arbeitsverbote und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3 für Jugendliche bei Arbeiten, die mit besonderen Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung verbunden sind, zu bestimmen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
 
 # § 119 – Sozialeinrichtungen für Seeleute an Land; Verordnungsermächtigungen
 
@@ -1739,7 +1737,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (4) Zur Erfüllung ihrer Aufgaben erhalten die Sozialeinrichtungen in inländischen Häfen einen jährlichen Gesamtbetrag in Höhe von 1,5 Millionen Euro aus Mitteln des Bundes. Jede Sozialeinrichtung hat einen anteiligen Anspruch in gleicher Höhe aus dem Gesamtbetrag nach Satz 1. Zuständige Behörde für die Gewährung der Leistung ist die Berufsgenossenschaft. Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages, insbesondere die Verteilungsgrundsätze sowie das Antragsverfahren und die Leistungsgewährung.
 
-(5) Unbeschadet der vorstehenden Bestimmungen fördert der Bund die Tätigkeit inländischer Einrichtungen, deren Aufgabe es ist, Seeleute durch den Betrieb von Sozialeinrichtungen in ausländischen Häfen zu unterstützen. Die Einrichtungen müssen gemeinnützig sein im Sinne von § 52 der Abgabenordnung und nachweislich seit mindestens drei Jahren die in Satz 1 bezeichnete Aufgabe tatsächlich wahrnehmen. Zur Erfüllung ihrer Aufgaben erhalten die Einrichtungen einen jährlichen Gesamtbetrag in Höhe von 1,025 Millionen Euro aus Mitteln des Bundes. Gibt es mehr als eine leistungsberechtigte Einrichtung, hat jede aus dem Gesamtbetrag einen anteiligen Anspruch, dessen Höhe sich nach der Anzahl der durch die leistungsberechtigte Einrichtung im Ausland betriebenen Sozialeinrichtungen bemisst. Absatz 4 Satz 3 gilt entsprechend. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages sowie das Antragsverfahren und die Leistungsgewährung.
+(5) Unbeschadet der vorstehenden Bestimmungen fördert der Bund die Tätigkeit inländischer Einrichtungen, deren Aufgabe es ist, Seeleute durch den Betrieb von Sozialeinrichtungen in ausländischen Häfen zu unterstützen. Die Einrichtungen müssen gemeinnützig sein im Sinne von § 52 der Abgabenordnung und nachweislich seit mindestens drei Jahren die in Satz 1 bezeichnete Aufgabe tatsächlich wahrnehmen. Zur Erfüllung ihrer Aufgaben erhalten die Einrichtungen einen jährlichen Gesamtbetrag in Höhe von 1,025 Millionen Euro aus Mitteln des Bundes. Gibt es mehr als eine leistungsberechtigte Einrichtung, hat jede aus dem Gesamtbetrag einen anteiligen Anspruch, dessen Höhe sich nach der Anzahl der durch die leistungsberechtigte Einrichtung im Ausland betriebenen Sozialeinrichtungen bemisst. Absatz 4 Satz 3 gilt entsprechend. Das Bundesministerium für Digitales und Verkehr bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages sowie das Antragsverfahren und die Leistungsgewährung.
 
 # § 120 – Verhalten an Bord
 
@@ -2019,7 +2017,7 @@ Der Reeder darf ein Schiff, das nicht unter § 130 Absatz 1 Satz 1 fällt und ke
 
 # § 136 – Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über
 
 1. die nähere Ausgestaltung der Überprüfungen und Überwachung nach diesem Abschnitt, die Voraussetzungen, den Gegenstand und die Durchführung der Überprüfungen sowie die Anforderungen an die mit der Vornahme der Überprüfungen betrauten Personen, auch soweit Personen anerkannter Organisationen betroffen sind,
 
@@ -2033,7 +2031,7 @@ Der Reeder darf ein Schiff, das nicht unter § 130 Absatz 1 Satz 1 fällt und ke
 
 sowie das jeweilige Verfahren zu erlassen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über die näheren Einzelheiten der Voraussetzungen für die Ermächtigung einer anerkannten Organisation nach § 135 sowie das Verfahren zu erlassen.
+(2) Das Bundesministerium für Digitales und Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über die näheren Einzelheiten der Voraussetzungen für die Ermächtigung einer anerkannten Organisation nach § 135 sowie das Verfahren zu erlassen.
 
 # § 137 – Anforderungen an Reeder eines Schiffes unter ausländischer Flagge
 
@@ -2191,7 +2189,7 @@ im Übrigen bleiben die Vorschriften über Rücknahme und Widerruf von Verwaltun
 
 (1) Bei der Durchführung der Aufgaben nach den Abschnitten 1, 2 Unterabschnitt 1 und 4, den Abschnitten 3, 5 Unterabschnitt 1, Abschnitt 6 Unterabschnitt 1, 2, 4 und 5,mit Ausnahme des § 119 Absatz 5, und den Abschnitten 7, 11 und 12 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
 
-(2) Bei der Durchführung der Aufgaben nach Abschnitt 2 Unterabschnitt 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6 Unterabschnitt 3, § 119 Absatz 5 und den Abschnitten 8, 9 und 10 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur.
+(2) Bei der Durchführung der Aufgaben nach Abschnitt 2 Unterabschnitt 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6 Unterabschnitt 3, § 119 Absatz 5 und den Abschnitten 8, 9 und 10 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Digitales und Verkehr.
 
 # § 145 – Bußgeldvorschriften
 
@@ -2303,7 +2301,7 @@ nicht anzuwenden. Soweit nach den §§ 49 und 54 abweichende Regelungen über di
 
 (1) Für Amtshandlungen, einschließlich Abnahmen, Prüfungen, Überprüfungen, Untersuchungen, Begutachtungen und Auditierungen (Amtshandlungen) nach diesem Gesetz oder nach Rechtsverordnungen auf Grund dieses Gesetzes erhebt die Berufsgenossenschaft Gebühren und Auslagen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebühren für die einzelnen Amtshandlungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. In Rechtsverordnungen nach Satz 1 können Gebühren nach festen Sätzen im Sinne des § 4 des Verwaltungskostengesetzes auch als nach feststehenden Stundensätzen vorgesehene Gebühren (Zeitgebühren) festgelegt werden.
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebühren für die einzelnen Amtshandlungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. In Rechtsverordnungen nach Satz 1 können Gebühren nach festen Sätzen im Sinne des § 4 des Verwaltungskostengesetzes auch als nach feststehenden Stundensätzen vorgesehene Gebühren (Zeitgebühren) festgelegt werden.
 
 (3) Für Amtshandlungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 

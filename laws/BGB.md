@@ -123,7 +123,9 @@ Der Verein ist für den Schaden verantwortlich, den der Vorstand, ein Mitglied d
 
 (1) Die Angelegenheiten des Vereins werden, soweit sie nicht von dem Vorstand oder einem anderen Vereinsorgan zu besorgen sind, durch Beschlussfassung in einer Versammlung der Mitglieder geordnet. Zur Gültigkeit des Beschlusses ist erforderlich, dass der Gegenstand bei der Berufung bezeichnet wird. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen Stimmen.
 
-(2) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig, wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich erklären.
+(2) Bei der Berufung der Versammlung kann vorgesehen werden, dass Mitglieder auch ohne Anwesenheit am Versammlungsort im Wege der elektronischen Kommunikation an der Versammlung teilnehmen und andere Mitgliederrechte ausüben können (hybride Versammlung). Die Mitglieder können beschließen, dass künftige Versammlungen auch als virtuelle Versammlungen einberufen werden können, an der Mitglieder ohne Anwesenheit am Versammlungsort im Wege der elektronischen Kommunikation teilnehmen und ihre anderen Mitgliederrechte ausüben müssen. Wird eine hybride oder virtuelle Versammlung einberufen, so muss bei der Berufung auch angegeben werden, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
+
+(3) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig, wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich erklären.
 
 # § 33 – Satzungsänderung
 

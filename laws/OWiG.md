@@ -2763,7 +2763,13 @@ Verfolgt die Staatsanwaltschaft die Ordnungswidrigkeit mit einer zusammenhängen
 
 (3) Anstaltsunterbringung, Verhaftung und vorläufige Festnahme, Beschlagnahme von Postsendungen und Telegrammen sowie Auskunftsersuchen über Umstände, die dem Post- und Fernmeldegeheimnis unterliegen, sind unzulässig. § 160 Abs. 3 Satz 2 der Strafprozeßordnung über die Gerichtshilfe ist nicht anzuwenden. Ein Klageerzwingungsverfahren findet nicht statt. Die Vorschriften über die Beteiligung des Verletzten am Verfahren und über das länderübergreifende staatsanwaltschaftliche Verfahrensregister sind nicht anzuwenden; dies gilt nicht für § 406e der Strafprozeßordnung.
 
-(4) § 81a Abs. 1 Satz 2 der Strafprozeßordnung ist mit der Einschränkung anzuwenden, daß nur die Entnahme von Blutproben und andere geringfügige Eingriffe zulässig sind. Die Entnahme einer Blutprobe bedarf abweichend von § 81a Absatz 2 Satz 1 der Strafprozessordnung keiner richterlichen Anordnung, wenn bestimmte Tatsachen den Verdacht begründen, dass eine Ordnungswidrigkeit nach den §§ 24a und 24c des Straßenverkehrsgesetzes begangen worden ist. In einem Strafverfahren entnommene Blutproben und sonstige Körperzellen, deren Entnahme im Bußgeldverfahren nach Satz 1 zulässig gewesen wäre, dürfen verwendet werden. Die Verwendung von Blutproben und sonstigen Körperzellen zur Durchführung einer Untersuchung im Sinne des § 81e der Strafprozeßordnung ist unzulässig.
+(4) § 81a Abs. 1 Satz 2 der Strafprozeßordnung ist mit der Einschränkung anzuwenden, daß nur die Entnahme von Blutproben und andere geringfügige Eingriffe zulässig sind. Die Entnahme einer Blutprobe bedarf abweichend von § 81a Absatz 2 Satz 1 der Strafprozessordnung keiner richterlichen Anordnung, wenn bestimmte Tatsachen den Verdacht begründen, dass eine Ordnungswidrigkeit begangen worden ist
+
+1. nach den §§ 24a und 24c des Straßenverkehrsgesetzes oder
+
+2. nach § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes in Verbindung mit einer Vorschrift einer auf Grund des § 3 Absatz 1 Satz 1 Nummer 1 des Binnenschifffahrtsaufgabengesetzes erlassenen Rechtsverordnung, sofern diese Vorschrift das Verhalten im Verkehr im Sinne des § 3 Absatz 1 Satz 1 Nummer 1 Buchstabe a Doppelbuchstabe aa des Binnenschifffahrtsaufgabengesetzes regelt.
+
+In einem Strafverfahren entnommene Blutproben und sonstige Körperzellen, deren Entnahme im Bußgeldverfahren nach Satz 1 zulässig gewesen wäre, dürfen verwendet werden. Die Verwendung von Blutproben und sonstigen Körperzellen zur Durchführung einer Untersuchung im Sinne des § 81e der Strafprozeßordnung ist unzulässig.
 
 (4a) § 100j Absatz 1 Satz 1 Nummer 2 der Strafprozessordnung, auch in Verbindung mit § 100j Absatz 2 der Strafprozessordnung, ist mit der Einschränkung anzuwenden, dass die Erhebung von Bestandsdaten nur zur Verfolgung von Ordnungswidrigkeiten zulässig ist, die gegenüber natürlichen Personen mit Geldbußen im Höchstmaß von mehr als fünfzehntausend Euro bedroht sind.
 

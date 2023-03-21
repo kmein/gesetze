@@ -65,7 +65,7 @@ Allgemeine Verfahrensvorschriften
 
 Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen
 
-§§ 68 bis 80b
+§§ 68 bis 80c
 
 9\. Abschnitt:
 
@@ -212,7 +212,13 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (3) Die Senate des Oberverwaltungsgerichts entscheiden in der Besetzung von drei Richtern; die Landesgesetzgebung kann vorsehen, daß die Senate in der Besetzung von fünf Richtern entscheiden, von denen zwei auch ehrenamtliche Richter sein können. Für die Fälle des § 48 Abs. 1 kann auch vorgesehen werden, daß die Senate in der Besetzung von fünf Richtern und zwei ehrenamtlichen Richtern entscheiden. Satz 1 Halbsatz 2 und Satz 2 gelten nicht für die Fälle des § 99 Abs. 2.
 
-(4) (weggefallen)
+(4) In Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 kann der Senat den Rechtsstreit einem seiner Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
+
+1. die Sache keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und
+
+2. die Rechtssache keine grundsätzliche Bedeutung hat.
+
+§ 6 Absatz 2 bis 4 gilt entsprechend.
 
 # § 10
 
@@ -221,6 +227,14 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 (2) Bei dem Bundesverwaltungsgericht werden Senate gebildet.
 
 (3) Die Senate des Bundesverwaltungsgerichts entscheiden in der Besetzung von fünf Richtern, bei Beschlüssen außerhalb der mündlichen Verhandlung in der Besetzung von drei Richtern.
+
+(4) In Verfahren nach § 50 Absatz 1 Nummer 6 kann der Senat in einer Besetzung mit drei Richtern entscheiden, wenn
+
+1. die Sache keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und
+
+2. die Rechtssache keine grundsätzliche Bedeutung hat.
+
+§ 6 Absatz 2 bis 4 gilt entsprechend.
 
 # § 11
 
@@ -514,7 +528,7 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 3. die Errichtung, den Betrieb und die Änderung von Kraftwerken mit Feuerungsanlagen für feste, flüssige und gasförmige Brennstoffe mit einer Feuerungswärmeleistung von mehr als dreihundert Megawatt,
 
-3a. die Errichtung, den Betrieb und die Änderung von Anlagen zur Nutzung von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern,
+3a. die Errichtung, den Betrieb und die Änderung von Anlagen zur Nutzung von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern sowie Anlagen von Windenergie auf See im Küstenmeer,
 
 3b. die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-Kopplungsanlagen im Sinne des Kraft-Wärme-Kopplungsgesetzes ab einer Feuerungswärmeleistung von 50 Megawatt,
 
@@ -592,7 +606,9 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 5. über Klagen gegen Maßnahmen und Entscheidungen nach § 12 Absatz 3a des Abgeordnetengesetzes, nach den Vorschriften des Elften Abschnitts des Abgeordnetengesetzes, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
-6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
+6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind, über sämtliche Streitigkeiten, die Vorhaben zur Errichtung und zur Anbindung von Terminals zum Import von Wasserstoff und Derivaten betreffen, sowie über die ihm nach dem LNG-Beschleunigungsgesetz zugewiesenen Verfahren,
+
+7. über die ihm nach dem Energiesicherungsgesetz zugewiesenen Verfahren.
 
 (2) In Verfahren nach Absatz 1 Nummer 6 ist § 48 Absatz 3 entsprechend anzuwenden.
 
@@ -984,7 +1000,23 @@ Die Länder können auch bestimmen, daß Rechtsbehelfe keine aufschiebende Wirku
 
 (2) Das Rechtsmittelgericht kann auf Antrag anordnen, daß die aufschiebende Wirkung fortdauert.
 
-(3) § 80 Abs. 5 bis 8 und § 80a gelten entsprechend.
+(3) § 80 Abs. 5 bis 8 und die §§ 80a und 80c gelten entsprechend.
+
+# § 80c
+
+(1) In Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50 Absatz 1 Nummer 6 gelten für die Anordnung oder Wiederherstellung der aufschiebenden Wirkung (§§ 80 und 80a) ergänzend die Absätze 2 bis 4. Von Satz 1 ausgenommen sind in § 48 Absatz 1 Satz 1 Nummer 6 das Anlegen von Verkehrsflughäfen und von Verkehrslandeplätzen mit beschränktem Bauschutzbereich sowie in § 48 Absatz 1 Satz 1 Nummer 13 Planfeststellungsverfahren für Braunkohletagebaue.
+
+(2) Das Gericht kann einen Mangel des angefochtenen Verwaltungsaktes außer Acht lassen, wenn offensichtlich ist, dass dieser in absehbarer Zeit behoben sein wird. Ein solcher Mangel kann insbesondere sein
+
+1. eine Verletzung von Verfahrens- oder Formvorschriften oder
+
+2. ein Mangel bei der Abwägung im Rahmen der Planfeststellung oder der Plangenehmigung.
+
+Das Gericht soll eine Frist zur Behebung des Mangels setzen. Verstreicht die Frist, ohne dass der Mangel behoben worden ist, gilt § 80 Absatz 7 entsprechend. Satz 1 gilt grundsätzlich nicht für Verfahrensfehler gemäß § 4 Absatz 1 des Umwelt-Rechtsbehelfsgesetzes.
+
+(3) Entscheidet das Gericht im Rahmen einer Vollzugsfolgenabwägung, soll es die Anordnung oder Wiederherstellung der aufschiebenden Wirkung in der Regel auf diejenigen Maßnahmen des angefochtenen Verwaltungsaktes beschränken, bei denen dies erforderlich ist, um anderenfalls drohende irreversible Nachteile zu verhindern. Es kann die beschränkte Anordnung oder Wiederherstellung der aufschiebenden Wirkung von der Leistung einer Sicherheit durch den Begünstigten des angefochtenen Verwaltungsaktes abhängig machen.
+
+(4) Das Gericht hat im Rahmen einer Vollzugsfolgenabwägung die Bedeutung von Vorhaben besonders zu berücksichtigen, wenn ein Bundesgesetz feststellt, dass diese im überragenden öffentlichen Interesse liegen.
 
 # § 81
 
@@ -1104,6 +1136,26 @@ Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit
 
 Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 1 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
+(4) Abweichend von Absatz 3 hat das Gericht in Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50 Absatz 1 Nummer 6 Erklärungen und Beweismittel, die erst nach Ablauf einer nach den Absätzen 1 und 2 gesetzten Frist vorgebracht werden, zurückzuweisen und ohne weitere Ermittlungen zu entscheiden, wenn der Beteiligte
+
+1. die Verspätung nicht genügend entschuldigt und
+
+2. über die Folgen einer Fristversäumung belehrt worden ist.
+
+Absatz 3 Satz 2 und 3 gilt entsprechend.
+
+# § 87c
+
+(1) Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50 Absatz 1 Nummer 6 sollen vorrangig und beschleunigt durchgeführt werden. Dies gilt auch
+
+1. für Verfahren nach § 47 Absatz 1 Nummer 1, wenn sie Bauleitpläne mit Darstellungen oder Festsetzungen von Flächen für die in § 48 Absatz 1 Satz 1 Nummer 3, 3a, 3b oder 5 genannten Vorhaben zum Gegenstand haben und
+
+2. für Verfahren nach § 47 Absatz 1 Nummer 2, wenn sie Raumordnungspläne mit Festlegungen von Gebieten zur Nutzung von Windenergie zum Gegenstand haben.
+
+Besonders zu priorisieren sind Verfahren über Vorhaben, wenn ein Bundesgesetz feststellt, dass diese im überragenden öffentlichen Interesse liegen. Von Satz 1 ausgenommen sind in § 48 Absatz 1 Satz 1 Nummer 6 das Anlegen von Verkehrsflughäfen und von Verkehrslandeplätzen mit beschränktem Bauschutzbereich sowie in § 48 Absatz 1 Satz 1 Nummer 13 Planfeststellungsverfahren für Braunkohletagebaue.
+
+(2) In den in Absatz 1 genannten Verfahren soll der Vorsitzende oder der Berichterstatter in geeigneten Fällen die Beteiligten zu einem frühen ersten Termin zur Erörterung des Sach- und Streitstandes und zur gütlichen Beilegung des Rechtsstreits laden. Kommt es in diesem Termin nicht zu einer gütlichen Beilegung des Rechtsstreits, erörtert der Vorsitzende oder der Berichterstatter mit den Beteiligten den weiteren Ablauf des Verfahrens und die mögliche Terminierung der mündlichen Verhandlung.
+
 # § 88
 
 Das Gericht darf über das Klagebegehren nicht hinausgehen, ist aber an die Fassung der Anträge nicht gebunden.
@@ -1212,7 +1264,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
 
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 87 Absatz 1 Satz 2 Nummer 1).
+(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 87 Absatz 1 Satz 2 Nummer 1 und § 87c Absatz 2 Satz 1).
 
 # § 103
 
@@ -1671,6 +1723,8 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 (3) Dem Beigeladenen können Kosten nur auferlegt werden, wenn er Anträge gestellt oder Rechtsmittel eingelegt hat; § 155 Abs. 4 bleibt unberührt.
 
 (4) Die Kosten des erfolgreichen Wiederaufnahmeverfahrens können der Staatskasse auferlegt werden, soweit sie nicht durch das Verschulden eines Beteiligten entstanden sind.
+
+(5) Soweit der Antragsteller allein auf Grund von § 80c Absatz 2 unterliegt, fallen die Gerichtskosten dem obsiegenden Teil zur Last. Absatz 3 bleibt unberührt.
 
 # § 155
 
