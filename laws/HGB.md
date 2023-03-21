@@ -4877,8 +4877,6 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte gelten, 
 
 (2) Ist die Urkunde vernichtet oder abhanden gekommen, so unterliegt sie der Kraftloserklärung im Wege des Aufgebotsverfahrens. Ist das Aufgebotsverfahren eingeleitet, so kann der Berechtigte, wenn er bis zur Kraftloserklärung Sicherheit bestellt, Leistung nach Maßgabe der Urkunde von dem Schuldner verlangen.
 
-§ 365 Abs. 1 Kursivdruck: Jetzt Art. 13, 14 Abs. 2, Art. 16 u. 40 Abs. 3 Satz 2 des Wechselgesetzes 4133-1 gem. Art. 3 Abs. 1 G v. 21.6.1933 I 409
-
 # § 365a
 
 Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie die Transportversicherungspolice, sofern sichergestellt ist, dass die Authentizität und Integrität der Aufzeichnung gewahrt bleiben (elektronische Transportversicherungspolice). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung einer elektronischen Transportversicherungspolice sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in eine elektronische Transportversicherungspolice zu regeln.

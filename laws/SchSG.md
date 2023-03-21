@@ -81,7 +81,7 @@ Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage genannten gem
 
 (3) Der Schiffsführer hat - falls nicht anders vorgeschrieben, im Schiffstagebuch - unverzüglich durch geeignete Eintragungen über alle Vorkommnisse an Bord zu berichten, die für die Sicherheit in der Seefahrt einschließlich des Umweltschutzes auf See und des Arbeitsschutzes von besonderer Bedeutung sind. Bei Schiffsunfällen hat der Schiffsführer, soweit erforderlich und möglich, für die Sicherstellung der Eintragungsunterlagen zu sorgen.
 
-(4) Die Anwendung der in Abschnitt E der Anlage aufgeführten internationalen Schiffssicherheitsnormen als allgemein anerkannte Regeln der Technik oder der seemännischen Praxis bleibt unberührt. Das Bundesministerium für Verkehr und digitale Infrastruktur macht den Abschnitt E betreffende Änderungen und Ergänzungen im Verkehrsblatt bekannt.
+(4) Die Anwendung der in Abschnitt E der Anlage aufgeführten internationalen Schiffssicherheitsnormen als allgemein anerkannte Regeln der Technik oder der seemännischen Praxis bleibt unberührt. Das Bundesministerium für Digitales und Verkehr macht den Abschnitt E betreffende Änderungen und Ergänzungen im Verkehrsblatt bekannt.
 
 # § 7 – Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
 
@@ -161,7 +161,7 @@ Wird in den internationalen Regelungen die Ausfüllung eines vorgeschriebenen St
 
 # § 14 – Überprüfung von Schiffen unter ausländischer Flagge*)
 
-(1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt unter Beachtung der allgemeinen Regeln des Völkerrechts und der internationalen Regelungen, in den Häfen zugleich unter Einhaltung der Vorschriften, die zur Umsetzung der Richtlinie 95/21/EG und deren gemeinschaftsrechtlicher Änderungen und Ergänzungen sowie weiterer gemeinschaftsrechtlicher Vorschriften über die Hafenstaatkontrolle erlassen werden.
+(1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt unter Beachtung der allgemeinen Regeln des Völkerrechts und der internationalen Regelungen, in den Häfen zugleich unter Einhaltung der Vorschriften, die zur Umsetzung der Richtlinie 2009/16/EG und deren gemeinschaftsrechtlicher Änderungen und Ergänzungen sowie weiterer gemeinschaftsrechtlicher Vorschriften über die Hafenstaatkontrolle erlassen werden.
 
 (2) Kann ein nach Abschnitt A der Anlage erforderlicher Nachweis ausschließlich deshalb nicht anerkannt werden, weil der Flaggenstaat nicht Vertragspartei der zugrundeliegenden internationalen Regelung ist, so ist als Schiffssicherheitsanforderung insofern ein Standard einzuhalten, der den Zielen der internationalen Schiffssicherheitsregelungen nach Maßgabe der Schiffssicherheitsverordnung entspricht. Dies gilt entsprechend für nach Abschnitt A der Anlage erforderliche Nachweise über die Einhaltung von Umweltschutzstandards. ----------
 
@@ -171,7 +171,7 @@ Diese Bestimmung dient zugleich der Umsetzung folgender Vorschriften: Richtlinie
 
 # § 15 – Rechtsetzungsermächtigung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Abwehr von Gefahren im Sinne des Seeaufgabengesetzes durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und aufgrund innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich oder unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu ändern.
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur Abwehr von Gefahren im Sinne des Seeaufgabengesetzes durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und aufgrund innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich oder unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu ändern.
 
 # Anlage – zum SchiffssicherheitsgesetzInternationaler schiffsbezogener Sicherheitsstandard
 
