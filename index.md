@@ -1838,6 +1838,7 @@
 - [EStSchlEV](laws/EStSchlEV.md) Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2021, 2022 und 2023
 - [EStZustV](laws/EStZustV.md) Einkommensteuer-Zuständigkeitsverordnung
 - [ESVG](laws/ESVG.md) Gesetz über die Sicherstellung der Grundversorgung mit Lebensmitteln in einer Versorgungskrise und Maßnahmen zur Vorsorge für eine Versorgungskrise
+- [ESVGDüV](laws/ESVGDüV.md) Verordnung zur Datenübermittlung zum Zweck der Ausführung der Vollzugsvorkehrungen nach § 12 Absatz 1 des Ernährungssicherstellungs- und -vorsorgegesetzes
 - [EthRG](laws/EthRG.md) Gesetz zur Einrichtung des Deutschen Ethikrats
 - [EthylenoxidV](laws/EthylenoxidV.md) Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln
 - [ETWStBefrV](laws/ETWStBefrV.md) Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic Windtunnel GmbH
@@ -1850,6 +1851,7 @@
 - [EU-FahrgRSchV](laws/EU-FahrgRSchV.md) Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union in der Schifffahrt
 - [EU-RhÜbk](laws/EU-RhÜbk.md) Übereinkommen - gemäß Artikel 34 des Vertrags über die Europäische Union vom Rat erstellt - Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union
 - [EU-RhÜbkProt](laws/EU-RhÜbkProt.md) Protokoll - vom Rat gemäß Artikel 34 des Vertrags über die Europäische Union erstellt - zu dem Übereinkommen über die Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union
+- [EU-Typ-BV](laws/EU-Typ-BV.md) Verordnung über die Ahndung von Zuwiderhandlungen gegen EU-Typgenehmigungsvorschriften
 - [EU-VSchDG](laws/EU-VSchDG.md) Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004
 - [EU/EWRHwV](laws/EU_EWRHwV.md) Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks*
 - [EuAbgG](laws/EuAbgG.md) Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments aus der Bundesrepublik Deutschland
@@ -4378,6 +4380,7 @@
 - [PfändfreiGrBek 2019](laws/PfändfreiGrBek_2019.md) Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung
 - [PfändfreiGrBek 2021](laws/PfändfreiGrBek_2021.md) Bekanntmachung zu den Pfändungsfreigrenzen 2021 nach § 850c der Zivilprozessordnung
 - [PfändfreiGrBek 2022](laws/PfändfreiGrBek_2022.md) Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung
+- [Pfändungsfreigrenzenbekanntmachung 2023](laws/Pfändungsfreigrenzenbekanntmachung_2023.md) Bekanntmachung zu den Pfändungsfreigrenzen 2023 nach § 850c der Zivilprozessordnung
 - [PfandBarwertV](laws/PfandBarwertV.md) Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken
 - [PfandBG](laws/PfandBG.md) Pfandbriefgesetz
 - [PfandBrAUmwG](laws/PfandBrAUmwG.md) Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft

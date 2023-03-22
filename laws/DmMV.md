@@ -128,7 +128,6 @@ II. Peptidhormone, Wachstumsfaktoren, verwandte Stoffe und Mimetika
 
 2. Peptidhormone und ihre Releasingfaktoren
 
-  
 2.1. Choriongonadotropin (CG) und Luteinisierendes Hormon (LH) sowie ihre Releasingfaktoren  
   
 
