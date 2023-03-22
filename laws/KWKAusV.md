@@ -783,6 +783,4 @@ e) eine elektrische Leistung von höchstens 50 Megawatt aufweist und
 
 # § 29 – Übergangsbestimmungen
 
-(1) Für nicht erloschene Zuschläge, die in den Ausschreibungen vor dem 1. März 2020 erteilt wurden, verlängern sich die Fristen in § 18 Absatz 1 und § 21 Absatz 1 und 2 Satz 1 um einen Zeitraum von jeweils sechs Kalendermonaten.
-
-(2) Die Änderungen dieser Verordnung durch Artikel 18 des Gesetzes zu Sofortmaßnahmen für einen beschleunigten Ausbau der erneuerbaren Energien und weiteren Maßnahmen im Stromsektor vom 20. Juli 2022 (BGBl. I S. 1237) dürfen mit Ausnahme der Änderungen in § 18 erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
+Für nicht erloschene Zuschläge, die in den Ausschreibungen vor dem 1. März 2020 erteilt wurden, verlängern sich die Fristen in § 18 Absatz 1 und § 21 Absatz 1 und 2 Satz 1 um einen Zeitraum von jeweils sechs Kalendermonaten.

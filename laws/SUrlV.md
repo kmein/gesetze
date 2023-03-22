@@ -232,9 +232,34 @@ Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von zwei Monaten
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 4%" /><col style="width: 82%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th>Anlass</th><th style="text-align: left;">Urlaubsdauer</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1.</td><td>Niederkunft der Ehefrau, der Lebenspartnerin oder der mit der Beamtin oder dem Beamten in ehe- oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden Lebensgefährtin</td><td style="text-align: left;">ein Arbeitstag</td></tr><tr class="even"><td style="text-align: left;">2.</td><td>Tod der Ehefrau oder des Ehemanns, der Lebenspartnerin oder des Lebenspartners, eines Kindes oder eines Elternteils der Beamtin oder des Beamten</td><td style="text-align: left;">zwei Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td>bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung einer oder eines im Haushalt der Beamtin oder des Beamten lebenden Angehörigen im Sinne des § 20 Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes</td><td style="text-align: left;">ein Arbeitstag im Urlaubsjahr</td></tr><tr class="even"><td style="text-align: left;">4.</td><td>bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung eines Kindes der Beamtin oder des Beamten, das noch nicht zwölf Jahre alt ist, oder eines behinderten und auf Hilfe angewiesenen Kindes</td><td style="text-align: left;">für jedes Kind<br />
 bis zu vier Arbeitstage im Urlaubsjahr</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td>Erkrankung der Betreuungsperson eines Kindes der Beamtin oder des Beamten, das noch nicht acht Jahre alt ist oder wegen körperlicher, geistiger oder seelischer Behinderung auf Hilfe angewiesen ist</td><td style="text-align: left;">bis zu vier Arbeitstage im Urlaubsjahr</td></tr><tr class="even"><td style="text-align: left;">6.</td><td>Fälle, in denen für eine nahe Angehörige oder einen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes in einer akut auftretenden Pflegesituation eine bedarfsgerechte Pflege organisiert oder eine pflegerische Versorgung sichergestellt werden muss, nach Verlangen unter Vorlage einer ärztlichen Bescheinigung über die Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches Sozialgesetzbuch</td><td style="text-align: left;">für jede pflegebedürftige Person<br />
-bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">7.</td><td>Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird</td><td style="text-align: left;">Dauer der notwendigen Abwesenheit</td></tr></tbody></table>
+bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">6a.</td><td>befristet bis zum Ablauf des 30. April 2023 für Fälle, in denen die Beamtin oder der Beamte in einer wegen der COVID-19-Pandemie akut aufgetretenen Pflegesituation eine bedarfsgerechte häusliche Pflege für die Betreuung einer oder eines nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherstellen oder organisieren muss und in denen die Pflege nicht anderweitig gewährleistet werden kann; dass die Pflegesituation wegen der COVID-19-Pandemie aufgetreten ist, wird bis zu diesem Zeitpunkt vermutet,</td><td style="text-align: left;">für jede pflegebedürftige Person<br />
+bis zu 20 Arbeitstage</td></tr><tr class="even"><td style="text-align: left;">7.</td><td>Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird</td><td style="text-align: left;">Dauer der notwendigen Abwesenheit</td></tr></tbody></table>
 
 (2) In den Fällen des Absatzes 1 Nummer 4 darf die Dauer des gewährten Sonderurlaubs bei Beamtinnen und Beamten, deren Dienstbezüge oder Anwärterbezüge nicht die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch überschreiten, bis zu 75 Prozent der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch für eine Freistellung von der Arbeitsleistung vorgesehen sind.
+
+(2a) Für das Jahr 2023 erhöht sich die Dauer des Sonderurlaubs nach Absatz 1 Nummer 4, auch in Verbindung mit Absatz 2,
+
+1. bei den alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 86 Arbeitstage, und
+
+2. bei den nicht alleinerziehenden Beamtinnen und Beamten für jedes Kind um 20 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 43 Arbeitstage.
+
+(2b) In der Zeit vom 24. September 2022 bis zum Ablauf des 7. April 2023 besteht der Anspruch auf Sonderurlaub nach Absatz 1 Nummer 4, auch in Verbindung mit den Absätzen 2 und 2a, auch dann, wenn die Beamtin oder der Beamte ihr oder sein Kind, das noch nicht zwölf Jahre alt ist oder das behindert und auf Hilfe angewiesen ist, betreut, weil wegen der COVID-19-Pandemie
+
+1. zur Verhinderung der Verbreitung von Infektionen oder übertragbaren Krankheiten die Schule des Kindes, die Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen mit Behinderungen auf Grund des Infektionsschutzgesetzes vorübergehend geschlossen worden ist,
+
+2. dem Kind das Betreten der Schule, der Einrichtung zur Betreuung des Kindes oder der Einrichtung für Menschen mit Behinderungen, auch auf Grund einer Absonderung, untersagt worden ist,
+
+3. Schul- oder Betriebsferien von der zuständigen Behörde aus Gründen des Infektionsschutzes angeordnet oder verlängert worden sind,
+
+4. die Präsenzpflicht in der Schule des Kindes aufgehoben worden ist,
+
+5. der Zugang zu einem Angebot der Kinderbetreuung eingeschränkt worden ist oder
+
+6. das Kind auf Grund einer behördlichen Empfehlung die Schule, die Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen mit Behinderungen nicht besucht.
+
+Zum Nachweis, dass eine der Voraussetzungen nach Satz 1 erfüllt ist, kann die Dienststelle die Vorlage einer Bescheinigung der Schule oder der Einrichtung verlangen.
+
+(2c) Für die Zeit, in der ein Elternteil Sonderurlaub nach Absatz 2b in Anspruch nimmt, ruht für beide Elternteile die Möglichkeit, aus demselben Grund Sonderurlaub nach § 22 Absatz 2 in Anspruch zu nehmen.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten regelmäßigen Arbeitszeit.
 
@@ -245,6 +270,26 @@ bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">7
 2. bei einer Gesellschaft, die nach § 2 Absatz 1 und § 3 Absatz 3 Satz 2 des Deutsche Bahn Gründungsgesetzes ausgegliedert worden ist.
 
 (5) Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern und für Heimat von den Absätzen 1 bis 3 abweichende Regelungen treffen.
+
+# § 21a – Sonderurlaub bei Mitaufnahme oder ganztägiger Begleitung bei stationärer Krankenhausbehandlung
+
+(1) Sonderurlaub ist einer Beamtin oder einem Beamten zu gewähren,
+
+1. wenn es aus medizinischen Gründen notwendig ist, dass sie oder er bei einer stationären Krankenhausbehandlung eines Menschen, bei dem die Voraussetzungen des § 2 Absatz 1 des Neunten Buches Sozialgesetzbuch vorliegen, zur Begleitung mitaufgenommen wird
+
+a) als nahe Angehörige oder naher Angehöriger im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes oder
+
+b) als eine Person aus dem engsten persönlichen Umfeld und
+
+2. wenn die Voraussetzungen des § 44b Absatz 1 Nummer 1 Buchstabe c und d und Nummer 3 des Fünften Buches Sozialgesetzbuch vorliegen.
+
+(2) Der Anspruch auf den Sonderurlaub besteht für die Dauer der notwendigen Mitaufnahme.
+
+(3) Unterschreiten die Dienstbezüge oder Anwärterbezüge der Beamtin oder des Beamten die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch oder sind sie gleich hoch, so erfolgt die Gewährung des Sonderurlaubs für 80 Prozent der Dauer der notwendigen Mitaufnahme unter Fortzahlung der Besoldung. Für die verbleibenden 20 Prozent erfolgt die Gewährung des Sonderurlaubs unter Wegfall der Besoldung.
+
+(4) Überschreiten die Dienstbezüge oder die Anwärterbezüge einer Beamtin oder eines Beamten die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch, so erfolgt die Gewährung des Sonderurlaubs für die Dauer der notwendigen Mitaufnahme unter Wegfall der Besoldung.
+
+(5) Der Mitaufnahme steht die ganztägige Begleitung gleich.
 
 # § 22 – Sonderurlaub in anderen Fällen
 
