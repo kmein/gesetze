@@ -249,7 +249,7 @@ Die Veränderungssperre ist auf einen Zeitraum von fünf Jahren zu befristen. Di
 
 (4) Die Bundesnetzagentur macht die Veränderungssperre in örtlichen Tageszeitungen, die in dem Gebiet verbreitet sind, auf das sich die Veränderungssperre voraussichtlich auswirken wird, und auf der Internetseite der Bundesnetzagentur bekannt. In der Bekanntmachung in den örtlichen Tageszeitungen ist der verfügende Teil zu veröffentlichen und ist auf die vollständige Veröffentlichung der Veränderungssperre einschließlich der Rechtsbehelfsbelehrung auf der Internetseite der Bundesnetzagentur hinzuweisen.
 
-(5) Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner Nachprüfung in einem Vorverfahren. Die Anfechtungsklage gegen eine Veränderungssperre hat keine aufschiebende Wirkung.
+(5) Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner Nachprüfung in einem Vorverfahren. Für Anfechtungsklagen gegen eine Veränderungssperre ist § 43e des Energiewirtschaftsgesetzes entsprechend anzuwenden. Für Verpflichtungsklagen auf Erlass oder Aufhebung einer Veränderungssperre ist § 43e des Energiewirtschaftsgesetzes mit der Maßgabe anzuwenden, dass an die Stelle von Anträgen auf Anordnung der aufschiebenden Wirkung Anträge auf Erlass von vorläufigen Anordnungen treten.
 
 (6) § 44a Absatz 2 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
 
@@ -402,6 +402,8 @@ Satz 1 Nummer 2 und 3 ist nur anzuwenden, wenn die Planfeststellungsbehörde fes
 (3) Abweichend von Absatz 1 Satz 2 Nummer 2 kann eine Änderung oder Erweiterung auch dann im Anzeigeverfahren zugelassen werden, wenn die Planfeststellungsbehörde im Einvernehmen mit der nach Landesrecht zuständigen Immissionsschutzbehörde feststellt, dass die Vorgaben nach den §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten sind, und wenn weitere öffentliche Belange nicht berührt sind oder die hierfür erforderlichen behördlichen Entscheidungen vorliegen und sie dem Plan nicht entgegenstehen. Absatz 2 Satz 3 ist entsprechend anzuwenden.
 
 (4) Der Vorhabenträger zeigt gegenüber der Planfeststellungsbehörde die von ihm geplante Maßnahme an. Der Anzeige sind in ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt, dass die geplante Änderung oder Erweiterung den Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die Planfeststellungsbehörde entscheidet innerhalb eines Monats, ob anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erweiterung; im Fall der standortnahen Maständerung bleibt es unabhängig von den Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung beim Anzeigeverfahren. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.
+
+(5) § 43e des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
 
 # § 26 – Zusammentreffen mehrerer Vorhaben
 
