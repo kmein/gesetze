@@ -4751,7 +4751,7 @@ Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Abs. 1a
 
 (2) Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(3) Der Kläger hat innerhalb einer Frist von sechs Wochen die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt entsprechend.
+(3)Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte.
 
 (4) Für Energieleitungen, die nach § 43 Absatz 1 Satz 1 Nummer 2 planfestgestellt werden, sowie für Anlagen, die für den Betrieb dieser Energieleitungen notwendig sind und die nach § 43 Absatz 2 Satz 1 Nummer 1 planfestgestellt werden, ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung ist auch anzuwenden für auf diese Energieleitungen und auf für deren Betrieb notwendige Anlagen bezogene Zulassungen des vorzeitigen Baubeginns und Anzeigeverfahren sowie für Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Anlagen, die für den Betrieb dieser Energieleitungen notwendig sind.
 
@@ -4782,6 +4782,8 @@ Satz 1 Nummer 2 und 3 ist nur anzuwenden, wenn die nach Landesrecht zuständige 
 (4) Der Vorhabenträger zeigt gegenüber der nach Landesrecht zuständigen Behörde die von ihm geplante Maßnahme an. Der Anzeige sind in ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt, dass die geplante Änderung oder Erweiterung den Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die nach Landesrecht zuständige Behörde entscheidet innerhalb eines Monats, ob anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erweiterung; im Falle des Absatzes 2 Satz 1 Nummer 1 bedarf es keiner Prüfung der dinglichen Rechte anderer; im Fall der standortnahen Maständerung bleibt es unabhängig von den Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung beim Anzeigeverfahren. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.
 
 (5) Für die Zwecke des § 43 und dieses Paragrafen sind die Begriffsbestimmungen des § 3 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz entsprechend anzuwenden.
+
+(6) § 43e ist entsprechend anzuwenden.
 
 # § 43g – Projektmanager
 
@@ -4913,7 +4915,7 @@ Maßnahmen sind reversibel gemäß Satz 1 Nummer 3, wenn ein im Wesentlichen gle
 
 (3) Die Entscheidung über die Zulassung des vorzeitigen Baubeginns ist den anliegenden Gemeinden und den Beteiligten zuzustellen.
 
-(4) Ein Rechtsbehelf gegen die Zulassung des vorzeitigen Baubeginns einschließlich damit verbundener Vollstreckungsmaßnahmen nach dem Verwaltungsvollstreckungsgesetz hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung des Rechtsbehelfs nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung gegen die Zulassung des vorzeitigen Baubeginns kann nur innerhalb eines Monats nach der Zustellung oder Bekanntgabe der Zulassung des vorzeitigen Baubeginns gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
+(4) Ein Rechtsbehelf gegen die Zulassung des vorzeitigen Baubeginns einschließlich damit verbundener Vollstreckungsmaßnahmen nach dem Verwaltungsvollstreckungsgesetz hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung des Rechtsbehelfs nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung gegen die Zulassung des vorzeitigen Baubeginns kann nur innerhalb eines Monats nach der Zustellung oder Bekanntgabe der Zulassung des vorzeitigen Baubeginns gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden. Im Übrigen ist § 43e Absatz 3 entsprechend anzuwenden.
 
 # § 45 – Enteignung
 
