@@ -137,6 +137,8 @@ Der Höchstwert in den Ausschreibungen beträgt für
 
 2. innovative KWK-Systeme 12,0 Cent pro Kilowattstunde KWK-Strom.
 
+(+++ § 5: Zur Anwendung vgl. § 18 Abs. 3 Satz 3 Nr. 1 +++)
+
 # § 6 – Ausschreibende Stelle und ausländische Stelle
 
 (1) Die ausschreibende Stelle ist
@@ -681,7 +683,7 @@ für jedes 15-Minuten-Intervall die eingesetzte und die erzeugte Strommenge,
 
 Für Strom aus KWK-Anlagen im Bundesgebiet darf eine Zahlung nach dem geöffneten Fördersystem eines Kooperationsstaats nur in Anspruch genommen werden, wenn der Zahlungsanspruch durch Zuschlag in einer gemeinsamen grenzüberschreitenden oder geöffneten ausländischen Ausschreibung erteilt worden ist, die nach § 27 völkerrechtlich mit der Bundesrepublik Deutschland vereinbart worden ist. Die Zahlung darf nur nach Maßgabe der völkerrechtlichen Vereinbarung erfolgen.
 
-(+++ § 25: Zur Anwendung vgl. § 14 Abs. 1 +++)
+(+++ § 25: Zur Anwendung vgl. § 14 Abs. 1 Satz 2 +++)
 
 # § 26 – Anwendung des Kraft-Wärme-Kopplungsgesetzes im Kooperationsstaat
 

@@ -1427,7 +1427,7 @@ die ihre Umsatzerlöse überwiegend durch Verwaltung und Nutzung eigenen zu Wohn
 
 (7) Die Endbestände sind getrennt auszuweisen und werden gesondert festgestellt; dabei sind die verbleibenden unbelasteten Teilbeträge im Sinne des § 30 Absatz 2 Nummer 1 und 3 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, in einer Summe auszuweisen."
 
-§ 34 Abs. 11: § 36 Abs. 4 nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 24.11.2022 I Nr. 44 - 2 BvR 1424/15 –; § 36 Abs. 6a nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 6.12.2022 I Nr. 58 - 2 BvL 29/14 -
+§ 34 Abs. 11: § 36 Abs. 4 nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 24.11.2022; 2023 I Nr. 44 - 2 BvR 1424/15 –; § 36 Abs. 6a nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 6.12.2022; 2023 I Nr. 58 - 2 BvL 29/14 -
 
 # § 35 – Sondervorschriften für Körperschaften, Personenvereinigungen oder Vermögensmassen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 

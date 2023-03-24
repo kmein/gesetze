@@ -563,7 +563,7 @@ Zum Leiter einer Beratungsstelle darf nicht bestellt werden, wer sich so verhalt
 
 (6) Eine Beratungsstelle darf ihre Tätigkeit nur ausüben, wenn sie und der Beratungsstellenleiter nach Überprüfung der in Absatz 3 genannten Voraussetzungen bei der zuständigen Aufsichtsbehörde (§ 27 Abs. 2) im Verzeichnis der Lohnsteuerhilfevereine eingetragen sind.
 
-# § 24 – Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer
+# § 24 – Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11
 
 (1) Ist die Anerkennung als Lohnsteuerhilfeverein erloschen, zurückgenommen oder widerrufen worden, so kann die Aufsichtsbehörde auf Antrag erlauben, daß der Verein einen Beauftragten zur Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bestellt.
 
@@ -1599,9 +1599,9 @@ c) der Sitz aus dem Registerbezirk verlegt wird;
 
 # § 76c – Mitteilungspflichten; Einsicht in das Berufsregister
 
-(1) Die in das Berufsregister einzutragenden oder eingetragenen Tatsachen sind der zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
+(1) Die in das Berufsregister einzutragenden Tatsachen sind der zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
 
-1. im Fall des § 76a Absatz 1 Nummer 1 von dem einzutragenden Steuerberater oder Steuerbevollmächtigten;
+1. im Fall des § 76a Absatz 1 Nummer 1 von dem einzutragenden oder eingetragenen Steuerberater oder Steuerbevollmächtigten;
 
 2. im Fall des § 76a Absatz 1 Nummer 2, auch in Verbindung mit § 76a Absatz 2, von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der einzutragenden oder eingetragenen Berufsausübungsgesellschaft;
 
@@ -2471,7 +2471,7 @@ Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem Bundesgerichtshof w
 
 (2) Auf die Besetzung des Gerichts, die Ladung und die mündliche Verhandlung sind die Vorschriften entsprechend anzuwenden, die für die Hauptverhandlung vor dem erkennenden Gericht maßgebend sind, soweit sich nicht aus den folgenden Vorschriften etwas anderes ergibt.
 
-(3) In der Ladung ist die dem Mitglied der Steuerberaterkammer zur Last gelegte Pflichtverletzung durch Anführung der sie begründenden Tatsachen zu bezeichnen; ferner sind die Beweismittel anzugeben. Dies ist jedoch nicht erforderlich, wenn dem Steuerberater oder Steuerbevollmächtigten die Anschuldigungsschrift bereits mitgeteilt worden ist.
+(3) In der Ladung ist die dem Mitglied der Steuerberaterkammer zur Last gelegte Pflichtverletzung durch Anführung der sie begründenden Tatsachen zu bezeichnen; ferner sind die Beweismittel anzugeben. Dies ist jedoch nicht erforderlich, wenn dem Mitglied der Steuerberaterkammer die Anschuldigungsschrift bereits mitgeteilt worden ist.
 
 (4) Den Umfang der Beweisaufnahme bestimmt das Gericht nach pflichtmäßigem Ermessen, ohne an Anträge der Staatsanwaltschaft oder des Mitglieds der Steuerberaterkammer gebunden zu sein.
 
