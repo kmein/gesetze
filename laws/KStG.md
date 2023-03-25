@@ -1506,7 +1506,8 @@ Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse
 
 (10) § 37 Abs. 6 und 7 gilt entsprechend.
 
-(+++ § 38: Zur Weiteranwendung vgl. § 34 Abs. 13 +++)
+(+++ § 38: Zur Weiteranwendung vgl. § 34 Abs. 13 +++)  
+§ 38 Abs. 5 u. 6: IVm § 34 Abs. 16 Satz 1 idF d. G v. 20.12.2007 I 3150 u. § 34 Abs. 14 Satz 1 idF d. G v. 25.7.2014 I 1266 nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 7.12.2022; 2023 I Nr. 86 - 2 BvR 988/16 -
 
 # § 39 – Einlagen der Anteilseigner und Sonderausweis
 

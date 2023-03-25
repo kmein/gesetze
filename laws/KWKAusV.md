@@ -609,6 +609,8 @@ Die Höhe der Pönale nach Absatz 1 Nummer 3 berechnet sich aus der Gebotsmenge 
 
 (6) Die Übertragungsnetzbetreiber müssen die nach Absatz 1 zu leistenden Pönalen als Einnahme im Rahmen des Belastungsausgleichs nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen. Sie müssen den Eingang der Pönalen von Bietern der ausschreibenden Stelle unverzüglich mitteilen.
 
+(+++ § 21: Zur Nichtanwendung ab 1.7.2021 vgl. § 18 Abs. 3 Satz 3 Nr. 2 +++)
+
 # § 22 – Rechtsschutz
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten, sind nur mit dem Ziel zulässig, die ausschreibende Stelle zur Erteilung eines Zuschlags zu verpflichten. Rechtsbehelfe nach Satz 1 sind begründet, soweit der Beschwerdeführer im Zuschlagsverfahren nach § 11 ohne den Rechtsverstoß einen Zuschlag erhalten hätte. Die ausschreibende Stelle erteilt bei einem Rechtsbehelf nach Satz 1 über das nach § 3 bestimmte Ausschreibungsvolumen hinaus einen entsprechenden Zuschlag, soweit das Begehren des Rechtsbehelfsführers Erfolg hat und sobald die gerichtliche Entscheidung formell rechtskräftig ist. Im Übrigen bleibt der gerichtliche Rechtsschutz unberührt.

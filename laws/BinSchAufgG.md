@@ -19,9 +19,7 @@
 
 7. die Regelung und Überwachung des im Rahmen einer wirtschaftlichen Unternehmung erfolgenden Inverkehrbringens von Wasserfahrzeugen und Schwimmkörpern, die einer technischen Zulassung zum Verkehr bedürfen, sowie deren Bauteile und Ausrüstungsgegenstände.
 
-(2) Zuständig für die Verwaltungsaufgaben, die dem Bund obliegen, sind die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, soweit nicht in diesem Gesetz oder auf Grund dieses Gesetzes etwas anderes bestimmt ist. Sie können im Rahmen des Absatzes 1 Nr. 2 und 5 nach pflichtgemäßem Ermessen die notwendigen Maßnahmen zur Abwehr von Gefahren und schädlichen Umwelteinwirkungen sowie zur Beseitigung von Störungen auf den Bundeswasserstraßen treffen. Die in Rechtsverordnungen nach § 3 Abs. 1 Nr. 4 für die funktechnische Sicherheit betreffende Aufgaben als zuständig bestimmte Behörde bedient sich der Hilfe der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur).
-
-(3) (weggefallen)
+(2) Zuständig für die Verwaltungsaufgaben, die dem Bund obliegen, sind die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, soweit nicht in diesem Gesetz oder auf Grund dieses Gesetzes etwas anderes bestimmt ist. Sie können im Rahmen des Absatzes 1 Nummer 2 und 5 nach pflichtgemäßem Ermessen die notwendigen Maßnahmen zur Abwehr von Gefahren und schädlichen Umwelteinwirkungen sowie zur Beseitigung von Störungen auf den Bundeswasserstraßen treffen. Die in Rechtsverordnungen nach § 3 Absatz 1 Nummer 4 für die funktechnische Sicherheit betreffende Aufgaben als zuständig bestimmte Behörde bedient sich der Hilfe der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur).
 
 # § 2 – Erlaubnis zur Fahrt
 
@@ -47,17 +45,19 @@ unmittelbar oder mittelbar über die willensbestimmende Mehrheit der Anteile, de
 
 1. für Wasserfahrzeuge, die für Sport- oder Erholungszwecke verwendet werden (Sportfahrzeuge),
 
-2. für Wasserfahrzeuge, die nach § 10 Abs. 3 der Schiffsregisterordnung keiner Eintragung in das Schiffsregister bedürfen,
+2. für Wasserfahrzeuge, die nach § 10 Absatz 3 der Schiffsregisterordnung keiner Eintragung in das Schiffsregister bedürfen,
 
 3. soweit sich dies aus zwischenstaatlichen Vereinbarungen, insbesondere aus der Revidierten Rheinschifffahrtsakte, oder aus Rechtsvorschriften zwischenstaatlicher Einrichtungen, denen der Bund nach Artikel 24 des Grundgesetzes Hoheitsrechte übertragen hat, ergibt.
 
-(3) Über die Erlaubnis entscheidet auf Antrag des Eigentümers oder des Ausrüsters das Bundesministerium für Verkehr und digitale Infrastruktur. Die Erlaubnis kann auf einzelne Verkehrsarten, Güterarten, Gütermengen, Verkehrsrelationen oder auf andere Weise beschränkt werden. Sie kann insbesondere versagt werden, soweit die Gegenseitigkeit nicht gewährleistet ist oder das Befahren Belange der Bundesrepublik Deutschland beeinträchtigt. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Befugnis zur Erteilung der Erlaubnis auf die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes übertragen.
+(3) Über die Erlaubnis entscheidet auf Antrag des Eigentümers oder des Ausrüsters das Bundesministerium für Digitales und Verkehr. Die Erlaubnis kann auf einzelne Verkehrsarten, Güterarten, Gütermengen, Verkehrsrelationen oder auf andere Weise beschränkt werden. Sie kann insbesondere versagt werden, soweit die Gegenseitigkeit nicht gewährleistet ist oder das Befahren Belange der Bundesrepublik Deutschland beeinträchtigt. Das Bundesministerium für Digitales und Verkehr kann die Befugnis zur Erteilung der Erlaubnis auf die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes übertragen.
 
 (4) Die Erlaubnispflicht wird durch rechtsgeschäftliche, firmenrechtliche oder andere Gestaltungen oder Scheintatbestände, die zur Umgehung geeignet sind, nicht berührt.
 
+§ 2 Abs. 3 Satz 1 u. 4 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
+
 # § 3 – Rechtsverordnungen
 
-(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Rahmen des § 1 Abs. 1 Nr. 1 bis 5 oder 7 Rechtsverordnungen zu erlassen über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Rahmen des § 1 Absatz 1 Nummer 1 bis 5 oder 7 Rechtsverordnungen zu erlassen über
 
 1. das Verhalten im Verkehr, einschließlich
 
@@ -111,13 +111,13 @@ b) die auf Wasserfahrzeugen, Schwimmkörpern und schwimmenden Anlagen einzubauen
 
 In Rechtsverordnungen nach Satz 1 können auch die Rücknahme, der Widerruf, der Entzug, die Aussetzung oder das Ruhen von Befähigungszeugnissen und sonstigen Erlaubnissen, von Genehmigungen, Zulassungen oder Registrierungen geregelt werden.
 
-(2) Rechtsverordnungen nach Absatz 1 Nr. 1, 2 und 2a können auch erlassen werden
+(2) Rechtsverordnungen nach Absatz 1 Nummer 1, 2 und 2a können auch erlassen werden
 
 1. zur Abwehr von Gefahren für das Wasser,
 
 2. zur Verhütung von der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes; dabei können Emissionsgrenzwerte unter Berücksichtigung der technischen Entwicklung auch für einen Zeitpunkt nach Inkrafttreten der Rechtsverordnung festgesetzt werden.
 
-(3) Wegen der Anforderungen nach Absatz 1 Nr. 2 kann auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen hingewiesen werden; hierbei ist
+(3) Wegen der Anforderungen nach Absatz 1 Nummer 2 kann auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen hingewiesen werden; hierbei ist
 
 1. in der Rechtsverordnung das Datum der Bekanntmachung anzugeben und die Bezugsquelle genau zu bezeichnen,
 
@@ -125,7 +125,7 @@ In Rechtsverordnungen nach Satz 1 können auch die Rücknahme, der Widerruf, der
 
 (4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung das technische Verfahren der Schiffseichung (Schiffsvermessung), die Erteilung der erforderlichen Zeugnisse und die Mitwirkung der Eigentümer der Wasserfahrzeuge, Schwimmkörper und schwimmenden Anlagen zu regeln.
 
-(5) Rechtsverordnungen nach Absatz 1 Nr. 1, 2 und 2a werden von dem Bundesministerium für Digitales und Verkehr und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz gemeinsam erlassen, soweit sie Vorschriften zur Verhütung von der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes enthalten. Rechtsverordnungen nach Absatz 1 Nr. 5 und 8 bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales. Rechtsverordnungen nach Absatz 1 Nr. 2 bedürfen, soweit sie den über den Arbeitsschutz hinausgehenden Gesundheitsschutz (§ 1 Abs. 1 Nr. 5) berühren, auch des Einvernehmens mit dem Bundesministerium für Gesundheit.
+(5) Rechtsverordnungen nach Absatz 1 Nummer 1, 2 und 2a werden von dem Bundesministerium für Digitales und Verkehr und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz gemeinsam erlassen, soweit sie Vorschriften zur Verhütung von der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes enthalten. Rechtsverordnungen nach Absatz 1 Nummer 5 und 8 bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales. Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen, soweit sie den über den Arbeitsschutz hinausgehenden Gesundheitsschutz (§ 1 Absatz 1 Nummer 5) berühren, auch des Einvernehmens mit dem Bundesministerium für Gesundheit.
 
 (6) In den Rechtsverordnungen nach den Absätzen 1 und 4 kann auch
 
@@ -145,9 +145,9 @@ technischer Mängel eines Wasserfahrzeugs, einer Anlage, eines Instrumentes, ein
 
 eine Erlaubnis entzogen und eine Urkunde hierüber vorläufig sichergestellt oder eingezogen werden kann,
 
-2. die Befugnis zur Übermittlung von personenbezogenen Daten durch die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die Polizeidienststellen der Länder oder durch andere mit Aufgaben nach § 1 Abs. 1 Nr. 1 bis 7 betraute Stellen eingeräumt werden, soweit dies erforderlich ist
+2. die Befugnis zur Übermittlung von personenbezogenen Daten durch die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die Polizeidienststellen der Länder oder durch andere mit Aufgaben nach § 1 Absatz 1 Nummer 1 bis 7 betraute Stellen eingeräumt werden, soweit dies erforderlich ist
 
-a) zur Erfüllung der Aufgaben nach § 1 Abs. 1 Nr. 1 bis 7,
+a) zur Erfüllung der Aufgaben nach § 1 Absatz 1 Nummer 1 bis 7,
 
 b) für die ordnungsgemäße Durchführung von Prüfungen und Untersuchungen,
 
@@ -239,17 +239,17 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Arzt nicht mehr über die
 
 # § 5 – Hamburger Hafen
 
-Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße Elbe ist der Bund im Rahmen des § 1 Abs. 1 Nr. 2, 4 und 5 nicht für Maßnahmen zuständig, die das Verhalten im Verkehr betreffen. Seine Maßnahmen erstrecken sich im Übrigen nicht auf Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen, die ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind, auf die Führung und Besetzung solcher Fahrzeuge sowie auf Hafenlotsen.
+Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße Elbe ist der Bund im Rahmen des § 1 Absatz 1 Nummer 2, 4 und 5 nicht für Maßnahmen zuständig, die das Verhalten im Verkehr betreffen. Seine Maßnahmen erstrecken sich im Übrigen nicht auf Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen, die ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind, auf die Führung und Besetzung solcher Fahrzeuge sowie auf Hafenlotsen.
 
 # § 6 – Überwachungsbefugnis
 
-(1) Zur Durchführung der Aufgaben nach § 1 Abs. 1 können die damit betrauten Personen Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen und deren Betriebs- und Geschäftsräume sowie die zur Herstellung von Wasserfahrzeugen und Schwimmkörpern sowie von Anlagen, Ausrüstungsgegenständen, Bauteilen, Instrumenten und Geräten für den Schiffsbetrieb dienenden Betriebs- und Geschäftsräume betreten und Prüfungen vornehmen. Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Räume, die zugleich Wohnzwecken dienen, dürfen diese Befugnisse nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung ausgeübt werden; insoweit wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
+(1) Zur Durchführung der Aufgaben nach § 1 Absatz 1 können die damit betrauten Personen Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen und deren Betriebs- und Geschäftsräume sowie die zur Herstellung von Wasserfahrzeugen und Schwimmkörpern sowie von Anlagen, Ausrüstungsgegenständen, Bauteilen, Instrumenten und Geräten für den Schiffsbetrieb dienenden Betriebs- und Geschäftsräume betreten und Prüfungen vornehmen. Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Räume, die zugleich Wohnzwecken dienen, dürfen diese Befugnisse nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung ausgeübt werden; insoweit wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
-(1a) Die mit der Durchführung der Aufgabe nach § 1 Absatz 1 Nummer 2 betrauten Personen dürfen Wasserfahrzeuge zur Verkehrskontrolle einschließlich der Kontrolle der Verkehrstüchtigkeit anhalten und deren Betriebs- und Geschäftsräume betreten\*. Absatz 1 Satz 2 gilt entsprechend.
+(1a) Die mit der Durchführung der Aufgabe nach § 1 Absatz 1 Nummer 2 betrauten Personen dürfen Wasserfahrzeuge zur Verkehrskontrolle einschließlich der Kontrolle der Verkehrstüchtigkeit anhalten und deren Betriebs- und Geschäftsräume betreten. Absatz 1 Satz 2 gilt entsprechend.
 
 (2) Der Eigentümer und der Führer eines Wasserfahrzeugs, Schwimmkörpers oder einer schwimmenden Anlage und der sonst für die Sicherheit Verantwortliche sowie der Hersteller der Wasserfahrzeuge und Schwimmkörper sowie der Anlagen, Ausrüstungsgegenstände, Bauteile, Instrumente und Geräte für den Schiffsbetrieb sind verpflichtet, den mit der Überwachung betrauten Personen die Maßnahmen nach Absatz 1 oder Absatz 1a zu gestatten, die bei der Überprüfung benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Erfüllung der genannten Aufgaben erforderlich sind.
 
-(3) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+(3) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 # § 6a – Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen
 
@@ -259,15 +259,13 @@ Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße
 
 1. die erforderlichen Ermittlungen anstellen, auch Einsicht in die Bücher und Geschäftspapiere aller am Zustandekommen eines Vertrages über eine Verkehrsleistung und seiner Durchführung Beteiligten nehmen;
 
-2. von den in Nummer 1 genannten Beteiligten und den in deren Geschäftsbetrieb tätigen Personen Auskunft über alle Tatsachen verlangen, die für die Durchführung der Überwachung von Bedeutung sind; die Auskunft ist wahrheitsgemäß nach bestem Wissen und Gewissen zu erteilen; der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde;
+2. von den in Nummer 1 genannten Beteiligten und den in deren Geschäftsbetrieb tätigen Personen Auskunft über alle Tatsachen verlangen, die für die Durchführung der Überwachung von Bedeutung sind; die Auskunft ist wahrheitsgemäß nach bestem Wissen und Gewissen zu erteilen; der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde;
 
-3. Grundstücke und Räume der in Nummer 1 genannten Beteiligten betreten, um an Ort und Stelle innerhalb der üblichen Geschäfts- und Arbeitsstunden Ermittlungen durchzuführen; die in Nummer 2 genannten Personen haben ihnen jede Auskunft und Nachweisung zu erteilen, deren sie bedürfen; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) wird insoweit eingeschränkt;
+3. Grundstücke und Räume der in Nummer 1 genannten Beteiligten betreten, um an Ort und Stelle innerhalb der üblichen Geschäfts- und Arbeitsstunden Ermittlungen durchzuführen; die in Nummer 2 genannten Personen haben ihnen jede Auskunft und Nachweisung zu erteilen, deren sie bedürfen; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt;
 
 4. auch außerhalb der Geschäftsräume der Beteiligten, insbesondere auf den Bundeswasserstraßen, in Häfen, auf Lade- und Löschplätzen Ladung und Begleitpapiere prüfen.
 
-(3) Die in Absatz 2 Nr. 1 genannten und die in deren Geschäftsbereich tätigen Personen haben der Generaldirektion Wasserstraßen und Schifffahrt oder ihren Beauftragten bei der Durchführung der Überwachungsmaßnahmen die erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
-
-(4) (weggefallen)
+(3) Die in Absatz 2 Nummer 1 genannten und die in deren Geschäftsbereich tätigen Personen haben der Generaldirektion Wasserstraßen und Schifffahrt oder ihren Beauftragten bei der Durchführung der Überwachungsmaßnahmen die erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 
 # § 6b – Verwaltungszwang
 
@@ -279,19 +277,17 @@ Die Generaldirektion Wasserstraßen und Schifffahrt kann die Durchführung der i
 
 (2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Abs. 1 als Schiffsführer eine Bundeswasserstraße ohne Erlaubnis befährt oder als Eigentümer oder Ausrüster das unerlaubte Befahren einer Bundeswasserstraße veranlasst,
+1. entgegen § 2 Absatz 1 als Schiffsführer eine Bundeswasserstraße ohne Erlaubnis befährt oder als Eigentümer oder Ausrüster das unerlaubte Befahren einer Bundeswasserstraße veranlasst,
 
-2. entgegen § 6 Abs. 2 den mit der Überwachung betrauten Personen das Betreten des Wasserfahrzeugs, des Schwimmkörpers, der schwimmenden Anlage oder der Betriebs- oder Geschäftsräume oder die Vornahme einer Prüfung nicht gestattet, Arbeitskräfte oder Hilfsmittel nicht bereitstellt, Auskünfte nicht erteilt oder Unterlagen nicht vorlegt oder
+2. entgegen § 6 Absatz 2 den mit der Überwachung betrauten Personen das Betreten des Wasserfahrzeugs, des Schwimmkörpers, der schwimmenden Anlage oder der Betriebs- oder Geschäftsräume oder die Vornahme einer Prüfung nicht gestattet, Arbeitskräfte oder Hilfsmittel nicht bereitstellt, Auskünfte nicht erteilt oder Unterlagen nicht vorlegt oder
 
-3. entgegen § 9 Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis nicht, nicht richtig oder nicht rechtzeitig führt.
+3. entgegen § 9 Absatz 3, auch in Verbindung mit einer Rechtsverordnung nach Absatz 4, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis nicht, nicht richtig oder nicht rechtzeitig führt.
 
-(3) Ordnungswidrig handelt ferner, wer als Binnenlotse entgegen § 3b Abs. 2 andere als die festgesetzten Entgelte fordert oder annimmt.
+(3) Ordnungswidrig handelt ferner, wer als Binnenlotse entgegen § 3b Absatz 2 andere als die festgesetzten Entgelte fordert oder annimmt.
 
-(4) Die Ordnungswidrigkeit nach Absatz 1, Absatz 2 Nr. 2 und 3 und Absatz 3 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 2 Nr. 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden. Bei Zuwiderhandlungen gegen die von den Rheinuferstaaten oder den Moseluferstaaten gleich lautend erlassenen schifffahrtspolizeilichen Vorschriften und die auf Grund solcher Vorschriften ergangenen vollziehbaren Anordnungen gilt für die Höhe der Geldbuße der Rahmen des Artikels 32 der Revidierten Rheinschifffahrtsakte.
+(4) Die Ordnungswidrigkeit nach Absatz 1, Absatz 2 Nummer 2 und 3 und Absatz 3 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 2 Nummer 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden. Bei Zuwiderhandlungen gegen die von den Rheinuferstaaten oder den Moseluferstaaten gleich lautend erlassenen schifffahrtspolizeilichen Vorschriften und die auf Grund solcher Vorschriften ergangenen vollziehbaren Anordnungen gilt für die Höhe der Geldbuße der Rahmen des Artikels 32 der Revidierten Rheinschifffahrtsakte.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und Schifffahrt.
-
-(6) (weggefallen)
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 # § 8 – Verarbeitung von Daten im Binnenschiffsverkehr
 
@@ -471,7 +467,7 @@ d) auf Grund des Gesetzes zur Sicherung von Verkehrsleistungen vom 23. Juli 2004
 
 an die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Polizeidienststellen der Länder, an die obersten Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder, an die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation und an die jeweilige deutsche Niederlassung der im Anhang VII der Anlage zur Binnenschiffsuntersuchungsordnung aufgeführten Klassifikationsgesellschaften,
 
-2. Überprüfung von Angaben, die im Zusammenhang mit der Beantragung und Ausstellung der in Artikel 2 Abs. 3 der Revidierten Rheinschifffahrtsakte genannten Urkunde gemacht werden, an die vom Bundesministerium für Digitales und Verkehr zu bestimmende Stelle,
+2. Überprüfung von Angaben, die im Zusammenhang mit der Beantragung und Ausstellung der in Artikel 2 Absatz 3 der Revidierten Rheinschifffahrtsakte genannten Urkunde gemacht werden, an die vom Bundesministerium für Digitales und Verkehr zu bestimmende Stelle,
 
 3. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr oder sonst im Zusammenhang mit Wasserfahrzeugen oder Dokumenten, die das Schiff, seine Ladung oder Besatzung betreffen, stehen, oder Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte, Staatsanwaltschaften, das Bundeskriminalamt als Strafverfolgungsbehörde, die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der Polizeidienststellen der Länder,
 
@@ -495,7 +491,7 @@ erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu d
 
 1. eine digitale Kopie aller Zeugnisse,
 
-2. die Angaben, die in Anlage 2 des Europäischen Standards der technischen Vorschriften für Binnenschiffe gemäß Anhang II der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates vom 14. September 2016 (ABl. L 252 vom 16.9.2016, S. 118; L 181 vom 5.7.2019, S. 123), die zuletzt durch die Delegierte Verordnung (EU) 2019/1668 vom 26. Juni 2019 (ABl. L 256 vom 7.10.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung genannt sind,
+2. die Angaben, die in Anlage 2 des Europäischen Standards der technischen Vorschriften für Binnenschiffe gemäß Anhang II der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates vom 14. September 2016 (ABl. L 252 vom 16.9.2016, S. 118; L 181 vom 5.7.2019, S. 123), die zuletzt durch die Delegierte Verordnung (EU) 2019/1668 vom 26. Juni 2019 (ABl. L 256 vom 7.10.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung genannt sind,
 
 3. die in Absatz 2 Nummer 4 und 5 genannten Angaben sowie
 
@@ -509,11 +505,11 @@ in automatisierter Form an die Europäische Kommission zur Einstellung in die do
 
 Die Amtsgerichte, bei denen ein Binnenschiffsregister geführt wird, teilen Tatsachen, die
 
-1. nach den §§ 12 und 17 Abs. 1 und 4 der Schiffsregisterordnung zum Binnenschiffsregister angemeldet werden,
+1. nach den §§ 12 und 17 Absatz 1 und 4 der Schiffsregisterordnung zum Binnenschiffsregister angemeldet werden,
 
-2. nach § 4 Abs. 3 der Schiffsregisterordnung angegeben werden,
+2. nach § 4 Absatz 3 der Schiffsregisterordnung angegeben werden,
 
-der Datei führenden Stelle nach § 9 Abs. 1 mit.
+der Datei führenden Stelle nach § 9 Absatz 1 mit.
 
 # § 11 – Ordnungswidrigkeitendatei
 
@@ -539,7 +535,7 @@ der Datei führenden Stelle nach § 9 Abs. 1 mit.
 
 (3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung
 
-1. das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2 Nr. 3 bis 6,
+1. das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2 Nummer 3 bis 6,
 
 2. Verfahren von besonderer Bedeutung nach Absatz 7 und die dabei einzuhaltenden Löschungsfristen
 
@@ -565,7 +561,7 @@ an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und d
 
 (5) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen an die hierfür zuständigen Stellen anderer Staaten übermittelt werden, soweit dies
 
-1. zur Erfüllung des Artikels 1 Abs. 5 des Zusatzprotokolls zur Revidierten Rheinschifffahrtsakte,
+1. zur Erfüllung des Artikels 1 Absatz 5 des Zusatzprotokolls zur Revidierten Rheinschifffahrtsakte,
 
 2. zur Verfolgung von Zuwiderhandlungen gegen Vorschriften auf dem Gebiet der Schifffahrt,
 
@@ -629,7 +625,7 @@ ein benannter Vertreter mit den Angaben nach Buchstabe a und Name der Vereinigun
 
 1. Durchführung von Verwaltungsaufgaben nach diesem Gesetz oder auf Grund dieses Gesetzes oder des Seeaufgabengesetzes erlassener Rechtsvorschriften an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder an andere mit Aufgaben der Kennzeichnung betraute Stellen,
 
-2. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, der Vollstreckung oder des Vollzuges von Maßnahmen im Sinne des § 11 Abs. 1 Nr. 8 des Strafgesetzbuches an Gerichte, Staatsanwaltschaften und das Bundeskriminalamt als Strafverfolgungsbehörde, oder
+2. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, der Vollstreckung oder des Vollzuges von Maßnahmen im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches an Gerichte, Staatsanwaltschaften und das Bundeskriminalamt als Strafverfolgungsbehörde, oder
 
 3. Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte und Staatsanwaltschaften übermittelt werden.
 
@@ -687,7 +683,7 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 9. im Fall eines Sportbootführerscheins zusätzlich das Datum der Erteilung einer Ersatzausfertigung nach einer Verlustmeldung.
 
-(3) Bei der Herstellung der Befähigungszeugnisse oder sonstigen Befähigungsnachweise durch Dritte hat die Generaldirektion Wasserstraßen und Schifffahrt oder der nach § 3a Beliehene dem Hersteller die hierfür erforderlichen Daten zu übermitteln. Der Hersteller darf ausschließlich zum Nachweis des Verbleibs der Befähigungszeugnisse oder sonstigen Befähigungsnachweise alle Seriennummern der hergestellten Befähigungszeugnisse oder sonstigen Befähigungsnachweise erheben, speichern und verwenden. Die Erhebung, Speicherung und Verwendung der übrigen im Befähigungszeugnis oder in dem sonstigen Befähigungsnachweis enthaltenen Angaben sind nur zulässig, sofern die Angaben ausschließlich und vorübergehend der Herstellung des Befähigungszeugnisses oder sonstigen Befähigungsnachweise und der Übermittlung der entsprechenden Informationen an die Generaldirektion Wasserstraßen und Schifffahrt dienen. Die in den Sätzen 2 und 3 genannten Angaben sind nach der Erhebung, Speicherung oder Verwendung vom Hersteller unverzüglich zu löschen. Die Sätze 1 bis 4 gelten auch für die Erzeugung eines Befähigungszeugnisses oder sonstigen Befähigungsnachweises in digitaler Form.
+(3) Bei der Herstellung der Befähigungszeugnisse oder sonstigen Befähigungsnachweise durch Dritte hat die Generaldirektion Wasserstraßen und Schifffahrt oder der nach § 3a Beliehene dem Hersteller die hierfür erforderlichen Daten zu übermitteln. Der Hersteller darf ausschließlich zum Nachweis des Verbleibs der Befähigungszeugnisse oder sonstigen Befähigungsnachweise alle Seriennummern der hergestellten Befähigungszeugnisse oder sonstigen Befähigungsnachweise erheben, speichern und verwenden. Die Erhebung, Speicherung und Verwendung der übrigen im Befähigungszeugnis oder in dem sonstigen Befähigungsnachweis enthaltenen Angaben sind nur zulässig, sofern die Angaben ausschließlich und vorübergehend der Herstellung des Befähigungszeugnisses oder sonstigen Befähigungsnachweises und der Übermittlung der entsprechenden Informationen an die Generaldirektion Wasserstraßen und Schifffahrt dienen. Die in den Sätzen 2 und 3 genannten Angaben sind nach der Erhebung, Speicherung oder Verwendung vom Hersteller unverzüglich zu löschen. Die Sätze 1 bis 4 gelten auch für die Erzeugung eines Befähigungszeugnisses oder sonstigen Befähigungsnachweises in digitaler Form.
 
 (4) Die Generaldirektion Wasserstraßen und Schifffahrt kann den nach § 3a Absatz 1 Beliehenen zur Feststellung, ob eine Person einen von diesen Verbänden erteilten Befähigungsnachweis besitzt, einen lesenden und schreibenden Zugriff auf die Datei nach Absatz 1 gewähren. Sofern dies für die Erteilung der Befähigungsnachweise erforderlich ist, kann die Generaldirektion Wasserstraßen und Schifffahrt den nach § 3a Absatz 1 Beliehenen zur Feststellung, ob eine Person ein Befähigungszeugnis oder einen sonstigen Befähigungsnachweis für die Führung von Sportfahrzeugen besitzt und welchen Gültigkeitsstatus dieser hat, zudem einen lesenden Zugriff auf diesbezüglich gespeicherte Informationen zu dieser Person in der Datei nach Absatz 1 gewähren. Sind zu einer Person keine Informationen nach Satz 1 oder Satz 2 in der Datei nach Absatz 1 gespeichert, ist dies den in Satz 1 genannten juristischen Personen von der Generaldirektion Wasserstraßen und Schifffahrt automatisiert mitzuteilen, ohne dass der in Satz 1 oder Satz 2 genannte lesende oder schreibende Zugriff gewährt wird.
 
@@ -728,8 +724,6 @@ Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet
 2. wenn eine amtliche Mitteilung über den Tod des Inhabers des Befähigungszeugnisses, sonstigen Befähigungsnachweises oder Schifferdienstbuchs eingeht oder
 
 3. wenn das letzte Befähigungszeugnis oder der letzte sonstige Befähigungsnachweis eines Inhabers seit mehr als fünf Jahren nicht mehr gültig ist und kein Entzug oder keine Aussetzung eines weiteren Befähigungszeugnisses oder eines weiteren sonstigen Befähigungsnachweises angeordnet wurde oder – im Fall von Sportbootführerscheinen – beim Tod des Inhabers.
-
-(9) (weggefallen)
 
 # § 14 – Erlass von Rechtsverordnungen
 
