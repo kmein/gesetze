@@ -1014,6 +1014,7 @@
 - [BNV](laws/BNV.md) Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit
 - [BodenlAusbV](laws/BodenlAusbV.md) Verordnung über die Berufsausbildung zum Bodenleger/zur Bodenlegerin
 - [BodSchätzDV](laws/BodSchätzDV.md) Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes
+- [BodSchätzG](laws/BodSchätzG.md) Gesetz zur Schätzung des landwirtschaftlichen Kulturbodens
 - [BodSchVereinhG](laws/BodSchVereinhG.md) Gesetz zur Vereinheitlichung der Rechtsverhältnisse bei Bodenschätzen
 - [BodSeeSchÜbk](laws/BodSeeSchÜbk.md) Übereinkommen über die Schiffahrt auf dem Bodensee
 - [BodSeeSchÜbkZProt](laws/BodSeeSchÜbkZProt.md) Zusatzprotokoll zu dem Übereinkommen über die Schiffahrt auf dem Bodensee vom 1. Juni 1973
