@@ -4068,6 +4068,7 @@
 - [MusikfachhAusbV](laws/MusikfachhAusbV.md) Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin *)
 - [MusikfachhPrErprV](laws/MusikfachhPrErprV.md) Verordnung über die Erprobung der Durchführung der Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen in der Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 - [MV](laws/MV.md) Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten
+- [MVITAufstV](laws/MVITAufstV.md) Verordnung über den Aufstieg in den höheren technischen oder nichttechnischen Verwaltungsdienst des Bundes über den Masterstudiengang „Verwaltungsinformatik“ der Universität der Bundeswehr München
 - [MVSchPAnO](laws/MVSchPAnO.md) Schiffahrtspolizeiliche Anordnung über die Ergänzung von Schiffahrtszeichen auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-Vorpommern
 - [MVTAusbV](laws/MVTAusbV.md) Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall *
 - [MVzAFWoG](laws/MVzAFWoG.md) Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen
