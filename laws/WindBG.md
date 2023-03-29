@@ -65,7 +65,25 @@ Im Fall des Satzes 1 Nummer 1 kann das Land durch ein Landesgesetz oder als Ziel
 
 (4) Bei einem Raumordnungs- oder Flächennutzungsplan, der keine Bestimmung im Hinblick auf die Platzierung der Rotorblätter von Windenergieanlagen außerhalb einer ausgewiesenen Fläche trifft, kann der Planungsträger, der den Beschluss über den Plan gefasst hat, durch Beschluss bestimmen, dass die Rotorblätter nicht innerhalb der ausgewiesenen Fläche liegen müssen, wenn der Plan bis zum 1. Februar 2024 wirksam geworden ist. Der Beschluss ist öffentlich bekannt zu geben oder zu verkünden.
 
-# § 6 – Evaluierung; Verordnungsermächtigung
+# § 6 – Verfahrenserleichterungen in Windenergiegebieten; Verordnungsermächtigung
+
+(1) Wird die Errichtung und der Betrieb oder die Änderung der Lage, der Beschaffenheit oder des Betriebs einer Windenergieanlage in einem zum Zeitpunkt der Genehmigungserteilung ausgewiesenen Windenergiegebiet nach § 2 Nummer 1 beantragt, ist im Genehmigungsverfahren abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung und abweichend von den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes eine artenschutzrechtliche Prüfung nicht durchzuführen. Satz 1 ist nur anzuwenden,
+
+1. wenn bei Ausweisung des Windenergiegebietes eine Umweltprüfung nach § 8 des Raumordnungsgesetzes oder § 2 Absatz 4 des Baugesetzbuchs durchgeführt wurde und
+
+2. soweit das Windenergiegebiet nicht in einem Natura 2000-Gebiet, einem Naturschutzgebiet oder einem Nationalpark liegt.
+
+Die zuständige Behörde hat auf Grundlage vorhandener Daten geeignete und verhältnismäßige Minderungsmaßnahmen in den Windenergiegebieten anzuordnen, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, sofern die Daten eine ausreichende räumliche Genauigkeit aufweisen und zum Zeitpunkt der Entscheidung über den Genehmigungsantrag nicht älter als fünf Jahre sind. Geeignete Minderungsmaßnahmen nach Satz 3 zum Schutz von Fledermäusen hat die Behörde insbesondere in Form einer Abregelung der Windenergieanlage anzuordnen, die auf Grundlage einer zweijährigen akustischen Erfassung der Fledermausaktivität im Gondelbereich anzupassen ist. Soweit geeignete und verhältnismäßige Maßnahmen nicht verfügbar oder Daten nicht vorhanden sind, hat der Betreiber eine Zahlung in Geld zu leisten. Die Zahlung ist von der zuständigen Behörde zusammen mit der Genehmigung für die Dauer des Betriebes als jährlich zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt:
+
+1. 450 Euro je Megawatt installierter Leistung, sofern Schutzmaßnahmen für Vögel angeordnet werden, die die Abregelung von Windenergieanlagen betreffen, oder Schutzmaßnahmen, deren Investitionskosten höher als 17 000 Euro je Megawatt liegen,
+
+2. ansonsten 3 000 Euro je Megawatt installierter Leistung.
+
+Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht und die der Sicherung oder Verbesserung des Erhaltungszustandes der durch den Betrieb von Windenergieanlagen betroffenen Arten dienen. Das Bundesministerium für Wirtschaft und Klimaschutz soll im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der nach Satz 5 erforderlichen Zahlung bestimmen. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.
+
+(2) Absatz 1 ist auf Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2024 stellt. Der Antragsteller hat bei der Antragstellung nachzuweisen, dass er das Grundstück, auf dem die Windenergieanlage errichtet werden soll, für die Errichtung und den Betrieb vertraglich gesichert hat. Absatz 1 ist auch auf bereits laufende Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und bei denen noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 bis 3 sind für das gesamte Genehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2024 abgeschlossen wird.
+
+# § 7 – Evaluierung; Verordnungsermächtigung
 
 (1) Die Bundesregierung berichtet ab dem 1. Januar 2024 nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zum Stand der Umsetzung dieses Gesetzes.
 

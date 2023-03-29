@@ -1,4 +1,4 @@
-% Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder  (Fruchtsaft- und Erfrischungsgetränke- und Teeverordnung - FrSaftErfrischGetrTeeV)
+% Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge oder Kleinkinder  (Fruchtsaft-, Erfrischungsgetränke- und Teeverordnung - FrSaftErfrischGetrTeeV)
 % Ausfertigungsdatum: 24.05.2004
  
 # Eingangsformel

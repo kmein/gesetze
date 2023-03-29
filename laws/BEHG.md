@@ -39,6 +39,10 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
  
 
+# § 1 – Zweck des Gesetzes
+
+Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten für Emissionen aus Brennstoffen zu schaffen und für eine Bepreisung dieser Emissionen zu sorgen, soweit diese Emissionen nicht vom EU-Emissionshandel erfasst sind, um damit zur Erreichung der nationalen Klimaschutzziele, einschließlich des langfristigen Ziels der Netto-Treibhausgasneutralität bis zum Jahr 2045, und zur Erreichung der Minderungsziele nach der EU-Klimaschutzverordnung sowie zur Verbesserung der Energieeffizienz beizutragen. Zweck des nationalen Emissionshandelssystems ist die Bepreisung fossiler Treibhausgasemissionen.
+
 # § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Emission von Treibhausgasen aus den in Anlage 1 genannten Brennstoffen, die gemäß den Absätzen 2 und 2a in Verkehr gebracht werden.

@@ -2248,7 +2248,7 @@
 - [Friseur-MstrV](laws/Friseur-MstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Friseur-Handwerk
 - [FriseurAusbV 2008](laws/FriseurAusbV_2008.md) Verordnung über die Berufsausbildung zum Friseur/zur Friseurin *)
 - [FrSaftAusbV](laws/FrSaftAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Fruchtsafttechnik
-- [FrSaftErfrischGetrTeeV](laws/FrSaftErfrischGetrTeeV.md) Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder
+- [FrSaftErfrischGetrTeeV](laws/FrSaftErfrischGetrTeeV.md) Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
 - [FrStllgV](laws/FrStllgV.md) Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften des Personenbeförderungsgesetzes
 - [FrühV](laws/FrühV.md) Verordnung zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder
 - [FrUmrV 4](laws/FrUmrV_4.md) Vierte Verordnung über den Umrechnungssatz für französische Franken bei Anwendung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts

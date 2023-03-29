@@ -243,9 +243,9 @@ ein Bauteil oder eine selbstständige technische Einheit auf dem Markt bereitste
 
 (4) Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2 Buchstabe d des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 13 Absatz 5 in Verbindung mit Absatz 1 in Verbindung mit Artikel 5 Absatz 1 in Verbindung mit Anhang II der Verordnung (EU) 2018/858 in Verbindung mit
 
-a) Artikel 5 Absatz 2 Satz 1 der Verordnung (EU) 715/2007,
+a) Artikel 5 Absatz 2 Satz 1 der Verordnung (EG) 715/2007,
 
-b) Artikel 5 Absatz 3 der Verordnung (EU) 595/2009 oder
+b) Artikel 5 Absatz 3 der Verordnung (EG) 595/2009 oder
 
 c) Artikel 6 Absatz 5 in Verbindung mit Absatz 2 der Verordnung (EU) Nr. 540/2014
 
