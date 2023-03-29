@@ -97,7 +97,7 @@ Die Umweltverträglichkeitsprüfung ist unselbständiger Teil verwaltungsbehörd
 
 # § 5 – Feststellung der UVP-Pflicht
 
-(1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben des Vorhabenträgers sowie eigener Informationen unverzüglich fest, dass nach den §§ 6 bis 14a für das Vorhaben eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) besteht oder nicht. Die Feststellung trifft die Behörde
+(1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben des Vorhabenträgers sowie eigener Informationen unverzüglich fest, dass nach den §§ 6 bis 14b für das Vorhaben eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) besteht oder nicht. Die Feststellung trifft die Behörde
 
 1. auf Antrag des Vorhabenträgers oder
 

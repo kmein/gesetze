@@ -23,11 +23,11 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach
 
 # § 5 – Zuständigkeit nach dem Infektionsschutzgesetz
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 73 des Infektionsschutzgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 70 Absatz 1 des Infektionsschutzgesetzes der Vollzug dieses Gesetzes im Geschäftsbereich des Bundesministeriums der Verteidigung den zuständigen Stellen der Bundeswehr obliegt.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 73 des Infektionsschutzgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 54a Absatz 1 des Infektionsschutzgesetzes der Vollzug des Infektionsschutzgesetzes den zuständigen Stellen der Bundeswehr obliegt.
 
-# § 6 – Zuständigkeit nach dem Medizinproduktegesetz bis einschließlich 25. Mai 2022
+# § 6 – Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten in Bezug auf In-vitro-Diagnostika nach § 2 Absatz 1 Satz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes in Verbindung mit den §§ 42 und 38 Absatz 2 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung wird bis einschließlich 25. Mai 2022 auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des Medizinprodukterecht- Durchführungsgesetzes wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
 
 # § 7 – Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
 
