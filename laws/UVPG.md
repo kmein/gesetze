@@ -291,6 +291,12 @@ Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und
 
 3. die sonstige Änderung eines Schienenwegs oder einer sonstigen Bahnbetriebsanlage nach den Nummern 14.7 und 14.8 der Anlage 1, soweit nicht von den Absätzen 1 und 2 erfasst.
 
+# § 14b – Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+
+(1) Bei Städtebauprojekten für Anlagen zur Nutzung solarer Strahlungsenergie im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs nach Anlage 1 Nummer 18.7 ist von der Durchführung einer Umweltverträglichkeitsprüfung abzusehen, wenn die Anlage zur Nutzung solarer Strahlungsenergie in einem Gebiet liegt, für das in einem Plan Anlagen zur Nutzung solarer Strahlungsenergie vorgesehen sind, und wenn bei Aufstellung dieses Plans eine Strategische Umweltprüfung durchgeführt wurde.
+
+(2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023 begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum Ablauf des 30. Juni 2024 stellt. Satz 1 ist für das gesamte Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2024 abgeschlossen wird.
+
 # § 15 – Unterrichtung über den Untersuchungsrahmen
 
 (1) Auf Antrag des Vorhabenträgers oder wenn die zuständige Behörde es für zweckmäßig hält, unterrichtet und berät die zuständige Behörde den Vorhabenträger entsprechend dem Planungsstand des Vorhabens frühzeitig über Inhalt, Umfang und Detailtiefe der Angaben, die der Vorhabenträger voraussichtlich in den UVP-Bericht aufnehmen muss (Untersuchungsrahmen). Die Unterrichtung und Beratung kann sich auch auf weitere Gesichtspunkte des Verfahrens, insbesondere auf dessen zeitlichen Ablauf, auf die zu beteiligenden Behörden oder auf die Einholung von Sachverständigengutachten erstrecken. Verfügen die zuständige Behörde oder die zu beteiligenden Behörden über Informationen, die für die Erarbeitung des UVP-Berichts zweckdienlich sind, so stellen sie diese Informationen dem Vorhabenträger zur Verfügung.
