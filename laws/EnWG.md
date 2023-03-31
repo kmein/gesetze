@@ -177,6 +177,10 @@ Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz
 
 Ausnahme für Energiespeicheranlagen, Festlegungskompetenz
 
+§ 11c
+
+Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie
+
 § 12
 
 Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung
@@ -761,6 +765,10 @@ Zurverfügungstellung von Geodaten
 § 43l
 
 Regelungen zum Auf- und Ausbau von Wasserstoffnetzen
+
+§ 43m
+
+Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
 
 § 44
 
@@ -2278,6 +2286,10 @@ Die Wiederherstellungsmaßnahme gemäß Satz 1 Nummer 2 beginnt unmittelbar nach
 
 (5) Die Bundesnetzagentur wird ermächtigt, durch Festlegung nach § 29 Absatz 1 Vorgaben zur näheren Ausgestaltung der Genehmigungsverfahren nach Absatz 1 Nummer 1 in Verbindung mit den Absätzen 2 und 3 sowie nach Absatz 1 Nummer 2 zweiter Halbsatz zu treffen.
 
+# § 11c – Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie
+
+Die Errichtung und der Betrieb von Anlagen zur Speicherung elektrischer Energie liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit.
+
 # § 12 – Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung
 
 (1) Betreiber von Übertragungsnetzen haben die Energieübertragung durch das Netz unter Berücksichtigung des Austauschs mit anderen Verbundnetzen zu regeln und mit der Bereitstellung und dem Betrieb ihrer Übertragungsnetze im nationalen und internationalen Verbund zu einem sicheren und zuverlässigen Elektrizitätsversorgungssystem in ihrer Regelzone und damit zu einer sicheren Energieversorgung beizutragen. Betreiber von Übertragungsnetzen können vereinbaren, die Regelverantwortung für ihre Netze auf einen Betreiber von Übertragungsnetzen zu übertragen. Mit der Übertragung der Regelverantwortung erhält der verantwortliche Netzbetreiber die Befugnisse der §§ 13 bis 13b. Die Übertragung der Regelverantwortung ist der Regulierungsbehörde spätestens sechs Monate vorher anzuzeigen. Die Regulierungsbehörde kann zur Verringerung des Aufwandes für Regelenergie und zur Förderung von einheitlichen Bedingungen bei der Gewährung des Netzzugangs durch Festlegung nach § 29 Absatz 1 die Betreiber von Übertragungsnetzen verpflichten, eine einheitliche Regelzone zu bilden.
@@ -3147,7 +3159,7 @@ Die Regulierungsbehörde kann Vorgaben zu Frist, Form, Inhalt und Art der Überm
 
 (9) Betreiber von Elektrizitätsverteilernetzen nach Absatz 8 Satz 1 sind verpflichtet, Daten nach Absatz 4 Satz 1 Nummer 1 und 2 an den vorgelagerten Betreiber von Elektrizitätsverteilernetzen zu übermitteln. Die Betreiber von Elektrizitätsverteilernetzen nach Absatz 1 stimmen sich zumindest innerhalb einer Planungsregion zu den Anforderungen an die zu übermittelnden Daten ab. Dabei haben sie den Betreibern von Elektrizitätsverteilernetzen nach Absatz 8 Satz 1 Gelegenheit zur Stellungnahme zu geben.
 
-(10) Die Errichtung und der Betrieb von Elektrizitätsverteilernetzen mit einer Nennspannung von 110 Kilovolt liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit.
+(10) Die Errichtung und der Betrieb von Elektrizitätsverteilernetzen mit einer Nennspannung von 110 Kilovolt sowie von Elektrizitätsverteilernetzen mit einer Nennspannung von unter 110 Kilovolt, sofern sich diese im Außenbereich im Sinne des § 35 des Baugesetzbuchs befinden, liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit.
 
 # § 14e – Gemeinsame Internetplattform; Festlegungskompetenz
 
@@ -4856,6 +4868,16 @@ Soweit für die Planfeststellung, die Plangenehmigung oder das Anzeigeverfahren 
 (7) Der in § 35 Absatz 1 Nummer 3 des Baugesetzbuches verwendete Begriff des Gases sowie der in § 1 Nummer 14 der Raumordnungsverordnung genannte Begriff der Gasleitungen umfassen auch Wasserstoffnetze.
 
 (8) Die Absätze 1 bis 7 sind entsprechend anzuwenden für Maßnahmen bei Errichtung und Betrieb sowie bei Änderungen und Erweiterungen von Gasversorgungsleitungen einschließlich der Anbindungsleitungen von LNG-Terminals sowie Nebenanlagen, die der Vorbereitung auf einen Transport von Wasserstoff dienen.
+
+# § 43m – Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+
+(1) Bei Vorhaben, für die die Bundesfachplanung nach § 12 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz abgeschlossen wurde oder für die ein Präferenzraum nach § 12c Absatz 2a ermittelt wurde und für sonstige Vorhaben im Sinne des § 43 Absatz 1 Satz 1 Nummer 1 bis 4 und des § 1 des Bundesbedarfsplangesetzes und des § 1 des Energieleitungsausbaugesetzes, die in einem für sie vorgesehenen Gebiet liegen, für das eine Strategische Umweltprüfung durchgeführt wurde, ist von der Durchführung einer Umweltverträglichkeitsprüfung und einer Prüfung des Artenschutzes nach den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes abzusehen. § 18 Absatz 4 Satz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43 Absatz 3 sind mit der Maßgabe anzuwenden, dass Belange, die nach Satz 1 nicht zu ermitteln, zu beschreiben und zu bewerten sind, nur insoweit im Rahmen der Abwägung zu berücksichtigen sind, als diese Belange im Rahmen der zuvor durchgeführten Strategischen Umweltprüfung ermittelt, beschrieben und bewertet wurden.
+
+(2) Die zuständige Behörde stellt sicher, dass auf Grundlage der vorhandenen Daten geeignete und verhältnismäßige Minderungsmaßnahmen ergriffen werden, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, soweit solche Maßnahmen verfügbar und geeignete Daten vorhanden sind. Der Betreiber hat ungeachtet des Satzes 1 einen finanziellen Ausgleich für nationale Artenhilfsprogramme nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu zahlen, mit denen der Erhaltungszustand der betroffenen Arten gesichert oder verbessert wird. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 25 000 Euro je angefangenem Kilometer Trassenlänge. Sie ist von dem Betreiber als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.
+
+(3) Die Bestimmungen der Absätze 1 und 2 sind auf alle Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2024 stellt. Sie sind ebenfalls auf bereits laufende Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 und 2 sind für das gesamte Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2024 abgeschlossen wird.
+
+(4) Bei Vorhaben nach Absatz 1 Satz 1 ist auch im Sinne von § 25 Absatz 1 Satz 2 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43f Absatz 1 Satz 2 Nummer 1 keine Prüfung durchzuführen, ob eine Umweltverträglichkeitsprüfung erforderlich ist. Absatz 3 ist entsprechend anzuwenden.
 
 # § 44 – Vorarbeiten
 

@@ -3616,7 +3616,7 @@
 - [MaSanV](laws/MaSanV.md) Verordnung zu den Mindestanforderungen an Sanierungspläne für Institute 1
 - [MaschFüAusbV](laws/MaschFüAusbV.md) Verordnung über die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
 - [MaschMahnVordrV](laws/MaschMahnVordrV.md) Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
-- [MasernISchImpfAnsprV](laws/MasernISchImpfAnsprV.md) Verordnung zum Anspruch auf Schutzimpfung gegen Influenza und Masern
+- [MasernISchImpfAnsprV](laws/MasernISchImpfAnsprV.md) Verordnung zum Anspruch auf Schutzimpfung gegen Masern
 - [MaskAusbV](laws/MaskAusbV.md) Verordnung über die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
 - [MaßschuhmAusbV](laws/MaßschuhmAusbV.md) Verordnung über die Berufsausbildung zum Maßschuhmacher und zur Maßschuhmacherin*
 - [MaßstG](laws/MaßstG.md) Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen

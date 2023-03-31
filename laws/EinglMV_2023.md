@@ -7,7 +7,7 @@ Auf Grund des § 46 Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch – Grun
 
 # § 1 – Verteilungsmaßstäbe für die Mittel für Eingliederungsleistungen
 
-(1) Die Verteilung der im Bundeshaushalt 2023 in Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit veranschlagten Mittel erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben. Diese Mittel umfassen auch zur Verfügung stehende Ausgabereste in Höhe von bis zu 600 Millionen Euro. 400 Millionen Euro aus Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit werden bereits zu Jahresbeginn zur Verstärkung der Mittel für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende nach Kapitel 1101 Titelgruppe 01 Titel 636 13 eingesetzt. Zur Leistung von Mehrausgaben aufgrund des Rechtskreiswechsels von Ukraine-Geflüchteten stehen zur Verstärkung des Ansatzes bei Titel 685 11 weitere 100 Millionen Euro in Kapitel 6002 Titel 971 12 zur Verfügung. Die Maßstäbe der Verteilung dieser Mittel sind noch zu bestimmen.
+(1) Die Verteilung der im Bundeshaushalt 2023 in Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit veranschlagten Mittel erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben. Diese Mittel umfassen auch zur Verfügung stehende Ausgabereste in Höhe von bis zu 600 Millionen Euro. 400 Millionen Euro aus Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit werden bereits zu Jahresbeginn zur Verstärkung der Mittel für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende nach Kapitel 1101 Titelgruppe 01 Titel 636 13 eingesetzt. Zur Leistung von Mehrausgaben aufgrund des Rechtskreiswechsels von Ukraine-Geflüchteten stehen zur Verstärkung des Ansatzes bei Titel 685 11 weitere 100 Millionen Euro in Kapitel 6002 Titel 971 12 zur Verfügung. Die Verteilung dieser Mittel erfolgt nach den in Absatz 7 festgelegten anderen und ergänzenden Maßstäben.
 
 (2) Für die Ausfinanzierung von Leistungen nach § 16e des Zweiten Buches Sozialgesetzbuch in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850, 2094) werden Mittel nach Maßgabe der am 31. Dezember 2022 für diese Leistungen bestehenden Verpflichtungen, fällig im Jahr 2023, und der umzubuchenden Festlegungen aus dem Jahr 2022 gesondert verteilt. Eine über diese Verteilung hinausgehende Verstärkung der Mittel nach Satz 1 durch die Jobcenter ist nicht zulässig.
 
@@ -18,6 +18,8 @@ Auf Grund des § 46 Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch – Grun
 (5) Für jedes Jobcenter wird der prozentuale Anteil der in seinem Zuständigkeitsbereich zu betreuenden Langzeitleistungsbeziehenden an den in seinem Zuständigkeitsbereich zu betreuenden erwerbsfähigen Leistungsberechtigten ermittelt. Langzeitleistungsbeziehende sind erwerbsfähige Leistungsberechtigte, die in den vergangenen 24 Monaten mindestens 21 Monate hilfebedürftig nach dem Zweiten Buch Sozialgesetzbuch waren. Jobcenter mit einem überdurchschnittlichen Anteil an Langzeitleistungsbeziehenden erhalten zu ihrem Erwerbsfähigen-Anteil einen prozentualen Zuschlag. Dieser beträgt ein Viertel der prozentualen Abweichung des Anteils an Langzeitleistungsbeziehenden des betreffenden Jobcenters vom durchschnittlichen Anteil an Langzeitleistungsbeziehenden aller Jobcenter. Bei Jobcentern mit einem unterdurchschnittlichen Anteil an Langzeitleistungsbeziehenden wird in gleicher Weise ein prozentualer Abschlag vom Erwerbsfähigen-Anteil vorgenommen. Die Verteilung der Mittel erfolgt nach den in Anlage 2 genannten Prozentsätzen.
 
 (6) Die Absätze 3 bis 5 sind grundsätzlich auch auf die in Kapitel 1101 Titelgruppe 01 Titel 685 11 des Bundeshaushalts 2023 für Eingliederungsleistungen der Grundsicherung für Arbeitsuchende etatisierten Verpflichtungsermächtigungen anzuwenden.
+
+(7) Die Mittel nach § 1 Absatz 1 Satz 4 werden nach dem prozentualen Anteil der im Zuständigkeitsbereich des jeweiligen Jobcenters zu betreuenden erwerbsfähigen Leistungsberechtigten mit ukrainischer Staatsangehörigkeit an der Summe der zu betreuenden erwerbsfähigen Leistungsberechtigten mit ukrainischer Staatsangehörigkeit aller Jobcenter verteilt. Bei den Berechnungen wird der Durchschnitt der jeweiligen Daten aus den Monaten Juni 2022 bis Oktober 2022 zugrunde gelegt. Die Verteilung der Mittel erfolgt nach den in Anlage 5 genannten Prozentsätzen.
 
 # § 2 – Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
 
@@ -114,3 +116,15 @@ Abkürzung:
 
 gE  
 gemeinsame Einrichtung
+
+# Anlage 5 – (zu § 1 Absatz 7)Verteilung der Eingliederungsmittel zur Leistung von Mehrausgaben aufgrund des Rechtskreiswechsels von Ukraine-Geflüchteten
+
+(Fundstelle: BGBl. 2023 I Nr. 90, S. 2 – 11)
+
+Abkürzungen:
+
+gE  
+gemeinsame Einrichtung
+
+zkT  
+zugelassener kommunaler Träger

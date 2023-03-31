@@ -1,4 +1,4 @@
-% Verordnung zum Anspruch auf Schutzimpfung gegen Influenza und Masern
+% Verordnung zum Anspruch auf Schutzimpfung gegen Masern
 % Ausfertigungsdatum: 10.03.2021
  
 # Eingangsformel
@@ -18,3 +18,7 @@ Versicherte, die das 60. Lebensjahr vollendet haben, haben im Rahmen der Verfüg
 # § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft und am 31. März 2023 außer Kraft.
+
+# § 3 – Außerkrafttreten
+
+§ 1 tritt am 31. März 2023 außer Kraft.
