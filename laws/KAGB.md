@@ -450,6 +450,52 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (3) Die Bekanntmachung darf personenbezogene Daten nur in dem Umfang enthalten, der für den Zweck der Beseitigung oder Verhinderung von Missständen erforderlich ist. Die Bekanntmachung ist zu löschen, sobald sie nicht mehr erforderlich ist, spätestens aber nach fünf Jahren.
 
+# § 7b – Elektronische Kommunikation; Verordnungsermächtigung
+
+(1) Verwaltungsgesellschaften, Investmentgesellschaften, Verwahrstellen, interessierte Erwerber nach § 19 Absatz 1 Satz 1 oder Inhaber bedeutender Beteiligungen haben elektronisch über das Verfahren gemäß Absatz 2 zu übermitteln:
+
+1. Anzeigen gemäß § 18 Absatz 4 Satz 2, § 19 Absatz 1 Satz 1 und Absatz 5, § 34, § 38 Absatz 2 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 des Kreditwesengesetzes, § 49 Absatz 1, 4 Satz 1, Absatz 5 Satz 1, Absatz 6 Satz 4, § 51 Absatz 2 Satz 3 und Absatz 3 Satz 3, § 53 Absatz 1 und 5, § 65 Absatz 5, § 80 Absatz 3 Satz 4, § 100 Absatz 3 Satz 4, § 112 Absatz 1 Satz 5 Nummer 2 Buchstabe b, § 114 Satz 1, § 121 Absatz 2 Satz 5 in Verbindung mit § 28 Absatz 1 Satz 1 des Kreditwesengesetzes, § 129 Absatz 2 Satz 1, § 130 Satz 1, § 144 Satz 5 Nummer 2 Buchstabe b, § 145 Satz 1, § 154 Absatz 2 Satz 1 Nummer 1, § 155 Satz 1, § 200 Absatz 4, auch in Verbindung mit § 204 Absatz 1, § 295a Absatz 4, § 295b Absatz 2 Satz 2, § 306b Absatz 4 Satz 1, Absatz 5, § 312 Absatz 1 und 4 Satz 3, § 312 Absatz 6a, § 313a Absatz 3 und Absatz 5 Satz 1, § 316 Absatz 1, 2 und 4, § 320 Absatz 1, 2 in Verbindung mit § 316 Absatz 2, § 320 Absatz 4 in Verbindung mit § 316 Absatz 4, § 321 Absatz 1, 2 und 4, § 329 Absatz 2, 4 in Verbindung mit § 321 Absatz 2 und 3 Satz 3, § 330 Absatz 2 und 4 in Verbindung mit § 316 Absatz 2 und 3, § 330a Absatz 2, § 331 Absatz 1 und 7 Satz 1, § 331a Absatz 3, § 337 Absatz 1 Nummer 2 in Verbindung mit Artikel 15 der Verordnung (EU) Nr. 345/2013, § 338 Absatz 1 Nummer 2 in Verbindung mit Artikel 16 der Verordnung (EU) Nr. 346/2013 sowie die Unterlagen und Informationen, die gegebenenfalls im Rahmen des mit der Anzeige begonnenen Verwaltungsverfahrens einzureichen sind,
+
+2. Anträge auf
+
+a) Erlaubniserteilungen gemäß § 20 Absatz 1 Satz 1, Absatz 2 und 3, § 58 Absatz 1, § 113 Absatz 1 Satz 1,
+
+b) Genehmigungen gemäß § 36 Absatz 1 Satz 1 Nummer 3, § 69 Absatz 1 Satz 1 und Absatz 4 Satz 2, auch in Verbindung mit § 87, § 96 Absatz 2 Satz 3, § 100 Absatz 3 Satz 1, § 100b Absatz 1 Satz 1 oder Absatz 4, § 110 Absatz 4, § 163 Absatz 1 Satz 1, § 117 Absatz 5 Satz 3, § 171 Absatz 1 und 4, § 178 Absatz 2, § 179 Absatz 2, § 182 Absatz 1 und 2, auch in Verbindung mit den §§ 191, 267 Absatz 1, § 272a Absatz 1 Satz 2, Absatz 4 Satz 1, § 272g Absatz 2,
+
+c) Zulassungen gemäß § 338a in Verbindung mit Artikel 5 Absatz 1 und 2 der Verordnung (EU) 2015/760,
+
+d) Befreiungen gemäß § 38 Absatz 4 Satz 6,
+
+e) Registrierungen gemäß § 44 Absatz 4 Satz 1, auch in Verbindung mit § 337 Absatz 1 Nummer 1 oder § 338 Absatz 1 Nummer 1, und Artikel 6 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1),
+
+f) Bestätigungen gemäß § 163 Absatz 2 Satz 6, § 171 Absatz 5 Satz 5, 178 Absatz 3 Satz 5, 179 Absatz 4 Satz 5, § 330a Absatz 3 Satz 2 sowie nach § 10 Absatz 2 Satz 2 der Derivateverordnung,
+
+g) Zustimmungen gemäß § 163 Absatz 4 Satz 7, § 239 Absatz 2,
+
+h) Bescheinigungen gemäß § 171 Absatz 6 Satz 1, § 246 Absatz 2, § 264 Absatz 2, § 312 Absatz 6, § 335 Absatz 1 und 2,
+
+i) Gestattungen gemäß Artikel 14 Absatz 4 und 5 der Delegierten Verordnung (EU) Nr. 231/2013,
+
+sowie die Unterlagen und Informationen, die gegebenenfalls im Rahmen des mit einem solchen Antrag begonnenen Verwaltungsverfahrens einzureichen sind,
+
+3. Mitteilungen gemäß § 44 Absatz 1 Satz 1 Nummer 5, § 61 Absatz 1 Satz 2 bis 4, § 80 Absatz 4 Satz 1, § 176 Absatz 3 Satz 1 und Absatz 6 Satz 2, § 178 Absatz 5 Satz 1, § 179 Absatz 6, § 215 Absatz 1, auch in Verbindung mit § 263 Absatz 2 oder mit § 274 Satz 1, § 216 Absatz 5, auch in Verbindung mit § 271 Absatz 4 sowie mit § 278 oder mit § 286 Absatz 1, § 272e Absatz 3, § 272g Absatz 5 und 6 Satz 2, § 289, § 312 Absatz 6a Satz 1, § 330a Absatz 2 Satz 2 Nummer 2 und Artikel 4 Absatz 2 und 3 der Delegierten Verordnung (EU) Nr. 231/2013,
+
+4. Berichte, Unterlagen und Informationen nach § 38 Absatz 1 Satz 2, § 65 Absatz 1 und 2, § 96 Absatz 2 Satz 4, § 117 Absatz 5 Satz 4, § 132 Absatz 2 Satz 2, § 164 Absatz 4 und 5, § 173 Absatz 5, § 179 Absatz 1 Satz 2, § 186 Absatz 4 Satz 1, § 187 Absatz 3, auch in Verbindung mit § 191, § 215 Absatz 1, § 226, § 263 Absatz 2, § 273 Satz 2, § 272b Absatz 5, § 274 Satz 1, § 290 Absatz 1 Nummer 3, Absatz 5, § 313a Absatz 5 Satz 1, Artikel 5 Absatz 5 der Delegierten Verordnung (EU) Nr. 231/2013, Artikel 12 Absatz 1 Satz 1 und Absatz 2 der Verordnung (EU) Nr. 345/2013, Artikel 13 Absatz 1 der Verordnung (EU) Nr. 346/2013 und
+
+5. Nachweise gemäß § 315 Absatz 1 Satz 1, Absatz 2 Satz 2 und gemäß § 250 Absatz 2 Satz 3
+
+elektronisch über das Verfahren gemäß Absatz 2 zu übermitteln.
+
+(2) Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen sind verpflichtet, für die elektronische Übermittlung von in Absatz 1 aufgeführten Anzeigen, Anträgen, Mitteilungen, Berichten, Unterlagen, Informationen und Nachweise ein von der Bundesanstalt bereitgestelltes elektronisches Kommunikationsverfahren zu nutzen und hierfür den elektronischen Zugang einzurichten.Sie haben sicherzustellen, dass regelmäßig, spätestens alle fünf Kalendertage, überprüft wird, ob ihnen Mitteilungen über das elektronische Kommunikationsverfahren bereitgestellt wurden.Dies gilt auch für Verwaltungsakte, die gemäß § 4f des Finanzdienstleistungsaufsichtsgesetzes bekanntgegeben oder gemäß § 4g des Finanzdienstleistungsaufsichtsgesetzes zugestellt werden.Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen können für die elektronische Kommunikation gegenüber der Bundesanstalt auch Bevollmächtigte einsetzen.
+
+(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen
+
+1. zum Inhalt und zur Form der Anzeigen, Anträge, Mitteilungen, Unterlagen und Informationen nach Absatz 1 sowie zu den beizufügenden Unterlagen und
+
+2. zum Zugang zum elektronischen Kommunikationsverfahren und dessen Nutzung sowie zu den Datenformaten für Anzeigen, Anträge, Mitteilungen, Berichte, Unterlagen, Informationen und Nachweise nach Absatz 2.
+
+Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
 # § 8 – Verschwiegenheitspflicht
 
 Die bei der Bundesanstalt beschäftigten und von ihr beauftragten Personen sowie die im Dienst der Deutschen Bundesbank stehenden Personen dürfen die ihnen bei ihrer Tätigkeit nach diesem Gesetz bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse einer Verwaltungsgesellschaft im Sinne dieses Gesetzes, eines Investmentvermögens, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. § 9 des Kreditwesengesetzes ist entsprechend anzuwenden.
@@ -1124,7 +1170,7 @@ AIF-Kapitalverwaltungsgesellschaften und externe OGAW-Kapitalverwaltungsgesellsc
 
 2. eine bezüglich der abgedeckten Risiken geeignete Versicherung für die sich aus beruflicher Fahrlässigkeit ergebende Haftung
 
-verfügen. Im Fall von Satz 1 Nummer 2 ist der Versicherer im Versicherungsvertrag zu verpflichten, der Bundesanstalt den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie Umstände, die den vorgeschriebenen Versicherungsschutz beeinträchtigen, unverzüglich mitzuteilen.
+verfügen. Im Fall von Satz 1 Nummer 2 ist der Versicherer im Versicherungsvertrag zu verpflichten, der Bundesanstalt den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie Umstände, die den vorgeschriebenen Versicherungsschutz beeinträchtigen, unverzüglich über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren mitzuteilen.
 
 (7) Eigenmittel, einschließlich der zusätzlichen Eigenmittel gemäß Absatz 6 Nummer 1, sind entweder in liquiden Mitteln zu halten oder in Vermögensgegenstände zu investieren, die kurzfristig unmittelbar in Bankguthaben umgewandelt werden können und keine spekulativen Positionen enthalten.
 
@@ -1665,21 +1711,23 @@ bei der die Nachschusspflicht der Anleger ausgeschlossen ist, verwalten.
 
 Wird der AIF als offener AIF in der Rechtsform der Investmentaktiengesellschaft mit veränderlichem Kapital oder der offenen Investmentkommanditgesellschaft aufgelegt, gelten die §§ 108 bis 123 oder die §§ 124 bis 138. Wird der AIF als geschlossener AIF in der Rechtsform der Investmentaktiengesellschaft mit fixem Kapital oder als geschlossene Investmentkommanditgesellschaft aufgelegt, gelten die §§ 140 bis 148 oder die §§ 149 bis 161.
 
-(2) (weggefallen)
+(2) AIF-Kapitalverwaltungsgesellschaften, bei denen die Voraussetzungen nach § 2 Absatz 4 Satz 2 vorliegen, übermitteln der Bundesanstalt mit dem Antrag auf Registrierung zusätzlich zu den in Absatz 1 genannten Angaben eine Erklärung, nach der
+
+1. die Voraussetzungen nach Absatz 1 Satz 1 Nummer 7 und § 2 Absatz 4 Satz 2 und 3 erfüllt sind und
+
+2. die eingereichten Unterlagen im Hinblick auf die Angaben nach Absatz 1 Nummer 2 und 3 sowie auf das Vorliegen der Voraussetzungen nach Absatz 1 Nummern 6 und 7 vollständig und richtig sind.
 
 (3) (weggefallen)
 
-(4) Die Bundesanstalt bestätigt der AIF-Kapitalverwaltungsgesellschaft die Registrierung innerhalb einer Frist von zwei Wochen nach Eingang des vollständigen Registrierungsantrags, wenn die Voraussetzungen für die Registrierung erfüllt sind. Die Registrierung gilt als bestätigt, wenn über den Registrierungsantrag nicht innerhalb der Frist nach Satz 1 entschieden worden ist. Die Bundesanstalt versagt der AIF-Kapitalverwaltungsgesellschaft die Registrierung, wenn
+(4) Die Bundesanstalt bestätigt der AIF-Kapitalverwaltungsgesellschaft die Registrierung innerhalb einer Frist von zwei Wochen nach Eingang des vollständigen Registrierungsantrags, wenn die Voraussetzungen für die Registrierung erfüllt sind. Die Bundesanstalt versagt der AIF-Kapitalverwaltungsgesellschaft die Registrierung, wenn
 
-1. die Bedingungen des § 2 Absatz 4 nicht erfüllt sind,
+1. nicht alle zum Zeitpunkt der Registrierung erforderlichen Informationen und Unterlagen gemäß den Absätzen 1, 2 und 7 übermittelt oder nicht in der erforderlichen Form übermittelt wurden,
 
-2. nicht alle zum Zeitpunkt der Registrierung erforderlichen Informationen gemäß Absatz 1 und 7 vorgelegt wurden,
+2. die AIF-Kapitalverwaltungsgesellschaft keine juristische Person oder Personenhandelsgesellschaft ist,
 
-3. die AIF-Kapitalverwaltungsgesellschaft, die die Bedingungen nach § 2 Absatz 4 erfüllt, keine juristische Person oder Personenhandelsgesellschaft ist,
+3. die AIF-Kapitalverwaltungsgesellschaft AIF in einer anderen als den in Absatz 1 Nummer 7 genannten Rechtsformen verwaltet oder
 
-4. die AIF-Kapitalverwaltungsgesellschaft, die die Bedingungen nach § 2 Absatz 4 erfüllt, AIF in einer anderen als den in Absatz 1 Nummer 7 genannten Rechtsformen verwaltet,
-
-5. die Hauptverwaltung oder der satzungsmäßige Sitz der AIF-Kapitalverwaltungsgesellschaft sich nicht im Inland befindet.
+4. die Hauptverwaltung oder der satzungsmäßige Sitz der AIF-Kapitalverwaltungsgesellschaft sich nicht im Inland befindet.
 
 (5) Die Bundesanstalt kann die Registrierung außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
@@ -2520,7 +2568,7 @@ In Bezug auf die berufliche oder geschäftliche Tätigkeit muss der Treuhänder
 
 2. Rechts- und Verwaltungsvorschriften oder berufsständischen Regeln unterliegen,
 
-die ausreichend finanzielle und berufliche Garantien bieten können, um es ihm zu ermöglichen, die relevanten Aufgaben einer Verwahrstelle wirksam auszuführen und die mit diesen Funktionen einhergehenden Verpflichtungen zu erfüllen. Die ausreichende finanzielle und berufliche Garantie ist laufend zu gewährleisten. Der Treuhänder hat Änderungen, die seine finanziellen und beruflichen Garantien betreffen, der Bundesanstalt unverzüglich anzuzeigen. Sofern der Treuhänder zum Zwecke der finanziellen Garantie eine Versicherung abschließt, ist das Versicherungsunternehmen im Versicherungsvertrag zu verpflichten, der Bundesanstalt den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie Umstände, die den vorgeschriebenen Versicherungsschutz beeinträchtigen, unverzüglich mitzuteilen.
+die ausreichend finanzielle und berufliche Garantien bieten können, um es ihm zu ermöglichen, die relevanten Aufgaben einer Verwahrstelle wirksam auszuführen und die mit diesen Funktionen einhergehenden Verpflichtungen zu erfüllen. Die ausreichende finanzielle und berufliche Garantie ist laufend zu gewährleisten. Der Treuhänder hat Änderungen, die seine finanziellen und beruflichen Garantien betreffen, der Bundesanstalt unverzüglich anzuzeigen. Sofern der Treuhänder zum Zwecke der finanziellen Garantie eine Versicherung abschließt, ist das Versicherungsunternehmen im Versicherungsvertrag zu verpflichten, der Bundesanstalt den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie Umstände, die den vorgeschriebenen Versicherungsschutz beeinträchtigen, unverzüglich über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren mitzuteilen.
 
 (4) Der Treuhänder im Sinne von Absatz 3 muss der Bundesanstalt vor Beauftragung benannt werden. Hat die Bundesanstalt gegen die Beauftragung Bedenken, kann sie verlangen, dass binnen angemessener Frist ein anderer Treuhänder benannt wird. Unterbleibt dies oder hat die Bundesanstalt auch gegen die Beauftragung des neu vorgeschlagenen Treuhänders Bedenken, so hat die AIF-Kapitalverwaltungsgesellschaft eine Verwahrstelle im Sinne von Absatz 2 zu beauftragen.
 
@@ -7183,7 +7231,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (4) Die Bundesanstalt teilt den zuständigen Stellen des Herkunftsmitgliedstaates des EU-OGAW die Untersagung des Vertriebs mit. Sofern der Herkunftsmitgliedstaat dieses EU-OGAW ein anderer ist als der Herkunftsmitgliedstaat der verwaltenden EU-OGAW-Verwaltungsgesellschaft, teilt die Bundesanstalt die Untersagung auch den zuständigen Stellen des Herkunftsmitgliedstaates der EU-OGAW-Verwaltungsgesellschaft mit. Sie macht die Untersagung im Bundesanzeiger bekannt, falls ein Vertrieb stattgefunden hat. Entstehen der Bundesanstalt durch die Bekanntmachung nach Satz 2 Kosten, sind diese der Bundesanstalt von der EU-OGAW-Verwaltungsgesellschaft oder der OGAW-Kapitalverwaltungsgesellschaft zu erstatten.
 
-# § 312 – Anzeigepflicht; Verordnungsermächtigung
+# § 312 – Anzeigepflicht
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft oder eine EU-OGAW-Verwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten inländischen OGAW in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu vertreiben, so hat sie dies der Bundesanstalt mit einem Anzeigeschreiben gemäß Anhang I der Verordnung (EU) Nr. 584/2010 anzuzeigen. Die Anzeige muss in einer in internationalen Finanzkreisen gebräuchlichen Sprache gefasst sein, wenn nicht vereinbart wurde, dass sie in einer der Amtssprachen der beiden Mitgliedstaaten gefasst wird. Der Anzeige sind in jeweils geltender Fassung beizufügen:
 
@@ -7214,10 +7262,6 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 (6a) Im Fall einer Änderung der Vorkehrungen für die Vermarktung, die im gemäß Absatz 1 Satz 1 übermittelten Anzeigeschreiben genannt werden, oder einer Änderung der zu vertreibenden Anteilklassen teilt die OGAW-Verwaltungsgesellschaft der Bundesanstalt und den zuständigen Behörden des Aufnahmestaates diese mindestens einen Monat vor Umsetzung der Änderung mit. Verstieße die OGAW-Verwaltungsgesellschaft infolge einer in Satz 1 genannten Änderung gegen die Vorschriften dieses Gesetzes, so würde die Bundesanstalt der OGAW-Verwaltungsgesellschaft innerhalb von 15 Arbeitstagen nach Eingang sämtlicher in Satz 1 genannten Informationen mitteilen, dass sie die Änderung nicht durchführen darf. In diesem Fall setzt die Bundesanstalt die zuständigen Behörden des Aufnahmestaates der OGAW-Verwaltungsgesellschaft entsprechend in Kenntnis.
 
 (6b) Wird eine in Absatz 6a Satz 1 genannte Änderung nach der Mitteilung der Informationen gemäß Absatz 6a Satz 2 durchgeführt und verstößt die OGAW-Verwaltungsgesellschaft infolge dieser Änderung nunmehr gegen die Vorschriften dieses Gesetzes, so trifft die Bundesanstalt geeignete Maßnahmen, einschließlich – falls erforderlich – der Untersagung des Vertriebs des OGAW, und setzt die zuständigen Behörden des Aufnahmestaates der OGAW-Verwaltungsgesellschaft unverzüglich von den getroffenen Maßnahmen in Kenntnis.
-
-(7) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat das Anzeigeschreiben nach Absatz 1 Satz 1 und die in Absatz 1 Satz 2 genannten Unterlagen sowie die Mitteilung nach Absatz 6a über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln.
-
-(8) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Art, Umfang und Form der einzureichenden Unterlagen nach Absatz 7 und über die zulässigen Datenträger und Übertragungswege erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (+++ § 312: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5 +++)
 
@@ -7804,11 +7848,11 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (4) § 295 Absatz 5 findet keine Anwendung für den Vertrieb und den Erwerb von AIF, die von einer EU-AIF-Verwaltungsgesellschaft verwaltet werden, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllt, und die im Inland gemäß § 330a vertrieben werden dürfen.
 
-# § 331 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung
+# § 331 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder an einem von ihr verwalteten inländischen AIF in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum an professionelle Anleger zu vertreiben, so hat sie dies der Bundesanstalt in einer in internationalen Finanzkreisen gebräuchlichen Sprache anzuzeigen. Das Anzeigeschreiben muss die in § 321 Absatz 1 Satz 2 geforderten Angaben und Unterlagen in jeweils geltender Fassung enthalten. Zusätzlich müssen in dem Schreiben Angaben zu den Vorkehrungen für den Vertrieb des angezeigten AIF gemacht und der Mitgliedstaat der Europäischen Union oder der Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen, angegeben werden. Das Schreiben enthält ebenfalls die Angaben, die für die Inrechnungstellung oder die Mitteilung etwaiger geltender behördlicher Gebühren oder Entgelte durch die zuständigen Behörden des Aufnahmestaats erforderlich sind, einschließlich der Anschrift, und Angaben zu den Einrichtungen, die für die Ausübung der in § 306a Absatz 1 genannten Aufgaben zuständig sind. Ist der AIF im Sinne von Satz 1 ein Feeder-AIF, so ist eine Anzeige nach Satz 1 nur zulässig, wenn der Master-AIF ebenfalls ein EU-AIF oder ein inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird. Ist dies nicht der Fall, so richtet sich das Anzeigeverfahren ab dem Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird, nach § 332.
 
-(2) Die AIF-Kapitalverwaltungsgesellschaft hat das Anzeigeschreiben nach Absatz 1 einschließlich der erforderlichen Angaben und Unterlagen über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Art, Umfang und Form der einzureichenden Unterlagen nach Satz 1 und über die zulässigen Datenträger und Übertragungswege erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(2) (weggefallen)
 
 (3) § 321 Absatz 2 ist entsprechend anzuwenden mit der Maßgabe, dass nach Ablauf der in § 321 Absatz 2 Satz 4 genannten Frist eine Übermittlung der Anzeige nach Absatz 4 ausgeschlossen ist.
 
@@ -7908,7 +7952,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen nach § 2 Absatz 6 erfüllen, gelten
 
-1. die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7 und Absatz 4 bis 7 entsprechend sowie
+1. die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 7b, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7, Absatz 2 und Absatz 4 bis 7 entsprechend sowie
 
 2. die Vorschriften der Verordnung (EU) Nr. 345/2013.
 
@@ -7918,7 +7962,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen nach § 2 Absatz 7 erfüllen, gelten
 
-1. die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7 und Absatz 4 bis 7 entsprechend sowie
+1. die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 7b, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7, Absatz 2 und Absatz 4 bis 7 entsprechend sowie
 
 2. die Vorschriften der Verordnung (EU) Nr. 346/2013.
 

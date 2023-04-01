@@ -23,13 +23,15 @@ Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 124
 
 2. der Umfang der Arbeiten voraussichtlich 500 Personentage überschreitet,
 
-ist der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Baustelle eine Vorankündigung zu übermitteln, die mindestens die Angaben nach Anhang I enthält. Die Vorankündigung ist sichtbar auf der Baustelle auszuhängen und bei erheblichen Änderungen anzupassen.
+hat der nach § 4 Verantwortliche der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Baustelle eine Vorankündigung zu übermitteln, die mindestens die Angaben nach Anhang I enthält. Die Vorankündigung hat der nach § 4 Verantwortliche sichtbar auf der Baustelle auszuhängen und bei erheblichen Änderungen anzupassen.
 
-(3) Ist für eine Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, eine Vorankündigung zu übermitteln, oder werden auf einer Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, besonders gefährliche Arbeiten nach Anhang II ausgeführt, so ist dafür zu sorgen, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird. Der Plan muß die für die betreffende Baustelle anzuwendenden Arbeitsschutzbestimmungen erkennen lassen und besondere Maßnahmen für die besonders gefährlichen Arbeiten nach Anhang II enthalten. Erforderlichenfalls sind bei Erstellung des Planes betriebliche Tätigkeiten auf dem Gelände zu berücksichtigen.
+(3) Ist für eine Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, eine Vorankündigung zu übermitteln, oder werden auf einer Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, besonders gefährliche Arbeiten nach Anhang II ausgeführt, so hat der nach § 4 Verantwortliche dafür zu sorgen, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird. Der Plan muß die für die betreffende Baustelle anzuwendenden Arbeitsschutzbestimmungen erkennen lassen und besondere Maßnahmen für die besonders gefährlichen Arbeiten nach Anhang II enthalten. Erforderlichenfalls sind bei Erstellung des Planes betriebliche Tätigkeiten auf dem Gelände zu berücksichtigen.
+
+(4) Ist für eine Baustelle, auf der jeder Beschäftigte für denselben Arbeitgeber tätig wird, eine Vorankündigung zu übermitteln, oder werden auf einer Baustelle, auf der jeder Beschäftigte für denselben Arbeitgeber tätig wird, besonders gefährliche Arbeiten nach Anhang II ausgeführt, so hat der nach § 4 Verantwortliche dafür zu sorgen, dass dieser Arbeitgeber vor Einrichtung der Baustelle über diejenigen Umstände auf dem Gelände unterrichtet wird, die in einen Sicherheits- und Gesundheitsschutzplan im Sinne von Absatz 3 Satz 2 und 3 einzubeziehen wären.
 
 # § 3 – Koordinierung
 
-(1) Für Baustellen, auf denen Beschäftigte mehrerer Arbeitgeber tätig werden, sind ein oder mehrere geeignete Koordinatoren zu bestellen. Der Bauherr oder der von ihm nach § 4 beauftragte Dritte kann die Aufgaben des Koordinators selbst wahrnehmen.
+(1) Für Baustellen, auf denen Beschäftigte mehrerer Arbeitgeber tätig werden, hat der nach § 4 Verantwortliche einen oder mehrere geeignete Koordinatoren zu bestellen. Der Bauherr oder der von ihm nach § 4 beauftragte Dritte kann die Aufgaben des Koordinators selbst wahrnehmen.
 
 (1a) Der Bauherr oder der von ihm beauftragte Dritte wird durch die Beauftragung geeigneter Koordinatoren nicht von seiner Verantwortung entbunden.
 
@@ -47,7 +49,7 @@ ist der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Bauste
 
 2. darauf zu achten, daß die Arbeitgeber und die Unternehmer ohne Beschäftigte ihre Pflichten nach dieser Verordnung erfüllen,
 
-3. den Sicherheits- und Gesundheitsschutzplan bei erheblichen Änderungen in der Ausführung des Bauvorhabens anzupassen oder anpassen zu lassen,
+3. den Sicherheits- und Gesundheitsschutzplan bei Änderungen in der Ausführung des Bauvorhabens, die sich auf die weitere Koordination auswirken, anzupassen oder anpassen zu lassen,
 
 4. die Zusammenarbeit der Arbeitgeber zu organisieren und
 
@@ -71,7 +73,9 @@ Die Maßnahmen nach § 2 und § 3 Abs. 1 Satz 1 hat der Bauherr zu treffen, es s
 
 5. Wechselwirkungen zwischen den Arbeiten auf der Baustelle und anderen betrieblichen Tätigkeiten auf dem Gelände, auf dem oder in dessen Nähe die erstgenannten Arbeiten ausgeführt werden,
 
-zu treffen sowie die Hinweise des Koordinators und den Sicherheits- und Gesundheitsschutzplan zu berücksichtigen.
+6. Ausführung besonders gefährlicher Arbeiten nach Anhang II auf der Baustelle
+
+zu treffen sowie die Unterrichtung nach § 2 Absatz 4, die Hinweise des Koordinators und den Sicherheits- und Gesundheitsschutzplan zu berücksichtigen.
 
 (2) Die Arbeitgeber haben die Beschäftigten in verständlicher Form und Sprache über die sie betreffenden Schutzmaßnahmen zu informieren.
 
@@ -81,21 +85,25 @@ zu treffen sowie die Hinweise des Koordinators und den Sicherheits- und Gesundhe
 
 Zur Gewährleistung von Sicherheit und Gesundheitsschutz der Beschäftigten haben auch die auf einer Baustelle tätigen Unternehmer ohne Beschäftigte die bei den Arbeiten anzuwendenden Arbeitsschutzvorschriften einzuhalten. Sie haben die Hinweise des Koordinators sowie den Sicherheits- und Gesundheitsschutzplan zu berücksichtigen. Die Sätze 1 und 2 gelten auch für Arbeitgeber, die selbst auf der Baustelle tätig sind.
 
+# § 6a – Beratung durch den Ausschuss für Arbeitsstätten
+
+Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherheit und des Gesundheitsschutzes der Beschäftigten auf Baustellen durch den Ausschuss nach § 7 der Arbeitsstättenverordnung beraten. § 7 Absatz 3 Satz 1 und Absatz 4 der Arbeitsstättenverordnung gilt entsprechend.
+
 # § 7 – Ordnungswidrigkeiten und Strafvorschriften
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Abs. 2 Satz 1 in Verbindung mit § 4 der zuständigen Behörde eine Vorankündigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt, oder
+1. entgegen § 2 Abs. 2 Satz 1 der zuständigen Behörde eine Vorankündigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt, oder
 
-2. entgegen § 2 Abs. 3 Satz 1 in Verbindung mit § 4 nicht dafür sorgt, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird.
+2. entgegen § 2 Abs. 3 Satz 1 nicht dafür sorgt, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird.
 
 (2) Wer durch eine im Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
-# § 8 – Inkrafttreten
+# § 8 – Inkrafttreten und Übergangsvorschrift
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-(2) Für Bauvorhaben, mit deren Ausführung bereits vor dem 1. Juli 1998 begonnen worden ist, bleiben die bisherigen Vorschriften maßgebend.
+(2) Für Bauvorhaben, mit deren Ausführung bereits vor dem 1. April 2023 begonnen worden ist, bleiben die bisherigen Vorschriften maßgebend.
 
 # Schlußformel
 
@@ -135,23 +143,19 @@ Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
 
 2. Arbeiten, bei denen Beschäftigte ausgesetzt sind gegenüber
 
-a) biologischen Arbeitsstoffen der Risikogruppen 3 oder 4 im Sinne der Biostoffverordnung oder
+a) biologischen Arbeitsstoffen der Risikogruppen 3 oder 4 im Sinne des § 3 Absatz 1 der Biostoffverordnung,
 
-b) Stoffen oder Gemischen im Sinne der Gefahrstoffverordnung, die eingestuft sind als
+b) gefährlichen Stoffen und Gemischen im Sinne des § 3 Absatz 1 in Verbindung mit Absatz 2
 
 aa)  
-akut toxisch Kategorie 1 oder 2,
+Nummer 1 Buchstabe a,
 
 bb)  
-krebserzeugend, keimzellmutagen oder reproduktionstoxisch jeweils Kategorie 1A oder 1B,
+Nummer 1 Buchstabe f oder Nummer 2 Buchstabe a (jeweils Kategorie 1 oder 2) oder
 
-cc) entzündbare Flüssigkeit Kategorie 1 oder 2,
+cc) Nummer 2 Buchstabe e, f oder g (jeweils Kategorie 1A oder 1B)
 
-dd)  
-explosiv oder
-
-ee)  
-Erzeugnis mit Explosivstoff,
+der Gefahrstoffverordnung,
 
 3. Arbeiten mit ionisierenden Strahlungen, die die Festlegung von Kontroll- oder Überwachungsbereichen im Sinne des Strahlenschutzgesetzes und der auf dessen Grundlage erlassenen Rechtsverordnungen erfordern,
 
@@ -167,4 +171,4 @@ Erzeugnis mit Explosivstoff,
 
 9. Arbeiten, bei denen Sprengstoff oder Sprengschnüre eingesetzt werden,
 
-10. Aufbau oder Abbau von Massivbauelementen mit mehr als 10 t Einzelgewicht.
+10. Aufbau oder Abbau von Massivbauelementen, wenn dazu aufgrund deren Masse kraftbetriebene Arbeitsmittel zum Heben von Lasten oder kraftbetriebene Arbeitsmittel zum anderweitigen Versetzen von Lasten eingesetzt werden.

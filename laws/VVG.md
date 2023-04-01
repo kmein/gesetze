@@ -105,11 +105,11 @@ d) es ist gewährleistet, dass diese Auskünfte auf der Website so lange verfüg
 
 (4) Handelt es sich um einen telefonischen Kontakt, werden, selbst wenn sich der Versicherungsnehmer dafür entschieden hat, die Auskünfte gemäß Absatz 2 auf einem anderen dauerhaften Datenträger als Papier zu erhalten, die Auskünfte dem Versicherungsnehmer gemäß Absatz 1 oder Absatz 2 unmittelbar nach Abschluss des Versicherungsvertrags erteilt.
 
-# § 7 – Information des Versicherungsnehmers
+# § 7 – Information des Versicherungsnehmers; Verordnungsermächtigung
 
 (1) Der Versicherer hat dem Versicherungsnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung seine Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen sowie die in einer Rechtsverordnung nach Absatz 2 bestimmten Informationen in Textform mitzuteilen. Die Mitteilungen sind in einer dem eingesetzten Kommunikationsmittel entsprechenden Weise klar und verständlich zu übermitteln. Wird der Vertrag auf Verlangen des Versicherungsnehmers telefonisch oder unter Verwendung eines anderen Kommunikationsmittels geschlossen, das die Information in Textform vor der Vertragserklärung des Versicherungsnehmers nicht gestattet, muss die Information unverzüglich nach Vertragsschluss nachgeholt werden; dies gilt auch, wenn der Versicherungsnehmer durch eine gesonderte schriftliche Erklärung auf eine Information vor Abgabe seiner Vertragserklärung ausdrücklich verzichtet.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zweck einer umfassenden Information des Versicherungsnehmers festzulegen,
+(2) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zweck einer umfassenden Information des Versicherungsnehmers festzulegen,
 
 1. welche Einzelheiten des Vertrags, insbesondere zum Versicherer, zur angebotenen Leistung und zu den Allgemeinen Versicherungsbedingungen sowie zum Bestehen eines Widerrufsrechts, dem Versicherungsnehmer mitzuteilen sind,
 
@@ -207,7 +207,7 @@ Hat der Versicherer dem Versicherungsnehmer mitgeteilt, dass er eine regelmäßi
 
 Der Versicherungsnehmer eines Gruppenversicherungsvertrags für Restschuldversicherungen hat gegenüber der versicherten Person die Beratungs- und Informationspflichten eines Versicherers. Die versicherte Person hat die Rechte eines Versicherungsnehmers, insbesondere das Widerrufsrecht. Über dieses Widerrufsrecht ist eine Woche nach Abgabe der Vertragserklärung erneut in Textform zu belehren. Das Informationsblatt zu Versicherungsprodukten ist mit dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt nicht vor Zugang dieser Unterlagen.
 
-# § 8 – Widerrufsrecht des Versicherungsnehmers
+# § 8 – Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung
 
 (1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von 14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem Versicherer zu erklären und muss keine Begründung enthalten; zur Fristwahrung genügt die rechtzeitige Absendung.
 
@@ -232,6 +232,8 @@ Bei Versicherungsprodukten, für die ein Basisinformationsblatt nach der Verordn
 Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt ist, bevor der Versicherungsnehmer sein Widerrufsrecht ausgeübt hat.
 
 (4) Die nach Absatz 2 Satz 1 Nr. 2 zu erteilende Belehrung genügt den dort genannten Anforderungen, wenn das Muster der Anlage zu diesem Gesetz in Textform verwendet wird. Der Versicherer darf unter Beachtung von Absatz 2 Satz 1 Nr. 2 von dem Muster abweichen. Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 1 Nummer 2 auf Format und Schriftgröße oder darauf, dass der Versicherer Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringt, so ist Satz 1 anzuwenden.
+
+(5) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates die Informationspflichten nach Abschnitt 2 der Anlage und die dazu erteilten Gestaltungshinweise zu ändern, wenn dies erforderlich ist, um die Informationspflichten nach Abschnitt 2 der Anlage und die dazu erteilten Gestaltungshinweise an eine Änderung der VVG-Informationspflichtenverordnung anzupassen.
 
 (+++ § 8 in der bis einschließlich 14.6.2021 geltenden Fassung: Zur Anwendung vgl. Art. 8 VVGEG +++)
 
@@ -1670,6 +1672,10 @@ b) 12 800 000 Euro Nettoumsatzerlöse,
 c) im Durchschnitt 250 Arbeitnehmer pro Wirtschaftsjahr.
 
 Gehört der Versicherungsnehmer zu einem Konzern, der nach § 290 des Handelsgesetzbuchs, nach § 11 des Publizitätsgesetzes vom 15. August 1969 (BGBl. I S. 1189) in der jeweils gültigen Fassung oder nach dem mit den Anforderungen der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19) übereinstimmenden Recht eines anderen Mitgliedstaats der Europäischen Gemeinschaft oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum einen Konzernabschluss aufzustellen hat, so sind für die Feststellung der Unternehmensgröße die Zahlen des Konzernabschlusses maßgebend.
+
+# § 210a – Elektronische Transportversicherungspolice
+
+Der Urkunde nach § 4 oder § 55 gleichgestellt ist eine elektronische Transportversicherungspolice nach § 365a des Handelsgesetzbuchs.
 
 # § 211 – Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen
 

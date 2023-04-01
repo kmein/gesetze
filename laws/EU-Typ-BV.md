@@ -251,6 +251,8 @@ c) Artikel 6 Absatz 5 in Verbindung mit Absatz 2 der Verordnung (EU) Nr. 540/201
 
 nicht sicherstellt, dass ein Fahrzeug, System, Bauteil oder eine selbstständige technische Einheit den dort genannten Anforderungen entspricht.
 
+§ 5 Abs. 4 Buchstabe a Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird die Angabe "(EU) 715/2007" durch die Angabe "(EG) 715/2007" ersetzt. § 5 Abs. 4 Buchstabe b Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird die Angabe "(EU) 595/2009" durch die Angabe "(EG) 595/2009" ersetzt.
+
 # § 6 – Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 
 Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union beziehen sich auf die in der Anlage 3 angegebenen Fassungen.
