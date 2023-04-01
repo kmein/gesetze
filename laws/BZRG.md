@@ -995,6 +995,16 @@ Die Registerbehörde darf das zentralisierte System zur Ermittlung der Mitglieds
 
 Die Speicherfrist nach Artikel 8 der Verordnung (EU) 2019/816 endet mit dem Eintritt der Tilgungsreife.
 
+# § 58d – Kennzeichnung eines Datensatzes
+
+(1) Zur Kennzeichnung eines Datensatzes in ECRIS-TCN nach Artikel 5 Absatz 1 Buchstabe c der Verordnung (EU) 2019/816 unterrichtet die für die Mitteilung nach § 20 Absatz 1 Satz 1 zuständige Stelle die Registerbehörde darüber, ob eine strafgerichtliche Verurteilung aufgrund einer terroristischen oder aufgrund einer sonstigen Straftat erfolgt ist, die
+
+1. mit einer Freiheitsstrafe im Höchstmaß von mindestens drei Jahren bedroht ist und
+
+2. zu einer der im Anhang zur Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und -genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226 (ABl. L 236 vom 19.9.2018, S. 1; L 323 vom 19.12.2018, S. 37; L 193 vom 17.6.2020, S. 16), die zuletzt durch die Verordnung (EU) 2021/1152 (ABl. L 249 vom 14.7.2021, S. 15) geändert worden ist, aufgeführten Deliktsgruppen gehört.
+
+(2) Die Registerbehörde darf die nach Absatz 1 übermittelten personenbezogenen Daten erheben, speichern und verwenden, soweit dies zu Zwecken der Verordnung (EU) 2019/816 erforderlich ist. Ist eine Verwendung zu diesen Zwecken nicht mehr erforderlich, so sind die personenbezogenen Daten unverzüglich zu löschen.
+
 # § 59 – Führung des Erziehungsregisters
 
 Für das Erziehungsregister gelten die Vorschriften des Zweiten Teils, soweit die §§ 60 bis 64 nicht etwas anderes bestimmen.
