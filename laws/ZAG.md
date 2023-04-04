@@ -181,6 +181,10 @@ E-Geld-Geschäft ist die Ausgabe von E-Geld. E-Geld ist jeder elektronisch, daru
 
 (35) Annahme und Abrechnung von Zahlungsvorgängen (Akquisitionsgeschäft) beinhaltet einen Zahlungsdienst, der die Übertragung von Geldbeträgen zum Zahlungsempfänger bewirkt und bei dem der Zahlungsdienstleister mit dem Zahlungsempfänger eine vertragliche Vereinbarung über die Annahme und die Verarbeitung von Zahlungsvorgängen schließt. Die Ausgabe von Zahlungsinstrumenten beinhaltet alle Dienste, bei denen ein Zahlungsdienstleister eine vertragliche Vereinbarung mit dem Zahler schließt, um einem Zahler ein Zahlungsinstrument zur Auslösung und Verarbeitung der Zahlungsvorgänge des Zahlers zur Verfügung zu stellen.
 
+# § 1a – Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1 fällt.
+
 # § 2 – Ausnahmen; Verordnungsermächtigung
 
 (1) Als Zahlungsdienste gelten nicht
@@ -303,7 +307,7 @@ Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Aufsicht über In
 
 # § 6 – Verschwiegenheitspflicht
 
-Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die nach diesem Gesetz bestellten Aufsichtspersonen und Abwickler und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, Zahlungsdienstleisters oder E-Geld-Emittenten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten. § 9 des Kreditwesengesetzes gilt entsprechend.
+Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die nach diesem Gesetz bestellten Abwickler, die nach § 20 Absatz 2 in Verbindung mit § 45c des Kreditwesengesetzes bestellten Sonderbeauftragten, die gerichtlich bestellten Treuhänder nach § 14 Absatz 1 Satz 2 in Verbindung mit § 2c Absatz 2 Satz 2 des Kreditwesengesetzes und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, Zahlungsdienstleisters oder E-Geld-Emittenten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Diese Verschwiegenheitspflicht besteht auch, sofern ihnen Tatsachen im Rahmen der Anbahnung einer Beauftragung oder Bestellung anvertraut werden. § 9 des Kreditwesengesetzes gilt entsprechend.
 
 # § 7 – Einschreiten gegen unerlaubte Zahlungsdienste und E-Geld-Geschäfte
 
@@ -609,7 +613,7 @@ Sofern Geldbeträge zum Zweck der Ausgabe von E-Geld durch Zahlung mittels eines
 
 (1) In den Fällen des § 13 Absatz 2 Nummer 3 bis 5 kann die Bundesanstalt, statt die Erlaubnis aufzuheben, die Abberufung der verantwortlichen Geschäftsleiter verlangen und diesen Geschäftsleitern auch die Ausübung ihrer Tätigkeit bei Instituten untersagen. In den Fällen des § 13 Absatz 2 Nummer 5 kann die Bundesanstalt auch die vorübergehende Abberufung der verantwortlichen Geschäftsleiter verlangen und ihnen vorübergehend die Ausübung einer Geschäftsleitertätigkeit bei dem Institut und bei einem anderen Verpflichteten nach § 2 Absatz 1 des Geldwäschegesetzes untersagen. Die Anordnung nach Satz 2 kann die Bundesanstalt auch gegenüber jeder anderen Person treffen, die für den Verstoß verantwortlich ist.
 
-(2) Die Bundesanstalt kann unter den Voraussetzungen des Absatzes 1 Befugnisse, die Organen des Instituts zustehen, ganz oder teilweise auf einen Sonderbeauftragten übertragen, der zur Wahrung der Befugnisse geeignet erscheint. § 45c Absatz 6 und 7 des Kreditwesengesetzes gilt entsprechend.
+(2) Die Bundesanstalt kann einen Sonderbeauftragten bestellen. § 45c des Kreditwesengesetzes gilt entsprechend.
 
 (2a) Die Aufsichtsbehörde kann einen Geschäftsleiter verwarnen, wenn dieser gegen die Bestimmungen dieses Gesetzes, des Geldwäschegesetzes oder die zur Durchführung dieser Gesetze erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen hat. Gegenstand der Verwarnung ist die Feststellung des entscheidungserheblichen Sachverhaltes und des hierdurch begründeten Verstoßes.
 
@@ -627,11 +631,9 @@ Sofern Geldbeträge zum Zweck der Ausgabe von E-Geld durch Zahlung mittels eines
 
 (2) Ist die Erfüllung der Verpflichtungen eines Instituts gegenüber seinen Gläubigern gefährdet, insbesondere die Sicherheit der ihm anvertrauten Vermögenswerte, liegen die Voraussetzungen für die Aufhebung der Erlaubnis oder der Registrierung vor oder besteht der begründete Verdacht, dass eine wirksame Aufsicht über das Institut nicht möglich ist, kann die Bundesanstalt zur Abwendung dieser Gefahren einstweilige Maßnahmen treffen. Sie kann insbesondere
 
-1. Anweisungen für die Geschäftsführung des Instituts erlassen,
+1. Anweisungen für die Geschäftsführung des Instituts erlassen und
 
-2. Inhabern und Geschäftsleitern die Ausübung ihrer Tätigkeit untersagen oder beschränken und
-
-3. Aufsichtspersonen bestellen.
+2. Inhabern und Geschäftsleitern die Ausübung ihrer Tätigkeit untersagen oder beschränken.
 
 (3) Unter den Voraussetzungen des Absatzes 2 Satz 1 kann die Bundesanstalt zur Vermeidung eines Insolvenzverfahrens oder zur Vermeidung der Erlaubnisaufhebung vorübergehend
 
@@ -643,7 +645,7 @@ Sofern Geldbeträge zum Zweck der Ausgabe von E-Geld durch Zahlung mittels eines
 
 4. die Entgegennahme von Zahlungen, die nicht zur Tilgung von Verbindlichkeiten gegenüber dem Institut bestimmt sind, verbieten.
 
-§ 45c Absatz 2 Nummer 8, Absatz 6 und 7, § 46 Absatz 1 Satz 3 bis 6 sowie § 46c des Kreditwesengesetzes gelten entsprechend.
+§ 46 Absatz 1 Satz 3 bis 6 sowie § 46c des Kreditwesengesetzes gelten entsprechend.
 
 (4) Wird ein Institut zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen; die Geschäftsleiter haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten zum Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts findet im Falle der Zahlungsunfähigkeit, der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Falle der drohenden Zahlungsunfähigkeit statt. Den Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts, das eine Erlaubnis nach § 10 Absatz 1 oder § 11 Absatz 1 hat, kann nur die Bundesanstalt stellen. Im Falle der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts und nur dann stellen, wenn Maßnahmen nach Absatz 3 nicht erfolgversprechend erscheinen. Vor der Bestellung des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt anzuhören. Der Eröffnungsbeschluss ist der Bundesanstalt gesondert zuzustellen.
 

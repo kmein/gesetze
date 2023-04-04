@@ -113,7 +113,7 @@
 
 # § 1 – Zweck des Gesetzes
 
-Dieses Gesetz dient der Finanzierung der nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie im Zusammenhang mit der Offshore-Netzanbindung entstehenden Ausgaben der Netzbetreiber. Zu diesem Zweck regelt dieses Gesetz
+(1) Dieses Gesetz dient der Finanzierung der nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie im Zusammenhang mit der Offshore-Netzanbindung entstehenden Ausgaben der Netzbetreiber. Zu diesem Zweck regelt dieses Gesetz
 
 1. die Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs,
 
@@ -124,6 +124,8 @@ Dieses Gesetz dient der Finanzierung der nach dem Erneuerbare-Energien-Gesetz un
 4. die Verringerung oder Begrenzung von Umlagen bei ihrer Erhebung und
 
 5. den weiteren Ausgleichsmechanismus.
+
+(2) Dieses Gesetz dient zudem der vorübergehenden anteiligen Finanzierung der Übertragungsnetzkosten für das Jahr 2023, soweit das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes keine ausreichenden Mittel zur Deckung des Finanzierungsbedarfs aufweisen sollte. Dazu regelt dieses Gesetz, dass die auf dem Bankkonto nach § 47 für die Finanzierung der Aufgaben nach dem Erneuerbare-Energien-Gesetz zur Verfügung stehenden Mittel bis zu einem Betrag, den die Bundesrepublik Deutschland auf Grund des Bescheides vom 9. Oktober 2020 als Zuschuss zur Absenkung der EEG-Umlage geleistet hat, auch für die vorübergehende anteilige Finanzierung der Übertragungsnetzkosten für das Jahr 2023 verwendet werden dürfen.
 
 # § 2 – Begriffsbestimmungen
 
@@ -225,7 +227,7 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 
 # § 6 – Ausgleichsanspruch
 
-(1) Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen Anspruch auf Ausgleich des Differenzbetrages zwischen ihren tatsächlichen Einnahmen nach den Nummern 2 und 4 der Anlage 1 und ihren tatsächlichen Ausgaben nach den Nummern 3 und 5 der Anlage 1 für ein Kalenderjahr. Wenn der Differenzbetrag nach Satz 1 positiv ist, hat die Bundesrepublik Deutschland einen Anspruch gegen die Übertragungsnetzbetreiber auf Ausgleich in Höhe dieses Betrages. Von dem Anspruch nach Satz 1 sind die Kosten für die Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a der Erneuerbare-Energien-Verordnung ausgenommen; diese Kosten werden nach Maßgabe des § 8 ausgeglichen.
+(1) Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen Anspruch auf Ausgleich des Differenzbetrages zwischen ihren tatsächlichen Einnahmen nach den Nummern 2 und 4 der Anlage 1 und ihren tatsächlichen Ausgaben nach den Nummern 3 und 5 der Anlage 1 für ein Kalenderjahr. Wenn der Differenzbetrag nach Satz 1 positiv ist, hat die Bundesrepublik Deutschland einen Anspruch gegen die Übertragungsnetzbetreiber auf Ausgleich in Höhe dieses Betrages, höchstens jedoch in Höhe der Summe der Zahlungen, die die Bundesrepublik Deutschland zur Deckung des EEG-Finanzierungsbedarfs nach diesem Gesetz oder vor dem 1. Januar 2023 zur Absenkung der EEG-Umlage nach § 3 Absatz 3 Nummer 3a der Erneuerbare-Energien-Verordnung in der am 31. Dezember 2022 geltenden Fassung an die Übertragungsnetzbetreiber geleistet hat und noch nicht zurückgezahlt wurde. Von dem Anspruch nach Satz 1 sind die Kosten für die Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a der Erneuerbare-Energien-Verordnung ausgenommen; diese Kosten werden nach Maßgabe des § 8 ausgeglichen.
 
 (2) Die Übertragungsnetzbetreiber übermitteln der Bundesnetzagentur und dem Bundesministerium für Wirtschaft und Klimaschutz bis zum 31. März eines Kalenderjahres für das jeweils vorangegangene Kalenderjahr eine gemeinsame und von einem Prüfer geprüfte Kontoabrechnung für den sich nach Absatz 1 Satz 1 oder 2 ergebenden Anspruch. Die Bundesnetzagentur prüft die Höhe der Kontoabrechnung auf Plausibilität und teilt das Ergebnis der Prüfung den Übertragungsnetzbetreibern und dem Bundesministerium für Wirtschaft und Klimaschutz innerhalb von vier Wochen nach Zugang der Kontoabrechnung mit. § 62 dieses Gesetzes und § 85 des Erneuerbare-Energien-Gesetzes bleiben unberührt.
 
@@ -405,7 +407,7 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf 15 Prozent für Unternehmen oder selbständige Teile eines Unternehmens für den selbst verbrauchten Stromanteil über 1 Gigawattstunde, der in einer Anlage erzeugt wird, die ausschließlich Strom mit Gichtgas, Konvertergas oder Kokereigas (Kuppelgase) erzeugt, wenn das Unternehmen
 
-1. einer Branche nach Liste 1 der Anlage 4 zuzuordnen ist und
+1. einer Branche nach Liste 1 der Anlage 2 zuzuordnen ist und
 
 2. ein Energiemanagementsystem betreibt.
 
@@ -589,7 +591,7 @@ c) für Buchstabe a Doppelbuchstabe cc durch eine Eigenerklärung, dass das Unte
 
 d) für Buchstabe b durch einen Nachweis nach Nummer 1 Buchstabe e und
 
-e) für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investitionen in dem erforderlichen Umfang getätigt hat und dass diese Investitionen nicht oder nicht in dem geltend gemachten Umfang zur Erfüllung der Voraussetzungen einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden, verbunden mit der Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens und im Fall einer erheblichen Unterbrechung des Produktionsablaufs durch die umzusetzenden Maßnahmen zusätzlich mit der Auftragsbestätigung des beauftragten Dritten und im Fall, dass das Unternehmen einem der Sektoren angehört, die in der in § 20 Nummer 3 Buchstabe a Doppelbuchstabe dd der genannten Delegierten Verordnung (EU) 2019/331 der Kommission vom 19. Dezember 2018 aufgeführt sind, zusätzlich mit der Aufstellung der durch die Durchführung der Maßnahmen verringerten Treibhausgasemissionen; der Inhalt dieser Eigenerklärung bedarf der Bestätigung einer prüfungsbefugten Stelle.
+e) für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investitionen in dem erforderlichen Umfang getätigt hat und dass diese Investitionen nicht oder nicht in dem geltend gemachten Umfang zur Erfüllung der Voraussetzungen einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden, verbunden mit der Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens und im Fall einer erheblichen Unterbrechung des Produktionsablaufs durch die umzusetzenden Maßnahmen zusätzlich mit der Auftragsbestätigung des beauftragten Dritten und im Fall, dass das Unternehmen einem der Sektoren angehört, die in der in § 30 Nummer 3 Buchstabe c genannten Delegierten Verordnung (EU) 2019/331 der Kommission vom 19. Dezember 2018 aufgeführt sind, zusätzlich mit der Aufstellung der durch die Durchführung der Maßnahmen verringerten Treibhausgasemissionen; der Inhalt dieser Eigenerklärung bedarf der Bestätigung einer prüfungsbefugten Stelle.
 
 (+++ § 32: Zur Anwendung vgl. § 33 Satz 4 +++)  
 (+++ § 32: Zur Anwendung vgl. § 34 +++)  
@@ -865,6 +867,8 @@ Sind die nach Satz 1 Nummer 3 und 4 zu tätigenden Angaben nach den Umständen d
 (1) Die Übertragungsnetzbetreiber müssen jeweils ein separates Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz einschließlich der Zahlungen nach diesem Gesetz führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach Anlage 1 und den Teilen 3 und 4 sind über dieses Bankkonto abzuwickeln.
 
 (2) Die Einnahmen und Ausgaben nach Anlage 1 und den Teilen 3 und 4 sind von den Einnahmen und Ausgaben der sonstigen Tätigkeitsbereiche des Übertragungsnetzbetreibers eindeutig abzugrenzen. Hierzu ist eine gesonderte Buchführung einzurichten. Diese muss es ermöglichen, diejenigen Einnahmen und Ausgaben nach Anlage 1, bei denen es sich um nicht zahlungswirksame Kosten handelt, nachvollziehbar abzuleiten. Zu den nicht zahlungswirksamen Kosten zählen insbesondere Abschreibungen für Infrastruktur der Informationstechnologie und Zuführungen zu Pensionsrückstellungen.
+
+(3) Die Übertragungsnetzbetreiber dürfen die Mittel auf ihrem separaten Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach Absatz 1 Satz 1, die die Bundesrepublik Deutschland auf Grund des Bescheides vom 9. Oktober 2020 als Zuschuss zur Absenkung der EEG-Umlage geleistet hat, auf das Konto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes umbuchen und zum Zweck der Vorfinanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten des Kalenderjahres 2023 nach Maßgabe des § 24b des Energiewirtschaftsgesetzes verwenden. Die Übertragungsnetzbetreiber müssen diese auf das separate Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach Absatz 1 Satz 1 zurückbuchen, sobald sie für die Vorfinanzierung nach Satz 1 nicht mehr erforderlich sind oder für Zwecke des Erneuerbare-Energien-Gesetzes benötigt werden.
 
 (+++ § 47 Abs. 2 Satz 1 und 2: Zur Anwendung vgl. § 48 Satz 3 +++)
 
@@ -1238,11 +1242,11 @@ Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Re
 
 2. verbraucht und nicht von einem Elektrizitätsversorgungsunternehmen geliefert wurde.
 
-(2) Soweit nach diesem Gesetz Kontoführungs-, Mitteilungs- oder Veröffentlichungspflichten zu erfüllen sind, die über die Kontoführungs-, Rechnungslegungs-, Mitteilungs- oder Veröffentlichungspflichten des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes, des Energiewirtschaftsgesetzes, der Erneuerbare-Energien-Verordnung oder der Erneuerbare-Energien-Ausführungsverordnung in den am 31. Dezember 2022 geltenden Fassungen hinausgehen, sind diese Pflichten ab dem 1. Januar 2024 verbindlich umzusetzen. § 49 bleibt unberührt.
+(2) Soweit nach diesem Gesetz Kontoführungs-, Mitteilungs- oder Veröffentlichungspflichten zu erfüllen sind, die über die Kontoführungs-, Rechnungslegungs-, Mitteilungs- oder Veröffentlichungspflichten des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes, des Energiewirtschaftsgesetzes, der Erneuerbare-Energien-Verordnung oder der Erneuerbare-Energien-Ausführungsverordnung in den am 31. Dezember 2022 geltenden Fassungen hinausgehen, sind diese Pflichten ab dem 1. Januar 2024 verbindlich umzusetzen. Die §§ 49 und 56 bleiben unberührt.
 
 (3) Bis zur Einrichtung der Konten nach Teil 5 Abschnitt 1 anfallende Einnahmen und Ausgaben nach Anlage 1 und Teil 4 dieses Gesetzes sind nach der Einrichtung unverzüglich valutagerecht auf die Konten zu überführen.
 
-(4) Teil 3 ist mit Ausnahme von § 7 auch auf das Kalenderjahr 2022 entsprechend anzuwenden, wobei der auszugleichende Differenzbetrag nach § 6 Absatz 1 insoweit der Saldo der Bankkonten nach § 47 Absatz 1 Satz 1 am 31. Dezember 2022 ist.
+(4) Teil 3 ist mit Ausnahme von § 7 auch auf das Kalenderjahr 2022 entsprechend anzuwenden, wobei der auszugleichende Differenzbetrag nach § 6 Absatz 1 insoweit der Saldo der Bankkonten nach § 47 Absatz 1 Satz 1 am 31. Dezember 2022 ist. Wenn nach § 6 Absatz 1 in Verbindung mit Satz 1 ein Anspruch der Bundesrepublik Deutschland gegen die Übertragungsnetzbetreiber für das Kalenderjahr 2022 besteht, kann der Anteil des Zahlungsanspruchs, der sich auf Mittel bezieht, die von der Bundesrepublik Deutschland aufgrund ihres Bescheides vom 9. Oktober 2020 als Zuschuss zur Senkung der EEG-Umlage geleistet worden sind, bis zum 31. Dezember 2023 gestundet werden, um als anteilige Vorfinanzierung der Übertragungsnetzkosten des Kalenderjahres 2023 nach Maßgabe des § 47 Absatz 3 in Verbindung mit § 24b des Energiewirtschaftsgesetzes verwendet zu werden. Unbeschadet der allgemeinen Bestimmungen nach Anlage 1 ist der gestundete Betrag während der Dauer der Stundung nicht zu verzinsen.
 
 (5) Die Abschlagszahlungen auf den Anspruch nach § 6 Absatz 1 sollen im Kalenderjahr 2023 abweichend von § 7 Absatz 2 Satz 1 so bemessen werden, dass sie in diesem Jahr insgesamt dem für dieses Jahr in dem Bescheid nach § 3 Absatz 3a Satz 2 der Erneuerbare-Energien-Verordnung in der am 31. Dezember 2022 geltenden Fassung entsprechen.
 
@@ -1286,7 +1290,7 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 
 # § 68 – Beihilfevorbehalt
 
-Dieses Gesetz mit Ausnahme von § 37 darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
+Teil 4 Abschnitt 2 bis 4 dieses Gesetzes mit Ausnahme von § 38 darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
 
 # Anlage 1 – (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
 
@@ -1379,7 +1383,7 @@ Besondere Einnahmen bei der Ermittlung des EEG-Finanzierungsbedarfs sind
 Erlöse aus der Vermarktung nach § 2 der Erneuerbare-Energien-Verordnung,
 
 4.2  
-Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber nach den §§ 6 und 7,
+Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber nach den §§ 6 und 7 sowie § 3 Absatz 3 Nummer 3a der Erneuerbare-Energien-Verordnung in der am 31. Dezember 2022 geltenden Fassung,
 
 4.3  
 Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Finanzierung der Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a der Erneuerbare-Energien-Verordnung,
@@ -1397,10 +1401,13 @@ Erlöse auf Grund einer Rechtsverordnung nach dem Erneuerbare-Energien-Gesetz od
 Zahlungen nach § 55 des Erneuerbare-Energien-Gesetzes und § 82 des Windenergie-auf-See-Gesetzes,
 
 4.8  
-Zahlungen nach § 38d Absatz 5 des Erneuerbare-Energien-Gesetzes und
+Zahlungen nach § 38d Absatz 5 des Erneuerbare-Energien-Gesetzes,
 
 4.9  
-Zahlungen nach den §§ 52 und 55b des Erneuerbare-Energien-Gesetzes.
+Zahlungen nach den §§ 52 und 55b des Erneuerbare-Energien-Gesetzes und
+
+4.10  
+Rückzahlungen der nach Nummer 5.9 geleisteten Zahlungen auf das Bankkonto nach § 47 Absatz 1 Satz 1 für die Aufgaben nach dem Erneuerbare-Energien-Gesetz.
 
 5. Besondere Ausgaben bei der Förderung erneuerbarer Energien
 
@@ -1425,10 +1432,13 @@ notwendige Kosten für die Erstellung von Prognosen für die Vermarktung nach §
 geleistete Erstattungen nach § 6 Absatz 5 oder § 38d Absatz 6 des Erneuerbare-Energien-Gesetzes,
 
 5.7  
-Bonuszahlungen nach § 3 Absatz 5 bis 7 der Erneuerbare-Energien-Verordnung und
+Bonuszahlungen nach § 3 Absatz 5 bis 7 der Erneuerbare-Energien-Verordnung,
 
 5.8  
-die an die Bundesnetzagentur erstatteten Sachmittel für den Betrieb, die Erhaltung und die Weiterentwicklung des Registers nach § 111e Absatz 7 des Energiewirtschaftsgesetzes.
+die an die Bundesnetzagentur erstatteten Sachmittel für den Betrieb, die Erhaltung und die Weiterentwicklung des Registers nach § 111e Absatz 7 des Energiewirtschaftsgesetzes und
+
+5.9  
+Zahlungen von dem Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach § 47 Absatz 1 Satz 1 auf das Konto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes zur Vorfinanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten nach § 24b des Energiewirtschaftsgesetzes.
 
 6. Besondere Einnahmen bei der Förderung der Kraft-Wärme-Kopplung
 
@@ -1472,9 +1482,12 @@ Die nach Nummer 9.1 abgegrenzten Einnahmen und Ausgaben dürfen bei der Ermittlu
 Bei der Ermittlung des EEG-Finanzierungsbedarfs ermitteln die Übertragungsnetzbetreiber den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach dieser Anlage. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach Nummer 9.2 bei der Ermittlung des EEG-Finanzierungsbedarfs nicht berücksichtigten Einnahmen und Ausgaben ausgleichen.
 
 9.4  
-Einnahmen und Ausgaben, die bereits im Rahmen der Bestimmung der Erlösobergrenzen nach § 4 Absatz 2 der Anreizregulierungsverordnung oder einer späteren Änderung der Erlösobergrenzen Berücksichtigung gefunden haben, sind bei der Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs nicht anzusetzen. Hiervon ausgenommen sind Einnahmen und Ausgaben, soweit sie auf Grund des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes oder dieses Gesetzes zusätzlich entstehen. Zusätzliche Einnahmen und Ausgaben im Sinn des Satzes 2 sind gegenüber der Bundesnetzagentur nachzuweisen.
+Soweit der Jahresmarktwert für ausgeförderte Anlagen im Sinn des § 3 Nummer 3a des Erneuerbare-Energien-Gesetzes 10 Cent pro Kilowattstunde übersteigt, müssen die Übertragungsnetzbetreiber die darüber hinausgehenden Einnahmen aus der Vermarktung des Stroms aus diesen Anlagen zum Ausgleich des EEG-Finanzierungsbedarfs verwenden; die Nummern 9.1 bis 9.3 sind insoweit nicht anzuwenden.
 
 9.5  
+Einnahmen und Ausgaben, die bereits im Rahmen der Bestimmung der Erlösobergrenzen nach § 4 Absatz 2 der Anreizregulierungsverordnung oder einer späteren Änderung der Erlösobergrenzen Berücksichtigung gefunden haben, sind bei der Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs nicht anzusetzen. Hiervon ausgenommen sind Einnahmen und Ausgaben, soweit sie auf Grund des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes, des Strompreisbremsegesetzes in Verbindung mit § 24b des Energiewirtschaftsgesetzes oder dieses Gesetzes zusätzlich entstehen. Zusätzliche Einnahmen und Ausgaben im Sinn des Satzes 2 sind gegenüber der Bundesnetzagentur nachzuweisen.
+
+9.6  
 Soweit die Entscheidung der Bundesnetzagentur eine anderweitige Abhilfemaßnahme für die Berücksichtigung der Differenzbeträge nach den Nummern 2.2 und 3.1 vorsieht, sind diese Differenzbeträge nicht als Einnahmen und Ausgaben im Sinn der Nummern 2.2 und 3.1 zu berücksichtigen und nicht nach Nummer 12 zu verzinsen. Soweit die Entscheidung der Bundesnetzagentur anschließend geändert oder aufgehoben wird, sind Differenzbeträge zwischen Zahlungen nach Teil 3 oder der Umlage in der vereinnahmten Höhe einschließlich ihrer Verzinsung nach Nummer 12 und der nach bestandskräftiger Entscheidung maßgeblichen Höhe als Einnahmen und Ausgaben im Sinn der Nummern 2.2 und 3.1 zu berücksichtigen. Satz 2 ist auch anzuwenden auf die EEG-Umlage nach dem Erneuerbare-Energien-Gesetz in den vor dem 1. Januar 2023 geltenden Fassungen.
 
 10. Liquiditätsreserve für EEG-Finanzierungsbedarf
