@@ -53,8 +53,6 @@ unmittelbar oder mittelbar über die willensbestimmende Mehrheit der Anteile, de
 
 (4) Die Erlaubnispflicht wird durch rechtsgeschäftliche, firmenrechtliche oder andere Gestaltungen oder Scheintatbestände, die zur Umgehung geeignet sind, nicht berührt.
 
-§ 2 Abs. 3 Satz 1 u. 4 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
-
 # § 3 – Rechtsverordnungen
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Rahmen des § 1 Absatz 1 Nummer 1 bis 5 oder 7 Rechtsverordnungen zu erlassen über
