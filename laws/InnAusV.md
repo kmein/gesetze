@@ -25,23 +25,11 @@ wovon mindestens eine erneuerbare Energie Windenergie an Land oder solare Strahl
 
 (2) Bei den Innovationsausschreibungen sind die allgemeinen Ausschreibungsbestimmungen der §§ 29, 33, 34, 35a, 55 und 55a des Erneuerbare-Energien-Gesetzes jeweils mit der Maßgabe, dass an die Stelle des Anspruchs nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes der Anspruch nach § 8 Absatz 1 tritt, und soweit diese Verordnung nicht etwas anderes regelt, anzuwenden.
 
-(3) (weggefallen)
-
-(4) § 52 Absatz 2 des Erneuerbare-Energien-Gesetzes ist mit der Maßgabe anzuwenden, dass die Höhe der Zahlungen auf null sinkt.
-
-(5) Die §§ 78 und 80 des Erneuerbare-Energien-Gesetzes sind jeweils mit der Maßgabe anzuwenden, dass anstelle des Anspruchs nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes der Anspruch nach § 8 Absatz 1 tritt.
-
 # § 4 – Teilnahmeberechtigte Anlagen
 
 In den Innovationsausschreibungen können nur Gebote für Anlagenkombinationen abgegeben werden.
 
-# § 5 – Gebote der Innovationsausschreibungen
-
-(1) (weggefallen)
-
-(2) Ein Gebot in einer Innovationsausschreibung muss den Anforderungen des § 30 des Erneuerbare-Energien-Gesetzes mit Ausnahme von § 30 Absatz 1 Nummer 5 des Erneuerbare-Energien-Gesetzes entsprechen.
-
-(3) (weggefallen)
+# § 5 – (weggefallen)
 
 # § 6 – Weitere Anforderungen an Gebote für Anlagenkombinationen
 
@@ -87,19 +75,9 @@ Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreib
 
 # § 11 – Zuschlagserteilung, Zuschlagsbegrenzung
 
-(1) Die Bundesnetzagentur prüft die Zulässigkeit der Gebote nach den §§ 33 und 34 des Erneuerbare-Energien-Gesetzes und nach den §§ 5 und 6. Für das weitere Zuschlagsverfahren ist vorbehaltlich der Absätze 2 und 3 der § 32 des Erneuerbare-Energien-Gesetzes entsprechend anwendbar.
+(1) Die Bundesnetzagentur prüft die Zulässigkeit der Gebote nach den §§ 33 und 34 des Erneuerbare-Energien-Gesetzes und nach den §§ 5 und 6. Für das weitere Zuschlagsverfahren ist vorbehaltlich des Absatzes 2 der § 32 des Erneuerbare-Energien-Gesetzes entsprechend anwendbar.
 
-(2) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt, führt die Bundesnetzagentur abweichend von Absatz 1 das folgende Zuschlagsverfahren durch:
-
-1. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin und sortiert diese nach § 32 des Erneuerbare-Energien-Gesetzes.
-
-2. Die Bundesnetzagentur erteilt in der Reihenfolge nach allen zulässigen Geboten einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote erreicht oder erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung).
-
-3. Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
-
-(3) Die Bundesnetzagentur erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Zuschlagswert.
-
-(+++ § 11 Abs. 2 Nr. 2: Zur Anwendung vgl. § 17 Abs. 2 Nr. 5 +++)
+(2) Die Bundesnetzagentur erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Zuschlagswert.
 
 # § 12 – (weggefallen)
 
@@ -107,7 +85,7 @@ Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreib
 
 (1) Zuschläge für Anlagenkombinationen erlöschen 30 Monate nach der öffentlichen Bekanntgabe des Zuschlags, sofern die Anlagenkombinationen die Voraussetzungen des § 2 Nummer 1 zu diesem Zeitpunkt nicht erfüllen oder soweit die Anlagen nicht bis zu diesem Zeitpunkt in Betrieb genommen worden sind.
 
-(2) Die fixe Marktprämie verringert sich auf null,
+(2) Die Marktprämie nach § 8 verringert sich auf null,
 
 1. sofern die Anlagenkombination einen Speicher enthält, wenn dessen installierte Leistung nicht mindestens 25 Prozent der installierten Gesamtleistung der Anlagenkombination entspricht und die Energiespeicherkapazität nicht mindestens eine Einspeicherung von zwei Stunden der Arbeit der Nennleistung der Energiespeichertechnologie ermöglicht, oder
 
@@ -119,7 +97,7 @@ Die Voraussetzungen nach Satz 1 sind jährlich durch die Bestätigung eines Umwe
 
 (4) Sofern die Anlagenkombination auch Speicher enthält, ist der zwischengespeicherte Strom ausschließlich in den anderen Anlagenteilen zu erzeugen.
 
-(5) Die Voraussetzungen des § 2 Nummer 1 müssen während der gesamten Dauer der Zahlungen der fixen Marktprämie nach § 8 erfüllt sein.
+(5) Die Voraussetzungen des § 2 Nummer 1 müssen während der gesamten Dauer der Zahlungen der Marktprämie nach § 8 erfüllt sein.
 
 (6) Sofern die Anlagenkombination auch Windenergieanlagen an Land oder Freiflächenanlagen enthält, ist § 6 des Erneuerbare-Energien-Gesetzes mit der Maßgabe anzuwenden, dass die gesamte in der Anlagenkombination erzeugte und eingespeiste Strommenge Grundlage für die Ermittlung der Zuwendungen sein darf.
 

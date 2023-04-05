@@ -415,6 +415,8 @@ Mit den Unterlagen nach Satz 1 Nummer 4 bis 6 und 12 hat der Antragsteller eine 
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der nach dieser Vorschrift vorgesehenen Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann diese Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
 
+(9) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach Absatz 1 erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
+
 (+++ § 10: Zur Nichtanwendung vgl. § 2 Abs. 6 +++)
 
 # § 11 – Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung
@@ -452,6 +454,8 @@ Der Antrag muss den Nachweis enthalten, dass die in Satz 1 Nummer 5 genannten Pe
 (5) Soweit für das Betreiben des E-Geld-Geschäfts eine Erlaubnis nach Absatz 1 erforderlich ist, dürfen Eintragungen in öffentliche Register nur vorgenommen werden, wenn dem Registergericht die Erlaubnis nachgewiesen ist.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der nach dieser Vorschrift vorgesehenen Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+
+(7) Die Absätze 1 bis 5 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach Absatz 1 erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
 (+++ § 11: Zur Nichtanwendung vgl. § 2 Abs. 6 +++)
 
@@ -503,7 +507,7 @@ c) der Antragsteller Tochterunternehmen eines Instituts mit Sitz in einem Dritts
 
 # § 13 – Erlöschen und Aufhebung der Erlaubnis
 
-(1) Die Erlaubnis eines Instituts erlischt, wenn das Institut von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder wenn es ausdrücklich auf sie verzichtet.
+(1) Die Erlaubnis eines Instituts erlischt, wenn das Institut von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder wenn es ausdrücklich auf sie verzichtet. Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ein als juristische Person verfasstes Institut seinen juristischen Sitz ins Ausland verlegt.
 
 (2) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
@@ -887,6 +891,8 @@ Mit den Unterlagen nach Satz 2 Nummer 3, 4 und 8 hat der Kontoinformationsdienst
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang, und Form der nach dieser Vorschrift vorgesehenen Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
 
+(8) Die Absätze 1 bis 6 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach Absatz 1 registrierungspflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
+
 # § 35 – Versagung der Registrierung
 
 Die Registrierung zur Erbringung von Kontoinformationsdiensten ist zu versagen, wenn
@@ -917,7 +923,7 @@ Die Registrierung zur Erbringung von Kontoinformationsdiensten ist zu versagen, 
 
 # § 37 – Erlöschen und Aufhebung der Registrierung
 
-(1) Die Registrierung erlischt, wenn der Kontoinformationsdienstleister von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder wenn er ausdrücklich auf sie verzichtet.
+(1) Die Registrierung erlischt, wenn der Kontoinformationsdienstleister von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder wenn er ausdrücklich auf sie verzichtet. Die Registrierung erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ein als juristische Person verfasster Kontoinformationsdienstleister seinen juristischen Sitz ins Ausland verlegt.
 
 (2) Die Bundesanstalt kann die Registrierung außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
