@@ -6404,7 +6404,7 @@ k) § 24 Absatz 3a Satz 1 Nummer 3,
 
 l) § 24a Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 Satz 1, Absatz 3a Satz 1, Absatz 3b Satz 1, Absatz 3c Satz 1, oder § 24a Absatz 4 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24a Absatz 5,
 
-m) § 45b Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2 oder Absatz 3, oder § 45b Absatz 1 Satz 1 Nummer 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder
+m) § 28 Absatz 1 Satz 1 oder
 
 n) § 53a Satz 2 oder Satz 5,
 
@@ -6446,7 +6446,7 @@ k) § 45 Absatz 1 oder Absatz 5 Satz 5 bis 9,
 
 l) § 45a Absatz 1 Satz 1,
 
-m) § 45b Absatz 1 oder
+m) § 45b Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2 oder Absatz 3, oder § 45b Absatz 1 Satz 1 Nummer 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder
 
 n) § 46 Absatz 1 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 8,
 
