@@ -2106,6 +2106,7 @@
 - [FinAusglG2020DV 1](laws/FinAusglG2020DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
 - [FinAusglG2021DV 1](laws/FinAusglG2021DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
 - [FinAusglG2022DV 1](laws/FinAusglG2022DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2022
+- [FinAusglG2023DV 1](laws/FinAusglG2023DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2023
 - [FinAusglVtr AUT](laws/FinAusglVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
