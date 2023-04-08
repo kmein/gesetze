@@ -83,7 +83,7 @@ Die Regelungen über die Gebühren für amtstierärztliche Verrichtungen und sol
 
 3. die tierärztliche Leistung für eine Einrichtung erbracht wird, die als gemeinnützig im Hinblick auf die Förderung des Tierschutzes anerkannt ist.
 
-Satz 3 gilt auch für sonstige Leistungen, die auf Grund der Kastration oder Sterilisation erforderlich werden oder üblicherweise im Zusammenhang mit einem solchen Eingriff erbracht werden.
+Satz 1 gilt auch für sonstige Leistungen, die auf Grund der Kastration oder Sterilisation erforderlich werden oder üblicherweise im Zusammenhang mit einem solchen Eingriff erbracht werden.
 
 (3) Verträge, die sich auf die langfristige Betreuung geschlossener Tierbestände mit regelmäßigen Untersuchungen erstrecken (Betreuungsverträge) einschließlich der Vereinbarungen über abweichende Gebührensätze bedürfen der Textform. Satz 1 gilt entsprechend für das Absehen von der Erhebung der Notdienstgebühr nach § 4 Absatz 1 Satz 2.
 
