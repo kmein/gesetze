@@ -561,7 +561,7 @@ Fünfzehntes Kapitel
 
 Weitere Übergangsvorschriften .......
 
-§§ 403 bis 421
+§§ 403 bis 422
 
 Inhaltsübersicht: IdF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
@@ -12590,6 +12590,14 @@ Bis zum 31. Dezember 2024 dürfen Vermögensgegenstände, die vor dem 1. Januar 
 (6) Zur Finanzierung der in Absatz 5 Satz 6 genannten Zahlungen erhebt der Verband der Privaten Krankenversicherung e. V. eine Umlage gegenüber den privaten Krankenversicherungsunternehmen entsprechend dem Anteil der jeweiligen Versicherten. Das Nähere zum Umlageverfahren nach Satz 1 bestimmt der Verband der Privaten Krankenversicherung e. V..
 
 (7) Auf Anforderung haben pharmazeutische Großhändler dem Paul-Ehrlich-Institut zur Abwendung von versorgungsrelevanten Lieferengpässen von COVID-19-Impfstoffen Daten zum Bezug, zur Abgabe und zu verfügbaren Beständen dieser Impfstoffe mitzuteilen.
+
+# § 422 – Übergangsregelung zur Vergütung und Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen
+
+(1) Pharmazeutische Großhändler erhalten für die Abgabe von vom Bund beschafften antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen an Apotheken im Zeitraum vom 8. April 2023 bis zum 31. Dezember 2023 eine Vergütung in Höhe von 20 Euro zuzüglich Umsatzsteuer je abgegebener Packung.
+
+(2) Apotheken erhalten für die Abgabe von vom Bund beschafften antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen im Zeitraum vom 8. April 2023 bis zum 31. Dezember 2023 eine Vergütung in Höhe von 30 Euro zuzüglich Umsatzsteuer je abgegebener Packung. Abweichend von Satz 1 erhalten Apotheken im Zeitraum vom 8. April 2023 bis zum 31. Dezember 2023 eine Vergütung in Höhe von 15 Euro zuzüglich Umsatzsteuer je abgegebener Packung, wenn die Abgabe an Ärztinnen und Ärzte oder an nach § 72 des Elften Buches zugelassene vollstationäre Pflegeeinrichtungen erfolgt. Sofern die in Satz 1 oder Satz 2 genannte Abgabe im Wege des Botendienstes erfolgt, erhalten Apotheken eine zusätzliche Vergütung in Höhe von 8 Euro einschließlich Umsatzsteuer je Lieferort und Tag.
+
+(3) Die abgebende Apotheke rechnet die sich aus den Absätzen 1 und 2 ergebenden Vergütungen ab. Für in den Absätzen 1 und 2 genannten Leistungen, die nach dem 31. Dezember 2023 erbracht werden, darf eine Vergütung nicht abgerechnet werden. Der Gesamtbetrag der Vergütungen nach den Absätzen 1 und 2 ist bei Personen, die in der gesetzlichen Krankenversicherung versichert sind, über ein von den Apotheken für die Abrechnung in Anspruch genommenes in § 300 Absatz 2 Satz 1 genanntes Rechenzentrum gegenüber der jeweiligen Krankenkasse und bei Personen, die in der privaten Krankenversicherung versichert sind, sowie bei Selbstzahlern gegenüber der jeweiligen Person abzurechnen. Bei Personen, die weder in der gesetzlichen Krankenversicherung noch in der privaten Krankenversicherung versichert sind und für deren Gesundheitskosten eine andere Kostenträgerschaft besteht, ist gegenüber dem jeweiligen Kostenträger abzurechnen, sofern nicht für diesen Personenkreis eine Abrechnung über die jeweils zuständige Krankenkasse vorgesehen ist. Die Vergütung für in Absatz 1 und 2 genannte Leistungen, die bis zum 31. Dezember 2023 erbracht worden sind, ist bis zum 31. März 2024 abzurechnen.
 
 # Anlage – (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung
 

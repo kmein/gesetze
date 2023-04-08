@@ -13,181 +13,15 @@ Das Bundesministerium für Gesundheit verordnet auf Grund des
 
 # Inhaltsübersicht
 
-# § 1 – Anspruch
+# § 1 – (weggefallen)
 
-(1) Personen nach Satz 2 haben im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2. Anspruchsberechtigt nach Satz 1 sind:
+# § 1a – (weggefallen)
 
-1. Personen, die in der Bundesrepublik Deutschland in der gesetzlichen oder privaten Krankenversicherung versichert sind,
+# § 2 – (weggefallen)
 
-2. Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthaltsort in der Bundesrepublik Deutschland haben,
+# § 3 – (weggefallen)
 
-3. Personen, die nach § 1 Absatz 1 Satz 2 Nummer 3 bis 5 der Coronavirus-Impfverordnung in der bis zum 6. Juni 2021 geltenden Fassung anspruchsberechtigt waren,
-
-4. in der Bundesrepublik Deutschland Beschäftigte einschließlich Seeleuten, die an Bord eines Schiffes beschäftigt sind, das in einem deutschen Seehafen liegt oder in deutschen Binnengewässern oder auf deutschen Binnenwasserstraßen verkehrt,
-
-5. sonstige Personen, die sich zur medizinischen Behandlung in Deutschland aufhalten und nicht den Personengruppen nach den Nummern 1 bis 4 angehören.
-
-Deutsche Staatsangehörige mit Wohnsitz außerhalb der Bundesrepublik Deutschland können im Übrigen im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe mit Schutzimpfungen gegen das Coronavirus SARS-CoV-2 versorgt werden.
-
-(2) Der Anspruch nach Absatz 1 Satz 1 umfasst die Aufklärung und Impfberatung der zu impfenden Person, die symptombezogene Untersuchung zum Ausschluss akuter Erkrankungen oder Allergien, die Verabreichung des Impfstoffs, die Beobachtung der sich an die Verabreichung des Impfstoffs unmittelbar anschließenden Nachsorgephase, die erforderliche medizinische Intervention im Fall des Auftretens von Impfreaktionen, die Ausstellung der Impfdokumentation und die Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes. Die Verabreichung des Impfstoffes soll grundsätzlich im Rahmen der arzneimittelrechtlichen Zulassung erfolgen. Eine davon abweichende Verabreichung kann erfolgen, wenn sie nach dem Stand der Wissenschaft medizinisch vertretbar ist oder im Rahmen nichtkommerzieller klinischer Studien erfolgt. Die Aufklärung und Impfberatung der zu impfenden Person beinhalten
-
-1. die Information über den Nutzen der Schutzimpfung und die Coronavirus-Krankheit-2019 (COVID-19),
-
-2. die Erhebung der Anamnese einschließlich der Impfanamnese sowie der Befragung über das Vorliegen möglicher Kontraindikationen,
-
-3. die Feststellung der aktuellen Befindlichkeit zum Ausschluss akuter Erkrankungen oder Allergien und möglicherweise vorliegender Gegenanzeigen,
-
-4. Hinweise auf mögliche Nebenwirkungen und Komplikationen der Schutzimpfung,
-
-5. die Informationen über den Eintritt und die Dauer der Schutzwirkung der Schutzimpfung,
-
-6. Hinweise zu Folge- und Auffrischimpfungen,
-
-7. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Schutzimpfung.
-
-Die für die Durchführung der Schutzimpfung verantwortliche Person im Sinne von § 22 Absatz 2 Satz 1 Nummer 4 des Infektionsschutzgesetzes ist der jeweilige Leistungserbringer nach § 3 Absatz 1 Satz 1.
-
-(3) Termine zur Durchführung der Schutzimpfung gegen das Coronavirus SARS-CoV-2, die Personen aufgrund zuvor bestehender Priorisierungsregelungen nach den §§ 2 bis 4 der Coronavirus-Impfverordnung in der bis zum 6. Juni 2021 geltenden Fassung bereits erhalten haben, bleiben bestehen.
-
-# § 1a – Schutzimpfung gegen weitere übertragbare Krankheiten
-
-(1) Die in Artikel 2 des Durchführungsbeschlusses (EU) 2022/382 des Rates vom 4. März 2022 zur Feststellung des Bestehens eines Massenzustroms von Vertriebenen aus der Ukraine im Sinne des Artikels 5 der Richtlinie 2001/55/EG und zur Einführung eines vorübergehenden Schutzes (ABl. L 71 vom 4.3.2022, S. 1) genannten Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthaltsort in der Bundesrepublik Deutschland haben, haben im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe Anspruch auf Versorgung mit folgenden Schutzimpfungen:
-
-1. die in Anlage 1 zur Schutzimpfungs-Richtlinie des Gemeinsamen Bundesausschusses in der Fassung vom 21. Juni 2007/18. Oktober 2007 (BAnz. S. 8154), die zuletzt durch die Bekanntmachung des Beschlusses vom 21. Oktober 2021 (BAnz AT 14.12.2021 B1) geändert worden ist, in der jeweils geltenden Fassung genannten Schutzimpfungen mit Ausnahme der Schutzimpfungen, die allein aufgrund einer Reiseindikation verabreicht werden,
-
-2. eine zweite Schutzimpfung gegen Masern.
-
-Den Anspruch auf Versorgung mit einer zweiten Schutzimpfung gegen Masern haben nur Personen, die nach dem 31. Dezember 1970 geboren wurden und das 18. Lebensjahr vollendet haben.
-
-(2) Der Anspruch nach Absatz 1 Satz 1 umfasst
-
-1. die Aufklärung und Impfberatung der zu impfenden Person,
-
-2. die symptombezogene Untersuchung zum Ausschluss akuter Erkrankungen oder Allergien,
-
-3. die Verabreichung des Impfstoffs,
-
-4. die Beobachtung der sich an die Verabreichung des Impfstoffs unmittelbar anschließenden Nachsorgephase,
-
-5. die erforderliche medizinische Intervention im Fall des Auftretens von Impfreaktionen und
-
-6. die Ausstellung der Impfdokumentation.
-
-(3) Ansprüche nach § 4 des Asylbewerberleistungsgesetzes und nach § 20i des Fünften Buches Sozialgesetzbuch bleiben unberührt.
-
-# § 2 – Folge- und Auffrischimpfungen
-
-Der Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 nach § 1 Absatz 2 sowie der Anspruch auf Versorgung mit Schutzimpfungen nach § 1a umfassen Folge- und Auffrischimpfungen.
-
-# § 3 – Leistungserbringer
-
-(1) Leistungen nach § 1 Absatz 2 werden erbracht durch
-
-1. die zuständigen Stellen der Länder, insbesondere Einrichtungen des öffentlichen Gesundheitsdienstes, und die von ihnen beauftragten Dritten,
-
-2. von den zuständigen Stellen der Länder sowie vom Bund nach Satz 2 eingerichtete Impfzentren und mobile Impfteams,
-
-3. Krankenhäuser sowie Vorsorge- und Rehabilitationseinrichtungen nach § 107 des Fünften Buches Sozialgesetzbuch,
-
-4. Arztpraxen, die an der vertragsärztlichen Versorgung teilnehmen,
-
-5. Arztpraxen, die nicht an der vertragsärztlichen Versorgung teilnehmen, sofern sie ihre niedergelassene Tätigkeit nach Absatz 4 nachgewiesen haben,
-
-6. Fachärzte für Arbeitsmedizin und Ärzte mit der Zusatzbezeichnung „Betriebsmedizin“, nach dem Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit vom Arbeitgeber bestellte Betriebsärzte (Betriebsärzte) und überbetriebliche Dienste von Betriebsärzten,
-
-7. öffentliche Apotheken,
-
-8. Zahnarztpraxen, die an der vertragszahnärztlichen Versorgung teilnehmen, sofern sie ihre Berechtigung nach Absatz 4a nachgewiesen haben,
-
-9. Zahnarztpraxen, die nicht an der vertragszahnärztlichen Versorgung teilnehmen, sofern sie ihre niedergelassene Tätigkeit nach Absatz 4 und ihre Berechtigung nach Absatz 4a nachgewiesen haben.
-
-Der Bund kann zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei den Mitgliedern der Verfassungsorgane des Bundes und bei den Beschäftigten des Bundes, insbesondere bei Personen, die als Funktionsträger in relevanter Position tätig sind, eigene Impfzentren betreiben; dies gilt auch für Angehörige dieser Personen. Solange der Bund keine eigenen Impfzentren betreibt, werden Leistungen für die in Satz 2 genannten Anspruchsberechtigten durch die Leistungserbringer nach Satz 1 erbracht. Leistungserbringer nach Satz 1 Nummer 1 bis 6, 8 und 9 erhalten die Impfstoffe und das Impfbesteck und -zubehör unentgeltlich über Apotheken und Leistungserbringer nach Satz 1 Nummer 7 erhalten die Impfstoffe und das Impfbesteck und -zubehör unentgeltlich zur eigenen Verwendung. Für Leistungserbringer nach Satz 1 Nummer 1 bis 3 gilt dies ab dem 1. Oktober 2021. Leistungserbringer nach Satz 1 Nummer 1 und 2 können den Impfstoff auch direkt vom Land beziehen. Für die Teilnahme an den Impfungen haben die Leistungserbringer nach Satz 1 die Anbindung an die Impfsurveillance nach § 4 sicherzustellen.
-
-(1a) Die in § 1a Absatz 1 Satz 1 genannten Schutzimpfungen werden im Rahmen der verfügbaren Kapazitäten durch von den zuständigen Stellen der Länder betriebene Impfzentren oder mobile Impfteams erbracht. Absatz 1 Satz 4 gilt nicht für die Durchführung der in § 1a Absatz 1 Satz 1 genannten Schutzimpfungen.
-
-(2) Die obersten Landesgesundheitsbehörden und die von ihnen bestimmten Stellen bestimmen im Rahmen ihrer Zuständigkeit das Nähere zur Organisation der Erbringung der Schutzimpfungen. Sie bestimmen insbesondere das Nähere zur Terminvergabe durch die Leistungserbringer nach Absatz 1 Satz 1 Nummer 1 und 2. Das Bundesministerium für Gesundheit regelt das Nähere zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei den Mitgliedern der Verfassungsorgane des Bundes, bei den Beschäftigten des Bundes und im Einvernehmen mit dem Auswärtigen Amt bei den Schutzimpfungen nach § 1 Absatz 1 Satz 3. Die Länder und der Bund sowie die Länder untereinander stimmen sich hinsichtlich der Organisation der Erbringung der Schutzimpfungen in geeigneter Weise ab.
-
-(3) Die zuständigen Stellen der Länder können hinsichtlich der Errichtung, Organisation und des Betriebs von Impfzentren und mobilen Impfteams mit den Kassenärztlichen Vereinigungen und anderen geeigneten Dritten zusammenarbeiten und hierüber Vereinbarungen schließen. Die Kassenärztlichen Vereinigungen sind, sofern das Land es bestimmt, zur Mitwirkung bei der Errichtung, Organisation und dem Betrieb von Impfzentren verpflichtet; dies gilt nicht für die Organisation der Terminvergabe. Die zuständigen Stellen der Länder können auch hinsichtlich der Organisation der Leistungserbringung durch die Leistungserbringer nach Absatz 1 Satz 1 Nummer 4 bis 6 mit den Kassenärztlichen Vereinigungen zusammenarbeiten und mit ihnen hierüber Vereinbarungen schließen. Die zuständigen Stellen der Länder können zur stärkeren Einbeziehung aller weiteren Ärztinnen und Ärzte in die Durchführung von Schutzimpfungen mit den Kassenärztlichen Vereinigungen und anderen geeigneten Dritten zusammenarbeiten und mit ihnen Vereinbarungen über die Zusammenarbeit schließen.
-
-(4) Die in Absatz 1 Satz 1 Nummer 5 und 9 genannten Leistungserbringer haben gegenüber dem Verband der Privatärztlichen Verrechnungsstellen e. V. zur Teilnahme an der Impfsurveillance sowie gegenüber der jeweiligen Bezugsapotheke im Rahmen der Bestellung des Impfstoffs ihre niedergelassene Tätigkeit nachzuweisen. Ihre niedergelassene Tätigkeit ist von den in Absatz 1 Satz 1 Nummer 5 genannten Leistungserbringern nachgewiesen, wenn ihnen auf ihr Ersuchen von ihrer zuständigen Landesärztekammer bescheinigt wurde, dass sie eine Selbstauskunft darüber abgegeben haben, dass sie
-
-1. einen regelhaften Praxisbetrieb ausüben,
-
-2. über eine nach berufsrechtlichen Vorschriften erforderliche Berufshaftpflichtversicherung für die berufliche Tätigkeit verfügen,
-
-3. nicht als Vertragsärztin oder als Vertragsarzt zugelassen sind und
-
-4. privatärztlich tätiges Pflichtmitglied bei der Landesärztekammer sind.
-
-Ihre niedergelassene Tätigkeit ist von den in Absatz 1 Satz 1 Nummer 9 genannten Leistungserbringern nachgewiesen, wenn ihnen auf ihr Ersuchen von ihrer zuständigen Landeszahnärztekammer bescheinigt wurde, dass sie eine Selbstauskunft darüber abgegeben haben, dass sie
-
-1. einen regelhaften Praxisbetrieb ausüben,
-
-2. nicht als Vertragszahnärztin oder als Vertragszahnarzt zugelassen sind und
-
-3. privatzahnärztlich tätiges Pflichtmitglied bei der Landeszahnärztekammer sind.
-
-Der Verband der Privatärztlichen Verrechnungsstellen e. V. bescheinigt nach Vorlage der Bescheinigung der Landesärztekammer durch die Leistungserbringer nach Absatz 1 Satz 1 Nummer 5 oder nach Vorlage der Bescheinigung der Landeszahnärztekammer durch die Leistungserbringer nach Absatz 1 Satz 1 Nummer 9 ihre Fähigkeit zur Teilnahme an der Impfsurveillance und ihre Registrierung im elektronischen Meldesystem des Verbandes der Privatärztlichen Verrechnungsstellen e. V. Die in Absatz 1 Satz 1 Nummer 5 und 9 genannten Leistungserbringer müssen die Bescheinigungen des Verbandes der Privatärztlichen Verrechnungsstellen e. V. und der Landesärztekammer oder der Landeszahnärztekammer der jeweiligen Bezugsapotheke im Rahmen der Bestellung des Impfstoffs vorlegen.
-
-(4a) Die in Absatz 1 Satz 1 Nummer 8 und 9 genannten Leistungserbringer haben ihre Berechtigung zur Erbringung von Leistungen nach § 1 Absatz 2 nachzuweisen. Die Berechtigung ist nachgewiesen, wenn dem Leistungserbringer auf sein Ersuchen von der für ihn nach Satz 3 zuständigen Stelle bescheinigt wurde, dass er eine Selbstauskunft darüber abgegeben hat, dass
-
-1. bei ihm nur Personen, die zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 berechtigt sind, die Impfungen durchführen,
-
-2. ihm eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erforderlich ist, und
-
-3. bei ihm eine nach berufsrechtlichen Vorschriften erforderliche Betriebshaftpflichtversicherung, die mögliche Schädigungen aus der Durchführung der Schutzimpfung abdeckt, vorhanden ist.
-
-Die für die Ausstellung der Bescheinigung zuständige Stelle ist die zuständige Landeszahnärztekammer. Das Vorliegen der Bescheinigung der zuständigen Stelle über den Nachweis der Berechtigung ist Voraussetzung für die Bestellung des Impfstoffs, den er selbst verabreicht. Für die in Absatz 1 Satz 1 Nummer 9 genannten Leistungserbringer können die Bescheinigungen nach Satz 2 und nach Absatz 4 Satz 3 zusammengefasst werden.
-
-(5) Die Leistungserbringer nach Absatz 1 Satz 1 stellen sicher, dass der Ort, an dem der Impfstoff verabreicht werden soll (Impfstelle), über eine geeignete Infrastruktur zur Gewährleistung einer ordnungsgemäßen Handhabung der Impfstoffe, insbesondere hinsichtlich der Anforderungen, die sich aus den Fachinformationen der Impfstoffe ergeben, verfügt. Der den Leistungserbringern nach Absatz 1 Satz 1 Nummer 6 zur Verfügung gestellte Impfstoff einer Bestellung soll in der Regel an einer einzigen Impfstelle verabreicht werden.
-
-# § 4 – Impfsurveillance
-
-(1) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3, die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die nicht an der vertragsärztlichen Versorgung teilnehmen, sowie die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 und 8 haben bei der Durchführung von Leistungen nach § 1 Absatz 2 täglich folgende Angaben nach § 13 Absatz 5 Satz 1 des Infektionsschutzgesetzes an das Robert Koch-Institut zu übermitteln:
-
-1. Patienten-Pseudonym,
-
-2. Geburtsmonat und -jahr,
-
-3. Geschlecht,
-
-4. fünfstellige Postleitzahl und Landkreis der zu impfenden Person,
-
-5. Kennnummer und Landkreis des Leistungserbringers nach § 3 Absatz 1 Satz 1 Nummer 1, 2, 3, 6, 7 oder Nummer 8,
-
-6. Datum der Schutzimpfung,
-
-7. die genaue Stellung der Impfung in der Impfserie,
-
-8. impfstoffspezifische Dokumentationsnummer (Impfstoff-Produkt oder Handelsname) in einem Umfang, der einen Rückschluss auf die Bezeichnung des Impfstoffs gemäß Zulassung und eine Unterscheidung zu anderen, an andere Virus-Varianten und, sofern vorhanden, Virus-Untervarianten angepassten Impfstoffen erlaubt,
-
-9. Chargennummer.
-
-Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5 und 9 sowie die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die an der vertragsärztlichen Versorgung teilnehmen, haben bei der Durchführung von Leistungen nach § 1 Absatz 2 täglich gemäß dem Verfahren nach Absatz 3 oder Absatz 4 in aggregierter Form aufgegliedert nach Erst-, Folge- oder Auffrischimpfung ihre Kennnummer und ihren Landkreis, die in Satz 1 Nummer 6 bis 8 genannten Angaben sowie Angaben dazu, ob die geimpfte Person einer der folgenden Altersgruppen angehört, an das Robert Koch-Institut zu übermitteln:
-
-1. 0 bis 4 Jahre,
-
-2. 5 bis 11 Jahre,
-
-3. 12 bis 17 Jahre,
-
-4. 18 bis 59 Jahre,
-
-5. 60 Jahre und älter.
-
-(2) Für die Datenübermittlung nach Absatz 1 Satz 1 ist das elektronische Melde- und Informationssystem nach § 14 des Infektionsschutzgesetzes zu nutzen.
-
-(3) Für die Datenübermittlung nach Absatz 1 Satz 2 haben die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die an der vertragsärztlichen Versorgung teilnehmen, das elektronische Meldesystem der Kassenärztlichen Bundesvereinigung zur Übermittlung an die zuständige Kassenärztliche Vereinigung zu nutzen; die Übermittlung der Daten durch die Kassenärztlichen Vereinigungen erfolgt an die Kassenärztliche Bundesvereinigung und an das jeweilige Land. Die von der Kassenärztlichen Bundesvereinigung zusammengeführten Daten der Kassenärztlichen Vereinigungen werden von der Kassenärztlichen Bundesvereinigung an das Robert Koch-Institut und das Paul-Ehrlich-Institut elektronisch übermittelt.
-
-(4) Für die Datenübermittlung nach Absatz 1 Satz 2 haben die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 5 und 9 das elektronische Meldesystem des Verbandes der Privatärztlichen Verrechnungsstellen e. V. zur Übermittlung an den Verband der Privatärztlichen Verrechnungsstellen e. V. zu nutzen. Die von dem Verband der Privatärztlichen Verrechnungsstellen e. V. zusammengeführten Daten der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 5 und 9 werden an das Robert Koch-Institut elektronisch übermittelt.
-
-(4a) Für die Datenübermittlung nach Absatz 1 Satz 1 haben die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 das elektronische Meldesystem des Deutschen Apothekerverbandes e. V. zu nutzen. Der Deutsche Apothekerverband e. V. kann hierfür Dritte beauftragen. Die vom Deutschen Apothekerverband e. V. zusammengeführten Daten der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 werden an das Robert Koch-Institut elektronisch übermittelt.
-
-(5) Die aufgrund von Absatz 1 erhobenen Daten dürfen vom Robert Koch-Institut nur für Zwecke der Feststellung der Inanspruchnahme von Schutzimpfungen und von Impfeffekten (Impfsurveillance) und vom Paul-Ehrlich-Institut nur für Zwecke der Überwachung der Sicherheit von Impfstoffen (Pharmakovigilanz) verarbeitet werden. Das Robert Koch-Institut stellt dem Paul-Ehrlich-Institut diese Daten zur Verfügung. Das Robert Koch-Institut bestimmt nach § 13 Absatz 5 Satz 4 des Infektionsschutzgesetzes die technischen Übermittlungsstandards für die im Rahmen der Impfsurveillance und der Pharmakovigilanz zu übermittelnden Daten sowie das Verfahren zur Bildung des Patienten-Pseudonyms nach Absatz 1 Satz 1 Nummer 1.
-
-(6) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die an der vertragsärztlichen Versorgung teilnehmen, übermitteln die Angaben nach Absatz 1 Satz 1 unbeschadet des Absatzes 1 Satz 2 an die Kassenärztliche Vereinigung, in deren Bezirk der Leistungserbringer seinen Sitz hat, monatlich oder quartalsweise im zeitlichen Zusammenhang mit der Abrechnung nach § 6 Absatz 6. Die Kassenärztlichen Vereinigungen übermitteln diese Daten im Rahmen der Impfsurveillance gemäß § 13 Absatz 5 des Infektionsschutzgesetzes für ab dem 1. April 2021 durchgeführte Schutzimpfungen an das Robert Koch-Institut. Absatz 5 gilt entsprechend.
-
-(7) Die Leistungserbringer können zur Meldung der Angaben nach Absatz 1 nur einen der in den Absätzen 2 bis 4a genannten Übermittlungswege nutzen.
+# § 4 – (weggefallen)
 
 # § 5 – Terminvergabe
 
@@ -199,29 +33,29 @@ Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5 und 9 sowie die Lei
 
 # § 6 – Vergütung von Leistungen
 
-(1) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 9 für bis zum 7. April 2023 erbrachte Leistungen nach § 1 Absatz 2, mit Ausnahme der Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes, beträgt je Anspruchsberechtigten und je Schutzimpfung 28 Euro und an Samstagen, Sonn- und gesetzlichen Feiertagen sowie am 24. und 31. Dezember 36 Euro. Satz 1 gilt nicht, wenn die Leistungen nach § 1 Absatz 2 durch eigenes Personal der zuständigen Behörden des Bundes, der Länder und der Kommunen erbracht werden. Eine Vergütung nach Satz 1 setzt die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 4 voraus. Sofern das Aufsuchen einer Person für die Impfung notwendig ist, werden dem Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5 und 7 bis 9 zuzüglich 35 Euro vergütet; für das Aufsuchen jeder weiteren Person in derselben sozialen Gemeinschaft oder Einrichtung werden zuzüglich jeweils weitere 15 Euro vergütet. Ein Vergütungsanspruch besteht nicht,
+(1) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für bis zum 7. April 2023 erbrachte Leistungen nach § 1 Absatz 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung, mit Ausnahme der Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes, beträgt je Anspruchsberechtigten und je Schutzimpfung 28 Euro und an Samstagen, Sonn- und gesetzlichen Feiertagen sowie am 24. und 31. Dezember 36 Euro. Satz 1 gilt nicht, wenn die Leistungen nach § 1 Absatz 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung durch eigenes Personal der zuständigen Behörden des Bundes, der Länder und der Kommunen erbracht werden. Eine Vergütung nach Satz 1 setzt die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 4 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung voraus. Sofern das Aufsuchen einer Person für die Impfung notwendig ist, werden dem Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5 und 7 bis 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung zuzüglich 35 Euro vergütet; für das Aufsuchen jeder weiteren Person in derselben sozialen Gemeinschaft oder Einrichtung werden zuzüglich jeweils weitere 15 Euro vergütet. Ein Vergütungsanspruch besteht nicht,
 
-1. für einen Betriebsarzt, wenn er die Leistungen nach § 1 Absatz 2 im Rahmen eines Beschäftigungsverhältnisses in einem Betrieb oder im Rahmen einer Tätigkeit für einen überbetrieblichen Dienst von Betriebsärzten erbringt,
+1. für einen Betriebsarzt, wenn er die Leistungen nach § 1 Absatz 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung im Rahmen eines Beschäftigungsverhältnisses in einem Betrieb oder im Rahmen einer Tätigkeit für einen überbetrieblichen Dienst von Betriebsärzten erbringt,
 
-2. für einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten, soweit die Leistungen im Sinne des § 1 Absatz 2 bereits anderweitig im Wege seiner Beauftragung durch ein Unternehmen vergütet werden, oder
+2. für einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten, soweit die Leistungen im Sinne des § 1 Absatz 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung bereits anderweitig im Wege seiner Beauftragung durch ein Unternehmen vergütet werden, oder
 
-3. für einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten, wenn zur Leistungserbringung auf die Infrastruktur der in § 3 Absatz 1 Satz 1 Nummer 2 genannten Impfzentren zurückgegriffen wird.
+3. für einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten, wenn zur Leistungserbringung auf die Infrastruktur der in § 3 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung genannten Impfzentren zurückgegriffen wird.
 
-(1a) Abweichend von Absatz 1 Satz 1 beträgt die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 für die Leistungen nach § 1 Absatz 2, mit Ausnahme der Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes, im Zeitraum vom 27. Dezember 2021 bis 30. Dezember 2021 und im Zeitraum vom 3. Januar 2022 bis 7. Januar 2022 je Anspruchsberechtigten und je Schutzimpfung 36 Euro. Absatz 1 Satz 2 bis 5 gilt entsprechend.
+(1a) Abweichend von Absatz 1 Satz 1 beträgt die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für die Leistungen nach § 1 Absatz 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung, mit Ausnahme der Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes, im Zeitraum vom 27. Dezember 2021 bis 30. Dezember 2021 und im Zeitraum vom 3. Januar 2022 bis 7. Januar 2022 je Anspruchsberechtigten und je Schutzimpfung 36 Euro. Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
-(2) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 für eine bis zum 7. April 2023 erfolgte ausschließliche Impfberatung zum Coronavirus SARS-CoV-2 ohne nachfolgende Schutzimpfung beträgt je Anspruchsberechtigten einmalig 10 Euro. Die Impfberatung kann auch telefonisch oder im Rahmen eines Videosprechstundenkontaktes erfolgen. Eine Vergütung nach Satz 1 neben der Vergütung nach Absatz 1 Satz 1 oder Satz 4 ist ausgeschlossen.
+(2) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für eine bis zum 7. April 2023 erfolgte ausschließliche Impfberatung zum Coronavirus SARS-CoV-2 ohne nachfolgende Schutzimpfung beträgt je Anspruchsberechtigten einmalig 10 Euro. Die Impfberatung kann auch telefonisch oder im Rahmen eines Videosprechstundenkontaktes erfolgen. Eine Vergütung nach Satz 1 neben der Vergütung nach Absatz 1 Satz 1 oder Satz 4 ist ausgeschlossen.
 
-(3) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 9 für jede bis zum 7. April 2023 erfolgte Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Erstellung 6 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Die Vergütung nach Satz 1 wird um 4 Euro gemindert, wenn die Erstellung unter Einsatz informationstechnischer Systeme erfolgt, die in der allgemeinen ärztlichen Versorgung zur Verarbeitung von Patientendaten eingesetzt werden.
+(3) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für jede bis zum 7. April 2023 erfolgte Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Erstellung 6 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Die Vergütung nach Satz 1 wird um 4 Euro gemindert, wenn die Erstellung unter Einsatz informationstechnischer Systeme erfolgt, die in der allgemeinen ärztlichen Versorgung zur Verarbeitung von Patientendaten eingesetzt werden.
 
-(4) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 für jede bis zum 7. April 2023 erfolgte nachträgliche Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer nicht gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Erstellung 6 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Ein Anspruch auf die Vergütung besteht nur, wenn das COVID-19-Impfzertifikat anlässlich eines unmittelbaren persönlichen Kontakts zwischen dem Leistungserbringer und der geimpften Person, einem Elternteil oder einem anderen Sorgeberechtigten einer minderjährigen geimpften Person erstellt wird. Ist für die geimpfte Person ein Betreuer bestellt, dessen Aufgabenkreis diese Angelegenheit umfasst, so ist auch ein unmittelbarer persönlicher Kontakt zu diesem ausreichend.
+(4) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für jede bis zum 7. April 2023 erfolgte nachträgliche Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer nicht gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Erstellung 6 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Ein Anspruch auf die Vergütung besteht nur, wenn das COVID-19-Impfzertifikat anlässlich eines unmittelbaren persönlichen Kontakts zwischen dem Leistungserbringer und der geimpften Person, einem Elternteil oder einem anderen Sorgeberechtigten einer minderjährigen geimpften Person erstellt wird. Ist für die geimpfte Person ein Betreuer bestellt, dessen Aufgabenkreis diese Angelegenheit umfasst, so ist auch ein unmittelbarer persönlicher Kontakt zu diesem ausreichend.
 
-(5) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 für jede bis zum 7. April 2023 erfolgte Nachtragung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem Impfausweis im Sinne des § 22 Absatz 2 Satz 3 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer nicht gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Nachtragung 2 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Eine Vergütung nach Satz 1 zusätzlich zur Vergütung nach Absatz 1 Satz 1 ist ausgeschlossen.
+(5) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 3 bis 6 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung für jede bis zum 7. April 2023 erfolgte Nachtragung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem Impfausweis im Sinne des § 22 Absatz 2 Satz 3 des Infektionsschutzgesetzes für eine Person, die von dem jeweiligen Leistungserbringer nicht gegen das Coronavirus SARS-CoV-2 geimpft worden ist, beträgt je Nachtragung 2 Euro; Absatz 1 Satz 2 und 5 gilt entsprechend. Eine Vergütung nach Satz 1 zusätzlich zur Vergütung nach Absatz 1 Satz 1 ist ausgeschlossen.
 
-(6) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6 und 9 rechnen die Leistungen nach den Absätzen 1 bis 5 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer tätig ist. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Vertragsärztliche Leistungserbringer nutzen für die Abrechnung der Leistung den Abrechnungsweg über den Datensatz KVDT. Die Kassenärztliche Bundesvereinigung legt mit Wirkung zum 14. Januar 2023 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostenersatzes fest. Die Festlegungen werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst. Abweichend von Satz 1 sind Leistungen, die bis zum 31. Dezember 2022 erbracht worden sind, bis spätestens zum Ablauf des 30. April 2023 abzurechnen. Die Abrechnung von Leistungen nach den Absätzen 1 bis 5 ist nach Ablauf der Fristen nach den Sätzen 1 und 6 ausgeschlossen.
+(6) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6 und 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung rechnen die Leistungen nach den Absätzen 1 bis 5 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer tätig ist. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Vertragsärztliche Leistungserbringer nutzen für die Abrechnung der Leistung den Abrechnungsweg über den Datensatz KVDT. Die Kassenärztliche Bundesvereinigung legt mit Wirkung zum 14. Januar 2023 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostenersatzes fest. Die Festlegungen werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst. Abweichend von Satz 1 sind Leistungen, die bis zum 31. Dezember 2022 erbracht worden sind, bis spätestens zum Ablauf des 30. April 2023 abzurechnen. Die Abrechnung von Leistungen nach den Absätzen 1 bis 5 ist nach Ablauf der Fristen nach den Sätzen 1 und 6 ausgeschlossen.
 
-(7) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 8 rechnen die Leistungen nach den Absätzen 1 und 3 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenzahnärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer tätig ist. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Die Kassenzahnärztliche Bundesvereinigung legt mit Wirkung zum 14. Januar 2023 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostensatzes fest. Die Festlegungen werden vom Vorstand der Kassenzahnärztlichen Bundesvereinigung gefasst. Abweichend von Satz 1 sind Leistungen, die bis zum 31. Dezember 2022 erbracht worden sind, bis spätestens zum Ablauf des 30. April 2023 abzurechnen. Die Abrechnung von Leistungen nach den Absätzen 1 und 3 ist nach Ablauf der Fristen nach den Sätzen 1 und 5 ausgeschlossen.
+(7) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 8 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung rechnen die Leistungen nach den Absätzen 1 und 3 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenzahnärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer tätig ist. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Die Kassenzahnärztliche Bundesvereinigung legt mit Wirkung zum 14. Januar 2023 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostensatzes fest. Die Festlegungen werden vom Vorstand der Kassenzahnärztlichen Bundesvereinigung gefasst. Abweichend von Satz 1 sind Leistungen, die bis zum 31. Dezember 2022 erbracht worden sind, bis spätestens zum Ablauf des 30. April 2023 abzurechnen. Die Abrechnung von Leistungen nach den Absätzen 1 und 3 ist nach Ablauf der Fristen nach den Sätzen 1 und 5 ausgeschlossen.
 
-(8) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6, 8 und 9, die Kassenärztlichen Vereinigungen und die Kassenzahnärztlichen Vereinigungen sind verpflichtet, die von ihnen nach den Absätzen 1 bis 5 abgerechneten Leistungen zu dokumentieren und die nach den Absätzen 6 und 7 für die Abrechnung übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+(8) Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6, 8 und 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung, die Kassenärztlichen Vereinigungen und die Kassenzahnärztlichen Vereinigungen sind verpflichtet, die von ihnen nach den Absätzen 1 bis 5 abgerechneten Leistungen zu dokumentieren und die nach den Absätzen 6 und 7 für die Abrechnung übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
 # § 7 – Teilfinanzierung der Kosten der Impfzentren und der mobilen Impfteams
 
@@ -267,7 +101,7 @@ Kosten des Transports von COVID-19-Impfstoffen nach Satz 1 Nummer 5 sind nur bis
 
 8. Kosten von Leistungen, die nach § 6 abgerechnet und vergütet werden.
 
-(4) Die Impfzentren und die mobilen Impfteams sowie die Kassenärztlichen Vereinigungen oder andere geeignete Dritte, mit denen die zuständigen Stellen der Länder nach § 3 Absatz 3 zusammenarbeiten, sind verpflichtet, die für die Erstattung nach Absatz 1 Satz 1 rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+(4) Die Impfzentren und die mobilen Impfteams sowie die Kassenärztlichen Vereinigungen oder andere geeignete Dritte, mit denen die zuständigen Stellen der Länder nach § 3 Absatz 3 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung zusammenarbeiten, sind verpflichtet, die für die Erstattung nach Absatz 1 Satz 1 rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
 # § 8 – Großhandelsvergütung
 
@@ -277,17 +111,17 @@ Kosten des Transports von COVID-19-Impfstoffen nach Satz 1 Nummer 5 sind nur bis
 
 (3) Die Vergütung nach den Absätzen 1 und 2 wird von den Apotheken unter Angabe der BUND-Pharmazentralnummer für den Großhandel nach § 10 abgerechnet.
 
-(4) Für den im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoffen durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler eine Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche. Für den im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoffen durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Lieferorte, die keine Leistungserbringer sind, entstehenden Aufwand, insbesondere für den Transport und die Organisation, erhält der Großhändler eine Vergütung in Höhe von 1,50 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche, höchstens jedoch 2 000 Euro zuzüglich Umsatzsteuer je Transport. Auf Grundlage dieser Verordnung ist nur ein Transport für die einem Land zugeteilte Impfstoffmenge pro Kalenderwoche abrechenbar.
+(4) Für den im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoffen durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler eine Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche. Für den im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoffen durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Lieferorte, die keine Leistungserbringer sind, entstehenden Aufwand, insbesondere für den Transport und die Organisation, erhält der Großhändler eine Vergütung in Höhe von 1,50 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche, höchstens jedoch 2 000 Euro zuzüglich Umsatzsteuer je Transport. Auf Grundlage dieser Verordnung ist nur ein Transport für die einem Land zugeteilte Impfstoffmenge pro Kalenderwoche abrechenbar.
 
-(5) Für die bis zum 31. Dezember 2022 erfolgte Abgabe von selbst beschafftem Impfbesteck und -zubehör für Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 erhält der Großhändler eine Vergütung in Höhe von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche, wenn die Abgabe gleichzeitig mit der Abgabe von Impfstoffen erfolgt. Für die Lieferung von Impfbesteck und -zubehör für Schutzimpfungen gegen das Coronavirus SARS-CoV-2 an die von den Ländern mitgeteilten Lieferorte, die keine Leistungserbringer sind, erhält der Großhändler die Vergütung nach Satz 1 auch, wenn nicht gleichzeitig Impfstoffe abgegeben werden. Auf Grundlage dieser Verordnung ist nur eine Belieferung nach Satz 2 in der Größenordnung je direktem Impfstoffbezug eines Landes von einem Abholort des Bundes abrechenbar.
+(5) Für die bis zum 31. Dezember 2022 erfolgte Abgabe von selbst beschafftem Impfbesteck und -zubehör für Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung erhält der Großhändler eine Vergütung in Höhe von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche, wenn die Abgabe gleichzeitig mit der Abgabe von Impfstoffen erfolgt. Für die Lieferung von Impfbesteck und -zubehör für Schutzimpfungen gegen das Coronavirus SARS-CoV-2 an die von den Ländern mitgeteilten Lieferorte, die keine Leistungserbringer sind, erhält der Großhändler die Vergütung nach Satz 1 auch, wenn nicht gleichzeitig Impfstoffe abgegeben werden. Auf Grundlage dieser Verordnung ist nur eine Belieferung nach Satz 2 in der Größenordnung je direktem Impfstoffbezug eines Landes von einem Abholort des Bundes abrechenbar.
 
 (6) Die Vergütung nach den Absätzen 4 und 5 wird nach § 11 Absatz 1 Satz 1 Nummer 3 durch das jeweilige Land abgerechnet.
 
 # § 9 – Apothekenvergütung
 
-(1) Für den Aufwand, der den Apotheken im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoff an die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5, 8 und 9 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 7,58 Euro zuzüglich Umsatzsteuer. Die Leistungserbringer nach § 3 Absatz 1 Nummer 7 erhalten für den Aufwand, der ihnen im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Beschaffung von COVID-19-Impfstoff entsteht, den sie selbst verabreichen, eine Vergütung von 7,58 Euro zuzüglich Umsatzsteuer je Durchstechflasche.
+(1) Für den Aufwand, der den Apotheken im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoff an die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4, 5, 8 und 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 7,58 Euro zuzüglich Umsatzsteuer. Die Leistungserbringer nach § 3 Absatz 1 Nummer 7 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung erhalten für den Aufwand, der ihnen im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Beschaffung von COVID-19-Impfstoff entsteht, den sie selbst verabreichen, eine Vergütung von 7,58 Euro zuzüglich Umsatzsteuer je Durchstechflasche.
 
-(2) Für den Aufwand, der den Apotheken im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoff an Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken je Leistungserbringer eine Vergütung je abgegebene Durchstechflasche in Höhe von
+(2) Für den Aufwand, der den Apotheken im Zusammenhang mit der bis zum 31. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoff an Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken je Leistungserbringer eine Vergütung je abgegebene Durchstechflasche in Höhe von
 
 1. 7,58 Euro zuzüglich Umsatzsteuer für die Abgabe der 1. bis 100. Durchstechflasche innerhalb eines Kalendermonats,
 
@@ -303,7 +137,7 @@ Kosten des Transports von COVID-19-Impfstoffen nach Satz 1 Nummer 5 sind nur bis
 
 (1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach den § 6 Absatz 1 und 3 bis 5, § 8 Absatz 1 bis 3 und § 9 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Bei der Abrechnung der Vergütung nach § 9 Absatz 2 haben die Apotheken die für die Betriebsstättennummer und die lebenslange Arztnummer die von der Bundesvereinigung Deutscher Apothekerverbände e. V. festgelegten Pseudonyme anzugeben. Sie leiten die an sie ausgezahlte Vergütung nach § 8 an den Großhandel weiter. Abweichend von Satz 1 ist die sich nach § 6 Absatz 1 und 3 bis 5, § 8 Absatz 1 bis 3 und § 9 ergebende Vergütung für Leistungen, die bis zum 31. Dezember 2022 erbracht worden sind, bis spätestens zum 30. April 2023 abzurechnen. Die Abrechnung der sich nach § 6 Absatz 1 und 3 bis 5, § 8 Absatz 1 bis 3 und § 9 ergebenden Vergütung ist nach Ablauf der Fristen nach den Sätzen 1 und 4 ausgeschlossen.
 
-(2) Für die Erstellung von COVID-19-Impfzertifikaten im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die durch die jeweilige Apotheke gegen das Coronavirus SARS-CoV-2 geimpft worden ist, erstellen die Apotheken mindestens einmal pro Monat, letztmalig für den Monat April 2023 bis zum 31. Mai 2023, eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Impfzertifikate und die dafür geltend gemachte Vergütung ergibt. Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 erstellen zusätzlich mindestens einmal pro Monat, letztmalig für den Monat April 2023 bis zum 31. Mai 2023, eine Abrechnung, aus der sich die Anzahl der durchgeführten Schutzimpfungen gegen das Coronavirus SARS-CoV-2 und die dafür geltend gemachte Vergütung ergibt. Die an das Rechenzentrum im Rahmen der Abrechnung nach Absatz 1 Satz 1 übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Impfzertifikat ausgestellt wurde.
+(2) Für die Erstellung von COVID-19-Impfzertifikaten im Sinne des § 22a Absatz 5 des Infektionsschutzgesetzes für eine Person, die durch die jeweilige Apotheke gegen das Coronavirus SARS-CoV-2 geimpft worden ist, erstellen die Apotheken mindestens einmal pro Monat, letztmalig für den Monat April 2023 bis zum 31. Mai 2023, eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Impfzertifikate und die dafür geltend gemachte Vergütung ergibt. Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung erstellen zusätzlich mindestens einmal pro Monat, letztmalig für den Monat April 2023 bis zum 31. Mai 2023, eine Abrechnung, aus der sich die Anzahl der durchgeführten Schutzimpfungen gegen das Coronavirus SARS-CoV-2 und die dafür geltend gemachte Vergütung ergibt. Die an das Rechenzentrum im Rahmen der Abrechnung nach Absatz 1 Satz 1 übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Impfzertifikat ausgestellt wurde.
 
 (3) Der Großhandel und die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach § 11 Absatz 2 Satz 1 Nummer 2 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
@@ -363,11 +197,11 @@ Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 
 
 (7) An das Bundesministerium für Gesundheit übermittelt
 
-1. jede Kassenärztliche Vereinigung über die Kassenärztliche Bundesvereinigung zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihr abgerechneten Schutzimpfungen, soweit möglich differenziert nach den Leistungserbringern nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6 und 9,
+1. jede Kassenärztliche Vereinigung über die Kassenärztliche Bundesvereinigung zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihr abgerechneten Schutzimpfungen, soweit möglich differenziert nach den Leistungserbringern nach § 3 Absatz 1 Satz 1 Nummer 1, 3 bis 6 und 9 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung,
 
-2. jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch über den Deutschen Apothekerverband e. V. zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihm durch die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 abgerechneten Schutzimpfungen und
+2. jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch über den Deutschen Apothekerverband e. V. zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihm durch die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 7 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung abgerechneten Schutzimpfungen und
 
-3. jede Kassenzahnärztliche Vereinigung über die Kassenzahnärztliche Bundesvereinigung zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihr durch die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 8 abgerechneten Schutzimpfungen.
+3. jede Kassenzahnärztliche Vereinigung über die Kassenzahnärztliche Bundesvereinigung zeitnah für jeden Kalendermonat, letztmalig bis zum 30. November 2023, die Anzahl der mit ihr durch die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 8 der Coronavirus-Impfverordnung in der bis zum 7. April 2023 geltenden Fassung abgerechneten Schutzimpfungen.
 
 # § 12 – Verfahren für die Finanzierung aus Bundesmitteln
 
@@ -417,19 +251,9 @@ Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 
 
 # § 14 – (weggefallen)
 
-# § 15 – Evaluierung
+# § 15 – (weggefallen)
 
-Diese Verordnung wird insbesondere auf Grundlage der jeweils vorliegenden infektiologischen Erkenntnisse, der jeweils aktuellen Empfehlung der Ständigen Impfkommission beim Robert Koch-Institut und der Versorgungslage mit Impfstoffen fortlaufend evaluiert.
-
-# § 16 – Übergangsvorschriften
-
-(1) Vereinbarungen nach § 6 Absatz 3 Satz 1 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, sowie Vereinbarungen nach § 3 Absatz 3 Satz 1 der Coronavirus-Impfverordnung vom 1. Juni 2021 (BAnz AT 02.06.2021 V2), die zuletzt durch Artikel 1 der Verordnung vom 13. Juli 2021 (BAnz AT 14.07.2021 V1) geändert worden ist, gelten fort.
-
-(2) Arztpraxen, die auf der Grundlage der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, mit der Leistungserbringung beauftragt worden sind, können Leistungen nach § 1 Absatz 2 weiterhin als beauftragte Arztpraxen auf Basis der bisher geltenden Regelungen erbringen. Satz 1 gilt entsprechend für die auf der Grundlage der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, mit der Leistungserbringung beauftragten Betriebsärztinnen und Betriebsärzte, die überbetrieblichen Dienste von Betriebsärzten sowie Arztpraxen, die nicht an der vertragsärztlichen Versorgung teilnehmen.
-
-(3) Ärztliche Zeugnisse nach § 6 Absatz 4 Satz 1 Nummer 3 in Verbindung mit Absatz 5 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, die bis zum 6. Juni 2021 ausgestellt und noch nicht abgerechnet worden sind, werden nach § 9 Absatz 1 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3) und vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, oder nach § 9 Absatz 3 der Coronavirus-Impfverordnung vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, vergütet und mit der nächstmöglichen Abrechnung nach § 6 Absatz 6 abgerechnet.
-
-(4) Die Länder können für die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und Nummer 2 an der in den §§ 2 bis 4 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1), die zuletzt durch Artikel 10 Absatz 8 des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist, vom 10. März 2021 (BAnz AT 11.03.2021 V1) und vom 31. März 2021 (BAnz AT 01.04.2021 V1), die durch Artikel 1 der Verordnung vom 29. April 2021 (BAnz AT 30.04.2021 V5) geändert worden ist, festgelegten Priorisierung festhalten. Satz 1 gilt auch für die Unterbreitung von Impfangeboten für bestimmte Personengruppen.
+# § 16 – (weggefallen)
 
 # § 17 – Außerkrafttreten
 

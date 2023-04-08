@@ -139,7 +139,7 @@ Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
 
 § 20b
 
-Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
+(weggefallen)
 
 § 20c
 
@@ -1777,41 +1777,7 @@ Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten N
 
 # § 20a – (weggefallen)
 
-# § 20b – Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
-
-(1) Abweichend von § 20 Absatz 4 Satz 1 sind Zahnärzte und Tierärzte zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
-
-1. sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde und
-
-2. ihnen eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt oder der Tierarzt in andere geeignete Strukturen, insbesondere ein mobiles Impfteam, eingebunden ist.
-
-(2) Die ärztliche Schulung nach Absatz 1 Nummer 1 hat insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu umfassen:
-
-1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung der Schutzimpfung gegen das Coronavirus SARS-CoV-2, insbesondere zur
-
-a) Aufklärung,
-
-b) Erhebung der Anamnese einschließlich der Impfanamnese und der Feststellung der aktuellen Befindlichkeit zum Ausschluss akuter Erkrankungen oder Allergien,
-
-c) weiteren Impfberatung und
-
-d) Einholung der Einwilligung der zu impfenden Person,
-
-2. Kenntnis von Kontraindikationen sowie Fähigkeiten und Fertigkeiten zu deren Beachtung und
-
-3. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
-
-Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, über die jeder Berufsangehörige, der an der jeweiligen ärztlichen Schulung teilnimmt, verfügt, berücksichtigen und auf diesen aufbauen.
-
-(3) Bis zum 31. Dezember 2021 entwickeln in Zusammenarbeit mit der Bundesärztekammer:
-
-1. (weggefallen)
-
-2. die Bundeszahnärztekammer ein Mustercurriculum für die ärztliche Schulung der Zahnärzte und
-
-3. die Bundestierärztekammer ein Mustercurriculum für die ärztliche Schulung der Tierärzte.
-
-(4) Die Möglichkeit der ärztlichen Delegation der Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 auf nichtärztliches Gesundheitspersonal bleibt unberührt.
+# § 20b – (weggefallen)
 
 # § 20c – Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
 
