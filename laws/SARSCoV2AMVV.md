@@ -33,8 +33,8 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b, c, e und f und Nummer 7 des
 
 (6) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 4 Satz 3 und Absatz 5 Satz 3 eine Aufstellung der an die Rechenzentren und die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
-# §§ 5 und 6 – (weggefallen)
+# §§ 5 bis 8 – (weggefallen)
 
-# § 7 – (weggefallen)
+# § 9 – Außerkrafttreten
 
-# § 8 – (weggefallen)
+Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Ablauf des 31. Dezember 2023 außer Kraft. Die §§ 1 bis 4, 5 und 6 treten mit Ablauf des 7. April 2023 außer Kraft.
