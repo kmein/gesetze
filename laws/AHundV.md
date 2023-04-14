@@ -1294,7 +1294,7 @@ Die Einbeziehung einer Bezugsperson in die Prüfung ist möglich, soweit dies we
 
 (Fundstelle: BGBl. I 2022, 2468 - 2471)
 
-Die Zulassung als Ausbildungsstätte ersetzt nicht eine nach § 11 Nummer 8f TierSchG erforderliche Erlaubnis.
+Die Zulassung als Ausbildungsstätte ersetzt nicht eine nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f TierSchG erforderliche Erlaubnis.
 
 Zulassungsvoraussetzungen für die Ausbildung zu allen Assistenzhundearten (§ 3 Absatz 1)
 
@@ -1372,7 +1372,7 @@ Umgang mit Tieren
 Die fachgerechte und artgemäße Haltung und Ausbildung der Assistenzhunde wird damit sichergestellt. Der besonderen Schutzbedürftigkeit der Hunde wird Rechnung getragen.
 
 –  
-Kopie der Erlaubnis nach § 11 Absatz 1 Nummer 8f TierSchG oder
+Kopie der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f TierSchG oder
 
 –  
 Eigenerklärung, dass keine Sanktion wegen Verstößen gegen das Tierschutz- oder das Tierseuchengesetz oder gegen Verordnungen, die aufgrund des Tierschutzgesetzes erlassen wurden, verhängt wurde (Straftaten und Ordnungswidrigkeiten) und auch kein gerichtliches Ordnungswidrigkeits- oder Strafverfahren oder staatsanwaltliches Ermittlungsverfahren wegen
@@ -1554,6 +1554,8 @@ Nachweis eines mindestens zweiwöchigen Praktikums in einer Einrichtung mit deut
 
 –  
 für Ausbildungen von Assistenzhundearten im Sinne von § 3 Absatz 1 Nummer 3 zusätzlich Nachweis von Kenntnissen der Deutschen Gebärdensprache, die mindestens des Sprachniveaus A2 gemäß dem Gemeinsamen Europäischen Referenzrahmen für Deutsche Gebärdensprache (GER-DGS) entsprechen, durch ein entsprechendes Zertifikat einer Sprachschule, Hochschule oder Volkshochschule; diese Voraussetzung kann entfallen, soweit die fachlich verantwortliche Person gewährleistet, dass eine dritte Person, die über die genannten Kenntnisse verfügt, für Dolmetschertätigkeiten vor Ort verfügbar ist.
+
+Anlage 7 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird die Angabe "§ 11 Nummer 8f TierSchG" durch die Angabe "§ 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f TierSchG" ersetzt. Anlage 7 Tabelle 1 Zeile 9 Spalte 3 Spiegelstrich 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird die Angabe "§ 11 Absatz 1 Nummer 8f TierSchG" durch die Angabe "§ 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f TierSchG" ersetzt.
 
 # Anlage 8 – (zu § 30 Absatz 1 Satz 1 und § 30 Absatz 2)
 

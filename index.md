@@ -4691,7 +4691,9 @@
 - [RheinMainDonSchStrGBek 1970-10-23](laws/RheinMainDonSchStrGBek_1970-10-23.md) Bekanntmachung zu dem Gesetz vom 29. November 1967 über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse
 - [RheinMainDonSchStrGBek 1972-08](laws/RheinMainDonSchStrGBek_1972-08.md) Bekanntmachung zu dem Gesetz über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse
 - [RheinPatVÄndInkrV 1](laws/RheinPatVÄndInkrV_1.md) Erste Verordnung über die Inkraftsetzung von Änderungen der Rheinpatentverordnung
+- [RheinSchPersEV](laws/RheinSchPersEV.md) Verordnung zur Einführung der Rheinschiffspersonalverordnung
 - [RheinSchPersEV](laws/RheinSchPersEV.md) Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein
+- [RheinSchPersV](laws/RheinSchPersV.md) Rheinschiffspersonalverordnung (Anlage 1 zur Verordnung zur Einführung der Rheinschiffspersonalverordnung)
 - [RheinSchPersV](laws/RheinSchPersV.md) Verordnung über das Schiffspersonal auf dem Rhein
 - [RheinSchPEV](laws/RheinSchPEV.md) Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung
 - [RheinSchPV 1994](laws/RheinSchPV_1994.md) Rheinschiffahrtspolizeiverordnung (Anlage zur Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung)
