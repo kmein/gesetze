@@ -179,7 +179,7 @@ b) Für die Entschädigung oder die Vergütung nach § 26 Absatz 3 Satz 2 des Ve
 
 c) Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an dem dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen Termin vorgenommen, so hat der Gebührenschuldner außer den Auslagen nach Buchstabe a auch die hierdurch entstehenden sonstigen Mehrkosten zu tragen. Zu diesen Mehrkosten gehört auch für jeden an der individuell zurechenbaren öffentlichen Leistung Beteiligten ein Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen dem gewöhnlichen und dem tatsächlichen Ort der gebührenfähigen Leistung.
 
-d) Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1017, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056, 1057 und 1061 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint. Ein Rücktritt von einer Prüfungsleistung ohne den Anfall von Gebühren ist bis zwei Wochen vor dem festgesetzten Prüfungstermin möglich.
+d) Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056 und 1057 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint.
 
 2. Gebührenreduzierung aufgrund geringeren Aufwands
 
