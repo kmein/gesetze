@@ -1752,7 +1752,6 @@
 - [EnLAG](laws/EnLAG.md) Gesetz zum Ausbau von Energieleitungen
 - [EnSiG](laws/EnSiG.md) Gesetz zur Sicherung der Energieversorgung
 - [EnSiGEntschV](laws/EnSiGEntschV.md) Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz
-- [EnSikuMaV](laws/EnSikuMaV.md) Verordnung zur Sicherung der Energieversorgung über kurzfristig wirksame Maßnahmen
 - [EnSimiMaV](laws/EnSimiMaV.md) Verordnung zur Sicherung der Energieversorgung über mittelfristig wirksame Maßnahmen
 - [EnSiTrV](laws/EnSiTrV.md) Verordnung zur priorisierten Abwicklung von schienengebundenen Energieträgertransporten zur Sicherung der Energieversorgung
 - [EnStatG](laws/EnStatG.md) Energiestatistikgesetz
