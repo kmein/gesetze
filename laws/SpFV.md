@@ -5,11 +5,9 @@
 
 Diese Verordnung gilt
 
-1. auf dem Rhein: für Sportboote von weniger als 15 Metern Länge, gemessen ohne Ruder und Bugspriet,
+1. auf den Binnenschifffahrtsstraßen für Sportboote von weniger als 20 Metern Länge, gemessen ohne Ruder und Bugspriet,
 
-2. auf den übrigen Binnenschifffahrtsstraßen für Sportboote von weniger als 20 Metern Länge, gemessen ohne Ruder und Bugspriet,
-
-3. auf den Seeschifffahrtsstraßen: für Sportboote ohne Längenbegrenzung.
+2. auf den Seeschifffahrtsstraßen: für Sportboote ohne Längenbegrenzung.
 
 # § 2 – Begriffsbestimmungen
 
@@ -25,7 +23,7 @@ die Seeschifffahrtsstraßen im Sinne des § 1 Absatz 1 der Seeschifffahrtsstraß
 
 3. Sportboote:
 
-nicht gewerbsmäßig, für Sport- oder Erholungszwecke verwendete Fahrzeuge, einschließlich Wassermotorräder, ausgenommen Fahrzeuge, die durch Muskelkraft oder nur mit einem Segel von höchstens 6 Quadratmeter Fläche fortbewegt werden.
+nicht gewerbsmäßig, für Sport- oder Freizeitzwecke verwendete Fahrzeuge, einschließlich Wassermotorräder, ausgenommen Fahrzeuge, die durch Muskelkraft oder nur mit einem Segel von höchstens 6 Quadratmeter Fläche fortbewegt werden.
 
 # § 3 – Fahrerlaubnis für die Binnenschifffahrtsstraßen
 
@@ -43,7 +41,7 @@ nicht gewerbsmäßig, für Sport- oder Erholungszwecke verwendete Fahrzeuge, ein
 
 5. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, zum Führen von Fahrzeugen berechtigen,
 
-6. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Schiffspersonalverordnung-Rhein (Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband)), die zuletzt durch Beschluss vom 29. Mai 2019 (Anlage 3 zu Artikel 1 Nummer 2 Satz 1 der Verordnung vom 8. November 2019 (BGBl. 2019 II S. 907) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen,
+6. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Rheinschiffs - personalverordnung (Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband)) in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen,
 
 7. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen.
 
@@ -68,6 +66,8 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 4. Sportbootführerschein-Binnen nach der Sportbootführerscheinverordnung-Binnen vom 22. März 1989 (BGBl. I S. 536, 1102), die zuletzt durch Artikel 4 Absatz 122 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist,
 
 5. Befähigungsnachweis für das Führen von Sport- und Hausbooten in dem Fahrtbereich Binnengewässer, der nach den Vorschriften der Deutschen Demokratischen Republik erteilt worden ist.
+
+6. Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen nach dieser Verordnung, auch wenn dieser eine Beschränkung der Fahrzeuglänge auf &lt; 15 m auf dem Rhein enthält.
 
 (5) Gegen Vorlage eines der in Absatz 2 genannten Befähigungszeugnisse bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt. Dies gilt auch für ruhende Befähigungszeugnisse, sofern der Grund ihres Ruhens in der Nichterneuerung des Nachweises der Tauglichkeit liegt. Das Ablegen einer Prüfung ist in diesem Fall nicht erforderlich.
 
@@ -111,37 +111,23 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 
 (1) Keiner Fahrerlaubnis nach dieser Verordnung bedürfen
 
-1. Personen beim Führen eines Sportbootes auf dem Rhein, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung höchstens 3,68 Kilowatt beträgt,
-
-2. auf allen übrigen Binnenschifffahrtsstraßen und auf den Seeschifffahrtsstraßen Personen beim Führen eines Sportbootes, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung bei Verwendung eines
+1. auf allen Binnenschifffahrtsstraßen und auf den Seeschifffahrtsstraßen Personen beim Führen eines Sportbootes, sofern das zu führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht überschreitbare Nutzleistung bei Verwendung eines
 
 a) Verbrennungsmotors höchstens 11,03 Kilowatt,
 
 b) Elektromotors höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 beträgt,
 
-3. Personen beim Führen eines Segelsurfbretts,
+2. Personen beim Führen eines Segelsurfbretts,
 
-4. Personen mit Wohnsitz außerhalb des Geltungsbereichs dieser Verordnung, die sich nicht länger als ein Jahr im Geltungsbereich dieser Verordnung aufhalten, sofern im Wohnsitzstaat keine Fahrerlaubnis für das zu führende Sportboot erforderlich ist,
+3. Personen mit Wohnsitz außerhalb des Geltungsbereichs dieser Verordnung, die sich nicht länger als ein Jahr im Geltungsbereich dieser Verordnung aufhalten, sofern im Wohnsitzstaat keine Fahrerlaubnis für das zu führende Sportboot erforderlich ist,
 
-5. Inhaber eines von einer als gemeinnützig anerkannten Körperschaft erteilten Befähigungsnachweises beim Führen von Wasserrettungsfahrzeugen in dem jeweiligen Geltungsbereich.
+4. Inhaber eines von einer als gemeinnützig anerkannten Körperschaft erteilten Befähigungsnachweises beim Führen von Wasserrettungsfahrzeugen in dem jeweiligen Geltungsbereich.
 
 Ist im Fall des Satzes 1 Nummer 4 in dem Staat des Wohnsitzes für das Führen eines Sportbootes auf den jeweiligen Gewässern ein Befähigungsnachweis amtlich vorgeschrieben oder wendet dieser Staat die Resolution Nr. 40 ECE (TRANS/SC.3/147/Rev.3, VkBl. 2013 S. 987) an, benötigt die Person den Befähigungsnachweis oder ein internationales Zertifikat nach der Resolution Nr. 40 ECE für das jeweilige Gewässer im Geltungsbereich dieser Verordnung. Die Generaldirektion Wasserstraßen und Schifffahrt macht im Verkehrsblatt bekannt, welche Staaten die Resolution Nr. 40 ECE anwenden.
 
 (2) Eine Fahrerlaubnis für das Führen eines Sportbootes unter Segel ist nur auf den in der Anlage 8 aufgeführten Binnenschifffahrtsstraßen erforderlich.
 
-(3) Auf dem Rhein ist bei einer Nutzleistung von mehr als 3,68 Kilowatt für das Führen eines Sportbootes Folgendes erforderlich:
-
-1. eine Fahrerlaubnis nach § 3 Absatz 1,
-
-2. ein Befähigungszeugnis, das den nationalen Vorschriften der Rheinuferstaaten und Belgiens für Binnengewässer entspricht oder
-
-3. sofern der Schiffsführer seinen Wohnsitz nicht im Inland hat und sein Aufenthalt im Geltungsbereich dieser Verordnung nicht länger als ein Jahr andauert,
-
-a) ein im Wohnsitzstaat amtlich vorgeschriebener Befähigungsnachweis für das Führen von Sportbooten auf Binnengewässern oder
-
-b) ein internationales Zertifikat im Sinne der Resolution Nr. 40 ECE für die jeweilige Antriebsart, sofern diese Resolution im Wohnsitzstaat angewendet wird.
-
-(4) Gegen Vorlage eines Sportküstenschifferscheins, Sportseeschifferscheins oder Sporthochseeschifferscheins oder eines vor dem 1. Oktober 1999 erteilten Führerscheins für Küstenfahrt (BR) des Deutschen Segler-Verbandes sowie eines vor dem 1. Januar 1994 erteilten Führerscheins für die Revierfahrt (R), für große Küstenfahrt (BK) oder Seefahrt (C) des Deutschen Segler-Verbandes mit der Antriebsart unter Segel bei einem der beliehenen Verbände wird dem Inhaber eines Führerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen mit der Antriebsart Antriebsmaschine auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für beide Antriebsarten erteilt.
+(3) Gegen Vorlage eines Sportküstenschifferscheins, Sportseeschifferscheins oder Sporthochseeschifferscheins oder eines vor dem 1. Oktober 1999 erteilten Führerscheins für Küstenfahrt (BR) des Deutschen Segler-Verbandes sowie eines vor dem 1. Januar 1994 erteilten Führerscheins für die Revierfahrt (R), für große Küstenfahrt (BK) oder Seefahrt (C) des Deutschen Segler-Verbandes mit der Antriebsart unter Segel bei einem der beliehenen Verbände wird dem Inhaber eines Führerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen mit der Antriebsart Antriebsmaschine auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für beide Antriebsarten erteilt.
 
 # § 6 – Anforderungen für die Erteilung der Fahrerlaubnis
 
@@ -161,7 +147,7 @@ b) eines Sportbootes unter Segel mindestens 14 Jahre alt sein,
 
 Ein Bewerber, der noch nicht 18 Jahre alt oder sonst in seiner Geschäftsfähigkeit beschränkt ist, bedarf der schriftlichen oder elektronischen Zustimmung des gesetzlichen Vertreters.
 
-(2) Die medizinische Tauglichkeit des Bewerbers ist durch einen Tauglichkeitsnachweis eines niedergelassenen Arztes nach Anhang 1 der Anlage 2 zu bestätigen. Zur Beurteilung der medizinischen Tauglichkeit kann dem Arzt
+(2) Die medizinische Tauglichkeit des Bewerbers ist durch einen Tauglichkeitsnachweis eines Arztes nach Anhang 1 der Anlage 2 zu bestätigen. Zur Beurteilung der medizinischen Tauglichkeit kann dem Arzt
 
 1. eine Bescheinigung über das ausreichende Sehvermögen einer nach § 67 der Fahrerlaubnis-Verordnung anerkannten Sehteststelle unter Einhaltung der DIN 58220 Ausgabe September 2013 und
 
@@ -636,23 +622,31 @@ Beschränkung 02<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angeze
 
 Anlage 2 Einführung Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Seevermögen" durch das Wort "Sehvermögen" ersetzt
 
-# Anhang 1 zu Anlage 2 – (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Tauglichkeitsnachweises
+# Anhang 1 zu Anlage 2 – (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportbootschifffahrt
 
-(Fundstelle: BGBl. I 2022, 2220)
-
-Die untersuchte Person wurde hinsichtlich ihrer medizinischen Tauglichkeit mit folgendem Ergebnis untersucht:
-
-Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
-
-Eine Bescheinigung des Hörakustikerbetriebs mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
-
-# Anhang 2 zu Anlage 2 – (zu § 10 Absatz 1 Satz 2)Muster des ärztlichen Tauglichkeitsnachweises
-
-(Fundstelle: BGBl. I 2022, 2221)
+(Fundstelle: BGBl. 2023 I Nr. 105, S. 33 – 34)
 
 Die untersuchte Person wurde hinsichtlich ihrer körperlichen Fähigkeiten mit folgendem Ergebnis untersucht:
 
+Angaben zu Sehteststelle
+
 Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
+
+Angaben zum Hörgeräteakustikbetrieb
+
+Eine Bescheinigung des Hörgeräteakustikbetriebes mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
+
+# Anhang 2 zu Anlage 2 – (zu § 10 Absatz 1 Satz 2)Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin um die Funktion als Prüfer/Prüferin in der Sportbootschifffahrt
+
+(Fundstelle: BGBl. 2023 I Nr. 105, S. 35 – 36)
+
+Die untersuchte Person wurde hinsichtlich ihrer körperlichen Fähigkeiten mit folgendem Ergebnis untersucht:
+
+Angaben zu Sehteststelle
+
+Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
+
+Angaben zum Hörgeräteakustikbetrieb
 
 Eine Bescheinigung des Hörgeräteakustikbetriebes mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
 
@@ -1432,50 +1426,10 @@ Pohlesee
 
 Kleiner Wannsee
 
-# Anlage 9 – (zu § 8 Absatz 8 Satz 2)Muster für den vorläufigen Sportbootführerschein
+# Anlage 9 – (zu § 8 Absatz 8 Satz 2)Vorläufiger Sportbootführerschein
 
-(Fundstelle: BGBl. I 2017, 1039)
+(Fundstelle: BGBl. 2023 I Nr. 105, S. 37 – 38)
 
-Ausstellende Behörde
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0105_0010.jpg)
 
-Vorläufiger Sportbootführerschein  
-(nur gültig in Zusammenhang mit einem Personalausweis oder Reisepass)  
-Gültig für  
-Binnenschifffahrtsstraßen\*  
-Sportboote mit Antriebsmaschine/unter Segel<span id="FnR.f798261_01"></span><a href="#f798261_01" class="FnR">*</a></sup> , Länge &lt; 20 Meter<span id="FnR.f798261_02"></span><a href="#f798261_02" class="FnR">**</a></sup>  
-Seeschifffahrtsstraßen\*  
-Sportboote mit Antriebsmaschine
-
-Frau/Herr\*
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Name)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Vorname)
-
-Geburtsdatum: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Geburtsort: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Staat: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-ist Inhaberin/Inhaber\* des oben angegebenen Sportbootführerscheins. Dieser vorläufige Führerschein ist gültig bis zum Erhalt des amtlichen Sportbootführerscheins, längstens bis 3 Monate nach seinem Ausstellungsdatum.
-
-  
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Unterschrift der Inhaberin/des Inhabers\*)
-
-  
-  
-Ausstellungsort: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Ausstellungsdatum: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-  
-  
-  
-  
-  
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(Stempel/Unterschrift der ausstellenden Behörde)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0105_0020.jpg)
