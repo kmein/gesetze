@@ -175,7 +175,7 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (5) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der Umweltprüfung bei der Aufstellung von Raumordnungsplänen. Sofern dabei auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz zu erlassen.
 
-§ 8 (früher § § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 8 (früher § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
 # § 9 – Beteiligung bei der Aufstellung von Raumordnungsplänen
 
