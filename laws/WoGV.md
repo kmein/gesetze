@@ -672,7 +672,8 @@ mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
 # Anlage – (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023
 
-(Fundstelle: BGBl. I 2022, 2166 – 2210)
+(Fundstelle: BGBl. I 2022, 2166 – 2210;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.
 

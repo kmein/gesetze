@@ -11,7 +11,7 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 1. in den Fällen des Betriebsbeginns im Sinne des § 14 Absatz 1 Satz 1 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 1,
 
-2. in den Fällen der Verlegung des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 1 der Gewerbeordnung und in den Fällen des Wechsels oder der Ausdehnung des Gegenstandes des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 2 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 2 und
+2. in den Fällen der Verlegung des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 1 der Gewerbeordnung, in den Fällen des Wechsels oder der Ausdehnung des Gegenstandes des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 2 der Gewerbeordnung und in den Fällen der Änderung des Namens des Gewerbetreibenden im Sinne des § 14 Absatz 1 Satz 2 Nummer 2a der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 2 und
 
 3. in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 3 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 3.
 
@@ -97,13 +97,45 @@ c) der Daten in den Feldern 12 und 30 der Anlage 3,
 
 8. an das Registergericht nach § 14 Absatz 8 Satz 1 Nummer 8 der Gewerbeordnung mit Ausnahme der Daten in den Feldern 8 bis 10, 12 bis 14, 16, 21, 22, 24 und 28 bis 30 der Anlage 3,
 
-9. an die für die Lebensmittelüberwachung zuständigen Behörden der Länder nach § 14 Absatz 8 Satz 1 Nummer 10 der Gewerbeordnung mit Ausnahme
+9. an die nach Landesrecht zuständigen Behörden zur Wahrnehmung der Aufgaben nach dem Lebensmittel-, Bedarfsgegenstände-, Futtermittel-, Tabak-, Tiergesundheits- und Tierschutzrecht nach § 14 Absatz 8 Satz 1 Nummer 10 der Gewerbeordnung nach § 14 Absatz 8 Satz 1 Nummer 10 der Gewerbeordnung mit Ausnahme
 
 a) der Daten in den Feldern 10, 12, 13, 27 bis 31 und 33 der Anlage 1,
 
 b) der Daten in den Feldern 10, 12, 13, 25 bis 28 und 30 der Anlage 2 und
 
-c) der Daten in den Feldern 10, 12, 13, 28 und 30 der Anlage 3.
+c) der Daten in den Feldern 10, 12, 13, 28 und 30 der Anlage 3,
+
+10. an die Deutsche Rentenversicherung Knappschaft-Bahn-See nach § 14 Absatz 8 Satz 1 Nummer 11 der Gewerbeordnung mit Ausnahme
+
+a) der Daten in den Feldern 12, 13, 17, 19, 21 bis 31 und 33 der Anlage 1,
+
+b) der Daten in den Feldern 12, 13, 17, 22 bis 28 und 30 der Anlage 2 und
+
+c) der Daten in den Feldern 12, 13, 17, 19, 21 bis 28 und 30 der Anlage 3,
+
+11. an die Ausländerbehörden nach § 14 Absatz 8 Satz 1 Nummer 12 der Gewerbeordnung mit Ausnahme
+
+a) der Daten in den Feldern 12 bis 14, 17, 19, 22 bis 29 und 33 der Anlage 1,
+
+b) der Daten in den Feldern 12 bis 14, 17, 22 bis 26 und 30 der Anlage 2 und
+
+c) der Daten in den Feldern 12 bis 14, 17, 19, 21 bis 28 und 30 der Anlage 3,
+
+12. an die Finanzämter nach § 14 Absatz 8 Satz 1 Nummer 13 der Gewerbeordnung mit Ausnahme
+
+a) der Daten in den Feldern 6, 12, 13, 19, 21, 22, 27 bis 31 und 33 der Anlage 1,
+
+b) der Daten in den Feldern 6, 12, 13, 22, 25 bis 28 und 30 der Anlage 2 und
+
+c) der Daten in den Feldern 6, 12, 13, 19, 21, 22, 27 und 30 der Anlage 3,
+
+13. an die für die Erlaubnisverfahren nach der Gewerbeordnung zuständigen Behörden nach § 14 Absatz 8 Satz 1 Nummer 14 der Gewerbeordnung mit Ausnahme
+
+a) der Daten in Feld 33 der Anlage 1,
+
+b) der Daten in Feld 30 der Anlage 2 und
+
+c) der Daten in Feld 30 der Anlage 3.
 
 Die Daten sind nicht zu übermitteln, wenn die empfangsberechtigte Stelle auf die regelmäßige Datenübermittlung verzichtet hat.
 
@@ -123,7 +155,7 @@ c) in den Feldern 6, 10, 18 bis 26, 28 und 29 der Anlage 3 als Erhebungsmerkmale
 
 (3) Sofern sich bei der Anmeldung eines Gewerbes nach § 14 Absatz 1 oder § 55c der Gewerbeordnung Anhaltspunkte für Verstöße gegen die in § 14 Absatz 8 Satz 1 Nummer 7 der Gewerbeordnung genannten Vorschriften ergeben, übermitteln die zuständigen Behörden diese Anhaltspunkte einschließlich der Daten aus der Gewerbeanzeige mit Ausnahme der Daten in den Feldern 13, 27 und 33 der Anlage 1 an die Behörden der Zollverwaltung. Das Bundesministerium der Finanzen und die Länder legen im Rahmen einer Verwaltungsvereinbarung einvernehmlich fest, in welchen Fällen Anhaltspunkte im Sinne des Satzes 1 vorliegen.
 
-(4) Die Übermittlung der Daten aus der Gewerbeanzeige an die in den Absätzen 1 bis 3 genannten Stellen erfolgt elektronisch über verwaltungsinterne Kommunikationsnetze oder verschlüsselt über das Internet. Bei Datenübermittlungen über das Internet ist als Übermittlungsprotokoll der vom Bundesministerium für Wirtschaft und Energie im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702) in der jeweils geltenden Fassung bleibt unberührt. Bei nicht über verwaltungsinterne Kommunikationsnetze erfolgender direkter elektronischer Kommunikation zwischen zuständiger Behörde und den in den Absätzen 1 bis 3 genannten Stellen ist das Deutsche Verwaltungsdiensteverzeichnis (DVDV) zu Grunde zu legen. Als Datenaustauschformat ist der vom Bundesministerium für Wirtschaft und Energie im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. Bei der Festlegung der Standards für das Übermittlungsprotokoll sowie für das Datenaustauschformat nach den Sätzen 2 und 5 sind die vom IT-Planungsrat nach § 1 Absatz 1 Satz 1 Nummer 2 des IT-Staatsvertrages beschlossenen IT-Interoperabilitäts- und IT-Sicherheitsstandards zu beachten.
+(4) Die Übermittlung der Daten aus der Gewerbeanzeige an die in den Absätzen 1 bis 3 genannten Stellen erfolgt elektronisch über verwaltungsinterne Kommunikationsnetze oder verschlüsselt über das Internet. Bei Datenübermittlungen über das Internet ist als Übermittlungsprotokoll der vom Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702) in der jeweils geltenden Fassung bleibt unberührt. Bei nicht über verwaltungsinterne Kommunikationsnetze erfolgender direkter elektronischer Kommunikation zwischen zuständiger Behörde und den in den Absätzen 1 bis 3 genannten Stellen ist das Deutsche Verwaltungsdiensteverzeichnis (DVDV) zu Grunde zu legen. Als Datenaustauschformat ist der vom Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. Bei der Festlegung der Standards für das Übermittlungsprotokoll sowie für das Datenaustauschformat nach den Sätzen 2 und 5 sind die vom IT-Planungsrat nach § 1 Absatz 1 Satz 1 Nummer 2 des IT-Staatsvertrages beschlossenen IT-Interoperabilitäts- und IT-Sicherheitsstandards zu beachten.
 
 (5) Die zuständige Behörde übermittelt die Daten aus der Gewerbeanzeige unverzüglich nach Bescheinigung des Empfangs der Gewerbeanzeige nach § 15 Absatz 1 der Gewerbeordnung an die in den Absätzen 1 und 3 genannten Stellen. Die Daten sind an die in Absatz 2 genannten Stellen unverzüglich, spätestens jedoch am ersten Arbeitstag des Monats, der auf die Bescheinigung des Empfangs der Gewerbeanzeige folgt, zu übermitteln.
 
@@ -139,19 +171,19 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 1 Satz 1 Nummer 1)Gewerbe-Anmeldung
 
-(Fundstelle: BGBl. I 2019, 918 – 919)
+(Fundstelle: BGBl. I 2019, 918 – 919; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2019/j0916-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0103_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2 – (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
 
-(Fundstelle: BGBl. I 2019, 920 – 921)
+(Fundstelle: BGBl. I 2019, 920 – 921; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2019/j0916-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0103_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3 – (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
 

@@ -71,9 +71,11 @@ Die Mitglieder des Ausschusses sowie ihre Stellvertreter müssen in der Lage sei
 
 a) eine Erlaubnis nach § 34d Absatz 1 oder 2 der Gewerbeordnung hat oder
 
-b) einen Sachkundenachweis im Sinne des § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung oder einen diesem nach § 27 der Versicherungsvermittlungsverordnung gleichgestellten Abschluss besitzt oder
+b) einen Sachkundenachweis im Sinne des § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung oder einen diesem nach § 27 der Versicherungsvermittlungsverordnung gleichgestellten Abschluss besitzt,
 
-2. eine Folgeprüfung zur Erweiterung einer nach § 34f Absatz 1 Satz 3 oder § 34h Absatz 1 Satz 3 der Gewerbeordnung auf einzelne Kategorien von Finanzanlagen beschränkten Erlaubnis ablegt.
+2. eine Folgeprüfung zur Erweiterung einer nach § 34f Absatz 1 Satz 3 oder § 34h Absatz 1 Satz 3 der Gewerbeordnung auf einzelne Kategorien von Finanzanlagen beschränkten Erlaubnis ablegt oder
+
+3. einen Sachkundenachweis im Sinne des § 34i Absatz 2 Nummer 4 der Gewerbeordnung besitzt.
 
 (6) Die Prüfung ist nicht öffentlich. Es können jedoch folgende Personen anwesend sein:
 
@@ -111,9 +113,11 @@ d) als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin fü
 
 e) als Bank- oder Sparkassenkaufmann oder als Bank- oder Sparkassenkauffrau,
 
-f) als Kaufmann für Versicherungen und Finanzen „Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen „Fachrichtung Finanzberatung“ oder
+f) als Kaufmann für Versicherungen und Finanzen „Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen „Fachrichtung Finanzberatung“,
 
-g) als Investmentfondskaufmann oder als Investmentfondskauffrau;
+g) als Kaufmann für Versicherungen und Finanzanlagen oder als Kauffrau für Versicherungen und Finanzanlagen oder
+
+h) als Investmentfondskaufmann oder als Investmentfondskauffrau;
 
 2. ein Abschlusszeugnis
 
@@ -129,9 +133,11 @@ wenn zusätzlich eine mindestens einjährige Berufserfahrung im Bereich der Anla
 
 (2) Der erfolgreiche Abschluss eines mathematischen, wirtschaftswissenschaftlichen oder rechtswissenschaftlichen Studiums an einer Hochschule oder Akademie, die einen Abschluss verleiht, der einem Hochschulabschluss gleichgestellt ist, wird als Sachkundenachweis anerkannt, wenn in der Regel zusätzlich eine mindestens dreijährige Berufserfahrung im Bereich der Anlageberatung oder Anlagevermittlung nachgewiesen wird.
 
+(+++ § 4 Abs. 2: Zur Geltung vgl. § 5 Satz 2 +++)
+
 # § 5 – Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
-Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
+Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig. § 4 Absatz 2 gilt entsprechend für einen in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftraum erworbenen Abschluss.
 
 # § 6 – Angaben zur Speicherung im Vermittlerregister
 
@@ -211,7 +217,7 @@ Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der erforderlichen S
 
 (2) Reichen die Maßnahmen nach Absatz 1 nicht aus, um nach vernünftigem Ermessen zu gewährleisten, dass keine Beeinträchtigung der Interessen des Anlegers riskiert wird, legt der Gewerbetreibende dem Anleger die allgemeine Art oder die Quellen von Interessenkonflikten rechtzeitig vor Abschluss eines Geschäfts eindeutig offen. Die Mitteilung hat mittels eines dauerhaften Datenträgers zu erfolgen und muss so ausführlich sein, dass der Anleger seine Entscheidung über die Anlageberatung oder Anlagevermittlung, in deren Zusammenhang der Interessenkonflikt auftritt, in voller Kenntnis der Sachlage treffen kann.
 
-(3) Der Gewerbetreibende darf seine Beschäftigten nicht in einer Weise vergüten oder bewerten, die mit ihrer Pflicht, im bestmöglichen Interesse des Anlegers zu handeln, unvereinbar ist. Der Gewerbetreibende darf keine Vorkehrungen durch die Vergütung, Verkaufsziele oder in anderer Weise treffen, durch die Anreize für ihn selbst oder seine Beschäftigten geschaffen werden könnten, einem Anleger eine bestimmte Finanzanlage zu empfehlen, obwohl er eine andere, den Bedürfnissen des Anlegers besser entsprechende Finanzanlage anbieten kann. Hinsichtlich der Vergütung und Bewertung der Beschäftigten nach Satz 1 gilt Artikel 27 Absatz 1, 2, 3 Satz 2 und Absatz 4 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1), die durch die Delegierte Verordnung (EU) 2017/2294 vom 28. August 2017 (ABl. L 329 vom 28.8.2017, S. 4) geändert worden ist, entsprechend.
+(3) Der Gewerbetreibende darf seine Beschäftigten nicht in einer Weise vergüten oder bewerten, die mit ihrer Pflicht, im bestmöglichen Interesse des Anlegers zu handeln, unvereinbar ist. Der Gewerbetreibende darf keine Vorkehrungen durch die Vergütung, Verkaufsziele oder in anderer Weise treffen, durch die Anreize für ihn selbst oder seine Beschäftigten geschaffen werden könnten, einem Anleger eine bestimmte Finanzanlage zu empfehlen, obwohl er eine andere, den Bedürfnissen des Anlegers besser entsprechende Finanzanlage anbieten kann. Hinsichtlich der Vergütung und Bewertung der Beschäftigten nach Satz 1 gilt Artikel 27 Absatz 1, 2, 3 Satz 2 und Absatz 4 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1) in der jeweils geltenden Fassung entsprechend.
 
 # § 12 – Statusbezogene Informationspflichten
 
@@ -315,7 +321,7 @@ Im Fall einer Anlageberatung über Vermögensanlagen im Sinne des § 1 Absatz 2 
 
 3. über seine Anlageziele, einschließlich seiner Risikotoleranz,
 
-einzuholen, die erforderlich sind, um dem Anleger eine Finanzanlage empfehlen zu können, die für ihn geeignet ist und insbesondere seiner Risikotoleranz und seiner Fähigkeit Verluste zu tragen, entspricht. Der Gewerbetreibende darf dem Anleger nur Finanzanlagen empfehlen, die nach den eingeholten Informationen für diesen geeignet sind (Geeignetheitsprüfung). Hinsichtlich der Anforderungen an die Geeignetheit und den im Zusammenhang mit der Geeignetheit geltenden Pflichten sind die Artikel 54 und 55 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden. Sofern der Gewerbetreibende die erforderlichen Informationen nicht erlangt, darf er dem Anleger im Rahmen der Anlageberatung keine Finanzanlage empfehlen.
+einzuholen, die erforderlich sind, um dem Anleger eine Finanzanlage empfehlen zu können, die für ihn geeignet ist und insbesondere seiner Risikotoleranz und seiner Fähigkeit Verluste zu tragen, entspricht. Der Gewerbetreibende darf dem Anleger nur Finanzanlagen empfehlen, die nach den eingeholten Informationen für diesen geeignet sind (Geeignetheitsprüfung). Hinsichtlich der Anforderungen an die Geeignetheit und der im Zusammenhang mit der Geeignetheit geltenden Pflichten sind die Artikel 54 und 55 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden. Sofern der Gewerbetreibende die erforderlichen Informationen nicht erlangt, darf er dem Anleger im Rahmen der Anlageberatung keine Finanzanlage empfehlen.
 
 (2) Vor einer Anlagevermittlung hat der Gewerbetreibende vom Anleger Informationen über seine Kenntnisse und Erfahrungen in Bezug auf Geschäfte mit bestimmten Arten von Finanzanlagen einzuholen, soweit diese Informationen erforderlich sind, um die Angemessenheit der Finanzanlage für den Anleger beurteilen zu können. Die Angemessenheit beurteilt sich danach, ob der Anleger über die erforderlichen Kenntnisse und Erfahrungen verfügt, um die Risiken im Zusammenhang mit der Art der Finanzanlage angemessen beurteilen zu können. Gelangt der Gewerbetreibende aufgrund der nach Satz 1 erhaltenen Information zu der Auffassung, dass die vom Anleger gewünschte Finanzanlage für den Anleger nicht angemessen ist, hat er den Anleger vor einer Anlagevermittlung darauf hinzuweisen. Erlangt der Gewerbetreibende nicht die erforderlichen Informationen, hat er den Anleger vor einer Anlagevermittlung darüber zu informieren, dass eine Beurteilung der Angemessenheit im Sinne des Satzes 1 nicht möglich ist. Der Hinweis nach Satz 3 und die Informationen nach Satz 4 können in standardisierter Form erfolgen.
 
@@ -471,13 +477,13 @@ Die Aufzeichnungen nach § 18a Absatz 1 Satz 1 und Absatz 4 sowie die in § 22 g
 
 (1) Der Gewerbetreibende hat
 
-1. auf seine Kosten die Einhaltung der sich aus den §§ 12 bis 23 ergebenden Verpflichtungen für jedes Kalenderjahr durch einen geeigneten Prüfer prüfen zu lassen und
+1. auf seine Kosten die Einhaltung der sich aus den §§ 11a bis 23 ergebenden Verpflichtungen für jedes Kalenderjahr durch einen geeigneten Prüfer prüfen zu lassen und
 
 2. der für die Erlaubniserteilung zuständigen Behörde den Prüfungsbericht bis spätestens zum 31. Dezember des darauffolgenden Jahres zu übermitteln.
 
-Der Prüfungsbericht hat einen Vermerk darüber zu enthalten, ob und gegebenenfalls welche Verstöße des Gewerbetreibenden festgestellt worden sind. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt. Sofern der Gewerbetreibende ausschließlich für eine Vertriebsgesellschaft tätig ist, ist er berechtigt, an Stelle des Prüfungsberichts nach Satz 1 einen Prüfungsbericht eines Prüfers nach Absatz 3 vorzulegen, der die Angemessenheit und Wirksamkeit des internen Kontrollsystems der Vertriebsgesellschaft zur Einhaltung der sich aus den §§ 12 bis 23 ergebenden Verpflichtungen durch die angeschlossenen Gewerbetreibenden für den Prüfungszeitraum bestätigt; spätestens nach vier Jahren hat der Gewerbetreibende einen Prüfungsbericht nach Satz 1 vorzulegen. Sofern der Gewerbetreibende im Berichtszeitraum keine nach § 34f Absatz 1 oder § 34h Absatz 1 Satz 1 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu dem in Satz 1 genannten Termin anstelle des Prüfungsberichts unaufgefordert und schriftlich eine entsprechende Erklärung zu übermitteln.
+Der Prüfungsbericht hat einen Vermerk darüber zu enthalten, ob und gegebenenfalls welche Verstöße des Gewerbetreibenden festgestellt worden sind. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt. Sofern der Gewerbetreibende ausschließlich für eine Vertriebsgesellschaft tätig ist, ist er berechtigt, an Stelle des Prüfungsberichts nach Satz 1 einen Prüfungsbericht eines Prüfers nach Absatz 3 vorzulegen, der die Angemessenheit und Wirksamkeit des internen Kontrollsystems der Vertriebsgesellschaft zur Einhaltung der sich aus den §§ 11a bis 23 ergebenden Verpflichtungen durch die angeschlossenen Gewerbetreibenden für den Prüfungszeitraum bestätigt; spätestens nach vier Jahren hat der Gewerbetreibende einen Prüfungsbericht nach Satz 1 vorzulegen. Sofern der Gewerbetreibende im Berichtszeitraum keine nach § 34f Absatz 1 oder § 34h Absatz 1 Satz 1 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu dem in Satz 1 genannten Termin anstelle des Prüfungsberichts unaufgefordert und in Textform eine entsprechende Erklärung zu übermitteln.
 
-(2) Die für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständige Behörde kann aus besonderem Anlass anordnen, dass Gewerbetreibende sich auf ihre Kosten im Rahmen einer außerordentlichen Prüfung durch einen geeigneten Prüfer auf die Einhaltung der sich aus den §§ 12 bis 23 ergebenden Pflichten überprüfen lassen und der Behörde den Prüfungsbericht übermitteln. Der Prüfer wird von der nach Satz 1 zuständigen Behörde bestimmt. Absatz 1 Satz 3 und 5 gilt entsprechend.
+(2) Die für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständige Behörde kann aus besonderem Anlass anordnen, dass Gewerbetreibende sich auf ihre Kosten im Rahmen einer außerordentlichen Prüfung durch einen geeigneten Prüfer auf die Einhaltung der sich aus den §§ 11a bis 23 ergebenden Pflichten überprüfen lassen und der Behörde den Prüfungsbericht übermitteln. Der Prüfer wird von der nach Satz 1 zuständigen Behörde bestimmt. Absatz 1 Satz 3 und 5 gilt entsprechend.
 
 (3) Geeignete Prüfer sind
 
@@ -511,45 +517,57 @@ sowie Zusammenschlüsse dieser Personen.
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 7 Absatz 1 Satz 2 oder Absatz 2 oder § 12 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+1. entgegen § 7 Absatz 1 Satz 2 oder Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-2. entgegen § 12a oder § 13 Absatz 1 Satz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
+2. entgegen § 11a Absatz 1 Satz 1 Maßnahmen zur Erkennung und Vermeidung von Interessenkonflikten nicht trifft,
 
-3. entgegen § 15 ein Informationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+3. entgegen § 11a Absatz 2 die Mitteilung über Interessenkonflikte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-4. entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3a Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einholt,
+4. entgegen § 11a Absatz 3 durch die Vergütung oder Bewertung Anreize für ihn schafft oder seine Beschäftigten schafft, einem Anleger eine bestimmte Finanzanlage zu empfehlen, obwohl er eine andere, den Bedürfnissen des Anlegers besser entsprechende Finanzanlage anbieten kann,
 
-5. entgegen § 16 Absatz 1 Satz 2 oder Satz 4 eine Finanzanlage empfiehlt,
+5. entgegen § 12 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-6. entgegen § 16 Absatz 2 Satz 3 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
+6. entgegen § 12a oder § 13 Absatz 1 Satz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
 
-7. entgegen § 16 Absatz 2 Satz 4 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+7. entgegen § 15 ein Informationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-8. entgegen § 17 Absatz 1 Satz 1 eine Zuwendung annimmt oder gewährt,
+8. entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3a Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einholt,
 
-9. entgegen § 18 Absatz 1 Satz 1, auch in Verbindung mit § 19 Satz 2, eine Geeignetheitserklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+9. entgegen § 16 Absatz 1 Satz 2 oder Satz 4 eine Finanzanlage empfiehlt,
 
-10. entgegen § 18a Absatz 3 Satz 1 einen Anleger nicht oder nicht rechtzeitig informiert,
+10. entgegen § 16 Absatz 2 Satz 3 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-11. entgegen § 20 sich Eigentum oder Besitz an Geldern oder Anteilen eines Anlegers verschafft,
+11. entgegen § 16 Absatz 2 Satz 4 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-12. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+12. entgegen § 17 Absatz 1 Satz 1 eine Zuwendung annimmt oder gewährt,
 
-13. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
+13. entgegen § 18 Absatz 1 Satz 1, auch in Verbindung mit § 19 Satz 2, eine Geeignetheitserklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-14. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+14. entgegen § 18a Absatz 1 Satz 1 die Inhalte von Telefongesprächen und sonstiger elektronischer Kommunikation nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet,
 
-15. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1 zuwiderhandelt,
+15. entgegen § 18a Absatz 2 Satz 1 nicht alle angemessenen Maßnahmen ergreift, um einschlägige Telefongespräche und sonstige elektronische Kommunikation aufzuzeichnen,
 
-16. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
+16. entgegen § 18a Absatz 3 Satz 1 einen Anleger nicht oder nicht rechtzeitig informiert,
 
-17. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
+17. entgegen § 20 sich Eigentum oder Besitz an Geldern oder Anteilen eines Anlegers verschafft,
+
+18. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+19. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
+
+20. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+21. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1 zuwiderhandelt,
+
+22. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
+
+23. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 (2) Ordnungswidrig im Sinne des § 145 Absatz 2 Nummer 9 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Reisegewerbes begeht.
 
 # Anlage 1 – (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
-(Fundstelle: BGBl. I 2012, 1015 - 1017)
+(Fundstelle: BGBl. I 2012, 1015 - 1017; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 2 – (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
 
