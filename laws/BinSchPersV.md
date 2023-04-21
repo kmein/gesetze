@@ -1219,8 +1219,6 @@ b) eines nach § 55 Absatz 1 Nummer 2 zugelassenen Ausbildungsprogramms durch di
 
 (2) Im Auftrag der zuständigen Behörde können die zusätzlich nach § 38 Absatz 4 zu prüfenden besonderen Anforderungen von der Industrie- und Handelskammer Magdeburg oder der Niederrheinischen Industrie- und Handelskammer Duisburg-Wesel-Kleve zu Duisburg durchgeführt werden. Die Aufsicht obliegt der zuständigen Behörde.
 
-(3) (weggefallen)
-
 # § 66 – Antrag auf Zulassung zur Prüfung
 
 (1) An der Prüfung kann nur teilnehmen, wer hierzu zugelassen wurde.
@@ -1449,7 +1447,7 @@ b) statt von einer Prüfungskommission die Prüfung von einem oder einer Beschä
 
 (2) Das Unionspatent ist von der zuständigen Behörde nach § 78 zu erteilen, wenn die antragstellende Person
 
-1. die Voraussetzungen des Kapitels 2 Abschnitt 1 und des des § 37 Nummer 1 erfüllt,
+1. die Voraussetzungen des Kapitels 2 Abschnitt 1 und des § 37 Nummer 1 erfüllt,
 
 2. ihre Identität nachweist,
 
@@ -1466,8 +1464,6 @@ Zusätzlich dürfen keine Tatsachen die Annahme rechtfertigen, dass bei einer Er
 (3) Ab Vollendung des 60. Lebensjahres verlängert die zuständige Behörde auf Antrag das Unionspatent, wenn der Inhaber oder die Inhaberin die Tauglichkeit nach den §§ 20 und 22 und die Identität nachweist. Das verlängerte Zeugnis läuft an dem Tag ab, an dem die nächste Tauglichkeitsuntersuchung nach § 22 Absatz 1 erforderlich ist. Das Unionspatent kann erneut, frühestens drei Monate vor den in § 22 Absatz 1 genannten Zeitpunkten verlängert werden.
 
 (4) Für die Ausstellung des verlängerten Unionspatentes gilt § 78 Absatz 2 und 4 entsprechend.
-
-(5) (weggefallen)
 
 # § 82 – Ablaufen und Verlängerung des Schifferzeugnisses
 
