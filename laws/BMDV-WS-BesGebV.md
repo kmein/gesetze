@@ -21,7 +21,7 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 
 5a. Nord-Ostsee-Kanal Gefahrenabwehrverordnung (NOK-GefAbwV),
 
-6. Binnenschiffspersonalverordnung (BinSchPersV)
+6. Binnenschiffspersonalverordnung (BinSchPersV),
 
 6a. Binnenschifffahrtsaufgabengesetz (BinSchAufgG),
 
@@ -76,7 +76,7 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 31. Seelotsenaus- und -fortbildungsverordnung  
 (SeeLAuFV),
 
-31a. Seelotseignungsverordnung (SeeLotsEigV)
+31a. Seelotseignungsverordnung (SeeLotsEigV),
 
 32. Verordnung über das Seelotswesen außerhalb der Reviere (SeelotRevierV),
 
