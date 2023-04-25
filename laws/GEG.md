@@ -1879,7 +1879,7 @@ Bis zum Inkrafttreten der erforderlichen jeweiligen landesrechtlichen Regelungen
 
 # Anlage 1 – (zu § 15 Absatz 1)Technische Ausführung des Referenzgebäudes (Wohngebäude)
 
-(Fundstelle: BGBl. I 2020, 1767 - 1768)
+(Fundstelle: BGBl. I 2020, 1767 - 1768; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 2 – (zu § 18 Absatz 1)Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)
 
@@ -1895,7 +1895,7 @@ Bis zum Inkrafttreten der erforderlichen jeweiligen landesrechtlichen Regelungen
 
 # Anlage 5 – (zu § 31 Absatz 1)Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
 
-(Fundstelle: BGBl. I 2020, 1776 - 1781)
+(Fundstelle: BGBl. I 2020, 1776 - 1781; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 1. Voraussetzungen für die Anwendung des vereinfachten Nachweisverfahrens  
   
@@ -2076,7 +2076,7 @@ Bei Wärmeverteilungs- und Warmwasserleitungen sowie Kälteverteilungs- und Kalt
 
 # Anlage 9 – (zu § 85 Absatz 6)Umrechnung in Treibhausgasemissionen
 
-(Fundstelle: BGBl. I 2020, 1788 - 1789)
+(Fundstelle: BGBl. I 2020, 1788 - 1789; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 1. Angabe in Energiebedarfsausweisen  
   

@@ -1077,8 +1077,6 @@ mitglieder</th><th style="text-align: right;">12<br />
 Haushalts-<br />
 mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">a</td><td style="text-align: right;">– 2,000E-2</td><td style="text-align: right;">– 3,000E-2</td><td style="text-align: right;">– 4,000E-2</td><td style="text-align: right;">– 6,000E-2</td><td style="text-align: right;">– 9,000E-2</td><td style="text-align: right;">– 1,200E-1</td></tr><tr class="even"><td style="text-align: left;">b</td><td style="text-align: right;">1,657E-4</td><td style="text-align: right;">1,648E-4</td><td style="text-align: right;">1,432E-4</td><td style="text-align: right;">1,300E-4</td><td style="text-align: right;">1,188E-4</td><td style="text-align: right;">1,152E-4</td></tr><tr class="odd"><td style="text-align: left;">c</td><td style="text-align: right;">1,870E-5</td><td style="text-align: right;">1,870E-5</td><td style="text-align: right;">1,880E-5</td><td style="text-align: right;">1,880E-5</td><td style="text-align: right;">2,220E-5</td><td style="text-align: right;">2,510E-5</td></tr></tbody></table>
 
-(+++ Hinweis: Werte für "b" und "c" für die Zeit ab 1.1.2022 vgl. § 24 WoGV idF d. Art. 1 Nr. 2 V v. 3.6.2021 I 1369 (1. WoGFV) +++)
-
 # Anlage 3 – (zu § 19 Absatz 2)
 
 (Fundstelle: BGBl. I 2022, 2164 – 2165)
