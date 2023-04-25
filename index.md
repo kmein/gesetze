@@ -546,6 +546,7 @@
 - [BBiG2005§73AnO 2014](laws/BBiG2005§73AnO_2014.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes
 - [BBiG2005§73AnO 2015](laws/BBiG2005§73AnO_2015.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes
 - [BBiG2005§73AnO 2015-06](laws/BBiG2005§73AnO_2015-06.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes
+- [BBiG2005§73AnO 2023](laws/BBiG2005§73AnO_2023.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes
 - [BBiGZustBek](laws/BBiGZustBek.md) Bekanntmachung der Bestimmung der zuständigen Stelle für den Geschäftsbereich des Bundesministers des Innern nach dem Berufsbildungsgesetz
 - [BBiG§84AnO 1](laws/BBiG§84AnO_1.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
 - [BBiG§84AnO 10](laws/BBiG§84AnO_10.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
