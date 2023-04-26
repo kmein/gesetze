@@ -789,8 +789,6 @@ a) zum Besteuerungsverfahren und dabei vorzusehen, dass ein Wechsel in der Abhä
 
 b) das Verfahren nach § 2 Absatz 7 näher zu regeln,
 
-2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 5, insbesondere zum Besteuerungsverfahren zu erlassen und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird,
-
 3. zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum Steuerlager (§ 4) gehören,
 
 4. Vorschriften zu § 5 Absatz 1 und 2, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen und dabei in der Erlaubnis bestimmte Handlungen zuzulassen und die Handlungen näher zu umschreiben, eine Mindestumschlagsmenge und eine Mindestlagerdauer vorzusehen sowie bei Gefährdung der Steuerbelange Sicherheit bis zur Höhe des Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder das Steuerlager unter amtlichen Verschluss zu nehmen,
