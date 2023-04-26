@@ -197,6 +197,8 @@ b) eine Auskunft aus dem Fahrerlaubnisregister, und
 
 (3) Die zuständige Behörde kann darüber hinaus weitere Angaben vom Halter verlangen, sofern dies für das Verfahren zur Genehmigung eines festgelegten Betriebsbereichs erforderlich ist.
 
+(+++ § 8 Abs. 3: Zur Geltung vgl. § 14 Abs. 1 +++)
+
 # § 9 – Genehmigungserteilung; Kontrollen
 
 (1) Die Genehmigung nach § 7 Absatz 2 Satz 2 wird erteilt, wenn

@@ -751,7 +751,7 @@ die als Zuschuss gewährte Graduiertenförderung,
 die Hälfte der nach § 3 Nr. 42 des Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden,
 
 7.1  
-das Arbeitslosengeld II und das Sozialgeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
+das Bürgergeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
 
 7.2  
 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des Zwölften Buches Sozialgesetzbuch,
