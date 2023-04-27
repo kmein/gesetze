@@ -1066,7 +1066,8 @@ Ist der Letztverbraucher, zu dessen Verbrauch die Netzentnahme erfolgt, ein Unte
 
 Die nach diesem Abschnitt mitzuteilenden Angaben müssen elektronisch übermittelt werden und einen sachkundigen Dritten in die Lage versetzen, ohne weitere Informationen die Richtigkeit und Vollständigkeit der übermittelten Angaben nachvollziehen zu können. Wenn derjenige, demgegenüber die Mitteilungs- und Informationspflichten nach diesem Abschnitt zu erfüllen sind, Formularvorlagen zu Form und Inhalt der nach diesem Abschnitt an sie zu übermittelnden Angaben bereitstellt, müssen die Angaben unter Verwendung dieser Formularvorlagen übermittelt werden.
 
-(+++ § 54: Zur Anwendung vgl. Anlage 1 Nr. 8 Satz 2 +++)
+(+++ § 54: Zur Anwendung vgl. Anlage 1 Nr. 8 Satz 2 +++)  
+(+++ § 54: Zur Anwendung vgl. § 4 Abs. 6 Satz 3 AusglMechV 2015 +++)
 
 # § 55 – Testierung
 
