@@ -123,7 +123,7 @@ die Entnahme von leitungsgebundenem Erdgas oder Wärme aus einem Netz mit Ausnah
 
 11. Prüfbehörde
 
-die in der Rechtsverordnung nach § 48 Absatz 1 Nummer 1 des Strompreisbremsegesetzes bestimmte Behörde;
+die in der Rechtsverordnung nach § 48 Absatz 1 Nummer 1 des Strompreisbremsegesetzes bestimmte Behörde oder die jeweilige nach § 48a des Strompreisbremsegesetzes beliehene juristische Person des Privatrechts;
 
 12. Prüfer
 
@@ -863,13 +863,13 @@ Eine Saldierung durch Lieferanten, Gemeinschaften der Wohnungseigentümer und Ve
 
 2. eine Erklärung des Letztverbrauchers, wonach er sich selbst verpflichtet, bis mindestens zum 30. April 2025 eine Belegschaft zu erhalten, die mindestens 90 Prozent der am 1. Januar 2023 vorhandenen Arbeitsplatz-Vollzeitäquivalente entspricht.
 
-(2) Zum Nachweis der Einhaltung der Verpflichtung nach Absatz 1 legt der Letztverbraucher oder Kunde der Prüfbehörde bis zum 15. Juli 2023 vor:
+(2) Zum Nachweis der Einhaltung der Verpflichtung nach Absatz 1 legt der Letztverbraucher oder Kunde der Prüfbehörde bis zum 31. Juli 2023 vor:
 
 1. die Tarifverträge oder Betriebsvereinbarungen nach Absatz 1 Satz 1 oder
 
 2. die Erklärungen nach Absatz 1 Satz 2.
 
-Erfolgt bis zum 15. Juli 2023 kein Nachweis, haben Letztverbraucher oder Kunden nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Strompreisbremsegesetz in Höhe von bis zu 2 Millionen Euro. Übersteigende Entlastungsbeträge sind zu erstatten. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. § 49a Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+Erfolgt bis zum 31. Juli 2023 kein Nachweis, haben Letztverbraucher oder Kunden nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Strompreisbremsegesetz in Höhe von bis zu 2 Millionen Euro. Übersteigende Entlastungsbeträge sind zu erstatten. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. § 49a Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
 
 (3) Im Rahmen des Abschlussberichts legt der Letztverbraucher oder Kunde, der unter Absatz 1 Satz 2 fällt, der Prüfbehörde einen durch einen Prüfer testierten Nachweis vor, der die Arbeitsplatzentwicklung darstellt. Im Fall eines Arbeitsplatzabbaus sind die Gründe dafür darzulegen. Sollte der Letztverbraucher Investitionen nach Absatz 4 Satz 2 Nummer 3 getätigt haben, ist ein entsprechender Investitionsplan dem Abschlussbericht beizufügen.
 
@@ -895,7 +895,7 @@ Erfolgt bis zum 15. Juli 2023 kein Nachweis, haben Letztverbraucher oder Kunden 
 
 (5) Ein Unternehmen, das eine Entlastungssumme über 50 Millionen Euro bezieht, darf im Jahr 2023 grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten Gewinnausschüttungen leisten.
 
-(6) Unternehmen können durch eine formlose Erklärung gegenüber der Prüfbehörde bis zum 31. März 2023 erklären, dass sie eine Förderung nach diesem Gesetz und dem Strompreisbremsegesetz mit einer Entlastungssumme über 25 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den Pflichten nach den Absätzen 1 und 5 unterliegen.
+(6) Unternehmen können durch eine formlose Erklärung gegenüber der Prüfbehörde bis zum 31. Juli 2023 erklären, dass sie eine Förderung nach diesem Gesetz und dem Strompreisbremsegesetz mit einer Entlastungssumme über 25 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den Pflichten nach den Absätzen 1 und 5 unterliegen.
 
 (7) Entlastungssumme im Sinne dieses Paragrafen ist die Entlastungssumme nach § 2 Nummer 4 einschließlich Entlastungsbeträgen nach Härtefallregelungen des Bundes oder der Länder aufgrund gestiegener Energiekosten infolge der Aggression Russlands gegen die Ukraine, nach § 36a des Neunten Buches Sozialgesetzbuch und nach § 26f des Krankenhausfinanzierungsgesetzes und abzüglich der Entlastungsbeträge nach dem Erdgas-Wärme-Soforthilfegesetz.
 

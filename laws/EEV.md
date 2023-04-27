@@ -29,8 +29,6 @@ Diese Verordnung trifft Regelungen
 
 (5) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Strom sind nach dem Stand von Wissenschaft und Technik zu erstellen.
 
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
-
 # § 3 – Transparenz der Vermarktungstätigkeiten
 
 Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-Energien-Gesetzes auf einer gemeinsamen Internetseite in einheitlichem Format in nicht personenbezogener Form zu veröffentlichen:
@@ -48,8 +46,6 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 6. die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-Bilanzkreises in viertelstündlicher Auflösung; sie ist unverzüglich nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen, und
 
 7. die Angaben nach § 72 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen.
-
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) (+++ § 3: zur Anwendung vgl. § 3a Satz 1 +++)
 
 # § 4 – Anreize zur bestmöglichen Vermarktung
 
@@ -80,8 +76,6 @@ K<sub>AE</sub> ∙ (P<sub>AE</sub> – P<sub>VT</sub>) + VK<sub>AE</sub> ∙ (
 
 (7) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres bezogen auf das Anreizjahr.
 
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
-
 # § 5 – Preislimitierung in Ausnahmefällen
 
 (1) Der Übertragungsnetzbetreiber kann nach Maßgabe der folgenden Absätze für diejenigen Stunden des folgenden Tages, für die im Fall von negativen Preisen an einer der Strombörsen ein Aufruf zur zweiten Auktion ergeht, von der Verpflichtung abweichen, die vollständige gemäß aktueller Prognose vorhergesagte stündliche Einspeisung zu preisunabhängigen Geboten an den Spotmärkten dieser Strombörsen nach § 2 Absatz 2 zu veräußern. Der Übertragungsnetzbetreiber hat der Bundesnetzagentur die konkreten Stunden, in denen er von der Befugnis nach Satz 1 Gebrauch macht, unverzüglich anzuzeigen. Die Sätze 1 und 2 sind entsprechend anzuwenden auf diejenigen Stunden des Folgetages, für die aufgrund einer partiellen Entkopplung grenzüberschreitend gekoppelter Marktgebiete von der Strombörse zu einer Anpassung der Gebote aufgerufen wird.
@@ -103,8 +97,6 @@ K<sub>AE</sub> ∙ (P<sub>AE</sub> – P<sub>VT</sub>) + VK<sub>AE</sub> ∙ (
 (4) Ist aufgrund nachprüfbarer Tatsachen zu erwarten, dass eine Veräußerung nach Absatz 3 nicht oder nur zu Preisen möglich sein wird, die deutlich unterhalb der nach Absatz 2 gesetzten negativen Preislimits liegen würden, kann der Übertragungsnetzbetreiber zur Stützung der börslichen Preise Vereinbarungen nutzen, in denen sich Stromerzeuger freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers die Einspeisung von Strom ganz oder teilweise zu unterlassen oder in denen sich Stromverbraucher freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers ihren Stromverbrauch in bestimmtem Ausmaß zu erhöhen. Die für freiwillige Maßnahmen nach Satz 1 gezahlten Preise dürfen nicht höher sein als die Preise, die sich am vortägigen Spotmarkt für die betreffende Stunde eingestellt hätten, wenn die im Rahmen freiwilliger Vereinbarungen von allen Übertragungsnetzbetreibern abgerufenen Mengen bereits als Nachfrage in die Preisbildung des vortägigen Spotmarkts eingegangen wären. Freiwillige Abregelungsvereinbarungen mit Stromerzeugern, die im Fall der Einspeisung eine Vergütung nach dem Erneuerbare-Energien-Gesetz erhielten, dürfen erst genutzt werden, wenn Vereinbarungen mit anderen Stromerzeugern oder Stromverbrauchern vollständig ausgenutzt wurden. Der Übertragungsnetzbetreiber hat eine Verfahrensanweisung zu entwickeln, in welchen Fällen und in welcher Weise er von den Bestimmungen dieses Absatzes Gebrauch machen wird. Die Verfahrensanweisung und etwaige Änderungen derselben sind der Bundesnetzagentur vor der erstmaligen Anwendung anzuzeigen. Die in diesem Absatz genannten Vereinbarungen sind der Bundesnetzagentur auf Verlangen jederzeit vorzulegen. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner Internetseite bekannt zu geben, für welche Stunden und für welche Energiemenge in der jeweiligen Stunde er von Vereinbarungen im Sinn des Satzes 1 Gebrauch gemacht hat.
 
 (5) Die durch die in Absatz 4 genannten Maßnahmen entstehenden Kosten gelten als Kosten für den untertägigen Ausgleich im Sinn der Anlage 1 Nummer 5.3 des Energiefinanzierungsgesetzes. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden.
-
-(+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
 # § 6 – (weggefallen)
 
@@ -306,8 +298,8 @@ b) Anforderungen zu regeln an die Ausstellung, Übertragung und Entwertung von R
 
 # § 15 – Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
 
-Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für Flächen in der ausschließlichen Wirtschaftszone festzulegen
+Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für zentral voruntersuchte Flächen in der ausschließlichen Wirtschaftszone festzulegen
 
-1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes, und
+1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 5 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Feststellung nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes und der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 3 des Windenergie-auf-See-Gesetzes, und
 
 2. die zu installierende Leistung auf dieser Fläche.

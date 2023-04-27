@@ -135,7 +135,7 @@ b) für das erste Halbjahr des Kalenderjahres 2022 auf mindestens 6 Prozent des 
 
 16. „Netzentnahme“ die Entnahme von elektrischer Energie aus einem Netz mit Ausnahme der Entnahme der jeweils nachgelagerten Netzebene,
 
-17. „Prüfbehörde“ die in der Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 1 zu bestimmende Behörde,
+17. „Prüfbehörde“ die in der Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 1 zu bestimmende Behörde oder die jeweilige nach § 48a beliehene juristische Person des Privatrechts,
 
 18. „Prüfer“ ein Wirtschaftsprüfer, eine Wirtschaftsprüfungsgesellschaft, ein genossenschaftlicher Prüfungsverband, ein vereidigter Buchprüfer oder eine Buchprüfungsgesellschaft,
 
@@ -1097,13 +1097,13 @@ Die Länder müssen dem Bundesministerium für Wirtschaft und Klimaschutz unverz
 
 2. durch eine Erklärung des Letztverbrauchers, wonach er sich selbst verpflichtet, bis mindestens zum 30. April 2025 eine Belegschaft zu erhalten, die mindestens 90 Prozent der am 1. Januar 2023 vorhandenen Arbeitsplatz-Vollzeitäquivalente entspricht.
 
-(2) Zum Nachweis der Einhaltung der Verpflichtung nach Absatz 1 legt der Letztverbraucher der Prüfbehörde bis zum 15. Juli 2023 vor
+(2) Zum Nachweis der Einhaltung der Verpflichtung nach Absatz 1 legt der Letztverbraucher der Prüfbehörde bis zum 31. Juli 2023 vor
 
 1. die Tarifverträge oder Betriebsvereinbarungen nach Absatz 1 Satz 1 oder
 
 2. die Erklärungen nach Absatz 1 Satz 2.
 
-Erfolgt bis zum 15. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetzes in Höhe von bis zu 2 Millionen Euro. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. § 49a Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+Erfolgt bis zum 31. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetzes in Höhe von bis zu 2 Millionen Euro. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. § 49a Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
 
 (3) Im Rahmen eines Abschlussberichts legt der Letztverbraucher, der unter Absatz 1 Satz 2 fällt, der Prüfbehörde einen durch Prüfer testierten Nachweis vor, der die Arbeitsplatzentwicklung darstellt. Im Fall eines Arbeitsplatzabbaus sind die Gründe dafür darzulegen. Sollte der Letztverbraucher Investitionen nach Absatz 4 Satz 2 Nummer 3 getätigt haben, ist ein entsprechender Investitionsplan dem Abschlussbericht beizufügen.
 
@@ -1129,7 +1129,7 @@ Erfolgt bis zum 15. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen An
 
 (5) Ein Unternehmen, das eine Entlastungssumme über 50 Millionen Euro bezieht, darf im Jahr 2023 grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten Gewinnausschüttungen leisten.
 
-(6) Unternehmen können durch eine formlose Erklärung gegenüber der Prüfbehörde bis zum 31. März 2023 erklären, dass sie eine Förderung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetz mit einer Entlastungssumme über 25 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den Pflichten nach den Absätzen 1 und 5 unterliegen.
+(6) Unternehmen können durch eine formlose Erklärung gegenüber der Prüfbehörde bis zum 31. Juli 2023 erklären, dass sie eine Förderung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetz mit einer Entlastungssumme über 25 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den Pflichten nach den Absätzen 1 und 5 unterliegen.
 
 (7) Entlastungssumme im Sinn dieses Paragrafen ist die Entlastungssumme nach § 2 Nummer 5 einschließlich Entlastungsbeträgen nach Härtefallregelungen des Bundes oder der Länder aufgrund gestiegener Energiekosten infolge der Aggression Russlands gegen die Ukraine, nach § 36a des Neunten Buches Sozialgesetzbuch und nach § 26f des Krankenhausfinanzierungsgesetzes und abzüglich der Entlastungsbeträge nach dem Erdgas-Wärme-Soforthilfegesetz.
 
@@ -1363,7 +1363,19 @@ c) sicherzustellen, dass die Abschöpfung der Überschusserlöse nicht zu einem 
 
 (2) Die Rechtsverordnung aufgrund des Absatzes 1 Nummer 2 bedarf der Zustimmung des Bundestages. Der Bundestag kann seine Zustimmung davon abhängig machen, dass seine Änderungswünsche übernommen werden. Übernimmt der Verordnungsgeber die Änderungen, ist eine erneute Beschlussfassung durch den Bundestag nicht erforderlich. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht abschließend mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
-# § 48a – Evaluierung
+# § 48a – Beleihung; Verordnungsermächtigung
+
+(1) Abweichend von § 48 Absatz 1 Nummer 1 kann das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, Verwaltungsakt oder öffentlich-rechtlichen Vertrag einer juristischen Person des Privatrechts die Befugnis übertragen, im eigenen Namen und in den Handlungsformen des öffentlichen Rechts die Aufgaben wahrzunehmen, die in diesem Gesetz und im Erdgas-Wärme-Preisbremsengesetz der Prüfbehörde zugewiesen sind (Beleihung). Von der Möglichkeit der Beleihung ausgenommen sind die Befugnisse, Ordnungswidrigkeiten nach § 43 Absatz 1 Nummer 6 dieses Gesetzes oder § 38 Absatz 1 Nummer 3 des Erdgas-Wärme-Preisbremsengesetzes zu verfolgen und zu ahnden. Die Wahrnehmung der Aufgaben schließt die Befugnis zum Erlass von Verwaltungsakten und zu deren Vollstreckung, zur Rücknahme und zum Widerruf der erlassenen Verwaltungsakte sowie den Erlass der Widerspruchsbescheide ein. Die Beleihung ist durch das Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger bekannt zu machen.
+
+(2) Beliehen werden kann nur, wer die notwendige Gewähr für die ordnungsgemäße Erfüllung der ihm zu übertragenden Aufgaben bietet.
+
+(3) Ein Beliehener unterliegt für die ihm übertragenen Aufgaben der Aufsicht des Bundesministeriums für Wirtschaft und Klimaschutz, dabei kann dieses die Aufsicht auf eine ihm nachgeordnete Behörde übertragen. Im Rahmen der Beleihung nach Absatz 1 können nähere Bestimmungen zur Ausgestaltung der Aufsicht festgelegt werden.
+
+(4) Eine durch Verwaltungsakt erfolgte Beleihung kann jederzeit ganz oder teilweise zurückgenommen, widerrufen oder mit Nebenbestimmungen verbunden werden.
+
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium der Finanzen auch mehreren juristischen Personen des Privatrechts im Wege der Beleihung nach Absatz 1 Aufgaben übertragen. Dabei sind die von den jeweiligen Beliehenen im Einzelnen wahrzunehmenden Aufgaben zu bestimmen, auch für die Abgrenzung der Beliehenen untereinander.
+
+# § 48b – Evaluierung
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert dieses Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann es die Entlastungen nach Teil 2 und den Ausgleich nach Teil 4 bereits bis zum 30. Juni 2023 evaluieren und ist dazu verpflichtet, wenn der Bundestag dies fordert. Das Bundesministerium für Wirtschaft und Klimaschutz übersendet dem Bundestag unverzüglich das Ergebnis der Evaluierungen nach den Sätzen 1 und 2.
 
