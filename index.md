@@ -4151,6 +4151,7 @@
 - [NOK-LV](laws/NOK-LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
 - [NOKBefAbgV](laws/NOKBefAbgV.md) Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
 - [NordBinSchHfV](laws/NordBinSchHfV.md) Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
+- [NordSBefV](laws/NordSBefV.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
 - [NordSBrWeinG](laws/NordSBrWeinG.md) Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See
 - [NordSFischZProk](laws/NordSFischZProk.md) Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
 - [NordSFischZProkBek](laws/NordSFischZProkBek.md) Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
@@ -4164,7 +4165,6 @@
 - [NotViKoV](laws/NotViKoV.md) Verordnung über den Betrieb eines Videokommunikationssystems für notarielle Urkundstätigkeiten 1
 - [NotVPV](laws/NotVPV.md) Verordnung über das Notarverzeichnis und die besonderen elektronischen Notarpostfächer
 - [NPBefVMVK](laws/NPBefVMVK.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern
-- [NPNordSBefV](laws/NPNordSBefV.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
 - [NpSG](laws/NpSG.md) Neue-psychoaktive-Stoffe-Gesetz
 - [NS-AufhG](laws/NS-AufhG.md) Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege
 - [NS-VEntschG](laws/NS-VEntschG.md) NS-Verfolgtenentschädigungsgesetz
@@ -5964,6 +5964,7 @@
 - [VKFVÄndBek 2020](laws/VKFVÄndBek_2020.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2021](laws/VKFVÄndBek_2021.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2022](laws/VKFVÄndBek_2022.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
+- [VKFVÄndBek 2023](laws/VKFVÄndBek_2023.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKVV](laws/VKVV.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
 - [VMordKonv](laws/VMordKonv.md) Konvention über die Verhütung und Bestrafung des Völkermordes
 - [VNTerrorÜbk](laws/VNTerrorÜbk.md) Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
