@@ -119,38 +119,34 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 3. entgegen Anhang II Abschnitt A Nummer 10 Unterabsatz 2 Satz 1, auch in Verbindung mit Abschnitt B Nummer 3 erster Gedankenstrich oder Abschnitt C Nummer 8, die alkoholische Gärung einer Cuvée auslöst.
 
-# § 11 – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+# § 11 – Verweisungen auf Vorschriften in Rechtsakten derEuropäischen Gemeinschaft oder der Europäischen Union
 
-Verweisungen in dieser Verordnung auf Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union beziehen sich auf die in der Anlage angegebenen Fassungen.
+Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union beziehen sich auf die in der Anlage angegebenen Fassungen.
 
 # § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-# Anlage – (zu § 11)Fundstellenverzeichnis der Verordnungen der Europäischen Union
+# Anlage – (zu § 11)Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 
-  
-  
-
-(Fundstelle: BGBl. I 2022, 1877 – 1878)
+(Fundstelle: BGBl. 2023 I Nr. 114, 2 - 3)
 
  
 
-  
-  
-
-1. Verordnung (EG) Nr. 555/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates über die gemeinsame Marktorganisation für Wein hinsichtlich der Stützungsprogramme, des Handels mit Drittländern, des Produktionspotenzials und der Kontrollen im Weinsektor (ABl. L 170 vom 30.6.2008, S. 1; L 114 vom 7.5.2009, S. 23; L 164 vom 26.6.2009, S. 66; L 139 vom 5.6.2010, S. 3), die zuletzt durch die Delegierte Verordnung (EU) 2018/273 (ABl. L 58 vom 28.2.2018, S. 1) geändert worden ist,
+1. Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9; L 12 vom 18.1.2007, S. 3; L 86 vom 28.3.2008, S. 34; L 198 vom 30.7.2009, S. 87; L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S. 36) geändert worden ist,
 
 2. Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, die nach Artikel 230 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) mit den dort genannten Maßgaben weiter anzuwenden ist,
 
-3. Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16; L 105 vom 27.4.2010, S. 114; L 322 vom 21.11.2012, S. 8; L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2022/141 (ABl. L 23 vom 2.2.2022, S. 22) geändert worden ist,
+3. Verordnung (EG) Nr. 555/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates über die gemeinsame Marktorganisation für Wein hinsichtlich der Stützungsprogramme, des Handels mit Drittländern, des Produktionspotenzials und der Kontrollen im Weinsektor (ABl. L 170 vom 30.6.2008, S. 1; L 114 vom 7.5.2009, S. 23; L 164 vom 26.6.2009, S. 66; L 139 vom 5.6.2010, S. 3), die zuletzt durch die Delegierte Verordnung (EU) 2018/273 (ABl. L 58 vom 28.2.2018, S. 1) geändert worden ist,
 
-4. Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist,
+4. Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16; L 105 vom 27.4.2010, S. 114; L 322 vom 21.11.2012, S. 8; L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2022/1923 (ABl. L 264 vom 11.10.2022, S. 8) geändert worden ist,
 
-5. Delegierte Verordnung (EU) 2018/273 der Kommission vom 11. Dezember 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Weinbaukartei, der Begleitdokumente und der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen, Mitteilungen und Veröffentlichung der mitgeteilten Informationen und zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf die diesbezüglichen Kontrollen und Sanktionen sowie zur Änderung der Verordnungen (EG) Nr. 555/2008, (EG) Nr. 606/2009 und (EG) Nr. 607/2009 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 436/2009 und der Delegierten Verordnung (EU) 2015/560 der Kommission (ABl. L 58 vom 28.2.2018, S. 1; L 120 vom 8.5.2019, S. 34), die durch die Delegierte Verordnung (EU) 2019/840 (ABl. L 138 vom 24.5.2019, S. 74) geändert worden ist,
+5. Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist,
 
-6. Durchführungsverordnung (EU) 2018/274 der Kommission vom 11. Dezember 2017 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen und Mitteilungen sowie mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der einschlägigen Kontrollen und zur Aufhebung der Durchführungsverordnung (EU) 2015/561 der Kommission (ABl. L 58 vom 28.2.2018, S. 60), die zuletzt durch die Durchführungsverordnung (EU) 2021/1007 (ABl. L 222 vom 22.6.2021, S. 8) geändert worden ist,
+6. Delegierte Verordnung (EU) 2018/273 der Kommission vom 11. Dezember 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Weinbaukartei, der Begleitdokumente und der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen, Mitteilungen und Veröffentlichung der mitgeteilten Informationen und zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf die diesbezüglichen Kontrollen und Sanktionen sowie zur Änderung der Verordnungen (EG) Nr. 555/2008, (EG) Nr. 606/2009 und (EG) Nr. 607/2009 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 436/2009 und der Delegierten Verordnung (EU) 2015/560 der Kommission (ABl. L 58 vom 28.2.2018, S. 1; L 120 vom 8.5.2019, S. 34), die zuletzt durch die Delegierte Verordnung (EU) 2022/2566 (ABl. L 330 vom 23.12.2022, S. 134) geändert worden ist,
 
-7. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers (ABl. L 149 vom 7.6.2019, S. 1; L 289 vom 8.11.2019, S. 59), die zuletzt durch die Delegierte Verordnung (EU) 2022/68 (ABl. L 12 vom 19.1.2022, S. 1) geändert worden ist.
+7. Durchführungsverordnung (EU) 2018/274 der Kommission vom 11. Dezember 2017 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen, der Zertifizierung, der Ein- und Ausgangsregister, der obligatorischen Meldungen und Mitteilungen sowie mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der einschlägigen Kontrollen und zur Aufhebung der Durchführungsverordnung (EU) 2015/561 der Kommission (ABl. L 58 vom 28.2.2018, S. 60), die zuletzt durch die Durchführungsverordnung (EU) 2022/2567 (ABl. L 330 vom 23.12.2022, S. 139) geändert worden ist,
+
+8. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers (ABl. L 149 vom 7.6.2019, S. 1; L 289 vom 8.11.2019, S. 59), die zuletzt durch die Delegierte Verordnung (EU) 2022/68 (ABl. L 12 vom 19.1.2022, S. 1) geändert worden ist.
 
  
