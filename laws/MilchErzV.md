@@ -15,8 +15,6 @@ hinsichtlich des § 5 auf Grund des § 5a Abs. 1 Nr. 1, 2 und 6, Abs. 2 und 3 de
 
 (2) Die Vorschriften dieser Verordnung gelten nur für das gewerbsmäßige Herstellen und Inverkehrbringen von Milcherzeugnissen. Dem gewerbsmäßigen Herstellen oder Inverkehrbringen steht es gleich, wenn Milcherzeugnisse für Mitglieder von Genossenschaften oder ähnlichen Einrichtungen oder in Einrichtungen zur Gemeinschaftsverpflegung hergestellt oder in den Verkehr gebracht werden.
 
-(3) Die Vorschriften der Verordnung über diätetische Lebensmittel vom 20. Juni 1963 (Bundesgesetzbl. I S. 415) in der jeweiligen Fassung bleiben unberührt.
-
 # § 1a – Begriffsbestimmungen
 
 (1) Milchretentat im Sinne dieser Verordnung ist das Erzeugnis, das durch Konzentrieren von Milcheiweiß mit Hilfe der Ultrafiltration von Milch, teilentrahmter Milch oder Magermilch gewonnen wird.

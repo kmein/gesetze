@@ -565,11 +565,12 @@ darf noch bis zum 20. Mai 2019 in den Verkehr gebracht werden oder im Verkehr ve
 
 # Anlage 1 – (zu § 4)Verbotene Zusatzstoffe in Tabakerzeugnissen
 
-(Fundstelle: BGBl. I 2017, 1201 – 1203)
+(Fundstelle: BGBl. I 2017, 1201 – 1203;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck erwecken, dass ein Tabakerzeugnis einen gesundheitlichen Nutzen habe oder geringere Gesundheitsrisiken berge:
 
-a) Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung in der jeweils geltenden Fassung für diätetische Lebensmittel zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+a) Aminosäuren und modifizierte Aminosäuren sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
 
 b) Carnitin
 
@@ -683,11 +684,12 @@ Para-Hydroxybenzoesäure-Propylester (CAS-Nr. 94-13-3)
 
 # Anlage 2 – (zu § 28)Verbotene Inhaltsstoffe in elektronischen Zigaretten und Nachfüllbehältern
 
-(Fundstelle: BGBl. I 2017, 1203 – 1204)
+(Fundstelle: BGBl. I 2017, 1203 – 1204;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck erwecken, dass der Konsum einer elektronischen Zigarette oder eines Nachfüllbehälters einen gesundheitlichen Nutzen habe oder geringere Gesundheitsrisiken berge:
 
-a) Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung in der jeweils geltenden Fassung für diätetische Lebensmittel zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+a) Aminosäuren und modifizierte Aminosäuren sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
 
 b) Carnitin
 
