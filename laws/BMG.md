@@ -830,6 +830,8 @@ Die ersuchende Behörde hat den Namen und die Anschrift der betroffenen Person u
 
 (5) Ist im Melderegister eine Auskunftssperre nach § 51 eingetragen, erhält die abrufende Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind oder ob eine Auskunftssperre besteht (neutrale Antwort). Der Abruf ist in diesen Fällen von der Meldebehörde wie ein Ersuchen um manuelle Datenübermittlung zu behandeln. Die Daten nach § 34 Absatz 1 Satz 1 Nummer 11, 13 und 14 werden nicht übermittelt, wenn für diesen Personenkreis eine Auskunftssperre nach § 51 gespeichert ist.
 
+(6) Ist die abrufende Stelle eine der in § 34 Absatz 4 Satz 1 Nummer 1 und 6 bis 9 genannten Behörden und ist im Melderegister eine Auskunftssperre eingetragen, die nicht auf Veranlassung einer der in § 34 Absatz 5 Satz 1 genannten Behörden von Amts wegen eingetragen wurde, so wird der abrufenden Stelle abweichend von Absatz 5 eine Auskunft erteilt, wenn sichergestellt ist, dass die Leitung der abrufenden Stelle oder von ihr hierzu besonders ermächtigte Bedienstete die Daten erhält oder erhalten.
+
 # § 35 – Datenübermittlungen an ausländische Stellen
 
 Im Rahmen von Tätigkeiten, die ganz oder teilweise in den Anwendungsbereich des Rechts der Europäischen Union fallen, gilt § 34 Absatz 1 Satz 1 nach Maßgabe der dafür geltenden Gesetze und Vereinbarungen, wenn Daten übermittelt werden an

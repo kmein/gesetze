@@ -617,6 +617,12 @@ Bestimmungen zum Verwaltungsverfahren
 
 (3e) Bei Ausländern nach § 2 Absatz 2 Nummer 2 und 3, bei denen Maßnahmen gemäß § 49 Absatz 4a des Aufenthaltsgesetzes durchgeführt wurden, werden zusätzlich zu den Daten nach Absatz 1 die Fingerabdrücke und die dazugehörigen Referenznummern gespeichert.
 
+(3f) Bei Ausländern nach § 2 Absatz 1a und 2 Nummer 1 und 3, die nach Artikel 3 Absatz 1 der Verordnung (EU) 2018/1860 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Nutzung des Schengener Informationssystems für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (ABl. L 312 vom 7.12.2018, S. 1) oder nach Artikel 24 Absatz 1 der Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006 (ABl. L 312 vom 7.12.2018, S. 14) ausgeschrieben sind, werden zum Zweck der Erfüllung der Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 zusätzlich gespeichert:
+
+1. die Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer),
+
+2. die Strafvorschrift, die der Ausschreibung zugrunde liegt, die rechtliche Bezeichnung der Tat sowie Art und Höhe der Strafe.
+
 (4) Bei Unionsbürgern werden nur folgende Daten gespeichert:
 
 1. die Bezeichnung der Stelle, die Daten übermittelt hat, und deren Geschäftszeichen,
@@ -695,17 +701,17 @@ Bestimmungen zum Verwaltungsverfahren
 
 (2) Die Stellen nach Absatz 1 Nummer 1, 1a und 2 bis 7 übermitteln die Daten nach § 3 Absatz 1 Nummer 1, 3 bis 5a und 7 sowie Absatz 4 Nummer 1, 3 bis 5 und 7. Von der Übermittlung der Daten einer gefährdeten Person im Fall des § 2 Abs. 2 Nr. 7 kann im Einzelfall abgesehen werden, wenn die Speicherung ihren schutzwürdigen Interessen entgegensteht. Außerdem übermitteln
 
-1. die in Absatz 1 Nummer 1 bezeichneten Stellen die Angaben nach § 3 Absatz 1 Nummer 5b bis 6, 7a, 8 und 10, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 1 und 2, Absatz 3c, 3e und 4 Nummer 6 sowie die Daten nach § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
+1. die in Absatz 1 Nummer 1 bezeichneten Stellen die Angaben nach § 3 Absatz 1 Nummer 5b bis 6, 7a, 8 und 10, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 1 und 2, Absatz 3c, 3e, 3f und 4 Nummer 6 sowie die Daten nach § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
 
 2. die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1 bis 11, Absatz 3 Nummer 1 und 2, Absatz 3e,
 
 3. die in Absatz 1 Nummer 1b bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 9 bis 11,
 
-4. die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3e,
+4. die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3e und 3f,
 
 4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1, 2 und 4 bis 8,
 
-5. die in Absatz 1 Nummer 3 bezeichnete Stelle die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 3, 3b sowie § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
+5. die in Absatz 1 Nummer 3 bezeichnete Stelle die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 3, Absatz 3b und 3f sowie § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
 
 5a. die in Absatz 1 Nummer 4 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b und zusätzlich das Bundeskriminalamt die Referenznummern nach § 3 Absatz 2 Nummer 1 in den Fällen des § 2 Absatz 1a Nummer 2 und 3, die Referenznummern nach § 3 Absatz 3a Nummer 1 in den Fällen des § 2 Absatz 2 Nummer 3 und die Referenznummern nach § 3 Absatz 3b in den Fällen des § 2 Absatz 2a,
 
@@ -759,6 +765,16 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (4) Bei einem Wechsel der Zuständigkeit gelten die Absätze 1 und 3 für die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
+# § 8a – Datenabgleich
+
+(1) Die Registerbehörde kann einen Abgleich in automatisierter Form zwischen ihrem Datenbestand und dem entsprechenden Datenbestand der aktenführenden Behörde oder der öffentlichen Stelle, die Daten an die Registerbehörde übermittelt hat, veranlassen, wenn berechtigte Zweifel an der Richtigkeit und Aktualität des Datenbestandes vorliegen, welche die Veranlassung einer Überprüfung rechtfertigen.
+
+(2) Zum Zweck des in Absatz 1 veranlassten Abgleichs dürfen Daten zwischen der Registerbehörde und der aktenführenden Behörde oder der öffentlichen Stelle, die Daten an die Registerbehörde übermittelt hat, wechselseitig in einem von der Registerbehörde genannten abgleichfähigen Format übermittelt oder auf Anfrage der Registerbehörde bereitgestellt werden. Die wechselseitig bereit gestellten oder übermittelten Daten dürfen nur für die Durchführung des Abgleichs sowie die sich daran anschließende Datenpflege verwendet werden und sind sodann unverzüglich zu löschen.
+
+(3) Die aktenführende Behörde oder die öffentliche Stelle, die Daten an die Registerbehörde übermittelt hat, ist berechtigt und verpflichtet, die durch den Abgleich ermittelten Hinweise auf eine mögliche Unrichtigkeit, Unvollständigkeit und Aktualität zu prüfen und in eigener Verantwortung Daten zu berichtigen. Die Ergebnisse der Überprüfung sind der Registerbehörde auf einem von ihr zur Verfügung gestellten Weg zu übertragen.
+
+(4) Die in Absatz 1 genannten Stellen können sich zum Zweck der Datenpflege und des Datenabgleichs datenverarbeitender Systeme bedienen.
+
 # § 9 – Aufzeichnungspflicht bei Speicherung
 
 (1) Die Registerbehörde hat als speichernde Stelle Aufzeichnungen zu fertigen, aus denen sich die übermittelten Daten, die übermittelnde Dienststelle, die für die Übermittlung verantwortliche Person und der Übermittlungszeitpunkt ergeben müssen.
@@ -771,7 +787,7 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (1a) Die Übermittlung der Daten von Unionsbürgern, für die eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt, ist nur an die mit ausländer- oder asylrechtlichen Aufgaben betrauten Behörden und nur zur Durchführung solcher Aufgaben zulässig. Bei einem Übermittlungsersuchen ist der Zweck anzugeben. Die Registerbehörde hat die Übermittlung zu versagen, wenn Anhaltspunkte dafür bestehen, dass es sich um die Daten von Unionsbürgern nach Satz 1 handelt und die Übermittlung nicht an eine mit ausländer- oder asylrechtlichen Aufgaben betraute Behörde oder nicht zur Durchführung solcher Aufgaben erfolgen soll.
 
-(2) Das Ersuchen muß, soweit vorhanden, die AZR-Nummer, anderenfalls alle verfügbaren Grundpersonalien der betroffenen Person enthalten. Bei Zweifeln an der Identität des Ausländers kann, außer bei Unionsbürgern, das Ersuchen auch nur mit Lichtbild, mit den Fingerabdruckdaten oder den zu den Fingerabdruckdaten gehörigen Referenznummern gestellt werden. Bei Zweifeln an der Echtheit von Ausweispapieren oder Aufenthaltstiteln oder wenn solche Papiere abhanden gekommen sind, kann das Ersuchen auch nur mit Angaben zum Ausweispapier oder zum Aufenthaltstitel gestellt werden. Stimmen die in dem Übermittlungsersuchen bezeichneten Daten mit den gespeicherten Daten nicht überein, ist die Datenübermittlung unzulässig, es sei denn, Zweifel an der Identität bestehen nicht.
+(2) Das Ersuchen muß, soweit vorhanden, die AZR-Nummer, anderenfalls alle verfügbaren Grundpersonalien der betroffenen Person enthalten. Bei Zweifeln an der Identität des Ausländers kann, außer bei Unionsbürgern, das Ersuchen auch nur mit Lichtbild, mit den Fingerabdruckdaten oder den zu den Fingerabdruckdaten gehörigen Referenznummern gestellt werden. Bei Zweifeln an der Echtheit von Ausweispapieren oder Aufenthaltstiteln oder wenn solche Papiere abhanden gekommen sind, kann das Ersuchen auch nur mit Angaben zum Ausweispapier oder zum Aufenthaltstitel gestellt werden. Ein Ersuchen zum Zweck der Erfüllung von Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 oder zum Zweck der Datenpflege der Zusatzinformationen kann auch nur mit der Schengen-ID-Nummer gestellt werden. Stimmen die in dem Übermittlungsersuchen bezeichneten Daten mit den gespeicherten Daten nicht überein, ist die Datenübermittlung unzulässig, es sei denn, Zweifel an der Identität bestehen nicht.
 
 (3) Kann die Registerbehörde die Identität nicht eindeutig feststellen, übermittelt sie zur Identitätsprüfung und -feststellung an die ersuchende Stelle neben Hinweisen auf aktenführende Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren Personalien ähnlicher Personen mit Ausnahme der früheren Namen, die nur auf besonderes Ersuchen übermittelt werden, und die Lichtbilder. Kann die Identität nicht allein an Hand dieser Daten festgestellt werden, dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die Identitätsfeststellung ermöglicht. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
 
@@ -786,6 +802,8 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 4. Datenübermittlungen von öffentlichen Stellen untereinander in den übrigen Fällen des § 2 Absatz 1a und 2 bis zur Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU.
 
 (4a) Die von der Registerbehörde übermittelte ausländische Personenidentitätsnummer darf nur zum Zweck der eindeutigen Identifizierung einer Person genutzt werden.
+
+(4b) Die von der Registerbehörde übermittelte Schengen-ID-Nummer darf nur zu dem Zweck der eindeutigen Zuordnung der im Register gespeicherten Daten zu den Daten einer Person, die im Schengener Informationssystem ausgeschrieben ist, genutzt werden.
 
 (5) Zur Datenpflege (§ 8 Abs. 3) übermittelt die Registerbehörde die zu überprüfenden Daten an die dazu berechtigte oder verpflichtete Stelle.
 
@@ -851,7 +869,7 @@ und die Daten auf andere Weise nicht, nur mit unverhältnismäßigem Aufwand ode
 
 # § 15 – Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
 
-(1) Die Daten der betroffenen Person werden auf Ersuchen übermittelt an:
+(1) Die Daten der betroffenen Person mit Ausnahme der Daten nach § 3 Absatz 3f werden auf Ersuchen übermittelt an:
 
 1. die Ausländerbehörden, die Aufnahmeeinrichtungen oder Stellen nach § 88 Abs. 3 des Asylgesetzes, das Bundesamt für Migration und Flüchtlinge und die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden sowie sonstige Polizeivollzugsbehörden der Länder zur Durchführung ausländer- und asylrechtlicher Aufgaben,
 
@@ -872,6 +890,16 @@ In den Fällen des Satzes 1 Nummer 2 bis 5 wird bei Unionsbürgern, bei denen ei
 (2) Dem Bundeskriminalamt werden auf Ersuchen zur Erfüllung von Verpflichtungen aus völkerrechtlichen Verträgen, denen die gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 des Grundgesetzes zugestimmt haben, die erforderlichen personenbezogenen Daten von Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, nach Maßgabe dieser Verträge übermittelt.
 
 (3) An das Bundesamt für Justiz werden zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten, abweichende Namensschreibweisen, andere Namen sowie Aliaspersonalien übermittelt, soweit die Kenntnis dieser Daten zur Feststellung der Identität eines Ausländers bei der Durchführung der Aufgaben nach dem Bundeszentralregistergesetz, nach dem Titel XI der Gewerbeordnung, nach dem Internationalen Familienrechtsverfahrensgesetz und nach dem Erwachsenenschutzübereinkommens-Ausführungsgesetz erforderlich ist. Absatz 1 Satz 2 gilt entsprechend.
+
+(4) Dem Bundeskriminalamt in seiner Funktion als SIRENE-Büro gemäß § 3 Absatz 2 des Bundeskriminalamtgesetzes werden auf Ersuchen und nur zur Erfüllung der Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 die Daten nach § 3 Absatz 3f übermittelt.
+
+# § 15a – Automatisierte Datenübermittlung an Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge
+
+(1) Die Registerbehörde übermittelt der zuständigen Ausländerbehörde neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung die Angaben zum Fortzug der betroffenen Person unverzüglich nach deren Speicherung, es sei denn, die Angaben zum Fortzug wurden von der zuständigen Ausländerbehörde selbst an das Register übermittelt. In den Fällen des § 2 Absatz 1a und 2 Nummer 1 werden diese Angaben ebenfalls an das Bundesamt für Migration und Flüchtlinge übermittelt.
+
+(2) Die Registerbehörde übermittelt dem Bundesamt für Migration und Flüchtlinge in den Fällen des § 2 Absatz 1a und 2 Nummer 1 neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung unverzüglich die Angaben einer Ausweisung oder Zurückschiebung oder Abschiebung der betroffenen Person nach deren Speicherung.
+
+(3) Die Registerbehörde übermittelt der zuständigen Ausländerbehörde neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung die Angaben zum Ausreisenachweis der betroffenen Person unverzüglich nach deren Speicherung, es sei denn, die Angaben zum Ausreisenachweis wurden von der zuständigen Ausländerbehörde selbst an das Register übermittelt. In den Fällen des § 2 Absatz 1a und 2 Nummer 1 werden diese Angaben ebenfalls an das Bundesamt für Migration und Flüchtlinge übermittelt.
 
 # § 16 – Datenübermittlung an Gerichte
 

@@ -117,6 +117,8 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 10. Erfüllung von Verpflichtungen aus völkerrechtlichen Verträgen,
 
+10a. Austausch von Zusatzinformationen im Sinne der SIS-Verordnungen,
+
 11. Identitätsfeststellung nach § 15 Absatz 3 des AZR-Gesetzes,
 
 12. Unterstützung der Zollfahndungsämter,

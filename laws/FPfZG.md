@@ -189,16 +189,4 @@ Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt der Bund.
 
 Die Vorschriften des Familienpflegezeitgesetzes in der Fassung vom 6. Dezember 2011 gelten in den Fällen fort, in denen die Voraussetzungen für die Gewährung eines Darlehens nach § 3 Absatz 1 in Verbindung mit § 12 Absatz 1 Satz 1 bis einschließlich 31. Dezember 2014 vorlagen.
 
-# § 16 – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Abweichend von § 2 Absatz 1 Satz 2 gilt, dass die wöchentliche Mindestarbeitszeit von 15 Wochenstunden vorübergehend unterschritten werden darf, längstens jedoch für die Dauer von einem Monat.
-
-(2) Abweichend von § 2a Absatz 1 Satz 1 gilt für Familienpflegezeit, die spätestens am 1. April 2023 beginnt, dass die Ankündigung gegenüber dem Arbeitgeber spätestens zehn Arbeitstage vor dem gewünschten Beginn in Textform erfolgen muss.
-
-(3) Abweichend von § 2a Absatz 1 Satz 4 muss sich die Familienpflegezeit nicht unmittelbar an die Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes anschließen, wenn der Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten nicht überschritten wird und die Familienpflegezeit spätestens mit Ablauf des 30. April 2023 endet. Die Ankündigung muss abweichend von § 2a Absatz 1 Satz 5 spätestens zehn Tage vor Beginn der Familienpflegezeit erfolgen.
-
-(4) Abweichend von § 2a Absatz 1 Satz 6 muss sich die Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nicht unmittelbar an die Familienpflegezeit anschließen, wenn der Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten nicht überschritten wird und die Pflegezeit spätestens mit Ablauf des 30. April 2023 endet. Die Inanspruchnahme ist dem Arbeitgeber spätestens zehn Tage vor Beginn der Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes in Textform anzukündigen.
-
-(5) Abweichend von § 2a Absatz 2 Satz 1 gilt, dass die Vereinbarung in Textform zu treffen ist.
-
-(6) Abweichend von § 2a Absatz 3 können Beschäftigte mit Zustimmung des Arbeitgebers nach einer beendeten Familienpflegezeit zur Pflege oder Betreuung desselben pflegebedürftigen Angehörigen Familienpflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer nach § 2 Absatz 1 in Anspruch nehmen, wenn die Gesamtdauer von 24 Monaten nach § 2 Absatz 2 nicht überschritten wird und die Familienpflegezeit spätestens mit Ablauf des 30. April 2023 endet.
+# § 16 – (weggefallen)

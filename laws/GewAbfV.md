@@ -157,6 +157,16 @@ Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vo
 
 4. wer in einem anderen Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist, seine Tätigkeit im Inland nur vorübergehend und gelegentlich ausüben will und seine Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
 
+# § 4a – Umgang mit verpackten Bioabfällen
+
+(1) Verpackte Bioabfälle, insbesondere verpackte Lebensmittelabfälle, sind
+
+1. vor dem Recycling oder einer sonstigen stofflichen Verwertung einer gesonderten Verpackungsentfrachtung zuzuführen oder
+
+2. für eine bodenbezogene Verwertung einer Behandlung gemäß der Bioabfallverordnung in der Fassung der Bekanntmachung vom 4. April 2013 (BGBl. I S. 658), die zuletzt durch Artikel 1 der Verordnung vom 28. April 2022 (BGBl. I S. 700) geändert worden ist, in der jeweils geltenden Fassung zuzuführen.
+
+(2) Erzeuger und Besitzer haben sich bei der erstmaligen Übergabe der verpackten Bioabfälle durch denjenigen, der die Abfälle übernimmt, in Textform bestätigen zu lassen, dass die Anforderungen nach Absatz 1 erfüllt werden. Beauftragt ein Erzeuger oder Besitzer einen Dritten mit der Beförderung der verpackten Bioabfälle, so ist dieser verpflichtet, die Bestätigung einzuholen. Der Beförderer teilt dem Erzeuger oder Besitzer unverzüglich nach dem Erhalt der Bestätigung mit, ob die Anforderungen nach Absatz 1 erfüllt werden.
+
 # § 5 – Gemeinsame Erfassung und Entsorgung von Kleinmengen
 
 Erzeuger und Besitzer von gewerblichen Siedlungsabfällen können diese gemeinsam mit den auf dem jeweiligen Grundstück anfallenden Abfällen aus privaten Haushaltungen in den dafür vorgesehenen Abfallbehältern erfassen und im Rahmen der für die privaten Haushaltungen vorgesehenen Entsorgungswege einer Verwertung oder einer Beseitigung zuführen, wenn ihnen auf Grund der geringen Menge der angefallenen gewerblichen Siedlungsabfälle eine Erfüllung der Pflichten nach den §§ 3 und 4 wirtschaftlich nicht zumutbar ist. Für diesen Fall entfällt die Pflicht zur Benutzung von Abfallbehältern nach § 7 Absatz 2.
