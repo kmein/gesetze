@@ -38,7 +38,6 @@
 - [ABZusGrBrückVtrCESG](laws/ABZusGrBrückVtrCESG.md) Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusGrBrückVtrCESNotw](laws/ABZusGrBrückVtrCESNotw.md) Verbalnote zum Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusPolAbkG](laws/ABZusPolAbkG.md) Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig
-- [AckerBoSaatV 2023](laws/AckerBoSaatV_2023.md) Verordnung über besondere Anforderungen an Saatgut von Ackerbohnen im Rahmen der Saatgutanerkennung 2023
 - [AdenauerHStiftG](laws/AdenauerHStiftG.md) Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
 - [AdG](laws/AdG.md) Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 - [AdKG](laws/AdKG.md) Gesetz zur Errichtung der Akademie der Künste
@@ -5659,6 +5658,7 @@
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestbedingungen FlWi 2](laws/TVMindestbedingungen_FlWi_2.md) Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021
 - [TVMindestlohn Gerüstb 7](laws/TVMindestlohn_Gerüstb_7.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021
+- [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
 - [TVMindestlohn Steinmetz 4](laws/TVMindestlohn_Steinmetz_4.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
 - [TVMindestlohn VFlughSiK 2](laws/TVMindestlohn_VFlughSiK_2.md) Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 28. März 2022
 - [TVMindestlohnDachd 11](laws/TVMindestlohnDachd_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. Juli 2021
@@ -6588,6 +6588,7 @@
 - [11. ÄndG LAG](laws/11._ÄndG_LAG.md) Elftes Gesetz zur Änderung des Lastenausgleichsgesetzes
 - [11. BImSchV](laws/11._BImSchV.md) Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionserklärungen)
 - [11. DachdArbbV](laws/11._DachdArbbV.md) Elfte Verordnung über zwingende Arbeitsbedingungen für das Dachdeckerhandwerk
+- [11. MalerArbbV](laws/11._MalerArbbV.md) Elfte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk
 - [11. ProdSV](laws/11._ProdSV.md) Elfte Verordnung zum Produktsicherheitsgesetz 1
 - [11. RAG](laws/11._RAG.md) Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. RAV](laws/11._RAV.md) Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996

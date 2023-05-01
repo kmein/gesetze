@@ -5,9 +5,9 @@
 
 (1) Diese Verordnung gilt für
 
-1. unbehandelte und behandelte Bioabfälle und Gemische, die zur Verwertung als Düngemittel auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzte Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden sowie
+1. unbehandelte und behandelte Bioabfälle und Gemische, die zur Verwertung auf Böden aufgebracht, in Böden eingebracht oder zu einem dieser Zwecke abgegeben werden, sowie
 
-2. die Behandlung und Untersuchung solcher Bioabfälle und Gemische.
+2. die Vorbehandlung, Behandlung und Untersuchung solcher Bioabfälle und Gemische.
 
 (2) Diese Verordnung gilt für
 
@@ -17,29 +17,31 @@
 
 2a. denjenigen, der Bioabfälle einsammelt und transportiert (Einsammler),
 
-3. denjenigen, der Bioabfälle behandelt (Bioabfallbehandler),
+2b. denjenigen, der Bioabfälle für die Behandlung oder für die Gemischherstellung aufbereitet (Aufbereiter),
+
+3. denjenigen, der Bioabfälle hygienisierend oder biologisch stabilisierend behandelt (Bioabfallbehandler),
 
 4. Hersteller von Gemischen unter Verwendung von Bioabfällen (Gemischhersteller),
 
 4a. denjenigen, der Bioabfälle oder Gemische zur Aufbringung annimmt und diese ohne weitere Veränderung abgibt (Zwischenabnehmer) sowie
 
-5. Bewirtschafter von landwirtschaftlich, gärtnerisch oder forstwirtschaftlich genutzten Böden, auf denen unbehandelte oder behandelte Bioabfälle oder Gemische aufgebracht werden sollen oder aufgebracht werden.
+5. Bewirtschafter von Böden, auf oder in denen unbehandelte oder behandelte Bioabfälle oder Gemische auf- oder eingebracht werden sollen oder auf- oder eingebracht werden.
 
 (3) Diese Verordnung gilt nicht
 
 1. für Haus-, Nutz- und Kleingärten,
 
-2. für die Eigenverwertung von Bioabfällen pflanzlicher Herkunft in landwirtschaftlichen Betrieben oder Betrieben des Garten- und Landschaftsbaus, wenn die Verwertung nach Maßgabe der §§ 6 bis 8 auf selbst bewirtschafteten Betriebsflächen gewährleistet ist,
+2. für die Eigenverwertung von Bioabfällen pflanzlicher Herkunft, mit Ausnahme der Aufbringung auf forstwirtschaftliche Flächen, wenn die Verwertung nach Maßgabe der §§ 6 bis 8 auf selbst bewirtschafteten Betriebsflächen gewährleistet ist,
 
 3. soweit die Klärschlammverordnung Anwendung findet,
 
-3a. für tierische Nebenprodukte, die nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 2 Absatz 91 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, oder
+3a. für tierische Nebenprodukte, die nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 279 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft oder verpackte Materialien tierischer Herkunft, insbesondere als verpackte Lebensmittelabfälle, zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind, oder
 
 4. für Stoffe, die nach anderen Rechtsvorschriften entsorgt werden müssen.
 
 (4) Die Vorschriften des Düngemittelrechts und des Pflanzenschutzrechts bleiben unberührt. Werden Bioabfälle und tierische Nebenprodukte im Sinne des Absatzes 3 Nummer 3a gemeinsam behandelt oder zur Gemischherstellung verwendet und auf Böden aufgebracht, gelten die Vorschriften dieser Verordnung neben den in Absatz 3 Nummer 3a genannten Vorschriften.
 
-(5) Die in Absatz 2 Genannten wirken darauf hin, dass die in dieser Verordnung genannten Schadstoffhöchstwerte für unbehandelte und behandelte Bioabfälle und Gemische soweit wie möglich unterschritten werden. Generelle Anbaubeschränkungen oder sonstige in dieser Verordnung nicht genannte Beschränkungen lassen sich aus dem Erreichen oder Überschreiten der Bodenwerte nach § 9 Absatz 2 nicht herleiten.
+(5) (weggefallen)
 
 # § 2 – Begriffsbestimmungen
 
@@ -48,6 +50,10 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 1. Bioabfälle:
 
 Abfälle tierischer oder pflanzlicher Herkunft oder aus Pilzmaterialien zur Verwertung, die durch Mikroorganismen, bodenbürtige Lebewesen oder Enzyme abgebaut werden können, einschließlich Abfälle zur Verwertung mit hohem organischen Anteil tierischer oder pflanzlicher Herkunft oder an Pilzmaterialien; zu den Bioabfällen gehören insbesondere die in Anhang 1 Nummer 1 in Spalte 1 genannten, in Spalte 2 weiter konkretisierten und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneten Abfälle; Bodenmaterial ohne wesentliche Anteile an Bioabfällen gehört nicht zu den Bioabfällen; Pflanzenreste, die auf forst- oder landwirtschaftlich genutzten Flächen anfallen und auf diesen Flächen verbleiben, sind keine Bioabfälle;
+
+1a. Aufbereitung:
+
+eigenständig oder im Rahmen der Behandlung nach Nummer 2 oder 2a oder der Gemischherstellung durchgeführte mechanische Vorbehandlung, insbesondere Fremdstoffentfrachtung, Mischen, Zerkleinern, Homogenisieren oder Konditionieren, von Bioabfällen einschließlich in Anhang 1 Nummer 2 in Spalte 1 genannter, in Spalte 2 weiter konkretisierter und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneter Abfälle oder in Spalte 2 genannter und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneter biologisch abbaubarer Materialien und mineralischer Stoffe;
 
 2. Hygienisierende Behandlung:
 
@@ -75,7 +81,7 @@ Bioabfälle, die einer hygienisierenden und biologisch stabilisierenden Behandlu
 
 5. Gemische:
 
-Mischung von behandelten und gemäß § 10 unbehandelten, hygienisierend oder biologisch stabilisierend behandelten Bioabfällen miteinander und mit in Anhang 1 Nummer 2 in Spalte 1 genannten, in Spalte 2 weiter konkretisierten und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneten Abfällen oder in Spalte 2 genannten und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneten biologisch abbaubaren Materialien und mineralischen Stoffen sowie die Mischung von einem aus vorgenannten Bestandteilen hergestellten Gemisch mit Kalk im Rahmen der Aufbringung; eine im Rahmen einer gemeinsamen hygienisierenden oder biologisch stabilisierenden Behandlung erfolgende Vermischung von Bioabfällen miteinander und mit in Anhang 1 Nummer 2 genannten Materialien ist kein Gemisch;
+Mischung von behandelten und gemäß § 10 unbehandelten, hygienisierend oder biologisch stabilisierend behandelten Bioabfällen miteinander und mit in Anhang 1 Nummer 2 in Spalte 1 genannten, in Spalte 2 weiter konkretisierten und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneten Abfällen oder in Spalte 2 genannten und durch die ergänzenden Bestimmungen in Spalte 3 näher gekennzeichneten biologisch abbaubaren Materialien und mineralischen Stoffen sowie die Mischung von einem aus vorgenannten Bestandteilen hergestellten Gemisch mit Kalk im Rahmen der Aufbringung; eine im Rahmen einer gemeinsamen Aufbereitung, hygienisierenden oder biologisch stabilisierenden Behandlung erfolgende Vermischung von Bioabfällen miteinander und mit in Anhang 1 Nummer 2 genannten Materialien ist kein Gemisch;
 
 6. Eigenverwertung:
 
@@ -141,6 +147,12 @@ Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistel
 
 (2) Eine Behandlung von Bioabfällen tierischer Herkunft gemäß den §§ 3 und 3a darf in Betrieben mit Nutztierhaltung nur durchgeführt werden, wenn sich die Behandlungsanlage in einem zum Schutz vor der Übertragung von Seuchenerregern ausreichenden Abstand von dem Betriebsbereich befindet, in dem die Tiere gehalten werden. Der Betriebsbereich zur Behandlung der Bioabfälle einschließlich Annahme, Aufbereitung, Aufbewahrung und Abgabe ist von dem Bioabfallbehandler von Tieren, Futtermitteln und Einstreu vollständig räumlich zu trennen, um sicherzustellen, dass die Nutztiere weder unmittelbar noch mittelbar mit den Bioabfällen tierischer Herkunft in Berührung kommen. Satz 1 und 2 gilt entsprechend für Anlagen zur Behandlung von Bioabfällen tierischer Herkunft in Betrieben, die an Betriebe oder Betriebsbereiche mit Nutztierhaltung angrenzen.
 
+# § 3c – Schadstoff- und Fremdstoffminimierung
+
+(1) Die in § 1 Absatz 2 Genannten wirken darauf hin, dass die in dieser Verordnung genannten Schadstoffhöchstwerte für unbehandelte und behandelte Bioabfälle und Gemische so weit wie möglich unterschritten werden. Generelle Anbaubeschränkungen oder sonstige in dieser Verordnung nicht genannte Beschränkungen lassen sich aus dem Erreichen oder Überschreiten der Bodenwerte nach § 9 Absatz 2 nicht herleiten.
+
+(2) Die in § 1 Absatz 2 Genannten wirken darauf hin, dass bei der getrennten Sammlung, Aufbereitung, Behandlung, Gemischherstellung und Aufbringung von Bioabfällen die Kontrollwerte für Gesamtkunststoff nach § 2a Absatz 3 und die Fremdstoffgrenzwerte nach § 4 Absatz 4 so weit wie möglich unterschritten werden; dabei ist insbesondere eine Vermeidung von Kunststoff als Fremdstoff in Bioabfällen anzustreben.
+
 # § 4 – Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
 
 (1) Der Bioabfallbehandler darf nur Bioabfälle und in Anhang 1 Nummer 2 genannte Materialien verwenden, von denen in unvermischter Form auf Grund ihrer Art, Beschaffenheit oder Herkunft angenommen werden kann, dass sie nach einer Behandlung die Anforderungen nach den Absätzen 3 und 4 einhalten und bei denen keine Anhaltspunkte für überhöhte Gehalte an anderen als den von Absatz 3 erfassten Schadstoffen bestehen. In Anhang 1 Nummer 2 genannte Materialien dürfen auch verwendet werden, wenn sie als Düngemittel, Bodenhilfsstoffe oder Kultursubstrate die Anforderungen der Düngemittelverordnung an die stoffliche Zusammensetzung erfüllen und keine Anhaltspunkte für überhöhte Gehalte an anderen als von der Düngemittelverordnung erfassten Schadstoffen bestehen. Gehalte an den in den Sätzen 1 und 2 bezeichneten anderen Schadstoffen sind überhöht, wenn durch sie bei bestimmungsgemäßer Verwendung der Bioabfälle oder in Anhang 1 Nummer 2 genannten Materialien in unvermischter Form die Gesundheit von Menschen oder Haus- und Nutztieren, die Gesundheit, das Wachstum und die Qualität von Nutzpflanzen, die Beschaffenheit und Fruchtbarkeit des Bodens oder der Naturhaushalt gefährdet werden können.
@@ -179,7 +191,13 @@ Bei Aufbringung gemäß § 6 Absatz 1 Satz 2 dürfen folgende Schwermetallgehalt
   
 Die Werte für Kupfer und Zink nach Satz 1 und 2 gelten als eingehalten, wenn der jeweilige Wert im gleitenden Durchschnitt der vier zuletzt nach Absatz 5 durchgeführten Untersuchungen nicht überschritten wird und kein Analysenergebnis den Wert um mehr als 25 vom Hundert überschreitet. Die für die Aufbringungsfläche zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde eine Überschreitung einzelner Schwermetallgehalte nach Satz 1 mit Ausnahme von Cadmium und Quecksilber zulassen, wenn Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
 
-(4) Der Anteil an Fremdstoffen, insbesondere Glas, Kunststoff, Metall, mit einem Siebdurchgang von mehr als 2 Millimetern darf einen Höchstwert von 0,5 vom Hundert, bezogen auf die Trockenmasse des aufzubringenden Materials, nicht überschreiten. Der Anteil an Steinen mit einem Siebdurchgang von mehr als 10 Millimetern darf einen Anteil von 5 vom Hundert, bezogen auf die Trockenmasse des aufzubringenden Materials, nicht überschreiten.
+(4) Der Anteil an Fremdstoffen mit einem Siebdurchgang von mehr als 1 Millimeter darf folgende Höchstwerte, bezogen auf die Trockenmasse des aufzubringenden Materials, nicht überschreiten:
+
+1. plastisch verformbare Kunststoffe 0,1 vom Hundert und
+
+2. sonstige Fremdstoffe, insbesondere Glas, Metalle und plastisch nicht verformbare Kunststoffe zusammen 0,4 vom Hundert.
+
+Der Anteil an Steinen mit einem Siebdurchgang von mehr als 10 Millimetern darf einen Anteil von 5 vom Hundert, bezogen auf die Trockenmasse des aufzubringenden Materials, nicht überschreiten.
 
 (5) Der Bioabfallbehandler hat, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, pro angefangener 2 000 Tonnen Frischmasse im Rahmen der Behandlung verwendeter Bioabfälle einschließlich in Anhang 1 Nummer 2 genannter Materialien Untersuchungen der behandelten Bioabfälle durchführen zu lassen auf
 
@@ -213,17 +231,21 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 # § 5a – Rückstellprobe
 
-(1) Die zuständige Behörde kann den Bioabfallbehandler und den Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3 und 4 genannten Grenzwerte eine Rückstellprobe aus den behandelten und unbehandelten Bioabfällen und Gemischen, die für die Verwertung als Düngemittel auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzten Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, zu entnehmen. Satz 1 gilt entsprechend für die in Anhang 1 Nummer 2 genannten Materialien. Die Probenahme hat nach § 4 Absatz 9 zu erfolgen.
+(1) Die zuständige Behörde kann den Bioabfallbehandler und den Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3 und 4 genannten Grenzwerte eine Rückstellprobe aus den behandelten und unbehandelten Bioabfällen und Gemischen, die für die Verwertung auf Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, zu entnehmen. Satz 1 ist entsprechend für den Entsorgungsträger, den Erzeuger und den Besitzer von unbehandelten Bioabfällen anzuwenden, die für die Verwertung auf Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, soweit sie nicht gemäß § 10 Absatz 1 oder 2 von einer Freistellung von den Untersuchungen der in § 4 Absatz 3 und 4 genannten Grenzwerte erfasst sind. Die Sätze 1 und 2 gelten entsprechend für die in Anhang 1 Nummer 2 genannten Materialien. Die Probenahme hat nach § 4 Absatz 9 zu erfolgen.
 
-(2) Der Bioabfallbehandler und der Gemischhersteller haben die Rückstellprobe ab dem Zeitpunkt der Entnahme mindestens fünf Jahre zu lagern. Die Rückstellprobe ist so aufzubereiten und zu lagern, dass sie ihre Beschaffenheit in der Zeit der Lagerung nicht ändert.
+(2) Der Die nach Absatz 1 Satz 1 und 2 Verpflichteten haben die Rückstellprobe ab dem Zeitpunkt der Entnahme mindestens fünf Jahre zu lagern. Die Rückstellprobe ist so aufzubereiten und zu lagern, dass sie ihre Beschaffenheit in der Zeit der Lagerung nicht ändert.
 
 (3) Die zuständige Behörde kann die Untersuchung der Rückstellprobe auf die in § 4 Absatz 3 und 4 genannten Inhaltsstoffe nach § 4 Absatz 9 in Verbindung mit Anhang 3 anordnen. Sofern Anhaltspunkte dafür bestehen, dass die Rückstellprobe einen überhöhten Gehalt an anderen als in Satz 1 genannten Inhaltsstoffen aufweist, kann die zuständige Behörde die Untersuchung der Rückstellprobe auf diese anderen Inhaltsstoffe anordnen.
 
 (4) Die nach Absatz 1 zur Aufbewahrung von Rückstellproben Verpflichteten haben die Rückstellproben der zuständigen Behörde auf Verlangen herauszugeben.
 
+(5) Für die Bestimmung einer Untersuchungsstelle nach Absatz 1 Satz 3 und Absatz 3 Satz 1, jeweils in Verbindung mit § 4 Absatz 9 Satz 1, gilt § 3 Absatz 8a und 8b entsprechend.
+
 # § 6 – Beschränkungen und Verbote der Aufbringung
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden innerhalb von drei Jahren nicht mehr als 20 Tonnen Trockenmasse Bioabfälle oder Gemische je Hektar aufgebracht werden. Die gemäß Satz 1 zulässige Aufbringungsmenge kann bis zu 30 Tonnen je Hektar innerhalb von drei Jahren betragen, wenn die gemäß § 4 Absatz 5 und 6 oder § 5 Absatz 2 gemessenen Schwermetallgehalte die in § 4 Absatz 3 Satz 2 festgelegten Grenzwerte nicht überschreiten. Die für die Aufbringungsfläche zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde weitere Ausnahmen im Einzelfall zulassen, wenn die in § 4 Absatz 3 Satz 2 genannten Schwermetallgrenzwerte deutlich unterschritten werden und Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
+
+(1a) Bei einmaligen Aufbringungen zum Zweck des Garten- und Landschaftsbaus, insbesondere für Neuanpflanzungen und für Rekultivierungen, oder zur Herstellung einer durchwurzelbaren Bodenschicht nach § 2 Nummer 11 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 126 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, dürfen unbeschadet düngemittelrechtlicher Regelungen auf Böden innerhalb von 12 Jahren nicht mehr als 80 Tonnen Trockenmasse Bioabfälle oder Gemische je Hektar aufgebracht werden. Die gemäß Satz 1 zulässige Aufbringungsmenge kann bis zu 120 Tonnen je Hektar innerhalb von 12 Jahren betragen, wenn die gemäß § 4 Absatz 5 und 6 oder § 5 Absatz 2 gemessenen Schwermetallgehalte die in § 4 Absatz 3 Satz 2 festgelegten Grenzwerte nicht überschreiten. Die Sätze 1 und 2 gelten bei Gemischen aus Bioabfällen mit ausschließlich in Anhang 1 Nummer 2 genannten Bodenmaterialien mit der Maßgabe, dass sich die Aufbringungsmengen unbeschadet der weiteren Anforderungen an das Gemisch auf den enthaltenen Bioabfall beziehen. Die für die Aufbringungsfläche zuständige Behörde kann für besondere Anwendungszwecke im Einzelfall abweichende Aufbringungsmengen und Zeiträume zulassen; dabei dürfen als rechnerische Aufbringungsmenge je Hektar an Bioabfällen oder Gemischen 6,67 Tonnen Trockenmasse im Sinne des Satzes 1 und 10 Tonnen Trockenmasse im Sinne des Satzes 2 nicht überschritten werden. Die für die Aufbringungsfläche zuständige Behörde kann weitere Ausnahmen im Einzelfall zulassen, wenn die in § 4 Absatz 3 Satz 2 genannten Schwermetallgrenzwerte deutlich unterschritten werden und Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
 
 (2) Das Aufbringen auf Böden von anderen als in Anhang 1 Nummer 1 genannten Bioabfällen oder von Gemischen, die solche Bioabfälle enthalten, bedarf der Zustimmung der für die Bioabfallbehandlungsanlage oder Gemischherstellungsanlage zuständigen Behörde im Einvernehmen mit der für die Aufbringungsfläche zuständigen landwirtschaftlichen Fachbehörde. Die zuständige Behörde hat vor Erteilung der Zustimmung im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde gegenüber den nach § 4 Absatz 2 und § 5 Absatz 2 Verpflichteten die Durchführung von Untersuchungen auf andere Schadstoffe im Sinne des § 4 Absatz 8 Satz 1 unter Berücksichtigung der Art, Beschaffenheit oder Herkunft der Bioabfälle und die Vorlage der Ergebnisse anzuordnen.
 
@@ -251,7 +273,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (1) Der Bewirtschafter oder ein beauftragter Dritter hat der zuständigen Behörde innerhalb von zwei Wochen nach der ersten nach dem 1. Oktober 1998 erfolgenden Aufbringung von Bioabfällen oder Gemischen die Aufbringungsflächen anzugeben. Die zuständige Behörde teilt der zuständigen landwirtschaftlichen Fachbehörde diese Flächen mit.
 
-(2) Bei der erstmaligen Aufbringung von Bioabfällen oder Gemischen ist eine Bodenuntersuchung auf Schwermetalle nach § 4 Absatz 5 Satz 1 Nummer 1 und auf den pH-Wert durchzuführen. Die Bodenuntersuchungsergebnisse sind spätestens drei Monate nach der Aufbringung der zuständigen Behörde vorzulegen. Liegt für die Aufbringungsfläche eine gültige Bodenuntersuchung nach der Klärschlammverordnung vor, kann diese entsprechend herangezogen werden. Satz 1 gilt nicht für die Aufbringung von Bioabfällen und Gemischen, die von Bioabfallbehandlern und Gemischherstellern abgegeben werden, die nach § 11 Absatz 3 Satz 1 von der Vorlage von Untersuchungsergebnissen oder von Nachweispflichten befreit sind. Bestehen Anhaltspunkte, dass die Bodenwerte einer Aufbringungsfläche die Vorsorgewerte für Böden nach Anhang 2 Nummer 4.1 in Verbindung mit Nummer 4.3 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 16 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist, überschreiten, soll die zuständige Behörde im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die erneute Aufbringung von Bioabfällen oder Gemischen untersagen. Die Probenahme, Probevorbereitung und Untersuchung ist nach Anlage 2 der Klärschlammverordnung vom 27. September 2017 (BGBl. I S. 3465) und durch eine unabhängige, von der zuständigen Behörde bestimmte Untersuchungsstelle durchführen zu lassen.
+(2) Bei der erstmaligen Aufbringung von Bioabfällen oder Gemischen ist eine Bodenuntersuchung auf Schwermetalle nach § 4 Absatz 5 Satz 1 Nummer 1 und auf den pH-Wert durchzuführen. Die Bodenuntersuchungsergebnisse sind spätestens drei Monate nach der Aufbringung der zuständigen Behörde vorzulegen. Liegt für die Aufbringungsfläche eine gültige Bodenuntersuchung nach der Klärschlammverordnung vor, kann diese entsprechend herangezogen werden. Satz 1 gilt nicht für die Aufbringung von Bioabfällen und Gemischen, die von Bioabfallbehandlern und Gemischherstellern abgegeben werden, die nach § 11 Absatz 3 Satz 1 von der Vorlage von Untersuchungsergebnissen oder von Nachweispflichten befreit sind. Bestehen Anhaltspunkte, dass die Bodenwerte einer Aufbringungsfläche die Vorsorgewerte für Böden nach Anhang 2 Nummer 4.1 in Verbindung mit Nummer 4.3 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 126 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, überschreiten, soll die zuständige Behörde im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die erneute Aufbringung von Bioabfällen oder Gemischen untersagen. Die Probenahme, Probevorbereitung und Untersuchung ist nach Anlage 2 der Klärschlammverordnung vom 27. September 2017 (BGBl. I S. 3465) und durch eine unabhängige, von der zuständigen Behörde bestimmte Untersuchungsstelle durchführen zu lassen.
 
 (2a) Für die Bestimmung einer Untersuchungsstelle nach Absatz 2 Satz 6 gilt § 3 Absatz 8a und 8b entsprechend.
 
@@ -265,7 +287,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (2) Für die Angaben nach Absatz 1 Satz 2 und 3 sind die Formblätter Deckblatt Entsorgungsnachweise (DEN), Verantwortliche Erklärung (VE) und Deklarationsanalyse (DA) der Anlage 1 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die durch Artikel 4 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, zu verwenden. Die Zustimmung der zuständigen Behörde nach Absatz 1 Satz 1 erfolgt unter Verwendung des Formblatts Behördenbestätigung (BB) der Anlage 1 der Nachweisverordnung. Auf die nach den Sätzen 1 und 2 vorgesehenen Formblätter finden die Hinweise zur Gestaltung der Formblätter aus der Fußnote zur Anlage 1 der Nachweisverordnung keine Anwendung. Für die erforderlichen Kennnummern ist § 28 der Nachweisverordnung entsprechend anzuwenden.
 
-(3) Die nach Absatz 1 Satz 1 Verpflichteten haben eine Kopie der vollständigen Formblätter nach Absatz 2 Satz 1 und 2 einmalig im Geltungszeitraum der Behördenzustimmung bei der ersten Abgabe von Bioabfällen dem Bioabfallbehandler oder Einsammler oder im Falle von der Behandlung freigestellter Bioabfälle nach § 10 dem Gemischhersteller oder Bewirtschafter der Aufbringungsfläche auszuhändigen.
+(3) Die nach Absatz 1 Satz 1 Verpflichteten haben eine Kopie der vollständigen Formblätter nach Absatz 2 Satz 1 und 2 einmalig im Geltungszeitraum der Behördenzustimmung bei der ersten Abgabe von Bioabfällen dem Bioabfallbehandler, Aufbereiter oder Einsammler oder im Falle von der Behandlung freigestellter Bioabfälle nach § 10 dem Gemischhersteller oder Bewirtschafter der Aufbringungsfläche auszuhändigen.
 
 # § 10 – Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
 
@@ -275,7 +297,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 2. in behandelter, hygienisierend behandelter, biologisch stabilisierend behandelter oder unbehandelter Form auch ohne Untersuchungen nach den §§ 3 und 4.
 
-(2) Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde im Rahmen der regionalen Verwertung im Einzelfall für weitere unvermischte, homogen zusammengesetzte Bioabfälle Freistellungen nach Absatz 1 zulassen. Die Freistellung von Behandlungen nach den §§ 3 und 3a kann erteilt werden, wenn auf Grund der Art, Beschaffenheit oder Herkunft der Bioabfälle angenommen werden kann, dass die in den §§ 3 und 4 festgelegten Anforderungen an die Hygiene sowie hinsichtlich der Schadstoffe und Fremdstoffe eingehalten werden und das Wohl der Allgemeinheit im Sinne des § 3a Absatz 1 Satz 2 nicht beeinträchtigt wird. Die Freistellung von Untersuchungspflichten behandelter, hygienisierend behandelter, biologisch stabilisierend behandelter oder unbehandelter Bioabfälle darf nur erteilt werden, wenn auf Grund der Art, Beschaffenheit oder Herkunft der Bioabfälle angenommen werden kann, dass die in den §§ 3 und 4 festgelegten Anforderungen an die Hygiene sowie hinsichtlich der Schadstoffe und Fremdstoffe eingehalten werden. Die zuständige Behörde kann vor Erteilung der Freistellungen von Behandlungen und Untersuchungen nach den §§ 3, 3a und 4 verlangen, dass die hygienische Unbedenklichkeit durch Untersuchungen entsprechend der Prüfungen der hygienisierten Bioabfälle nach § 3 Absatz 4 Satz 1 Nummer 3, Satz 2 und Absatz 8 Satz 1 sowie die Schwermetallgehalte und Gehalte an anderen Schadstoffen durch Untersuchungen nach § 4 Absatz 5, 8 und 9 Satz 1 nachgewiesen werden. Die Freistellungen können jederzeit widerrufen werden.
+(2) Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde im Rahmen der regionalen Verwertung im Einzelfall für weitere unvermischte, homogen zusammengesetzte Bioabfälle Freistellungen nach Absatz 1 zulassen. Die Freistellung von Behandlungen nach den §§ 3 und 3a kann erteilt werden, wenn auf Grund der Art, Beschaffenheit oder Herkunft der Bioabfälle angenommen werden kann, dass die in den §§ 3 und 4 festgelegten Anforderungen an die Hygiene sowie hinsichtlich der Schadstoffe und Fremdstoffe eingehalten werden und das Wohl der Allgemeinheit im Sinne des § 3a Absatz 1 Satz 2 nicht beeinträchtigt wird. Die Freistellung von Untersuchungspflichten behandelter, hygienisierend behandelter, biologisch stabilisierend behandelter oder unbehandelter Bioabfälle darf nur erteilt werden, wenn auf Grund der Art, Beschaffenheit oder Herkunft der Bioabfälle angenommen werden kann, dass die in den §§ 3 und 4 festgelegten Anforderungen an die Hygiene sowie hinsichtlich der Schadstoffe und Fremdstoffe eingehalten werden. Die zuständige Behörde kann vor Erteilung der Freistellungen von Behandlungen und Untersuchungen nach den §§ 3, 3a und 4 verlangen, dass die hygienische Unbedenklichkeit durch Untersuchungen entsprechend der Prüfungen der hygienisierten Bioabfälle nach § 3 Absatz 4 Satz 1 Nummer 3, Satz 2 und Absatz 8 Satz 1 sowie die Schwermetallgehalte, Fremdstoffanteile und Gehalte an anderen Schadstoffen durch Untersuchungen nach § 4 Absatz 5, 8 und 9 Satz 1 nachgewiesen werden. Die Freistellungen können jederzeit widerrufen werden.
 
 (3) Soweit nicht von einer Freistellung nach Absatz 1 oder Absatz 2 erfasst, sind für die Abgabe, Verwendung zur Gemischherstellung und Aufbringung von unbehandelten Bioabfällen die folgenden Bestimmungen entsprechend anzuwenden:
 
@@ -291,9 +313,9 @@ Die sich aus Satz 1 ergebenden Pflichten des Bioabfallbehandlers sind durch den 
 
 # § 11 – Nachweispflichten
 
-(1) Der Bioabfallbehandler hat die bei der Behandlung verwendeten Materialien nach Art, Bezugsquelle, -menge und Anfallstelle von der ursprünglichen Anfallstelle bis zum letzten Besitzer sowie aufgeteilt nach Chargen behandelten Bioabfalls gemäß Satz 2 und 3 aufzulisten. Jede Charge behandelten Bioabfalls ist mit einer fortlaufenden Chargennummer zu versehen, die mindestens das Jahr und den Monat der Behandlung sowie eine für das Behandlungsjahr fortlaufende Nummerierung enthalten muss. Handelt es sich um eine Behandlungsanlage mit einer kontinuierlichen Zuführung und Entnahme des behandelten Materials, legt die zuständige Behörde eine bestimmte Zeitspanne fest, in der der Bioabfallbehandler Chargen nach Satz 2 zu bestimmen hat. Verwendet der Bioabfallbehandler bei einer Behandlung bereits hygienisierend behandelte oder biologisch stabilisierend behandelte Materialien, hat er diese im Sinne des Satzes 1 mit den Angaben nach Absatz 2 Satz 2 des vorhergehenden Bioabfallbehandlers aufzulisten. Werden dem Bioabfallbehandler die Materialien von einem Einsammler angeliefert, hat dieser die eingesammelten Materialien nach Satz 1 aufgeteilt nach Anlieferungen aufzulisten und dem Bioabfallbehandler nach Art und Menge anzugeben. Im Falle des Satzes 4 und 5 entfällt für den Bioabfallbehandler die Dokumentationspflicht der Anfallstelle nach Satz 1.
+(1) Der Bioabfallbehandler hat die bei der Behandlung verwendeten Materialien nach Art, Bezugsquelle, -menge und Anfallstelle von der ursprünglichen Anfallstelle bis zum letzten Besitzer sowie aufgeteilt nach Chargen behandelten Bioabfalls gemäß Satz 2 und 3 aufzulisten. Jede Charge behandelten Bioabfalls ist mit einer fortlaufenden Chargennummer zu versehen, die mindestens das Jahr und den Monat der Behandlung sowie eine für das Behandlungsjahr fortlaufende Nummerierung enthalten muss. Handelt es sich um eine Behandlungsanlage mit einer kontinuierlichen Zuführung und Entnahme des behandelten Materials, legt die zuständige Behörde eine bestimmte Zeitspanne fest, in der der Bioabfallbehandler Chargen nach Satz 2 zu bestimmen hat. Verwendet der Bioabfallbehandler bei einer Behandlung bereits hygienisierend behandelte oder biologisch stabilisierend behandelte Materialien, hat er diese im Sinne des Satzes 1 mit den Angaben nach Absatz 2 Satz 2 des vorhergehenden Bioabfallbehandlers aufzulisten. Satz 1 gilt für den Einsammler entsprechend mit der Maßgabe, dass dieser die eingesammelten Materialien mit den Angaben nach Satz 1 sowie aufgeteilt nach Lieferungen an den Aufbereiter oder Bioabfallbehandler aufzulisten und dem Aufbereiter oder Bioabfallbehandler nach Art und Menge anzugeben hat. Satz 1 gilt für den Aufbereiter entsprechend mit der Maßgabe, dass dieser die bei der Aufbereitung verwendeten Materialien mit den Angaben nach Satz 1 sowie aufgeteilt nach Lieferungen an den Bioabfallbehandler aufzulisten und dem Bioabfallbehandler nach Art und Menge anzugeben hat. Die Pflicht zur Dokumentation der Anfallstelle nach Satz 1 entfällt für den Aufbereiter im Fall des Satzes 5 und für den Bioabfallbehandler im Fall der Sätze 4 bis 6.
 
-(1a) Der Gemischhersteller hat die bei den Mischvorgängen verwendeten Materialien aufgeteilt nach Chargen hergestellten Gemisches im Sinne des Absatzes 1 Satz 1 aufzulisten. Absatz 1 Satz 2 und 4 bis 6 gilt entsprechend.
+(1a) Der Gemischhersteller hat die bei den Mischvorgängen verwendeten Materialien aufgeteilt nach Chargen hergestellten Gemisches im Sinne des Absatzes 1 Satz 1 aufzulisten. Absatz 1 Satz 2, 4, 5 und 7 gilt entsprechend.
 
 (1b) Die nach Absatz 1 und 1a Verpflichteten haben den Listen die bei der Übernahme der Materialien erhaltenen Lieferscheine, Handelspapiere oder sonstige geeignete Unterlagen sowie die Kopie der vollständigen Formblätter nach § 9a Absatz 3 beizufügen. Sie haben die Listen und die beizufügenden Unterlagen ab dem Zeitpunkt der Erstellung der Listen zehn Jahre lang aufzubewahren. Auf Verlangen sind diese Listen und Unterlagen der zuständigen Behörde vorzulegen.
 
@@ -311,13 +333,13 @@ Die sich aus Satz 1 ergebenden Pflichten des Bioabfallbehandlers sind durch den 
 
 a) zur seuchen- und phytohygienischen Unbedenklichkeit nach § 3 Absatz 2 und 3 sowie
 
-b) an die Schwermetallgehalte nach § 4 Absatz 3, auch in Verbindung mit § 5 Absatz 2 Satz 2,
+b) an die Schwermetallgehalte und Fremdstoffanteile nach § 4 Absatz 3 und 4, jeweils auch in Verbindung mit § 5 Absatz 2 Satz 2,
 
 6. gemessene Schwermetallgehalte und gemessener pH-Wert, Salzgehalt, Glühverlust, Trockenrückstand und Anteil an Fremdstoffen und Steinen gemäß § 4 Absatz 5 und 6, auch in Verbindung mit § 5 Absatz 2 Satz 2 und 4; eine Begründung, wenn bei unbehandelten, hygienisierend behandelten oder biologisch stabilisierend behandelten Bioabfällen einzelne Untersuchungen der in § 4 Absatz 5 Satz 1 Nummer 2 genannten weiteren Parameter nicht durchführbar sind,
 
 7. Untersuchungsstellen und Zeitpunkt der Durchführung der Untersuchungen gemäß § 3 Absatz 4 Satz 1 Nummer 3, Absatz 7, 7a und 8 sowie § 4 Absatz 5, 6 und 9, auch in Verbindung mit § 5 Absatz 2 Satz 2 und 4,
 
-8. höchstzulässige Aufbringungsmenge gemäß § 6 Absatz 1 Satz 1, 2 oder 3,
+8. höchstzulässige Aufbringungsmenge gemäß § 6 Absatz 1 Satz 1, 2 oder 3 oder Absatz 1a Satz 1, 2, 3, 4 oder 5,
 
 9. Zulässigkeit der Aufbringung auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen gemäß § 7 Absatz 1 Satz 1,
 
@@ -331,7 +353,7 @@ Die Angaben nach Satz 2 Nummer 5 bis 7 sind nicht erforderlich, soweit nach § 1
 
 1. als Entsorgungsfachbetrieb zertifiziert ist oder
 
-2. als EMAS-Standort nach § 32 Absatz 1 Satz 1 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 1 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2509) geändert worden ist, in das EMAS-Register eingetragen ist; die Eintragung ist der zuständigen Behörde mitzuteilen.
+2. als EMAS-Standort nach § 32 Absatz 1 Satz 1 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 4 des Gesetzes vom 25. Februar 2021 (BGBl. I S. 306) geändert worden ist, in das EMAS-Register eingetragen ist; die Eintragung ist der zuständigen Behörde mitzuteilen.
 
 Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die Bestimmung des Satzes 1 auch für Bioabfallbehandler und Gemischhersteller anwenden, die Mitglieder einer Gütegemeinschaft sind, jedoch die Voraussetzungen des Satzes 2 Nummer 1 oder 2 nicht erfüllen. Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die Bestimmungen des Satzes 1 auch für Bioabfälle anwenden, welche nach § 10 Absatz 1 oder Absatz 2 von den Behandlungs- und Untersuchungspflichten freigestellt sind.
 
@@ -343,7 +365,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 3. Abgabe als unbehandelter, hygienisierend behandelter oder biologisch stabilisierend behandelter Bioabfall, als behandelter Bioabfall oder als Gemisch,
 
-4. höchstzulässige Aufbringungsmenge gemäß § 6 Absatz 1 Satz 1, 2 oder 3,
+4. höchstzulässige Aufbringungsmenge gemäß § 6 Absatz 1 Satz 1, 2 oder 3 oder Absatz 1a Satz 1, 2, 3, 4 oder 5,
 
 5. Zulässigkeit der Aufbringung auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen gemäß § 7 Absatz 1 Satz 1.
 
@@ -363,7 +385,11 @@ Satz 2 gilt für Zwischenabnehmer entsprechend, die gütegesicherte Bioabfälle 
 
 # § 12 – Ausnahmen für Kleinflächen
 
-§ 9 Absatz 1 und 2 und § 11 Absatz 2a Satz 2 gelten nicht, wenn unbehandelte oder behandelte Bioabfälle oder Gemische auf Flächen von Bewirtschaftern aufgebracht werden, die insgesamt nicht mehr als 1 Hektar landwirtschaftlich oder gärtnerisch genutzte Flächen bewirtschaften. § 11 Absatz 2a Satz 3 und Absatz 3a Satz 6 gilt nicht für den Bewirtschafter dieser Flächen.
+(1) § 9 Absatz 1 und 2, § 11 Absatz 2a Satz 2 und Absatz 3a Satz 6 gelten nicht, wenn unbehandelte oder behandelte Bioabfälle oder Gemische auf Flächen von Bewirtschaftern aufgebracht werden, die insgesamt nicht mehr als 1 Hektar landwirtschaftlich oder gärtnerisch genutzte Flächen bewirtschaften. § 11 Absatz 2a Satz 3 gilt nicht für den Bewirtschafter dieser Flächen. Die Sätze 1 und 2 gelten im Rahmen gärtnerischer oder landschaftsbaulicher Dienstleistungen durch einen Bioabfallbehandler, Gemischhersteller oder Zwischenabnehmer auf anderen als in Satz 1 genannten Flächen des Bewirtschafters mit der Maßgabe, dass die unbehandelten oder behandelten Bioabfälle oder Gemische auf zusammenhängende Flächen von jeweils nicht mehr als 1 Hektar aufgebracht werden.
+
+(2) § 11 Absatz 2a Satz 1 und 3 und Absatz 3a Satz 4 und 5 gilt nicht, wenn Bioabfallbehandler, Gemischhersteller oder Zwischenabnehmer im Rahmen gärtnerischer oder landschaftsbaulicher Dienstleistungen unbehandelte oder behandelte Bioabfälle oder Gemische, die auf zusammenhängende Flächen von jeweils nicht mehr als 1 Hektar des Bewirtschafters aufgebracht werden, an den Bewirtschafter abgeben oder im Auftrag des Bewirtschafters aufbringen. § 11 Absatz 2 Satz 1 und Absatz 3a Satz 2 gilt nicht für den Bioabfallbehandler oder den Gemischhersteller, der die gärtnerische oder landschaftsbauliche Dienstleistung erbringt. § 11 Absatz 2 Satz 4 und Absatz 3a Satz 3 gilt nicht für den Zwischenabnehmer, der die gärtnerische oder landschaftsbauliche Dienstleistung erbringt.
+
+(3) Die Ausnahmen für Kleinflächen nach den Absätzen 1 und 2 gelten nicht für forstwirtschaftliche Flächen.
 
 # § 12a – Elektronische Datenverarbeitung und -übermittlung
 
@@ -373,31 +399,39 @@ Die in dieser Verordnung vorgeschriebenen Dokumentationen und Nachweise können 
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 3 Absatz 1 oder § 3a Absatz 1 Satz 1 Bioabfall einer Behandlung nicht, nicht richtig oder nicht rechtzeitig zuführt,
+1. entgegen § 2a Absatz 4 Satz 1 eine Sichtkontrolle nicht oder nicht rechtzeitig durchführt,
 
-2. entgegen § 3 Absatz 3 Satz 1 eine hygienisierende Behandlung nicht oder nicht richtig durchführt,
+2. entgegen § 2a Absatz 4 Satz 2 Nummer 2 eine Fremdstoffentfrachtung nicht oder nicht rechtzeitig durchführt,
 
-3. entgegen § 3b Absatz 1 Satz 1 Bioabfall verbringt,
+3. entgegen § 2a Absatz 4 Satz 3 verpackten Bioabfall nicht, nicht richtig oder nicht vollständig getrennt hält oder eine Verpackungsentfrachtung nicht oder nicht rechtzeitig durchführt,
 
-4. entgegen § 3b Absatz 2 Satz 2 einen dort genannten Betriebsbereich nicht oder nicht richtig trennt,
+4. entgegen § 2a Absatz 4 Satz 5 oder § 4 Absatz 7 Satz 1 oder Absatz 8 Satz 1, auch in Verbindung mit § 10 Absatz 3 Satz 1 Nummer 2 und Satz 2, oder § 5 Absatz 3 Satz 1 oder Absatz 4 Satz 1 eine Untersuchung nicht oder nicht rechtzeitig durchführen lässt,
 
-5. entgegen § 4 Absatz 2 oder § 5 Absatz 2 Satz 1 Bioabfall oder ein Gemisch abgibt oder aufbringt,
+5. einer vollziehbaren Anordnung nach § 2a Absatz 6 Satz 1 oder § 9 Absatz 2 Satz 5 zuwiderhandelt,
 
-6. entgegen § 4 Absatz 7 Satz 1 oder Absatz 8 Satz 1, auch in Verbindung mit § 10 Absatz 3 Satz 1 Nummer 2 und Satz 2, oder § 5 Absatz 3 Satz 1 oder Absatz 4 Satz 1 eine Untersuchung nicht oder nicht rechtzeitig durchführen lässt,
+6. entgegen § 3 Absatz 1 oder § 3a Absatz 1 Satz 1 Bioabfall einer Behandlung nicht, nicht richtig oder nicht rechtzeitig zuführt,
 
-7. entgegen § 6 Absatz 1 Satz 1 oder Absatz 2a oder § 7 Absatz 1 Satz 1 Bioabfall oder ein Gemisch aufbringt,
+7. entgegen § 3 Absatz 3 Satz 1 eine hygienisierende Behandlung nicht oder nicht richtig durchführt,
 
-8. ohne Zustimmung nach § 6 Absatz 2 Satz 1 Bioabfall oder ein Gemisch aufbringt,
+8. entgegen § 3b Absatz 1 Satz 1 Bioabfall verbringt,
 
-9. entgegen § 8 Bioabfall oder ein Gemisch und Klärschlamm auf derselben Fläche aufbringt,
+9. entgegen § 3b Absatz 2 Satz 2 einen dort genannten Betriebsbereich nicht oder nicht richtig trennt,
 
-10. einer vollziehbaren Anordnung nach § 9 Absatz 2 Satz 5 zuwiderhandelt oder
+10. entgegen § 4 Absatz 2 oder § 5 Absatz 2 Satz 1 Bioabfall oder ein Gemisch abgibt oder aufbringt,
 
-11. ohne Zustimmung nach § 9a Absatz 1 Satz 1 Bioabfall abgibt oder aufbringt.
+11. entgegen § 6 Absatz 1 Satz 1, Absatz 1a Satz 1 oder Absatz 2a oder § 7 Absatz 1 Satz 1 Bioabfall oder ein Gemisch aufbringt,
+
+12. ohne Zustimmung nach § 6 Absatz 2 Satz 1 Bioabfall oder ein Gemisch aufbringt,
+
+13. entgegen § 6 Absatz 3 Bioabfall oder ein Gemisch aufbringt,
+
+14. entgegen § 8 Bioabfall oder ein Gemisch und Klärschlamm auf derselben Fläche aufbringt oder
+
+15. ohne Zustimmung nach § 9a Absatz 1 Satz 1 Bioabfall abgibt oder aufbringt.
 
 (2) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 3 Absatz 6 Satz 6 die Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
+1. entgegen § 2a Absatz 5 Satz 1 oder § 3 Absatz 6 Satz 6 oder Absatz 7 Satz 5 die Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
 
 2. entgegen
 
@@ -409,15 +443,15 @@ c) § 4 Absatz 9 Satz 2, auch in Verbindung mit § 5 Absatz 2 Satz 2 oder § 10 
 
 ein Untersuchungsergebnis, eine Aufzeichnung oder eine Dokumentation nicht, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3. entgegen § 3 Absatz 8 Satz 4 oder § 4 Absatz 9 Satz 4 ein Untersuchungsergebnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig weiterleitet,
+3. entgegen § 3 Absatz 8 Satz 4 oder § 4 Absatz 9 Satz 4, auch in Verbindung mit § 5 Absatz 2 Satz 2, ein Untersuchungsergebnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig weiterleitet,
 
 4. entgegen § 9 Absatz 1 Satz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 5. entgegen
 
-a) § 11 Absatz 1 Satz 1, auch in Verbindung mit § 10 Absatz 3 Satz 1 Nummer 3 und Satz 2,
+a) § 11 Absatz 1 Satz 1, auch in Verbindung mit § 10 Absatz 3 Satz 1 Nummer 3 und Satz 2 oder § 11 Absatz 1 Satz 5 oder 6,
 
-b) § 11 Absatz 1 Satz 4 oder Satz 5, jeweils auch in Verbindung mit Absatz 1a Satz 2, oder
+b) § 11 Absatz 1 Satz 4, auch in Verbindung mit Absatz 1a Satz 2, oder
 
 c) § 11 Absatz 1a Satz 1
 
@@ -449,9 +483,10 @@ dort genannte Materialien nicht, nicht richtig oder nicht vollständig auflistet
 
 # § 14 – Inkrafttreten
 
-# Anhang 1 – (zu § 2 Nummer 1, 4, 5, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Flächen geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
+# Anhang 1 – (zu § 2 Nummer 1, 1a, 4, 5, § 2a Absatz 1, 2, 3, 4, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 1a, 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Böden geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
 
-(Fundstelle: BGBl. I 2013, 671 — 688)
+(Fundstelle: BGBl. I 2013, 671 — 688;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Bioabfälle gemäß § 2 Nummer 1
 
@@ -483,10 +518,13 @@ aus der biologischen Abluftreinigung<br />
 Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln, tierischen Nebenprodukten und von Ställen anfallen.<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Filtermaterialien aus der biologischen Abluftreinigung.</td></tr><tr class="odd"><td style="text-align: left;">Kunststoffabfälle<br />
 (ohne Verpackungen)<br />
-(02 01 04)</td><td style="text-align: left;">– Biologisch abbaubare Werkstoffe (Kunststoffe) aus überwiegend nachwachsenden Rohstoffen</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
-Geeignete Abfälle gemäß Spalte 2 sind z. B. Abdeckfolien.<br />
-Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder DIN EN 14995 (Ausgabe<br />
-2007-03) zertifiziert sind.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien sind nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt, wenn sie an der Anfallstelle in den Boden eingearbeitet werden.</td></tr><tr class="odd"><td style="text-align: left;">Tierische Ausscheidungen,<br />
+(02 01 04)</td><td style="text-align: left;">– Mulchfolien aus dem landwirtschaftlichen und gärtnerischen Anbau aus biologisch abbaubaren Kunststoffen</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
+Es dürfen nur Mulchfolien aus biologisch abbaubaren Kunststoffen verwendet werden, die nach DIN EN 17033 (Ausgabe 2018-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis enthalten, dass die biologisch abbaubaren Kunststoff-Mulchfolien<br />
+a) bei einer Folienstärke von bis zu 25 µm überwiegend aus nachwachsenden Rohstoffen hergestellt sind und<br />
+b) bei einer Folienstärke von mehr als 25 µm möglichst überwiegend, mindestens jedoch zu 10 %, aus nachwachsenden Rohstoffen hergestellt sind;<br />
+dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.<br />
+Die Mulchfolien dürfen nur an der Anfallstelle in den Boden eingearbeitet werden. Eine Zuführung getrennt erfasster Mulchfolien zur Aufbereitung nach § 2a, zur Behandlung nach den §§ 3 und 4 oder zur Gemischherstellung nach § 5 ist nicht zulässig.<br />
+Die Materialien sind bei Einarbeitung in den Boden an der Anfallstelle nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt.</td></tr><tr class="even"><td style="text-align: left;">Tierische Ausscheidungen,<br />
 Gülle/Jauche und Stallmist (einschließlich verdorbenes Stroh), Abwässer, getrennt gesammelt<br />
 und extern behandelt<br />
 (02 01 06)</td><td style="text-align: left;">– Altstroh<br />
@@ -494,51 +532,57 @@ und extern behandelt<br />
 Die Bestimmungen dieser Verordnung sind für tierische Ausscheidungen, auch mit Einstreu, nur anwendbar, soweit diese nicht als tierische Nebenprodukte (Gülle von Nutztieren) der Verordnung (EG) Nr. 1069/2009<span id="FnR.FnA1-f780003_04"></span><a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
 Infektiöse Materialien sind keine geeigneten Abfälle gemäß Spalte 2.<br />
 Altstroh und tierische Ausscheidungen, auch mit Einstreu, getrennt erfasst oder miteinander vermischt, sind bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Abfälle aus der Forstwirtschaft<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle aus der Forstwirtschaft<br />
 (02 01 07)</td><td style="text-align: left;">– Pflanzliche Abfälle aus der Forstwirtschaft</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
 Naturbelassene pflanzliche Abfälle aus der Forstwirtschaft, auch unvermischt weiterverarbeitet, sind nach § 10 Absatz 1 Nummer 1 von den Behandlungspflichten freigestellt.<br />
 Im Rahmen einer Kompostierung sind die Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
+(02 02 03)</td><td style="text-align: left;">– Futtermittelabfälle ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
+– Lebensmittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
+– Speiseöle und -fette, ohne Verpackung, aus Produktion, Distribution und Lagerung</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Fleisch, Fisch und anderen Nahrungsmitteln tierischen Ursprungs)<br />
+Die Bestimmungen dieser Verordnung sind für die in Spalte 2 genannten Abfälle nur anwendbar, soweit diese nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
+Die Verwertung von Speiseölen und -fetten ist nur mit anaerober Behandlung zulässig.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nur dann nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, wenn sie zuvor einer Pasteurisierung gemäß § 2 Nummer 2 unterzogen wurden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 02 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Fleisch, Fisch und anderen Nahrungsmitteln tierischen Ursprungs)</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle aus der Extraktion mit Lösemitteln<br />
 (02 03 03)</td><td style="text-align: left;">– Pflanzliche Rückstände aus<br />
 der Extraktion mit Alkohol</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
-(02 03 04)</td><td style="text-align: left;">– Altmehl<br />
-– Fermentationsrückstände<br />
-aus der Enzym- und Vitaminproduktion<br />
+(02 03 04)</td><td style="text-align: left;">– Altmehl, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
+– Fermentationsrückstände aus der Enzym- und Vitaminproduktion<br />
+– Futtermittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Getreideabfälle<br />
 – Hefe und hefeähnliche Rückstände<br />
 – Kokosfasern<br />
+– Lebensmittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Melasserückstände<br />
 – Ölsaatenrückstände<br />
 – Pflanzliche Aminosäuren<br />
-– Pflanzliche Speiseöle und -fette<br />
+– Pflanzliche Speiseöle und -fette, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Rapsextraktionsschrot, Rapskuchen<br />
 – Rizinusschrot<br />
 – Rückstände aus der Kartoffel-, Mais- oder Reisstärkeherstellung<br />
 – Rückstände aus der Zubereitung und Verarbeitung von Kaffee, Tee und Kakao<br />
 – Rückstände aus der Zubereitung und Verarbeitung von Obst, Gemüse und Getreide<br />
-– Rückstände aus Konservenfabrikation<br />
+– Rückstände aus der Konservenfabrikation<br />
 – Rückstände von Gewürzpflanzen und pflanzlichen Würzmitteln<br />
 – Rückstände von Kartoffelschälbetrieben<br />
 – Spelze, Spelzen- und Getreidestaub<br />
-– Tabakstaub, -grus und -rippen<br />
-– Überlagerte Genussmittel<br />
-– Überlagerte Nahrungsmittel<br />
+– Tabakerzeugnis-Fehlchargen, ohne Filter und Verpackung, aus Produktion, Distribution und Lagerung<br />
+– Tabakstaub, -grus und<br />
+-rippen<br />
 – Verbrauchte Filter- und Aufsaugmassen (Bleicherden, entölt, Cellite, Kieselgur, Perlite)<br />
-– Vinasse und Vinasserückstände<br />
-– Zigarettenfehlchargen</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
-Die Bestimmungen dieser Verordnung sind für überlagerte Nahrungsmittel, Rückstände aus Konservenfabrikation und überlagerte Genussmittel tierischer Herkunft nur anwendbar, soweit diese oder wesentliche Materialbestandteile nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
+– Vinasse und Vinasserückstände</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
+Die Bestimmungen dieser Verordnung sind für Lebensmittel- und Futtermittelabfälle und Rückstände aus der Konservenfabrikation tierischer Herkunft nur anwendbar, soweit diese oder wesentliche Materialbestandteile nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Fermentationsrückstände aus der Vitaminproduktion sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung von Vitamin B2 anfallen.<br />
 Die Verwertung von pflanzlichen Speiseölen und -fetten ist nur mit anaerober Behandlung zulässig.<br />
-Rizinusschrot ist geeigneter Abfall gemäß Spalte 2, wenn dieser unbedenkliche Gehalte an Ricin (keine akute orale Toxizität bei Aufnahme von bis zu 2 000 mg Rizinusschrot/kg Körpergewicht bei Ratten) aufweist. Rizinusschrot ist so mit Mitteln (Vergällung) zu behandeln, dass eine Aufnahme durch Tiere unterbunden wird; er darf nicht mit Stoffen vermischt werden, die einen Anreiz für die Aufnahme durch Tiere darstellen.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Getrennt erfasste Kieselgur ist bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.<br />
-Zigarettenfehlchargen sind geeignete Abfälle gemäß Spalte 2, wenn diese keinen Filter und keine Verpackung enthalten.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Fermentationsrückstände aus der Enzym- und Vitaminproduktion, pflanzliche Aminosäuren, Rizinusschrot, Rückstände aus der Zubereitung und Verarbeitung von Kaffee, Tee und Kakao, Tabakstaub, -grus und -rippen, Kieselgur sowie Zigarettenfehlchargen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Rizinusschrot ist geeigneter Abfall gemäß Spalte 2, wenn er unbedenkliche Gehalte an Ricin (Ricingehalt maximal 50 mg je kg Trockenmasse Rizinusschrot) aufweist. Rizinusschrot ist so mit Mitteln (Vergällung) zu behandeln, dass eine Aufnahme durch Tiere (insbesondere Hunde) unterbunden wird; er darf nicht mit Stoffen vermischt werden, die einen Anreiz für die Aufnahme durch Tiere darstellen.<br />
+Getrennt erfasste Kieselgur ist bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Fermentationsrückstände aus der Enzym- und Vitaminproduktion, pflanzliche Aminosäuren, Rizinusschrot, Rückstände aus der Zubereitung und Verarbeitung von Kaffee, Tee und Kakao, Tabakerzeugnis-Fehlchargen, Tabakstaub, -grus und -rippen sowie Kieselgur.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 03 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluft-<br />
 reinigung</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 04 99)</td><td style="text-align: left;">– Melasserückstände<br />
 – Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung<br />
@@ -547,35 +591,33 @@ aus der biologischen Abluftreinigung<br />
 – Vinasse und Vinasserückstände<br />
 – Zuckerrübenschnitzel und -presskuchen</td><td style="text-align: left;">(Abfälle aus der Zuckerherstellung)<br />
 Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln anfallen.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Filtermaterialien aus der biologischen Abluftreinigung.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Filtermaterialien aus der biologischen Abluftreinigung.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 05 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Milchverarbeitung)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
-(02 06 01)</td><td style="text-align: left;">– Altmehl<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
+(02 06 01)</td><td style="text-align: left;">– Altmehl, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Fermentationsrückstände aus der Enzymproduktion<br />
 – Hefe und hefeähnliche Rückstände<br />
-– Teigabfälle<br />
-– Überlagerte Genussmittel<br />
-– Überlagerte Nahrungsmittel</td><td style="text-align: left;">(Abfälle aus der Herstellung von Back- und Süßwaren)<br />
-Die Bestimmungen dieser Verordnung sind für überlagerte Lebensmittel und Teigabfälle tierischer Herkunft nur anwendbar, soweit diese oder wesentliche Materialbestandteile nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+– Lebensmittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
+– Teigabfälle</td><td style="text-align: left;">(Abfälle aus der Herstellung von Back- und Süßwaren)<br />
+Die Bestimmungen dieser Verordnung sind für Lebensmittelabfälle und Teigabfälle tierischer Herkunft nur anwendbar, soweit diese oder wesentliche Materialbestandteile nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 06 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Herstellung von Back- und Süßwaren)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle aus der Alkoholdestillation<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle aus der Alkoholdestillation<br />
 (02 07 02)</td><td style="text-align: left;">– Obst-, Getreide- und Kartoffelschlempen</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
 (02 07 04)</td><td style="text-align: left;">– Biertreber<br />
 – Hefe und hefeähnliche Rückstände<br />
 – Hopfentreber<br />
+– Lebensmittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Malztreber, Malzkeime, Malzstaub<br />
 – Melasserückstände<br />
 – Trester<br />
-– Überlagerte Genussmittel<br />
-– Überlagerte Getränke<br />
 – Verbrauchte Filter- und Aufsaugmassen (Cellite, Kieselgur, Perlite)<br />
 – Vinasse und Vinasserückstände</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
-Getrennt erfasste Kieselgur ist<br />
-bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen ist Kieselgur.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Getrennt erfasste Kieselgur ist bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen ist Kieselgur.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 07 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
 Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Rinden- und Korkabfälle<br />
@@ -621,24 +663,22 @@ Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 
 (19 08 09)</td><td style="text-align: left;">– Inhalt von Fettabscheidern</td><td style="text-align: left;">(Abfälle aus Abwasserbehandlungsanlagen a. n. g.)<br />
 Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Papier und Pappe<br />
-(20 01 01)</td><td style="text-align: left;">– Altpapier</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
-Altpapier darf nur in geringen Mengen (max. 0,5 %) zur Kompostierung zugegeben werden.<br />
-Die Zugabe von Altpapier ist in kleinen Mengen zusammen mit getrennt erfassten Bioabfällen (Abfallschlüssel 20 03 01) zulässig, wenn dies aus hygienischen oder praktischen Gründen zweckmäßig ist (z. B. bei sehr feuchten Bioabfällen).<br />
-Die Verwertung von Hochglanzpapier und von Papier aus Alttapeten ist nicht zulässig.</td></tr><tr class="even"><td style="text-align: left;">Biologisch abbaubare<br />
-Küchen- und Kantinenabfälle<br />
-(20 01 08)</td><td style="text-align: left;">– Biologisch abbaubare<br />
-Küchen- und Kantinenabfälle<br />
-– Inhalt von Fettabscheidern</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
-Die Bestimmungen dieser Verordnung sind für biologisch abbaubare Küchen- und Kantinenabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
+(20 01 01)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">Biologisch abbaubare Küchen- und Kantinenabfälle<br />
+(20 01 08)</td><td style="text-align: left;">– Biologisch abbaubare Küchen- und Kantinenabfälle<br />
+– Inhalt von Fettabscheidern<br />
+– Lebensmittelabfälle, ohne Verpackung</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
+Die Bestimmungen dieser Verordnung sind<br />
+a) für biologisch abbaubare Küchen- und Kantinenabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, und<br />
+b) für Lebensmittelabfälle tierischer Herkunft nur anwendbar, soweit diese nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Die Verwertung der Inhalte von Fettabscheidern ist nur mit anaerober Behandlung zulässig.<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Speiseöle und -fette<br />
-(20 01 25)</td><td style="text-align: left;">– Speiseöle und -fette</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
-Die Bestimmungen dieser Verordnung sind für Speiseöle und -fette tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte (Küchen- und Kantinenabfälle oder überlagerte Lebensmittel) der Verordnung (EG)<br />
-Nr. 1069/2009³ unterliegen.<br />
+(20 01 25)</td><td style="text-align: left;">– Speiseöle und -fette, ohne Verpackung</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
+Die Bestimmungen dieser Verordnung sind für Speiseöle und -fette tierischer Herkunft nur anwendbar, soweit diese<br />
+a) nicht als tierische Nebenprodukte (Küchen- und Kantinenabfälle) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, oder<br />
+b) nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte (überlagerte Lebensmittel) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.<br />
 Speiseöle und -fette pflanzlicher Herkunft dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Kunststoffe<br />
-(20 01 39)</td><td style="text-align: left;">– Biologisch abbaubare Werkstoffe (Kunststoffe) aus überwiegend nachwachsenden Rohstoffen</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
-Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese nach DIN EN 13432</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">(Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind; Abfalltüten, die zur Sammlung biologisch abbaubarer Abfälle wie z. B. von Küchen- und Kantinenabfällen bestimmt sind.</td></tr><tr class="even"><td style="text-align: left;">Biologisch abbaubare Abfälle<br />
+(20 01 39)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">Biologisch abbaubare Abfälle<br />
 (20 02 01)</td><td style="text-align: left;">– Biologisch abbaubare Abfälle von Sportanlagen, -plätzen, -stätten und Kinderspielplätzen (soweit nicht Garten- und Parkabfälle)<span id="FnR.FnA1-f780003_06"></span><a href="#FnA1-f780003_06" class="FnR">5</a></sup><br />
 – Biologisch abbaubare Friedhofsabfälle<br />
 – Biologisch abbaubare Garten- und Parkabfälle<br />
@@ -648,10 +688,13 @@ Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese nach DIN EN
 – Pflanzliche Bestandteile des Treibsels (einschließlich von Küsten- und Uferbereichen)<a href="#FnA1-f780003_06" class="FnR">5</a></sup><br />
 </td><td style="text-align: left;">(Garten- und Parkabfälle [einschließlich Friedhofsabfälle])<br />
 Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.</td></tr><tr class="odd"><td style="text-align: left;">Gemischte Siedlungsabfälle⁶<br />
-(20 03 01)</td><td style="text-align: left;">– Getrennt erfasste Bioabfälle<span id="FnR.FnA1-f780003_07"></span><a href="#FnA1-f780003_07" class="FnR">6</a></sup></td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
-Geeignete Abfälle gemäß Spalte 2 sind getrennt erfasste Bioabfälle privater Haushalte und des Kleingewerbes (insbesondere Biotonne).</td></tr><tr class="even"><td style="text-align: left;">Marktabfälle<br />
-(20 03 02)</td><td style="text-align: left;">– Pflanzliche Marktabfälle</td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.</td></tr><tr class="even"><td style="text-align: left;">Gemischte Siedlungsabfälle<span id="FnR.FnA1-f780003_07"></span><a href="#FnA1-f780003_07" class="FnR">6</a></sup><br />
+(20 03 01)</td><td style="text-align: left;">– Getrennt gesammelte Bioabfälle<a href="#FnA1-f780003_07" class="FnR">6</a></sup></td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
+Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.</td></tr><tr class="odd"><td style="text-align: left;">Marktabfälle<br />
+(20 03 02)</td><td style="text-align: left;">– Futtermittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung<br />
+– Lebensmittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung<br />
+– Pflanzliche Marktabfälle, ohne Verpackung</td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
+Die Bestimmungen dieser Verordnung sind für Lebensmittel- und Futtermittelabfälle tierischer Herkunft nur anwendbar, soweit diese nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr></tbody></table>
 
 b) Bioabfälle, die einer Zustimmung nach § 9a zur Verwertung bedürfen
@@ -665,9 +708,9 @@ Abfallbezeichnungen</th><th style="text-align: left;">Ergänzende Bestimmungen<b
 gemäß Gruppenüberschrift<br />
 der Anlage der AVV<a href="#FnA1-f780003_02" class="FnR">1</a></sup> )</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Schlämme von Wasch-<br />
 und Reinigungsvorgängen<br />
-(02 01 01)</td><td style="text-align: left;">– Sonstige schlammförmige Nahrungsmittelabfälle</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
-Die Bestimmungen dieser Verordnung sind für sonstige schlammförmige Nahrungsmittelabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese an der Anfallstelle nicht mit Abwässern oder Schlämmen außerhalb der spezifischen Produktion vermischt werden.<br />
-Sonstige schlammförmige Nahrungsmittelabfälle dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+(02 01 01)</td><td style="text-align: left;">– Sonstige schlammförmige Lebensmittel- und Futtermittelabfälle</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
+Die Bestimmungen dieser Verordnung sind für sonstige schlammförmige Lebensmittel- und Futtermittelabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese an der Anfallstelle nicht mit Abwässern oder Schlämmen außerhalb der spezifischen Produktion vermischt werden.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 01 99)</td><td style="text-align: left;">– Pilzsubstratrückstände</td><td style="text-align: left;">(Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei)<br />
 Geeignete Abfälle gemäß Spalte 2 sind abgetragene Substrate aus der Speisepilzherstellung.<br />
 Pilzsubstratrückstände, bei denen die Pilzkulturen nachweislich durch Dämpfung abgetötet werden, gelten gemäß § 3 Absatz 3 Satz 5 in Verbindung mit § 2 Nummer 2 Buchstabe d als anderweitig hygienisierend behandelt und sind gemäß § 10 Absatz 1 Nummer 2 von den Untersuchungspflichten nach § 3 freigestellt.<br />
@@ -679,8 +722,8 @@ und Flotate<br />
 Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese an der Anfallstelle nicht mit Abwässern oder Schlämmen außerhalb der spezifischen Produktion vermischt werden.<br />
 Die Verwertung der Inhalte von Fettabscheidern und der Flotate ist nur mit anaerober Behandlung zulässig.<br />
 Getrennt erfasste Gelatinekalkschlämme, die mit Natronlauge und Kalk nachweislich hygienisiert werden, gelten gemäß § 3 Absatz 3 Satz 5 in Verbindung mit § 2 Nummer 2 Buchstabe d als anderweitig hygienisierend behandelt und sind gemäß § 10 Absatz 1 Nummer 2 von den Untersuchungspflichten nach § 3 freigestellt.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Schlämme aus Wasch-, Reinigungs-, Schäl-, Zentrifugier- und Abtrennprozessen<br />
-(02 03 01)</td><td style="text-align: left;">– Sonstige schlammförmige Nahrungsmittelabfälle</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
-Die Bestimmungen dieser Verordnung sind für sonstige schlammförmige Nahrungsmittelabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
+(02 03 01)</td><td style="text-align: left;">– Sonstige schlammförmige Lebensmittel- und Futtermittelabfälle</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
+Die Bestimmungen dieser Verordnung sind für sonstige schlammförmige Lebensmittel- und Futtermittelabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.<br />
 Die Materialien sind geeignete Abfälle gemäß Spalte 2, wenn diese an der Anfallstelle nicht mit Abwässern oder Schlämmen außerhalb der spezifischen Produktion vermischt werden.<br />
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
 (02 03 04)</td><td style="text-align: left;">– Schlamm aus der Herstellung pflanzlicher Speisefette<br />
@@ -723,9 +766,9 @@ Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.</td><
 
 2. Andere Abfälle sowie biologisch abbaubare Materialien und mineralische Stoffe, die für eine gemeinsame Behandlung mit Bioabfällen (§ 2 Nummer 4) und für die Herstellung von Gemischen (§ 2 Nummer 5) geeignet sind
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><thead><tr class="header"><th style="text-align: left;">Sofern Abfälle, Abfallbezeichnung<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Sofern Abfälle, Abfallbezeichnung<br />
 gemäß der Anlage der AVV<a href="#FnA1-f780003_02" class="FnR">1</a></sup><br />
-(in Klammern: Abfallschlüssel)</th><th style="text-align: left;">Zulässige andere Abfälle<a href="#FnA1-f780003_03" class="FnR">2</a></sup> aus<br />
+(in Klammern: Abfallschlüssel)</th><th style="text-align: left;">Geeignete andere Abfälle<a href="#FnA1-f780003_03" class="FnR">2</a></sup> aus<br />
 den in Spalte 1 genannten<br />
 Abfallbezeichnungen, biologisch<br />
 abbaubare Materialien und<br />
@@ -747,7 +790,7 @@ Calciumcarbonatschlamm<br />
 (02 04 02)</td><td style="text-align: left;">– Carbonatationsschlamm</td><td style="text-align: left;">(Abfälle aus der Zuckerherstellung)<br />
 Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Kalkschlammabfälle<br />
 (03 03 09)</td><td style="text-align: left;">– Faserkalk</td><td style="text-align: left;">(Abfälle aus der Herstellung und Verarbeitung von Zellstoff, Papier, Karton und Pappe)<br />
-Faserkalk ist zulässiger anderer Abfall gemäß Spalte 2, wenn dieser aus der Aufbereitung von Frischfasern der Weißpapierherstellung stammt und keine Fällungsmittel (ausgenommen Kalk) zugegeben werden.</td></tr><tr class="even"><td style="text-align: left;">Rost- und Kesselasche,<br />
+Faserkalk ist geeigneter anderer Abfall gemäß Spalte 2, wenn dieser aus der Aufbereitung von Frischfasern der Weißpapierherstellung stammt und keine Fällungsmittel (ausgenommen Kalk) zugegeben werden.</td></tr><tr class="even"><td style="text-align: left;">Rost- und Kesselasche,<br />
 Schlacken und Kesselstaub<br />
 mit Ausnahme von Kesselstaub, der unter 10 01 04 fällt<br />
 (10 01 01)</td><td style="text-align: left;">– Asche aus der Verbrennung<br />
@@ -757,9 +800,9 @@ von naturbelassenen pflanzlichen Materialien<br />
 – Asche aus der Verbrennung von Materialien tierischer Herkunft<br />
 – Asche aus der Verbrennung von Papier</td><td style="text-align: left;">(Abfälle aus Kraftwerken und anderen Verbrennungsanlagen<br />
 [außer 19])<br />
-Asche aus der Verbrennung von Papier ist zulässiger anderer Abfall gemäß Spalte 2, wenn diese im Rahmen der energetischen<br />
+Asche aus der Verbrennung von Papier ist geeigneter anderer Abfall gemäß Spalte 2, wenn diese im Rahmen der energetischen<br />
 Nutzung von Papierreststoffen aus der Papierherstellung anfällt.<br />
-Die Materialien sind zulässige andere Abfälle gemäß Spalte 2, wenn diese als Feuerraumaschen oder als Aschen aus der Wirbelschichtverbrennung anfallen. Materialien, die als Aschen aus der letzten filternden Einheit im Rauchgasweg oder als Kondensatfilterschlämme anfallen, sind keine zulässigen anderen Abfälle gemäß Spalte 2.</td></tr><tr class="odd"><td style="text-align: left;">Gebrauchte Chemikalien mit Ausnahme derjenigen, die unter 16 05 06, 16 05 07 oder 16 05 08 fallen<br />
+Die Materialien sind geeignete andere Abfälle gemäß Spalte 2, wenn diese als Feuerraumaschen oder als Aschen aus der Wirbelschichtverbrennung anfallen. Materialien, die als Aschen aus der letzten filternden Einheit im Rauchgasweg oder als Kondensatfilterschlämme anfallen, sind keine geeigneten anderen Abfälle gemäß Spalte 2.</td></tr><tr class="odd"><td style="text-align: left;">Gebrauchte Chemikalien mit Ausnahme derjenigen, die unter 16 05 06, 16 05 07 oder 16 05 08 fallen<br />
 (16 05 09)</td><td style="text-align: left;">– ABC-Feuerlöschpulver</td><td style="text-align: left;">(Gase in Druckbehältern und gebrauchte Chemikalien)</td></tr><tr class="even"><td style="text-align: left;">Rost- und Kesselaschen sowie Schlacken mit Ausnahme derjenigen, die unter 19 01 11 fallen<br />
 (19 01 12)</td><td style="text-align: left;">– Asche aus der Verbrennung von naturbelassenen pflanzlichen Materialien<br />
 – Asche aus der Verbrennung von Materialien tierischer Herkunft<br />
@@ -767,23 +810,33 @@ Die Materialien sind zulässige andere Abfälle gemäß Spalte 2, wenn diese als
 von Klärschlämmen<br />
 – Asche aus der Verbrennung<br />
 von Papier</td><td style="text-align: left;">(Abfälle aus der Verbrennung oder Pyrolyse von Abfällen)<br />
-Asche aus der Verbrennung von Klärschlämmen ist zulässiger anderer Abfall gemäß Spalte 2, wenn die Klärschlämme aus der Behandlung von kommunalen Abwässern entsprechend der Klärschlammverordnung stammen.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Asche aus der Verbrennung von Papier ist zulässiger anderer Abfall gemäß Spalte 2, wenn diese im Rahmen der energetischen Nutzung von Papierreststoffen aus der Papierherstellung anfällt.<br />
-Die Materialien sind zulässige andere Abfälle gemäß Spalte 2, wenn diese als Feuerraumaschen oder als Aschen aus der Wirbelschichtverbrennung anfallen. Materialien, die als Aschen aus der letzten filternden Einheit im Rauchgasweg oder als Kondensatfilterschlämme anfallen, sind keine zulässigen anderen Abfälle gemäß Spalte 2.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Asche aus der Verbrennung von Klärschlämmen ist geeigneter anderer Abfall gemäß Spalte 2, wenn die Klärschlämme aus der Behandlung von kommunalen Abwässern entsprechend der Klärschlammverordnung stammen.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Asche aus der Verbrennung von Papier ist geeigneter anderer Abfall gemäß Spalte 2, wenn diese im Rahmen der energetischen Nutzung von Papierreststoffen aus der Papierherstellung anfällt.<br />
+Die Materialien sind geeignete andere Abfälle gemäß Spalte 2, wenn diese als Feuerraumaschen oder als Aschen aus der Wirbelschichtverbrennung anfallen. Materialien, die als Aschen aus der letzten filternden Einheit im Rauchgasweg oder als Kondensatfilterschlämme anfallen, sind keine geeigneten anderen Abfälle gemäß Spalte 2.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (19 08 99)</td><td style="text-align: left;">– Schlamm aus der Phosphatfällung mit Kalk</td><td style="text-align: left;">(Abfälle aus Abwasserbehandlungsanlagen a. n. g.)<br />
-Schlamm aus der Phosphatfällung mit Kalk ist zulässiger anderer Abfall gemäß Spalte 2, wenn dieser aus kommunalen Abwasserbehandlungsanlagen stammt.<br />
+Schlamm aus der Phosphatfällung mit Kalk ist geeigneter anderer Abfall gemäß Spalte 2, wenn dieser aus kommunalen Abwasserbehandlungsanlagen stammt.<br />
 Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Schlämme aus der Dekarbonatisierung<br />
 (19 09 03)</td><td style="text-align: left;">– Schlamm aus Wasserenthärtung</td><td style="text-align: left;">(Abfälle aus der Zubereitung von Wasser für den menschlichen Gebrauch oder industriellem Brauchwasser)<br />
-Materialien, die als Schlämme aus der Enteisenung und der Entmanganung anfallen, sind keine zulässigen anderen Abfälle gemäß Spalte 2.<br />
-Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">(Sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschafts- und Abfallgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Materialien gemäß Düngemittelverordnung<span id="FnR.FnA1-f780003_08"></span><a href="#FnA1-f780003_08" class="FnR">7</a></sup> :<br />
-• Düngemittel gemäß § 3 DüMV sowie Wirtschaftsdünger, Bodenhilfsstoffe und Kultursubstrate gemäß § 4 DüMV<br />
-• Stoffe gemäß der Tabellen 6, 7 (mit Ausnahme von Klärschlämmen nach Nummer 7.4.3) und 8 (mit Ausnahme von Schadstoffen nach Nummer 8.3.11 Spalte 3 letzter Satz) der Anlage 2 DüMV</td><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> sind zulässige andere Abfälle, biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, soweit diese nicht als Bioabfälle in Nummer 1 oder als zulässige andere Abfälle in anderen Tabellenzeilen dieser Nummer genannt sind.<br />
-Soweit Düngemittel und Ausgangsstoffe tierischer Herkunft als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, sind auch deren Bestimmungen anzuwenden.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> oder der Düngeverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> zulässig ist.</td></tr><tr class="even"><td style="text-align: left;">–</td><td style="text-align: left;">– Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> :<br />
-• der Kategorie 3 gemäß Artikel 10 Verordnung (EG) Nr. 1069/2009,<br />
-• der Kategorie 2 gemäß Artikel 9 Buchstabe a Verordnung (EG) Nr. 1069/2009 (Gülle, nicht mineralisierter Guano, Magen- und Darminhalte sowie Panseninhalte)</td><td style="text-align: left;">Magen- und Darminhalte sowie Panseninhalte sind zulässige biologisch abbaubare Materialien gemäß Spalte 2, wenn diese von Tieren stammen, die als genusstauglich für den menschlichen Verzehr eingestuft sind.<br />
-Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> zulässig ist.</td></tr><tr class="odd"><td style="text-align: left;">–</td><td style="text-align: left;">– Nachwachsende Rohstoffe</td><td style="text-align: left;">Nachwachsende Rohstoffe sind zulässige biologisch abbaubare Materialien gemäß Spalte 2, soweit diese nicht als Bioabfälle in<br />
+Materialien, die als Schlämme aus der Enteisenung und der Entmanganung anfallen, sind keine geeigneten anderen Abfälle gemäß Spalte 2.<br />
+Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung<br />
+(die Materialien sind jeweils derjenigen Abfallbezeichnung zuzuordnen, der der damit getrennt gesammelte Bioabfall zugeordnet ist)</td><td style="text-align: left;">– Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung:<br />
+• Küchenkrepp und Altpapier (Zeitungspapier)<br />
+• Papier-Sammeltüten, auch mit zugesetzten Hydrophobierungsmitteln sowie mit einer Beschichtung aus Wachs oder aus biologisch abbaubarem Kunststoff<br />
+• Biologisch abbaubare<br />
+Kunststoff-Sammelbeutel</td><td style="text-align: left;">Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung sind nach Maßgabe der folgenden Sätze geeignete andere Abfälle gemäß Spalte 2 und dürfen nur zusammen mit den gesammelten Bioabfällen der Behandlung zugegeben werden:<br />
+a) Küchenkrepp und Altpapier (Zeitungspapier) darf in kleinen Mengen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn dies aus hygienischen oder praktischen Gründen bei der Sammlung der Bioabfälle zweckmäßig ist (z. B. bei sehr feuchten Bioabfällen). Die Zugabe von beschichtetem Papier, Hochglanzpapier (z. B. von Zeitschriften, Illustrierten) und von Papier aus Alttapeten ist nicht zulässig.<br />
+b) Papier-Sammeltüten, auch mit zugesetzten Hydrophobierungsmitteln sowie mit einer Beschichtung aus Wachs oder aus biologisch abbaubarem Kunststoff, dürfen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden. Zugesetzte Hydrophobierungsmittel dürfen nur pflanzlicher oder tierischer Herkunft sein. Eine Wachsbeschichtung darf nur aus natürlichen, nicht-fossilen Wachsen bestehen. Eine Beschichtung mit biologisch abbaubaren Kunststoffen darf nur aus solchen bestehen, die nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder nach DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass die biologisch abbaubaren Kunststoffe überwiegend aus nachwachsenden Rohstoffen hergestellt sind und dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.<br />
+c) Biologisch abbaubare Kunststoff-Sammelbeutel dürfen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder nach DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass die biologisch abbaubaren Kunststoff-Sammelbeutel überwiegend aus nachwachsenden Rohstoffen hergestellt sind und dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<span id="FnR.FnA1-f780003_08"></span><a href="#FnA1-f780003_08" class="FnR">7</a></sup><br />
+(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> :<br />
+• Düngemittel gemäß § 3 DüMV sowie Wirtschaftsdünger, Bodenhilfsstoffe und Kultursubstrate gemäß § 4 DüMV<br />
+• Stoffe gemäß der Tabellen 6, 7 (mit Ausnahme von Klärschlämmen nach Nummer 7.4.3) und 8 (mit Ausnahme von Schadstoffen nach Nummer 8.3.11 Spalte 3 letzter Satz) der Anlage 2 DüMV</td><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> sind geeignete andere Abfälle, biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, soweit diese nicht als Bioabfälle in Nummer 1 oder als geeignete andere Abfälle in anderen Tabellenzeilen dieser Nummer genannt sind.<br />
+Soweit Düngemittel und Ausgangsstoffe tierischer Herkunft als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, sind auch deren Bestimmungen anzuwenden.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> oder der Düngeverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> zulässig ist.</td></tr><tr class="odd"><td style="text-align: left;">Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup><br />
+(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup><br />
+• der Kategorie 3 gemäß Artikel 10 Verordnung (EG) Nr. 1069/2009,<br />
+• der Kategorie 2 gemäß Artikel 9 Buchstabe a Verordnung (EG) Nr. 1069/2009 (Gülle, nicht mineralisierter Guano, Magen- und Darminhalte sowie Panseninhalte)</td><td style="text-align: left;">Soweit tierische Nebenprodukte als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind, werden sie nach § 1 Absatz 3 Nummer 3a letzter Teilsatz als Bioabfälle der jeweiligen Abfallbezeichnung nach Nummer 1 Buchstabe a dieses Anhangs zugeordnet. Magen- und Darminhalte sowie Panseninhalte sind geeignete biologisch abbaubare Materialien gemäß Spalte 2, wenn diese von Tieren stammen, die als genusstauglich für den menschlichen Verzehr eingestuft sind.<br />
+Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> zulässig ist.</td></tr><tr class="even"><td style="text-align: left;">Nachwachsende Rohstoffe</td><td style="text-align: left;">– Nachwachsende Rohstoffe</td><td style="text-align: left;">Nachwachsende Rohstoffe sind geeignete biologisch abbaubare Materialien gemäß Spalte 2, soweit diese nicht als Bioabfälle in<br />
 Nummer 1 genannt sind.<br />
 Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">–</td><td style="text-align: left;">– Bodenmaterialien</td><td style="text-align: left;">Bodenmaterialien sind zulässige biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, wenn diese die Vorsorgewerte für Böden nach Anhang 2 Nummer 4 der Bundes-Bodenschutz- und Altlastenverordnung nicht überschreiten.<br />
+Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Bodenmaterialien</td><td style="text-align: left;">– Bodenmaterialien</td><td style="text-align: left;">Bodenmaterialien sind geeignete biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, wenn diese die Vorsorgewerte für Böden nach Anhang 2 Nummer 4 der Bundes-Bodenschutz- und Altlastenverordnung<span id="FnR.FnA1-bjnr295500998bjne001705125_08"></span><a href="#FnA1-bjnr295500998bjne001705125_08" class="FnR">8</a></sup> nicht überschreiten.<br />
 Die Materialien dürfen nach § 7 Absatz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen aufgebracht werden.</td></tr></tbody></table>
 
 3. Bekanntmachungen sachverständiger Stellen
@@ -793,7 +846,7 @@ DIN-Normen, auf die in diesem Anhang verwiesen wird, wurden in der Beuth-Verlag 
 <!-- -->
 
 <span id="FnA1-f780003_02"></span><a href="#FnR.FnA1-f780003_02" class="Footnote">1</a>  
-Abfallverzeichnis-Verordnung (AVV) vom 10. Dezember 2001 (BGBl. I S. 3379), die zuletzt durch Artikel 5 Absatz 22 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist.
+Abfallverzeichnis-Verordnung (AVV) vom 10. Dezember 2001 (BGBl. I S. 3379), die zuletzt durch Artikel 1 der Verordnung vom 30. Juni 2020 (BGBl. I S. 1533) geändert worden ist.
 
 <span id="FnA1-f780003_03"></span><a href="#FnR.FnA1-f780003_03" class="Footnote">2</a>  
 Abfälle in Anlehnung an den Abfallartenkatalog der Länderarbeitsgemeinschaft Abfall, 16. Länderarbeitsgemeinschaft Abfall: LAGA-Informationsschrift Abfallarten – 1991, Mitteilungen der Länderarbeitsgemeinschaft Abfall (LAGA) – Erich Schmidt Verlag, Berlin.
@@ -808,10 +861,13 @@ Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführu
 Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine spezielle Abfallbezeichnung für außerhalb von Gärten und Parks anfallende biologisch abbaubare Abfälle von Sportanlagen, -plätzen, -stätten und Kinderspielplätzen, Gehölzrodungsrückstände und pflanzliche Abfälle aus der Gewässerunterhaltung sowie für Landschaftspflegeabfälle und pflanzliche Bestandteile des Treibsels enthält.
 
 <span id="FnA1-f780003_07"></span><a href="#FnR.FnA1-f780003_07" class="Footnote">6</a>  
-Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine spezielle Abfallbezeichnung für getrennt erfasste Bioabfälle, insbesondere in Biotonnen, enthält.
+Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine spezielle Abfallbezeichnung für getrennt gesammelte Bioabfälle, insbesondere in Biotonnen, enthält.
 
 <span id="FnA1-f780003_08"></span><a href="#FnR.FnA1-f780003_08" class="Footnote">7</a>  
 Düngemittelverordnung und Düngeverordnung in der jeweils geltenden Fassung.
+
+<span id="FnA1-bjnr295500998bjne001705125_08"></span><a href="#FnR.FnA1-bjnr295500998bjne001705125_08" class="Footnote">8</a>  
+Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 126 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist.
 
 # Anhang 2 – (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
 
@@ -1541,19 +1597,20 @@ Nach 15 Tagen Kulturdauer werden die aufgelaufenen Pflanzen gezählt und ihre An
 
 Die Prüfung der hygienisierten Bioabfälle ist in der Phytohygiene erfolgreich abgeschlossen, wenn der Gehalt an keimfähigen Samen und austriebsfähigen Pflanzenteilen maximal 2 pro Liter Prüfsubstrat ist.
 
-# Anhang 3 – (zu § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
+# Anhang 3 – (zu § 2a Absatz 7, § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
 
-(Fundstelle: BGBl. I 2013, 704 — 706)
+(Fundstelle: BGBl. I 2013, 704 — 706;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1  
-Untersuchung von unbehandelten und behandelten Bioabfällen
+Untersuchung von unbehandelten, vorbehandelten und behandelten Bioabfällen
 
 1.1  
 Probenahme
 
-Für die nach § 4 vorgeschriebenen Untersuchungen der Bioabfälle erfolgt die Probenahme in dem Zustand der Bioabfälle, wie diese in Verkehr gebracht oder auf die landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzten Böden aufgebracht werden.
+Für die nach § 2a vorgeschriebenen Untersuchungen der Bioabfälle erfolgt die Probenahme in dem Zustand der Bioabfälle, in dem diese in der Aufbereitungs-, Behandlungs- und Gemischherstellungsanlage angeliefert oder nach der Fremdstoff- oder Verpackungsentfrachtung weiterverwendet werden. Für die nach § 4 vorgeschriebenen Untersuchungen der Bioabfälle erfolgt die Probenahme in dem Zustand der Bioabfälle, wie diese in Verkehr gebracht oder auf die landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzten Böden aufgebracht werden.
 
-Die Probenahme fester unbehandelter oder behandelter Bioabfälle erfolgt nach DIN EN 12579 (Ausgabe Januar 2000), Bodenverbesserungsmittel und Kultursubstrate – Probenahme.
+Die Probenahme fester unbehandelter oder behandelter Bioabfälle erfolgt nach DIN EN 12579 (Ausgabe Februar 2014), Bodenverbesserungsmittel und Kultursubstrate – Probenahme.
 
 Für flüssige unbehandelte oder behandelte Bioabfälle erfolgt die Probenahme in Anlehnung an DIN 51750-1 (Ausgabe Dezember 1990), Prüfung von Mineralölen; Probenahme; Allgemeines, und an DIN 51750-2 (Ausgabe Dezember 1990), Prüfung von Mineralölen; Probenahme; Flüssige Stoffe.
 
@@ -1566,7 +1623,7 @@ Probevorbereitung
 
 Die zur Untersuchung gelangende Probe wird unmittelbar vor der Entnahme einer Teilprobe sorgfältig gemischt.
 
-Für die Untersuchungsparameter, die aus der Trockenmasse bestimmt werden, wird eine Teilprobe entnommen, die mindestens ausreicht, um vier parallele Untersuchungen zu gewährleisten. Diese Teilprobe wird in Anlehnung an DIN EN 13040 (Ausgabe Februar 2007), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte, bei 105 °C bis zur Gewichtskonstanz getrocknet. Für die Bestimmung des Glühverlustes werden feste Bioabfälle gemäß DIN EN 13040 (Ausgabe Februar 2007), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte, auf eine Korngröße &lt; 2 Millimeter zerkleinert. Für die Bestimmung der Schwermetallgehalte werden feste Bioabfälle gemäß DIN EN 13650 (Ausgabe Januar 2002), Bodenverbesserungsmittel und Kultursubstrate – Extraktion von in Königswasser löslichen Elementen, auf eine Korngröße &lt; 0,5 Millimeter zerkleinert.
+Für die Untersuchungsparameter, die aus der Trockenmasse bestimmt werden, wird eine Teilprobe entnommen, die mindestens ausreicht, um vier parallele Untersuchungen zu gewährleisten. Diese Teilprobe wird in Anlehnung an DIN EN 13040 (Ausgabe Januar 2008), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte, bei 105 °C bis zur Gewichtskonstanz getrocknet. Für die Bestimmung des Glühverlustes werden feste Bioabfälle gemäß DIN EN 13040 (Ausgabe Januar 2008), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte, auf eine Korngröße &lt; 2 Millimeter zerkleinert. Für die Bestimmung der Schwermetallgehalte werden feste Bioabfälle gemäß DIN EN 13650 (Ausgabe Januar 2002), Bodenverbesserungsmittel und Kultursubstrate – Extraktion von in Königswasser löslichen Elementen, auf eine Korngröße &lt; 0,5 Millimeter zerkleinert.
 
 Für die Untersuchungsparameter, die aus der Frischmasse bestimmt werden, wird ebenfalls eine Teilprobe entnommen, die mindestens ausreicht, um vier parallele Untersuchungen zu gewährleisten. Feste Teilproben werden auf eine Korngröße &lt; 10 Millimeter zerkleinert, homogenisiert und durch ein Sieb mit der Maschenweite 10 Millimeter gesiebt; der Siebdurchgang wird für die Untersuchungen verwendet.
 
@@ -1580,21 +1637,31 @@ Sind bei unbehandelten Bioabfällen einzelne Untersuchungen der in § 4 Absatz 5
 1.3.1  
 Bestimmung des Trockenrückstandes
 
-Die Bestimmung des Trockenrückstandes erfolgt aus der ungesiebten Teilprobe nach DIN EN 13040 (Ausgabe Februar 2007), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte.
+Die Bestimmung des Trockenrückstandes erfolgt aus der ungesiebten Teilprobe nach DIN EN 13040 (Ausgabe Januar 2008), Bodenverbesserungsmittel und Kultursubstrate – Probenherstellung für chemische und physikalische Untersuchungen, Bestimmung des Trockenrückstands, des Feuchtigkeitsgehaltes und der Laborschüttdichte.
 
 Die Ergebnisse sind in Gewichtsprozent anzugeben.
 
 1.3.2  
 Bestimmung des Gehaltes der organischen Substanz (Glühverlust)
 
-Die Bestimmung des Glühverlustes erfolgt aus der Trockenmasse nach DIN EN 13039 (Ausgabe Februar 2000), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung des Gehaltes an organischer Substanz und Asche.
+Die Bestimmung des Glühverlustes erfolgt aus der Trockenmasse nach DIN EN 13039 (Ausgabe Januar 2012), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung des Gehaltes an organischer Substanz und Asche.
 
 Die Ergebnisse sind in Gewichtsprozent anzugeben.
 
 1.3.3  
-Bestimmung des Anteils an Steinen und Fremdstoffen
+Bestimmung des Anteils an Gesamtkunststoffen, Fremdstoffen und Steinen
 
-Die Bestimmung des Anteils an Steinen &gt; 10 Millimeter und Fremdstoffen &gt; 2 Millimeter (Glas, Kunststoffe und Metalle) wird gemäß Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate<span id="FnR.FnA1-f780003_18"></span><a href="#FnA1-f780003_18" class="FnR">1</a></sup> in der Trockenmasse (105 °C) der ungesiebten Teilprobe durchgeführt.
+1.3.3.1  
+Bestimmung des Anteils an Gesamtkunststoffen nach § 2a Absatz 3 Satz 1 und 2 sowie an Fremdstoffen und Steinen nach § 4 Absatz 4 Satz 1 und 2
+
+Die Bestimmung des Anteils an Gesamtkunststoffen &gt; 2 Millimeter (§ 2a Absatz 3 Satz 1 und 2) sowie an Fremdstoffen (insbesondere Glas, Metalle und Kunststoffe) &gt; 1 Millimeter und an Steinen &gt; 10 Millimeter (§ 4 Absatz 4 Satz 1 und 2) wird gemäß Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate<span id="FnR.FnA1-f780003_18"></span><a href="#FnA1-f780003_18" class="FnR">1</a></sup> in der Trockenmasse (105 °C) der ungesiebten Teilprobe durchgeführt.
+
+Die Ergebnisse sind in Gewichtsprozent anzugeben.
+
+1.3.3.2  
+Bestimmung des Anteils an Gesamtkunststoffen nach § 2a Absatz 3 Satz 3 und 4
+
+Die Bestimmung des Anteils an Gesamtkunststoffen &gt; 20 Millimeter wird gemäß Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate<a href="#FnA1-f780003_18" class="FnR">1</a></sup> nach den Vorgaben für die Chargenanalyse durchgeführt.
 
 Die Ergebnisse sind in Gewichtsprozent anzugeben.
 
@@ -1603,9 +1670,9 @@ Bestimmung des pH-Wertes und des Salzgehaltes
 
 Die Bestimmungen erfolgen aus der Frischmasse.
 
-Die Bestimmung des pH-Wertes wird gemäß DIN EN 13037 (Ausgabe Februar 2000), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung des pH-Wertes, durchgeführt.
+Die Bestimmung des pH-Wertes wird gemäß DIN EN 13037 (Ausgabe Januar 2012), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung des pH-Wertes, durchgeführt.
 
-Der Salzgehalt wird gemäß DIN EN 13038 (Ausgabe Februar 2000), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung der elektrischen Leitfähigkeit, bestimmt.
+Für die Bestimmung des Salzgehaltes wird die elektrische Leitfähigkeit gemäß DIN EN 13038 (Ausgabe Januar 2012), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung der elektrischen Leitfähigkeit, ermittelt. Nach Messung der elektrischen Leitfähigkeit wird der Salzgehalt im filtrierten Extrakt als Kaliumchlorid gemäß Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate<a href="#FnA1-f780003_18" class="FnR">1</a></sup> berechnet.
 
 Die Ergebnisse sind in Milligramm je 100 Gramm Frischmasse anzugeben.
 
@@ -1615,26 +1682,25 @@ Bestimmung der Schwermetalle Blei, Cadmium, Chrom, Kupfer, Nickel, Quecksilber u
 Die Bestimmung der Schwermetalle erfolgt aus dem Königswasseraufschluss nach DIN EN 13650 (Ausgabe Januar 2002), Bodenverbesserungsmittel und Kultursubstrate – Extraktion von in Königswasser löslichen Elementen, der Trockenmasse nach einer der folgenden Untersuchungsmethoden:  
   
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 38%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Schwermetall</th><th style="text-align: left;">Untersuchungsmethode(n)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Blei</td><td style="text-align: left;">DIN 38406, Teil 6 (Ausgabe Juli 1998)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 67%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Schwermetall</th><th style="text-align: left;">Untersuchungsmethode(n)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Blei</td><td style="text-align: left;">DIN 38406, Teil 6 (Ausgabe Juli 1998)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr><tr class="even"><td style="text-align: left;">Cadmium</td><td style="text-align: left;">DIN EN ISO 5961 (Ausgabe Mai 1995)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr><tr class="even"><td style="text-align: left;">Cadmium</td><td style="text-align: left;">DIN EN ISO 5961 (Ausgabe Mai 1995)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr><tr class="odd"><td style="text-align: left;">Chrom</td><td style="text-align: left;">DIN EN 1233 (Ausgabe August 1996)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr><tr class="odd"><td style="text-align: left;">Chrom</td><td style="text-align: left;">DIN EN 1233 (Ausgabe August 1996)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: left;">DIN 38406, Teil 7 (Ausgabe September 1991)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: left;">DIN 38406, Teil 7 (Ausgabe September 1991)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr><tr class="odd"><td style="text-align: left;">Nickel</td><td style="text-align: left;">DIN 38406, Teil 11 (Ausgabe September 1991)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr><tr class="odd"><td style="text-align: left;">Nickel</td><td style="text-align: left;">DIN 38406, Teil 11 (Ausgabe September 1991)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr><tr class="even"><td style="text-align: left;">Quecksilber</td><td style="text-align: left;">DIN EN 1483 (Ausgabe Juli 2007)<br />
-DIN EN 12338 (Ausgabe Oktober 1998)</td></tr><tr class="odd"><td style="text-align: left;">Zink</td><td style="text-align: left;">DIN 38406, Teil 8 (Ausgabe Oktober 2004)<br />
-DIN EN ISO 11885 (Ausgabe April 1998)<br />
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr><tr class="even"><td style="text-align: left;">Quecksilber</td><td style="text-align: left;">DIN EN ISO 12846 (Ausgabe August 2012)</td></tr><tr class="odd"><td style="text-align: left;">Zink</td><td style="text-align: left;">DIN 38406, Teil 8 (Ausgabe Oktober 2004)<br />
+DIN EN ISO 11885 (Ausgabe September 2009)<br />
 DIN ISO 11047 (Ausgabe Mai 2003)<br />
-DIN EN ISO 17294-2 (Ausgabe Februar 2005)</td></tr></tbody></table>
+DIN EN ISO 17294-2 (Ausgabe Januar 2017)</td></tr></tbody></table>
 
   
   
@@ -1664,7 +1730,8 @@ Das in Nummer 1.3.3 genannte Methodenbuch zur Analyse organischer Düngemittel, 
 
 # Anhang 4 – (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
 
-(Fundstelle: BGBl. I 2013, 706 — 708)
+(Fundstelle: BGBl. I 2013, 706 — 708;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Der Lieferschein ist vom Bioabfallbehandler oder Gemischhersteller (§ 11 Absatz 2 Satz 2 Nummer 1) bzw. bei unbehandelten Bioabfällen vom Entsorgungsträger, Erzeuger oder Besitzer (§ 10 Absatz 3 Satz 1 Nummer 3 und Satz 2) auszustellen; das Original ist bis zum Bewirtschafter der Aufbringungsfläche (§ 11 Absatz 2 Satz 2 Nummer 2) weiterzugeben. Eine Kopie (Aussteller und Zwischenabnehmer) und das Original (Bewirtschafter der Aufbringungsfläche) des jeweils vollständig ausgefüllten Lieferscheines ist 10 Jahre lang aufzubewahren.   
 
@@ -1675,22 +1742,20 @@ Lieferschein-Nr.:
 
 Lieferschein-Datum:
 
-Chargennummer des  
-Bioabfalls/Gemischs  
+Chargennummer des Bioabfalls/Gemischs  
 (§ 11 Abs. 2 Satz 2 Nr. 3):
 
-Höchstzulässige  
-Aufbringungsmenge  
+Höchstzulässige Aufbringungsmenge  
 (§ 11 Abs. 2 Satz 2 Nr. 8)  
 t TM/ha/3 Jahre:  
- □  20   □  30  
- □ 
+☐ 20 ☐ 30
 
 Abgegebene Menge in t  
-(§ 11 Abs. 2 Satz 2 Nr. 3):  
-  
+(§ 11 Abs. 2 Satz 2 Nr. 3):
 
- 
+t TM/ha/12 Jahre (einmalige Aufbringung):  
+☐ 80  ☐ 120  
+☐
 
 Falls Zwischenabnehmer (§ 11 Abs. 2 Satz 2 Nr. 2)  
 (ggf. weitere Zwischenabnehmer auf zusätzlichem  
@@ -1754,18 +1819,45 @@ mg/kg TM
 pH-Wert  
 Salzgehalt  
 OS als Glühverlust  
-Trockenrückstand  
-Fremdstoffe:  
-– Glas, Kunststoff,  
-Metall &gt; 2 mm  
-– Steine &gt; 10 mm
+Trockenrückstand
 
   
 mg KCl/100 g FM  
-   Gew. % TM  
-   Gew. %  
-   Gew. % TM  
-    Gew. % TM
+Gew. % TM  
+Gew. %  
+  
+
+ 
+
+ 
+
+Fremdstoffe:
+
+ 
+
+ 
+
+ 
+
+– Glas, Metall, plastisch nicht verformbare Kunststoffe &gt; 1 mm
+
+Gew. % TM
+
+ 
+
+ 
+
+– sonstige Kunststoffe &gt; 1 mm
+
+Gew. % TM
+
+ 
+
+ 
+
+– Steine &gt; 10 mm
+
+Gew. % TM
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Begründung (§ 11 Abs. 2 Satz 2 Nr. 6), wenn bei unbehandelten, hygienisierend oder biologisch<br />
 stabilisierend behandelten Bioabfällen einzelne Untersuchungen der Parameter nach § 4 Abs. 5<br />
@@ -1786,7 +1878,7 @@ Analysen-Nr.:
 
 Der Aussteller versichert, dass die Anforderungen  
 a) zur seuchen- und phytohygienischen Unbedenklichkeit nach § 3 Abs. 2 und 3 sowie  
-b) an die Schwermetallgehalte nach § 4 Abs. 3, auch in Verbindung mit § 5 Abs. 2 Satz 2,  
+b) an die Schwermetallgehalte und Fremdstoffanteile nach § 4 Abs. 3 und 4, jeweils auch in Verbindung mit § 5 Abs. 2 Satz 2,  
 eingehalten sind (§ 11 Abs. 2 Satz 2 Nr. 5).
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Bioabfälle/Gemisch für die Aufbringung auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen<br />

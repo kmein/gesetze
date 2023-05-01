@@ -95,18 +95,4 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 Von den Vorschriften dieses Gesetzes kann nicht zuungunsten der Beschäftigten abgewichen werden.
 
-# § 9 – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Abweichend von § 2 Absatz 1 haben Beschäftigte das Recht, in dem Zeitraum vom 29. Oktober 2020 bis einschließlich 30. April 2023 bis zu 20 Arbeitstage der Arbeit fernzubleiben, wenn die akute Pflegesituation auf Grund der COVID-19-Pandemie aufgetreten ist. Der Zusammenhang wird vermutet.
-
-(2) § 2 Absatz 3 Satz 2 ist bis zum Ablauf des 30. April 2023 mit der Maßgabe anzuwenden, dass sich der Anspruch auch nach § 150 Absatz 5d Satz 1 des Elften Buches Sozialgesetzbuch richtet.
-
-(3) Abweichend von § 3 Absatz 3 Satz 1 gilt, dass die Ankündigung in Textform erfolgen muss.
-
-(4) Abweichend von § 3 Absatz 3 Satz 4 muss sich die Familienpflegezeit oder die Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes nicht unmittelbar an die Pflegezeit anschließen, wenn der Arbeitgeber zustimmt, die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht überschritten wird und die Familienpflegezeit oder die Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes spätestens mit Ablauf des 30. April 2023 endet. Die Ankündigung muss abweichend von § 3 Absatz 3 Satz 5 spätestens zehn Tage vor Beginn der Familienpflegezeit erfolgen.
-
-(5) Abweichend von § 3 Absatz 3 Satz 6 muss sich die Pflegezeit nicht unmittelbar an die Familienpflegezeit oder an die Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes anschließen, wenn der Arbeitgeber zustimmt, die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht überschritten wird und die Pflegezeit spätestens mit Ablauf des 30. April 2023 endet; die Inanspruchnahme ist dem Arbeitgeber spätestens zehn Tage vor Beginn der Pflegezeit in Textform anzukündigen.
-
-(6) Abweichend von § 3 Absatz 4 Satz 1 gilt, dass die Vereinbarung in Textform zu treffen ist.
-
-(7) Abweichend von § 4 Absatz 1 Satz 2 und 3 können Beschäftigte mit Zustimmung des Arbeitgebers nach einer beendeten Pflegezeit zur Pflege oder Betreuung desselben pflegebedürftigen Angehörigen Pflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer nach § 4 Absatz 1 Satz 1 in Anspruch nehmen, wenn die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht überschritten wird und die Pflegezeit spätestens mit Ablauf des 30. April 2023 endet.
+# § 9 – (weggefallen)
