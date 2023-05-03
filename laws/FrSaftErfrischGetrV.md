@@ -143,10 +143,6 @@ Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # Anlage 1 – (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
 
 (Fundstelle: BGBl. I 2013, 3891 - 3892;  
