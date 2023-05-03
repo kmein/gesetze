@@ -979,7 +979,7 @@ erwirbt.
 
 6. ein Unternehmen der Medienwirtschaft ist, das zur öffentlichen Meinungsbildung beiträgt und sich durch besondere Aktualität und Breitenwirkung auszeichnet,
 
-7. Dienstleistungen erbringt, die zur Sicherstellung der Störungsfreiheit und Funktionsfähigkeit staatlicher Kommunikationsinfrastrukturen im Sinne des § 2 Absatz 1 Satz 1 und 2 des Gesetzes über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben erforderlich sind,
+7. Dienstleistungen erbringt, die zur Sicherstellung der Störungsfreiheit und Funktionsfähigkeit staatlicher Kommunikationsinfrastrukturen im Sinne des § 2 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 des BDBOS-Gesetzes erforderlich sind,
 
 8. persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der Richtlinie 89/686/EWG des Rates (ABl. L 81 vom 31.3.2016, S. 51), soweit diese dem Schutz vor Risiken der Kategorie III des Anhangs I der Verordnung (EU) 2016/425 dienen, entwickelt oder herstellt, oder Anlagen zur Produktion von Filtervliesen entwickelt oder herstellt, mit denen Filtervliese hergestellt werden können, die als Ausgangswerkstoff für Atemschutzmasken als Persönliche Schutzausrüstung zum Schutz gegen schädliche biologische Agenzien im Sinne der Kategorie III des Anhangs I der Verordnung (EU) 2016/425 oder für medizinische Gesichtsmasken nach DIN EN 14683 „Medizinische Gesichtsmasken – Anforderungen und Prüfverfahren; Deutsche Fassung EN 14683:2019+AC:2019“, Ausgabe Oktober 2019<span id="FnR.f816116_01"></span><a href="#f816116_01" class="FnR">*)</a></sup> , geeignet sind,
 
