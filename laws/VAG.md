@@ -3143,7 +3143,8 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 4. Kredit gewährt wird.
 
-(+++ § 188 Abs. 1 Satz 1: Zur Anwendung vgl. § 33 Abs. 1 +++)
+(+++ § 188 Abs. 1 Satz 1: Zur Anwendung vgl. § 33 Abs. 1 +++)  
+(+++ § 188 Abs. 1 Satz 2: zur erstmaligen Anwendung ab 12.8.2021 vgl. § 358 +++)
 
 # § 189 – Aufsichtsrat
 
@@ -3154,6 +3155,8 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 (3) Für den Aufsichtsrat gelten § 30 Absatz 2 und 3 Satz 1 und 2 erster Halbsatz, § 96 Absatz 4, die §§ 97 bis 100, 101 Absatz 1 und 3, die §§ 102 und 103 Absatz 1 und 3 bis 5 sowie die §§ 104 bis 111, 112 bis 116 des Aktiengesetzes entsprechend. Die dort der Hauptversammlung übertragenen Aufgaben hat hier die oberste Vertretung wahrzunehmen. Das Antragsrecht nach § 98 Absatz 2 Nummer 3 und § 104 Absatz 1 Satz 1 des Aktiengesetzes steht jedem Mitglied der obersten Vertretung zu. Neben § 116 des Aktiengesetzes tritt Absatz 4.
 
 (4) Die Aufsichtsratsmitglieder sind insbesondere zum Ersatz verpflichtet, wenn mit ihrem Wissen und ohne ihr Einschreiten die in § 188 Absatz 2 genannten Handlungen vorgenommen werden.
+
+(+++ § 189 Abs. 3 Satz 1: zur erstmaligen Anwendung ab 12.8.2021 vgl. § 358 +++)
 
 # § 190 – Schadenersatzpflicht
 
