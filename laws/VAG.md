@@ -1051,6 +1051,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgese
 
 (2) Die Absätze 1 und 1a gelten nicht für Versicherungsunternehmen, die auf Grund des § 330 Absatz 1, 3 und 4 des Handelsgesetzbuchs und der auf Grund dieser Ermächtigung erlassenen Rechtsverordnung von der Verpflichtung befreit sind, den Jahresabschluss prüfen zu lassen.
 
+(+++ § 36 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)  
 (+++ § 36 Abs. 2: Zur Anwendung vgl. § 234 Abs. 2 Satz 1 u. § 237 Abs. 1 Satz 2 +++)
 
 # § 37 – Vorlage bei der Aufsichtsbehörde
@@ -3165,6 +3166,8 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 # § 191 – Oberste Vertretung
 
 Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1 Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3 und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
+
+(+++ § 191 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)
 
 # § 192 – Rechte von Minderheiten
 
@@ -5938,6 +5941,8 @@ eine dort genannte Bestätigung nicht richtig abgibt oder
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe in den Fällen des Absatzes 1 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe und in den Fällen des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
+(+++ § 331 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)
+
 # § 332 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -6200,6 +6205,8 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (9) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in Absatz 3 Nummer 3, 3a, 3b, 3c und den Absätzen 4d, 4e, 4f, 4g, 4h, 4i und 4j in Bezug genommen werden. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder für Personenvereinigungen, die über eine Niederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach Absatz 3 Nummer 3, 3a, 3b, 3c und den Absätzen 4d, 4e, 4f, 4g, 4h, 4i und 4j verjährt in drei Jahren.
 
+(+++ § 332 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)
+
 # § 333 – Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt, soweit die Aufsicht über Versicherungsunternehmen der Bundesanstalt zusteht.
@@ -6225,6 +6232,8 @@ Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, so ist die Entsche
 (3a) Die nach § 333 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 332 Absatz 4a oder 4b.
 
 (4) Betrifft eine Mitteilung nach Absatz 1 oder 2 ein Versicherungsunternehmen oder einen Pensionsfonds, über das oder den die Aufsicht nach diesem Gesetz durch eine Landesbehörde ausgeübt wird, leitet die Bundesanstalt die Mitteilung unverzüglich an diese Behörde weiter.
+
+(+++ § 334 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)
 
 # § 335 – Fortsetzung des Geschäftsbetriebs
 
