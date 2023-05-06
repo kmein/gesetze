@@ -1281,4 +1281,4 @@ Der Bundesrat hat zugestimmt.
   
   
 
-<a href="../normengrafiken/bgbl1_2008/j2263_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Anlage</a>
+<a href="../normengrafiken/bgbl1_2008/j2263_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
