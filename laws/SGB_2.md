@@ -635,8 +635,6 @@ Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige Leistungsberecht
 
 (6) Ist Bürgergeld unter Berücksichtigung des Einkommens nur für einen Monat zu erbringen, gilt keine Karenzzeit. Es wird vermutet, dass kein zu berücksichtigendes Vermögen vorhanden ist, wenn die Antragstellerin oder der Antragsteller dies im Antrag erklärt. Absatz 4 Satz 4 gilt entsprechend.
 
-§ 12 Abs. 3 Satz 1 Nr. 4 iVm Satz 2: Mit GG vereinbar gem. BVerfGE v. 28.4.2022 I 1023 - 1 BvL 12/20
-
 # § 12a – Vorrangige Leistungen
 
 Leistungsberechtigte sind verpflichtet, Sozialleistungen anderer Träger in Anspruch zu nehmen und die dafür erforderlichen Anträge zu stellen, sofern dies zur Vermeidung, Beseitigung, Verkürzung oder Verminderung der Hilfebedürftigkeit erforderlich ist. Abweichend von Satz 1 sind Leistungsberechtigte nicht verpflichtet,
