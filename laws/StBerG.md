@@ -37,7 +37,7 @@
 
 # § 3 – Befugnis zu unbeschränkter Hilfeleistung in Steuersachen
 
-¹Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
+Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 
 1. Steuerberater, Steuerbevollmächtigte, Rechtsanwälte, niedergelassene europäische Rechtsanwälte, Wirtschaftsprüfer und vereidigte Buchprüfer,
 
@@ -47,7 +47,7 @@
 
 4. (weggefallen)
 
-²Gesellschaften nach Satz 1 Nummer 2 und 3 handeln durch ihre Gesellschafter und Vertreter, in deren Person die für die Erbringung der geschäftsmäßigen Hilfeleistung in Steuersachen gesetzlich vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
+Gesellschaften nach Satz 1 Nummer 2 und 3 handeln durch ihre Gesellschafter und Vertreter, in deren Person die für die Erbringung der geschäftsmäßigen Hilfeleistung in Steuersachen gesetzlich vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
 
 # § 3a – Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
 
