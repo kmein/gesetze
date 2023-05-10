@@ -1070,7 +1070,7 @@ Unter den Voraussetzungen des Satzes 1 erheben die zuständigen Behörden von de
 
 (1) Der Genehmigung bedürfen
 
-1. die Errichtung und der Betrieb von Lagern, in denen explosionsgefährliche Stoffe zu gewerblichen Zwecken im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes oder bei der Beschäftigung von Arbeitnehmern aufbewahrt werden sollen,
+1. die Errichtung und der Betrieb von Lagern, in denen explosionsgefährliche Stoffe zu gewerblichen Zwecken, im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes oder bei der Beschäftigung von Arbeitnehmern aufbewahrt werden sollen,
 
 2. die wesentliche Änderung der Beschaffenheit oder des Betriebes solcher Lager.
 
@@ -1089,6 +1089,8 @@ Die Genehmigung schließt andere das Lager betreffende behördliche Entscheidung
 (5) Die Zulassung der Bauart nach Absatz 4 ist zu versagen, wenn die Bauteile oder Systeme den technischen Anforderungen nicht entsprechen. Für die Erteilung der Zulassung gelten Absatz 3 und § 5 Abs. 1 Satz 2 entsprechend.
 
 (6) Als wesentlich im Sinne des Absatzes 1 Nr. 2 ist eine Änderung anzusehen, die besorgen lässt, dass zusätzliche oder andere Gefahren für Leben, Gesundheit oder Sachgüter Beschäftigter oder Dritter herbeigeführt werden. Eine Änderung ist nicht als wesentlich anzusehen, wenn Teile der Anlage durch der Bauart nach gleiche oder ähnliche, jedoch sicherheitstechnisch mindestens gleichwertige Teile ausgewechselt werden oder die Anlage im Rahmen der erteilten Genehmigung instand gesetzt wird.
+
+§ 17 Abs. 1 Satz 1 Nr. 1 Kursivdruck zweites Komma: Der Wortlaut der Neufassung gem. Bek. v. 10.9.2002 I 3518 weicht von letzter konstitutiver Fassung ab
 
 # § 18 – Ermächtigungen
 
