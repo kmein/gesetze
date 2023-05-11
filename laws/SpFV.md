@@ -215,8 +215,6 @@ Der Bewerber muss den Antrag unterschreiben, sofern dieser nicht elektronisch ü
 
 (6) Ist die Zulassung zur Prüfung zu versagen, hat der Leiter des Prüfungsausschusses dem Bewerber einen schriftlichen Bescheid mit Gründen, Kostenentscheidung und Rechtsbehelfsbelehrung zuzustellen.
 
-(+++ § 7 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++)
-
 # § 8 – Prüfung
 
 (1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung nachzuweisen, deren Inhalt sich nach Antriebsart und Geltungsbereich des zu erwerbenden Sportbootführerscheins bestimmt. Die Prüfung besteht in der Regel aus einem theoretischen Teil und einem praktischen Teil. Die Teilprüfungen können zu verschiedenen Zeitpunkten und bei unterschiedlichen Prüfungsausschüssen, auch des jeweils anderen Verbands, absolviert werden. Die Einzelheiten der theoretischen Prüfung ergeben sich aus der Anlage 3, die Einzelheiten der praktischen Prüfung ergeben sich aus der Anlage 4.
@@ -619,8 +617,6 @@ Mindestkriterien in Bezug auf das Hörvermögen
 Das Hörvermögen ist als ausreichend anzusehen, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Meter Entfernung verstanden wird.
 
 Beschränkung 02<a href="#FnA1-F824315_01" class="FnR">***</a></sup> kann angezeigt sein.
-
-Anlage 2 Einführung Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Seevermögen" durch das Wort "Sehvermögen" ersetzt
 
 # Anhang 1 zu Anlage 2 – (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportbootschifffahrt
 

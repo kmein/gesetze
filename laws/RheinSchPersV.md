@@ -872,6 +872,8 @@ b) eine praktische Ausbildung, die die Erlangung der im ES-QIN (Teil II, Kapitel
 Der theoretische Teil der Prüfung ist bestanden, wenn der Kandidat den Erwerb der bei der Ausbildung nach Buchstabe a vermittelten Kenntnisse unter Beweis gestellt hat.   
 Der praktische Teil der Prüfung ist bestanden, wenn der Kandidat die praktische Prüfung gemäß ES-QIN (Teil II, Kapitel 2) erfolgreich abgelegt hat. Der praktische Teil der Prüfung wird in einem Schiff oder einer Landanlage abgenommen, das bzw. die dem ES-QIN (Teil II, Kapitel 2) aufgeführten technischen Anforderungen entspricht.
 
+(+++ Zur Geltung vgl. § 16.04 Nr. 2 +++)
+
 # § 16.04 – Auffrischungslehrgang für Sachkundige
 
 1. Vor Ablauf von fünf Jahren nach der erfolgreichen Teilnahme an dem Basislehrgang muss der Inhaber eines Befähigungszeugnisses als Sachkundiger für die Fahrgastschifffahrt an einem von der zuständigen Behörde anerkannten Auffrischungslehrgang teilnehmen.
