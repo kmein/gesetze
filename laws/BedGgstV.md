@@ -87,6 +87,8 @@ c) bei denen mindestens 50 Prozent der Partikel bezogen auf die Anzahlgrößenve
 
 Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas, die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als ein Nanometer.
 
+(+++ § 2 Satzt 1 Nr. 7 bis 13, Satz 2 u. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
+
 # § 3 – Verbotene Stoffe
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht verwendet werden.
@@ -147,6 +149,9 @@ Absatz 5 Satz 5 gilt entsprechend.
 
 (11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden, die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8 aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3 Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom verantwortlichen Unternehmer gemäß international anerkannten wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
+(+++ § 4 Abs. 5 bis 11: Zur Anwendung vgl. § 16 Abs. 16 +++)  
+(+++ § 4 Abs. 9: Zur letztmaligen Anwendung vgl. § 16 Abs. 18 +++)
+
 # § 5 – Verbotene Verfahren
 
 Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dürfen die dort genannten Verfahren nicht angewendet werden.
@@ -194,6 +199,8 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 (6) In Anlage 14 Tabelle 1 aufgeführte Stoffe, für die in Anlage 14 Tabelle 1 oder 3 kein spezifischer Migrationsgrenzwert, kein Gruppengrenzwert oder keine anderen Beschränkungen festgelegt sind, dürfen aus bedruckten Lebensmittelbedarfsgegenständen auf Lebensmittel jeweils nur bis zu einer Höchstmenge von 60 Milligramm pro Kilogramm des Lebensmittels übergehen.
 
 (7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als solche in Form von Nanomaterialien gilt als nicht nachweisbar ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+
+(+++ § 8 Abs. 5 bis 7: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
 # § 9 – Warnhinweise
 
@@ -336,6 +343,8 @@ c) entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden nich
 a) entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1 und 2 Materialien und Gegenstände in Verkehr bringt oder
 
 b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
+
+(+++ § 12 Abs. 2 Nr. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
 # § 13 – Unberührtheitsklausel
 
@@ -2578,3 +2587,5 @@ Spalte 2 (Substanz-Nr.): Substanz-Nummer gemäß Tabelle 1 Spalte 4
 Spalte 3 (SMG (T) \[mg/kg\]): Spezifischer Migrationsgrenzwert ausgedrückt in Milligramm des Gesamtgehalts der angegebenen Substanz(en) der Stoffgruppe pro Kilogramm Lebensmittel. Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
 Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde gelegt wird.
+
+(+++ Anlage 14 Tabelle 2: Zur letztmaligen Anwendung vgl. § 16 Abs. 18 +++)
