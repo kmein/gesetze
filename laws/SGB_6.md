@@ -563,8 +563,6 @@ sowie nach den Vorschriften des Fünften Kapitels
 
 3. andere Rente wegen Alters.
 
-(+++ § 34: Zur Anwendung v. 1.1.2020 bis 31.12.2020 vgl. § 302 Abs. 8 +++)
-
 # § 35 – Regelaltersrente
 
 Versicherte haben Anspruch auf Regelaltersrente, wenn sie
