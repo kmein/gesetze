@@ -507,19 +507,19 @@ Anlage 1
 
 (zu § 17 Absatz 6)
 
-Antrag auf Eintragung in das Wählerverzeichnis von wahlberechtigten Deutschen, die in die Bundesrepublik Deutschland zurückkehren – Erst- und Zweitausfertigung – und Merkblatt zum Antrag
+Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrende aus dem Ausland
 
 Anlage 2
 
 (zu § 17 Absatz 5)
 
-Antrag auf Eintragung in das Wählerverzeichnis von wahlberechtigten Deutschen, die im Ausland leben – Erst- und Zweitausfertigung – und Merkblatt zum Antrag
+Antrag auf Eintragung in das Wählerverzeichnis und Wahlscheinantrag für im Ausland lebende Deutsche
 
 Anlage 2A
 
 (zu § 17a Absatz 2)
 
-Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger und Merkblatt zum Antrag
+Antrag für Unionsbürgerinnen und Unionsbürger auf Eintragung in das Wählerverzeichnis zur Europawahl
 
 Anlage 2B
 
@@ -531,7 +531,7 @@ Anlage 2C
 
 (zu § 17b Abs. 2)
 
-Antrag für Unionsbürger, nicht im Wählerverzeichnis geführt zu werden
+Antrag für Unionsbürgerinnen und Unionsbürger, nicht im Wählerverzeichnis geführt zu werden
 
 Anlage 3
 
@@ -826,7 +826,7 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
 
 2. Mitglieder des Europäischen Parlaments, des Deutschen Bundestages oder eines Landtages sowie eines Parlaments in den übrigen Mitgliedstaaten der Europäischen Union, das dem Deutschen Bundestag oder einem Landtag vergleichbar ist,
 
-3. Wahlberechtigte, die am Wahltage das 65. Lebensjahr vollendet haben,
+3. Wahlberechtigte, die am Wahltage das 67. Lebensjahr vollendet haben,
 
 4. Wahlberechtigte, die glaubhaft machen, dass ihnen die Fürsorge für ihre Familie die Ausübung des Amtes in besonderer Weise erschwert,
 
@@ -834,7 +834,7 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
 
 # § 10 – Auslagenersatz für Inhaber von Wahlämtern, Erfrischungsgeld
 
-(1) Wahlleiter, Beisitzer der Wahlausschüsse und Mitglieder der Wahlvorstände erhalten, wenn sie außerhalb ihres Wahlbezirks tätig werden, Ersatz ihrer notwendigen Fahrkosten in entsprechender Anwendung der §§ 4 und 5 Abs. 1 des Bundesreisekostengesetzes; wenn sie außerhalb ihres Wohnortes tätig werden, erhalten sie außerdem Tage- und Übernachtungsgelder nach dem Bundesreisekostengesetz.
+(1) Wahlleiter, Beisitzer der Wahlausschüsse und Mitglieder der Wahlvorstände erhalten, wenn sie außerhalb ihres Wahlbezirks tätig werden, Ersatz ihrer notwendigen Fahrkosten in entsprechender Anwendung der §§ 4 und 5 Abs. 1 des Bundesreisekostengesetzes; wenn sie außerhalb ihres Wohnortes tätig werden, erhalten sie außerdem Tage- und Übernachtungsgelder nach dem Bundesreisekostengesetz. Die Stadtstaaten Berlin, Bremen und Hamburg können abweichende Regelungen für eine pauschalisierte Auslagenerstattung treffen.
 
 (2) Den Mitgliedern der Wahlausschüsse kann für die Teilnahme an einer nach § 5 einberufenen Sitzung und den Mitgliedern der Wahlvorstände für den Wahltag ein Erfrischungsgeld von je 35 Euro für den Vorsitzenden und je 25 Euro für die übrigen Mitglieder gewährt werden. Es ist auf ein Tagegeld nach Absatz 1 anzurechnen.
 
@@ -954,13 +954,13 @@ d) die sich in einer Justizvollzugsanstalt oder entsprechenden Einrichtung befin
 
 (4) (weggefallen)
 
-(5) In den Fällen des § 15 Abs. 2 Nr. 1 Buchstabe c und Nr. 2 hat der Wahlberechtigte in seinem Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung zu erbringen und zu erklären, dass er in keinem anderen Mitgliedstaat der Europäischen Union an der Wahl teilnimmt und in keiner anderen Gemeinde im Wahlgebiet einen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat. Vordrucke und Merkblätter für die Antragstellung können bei den diplomatischen und berufskonsularischen Vertretungen der Bundesrepublik Deutschland im Ausland, beim Bundeswahlleiter sowie bei den Kreis- und Stadtwahlleitern angefordert werden. Bestehen Zweifel an Angaben des Antragstellers, hat die Gemeindebehörde den Sachverhalt unverzüglich aufzuklären. Der Bundeswahlleiter ist von der Eintragung in das Wählerverzeichnis unverzüglich durch Übersendung der Zweitausfertigung des Antrages nach Anlage 2 zu unterrichten. Erhält der Bundeswahlleiter Mitteilungen verschiedener Gemeindebehörden über die Eintragung desselben Antragstellers in das Wählerverzeichnis, so hat er diejenige Gemeindebehörde, deren Unterrichtung über die Eintragung in das Wählerverzeichnis nach der ersten Mitteilung eingeht, unverzüglich von der Eintragung des Wahlberechtigten in das Wählerverzeichnis der zuerst mitteilenden Gemeinde zu benachrichtigen. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen und ihn davon zu unterrichten.
+(5) In den Fällen des § 15 Abs. 2 Nr. 1 Buchstabe c und Nr. 2 hat der Wahlberechtigte in seinem Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung zu erbringen und zu erklären, dass er in keinem anderen Mitgliedstaat der Europäischen Union an der Wahl teilnimmt und in keiner anderen Gemeinde im Wahlgebiet einen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat. Vordrucke und Merkblätter für die Antragstellung können bei den diplomatischen und berufskonsularischen Vertretungen der Bundesrepublik Deutschland im Ausland, beim Bundeswahlleiter sowie bei den Kreis- und Stadtwahlleitern angefordert werden. Bestehen Zweifel an Angaben des Antragstellers, hat die Gemeindebehörde den Sachverhalt unverzüglich aufzuklären. Der Bundeswahlleiter ist von der Eintragung in das Wählerverzeichnis unverzüglich durch Übermittlung einer elektronischen Datei in einem durch den Bundeswahlleiter zur Verfügung gestellten, den datenschutzrechtlichen sowie den Anforderungen der Datensicherheit genügenden Dateiformat mit den darin abgefragten Informationen der Zweitausfertigung des Antrages nach Anlage 2 über den Antragsteller oder, sofern dies nicht möglich ist, durch Übersendung der Zweitausfertigung des Antrages nach Anlage 2 oder einer Kopie der Erstausfertigung des Antrages nach Anlage 2, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Erhält der Bundeswahlleiter Mitteilungen verschiedener Gemeindebehörden über die Eintragung desselben Antragstellers in das Wählerverzeichnis, so hat er diejenige Gemeindebehörde, deren Unterrichtung über die Eintragung in das Wählerverzeichnis nach der ersten Mitteilung eingeht, unverzüglich von der Eintragung des Wahlberechtigten in das Wählerverzeichnis der zuerst mitteilenden Gemeinde zu benachrichtigen. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen und ihn davon zu unterrichten.
 
 (5a) Erhält der Bundeswahlleiter Mitteilungen anderer Mitgliedstaaten der Europäischen Union über die Eintragung eines Deutschen in ein dortiges Wählerverzeichnis, so hat er die Gemeinde, in der der Wahlberechtigte nach seiner Erklärung vor seinem Fortzug zuletzt eine Wohnung innehatte oder sich sonst gewöhnlich aufgehalten hat, unverzüglich hiervon zu unterrichten. Die Gemeindebehörde hat einen Antrag des betreffenden Deutschen auf Eintragung in das Wählerverzeichnis abzulehnen oder ihn aus dem Wählerverzeichnis zu streichen und ihn davon zu unterrichten. Der Bundeswahlleiter vergleicht die nach Satz 1 bei ihm eingehenden Mitteilungen mit den nach Absatz 5 Satz 4 übersandten Zweitausfertigungen sowie den Unterrichtungen nach Absatz 6 Satz 3 und weist die Gemeindebehörde, in deren Wählerverzeichnis der Wahlberechtigte eingetragen ist, auf die Mitteilungen anderer Mitgliedstaaten der Europäischen Union hin; die Gemeindebehörde hat entsprechend Satz 2 zu verfahren.
 
 (5b) Erhält der Bundeswahlleiter Anfragen anderer Mitgliedstaaten der Europäischen Union mit der Bitte, die Angaben eines Deutschen in seiner förmlichen Erklärung bei Stellung des Antrages auf Eintragung in das dortige Wählerverzeichnis zu überprüfen, so hat er diese unverzüglich an die Gemeinde weiterzuleiten, in der der Wahlberechtigte nach seiner Erklärung vor seinem Fortzug zuletzt eine Wohnung innehatte oder sich sonst gewöhnlich aufgehalten hat. Sofern der Wahlberechtigte im Wahlgebiet noch nie eine Wohnung innehatte oder sich sonst gewöhnlich aufgehalten hat, hat der Bundeswahlleiter die Anfragen an das Bezirksamt Mitte von Berlin weiterzuleiten. Die Gemeindebehörde hat die Angaben unverzüglich zu überprüfen und das Ergebnis dem Bundeswahlleiter mitzuteilen, der dieses an die anfragende Stelle des anderen Mitgliedstaates weiterleitet.
 
-(6) Kehrt ein nach § 6 Absatz 1 Satz 1 Nummer 2 Buchstabe b des Europawahlgesetzes oder nach § 6 Absatz 2 des Europawahlgesetzes in Verbindung mit § 12 Absatz 2 Satz 1 des Bundeswahlgesetzes Wahlberechtigter in das Wahlgebiet zurück und meldet er sich dort nach dem Stichtag nach § 15 Absatz 1, aber vor Beginn der Einsichtsfrist für das Wählerverzeichnis nach § 4 des Europawahlgesetzes in Verbindung mit § 17 Absatz 1 Satz 2 des Bundeswahlgesetzes für eine Wohnung an, so wird er in das Wählerverzeichnis der Gemeinde des Zuzugsortes nur auf Antrag nach Anlage 1 eingetragen, mit dem er der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung erbringt und erklärt, dass er noch keinen anderen Antrag auf Eintragung in das Wählerverzeichnis im Wahlgebiet oder in einem anderen Mitgliedstaat der Europäischen Union gestellt hat. Der Wahlberechtigte ist bei der Anmeldung darüber zu belehren. Die Gemeindebehörde hat den Bundeswahlleiter unverzüglich von der Eintragung eines solchen Wahlberechtigten in das Wählerverzeichnis durch Übersendung der Zweitausfertigung des Antrages nach Anlage 1, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Absatz 5 Satz 5 und 6 gilt entsprechend.
+(6) Kehrt ein nach § 6 Absatz 1 Satz 1 Nummer 2 Buchstabe b des Europawahlgesetzes oder nach § 6 Absatz 2 des Europawahlgesetzes in Verbindung mit § 12 Absatz 2 Satz 1 des Bundeswahlgesetzes Wahlberechtigter in das Wahlgebiet zurück und meldet er sich dort nach dem Stichtag nach § 15 Absatz 1, aber vor Beginn der Einsichtsfrist für das Wählerverzeichnis nach § 4 des Europawahlgesetzes in Verbindung mit § 17 Absatz 1 Satz 2 des Bundeswahlgesetzes für eine Wohnung an, so wird er in das Wählerverzeichnis der Gemeinde des Zuzugsortes nur auf Antrag nach Anlage 1 eingetragen, mit dem er der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung erbringt und erklärt, dass er noch keinen anderen Antrag auf Eintragung in das Wählerverzeichnis im Wahlgebiet oder in einem anderen Mitgliedstaat der Europäischen Union gestellt hat. Der Wahlberechtigte ist bei der Anmeldung darüber zu belehren. Die Gemeindebehörde hat den Bundeswahlleiter unverzüglich von der Eintragung eines solchen Wahlberechtigten in das Wählerverzeichnis durch Übermittlung einer elektronischen Datei in einem durch den Bundeswahlleiter zur Verfügung gestellten, den datenschutzrechtlichen sowie den Anforderungen der Datensicherheit genügenden Dateiformat mit den darin abgefragten Informationen der Zweitausfertigung des Antrages nach Anlage 1 über den Antragsteller oder, sofern dies nicht möglich ist, durch Übersendung der Zweitausfertigung des Antrages nach Anlage 1 oder einer Kopie der Erstausfertigung des Antrages nach Anlage 1, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Absatz 5 Satz 5 und 6 gilt entsprechend.
 
 # § 17a – Eintragung der wahlberechtigten Unionsbürger, Zuständigkeiten und Verfahren für die Eintragung in das Wählerverzeichnis
 
@@ -1092,13 +1092,13 @@ Die Bekanntmachung ist nach Anlage 6A von dem Bundeswahlleiter unbeschadet der R
 
 (1) Wer das Wählerverzeichnis für unrichtig oder unvollständig hält, kann innerhalb der Einsichtsfrist Einspruch einlegen.
 
-(2) Der Einspruch ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen. Soweit die behaupteten Tatsachen nicht offenkundig sind, hat der Einspruchsführer die erforderlichen Beweismittel beizubringen.
+(2) Der Einspruch ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen. Ein Einspruchsführer mit Behinderungen kann sich hierbei der Hilfe einer anderen Person bedienen; § 50 gilt entsprechend. Soweit die behaupteten Tatsachen nicht offenkundig sind, hat der Einspruchsführer die erforderlichen Beweismittel beizubringen.
 
 (3) Will die Gemeindebehörde einem Einspruch gegen die Eintragung eines anderen stattgeben, so hat sie diesem vor der Entscheidung Gelegenheit zur Äußerung zu geben.
 
 (4) Die Gemeindebehörde hat ihre Entscheidung dem Einspruchsführer und dem Betroffenen spätestens am 10. Tage vor der Wahl zuzustellen und auf den zulässigen Rechtsbehelf hinzuweisen. Einem auf Eintragung gerichteten Einspruch gibt die Gemeindebehörde in der Weise statt, dass sie dem Wahlberechtigten nach Berichtigung des Wählerverzeichnisses die Wahlbenachrichtigung zugehen läßt. In den Fällen des § 17 Absatz 5 und 6 sowie des § 17a Absatz 5 Satz 3 unterrichtet sie unverzüglich den Bundeswahlleiter von der Eintragung oder Streichung. In den Fällen des § 17a Absatz 5 Satz 3 informiert der Bundeswahlleiter sodann die vom Herkunfts-Mitgliedstaat benannte Stelle.
 
-(5) Gegen die Entscheidung der Gemeindebehörde kann binnen zwei Tagen nach Zustellung Beschwerde an den Kreiswahlleiter, in kreisfreien Städten an den Stadtwahlleiter eingelegt werden. Die Beschwerde ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen. Die Gemeindebehörde legt die Beschwerde mit den Vorgängen unverzüglich dem Kreis- oder Stadtwahlleiter vor. Der Kreis- oder Stadtwahlleiter hat über die Beschwerde spätestens am 4. Tage vor der Wahl zu entscheiden. Absatz 3 gilt entsprechend. Die Beschwerdeentscheidung ist den Beteiligten und der Gemeindebehörde bekanntzugeben. Sie ist vorbehaltlich anderer Entscheidung im Wahlprüfungsverfahren endgültig. Absatz 4 Satz 3 und 4 gilt entsprechend.
+(5) Gegen die Entscheidung der Gemeindebehörde kann binnen zwei Tagen nach Zustellung Beschwerde an den Kreiswahlleiter, in kreisfreien Städten an den Stadtwahlleiter eingelegt werden. Die Beschwerde ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen; Absatz 2 Satz 2 gilt entsprechend. Die Gemeindebehörde legt die Beschwerde mit den Vorgängen unverzüglich dem Kreis- oder Stadtwahlleiter vor. Der Kreis- oder Stadtwahlleiter hat über die Beschwerde spätestens am 4. Tage vor der Wahl zu entscheiden. Absatz 3 gilt entsprechend. Die Beschwerdeentscheidung ist den Beteiligten und der Gemeindebehörde bekanntzugeben. Sie ist vorbehaltlich anderer Entscheidung im Wahlprüfungsverfahren endgültig. Absatz 4 Satz 3 und 4 gilt entsprechend.
 
 # § 22 – Berichtigung des Wählerverzeichnisses
 
@@ -1134,7 +1134,7 @@ Der Wahlschein wird nach dem Muster der Anlage 8 von der Gemeindebehörde erteil
 
 # § 26 – Wahlscheinanträge
 
-(1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch durch Telegramm, Fernschreiben, Telefax, E-Mail oder durch sonstige dokumentierbare elektronische Übermittlung als gewahrt. Eine telefonische Antragstellung ist unzulässig. Ein Wahlberechtigter mit Behinderungen kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen; § 50 gilt entsprechend.
+(1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch durch Telefax, E-Mail oder durch sonstige dokumentierbare elektronische Übermittlung als gewahrt. Eine telefonische Antragstellung ist unzulässig. Ein Wahlberechtigter mit Behinderungen kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen; § 50 gilt entsprechend.
 
 (2) Der Antragsteller muss den Familiennamen, die Vornamen, das Geburtsdatum und seine Wohnanschrift (Straße, Hausnummer, Postleitzahl, Ort) angeben.
 
@@ -1220,7 +1220,7 @@ Wird die Erteilung eines Wahlscheines versagt, so kann dagegen Einspruch eingele
 
 3. in erkennbarer Reihenfolge die Bewerber und, sofern Ersatzbewerber benannt sind, auch diese mit dem Familiennamen, den Vornamen, dem Beruf oder Stand, dem Geburtsdatum, dem Geburtsort und der Anschrift (Hauptwohnung).
 
-Sie sollen ferner Namen und Anschrift der Vertrauensperson und der stellvertretenden Vertrauensperson enthalten.
+Sie sollen ferner Namen, Anschrift, Telefonnummer und E-Mail-Adresse der Vertrauensperson und der stellvertretenden Vertrauensperson enthalten.
 
 (2) Die Liste für ein Land ist von mindestens drei Mitgliedern des Vorstandes des Landesverbandes des Wahlvorschlagsberechtigten, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich zu unterzeichnen. Hat ein Wahlvorschlagsberechtigter in dem Land keinen Landesverband oder keine einheitliche Landesorganisation, so ist der Wahlvorschlag von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, dem Satz 1 entsprechend zu unterzeichnen. Die Unterschriften des einreichenden Vorstandes genügen, wenn er innerhalb der Einreichungsfrist eine schriftliche, dem Satz 1 entsprechende Vollmacht der anderen beteiligten Vorstände beibringt. Eine gemeinsame Liste für alle Länder ist von dem Vorstand des Bundesverbandes des Wahlvorschlagsberechtigten entsprechend Satz 1 zu unterzeichnen. Hat ein Wahlvorschlagsberechtigter im Wahlgebiet keinen Bundesverband oder keine einheitliche Bundesorganisation, ist der Wahlvorschlag von allen Vorständen der nächstniedrigen Gebietsverbände im Wahlgebiet, oder wenn bei einer sonstigen politischen Vereinigung weder ein Bundesverband noch ein Gebietsverband im Wahlgebiet vorhanden sind, von ihrem obersten Vorstand in einem der übrigen Mitgliedstaaten der Europäischen Union entsprechend den Sätzen 1 und 3 zu unterzeichnen.
 
@@ -1290,7 +1290,7 @@ Sie sollen ferner Namen und Anschrift der Vertrauensperson und der stellvertrete
 
 # § 35 – Beschwerde gegen Entscheidungen des Bundeswahlausschusses
 
-(1) Die Beschwerde gegen eine Entscheidung des Bundeswahlausschusses nach § 14 Absatz 4 des Europawahlgesetzes ist schriftlich oder zur Niederschrift beim Bundeswahlausschuss einzulegen. Der Bundeswahlleiter hat seine Beschwerde schriftlich beim Bundeswahlausschuss einzulegen. Die Schriftform gilt auch durch Telegramm, Fernschreiben oder Telefax als gewahrt.
+(1) Die Beschwerde gegen eine Entscheidung des Bundeswahlausschusses nach § 14 Absatz 4 des Europawahlgesetzes ist schriftlich oder zur Niederschrift beim Bundeswahlausschuss einzulegen. Der Bundeswahlleiter hat seine Beschwerde schriftlich beim Bundeswahlausschuss einzulegen. Die Schriftform gilt auch durch Telefax als gewahrt.
 
 (2) Der Bundeswahlausschuss lädt die Beschwerdeführer und die Vertrauenspersonen der betroffenen Wahlvorschläge zu der Sitzung, in der über die Beschwerde entschieden wird. Den Vertrauenspersonen ist Gelegenheit zur Äußerung zu geben.
 
@@ -1306,19 +1306,19 @@ Sie sollen ferner Namen und Anschrift der Vertrauensperson und der stellvertrete
 
 # § 37 – Bekanntmachung der Wahlvorschläge
 
-(1) Der Bundeswahlleiter macht die vom Bundeswahlausschuss zugelassenen Wahlvorschläge öffentlich bekannt und weist darauf hin, welche Listenverbindungen bestehen und welche Wahlvorschläge von einer Listenverbindung ausgeschlossen sind. Die Bekanntmachung enthält für jeden Wahlvorschlag die in § 32 Abs. 1 Satz 2 bezeichneten Angaben, wobei statt des Geburtsdatums nur das Geburtsjahr der Bewerber und Ersatzbewerber anzugeben ist, sowie den Hinweis, für welches Land der Wahlvorschlag oder ob er als gemeinsame Liste für alle Länder aufgestellt ist. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Bundeswahlleiter nach, dass für ihn im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist an Stelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Handelt es sich um einen Bewerber in einer Liste für ein Land, unterrichtet der Bundeswahlleiter unverzüglich den zuständigen Landeswahlleiter über die Erreichbarkeitsanschrift.
+(1) Der Bundeswahlleiter macht die vom Bundeswahlausschuss zugelassenen Wahlvorschläge öffentlich bekannt und weist darauf hin, welche Listenverbindungen bestehen und welche Wahlvorschläge von einer Listenverbindung ausgeschlossen sind. Die Bekanntmachung enthält für jeden Wahlvorschlag die in § 32 Abs. 1 Satz 2 bezeichneten Angaben, wobei statt des Geburtsdatums nur das Geburtsjahr und statt der Anschrift nur der Wohnort (Ort der Hauptwohnung) der Bewerber und Ersatzbewerber anzugeben ist, sowie den Hinweis, für welches Land der Wahlvorschlag oder ob er als gemeinsame Liste für alle Länder aufgestellt ist. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Bundeswahlleiter nach, dass für ihn im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist an Stelle seines Wohnortes der Ort seiner Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Handelt es sich um einen Bewerber in einer Liste für ein Land, unterrichtet der Bundeswahlleiter unverzüglich den zuständigen Landeswahlleiter über die Erreichbarkeitsanschrift.
 
 (2) Der Landeswahlleiter ordnet die durch den Bundeswahlausschuss für das Land zugelassenen Wahlvorschläge in der durch § 15 Abs. 3 des Europawahlgesetzes bestimmten Reihenfolge unter fortlaufenden Nummern. Er macht die Reihenfolge der Wahlvorschläge öffentlich bekannt und teilt die Reihenfolge dem Bundeswahlleiter sofort mit.
 
 # § 38 – Stimmzettel, Umschläge für die Briefwahl
 
-(1) Der Stimmzettel ist mindestens 21 x 29,7 cm (DIN A4) groß und aus weißem oder weißlichem Papier. Das Papier muss so beschaffen sein, dass nach Kennzeichnung und Faltung durch den Wähler andere Personen nicht erkennen können, wie er gewählt hat. Der Stimmzettel enthält in jedem Land die für dieses Land zugelassenen Wahlvorschläge mit den nach § 15 Absatz 2 des Europawahlgesetzes vorgeschriebenen Angaben in der Reihenfolge und unter der Nummer ihrer Bekanntmachung durch den Landeswahlleiter und rechts von der Bezeichnung des Wahlvorschlages jeweils einen Kreis für die Kennzeichnung. Zusätzlich kann ein eingetragener Ordens- oder Künstlername (§ 5 Absatz 2 Nummer 12 des Personalausweisgesetzes, § 4 Absatz 1 Nummer 4 des Passgesetzes) angegeben werden. Jeder Wahlvorschlag erhält ein abgegrenztes Feld. Die Wahlvorschläge sind auf der Vorderseite des Stimmzettels einspaltig in schwarzem Druck untereinander aufzuführen. Ein Muster für den Stimmzettel enthält Anlage 22. Die in dieser Anlage aufgeführten Länderabkürzungen sind bei Bewerbern für gemeinsame Listen für alle Länder zu verwenden. Die Stimmzettel müssen im Wahlbezirk von gleicher Farbe und Beschaffenheit sein.
+(1) Der Stimmzettel ist mindestens 21 x 29,7 cm (DIN A4) groß und aus weißem oder weißlichem Papier. Das Papier muss so beschaffen sein, dass nach Kennzeichnung und Faltung durch den Wähler andere Personen nicht erkennen können, wie er gewählt hat. Der Stimmzettel enthält in jedem Land die für dieses Land zugelassenen Wahlvorschläge mit den nach § 15 Absatz 2 des Europawahlgesetzes vorgeschriebenen Angaben in der Reihenfolge und unter der Nummer ihrer Bekanntmachung durch den Landeswahlleiter und rechts von der Bezeichnung des Wahlvorschlages jeweils einen Kreis für die Kennzeichnung. Zusätzlich können ein eingetragener Doktorgrad (§ 5 Absatz 2 Nummer 3 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 3 des Passgesetzes) und ein eingetragener Ordens- oder Künstlername (§ 5 Absatz 2 Nummer 12 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 4 des Passgesetzes) angegeben werden. Jeder Wahlvorschlag erhält ein abgegrenztes Feld. Die Wahlvorschläge sind auf der Vorderseite des Stimmzettels einspaltig in schwarzem Druck untereinander aufzuführen. Ein Muster für den Stimmzettel enthält Anlage 22. Die in dieser Anlage aufgeführten Länderabkürzungen sind bei Bewerbern für gemeinsame Listen für alle Länder zu verwenden. Die Stimmzettel müssen im Wahlbezirk von gleicher Farbe und Beschaffenheit sein.
 
 (2) Zur Verwendung von Stimmzettelschablonen wird die rechte obere Ecke des Stimmzettels gelocht oder abgeschnitten. Muster der Stimmzettel werden unverzüglich nach ihrer Fertigstellung den Blindenvereinen, die ihre Bereitschaft zur Herstellung von Stimmzettelschablonen erklärt haben, zur Verfügung gestellt.
 
-(3) Die Stimmzettelumschläge für die Briefwahl sollen 11,4 x 16,2 cm (DIN C6) groß und blau und nach dem Muster der Anlage 9 beschriftet sein.
+(3) Die Stimmzettelumschläge für die Briefwahl sollen weiß, blickdicht und nach dem Muster der Anlage 9 beschriftet sein. Bei zeitgleicher Durchführung von Wahlen oder Abstimmungen dürfen die Stimmzettelumschläge der Europawahl nicht für die anderen Wahlen oder Abstimmungen mitbenutzt werden. Die Stimmzettelumschläge zeitgleicher Wahlen oder Abstimmungen sollen sich vom Stimmzettelumschlag der Europawahl farblich unterscheiden.
 
-(4) Die Wahlbriefumschläge sollen etwa 12 x 17,6 cm groß und hellrot und nach dem Muster der Anlage 10 beschriftet sein.
+(4) Die Wahlbriefumschläge sollen hellrot und nach dem Muster der Anlage 10 beschriftet sein. Bei zeitgleicher Durchführung von Wahlen oder Abstimmungen dürfen die Wahlbriefumschläge der Europawahl mitbenutzt werden; § 50 Absatz 2 Satz 2 des Bundeswahlgesetzes gilt entsprechend.
 
 (5) Schriftart, Schriftgröße und Kontrast sollen so gewählt werden, dass die Lesbarkeit erleichtert wird.
 
@@ -1328,7 +1328,7 @@ Sie sollen ferner Namen und Anschrift der Vertrauensperson und der stellvertrete
 
 (1) Die Gemeindebehörde bestimmt für jeden Wahlbezirk einen Wahlraum. Soweit möglich, stellen die Gemeinden Wahlräume in Gemeindegebäuden zur Verfügung. Die Wahlräume sollen nach den örtlichen Verhältnissen so ausgewählt und eingerichtet werden, dass allen Wahlberechtigten, insbesondere Menschen mit Behinderungen und anderen Menschen mit Mobilitätsbeeinträchtigung, die Teilnahme an der Wahl möglichst erleichtert wird. Die Gemeindebehörden teilen frühzeitig und in geeigneter Weise mit, welche Wahlräume barrierefrei sind.
 
-(2) In größeren Wahlbezirken, in denen sich die Wählerverzeichnisse teilen lassen, kann gleichzeitig in verschiedenen Gebäuden oder in verschiedenen Räumen desselben Gebäudes oder an verschiedenen Tischen des Wahlraumes gewählt werden. Für jeden Wahlraum oder Tisch wird ein Wahlvorstand gebildet. Sind mehrere Wahlvorstände in einem Wahlraum tätig, so bestimmt die Gemeindebehörde, welcher Vorstand für Ruhe und Ordnung im Wahlraum sorgt.
+(2) In größeren Wahlbezirken, in denen sich die Wählerverzeichnisse teilen lassen, kann gleichzeitig in verschiedenen Gebäuden oder in verschiedenen Räumen desselben Gebäudes oder an verschiedenen Tischen des Wahlraumes gewählt werden; § 61 Absatz 2 gilt entsprechend. Für jeden Wahlraum oder Tisch wird ein Wahlvorstand gebildet. Sind mehrere Wahlvorstände in einem Wahlraum tätig, so bestimmt die Gemeindebehörde, welcher Vorstand für Ruhe und Ordnung im Wahlraum sorgt.
 
 # § 40 – Wahlzeit
 
@@ -1466,9 +1466,9 @@ Ein Wähler, bei dem die Voraussetzungen des Satzes 1 Nr. 1 vorliegen und der im
 
 Der Inhaber eines Wahlscheines nennt seinen Namen, weist sich aus und übergibt den Wahlschein dem Wahlvorsteher. Dieser prüft den Wahlschein. Entstehen Zweifel über die Gültigkeit des Wahlscheines oder über den rechtmäßigen Besitz, so klärt sie der Wahlvorstand nach Möglichkeit und beschließt über die Zulassung oder Zurückweisung des Inhabers. Der Vorgang ist in der Wahlniederschrift zu vermerken. Der Wahlvorsteher behält den Wahlschein auch im Falle der Zurückweisung ein.
 
-# § 53 – Schluß der Wahlhandlung
+# § 53 – Schluss der Wahlhandlung
 
-Sobald die Wahlzeit abgelaufen ist, wird dies vom Wahlvorsteher bekanntgegeben. Von da ab dürfen nur noch die Wähler zur Stimmabgabe zugelassen werden, die sich im Wahlraum befinden. Der Zutritt zum Wahlraum ist so lange zu sperren, bis die anwesenden Wähler ihre Stimme abgegeben haben; § 47 ist zu beachten. Sodann erklärt der Wahlvorsteher die Wahlhandlung für geschlossen.
+Ist die Wahlzeit (§ 40) abgelaufen, wird dies vom Wahlvorsteher bekanntgegeben. Von da ab sind nur noch die Wahlberechtigten zur Stimmabgabe zuzulassen, die vor Ablauf der Wahlzeit erschienen sind und sich im Wahlraum oder aus Platzgründen davor befinden. Nach Ablauf der Wahlzeit eintreffenden Wahlberechtigten ist der Zutritt zur Stimmabgabe zu sperren. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben haben, erklärt der Wahlvorsteher die Wahlhandlung für geschlossen.
 
 # § 54 – Wahl in Sonderwahlbezirken
 
@@ -1532,7 +1532,7 @@ Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit möglich im B
 
 # § 60 – Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
 
-Im Anschluß an die Wahlhandlung ermittelt der Wahlvorstand ohne Unterbrechung das Wahlergebnis im Wahlbezirk. Er stellt fest
+Im Anschluß an die Wahlhandlung ermittelt der Wahlvorstand vorbehaltlich § 61 Absatz 2 ohne Unterbrechung das Wahlergebnis im Wahlbezirk. Er stellt fest
 
 1. die Zahl der Wahlberechtigten,
 
@@ -1544,7 +1544,9 @@ Im Anschluß an die Wahlhandlung ermittelt der Wahlvorstand ohne Unterbrechung d
 
 # § 61 – Zählung der Wähler
 
-Vor dem Öffnen der Wahlurne werden alle nicht benutzten Stimmzettel vom Wahltisch entfernt. Sodann werden die Stimmzettel der Wahlurne entnommen, entfaltet und gezählt. Zugleich werden die Zahl der Stimmabgabevermerke im Wählerverzeichnis und die Zahl der eingenommenen Wahlscheine festgestellt. Ergibt sich dabei auch nach wiederholter Zählung keine Übereinstimmung, so ist dies in der Wahlniederschrift zu vermerken und, soweit möglich, zu erläutern.
+(1) Vor dem Öffnen der Wahlurne werden alle nicht benutzten Stimmzettel vom Wahltisch entfernt. Zunächst werden die Zahl der Stimmabgabevermerke im Wählerverzeichnis und die Zahl der eingenommenen Wahlscheine festgestellt. Sodann werden die Stimmzettel der Wahlurne entnommen, entfaltet und gezählt. Ergibt sich dabei auch nach wiederholter Zählung keine Übereinstimmung, so ist dies in der Wahlniederschrift zu vermerken und, soweit möglich, zu erläutern.
+
+(2) Ergibt die Feststellung nach Absatz 1 Satz 2, dass weniger als 30 Wähler ihre Stimme abgegeben haben, ordnet der Kreis- oder Stadtwahlleiter an, dass der Wahlvorstand dieses Wahlbezirks als abgebender Wahlvorstand die verschlossene Wahlurne oder die Stimmzettel in einem verschlossenen und versiegelten Umschlag, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine dem Wahlvorstand eines bestimmten anderen Wahlbezirks des gleichen Kreises oder der gleichen kreisfreien Stadt als aufnehmender Wahlvorstand zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses unverzüglich zu übergeben hat. Am Wahlraum des abgebenden Wahlvorstands ist ein Hinweis anzubringen, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses stattfindet. Der Transport der nach Satz 1 zu übergebenden Gegenstände erfolgt in Anwesenheit des Wahlvorstehers und des Schriftführers, eines weiteren Mitglieds des Wahlvorstands und, soweit möglich, weiterer gemäß § 47 anwesender Personen. Der aufnehmende Wahlvorstand verfährt entsprechend § 54 Absatz 6 Satz 7 und 8. Die Übergabe der Wahlurne oder des Umschlages mit den Stimmzetteln und der Wahlunterlagen ist in den Wahlniederschriften des abgebenden und des aufnehmenden Wahlvorstands zu vermerken.
 
 # § 62 – Zählung der Stimmen
 
@@ -1834,7 +1836,7 @@ Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 
 # § 79 – Öffentliche Bekanntmachungen
 
-(1) Die nach dem Europawahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger, den Bundeswahlleiter im Bundesanzeiger, die Landeswahlleiter im Staatsanzeiger oder Ministerial- oder Amtsblatt der Landesregierung oder des Innenministeriums, die Kreis- oder Stadtwahlleiter in den Amtsblättern oder Zeitungen, die allgemein für Bekanntmachungen der Kreise oder kreisfreien Städte bestimmt sind, die Gemeindebehörden in ortsüblicher Weise.
+(1) Die nach dem Europawahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger, den Bundeswahlleiter im Bundesanzeiger, die Landeswahlleiter im Staatsanzeiger oder Ministerial- oder Amtsblatt der Landesregierung oder des Innenministeriums, die Kreis- oder Stadtwahlleiter in der Art und Weise, die allgemein für Bekanntmachungen der Kreise und kreisfreien Städte bestimmt sind, die Gemeindebehörden in ortsüblicher Weise.
 
 (2) Für die öffentliche Bekanntmachung nach § 5 Abs. 3 genügt Aushang am oder im Eingang des Sitzungsgebäudes mit dem Hinweis, daß jedermann Zutritt zu der Sitzung hat.
 
@@ -1948,7 +1950,7 @@ soweit nicht der Landeswahlleiter die Beschaffung übernimmt.
 
 # § 85 – Stadtstaatklausel
 
-In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser Verordnung der Gemeindebehörde übertragen sind.
+In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser Verordnung der Gemeindebehörde übertragen sind; er bestimmt die Zahl der einzusetzenden Kreis- oder Stadtwahlleiter und ihre örtliche Zuständigkeit.
 
 # § 86 – Nachweis des Nichtausschlusses von der Wählbarkeit
 
@@ -1966,7 +1968,8 @@ Zum Nachweis des Nichtausschlusses von der Wählbarkeit haben nach § 6 Absatz 3
 
 # Anlage 1 – (zu § 17 Absatz 6)
 
-(Fundstelle: BGBl. I 2018, 575 - 579)
+(Fundstelle: BGBl. I 2018, 575 - 579;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -2023,7 +2026,7 @@ Wahlberechtigte können an der Wahl zum Europäischen Parlament grundsätzlich n
 
  
 
-Wahlberechtigt sind nach § 6 Europawahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 18. Lebensjahr vollendet haben, nicht nach § 6a Absatz 1 Europawahlgesetz vom Wahlrecht ausgeschlossen sind und seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.
+Wahlberechtigt sind nach § 6 Europawahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 16. Lebensjahr vollendet haben, nicht nach § 6a Absatz 1 Europawahlgesetz vom Wahlrecht ausgeschlossen sind und seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.
 
  
 
@@ -2036,7 +2039,7 @@ entweder am Wahltag seit mindestens drei Monaten in den Gebieten der übrigen Mi
 oder nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,
 
 –  
-oder aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind. Siehe hierzu auch die Erläuterungen unter ⑩.
+oder aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind. Siehe hierzu auch die Erläuterungen unter ⑪.
 
  
 
@@ -2065,9 +2068,9 @@ Aktuelle Wohnanschrift im Inland (Zuzugsort).
 
 ④
 
-Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland<span id="FnR.f802772_03"></span><a href="#f802772_03" class="FnR">1)</a></sup> zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.
+Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland<span id="FnR.FnA4-f802772_03"></span><a href="#FnA4-f802772_03" class="FnR">1)</a></sup> zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.
 
-Wenn der Antragsteller sich in der Bundesrepublik Deutschland¹) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der ..........“  
+Wenn der Antragsteller sich in der Bundesrepublik Deutschland<a href="#FnA4-f802772_03" class="FnR">1)</a></sup> gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der ..........“  
 (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).
 
  
@@ -2102,13 +2105,13 @@ Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 1 des Europawahl
 
 ⑩
 
-Das Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in den Mitgliedstaaten der Europäischen Union gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Nach § 6 Absatz 1 Satz 2 Europawahlgesetz zählt auch ein Aufenthalt in der Bundesrepublik Deutschland mit. Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich Großbritannien und Nordirland (entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 des EU-Vertrags vom 29. März 2017 zum Zeitpunkt der Wahl gemäß Artikel 50 Absatz 3 des EU-Vertrags die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden<span id="FnR.f802772_04"></span><a href="#f802772_04" class="FnR">2)</a></sup> ) und Zypern.
+Das Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in den Mitgliedstaaten der Europäischen Union gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Nach § 6 Absatz 1 Satz 2 Europawahlgesetz zählt auch ein Aufenthalt in der Bundesrepublik Deutschland mit. Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, und Zypern.
 
 ⑪
 
 Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2.
 
-Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland innehatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.¹)
+Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland innehatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.<a href="#FnA4-f802772_03" class="FnR">1)</a></sup>
 
  
 
@@ -2139,6 +2142,9 @@ Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben
 
 Bedient sich der Antragsteller aus einem der in den Erläuterungen unter ⑬ genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
 
+<span id="FnA4-f802772_03"></span><a href="#FnR.FnA4-f802772_03" class="Footnote">1)</a>  
+Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
+
 # Anlage 2 – (zu § 17 Absatz 5)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2258 - 2563;  
@@ -2153,8 +2159,8 @@ Muster für amtliche Vermerke
 
 Wahlberechtigte, die in der Bundesrepublik Deutschland noch für eine Wohnung gemeldet sind, dürfen den Antrag nicht stellen.
 
-<table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 97%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">①</td><td>Antrag auf Eintragung in das Wählerverzeichnis vom Ausland aus</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Wahlberechtigte können an der Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wahlberechtigt sind nach § 6 Europawahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 18. Lebensjahr vollendet haben, nicht nach § 6a Absatz 1 Europawahlgesetz vom Wahlrecht ausgeschlossen sind und seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Deutsche, die außerhalb der Bundesrepublik Deutschland leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, werden nur auf förmlichen Antrag (amtliches Formblatt) und nur nach Abgabe einer Versicherung an Eides statt in ein Wählerverzeichnis eingetragen, sofern sie<dl><dt>–</dt><dd>entweder am Wahltag seit mindestens drei Monaten in den Gebieten der übrigen Mitgliedstaaten der Europäischen Union (siehe hierzu die Erläuterung unter ⑩) eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben, wobei auf die Dreimonatsfrist ein unmittelbar vorausgehender Aufenthalt in der Bundesrepublik Deutschland angerechnet wird,</dd><dt>–</dt><dd>oder nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,</dd><dt>–</dt><dd>oder aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind.<span id="FnR.f802772_03"></span><a href="#f802772_03" class="FnR">1)</a></sup> Siehe hierzu auch die Erläuterungen unter ⑪.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Für jeden Antragsteller ist ein besonderes Formblatt (in Erst- und Zweitausfertigung) auszufüllen. Sammelanträge sind nicht möglich. Der Antrag sollte frühestmöglich gestellt werden; er muss spätestens bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde persönlich und handschriftlich unterzeichnet im Original eingegangen sein. Die Antragsfrist kann nicht verlängert werden. Der in das Wählerverzeichnis eingetragene Wahlberechtigte erhält über die Eintragung keine Benachrichtigung. Ihm werden – bei frühestmöglicher Antragstellung – der Wahlschein und die Briefwahlunterlagen ca. 1 Monat vor dem Wahltag übersandt.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Im Falle des Fortzuges aus der Bundesrepublik Deutschland¹) ist zu beachten:<dl><dt>–</dt><dd>Wer bereits vor dem 42. Tage vor der Wahl aus der Bundesrepublik Deutschland¹) fortgezogen ist, muss seine Eintragung in das Wählerverzeichnis beantragen.</dd><dt>–</dt><dd>Wer erst nach dem 42. Tage vor der Wahl fortzieht, d. h. sich erst nach diesem Termin abmeldet, braucht diesen Antrag nicht zu stellen. In diesem Falle erfolgt von Amts wegen die Eintragung in das Wählerverzeichnis seiner Fortzugsgemeinde.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Kehren Deutsche, die im Ausland gelebt haben und in der Bundesrepublik Deutschland in dieser Zeit nicht für eine Wohnung gemeldet waren, in das Inland zurück und melden sich hier wieder für eine Wohnung an (Rückkehrer aus dem Ausland), gilt für die Erforderlichkeit und Art der Antragstellung Folgendes:<dl><dt>–</dt><dd>Wer in die Bundesrepublik Deutschland zurückkehrt und sich hier vor dem 42. Tag vor der Wahl für eine Wohnung anmeldet, braucht und darf keinen Antrag auf Eintragung in das Wählerverzeichnis stellen, weil er, wie jeder im Inland gemeldete Wahlberechtigte, von Amts wegen am Zuzugsort von der Gemeindebehörde in das Wählerverzeichnis eingetragen wird.</dd><dt>–</dt><dd>Wer sich nach dem 42. Tag, aber vor dem 21. Tag vor der Wahl anmeldet, wird in das Wählerverzeichnis der Gemeindebehörde am Zuzugsort in der Bundesrepublik Deutschland nur auf Antrag nach Anlage 1 (zu § 17 Absatz 6 Europawahlordnung) für Rückkehrer eingetragen. Wer bereits vor seiner Rückkehr vom Ausland aus einen Antrag nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.</dd><dt>–</dt><dd>Wer sich erst nach dem 21. Tag vor der Wahl in der Bundesrepublik Deutschland anmelden wird, muss bereits vor seiner Rückkehr in die Bundesrepublik Deutschland vom Ausland aus bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.</dd></dl></td></tr><tr class="even"><td style="text-align: left;">②</td><td>Zuständige Gemeindebehörde, an die der Antrag auf Eintragung in das Wählerverzeichnis für Deutsche, die im Ausland leben nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) zu richten ist, ist die Gemeindebehörde der letzten – gemeldeten – Hauptwohnung in der Bundesrepublik Deutschland¹).</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Für Deutsche, die nie in der Bundesrepublik Deutschland gemeldet waren, ist die zuständige Behörde das Bezirksamt Mitte von Berlin, Bezirkswahlamt, Müllerstraße 146, 13353 Berlin.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Für Seeleute, die nicht von Amts wegen in das Wählerverzeichnis einzutragen sind, gelten Sonderbestimmungen nach § 16 Absatz 2 Nummer 4 der Europawahlordnung (EuWO).</td></tr><tr class="odd"><td style="text-align: left;">③</td><td>Von Seeleuten, die auf einem Schiff unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des Schiffes, Name des Reeders, Sitz des Reeders (Ort und Staat).</td></tr><tr class="even"><td style="text-align: left;">④</td><td>Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland¹) zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wenn der Antragsteller sich in der Bundesrepublik Deutschland¹) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der ..........“<br />
-(Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Von Seeleuten (siehe die Erläuterungen unter ③), die zuletzt auf einem Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders, Sitz des Reeders (Ort, Land).</td></tr><tr class="odd"><td style="text-align: left;">⑤</td><td>Von Seeleuten (siehe die Erläuterungen unter ③) hier mit folgenden Angaben auszufüllen: Datum der letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu führen berechtigt war, Name und Nationalität des Seeschiffes unter fremder Flagge.</td></tr><tr class="even"><td style="text-align: left;">⑥</td><td>Angaben nur für  ein Dokument erforderlich.</td></tr><tr class="odd"><td style="text-align: left;">⑦</td><td>Die Eintragung in das Wählerverzeichnis erfolgt nur, wenn die Wahlberechtigung des Antragstellers für die Wahl zum Europäischen Parlament nachgewiesen ist. Dazu muss die vorgedruckte Versicherung an Eides statt abgegeben werden. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen. Wenn eine der Voraussetzungen der Wahlberechtigung bis zum Wahltage fortfällt, muss der Antrag zurückgenommen werden.</td></tr><tr class="even"><td style="text-align: left;">⑧</td><td>Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind Personen, die<dl><dt>1.</dt><dd>die deutsche Staatsangehörigkeit oder</dd><dt>2.</dt><dd>als Spätaussiedler/Spätaussiedlerinnen oder als deren in den Aufnahmebescheid einbezogene Ehegatten oder Abkömmlinge auf Grund ihrer Aufnahme in Deutschland nach § 4 Absatz 3 des Bundesvertriebenengesetzes (BVFG) vor Ausstellung der Bescheinigung nach § 15 Absatz 1 oder 2 BVFG, mit der sie nach § 7 des Staatsangehörigkeitsgesetzes die deutsche Staatsangehörigkeit erwerben, vorübergehend die Rechtsstellung als (Status-)Deutsche ohne deutsche Staatsangehörigkeit</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>besitzen.</td></tr><tr class="even"><td style="text-align: left;">⑨</td><td>Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 1 des Europawahlgesetzes ausgeschlossen, wer infolge Richterspruchs das Wahlrecht nicht besitzt.</td></tr><tr class="odd"><td style="text-align: left;">⑩</td><td>Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich Großbritannien und Nordirland (entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 des EU-Vertrags vom 29. März 2017 zum Zeitpunkt der Wahl gemäß Artikel 50 Absatz 3 des EU-Vertrags die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden<span id="FnR.f802772_04"></span><a href="#f802772_04" class="FnR">2)</a></sup> ) und Zypern.</td></tr><tr class="even"><td style="text-align: left;">⑪</td><td>Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland innehatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.¹)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>In diesen Fällen ist auf einem gesonderten Blatt zu begründen, wodurch und in welcher Weise der Antragsteller/die Antragstellerin persönlich und unmittelbar (aufgrund eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. Zum Beleg können dem Antrag Unterlagen beigefügt werden.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wahlberechtigt können beispielsweise folgende dauerhaft im Ausland lebende deutsche Staatsangehörige sein (für die nicht bereits die beim linken Kästchen genannten Voraussetzungen zutreffen):<dl><dt>–</dt><dd>Ortskräfte an deutschen Auslandsvertretungen, deutsche Mitarbeiter an Goetheinstituten, an den deutschen geisteswissenschaftlichen Instituten im Ausland, an deutschen Auslandsschulen, bei den Auslandsbüros der politischen Stiftungen, der deutschen Entwicklungszusammenarbeit oder der Auslandshandelskammern sowie Korrespondenten deutscher Medien;</dd><dt>–</dt><dd>sogenannte Grenzpendler, die ihre Arbeits- oder Dienstleistung regelmäßig im Inland erbringen;</dd><dt>–</dt><dd>Auslandsdeutsche, die durch ein Engagement in deutschen Verbänden, Parteien und sonstigen Organisationen in erheblichem Umfang am politischen und gesellschaftlichen Leben der Bundesrepublik Deutschland teilnehmen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td>Die Antragstellung hat bei der Gemeinde zu erfolgen, bei der der Antragsteller/die Antragstellerin zu einem früheren Zeitpunkt gemeldet war, unabhängig davon, wie lange der Fortzug zurückliegt. Auslandsdeutsche, die nie in der Bundesrepublik Deutschland gemeldet waren, müssen ihren Antrag beim Bezirksamt Mitte von Berlin, Bezirkswahlamt, Müllerstraße 146, 13353 Berlin, stellen.</td></tr><tr class="odd"><td style="text-align: left;">⑫</td><td>Niemand darf an der Wahl zum Europäischen Parlament mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Wahl zum Europäischen Parlament in mehreren Mitgliedstaaten der Europäischen Union oder mehrfach in der Bundesrepublik Deutschland beteiligen würde.</td></tr><tr class="even"><td style="text-align: left;">⑬</td><td>Die Stimmabgabe kann auch in einem Wahlraum vor einem Wahlvorstand in dem Gebiet (Kreis oder Kreisfreie Stadt) erfolgen, in dem der Wahlschein gültig ist. Dann ist der Wahlschein dem Wahlvorstand auszuhändigen.</td></tr><tr class="odd"><td style="text-align: left;">⑭</td><td>Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben. Wahlberechtigte, die des Lesens unkundig oder wegen einer Behinderung nicht in der Lage sind, den Antrag und die Versicherung an Eides statt selbst auszufüllen und abzugeben, können sich dabei der Hilfe einer anderen Person bedienen. Diese hat auch den Antrag und die Versicherung an Eides statt zu unterschreiben. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Siehe im Übrigen die Erläuterungen unter ⑮.</td></tr><tr class="even"><td style="text-align: left;">⑮</td><td>Bedient sich der Antragsteller aus einem der in den Erläuterungen unter ⑭ genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.</td></tr></tbody></table>
+<table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 97%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">①</td><td>Antrag auf Eintragung in das Wählerverzeichnis vom Ausland aus</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Wahlberechtigte können an der Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wahlberechtigt sind nach § 6 Europawahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 16. Lebensjahr vollendet haben, nicht nach § 6a Absatz 1 Europawahlgesetz vom Wahlrecht ausgeschlossen sind und seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Deutsche, die außerhalb der Bundesrepublik Deutschland leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, werden nur auf förmlichen Antrag (amtliches Formblatt) und nur nach Abgabe einer Versicherung an Eides statt in ein Wählerverzeichnis eingetragen, sofern sie<dl><dt>–</dt><dd>entweder am Wahltag seit mindestens drei Monaten in den Gebieten der übrigen Mitgliedstaaten der Europäischen Union (siehe hierzu die Erläuterung unter ⑩) eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben, wobei auf die Dreimonatsfrist ein unmittelbar vorausgehender Aufenthalt in der Bundesrepublik Deutschland angerechnet wird,</dd><dt>–</dt><dd>oder nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,</dd><dt>–</dt><dd>oder aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind.<span id="FnR.f802772_03"></span><a href="#f802772_03" class="FnR">1)</a></sup> Siehe hierzu auch die Erläuterungen unter ⑪.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Für jeden Antragsteller ist ein besonderes Formblatt (in Erst- und Zweitausfertigung) auszufüllen. Sammelanträge sind nicht möglich. Der Antrag sollte frühestmöglich gestellt werden; er muss spätestens bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde persönlich und handschriftlich unterzeichnet im Original eingegangen sein. Die Antragsfrist kann nicht verlängert werden. Der in das Wählerverzeichnis eingetragene Wahlberechtigte erhält über die Eintragung keine Benachrichtigung. Ihm werden – bei frühestmöglicher Antragstellung – der Wahlschein und die Briefwahlunterlagen ca. 1 Monat vor dem Wahltag übersandt.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Im Falle des Fortzuges aus der Bundesrepublik Deutschland<a href="#f802772_03" class="FnR">1)</a></sup> ist zu beachten:<dl><dt>–</dt><dd>Wer bereits vor dem 42. Tage vor der Wahl aus der Bundesrepublik Deutschland<a href="#f802772_03" class="FnR">1)</a></sup> fortgezogen ist, muss seine Eintragung in das Wählerverzeichnis beantragen.</dd><dt>–</dt><dd>Wer erst nach dem 42. Tage vor der Wahl fortzieht, d. h. sich erst nach diesem Termin abmeldet, braucht diesen Antrag nicht zu stellen. In diesem Falle erfolgt von Amts wegen die Eintragung in das Wählerverzeichnis seiner Fortzugsgemeinde.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Kehren Deutsche, die im Ausland gelebt haben und in der Bundesrepublik Deutschland in dieser Zeit nicht für eine Wohnung gemeldet waren, in das Inland zurück und melden sich hier wieder für eine Wohnung an (Rückkehrer aus dem Ausland), gilt für die Erforderlichkeit und Art der Antragstellung Folgendes:<dl><dt>–</dt><dd>Wer in die Bundesrepublik Deutschland zurückkehrt und sich hier vor dem 42. Tag vor der Wahl für eine Wohnung anmeldet, braucht und darf keinen Antrag auf Eintragung in das Wählerverzeichnis stellen, weil er, wie jeder im Inland gemeldete Wahlberechtigte, von Amts wegen am Zuzugsort von der Gemeindebehörde in das Wählerverzeichnis eingetragen wird.</dd><dt>–</dt><dd>Wer sich nach dem 42. Tag, aber vor dem 21. Tag vor der Wahl anmeldet, wird in das Wählerverzeichnis der Gemeindebehörde am Zuzugsort in der Bundesrepublik Deutschland nur auf Antrag nach Anlage 1 (zu § 17 Absatz 6 Europawahlordnung) für Rückkehrer eingetragen. Wer bereits vor seiner Rückkehr vom Ausland aus einen Antrag nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.</dd><dt>–</dt><dd>Wer sich erst nach dem 21. Tag vor der Wahl in der Bundesrepublik Deutschland anmelden wird, muss bereits vor seiner Rückkehr in die Bundesrepublik Deutschland vom Ausland aus bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.</dd></dl></td></tr><tr class="even"><td style="text-align: left;">②</td><td>Zuständige Gemeindebehörde, an die der Antrag auf Eintragung in das Wählerverzeichnis für Deutsche, die im Ausland leben nach Anlage 2 (zu § 17 Absatz 5 Europawahlordnung) zu richten ist, ist die Gemeindebehörde der letzten – gemeldeten – Hauptwohnung in der Bundesrepublik Deutschland<a href="#f802772_03" class="FnR">1)</a></sup> .</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Für Deutsche, die nie in der Bundesrepublik Deutschland gemeldet waren, ist die zuständige Behörde das Bezirksamt Mitte von Berlin, Bezirkswahlamt, Müllerstraße 146, 13353 Berlin.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Für Seeleute, die nicht von Amts wegen in das Wählerverzeichnis einzutragen sind, gelten Sonderbestimmungen nach § 16 Absatz 2 Nummer 4 der Europawahlordnung (EuWO).</td></tr><tr class="odd"><td style="text-align: left;">③</td><td>Von Seeleuten, die auf einem Schiff unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des Schiffes, Name des Reeders, Sitz des Reeders (Ort und Staat).</td></tr><tr class="even"><td style="text-align: left;">④</td><td>Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland<a href="#f802772_03" class="FnR">1)</a></sup> zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wenn der Antragsteller sich in der Bundesrepublik Deutschland<a href="#f802772_03" class="FnR">1)</a></sup> gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der ..........“<br />
+(Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Von Seeleuten (siehe die Erläuterungen unter ③), die zuletzt auf einem Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders, Sitz des Reeders (Ort, Land).</td></tr><tr class="odd"><td style="text-align: left;">⑤</td><td>Von Seeleuten (siehe die Erläuterungen unter ③) hier mit folgenden Angaben auszufüllen: Datum der letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu führen berechtigt war, Name und Nationalität des Seeschiffes unter fremder Flagge.</td></tr><tr class="even"><td style="text-align: left;">⑥</td><td>Angaben nur für  ein Dokument erforderlich.</td></tr><tr class="odd"><td style="text-align: left;">⑦</td><td>Die Eintragung in das Wählerverzeichnis erfolgt nur, wenn die Wahlberechtigung des Antragstellers für die Wahl zum Europäischen Parlament nachgewiesen ist. Dazu muss die vorgedruckte Versicherung an Eides statt abgegeben werden. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen. Wenn eine der Voraussetzungen der Wahlberechtigung bis zum Wahltage fortfällt, muss der Antrag zurückgenommen werden.</td></tr><tr class="even"><td style="text-align: left;">⑧</td><td>Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind Personen, die<dl><dt>1.</dt><dd>die deutsche Staatsangehörigkeit oder</dd><dt>2.</dt><dd>als Spätaussiedler/Spätaussiedlerinnen oder als deren in den Aufnahmebescheid einbezogene Ehegatten oder Abkömmlinge auf Grund ihrer Aufnahme in Deutschland nach § 4 Absatz 3 des Bundesvertriebenengesetzes (BVFG) vor Ausstellung der Bescheinigung nach § 15 Absatz 1 oder 2 BVFG, mit der sie nach § 7 des Staatsangehörigkeitsgesetzes die deutsche Staatsangehörigkeit erwerben, vorübergehend die Rechtsstellung als (Status-)Deutsche ohne deutsche Staatsangehörigkeit</dd></dl></td></tr><tr class="odd"><td style="text-align: left;"> </td><td>besitzen.</td></tr><tr class="even"><td style="text-align: left;">⑨</td><td>Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 1 des Europawahlgesetzes ausgeschlossen, wer infolge Richterspruchs das Wahlrecht nicht besitzt.</td></tr><tr class="odd"><td style="text-align: left;">⑩</td><td>Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, und Zypern.</td></tr><tr class="even"><td style="text-align: left;">⑪</td><td>Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland innehatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.<a href="#f802772_03" class="FnR">1)</a></sup></td></tr><tr class="even"><td style="text-align: left;"> </td><td>In diesen Fällen ist auf einem gesonderten Blatt zu begründen, wodurch und in welcher Weise der Antragsteller/die Antragstellerin persönlich und unmittelbar (aufgrund eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. Zum Beleg können dem Antrag Unterlagen beigefügt werden.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Wahlberechtigt können beispielsweise folgende dauerhaft im Ausland lebende deutsche Staatsangehörige sein (für die nicht bereits die beim linken Kästchen genannten Voraussetzungen zutreffen):<dl><dt>–</dt><dd>Ortskräfte an deutschen Auslandsvertretungen, deutsche Mitarbeiter an Goetheinstituten, an den deutschen geisteswissenschaftlichen Instituten im Ausland, an deutschen Auslandsschulen, bei den Auslandsbüros der politischen Stiftungen, der deutschen Entwicklungszusammenarbeit oder der Auslandshandelskammern sowie Korrespondenten deutscher Medien;</dd><dt>–</dt><dd>sogenannte Grenzpendler, die ihre Arbeits- oder Dienstleistung regelmäßig im Inland erbringen;</dd><dt>–</dt><dd>Auslandsdeutsche, die durch ein Engagement in deutschen Verbänden, Parteien und sonstigen Organisationen in erheblichem Umfang am politischen und gesellschaftlichen Leben der Bundesrepublik Deutschland teilnehmen.</dd></dl></td></tr><tr class="even"><td style="text-align: left;"> </td><td>Die Antragstellung hat bei der Gemeinde zu erfolgen, bei der der Antragsteller/die Antragstellerin zu einem früheren Zeitpunkt gemeldet war, unabhängig davon, wie lange der Fortzug zurückliegt. Auslandsdeutsche, die nie in der Bundesrepublik Deutschland gemeldet waren, müssen ihren Antrag beim Bezirksamt Mitte von Berlin, Bezirkswahlamt, Müllerstraße 146, 13353 Berlin, stellen.</td></tr><tr class="odd"><td style="text-align: left;">⑫</td><td>Niemand darf an der Wahl zum Europäischen Parlament mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Wahl zum Europäischen Parlament in mehreren Mitgliedstaaten der Europäischen Union oder mehrfach in der Bundesrepublik Deutschland beteiligen würde.</td></tr><tr class="even"><td style="text-align: left;">⑬</td><td>Die Stimmabgabe kann auch in einem Wahlraum vor einem Wahlvorstand in dem Gebiet (Kreis oder Kreisfreie Stadt) erfolgen, in dem der Wahlschein gültig ist. Dann ist der Wahlschein dem Wahlvorstand auszuhändigen.</td></tr><tr class="odd"><td style="text-align: left;">⑭</td><td>Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben. Wahlberechtigte, die des Lesens unkundig oder wegen einer Behinderung nicht in der Lage sind, den Antrag und die Versicherung an Eides statt selbst auszufüllen und abzugeben, können sich dabei der Hilfe einer anderen Person bedienen. Diese hat auch den Antrag und die Versicherung an Eides statt zu unterschreiben. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Siehe im Übrigen die Erläuterungen unter ⑮.</td></tr><tr class="even"><td style="text-align: left;">⑮</td><td>Bedient sich der Antragsteller aus einem der in den Erläuterungen unter ⑭ genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.</td></tr></tbody></table>
 
 # Anlage 2A – (zu § 17a Absatz 2)Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
 
@@ -2166,8 +2172,55 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Der Antrag darf nur von wahlberechtigten Unionsbürgern, die in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten (und die nicht gleichzeitig Deutsche sind), ausgefüllt werden.
 
-<table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 97%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">①</td><td>Antrag auf Eintragung in das Wählerverzeichnis</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Unionsbürger können an der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Unionsbürger mit Wohnung oder sonstigem gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland werden erstmalig nur auf förmlichen Antrag (amtliches Formblatt) und nur nach Abgabe einer Versicherung an Eides statt in ein Wählerverzeichnis eingetragen, wenn sie am Wahltag seit mindestens drei Monaten ihre Wohnung oder ihren sonstigen gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union haben. Auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Für jeden Antragsteller ist ein besonderes Formblatt auszufüllen. Sammelanträge sind nicht möglich. Der Antrag sollte frühestmöglich gestellt werden; er muss spätestens bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde unterschrieben im Original eingegangen sein. Die Antragsfrist kann nicht verlängert werden.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Ist ein wahlberechtigter Unionsbürger bereits auf seinen Antrag hin bei der Wahl zum Europäischen Parlament am 13. Juni 1999 oder einer späteren Wahl zum Europäischen Parlament in ein Wählerverzeichnis in der Bundesrepublik Deutschland eingetragen worden, so ist bei künftigen Wahlen ein erneuter Antrag nicht erforderlich. Die Eintragung erfolgt dann von Amts wegen, sofern die sonstigen wahlrechtlichen Voraussetzungen vorliegen. Dies gilt nicht, wenn der Unionsbürger bis zum 21. Tag vor der Wahl gegenüber der zuständigen Gemeindebehörde beantragt, nicht im Wählerverzeichnis geführt zu werden. Dieser Antrag gilt für alle künftigen Wahlen zum Europäischen Parlament, bis der Unionsbürger wieder einen Antrag auf Eintragung in das Wählerverzeichnis stellt. Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich.</td></tr><tr class="even"><td style="text-align: left;">②</td><td>Zuständige Gemeindebehörde, an die der Antrag zu richten ist, ist die Gemeindebehörde, bei der der Unionsbürger in der Bundesrepublik Deutschland für eine Wohnung gemeldet ist – bei mehreren Wohnungen die für die Hauptwohnung zuständige Gemeindebehörde.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Für Unionsbürger, die sich in der Bundesrepublik Deutschland sonst gewöhnlich aufhalten, ohne eine Wohnung innezuhaben, und für Seeleute gelten Sonderbestimmungen nach § 17a Absatz 3 der Europawahlordnung (EuWO).</td></tr><tr class="even"><td style="text-align: left;">③</td><td>Angaben nur für  ein Dokument erforderlich.</td></tr><tr class="odd"><td style="text-align: left;">④</td><td>Die Eintragung in das Wählerverzeichnis erfolgt nur, wenn die Wahlberechtigung des Antragstellers für die Wahl zum Europäischen Parlament nachgewiesen ist. Dazu muss die vorgedruckte Versicherung an Eides statt abgegeben werden.Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen. Wenn eine der Voraussetzungen der Wahlberechtigung bis zu diesem oder einem künftigen Wahltag fortfällt oder am Wahltag nicht vorliegt, muss der Antrag zurückgenommen bzw. die Gemeindebehörde hierüber unterrichtet werden.</td></tr><tr class="even"><td style="text-align: left;">⑤</td><td>Staatsangehörigkeit des Herkunftsmitgliedstaates der Europäischen Union.</td></tr><tr class="odd"><td style="text-align: left;">⑥</td><td>Unionsbürger, die nicht in der Bundesrepublik Deutschland für eine Wohnung gemeldet sind, siehe unter ② genannten Absatz 2.</td></tr><tr class="even"><td style="text-align: left;">⑦</td><td>Anzugeben ist die Gebietskörperschaft (Gemeinde/Stadt)/der Wahlkreis des Herkunftsmitgliedstaates, in deren/dessen Wählerverzeichnis oder, sofern ein solches nicht geführt wird, in deren/dessen Melderegister der Unionsbürger gegebenenfalls zuletzt eingetragen war, und wann der Herkunftsmitgliedstaat wohin verlassen wurde.</td></tr><tr class="odd"><td style="text-align: left;">⑧</td><td>Nach Artikel 13 der Richtlinie 93/109/EG tauschen die Mitgliedstaaten untereinander die Informationen aus, die notwendig sind, um eine mehrfache Stimmabgabe bei den Wahlen zum Europäischen Parlament zu verhindern. Hierfür übermittelt der Bundeswahlleiter auf der Grundlage dieses Antrags dem Herkunftsmitgliedstaat die Informationen über dessen Staatsangehörige, die in das Wählerverzeichnis eingetragen wurden, damit der Herkunftsmitgliedstaat geeignete Maßnahmen zur Verhinderung einer doppelten Stimmabgabe treffen kann. Einige Mitgliedstaaten benötigen hierfür besondere Angaben zu ihren Staatsangehörigen.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Folgende besondere Angaben zu ihren Staatsangehörigen sind in den einzelnen Mitgliedstaaten zusätzlich erforderlich:</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Belgien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Bulgarien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); bulgarische zehnstellige persönliche Identifikationsnummer</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Dänemark: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Estland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Finnland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Frankreich: keine</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Griechenland: Name des Vaters und der Mutter</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Irland: keine</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Italien: keine</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Kroatien: keine</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Lettland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Litauen: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Luxemburg: keine</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Malta: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Niederlande: keine</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Österreich: keine</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Polen: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Name des Vaters und der Mutter</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Portugal: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Wahlnummer; Name des Vaters und der Mutter</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Rumänien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Schweden: schwedische zwölfstellige persönliche Registrierungsnummer</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Slowakei: keine</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Slowenien: slowenische dreizehnstellige persönliche Identifikationsnummer</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Spanien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); zweiter Nachname</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Tschechische Republik: keine</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Ungarn: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Vereinigtes Königreich: keine<br />
-(Dies entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 EUV vom 29. März 2017 zum Zeitpunkt der Europawahl gemäß Artikel 50 Absatz 3 EUV die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden .)</td></tr><tr class="odd"><td style="text-align: left;"> </td><td>Zypern: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Wahlnummer</td></tr><tr class="even"><td style="text-align: left;">⑨</td><td>Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 2 Nummer 2 des Europawahlgesetzes ein Unionsbürger ausgeschlossen, wenn er in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit er besitzt (Herkunftsmitgliedstaat), infolge einer zivil- oder strafrechtlichen Einzelfallentscheidung das Wahlrecht zum Europäischen Parlament nicht besitzt.</td></tr><tr class="odd"><td style="text-align: left;">⑩</td><td>Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich (entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 EUV vom 29. März 2017 zum Zeitpunkt der Wahl gemäß Artikel 50 Absatz 3 EUV die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden) und Zypern.</td></tr><tr class="even"><td style="text-align: left;"> </td><td>Die Voraussetzung ist auch bei einem dreimonatigen aufeinanderfolgenden Aufenthalt in der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union erfüllt.</td></tr><tr class="odd"><td style="text-align: left;">⑪</td><td>Niemand darf an der Wahl zum Europäischen Parlament mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Wahl zum Europäischen Parlament in mehreren Mitgliedstaaten der Europäischen Union oder mehrfach in der Bundesrepublik Deutschland beteiligen würde. Die Gemeindebehörde unterrichtet den Bundeswahlleiter über die Eintragung eines Unionsbürgers in das Wählerverzeichnis, der diese Information an die zuständige Stelle des Herkunftsmitgliedstaates weiterleitet, damit ggf. eine Stimmabgabe dieses Unionsbürgers in mehreren Mitgliedstaaten verhindert werden kann.</td></tr><tr class="even"><td style="text-align: left;">⑫</td><td>Eine Eintragung von Amts wegen bei künftigen Europawahlen erfolgt nach Maßgabe von § 17b der Europawahlordnung (EuWO). Unionsbürger können bei Wahlen zum Europäischen Parlament bis spätestens zum 21. Tage vor der Wahl bei der zuständigen Gemeindebehörde schriftlich beantragen, nicht im Wählerverzeichnis geführt zu werden. Dieser Antrag gilt für alle künftigen Wahlen zum Europäischen Parlament, bis der Unionsbürger wieder einen Antrag auf Eintragung in das Wählerverzeichnis stellt. Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich.</td></tr><tr class="odd"><td style="text-align: left;">⑬</td><td>Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben. Wahlberechtigte, die des Lesens unkundig oder wegen einer Behinderung nicht in der Lage sind, den Antrag und die Versicherung an Eides statt selbst auszufüllen und abzugeben, können sich dabei der Hilfe einer anderen Person bedienen. Diese hat auch den Antrag und die Versicherung an Eides statt zu unterschreiben. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Siehe im Übrigen die Erläuterungen unter ⑭.</td></tr><tr class="even"><td style="text-align: left;">⑭</td><td>Bedient sich der Antragsteller aus einem der in den Erläuterungen unter ⑬ genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.</td></tr></tbody></table>
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|:----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ①   | Antrag auf Eintragung in das Wählerverzeichnis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     | Unionsbürger können an der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     | Unionsbürger mit Wohnung oder sonstigem gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland werden erstmalig nur auf förmlichen Antrag (amtliches Formblatt) und nur nach Abgabe einer Versicherung an Eides statt in ein Wählerverzeichnis eingetragen, wenn sie am Wahltag seit mindestens drei Monaten ihre Wohnung oder ihren sonstigen gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union haben. Auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet.                                                                                                                                                                                                                                                                                                                                                                        |
+|     | Für jeden Antragsteller ist ein besonderes Formblatt auszufüllen. Sammelanträge sind nicht möglich. Der Antrag sollte frühestmöglich gestellt werden; er muss spätestens bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde unterschrieben im Original eingegangen sein. Die Antragsfrist kann nicht verlängert werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     | Ist ein wahlberechtigter Unionsbürger bereits auf seinen Antrag hin bei der Wahl zum Europäischen Parlament am 13. Juni 1999 oder einer späteren Wahl zum Europäischen Parlament in ein Wählerverzeichnis in der Bundesrepublik Deutschland eingetragen worden, so ist bei künftigen Wahlen ein erneuter Antrag nicht erforderlich. Die Eintragung erfolgt dann von Amts wegen, sofern die sonstigen wahlrechtlichen Voraussetzungen vorliegen. Dies gilt nicht, wenn der Unionsbürger bis zum 21. Tag vor der Wahl gegenüber der zuständigen Gemeindebehörde beantragt, nicht im Wählerverzeichnis geführt zu werden. Dieser Antrag gilt für alle künftigen Wahlen zum Europäischen Parlament, bis der Unionsbürger wieder einen Antrag auf Eintragung in das Wählerverzeichnis stellt. Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich. |
+| ②   | Zuständige Gemeindebehörde, an die der Antrag zu richten ist, ist die Gemeindebehörde, bei der der Unionsbürger in der Bundesrepublik Deutschland für eine Wohnung gemeldet ist – bei mehreren Wohnungen die für die Hauptwohnung zuständige Gemeindebehörde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|     | Für Unionsbürger, die sich in der Bundesrepublik Deutschland sonst gewöhnlich aufhalten, ohne eine Wohnung innezuhaben, und für Seeleute gelten Sonderbestimmungen nach § 17a Absatz 3 der Europawahlordnung (EuWO).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ③   | Angaben nur für  ein Dokument erforderlich.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ④   | Die Eintragung in das Wählerverzeichnis erfolgt nur, wenn die Wahlberechtigung des Antragstellers für die Wahl zum Europäischen Parlament nachgewiesen ist. Dazu muss die vorgedruckte Versicherung an Eides statt abgegeben werden.Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen. Wenn eine der Voraussetzungen der Wahlberechtigung bis zu diesem oder einem künftigen Wahltag fortfällt oder am Wahltag nicht vorliegt, muss der Antrag zurückgenommen bzw. die Gemeindebehörde hierüber unterrichtet werden.                                                                                                                                                                                                                                                                                                                                                                                                |
+| ⑤   | Staatsangehörigkeit des Herkunftsmitgliedstaates der Europäischen Union.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ⑥   | Unionsbürger, die nicht in der Bundesrepublik Deutschland für eine Wohnung gemeldet sind, siehe unter ② genannten Absatz 2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ⑦   | Anzugeben ist die Gebietskörperschaft (Gemeinde/Stadt)/der Wahlkreis des Herkunftsmitgliedstaates, in deren/dessen Wählerverzeichnis oder, sofern ein solches nicht geführt wird, in deren/dessen Melderegister der Unionsbürger gegebenenfalls zuletzt eingetragen war, und wann der Herkunftsmitgliedstaat wohin verlassen wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ⑧   | Nach Artikel 13 der Richtlinie 93/109/EG tauschen die Mitgliedstaaten untereinander die Informationen aus, die notwendig sind, um eine mehrfache Stimmabgabe bei den Wahlen zum Europäischen Parlament zu verhindern. Hierfür übermittelt der Bundeswahlleiter auf der Grundlage dieses Antrags dem Herkunftsmitgliedstaat die Informationen über dessen Staatsangehörige, die in das Wählerverzeichnis eingetragen wurden, damit der Herkunftsmitgliedstaat geeignete Maßnahmen zur Verhinderung einer doppelten Stimmabgabe treffen kann. Einige Mitgliedstaaten benötigen hierfür besondere Angaben zu ihren Staatsangehörigen.                                                                                                                                                                                                                                                                                                                           |
+|     | Folgende besondere Angaben zu ihren Staatsangehörigen sind in den einzelnen Mitgliedstaaten zusätzlich erforderlich:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Belgien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|     | Bulgarien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); bulgarische zehnstellige persönliche Identifikationsnummer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|     | Dänemark: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Estland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|     | Finnland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Frankreich: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|     | Griechenland: Name des Vaters und der Mutter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|     | Irland: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|     | Italien: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     | Kroatien: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     | Lettland: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Litauen: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|     | Luxemburg: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|     | Malta: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|     | Niederlande: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|     | Österreich: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|     | Polen: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Name des Vaters und der Mutter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|     | Portugal: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Wahlnummer; Name des Vaters und der Mutter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|     | Rumänien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Schweden: schwedische zwölfstellige persönliche Registrierungsnummer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     | Slowakei: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     | Slowenien: slowenische dreizehnstellige persönliche Identifikationsnummer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     | Spanien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); zweiter Nachname                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     | Tschechische Republik: keine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|     | Ungarn: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|     | Zypern: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Wahlnummer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ⑨   | Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 2 Nummer 2 des Europawahlgesetzes ein Unionsbürger ausgeschlossen, wenn er in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit er besitzt (Herkunftsmitgliedstaat), infolge einer zivil- oder strafrechtlichen Einzelfallentscheidung das Wahlrecht zum Europäischen Parlament nicht besitzt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ⑩   | Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, und Zypern.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|     | Die Voraussetzung ist auch bei einem dreimonatigen aufeinanderfolgenden Aufenthalt in der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union erfüllt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ⑪   | Niemand darf an der Wahl zum Europäischen Parlament mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Wahl zum Europäischen Parlament in mehreren Mitgliedstaaten der Europäischen Union oder mehrfach in der Bundesrepublik Deutschland beteiligen würde. Die Gemeindebehörde unterrichtet den Bundeswahlleiter über die Eintragung eines Unionsbürgers in das Wählerverzeichnis, der diese Information an die zuständige Stelle des Herkunftsmitgliedstaates weiterleitet, damit ggf. eine Stimmabgabe dieses Unionsbürgers in mehreren Mitgliedstaaten verhindert werden kann.                                                                                                                                                                                                                                                                                                            |
+| ⑫   | Eine Eintragung von Amts wegen bei künftigen Europawahlen erfolgt nach Maßgabe von § 17b der Europawahlordnung (EuWO). Unionsbürger können bei Wahlen zum Europäischen Parlament bis spätestens zum 21. Tage vor der Wahl bei der zuständigen Gemeindebehörde schriftlich beantragen, nicht im Wählerverzeichnis geführt zu werden. Dieser Antrag gilt für alle künftigen Wahlen zum Europäischen Parlament, bis der Unionsbürger wieder einen Antrag auf Eintragung in das Wählerverzeichnis stellt. Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich.                                                                                                                                                                                                                                                                                    |
+| ⑬   | Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben. Wahlberechtigte, die des Lesens unkundig oder wegen einer Behinderung nicht in der Lage sind, den Antrag und die Versicherung an Eides statt selbst auszufüllen und abzugeben, können sich dabei der Hilfe einer anderen Person bedienen. Diese hat auch den Antrag und die Versicherung an Eides statt zu unterschreiben. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Siehe im Übrigen die Erläuterungen unter ⑭.                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ⑭   | Bedient sich der Antragsteller aus einem der in den Erläuterungen unter ⑬ genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 # Anlage 2B – (zu § 17a Absatz 5)
 
@@ -2257,17 +2310,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 2C – (zu § 17b Abs. 2)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 2571 - 2573)
+(Fundstelle des Originaltextes: BGBl. I 2003, 2571 - 2573;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 3 – (zu § 18 Absatz 1)Wahlbenachrichtigung1)
 
-(Fundstelle: BGBl. I 2018, 586)
+(Fundstelle: BGBl. I 2018, 586;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
 
 Stadt Bonn  
-Die Oberbürgermeisterin⁴)
+Die Oberbürgermeisterin<span id="FnR.f802772_11"></span><a href="#f802772_11" class="FnR">4)</a></sup>
 
  
 
@@ -2304,7 +2359,7 @@ vermerk<span id="FnR.f802772_14"></span><a href="#f802772_14" class="FnR">7)</a>
  
 
   
-Wahltag: Sonntag, der …………………………⁷), Wahlzeit: 8.00 Uhr bis 18.00 Uhr  
+Wahltag: Sonntag, der …………………………<a href="#f802772_14" class="FnR">7)</a></sup> , Wahlzeit: 8.00 Uhr bis 18.00 Uhr  
 
  
 
@@ -2352,7 +2407,7 @@ Wahltag: Sonntag, der …………………………⁷), Wahlzeit: 8.00 Uhr bis
 
  
 
-Wahlraum<span id="FnR.f802772_11"></span><a href="#f802772_11" class="FnR">4)</a></sup>  
+Wahlraum<a href="#f802772_11" class="FnR">4)</a></sup>  
 Schulgebäude Agnesstraße 1  
 53225 Bonn  
 barrierefrei/nicht barrierefrei<span id="FnR.f802772_12"></span><a href="#f802772_12" class="FnR">5)</a></sup>
@@ -2373,7 +2428,8 @@ Unzustellbarkeit und Umzug<span id="FnR.f802772_15"></span><a href="#f802772_15"
  
 
 Auskünfte zu barrierefreien Wahlräumen erhalten Sie unter der Telefonnummer: …… / …………………,  
-zu Hilfsmitteln für Blinde und Sehbehinderte unter der Telefonnummer: …… / …………………<span id="FnR.f802772_13"></span><a href="#f802772_13" class="FnR">6)</a></sup>
+zu Hilfsmitteln für Blinde und Sehbehinderte unter der Telefonnummer: …… / …………………<span id="FnR.f802772_13"></span><a href="#f802772_13" class="FnR">6)</a></sup>  
+Informationen in Leichter Sprache unter www.bundeswahlleiter.de/info/leichte-sprache.html
 
  
 
@@ -2407,7 +2463,7 @@ Sie sind im Wählerverzeichnis eingetragen und können im oben angegebenen Wahlr
 
  
 
-Wenn Sie durch Briefwahl oder in einem anderen Wahlraum Ihres Kreises/Ihrer kreisfreien Stadt wählen wollen, müssen Sie einen Wahlschein beantragen. Den Antrag können Sie mit dem Vordruck auf der Rückseite stellen. Er kann auch ohne Vordruck schriftlich, elektronisch oder mündlich (nicht telefonisch) gestellt werden. Dabei sind Familienname, Vornamen, Geburtsdatum und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) anzugeben; auch dann soll die unten mitgeteilte Nummer im Wählerverzeichnis angegeben werden. Der Antrag kann bei der zuständigen Gemeindebehörde abgegeben oder in einem frankierten Umschlag übersandt werden. Wahlscheinanträge werden von der Gemeindebehörde nur bis zum ………⁷) 18.00 Uhr entgegengenommen, bei nachgewiesener plötzlicher Erkrankung noch bis zum Wahltag um 15.00 Uhr.
+Wenn Sie durch Briefwahl oder in einem anderen Wahlraum Ihres Kreises/Ihrer kreisfreien Stadt wählen wollen, müssen Sie einen Wahlschein beantragen. Den Antrag können Sie mit dem Vordruck auf der Rückseite stellen. Er kann auch ohne Vordruck schriftlich, elektronisch oder mündlich (nicht telefonisch) gestellt werden. Dabei sind Familienname, Vornamen, Geburtsdatum und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) anzugeben; auch dann soll die unten mitgeteilte Nummer im Wählerverzeichnis angegeben werden. Der Antrag kann bei der zuständigen Gemeindebehörde abgegeben oder in einem frankierten Umschlag übersandt werden. Wahlscheinanträge werden von der Gemeindebehörde nur bis zum ………<a href="#f802772_14" class="FnR">7)</a></sup> 18.00 Uhr entgegengenommen, bei nachgewiesener plötzlicher Erkrankung noch bis zum Wahltag um 15.00 Uhr.
 
  
 
@@ -2415,7 +2471,7 @@ Wenn Sie durch Briefwahl oder in einem anderen Wahlraum Ihres Kreises/Ihrer krei
 
  
 
-Der Wahlschein mit Briefwahlunterlagen wird Ihnen auf dem Postweg übersandt oder überbracht. Sie können ihn auch persönlich bei der Gemeindebehörde abholen. Wer für einen anderen einen Wahlschein beantragt oder abholt, muss eine schriftliche Vollmacht des Wahlberechtigten vorlegen.
+Der Wahlschein mit Briefwahlunterlagen wird Ihnen auf dem Postweg übersandt oder überbracht. Sie können ihn auch persönlich bei der Gemeindebehörde abholen. Wer für einen anderen einen Wahlschein beantragt oder abholt, muss eine schriftliche Vollmacht des Wahlberechtigten vorlegen. Falls Ihnen die Briefwahlunterlagen nicht zugehen, muss ein neuer Wahlschein beantragt werden bis spätestens ……………… <a href="#f802772_14" class="FnR">7)</a></sup> , 12.00 Uhr.
 
  
 
@@ -2460,7 +2516,8 @@ Die Oberbürgermeisterin
 
 # Anlage 4 – (zu § 18 Absatz 2)
 
-(Fundstelle: BGBl. I 2018, 587)
+(Fundstelle: BGBl. I 2018, 587;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -2483,7 +2540,7 @@ oder bei Postversand im frankierten Umschlag absenden)
 
  
 
-Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern in einem anderen Wahlbezirk Ihres Kreises/Ihrer kreisfreien Stadt oder durch Briefwahl wählen wollen.
+Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern durch Briefwahl oder in einem anderen Wahlbezirk Ihres Kreises/Ihrer kreisfreien Stadt wählen wollen. Bei Wahl in einem Wahlraum muss dann der Wahlschein vorgelegt werden.
 
  
 
@@ -2495,7 +2552,7 @@ Gemeindebehörde<span id="FnR.FnA1-f802772_17"></span><a href="#FnA1-f802772_17"
 
 Antrag auf Erteilung eines Wahlscheins
 
-für die umseitig angegebene Wahl²)..........
+für die umseitig angegebene Wahl<a href="#FnA1-f802772_17" class="FnR">2)</a></sup> ..........
 
 (Nachstehende Angaben bitte in Druckschrift)
 
@@ -2517,7 +2574,7 @@ Anschrift: ..........
 
 .......... (Straße, Hausnummer, Postleitzahl, Ort)
 
-Der Wahlschein mit den Briefwahlunterlagen³)
+Der Wahlschein mit den Briefwahlunterlagen<a href="#FnA1-f802772_18" class="FnR">3)</a></sup>
 
  □  soll an meine obige Anschrift geschickt werden.
 
@@ -2541,7 +2598,7 @@ Vollmacht des Wahlberechtigten
 
  
 
-Ich bevollmächtige³)
+Ich bevollmächtige<a href="#FnA1-f802772_18" class="FnR">3)</a></sup>
 
  
 
@@ -2660,9 +2717,9 @@ Am .............................................................................
 
 1. die Staatsangehörigkeit eines der übrigen Mitgliedstaaten der Europäischen Union besitzen,
 
-2. das 18. Lebensjahr vollendet haben,
+2. das 16. Lebensjahr vollendet haben,
 
-3. seit mindestens drei Monaten in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union ¹) eine Wohnung innehaben oder sich mindestens seit dieser Zeit sonst gewöhnlich aufhalten (auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet),
+3. seit mindestens drei Monaten in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union <span id="FnR.bjnr14530988bjne013906377_01"></span><a href="#bjnr14530988bjne013906377_01" class="FnR">1)</a></sup> eine Wohnung innehaben oder sich mindestens seit dieser Zeit sonst gewöhnlich aufhalten (auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet),
 
 4. weder in der Bundesrepublik Deutschland noch in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit Sie besitzen, vom aktiven Wahlrecht zum Europäischen Parlament ausgeschlossen sind,
 
@@ -2695,12 +2752,6 @@ Mit dem Antrag auf Eintragung in das Wählerverzeichnis oder mit den Wahlvorschl
 |:-----------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
 | Ort, Datum ......................................... | Bezeichnung des Bundes- oder des Kreis- oder Stadtwahlleiters ..................................................... |
 
-  
-\_\_\_\_\_\_\_\_\_\_  
-
-¹)  
-Nicht zu berücksichtigen ist ein Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland nach dem Zeitpunkt, ab dem nach Artikel 50 Absatz 3 EUV die Verträge dort keine Anwendung mehr finden.
-
 # Anlage 7 – (zu § 23 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2581)
@@ -2724,7 +2775,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 |                                Stimmzettelumschlag für die Briefwahl                                 |
 | In diesen Stimmzettelumschlag nur den Stimmzettel einlegen, sodann den Stimmzettelumschlag zukleben. |
 
-Vorderseite des Stimmzettelumschlags für die Briefwahl \*) (DIN C6) blau
+Vorderseite des Stimmzettelumschlags für die Briefwahl<span id="FnR.BJNR014530988BJNE011203160_01"></span><a href="#BJNR014530988BJNE011203160_01" class="FnR">*)</a></sup>
 
 |                                                                                    |
 |:----------------------------------------------------------------------------------:|
@@ -2743,7 +2794,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite des Wahlbriefumschlags
 
-(etwa 12 x 17,6 cm) hellrot (maschinenlesbar)<span id="FnR.FnA1-bjnr014530988bjne011307377_02"></span><a href="#FnA1-bjnr014530988bjne011307377_02" class="FnR">7)</a></sup>
+hellrot (maschinenlesbar)<span id="FnR.FnA1-bjnr014530988bjne011307377_02"></span><a href="#FnA1-bjnr014530988bjne011307377_02" class="FnR">7)</a></sup>
 
 Rückseite des Wahlbriefumschlags
 
@@ -2810,7 +2861,7 @@ den Wahlschein,
 
 3\.
 
-den amtlichen blauen Stimmzettelumschlag,
+den amtlichen weißen Stimmzettelumschlag,
 
 2\.
 
@@ -2849,7 +2900,7 @@ Die Stimmabgabe bei der Briefwahl ist nur gültig, wenn in der unteren Hälfte d
 
 2\.
 
-Den Wahlschein nicht in den blauen Stimmzettelumschlag legen, sondern mit diesem in den roten Wahlbriefumschlag stecken. Sonst ist die Stimmabgabe ungültig.
+Den Wahlschein nicht in den weißen Stimmzettelumschlag legen, sondern mit diesem in den roten Wahlbriefumschlag stecken. Sonst ist die Stimmabgabe ungültig.
 
  
 
@@ -2858,6 +2909,10 @@ Den Wahlschein nicht in den blauen Stimmzettelumschlag legen, sondern mit diesem
 3\.
 
 Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
+
+ 
+
+Ein blinder oder sehbehinderter Wahlberechtigter kann sich zur Kennzeichnung des Stimmzettels einer Stimmzettelschablone bedienen, die von den Blindenverbänden kostenlos zur Verfügung gestellt wird. Zur Verwendung von Stimmzettelschablonen ist die rechte obere Ecke aller Stimmzettel gelocht oder abgeschnitten. Dies dient dem richtigen Anlegen der Stimmzettelschablonen. Auskünfte zu Stimmzettelschablonen erhalten Sie unter der Telefonnummer ………………
 
  
 
@@ -2887,21 +2942,14 @@ Wahlbriefe, die am Wahltag nach 18.00 Uhr bei der zuständigen Stelle eingehen, 
 <span id="FnA1-BJNR014530988BJNE011406160_01"></span><a href="#FnR.FnA1-BJNR014530988BJNE011406160_01" class="Footnote">*)</a>  
 Gemäß § 4 des Europawahlgesetzes in Verbindung mit § 36 Abs. 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
 
-  
-  
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 6%" /><col style="width: 57%" /><col style="width: 36%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">1.</td><td style="text-align: left;">Stimmzettel<span id="FnR.F826154_01"></span><a href="#F826154_01" class="FnR">*)</a></sup> persönlich ankreuzen.<br />
+Sie haben eine Stimme.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2023/j0119_0001.jpg" alt="Abbildung eines weißen Stimmzettels mit der Aufschrift „Stimmzettel, Sie haben eine Stimme“" /></td></tr><tr class="even"><td style="text-align: center;">2.</td><td style="text-align: left;">Stimmzettel in weißen Stimmzettelumschlag legen und zukleben.<br />
+(Die weißen Stimmzettelumschläge kommen später ungeöffnet in die Wahlurne.)</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2023/j0119_0002.jpg" alt="Abbildung eines weißen Umschlags, in welchem ein weißer Stimmzettel mit der Aufschrift „Stimmzettel, Sie haben eine Stimme“ eingeschoben steckt" /></td></tr><tr class="odd"><td style="text-align: center;">3.</td><td style="text-align: left;">Die „Versicherung an Eides statt zur Briefwahl“ auf dem Wahlschein mit Datumsangabe persönlich unterschreiben.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2023/j0119_0003.jpg" alt="Abbildung eines Wahlscheins mit der Aufschrift (Wahlschein für die Wahl zum Europäischen Parlament“ und darunter nach zwei gestrichelten Linien folgt die Aufschrift „Achtung! Versicherung an Eides Statt zur Briefwahl“" /></td></tr><tr class="even"><td style="text-align: center;">4.</td><td style="text-align: left;">Wahlschein zusammen mit weißem Stimmzettelumschlag in den roten Wahlbriefumschlag stecken.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2023/j0119_0004.jpg" /></td></tr><tr class="odd"><td style="text-align: center;">5.</td><td style="text-align: left;">Roten Wahlbriefumschlag zukleben, unfrankiert<br />
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<span id="FnR.F826154_02"></span><a href="#F826154_02" class="FnR">**)</a></sup> geben<br />
+(außerhalb der Bundesrepublik Deutschland: frankiert) oder in der darauf angegebenen Stelle abgeben.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2023/j0119_0005.jpg" alt="Abbildung eines rosafarbenen verschlossenen Umschlags mit der Aufschrift links oben „Ausgabestelle sowie zwei gestrichelte Linien“, rechts oben ein Frankiervermerk mit der Aufschrift „Unentgeltliche Beförderung in Deutschland durch“ und in der Mitte die Aufschrift „Wahlbrief An die Gemeindebehörde“ und darunter eine Linie" /></td></tr></tbody></table>
 
-|     |                                                                                                                                                                 |                                    |
-|:----|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------|
-| 1\. | Stimmzettel persönlich ankreuzen. Sie haben eine Stimme.                                                                                                        | ... (nicht darstellbare Abbildung) |
-| 2\. | Stimmzettel in blauen Stimmzettelumschlag legen und zukleben. (Die blauen Stimmzettelumschläge kommen später ungeöffnet in die Wahlurne.)                       | ... (nicht darstellbare Abbildung) |
-| 3\. | Die „Versicherung an Eides statt zur Briefwahl“ auf dem Wahlschein mit Datumsangabe persönlich unterschreiben.                                                  | ... (nicht darstellbare Abbildung) |
-| 4\. | Wahlschein zusammen mit blauem Stimmzettelumschlag in den roten Wahlbriefumschlag stecken.                                                                      | ... (nicht darstellbare Abbildung) |
-| 5\. | Roten Wahlbriefumschlag zukleben, unfrankiert ...\*) geben (außerhalb der Bundesrepublik Deutschland: frankiert) oder in der darauf angegebenen Stelle abgeben. | ... (nicht darstellbare Abbildung) |
-
-Rückseite des Merkblatts zur Briefwahl Wegweiser für die Briefwahl
-
-  
-Beachten Sie bitte, dass der Stimmzettel unbeobachtet zu kennzeichnen und in den Stimmzettelumschlag zu legen ist!
+Beachten Sie bitte, dass der Stimmzettel unbeobachtet zu kennzeichnen  
+und in den Stimmzettelumschlag zu legen ist!
 
 Innerhalb der Bundesrepublik Deutschland sollte der Wahlbrief spätestens drei Werktage vor der Wahl (Donnerstag, den ... 20 ..), bei entfernt liegenden Orten noch früher, bei ...<span id="FnR.FnA1-BJNR014530988BJNE011406160_01"></span><a href="#FnA1-BJNR014530988BJNE011406160_01" class="FnR">*)</a></sup> eingeliefert werden. Die Versendung durch . . . . . . . . . . \*) innerhalb der Bundesrepublik Deutschland ist unentgeltlich. Wird eine besondere Beförderungsform gewünscht, so muss das dafür fällige - zusätzliche - Leistungsentgelt entrichtet werden.
 
@@ -3205,13 +3253,15 @@ Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen
 
 # Anlage 17 – (zu § 32 Abs. 4 Nr. 3)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 2601 - 2603)
+(Fundstelle des Originaltextes: BGBl. I 2003, 2601 - 2603;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 usw.
 
 # Anlage 18 – (zu § 32 Abs. 4 Nr. 3)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 2604 - 2606)
+(Fundstelle des Originaltextes: BGBl. I 2003, 2604 - 2606;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 usw.
 
@@ -3248,20 +3298,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 25 – (zu § 65 Absatz 1)
 
-(Fundstelle: BGBl. I 2018, 594 - 605)
-
-  
-  
+(Fundstelle: BGBl. 2023 I Nr. 119, S. 9 - 21)
 
 Wahlniederschrift  
 über die Ermittlung und Feststellung des Ergebnisses der Wahl im Wahlbezirk  
 bei der Wahl zum Europäischen Parlament
 
-am ..........
+am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 1. Wahlvorstand
 
-Zu der Wahl zum Europäischen Parlament waren für den Wahlbezirk vom Wahlvorstand erschienen:
+Zu der Wahl zum Europäischen Parlament waren für den Wahlbezirk vom Wahlvorstand erschienen:  
+  
 
 Familienname
 
@@ -3375,7 +3423,7 @@ Zahl der Wahlkabinen oder Tische mit Sichtblenden:
 
  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -3395,7 +3443,7 @@ Zahl der Nebenräume:
 
  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -3429,24 +3477,12 @@ Vorbereitung der Wahlurne
 
  
 
-Der Wahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war.
+Der Wahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war. Sodann wurde die Wahlurne
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Sodann wurde die Wahlurne
-
- 
-
+  
+  
 (Bitte Zutreffendes ankreuzen:)
 
  
@@ -3495,7 +3531,7 @@ Mit der Stimmabgabe wurde um
  
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">(Bitte eintragen:)<br />
-.......... Uhr .......... Minuten begonnen.</td><td style="text-align: right;"> </td></tr></tbody></table>
+. . . . . . . Uhr . . . . . . . Minuten begonnen.</td><td style="text-align: right;"> </td></tr></tbody></table>
 
  
 
@@ -3579,7 +3615,7 @@ Ungültigkeit von Wahlscheinen
 
  □ 
 
-Der Wahlvorstand hat eine Mitteilung über die Ungültigkeit von Wahlscheinen nicht erhalten.
+Der Wahlvorsteher hat eine Mitteilung über die Ungültigkeit von Wahlscheinen nicht erhalten.
 
  
 
@@ -3591,7 +3627,7 @@ Der Wahlvorstand hat eine Mitteilung über die Ungültigkeit von Wahlscheinen ni
 
  □ 
 
-Der Wahlvorstand wurde vom
+Der Wahlvorsteher wurde vom
 
  
 
@@ -3603,7 +3639,7 @@ Der Wahlvorstand wurde vom
 
  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -3627,7 +3663,8 @@ unterrichtet, dass folgende(r) Wahlschein(e) für ungültig erklärt worden ist/
 
  
 
-.......... (Bitte Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nummer eintragen)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Bitte Vor- und Familienname des Wahlschein-  
+inhabers sowie Wahlschein-Nummer eintragen)
 
  
 
@@ -3663,7 +3700,7 @@ Im Wahlbezirk
 
  □ 
 
-war kein beweglicher Wahlvorstand tätig. (Weiter bei Punkt 2.8)
+war kein beweglicher Wahlvorstand tätig. (weiter bei Punkt 2.8)
 
  
 
@@ -3688,7 +3725,8 @@ Im Wahlbezirk befindet sich
 
  □ 
 
-das kleinere Krankenhaus/Alten- oder Pflegeheim
+das kleinere Krankenhaus/Alten- oder  
+Pflegeheim
 
  
 
@@ -3700,7 +3738,7 @@ das kleinere Krankenhaus/Alten- oder Pflegeheim
 
  
 
-.......... ,  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,  
 (Bezeichnung)
 
  
@@ -3725,7 +3763,7 @@ das Kloster
 
  
 
-.......... ,  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,  
 (Bezeichnung)
 
  
@@ -3750,7 +3788,7 @@ die sozialtherapeutische Anstalt
 
  
 
-.......... ,  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,  
 (Bezeichnung)
 
  
@@ -3775,7 +3813,7 @@ die Justizvollzugsanstalt
 
  
 
-.......... ,  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,  
 (Bezeichnung)
 
  
@@ -3796,7 +3834,7 @@ für das/die die Gemeinde die Stimmabgabe vor einem beweglichen Wahlvorstand zug
 
  
 
-Die personelle Zusammensetzung des/der beweglichen Wahlvorstandes/Wahlvorstände für die einzelne(n) Anstalt(en) (drei Mitglieder des Wahlvorstandes einschließlich des Wahlvorstehers oder seines Stellvertreters) ist aus den dieser Niederschrift als
+Die personelle Zusammensetzung des beweglichen Wahlvorstandes/der beweglichen Wahlvorstände für die einzelne(n) Anstalt(en) (drei Mitglieder des Wahlvorstandes einschließlich des Wahlvorstehers oder seines Stellvertreters) ist aus den dieser Niederschrift als
 
  
 
@@ -3806,7 +3844,7 @@ Die personelle Zusammensetzung des/der beweglichen Wahlvorstandes/Wahlvorstände
 
  
 
-Anlagen Nr. .......... bis .......... beigefügten besonderen Niederschriften ersichtlich.
+Anlagen Nr. . . . . . . . . . . . . . . . bis . . . . . . . . . . . . . . . beigefügten besonderen Niederschriften ersichtlich.
 
  
 
@@ -3916,7 +3954,7 @@ waren nicht zu verzeichnen.
 
  □ 
 
-waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von Wählern in den Fällen des § 49 Absatz 6 und 7 und des § 52 der Europawahlordnung) wurden Niederschriften angefertigt, die als Anlagen
+waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von Wählern in den Fällen des § 49 Absatz 6 und 7 und des § 52 der Europawahlordnung, Unterbrechung der Wahlhandlung) wurden Niederschriften angefertigt, die als Anlagen
 
  
 
@@ -3943,7 +3981,7 @@ waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von W
  
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;"><br />
-Nr. .......... bis .......... beigefügt sind.</td><td style="text-align: right;"> </td></tr></tbody></table>
+Nr. ……… bis ……… beigefügt sind.</td><td style="text-align: right;"> </td></tr></tbody></table>
 
  
 
@@ -3965,7 +4003,7 @@ Ablauf der Wahlzeit
 
  
 
-Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die im Wahlraum anwesenden Wahlberechtigten zur Stimmabgabe zugelassen. Der Zutritt zum Wahlraum wurde so lange gesperrt, bis der letzte der anwesenden Wähler seine Stimme abgegeben hatte. Sodann wurde die Öffentlichkeit wieder hergestellt.
+Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die Wähler zur Stimmabgabe zugelassen, die vor Ablauf der Wahlzeit erschienen waren und sich im Wahlraum oder aus Platzgründen davor befanden. Nach Ablauf der Wahlzeit eintreffenden Personen wurde der Zutritt zur Stimmgabe gesperrt. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben hatten, erklärte der Wahlvorsteher die Wahlhandlung für geschlossen.
 
  
 
@@ -3986,7 +4024,7 @@ Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurde
  
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;"><br />
-Um .......... Uhr .......... Minuten</td><td style="text-align: right;"> </td></tr></tbody></table>
+Um ……… Uhr ……… Minuten</td><td style="text-align: right;"> </td></tr></tbody></table>
 
  
 
@@ -4049,7 +4087,7 @@ Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
 
 3.1
 
-Leitung der Ergebnisfeststellung; Öffnung der Wahlurne
+Leitung der Ergebnisfeststellung
 
  
 
@@ -4075,75 +4113,9 @@ Die Ermittlung und Feststellung des Wahlergebnisses wurden unmittelbar im Anschl
 
  
 
- 
-
-Zunächst wurde die Wahlurne geöffnet; die Stimmzettel wurden entnommen.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Sie wurden mit dem Inhalt der Wahlurne(n) des/der beweglichen Wahlvorstandes/Wahlvorstände vermischt.
-
- 
-
-  
-  
-(Bitte Zutreffendes ankreuzen:)
-
- 
-
- 
-
- 
-
- 
-
- □ 
-
-ja  
-(kann nur zutreffen, wenn ein beweglicher Wahlvorstand tätig war; siehe dazu oben Punkt 2.7 und 2.8)
-
- 
-
- 
-
- 
-
- 
-
- □ 
-
-nein  
-(kann nur zutreffen, wenn kein beweglicher Wahlvorstand tätig war; siehe dazu oben Punkt 2.7 und 2.8)
-
- 
-
- 
-
-Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war.
-
- 
-
- 
-
- 
-
- 
-
- 
-
 3.2
 
-Zahl der Wähler
+Zahl der Wähler, Öffnung der Wahlurne
 
  
 
@@ -4157,65 +4129,7 @@ Zahl der Wähler
 
  
 
-a) Sodann wurden die Stimmzettel gezählt.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Die Zählung ergab
-
- 
-
-(Bitte Zahl eintragen:)
-
- 
-
- 
-
- 
-
- 
-
-.......... Stimmzettel (= Wähler insgesamt)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Diese Zahl hinten in Abschnitt 4 bei ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0010.jpg) eintragen.
-
- 
-
- 
-
- 
-
-b) Daraufhin wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt.
+a) Zunächst wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt.
 
  
 
@@ -4243,13 +4157,15 @@ Die Zählung ergab
 
  
 
-.......... Stimmabgabevermerke
+………… Stimmabgabevermerke
 
  
 
  
 
-c) Dann wurden die eingenommenen Wahlscheine gezählt.
+ 
+
+b) Dann wurden die eingenommenen Wahlscheine gezählt.
 
  
 
@@ -4267,7 +4183,7 @@ Die Zählung ergab
 
  
 
-.......... Wahlscheine (= Wähler mit Wahlschein)
+………… Wahlscheine (= Wähler mit Wahlschein)
 
  
 
@@ -4289,8 +4205,10 @@ Die Zählung ergab
 
  
 
-Diese Zahl hinten in Abschnitt 4 bei ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0020.jpg)  
-eintragen.
+ 
+
+Diese Zahl hinten in Abschnitt 4 bei  
+![Kästchen mit der Inschrift B1, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0010.jpg) eintragen.
 
  
 
@@ -4298,11 +4216,381 @@ eintragen.
 
  
 
-b) + c) zusammen ergab
+ 
 
  
 
-.......... Personen.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c) Die Feststellung der Zahl der Stimmabgabevermerke im Wählerverzeichnis und der eingenommenen Wahlscheine ergab, dass
+
+ 
+
+  
+  
+ □ 
+
+  
+  
+mindestens 30 Wähler ihre Stimme abgegeben haben  
+(weiter bei Punkt 3.2. e)).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+weniger als 30 Wähler ihre Stimme abgegeben haben, der Kreis- oder Stadtwahlleiter wurde unterrichtet  
+(weiter bei Punkt 3.2. d)).
+
+ 
+
+ 
+
+d) Weil weniger als 30 Wähler ihre Stimme abgegeben haben, hat der Kreis- oder Stadtwahlleiter nach § 61 Absatz 2 der Europawahlordnung die gemeinsame Ermittlung und Feststellung des Wahlergebnisses mit einem von ihm bestimmten anderen Wahlvorstand
+
+ 
+
+  
+  
+  
+  
+  
+um ……… Uhr ……… Minuten angeordnet.
+
+ 
+
+ 
+
+Der Wahlvorstand des Wahlbezirks mit weniger als 30 Wähler (abgebender Wahlvorstand)
+
+ 
+
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (abgebender Wahlvorstand/  
+Name oder Nummer des Wahlbezirks)
+
+ 
+
+ 
+
+hat die verschlossene Wahlurne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+die aus der Wahlurne entnommenen, ungesichteten und in einem separaten Umschlag verschlossenen und versiegelten Stimmzettel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+zusammen mit der Abschlussbeurkundung, dem Wählerverzeichnis und den eingenommenen Wahlscheinen dem vom Kreis- oder Stadtwahlleiter bestimmten Wahlvorstand (aufnehmender Wahlvorstand) übergeben.
+
+ 
+
+  
+  
+  
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (aufnehmender Wahlvorstand/  
+Name oder Nummer des Wahlbezirks)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Zutreffendes bitte ankreuzen:)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Die Übergabe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+der verschlossenen Wahlurne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+des versiegelten Umschlages mit den Stimmzetteln
+
+ 
+
+ 
+
+ 
+
+ 
+
+erfolgte um ……… Uhr ……… Minuten.
+
+ 
+
+ 
+
+ 
+
+Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses erfolgt. Bei Transport der zu übergebenden Gegenstände waren der Wahlvorsteher und der Schriftführer, ein weiteres Mitglied des Wahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertretende der Öffentlichkeit anwesend.
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+ □ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+Bitte durch Ankreuzen bestätigen.(weiter bei Punkt 5.4)
+
+ 
+
+ 
+
+ 
+
+e) Sodann wurde die Wahlurne geöffnet; die eingenommenen Stimmzettel wurden entnommen. Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f)  Der Inhalt der Wahlurne wurde vor dem Auszählen mit dem Inhalt einer anderen Wahlurne vermischt, weil
+
+ 
+
+  
+  
+(Soweit zutreffend, ankreuzen, sonst weiter bei Punkt 3.2.g)).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+im Wahlbezirk/Sonderwahlbezirk ein beweglicher Wahlvorstand tätig war.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+aufgrund der Anordnung des Kreis- oder Stadtwahlleiters von ………… Uhr ………… Minuten die in der verschlossenen Wahlurne oder in einem verschlossenen Umschlag transportierten Stimmzettel, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine des
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (abgebender Wahlvorstand/  
+Name oder Nummer des Wahlbezirks)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+um ………… Uhr ………… Minuten zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses übernommen wurden.
+
+ 
+
+ 
+
+Bei der Zahl der Wähler (3.2.a), b) und g)) und der Zahl der Wahlberechtigten (3.3) sind die Zahlen aus den Wählerverzeichnissen, Abschlussbeurkundungen, eingenommenen Wahlscheinen und Stimmzetteln des abgebenden und des aufnehmenden Wahlvorstands zusammenzuzählen.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nach der Vermischung sind die Stimmzettel gemeinsam auszuzählen (ab 3.2.g)).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g) Sodann wurden die Stimmzettel gezählt.
+
+ 
+
+(Bitte Zahl eintragen:)
+
+ 
+
+ 
+
+ 
+
+Die Zählung ergab
+
+ 
+
+…………… Stimmzettel (= Wähler insgesamt)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diese Zahl hinten in Abschnitt 4 bei ![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg) eintragen.
+
+ 
+
+ 
+
+ 
+
+Die Zahl a) + b) ergab
+
+ 
+
+…………… Personen.
 
  
 
@@ -4326,7 +4614,7 @@ b) + c) zusammen ergab
 
  □ 
 
-Die Gesamtzahl b) + c) stimmte mit der Zahl der Stimmzettel unter a) überein.
+Die Gesamtzahl a) + b) stimmte mit der Zahl der Stimmzettel unter g) überein.
 
  
 
@@ -4338,7 +4626,9 @@ Die Gesamtzahl b) + c) stimmte mit der Zahl der Stimmzettel unter a) überein.
 
  □ 
 
-Die Gesamtzahl b) + c) war
+Die Gesamtzahl a) + b) war
+
+ 
 
  
 
@@ -4358,7 +4648,15 @@ um …………… (Anzahl) größer
 
  
 
+ 
+
+ 
+
 um …………… (Anzahl) kleiner
+
+ 
+
+ 
 
  
 
@@ -4378,7 +4676,13 @@ als die Zahl der Stimmzettel.
 
  
 
+ 
+
+ 
+
 Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen:
+
+ 
 
  
 
@@ -4400,7 +4704,7 @@ Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt
 
  
 
-.......... .......... .......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -4435,7 +4739,7 @@ die Zahl der Wahlberechtigten hinten in Abschnitt 4 unter
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0030.jpg)  der Wahlniederschrift.
+![Kästchen mit der Inschrift A1 plus A 2, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0008.jpg)  der Wahlniederschrift.
 
  
 
@@ -4481,7 +4785,7 @@ Nunmehr bildeten mehrere Beisitzer unter Aufsicht des Wahlvorstehers folgende St
 
 a) die nach den Wahlvorschlägen getrennten Stapel mit den Stimmzetteln mit zweifelsfrei gültiger Stimme,
 
-b) einen Stapel mit den ungekennzeichneten Stimmzetteln
+b) einen Stapel mit den ungekennzeichneten Stimmzetteln,
 
 c) einen Stapel mit den Stimmzetteln, die Anlass zu Bedenken gaben und über die später vom Wahlvorstand Beschluss zu fassen war.
 
@@ -4593,7 +4897,7 @@ Die so ermittelten Stimmenzahlen wurden als Zwischensummen I (ZS I) vom Schriftf
   
   
   
-(Nach Eintragung durch Ankreuzen bestätigen)
+Nach Eintragung durch Ankreuzen bestätigen.
 
  
 
@@ -4633,7 +4937,7 @@ Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den b
 
  
 
-Danach ergab sich Übereinstimmung zwischen den Zählungen.
+Danach ergab sich eine Übereinstimmung zwischen den Zählungen.
 
  
 
@@ -4641,7 +4945,7 @@ Danach ergab sich Übereinstimmung zwischen den Zählungen.
  □
 
   
-(Bitte durch Ankreuzen bestätigen)
+Bitte durch Ankreuzen bestätigen.
 
  
 
@@ -4651,7 +4955,7 @@ Zum Schluss entschied der Wahlvorstand über die Gültigkeit der Stimmen, die au
 
  
 
-(Zwischensummenbildung ZS II)
+(Zwischensummenbildung II)
 
  
 
@@ -4663,11 +4967,13 @@ Die so ermittelten gültigen oder ungültigen Stimmen wurden als Zwischensummen 
 
   
   
+  
  □
 
   
   
-(Nach Eintragung durch Ankreuzen bestätigen)
+  
+Nach Eintragung durch Ankreuzen bestätigen.
 
  
 
@@ -4701,7 +5007,7 @@ Sammlung und Beaufsichtigung der Stimmzettel
 
 Die vom Wahlvorsteher bestimmten Beisitzer sammelten
 
-a) die Stimmzettel getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,
+a) die Stimmzettel getrennt nach den Wahlvorschlägen, denen sie zugefallen waren,
 
 b) die ungekennzeichneten Stimmzettel und
 
@@ -4717,7 +5023,7 @@ b) die ungekennzeichneten Stimmzettel und
 
  
 
-c) die Stimmzettel, die Anlass zu Bedenken gegeben hatten,
+c) die Stimmzettel, die Anlass zu Bedenken gegeben hatten
 
  
 
@@ -4731,7 +5037,7 @@ c) die Stimmzettel, die Anlass zu Bedenken gegeben hatten,
 
  
 
-je für sich und behielten sie unter Ihrer Aufsicht.
+je für sich und behielten sie unter ihrer Aufsicht.
 
  
 
@@ -4777,7 +5083,7 @@ Die in c) bezeichneten Stimmzettel sind als Anlagen unter den fortlaufenden Numm
 
  
 
-.......... bis .......... 
+. . . . . . . . . . . . . . . . bis . . . . . . . . . . . . . . . . 
 
  beigefügt.
 
@@ -4811,9 +5117,7 @@ Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde
   
   
   
-(Bitte durch Ankreuzen bestätigen)
-
- 
+Bitte durch Ankreuzen bestätigen.
 
  
 
@@ -4858,85 +5162,79 @@ Wahlergebnis
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0040.jpg)    Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein)<span id="FnR.f802772_20"></span><a href="#f802772_20" class="FnR">1)</a></sup>
+![Kästchen mit der Inschrift A1, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0006.jpg)    Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein)<span id="FnR.F826154_03"></span><a href="#F826154_03" class="FnR">1)</a></sup>
 
  
 
   
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0050.jpg)    Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein)¹)
-
- 
-
-  
-..........
-
- 
-
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0060.jpg) im Wählerverzeichnis insgesamt  
-eingetragene Wahlberechtigte¹)
+![Kästchen mit der Inschrift A2, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0007.jpg)    Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein)<a href="#F826154_03" class="FnR">1)</a></sup>
 
  
 
   
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0070.jpg)    Wähler insgesamt  
-\[vgl. oben 3.2 a)\]
-
- 
-
-  
-..........
-
- 
-
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0080.jpg)    darunter Wähler mit Wahlschein  
-\[vgl. oben 3.2 c)\]
+![Kästchen mit der Inschrift A1 plus A 2, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0008.jpg) Im Wählerverzeichnis insgesamt  
+eingetragene Wahlberechtigte<a href="#F826154_03" class="FnR">1)</a></sup>
 
  
 
   
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
-|                                                                                                                                                                                           |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                              Ergebnis der Wahl im Wahlbezirk                                                                              |
-| Summe ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0090.jpg) + ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0100.jpg) muss mit ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0110.jpg) übereinstimmen. |
+ 
+
+![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg)    Wähler insgesamt  
+\[vgl. oben 3.2.g)\]
+
+ 
 
   
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 
+
+ 
+
+![Kästchen mit der Inschrift B1, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0010.jpg)    Darunter Wähler mit Wahlschein  
+\[vgl. oben 3.2.b)\]
+
+ 
+
   
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                                                                                                                                          Ergebnis der Wahl im Wahlbezirk                                                                                                                                                                                                                                           |
+| Summe  ![Kästchen mit der Inschrift C, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0011.jpg)  + ![Kästchen mit der Inschrift D, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0012.jpg)  muss mit  ![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg)  übereinstimmen. |
 
 |     |                   |      |       |           |
 |:---:|:------------------|:----:|:-----:|:---------:|
 |     |                   | ZS I | ZS II | Insgesamt |
 |  C  | Ungültige Stimmen |      |       |           |
 
-  
-  
-
 Gültige Stimmen:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 7%" /><col style="width: 40%" /><col style="width: 17%" /><col style="width: 17%" /><col style="width: 19%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;"> </td><td>Von den gültigen Stimmen entfielen auf den Wahlvorschlag<br />
-(Wahlvorschläge in der im Stimmzettel aufgeführten Reihenfolge mit Kurzbezeichnung und Kennwort – laut Stimmzettel –)</td><td style="text-align: center;">ZS I</td><td style="text-align: center;">ZS II</td><td style="text-align: center;">Insgesamt</td></tr><tr class="even"><td style="text-align: center;">D1</td><td>1. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D2</td><td>2. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">D3</td><td>3. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D4</td><td>4. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;"> </td><td>usw.</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;"><br />
+(Wahlvorschläge in der im Stimmzettel aufgeführten Reihenfolge mit Kurzbezeichnung und Kennwort – laut Stimmzettel –)</td><td style="text-align: center;">ZS I</td><td style="text-align: center;">ZS II</td><td style="text-align: center;">Insgesamt</td></tr><tr class="even"><td style="text-align: center;">D1</td><td>1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D2</td><td>2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">D3</td><td>3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D4</td><td>4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;"> </td><td>usw.</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;"><br />
 D<br />
 </td><td><br />
-Gültige  Stimmen insgesamt<br />
+Gültige Stimmen insgesamt<br />
 </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr></tbody></table>
 
 5\.
@@ -4955,7 +5253,7 @@ Abschluss der Wahlergebnisfeststellung
 
 5.1
 
-Besondere Vorkommnisse bei der Ergebnisfeststellung
+Besondere Vorkommnisse bei der Wahlergebnisfeststellung
 
  
 
@@ -4975,7 +5273,7 @@ Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vork
 
   
   
-.......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -4988,7 +5286,7 @@ Der Wahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: right;"><br />
 </td></tr></tbody></table>
 
-.......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -5040,7 +5338,7 @@ Das/Die Mitglied(er) des Wahlvorstandes
 
  
 
-.......... (Vor- und Familienname)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Vor- und Familienname)
 
  
 
@@ -5051,7 +5349,7 @@ beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der
  
 
   
-.......... .......... .......... (Angabe der Gründe)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Angabe der Gründe)
 
  
 
@@ -5074,7 +5372,7 @@ Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.4) wiederholt. Das in Abschni
 
  □ 
 
-mit dem gleichen Ergebnis erneut festgestellt
+mit dem gleichen Ergebnis erneut festgestellt.
 
  
 
@@ -5086,8 +5384,7 @@ mit dem gleichen Ergebnis erneut festgestellt
 
  □ 
 
-berichtigt  
-(Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben bitte nicht löschen oder radieren.)
+berichtigt. (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben bitte nicht löschen oder radieren.)
 
  
 
@@ -5138,7 +5435,7 @@ auf schnellstem Wege (z. B. telefonisch)
 
  
 
-.......... (Bitte Art der Übermittlung eintragen) an
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Bitte Art der Übermittlung angeben)
 
  
 
@@ -5148,7 +5445,17 @@ auf schnellstem Wege (z. B. telefonisch)
 
  
 
-.......... übermittelt. (Bitte Empfänger eintragen)
+an  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Bitte Empfänger eintragen)
+
+ 
+
+ 
+
+ 
+
+ 
+
+übermittelt.
 
  
 
@@ -5322,7 +5629,7 @@ Das/Die Mitglied(er) des Wahlvorstandes
 
  
 
-.......... (Vor- und Familienname)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Vor- und Familienname)
 
  
 
@@ -5333,7 +5640,7 @@ verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
  
 
   
-.......... .......... .......... (Angabe der Gründe)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Angabe der Gründe)
 
  
 
@@ -5403,7 +5710,7 @@ Dem Beauftragten der Gemeindebehörde wurden
 
  
 
-am ……………………, um ……… Uhr, übergeben
+am …………………… um ……… Uhr übergeben
 
 –  
 diese Wahlniederschrift mit Anlagen,
@@ -5440,7 +5747,7 @@ Der Wahlvorsteher
 
  
 
-.......... 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
  
 
  
@@ -5479,14 +5786,14 @@ Der Wahlvorsteher
 
  
 
-Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
+Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am . . . . . . . . . . . . . . . . ., um . . . . . . . . . . . . . . . . ., Uhr, auf Vollständigkeit überprüft und übernommen.
 
  
 
  
 
   
-.......... (Unterschrift des Beauftragten der Gemeindebehörde)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Unterschrift des Beauftragten der Gemeindebehörde)
 
  
 
@@ -5500,8 +5807,6 @@ Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen dari
 
  
 
-  
-  
 Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
 
  
@@ -5513,22 +5818,25 @@ Fundstelle: BGBl. I 2003, 2622)
 
 # Anlage 27 – (zu § 68 Absatz 5)
 
-(Fundstelle: BGBl. I 2018, 606 - 615)
-
-  
-  
+(Fundstelle: BGBl. 2023 I Nr. 119, S. 22 - 33)
 
 Wahlniederschrift  
 über die Ermittlung und Feststellung des Ergebnisses der Briefwahl  
 bei der Wahl zum Europäischen Parlament
 
-am ..........
+am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 1. Briefwahlvorstand
 
-Zu der Wahl zum Europäischen Parlament waren zur Ermittlung und Feststellung des Ergebnisses der Briefwahl vom Briefwahlvorstand erschienen:
+Zu der Wahl zum Europäischen Parlament waren zur Ermittlung und Feststellung des Ergebnisses der Briefwahl vom Briefwahlvorstand erschienen:  
+  
 
 Familienname
+
+<!-- -->
+
+<span id="FnA1-F826154_04"></span><a href="#FnR.FnA1-F826154_04" class="Footnote">1)</a>  
+Eintragung je nachdem, ob der Briefwahlvorstand auf der Ebene eines Kreises oder einer oder mehrerer Gemeinden eingesetzt ist.
 
 2\.
 
@@ -5566,7 +5874,7 @@ damit, dass er die anwesenden Mitglieder des Briefwahlvorstandes auf ihre Verpfl
  
 
 (Bitte Uhrzeit eintragen:)  
-.......... Uhr .......... Minuten
+…………… Uhr …………… Minuten
 
  
 
@@ -5654,7 +5962,7 @@ Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom
  
 
 (Bitte die zuständige Stelle eintragen:)  
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -5674,7 +5982,7 @@ Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom
 
  
 
-.......... Wahlbriefe übergeben worden sind.
+…………… Wahlbriefe übergeben worden sind.
 
  
 
@@ -5708,7 +6016,7 @@ eine Mitteilung, dass keine Wahlscheine für ungültig erklärt worden sind, üb
 
  □ 
 
-.......... (Anzahl) Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine übergeben worden ist/sind
+……………… (Anzahl) Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine übergeben worden ist/sind
 
  
 
@@ -5720,13 +6028,13 @@ eine Mitteilung, dass keine Wahlscheine für ungültig erklärt worden sind, üb
 
  □ 
 
-.......... (Anzahl) Nachtrag/Nachträge zu diesem/n Verzeichnis/Verzeichnissen übergeben worden ist/sind.
+……………… (Anzahl) Nachtrag/Nachträge zu diesem/n Verzeichnis/Verzeichnissen übergeben worden ist/sind.
 
  
 
  
 
-Die in dem/den Verzeichnis/Verzeichnissen der für ungültig erklärten Wahlscheine und in dem/den Nachträgen zu diesem/n Verzeichnis/Verzeichnissen aufgeführten Wahlbriefe wurden ausgesondert und später dem Briefwahlvorstand zur Beschlussfassung vorgelegt (siehe unten unter Punkt 2.5).
+Die in dem/den Verzeichnis/Verzeichnissen der für ungültig erklärten Wahlscheine und in dem/den Nachtrag/Nachträgen zu diesem/n Verzeichnis/Verzeichnissen aufgeführten Wahlbriefe wurden ausgesondert und später dem Briefwahlvorstand zur Beschlussfassung vorgelegt (siehe unten unter Punkt 2.5).
 
  
 
@@ -5787,8 +6095,8 @@ Nein, es wurden keine noch vor Schluss der Wahlzeit eingegangenen Wahlbriefe üb
 
 Ja, es wurden noch vor Schluss der Wahlzeit eingegangene Wahlbriefe überbracht. (Bitte die weiteren Eintragungen vornehmen:)  
 Ein Beauftragter des/der  
-.......... überbrachte um .......... Uhr .......... Minuten  
-weitere .......... (Anzahl) Wahlbriefe.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . überbrachte um ……… Uhr ………… Minuten  
+weitere …………… (Anzahl) Wahlbriefe.
 
  
 
@@ -5851,7 +6159,7 @@ keine Wahlbriefe beanstandet. Nachdem weder der Wahlschein noch der Stimmzettelu
 
  □ 
 
-insgesamt .......... (Anzahl) Wahlbriefe beanstandet. (weiter bei Punkt 2.5.3)
+insgesamt …………… (Anzahl) Wahlbriefe beanstandet. (weiter bei Punkt 2.5.3.)
 
  
 
@@ -5871,7 +6179,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil dem Wahlbriefumschlag kein oder kein gültiger Wahlschein beigelegen hat,
+……… Wahlbriefe, weil dem Wahlbriefumschlag kein oder kein gültiger Wahlschein beigelegen hat,
 
  
 
@@ -5881,7 +6189,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil dem Wahlbriefumschlag kein Stimmzettelumschlag beigefügt war,
+……… Wahlbriefe, weil dem Wahlbriefumschlag kein Stimmzettelumschlag beigefügt war,
 
  
 
@@ -5891,7 +6199,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen waren,
+……… Wahlbriefe, weil weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen waren,
 
  
 
@@ -5901,7 +6209,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht die gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an Eides statt versehener Wahlscheine enthält,
+……… Wahlbriefe, weil der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht die gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an Eides statt versehener Wahlscheine enthält,
 
  
 
@@ -5911,7 +6219,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an Eides statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
+……… Wahlbriefe, weil der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an Eides statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
 
  
 
@@ -5921,7 +6229,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil kein amtlicher Stimmzettelumschlag benutzt worden war,
+……… Wahlbriefe, weil kein amtlicher Stimmzettelumschlag benutzt worden war,
 
  
 
@@ -5931,7 +6239,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-.......... Wahlbriefe, weil ein Stimmzettelumschlag benutzt worden war, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abwich oder einen deutlich fühlbaren Gegenstand enthalten hat.
+……… Wahlbriefe, weil ein Stimmzettelumschlag benutzt worden war, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abwich oder einen deutlich fühlbaren Gegenstand enthalten hat.
 
  
 
@@ -5941,7 +6249,7 @@ Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
 
  
 
-Insgesamt: .......... (Anzahl) Wahlbriefe
+Insgesamt: …………… (Anzahl) Wahlbriefe
 
  
 
@@ -5988,7 +6296,7 @@ Nein. (weiter bei Punkt 3.)
  □ 
 
 Ja. Es wurden insgesamt  
-.......... (Anzahl) Wahlbriefe nach besonderer Beschlussfassung zugelassen. Der/die Stimmzettelumschlag/Stimmzettelumschläge wurde/n ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt. War Anlass der Beschlussfassung der Wahlschein, so wurde dieser der Wahlniederschrift beigefügt.
+…………… (Anzahl) Wahlbriefe nach besonderer Beschlussfassung zugelassen. Der/die Stimmzettelumschlag/Stimmzettelumschläge wurde/n ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt. War Anlass der Beschlussfassung der Wahlschein, so wurde dieser der Wahlniederschrift beigefügt.
 
  
 
@@ -6009,7 +6317,7 @@ Briefwahlergebnisses
 
 3.1
 
-Öffnung der Wahlurne
+Öffnung der Wahlbriefe
 
  
 
@@ -6023,13 +6331,273 @@ Briefwahlergebnisses
 
  
 
-Nachdem alle bis 18:00 Uhr eingegangenen Wahlbriefe geöffnet, die Stimmzettelumschläge entnommen und in die Wahlurne gelegt worden waren, wurde die Wahlurne um
+Alle bis 18.00 Uhr eingegangenen Wahlbriefe wurden geöffnet, die Stimmzettelumschläge entnommen und in die Wahlurne gelegt.
+
+ 
+
+ 
+
+ 
+
+3.2
+
+Zahl der Wähler; Öffnung der Wahlurne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.1
+
+Zunächst wurden die Wahlscheine gezählt.
+
+ 
+
+(Bitte Zahl eintragen:)
+
+ 
+
+ 
+
+Die Zählung ergab
+
+ 
+
+…………… Wahlscheine.
+
+ 
+
+ 
+
+Die Zählung ergab, dass
+
+ 
+
+ □ 
+
+mindestens 30 Wahlbriefe zugelassen wurden. (weiter bei Punkt 3.2.3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+weniger als 30 Wahlbriefe zugelassen wurden; der Kreis- oder Stadtwahlleiter wurde unterrichtet. (weiter bei Punkt 3.2.2)
+
+ 
+
+3.2.2
+
+Weil weniger als 30 Wahlbriefe zugelassen wurden, hat der Kreis- oder Stadtwahlleiter nach § 68 Absatz 3 Satz 2 in Verbindung mit § 61 Absatz 2 Europawahlordnung die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses mit einem von ihm bestimmten anderen Briefwahlvorstand
 
  
 
   
+  
+  
+  
+  
+  
+um …………… Uhr …………… Minuten angeordnet.
+
+ 
+
+ 
+
+Der Briefwahlvorstand des Briefwahlbezirks mit weniger als 30 Wählenden (abgebender Briefwahlvorstand)
+
+ 
+
+  
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (abgebender Briefwahlvorstand/  
+Briefwahlvorstand-Nummer)
+
+ 
+
+ 
+
+hat die verschlossene Wahlurne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+die aus der Wahlurne entnommenen, ungesichteten und in einem separaten Umschlag verschlossenen und versiegelten Stimmzettelumschläge
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+zusammen mit den eingenommenen Wahlscheinen dem vom Kreis- oder Stadtwahlleiter bestimmten Briefwahlvorstand (aufnehmender Briefwahlvorstand)
+
+ 
+
+  
+  
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (aufnehmender Briefwahlvorstand/  
+Briefwahlvorstand-Nummer)
+
+ 
+
+ 
+
+ 
+
+ 
+
+übergeben.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Zutreffendes bitte ankreuzen:)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Die Übergabe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+der verschlossenen Wahlurne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+des versiegelten Umschlages mit den Stimmzettelumschlägen
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+erfolgte um …………… Uhr …………… Minuten.
+
+ 
+
+ 
+
+Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses erfolgt. Bei Transport der zu übergebenden Gegenstände waren der Briefwahlvorsteher und der Schriftführer, ein weiteres Mitglied des Briefwahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertretende der Öffentlichkeit anwesend.
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+ □ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+Bitte durch Ankreuzen bestätigen. (weiter bei Punkt 5.4)
+
+ 
+
+ 
+
+3.2.3
+
+Sodann wurde die Wahlurne geöffnet.
+
+ 
+
 (Bitte Uhrzeit eintragen:)  
-.......... Uhr .......... Minuten geöffnet.
+…………… Uhr …………… Minuten.
+
+ 
 
  
 
@@ -6047,9 +6615,27 @@ Die Stimmzettelumschläge wurden entnommen. Der Briefwahlvorsteher überzeugte s
 
  
 
-3.2
+ 
 
-Zahl der Wähler
+Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil
+
+ 
+
+  
+  
+(Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2.4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ □ 
+
+aufgrund der Anordnung des Kreis- oder Stadtwahlleiters von …………… Uhr …………… Minuten die in der verschlossenen Wahlurne oder einem verschlossenen Umschlag transportierten Stimmzettelumschläge und die eingenommenen Wahlscheine des
 
  
 
@@ -6061,7 +6647,52 @@ Zahl der Wähler
 
  
 
-3.2.1
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (abgebender Briefwahlvorstand/  
+Briefwahlvorstand-Nummer)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+um …………… Uhr …………… Minuten zur gemeinsamen Ermittlung und Feststellung des Briefwahlergebnisses übernommen wurden.
+
+ 
+
+ 
+
+Bei der Zahl der Wahlscheine (Punkt 3.2.1) sind die entgegengenommenen Wahlscheine des abgebenden und des aufnehmenden Briefwahlvorstandes zusammenzuführen.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nach der Vermischung sind die Stimmzettelumschläge und die Stimmzettel gemeinsam auszuzählen (ab Punkt 3.2.4).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.4
 
 Sodann wurden die Stimmzettelumschläge ungeöffnet gezählt.
 
@@ -6075,9 +6706,7 @@ Sodann wurden die Stimmzettelumschläge ungeöffnet gezählt.
 
  
 
- 
-
- 
+Die Zählung ergab
 
  
 
@@ -6087,41 +6716,31 @@ Sodann wurden die Stimmzettelumschläge ungeöffnet gezählt.
 
  
 
-Die Zählung ergab
-
- 
-
-.......... Stimmzettelumschläge (= Wähler)
-
  
 
  
+
+…………… Stimmzettelumschläge (= Wähler)
 
  
 
  
 
-Diese Zahl hinten in Abschnitt 4 bei Kennbuchstabe ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0120.jpg) = Wähler insgesamt, zugleich ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0130.jpg) eintragen.
-
  
 
-3.2.2
-
-Danach wurden die Wahlscheine gezählt.
-
  
-
-(Bitte Zahl eintragen:)
 
  
 
  
 
-Die Zählung ergab
+ 
 
  
 
-.......... Wahlscheine.
+ 
+
+Diese Zahl hinten in Abschnitt 4 bei Kennbuchstabe ![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg) = Wähler insgesamt, zugleich ![Kästchen mit der Inschrift B1, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0010.jpg) eintragen.
 
  
 
@@ -6143,7 +6762,7 @@ Die Zählung ergab
 
  □ 
 
-Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte überein. (weiter bei Punkt 3.2.3)
+Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte überein. (weiter bei Punkt 3.2.5.)
 
  
 
@@ -6179,13 +6798,13 @@ Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt
 
  
 
-.......... .......... .......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
-3.2.3
+3.2.5
 
-Der Schriftführer übertrug die Zahl der Wähler in Abschnitt 4 Kennbuchstabe B der Wahlniederschrift.
+Der Schriftführer übertrug die Zahl der Wähler in Abschnitt 4 Kennbuchstabe ![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg) der Wahlniederschrift.
 
  
 
@@ -6232,18 +6851,6 @@ a) die nach den Wahlvorschlägen getrennten Stapel mit den Stimmzetteln mit zwei
 b) einen Stapel mit leeren Stimmzettelumschlägen und den ungekennzeichneten Stimmzetteln,
 
 c) einen Stapel aus Stimmzettelumschlägen, die mehrere Stimmzettel enthalten, sowie
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 d) einen Stapel aus Stimmzettelumschlägen und Stimmzetteln, die Anlass zu Bedenken gaben und über die später vom Briefwahlvorstand Beschluss zu fassen war.
 
@@ -6337,6 +6944,7 @@ Die so ermittelten Stimmenzahlen wurden als Zwischensummen I (ZS I) vom Schriftf
 
   
   
+  
  □  (Nach Eintragung durch Ankreuzen bestätigen)
 
  
@@ -6395,6 +7003,20 @@ Zum Schluss entschied der Briefwahlvorstand über die Gültigkeit der Stimmen, d
 
  
 
+(Zwischensummenbildung II)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
  
 
  
@@ -6407,8 +7029,10 @@ Die so ermittelten gültigen oder ungültigen Stimmen wurden als Zwischensummen 
 
   
   
+  
  □ 
 
+  
   
   
 (Nach Eintragung durch Ankreuzen bestätigen)
@@ -6502,7 +7126,7 @@ Die in c) bezeichneten Stimmzettelumschläge und Stimmzettel sind als Anlagen un
 
  
 
-.......... bis .......... 
+. . . . . . . . . . . . . . . . bis . . . . . . . . . . . . . . . . 
 
  
 
@@ -6591,7 +7215,7 @@ Wahlergebnis
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0140.jpg) Wähler insgesamt \[vgl. oben 3.2.1\]
+![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg)  Wähler insgesamt \[vgl. oben 3.2.4\]
 
  
 
@@ -6617,37 +7241,32 @@ zugleich
 
  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0150.jpg) Wähler mit Wahlschein
+![Kästchen mit der Inschrift B1, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0010.jpg)  Wähler mit Wahlschein
 
  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
-|                                                                                                                                                                                           |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                              Ergebnis der Wahl im Wahlbezirk                                                                              |
-| Summe ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0160.jpg) + ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0170.jpg) muss mit ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0570-1_0180.jpg) übereinstimmen. |
-
-  
-  
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                                                                                                                                          Ergebnis der Wahl im Wahlbezirk                                                                                                                                                                                                                                           |
+| Summe  ![Kästchen mit der Inschrift C, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0011.jpg)  + ![Kästchen mit der Inschrift D, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4. Wahlergebnis](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0012.jpg)  muss mit  ![Kästchen mit der Inschrift B, dies sind die Kennbuchstaben für die Zahlenangaben im Abschnitt 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0119_0009.jpg)  übereinstimmen. |
 
 |     |                   |      |       |           |
 |:---:|:------------------|:----:|:-----:|:---------:|
 |     |                   | ZS I | ZS II | Insgesamt |
 |  C  | Ungültige Stimmen |      |       |           |
 
+Gültige Stimmen:  
   
-  
-
-Gültige Stimmen:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 7%" /><col style="width: 40%" /><col style="width: 17%" /><col style="width: 17%" /><col style="width: 19%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;"> </td><td>Von den gültigen Stimmen entfielen auf den Wahlvorschlag<br />
-(Wahlvorschläge in der im Stimmzettel aufgeführten Reihenfolge mit Kurzbezeichnung und Kennwort – laut Stimmzettel –)</td><td style="text-align: center;">ZS I</td><td style="text-align: center;">ZS II</td><td style="text-align: center;">Insgesamt</td></tr><tr class="even"><td style="text-align: center;">D1</td><td>1. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D2</td><td>2. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">D3</td><td>3. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D4</td><td>4. .......... </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;"> </td><td>usw.</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;"><br />
+(Wahlvorschläge in der im Stimmzettel aufgeführten Reihenfolge mit Kurzbezeichnung und Kennwort – laut Stimmzettel –)</td><td style="text-align: center;">ZS I</td><td style="text-align: center;">ZS II</td><td style="text-align: center;">Insgesamt</td></tr><tr class="even"><td style="text-align: center;">D1</td><td>1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D2</td><td>2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">D3</td><td>3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;">D4</td><td>4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;"> </td><td>usw.</td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: center;"><br />
 D<br />
 </td><td><br />
-Gültige  Stimmen insgesamt<br />
+Gültige Stimmen insgesamt<br />
 </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr></tbody></table>
 
 5\.
@@ -6685,7 +7304,7 @@ Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vork
  
 
   
-.......... .......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -6696,7 +7315,7 @@ Der Briefwahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
  
 
   
-.......... ..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -6722,11 +7341,12 @@ Erneute Zählung
 
  
 
-Das/Die Mitglied(er) des Briefwahlvorstandes
+Das Mitglied/die Mitglieder des Briefwahlvorstandes
 
  
 
-.......... (Vor- und Familienname)
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Vor- und Familienname)
 
  
 
@@ -6737,7 +7357,7 @@ beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der
  
 
   
-.......... .......... .......... (Angabe der Gründe)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Angabe der Gründe)
 
  
 
@@ -6824,7 +7444,7 @@ auf schnellstem Wege (z. B. telefonisch)
 
  
 
-.......... (Bitte Art der Übermittlung eintragen)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Bitte Art der Übermittlung eintragen)
 
  
 
@@ -6834,7 +7454,7 @@ auf schnellstem Wege (z. B. telefonisch)
 
  
 
-an .......... (Bitte Empfänger eintragen)
+an . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Bitte Empfänger eintragen)
 
  
 
@@ -6999,20 +7619,6 @@ Der Schriftführer
 
   
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 5.7
 
 Verweigerung der Unterschrift und Angabe von Gründen
@@ -7025,11 +7631,12 @@ Verweigerung der Unterschrift und Angabe von Gründen
 
  
 
-Das/Die Mitglied(er) des Briefwahlvorstandes
+Das Mitglied/die Mitglieder des Briefwahlvorstandes
 
  
 
-.......... (Vor- und Familienname)
+  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Vor- und Familienname)
 
  
 
@@ -7040,13 +7647,14 @@ verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
  
 
   
-.......... .......... .......... (Angabe der Gründe)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Angabe der Gründe)
 
  
 
 5.8
 
-Bündelung von Stimmzetteln, Stimmzettelumschlägen und Wahlscheinen
+Bündelung von Stimmzetteln, Stimmzettel-  
+umschlägen und Wahlscheinen
 
  
 
@@ -7110,7 +7718,7 @@ Dem Beauftragten des/der
 
  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
  
 
@@ -7120,7 +7728,7 @@ wurden
 
  
 
-am .......... , um .......... Uhr, übergeben
+am . . . . . . . . . . . . , um . . . . . . . . . . . . Uhr, übergeben
 
  
 
@@ -7137,7 +7745,7 @@ diese Wahlniederschrift mit Anlagen,
 die Pakete wie in Abschnitt 5.8 beschrieben,
 
 –  
-das/die Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine samt Nachträgen/ die Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind,
+das Verzeichnis/die Verzeichnisse der für ungültig erklärten Wahlscheine samt Nachträgen/ die Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind,
 
 –  
 die Wahlurne – mit Schloss und Schlüssel – sowie
@@ -7145,9 +7753,10 @@ die Wahlurne – mit Schloss und Schlüssel – sowie
 –  
 alle sonstigen dem Briefwahlvorstand von dem/der
 
-(Bitte eintragen, z. B. Gemeindebehörde)
+(Bitte eintragen, z. B. Gemeindebehörde)  
+  
 
-..........
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 zur Verfügung gestellten Gegenstände und Unterlagen.
 
@@ -7169,7 +7778,7 @@ Der Briefwahlvorsteher
 
  
 
-.......... 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
  
 
  
@@ -7208,15 +7817,15 @@ Der Briefwahlvorsteher
 
  
 
-Vom Beauftragten des/der ..........  wurde die Wahlniederschrift mit allen darin verzeichneten  
-Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
+Vom Beauftragten des/der . . . . . . . . . . . . . . . . . . .  wurde die Wahlniederschrift mit allen darin verzeichneten  
+Anlagen am . . . . . . . . . . . . . . . . ., um . . . . . . . . . . . . . . . . . Uhr, auf Vollständigkeit überprüft und übernommen.
 
  
 
  
 
   
-.......... (Unterschrift des Beauftragten)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Unterschrift des Beauftragten)
 
  
 
@@ -7230,15 +7839,14 @@ Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und 
 
  
 
-  
-  
 Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
 
  
 
 # Anlage 28 – (zu § 69 Abs. 4)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 2629 - 2631)
+(Fundstelle des Originaltextes: BGBl. I 2003, 2629 - 2631;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 29 – (zu § 70 Abs. 4)
 
