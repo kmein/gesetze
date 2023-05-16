@@ -33,13 +33,13 @@ Eine Spendeeinrichtung darf nur betrieben werden, wenn
 
 2. die Spendeeinrichtung oder der Träger von Spendeeinrichtungen eine leitende ärztliche Person bestellt hat, die die erforderliche Sachkunde nach dem Stand der medizinischen Wissenschaft besitzt, und
 
-3. bei der Durchführung der Spendeentnahmen von einem Menschen eine ärztliche Person vorhanden ist.
+3. bei der Durchführung der Spendeentnahmen von einem Menschen eine ärztliche Person vorhanden ist; der Einsatz telemedizinischer Verfahren ist zulässig.
 
 Die leitende ärztliche Person nach Satz 1 Nr. 2 kann zugleich die ärztliche Person nach Satz 1 Nr. 3 sein. Der Schutz der Persönlichkeitssphäre der spendenden Personen, eine ordnungsgemäße Spendeentnahme und die Voraussetzungen für eine notfallmedizinische Versorgung der spendenden Personen sind sicherzustellen.
 
 # § 5 – Auswahl der spendenden Personen
 
-(1) Es dürfen nur Personen zur Spendeentnahme zugelassen werden, die unter der Verantwortung einer ärztlichen Person nach dem Stand der medizinischen Wissenschaft und Technik für tauglich befunden worden sind und die Tauglichkeit durch eine ärztliche Person festgestellt worden ist. Die Zulassung zur Spendeentnahme soll nicht erfolgen, soweit und solange die spendewillige Person nach Richtlinien der Bundesärztekammer von der Spendeentnahme auszuschließen oder zurückzustellen ist.
+(1) Es dürfen nur Personen zur Spendeentnahme zugelassen werden, die unter der Verantwortung einer ärztlichen Person nach dem Stand der medizinischen Wissenschaft und Technik für tauglich befunden worden sind und die Tauglichkeit durch eine ärztliche Person festgestellt worden ist. Der Einsatz telemedizinischer Verfahren ist zulässig. Die Zulassung zur Spendeentnahme soll nicht erfolgen, soweit und solange die spendewillige Person nach Richtlinien der Bundesärztekammer von der Spendeentnahme auszuschließen oder zurückzustellen ist.
 
 (2) Bei der Gewinnung von Eigenblut, Blut zur Stammzellseparation und Plasma zur Fraktionierung ist die Tauglichkeit der spendenden Personen auch nach den Besonderheiten dieser Blutprodukte zu beurteilen.
 
@@ -55,7 +55,7 @@ Die leitende ärztliche Person nach Satz 1 Nr. 2 kann zugleich die ärztliche Pe
 
 (1) Die anlässlich der Spendeentnahme vorzunehmende Feststellung der Identität der spendenden Person, die durchzuführenden Laboruntersuchungen und die Entnahme der Spende haben nach dem Stand der medizinischen Wissenschaft und Technik zu erfolgen.
 
-(2) Die Entnahme der Spende darf nur durch eine ärztliche Person oder durch anderes qualifiziertes Personal unter der Verantwortung einer ärztlichen Person erfolgen.
+(2) Die Entnahme der Spende darf nur durch eine ärztliche Person oder durch anderes qualifiziertes Personal unter der Verantwortung einer ärztlichen Person erfolgen. Der Einsatz telemedizinischer Verfahren ist zulässig.
 
 # § 8 – Spenderimmunisierung
 
@@ -105,7 +105,7 @@ Für Blutdepots der Einrichtungen der Krankenversorgung, die ausschließlich fü
 
 # § 12 – Verordnungsermächtigung
 
-Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates nach Anhörung der Bundesärztekammer und weiterer Sachverständiger die fachlichen Anforderungen nach diesem Abschnitt regeln, sofern dies zur Abwehr von Gefahren für die Gesundheit von Menschen oder zur Risikovorsorge erforderlich ist. In der Rechtsverordnung kann insbesondere das Nähere zu den Anforderungen an
+Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates nach Anhörung der Bundesärztekammer und weiterer Sachverständiger die fachlichen Anforderungen nach diesem Abschnitt regeln, sofern dies zur Abwehr von Gefahren für die Gesundheit von Menschen, zur Risikovorsorge, zur Vermeidung von Diskriminierungen oder zur Sicherstellung der Versorgung mit Blutprodukten erforderlich ist. In der Rechtsverordnung kann insbesondere das Nähere zu den Anforderungen an
 
 1. die Spendeeinrichtungen,
 
@@ -123,11 +123,19 @@ geregelt werden. Das Bundesministerium für Gesundheit kann die Ermächtigung na
 
 # § 12a – Richtlinien zum Stand der Erkenntnisse der medizinischen und zahnmedizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
 
-(1) Die Bundesärztekammer kann den allgemein anerkannten Stand der Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen ergänzend zu den Vorschriften der Rechtsverordnung nach § 12 im Einvernehmen mit der zuständigen Bundesoberbehörde in Richtlinien feststellen. Die Bewertung des Risikos, das zu einem Ausschluss oder einer Rückstellung von bestimmten Personengruppen von der Spende führt, ist im Fall neuer medizinischer, wissenschaftlicher oder epidemiologischer Erkenntnisse zu aktualisieren und daraufhin zu überprüfen, ob der Ausschluss oder die Rückstellung noch erforderlich ist, um ein hohes Gesundheitsschutzniveau von Empfängerinnen und Empfängern von Blutspenden sicherzustellen. Bei der Erarbeitung der Richtlinien ist die angemessene Beteiligung von Sachverständigen der betroffenen Fach- und Verkehrskreise und der zuständigen Behörden von Bund und Ländern sicherzustellen. Die Richtlinien werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
+(1) Die Bundesärztekammer kann den allgemein anerkannten Stand der Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen ergänzend zu den Vorschriften der Rechtsverordnung nach § 12 im Einvernehmen mit der zuständigen Bundesoberbehörde in Richtlinien feststellen. Die Bewertung des Risikos, das zu einem Ausschluss oder einer Rückstellung von der Spende führt, ist im Fall neuer medizinischer, wissenschaftlicher oder epidemiologischer Erkenntnisse zu aktualisieren und daraufhin zu überprüfen, ob der Ausschluss oder die Rückstellung noch erforderlich ist, um ein hohes Gesundheitsschutzniveau von Empfängerinnen und Empfängern von Blutspenden sicherzustellen. Die Bewertung eines durch das Sexualverhalten bedingten Risikos, das zu einem Ausschluss oder einer Rückstellung von der Spende führt, hat auf Grundlage des jeweiligen individuellen Sexualverhaltens der spendewilligen Person zu erfolgen. Die sexuelle Orientierung und die Geschlechtsidentität der spendewilligen Person oder der Sexualpartnerinnen oder der Sexualpartner der spendewilligen Person dürfen bei der Bewertung des Risikos, das zu einem Ausschluss oder einer Rückstellung von der Spende führt, nicht berücksichtigt werden. Bei der Erarbeitung der Richtlinien ist die angemessene Beteiligung von Sachverständigen der betroffenen Fach- und Verkehrskreise und der zuständigen Behörden von Bund und Ländern sicherzustellen. Die Richtlinien werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 
 (2) Die Einhaltung des Standes der Erkenntnisse der medizinischen Wissenschaft und Technik wird vermutet, wenn die Richtlinien der Bundesärztekammer nach Absatz 1 beachtet worden sind.
 
 (3) Die Absätze 1 und 2 gelten für die Bundeszahnärztekammer im Bereich der Zahnheilkunde entsprechend.
+
+(4) Die Bundesärztekammer hat bis zum 1. Oktober 2023
+
+1. abweichend von Absatz 1 Satz 2 eine Neubewertung der Risiken, die zu einem Ausschluss oder einer Rückstellung führen, vorzunehmen, soweit sie aufgrund der Änderung dieses Gesetzes durch das Gesetz zur Änderung des Fünften Buches Sozialgesetzbuch – Stiftung Unabhängige Patientenberatung Deutschland – und zur Änderung weiterer Gesetze vom 11. Mai 2023 (BGBl. 2023 I Nr. 123) erforderlich ist und
+
+2. die Feststellungen der Höchstaltersgrenzen für Erst- und Wiederholungsspender aufzuheben unter Verweis auf eine individuelle Feststellung der Spendetauglichkeit nach ärztlicher Beurteilung.
+
+(5) Das Bundesministerium für Gesundheit evaluiert die Auswirkungen der Regelungen des Absatzes 1 Satz 2 und 3 auf die Blutproduktesicherheit und das Blutspendeaufkommen bis zum 1. Oktober 2025.
 
 # § 13 – Anforderungen an die Durchführung
 

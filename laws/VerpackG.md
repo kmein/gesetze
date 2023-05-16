@@ -770,9 +770,13 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 29. übermittelt gemäß § 15 Absatz 2 des Umweltstatistikgesetzes vom 16. August 2005 (BGBl. I S. 2446), das zuletzt durch Artikel 1 des Gesetzes vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, den statistischen Ämtern der Länder und dem Statistischen Bundesamt auf Anforderung die für die Erhebung nach § 5a Absatz 2 bis 6 des Umweltstatistikgesetzes erforderlichen Namen, Anschriften und E-Mail-Adressen der in diese Erhebungen einbezogenen Stellen,
 
-29a. übermittelt gemäß § 14 Absatz 2 Nummer 4 Buchstabe a des Umweltstatistikgesetzes den statistischen Ämtern der Länder und dem Statistischen Bundesamt auf Anforderung die die für die Erhebung nach § 5a des Umweltstatistikgesetzes erforderlichen Daten, soweit sie der Zentralen Stelle aufgrund ihrer Pflichten nach diesem Gesetz vorliegen, und
+29a. übermittelt gemäß § 14 Absatz 2 Nummer 4 Buchstabe a des Umweltstatistikgesetzes den statistischen Ämtern der Länder und dem Statistischen Bundesamt auf Anforderung die die für die Erhebung nach § 5a des Umweltstatistikgesetzes erforderlichen Daten, soweit sie der Zentralen Stelle aufgrund ihrer Pflichten nach diesem Gesetz vorliegen,
 
-30. ist befugt, die mit der Erfüllung der ihr nach diesem Absatz zugewiesenen Aufgaben notwendigerweise zusammenhängenden Tätigkeiten durchzuführen.
+30. stellt dem Umweltbundesamt gemäß § 8 Absatz 2 Satz 2 bis 4 des Einwegkunststofffondsgesetzes vom 11. Mai 2023 (BGBl. 2023 I Nr. 124), in der jeweils geltenden Fassung, die vorhandenen Registerangaben nach § 9 einschließlich der notwendigen technischen Informationen zum Datenabruf zur Verfügung,
+
+31. verwendet die gemäß § 8 Absatz 3 Satz 1 des Einwegkunststofffondsgesetzes vom Umweltbundesamt übermittelten Registerangaben zur Erfüllung ihrer Aufgaben und legt gemäß § 8 Absatz 3 Satz 2 des Einwegkunststofffondsgesetzes im Einvernehmen mit dem Umweltbundesamt das Format des elektronischen Datenaustauschs fest und
+
+32. ist befugt, die mit der Erfüllung der ihr nach diesem Absatz zugewiesenen Aufgaben notwendigerweise zusammenhängenden Tätigkeiten durchzuführen.
 
 (2) Die Zentrale Stelle nimmt die in Satz 2 aufgeführten Aufgaben in eigener Verantwortung nach den allgemeinen gesetzlichen Vorschriften wahr. Die Zentrale Stelle
 
@@ -800,7 +804,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (3) Die Zentrale Stelle bietet mindestens einmal jährlich eine Schulung zu ihrem Softwaresystem einschließlich der Datenformate sowie zur Anwendung der Prüfleitlinien nach § 26 Absatz 1 Satz 2 Nummer 28 an. Registrierte Sachverständige sind verpflichtet, innerhalb eines Jahres nach ihrer Aufnahme in das Prüferregister und sodann alle fünf Jahre an einer dieser Schulungen teilzunehmen. Kommt ein registrierter Sachverständiger seiner Pflicht nach Satz 2 nicht nach, kann die Zentrale Stelle ihn bis zur erfolgten Teilnahme an einer Schulung aus dem Prüferregister entfernen.
 
-(4) Die Zentrale Stelle kann einen registrierten Sachverständigen oder einen nach Absatz 2 registrierten Prüfer für bis zu drei Jahre aus dem Prüferregister entfernen, wenn er wiederholt und grob pflichtwidrig gegen die Prüfleitlinien verstoßen hat.
+(4) Die Zentrale Stelle kann einen registrierten Sachverständigen oder einen nach Absatz 2 registrierten Prüfer für bis zu drei Jahre aus dem Prüferregister entfernen, wenn er wiederholt und grob pflichtwidrig gegen die Prüfleitlinien nach diesem Gesetz oder dem Einwegkunststofffondsgesetz verstoßen hat.
 
 # § 28 – Organisation
 

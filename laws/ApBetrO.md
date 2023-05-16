@@ -213,6 +213,14 @@ Ordnungswidrigkeiten
 
 (weggefallen)
 
+§ 38
+
+Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+§ 39
+
+Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken
+
 # § 1 – Anwendungsbereich
 
 (1) Diese Verordnung findet Anwendung auf den Betrieb und die Einrichtung von öffentlichen Apotheken einschließlich der krankenhausversorgenden Apotheken, Zweig- und Notapotheken sowie von Krankenhausapotheken. Ihre Vorschriften legen fest, wie die ordnungsgemäße Versorgung der Bevölkerung mit Arzneimitteln und apothekenpflichtigen Medizinprodukten sicherzustellen ist.
@@ -1370,6 +1378,10 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
 
 (2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden, wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) eingereicht wurde. Für die betreffende klinische Prüfung ist diese Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden.
+
+# § 39 – Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken
+
+Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a dürfen Apotheken, wenn das auf der Grundlage der ärztlichen Verordnung abzugebende Arzneimittel nicht vorrätig oder lieferbar ist, dieses bei Abgabe an Versicherte in der privaten Krankenversicherung, Beihilfeempfänger und Selbstzahler nach Maßgabe des § 423 des Fünften Buches Sozialgesetzbuch durch ein anderes Arzneimittel ersetzen. Diese Regelung tritt am 1. August 2023 außer Kraft.
 
 # Anlage 1 – (weggefallen)
 

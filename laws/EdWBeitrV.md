@@ -73,7 +73,7 @@ Für Erträge, die unter mehrere Ermäßigungstatbestände des Satzes 4 fallen, 
 
 7. 2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 10 oder des § 15 Absatz 3 des Wertpapierinstitutsgesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und ist dem Institut keine Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden, beträgt der Beitragssatz 3,85 Prozent;
 
-8. 2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 1 oder 2 des Wertpapierinstitutsgesetztes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 7,7 Prozent;
+8. 2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 1 oder 2 des Wertpapierinstitutsgesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 7,7 Prozent;
 
 9. 1,23 Prozent bei Kapitalverwaltungsgesellschaften im Sinne des § 1 Absatz 1 Nummer 3 des Anlegerentschädigungsgesetzes, die nicht befugt sind, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; ist die Kapitalverwaltungsgesellschaft befugt, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 3,85 Prozent.
 
@@ -85,7 +85,8 @@ Für Erträge, die unter mehrere Ermäßigungstatbestände des Satzes 4 fallen, 
 
 die eidesstattliche Versicherung ist von allen Mitgliedern des zur Vertretung des Instituts berufenen Organs gemeinschaftlich zu unterzeichnen. § 2 Absatz 5 Satz 1 bis 3 und 8 gilt entsprechend. Im Fall einer Änderung der Erlaubnis oder der Befugnis während dieses Geschäftsjahres sind diejenigen Verhältnisse maßgeblich, die einen höheren Jahresbeitrag begründen.
 
-(+++ § 2a: Zur Anwendung vgl. § 7d +++)
+(+++ § 2a: Zur Anwendung vgl. § 7d +++)  
+§ 2a Abs. 1 Nr. 8 erster Halbsatz Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Wertpapierinstitutsgesetztes" durch "Wertpapierinstitutsgesetzes" ersetzt
 
 # § 2b – Abweichende Zuordnung zu Beitragsgruppen
 

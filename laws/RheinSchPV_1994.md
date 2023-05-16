@@ -1221,7 +1221,9 @@ ai)
 
 # § 1.02 – Schiffsführer
 
-1. Jedes Fahrzeug sowie jeder Schwimmkörper muß unter der Führung einer hierfür geeigneten Person stehen. Diese wird als "Schiffsführer" bezeichnet. Seine Eignung gilt als vorhanden, wenn er ein Rheinpatent oder ein anderes nach der Rheinpatentverordnung zugelassenes Zeugnis für die Fahrzeugart und die zu befahrende Strecke besitzt. Sind nach der Verordnung über das Schiffspersonal auf dem Rhein mehrere Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der Schiffsführer, unter dessen Führung das Fahrzeug steht, ein Streckenzeugnis für den betreffenden Streckenabschnitt.
+1. Jedes Fahrzeug sowie jeder Schwimmkörper muss unter der Führung einer hierfür geeigneten Person stehen. Diese wird als „Schiffsführer“ bezeichnet. Ihre Eignung gilt als vorhanden, wenn sie ein nach der Rheinschiffspersonalverordnung zur Schiffsführung des jeweiligen Fahrzeuges gültiges Befähigungszeugnis als Schiffsführer besitzt. Befährt der Schiffsführer einen in § 13.03 der Rheinschiffspersonalverordnung genannten Streckenabschnitt, muss er zudem die hierfür nach dieser Vorschrift erforderliche besondere Berechtigung besitzen.
+
+Sind nach der Rheinschiffspersonalverordnung mehrere Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der Schiffsführer, unter dessen Führung das Fahrzeug steht, die besondere Berechtigung gemäß § 13.03 der Rheinschiffspersonalverordnung.
 
 2. Jeder Verband muß gleichfalls unter der Führung eines hierfür geeigneten Schiffsführers stehen.
 
@@ -1255,7 +1257,11 @@ Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkohol
 
 3. Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung verantwortlich.
 
-4. Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung nach der Verordnung über das Schiffspersonal auf dem Rhein dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einem gleichwertigen Alkoholgehalt in der Atemluft ist es den Mitgliedern der Mindestbesatzung verboten, ihren Dienst zu verrichten. Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen.
+4. Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung nach der Rheinschiffspersonalverordnung und sonstiger Personen an Bord, die vorübergehend selbstständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein.
+
+Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einem gleichwertigen Alkoholgehalt in der Atemluft ist es den Mitgliedern der Mindestbesatzung verboten, ihren Dienst zu verrichten.
+
+Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen.
 
 Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einem gleichwertigen Alkoholgehalt in der Atemluft, ist es den in Satz 1 genannten Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen.
 
@@ -1321,11 +1327,9 @@ Unbeschadet des Satzes 1 dürfen sich während der Fahrt an Bord von schnellen S
 
 2. Die Besatzung aller Fahrzeuge muß nach Zahl und Eignung ausreichen, um die Sicherheit der an Bord befindlichen Personen und der Schiffahrt zu gewährleisten.
 
-3. Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem Schiffsattest nach der Rheinschiffsuntersuchungsordnung versehen ist, Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen und Besatzung und Betrieb mit den Vorschriften der Rheinschiffsuntersuchungsordnung übereinstimmen.
+3. Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem Schiffsattest nach der Rheinschiffsuntersuchungsordnung oder einem nach dieser Verordnung als gleichwertig anerkannten Zeugnis versehen ist, Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes oder des Zeugnisses entsprechen, und Besatzung und Betrieb mit den Vorschriften der Rheinschiffspersonalverordnung übereinstimmen.
 
 4. Unbeschadet der Nummer 3 müssen die unter Nummer 44 im Schiffsattest eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und für Kinder an Bord vorhanden sein. Für Kinder bis zu 30 kg Körpergewicht oder 6 Jahren Alter sind nur Feststoffwesten nach den in Artikel 13.08 Nummer 2 ES-TRIN genannten Normen zulässig.
-
-<!-- -->
 
 5. Sind die nach Artikel 14.02 Nummer 4 ES-TRIN geforderten Geländer umlegbar oder wegnehmbar, dürfen sie nur bei stillliegenden Fahrzeugen geöffnet oder teilweise entfernt werden und nur bei folgenden Betriebszuständen:
 
@@ -1344,8 +1348,6 @@ f) wenn die Be- und Entladearbeiten oder der Baubetrieb unverhältnismäßig beh
   
 Sind Betriebszustände nach Satz 1 nicht mehr vorhanden, sind die Geländer sofort wieder zu schließen oder zu setzen.
 
-<!-- -->
-
 6. Die Mitglieder der Besatzung und die sonstigen Personen an Bord müssen Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN tragen
 
 a) beim An- und Vonbordgehen, sofern Absturzgefahr ins Wasser besteht,
@@ -1359,8 +1361,6 @@ d) bei Aufenthalt und Arbeit an Deck und im Gangbord, sofern Schanzkleider von m
   
 Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt werden und nur, wenn durch den übrigen Schiffsverkehr keine Gefährdung zu erwarten ist.
 
- 
-
 # § 1.09 – Besetzung des Ruders
 
 1. Auf jedem in Fahrt befindlichen Fahrzeug muß das Ruder mit einer hierfür geeigneten Person im Alter von mindestens 16 Jahren besetzt sein.
@@ -1371,7 +1371,9 @@ Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt werden 
 
 4. Soweit es besondere Umstände erfordern, muß zur Unterrichtung des Rudergängers ein Ausguck oder Horchposten aufgestellt werden.
 
-5. Auf jedem in Fahrt befindlichen schnellen Schiff muss das Ruder von einer Person, die das für die zu befahrende Strecke erforderliche Patent nach der Rheinpatentverordnung und das Radarpatent besitzt, besetzt sein. Eine zweite Person, die ebenfalls das für die zu befahrende Strecke erforderliche Patent nach der Rheinpatentverordnung und das Radarpatent besitzt, muss sich im Steuerhaus befinden, ausgenommen beim An- und Ablegen sowie in den Schleusenvorhäfen und in den Schleusen.
+5. Auf jedem in Fahrt befindlichen schnellen Schiff muss das Ruder von einer Person besetzt sein, die ein nach der Rheinschiffspersonalverordnung gültiges Befähigungszeugnis als Schiffsführer und die besondere Berechtigung für Radarfahrten sowie erforderlichenfalls eine besondere Berechtigung für das Befahren von Abschnitten des Rheins, die mit besonderen Risiken ausgewiesen wurden, besitzt.
+
+Eine zweite Person, die ebenfalls ein Befähigungszeugnis als Schiffsführer und die oben genannten erforderlichen besonderen Berechtigungen besitzt, muss sich im Steuerhaus befinden, ausgenommen beim An- und Ablegen sowie in den Schleusenvorhäfen und in den Schleusen.
 
 # § 1.10 – Mitführen von Urkunden und sonstigen Unterlagen an Bord
 
@@ -2813,9 +2815,9 @@ b) auf Fahrzeugen ohne Maschinenantrieb und auf Kleinfahrzeugen mittels eines Sc
 
 1. Fahrzeuge dürfen nur dann Radar benutzen, wenn
 
-a) sie mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 Nummer 1 ES-TRIN ausgerüstet sind. Das gilt auch für Inland ECDIS Geräte, die unter Verwendung von Inland ECDIS beim Steuern des Fahrzeugs mit überlagertem Radarbild betrieben werden können (Navigationsmodus). Die Geräte müssen in gutem Betriebszustand sein und einem von der zuständigen Behörde eines Rheinuferstaates oder Belgiens für den Rhein zugelassenen Baumuster entsprechen. Nicht frei fahrende Fähren brauchen jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein;
+a) sie mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 Nummer 1 ES-TRIN ausgerüstet sind. Das gilt auch für Inland ECDIS Geräte, die unter Verwendung von Inland ECDIS beim Steuern des Fahrzeuges mit überlagertem Radarbild betrieben werden können (Navigationsmodus). Die Geräte müssen in gutem Betriebszustand sein und einem von der zuständigen Behörde eines Rheinuferstaates oder Belgiens für den Rhein zugelassenen Baumuster entsprechen. Nicht frei fahrende Fähren brauchen jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein;
 
-b) sich an Bord eine Person befindet, die das Radarpatent oder ein anderes nach der Verordnung über die Erteilung von Radarpatenten anerkanntes Zeugnis besitzt; bei guter Sicht kann jedoch Radar zu Übungszwecken verwendet werden, auch wenn sich eine solche Person nicht an Bord befindet.
+b) sich an Bord eine Person befindet, die eine nach der Rheinschiffspersonalverordnung gültige besondere Berechtigung für Radarfahrten besitzt; bei guter Sicht kann jedoch Radar zu Übungszwecken verwendet werden, auch wenn sich eine solche Person nicht an Bord befindet.
 
 2. Bei Schubverbänden und gekuppelten Fahrzeugen gilt die Nummer 1 nur für das Fahrzeug, auf dem sich der Führer des Verbandes oder der gekuppelten Fahrzeuge befindet.
 
@@ -3179,7 +3181,7 @@ b) die Fahrzeuge, denen die zuständige Behörde das Vorrecht ausdrücklich zuer
 
 # § 6.32 – Mit Radar fahrende Fahrzeuge
 
-1. Fahrzeuge dürfen nur mit Radar fahren, wenn sich eine Person, die neben dem für die Fahrzeugart und die zu befahrende Strecke erforderlichen Rheinpatent oder neben einem anderen nach der Rheinpatentverordnung zugelassenen Befähigungszeugnis das Radarpatent nach der Verordnung über die Erteilung von Radarpatenten besitzt, und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten.
+1. Fahrzeuge dürfen nur mit Radar fahren, wenn sich eine Person, die ein nach der Rheinschiffspersonalverordnung gültiges Befähigungszeugnis als Schiffsführer sowie die besondere Berechtigung für Radarfahrten und erforderlichenfalls eine besondere Berechtigung für das Befahren von Abschnitten des Rheins die mit besonderen Risiken ausgewiesen wurden, besitzt, und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt vertraut ist, ständig im Steuerhaus aufhalten.
 
 Wenn im Schiffsattest vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
 
@@ -3277,9 +3279,9 @@ c) von stillliegenden Fahrgastschiffen, auf denen sich Fahrgäste befinden.
 
 2. Die einsatzfähige Wache wird durch ein Mitglied der Besatzung sichergestellt, das
 
-a) bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber einer Sachkundebescheinigung nach § 4a.02 der Verordnung über das Schiffspersonal auf dem Rhein ist,
+a) bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber eines Befähigungszeugnisses nach § 15.02 der Rheinschiffspersonalverordnung ist,
 
-b) bei Fahrzeugen nach Nummer 1 Buchstabe b Inhaber einer Sachkundebescheinigung nach § 4.01 der Verordnung über das Schiffspersonal auf dem Rhein ist.
+b) bei Fahrzeugen nach Nummer 1 Buchstabe b Inhaber einer Sachkundebescheinigung nach § 14.01 der Rheinschiffspersonalverordnung ist.
 
 3. An Bord stillliegender Fahrzeuge, die das Kennzeichen nach § 2.06 tragen, ist eine einsatzfähige Wache nicht erforderlich, wenn
 
@@ -3879,7 +3881,7 @@ nicht überschreiten.
 
 2. Die für den jeweiligen Stromabschnitt zuständigen Behörden dürfen hinsichtlich der Breite eine Sondererlaubnis für die Fahrt erteilen.
 
-3. Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn sich an Bord eine Person befindet, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt.
+3. Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn sich an Bord eine Person befindet, die die nach der Rheinschiffspersonalverordnung gültige besondere Berechtigung für Radarfahrten besitzt.
 
 4. Ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110 m darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen des Artikels 28.04 Nummer 2 ES-TRIN erfüllt. Ein Fahrgastschiff mit einer Länge über 110 m darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen des Artikels 28.04 Nummer 3 ES-TRIN erfüllt. Die von den für den jeweiligen Stromabschnitt zwischen Basel und Mannheim zuständigen Behörden erteilten und am 30. September 2001 gültigen Sondererlaubnisse für Fahrzeuge über 110 m bis 135 m Länge bleiben mit den aus Sicherheitsgründen erteilten notwendigen Auflagen auf dem jeweiligen Stromabschnitt weiterhin gültig.
 
@@ -6306,12 +6308,14 @@ Schleppverband
 \-  
 Fahrzeug (Typ unbekannt)
 
-# Anlage 13 – VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 RHEINSCHPV
+# Anlage 13 – Verzeichnis der mitzuführenden Urkunden und Sonstigen Unterlagen nach § 1.10 RheinSchPV
+
+(Fundstelle: Anlageband zum BGBl. 2023 II Nr. 105 v. 13.04.2023, S. 47 - 51)
 
 In der Spalte „Rechtsgrundlage“ der nachfolgenden Tabelle wird auf die folgenden Vorschriften, Übereinkommen und Verwaltungsvereinbarungen verwiesen:
 
 \-  
-Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
+Rheinschiffspersonalverordnung (RheinSchPersV),
 
 \-  
 Rheinschiffsuntersuchungsordnung (RheinSchUO),
@@ -6333,4 +6337,4 @@ Regionale Vereinbarung über den Binnenschifffahrtsfunk.
 
 In der vorletzten Spalte der nachfolgenden Tabelle wird angegeben, ob die Aushändigung der an Bord mitzuführenden Urkunden und sonstigen Unterlagen auf einem elektronischen Träger autorisiert ist oder nicht.
 
-Die letzte Spalte „Elektronisches Format“ der nachfolgenden Tabelle präzisiert das elektronische Format, in dem Urkunden und sonstige Unterlagen in elektronischer Form ausgehändigt werden können. Das in der nachfolgenden Tabelle angegebene PDF-Format entspricht dem in der internationalen Norm ISO 32000-1 : 2008 definierten Format.
+Die letzte Spalte „Elektronisches Format“ der nachfolgenden Tabelle präzisiert das elektronische Format, in dem Urkunden und sonstige Unterlagen in elektronischer Form ausgehändigt werden können. Das in der nachfolgenden Tabelle angegebene PDF-Format entspricht dem in der internationalen Norm ISO 32000-1 : 2008 definierten Format. Das elektronische Format PDF/A in der folgenden Tabelle entspricht dem in der internationalen Norm ISO 19005-1 : 2005 festgelegten Format.
