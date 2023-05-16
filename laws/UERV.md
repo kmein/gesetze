@@ -85,8 +85,6 @@ Die Werte für die Treibhausgaspotentiale (GWP 100y), die bei der Ermittlung der
 
 (2) Soweit nicht bereits von Absatz 1 erfasst gilt DIN EN ISO 14064-2, Ausgabe Mai 2020.
 
-(+++ § 6: Zur Anwendung vgl. § 16 Abs. 1 Satz 2 +++)
-
 # § 7 – Antrag auf Zustimmung
 
 (1) Vor Beginn einer Projekttätigkeit stellt der Projektträger einen Antrag auf Erteilung der Zustimmung zu der Projekttätigkeit beim Umweltbundesamt. Der Antrag wird schriftlich oder in elektronischer Form gestellt.
@@ -566,7 +564,7 @@ Ist der Kontoinhaber eine natürliche Person, gilt Satz 1 entsprechend. Das Umwe
 
 (6) Auf die Benennung und Zulassung von kontobevollmächtigten Personen ist Artikel 19 Absatz 1 und 2 der Delegierten Verordnung (EU) 2019/1122 entsprechend anzuwenden.
 
-: § 7 Abs. 1 Satz 2: IdF d. Art. 3 Nr. 16 Buchst. a DBuchst. bb V v. 12.11.2021 I 4932 mWv 1.1.2022 (Kursivdruck: abweichend von dem Änderungsbefehl wurde nicht das Wort "Kontobevollmächtigten" durch die Wörter "kontobevollmächtigte Personen" das Wort "Kontobevollmächtigte" durch die Wörter "Kontobevollmächtigte Personen" ersetzt)
+§ 30 Abs. 1 Satz 2: IdF d. Art. 3 Nr. 16 Buchst. a DBuchst. bb V v. 12.11.2021 I 4932 mWv 1.1.2022 (Kursivdruck: abweichend von dem Änderungsbefehl wurde nicht das Wort "Kontobevollmächtigten" durch die Wörter "kontobevollmächtigte Personen" sondern das Wort "Kontobevollmächtigte" durch die Wörter "Kontobevollmächtigte Personen" ersetzt)
 
 # § 31 – Kontosperrung
 

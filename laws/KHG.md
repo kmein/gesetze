@@ -1148,3 +1148,7 @@ Wird der Bund wegen eines Schadens in Anspruch genommen, den der Beliehene bei d
 # § 35 – Finanzierung
 
 Die Aufwendungen des Beliehenen werden durch den DRG-Systemzuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
+
+# § 36 – Unterstützung und Beratung durch das Institut für das Entgeltsystem im Krankenhaus
+
+Das Institut für das Entgeltsystem im Krankenhaus unterstützt und berät das Bundesministerium für Gesundheit nach dessen Weisung bei der Wahrnehmung seiner Aufgaben hinsichtlich der Krankenhausversorgung und -finanzierung, insbesondere durch die Übermittlung und Erläuterung von Datenauswertungen, soweit nicht Geschäfts- oder Betriebsgeheimnisse betroffen sind. Das Bundesministerium für Gesundheit kann diese Auswertungen auch den für die Krankenhausplanung zuständigen Landesbehörden übermitteln; es setzt die Vertragsparteien nach § 17b Absatz 2 Satz 1 über die Art der Unterstützungsleistungen des Instituts in Kenntnis. Die Aufwendungen des Instituts werden durch den Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.

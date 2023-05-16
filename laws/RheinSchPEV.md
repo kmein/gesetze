@@ -89,6 +89,8 @@ zuwiderhandelt.
 
 2c. entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
 
+2d. entgegen § 1.10a Nummer 1 Satz 6 die dort genannten Schiffspapiere nicht aufbewahrt,
+
 3. entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen benutzt, beschädigt oder unbrauchbar macht,
 
 4. entgegen § 1.15 Nr. 1 feste Gegenstände oder Flüssigkeiten in die Wasserstraße einbringt oder einleitet,
@@ -261,7 +263,9 @@ zuwiderhandelt,
 
 5g. entgegen § 1.08 Nummer 5 Satz 2 ein Geländer nicht, nicht richtig oder nicht rechtzeitig schließt oder nicht, nicht richtig oder nicht rechtzeitig setzt,
 
-6. nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 oder 5 vorgeschriebenen Person besetzt ist,
+6. entgegen § 1.09 Nummer 1 oder 5 Satz 1 nicht dafür sorgt, dass das Ruder mit einer dort genannten Person besetzt ist,
+
+6a. entgegen § 1.09 Nummer 5 Satz 2 nicht dafür sorgt, dass sich im Steuerhaus eine dort genannte Person befindet,
 
 7. entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
 
@@ -383,7 +387,7 @@ zuwiderhandelt,
 
 38. ein Fahrzeug führt, das die zulässigen Höchstabmessungen nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a überschreitet,
 
-38a. ein Fahrzeug mit einer Länge von über 110 m führt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
+38a. entgegen § 11.01 Nummer 3 ein Fahrzeug führt,
 
 38b. oberhalb von Mannheim ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,
 
@@ -413,9 +417,9 @@ b) entgegen § 1.02 Nr. 2 Satz 3 der Führer des Verbandes nicht oder nicht rech
 
 c) entgegen § 1.02 Nr. 4 der Schiffsführer während der Fahrt oder des Betriebes nicht an Bord ist,
 
-2. nicht dafür sorgt, dass sich die in § 1.10 Satz 1 in Verbindung mit Anlage 13 oder § 1.10a Nummer 2 Satz 2 genannten Urkunden oder sonstigen Unterlagen an Bord befinden oder die in § 1.10a Nummer 2 Satz 1 Halbsatz 2 genannten Schiffspapiere im Bereich der Baustelle verfügbar sind,
+2. (weggefallen)
 
-2a. die in § 1.10a Nummer 1 Satz 5 genannten Schiffspapiere nicht aufbewahrt,
+2a. (weggefallen)
 
 3. ohne Erlaubnis nach § 1.21 Nr. 1 Satz 2 einen Sondertransport durchführen läßt oder entgegen § 1.21 Nr. 1 Satz 4 einen Schiffsführer nicht bestimmt,
 
@@ -447,7 +451,7 @@ e) für das entgegen § 1.07 Nummer 5 Satz 2 nicht nachgewiesen ist, dass vor Be
 
 f) das entgegen § 1.07 Nummer 6 mehr Fahrgäste als zugelassen oder mehr Personen als vorhandene Sitzplätze an Bord hat,
 
-g) (weggefallen)
+g) auf dem entgegen § 1.10a Nummer 2 Satz 2 eine dort genannte Bescheinigung nicht an Bord mitgeführt wird,
 
 h) das entgegen den §§ 2.01, 2.02 Nummer 2 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
 
