@@ -1003,8 +1003,8 @@ Die in Satz 1 Nummer 3 Buchstabe a bis c bezeichneten Angaben sind getrennt nach
 
 (5) Für sämtliche Angaben nach den Absätzen 1 bis 4 ist jeweils auch der entsprechende Wert des Vorjahres anzugeben.
 
-(+++ § 28: Zur Anwendung vgl. § 53 Satz 1 +++)  
-(+++ § 28 Abs. 1 bis 4: Zur Anwendung vgl. § 54 Satz 1 +++)
+(+++ § 28 Abs. 1 bis 3 in der ab 1.1.20214 geltenden Fassung: Zur Anwendung vgl. § 53 Satz 1 +++)  
+(+++ § 28 Abs. 1 bis 4 in der ab 19.12.2014 geltenden Fassung: Zur Anwendung vgl. § 54 Satz 1 +++)
 
 # § 29 – Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung
 
