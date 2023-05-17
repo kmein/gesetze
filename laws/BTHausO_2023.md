@@ -149,7 +149,9 @@ c) Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zu
 
 (5) Das Mitbringen von Fahrrädern, (Elektro-)Rollern und Tieren – ausgenommen Blindenführhunde und Diensthunde, die im Auftrag der Polizei beim Deutschen Bundestag eingesetzt werden – ist nicht gestattet.
 
-(6) Im Unterirdischen Erschließungssystem, in den Parkdecks und auf den sonstigen Verkehrsflächen finden die Bestimmungen der Straßenverkehrsordnung (StVO) entsprechende Anwendung. Ge- und Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der erteilten Berechtigung gestattet.
+(6) Im Unterirdischen Erschließungssystem, in den Parkdecks und auf den sonstigen Verkehrsflächen finden die Bestimmungen der Straßenverkehrs-Ordnung (StVO) entsprechende Anwendung. Ge- und Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der erteilten Berechtigung gestattet.
+
+Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Schreibweise der amtlichen Kurzbezeichnung eingesetzt
 
 # § 5 – Besondere Verhaltensregeln für die Besucherinnen und Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
 
