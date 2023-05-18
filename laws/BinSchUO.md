@@ -63,7 +63,7 @@
 
 2. die Anforderungen an die Anzahl und Qualifikation der Besatzungsmitglieder nach
 
-a) Teil II der Schiffspersonalverordnung-Rhein für Seeschiffe, sofern die Anforderungen des Kapitels 25 ES-TRIN eingehalten werden,
+a) Teil III der Rheinschiffspersonalverordnung für Seeschiffe, sofern die Anforderungen des Kapitels 25 ES-TRIN eingehalten werden,
 
 b) Teil 3 der Binnenschiffspersonalverordnung für die übrigen Fahrzeuge.
 
@@ -159,9 +159,9 @@ Verordnung zur Einführung der Schifffahrtsordnung Emsmündung vom 8. August 198
 
 (2) Soweit diese Verordnung zusätzlich zu Absatz 1 Nummer 5 auf bestimmte Vorschriften verweist, bedeuten:
 
-1. Schiffspersonalverordnung-Rhein:
+1. Rheinschiffspersonalverordnung:
 
-Schiffspersonalverordnung-Rhein vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband), die zuletzt durch Artikel 1 in Verbindung mit Anlage 1 der Verordnung vom 27. September 2017 (BGBl. 2017 II S. 1282) geändert worden ist, in der jeweils geltenden Fassung,
+Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband) in der jeweils geltenden und anzuwendenden Fassung,
 
 2. Binnenschiffspersonalverordnung:
 
@@ -415,7 +415,7 @@ entsprechen.
 
 (8) Fahrgastboote müssen den Anforderungen des Anhangs II Teil III und IV entsprechen.
 
-(9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN in Verbindung mit Teil 3 der Binnenschiffspersonalverordnung oder Teil II der Schiffspersonalverordnung-Rhein entsprechen.
+(9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN in Verbindung mit Teil 3 der Binnenschiffspersonalverordnung oder Teil III der Rheinschiffspersonalverordnung entsprechen.
 
 (10) Die Generaldirektion Wasserstraßen und Schifffahrt kann ganz oder teilweise davon absehen, die Untersuchung bei einem Fahrzeug, einer schwimmenden Anlage oder einem Schwimmkörper durchführen zu lassen, soweit sich aus einer gültigen Bescheinigung einer anerkannten Klassifikationsgesellschaft ergibt, dass das Fahrzeug, die schwimmende Anlage oder der Schwimmkörper ganz oder teilweise den technischen Vorschriften des ES-TRIN entspricht.
 
@@ -496,7 +496,7 @@ b) hinsichtlich Bau, Einrichtung und Ausrüstung den Anforderungen dieser Übere
 
 2. soweit es nicht unter Gewährung von Erleichterungen oder mit örtlichen Einschränkungen erteilt worden ist.
 
-(3) Im Fall des Absatzes 2 müssen die Anzahl und Zusammensetzung der Besatzung den Anforderungen der Binnenschiffspersonalverordnung oder der Schiffspersonalverordnung-Rhein entsprechen mit der Maßgabe, dass
+(3) Im Fall des Absatzes 2 müssen die Anzahl und Zusammensetzung der Besatzung den Anforderungen der Binnenschiffspersonalverordnung oder der Rheinschiffspersonalverordnung entsprechen mit der Maßgabe, dass
 
 1. für den Rhein der Eintrag im Schiffsattest oder im Unionszeugnis und
 

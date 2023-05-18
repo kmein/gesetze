@@ -608,7 +608,7 @@ Karte zu § 1 Abs. 5
 
 Anlage IV
 
-(aufgehoben)
+Benennung berauschender Mittel
 
 # § 1 – Geltungsbereich
 
@@ -842,7 +842,7 @@ die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
 (3) Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeuges oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken-, Decks- oder Maschinendienstes behindert ist, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
-(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
+(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder unter der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach Absatz 3 Satz 1 steht, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Eine Wirkung nach Satz 1 liegt vor, wenn eine der in Anlage IV genannten Substanzen im Blut nachgewiesen wird. Die Sätze 1 und 2 gelten nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen bestimmten Krankheitsfall verschriebenen Medikamentes herrührt. Die Sätze 1 bis 3 gelten für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 unterliegenden Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1 gilt für die im Brückendienst eingesetzten Mitglieder der Schiffsbesatzung entsprechend.
 
@@ -1288,7 +1288,9 @@ Dies gilt für schwimmende Geräte und schwimmende Anlagen entsprechend.
 
 (2) Macht ein Fahrzeug im Nord-Ostsee-Kanal fest, ohne ein Haltegebot erhalten zu haben, so hat es sich bei der zuständigen Verkehrszentrale abzumelden. Die Kanalfahrt darf erst nach Zustimmung der Verkehrszentrale angetreten oder fortgesetzt werden. Nach Erteilung der Zustimmung haben Fahrzeuge die Kanalfahrt unverzüglich anzutreten. Der Fahrzeugführer hat bei der Befolgung der Vorschriften über das Verhalten im Verkehr die Verkehrsinformationen der Verkehrszentrale unverzüglich entsprechend den Bedingungen der jeweiligen Verkehrssituation zu berücksichtigen und den getroffenen Maßnahmen der Verkehrslenkung nachzukommen.
 
-(3) Von den Liegestellen im Achterwehrer Schiffahrtskanal darf nur nach Anmeldung bei der Schleusenaufsicht abgelegt werden; dies gilt nicht für Sportfahrzeuge.
+(3) Von den Liegestellen im Achterwehrer Schiffahrtskanal darf nur nach Anmeldung bei der Schleusenaufsicht abgelegt werden.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Sportfahrzeuge. § 58 bleibt unberührt.
 
 # § 44
 
@@ -1370,7 +1372,7 @@ Andernfalls hat das Fahrzeug die Kanalfahrt zu unterbrechen und im nächsten Wei
 
 (1) Sportfahrzeuge dürfen die Zufahrten und den Nord-Ostsee-Kanal lediglich zur Durchfahrt, nur während der Tagfahrzeiten im Sinne des § 50 Abs. 2 und nicht bei verminderter Sicht benutzen. Dies gilt nicht bei Annahme eines Lotsen oder für das Aufsuchen der für Sportfahrzeuge zugelassenen Liegestellen im Schleusenvorhafen Kiel-Holtenau und im Binnenhafen Brunsbüttel oder das beim Schleusenmeister angemeldete Ausschleusen zur Elbe.
 
-(2) Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren Lagerplatz unmittelbar am Nord-Ostsee-Kanal zwischen den Schleusen haben und auf dem Nord-Ostsee-Kanal fahren wollen, benötigen einen vom zuständigen Wasserstraßen- und Schifffahrtsamt ausgestellten Fahrtausweis.
+(2) Sportfahrzeuge, die ihren ständigen Lager- oder Liegeplatz an der Eider oberhalb der Schleuse Lexfähre, an der Obereider, am Audorfer See, unmittelbar am oder im Nord-Ostsee-Kanal zwischen den Schleusen haben, dürfen den Kanal uneingeschränkt benutzen. Als Nachweis des Vorliegens der Voraussetzungen des Satzes 1 benötigen sie einen vom zuständigen Wasserstraßen- und Schifffahrtsamt auf Antrag ausgestellten Fahrtausweis.
 
 (3) Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, daß sie vor Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle erreichen können.
 
@@ -1514,7 +1516,7 @@ Die Schiffahrtspolizeibehörden können von Vorschriften dieser Verordnung im Ei
 
 1a. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
-1b. entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+1b. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein Fahrzeug, auch ein Wassermotorrad oder ein Kite- und Segelsurfbrett führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt oder unter der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach § 3 Absatz 3 Satz 1 steht,
 
 1c. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
 
@@ -3796,6 +3798,24 @@ fünf kurze Töne oder mehr. ... (Abb.)
 
 (Inhalt: nicht darstellbare kartographische Karte;  
 Fundstelle: BGBl. I 1998, 3264)
+
+# Anlage IV – Benennung berauschender Mittel
+
+(Fundstelle: BGBl. 2023 I Nr. 127, 3)
+
+| Mittel               | Substanz                           |
+|:---------------------|:-----------------------------------|
+| Cannabis             | Tetrahydrocannabinol (THC)         |
+| Heroin               | Morphin                            |
+| Morphin              | Morphin                            |
+| Kokain               | Benzoylecgonin                     |
+| Amphetamine          | Amphetamin                         |
+| Designer Amphetamine | Methylendioxyamphetamin (MDA)      |
+|                      | Methylendioxyethylamphetamin (MDE) |
+|                      | Methylendioxymetamphetamin (MDAE)  |
+| Metamphetamin        | Metamphetamin                      |
+
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Digitales und Verkehr für den Bereich des Straßenverkehrs.
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1108)
 

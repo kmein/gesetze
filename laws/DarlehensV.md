@@ -71,7 +71,7 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 (2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.
 
-(+++ § 8 Abs. 1 Nr 2: Zur Geltung vgl. § 12 Abs. 2 Satz 3 +++)
+(+++ § 8 Abs. 1: Zur Geltung vgl. § 12 Abs. 2 +++)
 
 # § 9 – Datenermittlung
 

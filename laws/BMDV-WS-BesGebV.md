@@ -65,6 +65,10 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 
 26. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
 
+26a. Schifffahrtordnung Emsmündung (EmsSchO),
+
+26b. Sperr- und Warngebietverordnung (SperrWarnGebV),
+
 27. Seeaufgabengesetz (SeeAufgG),
 
 28. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
@@ -157,13 +161,19 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 
 # Anlage – (zu § 2)Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4746 - 4778)
+(Fundstelle: BGBl. I 2021, 4746 - 4778;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
  
 
  
+
+Auslagen:  
+Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
+
+  
 
  
 
@@ -181,19 +191,21 @@ c) Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an dem 
 
 d) Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056 und 1057 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint.
 
-2. Gebührenreduzierung aufgrund geringeren Aufwands
+2. Gebührenreduzierung gemäß § 9 Absatz 4 BGebG. Die Gebühr 5031 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
+
+3. Gebührenreduzierung aufgrund geringeren Aufwands
 
 Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
 
-3. Doppelte Gebühr
+4. Doppelte Gebühr
 
 Erfordert die gebührenfähige Leistung ein Tätigwerden der Behörde außerhalb der Dienstzeit, so kann ein aufwandsentsprechender Aufschlag bis zur doppelten Höhe der Ausgangsgebühr erhoben werden.
 
-4. Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
+5. Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
 
 Für eine von einer Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes von Amts wegen angeordnete Untersuchung eines Wasserfahrzeugs werden Gebühren und Auslagen nur erhoben, wenn nach Prüfung des Wasserfahrzeuges durch die Schiffsuntersuchungskommission die Anordnung gerechtfertigt ist. Für eine von Amts wegen angeordnete Nachprüfung der Angaben eines von einem Schiffseichamt der Bundesrepublik Deutschland ausgestellten Eichscheins werden Gebühren und Auslagen nur erhoben, wenn sich die Annahme bestätigt, dass die Angaben nicht mehr zutreffen.
 
-5. Zuschlag bei Wartezeiten
+6. Zuschlag bei Wartezeiten
 
 Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur Untersuchung bereitsteht, kann dem Gebührenschuldner ein Zuschlag auferlegt werden. § 10 Absatz 4 der Allgemeinen Gebührenverordnung kommt zur Anwendung. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
@@ -205,12 +217,17 @@ Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein Wasserfahrzeu
 
  
 
-Auslagen:  
+1. Auslagen:
+
 Auslagen werden erhoben
 
-1. – für die Ausstellung des Kanalsteurerausweises (Nummer 13 des Gebührenverzeichnisses) und
+a) für die Ausstellung des Kanalsteurerausweises (Nummer 13 des Gebührenverzeichnisses) und
 
-2. – für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des Gebührenverzeichnisses)
+b) für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des Gebührenverzeichnisses)
+
+2. Gebührenreduzierung gemäß § 9 Absatz 4 BGebG
+
+Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
 
  
 

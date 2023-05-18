@@ -137,27 +137,7 @@
 
 (2) Unberührt bleiben
 
-1. die Schiffspersonalverordnung-Rhein vom 16. Dezember 2011 (BGBl. 2011 II S. 1300) mit Ausnahme
-
-a) des § 3.09 Nummer 1, hinsichtlich des Nachweises der Streckenfahrten auf dem Rhein,
-
-b) des Kapitels 7 Abschnitt 1 Unterabschnitt 2,
-
-c) des § 7.09 Nummer 1 Buchstabe c, Nummer 2 Buchstabe d hinsichtlich des Nachweises der Streckenfahrten auf dem Rhein und Nummer 5,
-
-d) des § 7.10,
-
-e) des § 7.11 Nummer 2 und 4,
-
-f) des § 7.12 Nummer 1 Buchstabe b,
-
-g) des § 7.13 Nummer 3 hinsichtlich der Streckenkenntnisse auf dem Rhein,
-
-h) des § 7.15,
-
-i) der Anlage D 3 und
-
-j) der Anlage D 7 Nummer 1.1 hinsichtlich der Streckenkenntnisse auf dem Rhein und Nummer 2.2,
+1. die Rheinschiffspersonalverordnung,
 
 2. die Talsperrenverordnung vom 15. März 2013 (VkBl. S. 331), die zuletzt durch Artikel 2 Absatz 1 der Verordnung vom 26. November 2021 (BGBl. I S. 4982) geändert worden ist,
 
@@ -235,7 +215,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 32. „Decksmannschaft“ Personen, die Funktionen auf Einstiegs-, Betriebs- und Führungsebene überwiegend an Deck ausüben;
 
-33. „Maschinenpersonal“ die Maschinisten und Maschinistinnen im Sinne der Schiffspersonalverordnung-Rhein und die Maschinenkundigen nach dieser Verordnung;
+33. „Maschinenpersonal“ die Maschinisten und Maschinistinnen im Sinne der Rheinschiffspersonalverordnung und die Maschinenkundigen nach dieser Verordnung;
 
 34. „Einstiegsebene“ der Verantwortungsbereich, der mit den Funktionen des Decksmannes und der Decksfrau (Decksleute) sowie des Leichtmatrosen und der Leichtmatrosin verbunden ist;
 
@@ -269,7 +249,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 48. „Sprechfunkzeugnis“ ein auf der Grundlage der Anlage 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk (Bekanntmachung vom 28. August 2000, BGBl. II S. 1213) erteiltes Sprechfunkzeugnis;
 
-49. „Rheinpatent“ ein Befähigungszeugnis für Schiffsführer und Schiffsführerinnen nach § 6.04 Nummer 1 der Schiffspersonalverordnung-Rhein;
+49. „Rheinpatent“ ein Befähigungszeugnis für Schiffsführer und Schiffsführerinnen nach § 11.02 Satz 1 Buchstabe a der Rheinschiffspersonalverordnung;
 
 50. „Schifferdienstbuch“ eine persönliche Aufzeichnung der Berufserfahrung eines Besatzungsmitglieds, insbesondere Einzelheiten zu seinen Fahrzeiten und Reisen;
 
@@ -293,7 +273,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 60. „STCW-Übereinkommen“ das Internationale Übereinkommen vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung;
 
-61. „Schiffspersonalverordnung-Rhein“ die Schiffspersonalverordnung-Rhein der Zentralkommission für die Rheinschifffahrt vom 16. Dezember 2011 (BGBl. 2011 II S. 1300);
+61. „Rheinschiffspersonalverordnung“ Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband) in der jeweils geltenden und anzuwendenden Fassung;
 
 62. „Berufsgenossenschaft“ die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 
@@ -337,7 +317,17 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 (1) Wer als Mitglied der Besatzung eines Fahrzeugs auf der Einstiegsebene oder der Betriebsebene tätig ist, bedarf für die von ihm wahrzunehmende Funktion an Bord eines im Schifferdienstbuch eingetragenen Unionsbefähigungszeugnisses, das nach § 61 erteilt worden ist.
 
-(2) Dem Unionsbefähigungszeugnis nach Absatz 1 ist gleichgestellt ein im Schifferdienstbuch eingetragenes Unionsbefähigungszeugnis, das von einem anderen Mitgliedstaat der Europäischen Union erteilt worden ist.
+(2) Dem Zeugnis nach Absatz 1 ist gleichgestellt
+
+1. ein im Schifferdienstbuch eingetragenes Unionsbefähigungszeugnis, das erteilt worden ist
+
+a) von einem Land oder
+
+b) von einem anderen Mitgliedstaat der Europäischen Union,
+
+<!-- -->
+
+2. ein im Schifferdienstbuch eingetragenes Befähigungszeugnis, das von einem Mitgliedstaat der Zentralkommission für die Rheinschifffahrt nach der Rheinschiffspersonalverordnung erteilt worden ist.
 
 (3) Die Unionsbefähigungszeugnisse werden erteilt für die Befähigung als Decksmann oder Decksfrau, Leichtmatrose oder Leichtmatrosin, Matrose oder Matrosin, Bootsmann oder Bootsfrau, Steuermann oder Steuerfrau.
 
@@ -349,7 +339,17 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 (1) Wer als Mitglied des Maschinenpersonals tätig ist, bedarf hierfür eines im Schifferdienstbuch eingetragenen Befähigungszeugnisses für die Befähigung als Maschinenkundiger oder Maschinenkundige, das nach § 64 Absatz 1 Satz 1 erteilt worden ist.
 
-(2) Dem Befähigungszeugnis nach Absatz 1 ist gleichgestellt ein im Schifferdienstbuch eingetragenes Befähigungszeugnis für maschinenkundiges Personal, das von einem anderen Mitgliedstaat der Europäischen Union erteilt worden ist.
+(2) Dem Zeugnis nach Absatz 1 ist gleichgestellt ein im Schifferdienstbuch eingetragenes Befähigungszeugnis
+
+1. für maschinenkundiges Personal, das erteilt worden ist
+
+a) von einem Land oder
+
+b) von einem anderen Mitgliedstaat der Europäischen Union,
+
+<!-- -->
+
+2. für Maschinisten oder Maschinistinnen, das von einem Mitgliedstaat der Zentralkommission für die Rheinschifffahrt nach der Rheinschiffspersonalverordnung erteilt worden ist.
 
 (3) Bei Fahrten auf Seeschiffen, die auf Wasserstraßen der Zonen 3 und 4 fahren, ist ausreichend ein Zeugnis, das nach den Anforderungen des STCW-Übereinkommens erteilt oder anerkannt ist.
 
@@ -363,17 +363,25 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 2. § 78 Absatz 3 Nummer 2 bis 5 erteilten Fährschifferzeugnisses, Behördenschifferzeugnisses, Sportschifferzeugnisses oder Kleinschifferzeugnisses für die entsprechende Fahrzeugkategorie.
 
-(2) Einem Unionspatent nach Absatz 1 Nummer 1 ist gleichgestellt ein Unionspatent, das erteilt worden ist
+(2) Dem Patent nach Absatz 1 Nummer 1 ist gleichgestellt
 
-1. von der zuständigen Behörde eines Landes oder
+1. ein Unionspatent, das erteilt worden ist
 
-2. von der zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union.
+a) von einem Land oder
+
+b) von einem anderen Mitgliedstaat der Europäischen Union, oder
+
+2. ein Rheinpatent.
 
 (3) Wer eine frei fahrende Fähre führt, benötigt zusätzlich zum Fährschifferzeugnis ein Unionsbefähigungszeugnis mindestens für die Einstiegsebene.
 
 (4) Statt eines Befähigungszeugnisses nach Absatz 1 ist ausreichend das Befähigungszeugnis für Schiffsführer eines Staates, der nicht der Europäischen Union angehört, soweit das Zeugnis nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist.
 
-(5) Ein Befähigungszeugnis zum Führen von Behördenfahrzeugen, Feuerlöschbooten oder Fahrzeugen des Katastrophenschutzes auf Grund einer Befähigungsprüfung einer nach Landesrecht zuständigen Behörde für Beschäftigte von Behörden eines Landes oder seiner Gemeinden oder Gemeindeverbände steht einem Behördenschifferzeugnis nach Absatz 1 Nummer 2 gleich, soweit die Befähigungsprüfung der nach Landesrecht zuständigen Behörde den Anforderungen an die Befähigungsprüfung nach § 40 entspricht.
+(5) Ein Befähigungszeugnis zum Führen von Behördenfahrzeugen, Feuerlöschbooten oder Fahrzeugen des Katastrophenschutzes auf Grund einer Befähigungsprüfung einer nach Landesrecht zuständigen Behörde für Beschäftigte von Behörden eines Landes oder seiner Gemeinden oder Gemeindeverbände steht einem Behördenschifferzeugnis nach Absatz 1 Nummer 2 gleich, soweit die Befähigungsprüfung der nach Landesrecht zuständigen Behörde den Anforderungen an die Befähigungsprüfung nach § 40 entspricht. Dies wird vom Bundesministerium für Digitales und Verkehr festgestellt. Die Sätze 1 und 2 gelten nicht für den amtlichen Berechtigungsschein.
+
+(6) Das Behördenpatent nach der Rheinschiffspersonalverordnung gilt als Behördenschifferzeugnis, das Sportpatent nach der Rheinschiffspersonalverordnung als Sportschifferzeugnis im Sinne dieser Verordnung.
+
+(7) Statt eines Kleinschifferzeugnisses ist auf Wasserstraßen der Zonen 1 und 2 die Einhaltung des § 15 der See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457), die zuletzt durch Artikel 3 der Verordnung vom 3. März 2020 (BGBl. I S. 412) geändert worden ist, ausreichend.
 
 # § 12 – Ausnahme von der Pflicht zum Besitz eines Befähigungszeugnisses für die Besatzungsmitglieder auf Führungsebene
 
@@ -393,11 +401,23 @@ Satz 1 gilt nicht für Fahrgastboote.
 
 (2) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20 Metern berechtigen auch
 
-1. auf Wasserstraßen der Zonen 1 und 2 ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser Zonen gilt,
+1. auf Wasserstraßen der Zonen 1 und 2
 
-2. auf Wasserstraßen der Zonen 3 und 4 ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser Zonen gilt, oder ein Sportschifferzeugnis.
+a) ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser Zonen gilt,
 
-Satz 1 gilt nicht für Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren.
+b) ein Sportschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen oder
+
+c) ein Behördenschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen,
+
+2. auf Wasserstraßen der Zonen 3 und 4
+
+a) ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser Zonen gilt,
+
+b) ein Sportschifferzeugnis oder
+
+c) ein Behördenschifferzeugnis.
+
+Satz 1 gilt nicht für Fährschifferzeugnisse, die auf seil- oder kettengebundene Fähren beschränkt sind, und nicht für Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote und schwimmende Geräte sowie Fähren.
 
 § 12 Abs. 1 Satz 1 Nr. 2 (früher Nr. 3) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
 
@@ -407,7 +427,7 @@ Satz 1 gilt nicht für Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach 
 
 1. Dienstfahrzeuge der Bundeswehr, der Bundeszollverwaltung, der Bundespolizei, der Bereitschaftspolizei und der Wasserschutzpolizei der Länder, jeweils mit einer Länge von nicht mehr als 25 Metern,
 
-2. Dienstfahrzeuge des Zivil- und Katastrophenschutzes, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Schifffahrtsverwaltung eines Landes, eines Landeskriminalamtes und der Feuerwehr, jeweils mit einer Länge von weniger als 20 Metern,
+2. Dienstfahrzeuge des Zivil- und Katastrophenschutzes, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Schifffahrtsverwaltung oder der Fischereiverwaltung eines Landes, eines Landeskriminalamtes und der Feuerwehr, jeweils mit einer Länge von weniger als 20 Metern,
 
 3. Wasserrettungsfahrzeuge einer als gemeinnützig anerkannten Körperschaft mit einer Länge von weniger als 20 Metern.
 
@@ -431,27 +451,11 @@ Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann erlauben, dass
 
 (4) Das Behördenschifferzeugnis berechtigt zum Führen von Behördenfahrzeugen, Feuerlöschbooten und Fahrzeugen des Katastrophenschutzes auf den Wasserstraßen der Zonen 3 und 4.
 
-(5) Das Kleinschifferzeugnis berechtigt zum Führen von Fahrzeugen, die nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen und für die nach anderen Vorschriften kein Schifferzeugnis erforderlich ist. Die Fahrzeugart, für die das jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen. Dies setzt den erfolgreichen Abschluss einer theoretischen Prüfung für das Unionspatent durch den Inhaber oder die Inhaberin des Kleinschifferzeugnisses voraus.
+(5) Das Kleinschifferzeugnis berechtigt zum Führen von Fahrzeugen, die nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen und für die nach anderen Vorschriften kein Schifferzeugnis erforderlich ist. Die Fahrzeugart und das Fahrtgebiet, für die das jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen. Dies setzt den erfolgreichen Abschluss einer theoretischen Prüfung für das Unionspatent durch den Inhaber oder die Inhaberin des Kleinschifferzeugnisses voraus.
 
-(6) Die in den Absätzen 1, 3 bis 5 genannten Befähigungszeugnisse gelten auch auf den Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine besondere Berechtigung für maritime Wasserstraßen vorliegt.
+(6) Die in den Absätzen 1 bis 5 genannten Befähigungszeugnisse gelten auch auf den Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine besondere Berechtigung für maritime Wasserstraßen vorliegt. Abweichend von Satz 1 gilt das Kleinschifferzeugnis im Falle des § 39 Absatz 1 Nummer 5 Buchstabe a Doppelbuchstabe aa nur für Wasserstraßen der Zonen 1 und 2.
 
-(7) Für das Führen von Fähren auf
-
-1. der Flensburger Förde,
-
-2. der Kieler Förde,
-
-3. der Trave unterhalb des Lübecker Hafens,
-
-4. der Elbe, soweit diese zur Zone 2-See gehört,
-
-5. der Weser unterhalb der Eisenbahnbrücke in Bremen,
-
-6. der Jade und
-
-7. der Ems unterhalb des Emdener Hafens
-
-ist ein Unionspatent mit der besonderen Berechtigung für maritime Wasserstraßen erforderlich.
+(7) (weggefallen)
 
 # § 16 – Besondere Berechtigungen für das Führen von Fahrzeugen
 
@@ -483,7 +487,11 @@ Satz 1 Nummer 2 gilt für das Führen von Schiffen unter 20 Metern nur, soweit e
 
 (1) Wer als Sachkundiger oder Sachkundige für Flüssigerdgas (LNG) oder als Sachkundiger oder Sachkundige für die Fahrgastschifffahrt tätig ist, bedarf hierfür eines Unionsbefähigungszeugnisses, das nach § 85 Absatz 1 Satz 1 oder Absatz 2 Satz 1 erteilt worden ist.
 
-(2) Dem Unionsbefähigungszeugnis nach Absatz 1 ist gleichgestellt ein Unionsbefähigungszeugnis, das von einem anderen Mitgliedstaat der Europäischen Union erteilt worden ist.
+(2) Dem Zeugnis nach Absatz 1 ist gleichgestellt
+
+1. ein Unionsbefähigungszeugnis, das von einem anderen Mitgliedstaat der Europäischen Union erteilt worden ist,
+
+2. ein entsprechendes Befähigungszeugnis, das von einem Mitgliedstaat der Zentralkommission für die Rheinschifffahrt nach der Rheinschiffspersonalverordnung erteilt worden ist.
 
 (3) Für Sachkundige für die Fahrgastschifffahrt oder Sachkundige für Flüssigerdgas auf Seeschiffen ist bei Fahrten auf Wasserstraßen der Zonen 3 und 4 ausreichend ein den Anforderungen eines Befähigungszeugnisses nach Absatz 1 genügendes Zeugnis, das nach dem STCW-Übereinkommen erteilt oder nach dem STCW-Übereinkommen anerkannt ist.
 
@@ -509,9 +517,9 @@ jeweils nach dem Muster in Anlage 3, oder
 
 # § 18 – Erfassung der Befähigungszeugnisse und Schifferdienstbücher im Befähigungsregister
 
-(1) Die ausstellende Behörde ist befugt, jedes nach dieser Verordnung erteilte oder verlängerte Befähigungszeugnis, mit Ausnahme der Befähigungszeugnisse für Ersthelfer und Ersthelferinnen sowie atemschutzgerättragende Personen, sowie jedes ausgestellte Schifferdienstbuch mit den darin enthaltenen Daten durch Eintragung in dem jeweiligen Register nach § 13 oder § 14 des Binnenschifffahrtsaufgabengesetzes zu erheben und zu speichern und zu verwenden, soweit dies für die Registerführung in dem jeweiligen Register nach § 13 oder § 14 des Binnenschifffahrtsaufgabengesetzes erforderlich ist.
+(1) Die ausstellende Behörde ist befugt, jedes nach dieser Verordnung erteilte oder verlängerte Befähigungszeugnis, mit Ausnahme der Befähigungszeugnisse für Ersthelfer und Ersthelferinnen sowie atemschutzgerättragende Personen, sowie jedes ausgestellte Schifferdienstbuch mit den darin enthaltenen Daten durch Eintragung in dem Register nach § 13 des Binnenschifffahrtsaufgabengesetzes zu erheben und zu speichern und zu verwenden, soweit dies für die Registerführung in dem Register nach § 13 des Binnenschifffahrtsaufgabengesetzes erforderlich ist.
 
-(2) Ein erstmals erteiltes Befähigungszeugnis sowie ein erstmals ausgestelltes Schifferdienstbuch ist mit dem Status „aktiv“ in das jeweilige Register einzutragen. Ein verlängertes Zeugnis ist mit dem Status „verlängert“ einzutragen.
+(2) Ein erstmals erteiltes Befähigungszeugnis sowie ein erstmals ausgestelltes Schifferdienstbuch ist mit dem Status „aktiv“ in das jeweilige Register einzutragen. Ein Folgezeugnis ist als weiteres, neues Zeugnis mit einer entsprechenden Folgenummer in das Register einzutragen.
 
 (3) Das jeweilige Register ist nach den Vorgaben der Delegierten Verordnung (EU) 2020/473 der Kommission vom 20. Januar 2020 zur Ergänzung der Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates in Bezug auf die Standards der Datenbanken für Unionsbefähigungszeugnisse, Schifferdienstbücher und Bordbücher (ABl. L 100 vom 1.4.2020, S. 1) an die Unionsdatenbank der EU-Kommission anzubinden.
 
@@ -553,6 +561,8 @@ bescheinigt, so ordnet die ausstellende Behörde Risikominderungsmaßnahmen und 
 
 (4) Tritt eine Einschränkung der medizinischen Tauglichkeit nach Erteilung des Befähigungszeugnisses ein, so ordnet die ausstellende Behörde Risikominderungsmaßnahmen und Beschränkungen nach Maßgabe der Angaben im Tauglichkeitsnachweis nach Absatz 1 Satz 1 durch Eintrag im Befähigungszeugnis an. Hierzu hat der Inhaber oder die Inhaberin der ausstellenden Behörde das Befähigungszeugnis auszuhändigen. Wird danach ein Tauglichkeitsnachweis im Sinne des Absatzes 1 Satz 1 vorgelegt, das dem Besatzungsmitglied eine unbeschränkte medizinische Tauglichkeit bescheinigt, hat die ausstellende Behörde die eingetragenen Risikominderungsmaßnahmen und Beschränkungen nach Satz 1 aus dem Befähigungszeugnis ungültig zu machen.
 
+(5) Dem Nachweis nach Absatz 1 Satz 1 ist gleichgestellt ein Tauglichkeitsnachweis nach Maßgabe der Bestimmungen der Rheinschiffspersonalverordnung, der ausgestellt worden ist von einem Arzt oder einer Ärztin, der oder die hierzu von der zuständigen Behörde eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt anerkannt worden ist.
+
 # § 22 – Regelmäßiger Nachweis der medizinischen Tauglichkeit
 
 (1) Die medizinische Tauglichkeit ist ab Vollendung des 60. Lebensjahres alle fünf Jahre und ab Vollendung des 70. Lebensjahres alle zwei Jahre durch einen in § 21 Absatz 1 Satz 1 genannten Tauglichkeitsnachweis nachzuweisen, der nicht älter als drei Monate sein darf.
@@ -571,9 +581,11 @@ Abweichend von § 20 gelten für die medizinische Tauglichkeit der Maschinenkund
 
 # § 24 – Zuständigkeit für die Durchführung von Tauglichkeitsuntersuchungen
 
-(1) Die Tauglichkeitsuntersuchungen nach den §§ 21, 22 dürfen nur von Ärzten und Ärztinnen durchgeführt werden, die hierzu vor dem 18. Januar 2022 von der Berufsgenossenschaft auf Grundlage binnenschifffahrtsrechtlicher Vorschriften ermächtigt worden sind. Die bis zum 17. Januar 2022 erteilten Ermächtigungen gelten in dem bisherigen Umfang bis zu einer Neuregelung weiter, längstens bis zum 17. Januar 2024.
+(1) Die Tauglichkeitsuntersuchungen nach den §§ 21 und 22 dürfen vorbehaltlich des § 21 Absatz 5 nur von Ärzten oder Ärztinnen durchgeführt werden, die hierzu von der Berufsgenossenschaft zugelassen worden sind. Abweichend von Satz 1 dürfen Tauglichkeitsuntersuchungen zum Erwerb des Kleinschifferzeugnisses auch von Personen durchgeführt werden, die einen Abschluss als Facharzt oder Fachärztin für Arbeitsmedizin besitzen oder eine Zusatz-Weiterbildung Betriebsmedizin abgeschlossen haben.
 
-(2) Die zuständige Behörde veröffentlicht elektronisch eine Übersicht über die ermächtigten Ärzte und Ärztinnen.
+(2) Die Voraussetzungen und das Verfahren für die Zulassung sowie für die Verlängerung der Zulassung bestimmen sich nach Anlage 6a. Die Zulassung und die Verlängerung der Zulassung können mit Nebenbestimmungen versehen werden, um den Standard der ärztlichen Untersuchungen und weiterer Maßnahmen sicherzustellen. Die Zulassung ist nicht übertragbar.
+
+(3) Die Berufsgenossenschaft hat eine Übersicht über die zugelassenen Ärzte und Ärztinnen elektronisch zu veröffentlichen.
 
 # § 25 – Fahrzeit
 
@@ -611,7 +623,7 @@ c) längsseitigen Fortbewegen von Schiffen nach den Nummern 1 und 2 oder von sch
 
 Fahrzeiten auf seil- oder kettengebundenen Fähren werden nur für das Fährschifferzeugnis anerkannt.
 
-(5) Auf Behördenfahrzeugen können unabhängig von ihrer Länge Fahrzeiten erworben werden, sofern es sich um geschlossene Fahrzeuge handelt.
+(5) Auf Behördenfahrzeugen können unabhängig von ihrer Länge Fahrzeiten für Schifferzeugnisse erworben werden, sofern es sich um Fahrzeuge mit umschlossenem Steuerstand handelt.
 
 (6) Fahrzeiten auf den in den Absätzen 3 bis 5 genannten Fahrzeugen können auch erworben werden
 
@@ -641,7 +653,7 @@ Dies gilt auch dann, wenn die in Satz 1 genannten Wasserstraßen keine schiffbar
 
 (3) Die Fahrzeit kann auch durch ein Befähigungszeugnis für Schiffsführer und Schiffsführerinnen nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, nachgewiesen werden. Die Fahrzeit wird dabei in dem Umfang anerkannt, in dem sie für die Erteilung dieses Zeugnisses bereits nachgewiesen worden ist.
 
-(4) Die Fahrzeit auf See sowie in der Küsten- oder Fischereischifffahrt ist durch eine Dienstbescheinigung nach § 33 des Seearbeitsgesetzes nachzuweisen.
+(4) Die Fahrzeit auf See, in der Küsten- oder Fischereischifffahrt ist durch eine Dienstbescheinigung nach § 33 des Seearbeitsgesetzes, durch ein Seefahrtsbuch oder durch einen anderen geeigneten Nachweis, der die erforderlichen Informationen entsprechend einer Dienstbescheinigung enthält, nachzuweisen.
 
 (5) Die Fahrzeit sowie die Streckenfahrten auf einem Sportboot nach § 25 Absatz 7 können bis zum Ablauf der dort bezeichneten Übergangsfrist auch durch die Arbeitsverträge, Bescheinigungen des Arbeitgebers oder eidesstattliche Versicherung nachgewiesen werden. Wird der Nachweis durch Arbeitsverträge oder Bescheinigungen des Arbeitgebers erbracht, müssen diese die folgenden Angaben enthalten:
 
@@ -699,7 +711,7 @@ Wer ein Unionsbefähigungszeugnis als Decksmann oder Decksfrau erwerben will, mu
 
 2. an einer grundlegenden Sicherheitsausbildung nach Anlage 7 teilgenommen haben, die nach § 53 zugelassen wurde.
 
-Satz 1 Nummer 2 gilt nicht für Personen, die über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen 2 bis 5 der Seeleute-Befähigungsverordnung verfügen.
+Satz 1 Nummer 2 gilt nicht für Personen, die über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen 2 bis 5 der Seeleute-Befähigungsverordnung oder ein entsprechendes, in Deutschland anerkanntes, ausländisches Zeugnis verfügen.
 
 # § 30 – Leichtmatrose und Leichtmatrosin
 
@@ -721,7 +733,7 @@ Wer ein Unionsbefähigungszeugnis als Matrose oder Matrosin erwerben will, muss
 
 a) mindestens 17 Jahre alt sein,
 
-b) ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben und
+b) ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben und
 
 c) eine Fahrzeit von mindestens 90 Tagen als Teil dieses Ausbildungsprogramms nachweisen
 
@@ -735,7 +747,7 @@ c) eine Fahrzeit als Mitglied der Decksmannschaft von mindestens 360 Tagen nachw
 
 3. oder
 
-a) ein nach § 55 Absatz 3 zugelassenes, mindestens neun Monate umfassendes Weiterbildungsprogramm für die Betriebsebene erfolgreich abgeschlossen haben,
+a) ein nach § 55 Absatz 3 zugelassenes, mindestens neun Monate umfassendes Weiterbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Weiterbildungsprogramm erfolgreich abgeschlossen haben,
 
 b) eine Fahrzeit von mindestens 90 Tagen als Teil dieses Weiterbildungsprogramms nachweisen und
 
@@ -751,7 +763,7 @@ Wer ein Unionsbefähigungszeugnis als Bootsmann oder Bootsfrau erwerben will, mu
 
 2. oder
 
-a) ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm für die Betriebsebene erfolgreich abgeschlossen haben und
+a) ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben und
 
 b) eine Fahrzeit von mindestens 270 Tagen als Teil dieses Ausbildungsprogramms nachweisen.
 
@@ -767,7 +779,7 @@ b) ein Sprechfunkzeugnis besitzen
 
 2. oder
 
-a) ein nach § 55 Absatz 1 oder nach Absatz 2 zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben,
+a) ein nach § 55 Absatz 1 oder 2 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben,
 
 b) eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms nachweisen und
 
@@ -817,7 +829,7 @@ c) ein Sprechfunkzeugnis besitzen.
 
 # § 35 – Behördliche Befähigungsprüfung für die Betriebsebene
 
-(1) Gegenstand der behördlichen Befähigungsprüfung für die Betriebsebene sind die Kenntnisse und Fertigkeiten der Anlage 8. Die Prüfung wird als theoretische Prüfung durchgeführt.
+(1) Gegenstand der behördlichen Befähigungsprüfung für die Betriebsebene sind die Kenntnisse der Anlage 8. Die Prüfung wird als theoretische Prüfung durchgeführt.
 
 (2) Die Prüfung wird in schriftlicher oder digitaler Form durchgeführt und besteht aus Antwort-Wahl-Aufgaben.
 
@@ -831,7 +843,7 @@ Wer ein Unionspatent erwerben will, muss
 
 a) mindestens 18 Jahre alt sein,
 
-b) ein nach § 55 Absatz 2 zugelassenes Ausbildungsprogramm für die Führungsebene erfolgreich abgeschlossen haben,
+b) ein nach § 55 Absatz 2 zugelassenes Ausbildungsprogramm für die Führungsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben,
 
 c) eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms oder danach nachweisen und
 
@@ -873,13 +885,13 @@ d) ein Sprechfunkzeugnis besitzen.
 
 (3) Die praktische Prüfung wird entsprechend den Vorgaben der Anlage 10 durchgeführt. Sie umfasst die Prüfungsteile Reiseplanung und Reisedurchführung. Der Prüfungsteil Reiseplanung wird als mündliche Prüfung durchgeführt. Der Prüfungsteil Reisedurchführung wird an einem Simulator abgenommen, der nach § 89 zugelassen ist. Auf Wunsch des Prüflings wird ihm ein Zeugnis über das Bestehen der praktischen Prüfung am Simulator nach dem Muster des Anhangs III der Durchführungsverordnung (EU) 2020/182 ausgestellt, wenn er das Unionspatent im Ausland erwerben möchte. Der Prüfungsteil Reisedurchführung kann zur Vermeidung unbilliger Härten auch an Bord eines Schiffes abgenommen werden.
 
-(4) Für Prüflinge, die weder ein zugelassenes Ausbildungsprogramm oder Weiterbildungsprogramm abgeschlossen haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine behördliche Befähigungsprüfung bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, sind
+(4) Wer weder ein zugelassenes Ausbildungsprogramm oder Weiterbildungsprogramm abgeschlossen hat, das jeweils auf den Befähigungsstandards für die Betriebsebene beruht, noch eine behördliche Befähigungsprüfung bestanden hat, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, muss ergänzend zu der Prüfung zum Unionspatent nach Absatz 1 eine Zusatzprüfung nach Maßgabe des Satzes 2 ablegen. Die Zusatzprüfung umfasst
 
-1. die Anforderungen der praktischen Prüfung um die besonderen Anforderungen zu ergänzen, die in den Standards in Anlage 11 festgelegt sind, und
+1. einen praktischen Prüfungsteil mit den besonderen Anforderungen, die in den Standards in Anlage 11 festgelegt sind, und
 
-2. die Anforderungen der theoretischen Prüfung um die besonderen Anforderungen zu ergänzen, die im Abschnitt 0 des Standards in Anlage 9 festgelegt sind.
+2. einen theoretischen Prüfungsteil mit den besonderen Anforderungen, die im Abschnitt 0 des Standards in Anlage 9 festgelegt sind.
 
-Satz 1 gilt nicht für Prüflinge, die das Befähigungszeugnis als Matrose oder Matrosin vor dem 18. Januar 2022 erworben haben.
+Satz 1 gilt nicht für Personen, die das Befähigungszeugnis als Matrose oder Matrosin vor dem 18. Januar 2022 erworben haben.
 
 # § 39 – Erwerb des Schifferzeugnisses
 
@@ -889,19 +901,55 @@ Satz 1 gilt nicht für Prüflinge, die das Befähigungszeugnis als Matrose oder 
 
 2. eine behördliche Befähigungsprüfung zum Erwerb des jeweiligen Schifferzeugnisses erfolgreich abgelegt haben,
 
-3. ein Sprechfunkzeugnis besitzen und
+3. für das Fährschifferzeugnis, das Behördenschifferzeugnis, das Sportschifferzeugnis oder, im Falle des § 15 Absatz 5 Satz 3, für das Kleinschifferzeugnis ein Sprechfunkzeugnis besitzen,
 
-4. für das Fährschifferzeugnis oder für das Behördenschifferzeugnis eine Fahrzeit von 180 Tagen nachweisen.
+4. für das Fährschifferzeugnis oder für das Behördenschifferzeugnis eine Fahrzeit von 180 Tagen nachweisen und
+
+5. für
+
+a) das Kleinschifferzeugnis für Wasserstraßen der Zonen 1 und 2
+
+aa)  
+ein in § 40 Absatz 4 Nummer 1 oder 2 genanntes Befähigungszeugnis,
+
+bb)  
+einen in § 40 Absatz 4 Nummer 5 genannten Berechtigungsschein oder
+
+cc) ein in § 40 Absatz 4 Nummer 4 genanntes Befähigungszeugnis, soweit es mit einer besonderen Berechtigung für maritime Wasserstraßen verbunden ist,
+
+b) das Kleinschifferzeugnis für Wasserstraßen der Zonen 3 und 4 ein in § 40 Absatz 4 Nummer 3 bis 6 genanntes Befähigungszeugnis
+
+besitzen.
 
 Sofern Fahrzeiten überwiegend oder ganz auf seil- oder kettengebundenen Fähren nachgewiesen werden, wird das Fährschifferzeugnis auf diesen Fährtyp beschränkt.
 
-(2) Die zuständige Behörde kann zur Vermeidung unbilliger Härten für die Erteilung eines Schifferzeugnisses Ausnahmen von dem Besitz eines Sprechfunkzeugnisses oder von den Anforderungen an die Fahrzeit zulassen. Die zuständige Behörde kann die Erteilung mit Auflagen verbinden. Ausnahmen sind insbesondere möglich bei Personen, die
+(2) Wer ein Fährschifferzeugnis erwerben möchte, das zum Führen einer Fähre auf
+
+1. der Kieler Förde,
+
+2. der Trave unterhalb des Lübecker Hafens,
+
+3. der Elbe, soweit diese zur Zone 2-See gehört,
+
+4. der Weser unterhalb der Eisenbahnbrücke in Bremen oder
+
+5. der Ems unterhalb des Emdener Hafens
+
+berechtigt, muss nachweisen, die nach Absatz 1 Satz 1 Nummer 4 erforderliche Fahrzeit an der Fährstelle der betreffenden Wasserstraße erworben zu haben. Zusätzlich muss die Person
+
+1. ein Fährschifferzeugnis für eine Fährstelle außerhalb der genannten Wasserstraßen besitzen,
+
+2. mindestens 360 Tage Fahrzeit auf Wasserstraßen der Zone 1 oder der Zone 2 nachweisen oder
+
+3. eine als Mitglied der Decksmannschaft auf einem Seeschiff erworbene Berufserfahrung von mindestens 500 Tagen nachweisen.
+
+(3) Die zuständige Behörde kann zur Vermeidung unbilliger Härten für die Erteilung eines Schifferzeugnisses Ausnahmen von dem Besitz eines Sprechfunkzeugnisses oder von den Anforderungen an die Fahrzeit zulassen. Die zuständige Behörde kann die Erteilung mit Auflagen verbinden. Ausnahmen sind insbesondere möglich bei Personen, die
 
 1. in einem geografisch abgegrenzten Gebiet Fahrten unternehmen oder
 
 2. im Saisonbetrieb fahren.
 
-(3) Zudem muss die das Schifferzeugnis beantragende Person die notwendige Zuverlässigkeit zum Führen eines Fahrzeugs besitzen. Unzuverlässig ist insbesondere,
+(4) Zudem muss die das Schifferzeugnis beantragende Person die notwendige Zuverlässigkeit zum Führen eines Fahrzeugs besitzen. Unzuverlässig ist insbesondere,
 
 1. wer erheblich gegen eine verkehrsstrafrechtliche Vorschrift verstoßen hat und deswegen rechtskräftig verurteilt worden ist,
 
@@ -913,19 +961,23 @@ Sofern Fahrzeiten überwiegend oder ganz auf seil- oder kettengebundenen Fähren
 
 (1) Die behördlichen Befähigungsprüfungen zum Erwerb des Schifferzeugnisses bestehen aus einem theoretischen und einem praktischen Teil.
 
-(2) Die Inhalte der jeweiligen theoretischen Prüfungsteile ergeben sich aus den Anforderungen für das jeweilige Zeugnis nach Anlage 12. Bezieht sich die Fährschifferprüfung auf eine Fährstelle in einer Binnenwasserstraße mit maritimem Charakter, ist die Prüfung durch besondere maritime Fragen zur Fährstelle zu ergänzen.
+(2) Die Inhalte der jeweiligen theoretischen Prüfungsteile ergeben sich aus den Anforderungen für das jeweilige Zeugnis nach Anlage 12.
 
 (3) In der praktischen Prüfung muss der Prüfling nachweisen, dass er den Umgang mit dem jeweiligen Fahrzeug beherrscht. Der Prüfling kann mit der zuständigen Behörde abstimmen, dass die Prüfung an einem nach § 89 zugelassenen Simulator abgenommen wird.
 
 (4) Abweichend von Absatz 1 besteht die Prüfung zum Sportschifferzeugnis nur aus einem theoretischen Teil, wenn der Prüfling über Folgendes verfügt:
 
-1. einen Fährführerschein oder ein Fährschifferzeugnis,
+1. eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-2. einen amtlichen Berechtigungsschein,
+2. ein Befähigungszeugnis als Kapitän oder als Nautischer Schiffsoffizier oder einen Befähigungsnachweis als Schiffsmechaniker nach seeverkehrsrechtlichen Vorschriften,
 
-3. eine Fahrerlaubnis für Sportboote unter Antriebsmaschine nach § 3 Absatz 1 oder § 4 Absatz 1 der Sportbootführerscheinverordnung oder ein Befähigungszeugnis nach § 3 Absatz 4 der Sportbootführerscheinverordnung oder
+3. eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-4. mindestens ein Befähigungszeugnis als Matrose in der Binnenschifffahrt, ein Befähigungszeugnis als Kapitän oder als Nautischer Schiffsoffizier oder einen Befähigungsnachweis als Schiffsmechaniker nach seeverkehrsrechtlichen Vorschriften.
+4. einen Fährführerschein oder ein Fährschifferzeugnis für frei fahrende Fähren,
+
+5. einen amtlichen Berechtigungsschein oder
+
+6. mindestens ein Befähigungszeugnis als Steuermann.
 
 (5) Abweichend von Absatz 1 besteht die Prüfung für das Kleinschifferzeugnis nur aus einem theoretischen Teil, der abweichend von Absatz 2 die Prüfungsteile „Navigation und Verkehrsvorschriften“, „Betrieb des Fahrzeugs“, „Wartung und Instandhaltung“ und „Gesundheit, Sicherheit und Umweltschutz“ der Prüfung zum Unionspatent umfasst. Die Prüfung kann durch Fragen bezogen auf den jeweiligen Einsatzbereich des Kleinschifferzeugnisses ergänzt werden. Wenn das Kleinschifferzeugnis für das Führen von Fahrzeugen erworben werden soll, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen, ist abweichend von Satz 1 zusätzlich eine praktische Prüfung nach Absatz 3 sowie eine theoretische Prüfung erforderlich, die alle Prüfungsteile der theoretischen Prüfung zum Unionspatent umfasst. Wenn das Kleinschifferzeugnis unter Gewährung von Ausnahmen nach § 39 Absatz 2 erworben wird, kann die zuständige Behörde abweichend von Satz 1 das Ablegen einer praktischen Prüfung nach Absatz 3 verlangen.
 
@@ -981,7 +1033,7 @@ Die Fahrten auf dem Risikostreckenabschnitt werden anhand des Schifferdienstbuch
 
 (2) Gegenstand der behördlichen Befähigungsprüfung für Risikostrecken sind die Kenntnisse und Fertigkeiten nach Anlage 15. Die Prüfung ist mündlich abzunehmen.
 
-(3) Die zuständige Behörde kann mit Zustimmung der zuständigen Behörde eines anderen Staates auch für eine Risikostrecke des anderen Staates die Prüfung abnehmen nach den Anforderungen des anderen Staates, in dem sich die Risikostrecke befindet.
+(3) Die zuständige Behörde kann mit Zustimmung der zuständigen Behörde eines anderen Staates auch für eine Risikostrecke des anderen Staates die Prüfung abnehmen nach den Anforderungen des anderen Staates, in dem sich die Risikostrecke befindet. Befindet sich die Risikostrecke nach Satz 1 in einem Drittland, dessen Zeugnisse nicht nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden sind, erteilt die zuständige Behörde nach erfolgreicher Prüfung einen Nachweis der Berechtigung, diese Risikostrecke zu befahren, dessen Art einvernehmlich mit dem Drittstaat festgelegt wird.
 
 # § 43 – Erwerb der besonderen Berechtigung für maritime Wasserstraßen
 
@@ -1045,7 +1097,7 @@ Wer ein Unionsbefähigungszeugnis für Sachkundige für die Fahrgastschifffahrt 
 
 1. mindestens 18 Jahre alt sein und
 
-2. den Basislehrgang für Sachkundige für die Fahrgastschifffahrt erfolgreich absolviert haben.
+2. den Basislehrgang für Sachkundige für die Fahrgastschifffahrt oder das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt erfolgreich absolviert haben.
 
 # § 49 – Basislehrgang für Sachkundige für die Fahrgastschifffahrt
 
@@ -1143,7 +1195,7 @@ b) bei Sachkundigen für die Fahrgastschifffahrt den Vorgaben nach § 49;
 
 # § 57 – Verfahren zur Zulassung von Lehrgängen für Sachkundige
 
-(1) Der Antrag auf Zulassung von Basislehrgängen oder Auffrischungslehrgängen für Sachkundige ist schriftlich oder elektronisch bei der zuständigen Behörde zu stellen. Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis übertragen, durch Rechtsverordnung die Anforderungen an den Antrag, insbesondere die erforderlichen Angaben und beizufügenden Unterlagen, sowie Einzelheiten des Verfahrens zu regeln.
+(1) Der Antrag auf Zulassung von Basislehrgängen oder Auffrischungslehrgängen für Sachkundige ist schriftlich oder elektronisch bei der zuständigen Behörde zu stellen. Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis übertragen, durch Rechtsverordnung die Anforderungen an den Antrag, insbesondere die erforderlichen Angaben und beizufügenden Unterlagen, sowie Einzelheiten des Zulassungsverfahrens und des Prüfungsverfahrens zu regeln.
 
 (2) Die Zulassung von Lehrgängen für Sachkundige wird befristet auf fünf Jahre erteilt. Die Zulassung wird auf schriftlich oder elektronisch gestellten Antrag jeweils um fünf Jahre verlängert, wenn die antragstellende Person nachweist, dass die Voraussetzungen nach § 56 weiterhin vorliegen.
 
@@ -1161,15 +1213,13 @@ Ab dem Zeitpunkt des Widerrufes oder der Aussetzung dürfen die im Rahmen des Le
 
 # § 58 – Lehrgänge für atemschutzgerättragende Personen
 
-Die Voraussetzungen und das Verfahren zur Zulassung von Grundlehrgängen und Wiederholungslehrgängen für atemschutzgerättragende Personen bestimmen sich nach Anlage 23.
+(1) Die Voraussetzungen und das Verfahren zur Zulassung von Grundlehrgängen und Wiederholungslehrgängen für atemschutzgerättragende Personen bestimmen sich nach Anlage 23.
+
+(2) Abweichend von Absatz 1 kann die Berufsgenossenschaft im Falle von Ausbildungsstätten der Unfallversicherungsträger, von Feuerwehrschulen oder Herstellerfirmen von Atemschutzgeräten mit deren Einwilligung Grundlehrgänge und Wiederholungslehrgänge von Amts wegen zulassen, sofern die genannten Stellen aufgrund ihrer besonderen Sachkunde Gewähr dafür bieten, die nach Anlage 23 Abschnitt 2 erforderlichen Voraussetzungen zu erfüllen. Die Berufsgenossenschaft veröffentlicht elektronisch eine Übersicht der nach Satz 1 zugelassenen Lehrgänge.
 
 # § 59 – Durchführung der behördlichen Befähigungsprüfung
 
-(1) Die behördliche Befähigungsprüfung für die Betriebsebene wird im Auftrag des Bundes von der Industrie- und Handelskammer Magdeburg oder der Niederrheinischen Industrie- und Handelskammer Duisburg-Wesel-Kleve zu Duisburg für den Bund durchgeführt. Sie werden dabei als Teil der Wasserstraßen- und Schifffahrtsverwaltung des Bundes tätig.
-
-(2) Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis übertragen, durch Rechtsverordnung die Einzelheiten des Verfahrens zur Zulassung zur Prüfung und zur Durchführung und Bewertung der Prüfung in einer Prüfungsordnung zu regeln.
-
-(3) Der Prüfling kann bei Anmeldung zwischen den genannten Kammern wählen.
+Zuständig für die Durchführung der behördlichen Befähigungsprüfung für die Betriebsebene sind die nach § 71 Absatz 2 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das zuletzt durch Artikel 2 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1174) geändert worden ist, zuständigen Stellen, die die Abschlussprüfung nach der Binnenschifferausbildungsverordnung abnehmen, soweit diese nach § 3a Absatz 2 Satz 2 des Binnenschifffahrtsaufgabengesetzes gegenüber der zuständigen Behörde in die Aufgabenübertragung eingewilligt haben. Die zuständige Behörde veröffentlicht elektronisch eine Übersicht über die Stellen, die diese Prüfung abnehmen. Diese Stellen regeln das Prüfungsverfahren durch Satzungsrecht; sie sind abweichend von § 8 zur Regelung von Gebühren und Auslagen zuständig.
 
 # § 60 – Ausstellung des Schifferdienstbuches
 
@@ -1191,7 +1241,7 @@ Ein Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein Unionsbefähigung
 
 3. den Nachweis erbringt über den erfolgreichen Abschluss
 
-a) eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oder eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms durch ein Abschlusszeugnis oder
+a) eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oder eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms oder eines entsprechenden, von einem anderen Mitgliedstaat der Europäischen Union zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms durch ein Abschlusszeugnis oder
 
 b) eines nach § 55 Absatz 1 Nummer 2 zugelassenen Ausbildungsprogramms durch die schriftliche Mitteilung einer Industrie- und Handelskammer über die Teilnahme an Teil 1 der Abschlussprüfung einer Berufsausbildung nach § 55 Absatz 1 Nummer 1 oder Absatz 2 mit mindestens ausreichenden Leistungen.
 
@@ -1217,7 +1267,7 @@ b) eines nach § 55 Absatz 1 Nummer 2 zugelassenen Ausbildungsprogramms durch di
 
 (1) Die behördliche Befähigungsprüfung auf Führungsebene wird von der zuständigen Behörde durchgeführt.
 
-(2) Im Auftrag der zuständigen Behörde können die zusätzlich nach § 38 Absatz 4 zu prüfenden besonderen Anforderungen von der Industrie- und Handelskammer Magdeburg oder der Niederrheinischen Industrie- und Handelskammer Duisburg-Wesel-Kleve zu Duisburg durchgeführt werden. Die Aufsicht obliegt der zuständigen Behörde.
+(2) Zuständig für die Durchführung der Zusatzprüfung nach § 38 Absatz 4 Satz 1 sind die nach § 71 Absatz 2 des Berufsbildungsgesetzes zuständigen Stellen, die die Abschlussprüfung nach der Binnenschifferausbildungsverordnung abnehmen, soweit diese nach § 3a Absatz 2 Satz 2 des Binnenschifffahrtsaufgabengesetzes gegenüber der zuständigen Behörde in die Aufgabenübertragung eingewilligt haben. Die zuständige Behörde veröffentlicht elektronisch eine Übersicht über die Stellen, die diese Prüfung abnehmen. Diese Stellen regeln das Prüfungsverfahren durch Satzungsrecht; sie sind abweichend von § 8 zur Regelung von Gebühren und Auslagen zuständig.
 
 # § 66 – Antrag auf Zulassung zur Prüfung
 
@@ -1409,7 +1459,7 @@ b) statt von einer Prüfungskommission die Prüfung von einem oder einer Beschä
 
 # § 78 – Erteilung des Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen
 
-(1) Die zuständige Behörde erteilt auf Antrag ein Unionspatent oder ein Schifferzeugnis, wenn die antragstellende Person die jeweiligen Voraussetzungen nach Kapitel 2 Abschnitt 1 und 3 erfüllt und ihre Identität nachweist. Der Antrag ist schriftlich oder elektronisch bei der zuständigen Behörde mit dem von ihr bereitgestellten Formular zu stellen. Der Antrag auf das Befähigungszeugnis kann schon mit dem Antrag auf Zulassung zur Prüfung gestellt werden.
+(1) Die zuständige Behörde erteilt auf Antrag ein Unionspatent oder ein Schifferzeugnis, wenn die antragstellende Person die jeweiligen Voraussetzungen nach Kapitel 2 Abschnitt 1 und 3 erfüllt und ihre Identität nachweist. Der Antrag ist schriftlich oder elektronisch bei der zuständigen Behörde mit dem von ihr bereitgestellten Formular zu stellen. Der Antrag auf das Befähigungszeugnis kann schon mit dem Antrag auf Zulassung zur Prüfung gestellt werden. Zusätzlich muss die antragstellende Person im Falle des § 38 Absatz 4 Satz 1 nachweisen, dass sie die Zusatzprüfung bestanden hat.
 
 (2) Die antragstellende Person kann im Falle eines Antrages auf ein Unionspatent entweder eine Patentkarte oder ein elektronisches Format wählen. Die Patentkarte wird ausgehändigt oder per Post zugestellt, das elektronische Format wird digital zur Verfügung gestellt.
 
@@ -1451,7 +1501,7 @@ b) statt von einer Prüfungskommission die Prüfung von einem oder einer Beschä
 
 2. ihre Identität nachweist,
 
-3. den Nachweis über den erfolgreichen Abschluss eines nach § 55 Absatz 2 zugelassenen Ausbildungsprogramms durch ein Abschlusszeugnis erbringt.
+3. den Nachweis über den erfolgreichen Abschluss eines nach § 55 Absatz 2 zugelassenen Ausbildungsprogramms oder eines entsprechenden, von einem anderen Mitgliedstaat der Europäischen Union zugelassenen Ausbildungsprogramms durch ein Abschlusszeugnis erbringt.
 
 Zusätzlich dürfen keine Tatsachen die Annahme rechtfertigen, dass bei einer Erteilung des Zeugnisses sogleich die Voraussetzungen für seine Aussetzung nach § 91 oder für seinen Entzug nach § 94 vorlägen.
 
@@ -1491,7 +1541,7 @@ Das Schifferdienstbuch für die Führungsebene wird von einem Wasserstraßen- un
 
 a) die Abschlussprüfung des Lehrgangs nach § 49 Absatz 2 Satz 1 bestanden hat oder
 
-b) das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Fahrgastschifffahrt erfolgreich abgeschlossen hat,
+b) das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt erfolgreich abgeschlossen hat,
 
 2. die antragstellende Person die Schulungsnachweise oder das Abschlusszeugnis vorlegt und
 
@@ -1613,29 +1663,29 @@ b) innerhalb des letzten Jahres mindestens 90 Tage oder
 
 Die Festlegung der Besatzung gilt bis zum Ablauf der jeweiligen Bescheinigung.
 
-(2) Wer über ein Befähigungszeugnis für die Betriebsebene, ein Unionspatent oder ein Fährschifferzeugnis verfügt, kann für jede niedrigere Funktion auf Einstiegs- oder Betriebsebene eingesetzt werden. Dies gilt für die Funktion des Leichtmatrosen nur dort, wo diese Verordnung es ausdrücklich zulässt. Maschinisten im Sinne der Schiffspersonalverordnung-Rhein können als Maschinenkundige eingesetzt werden.
+(2) Wer über ein Befähigungszeugnis für die Betriebsebene, ein Unionspatent oder ein Fährschifferzeugnis verfügt, kann für jede niedrigere Funktion auf Einstiegs- oder Betriebsebene eingesetzt werden. Dies gilt für die Funktion des Leichtmatrosen nur dort, wo diese Verordnung es ausdrücklich zulässt. Maschinisten im Sinne der Rheinschiffspersonalverordnung können als Maschinenkundige eingesetzt werden.
 
 # § 97 – Ausrüstung der Schiffe und anwendbare Vorschriften für die Fahrt auf dem Rhein
 
-(1) Unbeschadet der übrigen Bestimmungen dieser Verordnung und in Anwendung des § 3.14 der Schiffspersonalverordnung-Rhein müssen Motorschiffe, Schubboote, Schubverbände und Fahrgastschiffe, die mit der Mindestbesatzung gefahren werden sollen, für die Fahrt auf dem Rhein folgendem Ausrüstungsstandard genügen:
+(1) Unbeschadet der übrigen Bestimmungen dieser Verordnung und in Anwendung des § 19.01 der Rheinschiffspersonalverordnung müssen Motorschiffe, Schubboote, Schubverbände und Fahrgastschiffe, die mit der Mindestbesatzung gefahren werden sollen, für die Fahrt auf dem Rhein folgendem Ausrüstungsstandard genügen:
 
 1. S1 nach Artikel 31.02 des ES-TRIN oder
 
 2. S2 nach Artikel 31.03 des ES-TRIN.
 
-(2) Für Fahrgastschiffe, die zur Beförderung von nicht mehr als zwölf Fahrgästen verwendet werden, gilt für die Fahrt auf dem Rhein § 3.19 der Schiffspersonalverordnung-Rhein. Für Fähren gelten die §§ 112, 113 und 118 entsprechend.
+(2) Für Fahrgastschiffe, die zur Beförderung von nicht mehr als zwölf Fahrgästen verwendet werden, gilt für die Fahrt auf dem Rhein § 19.06 der Rheinschiffspersonalverordnung. Für Fähren gelten die §§ 112, 113 und 118 entsprechend.
 
 # § 98 – Allgemeines zu den Besatzungsvorschriften auf Wasserstraßen der Zonen 1 bis 4
 
 (1) Die Besatzung, die sich während der Fahrt – mit Ausnahme der Fahrt auf dem Rhein – an Bord befinden muss, bestimmt sich nach den §§ 104 bis 118.
 
-(2) Abweichend von Absatz 1 kann der Schiffsführer oder die Schiffsführerin oder der Eigentümer oder der Ausrüster oder deren Bevollmächtigte an Stelle der Besatzung nach diesem Teil die Besatzung nach der Schiffspersonalverordnung-Rhein wählen. In diesem Fall müssen die Bestimmungen nach Teil II Kapitel 2 und 3 Abschnitt 2 und 3 der Schiffspersonalverordnung-Rhein mit folgenden Maßgaben eingehalten werden:
+(2) Abweichend von Absatz 1 kann der Schiffsführer oder die Schiffsführerin oder der Eigentümer oder der Ausrüster oder deren Bevollmächtigte an Stelle der Besatzung nach diesem Teil die Besatzung nach der Rheinschiffspersonalverordnung wählen. In diesem Falle müssen die Bestimmungen nach Teil III Kapitel 17 bis 19 der Rheinschiffspersonalverordnung mit folgenden Maßgaben eingehalten werden:
 
 1. soweit ein Besatzungsmitglied über ein Rheinpatent verfügen muss, genügt ein Befähigungszeugnis nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4,
 
-2. soweit ein Besatzungsmitglied über ein Schifferdienstbuch nach Unterabschnitt 2 der Schiffspersonalverordnung-Rhein verfügen muss, genügt ein entsprechendes Befähigungszeugnis nach § 9 Absatz 1, auch in Verbindung mit den Absätzen 2, 4 und 5, und nach § 10 Absatz 1, auch in Verbindung mit den Absätzen 2, 3 und 4,
+2. soweit ein Besatzungsmitglied über ein Schifferdienstbuch nach § 5.01 der Rheinschiffspersonalverordnung verfügen muss, genügt ein entsprechendes Befähigungszeugnis nach § 9 Absatz 1 auch in Verbindung mit den Absätzen 2, 4 und 5 und nach § 10 Absatz 1 auch in Verbindung mit den Absätzen 2, 3 und 4,
 
-3. statt eines Bordbuches nach der Schiffspersonalverordnung-Rhein genügt ein Bordbuch nach § 102.
+3. statt eines Bordbuches nach der Rheinschiffspersonalverordnung genügt ein Bordbuch nach § 102.
 
 (3) Den Besatzungsmitgliedern muss es ermöglicht werden, ihre Aufgaben an Bord unter Voraussetzungen zu erfüllen, die eine Übermüdung ausschließen.
 
@@ -1653,11 +1703,11 @@ Die Festlegung der Besatzung gilt bis zum Ablauf der jeweiligen Bescheinigung.
 
 2. durchgeführt wird von einer Person, die als Ausbilder oder Ausbilderin in einem für die Berufsausbildung für Berufe der Binnenschifffahrt geeigneten Ausbildungsbetrieb arbeitet und die Voraussetzungen nach Abschnitt 2 Nummer 1.6 der Anlage 21 erfüllt.
 
-Im Falle des Satzes 1 Nummer 2 ist eine Teilnahmebescheinigung auszustellen, aus der sich Datum, Ort, Dauer und Inhalt der Sicherheitsausbildung, der Name der ausbildenden Person sowie der Name und das Geburtsdatum der teilnehmenden Person ergibt. Satz 1 gilt nicht für Personen, die
+Im Falle des Satzes 1 Nummer 2 ist eine Teilnahmebescheinigung auszustellen, aus der sich Datum, Ort, Dauer und Inhalt der Sicherheitsausbildung, der Name der ausbildenden Person sowie der Name und das Geburtsdatum der teilnehmenden Person ergibt. Das Besatzungsmitglied hat die Teilnahmebescheinigung an Bord mitzuführen und den zuständigen Bediensteten der zuständigen Behörde, der Wasserstraßen- und Schifffahrtsämter oder der Wasserschutzpolizeien der Länder auf Verlangen zur Prüfung auszuhändigen. Satz 1 gilt nicht für Personen, die
 
 a) bereits vor dem 18. Januar 2022 als Mitglied der Besatzung in der Binnenschifffahrt tätig waren oder
 
-b) über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen 2 bis 5 der Seeleute-Befähigungsverordnung verfügen.
+b) über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen 2 bis 5 der Seeleute-Befähigungsverordnung oder ein entsprechendes, in Deutschland anerkanntes ausländisches Zeugnis verfügen.
 
 (9) Die Funktion als Schiffsführer oder Schiffsführerin kann nur ausüben, wer zuverlässig ist. Unzuverlässig ist insbesondere,
 
@@ -1672,6 +1722,8 @@ b) über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen
 5. wer nicht die Eignung zum Vorgesetzten einer Schiffsmannschaft erwarten lässt.
 
 (10) Die Unzuverlässigkeit wird von der zuständigen Behörde festgestellt. Im Falle festgestellter Unzuverlässigkeit hat sie der betreffenden Person die Ausübung der Funktion als Schiffsführer zu untersagen. Ein Entzug des Unionspatentes nur aufgrund der Unzuverlässigkeit ist nicht zulässig. Stellt ein Wasserstraßen- und Schifffahrtsamt oder die Wasserschutzpolizei eines Landes Tatsachen fest, die eine Unzuverlässigkeit nach Absatz 9 vermuten lassen, teilt sie dies der zuständigen Behörde mit.
+
+(11) Im Falle der Anwendung der §§ 101 und 103 müssen auch die Betriebszeiten sowie die Dienst- und Ruhezeiten berücksichtigt werden, die außerhalb des Geltungsbereichs dieser Verordnung abgeleistet werden.
 
 # § 99 – Nutzung neuer Technologien
 
@@ -3789,7 +3841,7 @@ Maschinist
 
 1
 
-(2) Maschinist im Sinne des Absatzes 1 ist, wer über eine Befähigung als Maschinist nach der Schiffspersonalverordnung-Rhein verfügt.
+(2) Maschinist im Sinne des Absatzes 1 ist, wer über eine Befähigung als Maschinist nach der Rheinschiffspersonalverordnung verfügt.
 
 (3) Die nach Absatz 1 vorgeschriebene Mindestbesatzung setzt die Ausrüstung nach Standard S2 nach Artikel 31.03 des ES-TRIN voraus. Erfüllt das Fahrzeug nicht den Standard S2, so erhöht sich die Besatzung in allen Betriebsformen für die Stufe 1 um einen Leichtmatrosen, für die Stufen 2 und 3 um einen Matrosen. Die zuständige Behörde kann die Befähigung des zusätzlichen Besatzungsmitglieds abweichend von Satz 2 festsetzen, wenn dies aus technischen oder Sicherheitsgründen notwendig ist.
 
@@ -4177,7 +4229,7 @@ Das Bundesministerium für Digitales und Verkehr evaluiert die Regelungen dieser
 
 (6) Wer über ein bis zum 17. Januar 2022 von einem Wasserstraßen- und Schifffahrtsamt ausgestelltes Schifferdienstbuch verfügt und eine weitere Befähigung oder eine Ersatzausfertigung nach § 19 Absatz 3 beantragt, dem stellt die zuständige Behörde von Amts wegen ein neues Schifferdienstbuch nach den §§ 60 und 61 aus.
 
-(7) Ausländische Schifferdienstbücher werden nicht umgetauscht. Das gilt nicht für Schifferdienstbücher und die darin eingetragenen Befähigungen der Zentralkommission für die Rheinschifffahrt.
+(7) Ausländische Nachweise über Befähigungen, die in einem Schifferdienstbuch eingetragen sind, werden nicht umgetauscht. Das gilt nicht für Nachweise der Zentralkommission für die Rheinschifffahrt.
 
 # § 124 – Entsprechungsübersicht der bisherigen und der neuen Befähigungen
 
@@ -4267,21 +4319,21 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 (1) § 34 der Binnenschiffsuntersuchungsordnung bleibt unberührt.
 
-(2) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer Länge von weniger als 20 Metern, ausgenommen Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren, können bis zum 17. Januar 2024 mit folgenden Fahrerlaubnissen geführt werden, sofern die Tätigkeit schon vor dem 18. Januar 2022 ausgeübt worden ist:
+(2) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer Länge von weniger als 20 Metern, ausgenommen Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren, können bis zum 17. Januar 2027 mit folgenden Fahrerlaubnissen geführt werden:
 
 1. auf Wasserstraßen der Zonen 1 und 2 mit einer Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-2. auf Wasserstraßen der Zonen 3 und 4 mit einer Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach § 3 Absatz 1 oder ein Befähigungszeugnis nach § 3 Absatz 4 der Sportbootführerscheinverordnung.
+2. auf Wasserstraßen der Zonen 3 und 4 mit einer Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung.
 
-(3) Im Falle des Absatzes 1 stellt die zuständige Behörde bis zum 17. Januar 2024 bei Vorlage einer Fahrerlaubnis nach Absatz 2 und eines Nachweises der gewerblichen, beruflichen oder dienstlichen Tätigkeit ein Kleinschifferzeugnis mit dem entsprechenden Geltungsbereich aus. Dabei kann abweichend von § 15 Absatz 6 im Kleinschifferzeugnis bestimmt werden, dass es nur für Wasserstraßen der Zonen 1 und 2 gilt, sofern der vorgelegte Sportbootführerschein nur zum Befahren der Wasserstraßen der Zonen 1 und 2 berechtigt.
+(3) Im Falle des Absatzes 2 hat die zuständige Behörde bis zum 17. Januar 2027 ein Kleinschifferzeugnis mit dem entsprechenden Geltungsbereich auszustellen, wenn die antragstellende Person ihre Fahrerlaubnis nach Absatz 2 und einen Nachweis der gewerblichen, beruflichen oder dienstlichen Tätigkeit vorlegt und ihre Identität nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die antragstellende Person das 60. Lebensjahr vollendet hat.
 
-# § 131 – Gültigkeit und Umtausch der Radarpatente
+# § 131 – Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen
 
-(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 1 ist ausreichend ein Radarpatent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins vom 26. Juni 2000 (BGBl. I S. 1018), die zuletzt durch Artikel 2 § 5 der Verordnung vom 30. Mai 2014 (BGBl. I S. 610) geändert worden ist, oder ein bis zum 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Radarpatent.
+(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 1 ist ausreichend ein Radarpatent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins vom 26. Juni 2000 (BGBl. I S. 1018), die zuletzt durch Artikel 2 § 5 der Verordnung vom 30. Mai 2014 (BGBl. I S. 610) geändert worden ist, oder ein bis zum 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Radarpatent. Satz 1 gilt entsprechend für Bescheinigungen der Wasserschutzpolizeien der Länder über die Erlaubnis zur Fahrt mit Radar.
 
-(2) Die in Absatz 1 genannten Radarpatente bleiben bis zum 17. Januar 2032 zur Durchführung von Radarfahrten gültig.
+(2) Die in Absatz 1 genannten Radarpatente und Bescheinigungen bleiben bis zum 17. Januar 2032 zur Durchführung von Radarfahrten gültig.
 
-(3) Mit dem Umtausch einer Fahrerlaubnis der Klassen A, B, C, D, E oder F nach der Binnenschifferpatentverordnung oder eines Rheinpatentes wird ein Radarpatent nach Absatz 1 zugleich in eine besondere Berechtigung für Radar nach dieser Verordnung umgetauscht.
+(3) Mit dem Umtausch einer Fahrerlaubnis der Klassen A, B, C, D, E oder F nach der Binnenschifferpatentverordnung oder eines Rheinpatentes wird ein Radarpatent nach Absatz 1 Satz 1 zugleich in eine besondere Berechtigung für Radar nach dieser Verordnung umgetauscht. Radarbescheinigungen nach Absatz 1 Satz 2 können bis zum 17. Januar 2032 gegen eine besondere Berechtigung für Radar umgetauscht werden.
 
 # § 132 – Gültigkeit der bisherigen Streckenkunde
 
@@ -4321,19 +4373,25 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 Das Behördenpatent nach der Schiffspersonalverordnung-Rhein gilt als Behördenschifferzeugnis, das Sportpatent nach der Schiffspersonalverordnung-Rhein als Sportschifferzeugnis im Sinne dieser Verordnung.
 
-# § 137 – Durchführung von Tauglichkeitsuntersuchungen und Verlängerung der Zulassung von Ärzten und Ärztinnen
+# § 137 – Durchführung von Tauglichkeitsuntersuchungen in besonderen Fällen
 
-(1) Tauglichkeitsuntersuchungen können abweichend von § 24 Absatz 1 bis zum 17. Januar 2024 auch durchgeführt werden von
+(1) Tauglichkeitsuntersuchungen nach den §§ 21 und 22 können abweichend von § 24 Absatz 1 bis zum 17. Januar 2024 auch durchgeführt werden von
 
-1. einem Arzt oder einer Ärztin des betriebsärztlichen Dienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder
+1. einem Arzt oder einer Ärztin, der oder die hierzu vor dem 18. Januar 2022 von der Berufsgenossenschaft auf Grundlage binnenschifffahrtsrechtlicher Vorschriften ermächtigt worden ist, im Rahmen der Geltung der bis zum 17. Januar 2022 erteilten Ermächtigungen,
 
-2. einem Arzt oder einer Ärztin eines hafenärztlichen Dienstes.
+2. einem Arzt oder einer Ärztin des betriebsärztlichen Dienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder
 
-(2) Ärzten oder Ärztinnen, die bis zum 17. Januar 2022 von der Berufsgenossenschaft auf Grundlage binnenschifffahrtsrechtlicher Vorschriften ermächtigt worden sind, Tauglichkeitsuntersuchungen durchzuführen, und deren Ermächtigung vor dem 18. Januar 2024 endet, kann auf schriftlichen oder elektronischen Antrag durch die zuständige Behörde nach Maßgabe der Anlage 32 befristet gestattet werden, solche Untersuchungen längstens bis zum Ablauf des 17. Januar 2024 durchzuführen, wenn die Ärzte oder Ärztinnen die in Anlage 32 genannten Anforderungen nachweislich erfüllen. Die zuständige Behörde kann sich bei ihrer Entscheidung der Unterstützung der Berufsgenossenschaft bedienen.
+3. einem Arzt oder einer Ärztin eines hafenärztlichen Dienstes.
 
-(3) Der Standard der ärztlichen Untersuchungen und weiterer Maßnahmen soll in dem Verlängerungsbescheid durch von der zuständigen Behörde festzulegende Nebenbestimmungen sichergestellt werden. Die Verlängerung ist wie die Ermächtigung bundesweit gültig und ist nicht übertragbar.
+(2) Eine Ermächtigung im Sinne des Absatzes 1 Nummer 1, die vor dem 18. Januar 2024 abläuft, kann nach den Voraussetzungen und dem Verfahren des § 24 Absatz 2 in Verbindung mit Anlage 6a Abschnitt 2 in eine Zulassung nach § 24 Absatz 1 umgewandelt werden.
 
-# § 138 – (weggefallen)
+# § 138 – Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden
+
+(1) Bis zum 1. August 2023 sind § 59 und die auf Grund dieser Vorschrift erlassene Rechtsverordnung sowie § 65 in der am 13. April 2023 geltenden Fassung weiter anzuwenden.
+
+(2) Bis zu dem in Absatz 1 genannten Zeitpunkt sind die Gebühren weiter nach der Nummer 1 Buchstabe d der Vorbemerkung des Abschnittes 2 und den Nummern 1017 und 1061 des Tabellenabschnittes 1 des Abschnittes 2 der Anlage der BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung vom 28. Oktober 2021 (BGBl. I S. 4744), die zuletzt durch Artikel 2 der Verordnung vom 22. September 2022 (BGBl. I S. 1518) geändert worden ist, in der am 13. April 2023 geltenden Fassung zu erheben.
+
+(3) Befähigungszeugnisse im Sinne des § 11 Absatz 5 Satz 1 stehen bis zum 1. Mai 2025 auch ohne Feststellung durch das Bundesministerium für Digitales und Verkehr nach § 11 Absatz 5 Satz 2 dem Behördenschifferzeugnis gleich.
 
 # § 139 – Sicherheitspersonal auf Fahrgastschiffen
 
@@ -4345,15 +4403,19 @@ Das Behördenpatent nach der Schiffspersonalverordnung-Rhein gilt als Behördens
 
 (1) Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann berücksichtigt, wenn sie vor dem 18. Januar 2022 erbracht worden sind.
 
-(2) Fahrzeiten, die vor dem 18. Januar 2022 erbracht worden sind, können auch durch andere Urkunden als ein Schifferdienstbuch nachgewiesen werden, sofern dieses nicht vorgeschrieben war.
+(2) Fahrzeiten im Rahmen eines am 17. Januar 2022 laufenden, nach § 55 Absatz 1 Nummer 3 zugelassenen Ausbildungsprogramms werden nach Maßgabe der am 17. Januar 2022 geltenden Vorgaben anerkannt.
+
+(3) Fahrzeiten, die vor dem 18. Januar 2022 erbracht worden sind, können auch durch andere Urkunden als ein Schifferdienstbuch nachgewiesen werden, sofern dieses nicht vorgeschrieben war.
 
 # § 141 – Umtausch von Radarbescheinigungen
 
 Bescheinigungen über eine bestandene Radarbefähigungsprüfung können nach § 16 Absatz 4 Satz 2 auch dann umgetauscht werden, wenn die Prüfung an dem bisher genutzten Radarsimulator der Wasserschutzpolizei-Schule in Hamburg durchgeführt worden ist.
 
-# § 142 – Befahren der Elbe
+# § 142 – Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren
 
-Inhaber oder Inhaberinnen von Befähigungszeugnissen, die bis zum 17. Januar 2022 erteilt wurden und die zum Befahren der auf den im Hamburger Hafen gelegenen Teilen der Elbe sowie des oberhalb dieses Bereichs gelegenen Abschnitts der Elbe berechtigten, sind hierzu bis zum 17. Januar 2032 weiterhin berechtigt.
+(1) Inhaber oder Inhaberinnen von Befähigungszeugnissen, die bis zum 17. Januar 2022 erteilt wurden und die zum Befahren der auf den im Hamburger Hafen gelegenen Teilen der Elbe sowie des oberhalb dieses Bereichs gelegenen Abschnitts der Elbe berechtigten, sind hierzu bis zum 17. Januar 2032 weiterhin berechtigt.
+
+(2) Wer am 14. April 2023 über ein Fährschifferzeugnis für eine Fährstelle in einer Binnenwasserstraße mit maritimem Charakter verfügt, bedarf keiner besonderen Berechtigung für maritime Wasserstraßen, soweit sich die Fährstelle nicht in einer in § 39 Absatz 2 Satz 1 genannten Binnenwasserstraße befindet. Satz 1 gilt unter den dort genannten Voraussetzungen auch im Falle einer Erweiterung des Fährschifferzeugnisses.
 
 # Anlage 1 – (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
 
@@ -5610,7 +5672,7 @@ Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Be
 
 # Anlage 5 – (zu § 21 Absatz 1)Muster des Tauglichkeitsnachweises für Besatzungsmitglieder (außer Maschinenpersonal)
 
-(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 21)
+(Fundstelle: Fundstelle: BGBl. 2023 II Nr. 105, 15)
 
  
 
@@ -5652,6 +5714,9 @@ Tauglich ohne Einschränkungen
 
 ☐  
 Tauglichkeit befristet bis \_\_\_\_\_\_\_\_\_\_\_\_<span id="FnR.f819242_02_03"></span><a href="#f819242_02_03" class="FnR">*</a></sup>
+
+☐  
+Tauglich unter der Voraussetzung, dass das Patent der untersuchten Person vor dem 1. April 2004 erteilt worden ist
 
 ☐  
 Tauglich mit einer oder mehrerer der folgenden Beschränkungen
@@ -5775,6 +5840,446 @@ Tauglich mit einer oder mehrerer der folgenden Beschränkungen
 |                                           |     | Stempel |
 |                                           |     |         |
 | Datum, Unterschrift des Arztes/der Ärztin |     |         |
+
+# Anlage 6a – (zu § 24 Absatz 2)Voraussetzungen und Verfahren für die Zulassung und die Verlängerung der Zulassung von Ärzten und Ärztinnen
+
+(Fundstelle: BGBl. 2023 II Nr. 105, 16)
+
+Abschnitt 1: Voraussetzungen für die Zulassung von Ärzten und Ärztinnen
+
+1\.
+
+Für die Erteilung der Zulassung gelten folgende Voraussetzungen:
+
+ 
+
+1.1
+
+Approbation als Arzt oder Ärztin,
+
+ 
+
+1.2
+
+Abschluss als Facharzt oder Fachärztin für Arbeitsmedizin oder abgeschlossene Zusatz-Weiterbildung Betriebsmedizin,
+
+ 
+
+1.3
+
+verkehrsmedizinische Erfahrungen, insbesondere durch Betriebsarzttätigkeit in Logistikunternehmen oder durchgeführte Eignungsuntersuchungen nach verkehrsrechtlichen Vorgaben,
+
+ 
+
+1.4
+
+Teilnahme an von Ärztekammern anerkannten verkehrsmedizinischen Fortbildungen im Umfang von mindestens 15 Fortbildungspunkten/Lerninhalten, innerhalb von 60 Monaten vor dem Antrag auf Erteilung der Zulassung,
+
+ 
+
+1.5
+
+Teilnahme an einem Seminar „Arbeitsmedizinische Untersuchungen nach dem Verkehrsrecht in der Binnenschifffahrt“ der Berufsgenossenschaft innerhalb von 24 Monaten vor dem Antrag auf Erteilung der Zulassung,
+
+ 
+
+1.6
+
+mindestens 8-stündige Mitfahrt auf einem Binnenschiff im Steuerhaus, Maschinenraum und an Deck, als Hospitant, oder mindestens vier Betriebsbegehungen auf Binnenschiffen oder Küstenschiffen in betriebsärztlicher Funktion innerhalb von 24 Monaten vor dem Antrag auf Erteilung der Zulassung und
+
+ 
+
+1.7
+
+Vorhandensein von für die Durchführung der ärztlichen Untersuchung erforderlichen apparativen, personellen und räumlichen Voraussetzungen.
+
+2\.
+
+Für die Erteilung der Zulassung müssen schriftliche oder elektronische Nachweise erbracht werden, aus denen sich das Vorliegen der unter Nummer 1 genannten Voraussetzungen ergibt.
+
+3\.
+
+Liegen die Anforderungen nach den Nummern 1.5 und 1.6 zum Zeitpunkt des Stellens des Antrags auf Erteilung der Zulassung nicht vor, kann zur Vermeidung unbilliger Härten oder, wenn ein besonderes Bedürfnis vorliegt, eine vorläufige Zulassung für bis zu zwei Jahre erteilt werden. In dieser Zeit ist der Erwerb der fehlenden Anforderungen nachzuweisen.
+
+4\.
+
+Die Nachweise nach den Nummern 1.3 bis 1.6 können auch durch den Nachweis gleichwertiger praktischer Erfahrungen ersetzt werden.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abschnitt 2: Voraussetzungen für die Verlängerung der Zulassung von Ärzten und Ärztinnen
+
+1\.
+
+Für die Verlängerung der Zulassung gelten folgende Voraussetzungen:
+
+ 
+
+1.1
+
+Approbation als Arzt oder Ärztin,
+
+ 
+
+1.2
+
+Abschluss als Facharzt oder Fachärztin für Arbeitsmedizin oder abgeschlossene Zusatz-Weiterbildung Betriebsmedizin,
+
+ 
+
+1.3
+
+verkehrsmedizinische Erfahrungen, insbesondere durch Betriebsarzttätigkeit in Logistikunternehmen oder durchgeführte Eignungsuntersuchungen nach verkehrsrechtlichen Vorgaben,
+
+ 
+
+1.4
+
+Teilnahme an einem Seminar „Arbeitsmedizinische Untersuchungen nach dem Verkehrsrecht in der Binnenschifffahrt“ der Berufsgenossenschaft innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Zulassung,
+
+ 
+
+1.5
+
+mindestens 4-stündige Mitfahrt auf einem Binnenschiff im Steuerhaus, Maschinenraum und an Deck, als Hospitant, oder mindestens zwei Betriebsbegehungen auf Binnen- oder Küstenschiffen in betriebsärztlicher Funktion innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Zulassung und
+
+ 
+
+1.6
+
+Vorhandensein von für die Durchführung der ärztlichen Untersuchung erforderlichen apparativen, personellen und räumlichen Voraussetzungen.
+
+2\.
+
+Für die Verlängerung der Zulassung müssen folgende schriftliche oder elektronische Nachweise erbracht werden:
+
+ 
+
+2.1
+
+Erklärung über das Fortbestehen der
+
+ 
+
+ 
+
+2.1.1
+
+Approbation als Arzt oder Ärztin
+
+ 
+
+ 
+
+2.1.2
+
+arbeitsmedizinischen Fachkunde und
+
+ 
+
+ 
+
+2.1.3
+
+für die Durchführung der ärztlichen Untersuchung erforderlichen personellen und technischen Ausstattung,
+
+ 
+
+2.2
+
+Bescheinigungen über die Teilnahme an dem Seminar und an der Mitfahrt nach den Nummern 1.4 und 1.5.
+
+3\.
+
+Liegen die Anforderungen nach den Nummern 1.4 und 1.5 zum Zeitpunkt des Stellens des Antrags auf Verlängerung der Zulassung nicht vor, kann zur Vermeidung unbilliger Härten oder, wenn ein besonderes Bedürfnis vorliegt, eine vorläufige Verlängerung der Zulassung für bis zu zwei Jahre erteilt werden. In dieser Zeit ist der Erwerb der fehlenden Anforderungen nachzuweisen.
+
+4\.
+
+Bei begründeten Zweifeln an der Richtigkeit der Erklärungen der antragstellenden Person nach Nummer 2.1 können entsprechende Nachweise verlangt werden.
+
+5\.
+
+Die Nachweise nach den Nummern 1.4 und 1.5 können auch durch den Nachweis gleichwertiger praktischer Erfahrungen ersetzt werden.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abschnitt 3: Verfahren
+
+1\.
+
+Antrag
+
+ 
+
+ 
+
+Die Zulassung kann nur auf persönlichen Antrag der Person erteilt werden, die die ärztliche Tauglichkeitsuntersuchung nach §§ 21 und 22 Binnenschiffspersonalverordnung und §§ 4.01, 4.02 Rheinschiffspersonalverordnung durchführen möchte. Der Antrag ist schriftlich oder elektronisch bei der Berufsgenossenschaft zu stellen. Ein Muster-Antragsformular ist in Anhang 1 zu dieser Anlage enthalten.
+
+2\.
+
+Prüfung
+
+ 
+
+ 
+
+Die Berufsgenossenschaft prüft den Antrag auf das Vorliegen der Zulassungsvoraussetzungen. Sie kann mit der antragstellenden Person ein fachliches Informationsgespräch führen sowie nach Terminabsprache die apparativen, personellen und räumlichen Voraussetzungen prüfen oder prüfen lassen.
+
+3\.
+
+Zulassung und Verlängerung
+
+ 
+
+ 
+
+3.1
+
+Zulassung
+
+ 
+
+ 
+
+ 
+
+ 
+
+Die Zulassung wird für fünf Jahre erteilt. Sie ist nicht übertragbar. Die Zulassung wird durch Bescheid nach dem Muster des Anhangs 2 zu dieser Anlage erteilt.
+
+ 
+
+3.2
+
+Verlängerung
+
+ 
+
+ 
+
+ 
+
+ 
+
+Auf Antrag kann die Zulassung jeweils um fünf Jahre verlängert werden. Der Antrag ist schriftlich oder elektronisch bei der Berufsgenossenschaft zu stellen. Ein Muster-Antragsformular ist in Anhang 1 zu dieser Anlage enthalten. Die Verlängerung der Zulassung wird durch Bescheid nach dem Muster des Anhangs 2 zu dieser Anlage erteilt.
+
+4\.
+
+Nebenbestimmungen
+
+ 
+
+ 
+
+Der Standard der ärztlichen Untersuchungen und weiterer Maßnahmen sollen durch Auflagen und Auflagenvorbehalte sichergestellt werden.
+
+ 
+
+4.1
+
+Die Zulassung ergeht unter dem Vorbehalt des jederzeitigen Widerrufs nach Nummer 5 und der nachträglichen Aufnahme, Änderung oder Ergänzung von Auflagen.
+
+ 
+
+4.2
+
+Die zugelassene Person ist zu verpflichten
+
+ 
+
+ 
+
+ 
+
+4.2.1
+
+die ärztlichen Untersuchungen und weiteren Maßnahmen auf der Grundlage der geltenden rechtlichen Bestimmungen und unter Berücksichtigung des jeweils aktuellen Standes der medizinischen und arbeitsmedizinischen Erkenntnisse durchzuführen,
+
+ 
+
+ 
+
+4.2.2
+
+die ärztlichen Untersuchungen und weiteren Maßnahmen persönlich vorzunehmen oder einzuleiten,
+
+ 
+
+ 
+
+4.2.3
+
+die Untersuchungsergebnisse und -befunde zu dokumentieren und persönlich auszuwerten, die untersuchte Person über das Ergebnis der Befundbewertung in Kenntnis zu setzen und ihr den Tauglichkeitsnachweis nach Anlage 5 oder 6 dieser Verordnung sowie nach Anlage 1 der Rheinschiffspersonalverordnung auszuhändigen,
+
+ 
+
+ 
+
+4.2.4
+
+bei Inanspruchnahme von Fremdleistungen wie Labor- und Zusatzuntersuchungen deren Durchführung nach dem Stand der Technik bzw. den einschlägigen Empfehlungen der medizinischen Fachgesellschaften und der Deutschen Gesetzlichen Unfallversicherung (DGUV) sicherzustellen und der Berufsgenossenschaft auf Verlangen nachzuweisen,
+
+ 
+
+ 
+
+4.2.5
+
+bei eigenständig erbrachten medizinischen laboratoriumsmedizinischen Untersuchungen die nach der „Richtlinie der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen – Rili-BÄK“ vorgeschriebenen internen und externen Qualitätssicherungsmaßnahmen einzuhalten sowie bei der Vergabe zur Durchführung von laboratoriums - medizinischen Untersuchungen an externe Laboratorien die Einhaltung der Vorgaben der Rili-BÄK zu garantieren,
+
+ 
+
+ 
+
+4.2.6
+
+die zusammenfassende Beurteilung aller Untersuchungsergebnisse in jedem Fall persönlich vorzunehmen,
+
+ 
+
+ 
+
+4.2.7
+
+die Untersuchungsbefunde und -ergebnisse nach den berufsüblichen Standards zu dokumentieren,
+
+ 
+
+ 
+
+4.2.8
+
+die Untersuchungsbefunde auf Verlangen der Berufsgenossenschaft bzw. der von dieser benannten fachkundigen Stelle in anonymisierter Form als Kopie oder Abschrift vorzulegen,
+
+ 
+
+ 
+
+4.2.9
+
+sich beruflich fortzubilden und sich über die Bestimmungen zu informieren, die für die mit der Zulassung verbundene Berufsausübung gelten; die Nachweise darüber sind der Berufsgenossenschaft bzw. der von dieser benannten fachkundigen Stelle auf Verlangen vorzulegen,
+
+ 
+
+ 
+
+4.2.10
+
+der Berufsgenossenschaft die praktische Tätigkeit als zugelassener Arzt oder zugelassene Ärztin jährlich bis zum 15. Februar des Folgejahres nachzuweisen; ein Muster zum Nachweis der praktischen Tätigkeit ist in Anhang 3 zu dieser Anlage enthalten und auf der Internetseite der Berufsgenossenschaft abrufbar (Internet: www.bg-verkehr.de),
+
+ 
+
+ 
+
+4.2.11
+
+der für die Erteilung der Zulassung zuständigen Berufsgenossenschaft unverzüglich jede Änderung der Zulassungsvoraussetzungen mitzuteilen, insbesondere bei
+
+ 
+
+ 
+
+ 
+
+4.2.11.1
+
+Wechsel des Betriebsortes oder der ärztlichen Praxis,
+
+ 
+
+ 
+
+ 
+
+4.2.11.2
+
+Beendigung der ärztlichen Berufsausübung,
+
+ 
+
+ 
+
+ 
+
+4.2.11.3
+
+Verzicht auf die Zulassung,
+
+ 
+
+ 
+
+ 
+
+4.2.11.4
+
+Ruhen der Approbation.
+
+5\.
+
+Widerruf der Zulassung
+
+ 
+
+5.1
+
+Die Berufsgenossenschaft kann eine Zulassung widerrufen, wenn ihr bekannt wird, dass die für die Zulassung erforderlichen Voraussetzungen nicht oder nicht mehr vorliegen oder der zugelassenen Person schwere Versäumnisse bei der Durchführung der ärztlichen Untersuchungen und der weiteren Maßnahmen nachzuweisen sind. Die Berufsgenossenschaft kann die Zulassung auch bei Nichteinhaltung von Auflagen widerrufen.
+
+ 
+
+5.2
+
+Die zugelassene Person ist vor der Entscheidung zu hören.
+
+6\.
+
+Erlöschen der Zulassung
+
+ 
+
+Die Zulassung erlischt insbesondere bei Verzicht auf die Zulassung, Beendigung der ärztlichen Berufsausübung, Ruhen der Approbation oder bei einem Wechsel der ärztlichen Praxis, soweit die Voraussetzungen nach Abschnitt 1 Nummer 1.7 bzw. Abschnitt 2 Nummer 1.6 nicht mehr nachgewiesen werden können. Bei Erlöschen der Zulassung sind die Aufzeichnungen über die ärztlichen Untersuchungen zehn Jahre ab dem Tag des Erlöschens der Zulassung aufzubewahren und am Tag des Ablaufs der Aufbewahrungsfrist, bei Speicherung in elektronischer Form automatisiert, zu löschen oder einem Nachfolger zu übergeben.
+
+# Anhang 1 zu Anlage 6a – Muster des Antragsformulars
+
+(Fundstelle: BGBl. 2023 II Nr. 105, 19)
+
+Antrag auf Zulassung nach § 24 Abs. 2 der Binnenschiffspersonalverordnung (BinSchPersV) und § 5 Abs. 1 der Rheinschiffspersonaleinführungsverordnung (RheinSchPersEV)
+
+Im Verwaltungsverfahren zur Erteilung eines Befähigungszeugnisses in der Binnenschifffahrt werden von der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) ausschließlich Tauglichkeitsnachweise von zugelassenen Ärztinnen/Ärzten akzeptiert. Die Liste der zugelassenen Ärztinnen/Ärzte wird regelmäßig aktualisiert und auf Grundlage des § 24 Abs. 3 BinSchPersV im Internet unter www.bg-verkehr.de und auf den Internetseiten der GWDS veröffentlicht.
+
+Hinweis auf ein Auskunftsrecht der Betroffenen:
+
+Sie sind gemäß Artikel 15 DSGVO jederzeit berechtigt, gegenüber der verantwortlichen Stelle um umfangreiche Auskunftserteilung zu den zu Ihrer Person gespeicherten Daten zu ersuchen.
+
+Gemäß Artikel 17 DGSVO können Sie jederzeit gegenüber der verantwortlichen Stelle die Berichtigung, Löschung und Sperrung einzelner personenbezogener Daten verlangen.
+
+\_\_\_\_\_\_\_\_\_\_
+
+# Anhang 2 zu Anlage 6a – Muster für den Zulassungsbescheid
+
+(Fundstelle: BGBl. 2023 II Nr. 105, 22)
+
+# Anhang 3 zu Anlage 6a – Muster für den Nachweis der praktischen Tätigkeit
+
+(Fundstelle: BGBl. 2023 II Nr. 105, 24)
+
+<a href="../normengrafiken/bgbl2_2023/j0105_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 7 – (zu § 29)Grundlegende Sicherheitsausbildung für Decksleute
 
@@ -6731,13 +7236,10 @@ b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung d
 
 7. Detailkenntnisse der Fährenbetriebsverordnung
 
-II. Wasserstraßenkenntnisse
+II. Wasserstraßenkenntnisse:
 
-1. Kenntnisse der beantragten Fährstrecke
-
-2. Detailkenntnisse in den Seezeichen und den Betonnungssystemen\*
-
-3. Grundkenntnisse in der Gezeitenlehre\*
+  
+Kenntnisse der beantragten Fährstrecke
 
 III. Berufskenntnisse
 
@@ -6774,8 +7276,6 @@ d) Abfallbehandlung und Reinhaltung der Wasserstraßen
 e) Benachrichtigung von zuständigen Behörden
 
 f) Brandverhütung, Feuerlöschwesen
-
-\*Nur zu verwenden, wenn sich die Fährschifferprüfung nach § 40 Absatz 2 Satz 2 auf eine Fährstelle in einer Binnenwasserstraße mit maritimem Charakter bezieht.
 
 I. Rechtskenntnisse
 
@@ -7131,221 +7631,6 @@ b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
 
 a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
 
-(1) außergewöhnliche Wirkung und Bedeutung der Buhnenbauwerke auf dieser Strecke
-
-(2) eine Vielzahl von Wechseln der Begegnungsseite von Backbord zu Steuerbord und umgekehrt mit der einhergehenden hohen Drehbewegung der Fahrzeuge
-
-(3) die Lage der Buhnenfelder, um deren Strömungsbeeinflussung abzuschätzen
-
-(4) die extrem hohe Dichte von Einmündung von Nebengewässern
-
-(5) Sonderregelungen für Fahrzeuge ab bestimmten Längen
-
-(6) die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit Schubverbänden vermieden werden sollte,
-
-(7) die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten
-
-(8) Regelungen zur Mindestgeschwindigkeit von Schubverbänden
-
-(9) die besonderen Anforderungen, die durch die Vielzahl von Kleinfahrzeugen verursacht werden,
-
-b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über
-
-(1) die veränderliche Beschaffenheit des Untergrundes von Kiesbänken über Buhnenfelder bis hin zu feinem Sediment
-
-(2) starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne
-
-(3) die Tiefenverhältnisse auch im Fahrwasserbereich, um bei der Passage der talfahrenden Fahrzeuge ausweichen zu können oder den optimalen Bergweg zu nutzen.
-
-(4) Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.
-
-(5) die Vielzahl von Gefahrenstellen
-
-Zusätzliche Befähigung
-
-Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a) detaillierte Kenntnisse der Streckencharakteristika,
-
-b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
-
-c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-
-•  
-schwankende Wasserstände um mehr als 6 m an einigen Streckenabschnitten
-
-•  
-Verlauf der Fahrrinne im Strom bei Hochwasser
-
-•  
-Lage aller Fehltiefen und -breiten bei Niedrigwasser
-
-•  
-Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-
-•  
-Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-
-•  
-Querströmungen
-
-b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über
-
-•  
-Fehltiefen
-
-•  
-Geschiebebewirtschaftung
-
-•  
-nautisch anspruchsvolle Streckenabschnitte
-
-c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen
-
-Zusätzliche Befähigung
-
-Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a) detaillierte Kenntnisse der Streckencharakteristika,
-
-b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
-
-c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
-
-•  
-das Befahren des Rheingaus
-
-•  
-Wechsel des gleichwertigen Wasserstandes des Rheins (GLW) von 2,10 m auf 1,90 m in diesem Bereich
-
-•  
-Berechnung der unterschiedlichen Richtpegel zum Bestimmen der Fahrrinnen- und Abladetiefen in diesem Bereich
-
-•  
-Wirkung von Strömung
-
-•  
-Geeignete Liegeplätze benennen und kennen, um bei unvorhersehbaren Ereignissen richtig und sicher reagieren zu können,
-
-b) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen
-
-•  
-Verkehrsregelung in der Gebirgsstrecke
-
-•  
-Wartepositionen
-
-•  
-Überholverbote
-
-Zusätzliche Befähigung
-
-Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a) detaillierte Kenntnisse der Streckencharakteristika,
-
-b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-
-•  
-schwankende Wasserstände um teils mehr als 7 m
-
-•  
-Verlauf der Fahrrinne im Strom bei Hochwasser
-
-•  
-Lage aller Fehltiefen und -breiten bei Niedrigwasser
-
-•  
-Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-
-•  
-Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-
-•  
-Querströmungen
-
-b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über die örtlichen Gegebenheiten bezüglich Geschiebebewirtschaftung und nicht gekennzeichnete Fehltiefen und -breiten.
-
-Zusätzliche Befähigung
-
-Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a) detaillierte Kenntnisse der Streckencharakteristika,
-
-b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
-
-c) Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über:
-
-•  
-Verlauf der Fahrrinne im Strom
-
-•  
-Auswirkungen von Hoch- und Niedrigwasser auf das Fluss- und Landschaftsbild und die Abflussmengen und -geschwindigkeiten
-
-•  
-Querströmungen
-
-b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über:
-
-•  
-den Verlauf der Fahrrinne: Sie verlagert sich in dem deutlich breiteren Fluss nach jeder Kurve auf eine andere Seite. Für Begegnungsverkehre und Überholvorgänge sind ausreichende Erfahrung und rechtzeitige Absprachen über Rheinfunk Kanal 10 nötig.
-
-•  
-Lage aller Fehltiefen und -breiten, insbesondere der nicht gekennzeichneten Fehlbreiten sowie der Geschiebebewirtschaftung
-
-•  
-schwierige Streckenabschnitte
-
-c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen:
-
-Zusätzliche Befähigung
-
-Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a) detaillierte Kenntnisse der Streckencharakteristika,
-
-b) detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
-
 •  
 die auftretenden Strömungsmuster und -geschwindigkeiten
 
@@ -7636,10 +7921,10 @@ Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richt
 1. Verfahren zur Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung
 
 1.1  
-Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
+Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.
 
 1.2  
-Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nach den nachstehenden Voraussetzungen erfüllt.
+Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn er die nachstehenden Voraussetzungen erfüllt.
 
 1.3  
 Der Lehrgangsanbieter trägt durch Ausstellung der Lehrgangsbescheinigung die Gewähr, dass die Teilnehmenden ausreichende Kenntnisse für sichere Arbeitsabläufe auf Schiffen vermittelt bekommen haben.
@@ -7650,7 +7935,7 @@ Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er
 2. Antrag auf Zulassung
 
 2.1  
-Der Antrag auf Zulassung ist schriftlich oder elektronisch an die zuständige Behörde zu richten.
+Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.
 
 2.2  
 War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt sie die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
@@ -7671,16 +7956,16 @@ d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtung
 
 e) Teilnahmebedingungen für den Lehrgang,
 
-f) die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der zuständigen Behörde unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+f) die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der Berufsgenossenschaft unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
 3. Prüfung
 
-Die zuständige Behörde und von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 
 4. Befristung, Widerruf der Zulassung
 
 4.1  
-Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.
+Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.
 
 4.2  
 Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt wird oder wenn gegen die Pflichten, die sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
@@ -7728,7 +8013,7 @@ b) Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Be
 Die antragstellende Person hat nachzuweisen, dass der Lehrgang auf einem Wasserfahrzeug, einer schwimmenden Anlage oder einer geeigneten Landanlage durchgeführt wird, so dass insbesondere die praktischen Elemente des Lehrgangs unter realistischen Bedingungen vermittelt werden können.
 
 2.2  
-Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die zuständige Behörde, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
+Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die Berufsgenossenschaft, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
 
 3. Organisatorische Voraussetzungen
 
@@ -7774,7 +8059,7 @@ c) Name der Lehrkraft
 d) Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden.
 
 3.3.2  
-Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
 3.4  
 Versicherungsschutz
@@ -8112,10 +8397,10 @@ c) Das Verzeichnis der zugelassenen Lehrgänge wird vom Bundesministerium für D
 1. Verfahren zur Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt
 
 1.1  
-Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
+Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.
 
 1.2  
-Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
+Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
 
 1.3  
 Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert.
@@ -8126,7 +8411,7 @@ Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er
 2. Antrag auf Zulassung
 
 2.1  
-Der Antrag auf Zulassung in schriftlich oder elektronisch an die zuständige Behörde zu richten.
+Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.
 
 2.2  
 War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
@@ -8145,16 +8430,16 @@ c) Informationen über das Lehrmaterial,
 
 d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
 
-e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die zuständige Behörde unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die Berufsgenossenschaft unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
 3. Prüfung
 
-Die zuständige Behörde und von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 
 4. Befristung, Widerruf der Zulassung
 
 4.1  
-Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
+Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
 
 4.2  
 Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
@@ -8253,7 +8538,7 @@ Name der Lehrkraft
 Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden
 
 3.3.1.6  
-Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
 3.4  
 Versicherungsschutz
@@ -9827,36 +10112,4 @@ e) das Datum des Inkrafttretens, der Aufhebung oder Aussetzung der Zulassung des
 
 2. Für die Zwecke eines Qualitätsbewertungs- und -sicherungssystems nach Artikel 27 der Richtlinie (EU) 2017/2397 werden die Anträge gemäß Abschnitt I Nummer 1 Buchstabe a und die Dokumentation gemäß Abschnitt I Nummer 2 von der zuständigen Behörde aufbewahrt.
 
-# Anlage 32 – (zu § 137 Absatz 2)Voraussetzungen für die Verlängerung der Ermächtigung von Ärzten und Ärztinnen
-
-(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 122)
-
- 
-
-I. Für die Verlängerung der Ermächtigung gelten folgende Voraussetzungen:
-
-1. Approbation als Arzt oder Ärztin,
-
-2. Abschluss als Facharzt/Fachärztin für Arbeitsmedizin oder abgeschlossene Zusatz-Weiterbildung Betriebsmedizin,
-
-3. verkehrsmedizinische Erfahrungen (insbesondere durch Betriebsarzttätigkeit in Logistikunternehmen oder durchgeführte Eignungsuntersuchungen nach verkehrsrechtlichen Vorgaben),
-
-4. Teilnahme an einem Seminar „Arbeitsmedizinische Untersuchungen nach dem Verkehrsrecht in der Binnenschifffahrt“ der Berufsgenossenschaft innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Ermächtigung,
-
-5. mindestens 4-stündige Mitfahrt auf einem Binnenschiff im Steuerhaus, Maschinenraum und an Deck, nicht als Passagier, oder mindestens 2 Betriebsbegehungen auf Binnen- oder Küstenschiffen in betriebsärztlicher Funktion innerhalb von 24 Monaten vor dem Antrag auf Verlängerung der Ermächtigung,
-
-6. Vorhandensein von für die Durchführung der ärztlichen Untersuchung erforderlichen apparativen, personellen und räumlichen Voraussetzungen.
-
-II. Für die Verlängerung der Ermächtigung müssen folgende schriftliche Nachweise erbracht werden:
-
-1. Erklärung über das Fortbestehen der
-
-a) Approbation als Arzt oder Ärztin
-
-b) arbeitsmedizinischen Fachkunde
-
-c) für die Durchführung der ärztlichen Untersuchung erforderlichen personellen und technischen Ausstattung,
-
-2. Bescheinigungen über die Teilnahme an dem Seminar und an der Mitfahrt nach Abschnitt I Satz 1 Nummer 4 und 5.
-
-III. Liegen die Qualifikationen nach Abschnitt I Satz 1 Nummer 4 und 5 bei Antrag auf Verlängerung der Ermächtigung nicht vor, kann zur Vermeidung unbilliger Härten oder, wenn ein besonderes Bedürfnis vorliegt, eine vorläufige Verlängerung der Ermächtigung für bis zu zwei Jahre erteilt werden. In dieser Zeit ist der Erwerb dieser Qualifikationen nachzuweisen. Bei begründeten Zweifeln an der Richtigkeit der Erklärungen der antragstellenden Person nach Abschnitt II Nummer 1 können entsprechende Nachweise verlangt werden. Die Nachweise nach Abschnitt II Nummer 2 können auch durch den Nachweis gleichwertiger praktischer Erfahrungen ersetzt werden.
+# Anlage 32 – (zu § 137 Absatz 2)(weggefallen)
