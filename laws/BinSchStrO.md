@@ -244,7 +244,7 @@ bei einer Streckenangabe schließt der Kilometerendpunkt die jeweilige Kilometer
 45. „diensttuende Mindestbesatzung“:  
   
 
-die Besatzung nach Teil 3 der Binnenschiffspersonalverordnung oder nach den §§ 3.15 bis 3.23 der Schiffspersonalverordnung-Rhein, die sich nicht in der Ruhezeit befindet;
+die Besatzung nach Teil 3 der Binnenschiffspersonalverordnung oder nach den §§ 19.02 bis 19.10 der Rheinschiffspersonalverordnung, die sich nicht in der Ruhezeit befindet;
 
 46. „Inland AIS Gerät“:  
   
@@ -271,10 +271,10 @@ Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. Septembe
 
 Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung;
 
-51. „Schiffspersonalverordnung-Rhein“:  
+51. „Rheinschiffspersonalverordnung“:  
   
 
-Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband), die zuletzt durch Artikel 1 Nummer 2 Satz 1 in Verbindung mit der Anlage 3 der Verordnung vom 8. November 2019 (BGBl. 2019 II S. 907) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
+Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband) in der jeweils geltenden und anzuwendenden Fassung;
 
 52. „Sportbootführerscheinverordnung“:  
   
@@ -11364,7 +11364,7 @@ b) der Verkehr eines Kleinfahrzeugs, das mit einer Antriebsmaschine ausgestattet
 
 c) das Schleppen oder gekuppelte Mitführen von Kleinfahrzeugen, die Sportfahrzeuge sind, durch andere Kleinfahrzeuge, die Sportfahrzeuge sind,
 
-verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschiffspersonalverordnung oder der Schiffspersonalverordnung-Rhein verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
+verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschiffspersonalverordnung oder der Rheinschiffspersonalverordnung verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
 
 2. Auf dem Gosener Graben ist der Verkehr eines Kleinfahrzeugs mit Maschinenantrieb verboten.
 

@@ -1103,7 +1103,7 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 
 2. im Sterberegister die Angaben über Zeitpunkt und Ort des Todes, wenn der Sterbefall schriftlich angezeigt worden ist,
 
-3. in allen Personenstandsregistern die Angaben über die rechtliche Zugehörigkeit zu einer Religionsgemeinschaft und die Rechtskraft gerichtlicher Entscheidungen.
+3. in allen Personenstandsregistern die Angaben über die Rechtskraft gerichtlicher Entscheidungen.
 
 (3) Bei Berichtigungen sind die Beteiligten vor der Änderung zu hören. Eine Anhörung unterbleibt in den Fällen des Absatzes 1 Satz 2 Nummer 1, 4 und 5 sowie des Absatzes 1 Satz 3 Nummer 2.
 
