@@ -481,8 +481,6 @@ Die Sätze 2 und 3 gelten entsprechend. Deckungswerte, die zur Erfüllung der An
 
 (7) Es ist verboten, für eine Pfandbriefbank Pfandbriefe in den Verkehr zu bringen, wenn deren Betrag nicht durch die im jeweiligen Deckungsregister eingetragenen Werte vorschriftsmäßig gedeckt ist. Es ist auch verboten, für eine Pfandbriefbank über einen im Deckungsregister eingetragenen Wert durch Veräußerung oder Belastung zum Nachteil der Pfandbriefgläubiger oder der Gläubiger von Ansprüchen aus Derivategeschäften nach Absatz 3 zu verfügen, obwohl die übrigen im jeweiligen Deckungsregister eingetragenen Werte zur vorschriftsmäßigen Deckung der entsprechenden Pfandbriefe und der Ansprüche aus Derivategeschäften nach Absatz 3 nicht genügen. Pfandbriefe dürfen nicht ohne die nach § 8 Abs. 3 Satz 1 erforderliche Bescheinigung in den Verkehr gebracht werden.
 
-(+++ § 4 Abs. 1a: Zur Anwendung vgl. § 53 (F 2009-03-20) +++)
-
 # § 4a – Umschuldungsklauseln in Staatsanleihen
 
 Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissionsbedingungen von Schuldverschreibungen des Bundes sowie entsprechende Umschuldungsklauseln in den Emissionsbedingungen von Schuldverschreibungen anderer Schuldner im Sinne des § 20 Absatz 1 Nummer 1 stehen einer Indeckungnahme nach § 4 Absatz 1 Satz 3 Nummer 1 und 2, § 19 Absatz 1 Satz 1 Nummer 4, § 26 Absatz 1 Satz 1 Nummer 5 oder § 26f Absatz 1 Satz 1 Nummer 5 nicht entgegen.
