@@ -338,7 +338,7 @@ Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Großk
 
 # Anlage 2 – Meldeformular EA
 
-(Fundstelle: BGBl. I 2019, 153 - 154; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2019, 153 - 154; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 <span id="FnA1-F806348_01"></span><a href="#FnR.FnA1-F806348_01" class="Footnote">1</a>  
 Die Postleitzahl ist nur für inländische Kreditnehmer anzugeben.
@@ -392,7 +392,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Mill
 
 # Anlage 3 – Meldeformular STA
 
-(Fundstelle: BGBl. I 2019, 155 - 156; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2019, 155 - 156; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 <span id="FnA1-F806348_01a"></span><a href="#FnR.FnA1-F806348_01a" class="Footnote">1</a>  
 Die Postleitzahl ist nur für inländische Kreditnehmer anzugeben.
@@ -446,7 +446,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 # Anlage 4 – GbR
 
-(Fundstelle: BGBl. I 2013, 4197 - 4198; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2013, 4197 - 4198; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2021/j4183-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
@@ -454,7 +454,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 # Anlage 5 – MKNE
 
-(Fundstelle: BGBl. I 2013, 4199 - 4200; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2013, 4199 - 4200; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2021/j4183-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
@@ -462,7 +462,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 # Anlage 6 – STAK
 
-(Fundstelle: BGBl. I 2013, 4201 - 4202; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2013, 4201 - 4202; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2021/j4183-1_0100.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
@@ -470,7 +470,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 # Anlage 7 – BA
 
-(Fundstelle: BGBl. I 2019, 157 - 160; bezüglich der einzelnen Änderungen vg. Fußnote)
+(Fundstelle: BGBl. I 2019, 157 - 160; bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 BA
 
