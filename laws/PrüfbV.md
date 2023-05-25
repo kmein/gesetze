@@ -101,6 +101,10 @@ des § 29 Absatz 4 des Kreditwesengesetzes, der durch Artikel 2 Nummer 34 Buchst
 
  
 
+ 
+
+ 
+
 (1) Anlage 1 (zu § 70)
 
 (2) Anlage 2 (zu § 70)
@@ -602,8 +606,7 @@ b) die Einhaltung der Regelungen zur Zulässigkeit sowie zur Form und Frist von 
 
 (5) Auf Risikokonzentrationen und deren institutsinterne Behandlung, einschließlich ihrer Einbindung in die Risikostrategie und das Risikomanagement ist einzugehen.
 
-(+++ § 31: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)  
-(+++ § 31 Abs. 1 Satz 3: Zur Anwendung vgl. § 30 Abs. 1 +++)
+(+++ § 31: Zur Anwendung bzw. Nichtanwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)
 
 # § 32 – Länderrisiko
 
