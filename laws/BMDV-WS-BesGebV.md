@@ -225,7 +225,7 @@ a) für die Ausstellung des Kanalsteurerausweises (Nummer 13 des Gebührenverzei
 
 b) für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des Gebührenverzeichnisses)
 
-2. Gebührenreduzierung gemäß § 9 Absatz 4 BGebG
+2. Gebührenreduzierung gemäß § 9 Absatz 4 BGebG:
 
 Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
 
@@ -288,3 +288,6 @@ d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabsch
 3. Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 
  
+
+(+++ Anlage Abschn. 6: Zur Anwendung vgl. § 4 Abs.4 +++)  
+Anlage Abschn. 2 Tabelle (nach Nr. 5) Tabellenabschn. 2 Nr. 203 Spalte 3: IdF d. Art. 4 Nr. 3 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird die Angabe "Artikel 11.08. Nummer 1," durch die Angabe "Artikel 11.08 Nummer 1," ersetzt. Anlage Abschn. 3 Nr. 1 u. 2: Früher einziger Text, jetzt Nr. 1 u. 2 gem. u. idF. d. Art. 1 Nr. 3 Buchst. a V v. 11.5.2023 I Nr. 127 mWv 18.5.2023 Anlage Abschn. 3 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach den Worten "gemäß § 9 Absatz 4 BGebG" das Satzzeichen Doppelpunkt ":" eingesetzt.

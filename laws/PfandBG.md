@@ -481,6 +481,8 @@ Die Sätze 2 und 3 gelten entsprechend. Deckungswerte, die zur Erfüllung der An
 
 (7) Es ist verboten, für eine Pfandbriefbank Pfandbriefe in den Verkehr zu bringen, wenn deren Betrag nicht durch die im jeweiligen Deckungsregister eingetragenen Werte vorschriftsmäßig gedeckt ist. Es ist auch verboten, für eine Pfandbriefbank über einen im Deckungsregister eingetragenen Wert durch Veräußerung oder Belastung zum Nachteil der Pfandbriefgläubiger oder der Gläubiger von Ansprüchen aus Derivategeschäften nach Absatz 3 zu verfügen, obwohl die übrigen im jeweiligen Deckungsregister eingetragenen Werte zur vorschriftsmäßigen Deckung der entsprechenden Pfandbriefe und der Ansprüche aus Derivategeschäften nach Absatz 3 nicht genügen. Pfandbriefe dürfen nicht ohne die nach § 8 Abs. 3 Satz 1 erforderliche Bescheinigung in den Verkehr gebracht werden.
 
+(+++ § 4 Abs. 1 Satz 3 Nr. 3 Buchst. c: Zur Nichtgeltung vgl. § 19 Abs. 1 Satz 6 +++)
+
 # § 4a – Umschuldungsklauseln in Staatsanleihen
 
 Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissionsbedingungen von Schuldverschreibungen des Bundes sowie entsprechende Umschuldungsklauseln in den Emissionsbedingungen von Schuldverschreibungen anderer Schuldner im Sinne des § 20 Absatz 1 Nummer 1 stehen einer Indeckungnahme nach § 4 Absatz 1 Satz 3 Nummer 1 und 2, § 19 Absatz 1 Satz 1 Nummer 4, § 26 Absatz 1 Satz 1 Nummer 5 oder § 26f Absatz 1 Satz 1 Nummer 5 nicht entgegen.
@@ -575,6 +577,8 @@ Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissions
 
 (3) Die eingetragenen Deckungswerte erstrecken sich auch auf alle Forderungen, deren Inhaber die Pfandbriefbank ist und die auf die wirtschaftliche Substanz des Grundstücks gerichtet sind, insbesondere Forderungen, auf die sich die Hypothek bei inländischen Grundstücken nach den §§ 1120, 1123, 1126, 1127 und 1128 des Bürgerlichen Gesetzbuchs erstrecken würde sowie auf Ansprüche der Pfandbriefbank aus eigenem oder abgetretenem Recht aus einer Versicherung nach § 15, auf die Übertragung des Grundstücks oder grundstücksgleiche oder vergleichbare Rechte und auf die Auskehr des Erlöses einer Verwertung. Für den Fall der Insolvenz der Pfandbriefbank gilt Satz 1 in Bezug auf einen Anspruch auf die Mittel nach § 251 Absatz 3 Satz 1 der Insolvenzordnung oder die Mittel nach § 64 Absatz 3 Satz 1 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes entsprechend, soweit die Pfandbriefbank wegen der Bestätigung eines Insolvenzplans oder Restrukturierungsplans zum Ausgleich für die Schlechterstellung auf Grund einer gegen ihren Willen vorgenommenen Umgestaltung eines Deckungswertes Anspruch auf diese Mittel hat.
 
+(+++ § 12 Abs. 3 Satz 2: Zur Geltung vgl. § 22 Abs. 6 Satz 2 u. § 26b Abs. 5 Satz 2 +++)
+
 # § 13 – Belegenheit der Sicherheiten
 
 (1) Die Hypotheken müssen lasten auf Grundstücken, grundstücksgleichen Rechten oder solchen Rechten einer ausländischen Rechtsordnung, die den grundstücksgleichen Rechten deutschen Rechts vergleichbar sind. Die belasteten Grundstücke und die Grundstücke, an denen die belasteten Rechte bestehen, müssen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in der Schweiz, im Vereinigten Königreich Großbritannien und Nordirland, in den Vereinigten Staaten von Amerika, in Kanada, in Japan, in Australien, in Neuseeland oder in Singapur belegen sein; der Gesamtbetrag der Beleihungen in Staaten, die nicht der Europäischen Union angehören, bei denen nicht sichergestellt ist, dass sich das Vorrecht der Pfandbriefgläubiger nach § 30 Abs. 1 auf die Forderungen der Pfandbriefbank aus diesen Beleihungen erstreckt, darf 10 Prozent des Gesamtbetrages der Beleihungen, bei denen das Vorrecht sichergestellt ist, nicht übersteigen.
@@ -665,6 +669,10 @@ Bei der Deckung gemäß Satz 1 Nummer 2 sind die in Satz 1 Nummer 1 genannten De
 
 (2) Im Falle des § 2 Abs. 3 kann die Bundesanstalt Ausnahmen von den Begrenzungen gemäß Absatz 1 Satz 1 Nummer 3 Buchstabe a und b Doppelbuchstabe aa und bb, auch in Verbindung mit Buchstabe c, und gemäß Absatz 1 Satz 1 Nummer 3 Buchstabe d Doppelbuchstabe aa und bb und Nummer 4 zulassen.
 
+(+++ § 19 Abs. 1 Satz 1 Nr. 2 Buchst. a u. b, Nr. 3 Buchst. a bis c, Nr. 4, auch in Verbindung mit § 20 Abs. 2 Satz 1 Nr. 2, mit § 26 Abs. 1 Satz 1 Nr. 3 bis 5 oder mit § 26f Abs. 1 Satz 1 Nr. 3 bis 5 sowie § 20 Abs. 1 Satz 1 Nr. 3 Buchst. a u. b: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 5 +++)  
+(+++ § 19 Abs. 1 Satz 5: Zur Geltung vgl. § 20 Abs. 2 Satz 4, § 26 Abs. 1 Satz 5 u. § 26f Abs. 1 Satz 5 +++)  
+(+++ § 19 Abs. 1 Satz 6: Zur Geltung vgl. § 20 Abs. 2 Satz 5, § 26 Abs. 1 Satz 6 u. § 26f Abs. 1 Satz 6 +++)
+
 # § 20 – Deckungswerte
 
 (1) Zur Deckung Öffentlicher Pfandbriefe dürfen nur Geldforderungen aus der Vergabe von Darlehen, aus Schuldverschreibungen oder aus einem vergleichbaren Rechtsgeschäft oder andere, von den in Nummer 1 genannten Stellen schriftlich als einredefrei anerkannte Forderungen benutzt werden,
@@ -730,6 +738,8 @@ Bei der Deckung gemäß Satz 1 Nummer 2 sind die in Satz 1 Nummer 1 genannten De
 (3) Der Gesamtbetrag der Forderungen gegen außerhalb der Mitgliedstaaten der Europäischen Union ansässige Schuldner, bei denen nicht sichergestellt ist, dass sich das Vorrecht der Gläubiger der Öffentlichen Pfandbriefe nach § 30 Absatz 1 auf die Forderungen der Pfandbriefbank nach den Absätzen 1 und 2 erstreckt, darf 10 Prozent des Gesamtbetrags der Forderungen, bei denen das Vorrecht sichergestellt ist oder für die eine Verpflichtung nach Satz 3 besteht, nicht übersteigen. Satz 1 gilt entsprechend für Ansprüche gegen Gewährleistende nach Absatz 1 Nummer 2. Eine Anrechnung von Forderungen gegen die in den Sätzen 1 und 2 genannten Schuldner auf die in Satz 1 genannte Grenze unterbleibt, soweit eine der in Absatz 1 Nummer 1 Buchstabe b oder Buchstabe d genannten Stellen oder ein Exportkreditversicherer, der die Anforderungen des Absatzes 1 Nummer 2 erfüllt, gegenüber der Pfandbriefbank die Verpflichtung übernommen hat, die Pfandbriefbank mit beschränkter Geschäftstätigkeit im Falle der Entziehung der betreffenden Forderung schadlos zu stellen, und dieser Anspruch bei der betreffenden Forderung in das Deckungsregister für Öffentliche Pfandbriefe eingetragen wird; sofern der zur Schadlosstellung Verpflichtete seinen Sitz außerhalb der Mitgliedstaaten der Europäischen Union hat, unterbleibt die Anrechnung auf die in Satz 1 genannte Grenze nur, wenn sichergestellt ist, dass sich das Vorrecht der Pfandbriefgläubiger auf den Anspruch auf Schadlosstellung erstreckt.
 
 (4) Die eingetragenen Deckungswerte erstrecken sich auch auf alle Forderungen, deren Inhaber die Pfandbriefbank ist und die auf die wirtschaftliche Substanz des Deckungswertes gerichtet sind, im Falle einer nach Absatz 1 Nummer 2 gewährleisteten Hypothek insbesondere auch auf die in § 12 Abs. 3 genannten Forderungen.
+
+(+++ § 20 Abs. 3: Zur Geltung vgl. § 19 Abs. 1 Satz 7, § 26 Abs. 1 Satz 6 u. § 26f Abs. 1 Satz 6 +++)
 
 # § 21 – Deckungswerte
 
@@ -1002,7 +1012,8 @@ Die in Satz 1 Nummer 3 Buchstabe a bis c bezeichneten Angaben sind getrennt nach
 (5) Für sämtliche Angaben nach den Absätzen 1 bis 4 ist jeweils auch der entsprechende Wert des Vorjahres anzugeben.
 
 (+++ § 28 Abs. 1 bis 3 in der ab 1.1.2014 geltenden Fassung: Zur Anwendung vgl. § 53 Satz 1 +++)  
-(+++ § 28 Abs. 1 bis 4 in der ab 19.12.2014 geltenden Fassung: Zur Anwendung vgl. § 54 Satz 1 +++)
+(+++ § 28 Abs. 1 bis 4 in der ab 19.12.2014 geltenden Fassung: Zur Anwendung vgl. § 54 Satz 1 +++)  
+(+++ § 28 Abs. 5: Zur erstmaligen Anwendung vgl. § 55 +++)
 
 # § 29 – Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung
 
@@ -1072,6 +1083,9 @@ Für Fälligkeitsverschiebungen, die den Zeitraum von einem Monat nach Ernennung
 
 (11) Für alle die Ernennung und Stellung des Sachwalters betreffenden gerichtlichen Entscheidungen richtet sich die Zuständigkeit nach den §§ 2 und 3 der Insolvenzordnung. Die Entscheidungen ergehen durch Beschluss. Für das Verfahren gelten die §§ 4, 5 Absatz 1 und 3 und § 6 Absatz 1 Satz 2 und Absatz 2 und 3 der Insolvenzordnung entsprechend. Gegen Entscheidungen des Gerichts steht der Bundesanstalt, dem Sachwalter sowie der Pfandbriefbank die sofortige Beschwerde zu; Halbsatz 1 gilt nicht in den Fällen des § 30 Absatz 6a.
 
+(+++ §§ 31 u. 31a: Zur Geltung vgl. § 36a Abs. 2 Satz 6 +++)  
+(+++ § 31 Abs. 1 u. 2: Zur Geltung vgl. § 36a Abs. 2 Satz 8 +++)
+
 # § 31a – Vergütung des Sachwalters
 
 (1) Der Sachwalter hat Anspruch auf Vergütung seiner Tätigkeit und Ersatz angemessener Auslagen. Die Höhe der Vergütung soll den Aufwand des Sachwalters, den wertmäßigen Erfolg der Abwicklung und den Nennwert des Pfandbriefumlaufs berücksichtigen. Die Kosten der Verwaltung durch den Sachwalter einschließlich seiner Vergütung und der Erstattung seiner Auslagen sind aus dem Vermögen der Pfandbriefbank mit beschränkter Geschäftstätigkeit zu tragen.
@@ -1079,6 +1093,9 @@ Für Fälligkeitsverschiebungen, die den Zeitraum von einem Monat nach Ernennung
 (2) Das für die Ernennung zuständige Gericht setzt die Vergütung und die Auslagen auf Antrag des Sachwalters fest. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozessordnung statt.
 
 (3) (weggefallen)
+
+(+++ §§ 31 u. 31a: Zur Geltung vgl. § 36a Abs. 2 Satz 6 +++)  
+(+++ § 31a: Zur Geltung vgl. § 31 Abs. 6a Satz 6 +++)
 
 # § 32 – Übertragung der Deckungsmassen und -verbindlichkeiten
 
