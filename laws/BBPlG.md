@@ -671,9 +671,9 @@ Höchstspannungsleitung Conneforde – Unterweser; Drehstrom Nennspannung 380 kV
 
 55
 
-Höchstspannungsleitung Elsfleth West – Ganderkesee mit Abzweig Niedervieland; Drehstrom Nennspannung 380 kV
+Höchstspannungsleitung Elsfleth West – Ganderkesee/Lemwerder/Berne – Ganderkesee; Drehstrom Nennspannung 380 kV
 
-A1
+\-
 
 56
 
@@ -933,7 +933,7 @@ A1, B, E, H
 
 Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom
 
-A1, B, E, H
+A1, B, E
 
 83
 
