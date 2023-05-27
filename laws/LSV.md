@@ -49,11 +49,9 @@ b) Auf- und Entladen von elektrisch betriebenen Fahrzeugen;
 
 (5) Sonstige geltende technische Anforderungen, insbesondere Anforderungen an die technische Sicherheit von Energieanlagen nach § 49 Absatz 1 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 84 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, bleiben unberührt. § 49 Absatz 2 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
 
-(6) Ab der Feststellung der technischen Möglichkeit durch das Bundesamt für Sicherheit in der Informationstechnik nach § 30 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, muss bei dem Aufbau von Ladepunkten sichergestellt werden, dass energiewirtschaftlich relevante Mess- und Steuerungsvorgänge über ein Smart-Meter-Gateway entsprechend den Anforderungen des Energiewirtschaftsgesetzes und des Messstellenbetriebsgesetzes abgewickelt werden können.
+(6) Die Absätze 1 bis 3 sind nicht für kabellos und induktiv betriebene Ladepunkte anzuwenden.
 
-(7) Die Absätze 1 bis 3 sind nicht für kabellos und induktiv betriebene Ladepunkte anzuwenden.
-
-(8) Die in den Absätzen 1 bis 3 genannten DIN EN-Normen sind im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen Nationalbibliothek archivmäßig gesichert hinterlegt.
+(7) Die in den Absätzen 1 bis 3 genannten DIN EN-Normen sind im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 # § 4 – Punktuelles Aufladen
 
