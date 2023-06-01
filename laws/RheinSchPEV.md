@@ -95,7 +95,7 @@ zuwiderhandelt.
 
 4. entgegen § 1.15 Nr. 1 feste Gegenstände oder Flüssigkeiten in die Wasserstraße einbringt oder einleitet,
 
-4a. entgegen § 1.17 Nummer 1 Satz 2 nicht an Bord und nicht in der Nähe der Unfallstelle bleibt,
+4a. entgegen § 1.17 Nummer 1 Satz 2 nicht an Bord oder nicht in der Nähe der Unfallstelle bleibt,
 
 5. ohne Erlaubnis nach § 1.23 eine dort genannte Veranstaltung durchführt oder durchführen läßt,
 
@@ -241,7 +241,7 @@ zuwiderhandelt,
 
 2a. entgegen § 1.02 Nr. 7 Satz 2 ein Fahrzeug führt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
 
-2b. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3 Dienst verrichtet wird,
+2b. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3, Dienst verrichtet wird,
 
 3. entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln nicht trifft und dadurch das Leben eines anderen gefährdet, ein Fahrzeug, einen Schwimmkörper, das Ufer, ein Regelungsbauwerk oder eine dort genannte Anlage beschädigt oder die Schiffahrt behindert,
 
@@ -269,11 +269,7 @@ zuwiderhandelt,
 
 7. entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
 
-7a. entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord mitführt,
-
-8. ein Fahrzeug führt, auf dem sich entgegen § 1.11 Nummer 1 ein Abdruck der dort genannten Verordnungen nicht an Bord befindet,
-
-8a. ein Fahrzeug, das mit einer Schiffsfunkstelle nach § 4.05 der Anlage ausgerüstet ist, führt, auf dem sich entgegen § 1.11 Nummer 2 ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel, nicht an Bord befindet,
+8. entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord mitführt,
 
 9. ein Fahrzeug, einen Schwimmkörper oder eine schwimmende Anlage führt, auf denen entgegen § 1.12 Nr. 1 ein Gegenstand über die Bordwand hinausragt,
 

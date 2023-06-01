@@ -251,7 +251,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (2) Für das Orientierungspraktikum sind mindestens 5 ECTS-Punkte zu vergeben.
 
-(3) Das Orientierungspraktikum findet in interdisziplinären Einrichtungen der Gesundheitsversorgung oder in anderen Einrichtungen statt, in denen Beratung, Prävention oder Rehabilitation zur Erhaltung, Förderung und Wiederherstellung psychischer Gesundheit durchgeführt werden und in denen Psychotherapeutinnen und Psychotherapeuten, Psychologische Psychotherapeutinnen und Psychologische Psychotherapeuten oder Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten tätig sind.
+(3) Das Orientierungspraktikum findet in interdisziplinären Einrichtungen der Gesundheitsversorgung oder in anderen Einrichtungen statt, in denen Beratung, Prävention oder Rehabilitation zur Erhaltung, Förderung und Wiederherstellung psychischer Gesundheit durchgeführt werden.
 
 (4) Das Orientierungspraktikum wird im Block oder studienbegleitend durchgeführt.
 
@@ -448,9 +448,9 @@ Sofern die Leistungsübersicht über die im Masterstudiengang erbrachten Studien
 
 2. zwölf weiteren Mitgliedern.
 
-(3) Für die Vorsitzende oder den Vorsitzenden und jedes der weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen.
+(3) Für die Vorsitzende oder den Vorsitzenden ist eine stellvertretende Person zu bestellen. Für die weiteren Mitglieder sind insgesamt mindestens sechs stellvertretende Personen zu bestellen.
 
-(4) Als weitere Mitglieder und als ihre stellvertretenden Personen dürfen nur Personen bestellt werden, die mindestens über die durch die Prüfung festzustellende oder eine gleichwertige Qualifikation verfügen:
+(4) Als weitere Mitglieder und als stellvertretende Personen dürfen nur Personen bestellt werden, die mindestens über die durch die Prüfung festzustellende oder eine gleichwertige Qualifikation verfügen:
 
 1. Hochschullehrerinnen und Hochschullehrer,
 
@@ -466,7 +466,7 @@ c) Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsy
 
 d) Fachärztinnen oder Fachärzte mit einer Weiterbildung in den Gebieten Psychiatrie und Psychotherapie, psychosomatische Medizin und Psychotherapie oder Kinder- und Jugendpsychiatrie und -psychotherapie.
 
-(5) Die weiteren Mitglieder der Prüfungskommission sowie die stellvertretenden Personen werden von der nach § 20 zuständigen Stelle auf Vorschlag der Hochschule bestellt.
+(5) Die Hochschule schlägt der nach § 20 zuständigen Stelle die weiteren Mitglieder der Prüfungskommission sowie die stellvertretenden Personen vor. Diese werden von der nach § 20 zuständigen Stelle bestellt.
 
 (+++ § 25: Zur Geltung vgl. § 65 Abs. 4  
 § 25: Zur Geltung vgl. § 69 Abs. 7 +++)
@@ -480,7 +480,7 @@ Die nach § 20 zuständige Stelle kann zu beiden Teilen der psychotherapeutische
 
 # § 27 – Inhalt der psychotherapeutischen Prüfung
 
-Die psychotherapeutische Prüfung erstreckt sich auf die im Studium vermittelten Inhalte, über die eine Psychotherapeutin oder ein Psychotherapeut zur eigenverantwortlichen und selbständigen Berufsausübung verfügen muss (therapeutische Kompetenzen). Besondere Aspekte der verschiedenen Alters- und Patientengruppen sind in die Fragestellungen der psychotherapeutischen Prüfung angemessen einzubeziehen.
+Die psychotherapeutische Prüfung erstreckt sich auf die im Studium vermittelten Inhalte, über die eine Psychotherapeutin oder ein Psychotherapeut zur eigenverantwortlichen und selbständigen Berufsausübung verfügen muss (therapeutische Kompetenzen). Gegenstand der psychotherapeutischen Prüfung sind alle wissenschaftlich geprüften und anerkannten psychotherapeutischen Verfahren und Methoden. Besondere Aspekte der verschiedenen Alters- und Patientengruppen sind in die Fragestellungen der psychotherapeutischen Prüfung angemessen einzubeziehen.
 
 # § 28 – Bestehen der psychotherapeutischen Prüfung
 
@@ -729,7 +729,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 # § 49 – Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
 
-(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Pool an Parcours erstellt; jeder Parcours umfasst eine Prüfungsaufgabe aus jedem der in § 48 Absatz 2 bis 6 genannten Kompetenzbereiche. Für jede Prüfungsaufgabe ist vorzulegen:
+(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Parcours erstellt; jeder Parcours umfasst eine Prüfungsaufgabe aus jedem der in § 48 Absatz 2 bis 6 genannten Kompetenzbereiche. Für jede Prüfungsaufgabe ist vorzulegen:
 
 1. eine Beschreibung der Patientensituation,
 
@@ -737,7 +737,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 3. Instruktionen für die Prüferinnen oder die Prüfer,
 
-4. eine Rollenbeschreibung für die Simulationspatientin oder den Simulationspatienten und
+4. eine Rollenbeschreibung für die Schauspielpersonen und
 
 5. ein strukturierter Bewertungsbogen.
 
@@ -749,7 +749,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 3. die Bestehensgrenze, die in Prozent der insgesamt an der Station erreichbaren Punktzahl anzugeben ist.
 
-(3) Die Prüferinnen oder Prüfer und die Simulationspatientinnen oder Simulationspatienten werden für die anwendungsorientierte Parcoursprüfung geschult. Die Schulung erstreckt sich auf die Kenntnisse und Fertigkeiten, die für eine ordnungsgemäße Durchführung und Bewertung der anwendungsorientierten Parcoursprüfung benötigt werden.
+(3) Die Prüferinnen oder Prüfer und die Schauspielpersonen werden für die anwendungsorientierte Parcoursprüfung geschult. Die Schulung erstreckt sich auf die Kenntnisse und Fertigkeiten, die für eine ordnungsgemäße Durchführung und Bewertung der anwendungsorientierten Parcoursprüfung benötigt werden. Für die Schulung können digitale Formate genutzt werden. Bereits erfolgte Schulungen können berücksichtigt werden.
 
 (4) Nach Abschluss des jeweiligen Prüfungstermins sind die Ergebnisse der anwendungsorientierten Parcoursprüfung auszuwerten.
 
@@ -759,11 +759,11 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 # § 50 – Prüferinnen und Prüfer
 
-(1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 für jede Station jeweils zwei Prüferinnen oder Prüfer und ihre jeweiligen stellvertretenden Personen bestellt. Eine oder einer der Prüferinnen oder Prüfer in den einzelnen Stationen wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die anwendungsorientierte Parcoursprüfung bestellt.
+(1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 für jede Station jeweils zwei Prüferinnen oder Prüfer und insgesamt mindestens vier stellvertretende Personen bestellt. Eine oder einer der Prüferinnen oder Prüfer in den einzelnen Stationen wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die anwendungsorientierte Parcoursprüfung bestellt.
 
-(2) Als Prüferinnen und Prüfer und als ihre stellvertretenden Personen dürfen für jede Station nur Personen bestellt werden, die für die Durchführung und Bewertung der anwendungsorientierten Parcoursprüfung nach § 49 Absatz 3 geschult sind.
+(2) Als Prüferinnen und Prüfer und als stellvertretende Personen dürfen nur Personen bestellt werden, die für die Durchführung und Bewertung der anwendungsorientierten Parcoursprüfung nach § 49 Absatz 3 geschult sind.
 
-(3) Von den beiden Prüferinnen oder Prüfern und ihren stellvertretenden Personen, die für eine Station bestellt werden, muss wenigstens eine Prüferin oder ein Prüfer und eine der stellvertretenden Personen zu dem folgenden Personenkreis gehören:
+(3) Von den beiden Prüferinnen oder Prüfern und ihren stellvertretenden Personen, die an einer Station eingesetzt werden, muss wenigstens eine Prüferin oder ein Prüfer und eine der stellvertretenden Personen zu dem folgenden Personenkreis gehören:
 
 1. Psychotherapeutin oder Psychotherapeut mit einer abgeschlossenen Weiterbildung nach § 95c Absatz 1 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch,
 
@@ -785,21 +785,17 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 # § 51 – Durchführung
 
-(1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung wählt für den jeweiligen Prüfungstermin in Absprache mit der nach § 20 zuständigen Stelle aus den zusammengestellten Parcours nach § 49 Absatz 4 einen Parcours und einen Ersatzparcours aus.
+(1) Die nach § 20 zuständige Stelle stellt für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung den Parcours nach § 49 Absatz 1 zur Verfügung.
 
-(2) Vor Beginn einer anwendungsorientierten Parcoursprüfung hat die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung den Parcours, der für den Prüfungstermin ausgewählt worden ist, auf Fehler zu überprüfen. Ergibt die Überprüfung Hinweise, dass eine Prüfungsaufgabe an einer Station oder der gesamte Parcours fehlerhaft sein könnte, ist der Ersatzparcours zu wählen. Für den Ersatzparcours gilt Satz 1 entsprechend.
+(2) An allen Stationen werden Schauspielpersonen eingesetzt.
 
-(2a) Ist der gewählte Ersatzparcours fehlerhaft, wählt die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung in Absprache mit der nach § 20 zuständigen Stelle erneut einen Parcours aus dem Pool der Parcours nach Absatz 1 aus. Für den erneut ausgewählten Parcours gilt Absatz 2 Satz 1 und 2 entsprechend.
+(3) An jedem Parcours sollen fünf Prüfungskandidatinnen oder Prüfungskandidaten teilnehmen. An jeder Station wird eine Prüfungskandidatin oder ein Prüfungskandidat geprüft.
 
-(3) An allen Stationen werden Simulationspatientinnen oder Simulationspatienten eingesetzt.
+(4) An jeder Station beträgt die Prüfungszeit 20 Minuten. Die Zeit zum Wechsel von einer Station zur nächsten beträgt fünf Minuten. In den Ablauf des Parcours sind angemessene Pausenzeiten zu integrieren.
 
-(4) An jedem Parcours sollen fünf Prüfungskandidatinnen oder Prüfungskandidaten teilnehmen. An jeder Station wird eine Prüfungskandidatin oder ein Prüfungskandidat geprüft.
+(5) Vor Beginn der anwendungsorientierten Parcoursprüfung weist die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung die Prüfungskandidatinnen und Prüfungskandidaten in einem Raum, der nicht einer der Stationen zugeteilt ist, in die Modalitäten der anwendungsorientierten Parcoursprüfung ein.
 
-(5) An jeder Station beträgt die Prüfungszeit 20 Minuten. Die Zeit zum Wechsel von einer Station zur nächsten beträgt fünf Minuten. In den Ablauf des Parcours sind angemessene Pausenzeiten zu integrieren.
-
-(6) Vor Beginn der anwendungsorientierten Parcoursprüfung weist die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung die Prüfungskandidatinnen und Prüfungskandidaten in einem Raum, der nicht einer der Stationen zugeteilt ist, in die Modalitäten der anwendungsorientierten Parcoursprüfung ein.
-
-(7) Mit Einwilligung aller während der Parcoursprüfung anwesenden Personen kann zu Schulungszwecken eine Videoaufzeichnung der einzelnen Stationen erfolgen.
+(6) Mit Einwilligung aller während der Parcoursprüfung anwesenden Personen kann zu Schulungszwecken eine Videoaufzeichnung der einzelnen Stationen erfolgen.
 
 (+++ § 51: Zur Geltung vgl. § 65 Abs. 4 +++)
 
@@ -837,7 +833,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 4. „ausreichend“ (4), wenn ihre oder seine Gesamtpunktzahl weniger als 25 Prozent
 
-über der Gesamtpunktzahl liegt, die die Bestehensgrenze bildet. Die Gesamtpunktzahl, die die Bestehensgrenze bildet, ist die Summe aus den einzelnen Mindestpunktzahlen, die für das Bestehen einer Station erforderlich sind.
+der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebenden Punkte erreicht. Die Gesamtpunktzahl, die die Bestehensgrenze bildet, ist die Summe aus den einzelnen Mindestpunktzahlen, die für das Bestehen einer Station erforderlich sind.
 
 (2) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung nicht bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung „nicht bestanden“.
 
@@ -1203,9 +1199,9 @@ Bleibt die Unterrichtung durch die nach § 22 Absatz 6 Satz 1 des Psychotherapeu
 
 # § 84 – Übergangsvorschriften
 
-(1) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Psychologischen Psychotherapeutin oder zum Psychologischen Psychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden nach der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft.
+(1) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Psychologischen Psychotherapeutin oder zum Psychologischen Psychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden, vorbehaltlich des Satzes 2, nach der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft. Abweichend von § 9 Absatz 1 Satz 2 Nummer 2 der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung besteht die Prüfungskommission für Prüfungen, die nach dem 31. Mai 2023 durchgeführt werden, aus zwei weiteren Psychologischen Psychotherapeutinnen oder Psychologischen Psychotherapeuten mit der dort genannten Qualifikation, von denen mindestens einer zusätzlich über die Supervisorenanerkennung nach § 4 Absatz 3 Satz 1 oder Absatz 4 der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung verfügen muss.
 
-(2) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Kinder- und Jugendlichenpsychotherapeutin oder zum Kinder- und Jugendlichenpsychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden nach der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft.
+(2) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Kinder- und Jugendlichenpsychotherapeutin oder zum Kinder- und Jugendlichenpsychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden, vorbehaltlich des Satzes 2, nach der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft. Abweichend von § 9 Absatz 1 Satz 2 Nummer 2 der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung besteht die Prüfungskommission für Prüfungen, die nach dem 31. Mai 2023 durchgeführt werden, aus zwei weiteren Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsychotherapeuten mit der dort genannten Qualifikation, von denen mindestens einer zusätzlich über die Supervisorenanerkennung nach § 4 Absatz 3 Satz 1 oder Absatz 4 der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung verfügen muss.
 
 # § 85 – Inkrafttreten, Außerkrafttreten
 
