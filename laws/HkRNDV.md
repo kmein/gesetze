@@ -1019,6 +1019,8 @@ Ein Zugriff auf das Postfach ist während der Sperrung des Kontos weiterhin mög
 
 (3) Mit der Schließung des Kontos wird der Zugang des Kontoinhabers und der zugeordneten Hauptnutzer und Nutzer geschlossen. Waren dem Konto registrierte Anlagen zugeordnet, erlöschen diese Zuordnungen. Die Bestimmungen zur Löschung und zum Verfall von Herkunftsnachweisen und Regionalnachweisen bleiben unberührt.
 
+(+++ § 50 Abs. 3 Satz 2 u. 3: Zur Anwendung vgl. § 51 Abs. 3 Satz 2 Halbsatz 2 +++)
+
 # § 51 – Ausschluss von der Teilnahme an den Registern, erneute Teilnahme nach Ausschluss
 
 (1) Die Registerverwaltung schließt den Registerteilnehmer von der Teilnahme am Herkunftsnachweisregister oder am Regionalnachweisregister aus, wenn dieser durch die Nutzung des Herkunftsnachweisregisters oder des Regionalnachweisregisters eine Straftat begangen hat. Auf Hauptnutzer und Nutzer ist Satz 1 entsprechend anzuwenden.

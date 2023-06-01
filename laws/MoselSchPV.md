@@ -6021,9 +6021,9 @@ Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m 
 
 |                                                                |
 |:--------------------------------------------------------------:|
-|        ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0010.JPG)        |
+|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0010.JPG)        |
 | Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug  |
-|        ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0020.JPG)        |
+|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0020.JPG)        |
 | Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband |
 
 # Anlage 12 – Verzeichnis der Fahrzeug- und Verbandsarten

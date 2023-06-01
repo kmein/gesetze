@@ -121,6 +121,10 @@ Erlaubnis besonderer Veranstaltungen
 
 Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze
 
+§ 1.25
+
+Anordnungen, Erlaubnisse und Genehmigungen
+
  
 
  
@@ -944,7 +948,7 @@ Duisburg-Ruhrort
 
 § 14.12
 
-Lobith
+(weggefallen)
 
 § 14.13
 
