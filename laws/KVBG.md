@@ -1303,8 +1303,7 @@ Die Südregion besteht aus folgenden kreisfreien Städten, Stadtkreisen, Kreisen
 
 # Anlage 2 – (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen
 
-(Fundstelle: BGBl. I 2022, 2480 - 2481)  
-bezüglich der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2022, 2480 - 2481)
 
 # Anlage 3 – (zu § 50)Vergütung Zeitlich gestreckte Stilllegung
 

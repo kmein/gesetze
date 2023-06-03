@@ -2710,6 +2710,7 @@
 - [HHG§3V](laws/HHG§3V.md) Verordnung über die Gleichstellung von Personen nach § 3 des Häftlingshilfegesetzes
 - [HiKassGAufhG](laws/HiKassGAufhG.md) Gesetz betreffend die Aufhebung des Hilfskassengesetzes
 - [HilfetelefonG](laws/HilfetelefonG.md) Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“
+- [HinSchG](laws/HinSchG.md) Gesetz für einen besseren Schutz hinweisgebender Personen
 - [HIVHG](laws/HIVHG.md) Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.md) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.md) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet

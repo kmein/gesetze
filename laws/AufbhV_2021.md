@@ -22,7 +22,7 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes 2021 vom 10
 | Bayern              |  1,00 Prozent, |
 | Sachsen             |  0,48 Prozent. |
 
-Der Schlüssel nach Satz 1 ist im gegenseitigen Einvernehmen zwischen den betroffenen Ländern und dem Bund auf die prozentuale Verteilung der nach § 2 ermittelten Gesamtschäden anzupassen. Dazu wird spätestens sechs Monate nach dem letztmaligen Bewilligungszeitpunkt von Anträgen der Geschädigten auf Hilfsmaßnahmen, aber nicht später als am 30. Juni 2026, in einer Bund-Länder-Vereinbarung ein angepasster Verteilungsschlüssel festgelegt.
+Der Schlüssel nach Satz 1 ist im gegenseitigen Einvernehmen zwischen den betroffenen Ländern und dem Bund auf die prozentuale Verteilung der nach § 2 ermittelten Gesamtschäden anzupassen. Dazu wird spätestens am 30. Juni 2031 in einer Bund-Länder-Vereinbarung ein angepasster Verteilungsschlüssel festgelegt.
 
 (5) Die Verteilung der auf den Bund und die Länder entfallenden Mittel des Fonds auf die einzelnen Maßnahmen nach § 2 Absatz 2 des Aufbauhilfefonds-Errichtungsgesetzes 2021 erfolgt für die Mittel, welche 2021 zugeführt werden, nach Maßgabe des gemäß § 6 des Aufbauhilfefonds-Errichtungsgesetzes 2021 aufzustellenden Wirtschaftsplans. Der Wirtschaftsplan wird für das Jahr 2021 als Anlage zu dieser Rechtsverordnung festgestellt. Ab dem Haushaltsjahr 2022 wird er zusammen mit dem Haushaltsgesetz festgestellt und als Anlage zum Bundeshaushaltsplan veröffentlicht.
 

@@ -753,6 +753,8 @@ Der gleichzeitige Betrieb verschiedener Gewerbe sowie desselben Gewerbes in mehr
 
 (3) Eine Niederlassung besteht, wenn eine selbständige gewerbsmäßige Tätigkeit auf unbestimmte Zeit und mittels einer festen Einrichtung von dieser aus tatsächlich ausgeübt wird.
 
+(+++ § 4 Abs. 2: Zur Anwendung vgl. § 34d Abs. 12 Satz 3 +++)
+
 # § 5 – Zulassungsbeschränkungen
 
 In den Beschränkungen des Betriebs einzelner Gewerbe, welche auf den Zoll-, Steuer- und Postgesetzen beruhen, wird durch das gegenwärtige Gesetz nichts geändert.
@@ -873,7 +875,7 @@ und keine Anhaltspunkte dafür bestehen, daß überwiegende schutzwürdige Inter
 
 (8) In Bezug auf Versicherungsvermittler, Versicherungsberater, Finanzanlagenvermittler, Honorar-Finanzanlagenberater und Immobiliardarlehensvermittler unterliegen alle Personen, die im Rahmen des Registrierungsverfahrens oder im Rahmen der Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit zur Entgegennahme oder Erteilung von Informationen verpflichtet sind, dem Berufsgeheimnis. § 309 des Versicherungsaufsichtsgesetzes gilt entsprechend.
 
-(+++ § 11a: Zur Anwendung vgl. § 160 Abs. 6 +++)
+(+++ § 11a Abs. 4: Zur Nichtanwendung vgl. § 160 Abs. 6 iVm Abs. 1 +++)
 
 # § 11b – Bewacherregister; Verordnungsermächtigung
 
@@ -1061,7 +1063,7 @@ Der Gewerbetreibende hat Wachpersonen und mit der Leitung eines Betriebes oder e
 
 6. zum Datenschutz und der Datensicherheit nebst Protokollierungspflicht der Registerbehörde.
 
-(+++ § 11b: Zur Anwendung vgl. § 158 +++)
+(+++ § 11b Abs. 1: Zur Anwendung bis 10.10.2022 vgl. § 158 Abs. 1 +++)
 
 # § 11c – Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen
 
@@ -1319,8 +1321,8 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 
 5. bestimmt, welche Daten als Erhebungs- und Hilfsmerkmale für die Statistik nach Absatz 13 Satz 1 an die statistischen Ämter der Länder zu übermitteln sind.
 
-(+++ § 14: Zur Nichtanwendung vgl. § 4 +++)  
-(+++ § 14: Zur Anwendung vgl. § 158 i.d. bis zum 22.6.2022 geltenden F. +++)
+(+++ § 14: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)  
+(+++ § 14: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)
 
 # § 15 – Empfangsbescheinigung, Betrieb ohne Zulassung
 
@@ -1772,7 +1774,7 @@ e) Ausnahmen für die Tätigkeit des Erlaubnisinhabers von den Vorschriften des 
 
 3. Versteigerungen, zu denen als Bieter nur Personen zugelassen werden, die Waren der angebotenen Art für ihren Geschäftsbetrieb ersteigern wollen.
 
-(+++ § 34b Abs. 1, 3, 4, 6 u. 7: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 34b Abs. 1, 3, 4, 6 u. 7: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 1 +++)
 
 # § 34c – Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung
 
@@ -1850,7 +1852,7 @@ In der Rechtsverordnung nach Satz 1 kann ferner die Befugnis des Gewerbetreibend
 
 4. Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des § 481 des Bürgerlichen Gesetzesbuchs gemäß Absatz 1 Satz 1 Nr. 1 nachgewiesen oder vermittelt wird.
 
-(+++ § 34c Abs. 1 Satz 1 Nr. 1 u. 3: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 34c Abs. 1 Satz 1 Nr. 1, 3 und 4: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 1 +++)
 
 # § 34d – Versicherungsvermittler, Versicherungsberater
 
@@ -2282,7 +2284,7 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 (4) Absatz 1 Satz 1 Nr. 2 gilt nicht für Kreditinstitute und Finanzdienstleistungsinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes erteilt wurde, für Wertpapierinstitute, für die eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde, sowie für Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union, die nach § 53b Abs. 1 Satz 1 oder Abs. 7 des Kreditwesengesetzes im Inland tätig sind, wenn die Erbringung von Handelsauskünften durch die Zulassung der zuständigen Behörden des Herkunftsmitgliedstaats abgedeckt ist.
 
-(+++ § 38 Abs. 1 u. 2: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 38 Abs. 1 u. 2: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 1 +++)
 
 # § 39
 
@@ -2359,7 +2361,7 @@ Wegen überwiegender Nachteile und Gefahren für das Gemeinwohl kann die fernere
 
 (3) Die Reisegewerbekarte kann inhaltlich beschränkt, mit einer Befristung erteilt und mit Auflagen verbunden werden, soweit dies zum Schutze der Allgemeinheit oder der Verbraucher erforderlich ist; unter denselben Voraussetzungen ist auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 
-(+++ § 55 Abs 2 u. 3: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 55 Abs. 2 u. 3: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)
 
 # § 55a – Reisegewerbekartenfreie Tätigkeiten
 
@@ -2399,8 +2401,8 @@ Wegen überwiegender Nachteile und Gefahren für das Gemeinwohl kann die fernere
 
 Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der zuständigen Behörde anzuzeigen, soweit er sein Gewerbe nicht bereits nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 und 3, Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14 Absatz 14 gelten entsprechend.
 
-(+++ § 55c: Zur Nichtanwendung vgl. § 4 +++)  
-(+++ § 55c: Zur Anwendung vgl. § 158 i.d. bis zum 22.6.2022 geltenden F. +++)
+(+++ § 55c: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)  
+(+++ § 55c: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)
 
 # § 55d
 
@@ -2532,7 +2534,7 @@ Satz 1 gilt nicht, wenn sich das Wanderlager ausschließlich an Personen richtet
 
 2. die öffentliche Ankündigung nicht Absatz 4 entspricht.
 
-(+++ § 56a: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 56a Abs. 2, 3, 5 u. 7 Nr. 1: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)
 
 # § 57 – Versagung der Reisegewerbekarte
 
@@ -2542,7 +2544,7 @@ Satz 1 gilt nicht, wenn sich das Wanderlager ausschließlich an Personen richtet
 
 (3) Die Ausübung des Versteigerergewerbes als Reisegewerbe ist nur zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1 erforderliche Erlaubnis besitzt.
 
-(+++ § 57 Abs. 3: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 57 Abs. 3: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)
 
 # §§ 57a und 58 – (weggefallen)
 
