@@ -11,9 +11,9 @@ Diese Verordnung regelt anlässlich des Krieges in der Ukraine infolge des Über
 
 # § 2 – Befreiung vom Erfordernis eines Aufenthaltstitels
 
-(1) Ausländer, die sich am 24. Februar 2022 in der Ukraine aufgehalten haben und die bis zum 31. Mai 2023 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
+(1) Ausländer, die sich am 24. Februar 2022 in der Ukraine aufgehalten haben und die bis zum 4. März 2024 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
 
-(2) Ukrainische Staatsangehörige, die am 24. Februar 2022 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Ukraine hatten, aber die sich zu diesem Zeitpunkt vorübergehend nicht in der Ukraine aufgehalten haben, und die bis zum 31. Mai 2023 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit. Dies gilt auch für in der Ukraine anerkannte Flüchtlinge im Sinne des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und Personen, die in der Ukraine internationalen oder gleichwertigen nationalen Schutz genießen.
+(2) Ukrainische Staatsangehörige, die am 24. Februar 2022 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Ukraine hatten, aber die sich zu diesem Zeitpunkt vorübergehend nicht in der Ukraine aufgehalten haben, und die bis zum 4. März 2024 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit. Dies gilt auch für in der Ukraine anerkannte Flüchtlinge im Sinne des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und Personen, die in der Ukraine internationalen oder gleichwertigen nationalen Schutz genießen.
 
 (3) Die Befreiung nach den Absätzen 1 und 2 gilt nur, solange keine ablehnende Entscheidung zur Erteilung eines Aufenthaltstitels getroffen wurde.
 
@@ -27,4 +27,4 @@ Ein erforderlicher Aufenthaltstitel kann von den in § 2 Absatz 1 und 2 genannte
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 29. August 2023 außer Kraft.
+(2) Sie tritt mit Ablauf des 2. Juni 2024 außer Kraft.

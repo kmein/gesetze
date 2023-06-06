@@ -1458,7 +1458,7 @@ d) eine Kündigungsfrist von mindestens drei Monaten aufweisen;
 (35) Im Übrigen gelten für die Zwecke dieses Gesetzes die Definitionen aus Artikel 4 Absatz 1 Nummer 5, 6, 8, 13 bis 18, 20 bis 22, 26, 29 bis 33, 35, 37, 38, 43, 44, 48, 49, 51, 54, 57, 61 bis 63, 66, 67, 73, 74, 82, 86 und 94 der Verordnung (EU) Nr. 575/2013.
 
 (+++ § 1 Abs. 1a in der am 21.7.2013 geltenden Fassung: Zur Weiteranwendung vgl. § 64q Abs. 1 +++)  
-(+++ § 1: Zur Anwendung vgl. § 2 Nr. 1 KfWV +++)
+(+++ § 1: Zur Anwendung vgl. § 2 Nr. 2 KfWV +++)
 
 # § 1a – Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute
 
@@ -1693,7 +1693,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 (6) Die Aufsichtsbehörde kann das Institut oder das übergeordnete Unternehmen auch nach einer nach den Absätzen 1 bis 4 gewährten oder nach einer nach Absatz 5 fortgeltenden Freistellung auffordern, die erforderlichen Nachweise für die Einhaltung der Voraussetzungen vorzulegen. Sie kann sie auch dazu auffordern, Vorkehrungen zu treffen, die geeignet und erforderlich sind, bestehende Mängel zu beseitigen und hierfür eine angemessene Frist bestimmen. Werden die Nachweise nicht oder nicht fristgerecht vorgelegt oder werden die Mängel nicht oder nicht fristgerecht behoben, kann die Aufsichtsbehörde die Freistellung aufheben oder anordnen, dass das Institut die Vorschriften, auf die sich die Freistellung bezog, wieder anzuwenden hat.
 
 (+++ § 2a: Zur Nichtanwendung vgl. § 25f Abs. 2 +++)  
-(+++ § 2a: Zur Anwendung vgl. § 2 Nr. 2 KfWV +++)
+(+++ § 2a: Zur Anwendung vgl. § 2 Nr. 3 KfWV +++)
 
 # § 2b – Rechtsform
 
@@ -1790,7 +1790,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 2. sie vorsätzlich oder leichtfertig gegen die Bestimmung dieses Gesetzes, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen haben und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzen.
 
-(+++ § 2d: Zur Anwendung vgl. § 2 Nr. 3 KfWV +++)  
+(+++ § 2d: Zur Anwendung vgl. § 2 Nr. 4 KfWV +++)  
 § 2d Abs. 2 Eingangssatz Kursivdruck: IdF d. Art. 1 Nr. 9 Buchst. b G v. 28.8.2013 I 3395 mWv 1.1.2014 (abweichend vom Bundesgesetzblatt wurden an Stelle der Wörter „§ 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3 Satz 6 oder 7“ die Wörter „§ 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3a Satz 6 oder 7“ ersetzt durch „§ 10a Absatz 2 Satz 2 oder Satz 3“)
 
 # § 2e – Ausnahmen für gemischte Finanzholding-Gesellschaften
@@ -2012,7 +2012,7 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 
 (+++ § 6 Abs. 1c: Zur Geltung vgl. § 53o Abs. 3 +++)  
 (+++ § 6 Abs. 2: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 1 +++)  
-(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 4 KfWV +++)
+(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
 
 # § 6a – Besondere Aufgaben
 
@@ -2035,7 +2035,7 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 (6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und Zahlungsverkehrs nach § 4 Absatz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
 (+++ § 6a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1 +++)  
-(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 4 KfWV +++)
+(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
 
 # § 6b – Aufsichtliche Überprüfung und Beurteilung
 
@@ -2095,7 +2095,7 @@ Die Bundesanstalt arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe de
 
 (+++ § 6b: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 u. § 51c Abs. 4 +++)  
 (+++ § 6b Abs. 1 Nr. 1, Abs. 2 u. 3: Zur Nichtanwendung vgl. § 2 Abs. 9e +++)  
-(+++ § 6b: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
+(+++ § 6b bis 6d: Zur Anwendung vgl. § 2 Nr. 6 KfWV +++)
 
 # § 6c – Zusätzliche Eigenmittelanforderungen
 
@@ -2161,7 +2161,8 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 5. der Eigenmittelempfehlung nach § 6d, sofern sich diese Empfehlung auf andere Risiken als das Risiko einer übermäßigen Verschuldung bezieht.
 
-(+++ § 6c: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)
+(+++ § 6c: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)  
+(+++ § 6b bis 6d: Zur Anwendung vgl. § 2 Nr. 6 KfWV +++)
 
 # § 6d – Eigenmittelempfehlung
 
@@ -2173,7 +2174,8 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (4) Solange ein Institut die in den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Anforderungen, die zusätzliche Eigenmittelanforderung nach § 6c, die kombinierte Kapitalpufferanforderung nach § 10i und die Anforderung an den Puffer der Verschuldungsquote nach Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 erfüllt, löst die Abdeckung der Eigenmittelempfehlung nicht in voller Höhe keine der Beschränkungen nach § 10i Absatz 1a bis 3 und § 10j Absatz 2 und 3 aus.
 
-(+++ § 6d: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)
+(+++ § 6d: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)  
+(+++ § 6b bis 6d: Zur Anwendung vgl. § 2 Nr. 6 KfWV +++)
 
 # § 7 – Zusammenarbeit mit der Deutschen Bundesbank
 
@@ -2189,7 +2191,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (5) Die Bundesanstalt und die Deutsche Bundesbank können gemeinsame Dateisysteme einrichten. Jede der beiden Stellen darf nur die von ihr eingegebenen Daten verändern oder löschen oder ihre Verarbeitung einschränken und ist nur hinsichtlich der von ihr eingegebenen Daten Verantwortlicher. Hat eine der beiden Stellen Anhaltspunkte dafür, dass von der anderen Stelle eingegebene Daten unrichtig sind, teilt sie dies der anderen Stelle unverzüglich mit. Bei der Errichtung eines gemeinsamen Dateisystems ist festzulegen, welche Stelle die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu treffen hat. Die nach Satz 4 bestimmte Stelle hat sicherzustellen, dass die Beschäftigten Zugang zu personenbezogenen Daten nur in dem Umfang erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 4 KfWV +++)
+(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
 
 # § 7a – Zusammenarbeit mit der Europäischen Kommission
 
@@ -2409,7 +2411,7 @@ Die Bundesanstalt kann bei Gefahr im Verzug von einer vorherigen Anhörung der z
 
 (11) Ergibt sich für die Bundesanstalt auf Grund der Überprüfung, insbesondere der Evaluierung der Unternehmensführungsregelung, des Geschäftsmodells oder der Tätigkeiten eines CRR-Kreditinstituts, der begründete Verdacht, dass im Zusammenhang mit diesem CRR-Kreditinstitut Geldwäsche oder Terrorismusfinanzierung stattfindet, stattgefunden hat oder diese Straftaten versucht wurden oder dass ein erhöhtes Risiko hierfür besteht, so meldet die Bundesanstalt diesen Verdacht unverzüglich der Behörde oder Stelle, die das Institut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und die Einhaltung dieser Richtlinie sicherzustellen hat. Besteht der Verdacht auf ein erhöhtes Risiko für Geldwäsche oder Terrorismusfinanzierung und ist die Bundesanstalt die zuständige Behörde, so nimmt die Bundesanstalt zusammen mit der Behörde oder Stelle, die das CRR-Kreditinstitut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und dafür zuständig ist, die Einhaltung dieser Richtlinie sicherzustellen, Kontakt mit der Europäischen Bankenaufsichtsbehörde auf, um ihre gemeinsame Bewertung unverzüglich zu übermitteln. Ist die Bundesanstalt die zuständige Behörde, so ergreift sie Maßnahmen, soweit dies erforderlich ist.
 
-(+++ § 8 Abs. 2: Zur Anwendung vgl. § 2 Nr. 6 KfWV +++)
+(+++ § 8 Abs. 2: Zur Anwendung vgl. § 2 Nr. 7 KfWV +++)
 
 # § 8a – Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
 
@@ -2591,7 +2593,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 25. natürliche oder juristische Personen, die als Sonderbeauftragte nach § 45c, als Abwickler nach § 37 Absatz 1 Satz 2 oder § 38 Absatz 2 Satz 2 oder 3 oder als Treuhänder nach § 2c Absatz 2 Satz 2 oder in einem vergleichbaren Verhältnis tätig werden; das Gleiche gilt für die Informationsweitergabe an diesen Personenkreis, die im Rahmen der Anbahnung einer Beauftragung oder Bestellung notwendig ist,
 
-soweit diese Stellen oder Personen die Informationen zur Erfüllung ihrer Aufgaben oder zur Prüfung, ob sie eine der in Nummer 25 genannten Aufgaben ausüben können, benötigen. Für die bei den in Satz 5 Nummer 1 bis 11, 13 bis 19, 21, 23 und 25 genannten Stellen oder Personen beschäftigten Personen und die von diesen Stellen oder Personen beauftragten Personen sowie für die Mitglieder der in Satz 4 Nummer 12 und 19 genannten Ausschüsse gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 5 Nummer 1 bis 11, 16 bis 18, 21 und 22 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 weitgehend entsprechenden Verschwiegenheitspflicht unterliegen. Die ausländische Stelle ist darauf hinzuweisen, daß sie Informationen nur zu dem Zweck verarbeiten darf, zu deren Erfüllung sie ihr übermittelt werden. Eine Weitergabe an die in Satz 5 Nummer 16 und 17 genannten Stellen darf nur erfolgen, wenn
+soweit diese Stellen oder Personen die Informationen zur Erfüllung ihrer Aufgaben oder zur Prüfung, ob sie eine der in Nummer 25 genannten Aufgaben ausüben können, benötigen. Für die bei den in Satz 5 Nummer 1 bis 11, 13 bis 19, 21, 23 und 25 genannten Stellen oder Personen beschäftigten Personen und die von diesen Stellen oder Personen beauftragten Personen sowie für die Mitglieder der in Satz 5 Nummer 12 und 19 genannten Ausschüsse gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 5 Nummer 1 bis 11, 16 bis 18, 21 und 22 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 weitgehend entsprechenden Verschwiegenheitspflicht unterliegen. Die ausländische Stelle ist darauf hinzuweisen, daß sie Informationen nur zu dem Zweck verarbeiten darf, zu deren Erfüllung sie ihr übermittelt werden. Eine Weitergabe an die in Satz 5 Nummer 16 und 17 genannten Stellen darf nur erfolgen, wenn
 
 1. die Anfrage unter Berücksichtigung der übertragenen spezifischen Aufgaben hinreichend begründet und hinreichend genau in Bezug auf Art, Umfang und Format der angeforderten Informationen und in Bezug auf die Mittel für deren Übermittlung ist,
 
@@ -2782,7 +2784,8 @@ Zur Erfüllung der Kapitalpufferanforderungen nach den §§ 10c bis 10g dürfen 
 
 Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, denen mindestens ein Institut angehört, das die Anforderung nach Satz 1 auf Einzelinstitutsebene erfüllen muss, sowie für Institute im Sinne des Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
-(+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)
+(+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10c – Kapitalerhaltungspuffer
 
@@ -2793,7 +2796,7 @@ Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemisc
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10d – Antizyklischer Kapitalpuffer
 
@@ -2827,7 +2830,7 @@ Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemisc
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
 (+++ § 10d: Zur Nichtanwendung vgl. § 2 Abs. 9c +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10e – Kapitalpuffer für systemische Risiken
 
@@ -2896,7 +2899,7 @@ Die Veröffentlichung der Angabe nach Nummer 4 hat zu unterbleiben, wenn zu bef�
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10f – Kapitalpuffer für global systemrelevante Institute
 
@@ -2943,7 +2946,7 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10g – Kapitalpuffer für anderweitig systemrelevante Institute
 
@@ -2986,7 +2989,7 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10h – Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute
 
@@ -3001,7 +3004,7 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10i – Kombinierte Kapitalpufferanforderung
 
@@ -3100,7 +3103,7 @@ Daneben kann sie von dem Institut verlangen, seine Eigenmittel innerhalb eines b
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 10i: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 8, Abs. 8b, Abs. 9a Satz 1, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 10c bis 10i: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 10j – Anforderung an den Puffer der Verschuldungsquote
 
@@ -3169,7 +3172,8 @@ Daneben kann die Aufsichtsbehörde von dem global systemrelevanten Institut verl
 2. sofern die Aussetzung einer Zahlung oder eine versäumte Zahlung weder einen Ausfall noch eine Voraussetzung für die Einleitung eines Verfahrens nach den für das global systemrelevante Institut geltenden Insolvenzvorschriften darstellt.
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
-(+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)
+(+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
+(+++ §§ 10b bis 10j: Zur Anwendung vgl. § 3 Nr. 4 KfWV +++)
 
 # § 11 – Liquidität
 
@@ -3207,7 +3211,8 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)
+(+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
+(+++ § 12: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
 
 # § 12a – Begründung von Unternehmensbeziehungen
 
@@ -3252,7 +3257,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ §§ 13 bis 13b: Zur Anwendung ab 1.1.1999 vgl. § 64e Abs. 3 Satz 4 +++)  
 (+++ § 13: Zur Nichtanwendung vgl. § 2 Abs. 8, Abs. 8b +++)  
 (+++ § 13 Abs. 2 Satz 2 bis 5: Zur Geltung vgl. § 13c Abs. 2 Halbsatz 2 +++)  
-(+++ §§ 13 bis 13c: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 13 bis 13c: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # §§ 13a u. 13b – (weggefallen)
 
@@ -3283,7 +3288,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ §§ 11 bis 13c: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
 (+++ §§ 12a bis 18: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
-(+++ §§ 13 bis 13c: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 13 bis 13c: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 13d – (weggefallen)
 
@@ -3360,7 +3365,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ §§ 14 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 8 +++)  
 (+++ §§ 15 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ § 15 Abs. 1 Satz 1 Nr. 6 bis 11: Zur Nichtgeltung vgl. § 21 Abs. 3 +++)  
-(+++ § 15: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ § 15: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 16
 
@@ -3380,7 +3385,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ §§ 12a bis 18: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
 (+++ §§ 14 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 8 +++)  
 (+++ §§ 15 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 18 – Kreditunterlagen
 
@@ -3407,7 +3412,7 @@ Eine Offenlegung ist nicht erforderlich bei Krediten an
 (+++ §§ 14 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 8 +++)  
 (+++ §§ 15 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ § 18: Zur Nichtgeltung vgl. § 21 Abs. 3 +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 18a – Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
 
@@ -3458,7 +3463,7 @@ Das Kreditinstitut ist verpflichtet, Bewertungen für Immobilien, die als Sicher
 (+++ § 18a: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 3 +++)  
 (+++ § 18a: Zur Geltung vgl. § 53b Abs. 3 Satz 2 +++)  
 (+++ § 18a Abs. 3: Zur Geltung ab 3.2.2021 vgl. § 6 Abs. 2 Satz 2, § 10 Abs. 3 Satz 5 u. § 11 Abs. 1 Satz 3 WoImmoDarlRV +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 19 – Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
 
@@ -3545,7 +3550,7 @@ Die Zusammenfassungstatbestände nach den Nummern 1 bis 3 sind kumulativ anzuwen
 (6) (weggefallen)
 
 (+++ § 19 Abs. 3: Zur Geltung vgl. § 15 Abs. 6 +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 20 – Ausnahmen von den Verpflichtungen nach § 14
 
@@ -3565,7 +3570,7 @@ Als Kredite im Sinne des § 14 gelten nicht:
 
 7. Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren, die mit dem Vermerk „Eingang vorbehalten“ versehen werden.
 
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # §§ 20a bis 20c – (weggefallen)
 
@@ -3626,7 +3631,7 @@ a) Bareinlagen bei dem kreditgewährenden Institut oder bei einem Drittinstitut,
 b) Einlagenzertifikaten oder ähnlichen Papieren, die von dem kreditgewährenden Institut oder einem Drittinstitut, das Mutter- oder Tochterunternehmen des kreditgewährenden Instituts ist, ausgegeben wurden und bei diesen hinterlegt sind und die näheren Bestimmungen der Artikel 192 bis 241 der Verordnung (EU) Nr. 575/2013 zur Kreditrisikominderung erfüllt werden.
 
 (+++ § 21 Abs. 2 Nr. 1: Zur Geltung vgl. § 15 Abs. 6 +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 22 – Verordnungsermächtigung für Millionenkredite
 
@@ -3649,7 +3654,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 (+++ §§ 22 u. 23: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 3 +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
 
 # § 22a – Registerführendes Unternehmen
 
@@ -3869,7 +3874,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (+++ §§ 22 u. 23: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 3 +++)  
 (+++ § 23: Zur Anwendung vgl. § 33 KAGB +++)  
-(+++ § 23: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
+(+++ § 23: Zur Anwendung vgl. § 3 Nr. 7 KfWV +++)
 
 # § 23a – Sicherungseinrichtung
 
@@ -4015,7 +4020,7 @@ Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bund
 (+++ § 24 Abs. 1 Nr. 14 bis 14b, 16 u. 17, Abs. 1a Nr. 5: Zur Nichtanwendung vgl. § 2 Abs. 8 +++)  
 (+++ § 24 Abs. 1 Nr. 16: Zur Nichtanwendung vgl. § 2 Abs. 9c +++)  
 (+++ § 24 Abs. 1 Nr. 16, 17 u. Abs. 1a Nr. 5: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)  
-(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 7 KfWV +++)
+(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)
 
 # § 24a – Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
 
@@ -4064,7 +4069,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 (6) (weggefallen)
 
 (+++ § 24a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 7, Abs. 7b, Abs. 9a Satz 1, Abs. 9e, Abs. 9g, Abs. 9h +++)  
-(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 7 KfWV +++)
+(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)
 
 # § 24b – Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen
 
@@ -4080,7 +4085,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (+++ § 24b: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 6 +++)  
 (+++ § 24b Abs. 5: Zur Anwendung vgl. § 46b Abs. 2 +++)  
-(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 7 KfWV +++)
+(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)
 
 # § 24c – Automatisierter Abruf von Kontoinformationen
 
@@ -4175,7 +4180,7 @@ Die Angaben können sich auch auf nachgeordnete Unternehmen im Sinne des § 10a 
 (+++ § 25: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 6 +++)  
 (+++ § 25: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 7a, Abs. 9g, Abs. 9h u. § 51c Abs. 4 +++)  
 (+++ § 25 Abs. 1 Satz 2: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1, Abs. 9e +++)  
-(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 7 KfWV +++)
+(+++ §§ 24 bis 24b u. 25: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)
 
 # § 25a – Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung
 
@@ -4270,7 +4275,7 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des In
 (+++ § 25a Abs. 5: Zur Nichtgeltung vgl. § 2 Abs. 8a +++)  
 (+++ § 25a Abs. 5 u. 5b: Zur Nichtanwendung vgl. § 2 Abs. 7a +++)  
 (+++ § 25a Abs. 5a in der am 29.3.2019 geltenden Fassung: Zur Anwendung vgl. § 64m Abs. 1 +++)  
-(+++ §§ 25a u. 25b: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)  
+(+++ §§ 25a u. 25b: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)  
 (+++ §§ 25a u. 25b: Zur Nichtanwendung vgl. § 8 Satz 1 KfWV +++)
 
 # § 25b – Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
@@ -4306,7 +4311,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ §§ 25a bis 25e: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 9a Satz 1, Abs. 9e +++)  
 (+++ § 25b: Zur Geltung vgl. § 2 Abs. 12 Satz 1 u. 2 +++)  
 (+++ § 25b Abs. 3 Satz 1 u. 2, Abs. 4: Zur Geltung vgl. § 53k +++)  
-(+++ §§ 25a u. 25b: Zur Anwendung vgl. § 3 Nr. 8 KfWV +++)  
+(+++ §§ 25a u. 25b: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)  
 (+++ §§ 25a u. 25b: Zur Nichtanwendung vgl. § 8 Satz 1 KfWV +++)
 
 # § 25c – Geschäftsleiter
@@ -4433,7 +4438,7 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 (+++ § 25c Abs. 2: Zur Nichtanwendung in der ab 1.1.2014 geltenden Fassung vgl. § 64r Abs. 13 Satz 1 +++)  
 (+++ § 25c Abs. 2: Zur Geltung ab 1.7.2014 vgl. § 64r Abs. 13 Satz 2 +++)  
 (+++ § 25c Abs. 4a Nr. 3 Buchst. d, e u. g: Zur Geltung vgl. § 51c Abs. 3 +++)  
-(+++ §§ 25c bis 25e: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)
+(+++ §§ 25c bis 25f: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
 
 # § 25d – Verwaltungs- oder Aufsichtsorgan
 
@@ -4524,14 +4529,14 @@ Mindestens ein Mitglied des Vergütungskontrollausschusses muss über ausreichen
 (+++ § 25d Abs. 3: Zur Geltung ab 1.7.2014 vgl. § 64r Abs. 14 Satz 2 +++)  
 (+++ § 25d Abs. 7 bis 12: Zur Nichtanwendung vgl. § 51c Abs. 4 +++)  
 (+++ § 25d Abs. 7 Satz 2: Zur Nichtanwendung vgl. § 2 Abs. 7a +++)  
-(+++ §§ 25c bis 25e: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)
+(+++ §§ 25c bis 25f: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
 
 # § 25e – Anforderungen bei vertraglich gebundenen Vermittlern
 
 Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen, dass dieser zuverlässig und fachlich geeignet ist, bei der Erbringung der Finanzdienstleistungen die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 2 Absatz 10 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 muss das CRR-Kreditinstitut mindestens bis zum Ablauf von fünf Jahren nach dem Ende des Status des vertraglich gebundenen Vermittlers aufbewahren. Nähere Bestimmungen zu den erforderlichen Nachweisen können durch Rechtsverordnung nach § 24 Absatz 4 getroffen werden.
 
 (+++ §§ 25a bis 25e: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 9a Satz 1, Abs. 9e +++)  
-(+++ §§ 25c bis 25e: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)
+(+++ §§ 25c bis 25f: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
 
 # § 25f – Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung
 
@@ -4549,7 +4554,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (7) Die Bundesanstalt kann gegenüber dem CRR-Kreditinstitut, dem übergeordneten Unternehmen einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe, der ein CRR-Kreditinstitut angehört, sowie gegenüber dem Finanzhandelsinstitut Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation auch im Sinne der Absätze 1 bis 6 sicherzustellen.
 
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25c bis 25f: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
 
 # § 25g – Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
 
@@ -4567,7 +4572,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (3) Die Bundesanstalt kann gegenüber einem Kreditinstitut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Absatz 1 Nummer 1 bis 4 zu verhindern oder zu unterbinden.
 
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25h – Interne Sicherungsmaßnahmen
 
@@ -4587,7 +4592,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (+++ § 25h Abs. 1 bis 3: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 7 +++)  
 (+++ § 25h Abs. 4 u. 5: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 7 +++)  
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25i – Allgemeine Sorgfaltspflichten in Bezug auf E-Geld
 
@@ -4629,14 +4634,14 @@ so kann die Bundesanstalt dem Kreditinstitut, das das E-Geld ausgibt, Anordnunge
 
 (+++ §§ 25i bis 25k: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 25i: Zur Geltung vgl. § 27 Abs. 2 Satz 1 ZAG 2018 +++)  
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25j – Zeitpunkt der Identitätsüberprüfung
 
 Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die Überprüfung der Identität des Vertragspartners, einer für diesen auftretenden Person und des wirtschaftlich Berechtigten auch unverzüglich nach der Eröffnung eines Kontos oder Depots abgeschlossen werden. In diesem Fall muss sichergestellt sein, dass vor Abschluss der Überprüfung der Identität keine Gelder von dem Konto oder dem Depot abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden.
 
 (+++ §§ 25i bis 25k: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25k – Verstärkte Sorgfaltspflichten
 
@@ -4645,13 +4650,13 @@ Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die Überprüfung der
 (2) Institute, die Factoring nach § 1 Absatz 1a Satz 2 Nummer 9 betreiben, haben angemessene Maßnahmen zu ergreifen, um einem erkennbar erhöhten Geldwäscherisiko bei der Annahme von Zahlungen von Debitoren zu begegnen, die bei Abschluss des Rahmenvertrags unbekannt waren.
 
 (+++ §§ 25i bis 25k: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25l – Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften
 
 Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften mit Sitz im Inland, die über eine Zulassung nach § 2f Absatz 1 verfügen, sind Verpflichtete nach § 2 Absatz 1 Nummer 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 50 Nummer 1 des Geldwäschegesetzes.
 
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 25m – Verbotene Geschäfte
 
@@ -4663,7 +4668,7 @@ Verboten sind:
 
 (+++ § 25m: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 25m: Zur Geltung vgl. § 27 Abs. 2 Satz 1 ZAG 2018 +++)  
-(+++ §§ 25f bis 25m: Zur Anwendung vgl. § 3 Nr. 10 KfWV +++)
+(+++ §§ 25g bis 25m: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
 
 # § 26 – Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten
 
@@ -4677,7 +4682,7 @@ Verboten sind:
 
 (+++ § 26 Abs. 1 Satz 3: Zur Geltung vgl. § 29 Abs. 2 Satz 6 +++)  
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
-(+++ § 26: Zur Anwendung vgl. § 3 Nr. 11 KfWV +++)
+(+++ § 26: Zur Anwendung vgl. § 3 Nr. 12 KfWV +++)
 
 # § 26a – Offenlegung durch die Institute
 
@@ -4727,7 +4732,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ § 28: Zur Anwendung vgl. § 38 Abs. 2 KAGB +++)  
-(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 12 KfWV +++)
+(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 13 KfWV +++)
 
 # § 29 – Besondere Pflichten des Prüfers
 
@@ -4783,14 +4788,14 @@ zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderl
 (+++ § 29 Abs. 1 Satz 2 in der ab 16.2.2013 geltenden Fassung: Zur Anwendung vgl. § 64o Abs. 2 +++)  
 (+++ § 29 Abs. 1a in der ab 16.2.2013 geltenden Fassung: Zur Anwendung vgl. § 64o Abs. 3 +++)  
 (+++ § 29 Abs. 1b: Zur Nichtanwendung vgl. § 64v Abs. 1 Satz 2 u. Abs. 2 Satz 2 +++)  
-(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 12 KfWV +++)
+(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 13 KfWV +++)
 
 # § 30 – Bestimmung von Prüfungsinhalten
 
 Unbeschadet der besonderen Pflichten des Prüfers nach § 29 kann die Bundesanstalt auch gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die Prüfungen festlegen.
 
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
-(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 12 KfWV +++)
+(+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 13 KfWV +++)
 
 # § 31 – Befreiungen; Verordnungsermächtigung
 
@@ -4815,7 +4820,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 (6) (weggefallen)
 
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
-(+++ § 31 Abs. 3: Zur Anwendung vgl. § 3 Nr. 12 KfWV +++)
+(+++ § 31 Abs. 3: Zur Anwendung vgl. § 3 Nr. 13 KfWV +++)
 
 # § 32 – Erlaubnis
 
@@ -5454,7 +5459,7 @@ Ist anzunehmen, dass das Institut einen Teil der variablen Vergütungsbestandtei
 (+++ §§ 45 bis 45b: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1, Abs. 9e +++)  
 (+++ § 45: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 7, Abs. 7a, Abs. 7b, Abs. 8, Abs. 9g, Abs. 9h +++)  
 (+++ § 45 Abs. 5 Satz 1: Zur Anwendung vgl. § 41 Satz 4 KAGB +++)  
-(+++ §§ 45 bis 46: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
 
 # § 45a – Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
@@ -5472,7 +5477,7 @@ Ist anzunehmen, dass das Institut einen Teil der variablen Vergütungsbestandtei
 
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
 (+++ §§ 45 bis 45b: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1, Abs. 9e +++)  
-(+++ §§ 45 bis 46: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
 
 # § 45b – Maßnahmen bei organisatorischen Mängeln
 
@@ -5492,7 +5497,7 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
 (+++ §§ 45 bis 45b: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1, Abs. 9e +++)  
-(+++ §§ 45 bis 46: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
 
 # § 45c – Sonderbeauftragter
 
@@ -5535,7 +5540,7 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 (8) Die Absätze 1 bis 7 gelten entsprechend für Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a als übergeordnetes Unternehmen gelten und bezüglich der Personen, die die Geschäfte derartiger Finanzholding-Gesellschaften oder gemischter Finanzholding-Gesellschaften tatsächlich führen.
 
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
-(+++ §§ 45 bis 46: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)  
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)  
 (+++ § 45c Abs. 2 Nr. 8, Abs. 6 u. 7: Zur Geltung vgl. § 21 Abs. 3 Satz 2 ZAG 2018 +++)  
 (+++ § 45c Abs. 6 u. 7: Zur Geltung vgl. § 20 Abs. 2 Satz 2 ZAG 2018 +++)  
 (+++ § 45c: Zur Anwendung vgl. § 88 Abs. 5 Satz 2 SAG +++)
@@ -5567,7 +5572,7 @@ Die Aufsichtsbehörde kann unter den Voraussetzungen des Satzes 1 Zahlungen an k
 (+++ §§ 46 bis 46c: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ § 46 Abs. 1 Satz 2 Nr. 4 bis 6: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ § 46 Abs. 1 Satz 3 bis 6: Zur Geltung vgl. § 21 Abs. 3 Satz 2 ZAG 2018 +++)  
-(+++ §§ 45 bis 46: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
 
 # § 46a – Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings
 
@@ -5577,7 +5582,8 @@ Die Aufsichtsbehörde kann unter den Voraussetzungen des Satzes 1 Zahlungen an k
 
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
 (+++ §§ 46 bis 46h: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
-(+++ §§ 46 bis 46c: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)
+(+++ §§ 46 bis 46c: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
 
 # § 46b – Insolvenzantrag
 
