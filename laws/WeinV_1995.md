@@ -31,10 +31,6 @@ Formular für Anträge auf Genehmigung einer Neuanpflanzung
 
 Nachweis des Vorliegens von Prioritätskriterien
 
-§ 4a
-
-(weggefallen)
-
 § 5
 
 Härtefallregelung für Neuanpflanzungen
@@ -407,8 +403,6 @@ zu erbringen.
 
 (2) Es ist die durchschnittliche Hangneigung des Flurstücks der zur Bepflanzung beantragten Fläche zu ermitteln.
 
-# § 4a – (weggefallen)
-
 # § 5 – Härtefallregelung für Neuanpflanzungen(zu § 7c Absatz 3 des Weingesetzes)
 
 (1) Einem Erzeuger, dem eine Genehmigung nach § 7c Absatz 1 Satz 1 des Weingesetzes erteilt worden ist, kann auf Antrag gestattet werden, die neu anzupflanzenden Reben auf einer anderen Fläche des Betriebes als der in der Genehmigung bezeichneten Fläche zu pflanzen, wenn er nachweist, dass
@@ -594,8 +588,6 @@ geerntet worden sind.
 (8a) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2013 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2014 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
 
 (8b) Jungwein, der aus im deutschen Weinanbaugebiet im Jahr 2021 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2022 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
-
-(9) (weggefallen)
 
 # § 13a – (weggefallen)
 
