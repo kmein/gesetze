@@ -3165,7 +3165,7 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 # § 191 – Oberste Vertretung
 
-Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1 Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3 und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
+Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 118a, 119 Absatz 1 Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, des § 120 Absatz 1 bis 3 und des § 121 Absatz 1 bis 4 sowie 4b Satz 1 und 2, Absatz 5 Satz 1 und 3 sowie Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 1a bis 5, der §§ 130a bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
 
 (+++ § 191 in der ab 1.7.2021 geltenden Fassung: zur erstmaligen Anwendung vgl. § 357 Satz 1 +++)
 
@@ -5435,7 +5435,7 @@ c) einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von F
 
 5. die Einberufung der in Nummer 4 bezeichneten Sitzungen und Tagungen sowie die Ankündigung von Gegenständen zur Beschlussfassung zu verlangen.
 
-Im Hinblick auf eine Angleichung der bewährten Aufsichtspraktiken haben die Mitarbeiter der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung gemäß Artikel 21 Absatz 1 der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 48) das Recht, sich an Prüfungen der in der Richtlinie 2009/138/EG genannten Aufsichtskollegien in den Geschäftsräumen der Versicherungsunternehmen zu beteiligen, die gemeinsam von der Aufsichtsbehörde und mindestens einer zuständigen Behörde eines anderen Mitglied- oder Vertragsstaats durchgeführt werden.
+In den Fällen der virtuellen Hauptversammlung nach § 118a des Aktiengesetzes und der virtuellen obersten Vertretung sind die Vertreter im Wege der Videokommunikation zu der Versammlung zuzuschalten und ihnen ist auf Verlangen über die Videokommunikation das Wort zu erteilen. Nach § 130a Absatz 1 und 2 des Aktiengesetzes eingereichte Stellungnahmen, nach § 131 Absatz 1a und 1b des Aktiengesetzes eingereichte Fragen sowie die zu diesen Fragen vor der Versammlung gegebenen Antworten sind den Vertretern zugänglich zu machen. Die Vertreter dürfen anstelle der Zuschaltung im Wege der Videokommunikation am Ort der Hauptversammlung teilnehmen, sofern sie dies für erforderlich halten. Im Hinblick auf eine Angleichung der bewährten Aufsichtspraktiken haben die Mitarbeiter der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung gemäß Artikel 21 Absatz 1 der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 48) das Recht, sich an Prüfungen der in der Richtlinie 2009/138/EG genannten Aufsichtskollegien in den Geschäftsräumen der Versicherungsunternehmen zu beteiligen, die gemeinsam von der Aufsichtsbehörde und mindestens einer zuständigen Behörde eines anderen Mitglied- oder Vertragsstaats durchgeführt werden.
 
 (2) Die Aufsichtsbehörde hat die Rechte nach Absatz 1 Satz 1 Nummer 1 und 3 auch gegenüber
 
@@ -5472,8 +5472,8 @@ sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bez
 (8) Die Betroffenen haben Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3, Satz 2 sowie nach den Absätzen 2, 4, 5 und 7 zu dulden. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (+++ § 306 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 Satz 1 Nr. 1 u. 2, Abs. 4 bis 8: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
-(+++ § 306 Abs. 1 Satz 1 Nr. 1: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)  
-(+++ § 306 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1, Abs. 3 Satz 3 +++)
+(+++ § 306 Abs. 1 Nr. 1: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)  
+(+++ § 306 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1 Halbsatz 2, Abs. 3 Satz 3 +++)
 
 # § 307 – Sonderbeauftragter
 
@@ -6547,6 +6547,12 @@ Die §§ 36, 191, 331, 332 und 334 in der ab dem 1. Juli 2021 geltenden Fassung 
 # § 358 – Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
 § 188 Absatz 1 Satz 2 dieses Gesetzes in Verbindung mit § 76 Absatz 4 des Aktiengesetzes und § 189 Absatz 3 Satz 1 dieses Gesetzes in Verbindung mit § 111 Absatz 5 des Aktiengesetzes in der jeweils vom 12. August 2021 an geltenden Fassung des Aktiengesetzes sind erstmals auf die Festlegung von Zielgrößen ab dem 12. August 2021 anzuwenden.
+
+# § 359 – Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+
+(1) Für oberste Vertretungen, die bis einschließlich 31. August 2023 einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats entscheiden, dass die oberste Vertretung als virtuelle oberste Vertretung entsprechend § 118a des Aktiengesetzes abgehalten wird.
+
+(2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4 des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind erstmals auf oberste Vertretungen anzuwenden, die ab dem 27. Juli 2022 einberufen werden.
 
 # Anlage 1 – Einteilung der Risiken nach Sparten
 
