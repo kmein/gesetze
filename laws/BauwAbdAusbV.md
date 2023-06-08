@@ -237,8 +237,6 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
 3
 
-4
-
 1
 
 2
@@ -648,8 +646,6 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 2
 
 3
-
-4
 
 1
 
