@@ -2304,6 +2304,14 @@ piperidin-4-yl\]prop-3-enamid
 
 \-
 
+ADB-BINACA  
+(ADB-BUTINACA, ADMB-BINACA)
+
+N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-  
+1H-indazol-3-carboxamid
+
+\-
+
 ADB-CHMINACA  
 (MAB-CHMINACA)
 
@@ -2834,6 +2842,20 @@ Methyl{2-\[1-(5-fluorpentyl)-1H-indazol-
 Eutylon (N-Ethylnorbutylon, bk-EBDB)
 
 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on
+
+\-
+
+Etazen (Etodesnitazen)
+
+N,N-Diethyl-2-{2-\[(4-ethoxyphenyl)methyl\]-  
+1H-benzimidazol-1-yl}ethan-1-amin
+
+\-
+
+Etonitazepyn (N-Pyrrolidino Etonitazen)
+
+2-\[(4-Ethoxyphenyl)methyl\]-5-nitro-1-(2-pyrrolidin-  
+1-ylethyl)-1H-benzimidazol
 
 \-
 
@@ -3434,6 +3456,13 @@ Propiram
 
 N-(1-Piperidinopropan-2-yl)-N-(2-pyridyl)propanamid
 
+\-
+
+Protonitazen
+
+N,N-Diethyl-2-{2-\[(4-propoxyphenyl)methyl\]-5-nitro-  
+1H-benzimidazol-1-yl}ethan-1-amin
+
 Pyrovaleron
 
 \-
@@ -3446,6 +3475,13 @@ Pyrovaleron
 (Alpha-PHP, α-PHP, PV-7)
 
 1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on
+
+\-
+
+α-Pyrrolidinoisohexanophenon  
+(Alpha-PiHP, α-PiHP, 4-Methyl-α-PVP)
+
+4-Methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-on
 
 \-
 

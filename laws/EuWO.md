@@ -2030,7 +2030,7 @@ Wahlberechtigt sind nach § 6 Europawahlgesetz alle Deutschen im Sinne des Artik
 
  
 
-Deutsche, die außerhalb der Bundesrepublik Deutschland leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, sind wahlberechtigt sofern sie
+Deutsche, die außerhalb der Bundesrepublik Deutschland leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, sind wahlberechtigt, sofern sie
 
 –  
 entweder am Wahltag seit mindestens drei Monaten in den Gebieten der übrigen Mitgliedstaaten der Europäischen Union (siehe hierzu die Erläuterung unter ⑩) eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben, wobei nach § 6 Absatz 1 Satz 2 Europawahlgesetz auch ein Aufenthalt in der Bundesrepublik Deutschland mitzählt,
