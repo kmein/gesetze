@@ -488,7 +488,7 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
 
 # § 8 – Erlaubnis; Spartentrennung
 
-(1) Versicherungsunternehmen bedürfen zum Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde.
+(1) Versicherungsunternehmen mit Sitz im Inland bedürfen zum Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde.
 
 (2) Die Erlaubnis darf nur Aktiengesellschaften einschließlich der Europäischen Gesellschaft, Versicherungsvereinen auf Gegenseitigkeit sowie Körperschaften und Anstalten des öffentlichen Rechts erteilt werden.
 
@@ -497,6 +497,8 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
 (4) Ein Rückversicherungsunternehmen wird nur zum Betrieb der Rückversicherung zugelassen. Bei Erstversicherungsunternehmen schließen die Erlaubnis zum Betrieb der Lebensversicherung im Sinne der Anlage 1 Nummer 19 bis 24 und die Erlaubnis zum Betrieb anderer Versicherungssparten einander aus; das Gleiche gilt für die Erlaubnis zum Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1 und die Erlaubnis zum Betrieb anderer Versicherungssparten.
 
 (5) Die Aufsichtsbehörde macht die Erteilung und den Widerruf der Erlaubnis im elektronischen Informationsmedium nach § 318 Absatz 3 bekannt und meldet sie der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung. Ist ein gemäß § 221 sicherungspflichtiges Versicherungsunternehmen betroffen, informiert sie zusätzlich den Sicherungsfonds.
+
+(6) Ein Versicherungsunternehmen bedarf der Erlaubnis nach Absatz 1 auch dann, wenn es im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes seinen Sitz vom Ausland ins Inland verlegt.
 
 (+++ § 8 Abs. 2: Zur Anwendung vgl. § 237 Abs. 3 Nr. 1 +++)  
 (+++ § 8 Abs. 4: Zur Anwendung vgl. § 13 Abs. 1 Satz 2 +++)
@@ -674,9 +676,11 @@ Die Sätze 1 und 2 Nummer 1 gelten auch für die Übertragung eines im Inland er
 
 # § 14 – Umwandlungen
 
-(1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes bedarf der Genehmigung der Aufsichtsbehörde. § 13 Absatz 1 Satz 2 und Absatz 2, 4 und 5 ist entsprechend anzuwenden.
+(1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1, 305, 320 und 333 des Umwandlungsgesetzes bedarf der Genehmigung der Aufsichtsbehörde. § 13 Absatz 1 Satz 2 und Absatz 2, 4 und 5 ist entsprechend anzuwenden. Verlegt im Zuge einer Umwandlung nach Satz 1 das Versicherungsunternehmen seinen Sitz ins Ausland, erlischt die Erlaubnis.
 
 (2) Die Aufsichtsbehörde kann die Genehmigung auch versagen, wenn die Vorschriften über die Umwandlung nicht beachtet worden sind.
+
+(+++ § 14 Abs. 1 Satz 3: Zur Anwendung vgl. § 166 Abs. 4 +++)
 
 # § 15 – Versicherungsfremde Geschäfte
 
@@ -1270,7 +1274,7 @@ Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich Folgendes anz
 
 3. Satzungsänderungen, die eine Kapitalerhöhung zum Gegenstand haben,
 
-4. wenn es sich um ein Rückversicherungsunternehmen handelt, jede Änderung der in § 9 Absatz 2 Nummer 1 und 2 genannten Teile des Geschäftsplans, jede Änderung des tatsächlichen Geschäftsgebietes, jede Änderung von Unternehmensverträgen der in den §§ 291 und 292 des Aktiengesetzes bezeichneten Art sowie die Absicht der Umwandlung nach den §§ 1 und 122a des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
+4. wenn es sich um ein Rückversicherungsunternehmen handelt, jede Änderung der in § 9 Absatz 2 Nummer 1 und 2 genannten Teile des Geschäftsplans, jede Änderung des tatsächlichen Geschäftsgebietes, jede Änderung von Unternehmensverträgen der in den §§ 291 und 292 des Aktiengesetzes bezeichneten Art sowie die Absicht der Umwandlung nach den § 1, § 305, § 320 oder § 333 des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
 
 5. den Erwerb oder die Aufgabe einer bedeutenden Beteiligung an dem eigenen Versicherungsunternehmen, das Erreichen sowie das Über- oder das Unterschreiten der Beteiligungsschwellen von 20 Prozent, 30 Prozent und 50 Prozent der Stimmrechte oder des Kapitals sowie die Tatsache, dass das Unternehmen Tochterunternehmen eines anderen Unternehmens wird, sobald das Versicherungsunternehmen von der bevorstehenden Änderung dieser Beteiligungsverhältnisse Kenntnis erlangt,
 
@@ -2960,7 +2964,9 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 (2) Die vollständige oder teilweise Übertragung eines Versicherungsbestandes durch ein inländisches Rückversicherungsunternehmen auf eine Niederlassung eines Versicherungsunternehmens eines Drittstaats bedarf der Genehmigung durch die Bundesanstalt. Die Genehmigung darf nur erteilt werden, wenn die übernehmende Drittstaatenniederlassung nachweist, dass sie nach der Übertragung über anrechnungsfähige Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung verfügt. Wird die Kapitalausstattung der Drittstaatenniederlassung von der Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats überwacht, hat der Nachweis durch eine Bescheinigung der zuständigen Behörde des anderen Mitglied- oder Vertragsstaats zu erfolgen. Absatz 1 Satz 2, 4 bis 6 ist entsprechend anzuwenden.
 
-(3) Jede Umwandlung eines Rückversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes, bei der Rückversicherungsverträge zu den von der Umwandlung erfassten Vermögensgegenständen gehören, bedarf der Genehmigung der Aufsichtsbehörde. Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden. Die Genehmigung kann auch versagt werden, wenn die Vorschriften über die Umwandlung nicht beachtet worden sind. Die Absicht der Umwandlung eines Rückversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach Satz 1 unterliegt, ist der Aufsichtsbehörde unverzüglich anzuzeigen.
+(3) Jede Umwandlung eines Rückversicherungsunternehmens nach den §§ 1, 305, 320 und 333 des Umwandlungsgesetzes, bei der Rückversicherungsverträge zu den von der Umwandlung erfassten Vermögensgegenständen gehören, bedarf der Genehmigung der Aufsichtsbehörde. Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden. Die Genehmigung kann auch versagt werden, wenn die Vorschriften über die Umwandlung nicht beachtet worden sind. Die Absicht der Umwandlung eines Rückversicherungsunternehmens nach den §§ 1, 305, 320 und 333 des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach Satz 1 unterliegt, ist der Aufsichtsbehörde unverzüglich anzuzeigen.
+
+(4) Auf Umwandlungen von Rückversicherungsunternehmen nach den §§ 305, 320 und 333 des Umwandlungsgesetzes findet § 14 Absatz 1 Satz 3 Anwendung.
 
 # § 167 – Finanzrückversicherung
 
