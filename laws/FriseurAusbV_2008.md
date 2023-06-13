@@ -185,6 +185,8 @@ b) Ausführen einer klassischen Friseurarbeit am Herren einschließlich Föhnen.
 
 5. Die Arbeitsaufgabe einschließlich der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
+(+++ § 7 Abs. 4 Nr. 1 Buchst. b: Zur Nichtanwendung vgl. § 10a +++)
+
 # § 8 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
