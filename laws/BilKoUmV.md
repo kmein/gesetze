@@ -9,7 +9,7 @@ Auf Grund des § 17d Abs. 3 Satz 1 des Finanzdienstleistungsaufsichtsgesetzes, d
 
 Diese Verordnung regelt die Umlegung der in § 17d Abs. 1 Satz 1 und Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes aufgeführten Kosten der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der auf der Grundlage des § 342b Abs. 1 Satz 1 des Handelsgesetzbuchs anerkannten Prüfstelle für Rechnungslegung (Prüfstelle) auf die in § 17d Absatz 1 Satz 1 und 2 des Finanzdienstleistungsaufsichtsgesetzes genannten Umlagepflichtigen sowie den Differenzausgleich zwischen Umlagevorauszahlung und Umlagefestsetzung im Hinblick auf die von der Bundesanstalt an die Prüfstelle gemäß § 342d Satz 3 des Handelsgesetzbuchs zu leistende Vorschusszahlung.
 
-(+++ § 1: Zur Anwendung vgl. § 14 Abs. 3 +++)
+(+++ § 1 in der ab dem 26.11.2015 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 14 Abs. 3 +++)
 
 # § 2 – Umlagefähige Kosten
 
@@ -36,6 +36,8 @@ Für die Berechnung des Umlagebetrags gemäß § 3 ist die Höhe aller in einem 
 # § 7 – Mindest- und Höchstumlagebetrag
 
 Unbeschadet des § 6 beträgt der Umlagebetrag mindestens 250 Euro.
+
+(+++ § 7 in der ab 1.7.2021 geltenden Fassung: Zur Anwendung vgl. § 14 Abs. 4 +++)
 
 # § 8 – Ermittlung und Festsetzung des Umlagebetrags
 

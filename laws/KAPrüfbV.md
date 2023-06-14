@@ -73,7 +73,7 @@ Bei der Prüfung ist den Grundsätzen der risikoorientierten Prüfung und der We
 
 (4) Der Umfang der Berichterstattung unterliegt, soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, dem pflichtgemäßen Ermessen des Abschlussprüfers und hat der Bedeutung der dargestellten Vorgänge zu entsprechen. Über bedeutsame Veränderungen gegenüber dem letzten Berichtszeitraum ist stets zu berichten.
 
-(5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit erschwerende Wasserzeichen oder ähnliches enthalten darf, ist der Bundesanstalt ausschließlich elektronisch über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren<span id="FnR.F816665_02"></span><a href="#F816665_02" class="FnR">*</a></sup> zu übermitteln. Berichte über die Prüfung von Spezial-AIF sind der Bundesanstalt nur einzureichen, wenn diese das verlangt.
+(5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit erschwerende Wasserzeichen oder ähnliches enthalten darf, ist der Bundesanstalt ausschließlich elektronisch über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren<span id="FnR.FnA1-F816665_01"></span><a href="#FnA1-F816665_01" class="FnR">*</a></sup> zu übermitteln. Berichte über die Prüfung von Spezial-AIF sind der Bundesanstalt nur einzureichen, wenn diese das verlangt.
 
 <span id="FnA1-F816665_01"></span><a href="#FnR.FnA1-F816665_01" class="Footnote">*</a>  
 Amtlicher Hinweis: Im Internet abrufbar unter https://portal.mvp.bafin.de/MvpPortalWeb/app/login.html
@@ -100,9 +100,13 @@ Amtlicher Hinweis: Im Internet abrufbar unter https://portal.mvp.bafin.de/MvpPor
 
 (3) Der Prüfungsbericht ist unter Angabe von Ort und Datum vom Abschlussprüfer eigenhändig zu unterzeichnen.
 
+(+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 6 – Berichtszeitraum
 
 Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum), ist in der Regel das am Stichtag des Jahresabschlusses (Bilanzstichtag) endende Geschäftsjahr (Berichtsjahr). Bei vom Geschäftsjahr abweichenden Berichtszeiträumen muss der Prüfungsbericht mindestens das Geschäftsjahr umfassen, das am Bilanzstichtag endet. Wurde die Prüfung unterbrochen, ist in dem Bericht darauf hinzuweisen und sind die Dauer und die Gründe der Unterbrechung darzulegen.
+
+(+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 7 – Prüfungs- und Berichtsgrundsätze für externe Kapitalverwaltungsgesellschaften
 
@@ -138,6 +142,8 @@ Der Bericht über die Prüfung der externen Kapitalverwaltungsgesellschaft ist s
 
 (5) Soweit der Abschlussprüfer nur verpflichtet ist, über Änderungen zu berichten, hat er darüber hinaus in angemessenen Abständen vollständig zu berichten. Angemessene Abstände sind in der Regel drei bis fünf Jahre.
 
+(+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
+
 # § 9 – Ausländische Zweigstellen und Zweigniederlassungen
 
 Der Abschlussprüfer hat im Prüfungsbericht über die ausländischen Zweigstellen und Zweigniederlassungen zu berichten und deren Einbindung in die Geschäftsorganisation der externen Kapitalverwaltungsgesellschaft zu beurteilen. Dabei sind für diese Zweigniederlassungen und Zweigstellen deren Ergebniskomponenten, deren Einfluss auf das Risikoprofil sowie die Risikolage und die Risikovorsorge der Gesellschaft insgesamt sowie deren Einbindung in das Risikomanagement zu beurteilen.
@@ -156,9 +162,13 @@ Der Abschlussprüfer hat im Prüfungsbericht über die ausländischen Zweigstell
 
 (6) Im Prüfungsbericht aufzuführen sind die Anzahl der Fälle von operationellem Versagen sowie die Summe der erlittenen Verluste und die Anzahl der eingetretenen Schäden, die in der Verlustdatenbank im Sinne des Artikels 13 Absatz 2 der Verordnung (EU) Nr. 231/2013 im Berichtszeitraum erfasst wurden.
 
+(+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
+
 # § 11 – Anzeigewesen und Meldepflichten
 
 Im Prüfungsbericht ist die Organisation des Anzeigewesens der Kapitalverwaltungsgesellschaft zu beurteilen. Es ist darauf einzugehen, ob die Anzeigen, insbesondere die nach § 34 des Kapitalanlagegesetzbuches, sowie die Meldungen nach den §§ 12 und 35 des Kapitalanlagegesetzbuches vollständig und richtig sind. Wurden wesentliche Verstöße gegen die Anzeigen- und Meldepflichten festgestellt, sind diese Verstöße anzugeben.
+
+(+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 # § 12 – Prüfungszeitraum und Berichtszeitraum
 
@@ -167,6 +177,8 @@ Im Prüfungsbericht ist die Organisation des Anzeigewesens der Kapitalverwaltung
 (2) Der Berichtszeitraum der Prüfung ist jeweils der Zeitraum zwischen dem Stichtag der letzten Prüfung und dem Stichtag der folgenden Prüfung.
 
 (3) Die Prüfung hat spätestens drei Monate nach dem Abschluss des für sie maßgeblichen Berichtszeitraums zu beginnen.
+
+(+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 # § 13 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
 
@@ -198,6 +210,8 @@ Die Darstellung nach Satz 1 Nummer 1 hat zu erfolgen, soweit sie zulässig ist n
 
 (6) Bei einer externen Kapitalverwaltungsgesellschaft ist darzustellen, inwieweit diese ihre Verpflichtungen nach § 18 Absatz 6 des Kapitalanlagegesetzbuches in Verbindung mit § 24c Absatz 1 des Kreditwesengesetzes erfüllt hat. Insbesondere ist zu prüfen, ob die hierzu eingesetzten Verfahren eine zutreffende Erfassung der aufgenommenen Identifizierungsdaten mit richtiger Zuordnung zum Depot im Abrufsystem gewährleisten. Gegebenenfalls ist zu berichten, ob die Anordnungen der Bundesanstalt gemäß § 6a des Kreditwesengesetzes ordnungsgemäß erfüllt wurden.
 
+(+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
+
 # § 14 – Pflichten nach der Verordnung (EU) Nr. 648/2012
 
 (1) Der Abschlussprüfer hat die Verfahren zur Ermittlung aller OTC-Derivate-Kontrakte, die einer Clearingpflicht durch eine zentrale Gegenpartei unterliegen, und die Einhaltung der Clearingpflicht zu beurteilen. Sind gruppeninterne Transaktionen von der Clearingpflicht durch die Bundesanstalt befreit, so sind die organisatorischen Maßnahmen zur Einhaltung der damit verbundenen Voraussetzungen zu beurteilen.
@@ -214,6 +228,8 @@ Die Darstellung nach Satz 1 Nummer 1 hat zu erfolgen, soweit sie zulässig ist n
 
 (5) Darüber hinaus hat der Abschlussprüfer die Besicherung bilateraler Kontrakte darzustellen und zu beurteilen.
 
+(+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 14a – Einhaltung der Pflichten nach der Verordnung (EU) 2019/2088 und nach der Verordnung (EU) 2020/852
 
 Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen
@@ -224,9 +240,13 @@ Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen
 
 zu beurteilen.
 
+(+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 15 – Geschäftliche Entwicklung im Berichtsjahr
 
 Im Prüfungsbericht ist die geschäftliche Entwicklung der externen Kapitalverwaltungsgesellschaft darzustellen und zu erläutern. Dabei sind die die geschäftliche Entwicklung kennzeichnenden Zahlen des Berichtsjahres und die des Vorjahres gegenüberzustellen.
+
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
 
 # § 16 – Beurteilung der Vermögens- und Finanzlage
 
@@ -242,17 +262,23 @@ Im Prüfungsbericht ist die geschäftliche Entwicklung der externen Kapitalverwa
 
 (3) Über die Anlage des eigenen Vermögens der externen Kapitalverwaltungsgesellschaft ist unter Berücksichtigung des § 28 Absatz 1 Satz 2 Nummer 4 des Kapitalanlagegesetzbuches zu berichten.
 
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
+
 # § 17 – Beurteilung der Ertragslage
 
 (1) Im Prüfungsbericht ist die Entwicklung der Ertragslage zu beurteilen.
 
 (2) Auch über die Ertragslage der wesentlichen Geschäftssparten ist auf der Basis der Unterlagen der externen Kapitalverwaltungsgesellschaft zu berichten; dabei sind jeweils die wichtigsten Erfolgsquellen und Erfolgsfaktoren gesondert darzustellen. Soweit keine Spartenkalkulation vorhanden ist, ist es ausreichend, auf entsprechende vorhandene interne Informationen der Geschäftsleitung zurückzugreifen.
 
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
+
 # § 18 – Risikolage
 
 (1) Im Prüfungsbericht ist die Risikolage der externen Kapitalverwaltungsgesellschaft zu beurteilen. Dazu sind die von der externen Kapitalverwaltungsgesellschaft verwendeten Bewertungsverfahren darzustellen und ist zu beurteilen, ob die eingesetzten Systeme, Verfahren und Regelungen angemessen sind, um die finanzielle Lage der externen Kapitalverwaltungsgesellschaft zu bestimmen.
 
 (2) Ferner ist auf Anzahl und Umfang von Kulanzzahlungen und Gerichtsverfahren im Zusammenhang mit der Verwaltung von Investmentvermögen sowie auf die Anzahl von Kundenbeschwerden einzugehen.
+
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
 
 # § 19 – Erläuterungen
 
@@ -266,15 +292,21 @@ Ob und inwieweit im Prüfungsbericht
 
 zu erläutern und mit den Vorjahreszahlen zu vergleichen sind, unterliegt dem pflichtgemäßen Ermessen des Abschlussprüfers unter Berücksichtigung des Grundsatzes der Wesentlichkeit.
 
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
+
 # § 20 – Datenübersicht
 
 Dem Prüfungsbericht ist das auszufüllende Formblatt mit Angaben zum Berichtsjahr und zum Vorjahr gemäß Anlage 1 beizufügen. Das Formblatt ist Bestandteil des Prüfungsberichts.
+
+(+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
 
 # § 21 – Berichtszeitraum
 
 (1) Die Berichterstattung nach diesem Abschnitt kann nach pflichtgemäßem Ermessen des Abschlussprüfers in Abstimmung mit der externen Kapitalverwaltungsgesellschaft zu einem früheren Zeitpunkt als dem nach § 12 Absatz 3 in einem gesonderten Berichtsteil erfolgen, jedoch nicht vor dem Ende der ersten Hälfte des Geschäftsjahres. Dieser Berichtsteil ist der Bundesanstalt unverzüglich nach Fertigstellung einzureichen.
 
 (2) Ergeben sich bis zum Ende des Berichtszeitraums wesentliche Änderungen bei den Ergebnissen eines Berichtsteils nach Absatz 1, ist über diese Änderung zu berichten.
+
+(+++ §§ 21, 22 u. 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 4 +++)
 
 # § 22 – Allgemeine Verhaltensregeln und Organisationspflichten einschließlich Risikomanagement
 
@@ -297,6 +329,8 @@ Dem Prüfungsbericht ist das auszufüllende Formblatt mit Angaben zum Berichtsja
 (5) Der Abschlussprüfer hat zu beurteilen, ob die Voraussetzungen für eine Auslagerung von Teilbereichen der Geschäftsorganisation vorliegen. Über die Auslagerung der Portfolioverwaltung oder des Risikomanagements auf andere Unternehmen hat er im Prüfungsbericht gesondert unter Berücksichtigung des § 36 des Kapitalanlagegesetzbuches zu berichten.
 
 (6) Der Abschussprüfer hat zu beurteilen, ob das Kontrollverfahren und die interne Revision der externen Kapitalverwaltungsgesellschaft angemessen sind.
+
+(+++ §§ 21, 22 u. 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 4 +++)
 
 # § 23 – Besondere Anforderungen an die Prüfung von Dienstleistungen und von Nebendienstleistungen
 
@@ -368,6 +402,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 
 (5) Der Abschlussprüfer des Sondervermögens hat die Ergebnisse der Prüfung der externen Kapitalverwaltungsgesellschaft insbesondere in Bezug auf die in den §§ 26 bis 28 des Kapitalanlagegesetzbuches genannten Verhaltensregeln und Organisationspflichten zu verwerten.
 
+(+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 26 – Angaben zum Sondervermögen
 
 (1) Dem Prüfungsbericht für das Sondervermögen sind insbesondere folgende Angaben voranzustellen:
@@ -406,6 +442,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 
 (2) Absatz 1 ist nicht auf Spezial-AIF anzuwenden. Absatz 1 Nummer 14 ist nicht auf Immobilien-Sondervermögen anzuwenden.
 
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 27 – Richtigkeit und Vollständigkeit des Jahres-, Zwischen-, Auflösungs- und Abwicklungsberichts
 
 (1) Der Abschlussprüfer hat zu prüfen, ob der Jahres-, Zwischen-, Auflösungs- und Abwicklungsbericht vollständig und richtig sind. Besonders zu berücksichtigen hat er dabei die Vermögensaufstellung, die Ertrags- und Aufwandsrechnung, die Entwicklungsrechnung, den Anhang und den Tätigkeitsbericht.
@@ -413,6 +451,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 (2) Im Prüfungsbericht ist zur vertragsgemäßen Belastung des Sondervermögens Stellung zu nehmen.
 
 (3) Wird das Recht zur Verwaltung eines Sondervermögens während eines Geschäftsjahres von der externen Kapitalverwaltungsgesellschaft auf eine andere externe Kapitalverwaltungsgesellschaft gemäß § 104 des Kapitalanlagegesetzbuches übertragen, so unterliegen der Prüfung neben dem Zwischenbericht auch die Saldenlisten und Skontros, die der aufnehmenden Kapitalverwaltungsgesellschaft zur Fortführung der Buchhaltung übermittelt werden. In den besonderen Vermerk ist eine Aussage aufzunehmen, ob die Prüfung ordnungsgemäß durchgeführt wurde.
+
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 28 – Einhaltung von Gesetz und Anlagebedingungen
 
@@ -427,6 +467,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 (3) Bei geringfügigen Verstößen gegen gesetzliche und vertragliche Bestimmungen kann von der Darstellung abgesehen werden, es sei denn, es handelt sich um wiederholte Verstöße derselben Art. Über die in § 29 Absatz 3 genannten Verstöße ist in jedem Fall zu berichten.
 
 (4) Besteht für den jeweiligen Verstoß eine Meldepflicht gegenüber der Bundesanstalt, so ist festzustellen, ob die entsprechende gesetzliche Regelung eingehalten oder verletzt wurde.
+
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 29 – Anlagevorschriften und Verletzungen von Anlagegrenzen
 
@@ -450,7 +492,7 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 
 7. Pensionsgeschäfte nach § 203 des Kapitalanlagegesetzbuches.
 
-(+++ § 29: Zur Anwendung vgl. § 35 +++)
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 30 – Ordnungsgemäße Geschäftsorganisation
 
@@ -462,6 +504,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 
 (4) Im Prüfungsbericht für einen Dach-Hedgefonds nach § 225 des Kapitalanlagegesetzbuches ist insbesondere darauf einzugehen, ob bei der Auswahl der Zielfonds die Sorgfaltspflichten erfüllt werden und inwieweit diese Sorgfaltspflichten laufend überwacht werden.
 
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
+
 # § 31 – Ermittlung der Anteilwerte
 
 (1) Es ist darzulegen, ob die von der externen Kapitalverwaltungsgesellschaft getroffenen organisatorischen Vorkehrungen zur Ermittlung der Anteilwerte für das zu prüfende Sondervermögen ordnungsgemäß und geeignet sind und ob § 168 des Kapitalanlagegesetzbuches eingehalten wurde. Dabei sind insbesondere die nach § 168 Absatz 3 des Kapitalanlagegesetzbuches verwendeten Bewertungsmodelle darzustellen und zu beurteilen. Sofern die Verwahrstelle die Anteilwerte ermittelt, beschränkt sich die Beurteilung auf die Mitwirkung der externen Kapitalverwaltungsgesellschaft.
@@ -469,6 +513,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 (2) Werden fehlerhafte Anteilwerte festgestellt, sind die Gründe hierfür darzustellen und zu erläutern. Die Berichterstattung kann entfallen, soweit der Fehler beim Anteilwert unwesentlich im Verhältnis zur Höhe des Anteilwertes ist.
 
 (3) Der Abschlussprüfer hat über Maßnahmen, die von der externen Kapitalverwaltungsgesellschaft ergriffen wurden, um die Folgen fehlerhafter Berechnungen der Anteilwerte zu beseitigen, und über Ergebnisse dieser Maßnahmen zu berichten.
+
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 32 – Bewertungsverfahren
 
@@ -479,6 +525,8 @@ d) Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 (3) Wird ein externer Bewerter bestellt, so ist sein Name im Prüfungsbericht anzugeben, wenn er für das Sondervermögen im Berichtszeitraum bestellt war. Bei neu bestellten externen Bewertern ist zusätzlich anzugeben, ob sie der Bundesanstalt ordnungsgemäß angezeigt wurden.
 
 (4) Es ist anzugeben, ob die Kapitalverwaltungsgesellschaft dem externen Bewerter die für die Bewertung erforderlichen Unterlagen zur Verfügung gestellt hat.
+
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 33 – Einsatz von Derivaten
 
@@ -493,6 +541,8 @@ Folgende Pflichten des Abschlussprüfers im Prüfungsbericht beim Einsatz von De
 4. nach § 31 Absatz 2 der Derivateverordnung (Stresstests) und
 
 5. nach § 34 Absatz 1, Absatz 2 Satz 3 der Derivateverordnung (Richtliniengestaltung und -durchführung).
+
+(+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
 # § 34 – Fremdbezug von Dienstleistungen
 
