@@ -307,6 +307,8 @@ b) die abgegebene Menge nach Verwendungszwecken einschließlich der Ausfuhr.
 
 (10) Reismühlen mit einer jährlichen Verarbeitungsmenge von mehr als 1 000 Tonnen haben unbeschadet des Absatzes 2 nach Maßgabe des § 7 Nummer 1 Buchstabe b die Reisbestände nach Maßgabe des Anhangs III Nummer 1 Unterabsatz 1 Buchstabe c der Durchführungsverordnung (EU) 2017/1185 zu melden.
 
+(+++ § 2 Abs. 2a u. 7a: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
+
 # § 3 – Meldepflichten der Zuckerwirtschaft
 
 (1) Die in den folgenden Absätzen 2, 4, 6, 7 und 8 aufgeführten Unternehmen haben jeweils zu melden:
@@ -355,8 +357,6 @@ a) den durchschnittlichen Verkaufspreis je Tonne und die verkaufte Menge, angege
 
 b) bei Verkäufen im Rahmen kurzfristiger Verträge die Angaben nach Buchstabe a in Form gesonderter Mitteilungen; Verkäufe an Tochterunternehmen im Rahmen kurzfristiger Verträge sind nicht meldepflichtig.
 
-(2a) (weggefallen)
-
 (3) Die Meldungen der Unternehmen des Groß- und Außenhandels mit Zucker sind ab einem jährlichen Bezug von 1 000 und mehr Tonnen kristallinem oder flüssigem Zucker monatlich nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben jeweils in Tonnen Weißzuckerwert gesondert nach Erzeugniskategorien abzugeben:
 
 1. den Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
@@ -388,6 +388,8 @@ Abweichend von Satz 1 haben Unternehmen des Groß- und Außenhandels mit Zucker 
 2. jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe d der Bestand an Isoglucose nach Maßgabe des Anhangs III Nummer 2 Buchstabe D Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2017/1185.
 
 (8) Die Hersteller von chemischen oder pharmazeutischen Erzeugnissen, die jährlich mehr als 500 Tonnen Verarbeitungszucker, bezogen auf den Weißzuckerwert, als Rohstoff beziehen, haben monatlich nach Maßgabe des § 7 Nummer 2 den im Vormonat gezahlten durchschnittlichen Einkaufspreis für Verarbeitungszucker zu melden. Der Preis ist in Euro je Tonne Produktgewicht anzugeben.
+
+(+++ § 3 Abs. 8: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
 
 # § 4 – Meldepflichten der Fettwirtschaft
 
@@ -479,6 +481,8 @@ In ihnen sind folgende Angaben gesondert nach der jeweiligen Erzeugniskategorie 
 
 2. der Rohstoffeinsatz nach Kategorien der Rohstoffe in Tonnen Reinfett.
 
+(+++ § 4 Abs. 4: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
+
 # § 5 – Meldepflichten der Milchwirtschaft
 
 (1) Abnehmer von Milch haben monatliche Meldungen nach Maßgabe des § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben abzugeben:
@@ -537,6 +541,8 @@ Die Meldungen nach Satz 1 sind vorbehaltlich des Satzes 3 als monatliche Meldung
 
 (6) Die Meldepflicht nach den Absätzen 3 bis 5 gilt für Erzeugnisse aus konventioneller Erzeugung, unabhängig davon, ob die Anforderungen für die Kennzeichnung als frei von gentechnisch veränderten Organismen (GVO-frei) erfüllt werden oder nicht. Von der Meldepflicht ausgenommen sind Erzeugnisse auf der Basis von Rohmilch, die unter speziellen Tierhaltungsanforderungen gewonnen wird, beispielsweise Weidemilch.
 
+(+++ § 5 Abs. 3 bis 5: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
+
 # § 5a – Meldepflichten der Alkoholwirtschaft
 
 (1) Die in den folgenden Absätzen 2 und 3 aufgeführten Unternehmen haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 3 und des § 7 Nummer 1 Buchstabe a jährlich zu melden, soweit die Angaben nicht bereits nach § 2 Absatz 9 Satz 1 zu melden sind.
@@ -586,6 +592,8 @@ Die Preise sind in Euro je 100 Kilogramm Produktgewicht anzugeben.
 (6) Die Meldepflicht nach den Absätzen 4 und 5 gilt nur für Erzeugnisse aus konventioneller Erzeugung. Von der Meldepflicht nach Absatz 5 Satz 1 Nummer 6 und 7 ausgenommen sind Erzeugnisse mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1), die zuletzt durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
 
 (7) Soweit die in den Absätzen 4 und 5 genannten Erzeugnisse nicht von externen Lieferanten zugekauft werden, sondern von Betrieben, die zum gleichen Unternehmen gehören, bezogen werden und soweit hierfür keine Einkaufspreise explizit vereinbart werden, sind stattdessen die unternehmensinternen Bezugs- oder Verrechnungspreise zu melden. Diese Preise sind ebenfalls in Euro je Tonne oder je 100 Kilogramm Produktgewicht anzugeben.
+
+(+++ § 5b Abs. 4 u. 5: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
 
 # § 5c – Meldepflichten bestimmter Hersteller von Nahrungsmitteln
 
@@ -642,6 +650,8 @@ Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000
 (8) Die Meldepflicht nach den Absätzen 2 bis 7 gilt nur für Erzeugnisse aus konventioneller Erzeugung. Bei Meldungen nach den Absätzen 2 bis 4 sind die Preise in Euro je Tonne Produktgewicht anzugeben. Bei Meldungen nach den Absätzen 5 bis 7 sind die Preise in Euro je 100 Kilogramm Produktgewicht anzugeben.
 
 (9) Soweit die in den Absätzen 2 bis 7 genannten Erzeugnisse nicht von externen Lieferanten zugekauft werden, sondern von Unternehmen, die zur gleichen Unternehmensgruppe gehören, bezogen werden und soweit hierfür keine Einkaufspreise explizit vereinbart werden, sind stattdessen die unternehmensgruppeninternen Bezugs- oder Verrechnungspreise zu melden. Absatz 8 gilt entsprechend.
+
+(+++ § 5c Abs. 2 bis 7: Zur Geltung vgl. Art. 2 Abs. 2 V v. 16.11.2020 I 2431 +++)
 
 # § 6 – Meldepflichtige, Gesamtmeldung
 

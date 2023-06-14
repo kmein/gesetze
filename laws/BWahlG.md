@@ -23,15 +23,15 @@ Wahlkreiskommission und Wahlkreiseinteilung
 
 § 4
 
-Stimmen
+Grundsätze der Verteilung der Sitze auf Parteien
 
 § 5
 
-Wahl in den Wahlkreisen
+Berechnung der Sitzverteilung
 
 § 6
 
-Wahl nach Landeslisten
+Vergabe der Sitze an Bewerber
 
 § 7
 
@@ -241,7 +241,7 @@ Entscheidung über den Verlust der Mitgliedschaft
 
 § 48
 
-Berufung von Listennachfolgern und Ersatzwahlen
+Berufung von Nachfolgern
 
 Neunter Abschnitt
 
@@ -299,9 +299,13 @@ Anlage 2
 
 # § 1 – Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
 
-(1) Der Deutsche Bundestag besteht vorbehaltlich der sich aus diesem Gesetz ergebenden Abweichungen aus 598 Abgeordneten. Sie werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den wahlberechtigten Deutschen nach den Grundsätzen einer mit der Personenwahl verbundenen Verhältniswahl gewählt.
+(1) Der Deutsche Bundestag besteht aus 630 Abgeordneten. Sie werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den wahlberechtigten Deutschen gewählt.
 
-(2) Von den Abgeordneten werden 299 nach Kreiswahlvorschlägen in den Wahlkreisen und die übrigen nach Landeswahlvorschlägen (Landeslisten) gewählt.
+(2) Für die Wahl zum Deutschen Bundestag gelten die Grundsätze der Verhältniswahl. Jeder Wähler hat zwei Stimmen, eine Erststimme für die Wahl nach Kreiswahlvorschlägen und eine Zweitstimme für die Wahl nach Landeswahlvorschlägen, auf denen die zur Wahl zugelassenen Parteien ihre Bewerber benennen (Landeslisten).
+
+(3) Für die Vergabe der auf die Landeslisten entfallenden Sitze werden, vorbehaltlich der Regelungen des § 6, vorrangig Bewerber berücksichtigt, die in einer Wahl nach Kreiswahlvorschlägen in 299 Wahlkreisen ermittelt werden. Jede Partei erhält in jedem Land für diejenigen ihrer Bewerber, die in den Wahlkreisen in diesem Land die meisten Erststimmen erhalten haben, die Sitzzahl, die von den auf die Partei entfallenden Zweitstimmen gedeckt ist (Zweitstimmenabdeckung).
+
+(4) Die Wahl in den Wahlkreisen steht Bewerbern, die nicht von einer Partei vorgeschlagen werden, nach den sich aus diesem Gesetz ergebenden Anforderungen offen.
 
 # § 2 – Gliederung des Wahlgebietes
 
@@ -317,7 +321,7 @@ Anlage 2
 
 1. die Ländergrenzen sind einzuhalten.
 
-2. Die Zahl der Wahlkreise in den einzelnen Ländern muß deren Bevölkerungsanteil soweit wie möglich entsprechen. Sie wird mit demselben Berechnungsverfahren ermittelt, das nach § 6 Abs. 2 Satz 2 bis 7 für die Verteilung der Sitze auf die Landeslisten angewandt wird.
+2. Die Zahl der Wahlkreise in den einzelnen Ländern muß deren Bevölkerungsanteil soweit wie möglich entsprechen. Sie wird entsprechend § 5 ermittelt.
 
 3. Die Bevölkerungszahl eines Wahlkreises soll von der durchschnittlichen Bevölkerungszahl der Wahlkreise nicht um mehr als 15 vom Hundert nach oben oder unten abweichen; beträgt die Abweichung mehr als 25 vom Hundert, ist eine Neuabgrenzung vorzunehmen.
 
@@ -335,29 +339,39 @@ Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1 des Aufen
 
 (5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes geändert, so ändern sich entsprechend auch die Grenzen der betroffenen Wahlkreise. Werden im aufnehmenden Land zwei oder mehrere Wahlkreise berührt oder wird eine Exklave eines Landes gebildet, so bestimmt sich die Wahlkreiszugehörigkeit des neuen Landesteiles nach der Wahlkreiszugehörigkeit der Gemeinde, des Gemeindebezirks oder des gemeindefreien Gebietes, denen er zugeschlagen wird. Änderungen von Landesgrenzen, die nach Ablauf des 32. Monats nach Beginn der Wahlperiode vorgenommen werden, wirken sich auf die Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
 
-# § 4 – Stimmen
+# § 4 – Grundsätze der Verteilung der Sitze auf Parteien
 
-Jeder Wähler hat zwei Stimmen, eine Erststimme für die Wahl eines Wahlkreisabgeordneten, eine Zweitstimme für die Wahl einer Landesliste.
+(1) Die Gesamtzahl der Sitze (§ 1 Absatz 1) wird nach den Grundsätzen der Verhältniswahl zunächst auf die Parteien in Bezug auf das ganze Wahlgebiet und dann auf die Landeslisten jeder Partei verteilt. Von der Gesamtzahl der Sitze wird die Zahl der nach § 6 Absatz 2 erfolgreichen Wahlkreisbewerber abgezogen.
 
-# § 5 – Wahl in den Wahlkreisen
+(2) Zwischen den Parteien werden die Sitze im Verhältnis der Zahl der Zweitstimmen, die im Wahlgebiet für die Landeslisten der Partei abgegeben wurden, nach § 5 verteilt (Oberverteilung). Nicht berücksichtigt werden dabei
 
-In jedem Wahlkreis wird ein Abgeordneter gewählt. Gewählt ist der Bewerber, der die meisten Stimmen auf sich vereinigt. Bei Stimmengleichheit entscheidet das vom Kreiswahlleiter zu ziehende Los.
+1. die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen Bewerber abgegeben haben, der gemäß § 6 Absatz 2 erfolgreich ist, und
 
-# § 6 – Wahl nach Landeslisten
+2. Parteien, die weniger als 5 Prozent der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten haben.
 
-(1) Für die Verteilung der nach Landeslisten zu besetzenden Sitze werden die für jede Landesliste abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Absatz 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 3 bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem betreffenden Land keine Landesliste zugelassen ist. Von der Gesamtzahl der Abgeordneten (§ 1 Absatz 1) wird die Zahl der erfolgreichen Wahlkreisbewerber abgezogen, die in Satz 2 genannt sind.
+Satz 2 Nummer 2 findet keine Anwendung auf Listen, die von Parteien nationaler Minderheiten eingereicht wurden.
 
-(2) In einer ersten Verteilung wird zunächst die Gesamtzahl der Sitze (§ 1 Absatz 1) in dem in Satz 2 bis 7 beschriebenen Berechnungsverfahren den Ländern nach deren Bevölkerungsanteil (§ 3 Absatz 1) und sodann in jedem Land die Zahl der dort nach Absatz 1 Satz 3 verbleibenden Sitze auf der Grundlage der zu berücksichtigenden Zweitstimmen den Landeslisten zugeordnet. Jede Landesliste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer erhaltenen Zweitstimmen durch einen Zuteilungsdivisor ergeben. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Zahl der zu vergebenden Sitze eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende Los. Der Zuteilungsdivisor ist so zu bestimmen, dass insgesamt so viele Sitze auf die Landeslisten entfallen, wie Sitze zu vergeben sind. Dazu wird zunächst die Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Landeslisten durch die Zahl der jeweils nach Absatz 1 Satz 3 verbleibenden Sitze geteilt. Entfallen danach mehr Sitze auf die Landeslisten, als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt; entfallen zu wenig Sitze auf die Landeslisten, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
+(3) Für jede Partei werden die auf sie nach Absatz 2 entfallenden Sitze auf ihre Landeslisten im Verhältnis der Zahl der Zweitstimmen der Landeslisten nach § 5 verteilt (Unterverteilung).
 
-(3) Bei Verteilung der Sitze auf die Landeslisten werden nur Parteien berücksichtigt, die mindestens 5 Prozent der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten oder in mindestens drei Wahlkreisen einen Sitz errungen haben. Satz 1 findet auf die von Parteien nationaler Minderheiten eingereichten Listen keine Anwendung.
+(4) Erhält bei der Verteilung der Sitze eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. In einem solchen Fall erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
-(4) Von der für jede Landesliste so ermittelten Sitzzahl wird die Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze (§ 5) abgerechnet. In den Wahlkreisen errungene Sitze verbleiben einer Partei auch dann, wenn sie die nach den Absätzen 2 und 3 ermittelte Zahl übersteigen.
+# § 5 – Berechnung der Sitzverteilung
 
-(5) Die Zahl der nach Absatz 1 Satz 3 verbleibenden Sitze wird so lange erhöht, bis jede Partei bei der zweiten Verteilung der Sitze nach Absatz 6 Satz 1 mindestens die Gesamtzahl der ihren Landeslisten nach den Sätzen 2 und 3 zugeordneten Sitze erhält. Dabei wird jeder Landesliste der höhere Wert aus entweder der Zahl der im Land von Wahlbewerbern der Partei in den Wahlkreisen nach § 5 errungenen Sitze oder dem auf ganze Sitze aufgerundeten Mittelwert zwischen diesen und den für die Landesliste der Partei nach der ersten Verteilung nach den Absätzen 2 und 3 ermittelten Sitzen zugeordnet. Jede Partei erhält mindestens die bei der ersten Verteilung nach den Absätzen 2 und 3 für ihre Landeslisten ermittelten Sitze. Bei der Erhöhung bleiben in den Wahlkreisen errungene Sitze, die nicht nach Absatz 4 Satz 1 von der Zahl der für die Landesliste ermittelten Sitze abgerechnet werden können, bis zu einer Zahl von drei unberücksichtigt. Die Gesamtzahl der Sitze (§ 1 Absatz 1) erhöht sich um die Unterschiedszahl.
+(1) Zur Ermittlung der Oberverteilung wird die Zahl der zu berücksichtigenden Zweitstimmen im Wahlgebiet durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet. Zur Ermittlung der Unterverteilung wird für jede Partei die Zahl der auf ihre Landeslisten jeweils entfallenden Zweitstimmen durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet.
 
-(6) Die nach Absatz 5 zu vergebenden Sitze werden in jedem Fall bundesweit nach der Zahl der zu berücksichtigenden Zweitstimmen in dem in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf die nach Absatz 3 zu berücksichtigenden Parteien verteilt. In den Parteien werden die Sitze nach der Zahl der zu berücksichtigenden Zweitstimmen in dem in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf die Landeslisten verteilt; dabei wird jeder Landesliste mindestens die nach Absatz 5 Satz 2 für sie ermittelte Sitzzahl zugeteilt. Von der für jede Landesliste ermittelten Sitzzahl wird die Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze (§ 5) abgerechnet. In den Wahlkreisen errungene Sitze verbleiben einer Partei auch dann, wenn sie die nach Satz 1 ermittelte Zahl übersteigen. In diesem Fall erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl; eine erneute Berechnung nach Satz 1 findet nicht statt. Die restlichen Sitze werden aus der Landesliste in der dort festgelegten Reihenfolge besetzt. Bewerber, die in einem Wahlkreis gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze, als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
+(2) Der Zuteilungsdivisor wird so bestimmt, dass alle verfügbaren Sitze verteilt werden. Zur Bestimmung des Zuteilungsdivisors wird die Summe der jeweils zugrunde liegenden Stimmenzahlen durch die Anzahl der verfügbaren Sitze geteilt. Werden mit diesem Zuteilungsdivisor insgesamt mehr Sitze vergeben als verfügbar sind, ist der Zuteilungsdivisor so heraufzusetzen, dass bei erneuter Zuteilung sich die Anzahl der verfügbaren Sitze ergibt; entfallen zu wenig Sitze auf die Parteien, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
 
-(7) Erhält bei der Verteilung der Sitze nach den Absätzen 2 bis 6 eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. Die Sitze werden in der Partei entsprechend Absatz 6 Satz 2 bis 6 verteilt. In einem solchen Falle erhöht sich die nach Absatz 5 ermittelte Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
+(3) Die Teilungsergebnisse bei der Berechnung nach Absatz 1 werden gerundet, indem Zahlenbruchteile unter 0,5 zur darunterliegenden ganzen Zahl abgerundet und solche über 0,5 zur darüber liegenden ganzen Zahl aufgerundet werden. Zahlenbruchteile, die gleich 0,5 sind, werden so ab- oder aufgerundet, dass die Anzahl der verfügbaren Sitze eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende Los.
+
+# § 6 – Vergabe der Sitze an Bewerber
+
+(1) Ein Wahlkreisbewerber einer Partei (§ 20 Absatz 2) ist dann als Abgeordneter gewählt, wenn er die meisten Erststimmen auf sich vereinigt und im Verfahren der Zweitstimmendeckung (Satz 4) einen Sitz erhält. In jedem Land werden die Bewerber einer Partei, die in den Wahlkreisen die meisten Erststimmen erhalten haben, nach fallendem Erststimmenanteil gereiht. Der Erststimmenanteil ergibt sich aus der Teilung der Zahl der Erststimmen des Bewerbers durch die Gesamtzahl der gültigen Erststimmen in diesem Wahlkreis. Die nach § 4 Absatz 3 für die Landesliste einer Partei ermittelten Sitze werden in der nach Satz 2 gebildeten Reihenfolge an die Wahlkreisbewerber vergeben (Verfahren der Zweitstimmendeckung).
+
+(2) Ein Bewerber, der nach § 20 Absatz 3 vorgeschlagen ist, ist als Abgeordneter eines Wahlkreises dann gewählt, wenn er die meisten Erststimmen auf sich vereinigt.
+
+(3) Bei Stimmengleichheit und bei gleichen Erststimmenanteilen entscheidet das Los. Es ist zwischen Bewerbern in einem Wahlkreis (Absatz 1 Satz 1, Absatz 2) vom Kreiswahlleiter, zwischen Bewerbern im Verfahren der Zweitstimmendeckung (Absatz 1 Satz 4) vom Bundeswahlleiter zu ziehen.
+
+(4) Ein Listenbewerber ist dann als Abgeordneter gewählt, wenn er bei der Vergabe der Sitze der Landesliste (§ 4 Absatz 3), die nach dem Verfahren der Zweitstimmendeckung verbleiben, einen Sitz erhält; die Vergabe erfolgt in der Reihenfolge der Landesliste. Bewerber, die nach Absatz 1 Satz 1 gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
 
 # § 7 – (weggefallen)
 
@@ -480,7 +494,7 @@ Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag muß ein 
 
 # § 18 – Wahlvorschlagsrecht, Beteiligungsanzeige
 
-(1) Wahlvorschläge können von Parteien und nach Maßgabe des § 20 von Wahlberechtigten eingereicht werden.
+(1) Wahlvorschläge können von Parteien und von Wahlberechtigten nach Maßgabe des § 20 eingereicht werden.
 
 (2) Parteien, die im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren, können als solche einen Wahlvorschlag nur einreichen, wenn sie spätestens am siebenundneunzigsten Tage vor der Wahl bis 18 Uhr dem Bundeswahlleiter ihre Beteiligung an der Wahl schriftlich angezeigt haben und der Bundeswahlausschuß ihre Parteieigenschaft festgestellt hat. In der Anzeige ist anzugeben, unter welchem Namen sich die Partei an der Wahl beteiligen will. Die Anzeige muß von mindestens drei Mitgliedern des Bundesvorstandes, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat eine Partei keinen Bundesvorstand, so tritt der Vorstand der jeweils obersten Parteiorganisation an die Stelle des Bundesvorstandes. Die schriftliche Satzung und das schriftliche Programm der Partei sowie ein Nachweis über die satzungsgemäße Bestellung des Vorstandes sind der Anzeige beizufügen. Der Anzeige sollen Nachweise über die Parteieigenschaft nach § 2 Absatz 1 Satz 1 des Parteiengesetzes beigefügt werden.
 
@@ -516,7 +530,7 @@ Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter
 
 (1) Der Kreiswahlvorschlag darf nur den Namen eines Bewerbers enthalten. Jeder Bewerber kann nur in einem Wahlkreis und hier nur in einem Kreiswahlvorschlag benannt werden. Als Bewerber kann nur vorgeschlagen werden, wer seine Zustimmung dazu schriftlich erteilt hat; die Zustimmung ist unwiderruflich.
 
-(2) Kreiswahlvorschläge von Parteien müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein. Kreiswahlvorschläge der in § 18 Abs. 2 genannten Parteien müssen außerdem von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein; die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Kreiswahlvorschlages nachzuweisen. Das Erfordernis von 200 Unterschriften gilt nicht für Kreiswahlvorschläge von Parteien nationaler Minderheiten.
+(2) Kreiswahlvorschläge von Parteien müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein. Sie können nur dann zugelassen werden, wenn für die Partei in dem betreffenden Land eine Landesliste zugelassen wird. Kreiswahlvorschläge der in § 18 Abs. 2 genannten Parteien müssen außerdem von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein; die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Kreiswahlvorschlages nachzuweisen. Das Erfordernis von 200 Unterschriften gilt nicht für Kreiswahlvorschläge von Parteien nationaler Minderheiten.
 
 (3) Andere Kreiswahlvorschläge müssen von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein. Absatz 2 Satz 2 zweiter Halbsatz gilt entsprechend.
 
@@ -560,7 +574,7 @@ Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch gemeinsa
 
 1. die Form oder Frist des § 19 nicht gewahrt ist,
 
-2. die nach § 20 Abs. 2 Sätze 1 und 2 sowie Absatz 3 erforderlichen gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner fehlen, es sei denn, der Nachweis kann infolge von Umständen, die der Wahlvorschlagsberechtigte nicht zu vertreten hat, nicht rechtzeitig erbracht werden,
+2. die nach § 20 Absatz 2 Satz 1 und 3 sowie Absatz 3 erforderlichen gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner fehlen, es sei denn, der Nachweis kann infolge von Umständen, die der Wahlvorschlagsberechtigte nicht zu vertreten hat, nicht rechtzeitig erbracht werden,
 
 3. bei einem Parteiwahlvorschlag die Parteibezeichnung fehlt, die nach § 18 Abs. 2 erforderliche Feststellung der Parteieigenschaft abgelehnt ist oder die Nachweise des § 21 nicht erbracht sind,
 
@@ -580,21 +594,21 @@ Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch gemeinsa
 
 2. den Anforderungen nicht entsprechen, die durch dieses Gesetz und die Bundeswahlordnung aufgestellt sind, es sei denn, daß in diesen Vorschriften etwas anderes bestimmt ist.
 
-Die Entscheidung ist in der Sitzung des Kreiswahlausschusses bekanntzugeben.
+Die Zulassung eines Kreiswahlvorschlags einer Partei erfolgt unter der Bedingung, dass die Landesliste der einreichenden Partei nach § 28 zugelassen wird. Die Entscheidung ist in der Sitzung des Kreiswahlausschusses bekanntzugeben.
 
 (2) Weist der Kreiswahlausschuß einen Kreiswahlvorschlag zurück, so kann binnen drei Tagen nach Bekanntgabe der Entscheidung Beschwerde an den Landeswahlausschuß eingelegt werden. Beschwerdeberechtigt sind die Vertrauensperson des Kreiswahlvorschlages, der Bundeswahlleiter und der Kreiswahlleiter. Der Bundeswahlleiter und der Kreiswahlleiter können auch gegen eine Entscheidung, durch die ein Kreiswahlvorschlag zugelassen wird, Beschwerde erheben. In der Beschwerdeverhandlung sind die erschienenen Beteiligten zu hören. Die Entscheidung über die Beschwerde muß spätestens am zweiundfünfzigsten Tage vor der Wahl getroffen werden.
 
-(3) Der Kreiswahlleiter macht die zugelassenen Kreiswahlvorschläge spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
+(3) Der Bedingungseintritt des Absatzes 1 Satz 3 wird durch den Kreiswahlleiter festgestellt. Der Kreiswahlleiter macht die zugelassenen Kreiswahlvorschläge spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
 # § 27 – Landeslisten
 
-(1) Landeslisten können nur von Parteien eingereicht werden. Sie müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, bei den in § 18 Abs. 2 genannten Parteien außerdem von 1 vom Tausend der Wahlberechtigten des Landes bei der letzten Bundestagswahl, jedoch höchstens 2.000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung der Unterzeichner eines Wahlvorschlages einer der in § 18 Abs. 2 genannten Parteien muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung der Landesliste nachzuweisen. Das Erfordernis zusätzlicher Unterschriften gilt nicht für Landeslisten von Parteien nationaler Minderheiten.
+(1) Landeslisten können nur von Parteien eingereicht werden. Sie müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, bei den in § 18 Abs. 2 genannten Parteien außerdem von 1 vom Tausend der Wahlberechtigten des Landes bei der letzten Bundestagswahl, jedoch höchstens 2 000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung der Unterzeichner eines Wahlvorschlages einer der in § 18 Abs. 2 genannten Parteien muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung der Landesliste nachzuweisen. Das Erfordernis zusätzlicher Unterschriften gilt nicht für Landeslisten von Parteien nationaler Minderheiten.
 
 (2) Landeslisten müssen den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese enthalten.
 
 (3) Die Namen der Bewerber müssen in erkennbarer Reihenfolge aufgeführt sein.
 
-(4) Ein Bewerber kann nur in einem Land und hier nur in einer Landesliste vorgeschlagen werden. In einer Landesliste kann nur benannt werden, wer seine Zustimmung dazu schriftlich erklärt hat; die Zustimmung ist unwiderruflich.
+(4) Ein Bewerber kann nur in einem Land und hier nur in einer Landesliste vorgeschlagen werden. Als Bewerber einer Landesliste kann nur vorgeschlagen werden, wer nicht als Bewerber nach § 20 Absatz 3 vorgeschlagen ist. In einer Landesliste kann nur benannt werden, wer seine Zustimmung dazu schriftlich erklärt hat; die Zustimmung ist unwiderruflich.
 
 (5) § 21 Abs. 1, 3, 5 und 6 sowie die §§ 22 bis 25 gelten entsprechend mit der Maßgabe, daß die Versicherung an Eides Statt nach § 21 Abs. 6 Satz 2 sich auch darauf zu erstrecken hat, daß die Festlegung der Reihenfolge der Bewerber in der Landesliste in geheimer Abstimmung erfolgt ist.
 
@@ -750,15 +764,15 @@ Der Wahlvorstand entscheidet über die Gültigkeit der abgegebenen Stimmen und �
 
 # § 41 – Feststellung des Wahlergebnisses im Wahlkreis
 
-Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind und welcher Bewerber als Wahlkreisabgeordneter gewählt ist. Der Kreiswahlleiter benachrichtigt den gewählten Bewerber und weist ihn darauf hin, dass er nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Abs. 2 Satz 1) die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangt und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
+Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind.
 
 # § 42 – Feststellung des Ergebnisses der Landeslistenwahl
 
-(1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für die einzelnen Landeslisten abgegeben worden sind.
+(1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für die einzelnen Landeslisten abgegeben worden sind. Der Bundeswahlausschuss stellt fest, wie viele Sitze auf die einzelnen Landeslisten entfallen.
 
-(2) Der Bundeswahlausschuß stellt fest, wieviel Sitze auf die einzelnen Landeslisten entfallen und welche Bewerber gewählt sind. Der Landeswahlleiter benachrichtigt die gewählten Bewerber und weist sie darauf hin, dass sie nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangen und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
+(2) Der Landeswahlausschuss stellt vorläufig fest, welche Bewerber gewählt sind. Der Landeswahlleiter benachrichtigt die gewählten Bewerber und weist sie darauf hin, dass sie nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss nach Absatz 3 Satz 1 die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangen und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
 
-(3) (weggefallen)
+(3) Der Bundeswahlausschuss trifft die Feststellung des Wahlergebnisses und stellt abschließend fest, welche Bewerber gewählt sind. Der Bundeswahlleiter benachrichtigt sie.
 
 # § 43 – Nachwahl
 
@@ -782,15 +796,13 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 (3) Die Wiederholungswahl muß spätestens sechzig Tage nach Rechtskraft der Entscheidung stattfinden, durch die die Wahl für ungültig erklärt worden ist. Ist die Wahl nur teilweise für ungültig erklärt worden, so unterbleibt die Wiederholungswahl, wenn feststeht, daß innerhalb von sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Den Tag der Wiederholungswahl bestimmt der Landeswahlleiter, im Falle einer Wiederholungswahl für das ganze Wahlgebiet der Bundespräsident.
 
-(4) Auf Grund der Wiederholungswahl wird das Wahlergebnis nach den Vorschriften des Sechsten Abschnittes neu festgestellt. Die nach § 41 Satz 2 und § 42 Abs. 2 Satz 2 zuständigen Wahlleiter benachrichtigen die gewählten Bewerber und fordern sie auf, binnen einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
+(4) Auf Grund der Wiederholungswahl wird das Wahlergebnis nach den Vorschriften des Sechsten Abschnittes neu festgestellt. Die nach § 42 Absatz 2 Satz 2 und Absatz 3 Satz 2 zuständigen Wahlleiter benachrichtigen die gewählten Bewerber und fordern sie auf, binnen einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
 
 # § 45 – Erwerb der Mitgliedschaft im Deutschen Bundestag
 
-(1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen Bundestag nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Abs. 2 Satz 1) mit der Eröffnung der ersten Sitzung des Deutschen Bundestages nach der Wahl. Eine Ablehnung des Erwerbs der Mitgliedschaft muss vor der ersten Sitzung gegenüber dem Landeswahlleiter schriftlich erklärt werden. Eine Erklärung unter Vorbehalt gilt als Ablehnung. Die Erklärung kann nicht widerrufen werden.
+(1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen Bundestag nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Absatz 3 Satz 1) mit der Eröffnung der ersten Sitzung des Deutschen Bundestages nach der Wahl. Eine Ablehnung des Erwerbs der Mitgliedschaft muss vor der ersten Sitzung gegenüber dem Landeswahlleiter schriftlich erklärt werden. Eine Erklärung unter Vorbehalt gilt als Ablehnung. Die Erklärung kann nicht widerrufen werden.
 
-(2) Bei einer Ersatzwahl (§ 48 Abs. 2) gilt Absatz 1 entsprechend mit der Maßgabe, dass ein gewählter Bewerber die Mitgliedschaft im Deutschen Bundestag nach der Feststellung des endgültigen Wahlergebnisses für die Ersatzwahl erwirbt.
-
-(3) Bei einer Listennachfolge (§ 48 Abs. 1) oder einer Wiederholungswahl (§ 44) wird die Mitgliedschaft im Deutschen Bundestag mit dem frist- und formgerechten Eingang der auf die Benachrichtigung erfolgenden Annahmeerklärung beim zuständigen Wahlleiter, jedoch nicht vor Ausscheiden des ursprünglich gewählten Abgeordneten erworben. Liegt bei Ablehnung des Erwerbs der Mitgliedschaft im Deutschen Bundestag durch einen gewählten Bewerber die Annahmeerklärung des Listennachfolgers bereits vor der ersten Sitzung des Deutschen Bundestages nach der Wahl vor, erwirbt der Listennachfolger das Mandat mit der Eröffnung dieser Sitzung. Gibt der Listennachfolger oder durch Wiederholungswahl gewählte Bewerber bis zum Ablauf der Frist keine oder keine formgerechte Erklärung ab, so gilt die Nachfolge oder Wahl zu diesem Zeitpunkt als angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
+(2) Bei einer Nachfolge (§ 48 Abs. 1) oder einer Wiederholungswahl (§ 44) wird die Mitgliedschaft im Deutschen Bundestag mit dem frist- und formgerechten Eingang der auf die Benachrichtigung erfolgenden Annahmeerklärung beim zuständigen Wahlleiter, jedoch nicht vor Ausscheiden des ursprünglich gewählten Abgeordneten erworben. Liegt bei Ablehnung des Erwerbs der Mitgliedschaft im Deutschen Bundestag durch einen gewählten Bewerber die Annahmeerklärung des Nachfolgers bereits vor der ersten Sitzung des Deutschen Bundestages nach der Wahl vor, erwirbt der Nachfolger das Mandat mit der Eröffnung dieser Sitzung. Gibt der Nachfolger oder durch Wiederholungswahl gewählte Bewerber bis zum Ablauf der Frist keine oder keine formgerechte Erklärung ab, so gilt die Nachfolge oder Wahl zu diesem Zeitpunkt als angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 # § 46 – Verlust der Mitgliedschaft im Deutschen Bundestag
 
@@ -808,11 +820,11 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
-(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete Mitglied des Bundestages, wenn er zugleich auf einer Landesliste gewählt war, aber nach § 6 Absatz 6 Satz 7 unberücksichtigt geblieben ist.
+(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete Mitglied des Bundestages, wenn er zugleich auf einer Landesliste gewählt war, aber nach § 6 Absatz 4 Satz 2 unberücksichtigt geblieben ist.
 
 (3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des Präsidenten des Deutschen Bundestages, eines deutschen Notars, der seinen Sitz im Geltungsbereich dieses Gesetzes hat, oder eines zur Vornahme von Beurkundungen ermächtigten Bediensteten einer deutschen Auslandsvertretung erklärt wird. Die notarielle oder bei einer Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht widerrufen werden.
 
-(4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Listennachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
+(4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
 # § 47 – Entscheidung über den Verlust der Mitgliedschaft
 
@@ -830,11 +842,11 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (3) Entscheidet der Ältestenrat oder der Präsident des Deutschen Bundestages über den Verlust der Mitgliedschaft, so scheidet der Abgeordnete mit der Entscheidung aus dem Deutschen Bundestag aus. Die Entscheidung ist unverzüglich von Amts wegen zu treffen. Innerhalb von zwei Wochen nach Zustellung der Entscheidung kann der Betroffene die Entscheidung des Deutschen Bundestages über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren beantragen. Die Zustellung erfolgt nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
-# § 48 – Berufung von Listennachfolgern und Ersatzwahlen
+# § 48 – Berufung von Nachfolgern
 
-(1) Wenn ein gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz aus der Landesliste derjenigen Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Dies gilt nicht, solange die Partei in dem betreffenden Land Mandate gemäß § 6 Absatz 6 Satz 4 innehat. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Listennachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Listennachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
+(1) Wenn ein nach § 6 Absatz 1 oder 4 gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein nach § 6 Absatz 1 oder 4 gewählter Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz mit dem nach den Grundsätzen des § 6 Absatz 1, 3 und 4 nachfolgenden Bewerber der Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Entsprechendes gilt für Bewerber, die als Kreiswahlvorschlag dieser Partei aufgestellt wurden. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Nachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Nachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
-(2) Ist der Ausgeschiedene als Wahlkreisabgeordneter einer Wählergruppe oder einer Partei gewählt, für die im Land keine Landesliste zugelassen worden war, so findet Ersatzwahl im Wahlkreis statt. Die Ersatzwahl muß spätestens sechzig Tage nach dem Zeitpunkt des Ausscheidens stattfinden. Sie unterbleibt, wenn feststeht, daß innerhalb von sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Die Ersatzwahl wird nach den allgemeinen Vorschriften durchgeführt. Den Wahltag bestimmt der Landeswahlleiter. § 41 gilt entsprechend.
+(2) Ist der Ausgeschiedene nach § 6 Absatz 2 gewählt, bleibt der Sitz unbesetzt.
 
 # § 49 – Anfechtung
 
@@ -920,7 +932,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 16. die Feststellung der Wahlergebnisse, ihre Weitermeldung und Bekanntgabe sowie die Benachrichtigung der Gewählten,
 
-17. die Durchführung von Nachwahlen, Wiederholungswahlen und Ersatzwahlen sowie die Berufung von Listennachfolgern.
+17. die Durchführung von Nachwahlen und Wiederholungswahlen sowie die Berufung von Nachfolgern.
 
 (2) Die Rechtsvorschriften bedürfen nicht der Zustimmung des Bundesrates.
 

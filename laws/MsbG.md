@@ -1199,7 +1199,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 # § 66 – Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung oder Anonymisierung
 
-(1) Der Netzbetreiber darf erhaltene Messwerte ausschließlich verwenden, soweit dies für folgende Zwecke zwingend erforderlich ist:
+(1) Der Netzbetreiber darf erhaltene Messwerte ausschließlich verarbeiten, soweit dies für folgende Zwecke zwingend erforderlich ist:
 
 1. Durchführung der Netznutzungsabrechnung,
 
