@@ -1088,13 +1088,21 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 2. den Ausgleich für unvermeidbare Verdienstausfälle des Leistungsberechtigten oder einer erforderlichen Begleitperson wegen Fahrten der An- und Abreise zu einer Bildungsmaßnahme und zur Vorstellung bei einem Arbeitgeber, bei einem Träger oder einer Einrichtung für Menschen mit Behinderungen, durch die Rehabilitationsträger nach § 6 Absatz 1 Nummer 2 bis 5,
 
+2a. die Kosten eines Jobcoachings,
+
 3. die Kosten einer notwendigen Arbeitsassistenz für schwerbehinderte Menschen als Hilfe zur Erlangung eines Arbeitsplatzes,
 
 4. die Kosten für Hilfsmittel, die wegen Art oder Schwere der Behinderung erforderlich sind
 
 a) zur Berufsausübung,
 
-b) zur Teilhabe an einer Leistung zur Teilhabe am Arbeitsleben oder zur Erhöhung der Sicherheit auf dem Weg vom und zum Arbeitsplatz und am Arbeitsplatz selbst, es sei denn, dass eine Verpflichtung des Arbeitgebers besteht oder solche Leistungen als medizinische Leistung erbracht werden können,
+b) zur Teilhabe an einer Leistung zur Teilhabe am Arbeitsleben,
+
+c) zur Erhöhung der Sicherheit auf dem Weg vom und zum Arbeitsplatz oder
+
+d) zur Erhöhung der Sicherheit am Arbeitsplatz selbst,
+
+es sei denn, dass eine Verpflichtung des Arbeitgebers besteht oder solche Leistungen als medizinische Leistung erbracht werden können,
 
 5. die Kosten technischer Arbeitshilfen, die wegen Art oder Schwere der Behinderung zur Berufsausübung erforderlich sind und
 
@@ -1264,7 +1272,7 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 58 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein sozialversicherungspflichtiges Arbeitsverhältnis mit einer tarifvertraglichen oder ortsüblichen Entlohnung angeboten wird, erhalten mit Abschluss dieses Arbeitsvertrages als Leistungen zur Teilhabe am Arbeitsleben ein Budget für Arbeit.
 
-(2) Das Budget für Arbeit umfasst einen Lohnkostenzuschuss an den Arbeitgeber zum Ausgleich der Leistungsminderung des Beschäftigten und die Aufwendungen für die wegen der Behinderung erforderliche Anleitung und Begleitung am Arbeitsplatz. Der Lohnkostenzuschuss beträgt bis zu 75 Prozent des vom Arbeitgeber regelmäßig gezahlten Arbeitsentgelts, höchstens jedoch 40 Prozent der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches. Dauer und Umfang der Leistungen bestimmen sich nach den Umständen des Einzelfalles. Durch Landesrecht kann von dem Prozentsatz der Bezugsgröße nach Satz 2 zweiter Halbsatz nach oben abgewichen werden.
+(2) Das Budget für Arbeit umfasst einen Lohnkostenzuschuss an den Arbeitgeber zum Ausgleich der Leistungsminderung des Beschäftigten und die Aufwendungen für die wegen der Behinderung erforderliche Anleitung und Begleitung am Arbeitsplatz. Der Lohnkostenzuschuss beträgt bis zu 75 Prozent des vom Arbeitgeber regelmäßig gezahlten Arbeitsentgelts. Dauer und Umfang der Leistungen bestimmen sich nach den Umständen des Einzelfalles.
 
 (3) Ein Lohnkostenzuschuss ist ausgeschlossen, wenn zu vermuten ist, dass der Arbeitgeber die Beendigung eines anderen Beschäftigungsverhältnisses veranlasst hat, um durch die ersatzweise Einstellung eines Menschen mit Behinderungen den Lohnkostenzuschuss zu erhalten.
 
@@ -1290,7 +1298,7 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 (4) Die wegen der Behinderung erforderliche Anleitung und Begleitung kann von mehreren Leistungsberechtigten gemeinsam in Anspruch genommen werden.
 
-(5) Die Bundesagentur für Arbeit soll den Menschen mit Behinderungen bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von Absatz 1 unterstützen. Dies umfasst im Fall des Absatzes 2 Satz 4 auch die Unterstützung bei der Suche nach einer geeigneten Einrichtung der beruflichen Rehabilitation.
+(5) Die Bundesagentur für Arbeit soll den Menschen mit Behinderungen bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von Absatz 1 unterstützen. Dies umfasst im Fall des Absatzes 2 Satz 2 auch die Unterstützung bei der Suche nach einer geeigneten Einrichtung der beruflichen Rehabilitation.
 
 # § 62 – Wahlrecht des Menschen mit Behinderungen
 
@@ -1889,7 +1897,7 @@ Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzun
 
 (1) Werden Leistungen der Eingliederungshilfe in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst die Leistung auch die Pflegeleistungen in diesen Einrichtungen oder Räumlichkeiten. Stellt der Leistungserbringer fest, dass der Mensch mit Behinderungen so pflegebedürftig ist, dass die Pflege in diesen Einrichtungen oder Räumlichkeiten nicht sichergestellt werden kann, vereinbaren der Träger der Eingliederungshilfe und die zuständige Pflegekasse mit dem Leistungserbringer, dass die Leistung bei einem anderen Leistungserbringer erbracht wird; dabei ist angemessenen Wünschen des Menschen mit Behinderungen Rechnung zu tragen. Die Entscheidung zur Vorbereitung der Vereinbarung nach Satz 2 erfolgt nach den Regelungen zur Gesamtplanung nach Kapitel 7.
 
-(2) Werden Leistungen der Eingliederungshilfe außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst die Leistung auch die Leistungen der häuslichen Pflege nach den §§ 64a bis 64f, 64i und 66 des Zwölften Buches, solange die Teilhabeziele nach Maßgabe des Gesamtplanes (§ 121) erreicht werden können, es sei denn der Leistungsberechtigte hat vor Vollendung des für die Regelaltersrente im Sinne des Sechsten Buches erforderlichen Lebensjahres keine Leistungen der Eingliederungshilfe erhalten. Satz 1 gilt entsprechend in Fällen, in denen der Leistungsberechtigte vorübergehend Leistungen nach den §§ 64g und 64h des Zwölften Buches in Anspruch nimmt. Die Länder können durch Landesrecht bestimmen, dass der für die Leistungen der häuslichen Pflege zuständige Träger der Sozialhilfe die Kosten der vom Träger der Eingliederungshilfe erbrachten Leistungen der häuslichen Pflege zu erstatten hat.
+(2) Werden Leistungen der Eingliederungshilfe außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst die Leistung auch die Leistungen der häuslichen Pflege nach den §§ 64a bis 64f, 64i bis 64k und 66 des Zwölften Buches, solange die Teilhabeziele nach Maßgabe des Gesamtplanes (§ 121) erreicht werden können, es sei denn der Leistungsberechtigte hat vor Vollendung des für die Regelaltersrente im Sinne des Sechsten Buches erforderlichen Lebensjahres keine Leistungen der Eingliederungshilfe erhalten. Satz 1 gilt entsprechend in Fällen, in denen der Leistungsberechtigte vorübergehend Leistungen nach den §§ 64g und 64h des Zwölften Buches in Anspruch nimmt. Die Länder können durch Landesrecht bestimmen, dass der für die Leistungen der häuslichen Pflege zuständige Träger der Sozialhilfe die Kosten der vom Träger der Eingliederungshilfe erbrachten Leistungen der häuslichen Pflege zu erstatten hat.
 
 # § 104 – Leistungen nach der Besonderheit des Einzelfalles
 
@@ -2259,7 +2267,7 @@ Der Träger der Eingliederungshilfe kann mit dem Leistungsberechtigten eine Teil
 
 1. private und öffentliche Arbeitgeber gemäß § 61 oder § 61a sowie
 
-2. Einrichtungen der beruflichen Rehabilitation, in denen der schulische Teil der Ausbildung nach § 61a Absatz 2 Satz 4 erfolgen kann.
+2. Einrichtungen der beruflichen Rehabilitation, in denen der schulische Teil der Ausbildung nach § 61a Absatz 2 Satz 2 erfolgen kann.
 
 (4) Besteht eine schriftliche Vereinbarung, so ist der Leistungserbringer, soweit er kein anderer Leistungsanbieter im Sinne des § 60 ist, im Rahmen des vereinbarten Leistungsangebotes verpflichtet, Leistungsberechtigte aufzunehmen und Leistungen der Eingliederungshilfe unter Beachtung der Inhalte des Gesamtplanes nach § 121 zu erbringen. Die Verpflichtung zur Leistungserbringung besteht auch in den Fällen des § 116 Absatz 2.
 
@@ -2695,6 +2703,16 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der Ausweise, ihre Gültigkeit und das Verwaltungsverfahren zu erlassen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze aufzustellen, die für die Bewertung des Grades der Behinderung, die Kriterien für die Bewertung der Hilflosigkeit und die Voraussetzungen für die Vergabe von Merkzeichen maßgebend sind, die nach Bundesrecht im Schwerbehindertenausweis einzutragen sind.
+
+# § 153a – Sachverständigenbeirat, Verfahren
+
+(1) Beim Bundesministerium für Arbeit und Soziales wird ein unabhängiger „Sachverständigenbeirat Versorgungsmedizinische Begutachtung“ gebildet. Der Beirat berät das Bundesministerium für Arbeit und Soziales zu allen versorgungsärztlichen Angelegenheiten und bereitet die Fortentwicklung der in der Versorgungsmedizin-Verordnung enthaltenen Versorgungsmedizinischen Grundsätze vor, die bei der Begutachtung im Schwerbehindertenrecht und im Sozialen Entschädigungsrecht verbindlich anzuwenden sind. Dies geschieht teilhabeorientiert auf der Grundlage des aktuellen Standes der medizinischen Wissenschaft und der Medizintechnik unter Berücksichtigung versorgungsmedizinischer Erfordernisse.
+
+(2) Für den Beirat benennen die Länder, der Deutsche Behindertenrat und das Bundesministerium für Arbeit und Soziales jeweils sieben Personen, darunter jeweils mindestens vier Ärztinnen und Ärzte, die versorgungsmedizinisch oder wissenschaftlich besonders qualifiziert sind. Eine der vom Bundesministerium für Arbeit und Soziales zu benennenden Personen ist ein Vertreter oder eine Vertreterin aus dem versorgungsmedizinischen ärztlich-gutachterlichen Bereich der Bundeswehr. Das Bundesministerium für Arbeit und Soziales beruft die benannten Personen als Mitglieder in den Beirat.
+
+(3) Die Mitglieder des Beirates werden für die Dauer von vier Jahren berufen. Die Mitgliedschaft im Beirat ist ein persönliches Ehrenamt, das keine Vertretung zulässt. Die Mitglieder des Beirates unterliegen keinerlei Weisungen, üben ihre Tätigkeit unabhängig aus und sind nur ihrem Gewissen verantwortlich. Scheidet ein Mitglied aus, erfolgt für dieses Mitglied eine Neuberufung für den restlichen Zeitraum der Berufungsperiode. Der Beirat bestimmt durch Wahl aus seiner Mitte den Vorsitz sowie die Stellvertretung des Vorsitzes und gibt sich eine Geschäftsordnung. Die Geschäftsführung des Beirates wird vom Bundesministerium für Arbeit und Soziales ausgeübt, welches zu den Sitzungen einlädt und im Einvernehmen mit dem vorsitzenden Mitglied die Tagesordnung festlegt.
+
+(4) Die Beschlüsse des Beirates werden mit einfacher Mehrheit der berufenen Mitglieder gefasst. Zu den Beratungen des Beirates können externe Sachverständige hinzugezogen werden. Es können Arbeitsgruppen gebildet werden.
 
 # § 154 – Pflicht der Arbeitgeber zur Beschäftigung schwerbehinderter Menschen
 
@@ -3651,7 +3669,7 @@ Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung erforderlich 
 
 # § 216 – Aufgaben
 
-Die Inklusionsbetriebe bieten den schwerbehinderten Menschen Beschäftigung, Maßnahmen der betrieblichen Gesundheitsförderung und arbeitsbegleitende Betreuung an, soweit erforderlich auch Maßnahmen der beruflichen Weiterbildung oder Gelegenheit zur Teilnahme an entsprechenden außerbetrieblichen Maßnahmen und Unterstützung bei der Vermittlung in eine sonstige Beschäftigung in einem Betrieb oder einer Dienststelle auf dem allgemeinen Arbeitsmarkt sowie geeignete Maßnahmen zur Vorbereitung auf eine Beschäftigung in einem Inklusionsbetrieb. Satz 1 gilt entsprechend für psychisch kranke Menschen im Sinne des § 215 Absatz 4.
+Die Inklusionsbetriebe bieten den schwerbehinderten Menschen Beschäftigung, Maßnahmen der betrieblichen Gesundheitsförderung und arbeitsbegleitende Betreuung an, soweit erforderlich auch Maßnahmen der beruflichen Weiterbildung oder Gelegenheit zur Teilnahme an entsprechenden außerbetrieblichen Maßnahmen sowie geeignete Maßnahmen zur Vorbereitung auf eine Beschäftigung in einem Inklusionsbetrieb. Satz 1 gilt entsprechend für psychisch kranke Menschen im Sinne des § 215 Absatz 4.
 
 # § 217 – Finanzielle Leistungen
 
