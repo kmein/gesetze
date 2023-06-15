@@ -11,31 +11,11 @@ Diese Verordnung regelt die Grundsätze für die medizinische Bewertung von Sch�
 
 # § 2 – Anlage „Versorgungsmedizinische Grundsätze“
 
-Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu dieser Verordnung<span id="FnR.F1_771649"></span><a href="#F1_771649" class="FnR">*)</a></sup> als deren Bestandteil festgelegt. Die Anlage wird auf der Grundlage des aktuellen Stands der medizinischen Wissenschaft unter Anwendung der Grundsätze der evidenzbasierten Medizin erstellt und fortentwickelt.
+Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu dieser Verordnung<span id="FnR.F1_771649"></span><a href="#F1_771649" class="FnR">*)</a></sup> als deren Bestandteil festgelegt.
 
-# § 3 – Beirat
+# § 3 – (weggefallen)
 
-(1) Beim Bundesministerium für Arbeit und Soziales wird ein unabhängiger „Ärztlicher Sachverständigenbeirat Versorgungsmedizin“ (Beirat) gebildet, der das Bundesministerium für Arbeit und Soziales zu allen versorgungsärztlichen Angelegenheiten berät und die Fortentwicklung der Anlage entsprechend dem aktuellen Stand der medizinischen Wissenschaft und versorgungsmedizinischer Erfordernisse vorbereitet.
-
-(2) Der Beirat hat 17 Mitglieder, und zwar
-
-1. acht versorgungsmedizinisch besonders qualifizierte Ärztinnen oder Ärzte,
-
-2. eine Ärztin oder einen Arzt aus dem versorgungsärztlich-gutachtlichen Bereich der Bundeswehr,
-
-3. acht wissenschaftlich besonders qualifizierte Ärztinnen oder Ärzte versorgungsmedizinisch relevanter Fachgebiete.
-
-(3) Zu den Beratungen des Beirats können externe ärztliche Sachverständige sowie sachkundige ärztliche Vertreter von Behindertenverbänden hinzugezogen werden. Es können Arbeitsgruppen gebildet werden.
-
-(4) Die Mitglieder des Beirats werden vom Bundesministerium für Arbeit und Soziales für die Dauer von vier Jahren berufen. Wiederwahl ist möglich. Das Bundesministerium für Arbeit und Soziales ist berechtigt, Beiratsmitglieder jederzeit ohne Angabe von Gründen abzuberufen. Ein Beiratsmitglied kann jederzeit seine Abberufung beantragen. Dem Antrag ist stattzugeben. Nach Ausscheiden eines Mitglieds erfolgt eine Neuberufung für den restlichen Zeitraum der Berufungsperiode. Der Beirat gibt sich eine Geschäftsordnung und bestimmt durch Wahl aus seiner Mitte den Vorsitz und die Stellvertretung. Die Geschäftsführung des Beirats liegt beim Bundesministerium für Arbeit und Soziales, welches zu den Sitzungen einlädt und im Einvernehmen mit dem vorsitzenden Mitglied die Tagesordnung festlegt.
-
-(5) Die Beratungen des Beirats sind nicht öffentlich. Die Mitgliedschaft im Beirat ist ein persönliches Ehrenamt, das keine Vertretung zulässt. Die Mitglieder des Beirats unterliegen keinerlei Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
-
-(6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige Personen für den Zeitraum der Berufungsperiode des Beirats. Er berücksichtigt dabei die Anliegen von Verbänden, die die Belange von Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die Geschäftsordnung des Beirats gilt auch für die vom Deutschen Behindertenrat benannten Personen.
-
-# § 4 – Beschlüsse
-
-Die Beschlüsse des Beirats werden mit einfacher Mehrheit der nach § 3 Absatz 2 berufenen Mitglieder gefasst.
+# § 4 – (weggefallen)
 
 # § 5 – Inkrafttreten
 

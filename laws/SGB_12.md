@@ -1863,11 +1863,11 @@ Lebt eine nachfragende Person gemeinsam mit anderen Personen in einer Wohnung od
 
 Das Bundesministerium für Arbeit und Soziales hat im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. den für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 maßgeblichen Prozentsatz zu bestimmen und
+1. die für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 maßgeblichen Prozentsätze zu bestimmen und
 
 2. die Anlagen zu den §§ 28 und 34 um die sich durch die Fortschreibung nach Nummer 1 zum 1. Januar eines Jahres ergebenden Regelbedarfsstufen sowie um die sich aus der Fortschreibung nach § 34 Absatz 3a Satz 1 und 2 ergebenden Teilbeträge zu ergänzen.
 
-Der Vomhundertsatz nach Satz 1 Nummer 1 ist auf zwei Dezimalstellen zu berechnen; die zweite Dezimalstelle ist um eins zu erhöhen, wenn sich in der dritten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Die Bestimmungen nach Satz 1 erfolgen bis spätestens zum Ablauf des 31. Oktober des jeweiligen Jahres.
+Der Prozentsatz nach Satz 1 Nummer 1 in Verbindung mit § 28a Absatz 3 ist auf zwei Dezimalstellen zu berechnen; die zweite Dezimalstelle ist um eins zu erhöhen, wenn sich in der dritten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Der Prozentsatz nach Satz 1 Nummer 1 in Verbindung mit § 28a Absatz 4 ist auf eine Dezimalstelle zu berechnen; die erste Dezimalstelle ist um eins zu erhöhen, wenn sich in der zweiten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Die Bestimmungen nach Satz 1 erfolgen bis spätestens zum Ablauf des 31. Oktober des jeweiligen Jahres.
 
 # § 41 – Leistungsberechtigte
 
@@ -2102,13 +2102,13 @@ In Fällen des Satzes 3 Nummer 4 wird die Stellungnahme des Fachausschusses bei 
 
 (1) Die Höhe der durchschnittlichen Warmmiete von Einpersonenhaushalten ergibt sich aus den tatsächlichen Aufwendungen, die für allein in Wohnungen (§ 42a Absatz 2 Satz 1 Nummer 1 und Satz 2) lebende Leistungsberechtigte im Durchschnitt als angemessene Bedarfe für Unterkunft und Heizung anerkannt worden sind. Hierfür sind die Bedarfe derjenigen Leistungsberechtigten in Einpersonenhaushalten heranzuziehen, die im Zuständigkeitsbereich desjenigen für dieses Kapitel zuständigen Trägers der Sozialhilfe leben, in dem die nach § 42 Nummer 4 Buchstabe b oder nach § 42a Absatz 5 Satz 1 maßgebliche Unterkunft liegt. Zuständiger Träger der Sozialhilfe im Sinne des Satzes 2 ist derjenige Träger, der für in Wohnungen lebende Leistungsberechtigte zuständig ist, die zur gleichen Zeit keine Leistungen nach dem Siebten bis Neunten Kapitel oder nach Teil 2 des Neunten Buches erhalten. Hat ein nach Satz 3 zuständiger Träger innerhalb seines örtlichen Zuständigkeitsbereiches mehrere regionale Angemessenheitsgrenzen festgelegt, so sind die sich daraus ergebenden örtlichen Abgrenzungen für die Durchschnittsbildung zu Grunde zu legen.
 
-(2) Die durchschnittliche Warmmiete ist jährlich bis spätestens zum 1. August eines Kalenderjahres neu zu ermitteln. Zur Neuermittlung ist der Durchschnitt aus den anerkannten angemessenen Bedarfen für Unterkunft und Heizung in einem vom zuständigen Träger festzulegenden Zwölfmonatszeitraum zu bilden, sofern dieser nicht von einem Land einheitlich für alle zuständigen Träger festgelegt worden ist. Bei der Ermittlung bleiben die anerkannten Bedarfe derjenigen Leistungsberechtigten außer Betracht, für die
+(2) Die durchschnittliche Warmmiete ist jährlich bis spätestens zum 1. August eines Kalenderjahres neu zu ermitteln. Zur Neuermittlung ist zunächst jeweils gesondert der Durchschnitt aus den anerkannten angemessenen Bedarfen für Unterkunft und der Durchschnitt aus den anerkannten angemessenen Bedarfen für Heizung im Zeitraum 1. Oktober des Vorvorjahres bis 30. Juni des Vorjahres zu bilden. Im zweiten Schritt sind die beiden Durchschnittswerte zu addieren und ergeben in der Summe die durchschnittliche Warmmiete. Bei der Ermittlung bleiben die anerkannten Bedarfe derjenigen Leistungsberechtigten außer Betracht, für die
 
 1. keine Aufwendungen für Unterkunft und Heizung,
 
 2. Aufwendungen für selbstgenutztes Wohneigentum,
 
-3. Aufwendungen nach § 35 Absatz 2 Satz 1
+3. Aufwendungen nach § 35 Absatz 2 Satz 3 und Absatz 3 Satz 1
 
 anerkannt worden sind. Die neu ermittelte durchschnittliche Warmmiete ist ab dem 1. Januar des jeweils folgenden Kalenderjahres für die nach § 42 Nummer 4 Buchstabe b und § 42a Absatz 5 Satz 3 anzuerkennenden Bedarfe für Unterkunft und Heizung anzuwenden.
 
@@ -2560,7 +2560,7 @@ Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf einen Entlas
 
 # § 64j – Digitale Pflegeanwendungen
 
-(1) Pflegebedürftige haben Anspruch auf eine notwendige Versorgung mit Anwendungen, die wesentlich auf digitalen Technologien beruhen, die von den Pflegebedürftigen oder in der Interaktion von Pflegebedürftigen, Angehörigen und zugelassenen ambulanten Pflegeeinrichtungen genutzt werden, um insbesondere Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen zu mindern und einer Verschlimmerung der Pflegebedürftigkeit entgegenzuwirken (digitale Pflegeanwendungen).
+(1) Pflegebedürftige haben Anspruch auf Versorgung mit Anwendungen, die wesentlich auf digitalen Technologien beruhen und von den Pflegebedürftigen oder in der Interaktion von Pflegebedürftigen mit Angehörigen, sonstigen ehrenamtlich Pflegenden oder zugelassenen ambulanten Pflegeeinrichtungen genutzt werden, um Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen zu mindern oder einer Verschlimmerung der Pflegebedürftigkeit entgegenzuwirken (digitale Pflegeanwendungen).
 
 (2) Der Anspruch umfasst nur solche digitalen Pflegeanwendungen, die vom Bundesinstitut für Arzneimittel und Medizinprodukte in das Verzeichnis für digitale Pflegeanwendungen nach § 78a Absatz 3 des Elften Buches aufgenommen wurden.
 

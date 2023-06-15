@@ -4287,6 +4287,8 @@ Im Übrigen gelten die Vorschriften des Kapitels 11 des Teils 1 des Neunten Buch
 
 (2) Der Zeitraum von drei Jahren gilt nicht für Berufsrückkehrende mit Behinderungen. Er verlängert sich um die Dauer einer Beschäftigung als Arbeitnehmerin oder Arbeitnehmer im Ausland, die für die weitere Ausübung des Berufes oder für den beruflichen Aufstieg nützlich und üblich ist, längstens jedoch um zwei Jahre.
 
+(3) Wenn der Mensch mit Behinderungen bereits an einer berufsvorbereitenden Bildungsmaßnahme teilgenommen hat und anschließend an einer Maßnahme der Berufsausbildung teilnimmt, so ist der Eintritt in die berufsvorbereitende Bildungsmaßnahme der maßgebliche Zeitpunkt für den Beginn der Teilnahme nach Absatz 1.
+
 # § 121 – Übergangsgeld ohne Vorbeschäftigungszeit
 
 Ein Mensch mit Behinderungen kann auch dann Übergangsgeld erhalten, wenn die Voraussetzung der Vorbeschäftigungszeit nicht erfüllt ist, jedoch innerhalb des letzten Jahres vor Beginn der Teilnahme
