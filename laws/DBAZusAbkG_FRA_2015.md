@@ -5,11 +5,11 @@
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-# Artikel 1
+# Art 1
 
 Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik zum Abkommen vom 21. Juli 1959 zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern (BGBl. 1961 II S. 397, 398) in der Fassung des Revisionsprotokolls vom 9. Juni 1969 (BGBl. 1970 II S. 717, 719) und der Zusatzabkommen vom 28. September 1989 (BGBl. 1990 II S. 770, 772) und 20. Dezember 2001 (BGBl. 2002 II S. 2370, 2372) wird zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.
 
-# Artikel 2
+# Art 2
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß Artikel 13 a des geänderten Abkommens ist das Bundeszentralamt für Steuern.
 
@@ -25,7 +25,7 @@ Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen der Regi
 
 (7) Der Arbeitgeber hat eine Aufstellung über die Tätigkeitsorte des Grenzgängers im Bescheinigungszeitraum als Beleg zum Lohnkonto (§ 41 Absatz 1 des Einkommensteuergesetzes) zu nehmen; auf Verlangen hat der Arbeitgeber dem Arbeitnehmer hierüber eine Bescheinigung zu erteilen. Bei Wegfall der Grenzgängereigenschaft ist der Arbeitgeber verpflichtet, bei der jeweils nachfolgenden Lohnzahlung noch nicht erhobene Lohnsteuer nachträglich einzubehalten; § 41c des Einkommensteuergesetzes gilt entsprechend.
 
-# Artikel 3
+# Art 3
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß Artikel 13 c Absatz 1 und 2 des geänderten Abkommens und des Abschnitts I Nummer 3 des Protokolls zum geänderten Abkommen ist das Bundeszentralamt für Steuern.
 
@@ -47,7 +47,7 @@ Die Übermittlung erfolgt bis zum 30. April des Jahres, das auf das Jahr folgt, 
 
 Die Mitteilung gemäß Satz 1 erfolgt bis zum 30. April des Folgejahres. Sie erfolgt erstmals für den Veranlagungszeitraum der erstmaligen Anwendung des Zusatzabkommens.
 
-# Artikel 4
+# Art 4
 
 (1) Einnahmen, die durch Ausgleichsansprüche gemäß Artikel 13 a des geänderten Abkommens gegenüber Frankreich begründet sind, fließen der Lohnsteuer zu. Der Länder- und Gemeindeanteil an diesen Einnahmen wird auf die Länder Baden-Württemberg, Rheinland-Pfalz und das Saarland im Verhältnis der Bruttoarbeitslöhne verteilt, wie sie vom Bundeszentralamt für Steuern auf der Basis der übermittelten Daten nach Artikel 2 Absatz 3 und 6 festgestellt wurden. Abweichend hiervon betragen die Länder- und Gemeindeanteile aus der Pauschalzahlung im ersten Jahr nach Inkrafttreten des Abkommens für Baden-Württemberg 50 Prozent, Rheinland-Pfalz 10 Prozent und das Saarland 40 Prozent.
 
@@ -59,11 +59,11 @@ Die Mitteilung gemäß Satz 1 erfolgt bis zum 30. April des Folgejahres. Sie erf
 
 2. Der nach Abzug der Vorabzuweisung vom Länder- und Gemeindeanteil der Einnahmen oder Erstattungen verbleibende Betrag wird nach dem im Staatsabkommen der Länder der Bundesrepublik Deutschland über die Finanzierung wissenschaftlicher Forschungseinrichtungen vom 30./31. März 1949 festgelegten Schlüssel (Königsteiner Schlüssel) verteilt.
 
-# Artikel 5
+# Art 5
 
 Das Bundesministerium der Finanzen kann das Abkommen vom 21. Juli 1959 zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern in der durch das Zusatzabkommen vom 31. März 2015 geänderten Fassung bekannt machen.
 
-# Artikel 6
+# Art 6
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
