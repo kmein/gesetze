@@ -314,6 +314,10 @@ Schlussbestimmungen
 
 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
+§ 58
+
+Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
 # § 1 – Anzuwendende Vorschriften
 
 Soweit nicht die Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1) (Verordnung) gilt, sind auf eine Europäische Gesellschaft (SE) mit Sitz im Inland und auf die an der Gründung einer Europäischen Gesellschaft beteiligten Gesellschaften mit Sitz im Inland die folgenden Vorschriften anzuwenden.
@@ -713,6 +717,8 @@ Fehlt ein erforderlicher geschäftsführender Direktor, so hat in dringenden Fä
 
 (4) Absatz 1 Satz 1 und Absatz 3 gelten entsprechend für einen Einzelabschluss nach § 325 Abs. 2a Satz 1 des Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) für den Konzernabschluss und den Konzernlagebericht. Der Einzelabschluss nach § 325 Abs. 2a Satz 1 des Handelsgesetzbuchs darf erst nach Billigung durch den Verwaltungsrat offen gelegt werden.
 
+(4a) Absatz 1 Satz 1 und Absatz 3 gelten entsprechend für einen Ertragsteuerinformationsbericht (§§ 342b, 342c, 342d Absatz 2 Nummer 2 des Handelsgesetzbuchs) und eine Erklärung nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs.
+
 (5) Billigt der Verwaltungsrat den Jahresabschluss, so ist dieser festgestellt, sofern nicht der Verwaltungsrat beschließt, die Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen. Die Beschlüsse des Verwaltungsrats sind in den Bericht des Verwaltungsrats an die Hauptversammlung aufzunehmen.
 
 (6) Hat der Verwaltungsrat beschlossen, die Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen, oder hat der Verwaltungsrat den Jahresabschluss nicht gebilligt, so stellt die Hauptversammlung den Jahresabschluss fest. Hat der Verwaltungsrat eines Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) den Konzernabschluss nicht gebilligt, so entscheidet die Hauptversammlung über die Billigung. Für die Feststellung des Jahresabschlusses oder die Billigung des Konzernabschlusses durch die Hauptversammlung gilt § 173 Abs. 2 und 3 des Aktiengesetzes entsprechend.
@@ -785,7 +791,7 @@ Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben auße
 
 # § 53 – Straf- und Bußgeldvorschriften
 
-(1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des § 334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung. Soweit sie
+(1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333 des Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und der §§ 334 und 342o des Handelsgesetzbuchs gelten auch für die SE im Sinne des Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung. Soweit sie
 
 1. Mitglieder des Vorstands,
 
@@ -836,3 +842,7 @@ In den Fällen des § 6 Abs. 3 Satz 1 und des § 7 Abs. 2 Satz 2 bleibt es für 
 (1) § 53 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf alle gesetzlichen vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 53 in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 (2) § 34 Absatz 4 Satz 5 und Absatz 5 Satz 1, 3, 4 und 5 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals ab dem 1. Januar 2022 anzuwenden. § 34 Absatz 5 Satz 2 in der ab dem 1. Juli 2021 geltenden Fassung muss so lange nicht angewandt werden, wie alle Mitglieder des Verwaltungsrats und des Prüfungsausschusses vor dem 1. Juli 2021 bestellt worden sind.
+
+# § 58 – Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+§ 47 Absatz 4a und § 53 Absatz 1 in der jeweils ab dem 22. Juni 2023 geltenden Fassung sind erstmals auf Ertragsteuerinformationsberichte und Erklärungen nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem 21. Juni 2024 beginnendes Geschäftsjahr anzuwenden.

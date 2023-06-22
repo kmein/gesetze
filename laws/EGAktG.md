@@ -288,6 +288,10 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 
 (2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4 des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind erstmals auf Hauptversammlungen anzuwenden, die ab dem 27. Juli 2022 einberufen werden.
 
+# § 26o – Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+§ 170 Absatz 1 Satz 3, § 171 Absatz 1 Satz 4 und § 283 Nummer 11a des Aktiengesetzes in der jeweils ab dem 22. Juni 2023 geltenden Fassung sind erstmals auf Ertragsteuerinformationsberichte und Erklärungen nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem 21. Juni 2024 beginnendes Geschäftsjahr anzuwenden.
+
 # § 27 – Entscheidung über die Zusammensetzung des Aufsichtsrats
 
 § 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für Gesellschaften mit beschränkter Haftung und bergrechtliche Gewerkschaften.
