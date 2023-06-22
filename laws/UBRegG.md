@@ -126,10 +126,10 @@ a) zur Pflege der Daten des Gewerbezentralregisters nach § 149 der Gewerbeordnu
 b) zur Durchführung von
 
 aa)  
-Ordnungsgeldverfahren nach § 335 des Handelsgesetzbuchs, auch in Verbindung mit den §§ 335b, 339 Absatz 3 oder den §§ 340o, 341o oder 341y des Handelsgesetzbuchs, mit § 21 des Publizitätsgesetzes, mit § 49 des D-Markbilanzgesetzes, mit § 31 des Vermögensanlagengesetzes, mit den §§ 6c oder 28l des Energiewirtschaftsgesetzes, mit § 8 des Telekommunikationsgesetzes oder mit § 123 Absatz 1, § 148 Absatz 1 oder § 160 Absatz 1 des Kapitalanlagegesetzbuchs,
+Ordnungsgeldverfahren nach § 335 des Handelsgesetzbuchs, auch in Verbindung mit den §§ 335b, 339 Absatz 3 oder den §§ 340o, 341o, 341y oder 342p des Handelsgesetzbuchs, mit § 21 des Publizitätsgesetzes, mit § 49 des D-Markbilanzgesetzes, mit § 31 des Vermögensanlagengesetzes, mit den §§ 6c oder 28l des Energiewirtschaftsgesetzes, mit § 8 des Telekommunikationsgesetzes oder mit § 123 Absatz 1, § 148 Absatz 1 oder § 160 Absatz 1 des Kapitalanlagegesetzbuchs,
 
 bb)  
-Bußgeldverfahren aufgrund der §§ 334 oder 341x des Handelsgesetzbuchs, des § 20 des Publizitätsgesetzes, des § 48 des D-Markbilanzgesetzes, des § 30 des Vermögensanlagengesetzes, des § 405 des Aktiengesetzes, des § 87 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, des § 152 des Genossenschaftsgesetzes, des § 145 des Markengesetzes oder des § 4 des Netzwerkdurchsetzungsgesetzes,
+Bußgeldverfahren aufgrund der §§ 334, 341x oder 342o des Handelsgesetzbuchs, des § 20 des Publizitätsgesetzes, des § 48 des D-Markbilanzgesetzes, des § 30 des Vermögensanlagengesetzes, des § 405 des Aktiengesetzes, des § 87 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, des § 152 des Genossenschaftsgesetzes, des § 145 des Markengesetzes oder des § 4 des Netzwerkdurchsetzungsgesetzes,
 
 cc) Verwaltungsverfahren nach § 4a Absatz 2 des Netzwerkdurchsetzungsgesetzes,
 

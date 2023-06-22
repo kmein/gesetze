@@ -13,7 +13,7 @@ Auf Grund des § 9a Abs. 2 und 3 des Handelsgesetzbuchs in der im Bundesgesetzbl
 
 2. in einem nach dem Stand der Technik vergleichbaren Format oder
 
-3. bei Jahresfinanzberichten oder Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt, in dem einheitlichen elektronischen Berichtsformat nach Maßgabe der Delegierten Verordnung (EU) 2019/815 der Kommission vom 17. Dezember 2018 zur Ergänzung der Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für die Spezifikation eines einheitlichen elektronischen Berichtsformats (ABl. L 143 vom 29.5.2019, S. 1; L 145 vom 4.6.2019, S. 85) in der jeweils geltenden Fassung, wenn die Daten in diesem Format vorliegen.
+3. bei Datenübermittlungen gemäß § 11 Absatz 2 Satz 1 Nummer 1 bis 3 in dem vorgeschriebenen Datenübermittlungsformat.
 
 Eine Speicherung in einem reinen Binärformat ist nur zulässig, soweit eine Umwandlung in Text nicht oder nur mit unvertretbarem Aufwand möglich ist. Das Unternehmensregister muss erkennen lassen, in welcher Sprache die Daten im Sinn des Satzes 1 im Unternehmensregister gespeichert sind.
 
@@ -159,11 +159,15 @@ Der Betreiber des Bundesanzeigers übermittelt dem Unternehmensregister die Date
 
 (2) Daten im Sinne des § 8b Absatz 2 Nummer 4 des Handelsgesetzbuchs sowie die Unterlagen, die dauerhaft hinterlegt werden sollen, sind dem Unternehmensregister unter Verwendung einer von der registerführenden Stelle bestimmten, nach dem Stand der Technik gesicherten Internetverbindung wie folgt elektronisch zu übermitteln:
 
-1. bei Jahresfinanzberichten oder den in § 328 Absatz 1 Satz 1 des Handelsgesetzbuchs bezeichneten Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt, in dem einheitlichen elektronischen Berichtsformat im Sinne des § 1 Absatz 1 Satz 2 Nummer 3, und
+1. Jahresfinanzberichte (§ 114 des Wertpapierhandelsgesetzes) oder die in § 328 Absatz 1 Satz 1 des Handelsgesetzbuchs bezeichneten Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt: in dem einheitlichen elektronischen Berichtsformat nach Maßgabe der Delegierten Verordnung (EU) 2019/815 der Kommission vom 17. Dezember 2018 zur Ergänzung der Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für die Spezifikation eines einheitlichen elektronischen Berichtsformats (ABl. L 143 vom 29.5.2019, S. 1; L 145 vom 4.6.2019, S. 85), die zuletzt durch die Delegierte Verordnung (EU) 2022/352 (ABl. L 77 vom 7.3.2022, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
-2. in allen anderen Fällen im strukturierten Format Extensible Markup Language (XML).
+2. Unterlagen der Rechnungslegung einer Kapitalgesellschaft mit Sitz in einem anderen Staat (§ 325a des Handelsgesetzbuchs): im nach dem Recht der Hauptniederlassung maßgeblichen Offenlegungsformat,
 
-Abweichend von Satz 1 Nummer 2 dürfen bei Unternehmen im Sinne des Satzes 1 Nummer 1 alle nach gesetzlichen Vorschriften offenzulegenden Rechnungslegungsunterlagen in dem einheitlichen elektronischen Berichtsformat im Sinne des § 1 Absatz 1 Satz 2 Nummer 3 übermittelt werden. Die Übermittlung der Daten nach Satz 1 oder Satz 2 erfolgt unter Verwendung eines Vertrauensdienstes nach der Verordnung (EU) Nr. 910/2014. Im Übrigen gelten Absatz 1 Satz 3 bis 5 und § 10 Satz 3 entsprechend.
+3. Ertragsteuerinformationsberichte (§ 342m des Handelsgesetzbuchs): im Erstellungsformat (§ 342l Absatz 2 des Handelsgesetzbuchs) und
+
+4. Daten, die nicht von den Nummern 1 bis 3 erfasst werden: im strukturierten Format Extensible Markup Language (XML).
+
+Abweichend von Satz 1 Nummer 4 dürfen bei Unternehmen im Sinne des Satzes 1 Nummer 1 alle nach gesetzlichen Vorschriften offenzulegenden Rechnungslegungsunterlagen in dem einheitlichen elektronischen Berichtsformat im Sinne des Satzes 1 Nummer 1 übermittelt werden. Die Übermittlung der Daten nach Satz 1 oder Satz 2 erfolgt unter Verwendung eines Vertrauensdienstes nach der Verordnung (EU) Nr. 910/2014. Im Übrigen gelten Absatz 1 Satz 3 bis 5 und § 10 Satz 3 entsprechend.
 
 (3) Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt die Daten im Sinne des § 8b Absatz 2 Nummer 13 des Handelsgesetzbuchs an das Unternehmensregister elektronisch über eine nach dem Stand der Technik gesicherte Internetverbindung.
 
