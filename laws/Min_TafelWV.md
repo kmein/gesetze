@@ -187,7 +187,7 @@ Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur bis zu e
 
 (2) (weggefallen)
 
-(3) Tafelwasser darf nur so hergestellt werden, daß die in § 6 in Verbindung mit Anlage 2 der Trinkwasserverordnung für Trinkwasser festgelegten Grenzwerte für chemische Stoffe eingehalten sind.
+(3) Tafelwasser darf nur so hergestellt werden, daß die in § 7 in Verbindung mit Anlage 2 der Trinkwasserverordnung für Trinkwasser festgelegten Grenzwerte für chemische Stoffe eingehalten sind.
 
 (3a) (weggefallen)
 
@@ -201,11 +201,23 @@ Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur bis zu e
 
 (3) Quellwasser darf in die zur Abgabe an den Verbraucher bestimmten Fertigpackungen nur am Quellort abgefüllt werden.
 
-# § 13 – Mikrobiologische Anforderungen
+# § 13 – Mikrobiologische Anforderungen, Anforderungen hinsichtlich Indikatorparametern und sonstige Anforderungen
 
 (1) Für Quellwasser und Tafelwasser gilt § 4 Abs. 1 Satz 1 und 2 entsprechend. Bei Quellwasser und Tafelwasser, das in zur Abgabe an den Verbraucher bestimmten Fertigpackungen abgefüllt wird, müssen zusätzlich die in § 4 Abs. 1 Satz 3 festgelegten Anforderungen erfüllt sein. Für Quellwasser gilt darüber hinaus § 4 Abs. 2 entsprechend.
 
 (2) Zur Feststellung, ob die Bestimmungen des Absatzes 1 eingehalten werden, sind die in der Anlage 2 angegebenen Untersuchungsverfahren anzuwenden.
+
+(3) Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte Fertigpackungen abgefüllt wird, muss am Punkt der Abfüllung
+
+1. die mikrobiologischen Anforderungen nach Anlage 7 Teil A einhalten und
+
+2. die Anforderungen hinsichtlich der Indikatorparameter nach Anlage 7 Teil B einhalten.
+
+(4) Trinkwasser darf nicht in zur Abgabe an den Endverbraucher bestimmte Fertigpackungen abgefüllt werden, wenn
+
+1. für das Trinkwasser eine Abweichung für chemische Parameter nach § 66 Absatz 1 der Trinkwasserverordnung zugelassen wurde oder
+
+2. das Trinkwasser am Punkt der Abfüllung nicht den mikrobiologischen Anforderungen und den Anforderungen hinsichtlich der Indikatorparameter nach Absatz 3 entspricht.
 
 # § 14 – Kennzeichnung
 
@@ -284,7 +296,9 @@ der Verordnung (EU) Nr. 115/2010 entspricht,
 
 8. (weggefallen)
 
-9. Quellwasser, das nach § 12 Abs. 2 nicht gewonnen oder abgefüllt werden darf.
+9. Quellwasser, das nach § 12 Abs. 2 nicht gewonnen oder abgefüllt werden darf,
+
+10. Trinkwasser, das nach § 13 Absatz 4 nicht abgefüllt werden darf.
 
 # § 17 – Straftaten und Ordnungswidrigkeiten
 
@@ -850,3 +864,7 @@ Der Gehalt an Natrium darf 20 mg/l, an Nitrat 10 mg/l, an Nitrit 0,02 mg/l, an S
 Geeignet für natriumarme Ernährung
 
 Der Natriumgehalt beträgt weniger als 20 mg/l
+
+# Anlage 7 – (zu § 13 Absatz 3)Mikrobiologische Anforderungen und Anforderungen hinsichtlich Indikatorparametern für Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte Fertigpackungen abgefüllt wird
+
+(Fundstelle: BGBl. 2023 I Nr. 159, 62)

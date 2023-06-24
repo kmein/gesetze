@@ -27,9 +27,31 @@ entsprechend.
 
 Lebensmittel dürfen nur so hergestellt, behandelt oder in den Verkehr gebracht werden, dass sie bei Beachtung der im Verkehr erforderlichen Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt sind. Mit lebenden Tieren nach § 4 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches darf nur so umgegangen werden, dass von ihnen zu gewinnende Lebensmittel bei Beachtung der im Verkehr erforderlichen Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt sind.
 
-# § 3a – Verwendung von Trinkwasser
+# § 3a – Verwendung von Trinkwasser oder aufbereitetem Wasser
 
-Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der Verordnung (EG) Nr. 853/2004 die Verwendung von Trinkwasser oder von Wasser, das den Trinkwassernormen entspricht, vorsehen, werden die Mindestanforderungen der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32), die zuletzt durch die Richtlinie (EU) 2015/1787 (ABl. L 260 vom 7.10.2015, S. 6) geändert worden ist, durch die Trinkwasserverordnung bestimmt.
+(1) Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der Verordnung (EG) Nr. 853/2004 die Verwendung von Trinkwasser vorsehen, werden die Mindestanforderungen an die Verwendung als Trinkwasser durch die Trinkwasserverordnung bestimmt.
+
+(2) Wer Wasser oder aufbereitetes Wasser nach Anhang II Kapitel VII Nummer 3 der Verordnung (EG) Nr. 852/2004 zur Verarbeitung von oder als Zutat zu Lebensmitteln verwendet, das nicht den Mindestanforderungen an die Verwendung als Trinkwasser nach der Trinkwasserverordnung entspricht, bedarf einer Genehmigung durch die zuständige Behörde.
+
+(3) Der Antrag auf Erteilung einer Genehmigung ist bei der zuständigen Behörde schriftlich oder elektronisch zu stellen.
+
+(4) Im Antrag ist der Verwendungszweck anzugeben und darzulegen, dass
+
+1. die Wasserqualität die Sicherheit und Genusstauglichkeit des Enderzeugnisses in keiner Weise beeinträchtigen kann,
+
+2. die Wasserversorgung die einschlägigen rechtlichen Vorgaben erfüllt und
+
+3. Verfahren nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 852/2004 eingerichtet sind, mit denen
+
+a) die Einhaltung der rechtlichen Vorgaben kontrolliert wird und
+
+b) Abhilfemaßnahmen vorgesehen sind, um sicherzustellen, dass die Beschaffenheit des Wassers die Sicherheit des Enderzeugnisses nicht beeinträchtigt.
+
+(5) Die Angaben nach Absatz 4 sind auf Aufforderung der zuständigen Behörde durch geeignete Nachweise zu belegen.
+
+(6) Die zuständige Behörde erteilt die Genehmigung, wenn die Wasserqualität die Sicherheit und Genusstauglichkeit des Enderzeugnisses in keiner Weise beeinträchtigen kann.
+
+(7) Sofern pro Tag mindestens 10 Kubikmeter aufbereitetes Wasser aus einer betriebseigenen Wasserversorgungsanlage mit dazugehörender Wassergewinnungsanlage verwendet werden, sind die Bewertung des Einzugsgebiets der Entnahmestellen für die Trinkwassergewinnung und das Risikomanagement für dieses Einzugsgebiet nach der auf Grund von § 50 Absatz 4a des Wasserhaushaltsgesetzes zu erlassenden Rechtsverordnung im Verfahren nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 852/2004 zu berücksichtigen.
 
 # § 4 – Schulung
 
