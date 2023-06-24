@@ -2543,7 +2543,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 14
 
-(Fundstelle: BGBl. I 2021, 5070 - 5125)
+(Fundstelle: BGBl. I 2021, 5070 - 5125;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden Informationen:
 

@@ -35,7 +35,7 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach
 
 # § 8 – Zuständigkeit nach der Trinkwasserverordnung
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 25 der Trinkwasserverordnung wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 22 der Trinkwasserverordnung der Vollzug der Verordnung im Bereich der Bundeswehr sowie im Bereich der auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen den zuständigen Dienststellen der Bundeswehr obliegt.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 72 Absatz 1 der Trinkwasserverordnung wird auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit nach § 54a Absatz 1 des Infektionsschutzgesetzes der Vollzug der Trinkwasserverordnung den zuständigen Stellen der Bundeswehr obliegt.
 
 # § 9 – Inkrafttreten, Außerkrafttreten
 

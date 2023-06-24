@@ -257,7 +257,7 @@ b) wie die Mitglieder der Schiedsstelle, die aus einem die Befähigung zum Richt
 
 c) daß Ansprüche gegen den Entschädigungsfonds im Wege der Klage erst geltend gemacht werden können, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist, sofern nicht seit der Anrufung der Schiedsstelle mehr als drei Monate verstrichen sind.
 
-# § 14
+# § 14a
 
 (1) Benannte Einrichtung im Sinne des Artikels 10a Absatz 13 Unterabsatz 2 Buchstabe b und des Artikels 25a Absatz 13 Unterabsatz 2 Buchstabe b der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11), die zuletzt durch die Richtlinie (EU) 2021/2118 (ABl. L 430 vom 2.12.2021, S. 1) geändert worden ist, ist die Verhandlungsstelle über die Regressabkommen zwischen den Insolvenzfonds für Kraftfahrzeugunfälle (Verhandlungsstelle).
 

@@ -5645,7 +5645,7 @@
 - [TreuhUmbenV](laws/TreuhUmbenV.md) Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt
 - [TreuhUntÜV](laws/TreuhUntÜV.md) Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt
 - [TrGebV](laws/TrGebV.md) Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister
-- [TrinkwV](laws/TrinkwV.md) Verordnung über die Qualität von Wasser für den menschlichen Gebrauch 1, 2
+- [TrinkwV](laws/TrinkwV.md) Verordnung über die Qualität von Wasser für den menschlichen Gebrauch
 - [TrVerjG](laws/TrVerjG.md) Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
 - [TrZollG](laws/TrZollG.md) Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere
 - [TrZollV](laws/TrZollV.md) Verordnung zur Durchführung des Truppenzollgesetzes

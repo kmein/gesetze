@@ -53,7 +53,8 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 
 # Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 2336 — 2347)
+(Fundstelle: BGBl. I 2021, 2336 - 2347;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -174,19 +175,19 @@ in Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1<
 
  
 
-| Nummer | Gebührentatbestand                                                                                                                                                                                           | Gebühren in Euro |
-|:-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
-| 1      | Aufnahme eines Aufbereitungsstoffes oder eines Desinfektionsverfahrens in die Liste nach § 11 Absatz 1 TrinkwV auf Antrag nach § 11 Absatz 5 TrinkwV                                                         |                  |
-| 1.1    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste ohne erweiterte Wirksamkeitsprüfung                                                                                                   |     7 590,00     |
-| 1.2    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste mit erweiterter Wirksamkeitsprüfung                                                                                                   |    15 100,00     |
-| 1.3    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste mit erweiterter Wirksamkeitsprüfung und quantitativer Bestimmung der Wirksamkeit                                                      | nach Zeitaufwand |
-| 1.4    | Änderung der Liste                                                                                                                                                                                           | nach Zeitaufwand |
-| 2      | Genehmigung einer befristeten Ausnahme von § 11 Absatz 1 Satz 1 und 5 sowie Absatz 2 TrinkwV zur Erprobung von Aufbereitungsstoffen oder Desinfektionsverfahren auf Antrag nach § 12 Absatz 1 Satz 1 TrinkwV |       801,00     |
-| 3      | Feststellung der Gleichwertigkeit alternativer Untersuchungsverfahren auf Antrag nach § 15 Absatz 1b TrinkwV                                                                                                 |    44 300,00     |
-| 4      | Aufnahme von Ausgangsstoffen oder Werkstoffen und Materialien in eine Positivliste nach § 17 Absatz 3 Satz 2 Nummer 2 oder 3 TrinkwV auf Antrag nach § 17 Absatz 4 Satz 2 TrinkwV                            |                  |
-| 4.1    | Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur Herstellung von Materialien oder Werkstoffen nach § 17 Absatz 3 Satz 2 Nummer 2 TrinkwV mit großer toxikologischer Bewertung auf Antrag  |     7 800,00     |
-| 4.2    | Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur Herstellung von Materialien oder Werkstoffen nach § 17 Absatz 3 Satz 2 Nummer 2 TrinkwV mit kleiner toxikologischer Bewertung auf Antrag |     3 560,00     |
-| 4.3    | Aufnahme von Materialien oder Werkstoffen in die Positivliste nach § 17 Absatz 3 Satz 2 Nummer 3 TrinkwV auf Antrag                                                                                          |     7 720,00     |
+| Nummer | Gebührentatbestand                                                                                                                                                                                    | Gebühren in Euro |
+|:-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
+| 1      | Aufnahme eines Aufbereitungsstoffes oder eines Desinfektionsverfahrens in die Liste zulässiger Aufbereitungsstoffe und Desinfektionsverfahren auf Antrag nach § 20 Absatz 4 TrinkwV                   |                  |
+| 1.1    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste ohne erweiterte Wirksamkeitsprüfung                                                                                            |     7 590,00     |
+| 1.2    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste mit erweiterter Wirksamkeitsprüfung                                                                                            |    15 100,00     |
+| 1.3    | Aufnahme eines Stoffes oder eines Desinfektionsverfahrens in die Liste mit erweiterter Wirksamkeitsprüfung und quantitativer Bestimmung der Wirksamkeit                                               | nach Zeitaufwand |
+| 1.4    | Änderung der Liste                                                                                                                                                                                    | nach Zeitaufwand |
+| 2      | Ausnahmegenehmigung nach § 21 Absatz 1 TrinkwV                                                                                                                                                        |       801,00     |
+| 3      | Feststellung der Gleichwertigkeit alternativer Untersuchungsverfahren auf Antrag nach § 43 Absatz 2 TrinkwV                                                                                           |    44 300,00     |
+| 4      | Aufnahme von Ausgangsstoffen oder Werkstoffen und Materialien in eine Positivliste nach § 15 Absatz 3 Nummer 2 oder Nummer 3 TrinkwV auf Antrag nach § 15 Absatz 5 Satz 1 TrinkwV                     |                  |
+| 4.1    | Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur Herstellung von Werkstoffen oder Materialien nach § 15 Absatz 3 Nummer 2 TrinkwV mit großer toxikologischer Bewertung auf Antrag  |     7 800,00     |
+| 4.2    | Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur Herstellung von Werkstoffen oder Materialien nach § 15 Absatz 3 Nummer 2 TrinkwV mit kleiner toxikologischer Bewertung auf Antrag |     3 560,00     |
+| 4.3    | Aufnahme eines Werkstoffs oder Materials in die Positivliste nach § 15 Absatz 3 Nummer 3 TrinkwV auf Antrag                                                                                           |     7 720,00     |
 
  
 

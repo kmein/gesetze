@@ -49,8 +49,6 @@ Im Sinne dieser Verordnung ist
 
 11. "unerwünschte Aussendung" jede Aussendung außerhalb der erforderlichen Bandbreite; dies ist die Bandbreite, welche für eine gegebene Sendeart gerade ausreicht, um die Übertragung der Nachricht mit der Geschwindigkeit und Güte sicherzustellen, die unter den gegebenen Bedingungen erforderlich ist.
 
-# Anlage 2 – (weggefallen)
-
 # § 3 – Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist gleichzeitig mit dem Antrag auf Erteilung eines Amateurfunkzeugnisses nach bestandener Prüfung in schriftlicher oder elektronischer Form an die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Regulierungsbehörde) zu richten. Einzelheiten zum Antragsverfahren werden von der Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
@@ -1035,3 +1033,5 @@ Die Frequenzbereiche 7.000 - 7.100 kHz, 14.000 - 14.250 kHz, 18.068 - 18.168 kHz
 
 14  
 Die Frequenzbereiche 444 – 453 GHz, 510 – 546 GHz, 711 – 730 GHz, 909 – 926 GHz, 945 – 951 GHz und Frequenzen oberhalb von 956 GHz können durch den Amateurfunkdienst genutzt werden. Die Nutzungsbedingungen werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
+
+# Anlage 2 – (weggefallen)

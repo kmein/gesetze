@@ -45,7 +45,8 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 
 # Anlage – (zu § 2 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 3183 - 3194)
+(Fundstelle: BGBl. I 2021, 3183 - 3194;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anhang – Anhang zum Gebührenverzeichnis
 
