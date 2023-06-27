@@ -5152,7 +5152,7 @@ Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium
 
 (3) Die Vorschriften des Energiewirtschaftsgesetzes stehen der Anwendung der §§ 19, 20 und 29 nicht entgegen, soweit in § 111 des Energiewirtschaftsgesetzes keine andere Regelung getroffen ist.
 
-(4) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind nicht auf Treuhandverwaltungen oder Enteignungen nach dem ersten Abschnitt des zweiten Kapitels des Energiesicherungsgesetzes anzuwenden. Satz 1 gilt nicht für Privatisierungen nach § 20 Absatz 3 des Energiesicherungsgesetzes.
+(4) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind nicht auf Treuhandverwaltungen, Kapitalmaßnahmen oder Enteignungen nach den §§ 17, 17a oder 18 des Energiesicherungsgesetzes anzuwenden. Satz 1 gilt entsprechend für Übertragungen von Vermögensgegenständen nach § 17 Absatz 5 Satz 2 oder § 17b des Energiesicherungsgesetzes an juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für Wiederaufbau unmittelbar oder mittelbar gehalten werden. Satz 1 gilt nicht für Privatisierungen nach § 17b Absatz 2 Satz 3 oder § 20 Absatz 3 des Energiesicherungsgesetzes.
 
 # § 186 – Anwendungsbestimmung zu § 47k
 

@@ -426,7 +426,7 @@ Erteilen Wirtschaftsprüfungsgesellschaften gesetzlich vorgeschriebene Bestätig
 
 2. besondere gesetzliche Verwendungsregelungen entgegenstehen.
 
-Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Berufskammer eines freien Berufs im Geltungsbereich dieses Gesetzes tätigen Personen, für das Steuergeheimnis nach § 30 der Abgabenordnung und für die Verschwiegenheitspflichten der in § 66b Absatz 1 Satz 1 dieses Gesetzes, in § 9 Absatz 1 des Kreditwesengesetzes, in § 21 des Wertpapierhandelsgesetzes sowie in § 342c des Handelsgesetzbuchs benannten Personen und Stellen.
+Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Berufskammer eines freien Berufs im Geltungsbereich dieses Gesetzes tätigen Personen, für das Steuergeheimnis nach § 30 der Abgabenordnung und für die Verschwiegenheitspflichten der in § 66b Absatz 1 Satz 1 dieses Gesetzes, in § 9 Absatz 1 des Kreditwesengesetzes und in § 21 des Wertpapierhandelsgesetzes benannten Personen und Stellen.
 
 (5) Die Wirtschaftsprüferkammer darf personenbezogene Daten ihrer Mitglieder an die Versorgungswerke der Wirtschaftsprüfer und der vereidigten Buchprüfer übermitteln, soweit sie für die Feststellung der Mitgliedschaft sowie von Art und Umfang der Beitragspflicht oder der Versorgungsleistung erforderlich sind.
 
@@ -652,7 +652,7 @@ Die für die Durchführung einer gesetzlichen Abschlussprüfung bei einem Untern
 
 9. als Angestellte einer
 
-a) nach § 342 Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz und für Verbraucherschutz durch Vertrag anerkannten Einrichtung oder
+a) nach § 342q Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz durch Vertrag anerkannten Einrichtung oder
 
 b) nicht gewerblich tätigen Personenvereinigung,
 
@@ -976,7 +976,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 10. die berufliche Fortbildung der Mitglieder und Ausbildung des Berufsnachwuchses zu fördern;
 
-11. die Vorschlagsliste der ehrenamtlichen Beisitzer bei den Berufsgerichten den Landesjustizverwaltungen und dem Bundesministerium der Justiz und für Verbraucherschutz einzureichen;
+11. die Vorschlagsliste der ehrenamtlichen Beisitzer bei den Berufsgerichten den Landesjustizverwaltungen und dem Bundesministerium der Justiz einzureichen;
 
 12. das Berufsregister zu führen;
 
@@ -1158,7 +1158,7 @@ Zum Inhalt und zur Vereinheitlichung des Aufbaus des Qualitätskontrollberichts 
 
 # § 57c – Satzung für Qualitätskontrolle
 
-(1) Die Wirtschaftsprüferkammer erlässt eine Satzung für Qualitätskontrolle; die Satzung wird vom Beirat der Wirtschaftsprüferkammer beschlossen. Die Satzung und deren Änderungen müssen im Einklang mit den Vorgaben des auf sie anzuwendenden europäischen Rechts stehen. Insbesondere sind bei neuen oder zu ändernden Vorschriften, die dem Anwendungsbereich der Richtlinie 2005/36/EG in der jeweils geltenden Fassung unterfallen, die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung einzuhalten. § 57 Absatz 3a gilt entsprechend. Die Satzung und deren Änderungen bedürfen zu ihrer Wirksamkeit der Genehmigung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Das Bundesministerium für Wirtschaft und Energie hat bei der Genehmigung zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm die Wirtschaftsprüferkammer die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer der Beirat der Wirtschaftsprüferkammer die Satzung oder deren Änderungen als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat. Nach der Genehmigung sind die Satzung und deren Änderungen unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Wirtschaftsprüferkammer zu veröffentlichen.
+(1) Die Wirtschaftsprüferkammer erlässt eine Satzung für Qualitätskontrolle; die Satzung wird vom Beirat der Wirtschaftsprüferkammer beschlossen. Die Satzung und deren Änderungen müssen im Einklang mit den Vorgaben des auf sie anzuwendenden europäischen Rechts stehen. Insbesondere sind bei neuen oder zu ändernden Vorschriften, die dem Anwendungsbereich der Richtlinie 2005/36/EG in der jeweils geltenden Fassung unterfallen, die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung einzuhalten. § 57 Absatz 3a gilt entsprechend. Die Satzung und deren Änderungen bedürfen zu ihrer Wirksamkeit der Genehmigung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz. Das Bundesministerium für Wirtschaft und Energie hat bei der Genehmigung zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm die Wirtschaftsprüferkammer die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer der Beirat der Wirtschaftsprüferkammer die Satzung oder deren Änderungen als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat. Nach der Genehmigung sind die Satzung und deren Änderungen unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Wirtschaftsprüferkammer zu veröffentlichen.
 
 (2) Die Satzung für Qualitätskontrolle hat im Rahmen der Vorschriften dieses Gesetzes näher zu regeln:
 
@@ -1630,13 +1630,13 @@ Wird der Einspruch gegen eine berufsaufsichtliche Maßnahme zurückgewiesen, so 
 
 (1) Die Beisitzer aus den Reihen der Berufsangehörigen sind ehrenamtliche Richter.
 
-(2) Die ehrenamtlichen Richter werden für die Gerichte des ersten und zweiten Rechtszuges von der Landesjustizverwaltung und für den Bundesgerichtshof von dem Bundesministerium der Justiz und für Verbraucherschutz auf die Dauer von fünf Jahren berufen. Sie können nach Ablauf ihrer Amtszeit wieder berufen werden.
+(2) Die ehrenamtlichen Richter werden für die Gerichte des ersten und zweiten Rechtszuges von der Landesjustizverwaltung und für den Bundesgerichtshof von dem Bundesministerium der Justiz auf die Dauer von fünf Jahren berufen. Sie können nach Ablauf ihrer Amtszeit wieder berufen werden.
 
-(3) Die ehrenamtlichen Richter werden den Vorschlagslisten entnommen, die der Vorstand der Wirtschaftsprüferkammer im Einvernehmen mit der Abschlussprüferaufsichtsstelle der Landesjustizverwaltung für die Gerichte des ersten und zweiten Rechtszuges und dem Bundesministerium der Justiz und für Verbraucherschutz für den Bundesgerichtshof einreicht. Die Landesjustizverwaltung und das Bundesministerium der Justiz und für Verbraucherschutz bestimmen, welche Zahl von Beisitzern für jedes Gericht erforderlich ist; sie haben vorher den Vorstand der Wirtschaftsprüferkammer zu hören. Jede Vorschlagsliste soll mindestens die doppelte Zahl der zu berufenden Berufsangehörigen enthalten.
+(3) Die ehrenamtlichen Richter werden den Vorschlagslisten entnommen, die der Vorstand der Wirtschaftsprüferkammer im Einvernehmen mit der Abschlussprüferaufsichtsstelle der Landesjustizverwaltung für die Gerichte des ersten und zweiten Rechtszuges und dem Bundesministerium der Justiz für den Bundesgerichtshof einreicht. Die Landesjustizverwaltung und das Bundesministerium der Justiz bestimmen, welche Zahl von Beisitzern für jedes Gericht erforderlich ist; sie haben vorher den Vorstand der Wirtschaftsprüferkammer zu hören. Jede Vorschlagsliste soll mindestens die doppelte Zahl der zu berufenden Berufsangehörigen enthalten.
 
 (4) Scheidet ein ehrenamtlicher Richter vorzeitig aus, so wird für den Rest seiner Amtszeit ein Nachfolger berufen.
 
-(5) Die Landesjustizverwaltung und das Bundesministerium der Justiz und für Verbraucherschutz können einen von ihnen berufenen ehrenamtlichen Richter auf seinen Antrag aus dem Amt entlassen, wenn er aus gesundheitlichen Gründen auf nicht absehbare Zeit gehindert ist, sein Amt ordnungsgemäß auszuüben.
+(5) Die Landesjustizverwaltung und das Bundesministerium der Justiz können einen von ihnen berufenen ehrenamtlichen Richter auf seinen Antrag aus dem Amt entlassen, wenn er aus gesundheitlichen Gründen auf nicht absehbare Zeit gehindert ist, sein Amt ordnungsgemäß auszuüben.
 
 (6) Das Amt eines ehrenamtlichen Richters, der zum ehrenamtlichen Richter bei einem Gericht des höheren Rechtszuges berufen wird, endet mit seiner Ernennung.
 
@@ -1664,7 +1664,7 @@ Wird der Einspruch gegen eine berufsaufsichtliche Maßnahme zurückgewiesen, so 
 
 3. wenn der oder die Berufsangehörige seine oder ihre Amtspflicht als Beisitzer grob verletzt.
 
-(2) Über den Antrag der Landesjustizverwaltung entscheidet ein Zivilsenat des Oberlandesgerichts, über den Antrag des Bundesministeriums der Justiz und für Verbraucherschutz ein Zivilsenat des Bundesgerichtshofes. Bei der Entscheidung dürfen die Mitglieder der Senate für Wirtschaftsprüfersachen nicht mitwirken.
+(2) Über den Antrag der Landesjustizverwaltung entscheidet ein Zivilsenat des Oberlandesgerichts, über den Antrag des Bundesministeriums der Justiz ein Zivilsenat des Bundesgerichtshofes. Bei der Entscheidung dürfen die Mitglieder der Senate für Wirtschaftsprüfersachen nicht mitwirken.
 
 (3) Vor der Entscheidung ist der ehrenamtliche Richter zu hören. Die Entscheidung ist endgültig.
 
