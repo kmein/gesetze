@@ -350,6 +350,8 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 (9) Die Absätze 1 bis 8 gelten nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
 
+(+++ § 17 Abs. 3: Zur Anwendung vgl. § 17b Abs. 1 +++)
+
 # § 17a – Kapitalmaßnahmen
 
 (1) Bei einem als Kapitalgesellschaft verfassten Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, können Kapitalerhöhungen, die Auflösung von Kapital- und Gewinnrücklagen oder Kapitalherabsetzungen (Kapitalmaßnahmen) angeordnet werden, wenn die konkrete Gefahr besteht, dass ohne eine Kapitalmaßnahme der Betrieb des Unternehmens gemäß seiner Bedeutung für das Funktionieren des Gemeinwesens im Sektor Energie nicht fortgeführt werden kann.
@@ -377,6 +379,30 @@ Eine Kapitalherabsetzung nach Satz 1 Nummer 3 ist nur zulässig, nachdem der Tei
 (8) Eine Anfechtungsklage gegen einen Verwaltungsakt nach Absatz 2 Satz 1 hat keine aufschiebende Wirkung. Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über eine Anfechtungsklage nach Satz 1 und über Anträge nach den §§ 80 und 80a der Verwaltungsgerichtsordnung. Abweichend von § 113 Absatz 1 Satz 1 der Verwaltungsgerichtsordnung entscheidet das Bundesverwaltungsgericht auch darüber, dass Rechtshandlungen im Fall einer Aufhebung eines Verwaltungsakts nach Absatz 2 Satz 1 wirksam bleiben können.
 
 (9) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der nach den Absätzen 5 und 6 zu gewährenden Entschädigung.
+
+# § 17b – Übertragung von Vermögensgegenständen
+
+(1) Bei einem Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, kann die in § 17 Absatz 4 Nummer 2 benannte Stelle des Bundes eine Übertragung von Vermögensgegenständen über § 17 Absatz 5 Satz 2 hinaus anweisen, wenn
+
+1. die Übertragung erforderlich ist zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie sowie zur Aufrechterhaltung der Versorgungssicherheit und
+
+2. die bestehende Treuhandverwaltung nach § 17 nicht hinreichend geeignet ist, diesen Zweck zu erfüllen.
+
+Die Übertragung des Eigentums an den Vermögensgegenständen nach Satz 1 bedarf zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz. Die Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz erfolgt durch Verwaltungsakt und im Einvernehmen mit dem Bundesministerium der Finanzen. § 17 Absatz 3 Satz 2 bis 4 ist entsprechend anzuwenden.
+
+(2) Begünstigte der Übertragung im Sinne des Absatzes 1 können der Bund und private oder öffentliche Unternehmen sein. Der übertragene Vermögensgegenstand darf nur für den in Absatz 1 Satz 1 Nummer 1 bezeichneten Zweck verwendet werden. Wenn die Übertragung an den Bund oder an ein unter Treuhand oder im Mehrheitseigentum des Bundes stehendes Unternehmen oder an eine Tochtergesellschaft eines derartigen Unternehmens, die letztlich unter der Kontrolle des Bundes steht, erfolgt, ist § 20 Absatz 3 entsprechend anzuwenden.
+
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz hört den oder die Eigentümer des Unternehmens, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, an und gibt in geeigneter Form Gelegenheit zur Stellungnahme. Das Bundesministerium für Wirtschaft und Klimaschutz kann von einer Anhörung absehen, soweit diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck der Übertragung des Vermögensgegenstandes gefährden würde.
+
+(4) Für eine nach Absatz 1 durchgeführte Übertragung ist eine Entschädigung zu leisten. § 21 Absatz 1 Satz 2 und 3 sind entsprechend anzuwenden. Zur Leistung der Entschädigung ist der Bund verpflichtet. Die Entschädigung ist durch Zahlung eines Geldbetrages zu leisten.
+
+(5) Die Entschädigung bemisst sich nach dem Verkehrswert des nach Absatz 1 übertragenen Vermögensgegenstandes. Dabei sind eine vereinbarte Gegenleistung für die Übertragung des Vermögensgegenstandes oder andere Vermögensvorteile, die das Unternehmen infolge der Übertragung erlangt, mindernd zu berücksichtigen. Der Verkehrswert des übertragenen Vermögensgegenstands wird auf der Grundlage einer Bewertung des Vermögensgegenstandes ermittelt. Die Verwaltungsorgane des betroffenen Unternehmens sind verpflichtet, dem Bundesministerium für Wirtschaft und Klimaschutz die notwendigen Unterlagen für die Ermittlung des Wertes des übertragenen Vermögensgegenstandes zur Verfügung zu stellen und Auskünfte zu erteilen. Die Höhe der Entschädigung wird durch das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium der Finanzen gesondert bekannt gemacht.
+
+(6) Die Entschädigungszahlung wird mit der Übertragung des Vermögensgegenstandes fällig. Entschädigungsbeträge sind ab dem Zeitpunkt der Fälligkeit jährlich mit einem Prozentpunkt über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen.
+
+(7) Eine Anfechtungsklage gegen den Verwaltungsakt nach Absatz 1 Satz 3 hat keine aufschiebende Wirkung. Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über eine Anfechtungsklage nach Satz 1 und über Anträge nach den §§ 80 und 80a der Verwaltungsgerichtsordnung. Abweichend von § 113 Absatz 1 Satz 1 der Verwaltungsgerichtsordnung entscheidet das Bundesverwaltungsgericht auch darüber, dass Rechtshandlungen im Fall einer Aufhebung eines Verwaltungsakts nach Absatz 1 Satz 3 wirksam bleiben können.
+
+(8) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der nach den Absätzen 4 und 5 zu gewährenden Entschädigung.
 
 # § 18 – Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur
 
@@ -424,6 +450,8 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (3) Unternehmen, deren Anteile enteignet wurden, sind wieder zu privatisieren. Die Privatisierung erfolgt, wenn und soweit die Aufrechterhaltung der Versorgungssicherheit eine Privatisierung erlaubt und die Voraussetzungen nach § 7 Absatz 1 Satz 1 der Bundeshaushaltsordnung gegeben sind. Ein Rechtsanspruch auf Privatisierung besteht für natürliche und juristische Personen nicht. Das Bundesministerium für Wirtschaft und Klimaschutz legt dem Deutschen Bundestag alle zwei Jahre einen Bericht zum Stand der Privatisierung nach Satz 1 vor.
 
+(+++ § 20 Abs. 3: Zur Anwendung vgl. § 17b Abs. 2 +++)
+
 # § 21 – Entschädigung
 
 (1) Für die Enteignung ist eine Entschädigung zu leisten. Eine Entschädigung kann verlangen, wer sich auf das Grundrecht aus Artikel 14 Absatz 1 Satz 1 des Grundgesetzes berufen kann, in seinem Recht durch die Enteignung beeinträchtigt wird und dadurch einen Vermögensnachteil erleidet. Verpflichtungen des Bundes aus völkerrechtlichen Verträgen nach Artikel 59 Absatz 1 Satz 2 des Grundgesetzes bleiben unberührt.
@@ -436,7 +464,8 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (5) Entschädigungsbeträge sind mit einem Prozentpunkt über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem Übergangszeitpunkt an zu verzinsen.
 
-(+++ § 21: Zur Anwendung vgl. § 23a Abs. 4 +++)
+(+++ § 21: Zur Anwendung vgl. § 23a Abs. 4 +++)  
+(+++ § 21 Abs. 1: Zur Anwendung vgl. § 17b Abs. 4 +++)
 
 # § 22 – Rechtsschutz
 

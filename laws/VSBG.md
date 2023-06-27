@@ -345,7 +345,7 @@ Für behördliche Verbraucherschlichtungsstellen gelten die §§ 4 bis 7 Absatz 
 
 1. selbst eine behördliche Universalschlichtungsstelle errichten,
 
-2. eine geeignete anerkannte Verbraucherschlichtungsstelle mit der Aufgabe der Universalschlichtungsstelle einschließlich der Befugnis, für die Durchführung des Streitbeilegungsverfahrens Gebühren zu erheben, beleihen oder
+2. eine geeignete anerkannte Verbraucherschlichtungsstelle oder den Träger einer bereits eingerichteten Universalschlichtungsstelle mit der Aufgabe der Universalschlichtungsstelle einschließlich der Befugnis, für die Durchführung des Streitbeilegungsverfahrens Gebühren zu erheben, beleihen oder
 
 3. eine geeignete anerkannte Verbraucherschlichtungsstelle mit der Aufgabe der Universalschlichtungsstelle beauftragen.
 

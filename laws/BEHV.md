@@ -81,15 +81,21 @@ Auf Grund des § 10 Absatz 3 des Brennstoffemissionshandelsgesetzes vom 12. Deze
 
  
 
+ 
+
+ 
+
+ 
+
 # § 1 – Anwendungsbereich und Zweck
 
 (1) Diese Verordnung gilt innerhalb des Anwendungsbereichs des Brennstoffemissionshandelsgesetzes.
 
-(2) Diese Verordnung dient der Konkretisierung der Anforderungen der §§ 10 und 12 des Brennstoffemissionshandelsgesetzes.
+(2) Diese Verordnung dient der Konkretisierung der Anforderungen der §§ 4, 5, 10 und 12 des Brennstoffemissionshandelsgesetzes.
 
 # § 2 – Begriffsbestimmungen
 
-Für diese Verordnung gelten neben den Begriffsbestimmungen des Brennstoffemissionshandelsgesetzes die folgenden Begriffsbestimmungen:
+Für diese Verordnung gelten neben den Begriffsbestimmungen des Brennstoffemissionshandelsgesetzes und der BEHG-Carbon-Leakage-Verordnung vom 21. Juli 2021 (BGBl. I S. 3129) in der jeweils geltenden Fassung die folgenden Begriffsbestimmungen:
 
 1. Arbeitstag:
 
@@ -113,11 +119,13 @@ die Übertragung, Abgabe oder Löschung eines Emissionszertifikats;
 
 6. Vorgang:
 
-jede Maßnahme im Zusammenhang mit einem Konto, die keine Transaktion ist.
+jede Maßnahme im Zusammenhang mit einem Konto, die keine Transaktion ist;
+
+7. zuständige Behörde: die zuständige Behörde gemäß § 13 Absatz 1 des Brennstoffemissionshandelsgesetzes.
 
 # § 3 – Zuständige Stelle, beauftragte Stelle, Delegation des Verkaufs zum Festpreis
 
-(1) Zuständige Stelle nach § 10 Absatz 3 Satz 2 Nummer 1 des Brennstoffemissionshandelsgesetzes ist das Umweltbundesamt als zuständige Behörde nach § 13 Absatz 1 des Brennstoffemissionshandelsgesetzes.
+(1) Zuständige Stelle nach § 10 Absatz 3 Satz 2 Nummer 1 des Brennstoffemissionshandelsgesetzes ist die zuständige Behörde.
 
 (2) Die zuständige Stelle wird ermächtigt, eine andere Stelle, die gemäß den jeweils geltenden vergaberechtlichen Vorschriften ermittelt worden ist, mit der Durchführung des Verkaufs der Emissionszertifikate zum Festpreis zu beauftragen (beauftragte Stelle) und der beauftragten Stelle die Emissionszertifikate zum Zwecke des Verkaufs zu übertragen. Die beauftragte Stelle veräußert die Emissionszertifikate im eigenen Namen und führt die Erlöse an den Bund ab. Der Erlös umfasst die Einnahmen aus der Veräußerung von Emissionszertifikaten. Nicht von dem Erlös umfasst sind für die Durchführung des Verkaufs verlangte einheitliche Entgelte nach § 8 Absatz 2.
 
@@ -195,7 +203,7 @@ Käufer im Sinne von Satz 1 ist sowohl derjenige, der für sich selbst Emissions
 
 # § 9 – Emissionshandelsregister und Transaktionsprotokoll
 
-(1) Das Umweltbundesamt führt als zuständige Behörde nach § 13 des Brennstoffemissionshandelsgesetzes das nationale Emissionshandelsregister einschließlich der Registerkonten und der technischen Infrastruktur aufgrund seiner diesbezüglichen Befugnis nach § 12 des Brennstoffemissionshandelsgesetzes.
+(1) Die zuständige Behörde führt das nationale Emissionshandelsregister einschließlich der Registerkonten und der technischen Infrastruktur aufgrund ihrer diesbezüglichen Befugnis nach § 12 des Brennstoffemissionshandelsgesetzes.
 
 (2) Für Vorgänge und Transaktionen im Rahmen dieser Verordnung wird ein organisatorisch unabhängiges Transaktionsprotokoll in Form einer elektronischen Datenbank eingerichtet.
 
@@ -285,11 +293,19 @@ Enthält ein Antrag auf Kontoeröffnung nicht die vollständigen Angaben, ist de
 
 8. ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 Satz 1 und 2 des Brennstoffemissionshandelsgesetzes seiner Berichtspflicht gemäß § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes nicht fristgerecht nachgekommen ist,
 
-9. der Verantwortliche bis zum 31. Juli eines Jahres seiner Pflicht gemäß § 26 Absatz 2 Satz 1 nicht nachgekommen ist oder
+9. der Verantwortliche bis zum 31. Juli eines Jahres seiner Pflicht gemäß § 26 Absatz 2 Satz 1 nicht nachgekommen ist,
 
-10. der zuständigen Behörde eine Verfügungsbeschränkung gemäß § 25 Absatz 3 vorliegt.
+10. der zuständigen Behörde eine Verfügungsbeschränkung gemäß § 25 Absatz 3 vorliegt oder
 
-(2) Die zuständige Behörde setzt die Konten wieder in den Status „offen“, sobald die Gründe, die zur Setzung in den Status „gesperrt“ geführt haben, nicht mehr vorliegen.
+11. ein Insolvenzverfahren über das Vermögen des Kontoinhabers eröffnet worden ist und ein Insolvenzverwalter bestellt wurde oder
+
+12. ein vorläufiger Insolvenzverwalter bestellt worden ist, auf den die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Kontoinhabers übergegangen ist.
+
+(2) Die zuständige Behörde setzt die Konten wieder in den Status „offen“, sobald
+
+1. die Gründe, die zur Setzung in den Status „gesperrt“ geführt haben, nicht mehr vorliegen oder
+
+2. im Fall von Absatz 1 Nummer 11 der Insolvenzverwalter oder im Fall von Absatz 1 Nummer 12 der vorläufige Insolvenzverwalter eine neue kontobevollmächtigte Person ernennt oder die Ernennung der bisherigen kontobevollmächtigten Person oder Personen bestätigt.
 
 # § 15 – Schließung von Konten
 
@@ -329,7 +345,7 @@ Die Voraussetzungen gemäß Satz 1 Nummer 2 und 3 gelten nicht, wenn der Verantw
 
 2. gegen die kontobevollmächtigte Person wegen eines Verbrechens im Sinne von § 12 Absatz 1 des Strafgesetzbuchs oder wegen Unterschlagung, Erpressung, Betruges, Subventionsbetruges, Computerbetruges, Untreue, Geldwäsche, Terrorismusfinanzierung, Urkundenfälschung, Hehlerei, Wucher, einer Steuerstraftat oder einer Insolvenzstraftat ein Ermittlungsverfahren geführt wird oder in den letzten fünf Jahren eine rechtskräftige Verurteilung ergangen ist.
 
-(5) Im Falle der Eröffnung eines Insolvenzverfahrens über das Vermögen des Kontoinhabers und Bestellung eines Insolvenzverwalters oder im Falle der Bestellung eines vorläufigen Insolvenzverwalters, auf den die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Kontoinhabers übergegangen ist, wird der Insolvenzverwalter oder der vorläufige Insolvenzverwalter von der zuständigen Behörde von Amts wegen als kontobevollmächtigte Person ernannt, bis dieser eine andere Person als kontobevollmächtigte Person bestimmt, und werden die bis zur Eröffnung eines Insolvenzverfahrens ernannten kontobevollmächtigten Personen von der zuständigen Behörde von Amts wegen für die von der Insolvenz betroffenen Konten gesperrt, bis diese vom Insolvenzverwalter oder vorläufigen Insolvenzverwalter erneut als kontobevollmächtigte Personen bestimmt werden.
+(5) (weggefallen)
 
 # § 17 – Rechte von kontobevollmächtigten Personen
 
@@ -385,7 +401,7 @@ Die zuständige Behörde oder im Fall der Beauftragung einer beauftragten Stelle
 
 1. die vor 12.00 Uhr eines Arbeitstages veranlasst wurde, ab 12.00 Uhr des darauffolgenden Arbeitstages ausgeführt wird oder
 
-2. die an einem Arbeitstag nach 12.00 Uhr veranlasst wurde, ab 12.00 Uhr des zweiten darauffolgenden Arbeitstages ausgeführt wird.
+2. die ab 12.00 Uhr eines Arbeitstages veranlasst wurde, ab 12.00 Uhr des zweiten darauffolgenden Arbeitstages ausgeführt wird.
 
 Ausgenommen von den Sätzen 1 und 2 sind Übertragungen gemäß § 20.
 
@@ -431,11 +447,9 @@ Die Informationen nach Satz 1 sind für den Kontoinhaber und die kontobevollmäc
 
 (1) Die zuständige Behörde transferiert Emissionszertifikate, die ihre Gültigkeit verloren haben und nicht mehr für eine Abgabe gemäß § 8 des Brennstoffemissionshandelsgesetzes in Verbindung mit § 27 verwendet werden können, vom Veräußerungskonto auf ein Löschungskonto.
 
-(2) Emissionszertifikate, die während der Einführungsphase nach § 10 Absatz 2 Satz 2 des Brennstoffemissionshandelsgesetzes verkauft werden und gemäß § 9 Absatz 1 Satz 3 des Brennstoffemissionshandelsgesetzes für dem auf dem Emissionszertifikat erkennbaren Kalenderjahr nachfolgende Kalenderjahre ungültig geworden sind, können nur noch übertragen werden
+(2) Emissionszertifikate, auf denen gemäß § 19 Absatz 2 Nummer 2 die Zuordnung zu einem Kalenderjahr angegeben ist, das einem Kalenderjahr der Einführungsphase gemäß § 10 Absatz 2 Satz 2 des Brennstoffemissionshandelsgesetzes entspricht, können für Emissionen, die diesem Kalenderjahr zuzuordnen sind, nach Ablauf der Abgabefrist gemäß § 8 des Brennstoffemissionshandelsgesetzes nicht mehr auf Compliance-Konten übertragen werden.
 
-1. zwischen Handelskonten oder
-
-2. zwischen Compliance- und Handelskonten des gleichen Kontoinhabers.
+(3) Kontoinhaber von Compliance-Konten können bestimmen, dass die Beschränkung nach Absatz 2 für ihr Konto nicht gilt.
 
 # § 25 – Verfügungsbeschränkungen
 
@@ -543,7 +557,81 @@ Vorgänge und Transaktionen gelten als abgeschlossen, wenn das Transaktionsproto
 
 4. Transaktionstyp, Transaktionskennung sowie Datum des Abschlusses der Transaktion.
 
-# § 34 – Inkrafttreten
+# § 34 – Festlegung der jährlichen Emissionsmengen
+
+(1) Der prozentuale Anteil der nicht vom EU-Emissionshandel erfassten Brennstoffemissionen an den nicht vom EU-Emissionshandel erfassten gesamten Treibhausgasemissionen in Deutschland betrug im Durchschnitt der Jahre 2016 bis 2018
+
+1. für die Brennstoffe nach Anlage 2 des Brennstoffemissionshandelsgesetzes 70,45 Prozent,
+
+2. für die Brennstoffe nach Anlage 1 des Brennstoffemissionshandelsgesetzes abzüglich der Brennstoffe, für die gemäß § 7 Absatz 2 Satz 3 des Brennstoffemissionshandelsgesetzes die Berichtspflicht nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes erstmals ab dem 1. Januar 2024 gilt, 71,49 Prozent,
+
+3. für die Brennstoffe nach Anlage 1 des Brennstoffemissionshandelsgesetzes 74,49 Prozent.
+
+(2) Für die Jahre 2021 bis 2030 werden folgende jährliche Emissionsmengen nach § 4 Absatz 1 des Brennstoffemissionshandelsgesetzes festgelegt:  
+  
+
+| Jahr | Jährliche Emissionsmenge (in Tonnen CO<sub>2</sub>) |
+|:-----|:----------------------------------------------------|
+| 2021 | 301 037 178                                         |
+| 2022 | 291 116 621                                         |
+| 2023 | 280 149 525                                         |
+| 2024 | 275 998 949                                         |
+| 2025 | 260 092 203                                         |
+| 2026 | 254 774 703                                         |
+| 2027 | 236 220 646                                         |
+| 2028 | 217 666 514                                         |
+| 2029 | 199 112 382                                         |
+| 2030 | 180 558 250                                         |
+
+(3) Die Bundesregierung wird die in Absatz 2 festgelegten jährlichen Emissionsmengen
+
+1. anhand der in Tonnen CO<sub>2</sub>-Äquivalent ausgedrückten jährlichen Emissionszuweisungen überprüfen, die die Europäische Kommission für jeden Mitgliedstaat für die Jahre 2021 bis 2030 in Durchführungsrechtsakten gemäß der EU-Klimaschutzverordnung zur Umsetzung des erhöhten Klimaziels der Europäischen Union für das Jahr 2030 festlegt, und
+
+2. unverzüglich nach Inkrafttreten des jeweiligen Durchführungsrechtsaktes im Lichte der durch die Europäische Kommission festgelegten jährlichen Emissionszuweisungen anpassen.
+
+# § 35 – Bestimmung der jährlichen Erhöhungsmenge
+
+(1) Die zuständige Behörde hat die jährliche Erhöhungsmenge nach § 4 Absatz 3 des Brennstoffemissionshandelsgesetzes nach Maßgabe der Absätze 2 bis 5 zu bestimmen und nach Maßgabe des Absatzes 6 zu veröffentlichen.
+
+(2) Die jährliche Erhöhungsmenge für ein Kalenderjahr ergibt sich aus der Summe der Grunderhöhungsmenge für dieses Kalenderjahr und der Korrekturmenge für das jeweils vorletzte Kalenderjahr.
+
+(3) Die Grunderhöhungsmenge für ein Kalenderjahr ergibt sich aus einer Abschätzung der zuständigen Behörde über die Brennstoffemissionen aus dem Einsatz von Brennstoffen in Anlagen, die dem EU-Emissionshandel unterliegen, für die nicht zu erwarten ist, dass für dieses Kalenderjahr eine Anrechnung erfolgt
+
+1. nach § 11 der Emissionsberichterstattungsverordnung 2022 vom 17. Dezember 2020 (BGBl. I S. 3016), die durch Artikel 2 der Verordnung vom 20. Februar 2023 (BGBl. 2023 I Nr. 47) geändert worden ist, in der jeweils geltenden Fassung oder
+
+2. nach § 17 der Emissionsberichterstattungsverordnung 2030 vom 21. Dezember 2022 (BGBl. I S. 2868) in der jeweils geltenden Fassung.
+
+(4) Die Korrekturmenge für das jeweils vorletzte Kalenderjahr ist die Differenz zwischen
+
+1. der Menge an Brennstoffemissionen, für die eine Kompensation nach § 11 Absatz 2 des Brennstoffemissionshandelsgesetzes für dieses Kalenderjahr gewährt worden ist, und
+
+2. der Grunderhöhungsmenge, die für dieses Kalenderjahr festgelegt worden ist.
+
+(5) Für die Kalenderjahre 2021 und 2022 entspricht die jährliche Erhöhungsmenge nach Absatz 1 der Grunderhöhungsmenge nach Absatz 3.
+
+(6) Die zuständige Behörde veröffentlicht die jährliche Erhöhungsmenge für ein Kalenderjahr spätestens bis zum Ablauf des 31. Dezember des Vorjahres im Bundesanzeiger. Abweichend von Satz 1 veröffentlicht die zuständige Behörde die jährliche Erhöhungsmenge für die Kalenderjahre 2021, 2022 und 2023 spätestens bis zum 31. Dezember 2023.
+
+# § 36 – Bereinigter Zusatzbedarf
+
+(1) Für die Kalenderjahre 2021 bis 2026 bestimmt die zuständige Behörde jeweils den bereinigten Zusatzbedarf an Emissionszertifikaten. Zur Bestimmung des bereinigten Zusatzbedarfs für ein Kalenderjahr wird von der Menge an Brennstoffemissionen, für die Emissionszertifikate nach § 8 des Brennstoffemissionshandelsgesetzes für das betreffende Kalenderjahr abgegeben worden sind (Abgabemenge), Folgendes abgezogen:
+
+1. die Menge an Brennstoffemissionen, für die ein Anspruch auf Kompensationszahlung nach § 11 Absatz 2 des Brennstoffemissionshandelsgesetzes für das entsprechende Kalenderjahr besteht, und
+
+2. die für das entsprechende Kalenderjahr nach § 34 Absatz 2 festgelegte Emissionsmenge.
+
+(2) Die Abgabemenge entspricht der Summe aus
+
+1. der Menge der für ein Kalenderjahr bis zum Ablauf des 30. September des Folgejahres abgegebenen Emissionszertifikate und
+
+2. der Menge an Emissionszertifikaten, die der Gesamtmenge an Brennstoffemissionen entspricht, die gegenüber den jeweils ursprünglich für ein Kalenderjahr berichteten Brennstoffemissionen aufgrund nachträglicher Änderungen der Emissionsberichte für die Kalenderjahre ab dem Jahr 2021 bis zu dem jeweiligen Kalenderjahr im Sinne von Nummer 1 hinzukommen, soweit diese Änderungen der Emissionsberichte nicht bereits bei der Bestimmung der Abgabemenge eines vorangegangenen Kalenderjahres berücksichtigt worden sind.
+
+(3) Die zuständige Behörde veröffentlicht den bereinigten Zusatzbedarf auf ihrer Internetseite
+
+1. für das Kalenderjahr 2021 bis zum Ablauf des 31. März 2024 und
+
+2. für die Kalenderjahre 2022 bis 2026 bis zum Ablauf des 31. März des zweiten auf das betreffende Kalenderjahr folgenden Kalenderjahres.
+
+# § 37 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
