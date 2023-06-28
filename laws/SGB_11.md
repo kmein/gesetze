@@ -4635,6 +4635,8 @@ Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im rechts
 
 (2) Die dem Sondervermögen zufließenden Mittel einschließlich der Erträge sind unter sinngemäßer Anwendung der Anlagerichtlinien für die Sondervermögen „Versorgungsrücklage des Bundes“, „Versorgungsfonds des Bundes“, „Versorgungsfonds der Bundesagentur für Arbeit“ und „Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) zu marktüblichen Bedingungen anzulegen. Dabei ist der in Aktien oder Aktienfonds angelegte Anteil des Sondervermögens ab dem Jahr 2035 über einen Zeitraum von höchstens zehn Jahren abzubauen. Das Bundesministerium für Gesundheit ist im Anlageausschuss nach § 5 der Anlagerichtlinien für die Sondervermögen „Versorgungsrücklage des Bundes“, „Versorgungsfonds des Bundes“, „Versorgungsfonds der Bundesagentur für Arbeit“ und „Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) vertreten.
 
+(3) Für Zwecke der Doppelbesteuerungsabkommen gilt das Sondervermögen als in Deutschland ansässige Person, die der deutschen Besteuerung unterliegt.
+
 # § 135 – Zuführung der Mittel
 
 (1) Das Bundesamt für Soziale Sicherung führt dem Sondervermögen monatlich zum 20. des Monats zu Lasten des Ausgleichsfonds einen Betrag zu, der einem Zwölftel von 0,1 Prozent der beitragspflichtigen Einnahmen der sozialen Pflegeversicherung des Vorjahres entspricht. Für die Berechnung des Abführungsbetrags wird der Beitragssatz gemäß § 55 Absatz 1 zugrunde gelegt.
