@@ -345,8 +345,6 @@ Die Voraussetzungen gemäß Satz 1 Nummer 2 und 3 gelten nicht, wenn der Verantw
 
 2. gegen die kontobevollmächtigte Person wegen eines Verbrechens im Sinne von § 12 Absatz 1 des Strafgesetzbuchs oder wegen Unterschlagung, Erpressung, Betruges, Subventionsbetruges, Computerbetruges, Untreue, Geldwäsche, Terrorismusfinanzierung, Urkundenfälschung, Hehlerei, Wucher, einer Steuerstraftat oder einer Insolvenzstraftat ein Ermittlungsverfahren geführt wird oder in den letzten fünf Jahren eine rechtskräftige Verurteilung ergangen ist.
 
-(5) (weggefallen)
-
 # § 17 – Rechte von kontobevollmächtigten Personen
 
 (1) Die zuständige Behörde gewährt kontobevollmächtigten Personen für Konten im nationalen Emissionshandelsregister Zugang zu den ihnen zugeordneten Konten.
