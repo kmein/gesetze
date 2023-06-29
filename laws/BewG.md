@@ -2514,7 +2514,7 @@ Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend vo
 
 Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und forstwirtschaftlichen Vermögen zugeordnet und sind wie land- und forstwirtschaftliches Vermögen zu bewerten. Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 1 werden dem Grundvermögen zugeordnet und sind wie Grundvermögen zu bewerten.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2530,7 +2530,7 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 (3) Die Feststellungen nach den Absätzen 1 und 2 erfolgen nur, soweit sie für die Besteuerung von Bedeutung sind.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2538,7 +2538,7 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. Bei der Ermittlung der Grundsteuerwerte ist § 163 der Abgabenordnung nicht anzuwenden; hiervon unberührt bleiben Übergangsregelungen, die die oberste Finanzbehörde eines Landes im Einvernehmen mit den obersten Finanzbehörden der übrigen Länder trifft.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2548,7 +2548,7 @@ Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. B
 
 (2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des Kalenderjahres (Hauptfeststellungszeitpunkt) zugrunde gelegt.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2566,7 +2566,7 @@ Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. B
 
 2. in den Fällen des Absatzes 3 der Beginn des Kalenderjahres, in dem der Fehler dem Finanzamt bekannt wird, bei einer Erhöhung des Grundsteuerwerts jedoch frühestens der Beginn des Kalenderjahres, in dem der Feststellungsbescheid erteilt wird.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2584,7 +2584,7 @@ Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. B
 
 2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung zugrunde gelegt wird.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2602,7 +2602,7 @@ Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. B
 
 2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung nicht mehr zugrunde gelegt wird.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2610,7 +2610,7 @@ Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. B
 
 Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwerten können schon vor dem maßgeblichen Feststellungszeitpunkt erteilt werden. Sie sind zu ändern oder aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die zu einer abweichenden Feststellung führen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2620,7 +2620,7 @@ Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwe
 
 (2) Absatz 1 ist bei der Aufhebung des Grundsteuerwerts (§ 224) entsprechend anzuwenden.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2628,7 +2628,7 @@ Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwe
 
 Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu legen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2652,7 +2652,7 @@ Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die We
 
 (6) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine Übermittlung durch Datenfernübertragung verzichten. Für die Entscheidung über den Antrag gilt § 150 Absatz 8 der Abgabenordnung.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2678,7 +2678,7 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist gleichzeitig der Tag des Eingangs
 
 (6) Die nach den Absätzen 3 oder 4 mitteilungspflichtigen Stellen übermitteln die Mitteilungen den Finanzbehörden nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle. Die Grundbuchämter und die für die Führung des Liegenschaftskatasters zuständigen Behörden übermitteln die bei ihnen geführten Daten laufend, mindestens alle drei Monate. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder und den obersten Vermessungs- und Katasterbehörden der Länder die Einzelheiten der elektronischen Übermittlung und deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im Bundessteuerblatt zu veröffentlichen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2686,7 +2686,7 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist gleichzeitig der Tag des Eingangs
 
 Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2696,7 +2696,7 @@ Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet
 
 (2) Die ausländischen Teile einer wirtschaftlichen Einheit unterliegen nicht der gesonderten Feststellung nach § 219.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 218 bis 231 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2730,7 +2730,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand, der zur ge
 
 4. Geldschulden und Pensionsverpflichtungen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 233 – Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
 
@@ -2740,7 +2740,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand, der zur ge
 
 (3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz 1 gilt nicht für die Hofstelle.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 234 – Betrieb der Land- und Forstwirtschaft
 
@@ -2793,7 +2793,7 @@ d) Hofstelle,
 
 (7) Als Nebenbetrieb gilt ein Betrieb, der dem Hauptbetrieb zu dienen bestimmt ist und nicht einen selbständigen gewerblichen Betrieb darstellt.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 § 234 Abs. 6 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 § 234 Abs. 6 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2804,7 +2804,7 @@ d) Hofstelle,
 (2) Für die stehenden und umlaufenden Betriebsmittel ist der Stand am Ende des Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt vorangegangen ist.
 
 (+++ § 235: Zur Anwendung vgl. § 265 +++)  
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 236 – Bewertungsgrundsätze
 
@@ -2816,7 +2816,7 @@ d) Hofstelle,
 
 (4) Der Ertragswert ist das 18,6fache der Summe der Reinerträge des Betriebs.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 237 – Bewertung des Betriebs der Land- und Forstwirtschaft
 
@@ -2836,7 +2836,7 @@ d) Hofstelle,
 
 (8) Der Reinertrag für die Hofflächen und die Nebenbetriebe ermittelt sich aus der Summe der Flächenwerte. Der Flächenwert ist das Produkt aus der jeweils als Hofstelle gesetzlich klassifizierten Eigentumsfläche des Betriebs und dem dreifachen Bewertungsfaktor gemäß Anlage 32.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 238 – Zuschläge zum Reinertrag
 
@@ -2850,7 +2850,7 @@ d) Hofstelle,
 
 (2) Der Reinertrag einer Nutzung oder Nutzungsart ist um einen Zuschlag zu erhöhen, wenn die Eigentumsflächen des Betriebs zugleich der Stromerzeugung aus Windenergie dienen. Der Zuschlag ermittelt sich aus dem Produkt der abgegrenzten Standortfläche der Windenergieanlage und dem Bewertungsfaktor gemäß Anlage 33.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 239 – Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
 
@@ -2858,7 +2858,7 @@ d) Hofstelle,
 
 (2) Die Summe der Reinerträge einschließlich der Zuschläge (§§ 237, 238) eines Betriebs der Land- und Forstwirtschaft ist für jede Gemeinde gesondert zu ermitteln, wenn sich die wirtschaftliche Einheit über mehrere Gemeinden erstreckt. Der auf eine Gemeinde entfallende Anteil am Grundsteuerwert berechnet sich aus der jeweils für eine Gemeinde gesondert ermittelten Summe der Reinerträge im Verhältnis zur Gesamtsumme der Reinerträge des Betriebs der Land- und Forstwirtschaft.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 240 – Kleingartenland und Dauerkleingartenland
 
@@ -2870,7 +2870,7 @@ d) Hofstelle,
 
 (4) Die Summe der Reinerträge nach den Absätzen 2 und 3 ist zur Ermittlung des Ertragswerts mit dem Faktor 18,6 zu kapitalisieren und ergibt den Grundsteuerwert des Betriebs der Land-und Forstwirtschaft.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 241 – Tierbestände
 
@@ -2910,7 +2910,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 (5) Der Umrechnungsschlüssel für Tierbestände in Vieheinheiten sowie die Gruppen der mehr oder weniger flächenabhängigen Zweige des Tierbestands sind den Anlagen 34 und 35 zu entnehmen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 242 – Übrige land- und forstwirtschaftliche Nutzungen
 
@@ -2942,7 +2942,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 10. die Kurzumtriebsplantagen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)
 
 # § 243 – Begriff des Grundvermögens
 
@@ -2964,7 +2964,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 (3) Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2984,7 +2984,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 4. jedes Wohnungserbbaurecht und Teilerbbaurecht zusammen mit dem anteiligen belasteten Grund und Boden.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -2992,7 +2992,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und Katastrophenhilfegesetzes bezeichneten Zwecke geschaffen worden sind und im Frieden nicht oder nur gelegentlich oder geringfügig für andere Zwecke benutzt werden, bleiben bei der Ermittlung des Grundsteuerwerts außer Betracht.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3002,7 +3002,7 @@ Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und 
 
 (2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner Nutzung zugeführt werden können, so gilt das Grundstück als unbebaut. Als unbebaut gilt auch ein Grundstück, auf dem infolge von Zerstörung oder Verfall der Gebäude auf Dauer kein benutzbarer Raum mehr vorhanden ist.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3020,7 +3020,7 @@ nicht berücksichtigt.
 
 (3) Wird von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs kein Bodenrichtwert ermittelt, ist der Wert des unbebauten Grundstücks aus den Werten vergleichbarer Flächen abzuleiten.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3028,7 +3028,7 @@ nicht berücksichtigt.
 
 Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist der bezugsfertige Teil als benutzbares Gebäude anzusehen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3070,7 +3070,7 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 (10) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3098,7 +3098,7 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 4. sonstige bebaute Grundstücke.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3106,7 +3106,7 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 75 Prozent des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre (§ 247). Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 ist bei der Ermittlung des Mindestwerts § 257 Absatz 1 Satz 2 anzuwenden.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3114,7 +3114,7 @@ Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als
 
 Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kapitalisierten Reinertrags nach § 253 (Barwert des Reinertrags) und des abgezinsten Bodenwerts nach § 257. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3124,7 +3124,7 @@ Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kap
 
 (2) Der Reinertrag des Grundstücks ist mit dem sich aus Anlage 37 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz nach § 256 und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer ist grundsätzlich der Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus Anlage 38 ergibt, und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt. Sind nach der Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einer der Verlängerung entsprechenden Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt mindestens 30 Prozent der wirtschaftlichen Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die Restnutzungsdauer abweichend von den Sätzen 3 bis 5 auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt begrenzt.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3132,7 +3132,7 @@ Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kap
 
 Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage 39 nach Land, Gebäudeart, Wohnfläche und Baujahr des Gebäudes angegebenen monatlichen Nettokaltmieten je Quadratmeter Wohnfläche einschließlich der in Abhängigkeit der Mietniveaustufen festgelegten Zu- und Abschläge.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3140,7 +3140,7 @@ Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage 39 nach 
 
 Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und zulässiger Nutzung marktüblich entstehenden jährlichen Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis berücksichtigt, die nicht durch Umlagen oder sonstige Kostenübernahmen gedeckt sind. Sie ergeben sich aus den pauschalierten Erfahrungssätzen nach Anlage 40.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3160,7 +3160,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Bei der Bewertung von Wohnungseigentum im Sinne des § 249 Absatz 5 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 2 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 2 000 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 3 000 Euro je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich 2 Prozent.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3172,7 +3172,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Eine selbständig nutzbare Teilfläche ist ein Teil eines Grundstücks, der für die angemessene Nutzung der Gebäude nicht benötigt wird und selbständig genutzt oder verwertet werden kann.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3184,7 +3184,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Die Summe aus Bodenwert (§ 247) und Gebäudesachwert (§ 259) ergibt den vorläufigen Sachwert des Grundstücks. Dieser ist zur Ermittlung des Grundsteuerwerts im Sachwertverfahren mit der Wertzahl nach § 260 zu multiplizieren. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3198,7 +3198,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (4) Vom Gebäudenormalherstellungswert ist eine Alterswertminderung abzuziehen. Die Alterswertminderung ergibt sich durch Multiplikation des Gebäudenormalherstellungswerts mit dem Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur wirtschaftlichen Gesamtnutzungsdauer nach Anlage 38. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einem der Verlängerung entsprechenden späteren Baujahr auszugehen. Der nach Abzug der Alterswertminderung verbleibende Gebäudewert ist mit mindestens 30 Prozent des Gebäudenormalherstellungswerts anzusetzen. Bei bestehender Abbruchverpflichtung für das Gebäude ist die Alterswertminderung abweichend von den Sätzen 2 bis 4 auf das Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur tatsächlichen Gesamtnutzungsdauer begrenzt.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3206,7 +3206,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des Grundstücks im Sinne des § 258 Absatz 3 mit der sich aus Anlage 43 ergebenden Wertzahl zu multiplizieren.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3214,7 +3214,7 @@ Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des Grundstück
 
 Bei Erbbaurechten ist für das Erbbaurecht und das Erbbaurechtsgrundstück ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln, der festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde. Der ermittelte Wert ist dem Erbbauberechtigten zuzurechnen. Für Wohnungserbbaurechte und Teilerbbaurechte gelten die Sätze 1 und 2 entsprechend.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3222,7 +3222,7 @@ Bei Erbbaurechten ist für das Erbbaurecht und das Erbbaurechtsgrundstück ein G
 
 Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und Boden sowie für das Gebäude auf fremdem Grund und Boden ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln. Der ermittelte Wert ist dem Eigentümer des Grund und Bodens zuzurechnen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3240,7 +3240,7 @@ In der jeweiligen Rechtsverordnung kann das Bundesministerium der Finanzen zur S
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und Abschläge nach § 254 in Verbindung mit Anlage 39 Teil II auf der Grundlage der Einordnung nach § 12 des Wohngeldgesetzes in Verbindung mit § 1 Absatz 3 und der Anlage der Wohngeldverordnung für steuerliche Zwecke herzuleiten und den dafür maßgeblichen Gebietsstand festzulegen.
 
-§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§§ 218 bis 263 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 §§ 243 bis 263 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 
@@ -3290,7 +3290,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (5) Bestehende wirtschaftliche Einheiten, die für Zwecke der Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
-§ 266 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30)  
+§ 266 idF d. Bek v. 1.2.1991 I 230: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30) u. durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161)  
 § 266 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch Änderung des Niedersächsischen Grundsteuergesetzes v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
 § 266 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55)
 

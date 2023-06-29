@@ -350,8 +350,6 @@ e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 3 A
 
 (3) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse der betroffenen Person an der Löschung als gering anzusehen, besteht das Recht der betroffenen Person auf Löschung personenbezogener Daten und die Pflicht der Meldebehörde zur Löschung personenbezogener Daten nach Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679.
 
-(4) Die Meldebehörde hat Daten, die nach § 3 Absatz 1 Nummer 17a gespeichert sind, zu löschen, sobald sie von der Ausländerbehörde nach § 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
-
 # § 15 – Aufbewahrung und Löschung von Hinweisen
 
 Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert werden, um die Richtigkeit der jeweiligen Daten nachzuweisen.

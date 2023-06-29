@@ -63,7 +63,13 @@ a) ohne direkte Gegenleistung, oder
 
 b) gegen Zahlung mittels Bargeld in unmittelbarer Nähe zum Ladepunkt, oder
 
-2. an dem jeweiligen Ladepunkt die für den bargeldlosen Zahlungsvorgang erforderliche Authentifizierung und den Zahlungsvorgang mittels eines gängigen kartenbasierten Zahlungssystems beziehungsweise Zahlungsverfahrens in unmittelbarer Nähe zum Ladepunkt oder mittels eines gängigen webbasierten Systems ermöglicht, wobei in der Menüführung mindestens die Sprachen Deutsch und Englisch zu berücksichtigen sind und mindestens eine Variante des Zugangs zum webbasierten Zahlungssystem kostenlos ermöglicht werden muss.
+2. an dem jeweiligen Ladepunkt oder in dessen unmittelbarer Nähe
+
+a) die für den bargeldlosen Zahlungsvorgang erforderliche Authentifizierung ermöglicht und
+
+b) einen kontaktlosen Zahlungsvorgang mindestens mittels eines gängigen Debit- und Kreditkartensystems durch Vorhalten einer Karte mit der Fähigkeit zur Nahfeldkommunikation anbietet.
+
+Im Fall von Satz 2 Nummer 2 kann die Bezahlung zusätzlich mittels eines gängigen webbasierten Systems ermöglicht werden, wenn die Menüführung auf Deutsch und Englisch verfügbar ist und mindestens eine Variante des Zugangs zu einem webbasierten Bezahlsystem kostenlos ermöglicht wird. § 270a des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 # § 5 – Anzeige- und Nachweispflichten
 
@@ -101,10 +107,18 @@ Ladepunkte mit einer Ladeleistung von höchstens 3,7 Kilowatt sind von den Anfor
 
 (2) Ladepunkte, die vor dem 14. Dezember 2017 in Betrieb genommen worden sind, sind von den Anforderungen nach § 3 Absatz 4 und § 4 ausgenommen.
 
-(3) Ladepunkte, die vor dem 1. März 2022 in Betrieb genommen worden sind, sind von den Anforderungen nach § 3 Absatz 4 ausgenommen.
+(3) Für Ladepunkte, die vor dem 1. März 2022 in Betrieb genommen worden sind, sind
 
-(4) Die in den Absätzen 1 bis 3 genannten Ladepunkte müssen hinsichtlich der dort genannten Anforderungen nicht nachgerüstet werden.
+1. § 3 Absatz 4 nicht anzuwenden,
+
+2. § 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
+
+(4) Für Ladepunkte, die vor dem 1. Juli 2024 in Betrieb genommen worden sind, ist § 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
 
 # Schlussformel
 
 Der Bundesrat hat zugestimmt.
+
+# § 9 – Anwendungsbestimmungen
+
+Bis zum Ablauf des 30. Juni 2024 sind § 4 und § 8 Absatz 3 und 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.

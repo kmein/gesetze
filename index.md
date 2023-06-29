@@ -4897,6 +4897,7 @@
 - [SchKG§19Abs2/§24Bek 2019](laws/SchKG§19Abs2_§24Bek_2019.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2019 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2020](laws/SchKG§19Abs2_§24Bek_2020.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2020 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2022](laws/SchKG§19Abs2_§24Bek_2022.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2022 geltenden Beträge
+- [SchKG§19Abs2/§24Bek 2023](laws/SchKG§19Abs2_§24Bek_2023.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2023 geltenden Beträge
 - [SchKiSpV](laws/SchKiSpV.md) Verordnung über die Schüler- und Kinderspeisung
 - [SchKiSpVDBest 1](laws/SchKiSpVDBest_1.md) Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
 - [SchlärmschG](laws/SchlärmschG.md) Gesetz zum Verbot des Betriebs lauter Güterwagen
