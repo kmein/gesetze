@@ -115,10 +115,10 @@ Ladepunkte mit einer Ladeleistung von höchstens 3,7 Kilowatt sind von den Anfor
 
 (4) Für Ladepunkte, die vor dem 1. Juli 2024 in Betrieb genommen worden sind, ist § 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 9 – Anwendungsbestimmungen
 
 Bis zum Ablauf des 30. Juni 2024 sind § 4 und § 8 Absatz 3 und 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
