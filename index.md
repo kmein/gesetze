@@ -994,6 +994,7 @@
 - [BMVgBDGAnO](laws/BMVgBDGAnO.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgBDODAnO](laws/BMVgBDODAnO.md) Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschäftsbereich des Bundesministers der Verteidigung
 - [BMVgBeamtVZustAnO](laws/BMVgBeamtVZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung
+- [BMVgVFAPrV](laws/BMVgVFAPrV.md) Verordnung für die Durchführung der Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter – Fachrichtung Bundesverwaltung – im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgWidKlaZustAnO](laws/BMVgWidKlaZustAnO.md) Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgWidVertrAnO](laws/BMVgWidVertrAnO.md) Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung der Bundesrepublik Deutschland bei Klagen in Angelegenheiten der Besoldung, der Versorgung, des Wehrsolds, der Beihilfe und der Unterhaltssicherung im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgZVersAnO](laws/BMVgZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Verteidigung
@@ -2986,7 +2987,7 @@
 - [IVSG](laws/IVSG.md) Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern 1
 - [IZÜV](laws/IZÜV.md) Verordnung zur Regelung des Verfahrens bei Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen
 - [JAbschlVUV](laws/JAbschlVUV.md) Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen
-- [JAbschlWUV](laws/JAbschlWUV.md) Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
+- [JAbschlWUV](laws/JAbschlWUV.md) Verordnung über die Gliederung des Jahresabschlusses von Wohnungsunternehmen
 - [JagdzeitV 1977](laws/JagdzeitV_1977.md) Verordnung über die Jagdzeiten
 - [JAktAG](laws/JAktAG.md) Gesetz zur Aufbewahrung und Speicherung von Akten der Gerichte und Staatsanwaltschaften nach Beendigung des Verfahrens
 - [JAktAV](laws/JAktAV.md) Verordnung über die Aufbewahrung und Speicherung von Justizakten
@@ -3277,7 +3278,6 @@
 - [KüSchV](laws/KüSchV.md) Verordnung über die Küstenschifffahrt
 - [KüstmProkBek](laws/KüstmProkBek.md) Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
 - [KugÖV](laws/KugÖV.md) Verordnung über die Öffnung des Kurzarbeitergeldbezugs für Leiharbeitnehmerinnen und Leiharbeitnehmer
-- [KugZuV](laws/KugZuV.md) Verordnung zur Verlängerung der Zugangserleichterungen für den Bezug von Kurzarbeitergeld
 - [KultErhStudZVorRV](laws/KultErhStudZVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
 - [KultgSchKonv](laws/KultgSchKonv.md) Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
 - [KultgSchKonvABest](laws/KultgSchKonvABest.md) Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
@@ -4818,6 +4818,7 @@
 - [RWBestV 2019](laws/RWBestV_2019.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2019
 - [RWBestV 2020](laws/RWBestV_2020.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2020
 - [RWBestV 2021](laws/RWBestV_2021.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2021
+- [RWBestV 2023](laws/RWBestV_2023.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023
 - [RZV](laws/RZV.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SAA MNE](laws/SAA_MNE.md) Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
 - [SaarGlV](laws/SaarGlV.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
@@ -6704,7 +6705,7 @@
 - [5. RAV](laws/5._RAV.md) Fünfte Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [5. SGG-ÄndG](laws/5._SGG-ÄndG.md) Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [5. VermBG](laws/5._VermBG.md) Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer
-- [53. AnrV](laws/53._AnrV.md) Dreiundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
+- [54. AnrV](laws/54._AnrV.md) Vierundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
 - [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1

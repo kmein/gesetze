@@ -7,7 +7,7 @@ Auf Grund des § 16 Absatz 6 des Mindestlohngesetzes vom 11. August 2014 (BGBl. 
 
 # § 1 – Meldestelle
 
-Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im Sinne von § 16 Absatz 1 Satz 1 und Absatz 3 Satz 1 des Mindestlohngesetzes.
+Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im Sinne von § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 des Mindestlohngesetzes.
 
 # § 2 – Inkrafttreten
 

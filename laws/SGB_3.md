@@ -545,6 +545,10 @@ Kosten für auswärtige Unterbringung und für Verpflegung
 
 Kinderbetreuungskosten
 
+§ 87a
+
+Weiterbildungsprämie und Weiterbildungsgeld
+
  
 
  
@@ -1010,7 +1014,7 @@ Grundsatz
 
 § 148
 
-Minderung der Anspruchsdauer
+Minderung und Verlängerung der Anspruchsdauer
 
  
 
@@ -2357,6 +2361,10 @@ Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änd
 
 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
+§ 456
+
+Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+
 # § 1 – Ziele der Arbeitsförderung
 
 (1) Die Arbeitsförderung soll dem Entstehen von Arbeitslosigkeit entgegenwirken, die Dauer der Arbeitslosigkeit verkürzen und den Ausgleich von Angebot und Nachfrage auf dem Ausbildungs- und Arbeitsmarkt unterstützen. Dabei ist insbesondere durch die Verbesserung der individuellen Beschäftigungsfähigkeit Langzeitarbeitslosigkeit zu vermeiden. Die Gleichstellung von Frauen und Männern ist als durchgängiges Prinzip der Arbeitsförderung zu verfolgen. Die Arbeitsförderung soll dazu beitragen, dass ein hoher Beschäftigungsstand erreicht und die Beschäftigungsstruktur ständig verbessert wird. Sie ist so auszurichten, dass sie der beschäftigungspolitischen Zielsetzung der Sozial-, Wirtschafts- und Finanzpolitik der Bundesregierung entspricht.
@@ -3611,13 +3619,11 @@ Arbeitnehmerinnen und Arbeitnehmer ohne Berufsabschluss, die noch nicht drei Jah
 
 Absatz 2 Satz 2 gilt entsprechend. Die Leistung wird nur erbracht, soweit sie nicht für den gleichen Zweck durch Dritte erbracht wird. Die Agentur für Arbeit hat darauf hinzuwirken, dass sich die für die allgemeine Schulbildung zuständigen Länder an den Kosten der Maßnahme beteiligen. Leistungen Dritter zur Aufstockung der Leistung bleiben anrechnungsfrei.
 
-(3a) Arbeitnehmerinnen und Arbeitnehmer können zum Erwerb von Grundkompetenzen durch Übernahme der Weiterbildungskosten gefördert werden, wenn
+(3a) Arbeitnehmerinnen und Arbeitnehmer können zum Erwerb von Grundkompetenzen durch die Übernahme der Weiterbildungskosten gefördert werden, wenn
 
-1. die in Absatz 1 genannten Voraussetzungen für die Förderung der beruflichen Weiterbildung erfüllt sind,
+1. die in Absatz 1 genannten Voraussetzungen für die Förderung der beruflichen Weiterbildung erfüllt sind und
 
-2. die Arbeitnehmerinnen und Arbeitnehmer nicht über ausreichende Grundkompetenzen verfügen, um erfolgreich an einer beruflichen Weiterbildung teilzunehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, und
-
-3. nach einer Teilnahme an der Maßnahme zum Erwerb von Grundkompetenzen der erfolgreiche Abschluss einer beruflichen Weiterbildung nach Nummer 2 erwartet werden kann.
+2. der Erwerb der Grundkompetenzen die Grundlage schafft für eine erfolgreiche berufliche Weiterbildung oder allgemein die Beschäftigungsfähigkeit verbessert.
 
 (4) Der Arbeitnehmerin oder dem Arbeitnehmer wird das Vorliegen der Voraussetzungen für eine Förderung bescheinigt (Bildungsgutschein). Der Bildungsgutschein kann zeitlich befristet sowie regional und auf bestimmte Bildungsziele beschränkt werden. Der von der Arbeitnehmerin oder vom Arbeitnehmer ausgewählte Träger hat der Agentur für Arbeit den Bildungsgutschein vor Beginn der Maßnahme vorzulegen. Die Agentur für Arbeit kann auf die Ausstellung eines Bildungsgutscheins bei beschäftigten Arbeitnehmerinnen und Arbeitnehmern verzichten, wenn
 
@@ -3742,6 +3748,16 @@ Ist eine auswärtige Unterbringung erforderlich, so kann
 # § 87 – Kinderbetreuungskosten
 
 Kosten für die Betreuung der aufsichtsbedürftigen Kinder der Arbeitnehmerin oder des Arbeitnehmers können pauschal in Höhe von 160 Euro monatlich je Kind übernommen werden.
+
+# § 87a – Weiterbildungsprämie und Weiterbildungsgeld
+
+(1) Arbeitnehmerinnen und Arbeitnehmer erhalten folgende Prämien, wenn sie an einer nach § 81 geförderten beruflichen Weiterbildung teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist:
+
+1. nach Bestehen einer in den genannten Vorschriften geregelten Zwischenprüfung oder des ersten Teils einer gestreckten Abschlussprüfung eine Prämie von 1 000 Euro und
+
+2. nach Bestehen einer in den genannten Vorschriften geregelten Abschlussprüfung eine Prämie von 1 500 Euro.
+
+(2) Arbeitslose Arbeitnehmerinnen und Arbeitnehmer erhalten bei Teilnahme an einer Weiterbildung nach Absatz 1 zusätzlich einen monatlichen Zuschuss in Höhe von 150 Euro (Weiterbildungsgeld).
 
 # § 88 – Eingliederungszuschuss
 
@@ -4381,7 +4397,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über Voraussetz
 
 (1) (weggefallen)
 
-(2) Abweichend von § 81 Absatz 4 kann die Agentur für Arbeit unter Anwendung des Vergaberechts Träger mit der Durchführung von folgenden Maßnahmen beauftragen, wenn die Maßnahmen vor Ablauf des 31. Dezember 2023 beginnen:
+(2) Abweichend von § 81 Absatz 4 kann die Agentur für Arbeit unter Anwendung des Vergaberechts Träger mit der Durchführung von folgenden Maßnahmen beauftragen, wenn die Maßnahmen vor Ablauf des 31. Dezember 2026 beginnen:
 
 1. Maßnahmen, die zum Erwerb von Grundkompetenzen nach § 81 Absatz 3a führen,
 
@@ -4391,11 +4407,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über Voraussetz
 
 Für Maßnahmen nach Nummer 2 gilt § 180 Absatz 4 entsprechend. § 176 Absatz 2 Satz 2 findet keine Anwendung.
 
-(3) Arbeitnehmerinnen und Arbeitnehmer, die an einer nach § 81 geförderten beruflichen Weiterbildung teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, erhalten folgende Prämien, wenn die Maßnahme vor Ablauf des 31. Dezember 2023 beginnt:
-
-1. nach Bestehen einer in diesen Vorschriften geregelten Zwischenprüfung eine Prämie von 1 000 Euro und
-
-2. nach Bestehen der Abschlussprüfung eine Prämie von 1 500 Euro.
+(3) (weggefallen)
 
 # § 131b – Weiterbildungsförderung in der Altenpflege
 
@@ -4597,7 +4609,7 @@ Abweichend von Absatz 1 sind nur die Versicherungspflichtverhältnisse innerhalb
 
 (4) Die Dauer des Anspruchs verlängert sich um die Restdauer des wegen Entstehung eines neuen Anspruchs erloschenen Anspruchs, wenn nach der Entstehung des erloschenen Anspruchs noch nicht fünf Jahre verstrichen sind; sie verlängert sich längstens bis zu der dem Lebensalter der oder des Arbeitslosen zugeordneten Höchstdauer.
 
-# § 148 – Minderung der Anspruchsdauer
+# § 148 – Minderung und Verlängerung der Anspruchsdauer
 
 (1) Die Dauer des Anspruchs auf Arbeitslosengeld mindert sich um
 
@@ -4617,9 +4629,11 @@ Abweichend von Absatz 1 sind nur die Versicherungspflichtverhältnisse innerhalb
 
 8. die Anzahl von Tagen, für die ein Gründungszuschuss in der Höhe des zuletzt bezogenen Arbeitslosengeldes geleistet worden ist.
 
-(2) In den Fällen des Absatzes 1 Nummer 5 und 6 mindert sich die Dauer des Anspruchs auf Arbeitslosengeld höchstens um vier Wochen. In den Fällen des Absatzes 1 Nummer 3 und 4 entfällt die Minderung für Sperrzeiten bei Abbruch einer beruflichen Eingliederungsmaßnahme oder Arbeitsaufgabe, wenn das Ereignis, das die Sperrzeit begründet, bei Erfüllung der Voraussetzungen für den Anspruch auf Arbeitslosengeld länger als ein Jahr zurückliegt. In den Fällen des Absatzes 1 Nummer 7 unterbleibt eine Minderung, soweit sich dadurch eine Anspruchsdauer von weniger als einem Monat ergibt. Ist ein neuer Anspruch entstanden, erstreckt sich die Minderung nur auf die Restdauer des erloschenen Anspruchs (§ 147 Absatz 4).
+(2) In den Fällen des Absatzes 1 Nummer 5 und 6 mindert sich die Dauer des Anspruchs auf Arbeitslosengeld höchstens um vier Wochen. In den Fällen des Absatzes 1 Nummer 3 und 4 entfällt die Minderung für Sperrzeiten bei Abbruch einer beruflichen Eingliederungsmaßnahme, bei Abbruch eines Integrationskurses oder einer berufsbezogenen Deutschsprachförderung oder bei Arbeitsaufgabe, wenn das Ereignis, das die Sperrzeit begründet, bei Erfüllung der Voraussetzungen für den Anspruch auf Arbeitslosengeld länger als ein Jahr zurückliegt. In den Fällen des Absatzes 1 Nummer 7 unterbleibt eine Minderung, soweit sich dadurch eine Anspruchsdauer von weniger als drei Monaten ergibt. Ist ein neuer Anspruch entstanden, erstreckt sich die Minderung nur auf die Restdauer des erloschenen Anspruchs (§ 147 Absatz 4).
 
-(3) In den Fällen des Absatzes 1 Nummer 1, 2 und 7 entfällt die Minderung für Tage, für die der Bundesagentur das nach den §§ 145, 157 Absatz 3 oder nach § 158 Absatz 4 geleistete Arbeitslosengeld einschließlich der darauf entfallenden Beiträge zur Kranken-, Renten- und Pflegeversicherung erstattet oder ersetzt wurde; Bruchteile von Tagen sind auf volle Tage aufzurunden.
+(3) Ist in den Fällen des Absatzes 1 Nummer 7 die oder der Arbeitslose wegen einer beruflichen Weiterbildung für eine Dauer von mindestens sechs Monaten gefördert worden und beträgt die Restdauer ihres oder seines Anspruchs weniger als drei Monate, erfolgt einmalig für den Anspruch auf Arbeitslosengeld eine Verlängerung der Anspruchsdauer auf drei Monate.
+
+(4) In den Fällen des Absatzes 1 Nummer 1, 2 und 7 entfällt die Minderung für Tage, für die der Bundesagentur das nach den §§ 145, 157 Absatz 3 oder nach § 158 Absatz 4 geleistete Arbeitslosengeld einschließlich der darauf entfallenden Beiträge zur Kranken-, Renten- und Pflegeversicherung erstattet oder ersetzt wurde; Bruchteile von Tagen sind auf volle Tage aufzurunden.
 
 # § 149 – Grundsatz
 
@@ -5061,6 +5075,8 @@ haben Anspruch auf Übernahme der Beiträge, die für die Dauer des Leistungsbez
 
 (3) Die Leistungsbezieherin oder der Leistungsbezieher wird insoweit von der Verpflichtung befreit, Beiträge an das private Krankenversicherungsunternehmen zu zahlen, als die Bundesagentur die Beitragszahlung für sie oder ihn übernommen hat.
 
+(4) Für Bezieherinnen und Bezieher von Arbeitslosengeld, die Mitglied in einer in § 176 Absatz 1 des Fünften Buches genannten Solidargemeinschaft sind, gelten Absatz 1 Nummer 1 und Absatz 2 Satz 1 und 2 Nummer 1 entsprechend. Für Bezieherinnen und Bezieher von Arbeitslosengeld, die nach § 21a Absatz 1 Satz 1 des Elften Buches in der sozialen Pflegeversicherung versicherungspflichtig sind oder nach § 23 Absatz 4a des Elften Buches bei einem privaten Versicherungsunternehmen gegen das Risiko der Pflegebedürftigkeit versichert sind, wird für die Dauer des Leistungsbezugs ein Zuschuss zum Beitrag geleistet; für die Höhe des Zuschusses gelten Absatz 2 Satz 1 und 2 Nummer 2 entsprechend.
+
 # § 175 – Zahlung von Pflichtbeiträgen bei Insolvenzereignis
 
 (1) Den Gesamtsozialversicherungsbeitrag nach § 28d des Vierten Buches, der auf Arbeitsentgelte für die letzten dem Insolvenzereignis vorausgegangenen drei Monate des Arbeitsverhältnisses entfällt und bei Eintritt des Insolvenzereignisses noch nicht gezahlt worden ist, zahlt die Agentur für Arbeit auf Antrag der zuständigen Einzugsstelle; davon ausgenommen sind Säumniszuschläge, die infolge von Pflichtverletzungen des Arbeitgebers zu zahlen sind, sowie die Zinsen für dem Arbeitgeber gestundete Beiträge. Die Einzugsstelle hat der Agentur für Arbeit die Beiträge nachzuweisen und dafür zu sorgen, dass die Beschäftigungszeit und das beitragspflichtige Bruttoarbeitsentgelt einschließlich des Arbeitsentgelts, für das Beiträge nach Satz 1 gezahlt werden, dem zuständigen Rentenversicherungsträger mitgeteilt werden. Die §§ 166, 314, 323 Absatz 1 Satz 1 und § 327 Absatz 3 gelten entsprechend.
@@ -5157,13 +5173,11 @@ und mit einem Zeugnis, das Auskunft über den Inhalt des vermittelten Lehrstoffs
 
 Satz 1 gilt nicht für Maßnahmen, die
 
-1. auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten,
+1. auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten oder
 
-2. Grundkompetenzen vermitteln, die für den Erwerb eines Abschlusses in einem anerkannten Ausbildungsberuf erforderlich sind, oder
+2. Grundkompetenzen vermitteln, deren Erwerb die Grundlage für eine erfolgreiche berufliche Weiterbildung schafft oder allgemein die Beschäftigungsfähigkeit verbessert.
 
-3. die Weiterbildung in einem Betrieb, die zum Erwerb eines solchen Abschlusses führt, unterstützend begleiten.
-
-(4) Die Dauer einer Vollzeitmaßnahme, die zu einem Abschluss in einem allgemein anerkannten Ausbildungsberuf führt, ist angemessen im Sinne des § 179 Absatz 1 Nummer 3, wenn sie gegenüber einer entsprechenden Berufsausbildung um mindestens ein Drittel der Ausbildungszeit verkürzt ist. Ist eine Verkürzung um mindestens ein Drittel der Ausbildungszeit auf Grund bundes- oder landesgesetzlicher Regelungen ausgeschlossen, so ist ein Maßnahmeteil von bis zu zwei Dritteln nur förderungsfähig, wenn bereits zu Beginn der Maßnahme die Finanzierung für die gesamte Dauer der Maßnahme auf Grund bundes- oder landesrechtlicher Regelungen gesichert ist. Abweichend von Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch dann angemessen, wenn sie nach dem Pflegeberufegesetz nicht um mindestens ein Drittel verkürzt werden kann; insoweit ist Satz 2 nicht anzuwenden.
+(4) Die Dauer einer Vollzeitmaßnahme, die zu einem Abschluss in einem allgemein anerkannten Ausbildungsberuf führt, ist angemessen im Sinne des § 179 Absatz 1 Nummer 3, wenn sie gegenüber einer entsprechenden Berufsausbildung um mindestens ein Drittel der Ausbildungszeit verkürzt ist, es sei denn, die Maßnahme ist auf Arbeitnehmerinnen und Arbeitnehmer ausgerichtet, bei denen aufgrund ihrer Eignung oder ihrer persönlichen Verhältnisse eine erfolgreiche Teilnahme nur bei einer nicht verkürzten Dauer erwartet werden kann. Abweichend von Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch dann angemessen, wenn sie auf Grund bundes- oder landesrechtlichen Regelungen nicht um mindestens ein Drittel verkürzt werden kann.
 
 (5) Zeiten einer der beruflichen Weiterbildung folgenden Beschäftigung, die der Erlangung der staatlichen Anerkennung oder der staatlichen Erlaubnis zur Ausübung des Berufes dienen, sind nicht berufliche Weiterbildung im Sinne dieses Buches.
 
@@ -5556,6 +5570,30 @@ Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die Arbeitsuchen
 9. einen in allgemeiner Form gehaltenen Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Arbeitsverhältnis anzuwenden sind und
 
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens beispielhaft die Beratungsstellen nach § 23a des Arbeitnehmer-Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der erwähnten Beratungsdienste anzugeben.
+
+# § 299 – Informationspflicht bei grenzüberschreitender Vermittlung
+
+Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die Arbeitsuchende oder den Arbeitsuchenden vor Abschluss des Arbeitsvertrages in schriftlicher Form und auf seine Kosten in der eigenen Sprache der oder des Arbeitsuchenden oder in einer Sprache, die die oder der Arbeitsuchende versteht, zu informieren über:
+
+1. den Namen und die Anschrift des Arbeitgebers,
+
+2. den vorgesehenen Zeitpunkt des Beginns und die vorgesehene Dauer des Arbeitsverhältnisses,
+
+3. den Arbeitsort oder, falls die Arbeitnehmerin oder der Arbeitnehmer nicht nur an einem bestimmten Arbeitsort tätig sein soll, einen Hinweis, dass die Arbeitnehmerin oder der Arbeitnehmer an verschiedenen Orten beschäftigt werden kann,
+
+4. die zu leistende Tätigkeit,
+
+5. die vertragliche Arbeitszeit,
+
+6. das vertragliche Arbeitsentgelt, einschließlich vorgesehener Abzüge,
+
+7. die Dauer des vertraglichen Erholungsurlaubs,
+
+8. die Fristen für die Kündigung des Arbeitsverhältnisses,
+
+9. einen in allgemeiner Form gehaltenen Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Arbeitsverhältnis anzuwenden sind und
+
+10. die Möglichkeit, die Beratungsdienste der Sozialpartner und staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der erwähnten Beratungsdienste anzugeben.
 
 # § 300 – (weggefallen)
 
@@ -7120,3 +7158,11 @@ Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli 2019 gel
 # § 455 – Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
 Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126 ab dem 1. August 2022 anzuwenden.
+
+# § 456 – Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+
+(1) § 87a Absatz 2 ist auch anzuwenden, wenn die berufliche Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023 beendet worden ist.
+
+(2) § 131a Absatz 3 ist in der bis zum 30. Juni 2023 geltenden Fassung weiterhin anzuwenden, wenn die berufliche Weiterbildung vor dem 1. Juli 2023 begonnen worden ist.
+
+(3) § 148 Absatz 2 Satz 3 und Absatz 3 in der ab dem 1. Juli 2023 geltenden Fassung ist auch anzuwenden, wenn die berufliche Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023 beendet worden ist.

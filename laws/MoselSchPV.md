@@ -61,11 +61,15 @@ Besetzung des Ruders
 
 § 1.10
 
-Mitführen von Urkunden und sonstigen Unterlagen
+Mitführen von Urkunden und sonstigen Unterlagen an Bord
+
+§ 1.10a
+
+Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord
 
 § 1.11
 
-Mitführen der Moselschifffahrtspolizeiverordnung
+Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord
 
 § 1.12
 
@@ -203,7 +207,7 @@ Begriffsbestimmungen und Anwendungen
 
 § 3.02
 
-Lichter und Signalleuchten
+Lichter
 
 § 3.03
 
@@ -930,8 +934,9 @@ Anstrich und Außenreinigung der Fahrzeuge
 | Anlage 8:  | Bezeichnung der Wasserstraße                                                                                                                          |
 | Anlage 9:  | (ohne Inhalt)                                                                                                                                         |
 | Anlage 10: | Muster für das Ölkontrollbuch                                                                                                                         |
-| Anlage 11  | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
-| Anlage 12  | Verzeichnis der Fahrzeug- und Verbandsarten                                                                                                           |
+| Anlage 11: | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
+| Anlage 12: | Verzeichnis der Fahrzeug- und Verbandsarten                                                                                                           |
+| Anlage 13: | Verzeichnis der mitzuführenden Urkunden und sonstigen Unterlagen nach § 1.10 MoselSchPV                                                               |
 
 # § 1.01 – Begriffsbestimmungen
 
@@ -1063,7 +1068,7 @@ aa)
 die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN) in der jeweils aktuellen Fassung.
 
 ab)  
-„Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards „Schiffsverfolgung und Aufspürung in der Binnenschifffahrt“ (ZKR-Beschluss 2006-I-21) genutzt wird;
+„Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
 
 ac)  
 „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, wie Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
@@ -1087,7 +1092,10 @@ ai)
 „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
 
 aj)  
-„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
+„ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen;
+
+ak)  
+„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -1123,9 +1131,11 @@ Bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder bei einer B
 
 3. Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung und der im Rahmen des § 1.22 erlassenen Verordnungen und Anordnungen verantwortlich.
 
-4. Die Mitglieder der diensttuenden Besatzung nach § 1.08 Nr. 3 in Verbindung mit Nr. 2 und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein.
+4. Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein.   
 
-Bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, ist es den in Satz 1 genannten Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen.
+Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder einer Alkoholmenge im Körper, die zu einer solchen Blutalkoholkonzentration führt, oder bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft ist es den Mitgliedern der Mindestbesatzung verboten, ihren Dienst zu verrichten.   
+
+Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen.
 
 # § 1.04 – Allgemeine Sorgfaltspflicht
 
@@ -1236,97 +1246,41 @@ Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt werden 
 
 4. Soweit es besondere Umstände erfordern, muß zur Unterrichtung des Rudergängers ein Ausguck oder Horchposten aufgestellt werden.
 
-# § 1.10 – Mitführen von Urkunden und sonstigen Unterlagen
+# § 1.10 – Mitführen von Urkunden und sonstigen Unterlagen an Bord
 
-1. Folgende Urkunden und sonstige Unterlagen müssen sich, soweit sie auf Grund besonderer Bestimmungen vorgeschrieben sind, an Bord befinden:
+1. Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung müssen sich, soweit sie auf Grund besonderer Bestimmungen vorgeschrieben sind, an Bord befinden. Sie sind auf Verlangen den Bediensteten der zuständigen Behörden auszuhändigen.
 
-a) das Schiffsattest oder die als Ersatz zugelassene Urkunde,
+2. Bestimmte Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung dürfen gemäß den Bedingungen nach Anlage 13 dieser Verordnung in einer jederzeit lesbaren elektronischen Textfassung zur Verfügung gestellt werden.
 
-b) das Schifferpatent des Schiffsführers oder eine als Ersatz zugelassene Urkunde und, für die anderen Mitglieder der Besatzung das ordnungsgemäß ausgefüllte Schifferdienstbuch oder das Rheinschifferpatent oder eine als Ersatz zugelassene Urkunde,
+# § 1.10a – Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord
 
-c) das ordnungsgemäß ausgefüllte Bordbuch einschließlich der Bescheinigung nach Anlage A4 der Verordnung über das Schiffspersonal auf dem Rhein oder einer Kopie der Seite mit den Eintragungen der Fahr- beziehungsweise Ruhezeiten aus dem Bordbuch des Schiffes, auf dem die letzte Reise des Besatzungsmitgliedes stattgefunden hat, oder die als Ersatz zugelassene Urkunde,
-
-d) die Bescheinigung über die Ausgabe der Bordbücher,
-
-e) die Bescheinigung über das Vorschleusungsrecht,
-
-f) der Eichschein des Fahrzeugs,
-
-g) die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers,
-
-h) das Radarpatent oder ein gleichwertiges Zeugnis; diese Dokumente sind an Bord nicht erforderlich, wenn die Rheinpatentkarte die Eintragung "Radar" oder das gleichwertige Zeugnis des Schiffsführers die entsprechende Eintragung enthält,
-
-i) die nach Artikel 7.06 Nummer 1 ES-TRIN erforderliche Bescheinigung über Einbau und Funktion von Radaranlage und Wendeanzeiger,
-
-k) ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk gemäß Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
-
-l) die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
-
-m) das Handbuch Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel,
-
-n) das ordnungsgemäß ausgefüllte Ölkontrollbuch,
-
-o) die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter,
-
-p) die Bescheinigung für Flüssiggasanlagen,
-
-q) die Unterlagen über elektrische Anlagen,
-
-r) die Prüfbescheinigungen über tragbare Feuerlöscher und fest installierte Feuerlöschanlagen,
-
-s) eine Prüfbescheinigung über Krane,
-
-t) die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden,
-
-u) bei Containerbeförderung die von einer Schiffsuntersuchungskommission geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich Stauplan oder Ladungsliste für den jeweiligen Beladungsfall und das Ergebnis der Stabilitätsberechnung für den jeweiligen, einen früheren vergleichbaren oder einen standardisierten Beladungsfall jeweils unter Angabe des verwendeten Berechnungsverfahrens,
-
-v) die Bescheinigung über Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf,
-
-w) der Ausweis über das Kennzeichen für Kleinfahrzeuge,
-
-x) die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen Vorschriften der Moseluferstaaten erforderlichen Kopien des Typgenehmigungsbogens und des Motorparameterprotokolls eines jeden Motors,
-
-y) die Bescheinigung für die nach Artikel 13.02 Nummer 3 Buchstabe a ES-TRIN vorgeschriebenen Drahtseile,
-
-z) der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen Fahrgastschiffe, in Artikel 28.04 Nummer 2 Buchstabe c ES-TRIN geforderte Nachweis,
-
-aa)  
-die von den für den jeweiligen Stromabschnitt zuständigen Behörden erteilten und am 31. Dezember 2009 gültigen Sondererlaubnisse für Fahrzeuge über 110,00 m bis 135,00 m Länge, die nicht die Bedingungen des § 8.01 Nummer 2 oder Nummer 3 erfüllen, sowie die Sondererlaubnis nach § 8.01 Nummer 5.
-
-ab)  
-Bezugsnachweis für Gasöl nach Anlage 2 Teil A Artikel 3.04 Absatz 1 des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI), einschließlich der Quittungen für die Entgelttransaktionen des SPE-CDNI über einen Zeitraum von mindestens 12 Monaten. Liegt der letzte Bezug von Gasöl mehr als 12 Monate zurück, so ist mindestens der letzte Bezugsnachweis mitzuführen;
-
-ac)  
-die Entladebescheinigung nach § 11.08 Nummer 2,
-
-ad)  
-bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage 8 Nummer 1.4.9 ES-TRIN vorgeschriebene Betriebshandbuch und die in Artikel 30.03 Nummer 1 ES-TRIN vorgeschriebene Sicherheitsrolle,
-
-ae)  
-bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, die in § 4a.02 der Verordnung über das Schiffspersonal auf dem Rhein vorgeschriebenen Bescheinigungen des Schiffsführers und der Besatzungsmitglieder, die am Bunkervorgang beteiligt sind.
-
-2. Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f müssen jedoch nicht mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel nach folgendem Muster angebracht ist:  
+1. Abweichend von § 1.10 müssen die Schiffspapiere nach Anlage 13 Nummer 1.1 und 1.2 dieser Verordnung nicht mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel nach folgendem Muster angebracht ist:  
   
-
-<table style="border-collapse: collapse;"><tbody><tr class="odd"><td style="text-align: left;">EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER: ..........<br />
-SCHIFFSATTEST, GEMEINSCHAFTSZEUGNIS (oder die als Ersatz zugelassene Urkunde):<br />
-– Nummer: ..........<br />
-– SUK (oder Behörde, die die als Ersatz zugelassene Urkunde ausgestellt hat): ..........<br />
-– Gültig bis: ..........</td></tr></tbody></table>
-
+EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER:  
   
+SCHIFFSATTEST  
   
-Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel mit denen im Schiffsattest oder Gemeinschaftszeugnis des Schubleichters oder der als Ersatz zugelassenen Urkunde muss von einer Schiffsuntersuchungskommission oder durch die Behörde, die die als Ersatz zugelassene Urkunde ausgestellt hat, dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f muss der Eigentümer des Schubleichters aufbewahren. Auf die Mitführung der Schiffspapiere nach Nummer 1 Buchstabe x kann verzichtet werden, wenn zusätzlich die Typgenehmigungsnummer nach Anlage J Teil I Nummer 1.1.3 der Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen Vorschriften der Moseluferstaaten auf der Metalltafel angebracht ist.
+– NUMMER:  
+  
+– SUK:  
+  
+– GÜLTIG BIS:  
+  
+Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein.   
+Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein.   
+Die Übereinstimmung der Angaben auf der Metalltafel mit denen im Schiffsattest des Schubleichters muss von einer Schiffsuntersuchungskommission dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist.   
+Die Schiffspapiere nach Anlage 13 Nummer 1.1 und 1.2 dieser Verordnung muss der Eigentümer des Schubleiters aufbewahren.   
+Auf die Mitführung der Schiffspapiere nach Anlage 13 Nummer 5.4 dieser Verordnung kann verzichtet werden, wenn zusätzlich die Typgenehmigungsnummer der Motoren auf der Metalltafel angebracht ist.
 
-<!-- -->
+2. Auf Baustellenfahrzeugen nach Artikel 1.01 Nummer 1.23 ES-TRIN, auf denen weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen die Schiffspapiere nach Anlage 13 Nummer 1.1 und 1.2 dieser Verordnung nicht an Bord mitgeführt zu werden; diese müssen jedoch jederzeit im Bereich der Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine Bescheinigung der zuständigen Behörde über Dauer und örtliche Begrenzung der Baustelle, auf der das Fahrzeug eingesetzt werden darf, an Bord mitführen.
 
-3. Auf Baustellenfahrzeugen nach Artikel 1.01 Nummer 1.24 ES-TRIN, auf denen weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen die Schiffspapiere nach Nummer 1 Buchstabe a und f nicht an Bord mitgeführt zu werden; diese müssen jedoch jederzeit im Bereich der Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine Bescheinigung der zuständigen Behörde über Dauer und örtliche Begrenzung der Baustelle, auf der das Fahrzeug eingesetzt werden darf, an Bord mitführen.
+3. Von der Pflicht, ein Bordbuch nach Anlage 13 Nummer 2.2 dieser Verordnung mitzuführen, sind Schlepp- und Schubboote, die nur in Häfen verkehren, sowie unbemannte Schubleichter, Behördenfahrzeuge und Sportfahrzeuge ausgenommen.
 
-4. Die Urkunden und sonstigen Unterlagen nach Nummer 1 sind auf Verlangen den Bediensteten der zuständigen Behörden auszuhändigen.
+# § 1.11 – Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord
 
-# § 1.11 – Mitführen der Moselschifffahrtspolizeiverordnung
+1. An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und Schubleichter, muss sich ein Abdruck dieser Verordnung, in ihrer jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach § 1.22a, befinden. Es darf auch eine auf elektronischem Wege jederzeit lesbare Textfassung sein.
 
-An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und Schubleichter, muss sich ein Abdruck dieser Verordnung, in ihrer jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach § 1.22a befinden. Es darf auch eine auf elektronischem Wege jederzeit lesbare Textfassung sein.
+2. An Bord eines jeden Fahrzeugs, das mit einer Schiffsfunkstelle nach § 4.05 ausgerüstet ist, muss sich ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel, befinden. Es darf auch eine auf elektronischem Wege jederzeit lesbare Textfassung sein.
 
 # § 1.12 – Gefährdung durch Gegenstände an Bord, Verlust von Gegenständen, Schiffahrtshindernisse
 
@@ -1550,21 +1504,15 @@ b) ein Verband gekuppelter Fahrzeuge, dessen Länge 140 m überschreitet, als ei
 
 5. Auf die Schleusung wartende Fahrzeuge können die für die Fahrt vorgeschriebenen Zeichen beibehalten.
 
-# § 3.02 – Lichter und Signalleuchten
+# § 3.02 – Lichter
 
-1. Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung vorgeschriebenen Lichter von allen Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht werfen.
+1. Soweit nichts anderes bestimmt ist, müssen die Lichter von allen Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht werfen.
 
-2. Es dürfen nur Signalleuchten verwendet werden,
+2. Signalleuchten, ihre Gehäuse und ihr Zubehör müssen den Vorschriften des Artikels 7.05 Nummer 1 ES-TRIN entsprechen.
 
-a) deren Gehäuse und Zubehör das Zulassungskennzeichen tragen, das nach der Richtlinie 96/98/EG des Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. L 46 vom 17.2.1997, S. 25), die zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, vorgeschrieben ist, und
+3. Lichter müssen in horizontaler Ausstrahlung, Farbe und Stärke den Anforderungen dieser Verordnung entsprechen.
 
-b) deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den Bestimmungen dieser Verordnung entsprechen.
-
-  
-  
-Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen den Anforderungen der am 30. November 2009 geltenden Rheinschifffahrtspolizeiverordnung oder der Richtlinie 2006/87/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über die technischen Vorschriften für Binnenschiffe und zur Aufhebung der Richtlinie 82/714/EWG des Rates (ABl. L 389 vom 30.12.2006, S. 1), die zuletzt durch die Richtlinie 2009/46/EG (ABl. L 109 vom 30.4.2009, S. 14) geändert worden ist, entsprechen, dürfen weiterhin verwendet werden.
-
-3. Die Nachtbezeichnung stilliegender nicht motorisierter Fahrzeuge braucht nicht Nummer 2 zu entsprechen; sie muß jedoch bei klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1 000,00 m haben.
+4. Die Nachtbezeichnung stillliegender, nicht motorisierter Fahrzeuge braucht nicht den Nummern 2 und 3 zu entsprechen; sie muss jedoch bei klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1 000 m haben.
 
 # § 3.03 – Flaggen, Tafeln und Wimpel
 
@@ -2485,15 +2433,15 @@ a) wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der 
 
 b) für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Hinsichtlich der Mindestanforderungen an Inland ECDIS Geräte im Informationsmodus und an elektronische Binnenschifffahrtskarten gilt § 4.07 Nummer 3 Satz 2 der Rheinschifffahrtspolizeiverordnung in der zum 1. Dezember 2014 anzuwendenden Fassung entsprechend.
+3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“ des ES-RIS entsprechen.
 
-4. Es müssen folgende Daten gemäß Kapitel 2 des Standards Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt werden:
+4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS übermittelt werden:
 
 a) User Identifier (Maritime Mobile Service Identity, MMSI);
 
 b) Schiffsname;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
 
 d) einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe sofern keine ENI erteilt wurde, die IMO Nummer;
 
@@ -2521,7 +2469,7 @@ a) Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 b) Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
-c) Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und Aufspürung in der Binnenschifffahrt;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
 
 d) Navigationsstatus gemäß Anlage 11;
 
@@ -3777,9 +3725,9 @@ p) Entladehafen.
 
 4. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet,
 
-a) muss die Meldung gemäß dem Standard für elektronische Meldungen in der Binnenschifffahrt in der jeweils geltenden Fassung der Zentralkommission für die Rheinschifffahrt erfolgen,
+a) muss die Meldung gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden in der Binnenschifffahrt“ des ES-RIS erfolgen,
 
-b) ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder Verbands gemäß dem in Buchstabe a genannten Standard anzugeben.
+b) ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder Verbands gemäß der Anlage 6 „Fahrzeug- und Verbandstyp (Binnenschifffahrt)“ des ES-RIS anzugeben.
 
 5. Die Meldung nach Nummer 2 mit Ausnahme der Angaben von Buchstabe l und m muss bei folgenden Fahrzeugen auf elektronischem Wege erfolgen:
 
@@ -6000,6 +5948,9 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 1. Navigationsstatus
 
+<!-- -->
+
+  
 |          |                            |                                 |
 |:--------:|:---------------------------|:--------------------------------|
 |    0     | under way using engine     | in Fahrt mit Motorkraft         |
@@ -6015,17 +5966,98 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 |    14    | AIS-SART (active);         | AIS-SART (aktiv)                |
 |    15    | Not defined                | nicht definiert                 |
 
+  
+
 2. Bezugspunkt der Positionsinformation auf dem Fahrzeug
 
-Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
+2.1  
+Bei Inland AIS Geräten, die vor dem 1. Dezember 2015 eingebaut wurden:
 
-|                                                                |
-|:--------------------------------------------------------------:|
-|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0010.JPG)        |
-| Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug  |
-|       ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0020.JPG)        |
-| Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband |
+a) Für ein Fahrzeug  
+  
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m eingeben.   
+Das Maß A ist in Richtung des Bugs ausgerichtet.   
+
+|                                                                  |
+|:-----------------------------------------------------------------|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0141_15_0010.jpg)             |
+| Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug |
+
+  
+  
+
+b) Für einen Verband  
+  
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 1 m und die Werte für W und L mit einer Genauigkeit von 0,1 m eingeben.   
+Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+|                                                                   |
+|:------------------------------------------------------------------|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0141_16_0010.jpg)              |
+| Erläuterungen zu den W, L, A, B, C und D Werten für einen Verband |
+
+  
+
+2.2  
+Bei Inland AIS Geräten, die nach dem 1. Dezember 2015 eingebaut wurden:
+
+a) Für ein Fahrzeug  
+  
+Der Schiffsführer muss die Werte für A, B, C und D mit einer Genauigkeit von 0,1 m eingeben.   
+Das Maß A ist in Richtung des Bugs ausgerichtet.   
+
+|                                                                  |
+|:-----------------------------------------------------------------|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0141_16_0020.jpg)             |
+| Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug |
+
+  
+  
+
+b) Für einen Verband  
+  
+Der Schiffsführer muss die Werte für EA, EB, EC und ED mit einer Genauigkeit von 0,1 m eingeben.   
+Das Maß EA ist in Richtung des Bugs ausgerichtet.   
+
+|                                                                 |
+|:----------------------------------------------------------------|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2023/j0141_16_0030.jpg)            |
+| Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband |
 
 # Anlage 12 – Verzeichnis der Fahrzeug- und Verbandsarten
 
 (Fundstelle: BGBl. II Nr. 8, S. 356 - 357)
+
+# Anlage 13 – VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 MoselSchPV
+
+(Fundstelle: BGBl. 2023 II Nr. 141, S. 18 - 22)
+
+In der Spalte „Rechtsgrundlage“ der nachfolgenden Tabelle wird auf die folgenden Vorschriften, Übereinkommen, Richtlinien und Verwaltungsvereinbarungen verwiesen:
+
+\-  
+Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Anerkennung von Berufsqualifikationen in der Binnenschifffahrt und zur Aufhebung der Richtlinien 91/672/EWG und 96/50/EG des Rates (= „Richtlinie (EU) 2017/2397“),
+
+\-  
+Durchführungsverordnung (EU) 2020/182 der Kommission vom 14. Januar 2020 über Muster im Bereich der Berufsqualifikationen in der Binnenschifffahrt (= „Durchführungsverordnung (EU) 2020/182“),
+
+\-  
+Rheinschiffsuntersuchungsordnung (RheinSchUO),
+
+\-  
+Europäischer Standard der technischen Vorschriften für Binnenschiffe (ES-TRIN),
+
+\-  
+Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN),
+
+\-  
+Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI),
+
+\-  
+Übereinkommen über die Eichung von Binnenschiffen, geschlossen am 15. Februar 1966 in Genf (Übereinkommen vom 15. Februar 1966),
+
+\-  
+Regionale Vereinbarung über den Binnenschifffahrtsfunk.
+
+In der vorletzten Spalte der nachfolgenden Tabelle wird angegeben, ob die Aushändigung der an Bord mitzuführenden Urkunden und sonstigen Unterlagen auf einem elektronischen Träger autorisiert ist oder nicht.
+
+Die letzte Spalte „Elektronisches Format“ der nachfolgenden Tabelle präzisiert das elektronische Format, in dem Urkunden und sonstige Unterlagen in elektronischer Form ausgehändigt werden können. Das in der nachfolgenden Tabelle angegebene PDFFormat entspricht dem in der internationalen Norm ISO 32000-1:2008 definierten Format.

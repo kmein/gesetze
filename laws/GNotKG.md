@@ -802,7 +802,7 @@ Der Geschäftswert für das Verfahren über die Ernennung oder Entlassung eines 
 
 # § 66 – (weggefallen)
 
-# § 67 – Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereins- und Stiftungssachen
+# § 67 – Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereinssachen
 
 (1) Der Geschäftswert in einem unternehmensrechtlichen Verfahren und in einem Verfahren in Vereinssachen beträgt
 
@@ -810,7 +810,7 @@ Der Geschäftswert für das Verfahren über die Ernennung oder Entlassung eines 
 
 2. bei Personenhandels- und Partnerschaftsgesellschaften sowie bei Genossenschaften 30 000 Euro,
 
-3. bei Vereinen und Stiftungen 5 000 Euro und
+3. bei Vereinen 5 000 Euro und
 
 4. in sonstigen Fällen 10 000 Euro,
 
@@ -1569,7 +1569,7 @@ Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgeg
 
 Abschnitt 4 Löschungs- und Auflösungsverfahren sowie Verfahren über die Entziehung der Rechtsfähigkeit eines Vereins vor dem Amtsgericht
 
-Abschnitt 5 Unternehmensrechtliche und ähnliche Verfahren, Verfahren vor dem Registergericht und Vereins- und Stiftungssachen vor dem Amtsgericht
+Abschnitt 5 Unternehmensrechtliche und ähnliche Verfahren, Verfahren vor dem Registergericht und Vereinssachen vor dem Amtsgericht
 
 Abschnitt 6 Rechtsmittelverfahren in den in den Abschnitten 4 und 5 genannten Verfahren
 
@@ -2440,7 +2440,7 @@ Vorbemerkung 1.3:
  (1) Dieser Hauptabschnitt gilt für  
 1. Registersachen (§ 374 FamFG), soweit die Gebühren nicht aufgrund einer Rechtsverordnung nach § 58 Abs. 1 GNotKG erhoben werden,  
 2. unternehmensrechtliche Verfahren (§ 375 FamFG) und ähnliche Verfahren sowie  
-3. bestimmte Vereins- und Stiftungssachen.  (2) Gebühren werden nicht erhoben  
+3. bestimmte Vereinssachen.  (2) Gebühren werden nicht erhoben  
 1. für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen,  
 2. für die Löschung von Eintragungen (§ 395 FamFG) und  
 3. von berufsständischen Organen im Rahmen ihrer Beteiligung nach § 380 FamFG.
@@ -2585,7 +2585,7 @@ Verfahren über
 
 Abschnitt 5  
 Unternehmensrechtliche und ähnliche Verfahren, Verfahren  
-vor dem Registergericht und Vereins- und Stiftungssachen vor dem Amtsgericht
+vor dem Registergericht und Vereinssachen vor dem Amtsgericht
 
 Vorbemerkung 1.3.5:  
  Die Vorschriften dieses Abschnitts gelten für  
@@ -2605,7 +2605,7 @@ e) dem SpruchG und
 f) den §§ 39a und 39b WpÜG,
 
 3. Verfahren vor dem Oberlandesgericht nach § 8 Abs. 3 des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie und  
-4. Vereins- oder Stiftungssachen über
+4. Vereinssachen über
 
 a) die Notbestellung von Vorstandsmitgliedern oder Liquidatoren,
 

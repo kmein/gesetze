@@ -7,7 +7,7 @@ Auf Grund des § 13b Absatz 4 und des § 18 Absatz 6 des Arbeitnehmer-Entsendege
 
 # § 1 – Zuständige Behörde
 
-Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im Sinne von § 13b Absatz 2 Satz 2 und 3 sowie § 18 Absatz 1 Satz 1 und Absatz 3 Satz 1 des Arbeitnehmer-Entsendegesetzes.
+Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im Sinne von § 13b Absatz 2 Satz 2 und 3 sowie § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 des Arbeitnehmer-Entsendegesetzes.
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 

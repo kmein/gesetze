@@ -219,7 +219,7 @@ Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch mindestens 
 
 # § 10 – Kontrollkarte
 
-Die Kontrollkarten werden an die für die Kontrolle der Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen ausgegeben. Die Kontrollkarte weist die Kontrollbehörde aus und ermöglicht das Lesen, Ausdrucken und Herunterladen der im Massenspeicher des Fahrtenschreibers oder auf Fahrerkarten gespeicherten Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt fünf Jahre.
+Die Kontrollkarten werden an die für die Kontrolle der Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen sowie an die für die Prüfungen nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes zuständigen Behörden der Zollverwaltung ausgegeben. Die Kontrollkarte weist die Kontrollbehörde aus und ermöglicht das Lesen, Ausdrucken und Herunterladen der im Massenspeicher des Fahrtenschreibers oder auf Fahrerkarten gespeicherten Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt fünf Jahre.
 
 # § 11 – Führung und Zweckbestimmung des Registers
 

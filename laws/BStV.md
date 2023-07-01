@@ -7,7 +7,7 @@ Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes,
 
 # § 1 – Antragsverfahren
 
-(1) Die Gewährung einer Leistung aufgrund des Anspruchs nach § 23a des Arbeitnehmer-Entsendegesetzes soll durch den Deutschen Gewerkschaftsbund beim Bundesministerium für Arbeit und Soziales bis zum 31. August des Jahres vor dem Leistungszeitraum beantragt werden. Leistungszeitraum ist das jeweils folgende Kalenderjahr. Für das Kalenderjahr 2021 soll der Antrag bis zum 30. November 2020 gestellt werden.
+(1) Die Gewährung einer Leistung aufgrund des Anspruchs nach § 31 des Arbeitnehmer-Entsendegesetzes soll durch den Deutschen Gewerkschaftsbund beim Bundesministerium für Arbeit und Soziales bis zum 31. August des Jahres vor dem Leistungszeitraum beantragt werden. Leistungszeitraum ist das jeweils folgende Kalenderjahr. Für das Kalenderjahr 2021 soll der Antrag bis zum 30. November 2020 gestellt werden.
 
 (2) Der Antrag soll mindestens enthalten:
 
@@ -37,7 +37,7 @@ Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes,
 
 1. die Höhe der Leistung und des Eigenanteils des Deutschen Gewerkschaftsbunds,
 
-2. die Bezeichnung des Leistungszwecks entsprechend § 23a Absatz 1 des Arbeitnehmer-Entsendegesetzes,
+2. die Bezeichnung des Leistungszwecks entsprechend § 31 Absatz 1 des Arbeitnehmer-Entsendegesetzes,
 
 3. den Leistungszeitraum,
 
@@ -75,11 +75,11 @@ Die Weiterleitungsverträge sind dem Bundesministerium für Arbeit und Soziales 
 
 # § 4 – Kontrolle der Mittelverwendung
 
-(1) Der Ergebnisbericht nach § 23a Absatz 6 Satz 2 des Arbeitnehmer-Entsendegesetzes besteht aus einem Sachbericht und einem zahlenmäßigen Nachweis der Einnahmen und Ausgaben. In dem Sachbericht sind die Verwendung der Leistung sowie die erzielten Ergebnisse im Einzelnen darzustellen. Es ist außerdem auf die wichtigsten Positionen des zahlenmäßigen Nachweises einzugehen und die Notwendigkeit und Angemessenheit der geleisteten Arbeit zu erläutern. In dem zahlenmäßigen Nachweis sind die Einnahmen und Ausgaben in zeitlicher Folge ihrer Verwendung und voneinander getrennt entsprechend der Gliederung des Finanzierungsplans auszuweisen. Dem Nachweis ist eine Belegliste in tabellarischer Form beizufügen. Auf der Grundlage des Ergebnisberichts führt das Bundesministerium für Arbeit und Soziales eine vertiefte Prüfung der rechtmäßigen und zweckentsprechenden Verwendung der Mittel durch.
+(1) Der Ergebnisbericht nach § 31 Absatz 6 Satz 2 des Arbeitnehmer-Entsendegesetzes besteht aus einem Sachbericht und einem zahlenmäßigen Nachweis der Einnahmen und Ausgaben. In dem Sachbericht sind die Verwendung der Leistung sowie die erzielten Ergebnisse im Einzelnen darzustellen. Es ist außerdem auf die wichtigsten Positionen des zahlenmäßigen Nachweises einzugehen und die Notwendigkeit und Angemessenheit der geleisteten Arbeit zu erläutern. In dem zahlenmäßigen Nachweis sind die Einnahmen und Ausgaben in zeitlicher Folge ihrer Verwendung und voneinander getrennt entsprechend der Gliederung des Finanzierungsplans auszuweisen. Dem Nachweis ist eine Belegliste in tabellarischer Form beizufügen. Auf der Grundlage des Ergebnisberichts führt das Bundesministerium für Arbeit und Soziales eine vertiefte Prüfung der rechtmäßigen und zweckentsprechenden Verwendung der Mittel durch.
 
 (2) Der Deutsche Gewerkschaftsbund hat die Originalbelege über die Einzelzahlungen fünf Jahre nach Vorlage des Ergebnisberichts aufzubewahren. Diese Aufbewahrungsfrist gilt auch für die Verträge über die Vergabe von Aufträgen sowie alle sonst mit der Leistung zusammenhängenden Unterlagen. Zur Aufbewahrung können auch Bild- oder Datenträger verwendet werden. Das Aufnahme- und Wiedergabeverfahren muss den Grundsätzen ordnungsgemäßer Buchführung oder einer in der öffentlichen Verwaltung allgemein zugelassenen Regelung entsprechen. Vorschriften, die eine längere Aufbewahrungsfrist bestimmen, bleiben von Satz 1 unberührt.
 
-(3) Der Deutsche Gewerkschaftsbund hat für die Stichprobenprüfungen nach § 23a Absatz 6 Satz 1 des Arbeitnehmer-Entsendegesetzes die erforderlichen Unterlagen bereitzuhalten und Auskünfte zu erteilen.
+(3) Der Deutsche Gewerkschaftsbund hat für die Stichprobenprüfungen nach § 31 Absatz 6 Satz 1 des Arbeitnehmer-Entsendegesetzes die erforderlichen Unterlagen bereitzuhalten und Auskünfte zu erteilen.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann Dritte mit der Kontrolle der Mittelverwendung beauftragen.
 

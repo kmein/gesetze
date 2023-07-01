@@ -1637,9 +1637,11 @@ gilt der monatliche Beitrag als angemessen.
 
 Ein höherer Beitrag kann als angemessen anerkannt werden, wenn die Leistungsberechtigung nach diesem Kapitel voraussichtlich nur für einen Zeitraum von bis zu drei Monaten besteht. Im begründeten Ausnahmefall kann auf Antrag ein höherer Beitrag auch im Fall einer Leistungsberechtigung für einen Zeitraum von bis zu sechs Monaten als angemessen anerkannt werden, wenn vor Ablauf der drei Monate oder bereits bei Antragstellung davon auszugehen ist, dass die Leistungsberechtigung nach diesem Kapitel für einen begrenzten, aber mehr als drei Monate andauernden Zeitraum bestehen wird.
 
+(4a) Für Personen, die Mitglied in einer in § 176 Absatz 1 des Fünften Buches genannten Solidargemeinschaft sind, werden angemessene Beiträge bis zur Hälfte des sich nach § 152 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes ergebenden Höchstbeitrags der gesetzlichen Krankenversicherung anerkannt.
+
 (5) Bei Personen, die in der sozialen Pflegeversicherung nach
 
-1. den §§ 20 und 21 des Elften Buches pflichtversichert sind oder
+1. den §§ 20, 21 und 21a des Elften Buches pflichtversichert sind oder
 
 2. § 26 des Elften Buches weiterversichert sind oder
 

@@ -109,7 +109,7 @@ und mit der wohngeldberechtigten Person den Wohnraum, für den Wohngeld beantrag
 
 2. Leistungen für Auszubildende nach § 27 Absatz 3 des Zweiten Buches Sozialgesetzbuch, die als Zuschuss erbracht werden,
 
-3. Übergangsgeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nach § 21 Abs. 4 Satz 1 des Sechsten Buches Sozialgesetzbuch,
+3. (weggefallen)
 
 4. Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nach § 47 Abs. 2 des Siebten Buches Sozialgesetzbuch,
 

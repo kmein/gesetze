@@ -192,7 +192,7 @@ Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausg
 Name oder Bezeichnung und Anschrift;
 
 3. bei Vereinigungen:  
-benannter Vertreter mit den Angaben entsprechend Nummer 1 und gegebenenfalls Name der Vereinigung.
+benannter Vertreter mit den Angaben entsprechend Nummer 1 oder 2 und gegebenenfalls Name der Vereinigung.
 
 Bei beruflich selbstständigen Haltern sind außerdem die Daten nach § 33 Absatz 2 des Straßenverkehrsgesetzes über Beruf oder Gewerbe anzugeben und auf Verlangen nachzuweisen.
 

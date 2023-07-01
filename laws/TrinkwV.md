@@ -97,6 +97,8 @@
 
  
 
+ 
+
 # § 1 – Anwendungsbereich
 
 (1) Diese Verordnung findet Anwendung auf das im 7. Abschnitt des Infektionsschutzgesetzes bezeichnete Wasser für den menschlichen Gebrauch.
@@ -1062,7 +1064,9 @@ b) bei Untersuchungen auf den Parameter Legionella spec. nach § 31 zusätzlich 
 
 (4) Bei der Probennahme zur Untersuchung des Trinkwassers in der Trinkwasserinstallation auf die Indikatorparameter Aluminium und Eisen und auf die neben Blei, Kupfer und Nickel in Anlage 2 Teil II genannten chemischen Parameter ist die in Absatz 3 Satz 2 genannte Empfehlung des Umweltbundesamts zu beachten.
 
-(5) Sind zu einem Parameter im Laufe eines Jahres mehrere Proben zu nehmen, so sollen der Betreiber einer Wasserversorgungsanlage, das Gesundheitsamt und die zuständige Behörde die Proben so nehmen, dass sie für die Beschaffenheit des im Laufe des gesamten Jahrs gelieferten oder entnommenen Trinkwassers repräsentativ sind. Jahreszeitliche und saisonale Besonderheiten sind zu berücksichtigen.
+(5) Sind zu einem Parameter im Laufe eines Jahres mehrere Proben zu nehmen, so sollen der Betreiber einer Wasserversorgungsanlage, das Gesundheitsamt und die zuständige Behörde die Proben so nehmen, dass sie für die Beschaffenheit des im Laufe des gesamten Jahres gelieferten oder entnommenen Trinkwassers repräsentativ sind. Jahreszeitliche und saisonale Besonderheiten sind zu berücksichtigen.
+
+Kursivdruck § 42 Abs. 5 Satz 1: Aufgrund offensichtlicher Unrichtigkeit wird das Wort "Jahrs" durch das Wort "Jahres" ersetzt
 
 # § 43 – Untersuchungsverfahren
 

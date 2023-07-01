@@ -409,63 +409,245 @@ Die Länder können für das Verfahren ein länderübergreifendes elektronisches
 
 (3) Das Widerspruchsrecht nach Artikel 21 der Verordnung (EU) 2016/679 ist auf personenbezogene Daten, die im Vereinsregister und in den Registerakten gespeichert sind, nicht anzuwenden.
 
-# § 80 – Entstehung einer rechtsfähigen Stiftung
+# § 80 – Ausgestaltung und Entstehung der Stiftung
 
-(1) Zur Entstehung einer rechtsfähigen Stiftung sind das Stiftungsgeschäft und die Anerkennung durch die zuständige Behörde des Landes erforderlich, in dem die Stiftung ihren Sitz haben soll.
+(1) Die Stiftung ist eine mit einem Vermögen zur dauernden und nachhaltigen Erfüllung eines vom Stifter vorgegebenen Zwecks ausgestattete, mitgliederlose juristische Person. Die Stiftung wird in der Regel auf unbestimmte Zeit errichtet, sie kann aber auch auf bestimmte Zeit errichtet werden, innerhalb derer ihr gesamtes Vermögen zur Erfüllung ihres Zwecks zu verbrauchen ist (Verbrauchsstiftung).
 
-(2) Die Stiftung ist als rechtsfähig anzuerkennen, wenn das Stiftungsgeschäft den Anforderungen des § 81 Abs. 1 genügt, die dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet. Bei einer Stiftung, die für eine bestimmte Zeit errichtet und deren Vermögen für die Zweckverfolgung verbraucht werden soll (Verbrauchsstiftung), erscheint die dauernde Erfüllung des Stiftungszwecks gesichert, wenn die Stiftung für einen im Stiftungsgeschäft festgelegten Zeitraum bestehen soll, der mindestens zehn Jahre umfasst.
-
-(3) Vorschriften der Landesgesetze über kirchliche Stiftungen bleiben unberührt. Das gilt entsprechend für Stiftungen, die nach den Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
+(2) Zur Entstehung der Stiftung sind das Stiftungsgeschäft und die Anerkennung der Stiftung durch die zuständige Behörde des Landes erforderlich, in dem die Stiftung ihren Sitz haben soll. Wird die Stiftung erst nach dem Tode des Stifters anerkannt, so gilt sie für Zuwendungen des Stifters als schon vor dessen Tod entstanden.
 
 # § 81 – Stiftungsgeschäft
 
-(1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen Form. Es muss die verbindliche Erklärung des Stifters enthalten, ein Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen, das auch zum Verbrauch bestimmt werden kann. Durch das Stiftungsgeschäft muss die Stiftung eine Satzung erhalten mit Regelungen über
+(1) Im Stiftungsgeschäft muss der Stifter
 
-1. den Namen der Stiftung,
+1. der Stiftung eine Satzung geben, die mindestens Bestimmungen enthalten muss über
 
-2. den Sitz der Stiftung,
+a) den Zweck der Stiftung,
 
-3. den Zweck der Stiftung,
+b) den Namen der Stiftung,
 
-4. das Vermögen der Stiftung,
+c) den Sitz der Stiftung und
 
-5. die Bildung des Vorstands der Stiftung.
+d) die Bildung des Vorstands der Stiftung sowie
 
-Genügt das Stiftungsgeschäft den Erfordernissen des Satzes 3 nicht und ist der Stifter verstorben, findet § 83 Satz 2 bis 4 entsprechende Anwendung.
+2. zur Erfüllung des von ihm vorgegebenen Stiftungszwecks ein Vermögen widmen (gewidmetes Vermögen), das der Stiftung zu deren eigener Verfügung zu überlassen ist.
 
-(2) Bis zur Anerkennung der Stiftung als rechtsfähig ist der Stifter zum Widerruf des Stiftungsgeschäfts berechtigt. Ist die Anerkennung bei der zuständigen Behörde beantragt, so kann der Widerruf nur dieser gegenüber erklärt werden. Der Erbe des Stifters ist zum Widerruf nicht berechtigt, wenn der Stifter den Antrag bei der zuständigen Behörde gestellt oder im Falle der notariellen Beurkundung des Stiftungsgeschäfts den Notar bei oder nach der Beurkundung mit der Antragstellung betraut hat.
+(2) Die Satzung einer Verbrauchsstiftung muss zusätzlich enthalten:
 
-# § 82 – Übertragungspflicht des Stifters
+1. die Festlegung der Zeit, für die die Stiftung errichtet wird, und
 
-Wird die Stiftung als rechtsfähig anerkannt, so ist der Stifter verpflichtet, das in dem Stiftungsgeschäft zugesicherte Vermögen auf die Stiftung zu übertragen. Rechte, zu deren Übertragung der Abtretungsvertrag genügt, gehen mit der Anerkennung auf die Stiftung über, sofern nicht aus dem Stiftungsgeschäft sich ein anderer Wille des Stifters ergibt.
+2. Bestimmungen zur Verwendung des Stiftungsvermögens, die die nachhaltige Erfüllung des Stiftungszwecks und den vollständigen Verbrauch des Stiftungsvermögens innerhalb der Zeit, für welche die Stiftung errichtet wird, gesichert erscheinen lassen.
 
-# § 83 – Stiftung von Todes wegen
+(3) Das Stiftungsgeschäft bedarf der schriftlichen Form, wenn nicht in anderen Vorschriften ausdrücklich eine strengere Form als die schriftliche Form vorgeschrieben ist, oder es muss in einer Verfügung von Todes wegen enthalten sein.
 
-Besteht das Stiftungsgeschäft in einer Verfügung von Todes wegen, so hat das Nachlassgericht dies der zuständigen Behörde zur Anerkennung mitzuteilen, sofern sie nicht von dem Erben oder dem Testamentsvollstrecker beantragt wird. Genügt das Stiftungsgeschäft nicht den Erfordernissen des § 81 Abs. 1 Satz 3, wird der Stiftung durch die zuständige Behörde vor der Anerkennung eine Satzung gegeben oder eine unvollständige Satzung ergänzt; dabei soll der Wille des Stifters berücksichtigt werden. Als Sitz der Stiftung gilt, wenn nicht ein anderes bestimmt ist, der Ort, an welchem die Verwaltung geführt wird. Im Zweifel gilt der letzte Wohnsitz des Stifters im Inland als Sitz.
+(4) Wenn der Stifter verstorben ist und er im Stiftungsgeschäft zwar den Zweck der Stiftung festgelegt und ein Vermögen gewidmet hat, das Stiftungsgeschäft im Übrigen jedoch nicht den gesetzlichen Anforderungen des Absatzes 1 oder des Absatzes 2 genügt, hat die nach Landesrecht zuständige Behörde das Stiftungsgeschäft um die Satzung oder um fehlende Satzungsbestimmungen zu ergänzen. Bei der Ergänzung des Stiftungsgeschäfts soll die Behörde den wirklichen, hilfsweise den mutmaßlichen Willen des Stifters beachten. Wurde im Stiftungsgeschäft kein Sitz der Stiftung bestimmt, ist im Zweifel anzunehmen, dass der Sitz am letzten Wohnsitz des Stifters im Inland sein soll.
 
-# § 84 – Anerkennung nach Tod des Stifters
+# § 81a – Widerruf des Stiftungsgeschäfts
 
-Wird die Stiftung erst nach dem Tode des Stifters als rechtsfähig anerkannt, so gilt sie für die Zuwendungen des Stifters als schon vor dessen Tod entstanden.
+Bis zur Anerkennung der Stiftung ist der Stifter zum Widerruf des Stiftungsgeschäfts berechtigt. Ist die Anerkennung bei der zuständigen Behörde des Landes beantragt, so ist der Widerruf dieser gegenüber zu erklären. Der Erbe des Stifters ist zum Widerruf des Stiftungsgeschäfts nicht berechtigt, wenn der Stifter den Antrag auf Anerkennung der Stiftung bei der zuständigen Behörde des Landes gestellt oder im Falle der notariellen Beurkundung des Stiftungsgeschäfts den Notar mit der Antragstellung betraut hat.
 
-# § 85 – Stiftungsverfassung
+# § 82 – Anerkennung der Stiftung
 
-Die Verfassung einer Stiftung wird, soweit sie nicht auf Bundes- oder Landesgesetz beruht, durch das Stiftungsgeschäft bestimmt.
+Die Stiftung ist anzuerkennen, wenn das Stiftungsgeschäft den Anforderungen des § 81 Absatz 1 bis 3 genügt und die dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert erscheint, es sei denn, die Stiftung würde das Gemeinwohl gefährden. Bei einer Verbrauchsstiftung erscheint die dauernde Erfüllung des Stiftungszwecks gesichert, wenn die in der Satzung für die Stiftung bestimmte Zeit mindestens zehn Jahre umfasst.
 
-# § 86 – Anwendung des Vereinsrechts
+# § 82a – Übertragung und Übergang des gewidmeten Vermögens
 
-Die Vorschriften der §§ 26 und 27 Absatz 3 und der §§ 28 bis 31a und 42 finden auf Stiftungen entsprechende Anwendung, die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 3 und des § 28 jedoch nur insoweit, als sich nicht aus der Verfassung, insbesondere daraus, dass die Verwaltung der Stiftung von einer öffentlichen Behörde geführt wird, ein anderes ergibt. Die Vorschriften des § 26 Absatz 2 Satz 2 und des § 29 finden auf Stiftungen, deren Verwaltung von einer öffentlichen Behörde geführt wird, keine Anwendung.
+Ist die Stiftung anerkannt, so ist der Stifter verpflichtet, das gewidmete Vermögen auf die Stiftung zu übertragen. Rechte, zu deren Übertragung eine Abtretung genügt, gehen mit der Anerkennung auf die Stiftung über, sofern sich nicht aus dem Stiftungsgeschäft ein anderer Wille des Stifters ergibt.
 
-# § 87 – Zweckänderung; Aufhebung
+# § 83 – Stiftungsverfassung und Stifterwille
 
-(1) Ist die Erfüllung des Stiftungszwecks unmöglich geworden oder gefährdet sie das Gemeinwohl, so kann die zuständige Behörde der Stiftung eine andere Zweckbestimmung geben oder sie aufheben.
+(1) Die Verfassung der Stiftung wird, soweit sie nicht auf Bundes- oder Landesgesetz beruht, durch das Stiftungsgeschäft und insbesondere die Satzung bestimmt.
 
-(2) Bei der Umwandlung des Zweckes soll der Wille des Stifters berücksichtigt werden, insbesondere soll dafür gesorgt werden, dass die Erträge des Stiftungsvermögens dem Personenkreis, dem sie zustatten kommen sollten, im Sinne des Stifters erhalten bleiben. Die Behörde kann die Verfassung der Stiftung ändern, soweit die Umwandlung des Zweckes es erfordert.
+(2) Die Stiftungsorgane haben bei ihrer Tätigkeit für die Stiftung und die zuständigen Behörden haben bei der Aufsicht über die Stiftung den bei der Errichtung der Stiftung zum Ausdruck gekommenen Willen, hilfsweise den mutmaßlichen Willen des Stifters zu beachten.
 
-(3) Vor der Umwandlung des Zweckes und der Änderung der Verfassung soll der Vorstand der Stiftung gehört werden.
+# § 83a – Verwaltungssitz der Stiftung
 
-# § 88 – Vermögensanfall
+Die Verwaltung der Stiftung ist im Inland zu führen.
 
-Mit dem Erlöschen der Stiftung fällt das Vermögen an die in der Verfassung bestimmten Personen. Fehlt es an einer Bestimmung der Anfallberechtigten, so fällt das Vermögen an den Fiskus des Landes, in dem die Stiftung ihren Sitz hatte, oder an einen anderen nach dem Recht dieses Landes bestimmten Anfallberechtigten. Die Vorschriften der §§ 46 bis 53 finden entsprechende Anwendung.
+# § 83b – Stiftungsvermögen
+
+(1) Bei einer Stiftung, die auf unbestimmte Zeit errichtet wurde, besteht das Stiftungsvermögen aus dem Grundstockvermögen und ihrem sonstigen Vermögen. Bei einer Verbrauchsstiftung besteht das Stiftungsvermögen aufgrund der Satzung nur aus sonstigem Vermögen.
+
+(2) Zum Grundstockvermögen gehören
+
+1. das gewidmete Vermögen,
+
+2. das der Stiftung zugewendete Vermögen, das vom Zuwendenden dazu bestimmt wurde, Teil des Grundstockvermögens zu werden (Zustiftung), und
+
+3. das Vermögen, das von der Stiftung zu Grundstockvermögen bestimmt wurde.
+
+(3) Der Stifter kann auch bei einer Stiftung, die auf unbestimmte Zeit errichtet wird, im Stiftungsgeschäft abweichend von Absatz 2 Nummer 1 einen Teil des gewidmeten Vermögens zu sonstigem Vermögen bestimmen.
+
+(4) Das Stiftungsvermögen ist getrennt von fremdem Vermögen zu verwalten. Mit dem Stiftungsvermögen darf nur der Stiftungszweck erfüllt werden.
+
+# § 83c – Verwaltung des Grundstockvermögens
+
+(1) Das Grundstockvermögen ist ungeschmälert zu erhalten. Der Stiftungszweck ist mit den Nutzungen des Grundstockvermögens zu erfüllen. Zuwächse aus der Umschichtung des Grundstockvermögens können für die Erfüllung des Stiftungszwecks verwendet werden, soweit dies durch die Satzung nicht ausgeschlossen wurde und die Erhaltung des Grundstockvermögens gewährleistet ist.
+
+(2) Durch die Satzung kann bestimmt werden, dass die Stiftung einen Teil des Grundstockvermögens verbrauchen darf. In einer solchen Satzungsbestimmung muss die Stiftung verpflichtet werden, das Grundstockvermögen in absehbarer Zeit wieder um den verbrauchten Teil aufzustocken.
+
+(3) Durch Landesrecht kann vorgesehen werden, dass die nach Landesrecht zuständigen Behörden auf Antrag einer Stiftung für einen bestimmten Teil des Grundstockvermögens eine zeitlich begrenzte Ausnahme von Absatz 1 Satz 1 zulassen können, wenn dadurch die dauernde und nachhaltige Erfüllung des Stiftungszwecks nicht beeinträchtigt wird.
+
+# § 84 – Stiftungsorgane
+
+(1) Die Stiftung muss einen Vorstand haben. Der Vorstand führt die Geschäfte der Stiftung.
+
+(2) Der Vorstand vertritt die Stiftung gerichtlich und außergerichtlich; er hat die Stellung eines gesetzlichen Vertreters. Besteht der Vorstand aus mehreren Personen, so wird die Stiftung durch die Mehrheit der Vorstandsmitglieder vertreten. Ist eine Willenserklärung gegenüber der Stiftung abzugeben, so genügt die Abgabe gegenüber einem Mitglied des Vorstands.
+
+(3) Durch die Satzung kann von Absatz 1 Satz 2 und Absatz 2 Satz 2 abgewichen und der Umfang der Vertretungsmacht des Vorstands mit Wirkung gegen Dritte beschränkt werden.
+
+(4) In der Satzung können neben dem Vorstand weitere Organe vorgesehen werden. In der Satzung sollen für ein weiteres Organ auch die Bestimmungen über die Bildung, die Aufgaben und die Befugnisse enthalten sein.
+
+(5) Die §§ 30, 31 und 42 Absatz 2 sind entsprechend anzuwenden.
+
+# § 84a – Rechte und Pflichten der Organmitglieder
+
+(1) Auf die Tätigkeit eines Organmitglieds für die Stiftung sind die §§ 664 bis 670 entsprechend anzuwenden. Organmitglieder sind unentgeltlich tätig. Durch die Satzung kann von den Sätzen 1 und 2 abgewichen werden, insbesondere auch die Haftung für Pflichtverletzungen von Organmitgliedern beschränkt werden.
+
+(2) Das Mitglied eines Organs hat bei der Führung der Geschäfte der Stiftung die Sorgfalt eines ordentlichen Geschäftsführers anzuwenden. Eine Pflichtverletzung liegt nicht vor, wenn das Mitglied des Organs bei der Geschäftsführung unter Beachtung der gesetzlichen und satzungsgemäßen Vorgaben vernünftigerweise annehmen durfte, auf der Grundlage angemessener Informationen zum Wohle der Stiftung zu handeln.
+
+(3) § 31a ist entsprechend anzuwenden. Durch die Satzung kann die Anwendbarkeit des § 31a beschränkt oder ausgeschlossen werden.
+
+# § 84b – Beschlussfassung der Organe
+
+Besteht ein Organ aus mehreren Mitgliedern, erfolgt die Beschlussfassung entsprechend § 32, wenn in der Satzung nichts Abweichendes geregelt ist. Ein Organmitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und der Stiftung betrifft.
+
+# § 84c – Notmaßnahmen bei fehlenden Organmitgliedern
+
+(1) Wenn der Vorstand oder ein anderes Organ der Stiftung seine Aufgaben nicht wahrnehmen kann, weil Mitglieder des Organs fehlen, hat die nach Landesrecht zuständige Behörde in dringenden Fällen auf Antrag eines Beteiligten oder von Amts wegen notwendige Maßnahmen zu treffen, um die Handlungsfähigkeit des Organs zu gewährleisten. Die Behörde ist insbesondere befugt, Organmitglieder befristet zu bestellen oder von der satzungsmäßig vorgesehenen Zahl von Organmitgliedern befristet abzuweichen, insbesondere indem die Behörde einzelne Organmitglieder mit Befugnissen ausstattet, die ihnen nach der Satzung nur gemeinsam mit anderen Organmitgliedern zustehen.
+
+(2) Die Behörde kann einem von ihr bestellten Organmitglied bei oder nach der Bestellung eine angemessene Vergütung auf Kosten der Stiftung bewilligen, wenn das Vermögen der Stiftung sowie der Umfang und die Bedeutung der zu erledigenden Aufgabe dies rechtfertigen. Die Behörde kann die Bewilligung der Vergütung mit Wirkung für die Zukunft ändern oder aufheben.
+
+# § 85 – Voraussetzungen für Satzungsänderungen
+
+(1) Durch Satzungsänderung kann der Stiftung ein anderer Zweck gegeben oder der Zweck der Stiftung kann erheblich beschränkt werden, wenn
+
+1. der Stiftungszweck nicht mehr dauernd und nachhaltig erfüllt werden kann oder
+
+2. der Stiftungszweck das Gemeinwohl gefährdet.
+
+Die Voraussetzungen des Satzes 1 Nummer 1 liegen insbesondere vor, wenn eine Stiftung keine ausreichenden Mittel für die nachhaltige Erfüllung des Stiftungszwecks hat und solche Mittel in absehbarer Zeit auch nicht erwerben kann. Der Stiftungszweck kann nach Satz 1 nur geändert werden, wenn gesichert erscheint, dass die Stiftung den beabsichtigten neuen oder beschränkten Stiftungszweck dauernd und nachhaltig erfüllen kann. Liegen die Voraussetzungen nach Satz 1 Nummer 1 und Satz 3 vor, kann eine auf unbestimmte Zeit errichtete Stiftung auch abweichend von § 83c durch Satzungsänderung in eine Verbrauchsstiftung umgestaltet werden, indem die Satzung um Bestimmungen nach § 81 Absatz 2 ergänzt wird.
+
+(2) Durch Satzungsänderung kann der Stiftungszweck in anderer Weise als nach Absatz 1 Satz 1 oder es können andere prägende Bestimmungen der Stiftungsverfassung geändert werden, wenn sich die Verhältnisse nach Errichtung der Stiftung wesentlich verändert haben und eine solche Änderung erforderlich ist, um die Stiftung an die veränderten Verhältnisse anzupassen. Als prägend für eine Stiftung sind regelmäßig die Bestimmungen über den Namen, den Sitz, die Art und Weise der Zweckerfüllung und über die Verwaltung des Grundstockvermögens anzusehen.
+
+(3) Durch Satzungsänderung können Bestimmungen der Satzung, die nicht unter Absatz 1 oder Absatz 2 Satz 1 fallen, geändert werden, wenn dies der Erfüllung des Stiftungszwecks dient.
+
+(4) Im Stiftungsgeschäft kann der Stifter Satzungsänderungen nach den Absätzen 1 bis 3 ausschließen oder beschränken. Satzungsänderungen durch Organe der Stiftung kann der Stifter im Stiftungsgeschäft auch abweichend von den Absätzen 1 bis 3 zulassen. Satzungsbestimmungen nach Satz 2 sind nur wirksam, wenn der Stifter Inhalt und Ausmaß der Änderungsermächtigung hinreichend bestimmt festlegt.
+
+# § 85a – Verfahren bei Satzungsänderungen
+
+(1) Die Satzung kann durch den Vorstand oder ein anderes durch die Satzung dazu bestimmtes Stiftungsorgan geändert werden. Die Satzungsänderung bedarf der Genehmigung der nach Landesrecht zuständigen Behörde.
+
+(2) Die Behörde kann die Satzung nach § 85 ändern, wenn die Satzungsänderung notwendig ist und das zuständige Stiftungsorgan sie nicht rechtzeitig beschließt.
+
+(3) Wenn durch die Satzungsänderung der Sitz der Stiftung in den Zuständigkeitsbereich einer anderen Behörde verlegt werden soll, bedarf die nach Absatz 1 Satz 2 erforderliche Genehmigung der Satzungsänderung der Zustimmung der Behörde, in deren Zuständigkeitsbereich der neue Sitz begründet werden soll.
+
+# § 86 – Voraussetzungen für die Zulegung
+
+Durch Übertragung ihres Stiftungsvermögens als Ganzes kann die übertragende Stiftung einer übernehmenden Stiftung zugelegt werden, wenn
+
+1. sich die Verhältnisse nach Errichtung der übertragenden Stiftung wesentlich verändert haben und eine Satzungsänderung nach § 85 Absatz 2 bis 4 nicht ausreicht, um die übertragende Stiftung an die veränderten Verhältnisse anzupassen, oder wenn schon seit Errichtung der Stiftung die Voraussetzungen für eine Auflösung nach § 87 Absatz 1 Satz 1 vorlagen,
+
+2. der Zweck der übertragenden Stiftung im Wesentlichen mit einem Zweck der übernehmenden Stiftung übereinstimmt,
+
+3. gesichert erscheint, dass die übernehmende Stiftung ihren Zweck auch nach der Zulegung im Wesentlichen in gleicher Weise dauernd und nachhaltig erfüllen kann, und
+
+4. die Rechte von Personen gewahrt werden, für die in der Satzung der übertragenden Stiftung Ansprüche auf Stiftungsleistungen begründet sind.
+
+# § 86a – Voraussetzungen für die Zusammenlegung
+
+Mindestens zwei übertragende Stiftungen können durch Errichtung einer neuen Stiftung und Übertragung ihres jeweiligen Stiftungsvermögens als Ganzes auf die neue übernehmende Stiftung zusammengelegt werden, wenn
+
+1. sich die Verhältnisse nach Errichtung der übertragenden Stiftungen wesentlich verändert haben und eine Satzungsänderung nach § 85 Absatz 2 bis 4 nicht ausreicht, um die übertragenden Stiftungen an die veränderten Verhältnisse anzupassen, oder wenn schon seit Errichtung der Stiftung die Voraussetzungen für eine Auflösung nach § 87 Absatz 1 Satz 1 vorlagen,
+
+2. gesichert erscheint, dass die neue übernehmende Stiftung die Zwecke der übertragenden Stiftungen im Wesentlichen in gleicher Weise dauernd und nachhaltig erfüllen kann, und
+
+3. die Rechte von Personen gewahrt werden, für die in den Satzungen der übertragenden Stiftungen Ansprüche auf Stiftungsleistungen begründet sind.
+
+# § 86b – Verfahren der Zulegung und der Zusammenlegung
+
+(1) Stiftungen können durch Vertrag zugelegt oder zusammengelegt werden. Der Zulegungsvertrag oder der Zusammenlegungsvertrag bedarf der Genehmigung durch die für die übernehmende Stiftung nach Landesrecht zuständige Behörde.
+
+(2) Die Behörde nach Absatz 1 Satz 2 kann Stiftungen zulegen oder zusammenlegen, wenn die Stiftungen die Zulegung oder Zusammenlegung nicht vereinbaren können. Die übernehmende Stiftung muss einer Zulegung durch die Behörde zustimmen.
+
+(3) Ist nach Landesrecht für eine übertragende Stiftung eine andere Behörde zuständig als die Behörde nach Absatz 1 Satz 2, bedürfen die Genehmigung eines Zulegungsvertrags oder eines Zusammenlegungsvertrags und die behördliche Zulegung oder Zusammenlegung der Zustimmung der für die übertragenden Stiftungen nach dem jeweiligen Landesrecht zuständigen Behörden.
+
+# § 86c – Zulegungsvertrag und Zusammenlegungsvertrag
+
+(1) Ein Zulegungsvertrag muss mindestens enthalten:
+
+1. die Angabe des jeweiligen Namens und des jeweiligen Sitzes der beteiligten Stiftungen und
+
+2. die Vereinbarung, dass das Stiftungsvermögen der übertragenden Stiftung als Ganzes auf die übernehmende Stiftung übertragen werden soll und mit der Vermögensübertragung das Grundstockvermögen der übertragenden Stiftung Teil des Grundstockvermögens der übernehmenden Stiftung wird.
+
+Wenn durch die Satzung der übertragenden Stiftung für Personen Ansprüche auf Stiftungsleistungen begründet sind, muss der Zulegungsvertrag Angaben zu den Auswirkungen der Zulegung auf diese Ansprüche und zu den Maßnahmen enthalten, die vorgesehen sind, um die Rechte dieser Personen zu wahren.
+
+(2) Ein Zusammenlegungsvertrag muss mindestens die Angaben nach Absatz 1 enthalten sowie das Stiftungsgeschäft zur Errichtung der neuen übernehmenden Stiftung.
+
+(3) Der Zulegungsvertrag oder der Zusammenlegungsvertrag ist Personen nach Absatz 1 Satz 2 spätestens einen Monat vor der Beantragung der Genehmigung nach § 86b Absatz 1 Satz 2 von derjenigen Stiftung zuzuleiten, in deren Satzung die Ansprüche begründet sind.
+
+# § 86d – Form des Zulegungsvertrags und des Zusammenlegungsvertrags
+
+Zulegungsverträge und Zusammenlegungsverträge bedürfen nur der schriftlichen Form, insbesondere § 311b Absatz 1 bis 3 ist nicht anzuwenden.
+
+# § 86e – Behördliche Zulegungsentscheidung und Zusammenlegungsentscheidung
+
+(1) Auf den Inhalt der Entscheidungen über die Zulegung oder Zusammenlegung von Stiftungen durch die nach Landesrecht zuständige Behörde ist § 86c Absatz 1 und 2 entsprechend anzuwenden.
+
+(2) Die Behörde hat Personen nach § 86c Absatz 1 Satz 2 mindestens einen Monat vor der Entscheidung über die Zulegung oder Zusammenlegung anzuhören und auf die möglichen Folgen der Zulegung oder Zusammenlegung für deren Ansprüche gegen eine übertragende Stiftung hinzuweisen.
+
+# § 86f – Wirkungen der Zulegung und der Zusammenlegung
+
+(1) Mit der Unanfechtbarkeit der Genehmigung des Zulegungsvertrags oder der Unanfechtbarkeit der Entscheidung über die Zulegung durch die nach Landesrecht zuständige Behörde geht das Stiftungsvermögen der übertragenden Stiftung auf die übernehmende Stiftung über und erlischt die übertragende Stiftung.
+
+(2) Mit der Unanfechtbarkeit der Genehmigung des Zusammenlegungsvertrags oder der Unanfechtbarkeit der Entscheidung über die Zusammenlegung durch die Behörde entsteht die neue Stiftung, geht das Stiftungsvermögen der übertragenden Stiftungen auf die neue übernehmende Stiftung über und erlöschen die übertragenden Stiftungen.
+
+(3) Mängel des Zulegungsvertrags oder des Zusammenlegungsvertrags lassen die Wirkungen der behördlichen Genehmigung unberührt.
+
+# § 86g – Bekanntmachung der Zulegung und der Zusammenlegung
+
+Die übernehmende Stiftung hat die Zulegung oder die Zusammenlegung innerhalb eines Monats nach dem Zeitpunkt, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach § 86f Absatz 1 oder Absatz 2 eingetreten sind, durch Veröffentlichung im Bundesanzeiger bekannt zu machen. In der Bekanntmachung sind die Gläubiger der an der Zulegung oder Zusammenlegung beteiligten Stiftungen auf ihr Recht nach § 86h hinzuweisen. Die Bekanntmachung gilt mit dem Ablauf des zweiten Tages nach der Veröffentlichung im Bundesanzeiger als bewirkt.
+
+# § 86h – Gläubigerschutz
+
+Die übernehmende Stiftung hat einem Gläubiger nach § 86g Satz 2 für einen Anspruch, der vor dem Zeitpunkt entstanden ist, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach § 86f Absatz 1 oder Absatz 2 eingetreten sind, und dessen Erfüllung noch nicht verlangt werden kann, Sicherheit zu leisten, wenn der Gläubiger
+
+1. den Anspruch nach Grund und Höhe binnen sechs Monaten nach dem Tag, an dem die Zulegung oder Zusammenlegung bekanntgemacht wurde, bei der Stiftung schriftlich anmeldet und
+
+2. mit der Anmeldung glaubhaft macht, dass die Erfüllung des Anspruchs aufgrund der Zulegung oder Zusammenlegung gefährdet ist.
+
+# § 87 – Auflösung der Stiftung durch die Stiftungsorgane
+
+(1) Der Vorstand soll die Stiftung auflösen, wenn die Stiftung ihren Zweck endgültig nicht mehr dauernd und nachhaltig erfüllen kann. Die Voraussetzungen des Satzes 1 liegen nicht endgültig vor, wenn die Stiftung durch eine Satzungsänderung so umgestaltet werden kann, dass sie ihren Zweck wieder dauernd und nachhaltig erfüllen kann. In der Satzung kann geregelt werden, dass ein anderes Organ über die Auflösung entscheidet.
+
+(2) Eine Verbrauchsstiftung ist aufzulösen, wenn die Zeit, für die sie errichtet wurde, abgelaufen ist.
+
+(3) Die Auflösung einer Stiftung bedarf der Genehmigung der nach Landesrecht zuständigen Behörde.
+
+# § 87a – Aufhebung der Stiftung
+
+(1) Die nach Landesrecht zuständige Behörde soll eine Stiftung aufheben, wenn die Voraussetzungen des § 87 Absatz 1 Satz 1 vorliegen und ein Tätigwerden der Behörde erforderlich ist, weil das zuständige Organ über die Auflösung nicht rechtzeitig entscheidet.
+
+(2) Die nach Landesrecht zuständige Behörde hat die Stiftung aufzuheben, wenn
+
+1. die Voraussetzungen des § 87 Absatz 2 vorliegen und ein Tätigwerden der Behörde erforderlich ist, weil das zuständige Organ über die Auflösung nicht unverzüglich entscheidet,
+
+2. die Stiftung das Gemeinwohl gefährdet und die Gefährdung des Gemeinwohls nicht auf andere Weise beseitigt werden kann oder
+
+3. der Verwaltungssitz der Stiftung im Ausland begründet wurde und die Behörde die Verlegung des Verwaltungssitzes ins Inland nicht innerhalb angemessener Zeit erreichen kann.
+
+# § 87b – Auflösung der Stiftung bei Insolvenz
+
+Die Stiftung wird durch die Eröffnung des Insolvenzverfahrens und mit der Rechtskraft des Beschlusses, durch den die Eröffnung des Insolvenzverfahrens mangels Masse abgewiesen worden ist, aufgelöst.
+
+# § 87c – Vermögensanfall und Liquidation
+
+(1) Mit der Auflösung oder Aufhebung der Stiftung fällt das Stiftungsvermögen an die in der Satzung bestimmten Anfallberechtigten. Durch die Satzung kann vorgesehen werden, dass die Anfallberechtigten durch ein Stiftungsorgan bestimmt werden. Fehlt es an der Bestimmung der Anfallberechtigten durch oder aufgrund der Satzung, fällt das Stiftungsvermögen an den Fiskus des Landes, in dem die Stiftung ihren Sitz hatte. Durch landesrechtliche Vorschriften kann als Anfallberechtigte an Stelle des Fiskus eine andere juristische Person des öffentlichen Rechts bestimmt werden.
+
+(2) Auf den Anfall des Stiftungsvermögens beim Fiskus des Landes oder des Bundes oder bei einer anderen juristischen Person des öffentlichen Rechts nach Absatz 1 Satz 4 ist § 46 entsprechend anzuwenden. Fällt das Stiftungsvermögen bei anderen Anfallberechtigten an, sind die §§ 47 bis 53 entsprechend anzuwenden.
+
+# § 88 – Kirchliche Stiftungen
+
+Die Vorschriften der Landesgesetze über die kirchlichen Stiftungen bleiben unberührt, insbesondere die Vorschriften zur Beteiligung, Zuständigkeit und Anfallsberechtigung der Kirchen. Dasselbe gilt entsprechend für Stiftungen, die nach den Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
 
 # § 89 – Haftung für Organe; Insolvenz
 
@@ -15816,7 +15998,7 @@ Der Erblasser kann einen Erben in der Weise einsetzen, dass dieser erst Erbe wir
 
 (1) Ist eine zur Zeit des Erbfalls noch nicht gezeugte Person als Erbe eingesetzt, so ist im Zweifel anzunehmen, dass sie als Nacherbe eingesetzt ist. Entspricht es nicht dem Willen des Erblassers, dass der Eingesetzte Nacherbe werden soll, so ist die Einsetzung unwirksam.
 
-(2) Das Gleiche gilt von der Einsetzung einer juristischen Person, die erst nach dem Erbfall zur Entstehung gelangt; die Vorschrift des § 84 bleibt unberührt.
+(2) Das Gleiche gilt von der Einsetzung einer juristischen Person, die erst nach dem Erbfall zur Entstehung gelangt; die Vorschrift des § 80 Absatz 2 Satz 2 bleibt unberührt.
 
 # § 2102 – Nacherbe und Ersatzerbe
 
