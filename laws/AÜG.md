@@ -353,15 +353,13 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt
 
 15. entgegen § 17b Absatz 1 Satz 2 eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-16. entgegen § 17b Absatz 2 eine Versicherung nicht beifügt,
+16. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt oder
 
-17. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt oder
+17. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
 
-18. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis 17 kann mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und die Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5 und 6a mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis 18 kann mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und die Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5 und 6a mit einer Geldbuße bis zu tausend Euro geahndet werden.
-
-(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 18 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 17 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
 
 (4) §§ 66 des Zehnten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -379,7 +377,7 @@ Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des Schwarzarbeitsbekämpfungsgesetzes
 
 # § 17b – Meldepflicht
 
-(1) Überlässt ein Verleiher mit Sitz im Ausland einen Leiharbeitnehmer zur Arbeitsleistung einem Entleiher, hat der Entleiher, sofern eine Rechtsverordnung nach § 3a auf das Arbeitsverhältnis Anwendung findet, vor Beginn jeder Überlassung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
+(1) Überlässt ein Verleiher mit Sitz im Ausland einen Leiharbeitnehmer zur Arbeitsleistung einem Entleiher, hat der Verleiher, sofern eine Rechtsverordnung nach § 3a auf das Arbeitsverhältnis Anwendung findet, vor Beginn jeder Überlassung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
 
 1. Familienname, Vornamen und Geburtsdatum des überlassenen Leiharbeitnehmers,
 
@@ -393,13 +391,11 @@ Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des Schwarzarbeitsbekämpfungsgesetzes
 
 6. Branche, in die die Leiharbeitnehmer überlassen werden sollen, und
 
-7. Familienname, Vornamen oder Firma sowie Anschrift des Verleihers.
+7. Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
 
-Änderungen bezüglich dieser Angaben hat der Entleiher unverzüglich zu melden.
+Änderungen bezüglich dieser Angaben hat der Verleiher unverzüglich zu melden.
 
-(2) Der Entleiher hat der Anmeldung eine Versicherung des Verleihers beizufügen, dass dieser seine Verpflichtungen nach § 8 Absatz 5 einhält.
-
-(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
 
 1. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen eine Anmeldung, Änderungsmeldung und Versicherung abweichend von den Absätzen 1 und 2 elektronisch übermittelt werden kann,
 
@@ -407,7 +403,7 @@ Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des Schwarzarbeitsbekämpfungsgesetzes
 
 3. wie das Meldeverfahren vereinfacht oder abgewandelt werden kann.
 
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 bestimmen.
+(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 bestimmen.
 
 # § 17c – Erstellen und Bereithalten von Dokumenten
 

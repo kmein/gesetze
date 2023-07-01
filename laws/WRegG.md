@@ -33,9 +33,9 @@ b) nach § 404 Absatz 1 und 2 Nummer 3 des Dritten Buches Sozialgesetzbuch – A
 
 c) nach den §§ 15, 15a, 16 Absatz 1 Nummer 1, 1c, 1d, 1f und 2 des Arbeitnehmerüberlassungsgesetzes in der Fassung der Bekanntmachung vom 3. Februar 1995 (BGBl. I S. 158), das zuletzt durch Artikel 1 des Gesetzes vom 21. Februar 2017 (BGBl. I S. 258) geändert worden ist,
 
-d) nach § 21 Absatz 1 und 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 6 Absatz 39 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, oder
+d) nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 sowie Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 6 Absatz 39 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, oder
 
-e) nach § 23 Absatz 1 und 2 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist;
+e) nach § 23 Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017 (BGBl. I S. 872) geändert worden ist;
 
 3. rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
 

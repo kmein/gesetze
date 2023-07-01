@@ -1554,9 +1554,9 @@ Maßnahmen zur Verbesserung des Verhältnisses zwischen Energieaufwand und damit
 
 Gaslieferant oder Stromlieferant,
 
-15d. Energiespeicheranlagen
+15d. Energiespeicheranlage
 
-Anlagen, die elektrische Energie zum Zwecke der elektrischen, chemischen, mechanischen oder physikalischen Zwischenspeicherung verbrauchen und als elektrische Energie erzeugen oder in einer anderen Energieform wieder abgeben,
+Anlage in einem Elektrizitätsnetz, mit der die endgültige Nutzung elektrischer Energie auf einen späteren Zeitpunkt als den ihrer Erzeugung verschoben wird oder mit der die Umwandlung elektrischer Energie in eine speicherbare Energieform, die Speicherung solcher Energie und ihre anschließende Rückumwandlung in elektrische Energie oder Nutzung als ein anderer Energieträger erfolgt,
 
 16. Energieversorgungsnetze
 

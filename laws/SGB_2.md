@@ -20,6 +20,7 @@
 |:------|:--------------------------------------|
 | §  7  | Leistungsberechtigte                  |
 | §  7a | Altersgrenze                          |
+| §  7b | Erreichbarkeit                        |
 | §  8  | Erwerbsfähigkeit                      |
 | §  9  | Hilfebedürftigkeit                    |
 | § 10  | Zumutbarkeit                          |
@@ -33,8 +34,8 @@
 |       |                                                                     |
 |:------|:--------------------------------------------------------------------|
 | § 14  | Grundsatz des Förderns                                              |
-| § 15  | Eingliederungsvereinbarung                                          |
-| § 15a | (weggefallen)                                                       |
+| § 15  | Potenzialanalyse und Kooperationsplan                               |
+| § 15a | Schlichtungsverfahren                                               |
 | § 16  | Leistungen zur Eingliederung                                        |
 | § 16a | Kommunale Eingliederungsleistungen                                  |
 | § 16b | Einstiegsgeld                                                       |
@@ -45,6 +46,8 @@
 | § 16g | Förderung bei Wegfall der Hilfebedürftigkeit                        |
 | § 16h | Förderung schwer zu erreichender junger Menschen                    |
 | § 16i | Teilhabe am Arbeitsmarkt                                            |
+| § 16j | Bürgergeldbonus                                                     |
+| § 16k | Ganzheitliche Betreuung                                             |
 | § 17  | Einrichtungen und Dienste für Leistungen zur Eingliederung          |
 | § 18  | Örtliche Zusammenarbeit                                             |
 | § 18a | Zusammenarbeit mit den für die Arbeitsförderung zuständigen Stellen |
@@ -237,7 +240,7 @@
 
 # § 2 – Grundsatz des Forderns
 
-(1) Erwerbsfähige Leistungsberechtigte und die mit ihnen in einer Bedarfsgemeinschaft lebenden Personen müssen alle Möglichkeiten zur Beendigung oder Verringerung ihrer Hilfebedürftigkeit ausschöpfen. Eine erwerbsfähige leistungsberechtigte Person muss aktiv an allen Maßnahmen zu ihrer Eingliederung in Arbeit mitwirken, insbesondere eine Eingliederungsvereinbarung abschließen. Wenn eine Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt in absehbarer Zeit nicht möglich ist, hat die erwerbsfähige leistungsberechtigte Person eine ihr angebotene zumutbare Arbeitsgelegenheit zu übernehmen.
+(1) Erwerbsfähige Leistungsberechtigte und die mit ihnen in einer Bedarfsgemeinschaft lebenden Personen müssen alle Möglichkeiten zur Beendigung oder Verringerung ihrer Hilfebedürftigkeit ausschöpfen. Eine erwerbsfähige leistungsberechtigte Person muss aktiv an allen Maßnahmen zu ihrer Eingliederung in Arbeit mitwirken, insbesondere einen Kooperationsplan abschließen. Im Rahmen der vorrangigen Selbsthilfe und Eigenverantwortung sollen erwerbsfähige leistungsberechtigte Personen eigene Potenziale nutzen und Leistungen anderer Träger in Anspruch nehmen.
 
 (2) Erwerbsfähige Leistungsberechtigte und die mit ihnen in einer Bedarfsgemeinschaft lebenden Personen haben in eigener Verantwortung alle Möglichkeiten zu nutzen, ihren Lebensunterhalt aus eigenen Mitteln und Kräften zu bestreiten. Erwerbsfähige Leistungsberechtigte müssen ihre Arbeitskraft zur Beschaffung des Lebensunterhalts für sich und die mit ihnen in einer Bedarfsgemeinschaft lebenden Personen einsetzen.
 
@@ -291,7 +294,7 @@ Absatz 1 Satz 3 gilt entsprechend. In den Fällen des Satzes 1 ist die Teilnahme
 
 (4) Leistungen zur Eingliederung in Arbeit nach dem Ersten Abschnitt des Dritten Kapitels werden nicht an oder für erwerbsfähige Leistungsberechtigte erbracht, die einen Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld haben.
 
-(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16i können auch an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
+(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16k können auch an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
 
 # § 6 – Träger der Grundsicherung für Arbeitsuchende
 
@@ -431,15 +434,7 @@ c) eine Person, die mit der erwerbsfähigen leistungsberechtigten Person in eine
 
 Die Sätze 1 und 3 Nummer 2 gelten für Bewohner von Räumlichkeiten im Sinne des § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften Buches entsprechend.
 
-(4a) Erwerbsfähige Leistungsberechtigte erhalten keine Leistungen, wenn sie sich ohne Zustimmung des zuständigen Trägers nach diesem Buch außerhalb des zeit- und ortsnahen Bereichs aufhalten und deshalb nicht für die Eingliederung in Arbeit zur Verfügung stehen. Die Zustimmung ist zu erteilen, wenn für den Aufenthalt außerhalb des zeit-und ortsnahen Bereichs ein wichtiger Grund vorliegt und die Eingliederung in Arbeit nicht beeinträchtigt wird. Ein wichtiger Grund liegt insbesondere vor bei
-
-1. Teilnahme an einer ärztlich verordneten Maßnahme der medizinischen Vorsorge oder Rehabilitation,
-
-2. Teilnahme an einer Veranstaltung, die staatspolitischen, kirchlichen oder gewerkschaftlichen Zwecken dient oder sonst im öffentlichen Interesse liegt, oder
-
-3. Ausübung einer ehrenamtlichen Tätigkeit.
-
-Die Zustimmung kann auch erteilt werden, wenn für den Aufenthalt außerhalb des zeit- und ortsnahen Bereichs kein wichtiger Grund vorliegt und die Eingliederung in Arbeit nicht beeinträchtigt wird. Die Dauer der Abwesenheiten nach Satz 4 soll in der Regel insgesamt drei Wochen im Kalenderjahr nicht überschreiten.
+(4a) (weggefallen)
 
 (5) Auszubildende, deren Ausbildung im Rahmen des Bundesausbildungsförderungsgesetzes dem Grunde nach förderungsfähig ist, haben über die Leistungen nach § 27 hinaus keinen Anspruch auf Leistungen zur Sicherung des Lebensunterhalts. Satz 1 gilt auch für Auszubildende, deren Bedarf sich nach § 61 Absatz 2, § 62 Absatz 3, § 123 Nummer 2 sowie § 124 Nummer 2 des Dritten Buches bemisst.
 
@@ -466,6 +461,24 @@ Anhebung<br />
 um Monate</th><th style="text-align: center;">auf den Ablauf des Monats,<br />
 in dem ein Lebensalter<br />
 vollendet wird von</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1947</td><td style="text-align: center;"> 1</td><td style="text-align: center;">65 Jahren und 1 Monat</td></tr><tr class="even"><td style="text-align: center;">1948</td><td style="text-align: center;"> 2</td><td style="text-align: center;">65 Jahren und 2 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1949</td><td style="text-align: center;"> 3</td><td style="text-align: center;">65 Jahren und 3 Monaten</td></tr><tr class="even"><td style="text-align: center;">1950</td><td style="text-align: center;"> 4</td><td style="text-align: center;">65 Jahren und 4 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1951</td><td style="text-align: center;"> 5</td><td style="text-align: center;">65 Jahren und 5 Monaten</td></tr><tr class="even"><td style="text-align: center;">1952</td><td style="text-align: center;"> 6</td><td style="text-align: center;">65 Jahren und 6 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1953</td><td style="text-align: center;"> 7</td><td style="text-align: center;">65 Jahren und 7 Monaten</td></tr><tr class="even"><td style="text-align: center;">1954</td><td style="text-align: center;"> 8</td><td style="text-align: center;">65 Jahren und 8 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1955</td><td style="text-align: center;"> 9</td><td style="text-align: center;">65 Jahren und 9 Monaten</td></tr><tr class="even"><td style="text-align: center;">1956</td><td style="text-align: center;">10</td><td style="text-align: center;">65 Jahren und 10 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1957</td><td style="text-align: center;">11</td><td style="text-align: center;">65 Jahren und 11 Monaten</td></tr><tr class="even"><td style="text-align: center;">1958</td><td style="text-align: center;">12</td><td style="text-align: center;">66 Jahren</td></tr><tr class="odd"><td style="text-align: center;">1959</td><td style="text-align: center;">14</td><td style="text-align: center;">66 Jahren und 2 Monaten</td></tr><tr class="even"><td style="text-align: center;">1960</td><td style="text-align: center;">16</td><td style="text-align: center;">66 Jahren und 4 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1961</td><td style="text-align: center;">18</td><td style="text-align: center;">66 Jahren und 6 Monaten</td></tr><tr class="even"><td style="text-align: center;">1962</td><td style="text-align: center;">20</td><td style="text-align: center;">66 Jahren und 8 Monaten</td></tr><tr class="odd"><td style="text-align: center;">1963</td><td style="text-align: center;">22</td><td style="text-align: center;">66 Jahren und 10 Monaten</td></tr><tr class="even"><td style="text-align: center;">ab 1964</td><td style="text-align: center;">24</td><td style="text-align: center;">67 Jahren.</td></tr></tbody></table>
+
+# § 7b – Erreichbarkeit
+
+(1) Erwerbsfähige Leistungsberechtigte erhalten Leistungen, wenn sie erreichbar sind. Erreichbar sind erwerbsfähige Leistungsberechtigte, wenn sie sich im näheren Bereich des zuständigen Jobcenters aufhalten und werktäglich dessen Mitteilungen und Aufforderungen zur Kenntnis nehmen können. Ein Aufenthalt im näheren Bereich liegt vor, wenn es den erwerbsfähigen Leistungsberechtigten möglich ist, eine Dienststelle des zuständigen Jobcenters, einen möglichen Arbeitgeber oder den Durchführungsort einer Integrationsmaßnahme im örtlichen Zuständigkeitsbereich des Jobcenters in einer für den Vermittlungsprozess angemessenen Zeitspanne und ohne unzumutbaren oder die Eigenleistungsfähigkeit übersteigenden Aufwand aufzusuchen. Der nähere Bereich schließt auch einen Bereich im grenznahen Ausland ein.
+
+(2) Erwerbsfähige Leistungsberechtigte, die nicht erreichbar sind, erhalten nur dann Leistungen, wenn für den Aufenthalt außerhalb des näheren Bereichs ein wichtiger Grund vorliegt und das Jobcenter dem Aufenthalt außerhalb des näheren Bereichs zugestimmt hat. Ein wichtiger Grund liegt insbesondere vor bei
+
+1. Teilnahme an einer ärztlich verordneten Maßnahme der medizinischen Vorsorge oder Rehabilitation,
+
+2. Teilnahme an einer Veranstaltung, die kirchlichen oder gewerkschaftlichen Zwecken dient oder im öffentlichen Interesse liegt,
+
+3. Aufenthalten außerhalb des näheren Bereichs, die überwiegend der Eingliederung in Ausbildung oder Arbeit dienen, oder
+
+4. Ausübung einer ehrenamtlichen Tätigkeit, wenn die Eingliederung in Ausbildung oder Arbeit nicht wesentlich beeinträchtigt wird.
+
+Für Abwesenheiten außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit ist abweichend von Satz 1 keine Zustimmung des Jobcenters erforderlich.
+
+(3) Erwerbsfähige Leistungsberechtigte, die ohne wichtigen Grund nicht erreichbar sind, erhalten Leistungen, wenn das Jobcenter dem Aufenthalt außerhalb des näheren Bereichs zugestimmt hat und die Eingliederung in Ausbildung oder Arbeit nicht wesentlich beeinträchtigt wird. Die Zustimmung zu Abwesenheiten ohne wichtigen Grund soll in der Regel für insgesamt längstens drei Wochen im Kalenderjahr erteilt werden. Bei erwerbsfähigen Leistungsberechtigten, die weder arbeitslos noch erwerbstätig sind, ist die Zustimmung nach Satz 1 zu erteilen.
 
 # § 8 – Erwerbsfähigkeit
 
@@ -515,11 +528,11 @@ vollendet wird von</th></tr></thead><tbody><tr class="odd"><td style="text-align
 
 # § 11 – Zu berücksichtigendes Einkommen
 
-(1) Als Einkommen zu berücksichtigen sind Einnahmen in Geld abzüglich der nach § 11b abzusetzenden Beträge mit Ausnahme der in § 11a genannten Einnahmen. Dies gilt auch für Einnahmen in Geldeswert, die im Rahmen einer Erwerbstätigkeit, des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes zufließen. Als Einkommen zu berücksichtigen sind auch Zuflüsse aus darlehensweise gewährten Sozialleistungen, soweit sie dem Lebensunterhalt dienen. Der Kinderzuschlag nach § 6a des Bundeskindergeldgesetzes ist als Einkommen dem jeweiligen Kind zuzurechnen. Dies gilt auch für das Kindergeld für zur Bedarfsgemeinschaft gehörende Kinder, soweit es bei dem jeweiligen Kind zur Sicherung des Lebensunterhalts, mit Ausnahme der Bedarfe nach § 28, benötigt wird.
+(1) Als Einkommen zu berücksichtigen sind Einnahmen in Geld abzüglich der nach § 11b abzusetzenden Beträge mit Ausnahme der in § 11a genannten Einnahmen sowie Einnahmen, die nach anderen Vorschriften des Bundesrechts nicht als Einkommen im Sinne dieses Buches zu berücksichtigen sind. Dies gilt auch für Einnahmen in Geldeswert, die im Rahmen einer Erwerbstätigkeit, des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes zufließen. Als Einkommen zu berücksichtigen sind auch Zuflüsse aus darlehensweise gewährten Sozialleistungen, soweit sie dem Lebensunterhalt dienen. Der Kinderzuschlag nach § 6a des Bundeskindergeldgesetzes ist als Einkommen dem jeweiligen Kind zuzurechnen. Dies gilt auch für das Kindergeld für zur Bedarfsgemeinschaft gehörende Kinder, soweit es bei dem jeweiligen Kind zur Sicherung des Lebensunterhalts, mit Ausnahme der Bedarfe nach § 28, benötigt wird.
 
-(2) Laufende Einnahmen sind für den Monat zu berücksichtigen, in dem sie zufließen. Zu den laufenden Einnahmen zählen auch Einnahmen, die an einzelnen Tagen eines Monats aufgrund von kurzzeitigen Beschäftigungsverhältnissen erzielt werden. Für laufende Einnahmen, die in größeren als monatlichen Zeitabständen zufließen, gilt Absatz 3 entsprechend.
+(2) Einnahmen sind für den Monat zu berücksichtigen, in dem sie zufließen. Dies gilt auch für Einnahmen, die an einzelnen Tagen eines Monats aufgrund von kurzzeitigen Beschäftigungsverhältnissen erzielt werden.
 
-(3) Einmalige Einnahmen sind in dem Monat, in dem sie zufließen, zu berücksichtigen. Zu den einmaligen Einnahmen gehören auch als Nachzahlung zufließende Einnahmen, die nicht für den Monat des Zuflusses erbracht werden. Sofern für den Monat des Zuflusses bereits Leistungen ohne Berücksichtigung der einmaligen Einnahme erbracht worden sind, werden sie im Folgemonat berücksichtigt. Entfiele der Leistungsanspruch durch die Berücksichtigung in einem Monat, ist die einmalige Einnahme auf einen Zeitraum von sechs Monaten gleichmäßig aufzuteilen und monatlich mit einem entsprechenden Teilbetrag zu berücksichtigen.
+(3) Würde der Leistungsanspruch durch die Berücksichtigung einer als Nachzahlung zufließenden Einnahme, die nicht für den Monat des Zuflusses erbracht wird, in diesem Monat entfallen, so ist diese Einnahme auf einen Zeitraum von sechs Monaten gleichmäßig aufzuteilen und monatlich ab dem Monat des Zuflusses mit einem entsprechenden monatlichen Teilbetrag zu berücksichtigen.
 
 # § 11a – Nicht zu berücksichtigendes Einkommen
 
@@ -531,7 +544,13 @@ vollendet wird von</th></tr></thead><tbody><tr class="odd"><td style="text-align
 
 3. die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
 
-4. Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag.
+4. Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag,
+
+5. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, soweit diese Einnahmen einen Betrag in Höhe von 3 000 Euro im Kalenderjahr nicht überschreiten,
+
+6. Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
+
+7. Erbschaften.
 
 (2) Entschädigungen, die wegen eines Schadens, der kein Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet werden, sind nicht als Einkommen zu berücksichtigen.
 
@@ -561,6 +580,8 @@ b) für das vierte und jedes weitere Pflegekind vollständig,
 
 (6) Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder vergleichbare Leistungen nach landesrechtlichen Regelungen sind nicht als Einkommen zu berücksichtigen.
 
+(7) Nicht als Einkommen zu berücksichtigen sind Einnahmen von Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden. Satz 1 gilt nicht für eine Ausbildungsvergütung, auf die eine Schülerin oder ein Schüler einen Anspruch hat.
+
 # § 11b – Absetzbeträge
 
 (1) Vom Einkommen abzusetzen sind
@@ -589,23 +610,31 @@ soweit die Beiträge nicht nach § 26 bezuschusst werden,
 
 Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 Satz 4 sind die auf die einmalige Einnahme im Zuflussmonat entfallenden Beträge nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
 
-(2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 100 Euro monatlich von dem Einkommen aus Erwerbstätigkeit abzusetzen. Beträgt das monatliche Einkommen aus Erwerbstätigkeit mehr als 400 Euro, gilt Satz 1 nicht, wenn die oder der erwerbsfähige Leistungsberechtigte nachweist, dass die Summe der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 den Betrag von 100 Euro übersteigt. Erhält eine leistungsberechtigte Person mindestens aus einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26 oder 26a des Einkommensteuergesetzes steuerfrei sind, gelten die Sätze 1 und 2 mit den Maßgaben, dass jeweils an die Stelle des Betrages von
-
-1. 100 Euro monatlich der Betrag von 250 Euro monatlich, höchstens jedoch der Betrag, der sich aus der Summe von 100 Euro und dem Betrag der steuerfreien Bezüge oder Einnahmen ergibt, und
-
-2. 400 Euro der Betrag, der sich nach Nummer 1 ergibt,
-
-tritt. § 11a Absatz 3 bleibt unberührt. Von den in § 11a Absatz 3 Satz 2 Nummer 3 bis 5 genannten Leistungen, von dem Ausbildungsgeld nach dem Dritten Buch sowie von dem erhaltenen Unterhaltsbeitrag nach § 10 Absatz 2 des Aufstiegsfortbildungsförderungsgesetzes sind für die Absetzbeträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 mindestens 100 Euro abzusetzen, wenn die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt. Von dem Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder § 2 Absatz 1 Nummer 4 des Jugendfreiwilligendienstegesetzes ist anstelle der Beträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 250 Euro monatlich abzusetzen, soweit die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt.
+(2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 100 Euro monatlich von dem Einkommen aus Erwerbstätigkeit abzusetzen. Beträgt das monatliche Einkommen aus Erwerbstätigkeit mehr als 400 Euro, gilt Satz 1 nicht, wenn die oder der erwerbsfähige Leistungsberechtigte nachweist, dass die Summe der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 den Betrag von 100 Euro übersteigt.
 
 (2a) § 82a des Zwölften Buches gilt entsprechend.
 
+(2b) Abweichend von Absatz 2 Satz 1 ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 der Betrag nach § 8 Absatz 1a des Vierten Buches von dem Einkommen aus Erwerbstätigkeit abzusetzen bei erwerbsfähigen Leistungsberechtigten, die das 25. Lebensjahr noch nicht vollendet haben und die
+
+1. eine nach dem Bundesausbildungsförderungsgesetz dem Grunde nach förderungsfähige Ausbildung durchführen,
+
+2. eine nach § 57 Absatz 1 des Dritten Buches dem Grunde nach förderungsfähige Ausbildung, eine nach § 51 des Dritten Buches dem Grunde nach förderungsfähige berufsvorbereitende Bildungsmaßnahme oder eine nach § 54a des Dritten Buches geförderte Einstiegsqualifizierung durchführen,
+
+3. einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder dem Jugendfreiwilligendienstegesetz nachgehen oder
+
+4. als Schülerinnen und Schüler allgemein- oder berufsbildender Schulen außerhalb der in § 11a Absatz 7 genannten Zeiten erwerbstätig sind; dies gilt nach dem Besuch allgemeinbildender Schulen auch bis zum Ablauf des dritten auf das Ende der Schulausbildung folgenden Monats.
+
+Bei der Anwendung des Satzes 1 Nummer 3 gilt das Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes und nach § 2 Absatz 1 Satz 1 Nummer 4 des Jugendfreiwilligendienstegesetzes als Einkommen aus Erwerbstätigkeit. Bei Leistungsberechtigten, die das 25. Lebensjahr vollendet haben, tritt in den Fällen des Satzes 1 Nummer 3 an die Stelle des Betrages nach § 8 Absatz 1a des Vierten Buches der Betrag von 250 Euro monatlich. Sofern die unter Satz 1 Nummer 1 bis 4 genannten Personen die in § 11a Absatz 3 Satz 2 Nummer 3 bis 5 genannten Leistungen, Ausbildungsgeld nach dem Dritten Buch oder einen Unterhaltsbeitrag nach § 10 Absatz 2 des Aufstiegsfortbildungsförderungsgesetzes erhalten, ist von diesen Leistungen für die Absetzbeträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag in Höhe von mindestens 100 Euro abzusetzen, wenn die Absetzung nicht bereits nach Satz 1 oder nach Absatz 2 Satz 1 erfolgt ist. Satz 4 gilt auch für Leistungsberechtigte, die das 25. Lebensjahr vollendet haben.
+
 (3) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist von dem monatlichen Einkommen aus Erwerbstätigkeit ein weiterer Betrag abzusetzen. Dieser beläuft sich
 
-1. für den Teil des monatlichen Einkommens, der 100 Euro übersteigt und nicht mehr als 1 000 Euro beträgt, auf 20 Prozent und
+1. für den Teil des monatlichen Erwerbseinkommens, der 100 Euro übersteigt und nicht mehr als 520 Euro beträgt, auf 20 Prozent,
 
-2. für den Teil des monatlichen Einkommens, der 1 000 Euro übersteigt und nicht mehr als 1 200 Euro beträgt, auf 10 Prozent.
+2. für den Teil des monatlichen Erwerbseinkommens, der 520 Euro übersteigt und nicht mehr als 1 000 Euro beträgt, auf 30 Prozent und
 
-Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige Leistungsberechtigte, die entweder mit mindestens einem minderjährigen Kind in Bedarfsgemeinschaft leben oder die mindestens ein minderjähriges Kind haben, ein Betrag von 1 500 Euro.
+3. für den Teil des monatlichen Erwerbseinkommens, der 1 000 Euro übersteigt und nicht mehr als 1 200 Euro beträgt, auf 10 Prozent.
+
+Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige Leistungsberechtigte, die entweder mit mindestens einem minderjährigen Kind in Bedarfsgemeinschaft leben oder die mindestens ein minderjähriges Kind haben, ein Betrag von 1 500 Euro. In den Fällen des Absatzes 2b ist Satz 2 Nummer 1 nicht anzuwenden.
 
 # § 12 – Zu berücksichtigendes Vermögen
 
@@ -659,37 +688,59 @@ Für die Zeit vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2026 findet Sat
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, ohne Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen, unter welchen Voraussetzungen und für welche Dauer Leistungsberechtigte nach Vollendung des 63. Lebensjahres ausnahmsweise zur Vermeidung von Unbilligkeiten nicht verpflichtet sind, eine Rente wegen Alters vorzeitig in Anspruch zu nehmen.
 
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zum zeit- und ortsnahen Bereich (§ 7 Absatz 4a) sowie dazu zu treffen, wie lange und unter welchen Voraussetzungen sich erwerbsfähige Leistungsberechtigte außerhalb des zeit- und ortsnahen Bereichs aufhalten dürfen, ohne Ansprüche auf Leistungen nach diesem Buch zu verlieren.
+(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zum näheren Bereich im Sinne des § 7b Absatz 1 Satz 2 zu treffen sowie dazu, für welchen Zeitraum und unter welchen Voraussetzungen erwerbsfähige Leistungsberechtigte bei einem Aufenthalt außerhalb des näheren Bereichs einen Leistungsanspruch haben können, ohne erreichbar zu sein.
 
 # § 14 – Grundsatz des Förderns
 
-(1) Die Träger der Leistungen nach diesem Buch unterstützen erwerbsfähige Leistungsberechtigte umfassend mit dem Ziel der Eingliederung in Arbeit.
+(1) Die Träger der Leistungen nach diesem Buch unterstützen erwerbsfähige Leistungsberechtigte umfassend und nachhaltig mit dem Ziel der Eingliederung in Arbeit und Überwindung der Hilfebedürftigkeit. Dies gilt sowohl für arbeitslose als auch für nicht arbeitslose erwerbsfähige Leistungsberechtigte.
 
-(2) Leistungsberechtigte Personen erhalten Beratung. Aufgabe der Beratung ist insbesondere die Erteilung von Auskunft und Rat zu Selbsthilfeobliegenheiten und Mitwirkungspflichten, zur Berechnung der Leistungen zur Sicherung des Lebensunterhalts und zur Auswahl der Leistungen im Rahmen des Eingliederungsprozesses. Art und Umfang der Beratung richten sich nach dem Beratungsbedarf der leistungsberechtigten Person. Beratungsleistungen, die Leistungsberechtigte nach den §§ 29 bis 33 des Dritten Buches von den für die Arbeitsförderung zuständigen Dienststellen der Bundesagentur für Arbeit erhalten, sollen dabei Berücksichtigung finden. Hierbei arbeiten die Träger der Leistungen nach diesem Buch mit den in Satz 4 genannten Dienststellen eng zusammen.
+(2) Leistungsberechtigte Personen erhalten Beratung. Im Rahmen der Beratung wird gemeinsam eine individuelle Strategie zur Erreichung der in Absatz 1 genannten Ziele erarbeitet und deren schrittweise Umsetzung begleitet. Aufgabe der Beratung ist darüber hinaus die Erteilung von Auskunft und Rat, insbesondere zur Berechnung der Leistungen zur Sicherung des Lebensunterhalts, zum Eingliederungsprozess und zu den Mitwirkungspflichten und Selbsthilfeobliegenheiten sowie dem Schlichtungsverfahren, zu den Leistungen der Eingliederung nach diesem Abschnitt sowie zur Möglichkeit der Inanspruchnahme von Leistungen anderer Träger. Art und Umfang der Beratung richten sich nach dem Beratungsbedarf der leistungsberechtigten Person. Beratungsleistungen, die Leistungsberechtigte nach den §§ 29 bis 33 des Dritten Buches von den für die Arbeitsförderung zuständigen Dienststellen der Bundesagentur für Arbeit erhalten, sollen dabei Berücksichtigung finden. Hierbei arbeiten die Träger der Leistungen nach diesem Buch mit den in Satz 4 genannten Dienststellen eng zusammen.
 
-(3) Die Agentur für Arbeit soll eine persönliche Ansprechpartnerin oder einen persönlichen Ansprechpartner für jede erwerbsfähige leistungsberechtigte Person und die mit dieser in einer Bedarfsgemeinschaft lebenden Personen benennen.
+(3) Die Agentur für Arbeit soll eine persönliche Ansprechpartnerin oder einen persönlichen Ansprechpartner für jede erwerbsfähige leistungsberechtigte Person und die mit dieser in einer Bedarfsgemeinschaft lebenden Personen benennen. Die Beratung kann aufsuchend und sozialraumorientiert erfolgen.
 
 (4) Die Träger der Leistungen nach diesem Buch erbringen unter Beachtung der Grundsätze von Wirtschaftlichkeit und Sparsamkeit alle im Einzelfall für die Eingliederung in Arbeit erforderlichen Leistungen.
 
-# § 15 – Eingliederungsvereinbarung
+# § 15 – Potenzialanalyse und Kooperationsplan
 
-(1) Die Agentur für Arbeit soll unverzüglich zusammen mit jeder erwerbsfähigen leistungsberechtigten Person die für die Eingliederung erforderlichen persönlichen Merkmale, berufliche Fähigkeiten und die Eignung feststellen (Potenzialanalyse). Die Feststellungen erstrecken sich auch darauf, ob und durch welche Umstände die berufliche Eingliederung voraussichtlich erschwert sein wird. Tatsachen, über die die Agentur für Arbeit nach § 9a Satz 2 Nummer 2 des Dritten Buches unterrichtet wird, müssen von ihr nicht erneut festgestellt werden, es sei denn, es liegen Anhaltspunkte dafür vor, dass sich eingliederungsrelevante Veränderungen ergeben haben.
+(1) Die Agentur für Arbeit soll unverzüglich zusammen mit jeder erwerbsfähigen leistungsberechtigten Person die für die Eingliederung in Ausbildung oder Arbeit erforderlichen persönlichen Merkmale, die beruflichen Fähigkeiten und die Eignung feststellen; diese Feststellungen erstrecken sich auch auf die individuellen Stärken sowie darauf, ob und durch welche Umstände die berufliche Eingliederung voraussichtlich erschwert sein wird (Potenzialanalyse). Tatsachen, über die die Agentur für Arbeit nach § 9a Satz 2 Nummer 2 des Dritten Buches unterrichtet wird, müssen nicht erneut festgestellt werden, es sei denn, es liegen Anhaltspunkte dafür vor, dass sich Umstände, die für die Eingliederung maßgebend sind, verändert haben.
 
-(2) Die Agentur für Arbeit soll im Einvernehmen mit dem kommunalen Träger mit jeder erwerbsfähigen leistungsberechtigten Person unter Berücksichtigung der Feststellungen nach Absatz 1 die für ihre Eingliederung erforderlichen Leistungen vereinbaren (Eingliederungsvereinbarung). In der Eingliederungsvereinbarung soll bestimmt werden,
+(2) Die Agentur für Arbeit soll im Einvernehmen mit dem kommunalen Träger unverzüglich nach der Potenzialanalyse mit jeder erwerbsfähigen leistungsberechtigten Person unter Berücksichtigung der Feststellungen nach Absatz 1 gemeinsam einen Plan zur Verbesserung der Teilhabe (Kooperationsplan) erstellen. In diesem werden das Eingliederungsziel und die wesentlichen Schritte zur Eingliederung festgehalten, insbesondere soll festgelegt werden,
 
-1. welche Leistungen zur Eingliederung in Ausbildung oder Arbeit nach diesem Abschnitt die leistungsberechtigte Person erhält,
+1. welche Leistungen zur Eingliederung in Ausbildung oder Arbeit nach diesem Abschnitt in Betracht kommen,
 
-2. welche Bemühungen erwerbsfähige Leistungsberechtigte in welcher Häufigkeit zur Eingliederung in Arbeit mindestens unternehmen sollen und in welcher Form diese Bemühungen nachzuweisen sind,
+2. welche für eine erfolgreiche Überwindung von Hilfebedürftigkeit, vor allem durch Eingliederung in Ausbildung oder Arbeit, erforderlichen Eigenbemühungen erwerbsfähige Leistungsberechtigte mindestens unternehmen und nachweisen,
 
-3. wie Leistungen anderer Leistungsträger in den Eingliederungsprozess einbezogen werden.
+3. eine vorgesehene Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes oder an einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes,
 
-Die Eingliederungsvereinbarung kann insbesondere bestimmen, in welche Tätigkeiten oder Tätigkeitsbereiche die leistungsberechtigte Person vermittelt werden soll.
+4. wie Leistungen anderer Leistungsträger in den Eingliederungsprozess einbezogen werden,
 
-(3) Die Eingliederungsvereinbarung soll regelmäßig, spätestens jedoch nach Ablauf von sechs Monaten, gemeinsam überprüft und fortgeschrieben werden. Bei jeder folgenden Eingliederungsvereinbarung sind die bisher gewonnenen Erfahrungen zu berücksichtigen. Soweit eine Vereinbarung nach Absatz 2 nicht zustande kommt, sollen die Regelungen durch Verwaltungsakt getroffen werden.
+5. in welche Ausbildung, Tätigkeiten oder Tätigkeitsbereiche die erwerbsfähige leistungsberechtigte Person vermittelt werden soll und
 
-(4) In der Eingliederungsvereinbarung kann auch vereinbart werden, welche Leistungen die Personen erhalten, die mit der oder dem erwerbsfähigen Leistungsberechtigten in einer Bedarfsgemeinschaft leben. Diese Personen sind hierbei zu beteiligen.
+6. ob ein möglicher Bedarf für Leistungen zur beruflichen oder medizinischen Rehabilitation mit dem Ziel einer entsprechenden Antragstellung in Betracht kommt.
 
-# § 15a – (weggefallen)
+Im Kooperationsplan kann auch festgehalten werden,
+
+1. welche Maßnahmen und Leistungen der aktiven Arbeitsförderung im Hinblick auf mögliche gesundheitliche Beeinträchtigungen, die einer Integration in den Arbeitsmarkt entgegenstehen, in Betracht kommen und welche anderen Leistungsträger im Hinblick auf diese Beeinträchtigungen voraussichtlich zu beteiligen sind und
+
+2. welche Leistungen nach diesem Abschnitt für Personen in Betracht kommen, die mit der oder dem erwerbsfähigen Leistungsberechtigten in einer Bedarfsgemeinschaft leben, um Hemmnisse der erwerbsfähigen leistungsberechtigten Person zu beseitigen oder zu verringern; diese Personen sind hierbei zu beteiligen.
+
+(3) Die erwerbsfähige leistungsberechtigte Person erhält den Kooperationsplan in Textform. Der Kooperationsplan soll spätestens nach Ablauf von jeweils sechs Monaten gemeinsam aktualisiert und fortgeschrieben werden.
+
+(4) Die erste Einladung zum Gespräch zur Erstellung der Potenzialanalyse und des Kooperationsplans erfolgt ohne Belehrung über die Rechtsfolgen bei Nichtteilnahme.
+
+(5) Die Agentur für Arbeit überprüft regelmäßig, ob die erwerbsfähige leistungsberechtigte Person die im Kooperationsplan festgehaltenen Absprachen einhält. Aufforderungen hierzu erfolgen grundsätzlich mit Rechtsfolgenbelehrung, insbesondere bei Maßnahmen gemäß §§ 16, 16d ist eine Rechtsfolgenbelehrung vorzusehen.
+
+(6) Wenn ein Kooperationsplan nicht zustande kommt oder nicht fortgeschrieben werden kann, erfolgen Aufforderungen zu erforderlichen Mitwirkungshandlungen mit Rechtsfolgenbelehrung.
+
+# § 15a – Schlichtungsverfahren
+
+(1) Ist die Erstellung oder die Fortschreibung eines Kooperationsplans aufgrund von Meinungsverschiedenheiten zwischen Agentur für Arbeit oder kommunalem Träger und leistungsberechtigter Person nicht möglich, so soll auf Verlangen einer oder beider Seiten ein Schlichtungsverfahren eingeleitet werden. Die Agentur für Arbeit schafft im Einvernehmen mit dem kommunalen Träger die Voraussetzungen für einen Schlichtungsmechanismus unter Hinzuziehung einer bisher unbeteiligten und insofern nicht weisungsgebundenen Person innerhalb oder außerhalb der Dienststelle. Das nähere Verfahren entsprechend § 44c Absatz 2 Satz 2 Nummer 2 legt die Trägerversammlung fest.
+
+(2) In dem Schlichtungsverfahren soll ein gemeinsamer Lösungsvorschlag entwickelt werden. Diesen gemeinsamen Lösungsvorschlag haben die Agentur für Arbeit und der kommunale Träger zu berücksichtigen.
+
+(3) Während des Schlichtungsverfahrens führt die Verletzung von Pflichten nach § 31 nicht zu Leistungsverminderungen nach § 31a.
+
+(4) Das Schlichtungsverfahren endet durch eine Einigung oder spätestens mit Ablauf von vier Wochen ab Beginn.
 
 # § 16 – Leistungen zur Eingliederung
 
@@ -726,6 +777,8 @@ Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit Behinde
 2. die Eignung und persönlichen Verhältnisse der erwerbsfähigen Leistungsberechtigten dies erfordern.
 
 § 176 Absatz 2 des Dritten Buches findet keine Anwendung.
+
+(3b) Abweichend von § 87a Absatz 2 des Dritten Buches erhalten erwerbsfähige Leistungsberechtigte auch im Rahmen eines bestehenden Arbeitsverhältnisses ein Weiterbildungsgeld, sofern sie die sonstigen Voraussetzungen nach § 87a Absatz 1 des Dritten Buches erfüllen.
 
 (4) Die Agentur für Arbeit als Träger der Grundsicherung für Arbeitsuchende kann die Ausbildungsvermittlung durch die für die Arbeitsförderung zuständigen Stellen der Bundesagentur wahrnehmen lassen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über die Höhe, Möglichkeiten der Pauschalierung und den Zeitpunkt der Fälligkeit der Erstattung von Aufwendungen bei der Ausführung des Auftrags nach Satz 1 festzulegen.
 
@@ -803,7 +856,7 @@ bei denen in angemessener Zeit von in der Regel sechs Monaten nicht mit Aussicht
 
 (1) Entfällt die Hilfebedürftigkeit der oder des Erwerbsfähigen während einer Maßnahme zur Eingliederung, kann sie weiter gefördert werden, wenn dies wirtschaftlich erscheint und die oder der Erwerbsfähige die Maßnahme voraussichtlich erfolgreich abschließen wird.
 
-(2) Zur nachhaltigen Eingliederung in Arbeit können Leistungen nach dem Ersten Abschnitt des Dritten Kapitels, nach § 44 oder § 45 Absatz 1 Satz 1 Nummer 5 des Dritten Buches oder nach § 16a oder § 16f bis zu sechs Monate nach Beschäftigungsaufnahme auch erbracht werden, wenn die Hilfebedürftigkeit der oder des Erwerbsfähigen aufgrund des zu berücksichtigenden Einkommens entfallen ist. Während der Förderdauer nach Satz 1 gilt § 15 entsprechend.
+(2) Zur nachhaltigen Eingliederung in Arbeit können Leistungen nach dem Ersten Abschnitt des Dritten Kapitels, nach § 44 oder § 45 Absatz 1 Satz 1 Nummer 5 des Dritten Buches oder nach § 16a, § 16f oder § 16k bis zu sechs Monate nach Beschäftigungsaufnahme auch erbracht werden, wenn die Hilfebedürftigkeit der oder des Erwerbsfähigen aufgrund des zu berücksichtigenden Einkommens entfallen ist. Während der Förderdauer nach Satz 1 gilt § 15 entsprechend.
 
 (3) Leistungen zur ganzheitlichen beschäftigungsbegleitenden Betreuung nach § 16e Absatz 4 und § 16i Absatz 4 dieses Buches können während der gesamten Dauer der jeweiligen Förderung auch erbracht werden, wenn die Hilfebedürftigkeit entfällt.
 
@@ -870,6 +923,26 @@ In der Regel soll die erwerbsfähige leistungsberechtigte Person bereits für ei
 (9) Zu den Einsatzfeldern der nach Absatz 1 geförderten Arbeitsverhältnisse hat die Agentur für Arbeit jährlich eine Stellungnahme der Vertreterinnen und Vertreter der Sozialpartner im Örtlichen Beirat, insbesondere zu möglichen Wettbewerbsverzerrungen sowie Verdrängungseffekten, einzuholen. Die Stellungnahme muss einvernehmlich erfolgen. Eine von der Stellungnahme abweichende Festlegung der Einsatzfelder hat die Agentur für Arbeit schriftlich zu begründen. § 18d Satz 2 gilt entsprechend.
 
 (10) Abweichend von Absatz 3 Nummer 2 und 3 kann eine erwerbsfähige leistungsberechtigte Person auch dann einem Arbeitgeber zugewiesen werden, wenn sie seit dem 1. Januar 2015 für mehr als sechs Monate in einem Arbeitsverhältnis beschäftigt war, das durch einen Zuschuss nach § 16e in der bis zum 31. Dezember 2018 geltenden Fassung oder im Rahmen des Bundesprogramms „Soziale Teilhabe am Arbeitsmarkt“ gefördert wurde, und sie dieses Arbeitsverhältnis nicht selbst gekündigt hat. Zeiten eines nach § 16e in der bis zum 31. Dezember 2018 geltenden Fassung oder nach dem Bundesprogramm „Soziale Teilhabe am Arbeitsmarkt“ geförderten Arbeitsverhältnisses werden bei der Ermittlung der Förderdauer und Förderhöhe nach Absatz 2 Satz 1 berücksichtigt und auf die Förderdauer nach Absatz 3 Nummer 4 angerechnet.
+
+# § 16j – Bürgergeldbonus
+
+Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75 Euro für jeden Monat der Teilnahme an einer der folgenden Maßnahmen:
+
+1. Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 4 des Neunten Buches mit einer Mindestdauer von acht Wochen, für die kein Weiterbildungsgeld nach § 87a Absatz 2 des Dritten Buches gezahlt wird,
+
+2. berufsvorbereitende Bildungsmaßnahmen nach § 51 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 2 des Neunten Buches, Maßnahmen in der Vorphase der Assistierten Ausbildung nach § 75a des Dritten Buches in Verbindung mit § 16 Absatz 1 Satz 2 Nummer 3,
+
+3. Maßnahmen zur Förderung schwer zu erreichender junger Menschen nach § 16h Absatz 1.
+
+# § 16k – Ganzheitliche Betreuung
+
+(1) Zum Aufbau der Beschäftigungsfähigkeit von erwerbsfähigen Leistungsberechtigten kann die Agentur für Arbeit oder ein durch diese beauftragter Dritter eine erforderliche ganzheitliche und gegebenenfalls aufsuchende Betreuung erbringen. Die Agentur für Arbeit kann auch Rahmenverträge nutzen und einen Gutschein ausgeben. § 45 Absatz 1 Satz 4, Absatz 2 Satz 1, Absatz 4 Satz 1, 2, 3 Nummer 1, Absatz 5 und 6 Satz 1 und 2 des Dritten Buches gilt entsprechend.
+
+(2) Eine ganzheitliche Betreuung kann für junge Menschen auch zur Heranführung an eine oder zur Begleitung während einer Ausbildung erfolgen. Sofern keine an die Ausbildung unmittelbar anschließende Beschäftigungsaufnahme erfolgt, kann die ganzheitliche Betreuung bis zu zwölf Monate nach Ende der Ausbildung fortgeführt werden.
+
+(3) § 16g gilt mit der Maßgabe, dass der Zeitraum des Absatzes 2 Satz 1 um weitere drei Monate überschritten werden kann, soweit und solange dies im Einzelfall erforderlich ist.
+
+(4) § 31 Absatz 1 Satz 1 Nummer 3 findet keine Anwendung.
 
 # § 17 – Einrichtungen und Dienste für Leistungen zur Eingliederung
 
@@ -1165,7 +1238,7 @@ Leistungen für diese Bedarfe werden gesondert erbracht. Leistungen nach Satz 2 
 
 # § 25 – Leistungen bei medizinischer Rehabilitation der Rentenversicherung und bei Anspruch auf Verletztengeld aus der Unfallversicherung
 
-Haben Leistungsberechtigte dem Grunde nach Anspruch auf Übergangsgeld bei medizinischen Leistungen der gesetzlichen Rentenversicherung in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1, erbringen die Träger der Leistungen nach diesem Buch die bisherigen Leistungen als Vorschuss auf die Leistungen der Rentenversicherung weiter; dies gilt entsprechend bei einem Anspruch auf Verletztengeld aus der gesetzlichen Unfallversicherung. Werden Vorschüsse länger als einen Monat geleistet, erhalten die Träger der Leistungen nach diesem Buch von den zur Leistung verpflichteten Trägern monatliche Abschlagszahlungen in Höhe der Vorschüsse des jeweils abgelaufenen Monats. § 102 des Zehnten Buches gilt entsprechend.
+Haben Leistungsberechtigte dem Grunde nach Anspruch auf Verletztengeld der gesetzlichen Unfallversicherung, erbringen die Träger der Leistungen nach diesem Buch die bisherigen Leistungen als Vorschuss auf die Leistungen der gesetzlichen Unfallversicherung weiter. Werden Vorschüsse länger als einen Monat geleistet, erhalten die Träger der Leistungen nach diesem Buch von den zur Leistung verpflichteten Trägern monatliche Abschlagszahlungen in Höhe der Vorschüsse des jeweils abgelaufenen Monats. § 102 des Zehnten Buches gilt entsprechend.
 
 # § 26 – Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
 
@@ -1190,6 +1263,8 @@ allein durch die Zahlung des Beitrags hilfebedürftig würden, wird ein Zuschuss
 allein durch die Zahlung des Beitrags hilfebedürftig würden, wird ein Zuschuss zum Beitrag in Höhe des Betrages geleistet, der notwendig ist, um die Hilfebedürftigkeit zu vermeiden. In den Fällen des Satzes 1 Nummer 2 gilt die Begrenzung des Zuschusses nach Absatz 3 Satz 1 zweiter Halbsatz entsprechend.
 
 (5) Der Zuschuss nach Absatz 1 Satz 1, nach Absatz 2 Satz 1 Nummer 2, nach Absatz 3 Satz 1 und nach Absatz 4 Satz 1 Nummer 2 ist an das private Versicherungsunternehmen zu zahlen, bei dem die leistungsberechtigte Person versichert ist. Der Zuschuss nach Absatz 1 Satz 2 und Absatz 3 Satz 2 ist an die Krankenkasse zu zahlen, bei der die leistungsberechtigte Person versichert ist.
+
+(6) Für Bezieherinnen und Bezieher von Bürgergeld, die Mitglied in einer in § 176 Absatz 1 des Fünften Buches genannten Solidargemeinschaft sind, gelten die Absätze 1 und 2 Satz 1 Nummer 2 und Satz 2 entsprechend. Für Bezieherinnen und Bezieher von Bürgergeld, die nach § 21a Absatz 1 Satz 1 des Elften Buches in der sozialen Pflegeversicherung versicherungspflichtig sind, wird für die Dauer des Leistungsbezugs ein Zuschuss in Höhe des Beitrags geleistet, soweit dieser nicht nach § 11b Absatz 1 Satz 1 Nummer 2 abgesetzt wird.
 
 # § 27 – Leistungen für Auszubildende
 
@@ -1283,7 +1358,7 @@ War es dem Leistungsberechtigten nicht möglich, rechtzeitig einen Antrag zu ste
 
 (1) Erwerbsfähige Leistungsberechtigte verletzen ihre Pflichten, wenn sie trotz schriftlicher Belehrung über die Rechtsfolgen oder deren Kenntnis
 
-1. sich weigern, in der Eingliederungsvereinbarung oder in dem diese ersetzenden Verwaltungsakt nach § 15 Absatz 3 Satz 3 festgelegte Pflichten zu erfüllen, insbesondere in ausreichendem Umfang Eigenbemühungen nachzuweisen,
+1. sich weigern, einer Aufforderung gemäß § 15 Absatz 5 oder Absatz 6 nachzukommen,
 
 2. sich weigern, eine zumutbare Arbeit, Ausbildung oder ein nach § 16e gefördertes Arbeitsverhältnis aufzunehmen, fortzuführen oder deren Anbahnung durch ihr Verhalten verhindern,
 
@@ -1547,7 +1622,7 @@ Absatz 2 Satz 1, Absatz 3 Satz 2 bis 4 sowie Absatz 6 gelten entsprechend.
 
 (1) Darlehen werden nur erbracht, wenn ein Bedarf weder durch Vermögen nach § 12 Absatz 2 und 4 Satz 1 noch auf andere Weise gedeckt werden kann. Darlehen können an einzelne Mitglieder von Bedarfsgemeinschaften oder an mehrere gemeinsam vergeben werden. Die Rückzahlungsverpflichtung trifft die Darlehensnehmer.
 
-(2) Solange Darlehensnehmer Leistungen zur Sicherung des Lebensunterhalts beziehen, werden Rückzahlungsansprüche aus Darlehen ab dem Monat, der auf die Auszahlung folgt, durch monatliche Aufrechnung in Höhe von 10 Prozent des maßgebenden Regelbedarfs getilgt. § 43 Absatz 3 gilt entsprechend. Die Aufrechnung ist gegenüber den Darlehensnehmern schriftlich durch Verwaltungsakt zu erklären. Satz 1 gilt nicht, soweit Leistungen zur Sicherung des Lebensunterhalts als Darlehen erbracht werden oder soweit bereits gemäß § 43 in Höhe von mehr als 20 Prozent des für die Darlehensnehmer maßgebenden Regelbedarfs gegen deren Ansprüche auf Geldleistungen zur Sicherung des Lebensunterhalts aufgerechnet wird.
+(2) Solange Darlehensnehmer Leistungen zur Sicherung des Lebensunterhalts beziehen, werden Rückzahlungsansprüche aus Darlehen ab dem Monat, der auf die Auszahlung folgt, durch monatliche Aufrechnung in Höhe von 5 Prozent des maßgebenden Regelbedarfs getilgt. § 43 Absatz 3 gilt entsprechend. Die Aufrechnung ist gegenüber den Darlehensnehmern schriftlich durch Verwaltungsakt zu erklären. Satz 1 gilt nicht, soweit Leistungen zur Sicherung des Lebensunterhalts als Darlehen erbracht werden oder soweit bereits gemäß § 43 in Höhe von mehr als 20 Prozent des für die Darlehensnehmer maßgebenden Regelbedarfs gegen deren Ansprüche auf Geldleistungen zur Sicherung des Lebensunterhalts aufgerechnet wird.
 
 (3) Rückzahlungsansprüche aus Darlehen nach § 24 Absatz 5 sind nach erfolgter Verwertung sofort in voller Höhe und Rückzahlungsansprüche aus Darlehen nach § 22 Absatz 6 bei Rückzahlung durch den Vermieter sofort in Höhe des noch nicht getilgten Darlehensbetrages fällig. Deckt der erlangte Betrag den noch nicht getilgten Darlehensbetrag nicht, soll eine Vereinbarung über die Rückzahlung des ausstehenden Betrags unter Berücksichtigung der wirtschaftlichen Verhältnisse der Darlehensnehmer getroffen werden.
 
@@ -1991,7 +2066,7 @@ soweit dies zur Bekämpfung von Leistungsmissbrauch erforderlich ist.
 
 # § 56 – Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
 
-(1) Die Agentur für Arbeit soll erwerbsfähige Leistungsberechtigte, die Leistungen zur Sicherung des Lebensunterhalts beantragt haben oder beziehen, in der Eingliederungsvereinbarung oder in dem diese ersetzenden Verwaltungsakt nach § 15 Absatz 3 Satz 3 verpflichten,
+(1) Erwerbsfähige Leistungsberechtigte, die Leistungen zur Sicherung des Lebensunterhalts beantragt haben oder beziehen, sind verpflichtet,
 
 1. eine eingetretene Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich anzuzeigen und
 

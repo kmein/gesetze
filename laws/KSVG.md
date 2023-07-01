@@ -167,7 +167,7 @@ Der Versicherte hat an die Künstlersozialkasse als Beitragsanteil zur gesetzlic
 
 # § 16a
 
-(1) Versicherte haben an die Künstlersozialkasse als Beitragsanteil zur sozialen Pflegeversicherung für den Kalendermonat die Hälfte des sich aus § 55 Abs. 1 und 2 und § 57 Abs. 1 des Elften Buches Sozialgesetzbuch ergebenden Beitrages zu zahlen. Der Beitragsanteil erhöht sich um den Beitragszuschlag, der sich aus § 55 Abs. 3 des Elften Buches Sozialgesetzbuch ergibt. Der Beitragsanteil für einen Kalendermonat wird am Fünften des Folgemonats fällig.
+(1) Versicherte haben an die Künstlersozialkasse als Beitragsanteil zur sozialen Pflegeversicherung für den Kalendermonat die Hälfte des sich aus § 55 Abs. 1 und 2 und § 57 Abs. 1 des Elften Buches Sozialgesetzbuch ergebenden Beitrages zu zahlen. Der Beitragsanteil erhöht oder reduziert sich entsprechend der Beträge, die sich aus § 55 Absatz 3 des Elften Buches Sozialgesetzbuch ergeben. Der Beitragsanteil für einen Kalendermonat wird am Fünften des Folgemonats fällig.
 
 (2) § 16 Abs. 2 gilt entsprechend.
 

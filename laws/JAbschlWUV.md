@@ -1,138 +1,235 @@
-% Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
-% Ausfertigungsdatum: 22.09.1970
+% Verordnung über die Gliederung des Jahresabschlusses von Wohnungsunternehmen  (JAbschlWUV)
+% Ausfertigungsdatum: 14.06.2023
  
 # Eingangsformel
 
-Auf Grund der §§ 161 und 278 Abs. 3 des Aktiengesetzes sowie des § 33g des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird im Einvernehmen mit dem Bundesminister für Wirtschaft und dem Bundesminister für Städtebau und Wohnungswesen verordnet:
+Auf Grund des § 330 Absatz 1 Satz 1 des Handelsgesetzbuchs, der zuletzt durch Artikel 190 Nummer 5 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, auch in Verbindung mit § 264a Absatz 1 des Handelsgesetzbuchs, der durch Artikel 1 Nummer 4 des Gesetzes vom 24. Februar 2000 (BGBl. I S. 154) eingefügt worden ist, und § 336 Absatz 3 des Handelsgesetzbuchs, der durch Artikel 1 Nummer 5 des Gesetzes vom 30. November 1990 (BGBl. I S. 2570) geändert worden ist, sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium der Justiz, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz:
 
-# § 1
+# § 1 – Begriffsbestimmungen
 
-(1) Wohnungsunternehmen, die Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung oder eingetragene Genossenschaften sind, haben die Bilanz abweichend von § 266 Abs. 2, 3, § 336 Abs. 2 Satz 1 des Handelsgesetzbuchs nach dem anliegenden Formblatt (Muster) aufzustellen. Sie haben abweichend von § 275 Abs. 2, 3 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren den Posten 1 wie folgt aufzugliedern:
+Im Sinne dieser Verordnung sind
 
-1. Umsatzerlöse
+1. Wohnungsunternehmen: Unternehmen, die
 
-a) aus der Hausbewirtschaftung
+a) in der Rechtsform einer Aktiengesellschaft, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschränkter Haftung, Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 des Handelsgesetzbuchs oder eingetragenen Genossenschaft betrieben werden, und
+
+b) sich nach dem in ihrer Satzung oder ihrem Gesellschaftsvertrag festgesetzten Gegenstand oder nach ihrer überwiegenden tatsächlichen Geschäftstätigkeit mit dem Bau oder der Bewirtschaftung von Wohnungen im eigenen Namen befassen, Wohnungsbauten betreuen oder Eigenheime oder Eigentumswohnungen errichten und veräußern;
+
+2. mittelgroße Wohnungsunternehmen: Wohnungsunternehmen, die die Voraussetzungen des § 267 Absatz 2 und 4 des Handelsgesetzbuchs, auch in Verbindung mit § 264a Absatz 1 oder § 336 Absatz 2 Satz 1 Nummer 2 des Handelsgesetzbuchs, erfüllen;
+
+3. kleine Wohnungsunternehmen: Wohnungsunternehmen, die die Voraussetzungen des § 267 Absatz 1 und 4 des Handelsgesetzbuchs, auch in Verbindung mit § 264a Absatz 1 oder § 336 Absatz 2 Satz 1 Nummer 2 des Handelsgesetzbuchs, erfüllen;
+
+4. Kleinstwohnungsunternehmen: kleine Wohnungsunternehmen, die die Voraussetzungen des § 267a Absatz 1 und 3 des Handelsgesetzbuchs, auch in Verbindung mit § 264a Absatz 1 oder § 336 Absatz 2 Satz 1 Nummer 2 des Handelsgesetzbuchs, erfüllen.
+
+# § 2 – Gliederung der Bilanz
+
+(1) Wohnungsunternehmen haben abweichend von § 266 Absatz 2 und 3 des Handelsgesetzbuchs die Bilanz nach dem anliegenden Formblatt nach Maßgabe der Absätze 2 und 3 aufzustellen.
+
+(2) Unfertige Bauleistungen auf fremdem Grund und Boden sind in der Bilanz auf der Aktivseite unter dem Posten „B. I. 5. unfertige Leistungen“ auszuweisen. Unter diesem Posten sind auch noch nicht abgerechnete Betriebskosten auszuweisen; der Betrag dieser Kosten ist gesondert auszuweisen oder im Anhang anzugeben. Forderungen aus fertigen Bauleistungen auf fremdem Grund und Boden sind in der Bilanz auf der Aktivseite unter dem Posten „B. II. 4. Forderungen aus anderen Lieferungen und Leistungen“ auszuweisen.
+
+(3) Wohnungsunternehmen mit Spareinrichtung haben in der Bilanz auf der Passivseite unter „C. Verbindlichkeiten“ nach dem Posten 3 die Posten „4. Spareinlagen“ und „5. Verbindlichkeiten aus Sparbriefen“ gesondert auszuweisen. Die nachfolgenden Posten 4 bis 9 werden Posten 6 bis 11.
+
+(4) Kleine Wohnungsunternehmen dürfen eine verkürzte Bilanz aufstellen, in die nur die in dem anliegenden Formblatt mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Kleinstwohnungsunternehmen dürfen eine verkürzte Bilanz aufstellen, in die nur die in dem anliegenden Formblatt mit Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Die größenabhängigen Erleichterungen in § 274a des Handelsgesetzbuchs bleiben unberührt.
+
+# § 3 – Gliederung der Gewinn- und Verlustrechnung
+
+(1) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 und 3 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren den Posten 1 wie folgt auszuweisen:
+
+"1. Umsatzerlöse
+
+a) aus Bewirtschaftungstätigkeit
 
 b) aus Verkauf von Grundstücken
 
-c) aus Betreuungsfähigkeit
+c) aus Betreuungstätigkeit
 
-d) aus anderen Lieferungen und Leistungen;
+d) aus anderen Lieferungen und Leistungen".
 
-ferner haben sie bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren die Posten 2 und 5 durch folgende Posten 2 und 5 zu ersetzen:
+  
+Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn die Unterposten Nummer 1  
+Buchstabe a bis d im Anhang gesondert angegeben werden.
 
-2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen
+(2) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren die Posten 2 und 5 wie folgt auszuweisen:
 
-5. Aufwendungen für bezogene Lieferungen und Leistungen
+"2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen",
 
-a) Aufwendungen für Hausbewirtschaftung
+<!-- -->
+
+"5. Aufwendungen für bezogene Lieferungen und Leistungen
+
+a) Aufwendungen für Bewirtschaftungstätigkeit
 
 b) Aufwendungen für Verkaufsgrundstücke
 
-c) Aufwendungen für andere Lieferungen und Leistungen.
+c) Aufwendungen für Betreuungstätigkeit
 
-(2) Auf kleine Wohnungsunternehmen (§ 267 Abs. 1 des Handelsgesetzbuchs) ist § 266 Abs. 1 Satz 3 des Handelsgesetzbuchs entsprechend anzuwenden.
+d) Aufwendungen für andere Lieferungen und Leistungen".
 
-(3) Eine Aktiengesellschaft, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschränkter Haftung oder eingetragene Genossenschaft ist ein Wohnungsunternehmen im Sinne dieser Vorschriften, wenn sie nach dem in ihrer Satzung (Statut) festgesetzten Gegenstand des Unternehmens sich mit dem Bau von Wohnungen im eigenen Namen befaßt, Wohnungsbauten betreut oder Eigenheime, Kleinsiedlungen und Eigentumswohnungen im Sinne des Teil 1 des Wohnungseigentumsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-1, veröffentlichten bereinigten Fassung errichtet und veräußert.
+(3) Kleine Wohnungsunternehmen brauchen Absatz 1 nicht anzuwenden. Die größenabhängigen Erleichterungen in § 275 Absatz 5 und § 276 des Handelsgesetzbuchs bleiben unberührt.
 
-# § 2
+# § 4 – Gliederung des Jahresabschlusses bei der Offenlegung
 
-(1) § 265 Abs. 7 Nr. 1 des Handelsgesetzbuchs darf angewendet werden.
+Abweichend von § 327 Nummer 1 des Handelsgesetzbuchs ist § 325 Absatz 1 des Handelsgesetzbuchs auf mittelgroße Wohnungsunternehmen mit der Maßgabe anzuwenden, dass die Bilanz nur in der für kleine Wohnungsunternehmen nach § 2 Absatz 4 Satz 1 vorgeschriebenen Form der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister übermittelt werden muss. In der Bilanz oder im Anhang sind jedoch die folgenden Posten des Formblatts zusätzlich gesondert anzugeben:
 
-(2) Unfertige Bauleistungen auf fremdem Grund und Boden sind in der Bilanz auf der Aktivseite unter dem Posten "B.I.5. unfertige Leistungen" auszuweisen. Unter diesem Posten sind auch noch nicht abgerechnete Betriebskosten auszuweisen; der Betrag dieser Kosten ist gesondert auszuweisen oder im Anhang anzugeben, wenn sie einen nicht unerheblichen Umfang haben. Wohnungsunternehmen, die kleine Kapitalgesellschaften im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs sind, haben diese Kosten gesondert in der Bilanz auszuweisen, wenn sie von dem Wahlrecht nach § 1 Absatz 2 keinen Gebrauch machen. Forderungen aus fertigen Bauleistungen auf fremdem Grund und Boden sind in der Bilanz auf der Aktivseite unter dem Posten "B.II.4. Forderungen aus anderen Lieferungen und Leistungen" auszuweisen.
-
-(3) Wohnungsunternehmen mit Spareinrichtung haben in der Bilanz auf der Passivseite unter "C. Verbindlichkeiten" nach dem Posten 3 die Posten "4. Spareinlagen" und "5. Verbindlichkeiten aus Sparbriefen" gesondert auszuweisen. Die nachfolgenden Posten 4 bis 9 werden Posten 6 bis 11.
-
-(4) In der Gewinn- und Verlustrechnung können in der Nummer 1 die Umsatzerlöse zusammengefaßt ausgewiesen werden; in diesem Falle müssen, soweit nicht § 276 des Handelsgesetzbuchs angewendet wird, die Unterposten Nummer 1 Buchstabe a bis d im Anhang gesondert ausgewiesen werden. Wohnungsunternehmen, die kleine Kapitalgesellschaften im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs sind, brauchen Satz 1 zweiter Halbsatz nicht anzuwenden.
-
-(+++ § 2: Zur Anwendung vgl. § 3 +++)
-
-# § 2a
-
-Abweichend von § 327 Nr. 1 des Handelsgesetzbuchs ist § 325 Abs. 1 des Handelsgesetzbuchs auf mittelgroße Wohnungsunternehmen mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter die Bilanz nur in der für kleine Wohnungsunternehmen nach § 1 Abs. 2 vorgeschriebenen Form der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister übermitteln müssen. In der Bilanz oder im Anhang sind jedoch die folgenden Posten des Formblatts zusätzlich gesondert anzugeben:  
-  
 Auf der Aktivseite
 
-  
-  
-A. II. 1. Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
+ 
 
-A. II. 2. Grundstücke und grundstücksgleiche Rechte mit Geschäfts- und anderen Bauten
+ 
 
-A. II. 3. Grundstücke und grundstücksgleiche Rechte ohne Bauten
+A II 1
 
-A. II. 4. Grundstücke mit Erbbaurechten Dritter
+Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
 
-A. II. 5. Bauten auf fremden Grundstücken
+ 
 
-A. II. 6. technische Anlagen und Maschinen
+A II 2
 
-A. II. 7. andere Anlagen, Betriebs- und Geschäftsausstattung
+Grundstücke und grundstücksgleiche Rechte mit Geschäfts- und anderen Bauten
 
-A. II. 8. Anlagen im Bau
+ 
 
-A. II. 9. Bauvorbereitungskosten
+A II 3
 
-A. II. 10. geleistete Anzahlungen
+Grundstücke und grundstücksgleiche Rechte ohne Bauten
 
-A. III. 1. Anteile an verbundenen Unternehmen
+ 
 
-A. III. 2. Ausleihungen an verbundene Unternehmen
+A II 4
 
-A. III. 3. Beteiligungen
+Grundstücke mit Erbbaurechten Dritter
 
-A. III. 4. Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+ 
 
-B. II. 5. Forderungen gegen verbundene Unternehmen
+A II 5
 
-B. II. 6. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+Bauten auf fremden Grundstücken
 
-B. III. Anteile an verbundenen Unternehmen
+ 
+
+A II 6
+
+technische Anlagen und Maschinen
+
+ 
+
+A II 7
+
+andere Anlagen, Betriebs- und Geschäftsausstattung
+
+ 
+
+A II 8
+
+Anlagen im Bau
+
+ 
+
+A II 9
+
+Bauvorbereitungskosten
+
+ 
+
+A II 10
+
+geleistete Anzahlungen
+
+ 
+
+A III 1
+
+Anteile an verbundenen Unternehmen
+
+ 
+
+A III 2
+
+Ausleihungen an verbundene Unternehmen
+
+ 
+
+A III 3
+
+Beteiligungen
+
+ 
+
+A III 4
+
+Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+
+ 
+
+B II 5
+
+Forderungen gegen verbundene Unternehmen
+
+ 
+
+B II 6
+
+Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+
+ 
+
+B III 1
+
+Anteile an verbundenen Unternehmen
 
 Auf der Passivseite
 
-  
-  
-C. 1. Anleihen
+ 
+
+ 
+
+C 1
+
+Anleihen
+
+ 
+
+ 
 
 davon konvertibel
 
-C. 2. Verbindlichkeiten gegenüber Kreditinstituten
+ 
 
-C. 7. Verbindlichkeiten gegenüber verbundenen Unternehmen
+C 2
 
-C. 8. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht.
+Verbindlichkeiten gegenüber Kreditinstituten
 
-# § 2b
+ 
 
-Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Wohnungsunternehmens, das Aktiengesellschaft, Kommanditgesellschaft auf Aktien oder Gesellschaft mit beschränkter Haftung ist, den Vorschriften des § 1 Abs. 1 oder des § 2 Abs. 2, 3 oder 4, jeweils in Verbindung mit dem anliegenden Formblatt, über Gliederung, Form oder Inhalt des Jahresabschlusses oder im Anhang zu machende Angaben zuwiderhandelt.
+C 7
 
-# § 3
+Verbindlichkeiten gegenüber verbundenen Unternehmen
 
-§ 2 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ist erstmals auf Jahresabschlüsse für ein Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt. Auf Jahresabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2016 beginnen, bleibt § 2 in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
+ 
 
-# § 4
+C 8
 
-§ 2a Satz 1 in der ab dem 1. August 2022 geltenden Fassung ist erstmals auf Rechnungslegungsunterlagen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 2a Satz 1 in der bis einschließlich 31. Juli 2022 geltenden Fassung ist letztmals anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht.
 
-# § 5
+# § 5 – Ordnungswidrigkeiten
 
-(weggefallen)
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer
 
-# § 6
+1. entgegen § 2 Absatz 1 eine Bilanz nicht richtig aufstellt oder
 
-Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
+2. entgegen § 3 Absatz 1 Satz 1 oder Absatz 2 einen dort genannten Posten nicht richtig ausweist.
 
-# Schlußformel
+# § 6 – Übergangsvorschrift
 
-Der Bundesminister der Justiz
+Diese Verordnung ist erstmals auf Jahresabschlüsse für ein Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2023 beginnt. Auf Jahresabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2024 beginnen, bleibt die Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen vom 22. September 1970 (BGBl. I S. 1334), die zuletzt durch Artikel 23 des Gesetzes vom 5. Juli 2021 (BGBl. I S. 3338) geändert worden ist, in der bis einschließlich 30. Juni 2023 geltenden Fassung weiter anwendbar.
 
-# Anlage – Formblatt(Muster)
+# § 7 – Inkrafttreten, Außerkrafttreten
 
-(Fundstelle: BGBl. I 1987, 772;  
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+Diese Verordnung tritt am 1. Juli 2023 in Kraft. Gleichzeitig tritt die Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen vom 22. September 1970 (BGBl. I S. 1334), die zuletzt durch Artikel 23 des Gesetzes vom 5. Juli 2021 (BGBl. I S. 3338) geändert worden ist, außer Kraft.
 
-  
+# Anlage – (zu § 2 Absatz 1)Formblatt
+
+(Fundstelle: BGBl. 2023 I Nr. 152, S. 5 - 7)
 
 Bilanz
 
@@ -154,7 +251,7 @@ Immaterielle Vermögensgegenstände
 
 1\.
 
-Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
+selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
 
  
 
@@ -240,7 +337,7 @@ technische Anlagen und Maschinen
 
 7\.
 
-andere Anlagen Betriebs- und Geschäftsausstattung
+andere Anlagen, Betriebs- und Geschäftsausstattung
 
  
 
@@ -468,14 +565,6 @@ Anteile an verbundenen Unternehmen
 
 2\.
 
-eigene Anteile
-
- 
-
- 
-
-3\.
-
 sonstige Wertpapiere
 
  
@@ -490,7 +579,7 @@ Flüssige Mittel und Bausparguthaben
 
 1\.
 
-Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben bei Kreditinstituten
+Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks
 
  
 
@@ -516,7 +605,7 @@ Passivseite
 
 A.
 
-Eigenkapital
+Eigenkapital<span id="FnR.F826572_01"></span><a href="#F826572_01" class="FnR">1</a></sup>
 
  
 
@@ -586,7 +675,7 @@ Gewinnvortrag/Verlustvortrag
 
 V.
 
-Jahresüberschuß/Jahresfehlbetrag
+Jahresüberschuss/Jahresfehlbetrag
 
 B.
 
@@ -614,7 +703,7 @@ Steuerrückstellungen
 
 3\.
 
-Rückstellung für Bauinstandhaltung
+Rückstellungen für Bauinstandhaltung
 
  
 
@@ -634,7 +723,15 @@ Verbindlichkeiten
 
 1\.
 
-Anleihen davon konvertibel
+Anleihen
+
+ 
+
+ 
+
+ 
+
+davon konvertibel
 
  
 
@@ -672,6 +769,46 @@ Verbindlichkeiten aus Lieferungen und Leistungen
 
  
 
+ 
+
+a)
+
+Verbindlichkeiten aus Vermietung
+
+ 
+
+ 
+
+ 
+
+b)
+
+Verbindlichkeiten aus Grundstücksverkäufen
+
+ 
+
+ 
+
+ 
+
+c)
+
+Verbindlichkeiten aus Betreuungstätigkeit
+
+ 
+
+ 
+
+ 
+
+d)
+
+Verbindlichkeiten aus anderen Lieferungen und Leistungen
+
+ 
+
+ 
+
 6\.
 
 Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel
@@ -698,7 +835,23 @@ Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis 
 
 9\.
 
-sonstige Verbindlichkeiten davon aus Steuern davon im Rahmen der sozialen Sicherheit
+sonstige Verbindlichkeiten
+
+ 
+
+ 
+
+ 
+
+davon aus Steuern
+
+ 
+
+ 
+
+ 
+
+davon im Rahmen der sozialen Sicherheit
 
 D.
 
@@ -707,7 +860,3 @@ Rechnungsabgrenzungsposten
 E.
 
 Passive latente Steuern
-
-# Muster 1 u. 2
-
-\-

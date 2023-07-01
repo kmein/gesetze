@@ -1710,7 +1710,7 @@ Fahrzeugbezogene Maßnahmen können insbesondere auf die Verbesserung von Fahrze
 
 a) bei natürlichen Personen:
 
-Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag sowie Staat und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
+Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
 
 b) bei juristischen Personen und Behörden:
 
@@ -1718,7 +1718,7 @@ Name oder Bezeichnung und Anschrift und
 
 c) bei Vereinigungen:
 
-benannter Vertreter mit den Angaben nach Buchstabe a und gegebenenfalls Name der Vereinigung.
+benannter Vertreter mit den Angaben nach Buchstabe a oder b und gegebenenfalls Name der Vereinigung.
 
 Im örtlichen und im Zentralen Fahrzeugregister werden zur Erfüllung der in § 32 genannten Aufgaben außerdem Daten über denjenigen gespeichert, an den ein Fahrzeug mit einem amtlichen Kennzeichen veräußert wurde (Halterdaten), und zwar
 
@@ -1733,7 +1733,7 @@ Name oder Bezeichnung und Anschrift und
 
 c) bei Vereinigungen:
 
-benannter Vertreter mit den Angaben nach Buchstabe a und gegebenenfalls Name der Vereinigung.
+benannter Vertreter mit den Angaben nach Buchstabe a oder b und gegebenenfalls Name der Vereinigung.
 
 (2) Im örtlichen und im Zentralen Fahrzeugregister werden über beruflich Selbständige, denen ein amtliches Kennzeichen für ein Fahrzeug zugeteilt wird, für die Aufgaben nach § 32 Abs. 1 Nr. 4 und 5 Berufsdaten gespeichert, und zwar
 

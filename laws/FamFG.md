@@ -3681,6 +3681,8 @@ Das Nachlassgericht kann eine öffentliche Aufforderung zur Anmeldung der andere
 
 (2) Hat ein Gericht nach § 344 Abs. 4 Maßnahmen zur Sicherung des Nachlasses angeordnet, soll es das nach § 343 zuständige Gericht hiervon unterrichten.
 
+(3) Ist in einer Verfügung von Todes wegen ein Stiftungsgeschäft enthalten, hat das Nachlassgericht der zuständigen Behörde des Landes den sie betreffenden Inhalt der Verfügung von Todes wegen zur Anerkennung der Stiftung bekannt zu geben, es sei denn, dem Nachlassgericht ist bekannt, dass die Anerkennung der Stiftung schon von einem Erben oder Testamentsvollstrecker beantragt wurde.
+
 # § 357 – Einsicht in eine eröffnete Verfügung von Todes wegen; Ausfertigung eines Erbscheins oder anderen Zeugnisses
 
 (1) Wer ein rechtliches Interesse glaubhaft macht, ist berechtigt, eine eröffnete Verfügung von Todes wegen einzusehen.

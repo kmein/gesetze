@@ -173,15 +173,33 @@ Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes s
 
 4. den Ort im Inland, an dem die nach § 17 erforderlichen Unterlagen bereitgehalten werden,
 
-5. den Familiennamen, den Vornamen, das Geburtsdatum und die Anschrift in Deutschland der oder des verantwortlich Handelnden und
+5. den Familiennamen, den Vornamen, das Geburtsdatum und die Anschrift in Deutschland der oder des verantwortlich Handelnden,
 
-6. den Familiennamen, den Vornamen und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten, soweit diese oder dieser nicht mit der oder dem in Nummer 5 genannten verantwortlich Handelnden identisch ist.
+6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen, und
+
+7. den Familiennamen, den Vornamen und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten, soweit diese oder dieser nicht mit der oder dem in Nummer 5 genannten verantwortlich Handelnden identisch ist.
 
 Änderungen bezüglich dieser Angaben hat der Arbeitgeber im Sinne des Satzes 1 unverzüglich zu melden.
 
-(2) Der Arbeitgeber hat der Anmeldung eine Versicherung beizufügen, dass er die Verpflichtungen nach § 20 einhält.
+(2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums verpflichtet, der zuständigen Behörde der Zollverwaltung vor Beginn der Beschäftigung einer Kraftfahrerin oder eines Kraftfahrers für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes eine Anmeldung mit folgenden Angaben elektronisch zuzuleiten:
 
-(3) Überlässt ein Verleiher mit Sitz im Ausland eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer zur Arbeitsleistung einem Entleiher, hat der Entleiher in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen unter den Voraussetzungen des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
+1. die Identität des Unternehmens, sofern diese verfügbar ist in Form der Nummer der Gemeinschaftslizenz,
+
+2. den Familiennamen und den Vornamen sowie die Anschrift im Niederlassungsstaat eines oder einer Zustellungsbevollmächtigten,
+
+3. den Familiennamen, den Vornamen, das Geburtsdatum, die Anschrift und die Führerscheinnummer der Kraftfahrerin oder des Kraftfahrers,
+
+4. den Beginn des Arbeitsvertrags der Kraftfahrerin oder des Kraftfahrers und das auf diesen Vertrag anwendbare Recht,
+
+5. den voraussichtlichen Beginn und das voraussichtliche Ende der Beschäftigung der Kraftfahrerin oder des Kraftfahrers im Inland,
+
+6. die amtlichen Kennzeichen der für die Beschäftigung im Inland einzusetzenden Kraftfahrzeuge,
+
+7. ob es sich bei den von der Kraftfahrerin oder dem Kraftfahrer zu erbringenden Verkehrsdienstleistungen um Güterbeförderung oder Personenbeförderung und grenzüberschreitende Beförderung oder Kabotage handelt;
+
+die Anmeldung ist mittels der elektronischen Schnittstelle des Binnenmarkt-Informationssystems nach Artikel 1 in Verbindung mit Artikel 5 Buchstabe a der Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission („IMI-Verordnung“) (ABI. L 316 vom 14.11.2012, S. 1), die zuletzt durch die Verordnung (EU) 2020/1055 (ABI. L 249 vom 31.7.2020, S. 17) geändert worden ist, zuzuleiten. Absatz 1 Satz 3 gilt entsprechend.
+
+(3) Überlässt ein Verleiher mit Sitz im Ausland eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer zur Arbeitsleistung einem Entleiher, hat der Verleiher in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen unter den Voraussetzungen des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
 
 1. den Familiennamen, den Vornamen und das Geburtsdatum der überlassenen Arbeitnehmerinnen und Arbeitnehmer,
 
@@ -193,13 +211,13 @@ Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes s
 
 5. den Familiennamen, den Vornamen und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten des Verleihers,
 
-6. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des Verleihers.
+6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
+
+7. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des Entleihers.
 
 Absatz 1 Satz 3 gilt entsprechend.
 
-(4) Der Entleiher hat der Anmeldung eine Versicherung des Verleihers beizufügen, dass dieser die Verpflichtungen nach § 20 einhält.
-
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
 
 1. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen eine Anmeldung, eine Änderungsmeldung und die Versicherung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3 Satz 1 und 2 und Absatz 4 elektronisch übermittelt werden kann,
 
@@ -207,7 +225,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 3. wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die entsandten Arbeitnehmerinnen und Arbeitnehmer im Rahmen einer regelmäßig wiederkehrenden Werk- oder Dienstleistung eingesetzt werden oder sonstige Besonderheiten der zu erbringenden Werk- oder Dienstleistungen dies erfordern.
 
-(6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 (+++ § 16 Abs. 1 bis 4: Zur Anwendung vgl. § 1 Abs. 1 u. 2 MiLoDokV +++)
 
@@ -217,7 +235,29 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Arbeitgeber im Sinne des Absatzes 1 haben die für die Kontrolle der Einhaltung der Verpflichtungen nach § 20 in Verbindung mit § 2 erforderlichen Unterlagen im Inland in deutscher Sprache für die gesamte Dauer der tatsächlichen Beschäftigung der Arbeitnehmerinnen und Arbeitnehmer im Geltungsbereich dieses Gesetzes, mindestens für die Dauer der gesamten Werk- oder Dienstleistung, insgesamt jedoch nicht länger als zwei Jahre, bereitzuhalten. Auf Verlangen der Prüfbehörde sind die Unterlagen auch am Ort der Beschäftigung bereitzuhalten.
 
-(3) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verpflichtungen des Arbeitgebers oder eines Entleihers nach § 16 und den Absätzen 1 und 2 hinsichtlich bestimmter Gruppen von Arbeitnehmerinnen und Arbeitnehmern oder der Wirtschaftsbereiche oder den Wirtschaftszweigen einschränken oder erweitern.
+(2a) Abweichend von Absatz 2 hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums sicherzustellen, dass der Kraftfahrerin oder dem Kraftfahrer, die oder der von ihm für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes beschäftigt wird, die folgenden Unterlagen als Schriftstück oder in einem elektronischen Format zur Verfügung stehen:
+
+1. eine Kopie der nach § 16 Absatz 2 zugeleiteten Anmeldung,
+
+2. die Nachweise über die Beförderungen, insbesondere elektronische Frachtbriefe oder die in Artikel 8 Absatz 3 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72), die zuletzt durch die Verordnung (EU) 2020/1055 (ABI. L 249 vom 31.7.2020, S. 17) geändert worden ist, genannten Belege und
+
+3. alle Aufzeichnungen des Fahrtenschreibers, insbesondere die in Artikel 34 Absatz 6 Buchstabe f und Absatz 7 der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 93 vom 9.4.2015, S. 103; L 246 vom 23.9.2015, S. 11), die zuletzt durch die Verordnung (EU) 2020/1054 (ABI. L 249 vom 31.7.2020, S. 1) geändert worden ist, genannten Ländersymbole der Mitgliedstaaten, in denen sich der Kraftfahrer oder die Kraftfahrerin bei grenzüberschreitenden Beförderungen und Kabotagebeförderungen aufgehalten hat, oder die Aufzeichnungen nach § 1 Absatz 6 Satz 1 und 2 der Fahrpersonalverordnung vom 27. Juni 2005 (BGBl. I S. 1882), die zuletzt durch Artikel 1 der Verordnung vom 8. August 2017 (BGBl. I S. 3158) geändert worden ist.
+
+Die Kraftfahrerin oder der Kraftfahrer hat im Falle einer Beschäftigung im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes die ihm oder ihr nach Satz 1 zur Verfügung gestellten Unterlagen mit sich zu führen und den Behörden der Zollverwaltung auf Verlangen als Schriftstück oder in einem elektronischen Format vorzulegen; liegt keine Beschäftigung im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes vor, gilt die Pflicht nach dem ersten Halbsatz nur im Rahmen einer auf der Straße vorgenommenen Kontrolle für die Unterlagen nach Satz 1 Nummer 2 und 3.
+
+(2b) Nach Beendigung der Beschäftigung der Kraftfahrerin oder des Kraftfahrers im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums den Behörden der Zollverwaltung auf Verlangen über die mit dem Binnenmarkt-Informationssystem verbundene elektronische Schnittstelle folgende Unterlagen innerhalb von acht Wochen ab dem Tag des Verlangens zu übermitteln:
+
+1. Kopien der Unterlagen nach Absatz 2a Satz 1 Nummer 2 und 3,
+
+2. Unterlagen über die Entlohnung der Kraftfahrerin oder des Kraftfahrers einschließlich der Zahlungsbelege,
+
+3. den Arbeitsvertrag oder gleichwertige Unterlagen im Sinne des Artikels 3 Absatz 1 der Richtlinie 91/533/EWG des Rates vom 14. Oktober 1991 über die Pflicht des Arbeitgebers zur Unterrichtung des Arbeitnehmers über die für seinen Arbeitsvertrag oder sein Arbeitsverhältnis geltenden Bedingungen (ABl. L 288 vom 18.10.1991, S. 32) und
+
+4. Unterlagen über die Zeiterfassung, die sich auf die Arbeit der Kraftfahrerin oder des Kraftfahrers beziehen, insbesondere die Aufzeichnungen des Fahrtenschreibers.
+
+Die Behörden der Zollverwaltung dürfen die Unterlagen nach Satz 1 nur für den Zeitraum der Beschäftigung nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes verlangen, der zum Zeitpunkt des Verlangens beendet ist. Soweit eine Anmeldung nach § 16 Absatz 2 nicht zugeleitet wurde, obwohl eine Beschäftigung im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes vorliegt, hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums den Behörden der Zollverwaltung auf Verlangen die Unterlagen nach Satz 1 außerhalb der mit dem Binnenmarkt-Informationssystem verbundenen elektronischen Schnittstelle als Schriftstück oder in einem elektronischen Format zu übermitteln.
+
+(3) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verpflichtungen des Arbeitgebers, des Verleihers oder eines Entleihers nach § 16 und den Absätzen 1 und 2 hinsichtlich bestimmter Gruppen von Arbeitnehmerinnen und Arbeitnehmern oder der Wirtschaftsbereiche oder den Wirtschaftszweigen einschränken oder erweitern.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen, wie die Verpflichtung des Arbeitgebers, die tägliche Arbeitszeit bei ihm beschäftigter Arbeitnehmerinnen und Arbeitnehmer aufzuzeichnen und diese Aufzeichnungen aufzubewahren, vereinfacht oder abgewandelt werden kann, sofern Besonderheiten der zu erbringenden Werk- oder Dienstleistungen oder Besonderheiten des jeweiligen Wirtschaftsbereiches oder Wirtschaftszweiges dies erfordern.
 
@@ -225,7 +265,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 # § 18 – Zusammenarbeit der in- und ausländischen Behörden
 
-(1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 16 Absatz 1 und 3.
+(1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 16 Absatz 1 und 3. Auf die Informationen zu den Meldungen nach § 16 Absatz 2 können die Landesfinanzbehörden über das Binnenmarkt-Informationssystem zugreifen.
 
 (2) Die Behörden der Zollverwaltung und die übrigen in § 2 des Schwarzarbeitsbekämpfungsgesetzes genannten Behörden dürfen nach Maßgabe der datenschutzrechtlichen Vorschriften auch mit Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammenarbeiten, die diesem Gesetz entsprechende Aufgaben durchführen oder für die Bekämpfung illegaler Beschäftigung zuständig sind oder Auskünfte geben können, ob ein Arbeitgeber seine Verpflichtungen nach § 20 erfüllt. Die Regelungen über die internationale Rechtshilfe in Strafsachen bleiben hiervon unberührt.
 
@@ -233,11 +273,11 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 # § 19 – Ausschluss von der Vergabe öffentlicher Aufträge
 
-(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerberinnen oder Bewerber für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 21 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind.
+(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerberinnen oder Bewerber für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind.
 
-(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 21 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
+(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 oder Absatz 2 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
 
-(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 21 Absatz 1 oder Absatz 2 an oder verlangen von Bewerberinnen oder Bewerbern eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung der Bewerberin oder des Bewerbers können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
+(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 oder Absatz 2 an oder verlangen von Bewerberinnen oder Bewerbern eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung der Bewerberin oder des Bewerbers können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
 
 (4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für die Bewerberin oder den Bewerber, die oder der den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
 
@@ -257,17 +297,21 @@ Arbeitgeber mit Sitz im In- oder Ausland sind verpflichtet, ihren im Inland besc
 
 3. entgegen § 15 Satz 1 in Verbindung mit § 5 Absatz 5 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
-4. entgegen § 16 Absatz 1 Satz 1 oder Absatz 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
+4. entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
 
-5. entgegen § 16 Absatz 1 Satz 3, auch in Verbindung mit Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+5. entgegen § 16 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2 oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-6. entgegen § 16 Absatz 2 oder 4 eine Versicherung nicht, nicht richtig oder nicht rechtzeitig beifügt,
+6. entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt,
 
-7. entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt,
+7. entgegen § 17 Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
-8. entgegen § 17 Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält oder
+8. entgegen § 17 Absatz 2a Satz 1 nicht sicherstellt, dass die dort genannten Unterlagen zur Verfügung stehen,
 
-9. entgegen § 20 das dort genannte Arbeitsentgelt nicht oder nicht rechtzeitig zahlt.
+9. entgegen § 17 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
+
+10. entgegen § 17 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt oder
+
+11. entgegen § 20 das dort genannte Arbeitsentgelt nicht oder nicht rechtzeitig zahlt.
 
 (2) Ordnungswidrig handelt, wer Werk- oder Dienstleistungen in erheblichem Umfang ausführen lässt, indem er als Unternehmer einen anderen Unternehmer beauftragt, von dem er weiß oder fahrlässig nicht weiß, dass dieser bei der Erfüllung dieses Auftrags
 
@@ -275,7 +319,7 @@ Arbeitgeber mit Sitz im In- oder Ausland sind verpflichtet, ihren im Inland besc
 
 2. einen Nachunternehmer einsetzt oder zulässt, dass ein Nachunternehmer tätig wird, der entgegen § 20 das dort genannte Arbeitsentgelt nicht oder nicht rechtzeitig zahlt.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 9 und des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 11 und des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 14 genannten Behörden jeweils für ihren Geschäftsbereich.
 

@@ -53,7 +53,7 @@ Auf Grund des § 86f des Steuerberatungsgesetzes, der durch Artikel 4 Nummer 35 
 
 (1) Die Identifizierung und Authentisierung des Steuerberaters, des Steuerbevollmächtigten oder der Leitungspersonen einer Berufsausübungsgesellschaft im Sinne des § 89a Nummer 1 oder 2 des Steuerberatungsgesetzes erfolgt durch
 
-1. eine der folgenden Identifizierungsmittel:
+1. eines der folgenden Identifizierungsmittel:
 
 a) einen elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes oder
 
@@ -155,7 +155,9 @@ Die Bundessteuerberaterkammer und die Steuerberaterkammern können die Steuerber
 
 (3) Wird ein besonderes elektronisches Steuerberaterpostfach für eine Berufsausübungsgesellschaft eingerichtet, so hat die Berufsausübungsgesellschaft der Steuerberaterkammer die Familiennamen und Vornamen der vertretungsberechtigten Steuerberater, Steuerbevollmächtigten, Rechtsanwälte, Patentanwälte, Wirtschaftsprüfer und vereidigten Buchprüfer mitzuteilen, die befugt sein sollen, für die Berufsausübungsgesellschaft Dokumente mit einer nicht-qualifizierten elektronischen Signatur auf einem sicheren Übermittlungsweg zu versenden. Die Berufsausübungsgesellschaft hat der Steuerberaterkammer unverzüglich jede Änderung der Vertretungsberechtigungen sowie der Namen der Vertretungsberechtigten mitzuteilen.
 
-(4) Die Bundessteuerberaterkammer richtet für die Steuerberaterkammern und für sich besondere elektronische Steuerberaterpostfächer ein.
+(4) Soll für eine weitere Beratungsstelle ein weiteres besonderes elektronisches Steuerberaterpostfach eingerichtet werden, so hat der Steuerberater, der Steuerbevollmächtigte oder die Berufsausübungsgesellschaft der Steuerberaterkammer den Familiennamen und den oder die Vornamen des Leiters der weiteren Beratungsstelle mitzuteilen, der befugt sein soll, für die weitere Beratungsstelle Dokumente mit einer nicht-qualifizierten elektronischen Signatur auf einem sicheren Übermittlungsweg zu versenden. Eine solche Befugnis kann auch im Fall des § 34 Absatz 2 Satz 3 und 4 des Steuerberatungsgesetzes nur einer der in § 3 Satz 1 Nummer 1 des Steuerberatungsgesetzes genannten Personen erteilt werden. Der Steuerberater, der Steuerbevollmächtigte oder die Berufsausübungsgesellschaft hat der Steuerberaterkammer unverzüglich jeden Wechsel des Leiters der weiteren Beratungsstelle mitzuteilen; dabei sind der Familienname und der oder die Vornamen des neuen Leiters der weiteren Beratungsstelle anzugeben. Im Übrigen gelten für weitere besondere elektronische Steuerberaterpostfächer die §§ 11 bis 13, 15, 16, 18 und 19 Absatz 2 sowie die §§ 20 bis 22 und 23 Absatz 1 entsprechend.
+
+(5) Die Bundessteuerberaterkammer richtet für die Steuerberaterkammern und für sich besondere elektronische Steuerberaterpostfächer ein.
 
 # § 15 – Erstanmeldung am besonderen elektronischen Steuerberaterpostfach
 
@@ -235,7 +237,7 @@ Eine Maßnahme nach Satz 1 kann insbesondere die Beantragung der Sperrung des Po
 
 2. der Postfachinhaber die Sperrung beantragt hat.
 
-Die Steuerberaterkammer unterrichtet die Bundessteuerberaterkammer unverzüglich über die Löschung des Postfachinhabers aus dem Berufsregister. Satz 1 Nummer 1 und Satz 2 gilt nicht, wenn der Postfachinhaber von einer Steuerberaterkammer in eine andere wechselt.
+Ein für eine weitere Beratungsstelle eingerichtetes weiteres elektronisches Steuerberaterpostfach ist zudem zu sperren, sobald die weitere Beratungsstelle aufgegeben wird. Die Steuerberaterkammer unterrichtet die Bundessteuerberaterkammer unverzüglich über die Löschung des Postfachinhabers aus dem Berufsregister. Satz 1 Nummer 1 und Satz 3 gilt nicht, wenn der Postfachinhaber von einer Steuerberaterkammer in eine andere wechselt.
 
 (2) Nach der Sperrung des besonderen elektronischen Steuerberaterpostfachs besteht zu diesem kein Zugang mehr. Die Zugangsberechtigung für Praxisabwickler und Praxistreuhänder nach § 19 Absatz 1 bleibt unberührt.
 

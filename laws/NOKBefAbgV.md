@@ -75,7 +75,9 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 (3) Abweichend von Absatz 2 kann bei Vorliegen der Voraussetzungen auf Antrag die Ermäßigung auch nach Ablauf des Kalenderjahres erfolgen. Der Antrag ist bis zum 31. März des folgenden Jahres bei der Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
-# § 8 – (weggefallen)
+# § 8
+
+§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 30. Juni 2026 mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50 Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 
 # Anlage 1 – (zu § 1 Absatz 1)Befahrungsabgabenverzeichnis
 
@@ -113,13 +115,16 @@ mindestens jedoch 9 Euro
 | für jeden weiteren angefangenen Meter Länge zusätzlich |  1,– |
 
 2.2  
-im Teilstreckenverkehr
+im Teilstreckenverkehr bei einer Länge
 
-|                                                                                       |      |
-|:--------------------------------------------------------------------------------------|-----:|
-| für jede angefangene Teilstrecke von 10 km                                            | 10 % |
-| für jede angefangene Teilstrecke mit Schleusenbenutzung des Betrages nach Nummer 1.1, | 15 % |
-| mindestens jedoch                                                                     |  9,– |
+|                                           | Euro |
+|:------------------------------------------|:-----|
+| bis 10 m                                  |  7,– |
+| über 10 m bis 12 m                        |  8,– |
+| über 12 m bis 16 m                        | 18,– |
+| über 16 m bis 20 m                        | 21,– |
+| über 20 m                                 | 23,– |
+| für jeden weiteren Meter Länge zusätzlich |  1,– |
 
 <!-- -->
 

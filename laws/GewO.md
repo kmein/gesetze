@@ -3202,7 +3202,7 @@ Von der Eintragung sind Entscheidungen und Verzichte ausgenommen, die nach § 28
 
 a) in § 148 Nr. 1,
 
-b) in § 404 Abs. 1, 2 Nr. 3 des Dritten Buches Sozialgesetzbuch, in § 8 Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 und 2 des Mindestlohngesetzes in § 23 Abs. 1 und 2 des Arbeitnehmer-Entsendegesetzes und in § 16 Abs. 1 bis 2 des Arbeitnehmerüberlassungsgesetzes
+b) in § 404 Abs. 1, 2 Nr. 3 des Dritten Buches Sozialgesetzbuch, in § 8 Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 sowie Absatz 2 des Mindestlohngesetzes, in § 23 Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des Arbeitnehmer-Entsendegesetzes und in § 16 Abs. 1 bis 2 des Arbeitnehmerüberlassungsgesetzes
 
 bezeichneten Ordnungswidrigkeit,
 

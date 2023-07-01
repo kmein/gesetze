@@ -1547,9 +1547,11 @@ b) die Befugnis zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“
 
 c) die Anschrift der weiteren Beratungsstellen,
 
-d) der Familienname, der Vorname oder die Vornamen und die Anschrift der die weiteren Beratungsstellen leitenden Personen sowie
+d) der Familienname, der Vorname oder die Vornamen und die Anschrift der die weiteren Beratungsstellen leitenden Personen,
 
-e) alle Veränderungen der Angaben zu den Buchstaben a bis d;
+e) die Bezeichnung eines für die weitere Beratungsstelle eingerichteten weiteren besonderen elektronischen Steuerberaterpostfachs sowie
+
+f) alle Veränderungen der Angaben zu den Buchstaben a bis e;
 
 4. für weitere Beratungsstellen von anerkannten Berufsausübungsgesellschaften, wenn sie im Registerbezirk errichtet werden:
 
@@ -1559,9 +1561,11 @@ b) die Befugnis zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“
 
 c) die Anschrift der weiteren Beratungsstellen,
 
-d) der Familienname, der Vorname oder die Vornamen und die Anschrift der die weiteren Beratungsstellen leitenden Personen sowie
+d) der Familienname, der Vorname oder die Vornamen und die Anschrift der die weiteren Beratungsstellen leitenden Personen,
 
-e) alle Veränderungen der Angaben zu den Buchstaben a bis d.
+e) die Bezeichnung eines für die weitere Beratungsstelle eingerichteten weiteren besonderen elektronischen Steuerberaterpostfachs sowie
+
+f) alle Veränderungen der Angaben zu den Buchstaben a bis e.
 
 (2) Für Berufsausübungsgesellschaften, die nicht anerkannt werden sollen, gilt Absatz 1 Nummer 2 und 4 mit der Maßgabe entsprechend, dass anstelle des Datums der Anerkennung der Tag der Registrierung im Berufsregister einzutragen ist. Abweichend von Satz 1 ist bei Berufsausübungsgesellschaften in der Rechtsform der Partnerschaftsgesellschaft der Tag der Eintragung im Partnerschaftsregister einzutragen. Die zuständige Steuerberaterkammer kann für die Prüfung der in das Berufsregister einzutragenden Tatsachen die Vorlage geeigneter Nachweise einschließlich des Gesellschaftsvertrags oder der Satzung verlangen.
 
@@ -1983,6 +1987,8 @@ k) sofern ein Vertreter bestellt ist, die Angabe von Familienname, Vorname oder 
 
 (6) Der Inhaber des besonderen elektronischen Steuerberaterpostfachs ist verpflichtet, die für dessen Nutzung erforderlichen technischen Einrichtungen vorzuhalten sowie Zustellungen und den Zugang von Mitteilungen über das besondere elektronische Steuerberaterpostfach zur Kenntnis zu nehmen.
 
+(7) Die Bundessteuerberaterkammer richtet für eine im Berufsregister eingetragene weitere Beratungsstelle eines Steuerberaters oder Steuerbevollmächtigten auf dessen Antrag ein weiteres besonderes elektronisches Steuerberaterpostfach empfangsbereit ein. Der Antrag nach Satz 1 ist bei derjenigen Steuerberaterkammer zu stellen, bei der der Steuerberater oder Steuerbevollmächtigte bestellt ist oder bestellt werden soll. Die Steuerberaterkammer übermittelt der Bundessteuerberaterkammer den Familiennamen und den oder die Vornamen des Steuerberaters oder Steuerbevollmächtigten sowie die Anschrift der weiteren Beratungsstelle, für die ein weiteres besonderes elektronisches Steuerberaterpostfach eingerichtet werden soll. Die Bundessteuerberaterkammer hebt die Zugangsberechtigung zu einem nach Satz 1 eingerichteten weiteren besonderen elektronischen Steuerberaterpostfach auf, wenn der Steuerberater oder Steuerbevollmächtigte gegenüber der für ihn zuständigen Steuerberaterkammer erklärt, kein weiteres besonderes elektronisches Steuerberaterpostfach für die weitere Beratungsstelle mehr zu wünschen, oder wenn die weitere Beratungsstelle aufgegeben wird. Im Übrigen gelten Absatz 1 Satz 2, Absatz 2 Satz 2 sowie die Absätze 3, 4 und 6 entsprechend.
+
 # § 86e – Besonderes elektronisches Steuerberaterpostfach für Berufsausübungsgesellschaften
 
 (1) Die Bundessteuerberaterkammer richtet für jede im Steuerberaterverzeichnis eingetragene Berufsausübungsgesellschaft ein besonderes elektronisches Steuerberaterpostfach empfangsbereit ein.
@@ -1992,6 +1998,8 @@ k) sofern ein Vertreter bestellt ist, die Angabe von Familienname, Vorname oder 
 (3) Die Bundessteuerberaterkammer hebt die Zugangsberechtigung zu einem nach Absatz 1 eingerichteten besonderen elektronischen Steuerberaterpostfach auf, wenn die Registrierung oder die Anerkennung als Berufsausübungsgesellschaft aus einem anderen Grund als dem Wechsel der Steuerberaterkammer erlischt.
 
 (4) Im Übrigen gilt für nach Absatz 1 eingerichtete besondere elektronische Steuerberaterpostfächer § 86d Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 und 4 Satz 2 sowie Absatz 6 entsprechend.
+
+(5) Für die Einrichtung weiterer besonderer elektronischer Steuerberaterpostfächer für im Berufsregister eingetragene weitere Beratungsstellen von Berufsausübungsgesellschaften gilt § 86d Absatz 7 entsprechend. Bei Berufsausübungsgesellschaften, die nicht anerkannt werden sollen, ist der Antrag bei derjenigen Steuerberaterkammer zu stellen, die für deren Eintragung in das Berufsregister zuständig ist.
 
 # § 86f – Verordnungsermächtigung
 
