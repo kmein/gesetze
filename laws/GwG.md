@@ -2163,6 +2163,8 @@ Dem entgegenstehende Vereinbarungen sind unwirksam.
 
 3. §§ 137, 140, 141 und 147 der Strafprozessordnung.
 
+(8) Soweit die Bundesanstalt für Finanzdienstleistungsaufsicht als zuständige Behörde im Sinne des § 50 für die Errichtung eines Systems im Sinne von Absatz 1 zuständig ist, richten sich die Errichtung und der Betrieb nach § 4d des Finanzdienstleistungsaufsichtsgesetzes. Die Absätze 3 bis 7 finden insoweit keine Anwendung.
+
 # § 54 – Verschwiegenheitspflicht
 
 (1) Soweit Personen, die bei den zuständigen Aufsichtsbehörden nach § 50 beschäftigt sind oder für diese Aufsichtsbehörden tätig sind, Aufgaben nach § 51 Absatz 1 erfüllen, dürfen sie die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen nicht unbefugt offenbaren oder verwerten, wenn die Geheimhaltung dieser Tatsachen, insbesondere Geschäfts- und Betriebsgeheimnisse, im Interesse eines von ihnen beaufsichtigten Verpflichteten oder eines Dritten liegt. Satz 1 gilt auch, wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Die datenschutzrechtlichen Bestimmungen, die von den beaufsichtigten Verpflichteten zu beachten sind, bleiben unberührt.

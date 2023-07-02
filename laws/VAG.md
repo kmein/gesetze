@@ -816,7 +816,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 (5) Die aufbau- und ablauforganisatorischen Regelungen sowie das interne Kontrollsystem sind für Dritte nachvollziehbar zu dokumentieren. Die Dokumentation ist sechs Jahre aufzubewahren; § 257 Absatz 3 und 5 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-(6) Die Unternehmen haben einen Prozess vorzusehen, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, potenzielle oder tatsächliche Verstöße
+(6) Die Unternehmen haben einen Prozess gemäß dem Hinweisgeberschutzgesetz für interne Meldungen vorzusehen, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, potenzielle oder tatsächliche Verstöße
 
 1. gegen dieses Gesetz,
 
@@ -824,7 +824,9 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 3. gegen die Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1),
 
-4. gegen die Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50) in der jeweils geltenden Fassung
+4. gegen die Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50) in der jeweils geltenden Fassung,
+
+5. gegen Vorschriften, bei denen auch eine Meldung an eine externe Stelle im Sinne des Hinweisgeberschutzgesetzes in Betracht kommt,
 
 sowie etwaige strafbare Handlungen innerhalb des Unternehmens an eine geeignete Stelle zu melden.
 
