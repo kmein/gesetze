@@ -1328,9 +1328,11 @@ Die oberste Dienstbehörde oder die von ihr bestimmte Behörde kann einer Beamti
 
 1. Mitteilungen im dienstlichen Verkehr geboten sind,
 
-2. Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen, oder
+2. Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen,
 
-3. gegenüber der zuständigen obersten Dienstbehörde, einer Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337 des Strafgesetzbuches angezeigt wird.
+3. gegenüber der zuständigen obersten Dienstbehörde, einer Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337 des Strafgesetzbuches angezeigt wird oder
+
+4. Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten anzuzeigen und für die Erhaltung der freiheitlichen demokratischen Grundordnung einzutreten, von Absatz 1 unberührt.
 
@@ -2047,6 +2049,8 @@ Der Bundespersonalausschuss gibt sich eine Geschäftsordnung.
 (1) Beamtinnen und Beamte können Anträge und Beschwerden vorbringen. Hierbei ist der Dienstweg einzuhalten. Der Beschwerdeweg bis zur obersten Dienstbehörde steht offen.
 
 (2) Richtet sich die Beschwerde gegen die unmittelbare Vorgesetzte oder den unmittelbaren Vorgesetzten, kann sie bei der oder dem nächsthöheren Vorgesetzten unmittelbar eingereicht werden.
+
+(3) Beamtinnen und Beamte, die eine Meldung oder Offenlegung nach dem Hinweisgeberschutzgesetz vornehmen, sind von der Einhaltung des Dienstwegs befreit.
 
 # § 126 – Verwaltungsrechtsweg
 

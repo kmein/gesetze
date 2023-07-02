@@ -167,7 +167,7 @@ Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der Pflichte
 
 (1) Die Beschäftigten sind berechtigt, dem Arbeitgeber Vorschläge zu allen Fragen der Sicherheit und des Gesundheitsschutzes bei der Arbeit zu machen. Für Beamtinnen und Beamte des Bundes ist § 125 des Bundesbeamtengesetzes anzuwenden. Entsprechendes Landesrecht bleibt unberührt.
 
-(2) Sind Beschäftigte auf Grund konkreter Anhaltspunkte der Auffassung, daß die vom Arbeitgeber getroffenen Maßnahmen und bereitgestellten Mittel nicht ausreichen, um die Sicherheit und den Gesundheitsschutz bei der Arbeit zu gewährleisten, und hilft der Arbeitgeber darauf gerichteten Beschwerden von Beschäftigten nicht ab, können sich diese an die zuständige Behörde wenden. Hierdurch dürfen den Beschäftigten keine Nachteile entstehen. Die in Absatz 1 Satz 2 und 3 genannten Vorschriften sowie die Vorschriften der Wehrbeschwerdeordnung und des Gesetzes über den Wehrbeauftragten des Deutschen Bundestages bleiben unberührt.
+(2) Sind Beschäftigte auf Grund konkreter Anhaltspunkte der Auffassung, daß die vom Arbeitgeber getroffenen Maßnahmen und bereitgestellten Mittel nicht ausreichen, um die Sicherheit und den Gesundheitsschutz bei der Arbeit zu gewährleisten, und hilft der Arbeitgeber darauf gerichteten Beschwerden von Beschäftigten nicht ab, können sich diese an die zuständige Behörde wenden. Hierdurch dürfen den Beschäftigten keine Nachteile entstehen. Die in Absatz 1 Satz 2 und 3 genannten Vorschriften sowie die Vorschriften des Hinweisgeberschutzgesetzes, der Wehrbeschwerdeordnung und des Gesetzes über den Wehrbeauftragten des Deutschen Bundestages bleiben unberührt.
 
 # § 18 – Verordnungsermächtigungen
 

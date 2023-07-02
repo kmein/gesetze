@@ -361,21 +361,7 @@ Für die Vorlage von Urkunden oder Akten, die Übermittlung elektronischer Dokum
 
 (1) Die Bundesanstalt errichtet ein System zur Annahme von Meldungen über potentielle oder tatsächliche Verstöße gegen Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, bei denen es die Aufgabe der Bundesanstalt ist, deren Einhaltung durch die von ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder Verstöße dagegen zu ahnden. Die Meldungen können auch anonym abgegeben werden.
 
-(2) (weggefallen)
-
-(3) Die Bundesanstalt macht die Identität einer Person, die eine Meldung erstattet hat, nicht bekannt, ohne zuvor die ausdrückliche Einwilligung dieser Person eingeholt zu haben. Ferner gibt die Bundesanstalt die Identität einer Person, die Gegenstand einer Meldung ist, nicht preis. Die Sätze 1 und 2 gelten nicht, wenn eine Weitergabe der Information im Kontext weiterer Ermittlungen oder nachfolgender Verwaltungs- oder Gerichtsverfahren auf Grund eines Gesetzes erforderlich ist oder wenn die Offenlegung durch einen Gerichtsbeschluss oder in einem Gerichtsverfahren angeordnet wird.
-
-(4) Die Bundesanstalt berichtet in ihrem Jahresbericht in abgekürzter oder zusammengefasster Form über die eingegangenen Meldungen. Der Bericht lässt keine Rückschlüsse auf die beteiligten Personen oder Unternehmen zu.
-
-(5) Das Informationsfreiheitsgesetz findet auf die Vorgänge nach dem Hinweisgeberverfahren keine Anwendung.
-
-(6) Mitarbeiter, die bei Unternehmen und Personen beschäftigt sind, die von der Bundesanstalt beaufsichtigt werden, oder bei anderen Unternehmen oder Personen beschäftigt sind, auf die Tätigkeiten von beaufsichtigten Unternehmen oder Personen ausgelagert wurden, und die eine Meldung nach Absatz 1 abgeben, dürfen wegen dieser Meldung weder nach arbeitsrechtlichen oder strafrechtlichen Vorschriften verantwortlich gemacht noch zum Ersatz von Schäden herangezogen werden, es sei denn, die Meldung ist vorsätzlich oder grob fahrlässig unwahr abgegeben worden.
-
-(7) Die Berechtigung zur Abgabe von Meldungen nach Absatz 1 durch Mitarbeiter, die bei Unternehmen und Personen beschäftigt sind, die von der Bundesanstalt beaufsichtigt werden oder bei anderen Unternehmen oder Personen beschäftigt sind, auf die Tätigkeiten von beaufsichtigten Unternehmen oder Personen ausgelagert wurden, darf vertraglich nicht eingeschränkt werden. Entgegenstehende Vereinbarungen sind unwirksam.
-
-(8) Die Rechte einer Person, die Gegenstand einer Meldung ist, insbesondere die Rechte nach den §§ 28 und 29 des Verwaltungsverfahrensgesetzes, nach den §§ 68 bis 71 der Verwaltungsgerichtsordnung und nach den §§ 137, 140, 141 und 147 der Strafprozessordnung werden durch die Einrichtung des Systems zur Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
-
-(9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Art, Umfang und Form der Meldung von Verstößen gegen Vorschriften der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) sowie gegen sonstige Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union nach Absatz 1, zur Konkretisierung des auf Grundlage von Artikel 32 Absatz 5 der Verordnung (EU) Nr. 596/2014 erlassenen Durchführungsrechtsakts der Europäischen Kommission erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Art, Umfang und Form der Meldung von Verstößen, für die die Bundesanstalt nach Absatz 1 und § 21 des Hinweisgeberschutzgesetzes zuständig ist, einschließlich der von Absatz 1 erfassten Rechtsverordnungen, Allgemeinverfügungen und sonstigen Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 4e – Vorschriften über die Verarbeitung personenbezogener Daten
 

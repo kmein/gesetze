@@ -796,9 +796,11 @@ Der Zusammenhalt der Bundeswehr beruht wesentlich auf Kameradschaft. Sie verpfli
 
 1. Mitteilungen im dienstlichen Verkehr geboten sind,
 
-2. Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen, oder
+2. Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen,
 
-3. gegenüber der zuständigen obersten Dienstbehörde, einer Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337 des Strafgesetzbuches angezeigt wird.
+3. gegenüber der zuständigen obersten Dienstbehörde, einer Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337 des Strafgesetzbuches angezeigt wird oder
+
+4. Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten anzuzeigen und für die Erhaltung der freiheitlichen demokratischen Grundordnung einzutreten, von Satz 1 unberührt.
 
