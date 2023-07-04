@@ -47,7 +47,7 @@ Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten Verfahren dem
 
 # § 6 – Nichtigkeit
 
-(1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn sich ergibt, daß
+(1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn die deutschen Gerichte nach Maßgabe des Übereinkommens vom 19. Februar 2013 über ein Einheitliches Patentgericht (BGBl. 2021 II S. 850, 851) weiterhin zuständig sind und wenn sich ergibt, daß
 
 1. der Gegenstand des europäischen Patents nach den Artikeln 52 bis 57 des Europäischen Patentübereinkommens nicht patentfähig ist,
 
@@ -79,15 +79,17 @@ Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach §
 
 # § 8 – Verbot des Doppelschutzes
 
-(1) Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz erteilten Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent mit derselben Priorität erteilt worden ist, hat das Patent in dem Umfang, in dem es dieselbe Erfindung wie das europäische Patent schützt, von dem Zeitpunkt an keine Wirkung mehr, zu dem
+(1) Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz erteilten Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent mit derselben Priorität erteilt worden ist, das auf Grund der Inanspruchnahme der Ausnahmeregelung des Artikels 83 Absatz 3 des Übereinkommens über ein Einheitliches Patentgericht nicht der ausschließlichen Gerichtsbarkeit des Einheitlichen Patentgerichts unterliegt, hat das Patent in dem Umfang, in dem es dieselbe Erfindung wie das europäische Patent schützt, von dem Zeitpunkt an keine Wirkung mehr, zu dem
 
 1. die Frist zur Einlegung des Einspruchs gegen das europäische Patent abgelaufen ist, ohne daß Einspruch eingelegt worden ist,
 
-2. das Einspruchsverfahren unter Aufrechterhaltung des europäischen Patents rechtskräftig abgeschlossen ist oder
+2. das Einspruchsverfahren unter Aufrechterhaltung des europäischen Patents rechtskräftig abgeschlossen ist,
 
-3. das Patent erteilt wird, wenn dieser Zeitpunkt nach dem in den Nummern 1 oder 2 genannten Zeitpunkt liegt.
+3. die Inanspruchnahme der Ausnahmeregelung nach Artikel 83 Absatz 3 des Übereinkommens über ein Einheitliches Patentgericht in Bezug auf das europäische Patent wirksam geworden ist, wenn dieser Zeitpunkt nach dem in den Nummern 1 oder 2 genannten Zeitpunkt liegt oder
 
-(2) Das Erlöschen, die Erklärung der Nichtigkeit, der Widerruf und die Beschränkung des europäischen Patents lassen die nach Absatz 1 eingetretene Rechtsfolge unberührt.
+4. das Patent erteilt wird, wenn dieser Zeitpunkt nach dem in den Nummern 1 bis 3 genannten Zeitpunkt liegt.
+
+(2) Der Eintritt der Rechtsfolge nach Absatz 1 ist endgültig.
 
 (3) (weggefallen)
 
@@ -120,6 +122,54 @@ Ersuchen der Gerichte um Erstattung technischer Gutachten nach Artikel 25 des Eu
 # § 14 – Unzulässige Anmeldung beim Europäischen Patentamt
 
 Wer eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) enthält, unmittelbar beim Europäischen Patentamt einreicht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+# § 15 – Europäisches Patent mit einheitlicher Wirkung
+
+(1) Die §§ 1 bis 4 und 11 bis 14 gelten vorbehaltlich speziellerer Vorschriften auch für das europäische Patent mit einheitlicher Wirkung nach Artikel 2 Buchstabe c der Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1; L 307 vom 28.10.2014, S. 83). Die §§ 5, 6a und 10 sind vorbehaltlich speziellerer Vorschriften auf europäische Patente mit einheitlicher Wirkung entsprechend anzuwenden.
+
+(2) Wird die einheitliche Wirkung eines europäischen Patents in das Register für den einheitlichen Patentschutz nach Artikel 2 Buchstabe e der Verordnung (EU) Nr. 1257/2012 eingetragen, so gilt die Wirkung des europäischen Patents für die Bundesrepublik Deutschland als nationales Patent mit dem Tag der Veröffentlichung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt durch das Europäische Patentamt als nicht eingetreten.
+
+(3) Wird der Antrag des Inhabers eines europäischen Patents auf einheitliche Wirkung zurückgewiesen, so werden die Jahresgebühren für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent mit dem Tag der Zustellung der Entscheidung des Europäischen Patentamts fällig oder bei einer Klage nach Artikel 32 Absatz 1 Buchstabe i des Übereinkommens über ein Einheitliches Patentgericht mit der Zustellung der Entscheidung des Einheitlichen Patentgerichts über die Zurückweisung, die Rechtskraft erlangt, sofern sich nicht nach § 3 Absatz 2 Satz 1 des Patentkostengesetzes eine spätere Fälligkeit ergibt.
+
+# § 16 – Zwangslizenz an einem europäischen Patent mit einheitlicher Wirkung
+
+Ein europäisches Patent mit einheitlicher Wirkung ist in Bezug auf die Vorschriften des Patentgesetzes, die die Erteilung einer Zwangslizenz betreffen, wie ein im Verfahren nach dem Patentgesetz erteiltes Patent zu behandeln.
+
+# § 17 – Verzicht auf das europäische Patent mit einheitlicher Wirkung
+
+§ 20 Absatz 1 Nummer 1 des Patentgesetzes findet auf europäische Patente mit einheitlicher Wirkung keine Anwendung.
+
+# § 18 – Doppelschutz und Einrede der doppelten Inanspruchnahme
+
+(1) Eine Klage wegen Verletzung oder drohender Verletzung eines im Verfahren nach dem Patentgesetz erteilten Patents ist als unzulässig abzuweisen,
+
+1. soweit Gegenstand des Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent oder ein europäisches Patent mit einheitlicher Wirkung mit derselben Priorität erteilt worden ist, und
+
+2. wenn ein Verfahren vor dem Einheitlichen Patentgericht gegen dieselbe Partei wegen Verletzung oder drohender Verletzung des europäischen Patents oder des europäischen Patents mit einheitlicher Wirkung nach Nummer 1 durch die gleiche Ausführungsform rechtshängig ist oder das Einheitliche Patentgericht über ein solches Begehren eine rechtskräftige Entscheidung getroffen hat und
+
+3. sofern der Beklagte dies in dem ersten Termin nach Entstehung der Einrede vor Beginn der mündlichen Verhandlung zur Hauptsache rügt.
+
+(2) Erhebt der Beklagte eine Einrede nach Absatz 1, kann das Gericht anordnen, dass die Verhandlung bis zur Erledigung des Verfahrens vor dem Einheitlichen Patentgericht auszusetzen sei.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für ergänzende Schutzzertifikate.
+
+(4) Die Absätze 1 und 2 gelten nicht für vorläufige oder sichernde Maßnahmen.
+
+# § 19 – Anwendung der Zivilprozessordnung für die Zwangsvollstreckung aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts
+
+(1) Aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts gemäß Artikel 82 des Übereinkommens über ein Einheitliches Patentgericht, deren Vollstreckung das Einheitliche Patentgericht angeordnet hat, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf. Die Vorschriften über die Zwangsvollstreckung inländischer Entscheidungen sind entsprechend anzuwenden, soweit nicht in den Absätzen 3 und 4 abweichende Vorschriften enthalten sind.
+
+(2) Die Zwangsvollstreckung darf nur beginnen, wenn der Eintritt der für die Vollstreckung erforderlichen Voraussetzungen durch Urkunden belegt ist, die in deutscher Sprache errichtet oder in die deutsche Sprache übersetzt wurden. Die Übersetzung ist von einer in einem Mitgliedstaat der Europäischen Union hierzu befugten Person zu erstellen. Die Kosten der Übersetzung trägt der Vollstreckungsgläubiger.
+
+(3) An die Stelle des Prozessgerichts des ersten Rechtszuges im Sinne des § 767 Absatz 1, des § 887 Absatz 1, des § 888 Absatz 1 Satz 1 und des § 890 Absatz 1 der Zivilprozessordnung tritt ohne Rücksicht auf den Streitwert das Landgericht, in dessen Bezirk der Schuldner seinen Wohnsitz hat, oder, wenn er im Inland keinen Wohnsitz hat, in dessen Bezirk die Zwangsvollstreckung stattfinden soll oder stattgefunden hat. Der Sitz von Gesellschaften oder juristischen Personen steht dem Wohnsitz gleich. Haben die Länder die Zuständigkeit für Patentstreitsachen nach § 143 Absatz 2 des Patentgesetzes bestimmten Landgerichten zugewiesen, so gilt diese Zuweisung für die Bestimmung des nach Satz 1 zuständigen Landgerichts sinngemäß.
+
+(4) Richtet sich die Klage nach § 767 der Zivilprozessordnung in Verbindung mit Absatz 1 Satz 2 gegen die Vollstreckung aus einem gerichtlichen Vergleich, ist § 767 Absatz 2 der Zivilprozessordnung nicht anzuwenden.
+
+# § 20 – Anwendung der Justizbeitreibungsordnung für die Beitreibung von Ansprüchen des Einheitlichen Patentgerichts
+
+(1) Die Vorschriften der Justizbeitreibungsordnung sind auf die Beitreibung von Ordnungs- und Zwangsgeldern sowie der sonstigen dem § 1 Absatz 1 der Justizbeitreibungsordnung entsprechenden Ansprüche des Einheitlichen Patentgerichts entsprechend anwendbar.
+
+(2) Vollstreckungsbehörde für Ansprüche nach Absatz 1 ist das Bundesamt für Justiz.
 
 # § 1 – Das Deutsche Patent- und Markenamt als Anmeldeamt
 
@@ -216,3 +266,7 @@ für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt be
 # § 4
 
 Für europäische Patente, für die der Hinweis auf die Erteilung vor dem 1. Mai 2008 im Europäischen Patentblatt veröffentlicht worden ist, bleiben Artikel II § 3 dieses Gesetzes, § 2 Abs. 1 des Patentkostengesetzes vom 13. Dezember 2001 (BGBl. I S. 3656), die Verordnung über die Übertragung der Ermächtigung nach Artikel II § 3 Abs. 6 des Gesetzes über internationale Patentübereinkommen vom 1. Juni 1992 (BGBl. 1992 II S. 375) und die Verordnung über die Übersetzungen europäischer Patentschriften vom 2. Juni 1992 (BGBl. 1992 II S. 395) jeweils in den Fassungen anwendbar, die im Zeitpunkt der Veröffentlichung des Hinweises gegolten haben.
+
+# § 5
+
+Artikel II §§ 8 und 18 in der ab dem Inkrafttreten nach Artikel 3 Absatz 2 des Gesetzes zur Anpassung patentrechtlicher Vorschriften auf Grund der europäischen Patentreform vom 20. August 2021 (BGBl. I S. 3914) geltenden Fassung gilt nur für nationale Patente, deren Erteilung ab dem Tag des Inkrafttretens im Patentblatt veröffentlicht worden ist. Für die nationalen Patente, deren Erteilung vor dem Tag des Inkrafttretens nach Satz 1 im Patentblatt veröffentlicht worden ist, gilt Artikel II § 8 in der bis zum Inkrafttreten nach Satz 1 geltenden Fassung.

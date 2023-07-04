@@ -5569,30 +5569,6 @@ Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die Arbeitsuchen
 
 9. einen in allgemeiner Form gehaltenen Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Arbeitsverhältnis anzuwenden sind und
 
-10. die Möglichkeit, die Beratungsdienste der Sozialpartner und staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens beispielhaft die Beratungsstellen nach § 23a des Arbeitnehmer-Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der erwähnten Beratungsdienste anzugeben.
-
-# § 299 – Informationspflicht bei grenzüberschreitender Vermittlung
-
-Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die Arbeitsuchende oder den Arbeitsuchenden vor Abschluss des Arbeitsvertrages in schriftlicher Form und auf seine Kosten in der eigenen Sprache der oder des Arbeitsuchenden oder in einer Sprache, die die oder der Arbeitsuchende versteht, zu informieren über:
-
-1. den Namen und die Anschrift des Arbeitgebers,
-
-2. den vorgesehenen Zeitpunkt des Beginns und die vorgesehene Dauer des Arbeitsverhältnisses,
-
-3. den Arbeitsort oder, falls die Arbeitnehmerin oder der Arbeitnehmer nicht nur an einem bestimmten Arbeitsort tätig sein soll, einen Hinweis, dass die Arbeitnehmerin oder der Arbeitnehmer an verschiedenen Orten beschäftigt werden kann,
-
-4. die zu leistende Tätigkeit,
-
-5. die vertragliche Arbeitszeit,
-
-6. das vertragliche Arbeitsentgelt, einschließlich vorgesehener Abzüge,
-
-7. die Dauer des vertraglichen Erholungsurlaubs,
-
-8. die Fristen für die Kündigung des Arbeitsverhältnisses,
-
-9. einen in allgemeiner Form gehaltenen Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Arbeitsverhältnis anzuwenden sind und
-
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der erwähnten Beratungsdienste anzugeben.
 
 # § 300 – (weggefallen)
