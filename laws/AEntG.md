@@ -17,7 +17,7 @@ Ziele des Gesetzes sind die Schaffung und Durchsetzung angemessener Mindestarbei
 
 2. der bezahlte Mindestjahresurlaub,
 
-3. die Höchstarbeitszeiten und Mindestruhezeiten,
+3. die Höchstarbeitszeiten, Mindestruhezeiten und Ruhepausenzeiten,
 
 4. die Bedingungen für die Überlassung von Arbeitskräften, insbesondere durch Leiharbeitsunternehmen,
 
@@ -139,7 +139,7 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 # § 7a – Rechtsverordnung für die Fälle des § 4 Absatz 2
 
-(1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne von § 4 Absatz 2 und § 5 kann das Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf alle unter seinen Geltungsbereich fallenden und nicht an ihn gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen Anwendung finden, wenn dies im öffentlichen Interesse geboten erscheint, um die in § 1 genannten Gesetzesziele zu erreichen und dabei insbesondere einem Verdrängungswettbewerb über die Lohnkosten entgegenzuwirken. Satz 1 gilt nicht für tarifvertragliche Arbeitsbedingungen nach § 5 Satz 1 Nummer 1a. Eine Rechtsverordnung, deren Geltungsbereich die Pflegebranche (§ 10) erfasst, erlässt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit ohne Zustimmung des Bundesrates. Im Fall einer Rechtsverordnung nach Satz 2 sind auch die in Absatz 1a genannten Voraussetzungen zu erfüllen und die in § 11 Absatz 2 genannten Gesetzesziele zu berücksichtigen.
+(1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne von § 4 Absatz 2 und § 5 kann das Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf alle unter seinen Geltungsbereich fallenden und nicht an ihn gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen Anwendung finden, wenn dies im öffentlichen Interesse geboten erscheint, um die in § 1 genannten Gesetzesziele zu erreichen und dabei insbesondere einem Verdrängungswettbewerb über die Lohnkosten entgegenzuwirken. Satz 1 gilt nicht für tarifvertragliche Arbeitsbedingungen nach § 5 Satz 1 Nummer 1a. Eine Rechtsverordnung, deren Geltungsbereich die Pflegebranche (§ 10) erfasst, erlässt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit ohne Zustimmung des Bundesrates. Im Fall einer Rechtsverordnung nach Satz 3 sind auch die in Absatz 1a genannten Voraussetzungen zu erfüllen und die in § 11 Absatz 2 genannten Gesetzesziele zu berücksichtigen.
 
 (1a) Vor Abschluss eines Tarifvertrages nach Absatz 1, dessen Geltungsbereich die Pflegebranche erfasst, gibt das Bundesministerium für Arbeit und Soziales auf gemeinsame Mitteilung der Tarifvertragsparteien bekannt, dass Verhandlungen über einen derartigen Tarifvertrag aufgenommen worden sind. Religionsgesellschaften, in deren Bereichen paritätisch besetzte Kommissionen zur Festlegung von Arbeitsbedingungen auf der Grundlage kirchlichen Rechts für den Bereich kirchlicher Arbeitgeber in der Pflegebranche gebildet sind, können dem Bundesministerium für Arbeit und Soziales innerhalb von drei Wochen ab der Bekanntmachung jeweils eine in ihrem Bereich gebildete Kommission benennen, die von den Tarifvertragsparteien zu dem voraussichtlichen Inhalt des Tarifvertrages angehört wird. Die Anhörung erfolgt mündlich, wenn dies die jeweilige Kommission verlangt oder die Tarifvertragsparteien verlangen. Der Antrag nach Absatz 1 erfordert die schriftliche Zustimmung von mindestens zwei nach Satz 2 benannten Kommissionen. Diese Kommissionen müssen in den Bereichen von Religionsgesellschaften gebildet sein, in deren Bereichen insgesamt mindestens zwei Drittel aller in der Pflegebranche im Bereich von Religionsgesellschaften beschäftigten Arbeitnehmer beschäftigt sind. Mit der Zustimmung einer Kommission werden etwaige Mängel im Zusammenhang mit deren Anhörung geheilt.
 
@@ -319,6 +319,12 @@ Der Arbeitnehmer oder die Arbeitnehmerin übt die Tätigkeit am gleichen Ort im 
 
 2. im Rahmen derselben Dienst- oder Werkverträge wie der Arbeitnehmer oder die Arbeitnehmerin, den oder die er oder sie ersetzt, an anderen für diese Dienst- oder Werkverträge vorgegebenen Anschriften tätig ist.
 
+(8) Wird ein Arbeitnehmer oder eine Arbeitnehmerin von einem Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums als Fahrer oder Fahrerin oder Beifahrer oder Beifahrerin (Kraftfahrer oder Kraftfahrerin) nach § 36 Absatz 1 im Inland beschäftigt, werden zur Berechnung der Beschäftigungsdauer im Inland die Zeiten dieser Beschäftigung
+
+1. abweichend von Absatz 5 nicht mit den Zeiten einer unmittelbar anschließenden Beschäftigung im Inland zusammengerechnet,
+
+2. abweichend von Absatz 7 nicht mit den Beschäftigungszeiten des ersetzten Kraftfahrers oder der ersetzten Kraftfahrerin zusammengerechnet.
+
 # § 14 – Haftung des Auftraggebers
 
 Ein Unternehmer, der einen anderen Unternehmer mit der Erbringung von Werk- oder Dienstleistungen beauftragt, haftet für die Verpflichtungen dieses Unternehmers, eines Nachunternehmers oder eines von dem Unternehmer oder einem Nachunternehmer beauftragten Verleihers zur Zahlung des Mindestentgelts an Arbeitnehmer oder Arbeitnehmerinnen oder zur Zahlung von Beiträgen an eine gemeinsame Einrichtung der Tarifvertragsparteien nach § 8 wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Das Mindestentgelt im Sinne des Satzes 1 umfasst nur den Betrag, der nach Abzug der Steuern und der Beiträge zur Sozialversicherung und zur Arbeitsförderung oder entsprechender Aufwendungen zur sozialen Sicherung an Arbeitnehmer oder Arbeitnehmerinnen auszuzahlen ist (Nettoentgelt).
@@ -384,9 +390,25 @@ Die §§ 16 bis 19 des Schwarzarbeitsbekämpfungsgesetzes finden Anwendung. § 6
 
 Änderungen bezüglich dieser Angaben hat der Arbeitgeber im Sinne des Satzes 1 unverzüglich zu melden.
 
-(2) Der Arbeitgeber hat der Anmeldung eine Versicherung beizufügen, dass er seine Verpflichtungen nach § 8 einhält.
+(2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums verpflichtet, der zuständigen Behörde der Zollverwaltung vor Beginn der Beschäftigung eines Kraftfahrers oder einer Kraftfahrerin für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 eine Anmeldung mit folgenden Angaben elektronisch zuzuleiten:
 
-(3) Überlässt ein Verleiher mit Sitz im Ausland einen Arbeitnehmer oder eine Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen zur Arbeitsleistung einem Entleiher, hat der Entleiher unter den Voraussetzungen des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
+1. Identität des Unternehmens, sofern diese verfügbar ist in Form der Nummer der Gemeinschaftslizenz,
+
+2. Familienname und Vorname sowie Anschrift im Niederlassungsstaat eines oder einer Zustellungsbevollmächtigten,
+
+3. Familienname, Vorname, Geburtsdatum, Anschrift und Führerscheinnummer des Kraftfahrers oder der Kraftfahrerin,
+
+4. Beginn des Arbeitsvertrags des Kraftfahrers oder der Kraftfahrerin und das auf diesen Vertrag anwendbare Recht,
+
+5. voraussichtlicher Beginn und voraussichtliches Ende der Beschäftigung des Kraftfahrers oder der Kraftfahrerin im Inland,
+
+6. amtliche Kennzeichen der für die Beschäftigung im Inland einzusetzenden Kraftfahrzeuge,
+
+7. ob es sich bei den von dem Kraftfahrer oder der Kraftfahrerin zu erbringenden Verkehrsdienstleistungen um Güterbeförderung oder Personenbeförderung und grenzüberschreitende Beförderung oder Kabotage handelt;
+
+die Anmeldung ist mittels der elektronischen Schnittstelle des Binnenmarkt-Informationssystems nach Artikel 1 in Verbindung mit Artikel 5 Buchstabe a der Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission („IMI-Verordnung“) (ABI. L 316 vom 14.11.2012, S. 1), die zuletzt durch die Verordnung (EU) 2020/1055 (ABI. L 249 vom 31.7.2020, S. 17) geändert worden ist, zuzuleiten. Absatz 1 Satz 3 gilt entsprechend.
+
+(3) Überlässt ein Verleiher mit Sitz im Ausland einen Arbeitnehmer oder eine Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen zur Arbeitsleistung einem Entleiher, hat der Verleiher unter den Voraussetzungen des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
 
 1. Familienname, Vornamen und Geburtsdatum der überlassenen Arbeitnehmer und Arbeitnehmerinnen,
 
@@ -400,13 +422,11 @@ Die §§ 16 bis 19 des Schwarzarbeitsbekämpfungsgesetzes finden Anwendung. § 6
 
 6. Branche, in die die Arbeitnehmer und Arbeitnehmerinnen entsandt werden sollen, und
 
-7. Familienname, Vornamen oder Firma sowie Anschrift des Verleihers.
+7. Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
 
 Absatz 1 Satz 3 gilt entsprechend.
 
-(4) Der Entleiher hat der Anmeldung eine Versicherung des Verleihers beizufügen, dass dieser seine Verpflichtungen nach § 8 einhält.
-
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
 
 1. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen eine Anmeldung, Änderungsmeldung und Versicherung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3 Satz 1 und 2 und Absatz 4 elektronisch übermittelt werden kann,
 
@@ -414,7 +434,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 3. wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die entsandten Arbeitnehmer und Arbeitnehmerinnen im Rahmen einer regelmäßig wiederkehrenden Werk- oder Dienstleistung eingesetzt werden oder sonstige Besonderheiten der zu erbringenden Werk- oder Dienstleistungen dies erfordern.
 
-(6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)  
 (+++ § 18 Abs. 1 bis 4: Zur Anwendung vgl. § 1 Abs. 2 MiLoDokV +++)
@@ -425,7 +445,29 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Jeder Arbeitgeber ist verpflichtet, die für die Kontrolle von Arbeitsbedingungen, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung kontrolliert wird, erforderlichen Unterlagen im Inland für die gesamte Dauer der tatsächlichen Beschäftigung der Arbeitnehmer und Arbeitnehmerinnen im Geltungsbereich dieses Gesetzes, mindestens für die Dauer der gesamten Werk- oder Dienstleistung, insgesamt jedoch nicht länger als zwei Jahre in deutscher Sprache bereitzuhalten. Auf Verlangen der Prüfbehörde sind die Unterlagen auch am Ort der Beschäftigung bereitzuhalten, bei Bauleistungen auf der Baustelle.
 
-(3) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verpflichtungen des Arbeitgebers oder eines Entleihers nach § 18 und den Absätzen 1 und 2 hinsichtlich einzelner Branchen oder Gruppen von Arbeitnehmern und Arbeitnehmerinnen einschränken.
+(2a) Abweichend von Absatz 2 hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums sicherzustellen, dass dem Kraftfahrer oder der Kraftfahrerin, der oder die von ihm für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 beschäftigt wird, die folgenden Unterlagen als Schriftstück oder in einem elektronischen Format zur Verfügung stehen:
+
+1. eine Kopie der nach § 18 Absatz 2 zugeleiteten Anmeldung,
+
+2. die Nachweise über die Beförderungen, insbesondere elektronische Frachtbriefe oder die in Artikel 8 Absatz 3 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72), die zuletzt durch die Verordnung (EU) 2020/1055 (ABI. L 249 vom 31.7.2020, S. 17) geändert worden ist, genannten Belege und
+
+3. alle Aufzeichnungen des Fahrtenschreibers, insbesondere die in Artikel 34 Absatz 6 Buchstabe f und Absatz 7 der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 93 vom 9.4.2015, S. 103; L 246 vom 23.9.2015, S. 11), die zuletzt durch die Verordnung (EU) 2020/1054 (ABI. L 249 vom 31.7.2020, S. 1) geändert worden ist, genannten Ländersymbole der Mitgliedstaaten, in denen sich der Kraftfahrer oder die Kraftfahrerin bei grenzüberschreitenden Beförderungen und Kabotagebeförderungen aufgehalten hat, oder die Aufzeichnungen nach § 1 Absatz 6 Satz 1 und 2 der Fahrpersonalverordnung vom 27. Juni 2005 (BGBl. I S. 1882), die zuletzt durch Artikel 1 der Verordnung vom 8. August 2017 (BGBl. I S. 3158) geändert worden ist.
+
+Der Kraftfahrer oder die Kraftfahrerin hat im Falle einer Beschäftigung im Inland nach § 36 Absatz 1 die ihm oder ihr nach Satz 1 zur Verfügung gestellten Unterlagen mit sich zu führen und den Behörden der Zollverwaltung auf Verlangen als Schriftstück oder in einem elektronischen Format vorzulegen; liegt keine Beschäftigung im Inland nach § 36 Absatz 1 vor, gilt die Pflicht nach dem ersten Halbsatz nur im Rahmen einer auf der Straße vorgenommenen Kontrolle für die Unterlagen nach Satz 1 Nummer 2 und 3.
+
+(2b) Nach Beendigung eines Beschäftigungszeitraums des Kraftfahrers oder der Kraftfahrerin im Inland nach § 36 Absatz 1 hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums den Behörden der Zollverwaltung auf Verlangen über die mit dem Binnenmarkt-Informationssystem verbundene elektronische Schnittstelle folgende Unterlagen innerhalb von acht Wochen ab dem Tag des Verlangens zu übermitteln:
+
+1. Kopien der Unterlagen nach Absatz 2a Satz 1 Nummer 2 und 3,
+
+2. Unterlagen über die Entlohnung des Kraftfahrers oder der Kraftfahrerin einschließlich der Zahlungsbelege,
+
+3. den Arbeitsvertrag oder gleichwertige Unterlagen im Sinne des Artikels 3 Absatz 1 der Richtlinie 91/533/EWG des Rates vom 14. Oktober 1991 über die Pflicht des Arbeitgebers zur Unterrichtung des Arbeitnehmers über die für seinen Arbeitsvertrag oder sein Arbeitsverhältnis geltenden Bedingungen (ABl. L 288 vom 18.10.1991, S. 32) und
+
+4. Unterlagen über die Zeiterfassung, die sich auf die Arbeit des Kraftfahrers oder der Kraftfahrerin beziehen, insbesondere die Aufzeichnungen des Fahrtenschreibers.
+
+Die Behörden der Zollverwaltung dürfen die Unterlagen nach Satz 1 nur für den Zeitraum der Beschäftigung nach § 36 Absatz 1 verlangen, der zum Zeitpunkt des Verlangens beendet ist. Soweit eine Anmeldung nach § 18 Absatz 2 nicht zugeleitet wurde, obwohl eine Beschäftigung im Inland nach § 36 Absatz 1 vorliegt, hat der Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums den Behörden der Zollverwaltung auf Verlangen die Unterlagen nach Satz 1 außerhalb der mit dem Binnenmarkt-Informationssystem verbundenen elektronischen Schnittstelle als Schriftstück oder in einem elektronischen Format zu übermitteln.
+
+(3) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verpflichtungen des Arbeitgebers, des Verleihers oder eines Entleihers nach § 18 und den Absätzen 1 und 2 hinsichtlich einzelner Branchen oder Gruppen von Arbeitnehmern und Arbeitnehmerinnen einschränken.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen, wie die Verpflichtung des Arbeitgebers, die tägliche sowie die zuschlagsbezogene Arbeitszeit bei ihm beschäftigter Arbeitnehmer und Arbeitnehmerinnen aufzuzeichnen und diese Aufzeichnungen aufzubewahren, vereinfacht oder abgewandelt werden kann, sofern Besonderheiten der zu erbringenden Werk- oder Dienstleistungen oder Besonderheiten der Branche dies erfordern.
 
@@ -434,7 +476,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 # § 20 – Zusammenarbeit der in- und ausländischen Behörden
 
-(1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 18 Abs. 1 und 3.
+(1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 18 Abs. 1 und 3. Auf die Informationen zu den Meldungen nach § 18 Absatz 2 können die Landesfinanzbehörden über das Binnenmarkt-Informationssystem zugreifen.
 
 (2) Die Behörden der Zollverwaltung und die übrigen in § 2 des Schwarzarbeitsbekämpfungsgesetzes genannten Behörden dürfen nach Maßgabe der datenschutzrechtlichen Vorschriften auch mit Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammenarbeiten, die diesem Gesetz entsprechende Aufgaben durchführen oder für die Bekämpfung illegaler Beschäftigung zuständig sind oder Auskünfte geben können, ob ein Arbeitgeber seine Verpflichtungen nach § 8 erfüllt. Die Regelungen über die internationale Rechtshilfe in Strafsachen bleiben hiervon unberührt.
 
@@ -444,11 +486,11 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 # § 21 – Ausschluss von der Vergabe öffentlicher Aufträge
 
-(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
+(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
 
-(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
+(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
 
-(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregisters Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Abs. 1 oder 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
+(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregisters Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
 
 (4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für den Bewerber oder die Bewerberin, der oder die den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
 
@@ -470,15 +512,19 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 4. entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 5 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
-5. entgegen § 18 Abs. 1 Satz 1 oder Abs. 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
+5. entgegen § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
 
-6. entgegen § 18 Abs. 1 Satz 3, auch in Verbindung mit Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+6. entgegen § 18 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2 oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-7. entgegen § 18 Abs. 2 oder 4 eine Versicherung nicht, nicht richtig oder nicht rechtzeitig beifügt,
+7. entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt,
 
-8. entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt oder
+8. entgegen § 19 Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
-9. entgegen § 19 Abs. 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
+9. entgegen § 19 Absatz 2a Satz 1 nicht sicherstellt, dass die dort genannten Unterlagen zur Verfügung stehen,
+
+10. entgegen § 19 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder
+
+11. entgegen § 19 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 (2) Ordnungswidrig handelt, wer Werk- oder Dienstleistungen in erheblichem Umfang ausführen lässt, indem er als Unternehmer einen anderen Unternehmer beauftragt, von dem er weiß oder fahrlässig nicht weiß, dass dieser bei der Erfüllung dieses Auftrags
 
@@ -494,7 +540,113 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-# § 23a – Leistungsanspruch
+# § 24 – Anwendungsbereich
+
+Dieser Abschnitt regelt die Behandlung von Ersuchen eines anderen Mitgliedstaats oder an einen anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums nach Maßgabe von Kapitel VI der Richtlinie 2014/67/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Durchsetzung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems („IMI-Verordnung“) (ABl. L 159 vom 28.5.2014, S. 11) um
+
+1. die Zustellung von Dokumenten oder die Vollstreckung von finanziellen Verwaltungssanktionen oder Geldbußen einschließlich Gebühren und Zuschlägen, die einem Arbeitgeber mit Sitz im Inland auferlegt wurden wegen des Verstoßes gegen die auf die Entsendung von Arbeitnehmern und Arbeitnehmerinnen anzuwendenden Rechtsvorschriften eines anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums (eingehende Ersuchen),
+
+2. die Zustellung von Dokumenten oder die Vollstreckung von Geldbußen, die einem Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums auferlegt wurden wegen des Verstoßes gegen die auf die Entsendung von Arbeitnehmern und Arbeitnehmerinnen im Inland anzuwendenden Rechtsvorschriften (ausgehende Ersuchen).
+
+Regelungen zur Behandlung von Ersuchen um Zustellung von Dokumenten oder um Vollstreckung von finanziellen Verwaltungssanktionen oder Geldbußen in anderen Gesetzen oder völkerrechtlichen Verträgen gehen vor.
+
+# § 25 – Zuständigkeit
+
+(1) Zentrale Behörde im Sinne dieses Abschnitts ist die Bundesstelle Vollstreckung Zoll beim Hauptzollamt Hannover.
+
+(2) Die für die Zustellung und Vollstreckung im Inland zuständigen Behörden (Vollstreckungsbehörden) im Sinne dieses Abschnitts sind für eingehende Ersuchen die nach § 23 Absatz 4 zuständigen Stellen. Für ausgehende Ersuchen gilt die jeweilige Zuständigkeit.
+
+(3) Die zentrale Behörde und die Vollstreckungsbehörden stellen sich die Informationen, die zur Bearbeitung eingehender und ausgehender Ersuchen erforderlich sind, unverzüglich wechselseitig zur Verfügung.
+
+# § 26 – Binnenmarkt-Informationssystem
+
+Für die grenzüberschreitende Bearbeitung eingehender und ausgehender Ersuchen verwendet die zentrale Behörde das Binnenmarkt-Informationssystem nach der Verordnung (EU) Nr. 1024/2012.
+
+# § 27 – Inhalt ausgehender Ersuchen
+
+Ausgehende Ersuchen müssen mindestens folgende Angaben enthalten:
+
+1. Name und Anschrift des Vollstreckungsschuldners oder Empfängers sowie weitere Daten, soweit diese zur Identifizierung des Vollstreckungsschuldners oder Empfängers erforderlich sind,
+
+2. eine Zusammenfassung des Sachverhalts und der Umstände des Verstoßes, der Art der Zuwiderhandlung und der einschlägigen geltenden Vorschriften,
+
+3. das Original der zu vollstreckenden Entscheidung, um deren Zustellung oder Vollstreckung ersucht wird, oder eine beglaubigte Abschrift hiervon und alle sonstigen relevanten Informationen oder Dokumente auch gerichtlicher Art bezüglich der zugrunde liegenden Geldbuße,
+
+4. Name, Anschrift und sonstige Kontaktdaten
+
+a) der für die Entscheidung über die Geldbuße zuständigen Stelle und
+
+b) der zuständigen Stelle, bei der weitere Informationen über die Geldbuße oder die Möglichkeiten zur Anfechtung der Zahlungsverpflichtung oder der einschlägigen Entscheidung eingeholt werden können, falls diese Stelle nicht mit der in Buchstabe a genannten Stelle identisch ist,
+
+5. im Fall eines Ersuchens um die Zustellung von Dokumenten den Gegenstand der Zustellung und die Frist für die Erledigung der Zustellung,
+
+6. im Fall eines Ersuchens um die Vollstreckung einer Verwaltungssanktion oder Geldbuße
+
+a) das Datum, an dem die Entscheidung rechtskräftig wurde,
+
+b) eine Angabe der Art und der Höhe der Verwaltungssanktion oder der Geldbuße,
+
+c) alle für das Vollstreckungsverfahren sachdienlichen Daten, einschließlich der Information, ob und gegebenenfalls wie die Entscheidung dem oder den Betroffenen zugestellt wurde und ob es sich um eine Versäumnisentscheidung handelt,
+
+d) eine Bestätigung der ersuchenden Behörde, dass gegen die Verwaltungssanktion oder die Geldbuße keine weiteren Rechtsmittel eingelegt werden können, sowie
+
+e) die dem Ersuchen zugrunde liegende Forderung und deren verschiedene Bestandteile.
+
+# § 28 – Behandlung ausgehender Ersuchen
+
+(1) Ausgehende Ersuchen werden von der Vollstreckungsbehörde nach Prüfung der Voraussetzungen nach den Absätzen 2 und 3 erstellt. Sie werden durch die zentrale Behörde an die zuständige Behörde eines anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums weitergeleitet.
+
+(2) Die zuständige Behörde eines anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums kann um die Zustellung aller Dokumente ersucht werden, die für die Festsetzung einer Geldbuße wegen eines Verstoßes gegen die auf die Entsendung von Arbeitnehmern und Arbeitnehmerinnen im Inland anzuwendenden Rechtsvorschriften oder deren Vollstreckung erforderlich sind. Ein Zustellungsersuchen nach Satz 1 darf nur dann erfolgen, wenn es der inländischen Vollstreckungsbehörde nicht möglich ist, das betreffende Dokument selbst zuzustellen.
+
+(3) Die zuständige Behörde eines anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums kann um Vollstreckung einer Geldbuße wegen eines Verstoßes gegen die auf die Entsendung von Arbeitnehmern und Arbeitnehmerinnen im Inland anzuwendenden Rechtsvorschriften ersucht werden, wenn
+
+1. die Voraussetzungen einer Vollstreckung im Inland gegeben wären,
+
+2. die Vollstreckung im Inland nicht möglich ist und
+
+3. die zu vollstreckende Geldbuße nicht angefochten ist oder nicht mehr angefochten werden kann.
+
+(4) Die zentrale Behörde informiert die zuständige Behörde des anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums unverzüglich, wenn
+
+1. ein außerordentlicher Rechtsbehelf gegen die zu vollstreckende Bußgeldentscheidung oder in Bezug auf das hierdurch rechtskräftig abgeschlossene Bußgeldverfahren eingelegt wird oder
+
+2. die inländische Vollstreckungsbehörde das ausgehende Ersuchen ändert oder zurücknimmt.
+
+(5) Wurde die zuständige Behörde eines anderen Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums um Vollstreckung ersucht, ist die Vollstreckung im Inland erst wieder zulässig, soweit das Ersuchen zurückgenommen worden ist oder soweit die ersuchte Behörde die Vollstreckung verweigert hat.
+
+# § 29 – Behandlung eingehender Ersuchen
+
+(1) Die zentrale Behörde leitet eingehende Ersuchen unverzüglich an die Vollstreckungsbehörde weiter. Die zentrale Behörde teilt der ersuchenden Behörde jeweils unverzüglich mit, wenn eine der in den Absätzen 2 bis 4 genannten Maßnahmen durchgeführt wurde. In diese Mitteilung ist insbesondere das Datum einer Zustellung nach Absatz 3 aufzunehmen.
+
+(2) Die Vollstreckungsbehörde ergreift die erforderlichen Maßnahmen zur Zustellung oder Vollstreckung der gemäß Absatz 1 Satz 1 weitergeleiteten Ersuchen und informiert die zentrale Behörde hierüber jeweils unverzüglich. Die Entscheidung über eine finanzielle Verwaltungssanktion oder Geldbuße, um deren Zustellung oder Vollstreckung ersucht wird, ist wie eine behördliche Bußgeldentscheidung gemäß § 23 Absatz 1 bis 3 zuzustellen und zu vollstrecken. Die Bundesrepublik Deutschland verzichtet gegenüber dem ersuchenden Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums auf jegliche Erstattung der Kosten der Zustellungs- und Vollstreckungshilfe nach diesem Gesetz.
+
+(3) Die Vollstreckungsbehörde ergreift unverzüglich, spätestens jedoch innerhalb eines Monats nach Eingang des Ersuchens bei der zentralen Behörde, alle Maßnahmen, die erforderlich sind, um dem Arbeitgeber mit Sitz im Inland alle Dokumente zuzustellen, die mit einer Entscheidung über eine finanzielle Verwaltungssanktion oder Geldbuße oder mit deren Vollstreckung zusammenhängen.
+
+(4) Erlangt die Vollstreckungsbehörde Kenntnis davon, dass gegen die zu vollstreckende Entscheidung oder in Bezug auf das hierdurch rechtskräftig abgeschlossene Bußgeldverfahren in dem ersuchenden Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums vom betroffenen Arbeitgeber oder von einer betroffenen Partei ein außerordentlicher Rechtsbehelf eingelegt wurde, setzt sie das Vollstreckungsverfahren bis zur Entscheidung über den außerordentlichen Rechtsbehelf aus.
+
+(5) Die Forderungen werden in Euro vollstreckt. Wenn der finanziellen Verwaltungssanktion oder der Geldbuße eine andere Währung zugrunde liegt, ist der geltende Wechselkurs der Europäischen Zentralbank zum Zeitpunkt der Festsetzung der finanziellen Verwaltungssanktion oder der Geldbuße maßgeblich. Der Erlös der Vollstreckung fließt in die Bundeskasse, wenn eine Verwaltungsbehörde des Bundes als Vollstreckungsbehörde tätig ist, anderenfalls in die jeweilige Landeskasse.
+
+(6) Die Einlegung von Rechtsmitteln gegen die Zustellung oder Vollstreckung einer finanziellen Verwaltungssanktion oder einer Geldbuße bestimmt sich nach den inländischen Zustellungs- und Vollstreckungsregelungen. Rechtsmittel gegen die Entscheidung, die der Zustellung oder der Vollstreckung zugrunde liegt, richten sich nach den Rechtsvorschriften des ersuchenden Mitgliedstaats der Europäischen Union oder des Europäischen Wirtschaftsraums.
+
+# § 30 – Ablehnung eingehender Ersuchen
+
+(1) Die ersuchte Vollstreckungsbehörde oder die zentrale Behörde kann ein eingehendes Ersuchen ablehnen, wenn
+
+1. das Ersuchen nicht die für ausgehende Ersuchen geforderten Angaben gemäß § 27 enthält oder
+
+2. das Ersuchen offenkundig nicht mit der zugrunde liegenden Entscheidung übereinstimmt.
+
+(2) Die ersuchte Vollstreckungsbehörde oder die zentrale Behörde kann ein eingehendes Ersuchen um Vollstreckung darüber hinaus ablehnen, wenn
+
+1. die voraussichtlichen Kosten oder Mittel der Vollstreckung zur Höhe der zu vollstreckenden Verwaltungssanktion oder Geldbuße offensichtlich außer Verhältnis stehen,
+
+2. die zu vollstreckende Verwaltungssanktion oder die Geldbuße oder ihr Gegenwert in Euro weniger als 350 Euro beträgt oder
+
+3. die Vollstreckung mit Grundrechten des oder der Betroffenen oder mit sonstigen verfassungsrechtlichen Rechtsgrundsätzen zum Schutz des oder der Betroffenen nicht vereinbar wäre.
+
+(3) Die Vollstreckungsbehörde teilt die Ablehnung eines eingehenden Ersuchens einschließlich ihrer Begründung unverzüglich der zentralen Behörde mit. Die zentrale Behörde informiert unverzüglich die ersuchende Behörde. Vor der Ablehnung eines eingehenden Ersuchens nach Absatz 1 Nummer 1 oder 2 gibt die zentrale Behörde der ersuchenden Behörde mit einer Frist von einem Monat die Gelegenheit zur Übermittlung der fehlenden Angaben oder zur Vervollständigung des Ersuchens.
+
+# § 31 – Leistungsanspruch
 
 (1) Der Deutsche Gewerkschaftsbund hat für den Aufbau und die Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen Themen sowie für die in diesem Zusammenhang erfolgende Entwicklung und Bereitstellung von Fortbildungsangeboten und Informationsmaterialien einen kalenderjährlichen Anspruch in Höhe von bis zu 3,996 Millionen Euro aus Mitteln des Bundes.
 
@@ -520,7 +672,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (9) Das Beratungs- und Informationsangebot wird bis zum 31. Dezember 2025 durch das Bundesministerium für Arbeit und Soziales evaluiert.
 
-# § 23b – Verordnungsermächtigung
+# § 32 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -532,13 +684,13 @@ Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, 
 
 4. das Nähere zur Kontrolle der Mittelverwendung.
 
-# § 23c – Informationspflicht bei Anwerbung aus dem Ausland
+# § 33 – Informationspflicht bei Anwerbung aus dem Ausland
 
-Ein Arbeitgeber mit Sitz im Inland, der mit einem Unionsbürger nach § 23a Absatz 2 Nummer 1 mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland zur Arbeitsleistung im Inland einen Arbeitsvertrag abschließt, hat diesen spätestens am ersten Tag der Arbeitsleistung in Textform auf die Möglichkeit hinzuweisen, die Dienste der Beratungsstellen nach § 23a in Anspruch zu nehmen, und die aktuellen Kontaktdaten der Beratungsstelle anzugeben. Sofern der Arbeitnehmer dem Arbeitgeber vermittelt wurde und eine Informationspflicht des Vermittlers nach § 299 des Dritten Buches Sozialgesetzbuch dem Arbeitnehmer gegenüber besteht, entfällt die Hinweispflicht.
+Ein Arbeitgeber mit Sitz im Inland, der mit einem Unionsbürger nach § 31 Absatz 2 Nummer 1 mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland zur Arbeitsleistung im Inland einen Arbeitsvertrag abschließt, hat diesen spätestens am ersten Tag der Arbeitsleistung in Textform auf die Möglichkeit hinzuweisen, die Dienste der Beratungsstellen nach § 31 in Anspruch zu nehmen, und die aktuellen Kontaktdaten der Beratungsstelle anzugeben. Sofern der Arbeitnehmer dem Arbeitgeber vermittelt wurde und eine Informationspflicht des Vermittlers nach § 299 des Dritten Buches Sozialgesetzbuch dem Arbeitnehmer gegenüber besteht, entfällt die Hinweispflicht.
 
-# § 24 – Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+# § 34 – Erstmontage- und Einbauarbeiten
 
-(1) Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind auf Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im Inland beschäftigt werden, nicht anzuwenden, wenn
+Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind auf Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im Inland beschäftigt werden, nicht anzuwenden, wenn
 
 1. die Arbeitnehmer und Arbeitnehmerinnen Erstmontage- oder Einbauarbeiten erbringen, die
 
@@ -552,7 +704,9 @@ c) von Facharbeitern oder Facharbeiterinnen oder angelernten Arbeitern oder Arbe
 
 Satz 1 gilt nicht für Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Buches Sozialgesetzbuch.
 
-(2) Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 4 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind nicht anzuwenden auf Arbeitnehmer und Arbeitnehmerinnen sowie Leiharbeitnehmer und Leiharbeitnehmerinnen, die von Arbeitgebern oder Entleihern mit Sitz im Ausland vorübergehend im Inland beschäftigt werden und, ohne im Inland Werk- oder Dienstleistungen für ihren Arbeitgeber gegenüber Dritten zu erbringen,
+# § 35 – Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
+
+Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 4 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind nicht anzuwenden auf Arbeitnehmer und Arbeitnehmerinnen sowie Leiharbeitnehmer und Leiharbeitnehmerinnen, die von Arbeitgebern oder Entleihern mit Sitz im Ausland vorübergehend im Inland beschäftigt werden und, ohne im Inland Werk- oder Dienstleistungen für ihren Arbeitgeber gegenüber Dritten zu erbringen,
 
 1. für ihren Arbeitgeber Besprechungen oder Verhandlungen im Inland führen, Vertragsangebote erstellen oder Verträge schließen,
 
@@ -564,20 +718,68 @@ Satz 1 gilt nicht für Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Bu
 
 Vorübergehend ist eine Beschäftigung, wenn der Arbeitnehmer oder die Arbeitnehmerin nicht mehr als 14 Tage ununterbrochen und nicht mehr als 30 Tage innerhalb eines Zeitraums von zwölf Monaten im Inland tätig ist.
 
-# § 25 – Übergangsbestimmungen für Langzeitentsendung
+# § 36 – Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
+
+(1) Die Arbeitsbedingungen nach den §§ 2, 5 und 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind auf jene Kraftfahrer oder Kraftfahrerinnen anzuwenden, die von Arbeitgebern mit Sitz im Ausland für die Durchführung von Güter- oder Personenbeförderungen im Inland im Rahmen einer Entsendung nach Artikel 1 Absatz 3 Buchstabe a der Richtlinie 96/71/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1996 über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen (ABl. L 18 vom 21.1.1997, S.1), die durch die Richtlinie (EU) 2018/957 (ABl. L 173 vom 9.7.2018, S.16; L 91 vom 29.3.2019, S. 77) geändert worden ist, beschäftigt werden. Im Sinne von Satz 1 im Inland beschäftigt werden Kraftfahrer und Kraftfahrerinnen insbesondere dann, wenn sie
+
+1. auf Grundlage eines Beförderungsvertrags innerstaatliche Beförderungen von Gütern oder Fahrgästen nach der Verordnung (EG) Nr. 1072/2009 oder der Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006 (ABl. L 300 vom 14.11.2009, S. 88), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, durchführen (Kabotage) oder
+
+2. auf Grundlage eines Beförderungsvertrags eine Beförderung von Gütern oder eine Beförderung von Fahrgästen aus einem anderen Staat als dem Niederlassungsstaat des Arbeitgebers mit Grenzübertritt in einen anderen Staat als dem Niederlassungsstaat des Arbeitgebers durchführen (trilaterale Beförderungen) und sich entweder der Ausgangspunkt oder der Bestimmungsort im Inland befindet.
+
+(2) Die §§ 37 bis 40 gelten nicht für Arbeitgeber mit Sitz in einem Drittstaat. Arbeitgeber, mit deren Niederlassungsstaat die Anwendung der Entsendevorschriften im Straßenverkehrssektor in einem völkerrechtlichen Vertrag mit Wirkung für die Bundesrepublik Deutschland geregelt ist, sind entsprechend dieser Regelungen in dem völkerrechtlichen Vertrag zu behandeln.
+
+# § 37 – Bilaterale Beförderung von Gütern
+
+(1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale Beförderungen von Gütern durchführen.
+
+(2) Bilaterale Beförderung von Gütern ist der Transport von Gütern auf Grundlage eines Beförderungsvertrags
+
+1. vom Niederlassungsmitgliedstaat des Arbeitgebers in einen anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums oder in einen Drittstaat oder
+
+2. von einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums oder von einem Drittstaat in den Niederlassungsmitgliedstaat des Arbeitgebers.
+
+(3) Nicht als im Inland beschäftigt gelten Kraftfahrer und Kraftfahrerinnen abweichend von § 36 Absatz 1 Satz 2 Nummer 2, wenn es sich um die erste trilaterale Beförderung von Gütern im Rahmen einer bilateralen Beförderung nach Absatz 2 handelt. Abweichend von Satz 1 gelten Kraftfahrer und Kraftfahrerinnen auch bei der zweiten trilateralen Beförderung von Gütern im Rahmen einer bilateralen Beförderung nicht als im Inland beschäftigt, wenn diese bilaterale Beförderung
+
+1. in den Niederlassungsmitgliedstaat erfolgt und
+
+2. sich ohne zwischenzeitliche Beförderungen an eine bilaterale Beförderung anschließt, die im Niederlassungsmitgliedstaat begann und während der keine trilaterale Beförderung durchgeführt wurde.
+
+(4) Ab dem Tag, ab dem Kraftfahrzeuge, die in einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums erstmals zugelassen werden, gemäß Artikel 8 Absatz 1 Unterabsatz 4 der Verordnung (EU) Nr. 165/2014 mit intelligenten Fahrtenschreibern ausgerüstet sein müssen, gelten die Ausnahmeregelungen des Absatzes 3 nur für Kraftfahrer und Kraftfahrerinnen, die Kraftfahrzeuge nutzen, die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der Verordnung (EU) Nr. 165/2014 ausgestattet sind.
+
+# § 38 – Bilaterale Beförderung von Personen
+
+(1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale Beförderungen von Fahrgästen durchführen.
+
+(2) Bilaterale Beförderung von Fahrgästen ist der Transport, bei dem ein Kraftfahrer oder eine Kraftfahrerin
+
+1. Fahrgäste im Niederlassungsmitgliedstaat des Arbeitgebers aufnimmt und in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums oder in einem Drittstaat wieder absetzt,
+
+2. Fahrgäste in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums oder in einem Drittstaat aufnimmt und sie im Niederlassungsmitgliedstaat des Arbeitgebers wieder absetzt oder
+
+3. Fahrgäste im Niederlassungsmitgliedstaat des Arbeitgebers aufnimmt und wieder absetzt, um örtliche Ausflüge in einen anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums oder in einen Drittstaat durchzuführen.
+
+(3) Nicht als im Inland beschäftigt gelten Kraftfahrer und Kraftfahrerinnen abweichend von § 36 Absatz 1 Satz 2 Nummer 2, wenn
+
+1. es sich um die erste trilaterale Beförderung im Rahmen einer bilateralen Beförderung nach Absatz 2 handelt und
+
+2. sie keine Beförderung von Fahrgästen zwischen zwei Orten innerhalb des Durchfuhrmitgliedstaats anbieten.
+
+(4) Ab dem Tag, ab dem Kraftfahrzeuge, die in einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums erstmals zugelassen werden, gemäß Artikel 8 Absatz 1 Unterabsatz 4 der Verordnung (EU) Nr. 165/2014 mit intelligenten Fahrtenschreibern ausgerüstet sein müssen, gelten die Ausnahmeregelungen des Absatzes 3 nur für Kraftfahrer und Kraftfahrerinnen, die Kraftfahrzeuge nutzen, die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der Verordnung (EU) Nr. 165/2014 ausgestattet sind.
+
+# § 39 – Kombinierter Verkehr
+
+Nicht als im Inland beschäftigt im Sinne von § 36 Absatz 1 gelten Kraftfahrer und Kraftfahrerinnen, wenn sie im kombinierten Verkehr im Sinne der Richtlinie 92/106/EWG des Rates vom 7. Dezember 1992 über die Festlegung gemeinsamer Regeln für bestimmte Beförderungen im kombinierten Güterverkehr zwischen Mitgliedstaaten (ABl. L 368 vom 17.12.1992, S. 38), die zuletzt durch die Richtlinie 2013/22/EU (ABl. L 158 vom 10.6.2013, S. 356) geändert worden ist, die Zu- oder Ablaufstrecke auf der Straße zurücklegen, sofern auf der Teilstrecke, die auf der Straße zurückgelegt wird, ausschließlich bilaterale Beförderungen von Gütern und zusätzliche Beförderungen nach § 37 durchgeführt werden.
+
+# § 40 – Transit
+
+Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten Kraftfahrer und Kraftfahrerinnen eines Arbeitgebers mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums, wenn sie das Inland durchfahren, ohne Güter zu beladen oder zu entladen und ohne Fahrgäste aufzunehmen oder abzusetzen (Transit).
+
+# § 41 – Übergangsbestimmungen für Langzeitentsendung
 
 (1) Die nach § 13b Absatz 1 vorgeschriebenen Arbeitsbedingungen sind frühestens ab dem 30. Juli 2020 anzuwenden.
 
 (2) Für die Berechnung der Beschäftigungsdauer nach § 13b Absatz 1 werden Zeiten der Beschäftigung im Inland vor dem 30. Juli 2020 mitgezählt. Hat die Beschäftigung im Inland vor dem 30. Juli 2020 begonnen, gilt die Mitteilung nach § 13b Absatz 2 als abgegeben.
 
-# § 26 – Übergangsbestimmungen für das Baugewerbe
+# § 42 – Übergangsbestimmungen für das Baugewerbe
 
 Die vor dem 30. Juli 2020 ausgesprochene Allgemeinverbindlicherklärung eines Tarifvertrags im Baugewerbe nach § 4 Absatz 1 Nummer 1, § 6 Absatz 2 steht, soweit sie Arbeitsbedingungen nach § 5 Satz 1 Nummer 1 zum Gegenstand hat, für die Anwendung der §§ 8 und 9 sowie des Abschnitts 5 einer Rechtsverordnung nach § 7 gleich.
-
-# § 27 – Sondervorschrift für den Straßenverkehrssektor
-
-Beschäftigt ein Arbeitgeber mit Sitz im Ausland als Kraftverkehrsunternehmer im Sinne von Artikel 2 Nummer 3 in Verbindung mit den Nummern 1 und 2 der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, im Inland einen Arbeitnehmer oder eine Arbeitnehmerin als Fahrer oder Fahrerin oder Beifahrer oder Beifahrerin, so sind die Vorschriften dieses Gesetzes in seiner zuletzt durch Artikel 2 Absatz 5 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2739) geänderten Fassung anzuwenden.
-
-# § 28 – Übergangsregelung für die Pflegebranche
-
-Auf eine vor dem 29. November 2019 berufene Kommission sind § 11 Absatz 1, § 12 Absatz 1 bis 6 und § 12a nicht anwendbar. § 12 Absatz 8 ist nur insoweit anwendbar, als die jeweiligen Mitglieder ab dem 29. November 2019 ausscheiden und nach § 12 Absatz 7 benannt werden. Auf diese Kommission sind § 11 Absatz 1 und § 12 in der bis zum Ablauf des 28. November 2019 geltenden Fassung anwendbar.
