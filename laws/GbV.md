@@ -45,7 +45,7 @@ Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt 1.8.3.18 A
 
 # § 5 – Schulungsanforderungen
 
-(1) Die Schulung erfolgt in einem nach § 7 Absatz 1 Nummer 2 anerkannten Lehrgang.
+(1) Die Schulung erfolgt in einem nach § 7 Absatz 1 Nummer 2 anerkannten Lehrgang. Anerkannt werden können Präsenzlehrgänge sowie Lehrgänge, die ganz oder teilweise in elektronischer Form durchgeführt werden.
 
 (2) Die in den Schulungen zu behandelnden Sachgebiete ergeben sich aus den Unterabschnitten 1.8.3.3 und 1.8.3.11 ADR/RID/ADN sowie aus § 8.
 
@@ -91,15 +91,15 @@ Für die Erteilung einer Ausnahme nach § 6 Absatz 3 Satz 2 ist die Industrie- u
 
 (3) Abweichend von Absatz 1 und 2 können Bund, Länder, Gemeinden und sonstige juristische Personen des öffentlichen Rechts für ihren hoheitlichen Aufgabenbereich eigene Schulungen veranstalten, die Prüfung selbst durchführen und die Schulungsnachweise selbst ausstellen. Einzelheiten sind durch die jeweils zuständige oberste Bundes- oder Landesbehörde durch Verwaltungsvorschriften zu regeln.
 
-(4) Das Bundesministerium der Verteidigung und das Bundesministerium des Innern, für Bau und Heimat bestimmen die zuständigen Behörden im Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
+(4) Das Bundesministerium der Verteidigung und das Bundesministerium des Innern und für Heimat bestimmen die zuständigen Behörden im Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 
 # § 8 – Pflichten des Gefahrgutbeauftragten
 
 (1) Der Gefahrgutbeauftragte hat die Aufgaben nach Unterabschnitt 1.8.3.3 ADR/RID/ADN wahrzunehmen.
 
-(2) Der Gefahrgutbeauftragte ist verpflichtet, schriftliche Aufzeichnungen über seine Überwachungstätigkeit unter Angabe des Zeitpunktes der Überwachung, der Namen der überwachten Personen und der überwachten Geschäftsvorgänge zu führen.
+(2) Der Gefahrgutbeauftragte ist verpflichtet, Aufzeichnungen in Textform über seine Überwachungstätigkeit unter Angabe des Zeitpunktes der Überwachung, der Namen der überwachten Personen und der überwachten Geschäftsvorgänge zu führen.
 
-(3) Der Gefahrgutbeauftragte hat die Aufzeichnungen nach Absatz 2 mindestens fünf Jahre nach deren Erstellung aufzubewahren. Diese Aufzeichnungen sind der zuständigen Behörde auf Verlangen in Schriftform zur Prüfung vorzulegen.
+(3) (weggefallen)
 
 (4) Der Gefahrgutbeauftragte hat dafür zu sorgen, dass ein Unfallbericht nach Unterabschnitt 1.8.3.6 ADR/RID/ADN erstellt wird.
 
@@ -145,7 +145,7 @@ Der Jahresbericht muss keine Angaben über die Beförderung gefährlicher Güter
 
 6. alle Aufgaben, die ihm nach § 8 übertragen worden sind, ordnungsgemäß erfüllen kann.
 
-(3) Der Unternehmer hat den Jahresbericht nach § 8 Absatz 5 fünf Jahre nach dessen Vorlage durch den Gefahrgutbeauftragten aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+(3) Der Unternehmer hat die Aufzeichnungen nach § 8 Absatz 2 und den Jahresbericht nach § 8 Absatz 5 fünf Jahre nach deren Vorlage durch den Gefahrgutbeauftragten aufzubewahren und der zuständigen Behörde auf Verlangen in Textform zur Prüfung vorzulegen.
 
 (4) Der Unternehmer hat auf Verlangen der zuständigen Behörde den Namen des Gefahrgutbeauftragten bekannt zu geben.
 
@@ -167,7 +167,7 @@ d) entgegen § 9 Absatz 2 Nummer 1 nicht dafür sorgt, dass der Gefahrgutbeauftr
 
 e) entgegen § 9 Absatz 2 Nummer 6 nicht dafür sorgt, dass der Gefahrgutbeauftragte alle Aufgaben ordnungsgemäß erfüllen kann,
 
-f) entgegen § 9 Absatz 3 den Jahresbericht nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+f) entgegen § 9 Absatz 3 eine dort genannte Aufzeichnung oder den Jahresbericht nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
 g) entgegen § 9 Absatz 4 den Namen des Gefahrgutbeauftragten nicht oder nicht rechtzeitig bekannt gibt oder
 
@@ -179,7 +179,7 @@ h) entgegen § 9 Absatz 5 den Unfallbericht nicht oder nicht rechtzeitig vorlegt
 
 a) entgegen § 8 Absatz 2 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
 
-b) entgegen § 8 Absatz 3 eine Aufzeichnung nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+b) (weggefallen)
 
 c) entgegen § 8 Absatz 4 nicht dafür sorgt, dass ein Unfallbericht erstellt wird,
 

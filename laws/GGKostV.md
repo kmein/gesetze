@@ -65,9 +65,9 @@ nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: left;">Gebühr<br />
-(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">211</td><td style="text-align: left;">Erstmalige Untersuchung eines Fahrzeugs, einschließlich der Ausfertigung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">211.1</td><td style="text-align: left;">Erstmalige Untersuchung für Fahrzeuge EX/II, EX/III, FL (Unterabschnitt 9.1.3.1<br />
-in Verbindung mit Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">80 bis 110</td></tr><tr class="odd"><td style="text-align: left;">211.2</td><td style="text-align: left;">Erstmalige Untersuchung für MEMU (Unterabschnitt 9.1.3.1 in Verbindung mit Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">90 bis 220</td></tr><tr class="even"><td style="text-align: left;">211.3</td><td style="text-align: left;">Erstmalige Untersuchung und Erteilung der Zulassungsbescheinigung für AT-Fahrzeuge (Unterabschnitt 9.1.3.1 in Verbindung mit Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">45</td></tr><tr class="odd"><td style="text-align: left;">212</td><td style="text-align: left;">Jährliche technische Untersuchung eines Fahrzeugs (Unterabschnitt 9.1.2.3 Satz 1 ADR), einschließlich der Verlängerung der Zulassungsbescheinigung (Unterabschnitt 9.1.2.3 Satz 2 ADR):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">212.1</td><td style="text-align: left;">Untersuchung eines EX/II-, EX/III-, FL-Fahrzeugs oder MEMU (Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">45</td></tr><tr class="odd"><td style="text-align: left;">212.2</td><td style="text-align: left;">Untersuchung eines AT-Fahrzeugs (Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">40</td></tr><tr class="even"><td style="text-align: left;">213</td><td style="text-align: left;">Nachprüfungen im Anschluss an Prüfungen nach den Gebührennummern 211 bis 212 je Prüfung.</td><td style="text-align: left;">30</td></tr><tr class="odd"><td style="text-align: left;">213.1</td><td style="text-align: left;">Wie Gebührennummer 213, jedoch zusätzliche Untersuchung der Bremsanlage (Abschnitt 9.2.3 ADR).</td><td style="text-align: left;">35 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">214</td><td style="text-align: left;">Änderung oder Neuausstellung der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ohne erforderliche Prüfungen nach Abschnitt 9.1.2 ADR<br />
-(§ 14 Absatz 4 bis 6 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">30 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">215 bis 220</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">221</td><td style="text-align: left;">Baumusterprüfungen für festverbundene Tanks (Tankfahrzeuge), Aufsetztanks, ortsbewegliche Tanks, UN-MEGC, Tankcontainer oder Teile eines Batterie-Fahrzeugs (Unterabschnitt 6.7.2.18, 6.7.3.14, 6.7.4.13, 6.7.5.11, 6.8.2.3, 6.9.4.4 ADR):</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">221.1</td><td style="text-align: left;">Prüfung der Antragsunterlagen.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">221.2</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung anfallenden Prüfungen gelten<br />
+(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">211</td><td style="text-align: left;">Erstmalige Untersuchung eines Fahrzeugs, einschließlich der Ausfertigung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">211.1</td><td style="text-align: left;">Erstmalige Untersuchung für Fahrzeuge EX/II, EX/III, FL, AT (Unterabschnitt 9.1.3.1<br />
+in Verbindung mit Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">95 bis 125</td></tr><tr class="odd"><td style="text-align: left;">211.2</td><td style="text-align: left;">Erstmalige Untersuchung für MEMU (Unterabschnitt 9.1.3.1 in Verbindung mit Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">105 bis 255</td></tr><tr class="even"><td style="text-align: left;">211.3</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">212</td><td style="text-align: left;">Jährliche technische Untersuchung eines Fahrzeugs (Unterabschnitt 9.1.2.3 Satz 1 ADR), einschließlich der Verlängerung der Zulassungsbescheinigung (Unterabschnitt 9.1.2.3 Satz 2 ADR):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">212.1</td><td style="text-align: left;">Untersuchung eines EX/II-, EX/III-, FL-Fahrzeugs oder MEMU (Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">55</td></tr><tr class="odd"><td style="text-align: left;">212.2</td><td style="text-align: left;">Untersuchung eines AT-Fahrzeugs (Unterabschnitt 9.1.2.1 ADR).</td><td style="text-align: left;">50</td></tr><tr class="even"><td style="text-align: left;">213</td><td style="text-align: left;">Nachprüfungen im Anschluss an Prüfungen nach den Gebührennummern 211 bis 212 je Prüfung.</td><td style="text-align: left;">35</td></tr><tr class="odd"><td style="text-align: left;">213.1</td><td style="text-align: left;">Wie Gebührennummer 213, jedoch zusätzliche Untersuchung der Bremsanlage (Abschnitt 9.2.3 ADR).</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">214</td><td style="text-align: left;">Änderung oder Neuausstellung der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ohne erforderliche Prüfungen nach Abschnitt 9.1.2 ADR<br />
+(§ 14 Absatz 4 bis 6 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">35 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">215 bis 220</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">221</td><td style="text-align: left;">Baumusterprüfungen für festverbundene Tanks (Tankfahrzeuge), Aufsetztanks, ortsbewegliche Tanks, UN-MEGC, Tankcontainer oder Teile eines Batterie-Fahrzeugs (Unterabschnitt 6.7.2.18, 6.7.3.14, 6.7.4.13, 6.7.5.11, 6.8.2.3, 6.9.4.4 ADR):</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">221.1</td><td style="text-align: left;">Prüfung der Antragsunterlagen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">221.2</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung anfallenden Prüfungen gelten<br />
 die Gebühren nach Nummer 222.</td><td style="text-align: left;"> </td></tr></tbody></table>
 
 Gebühren-  
@@ -89,8 +89,7 @@ Gebühr (EUR)
 
 222
 
-Prüfung vor Inbetriebnahme (P), Gebührenhöhe abhängig vom Fassungsraum des Tanks  
-(Kapitel 6.7 bis 6.10 ADR):
+Prüfung vor Inbetriebnahme (P), Gebührenhöhe abhängig vom Fassungsraum des Tanks (Kapitel 6.7 bis 6.10 ADR):
 
  
 
@@ -100,78 +99,77 @@ Prüfung vor Inbetriebnahme (P), Gebührenhöhe abhängig vom Fassungsraum des T
 
 222.1
 
-Bauprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, Abschnitt 6.9.5 ADR).
+Bauprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, Abschnitt 6.13.5 ADR).
 
-195
+230
 
-225
+260
 
-315
+365
 
 222.2
 
 Prüfung der Ergebnisse der zerstörungsfreien Prüfung der Schweißnähte (Unterabschnitt 6.8.1.23 ADR).
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
 222.3
 
-Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, Abschnitt 6.9.5 ADR).
-
-100
+Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, Abschnitt 6.13.5 ADR).
 
 115
 
-130
+135
+
+155
 
 222.4
 
-Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
+Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.13.5 ADR).
 
-65
+75
 
-65
+75
 
-65
+75
 
 222.5
 
 Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 222.1 bis 222.4.
 
-100
+115
 
-120
+140
 
-155
+180
 
 222.6
 
-Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
+Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.13.5 ADR).
 
-60 bis 90
+70 bis 105
 
-80 bis 120
+95 bis 140
 
-100 bis 150
+115 bis 175
 
 222.7
 
 Prüfung der elektrischen Ausrüstung für die Bedienungsausrüstung der festverbundenen Tanks (Unterabschnitt 9.1.2.1 ADR).
 
-100
+115
 
-120
+140
 
-155
+180
 
 223
 
-Wiederkehrende Prüfung (P), Gebührenhöhe abhängig vom Fassungsraum des Tanks  
-(Kapitel 6.7 bis 6.10 ADR):
+Wiederkehrende Prüfung (P), Gebührenhöhe abhängig vom Fassungsraum des Tanks (Kapitel 6.7 bis 6.10 ADR):
 
  
 
@@ -181,55 +179,63 @@ Wiederkehrende Prüfung (P), Gebührenhöhe abhängig vom Fassungsraum des Tanks
 
 223.1
 
-Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR).
+Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.10.4, 6.13.5 ADR).
 
-145 bis 175
+170 bis 205
 
-180 bis 220
+210 bis 260
 
-215 bis 265
+250 bis 305
 
 223.2
 
-Druckprüfung (Unterabschnitt 6.7.2.19,  
-6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
-
-100
+Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, Abschnitt 6.13.5 ADR).
 
 115
 
-130
+135
+
+155
 
 223.3
 
-Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
+Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.13.5 ADR).
 
-65
+75
 
-65
+75
 
-65
+75
 
 223.4
 
-Nachprüfung der elektrischen Ausrüstung  
-für die Bedienungsausrüstung der festverbundenen Tanks (Unterabschnitt 9.1.2.3 ADR).
+Nachprüfung der elektrischen Ausrüstung für die Bedienungsausrüstung der festverbundenen Tanks (Unterabschnitt 9.1.2.3 ADR).
 
-65
+75
 
-65
+75
 
-65
+75
+
+223.5
+
+Sichtung der Tankakte, Erstellung des Tankdatenblatts (Absatz 6.8.2.6.2, 6.8.2.3.1 ADR).
+
+50 je begonnene Viertelstunde
+
+50 je begonnene Viertelstunde
+
+50 je begonnene Viertelstunde
 
 224
 
-Zwischenprüfung (L) (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR).
+Zwischenprüfung (L) (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.10.4, 6.13.5 ADR).
 
-210
-
-230
+245
 
 265
+
+305
 
 225
 
@@ -240,37 +246,37 @@ Gebühr
 
 225.1
 
-Im Zusammenhang mit den Prüfungen vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Armaturen (Unterabschnitt 6.8.3.4 ADR).
+Im Zusammenhang mit den Prüfungen vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Bedienungsausrüstungen (Unterabschnitt 6.8.2.4, 6.8.3.4 ADR).
 
-20 je Funktionsprüfung
+25 je Funktionsprüfung
 
 225.2
 
-Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4 ADR). Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
+Inbetriebnahmeüberprüfung und außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Absatz 6.8.1.5.5 ADR). Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
 
  
 
 225.3
 
-Bei Tanks, die durch Trennwände unterteilt sind, wird bei der erstmaligen Prüfung, wiederkehrenden Prüfung und der Zwischenprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR) ein Zuschlag je Abteil erhoben, sofern die Prüfung der Abteile getrennt erfolgt.
+Bei Tanks, die durch Trennwände unterteilt sind, wird bei der erstmaligen Prüfung, wiederkehrenden Prüfung und der Zwischenprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.10.4, 6.13.5 ADR) ein Zuschlag je Abteil erhoben, sofern die Prüfung der Abteile getrennt erfolgt.
 
-25
+30
 
 225.4
 
 Dichtheits- und Funktionsprüfung der Ausrüstungsteile nach den Gebührennummern 222.4, 223.3 und 224 bei Behältern zum Transport von Gasen (Klasse 2).
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">225.5</td><td style="text-align: left;">Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 und 6.8.3.4 ADR).</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">225.6</td><td style="text-align: left;">Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 ADR).</td><td style="text-align: left;">55</td></tr><tr class="odd"><td style="text-align: left;">225.7</td><td style="text-align: left;">Änderung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR), einschließlich eventuell erforderlicher Prüfungen.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">225.8</td><td style="text-align: left;">Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 ADR) werden Gebühren nach Gebührennummer 226 berechnet.</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">226</td><td style="text-align: left;">Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.7 und 6.8 ADR). Sind vergleichbare Prüfungen<br />
-nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">227</td><td style="text-align: left;">Getrennte Baumusterzulassung von Ventilen und anderen Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 ADR):</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">227.1</td><td style="text-align: left;">Ausstellen der Baumusterzulassungsbescheinigung.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr></tbody></table>
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">225.5</td><td style="text-align: left;">Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 und 6.8.3.4 ADR).</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">225.6</td><td style="text-align: left;">Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 ADR).</td><td style="text-align: left;">65</td></tr><tr class="odd"><td style="text-align: left;">225.7</td><td style="text-align: left;">Änderung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR), einschließlich eventuell erforderlicher Prüfungen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">225.8</td><td style="text-align: left;">Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 ADR) werden Gebühren nach Gebührennummer 226 berechnet.</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">226</td><td style="text-align: left;">Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.7 und 6.8 ADR). Sind vergleichbare Prüfungen<br />
+nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">227</td><td style="text-align: left;">Getrennte Baumusterzulassung von Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 ADR):</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">227.1</td><td style="text-align: left;">Begutachtung der Antragsunterlagen einschließlich Werkstoffbescheinigungen und schweißtechnischer Unterlagen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">227.2</td><td style="text-align: left;">Durchführung/Untersuchung der Prüfungen am Prototyp gemäß Norm.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">227.3</td><td style="text-align: left;">Ausstellen des Baumusterprüfberichts und der Baumusterzulassungsbescheinigung.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">228</td><td style="text-align: left;">Nachprüfung und Genehmigung eines betriebseigenen Prüfdienstes für Bedienungsausrüstungen von Tanks.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr></tbody></table>
 
 1\. Abschnitt: Gebühren der Bundesbehörden
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: left;">Gebühr<br />
-(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">311.1</td><td style="text-align: left;">Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">60 bis 2 000</td></tr><tr class="even"><td style="text-align: left;">311.2</td><td style="text-align: left;">Prüfung und Erteilung einer Genehmigung für die Fortsetzung einer Beförderung (§ 15 Absatz 1 Satz 1 Nummer 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">30 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">312</td><td style="text-align: left;">Tanks der Kesselwagen (Kapitel 6.8 RID, § 15 Absatz 1 Satz 1 Nummer 8 und 10<br />
-der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">312.1</td><td style="text-align: left;">Für die<dl><dt>–</dt><dd>erstmalige Zulassung eines Baumusters,</dd><dt>–</dt><dd>Nachträge zu Zulassungen für Änderungen oder Ergänzungen,</dd><dt>–</dt><dd>Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie</dd><dt>–</dt><dd>Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2</dd></dl>werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617<br />
+(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">311.1</td><td style="text-align: left;">Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">30 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">311.2</td><td style="text-align: left;">Prüfung und Erteilung einer Genehmigung für die Fortsetzung einer Beförderung (§ 15 Absatz 1 Satz 1 Nummer 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">30 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">312</td><td style="text-align: left;">Tanks der Kesselwagen (Kapitel 6.8 RID, § 15 Absatz 1 Satz 1 Nummer 8 und 10<br />
+der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">312.1</td><td style="text-align: left;">Für die<dl><dt>–</dt><dd>erstmalige Zulassung eines Baumusters,</dd><dt>–</dt><dd>Nachträge zu Zulassungen für Änderungen oder Ergänzungen,</dd><dt>–</dt><dd>Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie</dd><dt>–</dt><dd>Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2</dd><dt>–</dt><dd>Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RID</dd></dl>werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617<br />
 berechnet.</td><td style="text-align: left;"> </td></tr></tbody></table>
 
 2\. Abschnitt: Gebühren der Landesbehörden
@@ -283,7 +289,7 @@ nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: left;">Gebühr<br />
-(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">611</td><td style="text-align: left;">Baumusterprüfungen für Kesselwagen, abnehmbare Tanks, ortsbewegliche Tanks, UN-MEGC und Tankcontainer (Unterabschnitt 6.7.2.18, 6.7.3.14, 6.7.4.13, 6.7.5.11, 6.8.2.3, 6.9.4.4 RID):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">611.1</td><td style="text-align: left;">Prüfung der Antragsunterlagen.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">611.2</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung von Kesselwagen und abnehmbaren Tanks anfallenden Prüfungen gelten die Gebühren nach Nummer 613.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">611.3</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung von ortsbeweglichen Tanks,<br />
+(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">611</td><td style="text-align: left;">Baumusterprüfungen für Kesselwagen, abnehmbare Tanks, ortsbewegliche Tanks, UN-MEGC und Tankcontainer (Unterabschnitt 6.7.2.18, 6.7.3.14, 6.7.4.13, 6.7.5.11, 6.8.2.3, 6.9.4.4 RID):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">611.1</td><td style="text-align: left;">Prüfung der Antragsunterlagen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">611.2</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung von Kesselwagen und abnehmbaren Tanks anfallenden Prüfungen gelten die Gebühren nach Nummer 613.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">611.3</td><td style="text-align: left;">Für die übrigen im Rahmen der Baumusterprüfung von ortsbeweglichen Tanks,<br />
 UN-MEGC und Tankcontainern anfallenden Prüfungen gelten die Gebühren nach Nummer 222.</td><td style="text-align: left;"> </td></tr></tbody></table>
 
 Gebühren-  
@@ -311,49 +317,49 @@ Prüfungen vor Inbetriebnahme der Tanks (P), Gebührenhöhe abhängig vom Fassun
 
 Bauprüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-250
+290
 
-315
+365
 
 613.2
 
 Prüfung der Ergebnisse der zerstörungsfreien Prüfung der Schweißnähte (Absatz 6.8.2.1.23 RID).
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
 613.3
 
 Druckprüfung (Unterabschnitt 6.8.2.4 RID).
 
-165
-
 195
+
+230
 
 613.4
 
 Dichtheitsprüfung des Tankkörpers und der Ausrüstungsteile und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.8.2.4 RID).
 
-95
+115
 
-95
+115
 
 613.5
 
 Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 613.1 bis 613.4.
 
-95
+115
 
-110
+125
 
 613.6
 
 Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.8.2.4 RID).
 
-80 bis 120
+95 bis 140
 
-100 bis 150
+115 bis 175
 
 614
 
@@ -367,17 +373,17 @@ Wiederkehrende Prüfungen (P), Gebührenhöhe abhängig vom Fassungsraum des Tan
 
 Innere und äußere Prüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-215 bis 255
+250 bis 300
 
-245 bis 295
+285 bis 330
 
 614.2
 
 Druckprüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-165
-
 195
+
+230
 
 614.3
 
@@ -391,44 +397,43 @@ Dichtheitsprüfung des Tankkörpers und der Ausrüstungsteile und Funktionsprüf
 
 Klasse 2.
 
-160
+190
 
-160
+190
 
 614.3.2
 
 Klassen 3 bis 9.
 
-95
+115
 
-95
+115
 
 615
 
 Zwischenprüfung (L) (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-265
+305
 
-265
+305
 
 616
 
 Weitere Prüfungen:
 
-Gebühr  
-(EUR)
+ 
 
 616.1
 
 Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 RID).
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
 616.2
 
 Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 RID).
 
-55
+65
 
 616.3
 
@@ -436,20 +441,15 @@ Bei Eisenbahnkesselwagen, die nur mit Obenentleerung ausgerüstet sind (z. B. Kl
 
  
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">616.4</td><td style="text-align: left;">Außerordentliche Prüfungen (Absatz 6.8.2.4.4 RID):<br />
-Für Prüfungen im Rahmen von außerordentlichen Prüfungen sind Gebühren wie für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen zu entrichten.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">616.5</td><td style="text-align: left;">Einzelne Funktionsprüfungen:<br />
-Im Zusammenhang mit den Prüfungen nach Unterabschnitt 6.8.2.4 und 6.8.3.4 RID vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Armaturen.</td><td style="text-align: left;">20 je Funktionsprüfung</td></tr><tr class="odd"><td style="text-align: left;">616.6</td><td style="text-align: left;">Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 RID) werden Gebühren nach Gebührennummer 617 berechnet.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">617</td><td style="text-align: left;">Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.8 RID). Sind vergleichbare Prüfungen nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">618</td><td style="text-align: left;">Getrennte Baumusterzulassung von Ventilen und anderen Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 RID):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">618.1</td><td style="text-align: left;">Ausstellen der Baumusterzulassungsbescheinigung.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">616.4</td><td style="text-align: left;">Inbetriebnahmeüberprüfungen und außerordentliche Prüfungen (Absatz 6.8.1.5.5, 6.8.2.4.4 RID):<br />
+Für Prüfungen im Rahmen von Inbetriebnahmeüberprüfungen und außerordentlichen Prüfungen sind Gebühren wie für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen zu entrichten.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">616.5</td><td style="text-align: left;">Einzelne Funktionsprüfungen:<br />
+Im Zusammenhang mit den Prüfungen nach Unterabschnitt 6.8.2.4 und 6.8.3.4 RID vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Bedienungsausrüstungen.</td><td style="text-align: left;">25 je Funktionsprüfung</td></tr><tr class="odd"><td style="text-align: left;">616.6</td><td style="text-align: left;">Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 RID) werden Gebühren nach Gebührennummer 617 berechnet.</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">617</td><td style="text-align: left;">Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.8 RID). Sind vergleichbare Prüfungen nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">618</td><td style="text-align: left;">Getrennte Baumusterzulassung von Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 RID):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">618.1</td><td style="text-align: left;">Begutachtung der Antragsunterlagen einschließlich Werkstoffbescheinigungen und schweißtechnischer Unterlagen.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">618.2</td><td style="text-align: left;">Durchführung/Untersuchung der Prüfungen am Prototyp gemäß Norm.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">618.3</td><td style="text-align: left;">Ausstellen des Baumusterprüfberichts und der Baumusterzulassungsbescheinigung.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">619</td><td style="text-align: left;">Nachprüfung und Genehmigung eines betriebseigenen Prüfdienstes für Bedienungsausrüstungen von Tanks.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr></tbody></table>
 
 1\. Abschnitt: Gebühren der Bundesbehörden
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: left;">Gebühr<br />
-(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">701</td><td style="text-align: left;">Prüfung zur Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme, für Beförderungen innerhalb Deutschlands auf Bundeswasserstraßen (§ 5 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">50 bis 2 000</td></tr><tr class="even"><td style="text-align: left;">702.1</td><td style="text-align: left;">Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN).</td><td style="text-align: left;">80 bis 320</td></tr><tr class="odd"><td style="text-align: left;">702.2</td><td style="text-align: left;">Aufsicht über die ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.4 ADN).</td><td style="text-align: left;">55 je Stunde</td></tr><tr class="even"><td style="text-align: left;">703</td><td style="text-align: left;">Zulassung sowie Verlängerung und/oder Aufhebung einer Zulassung<dl><dt>a)</dt><dd>von Personen für die Bescheinigung der Rohrleitungstrennung vor der<br />
-Beladung mit UN 1230 und UN 2983 und vor jeder Wiederaufnahme solcher Transporte (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 12 Buchstabe q ADN),</dd><dt>b)</dt><dd>von sachkundigen Personen oder Firmen für die Reinigung von Ladetanks,<br />
-in denen Wasserstoffperoxid-Lösungen befördert wurden (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 33 Buchstabe i 2 ADN),</dd><dt>c)</dt><dd>für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche (Unterabschnitt 8.1.6.1 bis 8.1.6.3 ADN),</dd><dt>d)</dt><dd>für die Prüfung der elektrischen Anlagen und Geräte (Unterabschnitt 8.1.7.1 ADN),</dd><dt>e)</dt><dd>für die Prüfung der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ „begrenzte Explosionsgefahr“, Anlagen und Geräte, die Unterabschnitt 9.3.1.51, 9.3.2.51, 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme (Unterabschnitt 8.1.7.2 ADN),</dd><dt>f)</dt><dd>für die Prüfung der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord (Absatz 9.3.1.8.4, 9.3.2.8.4, 9.3.3.8.4 ADN) und</dd><dt>g)</dt><dd>für die Feststellung und Bescheinigung des Ergebnisses des Entgasens<br />
-von Ladetanks und im Bereich der Ladung befindlicher Rohrleitungen von Binnentankschiffen (Absatz 7.2.3.7.1.6 und 7.2.3.7.2.6 ADN).</dd></dl></td><td style="text-align: left;">150 bis 1 000</td></tr><tr class="odd"><td style="text-align: left;">704</td><td style="text-align: left;">Anerkennung von Dokumenten nach Unterabschnitt 8.2.1.9 und 8.2.1.10 ADN.</td><td style="text-align: left;">55 bis 110</td></tr><tr class="even"><td style="text-align: left;">705</td><td style="text-align: left;">Eintragung eines Sichtvermerkes nach Absatz 1.6.7.2.2.2 und Abschnitt 8.1.2 ADN.</td><td style="text-align: left;">30</td></tr><tr class="odd"><td style="text-align: left;">706</td><td style="text-align: left;">Prüfung und Ausstellung eines normalen Zulassungszeugnisses (Abschnitt 1.16.2 und Unterabschnitt 1.16.6.3 ADN) oder Ausstellung einer Ersatzausfertigung (Abschnitt 1.16.14 ADN).</td><td style="text-align: left;">40 bis 200</td></tr><tr class="even"><td style="text-align: left;">707</td><td style="text-align: left;">Prüfung und Verlängerung der Gültigkeitsdauer des normalen Zulassungszeugnisses im Ausnahmefall (Abschnitt 1.16.11 ADN) oder zur Vornahme von Änderungen im Zulassungszeugnis (Abschnitt 1.16.6 ADN).</td><td style="text-align: left;">30 bis 150</td></tr><tr class="odd"><td style="text-align: left;">707a</td><td style="text-align: left;">Prüfung und Ausstellung oder Einziehung der Anlage zum Zulassungszeugnis (Unterabschnitt 1.16.2.5, 1.16.2.6 ADN).</td><td style="text-align: left;">40 bis 200</td></tr><tr class="even"><td style="text-align: left;">708</td><td style="text-align: left;">Einziehung oder Prüfung zur Änderung des normalen Zulassungszeugnisses (Unterabschnitt 1.16.13.1 bis 1.16.13.3 ADN).</td><td style="text-align: left;">30 bis 100</td></tr><tr class="odd"><td style="text-align: left;">709</td><td style="text-align: left;">Untersagung der Verwendung eines Schiffes (Unterabschnitt 1.16.13.2 ADN).</td><td style="text-align: left;">30 bis 100</td></tr><tr class="even"><td style="text-align: left;">710</td><td style="text-align: left;">Prüfung und Ausstellung eines vorläufigen Zulassungszeugnisses (Unterabschnitt 1.16.1.3 ADN).</td><td style="text-align: left;">30 bis 100</td></tr><tr class="odd"><td style="text-align: left;">711</td><td style="text-align: left;">Prüfung und Erteilung der Genehmigung von Arbeiten an Bord mit elektrischem Strom oder Feuer oder wenn Funken entstehen können (Abschnitt 8.3.5 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">712</td><td style="text-align: left;">Genehmigung zum Füllen und Entleeren von Gefäßen, Tankfahrzeugen, Kesselwagen, Großpackmitteln (IBC), Großverpackungen, MEGC, ortsbeweglichen Tanks oder Tankcontainern auf dem Schiff (Unterabschnitt 7.1.4.16 ADN).</td><td style="text-align: left;">55</td></tr><tr class="odd"><td style="text-align: left;">713</td><td style="text-align: left;">Genehmigung des Umladens der Ladung in ein anderes Schiff außerhalb einer<br />
-dafür zugelassenen Umschlagstelle (Unterabschnitt 7.1.4.9 und 7.2.4.9 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">714</td><td style="text-align: left;">Schriftliche Genehmigung zum Beginn von Lade- und Löscharbeiten von Stoffen und Gegenständen der Klassen 1, 4.1 und 5.2, für die drei Kegel/drei blaue Lichter vorgeschrieben sind, oder wenn diese Stoffe an Bord sind (Absatz 7.1.4.8.1 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="odd"><td style="text-align: left;">715</td><td style="text-align: left;">Genehmigung des Be- und Entladens gemäß Unterabschnitt 7.1.6.14 ADN Sondervorschrift HA03 und Abschnitt 3.2.1 Tabelle A Spalte 11 ADN.</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">716</td><td style="text-align: left;">Genehmigung geringerer Abstände beim Stillliegen außerhalb der besonderen Liegeplätze (Absatz 7.1.5.4.4 und 7.2.5.4.4 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="odd"><td style="text-align: left;">717</td><td style="text-align: left;">Prüfung und Eintragung der Zulassung einer Gleichwertigkeit in das Zulassungszeugnis (Unterabschnitt 1.5.3.3 ADN).</td><td style="text-align: left;">30</td></tr><tr class="even"><td style="text-align: left;">718</td><td style="text-align: left;">Prüfung und Ausstellung eines Zulassungszeugnisses zu Versuchszwecken (Unterabschnitt 1.5.3.2 ADN).</td><td style="text-align: left;">550 bis 1 100</td></tr><tr class="odd"><td style="text-align: left;">719</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">720</td><td style="text-align: left;">Zustimmung zum Laden oder Löschen von Trockengüterschiffen, wenn die erforderlichen Evakuierungsmittel nicht vorhanden sind (Absatz 7.1.4.7.1 ADN).</td><td style="text-align: left;">110</td></tr><tr class="odd"><td style="text-align: left;">720.1</td><td style="text-align: left;">Zustimmung zum Laden oder Löschen von Tankschiffen, wenn nicht alle Fragen<br />
-der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.4.10.1 ADN).</td><td style="text-align: left;">110</td></tr><tr class="even"><td style="text-align: left;">720.2</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">721</td><td style="text-align: left;">Prüfung zum Nachweis über besondere Kenntnisse des ADN und zur Ausstellung der Bescheinigungen (Unterabschnitt 8.2.2.8 ADN):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">721.1</td><td style="text-align: left;">Prüfung von Schulungsteilnehmern zum Erwerb der Bescheinigung über besondere Kenntnisse des ADN (Basis) (Absatz 8.2.2.7.1.1 ADN).</td><td style="text-align: left;">50</td></tr><tr class="odd"><td style="text-align: left;">721.2</td><td style="text-align: left;">Prüfung von Schulungsteilnehmern zum Erwerb der Bescheinigung über besondere Kenntnisse des ADN (Gas/Chemie) (Absatz 8.2.2.7.2.1 ADN).</td><td style="text-align: left;">60</td></tr><tr class="even"><td style="text-align: left;">721.3</td><td style="text-align: left;">Ausstellung der Bescheinigung über besondere Kenntnisse des ADN.</td><td style="text-align: left;">20</td></tr><tr class="odd"><td style="text-align: left;">722</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">723</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung alternativer Bauweisen (Absatz 9.3.4.1.4 ADN).</td><td style="text-align: left;">320 bis 640</td></tr><tr class="odd"><td style="text-align: left;">724</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung der abweichenden Kennzeichnung von Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz 7.1.5.0.5 ADN).</td><td style="text-align: left;">30 bis 55</td></tr><tr class="even"><td style="text-align: left;">725</td><td style="text-align: left;">Prüfung und Auferlegung von Beschränkungen bezüglich der Einbeziehung von Schiffen, die gefährliche Güter befördern, in großen Schubverbänden oder Beschränkungen der Abmessungen der Verbände oder der gekuppelten Schiffe (Unterabschnitt 7.1.5.1 ADN).</td><td style="text-align: left;">30 bis 110</td></tr><tr class="odd"><td style="text-align: left;">726</td><td style="text-align: left;">Prüfung und Erteilung der Befreiung von der Pflicht des ständigen Aufenthalts eines Sachkundigen an Bord in Hafenbecken oder zugelassenen Stellen (Absatz 7.1.5.4.2 und 7.2.5.4.2 ADN).</td><td style="text-align: left;">30 bis 110</td></tr><tr class="even"><td style="text-align: left;">727 und 728</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">729</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung von Abweichungen nach Absatz 7.2.4.2.4 ADN (Schiffbetriebsabfälle, Schiffbetriebsstoffe).</td><td style="text-align: left;">30 bis 55</td></tr><tr class="even"><td style="text-align: left;">730</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung von Ausnahmen zum Verbot des Ladens oder Löschens während des Löschens von Ladetanks (Unterabschnitt 7.2.4.24 ADN).</td><td style="text-align: left;">55 bis 110</td></tr><tr class="odd"><td style="text-align: left;">731</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung der abweichenden Kennzeichnung von Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz 7.2.5.0.3 ADN).</td><td style="text-align: left;">30 bis 110</td></tr><tr class="even"><td style="text-align: left;">732</td><td style="text-align: left;">Auferlegung von Beschränkungen zur Einbeziehung von Tankschiffen in großen Schubverbänden (Unterabschnitt 7.2.5.1 ADN).</td><td style="text-align: left;">30 bis 110</td></tr><tr class="odd"><td style="text-align: left;">733 und 734</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">735</td><td style="text-align: left;">Beaufsichtigung der Untersuchung eines Schiffes durch Untersuchungsstelle oder Klassifikationsgesellschaft (Unterabschnitt 1.16.3.1 ADN).</td><td style="text-align: left;">50 je Stunde</td></tr><tr class="odd"><td style="text-align: left;">736</td><td style="text-align: left;">Prüfung und Zustimmung zum Entgasen an einer Annahmestelle, wenn nicht alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.3.7.2.2 ADN).</td><td style="text-align: left;">100</td></tr><tr class="even"><td style="text-align: left;">737</td><td style="text-align: left;">Prüfung und Genehmigung von Ladeplänen bei der Beförderung von UN 1280 und UN 2983 (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Bemerkung 12 Buchstabe p ADN).</td><td style="text-align: left;">100</td></tr><tr class="odd"><td style="text-align: left;">738</td><td style="text-align: left;">Prüfung und Genehmigung des Aufenthalts eines Schiffes an einer Lade- oder Löschstelle, bei der landseitig eine Explosionsschutzzone ausgewiesen ist, in dieser oder unmittelbar angrenzend an diese Zone, wenn das Schiff die Anforderungen des Absatzes 9.1.0.12.3 Buchstabe b oder c, des Unterabschnitts 9.1.0.51, der Absätze 9.1.0.52.1 und 9.1.0.52.2 nicht erfüllt (Absatz 7.1.4.7.3 ADN).</td><td style="text-align: left;">100</td></tr><tr class="even"><td style="text-align: left;">739</td><td style="text-align: left;">Prüfung und Zulassung einer Ausnahme bezüglich des Aufhaltens des Schiffes in einer von der Landanlage ausgewiesenen Explosionsschutzzone, wenn das Schiff die Anforderungen des Absatzes 9.3.x.12.4 Buchstabe b oder c, des Unterabschnitts 9.3.x.51, der Absätze 9.3.x.52.1 und 9.3.x.52.3 nicht erfüllt (Absatz 7.2.4.7.1 ADN).</td><td style="text-align: left;">100</td></tr><tr class="odd"><td style="text-align: left;">740</td><td style="text-align: left;">Prüfung und Genehmigung des Aufenthalts eines Schiffes in einer oder unmittelbar angrenzend an eine landseitig ausgewiesene Explosionsschutzzone, wenn das Schiff die Anforderungen aus Absatz 7.1.3.51.5 und 7.1.3.51.6 nicht erfüllt (Absatz 7.1.3.51.8 ADN).</td><td style="text-align: left;">100</td></tr></tbody></table>
+(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">701</td><td style="text-align: left;">Prüfung zur Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme, für Beförderungen innerhalb Deutschlands auf Bundeswasserstraßen (§ 5 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).</td><td style="text-align: left;">70 bis 2 000</td></tr><tr class="even"><td style="text-align: left;">702.1</td><td style="text-align: left;">Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN).</td><td style="text-align: left;">80 bis 320</td></tr><tr class="odd"><td style="text-align: left;">702.2</td><td style="text-align: left;">Aufsicht über die ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.4 ADN).</td><td style="text-align: left;">70 je Stunde</td></tr><tr class="even"><td style="text-align: left;">703</td><td style="text-align: left;">Zulassung sowie Verlängerung und/oder Aufhebung einer Zulassung<dl><dt>a)</dt><dd>von Personen für die Bescheinigung der Rohrleitungstrennung vor der Beladung mit UN 1230 und UN 2983 und vor jeder Wiederaufnahme solcher Transporte (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 12 Buchstabe q ADN),</dd><dt>b)</dt><dd>von sachkundigen Personen oder Firmen für die Reinigung von Ladetanks, in denen Wasserstoffperoxid-Lösungen befördert wurden (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 33 Buchstabe i 2 ADN),</dd><dt>c)</dt><dd>für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche (Unterabschnitt 8.1.6.1 bis 8.1.6.3 ADN),</dd><dt>d)</dt><dd>für die Prüfung der elektrischen Anlagen und Geräte (Unterabschnitt 8.1.7.1 ADN),</dd><dt>e)</dt><dd>für die Prüfung der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ „begrenzte Explosionsgefahr“, Anlagen und Geräte, die Unterabschnitt 9.3.1.51, 9.3.2.51, 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme (Unterabschnitt 8.1.7.2 ADN),</dd><dt>f)</dt><dd>für die Prüfung der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord (Absatz 9.3.1.8.4, 9.3.2.8.4, 9.3.3.8.4 ADN) und</dd><dt>g)</dt><dd>für die Feststellung und Bescheinigung des Ergebnisses des Entgasens von Ladetanks und im Bereich der Ladung befindlicher Rohrleitungen von Binnentankschiffen (Absatz 7.2.3.7.1.6 und 7.2.3.7.2.6 ADN).</dd></dl></td><td style="text-align: left;">150 bis 1 000</td></tr><tr class="odd"><td style="text-align: left;">704</td><td style="text-align: left;">Anerkennung von Dokumenten nach Unterabschnitt 8.2.1.9 und 8.2.1.10 ADN.</td><td style="text-align: left;">70 bis 140</td></tr><tr class="even"><td style="text-align: left;">705</td><td style="text-align: left;">Prüfen und Eintragung eines Sichtvermerkes nach Absatz 1.6.7.2.2.2 und Abschnitt 8.1.2 ADN.</td><td style="text-align: left;">35 bis 70</td></tr><tr class="odd"><td style="text-align: left;">706</td><td style="text-align: left;">Prüfung und Ausstellung eines normalen Zulassungszeugnisses (Abschnitt 1.16.2 und Unterabschnitt 1.16.6.3 ADN) oder Ausstellung einer Ersatzausfertigung (Abschnitt 1.16.14 ADN).</td><td style="text-align: left;">40 bis 200</td></tr><tr class="even"><td style="text-align: left;">707</td><td style="text-align: left;">Prüfung und Verlängerung der Gültigkeitsdauer des normalen Zulassungszeugnisses im Ausnahmefall (Abschnitt 1.16.11 ADN) oder zur Vornahme von Änderungen im Zulassungszeugnis (Abschnitt 1.16.6 ADN).</td><td style="text-align: left;">35 bis 150</td></tr><tr class="odd"><td style="text-align: left;">707a</td><td style="text-align: left;">Prüfung und Ausstellung oder Einziehung der Anlage zum Zulassungszeugnis (Unterabschnitt 1.16.2.5, 1.16.2.6 ADN).</td><td style="text-align: left;">40 bis 200</td></tr><tr class="even"><td style="text-align: left;">708</td><td style="text-align: left;">Einziehung oder Prüfung zur Änderung des normalen Zulassungszeugnisses (Unterabschnitt 1.16.13.1 bis 1.16.13.3 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="odd"><td style="text-align: left;">709</td><td style="text-align: left;">Untersagung der Verwendung eines Schiffes (Unterabschnitt 1.16.13.2 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="even"><td style="text-align: left;">710</td><td style="text-align: left;">Prüfung und Ausstellung eines vorläufigen Zulassungszeugnisses (Unterabschnitt 1.16.1.3 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="odd"><td style="text-align: left;">711</td><td style="text-align: left;">Prüfung und Erteilung der Genehmigung von Arbeiten an Bord mit elektrischem Strom oder Feuer oder wenn Funken entstehen können (Abschnitt 8.3.5 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">712</td><td style="text-align: left;">Genehmigung zum Füllen und Entleeren von Gefäßen, Tankfahrzeugen, Kesselwagen, Großpackmitteln (IBC), Großverpackungen, MEGC, ortsbeweglichen Tanks oder Tankcontainern auf dem Schiff (Unterabschnitt 7.1.4.16 ADN).</td><td style="text-align: left;">70</td></tr><tr class="odd"><td style="text-align: left;">713</td><td style="text-align: left;">Genehmigung des Umladens der Ladung in ein anderes Schiff außerhalb einer dafür zugelassenen Umschlagstelle (Unterabschnitt 7.1.4.9 und 7.2.4.9 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">714</td><td style="text-align: left;">Schriftliche Genehmigung zum Beginn von Lade- und Löscharbeiten von Stoffen und Gegenständen der Klassen 1, 4.1 und 5.2, für die drei Kegel/drei blaue Lichter vorgeschrieben sind, oder wenn diese Stoffe an Bord sind (Absatz 7.1.4.8.1 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="odd"><td style="text-align: left;">715</td><td style="text-align: left;">Genehmigung des Be- und Entladens gemäß Unterabschnitt 7.1.6.14 ADN Sondervorschrift HA03 und Abschnitt 3.2.1 Tabelle A Spalte 11 ADN.</td><td style="text-align: left;">80 bis 200</td></tr><tr class="even"><td style="text-align: left;">716</td><td style="text-align: left;">Genehmigung geringerer Abstände beim Stillliegen außerhalb der besonderen Liegeplätze (Absatz 7.1.5.4.4 und 7.2.5.4.4 ADN).</td><td style="text-align: left;">80 bis 200</td></tr><tr class="odd"><td style="text-align: left;">717</td><td style="text-align: left;">Prüfung und Eintragung der Zulassung einer Gleichwertigkeit in das Zulassungszeugnis (Unterabschnitt 1.5.3.3 ADN).</td><td style="text-align: left;">35</td></tr><tr class="even"><td style="text-align: left;">718</td><td style="text-align: left;">Prüfung und Ausstellung eines Zulassungszeugnisses zu Versuchszwecken (Unterabschnitt 1.5.3.2 ADN).</td><td style="text-align: left;">550 bis 1 100</td></tr><tr class="odd"><td style="text-align: left;">719</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">720</td><td style="text-align: left;">Zustimmung zum Laden oder Löschen von Trockengüterschiffen, wenn die erforderlichen Evakuierungsmittel nicht vorhanden sind (Absatz 7.1.4.7.1 ADN).</td><td style="text-align: left;">140</td></tr><tr class="odd"><td style="text-align: left;">720.1</td><td style="text-align: left;">Zustimmung zum Laden oder Löschen von Tankschiffen, wenn nicht alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.4.10.1 ADN).</td><td style="text-align: left;">140</td></tr><tr class="even"><td style="text-align: left;">720.2</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">721</td><td style="text-align: left;">Prüfung zum Nachweis über besondere Kenntnisse des ADN und zur Ausstellung der Bescheinigungen (Unterabschnitt 8.2.2.8 ADN):</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">721.1</td><td style="text-align: left;">Prüfung von Schulungsteilnehmern zum Erwerb der Bescheinigung über besondere Kenntnisse des ADN (Basis) (Absatz 8.2.2.7.1.1 ADN).</td><td style="text-align: left;">50</td></tr><tr class="odd"><td style="text-align: left;">721.2</td><td style="text-align: left;">Prüfung von Schulungsteilnehmern zum Erwerb der Bescheinigung über besondere Kenntnisse des ADN (Gas/Chemie) (Absatz 8.2.2.7.2.1 ADN).</td><td style="text-align: left;">120 bis 150</td></tr><tr class="even"><td style="text-align: left;">721.3</td><td style="text-align: left;">Ausstellung der Bescheinigung über besondere Kenntnisse des ADN.</td><td style="text-align: left;">65</td></tr><tr class="odd"><td style="text-align: left;">722</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">723</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung alternativer Bauweisen (Absatz 9.3.4.1.4 ADN).</td><td style="text-align: left;">320 bis 640</td></tr><tr class="odd"><td style="text-align: left;">724</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung der abweichenden Kennzeichnung von Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz 7.1.5.0.5 ADN).</td><td style="text-align: left;">35 bis 70</td></tr><tr class="even"><td style="text-align: left;">725</td><td style="text-align: left;">Prüfung und Auferlegung von Beschränkungen bezüglich der Einbeziehung von Schiffen, die gefährliche Güter befördern, in großen Schubverbänden oder Beschränkungen der Abmessungen der Verbände oder der gekuppelten Schiffe (Unterabschnitt 7.1.5.1 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="odd"><td style="text-align: left;">726</td><td style="text-align: left;">Prüfung und Erteilung der Befreiung von der Pflicht des ständigen Aufenthalts eines Sachkundigen an Bord in Hafenbecken oder zugelassenen Stellen (Absatz 7.1.5.4.2 und 7.2.5.4.2 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="even"><td style="text-align: left;">727 und 728</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">729</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung von Abweichungen nach Absatz 7.2.4.2.4 ADN (Schiffbetriebsabfälle, Schiffbetriebsstoffe).</td><td style="text-align: left;">35 bis 70</td></tr><tr class="even"><td style="text-align: left;">730</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung von Ausnahmen zum Verbot des Ladens oder Löschens während des Löschens von Ladetanks (Unterabschnitt 7.2.4.24 ADN).</td><td style="text-align: left;">70 bis 140</td></tr><tr class="odd"><td style="text-align: left;">731</td><td style="text-align: left;">Prüfung und Erteilung der Zulassung der abweichenden Kennzeichnung von Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz 7.2.5.0.3 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="even"><td style="text-align: left;">732</td><td style="text-align: left;">Auferlegung von Beschränkungen zur Einbeziehung von Tankschiffen in großen Schubverbänden (Unterabschnitt 7.2.5.1 ADN).</td><td style="text-align: left;">35 bis 140</td></tr><tr class="odd"><td style="text-align: left;">733 und 734</td><td style="text-align: left;">nicht vergeben</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">735</td><td style="text-align: left;">Beaufsichtigung der Untersuchung eines Schiffes durch Untersuchungsstelle oder Klassifikationsgesellschaft (Unterabschnitt 1.16.3.1 ADN).</td><td style="text-align: left;">70 je Stunde</td></tr><tr class="odd"><td style="text-align: left;">736</td><td style="text-align: left;">Prüfung und Zustimmung zum Entgasen an einer Annahmestelle, wenn nicht alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.3.7.2.2 ADN).</td><td style="text-align: left;">140</td></tr><tr class="even"><td style="text-align: left;">737</td><td style="text-align: left;">Prüfung und Genehmigung von Ladeplänen bei der Beförderung von UN 1280 und UN 2983 (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Bemerkung 12 Buchstabe p ADN).</td><td style="text-align: left;">140</td></tr><tr class="odd"><td style="text-align: left;">738</td><td style="text-align: left;">Prüfung und Genehmigung des Aufenthalts eines Schiffes an einer Lade- oder Löschstelle, bei der landseitig eine Explosionsschutzzone ausgewiesen ist, in dieser oder unmittelbar angrenzend an diese Zone, wenn das Schiff die Anforderungen des Absatzes 9.1.0.12.3 Buchstabe b oder c, des Unterabschnitts 9.1.0.51, der Absätze 9.1.0.52.1 und 9.1.0.52.2 nicht erfüllt (Absatz 7.1.4.7.3 ADN).</td><td style="text-align: left;">140</td></tr><tr class="even"><td style="text-align: left;">739</td><td style="text-align: left;">Prüfung und Zulassung einer Ausnahme bezüglich des Aufhaltens des Schiffes in einer von der Landanlage ausgewiesenen Explosionsschutzzone, wenn das Schiff die Anforderungen des Absatzes 9.3.x.12.4 Buchstabe b oder c, des Unterabschnitts 9.3.x.51, der Absätze 9.3.x.52.1 und 9.3.x.52.3 nicht erfüllt (Absatz 7.2.4.7.1 ADN).</td><td style="text-align: left;">140</td></tr><tr class="odd"><td style="text-align: left;">740</td><td style="text-align: left;">Prüfung und Genehmigung des Aufenthalts eines Schiffes in einer oder unmittelbar angrenzend an eine landseitig ausgewiesene Explosionsschutzzone, wenn das Schiff die Anforderungen aus Absatz 7.1.3.51.5 und 7.1.3.51.6 nicht erfüllt (Absatz 7.1.3.51.8 ADN).</td><td style="text-align: left;">140</td></tr></tbody></table>
 
 2\. Abschnitt: Gebühren der Landesbehörden
 
@@ -486,7 +486,7 @@ Gebühr
 
 Prüfung und Erteilung einer Bescheinigung für IMO-Tanks (Absatz 6.8.3.1.3.2, 6.8.3.2.3.2, 6.8.3.3.3.2 und 6.8.3.4.3.2 IMDG-Code).
 
-25 je begonnene Viertelstunde
+30 je begonnene Viertelstunde
 
 1060
 
@@ -498,7 +498,7 @@ Baumusterprüfungen für ortsbewegliche Tanks und UN-MEGC (Unterabschnitt 6.7.2.
 
 Prüfung der Antragsunterlagen.
 
-40 je begonnene Viertelstunde
+50 je begonnene Viertelstunde
 
 1060.2
 
@@ -507,9 +507,10 @@ die Gebühren nach Nummer 1061.
 
  
 
-1061
+Gebühren-  
+nummer
 
-Prüfung vor Inbetriebnahme, Gebührenhöhe abhängig vom Fassungsraum des Tanks (Kapitel 6.7 IMDG-Code):
+Gebührentatbestand
 
 Gebühr (EUR)  
 bis  
@@ -523,55 +524,65 @@ Gebühr (EUR)
 über  
 20 000 Liter:
 
+1061
+
+Prüfung vor Inbetriebnahme, Gebührenhöhe abhängig vom Fassungsraum des Tanks (Kapitel 6.7 IMDG-Code):
+
+ 
+
+ 
+
+ 
+
 1061.1
 
 Bauprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-195
+230
 
-225
+260
 
-315
+365
 
 1061.2
 
 Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-100
-
 115
 
-130
+135
+
+155
 
 1061.3
 
 Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-65
+75
 
-65
+75
 
-65
+75
 
 1061.4
 
 Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 1061.1 bis 1061.3 (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-100
+115
 
-100
+115
 
-100
+115
 
 1061.5
 
 Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-60 bis 90
+70 bis 105
 
-80 bis 120
+95 bis 140
 
-100 bis 150
+115 bis 175
 
 1062
 
@@ -597,31 +608,31 @@ Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 
 
 Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-100
-
 115
 
-130
+135
+
+155
 
 1062.3
 
 Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-65
+75
 
-65
+75
 
-65
+75
 
 1063
 
 Zwischenprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-210
-
-230
+245
 
 265
+
+305
 
 1064
 
@@ -651,7 +662,7 @@ nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 73%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: left;">Gebühr<br />
-(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1201</td><td style="text-align: left;">Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1202</td><td style="text-align: left;">Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit Ausnahme des Absatzes 9 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1203</td><td style="text-align: left;">Festlegung der Prüffristen nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 Absatz 9 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1204</td><td style="text-align: left;">Prüfung und Zulassung der Druckgefäße nach Absatz 6.2.1.4.1 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1205</td><td style="text-align: left;">Anerkennung des Qualitätssicherungsprogramms nach Absatz 6.2.1.4.2 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1206</td><td style="text-align: left;">Wiederkehrende Prüfungen nach den Absätzen 6.2.1.6.1 und 6.2.1.6.2 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1207</td><td style="text-align: left;">Bewertung der Eignung des Herstellers nach Absatz 6.2.1.7.2 ADR/RID.</td><td style="text-align: left;">40 je begonnene Viertelstunde</td></tr></tbody></table>
+(EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1201</td><td style="text-align: left;">Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1202</td><td style="text-align: left;">Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit Ausnahme des Absatzes 9 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1203</td><td style="text-align: left;">Festlegung der Prüffristen nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 Absatz 9 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1204</td><td style="text-align: left;">Prüfung und Zulassung der Druckgefäße nach Absatz 6.2.1.4.1 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1205</td><td style="text-align: left;">Anerkennung des Qualitätssicherungsprogramms nach Absatz 6.2.1.4.2 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="even"><td style="text-align: left;">1206</td><td style="text-align: left;">Wiederkehrende Prüfungen nach den Absätzen 6.2.1.6.1 und 6.2.1.6.2 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr><tr class="odd"><td style="text-align: left;">1207</td><td style="text-align: left;">Bewertung der Eignung des Herstellers nach Absatz 6.2.1.7.2 ADR/RID.</td><td style="text-align: left;">50 je begonnene Viertelstunde</td></tr></tbody></table>
 
 Anlage 1 Teil V Abschn. 2 GebNr. 1002 Kursivdruck: Der Wortlaut der Neufassung gem. Bek. v. 11.3.2019 I 308 iVm. Änderungsanweisung d. Art. 3 Nr. 1 V v. 21.10.2019 I 1472 mWv 1.1.2019 weicht von letzter konstitutiver Fassung ab
 
