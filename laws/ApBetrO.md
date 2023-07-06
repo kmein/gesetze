@@ -1382,19 +1382,3 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 # § 39 – Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken
 
 Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a dürfen Apotheken, wenn das auf der Grundlage der ärztlichen Verordnung abzugebende Arzneimittel nicht vorrätig oder lieferbar ist, dieses bei Abgabe an Versicherte in der privaten Krankenversicherung, Beihilfeempfänger und Selbstzahler nach Maßgabe des § 423 des Fünften Buches Sozialgesetzbuch durch ein anderes Arzneimittel ersetzen. Diese Regelung tritt am 1. August 2023 außer Kraft.
-
-# Anlage 1 – (weggefallen)
-
-\-
-
-# Anlage 2 – (weggefallen)
-
-\-
-
-# Anlage 3 – (weggefallen)
-
-\-
-
-# Anlage 4 – (weggefallen)
-
-\-
