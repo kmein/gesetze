@@ -411,7 +411,8 @@ und soweit die Interessen des Verantwortlichen an der Datenverarbeitung in den F
 
 10. spezifische Verfahrensregelungen, die im Fall einer Übermittlung oder Verarbeitung für andere Zwecke die Einhaltung der Vorgaben dieses Gesetzes sowie der Verordnung (EU) 2016/679 sicherstellen.
 
-(+++ § 22 Abs. 2: zur Anwendung vgl. § 26 Abs. 3 +++)
+(+++ § 22 Abs. 2: zur Anwendung vgl. § 26 Abs. 3 +++)  
+(+++ § 22 Abs. 2: zur Anwendung vgl. § 10 HinSchG +++)
 
 # § 23 – Verarbeitung zu anderen Zwecken durch öffentliche Stellen
 

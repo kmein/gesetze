@@ -1702,7 +1702,7 @@ Bei der Prüfung der Voraussetzungen des Satzes 1 Nummer 3 bis 8 sind auch die A
 
 3. die hochwasserangepasste Errichtung von Bauvorhaben.
 
-Dies gilt für Satzungen nach § 34 Absatz 4 und § 35 Absatz 6 des Baugesetzbuches entsprechend. Die zuständige Behörde hat der Gemeinde die hierfür erforderlichen Informationen nach § 4 Absatz 2 Satz 4 des Baugesetzbuches zur Verfügung zu stellen.
+Dies gilt für Satzungen nach § 34 Absatz 4 und § 35 Absatz 6 des Baugesetzbuches entsprechend. Die zuständige Behörde hat der Gemeinde die hierfür erforderlichen Informationen nach § 4 Absatz 2 Satz 6 des Baugesetzbuches zur Verfügung zu stellen.
 
 (4) In festgesetzten Überschwemmungsgebieten ist die Errichtung oder Erweiterung baulicher Anlagen nach den §§ 30, 33, 34 und 35 des Baugesetzbuches untersagt. Satz 1 gilt nicht für Maßnahmen des Gewässerausbaus, des Baus von Deichen und Dämmen, der Gewässer- und Deichunterhaltung und des Hochwasserschutzes sowie des Messwesens.
 

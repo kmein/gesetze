@@ -123,15 +123,25 @@ darzulegen. Der Umweltbericht bildet einen gesonderten Teil der Begründung.
 
 An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 auch an, wenn die Erörterung zu einer Änderung der Planung führt.
 
-(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats, mindestens jedoch für die Dauer von 30 Tagen, oder bei Vorliegen eines wichtigen Grundes für die Dauer einer angemessenen längeren Frist öffentlich auszulegen. Ort und Dauer der Auslegung sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind mindestens eine Woche vorher ortsüblich bekannt zu machen; dabei ist darauf hinzuweisen, dass Stellungnahmen während der Auslegungsfrist abgegeben werden können und dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können. Die nach § 4 Absatz 2 Beteiligten sollen von der Auslegung benachrichtigt werden. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Absatz 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
+(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats, mindestens jedoch für die Dauer von 30 Tagen, oder bei Vorliegen eines wichtigen Grundes für die Dauer einer angemessenen längeren Frist im Internet zu veröffentlichen. Zusätzlich zur Veröffentlichung im Internet nach Satz 1 sind eine oder mehrere andere leicht zu erreichende Zugangsmöglichkeiten, etwa durch öffentlich zugängliche Lesegeräte oder durch eine öffentliche Auslegung der in Satz 1 genannten Unterlagen, zur Verfügung zu stellen. Die nach § 4 Absatz 2 Beteiligten sollen von der Veröffentlichung im Internet auf elektronischem Weg benachrichtigt werden. Die Internetseite oder Internetadresse, unter der die in Satz 1 genannten Unterlagen eingesehen werden können, die Dauer der Veröffentlichungsfrist sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind vor Beginn der Veröffentlichungsfrist ortsüblich bekannt zu machen; in der Bekanntmachung ist darauf hinzuweisen,
 
-(3) Bei Flächennutzungsplänen ist ergänzend zu dem Hinweis nach Absatz 2 Satz 2 Halbsatz 2 darauf hinzuweisen, dass eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes in einem Rechtsbehelfsverfahren nach § 7 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes gemäß § 7 Absatz 3 Satz 1 des Umwelt-Rechtsbehelfsgesetzes mit allen Einwendungen ausgeschlossen ist, die sie im Rahmen der Auslegungsfrist nicht oder nicht rechtzeitig geltend gemacht hat, aber hätte geltend machen können.
+1. dass Stellungnahmen während der Dauer der Veröffentlichungsfrist abgegeben werden können,
+
+2. dass Stellungnahmen elektronisch übermittelt werden sollen, bei Bedarf aber auch auf anderem Weg abgegeben werden können,
+
+3. dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können und
+
+4. welche anderen leicht zu erreichenden Zugangsmöglichkeiten nach Satz 2 bestehen.
+
+Der Inhalt der Bekanntmachung ist zusätzlich in das Internet einzustellen; die nach Satz 1 zu veröffentlichenden Unterlagen und der Inhalt der Bekanntmachung sind über ein zentrales Internetportal des Landes zugänglich zu machen. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich und über das Internet bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Absatz 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
+
+(3) Bei Flächennutzungsplänen ist ergänzend zu dem Hinweis nach Absatz 2 Satz 4 zweiter Halbsatz darauf hinzuweisen, dass eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes in einem Rechtsbehelfsverfahren nach § 7 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes gemäß § 7 Absatz 3 Satz 1 des Umwelt-Rechtsbehelfsgesetzes mit allen Einwendungen ausgeschlossen ist, die sie im Rahmen der Veröffentlichungsfrist nicht oder nicht rechtzeitig geltend gemacht hat, aber hätte geltend machen können.
 
 # § 4 – Beteiligung der Behörden
 
 (1) Die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, sind entsprechend § 3 Absatz 1 Satz 1 Halbsatz 1 zu unterrichten und zur Äußerung auch im Hinblick auf den erforderlichen Umfang und Detaillierungsgrad der Umweltprüfung nach § 2 Absatz 4 aufzufordern. Hieran schließt sich das Verfahren nach Absatz 2 auch an, wenn die Äußerung zu einer Änderung der Planung führt.
 
-(2) Die Gemeinde holt die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, zum Planentwurf und der Begründung ein. Sie haben ihre Stellungnahmen innerhalb eines Monats abzugeben, wobei jedoch die Frist zur Abgabe von Stellungnahmen 30 Tage nicht unterschreiten darf; die Gemeinde soll diese Frist bei Vorliegen eines wichtigen Grundes angemessen verlängern. In den Stellungnahmen sollen sich die Behörden und sonstigen Träger öffentlicher Belange auf ihren Aufgabenbereich beschränken; sie haben auch Aufschluss über von ihnen beabsichtigte oder bereits eingeleitete Planungen und sonstige Maßnahmen sowie deren zeitliche Abwicklung zu geben, die für die städtebauliche Entwicklung und Ordnung des Gebiets bedeutsam sein können. Verfügen sie über Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind, haben sie diese Informationen der Gemeinde zur Verfügung zu stellen.
+(2) Die Gemeinde holt die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, zum Planentwurf und zur Begründung ein. Die Bereitstellung der Unterlagen sowie die Mitteilung hierüber sollen elektronisch erfolgen. Die Behörden und sonstigen Träger öffentlicher Belange haben ihre Stellungnahmen innerhalb eines Monats abzugeben, wobei jedoch die Frist zur Abgabe von Stellungnahmen 30 Tage nicht unterschreiten darf; die Gemeinde soll diese Frist bei Vorliegen eines wichtigen Grundes angemessen verlängern. Die Stellungnahmen sollen elektronisch übermittelt werden. In den Stellungnahmen sollen sich die Behörden und sonstigen Träger öffentlicher Belange auf ihren Aufgabenbereich beschränken; sie haben auch Aufschluss über von ihnen beabsichtigte oder bereits eingeleitete Planungen und sonstige Maßnahmen sowie deren zeitliche Abwicklung zu geben, die für die städtebauliche Entwicklung und Ordnung des Gebiets bedeutsam sein können. Verfügen sie über Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind, haben sie diese Informationen der Gemeinde zur Verfügung zu stellen.
 
 (3) Nach Abschluss des Verfahrens zur Aufstellung des Bauleitplans unterrichten die Behörden die Gemeinde, sofern nach den ihnen vorliegenden Erkenntnissen die Durchführung des Bauleitplans erhebliche, insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt hat.
 
@@ -139,15 +149,15 @@ An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 
 
 (1) Die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung dienen insbesondere der vollständigen Ermittlung und zutreffenden Bewertung der von der Planung berührten Belange und der Information der Öffentlichkeit.
 
-(2) Die Unterrichtung nach § 3 Absatz 1 kann gleichzeitig mit der Unterrichtung nach § 4 Absatz 1, die Auslegung nach § 3 Absatz 2 kann gleichzeitig mit der Einholung der Stellungnahmen nach § 4 Absatz 2 durchgeführt werden.
+(2) Die Unterrichtung nach § 3 Absatz 1 kann gleichzeitig mit der Unterrichtung nach § 4 Absatz 1, die Veröffentlichung im Internet nach § 3 Absatz 2 kann gleichzeitig mit der Einholung der Stellungnahmen nach § 4 Absatz 2 durchgeführt werden.
 
-(3) Wird der Entwurf des Bauleitplans nach dem Verfahren nach § 3 Absatz 2 oder § 4 Absatz 2 geändert oder ergänzt, ist er erneut auszulegen und sind die Stellungnahmen erneut einzuholen. Dabei kann bestimmt werden, dass Stellungnahmen nur zu den geänderten oder ergänzten Teilen abgegeben werden können; hierauf ist in der erneuten Bekanntmachung nach § 3 Absatz 2 Satz 2 hinzuweisen. Die Dauer der Auslegung und die Frist zur Stellungnahme kann angemessen verkürzt werden. Werden durch die Änderung oder Ergänzung des Entwurfs des Bauleitplans die Grundzüge der Planung nicht berührt, kann die Einholung der Stellungnahmen auf die von der Änderung oder Ergänzung betroffene Öffentlichkeit sowie die berührten Behörden und sonstigen Träger öffentlicher Belange beschränkt werden.
+(3) Wird der Entwurf des Bauleitplans nach dem Verfahren nach § 3 Absatz 2 oder § 4 Absatz 2 geändert oder ergänzt, ist er erneut nach § 3 Absatz 2 im Internet zu veröffentlichen und sind die Stellungnahmen erneut einzuholen, es sei denn, die Änderung oder Ergänzung führt offensichtlich nicht zu einer erstmaligen oder stärkeren Berührung von Belangen. Ist der Entwurf des Bauleitplans erneut zu veröffentlichen, ist in Bezug auf die Änderung oder Ergänzung und ihre möglichen Auswirkungen Gelegenheit zur Stellungnahme zu geben; hierauf ist in der erneuten Bekanntmachung nach § 3 Absatz 2 Satz 4 hinzuweisen. Die Dauer der Veröffentlichungsfrist im Internet und der Frist zur Stellungnahme soll angemessen verkürzt werden. Werden durch die Änderung oder Ergänzung des Entwurfs des Bauleitplans die Grundzüge der Planung nicht berührt, soll die Einholung der Stellungnahmen auf die von der Änderung oder Ergänzung betroffene Öffentlichkeit sowie die berührten Behörden und sonstigen Träger öffentlicher Belange beschränkt werden, es sei denn, diese Beschränkung führt nach Einschätzung der Gemeinde zu einer längeren Verfahrensdauer.
 
-(4) Der Inhalt der ortsüblichen Bekanntmachung nach § 3 Absatz 2 Satz 2 und die nach § 3 Absatz 2 Satz 1 auszulegenden Unterlagen sind zusätzlich in das Internet einzustellen und über ein zentrales Internetportal des Landes zugänglich zu machen. Die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange können durch Mitteilung von Ort und Dauer der öffentlichen Auslegung nach § 3 Absatz 2 und der Internetadresse, unter der der Inhalt der Bekanntmachung und die Unterlagen nach Satz 1 im Internet eingesehen werden können, eingeholt werden; die Mitteilung kann elektronisch übermittelt werden. In den Fällen des Satzes 2 hat die Gemeinde der Behörde oder einem sonstigen Träger öffentlicher Belange auf Verlangen den Entwurf des Bauleitplans und der Begründung in Papierform zu übermitteln; § 4 Absatz 2 Satz 2 bleibt unberührt.
+(4) Bei Bauleitplänen, die erhebliche Auswirkungen auf Nachbarstaaten haben können, sind die Gemeinden und Behörden des Nachbarstaates nach den Grundsätzen der Gegenseitigkeit und Gleichwertigkeit zu unterrichten. Abweichend von Satz 1 ist bei Bauleitplänen, die erhebliche Umweltauswirkungen auf einen anderen Staat haben können, dieser nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen; für die Stellungnahmen der Öffentlichkeit und Behörden des anderen Staates, einschließlich der Rechtsfolgen nicht rechtzeitig abgegebener Stellungnahmen, sind abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung die Vorschriften dieses Gesetzbuchs entsprechend anzuwenden. Ist bei Bauleitplänen eine grenzüberschreitende Beteiligung nach Satz 2 erforderlich, ist hierauf bei der Bekanntmachung nach § 3 Absatz 2 Satz 4 hinzuweisen.
 
-(5) Bei Bauleitplänen, die erhebliche Auswirkungen auf Nachbarstaaten haben können, sind die Gemeinden und Behörden des Nachbarstaates nach den Grundsätzen der Gegenseitigkeit und Gleichwertigkeit zu unterrichten. Abweichend von Satz 1 ist bei Bauleitplänen, die erhebliche Umweltauswirkungen auf einen anderen Staat haben können, dieser nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen; für die Stellungnahmen der Öffentlichkeit und Behörden des anderen Staates, einschließlich der Rechtsfolgen nicht rechtzeitig abgegebener Stellungnahmen, sind abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung die Vorschriften dieses Gesetzbuchs entsprechend anzuwenden. Ist bei Bauleitplänen eine grenzüberschreitende Beteiligung nach Satz 2 erforderlich, ist hierauf bei der Bekanntmachung nach § 3 Absatz 2 Satz 2 hinzuweisen.
+(5) Stellungnahmen, die im Verfahren der Öffentlichkeits- und Behördenbeteiligung nicht rechtzeitig abgegeben worden sind, können bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben, sofern die Gemeinde deren Inhalt nicht kannte und nicht hätte kennen müssen und deren Inhalt für die Rechtmäßigkeit des Bauleitplans nicht von Bedeutung ist. Satz 1 gilt für in der Öffentlichkeitsbeteiligung abgegebene Stellungnahmen nur, wenn darauf in der Bekanntmachung nach § 3 Absatz 2 Satz 4 zur Öffentlichkeitsbeteiligung hingewiesen worden ist.
 
-(6) Stellungnahmen, die im Verfahren der Öffentlichkeits- und Behördenbeteiligung nicht rechtzeitig abgegeben worden sind, können bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben, sofern die Gemeinde deren Inhalt nicht kannte und nicht hätte kennen müssen und deren Inhalt für die Rechtmäßigkeit des Bauleitplans nicht von Bedeutung ist. Satz 1 gilt für in der Öffentlichkeitsbeteiligung abgegebene Stellungnahmen nur, wenn darauf in der Bekanntmachung nach § 3 Absatz 2 Satz 2 zur Öffentlichkeitsbeteiligung hingewiesen worden ist.
+(6) Die Digitalisierung des Bauleitplanverfahrens richtet sich im Übrigen nach den Beschlüssen des IT-Planungsrats zur Festsetzung von IT-Interoperabilitäts- und IT-Sicherheitsstandards sowie den Vorgaben des Online-Zugangsgesetzes, soweit die Beschlüsse und die Vorgaben für die Gemeinden verbindlich sind.
 
 # § 4b – Einschaltung eines Dritten
 
@@ -219,7 +229,7 @@ b) Wald;
 
 (3) Können Versagungsgründe nicht ausgeräumt werden, kann die höhere Verwaltungsbehörde räumliche oder sachliche Teile des Flächennutzungsplans von der Genehmigung ausnehmen.
 
-(4) Über die Genehmigung ist binnen drei Monaten zu entscheiden; die höhere Verwaltungsbehörde kann räumliche und sachliche Teile des Flächennutzungsplans vorweg genehmigen. Aus wichtigen Gründen kann die Frist auf Antrag der Genehmigungsbehörde von der zuständigen übergeordneten Behörde verlängert werden, in der Regel jedoch nur bis zu drei Monaten. Die Gemeinde ist von der Fristverlängerung in Kenntnis zu setzen. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist unter Angabe von Gründen abgelehnt wird.
+(4) Über die Genehmigung ist binnen eines Monats zu entscheiden; die höhere Verwaltungsbehörde kann räumliche und sachliche Teile des Flächennutzungsplans vorweg genehmigen. Aus wichtigen Gründen kann die Frist auf Antrag der Genehmigungsbehörde von der zuständigen übergeordneten Behörde verlängert werden, in der Regel jedoch nur bis zu drei Monaten. Die Gemeinde ist von der Fristverlängerung in Kenntnis zu setzen. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist unter Angabe von Gründen abgelehnt wird.
 
 (5) Die Erteilung der Genehmigung ist ortsüblich bekannt zu machen. Mit der Bekanntmachung wird der Flächennutzungsplan wirksam. Jedermann kann den Flächennutzungsplan, die Begründung und die zusammenfassende Erklärung nach § 6a Absatz 1 einsehen und über deren Inhalt Auskunft verlangen.
 
@@ -473,13 +483,13 @@ Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person a
 
 1. von der frühzeitigen Unterrichtung und Erörterung nach § 3 Absatz 1 und § 4 Absatz 1 abgesehen werden,
 
-2. der betroffenen Öffentlichkeit Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Auslegung nach § 3 Absatz 2 durchgeführt werden,
+2. der betroffenen Öffentlichkeit Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Veröffentlichung im Internet nach § 3 Absatz 2 durchgeführt werden,
 
 3. den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Beteiligung nach § 4 Absatz 2 durchgeführt werden.
 
-Wird nach Satz 1 Nummer 2 die betroffene Öffentlichkeit beteiligt, gilt die Hinweispflicht des § 3 Absatz 2 Satz 2 Halbsatz 2 entsprechend.
+Wird nach Satz 1 Nummer 2 die betroffene Öffentlichkeit beteiligt, gilt die Hinweispflicht des § 3 Absatz 2 Satz 4 zweiter Halbsatz entsprechend.
 
-(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Absatz 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Absatz 2 Satz 2, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6a Absatz 1 und § 10a Absatz 1 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nummer 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
+(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Absatz 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Absatz 2 Satz 4, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6a Absatz 1 und § 10a Absatz 1 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nummer 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
 
 # § 13a – Bebauungspläne der Innenentwicklung
 
@@ -637,7 +647,7 @@ b) die baulichen Anlagen einen Missstand im Sinne des § 177 Absatz 2 aufweisen
 
 und die Grundstücke dadurch erhebliche nachteilige Auswirkungen auf das soziale oder städtebauliche Umfeld aufweisen, insbesondere durch ihren baulichen Zustand oder ihre der öffentlichen Sicherheit und Ordnung widersprechende Nutzung.
 
-Im Falle der Nummer 1 kann das Vorkaufsrecht bereits nach Beginn der öffentlichen Auslegung ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst hat, einen Bebauungsplan aufzustellen, zu ändern oder zu ergänzen. Im Falle der Nummer 5 kann das Vorkaufsrecht bereits ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst und ortsüblich bekannt gemacht hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen und wenn nach dem Stand der Planungsarbeiten anzunehmen ist, dass der künftige Flächennutzungsplan eine solche Nutzung darstellen wird.
+Im Falle der Nummer 1 kann das Vorkaufsrecht bereits nach Beginn der Veröffentlichungsfrist nach § 3 Absatz 2 Satz 1 ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst hat, einen Bebauungsplan aufzustellen, zu ändern oder zu ergänzen. Im Falle der Nummer 5 kann das Vorkaufsrecht bereits ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst und ortsüblich bekannt gemacht hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen und wenn nach dem Stand der Planungsarbeiten anzunehmen ist, dass der künftige Flächennutzungsplan eine solche Nutzung darstellen wird.
 
 (2) Das Vorkaufsrecht steht der Gemeinde nicht zu beim Kauf von Rechten nach dem Wohnungseigentumsgesetz und von Erbbaurechten.
 
@@ -737,7 +747,7 @@ In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrecht
 
 (2) Von den Festsetzungen des Bebauungsplans kann befreit werden, wenn die Grundzüge der Planung nicht berührt werden und
 
-1. Gründe des Wohls der Allgemeinheit, einschließlich der Wohnbedürfnisse der Bevölkerung und des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden, die Befreiung erfordern oder
+1. Gründe des Wohls der Allgemeinheit, einschließlich der Wohnbedürfnisse der Bevölkerung, des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden und des Bedarfs an einem zügigen Ausbau der erneuerbaren Energien, die Befreiung erfordern oder
 
 2. die Abweichung städtebaulich vertretbar ist oder
 
@@ -755,7 +765,7 @@ Sind überbaute Flächen in dem Bebauungsplan als Baugrundstücke für den Gemei
 
 (1) In Gebieten, für die ein Beschluss über die Aufstellung eines Bebauungsplans gefasst ist, ist ein Vorhaben zulässig, wenn
 
-1. die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2 und § 4a Absatz 2 bis 5 durchgeführt worden ist,
+1. die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2 und § 4a Absatz 2 bis 4 durchgeführt worden ist,
 
 2. anzunehmen ist, dass das Vorhaben den künftigen Festsetzungen des Bebauungsplans nicht entgegensteht,
 
@@ -837,7 +847,7 @@ c) es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben und
 
 d) die Kapazität einer Anlage zur Erzeugung von Biogas überschreitet nicht 2,3 Millionen Normkubikmeter Biogas pro Jahr, die Feuerungswärmeleistung anderer Anlagen überschreitet nicht 2,0 Megawatt,
 
-7. der Erforschung, Entwicklung oder Nutzung der Kernenergie zu friedlichen Zwecken oder der Entsorgung radioaktiver Abfälle dient, mit Ausnahme der Neuerrichtung von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität, oder
+7. der Erforschung, Entwicklung oder Nutzung der Kernenergie zu friedlichen Zwecken oder der Entsorgung radioaktiver Abfälle dient, mit Ausnahme der Neuerrichtung von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität,
 
 8. der Nutzung solarer Strahlungsenergie dient
 
@@ -851,7 +861,15 @@ Autobahnen oder
 bb)  
 Schienenwegen des übergeordneten Netzes im Sinne des § 2b des Allgemeinen Eisenbahngesetzes mit mindestens zwei Hauptgleisen
 
-und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom äußeren Rand der Fahrbahn.
+und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom äußeren Rand der Fahrbahn, oder
+
+9. der Nutzung solarer Strahlungsenergie durch besondere Solaranlagen im Sinne des § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe a, b oder c des Erneuerbare-Energien-Gesetzes dient, unter folgenden Voraussetzungen:
+
+a) das Vorhaben steht in einem räumlich-funktionalen Zusammenhang mit einem Betrieb nach Nummer 1 oder 2,
+
+b) die Grundfläche der besonderen Solaranlage überschreitet nicht 25 000 Quadratmeter und
+
+c) es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben.
 
 (2) Sonstige Vorhaben können im Einzelfall zugelassen werden, wenn ihre Ausführung oder Benutzung öffentliche Belange nicht beeinträchtigt und die Erschließung gesichert ist.
 
@@ -919,7 +937,7 @@ c) bei der Errichtung einer weiteren Wohnung rechtfertigen Tatsachen die Annahme
 
 In begründeten Einzelfällen gilt die Rechtsfolge des Satzes 1 auch für die Neuerrichtung eines Gebäudes im Sinne des Absatzes 1 Nummer 1, dem eine andere Nutzung zugewiesen werden soll, wenn das ursprüngliche Gebäude vom äußeren Erscheinungsbild auch zur Wahrung der Kulturlandschaft erhaltenswert ist, keine stärkere Belastung des Außenbereichs zu erwarten ist als in Fällen des Satzes 1 und die Neuerrichtung auch mit nachbarlichen Interessen vereinbar ist; Satz 1 Nummer 1 Buchstabe b bis g gilt entsprechend. In den Fällen des Satzes 1 Nummer 2 und 3 sowie des Satzes 2 sind geringfügige Erweiterungen des neuen Gebäudes gegenüber dem beseitigten oder zerstörten Gebäude sowie geringfügige Abweichungen vom bisherigen Standort des Gebäudes zulässig.
 
-(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nummer 2 bis 6 und 8 Buchstabe b ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6 und 8 Buchstabe b zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
+(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6 und 8 Buchstabe b zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
 
 (6) Die Gemeinde kann für bebaute Bereiche im Außenbereich, die nicht überwiegend landwirtschaftlich geprägt sind und in denen eine Wohnbebauung von einigem Gewicht vorhanden ist, durch Satzung bestimmen, dass Wohnzwecken dienenden Vorhaben im Sinne des Absatzes 2 nicht entgegengehalten werden kann, dass sie einer Darstellung im Flächennutzungsplan über Flächen für die Landwirtschaft oder Wald widersprechen oder die Entstehung oder Verfestigung einer Splittersiedlung befürchten lassen. Die Satzung kann auch auf Vorhaben erstreckt werden, die kleineren Handwerks- und Gewerbebetrieben dienen. In der Satzung können nähere Bestimmungen über die Zulässigkeit getroffen werden. Voraussetzung für die Aufstellung der Satzung ist, dass
 
@@ -1771,9 +1789,11 @@ Der Enteignungsantrag ist bei der Gemeinde, in deren Gemarkung das zu enteignend
 
 (2) Das Enteignungsverfahren zugunsten der Gemeinde kann bereits eingeleitet werden, wenn
 
-1. der Entwurf des Bebauungsplans nach § 3 Absatz 2 ausgelegen hat und
+1. der Entwurf des Bebauungsplans nach § 3 Absatz 2 im Internet veröffentlicht worden ist,
 
-2. mit den Beteiligten die Verhandlungen nach § 87 Absatz 2 geführt und die von ihnen gegen den Entwurf des Bebauungsplans fristgemäß vorgebrachten Anregungen erörtert worden sind. Die Gemeinde kann in demselben Termin die Verhandlungen nach § 87 Absatz 2 führen und die Anregungen erörtern.
+2. die Veröffentlichungsfrist nach § 3 Absatz 2 Satz 1 abgelaufen ist und
+
+3. mit den Beteiligten die Verhandlungen nach § 87 Absatz 2 geführt und die von ihnen gegen den Entwurf des Bebauungsplans fristgemäß vorgebrachten Anregungen erörtert worden sind. Die Gemeinde kann in demselben Termin die Verhandlungen nach § 87 Absatz 2 führen und die Anregungen erörtern.
 
 Das Verfahren ist so zu fördern, dass der Enteignungsbeschluss ergehen kann, sobald der Bebauungsplan rechtsverbindlich geworden ist. Eine Einigung nach § 110 oder § 111 kann auch vor Rechtsverbindlichkeit des Bebauungsplans erfolgen.
 
@@ -2231,7 +2251,7 @@ Die Sanierung soll mit den Eigentümern, Mietern, Pächtern und sonstigen Betrof
 
 (1) Der Bund, einschließlich seiner Sondervermögen, die Länder, die Gemeindeverbände und die sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sollen im Rahmen der ihnen obliegenden Aufgaben die Vorbereitung und Durchführung von städtebaulichen Sanierungsmaßnahmen unterstützen.
 
-(2) § 4 Absatz 2 und § 4a Absatz 1 bis 4 und 6 sind bei der Vorbereitung und Durchführung der Sanierung auf Behörden und sonstige Träger öffentlicher Belange sinngemäß anzuwenden. Die Träger öffentlicher Belange haben die Gemeinde auch über Änderungen ihrer Absichten zu unterrichten.
+(2) § 4 Absatz 2 und § 4a Absatz 1 bis 3 und 5 sind bei der Vorbereitung und Durchführung der Sanierung auf Behörden und sonstige Träger öffentlicher Belange sinngemäß anzuwenden. Die Träger öffentlicher Belange haben die Gemeinde auch über Änderungen ihrer Absichten zu unterrichten.
 
 (3) Ist eine Änderung von Zielen und Zwecken der Sanierung oder von Maßnahmen und Planungen der Träger öffentlicher Belange, die aufeinander abgestimmt wurden, beabsichtigt, haben sich die Beteiligten unverzüglich miteinander ins Benehmen zu setzen.
 
@@ -3167,7 +3187,7 @@ zu regeln.
 
 (2) Die für das Eigentum an Grundstücken bestehenden Vorschriften sind, soweit dieses Gesetzbuch nichts anderes vorschreibt, entsprechend auch auf grundstücksgleiche Rechte anzuwenden.
 
-(3) Die Gemeinde kann sofort oder in absehbarer Zeit bebaubare Flächen in Karten oder Listen auf der Grundlage eines Lageplans erfassen, der Flur- und Flurstücksnummern, Straßennamen und Angaben zur Grundstücksgröße enthält (Baulandkataster). Sie kann die Flächen in Karten oder Listen veröffentlichen, soweit der Grundstückseigentümer nicht widersprochen hat. Die Gemeinde hat ihre Absicht zur Veröffentlichung einen Monat vorher öffentlich bekannt zu geben und dabei auf das Widerspruchsrecht der Grundstückseigentümer hinzuweisen.
+(3) Die Gemeinde kann sofort oder in absehbarer Zeit bebaubare Flächen in Karten oder Listen auf der Grundlage eines Lageplans erfassen, der Flur- und Flurstücksnummern, Straßennamen und Angaben zur Grundstücksgröße enthält (Baulandkataster).Baulandkataster können elektronisch geführt werden. Die Gemeinde kann die Flächen in Karten oder Listen veröffentlichen, soweit der Grundstückseigentümer nicht widersprochen hat. Diese Veröffentlichung kann auch im Internet erfolgen. Die Gemeinde hat ihre Absicht zur Veröffentlichung einen Monat vorher öffentlich bekannt zu geben und dabei auf das Widerspruchsrecht der Grundstückseigentümer hinzuweisen.
 
 # § 200a – Ersatzmaßnahmen
 
@@ -3227,7 +3247,7 @@ Mutterboden, der bei der Errichtung und Änderung baulicher Anlagen sowie bei we
 
 (6) Ein Zusammenschluss nach dem Zweckverbandsrecht oder durch besondere Landesgesetze wird durch diese Vorschriften nicht ausgeschlossen.
 
-(7) Wird die Befugnis zur Aufstellung von Bauleitplänen nach den Absätzen 1 bis 3 oder 6 übertragen, sind die Entwürfe der Bauleitpläne mit Begründung vor der Beschlussfassung hierüber oder der Festsetzung nach Absatz 3 Satz 2 oder 4 den Gemeinden, für deren Gebiet der Bauleitplan aufgestellt werden soll, zur Stellungnahme innerhalb angemessener Frist zuzuleiten. Auf die Behandlung der von den Gemeinden fristgemäß vorgebrachten Anregungen ist § 3 Absatz 2 Satz 4 und 6 entsprechend anzuwenden.
+(7) Wird die Befugnis zur Aufstellung von Bauleitplänen nach den Absätzen 1 bis 3 oder 6 übertragen, sind die Entwürfe der Bauleitpläne mit Begründung vor der Beschlussfassung hierüber oder der Festsetzung nach Absatz 3 Satz 2 oder 4 den Gemeinden, für deren Gebiet der Bauleitplan aufgestellt werden soll, zur Stellungnahme innerhalb angemessener Frist zuzuleiten. Auf die Behandlung der von den Gemeinden fristgemäß vorgebrachten Anregungen ist § 3 Absatz 2 Satz 6 und 8 entsprechend anzuwenden.
 
 # § 206 – Örtliche und sachliche Zuständigkeit
 
@@ -3321,7 +3341,7 @@ keine aufschiebende Wirkung. § 80 Absatz 4 und 5 der Verwaltungsgerichtsordnung
 
 1. entgegen § 2 Absatz 3 die von der Planung berührten Belange, die der Gemeinde bekannt waren oder hätten bekannt sein müssen, in wesentlichen Punkten nicht zutreffend ermittelt oder bewertet worden sind und wenn der Mangel offensichtlich und auf das Ergebnis des Verfahrens von Einfluss gewesen ist;
 
-2. die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 1 und Absatz 5 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
+2. die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
 
 a) bei Anwendung der Vorschriften einzelne Personen, Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind, die entsprechenden Belange jedoch unerheblich waren oder in der Entscheidung berücksichtigt worden sind,
 
@@ -3329,9 +3349,9 @@ b) einzelne Angaben dazu, welche Arten umweltbezogener Informationen verfügbar 
 
 c) (weggefallen)
 
-d) bei Vorliegen eines wichtigen Grundes nach § 3 Absatz 2 Satz 1 nicht für die Dauer einer angemessenen längeren Frist ausgelegt worden ist und die Begründung für die Annahme des Nichtvorliegens eines wichtigen Grundes nachvollziehbar ist,
+d) bei Vorliegen eines wichtigen Grundes nach § 3 Absatz 2 Satz 1 nicht für die Dauer einer angemessenen längeren Frist im Internet veröffentlicht worden ist und die Begründung für die Annahme des Nichtvorliegens eines wichtigen Grundes nachvollziehbar ist,
 
-e) bei Anwendung des § 4a Absatz 4 Satz 1 der Inhalt der Bekanntmachung und die auszulegenden Unterlagen zwar in das Internet eingestellt, aber nicht über das zentrale Internetportal des Landes zugänglich sind,
+e) bei Anwendung des § 3 Absatz 2 Satz 5 der Inhalt der Bekanntmachung zwar in das Internet eingestellt wurde, aber die Bekanntmachung und die nach § 3 Absatz 2 Satz 1 zu veröffentlichenden Unterlagen nicht über das zentrale Internetportal des Landes zugänglich gemacht wurden,
 
 f) bei Anwendung des § 13 Absatz 3 Satz 2 die Angabe darüber, dass von einer Umweltprüfung abgesehen wird, unterlassen wurde oder
 
@@ -3641,6 +3661,12 @@ Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 
 
 (4) Die in Absatz 1 Satz 1 genannten Rechtswirkungen können Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht entgegengehalten werden, wenn an der Stelle des Vorhabens in einem Planentwurf eine Ausweisung für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, vorgesehen ist, für den Planentwurf bereits eine Beteiligung nach § 3 Absatz 2, § 4 des Baugesetzbuchs oder § 9 Absatz 2 des Raumordnungsgesetzes durchgeführt wurde und anzunehmen ist, dass das Vorhaben den künftigen Ausweisungen entspricht.
 
+# § 245f – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung
+
+(1) Abweichend von § 233 Absatz 1 ist § 6 Absatz 4 in der Fassung dieses Gesetzes anzuwenden, wenn der Genehmigungsantrag bei der höheren Verwaltungsbehörde nach dem 7. Juli 2023 eingegangen ist.
+
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauweisen evaluiert die Auswirkungen der Änderungen der §§ 3, 4, 4a und 200 zur Digitalisierung und die Änderung des § 6 zur Fristverkürzung auf die Bauleitplanverfahren bis zum 31. Dezember 2027.
+
 # § 246 – Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
 (1) In den Ländern Berlin und Hamburg entfallen die in § 6 Absatz 1, § 10 Absatz 2 und § 190 Absatz 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
@@ -3659,39 +3685,39 @@ Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 
 
 (7) Die Länder können bestimmen, dass § 34 Absatz 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Absatz 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
 
-(8) Bis zum Ablauf des 31. Dezember 2024 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
+(8) Bis zum Ablauf des 31. Dezember 2027 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
 
-(9) Bis zum Ablauf des 31. Dezember 2024 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
+(9) Bis zum Ablauf des 31. Dezember 2027 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
 
-(10) Bis zum Ablauf des 31. Dezember 2024 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
+(10) Bis zum Ablauf des 31. Dezember 2027 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
 
-(11) Soweit in den Baugebieten nach den §§ 2 bis 7 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) Anlagen für soziale Zwecke als Ausnahme zugelassen werden können, gilt § 31 Absatz 1 mit der Maßgabe, dass dort bis zum Ablauf des 31. Dezember 2024 Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende in der Regel zugelassen werden sollen. Satz 1 gilt entsprechend für in übergeleiteten Plänen festgesetzte Baugebiete, die den in Satz 1 genannten Baugebieten vergleichbar sind.
+(11) Soweit in den Baugebieten nach den §§ 2 bis 8 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) Anlagen für soziale Zwecke als Ausnahme zugelassen werden können, gilt § 31 Absatz 1 mit der Maßgabe, dass Anlagen für soziale Zwecke, die der Unterbringung und weiteren Versorgung von Flüchtlingen und Asylbegehrenden dienen, dort bis zum Ablauf des 31. Dezember 2027 in der Regel zugelassen werden sollen. Satz 1 gilt entsprechend für in übergeleiteten Plänen festgesetzte Baugebiete, die den in Satz 1 genannten Baugebieten vergleichbar sind.
 
-(12) Bis zum Ablauf des 31. Dezember 2024 kann für die auf längstens drei Jahre zu befristende
+(12) Bis zum Ablauf des 31. Dezember 2027 kann für die auf längstens drei Jahre zu befristende
 
 1. Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
 
 2. Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in Gewerbe- und Industriegebieten sowie in Sondergebieten nach den §§ 8 bis 11 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende
 
-von den Festsetzungen des Bebauungsplans befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Die in Satz 1 genannte Frist von drei Jahren kann bei Vorliegen der dort genannten Befreiungsvoraussetzungen um weitere drei Jahre verlängert werden, längstens jedoch bis zum Ablauf des 31. Dezember 2027. Sofern die Frist bereits abgelaufen ist, gilt Satz 1 auch für die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 zu befristende Fortsetzung der zuvor ausgeübten Nutzung einer bestehenden baulichen Anlage entsprechend. § 36 gilt entsprechend.
+von den Festsetzungen des Bebauungsplans befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Die in Satz 1 genannte Frist von drei Jahren kann bei Vorliegen der dort genannten Befreiungsvoraussetzungen um weitere drei Jahre verlängert werden, längstens jedoch bis zum Ablauf des 31. Dezember 2030. Sofern die Frist bereits abgelaufen ist, gilt Satz 1 auch für die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2030 zu befristende Fortsetzung der zuvor ausgeübten Nutzung einer bestehenden baulichen Anlage entsprechend. § 36 gilt entsprechend.
 
-(13) Im Außenbereich (§ 35) gilt unbeschadet des Absatzes 9 bis zum Ablauf des 31. Dezember 2024 die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend für
+(13) Im Außenbereich (§ 35) gilt unbeschadet des Absatzes 9 bis zum Ablauf des 31. Dezember 2027 die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend für
 
 1. die auf längstens drei Jahre zu befristende Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
 
 2. die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen, auch wenn deren bisherige Nutzung aufgegeben wurde, in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende, einschließlich einer erforderlichen Erneuerung oder Erweiterung.
 
-Die in Satz 1 Nummer 1 genannte Frist von drei Jahren kann um weitere drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 verlängert werden; für die Verlängerung gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Sofern die Frist bereits abgelaufen ist, gilt auch für die Entscheidung über die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 zu befristende erneute Zulässigkeit einer bereits errichteten mobilen Unterkunft für Flüchtlinge oder Asylbegehrende die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Wird zum Zeitpunkt einer Nutzungsänderung nach Satz 1 Nummer 2 eine Nutzung zulässigerweise ausgeübt, kann diese im Anschluss wieder aufgenommen werden; im Übrigen gelten für eine nachfolgende Nutzungsänderung die allgemeinen Regeln. Die Rückbauverpflichtung nach Satz 4 entfällt, wenn eine nach Satz 5 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 4 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist.
+Die in Satz 1 Nummer 1 genannte Frist von drei Jahren kann um weitere drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2030 verlängert werden; für die Verlängerung gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Sofern die Frist bereits abgelaufen ist, gilt auch für die Entscheidung über die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2030 zu befristende erneute Zulässigkeit einer bereits errichteten mobilen Unterkunft für Flüchtlinge oder Asylbegehrende die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Wird zum Zeitpunkt einer Nutzungsänderung nach Satz 1 Nummer 2 eine Nutzung zulässigerweise ausgeübt, kann diese im Anschluss wieder aufgenommen werden; im Übrigen gelten für eine nachfolgende Nutzungsänderung die allgemeinen Regeln. Die Rückbauverpflichtung nach Satz 4 entfällt, wenn eine nach Satz 5 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 4 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist.
 
 (13a) Von den Absätzen 8 bis 13 darf nur Gebrauch gemacht werden, soweit dringend benötigte Unterkünfte im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können.
 
-(14) Soweit auch bei Anwendung der Absätze 8 bis 13 dringend benötigte Unterkunftsmöglichkeiten im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder sonstigen Unterkünften für Flüchtlinge oder Asylbegehrende bis zum Ablauf des 31. Dezember 2024 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang abgewichen werden. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 entsprechend. Absatz 13 Satz 5 gilt entsprechend. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist. Wenn Vorhabenträger ein Land oder in dessen Auftrag ein Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum Ablauf des 31. Dezember 2024 auf Vorhaben nach Satz 1 keine Anwendung.
+(14) Soweit auch bei Anwendung der Absätze 8 bis 13 dringend benötigte Unterkunftsmöglichkeiten im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder sonstigen Unterkünften für Flüchtlinge oder Asylbegehrende bis zum Ablauf des 31. Dezember 2027 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang abgewichen werden. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 entsprechend. Absatz 13 Satz 5 gilt entsprechend. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist. Wenn Vorhabenträger ein Land oder in dessen Auftrag ein Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum Ablauf des 31. Dezember 2027 auf Vorhaben nach Satz 1 keine Anwendung.
 
-(15) In Verfahren zur Genehmigung von baulichen Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, gilt bis zum Ablauf des 31. Dezember 2024 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 (auch in Verbindung mit Absatz 10 Satz 2 und Absatz 12 Satz 2) als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+(15) In Verfahren zur Genehmigung von baulichen Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, gilt bis zum Ablauf des 31. Dezember 2027 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 (auch in Verbindung mit Absatz 10 Satz 2 und Absatz 12 Satz 2) als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
 
-(16) Bei Vorhaben nach den Absätzen 9 und 13 sowie bei Vorhaben nach Absatz 14 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2024 entsprechend.
+(16) Bei Vorhaben nach den Absätzen 9 und 13 sowie bei Vorhaben nach Absatz 14 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2027 entsprechend.
 
-(17) Die Befristung bis zum Ablauf des 31. Dezember 2024 in den Absätzen 8 bis 13 sowie 14 bis 16 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von den Vorschriften Gebrauch gemacht werden kann.
+(17) Die Befristung bis zum Ablauf des 31. Dezember 2027 in den Absätzen 8 bis 13 sowie 14 bis 16 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von den Vorschriften Gebrauch gemacht werden kann.
 
 # § 246a – Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
 
@@ -3707,17 +3733,37 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Absatz 6
 
 (4) Die Befristung in Absatz 1 Satz 1 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von der Vorschrift Gebrauch gemacht werden kann.
 
-# § 246c – Sonderregelungen für bestimmte mobile bauliche Anlagen und mobile Infrastruktureinrichtungen in von Hochwasserkatastrophen betroffenen Gemeinden
+# § 246c – Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung
 
-(1) In Gemeinden, die von einer Hochwasserkatastrophe im Gemeindegebiet betroffen sind, kann bei der Zulassung von Vorhaben, die die Errichtung mobiler baulicher Anlagen zur Wohnnutzung, mobiler Infrastruktureinrichtungen oder mobiler baulicher Anlagen für Läden oder nicht störende Handwerksbetriebe zur Deckung des täglichen Bedarfs der Bewohner der Umgebung zum Inhalt haben, bis zum Ablauf des 31. Dezember 2022 von den Vorschriften dieses Gesetzbuchs oder den auf Grund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang auf längstens fünf Jahre befristet abgewichen werden, wenn diese dringend benötigten baulichen Anlagen oder dringend benötigten Infrastruktureinrichtungen im Gebiet der Gemeinde, in der sie entstehen sollen, als mobile oder nicht mobile Anlagen nicht oder nicht rechtzeitig zur Verfügung stehen. Satz 1 ist entsprechend anwendbar, wenn das Vorhaben in einer Nachbargemeinde einer Gemeinde im Sinne des Satzes 1 ausgeführt werden soll und dringend benötigte in Satz 1 genannte bauliche Anlagen oder dringend benötigte Infrastruktureinrichtungen im Gebiet der betroffenen Gemeinde und in dieser Nachbargemeinde als mobile oder nicht mobile Anlagen nicht oder nicht rechtzeitig zur Verfügung stehen.
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Wiederaufbaugebiete zu bestimmen. Ein Wiederaufbaugebiet ist ein Gebiet, in dem ein Katastrophenfall zu einer so erheblichen Schädigung oder unmittelbaren Gefährdung der Bausubstanz nicht nur einzelner baulicher Anlagen geführt hat, dass zum Zwecke der Katastrophenbewältigung eine oder mehrere der in Absatz 2 aufgeführten Abweichungen von den Vorschriften dieses Gesetzbuchs oder von den auf Grund dieses Gesetzbuchs erlassenen Vorschriften erforderlich sind.
 
-(2) Bei Vorhaben nach Absatz 1 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2022 entsprechend.
+(2) In der Rechtsverordnung kann vorgesehen werden, dass
 
-(3) Die Befristung in Absatz 1 auf den Ablauf des 31. Dezember 2022 bezieht sich auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von der Vorschrift Gebrauch gemacht werden kann. Die in Absatz 1 genannte Frist von fünf Jahren bezieht sich auf die Geltungsdauer der Genehmigung.
+1. zugunsten eines Vorhabens im Wiederaufbaugebiet oder in einer benachbarten Gemeinde, das die Errichtung, Änderung oder Nutzungsänderung einer dringend benötigten baulichen Anlage oder Infrastruktureinrichtung zum Inhalt hat, vorübergehend von den §§ 29 bis 35 abgewichen werden kann, wenn diese oder vergleichbare Anlagen oder Einrichtungen bei Anwendung der genannten Vorschriften im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig zur Verfügung gestellt werden könnten; ergänzend sind die Voraussetzungen des Absatzes 4 zu beachten;
 
-(4) Die Länder können durch Landesrecht ergänzende Bestimmungen zum Rückbau der in Absatz 1 genannten Vorhaben treffen.
+2. durch die Katastrophe zerstörte oder beschädigte Gebäude oder Gebäudeteile im Einvernehmen mit der für die jeweilige Katastrophenvorsorge zuständigen Behörde
 
-(5) § 36 findet mit der Maßgabe Anwendung, dass das Einvernehmen nur dann aus den sich aus den §§ 31, 33 bis 35 ergebenden Gründen versagt werden kann, wenn die städtebauliche Entwicklung des Gemeindegebiets der Gemeinde, in der das Vorhaben ausgeführt werden soll, beeinträchtigt würde. Abweichend von § 36 Absatz 2 Satz 2 gilt bis zum Ablauf des 31. Dezember 2022 das Einvernehmen als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+a) an gleicher Stelle in angepasster Weise oder,
+
+b) wenn dies unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist, geringfügig vom bisherigen Standort versetzt in gleicher oder angepasster Weise
+
+abweichend von den §§ 29 bis 35 wiederaufgebaut oder instand gesetzt werden können, um so zukünftige Schädigungen durch Katastrophenfälle zu vermeiden oder zu mindern;
+
+3. bei der Aufstellung, Änderung oder Ergänzung von Bauleitplänen zur Neuausweisung oder Umplanung von Baugebieten in einer Gemeinde mit einem Wiederaufbaugebiet oder in einer benachbarten Gemeinde Beeinträchtigungen des Landschaftsbildes sowie der Leistungs- und Funktionsfähigkeit des Naturhaushalts im Sinne des § 1a Absatz 3 als ausgeglichen gelten, wenn im Wiederaufbaugebiet Flächen im Umfang der neu ausgewiesenen zulässigen Grundfläche im Sinne des § 19 Absatz 2 der Baunutzungsverordnung entsiegelt werden und die Durchführung der Entsiegelung in geeigneter Weise sichergestellt ist;
+
+4. für Bebauungspläne im Sinne der Nummer 3 das beschleunigte Verfahren mit einer Vorprüfung des Einzelfalls nach § 13a Absatz 1 Satz 2 Nummer 2 genutzt werden kann, wenn in dem Plan auch bei entsprechender Anwendung des § 13a Absatz 1 Satz 3 eine zulässige Grundfläche im Sinne des § 19 Absatz 2 der Baunutzungsverordnung oder eine Größe der Grundfläche von weniger als 70 000 Quadratmetern festgesetzt wird und das beschleunigte Verfahren nicht gemäß § 13a Absatz 1 Satz 4 und 5 ausgeschlossen ist; die zusammenfassenden Erklärungen nach § 6a Absatz 1 und § 10a Absatz 1 sind entgegen § 13 Absatz 3 jedoch beizufügen; bei der Vorprüfung des Einzelfalls ist zu berücksichtigen, inwieweit Umweltauswirkungen durch die Entsiegelung nach Nummer 3 ausgeglichen werden;
+
+5. eine Ersatzzahlung entsprechend § 15 Absatz 6 des Bundesnaturschutzgesetzes geleistet werden kann, wenn ein Ausgleich nach § 1a Absatz 3 wegen der Erfordernisse der Katastrophenbewältigung nicht oder nicht rechtzeitig möglich ist; dies gilt nur, soweit nicht von den Regelungen in den Nummern 3 und 4 Gebrauch gemacht wurde.
+
+(3) Bei dem Erlass der Rechtsverordnung sind relevante Umweltinformationen sowie Erkenntnisse und Maßnahmen zum Katastrophenschutz und zur Katastrophenvorsorge zu berücksichtigen, soweit sie bei dem für die Erarbeitung der Verordnung zuständigen Landesressort vorliegen. Öffentlich-rechtliche Vorgaben außerhalb dieses Gesetzbuchs, insbesondere die baulichen Schutzvorschriften für festgesetzte Überschwemmungsgebiete in § 78 des Wasserhaushaltsgesetzes sowie die Vorschriften des Bauordnungsrechts der Länder, bleiben unberührt.
+
+(4) Wird ein Vorhaben nach Absatz 2 Nummer 1 abweichend von den §§ 29 bis 35 zugelassen, ist die Geltungsdauer der Genehmigung auf höchstens fünf Jahre zu befristen. Die Genehmigung kann innerhalb der Geltungsdauer der Rechtsverordnung für höchstens fünf Jahre neu erteilt werden. § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 gilt entsprechend. Bei Vorhaben im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes entsprechend.
+
+(5) Wird ein Vorhaben nach Absatz 2 Nummer 1 oder Nummer 2 abweichend von den §§ 29 bis 35 zugelassen, ist § 36 mit der Maßgabe anzuwenden, dass das Einvernehmen nur dann aus den sich aus den §§ 31, 33 bis 35 ergebenden Gründen versagt werden kann, wenn die städtebauliche Entwicklung des Gemeindegebiets beeinträchtigt würde. Abweichend von § 36 Absatz 2 Satz 2 gilt das Einvernehmen als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+
+(6) Eine Rechtsverordnung nach Absatz 1 kann nur innerhalb von zwei Jahren nach Eintritt des Katastrophenfalls erstmals in Kraft gesetzt werden. Ihre Geltungsdauer ist auf höchstens ein Jahr nach dem Kabinettsbeschluss zu befristen; sie kann unter den Voraussetzungen des Absatzes 1 jeweils um höchstens ein Jahr verlängert werden. Verfahren zur Aufstellung von Bebauungsplänen nach Absatz 2 Nummer 3 bis 5 können nach Außerkrafttreten der Verordnung unter Anwendung der Sonderregelungen abgeschlossen werden, wenn die Planunterlagen während der Geltungsdauer der Verordnung gemäß § 3 Absatz 2 im Internet veröffentlicht wurden. Satz 1 findet bis zum Ablauf des 7. Juli 2024 keine Anwendung.
+
+(7) In den ersten sechs Monaten nach Eintritt des Katastrophenfalls kann die Baugenehmigungsbehörde mit Zustimmung der höheren Verwaltungsbehörde im Gebiet der von der Katastrophe betroffenen Gemeinde sowie in benachbarten Gemeinden bei der Zulassung von Vorhaben im Sinne des Absatzes 2 Nummer 1 und unter den dort genannten weiteren Voraussetzungen von den §§ 29 bis 35 vorübergehend abweichen, wenn eine Rechtsverordnung nach den Absätzen 1 und 2 Nummer 1 nicht ergangen ist. Die Absätze 4 und 5 sind entsprechend anzuwenden.
 
 # § 246d – Sonderregelung für Biogasanlagen
 
@@ -3749,7 +3795,7 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 (1) § 35 Absatz 3 Satz 3 ist auf Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht anzuwenden.
 
-(2) Außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) richtet sich die Zulässigkeit der in Absatz 1 genannten Vorhaben in einem Land nach § 35 Absatz 2, wenn das Erreichen eines in Anlage 1 des Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde. Hat ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes regionale oder kommunale Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, gilt die Rechtsfolge des Satzes 1 für das Gebiet der jeweiligen Region oder Gemeinde. Der Eintritt der Rechtsfolge der Sätze 1 und 2 ist gesetzliche Folge der Feststellung.
+(2) Außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes richtet sich die Zulässigkeit der in Absatz 1 genannten Vorhaben in einem Land nach § 35 Absatz 2, wenn das Erreichen eines in der Anlage des Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde. Hat ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes regionale oder kommunale Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, gilt die Rechtsfolge des Satzes 1 für das Gebiet der jeweiligen Region oder Gemeinde. Der Eintritt der Rechtsfolge der Sätze 1 und 2 ist gesetzliche Folge der Feststellung.
 
 (3) Die Rechtsfolge des Absatzes 2 gilt bis zum Ablauf des 31. Dezember 2030 nicht für Vorhaben im Sinne des § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, es sei denn, das Vorhaben soll in einem Natura 2000-Gebiet im Sinne des § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, oder in einem Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes verwirklicht werden.
 
@@ -3759,7 +3805,7 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 (6) Die Ausweisung von Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes erfolgt nach den für die jeweiligen Planungsebenen geltenden Vorschriften für Gebietsausweisungen. Für die Rechtswirksamkeit des Plans ist es hingegen unbeachtlich, ob und welche sonstigen Flächen im Planungsraum für die Ausweisung von Windenergiegebieten geeignet sind.
 
-(7) Sobald und solange nach Ablauf des jeweiligen Stichtages gemäß § 3 Absatz 1 Satz 2 des Windenergieflächenbedarfsgesetzes weder der Flächenbeitragswert nach Anlage 1 Spalte 1 oder Spalte 2 des Windenergieflächenbedarfsgesetzes noch ein daraus abgeleitetes Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht wird,
+(7) Sobald und solange nach Ablauf des jeweiligen Stichtages gemäß § 3 Absatz 1 Satz 2 des Windenergieflächenbedarfsgesetzes weder der Flächenbeitragswert nach Spalte 1 oder Spalte 2 der Anlage zum Windenergieflächenbedarfsgesetz noch ein daraus abgeleitetes Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht wird,
 
 1. entfällt die Rechtsfolge des Absatzes 2 und
 
@@ -3777,7 +3823,7 @@ Landesgesetze nach Absatz 9 Satz 1 und 4 sind nicht mehr anzuwenden, wenn gemä�
 
 (1) Ein Vorhaben, das der Herstellung oder Speicherung von Wasserstoff dient und in einem räumlich-funktionalen Zusammenhang mit einer Anlage zur Erforschung, Entwicklung oder Nutzung der Windenergie nach § 35 Absatz 1 Nummer 5 steht, gilt unter den in Absatz 4 genannten weiteren Voraussetzungen ebenfalls als Vorhaben nach § 35 Absatz 1 Nummer 5.
 
-(2) Ein Vorhaben, das der Herstellung oder Speicherung von Wasserstoff dient und in einem räumlich-funktionalen Zusammenhang mit einer Anlage zur Nutzung solarer Strahlungsenergie nach § 35 Absatz 1 Nummer 8 Buchstabe b steht, gilt unter den in Absatz 4 genannten weiteren Voraussetzungen ebenfalls als Vorhaben nach § 35 Absatz 1 Nummer 8 Buchstabe b.
+(2) Ein Vorhaben, das der Herstellung oder Speicherung von Wasserstoff dient und in einem räumlich-funktionalen Zusammenhang mit einer Anlage zur Nutzung solarer Strahlungsenergie nach § 35 Absatz 1 Nummer 8 Buchstabe b oder Nummer 9 steht, gilt unter den in Absatz 4 genannten weiteren Voraussetzungen ebenfalls als Vorhaben nach § 35 Absatz 1 Nummer 8 Buchstabe b oder Nummer 9.
 
 (3) Ein Vorhaben, das der Herstellung oder Speicherung von Wasserstoff dient, ist unter den in den Absätzen 4 und 5 genannten weiteren Voraussetzungen im Außenbereich auch dann zulässig, wenn es im unmittelbar an eine vorhandene Anlage zur Nutzung solarer Strahlungsenergie anschließenden Außenbereich verwirklicht werden soll und der dieser Anlage zugrunde liegende Bebauungsplan vor dem 1. Januar 2023 öffentlich ausgelegt worden ist.
 
@@ -3798,6 +3844,8 @@ Landesgesetze nach Absatz 9 Satz 1 und 4 sind nicht mehr anzuwenden, wenn gemä�
 2. die ausreichende Erschließung des Vorhabens gesichert ist und
 
 3. die Voraussetzungen des § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 gegeben sind.
+
+§ 36 ist entsprechend anzuwenden.
 
 # § 249b – Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus
 
