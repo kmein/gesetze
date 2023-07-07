@@ -307,7 +307,7 @@ Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nich
 
 (2) Zulässig sind
 
-1. Gewerbebetriebe aller Art, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
+1. Gewerbebetriebe aller Art einschließlich Anlagen zur Erzeugung von Strom oder Wärme aus solarer Strahlungsenergie oder Windenergie, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
 
 2. Geschäfts- , Büro- und Verwaltungsgebäude,
 
@@ -329,7 +329,7 @@ Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nich
 
 (2) Zulässig sind
 
-1. Gewerbebetriebe aller Art, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
+1. Gewerbebetriebe aller Art einschließlich Anlagen zur Erzeugung von Strom oder Wärme aus solarer Strahlungsenergie oder Windenergie, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
 
 2. Tankstellen.
 
@@ -366,7 +366,7 @@ Gebiete für Messen, Ausstellungen und Kongresse,
 Hochschulgebiete,  
 Klinikgebiete,  
 Hafengebiete,  
-Gebiete für Anlagen, die der Erforschung, Entwicklung oder Nutzung erneuerbarer Energien, wie Wind- und Sonnenenergie, dienen.
+Gebiete für Anlagen, die der Erforschung, Entwicklung oder Nutzung erneuerbarer Energien, wie Windenergie und solare Strahlungsenergie, dienen.
 
 (3)
 
@@ -408,15 +408,15 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 # § 14 – Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
 
-(1) Außer den in den §§ 2 bis 13 genannten Anlagen sind auch untergeordnete Nebenanlagen und Einrichtungen zulässig, die dem Nutzungszweck der in dem Baugebiet gelegenen Grundstücke oder des Baugebiets selbst dienen und die seiner Eigenart nicht widersprechen. Soweit nicht bereits in den Baugebieten nach dieser Verordnung Einrichtungen und Anlagen für die Tierhaltung, einschließlich der Kleintiererhaltungszucht, zulässig sind, gehören zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 auch solche für die Kleintierhaltung. Im Bebauungsplan kann die Zulässigkeit der Nebenanlagen und Einrichtungen eingeschränkt oder ausgeschlossen werden.
+(1) Außer den in den §§ 2 bis 13 genannten Anlagen sind auch untergeordnete Nebenanlagen und Einrichtungen zulässig, die dem Nutzungszweck der in dem Baugebiet gelegenen Grundstücke oder des Baugebiets selbst dienen und die seiner Eigenart nicht widersprechen. Soweit nicht bereits in den Baugebieten nach dieser Verordnung Einrichtungen und Anlagen für die Tierhaltung, einschließlich der Kleintiererhaltungszucht, zulässig sind, gehören zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 auch solche für die Kleintierhaltung. Zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 gehören auch Anlagen zur Erzeugung von Strom oder Wärme aus erneuerbaren Energien. Im Bebauungsplan kann die Zulässigkeit der Nebenanlagen und Einrichtungen eingeschränkt oder ausgeschlossen werden.
 
-(1a) In den Baugebieten nach den §§ 2 bis 11 sind Nebenanlagen, die der öffentlichen Versorgung mit Telekommunikationsdienstleistungen dienen, zulässig; Absatz 1 Satz 3 gilt entsprechend.
+(1a) In den Baugebieten nach den §§ 2 bis 11 sind Nebenanlagen, die der öffentlichen Versorgung mit Telekommunikationsdienstleistungen dienen, zulässig; Absatz 1 Satz 4 gilt entsprechend.
 
 (2) Die der Versorgung der Baugebiete mit Elektrizität, Gas, Wärme und Wasser sowie zur Ableitung von Abwasser dienenden Nebenanlagen können in den Baugebieten als Ausnahme zugelassen werden, auch soweit für sie im Bebauungsplan keine besonderen Flächen festgesetzt sind. Dies gilt auch für fernmeldetechnische Nebenanlagen sowie für Anlagen für erneuerbare Energien, soweit nicht Absatz 1 Satz 1 oder Absatz 1a Anwendung findet.
 
-(3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Außenwandflächen oder Kraft-Wärme-Kopplungsanlagen innerhalb von Gebäuden nicht bereits nach den §§ 2 bis 13 zulässig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollständig oder überwiegend in das öffentliche Netz eingespeist wird.
+(3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Außenwandflächen oder Kraft-Wärme-Kopplungsanlagen innerhalb von Gebäuden nicht bereits nach den §§ 2 bis 13 zulässig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollständig oder überwiegend in das öffentliche Netz eingespeist wird. In Gewerbe-, Industrie- und sonstigen Sondergebieten gilt Satz 1 auch für sonstige baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie.
 
-(4) In einem Gebiet nach § 11 Absatz 2 für Anlagen, die der Nutzung der Sonnenenergie dienen, sind Anlagen zur Herstellung oder Speicherung von Wasserstoff zulässig, wenn die Voraussetzungen entsprechend § 249a Absatz 4 gegeben sind. In Gewerbe- und Industriegebieten gilt Satz 1 entsprechend, wenn dort eine Anlage, die der Nutzung der Sonnenenergie dient und die keine Nebenanlage im Sinne dieser Vorschrift ist, tatsächlich vorhanden ist. Absatz 1 Satz 3 gilt entsprechend.
+(4) In einem Gebiet nach § 11 Absatz 2 für Anlagen, die der Nutzung solarer Strahlungsenergie dienen, sind Anlagen zur Herstellung oder Speicherung von Wasserstoff zulässig, wenn die Voraussetzungen entsprechend § 249a Absatz 4 gegeben sind. In Gewerbe- und Industriegebieten gilt Satz 1 entsprechend, wenn dort eine Anlage, die der Nutzung solarer Strahlungsenergie dient und die keine Nebenanlage im Sinne dieser Vorschrift ist, tatsächlich vorhanden ist. Absatz 1 Satz 4 gilt entsprechend.
 
 # § 15 – Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
 
@@ -610,6 +610,8 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 2. wenn die Einhaltung der Grenzen zu einer wesentlichen Erschwerung der zweckentsprechenden Grundstücksnutzung führen würde.
 
+(5) Soweit der Bebauungsplan nichts anderes festsetzt, darf die zulässige Grundfläche in Gewerbe-, Industrie- und sonstigen Sondergebieten durch die Grundflächen von Anlagen zur Erzeugung von Strom und Wärme aus solarer Strahlungsenergie und Windenergie überschritten werden.
+
 # § 20 – Vollgeschosse, Geschossflächenzahl, Geschossfläche
 
 (1) Als Vollgeschosse gelten Geschosse, die nach landesrechtlichen Vorschriften Vollgeschosse sind oder auf ihre Zahl angerechnet werden.
@@ -707,6 +709,10 @@ Ist der Entwurf eines Bauleitplans vor dem 23. Juni 2021 nach § 3 Absatz 2 des 
 # § 25f – Überleitungsvorschrift aus Anlass des Gesetzes zur sofortigen Verbesserung der Rahmenbedingungen für die erneuerbaren Energien im Städtebaurecht
 
 Ist der Entwurf eines Bauleitplans vor dem 1. Januar 2023 nach § 3 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt oder nach § 3 Absatz 1 des Planungssicherstellungsgesetzes im Internet veröffentlicht worden, ist auf ihn diese Verordnung in der bis zum 1. Januar 2023 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
+
+# § 25g – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften
+
+Ist der Entwurf eines Bauleitplans vor dem 7. Juli 2023 nach § 3 Absatz 2 des Baugesetzbuchs in der vor dem 7. Juli 2023 geltenden Fassung öffentlich ausgelegt oder nach § 3 Absatz 1 des Planungssicherstellungsgesetzes im Internet veröffentlicht worden, so ist auf ihn diese Verordnung in der bis zum 7. Juli 2023 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 # § 26 – (Berlin-Klausel)
 

@@ -19,8 +19,6 @@ von denen § 12 Abs. 3 und § 19 Abs. 1 zuletzt durch Artikel 34 Nr. 1 der Veror
 
 (2) Diese Verordnung gilt nach Maßgabe des Abschnitts 3 auch für koffeinhaltige Erfrischungsgetränke.
 
-(3) (weggefallen)
-
 # § 2 – Zutaten, Herstellungsanforderungen
 
 (1) Die Ausgangserzeugnisse für Erzeugnisse nach Anlage 1 müssen den Anforderungen der Anlage 2 entsprechen.
