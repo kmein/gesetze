@@ -260,6 +260,8 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 (5) Von dem Vermögen nach Absatz 1 Satz 1 ist für den Leistungsberechtigten und seine Familienangehörigen, die im selben Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
 
+§ 7 Abs. 1 Satz 1: Nach Maßgabe d. Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 11.7.2006 - 1 BvR 293/05 -; zur Umsetzung der Anforderungen d. BVerfG vgl. G v. 19.8.2007 I 1970 mWv 28.8.2007
+
 # § 7a – Sicherheitsleistung
 
 Von Leistungsberechtigten kann wegen der ihnen und ihren Familienangehörigen zu gewährenden Leistungen nach diesem Gesetz Sicherheit verlangt werden, soweit Vermögen im Sinne von § 7 Abs. 1 Satz 1 vorhanden ist. Die Anordnung der Sicherheitsleistung kann ohne vorherige Vollstreckungsandrohung im Wege des unmittelbaren Zwangs erfolgen.
