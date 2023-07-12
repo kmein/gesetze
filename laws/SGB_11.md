@@ -2851,8 +2851,6 @@ Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit 
 
 (5) Sind landwirtschaftliche Unternehmer, die nicht zugleich Bürgergeld beziehen, sowie mitarbeitende Familienangehörige Mitglied der landwirtschaftlichen Krankenkasse, wird der Beitrag abweichend von den Absätzen 1 bis 3 in Form eines Zuschlags auf den Krankenversicherungsbeitrag, den sie nach den Vorschriften des Zweiten Gesetzes über die Krankenversicherung der Landwirte aus dem Arbeitseinkommen aus Land- und Forstwirtschaft zu zahlen haben, erhoben. Die Höhe des Zuschlags ergibt sich aus dem Verhältnis des Beitragssatzes nach Absatz 1 Satz 1 zu dem um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatz nach § 241 des Fünften Buches. Sind die Voraussetzungen für einen Beitragszuschlag für Kinderlose nach Absatz 3 Satz 1 erfüllt und handelt es sich nicht um Mitglieder, die vor dem 1. Januar 1940 geboren wurden und nicht um Wehr- und Zivildienstleistende, erhöht sich der Zuschlag nach Satz 2 um das Verhältnis des Beitragszuschlags für Kinderlose zu dem Beitragssatz nach Absatz 1 Satz 1. Sind die Voraussetzungen für einen Abschlag nach Absatz 3 Satz 4 und 5 erfüllt und handelt es sich nicht um Wehr- und Zivildienstleistende, reduziert sich der Zuschlag nach Satz 2 um das Verhältnis des Abschlags zu dem Beitragssatz nach Absatz 1 Satz 1; § 59a Satz 2 findet keine Anwendung auf mitarbeitende Familienangehörige.
 
-§ 55 Abs. 1 Satz 1 u. Abs. 3 Satz 1 u. 2: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 7.4.2022 I 1023 - 1 BvL 3/18, 1 BvR 717/16, 1 BvR 2257/16, 1 BvR 2824/17 -
-
 # § 56 – Beitragsfreiheit
 
 (1) Familienangehörige sind für die Dauer der Familienversicherung nach § 25 beitragsfrei.
