@@ -270,6 +270,8 @@ zu verlangen. Die Kosten können auf der Grundlage der durchschnittlich für ver
 
 (3) Der Anschlussnehmer kann die Verlegung der Einrichtungen an eine andere geeignete Stelle verlangen, wenn ihm ihr Verbleiben an der bisherigen Stelle nicht mehr zugemutet werden kann. Die Kosten der Verlegung hat der Netzbetreiber zu tragen; dies gilt nicht, soweit die Anlage ausschließlich dem Netzanschluss des Grundstücks dient.
 
+§ 10 Abs. 2 Kursivdruck: Müsste richtig "das" lauten
+
 # § 11 – Baukostenzuschüsse
 
 (1) Der Netzbetreiber kann von dem Anschlussnehmer einen angemessenen Baukostenzuschuss zur teilweisen Deckung der bei wirtschaftlich effizienter Betriebsführung notwendigen Kosten für die Erstellung oder Verstärkung der örtlichen Verteileranlagen des Niederspannungsnetzes einschließlich Transformatorenstationen verlangen, soweit sich diese Anlagen ganz oder teilweise dem Versorgungsbereich zuordnen lassen, in dem der Anschluss erfolgt. Baukostenzuschüsse dürfen höchstens 50 vom Hundert dieser Kosten abdecken.

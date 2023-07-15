@@ -4689,9 +4689,11 @@ Leitungen nach § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungs
 
 6. Leerrohre, die im räumlichen und zeitlichen Zusammenhang mit der Baumaßnahme eines Erdkabels nach Absatz 1 Satz 1 Nummer 2 bis 4 oder nach den Nummern 2 bis 4 mit verlegt werden,
 
-7. die Errichtung und der Betrieb sowie die Änderung von Energiekopplungsanlagen und
+7. die Errichtung und der Betrieb sowie die Änderung von Energiekopplungsanlagen,
 
-8. die Errichtung und der Betrieb sowie die Änderung von Großspeicheranlagen mit einer Nennleistung ab 50 Megawatt, soweit sie nicht § 126 des Bundesberggesetzes unterfallen.
+8. die Errichtung und der Betrieb sowie die Änderung von Großspeicheranlagen mit einer Nennleistung ab 50 Megawatt, soweit sie nicht § 126 des Bundesberggesetzes unterfallen und
+
+9. die Errichtung und der Betrieb von Anlagen nach § 2 Absatz 1 Nummer 1 des LNG-Beschleunigungsgesetzes einschließlich erforderlicher Nebenanlagen und technischer und baulicher Nebeneinrichtungen, dabei kann auch eine Verbindung mit einem nach Absatz 1 Satz 1 Nummer 6 durchzuführenden Planfeststellungsverfahren erfolgen.
 
 Satz 1 ist für Erdkabel auch bei Abschnittsbildung anzuwenden, wenn die Erdverkabelung in unmittelbarem Zusammenhang mit dem beantragten Abschnitt einer Freileitung steht.
 
