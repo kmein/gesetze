@@ -53,7 +53,7 @@
 
 (1) Die Vorschriften dieser Verordnung gelten
 
-1. für die Durchführung der Rechtsakte der Europäischen Union im Rahmen der gemeinsamen Agrarpolitik für landwirtschaftliche Erzeugnisse, insbesondere der gemeinsamen Marktorganisation für landwirtschaftliche Erzeugnisse, für den Sektor Obst und Gemüse hinsichtlich der anerkannten Erzeugerorganisationen, der Betriebsfonds, der operationellen Programme (Unionsrecht) sowie
+1. für die Durchführung der Rechtsakte der Europäischen Union im Rahmen der gemeinsamen Agrarpolitik für landwirtschaftliche Erzeugnisse, insbesondere der gemeinsamen Marktorganisation für landwirtschaftliche Erzeugnisse, für den Sektor Obst und Gemüse hinsichtlich der anerkannten Erzeugerorganisationen, der anerkannten Vereinigungen von Erzeugerorganisationen, der Branchenverbände, der Betriebsfonds, der operationellen Programme (Unionsrecht) sowie
 
 2. für die Regelung eines effektiven und verhältnismäßigen Verwaltungs-, Kontroll- und Sanktionssystems im Rahmen des Unionsrechts.
 
@@ -155,7 +155,7 @@ Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorg
 
 # § 8 – Anwendung der Agrarorganisationen-und-Lieferketten-Verordnung
 
-Soweit in dieser Verordnung nicht anders geregelt, sind die §§ 6 und 7 der Agrarorganisationen-und-Lieferketten-Verordnung vom 11. Oktober 2021 (BGBl. I S. 4655) entsprechend anzuwenden.
+Auf Branchenverbände im Geltungsbereich dieser Verordnung sind die einschlägigen Vorschriften der Agrarorganisationen-und-Lieferketten-Verordnung vom 11. Oktober 2021 (BGBl. I S. 4655) anwendbar. Darüber hinaus sind im Geltungsbereich dieser Verordnung auch die §§ 6, 7, 18 und 20 der Agrarorganisationen-und-Lieferketten-Verordnung entsprechend anzuwenden.
 
 # § 9 – Wert der vermarkteten Erzeugung
 
@@ -177,7 +177,7 @@ Soweit in dieser Verordnung nicht anders geregelt, sind die §§ 6 und 7 der Agr
 
 # § 11 – Beantragung eines operationellen Programms
 
-(1) Ein operationelles Programm ist von einer anerkannten Erzeugerorganisation unter Vorlage der erforderlichen Unterlagen bis spätestens 15. September des Jahres, das dem Jahr des Beginns der Durchführung des operationellen Programms vorangeht, der Landesstelle schriftlich oder elektronisch zur Genehmigung vorzulegen. Die Landesstelle kann auf Antrag zur Vermeidung einer unbilligen Härte die Frist zur Vorlage der operationellen Programme bis zum 31. Oktober des Jahres, das dem Jahr des Beginns der Durchführung des operationellen Programms vorangeht, verlängern.
+(1) Ein operationelles Programm ist von einer anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen unter Vorlage der erforderlichen Unterlagen bis spätestens 15. September des Jahres, das dem Jahr des Beginns der Durchführung des operationellen Programms vorangeht, der Landesstelle schriftlich oder elektronisch zur Genehmigung vorzulegen. Die Landesstelle kann auf Antrag zur Vermeidung einer unbilligen Härte die Frist zur Vorlage der operationellen Programme bis zum 31. Oktober des Jahres, das dem Jahr des Beginns der Durchführung des operationellen Programms vorangeht, verlängern.
 
 (2) Für die Beantragung eines operationellen Programms sind folgende Unterlagen und Angaben erforderlich:
 
@@ -201,7 +201,7 @@ Soweit in dieser Verordnung nicht anders geregelt, sind die §§ 6 und 7 der Agr
 
 9. für jedes Durchführungsjahr des Programms den Finanzierungs- und Zeitplan für die Vorhaben,
 
-10. die schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation, dass sie einhalten wird die Bestimmungen
+10. die schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen, dass sie einhalten wird die Bestimmungen
 
 a) der Verordnung (EU) 2021/2115,
 
@@ -215,35 +215,37 @@ e) der Delegierten Verordnung (EU) 2017/891 der Kommission vom 13. März 2017 zu
 
 f) der vorliegenden Verordnung, und
 
-11. die schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation, dass sie weder mittelbar noch unmittelbar eine andere Unions- oder nationale Finanzierung für Maßnahmen beantragt oder erhalten hat oder beantragen oder erhalten wird, die im Rahmen der Verordnung (EU) 2021/2115 in Betracht kommen.
+11. die schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen, dass sie weder mittelbar noch unmittelbar eine andere Unions- oder nationale Finanzierung für Maßnahmen beantragt oder erhalten hat oder beantragen oder erhalten wird, die im Rahmen der Verordnung (EU) 2021/2115 in Betracht kommen.
 
 (3) In dem operationellen Programm ist anzugeben, inwieweit die vorgesehenen Maßnahmen andere Maßnahmen ergänzen und mit diesen im Einklang stehen, einschließlich Maßnahmen, die aus anderen Mitteln der Union und genehmigten Absatzförderungsprogrammen finanziert werden oder für eine solche Förderung in Betracht kommen. Dabei sind gegebenenfalls auch die im Rahmen früherer operationeller Programme durchgeführten Maßnahmen anzugeben.
 
-(4) Abweichend von Absatz 1 kann eine juristische Person, die noch nicht als Erzeugerorganisation anerkannt ist, gleichzeitig mit dem Antrag auf Anerkennung als Erzeugerorganisation ein operationelles Programm zur Genehmigung vorlegen.
+(4) Abweichend von Absatz 1 kann eine juristische Person, die noch nicht als Erzeugerorganisation anerkannt ist, gleichzeitig mit dem Antrag auf Anerkennung als Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen ein operationelles Programm zur Genehmigung vorlegen.
 
 (5) Die Gewährung von Ruhegehältern oder ruhegehaltsähnlichen Zahlungen darf nicht Gegenstand eines operationellen Programms sein.
 
 # § 12 – Genehmigung eines operationellen Programms
 
-(1) Die Landesstelle entscheidet über die Genehmigung eines operationellen Programms und des Betriebsfonds einer anerkannten Erzeugerorganisation bis zum 15. Dezember des Jahres der Vorlage. Die Landesstelle kann die Genehmigung mit Nebenbestimmungen versehen, soweit dies für die ordnungsgemäße Durchführung des Unionrechts, dieser Verordnung oder der auf Grund dieser Verordnung erlassenen Rechtsvorschriften erforderlich ist. Ein operationelles Programm kann auch teilweise genehmigt werden, sofern es voneinander unabhängige Elemente enthält.
+(1) Die Landesstelle soll über die Genehmigung eines operationellen Programms und des Betriebsfonds einer anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen bis zum 15. Dezember des Jahres der Vorlage entscheiden. Die Landesstelle kann die Genehmigung mit Nebenbestimmungen versehen, soweit dies für die ordnungsgemäße Durchführung des Unionrechts, dieser Verordnung oder der auf Grund dieser Verordnung erlassenen Rechtsvorschriften erforderlich ist. Ein operationelles Programm kann auch teilweise genehmigt werden, sofern es voneinander unabhängige Elemente enthält.
 
 (2) Vor der Genehmigung eines operationellen Programms hat die Landesstelle insbesondere mit Kontrollen nach Abschnitt 6 die Einhaltung der Anerkennungsvoraussetzungen nach dem Unionsrecht und den §§ 2 bis 8, die Voraussetzungen nach § 11 Absatz 2 und, ob die geplanten Maßnahmen zur Erreichung der im operationellen Programm angegebenen Ziele plausibel sind, zu überprüfen.
 
-(3) Im Fall der Vorlage eines operationellen Programms nach § 11 Absatz 4 darf das operationelle Programm erst nach der Anerkennung als Erzeugerorganisation genehmigt werden.
+(3) Im Fall der Vorlage eines operationellen Programms nach § 11 Absatz 4 darf das operationelle Programm erst nach der Anerkennung als Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen genehmigt werden.
 
 (4) Die Landesstelle hat im Rahmen der Genehmigung eines operationellen Programms festzulegen, ob Investitionen in einem Betrag oder in Tranchen aus dem Betriebsfonds finanziert werden dürfen.
+
+(5) Mit der Genehmigung eines operationellen Programms kann die zuständige Behörde für eine bestimmte Investition, soweit diese in Tranchen zu finanzieren ist, auf Antrag der Erzeugerorganisation oder der Vereinigung von Erzeugerorganisationen zusätzlich genehmigen, dass nach Artikel 11 Absatz 2 Unterabsatz 2 der Delegierten Verordnung (EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der genannten Verordnung festgelegte Interventionskategorien sowie um Vorschriften über den Anteil für den Standard für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1 (ABl. L 20 vom 31.1.2022, S. 52) die Investition auf ein nachfolgendes operationelles Programm – vorbehaltlich dessen Genehmigung – übertragen wird. Die Genehmigung nach Satz 1 ist mit der Auflage zu versehen, dass die Erzeugerorganisation oder die Vereinigung von Erzeugerorganisationen die Investition im Antrag für das nachfolgende operationelle Programm zu berücksichtigen hat.
 
 # § 13 – Durchführungszeitraum eines operationellen Programms
 
 (1) Ein operationelles Programm ist in Jahrestranchen durchzuführen, die jeweils ein Kalenderjahr umfassen.
 
-(2) Die Durchführung eines bis zum 15. Dezember genehmigten operationellen Programms beginnt am 1. Januar des folgenden Jahres. Die Durchführung eines operationellen Programms, für das die Genehmigung nach dem 15. Dezember und vor dem 15. Dezember des folgenden Jahres erteilt wird, beginnt ab dem 1. Januar des Jahres nach der Vorlage des operationellen Programms.
+(2) Die Durchführung eines bis zum 15. Dezember genehmigten operationellen Programms beginnt am 1. Januar des folgenden Jahres. Liegt ein Fall des § 11 Absatz 4 in Verbindung mit § 12 Absatz 3 vor, so darf die Durchführung eines operationellen Programms, für das die Genehmigung nach dem 15. Dezember und vor dem 15. Dezember des folgenden Jahres erteilt wird, ab dem 1. Januar des Jahres nach der Vorlage des operationellen Programms beginnen.
 
 # § 14 – Änderungen eines operationellen Programms
 
 (1) Anträge auf Änderungen des operationellen Programms und des Betriebsfonds des laufenden Programmjahres können vorbehaltlich des Satzes 3 höchstens zweimal im Jahr schriftlich oder elektronisch unter Beifügung der erforderlichen Unterlagen bis spätestens zum 31. Oktober bei der Landesstelle beantragt werden. Erforderliche Unterlagen im Sinne von Satz 1 sind Belege, aus denen Gründe, Arten und Auswirkungen dieser Änderungen hervorgehen. Die Aufnahme neuer Maßnahmen in das operationelle Programm darf nur einmal im laufenden Jahr beantragt werden. Bei Zusammenschlüssen von anerkannten Erzeugerorganisationen darf der Betriebsfonds um höchstens 100 Prozent angehoben werden. § 12 Absatz 2 gilt für Änderungsanträge entsprechend.
 
-(2) Von einer anerkannten Erzeugerorganisation können auf deren eigene finanzielle Verantwortung innerhalb eines Jahres ohne vorherige Genehmigung folgende Änderungen des operationellen Programms vorgenommen werden:
+(2) Von einer anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen können auf deren eigene finanzielle Verantwortung innerhalb eines Jahres ohne vorherige Genehmigung folgende Änderungen des operationellen Programms vorgenommen werden:
 
 1. das operationelle Programm nur teilweise durchzuführen,
 
@@ -277,9 +279,9 @@ In besonderen Fällen kann die Landesstelle abweichend von Satz 1 Nummer 3 geneh
 
 6. Belege über die Ausgaben und den Anteil des Betriebsfonds für die Interventionskategorie Krisenprävention und Risikomanagement nach Artikel 47 Absatz 2 in Verbindung mit Artikel 46 Buchstabe j der Verordnung (EU) 2021/2115, aufgeschlüsselt nach Maßnahmen,
 
-7. bei einem Antrag auf Schlusszahlung Belege über die Einhaltung von Artikel 50 Absatz 7 und Artikel 52 der Verordnung (EU) 2021/2115,
+7. Belege über die Einhaltung von Artikel 50 Absatz 7 und Artikel 52 der Verordnung (EU) 2021/2115,
 
-8. eine schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation, dass sie keine andere Unions- oder nationale Finanzierung für Maßnahmen oder Vorgänge erhalten hat, die im Rahmen der Verordnung (EU) 2021/2115 im Sektor Obst und Gemüse förderfähig sind,
+8. eine schriftliche oder elektronische Zusicherung der anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen, dass sie keine andere Unions- oder nationale Finanzierung für Maßnahmen oder Vorgänge erhalten hat, die im Rahmen der Verordnung (EU) 2021/2115 im Sektor Obst und Gemüse förderfähig sind,
 
 9. Belege über die Durchführung der betreffenden Maßnahme im Fall des Antrags auf Zahlung von Einheitskosten, Pauschalbeträgen oder Pauschalfinanzierungen nach Artikel 44 Absatz 1 Buchstabe b bis d in Verbindung mit Absatz 2 der Verordnung (EU) 2021/2115,
 
@@ -313,9 +315,9 @@ b) bis zum 30. April des Jahres, das auf das Jahr folgt, auf das sich der Antrag
 
 # § 16 – Genehmigung und Auszahlung einer Beihilfe
 
-(1) Die Landesstelle entscheidet über die Gewährung einer Beihilfe innerhalb von zwölf Wochen nach Antragseingang.
+(1) Die Landesstelle soll über die Obergrenze der Beihilfe bis zum 15. Dezember des Jahres, das dem Durchführungsjahr vorangeht, entscheiden. Die Landesstelle soll über die grundsätzliche Gewährung einer Beihilfe innerhalb von zwölf Wochen nach Antragstellung entscheiden. Die Landesstelle soll die tatsächliche Höhe der Beihilfe bis zum 15. September des Jahres, das auf das Durchführungsjahr des operationellen Programms folgt, festsetzen.
 
-(2) Die Landesstelle zahlt die Beihilfe bis spätestens zum 15. Oktober des Jahres aus, das auf das Durchführungsjahr des operationellen Programms folgt.
+(2) Die Landesstelle soll die Beihilfe bis spätestens zum 15. Oktober des Jahres auszahlen, das auf das Durchführungsjahr des operationellen Programms folgt.
 
 # § 17 – Vorschüsse
 
@@ -353,7 +355,7 @@ b) bis zum 30. April des Jahres, das auf das Jahr folgt, auf das sich der Antrag
 
 # § 20 – Zweckbindung der Beihilfe für Investitionen
 
-Für alle im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115 und der Verordnung (EU) Nr. 1308/2013 geförderten Investitionen gilt eine Zweckbindungsfrist von fünf Jahren. Die Zweckbindungsfrist beginnt mit dem Tag der letzten Teilauszahlung oder der Auszahlung der gesamten Beihilfe. Innerhalb der Zweckbindungsfrist darf eine Investition nur nach der im genehmigten operationellen Programm beschriebenen Bestimmung verwendet werden.
+Für alle im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115 und der Verordnung (EU) Nr. 1308/2013 geförderten Investitionen gilt eine Zweckbindungsfrist von fünf Jahren. Die Zweckbindungsfrist beginnt mit dem Tag an dem der Vermögenswert dem Begünstigten zur Verfügung gestellt wird. Innerhalb der Zweckbindungsfrist darf eine Investition nur nach der im genehmigten operationellen Programm beschriebenen Bestimmung verwendet werden.
 
 # § 21 – Rechtswidrige Beihilfen
 
@@ -367,7 +369,7 @@ Für alle im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115 und der Ve
 
 4. sich innerhalb der Zweckbindungsfrist im Sinne des § 20 Satz 1 die Art, die Ziele oder die Durchführungsbedingungen wesentlich ändern, so dass die ursprünglichen Ziele beeinträchtigt werden;
 
-5. die Anerkennungsvoraussetzungen nach Unionsrecht und den §§ 2 bis 8 nach Ablauf der in § 31 Absatz 1 und 4 genannten Voraussetzungen nicht mehr erfüllt werden;
+5. die Anerkennungsvoraussetzungen nach Unionsrecht und den §§ 2 bis 8 nicht mehr vorliegen und dem auch nicht bis zum Ablauf der in Artikel 59 Absatz 1 und 6 der Delegierten Verordnung (EU) 2017/891 genannten Frist abgeholfen wurde;
 
 6. eine Person im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten im Zusammenhang mit der Anerkennung einer Erzeugerorganisation oder der Gewährung einer unter die Verordnung (EU) 2021/2115 sowie die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen eine Straftat im Sinne des § 34 Absatz 1 Nummer 1 oder eine Ordnungswidrigkeit im Sinne des § 34 Absatz 1 Nummer 2 begangen hat.
 
@@ -411,7 +413,7 @@ Von den Maßnahmen zur Krisenprävention und zum Risikomanagement nach Artikel 4
 
 # § 24 – Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
 
-(1) Eine anerkannte Erzeugerorganisation, ihre Mitglieder, Tochtergesellschaften von anerkannten Erzeugerorganisationen und diejenigen, die von der anerkannten Erzeugerorganisation ausgelagerte Tätigkeiten wahrnehmen, sind verpflichtet, zum Zwecke der Kontrollen nach Abschnitt 6 den Landesstellen im Rahmen ihrer Zuständigkeit,
+(1) Eine Erzeugerorganisation, einschließlich ihrer Mitglieder, eine Vereinigung von Erzeugerorganisationen, Tochtergesellschaften von Erzeugerorganisationen oder Vereinigungen von Erzeugerorganisationen und diejenigen, die von der Erzeugerorganisation oder Vereinigung von Erzeugorganisationen ausgelagerte Tätigkeiten wahrnehmen, sind verpflichtet, zum Zwecke der Kontrollen nach Abschnitt 6 den Landesstellen im Rahmen ihrer Zuständigkeit,
 
 1. das Betreten der Geschäfts-, Betriebs- und Lagerräume sowie der Betriebsflächen während der Geschäfts- und Betriebszeiten zu gestatten,
 
@@ -429,13 +431,13 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 # § 25 – Mitteilungspflichten
 
-(1) Eine anerkannte Erzeugerorganisation hat der Landesstelle alle für die Durchführung der Kontrollen nach Abschnitt 6 sowie für die Erfüllung der Mitwirkungspflichten nach dieser Verordnung und dem Unionsrecht erforderlichen Informationen mitzuteilen.
+(1) Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen hat der Landesstelle alle für die Durchführung der Kontrollen nach Abschnitt 6 sowie für die Erfüllung der Mitwirkungspflichten nach dieser Verordnung und dem Unionsrecht erforderlichen Informationen mitzuteilen.
 
-(2) Eine anerkannte Erzeugerorganisation hat der zuständigen Stelle jede Veränderung anzuzeigen, die dazu führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr mit den Angaben oder Erklärungen in ihren Anträgen übereinstimmen. Die Veränderungen sind unverzüglich anzuzeigen.
+(2) Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen hat der zuständigen Stelle jede Veränderung anzuzeigen, die dazu führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr mit den Angaben oder Erklärungen in ihren Anträgen übereinstimmen. Die Veränderungen sind unverzüglich anzuzeigen.
 
 (3) Der nach den Absätzen 1 und 2 zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der zur Auskunft Verpflichtete ist von der Landesstelle vor Aufforderung zur Auskunft oder Mitwirkung über sein Verweigerungsrecht nach Satz 1 aufzuklären.
 
-(4) Eine anerkannte Erzeugerorganisation, die kein operationelles Programm beantragt hat, hat der für ihre Anerkennung zuständigen Stelle bis zum 31. Januar eines jeden Jahres den Wert ihrer vermarkteten Erzeugung des Vorjahres mitzuteilen.
+(4) Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen, die kein operationelles Programm beantragt hat, hat der für ihre Anerkennung zuständigen Stelle bis zum 31. Januar eines jeden Jahres den Wert ihrer vermarkteten Erzeugung des Vorjahres mitzuteilen.
 
 (5) Die Landesstellen haben der Bundesanstalt in elektronischer Form alle Angaben mitzuteilen, die zur Erfüllung der Mitteilungspflichten erforderlich sind, die der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union obliegen. Ist im Unionsrecht eine Frist für die Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 spätestens einen Monat vor Ablauf der entsprechenden Frist zu erfolgen. In Fällen, die nicht die Landesstellen zu vertreten haben, kann die Frist nach Satz 2 mit Zustimmung der Bundesanstalt auf 14 Tage vor Ablauf der entsprechenden Frist verkürzt werden.
 
@@ -443,9 +445,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 (1) Die Landesstellen haben vor der Anerkennung einer Erzeugerorganisation oder einer Vereinigung von Erzeugerorganisationen, vor der Genehmigung eines operationellen Programms und vor der Gewährung einer Beihilfe sowie vor der Auszahlung von Teil- und Schlusszahlungen, Verwaltungskontrollen nach Maßgabe der folgenden Absätze durchzuführen.
 
-(2) Die Landesstellen haben bei den Verwaltungskontrollen vor der Anerkennung einer Erzeugerorganisation nach den Artikeln 154 und 156 der Verordnung (EU) Nr. 1308/2013 zu prüfen, ob die Voraussetzungen für eine Anerkennung nach Unionsrecht und den §§ 2 bis 8 erfüllt sind. Bei anerkannten Erzeugerorganisationen oder anerkannten Vereinigungen von Erzeugerorganisationen, die kein operationelles Programm durchführen, haben die Landesstellen mindestens alle fünf Jahre im Rahmen von Verwaltungskontrollen das weitere Vorliegen der Anerkennungsvoraussetzungen zu prüfen.
-
-(3) Bei den Verwaltungskontrollen vor der Genehmigung operationeller Programme und von Änderungsanträgen zu operationellen Programmen ist mindestens Folgendes zu prüfen:
+(2) Bei den Verwaltungskontrollen vor der Genehmigung operationeller Programme und von Änderungsanträgen zu operationellen Programmen ist mindestens Folgendes zu prüfen:
 
 1. die Plausibilität der übermittelten Angaben, die im Entwurf des operationellen Programms enthalten sind;
 
@@ -455,7 +455,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 4. die Kohärenz und technische Qualität des Programms, die Zuverlässigkeit der Schätzungen und des Finanzierungsplans sowie die Planung der Durchführung.
 
-(4) Bei den Verwaltungskontrollen zur Auszahlung der Schlusszahlung ist Folgendes zu prüfen:
+(3) Bei den Verwaltungskontrollen zur Auszahlung der Schlusszahlung ist Folgendes zu prüfen:
 
 1. die für den Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben,
 
@@ -469,15 +469,15 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 6. ob die Maßnahmen, für die eine Beihilfe beantragt worden ist, im Einklang stehen mit den geltenden nationalen und europäischen Rechtsvorschriften, insbesondere den Vorschriften über staatliche Beihilfen, den Entwicklungsprogrammen für den ländlichen Raum und Absatzförderungsprogrammen sowie mit den verbindlichen Normen, die in nationalen Rechtsvorschriften oder im nationalen Strategieplan und den nationalen Förderleitlinien festgelegt sind.
 
-(5) Die Landesstellen können bei Verwaltungskontrollen zur Auszahlung von Teilzahlungen von einer vollständigen Prüfung der in Absatz 4 Nummer 1, 2 und 6 genannten Merkmale absehen, sofern gewährleistet ist, dass eine vollumfängliche Prüfung der gesamten Beihilfezahlung des betroffenen Durchführungsjahres erfolgt.
+(4) Die Landesstellen können bei Verwaltungskontrollen zur Auszahlung von Teilzahlungen von einer vollständigen Prüfung der in Absatz 3 Nummer 1, 2 und 6 genannten Merkmale absehen, sofern gewährleistet ist, dass eine vollumfängliche Prüfung der gesamten Beihilfezahlung des betroffenen Durchführungsjahres erfolgt.
 
-(6) Die Landesstellen haben alle Prüfschritte, die Ergebnisse der Verwaltungskontrollen und die bei Unregelmäßigkeiten getroffenen Maßnahmen zu protokollieren.
+(5) Die Landesstellen haben alle Prüfschritte, die Ergebnisse der Verwaltungskontrollen und die bei Unregelmäßigkeiten getroffenen Maßnahmen zu protokollieren.
 
 # § 27 – Vor-Ort-Kontrollen
 
 (1) Die Landesstellen haben ergänzend zu den Verwaltungskontrollen bei den anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von Erzeugerorganisationen und deren Tochtergesellschaften nach Maßgabe der folgenden Absätze Vor-Ort-Kontrollen durchzuführen, um die Erfüllung der Voraussetzungen für die Anerkennung und für die Gewährung der Beihilfe oder ihres Restbetrags in dem betreffenden Jahr zu prüfen.
 
-(2) Jede anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen, die ein operationelles Programm durchführt, ist mindestens alle zwei Jahre zu prüfen. Dabei sind im Rahmen einer Zufallsstichprobe bis zu einer Belegzahl von fünf immer alle, ab fünf bis 25 vorhandenen Belegen immer mindestens fünf Belege und ab einer Belegzahl von 20 bis 25 Prozent aller vorhandenen Belege und mindestens zehn Prozent der nachgewiesenen Gesamtausgaben des Projektes beziehungsweise des Zielbereichs zu überprüfen. Bei anerkannten Erzeugerorganisationen oder anerkannten Vereinigungen von Erzeugerorganisationen, die kein operationelles Programm durchführen, haben die Landesstellen mindestens alle fünf Jahre Vor-Ort-Kontrollen in Bezug auf die Anerkennungsvoraussetzungen vorzunehmen.
+(2) Jede anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen, die ein operationelles Programm durchführt, ist mindestens alle zwei Jahre zu prüfen. Dabei sind im Rahmen einer Zufallsstichprobe mindestens 25 Prozent aller im Prüfungszeitraum angefallenen Belege und mindestens 30 Prozent der auf den zu prüfenden Zeitraum entfallenden Gesamtausgaben des operationellen Programms zu überprüfen. Bei anerkannten Erzeugerorganisationen oder anerkannten Vereinigungen von Erzeugerorganisationen, die kein operationelles Programm durchführen, haben die Landesstellen mindestens alle fünf Jahre Vor-Ort-Kontrollen in Bezug auf die Anerkennungsvoraussetzungen vorzunehmen.
 
 (3) Die Vor-Ort-Kontrollen dürfen angekündigt werden, sofern der in Absatz 1 genannte Prüfungszweck dadurch nicht gefährdet wird.
 
@@ -541,43 +541,33 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 (3) Die Landesstelle hat bei der Kontrolle festgestellte Unregelmäßigkeiten in einem schriftlichen oder elektronischen Bericht zu dokumentieren.
 
-# § 31 – Verwaltungssanktionen bei Nichtbeachtung der Anerkennungsvoraussetzungen
+# § 31 – Verwaltungssanktionen bei Nichterreichen der Mindestquoten für Umwelt- und Forschungsmaßnahmen
 
-(1) Hat die Landesstelle festgestellt, dass eine anerkannte Erzeugerorganisation eines der Anerkennungsvoraussetzungen nach Unionsrecht oder nach den §§ 2 bis 8 nicht mehr erfüllt, so hat sie der betroffenen Erzeugerorganisation spätestens zwei Monate nach dieser Feststellung eine Warnmitteilung zu übermitteln. Die Warnmitteilung muss enthalten
+(1) Sofern nach Abschluss eines operationellen Programms festgestellt wird, dass die in Artikel 50 Absatz 7 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2021/2115 genannte Quote nicht erreicht wurde, ist die Beihilfe für das letzte Jahr der Laufzeit des operationellen Programms um den doppelten Betrag zu kürzen, der zum Erreichen der Quote erforderlich gewesen wäre.
 
-1. die nach der Feststellung nach Satz 1 nicht mehr erfüllte Anerkennungsvoraussetzung,
+(2) Absatz 1 ist auf Artikel 50 Absatz 7 Unterabsatz 1 Buchstabe c der Verordnung (EU) 2021/2115 entsprechend anzuwenden.
 
-2. die von der anerkannten Erzeugerorganisation zur Erfüllung der Anerkennungsvoraussetzung zu treffende Abhilfemaßnahme,
+(3) Sofern der Betrag nach Absatz 1 oder 2 oder die Summe der Beträge nach Absatz 1 und 2 die Beihilfe des letzten Jahres der Laufzeit des operationellen Programms übersteigt, ist der Sanktionsbetrag gleich der Höhe der Beihilfe des letzten Jahres der Laufzeit des operationellen Programms.
 
-3. die möglichen Sanktionen bei Nichterfüllung der Abhilfemaßnahme und
+# § 32 – Verwaltungssanktionen bei Beantragung von nichtförderfähigen Beihilfen
 
-4. die Frist, innerhalb der die Abhilfemaßnahme ergriffen werden muss, die nicht länger als vier Monate sein darf.
-
-(2) Wird die Abhilfemaßnahme nach Absatz 1 nicht innerhalb der gesetzten Frist umgesetzt, ist die Anerkennung der Erzeugerorganisation auszusetzen. In der Aussetzungsverfügung ist der Zeitraum der Aussetzung festzulegen, der unmittelbar nach Ablauf der für die Abhilfemaßnahme gesetzten Frist beginnt und nach längstens zwölf Monaten seit der Bekanntgabe der Warnmitteilung bei der anerkannten Erzeugerorganisation endet. Während der Aussetzung der Anerkennung kann die Erzeugerorganisation ihre Tätigkeit fortsetzen. Die Aussetzung ist zu widerrufen, nachdem die Landesstelle im Rahmen einer Kontrolle entsprechend § 26 Absatz 2 Satz 1 und § 27 Absatz 4 Satz 2 Nummer 1 festgestellt hat, dass die betreffende Anerkennungsvoraussetzung wieder erfüllt ist. Zeigt die Erzeugerorganisation an, dass sie die Anerkennungsvoraussetzung wieder erfüllt, soll diese Kontrolle innerhalb von einer Woche nach Eingang der Anzeige bei der Landesstelle durchgeführt werden.
-
-(3) Wird die Anerkennungsvoraussetzung bis zum Ende des von der Landesstelle festgelegten Aussetzungszeitraums nicht erfüllt, so hat die Landesstelle die Anerkennung mit Wirkung ab dem Zeitpunkt zu widerrufen, ab dem die Anerkennungsvoraussetzung nicht erfüllt wurde, oder, wenn dieses Datum nicht ermittelt werden kann, ab dem Zeitpunkt der Feststellung nach Absatz 1 Satz 1.
-
-(4) Weist eine anerkannte Erzeugerorganisation nicht bis zum 15. Oktober des zweiten Jahres nach dem Jahr, in dem festgestellt wurde, dass die Kriterien Mindestmenge oder Mindestwert der vermarkteten Erzeugung nach Artikel 154 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 nicht erfüllt wurden, nach, dass diese Kriterien wieder erfüllt werden, so hat die Landesstelle die Anerkennung zu widerrufen. Der Widerruf wird wirksam ab dem Zeitpunkt, ab dem die Anerkennungsvoraussetzungen nicht erfüllt wurden, oder, wenn dieses Datum nicht ermittelt werden kann, ab dem Zeitpunkt der Feststellung nach Satz 1. Erbringt eine anerkannte Erzeugerorganisation gegenüber der Landesstelle den Nachweis, dass sie, obwohl sie die Maßnahmen zur Risikoverhütung ergriffen hat, aufgrund von Naturkatastrophen, widrigen Witterungsverhältnissen, Krankheiten oder Schädlingsbefall nicht in der Lage ist, die Anerkennungsvoraussetzungen nach Artikel 154 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 in Bezug auf die von der Landesstelle festgesetzte Mindestmenge oder den Mindestwert der vermarktbaren Erzeugung zu erfüllen, so kann die Landesstelle von der Mindestmenge oder dem Mindestwert der vermarktbaren Erzeugung für diese anerkannte Erzeugerorganisation und für das betreffende Jahr abweichen.
-
-# § 32 – Verwaltungssanktionen bei Wegfall der Beihilfevoraussetzungen
-
-(1) Hat die Landesstelle festgestellt, dass eine anerkannte Erzeugerorganisation eine Voraussetzung für die Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallende Beihilfe nicht mehr erfüllt, so hat sie der betroffenen anerkannten Erzeugerorganisation spätestens zwei Monate nach dieser Feststellung eine Warnmitteilung zu übermitteln. Die Warnmitteilung enthält
-
-1. die nach der Feststellung nach Satz 1 nicht mehr erfüllte Beihilfevoraussetzung,
-
-2. die von der anerkannten Erzeugerorganisation zur Erfüllung der Beihilfevoraussetzung zu treffende Abhilfemaßnahme,
-
-3. die möglichen Sanktionen bei Nichterfüllung der Abhilfemaßnahme und
-
-4. die Frist, innerhalb der die Abhilfemaßnahme ergriffen werden muss, die nicht länger als vier Monate sein darf.
-
-(2) Wird die Abhilfemaßnahme nach Absatz 1 nicht innerhalb der gesetzten Frist umgesetzt, ist die Beihilfeauszahlung auszusetzen. In der Aussetzungsverfügung ist der Zeitraum der Aussetzung festzulegen, der unmittelbar nach Ablauf der für die Abhilfemaßnahmen gesetzten Frist beginnt und nach längstens zwölf Monaten seit der Bekanntgabe der Warnmitteilung bei der anerkannten Erzeugerorganisation endet. Die Aussetzung der Beihilfezahlung ist zu widerrufen, nachdem die Landesstelle im Rahmen einer Kontrolle entsprechend § 26 Absatz 2 Satz 1 und § 27 Absatz 4 Satz 2 Nummer 1 festgestellt hat, dass die betreffende Beihilfevoraussetzung wieder erfüllt ist. Zeigt die anerkannte Erzeugerorganisation an, dass sie die Beihilfevoraussetzung wieder erfülle, soll diese Kontrolle innerhalb von einer Woche nach Eingang der Anzeige bei der Landesstelle durchgeführt werden.
+Übersteigt der im Rahmen einer Beihilfe nach § 15 beantragte Betrag denjenigen Betrag, der dem Antragsteller nach Prüfung des Beihilfeantrags durch die Landesstelle tatsächlich auszuzahlen ist, um mehr als drei Prozent, so hat der Antragsteller als Sanktion die Differenz zwischen beiden Beträgen an die Landesstelle zu zahlen. Satz 1 gilt nicht, wenn der Antragsteller nachweist, dass er für die Einbeziehung des nicht förderfähigen Betrages in den Beihilfeantrag nicht verantwortlich ist.
 
 (+++ § 32: Zur Anwendung vgl. § 33 +++)
 
 # § 33 – Verwaltungssanktionen bei Verstößen im Zusammenhang mit dem jährlichen Leistungsbericht
 
-§ 32 ist entsprechend anzuwenden, sofern eine anerkannte Erzeugerorganisation der Landesstelle die für den jährlichen Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben nicht oder nicht vollständig übermittelt.
+(1) Hat die Landesstelle festgestellt, dass eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen der Landesstelle die für den jährlichen Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben nicht oder nicht vollständig übermittelt, so hat sie der betroffenen anerkannten Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen spätestens zwei Monate nach dieser Feststellung eine Warnmitteilung zu übermitteln. Die Warnmitteilung hat zu enthalten
+
+1. die nach der Feststellung nach Satz 1 nicht oder nicht vollständig übermittelten Angaben,
+
+2. die von der anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen zur Erfüllung der Übermittlungspflicht zu treffende Abhilfemaßnahme,
+
+3. die möglichen Sanktionen bei Nichterfüllung der Abhilfemaßnahme und
+
+4. die Frist, innerhalb der die Abhilfemaßnahme ergriffen werden muss, die nicht länger als vier Monate sein darf.
+
+(2) Wird die Abhilfemaßnahme nach Absatz 1 nicht innerhalb der gesetzten Frist umgesetzt, ist die Beihilfeauszahlung auszusetzen. In der Aussetzungsverfügung ist der Zeitraum der Aussetzung festzulegen, der unmittelbar nach Ablauf der für die Abhilfemaßnahmen gesetzten Frist beginnt und nach längstens zwölf Monaten seit der Bekanntgabe der Warnmitteilung bei der anerkannten Erzeugerorganisation oder anerkannten Vereinigung von Erzeugerorganisationen endet. Die Aussetzung der Beihilfezahlung ist zu widerrufen, nachdem die Landesstelle festgestellt hat, dass die erforderlichen Angaben vollständig übermittelt worden sind.
 
 # § 34 – Verwaltungssanktionen bei hinreichendem Verdacht von Straftaten und Ordnungswidrigkeiten
 
@@ -599,17 +589,17 @@ so hat die Landesstelle die Auszahlungen an die anerkannte Erzeugerorganisation 
 
 (3) Hat eine im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten für eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen tätige Person in dieser Eigenschaft im Zusammenhang mit der Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen eine Straftat im Sinne des Absatzes 1 Nummer 1 oder eine Ordnungswidrigkeit im Sinne des Absatzes 1 Nummer 2 begangen, so schließt die Landesstelle die betreffenden Maßnahmen von der Beihilfe im Rahmen des betreffenden operationellen Programms aus.
 
-(4) Absatz 1 ist gegenüber § 31 vorrangig anzuwenden.
+(4) (weggefallen)
 
 # § 35 – Verwaltungssanktionen bei Verhinderung von Vor-Ort-Kontrollen und bei Verstoß gegen sonstige Pflichten
 
-(1) Soweit die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, vorsätzlich die Durchführung einer Vor-Ort-Kontrolle in Bezug auf die Anerkennungsvoraussetzungen nach Unionsrecht und den §§ 2 bis 8 verhindert, hat die Landesstelle den Antrag auf Anerkennung abzulehnen oder die bereits erfolgte Anerkennung bis zur erfolgreichen Überprüfung der Anerkennungsvoraussetzungen auszusetzen.
+(1) Soweit die anerkannte Erzeugerorganisation, ihre Mitglieder, eine anerkannte Vereinigung von Erzeugerorganisationen oder die jeweils einschlägigen Vertreter einschlägigen Vertreter, vorsätzlich die Durchführung einer Vor-Ort-Kontrolle in Bezug auf die Anerkennungsvoraussetzungen nach Unionsrecht und den §§ 2 bis 8 verhindern, hat die Landesstelle den Antrag auf Anerkennung abzulehnen oder die bereits erfolgte Anerkennung bis zur erfolgreichen Überprüfung der Anerkennungsvoraussetzungen auszusetzen.
 
-(2) Die Landesstelle kann einen Antrag auf Anerkennung ablehnen, sofern die Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte jeweils im Zusammenhang mit der Anerkennung stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
+(2) Die Landesstelle kann einen Antrag auf Anerkennung ablehnen, sofern die Erzeugerorganisation, ihre Mitglieder, eine anerkannte Vereinigung von Erzeugerorganisationen oder die jeweils einschlägigen Vertreter einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte jeweils im Zusammenhang mit der Anerkennung stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstoßen.
 
-(3) Die Landesstelle hat einen Antrag auf Genehmigung eines operationellen Programms oder auf Beihilfe abzulehnen, soweit die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, die Durchführung einer Vor-Ort-Kontrolle verhindert und dadurch eine Kontrolle eines bestimmten Förderzeitraums nicht möglich ist. Bereits kontrollierte Teile eines operationellen Programms oder eines Beihilfeantrags bleiben von der Ablehnung unberührt.
+(3) Die Landesstelle hat einen Antrag auf Genehmigung eines operationellen Programms oder auf Beihilfe abzulehnen, soweit die anerkannte Erzeugerorganisation, ihre Mitglieder, eine anerkannte Vereinigung von Erzeugerorganisationen oder die jeweils einschlägigen Vertreter einschlägigen Vertreter, die Durchführung einer Vor-Ort-Kontrolle verhindern und dadurch eine Kontrolle eines bestimmten Förderzeitraums nicht möglich ist. Bereits kontrollierte Teile eines operationellen Programms oder eines Beihilfeantrags bleiben von der Ablehnung unberührt.
 
-(4) Die Landesstelle kann jeweils einen Antrag auf Genehmigung eines operationellen Programms oder einen Beihilfeantrag ablehnen, sofern die anerkannte Erzeugerorganisation, einschließlich ihrer Mitglieder oder einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und jeweils im Zusammenhang mit der Genehmigung eines operationellen Programms oder des Beihilfeantrags stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
+(4) Die Landesstelle kann jeweils einen Antrag auf Genehmigung eines operationellen Programms oder einen Beihilfeantrag ablehnen, sofern die anerkannte Erzeugerorganisation, ihre Mitglieder, eine anerkannte Vereinigung von Erzeugerorganisationen oder die jeweils einschlägigen Vertreter einschlägigen Vertreter, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und jeweils im Zusammenhang mit der Genehmigung eines operationellen Programms oder des Beihilfeantrags stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstoßen.
 
 # § 36 – Kürzung bei verspäteter Antragstellung
 
