@@ -23,7 +23,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 4. Gewässerausbauten und Gewässerbenutzungen, die für Errichtung und Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind, insbesondere Häfen und Landungsstege,
 
-5. Dampf- oder Warmwasserpipelines, die für den Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind.
+5. Dampf- oder Warmwasserpipelines sowie Heizkesselanlagen, die für den Betrieb der Anlagen nach Nummer 1 oder Nummer 2 erforderlich sind,
+
+6. Gasfernleitungen, die direkt an eine LNG-Anbindungsleitung nach Nummer 3 angrenzen und für die Weiterleitung der Gasmengen von Anlagen nach Nummer 1 zwingend erforderlich sind, einschließlich der an diese Gasfernleitungen direkt angrenzenden Verdichter.
 
 (2) Dieses Gesetz gilt nur für die in der Anlage bezeichneten Vorhaben sowie für Vorhaben nach Absatz 1 Nummer 4 und 5.
 
@@ -57,11 +59,11 @@ Die Zugänglichmachung hat für die Dauer von vier Tagen mittels Auslegung in R�
 
 (1) Das Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, ist mit folgenden Maßgaben anzuwenden:
 
-1. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, sind abweichend von § 10 Absatz 3 Satz 2 des Bundes-Immissionsschutzgesetzes der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen,
+1. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, sind abweichend von § 10 Absatz 3 Satz 2 des Bundes-Immissionsschutzgesetzes der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen,
 
-2. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 10 Absatz 3 Satz 4 des Bundes-Immissionsschutzgesetzes die Öffentlichkeit bis eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; diese Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17),
+2. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann abweichend von § 10 Absatz 3 Satz 4 des Bundes-Immissionsschutzgesetzes die Öffentlichkeit bis eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; diese Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17),
 
-3. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann die zuständige Behörde einen Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchführen, soweit sie diesen für erforderlich oder zweckmäßig hält,
+3. für die Zulassung von Anlagen nach § 2 Absatz 1 Nummer 1 und 5, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, kann die zuständige Behörde einen Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchführen, soweit sie diesen für erforderlich oder zweckmäßig hält,
 
 4. für Anlagen nach § 2 Absatz 1 Nummer 1 und 2 ist die Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes mit der Bestimmung zu erteilen, dass der Betrieb der Anlage mit verflüssigtem Erdgas spätestens am 31. Dezember 2043 einzustellen ist,
 
@@ -71,13 +73,31 @@ a) für diese Vorhaben keine Umweltverträglichkeitsprüfung durchgeführt werde
 
 b) die Erstellung der fehlenden Unterlagen im Hinblick auf die Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
 
-c) auch ohne Berücksichtigung der fehlenden Unterlagen mit einer Entscheidung zugunsten des Antragstellers gerechnet werden kann.
+c) auch ohne Berücksichtigung der fehlenden Unterlagen mit einer Entscheidung zugunsten des Antragstellers gerechnet werden kann,
+
+6. die Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes ist mit der Bestimmung zu erteilen, dass der Betrieb der Anlage einzustellen ist,
+
+a) für Vorhaben nach der Anlage Nummer 1.1 sechs Monate nach der Inbetriebnahme der in der Anlage Nummer 1.2 benannten Anlage,
+
+b) für Vorhaben nach der Anlage Nummer 2.2 und Nummer 2.3 sechs Monate nach der Inbetriebnahme der in der Anlage Nummer 2.4 benannten Anlage sowie
+
+c) für Vorhaben nach der Anlage Nummer 3.1 sechs Monate nach der Inbetriebnahme der in der Anlage Nummer 3.2 benannten Anlage.
 
 Im Fall des Satzes 1 Nummer 5 hat der Antragsteller das Vorhaben, die voraussichtlichen Auswirkungen des Vorhabens und den Grund für die nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen. Der Antragsteller hat die fehlenden Unterlagen unverzüglich nachzureichen. Im Fall des Satzes 1 Nummer 5 ist § 8a Absatz 1 Nummer 1 des Bundes-Immissionsschutzgesetzes mit der Maßgabe anzuwenden, dass die Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung der Öffentlichkeit zulassen soll.
 
 (2) Für eine Anlage nach § 2 Absatz 1 Nummer 1 und 2, die über den 31. Dezember 2043 hinaus betrieben werden soll, kann die Genehmigung zum Weiterbetrieb nur für einen Betrieb mit klimaneutralem Wasserstoff und Derivaten hiervon erteilt werden. Die Genehmigung nach Satz 1 ist bis zum Ablauf des 1. Januar 2035 zu beantragen.
 
-(3) Für die Öffentlichkeitsbeteiligung nach § 4 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung vom 2. Mai 2013 (BGBl. I S. 973, 1011, 3756), die zuletzt durch Artikel 2 Absatz 3 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gelten die Maßgaben des Absatzes 1 Nummer 1 bis 3 entsprechend.
+(3) Für Anlagen nach § 2 Absatz 1 Nummer 2 ist diese Genehmigung nur zu erteilen, wenn der Antragsteller nachweist, dass die Anlage bis spätestens zum 1. Januar 2044 so umgerüstet werden kann, dass sie zur Einfuhr, Entladung, Lagerung und Wiederverdampfung von verflüssigtem Ammoniak genutzt werden kann, und darlegt, dass die Kosten der Umrüstung 15 Prozent der Kosten für die Errichtung der beantragten Anlage nicht überschreiten werden. Der Nachweis gilt als erbracht, wenn im Zeitpunkt der Genehmigung
+
+1. die für den Betrieb mit verflüssigtem Ammoniak angemessenen Sicherheitsabstände zu Schutzobjekten eingehalten werden,
+
+2. die Beschaffenheit der Fundamente, der Außenwände und der Dachkonstruktion der Lagerstätten für einen Betrieb mit verflüssigtem Ammoniak ausgelegt sind und
+
+3. die Materialien und der innere Aufbau der Lagerstätten unter Beachtung des aktuellen Stands der Sicherheitstechnik so umgerüstet werden können, dass die statischen, sicherheitstechnischen und störfallrechtlichen Anforderungen für die Lagerung und für den Umgang mit verflüssigtem Ammoniak erfüllt werden.
+
+Die zuständige Behörde übermittelt die dem Nachweis nach Satz 1 dienenden Unterlagen unverzüglich an die Bundesanstalt für Materialforschung und -prüfung; diese nimmt innerhalb eines Monats nach Eingang dazu Stellung, ob die Anforderungen nach Satz 2 Nummer 2 und 3 eingehalten werden. Unbeschadet der Nachweisführung kann der Antrag nach Absatz 2 Satz 3 für einen Betrieb mit klimaneutralem Wasserstoff oder Derivaten erfolgen. Abweichend von Satz 1 kann die Umstellung von Anlagen nach § 2 Absatz 1 Nummer 2 auch auf synthetisches Methan oder Biomethan erfolgen, wenn der Antragsteller den Nachweis erbringt, dass am Anlagenstandort eine Abscheidung, Kompression sowie ein Transport von Kohlendioxid technisch möglich ist.
+
+(4) Für die Öffentlichkeitsbeteiligung nach § 4 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung vom 2. Mai 2013 (BGBl. I S. 973, 1011, 3756), die zuletzt durch Artikel 2 Absatz 3 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gelten die Maßgaben des Absatzes 1 Nummer 1 bis 3 entsprechend.
 
 # § 6 – Maßgaben für die Anwendung des Bundesnaturschutzgesetzes
 
@@ -113,9 +133,9 @@ Im Fall des Satzes 1 Nummer 5 hat der Antragsteller das Vorhaben, die voraussich
 
 # § 8 – Maßgaben für die Anwendung des Energiewirtschaftsgesetzes
 
-(1) Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 26. April 2022 (BGBl. I S. 674) geändert worden ist, ist bei der Zulassung von Vorhaben nach § 2 mit folgenden Maßgaben anzuwenden:
+(1) Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621) in der jeweils geltenden Fassung ist bei der Zulassung von Vorhaben nach § 2 mit folgenden Maßgaben anzuwenden:
 
-1. abweichend von § 43a des Energiewirtschaftsgesetzes gilt bei Vorhaben, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, für das Anhörungsverfahren, dass:
+1. abweichend von § 43a des Energiewirtschaftsgesetzes gilt bei Vorhaben, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss und die nicht unter die Nummer 1a fallen, für das Anhörungsverfahren, dass:
 
 a) der Plan abweichend von § 73 Absatz 3 des Verwaltungsverfahrensgesetzes für die Dauer von einer Woche auszulegen ist,
 
@@ -125,11 +145,19 @@ c) ein Erörterungstermin in den Fällen des § 2 Absatz 1 Nummer 3 stattfinden 
 
 d) Gelegenheit zu Stellungnahmen und Einwendungen nach § 73 Absatz 8 des Verwaltungsverfahrensgesetzes bis zum Ablauf einer Woche nach Mitteilung der Änderungen zu geben ist,
 
+1a. abweichend von § 43a des Energiewirtschaftsgesetzes ist bei Vorhaben im Sinne des § 2 Absatz 1 Nummer 3 mit einer Länge von mehr als 40 Kilometern und einem Durchmesser von mehr als 800 Millimetern, für die keine Umweltverträglichkeitsprüfung durchgeführt werden muss, für das Anhörungsverfahren anzuwenden, dass
+
+a) der Plan abweichend von § 73 Absatz 8 Satz 2 in Verbindung mit § 73 Absatz 3 des Verwaltungsverfahrensgesetzes für die Dauer von zwei Wochen auszulegen ist,
+
+b) ein Erörterungstermin stattfinden kann, soweit die zuständige Behörde diesen für erforderlich hält,
+
 2. Kampfmittelräumungen, archäologische Untersuchungen und Bergungen sowie zwingend erforderliche Beseitigungen von Bäumen und anderen Gehölzen zur Baufeldfreimachung sowie die Durchführung naturschutzrechtlicher Ausgleichs- und Vermeidungsmaßnahmen einschließlich vorgezogener Ausgleichsmaßnahmen gelten als Vorarbeiten im Sinne des § 44 des Energiewirtschaftsgesetzes; für die Beseitigung von Bäumen und anderen Gehölzen zur Baufeldfreimachung sowie für die Durchführung naturschutzrechtlicher Ausgleichs- und Vermeidungsmaßnahmen einschließlich vorgezogener Ausgleichsmaßnahmen ist dies nur bis zum Ablauf des 28. Februar 2023 anzuwenden,
 
 3. der Vorhabenträger kann bereits nach Ablauf der Einwendungsfrist verlangen, dass das Verfahren der vorzeitigen Besitzeinweisung nach § 44b des Energiewirtschaftsgesetzes durchgeführt wird,
 
 4. für den vorzeitigen Baubeginn müssen die Voraussetzungen des § 44c Absatz 1 Satz 1 Nummer 3 sowie des § 44c Absatz 1 Satz 2 des Energiewirtschaftsgesetzes nicht vorliegen; für die Zustellung nach § 44c Absatz 3 des Energiewirtschaftsgesetzes ist § 74 Absatz 5 des Verwaltungsverfahrensgesetzes entsprechend anwendbar.
+
+Die in Satz 1 Nummer 1, 1a und 2 genannten Maßgaben sind bei der Zulassung von Vorhaben nach § 2 Absatz 1 Nummer 6 nicht anzuwenden.
 
 (2) Soweit aufgrund der in Absatz 1 vorgesehenen Verfahrensvereinfachungen Vorschriften des Energierechts nicht anzuwenden sind, sind auch die Vorschriften des Verwaltungsverfahrensrechts, die diesen Verfahrensvereinfachungen sonst entgegenstehen würden, nicht anzuwenden.
 
@@ -231,7 +259,7 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über s
 
 # § 13 – Übergangsregelungen
 
-(1) Die Regelungen dieses Gesetzes sind auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren über Zulassungen für die Errichtung und die Inbetriebnahme von Anlagen nach § 2 Absatz 1 Nummer 1, 2 und 4 sowie von Leitungen nach § 2 Absatz 1 Nummer 3 anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den Vorschriften dieses Gesetzes durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach diesem Gesetz entfallen kann.
+(1) Die Regelungen dieses Gesetzes sind auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren über Zulassungen für die Errichtung und die Inbetriebnahme von Anlagen nach § 2 Absatz 1 Nummer 1, 2 und 4 sowie von Leitungen nach § 2 Absatz 1 Nummer 3 und 6 anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den Vorschriften dieses Gesetzes durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach diesem Gesetz entfallen kann.
 
 (2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften, die zum Zeitpunkt des Beginns des Zulassungsverfahrens galten, beendet werden, wenn der Verfahrensschritt hiernach schneller abgeschlossen werden kann.
 
@@ -245,7 +273,7 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über s
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-(2) Die §§ 1 bis 10 treten mit Ausnahme des § 5 Absatz 2 und des § 9 Absatz 2, 3 und 5 mit Ablauf des 30. Juni 2025 außer Kraft. § 13 tritt mit Ablauf des 30. Juni 2027 außer Kraft.
+(2) Die §§ 1 bis 10 treten mit Ausnahme des § 5 Absatz 2 und 3 und des § 9 Absatz 2, 3 und 5 mit Ablauf des 30. Juni 2025 außer Kraft. § 13 tritt mit Ablauf des 30. Juni 2027 außer Kraft.
 
 # Anlage – (zu § 2)
 

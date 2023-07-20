@@ -553,8 +553,6 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtige
 
 Übersteigt der im Rahmen einer Beihilfe nach § 15 beantragte Betrag denjenigen Betrag, der dem Antragsteller nach Prüfung des Beihilfeantrags durch die Landesstelle tatsächlich auszuzahlen ist, um mehr als drei Prozent, so hat der Antragsteller als Sanktion die Differenz zwischen beiden Beträgen an die Landesstelle zu zahlen. Satz 1 gilt nicht, wenn der Antragsteller nachweist, dass er für die Einbeziehung des nicht förderfähigen Betrages in den Beihilfeantrag nicht verantwortlich ist.
 
-(+++ § 32: Zur Anwendung vgl. § 33 +++)
-
 # § 33 – Verwaltungssanktionen bei Verstößen im Zusammenhang mit dem jährlichen Leistungsbericht
 
 (1) Hat die Landesstelle festgestellt, dass eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von Erzeugerorganisationen der Landesstelle die für den jährlichen Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben nicht oder nicht vollständig übermittelt, so hat sie der betroffenen anerkannten Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen spätestens zwei Monate nach dieser Feststellung eine Warnmitteilung zu übermitteln. Die Warnmitteilung hat zu enthalten
@@ -588,8 +586,6 @@ so setzt die Landesstelle die Anerkennung der Erzeugerorganisation oder Vereinig
 so hat die Landesstelle die Auszahlungen an die anerkannte Erzeugerorganisation oder die anerkannte Vereinigung von Erzeugerorganisationen auszusetzen, solange der hinreichende Verdacht besteht.
 
 (3) Hat eine im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten für eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen tätige Person in dieser Eigenschaft im Zusammenhang mit der Gewährung einer unter die Verordnung (EU) 2021/2115 und die Verordnung (EU) Nr. 1308/2013 fallenden Beihilfe an eine anerkannte Erzeugerorganisation oder eine anerkannte Vereinigung von Erzeugerorganisationen eine Straftat im Sinne des Absatzes 1 Nummer 1 oder eine Ordnungswidrigkeit im Sinne des Absatzes 1 Nummer 2 begangen, so schließt die Landesstelle die betreffenden Maßnahmen von der Beihilfe im Rahmen des betreffenden operationellen Programms aus.
-
-(4) (weggefallen)
 
 # § 35 – Verwaltungssanktionen bei Verhinderung von Vor-Ort-Kontrollen und bei Verstoß gegen sonstige Pflichten
 

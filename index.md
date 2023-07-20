@@ -5360,6 +5360,7 @@
 - [StrandschutzwerkSicherungsV](laws/StrandschutzwerkSicherungsV.md) Bekanntmachung der Verordnung über die Sicherung von Strandschutzwerken auf der Nordseeinsel Borkum
 - [StrbauMstrV](laws/StrbauMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Straßenbauer-Handwerk
 - [StrbEG](laws/StrbEG.md) Gesetz über die strafbefreiende Erklärung von Einkünften aus Kapitalvermögen und von Kapitalvermögen
+- [StrBetrManBAProFV](laws/StrBetrManBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Bachelor Professional in Straßenbetriebsmanagement
 - [StrBNÜbkÄndProtG](laws/StrBNÜbkÄndProtG.md) Gesetz zu dem Protokoll vom 22. März 2000 zur Änderung des Übereinkommens vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen
 - [StrBNÜbkSEG](laws/StrBNÜbkSEG.md) Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Königreichs Schweden zu dem Übereinkommen vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten Übereinkommen
 - [StrEG](laws/StrEG.md) Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen
