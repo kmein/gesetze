@@ -138,3 +138,6 @@ In-vitro-Diagnostika für die Eigenanwendung, die für den direkten Erregernachw
 
 –  
 In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von Influenzaviren bestimmt sind
+
+–  
+In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von Respiratorischen Synzytial Viren bestimmt sind

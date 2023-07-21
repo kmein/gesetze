@@ -952,7 +952,9 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 1, 3 bis 8, § 9 Absatz
 
 6. Campylobacter sp., darmpathogen
 
-6a. Chikungunya-Virus
+6a. Candida auris; Meldepflicht nur für den direkten Nachweis aus Blut oder anderen normalerweise sterilen Substraten
+
+6b. Chikungunya-Virus
 
 7. Chlamydia psittaci
 
@@ -1022,9 +1024,13 @@ b) Escherichia coli, sonstige darmpathogene Stämme
 
 36a. Orthopockenviren
 
+36b. Plasmodium spp.
+
 37. Poliovirus
 
 38. Rabiesvirus
+
+38a. Respiratorische Synzytial Viren
 
 39. Rickettsia prowazekii
 
@@ -1081,13 +1087,11 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3, 4 oder Absatz 4, 
 
 3. Echinococcus sp.
 
-4. Plasmodium sp.
+4. Toxoplasma gondii; Meldepflicht nur bei konnatalen Infektionen
 
-5. Toxoplasma gondii; Meldepflicht nur bei konnatalen Infektionen
+5. Neisseria gonorrhoeae,
 
-6. Neisseria gonorrhoeae,
-
-7. Chlamydia trachomatis, sofern es sich um einen der Serotypen L1 bis L3 handelt.
+6. Chlamydia trachomatis, sofern es sich um einen der Serotypen L1 bis L3 handelt.
 
 Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 2 zu erfolgen.
 
@@ -1193,6 +1197,8 @@ i) Untersuchungsbefund, einschließlich Typisierungsergebnissen, und
 
 j) erkennbare Zugehörigkeit zu einer Erkrankungshäufung,
 
+k) bei Plasmodium spp.: Angaben zu einer zum wahrscheinlichen Zeitpunkt der Infektion erfolgten Maßnahme der spezifischen Prophylaxe,
+
 2. Name, Anschrift und weitere Kontaktdaten des Einsenders und
 
 3. Name, Anschrift und weitere Kontaktdaten sowie die lebenslange Arztnummer (LANR) und die Betriebsstättennummer (BSNR) des Meldenden sowie Zuordnungsmerkmale für weitere Untersuchungen.
@@ -1261,7 +1267,7 @@ f) wahrscheinlicher Infektionsweg, einschließlich Umfeld, in dem die Übertragu
 
 10. Staat, in dem die Infektion wahrscheinlich erfolgt ist,
 
-11. bei Treponema pallidum, HIV, Plasmodium sp. und Neisseria gonorrhoeae Angaben zu einer zum wahrscheinlichen Zeitpunkt der Infektion erfolgten Maßnahme der spezifischen Prophylaxe und bei Neisseria gonorrhoeae Angaben zu einer vorliegenden verminderten Empfindlichkeit gegenüber Azithromycin, Cefixim oder Ceftriaxon,
+11. bei Treponema pallidum, HIV und Neisseria gonorrhoeae Angaben zu einer zum wahrscheinlichen Zeitpunkt der Infektion erfolgten Maßnahme der spezifischen Prophylaxe und bei Neisseria gonorrhoeae Angaben zu einer vorliegenden verminderten Empfindlichkeit gegenüber Azithromycin, Cefixim oder Ceftriaxon,
 
 12. Name, Anschrift und weitere Kontaktdaten des Einsenders und
 
@@ -1319,6 +1325,8 @@ l) Zugehörigkeit zu den in § 54a Absatz 1 Nummer 1 bis 5 genannten Personengru
 
 m) Gemeinde mit zugehörigem amtlichem achtstelligem Gemeindeschlüssel der Hauptwohnung oder des gewöhnlichen Aufenthaltsortes und, falls abweichend, des derzeitigen Aufenthaltsortes,
 
+n) bei Plasmodium spp.: Angaben zu einer zum wahrscheinlichen Zeitpunkt der Infektion erfolgten Maßnahme der spezifischen Prophylaxe,
+
 2. zuständige Gesundheitsämter oder zuständige Stellen nach § 54a und
 
 3. Datum der Meldung.
@@ -1355,7 +1363,7 @@ c) Anschrift der Hauptwohnung oder des gewöhnlichen Aufenthaltsortes und
 
 Die zuständige Landesbehörde übermittelt die in den Sätzen 1 und 2 genannten Angaben unverzüglich dem Robert Koch-Institut. Darüber hinaus übermittelt die zuständige Landesbehörde dem Robert Koch-Institut auf dessen Anforderung unverzüglich alle ihr vorliegenden Informationen, die für Mitteilungen an die Weltgesundheitsorganisation im Sinne der Artikel 6 bis 12 und 19 Buchstabe c der Internationalen Gesundheitsvorschriften (2005) erforderlich sind. Für die Übermittlungen von den zuständigen Landesbehörden an das Robert Koch-Institut kann das Robert Koch-Institut die technischen Übermittlungsstandards bestimmen. Das Robert Koch-Institut bewertet die ihm übermittelten Angaben nach der Anlage 2 der Internationalen Gesundheitsvorschriften (2005) und nimmt die Aufgaben nach § 4 Absatz 1 Nummer 1 des IGV-Durchführungsgesetzes wahr.
 
-(2) Im Hinblick auf Gefahren biologischen oder unbekannten Ursprungs nach Artikel 2 Absatz 1 Buchstabe a oder d des Beschlusses Nr. 1082/2013/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2013 zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren und zur Aufhebung der Entscheidung Nr. 2119/98/EG (ABl. L 293 vom 5.11.2013, S. 1; L 231 vom 4.9.2015, S. 16) übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich alle Angaben, die für Übermittlungen nach den Artikeln 6 bis 9 des Beschlusses Nr. 1082/2013/EU erforderlich sind. Die zuständige Landesbehörde übermittelt diese Angaben unverzüglich dem Robert Koch-Institut. Für die Übermittlung an das Robert Koch-Institut kann das Robert Koch-Institut die technischen Übermittlungsstandards bestimmen. Das Robert Koch-Institut ist in dem in Satz 1 genannten Bereich der Gefahren biologischen oder unbekannten Ursprungs die zuständige nationale Behörde im Sinne der Artikel 6 und 8 bis 10 des Beschlusses Nr. 1082/2013/EU.
+(2) Im Hinblick auf Gefahren biologischen oder unbekannten Ursprungs nach Artikel 2 Absatz 1 Buchstabe a oder d der Verordnung (EU) 2022/2371 des Europäischen Parlaments und des Rates vom 23. November 2022 zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren und zur Aufhebung des Beschlusses Nr. 1082/2013/EU (ABl. L 314 vom 6.12.2022, S. 26) übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich alle Angaben, die für Übermittlungen nach den Artikeln 13, 14 und 17 bis 19 der Verordnung (EU) 2022/2371 erforderlich sind. Die zuständige Landesbehörde übermittelt diese Angaben unverzüglich dem Robert Koch-Institut. Für die Übermittlung an das Robert Koch-Institut kann das Robert Koch-Institut die technischen Übermittlungsstandards bestimmen. Das Robert Koch-Institut ist in dem in Satz 1 genannten Bereich der Gefahren biologischen oder unbekannten Ursprungs die zuständige nationale Behörde im Sinne der Artikel 13 und 18 bis 20 der Verordnung (EU) 2022/2371.
 
 (3) Abweichungen von den Regelungen des Verwaltungsverfahrens in Absatz 1 Satz 1 bis 5 und Absatz 2 Satz 1 bis 3 durch Landesrecht sind ausgeschlossen.
 
@@ -1978,6 +1986,8 @@ Absatz 5 Satz 4 gilt entsprechend.
 (8) Zur Sperrung von entgegen Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 nicht richtig bescheinigten COVID-19-Impfzertifikaten, COVID-19-Genesenenzertifikaten oder COVID-19-Testzertifikaten übermitteln die Bundespolizei und die zur Gefahrenabwehr zuständigen Behörden der Länder dem Robert Koch-Institut auf das Zertifikat bezogene Daten sowie unmittelbar im Zertifikat enthaltene Daten. Angaben zu Namen, Geburtsdaten oder der eindeutigen Zertifikatkennung gemäß Nummer 1 Buchstabe a, b und k, Nummer 2 Buchstabe a, b und l und Nummer 3 Buchstabe a, b und i des Anhangs zur Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie (ABl. L 211 vom 15.6.2021, S. 1), die zuletzt durch die Verordnung (EU) 2022/256 (ABl. L 42 vom 23.2.2022, S. 4) geändert worden ist, werden nicht übermittelt. Das Robert Koch-Institut führt die Sperrung durch Aufnahme des jeweiligen Zertifikats in eine Zertifikatssperrliste aus. Das Robert Koch-Institut ist befugt, die für die Durchführung der Sperrung eines Zertifikats erforderlichen personenbezogenen Daten zu verarbeiten.
 
 (9) Vorbehaltlich nationaler oder europäischer Regelungen besteht kein individueller Anspruch auf Anschluss eines Leistungserbringers zur Generierung eines COVID-19-Zertifikats nach den Absätzen 5 bis 7.
+
+(10) Die Verpflichtung nach Absatz 7 besteht nur solange und soweit die Bundesrepublik Deutschland nach der Verordnung (EU) 2021/953 zur Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Tests verpflichtet ist.
 
 # § 23 – Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 

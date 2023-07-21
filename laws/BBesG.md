@@ -2592,27 +2592,27 @@ Professoren an einer Hochschule, die zugleich das Amt eines Richters der Besoldu
 
 Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form.
 
-Professor als Juniorprofessor<span id="FnR.FnA1-f780997_130"></span><a href="#FnA1-f780997_130" class="FnR">1</a></sup>
+Professor als Juniorprofessor
 
-Professor<span id="FnR.FnA2-f780997_131"></span><a href="#FnA2-f780997_131" class="FnR">1</a></sup>
+Professor<span id="FnR.FnA1-f780997_131"></span><a href="#FnA1-f780997_131" class="FnR">1</a></sup>
 
-Universitätsprofessor<a href="#FnA2-f780997_131" class="FnR">1</a></sup>
+Universitätsprofessor<a href="#FnA1-f780997_131" class="FnR">1</a></sup>
 
-Präsident der ...<a href="#FnA2-f780997_131" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA2-f780997_132"></span><a href="#FnA2-f780997_132" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA2-f780997_133"></span><a href="#FnA2-f780997_133" class="FnR">3</a></sup>
+Präsident der ...<a href="#FnA1-f780997_131" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-f780997_132"></span><a href="#FnA1-f780997_132" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA1-f780997_133"></span><a href="#FnA1-f780997_133" class="FnR">3</a></sup>
 
-Vizepräsident der ...<a href="#FnA2-f780997_131" class="FnR">1</a></sup> ,<a href="#FnA2-f780997_132" class="FnR">2</a></sup> ,<a href="#FnA2-f780997_133" class="FnR">3</a></sup>
+Vizepräsident der ...<a href="#FnA1-f780997_131" class="FnR">1</a></sup> ,<a href="#FnA1-f780997_132" class="FnR">2</a></sup> ,<a href="#FnA1-f780997_133" class="FnR">3</a></sup>
 
-Kanzler der ...<a href="#FnA2-f780997_131" class="FnR">1</a></sup> ,<a href="#FnA2-f780997_132" class="FnR">2</a></sup> ,<a href="#FnA2-f780997_133" class="FnR">3</a></sup>
+Kanzler der ...<a href="#FnA1-f780997_131" class="FnR">1</a></sup> ,<a href="#FnA1-f780997_132" class="FnR">2</a></sup> ,<a href="#FnA1-f780997_133" class="FnR">3</a></sup>
 
-Professor<span id="FnR.FnA3-f780997_134"></span><a href="#FnA3-f780997_134" class="FnR">1</a></sup>
+Professor<span id="FnR.FnA2-f780997_134"></span><a href="#FnA2-f780997_134" class="FnR">1</a></sup>
 
-Universitätsprofessor<a href="#FnA3-f780997_134" class="FnR">1</a></sup>
+Universitätsprofessor<a href="#FnA2-f780997_134" class="FnR">1</a></sup>
 
-Präsident der …<a href="#FnA3-f780997_134" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA3-f780997_135"></span><a href="#FnA3-f780997_135" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA3-f780997_136"></span><a href="#FnA3-f780997_136" class="FnR">3</a></sup>
+Präsident der …<a href="#FnA2-f780997_134" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA2-f780997_135"></span><a href="#FnA2-f780997_135" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA2-f780997_136"></span><a href="#FnA2-f780997_136" class="FnR">3</a></sup>
 
-Vizepräsident der …<a href="#FnA3-f780997_134" class="FnR">1</a></sup> ,<a href="#FnA3-f780997_135" class="FnR">2</a></sup> ,<a href="#FnA3-f780997_136" class="FnR">3</a></sup>
+Vizepräsident der …<a href="#FnA2-f780997_134" class="FnR">1</a></sup> ,<a href="#FnA2-f780997_135" class="FnR">2</a></sup> ,<a href="#FnA2-f780997_136" class="FnR">3</a></sup>
 
-Kanzler der …<a href="#FnA3-f780997_134" class="FnR">1</a></sup> ,<a href="#FnA3-f780997_135" class="FnR">2</a></sup> ,<a href="#FnA3-f780997_136" class="FnR">3</a></sup>
+Kanzler der …<a href="#FnA2-f780997_134" class="FnR">1</a></sup> ,<a href="#FnA2-f780997_135" class="FnR">2</a></sup> ,<a href="#FnA2-f780997_136" class="FnR">3</a></sup>
 
 # Anlage III – (zu § 37 Satz 1)Bundesbesoldungsordnung R
 

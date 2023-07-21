@@ -1244,9 +1244,15 @@ Das Gleiche gilt bei einer besonderen Altersgrenze.
 
 10. die Präsidentin oder den Präsidenten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr,
 
-11. die Präsidentin oder den Präsidenten des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr und
+11. die Präsidentin oder den Präsidenten des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
 
-12. die Präsidentin oder den Präsidenten der Generalzolldirektion.
+12. die Präsidentin oder den Präsidenten der Generalzolldirektion,
+
+13. die Präsidentin oder den Präsidenten des Bundesamtes für Migration und Flüchtlinge und
+
+14. die Präsidentin oder den Präsidenten des Bundesamtes für Sicherheit in der Informationstechnik.
+
+Satz 1 gilt nur für Beamtinnen und Beamte, deren Ernennung zu einem Zeitpunkt erfolgte, in dem das ihnen übertragene Amt in Satz 1 aufgenommen war, oder sich ein Gesetzentwurf zur Aufnahme einer entsprechenden Regelung im Gesetzgebungsverfahren befand.
 
 (2) Gesetzliche Vorschriften, nach denen andere politische Beamtinnen und politische Beamte in den einstweiligen Ruhestand versetzt werden können, bleiben unberührt.
 

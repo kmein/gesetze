@@ -599,7 +599,7 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 (2) Die Personenstandsregister sind dauernd aufzubewahren. Für die Sicherungsregister und die Sammelakten endet die Pflicht zur Aufbewahrung mit Ablauf der in § 5 Absatz 5 für das jeweilige Register genannten Frist.
 
-(3) Nach Ablauf der in § 5 Absatz 5 genannten Fristen sind die entsprechenden Teile der Personenstandsregister, Sicherungsregister und Sammelakten nach den jeweiligen archivrechtlichen Vorschriften den zuständigen öffentlichen Archiven zur Übernahme anzubieten. Die entsprechenden Registereinträge und Sammelakten sind nach der Übernahme oder Ablehnung der Übernahme durch die Archive im Standesamt zu löschen; dies gilt nicht bei Ablehnung der Übernahme von Personenstandsregistern. Soweit es sich um elektronische Daten handelt, sind die entsprechenden Registereinträge und Sammelakten nach Übernahme oder Ablehnung der Übernahme durch die Archive im Standesamt zu löschen; Papiereinträge sind zu vernichten.
+(3) Nach Ablauf der in § 5 Absatz 5 genannten Fristen sind die entsprechenden Teile der Personenstandsregister, Sicherungsregister und Sammelakten nach den jeweiligen archivrechtlichen Vorschriften den zuständigen öffentlichen Archiven zur Übernahme anzubieten. Die entsprechenden Registereinträge und Sammelakten sind nach der Übernahme oder Ablehnung der Übernahme durch die Archive im Standesamt zu löschen; dies gilt nicht bei Ablehnung der Übernahme von Personenstandsregistern.
 
 # § 8 – Verlust eines Personenstandsregisters
 

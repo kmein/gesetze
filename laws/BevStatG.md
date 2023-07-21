@@ -23,7 +23,9 @@ c) Sterbefallstatistik einschließlich Todesursachenstatistik,
 
 # § 2 – Statistik der natürlichen Bevölkerungsbewegung
 
-(1) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die Daten zu Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen, lebend- und totgeborenen Kindern sowie Sterbefällen. Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
+(1) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die Daten zu Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen, lebend- und totgeborenen Kindern.
+
+(1a) Die Stellen nach Absatz 1 übermitteln spätestens am dritten Arbeitstag nach Eintrag in das Sterberegister die Daten zu Sterbefällen den statistischen Ämtern der Länder. Diese übermitteln die Daten unverzüglich dem Statistischen Bundesamt für Zwecke der Darstellung aktueller Sterbefallzahlen, insbesondere zur Feststellung einer überdurchschnittlichen Sterblichkeit. Die Aufgabe der statistischen Ämter der Länder, die Sterbefallstatistik durchzuführen, bleibt unberührt.
 
 (2) Bei Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen werden folgende Daten übermittelt:
 
@@ -115,8 +117,6 @@ b) Staatsangehörigkeit, Tag der Geburt und Geschlecht der Lebenspartner oder Le
 
 c) Kreis oder kreisfreie Stadt, in dem oder in der der für den Gerichtsstand maßgebliche gewöhnliche Aufenthalt liegt.
 
-Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
-
 # § 4 – Wanderungsstatistik
 
 (1) Erfolgt die Verlegung der alleinigen Wohnung oder der Hauptwohnung
@@ -127,7 +127,7 @@ Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzun
 
 3. bei einem Wechsel des Wohnungsstatus einer Nebenwohnung zur alleinigen Wohnung oder Hauptwohnung
 
-über Gemeindegrenzen hinweg, übermitteln die nach Landesrecht für das Meldewesen zuständigen Stellen den statistischen Ämtern der Länder die Angaben zu den Merkmalen nach den Absätzen 2 und 3. Die Übermittlung hat mindestens monatlich elektronisch mittels eines dem Stand der Technik entsprechenden Verschlüsselungsverfahrens zu erfolgen.
+über Gemeindegrenzen hinweg, übermitteln die nach Landesrecht für das Meldewesen zuständigen Stellen den statistischen Ämtern der Länder die Angaben zu den Merkmalen nach den Absätzen 2 und 3. Die Übermittlung hat mindestens monatlich zu erfolgen.
 
 (2) Erhebungsmerkmale sind:
 
@@ -165,13 +165,15 @@ Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzun
 
 (1) Der Bevölkerungsstand wird
 
-1. nach den Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der Wanderungsstatistik sowie
+1. nach den Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der Wanderungsstatistik,
 
-2. nach den Mitteilungen gemäß Absatz 2 zum Wechsel der Staatsangehörigkeit sowie zu Ehescheidungen und Aufhebungen von Ehen und Lebenspartnerschaften fortgeschrieben.
+2. nach den Mitteilungen gemäß Absatz 2 zum Wechsel der Staatsangehörigkeit sowie zu Ehescheidungen und Aufhebungen von Ehen und Lebenspartnerschaften sowie
+
+3. nach den Mitteilungen gemäß Absatz 3 zur Änderung des Geschlechtseintrages fortgeschrieben.
 
 Grundlage für die Fortschreibung ist der jeweils letzte Zensus. Die Fortschreibung erfolgt für die Bevölkerung insgesamt sowie getrennt nach Geschlecht, Alter, Familienstand, Wohnort und Staatsangehörigkeit.
 
-(2) Die nach Landesrecht für das Meldewesen zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich elektronisch unter Verwendung von einem dem Stand der Technik entsprechenden Verschlüsselungsverfahren folgende Daten:
+(2) Die nach Landesrecht für das Meldewesen zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich folgende Daten:
 
 1. für die Ermittlung der Zahl der deutschen und der nichtdeutschen Bevölkerung beim Erwerb, soweit dieser nicht durch Geburt erworben wird, oder Verlust der deutschen Staatsangehörigkeit als Erhebungsmerkmale
 
@@ -205,9 +207,19 @@ c) Anschrift.
 
 Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
+# § 5b – Übermittlung von Angaben an das Robert Koch-Institut; Fachspezifische Analysen und Mortalitätssurveillance; Veröffentlichungen
+
+(1) Für Zwecke der epidemiologischen Analysen einer überdurchschnittlichen Sterblichkeit übermittelt das Statistische Bundesamt dem Robert Koch-Institut und den nach § 54 des Infektionsschutzgesetzes zuständigen Behörden zu jedem Sterbefall unverzüglich die nach § 2 Absatz 1a Satz 2 übermittelten Einzelangaben zu Geschlecht, Jahr und Monat der Geburt, Sterbetag, Anschrift des Sterbeortes sowie Landkreis oder kreisfreier Stadt, in welchem oder in welcher die verstorbene Person zuletzt gemeldet war, sowie das Standesamt, das den Sterbefall registriert hat. Die statistischen Ämter der Länder können auf Ersuchen des Statistischen Bundesamtes die in Satz 1 genannte Datenübermittlung anstelle des Statistischen Bundesamtes durchführen. Das Robert Koch-Institut und die nach § 54 des Infektionsschutzgesetzes zuständigen Behörden anonymisieren die Anschrift des Sterbeortes zum frühestmöglichen Zeitpunkt. Das Statistische Bundesamt übermittelt zudem aufbereitete Einzelangaben zu den in Satz 1 genannten Einzelangaben jährlich unverzüglich nach Abschluss der Aufbereitung, beginnend mit den Einzelangaben für das Berichtsjahr 2023, an das Robert Koch-Institut.
+
+(2) Das Robert Koch-Institut übermittelt Ergebnisse seiner auf Grundlage der nach Absatz 1 übermittelten Einzelangaben erstellten Analysen anonymisiert obersten und oberen Bundesbehörden sowie den nach § 54 des Infektionsschutzgesetzes zuständigen Behörden für den in Absatz 1 Satz 1 genannten Zweck. Soweit die datenempfangende Stelle nach Übermittlung der Ergebnisse nach Satz 1 feststellt, dass sie Bedarf an den nach Absatz 1 Satz 1 und 2 übermittelten Einzelangaben hat, um im Rahmen ihrer eigenen Aufgabenwahrnehmung weitere Analysen durchführen zu können, darf das Robert Koch-Institut auch die nach Absatz 1 Satz 1 und 2 übermittelten Einzelangaben an die jeweilige Stelle übermitteln. Der Bedarf ist gegenüber dem Robert Koch-Institut zu begründen. Die Anschrift des Sterbeortes ist vor der Übermittlung nach Satz 2 zu anonymisieren. Satz 2 gilt nicht für die in Absatz 1 Satz 4 genannten aufbereiteten Einzelangaben.
+
+(3) Das Robert Koch-Institut, die nach § 54 des Infektionsschutzgesetzes zuständigen Behörden sowie die obersten und oberen Bundesbehörden stellen bei Veröffentlichungen zu den in Absatz 1 genannten Einzelangaben durch geeignete Maßnahmen sicher, dass Einzelangaben den verstorbenen oder betroffenen Personen nicht zugeordnet werden können.
+
 # § 6 – Übergangsvorschrift
 
-Die Angaben nach § 2 Absatz 2 sowie nach § 3 Satz 1 Nummer 1 zu gleichgeschlechtlichen Paaren sind für den Zeitraum ab dem 1. Oktober 2017 zu liefern. Die Angaben nach § 2 Absatz 2 sind bis einschließlich 22. Januar 2019 zu liefern, die Angaben nach § 3 Satz 1 Nummer 1 bis einschließlich 22. März 2019. Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind und die Daten elektronisch vorhanden sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
+(1) Abweichend von § 5b Absatz 1 Satz 1 übermittelt das Statistische Bundesamt für den Zeitraum vom 21. Juli 2023 bis zum 31. Oktober 2023 die in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort. Die Übermittlung nach Satz 1 erfolgt innerhalb von einem Monat nach der Übermittlung der jeweiligen Einzelangaben nach § 2 Absatz 1a Satz 2.
+
+(2) Das Statistische Bundesamt übermittelt für den Zeitraum vom 1. November 2021 bis zum 31. Dezember 2022 aufbereitete Einzelangaben zu den in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort unverzüglich nach Abschluss der Aufbereitung an das Robert Koch-Institut. § 5b Absatz 2 Satz 2 gilt nicht für die in Satz 1 genannten Einzelangaben. § 5b Absatz 3 gilt für die in Satz 1 genannten Einzelangaben entsprechend. Abweichend von § 5b Absatz 1 Satz 4 übermittelt das Statistische Bundesamt aufbereitete Einzelangaben für den Zeitraum vom 1. Januar 2023 bis 31. Oktober 2023 zu den in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort.
 
 # § 7 – Inkrafttreten, Außerkrafttreten
 
