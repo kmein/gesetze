@@ -9,9 +9,11 @@
 
 1. des Artikels 2 der Richtlinie 2014/40/EU des Europäischen Parlaments und des Rates vom 3. April 2014 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Herstellung, die Aufmachung und den Verkauf von Tabakerzeugnissen und verwandten Erzeugnissen und zur Aufhebung der Richtlinie 2001/37/EG (ABl. L 127 vom 29.4.2014, S. 1) mit folgenden Maßgaben:
 
-a) die Nummern 16 und 17 mit der Maßgabe, dass die dort bezeichneten Begriffe auch nicht nikotinhaltige elektronische Zigaretten und nicht nikotinhaltige Nachfüllbehälter umfassen,
+a) die Nummer 14 mit der Maßgabe, dass der Begriff „neuartiges Tabakerzeugnis“ auch erhitzte Tabakerzeugnisse im Sinne des Artikels 7 Absatz 12 Unterabsatz 2 der Richtlinie 2014/40/EU umfasst,
 
-b) die Nummer 40 mit der Maßgabe, dass die Bereitstellung von Produkten jede Abgabe eines Produkts zum Vertrieb, Verbrauch oder zur Verwendung auf dem Gemeinschaftsmarkt im Rahmen einer Geschäftstätigkeit umfasst,
+b) die Nummern 16 und 17 mit der Maßgabe, dass die dort bezeichneten Begriffe auch nicht nikotinhaltige elektronische Zigaretten und nicht nikotinhaltige Nachfüllbehälter umfassen,
+
+c) die Nummer 40 mit der Maßgabe, dass die Bereitstellung von Produkten jede Abgabe eines Produkts zum Vertrieb, Verbrauch oder zur Verwendung auf dem Gemeinschaftsmarkt im Rahmen einer Geschäftstätigkeit umfasst,
 
 2. des Artikels 2 der Durchführungsverordnung (EU) 2018/574 der Kommission vom 15. Dezember 2017 über technische Standards für die Errichtung und den Betrieb eines Rückverfolgbarkeitssystems für Tabakerzeugnisse (ABl. L 96 vom 16.4.2018, S. 7),
 
@@ -61,29 +63,29 @@ Im Sinne dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsveror
 
 3. Kohlenmonoxid: 10 Milligramm je Zigarette.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Höchstwerte für Emissionen festzulegen, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden oder zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Höchstwerte für Emissionen festzulegen, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden oder zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
 
 # § 5 – Inhaltsstoffe
 
 (1) Es ist verboten, in den Verkehr zu bringen:
 
-1. Zigaretten und Tabake zum Selbstdrehen, die
+1. Zigaretten, Tabak zum Selbstdrehen und erhitzte Tabakerzeugnisse, die
 
 a) ein charakteristisches Aroma haben oder
 
 b) Aromastoffe in ihren Bestandteilen enthalten oder sonstige technische Merkmale aufweisen, mit denen sich der Geruch oder Geschmack oder die Rauchintensität verändern lassen;
 
-2. Filter, Papier und Kapseln für Zigaretten und für Tabak zum Selbstdrehen, die Tabak oder Nikotin enthalten;
+2. Filter, Papier und Kapseln für Zigaretten, Tabak zum Selbstdrehen und erhitzte Tabakerzeugnisse, die Tabak oder Nikotin enthalten;
 
 3. Tabakerzeugnisse, die Zusatzstoffe in Mengen enthalten, die die toxische oder suchterzeugende Wirkung oder die krebserregenden, erbgutverändernden oder fortpflanzungsschädigenden Eigenschaften (CMR-Eigenschaften) beim Konsum messbar erhöhen;
 
 4. Tabakerzeugnisse, die den Anforderungen einer nach Absatz 2 Satz 1 Nummer 3 oder 4 erlassenen Rechtsverordnung nicht genügen.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, oder zur Durchführung von Rechtsakten der Europäischen Union,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, oder zur Durchführung von Rechtsakten der Europäischen Union,
 
 1. die Zusatzstoffe oder Kombinationen von Zusatzstoffen zu bestimmen, die als charakteristisches Aroma nach Absatz 1 Nummer 1 Buchstabe a gelten,
 
-2. Zigaretten und Tabak zum Selbstdrehen zu bestimmen, die Zusatzstoffe oder Kombinationen von Zusatzstoffen enthalten, die ein charakteristisches Aroma nach Absatz 1 Nummer 1 Buchstabe a erzeugen,
+2. Zigaretten, Tabak zum Selbstdrehen und erhitzte Tabakerzeugnisse zu bestimmen, die Zusatzstoffe oder Kombinationen von Zusatzstoffen enthalten, die ein charakteristisches Aroma nach Absatz 1 Nummer 1 Buchstabe a erzeugen,
 
 3. das Inverkehrbringen von Tabakerzeugnissen mit bestimmten Inhaltsstoffen oder mit bestimmten Mengen an Inhaltsstoffen zu verbieten oder zu beschränken und diese Inhaltsstoffe festzulegen oder die Mengen festzusetzen,
 
@@ -103,7 +105,8 @@ b) die Kommission, andere Mitgliedstaaten oder Dritte beteiligt oder informiert 
 
 Zuständig für die Durchführung von Regelungen nach Satz 1 Nummer 5 ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
-(+++ § 5 Abs. 1 Nr. 1 Buchst. a: Zur Anwendung vgl. § 47 Abs. 4 +++)
+(+++ § 5 Abs. 1 Nr. 1 Buchst. a: Zur Anwendung vgl. § 47 Abs. 4 +++)  
+(+++ § 5 Abs. 1 Nr. 1 u. 2 i. d. am 21.7.2023 geltende Fassung: Zur Anwendung vgl. § 47 Abs. 10 +++)
 
 # § 6 – Warnhinweise und Verpackung
 
@@ -111,9 +114,9 @@ Zuständig für die Durchführung von Regelungen nach Satz 1 Nummer 5 ist das Bu
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt,
 
-1. im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union Inhalt, Art und Weise, Umfang und das Verfahren der Kennzeichnung mit gesundheitsbezogenen Warnhinweisen zu regeln,
+1. im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union Inhalt, Art und Weise, Umfang und das Verfahren der Kennzeichnung mit gesundheitsbezogenen Warnhinweisen zu regeln,
 
-2. im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union vorzuschreiben, dass Tabakerzeugnisse nur in bestimmten Einheiten und in Packungen einer bestimmten Art oder Größe in den Verkehr gebracht werden dürfen.
+2. im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union vorzuschreiben, dass Tabakerzeugnisse nur in bestimmten Einheiten und in Packungen einer bestimmten Art oder Größe in den Verkehr gebracht werden dürfen.
 
 # § 7 – Rückverfolgbarkeit; Erkennungs- und Sicherheitsmerkmal
 
@@ -205,7 +208,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 2. Tabakerzeugnisse in den Verkehr zu bringen, die entgegen dem Verbot nach Nummer 1 oder entgegen den Anforderungen einer nach Absatz 2 erlassenen Rechtsverordnung bestrahlt worden sind.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
 1. soweit dies mit dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden vereinbar ist, eine Bestrahlung mit ultravioletten oder ionisierenden Strahlen allgemein oder für bestimmte Tabakerzeugnisse oder für bestimmte Verwendungszwecke zuzulassen und,
 
@@ -213,7 +216,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 # § 9 – Pflanzenschutzmittel
 
-Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist,
+Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist,
 
 1. für Pflanzenschutzmittel und deren Abbau- und Reaktionsprodukte Höchstmengen festzusetzen, die in oder auf Tabakerzeugnissen beim Inverkehrbringen nicht überschritten sein dürfen,
 
@@ -223,7 +226,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Ei
 
 (1) Die Anwendung der aufgrund von Rechtsverordnungen nach § 8 Absatz 2 Nummer 1 zugelassenen Bestrahlung ist kenntlich zu machen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, in diesen Rechtsverordnungen die Art der Kenntlichmachung zu regeln sowie Ausnahmen von den Verpflichtungen zur Kenntlichmachung zuzulassen, soweit dies mit dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden vereinbar ist.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist,
 
 1. Vorschriften über die Kenntlichmachung von Tabakerzeugnissen, die Stoffe im Sinne des § 9 enthalten, zu erlassen,
 
@@ -243,7 +246,7 @@ Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr zu bringen.
 
 (4) Werden die jeweils geltenden Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen nicht mehr erfüllt, ist die Zulassung zu widerrufen. § 49 des Verwaltungsverfahrensgesetzes bleibt unberührt.
 
-(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren zu regeln einschließlich der vom Antragsteller beizubringenden Informationen insbesondere über
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren zu regeln einschließlich der vom Antragsteller beizubringenden Informationen insbesondere über
 
 1. die gesundheitlichen Auswirkungen einschließlich des Suchtpotenzials und einer Risiko-Nutzen-Analyse,
 
@@ -259,7 +262,7 @@ Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr zu bringen.
 
 3. bei der Herstellung der zu verdampfenden Flüssigkeit außer Nikotin nur Inhaltsstoffe verwendet werden, die in erhitzter und nicht erhitzter Form kein Risiko für die menschliche Gesundheit darstellen.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, für elektronische Zigaretten und Nachfüllbehälter
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, für elektronische Zigaretten und Nachfüllbehälter
 
 1. die Verwendung bestimmter Inhaltsstoffe allgemein oder für bestimmte Zwecke sowie die Anwendung bestimmter Verfahren beim Herstellen oder Behandeln zu verbieten oder zu beschränken,
 
@@ -279,7 +282,7 @@ Die nikotinhaltige zu verdampfende Flüssigkeit darf einen Nikotingehalt von hö
 
 (2) Elektronische Zigaretten, die Nikotin enthalten, dürfen nur in den Verkehr gebracht werden, wenn die Nikotindosis unter normalen Gebrauchsbedingungen auf einem gleichmäßigen Niveau abgegeben wird.
 
-(3) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den Verkehr gebracht werden, wenn sie kinder- und manipulationssicher sowie bruch- und auslaufsicher sind und über einen Mechanismus für eine auslauffreie Nachfüllung verfügen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden oder zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist, für elektronische Zigaretten und Nachfüllbehälter
+(3) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den Verkehr gebracht werden, wenn sie kinder- und manipulationssicher sowie bruch- und auslaufsicher sind und über einen Mechanismus für eine auslauffreie Nachfüllung verfügen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden oder zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist, für elektronische Zigaretten und Nachfüllbehälter
 
 1. technische Anforderungen an die Kinder-, Manipulations-, Bruch- und Auslaufsicherheit festzulegen,
 
@@ -303,7 +306,7 @@ Aufmachung und Gestaltung und
 bb)  
 produktspezifische Angaben und Hinweise.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher oder Dritter vor Gesundheitsschäden erforderlich ist,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher oder Dritter vor Gesundheitsschäden erforderlich ist,
 
 1. Inhalt und Aufmachung des Beipackzettels im Einzelnen zu regeln,
 
@@ -347,7 +350,7 @@ Die Marktüberwachungsbehörde unterrichtet unverzüglich das Bundesamt für Ver
 
 (1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen mit gesundheitsbezogenen Warnhinweisen versehen sind.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union Inhalt, Art und Weise, Umfang und das Verfahren der Kennzeichnung mit gesundheitsbezogenen Warnhinweisen zu regeln.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union Inhalt, Art und Weise, Umfang und das Verfahren der Kennzeichnung mit gesundheitsbezogenen Warnhinweisen zu regeln.
 
 # § 18 – Verbote zum Schutz vor Täuschung
 
@@ -433,7 +436,7 @@ Es ist verboten, Außenwerbung für Tabakerzeugnisse, elektronische Zigaretten o
 
 4. die den Eindruck erwecken, dass die Inhaltsstoffe natürlich oder naturrein seien.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, Vorschriften zur Durchführung der Verbote des Absatzes 1 zu erlassen, insbesondere
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, Vorschriften zur Durchführung der Verbote des Absatzes 1 zu erlassen, insbesondere
 
 1. die Art, den Umfang oder die Gestaltung der Werbung durch bestimmte Werbemittel oder an bestimmten Orten oder zu bestimmten Zeiten zu regeln,
 
@@ -471,7 +474,7 @@ b) bei der zuständigen Behörde des Mitgliedstaates der Europäischen Union, in
 
 (6) Wer grenzüberschreitenden Fernabsatz von Tabakerzeugnissen, elektronischen Zigaretten und Nachfüllbehältern an Verbraucherinnen und Verbraucher betreibt, darf deren personenbezogene Daten nur im Einklang mit den einschlägigen Vorschriften zum Schutz personenbezogener Daten verarbeiten. Herstellern von Tabakerzeugnissen, elektronischen Zigaretten und Nachfüllbehältern, den zur selben Unternehmensgruppe gehörenden Unternehmen oder sonstigen Dritten dürfen diese Daten nicht übermittelt werden. Personenbezogene Daten der Verbraucherinnen und Verbraucher dürfen nicht für andere Zwecke als den jeweiligen Verkauf verarbeitet werden; dies gilt auch, wenn Hersteller Tabakerzeugnisse, elektronische Zigaretten und Nachfüllbehälter im grenzüberschreitenden Fernabsatz an Verbraucherinnen und Verbraucher vertreiben.
 
-(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union
+(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union
 
 1. Inhalt, Art und Weise und das Verfahren der Registrierung zu regeln,
 
@@ -479,7 +482,7 @@ b) bei der zuständigen Behörde des Mitgliedstaates der Europäischen Union, in
 
 # § 23 – Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
 1. soweit dies zum Schutz der Verbraucherinnen und Verbraucher oder Dritter vor Gesundheitsschäden erforderlich ist, in den Fällen des Buchstaben f auch zur Durchführung von Rechtsakten der Europäischen Union,
 
@@ -556,7 +559,7 @@ sowie die Art der Kenntlichmachung zu regeln.
 
 (2) Bedarfsgegenstände, die den Anforderungen einer nach Absatz 1 Nummer 1 bis 3 oder 5 erlassenen Rechtsverordnung nicht genügen, dürfen nicht in den Verkehr gebracht werden.
 
-(3) Rechtsverordnungen nach Absatz 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
+(3) Rechtsverordnungen nach Absatz 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.
 
 # § 27 – Zuständigkeit und Zusammenarbeit
 
@@ -656,7 +659,7 @@ b) die Voraussetzungen und das Verfahren für die Zulassung privater Sachverstä
 
 1. entgegen § 4 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 4 Absatz 2, eine Zigarette herstellt oder in den Verkehr bringt,
 
-2. entgegen § 5 Absatz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 1 oder 2 eine Zigarette oder Tabak zum Selbstdrehen in den Verkehr bringt,
+2. entgegen § 5 Absatz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 1 oder 2 eine Zigarette, Tabak zum Selbstdrehen oder ein erhitztes Tabakerzeugnis in den Verkehr bringt,
 
 3. entgegen § 5 Absatz 1 Nummer 2 Filter, Papier oder eine Kapsel in den Verkehr bringt,
 
@@ -928,7 +931,7 @@ dürfen noch bis zum 20. Mai 2026 in den Verkehr gebracht werden oder im Verkehr
 
 (7) Bis zum Erlass einer Rechtsverordnung nach § 6 Absatz 2 Nummer 2 gilt § 25 Absatz 2 des Tabaksteuergesetzes vom 15. Juli 2009 (BGBl. I S. 1870), das zuletzt durch Artikel 12 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, fort.
 
-(8) § 20a ist auf Außenwerbung für Tabakerhitzer ab dem 1. Januar 2023 und auf Außenwerbung für elektronische Zigaretten oder Nachfüllbehälter ab dem 1. Januar 2024 anzuwenden. Im Übrigen ist § 20a ab dem 1. Januar 2022 anzuwenden.
+(8) § 20a ist auf Außenwerbung für erhitzte Tabakerzeugnisse ab dem 1. Januar 2023 und auf Außenwerbung für elektronische Zigaretten oder Nachfüllbehälter ab dem 1. Januar 2024 anzuwenden. Im Übrigen ist § 20a ab dem 1. Januar 2022 anzuwenden.
 
 (9) Nicht nikotinhaltige elektronische Zigaretten oder nicht nikotinhaltige Nachfüllbehälter, die
 
@@ -941,3 +944,5 @@ b) in den freien Verkehr gebracht und gekennzeichnet wurden und
 2. den bis zum 31. Dezember 2020 geltenden Vorschriften entsprechen,
 
 dürfen noch bis zum 31. März 2021 in Verkehr gebracht werden oder im Verkehr bleiben.
+
+(10) § 1 Absatz 1 Nummer 1 Buchstabe a und § 5 Absatz 1 Nummer 1 und 2 sind ab dem 23. Oktober 2023 anzuwenden. Bis zum Ablauf des 22. Oktober 2023 ist § 5 Absatz 1 Nummer 1 und 2 in der am 21. Juli 2023 geltenden Fassung weiter anzuwenden.

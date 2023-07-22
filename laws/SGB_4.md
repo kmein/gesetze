@@ -1393,6 +1393,8 @@ besonderen Ausschüssen übertragen werden. § 35 Absatz 2 gilt entsprechend. Di
 
 (3) Die §§ 40 bis 42 sowie § 63 Absatz 3a und 4 gelten für die ehrenamtlichen Mitglieder der besonderen Ausschüsse entsprechend.
 
+(4) § 64a Absatz 1, 3 und 4 gilt für die besonderen Ausschüsse entsprechend. § 64a Absatz 2 gilt mit der Maßgabe, dass ein Mitglied den Ausnahmefall nach Absatz 2 Satz 1 feststellt und eine digitale Sitzung nach Absatz 2 Satz 1 nicht stattfindet, wenn ein Mitglied widerspricht.
+
 # § 37 – Verhinderung von Organen
 
 (1) Solange und soweit die Wahl zu Selbstverwaltungsorganen nicht zustande kommt oder Selbstverwaltungsorgane sich weigern, ihre Geschäfte zu führen, werden sie auf Kosten des Versicherungsträgers durch die Aufsichtsbehörde selbst oder durch Beauftragte geführt. Die Verpflichtung der Aufsichtsbehörde, die Mitglieder der Selbstverwaltungsorgane zu berufen, wenn eine Wahl nicht zustande kommt, bleibt unberührt.
@@ -1908,6 +1910,16 @@ Das Bundesministerium für Arbeit und Soziales erlässt durch Rechtsverordnung m
 
 (4) Beschlüsse der Bundesvertreterversammlung und des Bundesvorstandes der Deutschen Rentenversicherung Bund in Grundsatz- und Querschnittsaufgaben und in gemeinsamen Angelegenheiten der Träger der Rentenversicherung werden mit der Mehrheit von mindestens zwei Dritteln aller gewichteten Stimmen der satzungsmäßigen Mitgliederzahl getroffen. Bei Beschlüssen der Bundesvertreterversammlung und des Bundesvorstandes werden die Stimmen der Regionalträger mit insgesamt 55 vom Hundert und die der Bundesträger mit insgesamt 45 vom Hundert gewichtet. In der Bundesvertreterversammlung orientiert sich die Gewichtung innerhalb der Regionalträger und innerhalb der Bundesträger jeweils an der Anzahl der Versicherten der einzelnen Träger. Im Bundesvorstand gilt Entsprechendes innerhalb der Bundesträger. Das Nähere zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.
 
+# § 64a – Hybride und digitale Sitzungen
+
+(1) Mitglieder der Selbstverwaltungsorgane können mit ihrer Zustimmung an den Sitzungen der Selbstverwaltungsorgane durch Zuschaltung mittels zeitgleicher Bild- und Tonübertragung teilnehmen (hybride Sitzung). Das Nähere bestimmt die Satzung; insbesondere kann die Teilnahme mittels Bild- und Tonübertragung von Voraussetzungen abhängig gemacht werden. Hybride Sitzungen sind nicht zulässig bei konstituierenden Sitzungen. Die Satzung kann weitere Ausnahmen bestimmen.
+
+(2) In außergewöhnlichen Notsituationen und in besonders eiligen Fällen können Sitzungen der Selbstverwaltungsorgane ohne persönliche Anwesenheit der Mitglieder am Sitzungsort durch zeitgleiche Bild- und Tonübertragung stattfinden (digitale Sitzung). Der Vorsitzende des Selbstverwaltungsorgans stellt den Ausnahmefall nach Satz 1 fest. Eine digitale Sitzung nach Satz 1 findet nicht statt, wenn im Fall der außergewöhnlichen Notsituation ein Drittel oder in besonders eiligen Fällen ein Fünftel der Mitglieder des Selbstverwaltungsorgans der Feststellung widerspricht; das Nähere bestimmt die Satzung.
+
+(3) Bei einer hybriden oder digitalen Sitzung gelten per Bild- und Tonübertragung teilnehmende Mitglieder des Selbstverwaltungsorgans als anwesend im Sinne des § 64 Absatz 1 Satz 1. Bei öffentlichen digitalen Sitzungen nach Absatz 2 ist der Öffentlichkeit die Teilnahme durch eine ihr in Echtzeit zugängliche zeitgleiche Bild- und Tonübertragung zu ermöglichen. In den Fällen der Absätze 1 und 2 ist die Übertragung von Bild und Ton der an der Sitzung teilnehmenden Personen unabhängig davon zulässig, ob sie in die Übertragung einwilligen. Bei nicht öffentlichen hybriden und digitalen Sitzungen haben die durch Bild- und Tonübertragung teilnehmenden Mitglieder des Selbstverwaltungsorgans sicherzustellen, dass bei ihnen keine unbefugten Dritten die Sitzung verfolgen können. In hybriden und digitalen Sitzungen sind Abstimmungen und Wahlen möglich. Das Nähere bestimmt die Satzung.
+
+(4) Der Versicherungsträger hat in seinem Verantwortungsbereich dafür Sorge zu tragen, dass die technischen Anforderungen und die datenschutzrechtlichen Bestimmungen für eine ordnungsgemäße Durchführung einer hybriden oder digitalen Sitzung eingehalten werden. Bei technisch bedingten Störungen der Wahrnehmbarkeit, die nachweislich im Verantwortungsbereich des Versicherungsträgers liegen, darf die Sitzung nicht fortgesetzt werden. Sonstige Störungen sind unbeachtlich; sie haben insbesondere keine Auswirkung auf die Wirksamkeit eines ohne das betroffene Mitglied des Selbstverwaltungsorgans gefassten Beschlusses. § 64 Absatz 1 bleibt unberührt.
+
 # § 65 – Getrennte Abstimmung
 
 (1) In den Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist zur Beschlussfassung eine Mehrheit in den Gruppen der Versicherten, der Selbständigen ohne fremde Arbeitskräfte und der Arbeitgeber erforderlich für
@@ -1930,7 +1942,7 @@ Das Bundesministerium für Arbeit und Soziales erlässt durch Rechtsverordnung m
 
 (1) Die Selbstverwaltungsorgane können die Erledigung einzelner Aufgaben, mit Ausnahme der Rechtsetzung, Ausschüssen übertragen. Zu Mitgliedern können bis zur Hälfte der Mitglieder einer jeden Gruppe auch Stellvertreter von Mitgliedern des Organs bestellt werden. Die Organe können die Stellvertretung für die Ausschussmitglieder abweichend von § 43 Absatz 2 regeln.
 
-(2) Für die Beratung und Abstimmung gelten die §§ 63 und 64 entsprechend.
+(2) Für die Beratung und Abstimmung gelten die §§ 63, 64 und 64a Absatz 1, 3 und 4 entsprechend. § 64a Absatz 2 gilt mit der Maßgabe, dass ein Mitglied den Ausnahmefall nach Absatz 2 Satz 1 feststellt und eine digitale Sitzung nach Absatz 2 Satz 1 nicht stattfindet, wenn ein Mitglied widerspricht.
 
 # § 67 – Aufstellung des Haushaltsplans
 
