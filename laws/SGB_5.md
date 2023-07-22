@@ -8024,7 +8024,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 # § 217b – Organe
 
-(1) Bei dem Spitzenverband Bund der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis 4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3a und § 66 Abs. 1 des Vierten Buches und § 197 gelten entsprechend.
+(1) Bei dem Spitzenverband Bund der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis 4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3a, § 64a und § 66 Abs. 1 des Vierten Buches und § 197 gelten entsprechend.
 
 (1a) Der Verwaltungsrat kann sämtliche Geschäfts- und Verwaltungsunterlagen einsehen und prüfen. Der Verwaltungsrat kann von dem Vorstand jederzeit einen Bericht über Angelegenheiten der Körperschaften verlangen. Der Bericht ist rechtzeitig und in der Regel schriftlich zu erstatten. Die Rechte nach den Sätzen 1 und 2 können auch mit einem Viertel der abgegebenen Stimmen im Verwaltungsrat geltend gemacht werden.
 
@@ -9432,7 +9432,7 @@ Die Vertreter nach Satz 1 Nummer 2 haben kein Stimmrecht. Die für die Sozialver
 
 (7) Der Vorstand wird aus der oder dem Vorstandsvorsitzenden und der Stellvertreterin oder dem Stellvertreter gebildet. Der Vorstand führt die Geschäfte des Medizinischen Dienstes nach den Richtlinien des Verwaltungsrates. Der Vorstand stellt den Haushaltsplan auf und vertritt den Medizinischen Dienst gerichtlich und außergerichtlich. Die Höhe der jährlichen Vergütungen der oder des Vorstandsvorsitzenden und der Stellvertreterin oder des Stellvertreters einschließlich aller Nebenleistungen sowie sämtliche Versorgungsregelungen sind betragsmäßig in einer Übersicht jährlich am 1. März im Bundesanzeiger sowie gleichzeitig auf der Internetseite des betreffenden Medizinischen Dienstes zu veröffentlichen. Die Art und die Höhe finanzieller Zuwendungen, die der oder dem Vorstandsvorsitzenden und der Stellvertreterin oder dem Stellvertreter im Zusammenhang mit ihrer Vorstandstätigkeit von Dritten gewährt werden, sind der oder dem Vorsitzenden und der oder dem stellvertretenden Vorsitzenden des Verwaltungsrates mitzuteilen. § 35a Absatz 3 und 6a des Vierten Buches gilt entsprechend.
 
-(8) Folgende Vorschriften des Vierten Buches gelten entsprechend: die §§ 37, 38, 40 Absatz 1 Satz 1 und 2, Absatz 2 und 3, die §§ 41, 42 Absatz 1 bis 3, § 43 Absatz 2, die §§ 58, 59 Absatz 1 bis 3, 5 und 6, die §§ 60, 62 Absatz 1 Satz 1 erster Halbsatz, Absatz 2, 3 Satz 1 und 4 und Absatz 4 bis 6, § 63 Absatz 1 und 2, 3 Satz 2 und 3, Absatz 3a bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und § 66.
+(8) Folgende Vorschriften des Vierten Buches gelten entsprechend: die §§ 37, 38, 40 Absatz 1 Satz 1 und 2, Absatz 2 und 3, die §§ 41, 42 Absatz 1 bis 3, § 43 Absatz 2, die §§ 58, 59 Absatz 1 bis 3, 5 und 6, die §§ 60, 62 Absatz 1 Satz 1 erster Halbsatz, Absatz 2, 3 Satz 1 und 4 und Absatz 4 bis 6, § 63 Absatz 1 und 2, 3 Satz 2 und 3, Absatz 3a bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und die §§ 64a und 66.
 
 (9) Der Verwaltungsrat kann aus wichtigen Gründen ohne Sitzung schriftlich abstimmen.
 
