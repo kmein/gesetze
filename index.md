@@ -3427,7 +3427,6 @@
 - [LuftSiG](laws/LuftSiG.md) Luftsicherheitsgesetz
 - [LuftSiGebV](laws/LuftSiGebV.md) Luftsicherheitsgebührenverordnung
 - [LuftSiSchulV](laws/LuftSiSchulV.md) Luftsicherheits-Schulungsverordnung
-- [LuftSiSchulV](laws/LuftSiSchulV.md) Luftsicherheits-Schulungsverordnung
 - [LuftSiZÜV](laws/LuftSiZÜV.md) Luftsicherheits-Zuverlässigkeitsüberprüfungsverordnung
 - [LuftSpZustV](laws/LuftSpZustV.md) Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Luftsportwesen
 - [LuftStrAbk](laws/LuftStrAbk.md) Abkommen über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen

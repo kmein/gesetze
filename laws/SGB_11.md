@@ -2885,7 +2885,7 @@ Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente, Arbeitsentgel
 
 (5) Der Beitragsberechnung von Personen, die nach § 26 Abs. 2 weiterversichert sind, werden für den Kalendertag der 180. Teil der monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde gelegt.
 
-§ 57 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 7.4.2022 I 1023 - 1 BvL 3/18, 1 BvR 717/16, 1 BvR 2257/16, 1 BvR 2824/17 -
+§ 57 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 7.4.2022 I 1023 - 1 BvL 3/18, 1 BvR 717/16, 1 BvR 2257/16, 1 BvR 2824/17 -. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.6.2023 I Nr. 155 mWv 1.7.2023
 
 # § 58 – Tragung der Beiträge bei versicherungspflichtig Beschäftigten
 

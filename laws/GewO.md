@@ -3487,7 +3487,3 @@ Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt § 44a des Bu
 (1) § 14 Absatz 4 Satz 1 ist, soweit die Mitteilung der Wirtschaftsidentifikationsnummer nach § 139c der Abgabenordnung und des Unterscheidungsmerkmals nach § 139c Absatz 5a der Abgabenordnung betroffen ist, bis zu dem Tag, an dem das Bundesministerium für Wirtschaft und Klimaschutz im Bundesgesetzblatt bekannt gibt, dass diese Identifikationsmerkmale eingeführt worden sind, in der bis zum 31. Dezember 2022 geltenden Fassung anzuwenden.
 
 (2) § 14 Absatz 4 Satz 2 ist bis zu dem Tag, an dem das Bundesministerium für Wirtschaft und Klimaschutz im Bundesgesetzblatt bekannt gibt, dass die technischen und organisatorischen Voraussetzungen für die automatisierte und medienbruchfreie Übermittlung der Daten aus der steuerlichen Abmeldung von den Finanzbehörden an die Gewerbebehörden bundesweit vorliegen, in der bis zum 31. Dezember 2022 geltenden Fassung anzuwenden.
-
-# Anlage 1 bis 3 – (weggefallen)
-
-(+++ Anlage 1 bis 3: Zur Anwendung vgl. § 158 i.d. bis zum 22.6.2022 geltenden F. +++)

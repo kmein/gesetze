@@ -69,7 +69,9 @@ Tabakerzeugnisse dürfen nicht in den Verkehr gebracht werden, wenn sie einen de
 
 # § 5a – Bestimmung von Tabakerzeugnissen mit einem charakteristischen Aroma
 
-Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen mit einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1 Buchstabe a des Tabakerzeugnisgesetzes durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit anzuwendende Verfahren richtet sich nach den Artikeln 2 und 4, Artikel 5 Absatz 1 und 4, den Artikeln 6 und 7 Absatz 1, den Artikeln 8 und 9 Absatz 1 und 4 und Artikel 12 der Durchführungsverordnung (EU) 2016/779 der Kommission vom 18. Mai 2016 zur Festlegung einheitlicher Regeln für die Verfahren, mit denen bestimmt wird, ob ein Tabakerzeugnis ein charakteristisches Aroma hat (ABl. L 131 vom 20.5.2016, S. 48).
+(1) Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen mit einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1 Buchstabe a des Tabakerzeugnisgesetzes durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit anzuwendende Verfahren richtet sich nach den Artikeln 2 und 4, Artikel 5 Absatz 1 und 4, den Artikeln 6 und 7 Absatz 1, den Artikeln 8 und 9 Absatz 1 und 4 und Artikel 12 der Durchführungsverordnung (EU) 2016/779 der Kommission vom 18. Mai 2016 zur Festlegung einheitlicher Regeln für die Verfahren, mit denen bestimmt wird, ob ein Tabakerzeugnis ein charakteristisches Aroma hat (ABl. L 131 vom 20.5.2016, S. 48).
+
+(2) Absatz 1 gilt für erhitzte Tabakerzeugnisse entsprechend.
 
 # § 6 – Mitteilungspflichten
 
@@ -269,6 +271,8 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 
 (2) Der allgemeine Warnhinweis ist durch folgende Information zur Raucherentwöhnung zu ergänzen: „Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei), www.rauchfrei-info.de“.
 
+(+++ § 15: Zur Nichtanwendung vgl. § 16a +++)
+
 # § 16 – Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 (1) Für die Gestaltung und Anbringung der gesundheitsbezogenen Warnhinweise nach § 15 gelten folgende allgemeine Anforderungen:
@@ -294,6 +298,16 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 2. er muss 40 Prozent dieser Fläche einnehmen und
 
 3. bei jeder Marke muss jeder in Anhang I der Richtlinie 2014/40/EU in der jeweils geltenden Fassung aufgeführte Text-Warnhinweis in gleicher Anzahl erscheinen.
+
+(+++ § 16: Zur Nichtanwendung vgl. § 16a +++)
+
+# § 16a – Erhitzte Tabakerzeugnisse
+
+Für erhitzte Tabakerzeugnisse, die als Rauchtabakerzeugnisse eingestuft sind,
+
+1. gelten die §§ 12 bis 14 entsprechend,
+
+2. sind die §§ 15 und 16 nicht anzuwenden.
 
 # § 17 – Kennzeichnung rauchloser Tabakerzeugnisse
 
