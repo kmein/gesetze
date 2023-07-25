@@ -29,10 +29,6 @@ Diese Verordnung gilt
 
 9. für Hundeführer und für die Regelungen zu Sprengstoffspürhunden und Sprengstoffspürhunde-Teams nach Kapitel 12.9 des Anhangs der Durchführungsverordnung (EU) 2015/1998.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 2 – Begriffsbestimmungen
 
 (1) Luftsicherheitskontrollpersonal sind Personen, die für die Kontrollen von Personen, Handgepäck, mitgeführten Gegenständen, aufgegebenem Gepäck, Fracht und Post, Post oder Material von Luftfahrtunternehmen, Bordvorräten, Flughafenlieferungen und Fahrzeugen sowie für Zugangskontrollen, Überwachungen und Streifengänge zuständig sind und über die Kompetenzen nach den Nummern 11.2.3.1 bis 11.2.3.5 des Anhangs der Durchführungsverordnung (EU) 2015/1998 verfügen müssen.
@@ -494,6 +490,10 @@ Fortbildungen werden grundsätzlich von Ausbildern durchgeführt. § 4 Absatz 1 
 # § 36 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Luftsicherheits-Schulungsverordnung vom 2. April 2008 (BGBl. I S. 647), die zuletzt durch Artikel 182 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, außer Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 3 Absatz 2)Kriterien der mentalen und physischen Geeignetheit von Luftsicherheitskontrollpersonal
 
