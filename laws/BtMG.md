@@ -59,6 +59,10 @@ Rücknahme und Widerruf
 
 Erlaubnis für den Betrieb von Drogenkonsumräumen
 
+§ 10b
+
+Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen
+
 Dritter Abschnitt
 
  
@@ -489,7 +493,31 @@ wenn dies zur Sicherheit oder Kontrolle des Betäubungsmittelverkehrs oder der H
 
 (3) Für das Erlaubnisverfahren gelten § 7 Satz 1 und 2 Nr. 1 bis 4 und 8, §§ 8, 9 Abs. 2 und § 10 entsprechend; dabei tritt an die Stelle des Bundesinstituts für Arzneimittel und Medizinprodukte jeweils die zuständige oberste Landesbehörde, an die Stelle der obersten Landesbehörde jeweils das Bundesinstitut für Arzneimittel und Medizinprodukte.
 
-(4) Eine Erlaubnis nach Absatz 1 berechtigt das in einem Drogenkonsumraum tätige Personal nicht, eine Substanzanalyse der mitgeführten Betäubungsmittel durchzuführen oder beim unmittelbaren Verbrauch der mitgeführten Betäubungsmittel aktive Hilfe zu leisten.
+# § 10b – Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen
+
+(1) Die zuständigen Landesbehörden können eine Erlaubnis für Modellvorhaben zur qualitativen und quantitativen chemischen Analyse von mitgeführten, nicht ärztlich, zahnärztlich oder tierärztlich verschriebenen Betäubungsmitteln erteilen, wenn mit der Analyse eine Risikobewertung und gesundheitliche Aufklärung über die Folgen des Konsums für die die Betäubungsmittel besitzende Person verbunden ist (Drug-Checking-Modellvorhaben).
+
+(2) Die Landesregierungen haben zur Verbesserung des Gesundheitsschutzes und einer besseren gesundheitlichen Aufklärung durch Rechtsverordnung Bestimmungen über die Erteilung einer in Absatz 1 genannten Erlaubnis einschließlich der hierfür geltenden Voraussetzungen zu erlassen. In der Rechtsverordnung nach Satz 1 sind insbesondere folgende Anforderungen an die Durchführung von Drug-Checking-Modellvorhaben festzulegen:
+
+1. Vorhandensein einer zweckdienlichen sachlichen Ausstattung;
+
+2. Gewährleistung einer Aufklärung über die Risiken des Konsums von Betäubungsmitteln einschließlich einer Beratung zum Zweck der gesundheitlichen Risikominderung beim Konsum;
+
+3. Gewährleistung einer Vermittlung in weiterführende Angebote der Suchthilfe bei Bedarf seitens der Konsumierenden;
+
+4. Dokumentation der zur Untersuchung eingereichten Substanzen mit Untersuchungsergebnis und der angewandten Methode zur Ermöglichung der in Absatz 3 Satz 1 genannten gesundheitlichen Aufklärung und wissenschaftlichen Begleitung und zur Berücksichtigung der Untersuchungsergebnisse in öffentlichen substanzbezogenen Warnungen;
+
+5. Vorgaben zur Sicherheit und Kontrolle des Betäubungsmittelverkehrs bei Verwahrung und Transport von zu untersuchenden Proben und zur Vernichtung der zu untersuchenden Proben nach der Substanzanalyse;
+
+6. Festlegung erforderlicher Formen der Zusammenarbeit mit den für die öffentliche Sicherheit und Ordnung zuständigen örtlichen Behörden;
+
+7. ständige Anwesenheit während der üblichen Geschäftszeiten des Modellvorhabens von persönlich zuverlässigem Personal in ausreichender Zahl, das für die Erfüllung der in den Nummern 1 bis 6 genannten Anforderungen fachlich qualifiziert ist;
+
+8. Vorhandensein einer sachkundigen Person, die für die Einhaltung der in den Nummern 1 bis 7 genannten Anforderungen, der Auflagen der Erlaubnisbehörde sowie der Anordnungen der Überwachungsbehörde verantwortlich ist und die die ihr obliegenden Verpflichtungen ständig während der üblichen Geschäftszeiten des Modellvorhabens erfüllen kann und gegenüber der zuständigen Behörde vor Erteilung der in Absatz 1 genannten Erlaubnis zu benennen ist.
+
+In der Rechtsverordnung nach Satz 1 sind das Verfahren der Erteilung der in Absatz 1 genannten Erlaubnis und die hierfür jeweils zuständige Behörde zu bestimmen.
+
+(3) Die Länder stellen jeweils eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele einer besseren gesundheitlichen Aufklärung sowie eines verbesserten Gesundheitsschutzes sicher. Die Länder übermitteln dem Bundesministerium für Gesundheit oder einem von ihm beauftragten Dritten auf Anforderung die Ergebnisse der Modellvorhaben.
 
 # § 11 – Einfuhr, Ausfuhr und Durchfuhr
 
@@ -572,6 +600,14 @@ Der Arzt muss unter Hinweis darauf, dass eine Situation nach Satz 1 vorliegt, be
 4. die Angabe gegenüber dem Arzt, ob das Betäubungsmittel zum Zeitpunkt der Anfrage vorrätig ist oder bis wann es zur Abgabe bereitsteht.
 
 Im Falle des Überlassens nach Satz 1 hat der Arzt den ambulant versorgten Palliativpatienten oder zu dessen Pflege anwesende Dritte über die ordnungsgemäße Anwendung der überlassenen Betäubungsmittel aufzuklären und eine schriftliche Gebrauchsanweisung mit Angaben zur Einzel- und Tagesgabe auszuhändigen.
+
+(1b) Abweichend von Absatz 1 dürfen die in Anlage III bezeichneten Betäubungsmittel durch Notfallsanitäter im Sinne des Notfallsanitätergesetzes ohne vorherige ärztliche Anordnung im Rahmen einer heilkundlichen Maßnahme verabreicht werden, wenn diese nach standardisierten ärztlichen Vorgaben handeln, ein Eintreffen eines Arztes nicht abgewartet werden kann und die Verabreichung zur Abwendung von Gefahren für die Gesundheit oder zur Beseitigung oder Linderung erheblicher Beschwerden erforderlich ist. Die standardisierten ärztlichen Vorgaben müssen
+
+1. den handelnden Notfallsanitätern in Textform vorliegen,
+
+2. Regelungen zu Art und Weise der Verabreichung enthalten und
+
+3. Festlegungen darüber treffen, in welchen Fällen das Eintreffen eines Arztes nicht abgewartet werden kann.
 
 (2) Die nach Absatz 1 verschriebenen Betäubungsmittel dürfen nur im Rahmen des Betriebs einer Apotheke und gegen Vorlage der Verschreibung abgegeben werden. Diamorphin darf nur vom pharmazeutischen Unternehmer und nur an anerkannte Einrichtungen nach Absatz 3 Satz 2 Nummer 2a gegen Vorlage der Verschreibung abgegeben werden. Im Rahmen des Betriebs einer tierärztlichen Hausapotheke dürfen nur die in Anlage III bezeichneten Betäubungsmittel und nur zur Anwendung bei einem vom Betreiber der Hausapotheke behandelten Tier abgegeben werden.
 
@@ -701,7 +737,7 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 # § 19 – Durchführende Behörde
 
-(1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte. Diese Stelle ist auch zuständig für die Anfertigung und Ausgabe der zur Verschreibung von Betäubungsmitteln vorgeschriebenen amtlichen Formblätter, für die Bereitstellung eines Verfahrens zur Verschreibung von Betäubungsmitteln in elektronischer Form sowie für die Auswertung von Verschreibungen. Der Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten, pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung der in § 10a Abs. 2 aufgeführten Mindeststandards; den mit der Überwachung beauftragten Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
+(1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte. Diese Stelle ist auch zuständig für die Anfertigung und Ausgabe der zur Verschreibung von Betäubungsmitteln vorgeschriebenen amtlichen Formblätter, für die Bereitstellung eines Verfahrens zur Verschreibung von Betäubungsmitteln in elektronischer Form sowie für die Auswertung von Verschreibungen. Der Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten, pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung der in § 10a Absatz 2 oder in § 10b Absatz 2 aufgeführten Mindeststandards oder Anforderungen; den mit der Überwachung beauftragten Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist zugleich die besondere Verwaltungsdienststelle im Sinne der internationalen Suchtstoffübereinkommen.
 
@@ -845,6 +881,8 @@ b) verabreicht oder zum unmittelbaren Verbrauch überläßt,
 
 6a. entgegen § 13 Absatz 1a Satz 1 und 2 ein dort genanntes Betäubungsmittel überlässt,
 
+6b. entgegen § 13 Absatz 1b Satz 1 Betäubungsmittel verabreicht,
+
 7. entgegen § 13 Absatz 2
 
 a) Betäubungsmittel in einer Apotheke oder tierärztlichen Hausapotheke,
@@ -877,7 +915,7 @@ Die Abgabe von sterilen Einmalspritzen an Betäubungsmittelabhängige und die ö
 
 2. durch eine der in Absatz 1 Satz 1 Nr. 1, 6 oder 7 bezeichneten Handlungen die Gesundheit mehrerer Menschen gefährdet.
 
-(4) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 Nr. 1, 2, 5, 6 Buchstabe b, Nr. 10 oder 11 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+(4) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 Nummer 1, 2, 5, 6 Buchstabe b, Nummer 6b, 10 oder 11 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Das Gericht kann von einer Bestrafung nach den Absätzen 1, 2 und 4 absehen, wenn der Täter die Betäubungsmittel lediglich zum Eigenverbrauch in geringer Menge anbaut, herstellt, einführt, ausführt, durchführt, erwirbt, sich in sonstiger Weise verschafft oder besitzt.
 
@@ -941,7 +979,7 @@ War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung nach
 
 # § 31a – Absehen von der Verfolgung
 
-(1) Hat das Verfahren ein Vergehen nach § 29 Abs. 1, 2 oder 4 zum Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung absehen, wenn die Schuld des Täters als gering anzusehen wäre, kein öffentliches Interesse an der Strafverfolgung besteht und der Täter die Betäubungsmittel lediglich zum Eigenverbrauch in geringer Menge anbaut, herstellt, einführt, ausführt, durchführt, erwirbt, sich in sonstiger Weise verschafft oder besitzt. Von der Verfolgung soll abgesehen werden, wenn der Täter in einem Drogenkonsumraum Betäubungsmittel lediglich zum Eigenverbrauch, der nach § 10a geduldet werden kann, in geringer Menge besitzt, ohne zugleich im Besitz einer schriftlichen Erlaubnis für den Erwerb zu sein.
+(1) Hat das Verfahren ein Vergehen nach § 29 Abs. 1, 2 oder 4 zum Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung absehen, wenn die Schuld des Täters als gering anzusehen wäre, kein öffentliches Interesse an der Strafverfolgung besteht und der Täter die Betäubungsmittel lediglich zum Eigenverbrauch in geringer Menge anbaut, herstellt, einführt, ausführt, durchführt, erwirbt, sich in sonstiger Weise verschafft oder besitzt. Von der Verfolgung soll abgesehen werden, wenn der Täter in einem Drogenkonsumraum Betäubungsmittel lediglich zum Eigenverbrauch, der nach § 10a geduldet werden kann, in geringer Menge besitzt, ohne zugleich im Besitz einer schriftlichen Erlaubnis für den Erwerb zu sein. Ebenfalls soll von der Verfolgung abgesehen werden, wenn der Täter, der Betäubungsmittel lediglich zum Eigenverbrauch in geringer Menge besitzt, ohne zugleich im Besitz einer schriftlichen Erlaubnis für den Erwerb zu sein, anlässlich der Nutzung eines in § 10b genannten Modellvorhabens angetroffen wird.
 
 (2) Ist die Klage bereits erhoben, so kann das Gericht in jeder Lage des Verfahrens unter den Voraussetzungen des Absatzes 1 mit Zustimmung der Staatsanwaltschaft und des Angeschuldigten das Verfahren einstellen. Der Zustimmung des Angeschuldigten bedarf es nicht, wenn die Hauptverhandlung aus den in § 205 der Strafprozeßordnung angeführten Gründen nicht durchgeführt werden kann oder in den Fällen des § 231 Abs. 2 der Strafprozeßordnung und der §§ 232 und 233 der Strafprozeßordnung in seiner Abwesenheit durchgeführt wird. Die Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 

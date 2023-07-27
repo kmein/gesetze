@@ -131,6 +131,8 @@ a) findet Absatz 1 keine Anwendung auf Arzneimittel, die von den Gesundheitsbeh�
 
 b) gilt Absatz 3 Satz 1 und 2 entsprechend für Zubereitungen aus von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen bevorrateten Wirkstoffen.
 
+(5) Stellt das Bundesministerium für Gesundheit nach § 79 Absatz 5 Satz 5 bis 7 des Arzneimittelgesetzes fest, dass ein Versorgungsmangel der Bevölkerung mit Arzneimitteln, die zur Vorbeugung oder Behandlung lebensbedrohlicher Erkrankungen benötigt werden, vorliegt, kann die zuständige Behörde im Einzelfall eine Abgabe eines in der Bekanntmachung der Feststellung genannten Arzneimittels entsprechend Absatz 3 Satz 1 und 2 gestatten.
+
 # § 11a
 
 Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß § 43 Abs. 1 Satz 1 des Arzneimittelgesetzes ist dem Inhaber einer Erlaubnis nach § 2 auf Antrag zu erteilen, wenn er schriftlich oder elektronisch versichert, dass er im Falle der Erteilung der Erlaubnis folgende Anforderungen erfüllen wird:

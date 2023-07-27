@@ -303,7 +303,7 @@ Anlage 2
 
 (2) Für die Wahl zum Deutschen Bundestag gelten die Grundsätze der Verhältniswahl. Jeder Wähler hat zwei Stimmen, eine Erststimme für die Wahl nach Kreiswahlvorschlägen und eine Zweitstimme für die Wahl nach Landeswahlvorschlägen, auf denen die zur Wahl zugelassenen Parteien ihre Bewerber benennen (Landeslisten).
 
-(3) Für die Vergabe der auf die Landeslisten entfallenden Sitze werden, vorbehaltlich der Regelungen des § 6, vorrangig Bewerber berücksichtigt, die in einer Wahl nach Kreiswahlvorschlägen in 299 Wahlkreisen ermittelt werden. Jede Partei erhält in jedem Land für diejenigen ihrer Bewerber, die in den Wahlkreisen in diesem Land die meisten Erststimmen erhalten haben, die Sitzzahl, die von den auf die Partei entfallenden Zweitstimmen gedeckt ist (Zweitstimmenabdeckung).
+(3) Für die Vergabe der auf die Landeslisten entfallenden Sitze werden, vorbehaltlich der Regelungen des § 6, vorrangig Bewerber berücksichtigt, die in einer Wahl nach Kreiswahlvorschlägen in 299 Wahlkreisen ermittelt werden. Jede Partei erhält in jedem Land für diejenigen ihrer Bewerber, die in den Wahlkreisen in diesem Land die meisten Erststimmen erhalten haben, die Sitzzahl, die von den auf die Partei entfallenden Zweitstimmen gedeckt ist (Zweitstimmendeckung).
 
 (4) Die Wahl in den Wahlkreisen steht Bewerbern, die nicht von einer Partei vorgeschlagen werden, nach den sich aus diesem Gesetz ergebenden Anforderungen offen.
 

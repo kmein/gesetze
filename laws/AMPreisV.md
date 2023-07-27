@@ -47,7 +47,7 @@ Im Fall von Satz 1 Nummer 1 bleibt § 129a des Fünften Buches Sozialgesetzbuch 
 
 # § 2 – Großhandelszuschläge für Fertigarzneimittel
 
-(1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Menschen bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte sind auf den Abgabepreis des pharmazeutischen Unternehmers ein Festzuschlag von 70 Cent sowie die Umsatzsteuer zu erheben; zusätzlich darf auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens ein Zuschlag von 3,15 Prozent, höchstens jedoch 37,80 Euro erhoben werden. Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte dürfen auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben werden.Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag zugrunde zu legen, zu dem der pharmazeutische Unternehmer das Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des Arzneimittelgesetzes abgibt.
+(1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Menschen bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte sind auf den Abgabepreis des pharmazeutischen Unternehmers ein Festzuschlag von 73 Cent sowie die Umsatzsteuer zu erheben; zusätzlich darf auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens ein Zuschlag von 3,15 Prozent, höchstens jedoch 37,80 Euro erhoben werden. Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte dürfen auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben werden. Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag zugrunde zu legen, zu dem der pharmazeutische Unternehmer das Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des Arzneimittelgesetzes abgibt.
 
 (2) Der Höchstzuschlag nach Absatz 1 Satz 2 ist bei einem Abgabepreis des pharmazeutischen Unternehmers  
 
@@ -88,6 +88,8 @@ Im Fall von Satz 1 Nummer 1 bleibt § 129a des Fünften Buches Sozialgesetzbuch 
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Menschen bestimmt sind, durch die Apotheken sind zur Berechnung des Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 8,35 Euro zuzüglich 21 Cent zur Förderung der Sicherstellung des Notdienstes zuzüglich 20 Cent zur Finanzierung zusätzlicher pharmazeutischer Dienstleistungen nach § 129 Absatz 5e des Fünften Buches Sozialgesetzbuch sowie die Umsatzsteuer zu erheben; bei der Abgabe von saisonalen Grippeimpfstoffen durch die Apotheken an Ärzte sind abweichend ein Zuschlag von 1 Euro je Einzeldosis, höchstens jedoch 75 Euro je Verordnungszeile, sowie die Umsatzsteuer zu erheben. Soweit Fertigarzneimittel, die zur Anwendung bei Menschen bestimmt sind, durch die Apotheken zur Anwendung bei Tieren abgegeben werden, dürfen zur Berechnung des Apothekenabgabepreises abweichend von Satz 1 höchstens ein Zuschlag von 3 Prozent zuzüglich 8,10 Euro sowie die Umsatzsteuer erhoben werden. Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch die Apotheken dürfen zur Berechnung des Apothekenabgabepreises höchstens Zuschläge nach Absatz 3 oder 4 sowie die Umsatzsteuer erhoben werden.
 
+(1a) Im Fall eines Austauschs eines verordneten Arzneimittels nach § 129 Absatz 2a des Fünften Buches Sozialgesetzbuch durch die Apotheke ist ein Zuschlag in Höhe von 50 Cent zuzüglich Umsatzsteuer zu erheben.
+
 (2) Der Festzuschlag ist zu erheben
 
 1. auf den Betrag, der sich aus der Zusammenrechnung des bei Belieferung des Großhandels geltenden Abgabepreises des pharmazeutischen Unternehmers ohne die Umsatzsteuer und des darauf entfallenden Großhandelshöchstzuschlags nach § 2 ergibt,
@@ -119,7 +121,7 @@ zuzüglich 118,24 Euro.</td></tr></tbody></table>
 | von 19,43 Euro bis 22,57 Euro |  8,35 Euro, |
 | von 29,15 Euro bis 35,94 Euro | 10,78 Euro. |
 
-(5) Sofern die abzugebende Menge nicht in der Verschreibung vorgeschrieben oder gesetzlich bestimmt ist, haben die Apotheken, soweit mit den Kostenträgern nichts anderes vereinbart ist, die kleinste im Verkehr befindliche Packung zu berechnen.
+(5) Sofern die abzugebende Menge nicht in der Verschreibung vorgeschrieben oder gesetzlich bestimmt ist, haben die Apotheken, soweit mit den Kostenträgern nichts anderes vereinbart ist, die kleinste im Verkehr befindliche Packung zu berechnen. Satz 1 gilt auch in dem Fall, dass statt der verschriebenen Packungsgröße die verschriebene Menge des Arzneimittels als Teilmenge aus einer Packung abgegeben wird, die größer ist als die verschriebene Packungsgröße.
 
 (6) Für die erneute Abgabe der an eine Apotheke zurückgegebenen verschreibungspflichtigen Fertigarzneimittel durch die Apotheke beträgt der Festzuschlag 5,80 Euro.
 
