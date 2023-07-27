@@ -101,6 +101,8 @@ Im Übrigen sind die Begriffsbestimmungen aus § 3 des Energiewirtschaftsgesetze
 
 (5) Soweit ein grundzuständiger Messstellenbetreiber Standard- und Zusatzleistungen in einem anderen Netzgebiet anbietet, wird er als Dritter im Sinne der §§ 5 und 6 tätig.
 
+(+++ § 3: Zur Anwendung vgl. § 7 Abs. 1 +++)
+
 # § 4 – Genehmigung des grundzuständigen Messstellenbetriebs
 
 (1) Die Aufnahme der Grundzuständigkeit für den Messstellenbetrieb bedarf der Genehmigung durch die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur). Sie entscheidet über die Erteilung der Genehmigung innerhalb von drei Monaten nach Vorliegen der vollständigen Antragsunterlagen.
@@ -149,6 +151,8 @@ Im Übrigen sind die Begriffsbestimmungen aus § 3 des Energiewirtschaftsgesetze
 
 (3) Für Kosten des Netzbetriebs, die bei Anwendung dieses Gesetzes entstehen, sind die §§ 21 und 21a des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
+(+++ § 7: Zur Anwendung vgl. § 7 Abs. 1 +++)
+
 # § 8 – Messstelle
 
 (1) Der Messstellenbetreiber bestimmt im Rahmen der Anforderungen dieses Gesetzes nach Konsultation mit dem Anschlussnehmer oder Anschlussnutzer Ort, Art, Zahl und Größe von Messeinrichtungen, beauftragten technischen Einrichtungen einschließlich Steuerungseinrichtungen; dabei ist § 21 Absatz 3 anzuwenden. In den Fällen des § 14 Absatz 3 der Stromgrundversorgungsverordnung vom 26. Oktober 2006 (BGBl. I S. 2391) und des § 14 Absatz 3 der Gasgrundversorgungsverordnung vom 26. Oktober 2006 (BGBl. I S. 2391, 2396) hat der Messstellenbetreiber die Belange des Grundversorgers angemessen zu berücksichtigen, soweit dies technisch möglich ist.
@@ -172,6 +176,8 @@ Im Übrigen sind die Begriffsbestimmungen aus § 3 des Energiewirtschaftsgesetze
 (3) Besteht kein Messstellenvertrag mit dem Anschlussnehmer oder kein Vertrag nach Absatz 2, kommt ein Messstellenvertrag zwischen dem grundzuständigen Messstellenbetreiber und dem Anschlussnutzer nach Absatz 1 Nummer 1 dadurch zustande, dass dieser Elektrizität aus dem Netz der allgemeinen Versorgung über einen Zählpunkt entnimmt. Bei intelligenten Messsystemen und modernen Messeinrichtungen kommt der Vertrag entsprechend den nach Absatz 4 veröffentlichten Bedingungen für die jeweilige Verbrauchsgruppe zustande.
 
 (4) Grundzuständige Messstellenbetreiber sind verpflichtet, unter Beachtung dieses Gesetzes und des Energiewirtschaftsgesetzes, der auf Grund dieser Gesetze erlassenen Rechtsverordnungen und der auf diesen Grundlagen ergangenen vollziehbaren Entscheidungen der Regulierungsbehörde allgemeine Bedingungen für Verträge nach den Absätzen 1 bis 3 im Internet zu veröffentlichen und zu diesen Bedingungen Verträge abzuschließen (Rahmenverträge). Für den mindestens erforderlichen Regelungsinhalt von Rahmenverträgen ist § 10 Absatz 2 entsprechend anzuwenden.
+
+(+++ § 9 Abs. 1: Zur Anwendung vgl. § 10 Abs. 1 +++)
 
 # § 10 – Inhalt von Messstellenverträgen
 
@@ -225,6 +231,8 @@ Die Bundesnetzagentur hat auf Grundlage der Daten, die ihr zur Erstellung ihres 
 
 (5) Der Messstellenbetreiber hat dem Netzbetreiber den Verlust, die Beschädigung und Störungen der Messeinrichtungen und der technischen Einrichtungen einschließlich Steuerungseinrichtungen unverzüglich in Textform mitzuteilen. Der Messstellenbetreiber hat unverzüglich Beschädigungen oder Störungen der Mess- und Steuerungseinrichtungen zu beheben und die Funktionsfähigkeit der Messstelle wiederherzustellen.
 
+(+++ § 11 Abs. 4: Zur Anwendung vgl. § 44 +++)
+
 # § 12 – Rechte des Netzbetreibers
 
 Der Netzbetreiber ist zur Erfüllung gesetzlicher Verpflichtungen berechtigt, vom Messstellenbetreiber, insbesondere zur Durchführung einer Unterbrechung nach den §§ 17 und 24 der Niederspannungsanschlussverordnung vom 1. November 2006 (BGBl. I S. 2477) oder den §§ 17 und 24 der Niederdruckanschlussverordnung vom 1. November 2006 (BGBl. I S. 2477, 2485), die notwendigen Handlungen an der Messstelle zu verlangen.
@@ -271,7 +279,8 @@ Ist kein intelligentes Messsystem vorhanden, genügt eine Mitteilung an den Ener
 
 (3) Ein Dritter, der den Messstellenbetrieb durchführt, hat den Verlust, die Beschädigung und Störungen der Messeinrichtungen und der technischen Einrichtungen einschließlich Steuerungseinrichtungen unverzüglich dem grundzuständigen Messstellenbetreiber in Textform mitzuteilen. Er hat unverzüglich die Beschädigung und Störung der Mess- und Steuerungseinrichtungen zu beheben und den Verlust zu ersetzen.
 
-(+++ Kapitel 2 (§§ 14 bis 18): Zur Anwendung vgl. § 39 Abs. 1 +++)
+(+++ Kapitel 2 (§§ 14 bis 18): Zur Anwendung vgl. § 39 Abs. 1 +++)  
+(+++ § 16 Abs. 1 u. 2: Zur Anwednung vgl. § 1 Abs. 4 +++)
 
 # § 17 – Wechsel des Anschlussnutzers
 
@@ -367,7 +376,8 @@ c) Software-Aktualisierungen empfangen und verarbeiten kann,
 
 (3) Für mehrere Zählpunkte können die Anforderungen nach Absatz 1 auch mit nur einem Smart-Meter-Gateway leitungsgebunden oder drahtlos in räumlicher Nähe einer Liegenschaft realisiert werden, soweit die Einsichts- und Informationsrechte nach den §§ 53 und 61 sowie die gleichen Funktions- und Sicherheitsanforderungen wie bei der Bündelung der Zählpunkte an einem Netzanschluss gewährleistet sind. Als räumlicher Nahbereich einer Liegenschaft gelten auch Zählpunkte an mehreren Netzanschlüssen im Bereich desselben Netzknotens gleicher Spannungsebene. Erfordert die Umsetzung von Satz 1 wesentliche Änderungen und Ergänzungen im Sinne von § 27 Absatz 1 Satz 1 zweiter Halbsatz, so haben diese bis zum Ablauf des 31. Dezember 2024 zu erfolgen.
 
-(+++ Hinweis: Aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung gem. Art. 9a Nr. 2 Buchst. a DBuchst. bb in § 21 Abs. 1 Nr. 2 Buchst. e ausgeführt +++)
+(+++ Hinweis: Aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung gem. Art. 9a Nr. 2 Buchst. a DBuchst. bb in § 21 Abs. 1 Nr. 2 Buchst. e ausgeführt +++)  
+(+++ § 21 Abs. 3: Zur Anwendung vgl. § 8 Abs. 1 +++)
 
 # § 22 – Mindestanforderungen an das Smart-Meter-Gateway durch Schutzprofile und Technische Richtlinien
 
@@ -535,8 +545,6 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist Inhaber der Wurzelz
 
 (5) (weggefallen)
 
-(+++ § 29: Zur Anwendung vgl. § 36 Abs. 1 +++)
-
 # § 30 – Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen; Preisobergrenzen
 
 (1) Die Ausstattung einer Messstelle bei einem Letztverbraucher mit einem intelligenten Messsystem nach § 29 Absatz 1 Nummer 1 ist wirtschaftlich vertretbar, wenn vom grundzuständigen Messstellenbetreiber
@@ -625,6 +633,9 @@ Die optionale Ausstattung einer Messstelle bei einem Anlagenbetreiber mit einem 
 
 (6) Sobald das Bundesministerium für Wirtschaft und Klimaschutz eine Rechtsverordnung nach § 33 erlassen hat, gelten die dort festgesetzten Preisobergrenzen anstelle der in den Absätzen 1 bis 3 geregelten Preisobergrenzen.
 
+(+++ § 30: Zur Anwendung vgl. § 7 Abs. 1 u. § 31 Abs. 2 +++)  
+(+++ § 30 Abs. 1 bis 3: Zur Anwendung vgl. § 35 Abs. 1 +++)
+
 # § 31 – Agiler Rollout, Anwendungsupdate
 
 (1) Messstellenbetreiber können den Rollout nach § 30 Absatz 1 bis 3 im Bereich der Niederspannung bei Messstellen an Zählpunkten mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden und bei Messstellen an Zählpunkten von Anlagen mit einer installierten Leistung bis einschließlich 25 Kilowatt auch mit intelligenten Messsystemen beginnen, bei denen eine oder mehrere der folgenden Anwendungen jeweils nicht schon zum Zeitpunkt des Einbaus, sondern spätestens ab 2025 durch ein Anwendungsupdate zur Verfügung gestellt werden können:
@@ -639,15 +650,13 @@ Satz 1 findet auch auf die Ausstattung mit intelligenten Messsystemen durch nach
 
 (2) Für die Ausstattung einer Messstelle mit einem intelligenten Messsystem nach Absatz 1 finden die Preisobergrenzen nach den §§ 30 und 35 Anwendung.
 
-(+++ § 31: Zur Anwendung vgl. § 36 Abs. 1 +++)
-
 # § 32 – Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit modernen Messeinrichtungen
 
 (1) Die Ausstattung einer Messstelle mit einer modernen Messeinrichtung nach § 29 Absatz 3 ist wirtschaftlich vertretbar, wenn für den Messstellenbetrieb für jeden Zählpunkt nicht mehr als 20 Euro brutto jährlich in Rechnung gestellt werden. § 61 Absatz 3 gilt entsprechend.
 
 (2) Sobald das Bundesministerium für Wirtschaft und Klimaschutz eine Rechtsverordnung nach § 33 erlassen hat, gelten die dort festgesetzten Preisobergrenzen anstelle der in Absatz 1 Satz 1 geregelten Preisobergrenze.
 
-(+++ § 32: Zur Anwendung vgl. § 36 Abs. 1 +++)
+(+++ § 32: Zur Anwendung vgl. § 7 Abs. 1 +++) §§ 30 bis 35: IdF d. Art. 2 Nr. 21 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023
 
 # § 33 – Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen, agilem Rollout und Ausstattungsverpflichtungen; Verordnungsermächtigungen
 
@@ -665,7 +674,7 @@ Satz 1 findet auch auf die Ausstattung mit intelligenten Messsystemen durch nach
 
 (3) Eine Erhöhung von Preisobergrenzen für Anschlussnutzer nach Absatz 1 Nummer 1 ist höchstens alle vier Jahre zulässig. Dabei darf höchstens die Hälfte der für Anschlussnetzbetreiber und Anschlussnutzer in Summe geltenden Preisobergrenzen auf Anschlussnutzer entfallen. Regelungen über die Entgelte für den Netzzugang von Betreibern von Energieversorgungsnetzen sowie über deren Genehmigung nach Teil 3 Abschnitt 3 des Energiewirtschaftsgesetzes sowie hierauf beruhende Rechtsverordnungen und hierauf beruhende Festlegungen der Bundesnetzagentur bleiben davon unberührt.
 
-(+++ § 33: Zur Anwendung vgl. § 36 Abs. 1 +++)
+(+++ § 33: Zur Anwendung vgl. § 36 Abs. 1 +++) §§ 30 bis 35: IdF d. Art. 2 Nr. 21 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023
 
 # § 34 – Standard- und Zusatzleistungen des Messstellenbetreibers; Verordnungsermächtigung
 
@@ -735,6 +744,8 @@ Messstellenbetreiber können dem Anspruchsteller die Bereitstellung von Zusatzle
 
 Im Rahmen einer Rechtsverordnung nach Satz 1 kann das Bundesministerium für Wirtschaft und Klimaschutz insbesondere genauere Kriterien für die Verpflichtungen von Messstellenbetreibern und Netzbetreibern nach Satz 1 definieren und über § 34 Absatz 2 Satz 2 Nummer 1 bis 10 hinausgehend verpflichtend durch Messstellenbetreiber anzubietende Zusatzleistungen vorgeben.
 
+(+++ § 34: Zur Anwendung vgl. § 7 Abs. 1 +++)
+
 # § 35 – Preisobergrenzen für Zusatzleistungen des grundzuständigen Messstellenbetreibers
 
 (1) Der grundzuständige Messstellenbetreiber darf für seine Zusatzleistungen nach § 34 Absatz 2 und 3 zuzüglich zu den in § 30 genannten Entgelten ein zusätzliches angemessenes Entgelt erheben. Die Angemessenheit des zusätzlichen Entgelts wird vermutet, wenn jeweils nicht mehr als die folgenden Höchstbeträge brutto in Rechnung gestellt werden:
@@ -754,6 +765,8 @@ Im Rahmen einer Rechtsverordnung nach Satz 1 kann das Bundesministerium für Wir
 (3) Die Ausstattung von Messstellen nach § 34 Absatz 2 Satz 2 Nummer 1 steht einer Ausstattung nach § 29 Absatz 1 gleich.
 
 (4) Sobald das Bundesministerium für Wirtschaft und Klimaschutz eine Verordnung nach § 33 erlassen hat, gelten die dort festgesetzten Preisobergrenzen anstelle der in Absatz 1 Satz 2 geregelten Preisobergrenzen.
+
+(+++ § 35: Zur Anwendung vgl. § 7 Abs. 1 u. § 31 Abs. 2 +++)
 
 # § 36 – Ausstattungspflichten und freie Wahl des Messstellenbetreibers
 
@@ -814,6 +827,8 @@ Anstehende Verfahren zur Übertragung der Grundzuständigkeit nach § 41 Absatz 
 (3) Der vormalige grundzuständige Messstellenbetreiber hat dem neuen grundzuständigen Messstellenbetreiber alle Informationen zu übergeben, die für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen erforderlich sind.
 
 (4) Der Wechsel der Grundzuständigkeit ist vom übernehmenden Messstellenbetreiber unverzüglich im Bundesanzeiger bekannt zu machen sowie der Bundesnetzagentur anzuzeigen.
+
+(+++ $§ 43 Abs. 4: Zur Anwendung vgl. § 11 Abs. 4 +++)
 
 # § 44 – Scheitern einer Übertragung der Grundzuständigkeit
 

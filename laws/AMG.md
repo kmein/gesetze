@@ -1299,7 +1299,7 @@ c) zur Täuschung über die Qualität geeignete Bezeichnungen, Angaben oder Aufm
 
 Sofern die Angaben nach Satz 1 zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in dieser Sprache die gleichen Angaben gemacht werden. Ferner ist Raum für die Angabe der verschriebenen Dosierung vorzusehen; dies gilt nicht für die in Absatz 8 Satz 3 genannten Behältnisse und Ampullen und für Arzneimittel, die dazu bestimmt sind, ausschließlich durch Angehörige der Heilberufe angewendet zu werden. Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt werden und nach § 25 zugelassen sind, sind zusätzlich mit einem Hinweis auf die homöopathische Beschaffenheit zu kennzeichnen. Weitere Angaben, die nicht durch eine Verordnung der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben oder bereits nach einer solchen Verordnung zulässig sind, sind zulässig, soweit sie mit der Anwendung des Arzneimittels im Zusammenhang stehen, für die gesundheitliche Aufklärung der Patienten wichtig sind und den Angaben nach § 11a nicht widersprechen.
 
-(1a) Bei Arzneimitteln, die durch Ärzte oder Zahnärzte unmittelbar an Patienten angewendet werden, kann die zuständige Bundesoberbehörde im Fall eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses auf Antrag des Zulassungsinhabers im Einzelfall gestatten, dass das Arzneimittel abweichend von Absatz 1 Satz 1 befristet mit einer Kennzeichnung in einer anderen als der deutschen Sprache in den Verkehr gebracht wird.
+(1a) Die zuständige Bundesoberbehörde kann im Fall eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses auf Antrag des Zulassungsinhabers im Einzelfall gestatten, dass ein Arzneimittel abweichend von Absatz 1 Satz 1 befristet mit einer Kennzeichnung in einer anderen als der deutschen Sprache in den Verkehr gebracht wird. In diesem Fall stellt die zuständige Bundesoberbehörde sicher, dass der Verbraucher in geeigneter Weise Zugang zu den erforderlichen Produktinformationen erhält.
 
 (1b) Die Bezeichnung des Arzneimittels ist auf den äußeren Umhüllungen auch in Blindenschrift anzugeben. Die in Absatz 1 Satz 1 Nr. 2 genannten sonstigen Angaben zur Darreichungsform und zu der Personengruppe, für die das Arzneimittel bestimmt ist, müssen nicht in Blindenschrift aufgeführt werden; dies gilt auch dann, wenn diese Angaben in der Bezeichnung enthalten sind. Satz 1 gilt nicht für Arzneimittel,
 
@@ -1371,8 +1371,7 @@ An die Stelle der Angabe nach Absatz 1 Satz 1 Nr. 3 tritt die Registrierungsnumm
 
 (11) Aus Fertigarzneimitteln entnommene Teilmengen dürfen nur mit einer Kennzeichnung abgegeben werden, die mindestens den Anforderungen nach Absatz 8 Satz 1 entspricht. Absatz 1b findet keine Anwendung.
 
-(+++ § 10 Abs. 1: Zur Anwendung vgl. § 109 Abs. 1 +++)  
-§ 10 Abs. 1c: Eingef. durch Art. 1. Nr. 7 Buchst. c G v. 19.10.2012 I 2192 mWv ersten Tag des vierten Jahres, der auf die Verkündung des delegierten Rechtsaktes der Europäischen Kommission nach Artikel 54a Absatz 2 der Richtlinie 2001/83/EG im Amtsblatt der Europäischen Union folgt; Inkraft gem. Art. 12a Nr. 1 G v. 20.12.2016 I 3048 mWv 9.2.2019; idF d. Art. 3 Nr. 10 Buchst. d G v. 27.9.2021 I 4530 mWv 28.1.2022
+(+++ § 10 Abs. 1: Zur Anwendung vgl. § 109 Abs. 1 +++)
 
 # § 10a – Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen
 
@@ -1451,7 +1450,7 @@ Für Arzneimittel, die sich auf der Liste nach Artikel 23 der Verordnung (EG) Nr
 
 (1b) Die nach Absatz 1 Satz 1 Nummer 5 und Satz 3 erforderlichen Standardtexte werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 
-(1c) Bei Arzneimitteln, die durch Ärzte oder Zahnärzte unmittelbar an Patienten angewendet werden, kann die zuständige Bundesoberbehörde im Fall eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses auf Antrag des Zulassungsinhabers im Einzelfall gestatten, dass das Arzneimittel abweichend von Absatz 1 Satz 1 befristet mit einer Packungsbeilage in einer anderen als der deutschen Sprache in den Verkehr gebracht wird.
+(1c) Die zuständige Bundesoberbehörde kann im Fall eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses auf Antrag des Zulassungsinhabers im Einzelfall gestatten, dass ein Arzneimittel abweichend von Absatz 1 Satz 1 befristet mit einer Packungsbeilage in einer anderen als der deutschen Sprache in den Verkehr gebracht wird. In diesem Fall stellt die zuständige Bundesoberbehörde sicher, dass der Verbraucher in geeigneter Weise Zugang zu den erforderlichen Produktinformationen erhält.
 
 (2) Es sind ferner in der Packungsbeilage Hinweise auf Bestandteile, deren Kenntnis für eine wirksame und unbedenkliche Anwendung des Arzneimittels erforderlich ist, und für die Verbraucher bestimmte Aufbewahrungshinweise anzugeben, soweit dies nach dem jeweiligen Stand der wissenschaftlichen Erkenntnisse erforderlich oder durch Auflage der zuständigen Bundesoberbehörde nach § 28 Abs. 2 Nr. 2 angeordnet oder durch Rechtsverordnung vorgeschrieben ist.
 
@@ -1474,8 +1473,6 @@ Für Arzneimittel, die sich auf der Liste nach Artikel 23 der Verordnung (EG) Nr
 (6) Die Packungsbeilage kann entfallen, wenn die nach den Absätzen 1 bis 3 vorgeschriebenen Angaben auf dem Behältnis oder auf der äußeren Umhüllung stehen. Absatz 5 findet entsprechende Anwendung.
 
 (7) Aus Fertigarzneimitteln entnommene Teilmengen dürfen nur zusammen mit einer Ausfertigung der für das Fertigarzneimittel vorgeschriebenen Packungsbeilage abgegeben werden. Absatz 6 Satz 1 gilt entsprechend. Abweichend von Satz 1 müssen bei der im Rahmen einer Dauermedikation erfolgenden regelmäßigen Abgabe von aus Fertigarzneimitteln entnommenen Teilmengen in neuen, patientenindividuell zusammengestellten Blistern Ausfertigungen der für die jeweiligen Fertigarzneimittel vorgeschriebenen Packungsbeilagen erst dann erneut beigefügt werden, wenn sich diese gegenüber den zuletzt beigefügten geändert haben.
-
-§ 11 Abs. 1 Satz 1 Eingangssatz Kursivdruck: müsste richtig "Nr. 1a, 1b" lauten.
 
 # § 11a – Fachinformation
 
@@ -1747,7 +1744,7 @@ Pharmazeutische Biologie. Der theoretische und praktische Unterricht und die aus
 
 4. für hämatopoetische Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut zusätzlich zu ausreichenden Kenntnissen mindestens zwei Jahre Erfahrungen in dieser Tätigkeit, insbesondere in der zugrunde liegenden Technik,
 
-nachgewiesen werden. Zur Vorbehandlung von Personen zur Separation von hämatopoetischen Stammzellen aus dem peripheren Blut oder von anderen Blutbestandteilen muss die verantwortliche ärztliche Person ausreichende Kenntnisse und eine mindestens zweijährige Erfahrung in dieser Tätigkeit nachweisen. Für das Abpacken und Kennzeichnen verbleibt es bei den Voraussetzungen des Absatzes 1.
+nachgewiesen werden. Zur Vorbehandlung von Personen zur Separation von hämatopoetischen Stammzellen aus dem peripheren Blut oder von anderen Blutbestandteilen muss die verantwortliche ärztliche Person ausreichende Kenntnisse und eine mindestens zweijährige Erfahrung in dieser oder einer anderen, vergleichbar qualifizierenden Tätigkeit nachweisen. Für das Abpacken und Kennzeichnen verbleibt es bei den Voraussetzungen des Absatzes 1.
 
 (3a) Für die Herstellung und Prüfung von Arzneimitteln für neuartige Therapien, xenogenen Arzneimitteln, Gewebezubereitungen, Arzneimitteln zur In-vivo-Diagnostik mittels Markergenen, radioaktiven Arzneimitteln und Wirkstoffen findet Absatz 2 keine Anwendung. Anstelle der praktischen Tätigkeit nach Absatz 1 muss
 
@@ -2875,7 +2872,7 @@ Personenbezogene Daten sind vor ihrer Übermittlung nach Artikel 41 Absatz 2 und
 
 # § 42b – Veröffentlichung der Ergebnisse klinischer Prüfungen
 
-(1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses Gesetzes ein Arzneimittel in den Verkehr bringen, das der Pflicht zur Zulassung oder Genehmigung für das Inverkehrbringen unterliegt, haben Berichte über alle Ergebnisse konfirmatorischer klinischer Prüfungen in Drittstaaten zum Nachweis der Wirksamkeit und Unbedenklichkeit der zuständigen Bundesoberbehörde zur Eingabe in die Datenbank nach § 67a Absatz 2 zur Verfügung zu stellen. Diese Berichte sind innerhalb von sechs Monaten nach Erteilung oder Änderung, soweit die Änderung auf konfirmatorischen klinischen Prüfungen beruht der Zulassung oder der Genehmigung für das Inverkehrbringen zur Verfügung zu stellen.
+(1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses Gesetzes ein Arzneimittel in den Verkehr bringen, das der Pflicht zur Zulassung oder Genehmigung für das Inverkehrbringen unterliegt, haben Berichte über alle Ergebnisse konfirmatorischer klinischer Prüfungen in Drittstaaten zum Nachweis der Wirksamkeit und Unbedenklichkeit der zuständigen Bundesoberbehörde zur Eingabe in die Datenbank nach § 67a Absatz 2 zur Verfügung zu stellen. Diese Berichte sind innerhalb von sechs Monaten nach Erteilung oder Änderung, soweit die Änderung auf konfirmatorischen klinischen Prüfungen beruht, der Zulassung oder der Genehmigung für das Inverkehrbringen zur Verfügung zu stellen.
 
 (2) Die Berichte nach Absatz 1 müssen alle Ergebnisse der klinischen Prüfungen unabhängig davon, ob sie günstig oder ungünstig sind, enthalten. Es sind ferner Aussagen zu nachträglichen wesentlichen Prüfplanänderungen sowie Unterbrechungen und Abbrüchen der klinischen Prüfung in den Bericht aufzunehmen. Im Übrigen ist der Ergebnisbericht gemäß den Anforderungen der Guten Klinischen Praxis abzufassen. Mit Ausnahme des Namens und der Anschrift des pharmazeutischen Unternehmers oder des Sponsors sowie der Angabe des Namens und der Anschrift von Prüfärzten dürfen die Berichte nach Satz 1 keine personenbezogenen, insbesondere patientenbezogenen Daten enthalten. Der Bericht kann in deutscher oder englischer Sprache verfasst sein. § 63b Absatz 3 Satz 1 ist nicht anzuwenden. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben ebenso wie die §§ 24a und 24b unberührt.
 
@@ -3009,11 +3006,11 @@ i) Arzneimittel, die im Falle des § 21 Absatz 2 Nummer 3 zur Verfügung gestell
 
 5. auf gesetzlicher Grundlage eingerichtete oder im Benehmen mit dem Bundesministerium von der zuständigen Behörde anerkannte zentrale Beschaffungsstellen für Arzneimittel,
 
-5a. durch Landesrecht bestimmte Träger der Luftrettung, soweit es sich um aus menschlichem Blut gewonnene Erythrozytenkonzentrate handelt,
+5a. durch Landesrecht bestimmte Betreiber der Luftrettung, soweit es sich um aus menschlichem Blut gewonnene Erythrozytenkonzentrate handelt,
 
 6. Tierärzte im Rahmen des Betriebes einer tierärztlichen Hausapotheke, soweit es sich um Fertigarzneimittel handelt, zur Anwendung an den von ihnen behandelten Tieren und zur Abgabe an deren Halter,
 
-7. zur Ausübung der Zahnheilkunde berechtigte Personen, soweit es sich um Fertigarzneimittel handelt, die ausschließlich in der Zahnheilkunde verwendet und bei der Behandlung am Patienten angewendet werden,
+7. zur Ausübung der Zahnheilkunde berechtigte Personen, soweit es sich um Fertigarzneimittel, die ausschließlich in der Zahnheilkunde verwendet und bei der Behandlung am Patienten angewendet werden, oder um medizinische Gase handelt,
 
 8. Einrichtungen von Forschung und Wissenschaft, denen eine Erlaubnis nach § 3 des Betäubungsmittelgesetzes erteilt worden ist, die zum Erwerb des betreffenden Arzneimittels berechtigt,
 
@@ -3165,7 +3162,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 7 werden nach Anhörungen von Sa
 
 5. Sauerstoff sind.
 
-(3) Absatz 1 Nr. 2 gilt ferner nicht für Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind, wenn eine Person, die die Sachkenntnis nach § 50 besitzt, zur Verfügung steht.
+(3) Abweichend von Absatz 1 dürfen Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind, durch andere Formen der Selbstbedienung als Automaten in den Verkehr gebracht werden, wenn eine Person, die die Sachkenntnis nach § 50 besitzt, zur Verfügung steht.
 
 # § 52a – Großhandel mit Arzneimitteln
 
@@ -3203,7 +3200,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 7 werden nach Anhörungen von Sa
 
 (1) Pharmazeutische Unternehmer und Betreiber von Arzneimittelgroßhandlungen, die im Geltungsbereich dieses Gesetzes ein tatsächlich in Verkehr gebrachtes Arzneimittel vertreiben, das durch die zuständige Bundesoberbehörde zugelassen worden ist oder für das durch die Europäische Gemeinschaft oder durch die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Absatz 1 oder 2 der Verordnung (EG) Nr. 726/2004 erteilt worden ist, stellen eine angemessene und kontinuierliche Bereitstellung des Arzneimittels sicher, damit der Bedarf von Patienten im Geltungsbereich dieses Gesetzes gedeckt ist.
 
-(2) Pharmazeutische Unternehmer müssen im Rahmen ihrer Verantwortlichkeit eine bedarfsgerechte und kontinuierliche Belieferung vollversorgender Arzneimittelgroßhandlungen gewährleisten. Vollversorgende Arzneimittelgroßhandlungen sind Großhandlungen, die ein vollständiges, herstellerneutral gestaltetes Sortiment an apothekenpflichtigen Arzneimitteln unterhalten, das nach Breite und Tiefe so beschaffen ist, dass damit der Bedarf von Patienten von den mit der Großhandlung in Geschäftsbeziehung stehenden Apotheken werktäglich innerhalb angemessener Zeit gedeckt werden kann; die vorzuhaltenden Arzneimittel müssen dabei mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen. Satz 1 gilt nicht für Arzneimittel, die dem Vertriebsweg des § 47 Absatz 1 Nummer 2 bis 10 oder des § 47a oder des § 47b unterliegen oder die aus anderen rechtlichen oder tatsächlichen Gründen nicht über den Großhandel ausgeliefert werden können.
+(2) Pharmazeutische Unternehmer müssen im Rahmen ihrer Verantwortlichkeit eine bedarfsgerechte und kontinuierliche Belieferung vollversorgender Arzneimittelgroßhandlungen gewährleisten. Vollversorgende Arzneimittelgroßhandlungen sind Großhandlungen, die ein vollständiges, herstellerneutral gestaltetes Sortiment an apothekenpflichtigen Arzneimitteln unterhalten, das nach Breite und Tiefe so beschaffen ist, dass damit der Bedarf von Patienten von den mit der Großhandlung in Geschäftsbeziehung stehenden Apotheken werktäglich innerhalb angemessener Zeit gedeckt werden kann; die vorzuhaltenden Arzneimittel müssen dabei mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen; die vorzuhaltenden Arzneimittel, die in der nach § 35 Absatz 5a Satz 1 des Fünften Buches Sozialgesetzbuch erstellten Liste aufgeführt sind, müssen mindestens dem durchschnittlichen Bedarf für vier Wochen entsprechen. Satz 1 gilt nicht für Arzneimittel, die dem Vertriebsweg des § 47 Absatz 1 Nummer 2 bis 10 oder des § 47a oder des § 47b unterliegen oder die aus anderen rechtlichen oder tatsächlichen Gründen nicht über den Großhandel ausgeliefert werden können.
 
 (3) Vollversorgende Arzneimittelgroßhandlungen müssen im Rahmen ihrer Verantwortlichkeit eine bedarfsgerechte und kontinuierliche Belieferung der mit ihnen in Geschäftsbeziehung stehenden Apotheken gewährleisten. Satz 1 gilt entsprechend für andere Arzneimittelgroßhandlungen im Umfang der von ihnen jeweils vorgehaltenen Arzneimittel.
 
@@ -3229,15 +3226,23 @@ Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 7 werden nach Anhörungen von Sa
 
 9. die zuständigen Bundesoberbehörden und die zuständigen Behörden.
 
-Das Bundesministerium benennt die teilnehmenden Verbände und Organisationen des Beirats. Das Bundesinstitut für Arzneimittel und Medizinprodukte macht die teilnehmenden Verbände und Organisationen auf seiner Internetseite bekannt. Der Beirat gibt sich eine Geschäftsordnung, die das Nähere zum Verfahren und zur Arbeitsweise des Beirats regelt. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums.
+Das Bundesministerium benennt die teilnehmenden Verbände und Organisationen des Beirats. Das Bundesinstitut für Arzneimittel und Medizinprodukte macht die teilnehmenden Verbände und Organisationen auf seiner Internetseite bekannt. Der Spitzenverband Bund der Krankenkassen nimmt mit bis zu fünf Vertretern an den Sitzungen teil und sieht dabei eine Beteiligung seiner Mitglieder vor. Die Vertreter im Beirat sind in Bezug auf ihre Tätigkeit im Beirat, die ihnen dort bekanntgewordenen Tatsachen und sonstigen Informationen zur Wahrung der Vertraulichkeit persönlich verpflichtet und dürfen diese nur zum Zwecke der Erfüllung der Aufgaben des Beirats verwenden. Der Beirat gibt sich eine Geschäftsordnung, die das Nähere zum Verfahren und zur Arbeitsweise des Beirats einschließlich der Dokumentation der tragenden Gründe der Mehrheits- und Minderheitsvoten regelt. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums.
 
-(3c) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt nach Anhörung des Beirats eine aktuelle Liste versorgungsrelevanter und versorgungskritischer Wirkstoffe und macht diese auf seiner Internetseite bekannt. Zudem macht das Bundesinstitut für Arzneimittel und Medizinprodukte die ihm gemeldeten Lieferengpässe auf seiner Internetseite bekannt. Sofern Wirkstoffe oder Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Bekanntmachung nach den Sätzen 1 und 2 im Einvernehmen mit dem Paul-Ehrlich-Institut.
+(3c) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt nach Anhörung des Beirats eine aktuelle Liste versorgungsrelevanter und versorgungskritischer Wirkstoffe und macht diese auf seiner Internetseite bekannt. Zudem macht das Bundesinstitut für Arzneimittel und Medizinprodukte auf seiner Internetseite bekannt:
+
+1. die ihm gemeldeten Lieferengpässe und
+
+2. eine aktuelle Liste der Lieferengpässe bei Arzneimitteln mit versorgungrelevanten und versorgungskritischen Wirkstoffen.
+
+Sofern Wirkstoffe oder Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Bekanntmachung nach den Sätzen 1 und 2 im Einvernehmen mit dem Paul-Ehrlich-Institut.
 
 (3d) Die zuständige Bundesoberbehörde kann nach Anhörung des Beirats im Fall eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses eines Arzneimittels geeignete Maßnahmen zu dessen Abwendung oder Abmilderung ergreifen. Die zuständige Bundesoberbehörde kann insbesondere anordnen, dass pharmazeutische Unternehmer und Arzneimittelgroßhandlungen bestimmte Maßnahmen zur Gewährleistung der angemessenen und kontinuierlichen Bereitstellung von Arzneimitteln nach Absatz 1 ergreifen; dies schließt Maßnahmen zur Kontingentierung von Arzneimitteln ein. Bei Arzneimitteln mit versorgungskritischen Wirkstoffen kann die zuständige Bundesoberbehörde nach Anhörung des Beirats zur Abwendung oder Abmilderung eines drohenden oder bestehenden versorgungrelevanten Lieferengpasses Maßnahmen zur Lagerhaltung anordnen.
 
-(3e) Auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte haben pharmazeutische Unternehmer und Arzneimittelgroßhandlungen zur Abwendung oder Abmilderung eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses eines Arzneimittels Daten zu verfügbaren Beständen, zur Produktion und zur Absatzmenge sowie Informationen zu drohenden Lieferengpässen des jeweiligen Arzneimittels mitzuteilen. Sofern Wirkstoffe oder Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Anforderung der Daten im Einvernehmen mit dem Paul-Ehrlich-Institut. Die Daten können dem Beirat auf seine Anforderung in anonymisierter Form zur Beobachtung und Bewertung übermittelt werden.
+(3e) Auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte haben pharmazeutische Unternehmer, Hersteller und Arzneimittelgroßhandlungen zur Abwendung oder Abmilderung eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses eines Arzneimittels Daten zu verfügbaren Beständen, zur Produktion, einschließlich der Herstellungsstätte der bei der Herstellung des Arzneimittels tatsächlich verwendeten Wirkstoffe, und zur Absatzmenge sowie Informationen zu drohenden Lieferengpässen des jeweiligen Arzneimittels elektronisch mitzuteilen. Krankenhausversorgende Apotheken und Krankenhausapotheken haben auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte zur Abwendung oder Abmilderung eines drohenden oder bestehenden versorgungsrelevanten Lieferengpasses eines Arzneimittels Daten zu verfügbaren Beständen des jeweiligen Arzneimittels elektronisch mitzuteilen. Das Bundesinstitut für Arzneimittel und Medizinprodukte legt das Verfahren und die Formatvorgaben für eine elektronische Übermittlung der Daten fest und gibt diese auf seiner Internetseite bekannt. Sofern Wirkstoffe oder Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Anforderung der Daten nach den Sätzen 1 und 2 und die Festlegung des Verfahrens und der Formatvorgaben für die elektronische Übermittlung der Daten im Einvernehmen mit dem Paul-Ehrlich-Institut. Die Daten können dem Beirat auf seine Anforderung in anonymisierter Form zur Beobachtung und Bewertung übermittelt werden.
 
-(3f) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt nach Anhörung des Beirats eine Liste von Fertigarzneimitteln, für die eine regelmäßige Datenübermittlung zur Beurteilung der Versorgungslage erforderlich ist, und macht diese auf seiner Internetseite bekannt. Pharmazeutische Unternehmer übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte regelmäßig Daten in elektronischer Form zu verfügbaren Beständen, zur Produktion und zur Absatzmenge von Fertigarzneimitteln, die auf der Liste nach Satz 1 aufgeführt sind. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann, soweit es zur Beurteilung der Versorgungslage erforderlich ist, auch von Arzneimittelgroßhandlungen eine regelmäßige Datenübermittlung in elektronischer Form zu verfügbaren Beständen und zur Absatzmenge von Fertigarzneimitteln, die auf der Liste nach Satz 1 aufgeführt sind, fordern. Das Bundesinstitut für Arzneimittel und Medizinprodukte legt das Verfahren und die Formatvorlagen für die elektronische Übermittlung der Daten fest und gibt diese auf seiner Internetseite bekannt. Sofern Fertigarzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Erstellung der Liste von Fertigarzneimitteln, die Festlegung des Verfahrens und der Formatvorlagen sowie die Bekanntmachung im Einvernehmen mit dem Paul-Ehrlich-Institut. Die Daten können dem Beirat auf dessen Anforderung in anonymisierter Form zur Beobachtung und Bewertung übermittelt werden.
+(3f) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt nach Anhörung des Beirats eine Liste von Fertigarzneimitteln, für die eine regelmäßige Datenübermittlung zur Beurteilung der Versorgungslage erforderlich ist, und macht diese auf seiner Internetseite bekannt. Pharmazeutische Unternehmer übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte regelmäßig, höchstens jedoch in einem Abstand von acht Wochen, Daten in elektronischer Form zu verfügbaren Beständen, zur Produktion, einschließlich der Herstellungsstätte der bei der Herstellung des Arzneimittels tatsächlich verwendeten Wirkstoffe, und zur Absatzmenge von Fertigarzneimitteln, die auf der Liste nach Satz 1 aufgeführt sind. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann, soweit es zur Beurteilung der Versorgungslage erforderlich ist, auch von Arzneimittelgroßhandlungen eine regelmäßige Datenübermittlung in elektronischer Form zu verfügbaren Beständen und zur Absatzmenge von Fertigarzneimitteln, die auf der Liste nach Satz 1 aufgeführt sind, fordern. Das Bundesinstitut für Arzneimittel und Medizinprodukte legt das Verfahren und die Formatvorlagen für die elektronische Übermittlung der Daten fest und gibt diese auf seiner Internetseite bekannt. Sofern Fertigarzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, erfolgt die Erstellung der Liste von Fertigarzneimitteln, die Festlegung des Verfahrens und der Formatvorlagen sowie die Bekanntmachung im Einvernehmen mit dem Paul-Ehrlich-Institut. Die Daten können dem Beirat auf dessen Anforderung in anonymisierter Form zur Beobachtung und Bewertung übermittelt werden.
+
+(3g) Beim Bundesinstitut für Arzneimittel und Medizinprodukte wird ein Frühwarnsystem zur Erkennung von drohenden versorgungsrelevanten Lieferengpässen bei Arzneimitteln eingerichtet. Das Bundesinstitut für Arzneimittel und Medizinprodukte entwickelt Kriterien für die Erkennung von drohenden versorgungsrelevanten Lieferengpässen, die dem Frühwarnsystem zugrunde zu legen sind. Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Ausgestaltung des Frühwarnsystems festzulegen.
 
 (4) Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
@@ -4136,7 +4141,7 @@ festzusetzen. Abweichend von Satz 1 wird das Bundesministerium für Wirtschaft u
 
 (3) Für Arzneimittel nach Absatz 2 Satz 2, für die durch die Verordnung nach Absatz 1 Preise und Preisspannen bestimmt sind, haben die pharmazeutischen Unternehmer einen einheitlichen Abgabepreis sicherzustellen; für nicht verschreibungspflichtige Arzneimittel, die zu Lasten der gesetzlichen Krankenversicherung abgegeben werden, haben die pharmazeutischen Unternehmer zum Zwecke der Abrechnung der Apotheken mit den Krankenkassen ihren einheitlichen Abgabepreis anzugeben, von dem bei der Abgabe im Einzelfall abgewichen werden kann. Sozialleistungsträger, private Krankenversicherungen sowie deren jeweilige Verbände können mit pharmazeutischen Unternehmern für die zu ihren Lasten abgegebenen verschreibungspflichtigen Arzneimittel Preisnachlässe auf den einheitlichen Abgabepreis des pharmazeutischen Unternehmers vereinbaren. Bei der Abgabe von Arzneimitteln, bei der die Preise und Preispannen gemäß der Verordnung nach Absatz 1 von der Festsetzung ausgenommen sind, darf der einheitliche Abgabepreis nach Satz 1 nicht überschritten werden.
 
-(3a) Gilt für ein Arzneimittel ein Erstattungsbetrag nach § 130b des Fünften Buches Sozialgesetzbuch, gibt der pharmazeutische Unternehmer das Arzneimittel zum Erstattungsbetrag ab. Abweichend von Satz 1 kann der pharmazeutische Unternehmer das Arzneimittel zu einem Betrag unterhalb des Erstattungsbetrages abgeben; die Verpflichtung in Absatz 3 Satz 1 erster Halbsatz bleibt unberührt. Der Abgabepreis nach Satz 1 oder Satz 2 gilt auch für Personen, die das Arzneimittel nicht als Versicherte einer gesetzlichen Krankenkasse im Wege der Sachleistung erhalten. In den Fällen, die nicht vom Ausgleich nach § 130b Absatz 3a Satz 9 oder Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch erfasst sind, kann die natürliche oder juristische Person, die das Arzneimittel vom pharmazeutischen Unternehmer erworben hat, von dem pharmazeutischen Unternehmer den Ausgleich der Differenz zwischen dem nach § 130b Absatz 3a oder Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch geltenden Erstattungsbetrag und dem bis zu dessen Vereinbarung oder Festsetzung tatsächlich gezahlten Abgabepreis verlangen.
+(3a) Gilt für ein Arzneimittel ein Erstattungsbetrag nach § 130b des Fünften Buches Sozialgesetzbuch, gibt der pharmazeutische Unternehmer das Arzneimittel zum Erstattungsbetrag ab. Abweichend von Satz 1 kann der pharmazeutische Unternehmer das Arzneimittel zu einem Betrag unterhalb des Erstattungsbetrages abgeben; die Verpflichtung in Absatz 3 Satz 1 erster Halbsatz bleibt unberührt. Der Abgabepreis nach Satz 1 oder Satz 2 gilt auch für Personen, die das Arzneimittel nicht als Versicherte einer gesetzlichen Krankenkasse im Wege der Sachleistung erhalten. In den Fällen, die nicht vom Ausgleich nach § 130b Absatz 3a Satz 9 oder Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch erfasst sind, kann die natürliche oder juristische Person, die das Arzneimittel vom pharmazeutischen Unternehmer erworben hat, von dem pharmazeutischen Unternehmer den Ausgleich der Differenz zwischen dem nach § 130b Absatz 3a oder Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch geltenden Erstattungsbetrag und dem bis zu dessen Vereinbarung oder Festsetzung tatsächlich gezahlten Abgabepreis einschließlich der zu viel entrichteten Zuschläge nach der Arzneimittelpreisverordnung und der zu viel entrichteten Umsatzsteuer verlangen.
 
 (4) Bei Arzneimitteln, die im Fall einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, durch Apotheken abgegeben werden und die zu diesem Zweck nach § 47 Absatz 1 Nummer 3c bevorratet wurden, gilt als Grundlage für die nach Absatz 2 festzusetzenden Preise und Preisspannen der Länderabgabepreis. Entsprechendes gilt für Arzneimittel, die aus für diesen Zweck entsprechend bevorrateten Wirkstoffen in Apotheken hergestellt und in diesen Fällen abgegeben werden. In diesen Fällen gilt Absatz 2 Satz 2 auf Länderebene.
 
@@ -4151,6 +4156,8 @@ festzusetzen. Abweichend von Satz 1 wird das Bundesministerium für Wirtschaft u
 (4) Die Geltungsdauer der Rechtsverordnung nach Absatz 1 ist auf sechs Monate zu befristen.
 
 (4a) Wenn im Fall einer bestehenden oder drohenden bedrohlichen übertragbaren Krankheit die notwendige Versorgung der Bevölkerung mit Arzneimitteln sonst ernstlich gefährdet wäre, kann das Bundesministerium unbeschadet der Aufgaben anderer zur Sicherstellung der Versorgung der Bevölkerung Arzneimittel sowie Wirk-, Ausgangs- und Hilfsstoffe sowie Packmittel von Arzneimitteln selbst oder durch beauftragte Stellen herstellen, beschaffen, lagern und in Verkehr bringen. Von den Abnehmern der Arzneimittel, Wirk-, Ausgangs- und Hilfsstoffe und Packmittel von Arzneimitteln soll ein angemessener Ersatz der Aufwendungen verlangt werden. Durch die Regelung bleiben haushaltsrechtliche Vorgaben unberührt.
+
+(4b) Das Bundesministerium kann unbeschadet der Aufgaben anderer bis zum 31. Dezember 2027 COVID-19-Impfstoffe selbst oder durch beauftragte Stellen beschaffen, lagern und in Verkehr bringen. § 3 der Medizinischer Bedarf Versorgungssicherstellungsverordnung vom 25. Mai 2020 (BAnz AT 26.05.2020 V1), die zuletzt durch Artikel 8b des Gesetzes vom 16. September 2022 (BGBl. I S. 1454) geändert worden ist, findet entsprechende Anwendung. Soweit gemäß § 3 Absatz 4 Satz 1 und 2 der Medizinischer Bedarf Versorgungssicherstellungsverordnung in Verbindung mit Satz 2 die Haftung ausgeschlossen oder eingeschränkt wird, gilt dies nicht für die Haftung nach dem Produkthaftungsgesetz. § 15 Absatz 1 des Produkthaftungsgesetzes ist insoweit nicht anzuwenden.
 
 (5) Im Falle eines Versorgungsmangels der Bevölkerung mit Arzneimitteln, die zur Vorbeugung oder Behandlung lebensbedrohlicher Erkrankungen benötigt werden, oder im Fall einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, können die zuständigen Behörden im Einzelfall gestatten, dass Arzneimittel, die nicht zum Verkehr im Geltungsbereich dieses Gesetzes zugelassen oder registriert sind,
 
@@ -4434,7 +4441,15 @@ bezeichnete Handlung fahrlässig begeht.
 
 5a. entgegen § 11 Abs. 7 Satz 1 eine Teilmenge abgibt,
 
-6. einer vollziehbaren Anordnung nach § 18 Abs. 2 zuwiderhandelt,
+6. einer vollziehbaren Anordnung nach
+
+a) § 18 Absatz 2,
+
+b) § 52b Absatz 3d Satz 2 oder Satz 3 oder
+
+c) § 52b Absatz 3f Satz 3
+
+zuwiderhandelt,
 
 7. entgegen
 
@@ -4471,6 +4486,8 @@ eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 16. entgegen § 52 Abs. 1 Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
 16a. entgegen § 52b Absatz 3e Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+16b. entgegen § 52b Absatz 3f Satz 2 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
 17. entgegen § 55 Absatz 8 Satz 1 auch in Verbindung mit Satz 2, einen Stoff, ein Behältnis oder eine Umhüllung verwendet oder eine Darreichungsform anfertigt,
 
@@ -4626,9 +4643,9 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mac
 
 1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5 Buchstabe b und
 
-2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
+2. des Absatzes 2 Nummer 6 Buchstabe b, Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
 
-die nach § 77 zuständige Bundesoberbehörde. Im Fall des Absatzes 2 Nummer 16a ist das Bundesinstitut für Arzneimittel und Medizinprodukte Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+die nach § 77 zuständige Bundesoberbehörde. In den Fällen des Absatzes 2 Nummer 6 Buchstabe c, Nummer 16a und 16b ist das Bundesinstitut für Arzneimittel und Medizinprodukte Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
 # § 98 – Einziehung
 

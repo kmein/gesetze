@@ -135,7 +135,15 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (1) Die zweckmäßige Vergleichstherapie ist regelhaft zu bestimmen nach Maßstäben, die sich aus den internationalen Standards der evidenzbasierten Medizin ergeben.
 
-(2) Die zweckmäßige Vergleichstherapie muss eine nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse zweckmäßige Therapie im Anwendungsgebiet sein (§ 12 des Fünften Buches Sozialgesetzbuch), vorzugsweise eine Therapie, für die Endpunktstudien vorliegen und die sich in der praktischen Anwendung bewährt hat, soweit nicht Richtlinien nach § 92 Absatz 1 des Fünften Buches Sozialgesetzbuch oder das Wirtschaftlichkeitsgebot dagegensprechen.
+(2) Die zweckmäßige Vergleichstherapie muss eine nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse zweckmäßige Therapie im Anwendungsgebiet sein (§ 12 des Fünften Buches Sozialgesetzbuch), vorzugsweise eine Therapie, für die Endpunktstudien vorliegen und die sich in der praktischen Anwendung bewährt hat, soweit nicht Richtlinien nach § 92 Absatz 1 des Fünften Buches Sozialgesetzbuch oder das Wirtschaftlichkeitsgebot dagegensprechen. Abzustellen ist auf die tatsächliche Versorgungssituation, wie sie sich ohne das zu bewertende Arzneimittel darstellen würde. Als zweckmäßige Vergleichstherapie oder als Teil der zweckmäßigen Vergleichstherapie kann der Gemeinsame Bundesausschuss ausnahmsweise die zulassungsüberschreitende Anwendung von Arzneimitteln bestimmen, wenn er im Beschluss über die Nutzenbewertung nach § 7 Absatz 4 feststellt, dass diese nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse im zu bewertenden Anwendungsgebiet als Therapiestandard oder als Teil des Therapiestandards in der Versorgungssituation, auf die nach Satz 2 abzustellen ist, gilt und
+
+1. erstmals mit dem zu bewertenden Arzneimittel ein im Anwendungsgebiet zugelassenes Arzneimittel zur Verfügung steht,
+
+2. die zulassungsüberschreitende Anwendung nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse den im Anwendungsgebiet bislang zugelassenen Arzneimitteln regelhaft vorzuziehen ist oder
+
+3. die zulassungsüberschreitende Anwendung nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse für relevante Patientengruppen oder Indikationsbereiche den im Anwendungsgebiet bislang zugelassenen Arzneimitteln regelhaft vorzuziehen ist.
+
+Eine zweckmäßige Vergleichstherapie kann auch eine nichtmedikamentöse Therapie, die bestmögliche unterstützende Therapie einschließlich einer symptomatischen oder palliativen Behandlung oder das beobachtende Abwarten sein.
 
 (2a) Sind nach den Absätzen 1 und 2 mehrere Alternativen für die Vergleichstherapie gleichermaßen zweckmäßig, kann der Zusatznutzen gegenüber jeder dieser Therapien nachgewiesen werden. § 35a Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
 

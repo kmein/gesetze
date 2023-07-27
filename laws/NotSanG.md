@@ -45,7 +45,7 @@ Themenbereiche oder Bereiche der praktischen Ausbildung unterscheiden sich wesen
 
 # § 2a – Eigenverantwortliche Durchführung heilkundlicher Maßnahmen durch Notfallsanitäterinnen und Notfallsanitäter
 
-Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung dürfen Notfallsanitäterinnen und Notfallsanitäter heilkundliche Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver Art, dann eigenverantwortlich durchführen, wenn
+Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung dürfen Notfallsanitäterinnen und Notfallsanitäter heilkundliche Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver oder medikamentöser Art, dann eigenverantwortlich durchführen, wenn
 
 1. sie diese Maßnahmen in ihrer Ausbildung erlernt haben und beherrschen und
 
@@ -103,7 +103,7 @@ a) Feststellen und Erfassen der Lage am Einsatzort und unverzügliche Einleitung
 
 b) Beurteilen des Gesundheitszustandes von erkrankten und verletzten Personen, insbesondere Erkennen einer vitalen Bedrohung, Entscheiden über die Notwendigkeit, eine Notärztin oder einen Notarzt, weiteres Personal, weitere Rettungsmittel oder sonstige ärztliche Hilfe nachzufordern, sowie Umsetzen der erforderlichen Maßnahmen,
 
-c) Durchführen medizinischer Maßnahmen der Erstversorgung bei Patientinnen und Patienten im Notfalleinsatz und dabei Anwenden von in der Ausbildung erlernten und beherrschten, auch invasiven Maßnahmen, um einer Verschlechterung der Situation der Patientinnen und Patienten bis zum Eintreffen der Notärztin oder des Notarztes oder dem Beginn einer weiteren ärztlichen Versorgung vorzubeugen, wenn ein lebensgefährlicher Zustand vorliegt oder wesentliche Folgeschäden zu erwarten sind,
+c) Durchführen medizinischer Maßnahmen der Erstversorgung bei Patientinnen und Patienten im Notfalleinsatz und dabei Anwenden von in der Ausbildung erlernten und beherrschten, auch invasiven oder medikamentösen Maßnahmen, um einer Verschlechterung der Situation der Patientinnen und Patienten bis zum Eintreffen der Notärztin oder des Notarztes oder dem Beginn einer weiteren ärztlichen Versorgung vorzubeugen, wenn ein lebensgefährlicher Zustand vorliegt oder wesentliche Folgeschäden zu erwarten sind,
 
 d) angemessenes Umgehen mit Menschen in Notfall- und Krisensituationen,
 
