@@ -29,7 +29,7 @@ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage
 
 # § 3 – Verpflichtungen der Länder
 
-(1) In jedem Bundesland ist ein prozentualer Anteil der Landesfläche nach Maßgabe der Anlage (Flächenbeitragswert) für die Windenergie an Land auszuweisen. Dabei sind bis zum 31. Dezember 2027 mindestens die Flächenbeitragswerte nach der Anlage Spalte 1 und bis zum 31. Dezember 2032 mindestens die Flächenbeitragswerte nach Anlage 1 Spalte 2 auszuweisen. Zum Zwecke der Bestimmung der Größe der hiernach auszuweisenden Flächen ist die Größe der Landesflächen der Bundesländer insgesamt der Anlage Spalte 3 zu entnehmen.
+(1) In jedem Bundesland ist ein prozentualer Anteil der Landesfläche nach Maßgabe der Anlage (Flächenbeitragswert) für die Windenergie an Land auszuweisen. Dabei sind bis zum 31. Dezember 2027 mindestens die Flächenbeitragswerte nach der Anlage Spalte 1 und bis zum 31. Dezember 2032 mindestens die Flächenbeitragswerte nach Anlage Spalte 2 auszuweisen. Zum Zwecke der Bestimmung der Größe der hiernach auszuweisenden Flächen ist die Größe der Landesflächen der Bundesländer insgesamt der Anlage Spalte 3 zu entnehmen.
 
 (2) Die Länder erfüllen die Pflicht nach Absatz 1, indem sie
 
@@ -99,7 +99,7 @@ Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den
 
 # Anlage – (zu § 3 Absatz 1)Flächenbeitragswerte
 
-(Fundstelle: BGBl. I 202, 1356)
+(Fundstelle: BGBl. I 2022, 1356)
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 36%" /><col style="width: 24%" /><col style="width: 24%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Bundesland</th><th style="text-align: center;">Spalte 1:<br />
 Flächenbeitragswert, der<br />
