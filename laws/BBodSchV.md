@@ -1,2423 +1,2903 @@
 % Bundes-Bodenschutz- und Altlastenverordnung  (BBodSchV)
-% Ausfertigungsdatum: 12.07.1999
+% Ausfertigungsdatum: 09.07.2021
  
-# Eingangsformel
-
-Auf Grund der §§ 6, 8 Abs. 1 und 2 und des § 13 Abs. 1 Satz 2 des Bundes-Bodenschutzgesetzes vom 17. März 1998 (BGBl. I S. 502) verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
-
 # Inhaltsübersicht
 
-Erster Teil
+ 
 
  
 
-Allgemeine Vorschriften
-
-§ 1
-
-Anwendungsbereich
-
-§ 2
-
-Begriffsbestimmungen
-
-Zweiter Teil
+ 
 
  
 
-Anforderungen an die Untersuchung und Bewertung von Verdachtsflächen und altlastverdächtigen Flächen
-
-§ 3
-
-Untersuchung
-
-§ 4
-
-Bewertung
-
-Dritter Teil
+ 
 
  
 
-Anforderungen an die Sanierung von schädlichen Bodenveränderungen und Altlasten
-
-§ 5
-
-Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
-
-Vierter Teil
+ 
 
  
 
-Ergänzende Vorschriften für Altlasten
-
-§ 6
-
-Sanierungsuntersuchung und Sanierungsplanung
-
-Fünfter Teil
+ 
 
  
 
-Ausnahmen
-
-§ 7
-
-Ausnahmen
-
-Sechster Teil
+ 
 
  
 
-Ergänzende Vorschriften für die Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
-
-§ 8
-
-Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
-
-Siebter Teil
+ 
 
  
 
-Vorsorge gegen das Entstehen schädlicher Bodenveränderungen
-
-§ 9
-
-Besorgnis schädlicher Bodenveränderungen
-
-§ 10
-
-Vorsorgeanforderungen
-
-§ 11
-
-Zulässige Zusatzbelastung
-
-§ 12
-
-Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
-
-Achter Teil
+ 
 
  
 
-Schlußbestimmungen
-
-§ 13
-
-Zugänglichkeit von technischen Regeln und Normblättern
-
-§ 14
-
-Inkrafttreten
-
-Anhang 1
+ 
 
  
 
-Anforderungen an die Probennahme, Analytik und Qualitätssicherung bei der Untersuchung
-
-1\.
-
-Untersuchungsumfang und erforderlicher Kenntnisstand
-
-1.1
-
-Orientierende Untersuchung
-
-1.2
-
-Detailuntersuchung
-
-2\.
-
-Probennahme
-
-2.1
-
-Probennahmeplanung für Bodenuntersuchungen - Festlegung der Probennahmestellen und Beprobungstiefen
-
-2.1.1
-
-Wirkungspfad Boden - Mensch
-
-2.1.2
-
-Wirkungspfad Boden - Nutzpflanze
-
-2.1.3
-
-Wirkungspfad Boden - Grundwasser
-
-2.2
-
-Probennahmeplanung Bodenluft
-
-2.3
-
-Probennahmeplanung bei abgeschobenem und ausgehobenem Bodenmaterial
-
-2.4
-
-Probengewinnung
-
-2.4.1
-
-Böden, Bodenmaterial und sonstige Materialien
-
-2.4.2
-
-Bodenluft
-
-2.5
-
-Probenkonservierung, -transport und -lagerung
-
-3\.
-
-Untersuchungsverfahren
-
-3.1
-
-Untersuchungsverfahren für Böden, Bodenmaterial und sonstige Materialien
-
-3.1.1
-
-Probenauswahl und -vorbehandlung
-
-3.1.2
-
-Extraktion, Elution
-
-3.1.3
-
-Analysenverfahren
-
-3.2
-
-Untersuchung von Bodenluft
-
-3.3
-
-Verfahren zur Abschätzung des Stoffeintrags aus Verdachtsflächen oder altlastverdächtigen Flächen in das Grundwasser
-
-4\.
-
-Qualitätssicherung
-
-4.1
-
-Probennahme und Probenlagerung
-
-4.2
-
-Probenvorbehandlung und Analytik
-
-5\.
-
-Abkürzungsverzeichnis
-
-5.1
-
-Maßeinheiten
-
-5.2
-
-Instrumentelle Analytik
-
-5.3
-
-Sonstige Abkürzungen
-
-6\.
-
-Normen, Technische Regeln und sonstige Methoden, Bezugsquellen
-
-6.1
-
-Normen, Technische Regeln und sonstige Methoden
-
-6.2
-
-Bezugsquellen
-
-Anhang 2
+ 
 
  
 
-Maßnahmen-, Prüf- und Vorsorgewerte
-
-1\.
-
-Wirkungspfad Boden - Mensch (direkter Kontakt)
-
-1.1
-
-Abgrenzung der Nutzungen
-
-1.2
-
-Maßnahmenwerte
-
-1.3
-
-Anwendung der Maßnahmenwerte
-
-1.4
-
-Prüfwerte
-
-2\.
-
-Wirkungspfad Boden - Nutzpflanze
-
-2.1
-
-Abgrenzung der Nutzungen
-
-2.2
-
-Prüf- und Maßnahmenwerte - Ackerbauflächen und Nutzgärten im Hinblick auf die Pflanzenqualität
-
-2.3
-
-Maßnahmenwerte - Grünlandflächen im Hinblick auf die Pflanzenqualität
-
-2.4
-
-Prüfwerte - Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen
-
-2.5
-
-Anwendung der Prüf- und Maßnahmenwerte
-
-3\.
-
-Wirkungspfad Boden - Grundwasser
-
-3.1
-
-Prüfwerte zur Beurteilung des Wirkungspfads Boden - Grundwasser
-
-3.2
-
-Anwendung der Prüfwerte
-
-4\.
-
-Vorsorgewerte für Böden
-
-4.1
-
-Vorsorgewerte für Metalle
-
-4.2
-
-Vorsorgewerte für organische Stoffe
-
-4.3
-
-Anwendung der Vorsorgewerte
-
-5\.
-
-Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Wirkungspfade
-
-Anhang 3
-
  
-
-Anforderungen an Sanierungsuntersuchungen und den Sanierungsplan
-
-1\.
-
-Sanierungsuntersuchungen
-
-2\.
-
-Sanierungsplan
-
-Anhang 4
-
- 
-
-Anforderungen an die Untersuchung und Bewertung von Flächen, bei denen der Verdacht einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser vorliegt
-
-1\.
-
-Anwendung
-
-2\.
-
-Untersuchung und Bewertung
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung gilt für
+(1) Diese Verordnung regelt nähere Anforderungen, insbesondere
 
-1. die Untersuchung und Bewertung von Verdachtsflächen, altlastverdächtigen Flächen, schädlichen Bodenveränderungen und Altlasten sowie für die Anforderungen an die Probennahme, Analytik und Qualitätssicherung nach § 8 Abs. 3 und § 9 des Bundes-Bodenschutzgesetzes,
+1. zur Vorsorge gegen das Entstehen schädlicher Bodenveränderungen, einschließlich Anforderungen an das Auf- oder Einbringen von Materialien auf oder in den Boden sowie Vorsorgewerte und zulässige Zusatzbelastungen,
 
-2. Anforderungen an die Gefahrenabwehr durch Dekontaminations- und Sicherungsmaßnahmen sowie durch sonstige Schutz- und Beschränkungsmaßnahmen nach § 4 Abs. 2 bis 5, § 8 Abs. 1 Satz 2 Nr. 3 des Bundes-Bodenschutzgesetzes,
+2. zur Gefahrenabwehr bei Bodenerosion,
 
-3. ergänzende Anforderungen an Sanierungsuntersuchungen und Sanierungspläne bei bestimmten Altlasten nach § 13 Abs. 1 des Bundes-Bodenschutzgesetzes,
+3. zur Untersuchung, Bewertung und Sanierung von schädlichen Bodenveränderungen und Altlasten, einschließlich Anforderungen an Sanierungsuntersuchungen und Sanierungsplanung sowie Prüf- und Maßnahmenwerte,
 
-4. Anforderungen zur Vorsorge gegen das Entstehen schädlicher Bodenveränderungen nach § 7 des Bundes-Bodenschutzgesetzes einschließlich der Anforderungen an das Auf- und Einbringen von Materialien nach § 6 des Bundes-Bodenschutzgesetzes,
+4. an die Vorerkundung, Probennahme und -analyse.
 
-5. die Festlegung von Prüf- und Maßnahmenwerten sowie von Vorsorgewerten einschließlich der zulässigen Zusatzbelastung nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 und Abs. 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes.
+(2) Diese Verordnung gilt nicht für
+
+1. den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke, soweit dieser nach Maßgabe der Ersatzbaustoffverordnung vom 9. Juli 2021 (BGBl. I S. 2598) erfolgt,
+
+2. das Auf- oder Einbringen von Baggergut unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht im Deichbau,
+
+3. das Auf- oder Einbringen von Materialien unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht auf Halden oder in Absetzteichen des Bergbaus sowie die Herstellung einer durchwurzelbaren Bodenschicht auf Halden des Kalibergbaus, soweit auf der Halde nicht eine regelmäßige Nutzung durch Park- und Freizeitanlagen geplant ist,
+
+4. das Einbringen von Materialien in bergbauliche Hohlräume gemäß der Versatzverordnung,
+
+5. das Einbringen von Materialien in Anlagen des Bundes gemäß § 9a Absatz 3 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 3 des Gesetzes vom 12. Mai 2021 (BGBl. I S. 1087) geändert worden ist,
+
+6. das Auf- oder Einbringen von Materialien nach den Vorschriften des Dünge- und Pflanzenschutzrechts.
 
 # § 2 – Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind
+Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
-1. Bodenmaterial:
+1. Bodenansprache: Beschreibung von Bodenhorizonten und -profilen sowie die bodenkundliche und sensorische Beurteilung von Bodenproben in dem Umfang, in dem er jeweils für den vorsorgenden Bodenschutz oder für die Gefahrenbeurteilung nach dieser Verordnung erforderlich ist;
 
-Material aus Böden im Sinne des § 2 Abs. 1 des Bundes-Bodenschutzgesetzes und deren Ausgangssubstraten einschließlich Mutterboden, das im Zusammenhang mit Baumaßnahmen oder anderen Veränderungen der Erdoberfläche ausgehoben, abgeschoben oder behandelt wird;
+2. Oberboden: oberer Teil des Mineralbodens, der einen der jeweiligen Bodenbildung entsprechenden Anteil an Humus und Bodenorganismen enthält und der sich meist durch dunklere Bodenfarbe vom Unterboden abhebt, in der Regel Ah-, Aa-, Al-, Ac- und Ap-Horizonte; die organischen O- und L-Horizonte zählen zum Oberboden im Sinne dieser Verordnung; Mutterboden im Sinne des § 202 Baugesetzbuch entspricht dem Oberboden;
 
-2. Einwirkungsbereich:
+3. Unterboden: Bereich zwischen Oberboden und Untergrund, der im Allgemeinen die B-Horizonte umfasst, je nach Bodentyp auch P-, T-, S-, G-, M-, und Yo-Horizonte;
 
-Bereich, in dem von einem Grundstück im Sinne des § 2 Abs. 3 bis 6 des Bundes-Bodenschutzgesetzes Einwirkungen auf Schutzgüter zu erwarten sind oder in dem durch Einwirkungen auf den Boden die Besorgnis des Entstehens schädlicher Bodenveränderungen hervorgerufen wird;
+4. Untergrund: Bereich unterhalb des Unterbodens mit durch Verwitterung und Bodenbildung nicht beeinflusstem Gestein, einschließlich Lockersedimenten, der in der Regel das Ausgangsgestein der Bodenbildung darstellt; in der Regel C-Horizonte; auch H-, G- und S-Horizonte, wenn bei Stau- und Grundwasserböden sowie Mooren keine C-Horizonte erkennbar sind und mehr als die Hälfte der Horizontmächtigkeit tiefer als 120 Zentimeter unterhalb der Erdoberfläche liegt;
 
-3. Orientierende Untersuchung:
+5. durchwurzelbare Bodenschicht: Bodenschicht, die von den Pflanzenwurzeln in Abhängigkeit von den natürlichen Standortbedingungen durchdrungen werden kann; sie schließt in der Regel den Oberboden und den Unterboden ein;
 
-Örtliche Untersuchungen, insbesondere Messungen, auf der Grundlage der Ergebnisse der Erfassung zum Zweck der Feststellung, ob der Verdacht einer schädlichen Bodenveränderung oder Altlast ausgeräumt ist oder ein hinreichender Verdacht im Sinne des § 9 Abs. 2 Satz 1 des Bundes-Bodenschutzgesetzes besteht;
+6. Bodenmaterial: Material aus dem Oberboden, dem Unterboden oder dem Untergrund, das ausgehoben, abgeschoben, abgetragen oder in einer Aufbereitungsanlage behandelt wird oder wurde;
 
-4. Detailuntersuchung:
+7. Baggergut: Material, das im Rahmen von Unterhaltungs-, Neu- und Ausbaumaßnahmen oder bei Maßnahmen der Errichtung, Unterhaltung oder Stilllegung von Anlagen in, an, über und unter oberirdischen Gewässern entnommen wurde; Baggergut kann bestehen aus Sedimenten und Material aus subhydrischen Böden der Gewässersohle, aus dem Oberboden, dem Unterboden oder dem Untergrund im unmittelbaren Umfeld des Gewässerbettes oder aus Material aus Oberböden im Ufer- und Überschwemmungsbereich des Gewässers;
 
-Vertiefte weitere Untersuchung zur abschließenden Gefährdungsabschätzung, die insbesondere der Feststellung von Menge und räumlicher Verteilung von Schadstoffen, ihrer mobilen oder mobilisierbaren Anteile, ihrer Ausbreitungsmöglichkeiten in Boden, Gewässer und Luft sowie der Möglichkeit ihrer Aufnahme durch Menschen, Tiere und Pflanzen dient;
+8. mineralische Fremdbestandteile: mineralische Bestandteile im Bodenmaterial oder im Baggergut, die keine natürlichen Bodenausgangssubstrate sind, insbesondere Beton, Ziegel, Keramik, Bauschutt, Straßenaufbruch und Schlacke;
 
-5. Sickerwasserprognose:
+9. Störstoffe: in der Regel Gegenstände im Bodenmaterial oder im Baggergut, die deren Verwertungseignung nachteilig beeinflussen können, insbesondere behandeltes Holz, Kunststoffe, Glas und Metallteile;
 
-Abschätzung der von einer Verdachtsfläche, altlastverdächtigen Fläche, schädlichen Bodenveränderung oder Altlast ausgehenden oder in überschaubarer Zukunft zu erwartenden Schadstoffeinträge über das Sickerwasser in das Grundwasser, unter Berücksichtigung von Konzentrationen und Frachten und bezogen auf den Übergangsbereich von der ungesättigten zur wassergesättigten Zone;
+10. Erosionsfläche: Fläche, von der Bodenmaterial durch Wind oder Wasser abgetragen wird;
 
-6. Schadstoffe:
+11. Schadstoffe: Stoffe und Stoffgemische, die auf Grund ihrer Gesundheitsschädlichkeit, Ökotoxizität oder anderer Eigenschaften geeignet sind, in Abhängigkeit von ihren Gehalten oder Konzentrationen unter Berücksichtigung ihrer Bioverfügbarkeit und Langlebigkeit, schädliche Bodenveränderungen oder sonstige Gefahren herbeizuführen;
 
-Stoffe und Zubereitungen, die auf Grund ihrer Gesundheitsschädlichkeit, ihrer Langlebigkeit oder Bioverfügbarkeit im Boden oder auf Grund anderer Eigenschaften und ihrer Konzentration geeignet sind, den Boden in seinen Funktionen zu schädigen oder sonstige Gefahren hervorzurufen;
+12. Expositionsbedingungen: durch örtliche Umstände und die Grundstücksnutzung im Einzelfall geprägte Art und Weise, in der Schutzgüter der Wirkung von Schadstoffen oder physikalischen Einwirkungen ausgesetzt sein können;
 
-7. Expositionsbedingungen:
+13. Wirkungspfad: Weg eines Schadstoffes von der Schadstoffquelle bis zu dem Ort einer möglichen Wirkung auf ein Schutzgut;
 
-Durch örtliche Gegebenheiten und die Grundstücksnutzung im Einzelfall geprägte Art und Weise, in der Schutzgüter der Wirkung von Schadstoffen ausgesetzt sein können;
+14. Einwirkungsbereich: Bereich, in dem von einem Grundstück im Sinne des § 2 Absatz 4 bis 6 des Bundes-Bodenschutzgesetzes oder von einem schädlich veränderten Boden im Sinne des § 2 Absatz 3 des Bundes-Bodenschutzgesetzes Einwirkungen auf Schutzgüter zu erwarten sind oder in dem durch Einwirkungen auf den Boden die Besorgnis des Entstehens schädlicher Bodenveränderungen hervorgerufen wird;
 
-8. Wirkungspfad:
+15. Sickerwasserprognose: Abschätzung der von einer Verdachtsfläche, altlastverdächtigen Fläche, schädlichen Bodenveränderung oder Altlast ausgehenden oder zu erwartenden Schadstoffeinträge über das Sickerwasser in das Grundwasser, unter Berücksichtigung von Konzentrationen und Frachten und bezogen auf den Ort der Beurteilung;
 
-Weg eines Schadstoffes von der Schadstoffquelle bis zu dem Ort einer möglichen Wirkung auf ein Schutzgut;
+16. Ort der Beurteilung: für den Wirkungspfad Boden-Grundwasser der Übergangsbereich von der wasserungesättigten zur wassergesättigten Bodenzone;
 
-9. Hintergrundgehalt:
+17. natürliche Schadstoffminderung: Ergebnis biologischer, chemischer oder physikalischer Prozesse, die ohne menschliches Eingreifen zu einer Verringerung der Masse, des Volumens, der Fracht, der Konzentration, der Toxizität oder der Mobilität eines Schadstoffes im Boden oder im Grundwasser führen;
 
-Schadstoffgehalt eines Bodens, der sich aus dem geogenen (natürlichen) Grundgehalt eines Bodens und der ubiquitären Stoffverteilung als Folge diffuser Einträge in den Boden zusammensetzt;
+18. Kinderspielflächen: Aufenthaltsbereiche für Kinder, die regelmäßig zum Spielen genutzt werden, ohne den Spielsand von Sandkästen;
 
-10. Erosionsfläche:
+19. Wohngebiete: dem Wohnen dienende Gebiete, einschließlich Hausgärten und sonstiger Gärten gleichartiger Nutzung, auch wenn sie nicht im Sinne der Baunutzungsverordnung als Wohngebiet planungsrechtlich dargestellt oder festgesetzt sind, ausgenommen Park- und Freizeitanlagen, Kinderspielflächen sowie befestigte Verkehrsflächen;
 
-Fläche, von der Bodenmaterial mit Oberflächenabfluß abgespült wird;
+20. Park- und Freizeitanlagen:
 
-11. Durchwurzelbare Bodenschicht:
+a) Anlagen für soziale, gesundheitliche oder sportliche Zwecke, insbesondere öffentliche und private Grünanlagen, einschließlich Bolzplätzen und Sportflächen,
 
-Bodenschicht, die von den Pflanzenwurzeln in Abhängigkeit von den natürlichen Standortbedingungen durchdrungen werden kann.
+b) unbefestigte Flächen, die regelmäßig zugänglich sind und vergleichbar zu den in Buchstabe a genannten Anlagen genutzt werden;
 
-# § 3 – Untersuchung
+21. Industrie- und Gewerbegrundstücke: unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur während der Arbeitszeit genutzt werden;
 
-(1) Anhaltspunkte für das Vorliegen einer Altlast bestehen bei einem Altstandort insbesondere, wenn auf Grundstücken über einen längeren Zeitraum oder in erheblicher Menge mit Schadstoffen umgegangen wurde und die jeweilige Betriebs-, Bewirtschaftungs- oder Verfahrensweise oder Störungen des bestimmungsgemäßen Betriebs nicht unerhebliche Einträge solcher Stoffe in den Boden vermuten lassen. Bei Altablagerungen sind diese Anhaltspunkte insbesondere dann gegeben, wenn die Art des Betriebs oder der Zeitpunkt der Stillegung den Verdacht nahelegen, daß Abfälle nicht sachgerecht behandelt, gelagert oder abgelagert wurden.
+22. Ackerflächen: Flächen zum Anbau von Ackerkulturen, einschließlich Gemüse und Feldfutter, hierzu zählen auch erwerbsgärtnerisch genutzte Flächen;
 
-(2) Absatz 1 Satz 1 gilt für schädliche Bodenveränderungen entsprechend. Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung ergeben sich ergänzend zu Absatz 1 insbesondere durch allgemeine oder konkrete Hinweise auf
+23. Nutzgärten: Hausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau von Nahrungspflanzen genutzt werden;
 
-1. den Eintrag von Schadstoffen über einen längeren Zeitraum und in erheblicher Menge über die Luft oder Gewässer oder durch eine Aufbringung erheblicher Frachten an Abfällen oder Abwässer auf Böden,
+24. Grünlandflächen: landwirtschaftlich genutzte Flächen, auf denen Gräser oder andere krautige Pflanzen eingesät sind oder natürlich wachsen und die beweidet oder zur Futtergewinnung genutzt werden.
 
-2. eine erhebliche Freisetzung naturbedingt erhöhter Gehalte an Schadstoffen in Böden,
+# § 3 – Besorgnis schädlicher Bodenveränderungen
 
-3. erhöhte Schadstoffgehalte in Nahrungs- oder Futterpflanzen am Standort,
+(1) Das Entstehen schädlicher Bodenveränderungen ist in der Regel zu besorgen, wenn
 
-4. das Austreten von Wasser mit erheblichen Frachten an Schadstoffen aus Böden oder Altablagerungen,
+1. Böden Schadstoffgehalte aufweisen, die die Vorsorgewerte nach Anlage 1 Tabelle 1 oder 2 überschreiten,
 
-5. erhebliche Bodenabträge und -ablagerungen durch Wasser oder Wind.
+2. eine erhebliche Anreicherung von anderen Schadstoffen in Böden erfolgt, die auf Grund ihrer krebserzeugenden, erbgutverändernden, fortpflanzungsgefährdenden oder toxischen Eigenschaften in besonderem Maße geeignet sind, schädliche Bodenveränderungen herbeizuführen,
 
-Einzubeziehen sind dabei auch Erkenntnisse auf Grund allgemeiner Untersuchungen oder Erfahrungswerte aus Vergleichssituationen insbesondere zur Ausbreitung von Schadstoffen.
+3. physikalische Einwirkungen den Boden verändern und dadurch die natürlichen Funktionen sowie die Nutzungsfunktion als Standort für die land- oder forstwirtschaftliche Nutzung erheblich beeinträchtigt werden können, oder
 
-(3) Liegen Anhaltspunkte nach Absatz 1 oder 2 vor, soll die Verdachtsfläche oder altlastverdächtige Fläche nach der Erfassung zunächst einer orientierenden Untersuchung unterzogen werden.
+4. Stoffeinträge den Bodenzustand irreversibel verändern und dadurch die Bodenfunktionen erheblich beeinträchtigt werden können.
 
-(4) Konkrete Anhaltspunkte, die den hinreichenden Verdacht einer schädlichen Bodenveränderung oder Altlast begründen (§ 9 Abs. 2 Satz 1 des Bundes-Bodenschutzgesetzes), liegen in der Regel vor, wenn Untersuchungen eine Überschreitung von Prüfwerten ergeben oder wenn auf Grund einer Bewertung nach § 4 Abs. 3 eine Überschreitung von Prüfwerten zu erwarten ist. Besteht ein hinreichender Verdacht im Sinne des Satzes 1 oder auf Grund sonstiger Feststellungen, soll eine Detailuntersuchung durchgeführt werden.
+(2) Bei Böden mit naturbedingt oder großflächig siedlungsbedingt erhöhten Schadstoffgehalten besteht bei Überschreiten von Vorsorgewerten nach Anlage 1 Tabelle 1 oder 2 die Besorgnis des Entstehens schädlicher Bodenveränderungen nur dann, wenn eine erhebliche Freisetzung von Schadstoffen oder zusätzliche Einträge durch die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen nachteilige Auswirkungen auf die Bodenfunktionen erwarten lassen.
 
-(5) Bei Detailuntersuchungen soll auch festgestellt werden, ob sich aus räumlich begrenzten Anreicherungen von Schadstoffen innerhalb einer Verdachtsfläche oder altlastverdächtigen Fläche Gefahren ergeben und ob und wie eine Abgrenzung von nicht belasteten Flächen geboten ist. Von einer Detailuntersuchung kann abgesehen werden, wenn die von schädlichen Bodenveränderungen oder Altlasten ausgehenden Gefahren, erheblichen Nachteile oder erheblichen Belästigungen nach Feststellung der zuständigen Behörde mit einfachen Mitteln abgewehrt oder sonst beseitigt werden können.
+# § 4 – Vorsorgeanforderungen
 
-(6) Soweit auf Grund der örtlichen Gegebenheiten oder nach den Ergebnissen von Bodenluftuntersuchungen Anhaltspunkte für die Ausbreitung von flüchtigen Schadstoffen aus einer Verdachtsfläche oder altlastverdächtigen Fläche in Gebäude bestehen, soll eine Untersuchung der Innenraumluft erfolgen; die Aufgaben und Befugnisse anderer Behörden bleiben unberührt.
+(1) In den Fällen des § 3 Absatz 1 Satz 1 Nummer 1, auch unter Berücksichtigung von Absatz 2, haben die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen Vorkehrungen zu treffen, um weitere durch sie auf dem Grundstück und in dessen Einwirkungsbereich verursachte Schadstoffeinträge zu vermeiden oder wirksam zu vermindern, soweit dies wegen der räumlichen, langfristigen oder komplexen Auswirkungen geboten und auch im Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig ist. Dazu gehören auch technische Vorkehrungen an Anlagen oder Verfahren sowie Maßnahmen zur Untersuchung und Überwachung von Böden.
 
-(7) Im Rahmen von Untersuchungsanordnungen nach § 9 Abs. 2 Satz 1 des Bundes-Bodenschutzgesetzes kommen auch wiederkehrende Untersuchungen der Schadstoffausbreitung und der hierfür maßgebenden Umstände in Betracht.
+(2) Einträge von Schadstoffen im Sinne des § 3 Absatz 1 Satz 1 Nummer 2, für die keine Vorsorgewerte festgesetzt sind, sind, soweit technisch möglich und unabhängig vom Zweck der Nutzung des Grundstückes wirtschaftlich vertretbar, zu begrenzen. Dies gilt insbesondere für die Stoffe, die nach der Gefahrstoffverordnung in der Fassung der Bekanntmachung vom 26. November 2010 (BGBl. I S. 2010, 1643, 1644), die zuletzt durch Artikel 148 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, als krebserzeugend, erbgutverändernd oder fortpflanzungsgefährdend eingestuft sind. Im Übrigen gelten die Maßgaben von Absatz 1.
 
-(8) Die Anforderungen an die Untersuchung von Böden, Bodenmaterial und sonstigen Materialien sowie von Bodenluft, Deponiegas und Sickerwasser bestimmen sich im übrigen nach Anhang 1.
+(3) In den Fällen des § 3 Absatz 1 Satz 1 Nummer 3 haben die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen Vorkehrungen zu treffen, um die physikalischen Einwirkungen zu vermeiden oder wirksam zu vermindern, soweit dies auch im Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig ist. Auf Verlangen der zuständigen Behörde sind Untersuchungen der physikalischen Bodeneigenschaften am Standort durchzuführen. Satz 2 gilt nicht für unvermeidbare Einwirkungen bei Einhaltung des § 17 Absatz 1 des Bundes-Bodenschutzgesetzes.
 
-# § 4 – Bewertung
+(4) Zur Einhaltung der sich aus den Absätzen 1, 2 und 3 ergebenden Anforderungen kann die zuständige Behörde nach § 10 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes die erforderlichen Maßnahmen treffen.
 
-(1) Die Ergebnisse der orientierenden Untersuchungen sind nach dieser Verordnung unter Beachtung der Gegebenheiten des Einzelfalls insbesondere auch anhand von Prüfwerten zu bewerten.
+(5) Bei Vorhaben, bei denen auf einer Fläche von mehr als 3 000 Quadratmetern Materialien auf oder in die durchwurzelbare Bodenschicht auf- oder eingebracht werden, Bodenmaterial aus dem Ober- oder Unterboden ausgehoben oder abgeschoben wird oder der Ober- und Unterboden dauerhaft oder vorübergehend vollständig oder teilweise verdichtet wird, kann die für die Zulassung des Vorhabens zuständige Behörde im Benehmen mit der für den Bodenschutz zuständigen Behörde von dem nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen die Beauftragung einer bodenkundlichen Baubegleitung nach DIN 19639 im Einzelfall verlangen. Satz 1 gilt entsprechend, wenn das Vorhaben einer Anzeige an eine Behörde bedarf oder von einer Behörde durchgeführt wird.
 
-(2) Liegen der Gehalt oder die Konzentration eines Schadstoffes unterhalb des jeweiligen Prüfwertes in Anhang 2, ist insoweit der Verdacht einer schädlichen Bodenveränderung oder Altlast ausgeräumt. Wird ein Prüfwert nach Anhang 2 Nr. 3 am Ort der Probennahmen überschritten, ist im Einzelfall zu ermitteln, ob die Schadstoffkonzentration im Sickerwasser am Ort der Beurteilung den Prüfwert übersteigt. Maßnahmen im Sinne des § 2 Abs. 7 oder 8 des Bundes-Bodenschutzgesetzes können bereits dann erforderlich sein, wenn im Einzelfall alle bei der Ableitung eines Prüfwertes nach Anhang 2 angenommenen ungünstigen Umstände zusammentreffen und der Gehalt oder die Konzentration eines Schadstoffes geringfügig oberhalb des jeweiligen Prüfwertes in Anhang 2 liegt.
+# § 5 – Zulässige Zusatzbelastung
 
-(3) Zur Bewertung der von Verdachtsflächen oder altlastverdächtigen Flächen ausgehenden Gefahren für das Grundwasser ist eine Sickerwasserprognose zu erstellen. Wird eine Sickerwasserprognose auf Untersuchungen nach Anhang 1 Nr. 3.3 gestützt, ist im Einzelfall insbesondere abzuschätzen und zu bewerten, inwieweit zu erwarten ist, daß die Schadstoffkonzentration im Sickerwasser den Prüfwert am Ort der Beurteilung überschreitet. Ort der Beurteilung ist der Bereich des Übergangs von der ungesättigten in die gesättigte Zone.
+(1) Werden Vorsorgewerte nach Anlage 1 Tabelle 1 oder 2 bei einem Schadstoff überschritten, ist insoweit unter Berücksichtigung der zu erwartenden Gesamtfracht eine Zusatzbelastung bis zur Höhe der in Anlage 1 Tabelle 3 festgelegten jährlichen Frachten des Schadstoffes zulässig. Dabei sind die Einwirkungen auf den Boden über Luft und Gewässer sowie unmittelbare Einträge zu beachten.
 
-(4) Die Ergebnisse der Detailuntersuchung sind nach dieser Verordnung unter Beachtung der Gegebenheiten des Einzelfalls, insbesondere auch anhand von Maßnahmenwerten, daraufhin zu bewerten, inwieweit Maßnahmen nach § 2 Abs. 7 oder 8 des Bundes-Bodenschutzgesetzes erforderlich sind.
+(2) Wenn die in Anlage 1 Tabelle 3 festgelegte zulässige Zusatzbelastung bei einem Schadstoff überschritten ist, sind die naturbedingt oder großflächig siedlungsbedingten Vorbelastungen des Bodens im Einzelfall zu berücksichtigen.
 
-(5) Soweit in dieser Verordnung für einen Schadstoff kein Prüf- oder Maßnahmenwert festgesetzt ist, sind für die Bewertung die zur Ableitung der entsprechenden Werte in Anhang 2 herangezogenen Methoden und Maßstäbe zu beachten. Diese sind im Bundesanzeiger Nr. 161a vom 28. August 1999 veröffentlicht.
+(3) Die in Anlage 1 Tabelle 3 festgelegten Frachten bestimmen nicht die Zusatzbelastungen im Sinne des § 3 Absatz 3 Satz 2 des Bundes-Bodenschutzgesetzes.
 
-(6) Liegt innerhalb einer Verdachtsfläche oder altlastverdächtigen Fläche auf Teilflächen eine von der vorherrschenden Nutzung abweichende empfindlichere Nutzung vor, sind diese Teilflächen nach den für ihre Nutzung jeweils festgesetzten Maßstäben zu bewerten.
+# § 6 – Allgemeine Anforderungen an das Auf- oder Einbringen von Materialien auf oder in den Boden
 
-(7) Liegen im Einzelfall Erkenntnisse aus Grundwasseruntersuchungen vor, sind diese bei der Bewertung im Hinblick auf Schadstoffeinträge in das Grundwasser zu berücksichtigen. Wenn erhöhte Schadstoffkonzentrationen im Sickerwasser oder andere Schadstoffausträge auf Dauer nur geringe Schadstofffrachten und nur lokal begrenzt erhöhte Schadstoffkonzentrationen in Gewässern erwarten lassen, ist dieser Sachverhalt bei der Prüfung der Verhältnismäßigkeit von Untersuchungs- und Sanierungsmaßnahmen zu berücksichtigen. Wasserrechtliche Vorschriften bleiben unberührt.
+(1) Die §§ 6 bis 8 gelten für das Auf- oder Einbringen von Materialien auf oder in den Boden, insbesondere im Rahmen der Rekultivierung, der Wiedernutzbarmachung, des Landschaftsbaus, der landwirtschaftlichen und gartenbaulichen Folgenutzung und der Herstellung einer durchwurzelbaren Bodenschicht insbesondere auf technischen Bauwerken im Sinne des § 2 Nummer 3 der Ersatzbaustoffverordnung und auf Deichen. Die §§ 6 bis 8 gelten nicht für das Auf- oder Einbringen von Materialien auf oder in den Boden im Rahmen der Sanierung von schädlichen Bodenveränderungen und Altlasten, soweit die Materialien im Bereich derselben schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans umgelagert werden.
 
-(8) Eine schädliche Bodenveränderung besteht nicht bei Böden mit naturbedingt erhöhten Gehalten an Schadstoffen allein auf Grund dieser Gehalte, soweit diese Stoffe nicht durch Einwirkungen auf den Boden in erheblichem Umfang freigesetzt wurden oder werden. Bei Böden mit großflächig siedlungsbedingt erhöhten Schadstoffgehalten kann ein Vergleich dieser Gehalte mit den im Einzelfall ermittelten Schadstoffgehalten in die Gefahrenbeurteilung einbezogen werden.
+(2) Das Auf- und Einbringen von Materialien oder die Herstellung einer durchwurzelbaren Bodenschicht ist nur zulässig, wenn
 
-# § 5 – Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
+1. nach Art, Menge, Schadstoffgehalten, Schadstoffkonzentrationen und physikalischen Eigenschaften der Materialien sowie nach den Schadstoffgehalten der Böden am Ort des Auf- und Einbringens das Entstehen einer schädlichen Bodenveränderung nach § 3 nicht zu besorgen ist und
 
-(1) Dekontaminationsmaßnahmen sind zur Sanierung geeignet, wenn sie auf technisch und wirtschaftlich durchführbaren Verfahren beruhen, die ihre praktische Eignung zur umweltverträglichen Beseitigung oder Verminderung der Schadstoffe gesichert erscheinen lassen. Dabei sind auch die Folgen des Eingriffs insbesondere für Böden und Gewässer zu berücksichtigen. Nach Abschluß einer Dekontaminationsmaßnahme ist das Erreichen des Sanierungsziels gegenüber der zuständigen Behörde zu belegen.
+2. mindestens eine der in § 2 Absatz 2 Nummer 1 und Nummer 3 Buchstabe b und c des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen nachhaltig verbessert, gesichert oder wiederhergestellt wird.
 
-(2) Wenn Schadstoffe nach § 4 Abs. 5 des Bundes-Bodenschutzgesetzes zu beseitigen sind und eine Vorbelastung besteht, sind vom Pflichtigen grundsätzlich die Leistungen zu verlangen, die er ohne Vorbelastung zu erbringen hätte. Die zuvor bestehenden Nutzungsmöglichkeiten des Grundstücks sollen wiederhergestellt werden.
+(3) Eine schädliche Bodenveränderung im Sinne des Absatzes 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn Bodenmaterial oder Baggergut am Herkunftsort oder in dessen räumlichen Umfeld unter vergleichbaren Bodenverhältnissen sowie geologischen und hydrogeologischen Bedingungen umgelagert wird und das Vorliegen einer Altlast oder sonstigen schädlichen Bodenveränderung aufgrund von Schadstoffgehalten auszuschließen ist.
 
-(3) Sicherungsmaßnahmen sind zur Sanierung geeignet, wenn sie gewährleisten, daß durch die im Boden oder in Altlasten verbleibenden Schadstoffe dauerhaft keine Gefahren, erheblichen Nachteile oder erheblichen Belästigungen für den einzelnen oder die Allgemeinheit entstehen. Hierbei ist das Gefahrenpotential der im Boden verbleibenden Schadstoffe und deren Umwandlungsprodukte zu berücksichtigen. Eine nachträgliche Wiederherstellung der Sicherungswirkung im Sinne des Satzes 1 muß möglich sein. Die Wirksamkeit von Sicherungsmaßnahmen ist gegenüber der zuständigen Behörde zu belegen und dauerhaft zu überwachen.
+(4) Eine schädliche Bodenveränderung im Sinne des Absatzes 2 ist auch dann nicht zu besorgen, wenn in Gebieten oder räumlich abgegrenzten Industriestandorten mit erhöhten Schadstoffgehalten in Böden Bodenmaterial mit erhöhten Schadstoffgehalten innerhalb des Gebietes oder Standortes umgelagert wird und die in § 2 Absatz 2 Nummer 1 und 3 Buchstabe b und c des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen nicht zusätzlich beeinträchtigt werden sowie die stoffliche Situation am Ort des Auf- oder Einbringens nicht nachteilig verändert wird. Gebiete und Standorte im Sinne des Satzes 1 können von der zuständigen Behörde im Einzelfall der Bewertung zugrunde gelegt oder allgemein festgelegt werden. Die zuständige Behörde kann Ausnahmen von § 7 Absatz 3 zulassen. Die Sätze 1 bis 3 gelten für Gebiete, die Sätze 1 und 2 gelten für räumlich abgegrenzte Industriestandorte mit jeweils mehr als 10 Volumenprozent mineralischer Fremdbestandteile in Böden entsprechend.
 
-(4) Als Sicherungsmaßnahme kommt auch eine geeignete Abdeckung schädlich veränderter Böden oder Altlasten mit einer Bodenschicht oder eine Versiegelung in Betracht.
+(5) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen haben Materialien, die auf oder in den Boden oder zur Herstellung einer durchwurzelbaren Bodenschicht auf- oder eingebracht werden sollen, spätestens vor dem Auf- oder Einbringen nach den nachfolgenden Vorschriften zu untersuchen oder untersuchen zu lassen, soweit dies nicht bereits erfolgt ist. Die Materialien sind mindestens auf die in Anlage 1 Tabelle 1 und 2 dieser Verordnung aufgeführten Stoffe analytisch zu untersuchen. Liegen Anhaltspunkte vor, dass die Materialien erhöhte Gehalte weiterer Stoffe aufweisen, ist auf diese zusätzlich analytisch zu untersuchen. Darüber hinaus kann die zuständige Behörde auch Untersuchungen des Ortes des Auf- oder Einbringens anordnen. Probennahme und -analyse sind nach Abschnitt 4 durchzuführen.
 
-(5) Auf land- und forstwirtschaftlich genutzten Flächen kommen bei schädlichen Bodenveränderungen oder Altlasten vor allem Schutz- und Beschränkungsmaßnahmen durch Anpassungen der Nutzung und der Bewirtschaftung von Böden sowie Veränderungen der Bodenbeschaffenheit in Betracht. Über die getroffenen Schutz- und Beschränkungsmaßnahmen sind Aufzeichnungen zu führen. Mit der zuständigen landwirtschaftlichen Fachbehörde ist Einvernehmen herbeizuführen. § 17 Abs. 3 des Bundes-Bodenschutzgesetzes bleibt unberührt.
+(6) Von einer analytischen Untersuchung von Bodenmaterial und Baggergut nach Absatz 5 Satz 2 und 3 kann abgesehen werden, wenn
 
-(6) Soll abgeschobenes, ausgehobenes oder behandeltes Material im Rahmen der Sanierung im Bereich derselben schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans wieder auf- oder eingebracht oder umgelagert werden, sind die Anforderungen nach § 4 Abs. 3 des Bundes-Bodenschutzgesetzes zu erfüllen.
+1. sich bei einer Vorerkundung nach § 18 durch einen Sachverständigen im Sinne des § 18 des Bundes-Bodenschutzgesetzes oder durch eine Person mit vergleichbarer Sachkunde keine Anhaltspunkte ergeben, dass die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung überschreiten und keine Hinweise auf weitere Belastungen der Materialien vorliegen,
 
-# § 6 – Sanierungsuntersuchung und Sanierungsplanung
+2. die im Rahmen der jeweiligen Maßnahme angefallene Menge nicht mehr als 500 Kubikmeter beträgt und sich nach Inaugenscheinnahme der Materialien am Herkunftsort und auf Grund der Vornutzung der betreffenden Grundstücke keine Anhaltspunkte ergeben, dass die Materialen die in Nummer 1 genannten Werte überschreiten und keine Hinweise auf weitere Belastungen der Materialien vorliegen oder
 
-(1) Bei Sanierungsuntersuchungen ist insbesondere auch zu prüfen, mit welchen Maßnahmen eine Sanierung im Sinne des § 4 Abs. 3 des Bundes-Bodenschutzgesetzes erreicht werden kann, inwieweit Veränderungen des Bodens nach der Sanierung verbleiben und welche rechtlichen, organisatorischen und finanziellen Gegebenheiten für die Durchführung der Maßnahmen von Bedeutung sind.
+3. die Materialien am Herkunftsort oder in dessen räumlichen Umfeld oder innerhalb eines Gebietes im Sinne des Absatzes 4 umgelagert werden, das Vorliegen einer Altlast oder sonstigen schädlichen Bodenveränderung aufgrund von Schadstoffgehalten auszuschließen ist und durch die Umlagerung das Entstehen einer schädlichen Bodenveränderung nicht zu besorgen ist.
 
-(2) Bei der Erstellung eines Sanierungsplans sind die Maßnahmen nach § 13 Abs. 1 Satz 1 Nr. 3 des Bundes-Bodenschutzgesetzes textlich und zeichnerisch vollständig darzustellen. In dem Sanierungsplan ist darzulegen, daß die vorgesehenen Maßnahmen geeignet sind, dauerhaft Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für den einzelnen oder die Allgemeinheit zu vermeiden. Darzustellen sind insbesondere auch die Auswirkungen der Maßnahmen auf die Umwelt und die voraussichtlichen Kosten sowie die erforderlichen Zulassungen, auch soweit ein verbindlicher Sanierungsplan nach § 13 Abs. 6 des Bundes-Bodenschutzgesetzes diese nicht einschließen kann.
+(7) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen haben die Untersuchungsergebnisse nach Absatz 5 oder das Vorliegen der Voraussetzungen des Absatzes 6 spätestens vor dem Auf- oder Einbringen zu dokumentieren. Die Dokumente sind nach Beendigung der Auf- oder Einbringungsmaßnahme zehn Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-(3) Die Anforderungen an eine Sanierungsuntersuchung und an einen Sanierungsplan bestimmten sich im übrigen nach Anhang 3.
+(8) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen müssen das Auf- oder Einbringen von Materialien nach § 7 oder § 8 Absatz 1 bis 3, Absatz 5 bis 6 und Absatz 8 in einem Volumen von mehr als 500 Kubikmetern der zuständigen Behörde mindestens zwei Wochen vor Beginn der Auf- oder Einbringungsmaßnahme unter Angabe der Lage der Auf- oder Einbringungsfläche, der Art und Menge der Materialien sowie des Zwecks der Maßnahme anzeigen, es sei denn, die Maßnahme bedarf einer behördlichen Zulassung oder Anzeige nach anderen Rechtsvorschriften. Die Länder können abweichende Regelungen treffen.
 
-# § 7 – Ausnahmen
+(9) Beim Auf- oder Einbringen oder der Herstellung einer durchwurzelbaren Bodenschicht sowie beim Um- oder Zwischenlagern von Materialien sind Verdichtungen, Vernässungen und sonstige nachteilige Einwirkungen auf den Boden durch geeignete Maßnahmen zu vermeiden oder wirksam zu vermindern. Die entsprechenden Anforderungen der DIN 19639, der DIN 19731 und der DIN 18915 sind zu beachten. Die Sätze 1 und 2 gelten nicht für Verdichtungen, die im Rahmen der bergbaulichen Gewinnung erforderlich sind.
 
-Auf schädliche Bodenveränderungen und Altlasten, bei denen nach Feststellung der zuständigen Behörde Gefahren, erhebliche Nachteile oder erhebliche Belästigungen mit einfachen Mitteln abgewehrt oder sonst beseitigt werden können, findet § 6 keine Anwendung.
+(10) Beim Auf- oder Einbringen von Materialien sind die Anforderungen an einen guten Bodenaufbau und ein stabiles Bodengefüge zu beachten. Die verwendeten Materialien müssen unter Berücksichtigung des jeweiligen Ortes des Auf- oder Einbringens geeignet sein, die für den Standort erforderlichen Bodenfunktionen sowie die chemischen und physikalischen Eigenschaften des Bodens zu sichern oder herzustellen. Die entsprechenden Anforderungen der DIN 19639 und der DIN 19731 sind zu beachten.
 
-# § 8 – Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
+(11) Vor dem Auf- oder Einbringen von Materialien in den Unterboden oder Untergrund ist bei Hinweisen auf erhöhte Gehalte an organischem Kohlenstoff der Gehalt an organischem Kohlenstoff nach Anlage 3 Tabelle 1 zu bestimmen. Beträgt der Gehalt mehr als 1 Masseprozent, dürfen die Materialien nur auf- oder eingebracht werden, wenn der organische Kohlenstoff in den Materialien natürlich vorkommt oder auf einen zulässigen Anteil an mineralischen Fremdbestandteilen zurückzuführen ist und die Materialien nicht aus dem Oberboden stammen. Es ist sicherzustellen, dass durch Abbauprozesse der organischen Substanz, insbesondere auch nach dem Auf- oder Einbringen, keine schädlichen Bodenveränderungen zu besorgen sind und die Nährstoffzufuhr nach Menge und Verfügbarkeit unter Berücksichtigung der zu erwartenden Abbauprozesse dem Bedarf der vorhandenen oder künftigen Vegetation angepasst ist. Das Einbringen von nährstoffreichen organischen Materialien, insbesondere Klärschlamm, Kompost oder Gärsubstrate, in den Unterboden oder Untergrund ist auch im Gemisch mit Bodenmaterial, Baggergut oder anderen mineralischen Materialien unzulässig. Die Anforderungen der Sätze 1 bis 3 gelten nicht für die Umlagerung von Materialien im Rahmen des Braunkohletagebaus.
 
-(1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser ist insbesondere dann auszugehen, wenn
+(12) Die zuständige Behörde kann Nachweise über die Erfüllung der Anforderungen nach den Absätzen 9 bis 11 verlangen.
 
-1. durch Oberflächenabfluß erhebliche Mengen Bodenmaterials aus einer Erosionsfläche geschwemmt wurden und
+# § 7 – Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien auf oder in eine durchwurzelbare Bodenschicht
 
-2. weitere Bodenabträge gemäß Nummer 1 zu erwarten sind.
+(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen auf oder in eine durchwurzelbare Bodenschicht sowie für die Herstellung einer durchwurzelbaren Bodenschicht nur
 
-(2) Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser ergeben sich insbesondere, wenn außerhalb der vermeintlichen Erosionsfläche gelegene Bereiche durch abgeschwemmtes Bodenmaterial befrachtet wurden.
+1. Bodenmaterial und Baggergut sowie
 
-(3) Bestehen Anhaltspunkte nach Absatz 2, ist zu ermitteln, ob eine schädliche Bodenveränderung auf Grund von Bodenerosion durch Wasser vorliegt. Ist feststellbar, auf welche Erosionsfläche die Bodenabschwemmung zurückgeführt werden kann und daß aus dieser erhebliche Mengen Bodenmaterials abgeschwemmt wurden, so ist zu prüfen, ob die Voraussetzungen des Absatzes 1 Nr. 2 erfüllt sind.
+2. Gemische von Materialien nach Nummer 1 mit solchen Abfällen, die die stofflichen Qualitätsanforderungen nach § 3 Absatz 2 Satz 1, § 3a Satz 2 und § 4 Absatz 1, Absatz 3 Satz 1 bis 3, Absatz 4, auch in Verbindung mit § 5 Absatz 1 der Bioabfallverordnung sowie nach § 8 Absatz 1, Absatz 2 Satz 1 und § 11 der Klärschlammverordnung erfüllen,
 
-(4) Die Bewertung der Ergebnisse der Untersuchungen erfolgt einzelfallbezogen unter Berücksichtigung der Besonderheiten des Standortes. Weitere Bodenabträge sind zu erwarten, wenn
+verwenden. Mineralische Fremdbestandteile in Bodenmaterial und Baggergut sind zulässig, sofern sie bereits beim Anfall enthalten waren und ihr Anteil 10 Volumenprozent nicht überschreitet. Störstoffe sind nur in einem vernachlässigbaren und unvermeidbaren Anteil zulässig.
 
-1. in den zurückliegenden Jahren bereits mehrfach erhebliche Mengen Bodenmaterials aus derselben Erosionsfläche geschwemmt wurden oder
+(2) Eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn die nach Absatz 1 zur Verwendung zulässigen Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0 oder Baggergut der Klasse 0 – BM-0 oder BG-0 – klassifiziert wurden und auf Grund der Herkunft und der bisherigen Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen. Sind die Anforderungen nach Satz 1 erfüllt, bedarf das Auf- oder Einbringen keiner Erlaubnis nach § 8 Absatz 1 des Wasserhaushaltsgesetzes.
 
-2. sich aus den Standortdaten und den Daten über die langjährigen Niederschlagsverhältnisse des Gebietes ergibt, daß in einem Zeitraum von zehn Jahren mit hinreichender Wahrscheinlichkeit mit dem erneuten Eintritt von Bodenabträgen gemäß Absatz 1 Nr. 1 zu rechnen ist.
+(3) Bei der Herstellung einer durchwurzelbaren Bodenschicht mit landwirtschaftlicher oder gartenbaulicher Folgenutzung sollen im Hinblick auf künftige unvermeidliche Schadstoffeinträge durch Bewirtschaftungsmaßnahmen oder atmosphärische Schadstoffeinträge die Schadstoffgehalte in der entstandenen durchwurzelbaren Bodenschicht 70 Prozent der jeweiligen Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 nicht überschreiten. Satz 1 gilt nicht für die Umlagerung von Bodenmaterial im Rahmen der Wiedernutzbarmachung von Tagebauen.
 
-(5) Die weiteren Anforderungen an die Untersuchung und Bewertung von Flächen, bei denen der Verdacht einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser vorliegt, sind in Anhang 4 bestimmt.
+(4) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen haben beim Auf- oder Einbringen von nach Absatz 1 zur Verwendung zulässigen Materialien auf landwirtschaftlich einschließlich gartenbaulich genutzten Böden dafür Sorge zu tragen, dass die Ertragsfähigkeit der Böden nachhaltig gesichert oder wiederhergestellt wird.
 
-(6) Wird die Erosionsfläche landwirtschaftlich genutzt, ist der zuständigen Beratungsstelle gemäß § 17 des Bundes-Bodenschutzgesetzes die Gelegenheit zu geben, im Rahmen der Beratung geeignete erosionsmindernde Maßnahmen für die Nutzung der Erosionsfläche zu empfehlen. Bei Anordnungen ist Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde herbeizuführen.
+(5) Die Nährstoffzufuhr durch das Auf- oder Einbringen der Materialien ist nach Menge und Verfügbarkeit dem Pflanzenbedarf der Folgevegetation anzupassen, um insbesondere Nährstoffeinträge in Gewässer zu vermeiden. Die entsprechenden Anforderungen der DIN 18919 sind zu beachten.
 
-# § 9 – Besorgnis schädlicher Bodenveränderungen
+(6) Das Auf- oder Einbringen von Materialien auf oder in eine bestehende durchwurzelbare Bodenschicht ist nicht zulässig auf Flächen, die die in § 2 Absatz 2 Nummer 1 oder 2 des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen im besonderen Maße erfüllen. Das Auf- oder Einbringungsverbot gilt auch für Böden in
 
-(1) Das Entstehen schädlicher Bodenveränderungen nach § 7 des Bundes-Bodenschutzgesetzes ist in der Regel zu besorgen, wenn
+1. Wäldern,
 
-1. Schadstoffgehalte im Boden gemessen werden, die die Vorsorgewerte nach Anhang 2 Nr. 4 überschreiten, oder
+2. Wasserschutzgebieten und Heilquellenschutzgebieten der Zonen I und II,
 
-2. eine erhebliche Anreicherung von anderen Schadstoffen erfolgt, die auf Grund ihrer krebserzeugenden, erbgutverändernden, fortpflanzungsgefährdenden oder toxischen Eigenschaften in besonderem Maße geeignet sind, schädliche Bodenveränderungen herbeizuführen.
+3. Naturschutzgebieten,
 
-§ 17 Abs. 1 des Bundes-Bodenschutzgesetzes bleibt unberührt.
+4. Nationalparks,
 
-(2) Bei Böden mit naturbedingt erhöhten Schadstoffgehalten besteht die Besorgnis des Entstehens schädlicher Bodenveränderungen bei einer Überschreitung der Vorsorgewerte nach Anhang 2 Nr. 4 nur, wenn eine erhebliche Freisetzung von Schadstoffen oder zusätzliche Einträge durch die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Verpflichteten nachteilige Auswirkungen auf die Bodenfunktionen erwarten lassen.
+5. nationalen Naturmonumenten,
 
-(3) Absatz 2 gilt entsprechend bei Böden mit großflächig siedlungsbedingt erhöhten Schadstoffgehalten.
+6. Biosphärenreservaten,
 
-# § 10 – Vorsorgeanforderungen
+7. Naturdenkmälern,
 
-(1) Sind die Voraussetzungen des § 9 Abs. 1 Satz 1 Nr. 1, Abs. 2 oder 3 gegeben, hat der nach § 7 des Bundes-Bodenschutzgesetzes Verpflichtete Vorkehrungen zu treffen, um weitere durch ihn auf dem Grundstück und dessen Einwirkungsbereich verursachte Schadstoffeinträge zu vermeiden oder wirksam zu vermindern, soweit dies auch im Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig ist. Dazu gehören auch technische Vorkehrungen an Anlagen oder Verfahren sowie Maßnahmen zur Untersuchung und Überwachung von Böden. Für die Untersuchung gilt Anhang 1 entsprechend.
+8. geschützten Landschaftsbestandteilen,
 
-(2) Einträge von Schadstoffen im Sinne des § 9 Abs. 1 Satz 1 Nr. 2, für die keine Vorsorgewerte festgesetzt sind, sind nach Maßgabe von Absatz 1 soweit technisch möglich und wirtschaftlich vertretbar zu begrenzen. Dies gilt insbesondere für die Stoffe, die nach der Gefahrstoffverordnung als krebserzeugend, erbgutverändernd oder fortpflanzungsgefährdend eingestuft sind.
+9. Natura 2000-Gebieten und
 
-# § 11 – Zulässige Zusatzbelastung
+10. gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes sowie
 
-(1) Werden die in Anhang 2 Nr. 4.1 festgesetzten Vorsorgewerte bei einem Schadstoff überschritten, ist insoweit eine Zusatzbelastung bis zur Höhe der in Anhang 2 Nr. 5 festgesetzten jährlichen Frachten des Schadstoffes zulässig. Dabei sind die Einwirkungen auf den Boden über Luft und Gewässer sowie durch unmittelbare Einträge zu beachten.
+11. den Kernzonen von Naturschutzgroßprojekten des Bundes von gesamtstaatlicher Bedeutung.
 
-(2) Soweit die in Anhang 2 Nr. 5 festgesetzte zulässige Zusatzbelastung bei einem Schadstoff überschritten ist, sind die geogenen oder großflächig siedlungsbedingten Vorbelastungen im Einzelfall zu berücksichtigen.
+Die für den Schutz der in den Sätzen 1 und 2 Nummer 2 bis 11 genannten Flächen zuständige Behörde und im Falle des Satzes 2 Nummer 1 die Forstbehörde kann im Benehmen mit der für den Bodenschutz zuständigen Behörde Abweichungen von den Verboten der Sätze 1 und 2 zulassen, wenn das Auf- oder Einbringen aus land- oder forstwirtschaftlichen Gründen, aus Gründen des Naturschutzes und der Landschaftspflege oder zum Schutz des Grundwassers erforderlich ist. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes bleiben unberührt.
 
-(3) Die in Anhang 2 Nr. 5 festgesetzten Frachten bestimmen nicht im Sinne des § 3 Abs. 3 Satz 2 des Bundes-Bodenschutzgesetzes, welche Zusatzbelastungen durch den Betrieb einer Anlage nicht als ursächlicher Beitrag zum Entstehen schädlicher Bodenveränderungen anzusehen sind.
+(7) Beim Auf- oder Einbringen von
 
-# § 12 – Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
+1. abgetragenem Bodenmaterial nach Erosionsereignissen,
 
-(1) Zur Herstellung einer durchwurzelbaren Bodenschicht dürfen in und auf Böden nur Bodenmaterial sowie Baggergut nach DIN 19731 (Ausgabe 5/98) und Gemische von Bodenmaterial mit solchen Abfällen, die die stofflichen Qualitätsanforderungen der nach § 11 des Kreislaufwirtschaftsgesetzes und § 8 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Verordnungen erfüllen, auf- und eingebracht werden.
+2. Bodenmaterial aus der Reinigung landwirtschaftlicher Ernteprodukte oder
 
-(2) Das Auf- und Einbringen von Materialien auf oder in eine durchwurzelbare Bodenschicht oder zur Herstellung einer durchwurzelbaren Bodenschicht im Rahmen von Rekultivierungsvorhaben einschließlich Wiedernutzbarmachung ist zulässig, wenn
+3. Baggergut aus der Unterhaltung von Entwässerungsgräben
 
-\-  
-insbesondere nach Art, Menge, Schadstoffgehalten und physikalischen Eigenschaften der Materialien sowie nach den Schadstoffgehalten der Böden am Ort des Auf- oder Einbringens die Besorgnis des Entstehens schädlicher Bodenveränderungen gemäß § 7 Satz 2 des Bundes-Bodenschutzgesetzes und § 9 dieser Verordnung nicht hervorgerufen wird und
+im räumlichen Umfeld des Herkunftsortes unter vergleichbaren Bodenverhältnissen sowie geologischen und hydrogeologischen Bedingungen ist eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 aufgrund von Schadstoffgehalten nicht zu besorgen. Überschreiten die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 nicht erheblich und sollen Materialien nach Satz 1 Nummer 2 nicht im räumlichen Umfeld des Herkunftsortes auf- oder eingebracht werden oder ist der Herkunftsort der Materialien nicht mehr eindeutig zuzuordnen, kann die für den Bodenschutz zuständige Behörde im Einzelfall das Auf- oder Einbringen gestatten, wenn nachgewiesen wird, dass trotz der Überschreitung eine ordnungsgemäße und schadlose Verwertung erfolgt und das Entstehen einer schädlichen Bodenveränderung nicht zu besorgen ist.
 
-\-  
-mindestens eine der in § 2 Abs. 2 Nr. 1 und 3 Buchstabe b und c des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen nachhaltig gesichert oder wiederhergestellt wird.
+# § 8 – Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
 
-Die Zwischenlagerung und die Umlagerung von Bodenmaterial auf Grundstücken im Rahmen der Errichtung oder des Umbaus von baulichen und betrieblichen Anlagen unterliegen nicht den Regelungen dieses Paragraphen, wenn das Bodenmaterial am Herkunftsort wiederverwendet wird.
+(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht nur
 
-(3) Die nach § 7 des Bundes-Bodenschutzgesetzes Pflichtigen haben vor dem Auf- und Einbringen die notwendigen Untersuchungen der Materialien nach den Vorgaben in Anhang 1 durchzuführen oder zu veranlassen. Die nach § 10 Abs. 1 des Bundes-Bodenschutzgesetzes zuständige Behörde kann weitere Untersuchungen hinsichtlich der Standort- und Bodeneigenschaften anordnen, wenn das Entstehen einer schädlichen Bodenveränderung zu besorgen ist; hierbei sind die Anforderungen nach DIN 19731 (Ausgabe 5/98) zu beachten.
+1. Bodenmaterial ohne Oberboden und
 
-(4) Bei landwirtschaftlicher Folgenutzung sollen im Hinblick auf künftige unvermeidliche Schadstoffeinträge durch Bewirtschaftungsmaßnahmen oder atmosphärische Schadstoffeinträge die Schadstoffgehalte in der entstandenen durchwurzelbaren Bodenschicht 70 Prozent der Vorsorgewerte nach Anhang 2 Nr. 4 nicht überschreiten.
+2. Baggergut, das aus Sanden und Kiesen besteht und dessen Feinkornanteil, der kleiner als 63 Mikrometer ist, höchstens 10 Masseprozent beträgt,
 
-(5) Beim Aufbringen von Bodenmaterial auf landwirtschaftlich einschließlich gartenbaulich genutzte Böden ist deren Ertragsfähigkeit nachhaltig zu sichern oder wiederherzustellen und darf nicht dauerhaft verringert werden.
+verwenden. Mineralische Fremdbestandteile sind zulässig, sofern sie bereits beim Anfall enthalten waren und ihr Anteil 10 Volumenprozent nicht überschreiten. Störstoffe sind nur in einem vernachlässigbaren und unvermeidbaren Anteil zulässig. Ist bei der Umlagerung von Bodenmaterial in Braunkohletagebauen der gesonderte Abtrag des Oberbodens mit einem unverhältnismäßigen Aufwand verbunden, darf abweichend von Satz 1 Nummer 1 Bodenmaterial mit Oberboden unterhalb der durchwurzelbaren Bodenschicht verwendet werden.
 
-(6) Bei der Herstellung einer durchwurzelbaren Bodenschicht für eine landwirtschaftliche Folgenutzung im Rahmen von Rekultivierungsvorhaben einschließlich Wiedernutzbarmachung soll nach Art, Menge und Schadstoffgehalt geeignetes Bodenmaterial auf- oder eingebracht werden.
+(2) Eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0 oder Baggergut der Klasse 0 Sand – BM-0 oder BG-0 Sand – klassifiziert wurden und auf Grund von Herkunft und bisheriger Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen.
 
-(7) Die Nährstoffzufuhr durch das Auf- und Einbringen von Materialien in und auf den Boden ist nach Menge und Verfügbarkeit dem Pflanzenbedarf der Folgevegetation anzupassen, um insbesondere Nährstoffeinträge in Gewässer weitestgehend zu vermeiden. DIN 18919 (Ausgabe 09/90) ist zu beachten.
+(3) Bei der Verfüllung einer Abgrabung oder eines Tagebaus und beim Massenausgleich im Rahmen einer Baumaßnahme ist eine schädliche Bodenveränderung auch dann nicht zu besorgen, wenn
 
-(8) Von dem Auf- und Einbringen von Materialien sollen Böden, welche die Bodenfunktionen nach § 2 Abs. 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes im besonderen Maße erfüllen, ausgeschlossen werden. Dies gilt auch für Böden im Wald, in Wasserschutzgebieten nach § 51 Absatz 1 des Wasserhaushaltsgesetzes, in Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten, Biosphärenreservaten, Naturdenkmälern, geschützten Landschaftsbestandteilen, Natura 2000-Gebieten und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes sowie für die Böden der Kernzonen von Naturschutzgroßprojekten des Bundes von gesamtstaatlicher Bedeutung. Die fachlich zuständigen Behörden können hiervon Abweichungen zulassen, wenn ein Auf- und Einbringen aus forst- oder naturschutzfachlicher Sicht oder zum Schutz des Grundwassers erforderlich ist.
+1. die Materialien die Werte nach Anlage 1 Tabelle 4 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0\* oder Baggergut der Klasse 0\* – BM-0\* oder BG-0\* – klassifiziert wurden,
 
-(9) Beim Auf- und Einbringen von Materialien auf oder in den Boden sollen Verdichtungen, Vernässungen und sonstige nachteilige Bodenveränderungen durch geeignete technische Maßnahmen sowie durch Berücksichtigung der Menge und des Zeitpunktes des Aufbringens vermieden werden. Nach Aufbringen von Materialien mit einer Mächtigkeit von mehr als 20 Zentimetern ist auf die Sicherung oder den Aufbau eines stabilen Bodengefüges hinzuwirken. DIN 19731 (Ausgabe 5/98) ist zu beachten.
+2. auf Grund von Herkunft und bisheriger Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen,
 
-(10) In Gebieten mit erhöhten Schadstoffgehalten in Böden ist eine Verlagerung von Bodenmaterial innerhalb des Gebietes zulässig, wenn die in § 2 Abs. 2 Nr. 1 und 3 Buchstabe b und c des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen nicht zusätzlich beeinträchtigt werden und insbesondere die Schadstoffsituation am Ort des Aufbringens nicht nachteilig verändert wird. Die Gebiete erhöhter Schadstoffgehalte können von der zuständigen Behörde festgelegt werden. Dabei kann die zuständige Behörde auch Abweichungen von den Absätzen 3 und 4 zulassen.
+3. die Materialien gemessen vom tiefsten Punkt der Auf- oder Einbringung in einem Abstand von mindestens 1 Meter zum höchsten aus Messdaten ermittelten oder abgeleiteten sowie jeweils von nicht dauerhafter, künstlicher Grundwasserabsenkung unbeeinflussten Grundwasserstand am Auf- und Einbringungsort zuzüglich eines Sicherheitsabstands von 0,5 Meter auf- oder eingebracht werden und
 
-(11) § 5 Abs. 6 bleibt unberührt.
+4. oberhalb der auf- oder eingebrachten Materialien eine mindestens 2 Meter mächtige durchwurzelbare Bodenschicht gemäß den Anforderungen der §§ 6 und 7 aufgebracht wird, soweit auf der betreffenden Fläche nicht ein technisches Bauwerk errichtet werden soll. Die zuständige Behörde kann im Einzelfall geringere Mächtigkeiten gestatten, wenn nachgewiesen ist, dass eine schädliche Bodenveränderung nicht zu besorgen ist.
 
-(12) Absatz 3 gilt nicht für das Auf- und Einbringen von Bodenmaterial auf die landwirtschaftliche Nutzfläche nach lokal begrenzten Erosionsereignissen oder zur Rückführung von Bodenmaterial aus der Reinigung landwirtschaftlicher Ernteprodukte.
+(4) Sind die Anforderungen nach Absatz 2 oder 3 erfüllt, bedarf das Auf- oder Einbringen keiner Erlaubnis nach § 8 Absatz 1 des Wasserhaushaltsgesetzes.
 
-# § 13 – Zugänglichkeit von technischen Regeln und Normblättern
+(5) Bei Vorliegen der Voraussetzungen nach Absatz 2 ist das Auf- und Einbringen von Materialien abweichend von Absatz 2 nicht zulässig in Wasserschutzgebieten der Zone I und Heilquellenschutzgebieten der Zone I. Bei Vorliegen der Voraussetzungen nach Absatz 3 ist das Auf- und Einbringen von Materialien abweichend von Absatz 3 nicht zulässig in
 
-(1) Technische Regeln und Normblätter, auf die in dieser Verordnung verwiesen wird, sind beim Deutschen Patentamt archivmäßig gesichert hinterlegt. Die Bezugsquellen sind in Anhang 1 Nr. 6.2 aufgeführt.
+1. Wasserschutzgebieten der Zonen I und II,
 
-(2) Verweisungen auf Entwürfe von technischen Normen in den Anhängen beziehen sich jeweils auf die Fassung, die zu dem in der Verweisung angegebenen Zeitpunkt veröffentlicht ist.
+2. Heilquellenschutzgebieten der Zonen I und II,
 
-# § 14 – Inkrafttreten
+3. empfindlichen Gebieten, wie insbesondere Karstgebieten und Gebieten mit stark klüftigem, besonders wasserwegsamem Untergrund.
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Die für den Schutz der in den Sätzen 1 und 2 genannten Flächen zuständige Behörde kann im Benehmen mit der für den Bodenschutz zuständigen Behörde Abweichungen von den Sätzen 1 und 2 zulassen, wenn das Auf- oder Einbringen zum Schutz des Grundwassers erforderlich ist. In empfindlichen Gebieten nach Satz 2 Nummer 3 kann das Auf- oder Einbringen von Materialien bis zur Höhe der Vorsorgewerte für die Bodenart Ton nach Anlage 1 Tabelle 1 und 2 auch zugelassen werden, wenn günstige Materialeigenschaften und Standortbedingungen vorliegen. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes bleiben unberührt.
 
-# Schlußformel
+(6) Die für die Zulassung der Verfüllung einer Abgrabung oder eines Tagebaus zuständige Behörde kann im Einvernehmen mit der für den Bodenschutz zuständigen Behörde das Auf- oder Einbringen anderer als der in Absatz 1 genannten mineralischen Materialien gestatten, wenn sie die Anforderungen nach Absatz 2 oder 3 erfüllen und die Werte nach Anlage 1 Tabelle 5 einhalten, dies bau- oder betriebstechnisch erforderlich ist und der Anteil der Materialien 5 Prozent des im Rahmen des Vorhabens jährlich verfüllten Volumens nicht überschreitet.
 
-Der Bundesrat hat zugestimmt.
+(7) Die für die Zulassung der Verfüllung einer Abgrabung zuständige Behörde kann im Einvernehmen mit der für den Bodenschutz zuständigen Behörde das Auf- oder Einbringen von in Absatz 1 genannten Materialien gestatten, die die Werte nach Anlage 1 Tabelle 4 nicht erheblich überschreiten, wenn nachgewiesen ist, dass trotz der Überschreitung eine ordnungsgemäße und schadlose Verwertung erfolgt. Dabei sind die Standortverhältnisse, insbesondere die geologischen und hydrogeologischen Bedingungen, die natürlichen Bodenfunktionen des Untergrundes und der Umgebung sowie etwa bereits vorhandene Verfüllkörper zu berücksichtigen. Die für die Zulassung zuständige Behörde kann von dem Träger des Vorhabens, soweit erforderlich, die Durchführung von Eigenkontrollmaßnahmen, insbesondere Boden- und Wasseruntersuchungen sowie die Einrichtung und den Betrieb von Messstellen verlangen. § 15 Absatz 2 Satz 2 bis 4 und Absatz 3 des Bundes-Bodenschutzgesetzes gelten entsprechend. Der Standort des Vorhabens kann in bestehende Bodenkataster oder sonstige Verzeichnisse aufgenommen werden. Die Sätze 1 bis 5 gelten entsprechend für das Auf- oder Einbringen anderer als der in Absatz 1 genannten mineralischen Materialien, die die Werte nach Anlage 1 Tabelle 4 und 5 einhalten oder nicht erheblich überschreiten und sich als Ausgangsmaterial für eine Bodenbildung eignen. Absatz 3 Nummer 4 gilt entsprechend.
 
-# Anhang 1
+(8) Die Länder können Regelungen treffen, dass auch andere als die in Absatz 1 genannten Materialien zur Verfüllung genutzt werden und Überschreitungen der Werte nach Anlage 1 Tabellen 4 und 5 zulässig sind, wenn nachgewiesen wird, dass eine ordnungsgemäße und schadlose Verwertung erfolgt.
 
-(Fundstelle: BGBl. I 1999, 1561 - 1574;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+# § 9 – Gefahrenabwehr bei Bodenerosion durch Wasser oder Wind
 
-  
-  
-  
-  
-Anforderungen an die Probennahme, Analytik und Qualitätssicherung bei der Untersuchung
+(1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser oder Wind ist insbesondere auszugehen, wenn erhebliche Mengen Bodenmaterial von einer Erosionsfläche durch Oberflächenabfluss oder Abwehung abgetragen wurden und weitere erhebliche Bodenabträge zu erwarten sind. Weitere Bodenabträge nach einem Erosionsereignis sind im Sinne des Satzes 1 zu erwarten, wenn
 
-Dieser Anhang findet Anwendung bei der Untersuchung von Böden, Bodenmaterialien und sonstigen Materialien, die im Boden oder auf den Böden von Verdachtsflächen oder altlastverdächtigen Flächen vorkommen, oder zum Auf- und Einbringen vorgesehen sind, sowie von Bodenluft. Bei altlastverdächtigen Altablagerungen richten sich der Untersuchungsumfang und die Probennahme, insbesondere hinsichtlich der Untersuchungen auf Deponiegas, leichtflüchtige Schadstoffe, abgelagerte Abfälle und des Übergangs von Schadstoffen in das Grundwasser, nach den Erfordernissen des Einzelfalles. Im Sinne dieses Anhangs ist der Stand von Verfahren und Methoden der Entwicklungsstand fortschrittlicher Verfahren und Methoden, der ihre praktische Eignung zu den vorstehend genannten Untersuchungen gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen mit den Ländern zusammengestellt, der vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einberufen wird.
+1. in den zurückliegenden zehn Jahren bereits mindestens in einem weiteren Fall erhebliche Mengen Bodenmaterial von derselben Erosionsfläche abgetragen wurden oder
 
-1. Untersuchungsumfang und erforderlicher Kenntnisstand
+2. sich aus den Standortdaten und den Daten über die langjährigen Niederschlags- oder Wind- und Witterungsverhältnisse des Gebietes ergibt, dass in einem Zeitraum von zehn Jahren mit hinreichender Wahrscheinlichkeit erneut mit Bodenabträgen gemäß Satz 1 zu rechnen ist.
 
-Die Untersuchungen nach § 3 dieser Verordnung beziehen sich auf die Wirkungspfade, für die sich auf Grund der im Einzelfall vorliegenden Informationen der Verdacht einer Gefahr ergibt. Bei der Festlegung des Untersuchungsumfangs sind die Ergebnisse der Erfassung, insbesondere die Kenntnisse oder begründeten Vermutungen über das Vorkommen bestimmter Schadstoffe und deren Verteilung, die gegenwärtige Nutzung und die Nutzung gemäß § 4 Abs. 4 des Bundes-Bodenschutzgesetzes und die sich daraus ergebenden Schutzbedürfnisse sowie die sonstigen beurteilungserheblichen örtlichen Gegebenheiten zu berücksichtigen. Die E DIN ISO 10381-3: 02.96 ist zu beachten. Zum Arbeitsschutz wird auf die ZH 1/183: 04.97 hingewiesen. Bei der Untersuchung zum Wirkungspfad Boden - Mensch sind als Nutzungen
+(2) Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser oder Wind ergeben sich insbesondere, wenn sich auf einer Fläche Erosionsformen oder -schäden in erheblichem Ausmaß zeigen oder außerhalb einer möglichen Erosionsfläche gelegene Bereiche durch erhebliche Mengen abgetragenen Bodenmaterials befrachtet wurden.
 
-\-  
-Kinderspielflächen
+(3) Bestehen Anhaltspunkte nach Absatz 2, hat die zuständige Behörde festzustellen, auf welche Erosionsfläche der Bodenabtrag zurückzuführen ist und abzuschätzen, in welchem Umfang Bodenmaterial abgetragen wurde und mit welcher Wahrscheinlichkeit weitere Bodenabträge zu erwarten sind. Besteht auf Grund dieser Ermittlungen der hinreichende Verdacht einer schädlichen Bodenveränderung, kann die zuständige Behörde Anordnungen nach § 9 Absatz 2 des Bundes-Bodenschutzgesetzes treffen.
 
-\-  
-Wohngebiete
+(4) Zur Bewertung der Erosionsgefährdung ist in der Regel die DIN 19708 oder die DIN 19706 heranzuziehen.
 
-\-  
-Park- und Freizeitanlagen
+(5) Wird die Erosionsfläche landwirtschaftlich genutzt, soll die nach Landesrecht zuständige landwirtschaftliche Beratungsstelle bei ihrer Beratungstätigkeit einzelfallbezogene erosionsmindernde Maßnahmen für die Bewirtschaftung der Erosionsfläche empfehlen. Maßnahmen zur Gefahrenabwehr im Einzelfall werden von der zuständigen Behörde nach § 10 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes im Einvernehmen mit der zuständigen Landwirtschaftsbehörde getroffen. Maßnahmen nach Satz 2 können auch solche sein, die sich aus den Grundsätzen der guten fachlichen Praxis nach § 17 Absatz 2 des Bundes-Bodenschutzgesetzes ergeben.
 
-\-  
-Industrie- und Gewerbegrundstücke
+# § 10 – Erforderlichkeit von Untersuchungen
 
-und bei der Untersuchung zum Wirkungspfad Boden - Nutzpflanze die Nutzungen
+(1) Anhaltspunkte im Sinne des § 9 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes für das Vorliegen einer Altlast bestehen bei einem Altstandort insbesondere, wenn auf Grundstücken über einen längeren Zeitraum oder in erheblicher Menge mit Schadstoffen umgegangen wurde und die jeweilige Betriebs-, Bewirtschaftungs- oder Verfahrensweise oder Störungen des bestimmungsgemäßen Betriebs nicht unerhebliche Einträge solcher Stoffe in den Boden vermuten lassen. Die jeweilige Betriebsweise lässt einen solchen Eintrag insbesondere vermuten, wenn die angewendeten Sicherheitsmaßnahmen erheblich vom heutigen Stand der Technik abweichen. Bei Altablagerungen sind diese Anhaltspunkte insbesondere dann gegeben, wenn die Art des Betriebs oder der Zeitpunkt der Stilllegung den Verdacht nahelegen, dass Abfälle nicht sachgerecht behandelt, gelagert oder abgelagert wurden.
 
-\-  
-Ackerbau, Nutzgarten
+(2) Absatz 1 Satz 1 gilt für schädliche Bodenveränderungen durch Schadstoffe entsprechend. Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung ergeben sich auch durch Hinweise auf
 
-\-  
-Grünland
+1. den Eintrag von Schadstoffen über einen längeren Zeitraum oder in erheblicher Menge über die Luft oder Gewässer oder durch eine Aufbringung erheblicher Frachten an Abfällen oder Abwässern auf Böden,
 
-zu unterscheiden. Bei Untersuchungen zum Wirkungspfad Boden - Grundwasser ist nicht nach der Art der Bodennutzung zu unterscheiden.
+2. eine erhebliche Freisetzung von Schadstoffen aus Böden mit naturbedingt höheren Gehalten,
 
-  
-1.1  
-Orientierende Untersuchung
+3. erhöhte Schadstoffgehalte in Nahrungs- oder Futterpflanzen am Standort oder
 
-Orientierende Untersuchungen von Verdachtsflächen und altlastverdächtigen Altstandorten sollen insbesondere auch auf die Feststellung und die Einschätzung des Umfangs von Teilbereichen mit unterschiedlich hohen Schadstoffgehalten ausgerichtet werden. Bei altlastverdächtigen Altablagerungen sind in der Regel Untersuchungen von Deponiegas und auf leichtflüchtige Schadstoffe sowie Untersuchungen insbesondere auch hinsichtlich des Übergangs von Schadstoffen in das Grundwasser durchzuführen. Sind bei Verdachtsflächen oder altlastverdächtigen Flächen auf Verlangen der dafür zuständigen Behörde Untersuchungen des Grund- oder Oberflächenwassers durchzuführen, ist dies bei der Festlegung von Umfang und Ablauf der orientierenden Untersuchung für Boden- oder Sickerwasseruntersuchungen zu berücksichtigen. Kann bei Verdachtsflächen nicht auf vorhandene Bodenkartierungen zurückgegriffen werden oder liegen keine geeigneten bodenbezogenen Informationen vor, soll im Rahmen der orientierenden Untersuchung eine bodenkundliche Kartierung oder Bodenansprache am Ort der Probennahme auf der Grundlage der Bodenkundlichen Kartieranleitung, 4. Auflage, berichtigter Nachdruck 1996, in dem Umfange durchgeführt werden, der für die Gefahrenbeurteilung erforderlich ist. Die Untersuchungsvorschriften für Böden und Bodenmaterialien gelten für die §§ 9, 10 und 12 entsprechend.
+4. das Austreten von Wasser mit erheblichen Frachten an Schadstoffen aus Böden oder Altablagerungen
 
-  
-1.2  
-Detailuntersuchung
+sowie aus Erkenntnissen auf Grund allgemeiner Untersuchungen oder von Erfahrungswerten aus Vergleichssituationen insbesondere zur Ausbreitung von Schadstoffen.
 
-Bei der Detailuntersuchung sollen neben den unter § 3 Abs. 5 und 6 dieser Verordnung genannten Sachverhalten auch die für die Wirkungspfade maßgeblichen Expositionsbedingungen, insbesondere die für die verschiedenen Wirkungspfade bedeutsamen mobilen oder mobilisierbaren Anteile der Schadstoffgehalte, geklärt werden. Es soll auch festgestellt werden, ob sich aus räumlich begrenzten Anreicherungen von Schadstoffen innerhalb einer Verdachtsfläche oder altlastverdächtigen Fläche Gefahren ergeben und ob und wie eine Abgrenzung von nicht belasteten Flächen geboten ist.
+(3) Bestehen Anhaltspunkte für das Vorliegen einer Altlast oder einer schädlichen Bodenveränderung, soll die altlastverdächtige Fläche oder die Verdachtsfläche zunächst einer orientierenden Untersuchung nach § 12 unterzogen werden.
 
-2. Probennahme
+(4) Konkrete Anhaltspunkte, die den hinreichenden Verdacht einer schädlichen Bodenveränderung oder Altlast im Sinne des § 9 Absatz 2 Satz 1 des Bundes-Bodenschutzgesetzes begründen, liegen in der Regel vor, wenn Untersuchungen eine Überschreitung von Prüfwerten nach Anlage 2 Tabelle 2 bis 4 oder 6 bis 8 ergeben oder wenn auf Grund einer Sickerwasserprognose eine Überschreitung von Prüfwerten nach Anlage 2 Tabelle 2 oder 3 zu erwarten ist.
 
-Das Vorgehen bei der Probennahme richtet sich insbesondere nach den im Einzelfall berührten Wirkungspfaden, der Flächengröße, der auf Grund der Erfassungsergebnisse vermuteten vertikalen und horizontalen Schadstoffverteilung sowie der gegenwärtigen, der planungsrechtlich zulässigen und der früheren Nutzung. Dabei sind die unter den Nummern 2.1 bis 2.3 genannten Anforderungen zu beachten. Das Vorgehen bei der Probennahme ist zu begründen und zu dokumentieren. Die Anforderungen des Arbeitsschutzes sind zu beachten. Untersuchungsflächen sollen für die Probennahme in geeignete Teilflächen gegliedert werden. Die Teilung soll auf Grund eines unterschiedlichen Gefahrenverdachts, einer unterschiedlichen Bodennutzung, der Geländeform oder der Bodenbeschaffenheit sowie von Auffälligkeiten, wie z.B. einer unterschiedlichen Vegetationsentwicklung, oder anhand von Erkenntnissen aus der Erfassung erfolgen.
+(5) Besteht der hinreichende Verdacht einer schädlichen Bodenveränderung oder Altlast, soll eine Detailuntersuchung nach § 13 durchgeführt werden. Von einer Detailuntersuchung kann abgesehen werden, wenn Gefahren, erhebliche Nachteile oder erhebliche Belästigungen nach Feststellung der zuständigen Behörde mit einfachen Mitteln abgewehrt oder auf andere Weise beseitigt werden können.
 
-  
-2.1  
-Probennahmeplanung für Bodenuntersuchungen - Festlegung der Probennahmestellen und Beprobungstiefen
+(6) Wenn auf Grund der örtlichen Umstände oder nach den Ergebnissen von Bodenluft- oder Deponiegasuntersuchungen Anhaltspunkte für die Ausbreitung von flüchtigen Schadstoffen aus einer Verdachtsfläche oder altlastverdächtigen Fläche in Gebäude bestehen, soll im Rahmen der Detailuntersuchung eine Untersuchung der Innenraumluft erfolgen; die Aufgaben und Befugnisse anderer Behörden bleiben unberührt.
 
-Soll die räumliche Verteilung der Schadstoffe ermittelt werden, ist die zu untersuchende Fläche oder Teilfläche grundsätzlich unter Zuhilfenahme eines Rasters repräsentativ zu beproben. Soweit aus Vorkenntnissen, bei altlastverdächtigen Altstandorten insbesondere nach den Ergebnissen der Erfassung, eine Hypothese über die räumliche Verteilung der Schadstoffe abgeleitet werden kann, ist diese bei der Festlegung der Probennahmestellen und des Rasters zu berücksichtigen. Für die Festlegung von Probennahmestellen können auch Ergebnisse aus einer geeigneten Vor-Ort-Analytik herangezogen werden. Vermutete Schadstoffanreicherungen sind gezielt zu beproben. Die Beprobung ist, insbesondere hinsichtlich Zahl und räumlicher Anordnung der Probennahmestellen, so vorzunehmen, daß der Gefahrenverdacht geklärt, eine mögliche Gefahr bewertet werden und eine räumliche Abgrenzung von Schadstoffanreicherungen erfolgen kann. Bei der Festlegung der Beprobungstiefen für die Wirkungspfade Boden - Mensch und Boden - Nutzpflanze sollen für die Untersuchung auf anorganische und schwerflüchtige organische Schadstoffe die in Tabelle 1 genannten Beprobungstiefen zugrundegelegt werden. 
-Tabelle 1  
-Nutzungsorientierte Beprobungstiefe bei Untersuchungen  
-zu den Wirkungspfaden Boden - Mensch und Boden - Nutzpflanze
+(7) Im Rahmen von Untersuchungsanordnungen nach § 9 Absatz 2 Satz 1 des Bundes-Bodenschutzgesetzes können auch wiederkehrende Untersuchungen der Schadstoffausbreitung und der hierfür maßgebenden Umstände angeordnet werden.
 
-Wirkungspfad
+# § 11 – Allgemeine Anforderungen an Untersuchungen
 
-Nutzung
+(1) Bei der Festlegung des Untersuchungsumfangs sind alle verfügbaren Informationen, insbesondere die Kenntnisse oder begründeten Vermutungen über das Vorkommen bestimmter Schadstoffe und deren Verteilung, die sich im Sinne des § 4 Absatz 4 des Bundes-Bodenschutzgesetzes ergebenden Schutzbedürfnisse sowie die sonstigen beurteilungserheblichen örtlichen Umstände zu berücksichtigen.
 
-Beprobungstiefe
+(2) Bei der Untersuchung zum Wirkungspfad Boden-Mensch sind als Nutzungen zu unterscheiden:
 
-Boden - Mensch
+1. Kinderspielflächen,
 
-Kinderspielfläche, Wohngebiet
+2. Wohngebiete,
 
-0-10 cm 1)  
-10-35 cm 2)
+3. Park- und Freizeitanlagen sowie
 
-Park- und Freizeitanlage
+4. Industrie- und Gewerbegrundstücke.
 
-0-10 cm 1)
+(3) Bei der Untersuchung zum Wirkungspfad Boden-Nutzpflanze sind als Nutzungen zu unterscheiden:
 
-Industrie- und Gewerbegrundstücke
+1. Ackerflächen und Nutzgärten sowie
 
-0-10 cm 1)
+2. Grünlandflächen.
 
-Boden - Nutzpflanze
+(4) Probennahme und -analyse sind nach Abschnitt 4 durchzuführen.
 
-Ackerbau, Nutzgarten
+# § 12 – Orientierende Untersuchung
 
-0-30 cm 3)  
-30-60 cm
+(1) Ziel der orientierenden Untersuchung ist, auf der Grundlage der Ergebnisse der Erfassung mit Hilfe örtlicher Untersuchungen, insbesondere Messungen, festzustellen, ob ein hinreichender Verdacht für das Vorliegen einer Altlast oder einer schädlichen Bodenveränderung besteht.
 
-Grünland
+(2) Bei altlastverdächtigen Altablagerungen sollen neben der Charakterisierung des Schadstoffpotenzials des Ablagerungsmaterials insbesondere Untersuchungen der vom Abfallkörper ausgehenden Wirkungen durch Ausgasung leichtflüchtiger Stoffe und Deponiegas hinsichtlich des Übergangs von Schadstoffen in das Grundwasser durchgeführt werden.
 
-0-10 cm 4)  
-10-30 cm
+(3) Wird bei Untersuchungen für den Wirkungspfad Boden-Grundwasser ein Prüfwert nach Anlage 2 Tabelle 1 oder 3 am Ort der Probennahme überschritten, soll durch eine Sickerwasserprognose abgeschätzt werden, ob zu erwarten ist, dass die Konzentration dieses Schadstoffs im Sickerwasser am Ort der Beurteilung den Prüfwert nach Anlage 2 Tabelle 2 oder 3 übersteigen wird. Ergänzend kann die Einmischung des Sickerwassers in das Grundwasser berücksichtigt werden.
 
-1) Kontaktbereich für orale und dermale Schadstoffaufnahme, zusätzlich 0-2 cm bei Relevanz des inhalativen Aufnahmepfades.
+# § 13 – Detailuntersuchung
 
-2) 0-35 cm: durchschnittliche Mächtigkeit aufgebrachter Bodenschichten; zugleich max. von Kindern erreichbare Tiefe.
+(1) Ziel der Detailuntersuchung ist, mit Hilfe vertiefender und weitergehender Untersuchungen eine abschließende Gefährdungsabschätzung zu ermöglichen. Sie dient insbesondere der Feststellung von Menge und räumlicher Verteilung von Schadstoffen, ihrer mobilen oder mobilisierbaren Anteile, ihrer Ausbreitungsmöglichkeiten im Boden, in Gewässern und in der Luft sowie der Möglichkeit ihrer Aufnahme durch Menschen, Tiere und Pflanzen.
 
-3) Bearbeitungshorizont.
+(2) Bei Detailuntersuchungen soll festgestellt werden, ob sich aus räumlich begrenzten Anreicherungen von Schadstoffen innerhalb einer Verdachtsfläche oder altlastverdächtigen Fläche Gefahren ergeben und ob und wie eine Abgrenzung von nicht belasteten Flächen geboten ist.
 
-4) Hauptwurzelbereich.
+(3) Im Rahmen der Detailuntersuchung sollen die für die jeweils betroffenen Wirkungspfade im Sinne des § 11 Absatz 2 und 3 maßgeblichen Expositionsbedingungen und die bedeutsamen resorptionsverfügbaren, mobilen oder mobilisierbaren Anteile der Schadstoffgehalte ermittelt werden. Die Resorptionsverfügbarkeit ist nach der DIN 19738 zu bestimmen.
 
-Böden sind möglichst horizontweise zu beproben. Grundlage für die Ermittlung der Horizontabfolge ist die Bodenkundliche Kartieranleitung der Geologischen Landesämter (AG Bodenkunde, 4. Auflage, 1994). Bis in den Unterboden gestörte Böden sind lagenweise zu beproben (siehe Tabelle 1). Die Lagen- oder Horizontmächtigkeit, die durch Entnahme einer Probe repräsentiert werden kann, beträgt in der Regel 30 cm. Mächtigere Horizonte oder Lagen sind gegebenenfalls zu unterteilen. Ergänzend zur Tabelle 1 ist die Beprobungstiefe zu berücksichtigen, für die bei der nach § 4 Abs. 4 des Bundes-Bodenschutzgesetzes zu berücksichtigenden Nutzung besondere Vorkehrungen getroffen werden müssen. Die Gründe für abweichende Beprobungstiefen sind zu dokumentieren. Bei der Probennahme ist hinsichtlich der Wirkungspfade folgendes zu beachten:
+(4) Bei altlastverdächtigen Altablagerungen sollen insbesondere Untersuchungen der vom Abfallkörper ausgehenden Wirkungen hinsichtlich des Übergangs von Schadstoffen in das Grundwasser durch Rückschlüsse und Rückrechnung aus Abstrom-Messungen im Grundwasser unter Berücksichtigung insbesondere auch der Schadstoffkonzentration im Anstrom durchgeführt werden.
 
-  
-2.1.1  
-Wirkungspfad Boden - Mensch
+(5) Ergibt sich auf Grund einer Abschätzung nach § 12 Absatz 3 der hinreichende Verdacht einer schädlichen Bodenveränderung oder Altlast, sollen durch eine weitergehende Sickerwasserprognose die Schadstoffeinträge in das Grundwasser abgeschätzt werden. Ergänzend kann die zuständige Behörde eine Einmischungsprognose verlangen.
 
-Im Rahmen der Festlegung der Probennahmestellen und der Beprobungstiefe sollen auch Ermittlungen zu den im Einzelfall vorliegenden Expositionsbedingungen vorgenommen werden, insbesondere über
+(6) Die Detailuntersuchung kann auch die Ermittlung natürlich ablaufender Abbau- und Rückhalteprozesse umfassen, soweit sie als Standortbedingungen bei der Gefährdungsabschätzung zu berücksichtigen sind.
 
-\-  
-die tatsächliche Nutzung der Fläche (Art, Häufigkeit, Dauer),
+# § 14 – Sickerwasserprognose
 
-\-  
-die Zugänglichkeit der Fläche,
+(1) Die Prognose der Stoffkonzentration für einen Prüfwertvergleich am Ort der Beurteilung kann, auch unter Anwendung von Stofftransportmodellen, vorgenommen werden
 
-\-  
-die Versiegelung der Fläche und über den Aufwuchs,
+1. auf der Grundlage von Materialuntersuchungen durch Elution mit Wasser in Verbindung mit einer Transportprognose,
 
-\-  
-die Möglichkeit der inhalativen Aufnahme von Bodenpartikeln,
+2. durch Rückschlüsse oder Rückrechnungen aus Untersuchungen im Grundwasserabstrom unter Berücksichtigung der Stoffkonzentration im Grundwasseranstrom, der Verdünnung, des Schadstoffverhaltens in der wasserungesättigten und der wassergesättigten Bodenzone sowie des Schadstoffinventars im Boden oder
 
-\-  
-die Relevanz weiterer Wirkungspfade.
+3. auf der Grundlage von in situ-Untersuchungen.
 
-Für die Beurteilung der Gefahren durch die inhalative Aufnahme von Bodenpartikeln sind die obersten zwei Zentimeter des Bodens maßgebend. Inhalativ bedeutsam sind solche Schadstoffe, für die sich der inhalative Pfad nach den Ableitungsmaßstäben gemäß § 4 Abs. 5 dieser Verordnung als ausschlaggebend für die Festlegung des Prüfwertes erwiesen hat. Durch Rückstellproben ist sicherzustellen, daß der Schadstoffgehalt in der für die Staubbildung relevanten Feinkornfraktion bis 63 mym gegebenenfalls getrennt analysiert werden kann. Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10 000 qm für jeweils 1 000 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer Beprobungstiefe gewonnen werden. Bei Flächen unter 500 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung kann auf eine Teilung verzichtet werden. Für Flächen über 10 000 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
+(2) Wenn im Einzelfall ein Eindringen von sauren Sickerwässern, ein Eindringen von Lösevermittlern oder eine Änderung des Reduktions- und Oxidations-Potentials zu erwarten ist, sollen entsprechende weitere Extraktions-, Elutions- oder Perkolationsverfahren angewendet werden.
 
-  
-2.1.2  
-Wirkungspfad Boden - Nutzpflanze
+(3) Bei der Prognose ist insbesondere die Abbau- und Rückhaltewirkung der wasserungesättigten Zone zu berücksichtigen. Hierbei sind insbesondere folgende Kriterien maßgebend:
 
-Bei landwirtschaftlich einschließlich gartenbaulich genutzten Böden mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter 5 000 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die Probennahme erfolgt nach den Regeln der Probennahme auf landwirtschaftlich genutzten Böden (E DIN ISO 10381-1: 02.96, E DIN ISO 10381-4: 02.96) durch 15 bis 25 Einzeleinstiche je Teilfläche, die zu jeweils einer Mischprobe vereinigt werden. In Nutzgärten erfolgt die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe für jede Beprobungstiefe und im übrigen in Anlehnung an die Regeln der Probennahme auf Ackerflächen. Für die Eignung von Geräten zur Probennahme ist E DIN ISO 10381-2: 02.96 maßgebend.
+1. Länge der Sickerstrecke,
 
-  
-2.1.3  
-Wirkungspfad Boden - Grundwasser
+2. Bodenart,
 
-Beim Wirkungspfad Boden - Grundwasser ist zur Feststellung der vertikalen Schadstoffverteilung die ungesättigte Bodenzone bis unterhalb einer mutmaßlichen Schadstoffanreicherung oder eines auffälligen Bodenkörpers zu beproben. Die Beprobung erfolgt horizont- oder schichtspezifisch. Im Untergrund dürfen Proben aus Tiefenintervallen bis max. 1 m entnommen werden. In begründeten Fällen ist die Zusammenfassung engräumiger Bodenhorizonte bzw. -schichten bis max. 1 m Tiefenintervall zulässig. Auffälligkeiten sind zu beurteilen und gegebenenfalls gesondert zu beproben. Die Beprobungstiefe soll reduziert werden, wenn erkennbar wird, daß bei Durchbohrung von wasserstauenden Schichten im Untergrund eine hierdurch entstehende Verunreinigung des Grundwassers zu besorgen ist. Ist das Durchbohren von wasserstauenden Schichten erforderlich, sind besondere Sicherungsmaßnahmen zu ergreifen. Für die Eignung von Geräten zur Probennahme ist DIN 4021: 10.90 maßgebend.
+3. Gehalt an organischer Substanz,
 
-  
-2.2  
-Probennahmeplanung Bodenluft
+4. pH-Wert,
 
-Die Probennahme erfolgt nach VDI-Richtlinie 3865, Blatt 1 und 2.
+5. Sickerwasserrate,
 
-  
-2.3  
-Probennahmeplanung bei abgeschobenem und ausgehobenem Bodenmaterial
+6. Grundwasserneubildungsrate sowie
 
-Die Probennahme erfolgt in Anlehnung an DIN 52101: 03.88 oder nach DIN EN 932-1: 11.96.
+7. Mobilität, Mobilisierbarkeit und Abbaubarkeit der Stoffe.
 
-  
-2.4  
-Probengewinnung
+(4) Bei direkter Beprobung und Untersuchung von Sickerwasser und Grundwasser ist bei der Bewertung die witterungsbedingte Variabilität der ermittelten Stoffkonzentrationen zu berücksichtigen.
 
-2.4.1  
-Böden, Bodenmaterial und sonstige Materialien
+(5) Bei der Einmischungsprognose gemäß § 12 Absatz 3 und § 13 Absatz 5 soll die Einmischung des Sickerwassers in das Grundwasser über eine pauschale Einmischtiefe von einem Meter rechnerisch berücksichtigt werden. Die Bezugsfläche dieses anrechenbaren Grundwasservolumens ist diejenige, auf der Prüfwertüberschreitungen im Sickerwasser festgestellt oder abgeschätzt werden.
 
-Die notwendige Probemenge richtet sich gemäß DIN 18123: 11.96 nach dem Größtkorn und muß ausreichen, um nach sachgerechter Probenvorbehandlung die Laboruntersuchung sowie gegebenenfalls die Bereitstellung von Rückstellproben zu gewährleisten. Eine Abstimmung mit der Untersuchungsstelle sollte erfolgen. Grobmaterialien (Materialien &gt; 2 mm) und Fremdmaterialien, die möglicherweise Schadstoffe enthalten oder denen diese anhaften können, sind aus der gesamten Probemenge zu entnehmen und gesondert der Laboruntersuchung zuzuführen. Ihr Massenanteil an dem beprobten Bodenhorizont bzw. der Schichteinheit ist zu ermitteln und zu dokumentieren. Zur Entnahme von Boden, Bodenmaterial und sonstigen Materialien sind Verfahren anzuwenden, die in der DIN 4021: 10.90 und E DIN ISO 10381-2: 02.96 aufgeführt sind. Bei der Verfahrensauswahl sind über die in der Norm enthaltenen Angaben hinaus die erforderliche Probenmenge und der Aufbau des Untergrundes zu berücksichtigen.
+# § 15 – Bewertung
 
-  
-2.4.2  
-Bodenluft
+(1) Die Ergebnisse der Untersuchungen nach den §§ 12 bis 14 sind unter Beachtung der Umstände des Einzelfalls, insbesondere anhand der Prüf- und Maßnahmenwerte nach Anlage 2 unter Berücksichtigung der jeweiligen Anwendungshinweise, zu bewerten. Die Prüf- und Maßnahmenwerte nach Anlage 2 Tabelle 4 bis 8 gelten für die in Anlage 3 Tabelle 3 genannten Beprobungstiefen. Für die dort für den Wirkungspfad Boden-Nutzpflanze jeweils genannten größeren Beprobungstiefen sind die 1,5-fachen Werte maßgeblich.
 
-Für die Entnahme von Bodenluftproben gilt VDI-Richtlinie 3865, Blatt 2.
+(2) Werden nach den durchgeführten Untersuchungen und Prognosen die in Anlage 2 Tabelle 1 bis 4 und 6 bis 8 festgelegten Prüfwerte nicht überschritten, besteht insoweit nicht der Verdacht einer schädlichen Bodenveränderung oder Altlast.
 
-  
-2.5  
-Probenkonservierung, -transport und -lagerung
+(3) Die Ergebnisse der Detailuntersuchung sind unter Beachtung der Umstände des Einzelfalls daraufhin zu bewerten, inwieweit Sanierungs-, Schutz- oder Beschränkungsmaßnahmen im Sinne des § 2 Absatz 7 und 8 des Bundes-Bodenschutzgesetzes erforderlich sind. Treffen im Einzelfall alle bei der Ableitung eines Prüfwertes angenommenen ungünstigen Umstände zusammen, können Maßnahmen bereits dann erforderlich sein, wenn der Gehalt oder die Konzentration eines Schadstoffes geringfügig oberhalb des jeweiligen Prüfwertes liegt.
 
-Für die Auswahl von Probengefäßen sowie für Probenkonservierung, -transport und -lagerung sind die entsprechenden Regelungen in den Untersuchungsvorschriften nach Nummer 3.1.3, Tabellen 3 bis 7 einzuhalten. Fehlen derartige Regelungen, sind E DIN ISO 10381-1: 02.96 und DIN EN ISO 5667-3: 04.96 zu beachten. Der Transport der Bodenproben für die Untersuchung organischer Schadstoffe sowie ihre Lagerung erfolgt gemäß E DIN ISO 14507: 02.96.
+(4) Wenn in dieser Verordnung für einen Schadstoff kein Prüf- oder Maßnahmenwert festgelegt ist, sind für seine Bewertung die zur Ableitung der festgelegten Prüf- und Maßnahmenwerte dieser Verordnung herangezogenen Methoden und Maßstäbe zu beachten. Die Methoden und Maßstäbe sind im Bundesanzeiger Nummer 161a vom 28. August 1999 veröffentlicht.
 
-  
-3. Untersuchungsverfahren
+(5) Erfolgt innerhalb einer Verdachtsfläche oder altlastverdächtigen Fläche auf Teilflächen eine von der vorherrschenden Nutzung abweichende empfindlichere Nutzung, sind diese Teilflächen nach den für ihre Nutzung festgelegten Prüf- und Maßnahmenwerten zu bewerten.
 
-3.1  
-Untersuchungsverfahren für Böden, Bodenmaterial und sonstige Materialien
+(6) Naturbedingt erhöhte Gehalte an Schadstoffen begründen nur dann den Verdacht einer schädlichen Bodenveränderung, wenn diese Stoffe durch Einwirkungen auf den Boden in erheblichem Umfang freigesetzt wurden oder werden. Bei Böden mit großflächig siedlungsbedingt erhöhten Schadstoffgehalten kann ein Vergleich dieser Gehalte mit den im Einzelfall ermittelten Schadstoffgehalten in die Gefahrenbeurteilung einbezogen werden.
 
-3.1.1  
-Probenauswahl und -vorbehandlung
+(7) Neben dem Eintrag über das Sickerwasser sind auch Einträge von Schadstoffen über die Bodenluft oder über flüssige Phasen in das Grundwasser bei der Bewertung zu berücksichtigen.
 
-Im Falle gestufter Untersuchungen ist für den Einzelfall zu entscheiden, in welcher Abfolge im Feld gewonnene Proben zu analysieren sind, und ob ggf. auch eine Zusammenfassung mehrerer Proben zweckmäßig ist. Die Entscheidung und ihre Gründe sind zu dokumentieren. Die Probenvorbehandlung, einschließlich der Trocknung des Probenmaterials, erfolgt für die Bestimmung physikalisch-chemischer Eigenschaften (Nummer 3.1.3, Tabelle 3) und die Bestimmung anorganischer Schadstoffe (Nummer 3.1.3, Tabelle 4) nach DIN ISO 11464: 12.96. Für organische Schadstoffe ist E DIN ISO 14507: 02.96 anzuwenden. Ist bei Böden, Bodenmaterial und sonstigen Materialien (insbesondere Schlacken und Bauschutt) eine Auftrennung in Grob- und Feinanteil erforderlich, hat dies über ein Sieb mit einer Maschenweite von 2 mm in die Fraktionen &lt;= 2 mm (Feinanteil) und &gt; 2 mm (Grobanteil) Korndurchmesser zu erfolgen. Verklumpungen sind zu zerkleinern, wobei aber geringstabile Aggregate (z.B. Carbonat-, Eisen-Konkretionen, Bims) möglichst nicht zerbrochen werden sollten. Beide Fraktionen sind zu wägen, zu beschreiben und zu dokumentieren, und deren Trockenmasseanteil ist zu bestimmen. Der Feinanteil ist zu homogenisieren und zu untersuchen. Bestehen Anhaltspunkte für einen erhöhten Schadstoffgehalt der Fraktion &gt; 2 mm, ist diese Fraktion zu gewinnen und nach Vorzerkleinerung und Homogenisierung ebenfalls zu untersuchen. Im Probenmaterial enthaltene Fremdmaterialien sind erforderlichenfalls getrennt zu untersuchen und bei der Bewertung zu berücksichtigen. Repräsentative Teile der im Feld entnommenen Proben sind als Rückstellproben aufzubewahren. Art und Umfang der Rückstellung sind nach den Erfordernissen des Einzelfalls zu vereinbaren.
+(8) Bei der Bewertung der Untersuchungsergebnisse und der Entscheidung über die zu treffenden Maßnahmen ist zu berücksichtigen, ob erhöhte Schadstoffkonzentrationen im Sickerwasser oder andere Schadstoffausträge auf Dauer nur geringe Schadstofffrachten und nur lokal begrenzt erhöhte Schadstoffkonzentrationen in Gewässern erwarten lassen.
 
-  
-3.1.2  
-Extraktion, Elution
+# § 16 – Sanierungsuntersuchungen und Sanierungsplanung
 
-Königswasserextrakt  
-Die Bestimmung des Gehaltes an anorganischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1 mit Ausnahme der Cyanide, für den Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten bezüglich Arsen und Quecksilber nach Anhang 2 Nummer 2.2 und für den Wirkungspfad Boden - Nutzpflanze auf Grünland nach Anhang 2 Nummer 2.3 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 Nummer 4.1 erfolgt aus dem Königswasserextrakt nach DIN ISO 11466: 06.97 aus aufgemahlenen Proben (Korngröße &lt; 150 mym). Ammoniumnitratextraktion  
-Der Ammoniumnitratextrakt nach DIN 19730: 06.97 ist zur Ermittlung der Gehalte anorganischer Schadstoffe für die Bewertung der Schadstoffe im Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität bezüglich Cadmium, Blei und Thallium nach Anhang 2 Nummer 2.2 sowie auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen nach Anhang 2 Nummer 2.4 anzuwenden und kann zur Abschätzung von anorganischen Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs eingesetzt werden. Extraktion organischer Schadstoffe  
-Die Bestimmung des Gehaltes an organischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1.2 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 nummer 4.2 erfolgt aus den in Nummer 3.1.3, Tabelle 5 angegebenen Bodenextrakten. Sollen andere Verfahren angewendet werden, ist dies zu begründen und nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der oben angegebenen Verfahren gleichwertig oder vergleichbar sind. Elution mit Wasser  
-Für die Herstellung von Eluaten mit Wasser zur Abschätzung von Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs sind die in Tabelle 2 angegebenen Verfahren anzuwenden. 
-Tabelle 2  
-Verfahren zur Herstellung von Eluaten mit Wasser
+(1) Ziel von Sanierungsuntersuchungen ist, anhand eines Sanierungsziels zu ermitteln, mit welchen Maßnahmen eine Sanierung im Sinne des § 4 Absatz 3 des Bundes-Bodenschutzgesetzes erreicht werden kann, inwieweit Veränderungen des Bodens nach der Sanierung verbleiben und welche rechtlichen, organisatorischen und finanziellen Umstände für die Durchführung der Maßnahmen von Bedeutung sind.
 
-Verfahren
+(2) Im Rahmen von Sanierungsuntersuchungen sind die geeigneten, erforderlichen und angemessenen Maßnahmen unter Berücksichtigung von Maßnahmenkombinationen zu ermitteln. Insbesondere sind die Eignung der Verfahren, deren technische Durchführbarkeit, Zuverlässigkeit, Verfügbarkeit und Nachhaltigkeit, der erforderliche Zeitaufwand, die Wirkungsdauer der Maßnahmen und deren Überwachungsmöglichkeiten, die Erfordernisse der Nachsorge und die Nachbesserungsmöglichkeiten, die Auswirkungen auf die Betroffenen im Sinne des § 12 Satz 1 des Bundes-Bodenschutzgesetzes und auf die Umwelt, Zulassungserfordernisse sowie die Entstehung, Verwertung und Beseitigung von Abfällen zu prüfen und miteinander zu vergleichen. Die Ergebnisse der Prüfung und das danach vorzugswürdige Maßnahmenkonzept sind mit einer Abschätzung der Kosten darzustellen.
 
-Verfahrenshinweise
+(3) Bei der Erstellung eines Sanierungsplans sind die Maßnahmen nach § 13 Absatz 1 Satz 1 Nummer 3 des Bundes-Bodenschutzgesetzes textlich und zeichnerisch vollständig darzustellen. Im Sanierungsplan ist darzulegen, dass die vorgesehenen Maßnahmen geeignet sind, dauerhaft Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für den Einzelnen oder die Allgemeinheit zu vermeiden. Darzustellen sind insbesondere auch die Auswirkungen der Maßnahmen auf die Umwelt und die voraussichtlichen Kosten sowie die erforderlichen Zulassungen, auch soweit ein verbindlicher Sanierungsplan nach § 13 Absatz 6 des Bundes-Bodenschutzgesetzes diese nicht einschließen kann.
 
-Methode
+(4) Über die in § 13 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes aufgeführten Angaben hinaus soll ein Sanierungsplan Angaben enthalten zu
 
-anorganische Stoffe
+1. den Standortverhältnissen,
 
-Bodensättigungsextrakt
+2. der äußeren Abgrenzung des Sanierungsplans sowie dem Einwirkungsbereich, der durch die Altlast und die Schadstoffausbreitung bereits betroffen ist oder der durch die vorgesehenen Maßnahmen zu prognostizieren ist,
 
-Verfahren siehe (1)
+3. der technischen Ausgestaltung von Sanierungsmaßnahmen sowie Art und Umfang sonstiger Maßnahmen, den Elementen und dem Ablauf der Sanierung,
+
+4. fachspezifischen Berechnungen zu den Maßnahmenkomponenten,
+
+5. den Eigenkontrollmaßnahmen zur Überprüfung der sachgerechten Ausführung und Wirksamkeit der vorgesehenen Maßnahmen,
+
+6. den zu behandelnden Mengen und den Transport-, Verwertungs- und Entsorgungswegen,
+
+7. den getroffenen behördlichen Entscheidungen und den geschlossenen öffentlich-rechtlichen Verträgen, die sich auf die Erfüllung der Pflichten nach § 4 des Bundes-Bodenschutzgesetzes auswirken,
+
+8. den behördlichen Zulassungserfordernissen für die durchzuführenden Maßnahmen,
+
+9. den für eine Verbindlichkeitserklärung nach § 13 Absatz 6 des Bundes-Bodenschutzgesetzes durch die zuständige Behörde geforderten Angaben und Unterlagen sowie
+
+10. dem Zeitplan und den Kosten.
+
+(5) Soll Bodenmaterial im Rahmen der Sanierung im Bereich derselben schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans umgelagert werden, sind die Anforderungen nach § 4 Absatz 3 des Bundes-Bodenschutzgesetzes zu erfüllen.
+
+# § 17 – Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen, natürliche Schadstoffminderung
+
+(1) Dekontaminations- und Sicherungsmaßnahmen müssen gewährleisten oder wesentlich dazu beitragen, dass durch im Boden oder in Altlasten verbleibende Schadstoffe und deren Umwandlungsprodukte dauerhaft keine Gefahren, erheblichen Nachteile oder erheblichen Belästigungen für den Einzelnen oder die Allgemeinheit bestehen.
+
+(2) Wenn Schadstoffe nach § 4 Absatz 5 des Bundes-Bodenschutzgesetzes zu beseitigen sind und eine Vorbelastung besteht, sind von den nach § 4 Absatz 3, 5 oder 6 des Bundes-Bodenschutzgesetzes Pflichtigen grundsätzlich die Leistungen zu verlangen, die sie ohne Vorbelastung zu erbringen hätten. Die zuvor bestehenden Nutzungsmöglichkeiten des Grundstücks sollen wiederhergestellt werden.
+
+(3) Nach Abschluss einer Dekontaminationsmaßnahme ist das Erreichen des Sanierungsziels gegenüber der zuständigen Behörde nachzuweisen. Die Wirksamkeit von Sicherungsmaßnahmen ist für den von der zuständigen Behörde bestimmten Zeitraum zu überwachen und zu gewährleisten sowie gegenüber der zuständigen Behörde nachzuweisen.
+
+(4) Im Rahmen der Entscheidung über Sanierungsmaßnahmen kann die natürliche Schadstoffminderung berücksichtigt werden, wenn
+
+1. die Schadstoffminderungsprozesse identifiziert und hinreichend quantifizierbar sind,
+
+2. die voraussichtliche Zeitdauer sowie Prognoseunsicherheiten beachtet werden,
+
+3. Zwischenziele und Überwachungsmaßnahmen festgelegt werden und
+
+4. Verdünnungsprozesse im Gesamtkonzept nur eine untergeordnete Rolle spielen.
+
+(5) Auf land- oder forstwirtschaftlich genutzten Flächen kommen bei schädlichen Bodenveränderungen oder Altlasten insbesondere Schutz- und Beschränkungsmaßnahmen durch Anpassungen der Nutzung und der Bewirtschaftung von Böden sowie Maßnahmen zur Veränderungen der Bodenbeschaffenheit in Betracht. Über Art und Umfang der Maßnahmen ist zwischen den zuständigen Behörden Einvernehmen herzustellen. Über die Durchführung der getroffenen Schutz- und Beschränkungsmaßnahmen sind von den nach § 4 Absatz 3, 5 oder 6 des Bundes-Bodenschutzgesetzes Pflichtigen Aufzeichnungen zu führen, zehn Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. § 17 Absatz 3 des Bundes-Bodenschutzgesetzes bleibt unberührt.
+
+(6) Maßnahmen zur Abwehr gegenwärtiger Gefahren können von der zuständigen Behörde auch ohne vorherige Untersuchung ergriffen oder angeordnet werden.
+
+# § 18 – Vorerkundung
+
+(1) Die Vorerkundung von Böden in situ und von Materialien in Haufwerken dient
+
+1. einer Einschätzung der Beschaffenheit der Böden und Materialien, insbesondere zur Ermittlung des erforderlichen Untersuchungsumfangs und analytischen Untersuchungsbedarfs,
+
+2. als Grundlage einer repräsentativen Probennahme, insbesondere zur Entwicklung einer geeigneten Probennahmestrategie und
+
+3. der Bewertung der Ergebnisse analytischer Untersuchungen, insbesondere bei deren Übertragung auf den Untersuchungsraum.
+
+(2) Im Rahmen der Vorerkundung sind vorhandene Hintergrundinformationen zu ermitteln und auszuwerten. Hierzu zählen aktuelle und historische Unterlagen, Luftbilder und Karten sowie Auskünfte und Stellungnahmen zuständiger Behörden.
+
+(3) Die gewonnenen Erkenntnisse sind durch eine Inaugenscheinnahme auf ihre Plausibilität zu überprüfen und, soweit dies für das weitere Vorgehen erforderlich ist, zu vertiefen und zu ergänzen. Im Rahmen der Inaugenscheinnahme sind insbesondere Auffälligkeiten in Hinblick auf anthropogene Veränderungen der Böden zu dokumentieren.
+
+(4) Bei der Vorerkundung sind die Anforderungen der DIN 19731 zu beachten.
+
+(5) Liegen keine geeigneten bodenbezogenen Informationen vor, soll eine bodenkundliche Kartierung oder Bodenansprache auf der Grundlage der „Arbeitshilfe für die Bodenansprache im vor- und nachsorgenden Bodenschutz – Auszug aus der Bodenkundlichen Kartieranleitung KA 5“ in dem Umfang durchgeführt werden, der für die jeweilige Fragestellung erforderlich ist.
+
+# § 19 – Allgemeine Anforderungen an die Probennahme
+
+(1) Die Probennahme ist von Sachverständigen im Sinne des § 18 des Bundes-Bodenschutzgesetzes oder Personen mit vergleichbarer Sachkunde zu entwickeln und zu begründen, zu begleiten und zu dokumentieren. Die Probennahme ist von einer nach DIN EN ISO/IEC 17025 oder DIN EN ISO/IEC 17020 akkreditierten oder nach Regelungen der Länder gemäß § 18 Satz 2 des Bundes-Bodenschutzgesetzes notifizierten Untersuchungsstelle durchzuführen.
+
+(2) Die Probennahme muss sicherstellen, dass die zu untersuchenden Böden oder Materialien, dem Ziel der Untersuchung entsprechend, hinreichend repräsentativ erfasst werden.
+
+(3) Die Probennahme hat insbesondere das jeweilige Ziel der Untersuchung, die örtlichen Umstände, die Eigenarten des zu untersuchenden Materials, die zu untersuchenden Parameter sowie den erforderlichen Umfang an Genauigkeit und Zuverlässigkeit der Ergebnisse zu berücksichtigen. Die Hinweise der DIN ISO 10381-1 sind zu berücksichtigen.
+
+(4) Liegen Hinweise auf Inhomogenitäten oder Heterogenitäten in dem zu untersuchenden Boden in situ oder in dem zu untersuchenden Haufwerk vor, ist für die Probennahme, soweit möglich, eine für die jeweilige Fragestellung geeignete Untergliederung in Teilbereiche vorzunehmen.
+
+(5) Vermutete Schadstoffanreicherungen sind gezielt zu beproben. Die Zahl und die räumliche Anordnung der Probennahmestellen sind so zu planen, dass eine räumliche Abgrenzung von Schadstoffanreicherungen erfolgen, ein Belastungsverdacht geklärt und eine mögliche Gefahr bewertet werden kann.
+
+(6) Wenn die jeweilige Fragestellung Mischproben erfordert, sollen diese in der Regel aus 20 Einzelstichproben je Teilbereich hergestellt werden.
+
+(7) Bei vorbereitenden Schritten zur Gewinnung der Feldprobe, wie der Grobsortierung, der Grobzerkleinerung und der Klassierung des zu untersuchenden Materials, sind die Hinweise der DIN 19747 zu beachten.
+
+(8) Grobe Materialien mit einer Korngröße von mehr als 2 Millimetern sowie Fremdbestandteile und Störstoffe, die möglicherweise Schadstoffe enthalten oder denen diese anhaften können, sind bei Feststoffuntersuchungen aus der gesamten Probenmenge zu entnehmen und gesondert der Laboruntersuchung zuzuführen. Ihr Masseanteil an dem beprobten Bodenhorizont oder der Schichteinheit ist zu ermitteln, zu dokumentieren und bei der Bewertung der Messergebnisse einzubeziehen.
+
+(9) Die Probennahme bei Bodenluft- und Deponiegasuntersuchungen richtet sich nach Anlage 3 Tabelle 8.
+
+# § 20 – Besondere Anforderungen an die Probennahme aus Böden in situ
+
+(1) Böden sind in der Regel horizontweise zu beproben. Grundlage für die Ermittlung der Horizontabfolge ist die „Arbeitshilfe für die Bodenansprache im vor- und nachsorgenden Bodenschutz – Auszug aus der Bodenkundlichen Kartieranleitung KA 5“. Ist eine eindeutige Horizontansprache nicht möglich, sind für den Wirkungspfad Boden-Nutzpflanze die Beprobungstiefen nach Anlage 3 Tabelle 3 heranzuziehen.
+
+(2) Zur Bestimmung der Beprobungstiefe für den Wirkungspfad Boden-Mensch gilt bei Untersuchung auf anorganische und schwerflüchtige organische Schadstoffe die Anlage 3 Tabelle 3. Sind in den Beprobungstiefen Horizontwechsel vorhanden, ist zusätzlich eine Beprobung nach Horizonten vorzunehmen, wenn dies für die jeweilige Fragestellung erforderlich ist.
+
+(3) Zur Probengewinnung sind Verfahren anzuwenden, die in der DIN EN ISO 22475-1 und der DIN ISO 10381-2 aufgeführt sind.
+
+# § 21 – Besondere Anforderungen an die Probennahme aus Haufwerken
+
+(1) Die Beprobung von Haufwerken ist gemäß der „Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen“ (LAGA PN 98) vorzunehmen.
+
+(2) Die gemäß LAGA PN 98 im Regelfall vorgesehene Anzahl von Laborproben kann für größere Chargen von Bodenmaterial, wie aufgemietete Homogenbereiche im Sinne der DIN 18300, in Abstimmung mit der zuständigen Behörde im Einzelfall verringert werden, wenn insbesondere durch eine Vorerkundung oder Vor-Ort-Analytik eine homogene Schadstoffverteilung hinreichend belegt ist.
+
+# § 22 – Zusätzliche wirkungspfadbezogene Anforderungen an die Probennahme bei orientierenden Untersuchungen und Detailuntersuchungen
+
+(1) Beim Wirkungspfad Boden-Mensch sind im Rahmen der Festlegung der Probennahmestellen und der Beprobungstiefe auch Ermittlungen zu den im Einzelfall vorliegenden Expositionsbedingungen vorzunehmen, insbesondere über die
+
+1. tatsächliche Nutzung der Fläche nach Art, Häufigkeit und Dauer,
+
+2. Zugänglichkeit der Fläche,
+
+3. Versiegelung der Fläche und über den Aufwuchs,
+
+4. Möglichkeit der inhalativen Aufnahme von Bodenpartikeln und
+
+5. Relevanz weiterer Wirkungspfade.
+
+(2) Beim Wirkungspfad Boden-Mensch gilt für die Beurteilung der Gefahren durch orale und dermale Aufnahme die Beprobungstiefe nach Anlage 3 Tabelle 3. Werden leichtflüchtige Schadstoffe untersucht, um gemäß § 10 Absatz 6 Anhaltspunkte für die Ausbreitung dieser Stoffe in Gebäude hinein zu ermitteln, richten sich die Beprobungstiefen nach dem dazu verwendeten Expositionsszenario (Boden-Bodenluft-Innenraumluft). Für die inhalative Aufnahme von Bodenpartikeln sind in der Regel die obersten 2 Zentimeter des Bodens maßgebend. Bei Überschreitung der Prüfwerte ist zur Bewertung der inhalativen Wirkung die Feinkornfraktion bis 63 Mikrometer heranzuziehen.
+
+(3) Beim Wirkungspfad Boden-Mensch kann bei Flächen unter 500 Quadratmetern sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung auf eine Teilung verzichtet werden. Für Flächen über 10 000 Quadratmetern sollen mindestens jedoch zehn Teilflächen beprobt werden.
+
+(4) Beim Wirkungspfad Boden-Nutzpflanze ist bei Ackerflächen oder Grünlandflächen mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von drei Teilflächen, je eine Mischprobe nach § 19 Absatz 6 entsprechend den Beprobungstiefen zu entnehmen. Bei Flächen unter 5 000 Quadratmetern kann auf eine Teilung verzichtet werden. Für Flächen über 10 Hektar sollen mindestens jedoch zehn Teilflächen beprobt werden. In Nutzgärten soll die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe nach § 19 Absatz 6 für jede Beprobungstiefe erfolgen.
+
+(5) Beim Wirkungspfad Boden-Grundwasser ist zur Feststellung der vertikalen Schadstoffverteilung die wasserungesättigte Bodenzone bis unterhalb einer mutmaßlichen Schadstoffanreicherung unter besonderer Berücksichtigung der Zone schwankender Grundwasserstände zu beproben. Im Untergrund dürfen abweichend von § 20 Absatz 1 Satz 1 Proben aus Tiefenintervallen bis zu 1 Meter entnommen werden. In begründeten Fällen ist die Zusammenfassung engräumiger Bodenhorizonte oder -schichten bis zu 1 Meter Tiefenintervall zulässig. Die Beprobungstiefe ist zu verringern, wenn erkennbar wird, dass bei Durchbohrung von Wasser stauenden Schichten im Untergrund eine hierdurch entstehende Verunreinigung des Grundwassers zu besorgen ist. Ist das Durchbohren von Wasser stauenden Schichten erforderlich, sind besondere Sicherungsmaßnahmen zu ergreifen.
+
+# § 23 – Konservierung, Transport und Aufbewahrung von Proben; Probenvorbehandlung, -vorbereitung und -aufarbeitung
+
+(1) Für die Auswahl von Probengefäßen sowie für Konservierung, Transport und Aufbewahrung von Proben sind die DIN ISO 10381-1, die DIN 19747 und die DIN EN ISO 5667-3 zu beachten.
+
+(2) Das Vorgehen bei der Probenvorbehandlung, der Probenvorbereitung und der Probenaufarbeitung für chemische, biologische oder physikalische Untersuchungen von Feststoffproben aus Böden und Materialien richtet sich nach der DIN 19747.
+
+(3) Repräsentative Teile der Proben sind mindestens bis zum Abschluss des Verfahrens als Rückstellproben nach der DIN 19747 aufzubewahren. Die zuständige Behörde kann Art und Umfang der Rückstellung nach den Erfordernissen des Einzelfalls festlegen.
+
+# § 24 – Physikalisch-chemische und chemische Analyse
+
+(1) Die physikalisch-chemische und chemische Analyse der Proben ist durch eine nach DIN EN ISO/IEC 17025 akkreditierte Untersuchungsstelle durchzuführen.
+
+(2) Die Bestimmung der physikalisch-chemischen Eigenschaften hat nach Anlage 3 Tabelle 1 zu erfolgen.
+
+(3) Zur Bestimmung der Schadstoffgehalte sind aus den nach § 23 vorbehandelten, vorbereiteten und aufgearbeiteten Proben gemäß den nachfolgenden Absätzen Extrakte und Eluate herzustellen und zu analysieren. Die Schadstoffgehalte sind auf Trockenmasse zu beziehen, die bei 105 °C nach der DIN EN 14346 Methode A gewonnen wurde. Bei summarischen Messgrößen, wie etwa PCB, LHKW, BTEX und PAK, sind neben der Summe auch die zugrunde gelegten Einzelergebnisse anzugeben. Für die Summenbildung bleiben Ergebnisse unterhalb der Bestimmungsgrenze unberücksichtigt.
+
+(4) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich
+
+1. der Vorsorgewerte nach Anlage 1 Tabelle 1,
+
+2. der Feststoffwerte nach Anlage 1 Tabelle 4,
+
+3. der Prüfwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4, mit Ausnahme der Cyanide und von Chrom VI,
+
+4. der Prüf- und Maßnahmenwerte für Arsen und Quecksilber für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 6 und
+
+5. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 7
+
+hat aus dem Königswasser-Extrakt nach der mit den Verfahren nach Nummer 9.2 der DIN EN 13657 oder nach der DIN EN 16174 mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
+
+(5) Die Bestimmung der Gehalte an Cyaniden und Chrom VI hinsichtlich der Prüfwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4 hat mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
+
+(6) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich
+
+1. der Prüf- und Maßnahmenwerte für Blei, Cadmium und Thallium für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 6 und
+
+2. der Prüfwerte auf Ackerflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen nach Anlage 2 Tabelle 8
+
+hat aus dem Ammoniumnitrat-Extrakt nach der DIN ISO 19730 mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
+
+(7) Die Bestimmung der Gehalte an organischen Schadstoffen hinsichtlich
+
+1. der Vorsorgewerte nach Anlage 1 Tabelle 2,
+
+2. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4 und 5 sowie
+
+3. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze nach Anlage 2 Tabelle 6 und 7
+
+hat mit den in Anlage 3 Tabelle 5 angegebenen Verfahren zu erfolgen.
+
+(8) Die Bestimmung der flüchtigen Schadstoffe in der Bodenluft hat mit den in Anlage 3 Tabelle 8 angegebenen Analyseverfahren zu erfolgen.
+
+(9) Die Bestimmung der Konzentration anorganischer Schadstoffe hinsichtlich
+
+1. der Eluatwerte nach Anlage 1 Tabelle 4 und 5 sowie
+
+2. der Prüfwerte für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme nach Anlage 2 Tabelle 1 und im Sickerwasser am Ort der Beurteilung nach Anlage 2 Tabelle 2
+
+hat mit den in Anlage 3 Tabelle 6 angegebenen Verfahren zu erfolgen. Für die Herstellung von Eluaten mit Wasser sind die in Anlage 3 Tabelle 2 angegebenen Verfahren anzuwenden.
+
+(10) Die Bestimmung der Konzentration organischer Schadstoffe hinsichtlich
+
+1. der Eluatwerte nach Anlage 1 Tabelle 4 und
+
+2. der Prüfwerte für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme und im Sickerwasser am Ort der Beurteilung nach Anlage 2 Tabelle 3
+
+hat mit den in Anlage 3 Tabelle 7 angegebenen Verfahren zu erfolgen. Absatz 9 Satz 2 gilt entsprechend.
+
+(11) Abweichend von § 23 und den vorstehenden Absätzen dürfen auch andere Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse angewendet werden, wenn deren Gleichwertigkeit und praktische Eignung
+
+1. durch den Fachbeirat Bodenuntersuchungen allgemein festgestellt und die Feststellung durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesanzeiger veröffentlicht wurde oder
+
+2. vom Anwender im Einzelfall gegenüber der zuständigen Behörde nachgewiesen wird.
+
+# § 25 – Fachbeirat Bodenuntersuchungen
+
+(1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ein Fachbeirat Bodenuntersuchungen (FBU) eingerichtet. Er hat die Aufgabe, Erkenntnisse über fortschrittliche Verfahren und Methoden, deren praktische Eignung zur Erfüllung der Anforderungen der §§ 10 bis 15 und des Abschnitts 4 gesichert erscheint, sowie über deren Anwendung zusammenzustellen. Zu diesem Zweck kann der Fachbeirat insbesondere
+
+1. Maßstäbe zur Beurteilung der Gleichwertigkeit und praktischen Eignung von Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse aufstellen,
+
+2. die Gleichwertigkeit und praktische Eignung von Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse allgemein feststellen und
+
+3. Empfehlungen zur Eignung von Qualitätssicherungsmaßnahmen einschließlich der zulässigen Ergebnisunsicherheit von Verfahren und Methoden im Sinne der Nummern 1 und 2 abgeben.
+
+(2) In den Fachbeirat sind fachlich qualifizierte und erfahrene Personen aus Bundes- und Landesbehörden, aus der Wissenschaft sowie aus Wirtschaftsbereichen, die vom Vollzug dieser Verordnung berührt sind, zu berufen. Der Fachbeirat soll nicht mehr als zwölf Mitglieder umfassen. Die Mitglieder des Fachbeirats sind nicht weisungsgebunden und nehmen zu den ihnen vorgelegten Fragen auf Grund ihrer fachlichen Qualifikation und Erfahrung Stellung. Die Mitgliedschaft ist ehrenamtlich.
+
+(3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beruft die Mitglieder des Fachbeirats. Der Fachbeirat gibt sich eine Geschäftsordnung und wählt aus seiner Mitte eine Vorsitzende oder einen Vorsitzenden. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
+
+# § 26 – Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 1 des Bundes-Bodenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 6 Absatz 2, § 7 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder § 8 Absatz 5 Satz 1 oder 2 Material aufbringt oder einbringt,
+
+2. entgegen § 6 Absatz 5 Satz 1 eine Untersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
+
+3. entgegen § 6 Absatz 7 Satz 1 eine Dokumentation nicht, nicht richtig oder nicht rechtzeitig erstellt,
+
+4. entgegen § 6 Absatz 7 Satz 2 ein Dokument nicht oder nicht mindestens zehn Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+
+5. entgegen § 6 Absatz 8 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+
+6. entgegen § 7 Absatz 1 Satz 1 oder § 8 Absatz 1 Satz 1 ein Material oder ein Gemisch verwendet.
+
+# § 27 – Zugänglichkeit technischer Regeln und Normen
+
+(1) Die in dieser Verordnung genannten DIN- und ISO-Normen, Normentwürfe und VDI-Richtlinien sind in Anlage 4 mit ihrer vollständigen Bezeichnung aufgeführt und können bei der Beuth-Verlag GmbH, 10772 Berlin, bezogen werden. Die „Arbeitshilfe für die Bodenansprache im vor- und nachsorgenden Bodenschutz – Auszug aus der Bodenkundlichen Kartieranleitung KA 5“; Hannover 2009, kann bei der E. Schweizerbart´sche Verlagsbuchhandlung, 70176 Stuttgart, bezogen werden.
+
+(2) Die in Absatz 1 genannten technischen Regeln und Normen sind bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
+
+(3) Verweisungen auf Entwürfe von technischen Normen in den Anlagen beziehen sich jeweils auf die Fassung, die zu dem in der Verweisung angegebenen Zeitpunkt veröffentlicht ist.
+
+# § 28 – Übergangsregelung
+
+(1) Werden Materialien bei Verfüllungen von Abgrabungen auf Grund von Zulassungen, die vor dem 16. Juli 2021 erteilt wurden und die Anforderungen an die auf- oder einzubringenden Materialien festlegen, auf oder in den Boden auf- oder eingebracht, sind die Anforderungen dieser Verordnung erst ab dem 1. August 2031 einzuhalten.
+
+(2) Die sich aus § 19 Absatz 1 Satz 1 und 2 ergebenden allgemeinen Anforderungen an die Probennahme sind ab dem 1. August 2028 einzuhalten.
+
+# Anlage 1 – (zu § 3 Absatz 1 Satz 1 Nummer 1 und Absatz 2,§ 5, § 6 Absatz 5 Satz 2 und Absatz 6 Nummer 1, § 7 Absatz 2, 3 und 5,§ 8 Absatz 2, Absatz 3 Nummer 1, Absatz 6 Nummer 1 und Absatz 7 Satz 1 und 6,§ 24 Absatz 4 Nummer 1 und 2, Absatz 7 Nummer 1, Absatz 9 Nummer 1 und Absatz 10 Nummer 1)Vorsorgewerte und Werte zur Beurteilung von Materialien
+
+(Fundstelle: BGBl. I 2021, 2731 - 2733)
 
  
 
-Elution mit Wasser
-
-\-  
-Probenmasse unter Berücksichtigung der Trockenmasse nach DIN 38414-2: 11.85 bzw. nach DIN ISO 11465: 12.96
-
-\-  
-Filtration siehe (2)
-
-DIN 38414-4: 10.84
-
-organische Stoffe
-
-Säulen- oder Lysimeterversuch
-
-Die zu erwartende Geschwindigkeit, mit der sich stoffspezifisch die Gleichgewichtskonzentration einstellt, ist zu beachten.
-
- 
-
-(1)
-
-Gewinnung des Bodensättigungsextraktes:
-
-Zur Vorbereitung wird der Bodenprobe in einem Polyethylen-Gefäß langsam soviel bidestilliertes Wasser zugegeben, daß sie vollständig durchfeuchtet ist. Die benötigte Menge an Wasser zur Vorbefeuchtung ist bodenartabhängig und sollte ungefähr der Feldkapazität entsprechen. Bei sandigen Proben wird von ca. 25%, bei lehmig/schluffigen Proben von ca. 35% und bei tonigen Proben von ca. 40% der Einwaage lufttrockenen Bodens ausgegangen. Die zugegebene Wassermenge ist gravimetrisch zu erfassen und zu notieren. Die Probe wird gut vermischt und unter Verdunstungsschutz 24 h bei 5 Grad C stehengelassen.
-
-Zur Herstellung des Bodensättigungsextrakts wird das vorbefeuchtete Bodenmaterial in Zentrifugenbecher überführt. Bidestilliertes Wasser wird unter ständigem Rühren langsam zugegeben, bis die Fließgrenze erreicht ist (Bildung einer glänzenden Oberfläche und Zerfließen einer Spachtelkerbe). Bei tonigen Proben muß 15 min bis zum Abschluß der Quellung gewartet und gegebenenfalls Wasser nachgegeben werden. Die zugegebene Wassermenge wird gravimetrisch erfaßt und die Bodenpaste mit einem Glasstab verrührt. Die Bodenpaste ist zur Gleichgewichtseinstellung 24 h im Kühlschrank oder -raum bei 5 Grad C unter Verdunstungsschutz aufzubewahren.
-
-Aus der Einwaage lufttrockenen Bodens und zweimaliger Wasserzugabe wird das Boden/Wasser-Verhältnis berechnet. Dabei ist der Wassergehalt der lufttrockenen Probe an einem Aliquot separat zu erfassen (Trocknung bei 105 Grad C bis zur Gewichtskonstanz) und rechnerisch zu berücksichtigen.
-
-Zur Gewinnung der Gleichgewichtsbodenlösung erfolgt die Zentrifugation in einer Kühlzentrifuge für 30 min. Die überstehende Lösung wird dekantiert und zur Abtrennung suspendierter Partikel in zuvor gewogene Polyethylen-Weithalsflaschen mittels Unterdruck membranfiltriert. Die Filtratmenge ist gravimetrisch zu bestimmen. Die Lösungen sind durch Zugabe von 10 Volumenanteilen Salpetersäure (c = 5 mol/l) zu stabilisieren, wobei die Säurezugabe bei der Auswertung von Meßergebnissen und der Erstellung von Kalibrierlösungen zu berücksichtigen ist.
-
-(2)
-
-Filtrationsschritt:
-
-Verwendet wird eine Druckfiltrationseinheit für Membranfilter (142 mm Durchmesser, medienführende Teile aus PTFE) mit einem Membranfilter mit 0,45 mym Porenweite. Bei Nutzung abweichender Geräte ist das zu filtrierende Volumen entsprechend der Filterfläche zu verändern; das Verhältnis von filtrierendem Volumen und Filterfläche ist einzuhalten.
-
-Nach dem Schütteln ist die Suspension ca. 15 min zur Sedimentation der gröberen Partikel stehenzulassen. Die überstehende Flüssigkeit ist im Zentrifugenbecher weitestgehend zu dekantieren. Die Zentrifugation erfolgt für 30 min mit 2 000 g. Danach erfolgt das weitestgehend vollständige Dekantieren der überstehenden Flüssigkeit in die Membrandruckfiltrationsapparatur. Nach 5 min druckloser Filtration wird zur Beschleunigung der Filtration ein Druck von 1 bar angelegt. Haben nach 15 min weniger als zwei Drittel des Eluats das Filter passiert, wird der Druck auf 2 bar erhöht. Falls erforderlich, wird der Druck nach weiteren 30 min auf 3,5 bar erhöht. Die Filtration wird solange fortgesetzt, bis der gesamte Überstand der Zentrifugation das Filter passiert hat. Ist die Filtration nach 120 min noch unvollständig, wird sie abgebrochen und mit dem unvollständigen Filtrat weitergearbeitet.
-
-3.1.3  
-Analysenverfahren
-
-Böden, Bodenmaterial und sonstige Materialen  
-Die Analyse von Böden, Bodenmaterial und gegebenenfalls von sonstigen Materialien ist nach den in den Tabellen 3 bis 5 aufgeführten Untersuchungsverfahren auszuführen. Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen und zu dokumentieren, daß deren Ergebnisse mit den Ergebnissen der in den Tabellen 3 bis 5 angegebenen Verfahren gleichwertig oder vergleichbar sind. Inwieweit einzelne Verfahren insbesondere auch unter den unter Nummer 4.2 genannten Gesichtspunkten anwendbar sind, ist im Einzelfall zu prüfen. Die Schadstoffgehalte sind auf Trockenmasse (105 Grad C) zu beziehen. Sie müssen in der gleichen Einheit wie die entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte in Anhang 2 angegeben werden.   
-
-Tabelle 3  
-Analyse physikalisch-chemischer Eigenschaften
-
-Untersuchungsparameter
-
-Verfahrenshinweise
-
-Methode
-
-Bestimmung der Trockenmasse
-
-feldfrische oder luftgetrocknete Bodenproben
-
-DIN ISO 11465: 12.96
-
-Organischer Kohlenstoff und Gesamtkohlenstoff nach trockener Verbrennung
-
-luftgetrocknete Bodenproben
-
-DIN ISO 10694: 08.96
-
-pH-Wert (CaCl(tief)2)
-
-Suspension der feldfrischen oder luftgetrockneten Bodenprobe in CaCl(tief)2-Lösung; c(CaCl(tief)2): 0,01 mol/l
-
-DIN ISO 10390: 05.97
-
-Korngrößenverteilung
-
-1) "Fingerprobe" im Gelände \*)
-
-Bodenkundliche Kartieranleitung, 4. Auflage, 1994; DIN 19682-2: 04.97
-
-2) Siebung, Dispergierung, Pipette-Analyse \*)
-
-E DIN ISO 11277: 06.94 DIN 19683-2: 04.97
-
-3) Siebung, Dispergierung, Aräometermethode
-
-DIN 18123: 11.96 E DIN ISO 11277: 06.94
-
-Rohdichte
-
-Trocknung einer volumengerecht entnommenen Bodenprobe bei 105 Grad C, rückwiegen
-
-E DIN ISO 11272: 01.94 DIN 19683-12: 04.73
-
-\*)  
-Empfohlene Methode.
-
- 
-
-Tabelle 4  
-Analyse anorganischer Schadstoffgehalte
-
-Untersuchungsparameter
-
-Verfahrenshinweise
-
-Methode
-
-Cd, Cr, Cu, Ni, Pb, Tl, Zn
-
-AAS
-
-E DIN ISO 11047: 06.95
-
-As, Cd, Cr, Cu, Ni, Pb, Tl, Zn
-
-ICP-AES (ICP-MS möglich) Berücksichtigung von spektralen Störungen bei hohen Matrixkonzentrationen erforderlich
-
-DIN EN ISO 11885: 04.98
-
-Arsen (As)
-
-ET-AAS
-
-In Analogie zu E DIN ISO 11047: 06.95
-
-Hydrid-AAS
-
-DIN EN ISO 11969: 11.96
-
-Quecksilber (Hg)
-
-AAS-Kaltdampftechnik Bei der Probenvorbehandlung darf die Trocknungstemperatur 40 Grad C nicht überschreiten
-
-DIN EN 1483: 08.97 Reduktion mit Zinn(II)-chlorid oder NaBH4
-
-Chrom (VI)
-
-1) Extraktion mit phosphatgepufferter Aluminiumsulfatlösung
-
-Spektralphotometrie DIN 19734: 01.99
-
-2) Elution mit Wasser, Abtrennung von Cr(III), Bestimmung von löslichem Cr(VI) in Böden
-
-DIN 38405-24: 05.87
-
-Cyanide
-
- 
-
-E DIN ISO 11262: 06.94
-
- 
-
-Tabelle 5  
-Analyse organischer Schadstoffgehalte
-
-Untersuchungsparameter
-
-Verfahrenshinweise
-
-Methode
-
-Polycyclische aromatische Kohlenwasserstoffe (PAK): 16 PAK (EPA) Benzo(a)pyren
-
-1) Soxhlet-Extraktion mit Toluol, chromatographisches Clean-up; Quantifizierung mittels GC-MS \*)
-
-Merkblatt Nr. 1 des LUA-NRW, 1994 \*)
-
-2) Extraktion mit Tetrahydrofuran oder Acetonitril; Quantifizierung mittels HPLC-UV/DAD/F \*)
-
-Merkblatt Nr. 1 des LUA-NRW, 1994 \*)
-
-3) Extraktion mit Aceton, Zugeben von Petrolether, Entfernung des Acetons, chromatographische Reinigung des Petroletherextraktes, Aufnahme in Acetonitril; Quantifizierung mittels HPLC-UV/DAD/F
-
-E DIN ISO 13877: 06.95
-
-4) Extraktion mit einem Wasser/Aceton/  
-Petrolether-Gemisch in Gegenwart von NaCl; Quantifizierung mittels GC-MS oder HPLC-UV/DAD/F
-
-VDLUFA-Methodenbuch, Band VII; Handbuch Altlasten Bd. 7, LfU HE
-
-Hexachlorbenzol
-
-Extraktion mit Aceton/ Cyclohexan-Gemisch oder Aceton/Petrolether, ggf. Chromatographische Reinigung nach Entfernen des Acetons; Quantifizierung mittels GC-ECD oder GC-MS
-
-E DIN ISO 10382: 02.98
-
-Pentachlorphenol
-
-Soxhlet-Extraktion mit Heptan oder Aceton/ Heptan (50:50); Derivatisierung mit Essigsäureanhydrid; Quantifizierung mittels GC-ECD oder GC-MS
-
-E DIN ISO 14154: 10.97
-
-Aldrin, DDT, HCH-Gemisch
-
-1) Extraktion mit Petrolether oder Aceton/Petrolether-Gemisch, chromatographische Reinigung; Quantifizierung mittels GC-ECD oder GC-MS \*)
-
-E DIN ISO 10382: 02.98 \*)
-
-2) Extraktion mit Wasser/Aceton/  
-Petrolether-Gemisch; Quantifizierung mittels GC-ECD oder GC-MS
-
-VDLUFA-Methodenbuch, Band VII
-
-Polychlorierte Biphenyle (PCB): 6 PCB-Kongenere (Nr. 28, 52, 101, 138, 153, 180 nach Ballschmiter)
-
-1) Extraktion mit Heptan oder Aceton/Petrolether, chromatographische Reinigung; Quantifizierung mittels GC-ECD (GC-MS möglich)
-
-E DIN ISO 10382: 02.98
-
-2) Soxhlet-Extraktion mit Heptan, Hexan oder Pentan, chromatographische Reinigung an AgNO(tief)3/Kieselgelsäure; Quantifizierung mittels GC-ECD (GC-MS möglich)
-
-DIN 38414-20: 01.96
-
-3) Extraktion mit einem Wasser/Aceton/  
-Petrolether-Gemisch in Gegenwart von NaCl; Quantifizierung mittels GC-ECD (GC-MS möglich)
-
-VDLUFA-Methodenbuch, Band VII
-
-Polychlorierte Dibenzodioxine und Dibenzofurane
-
-Soxhlet-Extraktion gefriergetrockneter Proben mit Toluol, chromatographische Reinigung; Quantifizierung mittels GC-MS
-
-nach Klärschlammverordnung unter Beachtung von DIN 38414-24: 2000-10
-
-\*)  
-empfohlene Methode.
-
-Eluate und Sickerwasser  
-Die analytische Bestimmung der anorganischen Stoffkonzentrationen in Eluaten und Sickerwasser ist nach den in Tabelle 6 aufgeführten Analyseverfahren durchzuführen, die Bestimmung der organischen Stoffkonzentrationen im Sickerwasser erfolgt nach den in Tabelle 7 genannten Methoden. Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der in Tabelle 6 und 7 angegebenen Verfahren gleichwertig oder vergleichbar sind. 
-Tabelle 6  
-Bestimmung der Konzentration anorganischer Schadstoffe in Eluaten und Sickerwasser
-
-Untersuchungsparameter
-
-Verfahrenshinweise
-
-Methode
-
-As, Cd, Cr, Co, Cu, Mo, Ni, Pb, Sb, Se, Sn, Tl, Zn
-
-ICP-AES (ICP-MS möglich)
-
-Auf der Grundlage DIN EN ISO 11885: 04.98 <span id="FnR.FnA1-BJNR155400999BJNE002500305_001"></span><a href="#FnA1-BJNR155400999BJNE002500305_001" class="FnR">1*)</a></sup>
-
-Arsen (As), Antimon (Sb)
-
-Hydrid-AAS
-
-DIN EN ISO 11969: 11.96
-
-Blei (Pb)
-
-AAS
-
-DIN 38406-6: 07.98
-
-Cadmium (Cd)
-
-AAS
-
-DIN EN ISO 5961: 05.95
-
-Chrom (Cr), gesamt
-
-AAS
-
-DIN EN 1233: 08.96
-
-Chrom (Cr VI)
-
-Spektralphotometrie Ionenchromatographie
-
-DIN 38405-24: 05.87
-
-DIN EN ISO 10304-3: 11.97
-
-Cobalt (Co)
-
-AAS
-
-DIN 38406-24: 03.93
-
-Kupfer (Cu)
-
-AAS
-
-DIN 38406-7: 09.91
-
-Nickel (Ni)
-
-AAS
-
-DIN 38406-11: 09.91
-
-Quecksilber (Hg)
-
-AAS-Kaltdampftechnik
-
-DIN EN 1483: 08.97
-
-Selen (Se)
-
-AAS
-
-DIN 38405-23: 10.94
-
-Zink (Zn)
-
-AAS
-
-DIN 38406-8: 10.80
-
-Cyanid (CN-), gesamt
-
-Spektralphotometrie
-
-DIN 38405-13: 02.81
-
-E DIN EN ISO 14403: 05.98
-
-Cyanid (CN-), leicht freisetzbar
-
-Spektralphotometrie
-
-DIN 38405-13: 02.81
-
-Fluorid (F-)
-
-Fluoridsensitive
-
-DIN 38405-4: 07.85
-
-Elektrode Ionenchromatographie
-
-DIN EN ISO 10304-1: 04.95
-
-Tabelle 7  
-Bestimmung der Konzentration organischer Schadstoffe im Bodensickerwasser
-
-Untersuchungsparameter
-
-Verfahrenshinweise
-
-Methode
-
-Benzol
-
-GC-FID
-
-DIN 38407-9: 05.91 <span id="FnR.FnA1-BJNR155400999BJNE002500305_002"></span><a href="#FnA1-BJNR155400999BJNE002500305_002" class="FnR">2*)</a></sup>
-
-BTEX
-
-GC-FID Matrixbelastung beachten
-
-DIN 38407-9: 05.91
-
-Leichtflüchtige Halogenkohlenwasserstoffe (LHKW)
-
-GC-ECD
-
-DIN EN ISO 10301: 08.97
-
-Aldrin
-
-GC-ECD (GC-MS möglich)
-
-DIN 38407-2: 02.93
-
-DDT
-
-GC-ECD (GC-MS möglich)
-
-DIN 38407-2: 02.93
-
-Phenole
-
-GC-ECD
-
-ISO/DIS 8165-2: 01.97
-
-Chlorphenole
-
-GC-ECD oder GC-MS
-
-ISO/DIS 8165-2: 01.97
-
-Chlorbenzole
-
-GC-ECD (GC-MS möglich)
-
-DIN 38407-2: 02.93
-
-PCB, gesamt
-
-GC-ECD
-
-DIN EN ISO 6468: 02.97
-
-DIN 51527-1: 05.87
-
-GC-ECD oder GC-MS
-
-DIN 38407-3: 07.98
-
-PAK, gesamt
-
-HPLC-F
-
-DIN 38407-8: 10.95
-
-Naphthalin
-
-GC-FID oder GC-MS
-
-DIN 38407-9: 05.91
-
-Mineralölkohlenwasserstoffe
-
-Extraktion mit Petrolether, gaschromatographische Quantifizierung
-
-nach ISO/TR 11046: 06.94
-
-<span id="FnA1-BJNR155400999BJNE002500305_001"></span><a href="#FnR.FnA1-BJNR155400999BJNE002500305_001" class="Footnote">1*)</a>  
-Durch geeignete Maßnahmen oder eine geeignete gerätetechnische Ausstattung ist die Bestimmungsgrenze dem Untersuchungsziel anzupassen.
-
-<span id="FnA1-BJNR155400999BJNE002500305_002"></span><a href="#FnR.FnA1-BJNR155400999BJNE002500305_002" class="Footnote">2*)</a>  
-Anpassung der Bestimmungsgrenze erforderlich.
-
-<!-- -->
-
-  
-3.2  
-Untersuchung von Bodenluft
-
-Die Untersuchung von Bodenluft erfolgt nach VDI-Richtlinie 3865 Blatt 2 und 3.
-
-  
-3.3  
-Verfahren zur Abschätzung des Stoffeintrags aus Verdachtsflächen oder altlastverdächtigen Flächen in das Grundwasser
-
-Die Stoffkonzentrationen und -frachten im Sickerwasser und der Schadstoffeintrag in das Grundwasser im Übergangsbereich von der ungesättigten zur wassergesättigten Bodenzone (Ort der Beurteilung) können abgeschätzt werden, es sei denn, günstige Umstände ermöglichen eine repräsentative Beprobung von Sickerwasser am Ort der Beurteilung. Diese Abschätzung kann annäherungsweise
-
-\-  
-durch Rückschlüsse oder Rückrechnungen aus Untersuchungen im Grundwasserabstrom unter Berücksichtigung der Stoffkonzentration im Grundwasseranstrom, der Verdünnung, des Schadstoffverhaltens in der ungesättigten und gesättigten Bodenzone sowie des Schadstoffinventars im Boden,
-
-\-  
-auf der Grundlage von In-situ-Untersuchungen oder
-
-\-  
-auf der Grundlage von Materialuntersuchungen im Labor (Elution, Extraktion), bei anorganischen Stoffen insbesondere der Elution mit Wasser, gemäß Tabelle 2
-
-auch unter Anwendung von Stofftransportmodellen erfolgen. Die Stoffkonzentrationen im Sickerwasser können am Ort der Probennahme
-
-\-  
-für anorganische Schadstoffe mit den Ergebnissen des Bodensättigungsextraktes ansatzweise gleichgesetzt werden; Abschätzungen unter Heranziehung von Analysenergebnissen nach Tabelle 6 und anderer Elutionsverfahren (z.B. DIN 19730 oder DIN 38414-4) sind zulässig, wenn die Gleichwertigkeit der Ergebnisse insbesondere durch Bezug dieser Ergebnisse auf den Bodensättigungsextrakt sichergestellt ist; Ergebnisse nach DIN 38414-4: 10.84 können nur verwendet werden, wenn die Filtration nach Nummer 3.1.2 dieser Verordnung durchgeführt wurde;
-
-\-  
-für organische Stoffe aus Säulenversuchen der entnommenen Proben unter Beachtung der Standortbedingungen am Entnahmeort, insbesondere im Hinblick auf die Kontaktzeit, mit Verfahren nach Tabelle 7 ermittelt werden.
-
-Die Analysenergebnisse der Untersuchung von Sickerwasser, Grundwasser, Extrakten und Eluaten sowie von Bodenproben sind mit dem jeweiligen Untersuchungsverfahren anzugeben. Die darauf beruhende Abschätzung der Sickerwasserbeschaffenheit und -frachten für den Übergangsbereich von der ungesättigten zur wassergesättigten Zone ist im einzelnen darzulegen und zu begründen. Für die Abschätzung sind insbesondere Verfahren heranzuziehen, die mit Erfolg bei praktischen Fragestellungen angewendet worden sind. Hierzu sind im Einzelfall gutachterliche Feststellungen zu treffen. Ergänzend sind folgende Anwendungshinweise zu beachten:  
-Wenn im Einzelfall einer schädlichen Bodenveränderung oder Altlast ein Zutritt von sauren Sickerwässern, ein Zutritt von Lösevermittlern bzw. eine Änderung des Redoxpotentials zu erwarten ist, sollten entsprechende weitere Extraktionsverfahren angewendet werden. Bei der Abschätzung des Schadstoffeintrags im Übergangsbereich von der ungesättigten zur gesättigten Zone ist insbesondere die Abbau- und Rückhaltewirkung der ungesättigten Zone zu berücksichtigen. Hierbei sind vor allem folgende Kriterien maßgebend:
-
-\-  
-Grundwasserflurabstand,
-
-\-  
-Bodenart,
-
-\-  
-Gehalt an organischer Substanz (Humusgehalt),
-
-\-  
-ph-Wert,
-
-\-  
-Grundwasserneubildungsrate/Sickerwasserrate,
-
-\-  
-Mobilität und Abbaubarkeit der Stoffe.
-
-Der Einfluß dieser Faktoren auf die Stoffrückhaltung in der ungesättigten Zone wird auf Grund allgemein vorliegender wissenschaftlicher Erkenntnisse und Erfahrungen für den jeweiligen Standort abgeschätzt. Auch der Einsatz von Stofftransportmodellen kann zweckmäßig sein. Bei direkter Beprobung und Untersuchung von Sickerwasser ist bei der Bewertung der gemessenen Stoffkonzentrationen deren witterungsbedingte Dynamik zu berücksichtigen.
-
-  
-4. Qualitätssicherung
-
-4.1  
-Probennahme und Probenlagerung
-
-Die Festlegung der Probennahmestellen und der Beprobungstiefen sowie die Probennahme sind durch hierfür qualifiziertes Personal durchzuführen. Probennahme, Probentransport und Probenlagerung haben so zu erfolgen, daß eine Beeinflussung der chemischen, physikalischen und biologischen Beschaffenheit des Probenmaterials durch Arbeitsverfahren und/oder -materialien sowie aus Lagerungsbedingungen so weit wie möglich ausgeschlossen wird. Die Probennahme ist zu dokumentieren. Die Dokumentation soll alle für die Laboruntersuchung und die Auswertung der Untersuchungsergebnisse relevanten Informationen enthalten, insbesondere Angaben zu
-
-\-  
-Probennahmezeitpunkt, Probennehmer,
-
-\-  
-der Lage der Untersuchungsfläche und der Probennahmepunkte,
-
-\-  
-Flächenbezeichnung,
-
-\-  
-Beprobungstiefe,
-
-\-  
-Bodenhorizonten, gemäß Bodenkundlicher Kartieranleitung, 4. Auflage, berichtigter Nachdruck 1996,
-
-\-  
-Schichtenverzeichnis,
-
-\-  
-Entnahmeverfahren,
-
-\-  
-ehemaliger und gegenwärtiger Flächennutzung, Vorkenntnissen zu Kontaminationen.
-
-Bestehende Normen, Regelungen der Länder und fachliche Regeln zur Qualitätssicherung sind zu beachten.
-
-  
-4.2  
-Probenvorbehandlung und Analytik
-
-Es sind geeignete interne und externe Qualitätssicherungsmaßnahmen, insbesondere hinsichtlich der Reproduzierbarkeit (Präzision) und Richtigkeit der Untersuchungsergebnisse, durchzuführen, zu überwachen und zu dokumentieren. Interne Qualitätssicherungsmaßnahmen sind insbesondere:
-
-\-  
-die Durchführung von unabhängigen Mehrfachbestimmungen,
-
-\-  
-die Kalibrierung von Meß- und Prüfmitteln,
-
-\-  
-der Einsatz zertifizierter und/oder laborinterner Referenzmaterialien zur Qualitätskontrolle von Reproduzierbarkeit und Richtigkeit,
-
-\-  
-Plausibilitätskontrolle der Untersuchungsergebnisse.
-
-Externe Qualitätssicherungsmaßnahmen sind insbesondere:
-
-\-  
-die erfolgreiche Teilnahme an Vergleichsprüfungen, insbesondere Ringversuche,
-
-\-  
-Kompetenzbestätigung gemäß DIN EN 45001: 05.90.
-
-Für die angewendeten Untersuchungsverfahren sind die Nachweis- und Bestimmungsgrenzen nach DIN 32645: 05.94 anzugeben. Das Bestimmungsverfahren ist so auszuwählen, daß auf Grund der Bestimmungsgrenze die Über- und Unterschreitung der entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte nach Anhang 2 sicher beurteilt werden kann. Die angewendeten Bestimmungsverfahren sind zu dokumentieren. Für das Analysenergebnis ist eine Meßunsicherheit gemäß DIN 1319-3: 05.96 und/oder DIN 1319-4: 12.85 anzugeben.
-
-  
-5. Abkürzungsverzeichnis
-
-5.1  
-Maßeinheiten
-
-1 ng (Nanogramm)
-
-= 10(hoch)-9 g
-
-= 0,000 000 001 Gramm
-
-1 myg (Mikrogramm)
-
-= 10(hoch)-6 g
-
-= 0,000 001 Gramm
-
-1 mg (Milligramm)
-
-= 10(hoch)-3 g
-
-= 0,001 Gramm
-
-1 kg (Kilogramm)
-
-= 10(hoch) 3 g
-
-= 1 000 Gramm
-
-1 mym (Mikrometer)
-
-= 10(hoch)-6 m
-
-= 0,000 001 Meter
-
-1 mm (Millimeter)
-
-= 10(hoch)-3 m
-
-= 0,001 Meter
-
-1 cm (Zentimeter)
-
-= 10(hoch)-2 m
-
-= 0,01 Meter
-
-1 ha (Hektar)
-
-= 10(hoch) 4 qm
-
-= 10 000 Quadratmeter
-
-Grad C - Grad Celsius
-
-5.2
-
-Instrumentelle Analytik
-
-AAS
-
-\-
-
-Atomabsorptionsspektrometrie
-
-ET AAS
-
-\-
-
-Atomabsorptionsspektrometrie mit elektrothermaler Anregung
-
-ICP-AES
-
-\-
-
-Atomemissionsspektrometrie mit induktiv gekoppeltem Plasma
-
-GC
-
-\-
-
-Gaschromatographie
-
-HPLC
-
-\-
-
-Hochleistungsflüssigkeitschromatographie
-
-Detektoren (GC, HPLC):
-
-DAD
-
-\-
-
-Dioden-Array-Detektor
-
-ECD
-
-\-
-
-Elektroneneinfangdetektor
-
-FID
-
-\-
-
-Flammenionisationsdetektor
-
-F
-
-\-
-
-Fluoreszenzdetektor
-
-UV
-
-\-
-
-Ultraviolett-Detektor
-
-MS
-
-\-
-
-Massenspektrometer
-
-5.3
-
-Sonstige Abkürzungen
-
-TM
-
-\-
-
-Trockenmasse
-
-I-TEq
-
-\-
-
-Internationale Toxizitätsäquivalente
-
-PTFE
-
-\-
-
-Polytetrafluorethylen
-
-6 PCB-Kongonere (PCB(tief)6) nach Ballschmiter:
-
-Nr. 28:
-
-2,4,4'
-
-Trichlorbiphenyl
-
-Nr. 52:
-
-2,2',5,5'
-
-Tetrachlorbiphenyl
-
-Nr. 101:
-
-2,2',4,5,5'
-
-Pentachlorbiphenyl
-
-Nr. 138:
-
-2,2',3,4,4',5'
-
-Hexachlorbiphenyl
-
-Nr. 153:
-
-2,2',4,4',5,5'
-
-Hexachlorbiphenyl
-
-Nr. 180:
-
-2,2',3,4,4',5,5'
-
-Heptachlorbiphenyl
-
-16 PAK (EPA):
-
-Naphthalin
-
-Acenaphthylen
-
-Acenaphthen
-
-Fluoren
-
-Phenanthren
-
-Anthracen
-
-Fluoranthen
-
-Pyren
-
-Benz(a)anthracen
-
-Chrysen
-
-Benzo(b)fluoranthen
-
-Benzo(k)fluoranthen
-
-Benzo(a)pyren
-
-Dibenz(a,h)anthracen
-
-Indeno(1,2,3-cd)pyren
-
-Benzo(g,h,i)perylen
-
-  
-6. Normen, Technische Regeln und sonstige Methoden, Bezugsquellen
-
-6.1  
-Normen, Technische Regeln und sonstige Methoden
-
-E DIN ISO 10381 - 1: 02.96  
-Bodenbeschaffenheit - Probenahme - Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen (ISO/DIS 10381 - 1: 1995)  
-E DIN ISO 10381 - 2: 02.96  
-Bodenbeschaffenheit - Probenahme - Teil 2: Anleitung für Probenahmeverfahren (ISO/DIS 10381 - 2: 1995)  
-E DIN ISO 10381 - 3: 02.96  
-Bodenbeschaffenheit - Probenahme - Teil 3: Anleitung zur Sicherheit (ISO/DIS 10381 - 3: 1995)  
-E DIN ISO 10381 - 4: 02.96  
-Bodenbeschaffenheit - Probenahme - Teil 4: Anleitung für das Vorgehen bei der Untersuchung von natürlichen, naturnahen und Kulturstandorten (ISO/DIS 10381 - 4: 1995)  
-E DIN ISO 10382: 02.98  
-Bodenbeschaffenheit - Gaschromatographische Bestimmung des Gehaltes an polychlorierten Biphenylen (PCB) und Organopestiziden (OCP) (ISO/CD 10382: 1995)  
-DIN ISO 10390: 05.97  
-Bodenbeschaffenheit - Bestimmung des pH-Wertes (ISO 10390: 1994)  
-DIN ISO 10694: 08.96  
-Bodenbeschaffenheit - Bestimmung von organischem Kohlenstoff und Gesamtkohlenstoff nach trockener Verbrennung (Elementaranalyse) (ISO 10694: 1995)  
-ISO/TR 11046: 06.94  
-Soil quality - Determination of mineral oil content - Methods by infrared spectrometry and gas chromatographic method  
-E DIN ISO 11047: 06.95  
-Bodenbeschaffenheit - Bestimmung von Cadmium, Chrom, Cobalt, Kupfer, Blei, Mangan, Nickel und Zink - Flammen- und elektrothermisches atomabsorptionsspektrometrisches Verfahren (ISO/DIS 11047)  
-E DIN ISO 11262: 06.94  
-Bodenbeschaffenheit - Bestimmung von Cyaniden  
-E DIN ISO 11272: 01.94  
-Bodenbeschaffenheit - Bestimmung der Trockenrohdichte (ISO/DIS 11272: 1992)  
-E DIN ISO 11277: 06.94  
-Bodenbeschaffenheit - Bestimmung der Partikelgrößenverteilung in Mineralböden - Verfahren durch Sieben und Sedimentation nach Entfernen der löslichen Salze, der organischen Substanz und der Carbonate (ISO/DIS 11277: 1994)  
-DIN ISO 11464: 12.96  
-Bodenbeschaffenheit - Probenvorbehandlung für physikalisch-chemische Untersuchungen (ISO/DIS 11464: 1994)  
-DIN ISO 11465: 12.96  
-Bodenbeschaffenheit - Bestimmung des Trockenrückstandes und des Wassergehalts auf Grundlage der Masse - Gravimetrisches Verfahren (ISO 11465: 1993)  
-DIN ISO 11466: 06.97  
-Bodenbeschaffenheit - Extraktion in Königswasser löslicher Spurenelemente (ISO 11466: 1995)  
-E DIN ISO 13877: 06.95  
-Bodenbeschaffenheit - Bestimmung von polycyclischen aromatischen Kohlenwasserstoffen (PAK) - Hochleistungs-Flüssigkeitschromatographie (HPLC) Verfahren (ISO/DIS 13877)  
-E DIN ISO 14154: 10.97  
-Bodenbeschaffenheit - Bestimmung von ausgewählten Chlorphenolen in Böden - Gaschromatographisches Verfahren (ISO/CD 14154: 1997)  
-E DIN ISO 14507: 02.96  
-Bodenbeschaffenheit - Probenvorbehandlung für die Bestimmung von organischen Verunreinigungen in Böden (ISO/DIS 14507)  
-DIN 19730: 06.97  
-Bodenbeschaffenheit - Extraktion von Spurenelementen mit Ammoniumnitratlösung  
-DIN 19731: 05.98  
-Bodenbeschaffenheit - Verwertung von Bodenmaterial  
-DIN 19734: 01.99  
-Bodenbeschaffenheit - Bestimmung von Chrom(VI) in phosphatgepufferter Lösung  
-DIN 19682 - 2: 04.97  
-Bodenuntersuchungsverfahren im Landwirtschaftlichen Wasserbau - Felduntersuchungen - Teil 2: Bestimmung der Bodenart  
-DIN 19683 - 2: 04.97  
-Bodenuntersuchungsverfahren im Landwirtschaftlichen Wasserbau - Physikalische Laboruntersuchungen, Bestimmung der Korngrößenzusammensetzung nach Vorbehandlung mit Natriumpyrophosphat  
-DIN 19683 - 12: 04.73  
-Bodenuntersuchungsverfahren im Landwirtschaftlichen Wasserbau; Physikalische Laboruntersuchungen, Bestimmung der Rohdichte  
-DIN EN 1233: 08.96  
-Wasserbeschaffenheit - Bestimmung von Chrom - Verfahren mittels Atomabsorptionsspektrometrie; Deutsche Fassung EN 1233: 1996  
-DIN EN ISO 5667 - 3: 04.96  
-Wasserbeschaffenheit - Probenahme - Teil 3: Anleitung zur Konservierung und Handhabung von Proben (ISO 5667 - 3: 1994); Deutsche Fassung EN ISO 5667 - 3: 1995 (A 21)  
-DIN EN ISO 5961: 05.95  
-Wasserbeschaffenheit - Bestimmung von Cadmium durch Atomabsorptionsspektrometrie (ISO 5961: 1994); Deutsche Fassung EN ISO 5961: 1995 (A 19)  
-DIN EN ISO 6468: 02.97  
-Wasserbeschaffenheit - Bestimmung ausgewählter Organoinsektizide, Polychlorbiphenyle und Chlorbenzole; Gaschromatographisches Verfahren nach Flüssig-Flüssig-Extraktion (ISO 6468: 1996); Deutsche Fassung EN ISO 6468: 1996  
-ISO/DIS 8165 - 2: 01.97  
-Water quality - Determination of Selected Monohydric Phenols by Derivatisation and Gas Chromatography  
-DIN EN ISO 10301: 08.97  
-Wasserbeschaffenheit - Bestimmung leichtflüchtiger halogenierter Kohlenwasserstoffe - Gaschromatographische Verfahren (ISO 10301: 1997); Deutsche Fassung EN ISO 10301: 1997  
-DIN EN ISO 10304 - 1: 04.95  
-Wasserbeschaffenheit - Bestimmung der gelösten Anionen Fluorid, Chlorid, Nitrit, Orthophosphat, Bromid, Nitrat und Sulfat mittels Ionenchromatographie - Teil 1: Verfahren für gering belastete Wässer (ISO 10304 - 1: 1992); Deutsche Fassung EN ISO 10304 - 1: 1995 (D 19)  
-DIN EN ISO 10304 - 3: 11.97  
-Wasserbeschaffenheit - Bestimmung der gelösten Anionen mittels Ionenchromatographie - Teil 3: Bestimmung von Chromat, Iodid, Sulfit, Thiocyanat und Thiosulfat (ISO 10304 - 3: 1997); Deutsche Fassung EN ISO 10304 - 3: 1997 (D 22)  
-DIN EN ISO 11885: 04.98  
-Wasserbeschaffenheit - Bestimmung von 33 Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ISO 11885: 1996); Deutsche Fassung EN ISO 11885: 1997  
-DIN EN ISO 11969: 11.96  
-Wasserbeschaffenheit - Bestimmung von Arsen - Atomabsorptionsspektrometrie (Hydridverfahren)  
-E DIN EN ISO 14403: 05.98  
-Wasserbeschaffenheit - Bestimmung des gesamten Cyanids und des freien Cyanids mit der kontinuierlichen Fließanalytik (ISO/DIS 14403: 1998); Deutsche Fassung prEN ISO 14403: 1998  
-DIN 38405 - 4: 07.85  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Anionen (Gruppe D); Bestimmung von Fluorid (D 4)  
-DIN 38405 - 13: 02.81  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Anionen (Gruppe D); Bestimmung von Cyaniden (D 13)  
-DIN 38405 - 23: 10.94  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Anionen (Gruppe D) - Teil 23: Bestimmung von Selen mittels Atomabsorptionsspektrometrie (AAS) (D 23)  
-DIN 38405 - 24: 05.87  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Anionen (Gruppe D) - Teil 24: Photometrische Bestimmung von Chrom(VI) mittels 1,5-Diphenylcarbazid (D 24)  
-DIN 38406 - 6: 07.98  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Kationen (Gruppe E) - Bestimmung von Blei mittels Atomabsorptionsspektrometrie (AAS) (E 6)  
-DIN 38406 - 7: 09.91  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Kationen (Gruppe E); Bestimmung von Kupfer mittels Atomabsorptionsspektrometrie (AAS) (E 7)  
-DIN 38406 - 8: 10.80  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Kationen (Gruppe E); Bestimmung von Zink (E 8)  
-DIN 38406 - 11: 09.91  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Kationen (Gruppe E); Bestimmung von Nickel mittels Atomabsorptionsspektrometrie (AAS) (E 11)  
-DIN 38406 - 24: 03.93  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Kationen (Gruppe E); Bestimmung von Cobalt mittels Atomabsorptionsspektrometrie (AAS) (E 24)  
-DIN 38407 - 2: 02.93  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Gemeinsam erfaßbare Stoffgruppen (Gruppe F); Gaschromatographische Bestimmung von schwerflüchtigen Halogenkohlenwasserstoffen (F 2)  
-DIN 38407 - 3: 07.98  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Gemeinsam erfaßbare Stoffgruppen (Gruppe F); Teil 3: Gaschromatographische Bestimmung von polychlorierten Biphenylen (F 3)  
-DIN 38407 - 8: 10.95  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Gemeinsam erfaßbare Stoffgruppen (Gruppe F); Bestimmung von 6 polycyclischen aromatischen Kohlenwasserstoffen (PAK) in Wasser mittels Hochleistungs-Flüssigkeitschromatographie (HPLC) mit Fluoreszenzdetektion (F 8)  
-DIN 38407 - 9: 05.91  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Gemeinsam erfaßbare Stoffgruppen (Gruppe F); Bestimmung von Benzol und einigen Derivaten mittels Gaschromatographie (F 9)  
-DIN 38414 - 2: 11.85  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Schlamm und Sedimente (Gruppe S); Bestimmung des Wassergehaltes und des Trockenrückstandes bzw. der Trockensubstanz (S 2)  
-DIN 38414 - 4: 10.84  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Schlamm und Sedimente (Gruppe S); Bestimmung der Eluierbarkeit mit Wasser (S 4)  
-DIN 38414 - 20: 01.96  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 20: Bestimmung von 6 polychlorierten Biphenylen (PCB) (S 20)  
-DIN 38414-24:2000-10  
-Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 24: Bestimmung von polychlorierten Dibenzodioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF) (S 24)  
-DIN EN 1483: 08.97  
-Wasseranalytik - Bestimmung von Quecksilber; Deutsche Fassung EN 1483: 1997 (E 12)  
-DIN 32645: 05.94  
-Chemische Analytik - Nachweis-, Erfassungs- und Bestimmungsgrenze - Ermittlung unter Wiederholungsbedingungen - Begriffe, Verfahren, Auswertung  
-DIN 1319 - 3: 05.96  
-Grundlagen der Meßtechnik - Teil 3: Auswertung von Messungen einer Meßgröße, Meßunsicherheit  
-DIN 1319 - 4: 12.85  
-Grundbegriffe der Meßtechnik; Behandlung von Unsicherheiten bei der Auswertung von Messungen  
-DIN EN 45001: 05.90  
-Allgemeine Kriterien zum Betreiben von Prüflaboratorien; Identisch mit EN 45001: 1989  
-DIN 4021: 10.90  
-Baugrund - Aufschluß durch Schürfe und Bohrungen sowie Entnahme von Proben  
-DIN 18123: 11.96  
-Baugrund - Untersuchung von Bodenproben - Bestimmung der Korngrößenverteilung  
-DIN EN 932 - 1: 11.96  
-Prüfverfahren für allgemeine Eigenschaften von Gesteinskörnungen - Teil 1: Probenahmeverfahren; Deutsche Fassung EN 932-1: 1996  
-DIN 52101: 03.88  
-Prüfung von Naturstein und Gesteinskörnungen - Probenahme  
-DIN 51527 - 1: 05.87  
-Prüfung von Mineralölerzeugnissen; Bestimmung polychlorierter Biphenyle (PCB) - Flüssigchromatographische Vortrennung und Bestimmung 6 ausgewählter PCB mittels eines Gaschromatographen mit Elektronen-Einfang-Detektor (ECD)  
-ZH 1/183: 04.97  
-Regeln für Sicherheit und Gesundheitsschutz bei der Arbeit in kontaminierten Bereichen, Hauptverband der gewerblichen Berufsgenossenschaften - Fachausschuß Tiefbau, Ausgabe April 1997  
-VDI-Richtlinie 3865: Messen organischer Bodenverunreinigungen
-
-\-  
-Blatt 1: Messen leichtflüchtiger halogenierter Kohlenwasserstoffe, Meßplanung für Bodenluft-Untersuchungsverfahren (Okt. 1992);
-
-\-  
-Blatt 2: Techniken für die aktive Entnahme von Bodenluftproben (Januar 1998);
-
-\-  
-Blatt 3: Messen organischer Bodenverunreinigungen; Gaschromatographische Bestimmung von niedrigsiedenden organischen Verbindungen in Bodenluft nach Anreicherung an Aktivkohle oder XAD-4 und Desorption mit organischen Lösungsmitteln (Entwurf November 1996);
-
-  
-Arbeitsgruppe Bodenkunde der Geologischen Landesämter und der Bundesanstalt für Geowissenschaften und Rohstoffe (1994): Bodenkundliche Kartieranleitung. - 4. Auflage, berichtigter Nachdruck Hannover 1996, E. Schweizerbart'sche Verlagsbuchhandlung Stuttgart  
-Landesumweltamt Nordrhein-Westfalen (LUA NRW): Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Bodenproben. Merkblätter LUA NRW Nr. 1, Essen 1994  
-Hessische Landesanstalt für Umwelt (LfU HE): Bestimmung von Polycyclischen Aromatischen Kohlenwasserstoffen in Feststoffen aus dem Altlastenbereich. Handbuch Altlasten, Band 7, Wiesbaden 1998  
-Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA): Methodenbuch, Band VII Umweltanalytik, VDLUFA-Verlag Darmstadt 1996
-
-  
-6.2  
-Bezugsquellen
-
-Die in dieser Verordnung aufgeführten Normen, Technische Regeln und sonstigen Methodenvorschriften sind zu beziehen:
-
-a) DIN- und ISO-Normen und Normentwürfe, VDI-Richtlinien: Beuth-Verlag GmbH, 10772 Berlin
-
-b) Bodenkundliche Kartieranleitung: E. Schweizerbart'sche Verlagsbuchhandlung, 70176 Stuttgart
-
-c) VDLUFA-Methodenbuch: VDLUFA-Verlag, 64293 Darmstadt
-
-d) Merkblatt LUA NRW: Landesumweltamt NRW, 45023 Essen
-
-e) Handbuch Altlasten LfU HE: Hessische Landesanstalt für Umwelt, 65022 Wiesbaden
-
-f) ZH 1/183: Hauptverband der gewerblichen Berufsgenossenschaften, Fachausschuß Tiefbau, 81241 München
-
-# Anhang 2
-
-(Fundstelle: BGBl. I 1999, 1575 - 1579)
-
-  
-  
-  
-  
-Maßnahmen-, Prüf- und Vorsorgewerte
-
-1. Wirkungspfad Boden - Mensch (direkter Kontakt)
-
-1.1  
-Abgrenzung der Nutzungen
-
-a) Kinderspielflächen
-
-Aufenthaltsbereiche für Kinder, die ortsüblich zum Spielen genutzt werden, ohne den Spielsand von Sandkästen. Amtlich ausgewiesene Kinderspielplätze sind ggf. nach Maßstäben des öffentlichen Gesundheitswesens zu bewerten.
-
-b) Wohngebiete
-
-Dem Wohnen dienende Gebiete einschließlich Hausgärten oder sonstige Gärten entsprechender Nutzung, auch soweit sie nicht im Sinne der Baunutzungsverordnung planungsrechtlich dargestellt oder festgesetzt sind, ausgenommen Park- und Freizeitanlagen, Kinderspielflächen sowie befestigte Verkehrsflächen.
-
-c) Park- und Freizeitanlagen
-
-Anlagen für soziale, gesundheitliche und sportliche Zwecke, insbesondere öffentliche und private Grünanlagen sowie unbefestigte Flächen, die regelmäßig zugänglich sind und vergleichbar genutzt werden.
-
-d) Industrie- und Gewerbegrundstücke
-
-Unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur während der Arbeitszeit genutzt werden.
-
-1.2  
-Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)  
-
- 
-
-<span id="FnA1-BJNR155400999BJNE002600305_001"></span><a href="#FnR.FnA1-BJNR155400999BJNE002600305_001" class="Footnote">1*)</a>  
-Summe der 2,3,7,8 - TCDD-Toxizitätsäquivalente (nach NATO/CCMS).
-
-1.3
-
-Anwendung der Maßnahmenwerte
-
-Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer ("Kieselrot") erfolgt eine Anwendung der Maßnahmenwerte aufgrund der geringen Resorption im menschlichen Organismus nicht unmittelbar zum Schutz der menschlichen Gesundheit als vielmehr zum Zweck der nachhaltigen Gefahrenabwehr.
-
-1.4  
-Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Schadstoffen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)  
-
-Prüfwerte (mg/kg TM)
-
-1) In Haus- und Kleingärten, die sowohl als Aufenthaltsbereiche für Kinder als auch für den Anbau von Nahrungspflanzen genutzt werden, ist für Cadmium der Wert von 2,0 mg/kg TM als Prüfwert anzuwenden.
-
- 
-
-Prüfwerte (mg/kg TM)
+Tabelle 1: Vorsorgewerte für anorganische Stoffe<span id="FnR.FnA1-F817098_02_01_01_01"></span><a href="#FnA1-F817098_02_01_01_01" class="FnR">1</a></sup>
 
 Stoff
 
-Kinderspielflächen
+Vorsorgewert bei Bodenart<span id="FnR.FnA1-F817098_02_01_01_02"></span><a href="#FnA1-F817098_02_01_01_02" class="FnR">2</a></sup> Sand
 
-Wohngebiete
+Vorsorgewert bei Bodenart<a href="#FnA1-F817098_02_01_01_02" class="FnR">2</a></sup> Lehm/Schluff
 
-Park- u. Freizeitanlagen
-
-Industrie- und Gewerbegrundstücke
-
-Hexachlorcyclohexan (HCH-Gemisch oder Beta-HCH)
-
-5
-
-10
-
-25
-
-400
-
-Pentachlorphenol
-
-50
-
-100
-
-250
-
-250
-
-Polychlorierte Biphenyle (PCB(tief)6) 2)
-
-0,4
-
-0,8
-
-2
-
-40
-
-2) Soweit PCB-Gesamtgehalte bestimmt werden, sind die ermittelten Meßwerte durch den Faktor 5 zu dividieren.
-
-<!-- -->
-
-2. Wirkungspfad Boden - Nutzpflanze
-
-2.1  
-Abgrenzung der Nutzungen
-
-a) Ackerbau
-
-Flächen zum Anbau wechselnder Ackerkulturen einschließlich Gemüse und Feldfutter, hierzu zählen auch erwerbsgärtnerisch genutzte Flächen.
-
-b) Nutzgarten
-
-Hausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau von Nahrungspflanzen genutzt werden
-
-c) Grünland
-
-Flächen unter Dauergrünland
-
-2.2  
-Prüf- und Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)  
+Vorsorgewert bei Bodenart<a href="#FnA1-F817098_02_01_01_02" class="FnR">2</a></sup>  
+Ton
 
  
 
-<span id="FnA2-BJNR155400999BJNE002600305_004"></span><a href="#FnR.FnA2-BJNR155400999BJNE002600305_004" class="Footnote">33)</a>  
-Auf Flächen mit Brotweizenanbau oder Anbau stark Cadmiumanreichernder Gemüsearten gilt als Maßnahmenwert 0,04 mg/kg Trockenmasse; ansonsten gilt als Maßnahmenwert 0,1 mg/kg Trockenmasse.
-
-<span id="FnA2-BJNR155400999BJNE002600305_003"></span><a href="#FnR.FnA2-BJNR155400999BJNE002600305_003" class="Footnote">22)</a>  
-Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert von 50 mg/kg Trockenmasse.
-
-<span id="FnA2-BJNR155400999BJNE002600305_002"></span><a href="#FnR.FnA2-BJNR155400999BJNE002600305_002" class="Footnote">11)</a>  
-Extraktionsverfahren für Arsen und Schwermetalle: AN = Ammoniumnitrat, KW = Königswasser.
-
-2.3
-
-Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-Extrakt, Analytik nach Anhang 1)  
-
- 
-
-Grünland
-
-Stoff
-
-Maßnahmenwert
+\[mg/kg TM\]
 
 Arsen
 
-50
+10
 
-Blei
+ 20
 
-1 200
+ 20
 
-Cadmium
+Blei<span id="FnR.FnA1-F817098_02_01_01_03"></span><a href="#FnA1-F817098_02_01_01_03" class="FnR">3</a></sup>
 
-20
+40
+
+ 70
+
+100
+
+Cadmium<span id="FnR.FnA1-F817098_02_01_01_04"></span><a href="#FnA1-F817098_02_01_01_04" class="FnR">4</a></sup>
+
+   0,4
+
+  1
+
+    1,5
+
+Chrom<sub>gesamt</sub>
+
+30
+
+ 60
+
+100
 
 Kupfer
 
-1 300 <span id="FnR.FnA3-BJNR155400999BJNE002600305_005"></span><a href="#FnA3-BJNR155400999BJNE002600305_005" class="FnR">11)</a></sup>
+20
 
-Nickel
+ 40
 
-1 900
+ 60
 
-Quecksilber
-
-2
-
-Thallium
+Nickel<span id="FnR.FnA1-F817098_02_01_01_05"></span><a href="#FnA1-F817098_02_01_01_05" class="FnR">5</a></sup>
 
 15
 
-Polychlorierte Biphenyle (PCB(tief)6)
+ 50
 
-0,2
+ 70
 
-  
+Quecksilber
 
-<span id="FnA3-BJNR155400999BJNE002600305_005"></span><a href="#FnR.FnA3-BJNR155400999BJNE002600305_005" class="Footnote">11)</a>  
-Bei Grünlandnutzung durch Schafe gilt als Maßnahmenwert 200 mg/kg Trockenmasse.
+   0,2
 
-2.4
+    0,3
 
-Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Pflanze auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen (in mg/kg Trockenmasse, Feinboden, im Ammoniumnitrat-Extrakt, Analytik nach Anhang 1)  
+    0,3
+
+Thallium
+
+   0,5
+
+  1
+
+  1
+
+Zink<span id="FnR.FnA1-F817098_02_01_01_06"></span><a href="#FnA1-F817098_02_01_01_06" class="FnR">6</a></sup>
+
+60
+
+150
+
+200
+
+<span id="FnA1-F817098_02_01_01_01"></span><a href="#FnR.FnA1-F817098_02_01_01_01" class="Footnote">1</a>  
+Die Vorsorgewerte finden für Böden und Materialien mit einem nach Anlage 3 Tabelle 1 bestimmten Gehalt an organischem Kohlenstoff (TOC-Gehalt) von mehr als 9 Masseprozent keine Anwendung. Für diese Böden und Materialien müssen die maßgeblichen Werte im Einzelfall in Anlehnung an regional vergleichbarer Bodenverhältnisse abgeleitet werden.
+
+<span id="FnA1-F817098_02_01_01_02"></span><a href="#FnR.FnA1-F817098_02_01_01_02" class="Footnote">2</a>  
+Bodenarten-Hauptgruppen gemäß Bodenkundlicher Kartieranleitung, 5. Auflage, Hannover 2009 (KA 5); stark schluffige Sande, lehmig-schluffige Sande und stark lehmige Sande sind entsprechend der Bodenart Lehm/Schluff zu bewerten.
+
+<span id="FnA1-F817098_02_01_01_03"></span><a href="#FnR.FnA1-F817098_02_01_01_03" class="Footnote">3</a>  
+Bei Blei gelten bei einem pH-Wert &lt; 5,0 bei der Bodenart Ton die Vorsorgewerte der Bodenart Lehm/Schluff und bei der Bodenart Lehm/Schluff die Vorsorgewerte der Bodenart Sand.
+
+<span id="FnA1-F817098_02_01_01_04"></span><a href="#FnR.FnA1-F817098_02_01_01_04" class="Footnote">4</a>  
+Bei Cadmium gelten bei einem pH-Wert &lt; 6,0 bei der Bodenart Ton die Vorsorgewerte der Bodenart Lehm/Schluff und bei der Bodenart Lehm/Schluff die Vorsorgewerte der Bodenart Sand.
+
+<span id="FnA1-F817098_02_01_01_05"></span><a href="#FnR.FnA1-F817098_02_01_01_05" class="Footnote">5</a>  
+Bei Nickel gelten bei einem pH-Wert &lt; 6,0 bei der Bodenart Ton die Vorsorgewerte der Bodenart Lehm/Schluff und bei der Bodenart Lehm/Schluff die Vorsorgewerte der Bodenart Sand.
+
+<span id="FnA1-F817098_02_01_01_06"></span><a href="#FnR.FnA1-F817098_02_01_01_06" class="Footnote">6</a>  
+Bei Zink gelten bei einem pH-Wert &lt; 6,0 bei der Bodenart Ton die Vorsorgewerte der Bodenart Lehm/Schluff und bei der Bodenart Lehm/Schluff die Vorsorgewerte der Bodenart Sand.
 
  
 
-Ackerbau
+Tabelle 2: Vorsorgewerte für organische Stoffe
+
+Stoff
+
+Vorsorgewert bei  
+TOC-Gehalt ≤ 4 %
+
+Vorsorgewert bei  
+TOC-Gehalt &gt; 4 % bis 9 %<span id="FnR.FnA2-F817098_02_01_02_01"></span><a href="#FnA2-F817098_02_01_02_01" class="FnR">1</a></sup>
+
+ 
+
+\[mg/kg TM\]
+
+Summe aus PCB<sub>6</sub> und PCB-118<span id="FnR.FnA2-F817098_02_01_02_02"></span><a href="#FnA2-F817098_02_01_02_02" class="FnR">2</a></sup>
+
+   0,05
+
+  0,1
+
+Benzo(a)pyren
+
+  0,3
+
+  0,5
+
+PAK<sub>16</sub><span id="FnR.FnA2-F817098_02_01_02_03"></span><a href="#FnA2-F817098_02_01_02_03" class="FnR">3</a></sup>
+
+3
+
+5
+
+<span id="FnA2-F817098_02_01_02_01"></span><a href="#FnR.FnA2-F817098_02_01_02_01" class="Footnote">1</a>  
+Für Böden mit einem TOC-Gehalt von mehr als 9 Masseprozent müssen die maßgeblichen Werte im Einzelfall abgeleitet werden.
+
+<span id="FnA2-F817098_02_01_02_02"></span><a href="#FnR.FnA2-F817098_02_01_02_02" class="Footnote">2</a>  
+Summe aus PCB<sub>6</sub> und PCB-118: Stellvertretend für die Gruppe der polychlorierten Biphenyle (PCB) werden für PCB-Gemische sechs Leit-Kongenere nach Ballschmiter (PCB-Nummer 28, 52, 101, 138, 153, 180) sowie PCB-118 untersucht.
+
+<span id="FnA2-F817098_02_01_02_03"></span><a href="#FnR.FnA2-F817098_02_01_02_03" class="Footnote">3</a>  
+PAK<sub>16</sub>: Stellvertretend für die Gruppe der polyzyklischen aromatischen Kohlenwasserstoffe (PAK) werden nach der Liste der Environmental Protection Agency (EPA) 16 ausgewählte PAK untersucht: Acenaphthen, Acenaphthylen, Anthracen, Benzo\[a\]anthracen, Benzo\[a\]pyren, Benzo\[b\]fluoranthen, Benzo\[g,h,i\]perylen, Benzo\[k\]fluoranthen, Chrysen, Dibenzo\[a,h\]anthracen, Fluoranthen, Fluoren, Indeno\[1,2,3-cd\]pyren, Naphthalin, Phenanthren und Pyren.
+
+ 
+
+Tabelle 3: Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Eintragspfade
+
+Stoff
+
+Fracht
+
+ 
+
+\[g/ha·a\]
+
+Arsen
+
+   35
+
+Blei
+
+  200
+
+Cadmium
+
+    5
+
+Chrom<sub>gesamt</sub>
+
+  150
+
+Kupfer
+
+  300
+
+Nickel
+
+   75
+
+Quecksilber
+
+    1
+
+Thallium
+
+      1,5
+
+Zink
+
+1 200
+
+Benzo(a)pyren
+
+    1
+
+ 
+
+Tabelle 4: Werte zur Beurteilung von Materialien für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
+
+Hinweis: Die Eluatwerte sind mit Ausnahme des Eluatwertes für Sulfat nur maßgeblich, wenn für den betreffenden Stoff der jeweilige Vorsorgewert nach Tabelle 1 oder 2 überschritten wird.
+
+Stoff
+
+Feststoffwert
+
+Eluatwert
+
+ 
+
+ 
+
+bei TOC-Gehalt  
+&lt; 0,5 %
+
+bei TOC-Gehalt  
+≥ 0,5 %
+
+ 
+
+\[mg/kg TM\]
+
+\[µg/l\]
+
+Anorganische Stoffe
+
+ 
+
+ 
+
+ 
+
+Arsen
+
+ 20
+
+      8
+
+     13
+
+Blei
+
+140
+
+     23
+
+     43
+
+Cadmium
+
+  1
+
+      2
+
+      4
+
+Chrom<sub>gesamt</sub>
+
+120
+
+     10
+
+     19
+
+Kupfer
+
+ 80
+
+     20
+
+     41
+
+Nickel
+
+100
+
+     20
+
+     31
+
+Quecksilber
+
+    0,6
+
+        0,1
+
+        0,1
+
+Thallium
+
+  1
+
+        0,2
+
+        0,3
+
+Zink
+
+300
+
+    100
+
+    210
+
+Sulfat<span id="FnR.FnA3-F817098_02_01_04_01"></span><a href="#FnA3-F817098_02_01_04_01" class="FnR">1</a></sup>
+
+ 
+
+250 000
+
+250 000
+
+Organische Stoffe
+
+ 
+
+ 
+
+ 
+
+Summe aus PCB<sub>6</sub> und PCB-118
+
+    0,1
+
+         0,01
+
+         0,01
+
+PAK<sub>16</sub>
+
+  6
+
+ 
+
+ 
+
+PAK<sub>15</sub><span id="FnR.FnA3-F817098_02_01_04_02"></span><a href="#FnA3-F817098_02_01_04_02" class="FnR">2</a></sup>
+
+ 
+
+         0,2<span id="FnR.FnA3-F817098_02_01_04_03"></span><a href="#FnA3-F817098_02_01_04_03" class="FnR">3</a></sup>
+
+         0,2<a href="#FnA3-F817098_02_01_04_03" class="FnR">3</a></sup>
+
+Naphthalin und Methylnaphthaline
+
+ 
+
+       2<a href="#FnA3-F817098_02_01_04_03" class="FnR">3</a></sup>
+
+       2<a href="#FnA3-F817098_02_01_04_03" class="FnR">3</a></sup>
+
+Extrahierbare organisch gebundene  
+Halogene (EOX)<span id="FnR.FnA3-F817098_02_01_04_04"></span><a href="#FnA3-F817098_02_01_04_04" class="FnR">4</a></sup>
+
+  1
+
+ 
+
+ 
+
+<span id="FnA3-F817098_02_01_04_01"></span><a href="#FnR.FnA3-F817098_02_01_04_01" class="Footnote">1</a>  
+Bei Überschreitung des Wertes ist die Ursache zu prüfen. Handelt es sich um naturbedingt erhöhte Sulfatkonzentrationen, ist eine Verwertung innerhalb der betroffenen Gebiete möglich. Außerhalb dieser Gebiete ist über die Verwertungseignung im Einzelfall und in Abstimmung mit der zuständigen Behörde zu entscheiden.
+
+<span id="FnA3-F817098_02_01_04_02"></span><a href="#FnR.FnA3-F817098_02_01_04_02" class="Footnote">2</a>  
+PAK<sub>15</sub>: PAK<sub>16</sub> ohne Naphthalin und Methylnaphthaline.
+
+<span id="FnA3-F817098_02_01_04_03"></span><a href="#FnR.FnA3-F817098_02_01_04_03" class="Footnote">3</a>  
+Eluatwert ist maßgeblich, wenn der Vorsorgewert von PAK<sub>16</sub> nach Anlage 1 Tabelle 2 überschritten wird.
+
+<span id="FnA3-F817098_02_01_04_04"></span><a href="#FnR.FnA3-F817098_02_01_04_04" class="Footnote">4</a>  
+Bei Überschreitung des Wertes sind die Materialien auf fallspezifische Belastungen hin zu untersuchen.
+
+ 
+
+Tabelle 5: Werte für zusätzlich zu untersuchende Stoffe beim Auf- oder Einbringen von Materialien mit mehr als 10 % Volumenprozent mineralischer Fremdbestandteile unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
+
+Stoff
+
+Feststoffwert
+
+Eluatwert
+
+ 
+
+ 
+
+bei TOC-Gehalt  
+&lt; 0,5 %
+
+bei TOC-Gehalt  
+≥ 0,5 %
+
+ 
+
+\[mg/kg TM\]
+
+\[µg/l\]
+
+Antimon
+
+  4
+
+ 5
+
+ 5
+
+Kobalt
+
+ 50
+
+26
+
+62
+
+Molybdän
+
+  4
+
+35
+
+35
+
+Selen
+
+  3
+
+ 5
+
+ 5
+
+Vanadium
+
+200
+
+20
+
+35
+
+# Anlage 2 – (zu § 10 Absatz 4, § 12 Absatz 3, § 15 Absatz 1 Satz 1 und Absatz 2,§ 24 Absatz 4 Nummer 3, 4 und 5, Absatz 5 und 6 Nummer 1 und 2,Absatz 7 Nummer 2 und 3, Absatz 9 Nummer 2 und Absatz 10 Nummer 2)Prüf- und Maßnahmenwert
+
+(Fundstelle: BGBl. I 2021, 2734 - 2739)
+
+ 
+
+Tabelle 1: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme
+
+Stoff
+
+Prüfwert bei  
+TOC-Gehalt &lt; 0,5%
+
+Prüfwert bei  
+TOC-Gehalt ≥ 0,5%
+
+ 
+
+\[µg/l\]
+
+Antimon
+
+   10
+
+   10
+
+Arsen
+
+   15
+
+   25
+
+Blei
+
+   45
+
+   85
+
+Bor
+
+1 000
+
+1 000
+
+Cadmium
+
+    4
+
+      7,5
+
+Chrom<sub>gesamt</sub>
+
+   50
+
+   50
+
+Chrom<sub>VI</sub>
+
+    8
+
+    8
+
+Kobalt
+
+   50
+
+  125
+
+Kupfer
+
+   50
+
+   80
+
+Molybdän
+
+   70
+
+   70
+
+Nickel
+
+   40
+
+   60
+
+Quecksilber
+
+    1
+
+    1
+
+Selen
+
+   10
+
+   10
+
+Zink
+
+  600
+
+  600
+
+Cyanide<sub>gesamt</sub>
+
+   50
+
+   50
+
+Cyanid<sub>leicht\ freisetzbar</sub>
+
+   10
+
+   10
+
+Fluorid
+
+1 500
+
+1 500
+
+ 
+
+Tabelle 2: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser im Sickerwasser am Ort der Beurteilung
 
 Stoff
 
 Prüfwert
 
-Arsen
+ 
 
-0,4
-
-Kupfer
-
-1
-
-Nickel
-
-1,5
-
-Zink
-
-2
-
-2.5
-
-Anwendung der Prüf- und Maßnahmenwerte
-
-Die Prüf- und Maßnahmenwerte gelten für die Beurteilung der Schadstoffgehalte in der Bodentiefe von 0 bis 30 cm bei Ackerbauflächen und in Nutzgärten sowie in der Bodentiefe von 0 bis 10 cm bei Grünland entsprechend Anhang 1 Nr. 2.1 Tabelle 1. Für die in Anhang 1 Nr. 2.1 Tabelle 1 genannten größeren Bodentiefen gelten die 1,5fachen Werte.
-
-3. Wirkungspfad Boden - Grundwasser
-
-3.1  
-Prüfwerte zur Beurteilung des Wirkungspfads Boden - Grundwasser nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes (in myg/l, Analytik nach Anhang 1)
-
-  
-
-Anorganische Stoffe
-
-Prüfwert (myg/l)
+\[µg/l\]
 
 Antimon
 
-10
+    5
 
 Arsen
 
-10
+   10
 
 Blei
 
-25
+   10
+
+Bor
+
+1 000
 
 Cadmium
 
-5
+    3
 
-Chrom, gesamt
+Chrom<sub>gesamt</sub>
 
-50
+   50
 
-Chromat
+Chrom<sub>VI</sub>
 
-8
+    8
 
 Kobalt
 
-50
+   10
 
 Kupfer
 
-50
+   50
 
 Molybdän
 
-50
+   35
 
 Nickel
 
-50
+   20
 
 Quecksilber
 
-1
+    1
 
 Selen
 
-10
+   10
 
 Zink
 
-500
+  600
 
-Zinn
+Cyanide<sub>gesamt</sub>
 
-40
+   50
 
-Cyanid, gesamt
+Cyanide<sub>leicht\ freisetzbar</sub>
 
-50
-
-Cyanid, leicht  
-freisetzbar
-
-10
+   10
 
 Fluorid
 
-750
+1 500
 
  
 
-Organische Stoffe
+Tabelle 3: Prüfwerte für organische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme und im Sickerwasser am Ort der Beurteilung
 
-Prüfwert (myg/l)
+Stoff
 
-Mineralölkohlenwasserstoffe 1)
+Prüfwert
 
-200
+ 
 
-BTEX 2)
-
-20
-
-Benzol
-
-1
-
-LHKW 3)
-
-10
+\[µg/l\]
 
 Aldrin
 
-0,1
+     0,03
 
-DDT
+Summe alkylierte Benzole (BTEX)<span id="FnR.FnA1-F817098_02_02_03_01"></span><a href="#FnA1-F817098_02_02_03_01" class="FnR">1</a></sup>
 
-0,1
+ 20
 
-Phenole
+Benzol
 
-20
+  1
 
-PCB, gesamt 4)
+Summe Chlorbenzole
 
-0,05
+  2
 
-PAK, gesamt 5)
+Chlorethen (Vinylchlorid)
 
-0,20
+    0,5
 
-Naphthalin
+Summe Chlorphenole
 
-2
+  2
 
-1) n-Alkane (C 10 C39), Isoalkane, Cycloalkane und aromatische Kohlenwasserstoffe.
+Hexachlorbenzol (HCB)
 
-2) Leichtflüchtige aromatische Kohlenwasserstoffe (Benzol, Toluol, Xylole, Ethylbenzol, Styrol, Cumol).
+    0,1
 
-3) Leichtflüchtige Halogenkohlenwasserstoffe (Summe der halogenierten C1- und C2-Kohlenwasserstoffe).
-
-4) PCB, gesamt: Summe der polychlorierten Biphenyle; in der Regel Bestimmung über die 6 Kongeneren nach Ballschmiter gemäß Altöl-VO (DIN 51527) multipliziert mit 5; ggf. z.B. bei bekanntem Stoffspektrum einfache Summenbildung aller relevanten Einzelstoffe (DIN 38407-3-2 bzw. -3-3).
-
-5) PAK, gesamt: Summe der polycyclischen aromatischen Kohlenwasserstoffe ohne Naphthalin und Methylnaphthaline; in der Regel Bestimmung über die Summe von 15 Einzelsubstanzen gemäß Liste der US Environmental Protection Agency (EPA) ohne Naphthalin; ggf. unter Berücksichtigung weiterer relevanter PAK (z.B. Chinoline).
-
-<!-- -->
-
-3.2  
-Anwendung der Prüfwerte
-
-a) Die Prüfwerte gelten für den Übergangsbereich von der ungesättigten zur wassergesättigten Bodenzone (Ort der Beurteilung). Der Ort der Bodenprobennahme stimmt nicht notwendigerweise mit dem Ort der Beurteilung für das Grundwasser überein.
-
-b) Bei der Bewertung, ob es zu erwarten ist, daß die Prüfwerte für das Sickerwasser am Ort der Beurteilung überschritten werden, sind die Veränderungen der Schadstoffkonzentrationen im Sickerwasser beim Durchgang durch die ungesättigte Bodenzone sowie die Grundwasserflurabstände und deren Schwankungen zu berücksichtigen.
-
-c) Bei Altablagerungen ist die Abschätzung der Schadstoffkonzentrationen im Sickerwasser durch Materialuntersuchungen auf Grund von Inhomogenitäten der abgelagerten Abfälle in der Regel nicht zweckmäßig. Entsprechendes gilt für Altstandorte mit besonders ungleichmäßiger Schadstoffverteilung. In diesen Fällen kann durch Rückschlüsse oder Rückrechnung aus Abstrommessungen im Grundwasser unter Berücksichtigung insbesondere auch der Stoffkonzentration im Anstrom eine Abschätzung der Schadstoffkonzentrationen im Sickerwasser erfolgen.
-
-d) Soweit die Schadstoffkonzentrationen im Sickerwasser direkt gemessen werden können, soll die Probennahme nach Möglichkeit am Ort der Beurteilung für das Grundwasser durchgeführt werden.
-
-e) Soweit schädliche Bodenveränderungen und Altlasten in der wassergesättigten Bodenzone liegen, werden sie hinsichtlich einer Gefahr für das Grundwasser nach wasserrechtlichen Vorschriften bewertet.
-
-f) Die geogen bedingte Hintergrundsituation der jeweiligen Grundwasserregion ist bei der Anwendung der Prüfwerte zu berücksichtigen.
-
-4. Vorsorgewerte für Böden nach § 8 Abs. 2 Nr. 1 des Bundes-Bodenschutzgesetzes
-
-(Analytik nach Anhang 1)
-
-4.1  
-Vorsorgewerte für Metalle
-
-(in mg/kg Trockenmasse, Feinboden, Königswasseraufschluß)
-
-  
-
-Böden
-
-Cadmium
-
-Blei
-
-Chrom
-
-Kupfer
-
-Quecksilber
-
-Nickel
-
-Zink
-
-Bodenart Ton
-
-1,5
-
-100
-
-100
-
-60
-
-1
-
-70
+Summe Kohlenwasserstoffe<span id="FnR.FnA1-F817098_02_02_03_02"></span><a href="#FnA1-F817098_02_02_03_02" class="FnR">2</a></sup>
 
 200
 
-Bodenart Lehm/ Schluff
+Summe leichtflüchtige Halogenkohlenwasserstoffe (LHKW)<span id="FnR.FnA1-F817098_02_02_03_03"></span><a href="#FnA1-F817098_02_02_03_03" class="FnR">3</a></sup>
 
-1
+ 20
 
-70
+Summe Tri- und Tetrachlorethen
 
-60
+ 10
 
-40
+Methyl-tertiär-butylether (MTBE)
 
-0,5
+ 10
 
-50
+Summe Nonylphenole (=4-Nonylphenol, verzweigt und Nonylphenol-Isomere)
 
-150
+  3
 
-Bodenart Sand
+Pentachlorphenol (PCP)
 
-0,4
+    0,1
 
-40
+Phenol
 
-30
+ 80
 
-20
+Summe aus PCB<sub>6</sub> und PCB 118
 
-0,1
+     0,01
 
-15
+PAK<sub>15</sub><span id="FnR.FnA1-F817098_02_02_03_04"></span><a href="#FnA1-F817098_02_02_03_04" class="FnR">4</a></sup>
 
-60
+    0,2
 
-Böden mit naturbedingt und großflächig siedlungsbedingt erhöhten Hintergrundgehalten
+Naphthalin und Methylnaphthaline
 
-unbedenklich, soweit eine Freisetzung der Schadstoffe oder zusätzliche Einträge nach § 9 Abs. 2 und 3 dieser Verordnung keine nachteiligen Auswirkungen auf die Bodenfunktionen erwarten lassen
+  2
+
+2,4-Dinitrotoluol
+
+     0,05
+
+2,6-Dinitrotoluol
+
+     0,05
+
+2,4,6-Trinitrotoluol (TNT)
+
+    0,2
+
+2,2‘, 4,4‘, 6,6‘-Hexanitrodiphenylamin (Hexyl)
+
+  2
+
+1,3,5-Trinitro-hexahydro-1,3,5-triazin (Hexogen)
+
+  1
+
+Nitropenta (Pentaerythrityltetranitrat (PETN))
+
+ 10
+
+Perfluorbutansäure (PFBA)
+
+ 10
+
+Perfluorhexansäure (PFHxA)
+
+  6
+
+Perfluoroktansäure (PFOA)
+
+    0,1
+
+Perfluornonansäure (PFNA)
+
+     0,06
+
+Perfluorbutansulfonsäure (PFBS)
+
+  6
+
+Perfluorhexansulfonsäure (PFHxS)
+
+    0,1
+
+Perfluoroktansulfonsäure (PFOS)
+
+    0,1
+
+<span id="FnA1-F817098_02_02_03_01"></span><a href="#FnR.FnA1-F817098_02_02_03_01" class="Footnote">1</a>  
+Summe Benzol, Toluol, Ethylbenzol und Xylole.
+
+<span id="FnA1-F817098_02_02_03_02"></span><a href="#FnR.FnA1-F817098_02_02_03_02" class="Footnote">2</a>  
+Summe der Kohlenwasserstoffe, die zwischen n-Dekan (C 10) und n-Tetracontan (C 40) von der gaschromatographischen Säule eluieren.
+
+<span id="FnA1-F817098_02_02_03_03"></span><a href="#FnR.FnA1-F817098_02_02_03_03" class="Footnote">3</a>  
+Summe leichtflüchtiger Halogenkohlenwasserstoffe (LHKW): Summe der halogenierten C1- und C2-Kohlenwasserstoffe; einschließlich Trihalogenmethane. Der Prüfwert für Chlorethen ist zusätzlich einzuhalten.
+
+<span id="FnA1-F817098_02_02_03_04"></span><a href="#FnR.FnA1-F817098_02_02_03_04" class="Footnote">4</a>  
+PAK<sub>15</sub>: PAK<sub>16</sub> ohne Naphthalin und Methylnaphthaline.
 
  
 
-4.2 Vorsorgewerte für organische Stoffe  
-(in mg/kg Trockenmasse, Feinboden)
+Tabelle 4: Prüfwerte für den Wirkungspfad Boden-Mensch
 
-Böden
+Stoff
 
-Polychlorierte Biphenyle (PCB(tief)6)
+Kinder-  
+spielflächen
 
-Benzo (a)pyren
+Wohngebiete
 
-Polycycl. Aromatische Kohlenwasserstoffe (PAK(tief)16)
+Park- und  
+Freizeitanlagen
 
-Humusgehalt &gt; 8%
+Industrie- und  
+Gewerbe-  
+grundstücke
 
-0,1
+ 
 
-1
+\[mg/kg TM\]
 
-10
+Antimon
 
-Humusgehalt &lt;= 8%
+ 50
+
+  100
+
+  250
+
+  250
+
+Arsen
+
+ 25
+
+   50
+
+  125
+
+  140
+
+Blei
+
+200
+
+  400
+
+1 000
+
+2 000
+
+Cadmium
+
+  10<span id="FnR.FnA2-F817098_02_02_04_01"></span><a href="#FnA2-F817098_02_02_04_01" class="FnR">1</a></sup>
+
+    20<a href="#FnA2-F817098_02_02_04_01" class="FnR">1</a></sup>
+
+   50
+
+   60
+
+Cyanide
+
+ 50
+
+   50
+
+   50
+
+  100
+
+Chrom<sub>gesamt</sub><span id="FnR.FnA2-F817098_02_02_04_02"></span><a href="#FnA2-F817098_02_02_04_02" class="FnR">2</a></sup>
+
+200
+
+  400
+
+  400
+
+  200
+
+Chrom<sub>VI</sub><a href="#FnA2-F817098_02_02_04_02" class="FnR">2</a></sup>
+
+130
+
+  250
+
+  250
+
+  130
+
+Kobalt
+
+300
+
+  600
+
+  600
+
+  300
+
+Nickel
+
+ 70
+
+  140
+
+  350
+
+  900
+
+Quecksilber
+
+ 10
+
+   20
+
+   50
+
+  100
+
+Thallium
+
+  5
+
+   10
+
+   25
+
+–
+
+Aldrin
+
+  2
+
+    4
+
+   10
+
+–
+
+2,4-Dinitrotoluol
+
+  3
+
+    6
+
+   15
+
+   50
+
+2,6-Dinitrotoluol
+
+    0,2
+
+      0,4
+
+    1
+
+    5
+
+DDT (Dichlordiphenyltrichlorethan)
+
+ 40
+
+   80
+
+  200
+
+  400
+
+Hexachlorbenzol
+
+  4
+
+    8
+
+   20
+
+  200
+
+Hexachlorcyclohexan (HCH-Gemisch oder  
+β-HCH)
+
+  5
+
+   10
+
+   25
+
+  400
+
+2,2‘, 4,4‘, 6,6‘-Hexa-nitrodiphenylamin (Hexyl)
+
+150
+
+  300
+
+  750
+
+1 500
+
+1,3,5-Trinitro-hexahydro-1,3, 5-triazin  
+(Hexogen)
+
+100
+
+  200
+
+  500
+
+1 000
+
+Nitropenta
+
+500
+
+1 000
+
+2 500
+
+5 000
+
+Pentachlorphenol
+
+ 50
+
+  100
+
+  250
+
+  500
+
+Polyzyklische Aromatische Kohlenwasserstoffe (PAK<sub>16</sub>) vertreten durch Benzo(a)pyren<span id="FnR.FnA2-F817098_02_02_04_03"></span><a href="#FnA2-F817098_02_02_04_03" class="FnR">3</a></sup>
+
+    0,5
+
+    1
+
+    1
+
+    5
+
+PCB<sub>6</sub>
+
+    0,4
+
+      0,8
+
+    2
+
+   40
+
+2,4,6 Trinitrotoluol (TNT)
+
+ 20
+
+   40
+
+  100
+
+  200
+
+<span id="FnA2-F817098_02_02_04_01"></span><a href="#FnR.FnA2-F817098_02_02_04_01" class="Footnote">1</a>  
+In Haus- und Kleingärten, die sowohl als Aufenthaltsbereiche für Kinder als auch für den Anbau von Nahrungspflanzen genutzt werden, gilt für Cadmium ein Prüfwert von 2,0 mg/kg Trockenmasse.
+
+<span id="FnA2-F817098_02_02_04_02"></span><a href="#FnR.FnA2-F817098_02_02_04_02" class="Footnote">2</a>  
+Bei Überschreitung der Prüfwerte für Chrom<sub>gesamt</sub> ist der Anteil an Chrom<sub>VI</sub> zu messen und anhand der Prüfwerte für Chrom VI zu bewerten.
+
+<span id="FnA2-F817098_02_02_04_03"></span><a href="#FnR.FnA2-F817098_02_02_04_03" class="Footnote">3</a>  
+Der Boden ist auf alle PAK<sub>16</sub> hin zu untersuchen. Die Prüfwerte beziehen sich auf den Gehalt an Benzo(a)pyren im Boden. Benzo(a)pyren repräsentiert dabei die Wirkung typischer PAK-Gemische auf ehemaligen Kokereien, ehemaligen Gaswerksgeländen und ehemaligen Teermischwerken/-ölläger. Weicht das PAK-Muster oder der Anteil von Benzo(a)pyren an der Summe der Toxizitätsäquivalente im zu bewertenden Einzelfall deutlich von diesen typischen PAK-Gemischen ab, so ist dies bei der Anwendung der Prüfwerte zu berücksichtigen. Liegen die siedlungsbedingten Hintergrundwerte oberhalb der Prüfwerte für Benzo(a)pyren, ist dies bei der Bewertung der Untersuchungsergebnisse gemäß § 15 zu berücksichtigen.
+
+ 
+
+Tabelle 5: Maßnahmenwerte für den Wirkungspfad Boden-Mensch
+
+Stoff
+
+Kinderspiel-  
+flächen
+
+Wohngebiete
+
+Park- und  
+Freizeitanlagen
+
+Industrie- und Gewerbe-  
+grundstücke
+
+ 
+
+\[ng WHO-TEQ<span id="FnR.FnA3-F817098_02_02_05_01"></span><a href="#FnA3-F817098_02_02_05_01" class="FnR">1</a></sup> /kg TM\]
+
+Summe der Dioxine/Furane (PCDD/F) und  
+dl-PCB<span id="FnR.FnA3-F817098_02_02_05_02"></span><a href="#FnA3-F817098_02_02_05_02" class="FnR">2</a></sup>
+
+100
+
+1 000
+
+1 000
+
+10 000
+
+<span id="FnA3-F817098_02_02_05_01"></span><a href="#FnR.FnA3-F817098_02_02_05_01" class="Footnote">1</a>  
+Toxizitätsäquivalente, berechnet unter Verwendung der Toxizitätsäquivalenzfaktoren (WHO-TEF) von 2005.
+
+<span id="FnA3-F817098_02_02_05_02"></span><a href="#FnR.FnA3-F817098_02_02_05_02" class="Footnote">2</a>  
+Summe der Dioxine (polychlorierte Dibenzo-para-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF)) und dioxinähnlichen polychlorierten Biphenyle (dl-PCB) nach der DIN EN 16190:2019-10.
+
+ 
+
+Tabelle 6: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität
+
+Stoff
+
+Extraktionsverfahren
+
+Prüfwert
+
+Maßnahmenwert
+
+ 
+
+ 
+
+\[mg/kg TM\]
+
+Arsen
+
+Königswasser (KW)
+
+200<span id="FnR.FnA4-F817098_02_02_06_01"></span><a href="#FnA4-F817098_02_02_06_01" class="FnR">1</a></sup>
+
+–
+
+Blei
+
+Ammoniumnitrat (AN)
+
+   0,1
+
+–
+
+Cadmium
+
+AN
+
+–
+
+0,04/0,1<span id="FnR.FnA4-F817098_02_02_06_02"></span><a href="#FnA4-F817098_02_02_06_02" class="FnR">2</a></sup>
+
+Quecksilber
+
+KW
+
+  5
+
+–
+
+Thallium
+
+AN
+
+   0,1
+
+–
+
+Benzo(a)pyren
+
+siehe Anlage 3 Tabelle 5
+
+  1
+
+–
+
+DDT (Dichlordiphenyl-trichlorethan)
+
+siehe Anlage 3 Tabelle 5
+
+  1
+
+–
+
+<span id="FnA4-F817098_02_02_06_01"></span><a href="#FnR.FnA4-F817098_02_02_06_01" class="Footnote">1</a>  
+Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert von 50 mg/kg.
+
+<span id="FnA4-F817098_02_02_06_02"></span><a href="#FnR.FnA4-F817098_02_02_06_02" class="Footnote">2</a>  
+Auf Flächen mit Brotweizenanbau oder Gemüseanbau gilt ein Maßnahmenwert von 0,04 mg/kg; ansonsten gilt ein Maßnahmenwert von 0,1 mg/kg.
+
+ 
+
+Tabelle 7: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität
+
+Stoff
+
+Extraktionsverfahren
+
+Prüfwert
+
+Maßnahmenwert
+
+ 
+
+ 
+
+\[mg/kg TM\]
+
+Arsen
+
+KW
+
+50
+
+–
+
+Blei
+
+KW
+
+–
+
+1 200
+
+Cadmium
+
+KW
+
+–
+
+20<span id="FnR.FnA5-F817098_02_02_07_01"></span><a href="#FnA5-F817098_02_02_07_01" class="FnR">1</a></sup>
+
+Kupfer
+
+KW
+
+–
+
+1 300<span id="FnR.FnA5-F817098_02_02_07_02"></span><a href="#FnA5-F817098_02_02_07_02" class="FnR">2</a></sup>
+
+Nickel
+
+KW
+
+–
+
+1 900
+
+Quecksilber
+
+KW
+
+–
+
+2
+
+Thallium
+
+KW
+
+–
+
+15
+
+Hexachlorbenzol
+
+siehe Anlage 3 Tabelle 5
+
+0,5
+
+–
+
+Hexachlorcyclohexan, gesamt
+
+siehe Anlage 3 Tabelle 5
 
 0,05
 
-0,3
+–
 
-3
+PCB<sub>6</sub>
 
-4.3  
-Anwendung der Vorsorgewerte
+siehe Anlage 3 Tabelle 5
 
-a) Die Vorsorgewerte werden nach den Hauptbodenarten gemäß Bodenkundlicher Kartieranleitung, 4. Auflage, berichtigter Nachdruck 1996, unterschieden; sie berücksichtigen den vorsorgenden Schutz der Bodenfunktionen bei empfindlichen Nutzungen. Für die landwirtschaftliche Bodennutzung gilt § 17 Abs. 1 des Bundes-Bodenschutzgesetzes.
+–
 
-b) Stark schluffige Sande sind entsprechend der Bodenart Lehm/Schluff zu bewerten.
+0,2
 
-c) Bei den Vorsorgewerten der Tabelle 4.1 ist der Säuregrad der Böden wie folgt zu berücksichtigen:
+ 
 
-\-  
-Bei Böden der Bodenart Ton mit einem pH-Wert von &lt; 6,0 gelten für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Lehm/Schluff.
+ 
 
-\-  
-Bei Böden der Bodenart Lehm/Schluff mit einem pH-Wert von &lt; 6,0 gelten für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Sand.
+\[ng WHO-TEQ/kg TM\]
 
-\-  
-Bei Böden mit einem pH-Wert von &lt; 5,0 sind die Vorsorgewerte für Blei entsprechend den ersten beiden Anstrichen herabzusetzen.
+PCDD/F<span id="FnR.FnA5-F817098_02_02_07_03"></span><a href="#FnA5-F817098_02_02_07_03" class="FnR">3</a></sup>
 
-d) Die Vorsorgewerte der Tabelle 4.1 finden für Böden und Bodenhorizonte mit einem Humusgehalt von mehr als 8 Prozent keine Anwendung. Für diese Böden können die zuständigen Behörden ggf. gebietsbezogene Festsetzungen treffen.
+siehe Anlage 3 Tabelle 5
 
-5. Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Wirkungspfade
+15
 
-nach § 8 Abs. 2 Nr. 2 des Bundes-Bodenschutzgesetzes (in Gramm je Hektar)
+–
 
-  
+<span id="FnA5-F817098_02_02_07_01"></span><a href="#FnR.FnA5-F817098_02_02_07_01" class="Footnote">1</a>  
+Bei Flächen mit pH-Werten unter pH 5 gilt ein Maßnahmenwert von 15 mg/kg.
 
-| Element     | Fracht (g/ha x a) |
-|:------------|:-----------------:|
-| Blei        |        400        |
-| Cadmium     |         6         |
-| Chrom       |        300        |
-| Kupfer      |        360        |
-| Nickel      |        100        |
-| Quecksilber |        1,5        |
-| Zink        |       1 200       |
+<span id="FnA5-F817098_02_02_07_02"></span><a href="#FnR.FnA5-F817098_02_02_07_02" class="Footnote">2</a>  
+Bei Grünlandnutzung durch Schafe gilt ein Maßnahmenwert von 200 mg/kg.
 
-# Anhang 3
+<span id="FnA5-F817098_02_02_07_03"></span><a href="#FnR.FnA5-F817098_02_02_07_03" class="Footnote">3</a>  
+Summe der Dioxine, Furane (PCDD/F): polychlorierte Dibenzo-para-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF)) ausgedrückt in WHO-TEQ (2005).
 
-Fundstelle: BGBl. I 1999, 1580 - 1581
+ 
 
-  
-  
-  
-  
-Anforderungen an Sanierungsuntersuchungen und den Sanierungsplan
+Tabelle 8: Prüfwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen
 
-1. Sanierungsuntersuchungen
+Stoff
 
-Mit Sanierungsuntersuchungen bei Altlasten sind die zur Erfüllung der Pflichten nach § 4 Abs. 3 des Bundes-Bodenschutzgesetzes geeigneten, erforderlichen und angemessenen Maßnahmen zu ermitteln. Die hierfür in Betracht kommenden Maßnahmen sind unter Berücksichtigung von Maßnahmenkombinationen und von erforderlichen Begleitmaßnahmen darzustellen. Die Prüfung muß insbesondere
+Extraktionsverfahren
 
-\-  
-die schadstoff-, boden-, material- und standortspezifische Eignung der Verfahren,
+Prüfwert
 
-\-  
-die technische Durchführbarkeit,
+ 
 
-\-  
-den erforderlichen Zeitaufwand,
+ 
 
-\-  
-die Wirksamkeit im Hinblick auf das Sanierungsziel,
+\[mg/kg TM\]
 
-\-  
-eine Kostenschätzung sowie das Verhältnis von Kosten und Wirksamkeit,
+Arsen
 
-\-  
-die Auswirkungen auf die Betroffenen im Sinne von § 12 Satz 1 des Bundes-Bodenschutzgesetzes und auf die Umwelt,
+Ammoniumnitrat (AN)
 
-\-  
-das Erfordernis von Zulassungen,
+  0,4
 
-\-  
-die Entstehung, Verwertung und Beseitigung von Abfällen,
+Kupfer
 
-\-  
-den Arbeitsschutz,
+AN
 
-\-  
-die Wirkungsdauer der Maßnahmen und deren Überwachungsmöglichkeiten,
+1
 
-\-  
-die Erfordernisse der Nachsorge und
+Nickel
 
-\-  
-die Nachbesserungsmöglichkeiten
+AN
 
-umfassen. Die Prüfung soll unter Verwendung vorhandener Daten, insbesondere aus Untersuchungen nach § 3 dieser Verordnung, sowie auf Grund sonstiger gesicherter Erkenntnisse durchgeführt werden. Soweit solche Informationen insbesondere zur gesicherten Abgrenzung belasteter Bereiche oder zur Beurteilung der Eignung von Sanierungsverfahren im Einzelfall nicht ausreichen, sind ergänzende Untersuchungen zur Prüfung der Eignung eines Verfahrens durchzuführen. Die Ergebnisse der Prüfung und das danach vorzugswürdige Maßnahmenkonzept sind darzustellen.
+  1,5
 
-2. Sanierungsplan
+Zink
 
-Ein Sanierungsplan soll die unter den Nummern 1 bis 5 genannten Angaben sowie die für eine Verbindlichkeitserklärung nach § 13 Abs. 6 des Bundes-Bodenschutzgesetzes erforderlichen Angaben und Unterlagen enthalten.
+AN
 
-1. Darstellung der Ausgangslage, insbesondere hinsichtlich
+2
 
-\-  
-der Standortverhältnisse (u.a. geologische, hydrogeologische Situation; bestehende und planungsrechtlich zulässige Nutzung),
+# Anlage 3 – (zu § 6 Absatz 11 Satz 1, § 15 Absatz 1 Satz 2, § 19 Absatz 9,§ 20 Absatz 1 Satz 3 und 4, § 24 Absatz 2 und 4 bis 10)Untersuchungsverfahren
 
-\-  
-der Gefahrenlage (Zusammenfassung der Untersuchungen nach § 3 dieser Verordnung im Hinblick auf Schadstoffinventar nach Art, Menge und Verteilung, betroffene Wirkungspfade, Schutzgüter und -bedürfnisse),
+(Fundstelle: BGBl. I 2021, 2740 - 2745)
 
-\-  
-der Sanierungsziele,
+ 
 
-\-  
-der getroffenen behördlichen Entscheidungen und der geschlossenen öffentlich-rechtlichen Verträge, insbesondere auch hinsichtlich des Maßnahmenkonzeptes, die sich auf die Erfüllung der nach § 4 des Bundes-Bodenschutzgesetzes zu erfüllenden Pflichten auswirken, und
+Tabelle 1: Verfahren zur Bestimmung der physikalisch-chemischen Eigenschaften
 
-\-  
-der Ergebnisse der Sanierungsuntersuchungen.
+Eigenschaft
 
-2. Textliche und zeichnerische Darstellung der durchzuführenden Maßnahmen und Nachweis ihrer Eignung, insbesondere hinsichtlich
+Methode
 
-\-  
-des Einwirkungsbereichs der Altlast und der Flächen, die für die vorgesehenen Maßnahmen benötigt werden,
+Norm
 
-\-  
-des Gebietes des Sanierungsplans,
+Bestimmung der Trockenmasse
 
-\-  
-der Elemente und des Ablaufs der Sanierung im Hinblick auf
+feldfrische oder luftgetrocknete  
+Bodenproben
 
-. den Bauablauf,
+DIN EN 14346:2007-03  
+Verfahren A
 
-. die Erdarbeiten (insbesondere Aushub, Separierung, Wiedereinbau, Umlagerungen im Bereich des Sanierungsplans),
+DIN EN 15934:2012-11
 
-. die Abbrucharbeiten,
+Organischer Kohlenstoff und  
+Gesamtkohlenstoff nach trockener Verbrennung
 
-. die Zwischenlagerung von Bodenmaterial und sonstigen Materialien,
+luftgetrocknete Bodenproben
 
-. die Abfallentsorgung beim Betrieb von Anlagen,
+DIN EN 15936:2012-11  
+DIN 19539:2016-12
 
-. die Verwendung von Böden und die Ablagerung von Abfällen auf Deponien und
+Organischer Kohlenstoff (TOC 400) nach trockener Verbrennung  
+bis 400 °C
 
-. die Arbeits- und Immissionsschutzmaßnahmen,
+luftgetrocknete Bodenproben
 
-\-  
-der fachspezifischen Berechnungen zu
+DIN 19539:2016-12
 
-. on-site-Bodenbehandlungsanlagen,
+pH-Wert (CaCl<sub>2</sub>)
 
-. in-situ-Maßnahmen,
+Suspension der feldfrischen oder luftgetrockneten Bodenprobe in CaCl<sub>2</sub>-Lösung;  
+Konzentration (CaCl<sub>2</sub>): 0,01 mol/l
 
-. Anlagen zur Fassung und Behandlung von Deponiegas oder Bodenluft,
+DIN EN 15933:2012-11
 
-. Grundwasserbehandlungsanlagen,
+Bodenart
 
-. Anlagen und Maßnahmen zur Fassung und Behandlung insbesondere von Sickerwasser,
+Fingerprobe im Gelände
 
-\-  
-der zu behandelnden Mengen und der Transportwege bei Bodenbehandlung in off-site-Anlagen,
+Bodenkundliche Kartieranleitung, 5. Auflage Hannover 2009 (KA 5);  
+Arbeitshilfe für die Bodenansprache im vor- und nachsorgenden Bodenschutz, Hannover 2009; DIN ISO 11277:2002-08
 
-\-  
-der technischen Ausgestaltung von Sicherungsmaßnahmen und begleitenden Maßnahmen, insbesondere von
+Korngrößenverteilung/Bodenart
 
-. Oberflächen-, Vertikal- und Basisabdichtungen,
+Siebung, Dispergierung, Pipett-Analyse
 
-. Oberflächenabdeckungen,
+DIN ISO 11277:2002-08
 
-. Zwischen- bzw. Bereitstellungslagern,
+Siebung, Dispergierung, Aräometermethode
 
-. begleitenden passiven pneumatischen, hydraulischen oder sonstigen Maßnahmen (z.B. Baufeldentwässerung, Entwässerung des Aushubmaterials, Einhausung, Abluftfassung und -behandlung) und
+DIN ISO 11277:2002-08  
+DIN EN ISO 17892-4:2017-04
 
-\-  
-der behördlichen Zulassungserfordernisse für die durchzuführenden Maßnahmen.
+Rohdichte
 
-3. Darstellung der Eigenkontrollmaßnahmen zur Überprüfung der sachgerechten Ausführung und Wirksamkeit der vorgesehenen Maßnahmen, insbesondere
+Trocknung einer volumengerecht entnommenen Bodenprobe bei  
+105 °C, rückwiegen
 
-\-  
-das Überwachungskonzept hinsichtlich
+DIN EN ISO 11272:2017-07
 
-. des Bodenmanagements bei Auskofferung, Separierung und Wiedereinbau,
+ 
 
-. der Boden- und Grundwasserbehandlung, der Entgasung oder der Bodenluftabsaugung,
+Tabelle 2: Verfahren zur Herstellung von Eluaten mit Wasser
 
-. des Arbeits- und Immissionsschutzes,
+Verfahren
 
-. der begleitenden Probennahme und Analytik und
+Verfahrenshinweise
 
-\-  
-das Untersuchungskonzept für Materialien und Bauteile bei der Ausführung von Bauwerken.
+Norm
 
-4. Darstellung der Eigenkontrollmaßnahmen im Rahmen der Nachsorge einschließlich der Überwachung, insbesondere hinsichtlich
+Anorganische und organische Stoffe
 
-\-  
-des Erfordernisses und der Ausgestaltung von längerfristig zu betreibenden Anlagen oder Einrichtungen zur Fassung oder Behandlung von Grundwasser, Sickerwasser, Oberflächenwasser, Bodenluft oder Deponiegas sowie Anforderungen an deren Überwachung und Instandhaltung,
+Elution mit Wasser durch Schüttelverfahren oder Säulenschnellverfahren
 
-\-  
-der Maßnahmen zur Überwachung (z.B. Meßstellen) und
+Flüssigkeits-Feststoffverhältnis 2:1
 
-\-  
-der Funktionskontrolle im Hinblick auf die Einhaltung der Sanierungserfordernisse und Instandhaltung von Sicherungsbauwerken oder -einrichtungen.
+DIN 19528:2009-01  
+DIN 19529:2015-12
 
-5. Darstellung des Zeitplans und der Kosten.
+ 
 
-# Anhang 4
+Tabelle 3: Nutzungsorientierte Beprobungstiefe bei Untersuchungen zu den Wirkungspfaden Boden-Mensch und Boden-Nutzpflanze
 
-Fundstelle: BGBl. I 1999, 1582
+Wirkungspfad
 
-  
-  
-  
-  
-Anforderungen an die Untersuchung und Bewertung von Flächen, bei denen der Verdacht einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser vorliegt
+Nutzungsarten
 
-1. Anwendung
+Beprobungstiefe
 
-Dieser Anhang findet gemäß § 8 Anwendung bei der Untersuchung von Flächen, bei denen der Verdacht einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser besteht.
+Boden-Mensch
 
-2. Untersuchung und Bewertung
+Kinderspielflächen, Wohngebiete
 
-Bestehen Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser, so ist zunächst zu prüfen,
+  0 – 10 cm<span id="FnR.FnA1-F817098_02_03_03_01"></span><a href="#FnA1-F817098_02_03_03_01" class="FnR">1</a></sup>  
+ 10 – 30 cm<span id="FnR.FnA1-F817098_02_03_03_02"></span><a href="#FnA1-F817098_02_03_03_02" class="FnR">2</a></sup>
 
-a) ob erhebliche Mengen Bodenmaterials aus der Erosionsfläche geschwemmt wurden und
+Park- und Freizeitanlagen
 
-b) auf welche Erosionsflächen und auf welche Verursacher die Bodenabschwemmung zurückzuführen ist.
+  0 – 10 cm<a href="#FnA1-F817098_02_03_03_01" class="FnR">1</a></sup>
 
-Hinweise für eine Identifikation der Erosionsfläche ergeben sich vor allem durch deutlich sichtbare Übertrittsstellen von Bodenmaterial von der Erosionsfläche zu den außerhalb der Erosionsfläche gelegenen und durch Bodenmaterial beeinträchtigten Bereichen. Weitere Hinweise ergeben sich aus dem Vorliegen deutlich sichtbarer Erosionsformen auf der Erosionsfläche. Bei der Prüfung gemäß Buchstabe a kann es erforderlich sein, die bei einem Erosionsereignis oder in Folge von Erosionsereignissen, die im Abstand von maximal wenigen Wochen nacheinander aufgetreten sind, von einer Verdachtsfläche abgeschwemmte Bodenmenge abzuschätzen. Dies kann mit Hilfe der "Kartieranleitung zur Erfassung aktueller Erosionsformen" (DVWK 1996) erfolgen. Für die Abschätzung der Wiedereintrittswahrscheinlichkeit von Bodenabträgen gemäß § 8 Abs. 1 sind insbesondere gebietsspezifische statistische Auswertungen langjähriger Niederschlagsaufzeichnungen des Deutschen Wetterdienstes heranzuziehen. Hierzu können auch Erosionsprognosemodelle als Hilfsmittel genutzt werden, soweit sie nachweislich geeignet sind, die aus den Erosionsflächen abgeschwemmten Bodenmengen bei konkret eingetretenen Erosionsereignissen mit hinreichender Genauigkeit abzuschätzen. Die Bedingungen für die Erwartung weiterer Bodenabträge gemäß § 8 Abs. 1 Nr. 2 sind in der Regel erfüllt, wenn innerhalb der letzten zehn Jahre mindestens in einem weiteren Fall erhebliche Mengen Bodenmaterials aus derselben Erosionsfläche geschwemmt wurden.
+Industrie- und Gewerbegrundstücke
+
+  0 – 10 cm<a href="#FnA1-F817098_02_03_03_01" class="FnR">1</a></sup>
+
+Boden-Nutzpflanze
+
+Ackerflächen, Nutzgärten
+
+  0 – 30 cm<span id="FnR.FnA1-F817098_02_03_03_03"></span><a href="#FnA1-F817098_02_03_03_03" class="FnR">3</a></sup>  
+30 – 60 cm
+
+Grünlandflächen
+
+  0 – 10 cm<span id="FnR.FnA1-F817098_02_03_03_04"></span><a href="#FnA1-F817098_02_03_03_04" class="FnR">4</a></sup>  
+10 – 30 cm
+
+<span id="FnA1-F817098_02_03_03_01"></span><a href="#FnR.FnA1-F817098_02_03_03_01" class="Footnote">1</a>  
+Kontaktbereich für orale und dermale Schadstoffaufnahme, zusätzlich 0 – 2 cm bei Relevanz des inhalativen Aufnahmepfades.
+
+<span id="FnA1-F817098_02_03_03_02"></span><a href="#FnR.FnA1-F817098_02_03_03_02" class="Footnote">2</a>  
+30 cm durchschnittliche Mächtigkeit aufgebrachter Bodenschichten, zugleich von Kindern erreichbare Tiefe.
+
+<span id="FnA1-F817098_02_03_03_03"></span><a href="#FnR.FnA1-F817098_02_03_03_03" class="Footnote">3</a>  
+Bei abweichender Mächtigkeit des Bearbeitungshorizontes bis zur Untergrenze des Bearbeitungshorizontes.
+
+<span id="FnA1-F817098_02_03_03_04"></span><a href="#FnR.FnA1-F817098_02_03_03_04" class="Footnote">4</a>  
+Bei abweichender Mächtigkeit des Hauptwurzelbereiches bis zur Untergrenze des Hauptwurzelbereiches.
+
+ 
+
+Tabelle 4: Verfahren zur Bestimmung anorganischer Stoffgehalte
+
+Stoff
+
+Methode
+
+Norm
+
+Antimon, Arsen, Blei,  
+Cadmium, Chrom<sub>gesamt</sub>,  
+Kobalt, Kupfer, Nickel,  
+Molybdän, Selen, Thallium, Vanadium, Zink
+
+ICP-Atomemissionsspektrometrie  
+(ICP-AES/ICP-OES)
+
+DIN ISO 22036:2009-06
+
+induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
+
+DIN EN ISO 11885:2009-09  
+DIN EN 16170:2017-01
+
+ICP-Massenspektrometrie (ICP-MS)  
+möglich, Berücksichtigung von spektralen Störungen bei hohen Matrixkonzentrationen erforderlich
+
+DIN EN 16171:2017-01  
+DIN EN ISO 17294-2:2017-01
+
+Arsen
+
+ICP-AES/ICP-OES
+
+DIN ISO 22036:2009-06
+
+ICP-MS
+
+DIN EN ISO 17294-2:2017-01
+
+Hydrid-Atom-absorptionsspektrometrie  
+(Hydrid-AAS)
+
+E DIN ISO 17378-2:2017-01  
+DIN ISO 20280:2010-05
+
+Quecksilber
+
+AAS-Kaltdampftechnik; bei der Probenvorbehandlung darf die Trocknungstemperatur 40 ºC nicht überschreiten
+
+DIN EN ISO 15586:2004-02
+
+ICP-MS
+
+DIN EN ISO 17294-2:2017-01
+
+Chrom<sub>VI</sub>
+
+alkalisches Heiß-Extraktionsverfahren mit Natronlauge (0,5 mol/l)/Na<sub>2</sub>CO<sub>3</sub>-Lösung (0,28 mol/l)
+
+DIN EN 15192:2007-02
+
+Cyanide
+
+Verfahren mittels kontinuierlicher Durchflussanalyse
+
+DIN EN ISO 17380:2013-10
+
+ 
+
+Tabelle 5: Verfahren zur Bestimmung organischer Stoffgehalte
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 27%" /><col style="width: 39%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Stoff</th><th style="text-align: left;">Methode</th><th style="text-align: left;">Norm</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">PAK<sub>16</sub><br />
+Benzo(a)pyren</td><td style="text-align: left;">Extraktion mit Aceton, Zugeben von Petrolether, Entfernen des Acetons, chromatographische Reinigung des Petroletherextraktes; Quantifizierung mittels GC-MS oder Aufnahme des Petroletherextraktes in Acetonitril; Quantifizierung mittels HPLC mit UV/DAD bzw. FLD</td><td style="text-align: left;">DIN ISO 18287:2006-05<br />
+DIN EN 16181:2019-08</td></tr><tr class="even"><td style="text-align: left;">Hexachlorbenzol</td><td style="text-align: left;">Extraktion mit Aceton/ Cyclohexan-Gemisch oder Aceton/Petrolether, ggf. chromatographische Reinigung nach Entfernen des Acetons; Quantifizierung mittels GC-ECD oder GC-MS</td><td style="text-align: left;">DIN ISO 10382:2003-05</td></tr><tr class="odd"><td style="text-align: left;">Pentachlorphenol</td><td style="text-align: left;">Soxhlet-Extraktion mit Heptan oder Aceton/ Heptan (50:50); Derivatisierung mit Essigsäureanhydrid; Quantifizierung mittels GC-ECD oder GC-MS</td><td style="text-align: left;">DIN ISO 14154:2005-12</td></tr><tr class="even"><td style="text-align: left;">Aldrin,<br />
+DDT,<br />
+Hexachlorcyclohexan (HCH-Gemisch oder β-HCH)</td><td style="text-align: left;">Extraktion mit Aceton/ Cyclohexan-Gemisch oder Aceton/Petrolether, ggf. chromatographische Reinigung nach Entfernen des Acetons; Quantifizierung mittels GC-ECD oder GC-MS</td><td style="text-align: left;">DIN ISO 10382:2003-05</td></tr><tr class="odd"><td style="text-align: left;">PCB<sub>6</sub></td><td style="text-align: left;">Extraktion mit Aceton/ Cyclohexan-Gemisch oder Aceton/Petrolether, ggf. chromatographische Reinigung nach Entfernen des Acetons; Quantifizierung mittels GC-ECD oder GC-MS</td><td style="text-align: left;">DIN ISO 10382:2003-05<br />
+DIN EN 16167:2019-06</td></tr><tr class="even"><td style="text-align: left;">PCDD/F,<br />
+dl-PCB</td><td style="text-align: left;">Soxhlet-Extraktion der Proben mit Toluol, chromatographische Reinigung; Quantifizierung mittels HR GC-MS</td><td style="text-align: left;">DIN 38414-24:2000-10<br />
+DIN EN 16190:2019-10</td></tr><tr class="odd"><td style="text-align: left;">2,4-Dinitrotoluol,<br />
+2,6-Dinitrotoluol,<br />
+2,2', 4,4', 6,6'-Hexanitrodiphenylamin (Hexyl),<br />
+1,3,5-Trinitro-hexahydro-1,3,5-triazin (Hexogen),<br />
+Nitropenta,<br />
+2,4,6-Trinitrotoluol (TNT)</td><td style="text-align: left;">Extraktion mit Methanol oder Acetonitril und Quantifizierung mittels HPLC mit UV/DAD<br />
+oder Extraktion mit Methanol, Umlösen in Toluol und Quantifizierung mittels GC-ECD oder GC-MS</td><td style="text-align: left;">DIN ISO 11916-1:2014-11<br />
+DIN ISO 11916-2:2014-11<br />
+für Hexogen und Hexyl ausschließlich: DIN ISO 11916-1:2014-11</td></tr><tr class="even"><td style="text-align: left;">EOX</td><td style="text-align: left;">Die extrahierbare organisch gebundenen Halogene werden nach Gefriertrocknung und Extraktion mit z. B. Hexan erfasst und im Sauerstoffstrom verbrannt. Die Temperatur im Verbrennungsraum während der gesamten Analysenzeit muss mindestens 950 °C betragen (Gerät, z. B. Microcoulometer)</td><td style="text-align: left;">DIN 38414-17:2017-01</td></tr></tbody></table>
+
+ 
+
+Tabelle 6: Verfahren zur Bestimmung der Konzentration anorganischer Stoffe
+
+Stoff
+
+Methode
+
+Norm
+
+Antimon, Arsen, Barium, Blei, Bor, Cadmium, Chrom gesamt, Kobalt, Kupfer, Molybdän, Nickel, Selen, Thallium, Vanadium, Zink
+
+ICP-AES/ICP-OES
+
+DIN ISO 22036:2009-06
+
+ICP-MS möglich
+
+DIN EN ISO 17294-2:2017-01
+
+Arsen, Antimon
+
+AAS-Graphitrohr
+
+DIN EN ISO 15586:2004-02
+
+ICP-AES/ICP-OES
+
+DIN ISO 22036:2009-06
+
+ICP-MS
+
+DIN EN ISO 17294-2:2017-01
+
+Chrom<sub>VI</sub>
+
+Trennung und Bestimmung analog der Behandlung der Extraktionslösung
+
+DIN EN 15192:2007-02
+
+Quecksilber
+
+AAS
+
+DIN EN 16175-1:2016-12  
+DIN EN ISO 12846:2012-08
+
+ICP-MS
+
+DIN EN ISO 17294-2:2017-01
+
+Atomfluoreszenzspektrometrie (AFS)
+
+DIN EN 16175-2:2016-12  
+DIN EN ISO 17852:2008-04
+
+Selen
+
+ICP-AES/ICP-OES
+
+DIN ISO 22036:2009-06
+
+ICP-MS
+
+DIN EN ISO 17294-2:2017-01
+
+Cyanide<sub>gesamt</sub>
+
+Spektralphotometrie
+
+DIN 38405-13:2011-04  
+DIN EN ISO 14403-1:2012-10  
+DIN EN ISO 14403-2:2012-10
+
+Cyanide<sub>leicht\ freisetzbar</sub>
+
+Spektralphotometrie
+
+DIN 38405-13:2011-04  
+DIN EN ISO 14403-1:2012-10  
+DIN EN ISO 14403-2:2012-10
+
+Fluorid, Sulfat
+
+Fluoridsensitive Elektrode
+
+DIN 38405-4:1985-07
+
+Ionenchromatographie
+
+DIN EN ISO 10304-1:2009-07
+
+ 
+
+Tabelle 7: Verfahren zur Bestimmung der Konzentration organischer Stoffe
+
+Stoff
+
+Methode
+
+Norm
+
+BTEX<span id="FnR.FnA2-F817098_02_03_07_01"></span><a href="#FnA2-F817098_02_03_07_01" class="FnR">1</a></sup>
+
+GC-FID (Matrixbelastung beachten),  
+HS-GC-MS
+
+DIN 38407-43:2014-10
+
+Purge und Trap-Anreicherung und  
+thermischer Desorption
+
+DIN EN ISO 15680:2004-04
+
+Anthracen
+
+HPLC-F, GC-MS
+
+DIN EN ISO 17993:2004-03  
+DIN 38407-39:2011-09
+
+Benzo(a)pyren
+
+HPLC-F, GC-MS
+
+DIN EN ISO 17993:2004-03  
+DIN 38407-39:2011-09
+
+Benzol
+
+HS-GC-MS,  
+HS-SPME GC-MS
+
+DIN 38407-43:2014-10  
+DIN EN ISO 17943:2016-10
+
+Summe Chlorbenzole
+
+GC-MS
+
+DIN 38407-37:2013-11
+
+Chlorethen (Vinylchlorid)
+
+HS-SPME GC-MS
+
+DIN EN ISO 17943:2016-10
+
+Summe Chlorphenole
+
+GC-ECD, GC-MS
+
+DIN EN 12673:1999-05
+
+Pentachlorphenol
+
+GC-ECD, GC-MS
+
+DIN EN 12673:1999-05
+
+Hexachlorbenzol (HCB)
+
+GC-MS
+
+DIN 38407-37:2013-11
+
+Summe Kohlenwasserstoffe<span id="FnR.FnA2-F817098_02_03_07_02"></span><a href="#FnA2-F817098_02_03_07_02" class="FnR">2</a></sup>
+
+Extraktion mit Petrolether, gaschromatographische Quantifizierung
+
+DIN EN ISO 9377-2:2001-07
+
+LHKW<span id="FnR.FnA2-F817098_02_03_07_03"></span><a href="#FnA2-F817098_02_03_07_03" class="FnR">3</a></sup>
+
+GC-MS  
+GC  
+HS-SPME GC-MS
+
+DIN 38407-43:2014-10  
+DIN EN ISO 10301:1997-08  
+DIN EN ISO 17943:2016-10
+
+Methyl-tertiär-butylether (MTBE)
+
+GC-MS,  
+HS-SPME GC-MS
+
+DIN 38407-43:2014-10  
+DIN EN ISO 17943:2016-10
+
+Naphthalin und Methylnaphthaline
+
+GC-MS  
+Purge und Trap-Anreicherung und  
+thermischer Desorption  
+GC-MS  
+HS-SPME GC-MS
+
+DIN 38407-39:2011-09  
+DIN EN ISO 15680:2004-04  
+DIN 38407-43:2014-10  
+DIN EN ISO 17943:2016-10
+
+Summe Nonylphenol  
+(= 4‑Nonylphenol, verzweigt, und Nonylphenol-Isomere)
+
+GC-MS
+
+DIN EN ISO 18857-1:2007-02
+
+Phenole
+
+GC-MS
+
+DIN 38407-27:2012-10
+
+Summe aus PCB<sub>6</sub> und  
+PCB-118
+
+GC-MS
+
+DIN 38407-37:2013-11
+
+PAK<sub>16</sub>
+
+HPLC-F,  
+GC-MS
+
+DIN EN ISO 17993:2004-03  
+DIN 38407-39: 2011-09
+
+Summe aus Tri- und Tetrachlorethen
+
+GC-MS  
+HS-SPME GC-MS
+
+DIN 38407-43:2014-10  
+DIN EN ISO 17943:2016-10
+
+Perfluorbutansäure (PFBA), Perfluoroktansäure (PFOA), Perfluornonansäure (PFNA), Perfluorbutansulfonsäure (PFBS), Perfluorhexansäure (PFHxA), Perfluorhexansulfonsäure (PFHxS), Perfluoroktansulfonsäure (PFOS)
+
+Verfahren mittels Hochleistungs-Flüssigkeitschromatographie und massenspektrometrischer Detektion (HPLC-MS/MS) nach Fest-Flüssig-Extraktion
+
+DIN 38407-42:2011-03  
+DIN 38414-14:2011-08
+
+2,4-Dinitrotoluol,  
+2,6-Dinitrotoluol,  
+2,2', 4,4', 6,6'-Hexanitrodiphenylamin (Hexyl),  
+1,3,5-Trinitro-hexahydro-1,3,5-triazin (Hexogen),  
+Nitropenta,  
+2,4,6-Trinitrotoluol (TNT)
+
+HPLC mit UV-Detektion
+
+DIN EN ISO 22478:2006-07
+
+<span id="FnA2-F817098_02_03_07_01"></span><a href="#FnR.FnA2-F817098_02_03_07_01" class="Footnote">1</a>  
+BTEX: Summe Benzol, Toluol, Ethylbenzol und Xylole.
+
+<span id="FnA2-F817098_02_03_07_02"></span><a href="#FnR.FnA2-F817098_02_03_07_02" class="Footnote">2</a>  
+Summe der Kohlenwasserstoffe, die zwischen n-Dekan (C 10) und n-Tetracontan (C 40) von der gaschromatographischen Säule eluieren.
+
+<span id="FnA2-F817098_02_03_07_03"></span><a href="#FnR.FnA2-F817098_02_03_07_03" class="Footnote">3</a>  
+LHKW, gesamt: Leichtflüchtige Halogenkohlenwasserstoffe, d. h. Summe der halogenierten C1- und C2-Kohlenwasserstoffe; einschließlich Trihalogenmethane.
+
+ 
+
+Tabelle 8: Bodenluft- und Deponiegasuntersuchung
+
+Stoff
+
+Methode
+
+Norm
+
+BTEX, LHKW, leichtflüchtige aliphatische Kohlenwasserstoffe (Alkane, Cycloalkane und Alkene mit 5 bis 10 C‑  
+Atomen), MTBE
+
+Messplanung Bodenluft
+
+VDI 3865-1:2005-06
+
+Probennahmetechnik, Messstellen
+
+VDI 3865-2:1998-01
+
+Anreicherungstechnik
+
+VDI 3865-3:1998-06
+
+Direktmesstechnik
+
+VDI 3865-4:2000-12
+
+CO<sub>2</sub>, CH<sub>4</sub>, O<sub>2</sub>, N<sub>2</sub>, H<sub>2</sub>S, NH<sub>3</sub>
+
+Messplanung
+
+VDI 3860-4:2012-06
+
+Bestimmung der Haupt- und Spurenkomponenten
+
+VDI 3860-2:2019-05
+
+Diffuse CH<sub>4</sub>-Ausgasung; oberflächennahe CH<sub>4</sub>-Bestimmung
+
+VDI 3860-3:2017-11
+
+Tabelle 6 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Atomfluoreszenz-spektrometrie" durch das Wort "Atomfluoreszenzspektrometrie" ersetzt.
+
+# Anlage 4 – (zu § 27 Absatz 1 Satz 1)Technische Regeln und Normen
+
+(Fundstelle: BGBl. I 2021, 2746 - 2750)
+
+ 
+
+DIN 18300:2019-09
+
+VOB Vergabe- und Vertragsordnung für Bauleistungen – Teil C: Allgemeine Technische Vertragsbedingungen für Bauleistungen (ATV) – Erdarbeiten
+
+DIN EN ISO 17892-4:2017-04
+
+Geotechnische Erkundung und Untersuchung – Laborversuche an Bodenproben – Teil 4: Bestimmung der Korngrößenverteilung
+
+DIN 18915:2018-06
+
+Vegetationstechnik im Landschaftsbau – Bodenarbeiten
+
+DIN 18919:2016-12
+
+Vegetationstechnik im Landschaftsbau – Instandhaltungsleistungen für die Entwicklung und Unterhaltung von Vegetation (Entwicklungs- und Unterhaltungspflege)
+
+DIN 19639:2019-09
+
+Bodenschutz bei der Planung und Durchführung von Bauvorhaben
+
+DIN 19706:2013-02
+
+Bodenbeschaffenheit – Ermittlung der Erosionsgefährdung von Böden durch Wind
+
+DIN 19708:2017-08
+
+Bodenbeschaffenheit – Ermittlung der Erosionsgefährdung von Böden durch Wasser mit Hilfe der ABAG
+
+DIN 19731:1998-05
+
+Bodenbeschaffenheit – Verwertung von Bodenmaterial
+
+DIN 19747:2009-07
+
+Untersuchung von Feststoffen – Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen
+
+DIN 19528:2009-01
+
+Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von anorganischen und organischen Stoffen
+
+DIN 19529:2015-12
+
+Elution von Feststoffen – Schüttelverfahren zur Untersuchung des Elutionsverhaltens von anorganischen und organischen Stoffen mit einem Wasser/Feststoff-Verhältnis von 2 l/kg
+
+DIN 19539:2016-12
+
+Untersuchung von Feststoffen – Temperaturabhängige Differenzierung des Gesamtkohlenstoffs (TOC400, ROC, TIC900)
+
+DIN 19738:2017-06
+
+Bodenbeschaffenheit – Resorptionsverfügbarkeit von organischen und anorganischen Schadstoffen aus kontaminiertem Bodenmaterial
+
+DIN 32645:2008-11
+
+Chemische Analytik – Nachweis-, Erfassungs- und Bestimmungsgrenze unter Wiederholbedingungen – Begriffe, Verfahren, Auswertung
+
+DIN 38405-4:1985-07
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Anionen (Gruppe D); Bestimmung von Fluorid (D 4)
+
+DIN 38405-13:2011-04
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Anionen (Gruppe D) – Teil 13: Bestimmung von Cyaniden (D 13)
+
+DIN 38407-27:2012-10
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Gemeinsam erfassbare Stoffgruppen (Gruppe F) – Teil 27: Bestimmung ausgewählter Phenole in Grund- und Bodensickerwasser, wässrigen Eluaten und Perkolaten (F 27)
+
+DIN 38407-37:2013-11
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Gemeinsam erfassbare Stoffgruppen (Gruppe F) – Teil 37: Bestimmung von Organochlorpestiziden, Polychlorbiphenylen und Chlorbenzolen in Wasser – Verfahren mittels Gaschromatographie und massenspektrometrischer Detektion (GC-MS) nach Flüssig-Flüssig-Extraktion (F 37)
+
+DIN 38407-39:2011-09
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Gemeinsam erfassbare Stoffgruppen (Gruppe F) – Teil 39: Bestimmung ausgewählter polycyclischer aromatischer Kohlenwasserstoffe (PAK) – Verfahren mittels Gaschromatographie und massenspektrometrischer Detektion (GC-MS) (F 39)
+
+DIN 38407-42:2011-03
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Gemeinsam erfassbare Stoffgruppen (Gruppe F) – Teil 42: Bestimmung ausgewählter polyfluorierter Verbindungen (PFC) in Wasser – Verfahren mittels Hochleistungs-Flüssigkeitschromatographie und massenspektrometrischer Detektion (HPLC-MS/MS) nach Fest-Flüssig-Extraktion (F 42)
+
+DIN 38407-43:2014-10
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Gemeinsam erfassbare Stoffgruppen (Gruppe F) – Teil 43: Bestimmung ausgewählter leichtflüchtiger organischer Verbindungen in Wasser – Verfahren mittels Gaschromatographie und Massenspektrometrie nach statischer Headspacetechnik (HS-GC-MS) (F 43)
+
+DIN 38414-8:1985-06
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Schlamm und Sedimente (Gruppe S); Bestimmung des Faulverhaltens (S 8)
+
+DIN 38414-14:2011-08
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Schlamm und Sedimente (Gruppe S) – Teil 14: Bestimmung ausgewählter polyfluorierter Verbindungen (PFC) in Schlamm, Kompost und Boden – Verfahren mittels Hochleistungs-Flüssigkeitschromatographie und massenspektrometrischer Detektion (HPLC-MS/MS) (S 14)
+
+DIN 38414-17:2017-01
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Schlamm und Sedimente (Gruppe S) – Teil 17: Bestimmung von extrahierbaren organisch gebundenen Halogenen (EOX) (S 17)
+
+DIN 38414-24:2000-10
+
+Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Schlamm und Sedimente (Gruppe S) – Teil 24: Bestimmung von polychlorierten Dibenzodioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF) (S 24)
+
+DIN EN 12673:1999-05
+
+Wasserbeschaffenheit – Gaschromatographische Bestimmung einiger ausgewählter Chlorphenole in Wasser; Deutsche Fassung EN 12673:1998
+
+DIN EN 13657:2003-01
+
+Charakterisierung von Abfällen – Aufschluß zur anschließenden Bestimmung des in Königswasser löslichen Anteils an Elementen in Abfällen; Deutsche Fassung EN 13657:2002
+
+DIN EN 14346:2007-03
+
+Charakterisierung von Abfällen – Berechnung der Trockenmasse durch Bestimmung des Trockenrückstandes oder des Wassergehaltes; Deutsche Fassung EN 14346:2006
+
+DIN EN 15192:2007-02
+
+Charakterisierung von Abfällen und Boden – Bestimmung von sechswertigem Chrom in Feststoffen durch alkalischen Aufschluss und Ionenchromatographie mit photometrischer Detektion; Deutsche Fassung EN 15192:2006
+
+DIN EN 15933:2012-11
+
+Schlamm, behandelter Bioabfall und Boden – Bestimmung des pH-Werts; Deutsche Fassung EN 15933:2012
+
+DIN EN 15934:2012-11
+
+Schlamm, behandelter Bioabfall, Boden und Abfall – Berechnung des Trockenmassenanteils nach Bestimmung des Trockenrückstands oder des Wassergehalts; Deutsche Fassung EN 15934:2012
+
+DIN EN 15936:2012-11
+
+Schlamm, behandelter Bioabfall, Boden und Abfall – Bestimmung des gesamten organischen Kohlenstoffs (TOC) mittels trockener Verbrennung; Deutsche Fassung EN 15936:2012
+
+DIN EN 16167:2019-06
+
+Boden, behandelter Bioabfall und Schlamm – Bestimmung von polychlorierten Biphenylen (PCB) mittels Gaschromatographie mit Massenspektrometrie-Kopplung (GC-MS) und Gaschromatographie mit Elektroneneinfangdetektion (GC-ECD); Deutsche Fassung EN 16167:2018+AC:2019
+
+DIN EN 16170:2017-01
+
+Schlamm, behandelter Bioabfall und Boden – Bestimmung von Spurenelementen mittels optischer Emissionsspektrometrie mit induktiv gekoppeltem Plasma (ICP-OES); Deutsche Fassung EN 16170:2016
+
+DIN EN 16171:2017-01
+
+Schlamm, behandelter Bioabfall und Boden – Bestimmung von Spurenelementen mittels Massenspektrometrie mit induktiv gekoppeltem Plasma (ICP-MS); Deutsche Fassung EN 16171:2016
+
+DIN EN 16174:2012-11
+
+Schlamm, behandelter Bioabfall und Boden – Aufschluss von mit Königswasser löslichen Anteilen von Elementen; Deutsche Fassung EN 16174:2012
+
+DIN EN 16175-1:2016-12
+
+Schlamm, behandelter Bioabfall und Boden – Bestimmung von Quecksilber – Teil 1: Kaltdampf-Atomabsorptionsspektrometrie (CV-AAS); Deutsche Fassung EN 16175-1:2016
+
+DIN EN 16175-2:2016-12
+
+Schlamm, behandelter Bioabfall und Boden – Bestimmung von Quecksilber – Teil 2: Kaltdampf-Atomfluoreszenzspektrometrie (CV-AFS); Deutsche Fassung EN 16175-2:2016
+
+DIN EN 16181:2019-08
+
+Boden, behandelter Bioabfall und Schlamm – Bestimmung von polycyclischen aromatischen Kohlenwasserstoffen (PAK) mittels Gaschromatographie (GC) und Hochleistungs-Flüssigkeitschromatographie (HPLC); Deutsche Fassung EN 16181:2018
+
+DIN EN 16190:2019-10
+
+Boden, behandelter Bioabfall und Schlamm – Bestimmung von Dioxinen und Furanen sowie Dioxin-vergleichbaren polychlorierten Biphenylen mittels Gaschromatographie und hochauflösender massenspektrometrischer Detektion (HR GC-MS); Deutsche Fassung EN 16190:2018
+
+DIN EN ISO 5667-3:2019-07
+
+Wasserbeschaffenheit – Probenahme – Teil 3: Konservierung und Handhabung von Wasserproben (ISO 5667-3:2018); Deutsche Fassung EN ISO 5667-3:2018
+
+DIN EN ISO 9377-2:2001-07
+
+Wasserbeschaffenheit – Bestimmung des Kohlenwasserstoff-Index – Teil 2: Verfahren nach Lösemittelextraktion und Gaschromatographie (ISO 9377-2:2000); Deutsche Fassung EN ISO 9377-2:2000
+
+DIN EN ISO 10301:1997-08
+
+Wasserbeschaffenheit – Bestimmung leichtflüchtiger halogenierter Kohlenwasserstoffe – Gaschromatographische Verfahren (ISO 10301:1997); Deutsche Fassung EN ISO 10301:1997
+
+DIN EN ISO 10304-1:2009-07
+
+Wasserbeschaffenheit – Bestimmung von gelösten Anionen mittels Flüssigkeits-Ionenchromatographie – Teil 1: Bestimmung von Bromid, Chlorid, Fluorid, Nitrat, Nitrit, Phosphat und Sulfat (ISO 10304-1:2007); Deutsche Fassung EN ISO 10304-1:2009
+
+DIN EN ISO 11272:2017-07
+
+Bodenbeschaffenheit – Bestimmung der Trockenrohdichte (ISO 11272:2017); Deutsche Fassung EN ISO 11272:2017
+
+DIN EN ISO/IEC 17020:2012-07
+
+Konformitätsbewertung – Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen (ISO/IEC 17020:2012); Deutsche und Englische Fassung EN ISO/IEC 17020:2012
+
+DIN EN ISO 11885:2009-09
+
+Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES) (ISO 11885:2007); Deutsche Fassung EN ISO 11885:2009
+
+DIN EN ISO 12846:2012-08
+
+Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomabsorptionsspektrometrie (AAS) mit und ohne Anreicherung (ISO 12846: 2012); Deutsche Fassung EN ISO 12846:2012
+
+DIN EN ISO 14403-1:2012-10
+
+Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 1: Verfahren mittels Fließinjektionsanalyse (FIA) (ISO 14403-1:2012); Deutsche Fassung EN ISO 14403-1:2012
+
+DIN EN ISO 14403-2:2012-10
+
+Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 2: Verfahren mittels kontinuierlicher Durchflussanalyse (CFA) (ISO 14403-2:2012); Deutsche Fassung EN ISO 14403-2:2012
+
+DIN EN ISO 15586:2004-02
+
+Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren (ISO 15586:2003); Deutsche Fassung EN ISO 15586:2003
+
+DIN EN ISO 15680:2004-04
+
+Wasserbeschaffenheit – Gaschromatographische Bestimmung einer Anzahl monocyclischer aromatischer Kohlenwasserstoffe, Naphthalin und einiger chlorierter Substanzen mittels Purge und Trap-Anreicherung und thermischer Desorption (ISO 15680:2003); Deutsche Fassung EN ISO 15680:2003
+
+DIN EN ISO/IEC 17025:2018-03
+
+Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien (ISO/IEC 17025:2017); Deutsche und Englische Fassung EN ISO/IEC 17025:2017
+
+DIN EN ISO 17892-4:2017-04
+
+Geotechnische Erkundung und Untersuchung – Laborversuche an Bodenproben – Teil 4: Bestimmung der Korngrößenverteilung (ISO 17892-4:2016); Deutsche Fassung EN ISO 17892-4:2016
+
+DIN EN ISO 17294-2:2017-01
+
+Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von ausgewählten Elementen einschließlich Uran-Isotope (ISO 17294-2:2016); Deutsche Fassung EN ISO 17294-2:2017
+
+DIN EN ISO 17380:2013-10
+
+Bodenbeschaffenheit – Bestimmung des Gehalts an Gesamtcyanid und leicht freisetzbarem Cyanid – Verfahren mittels kontinuierlicher Durchflussanalyse (ISO 17380:2013); Deutsche Fassung EN ISO 17380:2013
+
+DIN EN ISO 17852:2008-04
+
+Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomfluoreszenzspektrometrie (ISO 17852:2006); Deutsche Fassung EN ISO 17852:2008
+
+DIN EN ISO 17943:2016-10
+
+Wasserbeschaffenheit – Bestimmung flüchtiger organischer Verbindungen in Wasser – Verfahren mittels Headspace-Festphasenmikroextraktion (HS-SPME) gefolgt von der Gaschromatographie und Massenspektrometrie (GC-MS) (ISO 17943:2016); Deutsche Fassung EN ISO 17943:2016
+
+DIN EN ISO 17993:2004-03
+
+Wasserbeschaffenheit – Bestimmung von 15 polycyclischen aromatischen Kohlenwasserstoffen (PAK) in Wasser durch HPLC mit Fluoreszenzdetektion nach Flüssig-Flüssig-Extraktion (ISO 17993:2002); Deutsche Fassung EN ISO 17993:2003
+
+DIN EN ISO 18857-1:2007-02
+
+Wasserbeschaffenheit- Bestimmung ausgewählter Alkylphenole – Teil 1: Verfahren für nichtfiltrierte Proben mittels Flüssig-Flüssig-Extraktion und Gaschromatographie mit massenselektiver Detektion (ISO 18857-1:2005); Deutsche Fassung EN ISO 18857-1:2006
+
+DIN EN ISO 22475-1:2007-01
+
+Geotechnische Erkundung und Untersuchung – Probenentnahmeverfahren und Grundwassermessungen – Teil 1: Technische Grundlagen der Ausführung (ISO 22475-1:2006); Deutsche Fassung EN ISO 22475-1:2006
+
+DIN EN ISO 22478:2006-07
+
+Wasserbeschaffenheit – Bestimmung ausgewählter Explosivstoffe und verwandter Verbindungen – Verfahren mittels Hochleistungs-Flüssigkeitschromatographie (HPLC) mit UV-Detektion (ISO 22478:2006); Deutsche Fassung EN ISO 22478:2006
+
+DIN ISO 10381-1:2003-08
+
+Bodenbeschaffenheit – Probenahme – Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen (ISO 10381-1:2002)
+
+DIN ISO 10381-2:2003-08
+
+Bodenbeschaffenheit – Probenahme – Teil 2: Anleitung für Probenahmeverfahren (ISO 10381-2:2002)
+
+DIN ISO 10382:2003-05
+
+Bodenbeschaffenheit – Bestimmung von Organochlorpestiziden und polychlorierten Biphenylen – Gaschromatographisches Verfahren mit Elektroneneinfang-Detektor (ISO 10382:2002)
+
+DIN ISO 11262:2012-04
+
+Bodenbeschaffenheit – Bestimmung von Gesamtcyanid (ISO 11262:2011)
+
+DIN ISO 11277:2002-08
+
+Bodenbeschaffenheit – Bestimmung der Partikelgrößenverteilung in Mineralböden – Verfahren mittels Siebung und Sedimentation (ISO 11277:1998 + ISO 11277:1998 Corrigendum 1:2002)
+
+DIN ISO 11352:2013-03
+
+Wasserbeschaffenheit – Abschätzung der Messunsicherheit beruhend auf Validierungs- und Kontrolldaten (ISO 11352:2012)
+
+DIN ISO 11916-1:2014-11
+
+Bodenbeschaffenheit – Bestimmung von ausgewählten Explosivstoffen und verwandten Verbindungen – Teil 1: Verfahren mittels Hochleistungs-Flüssigkeitschromatographie (HPLC) und UV-Detektion (ISO 11916-1:2013)
+
+DIN ISO 11916-2:2014-11
+
+Bodenbeschaffenheit – Bestimmung von ausgewählten Explosivstoffen und verwandten Verbindungen – Teil 2: Verfahren mittels Gaschromatographie (GC) und Elektronen-Einfang-Detektion (ECD) oder massenspektrometrischer Detektion (MS) (ISO 11916-2:2013)
+
+DIN ISO 14154:2005-12
+
+Bodenbeschaffenheit – Bestimmung von ausgewählten Chlorphenolen – Gaschromatographisches Verfahren mit Elektronen-Einfang-Detektion (ISO 14154:2005)
+
+E DIN ISO 17378-2:2017-01
+
+Wasserbeschaffenheit – Bestimmung von Arsen und Antimon – Teil 2: Atomabsorptionsspektrometrie mit Hydridbildung (HG-AAS) (ISO 17378-2:2014)
+
+DIN ISO 18287:2006-05
+
+Bodenbeschaffenheit – Bestimmung der polycyclischen aromatischen Kohlenwasserstoffe (PAK) – Gaschromatographisches Verfahren mit Nachweis durch Massenspektrometrie (GC-MS) (ISO 18287:2006)
+
+DIN ISO 19730:2009-07
+
+Bodenbeschaffenheit – Extraktion von Spurenelementen aus Böden mit Ammoniumnitratlösung (ISO 19730:2008)
+
+DIN ISO 20280:2010-05
+
+Bodenbeschaffenheit – Bestimmung von Arsen, Antimon und Selen in Königswasser-Bodenextrakten mittels elektrothermischer oder Hydrid-Atomabsorptionsspektrometrie (ISO 20280:2007)
+
+DIN ISO 22036:2009-06
+
+Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten mittels Atomemissionsspektrometrie mit induktiv gekoppeltem Plasma (ICP-AES) (ISO 22036:2008)
+
+LAGA PN 98:2019-05
+
+Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen; Mitteilungen Länderarbeitsgemeinschaft Abfall (LAGA) 32; 2002
+
+VDI 3865 Blatt 1:2005-06
+
+Messen organischer Bodenverunreinigungen – Messplanung für die Untersuchung der Bodenluft auf leichtflüchtige organische Verbindungen
+
+VDI 3865 Blatt 2:1998-01
+
+Messen organischer Bodenverunreinigungen – Techniken für die aktive Entnahme von Bodenluftproben
+
+VDI 3865 Blatt 3:1998-06
+
+Messen organischer Bodenverunreinigungen – Gaschromatographische Bestimmung von niedrigsiedenden organischen Verbindungen in Bodenluft nach Anreicherung an Aktivkohle oder XAD-4 und Desorption mit organischem Lösungsmittel
+
+VDI 3860 Blatt 1:2006-05
+
+Messen von Deponiegas – Grundlagen
+
+VDI 3860 Blatt 2:2019-05
+
+Messen von Deponiegasen – Messungen im Gaserfassungssystem
+
+VDI 3860 Blatt 3:2017-11
+
+Messen von Deponiegasen – Messung von Methan an der Deponieoberfläche mittels Saugglockenverfahren
+
+VDI 3865 Blatt 4:2000-12
+
+Messen organischer Bodenverunreinigungen – Gaschromatographische Bestimmung von niedrigsiedenden organischen Verbindungen in Bodenluft durch Direktmessung

@@ -118,7 +118,7 @@ mindestens jedoch 9 Euro
 im Teilstreckenverkehr bei einer Länge
 
 |                                           | Euro |
-|:------------------------------------------|:-----|
+|:------------------------------------------|-----:|
 | bis 10 m                                  |  7,– |
 | über 10 m bis 12 m                        |  8,– |
 | über 12 m bis 16 m                        | 18,– |

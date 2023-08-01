@@ -527,9 +527,6 @@
 - [BBesGAnlIVNr1u4Bek](laws/BBesGAnlIVNr1u4Bek.md) Bekanntmachung nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes
 - [BBesG§78Abs2Bek](laws/BBesG§78Abs2Bek.md) Bekanntmachung nach § 78 Absatz 2 des Bundesbesoldungsgesetzes
 - [BBesG§78Abs2Bek 2019](laws/BBesG§78Abs2Bek_2019.md) Bekanntmachung nach § 78 Absatz 2 des Bundesbesoldungsgesetzes
-- [BBetreibZulV](laws/BBetreibZulV.md) Verordnung über die Zulassung Benannter Betreiber nach Artikel 3 des Gesetzes zu den Verträgen vom 5. Oktober 2004, 12. August 2008, 11. Oktober 2012 und 6. Oktober 2016 des Weltpostvereins
-- [BBFestV 2013](laws/BBFestV_2013.md) Verordnung zur Festsetzung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2013
-- [BBFestV 2014](laws/BBFestV_2014.md) Verordnung zur Festlegung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014
 - [BBFestV 2015](laws/BBFestV_2015.md) Verordnung zur Festlegung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2015
 - [BBFestV 2016](laws/BBFestV_2016.md) Verordnung zur Festlegung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2016
 - [BBFestV 2017](laws/BBFestV_2017.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2017
@@ -1349,7 +1346,6 @@
 - [ContrPrV](laws/ContrPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
-- [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
 - [COV19VorsorgV](laws/COV19VorsorgV.md) Verordnung zum Anspruch auf Schutzimpfung und auf Präexpositionsprophylaxe gegen COVID-19
 - [CSC](laws/CSC.md) Internationales Übereinkommen über sichere Container
@@ -1493,7 +1489,6 @@
 - [DienstRÄndG 2](laws/DienstRÄndG_2.md) Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des öffentlichen Dienstes in Landesparlamenten)
 - [DienstRÄndG 5](laws/DienstRÄndG_5.md) Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften
 - [DIFG](laws/DIFG.md) Gesetz zur Errichtung des Sondervermögens „Digitale Infrastruktur“
-- [Dig/PrintMedAusbV 2013](laws/Dig_PrintMedAusbV_2013.md) Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print*
 - [DiGAV](laws/DiGAV.md) Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung
 - [DigiManKflAusbV](laws/DigiManKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement*
 - [DIMDIAMV](laws/DIMDIAMV.md) Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte*)
@@ -1572,6 +1567,7 @@
 - [DüngMSaatG](laws/DüngMSaatG.md) Gesetz zur Sicherung der Düngemittel- und Saatgutversorgung
 - [DüngMSaatGVerlG](laws/DüngMSaatGVerlG.md) Gesetz zur Verlängerung des Gesetzes zur Sicherung der Düngemittel- und Saatgutversorgung
 - [DüV](laws/DüV.md) Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen 2
+- [DuPMedAusbV](laws/DuPMedAusbV.md) Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print *
 - [DVLStHV](laws/DVLStHV.md) Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine
 - [DVO-JuSchG](laws/DVO-JuSchG.md) Verordnung zur Durchführung des Jugendschutzgesetzes
 - [DVStB](laws/DVStB.md) Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
@@ -1813,6 +1809,8 @@
 - [ERPWiPlanG 1969](laws/ERPWiPlanG_1969.md) Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969
 - [ERPWiPlanG 2022](laws/ERPWiPlanG_2022.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2022
 - [ERPWiPlanG 2023](laws/ERPWiPlanG_2023.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2023
+- [ErsatzbaustoffV](laws/ErsatzbaustoffV.md) Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke
+- [ErsatzbaustoffVEV/BBodSchVNeuf/DepV2009uaÄndV](laws/ErsatzbaustoffVEV_BBodSchVNeuf_DepV2009uaÄndV.md) Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung 1
 - [ErstAnzV](laws/ErstAnzV.md) Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen
 - [ErstrG](laws/ErstrG.md) Gesetz über die Erstreckung von gewerblichen Schutzrechten
 - [ERVDPMAV](laws/ERVDPMAV.md) Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
@@ -2290,7 +2288,6 @@
 - [FzgTeilÜbkRgl 39](laws/FzgTeilÜbkRgl_39.md) Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Geschwindigkeitsmeßeinrichtung (des Geschwindigkeitsmeßgeräts) einschließlich ihres (seines) Einbaues
 - [FzgTeilÜbkRgl 40](laws/FzgTeilÜbkRgl_40.md) Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der Krafträder (Motorräder) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung
 - [FzgTeilÜbkRgl 47](laws/FzgTeilÜbkRgl_47.md) Regelung Nr. 47 - Einheitliche Vorschriften für die Genehmigung der Fahrräder mit Hilfsmotor (Motorfahrräder, Mopeds) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung
-- [FzMechAusbV](laws/FzMechAusbV.md) Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin*
 - [FzTV](laws/FzTV.md) Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung
 - [FZulBV](laws/FZulBV.md) Verordnung zur Durchführung von § 14 Absatz 1 des Forschungszulagengesetzes
 - [FZulBVInkrbek](laws/FZulBVInkrbek.md) Bekanntmachung über das Inkrafttreten der Forschungszulagen-Bescheinigungsverordnung
@@ -2475,6 +2472,7 @@
 - [GII121378](laws/GII121378.md) Gesetz zum Vorschlag für einen Beschluss des Rates zur Festlegung eines Mehrjahresrahmens (2013 - 2017) für die Agentur der Europäischen Union für Grundrechte
 - [GII170002](laws/GII170002.md) Gesetz zu dem Abkommen vom 31. Mai 2013 zwischen der Regierung der Bundesrepublik Deutschland und dem Ministerrat der Republik Albanien über die Zusammenarbeit im Sicherheitsbereich
 - [GII170016](laws/GII170016.md) Gesetz zu dem Abkommen vom 22. März 2016 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Serbien über die Zusammenarbeit im Sicherheitsbereich
+- [GiMedAusbV](laws/GiMedAusbV.md) Verordnung über die Berufsausbildung zum Gestalter für immersive Medien und zur Gestalterin für immersive Medien *
 - [GIV](laws/GIV.md) Verordnung zur Förderung der Interoperabilität zwischen informationstechnischen Systemen im Gesundheitswesen*
 - [GKAR](laws/GKAR.md) Gesetz über Änderungen von Vorschriften des Zweiten Buches der Reichsversicherungsordnung und zur Ergänzung des Sozialgerichtsgesetzes
 - [GKG](laws/GKG.md) Gerichtskostengesetz
@@ -2484,7 +2482,7 @@
 - [GKVRefG 2000](laws/GKVRefG_2000.md) Gesetz zur Reform der gesetzlichen Krankenversicherung ab dem Jahr 2000
 - [GKVStabG 2003](laws/GKVStabG_2003.md) Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung im Jahre 2003
 - [GlAppMstrV](laws/GlAppMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Glasapparatebauer-Handwerk
-- [GlasappAusbV](laws/GlasappAusbV.md) Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin
+- [GlasappAusbV](laws/GlasappAusbV.md) Verordnung über die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin *
 - [GlasblAusbV](laws/GlasblAusbV.md) Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin
 - [GlaserMstrV](laws/GlaserMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Glaser-Handwerk
 - [GlashütteV](laws/GlashütteV.md) Verordnung zum Schutz der geografischen Herkunftsangabe „Glashütte“ 1
@@ -3088,6 +3086,7 @@
 - [KernbrStG](laws/KernbrStG.md) Kernbrennstoffsteuergesetz
 - [KErzG](laws/KErzG.md) Gesetz über die religiöse Kindererziehung
 - [KF-VO](laws/KF-VO.md) Verordnung über die Einfuhrabgabenfreiheit von Waren in Sendungen von Privatpersonen an Privatpersonen
+- [KFBauMechAusbV](laws/KFBauMechAusbV.md) Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin *
 - [KfbG](laws/KfbG.md) Gesetz zur Bereinigung von Kriegsfolgengesetzen
 - [KflDiAusbV](laws/KflDiAusbV.md) Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft
 - [KfSachvG](laws/KfSachvG.md) Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr
@@ -3264,7 +3263,7 @@
 - [KStDV 1994](laws/KStDV_1994.md) Körperschaftsteuer-Durchführungsverordnung 1994
 - [KStG](laws/KStG.md) Körperschaftsteuergesetz
 - [KStoffIndMeistPrV 2014](laws/KStoffIndMeistPrV_2014.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-- [KStoffVerfMAusbV 2012](laws/KStoffVerfMAusbV_2012.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik*)
+- [KStoffTechAusbV](laws/KStoffTechAusbV.md) Verordnung über die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin *
 - [KSVEntgV](laws/KSVEntgV.md) Künstlersozialversicherungs-Entgeltverordnung
 - [KSVG](laws/KSVG.md) Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten
 - [KSVGBeitrÜV](laws/KSVGBeitrÜV.md) Verordnung über die Überwachung der Entrichtung der Beitragsanteile und der Künstlersozialabgabe nach dem Künstlersozialversicherungsgesetz
@@ -5326,7 +5325,7 @@
 - [SteinKAGSaarG](laws/SteinKAGSaarG.md) Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft
 - [SteinkohleFinG](laws/SteinkohleFinG.md) Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018
 - [SterilEntschAufhG](laws/SterilEntschAufhG.md) Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte (Artikel 2 des Gesetzes zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege und von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte)
-- [StFachAngAusbV](laws/StFachAngAusbV.md) Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten
+- [StFachAngAusbV](laws/StFachAngAusbV.md) Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten*
 - [StFG](laws/StFG.md) Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds
 - [StGB](laws/StGB.md) Strafgesetzbuch
 - [StGBuaÄndG](laws/StGBuaÄndG.md) Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes, der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes

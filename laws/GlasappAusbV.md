@@ -1,798 +1,25 @@
-% Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin  (Glasapparatebauer-Ausbildungsverordnung - GlasappAusbV)
-% Ausfertigungsdatum: 21.12.1983
+% Verordnung über die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin*  (Glasapparatebauer-Ausbildungsverordnung - GlasappAusbV)
+% Ausfertigungsdatum: 15.05.2023
  
 # Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
+Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, und auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Anwendungsbereich
+# Inhaltsübersicht
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Glasapparatebauer/Glasapparatebauerin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
-
-# § 2 – Staatliche Anerkennung des Ausbildungsberufes
-
-Der Ausbildungsberuf Glasapparatebauer/Glasapparatebauerin wird staatlich anerkannt.
-
-# § 3 – Ausbildungsdauer
-
-Die Ausbildung dauert drei Jahre.
-
-# § 4 – Ausbildungsberufsbild
-
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
-
-1. Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung,
-
-2. Anfertigen von Zeichnungen und Handskizzen sowie Festlegen des Arbeitsablaufes,
-
-3. Einsatz von Werkzeugen, Geräten, Maschinen und Anlagen,
-
-4. Pflegen und Warten der Werkzeuge, Geräte, Maschinen und Anlagen,
-
-5. Kenntnisse des Ausbildungsbetriebes einschließlich seiner Organisation,
-
-6. Kenntnisse des Glases und anderer Werkstoffe im Glasapparatebau,
-
-7. Heißverformen des Glases:
-
-a) Trennen, Zusammensetzen, Ansetzen und Biegen,
-
-b) Auf- und Einblasen,
-
-c) Auftreiben und Bördeln,
-
-d) Einschmelzen,
-
-e) Herstellen von Glasapparaten,
-
-8. Umgehen mit Vakuumanlagen,
-
-9. Messen und Prüfen von Halb- und Fertigerzeugnissen.
-
-# § 5 – Ausbildungsrahmenplan
-
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
-
-# § 6 – Ausbildungsplan
-
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
-# § 7 – Berichtsheft
-
-Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
-
-# § 8 – Zwischenprüfung
-
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
-
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 3 Halbjahre aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 6 Stunden 4 Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
-
-1. seitliches und zentrisches Zusammensetzen von Glasrohren bis 20 mm Durchmesser,
-
-2. Auftreiben von Kegelhülsen bis Normschliff (NS) 19,
-
-3. Biegen von Glasrohren bis 15 mm Durchmesser,
-
-4. Blasen von Kugeln bis zu 70 mm Durchmesser,
-
-5. Einschmelzen von Spitzen und Rohren ein- und doppelseitig in Glasrohre bis 30 mm Durchmesser,
-
-6. Einschmelzen von Spitzen und Rohren in Kugeln bis 70 mm Durchmesser.
-
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
-
-1. Herstellung des Glases,
-
-2. Eigenschaften des Glases,
-
-3. Grundlagen der Volumen- und Temperaturmessung,
-
-4. Arbeitsschutz und Unfallverhütung.
-
-Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
-
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
-
-# § 9 – Abschlußprüfung und Gesellenprüfung
-
-(1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Arbeitsproben anfertigen. Hierfür kommen insbesondere in Betracht:
-
-1. zentrisches Zusammensetzen von Glasrohren unterschiedlichen Durchmessers,
-
-2. zentrisches und seitliches Zusammensetzen von Kapillarrohren ab 1 mm Innendurchmesser,
-
-3. seitliches Zusammensetzen von Glasrohren bis 20 mm Durchmesser mit Glaskörpern,
-
-4. doppelseitiges Zusammensetzen von Glasrohren mit Glaskörpern,
-
-5. Biegen von Glasrohren bis 25 mm Durchmesser,
-
-6. Einblasen eines Glaskörpers in eine Form,
-
-7. Einschmelzen von Glasfritten von 10 bis 40 mm Durchmesser in Glasrohre bis 80 mm Durchmesser,
-
-8. Einschmelzen von Wolframdraht bis 1,5 mm Durchmesser in Borosilicatglas,
-
-9. Wendeln von Glasrohren bis 10 mm Durchmesser von Hand auf Dorn,
-
-10. Herstellen von Kegelhülsen und -kernen bis NS 45 mit Formwerkzeugen,
-
-11. Anfertigen von Einweg-Kegelhähnen mit Hohlküken bis NS 21,5,
-
-12. Fertigen von Kegelhülsen bis NS 29,2,
-
-13. Einmessen und Markieren von Volumenmeßgeräten mit Wasser oder Quecksilber,
-
-14. Einstellen des selbsttätigen Nullpunktes an Meßgeräten,
-
-15. Justieren von Auslauföffnungen an Volumenmeßgeräten.
-
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich und in dem Prüfungsfach Technologie auch mündlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
-
-1. im Prüfungsfach Technologie:
-
-a) Zusammensetzung, Eigenschaften und Arten des Glases,
-
-b) Tischbrenner, Handgebläse, Armaturen, Betriebsanlagen für Brenngas und für Luftversorgung,
-
-c) Glasblasdreh-, Trenn-, Bohr-, Schleif- und Teilmaschinen,
-
-d) Heißverformung,
-
-e) Vakuumtechnik,
-
-f) thermisches Stabilisieren,
-
-g) Glasapparatekunde,
-
-h) Glas- und Metallverschmelzung,
-
-i) Eich- und Normvorschriften für Glasapparate,
-
-k) Meßverfahren für die Volumen- und Querschnittsbestimmung von Glasrohren und -körpern,
-
-l) Justieren und Skalieren,
-
-m) Glasreinigungs-, Wachs- und Ätzmittel, Einbrennfarben und Hilfsstoffe,
-
-n) Kaltbearbeiten von Glas durch Bohren, Schleifen und Polieren,
-
-o) Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;
-
-2. im Prüfungsfach Technische Mathematik:
-
-a) Berechnen der Oberflächen, Volumen und Gewichte von Glasapparaturen und Volumenmeßgeräten,
-
-b) Luftdruckberechnungen,
-
-c) Berechnen der Flächen von Kühlern,
-
-d) Berechnen der Durchlaufgeschwindigkeiten, Apparatequerschnitte und Strömungswiderstände;
-
-3. im Prüfungsfach Technisches Zeichnen:
-
-a) Grundbegriffe der Normung,
-
-b) Lesen und Ergänzen schwieriger Zeichnungen,
-
-c) Zeichnen von Ausschnitten aus einer Vorlage,
-
-d) Erläutern von Fertigungsvorschriften und Werkstückzeichnungen;
-
-4. im Prüfungsfach Wirtschafts- und Sozialkunde:
-
-Wirtschafts- und Sozialkunde.
-
-Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
-
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
-
-|     |                                              |              |
-|:----|:---------------------------------------------|-------------:|
-| 1\. | im Prüfungsfach Technologie                  | 120 Minuten, |
-| 2\. | im Prüfungsfach Technische Mathematik        |  90 Minuten, |
-| 3\. | im Prüfungsfach Technisches Zeichnen         |  90 Minuten, |
-| 4\. | im Prüfungsfach Wirtschafts- und Sozialkunde |  60 Minuten. |
-
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
-
-(6) Die mündliche Prüfung soll nicht länger als 30 Minuten je Prüfling dauern.
-
-(7) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
-
-(8) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
-
-(9) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
-
-# § 10 – Aufhebung von Vorschriften
-
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für Lehrberufe, Anlernberufe und für vergleichbar geregelte Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für die Ausbildungsberufe Glasinstrumentenmacher, Glasapparatebläser und Glasapparatejustierer, sind vorbehaltlich des § 11 nicht mehr anzuwenden.
-
-# § 11 – Übergangsregelung
-
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
-
-# § 12 – Berlin-Klausel
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der Handwerksordnung auch im Land Berlin.
-
-# § 13 – Inkrafttreten
-
-Diese Verordnung tritt am 1. August 1984 in Kraft.
-
-# Schlußformel
-
-Der Bundesminister für Wirtschaft
-
-# Anlage – Ausbildungsrahmenplan für die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin
-
-(Fundstelle: BGBl. I 1983, 1648 - 1651)
-
-  
-
-Lfd. Nr.
-
-Teil des Ausbildungsberufsbilds
-
-zu vermittelnde Fertigkeiten und Kenntnisse
-
-zu vermitteln im Ausbildungshalbjahr
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-1
-
-2
-
-3
-
-4
-
-1
-
-Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 1)
-
-a)
-
-wesentliche gesetzliche und betriebliche Arbeitsund Umweltschutzvorschriften erklären und beachten
-
-während der gesamten Ausbildungszeit zu vermitteln
-
-b)
-
-Unfallverhütungsvorschriften, Richtlinien und Merkblätter erläutern und beachten
-
-c)
-
-unfallverursachendes Verhalten sowie berufstypische Unfallquellen und -Situationen beschreiben
-
-d)
-
-wesentliche Vorschriften der Feuerverhütung sowie die Brandschutzeinrichtungen nennen
-
-e)
-
-Gefahren, die vom Glas ausgehen, erklären und Maßnahmen zu ihrer Vermeidung ergreifen
-
-f)
-
-Gefahren, die von elektrischen Anlagen ausgehen, erklären und Maßnahmen zu ihrer Vermeidung ergreifen
-
-g)
-
-Gefahren, die von Giften, Gasen und leicht entzündbaren Stoffen ausgehen, erklären und Maßnahmen zu ihrer Vermeidung ergreifen
-
-h)
-
-Verhaltensweisen bei Unfällen beschreiben und Maßnahmen zur Ersten Hilfe einleiten
-
-i)
-
-die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
-
-2
-
-Anfertigen von Zeichnungen und Handskizzen sowie Festlegen des Arbeitsablaufs (§ 4 Nr. 2)
-
-a)
-
-Zeichnungen lesen und erläutern
-
-b)
-
-Handskizzen anfertigen, insbesondere normgerecht vermaßen
-
-c)
-
-Arbeitsablauf nach selbst angefertigten und nach vorgegebenen Zeichnungen sowie nach Arbeitsanweisungen festlegen
-
-3
-
-Einsatz von Werkzeugen, Geräten, Maschinen und Anlagen (§ 4 Nr. 3)
-
-a)
-
-Werkzeuge für die Heißverformung von Glashalberzeugnissen erläutern und handhaben
-
-b)
-
-Tischbrenner und Handgebläse, insbesondere ihre Wirkungsweise, erläutern und handhaben
-
-c)
-
-Glasblasdrehmaschinen sowie Anlagen für die Heißverformung beschreiben und einrichten
-
-4
-
-Pflegen und Warten der Werkzeuge, Geräte, Maschinen und Anlagen (§ 4 Nr. 4)
-
-a)
-
-Pflege und Wartung als verschleißhemmende Maßnahme beschreiben
-
-b)
-
-Werkzeuge, Maschinen und Anlagen der Glasapparateherstellung unter Beachtung entsprechender Vorschriften pflegen und warten
-
-5
-
-Kenntnisse des Ausbildungsbetriebs einschließlich seiner Organisation (§ 4 Nr. 5)
-
-a)
-
-die Art des Ausbildungsbetriebs, insbesondere Branche, Betriebs- und Rechtsform, beschreiben
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-b)
-
-die Abwicklung eines Auftrags beschreiben und seinen Ablauf mit den einzelnen Schritten und den hierzu erforderlichen Daten, Maschinen, Werkzeugen und Vorrichtungen erklären
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-c)
-
-die Auftragsbegleitpapiere nennen und ihren Zweck erläutern
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-6
-
-Kenntnisse des Glases und anderer Werkstoffe im Glasapparatebau (§ 4 Nr. 6)
-
-a)
-
-die Einteilung des Glases nach seiner chemischen Zusammensetzung, seiner Art und Verwendung nennen
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-b)
-
-die Verwendung sonstiger Werkstoffe in der Glasapparateherstellung, insbesondere Kunststoffe, Metalle und Glaskeramik, erläutern
-
- 
-
- 
-
- 
-
- 
-
-X
-
- 
-
-7
-
-Heißverformen des Glases (§ 4 Nr. 7)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-7.1
-
-Trennen, Zusammensetzen, Ansetzen und Biegen (§ 4 Nr. 7 Buchstabe a)
-
-a)
-
-Glasrohre und Hohlglaskörper bis zu 100 mm Durchmesser mechanisch trennen und thermisch sprengen
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-b)
-
-Glasrohre gleichen und unterschiedlichen Durchmessers zentrisch zusammensetzen
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-c)
-
-Glasrohre bis zu 20 mm Durchmesser seitlich in unterschiedlichen Winkeln mit Glaskörpern zusammensetzen
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-d)
-
-Kapillarrohre ab 1 mm Innendurchmesser zentrisch und seitlich zusammensetzen
-
- 
-
- 
-
- 
-
-X
-
- 
-
- 
-
-e)
-
-Hahn- und Schliffhülsen bis NS 24 unter Verwendung von Glasrohren doppelseitig an Glaskörper ansetzen
-
- 
-
- 
-
- 
-
-X
-
- 
-
- 
-
-f)
-
-Dampf- und Druckausgleichsrohre an Glaskörper ansetzen
-
- 
-
- 
-
- 
-
-X
-
- 
-
- 
-
-g)
-
-Glasrohre biegen mit einem Durchmesser
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-aa)
-
-bis 10 mm
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-bb)
-
-bis zu 15 mm
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-cc)
-
-bis zu 25 mm
-
- 
-
- 
-
-X
-
- 
-
- 
-
- 
-
-h)
-
-Glasrohre bis 10 mm Durchmesser von Hand auf Dorn wendeln
-
- 
-
- 
-
- 
-
- 
-
- 
-
-X
-
-7.2
-
-Auf- und Einblasen (§ 4 Nr. 7 Buchstabe b)
-
-a)
-
-an Glasrohren Spitzen ziehen, Glasrohre verengen und zentrieren sowie Böden mit einem Durchmesser bis zu 30 mm anfertigen
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-b)
-
-Kugeln aufblasen
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
-aa)
-
-mit einem Durchmesser bis zu 30 mm
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-bb)
-
-mit einem Durchmesser bis zu 70 mm
-
- 
-
- 
-
-X
-
- 
-
- 
-
- 
-
-cc)
-
-als Kugelleiste mit 4 bis 10 Kugeln
-
- 
-
-X
-
- 
-
- 
-
- 
-
- 
-
-c)
-
-Glaskörper in eine Form einblasen
-
- 
-
- 
-
- 
-
-X
-
- 
-
- 
-
-7.3
-
-Auftreiben und Bördeln (§ 4 Nr. 7 Buchstabe c)
-
-a)
-
-Ränder bördeln
-
-X
-
- 
-
- 
-
- 
-
- 
-
- 
-
-b)
-
-Kegelhülsen auftreiben
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
-
-aa)
 
-bis NS 19
-
  
 
  
-
-X
 
  
 
  
 
  
-
-bb)
-
-bis NS 29
 
  
 
@@ -800,531 +27,460 @@ bis NS 29
 
  
 
-X
-
  
 
  
-
-cc)
 
-bis NS 45
-
- 
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
- 
+Der Ausbildungsberuf mit der Berufsbezeichnung des Glasapparatebauers und der Glasapparatebauerin wird staatlich anerkannt nach
 
- 
+1. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 40 Glasbläser und Glasapparatebauer der Handwerksordnung und
 
- 
+2. § 4 Absatz 1 des Berufsbildungsgesetzes.
 
-X
+# § 2 – Dauer der Berufsausbildung
 
- 
+Die Berufsausbildung dauert drei Jahre.
 
-c)
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-Hahnhülsen mit einem Durchmesser bis NS 21,5 auftreiben
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
- 
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
- 
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
- 
+# § 4 – Struktur der Berufsausbildung und Ausbildungsberufsbild
 
-X
+(1) Die Berufsausbildung gliedert sich in:
 
- 
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten und
 
- 
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-d)
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen gebündelt.
 
-Hahnansätze an Rohren bis 13 mm Durchmesser anfertigen
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
- 
+1. Herstellen von Skizzen und Fertigungszeichnungen,
 
- 
+2. Planen und Vorbereiten von Arbeitsabläufen,
 
- 
+3. Trennen von Glaserzeugnissen,
 
-X
+4. manuelles Heißbearbeiten von Rohmaterialien und Werkstücken,
 
- 
+5. maschinelles Heißbearbeiten von Rohmaterialien und Werkstücken,
 
- 
+6. Kaltbearbeiten von Rohmaterialien und Werkstücken,
 
-7.4
+7. Herstellen von Glasapparaten,
 
-Einschmelzen (§ 4 Nr. 7 Buchstabe d)
+8. Nachbehandeln von Glasapparaten,
 
-a)
+9. Messen und Prüfen von Halbzeugen und Glasapparaten,
 
-in Glasrohre bis 80 mm Durchmesser einschmelzen:
+10. Einsetzen und Warten von Arbeitsmitteln,
 
- 
+11. Instandsetzen und Ändern von Halbzeugen und Glasapparaten und
 
- 
+12. Durchführen von qualitätssichernden Maßnahmen.
 
- 
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
- 
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
- 
+2. Sicherheit und Gesundheit bei der Arbeit,
 
- 
+3. Umweltschutz und Nachhaltigkeit und
 
-aa)
+4. digitalisierte Arbeitswelt.
 
-Spitzen und Rohre ein- und doppelseitig
+(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten der in den Absätzen 2 und 3 genannten Berufsbildpositionen sind in mindestens einem der folgenden Einsatzgebiete zu vermitteln:
 
- 
+1. Borosilikatglas,
 
-X
+2. Quarzglas oder
 
- 
+3. Weichglas.
 
- 
+Der Ausbildende legt fest, in welchem Einsatzgebiet oder in welchen Einsatzgebieten die Vermittlung erfolgt.
 
- 
+# § 5 – Ausbildungsplan
 
- 
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-bb)
+# § 6 – Zeitpunkt
 
-Glasfritten von 10 bis 40 mm Durchmesser
+(1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr stattfinden.
 
- 
+(2) Den Zeitpunkt legt die zuständige Stelle fest.
 
- 
+# § 7 – Inhalt
 
- 
+Die Zwischenprüfung erstreckt sich auf
 
- 
+1. die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-X
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
- 
+# § 8 – Prüfungsbereiche
 
-cc)
+Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-Metalle unter Berücksichtigung der Ausdehnungskoeffizienten
+1. „Bearbeiten von Glaserzeugnissen“ und
 
- 
+2. „Glaseigenschaften“.
 
- 
+# § 9 – Prüfungsbereich „Bearbeiten von Glaserzeugnissen“
 
- 
+(1) Im Prüfungsbereich „Bearbeiten von Glaserzeugnissen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
- 
+1. Fertigungszeichnungen zu lesen,
 
- 
+2. Arbeitsaufträge zu prüfen,
 
-X
+3. Arbeitsschritte zu planen,
 
-b)
+4. Berechnungen von Materialbedarfen und Maßen durchzuführen,
 
-Spitzen und Rohre in Kugeln bis 70 mm Durchmesser einschmelzen
+5. Arbeitsplätze einzurichten,
 
- 
+6. Glaserzeugnisse zu trennen,
 
- 
+7. Glaserzeugnisse zu bearbeiten,
 
-X
+8. Maße von Glaserzeugnissen entsprechend der Angaben von Fertigungszeichnungen zu überprüfen,
 
- 
+9. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen und
 
- 
+10. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
- 
+(2) Für den Nachweis nach Absatz 1 sind drei der folgenden Tätigkeiten zu Grunde zu legen:
 
-c)
+1. Glasrohre mit einem Durchmesser von bis zu 20 Millimetern seitlich und mit einem Durchmesser von bis zu 26 Millimetern zentrisch zusammensetzen,
 
-selbsttätigen Nullpunkt an Glasapparaten einstellen
+2. Kegelhülsen bis Normschliff 19 auftreiben,
 
- 
+3. Glasrohre mit einem Durchmesser von bis zu 16 Millimetern biegen,
 
- 
+4. Kugeln mit einem Durchmesser von bis zu 30 Millimetern blasen oder
 
- 
+5. Glasrohre in Glasrohre mit einem Durchmesser des Außenrohres von bis zu 30 Millimetern einseitig und doppelseitig einschmelzen.
 
- 
+(3) Der Prüfling hat zwei Arbeitsproben durchzuführen. Dafür sind die Tätigkeiten nach Absatz 2 zu Grunde zu legen. Die Auswahl der Tätigkeiten erfolgt durch den Prüfungsausschuss. Bei der Auswahl der Tätigkeiten ist das Einsatzgebiet zu berücksichtigen, in dem der Prüfling ausgebildet wurde. Sofern der Prüfling in mehr als einem Einsatzgebiet ausgebildet wurde, erfolgt die Auswahl des maßgeblichen Einsatzgebietes durch den Prüfling. Nach der Durchführung der Arbeitsproben wird mit dem Prüfling ein auftragsbezogenes Fachgespräch über die Arbeitsproben geführt.
 
- 
+(4) Die Prüfungszeit für die Durchführung der Arbeitsproben beträgt insgesamt 5 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
-X
+# § 10 – Prüfungsbereich „Glaseigenschaften“
 
-7.5
+(1) Im Prüfungsbereich „Glaseigenschaften“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-Herstellen von Glasapparaten (§ 4 Nr. 7 Buchstabe e)
+1. Qualitätsmerkmale von Halbzeugen und Glasapparaten unter Berücksichtigung physikalischer und chemischer Eigenschaften von Glas zu erfassen,
 
-a)
+2. sowohl Mess- als auch Prüfmittel unter Berücksichtigung von Aufbau und Funktion aufgabenbezogen auszuwählen und die Auswahl zu begründen,
 
-Spannungen im Glas mit dem optischen Spannungsprüfer kontrollieren
+3. Werkzeuge und Maschinen unter Berücksichtigung von Bearbeitungsverfahren auszuwählen und die Auswahl zu begründen,
 
-X
+4. Reinigungs- und Wartungsmaßnahmen für Werkzeuge und Maschinen zu erläutern,
 
- 
+5. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu berücksichtigen und
 
- 
+6. wesentliche fachliche Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
- 
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
- 
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
- 
+# § 11 – Zeitpunkt
 
-b)
+(1) Die Abschluss- oder Gesellenprüfung findet am Ende der Berufsausbildung statt.
 
-Glas verschiedener Ausdehnungskoeffizienten vorwärmen und thermische Spannungen im Glas unter Beachtung der hierzu notwendigen Temperaturbereiche beseitigen
+(2) Den Zeitpunkt legt die zuständige Stelle fest.
 
-X
+# § 12 – Inhalt
 
- 
+Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
- 
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
- 
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
- 
+# § 13 – Prüfungsbereiche
 
- 
+Die Abschluss- oder Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-c)
+1. „Herstellen von Glasapparaten“,
 
-Gaswasch- und Spritzflaschen herstellen
+2. „Bearbeiten von Halbzeugen“,
 
- 
+3. „Technologie im Glasapparatebau“,
 
- 
+4. „Herstellungsprozesse“ sowie
 
-X
+5. „Wirtschafts- und Sozialkunde“.
 
- 
+# § 14 – Prüfungsbereich „Herstellen von Glasapparaten“
 
- 
+(1) Im Prüfungsbereich „Herstellen von Glasapparaten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
- 
+1. Anforderungen von Kunden und Kundinnen zu ermitteln,
 
-d)
+2. Fertigungszeichnungen zu erstellen,
 
-Stutzeraufsätze herstellen
+3. Materiallisten anzufertigen und Material zu disponieren,
 
- 
+4. Werkzeuge, Geräte, Maschinen und Anlagen auszuwählen und vorzubereiten,
 
- 
+5. einen Glasapparat herzustellen,
 
-X
+6. die Eigenschaften von Glasapparaten zu überprüfen und Ergebnisse zu dokumentieren,
 
- 
+7. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu ergreifen sowie
 
- 
+8. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
- 
+(2) Für die Herstellung eines Glasapparates nach Absatz 1 Nummer 5 kommen in Betracht:
 
-e)
+1. ein Glasapparat zur Destillation,
 
-Tropf- und Scheidetrichter bis zu 250 ml Inhalt herstellen
+2. ein Glasapparat zur Extraktion,
 
- 
+3. ein Wärmetauscher,
 
- 
+4. ein Glasapparat zur Dosierung und Regelung von Flüssigkeiten und Gasen,
 
- 
+5. ein Glasapparat für Reaktionen,
 
-X
+6. ein Glasapparat zur qualitativen und quantitativen Analyse physikalischer oder chemischer Eigenschaften,
 
- 
+7. ein Glasapparat für die Vakuumtechnik,
 
- 
+8. ein Glasapparat mit Filterplatten und
 
-f)
+9. ein Glasapparat zur Aufbewahrung von Flüssigkeiten und Gasen.
 
-Liebig- und Kugelkühler herstellen
+(3) Bei der Herstellung des Glasapparates nach Absatz 2 sind die Tätigkeiten der folgenden Nummern 1 bis 4 sowie nach Wahl des Prüflings zwei der Tätigkeiten der folgenden Nummern 5 bis 13 zu Grunde zu legen:
 
- 
+1. Glasrohre mit gleichen und unterschiedlichen Durchmessern zentrisch zusammensetzen,
 
- 
+2. Glasrohre mit gleichen und unterschiedlichen Durchmessern seitlich zusammensetzen,
 
-X
+3. Glasrohre einseitig oder doppelseitig in Glaskörper einschmelzen,
 
- 
+4. Bauteile und Baugruppen an Glaskörper ansetzen,
 
- 
+5. Kapillarrohre zusammensetzen,
 
- 
+6. Glasrohre in unterschiedlichen Winkeln biegen,
 
-g)
+7. Wendeln wickeln,
 
-Dimrothkühler herstellen
+8. Kugeln aus Glasrohren aufblasen,
 
- 
+9. Glasfilter und Scheiben in Glasrohre einschmelzen,
 
- 
+10. Metalle in Glas einschmelzen,
 
- 
+11. Glasscheiben fügen,
 
-X
+12. Glasrohre in Form einrollen und
 
- 
+13. Halbzeuge formen.
 
- 
+(4) Der Prüfling hat ein Prüfungsstück herzustellen. Vor der Herstellung des Prüfungsstückes hat der Prüfling einen Vorschlag für das Prüfungsstück beim Prüfungsausschuss zur Genehmigung einzureichen. Die Planung, der Verlauf und das Ergebnis der Herstellung des Prüfungsstückes sind mit praxisüblichen Unterlagen zu dokumentieren und zu präsentieren. Nach der Präsentation wird mit dem Prüfling auf der Grundlage der praxisüblichen Unterlagen und der Präsentation ein auftragsbezogenes Fachgespräch über das Prüfungsstück geführt.
 
-h)
+(5) Die Prüfungszeit für die Herstellung des Prüfungsstückes sowie für die Dokumentation mit praxisüblichen Unterlagen und für die Erarbeitung der Präsentation beträgt insgesamt 24 Stunden. Die Präsentation dauert höchstens 10 Minuten. Die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens 15 Minuten.
 
-Kegelkerne herstellen
+# § 15 – Prüfungsbereich „Bearbeiten von Halbzeugen“
 
- 
+(1) Im Prüfungsbereich „Bearbeiten von Halbzeugen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
- 
+1. Arbeitsaufträge zu prüfen,
 
- 
+2. Fertigungszeichnungen zu lesen,
 
- 
+3. Arbeitsschritte auf der Grundlage von Fertigungszeichnungen festzulegen,
 
-X
+4. Arbeitsplätze vorzubereiten,
 
- 
+5. Halbzeuge zu trennen,
 
-i)
+6. Halbzeuge zu verbinden,
 
-Einweghähne mit Hohlküken bis zu NS 21,5 herstellen
+7. Halbzeuge heiß und kalt zu bearbeiten,
 
- 
+8. die Eigenschaften von Glasapparaten zu überprüfen und Ergebnisse zu dokumentieren sowie
 
- 
+9. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu ergreifen.
 
- 
+(2) Für den Nachweis nach Absatz 1 kommen folgende Tätigkeiten in Betracht:
 
- 
+1. Glasrohre mit gleichen und unterschiedlichen Durchmessern zentrisch zusammensetzen,
 
-X
+2. Glasrohre mit gleichen und unterschiedlichen Durchmessern seitlich zusammensetzen,
 
- 
+3. Glasrohre einseitig oder doppelseitig in Glasrohre einschmelzen,
 
-k)
+4. Bauteile und Baugruppen an Glaskörper ansetzen,
 
-Seitenhälse bis 19 mm Durchmesser an Kolben bis 1 Liter Inhalt ansetzen
+5. Kapillarrohre zusammensetzen,
 
- 
+6. Glasrohre in unterschiedlichen Winkeln biegen,
 
- 
+7. Wendeln wickeln,
 
- 
+8. Kugeln aus Glasrohren aufblasen,
 
- 
+9. Glasfilter und Scheiben in Glasrohre einschmelzen,
 
-X
+10. Metalle in Glas einschmelzen,
 
- 
+11. Glasscheiben fügen,
 
-l)
+12. Glasrohre in Form einrollen und
 
-Titrierapparate zusammensetzen
+13. Halbzeuge formen.
 
- 
+(3) Der Prüfling hat mindestens zwei und höchstens drei Arbeitsproben durchzuführen. Dafür sind Tätigkeiten nach Absatz 2 zu Grunde zu legen. Die Auswahl der Tätigkeiten erfolgt durch den Prüfungsausschuss. Bei der Auswahl der Tätigkeiten ist das Einsatzgebiet zu berücksichtigen, in dem der Prüfling ausgebildet wurde. Sofern der Prüfling in mehr als einem Einsatzgebiet ausgebildet wurde, erfolgt die Auswahl des maßgeblichen Einsatzgebietes durch den Prüfling.
 
- 
+(4) Die Prüfungszeit für die Durchführung der Arbeitsproben beträgt insgesamt 6 Stunden.
 
- 
+# § 16 – Prüfungsbereich „Technologie im Glasapparatebau“
 
- 
+(1) Im Prüfungsbereich „Technologie im Glasapparatebau“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
- 
+1. Berechnungen durchzuführen,
 
-X
+2. Rohmaterialien und Werkstoffe sowie Halbzeuge und Glasapparate unter Berücksichtigung von deren Eigenschaften auszuwählen und die Auswahl zu begründen,
 
-m)
+3. Verfahren zur Bearbeitung von Rohmaterialien und Werkstoffen auszuwählen,
 
-Auslauföffnungen mit Wolframnadeln justieren
+4. Werkzeuge, Geräte, Maschinen und Anlagen unter Berücksichtigung von Aufbau und Funktion auszuwählen, die Auswahl zu begründen und die Vorbereitung von Werkzeugen, Geräten, Maschinen und Anlagen zu erläutern,
 
- 
+5. Pflegemaßnahmen für Werkzeuge, Geräte, Maschinen und Anlagen zu planen,
 
- 
+6. Methoden der Nachbehandlung von Glasapparaten und deren Einsatzzweck zu erläutern,
 
- 
+7. die Konformität von Glasapparaten anhand von Angaben aus Skizzen, Fertigungszeichnungen und technischen Begleitunterlagen zu prüfen,
 
- 
+8. Arbeitsergebnisse zu dokumentieren,
 
-X
+9. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu beurteilen und deren Anwendung zu erläutern sowie
 
- 
+10. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-8
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-Umgehen mit Vakuumanlagen (§ 4 Nr. 8)
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
-a)
+# § 17 – Prüfungsbereich „Herstellungsprozesse“
 
-Aufbau und Funktion einer Vakuumanlage erklären und die entsprechenden Sicherheitsvorschriften nennen
+(1) Im Prüfungsbereich „Herstellungsprozesse“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
- 
+1. Arbeitsaufträge entgegenzunehmen und zu prüfen,
 
- 
+2. die Vorgehensweise bei der Bearbeitung von Instandsetzungs- und Änderungsaufträgen zu beschreiben,
 
- 
+3. Berechnungen durchzuführen,
 
- 
+4. Arbeitsschritte auf der Grundlage von Fertigungszeichnungen festzulegen,
 
- 
+5. das Einsetzen von Werkzeugen sowie das Bedienen von Geräten, Maschinen und Anlagen darzustellen,
 
-X
+6. das Steuern von Produktionsabläufen zu erläutern,
 
-b)
+7. Qualitätsmerkmale von Glasapparaten zu ermitteln,
 
-Glasapparate evakuieren
+8. Korrekturmaßnahmen bei Abweichungen von Qualitätsstandards auszuwählen und zu beschreiben,
 
- 
+9. Arbeitsergebnisse zu dokumentieren,
 
- 
+10. Maßnahmen zur Qualitätssicherung, zur Verbesserung der Wirtschaftlichkeit und der Nachhaltigkeit sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu beurteilen und deren Anwendung zu erläutern sowie
 
- 
+11. wesentliche fachliche Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
- 
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
- 
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
-X
+# § 18 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
-9
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-Messen und Prüfen von Halb- und Fertigerzeugnissen (§ 4 Nr. 9)
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-a)
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
-Aufbau, Funktion und Anwendung der üblichen Meß- und Prüfmittel beschreiben
+# § 19 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
- 
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-X
+1. |                                |                 |
+|:-------------------------------|----------------:|
+| „Herstellen von Glasapparaten“ | mit 40 Prozent, |
 
- 
+2. |                             |                 |
+|:----------------------------|----------------:|
+| „Bearbeiten von Halbzeugen“ | mit 20 Prozent, |
 
- 
+3. |                                  |                 |
+|:---------------------------------|----------------:|
+| „Technologie im Glasapparatebau“ | mit 15 Prozent, |
 
- 
+4. |                        |                 |
+|:-----------------------|----------------:|
+| „Herstellungsprozesse“ | mit 15 Prozent  |
 
- 
+sowie
 
-b)
+5. |                                |                 |
+|:-------------------------------|----------------:|
+| „Wirtschafts- und Sozialkunde“ | mit 10 Prozent. |
 
-mit Maßstab, Schieblehre, Mikrometer, Taster, festen Lehren und Meßkeil messen
+(2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 20 – wie folgt bewertet worden sind:
 
- 
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-X
+2. im Prüfungsbereich „Herstellen von Glasapparaten“ mit mindestens „ausreichend“,
 
- 
+3. in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
- 
+4. in keinem Prüfungsbereich mit „ungenügend“.
 
- 
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes oder nach § 35a Absatz 1 Nummer 3 der Handwerksordnung zu fassen.
 
- 
+# § 20 – Mündliche Ergänzungsprüfung
 
-c)
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-Glasapparate den Anweisungen entsprechend, insbesondere auf Maß, Form, Volumen und Lage, prüfen
+(2) Dem Antrag ist stattzugeben,
 
- 
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
- 
+a) „Technologie im Glasapparatebau“,
 
- 
+b) „Herstellungsprozesse“ oder
 
- 
+c) „Wirtschafts- und Sozialkunde“,
 
-X
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c schlechter als mit „ausreichend“ bewertet worden ist und
 
- 
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
-d)
+Die mündliche Ergänzungsprüfung darf nur in dem Prüfungsbereich nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
-Fehler an Halberzeugnissen und ihre Ursachen nennen sowie ihre Auswirkungen auf die Verarbeitung erklären
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
- 
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
- 
+# § 21 – Inkrafttreten, Außerkrafttreten
 
- 
+Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig tritt die Glasapparatebauer-Ausbildungsverordnung vom 21. Dezember 1983 (BGBl. I S. 1645) außer Kraft.
 
- 
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin
 
-X
+(Fundstelle: BGBl. 2023 I Nr. 129, S. 10 - 17)
 
  
-
-# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
-- Kapitel V Sachgebiet B Abschnitt III -
-
-1. Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs. 2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung erlassenen Rechtsverordnungen
-
-mit folgenden Maßgaben:
-
-a) Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehende Berechtigung,
-
-aa)  
-ein Handwerk als stehendes Gewerbe selbständig zu betreiben,
-
-bb)  
-zum Einstellen oder zur Ausbildung von Lehrlingen in Handwerksbetrieben oder
-
-cc) zur Führung des Meistertitels
-
-bleibt bestehen.
-
-b) Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks bleiben Mitglied der Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.
-
-c) Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf Antrag oder von Amts wegen mit dem Handwerk der Anlage A der Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den Meistertitel des Handwerks der Anlage A der Handwerksordnung zu führen.
-
-d) Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden auf Antrag oder von Amts wegen mit diesem Handwerk in die Handwerksrolle eingetragen.
-
-e) Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
-
-f) Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
-
-g) Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
-
-h) Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.
-
-i) Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
-
-k) Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
-
-l) Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
-
-m) Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.
-
-n) Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für die Eintragung in die Handwerksrolle anerkannt werden.
-
-o) Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.
-
-  
-  
-- Kapitel XVI Sachgebiet C Abschnitt III -
-
-1. Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen
-
-mit folgenden Maßgaben:
-
-a) Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
-
-b) Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
-
-c) Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.
-
-d) Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
-
-e) Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
-
-f) Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
-
-g) Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.
-
-h) Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
-
-i) Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.
-
-k) Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.

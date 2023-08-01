@@ -215,6 +215,50 @@ Der Deponiebetreiber darf die Deponie oder einen Deponieabschnitt erst in Betrie
 
 (1) Abfälle dürfen auf Deponien oder Deponieabschnitten nur abgelagert werden, wenn die jeweiligen Annahmekriterien nach den Absätzen 3 bis 5, bei vollständig stabilisierten Abfällen (Abfallschlüssel 19 03 05 der Anlage zur Abfallverzeichnis-Verordnung) zusätzlich die Anforderungen nach Absatz 2, bereits bei der Anlieferung eingehalten werden. Die Annahmekriterien sind im einzelnen Abfall, ohne Vermischung mit anderen Stoffen oder Abfällen, einzuhalten. Soweit es zur Einhaltung der Annahmekriterien erforderlich ist, sind Abfälle vor der Ablagerung zu behandeln. Die Behandlung ist ausreichend, wenn das Behandlungsergebnis irreversibel ist und die Annahmekriterien durch die Behandlung dauerhaft eingehalten werden. Satz 2 gilt bei vorgemischten Abfällen (Abfallschlüssel 19 02 03, 19 02 04 der Anlage zur Abfallverzeichnis-Verordnung) sowie bei teilweise stabilisierten und verfestigten Abfällen (Abfallschlüssel 19 03 04, 19 03 06, 19 03 07 der Anlage zur Abfallverzeichnis-Verordnung) für den jeweiligen Abfall vor der Behandlung.
 
+(1a) Folgende mineralische Ersatzbaustoffe im Sinne von § 2 Nummer 1 der Ersatzbaustoffverordnung vom 9. Juli 2021 (BGBl. I S. 2598), die als Abfall anfallen und die nach Abschnitt 3 Unterabschnitt 1 der Ersatzbaustoffverordnung güteüberwacht und klassifiziert sind oder nicht aufbereitetes Bodenmaterial und nicht aufbereitetes Baggergut, das nach Abschnitt 3 Unterabschnitt 2 der Ersatzbaustoffverordnung untersucht und klassifiziert ist, gelten ohne Beprobung nach Anhang 4 bei Anlieferung zur Deponie als
+
+1. nicht gefährliche Abfälle, die die Zuordnungskriterien des Anhangs 3 Nummer 2 für die Deponieklasse I einhalten
+
+a) Bodenmaterial der Klasse F2 oder F3 – BM-F2, BM-F3 –,
+
+b) Baggergut der Klasse F2 oder F3 – BG-F2, BG-F3 –,
+
+c) Stahlwerksschlacke der Klasse 1 oder 2 – SWS-1, SWS-2,
+
+d) Hochofenstückschlacke der Klasse 1 oder 2 – HOS-1, HOS-2 –,
+
+e) Hüttensand – HS –,
+
+f) Gießereikupolofenschlacke – GKOS –,
+
+g) Gießereirestsand der Klasse 1 – GRS-1 –,
+
+h) Kupferhüttenmaterial der Klasse 1 oder 2 – CUM-1, CUM-2 –,
+
+i) Steinkohlenkesselasche – SKA –,
+
+j) Braunkohlenflugasche – BFA –,
+
+k) Hausmüllverbrennungsasche der Klasse 1 oder 2 – HMVA-1, HMVA-2,
+
+l) Recycling-Baustoff der Klasse 1, 2 oder 3 – RC-1, RC-2, RC-3 –
+
+m) Gleisschotter der Klasse 2 oder 3 – GS-2, GS-3 –
+
+oder
+
+2. als Inertabfälle, die die Zuordnungskriterien des Anhangs 3 Nummer 2 für die Deponieklasse 0 einhalten
+
+a) Bodenmaterial der Klasse 0, 0\*, F0\* oder F1 – BM-0, BM-0\*, BM-F0\*, BM-F1 –,
+
+b) Baggergut der Klasse 0, 0\*, F0\* oder F1 – BG-0, BG-0\*, BG-F0\*, BG-F1 –,
+
+c) Gleisschotter der Klasse 0 oder 1 – GS-0, GS-1 – und
+
+d) Schmelzkammergranulat – SKG –.
+
+Eine andere Zuordnung der in Satz 1 Nummer 1 und 2 genannten mineralischen Ersatzbaustoffe zu den Deponieklassen kann durch eine Beprobung und Abfalluntersuchung nach Anhang 4 erfolgen.
+
 (2) Für vollständig stabilisierte Abfälle (Abfallschlüssel 19 03 05 der Anlage zur Abfallverzeichnis-Verordnung) gilt, dass nach der Stabilisierung
 
 1. die Bestimmung aller Zuordnungswerte nach Anhang 3 Nummer 2 aus einem Eluat bei jeweils konstantem pH-Wert 4 und 11 nach Anhang 4 Nummer 3.2.1.2 erfolgt,
@@ -363,13 +407,13 @@ c) keine ausreichende Stabilität gegenüber den geomechanischen Bedingungen auf
 
 12. Vorschlag für die Schlüsselparameter und deren Untersuchungshäufigkeit.
 
-Soweit nach § 50 oder § 51 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 2 der Nachweisverordnung Entsorgungsnachweise oder Sammelentsorgungsnachweise zu führen sind, können die nach Satz 1 Nummer 1 bis 5 vorzulegenden Angaben durch die verantwortliche Erklärung nach der Nachweisverordnung ersetzt werden. Soweit im Fall von Satz 2 Deklarationsanalysen vorzulegen sind, sind die Analysenberichte nach Satz 1 Nummer 8 nur für die darüber hinaus erforderlichen Zuordnungskriterien gesondert vorzulegen. Zum 16. Juli 2009 vorliegende grundlegende Charakterisierungen und festgelegte Schlüsselparameter gelten bis zum Ende einer eventuellen Befristung fort. Der Deponiebetreiber hat vor der ersten Annahme eines Abfalls die Schlüsselparameter für die Kontrolluntersuchungen festzulegen. Führen Änderungen im abfallerzeugenden Prozess zu relevanten Änderungen des Auslaugverhaltens oder der Zusammensetzung des Abfalls, hat der Erzeuger, bei Sammelentsorgung der Einsammler, dem Deponiebetreiber erneut die nach Satz 1 erforderlichen Angaben vorzulegen. Der Deponiebetreiber hat in diesem Fall die Schlüsselparameter für die Kontrolluntersuchungen erneut festzulegen. Die Beprobung sowie die Abfalluntersuchungen für die Angaben nach den Sätzen 1, 3 und 6 sind nach Maßgabe des Anhangs 4 durchzuführen.
+Soweit nach § 50 oder § 51 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 2 der Nachweisverordnung Entsorgungsnachweise oder Sammelentsorgungsnachweise zu führen sind, können die nach Satz 1 Nummer 1 bis 5 vorzulegenden Angaben durch die verantwortliche Erklärung nach der Nachweisverordnung ersetzt werden. Soweit im Fall von Satz 2 Deklarationsanalysen vorzulegen sind, sind die Analysenberichte nach Satz 1 Nummer 8 nur für die darüber hinaus erforderlichen Zuordnungskriterien gesondert vorzulegen. Zum 16. Juli 2009 vorliegende grundlegende Charakterisierungen und festgelegte Schlüsselparameter gelten bis zum Ende einer eventuellen Befristung fort. Der Deponiebetreiber hat vor der ersten Annahme eines Abfalls, ausgenommen Abfälle nach § 6 Absatz 1a Nummer 1 und Nummer 2, die Schlüsselparameter für die Kontrolluntersuchungen festzulegen. Führen Änderungen im abfallerzeugenden Prozess zu relevanten Änderungen des Auslaugverhaltens oder der Zusammensetzung des Abfalls, hat der Erzeuger, bei Sammelentsorgung der Einsammler, dem Deponiebetreiber erneut die nach Satz 1 erforderlichen Angaben vorzulegen. Der Deponiebetreiber hat in diesem Fall die Schlüsselparameter für die Kontrolluntersuchungen erneut festzulegen. Die Beprobung sowie die Abfalluntersuchungen für die Angaben nach den Sätzen 1, 3 und 6 sind nach Maßgabe des Anhangs 4 durchzuführen.
 
 (2) Abfalluntersuchungen für die grundlegende Charakterisierung nach Absatz 1 sind nicht erforderlich
 
 1. bei asbesthaltigen Abfällen,
 
-2. bei Abfällen, die andere gefährliche Mineralfasern enthalten, sowie
+2. bei Abfällen, die andere gefährliche Mineralfasern enthalten, bei Abfällen nach § 6 Absatz 1a Nummer 1 und Nummer 2 sowie
 
 3. bei Abfällen, über die alle notwendigen Informationen zum Auslaugverhalten und zur Zusammensetzung bekannt und gegenüber der für die Deponie zuständigen Behörde nachgewiesen sind.
 
@@ -418,6 +462,8 @@ gemäß<br />
 Anlage zur<br />
 Abfallverzeichnis-<br />
 Verordnung</th><th style="text-align: left;">Beschreibung</th><th style="text-align: left;">Einschränkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">10 11 03</td><td style="text-align: left;">Glasfaserabfall</td><td style="text-align: left;">Nur ohne organische Bindemittel</td></tr><tr class="even"><td style="text-align: left;">15 01 07</td><td style="text-align: left;">Verpackungen aus Glas</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">17 01 01</td><td style="text-align: left;">Beton</td><td style="text-align: left;">Nur ausgewählte Abfälle aus Bau- und Abbruchmaßnahmen</td></tr><tr class="even"><td style="text-align: left;">17 01 02</td><td style="text-align: left;">Ziegel</td><td style="text-align: left;">Nur ausgewählte Abfälle aus Bau- und Abbruchmaßnahmen</td></tr><tr class="odd"><td style="text-align: left;">17 01 03</td><td style="text-align: left;">Fliesen, Ziegel und Keramik</td><td style="text-align: left;">Nur ausgewählte Abfälle aus Bau- und Abbruchmaßnahmen</td></tr><tr class="even"><td style="text-align: left;">17 01 07</td><td style="text-align: left;">Gemische aus Beton, Ziegeln, Fliesen und Keramik</td><td style="text-align: left;">Nur ausgewählte Abfälle aus Bau- und Abbruchmaßnahmen</td></tr><tr class="odd"><td style="text-align: left;">17 02 02</td><td style="text-align: left;">Glas</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">17 05 04</td><td style="text-align: left;">Boden und Steine</td><td style="text-align: left;">Ausgenommen Oberboden und Torf sowie Boden und Steine aus Flächen mit schädlichen Bodenveränderungen im Sinne von § 2 Absatz 3 des Bundes-Bodenschutzgesetzes</td></tr><tr class="odd"><td style="text-align: left;">19 12 05</td><td style="text-align: left;">Glas</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">20 01 02</td><td style="text-align: left;">Glas</td><td style="text-align: left;">Nur getrennt gesammeltes Glas</td></tr><tr class="odd"><td style="text-align: left;">20 02 02</td><td style="text-align: left;">Boden und Steine</td><td style="text-align: left;">Nur Abfälle aus Gärten und Parkanlagen; ausgenommen Oberboden und Torf</td></tr></tbody></table>
+
+(8a) Überprüfungen nach Absatz 3 und Kontrollen nach Absatz 5, ausgenommen diejenigen nach Satz 4, sind für Abfälle nach § 6 Absatz 1a Nummer 1 und Nummer 2 nicht erforderlich. Abweichend von Absatz 1 Satz 1 Nummer 6 bis 8 und Nummer 12 sowie von Absatz 4 Satz 1 Nummer 3 ist für diese Abfälle die Einhaltung der Materialwerte der Anlage 1 der Ersatzbaustoffverordnung und gegebenenfalls die Klasse des mineralischen Ersatzbaustoffs jeweils durch die Dokumentation nach § 12 Absatz 1 Satz 1 der Ersatzbaustoffverordnung nachzuweisen. Für nicht aufbereitetes Bodenmaterial und nicht aufbereitetes Baggergut ist die Einhaltung der Materialwerte der Anlage 1 der Ersatzbaustoffverordnung und die Klasse des Bodenmaterials oder des Baggerguts durch die Dokumente nach § 17 der Ersatzbaustoffverordnung nachzuweisen.
 
 (9) Der Deponiebetreiber hat für jede Abfallanlieferung eine Eingangsbestätigung unter Angabe der festgestellten Masse und des sechsstelligen Abfallschlüssels gemäß der Anlage zur Abfallverzeichnis-Verordnung auszustellen. Wird die Übergabe der Abfälle mittels Begleitschein oder Übernahmeschein nach der Nachweisverordnung bestätigt, so ersetzen diese Nachweise die Eingangsbestätigung nach Satz 1. Bei Deponien der Klasse 0 und bei Monodeponien kann die zuständige Behörde auf Antrag des Betreibers davon abweichende Regelungen treffen.
 

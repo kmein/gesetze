@@ -375,7 +375,9 @@ Sinkt die Zahl der Vereinsmitglieder unter drei herab, so hat das Amtsgericht au
 
 # § 77 – Anmeldepflichtige und Form der Anmeldungen
 
-Die Anmeldungen zum Vereinsregister sind von Mitgliedern des Vorstands sowie von den Liquidatoren, die insoweit zur Vertretung des Vereins berechtigt sind, mittels öffentlich beglaubigter Erklärung abzugeben. Die Erklärung kann in Urschrift oder in öffentlich beglaubigter Abschrift beim Gericht eingereicht werden.
+(1) Die Anmeldungen zum Vereinsregister sind von Mitgliedern des Vorstands sowie von den Liquidatoren, die insoweit zur Vertretung des Vereins berechtigt sind, mittels öffentlich beglaubigter Erklärung abzugeben. Die Erklärung kann in Urschrift oder in öffentlich beglaubigter Abschrift beim Gericht eingereicht werden.
+
+(2) Die öffentliche Beglaubigung mittels Videokommunikation gemäß § 40a des Beurkundungsgesetzes ist zulässig.
 
 # § 78 – Festsetzung von Zwangsgeld
 

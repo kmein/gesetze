@@ -561,7 +561,7 @@ Fünfzehntes Kapitel
 
 Weitere Übergangsvorschriften .......
 
-§§ 403 bis 423
+§§ 403 bis 422
 
 Inhaltsübersicht: IdF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
@@ -5714,6 +5714,16 @@ Bei der Abgabe eines Arzneimittels nach Satz 1 Nummer 1 haben die Apotheken ein 
 (1a) Der Gemeinsame Bundesausschuss gibt in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 unverzüglich Hinweise zur Austauschbarkeit von Darreichungsformen unter Berücksichtigung ihrer therapeutischen Vergleichbarkeit. Der Gemeinsame Bundesausschuss bestimmt in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 die Arzneimittel, bei denen die Ersetzung durch ein wirkstoffgleiches Arzneimittel abweichend von Absatz 1 Satz 1 Nummer 1 Buchstabe b ausgeschlossen ist; dabei sollen insbesondere Arzneimittel mit geringer therapeutischer Breite berücksichtigt werden. Der Gemeinsame Bundesausschuss gibt in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 für die ärztliche Verordnung Hinweise zur Austauschbarkeit von biologischen Referenzarzneimitteln durch im Wesentlichen gleiche biotechnologisch hergestellte biologische Arzneimittel im Sinne des Artikels 10 Absatz 4 der Richtlinie 2001/83/EG unter Berücksichtigung ihrer therapeutischen Vergleichbarkeit. Die Hinweise sind erstmals bis zum 16. August 2020 zu bestimmen. Spätestens bis zum 16. August 2023 gibt der Gemeinsame Bundesausschuss in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 ebenfalls Hinweise zur Austauschbarkeit von biologischen Referenzarzneimitteln durch Apotheken. Dabei soll der Gemeinsame Bundesausschuss zunächst Hinweise zur Austauschbarkeit von parenteralen Zubereitungen aus Fertigarzneimitteln zur unmittelbaren ärztlichen Anwendung bei Patientinnen und Patienten geben. Zur Umsetzung des Regelungsauftrags erhält der Gemeinsame Bundesausschuss auf Verlangen Einsicht in die Zulassungsunterlagen bei der zuständigen Bundesoberbehörde. Das Nähere regelt der Gemeinsame Bundesausschuss in seiner Verfahrensordnung.
 
 (2) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker regeln in einem gemeinsamen Rahmenvertrag das Nähere.
+
+(2a) Abweichend von Absatz 1 Satz 1 bis 5 und 8 und dem Rahmenvertrag nach Absatz 2 können Apotheken bei Nichtverfügbarkeit eines nach Maßgabe des Rahmenvertrags nach Absatz 2 abzugebenden Arzneimittels dieses gegen ein verfügbares wirkstoffgleiches Arzneimittel austauschen. Eine Nichtverfügbarkeit liegt vor, wenn das Arzneimittel innerhalb einer angemessenen Zeit durch zwei unterschiedliche Verfügbarkeitsanfragen bei vollversorgenden Arzneimittelgroßhandlungen im Sinne des § 52b Absatz 2 Satz 2 erster Halbsatz des Arzneimittelgesetzes nicht beschafft werden kann. Werden Apotheken nur von einer vollversorgenden Arzneimittelgroßhandlung beliefert, liegt abweichend von Satz 2 eine Nichtverfügbarkeit vor, wenn das Arzneimittel innerhalb einer angemessenen Frist durch eine Verfügbarkeitsanfrage bei dieser vollversorgenden Arzneimittelgroßhandlung im Sinne des § 52b Absatz 2 Satz 2 erster Halbsatz des Arzneimittelgesetzes nicht beschafft werden kann. Apotheken dürfen ohne Rücksprache mit dem verordnenden Arzt von der ärztlichen Verordnung im Hinblick auf Folgendes abweichen, sofern hierdurch die verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
+
+1. die Packungsgröße, auch mit einer Überschreitung der nach der Packungsgrößenverordnung maßgeblichen Messzahl,
+
+2. die Packungsanzahl,
+
+3. die Abgabe von Teilmengen aus der Packung eines Fertigarzneimittels, soweit die verordnete Packungsgröße nicht lieferbar ist, und
+
+4. die Wirkstärke, sofern keine pharmazeutischen Bedenken bestehen.
 
 (3) Der Rahmenvertrag nach Absatz 2 hat Rechtswirkung für Apotheken, wenn sie
 
@@ -12761,21 +12771,7 @@ Bis zum 31. Dezember 2024 dürfen Vermögensgegenstände, die vor dem 1. Januar 
 
 (3) Die abgebende Apotheke rechnet die sich aus den Absätzen 1 und 2 ergebenden Vergütungen ab. Für in den Absätzen 1 und 2 genannten Leistungen, die nach dem 30. Juni 2024 erbracht werden, darf eine Vergütung nicht abgerechnet werden. Der Gesamtbetrag der Vergütungen nach den Absätzen 1 und 2 ist bei Personen, die in der gesetzlichen Krankenversicherung versichert sind, über ein von den Apotheken für die Abrechnung in Anspruch genommenes in § 300 Absatz 2 Satz 1 genanntes Rechenzentrum gegenüber der jeweiligen Krankenkasse und bei Personen, die in der privaten Krankenversicherung versichert sind, sowie bei Selbstzahlern gegenüber der jeweiligen Person abzurechnen. Bei Personen, die weder in der gesetzlichen Krankenversicherung noch in der privaten Krankenversicherung versichert sind und für deren Gesundheitskosten eine andere Kostenträgerschaft besteht, ist gegenüber dem jeweiligen Kostenträger abzurechnen, sofern nicht für diesen Personenkreis eine Abrechnung über die jeweils zuständige Krankenkasse vorgesehen ist. Die Vergütung für in Absatz 1 und 2 genannte Leistungen, die bis zum 30. Juni 2024 erbracht worden sind, ist bis zum 30. September 2024 abzurechnen.
 
-# § 423 – Verlängerung der erweiterten Austauschmöglichkeit für Apotheken
-
-(1) Abweichend von § 129 Absatz 1 Satz 1 bis 5 und 8 und dem Rahmenvertrag nach § 129 Absatz 2 dürfen Apotheken, wenn das auf der Grundlage der Verordnung abzugebende Arzneimittel in der Apotheke nicht vorrätig ist, an den Versicherten ein in der Apotheke vorrätiges wirkstoffgleiches Arzneimittel abgeben; ist kein wirkstoffgleiches Arzneimittel in der Apotheke vorrätig und ist das abzugebende Arzneimittel auch nicht lieferbar, darf ein lieferbares wirkstoffgleiches Arzneimittel abgegeben werden. Sofern weder das auf der Grundlage der Verordnung abzugebende noch ein wirkstoffgleiches Arzneimittel vorrätig oder lieferbar ist, dürfen Apotheken nach Rücksprache mit dem verordnenden Arzt ein pharmakologisch-therapeutisch vergleichbares Arzneimittel an den Versicherten abgeben; dies ist auf dem Arzneiverordnungsblatt zu dokumentieren. Satz 2 gilt entsprechend für den Fall, dass der verordnende Arzt den Austausch des Arzneimittels ausgeschlossen hat. Apotheken dürfen ohne Rücksprache mit dem verordnenden Arzt von der ärztlichen Verordnung im Hinblick auf Folgendes abweichen, sofern dadurch die verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
-
-1. die Packungsgröße, auch mit einer Überschreitung der nach der Packungsgrößenverordnung definierten Messzahl,
-
-2. die Packungsanzahl,
-
-3. die Entnahme von Teilmengen aus Fertigarzneimittelpackungen, soweit die abzugebende Packungsgröße nicht lieferbar ist, und
-
-4. die Wirkstärke, sofern keine pharmazeutischen Bedenken bestehen.
-
-(2) Abweichend von den Regelungen in dem Rahmenvertrag nach § 129 Absatz 2 in Verbindung mit Absatz 4 findet in den Fällen des Absatzes 1 keine Beanstandung und Retaxation statt.
-
-(3) (weggefallen)
+# § 423 – (weggefallen)
 
 # § 424 – Übergangsregelung aus Anlass des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
 
