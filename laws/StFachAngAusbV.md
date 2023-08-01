@@ -1,852 +1,326 @@
-% Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten
-% Ausfertigungsdatum: 09.05.1996
+% Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten*  (Steuerfachangestellten-Ausbildungsverordnung - StFachAngAusbV)
+% Ausfertigungsdatum: 03.08.2022
  
 # Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnen das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+
+# Inhaltsübersicht
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Steuerfachangestellter/Steuerfachangestellte wird staatlich anerkannt.
+Der Ausbildungsberuf mit der Berufsbezeichnung des Steuerfachangestellten und der Steuerfachangestellten wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-# § 2 – Ausbildungsdauer
+# § 2 – Dauer der Berufsausbildung
 
-Die Ausbildung dauert drei Jahre.
+Die Berufsausbildung dauert drei Jahre.
 
-# § 3 – Ausbildungsberufsbild
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:  
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-|     |                                                                                                      |
-|:----|:-----------------------------------------------------------------------------------------------------|
-| 1\. | Ausbildungspraxis:                                                                                   |
-| 1.1 | Bedeutung, Stellung und gesetzliche Grundlagen der steuerberatenden und wirtschaftsprüfenden Berufe, |
-| 1.2 | Personalwesen, arbeits- und sozialrechtliche Grundlagen,                                             |
-| 1.3 | Berufsbildung,                                                                                       |
-| 1.4 | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung;                                    |
-| 2\. | Praxis- und Arbeitsorganisation:                                                                     |
-| 2.1 | Inhalt und Organisation der Arbeitsabläufe,                                                          |
-| 2.2 | Kooperation und Kommunikation;                                                                       |
-| 3\. | Anwenden von Informations- und Kommunikationstechniken;                                              |
-| 4\. | Rechnungswesen:                                                                                      |
-| 4.1 | Buchführungs- und Bilanzierungsvorschriften,                                                         |
-| 4.2 | Buchführungs- und Abschlußtechnik,                                                                   |
-| 4.3 | Lohn- und Gehaltsabrechnung,                                                                         |
-| 4.4 | Erstellen von Abschlüssen;                                                                           |
-| 5\. | betriebswirtschaftliche Facharbeit:                                                                  |
-| 5.1 | Auswerten der Rechnungslegung,                                                                       |
-| 5.2 | Finanzierung;                                                                                        |
-| 6\. | steuerliche Facharbeit:                                                                              |
-| 6.1 | Abgabenordnung,                                                                                      |
-| 6.2 | Umsatzsteuer,                                                                                        |
-| 6.3 | Einkommensteuer,                                                                                     |
-| 6.4 | Körperschaftsteuer,                                                                                  |
-| 6.5 | Gewerbesteuer,                                                                                       |
-| 6.6 | Bewertungsgesetz,                                                                                    |
-| 6.7 | Vermögensteuer.                                                                                      |
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-# § 4 – Ausbildungsrahmenplan
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen I und II enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+# § 4 – Struktur der Berufsausbildung und Ausbildungsberufsbild
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(1) Die Berufsausbildung gliedert sich in:
+
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen gebündelt.
+
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+
+1. Arbeitsprozesse organisieren,
+
+2. Buchführungen und Aufzeichnungen erstellen und auswerten,
+
+3. Entgeltabrechnungen durchführen,
+
+4. Jahresabschlüsse vorbereiten und erstellen sowie Einnahmenüberschussrechnungen erstellen,
+
+5. die Beratung von Mandantinnen und Mandaten in betriebswirtschaftlichen Angelegenheiten vorbereiten und unterstützen,
+
+6. Verwaltungsakte prüfen und Rechtsbehelfe vorbereiten,
+
+7. Steuererklärungen erstellen sowie steuerliche Anträge vorbereiten und übermitteln und
+
+8. mit internen und externen Ansprechpartnerinnen und Ansprechpartnern kommunizieren und kooperieren.
+
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
+
+2. Sicherheit und Gesundheit bei der Arbeit,
+
+3. Umweltschutz und Nachhaltigkeit,
+
+4. digitalisierte Arbeitswelt,
+
+5. digitale Geschäftsprozesse umsetzen und
+
+6. Verschwiegenheitspflichten und berufsrechtliche Vorgaben erkennen und einhalten.
 
 # § 5 – Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-# § 6 – Berichtsheft
+# § 6 – Zeitpunkt
 
-Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
+(1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr stattfinden.
 
-# § 7 – Zwischenprüfung
+(2) Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+# § 7 – Inhalt
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen I und II für das erste Ausbildungsjahr und die für das zweite Ausbildungsjahr unter laufender Nummer 4.2 Buchstabe d und laufender Nummer 4.3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+Die Zwischenprüfung erstreckt sich auf
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle oder Aufgaben in insgesamt höchstens 180 Minuten in folgenden Prüfungsfächern durchzuführen:
+1. die im Ausbildungsrahmenplan für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-1. Steuerwesen,
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-2. Rechnungswesen,
+# § 8 – Prüfungsbereiche
 
-3. Wirtschafts- und Sozialkunde.
+Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
+1. „Arbeitsabläufe organisieren“ und
 
-# § 8 – Abschlußprüfung
+2. „Steuererklärungen vorbereiten und Buchhaltungen bearbeiten“.
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+# § 9 – Prüfungsbereich „Arbeitsabläufe organisieren“
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Steuerwesen, Rechnungswesen, Wirtschafts- und Sozialkunde und mündlich im Prüfungsfach Mandantenorientierte Sachbearbeitung durchzuführen.
+(1) Im Prüfungsbereich „Arbeitsabläufe organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-(3) In der schriftlichen Prüfung soll der Prüfling in den nachstehend genannten Prüfungsfächern je eine Arbeit anfertigen:
+1. Arbeitsaufgaben zu planen, durchzuführen und zu kontrollieren,
 
-1. Prüfungsfach Steuerwesen:
+2. rechtliche Regelungen zur Verschwiegenheit, zum Datenschutz und zur Datensicherheit einzuhalten,
 
-In 150 Minuten soll der Prüfling praxisbezogene Fälle oder Aufgaben bearbeiten und dabei zeigen, daß er Fertigkeiten und Kenntnisse steuerlicher Facharbeit erworben hat und wirtschafts- und steuerrechtliche Zusammenhänge versteht. Hierfür kommen insbesondere folgende Gebiete in Betracht:
+3. Wege der Informationsbeschaffung und den Umgang mit Informationen darzustellen,
 
-a) Steuern vom Einkommen und Ertrag,
+4. Vorgänge unter Berücksichtigung von Zeichnungs- und Weisungsbefugnissen zu bearbeiten,
 
-b) Steuern vom Vermögen,
+5. Fristen zu überwachen und
 
-c) Steuern vom Umsatz,
+6. Arbeitsprozesse zu reflektieren und Maßnahmen zu deren Verbesserung unter Berücksichtigung digitaler Möglichkeiten vorzuschlagen.
 
-d) Abgabenordnung;
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-2. Prüfungsfach Rechnungswesen:
+(3) Die Prüfungszeit beträgt 45 Minuten.
 
-In 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus den folgenden Gebieten bearbeiten und dabei zeigen, daß er Fertigkeiten und Kenntnisse dieser Gebiete erworben hat und Zusammenhänge versteht:
+# § 10 – Prüfungsbereich „Steuererklärungen vorbereiten und Buchhaltungen bearbeiten“
 
-a) Buchführung,
+(1) Im Prüfungsbereich „Steuererklärungen vorbereiten und Buchhaltungen bearbeiten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-b) Jahresabschluß;
+1. Belege, auch digital, zu beschaffen, zu sichten und zu beurteilen,
 
-3. Prüfungsfach Wirtschafts- und Sozialkunde:
+2. Einkünfte aus nichtselbständiger Tätigkeit zur Abgabe von Steuererklärungen an das Finanzamt zu ermitteln,
 
-In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, daß er wirtschaftliche, rechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann. Hierfür kommen insbesondere folgende Gebiete in Betracht:
+3. laufende monatliche Buchhaltungen zu bearbeiten und
 
-a) Arbeitsrecht und soziale Sicherung,
+4. betriebliche Kennzahlen für die betriebswirtschaftliche Beratung von Mandantinnen und Mandanten zu ermitteln und auszuwerten.
 
-b) Schuld- und Sachenrecht,
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-c) Handels- und Gesellschaftsrecht,
+(3) Die Prüfungszeit beträgt 75 Minuten.
 
-d) Finanzierung.
+# § 11 – Zeitpunkt
 
-(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
+(1) Die Abschlussprüfung findet am Ende der Berufsausbildung statt.
 
-(5) Das Prüfungsfach Mandantenorientierte Sachbearbeitung besteht aus einem Prüfungsgespräch. Der Prüfling soll ausgehend von einer von zwei ihm mit einer Vorbereitungszeit von höchstens zehn Minuten zur Wahl gestellten Aufgaben zeigen, daß er berufspraktische Vorgänge und Problemstellungen bearbeiten und Lösungen darstellen kann. Für das Prüfungsgespräch kommen insbesondere folgende Gebiete in Betracht:
+(2) Den Zeitpunkt legt die zuständige Stelle fest.
 
-a) allgemeines Steuer- und Wirtschaftsrecht,
+# § 12 – Inhalt
 
-b) Einzelsteuerrecht,
+Die Abschlussprüfung erstreckt sich auf
 
-c) Buchführungs- und Bilanzierungsgrundsätze,
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-d) Rechnungslegung.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-Das Prüfungsgespräch soll für den einzelnen Prüfling nicht länger als 30 Minuten dauern.
+# § 13 – Prüfungsbereich
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsfächern mit "mangelhaft" und in dem weiteren Prüfungsfach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-(7) Bei der Ermittlung des Gesamtergebnisses haben die Prüfungsfächer das gleiche Gewicht.
+1. „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“,
 
-(8) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis, im Prüfungsfach Steuerwesen und in mindestens zwei weiteren der vier in Absatz 2 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
+2. „Sachverhalte im Zusammenhang mit Finanzbuchhaltungen, Entgeltabrechnungen und Jahresabschlüssen bearbeiten“,
 
-# § 9 – Übergangsregelung
+3. „Mandantinnen- und Mandantenberatung mitgestalten“ sowie
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+4. „Wirtschafts- und Sozialkunde“.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+# § 14 – Prüfungsbereich „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“
 
-Diese Verordnung tritt am 1. August 1996 in Kraft.
+(1) Im Prüfungsbereich „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-# Anlage I – (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten - Sachliche Gliederung -
+1. Anliegen von Mandantinnen und Mandanten aufzunehmen,
 
-(Fundstelle: BGBl. I 1996, S. 675 - 678)
+2. Sachverhalte unter Berücksichtigung steuerrechtlicher und handelsrechtlicher Regelungen einzuordnen,
 
-  
+3. steuerliche Grunddaten von Mandantinnen und Mandanten zu erfassen und zu verarbeiten,
 
-Lfd.Nr.
+4. die eingereichten Unterlagen den Steuerarten zuzuordnen,
 
-Teil des Ausbildungsberufsbildes
+5. den Gewinn einer Einkunftsart durch eine Einnahmenüberschussrechnung zu ermitteln,
 
-Zu vermittelnde Fertigkeiten und Kenntnisse
+6. Bemessungsgrundlagen zu ermitteln und Steuern einschließlich der steuerlichen Nebenleistungen zu berechnen,
 
-1
+7. Steuererklärungen vorzubereiten und
 
-2
+8. steuer- und verfahrensrechtliche Regelungen unter Berücksichtigung von Fristen einzuhalten.
 
-3
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-1\.
+(3) Die Prüfungszeit beträgt 130 Minuten.
 
-Ausbildungspraxis (§ 3 Nr. 1)
+# § 15 – Prüfungsbereich „Sachverhalte im Zusammenhang mit Finanzbuchhaltungen, Entgeltabrechnungen und Jahresabschlüssen bearbeiten“
+
+(1) Im Prüfungsbereich „Sachverhalte im Zusammenhang mit Finanzbuchhaltungen, Entgeltabrechnungen und Jahresabschlüssen bearbeiten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. die für die Finanzbuchhaltung und Jahresabschlusserstellung erforderlichen Stammdaten von Mandantinnen und Mandanten zu erheben, einzuordnen und zu erfassen,
+
+2. Entgeltabrechnungen durchzuführen und die Ergebnisse in die Finanzbuchhaltung zu integrieren,
+
+3. laufende Geschäftsvorfälle handels- und steuerrechtlich zu beurteilen und zu buchen,
+
+4. das Anlage- und Umlaufvermögen abzugrenzen und zu bewerten,
+
+5. Berechnungen und Jahresabschlussbuchungen durchzuführen und handels- und steuerrechtliche Jahresabschlüsse zu erstellen und
+
+6. Auswertungen zu erstellen und mandats- und anlassbezogen betriebswirtschaftlich zu analysieren.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
+
+(3) Die Prüfungszeit beträgt 110 Minuten.
+
+# § 16 – Prüfungsbereich „Mandantinnen- und Mandantenberatung mitgestalten“
+
+(1) Im Prüfungsbereich „Mandantinnen- und Mandantenberatung mitgestalten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Beratungsgespräche systematisch, situationsgerecht und zielorientiert zu unterstützen,
+
+2. sich mandantinnen- und mandantenorientiert zu verhalten,
+
+3. fachliche Hintergründe sowie Zusammenhänge zu berücksichtigen,
+
+4. Probleme und Vorgehensweisen zu erörtern,
+
+5. Mandantinnen und Mandanten über steuerrechtliche Regelungen zu informieren sowie rechtliche Regelungen einzuhalten,
+
+6. einen Lösungsweg auch unter Berücksichtigung von digitalen Geschäftsprozessen zu entwickeln,
+
+7. auf Mandantinnen- und Mandantenfragen und -einwände fachgerecht einzugehen,
+
+8. analoge oder digitale beratungsunterstützende Hilfsmittel einzusetzen und
+
+9. über den Gesprächsanlass hinausgehende Mandantinnen- und Mandantenbedarfe zu erkennen und anzusprechen.
+
+(2) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde zu legen:
+
+1. Buchführungen anfertigen,
+
+2. Entgeltabrechnungen durchführen,
+
+3. Jahresabschlusserstellung vorbereiten,
+
+4. betriebswirtschaftliche und wirtschaftsrechtliche Angelegenheiten unterstützen und
+
+5. Steuererklärungen erstellen.
+
+(3) Mit dem Prüfling wird eine Gesprächssimulation durchgeführt.
+
+(4) Für die Gesprächssimulation stellt der Prüfungsausschuss dem Prüfling zwei praxisbezogene Aufgaben aus unterschiedlichen Tätigkeiten nach Absatz 2 zur Auswahl. Der Prüfling hat eine der Aufgaben auszuwählen. Für die Auswahl der Aufgabe und die Vorbereitung auf die Gesprächssimulation stehen ihm insgesamt 15 Minuten zur Verfügung.
+
+(5) Die Gesprächssimulation dauert höchstens 30 Minuten.
+
+# § 17 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
+
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+
+1. „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“ mit 35 Prozent,
+
+2. „Sachverhalte im Zusammenhang mit Finanzbuchhaltungen, Entgeltabrechnungen und Jahresabschlüssen“ bearbeiten mit 30 Prozent,
+
+3. „Mandantinnen- und Mandantenberatung mitgestalten“ mit 25 Prozent sowie
+
+4. „Wirtschafts- und Sozialkunde“ mit 10 Prozent.
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 19 – wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis mit mindestens „ausreichend“,
+
+2. im Prüfungsbereich „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“ mit mindestens „ausreichend“,
+
+3. in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
+
+4. in keinem Prüfungsbereich mit „ungenügend“.
+
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+# § 19 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) „Sachverhalte steuerrechtlich beurteilen und in Steuererklärungen bearbeiten“,
+
+b) „Sachverhalte im Zusammenhang mit Finanzbuchhaltungen, Entgeltabrechnungen und Jahresabschlüssen bearbeiten“ oder
+
+c) „Wirtschafts- und Sozialkunde“,
+
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+
+# § 20 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten vom 9. Mai 1996 (BGBl. I S. 672) außer Kraft.
+
+# Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten
+
+(Fundstelle: BGBl. I 2022, 1394 - 1399)
 
  
-
-1.1
-
-Bedeutung, Stellung und gesetzliche Grundlagen der steuerberatenden und wirtschaftsprüfenden Berufe (§ 3 Nr. 1.1)
-
-a)
-
-die Ausbildungspraxis und ihre Aufgaben in den gesamtwirtschaftlichen Zusammenhang einordnen
-
-b)
-
-Aufgaben der für die Ausbildungspraxis wichtigen Organisationen der Arbeitgeber und der Arbeitnehmer sowie der Finanzbehörden darstellen
-
-c)
-
-Aufgaben der steuerberatenden und wirtschaftsprüfenden Berufe erklären
-
-d)
-
-wesentliche Vorschriften des Berufsrechts der Steuerberater und Steuerbevollmächtigten sowie der Wirtschaftsprüfer und vereidigten Buchprüfer erläutern
-
-e)
-
-Vorschriften über Verschwiegenheitspflichten und Auskunftsverweigerungsrechte beachten sowie die Folgen ihrer Verletzung beschreiben
-
-1.2
-
-Personalwesen, arbeits- und sozialrechtliche Grundlagen (§ 3 Nr. 1.2)
-
-a)
-
-für das Ausbildungs- und Arbeitsverhältnis in Betracht kommende Vorschriften des Arbeits- und Sozialrechts erläutern
-
-b)
-
-die für das Ausbildungs- und Arbeitsverhältnis wichtigen Nachweise erklären
-
-c)
-
-Personaleinsatzplanung an praktischen Beispielen erläutern
-
-d)
-
-Anforderungen an handlungskompetente Mitarbeiter in der Ausbildungspraxis beschreiben
-
-e)
-
-die durch das Berufsrecht gesetzten Grenzen des selbständigen Handelns bei der eigenen Arbeit beachten
-
-1.3
-
-Berufsbildung (§ 3 Nr. 1.3)
-
-a)
-
-rechtliche Vorschriften der Berufsbildung erklären
-
-b)
-
-Inhalte des Berufsausbildungsvertrages, insbesondere die Rechte und Pflichten des Auszubildenden und des Ausbildenden, erläutern
-
-c)
-
-den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
-
-d)
-
-berufliche Fortbildungsmöglichkeiten und ihren Nutzen darstellen
-
-1.4
-
-Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 3 Nr. 1.4)
-
-a)
-
-berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften einhalten und sich bei Unfällen situationsgerecht verhalten
-
-b)
-
-zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
-
-c)
-
-zur sparsamen Material- und Energieverwendung im beruflichen Einwirkungsbereich beitragen
-
-2\.
-
-Praxis- und Arbeitsorganisation (§ 3 Nr. 2)
-
- 
-
-2.1
-
-Inhalt und Organisation der Arbeitsabläufe (§ 3 Nr. 2.1)
-
-a)
-
-Organisation der Ausbildungspraxis in Aufbau und Ablauf darstellen
-
-b)
-
-Zeichnungs- und Vertretungsregelung sowie Weisungsbefugnisse beachten
-
-c)
-
-Posteingang und Postausgang bearbeiten
-
-d)
-
-Termine planen und bei Fristenkontrolle mitwirken
-
-e)
-
-Aktenvermerke verfassen, Schriftstücke entwerfen und gestalten
-
-f)
-
-Registratur- und Fachbibliotheksarbeiten durchführen
-
-g)
-
-Vorgänge des Zahlungsverkehrs bearbeiten
-
-h)
-
-Möglichkeiten humaner Arbeitsgestaltung an Beispielen der Ausbildungspraxis erläutern
-
-i)
-
-Vorschriften für Büroarbeitsplätze beachten und den eigenen Arbeitsplatz sachgerecht gestalten
-
-k)
-
-den eigenen Aufgabenbereich selbstverantwortlich und zeitökonomisch gestalten
-
-2.2
-
-Kooperation und Kommunikation (§ 3 Nr. 2.2)
-
-a)
-
-Möglichkeiten der gegenseitigen Information und der Kooperation innerhalb der Ausbildungspraxis nutzen
-
-b)
-
-Gespräche und Korrespondenz mandantenorientiert führen
-
-3\.
-
-Anwenden von Informations- und Kommunikationstechniken (§ 3 Nr. 3)
-
-a)
-
-die in der Ausbildungspraxis für unterschiedliche Arbeitsaufgaben, insbesondere für die Finanzbuchhaltung, eingesetzten Datenverarbeitungsanwendungen nutzen
-
-b)
-
-Handbücher, Dokumentationen und andere Hilfsmittel nutzen
-
-c)
-
-Schutzvorschriften und Regelungen für Bildschirmarbeitsplätze beachten
-
-d)
-
-die in der Ausbildungspraxis eingesetzten Informations- und Kommunikationstechniken nutzen
-
-e)
-
-Vorschriften des Datenschutzes beachten
-
-f)
-
-betriebliche Regelungen zur Datensicherheit anwenden
-
-4\.
-
-Rechnungswesen (§ 3 Nr. 4)
-
- 
-
-4.1
-
-Buchführungs- und Bilanzierungs- Vorschriften (§ 3 Nr. 4.1)
-
-a)
-
-Buchführungspflichten nach Handels- und Steuerrecht sowie Grundsätze ordnungsmäßiger Buchführung beachten
-
-b)
-
-Aufzeichnungspflichten nach Steuerrecht beachten und von den Buchführungspflichten unterscheiden
-
-c)
-
-Vorschriften über die Eröffnungsbilanz und den Jahresabschluß anwenden
-
-d)
-
-Vorschriften über die Aufbewahrungsfristen beachten
-
-4.2
-
-Buchführungs- und Abschlußtechnik (§ 3 Nr. 4.2)
-
-a)
-
-die verschiedenen Buchungstechniken nach ihren Einsatzmöglichkeiten unterscheiden
-
-b)
-
-Kontenrahmen auswählen und Kontenpläne aufstellen
-
-c)
-
-Konten eröffnen, Geschäftsvorfälle kontieren und buchen sowie Konten abschließen
-
-d)
-
-Nebenbücher führen und abschließen
-
-e)
-
-Anlagenverzeichnisse führen
-
-4.3
-
-Lohn- und Gehaltsabrechnung (§ 3 Nr. 4.3)
-
-a)
-
-Steuer- und sozialversicherungsrechtliche Vorschriften für die Lohn- und Gehaltsabrechnung anwenden
-
-b)
-
-Lohn- und Gehaltsabrechnungen erstellen
-
-c)
-
-Lohn- und Gehaltskonten führen
-
-d)
-
-die im Rahmen der Lohn- und Gehaltsbuchführung notwendigen Nachweise und Anmeldungen erstellen
-
-e)
-
-die Ergebnisse der Lohn- und Gehaltsabrechnung in die Finanzbuchhaltung übernehmen
-
-4.4
-
-Erstellen von Abschlüssen (§ 3 Nr. 4.4)
-
-a)
-
-Einnahme-Überschußrechnung erstellen
-
-b)
-
-Bilanz sowie Gewinn- und Verlustrechnung aus der Buchführung entwickeln
-
-5\.
-
-Betriebswirtschaftliche Facharbeit (§ 3 Nr. 5)
-
- 
-
-5.1
-
-Auswerten der Rechnungslegung (§ 3 Nr. 5.1)
-
-a)
-
-Zielsetzung innerer und äußerer Betriebsvergleiche darstellen
-
-b)
-
-betriebliche Kennziffern ermitteln und auswerten
-
-c)
-
-Vermögens- und Kapitalstrukturen ermitteln
-
-d)
-
-Kosten und Erlöse im Mehrjahresvergleich gegenüberstellen
-
-e)
-
-Richtsatzvergleiche durchführen
-
-5.2
-
-Finanzierung (§ 3 Nr. 5.2)
-
-a)
-
-Finanzierungsregeln unterscheiden
-
-b)
-
-Eigen- und Fremdfinanzierung; Außen- und Innenfinanzierung an Beispielen erläutern
-
-6\.
-
-Steuerliche Facharbeit (§ 3 Nr. 6)
-
- 
-
-6.1
-
-Abgabenordnung (§ 3 Nr. 6.1)
-
-a)
-
-mit steuerlichen Vorschriften, Richtlinien, Rechtsprechung und Fachliteratur umgehen
-
-b)
-
-Rechte und Pflichten der Beteiligten, ihrer gesetzlichen Vertreter sowie der Finanzbehörden im Besteuerungsverfahren unterscheiden
-
-c)
-
-Vorschriften über die Entstehung und Festsetzung der Steuer sowie über die Fälligkeit beachten
-
-d)
-
-Anträge auf Stundung, Aussetzung der Vollziehung und Erlaß sowie Aufrechnungserklärungen entwerfen
-
-e)
-
-Fristen und Termine berechnen, Verjährungsfristen beachten und Anträge auf Fristverlängerung entwerfen
-
-f)
-
-über die Zulässigkeit und Durchführung des außergerichtlichen Rechtsbehelfsverfahrens sowie über die Aufhebung und Änderung von Steuerbescheiden Auskunft geben
-
-g)
-
-Einsprüche und Anträge auf Aufhebung und Änderung von Steuerbescheiden entwerfen
-
-h)
-
-Tatbestände der Steuerhinterziehung, der leichtfertigen Steuerverkürzung und der Steuergefährdung unterscheiden
-
-i)
-
-über den Ablauf des finanzgerichtlichen Verfahrens Auskunft geben
-
-6.2
-
-Umsatzsteuer (§ 3 Nr. 6.2)
-
-a)
-
-Umsatzsteuer-Voranmeldungen und Zusammenfassende Meldungen erstellen
-
-b)
-
-Umsatzsteuererklärungen erstellen und Umsatzverprobungen durchführen
-
-c)
-
-Umsatzsteuerbescheide prüfen
-
-6.3
-
-Einkommensteuer (§ 3 Nr. 6.3)
-
-a)
-
-Besteuerungsgrundlagen ermitteln
-
-b)
-
-Einkommensteuererklärungen erstellen
-
-c)
-
-Erklärungen zur gesonderten Feststellung der Einkünfte erstellen
-
-d)
-
-das zu versteuernde Einkommen ermitteln
-
-e)
-
-tarifliche und festzusetzende Einkommensteuer berechnen
-
-f)
-
-Einkommensteuer- und Feststellungsbescheide prüfen
-
-g)
-
-Anträge auf Lohnsteuerermäßigung stellen und Eintragungen auf der Lohnsteuerkarte prüfen
-
-6.4
-
-Körperschaftsteuer (§ 3 Nr. 6.4)
-
-a)
-
-Körperschaftsteuerpflicht prüfen
-
-b)
-
-steuerpflichtiges Einkommen nach dem Einkommensteuergesetz und nach dem Körperschaftsteuergesetz unterscheiden
-
-c)
-
-Körperschaftsteuertarife, Ausschüttungsbelastung und Anrechnungsverfahren erklären
-
-6.5
-
-Gewerbesteuer (§ 3 Nr. 6.5)
-
-a)
-
-Gewerbesteuerrückstellungen berechnen
-
-b)
-
-Gewerbesteuererklärungen einschließlich Zerlegungserklärungen erstellen
-
-c)
-
-Gewerbesteuermeßbescheide, Zerlegungsbescheide und Gewerbesteuerbescheide prüfen
-
-6.6
-
-Bewertungsgesetz (§ 3 Nr. 6.6)
-
-a)
-
-Vermögensarten und die Bewertung der zu ihnen gehörenden Wirtschaftsgüter sowie der Schulden und Abzüge erläutern
-
-b)
-
-Vermögensaufstellungen erstellen
-
-c)
-
-Wertfortschreibungsgrenzen prüfen
-
-d)
-
-Einheitswertbescheide für Betriebsvermögen und das einem freien Beruf dienende Vermögen prüfen
-
-6.7
-
-Vermögensteuer (§ 3 Nr. 6.7)
-
-a)
-
-Vermögensteuererklärungen erstellen
-
-b)
-
-Vermögensteuerbelastung errechnen
-
-c)
-
-Neuveranlagungsgrenzen prüfen
-
-d)
-
-Vermögensteuerbescheide prüfen
-
-# Anlage II – (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten - Zeitliche Gliederung -
-
-(Fundstelle: BGBl. I 1996, S. 679 - 680)
-
-  
-  
-  
-  
-  
-  
-  
-  
-A.
-
-Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.4, 2.1, Lernziele h, i, k, und 2.2 sind während der gesamten Ausbildungsdauer zu vermitteln. Ihre Vermittlung soll insbesondere in Zusammenhang mit den Berufsbildpositionen 4 und 6 erfolgen.
-
-  
-  
-  
-  
-  
-  
-  
-  
-B.
-
-1\. Ausbildungsjahr
-
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-4.2  
-Buchführungs- und Abschlußtechnik, Lernziele a bis c,
-
-6.1  
-Abgabenordnung, Lernziele a und e,
-
-6.2  
-Umsatzsteuer, Lernziel a,
-
-zu vermitteln.
-
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-2.1  
-Inhalt und Organisation der Arbeitsabläufe, Lernziele a, b, c, d, f und g,
-
-4.1  
-Buchführungs- und Bilanzierungsvorschriften, Lernziele a, b und d,
-
-zu vermitteln.
-
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-1.1  
-Bedeutung, Stellung und gesetzliche Grundlagen der steuerberatenden und wirtschaftsprüfenden Berufe,
-
-1.2  
-Personalwesen, arbeits- und sozialrechtliche Grundlagen, Lernziele a, b und e,
-
-1.3  
-Berufsbildung, Lernziele a bis c,
-
-3. Anwenden von Informations- und Kommunikationstechniken, Lernziele d und e,
-
-6.3  
-Einkommensteuer, Lernziele a und b,
-
-zu vermitteln.
-
-  
-  
-  
-  
-  
-  
-2\. Ausbildungsjahr
-
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-6.1  
-Abgabenordnung, Lernziele c und g,
-
-6.2  
-Umsatzsteuer, Lernziele b und c,
-
-6.3  
-Einkommensteuer, Lernziele c bis g,
-
-6.5  
-Gewerbesteuer
-
-zu vermitteln sowie in Verbindung damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-6.1  
-Abgabenordnung, Lernziele a und e,
-
-6.2  
-Umsatzsteuer, Lernziel a,
-
-6.3  
-Einkommensteuer, Lernziele a und b,
-
-zu vertiefen.
-
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-4.2  
-Buchführungs- und Abschlußtechnik, Lernziele d und e,
-
-4.4  
-Erstellen von Abschlüssen, Lernziel a,
-
-und in Verbindung damit die Fertigkeiten und Kenntnisse der Berufsbildposition
-
-3. Anwenden von Informations- und Kommunikationstechniken, Lernziele a, b, c und f,
-
-zu vermitteln sowie die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-4.1  
-Buchführungs- und Bilanzierungsvorschriften, Lernziele a, b und d,
-
-4.2  
-Buchführungs- und Abschlußtechnik, Lernziele a bis c,
-
-3. Anwenden von Informations- und Kommunikationstechniken, Lernziele d und e,
-
-zu vertiefen.
-
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-1.2  
-Personalwesen, arbeits- und sozialrechtliche Grundlagen, Lernziele c und d,
-
-2.1  
-Inhalt und Organisation der Arbeitsabläufe, Lernziel e,
-
-4.3  
-Lohn- und Gehaltsabrechnung
-
-zu vermitteln.
-
-  
-  
-  
-  
-  
-  
-3\. Ausbildungsjahr
-
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-6.1  
-Abgabenordnung, Lernziele b, d, f, h und i,
-
-6.4  
-Körperschaftsteuer,
-
-6.6  
-Bewertungsgesetz,
-
-6.7  
-Vermögensteuer
-
-zu vermitteln sowie die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-6.1  
-Abgabenordnung, Lernziele a, c und g,
-
-6.2  
-Umsatzsteuer,
-
-6.3  
-Einkommensteuer,
-
-6.5  
-Gewerbesteuer
-
-zu vertiefen.
-
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-4.1  
-Buchführungs- und Bilanzierungsvorschriften, Lernziel c,
-
-4.4  
-Erstellen von Abschlüssen, Lernziel b,
-
-zu vermitteln sowie in Verbindung damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-3. Anwenden von Informations- und Kommunikationstechniken,
-
-4.2  
-Buchführungs- und Abschlußtechnik, Lernziele c und e,
-
-4.3  
-Lohn- und Gehaltsabrechnung,
-
-4.4  
-Erstellen von Abschlüssen, Lernziel a,
-
-zu vertiefen.
-
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
-
-1.3  
-Berufsbildung, Lernziel d,
-
-5. Betriebswirtschaftliche Facharbeit
-
-zu vermitteln sowie die Fertigkeiten und Kenntnisse der Berufsbildposition
-
-2.1  
-Inhalt und Organisation der Arbeitsabläufe, Lernziel e,
-
-zu vertiefen.

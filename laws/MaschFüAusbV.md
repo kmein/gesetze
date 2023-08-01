@@ -286,7 +286,7 @@ jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfung
 
 1. Schwerpunkt Metalltechnik/Kunststofftechnik in einem der Ausbildungsberufe
 
-Verfahrensmechaniker für Kunststoff- und Kautschuktechnik/ Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik,
+Kunststoff- und Kautschuktechnologe/Kunststoff- und Kautschuktechnologin,
 
 Feinwerkmechaniker/Feinwerkmechanikerin,
 

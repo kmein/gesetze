@@ -217,9 +217,9 @@ Ordnungswidrigkeiten
 
 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
-§ 39
+ 
 
-Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken
+ 
 
 # § 1 – Anwendungsbereich
 
@@ -817,6 +817,16 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 (5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile identisches sowie in der Darreichungsform und pharmazeutischen Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche Anwendung des Arzneimittels erforderlich macht.
 
+(5b) Abweichend von Absatz 5 Satz 1 und 2 und Absatz 5a darf der Apotheker bei einem verordneten Arzneimittel, das nicht verfügbar im Sinne des § 129 Absatz 2a Satz 2 des Fünften Buches Sozialgesetzbuch ist, das verordnete Arzneimittel gegen ein verfügbares wirkstoffgleiches Arzneimittel austauschen, sofern der verordnende Arzt dies nicht ausgeschlossen hat und die Person, für die das Arzneimittel bestimmt ist, einverstanden ist. Dabei dürfen Apotheker ohne Rücksprache mit dem verordnenden Arzt von der ärztlichen Verordnung im Hinblick auf Folgendes abweichen, sofern hierdurch die verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
+
+1. die Packungsgröße,
+
+2. die Packungsanzahl,
+
+3. die Abgabe von Teilmengen aus der Packung eines Fertigarzneimittels, soweit die verordnete Packungsgröße nicht lieferbar ist, und
+
+4. die Wirkstärke, sofern keine pharmazeutischen Bedenken bestehen.
+
 (6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und, falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der Verschreibung, anzugeben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzufügen
 
 1. der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
@@ -1378,7 +1388,3 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
 
 (2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden, wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) eingereicht wurde. Für die betreffende klinische Prüfung ist diese Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden.
-
-# § 39 – Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken
-
-Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a dürfen Apotheken, wenn das auf der Grundlage der ärztlichen Verordnung abzugebende Arzneimittel nicht vorrätig oder lieferbar ist, dieses bei Abgabe an Versicherte in der privaten Krankenversicherung, Beihilfeempfänger und Selbstzahler nach Maßgabe des § 423 des Fünften Buches Sozialgesetzbuch durch ein anderes Arzneimittel ersetzen.

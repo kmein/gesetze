@@ -117,7 +117,7 @@ Im Sachverständigengutachten sind die zu treffenden Maßnahmen, die notwendig s
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Ablauf des 26. Oktober 2024 außer Kraft. § 9 Absatz 3 tritt mit Ablauf des 26. April 2024 außer Kraft.
+(2) Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Ablauf des 26. Oktober 2024 außer Kraft. § 9 Absatz 3 tritt mit Ablauf des 26. April 2025 außer Kraft.
 
 # Schlussformel
 

@@ -15,7 +15,7 @@ Gesellschaften mit beschränkter Haftung können nach Maßgabe der Bestimmungen 
 
 (2) Die Unterzeichnung durch Bevollmächtigte ist nur auf Grund einer notariell errichteten oder beglaubigten Vollmacht zulässig. Die notarielle Errichtung der Vollmacht kann auch mittels Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes erfolgen.
 
-(3) Die notarielle Beurkundung des Gesellschaftsvertrags kann im Fall einer Gründung ohne Sacheinlagen auch mittels Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes erfolgen. In diesem Fall genügen abweichend von Absatz 1 Satz 2 für die Unterzeichnung die qualifizierten elektronischen Signaturen der mittels Videokommunikation an der Beurkundung teilnehmenden Gesellschafter. Sonstige Willenserklärungen, welche nicht der notariellen Form bedürfen, können mittels Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes beurkundet werden; sie müssen in die nach Satz 1 errichtete elektronische Niederschrift aufgenommen werden. Satz 3 ist auf einstimmig gefasste Beschlüsse entsprechend anzuwenden. Die Gründung mittels Videokommunikation kann auch im Wege des vereinfachten Verfahrens nach Absatz 1a oder unter Verwendung der in Anlage 2 bestimmten Musterprotokolle erfolgen. Bei Verwendung der in Anlage 2 bestimmten Musterprotokolle gilt Absatz 1a Satz 3 bis 5 entsprechend.
+(3) Die notarielle Beurkundung des Gesellschaftsvertrags kann auch mittels Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes erfolgen, sofern andere Formvorschriften nicht entgegenstehen; dabei dürfen in den Gesellschaftsvertrag auch Verpflichtungen zur Abtretung von Geschäftsanteilen an der Gesellschaft aufgenommen werden. Im Fall der Beurkundung mittels Videokommunikation genügen abweichend von Absatz 1 Satz 2 für die Unterzeichnung die qualifizierten elektronischen Signaturen der mittels Videokommunikation an der Beurkundung teilnehmenden Gesellschafter. Sonstige Willenserklärungen, welche nicht der notariellen Form bedürfen, können mittels Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes beurkundet werden; sie müssen in die nach Satz 1 errichtete elektronische Niederschrift aufgenommen werden. Satz 3 ist auf einstimmig gefasste Beschlüsse entsprechend anzuwenden. Die Gründung mittels Videokommunikation kann auch im Wege des vereinfachten Verfahrens nach Absatz 1a oder unter Verwendung der in Anlage 2 bestimmten Musterprotokolle erfolgen. Bei Verwendung der in Anlage 2 bestimmten Musterprotokolle gilt Absatz 1a Satz 3 bis 5 entsprechend.
 
 # § 3 – Inhalt des Gesellschaftsvertrags
 
@@ -559,11 +559,13 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 # § 53 – Form der Satzungsänderung
 
-(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluß der Gesellschafter erfolgen.
+(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluss der Gesellschafter erfolgen.
 
-(2) Der Beschluß muß notariell beurkundet werden, derselbe bedarf einer Mehrheit von drei Vierteilen der abgegebenen Stimmen. Der Gesellschaftsvertrag kann noch andere Erfordernisse aufstellen.
+(2) Der Beschluss bedarf einer Mehrheit von drei Vierteilen der abgegebenen Stimmen. Der Gesellschaftsvertrag kann noch andere Erfordernisse aufstellen.
 
-(3) Eine Vermehrung der den Gesellschaftern nach dem Gesellschaftsvertrag obliegenden Leistungen kann nur mit Zustimmung sämtlicher beteiligter Gesellschafter beschlossen werden.
+(3) Der Beschluss muss notariell beurkundet werden. Erfolgt die Beschlussfassung einstimmig, so ist § 2 Absatz 3 Satz 1, 3 und 4 entsprechend anzuwenden.
+
+(4) Eine Vermehrung der den Gesellschaftern nach dem Gesellschaftsvertrag obliegenden Leistungen kann nur mit Zustimmung sämtlicher beteiligter Gesellschafter beschlossen werden.
 
 # § 54 – Anmeldung und Eintragung der Satzungsänderung
 
@@ -575,7 +577,7 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 # § 55 – Erhöhung des Stammkapitals
 
-(1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es zur Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer notariell aufgenommenen oder beglaubigten Erklärung des Übernehmers.
+(1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es zur Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer notariell aufgenommenen oder beglaubigten Erklärung des Übernehmers. Die notarielle Aufnahme oder Beglaubigung der Erklärung kann auch mittels Videokommunikation gemäß den §§ 16a bis 16e und 40a des Beurkundungsgesetzes erfolgen.
 
 (2) Zur Übernahme eines Geschäftsanteils können von der Gesellschaft die bisherigen Gesellschafter oder andere Personen, welche durch die Übernahme ihren Beitritt zu der Gesellschaft erklären, zugelassen werden. Im letzteren Fall sind außer dem Nennbetrag des Geschäftsanteils auch sonstige Leistungen, zu welchen der Beitretende nach dem Gesellschaftsvertrag verpflichtet sein soll, in der in Absatz 1 bezeichneten Urkunde ersichtlich zu machen.
 
@@ -611,7 +613,7 @@ Für die Leistungen der Einlagen auf das neue Stammkapital finden § 7 Abs. 2 Sa
 
 1. die in § 55 Abs. 1 bezeichneten Erklärungen oder eine beglaubigte Abschrift derselben;
 
-2. eine von den Anmeldenden unterschriebene Liste der Personen, welche die neuen Geschäftsanteile übernommen haben; aus der Liste müssen die Nennbeträge der von jedem übernommenen Geschäftsanteile ersichtlich sein;
+2. eine von den Anmeldenden unterschriebene oder mit einer qualifizierten elektronischen Signatur versehene Liste der Personen, welche die neuen Geschäftsanteile übernommen haben; aus der Liste müssen die Nennbeträge der von jedem übernommenen Geschäftsanteile ersichtlich sein;
 
 3. bei einer Kapitalerhöhung mit Sacheinlagen die Verträge, die den Festsetzungen nach § 56 zugrunde liegen oder zu ihrer Ausführung geschlossen worden sind.
 
