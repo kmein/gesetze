@@ -723,6 +723,8 @@ Fehlt ein erforderlicher geschäftsführender Direktor, so hat in dringenden Fä
 
 (6) Hat der Verwaltungsrat beschlossen, die Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen, oder hat der Verwaltungsrat den Jahresabschluss nicht gebilligt, so stellt die Hauptversammlung den Jahresabschluss fest. Hat der Verwaltungsrat eines Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) den Konzernabschluss nicht gebilligt, so entscheidet die Hauptversammlung über die Billigung. Für die Feststellung des Jahresabschlusses oder die Billigung des Konzernabschlusses durch die Hauptversammlung gilt § 173 Abs. 2 und 3 des Aktiengesetzes entsprechend.
 
+(+++ § 47 Abs. 4a: Zur Anwendung vgl. § 58 +++)
+
 # § 48 – Ordentliche Hauptversammlung
 
 (1) Unverzüglich nach der Zuleitung des Berichts an die geschäftsführenden Direktoren hat der Verwaltungsrat die Hauptversammlung zur Entgegennahme des festgestellten Jahresabschlusses und des Lageberichts, eines vom Verwaltungsrat gebilligten Einzelabschlusses nach § 325 Abs. 2a Satz 1 des Handelsgesetzbuchs sowie zur Beschlussfassung über die Verwendung des Bilanzgewinns, bei einem Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) auch zur Entgegennahme des vom Verwaltungsrat gebilligten Konzernabschlusses und des Konzernlageberichts, einzuberufen.
@@ -824,6 +826,8 @@ eine Versicherung nicht richtig abgibt.
 die Eröffnung des Insolvenzverfahrens nicht oder nicht rechtzeitig beantragt.
 
 (5) Handelt der Täter in den Fällen des Absatzes 4 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+
+(+++ § 53 Abs. 1: Zur Anwendung vgl. § 58 +++)
 
 # § 54 – Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 
