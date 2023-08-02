@@ -369,8 +369,6 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine elektronische Mitteilung über die Nichtzulassung. Die Bewerbungsunterlagen sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch eingesandte Bewerbungsunterlagen sind endgültig zu löschen.
 
-(5) (weggefallen)
-
 # § 6a – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus den folgenden Teilen:
@@ -502,8 +500,6 @@ Das Auswahlverfahren beginnt mit dem schriftlichen Teil. Die Reihenfolge des mü
 1. über Englischkenntnisse auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen verfügt und
 
 2. die Fahrerlaubnis der Klasse B besitzt.
-
-(3) (weggefallen)
 
 # § 9 – Ziel des Studiums
 
@@ -1618,13 +1614,9 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 2. die Fahrerlaubnis der Klasse B besitzt.
 
-§ 93 Abs. 1 Nr 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kriminallaufbahnverordung" durch das Wort "Kriminallaufbahnverordnung" ersetzt.
-
 # § 94 – Ziel der Qualifizierungsmaßnahme
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat das Ziel, Personen, die bereits einen an einer Hochschule erworbenen Bachelor- oder Masterabschluss oder einen vergleichbaren Studienabschluss erworben haben und daher über Kenntnisse und Fähigkeiten wissenschaftlicher Arbeitstechniken verfügen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln. Dabei soll der bereits erbrachte wissenschaftliche Abschluss Berücksichtigung finden.
-
-§ 94 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "kriminalpolizeiichen" durch das Wort "kriminalpolizeilichen" ersetzt.
 
 # § 95 – Dauer der Qualifizierungsmaßnahme
 
