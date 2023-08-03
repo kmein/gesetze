@@ -891,7 +891,19 @@ Bei Anlagen, die von der Richtlinie 2010/75/EU erfasst werden, müssen die Anfor
 
 (2) Es bedarf weder einer Anzeige nach § 15 noch einer Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei der zuständigen Behörde eine Überschreitung nach Absatz 1 beantragt.
 
-# § 31k – (weggefallen)
+# § 31k – Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen
+
+(1) Bei Vorliegen der Alarmstufe oder der Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, soll die zuständige Behörde auf Antrag des Betreibers Abweichungen von einzelnen in der Genehmigung enthaltenen Anforderungen an die Geräusche zur Nachtzeit unter Abweichung von den Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm und an die optischen Immissionen der Windenergieanlage zulassen,
+
+1. um die Strommenge einer Windenergieanlage zu erhöhen, deren Betriebszeit zur Verminderung oder Vermeidung von Schattenwurf beschränkt ist, oder
+
+2. um die Leistung oder die Strommenge einer Windenergieanlage in der Nachtzeit zu erhöhen, soweit sich der Schallpegel der Anlage in dieser Zeit um maximal 4 Dezibel gegenüber dem bisher genehmigten Wert erhöht.
+
+(2) Dem Antrag sind die zur Beurteilung erforderlichen Unterlagen beizufügen. Die zuständige Behörde hat dem Betreiber den Eingang des Antrags unverzüglich zu bestätigen.
+
+(3) Eine beantragte Abweichung gilt nach Ablauf eines Monats nach Eingang des Antrags als zugelassen, wenn der Antrag hinreichend bestimmt ist, sich die beantragte Abweichung auf Anforderungen an die Geräusche zur Nachtzeit oder die optische Immission beschränkt und alle weiteren Anforderungen des Absatzes 1 eingehalten sind.
+
+(4) Über die Zulassung der Abweichungen nach Absatz 1 hinaus bedarf es weder einer Änderungsgenehmigung nach § 16 noch einer Anzeige nach § 15. Nach Absatz 1 zugelassene Abweichungen sind bis zum 15. April 2024 befristet. Hebt das Bundesministerium für Wirtschaft und Klimaschutz die Alarmstufe oder Notfallstufe im Sinne des Absatzes 1 vor dem 15. April 2024 auf, endet die Zulassung der Abweichungen bereits zum Ablauf des letzten Tages des auf die Aufhebung folgenden Quartals.
 
 # § 31l – Übergangsregelungen zu den §§ 31e bis 31k
 
@@ -1993,7 +2005,7 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 # § 73 – Bestimmungen zum Verwaltungsverfahren
 
-Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden. Satz 1 ist nicht auf § 31k anzuwenden.
 
 # Anlage – (zu § 3 Abs. 6)Kriterien zur Bestimmung des Standes der Technik
 

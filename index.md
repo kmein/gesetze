@@ -2313,6 +2313,7 @@
 - [GAPAusnV](laws/GAPAusnV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelungen hinsichtlich der Anwendung der Standards für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standards) 7 und 8 für das Antragsjahr 2023
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
 - [GAPDZV](laws/GAPDZV.md) Verordnung zur Durchführung der GAP-Direktzahlungen
+- [GAPFinISchG](laws/GAPFinISchG.md) Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik
 - [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
 - [GAPInVeKoSV](laws/GAPInVeKoSV.md) Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems
 - [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
@@ -4213,7 +4214,7 @@
 - [ÖkoKennzG](laws/ÖkoKennzG.md) Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus
 - [ÖkoKennzV](laws/ÖkoKennzV.md) Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens
 - [ÖLG](laws/ÖLG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus
-- [ÖLGKontrollStZulV](laws/ÖLGKontrollStZulV.md) Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz*)
+- [ÖLG-DV](laws/ÖLG-DV.md) Verordnung zur Durchführung des Öko-Landbaugesetzes 1
 - [ÖlHaftÜbk](laws/ÖlHaftÜbk.md) Internationales Übereinkommen über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 - [ÖlHaftÜbk 1992](laws/ÖlHaftÜbk_1992.md) Internationales Übereinkommen von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 - [ÖlHaftÜbkProt](laws/ÖlHaftÜbkProt.md) Protokoll zum Internationalen Übereinkommen von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
@@ -4221,6 +4222,7 @@
 - [ÖlPflichtVersBeschV](laws/ÖlPflichtVersBeschV.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)
 - [ÖlSG](laws/ÖlSG.md) Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe
 - [ÖlUnfÜbk](laws/ÖlUnfÜbk.md) Internationales Übereinkommen über Maßnahmen auf Hoher See bei Ölverschmutzungs-Unfällen
+- [ÖLVermehrAnzV](laws/ÖLVermehrAnzV.md) Verordnung über die Anzeige von Vermehrungsflächen im ökologischen Landbau 5
 - [ÖlVerschmSchIFÜbk 1992](laws/ÖlVerschmSchIFÜbk_1992.md) Internationales Übereinkommen von 1992 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
 - [ÖlVerschmÜbk1990](laws/ÖlVerschmÜbk1990.md) Internationales Übereinkommen von 1990 über Vorsorge, Bekämpfung und Zusammenarbeit auf dem Gebiet der Ölverschmutzung
 - [OFDAufgÜbertrV](laws/OFDAufgÜbertrV.md) Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin, Bremen, Chemnitz, Düsseldorf, Erfurt, Frankfurt am Main, Hannover, Kiel, Magdeburg, München, Münster, Rostock, Saarbrücken und Stuttgart
