@@ -1255,17 +1255,11 @@ Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Re
 
 (1) Abweichend von § 66 Absatz 1 sind die Bestimmungen des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes und § 17f des Energiewirtschaftsgesetzes in der am 31. Dezember 2022 geltenden Fassung auch anzuwenden auf Strom, der nach dem 31. Dezember 2022 und vor dem 1. Januar 2024 an eine vom Bundesamt für Wirtschaft und Ausfuhrkontrolle nach den §§ 63 bis 68 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung begrenzte Abnahmestelle geliefert oder verbraucht wurde. Satz 1 ist für die Begrenzung der KWKG-Umlage nach § 27c des Kraft-Wärme-Kopplungsgesetzes und der Offshore-Netzumlage nach § 17f Absatz 5 Satz 2 des Energiewirtschaftsgesetzes in den am 31. Dezember 2022 geltenden Fassungen für Schienenbahnen entsprechend anzuwenden mit der Maßgabe, dass die Abnahmestelle nicht vom Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt sein muss.
 
-(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt auf Antrag die Umlagen für den Stromanteil über 1 Gigawattstunde pro begrenzter Abnahmestelle, indem es die §§ 30 bis 35, 40, 42 bis 44 nach Maßgabe der Sätze 2 und 3 entsprechend für Unternehmen oder selbständige Teile eines Unternehmens anwendet, die
+(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt auf Antrag die Umlagen für den Stromanteil über 1 Gigawattstunde pro begrenzter Abnahmestelle, indem es die §§ 30 bis 35, 40, 42 bis 44 nach Maßgabe der Sätze 2 bis 4 entsprechend für Unternehmen oder selbständige Teile eines Unternehmens anwendet, die
 
-1. über eine bestandskräftige Begrenzungsentscheidung für das Jahr 2022 oder das Jahr 2023 nach § 64 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung verfügen,
+1. über eine bestandskräftige Begrenzungsentscheidung für das Jahr 2022 oder das Jahr 2023 nach § 64 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung verfügen und
 
-2. einer Branche nach Anlage 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung zuzuordnen sind und
-
-3. nachweisen, dass ihre Stromkostenintensität im Sinn des § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes und der Besondere-Ausgleichsregelung-Durchschnittsstrompreis-Verordnung in den am 31. Dezember 2022 geltenden Fassungen mindestens betragen hat:
-
-a) 12 Prozent im Antragsjahr 2023 und 11 Prozent ab dem Antragsjahr 2024 für Unternehmen nach Liste 1 der Anlage 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung oder
-
-b) 20 Prozent für Unternehmen nach Liste 2 der Anlage 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung.
+2. einer Branche nach Anlage 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung zuzuordnen sind.
 
 Die Begrenzung erfolgt
 
@@ -1275,7 +1269,7 @@ Die Begrenzung erfolgt
 
 3. für das Jahr 2028 auf 80 Prozent der Umlagen oder höchstens 3,5 Prozent der Bruttowertschöpfung im Sinn des § 35 Absatz 1 Nummer 2.
 
-Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren Energien decken, erfolgt die Begrenzung für die Jahre 2027 und 2028 entsprechend den Werten aus Satz 2 Nummer 1.
+Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren Energien decken, erfolgt die Begrenzung für die Jahre 2027 und 2028 entsprechend den Werten aus Satz 2 Nummer 1. Anträge nach diesem Absatz sind für das Begrenzungsjahr 2024 abweichend von § 40 bis zum 30. September 2023 zu stellen.
 
 (3) Für Anträge für die Begrenzungsjahre 2024 und 2025 sind bei der Anwendung des Absatzes 2 sowie von § 31 Nummer 3, § 32 Nummer 1 Buchstabe c, § 35 Absatz 1 Nummer 2 anstelle der letzten drei abgeschlossenen Geschäftsjahre zwei der letzten drei abgeschlossenen Geschäftsjahre zugrunde zu legen, wobei das Unternehmen selbst bestimmen kann, welche zwei der letzten drei abgeschlossenen Geschäftsjahre zugrunde gelegt werden sollen. Für Unternehmen mit nur zwei abgeschlossenen Geschäftsjahren sind bei Anträgen für die Begrenzungsjahre 2024 und 2025 unabhängig von § 33 Absatz 1 diese zwei abgeschlossenen Geschäftsjahre zugrunde zu legen. Satz 1 ist entsprechend für Anträge für die Begrenzungsjahre 2024 und 2025 nach Absatz 2 anzuwenden.
 
@@ -1286,8 +1280,6 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 1. die bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach höchstens 60 Prozent der vorgesehenen Nutzungsdauer einen positiven Kapitalwert aufweist oder
 
 2. die in einem vor dem 1. Januar 2023 eingeführten Energiemanagementsystem, bei dem die wirtschaftliche Durchführbarkeit einer Maßnahme auf Basis der Amortisationszeitmethode bewertet wurde, mit einer Amortisationsdauer von weniger als 60 Prozent der vorgesehenen Nutzungsdauer ausgewiesen ist.
-
-§ 67 Abs 2 S 1 Nr 3 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Bezeichnung "Besondere-Ausgleichsregelung- Durchschnittsstrompreisverordnung" durch die amtliche Kurzüberschrift "Besondere-Ausgleichsregelung-Durchschnittsstrompreis-Verordnung" ersetzt.
 
 # § 68 – Beihilfevorbehalt
 

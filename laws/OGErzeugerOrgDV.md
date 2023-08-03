@@ -267,7 +267,7 @@ In besonderen Fällen kann die Landesstelle abweichend von Satz 1 Nummer 3 geneh
 
 (3) Einem Beihilfeantrag nach Absatz 2 sind folgende Unterlagen, Zusicherungen und Angaben beizufügen:
 
-1. Name und Vorname oder Name des Unternehmens, sofern zutreffend auch die Namen des Mutterunternehmens, des obersten Mutterunternehmens sowie der Tochterunternehmen der Gruppe im Sinne des Artikels 2 Nummer 11 der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19), der das Unternehmen zum in Absatz 2 genannten Zeitpunkt angehört; jeweils mit Wirtschafts-Identifikationsnummer,
+1. Name und Vorname oder Name des Unternehmens,
 
 2. Belege über die beantragte Höhe der Beihilfe,
 
@@ -288,8 +288,6 @@ In besonderen Fällen kann die Landesstelle abweichend von Satz 1 Nummer 3 geneh
 10. die für den Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben und
 
 11. die Namen und Anschriften aller Mitglieder der anerkannten Erzeugerorganisation des Jahres, das dem Beihilfejahr vorangeht, und im Fall von Erzeugern zusätzlich deren Betriebsnummer nach § 7 Absatz 2 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes sowie die Betriebsnummer der anerkannten Erzeugerorganisation.
-
-Ist an die in Satz 1 Nummer 1 genannten Unternehmen eine Wirtschafts-Identifikationsnummer bisher nicht vergeben worden, ist die Umsatzsteuer-Identifikationsnummer anzugeben. Ist auch eine solche nicht erteilt worden, sind Steuernummer und zuständiges Finanzamt anzugeben.
 
 (4) Ein Beihilfeantrag kann sich auf geplante, noch nicht getätigte Ausgaben beziehen, wenn nachgewiesen wird, dass
 

@@ -225,31 +225,19 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 5. das Gründungsdatum bei anderen Antragstellern als natürlichen Personen,
 
-6. die Umsatzsteuer- oder Steueridentifikationsnummer,
+6. die Anschrift,
 
-7. sofern er einer Gruppe nach Artikel 2 Nummer 11 der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19), die zuletzt durch die Richtlinie (EU) 2021/2101 (ABl. L 429 vom 1.12.2021, S. 1) geändert worden ist, angehört, folgende zum Antragszeitpunkt geltende Informationen:
+7. die Telefonnummer, die E-Mail-Adresse und gegebenenfalls die Faxnummer,
 
-a) seine Wirtschafts-Identifikationsnummer oder, wenn diese bisher nicht vergeben wurde, seine Umsatzsteuer-Identifikationsnummer oder, wenn diese bisher nicht vergeben wurde, seine Steuernummer und das zuständige Finanzamt,
+8. die Betriebsnummer nach § 7 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes,
 
-b) den Namen und die Wirtschafts-Identifikationsnummer entsprechend Buchstabe a des Mutterunternehmens,
+9. die Bankverbindung des Betriebsinhabers,
 
-c) soweit vorhanden, den Namen und die Wirtschafts-Identifikationsnummer entsprechend Buchstabe a des obersten Mutterunternehmens,
+10. das zuständige Finanzamt,
 
-d) den Namen und die Wirtschafts-Identifikationsnummer entsprechend Buchstabe a der Tochterunternehmen,
+11. im Falle mehrerer Betriebsstätten den Namen, die Anschrift und die nach der Viehverkehrsverordnung vergebenen Registriernummern dieser Betriebsstätten,
 
-8. die Anschrift,
-
-9. die Telefonnummer, die E-Mail-Adresse und gegebenenfalls die Faxnummer,
-
-10. die Betriebsnummer nach § 7 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes,
-
-11. die Bankverbindung des Betriebsinhabers,
-
-12. das zuständige Finanzamt,
-
-13. im Falle mehrerer Betriebsstätten den Namen, die Anschrift und die nach der Viehverkehrsverordnung vergebenen Registriernummern dieser Betriebsstätten,
-
-14. im Falle einer Bevollmächtigung den Namen und die Anschrift sowie die E-Mail-Adresse des Bevollmächtigten.
+12. im Falle einer Bevollmächtigung den Namen und die Anschrift sowie die E-Mail-Adresse des Bevollmächtigten.
 
 # § 10 – Angaben zum aktiven Betriebsinhaber
 
@@ -501,7 +489,7 @@ Vom Begünstigten vorgelegte Beihilfeanträge sowie Belege können jederzeit nac
 
 # § 24 – Meldungen über Hopfenflächen
 
-Die Bundesanstalt hat den anerkannten Erzeugerorganisationen im Hopfensektor vor dem 30. September jedes Jahres die nach § 16 erhobenen und der Bundesanstalt seitens der zuständigen Behörden der Länder nach § 27 Absatz 5 mitgeteilten Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummern 1, 5, 8 bis 10 identifizierten Mitglieder zu den Hopfenflächen zu übermitteln. Die anerkannten Erzeugerorganisationen im Hopfensektor dürfen diese Daten ausschließlich zur Identifizierung der landwirtschaftlichen Parzellen nach Artikel 62 Absatz 1 der Verordnung (EU) 2021/2115 im Rahmen der Antragstellung nach einer auf Grund des § 2 Absatz 5 des Hopfengesetzes erlassenen Verordnung verwenden.
+Die Bundesanstalt hat den anerkannten Erzeugerorganisationen im Hopfensektor vor dem 30. September jedes Jahres die nach § 16 erhobenen und der Bundesanstalt seitens der zuständigen Behörden der Länder nach § 27 Absatz 5 mitgeteilten Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummer 1, 5, 6 bis 8 identifizierten Mitglieder zu den Hopfenflächen zu übermitteln. Die anerkannten Erzeugerorganisationen im Hopfensektor dürfen diese Daten ausschließlich zur Identifizierung der landwirtschaftlichen Parzellen nach Artikel 62 Absatz 1 der Verordnung (EU) 2021/2115 im Rahmen der Antragstellung nach einer auf Grund des § 2 Absatz 5 des Hopfengesetzes erlassenen Verordnung verwenden.
 
 # § 25 – Erntetermin und Kontrollen beim Anbau von Hanf
 
@@ -535,7 +523,7 @@ Für jede der in Satz 1 Nummer 2 genannten Flächen sind die in § 15 genannten 
 
 (4) Die Bundesanstalt hat dem Bundessortenamt jährlich die Ergebnisse der Untersuchungen des Gehalts an Tetrahydrocannabinol mitzuteilen.
 
-(5) Die zuständigen Behörden der Länder haben der Bundesanstalt zur Durchführung und Kontrolle der Zahlungen an die anerkannten Erzeugerorganisationen im Hopfensektor die im Sammelantrag nach § 11 Absatz 1 Satz 2 Nummer 1 und § 16 erhobenen Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummern 1, 5, 8 bis 10 identifizierten Hopfenerzeuger mitzuteilen. Die Bundesanstalt und die zuständigen Behörden der Länder haben sich gegenseitig über das Verfahren und die Ergebnisse der im Bereich des Anbaus von Hopfen durchgeführten Kontrollen zu unterrichten.
+(5) Die zuständigen Behörden der Länder haben der Bundesanstalt zur Durchführung und Kontrolle der Zahlungen an die anerkannten Erzeugerorganisationen im Hopfensektor die im Sammelantrag nach § 11 Absatz 1 Satz 2 Nummer 1 und § 16 erhobenen Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummer 1, 5, 6 bis 8 identifizierten Hopfenerzeuger mitzuteilen. Die Bundesanstalt und die zuständigen Behörden der Länder haben sich gegenseitig über das Verfahren und die Ergebnisse der im Bereich des Anbaus von Hopfen durchgeführten Kontrollen zu unterrichten.
 
 # § 28 – Verwaltungskontrollen
 

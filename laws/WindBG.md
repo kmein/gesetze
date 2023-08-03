@@ -29,7 +29,7 @@ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage
 
 # § 3 – Verpflichtungen der Länder
 
-(1) In jedem Bundesland ist ein prozentualer Anteil der Landesfläche nach Maßgabe der Anlage (Flächenbeitragswert) für die Windenergie an Land auszuweisen. Dabei sind bis zum 31. Dezember 2027 mindestens die Flächenbeitragswerte nach der Anlage Spalte 1 und bis zum 31. Dezember 2032 mindestens die Flächenbeitragswerte nach Anlage Spalte 2 auszuweisen. Zum Zwecke der Bestimmung der Größe der hiernach auszuweisenden Flächen ist die Größe der Landesflächen der Bundesländer insgesamt der Anlage Spalte 3 zu entnehmen.
+(1) In jedem Bundesland ist ein prozentualer Anteil der Landesfläche nach Maßgabe der Anlage (Flächenbeitragswert) für die Windenergie an Land auszuweisen. Dabei sind bis zum 31. Dezember 2027 mindestens die Flächenbeitragswerte nach der Anlage Spalte 1 und bis zum 31. Dezember 2032 mindestens die Flächenbeitragswerte nach der Anlage Spalte 2 auszuweisen; soweit ein Land von Absatz 4 Gebrauch gemacht hat, ersetzen die durch das Land erhöhten Flächenbeitragswerte und vorgezogenen Stichtage die entsprechenden in der Anlage genannten Flächenbeitragswerte und die entsprechenden im ersten Teilsatz und in der Anlage aufgeführten Stichtage. Zum Zwecke der Bestimmung der Größe der hiernach auszuweisenden Flächen ist die Größe der Landesflächen der Bundesländer insgesamt der Anlage Spalte 3 zu entnehmen.
 
 (2) Die Länder erfüllen die Pflicht nach Absatz 1, indem sie
 
@@ -44,6 +44,8 @@ Im Fall des Satzes 1 Nummer 1 kann das Land durch ein Landesgesetz oder als Ziel
 1. im Fall des Absatzes 2 Satz 1 Nummer 1 Planaufstellungsbeschlüsse zur Ausweisung der zur Erreichung der Flächenbeitragswerte nach der Anlage Spalte 1 notwendigen Flächen,
 
 2. im Fall des Absatzes 2 Satz 1 Nummer 2 und Satz 2 das Inkrafttreten von Landesgesetzen oder Raumordnungsplänen, die regionale oder kommunale Teilflächenziele festsetzen; dabei müssen die Teilflächenziele in der Summe den Flächenbeitragswert nach der Anlage Spalte 1 für das Land erreichen.
+
+(4) Die Länder können durch Landesrecht für das jeweilige Landesgebiet abweichend von Absatz 1 Satz 1 jeweils höhere als die in der Anlage geregelten Flächenbeitragswerte vorsehen und die in Absatz 1 Satz 2 erster Teilsatz sowie in der Anlage genannten Stichtage jeweils auf einen früheren Zeitpunkt vorziehen.
 
 # § 4 – Anrechenbare Fläche
 
@@ -101,16 +103,16 @@ Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den
 
 (Fundstelle: BGBl. I 2022, 1356)
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 36%" /><col style="width: 24%" /><col style="width: 24%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Bundesland</th><th style="text-align: center;">Spalte 1:<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 36%" /><col style="width: 24%" /><col style="width: 24%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Bundesland</th><th style="text-align: center;">Spalte 1:<br />
 Flächenbeitragswert, der<br />
 bis zum 31. Dezember 2027<br />
 zu erreichen ist (Anteil der<br />
-Landesfläche in Prozent)</th><th style="text-align: center;">Spalte 2:<br />
+Landesfläche in Prozent)<span id="FnR.bjnr135310022bjne000702128_01"></span><a href="#bjnr135310022bjne000702128_01" class="FnR">1</a></sup></th><th style="text-align: center;">Spalte 2:<br />
 Flächenbeitragswert, der<br />
 bis zum 31. Dezember 2032<br />
 zu erreichen ist (Anteil der<br />
-Landesfläche in Prozent)</th><th style="text-align: right;">Spalte 3:<br />
+Landesfläche in Prozent)<a href="#bjnr135310022bjne000702128_01" class="FnR">1</a></sup></th><th style="text-align: right;">Spalte 3:<br />
 Landesflächen<br />
-(in km²)<span id="FnR.f822691_01"></span><a href="#f822691_01" class="FnR">*</a></sup><br />
+(in km²)<span id="FnR.f822691_01"></span><a href="#f822691_01" class="FnR">2</a></sup><br />
 <br />
 </th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Baden-Württemberg</td><td style="text-align: center;">1,1 </td><td style="text-align: center;">1,8 </td><td style="text-align: right;">35 747,82</td></tr><tr class="even"><td style="text-align: left;">Bayern</td><td style="text-align: center;">1,1 </td><td style="text-align: center;">1,8 </td><td style="text-align: right;">70 541,57</td></tr><tr class="odd"><td style="text-align: left;">Berlin</td><td style="text-align: center;">0,25</td><td style="text-align: center;">0,50</td><td style="text-align: right;">891,12</td></tr><tr class="even"><td style="text-align: left;">Brandenburg</td><td style="text-align: center;">1,8 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">29 654,35</td></tr><tr class="odd"><td style="text-align: left;">Bremen</td><td style="text-align: center;">0,25</td><td style="text-align: center;">0,50</td><td style="text-align: right;">419,62</td></tr><tr class="even"><td style="text-align: left;">Hamburg</td><td style="text-align: center;">0,25</td><td style="text-align: center;">0,50</td><td style="text-align: right;">755,09</td></tr><tr class="odd"><td style="text-align: left;">Hessen</td><td style="text-align: center;">1,8 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">21 115,64</td></tr><tr class="even"><td style="text-align: left;">Mecklenburg-Vorpommern</td><td style="text-align: center;">1,4 </td><td style="text-align: center;">2,1 </td><td style="text-align: right;">23 295,45</td></tr><tr class="odd"><td style="text-align: left;">Niedersachsen</td><td style="text-align: center;">1,7 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">47 709,82</td></tr><tr class="even"><td style="text-align: left;">Nordrhein-Westfalen</td><td style="text-align: center;">1,1 </td><td style="text-align: center;">1,8 </td><td style="text-align: right;">34 112,44</td></tr><tr class="odd"><td style="text-align: left;">Rheinland-Pfalz</td><td style="text-align: center;">1,4 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">19 858,00</td></tr><tr class="even"><td style="text-align: left;">Saarland</td><td style="text-align: center;">1,1 </td><td style="text-align: center;">1,8 </td><td style="text-align: right;">2 571,11</td></tr><tr class="odd"><td style="text-align: left;">Sachsen</td><td style="text-align: center;">1,3 </td><td style="text-align: center;">2,0 </td><td style="text-align: right;">18 449,93</td></tr><tr class="even"><td style="text-align: left;">Sachsen-Anhalt</td><td style="text-align: center;">1,8 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">20 459,12</td></tr><tr class="odd"><td style="text-align: left;">Schleswig-Holstein</td><td style="text-align: center;">1,3 </td><td style="text-align: center;">2,0 </td><td style="text-align: right;">15 804,30</td></tr><tr class="even"><td style="text-align: left;">Thüringen</td><td style="text-align: center;">1,8 </td><td style="text-align: center;">2,2 </td><td style="text-align: right;">16 202,39</td></tr></tbody></table>

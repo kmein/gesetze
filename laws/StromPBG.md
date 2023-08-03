@@ -61,6 +61,12 @@
 
  
 
+ 
+
+ 
+
+ 
+
 # § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist die Entlastung der von stark steigenden Stromkosten betroffenen Letztverbraucher. Diese Entlastung soll insbesondere durch eine Abschöpfung von erzielten Überschusserlösen der Betreiber von Stromerzeugungsanlagen finanziert werden. Zu diesem Zweck regelt dieses Gesetz
@@ -97,7 +103,7 @@ geteilt durch die insgesamt vom Letztverbraucher in dem betreffenden Kalendermon
 
 5. „Entlastungssumme“ die Summe aller staatlichen Beihilfen für Mehrkosten aufgrund des außergewöhnlich starken Anstiegs der Preise für Strom, Erdgas und Wärme, die vor dem 1. Januar 2024 gewährt worden sind und auf Grundlage des Befristeten Krisenrahmens für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine vom 28. Oktober 2022 (ABl. C 426 vom 9.11.2022, S. 1) von der Europäischen Kommission genehmigt worden sind oder unter die von der Europäischen Kommission genehmigte Regelung zur vorrübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich der Bundesrepublik Deutschland auf der Grundlage des Befristeten Krisenrahmens (BKR) der Europäischen Kommission für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine („BKR-Bundesregelung Kleinbeihilfen 2022“) vom 22. April 2022 (BAnz AT 27.04.2022 B2) in der jeweils geltenden Fassung fallen; zu diesen Maßnahmen gehören insbesondere
 
-a) Entlastungsbeträge nach Teil 2,
+a) Entlastungsbeträge nach den Teilen 2 und 2a,
 
 b) Entlastungsbeträge nach dem Erdgas-Wärme-Soforthilfegesetz,
 
@@ -205,7 +211,7 @@ Wenn Letztverbraucher die Voraussetzungen nach Satz 1 Nummer 1 oder Nummer 2 erf
 
 # § 5 – Differenzbetrag
 
-(1) Der Differenzbetrag ist die zentrale Stellgröße zur Absicherung der Letztverbraucher gegen steigende Energiekosten. Die Berechnung des Differenzbetrags nach den Sätzen 3 bis 5 und Absatz 2 zielt neben dieser Absicherung der Letztverbraucher gegen steigende Energiekosten auch darauf ab, einen effektiven Wettbewerb zwischen Anbietern zu gewährleisten, insbesondere dass die Kunden einen Anreiz haben, Anbieter mit wettbewerbsfähigen Preisen zu wählen, und einen Missbrauch der Entlastungsregelung zu vermeiden. Der Differenzbetrag ergibt sich bei Tarifen mit nicht zeitvariablen Arbeitspreisen aus der Differenz des für die Belieferung der Entnahmestelle am ersten Tag eines Kalendermonats vertraglich vereinbarten gewichteten durchschnittlichen Arbeitspreises für den gesamten Kalendermonat und dem Referenzpreis nach Absatz 2. Der Differenzbetrag ergibt sich bei Tarifen mit zeitvariablen Arbeitspreisen aus der Differenz des für die Belieferung der Entnahmestelle mit der zeitlichen Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten durchschnittlichen Arbeitspreises für den gesamten Kalendermonat und dem Referenzpreis nach Absatz 2. Wenn der gewichtete durchschnittliche Arbeitspreis nach Satz 4 am ersten Tag eines Kalendermonats für den gesamten Kalendermonat nicht ermittelt werden kann, ist für die Bestimmung des gewichteten durchschnittlichen Arbeitspreises auf den mit der zeitlichen Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten durchschnittlichen Arbeitspreis des Vormonats abzustellen. Soweit das Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 2 die Berechnung des Differenzbetrags angepasst hat, ist diese ergänzend zu den Sätzen 3 bis 5 und Absatz 2 anzuwenden.
+(1) Der Differenzbetrag ist die zentrale Stellgröße zur Absicherung der Letztverbraucher gegen steigende Energiekosten. Die Berechnung des Differenzbetrags nach den Sätzen 3 bis 6 und den Absätzen 2 und 3 zielt neben dieser Absicherung der Letztverbraucher gegen steigende Energiekosten auch darauf ab, einen effektiven Wettbewerb zwischen Anbietern zu gewährleisten, insbesondere dass die Kunden einen Anreiz haben, Anbieter mit wettbewerbsfähigen Preisen zu wählen, und einen Missbrauch der Entlastungsregelung zu vermeiden. Der Differenzbetrag ergibt sich bei Tarifen mit nicht zeitvariablen Arbeitspreisen aus der Differenz des für die Belieferung der Entnahmestelle am ersten Tag eines Kalendermonats vereinbarten gewichteten durchschnittlichen Arbeitspreises für den gesamten Kalendermonat und dem Referenzpreis nach den Absätzen 2 oder 3. Der Differenzbetrag ergibt sich bei Tarifen mit zeitvariablen Arbeitspreisen aus der Differenz des für die Belieferung der Entnahmestelle mit der zeitlichen Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten durchschnittlichen Arbeitspreises für den gesamten Kalendermonat und dem Referenzpreis nach den Absätzen 2 oder 3. Wenn der gewichtete durchschnittliche Arbeitspreis nach Satz 4 am ersten Tag eines Kalendermonats für den gesamten Kalendermonat nicht ermittelt werden kann, ist für die Bestimmung des gewichteten durchschnittlichen Arbeitspreises auf den mit der zeitlichen Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten durchschnittlichen Arbeitspreis des Vormonats abzustellen. Erfolgt die Abrechnung erst nach Ablauf des Kalendermonats, ist für die Bestimmung des gewichteten durchschnittlichen Arbeitspreises dieses Kalendermonats abweichend von Satz 5 auf den mit der zeitlichen Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten durchschnittlichen Arbeitspreis dieses Kalendermonats und nicht des Vormonats abzustellen. Soweit das Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 2 die Berechnung des Differenzbetrags angepasst hat, ist diese ergänzend zu den Sätzen 3 bis 6 und den Absätzen 2 und 3 anzuwenden.
 
 (2) Der Referenzpreis beträgt für Netzentnahmestellen, an denen
 
@@ -223,7 +229,9 @@ a) die Strommenge, die der zuständige Messstellenbetreiber für das Kalenderjah
 
 b) die nach den Vorgaben nach Satz 3 geschätzte Strommenge, falls Messdaten nicht für den vollen Zeitraum nach Buchstabe a, aber mindestens für drei volle Kalendermonate nach dem 31. Dezember 2021 verfügbar sind.
 
-Wenn der Jahresverbrauch nach Satz 2 Nummer 2 Buchstabe b zu schätzen ist, beträgt der anzusetzende Jahresverbrauch den jeden Monat erneut auf ein volles Kalenderjahr hochzurechnenden, vom Messstellenbetreiber laufend gemessenen Verbrauch. Die laufende Hochrechnung nach Satz 3 muss mit dem Monat beginnen, für den erstmals nach dem 31. Dezember 2020 vollständige Messdaten verfügbar sind. Für die laufende Hochrechnung sind maximal zwölf zusammenhängende Kalendermonate zu verwenden. Für Netzentnahmestellen, an denen eine elektrisch angetriebene Wärmepumpe in Betrieb genommen wird, die über einen eigenen Zählpunkt mit dem Netz verbunden ist, oder eine bereits in Betrieb genommene elektrisch angetriebene Wärmepumpe über einen eigenen Zählpunkt mit dem Netz verbunden ist, ist Satz 2 Nummer 2 Buchstabe b mit der Maßgabe entsprechend anzuwenden, dass eine Schätzung nach den Vorgaben nach Satz 3 bereits dann erfolgt, wenn ein voller Kalendermonat nach dem 31. Dezember 2021 verfügbar ist.
+Wenn der Jahresverbrauch nach Satz 2 Nummer 2 Buchstabe b zu schätzen ist, beträgt der anzusetzende Jahresverbrauch den jeden Monat erneut auf ein volles Kalenderjahr hochzurechnenden, vom Messstellenbetreiber laufend gemessenen Verbrauch. Die laufende Hochrechnung nach Satz 3 muss mit dem Monat beginnen, für den erstmals nach dem 31. Dezember 2020 vollständige Messdaten verfügbar sind. Für die laufende Hochrechnung sind maximal zwölf zusammenhängende Kalendermonate zu verwenden. Für Netzentnahmestellen, an denen eine elektrisch angetriebene Wärmepumpe in Betrieb genommen wird, die über einen eigenen Zählpunkt mit dem Netz verbunden ist, oder eine bereits in Betrieb genommene elektrisch angetriebene Wärmepumpe über einen eigenen Zählpunkt mit dem Netz verbunden ist, ist Satz 2 Nummer 2 Buchstabe b mit der Maßgabe entsprechend anzuwenden, dass eine Schätzung nach den Vorgaben nach Satz 3 bereits dann erfolgt, wenn ein voller Kalendermonat nach dem 31. Dezember 2021 verfügbar ist. Sofern nicht Messdaten für mindestens drei volle, dem 31. Dezember 2021 folgende Kalendermonate verfügbar sind, kann für die Einordnung nach Satz 1 Nummer 1 oder Nummer 2 für die jeweilige Netzentnahmestelle die aktuellste, dem Elektrizitätsversorgungsunternehmen vorliegende Jahresverbrauchsprognose des Netzbetreibers nach § 13 Absatz 1 der Stromnetzzugangsverordnung zu Grunde gelegt werden.
+
+(3) Wird eine Netzentnahmestelle nach Absatz 2 Satz 1 Nummer 1 über einen tageszeitvariablen Tarif beliefert, der einen Schwachlast- oder Niedertarif und einen Hochtarif vorsieht, ergibt sich der für diese Netzentnahmestelle maßgebliche Referenzpreis für Netzentnahmen ab dem 1. August 2023 einschließlich Netzentgelten, Messstellenentgelten und staatlich veranlassten Preisbestandteilen einschließlich der Umsatzsteuer abweichend von Absatz 2 Satz 1 Nummer 1 aus dem gewichteten Durchschnitt von 28 Cent je Kilowattstunde, gewichtet mit der zeitlichen Gültigkeit des Schwachlast- oder Niedertarifs innerhalb einer Woche, und 40 Cent je Kilowattstunde, gewichtet mit der zeitlichen Gültigkeit des Hochtarifs innerhalb einer Woche. Elektrizitätsversorgungsunternehmen sind abweichend von § 4 Absatz 1 dieses Gesetzes dazu berechtigt, die zusätzliche Entlastung, die sich für den Zeitraum von August bis Dezember 2023 aus der Differenz der Referenzpreise nach Satz 1 und nach Absatz 2 Satz 1 Nummer 1 berechnet, bis zum 31. Dezember 2023 auch im Wege einer einmaligen Entlastung zu gewähren. Das Elektrizitätsversorgungsunternehmen hat den Letztverbraucher im Rahmen seiner Informationspflicht nach § 12 Absatz 2 Satz 2 dieses Gesetzes darüber zu informieren, sofern es die zusätzliche Entlastung nach Satz 2 im Wege einer einmaligen Entlastung im Sinne von Satz 2, und nicht über die monatliche Entlastung nach § 4 Absatz 1 dieses Gesetzes gewährt.
 
 (+++ § 5: Zur Anwendung vgl. § 7 Abs. 2 +++)
 
@@ -231,7 +239,7 @@ Wenn der Jahresverbrauch nach Satz 2 Nummer 2 Buchstabe b zu schätzen ist, betr
 
 Der Differenzbetrag nach § 5 wird gewährt für ein Entlastungskontingent. Dieses beträgt pro Kalendermonat für
 
-1. Netzentnahmestellen, für die der Referenzpreis nach § 5 Absatz 2 Satz 1 Nummer 1 anzuwenden ist, 80 Prozent
+1. Netzentnahmestellen, für die der Referenzpreis nach § 5 Absatz 2 Satz 1 Nummer 1 oder Absatz 3 anzuwenden ist, 80 Prozent
 
 a) im Fall von Netzentnahmestellen, die über standardisierte Lastprofile bilanziert werden, der aktuellen dem Elektrizitätsversorgungsunternehmen vorliegenden Jahresverbrauchsprognose für die Netzentnahmestelle geteilt durch zwölf oder
 
@@ -255,22 +263,16 @@ die der zuständige Messstellenbetreiber für den Zeitraum zwischen dem 1. Janua
 bb)  
 die nach § 5 Absatz 2 Satz 2 Nummer 2 Buchstabe b geschätzt wurde, geteilt durch zwölf,
 
-3. Schienenbahnen 90 Prozent der Netzentnahme, die abzüglich der rückgespeisten Energie unmittelbar für den Fahrbetrieb im Schienenverkehr
+3. Netzentnahmestellen von Schienenbahnen 90 Prozent der Netzentnahme, die abzüglich der rückgespeisten Energie unmittelbar für den Fahrbetrieb im Schienenverkehr
 
-a) im Kalenderjahr 2021 von der Schienenbahn selbst verbraucht wurde oder
+a) im Kalenderjahr 2021 von der Schienenbahn selbst verbraucht wurde geteilt durch zwölf, oder
 
-b) für das Kalenderjahr 2023 prognostiziert wurde
+b) für das Kalenderjahr 2023 aufgrund der aktuellen dem Elektrizitätsversorgungsunternehmen vorliegenden Jahresverbrauchsprognose geteilt durch zwölf prognostiziert wurde.
 
-aa)  
-im Fall der erfolgreichen Teilnahme der Schienenbahn an einem Vergabeverfahren für Schienenverkehrsleistungen im Schienenpersonennahverkehr mit im Kalenderjahr 2023 zu erbringenden Schienenverkehrsleistungen nach den Vorgaben des Vergabeverfahrens oder
+Für Netzentnahmestellen nach Satz 2 Nummer 1 Buchstabe a, an denen während des Entlastungszeitraums eine elektrisch angetriebene Wärmepumpe oder eine Ladeeinrichtung für Elektrofahrzeuge in Betrieb genommen wird, die ohne eigenen Zählpunkt mit dem Netz verbunden ist, ist bei der Ermittlung des Entlastungskontingents eine angepasste Jahresverbrauchsprognose nach § 13 Absatz 1 der Stromnetzzugangsverordnung für den verbleibenden Entlastungszeitraum zugrunde zu legen, wenn der Betreiber der Wärmepumpe oder der Ladeeinrichtung die Verwendung dieses zusätzlichen Verbrauchsgeräts dem Betreiber des Elektrizitätsverteilernetzes nach § 19 Absatz 2 Satz 1 oder Satz 2 der Niederspannungsanschlussverordnung mitgeteilt hat. Elektrizitätsversorgungsunternehmen und Letztverbraucher können einvernehmlich eine von Satz 2 abweichende monatliche Verteilung des Jahreskontingents in den Fällen des § 5 Absatz 2 Satz 2 Nummer 2 mit Wirkung für den verbleibenden Entlastungszeitraum vereinbaren.
 
-bb)  
-im Fall der Erbringung einer Schienenverkehrsleistung im Schienenpersonenfernverkehr oder im Schienengüterverkehr mit im Kalenderjahr 2023 zu erbringenden Schienenverkehrsleistungen.
-
-Elektrizitätsversorgungsunternehmen und Letztverbraucher können einvernehmlich eine von Satz 2 abweichende monatliche Verteilung des Jahreskontingents in den Fällen des § 5 Absatz 2 Satz 2 Nummer 2 mit Wirkung für den verbleibenden Entlastungszeitraum vereinbaren.
-
-§ 6 Satz 2 Nummer 1 Buchstabe b Doppelbuchstabe aa Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "2021gemessen" durch die Angabe "2021 gemessen" ersetzt  
-(+++ § 6: Zur Anwendung vgl. § 7 Abs. 2 +++)
+(+++ § 6: Zur Anwendung vgl. § 7 Abs. 2 +++)  
+§ 6 Satz 2 Nr. 1 Buchst. b DBuchst. aa Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "2021gemessen" durch die Angabe "2021 gemessen" ersetzt
 
 # § 7 – Entlastungsbetrag von sonstigen Letztverbrauchern
 
@@ -283,6 +285,8 @@ Elektrizitätsversorgungsunternehmen und Letztverbraucher können einvernehmlich
 2. § 4 Absatz 2 Satz 1 mit den Maßgaben entsprechend anzuwenden ist, dass im Rahmen der Bestimmung des Differenzbetrags nach § 5 Absatz 1 anstelle des vereinbarten durchschnittlichen Strompreises die für die Belieferung der Netzentnahmestelle im Vormonat abgerechneten, mit der zeitlichen Gültigkeit gewichteten durchschnittlichen Beschaffungskosten an der betreffenden Netzentnahmestelle heranzuziehen sind,
 
 3. § 12 mit der Maßgabe entsprechend anzuwenden ist, dass die Abrechnung vom Letztverbraucher zu erstellen und dem regelzonenverantwortlichen Übertragungsnetzbetreiber und der Prüfbehörde zu übersenden ist,
+
+3a. § 22a mit der Maßgabe entsprechend anzuwenden ist, dass anstelle des Erstattungsanspruchs des Elektrizitätsversorgungsunternehmens nach § 20 der Anspruch des sonstigen Letztverbrauchers nach Absatz 1 Gegenstand des Vorauszahlungsanspruchs ist,
 
 4. § 30 mit der Maßgabe entsprechend anzuwenden ist, dass die Mitteilungen, die nach dieser Vorschrift gegenüber den Elektrizitätsversorgungsunternehmen zu erfolgen haben, gegenüber dem regelzonenverantwortlichen Übertragungsnetzbetreiber zu erfolgen haben und zusätzlich das für die jeweilige Netzentnahmestelle nach Maßgabe des § 6 ermittelte Entlastungskontingent mitzuteilen ist,
 
@@ -298,7 +302,7 @@ Bei einem Wechsel des eine Netzentnahmestelle beliefernden Elektrizitätsversorg
 
 1. sind die in eine nach § 5 Absatz 2 Satz 2 Nummer 2 Buchstabe b erfolgte Schätzung eingeflossenen Ergebnisse auch für den neuen Lieferanten verbindlich,
 
-2. ist eine nach § 6 Absatz 1 Satz 3 getroffene Vereinbarung zwischen dem Letztverbraucher und dem ursprünglichen Elektrizitätsversorgungsunternehmen für den Zeitraum, in dem das ursprüngliche Elektrizitätsversorgungsunternehmen die Netzentnahmestelle beliefert hat, auch für das neue Elektrizitätsversorgungsunternehmen verbindlich und
+2. ist eine nach § 6 Satz 4 getroffene Vereinbarung zwischen dem Letztverbraucher und dem ursprünglichen Elektrizitätsversorgungsunternehmen für den Zeitraum, in dem das ursprüngliche Elektrizitätsversorgungsunternehmen die Netzentnahmestelle beliefert hat, auch für das neue Elektrizitätsversorgungsunternehmen verbindlich und
 
 3. dürfen dem Letztverbraucher Entlastungsbeträge von dem neuen Elektrizitätsversorgungsunternehmen erst gewährt werden, wenn der Letztverbraucher dem neuen Elektrizitätsversorgungsunternehmen die Abrechnung des ursprünglichen Elektrizitätsversorgungsunternehmens vorgelegt hat oder anderweitig sichergestellt wird, dass die neuen Entlastungsbeträge ein Entlastungskontingent zugrunde legen, welches dem Letztverbraucher zusteht.
 
@@ -358,7 +362,7 @@ b) den Wert null übersteigt, wenn das EBITDA im den in Kalendermonaten entsprec
 
 1. in den Fällen von Absatz 1 Satz 1 Nummer 1 Buchstabe a und b das EBITDA, ohne die Entlastungssumme, des Letztverbrauchers im Entlastungszeitraum um wenigstens 40 Prozent gegenüber dem EBITDA des Letztverbrauchers in dem den Kalendermonaten entsprechenden Zeitraum des Kalenderjahres 2021 verringert hat oder sein EBITDA, ohne die Entlastungssumme, im Entlastungszeitraum negativ gewesen ist oder
 
-2. in den Fällen von Absatz 1 Satz 1 Nummer 1 Buchstabe c das EBITDA des Letztverbrauchers im Entlastungszeitraum um wenigstens 30 Prozent, ohne die Entlastungssumme, gegenüber dem EBITDA des Letztverbrauchers in dem den Kalendermonaten entsprechenden Zeitraum des Kalenderjahres 2021 verringert hat.
+2. in den Fällen von Absatz 1 Satz 1 Nummer 1 Buchstabe c das EBITDA des Letztverbrauchers im Entlastungszeitraum um wenigstens 30 Prozent, ohne die Entlastungssumme, gegenüber dem EBITDA des Letztverbrauchers in dem den Kalendermonaten entsprechenden Zeitraum des Kalenderjahres 2021 verringert hat oder das EBITDA des Letztverbrauchers oder Kunden, ohne die Entlastungssumme, im Entlastungszeitraum negativ gewesen ist.
 
 (5) Die für die jeweilige Netzentnahmestelle pro Kalendermonat anzuwendende absolute Höchstgrenze nach Absatz 1
 
@@ -378,7 +382,7 @@ Die für die jeweilige Netzentnahmestelle pro Kalendermonat anzuwendende Höchst
 
 (6) Für Entlastungsbeträge, die über die nach Absatz 5 Satz 1 Nummer 1 und 2 Buchstabe a anzuwendende monatliche Höchstgrenze hinaus von einem Elektrizitätsversorgungsunternehmen gewährt werden, besteht kein Anspruch auf Belastungsausgleich nach § 20 oder nach § 7.
 
-(7) EBITDA im Sinn dieses Gesetzes ist das Ergebnis vor Zinsen, Steuern und Abschreibungen auf Sachanlagen und immaterielle Vermögensgegenstände ohne einmalige Wertminderungen. Außerplanmäßige Abschreibungen sind bei der Ermittlung des EBITDA nicht ansatzfähig; besondere Erträge, wie etwa Versicherungserstattungen oder Versicherungsleistungen wegen Betriebsunterbrechungen in den Vorjahren dürfen nicht eliminiert werden. Finanzinstrumente, die schwebende, unter Umständen noch nicht realisierte Erlöse oder Verluste aus Gas- oder Stromgeschäften enthalten, sind zu erfassen. Das EBITDA soll in Übereinstimmung mit den Grundsätzen der Rechnungslegung und ordnungsgemäßen Buchführung ermittelt werden, wobei das Stetigkeitsgebot einzuhalten ist, insbesondere unter Beibehaltung der Rechnungslegungsmethoden und bei unveränderter Ausübung von Ansatzwahlrechten. Bei Letztverbrauchern, die Teil eines Konzerns oder eines Unternehmensverbunds sind, ist auf das EBITDA der juristischen Person abzustellen, die die Förderung erhält. Die Prüfbehörde stellt eine Mustervorlage für die Berechnung des EBITDA auf ihrer Internetseite zur Verfügung.
+(7) EBITDA im Sinne dieses Gesetzes ist das Ergebnis vor Zinsen, Steuern und Abschreibungen auf Sachanlagen und immaterielle Vermögensgegenstände ohne einmalige Wertminderungen. Das EBITDA ist in Übereinstimmung mit den handelsrechtlichen Grundsätzen der Rechnungslegung und ordnungsgemäßen Buchführung zu ermitteln, wobei außerplanmäßige Abschreibungen nicht zu berücksichtigen sind, sonstige betriebliche Erträge, wie etwa Versicherungserstattungen oder Versicherungsleistungen wegen Betriebsunterbrechungen in den Vorjahren nicht eliminiert werden dürfen und Finanzinstrumente, die schwebende, unter Umständen noch nicht realisierte Erlöse oder Verluste aus Erdgas- oder Stromgeschäften enthalten, zu berücksichtigen sind. Die zur Ermittlung des EBITDA angewandten Grundsätze und Methoden sind stetig beizubehalten. Bei Letztverbrauchern oder Kunden, die Teil eines Konzerns oder eines Unternehmensverbunds sind, ist auf das EBITDA der juristischen Person abzustellen, die die Förderung erhält.
 
 (8) Entlastungen nach diesem Gesetz dürfen entsprechend der Randnummer 53 des Befristeten Krisenrahmens für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine vom 28. Oktober 2022 (ABl. C 426 vom 9.11.2022, S. 1) von der Europäischen Kommission zusätzlich zu Beihilfen, die
 
@@ -394,7 +398,7 @@ Die für die jeweilige Netzentnahmestelle pro Kalendermonat anzuwendende Höchst
 
 # § 10 – Höchstgrenzen bei Schienenbahnen
 
-Für Schienenbahnen ist § 9 nicht anzuwenden. Der Entlastungsbetrag für Schienenbahnen darf höchstens 90 Prozent der krisenbedingten Energiemehrkosten einer Schienenbahn betragen.
+Für Schienenbahnen ist § 9 nicht anzuwenden. Der Entlastungsbetrag für Schienenbahnen darf höchstens 90 Prozent der krisenbedingten Energiemehrkosten einer Schienenbahn betragen. Bestimmt sich das Entlastungskontingent für Schienenbahnen nach § 6 Satz 2 Nummer 3 Buchstabe a anhand des im Jahr 2021 verbrauchten Stromverbrauchs, dann erfolgt die Berechnung der krisenbedingten Energiemehrkosten nach der Anlage 1 mit der Maßgabe, dass abweichend von Anlage 1 Nummer 1 letzte Tabellenzeile der Wert ab dem Monat September 2022 auf 90 Prozent zu begrenzen ist. Bestimmt sich das Entlastungskontingent für Schienenbahnen entsprechend § 6 Nummer 3 Buchstabe b anhand des für das Jahr 2023 prognostizierten Stromverbrauchs, dann erfolgt die Berechnung der krisenbedingten Energiemehrkosten mit der Maßgabe, dass abweichend von Anlage 1 Nummer 1 letzte Tabellenzeile der für den jeweiligen Monat im Jahr 2023 gemäß § 6 Satz 2 Nummer 3 Buchstabe b prognostizierte Stromverbrauch von Bahnstrom anzusetzen ist und der Wert ab dem Monat September 2022 auf 90 Prozent zu begrenzen ist. Für Schienenbahnen, die im Jahr 2021 keinen Strom verbraucht haben, ist abweichend von Anlage 1 Nummer 1 vorletzte Tabellenzeile der von der Bundesnetzagentur für das Jahr 2021 ermittelte Durchschnittspreis für Bahnstrom im Eisenbahnmarkt in Höhe von 6,36 Cent pro Kilowattstunde anzusetzen. Die für die jeweilige Netzentnahmestelle einer Schienenbahn pro Kalendermonat anzuwendende Höchstgrenze beträgt 0 Euro, wenn eine Schienenbahn bis zum Ablauf des 31. Mai 2024 keine Mitteilung nach § 30a Absatz 2 abgegeben hat.
 
 (+++ § 10: Zur Anwendung vgl. § 7 Abs. 2 +++)
 
@@ -468,17 +472,67 @@ Angaben zu Strommengen, leitungsgebundenen Erdgasmengen und Wärmemengen und zu 
 
 2. mit einer oder mehreren der in Anlage 2 aufgeführten Tätigkeiten im Jahr 2021 mehr als 50 Prozent seines Umsatzes oder seines Produktionswertes erzielt hat.
 
-(5) Die Feststellung der Prüfbehörde nach Absatz 1 ergeht mit Wirkung gegenüber dem antragstellenden Letztverbraucher oder Kunden sowie den mit ihnen jeweils verbundenen Unternehmen, gegenüber den Elektrizitätsversorgungsunternehmen und dem regelzonenverantwortlichen Übertragungsnetzbetreiber für Strom und den Lieferanten für Erdgas oder Wärme.
+(5) Die Prüfbehörde gibt den Bescheid gegenüber dem antragstellenden Letztverbraucher oder Kunden sowie den mit ihnen jeweils verbundenen Unternehmen, den Elektrizitätsversorgungsunternehmen sowie dem regelzonenverantwortlichen Übertragungsnetzbetreiber bekannt. Beantragt ein Letztverbraucher oder Kunde für sich und im Namen der jeweils mit ihm verbundenen Unternehmen eine Feststellung nach Absatz 1, gilt die Bekanntgabe gegenüber dem Kunden als Bekanntgabe gegenüber den verbundenen Unternehmen.
 
 (6) Weitere Entlastungsmaßnahmen über die Höchstgrenze von 150 Millionen Euro nach § 9 dieses Gesetzes oder § 18 des Erdgas-Wärme-Preisbremsengesetzes hinaus kann die Prüfbehörde auf Antrag des Letztverbrauchers gewähren. Anträge nach Satz 1 können auch bei sonstigen abweichenden Voraussetzungen gestellt werden. Die Gewährung darf erst nach beihilferechtlicher Genehmigung durch die Europäische Kommission und nach Maßgabe der Genehmigung erteilt werden. Im Fall einer Entlastungsmaßnahme nach Satz 1 sind die in § 29 Absatz 1a des Energiesicherungsgesetzes vorgegebenen Beschränkungen auf die Letztverbraucher nach diesem Gesetz anzuwenden.
 
-(7) Soweit sich aus der Entscheidung der Prüfbehörde eine Abweichung von der Selbsteinschätzung des Letztverbrauchers oder Kunden nach § 30 Absatz 1 Nummer 1 dieses Gesetzes oder § 22 des Erdgas-Wärme-Preisbremsengesetzes ergibt, hat die Prüfbehörde in ihrem Bescheid auch die Korrektur dieser Abweichung mit der Abrechnung nach § 12 Absatz 3 dieses Gesetzes oder § 20 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes anzuordnen. Nähere Vorgaben zu dem Verfahren nach Satz 1 regelt die Rechtsverordnung nach § 48 Absatz 1 Nummer 4.
+(7) Soweit die Feststellungen der Prüfbehörde nach Absatz 1 von den Angaben des Letztverbrauchers oder Kunden in der Selbsterklärung nach § 30 Absatz 1 Nummer 1 dieses Gesetzes oder § 22 Absatz 1 Satz 1 Nummer 1 des Erdgas-Wärme-Preisbremsengesetzes abweichen, hat die Prüfbehörde in ihrem Bescheid gegenüber dem Elektrizitätsversorgungsunternehmen auch die Geltendmachung des Rückforderungsanspruchs nach § 12 Absatz 2a dieses Gesetzes oder § 20 Absatz 1a des Erdgas-Wärme-Preisbremsengesetzes sowie die Korrektur dieser Abweichung mit der Jahresendabrechnung nach § 12 Absatz 3 dieses Gesetzes oder § 20 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes anzuordnen.
+
+(8) Sofern einem Elektrizitätsversorgungsunternehmen Umstände zur Kenntnis gelangen, die konkrete Anhaltspunkte für die Annahme bieten, dass absolute oder relative Höchstgrenzen bei der Entlastung eines Letztverbrauchers oder Kunden und der mit ihnen jeweils verbundenen Unternehmen überschritten worden sind, ist es verpflichtet, diese Umstände der Prüfbehörde unverzüglich nach Kenntnis in Textform zu melden.
+
+(9) Liegen der Prüfbehörde konkrete Anhaltspunkte vor, dass absolute oder relative Höchstgrenzen bei der Entlastung eines Letztverbrauchers oder Kunden und der mit ihnen jeweils verbundenen Unternehmen überschritten worden sind, und hat der Letztverbraucher oder Kunde noch keine Mitteilung nach § 30 Absatz 2 Satz 1 dieses Gesetzes gegenüber der Prüfbehörde abgegeben, so soll die Prüfbehörde auch ohne Antrag ein Verfahren nach Absatz 1 einleiten und die entsprechenden Feststellungen treffen. Die Absätze 2 bis 5 sind entsprechend anzuwenden. Die Prüfbehörde kann bereits vor Einleitung des Verfahrens nach Satz 1 weitergehende Informationen, die zur Feststellung der jeweiligen absoluten und relativen Höchstgrenze dienlich sind, bei dem entlasteten Letztverbraucher oder Kunden und bei den mit ihnen jeweils verbundenen Unternehmen sowie bei dessen Elektrizitätsversorgungsunternehmen anfordern; bei einem sonstigen Letztverbraucher nach § 7 können diese Informationen auch bei dem regelzonenverantwortlichen Übertragungsnetzbetreiber angefordert werden. Im Fall einer Aufforderung nach Satz 3 sind Letztverbraucher und Kunden, die für sich oder die mit ihnen jeweils verbundenen Unternehmen einen Anspruch auf Entlastung von mehr als 2 Millionen Euro geltend machen wollen, verpflichtet, der Prüfbehörde die zur Feststellung der anzuwendenden Höchstgrenzen erforderlichen Informationen nach den Absätzen 2 bis 5 unverzüglich vorzulegen.
+
+(10) Überschreitet die bislang gewährte Entlastungssumme die nach Absatz 9 Satz 1 in Verbindung mit Absatz 1 festgestellte absolute oder relative Höchstgrenze, kann die Prüfbehörde anstelle der Anordnungen nach Absatz 7 den Letztverbraucher oder Kunden und die mit ihnen jeweils verbundenen Unternehmen auf zivilrechtlichem Weg oder durch schriftlichen oder elektronischen Verwaltungsakt auffordern, die die jeweiligen Höchstgrenzen übersteigenden Entlastungen an die Prüfbehörde oder den Bund auszukehren. Soweit der Letztverbraucher oder Kunde oder eines der mit ihnen jeweils verbundenen Unternehmen der Zahlungsaufforderung nach Satz 1 nachkommt, erlischt der Rückforderungsanspruch nach § 12 Absatz 2a dieses Gesetzes oder § 20 Absatz 1a des Erdgas-Wärme-Preisbremsengesetzes; hierauf ist im Rahmen der Zahlungsaufforderung nach Satz 1 hinzuweisen.
+
+(11) Weicht die nach Absatz 1 oder Absatz 9 Satz 1 festgestellte Höchstgrenze von der zuletzt eingereichten Selbsterklärung eines Letztverbrauchers oder Kunden nach § 30 Absatz 1 dieses Gesetzes oder nach § 22 Absatz 1 des Erdgas-Wärme-Preisbremsengesetzes ab oder hat ein Letztverbraucher oder Kunde bis zur Feststellung nach Absatz 9 Satz 1 keine Selbsterklärung nach § 30 Absatz 1 dieses Gesetzes oder nach § 22 Absatz 1 des Erdgas-Wärme-Preisbremsengesetzes abgegeben, ist der Letztverbraucher oder Kunde verpflichtet, innerhalb eines Monats nach Bekanntgabe des Bescheides und unter Beachtung der behördlich festgestellten Höchstgrenzen eine Selbsterklärung nach § 30 Absatz 1 Nummer 2 dieses Gesetzes oder nach § 22 Absatz 1 Nummer 2 des Erdgas-Wärme-Preisbremsengesetzes abzugeben. Kommt der Letztverbraucher oder Kunde seiner Pflicht nach Satz 1 nicht fristgerecht nach, so stellen die Elektrizitätsversorgungsunternehmen, im Falle eines sonstigen Letztverbrauchers nach § 7 die regelzonenverantwortlichen Übertragungsnetzbetreiber, die Gewährung von Entlastungen bis zur Abgabe der Selbsterklärung ein. Im Fall des Satzes 1 ist im Bescheid nach Absatz 1 oder Absatz 9 Satz 1 auf die Rechtsfolgen nach den Sätzen 1 und 2 hinzuweisen. § 12 Absatz 4 dieses Gesetzes und § 20 Absatz 3 des Erdgas-Wärme-Preisbremsengesetzes bleiben unberührt.
+
+(12) Widerspruch und Anfechtungsklage gegen die Feststellungen und Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
 
 (+++ § 11: Zur Anwendung vgl. § 7 Abs. 2 +++)
 
+# § 11a – Verfahren der Feststellung der anzuwendenden Höchstgrenzen bei Schienenbahnen
+
+(1) Auf Antrag einer Schienenbahn stellt die Prüfbehörde netzentnahmestellenbezogen die für die Schienenbahn anzuwendende Höchstgrenze nach § 10 Satz 2 einschließlich der für sie anzusetzenden entlastungsfähigen krisenbedingten Energiemehrkosten fest.
+
+(2) Jede Schienenbahn ist verpflichtet, bei der Prüfbehörde einen entsprechenden Antrag nach Absatz 1 zu stellen.
+
+(3) Dem Antrag nach Absatz 2 sind folgende Nachweise beizufügen:
+
+1. Energielieferverträge und Energierechnungen für Energielieferungen
+
+a) für das Kalenderjahr 2021 und
+
+b) für den Zeitraum zwischen dem 1. Februar 2022 und dem Ablauf des 31. Dezember 2023 und
+
+2. der Prüfvermerk eines Prüfers zu
+
+a) den Energiebeschaffungskosten der Schienenbahn und
+
+b) Angaben zu den Strommengen nach § 6 Satz 2 Nummer 3 Buchstabe a oder Buchstabe b und zu den durchschnittlichen Kosten nach Nummer 1.
+
+Die Prüfbehörde kann weitergehende Informationen, die zur Feststellung der jeweiligen relativen Höchstgrenze nach § 10 Satz 2 dienlich sind, bei der Schienenbahn und bei deren Elektrizitätsversorgungsunternehmen anfordern.
+
+(4) Abweichend von Absatz 3 hat eine Schienenbahn, die in den Kalenderjahren 2022 und 2023 erstmals eine Schienenverkehrsleistung im Schienenpersonenfernverkehr, Schienenpersonennahverkehr oder im Schienengüterverkehr erbracht hat, ihrem Antrag nach Absatz 2 folgende Nachweise beizufügen:
+
+1. Energielieferverträge und vorhandene Energierechnungen für das Kalenderjahr 2023
+
+2. den Prüfvermerk eines Prüfers zu
+
+a) den Energiebeschaffungskosten der Schienenbahn und
+
+b) Angaben zu den Strommengen und zu den durchschnittlichen Kosten nach Nummer 1.
+
+Absatz 3 Satz 2 ist entsprechend anzuwenden.
+
+(5) Die Prüfbehörde gibt den Bescheid nach Absatz 1 gegenüber der Schienenbahn, ihren Elektrizitätsversorgungsunternehmen und den regelzonenverantwortlichen Übertragungsnetzbetreibern bekannt.
+
+(6) Soweit die Feststellungen der Prüfbehörde nach Absatz 1 von den Angaben der Schienenbahn in der Selbsterklärung nach § 30a Absatz 1 abweichen, hat die Prüfbehörde in ihrem Bescheid auch die Geltendmachung des Rückforderungsanspruchs nach § 12 Absatz 2a dieses Gesetzes oder § 20 Absatz 1a des Erdgas-Wärme-Preisbremsengesetzes sowie die Korrektur dieser Abweichung mit der Jahresendabrechnung nach § 12 Absatz 3 anzuordnen. Zudem ist die Schienenbahn in diesem Fall verpflichtet, innerhalb eines Monats nach Bekanntgabe des Bescheides und unter Beachtung der behördlich festgestellten Höchstgrenzen eine Selbsterklärung nach § 30a Absatz 2 abzugeben. Kommt die Schienenbahn ihrer Pflicht nach Satz 2 nicht fristgerecht nach, so stellen die Elektrizitätsversorgungsunternehmen die Gewährung von Entlastungen bis zur Abgabe der Selbsterklärung ein. Im Fall des Satzes 2 ist im Bescheid nach Absatz 1 auf die Rechtsfolgen nach den Sätzen 2 und 3 hinzuweisen. § 12 Absatz 4 bleibt unberührt.
+
+(7) Widerspruch und Anfechtungsklage gegen die Feststellungen und Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
+
 # § 12 – Vorgaben zur Vertragsgestaltung, Abrechnung und Endabrechnung
 
-(1) Ein Elektrizitätsversorgungsunternehmen darf im Zusammenhang mit einem Vertrag über die Belieferung eines Letztverbrauchers mit Strom, den er im Zeitraum ab dem 1. Januar 2023 bis zum Ablauf des zeitlichen Anwendungsbereichs dieses Gesetzes nach § 3 schließt, weder unmittelbare noch mittelbare Vergünstigungen oder Zugaben gewähren, die insgesamt einen Wert von 50 Euro oder, sofern eine Zugabe der Energieeinsparung oder der Erhöhung der Energieeffizienz dient, 100 Euro pro Netzentnahmestelle des Letztverbrauchers, die das Elektrizitätsversorgungsunternehmen beliefert, überschreiten. Eine mittelbare Vergünstigung liegt auch vor, wenn eine Vergünstigung oder Zugabe durch einen Dritten, insbesondere von dem Betreiber eines Vergleichsinstruments gewährt wird. Ein Zuwiderhandeln gegen Satz 1 stellt einen Rechtsbruch im Sinn des § 3a des Gesetzes gegen den unlauteren Wettbewerb dar. Ein Elektrizitätsversorgungsunternehmen darf für eine Entnahmestelle eines von ihm belieferten Letztverbrauchers für die Monate, in denen der Letztverbraucher eine Entlastung nach § 4 erhält, nur einen Grundpreis vereinbaren, den er aufgrund des Stromliefervertrags mit dem Letztverbraucher am 30. September 2022 verlangen konnte oder, sofern das Elektrizitätsversorgungsunternehmen den Letztverbraucher am 30. September 2022 nicht beliefert hat, aufgrund eines Stromliefervertrages mit dem Letztverbraucher hätte verlangen können. Satz 4 ist nicht anzuwenden, soweit
+(1) Ein Elektrizitätsversorgungsunternehmen darf im Zusammenhang mit einem Vertrag über die Belieferung eines Letztverbrauchers mit Strom, den er im Zeitraum ab dem 1. Januar 2023 bis zum Ablauf des zeitlichen Anwendungsbereichs dieses Gesetzes nach § 3 schließt und der zumindest zeitweise einen Arbeitspreis über dem Referenzpreis nach § 5 Absatz 2 oder Absatz 3 vorsieht, weder unmittelbare noch mittelbare Vergünstigungen oder Zugaben gewähren, die insgesamt einen Wert von 50 Euro oder, sofern eine Zugabe der Energieeinsparung oder der Erhöhung der Energieeffizienz dient, 100 Euro pro Netzentnahmestelle des Letztverbrauchers, die das Elektrizitätsversorgungsunternehmen beliefert, überschreiten. Eine mittelbare Vergünstigung liegt auch vor, wenn eine Vergünstigung oder Zugabe durch einen Dritten, insbesondere von dem Betreiber eines Vergleichsinstruments gewährt wird. Ein Zuwiderhandeln gegen Satz 1 stellt einen Rechtsbruch im Sinn des § 3a des Gesetzes gegen den unlauteren Wettbewerb dar. Ein Elektrizitätsversorgungsunternehmen darf für eine Entnahmestelle eines von ihm belieferten Letztverbrauchers für die Monate, in denen der Letztverbraucher eine Entlastung nach § 4 erhält, nur einen Grundpreis vereinbaren, den er aufgrund des Stromliefervertrags mit dem Letztverbraucher am 30. September 2022 verlangen konnte oder, sofern das Elektrizitätsversorgungsunternehmen den Letztverbraucher am 30. September 2022 nicht beliefert hat, aufgrund eines Stromliefervertrages mit dem Letztverbraucher hätte verlangen können. Satz 4 ist nicht anzuwenden, soweit
 
 1. sich nach dem 30. September 2022 die im Grundpreis enthaltenen Netzentgelte, Entgelte für den Messstellenbetrieb und die Messung oder staatlich veranlassten Preisbestandteile geändert haben,
 
@@ -494,9 +548,11 @@ Eine Vereinbarung über den Grundpreis ist unwirksam, soweit darin ein anderer G
 
 2. das dem Letztverbraucher im Abrechnungszeitraum insgesamt gewährte Entlastungskontingent absolut sowie als Prozentsatz in Relation zu dem Referenzwert nach § 6, der dem Entlastungskontingent zugrunde liegt.
 
-Die Berücksichtigung des Entlastungsbetrags ist keine Preisänderung im Sinn des § 41 Absatz 5 des Energiewirtschaftsgesetzes und berechtigt nicht zur Kündigung des Vertrages.
+Satz 1 ist für den nach § 5 Absatz 3 geänderten Referenzpreis mit der Maßgabe entsprechend anzuwenden, dass die Mitteilung in Textform vor dem 1. Oktober 2023 erfolgen muss. Die Berücksichtigung des Entlastungsbetrags ist keine Preisänderung im Sinn des § 41 Absatz 5 des Energiewirtschaftsgesetzes und berechtigt nicht zur Kündigung des Vertrages.
 
-(3) Elektrizitätsversorgungsunternehmen, die einen Letztverbraucher an einer Netzentnahmestelle am 31. Dezember 2023 beliefern, müssen unverzüglich nach der Mitteilung des Letztverbrauchers nach § 30 Absatz 1 Nummer 2 oder der Nichtmitteilung nach § 30 Absatz 2, aber spätestens bis zum 30. Juni 2024 eine Endabrechnung über die gewährten Entlastungsbeträge verbunden mit einer etwaigen Rückforderung erstellen, die netzentnahmestellenbezogen
+(2a) Das Elektrizitätsversorgungsunternehmen und im Falle eines sonstigen Letztverbrauchers nach § 7 der regelzonenverantwortliche Übertragungsnetzbetreiber hat gegen den Letztverbraucher oder Kunden einen Anspruch auf Rückzahlung des dem Letztverbraucher oder Kunden gewährten Entlastungsbetrages, soweit dieser Betrag die im Bescheid nach § 11 oder § 11a festgestellte absolute oder relative Höchstgrenze überschreitet. Das Elektrizitätsversorgungsunternehmen hat den Anspruch nach Satz 1 bis zum Ablauf des 30. Juni 2024 geltend zu machen, es sei denn, der Anspruch ist bereits durch oder auf Grund der Rechtsverordnung nach § 48 Absatz 1 Nummer 4a auf die Prüfbehörde oder den Bund übergegangen.
+
+(3) Ein Elektrizitätsversorgungsunternehmen, das einen Letztverbraucher an einer Netzentnahmestelle am 31. Dezember 2023 beliefert, muss unverzüglich nach der Mitteilung des Letztverbrauchers nach § 30 Absatz 1 Nummer 2, nach § 30a Absatz 2 oder einer nach § 30 Absatz 2 erforderlichen, jedoch nicht fristgerecht erfolgten Mitteilung, spätestens aber bis zum Ablauf des 30. Juni 2024 dem Letztverbraucher oder Kunden eine Endabrechnung über die gewährten Entlastungsbeträge verbunden mit der Auflistung etwaiger Rückforderungsansprüche nach diesem Gesetz oder nach dem Erdgas-Wärme-Preisbremsengesetz zukommen lassen, die netzentnahmestellenbezogen
 
 1. neben den Angaben nach Absatz 2 im Fall eines Lieferantenwechsels im Kalenderjahr 2023 die dem Letztverbraucher an der betreffenden Netzentnahmestelle insgesamt gewährten Entlastungsbeträge und das insgesamt gewährte Entlastungskontingent im Kalenderjahr 2023 absolut sowie als Prozentsatz in Relation zu dem Referenzwert nach § 6, der dem Entlastungskontingent zugrunde liegt, ausweist und
 
@@ -524,15 +580,19 @@ aaa)
 gewährte Entlastungssumme die in dem Bescheid nach § 11 ausgewiesenen Höchstgrenzen nach § 9 Absatz 1 in Umsetzung der Vorgaben des Bescheides nicht überschreitet, und
 
 bbb)  
-von dem Elektrizitätsversorgungsunternehmen gewährten Entlastungsbeträge die in dem Bescheid nach § 11 ausgewiesenen Höchstgrenzen nach § 9 Absatz 2 nicht überschreiten.
+von dem Elektrizitätsversorgungsunternehmen gewährten Entlastungsbeträge die in dem Bescheid nach § 11 ausgewiesenen Höchstgrenzen nach § 9 Absatz 2 nicht überschreiten;
 
-(4) Elektrizitätsversorgungsunternehmen müssen an einer Netzentnahmestelle gewährte Entlastungsbeträge unverzüglich und vollständig bis spätestens zum Ablauf des 30. Juni 2024 zurückfordern, wenn der Letztverbraucher für diese Netzentnahmestelle eine Mitteilung nach § 30 Absatz 1 Nummer 1 abgegeben hat, aber bis zum Ablauf des 31. Mai 2024 keine Mitteilung nach § 30 Absatz 1 Nummer 2 abgegeben hat.
+c) bei einer Schienenbahn, die eine Mitteilung nach § 30a Absatz 2 abgegeben hat, die ihr gewährten Entlastungsbeträge die in dem Bescheid nach § 11a ausgewiesene Höchstgrenze nach § 10 Satz 2 nicht überschreiten.
+
+(4) Elektrizitätsversorgungsunternehmen müssen an einer Netzentnahmestelle gewährte Entlastungsbeträge unverzüglich und vollständig bis spätestens zum Ablauf des 30. Juni 2024 zurückfordern, wenn der Letztverbraucher für diese Netzentnahmestelle eine Mitteilung nach § 30 Absatz 1 Nummer 1 abgegeben hat, aber bis zum Ablauf des 31. Mai 2024 keine Mitteilung nach § 30 Absatz 1 Nummer 2 abgegeben hat. Gleiches ist anzuwenden, wenn eine Schienenbahn als Letztverbraucher für deren Netzentnahmestelle eine Mitteilung nach § 30a Absatz 1 abgegeben hat, aber bis zum Ablauf des 31. Mai 2024 keine Mitteilung nach § 30a Absatz 2 abgegeben hat.
+
+(5) Soweit ein Rückforderungsanspruch des Elektrizitätsversorgungsunternehmens nach Absatz 1a durch oder aufgrund einer Rechtsverordnung nach § 48 Absatz 1 Nummer 4a auf die Prüfbehörde übergeht, kann sie gewährte Entlastungen, die die festgestellten Höchstgrenzen übersteigen, durch schriftlichen oder elektronischen Verwaltungsakt vom Letztverbraucher oder Kunden zurückfordern. Widerspruch und Anfechtungsklage gegen die Rückforderungen nach Satz 1 haben keine aufschiebende Wirkung.
 
 (+++ § 12: Zur Anwendung vgl. § 7 Abs. 2 +++)
 
 # § 12a – Weitergabe der Entlastung bei Mietverhältnissen, Pachtverhältnissen und Gemeinschaften der Wohnungseigentümer
 
-(1) Der Vermieter hat die Entlastung, die er nach den §§ 4 und 49 ab dem 1. März 2023 erlangt, in der Abrechnung für die laufende Abrechnungsperiode zu berücksichtigen. Die Höhe der Entlastung nach Satz 1 und die Höhe des auf den Mieter entfallenden Anteiles an der Entlastung sind mit der Abrechnung für die jeweilige Abrechnungsperiode gesondert auszuweisen.
+(1) Der Vermieter hat die Entlastung, die er nach § 4, § 5 Absatz 3 Satz 2 und § 49 ab dem 1. März 2023 erlangt, in der Abrechnung für die laufende Abrechnungsperiode zu berücksichtigen. Die Höhe der Entlastung nach Satz 1 und die Höhe des auf den Mieter entfallenden Anteiles an der Entlastung sind mit der Abrechnung für die jeweilige Abrechnungsperiode gesondert auszuweisen.
 
 (2) In Mietverhältnissen, in denen die vermieteten Räume mittels einer Wärmepumpe oder einer Stromheizung beheizt werden und in denen
 
@@ -558,6 +618,62 @@ passt der Vermieter nach dem Zugang der Informationen nach § 12 Absatz 2 unverz
 
 (10) In den Fällen der Absätze 1 und 7 haben Vermieter oder Gemeinschaften der Wohnungseigentümer die Höhe der finanziellen Entlastung verbunden mit dem jeweiligen Namen und der Anschrift des Mieters oder des Wohnungseigentümers für eine elektronische Übermittlung an die dafür zuständige Stelle des Bundes vorzuhalten und auf Anforderung nach amtlich bestimmtem Datensatz zu übermitteln. Auf Antrag kann die zuständige Stelle des Bundes zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten, dabei sind in diesem Fall für die Informationen nach Satz 1 amtlich vorgeschriebene Vordrucke zu verwenden und zu übermitteln. Die Informationen nach Satz 1 unterliegen denselben Aufbewahrungsfristen wie die Abrechnung.
 
+# § 12b – Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung
+
+(1) Ein Letztverbraucher, der über eine Netzentnahmestelle, an der die Netzentnahme nicht über ein standardisiertes Lastprofil bilanziert wird, mit Strom beliefert wird, kann bei der Prüfbehörde einen Antrag auf Gewährung eines zusätzlichen Entlastungsbetrags stellen, wenn
+
+1. er nachweist, dass er für einen Zeitraum im Kalenderjahr 2021
+
+a) Corona-Überbrückungshilfen für kleine und mittelständische Unternehmen, Soloselbständige und Angehörige der Freien Berufe, die in Folge der Corona-Krise erhebliche Umsatzausfälle erlitten haben, oder Mittel aus dem Fonds „Aufbauhilfe 2021“ durch ein Land erhalten hat, oder,
+
+b) Versicherungsleistungen erhalten hat, die einem Erhalt von Mitteln aus dem Fonds „Aufbauhilfe 2021“ nach Buchstabe a entgegenstehen,
+
+2. er nachweist, dass die Strommenge, die durch den zuständigen Messstellenbetreiber an seinen Netzentnahmestellen für den Zeitraum des Kalenderjahres 2021 gemessen wurde, um jeweils mindestens 40 Prozent niedriger war, als die Strommenge, die für den Zeitraum des Kalenderjahres 2019 gemessen wurde,
+
+3. er erklärt, dass er sowie die mit ihm verbundenen Unternehmen die Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe b durch Erhalt des zusätzlichen Entlastungsbetrages nach Absatz 2 voraussichtlich nicht überschreiten; an die Stelle der Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe b tritt die Höchstgrenze nach § 9 Absatz 1 Satz 2 Nummer 1, sofern das Unternehmen in der Primärproduktion landwirtschaftlicher Erzeugnisse tätig ist, sowie die Höchstgrenze nach § 9 Absatz 1 Satz 2 Nummer 2, sofern das Unternehmen im Fischerei- oder Aquakultursektor tätig ist,
+
+4. sein zusätzlicher Entlastungsbetrag nach Absatz 2 den Betrag von 1 000 Euro überschreitet und
+
+5. im Rahmen der Gewährung des zusätzlichen Entlastungsbetrages die Vorgaben der Regelung zur vorübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich der Bundesrepublik Deutschland auf der Grundlage des Befristeten Krisenrahmens der Europäischen Kommission für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine vom 23. November 2022 (BAnz AT 06.12.2022 B1) in der zum Zeitpunkt der Antragsstellung jeweils gültigen Fassung eingehalten werden.
+
+Der Nachweis der Voraussetzungen nach Satz 1 Nummer 1 hat bei Antragstellung durch Vorlage eines bestandskräftigen Bescheides der zuständigen Landesbehörde bei der Prüfbehörde zu erfolgen. Soweit der Bescheid noch nicht in Bestandskraft erwachsen ist, genügt die Vorlage des Bescheides.
+
+(2) Der zusätzliche Entlastungsbetrag nach Absatz 1 ergibt sich als Produkt aus der originären Entlastungssumme nach Satz 2, der Höhe des Ausgleichfaktors nach Satz 3 und dem Anpassungsfaktor nach Satz 4. Die originäre Entlastungssumme ist die Summe der dem Letztverbraucher bis zum Ablauf des 31. August 2023 durch den Lieferanten an allen seinen Netzentnahmestellen nach diesem Gesetz gewährten Entlastungsbeträge. Der Ausgleichfaktor beträgt 1,5. Der Anpassungsfaktor entspricht der Differenz, die sich rechnerisch ergibt, wenn die an allen Netzentnahmestellen des Letztverbrauchers gemessene Strommenge im Kalenderjahr 2019 durch die an allen Netzentnahmestellen gemessene Strommenge im Kalenderjahr 2021 dividiert wird und sodann von dem sich hieraus ergebenden Quotienten der Wert 1 abgezogen wird.
+
+(3) Der Antrag auf Erstattung eines zusätzlichen Entlastungsbetrags kann ab dem 1. September 2023 bis zum Ablauf des 30. September 2023 bei der Prüfbehörde gestellt werden. Die Prüfbehörde prüft das Vorliegen der Voraussetzungen nach Absatz 1, berechnet die Höhe des Anspruches auf einen zusätzlichen Entlastungsbetrag nach Absatz 2 und setzt den Anspruch fest. Die Prüfbehörde übermittelt dem Antragsteller unverzüglich, jedoch spätestens bis zum Ablauf des 31. Dezember 2023, das Ergebnis der Prüfung.
+
+(4) Der Antrag nach Absatz 1 muss die Nachweise nach Absatz 1 Satz 2 und 3 enthalten und im Antrag sind insbesondere folgende Angaben zu machen:
+
+1. die IBAN eines auf den Namen des Antragstellers laufenden Zahlungskontos bei einem Kreditinstitut mit Sitz und Niederlassung in Deutschland,
+
+2. die Höhe der originären Entlastungssumme nach Absatz 2 Satz 3,
+
+3. die Höhe des beantragten zusätzlichen Entlastungsbetrages nach Absatz 3,
+
+4. die Höhe der jeweiligen Strommengen in den Jahren 2021 und 2019 nach Absatz 1 Satz 1 Nummer 2,
+
+5. alle erhaltenen Rechnungen für Strom im Entlastungszeitraum bis zum Ablauf des 31. August 2023 sowie in den Jahren 2021 und 2019,
+
+6. die Erklärung, dass die vorgelegten Rechnungen nach Nummer 5 vollständig sind,
+
+7. die Erklärung, dass die Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe b auch unter Berücksichtigung der zusätzlichen Entlastungssumme voraussichtlich nicht überschritten wird; an die Stelle der Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe b tritt die Höchstgrenze nach § 9 Absatz 1 Satz 2 Nummer 1, sofern das Unternehmen in der Primärproduktion landwirtschaftlicher Erzeugnisse tätig ist, sowie die Höchstgrenze nach § 9 Absatz 1 Satz 2 Nummer 2, sofern das Unternehmen im Fischerei- oder Aquakultursektor tätig ist,
+
+8. eine Liste aller mit dem Antragsteller verbundenen Unternehmen sowie deren Netzentnahmestellen, aufgeschlüsselt nach
+
+a) dem die jeweilige Netzentnahmestelle beliefernden Elektrizitätsversorgungsunternehmen und
+
+b) dem an der jeweiligen Netzentnahmestelle nach diesem Gesetz bis zum Ablauf des 31. August 2023 erhaltenen Entlastungsbetrag, und
+
+9. die sonstigen von der Unternehmensgruppe des Antragstellers erhaltenen Geldbeträge bis zum Ablauf des 31. August 2023 aus Entlastungsmaßnahmen im Sinne des § 2 Nummer 5 und deren Summen.
+
+(5) Der Antragsteller hat der Prüfbehörde mit seinem Antrag alle für die Ermittlung des zusätzlichen Entlastungsbetrags erforderlichen Informationen und Nachweise zu übermitteln. Die Prüfbehörde kann zur Plausibilisierung erforderliche zusätzliche Informationen vom Antragsteller anfordern.
+
+(6) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens, insbesondere zu den vom Antragsteller beizubringenden Unterlagen sowie Fristen festzulegen.
+
+(7) Die Festsetzung des nach Absatz 3 Satz 2 erfolgt gemeinsam für Strom sowie leitungsgebundenes Erdgas und Wärme nach § 35a des Erdgas-Wärme-Preisbremsengesetzes durch die Prüfbehörde. Die Prüfbehörde veranlasst die Auszahlung durch die Bundeskasse. Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Zahlungsverfahrens festzulegen.
+
+(8) Der zusätzliche Entlastungsbetrag ist von der Prüfbehörde zurückzufordern, wenn der Antragssteller seiner Mitteilungspflicht nach § 30 Absatz 2 nicht nachkommt. Sofern der Antragssteller seiner Mitteilungspflicht nach § 30 Absatz 2 nachkommt, hat er den Betrag, um den die Entlastungssumme über der jeweils anzuwendenden Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe b, Satz 2 Nummer 1 oder Nummer 2 liegt, auf Aufforderung der Prüfbehörde bis zur Höhe der nach dieser Vorschrift gewährten zusätzlichen Entlastung zurückzuzahlen.
+
 # § 13 – Anwendungsbereich
 
 (1) Dieser Teil ist anzuwenden auf
@@ -574,7 +690,7 @@ passt der Vermieter nach dem Zugang der Informationen nach § 12 Absatz 2 unverz
 
 2. Strom aus
 
-a) Biogasanlagen mit einer Bemessungsleistung von bis zu 1 Megawatt, wobei zur Bestimmung der Bemessungsleistung § 3 Nummer 6 des Erneuerbare-Energien-Gesetzes oder die entsprechende Bestimmung des Erneuerbare-Energien-Gesetzes in der für die Biogasanlage maßgeblichen Fassung entsprechend anzuwenden sind,
+a) Biogasanlagen mit einer Bemessungsleistung von bis zu 1 Megawatt im Jahr 2021, wobei zur Bestimmung der Bemessungsleistung § 3 Nummer 6 des Erneuerbare-Energien-Gesetzes oder die entsprechende Bestimmung des Erneuerbare-Energien-Gesetzes in der für die Biogasanlage maßgeblichen Fassung anzuwenden sind; für Biogasanlagen, für die für das Jahr 2021 keine Bemessungsleistung bestimmt werden kann, wird auf die Bemessungsleistung im Jahr 2022 abgestellt; für Biogasanlagen, für die für die Jahre 2021 und 2022 keine Bemessungsleistung bestimmt werden kann, wird auf die Bemessungsleistung für das Jahr 2023 abgestellt,
 
 b) sonstigen Erneuerbare-Energien-Anlagen mit einer installierten Leistung von bis zu 1 Megawatt, wobei zur Bestimmung der installierten Leistung § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes und zur Bestimmung der Größe der Stromerzeugungsanlage § 24 Absatz 1 des Erneuerbare-Energien-Gesetzes oder die entsprechende Bestimmung des Erneuerbare-Energien-Gesetzes in der für die Stromerzeugungsanlage maßgeblichen Fassung entsprechend anzuwenden sind,
 
@@ -592,7 +708,7 @@ d) sonstigen Stromerzeugungsanlagen mit einer elektrischen Nennleistung von bis 
 
 # § 14 – Grundsatz
 
-(1) Betreiber von Stromerzeugungsanlagen müssen an den Netzbetreiber, an dessen Netz ihre Stromerzeugungsanlage unmittelbar angeschlossen ist, 90 Prozent der im jeweiligen Abrechnungszeitraum mit der Stromerzeugungsanlage erwirtschafteten Überschusserlöse (Abschöpfungsbetrag) zahlen. Satz 1 ist für die Tätigkeiten vertikal integrierter Unternehmen im Sinn des § 3 Nummer 38 des Energiewirtschaftsgesetzes entsprechend anzuwenden. Die Zahlung muss bis zum 15. Kalendertag des fünften Monats erfolgen, der auf den jeweiligen Abrechnungszeitraum folgt. Abrechnungszeitraum ist
+(1) Betreiber von Stromerzeugungsanlagen müssen an den Netzbetreiber, an dessen Netz ihre Stromerzeugungsanlage unmittelbar angeschlossen ist, 90 Prozent der im jeweiligen Abrechnungszeitraum mit der Stromerzeugungsanlage erwirtschafteten Überschusserlöse (Abschöpfungsbetrag) zahlen. Satz 1 ist für die Tätigkeiten vertikal integrierter Unternehmen im Sinn des § 3 Nummer 38 des Energiewirtschaftsgesetzes entsprechend anzuwenden. Die Zahlung muss bis zum 15. Kalendertag des fünften Monats erfolgen, der auf den jeweiligen Abrechnungszeitraum folgt. Bei Biogasanlagen, für die nach § 13 Absatz 3 Nummer 2 Buchstabe a auf die Bemessungsleistung für das Jahr 2023 abgestellt wird, muss die Zahlung für die ersten beiden Abrechnungszeiträume bis zum Ablauf des 31. März 2024 erfolgen. Abrechnungszeitraum ist
 
 1. der Zeitraum vom 1. Dezember 2022 bis zum 31. März 2023 und
 
@@ -605,6 +721,8 @@ d) sonstigen Stromerzeugungsanlagen mit einer elektrischen Nennleistung von bis 
 2. durch die Überschusserlöse bei anlagenbezogener Vermarktung nach § 18 ersetzt werden.
 
 (3) Wenn die Korrektur nach Absatz 2 Nummer 1 am Ende eines Abrechnungszeitraums zu einem negativen Betrag führt, erfolgt keine Zahlung und der negative Betrag kann bis zu seiner vollständigen Kompensation in dem folgenden Abrechnungszeitraum oder den folgenden Abrechnungszeiträumen von den Überschusserlösen abgezogen werden.
+
+(4) Im Fall des § 29 Absatz 1a Satz 7 sind die gemäß § 29 Absatz 1a Satz 4 zu leistenden Differenzbeträge vom Betreiber der Stromerzeugungsanlage an den zuständigen Netzbetreiber bis zum Ablauf des 31. März des entsprechenden Kalenderjahres, vom zuständigen Netzbetreiber an den Betreiber der Stromerzeugungsanlage zu leistende Differenzbeträge spätestens bis zum Ablauf des 30. April des entsprechenden Kalenderjahres nach Ablauf der Frist gemäß § 29 Absatz 1a Satz 5 zur Mitteilung der Angaben zu leisten.
 
 # § 15 – Haftung und Zurechnung von Überschusserlösen
 
@@ -738,9 +856,11 @@ Bei der Berechnung nach Satz 1 sind für Letztverbraucher, die dem Elektrizität
 
 2. die IBAN eines auf den Namen des Elektrizitätsversorgungsunternehmens lautenden Zahlungskontos bei einem Kreditinstitut mit Sitz oder Niederlassung in Deutschland,
 
-3. die in den Absätzen 2 und 3 bezeichneten Faktoren, Minuenden und Subtrahenden, wobei Letztverbraucher sowie Entlastungskontingente zusammenzufassen sind, soweit für die betreffenden Letztverbraucher ein einheitlicher Referenzpreis gilt, und
+3. die in den Absätzen 2 und 3 bezeichneten Faktoren, Minuenden und Subtrahenden, wobei Letztverbraucher sowie Entlastungskontingente zusammenzufassen sind, soweit für die betreffenden Letztverbraucher eine einheitliche Einordnung gemäß § 5 Absatz 2 Satz 1 Nummer 1 oder Nummer 2 gilt,
 
-4. die Summe der dem Antrag zugrunde liegenden Entlastungskontingente und Gesamtzahl von Letztverbrauchern sowie die Jahresliefermenge und Gesamtzahl von Kunden und Letztverbrauchern im Jahr 2021.
+4. die Summe der dem Antrag zugrunde liegenden Entlastungskontingente und Gesamtzahl von Letztverbrauchern sowie die Jahresliefermenge und Gesamtzahl von Kunden und Letztverbrauchern im Jahr 2021, und
+
+5. die Anzahl der Unternehmen, auf die die Rechtsverordnung gemäß der Verordnungsermächtigung nach § 48 Absatz 1 Nummer 2 anzuwenden ist.
 
 Für die Bestimmung der nach den Absätzen 2 und 3 zur Anspruchsberechnung zu berücksichtigenden Letztverbraucher und Arbeitspreise kann das Elektrizitätsversorgungsunternehmen auf einen bis zu einem Monat vor Beginn des Vorauszahlungszeitraums liegenden einheitlichen Zeitpunkt zurückgreifen. Soweit die Möglichkeit nach Satz 2 in Anspruch genommen wird, ist auch der von dem Elektrizitätsversorgungsunternehmen herangezogene Zeitpunkt zu benennen. Das Elektrizitätsversorgungsunternehmen hat dem regelzonenverantwortlichen Übertragungsnetzbetreiber auf Aufforderung weitere für die Prüfung des Anspruchs nach Absatz 1 benötigte Auskünfte zu erteilen.
 
@@ -788,7 +908,7 @@ Betreiber von Stromerzeugungsanlagen, Netzbetreiber, Letztverbraucher, die Unter
 
 # § 29 – Betreiber von Stromerzeugungsanlagen und verbundene Unternehmen
 
-(1) Betreiber von Stromerzeugungsanlagen im Anwendungsbereich des Teils 3 müssen dem regelzonenverantwortlichen Übertragungsnetzbetreiber spätestens vier Monate nach Ablauf des jeweiligen Abrechnungszeitraums nach § 14 Absatz 1 Satz 4 anlagenbezogen mitteilen
+(1) Betreiber von Stromerzeugungsanlagen im Anwendungsbereich des Teils 3 müssen dem regelzonenverantwortlichen Übertragungsnetzbetreiber spätestens vier Monate nach Ablauf des jeweiligen Abrechnungszeitraums nach § 14 Absatz 1 Satz 5 anlagenbezogen mitteilen
 
 1. die Nummer der Stromerzeugungsanlage im Register,
 
@@ -837,6 +957,8 @@ in den Fällen des § 18 Absatz 3 zusätzlich die Angabe, dass der anlagenbezoge
 
 5. in den Fällen des § 17 Nummer 1 zudem die Erklärung des Betreibers der Stromerzeugungsanlage, dass die Angaben nach Nummer 4 Buchstabe a richtig und vollständig sind.
 
+(1a) Stehen Angaben, die nach Absatz 1 mitzuteilen sind, bei Ablauf der Frist für einen Abrechnungszeitraum noch nicht fest, sind die Werte durch den Betreiber der Stromerzeugungsanlage innerhalb der Frist des Absatzes 1 zunächst vorläufig mitzuteilen. Satz 1 ist nicht auf Absatz 1 Nummer 4 Buchstabe a anzuwenden. Nimmt der Betreiber der Stromerzeugungsanlage eine vorläufige Mitteilung nach Satz 1 für einzelne Angaben vor, muss er dem regelzonenverantwortlichen Übertragungsnetzbetreiber in der Frist nach Absatz 1 zusätzlich mitteilen, welche seiner Angaben vorläufig sind. Sobald vorläufige Angaben nach Satz 1 nach Ablauf der Frist nach Absatz 1 feststehen oder sich sonstige Korrekturen ergeben, muss der Betreiber der Stromerzeugungsanlage dem regelzonenverantwortlichen Übertragungsnetzbetreiber spätestens bis zum nächsten 28. Februar eines Kalenderjahres alle erforderlichen Angaben nach Absatz 1 mitteilen. In den Fällen des § 14 Absatz 1 Satz 3 erfolgt eine Mitteilung nach Satz 4 ohne vorläufige Mitteilung nach Satz 1. Die Mitteilung nach Satz 4 erfolgt entsprechend den Bestimmungen nach Absatz 1. Ergibt sich auf Grundlage der Mitteilung nach Satz 4 ein positiver oder negativer Differenzbetrag zu dem Überschusserlös, der aufgrund vorläufiger Mitteilung nach Satz 1 für den Abrechnungszeitraum berechnet worden ist, so muss der Betreiber der Stromerzeugungsanlage in den Fällen des Absatzes 2 diesen Differenzbetrag unverzüglich auch dem Verteilernetzbetreiber mitteilen, an dessen Netz die Stromerzeugungsanlage angeschlossen ist. Die §§ 41 und 43 bleiben unberührt.
+
 (2) Betreiber von Stromerzeugungsanlagen müssen dem Netzbetreiber, an dessen Netz die Stromerzeugungsanlage unmittelbar angeschlossen ist, sofern dieser kein Übertragungsnetzbetreiber ist, spätestens innerhalb der Frist des § 14 Absatz 1 Satz 3 mitteilen:
 
 1. den Überschusserlös nach § 14, der im Abrechnungszeitraum erwirtschaftet worden ist, sowie den Abschöpfungsbetrag und
@@ -853,13 +975,13 @@ in den Fällen des § 18 Absatz 3 zusätzlich die Angabe, dass der anlagenbezoge
 
 1. bis zum 31. März 2023, anderenfalls unverzüglich,
 
-a) welche Höchstgrenzen nach den §§ 9 und 10 (absolute und relative Höchstgrenze) voraussichtlich auf diesen Letztverbraucher einschließlich etwaiger verbundener Unternehmen anzuwenden sein werden,
+a) welche Höchstgrenzen nach § 9 voraussichtlich auf diesen Letztverbraucher einschließlich etwaiger verbundener Unternehmen anzuwenden sein werden,
 
 b) welcher Anteil von den Höchstgrenzen nach Buchstabe a vorläufig auf das mit diesem Elektrizitätsversorgungsunternehmen bestehende Elektrizitätslieferverhältnis anzuwenden sein soll (individuelle Höchstgrenze),
 
 c) welcher Anteil von der individuellen Höchstgrenze vorläufig auf die von diesem Elektrizitätsversorgungsunternehmen belieferten Netzentnahmestellen pro Kalendermonat entfallen soll und
 
-2. unverzüglich nach dem 31. Dezember 2023 spätestens bis zum 31. Mai 2024
+2. im Fall des § 11 Absatz 11 Satz 1 einen Monat nach Zugang der Feststellung nach § 11 Absatz 1 oder 9 Satz 1, andernfalls unverzüglich nach dem 31. Dezember 2023 spätestens bis zum 31. Mai 2024
 
 a) die tatsächlich anzuwendende Höchstgrenze nach § 9 Absatz 1,
 
@@ -917,7 +1039,9 @@ b) den an der jeweiligen Netzentnahmestelle nach diesem Gesetz erhaltenen Entlas
 
 Wenn der Letztverbraucher ein Unternehmen ist, das in der Primärproduktion landwirtschaftlicher Erzeugnisse oder im Fischerei- und Aquakultursektor tätig ist, ist Satz 1 mit der Maßgabe entsprechend anzuwenden, dass die Mitteilungspflicht bereits dann besteht, wenn die Entlastungsbeträge an sämtlichen Netzentnahmestellen des Letztverbrauchers einen Betrag von 10 000 Euro übersteigen. Betrifft die Mitteilung nach diesem Absatz Netzentnahmestellen in verschiedenen Regelzonen, muss der Letztverbraucher eine Gesamtmitteilung an einen Übertragungsnetzbetreiber tätigen. Übertragungsnetzbetreiber melden eingegangene Mitteilungen unverzüglich an andere Übertragungsnetzbetreiber im Bundesgebiet. Wer zur Mitteilung nach diesem Absatz verpflichtet ist, muss dem Übertragungsnetzbetreiber auf Verlangen geeignete Nachweise zur Überprüfung der Angaben vorlegen. Satz 1 ist im Verhältnis zwischen den Netzbetreibern entsprechend anzuwenden.
 
-(6) Letztverbraucher, bei denen die Summe der Entlastungsbeträge aller Netzentnahmestellen den Betrag von 50 Millionen Euro übersteigt, müssen der Prüfbehörde bis zum 31. Dezember 2023 einen Plan vorlegen, der darlegt, wie der Letztverbraucher
+(5a) Wenn die Übertragungsnetzbetreiber ein abweichendes Verfahren zur Übermittlung der Angaben nach Absatz 5 vorsehen und Formularvorlagen zu Form und Inhalt der Mitteilung der Angaben nach Absatz 5 bereitstellen, müssen die Angaben unter Verwendung dieser Formularvorlagen nach dem vorgegebenen Verfahren übermittelt werden.
+
+(6) Letztverbraucher, bei denen die Summe der Entlastungsbeträge aller Netzentnahmestellen den Betrag von 50 Millionen Euro übersteigt, müssen der Prüfbehörde bis zum 31. Dezember 2024 einen Plan vorlegen, der darlegt, wie der Letztverbraucher
 
 1. einen Teil seines Energiebedarfs durch erneuerbare Energien decken will,
 
@@ -931,7 +1055,31 @@ Wenn der Letztverbraucher ein Unternehmen ist, das in der Primärproduktion land
 
 Die Pflicht nach Satz 1 gilt bei Unternehmen mit einem Begrenzungsbescheid nach Teil 4 Abschnitt 4 des Energiefinanzierungsgesetzes für das Begrenzungsjahr 2024 als erfüllt.
 
+(7) Ein Lieferant oder ein Übertragungsnetzbetreiber, der Selbsterklärungen nach dieser Vorschrift erhalten hat, ist verpflichtet, diese unverzüglich, jedoch nicht vor dem 15. Juli 2023 der Prüfbehörde zu übermitteln.
+
 (+++ § 30: Zur Anwendung vgl. § 7 Abs. 2 +++)
+
+# § 30a – Selbsterklärung von Schienenbahnen
+
+(1) Eine Schienenbahn muss ihrem Elektrizitätsversorgungsunternehmen bis zum Ablauf des 31. August 2023 mitteilen,
+
+1. welche Höchstgrenze nach § 10 voraussichtlich auf sie anzuwenden sein wird,
+
+2. welcher Anteil der Höchstgrenze nach Nummer 1 vorläufig auf das mit diesem Elektrizitätsunternehmen bestehende Elektrizitätslieferverhältnis anzuwenden sein soll und
+
+3. welcher Anteil der Höchstgrenze nach Nummer 2 vorläufig auf die von diesem Elektrizitätsversorgungsunternehmen belieferten Netzentnahmestellen pro Kalendermonat entfallen soll.
+
+(2) Eine Schienenbahn muss ihrem Elektrizitätsversorgungsunternehmen im Fall des § 11a Absatz 6 Satz 2 einen Monat nach Zugang der Feststellung nach § 11a Absatz 1, andernfalls unverzüglich nach Ablauf des 31. Dezember 2023 spätestens bis zum Ablauf des 31. Mai 2024 mitteilen:
+
+1. die tatsächlich anzuwendende Höchstgrenze nach § 10,
+
+2. den Bescheid nach § 11a und
+
+3. den Vermerk eines Prüfers, der
+
+a) ausweist, welcher Anteil von der Höchstgrenze nach Nummer 1 in dem mit diesem Elektrizitätsunternehmen bestehenden Elektrizitätslieferverhältnis in Form von Entlastungen gewährt wird und
+
+b) bestätigt, dass die Summe aller Entlastungen, die Schienenbahnen nach § 6 Satz 2 Nummer 3 erhalten, die Höchstgrenze nach § 10 nicht überschreitet.
 
 # § 31 – Elektrizitätsversorgungsunternehmen
 
@@ -948,7 +1096,7 @@ aaa)
 die an Letztverbraucher über das Netz gelieferten Strommengen insgesamt,
 
 bbb)  
-die an Letztverbraucher über das Netz gelieferten Strommengen, für die ein Arbeitspreis oberhalb des jeweiligen Referenzpreises nach § 5 Absatz 2 Satz 1 mit dem Letztverbraucher vereinbart ist und die nach § 4 in Verbindung mit § 6 zu entlasten sind,
+die an Letztverbraucher über das Netz gelieferten Strommengen, für die ein Arbeitspreis oberhalb des jeweiligen Referenzpreises nach § 5 Absatz 2 Satz 1 oder Absatz 3 mit dem Letztverbraucher vereinbart ist und die nach § 4 in Verbindung mit § 6 zu entlasten sind,
 
 ccc) die den Letztverbrauchern gewährten jeweiligen monatlichen Entlastungsbeträge,
 
@@ -959,7 +1107,7 @@ aaa)
 den vom Elektrizitätsversorgungsunternehmen angebotenen Preissegmenten,
 
 bbb)  
-dem jeweils geltenden Referenzpreis nach § 5 Absatz 2 Satz 1,
+dem jeweils geltenden Referenzpreis nach § 5 Absatz 2 Satz 1 oder Absatz 3,
 
 b) unverzüglich nach der Endabrechnung nach § 12, jeweils bis zum 31. Mai eines Kalenderjahres zusammengefasst die Endabrechnung der im Vorjahr gewährten Entlastungsbeträge,
 
@@ -1003,7 +1151,7 @@ b) dem Letztverbraucher in der Schlussrechnung die Angaben nach Buchstabe a und
 
 4. Letztverbrauchern bei Neuabschlüssen von Energielieferverträgen die Informationen nach Absatz 2 in Textform.
 
-(2) Elektrizitätsversorgungsunternehmen müssen auf ihrer Internetseite allgemeine Informationen veröffentlichen über die Entlastung nach § 4 in leicht auffindbarer und verständlicher Form verbunden mit dem Hinweis, dass Energieeinsparungen auch während der Dauer der Strompreisbremse einen kostenmindernden Nutzen haben können.
+(2) Elektrizitätsversorgungsunternehmen müssen auf ihrer Internetseite allgemeine Informationen veröffentlichen über die Entlastung nach § 4 in leicht auffindbarer und verständlicher Form verbunden mit dem Hinweis, dass Energieeinsparungen auch während der Dauer der Strompreisbremse einen kostenmindernden Nutzen haben können. Schließt das Elektrizitätsversorgungsunternehmen mit einem bisher nicht von ihm belieferten Letztverbraucher einen Liefervertrag über Strom ab oder erhöht es seine Preise, so ist es verpflichtet, dem Letztverbraucher die Informationen nach Satz 1 in Textform zu übermitteln. Im Fall des Satzes 2 ist zusätzlich darauf hinzuweisen, dass ungeachtet der Preisbremsen für den Letztverbraucher ein Preisvergleich lohnend sein kann.
 
 (3) Elektrizitätsversorgungsunternehmen haben die Höhe der finanziellen Entlastung verbunden mit dem jeweiligen Namen und der Anschrift des Letztverbrauchers oder Kunden für eine elektronische Übermittlung an die dafür zuständige Stelle des Bundes vorzuhalten und auf Anforderung nach amtlich bestimmtem Datensatz zu übermitteln. Auf Antrag kann die zuständige Stelle des Bundes zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten, dabei sind in diesem Fall die Informationen nach Satz 1 nach amtlich vorgeschriebenem Vordruck zu übermitteln. Die Informationen nach Satz 1 unterliegen denselben Aufbewahrungsfristen wie die Verbrauchsabrechnung.
 
@@ -1039,7 +1187,7 @@ c) für die auszugleichenden Mehrkosten nach § 22 Absatz 2.
 
 (2) Verteilernetzbetreiber müssen die Informationen nach Absatz 1 Nummer 1 Buchstabe a und Nummer 2 zeitgleich dem vorgelagerten Übertragungsnetzbetreiber mitteilen.
 
-(3) Verteilernetzbetreiber teilen dem vorgelagerten Übertragungsnetzbetreiber bis zum 31. März 2023 die Adressdaten der an ihr Netz angeschlossenen Stromerzeugungsanlagen, die in den Anwendungsbereich des Teils 3 fallen, einschließlich der Nummer des Registers mit. Stromerzeugungsanlagen, die nach dem 31. März 2023 in Betrieb genommen worden sind, sind jeweils unverzüglich nachzumelden.
+(3) Verteilernetzbetreiber teilen dem vorgelagerten Übertragungsnetzbetreiber bis zum 31. März 2023 die Adressdaten der an ihr Netz angeschlossenen Stromerzeugungsanlagen, die in den Anwendungsbereich des Teils 3 fallen, einschließlich der Nummer des Registers mit. Die Adressdaten der entsprechenden Anlagenbetreiber sind gleichermaßen mitzuteilen. Stromerzeugungsanlagen, die nach dem 31. März 2023 in Betrieb genommen worden sind, sind jeweils unverzüglich nachzumelden.
 
 (+++ § 32 Abs. 1: Zur Anwendung vgl. § 32 Abs. 2 +++)
 
@@ -1053,13 +1201,15 @@ a) nach Ablauf eines Kalendermonats sämtliche zur Aufgabenerfüllung erforderli
 
 b) die Angaben nach § 31 Absatz 1 Nummer 1 zusammengefasst,
 
-c) die Angaben nach § 31 Absatz 1 Nummer 1 zusammen mit der Firma und der Anschrift des Elektrizitätsversorgungsunternehmens für die 5 Prozent aller in diesem Monat meldenden Elektrizitätsversorgungsunternehmen, deren gewichteter Durchschnittspreis nach § 31 Absatz 1 Nummer 1 Buchstabe a Doppelbuchstabe bb am weitesten oberhalb des einschlägigen Referenzpreises nach § 5 Absatz 2 Satz 1 liegt,
+c) die Angaben nach § 31 Absatz 1 Nummer 1 zusammen mit der Firma und der Anschrift des Elektrizitätsversorgungsunternehmens für die 5 Prozent aller in diesem Monat meldenden Elektrizitätsversorgungsunternehmen, deren gewichteter Durchschnittspreis nach § 31 Absatz 1 Nummer 1 Buchstabe a Doppelbuchstabe bb am weitesten oberhalb des einschlägigen Referenzpreises nach § 5 Absatz 2 Satz 1 oder Absatz 3 liegt,
 
 2. bis zum 31. Juli zusammengefasst die Angaben nach § 31 Absatz 1 Nummer 1 Buchstabe b.
 
+Die Angaben nach Satz 1 Nummer 1 Buchstabe b und c und Nummer 2 haben die Übertragungsnetzbetreiber zeitgleich mit der Übermittlung an die Bundesnetzagentur auch der Prüfbehörde zu übermitteln. Die Prüfbehörde kann diese Angaben auf Anfrage auch dem Bundeskartellamt übermitteln, soweit dies zur Wahrnehmung seiner Aufgaben nach § 39 erforderlich ist.
+
 (2) Soweit Stromerzeugungsanlagen direkt an das Netz des regelzonenverantwortlichen Übertragungsnetzbetreibers angeschlossen sind, ist § 32 Absatz 1 entsprechend anzuwenden.
 
-(3) Die Übertragungsnetzbetreiber veröffentlichen jährlich bis zum 31. Dezember die ihnen nach § 30 Absatz 5 dieses Gesetzes und nach § 22 Absatz 4 des Erdgas-Wärme-Preisbremsengesetzes übermittelten Angaben durch Einstellung in die Beihilfe-Transparenzdatenbank der Europäischen Kommission.
+(3) Die Übertragungsnetzbetreiber veröffentlichen jährlich bis zum 31. Dezember die ihnen nach § 30 Absatz 5 dieses Gesetzes und nach § 22 Absatz 5 des Erdgas-Wärme-Preisbremsengesetzes übermittelten Angaben durch Einstellung in die Beihilfe-Transparenzdatenbank der Europäischen Kommission.
 
 # § 34 – Prüfung
 
@@ -1075,7 +1225,7 @@ Für die Prüfungen nach diesem Gesetz sind § 319 Absatz 2 bis 4, § 319b Absat
 
 (1) Netzbetreiber stellen für die nach diesem Teil ihnen mitzuteilenden Angaben Formularvorlagen rechtzeitig vor Ablauf der für die jeweiligen Angaben geltenden Frist bereit.
 
-(2) Im Fall von Mitteilungen an eine Behörde kann diese Vorgaben zu Inhalt und Format der mitzuteilenden Daten machen.
+(2) Für Mitteilungen an eine Behörde oder an die Prüfbehörde kann die Behörde oder die Prüfbehörde Vorgaben zu Inhalt und Format der mitzuteilenden Daten machen.
 
 (3) Nach diesem Teil zu machende Angaben müssen unter Verwendung der Formularvorlagen nach Absatz 1 und der Vorgaben nach Absatz 2 übermittelt werden.
 
@@ -1103,7 +1253,7 @@ Die Länder müssen dem Bundesministerium für Wirtschaft und Klimaschutz unverz
 
 2. die Erklärungen nach Absatz 1 Satz 2.
 
-Erfolgt bis zum 31. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetzes in Höhe von bis zu 2 Millionen Euro. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. § 49a Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+Erfolgt bis zum 31. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen Anspruch auf Gesamtentlastung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetzes in Höhe von bis zu 2 Millionen Euro. Die Prüfbehörde hat übersteigende Entlastungsbeträge im Fall von Satz 2 zurückzufordern. Die Rückzahlungsbeträge sind entsprechend § 49a Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes zu verzinsen.
 
 (3) Im Rahmen eines Abschlussberichts legt der Letztverbraucher, der unter Absatz 1 Satz 2 fällt, der Prüfbehörde einen durch Prüfer testierten Nachweis vor, der die Arbeitsplatzentwicklung darstellt. Im Fall eines Arbeitsplatzabbaus sind die Gründe dafür darzulegen. Sollte der Letztverbraucher Investitionen nach Absatz 4 Satz 2 Nummer 3 getätigt haben, ist ein entsprechender Investitionsplan dem Abschlussbericht beizufügen.
 
@@ -1113,25 +1263,39 @@ Erfolgt bis zum 31. Juli 2023 kein Nachweis, haben Letztverbraucher nur einen An
 
 2. Bei Maßnahmen nach dem Umwandlungsgesetz oder Übergängen von Betrieben oder Betriebsteilen nach § 613a des Bürgerlichen Gesetzbuchs berücksichtigt die Prüfbehörde, in welchem Umfang die zum 1. Januar 2023 vorhandenen Arbeitsplatz-Vollzeitäquivalente bis zum 30. April 2025 beim Rechtsnachfolger erhalten geblieben sind.
 
-3. Eine Unterschreitung der vereinbarten oder zugesicherten Zahl an zu erhaltenen Arbeitsplatz-Vollzeitäquivalenten um bis zu 50 Prozent kann durch Investitionen in Höhe von mindestens 50 Prozent des nach diesem Gesetz, dem Erdgas-Wärme-Preisbremsengesetz und nach dem Energiekostendämpfungsprogramm erhaltenen Förderbetrags ausgeglichen werden. Die Höhe der Investition soll zu einem Anstieg der Investitionsquote des Letztverbrauchers um mindestens 20 Prozent im Zeitraum der Jahre 2023 bis 2026 gegenüber dem Zeitraum der Jahre 2019 bis 2021 beitragen. Die Investition soll eine der Anforderungen nach Randnummer 33 des „Befristeten Krisenrahmen für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine“ der Europäischen Kommission vom 28. Oktober 2022 erfüllen oder einen wesentlichen Beitrag zur Erfüllung der in Artikel 9 der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), die zuletzt durch die Delegierte Verordnung (EU) 2021/21788 (ABl. L 443 vom 10.12.2021, S. 9) geändert worden ist, genannten Ziele leisten. Die wirtschaftliche Situation des Letztverbrauchers und seines Wirtschaftszweiges ist bei der Entscheidung zu beachten. Die Prüfbehörde fordert den Entlastungsbetrag in der Regel nicht zurück, wenn der Letztverbraucher erhebliche Investitionen nach Satz 2 Nummer 3 eingegangen ist. Die Behörde soll die Entlastung ganz zurückfordern, wenn der Letztverbraucher bis zum 30. April 2025 den Geschäftsbetrieb vollständig einstellt oder ins Ausland verlagert.
+3. Eine Unterschreitung der vereinbarten oder zugesicherten Zahl an zu erhaltenen Arbeitsplatz-Vollzeitäquivalenten um bis zu 50 Prozent kann durch Investitionen in Höhe von mindestens 50 Prozent der Summe des nach diesem Gesetz, dem Erdgas-Wärme-Preisbremsengesetz und dem Energiekostendämpfungsprogramm erhaltenen Förderbetrags ausgeglichen werden. Die Höhe der Investition soll zu einem Anstieg der Investitionsquote des Letztverbrauchers um mindestens 20 Prozent im Zeitraum der Jahre 2023 bis 2026 gegenüber dem Zeitraum der Jahre 2019 bis 2021 beitragen. Die Investition soll eine der Anforderungen nach Randnummer 33 des „Befristeten Krisenrahmens für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine“ der Europäischen Kommission vom 28. Oktober 2022 erfüllen oder einen wesentlichen Beitrag zur Erfüllung der Ziele leisten, die in Artikel 9 der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13; L 156 vom 9.6.2022, S. 159), die zuletzt durch die Delegierte Verordnung (EU) 2021/2178 (ABl. L 443 vom 10.12.2021, S. 9) geändert worden ist, genannt sind.
 
-§ 49a Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+4. Die wirtschaftliche Situation des Letztverbrauchers und seines Wirtschaftszweiges ist bei der Entscheidung zu beachten.
+
+Die Rückzahlungsbeträge sind entsprechend § 49a Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes zu verzinsen, die Prüfbehörde kann von der Geltendmachung des Zinsanspruchs entsprechend § 49a Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes absehen.
 
 # § 37a – Boni- und Dividendenverbot
 
-(1) Ein Unternehmen, das insgesamt eine Entlastungssumme über 25 Millionen Euro bezieht, darf Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens bis zum Ablauf des 31. Dezember 2023 keine Boni, anderen variablen oder vergleichbaren Vergütungsbestandteile unter Einbeziehung von etwaigen Konzernbezügen oder über das Festgehalt hinausgehende Vergütungsbestandteile im Sinn des § 87 Absatz 1 Satz 1 des Aktiengesetzes gewähren, die jeweils nach dem 1. Dezember 2022 vereinbart oder beschlossen worden sind. Satz 1 ist auch anzuwenden auf Erhöhungen von bereits vereinbarten oder beschlossenen Vergütungen nach Satz 1. Ebenso dürfen nach dem 1. Dezember 2022 Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens bis zum 31. Dezember 2023 keine freiwilligen Vergütungen oder Abfindungen gewährt werden, die rechtlich nicht geboten sind.
+(1) Ein Unternehmen, das insgesamt eine Entlastungssumme von mehr als 25 Millionen Euro bezieht, darf Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 für das Kalenderjahr 2023 weder Boni noch andere variable und vergleichbare Vergütungsbestandteile unter Einbeziehung von etwaigen Konzernbezügen noch über das Festgehalt hinausgehende Vergütungsbestandteile im Sinn des § 87 Absatz 1 Satz 1 des Aktiengesetzes gewähren, die jeweils nach dem 1. Dezember 2022 vereinbart oder beschlossen worden sind. Satz 1 ist auch anzuwenden auf Erhöhungen von bereits vereinbarten oder beschlossenen Vergütungen nach Satz 1. Ebenso dürfen nach dem 1. Dezember 2022 Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens bis zum 31. Dezember 2023 keine freiwilligen Vergütungen oder Abfindungen gewährt werden, die rechtlich nicht geboten sind.
 
 (2) Soweit eine variable Vergütung an eine in Absatz 1 genannte Person an das EBITDA des Unternehmens im Entlastungszeitraum geknüpft wird, ist die dem Unternehmen gezahlte Entlastungssumme bei der Ermittlung des EBITDA nicht anrechnungsfähig. Satz 1 ist auch auf Vergütungszahlungen nach dem 31. Dezember 2023 anzuwenden.
 
-(3) Darüber hinaus darf kein Mitglied der Geschäftsleitung des Unternehmens nach Absatz 1 eine Vergütung erhalten, die über die Grundvergütung dieses Mitglieds vor dem 1. Dezember 2022 hinausgeht. Ein Inflationsausgleich ist zulässig. Bei Personen, die nach dem 1. Dezember 2022 Mitglied der Geschäftsleitung werden, gilt als Obergrenze die Grundvergütung von Mitgliedern der Geschäftsleitung derselben Verantwortungsstufe drei Monate vor dem 1. Dezember 2022.
+(3) Darüber hinaus darf vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 für das Kalenderjahr 2023 keinem Mitglied der Geschäftsleitung des Unternehmens nach Absatz 1 eine Vergütung gewährt werden, die über die Grundvergütung dieses Mitglieds vor dem 1. Dezember 2022 hinausgeht. Ein Inflationsausgleich ist zulässig. Bei Personen, die nach dem 1. Dezember 2022 Mitglied der Geschäftsleitung werden, gilt als Obergrenze die Grundvergütung von Mitgliedern der Geschäftsleitung derselben Verantwortungsstufe drei Monate vor dem 1. Dezember 2022.
 
-(4) Ein Unternehmen, das eine Entlastungssumme über 50 Millionen Euro bezieht, darf zudem Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens bis zum 31. Dezember 2023 keine Boni, anderen variablen oder vergleichbaren Vergütungsbestandteile unter Einbeziehung von etwaigen Konzernbezügen und über das Festgehalt hinausgehende Vergütungsbestandteile im Sinn des § 87 Absatz 1 Satz 1 des Aktiengesetzes gewähren.
+(4) Ein Unternehmen, das eine Entlastungssumme von mehr als 50 Millionen Euro bezieht, darf abweichend von Absatz 1 Mitgliedern der Geschäftsleitung des Unternehmens sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 für das Kalenderjahr 2023 weder Boni noch andere variable oder vergleichbare Vergütungsbestandteile unter Einbeziehung von etwaigen Konzernbezügen noch über das Festgehalt hinausgehende Vergütungsbestandteile im Sinn des § 87 Absatz 1 Satz 1 des Aktiengesetzes gewähren. Vor dem 1. Januar 2023 vereinbarte, beschlossene oder entstandene, bis zum Ablauf des 31. Dezember 2022 nicht ausgezahlte Boni oder andere variable oder vergleichbare Vergütungsbestandteile unter Einbeziehung von etwaigen Konzernbezügen oder über das Festgehalt hinausgehende Vergütungsbestandteile im Sinne des § 87 Absatz 1 Satz 1 des Aktiengesetzes dürfen vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 oder, bei Verlängerung des zeitlichen Anwendungsbereichs nach § 3 Absatz 2, bis zum Ablauf des 30. April 2024 nicht ausgezahlt werden.
 
-(5) Ein Unternehmen, das eine Entlastungssumme über 50 Millionen Euro bezieht, darf im Jahr 2023 grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten Gewinnausschüttungen leisten.
+(5) Ein Unternehmen, das eine Entlastungssumme über 50 Millionen Euro bezieht, darf vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 für das Kalenderjahr 2023 grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten Gewinnausschüttungen leisten. Vor dem 1. Januar 2023 vereinbarte, beschlossene oder entstandene, bis zum Ablauf des 31. Dezember 2022 noch nicht ausgezahlte Dividenden oder sonstige, vertraglich oder gesetzlich nicht geschuldete Gewinnausschüttungen dürfen vom 1. Januar 2023 bis zum Ablauf des 31. Dezember 2023 oder, bei Verlängerung des zeitlichen Anwendungsbereichs nach § 3 Absatz 2, bis zum Ablauf des 30. April 2024 nicht ausgezahlt werden.
 
-(6) Unternehmen können durch eine formlose Erklärung gegenüber der Prüfbehörde bis zum 31. Juli 2023 erklären, dass sie eine Förderung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetz mit einer Entlastungssumme über 25 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den Pflichten nach den Absätzen 1 und 5 unterliegen.
+(6) Unternehmen können in Textform gegenüber der Prüfbehörde bis zum Ablauf des 31. Juli 2023 erklären, dass sie eine Entlastung nach diesem Gesetz und dem Erdgas-Wärme-Preisbremsengesetz mit einer Entlastungssumme von mehr als 25 Millionen Euro oder von mehr als 50 Millionen Euro nicht in Anspruch nehmen werden und somit nicht den jeweils einschlägigen Pflichten nach den Absätzen 1 bis 5 unterliegen. Im Fall der Ausübung des Verzichts nach Satz 1 sind bereits erhaltene Entlastungsbeträge, die 25 Millionen Euro oder 50 Millionen Euro übersteigenden, zu erstatten.
 
 (7) Entlastungssumme im Sinn dieses Paragrafen ist die Entlastungssumme nach § 2 Nummer 5 einschließlich Entlastungsbeträgen nach Härtefallregelungen des Bundes oder der Länder aufgrund gestiegener Energiekosten infolge der Aggression Russlands gegen die Ukraine, nach § 36a des Neunten Buches Sozialgesetzbuch und nach § 26f des Krankenhausfinanzierungsgesetzes und abzüglich der Entlastungsbeträge nach dem Erdgas-Wärme-Soforthilfegesetz.
+
+(8) Im Sinne dieses Paragraphen ist oder sind
+
+1. „Unternehmen“
+
+a) Unternehmen nach § 2 Nummer 25, soweit sie selbst eine Entlastungssumme von mehr als 25 Millionen Euro oder 50 Millionen Euro beziehen,
+
+b) verbundene Unternehmen nach § 2 Nummer 28 einschließlich der Muttergesellschaft, soweit die von ihnen nach § 2 Nummer 28 beherrschten oder gehaltenen Unternehmen insgesamt eine Entlastungssumme von mehr als 25 Millionen Euro oder 50 Millionen Euro Entlastungssumme beziehen.
+
+2. „gewähren“, das Versprechen, das Auszahlen, das Begründen, auch in bedingter oder sonstiger Form, und das Inaussichtstellen.
+
+(9) Die Prüfbehörde hat die 25 Millionen Euro oder 50 Millionen Euro übersteigenden Entlastungsbeträge entsprechend § 37 Absatz 2 Satz 3 und 4 zurückzufordern, soweit die Vorschriften der Absätze 1 bis 5 nicht eingehalten wurden.
 
 # § 38 – Aufbewahrungspflichten
 
@@ -1139,7 +1303,7 @@ Letztverbraucher, die Unternehmen sind, Elektrizitätsversorgungsunternehmen und
 
 # § 39 – Missbrauchsverbot
 
-(1) Elektrizitätsversorgungsunternehmen ist eine Gestaltung ihrer Preissetzung oder eine sonstige Verhaltensweise verboten, die eine missbräuchliche Ausnutzung der Regelung zur Entlastung von Letztverbrauchern nach den Bestimmungen dieses Gesetzes darstellt. Insbesondere ist ihnen im Zeitraum vom 1. Januar 2023 bis zum Ablauf des zeitlichen Anwendungsbereichs dieses Gesetzes nach § 3 verboten, ihre in die Ermittlung des Erstattungsanspruchs nach § 20 und des Anspruchs auf Abschlagszahlungen nach § 23 einfließenden Arbeitspreise sachlich ungerechtfertigt zu erhöhen. Gleiches gilt für Gestaltungen der Preissetzung oder sonstige Verhaltensweisen, die in ähnlicher Weise zu sachlich nicht gerechtfertigten überhöhten Erstattungs- und Vorauszahlungsansprüchen führen. In Verfahren vor dem Bundeskartellamt mit Ausnahme von Bußgeldverfahren obliegt dem Elektrizitätsversorgungsunternehmen die Darlegungs- und Beweislast für die sachliche Rechtfertigung der Gestaltung der Preissetzung, Preiserhöhung oder der sonstigen Verhaltensweise. Eine sachliche Rechtfertigung kann sich ergeben aus
+(1) Elektrizitätsversorgungsunternehmen ist eine Gestaltung ihrer Preissetzung oder eine sonstige Verhaltensweise verboten, die eine missbräuchliche Ausnutzung der Regelung zur Entlastung von Letztverbrauchern nach den Bestimmungen dieses Gesetzes darstellt. Insbesondere ist ihnen im Zeitraum vom 1. Januar 2023 bis zum Ablauf des zeitlichen Anwendungsbereichs dieses Gesetzes nach § 3 verboten, ihre in die Ermittlung des Erstattungsanspruchs nach § 20 und des Anspruchs auf Vorauszahlungen nach § 22a einfließenden Arbeitspreise sachlich ungerechtfertigt zu erhöhen. Gleiches gilt für Gestaltungen der Preissetzung oder sonstige Verhaltensweisen, die in ähnlicher Weise zu sachlich nicht gerechtfertigten überhöhten Erstattungs- und Vorauszahlungsansprüchen führen. In Verfahren vor dem Bundeskartellamt mit Ausnahme von Bußgeldverfahren obliegt dem Elektrizitätsversorgungsunternehmen die Darlegungs- und Beweislast für die sachliche Rechtfertigung der Gestaltung der Preissetzung, Preiserhöhung oder der sonstigen Verhaltensweise. Eine sachliche Rechtfertigung kann sich ergeben aus
 
 1. marktbasierten Preisen und Kosten, insbesondere aus vor dem 25. November 2022 geschlossenen Beschaffungsverträgen, oder
 
@@ -1149,11 +1313,11 @@ Eine sachliche Rechtfertigung scheidet aus, soweit ein Anstieg der Beschaffungsk
 
 (2) Das Bundeskartellamt kann ein Elektrizitätsversorgungsunternehmen, das seine Verhaltensmöglichkeiten zur Erzielung von Erstattungs- und Vorauszahlungsansprüchen im Sinn des Absatzes 1 missbräuchlich ausnutzt, verpflichten, sein missbräuchliches Handeln abzustellen. Es kann dem Elektrizitätsversorgungsunternehmen alle Maßnahmen aufgeben, die erforderlich sind, um das missbräuchliche Handeln wirksam abzustellen. Es kann insbesondere
 
-1. anordnen, dass die Erstattungen nach § 20 und Abschlags- und Vorauszahlungen nach § 23 von dem Elektrizitätsversorgungsunternehmen ganz oder teilweise an die Übertragungsnetzbetreiber zurückzuerstatten sind sowie
+1. anordnen, dass die Erstattungen nach § 20 und Vorauszahlungen nach § 22a von dem Elektrizitätsversorgungsunternehmen ganz oder teilweise an die Übertragungsnetzbetreiber zurückzuerstatten sind sowie
 
 2. die Abschöpfung sonstiger wirtschaftlicher Vorteile des Elektrizitätsversorgungsunternehmens anordnen und dem Elektrizitätsversorgungsunternehmen die Zahlung des entsprechenden Geldbetrags auferlegen.
 
-Die Höhe des Rückerstattungsbetrags und des wirtschaftlichen Vorteils kann geschätzt werden. Der abzuführende Geldbetrag ist zahlenmäßig zu bestimmen. Eine Weitergabe wirtschaftlicher Vorteile des Elektrizitätsversorgungsunternehmens an Letztverbraucher oder Dritte bleibt außer Betracht. Maßnahmen des Bundeskartellamtes sind als individuell zurechenbare öffentlich-rechtliche Leistungen gebührenpflichtig; die Höhe der Gebühr, mit der die Kosten, die mit der individuell zurechenbaren Leistung verbunden sind, gedeckt werden sollen, darf 50 000 Euro nicht übersteigen. Die §§ 32b, 50e, 50f, 86a, 91, 92, 94, 95 sowie die Vorschriften des dritten Kapitels des zweiten Teils und des ersten Kapitels des dritten Teils des Gesetzes gegen Wettbewerbsbeschränkungen sind entsprechend anzuwenden. Dies gilt auch für die von ihnen in Bezug genommenen und auf sie verweisenden Vorschriften. Die §§ 59, 59a und 59b des Gesetzes gegen Wettbewerbsbeschränkungen sind mit der Maßgabe anzuwenden, dass das Auskunftsverlangen einen gegen konkrete Elektrizitätsversorgungsunternehmen gerichteten Anfangsverdacht eines missbräuchlichen Verhaltens nicht voraussetzt. Das Bundeskartellamt und die in § 2 Nummer 17 und 24 benannten Stellen können zur Erfüllung ihrer Aufgaben nach diesem Gesetz in entsprechender Anwendung von § 50f Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen Informationen austauschen.
+Die Höhe des Rückerstattungsbetrags und des wirtschaftlichen Vorteils kann geschätzt werden. Der abzuführende Geldbetrag ist zahlenmäßig zu bestimmen. Eine Weitergabe wirtschaftlicher Vorteile des Elektrizitätsversorgungsunternehmens an Letztverbraucher oder Dritte bleibt außer Betracht. Maßnahmen des Bundeskartellamtes sind als individuell zurechenbare öffentlich-rechtliche Leistungen gebührenpflichtig; die Höhe der Gebühr, mit der die Kosten, die mit der individuell zurechenbaren Leistung verbunden sind, gedeckt werden sollen, darf 50 000 Euro nicht übersteigen. Die §§ 32b, 50e, 50f, 86a, 91, 92, 94, 95 sowie die Vorschriften des dritten Kapitels des zweiten Teils und des ersten Kapitels des dritten Teils des Gesetzes gegen Wettbewerbsbeschränkungen sind entsprechend anzuwenden. Dies gilt auch für die von ihnen in Bezug genommenen und auf sie verweisenden Vorschriften. Die §§ 59, 59a und 59b des Gesetzes gegen Wettbewerbsbeschränkungen sind mit der Maßgabe anzuwenden, dass das Auskunftsverlangen einen gegen konkrete Elektrizitätsversorgungsunternehmen gerichteten Anfangsverdacht eines missbräuchlichen Verhaltens nicht voraussetzt. Das Bundeskartellamt und die in § 2 Nummer 17 und 24 benannten Stellen können zur Erfüllung ihrer Aufgaben nach diesem Gesetz in entsprechender Anwendung von § 50f Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen Informationen austauschen. Rechtsbehelfe gegen die Abstellungsverfügungen nach Satz 2 oder die Anordnungen nach Satz 3 Nummer 1 haben keine aufschiebende Wirkung.
 
 (3) Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen bleiben anwendbar. Die Aufgaben und Zuständigkeiten der Kartellbehörden bleiben unberührt.
 
@@ -1223,9 +1387,11 @@ Die Mitteilung nach Satz 1 muss auch dann erfolgen, wenn dem Netzbetreiber begr�
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 12 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Vergünstigung oder Zugabe gewährt,
+1. entgegen § 12 Absatz 1 Satz 1, auch in Verbindung mit § 7 Absatz 2 Nummer 1 oder § 12 Absatz 1 Satz 2, eine Vergünstigung oder Zugabe gewährt,
 
 2. entgegen § 12 Absatz 1 Satz 4 einen anderen als den dort genannten Grundpreis vereinbart,
+
+2a. entgegen § 12b Absatz 4 Nummer 8 oder 9 eine Angabe nicht richtig oder nicht vollständig macht,
 
 3. seiner Pflicht zur Zahlung des Abschöpfungsbetrags nach § 14 Absatz 1 nicht, nicht rechtzeitig oder nicht ordnungsgemäß nachkommt,
 
@@ -1233,9 +1399,9 @@ Die Mitteilung nach Satz 1 muss auch dann erfolgen, wenn dem Netzbetreiber begr�
 
 5. seinen Mitteilungspflichten aus § 29 Absatz 1 Nummer 1, 2 oder Nummer 4 erster Halbsatz oder Absatz 2 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
 
-6. seinen Mitteilungspflichten aus § 30 Absatz 1 Nummer 2 oder Absatz 2 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
+6. seinen Mitteilungspflichten aus § 30 Absatz 1 Nummer 2 oder Absatz 2 oder aus § 30a Absatz 2 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
 
-7. entgegen § 39 Absatz 1 Satz 2 einen dort genannten Arbeitspreis erhöht oder
+7. entgegen § 39 Absatz 1 Satz 2, auch in Verbindung mit § 7 Absatz 2 Nummer 6, einen dort genannten Arbeitspreis oder die Beschaffungskosten erhöht oder
 
 8. einer vollziehbaren Anordnung nach § 40 Absatz 2 in Verbindung mit § 65 Absatz 1 oder Absatz 2 oder § 69 Absatz 7 Satz 1 oder Absatz 8 Satz 1 des Energiewirtschaftsgesetzes zuwiderhandelt.
 
@@ -1243,7 +1409,7 @@ Die Mitteilung nach Satz 1 muss auch dann erfolgen, wenn dem Netzbetreiber begr�
 
 1. in den Fällen des Absatzes 1 Nummer 3, 4, 7 und 8 mit einer Geldbuße bis zu einer Million Euro,
 
-2. in den Fällen des Absatzes 1 Nummer 2, 5 und 6 mit einer Geldbuße bis zu fünfhunderttausend Euro,
+2. in den Fällen des Absatzes 1 Nummer 2, 2a, 5 und 6 mit einer Geldbuße bis zu fünfhunderttausend Euro,
 
 3. in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu hunderttausend Euro.
 
@@ -1251,21 +1417,21 @@ Die Mitteilung nach Satz 1 muss auch dann erfolgen, wenn dem Netzbetreiber begr�
 
 1. von mehr als 12,5 Millionen Euro kann abweichend von Absatz 2 Nummer 1 eine Ordnungswidrigkeit nach Absatz 1 Nummer 3, 4, 7 und 8 mit einer Geldbuße bis zu 8 Prozent,
 
-2. von mehr als 12,5 Millionen Euro kann abweichend von Absatz 2 Nummer 2 eine Ordnungswidrigkeit nach Absatz 1 Nummer 2, 5 und 6 mit einer Geldbuße bis zu 4 Prozent und
+2. von mehr als 12,5 Millionen Euro kann abweichend von Absatz 2 Nummer 2 eine Ordnungswidrigkeit nach Absatz 1 Nummer 2, 2a, 5 und 6 mit einer Geldbuße bis zu 4 Prozent und
 
 3. von mehr als 10 Millionen Euro kann abweichend von Absatz 2 Nummer 3 eine Ordnungswidrigkeit nach Absatz 1 Nummer 1 mit einer Geldbuße bis zu 1 Prozent
 
 des in dem der Behördenentscheidung vorausgegangenen Geschäftsjahres erzielten Gesamtumsatzes geahndet werden. Bei der Ermittlung des Gesamtumsatzes ist der weltweite Umsatz aller natürlichen und juristischen Personen sowie Personenvereinigungen zugrunde zu legen, die als wirtschaftliche Einheit operieren. Die Höhe des Gesamtumsatzes kann geschätzt werden.
 
-(4) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
 1. in den Fällen des Absatzes 1 Nummer 1, 2 und 7 das Bundeskartellamt,
 
 2. in den Fällen des Absatzes 1 Nummer 3, 4, 5 und 8 die Bundesnetzagentur und
 
-3. im Fall des Absatzes 1 Nummer 6 die Prüfbehörde.
+3. in den Fällen des Absatzes 1 Nummer 2a und 6 die Prüfbehörde oder die durch Rechtsverordnung nach § 48 Absatz 1 Nummer 1a hierfür bestimmte Bundesbehörde.
 
-(5) Die Verfolgung von Ordnungswidrigkeiten nach Absatz 1 verjährt in fünf Jahren. Für das Verfahren gelten die Regelungen in den §§ 81b und 81f des Gesetzes gegen Wettbewerbsbeschränkungen. Im Falle der Zuständigkeit des Bundeskartellamts nach Absatz 4 sind über Satz 2 hinaus die Vorschriften des Abschnitts 3 des Kapitels 2 des Teils 3 und die §§ 86a, 91, 92, 94 und 95 des Gesetzes gegen Wettbewerbsbeschränkungen einschließlich der von ihnen in Bezug genommenen Vorschriften entsprechend anzuwenden. Im Fall der Zuständigkeit der Bundesnetzagentur nach Absatz 4 sind über Satz 2 hinaus die §§ 96 bis 101 des Energiewirtschaftsgesetzes einschließlich der von ihnen in Bezug genommenen Vorschriften entsprechend anzuwenden.
+(5) Die Verfolgung von Ordnungswidrigkeiten nach Absatz 1 verjährt in fünf Jahren. Für das Verfahren gelten die Regelungen in den §§ 81b und 81f des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend. Im Falle der Zuständigkeit des Bundeskartellamts nach Absatz 4 sind über Satz 2 hinaus die Vorschriften des Abschnitts 3 des Kapitels 2 des Teils 3 und die §§ 86a, 91, 92, 94 und 95 des Gesetzes gegen Wettbewerbsbeschränkungen einschließlich der von ihnen in Bezug genommenen Vorschriften entsprechend anzuwenden. Im Fall der Zuständigkeit der Bundesnetzagentur nach Absatz 4 sind über Satz 2 hinaus die §§ 96 bis 101 des Energiewirtschaftsgesetzes einschließlich der von ihnen in Bezug genommenen Vorschriften entsprechend anzuwenden.
 
 (6) Im Fall einer Gesamtrechtsnachfolge oder einer partiellen Gesamtrechtsnachfolge durch Aufspaltung nach § 123 Absatz 1 des Umwandlungsgesetzes können Geldbußen nach Absatz 3 Satz 1 gegen den oder die Rechtsnachfolger verhängt werden.
 
@@ -1341,13 +1507,25 @@ im Fall einer Verlängerung des zeitlichen Anwendungsbereichs über den 31. Deze
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
-1. die Bundesbehörde zu bestimmen, die die Aufgaben wahrnimmt, die in diesem Gesetz oder in dem Erdgas-Wärme-Preisbremsengesetz der Prüfbehörde zugewiesen sind,
+1. eine Bundesbehörde zu bestimmen, die alle oder einen Teil der Aufgaben wahrnimmt, die in diesem Gesetz oder im Erdgas-Wärme-Preisbremsengesetz der Prüfbehörde zugewiesen sind,
 
-2. die Berechnung des Differenzbetrags nach § 5 Absatz 1 unter dessen Voraussetzungen anzupassen und die hierfür erforderlichen Bestimmungen zu regeln, wobei es zwischen verschiedenen Gruppen von Letztverbrauchern und Kunden unterscheiden kann; die Anpassung kann auf Entnahmestellen begrenzt werden, für die die Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe a anzuwenden ist; die Anpassung nach Satz 1 soll sobald wie möglich und spätestens bis zum 15. März 2023 erfolgen; die Anpassung soll regelmäßig überprüft werden, um die Erreichung der in § 5 Absatz 1 Satz 2 genannten Ziele zu gewährleisten; in diesem Fall kann die Anpassung insbesondere so erfolgen, dass sie die aktuelle Entwicklung der Marktpreise besser widerspiegelt,
+1a. eine Bundesbehörde zu bestimmen, die anstelle der Prüfbehörde in den Fällen des § 43 Absatz 4 Nummer 3 dieses Gesetzes oder des § 38 Absatz 4 des Erdgas-Wärme-Preisbremsengesetzes Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten wird,
+
+2. die Berechnung des Differenzbetrags nach § 5 Absatz 1 unter dessen Voraussetzungen anzupassen und die hierfür erforderlichen Bestimmungen zu regeln, wobei es zwischen verschiedenen Gruppen von Letztverbrauchern und Kunden unterscheiden kann; die Anpassung kann auf Entnahmestellen begrenzt werden, für die die Höchstgrenze nach § 9 Absatz 1 Satz 1 Nummer 2 Buchstabe a oder § 9 Absatz 1 Satz 1 Nummer 1 anzuwenden ist; die Anpassung nach Satz 1 soll sobald wie möglich und spätestens bis zum 15. März 2023 erfolgen; die Anpassung soll regelmäßig überprüft werden, um die Erreichung der in § 5 Absatz 1 Satz 2 genannten Ziele zu gewährleisten; in diesem Fall kann die Anpassung insbesondere so erfolgen, dass sie die aktuelle Entwicklung der Marktpreise besser widerspiegelt,
 
 3. abweichend oder zusätzlich zu den Nachweisvorgaben nach § 11 Absatz 2 dieses Gesetzes und nach § 19 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes weitere Vorgaben zu den im Rahmen des Verfahrens nach § 11 dieses Gesetzes und nach § 19 des Erdgas-Wärme-Preisbremsengesetzes beizubringenden Nachweisen näher zu bestimmen,
 
-4. das Verfahren zu bestimmen, nach dem von der Selbsterklärung der Letztverbraucher oder Kunden nach § 30 Absatz 1 Nummer 1 dieses Gesetzes und nach § 22 Absatz 1 Nummer 1 des Erdgas-Wärme-Preisbremsengesetzes abweichende Feststellungen der Prüfbehörde zu den nach § 9 dieses Gesetzes und § 18 des Erdgas-Wärme-Preisbremsengesetzes anzuwendenden Höchstgrenzen gemäß § 11 Absatz 7 dieses Gesetzes und § 19 Absatz 7 des Erdgas-Wärme-Preisbremsengesetzes im Rahmen der Abrechnung nach § 12 Absatz 3 dieses Gesetzes und § 20 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes zu korrigieren sind,
+4. näher zu bestimmen und auszugestalten:
+
+a) das Verfahren, nach dem die Prüfbehörde die Geltendmachung der Rückforderungsansprüche und die Korrektur der Entlastungen nach § 11 Absatz 7 dieses Gesetzes und § 19 Absatz 7 des Erdgas-Wärme-Preisbremsengesetzes anordnet, sowie Vorgaben zum Inhalt der Anordnung in Bezug auf die gerichtliche oder außergerichtliche Geltendmachung der Rückforderungsansprüche durch Lieferanten oder Elektrizitätsversorgungsunternehmen,
+
+b) Vorgaben, nach denen ein Lieferant oder Elektrizitätsversorgungsunternehmen einen Rückforderungsanspruch nach § 12 Absatz 2a oder Absatz 4 dieses Gesetzes oder § 20 Absatz 1a oder Absatz 3 des Erdgas-Wärme-Preisbremsengesetzes außergerichtlich sowie gerichtlich geltend macht, hiermit verbundene Rechtsfolgen, die an die Verletzung dieser Vorgaben geknüpft sind, sowie Vorgaben zur Stellung eines Antrags durch den Lieferanten oder das Elektrizitätsversorgungsunternehmen zur Eröffnung eines Insolvenzverfahrens gegen den Letztverbraucher oder Kunden,
+
+c) das Verfahren, nach dem die Prüfbehörde nach § 11 Absatz 10 Satz 1 dieses Gesetzes und § 19 Absatz 10 Satz 1 des Erdgas-Wärme-Preisbremsengesetzes einen Letztverbraucher oder Kunde auffordert, die die jeweiligen Höchstgrenzen übersteigenden Entlastungen an die Prüfbehörde oder den Bund auszukehren, insbesondere ob die Aufforderung durch Verwaltungsakt oder auf zivilrechtlichem Weg zu erfolgen hat,
+
+d) das Verfahren, nach dem ein Letztverbraucher oder Kunde die die jeweiligen Höchstgrenzen übersteigenden Entlastungen auf Basis einer Aufforderung nach § 11 Absatz 10 Satz 1 dieses Gesetzes und § 19 Absatz 10 Satz 1 des Erdgas-Wärme-Preisbremsengesetzes an die Prüfbehörde oder den Bund auskehrt, Vorgaben zur außergerichtlichen und gerichtlichen Geltendmachung des Auskehrverlangens, Vorgaben zu den Rechtsfolgen, sofern ein Letztverbraucher oder Kunde die Entlastungen auskehrt, sowie Vorgaben zur Stellung eines Antrags durch die Prüfbehörde zur Eröffnung eines Insolvenzverfahrens gegen den Letztverbraucher oder Kunden.
+
+4a. zu bestimmen, wie und unter welchen Voraussetzungen ein nach § 12 Absatz 2a dieses Gesetzes oder § 20 Absatz 1a des Erdgas-Wärme-Preisbremsengesetzes bestehender Rückforderungsanspruch des Elektrizitätsversorgungsunternehmens oder des Lieferanten durch oder aufgrund der Rechtsverordnung auf die Prüfbehörde oder den Bund übergeht, sowie nähere Regelungen zum Verfahren des Forderungsübergangs, einschließlich einer möglichen Anzeige des Forderungsübergangs gegenüber dem Schuldner, zur Art und Weise der Rückforderung, insbesondere ob die Rückforderung durch Verwaltungsakt oder auf zivilrechtlichem Weg zu erfolgen hat, zur Berechtigung und Verpflichtung der Prüfbehörde, im Falle des Forderungsübergangs auf den Bund für diesen außergerichtlich und gerichtlich zurückzufordern und zu vollstrecken, sowie in Vertretung für den Bund einen Antrag zur Eröffnung eines Insolvenzverfahrens gegen den Letztverbraucher oder Kunden zu stellen, und zu den mit dem Forderungsübergang verbundenen Rechtsfolgen zu erlassen.
 
 5. nähere Bestimmungen zur Umsetzung der Vereinbarung nach § 27 Absatz 4 Satz 2 zu regeln und
 
@@ -1415,7 +1593,7 @@ Dieses Gesetz darf erst nach der beihilferechtlichen Genehmigung durch die Europ
 
 (+++ Zur Anwendung dieses G ab dem 24.12.2022 bzw. 25.2.2023 vgl. Bek. v. 28.12.2022 I 2894 u. Bek. v. 24.2.2023 I Nr. 52 +++)
 
-# Anlage 1 – (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten
+# Anlage 1 – (zu § 2 Nummer 11)Krisenbedingte Energiemehrkosten
 
 (Fundstelle: BGBl. I 2022, 2541)
 
