@@ -495,9 +495,9 @@ Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des Läutermater
 
  
 
- 
-
 1
+
+ 
 
 b)
 
