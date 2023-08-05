@@ -65,6 +65,8 @@ Diese Verordnung gilt
 
 (4) Die Schulungen sind spätestens innerhalb von sechs Monaten nach ihrem Beginn durch einen Schulungsnachweis nach § 8 Absatz 1 abzuschließen. Dieser Zeitraum darf nur in Krankheitsfällen oder bei Vorliegen einer Schwangerschaft, Mutterschutz oder im Fall von Elternzeit überschritten werden.
 
+(+++ § 4 Abs. 1 Satz 2 und Abs. 2: Zur Geltung vgl. § 5 Abs. 1 +++) (+++ § 4 Abs. 1: Zur Geltung vgl. § 30 Satz 2 +++)
+
 # § 5 – Schulungen und Fortbildungen von Sicherheitspersonal und anderem Personal
 
 (1) Schulungen und Fortbildungen von Sicherheitspersonal und anderem Personal können durch Ausbilder, durch computergestützte Schulungen oder als Online-Seminar durchgeführt werden. § 4 Absatz 1 Satz 2 und Absatz 2 gelten entsprechend. Die Schulung von Personen mit Funktionen und Verantwortlichkeiten in Bezug auf Cyberbedrohungen nach Nummer 11.2.8 des Anhangs der Durchführungsverordnung (EU) 2015/1998 kann von Personen durchgeführt werden, die tätigkeitsbezogene Kompetenzen und Erfahrungen aufweisen, ohne über ein Ausbilderzertifikat nach § 19 Absatz 1 zu verfügen.
@@ -110,6 +112,8 @@ Diese Verordnung gilt
 (16) Die Schulung von Personen mit Funktionen und Verantwortlichkeiten in Bezug auf Cyberbedrohungen im Sinne von Nummer 11.2.8 des Anhangs der Durchführungsverordnung (EU) 2015/1998 umfasst mindestens zwei Unterrichtseinheiten.
 
 (17) Im Falle, dass Personen Teilaufgaben der in Nummer 11.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 genannten Tätigkeiten ausüben, entscheidet die zuständige Luftsicherheitsbehörde im Einzelfall vor Beginn der Schulung über deren Umfang unter Beachtung von Anlage 2.
+
+(+++ § 6 Abs. 6 bis 11 und 14 bis 16: Zur Geltung vgl. § 29 Abs. 2 +++)
 
 # § 7 – Schulungsinhalt
 
@@ -271,6 +275,8 @@ Hat die zu prüfende Person die ordnungsgemäße Durchführung der Prüfung in e
 
 (4) Absatz 3 Nummer 2, mit Ausnahme von Nummer 11.5.1 Satz 1 Buchstabe a) des Anhangs der Durchführungsverordnung (EU) 2015/1998 und Absatz 3 Nummer 3 gelten nicht für Mitarbeiter von Luftsicherheitsbehörden, die Ausbilder werden möchten.
 
+(+++ § 19: Zur Geltung vgl. § 28 +++)
+
 # § 20 – Verfahren zur Erteilung des Ausbilderzertifikats
 
 (1) Die zuständige Luftsicherheitsbehörde erteilt das Ausbilderzertifikat für fünf Jahre, wenn die Antragsunterlagen vollständig sind und wenn nachgewiesen ist, dass die betreffende Person die erforderlichen Schulungen erfolgreich abgeschlossen und, sofern es sich um eine Zertifizierung zur Schulung einer der Personengruppen nach den Nummern 11.2.3.1 bis 11.2.3.5, 11.2.4 oder 11.2.5 des Anhangs der Durchführungsverordnung (EU) 2015/1998 handelt, eine Lehrprobe von mindestens 45 Minuten Dauer vor der zuständigen Luftsicherheitsbehörde abgelegt hat. Einzelheiten zur Lehrprobe sind der Anlage 3 zu entnehmen.
@@ -335,6 +341,8 @@ Einzelheiten zum Schulungsinhalt und -umfang und Einzelheiten zum Nachweis über
 
 (7) Ausbilder dürfen nur über ein gültiges Ausbilderzertifikat für jede zu schulende Personengruppe nach Nummer 11.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 verfügen.
 
+(+++ § 20: Zur Geltung vgl. § 28 +++)
+
 # § 21 – Widerruf eines erteilten Ausbilderzertifikats, Suspendierung des Ausbilders, Streichung von der Ausbilderliste
 
 (1) Das Ausbilderzertifikat ist von der zuständigen Luftsicherheitsbehörde zu widerrufen, wenn
@@ -353,6 +361,8 @@ Für die Dauer der Suspendierung ist es dem Ausbilder untersagt, Schulungen und 
 
 (3) Bei einem Widerruf des Ausbilderzertifikats nach Absatz 1 ist der Ausbilder von der Ausbilderliste zu streichen. Im Falle einer Suspendierung des Ausbilders nach Absatz 2 ist hierüber ein Hinweis in die Ausbilderliste aufzunehmen.
 
+(+++ § 21: Zur Geltung vgl. § 28 +++)
+
 # § 22 – Fortbildungsverpflichtung der Ausbilder
 
 (1) Ausbilder müssen entsprechend Nummer 11.5.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 ab dem Zeitpunkt der Erteilung des Zertifikats jährlich eine Fortbildung absolvieren.
@@ -360,6 +370,8 @@ Für die Dauer der Suspendierung ist es dem Ausbilder untersagt, Schulungen und 
 (2) Die Vorgaben zum Fortbildungsumfang und Fortbildungsinhalt ergeben sich aus Anlage 3.
 
 (3) Absatz 2 gilt nicht für Mitarbeiter von Luftsicherheitsbehörden, die Ausbilderfunktionen wahrnehmen.
+
+(+++ § 22: Zur Geltung vgl. § 28 +++)
 
 # § 23 – Rezertifizierung der Ausbilder
 
@@ -374,6 +386,8 @@ Für die Dauer der Suspendierung ist es dem Ausbilder untersagt, Schulungen und 
 3. eine erfolgreich absolvierte Lehrprobe nach § 20 Absatz 1. § 20 Absatz 4 gilt entsprechend.
 
 (3) Der Antrag auf Rezertifizierung muss spätestens drei Monate vor Ablauf des Ausbilderzertifikats bei der zuständigen Luftsicherheitsbehörde gestellt werden. Nach Ablauf des Ausbilderzertifikats gilt der Antrag auf Rezertifizierung als Antrag auf Zertifizierung. Nach erfolgreichem Abschluss der Rezertifizierung wird durch die zuständige Luftsicherheitsbehörde ein neues Ausbilderzertifikat erstellt. Im Fall von Satz 2 kann die zuständige Luftsicherheitsbehörde bereits durchgeführte Schulungen zum Erwerb des Ausbilderzertifikats anerkennen.
+
+(+++ § 23: Zur Geltung vgl. § 28 +++)
 
 # § 24 – Schulungsverpflichtung
 
@@ -1105,7 +1119,7 @@ Tierschutz-Hundeverordnung
 Landeshundegesetze (Gesetz über das Halten von Hunden)
 
 –  
-Straßenverkehrsordnung (§§ 23, 28 Absatz 1)
+Straßenverkehrs-Ordnung(§§ 23, 28 Absatz 1)
 
 –  
 Luftsicherheitsgesetz
@@ -1348,6 +1362,8 @@ Einleitung von Maßnahmen nach dem jeweils gültigen Alarmplan.
 Schulungsinhalte der Wiederholungsschulungen
 
 Die oben genannten Lehrinhalte der Erstschulung sind im Rahmen von Wiederholungsschulungen erneut zu vermitteln. Die Inhalte der Wiederholungsschulungen sind auf Grundlage der aktuellen Sicherheitsentwicklungen und nach dem jeweiligen Bedarf des Sprengstoffspürhundes, dem Hundeführer und des Sprengstoffspürhunde-Teams auszuwählen und zu schulen.
+
+Nr. 1.2 Tabelle Zeile 4 Spalte 2 Anstrich 5 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "Straßenverkehrsordnung" durch das Wort "Straßenverkehrs-Ordnung ersetzt
 
 # Anlage 5 – (zu den §§ 10 bis 18)Prüfungsordnung
 

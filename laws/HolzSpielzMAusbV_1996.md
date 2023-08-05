@@ -276,7 +276,7 @@ wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschu
 
 4
 
-Arbeits-Sicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
+Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
 
 a)
 

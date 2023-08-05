@@ -592,9 +592,9 @@ c) Abdichtungen an aufgehende oder abgehende Wände anschließen
 
 d) Übergangskonstruktionen bei unterschiedlichen Abdichtungssystemen herstellen
 
-8
-
  
+
+8 
 
 5
 
