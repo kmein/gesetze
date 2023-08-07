@@ -5668,7 +5668,6 @@
 - [TÜPrKostO1992GebVAnpV](laws/TÜPrKostO1992GebVAnpV.md) Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVAnpV 2](laws/TÜPrKostO1992GebVAnpV_2.md) Zweite Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVUmstV](laws/TÜPrKostO1992GebVUmstV.md) Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro
-- [TürkeiErdbebenAufenthÜV](laws/TürkeiErdbebenAufenthÜV.md) Verordnung zur vorübergehenden Befreiung vom Erfordernis eines Aufenthaltstitels für anlässlich des Erdbebens vom 6. Februar 2023 eingereiste türkische Staatsangehörige
 - [TVA-H BBiG](laws/TVA-H_BBiG.md) Tarifvertrag für Auszubildende des Landes Hessen in Ausbildungsberufen nach dem Berufsbildungsgesetz
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
