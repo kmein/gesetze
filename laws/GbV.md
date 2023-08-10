@@ -5,7 +5,7 @@
 
 (1) Die nachfolgenden Vorschriften gelten für jedes Unternehmen, dessen Tätigkeit die Beförderung gefährlicher Güter auf der Straße, auf der Schiene, auf schiffbaren Binnengewässern und mit Seeschiffen umfasst.
 
-(2) Die in dem jeweiligen Abschnitt 1.8.3 des Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR), der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) und des Europäischen Übereinkommens über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die Beförderung gefährlicher Güter auf der Straße, auf der Schiene und auf schiffbaren Binnengewässern getroffenen Regelungen sind auch auf die Beförderung gefährlicher Güter mit Seeschiffen anzuwenden.
+(2) Die in dem jeweiligen Abschnitt 1.8.3 des Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR), der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) und des Übereinkommens über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die Beförderung gefährlicher Güter auf der Straße, auf der Schiene und auf schiffbaren Binnengewässern getroffenen Regelungen sind auch auf die Beförderung gefährlicher Güter mit Seeschiffen anzuwenden.
 
 # § 2 – Befreiungen
 
