@@ -93,6 +93,8 @@ Komplexe Beteiligungsstrukturen liegen insbesondere vor bei Beteiligungen, die g
 
 (4) Eine Anzeige gilt für die Zwecke des § 2c Absatz 1 Satz 9 des Kreditwesengesetzes als vollständig eingegangen, wenn sie bei der Bundesanstalt vollständig eingegangen ist.
 
+(+++ § 6 Abs. 2 Satz 1 Nr. 1: zur Anwendung vgl. § 17 Abs. 1 Satz 2 +++)
+
 # § 7 – Änderung der angezeigten Absicht, des angezeigten Erwerbs und der angezeigten Angaben
 
 (1) Gibt der Anzeigepflichtige die Absicht, eine bedeutende Beteiligung zu erwerben oder zu erhöhen, vor dem Erwerb oder der Erhöhung auf, hat er dies unverzüglich schriftlich mitzuteilen.
