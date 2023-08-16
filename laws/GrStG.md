@@ -52,6 +52,7 @@ Der Grundbesitz muß ausschließlich demjenigen, der ihn für die begünstigten 
 
 (3) Öffentlicher Dienst oder Gebrauch im Sinne dieses Gesetzes ist nicht anzunehmen bei Betrieben gewerblicher Art von juristische Personen des öffentlichen Rechts im Sinne des Körperschaftsteuergesetzes.
 
+(+++ § 3 Abs. 3: das Wort "juristische" müsste richtig "juristischen" lauten +++)  
 (+++ § 3 Abs. 1 Nr. 1a F. 1994-09-14: Zur Anwendung vgl. § 38 Satz 3 F. ab 1994-09-14 +++)  
 (+++ § 3 Abs. 1 Nr. 5 und 6 F. 1993-09-13: Zur erstmaligen Anwendung vgl. § 38 Satz 2 F. 1993-09-13 +++)
 
