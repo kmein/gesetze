@@ -747,7 +747,7 @@ In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrecht
 
 (2) Von den Festsetzungen des Bebauungsplans kann befreit werden, wenn die Grundzüge der Planung nicht berührt werden und
 
-1. Gründe des Wohls der Allgemeinheit, einschließlich der Wohnbedürfnisse der Bevölkerung, des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden und des Bedarfs an einem zügigen Ausbau der erneuerbaren Energien, die Befreiung erfordern oder
+1. Gründe des Wohls der Allgemeinheit, einschließlich der Wohnbedürfnisse der Bevölkerung, des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden, des Bedarfs an Anlagen für soziale Zwecke und des Bedarfs an einem zügigen Ausbau der erneuerbaren Energien, die Befreiung erfordern oder
 
 2. die Abweichung städtebaulich vertretbar ist oder
 
@@ -3665,7 +3665,7 @@ Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 
 
 (1) Abweichend von § 233 Absatz 1 ist § 6 Absatz 4 in der Fassung dieses Gesetzes anzuwenden, wenn der Genehmigungsantrag bei der höheren Verwaltungsbehörde nach dem 7. Juli 2023 eingegangen ist.
 
-(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauweisen evaluiert die Auswirkungen der Änderungen der §§ 3, 4, 4a und 200 zur Digitalisierung und die Änderung des § 6 zur Fristverkürzung auf die Bauleitplanverfahren bis zum 31. Dezember 2027.
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen evaluiert die Auswirkungen der Änderungen der §§ 3, 4, 4a und 200 zur Digitalisierung und die Änderung des § 6 zur Fristverkürzung auf die Bauleitplanverfahren bis zum 31. Dezember 2027.
 
 # § 246 – Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
