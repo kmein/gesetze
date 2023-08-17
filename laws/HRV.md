@@ -591,45 +591,199 @@ Tag der Registerbekanntmachung: \[Datum\].
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
+  
 
-    Handelsregister des Amtsgerichts       Abteilung A       Nummer der Firma: HR A
+Handelsregister des Amtsgerichts
 
-    -------------------------------------------------------------------------------
-               I a) Firma     I a) Allgemeine  I         I a) Rechtsform, I a) Tag
-               I b) Sitz,     I    Vertretungs-          I    Beginn und  I    der
-               I    Nieder-   I    regelung    I         I    Satzung     I    Ein-
-               I    lassung,  I b) Inhaber,    I         I b) Sonstige    I    tra-
-               I    inländische    persönlich  I         I    Rechts-     I    gung   
-               I    Geschäfts-     haftende    I Prokura I    verhältnisse  b) Be-
-               I    anschrift I    Gesell-     I         I c) Komman-     I    mer-
-               I    Zweig-    I    schafter,   I         I    ditisten,   I    kun-
-    Nummer der I    nieder-   I    Geschäftts- I         I    Mitglieder  I    gen
-    Eintragung I    lassungen I    führer,     I         I    2)          I
-               I c) Gegenstand     Vorstand,   I         I                I
-               I    des Unter-     Vertretungs-          I                I
-               I    nehmens 1)     berechtigte I         I                I
-               I              I    und besondere         I                I
-               I              I    Vertretungs-          I                I
-               I              I    befugnis    I         I                I
-               I              I    befugnis    I         I                I
-    -------------------------------------------------------------------------------
-         1     I      2       I        3       I    4    I        5       I    6
-    -------------------------------------------------------------------------------
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I
-               I              I                I         I                I  
+Abteilung A
 
------
+Nummer der Firma: HR A
 
-1) Die Anmeldung des Unternehmensgegenstandes ist nur bei der Europäischen wirtschaftlichen Interessenvereinigung und Juristischen Personen zwingend.
+Nummer  
+der Ein-  
+tragung
 
-2) Mitglieder sind hier solche der Europäischen wirtschaftlichen Interessenvereinigung.
+a) Firma
+
+<!-- -->
+
+b) Sitz, Niederlassung,  
+inländische Geschäftsanschrift  
+Zweigniederlassungen
+
+<!-- -->
+
+c) Gegenstand des Unternehmens<span id="FnR.FnA1-BJNR705150937BJNE008801310_01"></span><a href="#FnA1-BJNR705150937BJNE008801310_01" class="FnR">1)</a></sup>
+
+<!-- -->
+
+a) Allgemeine Ver-  
+tretungsregelung
+
+<!-- -->
+
+b) Inhaber, persönlich  
+haftende Gesell-  
+schafter, Geschäfts-  
+führer, Vorstand, Ver-  
+tretungsberechtigte  
+und besondere Ver-  
+tretungsbefugnis
+
+Prokura
+
+a) Rechtsform,  
+Beginn und  
+Satzung
+
+b) Sonstige Rechts-  
+verhältnisse
+
+<!-- -->
+
+c) Kommanditisten,  
+Mitglieder<span id="FnR.FnA2-BJNR705150937BJNE008801310_02"></span><a href="#FnA2-BJNR705150937BJNE008801310_02" class="FnR">2)</a></sup>
+
+<!-- -->
+
+a) Tag  
+der Ein-  
+tragung
+
+<!-- -->
+
+b) Bemer-  
+kungen
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+\_\_\_\_\_\_\_\_\_\_\_\_  
+
+<span id="FnA1-BJNR705150937BJNE008801310_01"></span><a href="#FnR.FnA1-BJNR705150937BJNE008801310_01" class="Footnote">1)</a>  
+Die Anmeldung des Unternehmensgegenstandes ist nur bei der Europäischen wirtschaftlichen Interessenvereinigung und juristischen Personen zwingend.
+
+<!-- -->
+
+<span id="FnA2-BJNR705150937BJNE008801310_02"></span><a href="#FnR.FnA2-BJNR705150937BJNE008801310_02" class="Footnote">2)</a>  
+Mitglieder sind hier solche der Europäischen wirtschaftlichen Interessenvereinigung.
 
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
@@ -639,45 +793,231 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Re
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
+  
 
-    Handelsregister des Amtsgerichts       Abteilung B       Nummer der Firma: HR B
+Handelsregister des Amtsgerichts
 
-    -------------------------------------------------------------------------------
-           I a) Firma     I       I a) Allgemeine I      I a) Rechtsform, I a) Tag
-           I b) Sitz,     I       I    Vertretungs-      I    Beginn,     I    der
-           I    Nieder-   I       I    regelung   I      I    Satzung     I    Ein-
-           I    lassung,          I b) Vorstand,  I      I    oder Gesell-     tra-   
-           I    inländische       I    Leitungs-  I      I    schafts-    I    gung
-           I    Geschäfts-  Grund I    organ,     I      I    vertrag     I b) Bem-
-           I    anschrift,  oder  I    geschäfts- I Pro- I b) Sonstige    I    er-      I    
-           I    empfangs- I Stamm-     führende   I kura I    Rechts-     I    kun-
-           I    berechtigte kapital    Direktoren,I      I    verhältnisse     gen
-           I    Person    I       I    persönlich I      I                I          
-    Nummer I    Zweig-    I       I    haftende   I      I                I
-    der    I    nieder-   I       I    Gesell-    I      I                I
-    Ein-   I    lassungen I       I    schafter,  I      I                I
-    tragung  c) Gegenstand        I    Geschäfts- I      I                I
-           I    des Unter-        I    führer,    I      I                I
-           I    nehmens   I       I    Vertretungs-      I                I
-           I              I       I    berechtigte       I                I
-           I              I       I    und besondere     I                I
-           I              I       I    Vertretungs-      I                I
-           I              I       I    befugnis          I                I
+Abteilung B
 
-    -------------------------------------------------------------------------------
-      1    I      2       I   3   I       4       I  5   I       6        I    7
-    -------------------------------------------------------------------------------
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I
-           I              I       I               I      I                I  
+Nummer der Firma: HR B
 
------  
+Nummer  
+der Ein-  
+tragung
+
+a) Firma
+
+<!-- -->
+
+b) Sitz, Nieder-  
+lassung,  
+inländische Geschäftsanschrift  
+empfangsberechtigte Person,  
+Zweignieder-  
+lassungen
+
+<!-- -->
+
+c) Gegenstand des Unternehmens
+
+Grund-  
+oder  
+Stamm  
+kapital
+
+a) Allgemeine Ver-  
+tretungsregelung
+
+<!-- -->
+
+b) Vorstand,  
+Leitungsorgan,  
+geschäftsführende Direktoren,  
+persönlich haftende Gesell-  
+schafter, Geschäfts-  
+führer, Vertretungs-  
+berechtigte und  
+besondere Ver-  
+tretungsbefugnis
+
+Prokura
+
+a) Rechtsform,  
+Beginn, Satzung  
+oder Gesell-  
+schaftsvertrag
+
+<!-- -->
+
+b) Sonstige Rechts-  
+verhältnisse
+
+<!-- -->
+
+a) Tag  
+der Ein-  
+tragung
+
+<!-- -->
+
+b) Bemer-  
+kungen
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+\_\_\_\_\_\_\_\_\_\_\_  
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
 # Anlage 6 – (zu § 50 Abs. 1)
