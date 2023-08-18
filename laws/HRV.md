@@ -811,8 +811,8 @@ a) Firma
 
 b) Sitz, Nieder-  
 lassung,  
-inländische Geschäftsanschrift  
-empfangsberechtigte Person,  
+inländische Geschäftsanschrift,  
+empfangsberechtigte Person  
 Zweignieder-  
 lassungen
 
