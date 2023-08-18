@@ -545,6 +545,8 @@ Die Fahrzeugbreite ist nach der ISO-Norm 612-1978, Definition Nummer 6.2 zu ermi
 
 19. Schläuche der Reifendrucküberwachungssysteme, sofern sie an den beiden Seiten des Fahrzeugs höchstens 70 mm über die größte Breite des Fahrzeugs hinausragen.
 
+Gemessen wird bei geschlossenen Türen und Fenstern und bei Geradeausstellung der Räder.
+
 <table width="100%" style="border: none;"><colgroup><col style="width: 73%" /><col style="width: 27%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">(2) Bei Kraftfahrzeugen, Fahrzeugkombinationen und Anhängern einschließlich mitgeführter austauschbarer Ladungsträger (§ 42 Absatz 3) darf die höchstzulässige Höhe über alles folgendes Maß nicht überschreiten:</td><td style="text-align: right;">4,00 m.<br />
 </td></tr></tbody></table>
 
@@ -864,6 +866,8 @@ Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförde
 (2) Land- oder forstwirtschaftliche Zugmaschinen, die hinsichtlich ihrer Merkmale den Fahrzeugen der Klassen T1, T2, T3, T4.1, T4.2, T4.3, C1, C2, C3, C4.1, C4.2 und C4.3 gemäß Anlage XXIX entsprechen, können mit Schutzaufbauten gegen herabfallende Gegenstände ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
 (3) Zum Nachweis der Erfüllung der in Absatz 1 und 2 genannten Anforderungen werden Prüfberichte nach Artikel 9 der Durchführungsverordnung (EU) 2015/504 der Kommission vom 11. März 2015 zur Durchführung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Verwaltungsvorschriften für die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 85 vom 28.3.2015, S. 1; L 300 vom 8.11.2016, S. 26), die zuletzt durch die Durchführungsverordnung (EU) 2018/986 (ABl. L 182 vom 18.7.2018, S. 16) geändert worden ist, anerkannt. Alternativ werden auch Prüfberichte nach Maßgabe von Anhang II der Delegierten Verordnung (EU) Nr. 1322/2014 der Kommission vom 19. September 2014 zur Ergänzung und Änderung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Bauweise von Fahrzeugen und der allgemeinen Anforderungen im Zusammenhang mit der Typgenehmigung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 364 vom 18.12.2014, S. 1; L 300 vom 8.11.2016, S. 29; L 209 vom 12.8.2017, S. 59; L 13 vom 18.1.2018, S. 27), die zuletzt durch die Delegierte Verordnung (EU) 2018/830 (ABl. L 140 vom 6.6.2018, S. 15) geändert worden ist, anerkannt.
+
+(+++ § 32e: Zur Anwendung vgl. § 72 Abs. 3 +++)
 
 # § 33 – Schleppen von Fahrzeugen
 
@@ -1348,7 +1352,7 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (16) Zum Nachweis der Erfüllung der in Absatz 1 genannten Anforderungen werden Prüfberichte nach Artikel 9 der Durchführungsverordnung (EU) 2015/504 anerkannt. Alternativ werden auch Prüfberichte nach Maßgabe von Anhang II der Delegierten Verordnung (EU) Nr. 1322/2014 anerkannt.
 
-(+++ § 35a Abs. 4a iVm Abs. 4b: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1b Satz 2 +++)
+(+++ § 35a: Zur Anwendung vgl. § 72 Abs. 4 +++)
 
 # § 35b – Einrichtungen zum sicheren Führen der Fahrzeuge
 
@@ -1914,9 +1918,9 @@ stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilo
 
 (9) Technischer Dienst und Prüfstelle im Sinne der genannten Regelwerke ist die Abgasprüfstelle der TÜV-Nord Mobilität GmbH & Co. KG, Adlerstraße 7, 45307 Essen. Es können auch andere Technische Prüfstellen für den Kraftfahrzeugverkehr oder von der obersten Landesbehörde anerkannte Stellen prüfen, sofern diese über die erforderlichen eigenen Mess- und Prüfeinrichtungen verfügen. Der Technische Dienst ist über alle Prüfungen zu unterrichten. In Zweifelsfällen ist er zu beteiligen; bei allen Fragen der Anwendung ist er federführend. Die Prüfstellen haben die verwendeten Mess- und Prüfeinrichtungen hinsichtlich der Messergebnisse und der Messgenauigkeit mit dem Technischen Dienst regelmäßig abzugleichen.
 
-(+++ § 47 Abs. 1a: Zur Anwendung vgl. § 72 Abs. 2 Nr. 2 +++)  
-(+++ § 47 Abs. 6a: Zur Anwendung vgl. § 72 Abs. 2 Nr. 3 +++)  
-(+++ § 47 Abs. 8c: Zur Anwendung vgl. § 72 Abs. 2 Nr. 4 +++)  
+(+++ § 47 Abs. 1a: Zur Anwendung vgl. § 72 Abs. 6 +++)  
+(+++ § 47 Abs. 6b: Zur Anwendung vgl. § 72 Abs. 7 +++)  
+(+++ § 47 Abs. 8c: Zur Anwendung vgl. § 72 Abs. 8 +++)  
 § 47 Abs. 1 Kursivdruck: Müsste richtig lauten "Richtlinie 2006/96/EG"
 
 # § 47a – (weggefallen)
@@ -2509,8 +2513,6 @@ die vorgeschriebenen sowie vorhandenen gemäß Anhang III Nummer 2.1.1 der im An
 (3) Die Absätze 1 bis 2 gelten nicht, wenn das Fahrzeug an Stelle eines vorgeschriebenen Fahrtschreibers mit einem Kontrollgerät im Sinne des Anhangs I oder des Anhangs I B der Verordnung (EWG) Nr. 3821/85 ausgerüstet ist. In diesem Fall ist das Kontrollgerät nach Maßgabe des Absatzes 2 zu betreiben; bei Verwendung eines Kontrollgerätes nach Anhang I B der Verordnung (EWG) Nr. 3821/85 muss die Fahrerkarte nicht gesteckt werden. Im Falle des Einsatzes von Kraftomnibussen im Linienverkehr bis 50 Kilometer kann anstelle des Namens der Führer das amtliche Kennzeichen oder die Betriebsnummer des jeweiligen Fahrzeugs auf den Ausdrucken und Schaublättern eingetragen werden. Die Daten des Massespeichers sind vom Kraftfahrzeughalter alle drei Monate herunterzuladen; § 2 Absatz 5 der Fahrpersonalverordnung gilt entsprechend. Wird bei Fahrzeugen zur Güterbeförderung mit einer zulässigen Gesamtmasse von mindestens 12 t oder bei Fahrzeugen zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz und einer zulässigen Gesamtmasse von mehr als 10 t, die ab dem 1. Januar 1996 erstmals zum Verkehr zugelassen wurden und bei denen die Übermittlung der Signale an das Kontrollgerät ausschließlich elektrisch erfolgt, das Kontrollgerät ausgetauscht, so muss dieses durch ein Gerät nach Anhang I B der Verordnung (EWG) Nr. 3821/85 ersetzt werden. Ein Austausch des Kontrollgerätes im Sinne des Satzes 5 liegt nur dann vor, wenn das gesamte System bestehend aus Registriereinheit und Geschwindigkeitsgeber getauscht wird.
 
 (4) Weitergehende Anforderungen in Sondervorschriften bleiben unberührt.
-
-(+++ § 57a Abs. 1: Zur Anwendung vgl. § 72 Abs. 2 Nr. 6a F. 10.5.2012 +++)
 
 # § 57b – Prüfung der Fahrtenschreiber und Kontrollgeräte
 
@@ -5029,7 +5031,6 @@ Abweichungen nach 4.2:
 
 19) Ausstattung erforderlich für Prüfstellen der Technischen Prüfstellen.
 
-(+++ Anlage VIIId: Zur Anwendung vgl. § 72 Abs. 2 Nr. 9 +++)  
 Anlage VIIId Nr. 4.1: IdF d. Art. 1 Nr. 13 Buchst. f V v. 10.5.2012 I 1086 mWv 1.6.2012; bzgl. Kursivdruck - Änderungsanweisung hätte ggf. richtig lauten müssen "In Nummer 4.1 wird die Angabe "Nummern 5, 6, 11, 13 bis 16 und 18 bis 25" durch die Angabe "Nummern 5, 6, 10, 12 bis 15 und 17 bis 26" ersetzt."
 
 # Anlage VIIIe – (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
@@ -5168,8 +5169,6 @@ sowohl die Daten als auch deren Übermittlung gegen Missbrauch geschützt sind.
 Erläuterungen
 
 Erläuterungen zur einheitlichen Anwendung der Vorschriften werden in einer Richtlinie vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gegeben.
-
-(+++ Anlage VIIIe: Zur Anwendung vgl. § 72 Abs. 2 Nr. 10 +++)
 
 # Anlage IX – (zu § 29 Absatz 2, 3, 5 bis 8)Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
 
@@ -13667,7 +13666,8 @@ Anmerkungen: Das Piktogramm ist rot. Sitz, Kindersitz und Umrandung des Airbags 
 
 # Anlage XXIX – (zu § 20 Absatz 3a Satz 4)EG-Fahrzeugklassen
 
-(Fundstelle: BGBl. I 2012, 931 - 935)
+(Fundstelle: BGBl. I 2012, 931 - 935;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 In den nachstehenden Begriffsbestimmungen ist unter „zulässiger Gesamtmasse“ die vom Hersteller angegebene „technisch zulässige Gesamtmasse in beladenem Zustand“ zu verstehen.
 
