@@ -313,7 +313,7 @@ b) Stand des Kilometerzählers am Anfang und am Ende des Berichtszeitraumes,
 
 c) Art des beförderten Gutes,
 
-d) bei der Beförderung gefährlicher Güter die Gefahrklasse gemäß der Richtlinie 94/55/EG des Rates vom 21. November 1994 und zusätzlich die Angabe, ob die Güter dem § 7 der Gefahrgutverordnung Straße unterliegen,
+d) bei der Beförderung gefährlicher Güter die Gefahrklasse gemäß der Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom 30.9.2008, S. 13), die zuletzt durch die Delegierte Richtlinie (EU) 2022/2407 der Kommission vom 20. September 2022 zur Anpassung der Anhänge der Richtlinie 2008/68/ EG des Europäischen Parlaments und des Rates an den wissenschaftlichen und technischen Fortschritt (ABl. L 317 vom 9.12.2022, S. 64) geändert worden ist,
 
 e) Gewicht des Gutes (Bruttogewicht in 100 Kilogramm je Güterart),
 
@@ -327,7 +327,9 @@ i) Frachtart,
 
 j) Auslastungsgrad des Rauminhalts,
 
-k) im Transit durchquerte Länder.
+k) im Transit durchquerte Länder und
+
+l) Begründung bei Nichteinsatz des Fahrzeugs.
 
 (2) Berichtszeitraum der Erhebung ist die Halbwoche von Sonntag 22.00 Uhr bis Mittwoch 24.00 Uhr und von Donnerstag 0.00 Uhr bis Sonntag 22.00 Uhr.
 
@@ -435,13 +437,13 @@ Für die Durchführung der Erhebung nach § 1 Nr. 6 übermitteln das Luftfahrt-B
 
 (1) Die Erhebung nach § 1 Nr. 7 wird durchgeführt bei Unternehmen, die als Betriebsführer oder beauftragte Beförderer öffentlichen Personennahverkehr mit Eisenbahnen oder Straßenbahnen (Schienennahverkehr) oder Personennah- oder Personenfernverkehr mit Omnibussen betreiben, und zwar bei
 
-1. Unternehmen, die mindestens 250.000 Fahrgäste im Jahr befördert haben, nach § 17 Abs. 1,
+1. Unternehmen, die mindestens 250.000 Fahrgäste im Jahr befördert haben, sowie allen Unternehmen mit gewerblichem Schienennahverkehr nach § 17 Abs. 1,
 
 2. höchstens 2.500 Unternehmen, die weniger als 250.000 Fahrgäste im Jahr befördert haben, nach § 17 Abs. 2,
 
 3. allen Unternehmen nach § 17 Abs. 3.
 
-Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt sich nach den Ergebnissen der Erhebung nach Satz 1 Nr. 3.
+Ausgenommen von der Erhebung sind Unternehmen, die ausschließlich freigestellten Schülerverkehr gemäß § 1 Satz 1 Nummer 4 Buchstabe d der Freistellungs-Verordnung betreiben. Für Unternehmen, die ausschließlich Omnibusverkehr betreiben und die nach einer Erhebung gemäß § 17 Absatz 3 neugegründet werden, wird das Erreichen der Schwellenwerte gemäß Satz 1 Nummer 1 und 2 durch eine Vorbefragung ermittelt. Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt sich nach den Ergebnissen der Erhebung nach Satz 1 Nr. 3.
 
 (2) Die Erhebung nach § 1 Nr. 8 wird durchgeführt bei Unternehmen, die Schienen-Personenfernverkehr betreiben.
 
@@ -451,9 +453,11 @@ Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt sich nach
 
 2. Unternehmen, die im Vorjahr eine Beförderungsleistung von weniger als 10 Millionen Tonnenkilometer insgesamt oder 1 Million Tonnenkilometer im kombinierten Verkehr erbracht haben, nach § 19 Abs. 2 und 3.
 
-(4) Die Erhebungen nach § 1 Nr. 10 und 11 werden durchgeführt bei Unternehmen, die Schienenstrecken des öffentlichen Verkehrs betreiben.
+(4) Die Erhebung nach § 1 Nummer 10 wird durchgeführt bei Unternehmen, die Schienenstrecken des öffentlichen Verkehrs betreiben.
 
-(5) Die Erhebung nach § 1 Nr. 12 wird durchgeführt bei Unternehmen, die Eisenbahnstrecken des öffentlichen Verkehrs betreiben.
+(5) Die Erhebung nach § 1 Nummer 11 wird durchgeführt bei Unternehmen, die Schienenstrecken des öffentlichen Verkehrs betreiben, soweit sie vom Geltungsbereich der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (ABl. L 138 vom 26.5.2016, S. 102; L 59 vom 7.3.2017, S. 41; L 110 vom 30.4.2018, S. 141; L 317 vom 9.12.2019, S. 114), die zuletzt durch die Verordnung (EU) 2020/1530 des Europäischen Parlaments und des Rates vom 21. Oktober 2020 zur Änderung der Richtlinie (EU) 2016/798 hinsichtlich der Anwendung von Vorschriften für die Eisenbahnsicherheit und -interoperabilität in der festen Ärmelkanal-Verbindung (ABl. L 352 vom 22.10.2020, S. 1) geändert worden ist, ausgenommen sind.
+
+(6) Die Erhebung nach § 1 Nr. 12 wird durchgeführt bei Unternehmen, die Eisenbahnstrecken des öffentlichen Verkehrs betreiben.
 
 # § 17 – Personenverkehrsstatistik
 
@@ -583,7 +587,7 @@ Die Erhebungsmerkmale werden nach dem Stand vom 31. Dezember des Berichtsjahres 
 
 # § 21 – Schienenverkehrsunfallstatistik
 
-Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Abs. 4 erfasst jährlich für Verkehrsunfälle auf Schienenstrecken des öffentlichen Verkehrs, an denen mindestens ein bewegtes - beim Zusammenprall auch haltendes - Schienenfahrzeug im Fahrbetrieb beteiligt war, folgende Erhebungsmerkmale:
+Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Absatz 5 erfasst jährlich für Verkehrsunfälle auf Schienenstrecken des öffentlichen Verkehrs, an denen mindestens ein bewegtes - beim Zusammenprall auch haltendes - Schienenfahrzeug im Fahrbetrieb beteiligt war, folgende Erhebungsmerkmale:
 
 1. Zahl der Unfälle mit Personen- oder Sachschaden und Zahl der Verunglückten nach Art des Schienenverkehrsmittels und nach der Unfallart; Zahl der Verunglückten auch nach der Verletzungsschwere und mit Todesfolge (Getötete), nach dem Personenkreis und nach der Art der Verkehrsbeteiligung,
 
@@ -635,7 +639,7 @@ Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
 
 9. amtliche Kennzeichen der Fahrzeuge zur Güterbeförderung, ausgenommen Personenkraftwagen, für die Erhebungen nach § 1 Nr. 3 und 4.
 
-10. Datum des Fluges für die Erhebung nach § 1 Nr. 5.
+10. (weggefallen)
 
 # § 26 – Auskunftspflicht
 
@@ -681,7 +685,7 @@ Werden inländische Verkehre von Unternehmen durchgeführt, die ihren Sitz im Au
 
 Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nur mit einem unverhältnismäßig großen Aufwand erreichbar, so können die statistischen Ämter der Länder und das Statistische Bundesamt die Betreiber der in den Häfen vorhandenen Umschlagseinrichtungen oder der Einrichtungen zur Personenabfertigung sowie die Betreiber der auf den Flugplätzen vorhandenen Einrichtungen zur Personen- oder Güterabfertigung zu den in Satz 1 genannten Aufgaben verpflichten. Die in den Sätzen 1 und 2 genannten Stellen können von den dort genannten Pflichten entbunden werden, falls das jeweils für die Erhebung zuständige statistische Amt mit den Auskunftspflichtigen eine Sonderregelung über die Datenübermittlung vereinbart hat.
 
-(4) Die Datenübermittlung erfolgt in elektronischer Form, soweit dies für die beteiligte Stelle zumutbar ist.
+(4) (weggefallen)
 
 # § 27 – Durchführung
 

@@ -527,7 +527,9 @@ b) die Art und Weise des Unterrichts und der Prüfungen und die Ausstellung, Auf
 
 4. die Überwachung der anerkannten Ausbildungsstätten und das Überwachungsverfahren;
 
-5. die Fahrerqualifizierungsnachweise.
+5. die Fahrerqualifizierungsnachweise;
+
+6. Ausnahmen von diesem Gesetz oder den auf Grund der Nummern 1 bis 5 erlassenen Rechtsverordnungen, soweit die Ausnahmen zur Durchführung von Rechtsakten der Europäischen Union zur Bewältigung krisenhafter Situationen erforderlich sind.
 
 (2) Die Industrie- und Handelskammern regeln das Prüfungsverfahren durch Satzung, die der Genehmigung der zuständigen obersten Landesbehörde bedarf.
 

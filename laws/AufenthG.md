@@ -1681,9 +1681,11 @@ Die Zustimmung kann widerrufen und die Arbeitserlaubnis zum Zweck der Saisonbesc
 
 4. Fälle, in denen Ausländern, die im Besitz einer Duldung sind, oder anderen Ausländern, die keinen Aufenthaltstitel besitzen, nach § 4a Absatz 4 eine Beschäftigung erlaubt werden kann,
 
-5. die Voraussetzungen und das Verfahren zur Erteilung einer Arbeitserlaubnis zum Zweck der Saisonbeschäftigung an Staatsangehörige der in Anhang II zu der Verordnung (EG) Nr. 539/2001 des Rates vom 15. März 2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Außengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind (ABl. L 81 vom 21.3.2001, S. 1), genannten Staaten,
+5. die Voraussetzungen und das Verfahren zur Erteilung einer Arbeitserlaubnis der Bundesagentur für Arbeit an Staatsangehörige der in Anhang II zu der Verordnung (EG) Nr. 539/2001 des Rates vom 15. März 2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Außengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind (ABl. L 81 vom 21.3.2001, S. 1), genannten Staaten,
 
-6. Berufe, in denen für Angehörige bestimmter Staaten die Erteilung einer Blauen Karte EU zu versagen ist, weil im Herkunftsland ein Mangel an qualifizierten Arbeitnehmern in diesen Berufsgruppen besteht.
+6. Berufe, in denen für Angehörige bestimmter Staaten die Erteilung einer Blauen Karte EU zu versagen ist, weil im Herkunftsland ein Mangel an qualifizierten Arbeitnehmern in diesen Berufsgruppen besteht,
+
+7. Fälle, in denen ein Arbeitgeber, der Rechtspflichten in Bezug auf die Beschäftigung, insbesondere arbeits-, sozialversicherungs- oder steuerrechtliche Pflichten, verletzt hat, von der Möglichkeit ausgeschlossen werden kann, dass die Bundesagentur für Arbeit eine Zustimmung oder Arbeitserlaubnis für die Beschäftigung eines Ausländers bei diesem Arbeitgeber erteilt.
 
 (3) Das Bundesministerium für Arbeit und Soziales kann der Bundesagentur für Arbeit zur Durchführung der Bestimmungen dieses Gesetzes und der hierzu erlassenen Rechtsverordnungen sowie der von der Europäischen Union erlassenen Bestimmungen über den Zugang zum Arbeitsmarkt und der zwischenstaatlichen Vereinbarungen über die Beschäftigung von Arbeitnehmern Weisungen erteilen.
 
@@ -4087,7 +4089,7 @@ c) Ausländerbehörden und Auslandsvertretungen zu verpflichten, der für die An
 
 d) anerkannte Forschungseinrichtungen zu verpflichten, den Wegfall von Voraussetzungen für die Anerkennung, den Wegfall von Voraussetzungen für Aufnahmevereinbarungen, die abgeschlossen worden sind, oder die Änderung sonstiger bedeutsamer Umstände mitzuteilen,
 
-e) beim Bundesamt für Migration und Flüchtlinge einen Beirat für Forschungsmigration einzurichten, der es bei der Anerkennung von Forschungseinrichtungen unterstützt und die Anwendung des § 18d beobachtet und bewertet,
+e) beim Bundesamt für Migration und Flüchtlinge einen Beirat für Forschungsmigration und Fachkräfteeinwanderung einzurichten, der es bei der Anerkennung von Forschungseinrichtungen unterstützt und die Anwendung des § 18d beobachtet und bewertet,
 
 f) den Zeitpunkt des Beginns der Bearbeitung von Anträgen auf Anerkennung von Forschungseinrichtungen,
 
@@ -4347,7 +4349,7 @@ Die Aufenthaltserlaubnis nach Satz 1 soll versagt werden, wenn der Ausländer wi
 
 # § 105a – Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4 und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 # § 105b – Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 
