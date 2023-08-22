@@ -181,7 +181,7 @@ b) der Delegierten Verordnung (EU) 2022/126 und der vorliegenden Verordnung und
 
 Die Bundesanstalt hat die Entscheidung über den Antrag nach Satz 1 mit der Auflage zu versehen, dass das genehmigte operationelle Programm, das zu diesem Zeitpunkt noch nicht genehmigt sein muss, diese Investition zu enthalten hat.
 
-§ 9 Abs. 3 Satz 1 Nummer 1 Kursivdruck: Wegen offesichtlicher Unrichtigkeit wird die Kurzbezeichnung "GAP-InVeKoS-Verordnung" durch die amtliche Kurzbezeichnung "GAP-InVeKoS-Verordnung" ersetzt
+§ 9 Abs. 3 Nummer 1 Kursivdruck: Wegen offesichtlicher Unrichtigkeit wird die Angabe "GAP-InVeKoS-Verordnung" durch die amtliche Kurzbezeichnung "GAPInVeKoS-Verordnung" ersetzt
 
 # § 10 – Gewährung und Zahlung einer Beihilfe
 
@@ -297,7 +297,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtigen
 
 (4) Die Bundesanstalt hat alle Prüfschritte, die Ergebnisse der Verwaltungskontrollen und die bei Unregelmäßigkeiten getroffenen Maßnahmen zu protokollieren.
 
-§ 18 Abs. 3 Nummer 6 Kursivdruck: Wegen offesichtlicher Unrichtigkeit wird die Kurzbezeichnung "GAP-InVeKoS-Verordnung" durch die amtliche Kurzbezeichnung "GAP-InVeKoS-Verordnung" ersetzt
+§ 18 Abs. 3 Nummer 6 Kursivdruck: Wegen offesichtlicher Unrichtigkeit wird die Angabe "GAP-InVeKoS-Verordnung" durch die amtliche Kurzbezeichnung "GAPInVeKoS-Verordnung" ersetzt
 
 # § 19 – Vor-Ort-Kontrollen
 

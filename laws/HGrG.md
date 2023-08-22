@@ -533,7 +533,7 @@ Die Vorschriften dieses Teils gelten einheitlich und unmittelbar für den Bund u
 
 # § 49b – Finanzstatistische Berichtspflichten
 
-Bund und Länder stellen unabhängig von der Art ihrer Haushaltswirtschaft sicher, dass zur Erfüllung finanzstatistischer Anforderungen einschließlich der der Volkswirtschaftlichen Gesamtrechnungen sowie für sonstige Berichtspflichten die Plan- und IstDaten weiterhin nach dem Gruppierungs- und Funktionenplan mindestens auf Ebene der dreistelligen Gliederung bereitgestellt werden.
+Bund und Länder stellen unabhängig von der Art ihrer Haushaltswirtschaft sicher, dass zur Erfüllung finanzstatistischer Anforderungen einschließlich der der Volkswirtschaftlichen Gesamtrechnungen sowie für sonstige Berichtspflichten die Plan- und Ist-Daten weiterhin nach dem Gruppierungs- und Funktionenplan mindestens auf Ebene der dreistelligen Gliederung bereitgestellt werden.
 
 # § 50 – Verfahren bei der Finanzplanung
 
