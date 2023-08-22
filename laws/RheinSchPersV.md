@@ -75,7 +75,7 @@ Fahrzeugzusammenstellungen
 
 20. „gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
 
-21. „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimm körpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
+21. „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
 
 22. „Großverband“ ein Schubverband, bei dem das Produkt aus Gesamtlänge und Gesamtbreite der geschobenen Fahrzeuge 7 000 m
 

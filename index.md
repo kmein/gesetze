@@ -2814,7 +2814,6 @@
 - [IAEOHiLÜbk](laws/IAEOHiLÜbk.md) Übereinkommen über Hilfeleistung bei nuklearen Unfällen oder radiologischen Notfällen
 - [IAmEntwBkÜbk](laws/IAmEntwBkÜbk.md) Übereinkommen zur Errichtung der Interamerikanischen Entwicklungsbank (Neufassung)
 - [IAmEntwBkÜbkG](laws/IAmEntwBkÜbkG.md) Gesetz zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen Entwicklungsbank
-- [IAmInvGesÜbk USA/ua](laws/IAmInvGesÜbk_USA_ua.md) Übereinkommen zur Errichtung der Interamerikanischen Investitionsgesellschaft
 - [IAmInvGesÜbkUSA/uaG](laws/IAmInvGesÜbkUSA_uaG.md) Gesetz zu dem Übereinkommen vom 19. November 1984 zur Errichtung der Interamerikanischen Investitionsgesellschaft
 - [IAOÜbk 118](laws/IAOÜbk_118.md) Übereinkommen Nr. 118 (der Internationalen Arbeitsorganisation) über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit
 - [IAOÜbk 121](laws/IAOÜbk_121.md) Übereinkommen Nr. 121 (der internationalen Arbeitsorganisation) über Leistungen bei Arbeitsunfällen und Berufskrankheiten
@@ -6664,7 +6663,6 @@
 - [21. BImSchV](laws/21._BImSchV.md) Einundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [21. BtMÄndV](laws/21._BtMÄndV.md) Einundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften
 - [21. RAG](laws/21._RAG.md) Einundzwanzigstes Gesetz über die Anpassung der Renten aus der gesetzlichen Rentenversicherung sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte
-- [23. SOLAS-ÄndV](laws/23._SOLAS-ÄndV.md) Dreiundzwanzigste Verordnung über die Änderung des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See und des Protokolls von 1988 zu diesem Übereinkommen
 - [24. BImSchV](laws/24._BImSchV.md) Vierundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [24. UhAnpV](laws/24._UhAnpV.md) Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz
 - [25. BImSchV](laws/25._BImSchV.md) Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
