@@ -3824,7 +3824,6 @@ Die zuständige oberste Landesbehörde oder die von ihr bestimmten oder nach Lan
 4.4  
 Die nach Nummer 4.3 Satz 3 zuständigen Stellen führen einen Nachweis über die durchgeführten Überprüfungen der Prüfstützpunkte und teilen die Ergebnisse, insbesondere Abweichungen von Nummer 3 der Anlage VIIId, den dort tätigen Technischen Prüfstellen und Überwachungsorganisationen mit.
 
-(+++ Anlage VIII: Zur Anwendung vgl. § 72 Abs. 2 Nr. 7 +++)  
 Anlage VIII Nr. 2.6 Satz 2 Kursivdruck: Änderungsanweisung d. Art. 1 Nr. 9 Buchst. j DBuchst. aa V v. 10.5.2012 I 1086 mWv 1.6.2012 nicht durchführbar, sie müsste richtig lauten "In Satz 2 wird das Wort "Zulassungszeitraums" durch das Wort "Betriebszeitraums" ersetzt."
 
 # Anlage VIIIa – (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)Durchführung der Hauptuntersuchung
