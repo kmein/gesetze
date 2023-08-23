@@ -975,6 +975,7 @@
 - [BMJMaßgabenBerG](laws/BMJMaßgabenBerG.md) Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz
 - [BMJVBDGRuAnO](laws/BMJVBDGRuAnO.md) Anordnung über die Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamtinnen und Ruhestandsbeamten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 - [BMJVBhWidVertrAnO](laws/BMJVBhWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
+- [BMJVertrAnO](laws/BMJVertrAnO.md) Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMLErnAnO 1975](laws/BMLErnAnO_1975.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 - [BMLErnAnO 1990](laws/BMLErnAnO_1990.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 - [BMLErnAnO 1991](laws/BMLErnAnO_1991.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
