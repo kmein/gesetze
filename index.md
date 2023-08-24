@@ -4217,7 +4217,7 @@
 - [OEG](laws/OEG.md) Gesetz über die Entschädigung für Opfer von Gewalttaten
 - [ÖkoKennzG](laws/ÖkoKennzG.md) Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus
 - [ÖkoKennzV](laws/ÖkoKennzV.md) Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens
-- [ÖLG](laws/ÖLG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus
+- [ÖLG](laws/ÖLG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung in gemeinschaftlichen Verpflegungseinrichtungen
 - [ÖLG-DV](laws/ÖLG-DV.md) Verordnung zur Durchführung des Öko-Landbaugesetzes 1
 - [ÖlHaftÜbk](laws/ÖlHaftÜbk.md) Internationales Übereinkommen über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 - [ÖlHaftÜbk 1992](laws/ÖlHaftÜbk_1992.md) Internationales Übereinkommen von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
@@ -5590,6 +5590,7 @@
 - [Tier-LMÜV](laws/Tier-LMÜV.md) Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs 1 , 2
 - [TierErzHaVerbG](laws/TierErzHaVerbG.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen
 - [TierGesG](laws/TierGesG.md) Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen
+- [TierHaltKennzG](laws/TierHaltKennzG.md) Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**
 - [TierImpfStV 2006](laws/TierImpfStV_2006.md) Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz
 - [TiermedFAngAusbV](laws/TiermedFAngAusbV.md) Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten
 - [TierNebBußV](laws/TierNebBußV.md) Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002

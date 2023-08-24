@@ -59,6 +59,8 @@ Der Antrag auf Zulassung als Kontrollstelle ist schriftlich oder elektronisch be
 
 (4) Die Bundesanstalt ist befugt, die im Antrag nach den Absätzen 1 bis 3 enthaltenen personenbezogenen Daten zur Prüfung des Antrags sowie der Anforderungen nach Anlage 4 Teil A Nummer 4 und 5 zu erheben, zu speichern und zu verwenden.
 
+(+++ § 4 Abs. 4: Zur Geltung vgl. § 15 Abs. 6 +++) (+++ § 4 Abs. 4: Zur Geltung vgl. § 17 Abs. 6 +++) (+++ § 4 Abs. 4: Zur Geltung vgl. § 17 Abs. 7 +++)
+
 # § 5 – Ergänzungsantrag für die Kontrolle in gemeinschaftlichen Verpflegungseinrichtungen
 
 (1) Eine Kontrollstelle, die die Zulassung für den in der Anlage 1 bezeichneten Kontrollbereich B innehat oder beantragt, kann die Erweiterung der Zulassung für den ebenfalls in Anlage 1 bezeichneten Kontrollbereich B-AHV bei der Bundesanstalt beantragen.

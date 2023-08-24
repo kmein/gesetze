@@ -129,6 +129,10 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 8: Zur Anwendung vgl. § 35 +++)
 
+# § 8a – Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+
+Für die Erstellung und Übermittlung von Konzessionsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu Änderungen (Bekanntmachungen) gelten die Anforderung des § 10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU) 2019/1780 und des Datenaustauschstandards eForms einschließlich der Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über den Datenservice Öffentlicher Einkauf entsprechend.
+
 # § 9 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht unangemessen einschränken. Der Konzessionsgeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
@@ -215,13 +219,15 @@ Die Vergabeunterlagen umfassen jede Unterlage, die vom Konzessionsgeber erstellt
 
 Der Konzessionsgeber erteilt allen Unternehmen, die sich an dem Vergabeverfahren beteiligen, spätestens sechs Tage vor dem Schlusstermin für den Eingang der Angebote zusätzliche Auskünfte zu den Vergabeunterlagen, sofern die Unternehmen diese zusätzlichen Auskünfte rechtzeitig angefordert haben.
 
-# § 19 – Konzessionsbekanntmachung
+# § 19 – Konzessionsbekanntmachung; Ex-ante-Transparenz
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zu vergeben, in einer Konzessionsbekanntmachung mit.
 
-(2) Die Konzessionsbekanntmachung wird nach dem Muster gemäß Anhang XXI der Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11. November 2015 zur Einführung von Standardformularen für die Veröffentlichung von Vergabebekanntmachungen für öffentliche Aufträge und zur Aufhebung der Durchführungsverordnung (EU) Nr. 842/2011 in der jeweils geltenden Fassung erstellt (ABl. L 296 vom 12.11.2015, S. 1).
+(2) Die Konzessionsbekanntmachung wird nach den Vorgaben der Spalte 19 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 8a in der jeweils geltenden Fassung erstellt.
 
 (3) Der Konzessionsgeber benennt in der Konzessionsbekanntmachung die Vergabekammer, an die sich die Unternehmen zur Nachprüfung geltend gemachter Vergabeverstöße wenden können.
+
+(4) Die freiwillige Ex-ante-Transparenzbekanntmachung im Sinne des § 135 Absatz 3 Satz 1 Nummer 2 und Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen erfolgt nach den Vorgaben der Spalte 28 in Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 8a.
 
 # § 20 – Ausnahmen von der Konzessionsbekanntmachung
 
@@ -249,9 +255,9 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 # § 21 – Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession
 
-(1) Der Konzessionsgeber übermittelt spätestens 48 Tage nach der Vergabe einer Konzession eine Vergabebekanntmachung mit dem Ergebnis des Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen Union. Die Vergabebekanntmachung wird nach dem Muster gemäß Anhang XXII der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(1) Der Konzessionsgeber übermittelt spätestens 48 Tage nach der Vergabe einer Konzession eine Vergabebekanntmachung mit dem Ergebnis des Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf. Die Vergabebekanntmachung wird nach den Vorgaben der Spalte 32 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 8a erstellt.
 
-(2) Bekanntmachungen über Änderungen einer Konzession gemäß § 154 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen werden nach dem Muster gemäß Anhang XVII der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(2) Bekanntmachungen über Änderungen einer Konzession gemäß § 154 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen werden nach den Vorgaben der Spalte 40 in Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 8a erstellt.
 
 (+++ § 21 Abs. 1: Zur Anwendung vgl. § 22 Abs. 2 +++) (+++ § 21 Abs. 2: Zur Anwendung vgl. § 22 Abs. 4 +++)
 
@@ -261,13 +267,13 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (2) Auf Vergabebekanntmachungen ist § 21 Absatz 1 anzuwenden. Der Konzessionsgeber kann Vergabebekanntmachungen vierteljährlich zusammenfassen. In diesem Fall ist die Veröffentlichung der zusammengefassten Bekanntmachungen innerhalb von 48 Tagen nach dem Ende des Quartals zu veranlassen.
 
-(3) Für Bekanntmachungen nach den Absätzen 1 und 2 ist das Muster gemäß Anhang XX der Durchführungsverordnung (EU) 2015/1986 zu verwenden.
+(3) Die Bekanntmachung der Vorinformation nach Absatz 1 erfolgt nach den Vorgaben der Spalte 14 und die Vergabebekanntmachung nach Absatz 2 nach den Vorgaben der Spalte 35 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 jeweils in Verbindung mit § 8a.
 
 (4) Auf Bekanntmachungen über Änderungen einer Konzession gemäß § 154 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen ist § 21 Absatz 2 anzuwenden.
 
 # § 23 – Form und Modalitäten der Veröffentlichung von Bekanntmachungen
 
-(1) Konzessionsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu Änderungen einer Konzession (Bekanntmachungen) sind dem Amt für Veröffentlichungen der Europäischen Union mit elektronischen Mitteln zu übermitteln.
+(1) Der Konzessionsgeber muss den Tag der Absendung der Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen Union nachweisen können.
 
 (2) Als Nachweis der Veröffentlichung dient die Bestätigung des Eingangs der Bekanntmachung und der Veröffentlichung der übermittelten Information, die der Konzessionsgeber vom Amt für Veröffentlichungen der Europäischen Union erhält.
 
@@ -402,3 +408,11 @@ Auslandsdienststellen sind bei der Vergabe von Konzessionen nicht verpflichtet, 
 # § 36 – Fristberechnung
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L 124 vom 8.6.1971, S. 1).
+
+# § 37 – Anwendungsbestimmungen aus Anlass der Einführung von eForms
+
+Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung ergebenden Tages sind
+
+1. § 8a nicht anzuwenden und
+
+2. die §§ 19, 21, 22 und 23 in ihrer am 23. August 2023 geltenden Fassung weiter anzuwenden.

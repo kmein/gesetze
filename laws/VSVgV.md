@@ -15,6 +15,8 @@ Diese Verordnung gilt für die Vergabe von verteidigungs- oder sicherheitsspezif
 
 (2) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 und 45 anzuwenden. Im Übrigen ist Abschnitt 3 der Vergabe- und Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2) anzuwenden.
 
+(3) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen Liefer-, Dienstleistungs- und Bauaufträgen gelten bei der Erstellung und Übermittlung von Bekanntmachungen die Anforderungen des § 10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU) 2019/1780 und des Datenaustauschstandards eForms einschließlich der Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über den Datenservice Öffentlicher Einkauf entsprechend.
+
 # § 3 – Schätzung des Auftragswertes
 
 (1) Bei der Schätzung des Auftragswertes ist von der voraussichtlichen Gesamtvergütung ohne Umsatzsteuer für die vorgesehene Leistung einschließlich etwaiger Prämien oder Zahlungen an Bewerber oder Bieter auszugehen. Dabei sind alle Optionen und etwaige Vertragsverlängerungen zu berücksichtigen.
@@ -37,7 +39,7 @@ Diese Verordnung gilt für die Vergabe von verteidigungs- oder sicherheitsspezif
 
 (6) Der Wert einer Rahmenvereinbarung wird auf der Grundlage des geschätzten Gesamtwertes aller Einzelaufträge berechnet, die während deren Laufzeit geplant sind.
 
-(7) Besteht die beabsichtigte Beschaffung aus mehreren Losen, für die jeweils ein gesonderter Auftrag vergeben wird, ist bei der Schätzung der Wert aller Lose zugrunde zu legen. Bei Lieferaufträgen gilt dies nur für Lose über gleichartige Lieferungen. Bei Planungsleistungen gilt dies nur für Lose über gleichartige Leistungen. Erreicht oder überschreitet der Gesamtwert den maßgeblichen EU-Schwellenwert, gilt diese Verordnung für die Vergabe jedes Loses. Dies gilt nicht bis zu einer Summe der Werte dieser Lose von 20 Prozent des Gesamtwertes ohne Umsatzsteuer für
+(7) Besteht die beabsichtigte Beschaffung aus mehreren Losen, für die jeweils ein gesonderter Auftrag vergeben wird, ist bei der Schätzung der Wert aller Lose zugrunde zu legen. Bei Lieferaufträgen gilt dies nur für Lose über gleichartige Lieferungen. Erreicht oder überschreitet der Gesamtwert den maßgeblichen EU-Schwellenwert, gilt diese Verordnung für die Vergabe jedes Loses. Dies gilt nicht bis zu einer Summe der Werte dieser Lose von 20 Prozent des Gesamtwertes ohne Umsatzsteuer für
 
 1. Liefer- oder Dienstleistungsaufträge mit einem Wert unter 80 000 Euro und
 
@@ -363,17 +365,17 @@ Die Auftraggeber können in der Leistungsbeschreibung angeben, dass bei Gütern 
 
 aufzuschlüsseln.
 
-(2) Die Mitteilungen nach Absatz 1 werden unverzüglich nach der Entscheidung über die Genehmigung des Projekts, für das die Auftraggeber beabsichtigen, Aufträge zu erteilen oder Rahmenvereinbarungen abzuschließen, an die Europäische Kommission übermittelt oder im Beschafferprofil veröffentlicht. Die Bekanntmachung der Vorinformation wird nach dem Muster gemäß Anhang XIII der Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11. November 2015 zur Einführung von Standardformularen für die Veröffentlichung von Vergabebekanntmachungen für öffentliche Aufträge und zur Aufhebung der Durchführungsverordnung (EU) Nr. 842/2011 (ABl. L 296 vom 12.11.2015, S. 1) in der jeweils geltenden Fassung erstellt. Veröffentlicht ein Auftraggeber eine Vorinformation in seinem Beschafferprofil, so meldet er dies dem Amt für Veröffentlichungen der Europäischen Union unter Verwendung des Musters gemäß Anhang VIII der Durchführungsverordnung (EU) 2015/1986. Die Vorinformationen dürfen nicht in einem Beschafferprofil veröffentlicht werden, bevor die Ankündigung dieser Veröffentlichung an die Europäische Kommission abgesendet wurde. Das Datum der Absendung muss im Beschafferprofil angegeben werden.
+(2) Die Mitteilungen nach Absatz 1 werden unverzüglich nach der Entscheidung über die Genehmigung des Projekts, für das die Auftraggeber beabsichtigen, Aufträge zu erteilen oder Rahmenvereinbarungen abzuschließen, an die Europäische Kommission übermittelt oder im Beschafferprofil veröffentlicht. Die Bekanntmachung der Vorinformation wird nach den Vorgaben der Spalte 6 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3 in der jeweils geltenden Fassung erstellt. Veröffentlicht ein Auftraggeber eine Vorinformation in seinem Beschafferprofil, so meldet er dies dem Amt für Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf unter Verwendung der Vorgaben von Spalte 3 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3. Die Vorinformationen dürfen nicht in einem Beschafferprofil veröffentlicht werden, bevor die Ankündigung dieser Veröffentlichung an die Europäische Kommission abgesendet wurde. Das Datum der Absendung muss im Beschafferprofil angegeben werden.
 
 (3) Auftraggeber sind zur Veröffentlichung verpflichtet, wenn sie beabsichtigen, von der Möglichkeit einer Verkürzung der Fristen für den Eingang der Angebote gemäß § 20 Absatz 3 Satz 3 und 4 Gebrauch zu machen.
 
 (4) Die Absätze 1, 2 und 3 gelten nicht für das Verhandlungsverfahren ohne Teilnahmewettbewerb.
 
-# § 18 – Bekanntmachung von Vergabeverfahren
+# § 18 – Bekanntmachung von Vergabeverfahren; Ex-ante-Transparenz
 
 (1) Auftraggeber, die einen Auftrag oder eine Rahmenvereinbarung im Wege eines nicht offenen Verfahrens, eines Verhandlungsverfahrens mit Teilnahmewettbewerb oder eines wettbewerblichen Dialogs zu vergeben beabsichtigen, müssen dies durch eine Bekanntmachung mitteilen.
 
-(2) Die Bekanntmachung muss zumindest die in Anhang IV der Richtlinie 2009/81/EG aufgeführten Informationen enthalten. Sie wird nach dem Muster gemäß Anhang XIV der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(2) Die Bekanntmachung muss zumindest die in Anhang IV der Richtlinie 2009/81/EG aufgeführten Informationen enthalten. Sie wird nach den Vorgaben der Spalte 18 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3 erstellt.
 
 (3) Auftraggeber müssen in der Bekanntmachung insbesondere angeben:
 
@@ -385,9 +387,11 @@ aufzuschlüsseln.
 
 4. Namen und Anschrift der Vergabekammer, die für die Nachprüfung zuständig ist.
 
-(4) Die Bekanntmachung ist unter Beachtung der Muster und Modalitäten für die elektronische Übermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG oder auf anderem Wege unverzüglich dem Amt für amtliche Veröffentlichungen der Europäischen Union zu übermitteln. Im beschleunigten Verfahren nach § 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 muss die Bekanntmachung unter Beachtung der Muster und Modalitäten für die elektronische Übermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG mittels Telefax oder auf elektronischem Weg übermittelt werden. Die Auftraggeber müssen den Tag der Absendung nachweisen können.
+(4) Die Bekanntmachung ist unter Beachtung der Muster und Modalitäten für die elektronische Übermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG oder auf anderem Wege unverzüglich dem Amt für amtliche Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf zu übermitteln. Im beschleunigten Verfahren nach § 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 muss die Bekanntmachung unter Beachtung der Muster und Modalitäten für die elektronische Übermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG mittels Telefax oder auf elektronischem Weg übermittelt werden. Die Auftraggeber müssen den Tag der Absendung nachweisen können.
 
-(5) Die Bekanntmachung und ihr Inhalt dürfen auf nationaler Ebene oder in einem Beschafferprofil nicht vor dem Tag der Absendung an das Amt für amtliche Veröffentlichungen der Europäischen Union veröffentlicht werden. Die Veröffentlichung auf nationaler Ebene darf keine anderen Angaben enthalten als die Bekanntmachung an das Amt für amtliche Veröffentlichungen der Europäischen Union oder die Veröffentlichung im Beschafferprofil. Auf das Datum der Absendung der europaweiten Bekanntmachung an das Amt für amtliche Veröffentlichungen der Europäischen Union oder der Veröffentlichung im Beschafferprofil ist in der nationalen Bekanntmachung hinzuweisen.
+(5) Die Bekanntmachung und ihr Inhalt dürfen auf nationaler Ebene oder in einem Beschafferprofil nicht vor dem Tag der Absendung an das Amt für amtliche Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf veröffentlicht werden. Die Veröffentlichung auf nationaler Ebene darf keine anderen Angaben enthalten als die Bekanntmachung an das Amt für amtliche Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf oder die Veröffentlichung im Beschafferprofil. Auf das Datum der Absendung der europaweiten Bekanntmachung an das Amt für amtliche Veröffentlichungen der Europäischen Union über den Datenservice Öffentlicher Einkauf oder der Veröffentlichung im Beschafferprofil ist in der nationalen Bekanntmachung hinzuweisen.
+
+(6) Die freiwillige Ex-ante-Transparenzbekanntmachung im Sinne des § 135 Absatz 3 Satz 1 Nummer 2 und Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen erfolgt nach den Vorgaben der Spalte 27 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3.
 
 # § 19 – Informationsübermittlung
 
@@ -697,9 +701,11 @@ Gleichwertige Bescheinigungen von Stellen in anderen Mitgliedstaaten sind anzuer
 
 # § 35 – Bekanntmachung über die Auftragserteilung
 
-(1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags oder den Abschluss einer Rahmenvereinbarung innerhalb von 48 Tagen bekanntzumachen. Die Bekanntmachung über die Auftragserteilung wird nach dem Muster gemäß Anhang XV der Durchführungsverordnung (EU) 2015/1986 erstellt. Diese Pflicht besteht nicht für die Vergabe von Einzelaufträgen, die aufgrund einer Rahmenvereinbarung erfolgen.
+(1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags oder den Abschluss einer Rahmenvereinbarung innerhalb von 48 Tagen bekanntzumachen. Die Bekanntmachung über die Auftragserteilung wird nach den Vorgaben der Spalte 31 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3 erstellt. Diese Pflicht besteht nicht für die Vergabe von Einzelaufträgen, die aufgrund einer Rahmenvereinbarung erfolgen.
 
 (2) Die Auftraggeber müssen eine Auftragsvergabe oder den Abschluss einer Rahmenvereinbarung nicht bekannt geben, soweit deren Offenlegung den Gesetzesvollzug behindern, dies dem öffentlichen Interesse, insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderlaufen, die berechtigten geschäftlichen Interessen öffentlicher oder privater Unternehmen schädigen oder den lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
+
+(3) Auftragsänderungen im Sinne von § 132 Absatz 5 in Verbindung mit § 147 des Gesetzes gegen Wettbewerbsbeschränkungen sind entsprechend den Vorgaben der Spalte 38 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3 bekanntzumachen.
 
 # § 36 – Unterrichtung der Bewerber oder Bieter
 
@@ -739,7 +745,7 @@ Gleichwertige Bescheinigungen von Stellen in anderen Mitgliedstaaten sind anzuer
 
 # § 39 – Bekanntmachung
 
-(1) Der Auftragnehmer veröffentlicht seine Absicht, einen Unterauftrag zu vergeben, in Form einer Bekanntmachung. Die Bekanntmachung enthält zumindest die in Anhang V der Richtlinie 2009/81/EG aufgeführten Informationen sowie die Auswahlkriterien des § 40 Absatz 1. Für die Bekanntmachung ist die Einwilligung des Auftraggebers einzuholen. Die Bekanntmachung wird nach dem Muster gemäß Anhang XVI der Durchführungsverordnung (EU) 2015/1986 erstellt und wird gemäß § 18 Absatz 4 und 5 veröffentlicht.
+(1) Der Auftragnehmer veröffentlicht seine Absicht, einen Unterauftrag zu vergeben, in Form einer Bekanntmachung. Die Bekanntmachung enthält zumindest die in Anhang V der Richtlinie 2009/81/EG aufgeführten Informationen sowie die Auswahlkriterien des § 40 Absatz 1. Für die Bekanntmachung ist die Einwilligung des Auftraggebers einzuholen. Die Bekanntmachung wird nach den Vorgaben der Spalte 22 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 2 Absatz 3 erstellt und wird gemäß § 18 Absatz 4 und 5 veröffentlicht.
 
 (2) Eine Bekanntmachung über Unteraufträge ist nicht erforderlich, wenn in entsprechender Anwendung des § 12 eine Bekanntmachung verzichtbar ist, weil ein Verhandlungsverfahren ohne Teilnahmewettbewerb zulässig wäre.
 
@@ -810,6 +816,14 @@ es sei denn, dass daraus kein Interessenkonflikt für die Person entsteht oder s
 # § 44 – Übergangsbestimmung
 
 Vergabeverfahren, die vor dem Inkrafttreten der Verordnung begonnen haben, werden einschließlich der sich an diese anschließenden Nachprüfungsverfahren nach dem Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des Verfahrens galt.
+
+# § 44a – Anwendungsbestimmungen aus Anlass der Einführung von e-Forms
+
+Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung ergebenden Tages sind
+
+1. § 2 Absatz 3 nicht anzuwenden und
+
+2. die §§ 2, 17, 18, 35 und 39 in ihrer am 23. August 2023 geltenden Fassung weiter anzuwenden.
 
 # § 45 – Inkrafttreten
 
