@@ -6849,7 +6849,7 @@ Arbeiten in Maßnahmen, die durch das Arbeitsmarktprogramm Flüchtlingsintegrati
 
 # § 421b – Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland
 
-Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nicht nur vorübergehend im Ausland aufhalten, zu den Möglichkeiten der Anerkennung ausländischer Berufsabschlüsse und damit im Zusammenhang stehenden aufenthaltsrechtlichen Fragen und begleitet sie bei der Durchführung der entsprechenden Verfahren. Das Modellvorhaben ist bis zum 31. Dezember 2023 befristet. § 363 Absatz 1 Satz 2 findet keine Anwendung.
+Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nicht nur vorübergehend im Ausland aufhalten, zu den Möglichkeiten der Anerkennung ausländischer Berufsabschlüsse und damit im Zusammenhang stehenden aufenthaltsrechtlichen Fragen und begleitet sie bei der Durchführung der entsprechenden Verfahren. Das Modellvorhaben ist bis zum 31. Dezember 2026 befristet. § 363 Absatz 1 Satz 2 findet keine Anwendung.
 
 # § 421c – Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit
 

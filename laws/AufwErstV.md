@@ -35,8 +35,6 @@ Die zu erstattenden Beträge werden nachträglich nach Einzelfällen abgerechnet
 
 (2) Die nach Landesrecht zuständigen Stellen sind berechtigt, den Bundeshaushalt mit den von ihnen aufgewendeten Beträgen zu belasten. Die Belastung ist spätestens innerhalb eines Monats nach dem jeweiligen Zahlungstermin vorzunehmen. Überzahlungen sind unverzüglich auszugleichen.
 
-(3) Abweichend von Absatz 1 Satz 2 und Absatz 2 Satz 2 sind die Länder berechtigt, den Bundeshaushalt mit den von ihnen aufgewendeten Beträgen zu belasten. Die Belastung ist spätestens innerhalb eines Monats nach dem jeweiligen Zahlungstermin vorzunehmen. Überzahlungen sind unverzüglich auszugleichen.
-
 # § 5 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 2. Juli 1975 in Kraft.

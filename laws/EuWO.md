@@ -2664,7 +2664,7 @@ Sind Sie bei früheren Wahlen (1979 bis 1994) in ein Wählverzeichnis in der Bun
 Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich.
 
 Antragsvordrucke (Formblätter) sowie informierende Merkblätter können bei den Gemeindebehörden in der Bundesrepublik Deutschland angefordert werden.   
-Für ihre Teilnahme als Wahlbewerber ist u. a. Voraussetzung, dass sie am Wahltag
+Für Ihre Teilnahme als Wahlbewerber ist u. a. Voraussetzung, dass Sie am Wahltag
 
 1. das 18. Lebensjahr vollendet haben,
 

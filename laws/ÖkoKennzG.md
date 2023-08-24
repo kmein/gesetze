@@ -3,11 +3,7 @@
  
 # § 1 – Öko-Kennzeichen
 
-(1) Mit einem Kennzeichen nach Maßgabe einer Rechtsverordnung nach § 2 Abs. 2 Satz 1 Nr. 1 (Öko-Kennzeichen) darf nur in den Verkehr gebracht werden
-
-1. ein Erzeugnis im Sinne des Artikels 2 Absatz 1 der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65), die durch die Verordnung (EU) 2020/1693 (ABl. L 381 vom 13.11.2020, S. 1) geändert worden ist, wenn die Voraussetzungen für die Verwendung von Bezeichnungen mit Bezug auf die ökologische/biologische Produktion nach Artikel 30 Absatz 2 Satz 1 oder Absatz 5 Satz 1 Buchstabe a, jeweils in Verbindung mit Absatz 4, der Verordnung (EU) 2018/848 erfüllt sind,
-
-2. ein Erzeugnis aus Arbeitsgängen in gewerbsmäßig betriebenen, gemeinschaftlichen Verpflegungseinrichtungen im Sinne des Artikels 2 Absatz 3 Satz 1 der Verordnung (EU) 2018/848, wenn die Voraussetzungen für die Verwendung von Bezeichnungen mit Bezug auf die ökologische oder biologische Produktion nach § 6 Abs. 3, auch in Verbindung mit Abs. 4, des Öko-Landbaugesetzes erfüllt sind.
+(1) Ein Erzeugnis im Sinne des Artikels 2 Absatz 1 der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S. 5), die zuletzt durch die Verordnung (EU) 2022/474 (ABl. L 98 vom 25.3.2022, S. 1) geändert worden ist, darf mit einem Kennzeichen nach Maßgabe einer Rechtsverordnung nach § 2 Absatz 2 Satz 1 Nummer 1 (Öko-Kennzeichen) nur in den Verkehr gebracht werden, wenn die Voraussetzungen für die Verwendung von Bezeichnungen mit Bezug auf die ökologische/biologische Produktion nach Artikel 30 Absatz 2 Unterabsatz 1 oder Absatz 5 Unterabsatz 1 Buchstabe a, jeweils in Verbindung mit Absatz 4, der Verordnung (EU) 2018/848 erfüllt sind.
 
 (2) Es ist verboten,
 
