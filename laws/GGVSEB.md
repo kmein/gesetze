@@ -37,7 +37,7 @@ b) grenzüberschreitenden einschließlich innergemeinschaftlichen Beförderungen
 
 3. Nummer 3 genannten
 
-a) Beförderungen auf allen schiffbaren Binnengewässern die Vorschriften der Teile 1 bis 9 der Anlage zu dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 10. November 2021 (BGBl. 2021 II S. 1150; 2022 II S. 436), die zuletzt nach Maßgabe der 9. ADN-Änderungsverordnung vom 14. Dezember 2022 (BGBl. 2022 II S. 690)geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 5,
+a) Beförderungen auf allen schiffbaren Binnengewässern die Vorschriften der Teile 1 bis 9 der Anlage zu dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 10. November 2021 (BGBl. 2021 II S. 1150; 2022 II S. 436), die zuletzt nach Maßgabe der 9. ADN-Änderungsverordnung vom 14. Dezember 2022 (BGBl. 2022 II S. 690) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 5,
 
 b) Beförderungen auf dem Rhein zusätzlich die von der Zentralkommission für die Rheinschifffahrt am 3. Dezember 2009 beschlossenen Bestimmungen in Anlage 2 Nummer 6.
 
@@ -119,7 +119,7 @@ Verlader ist auch das Unternehmen, das als unmittelbarer Besitzer das gefährlic
 
 19. Ortsbewegliche Druckgeräte sind die in Artikel 2 Nummer 1 der Richtlinie 2010/35/EU bestimmten Gefäße und Tanks für Gase sowie die übrigen in den Kapiteln 6.2 und 6.8 ADR/RID bestimmten Gefäße und Tanks für Gase;
 
-20. Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und 6 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
+20. Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und 6 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 # § 3 – Zulassung zur Beförderung
 
@@ -269,7 +269,7 @@ j) Kapitel 6.10 ADR/RID,
 
 k) Kapitel 6.11 ADR/RID,
 
-l) Kapitel 6.12 in Verbindung mit Absatz 7.5.5.2.3 und Kapitel 9.8 ADR,
+l) Kapitel 6.12 in Verbindung mit Absatz 7.5.5.2.3 und Kapitel 9.8 ADR und
 
 m) Kapitel 6.13 ADR,
 
@@ -369,13 +369,13 @@ b) die Bescheinigung über die Zulassung einer Änderung an einer getrennt zugel
 
 8. die Inbetriebnahmeüberprüfung nach Unterabschnitt 1.8.7.5 ADR/RID.
 
-Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5, 6 und 7 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 12 Absatz 1 Nummer 8 der GGVSee als Prüfstelle anerkannt sind.
+Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5, 6 und 7 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 12 Absatz 1 Nummer 8 der GGVSee als Prüfstelle anerkannt sind.
 
 (2) Das Bundesministerium für Digitales und Verkehr richtet einen Erfahrungsaustausch zwischen den zuständigen Stellen nach Absatz 1 und § 9 und der nationalen Akkreditierungsstelle sowie den Baumusterzulassungsbehörden nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe g bis l und § 15 Absatz 1 Nummer 10 ein, an dem die vorgenannten Behörden und Stellen teilnehmen müssen.
 
 # § 13 – Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
-(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
+(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
 
 1. die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.2.3 ADR/RID;
 
@@ -417,7 +417,7 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 
 (4) Die amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle benannt oder die bei einer nach Landesrecht zuständigen Stelle tätig sind, und die Technischen Dienste, die im Rahmen der Benennung für die Prüfung von Gesamtfahrzeugen mindestens für die Prüfung von Gefahrgutfahrzeugen benannt sind, sind zuständig für die erste Untersuchung nach Unterabschnitt 9.1.2.1 Satz 2 zur Übereinstimmung mit den anwendbaren Vorschriften der Kapitel 9.2 bis 9.8 und die Ausstellung einer ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.2.1 Satz 4 in Verbindung mit Unterabschnitt 9.1.3.1 ADR.
 
-(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung berechtigten Personen sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
+(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung berechtigten Personen sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
 (6) Die Zulassungsbehörden nach der Fahrzeug-Zulassungsverordnung sind zuständig für Änderungen in Nummer 4 und 5 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
@@ -535,7 +535,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 (7) Die jeweilige nach Landesrecht zuständige Stelle ist zuständige Behörde für Kontrollen nach Unterabschnitt 1.8.1.4 ADN.
 
-(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage „Code über Intaktstabilität aller Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
+(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage “Code über Intaktstabilität aller Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
 
 # § 17 – Pflichten des Auftraggebers des Absenders
 
@@ -543,7 +543,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 1. sich vor Erteilung eines Auftrags an den Absender zu vergewissern, ob die gefährlichen Güter nach Teil 2 ADR/RID/ADN klassifiziert sind und nach § 3 befördert werden dürfen;
 
-2. dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
+2. dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
 
 3. dafür zu sorgen, dass der Absender bei Beförderung nach Kapitel 3.4 auf das gefährliche Gut in begrenzten Mengen unter Angabe der Bruttomasse und bei Beförderung nach Kapitel 3.5 auf das gefährliche Gut in freigestellten Mengen unter Angabe der Anzahl der Versandstücke, ausgenommen bei Beförderungen nach Unterabschnitt 3.5.1.4 ADR/RID/ADN, hingewiesen wird.
 
@@ -559,7 +559,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 a) auf das gefährliche Gut durch die Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR/RID/ADN oder Absatz 5.4.1.1.2 Buchstabe a bis d ADN
 
-b) und, wenn Güter auf der Straße befördert werden, die den §§ 35 und 35a unterliegen, auf deren Beachtung
+b) und, wenn Güter auf der Straße befördert werden, die den §§ 35 und 35a unterliegen, auf deren Beachtung
 
 schriftlich oder elektronisch hinzuweisen;
 
@@ -653,7 +653,7 @@ angebracht werden und
 
 a) die Begleitpapiere nach Unterabschnitt 8.1.2.1 Buchstabe a und Unterabschnitt 8.1.2.2 Buchstabe a und c sowie bei innerstaatlichen Beförderungen in Aufsetztanks die Bescheinigung über die Prüfung des Aufsetztanks nach Absatz 6.8.2.4.5 und Unterabschnitt 6.13.5.4, sofern die Übergangsvorschrift nach Unterabschnitt 1.6.3.41 ADR in Anspruch genommen wird, und
 
-b) die Ausnahmezulassung nach § 5 Absatz 1 Nummer 1, Absatz 6 oder 7
+b) die Ausnahmezulassung nach § 5 Absatz 1 Nummer 1, Absatz 6 oder 7
 
 dem Fahrzeugführer vor Beförderungsbeginn übergeben werden;
 
@@ -1403,11 +1403,9 @@ In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungsp
 
 # § 35b – Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
 
-Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:  
-  
+Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:
 
-Tabelle  
-  
+Tabelle
 
 lfd. Nr.
 
@@ -1417,7 +1415,8 @@ klasse
 
 Stoff oder Gegenstand
 
-Geltung der §§ 35 und 35a
+Geltung der §§ 35  
+und 35a
 
 Beförderung in
 
@@ -1439,7 +1438,8 @@ explosive Stoffe und Gegenstände mit Explosivstoff
 
 nicht zulässig
 
-1 000 kg Nettoexplosivstoffmasse
+1 000 kg  
+Nettoexplosivstoffmasse
 
 Siehe Ausnahmen nach § 35c Absatz 9
 
@@ -1451,7 +1451,8 @@ explosive Stoffe und Gegenstände mit Explosivstoff
 
 nicht zulässig
 
-1 000 kg Nettoexplosivstoffmasse
+1 000 kg  
+Nettoexplosivstoffmasse
 
  
 
@@ -1461,11 +1462,15 @@ explosive Stoffe und Gegenstände mit Explosivstoff
 
 § 35 und § 35a
 
-1 000 kg Nettoexplosivstoffmasse
+1 000 kg  
+Nettoexplosivstoffmasse
 
-1 000 kg Nettoexplosivstoffmasse
+1 000 kg  
+Nettoexplosivstoffmasse
 
-Beförderungen in Tanks sind nur für die UN- Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9)
+Beförderungen in Tanks sind nur für die  
+UN-Nummern 0331 und 0332 zulässig  
+(Siehe Ausnahmen nach § 35c Absatz 9)
 
 2
 
@@ -1499,13 +1504,14 @@ entfällt
 
 3
 
-entzündbare flüssige  
-Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921
+entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921
 
 § 35a
 
-3 000 Liter bei Verpackungsgruppe I  
-6 000 Liter bei Verpackungsgruppe II
+3 000 Liter bei  
+Verpackungsgruppe I  
+6 000 Liter bei  
+Verpackungsgruppe II
 
 entfällt
 
@@ -1571,8 +1577,7 @@ entfällt
 
 5.1
 
-entzündend (oxidierend) wirkende flüssige Stoffe  
-der Verpackungsgruppe I der UN-Nummern 1745, 1746, 1873 und 2015
+entzündend (oxidierend) wirkende flüssige Stoffe der Verpackungsgruppe I der UN-Nummern 1745, 1746, 1873 und 2015
 
 § 35 und § 35a
 
@@ -1614,7 +1619,7 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 # § 35c – Ausnahmen zu den §§ 35 und 35a
 
-(1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
+(1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
 
 1. die als Doppelwandtanks mit Vakuumisolierung gebaut sind,
 
@@ -1624,13 +1629,13 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 4. deren Innentanks aus austenitischen Chrom-Nickel- oder Chrom-Nickel-Molybdän-Stählen bestehen.
 
-(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
+(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
 
-(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
+(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
 
 1. nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind,
 
-2. Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für Gefahrgut“<span id="FnR.F815065_01a"></span><a href="#F815065_01a" class="FnR">1</a></sup> und Bekanntmachung zur Anwendung des Forschungsberichts 203<span id="FnR.F815065_02a"></span><a href="#F815065_02a" class="FnR">2</a></sup> ), wenn die Kenngröße f<sub>3</sub> zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
+2. Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für Gefahrgut“<span id="FnR.F827039_02"></span><a href="#F827039_02" class="FnR">1</a></sup> und Bekanntmachung zur Anwendung des Forschungsberichts 203<span id="FnR.F827039_03"></span><a href="#F827039_03" class="FnR">2</a></sup> ), wenn die Kenngröße f<sub>3</sub> zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
 
 3. Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte oder
 
@@ -1638,19 +1643,19 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 durchgeführt werden.
 
-(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
+(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
 
 (5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt.
 
 (6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
 
-(7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
+(7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
 
 (8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle laufende Nummer 2).
 
 (9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der Verwendung, sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt, von explosiven Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende Nummer 1)
 
-1. der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<span id="FnR.F815065_03a"></span><a href="#F815065_03a" class="FnR">3</a></sup> haben, und
+1. der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<span id="FnR.F827039_04"></span><a href="#F827039_04" class="FnR">3</a></sup> haben, und
 
 2. der UN-Nummer 0081 (Unterklasse 1.1)
 
@@ -1658,7 +1663,7 @@ a) bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die
 
 b) bis 3 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC)
 
-ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
+ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
 
 # § 36 – Prüffrist für Feuerlöschgeräte
 
@@ -1674,7 +1679,7 @@ Für die Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 325
 
 # § 37 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 4 Absatz 2 eine Behörde oder einen Betreiber der Eisenbahninfrastruktur nicht oder nicht rechtzeitig benachrichtigt oder nicht oder nicht rechtzeitig benachrichtigen lässt und nicht mit Informationen versieht oder versehen lässt,
 
@@ -2262,7 +2267,7 @@ Bis zum 30. Juni 2023 darf die Beförderung gefährlicher Güter noch nach den V
 
 # Anlage 2 – Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. I 2021, 515 - 519)
+(Fundstelle: BGBl. 2023 I Nr. 227, S. 42 – 46)
 
 1. (weggefallen)
 
@@ -2334,13 +2339,7 @@ b) Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Nieb�
 aa)  
 Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gefahrgüter der Klassen 1.4 und 2 bis 9</th><th style="text-align: left;">Beförderung in Versandstücken<br />
-in gedeckten und bedeckten Straßenfahrzeugen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>a)</dt><dd>Gefahrgüter der Klasse 2 Gruppen A, O<br />
-und F ohne Nebengefahr giftig,</dd><dt>b)</dt><dd>Gefahrgüter der Klasse 3, Verpackungs-<br />
-gruppe II und III ohne Nebengefahr giftig,</dd><dt>c)</dt><dd>Gefahrgüter der Klasse 8, Verpackungs-<br />
-gruppe II und III ohne Nebengefahr giftig und</dd><dt>d)</dt><dd>Gefahrgüter der Klasse 9, Verpackungs-<br />
-gruppe II und III</dd></dl></td><td style="text-align: left;">Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und<br />
-Straßenfahrzeugen mit Tankcontainern)</td></tr></tbody></table>
+Gefahrgüter der Klassen 1.4 und 2 bis 9
 
 bb)  
 Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
@@ -2427,8 +2426,8 @@ Stoffliste Nummer 1:
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 9%" /><col style="width: 18%" /><col style="width: 15%" /><col style="width: 57%" /></colgroup><thead><tr class="header"><th style="text-align: center;">UN-<br />
 Nummer</th><th style="text-align: center;">Klasse und<br />
 Klassifizierungscode</th><th style="text-align: center;">Verpackungs-<br />
-gruppe</th><th style="text-align: left;">Benennung und Beschreibung</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1114</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">BENZEN</td></tr><tr class="even"><td style="text-align: center;">1134</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLORBENZEN (Phenylchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1143</td><td style="text-align: center;">6.1, TF1</td><td style="text-align: center;">I</td><td style="text-align: left;">CROTONALDEHYD, STABILISIERT</td></tr><tr class="even"><td style="text-align: center;">1203</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">BENZIN MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1218</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ISOPREN, STABILISIERT</td></tr><tr class="even"><td style="text-align: center;">1247</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td></tr><tr class="odd"><td style="text-align: center;">1267</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ROHERDÖL, MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">1267</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">ROHERDÖL, MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1268</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">1268</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1277</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">PROPYLAMIN (1-Aminopropan)</td></tr><tr class="even"><td style="text-align: center;">1278</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">1-CHLORPROPAN (Propylchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1296</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">TRIETHYLAMIN</td></tr><tr class="even"><td style="text-align: center;">1578</td><td style="text-align: center;">6.1, T2</td><td style="text-align: center;">II</td><td style="text-align: left;">CHLORNITROBENZENE, FEST, GESCHMOLZEN<br />
-(p-CHLORNITROBENZEN)</td></tr><tr class="odd"><td style="text-align: center;">1591</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">o-DICHLORBENZEN</td></tr><tr class="even"><td style="text-align: center;">1593</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">DICHLORMETHAN (Methylenchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1605</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">I</td><td style="text-align: left;">1,2-DIBROMETHAN</td></tr><tr class="even"><td style="text-align: center;">1710</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">TRICHLORETHYLEN</td></tr><tr class="odd"><td style="text-align: center;">1750</td><td style="text-align: center;">6.1, TC1</td><td style="text-align: center;">II</td><td style="text-align: left;">CHLORESSIGSÄURE, LÖSUNG</td></tr><tr class="even"><td style="text-align: center;">1831</td><td style="text-align: center;">8, CT1</td><td style="text-align: center;">I</td><td style="text-align: left;">SCHWEFELSÄURE, RAUCHEND</td></tr><tr class="odd"><td style="text-align: center;">1846</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">II</td><td style="text-align: left;">TETRACHLORKOHLENSTOFF</td></tr><tr class="even"><td style="text-align: center;">1863</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1863</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">1888</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLOROFORM</td></tr><tr class="odd"><td style="text-align: center;">1897</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">TETRACHLORETHYLEN</td></tr><tr class="even"><td style="text-align: center;">1993</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
+gruppe</th><th style="text-align: left;">Benennung und Beschreibung</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1114</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">BENZEN</td></tr><tr class="even"><td style="text-align: center;">1134</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLORBENZEN (Phenylchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1143</td><td style="text-align: center;">6.1, TF1</td><td style="text-align: center;">I</td><td style="text-align: left;">CROTONALDEHYD, STABILISIERT</td></tr><tr class="even"><td style="text-align: center;">1203</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">BENZIN MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1218</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ISOPREN, STABILISIERT</td></tr><tr class="even"><td style="text-align: center;">1247</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td></tr><tr class="odd"><td style="text-align: center;">1267</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td></tr><tr class="even"><td style="text-align: center;">1267</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1268</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">1268</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1277</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">PROPYLAMIN (1-Aminopropan)</td></tr><tr class="even"><td style="text-align: center;">1278</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">1-CHLORPROPAN (Propylchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1296</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">TRIETHYLAMIN</td></tr><tr class="even"><td style="text-align: center;">1578</td><td style="text-align: center;">6.1, T2</td><td style="text-align: center;">II</td><td style="text-align: left;">CHLORNITROBENZENE, FEST, GESCHMOLZEN<br />
+(p-CHLORNITROBENZEN)</td></tr><tr class="odd"><td style="text-align: center;">1591</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">o-DICHLORBENZEN</td></tr><tr class="even"><td style="text-align: center;">1593</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">DICHLORMETHAN (Methylenchlorid)</td></tr><tr class="odd"><td style="text-align: center;">1605</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">I</td><td style="text-align: left;">1,2-DIBROMETHAN</td></tr><tr class="even"><td style="text-align: center;">1710</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">TRICHLORETHYLEN</td></tr><tr class="odd"><td style="text-align: center;">1750</td><td style="text-align: center;">6.1, TC1</td><td style="text-align: center;">II</td><td style="text-align: left;">CHLORESSIGSÄURE, LÖSUNG</td></tr><tr class="even"><td style="text-align: center;">1831</td><td style="text-align: center;">8, CT1</td><td style="text-align: center;">I</td><td style="text-align: left;">SCHWEFELSÄURE, RAUCHEND</td></tr><tr class="odd"><td style="text-align: center;">1846</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">II</td><td style="text-align: left;">TETRACHLORKOHLENSTOFF</td></tr><tr class="even"><td style="text-align: center;">1863</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1863</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td></tr><tr class="even"><td style="text-align: center;">1888</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLOROFORM</td></tr><tr class="odd"><td style="text-align: center;">1897</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">TETRACHLORETHYLEN</td></tr><tr class="even"><td style="text-align: center;">1993</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">1993</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">2205</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">ADIPONITRIL</td></tr><tr class="odd"><td style="text-align: center;">2238</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td></tr><tr class="even"><td style="text-align: center;">2263</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td></tr><tr class="odd"><td style="text-align: center;">2263</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td></tr><tr class="even"><td style="text-align: center;">2266</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYL-N-PROPYLAMIN</td></tr><tr class="odd"><td style="text-align: center;">2312</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">II</td><td style="text-align: left;">PHENOL, GESCHMOLZEN</td></tr><tr class="even"><td style="text-align: center;">2333</td><td style="text-align: center;">3, FT1</td><td style="text-align: center;">II</td><td style="text-align: left;">ALLYLACETAT</td></tr><tr class="odd"><td style="text-align: center;">2733</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
 (2-AMINOBUTAN)</td></tr><tr class="even"><td style="text-align: center;">2810</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">III</td><td style="text-align: left;">GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G.<br />
@@ -2436,21 +2435,20 @@ MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center
 MIT MEHR ALS 10 % BENZEN</td></tr><tr class="odd"><td style="text-align: center;">3295</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td></tr><tr class="even"><td style="text-align: center;">3455</td><td style="text-align: center;">6.1, TC2</td><td style="text-align: center;">II</td><td style="text-align: left;">CRESOLE, FEST, GESCHMOLZEN</td></tr></tbody></table>
 
-Stofflisten Nummer 2 bis 4  
+Stofflisten Nummer 2 bis 4
+
 (weggefallen)
 
 Stoffliste Nummer 5:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 9%" /><col style="width: 18%" /><col style="width: 15%" /><col style="width: 57%" /></colgroup><thead><tr class="header"><th style="text-align: center;">UN-<br />
-Nummer</th><th style="text-align: center;">Klasse und<br />
-Klassifizierungscode</th><th style="text-align: center;">Verpackungs-<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 9%" /><col style="width: 18%" /><col style="width: 15%" /><col style="width: 57%" /></colgroup><thead><tr class="header"><th style="text-align: center;">UN-Nummer</th><th style="text-align: center;">Klasse und Klassifizierungscode</th><th style="text-align: center;">Verpackungs-<br />
 gruppe</th><th style="text-align: left;">Benennung und Beschreibung</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1134</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLORBENZEN (Phenylchlorid)</td></tr><tr class="even"><td style="text-align: center;">1218</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">I</td><td style="text-align: left;">ISOPREN, STABILISIERT</td></tr><tr class="odd"><td style="text-align: center;">1247</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td></tr><tr class="even"><td style="text-align: center;">1277</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">PROPYLAMIN (1-Aminopropan)</td></tr><tr class="odd"><td style="text-align: center;">1278</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">1-CHLORPROPAN (Propylchlorid)</td></tr><tr class="even"><td style="text-align: center;">1296</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">TRIETHYLAMIN</td></tr><tr class="odd"><td style="text-align: center;">1547</td><td style="text-align: center;">6.1, T1</td><td style="text-align: center;">II</td><td style="text-align: left;">ANILIN</td></tr><tr class="even"><td style="text-align: center;">1750</td><td style="text-align: center;">6.1, TC1</td><td style="text-align: center;">II</td><td style="text-align: left;">CHLORESSIGSÄURE, LÖSUNG</td></tr><tr class="odd"><td style="text-align: center;">1831</td><td style="text-align: center;">8, CT1</td><td style="text-align: center;">I</td><td style="text-align: left;">SCHWEFELSÄURE, RAUCHEND</td></tr><tr class="even"><td style="text-align: center;">2238</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">III</td><td style="text-align: left;">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td></tr><tr class="odd"><td style="text-align: center;">2263</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td></tr><tr class="even"><td style="text-align: center;">2263</td><td style="text-align: center;">3, F1</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td></tr><tr class="odd"><td style="text-align: center;">2266</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">DIMETHYL-N-PROPYLAMIN</td></tr><tr class="even"><td style="text-align: center;">2333</td><td style="text-align: center;">3, FT1</td><td style="text-align: center;">II</td><td style="text-align: left;">ALLYLACETAT</td></tr><tr class="odd"><td style="text-align: center;">2733</td><td style="text-align: center;">3, FC</td><td style="text-align: center;">II</td><td style="text-align: left;">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
 (2-AMINOBUTAN)</td></tr><tr class="even"><td style="text-align: center;">3446</td><td style="text-align: center;">6.1, T2</td><td style="text-align: center;">II</td><td style="text-align: left;">NITROTOLUENE, FEST, GESCHMOLZEN<br />
 (o-NITROTOLUEN)</td></tr></tbody></table>
 
 # Anlage 3 – (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
-(Fundstelle: BGBl. I 2021, 520 - 526)
+(Fundstelle: BGBl. 2023 I Nr. 227, S. 47 – 53)
 
 1. Anwendungsbereich
 
@@ -2498,7 +2496,7 @@ Von der Anbringung von Kennzeichen nach Kapitel 5.3 ADR/RID auf den Umschließun
 
 3. Brand- und Explosionsschutz
 
-Jede Brandgefahr durch thermische Einwirkung des Stoffes auf die Umschließung, das Fahrzeug/den Wagen oder Ladungssicherungshilfsmittel sowie jede Explosionsgefahr durch z. B. austretende Dämpfe oder chemische Reaktion entstandener Gase ist zu vermeiden (z. B. durch Schutzgase).
+Jede Brandgefahr durch thermische Einwirkung des Stoffes auf die Umschließung, das Fahrzeug/den Wagen oder Ladungssicherungshilfsmittel sowie jede Explosionsgefahr durch z. B. austretende Dämpfe oder chemische Reaktion entstandener Gase ist zu vermeiden (z. B. durch Schutzgase).
 
 4. Zusätzliche Anforderungen für die Beförderung flüssiger Metalle in Tiegeln
 
@@ -2511,7 +2509,7 @@ Bei der Dimensionierung und der Befestigung der Tiegel auf dem Fahrzeug/Wagen si
 
 Die Verschlüsse der Tiegel sind ebenfalls gemäß einem geeigneten technischen Regelwerk auszulegen und so zu gestalten, dass sie auch bei umgekipptem befülltem Tiegel dicht bleiben.
 
-Die Einfüll- und Ausgussöffnungen müssen konstruktiv geschützt werden, z. B. durch Kragen, Abweiser, Käfige oder gleichwertige Konstruktionen (siehe dazu die Beispiele in Anhang 2). Dabei ist die Schutzeinrichtung an der Tiegeloberseite so auszulegen, dass sie insgesamt einer statischen Belastung standhält, die der doppelten Masse des befüllten Tiegels entspricht.
+Die Einfüll- und Ausgussöffnungen müssen konstruktiv geschützt werden, z. B. durch Kragen, Abweiser, Käfige oder gleichwertige Konstruktionen (siehe dazu die Beispiele in Anhang 2). Dabei ist die Schutzeinrichtung an der Tiegeloberseite so auszulegen, dass sie insgesamt einer statischen Belastung standhält, die der doppelten Masse des befüllten Tiegels entspricht.
 
 Plastische Verformungen der Schutzeinrichtung durch das Einwirken der oben genannten Belastung sind soweit zulässig, wie der Schutz der Einfüll- und Ausgussöffnungen gewährleistet bleibt. Die Nachrüstung der Schutzeinrichtung bei vorhandenen Tiegeln war bis zum 30. Juni 2018 abzuschließen.
 
@@ -2655,7 +2653,7 @@ Die wiederkehrenden Prüfungen sind spätestens nach acht Jahren durchzuführen.
 Wenn die Sicherheit der Pfanne durch Ausbesserung, Umbau oder Unfall beeinträchtigt sein kann, ist eine außerordentliche Prüfung vorzunehmen.
 
 5.12  
-Alle vorstehenden Prüfungen sind durch eine Stelle nach § 12 der GGVSEB durchzuführen. Über die Prüfungen sind von den Prüfstellen Bescheinigungen auszustellen, die vom Betreiber aufzubewahren sind.
+Alle vorstehenden Prüfungen sind durch eine Stelle nach § 12 der GGVSEB durchzuführen. Über die Prüfungen sind von den Prüfstellen Bescheinigungen auszustellen, die vom Betreiber aufzubewahren sind.
 
 5.13  
 Während der Beförderung darf die Oberflächentemperatur im frei zugänglichen Bereich des metallischen Außenbehälters 250 °C nicht übersteigen.
@@ -2672,22 +2670,26 @@ Vor jeder Verwendung ist der ordnungsgemäße Zustand der Pfannen vom Betreiber 
 5.17  
 Während des Transports ist die Einfüllöffnung der Pfannen mit einem Deckel dicht zu verschließen.
 
+Anhang 1
+
 Bild 1
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0010.jpg)
+![In Bild 1 mit Vorder- und Seitenansicht ist ein Behälter zur Aufnahme heißer Brammen zu sehen. Dieser besteht unten aus einem eingefassten Sandbett mit Querverstrebungen zur Aufnahme der Brammen, welche mit einer hydraulisch bewegbaren Schutzhaube für den Transport abgedeckt werden.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0010.jpg)
 
 Bild 2
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0020.jpg)
+![Im Bild 2 mit Vorder-, Seitenan-, und Draufsicht ist eine nach oben hin offene Coilwanne zur Aufnahme von 2 Coils dargestellt.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0020.jpg)
+
+Anhang 2
 
 Schutzeinrichtung „Kragen“
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0030.jpg)
+![In diesen zwei Bildern (Seitenansicht und Draufsicht) ist die Schutzeinrichtung „Kragen“ als Beispiel für den Schutz von Einfüll- und Ausgussöffnungen dargestellt. Dabei ist ein im gewölbten Behälterdeckel sitzender flacher Domdeckel durch einen über den Domdeckel hinausragenden Kragen zu sehen, der auch unterbrochen sein kann.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0030.jpg)
 
 Schutzeinrichtung „Abweiser“
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0040.jpg)
+![In diesen zwei Bildern (Seitenansicht und Draufsicht) ist die Schutzeinrichtung „Abweiser“ als weiteres Beispiel für den Schutz von Einfüll- und Ausgussöffnungen dargestellt. Hierbei ist ein im gewölbten Behälterdeckel sitzender flacher Domdeckel, der durch zwei parallele über den Domdeckel hinausragende flache Verstärkungselemente geschützt ist, zu sehen.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0040.jpg)
 
 Schutzeinrichtung „Käfig“
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0050.jpg)
+![In diesen zwei Bildern (Seitenansicht und Draufsicht) ist die Schutzeinrichtung „Käfig“ als weiteres Beispiel für den Schutz von Einfüll- und Ausgussöffnungen dargestellt. Hierbei ist ein im gewölbten Behälterdeckel sitzender flacher Domdeckel, der durch einen viereckigen über den Domdeckel hinausragenden Käfig geschützt ist, zu sehen. Der Käfig kann konstruktiv demontierbar bzw. klappbar ausgeführt sein.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0050.jpg)

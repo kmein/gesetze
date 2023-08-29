@@ -129,6 +129,8 @@ a) hergestellt wurden oder
 
 b) behandelt wurden.
 
+(+++ § 3 Abs. 2: Zur Geltung vgl. § 21 Abs. 1 +++)
+
 # § 4 – Haltungsformen
 
 (1) Die Haltungsformen, die bei der Kennzeichnung nach § 3 Absatz 1 verwendet werden, sind:
@@ -151,6 +153,8 @@ b) behandelt wurden.
 
 (3) Die Haltung von Tieren nach Anlage 2 ist der Haltungsform Bio zuzuordnen, wenn die Haltung der Tiere nach Artikel 35 Absatz 1 Satz 1 der Verordnung (EU) 2018/848 zertifiziert ist.
 
+(+++ § 4: Zur Geltung vgl. § 21 Abs. 2 +++)
+
 # § 5 – Bezeichnung der Haltungsformen
 
 (1) Bei der Kennzeichnung nach § 3 Absatz 1 darf keine andere Bezeichnung verwendet werden als die der nach § 4 Absatz 2 und 3 zugeordneten Haltungsform, in der die Tiere im maßgeblichen Haltungsabschnitt nach § 3 Absatz 2 Satz 1 gehalten wurden.
@@ -163,9 +167,13 @@ b) behandelt wurden.
 
 Im Fall des Satzes 2 ist das Lebensmittel mit der Haltungsform Auslauf/Weide zu kennzeichnen.
 
+(+++ § 5: Zur Geltung vgl. § 21 Abs. 2 +++)
+
 # § 6 – Allgemeine Anforderungen an die Kennzeichnung
 
 Die Kennzeichnung nach § 3 Absatz 1 ist leicht zugänglich, deutlich, gut sichtbar und gut lesbar in deutscher Sprache anzubringen. Sie darf nicht durch andere Angaben, Bildzeichen oder sonstiges eingefügtes Material verdeckt, undeutlich gemacht oder getrennt werden.
+
+(+++ § 6: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 7 – Kennzeichnung bei vorverpackten Lebensmitteln
 
@@ -199,9 +207,16 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (6) Das Weglassen oder Hinzufügen von Bestandteilen oder sonstige Änderungen der Kennzeichnung sind verboten. Satz 1 gilt nicht, sofern ein in § 11 genannter Fall vorliegt.
 
+(+++ § 7 Abs. 2 und 6: Zur Geltung vgl. § 9 Abs. 1 +++)  
+(+++ § 8: Zur Geltung vgl. § 9 Abs. 1 +++)  
+(+++ § 7 Abs. 6: Zur Geltung vgl. § 9 Abs. 2 +++)  
+(+++ § 7: Zur Geltung vgl. § 21 Abs. 2 +++)
+
 # § 8 – Kennzeichnung in Farbe
 
 Abweichend von § 7 Absatz 2 kann die verpflichtende Kennzeichnung nach § 3 Absatz 1 nach Maßgabe des Musters und der technischen Beschreibung der Anlage 7 mit mintgrünem Hintergrund verwendet werden.
+
+(+++ § 8: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 9 – Kennzeichnung bei nicht vorverpackten Lebensmitteln
 
@@ -214,6 +229,8 @@ Abweichend von § 7 Absatz 2 kann die verpflichtende Kennzeichnung nach § 3 Abs
 1. eine allgemeine schriftliche Darstellung der Haltungsformen ausgehängt werden oder
 
 2. deutlich und gut lesbar darauf hingewiesen werden, dass eine allgemeine schriftliche Darstellung der Haltungsformen dem Endverbraucher auf Anforderung zur Ansicht zur Verfügung gestellt wird.
+
+(+++ § 9: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 10 – Kennzeichnung im Fernabsatz
 
@@ -230,6 +247,8 @@ b) sie vollständig und übersichtlich ist,
 c) dem Endverbraucher keine zusätzlichen Kosten auferlegt werden und
 
 d) der Endverbraucher ausreichend Zeit hat, sämtliche in der Kennzeichnung enthaltenen Informationen zur Kenntnis zu nehmen, um eine Kaufentscheidung treffen zu können.
+
+(+++ § 10: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 11 – Sonderfälle der Kennzeichnung
 
@@ -280,6 +299,8 @@ so sind die Anteile der einzelnen Haltungsformen, die in der Verpackung enthalte
 4. mit einem Anteil von weniger als 100 Prozent der Haltungsform „Auslauf/Weide“ zugeordnet,
 
 so sind die Anteile der einzelnen Haltungsformen, die in der Verpackung enthalten sind und der nicht gekennzeichnete Anteil, bei der Kennzeichnung nach § 3 Absatz 1 nach Maßgabe des Musters und der technischen Beschreibung der Anlage 8 Abschnitt II anzugeben. Absatz 1 Satz 2, § 7 Absatz 3 Satz 3, Absatz 6 Satz 1 und § 8 gelten entsprechend.
+
+(+++ § 11: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 12 – Mitteilung von Haltungseinrichtungen inländischer Betriebe
 
@@ -367,9 +388,13 @@ Zusätzlich zu den Angaben nach Satz 1 hat der Inhaber des tierhaltenden Betrieb
 
 (3) Die in den Absätzen 1 und 2 genannten Daten und Nachweise dürfen von den zuständigen Behörden außerdem zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden.
 
+(+++ § 17: Zur Anwendung vgl. § 36 Abs. 2 +++)
+
 # § 18 – Löschung von Daten inländischer Betriebe
 
 Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene und nicht personenbezogene Daten nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14, 15, 16 Absatz 1 und § 19 Absatz 1 sowie die Nachweise nach § 12 Absatz 2 Satz 2, § 14 Absatz 4 und § 15 Absatz 3 Satz 2 ein Jahr, nachdem der Grund für ihre Erhebung weggefallen ist, von der jeweils zuständigen Behörde zu löschen. Sofern die Speicherung elektronisch erfolgt ist, hat die Löschung automatisiert zu erfolgen.
+
+(+++ § 18: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
 # § 19 – Aufzeichnungspflichten inländischer Betriebe
 
@@ -601,9 +626,13 @@ Der Inhaber des tierhaltenden Betriebs hat zu erklären, dass die Haltungseinric
 
 (2) Die in Absatz 1 genannten Daten und Nachweise dürfen von der Bundesanstalt für Landwirtschaft und Ernährung außerdem zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet, insbesondere an andere nach diesem Gesetz zuständige Behörden zur Verfügung gestellt, werden.
 
+(+++ § 30: Zur Anwendung vgl. § 36 Abs. 2 +++)
+
 # § 31 – Löschung von Daten von Genehmigungsinhabern und ausländischen Betrieben
 
 Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene und nicht personenbezogene Daten nach § 22 Absatz 3, 4, 6 Nummer 2, den §§ 23, 24 Absatz 1 bis 3, § 25 Absatz 2, § 26 Absatz 1, den §§ 27, 28 Absatz 2, § 29 Absatz 1 und § 32 Absatz 1 sowie die Nachweise nach § 22 Absatz 4 Satz 1 und 3 und Absatz 5, § 23 Absatz 2 Satz 2 und 4, § 25 Absatz 4 Satz 3 und § 27 Absatz 6 ein Jahr, nachdem der Grund für ihre Erhebung weggefallen ist, von der zuständigen Behörde zu löschen. Sofern die Speicherung elektronisch erfolgt ist, hat die Löschung automatisiert zu erfolgen.
+
+(+++ § 31: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
 # § 32 – Aufzeichnungspflichten ausländischer Betriebe
 
