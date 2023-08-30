@@ -37,7 +37,7 @@
 
 (3) Der Anmeldung einer Partnerschaft mit beschränkter Berufshaftung nach § 8 Absatz 4 muss eine Versicherungsbescheinigung gemäß § 113 Absatz 2 des Gesetzes über den Versicherungsvertrag beigefügt sein.
 
-# § 5 – Inhalt der Eintragung, anzuwendende Vorschriften
+# § 5 – Inhalt der Eintragung; anzuwendende Vorschriften
 
 (1) Die Eintragung hat die in § 3 Abs. 2 genannten Angaben, das Geburtsdatum jedes Partners und die Vertretungsmacht der Partner zu enthalten.
 
