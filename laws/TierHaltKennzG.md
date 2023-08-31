@@ -969,23 +969,23 @@ Tabelle 1
 
 a) Muster Haltungsform „Stall“
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Stall&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0010.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Stall“; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0010.jpg)
 
 b) Muster Haltungsform „Stall+Platz“
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Stall+Platz&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0020.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Stall+Platz“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0020.jpg)
 
 c) Muster Haltungsform „Frischluftstall“
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Frischluftstall&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0030.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Frischluftstall“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0030.jpg)
 
 d) Muster Haltungsform „Auslauf/Weide“
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0040.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0040.jpg)
 
 e) Muster Haltungsform „Bio“
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Bio&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0050.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Bio“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0050.jpg)
 
 2. Technische Beschreibung der Tierhaltungskennzeichnung nach § 7 Absatz 2:
 
@@ -1049,7 +1049,7 @@ Das Größenverhältnis und das räumliche Verhältnis der Wort- und der Grafikb
 
 1. Muster der Tierhaltungskennzeichnung nach § 7 Absatz 3 Satz 3
 
-![Darstellung der Kennzeichnung der Tierhaltung. Über dem Rechteck befindet sich die Überschrift „Tierart Schwein“. In dem Rechteck darunter steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0070.jpg)
+![Darstellung der Kennzeichnung der Tierhaltung. Über dem Rechteck befindet sich die Überschrift „Tierart Schwein“. In dem Rechteck darunter steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0070.jpg)
 
 2. Technische Beschreibung
 
@@ -1089,7 +1089,7 @@ Die technische Beschreibung der Anlage 5 Nummer 2 Buchstabe c bis f gilt entspre
 
 1. Muster der Tierhaltungskennzeichnung nach § 8:
 
-![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio&quot;, „Auslauf/Weide&quot;, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide&quot; ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0080.jpg)
+![Darstellung der Kennzeichnung: In einem Rechteck steht ganz links das Wort „Tierhaltung“, gefolgt von der Auflistung „Bio“, „Auslauf/Weide“, „Frischluftstall“, „Stall+Platz“ und „Stall“. Die Option „Auslauf/Weide“ ist gekennzeichnet. Rechts neben der Auflistung befindet sich ein QR-Code mit dem Vermerk „Platzhalter“ auf dem Code.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02200_0080.jpg)
 
 2. Technische Beschreibung der Tierhaltungskennzeichnung nach § 8:
 
