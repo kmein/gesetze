@@ -3101,7 +3101,7 @@ Räumungsfrist
 
 § 722
 
-Vollstreckbarkeit ausländischer Urteile
+Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung
 
 § 723
 
@@ -10216,11 +10216,15 @@ Der Gläubiger kann sich aus dem belasteten Gegenstand nur nach Leistung der Sic
 
 (7) Die Absätze 1 bis 6 gelten nicht für Mietverhältnisse über Wohnraum im Sinne des § 549 Abs. 2 Nr. 3 sowie in den Fällen des § 575 des Bürgerlichen Gesetzbuchs. Endet ein Mietverhältnis im Sinne des § 575 des Bürgerlichen Gesetzbuchs durch außerordentliche Kündigung, kann eine Räumungsfrist höchstens bis zum vertraglich bestimmten Zeitpunkt der Beendigung gewährt werden.
 
-# § 722 – Vollstreckbarkeit ausländischer Urteile
+# § 722 – Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung
 
 (1) Aus dem Urteil eines ausländischen Gerichts findet die Zwangsvollstreckung nur statt, wenn ihre Zulässigkeit durch ein Vollstreckungsurteil ausgesprochen ist.
 
-(2) Für die Klage auf Erlass des Urteils ist das Amtsgericht oder Landgericht, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat, und sonst das Amtsgericht oder Landgericht zuständig, bei dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
+(2) Für die Klage auf Erlass des Urteils ist das Landgericht zuständig, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat, und sonst das Landgericht, bei dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
+
+(3) Der Vorsitzende der Zivilkammer entscheidet als Einzelrichter. Die Regelungen über die Vorlage zur Entscheidung über eine Übernahme sowie die Übernahme durch die Zivilkammer nach § 348 Absatz 3 bleiben unberührt.
+
+(4) Sind in einem Land mehrere Landgerichte errichtet, so kann die Landesregierung die Zuständigkeit durch Rechtsverordnung einem oder mehreren Landgerichten übertragen. Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Mehrere Länder können die Zuständigkeit eines oder mehrerer Landgerichte über die Landesgrenzen hinaus vereinbaren.
 
 # § 723 – Vollstreckungsurteil
 

@@ -2302,7 +2302,7 @@
 - [FZulBVInkrbek](laws/FZulBVInkrbek.md) Bekanntmachung über das Inkrafttreten der Forschungszulagen-Bescheinigungsverordnung
 - [FZulG](laws/FZulG.md) Gesetz zur steuerlichen Förderung von Forschung und Entwicklung
 - [FZulGAnwBek](laws/FZulGAnwBek.md) Bekanntmachung über die Anwendbarkeit des Forschungszulagengesetzes
-- [FZV](laws/FZV.md) Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr*)
+- [FZV](laws/FZV.md) Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr
 - [FZVAusnV](laws/FZVAusnV.md) Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung
 - [G 10](laws/G_10.md) Gesetz zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses
 - [G 115](laws/G_115.md) Gesetz zur Ausführung von Artikel 115 des Grundgesetzes
@@ -4362,6 +4362,7 @@
 - [PBefG§45aV 5](laws/PBefG§45aV_5.md) Fünfte Verordnung über die durchschnittlichen verkehrsspezifischen Kosten nach dem Personenbeförderungsgesetz
 - [PBLEntgV](laws/PBLEntgV.md) Postbankleistungsentgeltverordnung
 - [PBNUBestV](laws/PBNUBestV.md) Verordnung zur Bestimmung der Deutschen Bank AG als Postnachfolgeunternehmen
+- [PBOWiZV](laws/PBOWiZV.md) Verordnung über die Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Strompreisbremsegesetz und dem Erdgas-Wärme-Preisbremsengesetz
 - [PBV](laws/PBV.md) Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
 - [PBZugV](laws/PBZugV.md) Berufszugangsverordnung für den Straßenpersonenverkehr
 - [PCBAbfallV](laws/PCBAbfallV.md) Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)

@@ -387,7 +387,7 @@ a) § 1079 oder § 1110 der Zivilprozessordnung,
 
 b) § 39 Absatz 1 und § 48 des Internationalen Familienrechtsverfahrensgesetzes,
 
-c) § 57 oder § 58 des Anerkennungs- und Vollstreckungsausführungsgesetzes,
+c) § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes,
 
 d) § 14 des EU-Gewaltschutzverfahrensgesetzes,
 

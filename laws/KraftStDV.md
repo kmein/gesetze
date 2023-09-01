@@ -11,7 +11,7 @@ Auf Grund des § 15 Absatz 1 des Kraftfahrzeugsteuergesetzes, der zuletzt durch 
 
 Örtlich zuständig ist
 
-1. für inländische Fahrzeuge und für besondere Kennzeichen nach § 1 Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, in dessen Bezirk die nach § 46 der Fahrzeug-Zulassungsverordnung örtlich zuständige Zulassungsbehörde ihren Sitz hat;
+1. für inländische Fahrzeuge und für besondere Kennzeichen nach § 1 Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, in dessen Bezirk die nach § 75 der Fahrzeug-Zulassungsverordnung örtlich zuständige Zulassungsbehörde ihren Sitz hat;
 
 2. für ausländische Fahrzeuge
 
@@ -61,7 +61,7 @@ Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der kraftfa
 
 1. die Prüfung der Angaben in der Steuererklärung und die Bescheinigung, dass die Eintragungen mit den Angaben in den vorgelegten Urkunden übereinstimmen, sowie die Übersendung der Steuererklärung;
 
-2. die Mitteilung der in § 36 Absatz 1 der Fahrzeug-Zulassungsverordnung bezeichneten Daten sowie
+2. die Mitteilung der in § 63 Absatz 1 der Fahrzeug-Zulassungsverordnung bezeichneten Daten sowie
 
 3. die Mitteilung folgender Daten:
 
@@ -120,7 +120,7 @@ Zur Aufklärung von Zweifeln oder Unstimmigkeiten kann sich das zuständige Haup
 
 (2) Fallen die Voraussetzungen für eine Steuervergünstigung weg, so hat der Steuerpflichtige dies dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen.
 
-(3) Wird bei der Zulassung eines Fahrzeugs zum Verkehr eine Steuervergünstigung oder wird zu einem späteren Zeitpunkt die nachträgliche Anerkennung eines Personenkraftwagens als schadstoffarm beantragt, ist der Antrag bei der Zulassungsbehörde zu stellen. Im Falle der internetbasierten Zulassung im Sinne von § 15e der Fahrzeug-Zulassungsverordnung ist die Absicht der Inanspruchnahme einer Steuervergünstigung gegenüber der Zulassungsbehörde anzugeben.
+(3) Wird bei der Zulassung eines Fahrzeugs zum Verkehr eine Steuervergünstigung oder wird zu einem späteren Zeitpunkt die nachträgliche Anerkennung eines Personenkraftwagens als schadstoffarm beantragt, ist der Antrag bei der Zulassungsbehörde zu stellen. Im Falle der internetbasierten Zulassung im Sinne der §§ 27, 29 oder des 30 Absatz 1 Nummer 2 der Fahrzeug-Zulassungsverordnung ist die Absicht der Inanspruchnahme einer Steuervergünstigung gegenüber der Zulassungsbehörde anzugeben.
 
 (4) Der Antrag nach Absatz 1 oder Absatz 3 und die Anzeige nach Absatz 2 sind Steuererklärungen im Sinne des § 150 der Abgabenordnung.
 

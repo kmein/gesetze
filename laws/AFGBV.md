@@ -273,17 +273,17 @@ Bei der Feststellung der Geeignetheit des Betriebsbereichs nach Satz 1 bleiben u
 
 3. das Bestehen einer dem Pflichtversicherungsgesetz entsprechenden Kraftfahrzeug-Haftpflichtversicherung.
 
-Mit dem Antrag nach § 6 der Fahrzeug-Zulassungsverordnung ist die Betriebserlaubnis für ein Kraftfahrzeug mit autonomer Fahrfunktion nach § 4 Absatz 1 sowie die Genehmigung eines festgelegten Betriebsbereichs nach § 9 vorzulegen. § 3 Absatz 2 und 3 der Fahrzeug-Zulassungsverordnung ist nicht anzuwenden.
+Mit dem Antrag nach § 6 der Fahrzeug-Zulassungsverordnung ist die Betriebserlaubnis für ein Kraftfahrzeug mit autonomer Fahrfunktion nach § 4 Absatz 1 sowie die Genehmigung eines festgelegten Betriebsbereichs nach § 9 vorzulegen. § 3 Absatz 3 und 4 der Fahrzeug-Zulassungsverordnung ist nicht anzuwenden.
 
-(3) Die Verwendung der autonomen Fahrfunktion im Verkehr ist auf den genehmigten festgelegten Betriebsbereich zu beschränken. Diese Beschränkung ist durch Angabe der Genehmigung, der ausstellenden Behörde und des Datums der Ausstellung in die Zulassungsbescheinigung Teil I nach § 11 der Fahrzeug-Zulassungsverordnung einzutragen. Ebenso sind in die Zulassungsbescheinigung Teil I die Betriebserlaubnis nach § 4 Absatz 1 mit Datum der Ausstellung durch das Kraftfahrt-Bundesamt sowie weitere Angaben zur Ausrüstung mit autonomen Fahr- und Zusatzfunktionen einzutragen. Abweichend von § 11 Absatz 6 der Fahrzeug-Zulassungsverordnung genügt es, wenn die Zulassungsbescheinigung Teil I aufbewahrt und den berechtigten Personen auf Verlangen zur Prüfung ausgehändigt wird.
+(3) Die Verwendung der autonomen Fahrfunktion im Verkehr ist auf den genehmigten festgelegten Betriebsbereich zu beschränken. Diese Beschränkung ist durch Angabe der Genehmigung, der ausstellenden Behörde und des Datums der Ausstellung in die Zulassungsbescheinigung Teil I nach § 13 der Fahrzeug-Zulassungsverordnung einzutragen. Ebenso sind in die Zulassungsbescheinigung Teil I die Betriebserlaubnis nach § 4 Absatz 1 mit Datum der Ausstellung durch das Kraftfahrt-Bundesamt sowie weitere Angaben zur Ausrüstung mit autonomen Fahr- und Zusatzfunktionen einzutragen. Abweichend von § 13 Absatz 6 der Fahrzeug-Zulassungsverordnung genügt es, wenn die Zulassungsbescheinigung Teil I aufbewahrt und den berechtigten Personen auf Verlangen zur Prüfung ausgehändigt wird.
 
-(4) Für eine Umschreibung auf einen neuen Halter nach § 13 Absatz 4 Satz 3 der Fahrzeug-Zulassungsverordnung oder für eine Wiederzulassung nach § 14 Absatz 2 der Fahrzeug-Zulassungsverordnung ist vom Halter zusätzlich die Genehmigung eines festgelegten Betriebsbereichs nach § 9 vorzulegen.
+(4) Für eine Umschreibung auf einen neuen Halter nach § 15 Absatz 5 Satz 4 der Fahrzeug-Zulassungsverordnung oder für eine Wiederzulassung nach § 16 Absatz 2 der Fahrzeug-Zulassungsverordnung ist vom Halter zusätzlich die Genehmigung eines festgelegten Betriebsbereichs nach § 9 vorzulegen.
 
-(5) Die Verfahren nach Abschnitt 2a Unterabschnitt 3 der Fahrzeug-Zulassungsverordnung sind nicht anzuwenden.
+(5) Die Verfahren nach Abschnitt 3 Unterabschnitt 3 der Fahrzeug-Zulassungsverordnung sind nicht anzuwenden.
 
 (6) Die Zulassungsbehörde hat der Behörde, die die Genehmigung des festgelegten Betriebsbereichs erteilt hat, unverzüglich jede Zulassung, Wiederzulassung, Umschreibung und Außerbetriebsetzung eines betroffenen Kraftfahrzeugs mitzuteilen.
 
-(7) Besteht für ein zugelassenes Kraftfahrzeug mit autonomer Fahrfunktion keine Genehmigung eines festgelegten Betriebsbereichs nach § 9, so hat der Halter unverzüglich das Fahrzeug nach Maßgabe des § 14 Absatz 1 der Fahrzeug-Zulassungsverordnung, auch in Verbindung mit § 15g der Fahrzeug-Zulassungsverordnung, außer Betrieb setzen zu lassen.
+(7) Besteht für ein zugelassenes Kraftfahrzeug mit autonomer Fahrfunktion keine Genehmigung eines festgelegten Betriebsbereichs nach § 9, so hat der Halter unverzüglich das Fahrzeug nach Maßgabe des § 16 Absatz 1 der Fahrzeug-Zulassungsverordnung, auch in Verbindung mit § 24 der Fahrzeug-Zulassungsverordnung, außer Betrieb setzen zu lassen.
 
 # § 12 – Anforderungen an den Hersteller
 
@@ -464,7 +464,7 @@ die Geschwindigkeit,
 
 (7) Ein Hinweis auf die Erprobungsgenehmigung ist unter Angabe des Datums der Ausstellung durch das Kraftfahrt-Bundesamt in die Zulassungsbescheinigung Teil I einzutragen.
 
-(8) Die Verfahren nach Abschnitt 2a Unterabschnitt 3 der Fahrzeug-Zulassungsverordnung sowie § 11 sind nicht anzuwenden.
+(8) Die Verfahren nach Abschnitt 3 Unterabschnitt 3 der Fahrzeug-Zulassungsverordnung sowie § 11 sind nicht anzuwenden.
 
 # § 17 – Ordnungswidrigkeiten
 
@@ -482,7 +482,7 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt
 
 # § 18 – Übergangsvorschriften
 
-Können im Rahmen des Zulassungsverfahrens nach § 11 in Verbindung mit § 6 Absatz 7 der Fahrzeug-Zulassungsverordnung und der Erteilung der Erprobungsgenehmigung nach § 16 die für die Zulassung vorzulegenden Fahrzeugdaten und der Hinweis auf die Erprobungsgenehmigung nach § 16 Absatz 7 von der zuständigen Zulassungsbehörde nicht in den Fahrzeugregistern gespeichert werden oder die Angaben nach § 11 Absatz 3 und § 16 Absatz 7 nicht in die Zulassungsbescheinigung Teil I eingetragen werden, sind die jeweiligen Speicherungen und Eintragungen innerhalb von sechs Kalendermonaten nach dem 1. Juli 2022 nachzuholen.
+Können im Rahmen des Zulassungsverfahrens nach § 11 in Verbindung mit § 6 Absatz 8 der Fahrzeug-Zulassungsverordnung und der Erteilung der Erprobungsgenehmigung nach § 16 die für die Zulassung vorzulegenden Fahrzeugdaten und der Hinweis auf die Erprobungsgenehmigung nach § 16 Absatz 7 von der zuständigen Zulassungsbehörde nicht in den Fahrzeugregistern gespeichert werden oder die Angaben nach § 11 Absatz 3 und § 16 Absatz 7 nicht in die Zulassungsbescheinigung Teil I eingetragen werden, sind die jeweiligen Speicherungen und Eintragungen innerhalb von sechs Kalendermonaten nach dem 1. Juli 2022 nachzuholen.
 
 # Anlage 1 – Anforderungen an Kraftfahrzeuge mit autonomer Fahrfunktion
 

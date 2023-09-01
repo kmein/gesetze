@@ -423,7 +423,7 @@ c) die Änderung und die Aufhebung der Bewilligung der Prozesskostenhilfe nach d
 
 8. die Ausstellung von Bescheinigungen nach Artikel 13 Absatz 1 Buchstabe e und Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über Gerichtsstandsvereinbarungen;
 
-9. (weggefallen)
+9. die Ausstellung von Bescheinigungen nach Artikel 12 Absatz 1 Buchstabe d und Absatz 3 des Haager Übereinkommens vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen;
 
 10. die Anfertigung eines Auszugs nach Artikel 20 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember 2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Zusammenarbeit in Unterhaltssachen;
 

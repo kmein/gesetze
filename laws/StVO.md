@@ -23,7 +23,7 @@
 
 3. Stapler im Sinne des § 2 Nummer 18 der Fahrzeug-Zulassungsverordnung,
 
-4. motorisierte Krankenfahrstühle im Sinne des § 2 Nummer 13 der Fahrzeug-Zulassungs-Verordnung,
+4. motorisierte Krankenfahrstühle im Sinne des § 2 Nummer 13 der Fahrzeug- Zulassungsverordnung,
 
 5. Einsatzfahrzeuge der in § 35 Absatz 1 genannten Organisationen, soweit für diese Fahrzeuge bauartbedingt keine Reifen verfügbar sind, die den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügen und
 
@@ -919,7 +919,7 @@ Elektrokleinstfahrzeuge-Verordnung (eKFV)</td></tr><tr class="odd"><td style="te
 |:--------------------------------------------------:|
 | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1573-1_0020.jpg) |
 
-als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung einer Parkflächenvorhaltung für elektrisch betriebene Fahrzeuge kann das Sinnbild zusätzlich auf der Parkfläche aufgebracht sein. Elektrisch betriebene Fahrzeuge sind die nach § 9a Absatz 2 und 4, jeweils auch in Verbindung mit Absatz 5, der Fahrzeug-Zulassungsverordnung gekennzeichneten Fahrzeuge.
+als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung einer Parkflächenvorhaltung für elektrisch betriebene Fahrzeuge kann das Sinnbild zusätzlich auf der Parkfläche aufgebracht sein. Elektrisch betriebene Fahrzeuge sind die nach § 11 Absatz 2 und 4, jeweils auch in Verbindung mit Absatz 5, der Fahrzeug-Zulassungsverordnung gekennzeichneten Fahrzeuge.
 
 (11) Zur Parkbevorrechtigung von Carsharingfahrzeugen kann das Sinnbild
 

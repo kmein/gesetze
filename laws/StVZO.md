@@ -93,9 +93,9 @@ Werden bei Teilen nach Nummer 1 oder 2 in der Betriebserlaubnis, der Bauartgeneh
 
 1. des Absatzes 3 Nummer 1 den Abdruck oder die Ablichtung der betreffenden Betriebserlaubnis, Bauartgenehmigung, Genehmigung im Rahmen der Betriebserlaubnis oder eines Nachtrags dazu oder eines Auszugs dieser Erlaubnis oder Genehmigung, der die für die Verwendung wesentlichen Angaben enthält, und
 
-2. des Absatzes 3 Nummer 3 und 4 einen Nachweis nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis, die Genehmigung oder das Teilegutachten mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 11 Absatz 1 Satz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 13 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
+2. des Absatzes 3 Nummer 3 und 4 einen Nachweis nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis, die Genehmigung oder das Teilegutachten mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 13 Absatz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 15 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
 
-(5) Ist die Betriebserlaubnis nach Absatz 2 Satz 2 oder Absatz 3 Satz 2 erloschen, so darf das Fahrzeug nicht auf öffentlichen Straßen in Betrieb genommen werden oder dessen Inbetriebnahme durch den Halter angeordnet oder zugelassen werden. Ausnahmen von Satz 1 sind nur nach Maßgabe der Sätze 3 bis 6 zulässig. Ist die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen, dürfen nur solche Fahrten durchgeführt werden, die in unmittelbarem Zusammenhang mit der Erlangung einer neuen Betriebserlaubnis stehen. Am Fahrzeug sind die bisherigen Kennzeichen oder rote Kennzeichen zu führen. Die Sätze 3 und 4 gelten auch für Fahrten, die der amtlich anerkannte Sachverständige für den Kraftfahrzeugverkehr oder der Ersteller des Gutachtens des nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen benannten Technischen Dienstes im Rahmen der Erstellung des Gutachtens durchführt. Kurzzeitkennzeichen dürfen nur nach Maßgabe des § 16a Absatz 6 der Fahrzeug-Zulassungsverordnung verwendet werden.
+(5) Ist die Betriebserlaubnis nach Absatz 2 Satz 2 oder Absatz 3 Satz 2 erloschen, so darf das Fahrzeug nicht auf öffentlichen Straßen in Betrieb genommen werden oder dessen Inbetriebnahme durch den Halter angeordnet oder zugelassen werden. Ausnahmen von Satz 1 sind nur nach Maßgabe der Sätze 3 bis 6 zulässig. Ist die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen, dürfen nur solche Fahrten durchgeführt werden, die in unmittelbarem Zusammenhang mit der Erlangung einer neuen Betriebserlaubnis stehen. Am Fahrzeug sind die bisherigen Kennzeichen oder rote Kennzeichen zu führen. Die Sätze 3 und 4 gelten auch für Fahrten, die der amtlich anerkannte Sachverständige für den Kraftfahrzeugverkehr oder der Ersteller des Gutachtens des nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen benannten Technischen Dienstes im Rahmen der Erstellung des Gutachtens durchführt. Kurzzeitkennzeichen dürfen nur nach Maßgabe des § 42 Absatz 6 der Fahrzeug-Zulassungsverordnung verwendet werden.
 
 (6) Werden an Fahrzeugen von Fahrzeugherstellern, die Inhaber einer Betriebserlaubnis für Typen sind, im Sinne des Absatzes 2 Teile verändert, so bleibt die Betriebserlaubnis wirksam, solange die Fahrzeuge ausschließlich zur Erprobung verwendet werden; insoweit ist auch keine Mitteilung an die Zulassungsbehörde erforderlich. Satz 1 gilt nur, wenn die Zulassungsbehörde im Fahrzeugschein bestätigt hat, dass ihr das Fahrzeug als Erprobungsfahrzeug gemeldet worden ist.
 
@@ -143,7 +143,7 @@ In den Fällen des Satzes 3 Nummer 2 muss der Beauftragte des Herstellers in ein
 
 (3) Der Leiter der Technischen Prüfstelle ist für die Sicherstellung der gleichmäßigen Qualität aller Tätigkeiten des befugten Personenkreises verantwortlich. Er hat der zuständigen Aufsichtsbehörde jährlich sowie zusätzlich auf konkrete Anforderung hin einen Qualitätssicherungsbericht vorzulegen. Der Bericht muss in transparenter Form Aufschluss über die durchgeführten Qualitätskontrollen und die eingeleiteten Qualitätsmaßnahmen geben, sofern diese aufgrund eines Verstoßes erforderlich waren. Der Leiter der Technischen Prüfstelle hat sicherzustellen, dass fehlerhafte Begutachtungen aufgrund derer ein Fahrzeug in Verkehr gebracht wurde oder werden soll, von dem ein erhebliches Risiko für die Verkehrssicherheit, die öffentliche Gesundheit oder die Umwelt ausgeht, nach Feststellung unverzüglich der zuständigen Genehmigungsbehörde und der zuständigen Aufsichtsbehörde gemeldet werden.
 
-(4) Bei zulassungspflichtigen Fahrzeugen ist der Behörde mit dem Antrag eine Zulassungsbescheinigung Teil II vorzulegen. Wenn diese noch nicht vorhanden ist, ist nach § 12 der Fahrzeug-Zulassungsverordnung zu beantragen, dass diese ausgefertigt wird.
+(4) Bei zulassungspflichtigen Fahrzeugen ist der Behörde mit dem Antrag eine Zulassungsbescheinigung Teil II vorzulegen. Wenn diese noch nicht vorhanden ist, ist nach § 14 der Fahrzeug-Zulassungsverordnung zu beantragen, dass diese ausgefertigt wird.
 
 (5) Ist für die Erteilung einer Genehmigung für Fahrzeuge zusätzlich die Erteilung einer Ausnahmegenehmigung nach § 70 erforderlich, hat die begutachtende Stelle diese im Gutachten zu benennen und stichhaltig zu begründen.
 
@@ -252,9 +252,9 @@ f) Verbindungseinrichtungen an Anbaugeräten, die an land- oder forstwirtschaftl
 
 20. Fahrtschreiber (§ 57a);
 
-21. Beleuchtungseinrichtungen für Kennzeichen (§ 10 der Fahrzeug-Zulassungsverordnung);
+21. Beleuchtungseinrichtungen für Kennzeichen (§ 12 der Fahrzeug-Zulassungsverordnung);
 
-21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 Fahrzeugzulassungs-Verordnung);
+21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 12 Fahrzeugzulassungs-Verordnung);
 
 22. Lichtmaschinen, Scheinwerfer für Abblendlicht, auch mit Fernlichtfunktion oder auch mit Tagfahrlichtfunktion, Schlussleuchten, auch mit Bremslichtfunktion, Fahrtrichtungsanzeiger, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen, Felgen oder in den Speichen, weiß retroreflektierende Speichen oder Speichenhülsen für Fahrräder und Fahrradanhänger (§ 67 Absatz 1 bis 5, § 67a Absatz 1);
 
@@ -296,7 +296,7 @@ Zur Einstufung eines Fahrzeugs als Oldtimer im Sinne des § 2 Nummer 22 der Fahr
 
 (1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3 Absatz 1 der Fahrzeug-Zulassungsverordnung und kennzeichenpflichtigen Fahrzeugen nach § 4 Absatz 2 und 3 Satz 2 der Fahrzeug-Zulassungsverordnung haben ihre Fahrzeuge auf ihre Kosten nach Maßgabe der Anlage VIII in Verbindung mit Anlage VIIIa in regelmäßigen Zeitabständen untersuchen zu lassen. Ausgenommen sind
 
-1. Fahrzeuge mit rotem Kennzeichen nach den §§ 16 und 17 der Fahrzeug-Zulassungsverordnung,
+1. Fahrzeuge mit rotem Kennzeichen nach den §§ 41 und 43 der Fahrzeug-Zulassungsverordnung,
 
 2. Fahrzeuge der Bundeswehr und der Bundespolizei.
 
@@ -340,7 +340,7 @@ vermerkt werden.
 
 # § 29a – Datenübermittlung
 
-Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen sind verpflichtet, nach Abschluss einer Hauptuntersuchung oder einer Sicherheitsprüfung die in § 34 Absatz 1 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister zu übermitteln. Darüber hinaus müssen die zur Durchführung von Hauptuntersuchungen nach § 29 berechtigten Personen nach Abschluss einer Hauptuntersuchung die in § 34 Absatz 2 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister übermitteln. Die jeweilige Übermittlung hat
+Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen sind verpflichtet, nach Abschluss einer Hauptuntersuchung oder einer Sicherheitsprüfung die in § 61 Absatz 1 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister zu übermitteln. Darüber hinaus müssen die zur Durchführung von Hauptuntersuchungen nach § 29 berechtigten Personen nach Abschluss einer Hauptuntersuchung die in § 61 Absatz 2 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister übermitteln. Die jeweilige Übermittlung hat
 
 1. bei verkehrsunsicheren Fahrzeugen nach Anlage VIII Nummer 3.1.4.4 oder 3.2.3.3 am selben Tag,
 
@@ -1484,7 +1484,7 @@ dabei bedeutet f den Mindestbetrag der Zunahme des Eindrucks in Millimetern und 
 
 1. für Zugmaschinen in land- oder forstwirtschaftlichen Betrieben, deren zulässiges Gesamtgewicht 4 t und deren durch die Bauart bestimmte Höchstgeschwindigkeit 8 km/h nicht übersteigt,
 
-2. für Arbeitsmaschinen und Stapler (§ 3 Absatz 2 Satz 1 Nummer 1 Buchstabe a der Fahrzeug-Zulassungsverordnung), deren durch die Bauart bestimmte Höchstgeschwindigkeit 8 km/h nicht übersteigt, und für Fahrzeuge, die von ihnen mitgeführt werden,
+2. für Arbeitsmaschinen und Stapler (§ 3 Absatz 3 Satz 1 Nummer 1 Buchstabe a der Fahrzeug-Zulassungsverordnung), deren durch die Bauart bestimmte Höchstgeschwindigkeit 8 km/h nicht übersteigt, und für Fahrzeuge, die von ihnen mitgeführt werden,
 
 3. hinter Zugmaschinen mit einer Geschwindigkeit von nicht mehr als 8 km/h (Betriebsvorschrift)
 
@@ -1528,7 +1528,7 @@ beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen
 
 6. land- oder forstwirtschaftliche Arbeitsgeräte,
 
-7. die hinter land- oder forstwirtschaftlichen einachsigen Zug- oder Arbeitsmaschinen mitgeführten Sitzkarren (§ 3 Absatz 2 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-Zulassungsverordnung),
+7. die hinter land- oder forstwirtschaftlichen einachsigen Zug- oder Arbeitsmaschinen mitgeführten Sitzkarren,
 
 8. die Vorderräder von mehrachsigen Anhängern für die Beförderung von Langholz.
 
@@ -2049,7 +2049,7 @@ c) Kraftfahrzeugen der Militärpolizei, der Polizei des Bundes und der Länder, 
 
 9. fahrbaren Baubuden,
 
-10. Wohnwagen und Packwagen im Schaustellergewerbe nach § 3 Absatz 2 Satz 1 Nummer 2 Buchstabe b der Fahrzeug-Zulassungsverordnung,
+10. Wohnwagen und Packwagen im Schaustellergewerbe nach § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe b der Fahrzeug-Zulassungsverordnung,
 
 11. angehängten Arbeitsgeräten für die Straßenunterhaltung,
 
@@ -2428,7 +2428,7 @@ b) angehängten land- oder forstwirtschaftlichen Arbeitsgeräten, soweit sie die
 
 c) einachsigen Anhängern hinter Krafträdern;
 
-d) Sitzkarren (§ 3 Absatz 2 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-Zulassungsverordnung).
+d) Sitzkarren (§ 3 Absatz 3 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-Zulassungsverordnung).
 
 (6) Fahrtrichtungsanzeiger an Fahrzeugen, für die sie nicht vorgeschrieben sind, müssen den vorstehenden Vorschriften entsprechen.
 
@@ -3563,14 +3563,19 @@ mit einer zulässigen Gesamtmasse &gt; 7,5 t
 
 –
 
-2.2  
-Wenn untersuchungspflichtige Fahrzeuge ohne Gestellung eines Fahrers gewerbsmäßig vermietet werden, ohne dass sie für den Mieter zugelassen sind, beträgt die Frist für die Hauptuntersuchung in allen Fällen zwölf Monate; davon ausgenommen beträgt die Frist für die Hauptuntersuchung an Personenkraftwagen nach Nummer 2.1.2.1 und an Lastkraftwagen mit einer zulässigen Gesamtmasse ≤ 3,5 t nach Nummer 2.1.4.1 24 Monate, wenn diese für eine Mindestdauer von 36 Monaten von einem Mieter gemietet werden. An Kraftfahrzeugen nach Nummer 2.1.3 sind Sicherheitsprüfungen in Zeitabständen von drei, sechs und neun Monaten und an Kraftfahrzeugen, selbstfahrenden Arbeitsmaschinen, Zugmaschinen und Wohnmobilen nach den Nummern 2.1.4.3, 2.1.4.4 und 2.1.6.3 sowie Anhängern, einschließlich angehängten Arbeitsmaschinen nach Nummer 2.1.5.4, in einem Abstand von sechs Monaten nach der letzten Hauptuntersuchung durchführen zu lassen.
+2.2. Wenn untersuchungspflichtige Fahrzeuge ohne Gestellung eines Fahrers gewerbsmäßig vermietet werden, ohne dass sie für den Mieter zugelassen sind, beträgt die Frist für die Hauptuntersuchung in allen Fällen zwölf Monate. Abweichend von Satz 1 beträgt, sofern die nachfolgenden Fahrzeuge für eine Mindestdauer von einem Jahr von einem Mieter gemietet werden, die Frist für die Hauptuntersuchung an
+
+1. Personenkraftwagen nach Nummer 2.1.2.1 36 Monate und
+
+2. Lastkraftwagen mit einer zulässigen Gesamtmasse ≤ 3,5 t nach Nummer 2.1.4.1 24 Monate.
+
+Wird der Mietvertrag nachträglich auf eine Dauer von weniger als einem Jahr verkürzt, beträgt die Frist für die Hauptuntersuchung in allen Fällen zwölf Monate.
 
 2.3  
 Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Bei Fahrzeugen, die erstmals in den Verkehr kommen, beginnt die Frist für die nächste Hauptuntersuchung mit dem Monat und Jahr der Zuteilung eines amtlichen Kennzeichens, jedoch nicht bei der Zuteilung eines Kurzzeitkennzeichens. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21 oder einer Hauptuntersuchung (§ 14 Absatz 2 Fahrzeug-Zulassungsverordnung). Sie endet mit Ablauf des durch die Prüfplakette nachgewiesenen Monats und Jahres. Bei Fahrzeugen mit einer EG-Typgenehmigung, die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 2 der Fahrzeug-Zulassungsverordnung anzuwenden.
 
 2.4  
-Die Frist für die Durchführung der Sicherheitsprüfung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Die Sicherheitsprüfung darf in dem unmittelbar vor dem durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesenen Monat durchgeführt werden, ohne dass sich die nach Nummer 2.1 oder Nummer 2.2 vorgeschriebenen Zeitabstände für die nächste vorgeschriebene Sicherheitsprüfung ändern. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21. Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden. Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um höchstens einen Monat überschritten werden, wenn die mit der Prüfung beauftragte Stelle trotz rechtzeitig erteilten Auftrags die Sicherheitsprüfung nicht bis zum Ablauf der Frist nach Satz 5 durchführen konnte und dies in dem Prüfprotokoll bestätigt. Wird die Frist zur Durchführung einer Sicherheitsprüfung überschritten und liegt keine Bestätigung nach Satz 6 vor, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
+Die Frist für die Durchführung der Sicherheitsprüfung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Die Sicherheitsprüfung darf in dem unmittelbar vor dem durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesenen Monat durchgeführt werden, ohne dass sich die nach Nummer 2.1 oder Nummer 2.2 vorgeschriebenen Zeitabstände für die nächste vorgeschriebene Sicherheitsprüfung ändern. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21. Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 8 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden. Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um höchstens einen Monat überschritten werden, wenn die mit der Prüfung beauftragte Stelle trotz rechtzeitig erteilten Auftrags die Sicherheitsprüfung nicht bis zum Ablauf der Frist nach Satz 5 durchführen konnte und dies in dem Prüfprotokoll bestätigt. Wird die Frist zur Durchführung einer Sicherheitsprüfung überschritten und liegt keine Bestätigung nach Satz 6 vor, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
 
 2.5  
 Wird bei einer Hauptuntersuchung festgestellt, dass der durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesene Monat zur Vorführung des Fahrzeugs zur Sicherheitsprüfung nicht den Fristen der Nummern 2.1 und 2.2 in Verbindung mit Nummer 2.4 entspricht, ist eine neue Prüfmarke zuzuteilen und dies im Untersuchungsbericht zu vermerken.
@@ -3618,7 +3623,7 @@ erhebliche Mängel fest, so sind diese im Untersuchungsbericht einzutragen. Er d
 gefährliche Mängel fest, so sind diese im Untersuchungsbericht einzutragen. Gefährliche Mängel sind solche nach Nummer 3.1.4.3, die eine direkte und unmittelbare Verkehrsgefährdung darstellen oder die Umwelt beeinträchtigen, ohne eine unmittelbare Untersagung des Betriebs des Fahrzeugs auf öffentlichen Straßen zu rechtfertigen. Er darf für das Fahrzeug keine Prüfplakette zuteilen. Der Halter ist zusätzlich im Untersuchungsbericht auf diesen Gefährdungstatbestand hinzuweisen. Der Halter hat alle Mängel unverzüglich beheben zu lassen und das Fahrzeug zur Nachprüfung oder erneuten Nachprüfung der Mängelbeseitigung unter Vorlage des Untersuchungsberichts spätestens bis zum Ablauf eines Monats ab dem Tag der Hauptuntersuchung wieder vorzuführen.
 
 3.1.4.5  
-Mängel, die das Fahrzeug verkehrsunsicher machen, fest, so sind diese im Untersuchungsbericht einzutragen. Das Fahrzeug wird verkehrsunsicher durch gefährliche Mängel, die eine direkte und unmittelbare Verkehrsgefährdung darstellen oder die Umwelt beeinträchtigen und eine unmittelbare Untersagung des Betriebs des Fahrzeugs auf öffentlichen Straßen rechtfertigen. Die vorhandene Prüfplakette ist zu entfernen und es hat die unverzügliche Benachrichtigung der nach § 46 der Fahrzeug-Zulassungsverordnung zuständigen Zulassungsbehörde zu erfolgen. Der Fahrzeugführer ist darauf hinzuweisen, dass er das Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb setzen darf. Der Halter ist im Untersuchungsbericht auf diesen Gefährdungstatbestand hinzuweisen. Eine Nachprüfung ist erforderlich. Es erfolgt keine Zuteilung einer Prüfplakette.
+Mängel, die das Fahrzeug verkehrsunsicher machen, fest, so sind diese im Untersuchungsbericht einzutragen. Das Fahrzeug wird verkehrsunsicher durch gefährliche Mängel, die eine direkte und unmittelbare Verkehrsgefährdung darstellen oder die Umwelt beeinträchtigen und eine unmittelbare Untersagung des Betriebs des Fahrzeugs auf öffentlichen Straßen rechtfertigen. Die vorhandene Prüfplakette ist zu entfernen und es hat die unverzügliche Benachrichtigung der nach § 75 der Fahrzeug-Zulassungsverordnung zuständigen Zulassungsbehörde zu erfolgen. Der Fahrzeugführer ist darauf hinzuweisen, dass er das Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb setzen darf. Der Halter ist im Untersuchungsbericht auf diesen Gefährdungstatbestand hinzuweisen. Eine Nachprüfung ist erforderlich. Es erfolgt keine Zuteilung einer Prüfplakette.
 
 3.1.4.6  
 Mängel fest, die vor Abschluss der Untersuchung, längstens während eines Kalendertages beseitigt werden, so sind diese unter Angabe der Uhrzeit ebenfalls im Untersuchungsbericht einzutragen. Die sofortige Mängelbeseitigung ist durch die Bezeichnung der Mängel in Verbindung mit einer eindeutigen Bestätigung der untersuchenden Person unter Angabe der Uhrzeit zu bescheinigen. Die Vorschriften über die Zuteilung einer Prüfplakette nach § 29 Absatz 3 bleiben hiervon unberührt.
@@ -3627,7 +3632,7 @@ Mängel fest, die vor Abschluss der Untersuchung, längstens während eines Kale
 Mängel nicht selbst fest, sondern werden in nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten bei der Durchführung der Untersuchung des Motormanagement-/Abgasreinigungssystems im Rahmen des eigenständigen Teils der Hauptuntersuchung nach Nummer 3.1.1.1 Mängel festgestellt, die vor Abschluss der Untersuchung des Motormanagement-/Abgasreinigungssystems, längstens innerhalb eines Kalendertages beseitigt werden, so sind diese in Form einer Mängelnummer auf dem Nachweis einzutragen und vom aaSoP oder PI im Untersuchungsbericht zu übernehmen. Die sofortige Mängelbeseitigung ist in Verbindung mit einer eindeutigen Bestätigung der verantwortlichen Person zu bescheinigen. Die Vorschriften über die Zuteilung einer Prüfplakette nach § 29 Absatz 3 bleiben hiervon unberührt.
 
 3.1.4.8  
-bei der Eintragung der Laufleistung des Fahrzeugs nach dem Stand des Wegstreckenzählers in den Untersuchungsbericht durch Vergleich mit der in dem Untersuchungsbericht der zuletzt durchgeführten Hauptuntersuchung dokumentierten oder nach § 39 Absatz 5b der Fahrzeug-Zulassungsverordnung übermittelten Laufleistung des Fahrzeugs fest, dass der durch den Wegstreckenzähler angezeigte Stand niedriger ist als der auf dem Untersuchungsbericht oder Prüfprotokoll dokumentierte Stand, der bei der zuletzt durchgeführten Hauptuntersuchung oder Sicherheitsprüfung festgestellt wurde, und der Einbau eines anderen Wegstreckenzählers in das Kraftfahrzeug nicht nachgewiesen werden kann, so ist der Stand des Wegstreckenzählers nicht plausibel und hat er das Ergebnis der Prüfung des Wegstreckenzählers unverzüglich den zuständigen Zulassungsbehörden auf elektronischem Weg über das Kraftfahrt-Bundesamt unter Benennung der fahrzeugidentifizierenden Merkmale mitzuteilen und die fehlende Plausibilität auf dem Untersuchungsbericht oder Prüfprotokoll zu vermerken.
+bei der Eintragung der Laufleistung des Fahrzeugs nach dem Stand des Wegstreckenzählers in den Untersuchungsbericht durch Vergleich mit der in dem Untersuchungsbericht der zuletzt durchgeführten Hauptuntersuchung dokumentierten oder nach § 66 Absatz 8 der Fahrzeug-Zulassungsverordnung übermittelten Laufleistung des Fahrzeugs fest, dass der durch den Wegstreckenzähler angezeigte Stand niedriger ist als der auf dem Untersuchungsbericht oder Prüfprotokoll dokumentierte Stand, der bei der zuletzt durchgeführten Hauptuntersuchung oder Sicherheitsprüfung festgestellt wurde, und der Einbau eines anderen Wegstreckenzählers in das Kraftfahrzeug nicht nachgewiesen werden kann, so ist der Stand des Wegstreckenzählers nicht plausibel und hat er das Ergebnis der Prüfung des Wegstreckenzählers unverzüglich den zuständigen Zulassungsbehörden auf elektronischem Weg über das Kraftfahrt-Bundesamt unter Benennung der fahrzeugidentifizierenden Merkmale mitzuteilen und die fehlende Plausibilität auf dem Untersuchungsbericht oder Prüfprotokoll zu vermerken.
 
 3.1.5  
 Untersuchungsberichte über Hauptuntersuchungen sind fälschungserschwerend auszuführen oder müssen einen HU-Code aufweisen.

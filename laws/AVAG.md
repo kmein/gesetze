@@ -23,7 +23,9 @@ e) Vertrag vom 14. November 1983 zwischen der Bundesrepublik Deutschland und Spa
 
 a) Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen;
 
-b) Haager Übereinkommen vom 30. Juni 2005 über Gerichtsstandsvereinbarungen.
+b) Haager Übereinkommen vom 30. Juni 2005 über Gerichtsstandsvereinbarungen;
+
+c) Haager Übereinkommen vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen.
 
 (2) Abkommen nach Absatz 1 Nummer 2 werden als unmittelbar geltendes Recht der Europäischen Union durch die Durchführungsbestimmungen dieses Gesetzes nicht berührt. Unberührt bleiben auch die Regelungen der Anerkennungs- und Vollstreckungsverträge; dies gilt insbesondere für die Regelungen über
 
@@ -433,4 +435,10 @@ Die Bescheinigungen nach den Artikeln 54, 57 und 58 des Übereinkommens vom 30. 
 
 (1) Bescheinigungen nach Artikel 13 Absatz 1 Buchstabe e und Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über Gerichtsstandsvereinbarungen werden von dem Gericht ausgestellt, dem die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
-(2) Die Entscheidung über die Ausstellung der Bescheinigung nach Artikel 13 Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über Gerichtsstandsvereinbarungen ist anfechtbar. Hierfür gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel sinngemäß.
+(2) Die Entscheidung über die Ausstellung einer Bescheinigung nach Artikel 13 Absatz 1 Buchstabe e oder Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über Gerichtsstandsvereinbarungen ist anfechtbar. Hierfür gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel sinngemäß.
+
+# § 59 – Bescheinigungen zu inländischen Titeln
+
+(1) Bescheinigungen nach Artikel 12 Absatz 1 Buchstabe d und Absatz 3 des Haager Übereinkommens vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen werden von dem Gericht ausgestellt, dem die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
+
+(2) Die Entscheidung über die Ausstellung der Bescheinigung nach Artikel 12 Absatz 1 Buchstabe d oder Absatz 3 des Haager Übereinkommens vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen ist anfechtbar. Hierfür gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel sinngemäß.

@@ -13,11 +13,13 @@ Eingangsformel Kursivdruck: Müsste richtig "(BGBl. I S. 1336), von denen § 6a"
 
 (2) Bei der Erhebung der Gebühren dürfen mehrere miteinander verbundene, im Gebührentarif genannte Amtshandlungen, Prüfungen oder Untersuchungen in einer Gesamtbezeichnung, die zugehörigen Beträge in einem Gesamtbetrag zusammengefasst werden.
 
+(3) Unterliegt die Amtshandlung der Umsatzsteuer, kann diese der Gebühr hinzugerechnet werden.
+
 # § 2 – Auslagen
 
 (1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der Gebührenschuldner folgende Auslagen zu tragen:
 
- 1. Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen, soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
+ 1. Portokosten; Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen, soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
 
  2. Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die auf besonderen Antrag erteilt werden; für die Berechnung der Schreibauslagen gilt Nummer 31000 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz,
 
@@ -39,7 +41,7 @@ Eingangsformel Kursivdruck: Müsste richtig "(BGBl. I S. 1336), von denen § 6a"
 
 10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht, soweit ein Verstoß gegen diese Vorschriften nachgewiesen wird,
 
-11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung der Zulassungsbehörde an den Versicherer auf Grund der Versicherungsbestätigung nach § 24 Absatz 1 der Fahrzeug-Zulassungsverordnung oder der Anzeige nach § 25 Absatz 2 der Fahrzeug-Zulassungsverordnung,
+11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung der Zulassungsbehörde an den Versicherer auf Grund der Versicherungsbestätigung nach § 50 Absatz 1 der Fahrzeug-Zulassungsverordnung oder der Anzeige nach § 51 Absatz 2 der Fahrzeug-Zulassungsverordnung,
 
 12. die Kosten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, eines technischen Dienstes mit Gesamtfahrzeugbefugnissen der jeweiligen Fahrzeugklassen oder einer anderen vom Kraftfahrt-Bundesamt beauftragten Stelle für die Begutachtung eines Kraftfahrzeugs mit automatisierter oder autonomer Fahrfunktion einschließlich der Bewertung der informationstechnischen Sicherheit von Fahrzeugen und Fahrzeugteilen,
 

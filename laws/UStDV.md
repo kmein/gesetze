@@ -669,11 +669,11 @@ Hat der Unternehmer statt des Ausgangsvermerks eine von der Ausfuhrzollstelle au
 
 (2) Bei der Ausfuhr von Fahrzeugen im Sinne des § 1b Absatz 2 Satz 1 Nummer 1 des Gesetzes, die zum bestimmungsmäßigen Gebrauch im Straßenverkehr einer Zulassung bedürfen, muss
 
-1. der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer im Sinne des § 6 Absatz 5 Nummer 5 der Fahrzeug-Zulassungsverordnung enthalten und
+1. der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer im Sinne des § 6 Absatz 6 Nummer 6 der Fahrzeug-Zulassungsverordnung enthalten und
 
 2. der Unternehmer zusätzlich über eine Bescheinigung über die Zulassung, die Verzollung oder die Einfuhrbesteuerung im Drittland verfügen.
 
-Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung vom 3. Februar 2011 (BGBl. I S. 139), die durch Artikel 3 der Verordnung vom 10. Mai 2012 (BGBl. I S. 1086) geändert worden ist, in der jeweils geltenden Fassung auf öffentlichen Straßen in Betrieb gesetzt worden ist und nicht auf eigener Achse in das Drittlandsgebiet ausgeführt wird.
+Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung auf öffentlichen Straßen in Betrieb gesetzt worden ist und nicht auf eigener Achse in das Drittlandsgebiet ausgeführt wird.
 
 (3) An die Stelle der Ausfuhrbestätigung nach Absatz 1 Satz 1 Nummer 2 Buchstabe d tritt bei einer Ausfuhr im gemeinsamen Versandverfahren oder im Unionsversandverfahren oder bei einer Ausfuhr mit Carnets TIR, wenn diese Verfahren nicht bei einer Grenzzollstelle beginnen, eine Ausfuhrbestätigung der Abgangsstelle. Diese Ausfuhrbestätigung wird nach Eingang des Beendigungsnachweises für das Versandverfahren erteilt, sofern sich aus ihr die Ausfuhr ergibt.
 
