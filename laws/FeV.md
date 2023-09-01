@@ -1761,7 +1761,7 @@ und die entsprechende Kennziffer,
 
 2. der Anerkennung von Überwachungsorganisationen nach Anlage VIIIb der Straßenverkehrs-Zulassungs-Ordnung,
 
-3. der Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Abgasuntersuchungen nach Anlage VIIIc der Straßenverkehrs-Zulassungs-Ordnung und für die Zuteilung von roten Kennzeichen nach § 16 Absatz 3 oder § 17 der Fahrzeug-Zulassungsverordnung
+3. der Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Abgasuntersuchungen nach Anlage VIIIc der Straßenverkehrs-Zulassungs-Ordnung und für die Zuteilung von roten Kennzeichen nach § 41 Absatz 4 oder § 43 der Fahrzeug-Zulassungsverordnung
 
 werden gemäß § 30 Absatz 1 Nummer 3 des Straßenverkehrsgesetzes die auf Grund des § 28 Absatz 3 Nummer 1 bis 3 des Straßenverkehrsgesetzes nach § 59 Absatz 1 dieser Verordnung gespeicherten Daten übermittelt.
 

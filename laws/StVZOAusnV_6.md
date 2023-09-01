@@ -11,7 +11,7 @@ Abweichend von § 5 der Straßenverkehrs-Zulassungs-Ordnung (StVZO) bildet das M
 
 # § 2
 
-Abweichend von § 3 Abs. 1 der Fahrzeug-Zulassungsverordnung genügt bei Gerätewagen in Lohndreschbetrieben, wenn sie nur für Zwecke dieser Betriebe verwendet und mit einer Geschwindigkeit von nicht mehr als 25 km/h hinter Zugmaschinen oder selbstfahrenden Arbeitsmaschinen mitgeführt werden, die entsprechende Anwendung des § 4 Abs. 1 und 5 Satz 1 der Fahrzeug-Zulassungsverordnung; § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe a und Satz 2 der Fahrzeug-Zulassungsverordnung gelten entsprechend.
+Abweichend von § 3 Abs. 1 der Fahrzeug-Zulassungsverordnung genügt bei Gerätewagen in Lohndreschbetrieben, wenn sie nur für Zwecke dieser Betriebe verwendet und mit einer Geschwindigkeit von nicht mehr als 25 km/h hinter Zugmaschinen oder selbstfahrenden Arbeitsmaschinen mitgeführt werden, die entsprechende Anwendung des § 4 Abs. 1 und 5 Satz 1 der Fahrzeug-Zulassungsverordnung; § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe a und Satz 2 der Fahrzeug-Zulassungsverordnung gelten entsprechend.
 
 # § 3
 

@@ -452,7 +452,8 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 (2) Für die gehobene Erlaubnis gelten § 11 Absatz 2 und § 14 Absatz 3 bis 5 entsprechend.
 
 § 15 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 15 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__15.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)  
-§ 15 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch § 6 Abs. 1 Satz 2 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)
+§ 15 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch § 6 Abs. 1 Satz 2 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
+§ 15 idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 14 zweite Variante des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 des Gesetzes zur Änderung wasser- und wasserverbandsrechtlicher Vorschriften vom 8.7.2016 GV. NRW. S. 559; Abweichung aufgeh. durch Art. 1 Nr. 4 G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 18.5.2021 (vgl. BGBl 2023 I Nr. 231)
 
 # § 16 – Ausschluss privatrechtlicher Abwehransprüche
 
@@ -801,6 +802,7 @@ Zulässig sind Maßnahmen, die zur Gefahrenabwehr notwendig sind. Satz 2 Nummer 
 (5) Die zuständige Behörde kann von einem Verbot nach Absatz 4 Satz 2 eine widerrufliche Befreiung erteilen, wenn überwiegende Gründe des Wohls der Allgemeinheit die Maßnahme erfordern oder das Verbot im Einzelfall zu einer unbilligen Härte führt. Die Befreiung kann aus Gründen des Wohls der Allgemeinheit auch nachträglich mit Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten, dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen erfüllt. Für die Erteilung der Befreiung gilt § 11a Absatz 4 und 5 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen erforderlich ist.
 
 § 38 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 21 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__21.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
+§ 38 idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 31 Abs. 1 bis 4, 5 Satz 1 Nr. 1 u. Satz 2 u. 3 des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 des Gesetzes zur Änderung wasser- und wasserverbandsrechtlicher Vorschriften vom 8.7.2016 GV. NRW. S. 559; Abweichung aufgeh. durch Art. 1 Nr. 12 Buchst. a u. Buchst. b DBuchst. aa u. cc G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 18.5.2021 (vgl. BGBl 2023 I Nr. 231)  
 § 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
 § 38 Abs. 2 idF d. G v. 7.8.2013 I 3154: Rheinland-Pfalz - Abweichung durch § 15a Abs. 1 Landeswassergesetz Rheinland-Pfalz (LWG) idF d. G v. 28.9.2010, GVBl. RP 2004, 54 mWv 6.10.2010 (vgl. BGBl. I 2013, 12)  
 § 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 33 Abs. 1 bis 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__33.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
@@ -1123,7 +1125,8 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (4) Durch Landesrecht können abweichende Regelungen getroffen werden.
 
-§ 49 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 30 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__30.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
+§ 49 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 30 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__30.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
+§ 49 idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 34 Abs. 1 Satz 1 Nr. 5 u. 6 des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 18.5.2021 (vgl. BGBl 2023 I Nr. 232)
 
 # § 50 – Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1177,6 +1180,7 @@ kann die Landesregierung durch Rechtsverordnung Wasserschutzgebiete festsetzen. 
 
 (2) Trinkwasserschutzgebiete sollen nach Maßgabe der allgemein anerkannten Regeln der Technik in Zonen mit unterschiedlichen Schutzbestimmungen unterteilt werden.
 
+§ 51 idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 35 Abs. 2 des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 des Gesetzes zur Änderung wasser- und wasserverbandsrechtlicher Vorschriften vom 8.7.2016 GV. NRW. S. 559; Abweichung aufgeh. durch Art. 1 Nr. 15 Buchst. a G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 1.10.2021 (vgl. BGBl 2023 I Nr. 231)  
 § 51 Abs. 1 Satz 1 Nr. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 31 Abs. 3 u. 4 Bayerisches Wassergesetz (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__31.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBl 2010, 66, 2012, 40, BayRS 753-1-UG, dieser Art. geändert durch § 1 Nr. 1 G v. 16.2.2012, mWv 29.2.2012 (vgl. BGBl. I 2012, 2176)
 
 # § 52 – Besondere Anforderungen in Wasserschutzgebieten
@@ -1205,6 +1209,7 @@ Die zuständige Behörde kann von Verboten, Beschränkungen sowie Duldungs- und 
 
 (5) Setzt eine Anordnung nach Absatz 1 Satz 1 Nummer 1 oder Nummer 2, auch in Verbindung mit Absatz 2 oder Absatz 3, erhöhte Anforderungen fest, die die ordnungsgemäße land- oder forstwirtschaftliche Nutzung eines Grundstücks einschränken, so ist für die dadurch verursachten wirtschaftlichen Nachteile ein angemessener Ausgleich zu leisten, soweit nicht eine Entschädigungspflicht nach Absatz 4 besteht.
 
+§ 52 idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 35 Abs. 2 des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 des Gesetzes zur Änderung wasser- und wasserverbandsrechtlicher Vorschriften vom 8.7.2016 GV. NRW. S. 559; Abweichung aufgeh. durch Art. 1 Nr. 15 Buchst. a G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 1.10.2021 (vgl. BGBl 2023 I Nr. 231)  
 § 52 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
 § 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 92 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__92.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
 § 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 74 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__74.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 568)  
@@ -2092,6 +2097,8 @@ Ein Ausgleich nach § 52 Absatz 5 und § 78a Absatz 5 Satz 4 ist in Geld zu leis
 (5) Die Länder können das Vorkaufsrecht auf Antrag auch zugunsten von Körperschaften und Stiftungen des öffentlichen Rechts ausüben.
 
 (6) Abweichende Rechtsvorschriften der Länder bleiben unberührt.
+
+§ 99a idF d. G v. 31.7.2009 I 2585: Nordrhein-Westfalen - Abweichung durch § 73 des Landeswassergesetzes (LWG) NW idF d. Bek. v. 25.6.1995 GV. NRW. S. 926, dieser zuletzt geändert durch Art. 1 des Gesetzes zur Änderung wasser- und wasserverbandsrechtlicher Vorschriften vom 8.7.2016 GV. NRW. S. 559; Abweichung aufgeh. durch Art. 1 Nr. 32 G v. 4.5.2021 GV. NRW. S. 560, ber. S. 718 mWv 18.5.2021 (vgl. BGBl 2023 I Nr. 231)
 
 # § 100 – Aufgaben der Gewässeraufsicht
 

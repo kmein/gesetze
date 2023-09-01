@@ -7,9 +7,9 @@ Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit 
 
 # § 1 – Versicherungskennzeichen
 
-(1) Versicherungskennzeichen nach § 26 der Fahrzeug-Zulassungsverordnung dürfen sich abweichend von § 27 der Fahrzeug-Zulassungsverordnung in Verbindung mit Anlage 12 zu § 27 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung aus einer Kennzeichenfolie und der dazugehörigen Trägerplatte zusammensetzen, wenn die Maßgaben der Absätze 2 bis 6 erfüllt sind.
+(1) Versicherungskennzeichen nach § 52 der Fahrzeug-Zulassungsverordnung dürfen sich abweichend von § 53 der Fahrzeug-Zulassungsverordnung in Verbindung mit Anlage 17 zu § 53 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung aus einer Kennzeichenfolie und der dazugehörigen Trägerplatte zusammensetzen, wenn die Maßgaben der Absätze 2 bis 6 erfüllt sind.
 
-(2) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten, dass die Festigkeit des Verbundes aus der Kennzeichenfolie und der dazugehörigen Trägerplatte den Anforderungen gemäß Nummer 4 Satz 7 der Anlage 12 zu § 27 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung entspricht. Dies ist durch das Gutachten eines für Bauteilprüfung geeigneten Sachverständigen nachzuweisen.
+(2) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten, dass die Festigkeit des Verbundes aus der Kennzeichenfolie und der dazugehörigen Trägerplatte den Anforderungen gemäß Nummer 4 Satz 7 der Anlage 17 zu § 53 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung entspricht. Dies ist durch das Gutachten eines für Bauteilprüfung geeigneten Sachverständigen nachzuweisen.
 
 (3) Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-Schrift). Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage entsprechen.
 
@@ -19,7 +19,7 @@ Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit 
 
 (6) Es ist ein fälschungserschwerendes Merkmal in Form eines transparenten diffraktiven Hologrammmotivs vorzusehen, das dauernd fest mit der Kennzeichenfolie verbunden ist und die Lesbarkeit der Beschriftung der Kennzeichenfolie nicht beeinträchtigt. Das Motiv des Hologramms soll die Anmutung eines Glasbruchs haben. Das Hologramm ist in Form eines durchgehenden Streifens linksbündig am rechten Rand des Versicherungskennzeichens transparent auszugestalten. Dieser Streifen ist unterlegt mit dem hellgrauen Schriftzug „VERSICHERUNGSKENNZEICHEN“, der von rechts oben nach rechts unten, sowohl vertikal als auch horizontal mittig zwischen den Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug „VERSICHERUNGSKENNZEICHEN“ ist in der Schriftart Arial Fett in Schrifthöhe 4 Millimeter in Großbuchstaben auszuführen. Zusätzlich muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination rechtsbündig in Form eines transparenten Hologramms der Schriftzug „GDV“, gefolgt von der jeweiligen Jahreszahl des Versicherungsjahres, nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-Schrift) in einer Schrifthöhe von 8 Millimetern angebracht sein. Auf der Kennzeichenfolie muss zudem ein verdecktes Sicherheitsmerkmal nach Wahl des Herstellers der Kennzeichenfolie vorhanden sein; es ist so zu wählen, dass die automatische Erfassung des Kennzeichens nicht erschwert wird.
 
-(7) Im Übrigen bleiben die Regelungsinhalte der Anlage 12 zu § 27 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung unberührt.
+(7) Im Übrigen bleiben die Regelungsinhalte der Anlage 17 zu § 53 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung unberührt.
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 

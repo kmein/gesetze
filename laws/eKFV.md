@@ -25,7 +25,7 @@
 
 1. es einem Typ entspricht, für den eine Allgemeine Betriebserlaubnis erteilt worden ist, oder für das Fahrzeug eine Einzelbetriebserlaubnis erteilt worden ist,
 
-2. es eine gültige Versicherungsplakette für Elektrokleinstfahrzeuge nach § 29a der Fahrzeug-Zulassungsverordnung führt,
+2. es eine gültige Versicherungsplakette für Elektrokleinstfahrzeuge nach § 56 der Fahrzeug-Zulassungsverordnung führt,
 
 3. es entsprechend § 59 Absatz 1 Satz 1, Absatz 1a erster Halbsatz, Absatz 1b oder 2 der Straßenverkehrs-Zulassungs-Ordnung mit einer Fahrzeug-Identifizierungsnummer sowie einem Fabrikschild mit folgenden Maßgaben gekennzeichnet ist:
 

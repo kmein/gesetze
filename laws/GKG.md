@@ -711,7 +711,7 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (2) In Verfahren vor den Gerichten für Arbeitssachen ist Absatz 1 nicht anzuwenden, soweit eine Kostenhaftung nach § 29 Nummer 1 oder 2 besteht. Absatz 1 ist ferner nicht anzuwenden, solange bei einer Zurückverweisung des Rechtsstreits an die Vorinstanz nicht feststeht, wer für die Kosten nach § 29 Nummer 1 oder 2 haftet, und der Rechtsstreit noch anhängig ist; er ist jedoch anzuwenden, wenn das Verfahren nach Zurückverweisung sechs Monate geruht hat oder sechs Monate von den Parteien nicht betrieben worden ist.
 
-(3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung oder nach § 57 oder § 58 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
+(3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung oder nach § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
 
 (4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 20 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
 
