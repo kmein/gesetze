@@ -5600,20 +5600,6 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 (2) Durch Rechtsverordnung können Bestimmungen über den Zeitpunkt, die Form und den Inhalt der Anmeldung getroffen werden. Die Rechtsverordnung erlässt die Bundesregierung, soweit es sich um Verkehrsteuern mit Ausnahme der Luftverkehrsteuer handelt, im Übrigen das Bundesministerium der Finanzen. Die Rechtsverordnung des Bundesministeriums der Finanzen bedarf der Zustimmung des Bundesrates nur, soweit sie die Biersteuer betrifft.
 
-# § 139a – Identifikationsmerkmal
-
-(1) Das Bundeszentralamt für Steuern teilt jedem Steuerpflichtigen zum Zwecke der eindeutigen Identifizierung in Besteuerungsverfahren ein einheitliches und dauerhaftes Merkmal (Identifikationsmerkmal) zu; das Identifikationsmerkmal ist vom Steuerpflichtigen oder von einem Dritten, der Daten dieses Steuerpflichtigen an die Finanzbehörden zu übermitteln hat, bei Anträgen, Erklärungen oder Mitteilungen gegenüber Finanzbehörden anzugeben. Es besteht aus einer Ziffernfolge, die nicht aus anderen Daten über den Steuerpflichtigen gebildet oder abgeleitet werden darf; die letzte Stelle ist eine Prüfziffer. Natürliche Personen erhalten eine Identifikationsnummer, wirtschaftlich Tätige eine Wirtschafts-Identifikationsnummer. Der Steuerpflichtige ist über die Zuteilung eines Identifikationsmerkmals unverzüglich zu unterrichten.
-
-(2) Steuerpflichtiger im Sinne dieses Unterabschnitts ist jeder, der nach einem Steuergesetz steuerpflichtig ist.
-
-(3) Wirtschaftlich Tätige im Sinne dieses Unterabschnitts sind:
-
-1. natürliche Personen, die wirtschaftlich tätig sind,
-
-2. juristische Personen,
-
-3. Personenvereinigungen.
-
 # § 139b – Identifikationsnummer
 
 (1) Eine natürliche Person darf nicht mehr als eine Identifikationsnummer erhalten. Jede Identifikationsnummer darf nur einmal vergeben werden.
@@ -5672,7 +5658,7 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 5. den Finanzbehörden die Erfüllung der ihnen durch Rechtsvorschrift zugewiesenen Aufgaben zu ermöglichen.
 
-Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch gespeichert und können von den Trägern der gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden.
+Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch gespeichert und können von den Trägern der gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
 (4a) Die in Absatz 3 Nummer 3 bis 6, 8 und 10 aufgeführten Daten werden bei einer natürlichen Person, die ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer zuvor in die Übermittlung eingewilligt hat.
 
@@ -5680,7 +5666,7 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 (4c) Die nach Absatz 3a gespeicherten Daten werden gespeichert, um eine unbare Auszahlung von Leistungen aus öffentlichen Mitteln zu ermöglichen, bei denen die Verwendung der nach Absatz 3a gespeicherten Daten vorgesehen ist. Die in Absatz 3 aufgeführten Daten werden bei einer natürlichen Person auch für die in Satz 1 genannten Zwecke gespeichert.
 
-(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4c genannten Zwecke verarbeitet werden. Die in Absatz 3a aufgeführten Daten dürfen nur für die in Absatz 4c genannten Zwecke verarbeitet werden; eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten.
+(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4c genannten Zwecke verarbeitet werden. Die in Absatz 3a aufgeführten Daten dürfen nur für die in Absatz 4c genannten Zwecke verarbeitet werden; eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
 (6) Zum Zwecke der erstmaligen Zuteilung der Identifikationsnummer übermitteln die Meldebehörden dem Bundeszentralamt für Steuern für jeden in ihrem Zuständigkeitsbereich mit alleiniger Wohnung oder Hauptwohnung im Melderegister registrierten Einwohner folgende Daten:
 
