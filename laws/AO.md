@@ -5600,6 +5600,20 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 (2) Durch Rechtsverordnung können Bestimmungen über den Zeitpunkt, die Form und den Inhalt der Anmeldung getroffen werden. Die Rechtsverordnung erlässt die Bundesregierung, soweit es sich um Verkehrsteuern mit Ausnahme der Luftverkehrsteuer handelt, im Übrigen das Bundesministerium der Finanzen. Die Rechtsverordnung des Bundesministeriums der Finanzen bedarf der Zustimmung des Bundesrates nur, soweit sie die Biersteuer betrifft.
 
+# § 139a – Identifikationsmerkmal
+
+(1) Das Bundeszentralamt für Steuern teilt jedem Steuerpflichtigen und jeder sonstigen natürlichen Person, die bei einer öffentlichen Stelle ein Verwaltungsverfahren führt, zum Zwecke der eindeutigen Identifizierung in Besteuerungs- und Verwaltungsverfahren ein einheitliches und dauerhaftes Merkmal (Identifikationsmerkmal) zu; das Identifikationsmerkmal ist vom Steuerpflichtigen oder von einem Dritten, der Daten dieses Steuerpflichtigen an die Finanzbehörden zu übermitteln hat, bei Anträgen, Erklärungen oder Mitteilungen gegenüber Finanzbehörden anzugeben. Es besteht aus einer Ziffernfolge, die nicht aus anderen Daten über die betroffene Person gebildet oder abgeleitet werden darf; die letzte Stelle ist eine Prüfziffer. Natürliche Personen erhalten eine Identifikationsnummer, wirtschaftlich Tätige eine Wirtschafts-Identifikationsnummer. Die betroffene Person ist über die Zuteilung eines Identifikationsmerkmals unverzüglich zu unterrichten.
+
+(2) Steuerpflichtiger im Sinne dieses Unterabschnitts ist jeder, der nach einem Steuergesetz steuerpflichtig ist.
+
+(3) Wirtschaftlich Tätige im Sinne dieses Unterabschnitts sind:
+
+1. natürliche Personen, die wirtschaftlich tätig sind,
+
+2. juristische Personen,
+
+3. Personenvereinigungen.
+
 # § 139b – Identifikationsnummer
 
 (1) Eine natürliche Person darf nicht mehr als eine Identifikationsnummer erhalten. Jede Identifikationsnummer darf nur einmal vergeben werden.
