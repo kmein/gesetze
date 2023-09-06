@@ -169,10 +169,6 @@ Abschnitt 3
 
 Visumverfahren
 
-§ 30a
-
-Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren und bei der Unterrichtung über die Erteilung von Visa
-
 § 31
 
 Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -1005,8 +1001,6 @@ Für die Einreise in das Bundesgebiet aus einem anderen Schengen-Staat und einen
 1. auf Grund einer zwischenstaatlichen Vereinbarung über die Gestattung der Durchreise durch das Bundesgebiet reisen, oder
 
 2. auf Grund einer zwischenstaatlichen Vereinbarung oder mit Einwilligung des Bundesministeriums des Innern, für Bau und Heimat oder der von ihm beauftragten Stelle durch das Bundesgebiet durchbefördert werden; in diesem Fall gilt die Befreiung auch für die sie begleitenden Aufsichtspersonen.
-
-# § 30a – (weggefallen)
 
 # § 31 – Zustimmung der Ausländerbehörde zur Visumerteilung
 
