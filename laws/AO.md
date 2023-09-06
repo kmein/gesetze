@@ -4097,13 +4097,15 @@ Die Finanzbehörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie e
 
 # § 87 – Amtssprache
 
-(1) Die Amtssprache ist deutsch.
+(1) Die Amtssprache ist Deutsch.
 
 (2) Werden bei einer Finanzbehörde in einer fremden Sprache Anträge gestellt oder Eingaben, Belege, Urkunden oder sonstige Dokumente vorgelegt, kann die Finanzbehörde verlangen, dass unverzüglich eine Übersetzung vorgelegt wird. In begründeten Fällen kann die Vorlage einer beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung verlangt werden. Wird die verlangte Übersetzung nicht unverzüglich vorgelegt, so kann die Finanzbehörde auf Kosten des Beteiligten selbst eine Übersetzung beschaffen. Hat die Finanzbehörde Dolmetscher oder Übersetzer herangezogen, erhalten diese eine Vergütung in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes.
 
 (3) Soll durch eine Anzeige, einen Antrag oder die Abgabe einer Willenserklärung eine Frist in Lauf gesetzt werden, innerhalb deren die Finanzbehörde in einer bestimmten Weise tätig werden muss, und gehen diese in einer fremden Sprache ein, so beginnt der Lauf der Frist erst mit dem Zeitpunkt, in dem der Finanzbehörde eine Übersetzung vorliegt.
 
 (4) Soll durch eine Anzeige, einen Antrag oder eine Willenserklärung, die in fremder Sprache eingehen, zugunsten eines Beteiligten eine Frist gegenüber der Finanzbehörde gewahrt, ein öffentlich-rechtlicher Anspruch geltend gemacht oder eine Leistung begehrt werden, so gelten die Anzeige, der Antrag oder die Willenserklärung als zum Zeitpunkt des Eingangs bei der Finanzbehörde abgegeben, wenn auf Verlangen der Finanzbehörde innerhalb einer von dieser zu setzenden angemessenen Frist eine Übersetzung vorgelegt wird. Andernfalls ist der Zeitpunkt des Eingangs der Übersetzung maßgebend, soweit sich nicht aus zwischenstaatlichen Vereinbarungen etwas anderes ergibt. Auf diese Rechtsfolge ist bei der Fristsetzung hinzuweisen.
+
+§ 87 Abs. 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 87a – Elektronische Kommunikation
 
