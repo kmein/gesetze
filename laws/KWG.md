@@ -4001,7 +4001,6 @@ Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bund
 (+++ § 24 Abs. 1 Nr. 1 u. 2: Zur Nichtanwendung vgl. § 2 Abs. 9f +++)  
 (+++ § 24 Abs. 1 Nr. 1, 2 u. 11, Abs. 1a Nr. 2: Zur Geltung vgl. § 2 Abs. 12 Satz 1 u. 2 +++)  
 (+++ § 24 Abs. 1 Nr. 4, 6, 9, 11, 14, 14a, 16 u. 17, Abs. 1a Nr. 4 bis 8, Abs. 1b: Zur Nichtanwendung vgl. § 2 Abs. 9e +++)  
-(+++ § 24 Abs. 1 Nr. 4, 6, 9, 11, 14, 14a, 16 u. 17, Abs. 1a Nr. 5: Zur Nichtanwendung vgl. § 2 Abs. 9g, Abs. 9h +++)  
 (+++ § 24 Abs. 1 Nr. 4, 6, 9, 11, 14 bis 14b, 16 u. 17, Abs. 1a Nr. 5: Zur Nichtanwendung vgl. § 2 Abs. 7a +++)  
 (+++ § 24 Abs. 1 Nr. 5 u. 7: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 5 +++)  
 (+++ § 24 Abs. 1 Nr. 6, 10, 14 bis 14b, 16, Abs. 1a Nr. 4 bis 8: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
