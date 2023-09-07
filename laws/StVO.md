@@ -780,6 +780,10 @@ für Verkehrsteilnehmer in der Kreuzung: „Kreuzung räumen“.
 
 (5) Polizeibeamte dürfen Verkehrsteilnehmer zur Verkehrskontrolle einschließlich der Kontrolle der Verkehrstüchtigkeit und zu Verkehrserhebungen anhalten. Das Zeichen zum Anhalten kann auch durch geeignete technische Einrichtungen am Einsatzfahrzeug, eine Winkerkelle oder eine rote Leuchte gegeben werden. Mit diesen Zeichen kann auch ein vorausfahrender Verkehrsteilnehmer angehalten werden. Die Verkehrsteilnehmer haben die Anweisungen der Polizeibeamten zu befolgen.
 
+# § 36a – Zeichen und Weisungen bei Transportbegleitung mit Anordnungsbefugnis
+
+Die Zeichen und Weisungen eines Transportbegleiters nach § 3 Absatz 1 Nummer 2 der Straßenverkehr-Transportbegleitungsverordnung, die dieser in entsprechender Anwendung des § 36 Absatz 1 bis 4 gibt, sind zu befolgen. Zeichen und Weisungen der Polizei gehen den Zeichen und Weisungen eines Transportbegleiters vor.
+
 # § 37 – Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
 
 (1) Lichtzeichen gehen Vorrangregeln und Vorrang regelnden Verkehrszeichen vor. Wer ein Fahrzeug führt, darf bis zu 10 m vor einem Lichtzeichen nicht halten, wenn es dadurch verdeckt wird.
@@ -990,6 +994,8 @@ kann die Länge der Gefahrstrecke angeben.
 (1) Zuständig zur Ausführung dieser Verordnung sind, soweit nichts anderes bestimmt ist, die Straßenverkehrsbehörden. Nach Maßgabe des Landesrechts kann die Zuständigkeit der obersten Landesbehörden und der höheren Verwaltungsbehörden im Einzelfall oder allgemein auf eine andere Stelle übertragen werden.
 
 (2) Die Polizei ist befugt, den Verkehr durch Zeichen und Weisungen (§ 36) und durch Bedienung von Lichtzeichenanlagen zu regeln. Bei Gefahr im Verzug kann zur Aufrechterhaltung der Sicherheit oder Ordnung des Straßenverkehrs die Polizei an Stelle der an sich zuständigen Behörden tätig werden und vorläufige Maßnahmen treffen; sie bestimmt dann die Mittel zur Sicherung und Lenkung des Verkehrs.
+
+(2a) Transportbegleiter nach § 1 Nummer 6 der Straßenverkehr-Transportbegleitungsverordnung sind befugt, den Verkehr nach Maßgabe des § 3 der Straßenverkehr-Transportbegleitungsverordnung zu regeln.
 
 (3) Die Erlaubnis nach § 29 Absatz 2 und nach § 30 Absatz 2 erteilt die Straßenverkehrsbehörde, dagegen die höhere Verwaltungsbehörde, wenn die Veranstaltung über den Bezirk einer Straßenverkehrsbehörde hinausgeht, und die oberste Landesbehörde, wenn die Veranstaltung sich über den Verwaltungsbezirk einer höheren Verwaltungsbehörde hinaus erstreckt. Berührt die Veranstaltung mehrere Länder, ist diejenige oberste Landesbehörde zuständig, in deren Land die Veranstaltung beginnt. Nach Maßgabe des Landesrechts kann die Zuständigkeit der obersten Landesbehörden und der höheren Verwaltungsbehörden im Einzelfall oder allgemein auf eine andere Stelle übertragen werden.
 
@@ -1317,7 +1323,7 @@ verstößt.
 
 (3) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 36 Absatz 1 bis 4 ein Zeichen oder eine Weisung oder entgegen Absatz 5 Satz 4 ein Haltgebot oder eine Anweisung eines Polizeibeamten nicht befolgt,
+1. entgegen § 36 Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 oder Absatz 4, oder entgegen § 36 Absatz 5 Satz 4 oder § 36a Satz 1 ein Zeichen, eine Weisung oder eine Anweisung nicht befolgt,
 
 2. einer Vorschrift des § 37 über das Verhalten an Wechsellichtzeichen, Dauerlichtzeichen oder beim Rechtsabbiegen mit Grünpfeil zuwiderhandelt,
 
