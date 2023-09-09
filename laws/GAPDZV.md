@@ -332,13 +332,17 @@ Aktiver Betriebsinhaber ist ein Betriebsinhaber,
 
 4. der oder dessen Unternehmen ohne die Anwendbarkeit des Titels II der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1; L 200 vom 7.6.2004, S. 1), die zuletzt durch die Verordnung (EU) 2019/1149 (ABl. L 186 vom 11.7.2019, S. 21) geändert worden ist, in der jeweils geltenden Fassung Mitglied in der Nummer 1 genannten Unfallversicherung wäre,
 
-5. der für das Vorjahr zu dem Jahr, für das ein Antrag auf Direktzahlungen gestellt wird, vor Anwendung von Sanktionen keinen Anspruch auf Direktzahlungen von über 5 000 Euro hatte, oder
+5. der für das Vorjahr zu dem Jahr, für das ein Antrag auf Direktzahlungen gestellt wird, vor Anwendung von Sanktionen keinen Anspruch auf Direktzahlungen von über 5 000 Euro hatte,
 
 6. der
 
 a) für das Vorjahr zu dem Jahr, für das ein Antrag auf Direktzahlungen gestellt wird, keine Direktzahlungen beantragt hat und
 
-b) einen Anspruch hat, bei dem der Betrag, der sich ergibt durch die Multiplikation des Betrags von 225 Euro mit der Hektarzahl der förderfähigen Flächen, die er in dem Sammelantrag nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes im Jahr der Antragstellung angegeben hat, nicht größer als 5 000 Euro ist.
+b) einen Anspruch hat, bei dem der Betrag, der sich ergibt durch die Multiplikation des Betrags von 225 Euro mit der Hektarzahl der förderfähigen Flächen, die er in dem Sammelantrag nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes im Jahr der Antragstellung angegeben hat, nicht größer als 5 000 Euro ist, oder
+
+7. der, sofern nicht bereits ein Fall nach den Nummern 1 bis 6 vorliegt, mindestens eine zusätzliche sozialversicherte Arbeitskraft, ausgenommen der Fall einer geringfügigen Beschäftigung, in seinem landwirtschaftlichen Betrieb beschäftigt.
+
+(+++ § 8 Nr. 7: Zur Anwendung vgl. § 28 Abs. 1 u. 2 +++)
 
 # § 9 – Weitere Anforderung an Junglandwirtinnen und Junglandwirte
 
@@ -719,7 +723,13 @@ b) nur soweit erfolgt, bis die Summe der Produkte aus den jeweiligen abgesenkten
 
 Erfüllt ein Betriebsinhaber eine Voraussetzung für die Gewährung einer Direktzahlung aufgrund höherer Gewalt oder außergewöhnlicher Umstände nicht, behält er den Anspruch für die Flächen und Tiere, die im Zeitpunkt des Eintretens der höheren Gewalt oder außergewöhnlichen Umstände förderfähig waren.
 
-# § 28 – Inkrafttreten
+# § 28 – Anwendungsbestimmungen
+
+(1) § 8 Nummer 7 ist im Hinblick auf die Bewilligung fristgerecht eingegangener Sammelanträge für das Jahr 2023 mit Wirkung vom 1. Januar 2023 anzuwenden.
+
+(2) Für auf das Antragsjahr 2023 folgende Antragsjahre ist § 8 Nummer 7 ab dem Tag anzuwenden, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung zur Änderung des am 21. November 2022 genehmigten durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, ab dem § 8 Nummer 7 für auf das Antragsjahr 2023 folgende Antragsjahre anzuwenden ist, im Bundesgesetzblatt bekannt.
+
+# § 29 – Inkrafttreten
 
 (1) Die §§ 1, 14 und 17 Absatz 3 bis 5 treten am Tag nach der Verkündung in Kraft.
 

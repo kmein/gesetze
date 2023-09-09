@@ -389,7 +389,7 @@ Es kann auch ein anderes Gebiet gewählt werden, wenn dieses in gleicher Breite 
 
 # § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -557,7 +557,7 @@ Es kann auch ein anderes Gebiet gewählt werden, wenn dieses in gleicher Breite 
 
 # § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -729,7 +729,7 @@ Es kann auch ein anderes Gebiet gewählt werden, wenn dieses in gleicher Breite 
 
 # § 31 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -893,7 +893,7 @@ Es kann auch ein anderes Gebiet gewählt werden, wenn dieses in gleicher Breite 
 
 # § 39 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -1057,7 +1057,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 # § 47 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -1213,7 +1213,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 # § 55 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
@@ -1371,7 +1371,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 # § 63 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertung der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1. |                                           |                 |
 |:------------------------------------------|----------------:|
