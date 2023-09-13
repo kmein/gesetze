@@ -455,6 +455,8 @@ Die Bundesnetzagentur macht die Ausschreibungen spätestens vier Kalendermonate 
 
 (3) Haben für eine Fläche mehrere Bieter Gebote mit einem Gebotswert von 0 Cent pro Kilowattstunde abgegeben, erteilt die Bundesnetzagentur keinen Zuschlag und führt für diese Fläche das dynamische Gebotsverfahren nach § 21 durch.
 
+(+++ § 20 Abs. 1 Satz 2: Zur Anwendung vgl. § 21 Abs. 7 Satz 2 +++)
+
 # § 21 – Dynamisches Gebotsverfahren
 
 (1) Haben für eine Fläche mehrere Bieter Gebote mit einem Gebotswert von 0 Cent pro Kilowattstunde abgegeben, führt die Bundesnetzagentur für diese Fläche ein weiteres Gebotsverfahren durch (dynamisches Gebotsverfahren).
@@ -856,11 +858,15 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden anteilig für Maßnahmen des Meeresnaturschutzes sowie zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen sowie zur Senkung der Offshore-Netzumlage gemäß § 17f des Energiewirtschaftsgesetzes verwendet.
 
+(+++ § 57: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
+
 # § 58 – Meeresnaturschutz- und Fischereikomponente
 
 (1) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen des Meeresnaturschutzes möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Die Verpflichtungen nach § 15 des Bundesnaturschutzgesetzes bleiben unberührt.
 
 (2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
+
+(+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++) (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)
 
 # § 59 – Stromkostensenkungskomponente
 
@@ -868,9 +874,11 @@ Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 we
 
 (2) Die Stromkostensenkungskomponente nach Absatz 1 ist über einen Zeitraum von 20 Jahren in gleichbleibenden jährlichen Raten zu zahlen, beginnend mit der Erbringung des Nachweises nach § 81 Absatz 2 Nummer 4.
 
+(+++ § 59: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 1 +++)
+
 # § 60 – Eintrittsrecht für den Inhaber eines bestehenden Projekts
 
-(1) Der Inhaber eines bestehenden Projekts nach § 26 Absatz 5 hat nach Maßgabe dieses Abschnitts zum Ausgleich für die Überlassung der bei der Entwicklung seines Projekts durch ihn erhobenen Daten bei den Ausschreibungen nach Abschnitt 2 das Recht, in einen nach § 54 bis zum 31. Dezember 2030 erteilten Zuschlag einzutreten (Eintrittsrecht).
+(1) Der Inhaber eines bestehenden Projekts nach § 26 Absatz 2 hat nach Maßgabe dieses Abschnitts zum Ausgleich für die Überlassung der bei der Entwicklung seines Projekts durch ihn erhobenen Daten bei den Ausschreibungen nach Abschnitt 5 das Recht, in einen nach § 54 bis zum 31. Dezember 2030 erteilten Zuschlag einzutreten (Eintrittsrecht).
 
 (2) Inhaber eines bestehenden Projekts im Sinn von Absatz 1 ist
 
@@ -930,7 +938,7 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 2. an die Stelle des Bundesamtes für Seeschifffahrt und Hydrographie die zuständige Landesbehörde tritt.
 
-(+++ § 41 Abs. 3: Zur Anwendung vgl. § 66 Abs. 2 Satz 3 +++)
+(+++ § 62 Abs. 3: Zur Anwendung vgl. § 90 Abs. 2 Satz 3 +++)
 
 # § 63 – Ausübung des Eintrittsrechts
 
@@ -970,9 +978,9 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (3) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. § 36 Absatz 2 und 3 des Verwaltungsverfahrensgesetzes ist anzuwenden.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 67 – Verhältnis der Planfeststellung und der Plangenehmigung zu den Ausschreibungen
 
@@ -1018,9 +1026,9 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (5) Ist der UVP-Bericht nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung im Internet veröffentlicht, kann die in § 17 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung geforderte Übermittlung des UVP-Berichts durch Mitteilung der Verfügbarkeit des UVP-Berichts im Internet ersetzt werden. In begründeten Fällen wird der Bericht durch Versendung zur Verfügung gestellt. Hierauf wird in der Mitteilung hingewiesen.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 69 – Planfeststellungsbeschluss, Plangenehmigung
 
@@ -1117,6 +1125,11 @@ auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kost
 
 (4) Das Bundesamt für Seeschifffahrt und Hydrographie kann sich zur Erfüllung seiner Aufgaben nach § 66 Absatz 1 Satz 2 hinsichtlich der technischen Sicherheit und Überwachung von Anlagen zur Übertragung von anderen Energieträgern aus Windenergieanlagen auf See oder aus sonstigen Energiegewinnungsanlagen anerkannter Sachverständiger bedienen. Die Kosten für einen anerkannten Sachverständigen trägt der Vorhabenträger.
 
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)  
+(+++ § 70 Abs. 4: Zur Anwendung vgl. § 69 Abs. 11 +++)
+
 # § 71 – Vorläufige Anordnung
 
 Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleitet, kann das Bundesamt für Seeschifffahrt und Hydrographie nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz eine vorläufige Anordnung erlassen, in der Teilmaßnahmen zur Vorbereitung der Errichtung festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit, insbesondere der effizienten Netznutzung, den alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach § 69 Absatz 3 zu berücksichtigenden Belange gewahrt werden. In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Belange und der Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Sie ist nach § 98 Nummer 1 bekannt zu machen. Die vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand wiederherzustellen. § 69 Absatz 10 ist auf vorläufige Anordnungen entsprechend anzuwenden.
@@ -1131,9 +1144,9 @@ Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleite
 
 (2) § 30 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes ist für Vorhaben nach diesem Gesetz mit der Maßgabe anzuwenden, dass eine erhebliche Beeinträchtigung von Biotopen im Sinn des § 30 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes so weit wie möglich vermieden werden soll.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 72a – Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
 
@@ -1155,9 +1168,9 @@ Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtu
 
 (2) Das Bundesamt für Seeschifffahrt und Hydrographie legt die Dauer der Veränderungssperre fest. Sie gilt längstens für vier Jahre. Sie kann um weitere drei Jahre verlängert werden. Die Veränderungssperre ist auf der Internetseite des Bundesamtes für Seeschifffahrt und Hydrographie und in den Nachrichten für Seefahrer (Amtliche Veröffentlichung des Bundesamtes für Seeschifffahrt und Hydrographie) bekannt zu machen.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 74 – Sicherheitszonen
 
@@ -1165,17 +1178,17 @@ Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtu
 
 (2) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von bis zu 500 Metern, gemessen von jedem Punkt des äußeren Randes, um die Einrichtungen erstrecken. Die Breite einer Sicherheitszone darf 500 Meter überschreiten, wenn allgemein anerkannte internationale Normen dies gestatten oder die zuständige internationale Organisation dies empfiehlt.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 75 – Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die Einrichtungen und die von ihr nach § 53 eingerichteten Sicherheitszonen nach § 98 Nummer 1 bekannt und trägt sie in die amtlichen Seekarten ein.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 76 – Rechtsbehelfe
 
@@ -1183,9 +1196,9 @@ Das Bundesamt für Seeschifffahrt und Hydrographie macht die Einrichtungen und d
 
 (2) Für Rechtsbehelfe gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 66 Absatz 1 ist § 43e Absatz 1 bis 3 des Energiewirtschaftsgesetzes anzuwenden.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 77 – Pflichten der verantwortlichen Personen
 
@@ -1213,9 +1226,9 @@ Abweichende Zustände sind von den verantwortlichen Personen unverzüglich dem B
 
 4. bei der Errichtung weiterer Offshore-Windparks unmittelbar angrenzend an die Fläche die Kennzeichnung zur Sicherung des Schiffs- und Luftverkehrs nach Nummer 2 in Abstimmung mit den Trägern der angrenzenden Vorhaben entsprechend der gesamten Bebauungssituation im Verkehrsraum anzupassen.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 78 – Verantwortliche Personen
 
@@ -1235,9 +1248,9 @@ Abweichende Zustände sind von den verantwortlichen Personen unverzüglich dem B
 
 (5) Der Adressat eines Planfeststellungsbeschlusses oder einer Plangenehmigung hat dem Bundesamt für Seeschifffahrt und Hydrographie unverzüglich anzuzeigen, wenn der Planfeststellungsbeschluss oder die Plangenehmigung auf einen anderen übertragen wird. Das Gleiche gilt für den Betreiber, wenn der Betrieb der Anlage auf eine andere Person übertragen wird.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 79 – Überwachung der Einrichtungen
 
@@ -1253,9 +1266,9 @@ Abweichende Zustände sind von den verantwortlichen Personen unverzüglich dem B
 
 (6) Die Bestimmungen über Rücknahme oder Widerruf eines Verwaltungsaktes bleiben unberührt.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 80 – Beseitigung der Einrichtungen, Sicherheitsleistung
 
@@ -1269,9 +1282,9 @@ Abweichende Zustände sind von den verantwortlichen Personen unverzüglich dem B
 
 (5) Die Absätze 1 bis 4 sind auch für Einrichtungen anzuwenden, die nach § 69 Absatz 6 und § 66 Absatz 1 Satz 2 keiner Planfeststellung bedürfen.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 81 – Realisierungsfristen
 
@@ -1305,9 +1318,8 @@ Die Realisierungsfristen dürfen nicht um mehr als 18 Monate verlängert werden.
 
 (3) Das Bundesamt für Seeschifffahrt und Hydrographie muss der Bundesnetzagentur auf Verlangen mitteilen, ob die zur Durchführung des Anhörungsverfahrens erforderlichen Unterlagen eingereicht worden sind. Die Mitteilung ist für Entscheidungen über einen Widerruf nach § 82 Absatz 3 Satz 1 Nummer 1 verbindlich.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 82 – Sanktionen bei Nichteinhaltung der Realisierungsfristen
 
@@ -1341,9 +1353,8 @@ Auf Zuschläge nach § 34 ist § 60 Absatz 2 Nummer 2 in der am 9. Dezember 2020
 
 In den Fällen nach Satz 1 Nummer 3 erfolgt der Widerruf eines Zuschlags in dem Umfang, der sich aus der Differenz der bezuschlagten Gebotsmenge und der installierten Leistung der betriebsbereiten Windenergieanlagen auf See ergibt.
 
-(+++ Teil 4 (§§ 44 bis 67): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschnitt 2 Unterabschnitt 2 (§§ 59 bis 67): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 83 – Ausnahme von den Sanktionen bei Nichteinhaltung der Realisierungsfristen
 
@@ -1361,9 +1372,8 @@ In den Fällen nach Satz 1 Nummer 3 erfolgt der Widerruf eines Zuschlags in dem 
 
 2. die nach § 81 Absatz 2 maßgeblichen Fristen im erforderlichen Umfang verlängern.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 84 – Rückgabe von Zuschlägen, Planfeststellungsbeschlüssen und Plangenehmigungen
 
@@ -1397,17 +1407,15 @@ Das Vorliegen der Voraussetzungen nach Satz 1 stellt auf Antrag des Bieters fest
 
 (5) (weggefallen)
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 86 – Rechtsfolgen der Änderung oder Neuerteilung von Planfeststellungsbeschlüssen oder Plangenehmigungen
 
 Wird der Planfeststellungsbeschluss oder die Plangenehmigung geändert oder neu erteilt, berührt dies die Wirksamkeit des Zuschlags nach den §§ 20, 21, 34 oder 54 nicht. Der Umfang des Zuschlags verändert sich nicht.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 87 – Rechtsfolgen der Unwirksamkeit von Zuschlägen, Planfeststellungsbeschlüssen und Plangenehmigungen
 
@@ -1431,9 +1439,8 @@ wird ein für die betreffende Fläche erteilter Zuschlag in dem gleichen Umfang 
 
 (3) Das Bundesamt für Seeschifffahrt und Hydrographie muss bei einem unwirksamen Zuschlag den Umfang der Unwirksamkeit des Planfeststellungsbeschlusses oder der Plangenehmigung oder die Beendigung des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens nach Absatz 1 nach § 98 Nummer 1 bekannt machen. Die Bundesnetzagentur stellt im Fall des Absatzes 2 den Umfang der Unwirksamkeit des Zuschlags auf Antrag des Bieters oder des anbindungsverpflichteten Übertragungsnetzbetreibers durch Verwaltungsakt fest.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 88 – Erstattung von Sicherheiten bei Realisierung oder Erfüllung von Pönalen
 
@@ -1443,9 +1450,8 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 2. für dieses Gebot eine Pönale nach § 82 Absatz 1 und 2 geleistet hat und die Einbehaltung der Sicherheit nicht länger zur Erfüllung und Absicherung von Ansprüchen auf weitere Pönalen erforderlich ist.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 89 – Austausch von Windenergieanlagen auf See
 
@@ -1454,6 +1460,9 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 (2) Soweit der Austausch von Windenergieanlagen auf See die Errichtung weiterer Gründungsstrukturen zusätzlich zu der Gründungsstruktur der bestehenden Windenergieanlage auf See vorsieht, liegt kein Repowering vor.
 
 (3) Die Prüfung anderer öffentlich-rechtlicher Vorschriften wird durch Absatz 1 nicht berührt.
+
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 90 – Nachnutzung; Verpflichtungserklärung
 
@@ -1465,9 +1474,8 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 (2) Der Vorhabenträger muss gegenüber der Planfeststellungsbehörde frei von Bedingungen, Befristungen oder sonstigen Nebenbestimmung schriftlich erklären, dass er für die Zeit, nachdem der Planfeststellungsbeschluss oder die Plangenehmigung unwirksam werden, in den Fällen des Absatzes 1 Nummer 1 die Einrichtungen und in den Fällen des Absatzes 1 Nummer 2 die Informationen und Unterlagen jeweils ohne Anspruch auf eine Gegenleistung übereignen und herausgeben wird. Sofern ein Dritter Eigentümer oder Besitzer der Einrichtungen ist oder wird, muss dieser eine Verpflichtungserklärung nach Satz 1 abgeben; im Fall des nachträglichen Erwerbs muss die Erklärung unverzüglich nach Eigentums- oder Besitzerwerb abgegeben werden. § 62 Absatz 3 ist entsprechend anzuwenden.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 91 – Nutzung von Unterlagen
 
@@ -1477,16 +1485,15 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden, soweit in den Unterlagen Betriebs- und Geschäftsgeheimnisse des Vorhabenträgers enthalten sind.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)
 
 # § 92 – Ausschreibung der Bereiche zur sonstigen Energiegewinnung
 
 Innerhalb von im Flächenentwicklungsplan festgelegten sonstigen Energiegewinnungsbereichen in der ausschließlichen Wirtschaftszone ermittelt das Bundesamt für Seeschifffahrt und Hydrographie gemäß den Vorgaben in der nach § 96 Nummer 5 zu erlassenden Rechtsverordnung den für die jeweiligen Bereiche Antragsberechtigten durch Ausschreibung.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 93 – Feststellung einer Pilotwindenergieanlage auf See
 
@@ -1729,8 +1736,6 @@ sind die bisherigen Bestimmungen der Seeanlagenverordnung so lange weiter anzuwe
 (3) Auf Zuschläge, die in den Jahren 2021 und 2022 nach § 23 in der Fassung vom 10. Dezember 2020 erteilt wurden, ist dieses Gesetz in der am 31. Dezember 2022 geltenden Fassung anzuwenden.
 
 (4) Auf Planfeststellungsverfahren, denen ein Zuschlag nach § 23 oder nach § 34 in der Fassung vom 10. Dezember 2020 zugrunde liegt, der bis zum 31. Dezember 2022 erteilt wurde, ist dieses Gesetz in der am 31. Dezember 2022 geltenden Fassung anzuwenden. Gleiches gilt für Offshore-Anbindungsleitungen und für Anlagen zur Übertragung von Strom aus Windenergieanlagen auf See, für die der Antrag auf Planfeststellung vor dem 31. Dezember 2022 gestellt wurde.
-
-§ 77: IdF d. Art. 16 Nr. 12 G v. 22.12.2016 I 3106 mWv 1.1.2017, Kursivdruck: wegen offensichtlicher Unrichtigkeit wurde die Datumsangabe "23. Oktober 2016" durch die Angabe "13. Oktober 2016" ersetzt
 
 # § 103 – Wahrnehmung von Aufgaben durch die Bundesnetzagentur
 
