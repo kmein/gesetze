@@ -866,7 +866,7 @@ Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 we
 
 (2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
 
-(+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++) (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)
+(+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++) (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++) Teil 3 Abschn. 4 u. 5 (§§ 39 - 59): Eingef. durch Art. 1 Nr. 36 G v. 20.7.2022 I 1325 mWv 1.1.2023
 
 # § 59 – Stromkostensenkungskomponente
 
