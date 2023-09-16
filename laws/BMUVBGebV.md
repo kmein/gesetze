@@ -1,4 +1,4 @@
-% Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich  (Besondere Gebührenverordnung BMU - BMUBGebV)
+% Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich  (Besondere Gebührenverordnung BMUV - BMUVBGebV)
 % Ausfertigungsdatum: 30.06.2021
  
 # § 1 – Erhebung von Gebühren und Auslagen
@@ -31,7 +31,9 @@
 
 13. Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014,
 
-14. Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben.
+14. Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben,
+
+15. Einwegkunststofffondsgesetz.
 
 (2) Für gebührenfähige Leistungen nach Absatz 1 Nummer 9 und 10 in Verbindung mit Abschnitt 9 Nummer 2 und Abschnitt 10 des Gebühren- und Auslagenverzeichnisses in der Anlage gelten die Vorschriften dieser Besonderen Gebührenverordnung nach Maßgabe der Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799; 1995 II S. 602) auch im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels.
 
@@ -55,6 +57,10 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 
 (Fundstelle: BGBl. I 2021, 2336 - 2347;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+ 
+
+ 
 
  
 
@@ -344,3 +350,21 @@ in Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1<
 | 1      | Erteilung einer Erlaubnis oder Sondererlaubnis zum Fang oder zur Tötung von Robben nach Artikel 3 Absatz 2 RobErhÜbkG                                                                                                                                                                                                                                                                                                                                                                                        | nach Zeitaufwand |
 | 2      | Auf Antrag des Gebührenschuldners ist für die Erteilung einer Erlaubnis oder Sondererlaubnis nach Artikel 3 Absatz 2 RobErhÜbkG eine Gebührenbefreiung zu gewähren, wenn die Exemplare für Zwecke der wissenschaftlichen Forschung und Lehre, die insbesondere zur Erhaltung der betreffenden Arten beitragen, oder für wissenschaftliche Arterhaltungszuchtprogramme gefangen oder getötet werden. Die Verwendung der Exemplare zu hauptsächlich kommerziellen Zwecken schließt eine Gebührenbefreiung aus. |                  |
 |        | Als Nachweis kann vom Gebührenschuldner eine Bescheinigung einer anerkannten wissenschaftlichen Einrichtung verlangt werden, aus der hervorgeht, dass die Exemplare zu den oben genannten Zwecken verwendet werden.                                                                                                                                                                                                                                                                                          |                  |
+
+ 
+
+ 
+
+| Nummer | Gebührentatbestand                                                                                                                                                                                    | Gebühren in Euro |
+|:-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
+| 1      | Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit Widersprüchen gegen Verwaltungsakte auf Grundlage des EWKFondsG                                                                   |                  |
+| 1.1    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 7 Absatz 4 Nummer 1 und 4 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                             | nach Zeitaufwand |
+| 1.2    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 10 Absatz 2 Satz 3 und Absatz 3 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                | nach Zeitaufwand |
+| 1.3    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 11 Absatz 4 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                                    | nach Zeitaufwand |
+| 1.4    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 13 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                                    | nach Zeitaufwand |
+| 1.5    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 15 Absatz 5 Nummer 2 und 5 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                            | nach Zeitaufwand |
+| 1.6    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 18 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                                    | nach Zeitaufwand |
+| 1.7    | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 21 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist                                                             | nach Zeitaufwand |
+| 1.8    | Entscheidung über einen Widerspruch gegen sonstige Verwaltungsakte, soweit der Widerspruch erfolglos geblieben ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
+| 1.9    | Zurücknahme oder Erledigung eines Widerspruchs auf sonstige Weise, bevor ein Widerspruchsbescheid erlassen ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG     | nach Zeitaufwand |
+| 2      | Erlass eines Verwaltungsakts nach § 22 Absatz 1 EWKFondsG                                                                                                                                             | nach Zeitaufwand |

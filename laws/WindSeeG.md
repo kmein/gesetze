@@ -866,7 +866,8 @@ Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 we
 
 (2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
 
-(+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++) (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++) Teil 3 Abschn. 4 u. 5 (§§ 39 - 59): Eingef. durch Art. 1 Nr. 36 G v. 20.7.2022 I 1325 mWv 1.1.2023
+(+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++)  
+(+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)
 
 # § 59 – Stromkostensenkungskomponente
 
@@ -966,9 +967,9 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (2) Die Bestimmungen von Abschnitt 2 Unterabschnitt 2 dieses Teils sind mit Ausnahme von § 87 Absatz 1 Satz 1 Nummer 1 und § 91 auch auf Windenergieanlagen auf See im Küstenmeer entsprechend anzuwenden.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 66 – Planfeststellung und Plangenehmigung
 
@@ -1000,9 +1001,8 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (6) Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen auf See oder von sonstigen Energiegewinnungsanlagen, die über einen Zuschlag nach §§ 20, 21, 34 oder 54 oder über eine Antragsberechtigung nach § 92 verfügen, dürfen mit der Errichtung dieser und der zugehörigen Anlagen erst beginnen, wenn die Verpflichtung nach § 90 Absatz 2 wirksam erklärt wurde.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)
 
 # § 68 – Planfeststellungsverfahren
 
@@ -1110,10 +1110,11 @@ Die wirksame Aufhebung des Planfeststellungsbeschlusses ist nach § 98 Nummer 1 
 
 auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten beauftragen. Die Entscheidung über den Planfeststellungs- oder Plangenehmigungsantrag liegt allein beim Bundesamt für Seeschifffahrt und Hydrographie.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)  
-(+++ § 48 Abs. 4 Satz 2 und Abs. 6: Zur Anwendung vgl. § 70 Abs. 3 Satz 1 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)  
+(+++ § 69 Abs. 3 Satz 3 u. Abs. 6: zur Anwendung vgl. § 95 Abs. 3 Satz 1 +++)  
+(+++ § 69 Abs. 10: Zur Anwendung vgl. § 71 Satz 7 +++)
 
 # § 70 – Plangenehmigung
 
@@ -1134,9 +1135,9 @@ auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kost
 
 Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleitet, kann das Bundesamt für Seeschifffahrt und Hydrographie nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz eine vorläufige Anordnung erlassen, in der Teilmaßnahmen zur Vorbereitung der Errichtung festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit, insbesondere der effizienten Netznutzung, den alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach § 69 Absatz 3 zu berücksichtigenden Belange gewahrt werden. In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Belange und der Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Sie ist nach § 98 Nummer 1 bekannt zu machen. Die vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand wiederherzustellen. § 69 Absatz 10 ist auf vorläufige Anordnungen entsprechend anzuwenden.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
 
 # § 72 – Umweltverträglichkeitsprüfung; marine Biotope
 
@@ -1391,9 +1392,8 @@ Das Vorliegen der Voraussetzungen nach Satz 1 stellt auf Antrag des Bieters fest
 
 2. für Voraussetzungen nach Satz 1 Nummer 2 das Bundesamt für Seeschifffahrt und Hydrographie.
 
-(+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
-(+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
+(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
+(+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 81 bis 91) mit Ausnahme von § 87 Abs. 1 Satz 1 Nr. 1 u. § 91: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
 # § 85 – Übergang von Zuschlägen und Planfeststellungsbeschlüssen
 
