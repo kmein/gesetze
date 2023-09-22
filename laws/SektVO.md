@@ -163,6 +163,8 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 Für die Erstellung und Übermittlung von Auftragsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen über Auftragsänderungen (Bekanntmachungen) gelten die Anforderungen des § 10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU) 2019/1780 und des Datenaustauschstandards eForms einschließlich der Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über den Datenservice Öffentlicher Einkauf entsprechend.
 
+(+++ § 10a: Zur Nichtanwendung vgl. § 66 +++)
+
 # § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht einschränken. Der Auftraggeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.

@@ -133,6 +133,8 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 Für die Erstellung und Übermittlung von Konzessionsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu Änderungen (Bekanntmachungen) gelten die Anforderung des § 10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU) 2019/1780 und des Datenaustauschstandards eForms einschließlich der Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über den Datenservice Öffentlicher Einkauf entsprechend.
 
+(+++ § 8a: Zur Nichtanwendung vgl. § 37 +++)
+
 # § 9 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht unangemessen einschränken. Der Konzessionsgeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
@@ -259,7 +261,8 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (2) Bekanntmachungen über Änderungen einer Konzession gemäß § 154 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen werden nach den Vorgaben der Spalte 40 in Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 8a erstellt.
 
-(+++ § 21 Abs. 1: Zur Anwendung vgl. § 22 Abs. 2 +++) (+++ § 21 Abs. 2: Zur Anwendung vgl. § 22 Abs. 4 +++)
+(+++ § 21 Abs. 1: Zur Anwendung vgl. § 22 Abs. 2 +++)  
+(+++ § 21 Abs. 2: Zur Anwendung vgl. § 22 Abs. 4 +++)
 
 # § 22 – Konzessionen, die soziale und andere besondere Dienstleistungen betreffen
 

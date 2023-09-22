@@ -17,6 +17,8 @@ Diese Verordnung gilt für die Vergabe von verteidigungs- oder sicherheitsspezif
 
 (3) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen Liefer-, Dienstleistungs- und Bauaufträgen gelten bei der Erstellung und Übermittlung von Bekanntmachungen die Anforderungen des § 10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU) 2019/1780 und des Datenaustauschstandards eForms einschließlich der Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über den Datenservice Öffentlicher Einkauf entsprechend.
 
+(+++ § 2 Abs. 3: Zur Nichtanwendung vgl. § 44a +++)
+
 # § 3 – Schätzung des Auftragswertes
 
 (1) Bei der Schätzung des Auftragswertes ist von der voraussichtlichen Gesamtvergütung ohne Umsatzsteuer für die vorgesehene Leistung einschließlich etwaiger Prämien oder Zahlungen an Bewerber oder Bieter auszugehen. Dabei sind alle Optionen und etwaige Vertragsverlängerungen zu berücksichtigen.
