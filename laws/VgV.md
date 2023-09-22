@@ -197,6 +197,8 @@ Die betroffenen Datenfelder sind im Datenaustauschstandard eForms als verpflicht
 
 (6) Die Absätze 1 bis 5 gelten mit Blick auf § 7 Absatz 4 der Unterschwellenvergabeordnung nicht für die Vergabe von öffentlichen Aufträgen, deren geschätzter Auftragswert ohne Umsatzsteuer die Schwellenwerte gemäß § 106 des Gesetzes gegen Wettbewerbsbeschränkungen nicht erreicht.
 
+(+++ § 10a Abs. 1, Abs. 2 S 1, Abs. 3 bis 6: Zur Nichtanwendung vgl. § 83 ++)
+
 # § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht einschränken. Der öffentliche Auftraggeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
