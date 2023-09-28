@@ -4867,7 +4867,7 @@ Soweit für die Planfeststellung, die Plangenehmigung oder das Anzeigeverfahren 
 
 (6) Die anlagenbezogenen Regelungen des Bundes-Immissionsschutzgesetzes bleiben unberührt.
 
-(7) Der in § 35 Absatz 1 Nummer 3 des Baugesetzbuches verwendete Begriff des Gases sowie der in § 1 Nummer 14 der Raumordnungsverordnung genannte Begriff der Gasleitungen umfassen auch Wasserstoffnetze.
+(7) Der in § 35 Absatz 1 Nummer 3 des Baugesetzbuches verwendete Begriff des Gases sowie der in § 1 Satz 1 Nummer 14 der Raumordnungsverordnung genannte Begriff der Gasleitungen umfassen auch Wasserstoffnetze.
 
 (8) Die Absätze 1 bis 7 sind entsprechend anzuwenden für Maßnahmen bei Errichtung und Betrieb sowie bei Änderungen und Erweiterungen von Gasversorgungsleitungen einschließlich der Anbindungsleitungen von LNG-Terminals sowie Nebenanlagen, die der Vorbereitung auf einen Transport von Wasserstoff dienen.
 

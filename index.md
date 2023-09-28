@@ -411,9 +411,9 @@
 - [AVorbASchrBek](laws/AVorbASchrBek.md) Bekanntmachung des Schreibens der Drei Mächte vom 8. Juni 1990 zur Aufhebung ihrer Vorbehalte insbesondere in dem Genehmigungsschreiben zum Grundgesetz vom 12. Mai 1949 in bezug auf die Direktwahl der Berliner Vertreter zum Bundestag und ihr volles Stimmrecht im Bundestag und im Bundesrat
 - [AVV](laws/AVV.md) Verordnung über das Europäische Abfallverzeichnis
 - [AWaffV](laws/AWaffV.md) Allgemeine Waffengesetz-Verordnung
+- [AWFachwBAProFV](laws/AWFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Außenwirtschaft oder Geprüfte Fachwirtin für Außenwirtschaft – Bachelor Professional in Foreign Trade
 - [AWG](laws/AWG.md) Außenwirtschaftsgesetz
 - [AWPädFortbV](laws/AWPädFortbV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin
-- [AWPrV](laws/AWPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft und Geprüfte Fachwirtin für Außenwirtschaft
 - [AwSV](laws/AwSV.md) Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen 1, 2
 - [AWV](laws/AWV.md) Außenwirtschaftsverordnung
 - [AWZROV](laws/AWZROV.md) Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee
@@ -1250,6 +1250,7 @@
 - [BUrlG](laws/BUrlG.md) Mindesturlaubsgesetz für Arbeitnehmer
 - [BußAktÜbV](laws/BußAktÜbV.md) Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten im Bußgeldverfahren
 - [BuTMedAusbV](laws/BuTMedAusbV.md) Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton*
+- [BuTMedienMstrBAProFV](laws/BuTMedienMstrBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Meister für Medienproduktion Bild und Ton oder Geprüfte Meisterin für Medienproduktion Bild und Ton – Bachelor Professional in Medienproduktion Bild und Ton
 - [Butt/KäseuaPrV](laws/Butt_KäseuaPrV.md) Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse
 - [ButtV 1997](laws/ButtV_1997.md) Verordnung über Butter und andere Milchstreichfette
 - [BUZAV](laws/BUZAV.md) Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahren der Zuteilung und des Erwerbs von Ausgleichsforderungen
@@ -1773,9 +1774,9 @@
 - [EntwLStG](laws/EntwLStG.md) Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern
 - [EnVKG](laws/EnVKG.md) Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnVKV](laws/EnVKV.md) Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
+- [EnWFachwBAProFV](laws/EnWFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft – Bachelor-Professional in Energiewirtschaft
 - [EnWG](laws/EnWG.md) Gesetz über die Elektrizitäts- und Gasversorgung
 - [EnWGKostV](laws/EnWGKostV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz
-- [EnWPrV](laws/EnWPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft
 - [EÖlAnrAbk BEL](laws/EÖlAnrAbk_BEL.md) Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bundesrepublik Deutschland und dem Vice-Premier Ministre des Affaires Economiques du Royaume de Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EÖlBAbk NLD](laws/EÖlBAbk_NLD.md) Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EpiAAppOAbwV](laws/EpiAAppOAbwV.md) Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite
@@ -2028,10 +2029,8 @@
 - [FABaumPflPrV](laws/FABaumPflPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege – Bachelor Professional Baumpflege
 - [FABECVtrG](laws/FABECVtrG.md) Gesetz zu dem Vertrag vom 2. Dezember 2010 über die Errichtung des Funktionalen Luftraumblocks "Europe Central" zwischen der Bundesrepublik Deutschland, dem Königreich Belgien, der Französischen Republik, dem Großherzogtum Luxemburg, dem Königreich der Niederlande und der Schweizerischen Eidgenossenschaft (FABEC-Vertrag)
 - [FachbauTischlPrV](laws/FachbauTischlPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk
-- [FachbPrV](laws/FachbPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb
 - [FachHwirtPrV](laws/FachHwirtPrV.md) Verordnung über die Prüfung zum anerkannten Abschluß Geprüfte Fachhauswirtschafterin/Geprüfter Fachhauswirtschafter
 - [FachkBüroPrV 2012](laws/FachkBüroPrV_2012.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation
-- [FachkLogSystPrV](laws/FachkLogSystPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Logistiksysteme und Geprüfte Fachwirtin für Logistiksysteme
 - [FäV](laws/FäV.md) Verordnung über den Betrieb der Fähren auf Bundeswasserstraßen
 - [FAG](laws/FAG.md) Gesetz über den Finanzausgleich zwischen Bund und Ländern
 - [FahrlAusbV](laws/FahrlAusbV.md) Fahrlehrer-Ausbildungsverordnung
@@ -2650,7 +2649,7 @@
 - [GüKG§6aV](laws/GüKG§6aV.md) Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes
 - [GüKKostV 1998](laws/GüKKostV_1998.md) Kostenverordnung für den Güterkraftverkehr
 - [GüKVO](laws/GüKVO.md) Verordnung über den Güterkraftverkehr
-- [GüLogFachwPrV](laws/GüLogFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Güterverkehr und Logistik und Geprüfte Fachwirtin für Güterverkehr und Logistik
+- [GüLogFachwBAProFV](laws/GüLogFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Güterverkehr und Logistik oder Geprüfte Fachwirtin für Güterverkehr und Logistik – Bachelor Professional in Transport Management and Logistics
 - [GVFG](laws/GVFG.md) Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden
 - [GVG](laws/GVG.md) Gerichtsverfassungsgesetz
 - [GVGEG](laws/GVGEG.md) Einführungsgesetz zum Gerichtsverfassungsgesetz
@@ -3399,6 +3398,7 @@
 - [LogAPrO](laws/LogAPrO.md) Ausbildungs- und Prüfungsordnung für Logopäden
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG.md) Gesetz über den Beruf des Logopäden
+- [LogSystFachwBAProFV](laws/LogSystFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Logistiksysteme oder Geprüfte Fachwirtin für Logistiksysteme – Bachelor Professional in Logistiksysteme
 - [LohnUGAÜV 5](laws/LohnUGAÜV_5.md) Fünfte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 - [LorbBlErl 2013](laws/LorbBlErl_2013.md) Erlass über die Stiftung des Silbernen Lorbeerblattes
 - [LottStVereinfV](laws/LottStVereinfV.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
@@ -3618,7 +3618,7 @@
 - [MarkenG§8Bek 99-07-20](laws/MarkenG§8Bek_99-07-20.md) Bekanntmachung zu § 8 des Markengesetzes
 - [MarkenG§8Bek97](laws/MarkenG§8Bek97.md) Bekanntmachung zu § 8 des Markengesetzes
 - [MarkenV](laws/MarkenV.md) Verordnung zur Ausführung des Markengesetzes
-- [MarketFachwPrV](laws/MarketFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Marketing und Geprüfte Fachwirtin für Marketing
+- [MarketFachwBAProFV](laws/MarketFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Marketing oder Geprüfte Fachwirtin für Marketing – Bachelor Professional in Marketing
 - [MarketGestAusbV](laws/MarketGestAusbV.md) Verordnung über die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing
 - [MarketKfmAusbV](laws/MarketKfmAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 - [MarkschBergV](laws/MarkschBergV.md) Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche
@@ -3658,7 +3658,6 @@
 - [MedBVSV](laws/MedBVSV.md) Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie*
 - [MedFAngAusbV](laws/MedFAngAusbV.md) Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten
 - [MediationsG](laws/MediationsG.md) Mediationsgesetz
-- [MedienBTMstrPrV](laws/MedienBTMstrPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton und Geprüfte Meisterin Medienproduktion Bild und Ton
 - [MedienKfmAusbV](laws/MedienKfmAusbV.md) Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print
 - [MedInfoFAngAusbV](laws/MedInfoFAngAusbV.md) Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations/dienste
 - [MeerAbfSchAbk](laws/MeerAbfSchAbk.md) Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen
@@ -5966,6 +5965,7 @@
 - [VersVermV](laws/VersVermV.md) Verordnung über die Versicherungsvermittlung und -beratung
 - [VertLastÄndG](laws/VertLastÄndG.md) Gesetz zur Änderung des Gesetzes zum NATO-Truppenstatut und anderer Gesetze
 - [VertrBMinFSFJAnO](laws/VertrBMinFSFJAnO.md) Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
+- [VertrFPrV](laws/VertrFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Vertrieb oder Geprüfte Berufsspezialistin für Vertrieb
 - [VertrGebErstG](laws/VertrGebErstG.md) Gesetz über die Erstattung von Gebühren der beigeordneten Vertretung in Patent-, Gebrauchsmuster-, Marken-, Design-, Topographieschutz- und Sortenschutzsachen
 - [VerwAnO](laws/VerwAnO.md) Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen
 - [VerwFöG](laws/VerwFöG.md) Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten

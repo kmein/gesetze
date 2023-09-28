@@ -17,7 +17,7 @@ Dieses Gesetz gilt für Verfahren nach
 
 4. dem Baugesetzbuch in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das durch Artikel 6 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) geändert worden ist;
 
-5. dem Raumordnungsgesetz vom 22. Dezember 2008 (BGBl. I S. 2986), das zuletzt durch Artikel 2 Absatz 15 des Gesetzes vom 20. Juli 2017 (BGBl. I S. 2808) geändert worden ist;
+5. (weggefallen)
 
 6. dem Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 2 des Gesetzes vom 29. April 2020 (BGBl. I S. 864) geändert worden ist;
 

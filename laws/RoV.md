@@ -7,9 +7,9 @@ Auf Grund des § 6a Abs. 2 Satz 1 des Raumordnungsgesetzes in der Fassung der Be
 
 # § 1 – Anwendungsbereich
 
-Die Durchführung eines Raumordnungsverfahrens erfolgt nur auf Grundlage eines Antrags nach § 15 Absatz 5 Satz 1 des Raumordnungsgesetzes oder auf Grundlage einer Entscheidung nach § 15 Absatz 5 Satz 3 des Raumordnungsgesetzes für die nachfolgend aufgeführten Planungen und Maßnahmen, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben. Die Befugnis der für die Raumordnung zuständigen Landesbehörden, weitere raumbedeutsame Planungen und Maßnahmen von überörtlicher Bedeutung nach landesrechtlichen Vorschriften in einem Raumordnungsverfahren zu überprüfen, bleibt unberührt.
+Die Durchführung einer Raumverträglichkeitsprüfung erfolgt nur auf Grundlage eines Antrags nach § 15 Absatz 4 Satz 1 des Raumordnungsgesetzes oder auf Grundlage einer Entscheidung nach § 15 Absatz 4 Satz 4 des Raumordnungsgesetzes für die nachfolgend aufgeführten Planungen und Maßnahmen, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben:
 
-1. Errichtung einer Anlage im Außenbereich im Sinne des § 35 des Baugesetzbuchs, die der Genehmigung in einem Verfahren unter Einbeziehung der Öffentlichkeit nach § 4 des Bundes-Immissionsschutzgesetzes bedarf und die in den Nummern 1 bis 10 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung aufgeführt ist; sachlich und räumlich miteinander im Verbund stehende Anlagen sind dabei als Einheit anzusehen;
+1. Errichtung einer Anlage im Außenbereich im Sinne des § 35 des Baugesetzbuchs, die der Genehmigung in einem Verfahren unter Einbeziehung der Öffentlichkeit nach § 4 des Bundes-Immissionsschutzgesetzes bedarf und die in den Nummern 1 bis 10 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung aufgeführt ist; sachlich und räumlich miteinander im Verbund stehende Anlagen sind dabei als Einheit anzusehen;
 
 2. Errichtung einer ortsfesten kerntechnischen Anlage, die der Genehmigung in einem Verfahren unter Einbeziehung der Öffentlichkeit nach § 7 des Atomgesetzes bedarf;
 
@@ -19,9 +19,9 @@ Die Durchführung eines Raumordnungsverfahrens erfolgt nur auf Grundlage eines A
 
 5. Bau einer Abwasserbehandlungsanlage, die einer Genehmigung nach § 60 Absatz 3 Satz 1 des Wasserhaushaltsgesetzes bedarf;
 
-6. Errichtung und wesentliche Trassenänderung einer Rohrleitungsanlage zum Befördern wassergefährdender Stoffe, die der Genehmigung nach § 20 des Gesetzes über die Umweltverträglichkeitsprüfung bedarf;
+6. Errichtung und wesentliche Trassenänderung einer Rohrleitungsanlage zum Befördern wassergefährdender Stoffe, die der Genehmigung nach § 65 in Verbindung mit § 1 Absatz 1 Nummer 1 und Nummer 19.3 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung bedarf;
 
-7. Herstellung, Beseitigung und wesentliche Umgestaltung eines Gewässers oder seiner Ufer, die einer Planfeststellung nach § 68 Absatz 1 des Wasserhaushaltsgesetzes bedürfen, sowie von Häfen ab einer Größe von 100 ha, Deich- und Dammbauten und Anlagen zur Landgewinnung am Meer;
+7. Herstellung, Beseitigung und wesentliche Umgestaltung eines Gewässers oder seiner Ufer, die einer Planfeststellung nach § 68 Absatz 1 des Wasserhaushaltsgesetzes bedürfen, sowie von Häfen ab einer Größe von 100 Hektar, Deich- und Dammbauten und Anlagen zur Landgewinnung am Meer;
 
 8. Bau einer Bundesfernstraße, die der Entscheidung nach § 16 des Bundesfernstraßengesetzes bedarf;
 
@@ -35,17 +35,19 @@ Die Durchführung eines Raumordnungsverfahrens erfolgt nur auf Grundlage eines A
 
 13. (weggefallen)
 
-14. Errichtung von Hochspannungsfreileitungen mit einer Nennspannung von 110 kV oder mehr, ausgenommen Errichtungen in Bestandstrassen, unmittelbar neben Bestandstrassen oder unter weit überwiegender Nutzung von Bestandstrassen, und von Gasleitungen mit einem Durchmesser von mehr als 300 mm;
+14. Errichtung von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt oder mehr, ausgenommen Errichtungen in Bestandstrassen, unmittelbar neben Bestandstrassen oder unter weit überwiegender Nutzung von Bestandstrassen, und von Gasleitungen mit einem Durchmesser von mehr als 300 Millimetern;
 
 15. Errichtung von Feriendörfern, Hotelkomplexen und sonstigen großen Einrichtungen für die Ferien- und Fremdenbeherbergung sowie von großen Freizeitanlagen;
 
-16. bergbauliche Vorhaben, soweit sie der Planfeststellung nach § 52 Abs. 2a bis 2c des Bundesberggesetzes bedürfen;
+16. bergbauliche Vorhaben, soweit sie der Planfeststellung nach § 52 Absatz 2a bis 2c des Bundesberggesetzes bedürfen;
 
-17. andere als bergbauliche Vorhaben zum Abbau von oberflächennahen Rohstoffen mit einer vom Vorhaben beanspruchten Gesamtfläche von 10 ha oder mehr;
+17. andere als bergbauliche Vorhaben zum Abbau von oberflächennahen Rohstoffen mit einer vom Vorhaben beanspruchten Gesamtfläche von 10 Hektar oder mehr;
 
 18. Neubau und wesentliche Trassenänderung von Magnetschwebebahnen;
 
 19. Errichtung von Einkaufszentren, großflächigen Einzelhandelsbetrieben und sonstigen großflächigen Handelsbetrieben.
+
+Die Befugnis der für die Raumordnung zuständigen Landesbehörden, bei weiteren raumbedeutsamen Planungen und Maßnahmen von überörtlicher Bedeutung nach landesrechtlichen Vorschriften eine Raumverträglichkeitsprüfung durchzuführen, bleibt unberührt.
 
 # § 2
 

@@ -12911,7 +12911,7 @@ h) Mitwirken bei Erläutern des Planungskonzepts gegenüber Dritten an bis zu 2 
 
 i) Überarbeiten des Planungskonzepts nach Bedenken und Anregungen
 
-j) Bereitstellen von Unterlagen als Auszüge aus der Voruntersuchung zur Verwendung für ein Raumordnungsverfahren
+j) Bereitstellen von Unterlagen als Auszüge aus der Voruntersuchung zur Verwendung für eine Raumverträglichkeitsprüfung
 
 k) Kostenschätzung, Vergleich mit den finanziellen Rahmenbedingungen
 

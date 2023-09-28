@@ -421,9 +421,9 @@ In Planfeststellungsverfahren kann eine einheitliche Entscheidung für ein Vorha
 
 (2) Der Vorhabenträger kann verlangen, dass nach Abschluss des Anhörungsverfahrens gemäß § 22 ein vorzeitiges Enteignungsverfahren durchgeführt wird. § 45 des Energiewirtschaftsgesetzes findet mit der Maßgabe Anwendung, dass der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss dem Enteignungsverfahren zugrunde zu legen ist. Der Enteignungsbeschluss ist mit der aufschiebenden Bedingung zu erlassen, dass sein Ergebnis durch den Planfeststellungsbeschluss bestätigt wird. Anderenfalls ist das Enteignungsverfahren auf der Grundlage des ergangenen Planfeststellungsbeschlusses zu ergänzen.
 
-# § 28 – Durchführung eines Raumordnungsverfahrens
+# § 28 – Durchführung einer Raumverträglichkeitsprüfung
 
-Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 2 Nummer 14 der Raumordnungsverordnung findet ein Raumordnungsverfahren für die Errichtung oder die Änderung von Höchstspannungsleitungen, für die im Bundesnetzplan Trassenkorridore oder Trassen ausgewiesen sind, nicht statt. Dies ist auch anzuwenden, wenn nach § 5a auf ein Bundesfachplanungsverfahren verzichtet wurde. Satz 1 ist nicht anzuwenden nach Ablauf der Geltungsdauer nach § 15 Absatz 2.
+Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 1 Nummer 14 der Raumordnungsverordnung findet eine Raumverträglichkeitsprüfung für die Errichtung oder die Änderung von Höchstspannungsleitungen, für die im Bundesnetzplan Trassenkorridore oder Trassen ausgewiesen sind, nicht statt. Dies ist auch anzuwenden, wenn nach § 5a auf ein Bundesfachplanungsverfahren verzichtet wurde. Satz 1 ist nicht anzuwenden nach Ablauf der Geltungsdauer nach § 15 Absatz 2.
 
 # § 29 – Projektmanager
 

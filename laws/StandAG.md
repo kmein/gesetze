@@ -261,7 +261,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (3) Die Standortentscheidung nach Absatz 2 ist für das anschließende Genehmigungsverfahren nach § 9b Absatz 1a des Atomgesetzes für die Errichtung, den Betrieb und die Stilllegung des Endlagers verbindlich. Auf der Grundlage dieser Entscheidung ist die Eignung des Vorhabens im Genehmigungsverfahren vollumfänglich zu prüfen.
 
-(4) Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 3 Nummer 16 der Raumordnungsverordnung und anderen raumordnungsrechtlichen Vorschriften findet ein Raumordnungsverfahren für die Errichtung des Endlagers nicht statt.
+(4) Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 1 Nummer 16 der Raumordnungsverordnung und anderen raumordnungsrechtlichen Vorschriften findet eine Raumverträglichkeitsprüfung für die Errichtung des Endlagers nicht statt.
 
 # § 21 – Sicherungsvorschriften
 
