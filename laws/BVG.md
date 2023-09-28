@@ -1392,7 +1392,7 @@ Die Grundrente beträgt monatlich
 
 |                |           |
 |:---------------|-----------|
-| bei Halbwaisen | 224 Euro, |
+| bei Halbwaisen | 234 Euro, |
 | bei Vollwaisen | 410 Euro. |
 
 # § 47

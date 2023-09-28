@@ -141,7 +141,7 @@ Vorbescheid
 
 § 19a
 
-Raumordnungsverfahren und Genehmigungsverfahren
+Raumverträglichkeitsprüfung und Genehmigungsverfahren
 
 § 19b
 
@@ -515,11 +515,9 @@ Wird das Vorhaben nicht zugelassen, so müssen im Bescheid die dafür wesentlich
 
 (5) § 18 Abs. 2 und 3 gilt entsprechend.
 
-# § 19a – Raumordnungsverfahren und Genehmigungsverfahren
+# § 19a – Raumverträglichkeitsprüfung und Genehmigungsverfahren
 
-(1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder einem anderen raumordnerischen Verfahren (raumordnerisches Verfahren) nach § 49 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Auswirkungen eines UVP-pflichtigen Vorhabens auf die Umwelt nach Maßgabe des § 14a Abs. 2 bei der Entscheidung über den Antrag zu berücksichtigen.
-
-(2) Genehmigungsverfahren soll hinsichtlich der im raumordnerischen Verfahren ermittelten und beschriebenen Auswirkungen auf in § 1a Abs. 2 genannte Schutzgüter von den Anforderungen des § 7 Abs. 4 Satz 1 des Atomgesetzes sowie der §§ 1b, 3, 7a und 14a Abs. 1 insoweit abgesehen werden, als diese Verfahrensschritte bereits im raumordnerischen Verfahren erfolgt sind.
+Die Genehmigungsbehörde hat die bei der Raumverträglichkeitsprüfung nach § 15 des Raumordnungsgesetzes überschlägig geprüften Auswirkungen eines UVP-pflichtigen Vorhabens auf die Umwelt nach Maßgabe des § 14a Absatz 2 bei der Entscheidung über den Antrag zu berücksichtigen.
 
 # § 19b – Genehmigungen nach § 7 Abs. 3 des Atomgesetzes
 

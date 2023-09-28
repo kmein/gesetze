@@ -355,7 +355,7 @@ Ein Anspruch besteht nicht, wenn die Lärmerhöhung insbesondere wegen der beson
 
 (1) Das Fernstraßen-Bundesamt bestimmt im Benehmen mit den Landesplanungsbehörden der beteiligten Länder die Planung und Linienführung der Bundesfernstraßen. Dies gilt nicht für den Neubau von Ortsumgehungen. Eine Ortsumgehung ist der Teil einer Bundesstraße, der der Beseitigung einer Ortsdurchfahrt dient.
 
-(2) Bei der Bestimmung der Linienführung sind die von dem Vorhaben berührten öffentlichen Belange einschließlich der Umweltverträglichkeit und des Ergebnisses des Raumordnungsverfahrens im Rahmen der Abwägung zu berücksichtigen. Die Bestimmung der Linienführung ist innerhalb einer Frist von drei Monaten abzuschließen.
+(2) Bei der Bestimmung der Linienführung sind die von dem Vorhaben berührten öffentlichen Belange einschließlich der Umweltverträglichkeit und des Ergebnisses der Raumverträglichkeitsprüfung im Rahmen der Abwägung zu berücksichtigen. Die Bestimmung der Linienführung ist innerhalb einer Frist von drei Monaten abzuschließen.
 
 (3) Wenn Ortsplanungen oder Landesplanungen die Änderung bestehender oder die Schaffung neuer Bundesfernstraßen zur Folge haben können, ist die zuständige Straßenbaubehörde des Landes oder das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht, zu beteiligen. Sie haben die Belange der Bundesfernstraßen in dem Verfahren zu vertreten. Bundesplanungen haben grundsätzlich Vorrang vor Orts- und Landesplanungen.
 

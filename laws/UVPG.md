@@ -65,7 +65,7 @@ c) die Änderung, einschließlich der Erweiterung, der Durchführung einer sonst
 
 1. die Bewilligung, die Erlaubnis, die Genehmigung, der Planfeststellungsbeschluss und sonstige behördliche Entscheidungen über die Zulässigkeit von Vorhaben, die in einem Verwaltungsverfahren getroffen werden, einschließlich des Vorbescheids, der Teilgenehmigung und anderer Teilzulassungen, mit Ausnahme von Anzeigeverfahren,
 
-2. Linienbestimmungen und andere Entscheidungen in vorgelagerten Verfahren nach den §§ 47 und 49,
+2. Linienbestimmungen und andere Entscheidungen in vorgelagerten Verfahren nach § 47,
 
 3. Beschlüsse nach § 10 des Baugesetzbuchs über die Aufstellung, Änderung oder Ergänzung von Bebauungsplänen, durch die die Zulässigkeit von bestimmten Vorhaben im Sinne der Anlage 1 begründet werden soll, sowie Beschlüsse nach § 10 des Baugesetzbuchs über Bebauungspläne, die Planfeststellungsbeschlüsse für Vorhaben im Sinne der Anlage 1 ersetzen.
 
@@ -680,7 +680,7 @@ Für einen Plan nach § 35 oder § 36, der einzeln oder im Zusammenwirken mit an
 
 (1) Für die Linienbestimmung nach § 16 Absatz 1 des Bundesfernstraßengesetzes und für die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes sowie im Verfahren zur Genehmigung von Flugplätzen nach § 6 Absatz 1 des Luftverkehrsgesetzes wird bei Vorhaben die Umweltverträglichkeit nach dem jeweiligen Planungsstand des Vorhabens geprüft. In die Prüfung der Umweltverträglichkeit sind bei der Linienbestimmung alle ernsthaft in Betracht kommenden Trassenvarianten einzubeziehen.
 
-(2) Absatz 1 gilt nicht, wenn in einem Raumordnungsverfahren bereits die Umweltverträglichkeit geprüft wurde und wenn dabei im Falle einer Linienbestimmung alle ernsthaft in Betracht kommenden Trassenvarianten einbezogen wurden.
+(2) (weggefallen)
 
 (3) Im nachfolgenden Zulassungsverfahren kann die Prüfung der Umweltverträglichkeit auf zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
 
@@ -690,13 +690,9 @@ Für einen Plan nach § 35 oder § 36, der einzeln oder im Zusammenwirken mit an
 
 Besteht für die Aufstellung eines Raumordnungsplans nach diesem Gesetz die SUP-Pflicht, so wird die Strategische Umweltprüfung einschließlich der Überwachung nach dem Raumordnungsgesetz durchgeführt. Auf einen Raumordnungsplan nach Anlage 5 Nummer 1.5 oder 1.6, der Flächen für die Windenergienutzung oder für den Abbau von Rohstoffen ausweist, ist § 1 Absatz 1 Satz 1 Nummer 4 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
 
-# § 49 – Raumordnungsverfahren
+# § 49 – Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
 
-(1) Für das Raumordnungsverfahren bei Vorhaben, für die nach diesem Gesetz die UVP-Pflicht besteht, wird die Umweltverträglichkeitsprüfung nach dem Planungsstand des jeweiligen Vorhabens, einschließlich der Standortalternativen nach § 15 Absatz 1 Satz 3 des Raumordnungsgesetzes, durchgeführt, soweit durch Landesrecht nicht etwas anderes bestimmt ist.
-
-(2) Im nachfolgenden Zulassungsverfahren kann die Prüfung der Umweltverträglichkeit auf zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
-
-(3) Das Ergebnis des Raumordnungsverfahrens nach § 15 des Raumordnungsgesetzes kann nur im Rahmen des Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung überprüft werden.
+In der Raumverträglichkeitsprüfung erfolgt die Prüfung der Umweltauswirkungen nur nach Maßgabe des Raumordnungsgesetzes. Die Umweltverträglichkeitsprüfung im nachfolgenden behördlichen Verfahren, das der Zulassungsentscheidung dient, umfasst eine vertiefte Prüfung der in der Raumverträglichkeitsprüfung nur überschlägig geprüften Umweltauswirkungen.
 
 # § 50 – Bauleitpläne
 

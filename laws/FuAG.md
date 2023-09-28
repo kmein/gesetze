@@ -231,7 +231,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 # § 10 – Kennzeichnungs- und Informationspflichten des Herstellers
 
-(1) Der Hersteller hat dafür zu sorgen, dass seine Funkanlagen beim Inverkehrbringen eine Typen-,Chargen- oder Seriennummer oder eine andere Information zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, hat der Hersteller dafür zu sorgen, dass die zur Identifikation erforderliche Information auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben wird.
+(1) Der Hersteller hat dafür zu sorgen, dass seine Funkanlagen beim Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine andere Information zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, hat der Hersteller dafür zu sorgen, dass die zur Identifikation erforderliche Information auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben wird.
 
 (2) Der Hersteller hat beim Inverkehrbringen der Funkanlage seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf der Funkanlage anzugeben. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, müssen die Kontaktdaten auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben werden. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann. Die Postanschrift muss eine zentrale Stelle bezeichnen, über die der Hersteller kontaktiert werden kann.
 
