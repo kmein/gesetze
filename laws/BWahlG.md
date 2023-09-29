@@ -826,6 +826,9 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
+§ 46 Abs. 1 Satz 1 Nr. 5 Kursivdruck: Der Verweis müsste richtig lauten: "Artikel 21 Abs. 4 des Grundgesetzes"  
+§ 46 Abs. 4 Satz 1 Kursivdruck: Der Verweis müsste richtig lauten: "Artikel 21 Abs. 4 des Grundgesetzes"
+
 # § 47 – Entscheidung über den Verlust der Mitgliedschaft
 
 (1) Über den Verlust der Mitgliedschaft nach § 46 Abs. 1 wird entschieden
