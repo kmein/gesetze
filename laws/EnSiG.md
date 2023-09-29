@@ -53,7 +53,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. Buchführungs-, Nachweis- und Meldepflichten über die in Nummer 1 genannten wirtschaftlichen Vorgänge, über Mengen und Preise sowie über sonstige Marktverhältnisse bei diesen Gütern,
 
-3. die Herstellung, die Instandhaltung, die Abgabe, die Verbindung und die Verwendung von Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, sowie über Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandhaltung, Instandsetzung, Herstellung und Veränderung von Bauwerken und technischen Anlagen, die der Versorgung mit elektrischer Energie und Erdgas dienen,
+3. die Herstellung, die Instandhaltung, die Abgabe, die Verbringung und die Verwendung von Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, sowie über Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandhaltung, Instandsetzung, Herstellung und Veränderung von Bauwerken und technischen Anlagen, die der Versorgung mit elektrischer Energie und Erdgas dienen,
 
 4. die Errichtung, den Einsatz und den Betrieb digitaler Plattformen durch die Verwaltungsbehörde oder durch Dritte für die Vorbereitung und Umsetzung von Maßnahmen nach den Nummern 1 bis 3; soweit Dritte aufgrund ihrer Funktion zur Errichtung, zum Einsatz oder zum Betrieb einer digitalen Plattform verpflichtet werden, sind insbesondere Regelungen zu den Rechten und Pflichten des Betreibers, zu den Registrierungs- und Mitwirkungspflichten von Teilnehmern der Plattform sowie zur Ausgestaltung der Kosten und Entgelte des Betriebs und der Teilnahme vorzusehen,
 
@@ -95,7 +95,7 @@ Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sow
 
 (3) In Rechtsverordnungen nach Absatz 1 kann insbesondere vorgesehen werden, daß die Abgabe, der Bezug oder die Verwendung der Güter zeitlich, örtlich oder mengenmäßig beschränkt oder nur für bestimmte vordringliche Versorgungszwecke vorgenommen werden darf; die Benutzung von Motorfahrzeugen aller Art kann nach Ort, Zeit, Strecke, Geschwindigkeit und Benutzerkreis sowie Erforderlichkeit der Benutzung eingeschränkt werden.
 
-(4) Die Rechtsverordnungen sind auf daß Maß zu beschränken, das zur Behebung der Gefährdung oder Störung der Energieversorgung unbedingt erforderlich ist. Sie sind insbesondere so zu gestalten, daß in die Freiheit des einzelnen und der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
+(4) Die Rechtsverordnungen sind auf das Maß zu beschränken, das zur Behebung der Gefährdung oder Störung der Energieversorgung unbedingt erforderlich ist. Sie sind insbesondere so zu gestalten, daß in die Freiheit des einzelnen und der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
 (+++ § 1 Abs. 4 Satz 2: Zur Geltung vgl. § 3 Abs. 6 Satz 2 +++)
 
