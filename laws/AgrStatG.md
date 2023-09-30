@@ -49,13 +49,13 @@ Die Bodennutzungserhebung umfasst folgende Einzelerhebungen:
 
 # § 3 – Erhebungseinheiten
 
-Erhebungseinheiten der Flächenerhebung sind die Gemeinden und gemeindefreien Gebiete.
+Erhebungseinheiten der Flächenerhebung sind die merkmalstragenden Flächenobjekte in den Datenbeständen der nach Landesrecht für die Führung des Liegenschaftskatasters oder entsprechender anderer erforderlicher amtlicher Unterlagen zuständigen Stellen.
 
 # § 4 – Erhebungsart, Periodizität, Berichtszeitpunkt, Erhebungsmerkmale
 
-(1) Die Flächenerhebung wird allgemein jährlich zum Berichtszeitpunkt 31. Dezember des Vorjahres durchgeführt.
+(1) Die Flächenerhebung wird allgemein jährlich zum Berichtszeitpunkt 31. Dezember des Vorjahres durchgeführt. Sie erfolgt auf der Grundlage von geometrischen Flächenobjekten, die im Liegenschaftskataster oder in anderen Unterlagen der in § 3 genannten Stellen geführt werden.
 
-(2) Erhebungsmerkmale sind die Bodenflächen nach der Art der tatsächlichen Nutzung.
+(2) Erhebungsmerkmale sind die Belegung der Bodenflächen nach Art der Landnutzung sowie ergänzende Informationen, insbesondere zur Landbedeckung und zur Art und zum Anlass der Änderung von Eigenschaften eines Flächenobjekts.
 
 # § 5 – (weggefallen)
 

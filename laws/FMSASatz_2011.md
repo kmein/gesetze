@@ -29,7 +29,9 @@ Bei der Wahrnehmung dieser Aufgaben sind die jeweils geltenden Beteiligungs- und
 
 (5) Bei der Aktenführung der FMSA ist die Registraturrichtlinie für das Bearbeiten und Verwalten von Schriftgut in Bundesministerien entsprechend anzuwenden.
 
-(6) Die Aufbauorganisation der FMSA sowie deren Änderungen werden mit vorheriger Zustimmung des Bundesministeriums der Finanzen festgelegt.
+(6) Auf den Umgang mit Verschlusssachen findet der zwischen dem Bundesministerium der Finanzen und der Finanzagentur nach Ziffer 6.6. der Anlage V der Verschlusssachenanweisung des Bundes über den Umgang mit Verschlusssachen des Geheimhaltungsgrades VS – NUR FÜR DEN DIENSTGEBRAUCH abgeschlossene Vertrag in der jeweils geltenden Fassung auf die FMSA entsprechende Anwendung. Die Anwendung erfolgt in Abstimmung mit dem Bundesministerium der Finanzen, soweit keine gesetzlichen oder aufsichtsrechtlichen Vorgaben entgegenstehen.
+
+(7) Die Aufbauorganisation der FMSA sowie deren Änderungen werden mit vorheriger Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 # § 3 – Rechts- und Fachaufsicht
 
@@ -65,11 +67,13 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 (2) Die Leitung kann sich und ihren Stellvertretungen einen Verhaltenskodex geben, welcher der Zustimmung des Bundesministeriums der Finanzen bedarf. Insbesondere dürfen die Leitung und die Stellvertretungen ohne Zustimmung des Bundesministeriums der Finanzen weder auf eigene noch auf fremde Rechnung Geschäfte tätigen, die die Interessen der FMSA oder der Finanzagentur offensichtlich berühren oder aus denen sich der Anschein einer Interessenkollision ergeben könnte. Die jeweils geltenden Compliance-Richtlinien der Finanzagentur unter anderem zur Wertpapiercompliance, zur Verhinderung von Geldwäsche und Terrorismusfinanzierung, zur Korruptionsprävention und Betrugsbekämpfung sind entsprechend einzuhalten.
 
-# § 7 – Aufgaben und Zuständigkeiten der Leitung
+# § 7 – Aufgaben, Zuständigkeiten und Entlastung der Leitung
 
 (1) Die Leitung führt die Geschäfte der FMSA und verwaltet deren Vermögen nach den geltenden Gesetzen, insbesondere nach den Maßgaben des Stabilisierungsfondsgesetzes, der Finanzmarktstabilisierungsfonds-Verordnung und nach dieser Satzung.
 
 (2) Die Leitung ist für die ordnungsgemäße Ausführung ihrer Beschlüsse sowie für die der FMSA obliegenden Aufgaben verantwortlich.
+
+(3) Die Entlastung erfolgt durch das Bundesministerium der Finanzen als zuständigem Bundesministerium im Sinne von § 109 Absatz 3 Satz 1 der Bundeshaushaltsordnung.
 
 # § 8 – Vertretung der FMSA
 
@@ -81,7 +85,7 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 # § 9 – Personal
 
-(1) Die FMSA kann Arbeitnehmerinnen und Arbeitnehmer im Rahmen des vom Bundesministerium der Finanzen genehmigten Stellenplans in Arbeitsverhältnissen beschäftigen. Ab dem 1. Januar 2018 orientieren sich neue Arbeitsverträge oder Änderungsvereinbarungen zu bestehenden Arbeitsverträgen an den jeweils geltenden arbeitsvertraglichen Musterregelungen der Finanzagentur. Im Übrigen wird die jeweils geltende Geschäftsanweisung für die Geschäftsführung der Finanzagentur insbesondere in Bezug auf Zustimmungsvorbehalte des Bundesministeriums der Finanzen bei bestimmten Vertragsabschlüssen oder sonstigen Entscheidungen entsprechend angewendet.
+(1) Die FMSA kann Arbeitnehmerinnen und Arbeitnehmer im Rahmen des vom Bundesministerium der Finanzen genehmigten Stellenplans in Arbeitsverhältnissen beschäftigen. Ab dem 1. Januar 2018 orientieren sich neue Arbeitsverträge oder Änderungsvereinbarungen zu bestehenden Arbeitsverträgen an den jeweils geltenden arbeitsvertraglichen Musterregelungen der Finanzagentur. Im Übrigen wird die jeweils geltende Geschäftsanweisung für die Geschäftsführung der Finanzagentur bei bestimmten Vertragsabschlüssen oder sonstigen Personalthemen insbesondere in Bezug auf Zustimmungsvorbehalte des Bundesministeriums der Finanzen entsprechend angewendet. Die Zustimmung zu den betreffenden Maßnahmen obliegt der rechts- und fachaufsichtsführenden Stelle des Bundesministeriums der Finanzen.
 
 (2) Vorgesetzter der Mitarbeiterinnen und Mitarbeiter der FMSA ist die Leitung.
 
@@ -89,9 +93,9 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 # § 10 – Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
 
-(1) Soweit nicht gesondert per Gesetz oder in dieser Satzung geregelt, gelten außer für Zahlungen, die Buchführung und die Rechnungslegung die §§ 106 bis 110 der Bundeshaushaltsordnung weder unmittelbar noch die §§ 1 bis 87 der Bundeshaushaltsordnung entsprechend im Sinne des § 105 Absatz 1 der Bundeshaushaltsordnung.
+(1) Soweit nicht durch Gesetz oder in dieser Satzung abweichend geregelt, bezieht sich die unmittelbare Geltung der §§ 106 bis 110 der Bundeshaushaltsordnung sowie die entsprechende Geltung der §§ 1 bis 87 der Bundeshaushaltsordnung im Sinne von § 105 Absatz 1 der Bundeshaushaltsordnung nur auf Zahlungen, die Buchführung und die Rechnungslegung. Die Rechnungslegung besteht aus einer die Einnahmen und Ausgaben nachweisenden Haushaltsrechnung; die Aufstellung einer Vermögensrechnung ist nicht erforderlich. Einen Abschluss nach dem Handelsgesetzbuch hat die FMSA nicht aufzustellen.
 
-(2) Die für die Finanzagentur jeweils geltenden Vorgaben für die Haushalts- und Wirtschaftsführung, die Rechnungslegung sowie weitere Richtlinien, wie insbesondere für Revision, Datenschutz, Compliance, Reise- und Umzugskosten sowie Trennungsgeld sind in Abstimmung mit dem Bundesministerium der Finanzen entsprechend anzuwenden, soweit keine gesetzlichen oder aufsichtsrechtlichen Vorgaben vorrangig sind. Einen Abschluss nach dem Handelsgesetzbuch hat die FMSA nicht aufzustellen.
+(2) Für die FMSA geltende Vorschriften, die auf Außenrechtssätzen beruhen, setzt die Finanzagentur in Erfüllung ihrer Aufgaben nach § 2 Absatz 2 um. Innenrechtssätze finden auf die FMSA keine Anwendung, es sei denn, diese Satzung trifft eine andere Bestimmung. Die für die Finanzagentur geltenden Vorschriften für die Haushalts- und Wirtschaftsführung, die Rechnungslegung sowie weitere Richtlinien, wie insbesondere für Revision, Datenschutz, Compliance, Reise- und Umzugskosten sowie Trennungsgeld, sind auf die FMSA entsprechend anzuwenden, sofern sich aus Satz 1 nichts anderes ergibt.
 
 (3) Die Haushalts- und Wirtschaftsführung der FMSA sowie die Rechnungslegung werden vom Abschlussprüfer der Finanzagentur gemäß den jeweils geltenden Standards und vom Bundesministerium der Finanzen im Rahmen der Ausübung der Rechts- und Fachaufsicht geprüft. Dem Bundesrechnungshof steht ein uneingeschränktes Prüfungsrecht der Haushalts- und Wirtschaftsführung sowie der Rechnungslegung der FMSA im Sinne der §§ 109 Absatz 2 und 111 Absatz 1 der Bundeshaushaltsordnung zu. Die Bestellung des Abschlussprüfers der Finanzagentur erfolgt im Einvernehmen mit dem Bundesrechnungshof.
 
