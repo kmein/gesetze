@@ -1750,6 +1750,7 @@
 - [EndlSiAnfV](laws/EndlSiAnfV.md) Verordnung über Sicherheitsanforderungen an die Endlagerung hochradioaktiver Abfälle
 - [EndlSiUntV](laws/EndlSiUntV.md) Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle
 - [EnergieStG](laws/EnergieStG.md) Energiesteuergesetz
+- [EnergieStG§28Abs2Bek](laws/EnergieStG§28Abs2Bek.md) Bekanntmachung nach § 28 Absatz 2 des Energiesteuergesetzes
 - [EnergieStV](laws/EnergieStV.md) Verordnung zur Durchführung des Energiesteuergesetzes
 - [ENeuOG](laws/ENeuOG.md) Gesetz zur Neuordnung des Eisenbahnwesens
 - [EnFG](laws/EnFG.md) Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen
@@ -3112,6 +3113,7 @@
 - [KfzMechaAusbV 2013](laws/KfzMechaAusbV_2013.md) Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin*
 - [KfzPflVV](laws/KfzPflVV.md) Verordnung über den Versicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung
 - [KfzStBefrAbk DDR](laws/KfzStBefrAbk_DDR.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Deutschen Demokratischen Republik über die Befreiung von Straßenfahrzeugen von Steuern und Gebühren
+- [KfzSTFPrV](laws/KfzSTFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Kraftfahrzeug-Servicetechnik oder Geprüfte Berufsspezialistin für Kraftfahrzeug-Servicetechnik
 - [KfzTechMstrV](laws/KfzTechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Kraftfahrzeugtechniker-Handwerk
 - [KfzUnfEntschV](laws/KfzUnfEntschV.md) Verordnung über den Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen
 - [KfzVersBehStatAnO](laws/KfzVersBehStatAnO.md) Anordnung über die statistische Erfassung der Tarifgruppe B (Behörden) in der Kraftfahrtversicherung
@@ -5058,7 +5060,6 @@
 - [SekG](laws/SekG.md) Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen Krisenprävention
 - [SektVO](laws/SektVO.md) Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung
 - [ServicefahrerAusbV](laws/ServicefahrerAusbV.md) Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
-- [ServiceTPrV](laws/ServiceTPrV.md) Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-Servicetechnikerin"
 - [ServKflLuftvAusbV](laws/ServKflLuftvAusbV.md) Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr*
 - [SEuSCEVVorschl](laws/SEuSCEVVorschl.md) Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)
 - [SEuSCEVVorschlG](laws/SEuSCEVVorschlG.md) Gesetz zum Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)

@@ -978,6 +978,8 @@ Ein Mischen mit anderen Energieerzeugnissen im Betrieb des Verwenders unmittelba
 
 (2) Die Steuerbefreiung nach Absatz 1 Satz 1 Nummer 1 und 2 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen beihilferechtlichen Genehmigung der Europäischen Kommission. Das Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
+(+++ § 28 Abs. 2: Genehmigung läuft mit Ablauf des 30.9.2023 aus, vgl. Bek. v. 6.9.2023 I Nr. 262 +++)
+
 # § 29 – (weggefallen)
 
 # § 30 – Zweckwidrigkeit
