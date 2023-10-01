@@ -81,7 +81,8 @@ Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen
 
 Zweites Kapitel
 
-Leistungsberechtigter Personenkreis
+Leistungsberechtigter Personenkreis, Verfahren zur Feststellung  
+der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson
 
 § 14
 
@@ -99,29 +100,33 @@ Verordnungsermächtigung
 
 Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen
 
-§ 17a
-
-(weggefallen)
-
 § 18
 
-Verfahren zur Feststellung der Pflegebedürftigkeit
+Beauftragung der Begutachtung
 
 § 18a
 
-Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten
+Begutachtungsverfahren
 
 § 18b
 
-Dienstleistungsorientierung im Begutachtungsverfahren
+Inhalt und Übermittlung des Gutachtens
 
 § 18c
 
-Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit
+Entscheidung über den Antrag, Fristen
+
+§ 18d
+
+Berichtspflichten und Statistik zum Verfahren zur Feststellung der Pflegebedürftigkeit
+
+§ 18e
+
+Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen
 
 § 19
 
-Begriff der Pflegepersonen
+Begriff der Pflegeperson
 
  
 
@@ -1427,7 +1432,7 @@ Die Pflegeversicherung soll mit ihren Leistungen vorrangig die häusliche Pflege
 
 1. des Gutachtens des Medizinischen Dienstes oder eines anderen von der Pflegekasse beauftragten Gutachters sowie
 
-2. der gesonderten Präventions- und Rehabilitationsempfehlung gemäß § 18a Absatz 1.
+2. der gesonderten Präventions- und Rehabilitationsempfehlung gemäß § 18c Absatz 4.
 
 Mit Einwilligung des Versicherten haben der behandelnde Arzt, das Krankenhaus, die Rehabilitations- und Vorsorgeeinrichtungen sowie die Sozialleistungsträger unverzüglich die zuständige Pflegekasse zu benachrichtigen, wenn sich der Eintritt von Pflegebedürftigkeit abzeichnet oder wenn Pflegebedürftigkeit festgestellt wird. Die zuständige Pflegekasse informiert die Versicherten unverzüglich nach Eingang eines Antrags auf Leistungen nach diesem Buch insbesondere über ihren Anspruch auf die unentgeltliche Pflegeberatung nach § 7a, den nächstgelegenen Pflegestützpunkt nach § 7c sowie die Leistungs- und Preisvergleichsliste nach Absatz 3. Ebenso gibt die zuständige Pflegekasse Auskunft über die in ihren Verträgen zur integrierten Versorgung nach § 92b Absatz 2 getroffenen Festlegungen, insbesondere zu Art, Inhalt und Umfang der zu erbringenden Leistungen und der für die Versicherten entstehenden Kosten, und veröffentlicht diese Angaben auf einer eigenen Internetseite.
 
@@ -1443,7 +1448,7 @@ Mit Einwilligung des Versicherten haben der behandelnde Arzt, das Krankenhaus, d
 
 2. einen individuellen Versorgungsplan mit den im Einzelfall erforderlichen Sozialleistungen und gesundheitsfördernden, präventiven, kurativen, rehabilitativen oder sonstigen medizinischen sowie pflegerischen und sozialen Hilfen zu erstellen,
 
-3. auf die für die Durchführung des Versorgungsplans erforderlichen Maßnahmen einschließlich deren Genehmigung durch den jeweiligen Leistungsträger hinzuwirken, insbesondere hinsichtlich einer Empfehlung zur medizinischen Rehabilitation gemäß § 18 Absatz 1 Satz 3,
+3. auf die für die Durchführung des Versorgungsplans erforderlichen Maßnahmen einschließlich deren Genehmigung durch den jeweiligen Leistungsträger hinzuwirken, insbesondere hinsichtlich einer Empfehlung zur medizinischen Rehabilitation gemäß § 18b Absatz 1 Satz 1 Nummer 2 und Absatz 2,
 
 4. die Durchführung des Versorgungsplans zu überwachen und erforderlichenfalls einer veränderten Bedarfslage anzupassen,
 
@@ -1807,97 +1812,17 @@ Jedem Punktbereich in einem Modul werden unter Berücksichtigung der in ihm zum 
 
 # § 16 – Verordnungsermächtigung
 
-Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Familien, Senioren, Frauen und Jugend und dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur pflegefachlichen Konkretisierung der Inhalte des Begutachtungsinstruments nach § 15 sowie zum Verfahren der Feststellung der Pflegebedürftigkeit nach § 18 zu erlassen. Es kann sich dabei von unabhängigen Sachverständigen beraten lassen.
+Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Familien, Senioren, Frauen und Jugend und dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur pflegefachlichen Konkretisierung der Inhalte des Begutachtungsinstruments nach § 15 sowie zum Verfahren der Feststellung der Pflegebedürftigkeit nach den §§ 18 bis 18c zu erlassen. Es kann sich dabei von unabhängigen Sachverständigen beraten lassen.
 
 # § 17 – Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen
 
-(1) Der Medizinische Dienst Bund erlässt mit dem Ziel, eine einheitliche Rechtsanwendung zu fördern, im Benehmen mit dem Spitzenverband Bund der Pflegekassen Richtlinien zur pflegefachlichen Konkretisierung der Inhalte des Begutachtungsinstruments nach § 15 sowie zum Verfahren der Feststellung der Pflegebedürftigkeit nach § 18 (Begutachtungs-Richtlinien). Er hat dabei die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, den Verband der privaten Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände auf Bundesebene und die Verbände der Pflegeberufe auf Bundesebene zu beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben. Die Stellungnahmen sind in die Entscheidung einzubeziehen. Die maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen wirken nach Maßgabe der nach § 118 Absatz 2 erlassenen Verordnung beratend mit. § 118 Absatz 1 Satz 2 und 3 gilt entsprechend.
+(1) Der Medizinische Dienst Bund erlässt mit dem Ziel, eine einheitliche Rechtsanwendung zu fördern, im Benehmen mit dem Spitzenverband Bund der Pflegekassen Richtlinien zur pflegefachlichen Konkretisierung der Inhalte des Begutachtungsinstruments nach § 15 sowie zum Verfahren der Feststellung der Pflegebedürftigkeit nach den §§ 18 bis 18c (Begutachtungs-Richtlinien). Er hat dabei die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, den Verband der privaten Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände auf Bundesebene und die Verbände der Pflegeberufe auf Bundesebene zu beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben. Die Stellungnahmen sind in die Entscheidung einzubeziehen. Die maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen wirken nach Maßgabe der nach § 118 Absatz 2 erlassenen Verordnung beratend mit. § 118 Absatz 1 Satz 2 gilt entsprechend. Wird schriftlichen Anliegen der in Satz 5 genannten Organisationen nicht gefolgt, sind ihnen auf Verlangen die Gründe dafür schriftlich mitzuteilen.
 
 (1a) Der Spitzenverband Bund der Pflegekassen erlässt unter Beteiligung des Medizinischen Dienstes Bund Richtlinien zur einheitlichen Durchführung der Pflegeberatung nach § 7a (Pflegeberatungs-Richtlinien). An den Pflegeberatungs-Richtlinien sind die Länder, der Verband der Privaten Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände auf Bundesebene, die Bundesarbeitsgemeinschaft der freien Wohlfahrtspflege sowie die Verbände der Träger der Pflegeeinrichtungen auf Bundesebene zu beteiligen. Den Verbänden der Pflegeberufe auf Bundesebene, unabhängigen Sachverständigen sowie den maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie ihren Angehörigen ist Gelegenheit zur Stellungnahme zu geben. Darüber hinaus ergänzt der Spitzenverband Bund der Pflegekassen unter Beteiligung des Medizinischen Dienstes Bund, der Kassenärztlichen Bundesvereinigung, der kommunalen Spitzenverbände auf Bundesebene und der Länder bis zum 31. Juli 2020 die Pflegeberatungs-Richtlinien um Regelungen für eine einheitliche Struktur eines elektronischen Versorgungsplans nach § 7a Absatz 1 Satz 2 Nummer 2 und für dessen elektronischen Austausch sowohl mit der Pflegekasse als auch mit den beteiligten Ärzten und Ärztinnen und Pflegeeinrichtungen sowie mit den Beratungsstellen der Kommunen sowie bis zum 31. Dezember 2021 um Regelungen zur Nutzung von digitalen Anwendungen nach § 7a Absatz 2 einschließlich der Festlegungen über technische Verfahren und der Bestimmung von digitalen Anwendungen zur Durchführung der Beratungen. Die Pflegeberatungs-Richtlinien sind für die Pflegeberater und Pflegeberaterinnen der Pflegekassen, der Beratungsstellen nach § 7b Absatz 1 Satz 1 Nummer 2 sowie der Pflegestützpunkte nach § 7c unmittelbar verbindlich. Die Festlegungen über technische Verfahren nach Satz 4 sind im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik zu treffen.
 
 (1b) Der Medizinische Dienst Bund erlässt im Benehmen mit dem Spitzenverband Bund der Pflegekassen Richtlinien zur Feststellung des Zeitanteils, für den die Pflegeversicherung bei ambulant versorgten Pflegebedürftigen, die einen besonders hohen Bedarf an behandlungspflegerischen Leistungen haben und die Leistungen der häuslichen Pflegehilfe nach § 36 und der häuslichen Krankenpflege nach § 37 Absatz 2 des Fünften Buches oder die Leistungen der häuslichen Pflegehilfe nach § 36 und der außerklinischen Intensivpflege nach § 37c des Fünften Buches beziehen, die hälftigen Kosten zu tragen hat. Von den Leistungen der häuslichen Pflegehilfe nach § 36 sind dabei nur Maßnahmen der körperbezogenen Pflege zu berücksichtigen. Im Übrigen gilt § 17 Absatz 1 Satz 2 bis 6 entsprechend.
 
-(2) Die Richtlinien nach den Absätzen 1, 1a und 1b werden erst wirksam, wenn das Bundesministerium für Gesundheit sie genehmigt. Die Genehmigung gilt als erteilt, wenn die Richtlinien nicht innerhalb eines Monats, nachdem sie dem Bundesministerium für Gesundheit vorgelegt worden sind, beanstandet werden. Beanstandungen des Bundesministeriums für Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben.
-
-# § 17a – (weggefallen)
-
-# § 18 – Verfahren zur Feststellung der Pflegebedürftigkeit
-
-(1) Die Pflegekassen beauftragen den Medizinischen Dienst oder andere unabhängige Gutachter mit der Prüfung, ob die Voraussetzungen der Pflegebedürftigkeit erfüllt sind und welcher Pflegegrad vorliegt. Im Rahmen dieser Prüfungen haben der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter durch eine Untersuchung des Antragstellers die Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten bei den in § 14 Absatz 2 genannten Kriterien nach Maßgabe des § 15 sowie die voraussichtliche Dauer der Pflegebedürftigkeit zu ermitteln. Darüber hinaus sind auch Feststellungen darüber zu treffen, ob und in welchem Umfang Maßnahmen zur Beseitigung, Minderung oder Verhütung einer Verschlimmerung der Pflegebedürftigkeit einschließlich der Leistungen zur medizinischen Rehabilitation geeignet, notwendig und zumutbar sind; insoweit haben Versicherte einen Anspruch gegen den zuständigen Träger auf Leistungen zur medizinischen Rehabilitation. Jede Feststellung hat zudem eine Aussage darüber zu treffen, ob Beratungsbedarf insbesondere in der häuslichen Umgebung oder in der Einrichtung, in der der Anspruchsberechtigte lebt, hinsichtlich Leistungen zur verhaltensbezogenen Prävention nach § 20 Absatz 5 des Fünften Buches besteht.
-
-(1a) Die Pflegekassen können den Medizinischen Dienst oder andere unabhängige Gutachter mit der Prüfung beauftragen, für welchen Zeitanteil die Pflegeversicherung bei ambulant versorgten Pflegebedürftigen, die einen besonders hohen Bedarf an behandlungspflegerischen Leistungen haben und die Leistungen der häuslichen Pflegehilfe nach § 36 und der häuslichen Krankenpflege nach § 37 Absatz 2 des Fünften Buches beziehen, die hälftigen Kosten zu tragen hat. Von den Leistungen der häuslichen Pflegehilfe nach § 36 sind nur Maßnahmen der körperbezogenen Pflege zu berücksichtigen. Bei der Prüfung des Zeitanteils sind die Richtlinien nach § 17 Absatz 1b zu beachten.
-
-(2) Der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter haben den Versicherten in seinem Wohnbereich zu untersuchen. Erteilt der Versicherte dazu nicht sein Einverständnis, kann die Pflegekasse die beantragten Leistungen verweigern. Die §§ 65, 66 des Ersten Buches bleiben unberührt. Die Untersuchung im Wohnbereich des Pflegebedürftigen kann ausnahmsweise unterbleiben, wenn auf Grund einer eindeutigen Aktenlage das Ergebnis der medizinischen Untersuchung bereits feststeht. Die Untersuchung ist in angemessenen Zeitabständen zu wiederholen.
-
-(2a) Bei pflegebedürftigen Versicherten werden vom 1. Juli 2016 bis zum 31. Dezember 2016 keine Wiederholungsbegutachtungen nach Absatz 2 Satz 5 durchgeführt, auch dann nicht, wenn die Wiederholungsbegutachtung vor diesem Zeitpunkt vom Medizinischen Dienst oder anderen unabhängigen Gutachtern empfohlen wurde. Abweichend von Satz 1 können Wiederholungsbegutachtungen durchgeführt werden, wenn eine Verringerung des Hilfebedarfs, insbesondere aufgrund von durchgeführten Operationen oder Rehabilitationsmaßnahmen, zu erwarten ist.
-
-(2b) Abweichend von Absatz 3a Satz 1 Nummer 2 ist die Pflegekasse vom 1. November 2016 bis zum 31. Dezember 2016 nur bei Vorliegen eines besonders dringlichen Entscheidungsbedarfs gemäß Absatz 2b dazu verpflichtet, dem Antragsteller mindestens drei unabhängige Gutachter zur Auswahl zu benennen, wenn innerhalb von 20 Arbeitstagen nach Antragstellung keine Begutachtung erfolgt ist.
-
-(3) Die Pflegekasse leitet die Anträge zur Feststellung von Pflegebedürftigkeit unverzüglich an den Medizinischen Dienst oder die von der Pflegekasse beauftragten Gutachter weiter. Dem Antragsteller ist spätestens 25 Arbeitstage nach Eingang des Antrags bei der zuständigen Pflegekasse die Entscheidung der Pflegekasse schriftlich mitzuteilen. Befindet sich der Antragsteller im Krankenhaus oder in einer stationären Rehabilitationseinrichtung und
-
-1. liegen Hinweise vor, dass zur Sicherstellung der ambulanten oder stationären Weiterversorgung und Betreuung eine Begutachtung in der Einrichtung erforderlich ist, oder
-
-2. wurde die Inanspruchnahme von Pflegezeit nach dem Pflegezeitgesetz gegenüber dem Arbeitgeber der pflegenden Person angekündigt oder
-
-3. wurde mit dem Arbeitgeber der pflegenden Person eine Familienpflegezeit nach § 2 Absatz 1 des Familienpflegezeitgesetzes vereinbart,
-
-ist die Begutachtung dort unverzüglich, spätestens innerhalb einer Woche nach Eingang des Antrags bei der zuständigen Pflegekasse durchzuführen; die Frist kann durch regionale Vereinbarungen verkürzt werden. Die verkürzte Begutachtungsfrist gilt auch dann, wenn der Antragsteller sich in einem Hospiz befindet oder ambulant palliativ versorgt wird. Befindet sich der Antragsteller in häuslicher Umgebung, ohne palliativ versorgt zu werden, und wurde die Inanspruchnahme von Pflegezeit nach dem Pflegezeitgesetz gegenüber dem Arbeitgeber der pflegenden Person angekündigt oder mit dem Arbeitgeber der pflegenden Person eine Familienpflegezeit nach § 2 Absatz 1 des Familienpflegezeitgesetzes vereinbart, ist eine Begutachtung durch den Medizinischen Dienst oder die von der Pflegekasse beauftragten Gutachter spätestens innerhalb von zwei Wochen nach Eingang des Antrags bei der zuständigen Pflegekasse durchzuführen und der Antragsteller seitens des Medizinischen Dienstes oder der von der Pflegekasse beauftragten Gutachter unverzüglich schriftlich darüber zu informieren, welche Empfehlung der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter an die Pflegekasse weiterleiten. In den Fällen der Sätze 3 bis 5 muss die Empfehlung nur die Feststellung beinhalten, ob Pflegebedürftigkeit im Sinne der §§ 14 und 15 vorliegt. Die Entscheidung der Pflegekasse ist dem Antragsteller unverzüglich nach Eingang der Empfehlung des Medizinischen Dienstes oder der beauftragten Gutachter bei der Pflegekasse schriftlich mitzuteilen. Der Antragsteller ist bei der Begutachtung auf die maßgebliche Bedeutung des Gutachtens insbesondere für eine umfassende Beratung, das Erstellen eines individuellen Versorgungsplans nach § 7a, das Versorgungsmanagement nach § 11 Absatz 4 des Fünften Buches und für die Pflegeplanung hinzuweisen. Das Gutachten wird dem Antragsteller durch die Pflegekasse übersandt, sofern er der Übersendung nicht widerspricht. Das Ergebnis des Gutachtens ist transparent darzustellen und dem Antragsteller verständlich zu erläutern. Der Medizinische Dienst Bund konkretisiert im Benehmen mit dem Spitzenverband Bund der Pflegekassen in den Richtlinien nach § 17 Absatz 1 die Anforderungen an eine transparente Darstellungsweise und verständliche Erläuterung des Gutachtens. Der Antragsteller kann die Übermittlung des Gutachtens auch zu einem späteren Zeitpunkt verlangen. Die Pflegekasse hat den Antragsteller auf die Möglichkeit hinzuweisen, sich bei Beschwerden über die Tätigkeit des Medizinischen Dienstes vertraulich an die Ombudsperson nach § 278 Absatz 3 des Fünften Buches zu wenden.
-
-(3a) Die Pflegekasse ist verpflichtet, dem Antragsteller mindestens drei unabhängige Gutachter zur Auswahl zu benennen,
-
-1. soweit nach Absatz 1 unabhängige Gutachter mit der Prüfung beauftragt werden sollen oder
-
-2. wenn innerhalb von 20 Arbeitstagen ab Antragstellung keine Begutachtung erfolgt ist.
-
-Auf die Qualifikation und Unabhängigkeit des Gutachters ist der Versicherte hinzuweisen. Hat sich der Antragsteller für einen benannten Gutachter entschieden, wird dem Wunsch Rechnung getragen. Der Antragsteller hat der Pflegekasse seine Entscheidung innerhalb einer Woche ab Kenntnis der Namen der Gutachter mitzuteilen, ansonsten kann die Pflegekasse einen Gutachter aus der übersandten Liste beauftragen. Die Gutachter sind bei der Wahrnehmung ihrer Aufgaben nur ihrem Gewissen unterworfen. Satz 1 Nummer 2 gilt nicht, wenn die Pflegekasse die Verzögerung nicht zu vertreten hat.
-
-(3b) Erteilt die Pflegekasse den schriftlichen Bescheid über den Antrag nicht innerhalb von 25 Arbeitstagen nach Eingang des Antrags oder wird eine der in Absatz 3 genannten verkürzten Begutachtungsfristen nicht eingehalten, hat die Pflegekasse nach Fristablauf für jede begonnene Woche der Fristüberschreitung unverzüglich 70 Euro an den Antragsteller zu zahlen. Dies gilt nicht, wenn die Pflegekasse die Verzögerung nicht zu vertreten hat oder wenn sich der Antragsteller in vollstationärer Pflege befindet und bereits bei ihm mindestens erhebliche Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten (mindestens Pflegegrad 2) festgestellt ist. Entsprechendes gilt für die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen. Die Träger der Pflegeversicherung und die privaten Versicherungsunternehmen veröffentlichen jährlich jeweils bis zum 31. März des dem Berichtsjahr folgenden Jahres eine Statistik über die Einhaltung der Fristen nach Absatz 3. Die Sätze 1 bis 3 finden vom 1. November 2016 bis 31. Dezember 2017 keine Anwendung.
-
-(4) Der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter sollen, soweit der Versicherte einwilligt, die behandelnden Ärzte des Versicherten, insbesondere die Hausärzte, in die Begutachtung einbeziehen und ärztliche Auskünfte und Unterlagen über die für die Begutachtung der Pflegebedürftigkeit wichtigen Vorerkrankungen sowie Art, Umfang und Dauer der Hilfebedürftigkeit einholen. Mit Einverständnis des Versicherten sollen auch pflegende Angehörige oder sonstige Personen oder Dienste, die an der Pflege des Versicherten beteiligt sind, befragt werden.
-
-(5) Die Pflege- und Krankenkassen sowie die Leistungserbringer sind verpflichtet, dem Medizinischen Dienst oder den von der Pflegekasse beauftragten Gutachtern die für die Begutachtung erforderlichen Unterlagen vorzulegen und Auskünfte zu erteilen. § 276 Abs. 1 Satz 2 und 3 des Fünften Buches gilt entsprechend.
-
-(5a) Bei der Begutachtung sind darüber hinaus die Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten in den Bereichen außerhäusliche Aktivitäten und Haushaltsführung festzustellen. Mit diesen Informationen sollen eine umfassende Beratung und das Erstellen eines individuellen Versorgungsplans nach § 7a, das Versorgungsmanagement nach § 11 Absatz 4 des Fünften Buches und eine individuelle Pflegeplanung sowie eine sachgerechte Erbringung von Hilfen bei der Haushaltsführung ermöglicht werden. Hierbei ist im Einzelnen auf die nachfolgenden Kriterien abzustellen:
-
-1. außerhäusliche Aktivitäten: Verlassen des Bereichs der Wohnung oder der Einrichtung, Fortbewegen außerhalb der Wohnung oder der Einrichtung, Nutzung öffentlicher Verkehrsmittel im Nahverkehr, Mitfahren in einem Kraftfahrzeug, Teilnahme an kulturellen, religiösen oder sportlichen Veranstaltungen, Besuch von Schule, Kindergarten, Arbeitsplatz, einer Werkstatt für behinderte Menschen oder Besuch einer Einrichtung der Tages- oder Nachtpflege oder eines Tagesbetreuungsangebotes, Teilnahme an sonstigen Aktivitäten mit anderen Menschen;
-
-2. Haushaltsführung: Einkaufen für den täglichen Bedarf, Zubereitung einfacher Mahlzeiten, einfache Aufräum- und Reinigungsarbeiten, aufwändige Aufräum- und Reinigungsarbeiten einschließlich Wäschepflege, Nutzung von Dienstleistungen, Umgang mit finanziellen Angelegenheiten, Umgang mit Behördenangelegenheiten.
-
-Der Medizinische Dienst Bund wird ermächtigt, in den Richtlinien nach § 17 Absatz 1 die in Satz 3 genannten Kriterien im Benehmen mit dem Spitzenverband Bund der Pflegekassen pflegefachlich unter Berücksichtigung der Ziele nach Satz 2 zu konkretisieren.
-
-(6) Der Medizinische Dienst oder ein von der Pflegekasse beauftragter Gutachter hat der Pflegekasse das Ergebnis seiner Prüfung zur Feststellung der Pflegebedürftigkeit durch Übersendung des vollständigen Gutachtens unverzüglich mitzuteilen. In seiner oder ihrer Stellungnahme haben der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter auch das Ergebnis der Prüfung, ob und gegebenenfalls welche Maßnahmen der Prävention und der medizinischen Rehabilitation geeignet, notwendig und zumutbar sind, mitzuteilen und Art und Umfang von Pflegeleistungen sowie einen individuellen Pflegeplan zu empfehlen. Die Feststellungen zur Prävention und zur medizinischen Rehabilitation sind durch den Medizinischen Dienst oder die von der Pflegekasse beauftragten Gutachter auf der Grundlage eines bundeseinheitlichen, strukturierten Verfahrens zu treffen und in einer gesonderten Präventions- und Rehabilitationsempfehlung zu dokumentieren. Beantragt der Pflegebedürftige Pflegegeld, hat sich die Stellungnahme auch darauf zu erstrecken, ob die häusliche Pflege in geeigneter Weise sichergestellt ist.
-
-(6a) Der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachter haben gegenüber der Pflegekasse in ihrem Gutachten zur Feststellung der Pflegebedürftigkeit konkrete Empfehlungen zur Hilfsmittel- und Pflegehilfsmittelversorgung abzugeben. Die Empfehlungen gelten hinsichtlich Hilfsmitteln und Pflegehilfsmitteln, die den Zielen von § 40 dienen, jeweils als Antrag auf Leistungsgewährung, sofern der Versicherte zustimmt. Die Zustimmung erfolgt gegenüber dem Gutachter im Rahmen der Begutachtung und wird im Begutachtungsformular schriftlich oder elektronisch dokumentiert. Bezüglich der empfohlenen Pflegehilfsmittel wird die Notwendigkeit der Versorgung nach § 40 Absatz 1 Satz 2 vermutet. Bezüglich der empfohlenen Hilfsmittel, die den Zielen nach § 40 dienen, wird die Erforderlichkeit nach § 33 Absatz 1 des Fünften Buches vermutet; insofern bedarf es keiner ärztlichen Verordnung gemäß § 33 Absatz 5a des Fünften Buches. Welche Hilfsmittel und Pflegehilfsmittel im Sinne von Satz 2 den Zielen von § 40 dienen, wird in den Begutachtungs-Richtlinien nach § 17 konkretisiert. Dabei ist auch die Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 des Fünften Buches über die Verordnung von Hilfsmitteln zu berücksichtigen. Die Pflegekasse übermittelt dem Antragsteller unverzüglich die Entscheidung über die empfohlenen Hilfsmittel und Pflegehilfsmittel.
-
-(7) Die Aufgaben des Medizinischen Dienstes werden durch Pflegefachkräfte oder Ärztinnen und Ärzte in enger Zusammenarbeit mit anderen geeigneten Fachkräften wahrgenommen. Die Prüfung der Pflegebedürftigkeit von Kindern ist in der Regel durch besonders geschulte Gutachter mit einer Qualifikation als Gesundheits- und Kinderkrankenpflegerin oder Gesundheits- und Kinderkrankenpfleger oder als Kinderärztin oder Kinderarzt vorzunehmen. Der Medizinische Dienst ist befugt, den Pflegefachkräften oder sonstigen geeigneten Fachkräften, die nicht dem Medizinischen Dienst angehören, die für deren jeweilige Beteiligung erforderlichen personenbezogenen Daten zu übermitteln. Für andere unabhängige Gutachter gelten die Sätze 1 bis 3 entsprechend.
-
-# § 18a – Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten
-
-(1) Spätestens mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit leitet die Pflegekasse dem Antragsteller die gesonderte Präventions- und Rehabilitationsempfehlung des Medizinischen Dienstes oder der von der Pflegekasse beauftragten Gutachter zu und nimmt umfassend und begründet dazu Stellung, inwieweit auf der Grundlage der Empfehlung die Durchführung einer Maßnahme zur Prävention oder zur medizinischen Rehabilitation angezeigt ist. Die Pflegekasse hat den Antragsteller zusätzlich darüber zu informieren, dass mit der Zuleitung einer Mitteilung über den Rehabilitationsbedarf an den zuständigen Rehabilitationsträger ein Antragsverfahren auf Leistungen zur medizinischen Rehabilitation entsprechend den Vorschriften des Neunten Buches ausgelöst wird, sofern der Antragsteller in dieses Verfahren einwilligt. Mit Einwilligung des Antragstellers leitet die Pflegekasse die Präventions- und Rehabilitationsempfehlung und die Informationen nach Satz 2 auch seinen Angehörigen, Personen seines Vertrauens, Pflege- und Betreuungseinrichtungen, die den Antragsteller versorgen, oder der behandelnden Ärztin oder dem behandelnden Arzt schriftlich oder elektronisch zu. Sobald der Pflegekasse die Information über die Leistungsentscheidung des zuständigen Rehabilitationsträgers nach § 31 Absatz 3 Satz 4 vorliegt, leitet sie diese Information unverzüglich dem Medizinischen Dienst sowie mit Einwilligung des Antragstellers auch an die behandelnde Ärztin oder den behandelnden Arzt sowie an Angehörige des Antragstellers, Personen seines Vertrauens oder an Pflege- und Betreuungseinrichtungen, die den Antragsteller versorgen, schriftlich oder elektronisch weiter. Über die Möglichkeiten nach den Sätzen 3 und 4 und das Erfordernis der Einwilligung ist der Antragsteller durch den Medizinischen Dienst oder die von der Pflegekasse beauftragten Gutachterinnen und Gutachter im Rahmen der Begutachtung zu informieren. Die Einwilligung ist schriftlich oder elektronisch zu dokumentieren.
-
-(2) Die Pflegekassen berichten für die Geschäftsjahre ab 2013 jährlich über die Anwendung eines bundeseinheitlichen, strukturierten Verfahrens zur Erkennung rehabilitativer Bedarfe in der Pflegebegutachtung und die Erfahrungen mit der Umsetzung der Empfehlungen der Medizinischen Dienste oder der beauftragten Gutachter zur medizinischen Rehabilitation. Hierzu wird insbesondere Folgendes gemeldet:
-
-1. die Anzahl der Empfehlungen der Medizinischen Dienste und der beauftragten Gutachter für Leistungen der medizinischen Rehabilitation im Rahmen der Begutachtung zur Feststellung der Pflegebedürftigkeit,
-
-2. die Anzahl der Anträge an den zuständigen Rehabilitationsträger gemäß § 31 Absatz 3 in Verbindung mit § 14 des Neunten Buches,
-
-3. die Anzahl der genehmigten und die Anzahl der abgelehnten Leistungsentscheidungen der zuständigen Rehabilitationsträger einschließlich der Gründe für Ablehnungen sowie die Anzahl der Widersprüche,
-
-4. die Anzahl der durchgeführten medizinischen Rehabilitationsmaßnahmen,
-
-5. die Gründe, warum Versicherte nicht in die Weiterleitung einer Mitteilung über den Rehabilitationsbedarf an den Rehabilitationsträger nach § 31 Absatz 3 Satz 1 einwilligen, soweit diese der Pflegekasse bekannt sind, und inwiefern die zuständige Pflegekasse hier tätig geworden ist und
-
-6. die Maßnahmen, die die Pflegekassen im jeweiligen Einzelfall regelmäßig durchführen, um ihren Aufgaben nach Absatz 1 und § 31 Absatz 3 nachzukommen.
-
-Die Meldung durch die Pflegekassen erfolgt bis zum 31. März des dem Berichtsjahr folgenden Jahres an den Spitzenverband Bund der Pflegekassen. Näheres über das Meldeverfahren und die Inhalte entwickelt der Spitzenverband Bund der Pflegekassen im Einvernehmen mit dem Bundesministerium für Gesundheit. Die für die Aufsicht über die Pflegekasse zuständige Stelle erhält von der jeweiligen Pflegekasse ebenfalls den Bericht.
-
-(3) Der Spitzenverband Bund der Pflegekassen bereitet die Daten auf und leitet die aufbereiteten und auf Plausibilität geprüften Daten bis zum 30. Juni des dem Berichtsjahr folgenden Jahres dem Bundesministerium für Gesundheit zu. Der Verband hat die aufbereiteten Daten der landesunmittelbaren Versicherungsträger auch den für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder oder den von diesen bestimmten Stellen auf Verlangen zuzuleiten. Der Spitzenverband Bund der Pflegekassen veröffentlicht auf Basis der gemeldeten Daten sowie sonstiger Erkenntnisse jährlich einen Bericht bis zum 1. September des dem Berichtsjahr folgenden Jahres.
-
-# § 18b – Dienstleistungsorientierung im Begutachtungsverfahren
-
-(1) Der Medizinische Dienst Bund erlässt mit dem Ziel, die Dienstleistungsorientierung für die Versicherten im Begutachtungsverfahren zu stärken, unter fachlicher Beteiligung der Medizinischen Dienste verbindliche Richtlinien. Die für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen auf Bundesebene maßgeblichen Organisationen sind zu beteiligen.
-
-(2) Die Richtlinien regeln insbesondere
+(1c) Der Medizinische Dienst Bund erlässt mit dem Ziel, die Dienstleistungsorientierung für die Versicherten im Begutachtungsverfahren zu stärken, unter fachlicher Beteiligung der Medizinischen Dienste verbindliche Richtlinien zur Dienstleistungsorientierung im Begutachtungsverfahren. Die auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sind zu beteiligen. Die Richtlinien regeln insbesondere
 
 1. allgemeine Verhaltensgrundsätze für alle unter der Verantwortung der Medizinischen Dienste am Begutachtungsverfahren Beteiligten,
 
@@ -1907,29 +1832,175 @@ Die Meldung durch die Pflegekassen erfolgt bis zum 31. März des dem Berichtsjah
 
 4. ein einheitliches Verfahren zum Umgang mit Beschwerden, die das Verhalten der Mitarbeiter der Medizinischen Dienste oder das Verfahren bei der Begutachtung betreffen.
 
-(3) Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit sie genehmigt. Die Genehmigung gilt als erteilt, wenn die Richtlinien nicht innerhalb eines Monats, nachdem sie dem Bundesministerium für Gesundheit vorgelegt worden sind, beanstandet werden. Beanstandungen des Bundesministeriums für Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben.
+(2) Die Richtlinien nach den Absätzen 1, 1a, 1b und 1c werden erst wirksam, wenn das Bundesministerium für Gesundheit sie genehmigt. Die Genehmigung gilt als erteilt, wenn die Richtlinien nicht innerhalb eines Monats, nachdem sie dem Bundesministerium für Gesundheit vorgelegt worden sind, beanstandet werden. Beanstandungen des Bundesministeriums für Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben.
 
-# § 18c – Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit
+# § 17a – (weggefallen)
 
-(1) Das Bundesministerium für Gesundheit richtet im Benehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Familie, Senioren, Frauen und Jugend ein Begleitgremium ein, das die Vorbereitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit nach den §§ 14, 15 und 18 Absatz 5a in der ab dem 1. Januar 2017 geltenden Fassung mit pflegefachlicher und wissenschaftlicher Kompetenz unterstützt. Aufgabe des Begleitgremiums ist, das Bundesministerium für Gesundheit bei der Klärung fachlicher Fragen zu beraten und den Spitzenverband Bund der Pflegekassen, den Medizinischen Dienst Bund sowie die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene bei der Vorbereitung der Umstellung zu unterstützen. Dem Begleitgremium wird ab dem 1. Januar 2017 zusätzlich die Aufgabe übertragen, das Bundesministerium für Gesundheit bei der Klärung fachlicher Fragen zu beraten, die nach der Umstellung im Zuge der Umsetzung auftreten.
+# § 18 – Beauftragung der Begutachtung
 
-(2) Das Bundesministerium für Gesundheit beauftragt eine begleitende wissenschaftliche Evaluation insbesondere zu Maßnahmen und Ergebnissen der Vorbereitung und der Umsetzung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit nach den §§ 14, 15 und 18 Absatz 5a in der ab dem 1. Januar 2017 geltenden Fassung. Die Auftragserteilung erfolgt im Benehmen mit dem Bundesministerium für Arbeit und Soziales, soweit Auswirkungen auf andere Sozialleistungssysteme aus dem Zuständigkeitsbereich des Bundesministeriums für Arbeit und Soziales untersucht werden. Im Rahmen der Evaluation sind insbesondere Erfahrungen und Auswirkungen hinsichtlich der folgenden Aspekte zu untersuchen:
+(1) Die Pflegekassen beauftragen den Medizinischen Dienst oder andere unabhängige Gutachterinnen und Gutachter mit der Prüfung, ob bei der zu begutachtenden Person die Voraussetzungen der Pflegebedürftigkeit erfüllt sind und welcher Pflegegrad vorliegt. Sie übermitteln die Aufträge zur Feststellung von Pflegebedürftigkeit an den Medizinischen Dienst oder an die von ihnen beauftragten Gutachterinnen und Gutachter. Die Übermittlung eines Auftrags hat innerhalb von drei Arbeitstagen ab Eingang des Antrags auf Pflegeleistungen nach § 33 Absatz 1 Satz 1 in gesicherter elektronischer Form zu erfolgen; eine davon abweichende Form der Auftragsübermittlung ist bis einschließlich 30. November 2023 zulässig. Der Medizinische Dienst Bund regelt im Benehmen mit dem Spitzenverband Bund der Pflegekassen in den Richtlinien nach § 17 Absatz 1 bis spätestens zum 31. Oktober 2023, welche Unterlagen zwingend zur Beauftragung der Feststellung von Pflegebedürftigkeit erforderlich sind.
 
-1. Leistungsentscheidungsverfahren und Leistungsentscheidungen bei Pflegekassen und Medizinischen Diensten, beispielsweise Bearbeitungsfristen und Übermittlung von Ergebnissen;
+(2) Die Pflegekassen können den Medizinischen Dienst oder andere unabhängige Gutachterinnen und Gutachter mit der Prüfung beauftragen, für welchen Zeitanteil die Pflegeversicherung bei ambulant versorgten Pflegebedürftigen, die einen besonders hohen Bedarf an behandlungspflegerischen Leistungen haben und die Leistungen der häuslichen Pflegehilfe nach § 36 und der häuslichen Krankenpflege nach § 37 Absatz 2 des Fünften Buches beziehen oder die Leistungen der häuslichen Pflegehilfe nach § 36 und der außerklinischen Intensivpflege nach § 37c des Fünften Buches beziehen, die hälftigen Kosten zu tragen hat. Von den Leistungen der häuslichen Pflegehilfe nach § 36 sind nur Maßnahmen der körperbezogenen Pflege zu berücksichtigen. Bei der Prüfung des Zeitanteils sind die Richtlinien nach § 17 Absatz 1b zu beachten.
 
-2. Umsetzung der Übergangsregelungen im Begutachtungsverfahren;
+(3) Die Pflegekasse ist verpflichtet, dem Antragsteller eine Liste zu übersenden, in der mindestens drei unabhängige Gutachterinnen oder Gutachter zur Auswahl benannt werden,
 
-3. Leistungsentscheidungsverfahren und Leistungsentscheidungen anderer Sozialleistungsträger, soweit diese pflegebedürftige Personen betreffen;
+1. wenn nach Absatz 1 unabhängige Gutachterinnen oder Gutachter mit der Prüfung beauftragt werden sollen oder
 
-4. Umgang mit dem neuen Begutachtungsinstrument bei pflegebedürftigen Antragstellern, beispielsweise Antragsverhalten und Informationsstand;
+2. wenn innerhalb von 20 Arbeitstagen ab Antragstellung keine Begutachtung erfolgt ist.
 
-5. Entwicklung der ambulanten Pflegevergütungen und der stationären Pflegesätze einschließlich der einrichtungseinheitlichen Eigenanteile;
+Der Antragsteller ist auf die Qualifikation und auf die Unabhängigkeit der benannten Gutachterinnen und Gutachter hinzuweisen. Hat sich der Antragsteller für eine benannte Gutachterin oder einen benannten Gutachter entschieden, wird dem Wunsch entsprochen. Der Antragsteller hat der Pflegekasse seine Entscheidung innerhalb einer Woche ab Kenntnis der Namen der Gutachterinnen und Gutachter mitzuteilen, ansonsten kann die Pflegekasse eine Gutachterin oder einen Gutachter aus der übersandten Liste beauftragen. Satz 1 Nummer 2 findet keine Anwendung, wenn die Pflegekasse die Verzögerung nicht zu vertreten hat.
 
-6. Entwicklungen in den vertraglichen Grundlagen, in der Pflegeplanung, den pflegefachlichen Konzeptionen und in der konkreten Versorgungssituation in der ambulanten und in der stationären Pflege unter Berücksichtigung unterschiedlicher Gruppen von Pflegebedürftigen und Versorgungskonstellationen einschließlich derjenigen von pflegebedürftigen Personen, die im Rahmen der Eingliederungshilfe für behinderte Menschen versorgt werden.
+(4) Die Pflegekassen und die Krankenkassen sowie die Leistungserbringer sind verpflichtet, dem Medizinischen Dienst oder den von der Pflegekasse beauftragten Gutachterinnen und Gutachtern die für die Begutachtung erforderlichen Unterlagen vorzulegen und Auskünfte zu erteilen, soweit diese jeweils für die Begutachtung erforderlich sind. Die Pflegekassen haben die Unterlagen in gesicherter elektronischer Form weiterzuleiten; eine davon abweichende Form der Weiterleitung der Unterlagen ist bis einschließlich 30. November 2023 zulässig. Für die Pflegekassen und die Krankenkassen gilt § 276 Absatz 1 Satz 2 und 3 des Fünften Buches entsprechend.
 
-Ein Bericht über die Ergebnisse der Evaluation ist bis zum 1. Januar 2020 zu veröffentlichen. Dem Bundesministerium für Gesundheit sind auf Verlangen Zwischenberichte vorzulegen.
+# § 18a – Begutachtungsverfahren
 
-# § 19 – Begriff der Pflegepersonen
+(1) Im Rahmen der Prüfung nach § 18 Absatz 1 Satz 1 haben der Medizinische Dienst oder die von der Pflegekasse beauftragten Gutachterinnen und Gutachter durch eine Untersuchung des Antragstellers die Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten bei den in § 14 Absatz 2 genannten Kriterien nach Maßgabe des § 15 sowie die voraussichtliche Dauer der Pflegebedürftigkeit zu ermitteln.
+
+(2) Der Versicherte ist in seinem Wohnbereich zu untersuchen. Erteilt der Versicherte dazu nicht sein Einverständnis, kann die Pflegekasse die beantragten Leistungen verweigern. Hinsichtlich der Grenzen der Mitwirkung des Versicherten und der Folgen fehlender Mitwirkung gelten die §§ 65 und 66 des Ersten Buches. Die Untersuchung ist in angemessenen Zeitabständen zu wiederholen. Abweichend von Satz 1 kann die Begutachtung ausnahmsweise auch ohne Untersuchung des Versicherten in seinem Wohnbereich erfolgen, wenn
+
+1. auf Grund einer eindeutigen Aktenlage das Ergebnis der medizinischen Untersuchung bereits feststeht oder
+
+2. bei einer Krisensituation von nationaler Tragweite oder, bezogen auf den Aufenthaltsort des Versicherten, von regionaler Tragweite der Antrag auf Pflegeleistungen während der Krisensituation gestellt wird oder ein Untersuchungstermin, der bereits vereinbart war, in den Zeitraum einer Krisensituation fällt.
+
+Eine Begutachtung nach Satz 5 Nummer 2 setzt voraus, dass die Krisensituation einer Untersuchung des Versicherten in seinem Wohnbereich entgegensteht; der Wunsch des Versicherten, persönlich in seinem Wohnbereich untersucht zu werden, ist zu berücksichtigen. Grundlage für eine Begutachtung nach Satz 5 Nummer 2 bilden die zum Versicherten zur Verfügung stehenden Unterlagen sowie die Angaben und Auskünfte, die beim Versicherten, seinen Angehörigen und sonstigen zur Auskunft fähigen Personen einzuholen sind. Das Nähere zu den Voraussetzungen und die weiteren, insbesondere inhaltlichen und organisatorischen Einzelheiten für eine Begutachtung nach Satz 5 Nummer 2 konkretisiert der Medizinische Dienst Bund im Benehmen mit dem Spitzenverband Bund der Pflegekassen bis spätestens 31. Oktober 2023 in den Richtlinien nach § 17 Absatz 1.
+
+(3) Bei der Begutachtung sind darüber hinaus die Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten in den Bereichen außerhäusliche Aktivitäten und Haushaltsführung festzustellen. Beide Bereiche werden bei der rechnerischen Ermittlung des Pflegegrades nicht gesondert berücksichtigt; § 14 Absatz 3 bleibt unberührt. Mit den Feststellungen nach Satz 1 sollen eine umfassende Beratung und das Erstellen eines individuellen Versorgungsplans nach § 7a, das Versorgungsmanagement nach § 11 Absatz 4 des Fünften Buches und eine individuelle Pflegeplanung sowie eine sachgerechte Erbringung von Hilfen bei der Haushaltsführung ermöglicht werden. Bei der Feststellung nach Satz 1 ist im Einzelnen auf die nachfolgenden Kriterien abzustellen:
+
+1. in Bezug auf außerhäusliche Aktivitäten: Verlassen des Bereiches der Wohnung oder der Einrichtung, Fortbewegen außerhalb der Wohnung oder der Einrichtung, Nutzung öffentlicher Verkehrsmittel im Nahverkehr, Mitfahren in einem Kraftfahrzeug, Teilnahme an kulturellen, religiösen oder sportlichen Veranstaltungen, Besuch von Schule, Kindergarten, Arbeitsplatz, einer Werkstatt für behinderte Menschen oder Besuch einer Einrichtung der Tages- oder Nachtpflege oder eines Tagesbetreuungsangebots, Teilnahme an sonstigen Aktivitäten mit anderen Menschen;
+
+2. in Bezug auf Haushaltsführung: Einkaufen für den täglichen Bedarf, Zubereitung einfacher Mahlzeiten, einfache Aufräum- und Reinigungsarbeiten, aufwändige Aufräum- und Reinigungsarbeiten einschließlich Wäschepflege, Nutzung von Dienstleistungen, Umgang mit finanziellen Angelegenheiten, Umgang mit Behördenangelegenheiten.
+
+Der Medizinische Dienst Bund konkretisiert in den Richtlinien nach § 17 Absatz 1 die in Satz 4 genannten Kriterien für die Bereiche außerhäusliche Aktivitäten und Haushaltsführung im Benehmen mit dem Spitzenverband Bund der Pflegekassen pflegefachlich unter Berücksichtigung der Ziele nach Satz 3.
+
+(4) Im Übrigen erstreckt sich die Begutachtung auf die im Gutachten gemäß § 18b darzulegenden Feststellungen und Empfehlungen.
+
+(5) Die Begutachtung ist unverzüglich, spätestens am fünften Arbeitstag nach Eingang des Antrags bei der zuständigen Pflegekasse durchzuführen, wenn sich der Antragsteller im Krankenhaus oder in einer stationären Rehabilitationseinrichtung befindet und
+
+1. Hinweise vorliegen, dass zur Sicherstellung der ambulanten oder stationären Weiterversorgung und Betreuung eine Begutachtung in der Einrichtung erforderlich ist, oder
+
+2. die Inanspruchnahme von Pflegezeit nach dem Pflegezeitgesetz gegenüber dem Arbeitgeber der pflegenden Person angekündigt wurde oder
+
+3. mit dem Arbeitgeber der pflegenden Person eine Familienpflegezeit nach § 2 Absatz 1 des Familienpflegezeitgesetzes vereinbart wurde.
+
+Die Frist nach Satz 1 kann durch regionale Vereinbarungen verkürzt werden. Die verkürzte Begutachtungsfrist nach Satz 1 oder Satz 2 gilt auch dann, wenn der Antragsteller sich in einem Hospiz befindet oder ambulant palliativ versorgt wird.
+
+(6) Befindet sich der Antragsteller in häuslicher Umgebung, ohne palliativ versorgt zu werden, und wurde die Inanspruchnahme von Pflegezeit nach dem Pflegezeitgesetz gegenüber dem Arbeitgeber der pflegenden Person angekündigt oder mit dem Arbeitgeber der pflegenden Person eine Familienpflegezeit nach § 2 Absatz 1 des Familienpflegezeitgesetzes vereinbart, so ist
+
+1. eine Begutachtung des Antragstellers spätestens innerhalb von zehn Arbeitstagen nach Eingang des Antrags bei der zuständigen Pflegekasse durchzuführen und
+
+2. der Antragsteller vom Medizinischen Dienst oder von der von der Pflegekasse beauftragten Gutachterin oder von dem von der Pflegekasse beauftragten Gutachter unverzüglich schriftlich darüber zu informieren, welche Empfehlung der Medizinische Dienst oder die von der Pflegekasse beauftragte Gutachterin oder der von der Pflegekasse beauftragte Gutachter an die Pflegekasse weiterleitet.
+
+(7) In den Fällen der Absätze 5 und 6 muss die Empfehlung nur die Feststellung beinhalten, ob Pflegebedürftigkeit im Sinne der §§ 14 und 15 vorliegt und ob mindestens die Voraussetzungen des Pflegegrades 2 erfüllt sind. Die abschließende Begutachtung des Versicherten ist unverzüglich nachzuholen. Nimmt der Versicherte unmittelbar im Anschluss an den Aufenthalt in einem Krankenhaus, einschließlich eines Aufenthalts im Rahmen der Übergangspflege nach § 39e des Fünften Buches, oder im Anschluss an den Aufenthalt in einer stationären Rehabilitationseinrichtung Kurzzeitpflege in Anspruch, hat die abschließende Begutachtung spätestens am zehnten Arbeitstag nach Beginn der Kurzzeitpflege in dieser Einrichtung zu erfolgen.
+
+(8) Der Antragsteller ist bei der Begutachtung auf die maßgebliche Bedeutung des Gutachtens insbesondere für eine umfassende Beratung, das Erstellen eines individuellen Versorgungsplans nach § 7a, das Versorgungsmanagement nach § 11 Absatz 4 des Fünften Buches und die Pflegeplanung hinzuweisen. Die Zustimmung des Versicherten nach § 18b Absatz 3 Satz 1 erfolgt gegenüber der Gutachterin oder dem Gutachter im Rahmen der Begutachtung und wird im Begutachtungsformular schriftlich oder elektronisch dokumentiert. Gleiches gilt spätestens ab 1. November 2023 für die Zustimmung des Versicherten nach § 18c Absatz 3 Satz 3. Über die Möglichkeiten nach § 18c Absatz 4 Satz 3 und 4 und das Erfordernis der Einwilligung ist der Antragsteller bei der Begutachtung zu informieren; die Einwilligung ist jeweils schriftlich oder elektronisch zu dokumentieren.
+
+(9) Der Medizinische Dienst oder die von der Pflegekasse beauftragte Gutachterin oder der von der Pflegekasse beauftragte Gutachter soll, soweit der Versicherte einwilligt, die behandelnden Ärztinnen und behandelnden Ärzte des Antragstellers, insbesondere die Hausärztin oder den Hausarzt, in die Begutachtung einbeziehen und ärztliche Auskünfte und Unterlagen über die für die Begutachtung der Pflegebedürftigkeit wichtigen Vorerkrankungen sowie über Art, Umfang und Dauer der Hilfebedürftigkeit einholen. Mit Einwilligung des Versicherten sollen auch pflegende Angehörige oder sonstige Personen oder Dienste, die an der Pflege des Versicherten beteiligt sind, befragt werden.
+
+(10) Die Aufgaben des Medizinischen Dienstes werden durch Pflegefachkräfte oder Ärztinnen und Ärzte in enger Zusammenarbeit mit anderen geeigneten Fachkräften wahrgenommen. Die Prüfung der Pflegebedürftigkeit von Kindern ist in der Regel durch besonders geschulte Gutachterinnen und Gutachter mit einer Qualifikation als Pflegefachfrau oder Pflegefachmann, als Gesundheits- und Kinderkrankenpflegerin oder Gesundheits- und Kinderkrankenpfleger oder als Kinderärztin oder Kinderarzt vorzunehmen. Der Medizinische Dienst ist befugt, den Pflegefachkräften oder sonstigen geeigneten Fachkräften, die nicht dem Medizinischen Dienst angehören, die für deren jeweilige Beteiligung erforderlichen personenbezogenen Daten zu übermitteln.
+
+(11) Für andere unabhängige Gutachterinnen und Gutachter gilt Absatz 10 entsprechend. Die unabhängigen Gutachterinnen und Gutachter sind bei der Wahrnehmung ihrer fachlichen Aufgaben nur ihrem Gewissen unterworfen. Sie sind nicht berechtigt, in die ärztliche Behandlung und pflegerische Versorgung der Versicherten einzugreifen.
+
+(12) Für die Gutachterinnen und Gutachter, die von den die private Pflege-Pflichtversicherung betreibenden Versicherungsunternehmen beauftragt werden, Pflegebedürftigkeit festzustellen und Pflegegrade zuzuordnen, gilt § 23 Absatz 6 Nummer 1.
+
+# § 18b – Inhalt und Übermittlung des Gutachtens
+
+(1) Das Gutachten des Medizinischen Dienstes oder der von der Pflegekasse beauftragten Gutachterinnen oder Gutachter beinhaltet
+
+1. die Feststellungen, die in der Begutachtung nach § 18a vorzunehmen sind, insbesondere das Ergebnis der Prüfung, ob die Voraussetzungen der Pflegebedürftigkeit erfüllt sind und welcher Pflegegrad vorliegt, sowie
+
+2. Feststellungen, ob und in welchem Umfang Maßnahmen zur Vermeidung, Überwindung, Minderung oder Verhinderung einer Verschlimmerung der Pflegebedürftigkeit geeignet, notwendig und zumutbar sind; Empfehlungen auszusprechen sind insbesondere zu
+
+a) Maßnahmen der Prävention,
+
+b) Maßnahmen der medizinischen Rehabilitation,
+
+c) Maßnahmen zur Hilfsmittel- und Pflegehilfsmittelversorgung,
+
+d) Maßnahmen zur Heilmittelversorgung,
+
+e) anderen therapeutischen Maßnahmen,
+
+f) Maßnahmen zur Verbesserung des individuellen oder gemeinsamen Wohnumfelds,
+
+g) edukativen Maßnahmen und
+
+h) einer Beratung zu Leistungen zur verhaltensbezogenen Primärprävention nach § 20 Absatz 5 des Fünften Buches.
+
+Beantragt der Pflegebedürftige Pflegegeld, hat sich die gutachterliche Stellungnahme auch darauf zu erstrecken, ob die häusliche Pflege in geeigneter Weise sichergestellt ist.
+
+(2) Die Feststellungen zur Prävention und zur medizinischen Rehabilitation sind auf der Grundlage eines bundeseinheitlichen, strukturierten Verfahrens zu treffen und in einer gesonderten Präventions- und Rehabilitationsempfehlung zu dokumentieren. Im Umfang des nach Absatz 1 Satz 1 Nummer 2 Buchstabe b festgestellten Bedarfs an Leistungen zur medizinischen Rehabilitation haben Versicherte einen Anspruch gegen den zuständigen Träger auf diese Leistungen.
+
+(3) Die im Gutachten gegebenen konkreten Empfehlungen zur Hilfsmittel- und Pflegehilfsmittelversorgung gelten hinsichtlich Hilfsmitteln und Pflegehilfsmitteln, die den Zielen von § 40 dienen, jeweils als Antrag auf Leistungsgewährung, sofern der Versicherte zustimmt. Bezüglich der empfohlenen Hilfsmittel, die den Zielen nach § 40 dienen, wird das Vorliegen der nach § 33 Absatz 1 des Fünften Buches notwendigen Erforderlichkeit vermutet; insofern bedarf es keiner ärztlichen Verordnung gemäß § 33 Absatz 5a des Fünften Buches. Bezüglich der empfohlenen Pflegehilfsmittel wird die Notwendigkeit der Versorgung nach § 40 Absatz 1 Satz 2 vermutet. Welche Hilfsmittel und Pflegehilfsmittel im Sinne von Satz 1 den Zielen von § 40 dienen, wird in den Richtlinien nach § 17 Absatz 1 konkretisiert. Dabei ist auch die Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2 Nummer 6 des Fünften Buches über die Verordnung von Hilfsmitteln zu berücksichtigen.
+
+(4) Das vollständige Gutachten muss vom Medizinischen Dienst oder von der von der Pflegekasse beauftragten Gutachterin oder von dem von der Pflegekasse beauftragten Gutachter unverzüglich der Pflegekasse in gesicherter elektronischer Form übermittelt werden; eine davon abweichende Form der Übermittlung ist noch bis einschließlich 30. November 2023 zulässig.
+
+# § 18c – Entscheidung über den Antrag, Fristen
+
+(1) Ihre Entscheidung über einen Antrag nach § 33 Absatz 1 Satz 1 hat die zuständige Pflegekasse dem Antragsteller spätestens 25 Arbeitstage nach Eingang des Antrags schriftlich mitzuteilen. In den Fällen einer verkürzten Begutachtungsfrist nach § 18a Absatz 5 und 6 hat die schriftliche Entscheidung der Pflegekasse dem Antragsteller gegenüber unverzüglich nach Eingang der Empfehlung des Medizinischen Dienstes oder der beauftragten Gutachterinnen oder Gutachter bei der Pflegekasse zu erfolgen.
+
+(2) Zusammen mit dem Bescheid wird dem Antragsteller das Gutachten übersandt, sofern er der Übersendung des Gutachtens nicht widerspricht. Mit dem Bescheid ist zugleich das Ergebnis des Gutachtens transparent darzustellen und dem Antragsteller verständlich zu erläutern. Der Medizinische Dienst Bund konkretisiert im Benehmen mit dem Spitzenverband Bund der Pflegekassen in den Richtlinien nach § 17 Absatz 1 die Anforderungen an eine transparente Darstellungsweise und verständliche Erläuterung des Gutachtens. Die Pflegekasse hat den Antragsteller ebenfalls auf die maßgebliche Bedeutung des Gutachtens im Sinne des § 18a Absatz 8 Satz 1 hinzuweisen. Der Antragsteller kann die Übermittlung des Gutachtens auch zu einem späteren Zeitpunkt verlangen. Die Pflegekasse hat den Antragsteller auf die Möglichkeit hinzuweisen, sich bei Beschwerden über die Tätigkeit des Medizinischen Dienstes vertraulich an die Ombudsperson nach § 278 Absatz 3 des Fünften Buches zu wenden.
+
+(3) Die Pflegekasse übermittelt dem Antragsteller unverzüglich die Entscheidung über die in dem Gutachten empfohlenen Hilfsmittel und Pflegehilfsmittel und weist ihn zugleich auf die zur Auswahl stehenden Leistungserbringer hin. Spätestens mit der Mitteilung der Entscheidung nach Absatz 1 Satz 1 informiert die Pflegekasse den Antragsteller über die Bedeutung der empfohlenen Heilmittel und klärt ihn über die Regelung nach § 32 Absatz 1a des Fünften Buches auf. Die Pflegekasse leitet eine Mitteilung über die empfohlenen Heilmittel der behandelnden Ärztin oder dem behandelnden Arzt schriftlich oder elektronisch zu, wenn der Antragsteller in die Weiterleitung einwilligt.
+
+(4) Spätestens mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit leitet die Pflegekasse dem Antragsteller die gesonderte Präventions- und Rehabilitationsempfehlung des Medizinischen Dienstes oder der von der Pflegekasse beauftragten Gutachterinnen oder Gutachter zu und nimmt umfassend und begründet dazu Stellung, inwieweit auf der Grundlage der Empfehlung die Durchführung einer Maßnahme zur Prävention oder zur medizinischen Rehabilitation angezeigt ist. Die Pflegekasse hat den Antragsteller zusätzlich darüber zu informieren, dass mit der Zuleitung einer Mitteilung über den Rehabilitationsbedarf an den zuständigen Rehabilitationsträger ein Antragsverfahren auf Leistungen zur medizinischen Rehabilitation entsprechend den Vorschriften des Neunten Buches ausgelöst wird, sofern der Antragsteller in dieses Verfahren einwilligt. Mit Einwilligung des Antragstellers leitet die Pflegekasse die Präventions- und Rehabilitationsempfehlung und die Informationen nach Satz 2 auch seinen Angehörigen, Personen seines Vertrauens, Pflege- und Betreuungseinrichtungen, die den Antragsteller versorgen, oder der behandelnden Ärztin oder dem behandelnden Arzt schriftlich oder elektronisch zu. Sobald der Pflegekasse die Information über die Leistungsentscheidung des zuständigen Rehabilitationsträgers nach § 31 Absatz 3 Satz 4 vorliegt, leitet sie diese Information unverzüglich dem Medizinischen Dienst sowie mit Einwilligung des Antragstellers auch an die behandelnde Ärztin oder den behandelnden Arzt sowie an Angehörige des Antragstellers, Personen seines Vertrauens oder an Pflege- und Betreuungseinrichtungen, die den Antragsteller versorgen, schriftlich oder elektronisch weiter.
+
+(5) Erteilt die Pflegekasse den schriftlichen Bescheid über den Antrag nicht innerhalb von 25 Arbeitstagen nach Eingang des Antrags oder wird eine der in § 18a Absatz 5 und 6 genannten verkürzten Begutachtungsfristen nicht eingehalten, hat die Pflegekasse nach Fristablauf für jede begonnene Woche der Fristüberschreitung unverzüglich 70 Euro an den Antragsteller zu zahlen. Dies gilt nicht, wenn die Pflegekasse die Verzögerung nicht zu vertreten hat oder wenn sich der Antragsteller in vollstationärer Pflege befindet und bereits bei ihm mindestens erhebliche Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten (mindestens Pflegegrad 2) festgestellt sind. Entsprechendes gilt für die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen. Liegt ein Verzögerungsgrund vor, den die Pflegekasse nicht zu vertreten hat, so ist der Lauf der Frist nach Satz 1 so lange unterbrochen, bis die Verzögerung beendet ist; mit Beendigung der Verzögerung läuft die Frist weiter. Die Frist nach Satz 1 beginnt mit Antragstellung gemäß § 33 Absatz 1. Der Lauf der Frist von 25 Arbeitstagen nach Satz 1 bleibt von einer Entscheidung der Pflegekasse nach Absatz 1 Satz 2 unberührt. Die Pflegekasse hat den Antragsteller nach Eingang seines Antrags nach § 33 Absatz 1 Satz 1 auf die Frist für ihre Entscheidung sowie die verkürzten Begutachtungsfristen und die Folgen der Nichteinhaltung der Fristen hinzuweisen.
+
+(6) Wird der Antragsteller von der Pflegekasse aufgefordert, zur Beauftragung der Feststellung von Pflegebedürftigkeit noch zwingend erforderliche Unterlagen im Sinne des § 18 Absatz 1 Satz 4 einzureichen, so sind die Fristen nach den Absätzen 1 und 5 Satz 1 so lange unterbrochen, bis die geforderten Unterlagen bei der Pflegekasse eingegangen sind; mit Eingang der Unterlagen läuft die Frist weiter. Die Unterbrechung beginnt mit dem Tag, an dem dem Antragsteller die Aufforderung zur Einreichung der noch fehlenden Unterlagen zugeht.
+
+# § 18d – Berichtspflichten und Statistik zum Verfahren zur Feststellung der Pflegebedürftigkeit
+
+(1) Die Pflegekassen berichten dem Spitzenverband Bund der Pflegekassen jährlich über die Anwendung eines bundeseinheitlichen, strukturierten Verfahrens zur Erkennung rehabilitativer Bedarfe in der Pflegebegutachtung und die Erfahrungen mit der Umsetzung der Empfehlungen der Medizinischen Dienste oder der beauftragten Gutachterinnen und Gutachter zur medizinischen Rehabilitation. Hierzu wird von den Pflegekassen insbesondere Folgendes an den Spitzenverband Bund der Pflegekassen gemeldet:
+
+1. die Anzahl der Empfehlungen der Medizinischen Dienste und der beauftragten Gutachterinnen und Gutachter für Leistungen der medizinischen Rehabilitation im Rahmen der Begutachtung zur Feststellung der Pflegebedürftigkeit,
+
+2. die Anzahl der Anträge an den zuständigen Rehabilitationsträger gemäß § 31 Absatz 3 in Verbindung mit § 14 des Neunten Buches,
+
+3. die Anzahl der genehmigten und die Anzahl der abgelehnten Leistungsentscheidungen der zuständigen Rehabilitationsträger einschließlich der Gründe für eine Ablehnung sowie die Anzahl der Widersprüche,
+
+4. die Anzahl der durchgeführten medizinischen Rehabilitationsmaßnahmen,
+
+5. die Gründe, aus denen Versicherte nicht in die Weiterleitung einer Mitteilung über den Rehabilitationsbedarf an den Rehabilitationsträger nach § 31 Absatz 3 Satz 1 einwilligen, soweit diese der Pflegekasse bekannt sind, und inwieweit die zuständige Pflegekasse hier tätig geworden ist, und
+
+6. die Maßnahmen, die die Pflegekassen im jeweiligen Einzelfall regelmäßig durchführen, um ihre Aufgaben nach § 18c Absatz 4 und § 31 Absatz 3 zu erfüllen.
+
+Die Meldung durch die Pflegekassen erfolgt bis zum 31. März des dem Berichtsjahr folgenden Jahres. Näheres über das Verfahren und die Inhalte der Meldung regelt der Spitzenverband Bund der Pflegekassen im Einvernehmen mit dem Bundesministerium für Gesundheit. Die Pflegekasse leitet die Meldung zusätzlich der für die Aufsicht über sie zuständigen Stelle zu.
+
+(2) Der Spitzenverband Bund der Pflegekassen bereitet die nach Absatz 1 gemeldeten Daten auf und leitet die aufbereiteten und auf Plausibilität geprüften Daten bis zum 30. Juni des dem Berichtsjahr folgenden Jahres dem Bundesministerium für Gesundheit zu. Er hat die aufbereiteten Daten der landesunmittelbaren Versicherungsträger auch den für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder oder den von diesen bestimmten Stellen auf Verlangen zuzuleiten. Der Spitzenverband Bund der Pflegekassen veröffentlicht auf Basis der gemeldeten Daten sowie sonstiger Erkenntnisse jährlich einen Bericht bis zum 1. September des dem Berichtsjahr folgenden Jahres.
+
+(3) Der Spitzenverband Bund der Pflegekassen berichtet dem Bundesministerium für Gesundheit für die Geschäftsjahre ab 2024 jährlich bis zum 30. Juni des Folgejahres über Daten, die im Zusammenhang mit den Anträgen auf Pflegeleistungen nach § 33 Absatz 1 Satz 1 und dem weiteren Verfahren bei den Pflegekassen stehen, und über die daraus abzuleitenden Erkenntnisse; dabei ist jeweils nach Erst- und Höherstufungsanträgen zu differenzieren. Der Spitzenverband Bund der Pflegekassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen. Von den Pflegekassen sind insbesondere folgende Daten an den Spitzenverband Bund der Pflegekassen zu melden:
+
+1. die Anzahl der bei den zuständigen Pflegekassen eingegangenen Anträge auf Leistungen der Pflegeversicherung sowie jeweils die Fallzahlen, in denen eine Entscheidung nach § 18c Absatz 1 Satz 1 ergangen ist, und die Fallzahlen der abgelehnten Anträge sowie die Anzahl der Arbeitstage ab Eingang des Antrags bei der zuständigen Pflegekasse bis zur schriftlichen Mitteilung der Entscheidung der Pflegekasse nach § 18c Absatz 1 Satz 1,
+
+2. die Anzahl an Fällen, in denen die Fristen nach § 18c Absatz 1 Satz 1 und nach § 18a Absatz 5 und 6 nicht eingehalten wurden, jeweils unter Angabe der Gründe, die für die Nichteinhaltung der Frist ursächlich waren,
+
+3. die Anzahl an Fällen, in denen eine pauschale Zusatzzahlung nach § 18c Absatz 5 Satz 1 geleistet sowie die Anzahl an Fällen, in denen der antragstellenden Person nach § 18 Absatz 3 Satz 1 mindestens drei unabhängige Gutachterinnen oder Gutachter zur Auswahl benannt wurden,
+
+4. die Anzahl an Fällen, in denen der Antragsteller eine Untersuchung verweigert hat,
+
+5. die Anzahl an Fällen, in denen im Gutachten Empfehlungen für Heilmittel abgegeben wurden, und die Anzahl an Fällen, in denen die Pflegekasse eine Mitteilung über empfohlene Heilmittel an den Arzt oder die Ärztin des Antragstellers weitergeleitet hat, jeweils unterteilt nach Art der Heilmittel,
+
+6. die Anzahl an Fällen, in denen Widerspruch gegen die Entscheidung der Pflegekasse nach § 18c Absatz 1 Satz 1 und § 18a Absatz 5 und 6 eingelegt wurde, unter Angabe der Gründe, auf die der Widerspruch jeweils gestützt wurde, sowie die Anzahl an zurückgewiesenen und stattgegebenen Widersprüchen, jeweils unter Angabe der Entscheidungsgründe und der Dauer des Widerspruchsverfahrens (bis zur schriftlichen Mitteilung der Entscheidung der Pflegekasse), und, soweit zum Zeitpunkt der Berichtslegung bekannt, in wie vielen Fällen nach erfolglosem Widerspruchsverfahren Klage erhoben worden ist.
+
+Der Spitzenverband Bund der Pflegekassen hat die gemeldeten Daten vor der Berichtslegung aufzubereiten und auf Plausibilität zu prüfen. Für die Berichterstattung über das Geschäftsjahr 2025 beauftragt er eine unabhängige wissenschaftliche Einrichtung oder einen unabhängigen Sachverständigen mit einer Evaluation hinsichtlich der Ergebnisse und Wirkungen der Zuleitung von Mitteilungen zu empfohlenen Heilmitteln nach § 18c Absatz 3 Satz 3. Der Bericht über das Geschäftsjahr 2025 hat sich zum Ergebnis der Evaluation zu verhalten; das Ergebnis der Evaluation ist dem Bericht beizufügen.
+
+(4) Die Pflegekassen und die privaten Versicherungsunternehmen veröffentlichen jährlich jeweils bis zum 31. März des dem Berichtsjahr folgenden Jahres eine Statistik über die Einhaltung der Fristen nach § 18a Absatz 5 und 6 und § 18c Absatz 1 Satz 1.
+
+# § 18e – Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen
+
+(1) Der Medizinische Dienst Bund und die Medizinischen Dienste können Modellvorhaben, Studien und wissenschaftliche Expertisen zur Weiterentwicklung der den Medizinischen Diensten nach den §§ 18 bis 18b zugewiesenen Aufgaben durchführen. Für die Durchführung ist eine Vereinbarung mit den Pflegekassen erforderlich.
+
+(2) Ziel, Dauer, Inhalt und Durchführung eines Modellvorhabens, einer Studie oder einer wissenschaftlichen Expertise sind im Einvernehmen mit dem Bundesministerium für Gesundheit zu bestimmen.
+
+(3) Für die Beauftragung und Durchführung der Modellvorhaben, der Studien und der wissenschaftlichen Expertisen kann der Medizinische Dienst Bund aus Mitteln des Ausgleichsfonds der Pflegeversicherung bis zu 500 000 Euro im Kalenderjahr nutzen. Das Nähere über das Verfahren zur Auszahlung der aus dem Ausgleichsfonds zu finanzierenden Fördermittel regeln der Medizinische Dienst Bund und das Bundesamt für Soziale Sicherung durch Vereinbarung.
+
+(4) Bei der Durchführung der Modellvorhaben kann im Einzelfall von der Regelung des § 18a und insoweit von den Richtlinien nach § 53d Absatz 3 Satz 1 Nummer 1 abgewichen werden. Pflegebedürftige dürfen dadurch jedoch nicht benachteiligt werden.
+
+(5) Für jedes Modellvorhaben ist eine wissenschaftliche Begleitung und Auswertung vorzusehen. Personenbezogene Daten dürfen im Rahmen der Modellvorhaben nur verarbeitet werden, wenn die betroffene Person eingewilligt hat.
+
+(6) Der Medizinische Dienst Bund beauftragt im Rahmen eines Modellvorhabens nach den Absätzen 1 bis 5 bis spätestens 31. Oktober 2023 eine wissenschaftliche Studie zu den Auswirkungen, die ein ersatzweiser oder ergänzender Einsatz telefonischer und digitaler Kommunikationsmittel bei der Untersuchung zur Feststellung der Pflegebedürftigkeit auf das Begutachtungsverfahren und das Begutachtungsergebnis, insbesondere im Vergleich zu einer Begutachtung im Wohnbereich des Versicherten nach § 18a Absatz 2 Satz 1, mit sich bringt, und erstellt einen Abschlussbericht. Der Abschlussbericht und der Studienbericht sind dem Bundesministerium für Gesundheit bis zum 30. September 2024 vorzulegen. Absatz 3 findet Anwendung.
+
+# § 19 – Begriff der Pflegeperson
 
 Pflegepersonen im Sinne dieses Buches sind Personen, die nicht erwerbsmäßig einen Pflegebedürftigen im Sinne des § 14 in seiner häuslichen Umgebung pflegen. Leistungen zur sozialen Sicherung nach § 44 erhält eine Pflegeperson nur dann, wenn sie eine oder mehrere pflegebedürftige Personen wenigstens zehn Stunden wöchentlich, verteilt auf regelmäßig mindestens zwei Tage in der Woche, pflegt.
 
@@ -2179,7 +2250,7 @@ Bei Vorliegen des Pflegegrades 1 gewährt die Pflegeversicherung folgende Leistu
 
 (2) Die Pflegekassen haben bei der Einleitung und Ausführung der Leistungen zur Pflege sowie bei Beratung, Auskunft und Aufklärung mit den Trägern der Rehabilitation eng zusammenzuarbeiten, um Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern oder ihre Verschlimmerung zu verhüten.
 
-(3) Wenn eine Pflegekasse durch die gutachterlichen Feststellungen des Medizinischen Dienstes (§ 18 Abs. 6) oder auf sonstige Weise feststellt, dass im Einzelfall Leistungen zur medizinischen Rehabilitation angezeigt sind, informiert sie schriftlich oder elektronisch unverzüglich den Versicherten sowie mit dessen Einwilligung schriftlich oder elektronisch die behandelnde Ärztin oder den behandelnden Arzt sowie Angehörige, Personen des Vertrauens der Versicherten oder Pflege- und Betreuungseinrichtungen, die den Versicherten versorgen, und leitet mit Einwilligung des Versicherten eine entsprechende Mitteilung dem zuständigen Rehabilitationsträger zu. Die Pflegekasse weist den Versicherten gleichzeitig auf seine Eigenverantwortung und Mitwirkungspflicht hin. Soweit der Versicherte eingewilligt hat, gilt die Mitteilung an den Rehabilitationsträger als Antragstellung für das Verfahren nach § 14 des Neunten Buches. Die Pflegekasse ist über die Leistungsentscheidung des zuständigen Rehabilitationsträgers unverzüglich zu informieren. Sie prüft in einem angemessenen zeitlichen Abstand, ob entsprechende Maßnahmen durchgeführt worden sind; soweit erforderlich, hat sie vorläufige Leistungen zur medizinischen Rehabilitation nach § 32 Abs. 1 zu erbringen.
+(3) Wenn eine Pflegekasse durch die gutachterlichen Feststellungen des Medizinischen Dienstes oder anderer von ihr beauftragter unabhängiger Gutachterinnen und Gutachter (§ 18b Absatz 1 Satz 1 Nummer 2 und Absatz 2) oder auf sonstige Weise feststellt, dass im Einzelfall Leistungen zur medizinischen Rehabilitation angezeigt sind, informiert sie schriftlich oder elektronisch unverzüglich den Versicherten sowie mit dessen Einwilligung schriftlich oder elektronisch die behandelnde Ärztin oder den behandelnden Arzt sowie Angehörige, Personen des Vertrauens der Versicherten oder Pflege- und Betreuungseinrichtungen, die den Versicherten versorgen, und leitet mit Einwilligung des Versicherten eine entsprechende Mitteilung dem zuständigen Rehabilitationsträger zu. Die Pflegekasse weist den Versicherten gleichzeitig auf seine Eigenverantwortung und Mitwirkungspflicht hin. Soweit der Versicherte eingewilligt hat, gilt die Mitteilung an den Rehabilitationsträger als Antragstellung für das Verfahren nach § 14 des Neunten Buches. Die Pflegekasse ist über die Leistungsentscheidung des zuständigen Rehabilitationsträgers unverzüglich zu informieren. Sie prüft in einem angemessenen zeitlichen Abstand, ob entsprechende Maßnahmen durchgeführt worden sind; soweit erforderlich, hat sie vorläufige Leistungen zur medizinischen Rehabilitation nach § 32 Absatz 1 zu erbringen.
 
 # § 32 – Vorläufige Leistungen zur medizinischen Rehabilitation
 
@@ -2611,7 +2682,7 @@ Je Kalenderjahr werden 0,15 Euro je Versicherten verwendet zur Förderung und zu
 
 (2) Die Pflegekassen sind rechtsfähige Körperschaften des öffentlichen Rechts mit Selbstverwaltung. Organe der Pflegekassen sind die Organe der Krankenkassen, bei denen sie errichtet sind. Arbeitgeber (Dienstherr) der für die Pflegekasse tätigen Beschäftigten ist die Krankenkasse, bei der die Pflegekasse errichtet ist. Krankenkassen und Pflegekassen können für Mitglieder, die ihre Kranken- und Pflegeversicherungsbeiträge selbst zu zahlen haben, die Höhe der Beiträge zur Kranken- und Pflegeversicherung in einem gemeinsamen Beitragsbescheid festsetzen. Das Mitglied ist darauf hinzuweisen, dass der Bescheid über den Beitrag zur Pflegeversicherung im Namen der Pflegekasse ergeht. In den Fällen des Satzes 4 kann auch ein gemeinsamer Widerspruchsbescheid erlassen werden; Satz 5 gilt entsprechend. Die Erstattung zu Unrecht gezahlter Pflegeversicherungsbeiträge erfolgt durch die Krankenkasse, bei der die Pflegekasse errichtet ist. Bei der Ausführung dieses Buches ist das Erste Kapitel des Zehnten Buches anzuwenden.
 
-(3) Die Verwaltungskosten einschließlich der Personalkosten, die den Krankenkassen auf Grund dieses Buches entstehen, werden von den Pflegekassen in Höhe von 3,2 Prozent des Mittelwertes von Leistungsaufwendungen und Beitragseinnahmen erstattet; dabei ist der Erstattungsbetrag für die einzelne Krankenkasse um die Hälfte der Aufwendungen der jeweiligen Pflegekasse für Pflegeberatung nach § 7a Abs. 4 Satz 5 und um die Aufwendungen für Zahlungen nach § 18 Absatz 3b zu vermindern. Bei der Berechnung der Erstattung sind die Beitragseinnahmen um die Beitragseinnahmen zu vermindern, die dazu bestimmt sind, nach § 135 dem Vorsorgefonds der sozialen Pflegeversicherung zugeführt zu werden. Der Gesamtbetrag der nach Satz 1 zu erstattenden Verwaltungskosten aller Krankenkassen ist nach dem tatsächlich entstehenden Aufwand (Beitragseinzug/Leistungsgewährung) auf die Krankenkassen zu verteilen. Der Spitzenverband Bund der Pflegekassen bestimmt das Nähere über die Verteilung. Außerdem übernehmen die Pflegekassen 50 vom Hundert der umlagefinanzierten Kosten des Medizinischen Dienstes. Personelle Verwaltungskosten, die einer Betriebskrankenkasse von der Pflegekasse erstattet werden, sind an den Arbeitgeber weiterzuleiten, wenn er die Personalkosten der Betriebskrankenkasse nach § 149 Absatz 2 des Fünften Buches trägt. Der Verwaltungsaufwand in der sozialen Pflegeversicherung ist nach Ablauf von einem Jahr nach Inkrafttreten dieses Gesetzes zu überprüfen.
+(3) Die Verwaltungskosten einschließlich der Personalkosten, die den Krankenkassen auf Grund dieses Buches entstehen, werden von den Pflegekassen in Höhe von 3,2 Prozent des Mittelwertes von Leistungsaufwendungen und Beitragseinnahmen erstattet; dabei ist der Erstattungsbetrag für die einzelne Krankenkasse um die Hälfte der Aufwendungen der jeweiligen Pflegekasse für Pflegeberatung nach § 7a Abs. 4 Satz 5 und um die Aufwendungen für Zahlungen nach § 18c Absatz 5 zu vermindern. Bei der Berechnung der Erstattung sind die Beitragseinnahmen um die Beitragseinnahmen zu vermindern, die dazu bestimmt sind, nach § 135 dem Vorsorgefonds der sozialen Pflegeversicherung zugeführt zu werden. Der Gesamtbetrag der nach Satz 1 zu erstattenden Verwaltungskosten aller Krankenkassen ist nach dem tatsächlich entstehenden Aufwand (Beitragseinzug/Leistungsgewährung) auf die Krankenkassen zu verteilen. Der Spitzenverband Bund der Pflegekassen bestimmt das Nähere über die Verteilung. Außerdem übernehmen die Pflegekassen 50 vom Hundert der umlagefinanzierten Kosten des Medizinischen Dienstes. Personelle Verwaltungskosten, die einer Betriebskrankenkasse von der Pflegekasse erstattet werden, sind an den Arbeitgeber weiterzuleiten, wenn er die Personalkosten der Betriebskrankenkasse nach § 149 Absatz 2 des Fünften Buches trägt. Der Verwaltungsaufwand in der sozialen Pflegeversicherung ist nach Ablauf von einem Jahr nach Inkrafttreten dieses Gesetzes zu überprüfen.
 
 (4) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die Erstattung der Verwaltungskosten zu regeln sowie die Höhe der Verwaltungskostenerstattung neu festzusetzen, wenn die Überprüfung des Verwaltungsaufwandes nach Absatz 3 Satz 6 dies rechtfertigt.
 
@@ -2783,7 +2854,7 @@ Der Spitzenverband Bund der Pflegekassen hat für die zusätzlich einzusetzenden
 
 (2) Der Medizinische Dienst Bund erlässt unter Beachtung des geltenden Leistungs- und Leistungserbringungsrechts und unter fachlicher Beteiligung der Medizinischen Dienste Richtlinien
 
-1. zur Dienstleistungsorientierung nach § 18b,
+1. zur Dienstleistungsorientierung nach § 17 Absatz 1c,
 
 2. zur Personalbedarfsermittlung mit für alle Medizinischen Dienste einheitlichen aufgabenbezogenen Richtwerten für die Aufgaben, die ihnen nach diesem Buch übertragen sind,
 
@@ -3799,7 +3870,7 @@ Für den Schutz personenbezogener Daten bei der Verarbeitung in der Pflegeversic
 
 3. die Prüfung der Leistungspflicht und die Gewährung von Leistungen an Versicherte (§§ 4, 28 und 28a) sowie die Durchführung von Erstattungs- und Ersatzansprüchen,
 
-4. die Beteiligung des Medizinischen Dienstes (§§ 18 und 40),
+4. die Beteiligung des Medizinischen Dienstes (§§ 18 bis 18c und 40),
 
 5. die Abrechnung mit den Leistungserbringern und die Kostenerstattung (§§ 84 bis 91 und 105),
 
@@ -3819,7 +3890,7 @@ Für den Schutz personenbezogener Daten bei der Verarbeitung in der Pflegeversic
 
 erforderlich ist.
 
-(2) Die nach Absatz 1 erhobenen und gespeicherten personenbezogenen Daten dürfen für andere Zwecke nur verarbeitet werden, soweit dies durch Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist. Auf Ersuchen des Betreuungsgerichts hat die Pflegekasse diesem zu dem in § 282 Abs. 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannten Zweck das nach § 18 zur Feststellung der Pflegebedürftigkeit erstellte Gutachten einschließlich der Befunde des Medizinischen Dienstes zu übermitteln.
+(2) Die nach Absatz 1 erhobenen und gespeicherten personenbezogenen Daten dürfen für andere Zwecke nur verarbeitet werden, soweit dies durch Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist. Auf Ersuchen des Betreuungsgerichts hat die Pflegekasse diesem zu dem in § 282 Abs. 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannten Zweck das nach den §§ 18 bis 18c zur Feststellung der Pflegebedürftigkeit erstellte Gutachten einschließlich der Befunde des Medizinischen Dienstes zu übermitteln.
 
 (3) Versicherungs- und Leistungsdaten der für Aufgaben der Pflegekasse eingesetzten Beschäftigten einschließlich der Daten ihrer mitversicherten Angehörigen dürfen Personen, die kasseninterne Personalentscheidungen treffen oder daran mitwirken können, weder zugänglich sein noch diesen Personen von Zugriffsberechtigten offenbart werden.
 
@@ -3851,7 +3922,7 @@ erforderlich sind.
 
 # § 97 – Personenbezogene Daten beim Medizinischen Dienst
 
-(1) Der Medizinische Dienst darf personenbezogene Daten für Zwecke der Pflegeversicherung nur verarbeiten, soweit dies für die Prüfungen, Beratungen und gutachtlichen Stellungnahmen nach den §§ 18, 38a, 40, 112, 113, 114, 114a, 115 und 117 erforderlich ist. Nach Satz 1 erhobene Daten dürfen für andere Zwecke nur verarbeitet werden, soweit dies durch Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist.
+(1) Der Medizinische Dienst darf personenbezogene Daten für Zwecke der Pflegeversicherung nur verarbeiten, soweit dies für die Prüfungen, Beratungen und gutachtlichen Stellungnahmen nach den §§ 18 bis 18c, 38a, 40, 112, 113, 114, 114a, 115 und 117 erforderlich ist. Nach Satz 1 erhobene Daten dürfen für andere Zwecke nur verarbeitet werden, soweit dies durch Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist.
 
 (2) Der Medizinische Dienst darf personenbezogene Daten, die er für die Aufgabenerfüllung nach dem Fünften oder Elften Buch verarbeitet, auch für die Aufgaben des jeweils anderen Buches verarbeiten, wenn ohne die vorhandenen Daten diese Aufgaben nicht ordnungsgemäß erfüllt werden können.
 
@@ -3875,9 +3946,9 @@ Bei Wahrnehmung der Aufgaben auf dem Gebiet der Qualitätssicherung und Qualitä
 
 # § 97d – Begutachtung durch unabhängige Gutachter
 
-(1) Von den Pflegekassen gemäß § 18 Absatz 1 Satz 1 beauftragte unabhängige Gutachter sind berechtigt, personenbezogene Daten des Antragstellers zu verarbeiten, soweit dies für die Zwecke der Begutachtung gemäß § 18 erforderlich ist. Die Daten sind vertraulich zu behandeln. Durch technische und organisatorische Maßnahmen ist sicherzustellen, dass die Daten nur den Personen zugänglich sind, die sie zur Erfüllung des dem Gutachter von den Pflegekassen nach § 18 Absatz 1 Satz 1 erteilten Auftrags benötigen.
+(1) Von den Pflegekassen gemäß § 18 Absatz 1 Satz 1 beauftragte unabhängige Gutachter sind berechtigt, personenbezogene Daten des Antragstellers zu verarbeiten, soweit dies für die Zwecke der Begutachtung gemäß der §§ 18 bis 18c erforderlich ist. Die Daten sind vertraulich zu behandeln. Durch technische und organisatorische Maßnahmen ist sicherzustellen, dass die Daten nur den Personen zugänglich sind, die sie zur Erfüllung des dem Gutachter von den Pflegekassen nach § 18 Absatz 1 Satz 1 erteilten Auftrags benötigen.
 
-(2) Die unabhängigen Gutachter dürfen das Ergebnis der Prüfung zur Feststellung der Pflegebedürftigkeit sowie die Präventions- und Rehabilitationsempfehlung gemäß § 18 an die sie beauftragende Pflegekasse übermitteln, soweit dies zur Erfüllung der gesetzlichen Aufgaben der Pflegekasse erforderlich ist; § 35 des Ersten Buches gilt entsprechend. Dabei ist sicherzustellen, dass das Ergebnis der Prüfung zur Feststellung der Pflegebedürftigkeit sowie die Präventions- und Rehabilitationsempfehlung nur den Personen zugänglich gemacht werden, die sie zur Erfüllung ihrer Aufgaben benötigen.
+(2) Die unabhängigen Gutachter dürfen das Ergebnis der Prüfung zur Feststellung der Pflegebedürftigkeit sowie die Präventions- und Rehabilitationsempfehlung gemäß den §§ 18 bis 18c an die sie beauftragende Pflegekasse übermitteln, soweit dies zur Erfüllung der gesetzlichen Aufgaben der Pflegekasse erforderlich ist; § 35 des Ersten Buches gilt entsprechend. Dabei ist sicherzustellen, dass das Ergebnis der Prüfung zur Feststellung der Pflegebedürftigkeit sowie die Präventions- und Rehabilitationsempfehlung nur den Personen zugänglich gemacht werden, die sie zur Erfüllung ihrer Aufgaben benötigen.
 
 (3) Die personenbezogenen Daten sind nach fünf Jahren zu löschen. § 107 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -4475,7 +4546,7 @@ wirksam aufeinander abzustimmen. Dabei ist sicherzustellen, dass Doppelprüfunge
 
 (1) Bei Erarbeitung oder Änderung
 
-1. der in § 17 Absatz 1, §§ 18b, 112a Absatz 2, § 114a Absatz 7, § 114c Absatz 1 und § 115a Absatz 3 bis 5 vorgesehenen Richtlinien sowie
+1. der in § 17 Absatz 1, § 17 Absatz 1c, § 112a Absatz 2, § 114a Absatz 7, § 114c Absatz 1 und § 115a Absatz 3 bis 5 vorgesehenen Richtlinien sowie
 
 2. der Vereinbarungen und Beschlüsse nach § 37 Absatz 5 in der ab dem 1. Januar 2017 geltenden Fassung, den §§ 113, 115 Absatz 1a sowie § 115a Absatz 1 Satz 3 und Absatz 2 durch den Qualitätsausschuss nach § 113b sowie der Vereinbarungen und Beschlüsse nach § 113c und der Vereinbarungen nach § 115a Absatz 1 Satz 1
 
@@ -4639,7 +4710,7 @@ Personen, die nach dem Dritten Kapitel in der sozialen oder privaten Pflegeversi
 
 4. bei Vorliegen von Pflegebedürftigkeit im Sinne des § 14 einen vertraglichen Anspruch auf Auszahlung von Geldleistungen für jeden der in § 15 Absatz 3 und 7 aufgeführten Pflegegrade, dabei in Höhe von mindestens 600 Euro für Pflegegrad 5, vorsieht; die tariflich vorgesehenen Geldleistungen dürfen dabei die zum Zeitpunkt des Vertragsabschlusses jeweils geltende Höhe der Leistungen dieses Buches nicht überschreiten, eine Dynamisierung bis zur Höhe der allgemeinen Inflationsrate ist jedoch zulässig; weitere Leistungen darf der förderfähige Tarif nicht vorsehen,
 
-5. bei der Feststellung des Versicherungsfalles sowie der Festsetzung des Pflegegrades dem Ergebnis des Verfahrens zur Feststellung der Pflegebedürftigkeit gemäß § 18 folgt; bei Versicherten der privaten Pflege-Pflichtversicherung sind die entsprechenden Feststellungen des privaten Versicherungsunternehmens zugrunde zu legen,
+5. bei der Feststellung des Versicherungsfalles sowie der Festsetzung des Pflegegrades dem Ergebnis des Verfahrens zur Feststellung der Pflegebedürftigkeit gemäß den §§ 18 bis 18c folgt; bei Versicherten der privaten Pflege-Pflichtversicherung sind die entsprechenden Feststellungen des privaten Versicherungsunternehmens zugrunde zu legen,
 
 6. die Wartezeit auf höchstens fünf Jahre beschränkt,
 

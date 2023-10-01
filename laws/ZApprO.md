@@ -1342,13 +1342,13 @@ Im schriftlichen Abschnitt der Eignungsprüfung hat die antragstellende Person u
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde bestellt die Prüfungskommission. Sie kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes übertragen.
 
-(3) Die Prüfungskommission besteht aus der vorsitzenden Person sowie mindestens zwei und höchstens vier weiteren Mitgliedern. Für die vorsitzende Person und die weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Als vorsitzende Person, als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer bestellt, die Gegenstand der Prüfung sind. Als vorsitzende Person, als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte und Zahnärztinnen bestellt werden.
+(3) Die Prüfungskommission besteht aus der vorsitzenden Person sowie zwei weiteren Mitgliedern. Für die vorsitzende Person und die weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Als vorsitzende Person, als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer bestellt, die Gegenstand der Prüfung sind. Als vorsitzende Person, als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte und Zahnärztinnen bestellt werden.
 
 (4) Die der Prüfungskommission vorsitzende Person leitet die Prüfung und prüft selbst.
 
 (5) Alle Mitglieder der Prüfungskommission haben während des Prüfungsgesprächs im Rahmen des mündlichen Abschnitts der Eignungsprüfung und bei den Beratungen über die Ergebnisse des schriftlichen und des praktischen Abschnitts der Eignungsprüfung anwesend zu sein. Die der Prüfungskommission vorsitzende Person bestimmt, welches Mitglied der Prüfungskommission die antragstellende Person im praktischen Abschnitt der Eignungsprüfung beaufsichtigt.
 
-(6) Die Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der der Prüfungskommission vorsitzenden Person den Ausschlag.
+(6) Die Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit.
 
 # § 97 – Durchführung der Eignungsprüfung
 
@@ -1532,7 +1532,7 @@ e) richtiger Einsatz der parodontalen Instrumente.
 
 (5) Alle Mitglieder der Prüfungskommission haben während des Prüfungsgesprächs im Rahmen des mündlichen Abschnitts der Kenntnisprüfung und bei den Beratungen über die Ergebnisse des schriftlichen und des praktischen Abschnitts der Kenntnisprüfung anwesend zu sein. Die der Prüfungskommission vorsitzende Person bestimmt, welches Mitglied der Prüfungskommission die antragstellende Person im praktischen Abschnitt der Kenntnisprüfung beaufsichtigt.
 
-(6) Die Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der der Prüfungskommission vorsitzenden Person den Ausschlag.
+(6) Die Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit.
 
 # § 112 – Durchführung der Kenntnisprüfung
 

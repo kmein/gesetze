@@ -2925,11 +2925,13 @@ Landesgesetzliche Vorschriften über die Voraussetzungen, unter denen gegen Mitg
 
 5. sich ernsthaft zu bemühen, einen Ausgleich mit dem Verletzten zu erreichen (Täter-Opfer-Ausgleich) und dabei seine Tat ganz oder zum überwiegenden Teil wieder gut zu machen oder deren Wiedergutmachung zu erstreben,
 
-6. an einem sozialen Trainingskurs teilzunehmen oder
+6. an einem sozialen Trainingskurs teilzunehmen,
 
-7. an einem Aufbauseminar nach § 2b Abs. 2 Satz 2 oder an einem Fahreignungsseminar nach § 4a des Straßenverkehrsgesetzes teilzunehmen.
+7. an einem Aufbauseminar nach § 2b Abs. 2 Satz 2 oder an einem Fahreignungsseminar nach § 4a des Straßenverkehrsgesetzes teilzunehmen oder
 
-Zur Erfüllung der Auflagen und Weisungen setzt die Staatsanwaltschaft dem Beschuldigten eine Frist, die in den Fällen des Satzes 2 Nummer 1 bis 3, 5 und 7 höchstens sechs Monate, in den Fällen des Satzes 2 Nummer 4 und 6 höchstens ein Jahr beträgt. Die Staatsanwaltschaft kann Auflagen und Weisungen nachträglich aufheben und die Frist einmal für die Dauer von drei Monaten verlängern; mit Zustimmung des Beschuldigten kann sie auch Auflagen und Weisungen nachträglich auferlegen und ändern. Erfüllt der Beschuldigte die Auflagen und Weisungen, so kann die Tat nicht mehr als Vergehen verfolgt werden. Erfüllt der Beschuldigte die Auflagen und Weisungen nicht, so werden Leistungen, die er zu ihrer Erfüllung erbracht hat, nicht erstattet. § 153 Abs. 1 Satz 2 gilt in den Fällen des Satzes 2 Nummer 1 bis 6 entsprechend. § 246a Absatz 2 gilt entsprechend.
+8. sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen (Therapieweisung).
+
+Zur Erfüllung der Auflagen und Weisungen setzt die Staatsanwaltschaft dem Beschuldigten eine Frist, die in den Fällen des Satzes 2 Nummer 1 bis 3, 5 und 7 höchstens sechs Monate, in den Fällen des Satzes 2 Nummer 4, 6 und 8 höchstens ein Jahr beträgt. Die Staatsanwaltschaft kann Auflagen und Weisungen nachträglich aufheben und die Frist einmal für die Dauer von drei Monaten verlängern; mit Zustimmung des Beschuldigten kann sie auch Auflagen und Weisungen nachträglich auferlegen und ändern. Erfüllt der Beschuldigte die Auflagen und Weisungen, so kann die Tat nicht mehr als Vergehen verfolgt werden. Erfüllt der Beschuldigte die Auflagen und Weisungen nicht, so werden Leistungen, die er zu ihrer Erfüllung erbracht hat, nicht erstattet. § 153 Abs. 1 Satz 2 gilt in den Fällen des Satzes 2 Nummer 1 bis 6 entsprechend. § 246a Absatz 2 gilt entsprechend.
 
 (2) Ist die Klage bereits erhoben, so kann das Gericht mit Zustimmung der Staatsanwaltschaft und des Angeschuldigten das Verfahren vorläufig einstellen und zugleich dem Angeschuldigten die in Absatz 1 Satz 1 und 2 bezeichneten Auflagen und Weisungen erteilen. Absatz 1 Satz 3 bis 6 und 8 gilt entsprechend. Die Entscheidung nach Satz 1 ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar. Satz 4 gilt auch für eine Feststellung, daß gemäß Satz 1 erteilte Auflagen und Weisungen erfüllt worden sind.
 
@@ -3817,7 +3819,7 @@ Zweifel über die Zulässigkeit einer Frage entscheidet in allen Fällen das Ger
 
 (1) Kommt in Betracht, dass die Unterbringung des Angeklagten in einem psychiatrischen Krankenhaus oder in der Sicherungsverwahrung angeordnet oder vorbehalten werden wird, so ist in der Hauptverhandlung ein Sachverständiger über den Zustand des Angeklagten und die Behandlungsaussichten zu vernehmen. Gleiches gilt, wenn das Gericht erwägt, die Unterbringung des Angeklagten in einer Entziehungsanstalt anzuordnen.
 
-(2) Ist Anklage erhoben worden wegen einer in § 181b des Strafgesetzbuchs genannten Straftat zum Nachteil eines Minderjährigen und kommt die Erteilung einer Weisung nach § 153a dieses Gesetzes oder nach den §§ 56c, 59a Absatz 2 Satz 1 Nummer 4 oder § 68b Absatz 2 Satz 2 des Strafgesetzbuchs in Betracht, wonach sich der Angeklagte psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen hat (Therapieweisung), soll ein Sachverständiger über den Zustand des Angeklagten und die Behandlungsaussichten vernommen werden, soweit dies erforderlich ist, um festzustellen, ob der Angeklagte einer solchen Betreuung und Behandlung bedarf.
+(2) Ist Anklage erhoben worden wegen einer in § 181b des Strafgesetzbuchs genannten Straftat zum Nachteil eines Minderjährigen und kommt die Erteilung einer Weisung nach § 153a Absatz 1 Satz 2 Nummer 8 dieses Gesetzes oder nach § 56c Absatz 2 Nummer 6, § 59a Absatz 2 Satz 1 Nummer 5 oder § 68b Absatz 2 Satz 2 des Strafgesetzbuchs in Betracht, wonach sich der Angeklagte psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen hat (Therapieweisung), soll ein Sachverständiger über den Zustand des Angeklagten und die Behandlungsaussichten vernommen werden, soweit dies erforderlich ist, um festzustellen, ob der Angeklagte einer solchen Betreuung und Behandlung bedarf.
 
 (3) Hat der Sachverständige den Angeklagten nicht schon früher untersucht, so soll ihm dazu vor der Hauptverhandlung Gelegenheit gegeben werden.
 
@@ -5877,7 +5879,9 @@ und die Vollstreckung der Geldstrafe die Wiedereingliederung des Verurteilten er
 
 (1) Die Ersatzfreiheitsstrafe wird auf Anordnung der Vollstreckungsbehörde vollstreckt.
 
-(2) Die Anordnung setzt voraus, daß die Geldstrafe nicht eingebracht werden kann oder die Vollstreckung nach § 459c Abs. 2 unterbleibt.
+(2) Die Anordnung setzt voraus, daß die Geldstrafe nicht eingebracht werden kann oder die Vollstreckung nach § 459c Abs. 2 unterbleibt. Vor der Anordnung ist der Verurteilte darauf hinzuweisen, dass ihm gemäß § 459a Zahlungserleichterungen bewilligt werden können und ihm gemäß Rechtsverordnung nach Artikel 293 des Einführungsgesetzes zum Strafgesetzbuch oder sonst landesrechtlich gestattet werden kann, die Vollstreckung der Ersatzfreiheitsstrafe durch freie Arbeit abzuwenden; besteht Anlass zu der Annahme, dass der Verurteilte der deutschen Sprache nicht hinreichend mächtig ist, hat der Hinweis in einer ihm verständlichen Sprache zu erfolgen.
+
+(2a) Die Vollstreckungsbehörde und die gemäß § 463d Satz 2 Nummer 2 eingebundene Gerichtshilfe können zu dem Zweck, dem Verurteilten Möglichkeiten aufzuzeigen, die Geldstrafe mittels Zahlungserleichterungen zu tilgen oder die Vollstreckung einer Ersatzfreiheitsstrafe durch freie Arbeit abzuwenden, einer von der Vollstreckungsbehörde beauftragten nichtöffentlichen Stelle die hierfür erforderlichen personenbezogenen Daten übermitteln. Die beauftragte Stelle ist darauf hinzuweisen, dass sie die übermittelten Daten nur für die in Satz 1 genannten Zwecke verwenden und verarbeiten darf. Sie darf personenbezogene Daten nur erheben sowie die erhobenen Daten verarbeiten und nutzen, soweit der Verurteilte eingewilligt hat und dies für die in Satz 1 genannten Zwecke erforderlich ist. Die Vorschriften der Verordnung (EU) 2016/679 und des Bundesdatenschutzgesetzes finden auch dann Anwendung, wenn die personenbezogenen Daten nicht automatisiert verarbeitet werden und nicht in einem Dateisystem gespeichert sind oder gespeichert werden. Die personenbezogenen Daten sind von der beauftragten Stelle nach Ablauf eines Jahres nach Beendigung der beauftragten Tätigkeit zu vernichten.
 
 (3) Wegen eines Teilbetrages, der keinem vollen Tag Freiheitsstrafe entspricht, darf die Vollstreckung der Ersatzfreiheitsstrafe nicht angeordnet werden.
 
@@ -5999,7 +6003,7 @@ Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen verurteilt word
 
 (5) § 455 Abs. 1 ist nicht anzuwenden, wenn die Unterbringung in einem psychiatrischen Krankenhaus angeordnet ist. Ist die Unterbringung in einer Entziehungsanstalt oder in der Sicherungsverwahrung angeordnet worden und verfällt der Verurteilte in Geisteskrankheit, so kann die Vollstreckung der Maßregel aufgeschoben werden. § 456 ist nicht anzuwenden, wenn die Unterbringung des Verurteilten in der Sicherungsverwahrung angeordnet ist.
 
-(6) § 462 gilt auch für die nach § 67 Absatz 3, 5 Satz 2 und Absatz 6, den §§ 67a und 67c Abs. 2, § 67d Abs. 5 und 6, den §§ 67g, 67h und 69a Abs. 7 sowie den §§ 70a und 70b des Strafgesetzbuches zu treffenden Entscheidungen. In den Fällen des § 67d Absatz 6 des Strafgesetzbuches ist der Verurteilte mündlich zu hören. Das Gericht erklärt die Anordnung von Maßnahmen nach § 67h Abs. 1 Satz 1 und 2 des Strafgesetzbuchs für sofort vollziehbar, wenn erhebliche rechtswidrige Taten des Verurteilten drohen.
+(6) § 462 gilt auch für die nach § 67 Absatz 3, 5 Satz 2 und Absatz 6, den §§ 67a und 67c Abs. 2, § 67d Abs. 5 und 6, den §§ 67g, 67h und 69a Abs. 7 sowie den §§ 70a und 70b des Strafgesetzbuches zu treffenden Entscheidungen. In den Fällen des § 67d Absatz 6 des Strafgesetzbuches ist der Verurteilte mündlich zu hören. Das Gericht erklärt die Anordnung von Maßnahmen nach § 67h Abs. 1 Satz 1 und 2 des Strafgesetzbuchs für sofort vollziehbar, wenn erhebliche rechtswidrige Taten des Verurteilten drohen; für Entscheidungen nach § 67d Absatz 5 Satz 1 des Strafgesetzbuches bleibt es bei der sofortigen Vollziehbarkeit (§§ 307 und 462 Absatz 3 Satz 2).
 
 (7) Für die Anwendung des § 462a Abs. 1 steht die Führungsaufsicht in den Fällen des § 67c Abs. 1, des § 67d Abs. 2 bis 6 und des § 68f des Strafgesetzbuches der Aussetzung eines Strafrestes gleich.
 
@@ -6049,7 +6053,11 @@ Zur Einhaltung der Zweckbindung nach Satz 2 hat die Verarbeitung der Daten zur F
 
 # § 463d – Gerichtshilfe
 
-Zur Vorbereitung der nach den §§ 453 bis 461 zu treffenden Entscheidungen kann sich das Gericht oder die Vollstreckungsbehörde der Gerichtshilfe bedienen; dies kommt insbesondere vor einer Entscheidung über den Widerruf der Strafaussetzung oder der Aussetzung des Strafrestes in Betracht, sofern nicht ein Bewährungshelfer bestellt ist.
+Zur Vorbereitung der nach den §§ 453 bis 461 zu treffenden Entscheidungen kann sich das Gericht oder die Vollstreckungsbehörde der Gerichtshilfe bedienen. Die Gerichtshilfe soll einbezogen werden vor einer Entscheidung
+
+1. über den Widerruf der Strafaussetzung oder der Aussetzung eines Strafrestes, sofern nicht ein Bewährungshelfer bestellt ist,
+
+2. über die Anordnung der Vollstreckung der Ersatzfreiheitsstrafe, um die Abwendung der Anordnung oder Vollstreckung durch Zahlungserleichterungen oder durch freie Arbeit zu fördern.
 
 # § 463e – Mündliche Anhörung im Wege der Bild- und Tonübertragung
 

@@ -33,7 +33,7 @@ Die Mittel für die ergänzenden Leistungen sowie die Verwaltungskosten und sons
 
 2. des Gerüstbauerhandwerks (§ 1 Abs. 3 Nr. 1 der Baubetriebe-Verordnung) 1,9 Prozent,
 
-3. des Dachdeckerhandwerks (§ 1 Abs. 3 Nr. 2 der Baubetriebe-Verordnung) 2 Prozent,
+3. des Dachdeckerhandwerks (§ 1 Abs. 3 Nr. 2 der Baubetriebe-Verordnung) 1,6 Prozent,
 
 4. des Garten- und Landschaftsbaus (§ 1 Abs. 4 der Baubetriebe-Verordnung) 1,85 Prozent
 
@@ -45,7 +45,7 @@ der umlagepflichtigen Bruttoarbeitsentgelte der gewerblichen Arbeitnehmer.
 
 2. nach Absatz 1 Nr. 2 allein durch die Arbeitgeber aufgebracht,
 
-3. nach Absatz 1 Nr. 3 anteilig durch die Arbeitgeber in Höhe von 1,2 Prozent und durch die Arbeitnehmer in Höhe von 0,8 Prozent aufgebracht; der Arbeitgeber hat den gesamten Umlagebetrag abzuführen,
+3. nach Absatz 1 Nr. 3 anteilig durch die Arbeitgeber in Höhe von 1 Prozent und durch die Arbeitnehmer in Höhe von 0,6 Prozent aufgebracht; der Arbeitgeber hat den gesamten Umlagebetrag abzuführen,
 
 4. nach Absatz 1 Nr. 4 anteilig durch die Arbeitgeber in Höhe von 1,05 Prozent und durch die Arbeitnehmer in Höhe von 0,8 Prozent aufgebracht; der Arbeitgeber hat den gesamten Umlagebetrag abzuführen.
 

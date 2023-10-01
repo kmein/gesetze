@@ -2887,7 +2887,7 @@ hinzuzuziehen.
 
 # § 282 – Vorhandene Gutachten zur Feststellung der Pflegebedürftigkeit
 
-(1) Das Gericht kann im Verfahren zur Bestellung eines Betreuers von der Einholung eines Gutachtens (§ 280 Absatz 1) absehen, soweit es durch die Verwendung eines bestehenden ärztlichen Gutachtens zur Feststellung der Pflegebedürftigkeit nach § 18 des Elften Buches Sozialgesetzbuch feststellen kann, inwieweit bei dem Betroffenen infolge einer Krankheit oder einer Behinderung die Voraussetzungen für die Bestellung eines Betreuers vorliegen.
+(1) Das Gericht kann im Verfahren zur Bestellung eines Betreuers von der Einholung eines Gutachtens (§ 280 Absatz 1) absehen, soweit es durch die Verwendung eines bestehenden ärztlichen Gutachtens zur Feststellung der Pflegebedürftigkeit nach § 18b des Elften Buches Sozialgesetzbuch feststellen kann, inwieweit bei dem Betroffenen infolge einer Krankheit oder einer Behinderung die Voraussetzungen für die Bestellung eines Betreuers vorliegen.
 
 (2) Das Gericht darf dieses Gutachten einschließlich dazu vorhandener Befunde zur Vermeidung weiterer Gutachten bei der Pflegekasse anfordern. Das Gericht hat in seiner Anforderung anzugeben, für welchen Zweck das Gutachten und die Befunde verwandt werden sollen. Das Gericht hat übermittelte Daten unverzüglich zu löschen, wenn es feststellt, dass diese für den Verwendungszweck nicht geeignet sind.
 

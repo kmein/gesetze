@@ -7,9 +7,11 @@ Auf Grund des § 8 des Diätassistentengesetzes vom 8. März 1994 (BGBl. I S. 44
 
 # § 1 – Ausbildung
 
-(1) Die dreijährige Ausbildung für Diätassistentinnen und Diätassistenten umfaßt den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 3.050 Stunden sowie die dort aufgeführte praktische Ausbildung von 1.400 Stunden. Für Umschüler nach § 12 des Gesetzes sind die Stundenzahlen entsprechend zu verringern, wobei sich der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
+(1) Die dreijährige Ausbildung für Diätassistentinnen und Diätassistenten umfaßt den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 3 050 Stunden sowie die dort aufgeführte praktische Ausbildung von 1 400 Stunden. Für Umschüler nach § 12 des Gesetzes sind die Stundenzahlen entsprechend zu verringern, wobei sich der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
 
 (2) Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben.
+
+(2a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
 
 (3) Die Ausbildung nach Absatz 1 Satz 1 umfaßt innerhalb der praktischen Ausbildung eine praktische Unterweisung in Krankenhäusern gemäß Anlage 1 Teil B. Während dieser Zeit sind die Schüler mit den dort notwendigen Arbeitsabläufen vertraut zu machen und in solchen Verrichtungen und Fertigkeiten der Krankenpflege und der Ernährungsmedizin praktisch zu unterweisen, die für ihre Berufstätigkeit von Bedeutung sind.
 
@@ -69,10 +71,10 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 Der Prüfling hat in beiden Fachgruppen in jeweils einer Aufsichtsarbeit schriftlich gestellte Fragen zu beantworten. Die Aufsichtsarbeit in der Fächergruppe 1 dauert 180 Minuten, in der Fächergruppe 2 150 Minuten. Der schriftliche Teil der Prüfung ist an zwei Tagen durchzuführen. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 
-(2) Die Aufgaben für die Aufsichtsarbeiten werden vom Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote für die einzelne Aufsichtsarbeit. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der beiden Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
+(2) Die Aufgaben für die Aufsichtsarbeiten werden vom Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Prüfungsnote für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der beiden Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 (3) Bei der Bildung der Prüfungsnote für den schriftlichen Teil der Prüfung sind die Noten der beiden Aufsichtsarbeiten wie folgt zu gewichten:  
-die Note der Aufsichtsarbeit in der Fächergruppe 1 mit dem Faktor 1, die Note der Aufsichtsarbeit in der Fächergruppe 2 mit dem Faktor 2. Die Summe der gewichteten Noten wird durch die Summe der Faktoren geteilt.
+die Note der Aufsichtsarbeit in der Fächergruppe 1 mit dem Faktor 1, die Note der Aufsichtsarbeit in der Fächergruppe 2 mit dem Faktor 2. Die Summe der gewichteten Noten wird durch die Summe der Faktoren geteilt. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen.
 
 # § 6 – Mündlicher Teil der Prüfung
 
@@ -90,7 +92,7 @@ die Note der Aufsichtsarbeit in der Fächergruppe 1 mit dem Faktor 1, die Note d
 
 Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In Fach 1 soll der Prüfling nicht länger als zwanzig Minuten, in den Fächern 2 bis 5 nicht länger als zehn Minuten geprüft werden.
 
-(2) Jedes Fach wird von mindestens einem Fachprüfer abgenommen und benotet. Der Vorsitzende ist berechtigt, sich in allen Fächern an der Prüfung zu beteiligen; er kann auch selbst prüfen. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote für den mündlichen Teil der Prüfung. Der mündliche Teil der Prüfung ist bestanden, wenn die Gesamtnote sowie die Noten der Fächer 1 bis 3 mindestens "ausreichend" betragen und von den Fächern 4 und 5 höchstens ein Fach nicht schlechter als "mangelhaft" benotet wird.
+(2) Jedes Fach wird von zwei Fachprüfern abgenommen und benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn die Gesamtnote sowie die Noten der Fächer 1 bis 3 mindestens "ausreichend" betragen und von den Fächern 4 und 5 höchstens ein Fach nicht schlechter als "mangelhaft" benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
@@ -114,7 +116,7 @@ Dem Prüfling können ergänzende Fragen gestellt werden.
 
 (2) Der praktische Teil der Prüfung ist abzubrechen, wenn das Fach Diätetik schlechter als "ausreichend" benotet wird.
 
-(3) Der praktische Teil der Prüfung wird in jedem einzelnen Fach von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
+(3) Der praktische Teil der Prüfung wird in jedem einzelnen Fach von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 
 (4) Der praktische Teil der Prüfung kann auf zwei Tage verteilt werden.
 
@@ -122,27 +124,18 @@ Dem Prüfling können ergänzende Fragen gestellt werden.
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-# § 9 – Benotung
+# § 9 – Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
-\-  
-"sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,
-
-\-  
-"gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-
-\-  
-"befriedigend" (3), wenn die Leistung im allgemeinen den Anforderungen entspricht,
-
-\-  
-"ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im ganzen den Anforderungen noch entspricht,
-
-\-  
-"mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,
-
-\-  
-"ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 19%" /><col style="width: 19%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Berechneter Zahlenwert</th><th style="text-align: center;">Note in Worten<br />
+(Zahlenwert)</th><th>Notendefinition</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1,00 bis 1,49</td><td style="text-align: center;">sehr gut<br />
+(1)</td><td>eine Leistung, die den Anforderungen in besonderem Maß entspricht</td></tr><tr class="even"><td style="text-align: center;">1,50 bis 2,49</td><td style="text-align: center;">gut<br />
+(2)</td><td>eine Leistung, die den Anforderungen voll entspricht</td></tr><tr class="odd"><td style="text-align: center;">2,50 bis 3,49</td><td style="text-align: center;">befriedigend<br />
+(3)</td><td>eine Leistung, die im Allgemeinen den Anforderungen entspricht</td></tr><tr class="even"><td style="text-align: center;">3,50 bis 4,49</td><td style="text-align: center;">ausreichend<br />
+(4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: center;">4,50 bis 5,49</td><td style="text-align: center;">mangelhaft<br />
+(5)</td><td>eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können</td></tr><tr class="even"><td style="text-align: center;">5,50 bis 6,00</td><td style="text-align: center;">ungenügend<br />
+(6)</td><td>eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können</td></tr></tbody></table>
 
 # § 10 – Bestehen und Wiederholung der Prüfung
 
@@ -198,9 +191,9 @@ Liegen die Voraussetzungen nach § 2 des Diätassistentengesetzes für die Ertei
 
 (2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 4 Satz 2 und 3 des Diätassistentengesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An der theoretischen Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden kann. Die Ableistung des Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der Anlage 4a nachzuweisen.
 
-(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling am Beispiel eines diätetisch zu behandelnden Patienten einen Ernährungsplan mit Mahlzeitenfolge für einen Tag aufzustellen, die aufgestellte Mahlzeitenfolge herzustellen, anzurichten und das Herstellungsverfahren zu erläutern. Darüber hinaus hat er in einem Beratungsgespräch die Auswahl der von ihm bestimmten Speisen zu begründen, ihre Zusammensetzung, die Mengen sowie den Nährwert zu erläutern und küchentechnische Hinweise zu geben. Die Eignungsprüfung soll an einem Tag durchgeführt werden. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling am Beispiel eines diätetisch zu behandelnden Patienten einen Ernährungsplan mit Mahlzeitenfolge für einen Tag aufzustellen, die aufgestellte Mahlzeitenfolge herzustellen, anzurichten und das Herstellungsverfahren zu erläutern. Darüber hinaus hat er in einem Beratungsgespräch die Auswahl der von ihm bestimmten Speisen zu begründen, ihre Zusammensetzung, die Mengen sowie den Nährwert zu erläutern und küchentechnische Hinweise zu geben. Die Eignungsprüfung soll an einem Tag durchgeführt werden. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
 
-(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 8a Absatz 3 Satz 6 des Diätassistentengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 11 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
+(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 8a Absatz 3 Satz 6 des Diätassistentengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
 # § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
@@ -222,9 +215,9 @@ Liegen die Voraussetzungen nach § 2 des Diätassistentengesetzes für die Ertei
 
 5. Diät- und Ernährungsberatung.
 
-Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen.
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu.
 
-(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 9 entsprechend.
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 11 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf in jedem Prüfungsteil, das nicht bestanden wurde, einmal wiederholt werden.
 

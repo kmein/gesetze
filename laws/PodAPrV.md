@@ -11,6 +11,8 @@ Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I S. 3320) 
 
 (2) Im Unterricht muss den Schülerinnen und Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben. Die praktische Ausbildung findet an Patientinnen und Patienten statt.
 
+(2a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
 (3) Die regelmäßige und erfolgreiche Teilnahme an den Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung nach dem Muster der Anlage 2 nachzuweisen.
 
 # § 2 – Staatliche Prüfung, staatliche Ergänzungsprüfung
@@ -73,7 +75,7 @@ Als Fachprüferinnen oder Fachprüfer sollen die Lehrkräfte bestellt werden, di
 
 Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit schriftlich gestellte Fragen zu beantworten. Die Aufsichtsarbeit in der Fächergruppe 1 dauert 60 Minuten; die Aufsichtsarbeiten in den Fächergruppen 2 und 3 dauern jeweils 90 Minuten. Der schriftliche Teil der Prüfung ist an zwei Tagen durchzuführen. Die Aufsichtführenden werden von der Schulleitung bestellt.
 
-(2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
+(2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder Fachprüfern zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Aufsichtsarbeiten unter Berücksichtigung ihres zeitlichen Umfangs. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 # § 6 – Mündlicher Teil der Prüfung
 
@@ -89,7 +91,7 @@ Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit sc
 
 Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfung soll für den einzelnen Prüfling in den Fächern Nummer 1 und 2 jeweils nicht länger als 15 Minuten, in den Fächern Nummer 3 und 4 jeweils nicht länger als 10 Minuten dauern.
 
-(2) Die Prüfung in jedem Fach wird von mindestens einer Fachprüferin oder einem Fachprüfer abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich in allen Fächern an der Prüfung zu beteiligen; sie oder er kann auch selbst prüfen. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für den mündlichen Teil der Prüfung. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
+(2) Die Prüfung in jedem Fach wird von zwei Fachprüferinnen oder Fachprüfern abgenommen und benotet. Die oder der Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für jedes einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 
 (3) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
@@ -103,33 +105,24 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfun
 
 (2) Die Auswahl und die Zuweisung der Patientinnen oder Patienten erfolgt durch eine Fachprüferin oder einen Fachprüfer nach § 3 Abs. 1 Nr. 3 im Einvernehmen mit der Patientin oder dem Patienten und dem für die Patientin oder den Patienten verantwortlichen Fachpersonal. Die Prüfung soll für den einzelnen Prüfling im Fach 1 nicht länger als 120 Minuten, im Fach 2 nicht länger als 180 Minuten dauern.
 
-(3) Der praktische Teil der Prüfung wird in jedem Fach von mindestens zwei Fachprüferinnen oder Fachprüfern, darunter mindestens einer Fachprüferin oder einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mit mindestens "ausreichend" benotet wird.
+(3) Der praktische Teil der Prüfung wird in jedem Fach von zwei Fachprüferinnen oder Fachprüfern, darunter mindestens einer Fachprüferin oder einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b, abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, an der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mit mindestens "ausreichend" benotet wird.
 
 # § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-# § 9 – Benotung
+# § 9 – Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
-\-  
-"sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,
-
-\-  
-"gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-
-\-  
-"befriedigend" (3), wenn die Leistung im Allgemeinen den Anforderungen entspricht,
-
-\-  
-"ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht,
-
-\-  
-"mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,
-
-\-  
-"ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 19%" /><col style="width: 19%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Berechneter Zahlenwert</th><th style="text-align: center;">Note in Worten<br />
+(Zahlenwert)</th><th>Notendefinition</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1,00 bis 1,49</td><td style="text-align: center;">sehr gut<br />
+(1)</td><td>eine Leistung, die den Anforderungen in besonderem Maß entspricht</td></tr><tr class="even"><td style="text-align: center;">1,50 bis 2,49</td><td style="text-align: center;">gut<br />
+(2)</td><td>eine Leistung, die den Anforderungen voll entspricht</td></tr><tr class="odd"><td style="text-align: center;">2,50 bis 3,49</td><td style="text-align: center;">befriedigend<br />
+(3)</td><td>eine Leistung, die im Allgemeinen den Anforderungen entspricht</td></tr><tr class="even"><td style="text-align: center;">3,50 bis 4,49</td><td style="text-align: center;">ausreichend<br />
+(4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: center;">4,50 bis 5,49</td><td style="text-align: center;">mangelhaft<br />
+(5)</td><td>eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können</td></tr><tr class="even"><td style="text-align: center;">5,50 bis 6,00</td><td style="text-align: center;">ungenügend<br />
+(6)</td><td>eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können</td></tr></tbody></table>
 
 # § 10 – Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
 
@@ -187,9 +180,9 @@ Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes für die E
 
 (2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 4 Satz 2 oder Satz 5 des Podologengesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An der theoretischen Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden kann. Die Ableistung des Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der Anlage 5a nachzuweisen.
 
-(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling unter Aufsicht an einem Patienten nach vorheriger Befunderhebung eine podologische Behandlung durchzuführen. Dabei hat er sein Handeln zu erläutern und zu begründen sowie nachzuweisen, dass er seine Kenntnisse und Fertigkeiten am Patienten umsetzen kann. Die Behandlung kann je nach den von der zuständigen Behörde festgestellten wesentlichen Unterschieden die Durchführung einer Nagelkorrekturmaßnahme oder einer orthotischen Korrekturmaßnahme umfassen. Die Auswahl des Patienten hat sich hieran zu orientieren. Die Eignungsprüfung soll höchstens 90 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 5b erteilt.
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling unter Aufsicht an einem Patienten nach vorheriger Befunderhebung eine podologische Behandlung durchzuführen. Dabei hat er sein Handeln zu erläutern und zu begründen sowie nachzuweisen, dass er seine Kenntnisse und Fertigkeiten am Patienten umsetzen kann. Die Behandlung kann je nach den von der zuständigen Behörde festgestellten wesentlichen Unterschieden die Durchführung einer Nagelkorrekturmaßnahme oder einer orthotischen Korrekturmaßnahme umfassen. Die Auswahl des Patienten hat sich hieran zu orientieren. Die Eignungsprüfung soll höchstens 90 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck an der Prüfung teilnehmen; ihr oder ihm steht ein Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 5b erteilt.
 
-(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 7a Absatz 3 Satz 6 des Podologengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 13 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
+(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 7a Absatz 3 Satz 6 des Podologengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 14 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
 # § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
@@ -209,9 +202,9 @@ Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes für die E
 
 4. Podologische Materialien und Hilfsmittel.
 
-Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 45 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Satz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen.
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 45 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Satz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck an der Prüfung teilnehmen; ihr oder ihm steht ein Fragerecht zu.
 
-(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 12 entsprechend.
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 13 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf in jedem Prüfungsteil, das nicht bestanden wurde, einmal wiederholt werden.
 

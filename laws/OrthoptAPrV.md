@@ -7,7 +7,9 @@ Auf Grund des § 8 des Orthoptistengesetzes vom 28. November 1989 (BGBl. I S. 20
 
 # § 1 – Ausbildung
 
-Die dreijährige Ausbildung für Orthoptistinnen und Orthoptisten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die in Anlage 2 aufgeführte praktische Ausbildung.
+(1) Die dreijährige Ausbildung für Orthoptistinnen und Orthoptisten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die in Anlage 2 aufgeführte praktische Ausbildung.
+
+(2) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
 
 # § 2 – Staatliche Prüfung
 
@@ -63,18 +65,9 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich gestellte Fragen zu beantworten. Die Aufsichtsarbeiten dauern jeweils 180 Minuten. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 
-(2) Aus den Vorschlägen der Schulleitung bestimmt der Vorsitzende des Prüfungsausschusses die Aufgaben für die Aufsichtsarbeiten. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote für den schriftlichen Teil der Prüfung.
+(2) Aus den Vorschlägen der Schulleitung bestimmt der Vorsitzende des Prüfungsausschusses die Aufgaben für die Aufsichtsarbeiten. Jede Aufsichtsarbeit ist von zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jede Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den schriftlichen Teil der Prüfung. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede Aufsichtsarbeit mindestens mit „ausreichend“ benotet wird.
 
-(3) Bei der Bildung der Prüfungsnote für den schriftlichen Teil der Prüfung wird die Summe der Noten aus den in Absatz 1 genannten Fächern halbiert. Dabei lautet die Gesamtnote  
-
-|                    |                                      |
-|:-------------------|:-------------------------------------|
-| "sehr gut" (1)     | bei Werten bis unter 1,5,            |
-| "gut" (2)          | bei Werten von 1,5 bis unter 2,5,    |
-| "befriedigend" (3) | bei Werten von 2,5 bis unter 3,5,    |
-| "ausreichend" (4)  | bei Werten von 3,5 bis 4,0,          |
-| "mangelhaft" (5)   | bei Werten von mehr als 4,0 bis 5,0, |
-| "ungenügend" (6)   | bei Werten von über 5,0.             |
+(3) Bei der Bildung der Prüfungsnote für den schriftlichen Teil der Prüfung wird die Summe der Noten aus den in Absatz 1 genannten Fächern halbiert. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen.
 
 # § 6 – Mündlicher Teil der Prüfung
 
@@ -98,7 +91,7 @@ Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich ge
 
 Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einzelnen Fächern soll der Prüfling nicht länger als zehn Minuten geprüft werden.
 
-(2) Die Prüfung wird von mindestens zwei Fachprüfern abgenommen und benotet. Der Vorsitzende ist berechtigt, sich in allen Fächern an der Prüfung zu beteiligen; er kann auch selbst prüfen. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote für den mündlichen Teil der Prüfung.
+(2) Die Prüfung wird von zwei Fachprüfern abgenommen und benotet. Der Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jedes Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
@@ -114,15 +107,18 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einz
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-# § 9 – Benotung
+# § 9 – Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und der praktischen Prüfung werden wie folgt benotet:  
-"sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,  
-"gut" (2), wenn die Leistung den Anforderungen voll entspricht,  
-"befriedigend" (3), wenn die Leistung im allgemeinen den Anforderungen entspricht,  
-"ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im ganzen den Anforderungen noch entspricht,  
-"mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,  
-"ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 19%" /><col style="width: 19%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Berechneter Zahlenwert</th><th style="text-align: center;">Note in Worten<br />
+(Zahlenwert)</th><th>Notendefinition</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1,00 bis 1,49</td><td style="text-align: center;">sehr gut<br />
+(1)</td><td>eine Leistung, die den Anforderungen in besonderem Maß entspricht</td></tr><tr class="even"><td style="text-align: center;">1,50 bis 2,49</td><td style="text-align: center;">gut<br />
+(2)</td><td>eine Leistung, die den Anforderungen voll entspricht</td></tr><tr class="odd"><td style="text-align: center;">2,50 bis 3,49</td><td style="text-align: center;">befriedigend<br />
+(3)</td><td>eine Leistung, die im Allgemeinen den Anforderungen entspricht</td></tr><tr class="even"><td style="text-align: center;">3,50 bis 4,49</td><td style="text-align: center;">ausreichend<br />
+(4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: center;">4,50 bis 5,49</td><td style="text-align: center;">mangelhaft<br />
+(5)</td><td>eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können</td></tr><tr class="even"><td style="text-align: center;">5,50 bis 6,00</td><td style="text-align: center;">ungenügend<br />
+(6)</td><td>eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können</td></tr></tbody></table>
 
 # § 10 – Bestehen und Wiederholung der Prüfung
 
@@ -182,9 +178,9 @@ Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages genannten Gebie
 
 (2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 4 Satz 2 des Orthoptistengesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An der theoretischen Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden kann. Die Ableistung des Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der Anlage 4a nachzuweisen.
 
-(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling unter Aufsicht einen ihm unbekannten Patienten mit zuvor von der zuständigen Behörde festgelegtem Krankheitsbild zu untersuchen und dabei seine Kenntnisse in der Anwendung orthoptischer und pleoptischer Geräte nachzuweisen. Der Untersuchungsablauf, das Untersuchungsergebnis und der Behandlungsvorschlag sind mündlich darzulegen. Die zuständige Behörde hat bei der Auswahl des Krankheitsbildes die festgestellten wesentlichen Unterschiede zu berücksichtigen. Die Eignungsprüfung soll höchstens 90 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden und darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling unter Aufsicht einen ihm unbekannten Patienten mit zuvor von der zuständigen Behörde festgelegtem Krankheitsbild zu untersuchen und dabei seine Kenntnisse in der Anwendung orthoptischer und pleoptischer Geräte nachzuweisen. Der Untersuchungsablauf, das Untersuchungsergebnis und der Behandlungsvorschlag sind mündlich darzulegen. Die zuständige Behörde hat bei der Auswahl des Krankheitsbildes die festgestellten wesentlichen Unterschiede zu berücksichtigen. Die Eignungsprüfung soll höchstens 90 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Prüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden und darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
 
-(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 8a Absatz 3 Satz 6 des Orthoptistengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
+(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 8a Absatz 3 Satz 6 des Orthoptistengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 13 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
 # § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
@@ -204,9 +200,9 @@ Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages genannten Gebie
 
 4. Berufs- und Gesetzeskunde.
 
-Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen.
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu.
 
-(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 11 entsprechend.
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 12 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf in jedem Prüfungsteil, das nicht bestanden wurde, einmal wiederholt werden.
 

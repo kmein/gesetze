@@ -4303,23 +4303,23 @@ a) in den Fällen der §§ 234a und 241a, wenn die Tat sich gegen eine Person ri
 
 b) in den Fällen des § 235 Absatz 2 Nummer 2, wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat, und
 
-c) in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
+c) in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
 
 7. Verletzung von Betriebs- oder Geschäftsgeheimnissen eines im räumlichen Geltungsbereich dieses Gesetzes liegenden Betriebs, eines Unternehmens, das dort seinen Sitz hat, oder eines Unternehmens mit Sitz im Ausland, das von einem Unternehmen mit Sitz im räumlichen Geltungsbereich dieses Gesetzes abhängig ist und mit diesem einen Konzern bildet;
 
-8. Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174 Absatz 1, 2 und 4, der §§ 176 bis 178 und des § 182, wenn der Täter zur Zeit der Tat Deutscher ist;
+8. Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174 Absatz 1, 2 und 4, der §§ 176 bis 178 und des § 182, wenn der Täter zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland hat;
 
 9. Straftaten gegen das Leben
 
-a) in den Fällen des § 218 Absatz 2 Satz 2 Nummer 1 und Absatz 4 Satz 1, wenn der Täter zur Zeit der Tat Deutscher ist, und
+a) in den Fällen des § 218 Absatz 2 Satz 2 Nummer 1 und Absatz 4 Satz 1, wenn der Täter zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland hat, und
 
 b) in den übrigen Fällen des § 218, wenn der Täter zur Zeit der Tat Deutscher ist und seine Lebensgrundlage im Inland hat;
 
 9a. Straftaten gegen die körperliche Unversehrtheit
 
-a) in den Fällen des § 226 Absatz 1 Nummer 1 in Verbindung mit Absatz 2 bei Verlust der Fortpflanzungsfähigkeit, wenn der Täter zur Zeit der Tat Deutscher ist, und
+a) in den Fällen des § 226 Absatz 1 Nummer 1 in Verbindung mit Absatz 2 bei Verlust der Fortpflanzungsfähigkeit, wenn der Täter zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland hat, und
 
-b) in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher ist oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
+b) in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
 
 10. falsche uneidliche Aussage, Meineid und falsche Versicherung an Eides Statt (§§ 153 bis 156) in einem Verfahren, das im räumlichen Geltungsbereich dieses Gesetzes bei einem Gericht oder einer anderen deutschen Stelle anhängig ist, die zur Abnahme von Eiden oder eidesstattlichen Versicherungen zuständig ist;
 
@@ -4641,7 +4641,7 @@ Freiheitsstrafe unter einem Jahr wird nach vollen Wochen und Monaten, Freiheitss
 
 (1) Die Geldstrafe wird in Tagessätzen verhängt. Sie beträgt mindestens fünf und, wenn das Gesetz nichts anderes bestimmt, höchstens dreihundertsechzig volle Tagessätze.
 
-(2) Die Höhe eines Tagessatzes bestimmt das Gericht unter Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters. Dabei geht es in der Regel von dem Nettoeinkommen aus, das der Täter durchschnittlich an einem Tag hat oder haben könnte. Ein Tagessatz wird auf mindestens einen und höchstens dreißigtausend Euro festgesetzt.
+(2) Die Höhe eines Tagessatzes bestimmt das Gericht unter Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters. Dabei geht es in der Regel von dem Nettoeinkommen aus, das der Täter durchschnittlich an einem Tag hat oder haben könnte. Es achtet dabei ferner darauf, dass dem Täter mindestens das zum Leben unerlässliche Minimum seines Einkommens verbleibt. Ein Tagessatz wird auf mindestens einen und höchstens dreißigtausend Euro festgesetzt.
 
 (3) Die Einkünfte des Täters, sein Vermögen und andere Grundlagen für die Bemessung eines Tagessatzes können geschätzt werden.
 
@@ -4706,7 +4706,7 @@ An die Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe. Einem Tag
 (2) Bei der Zumessung wägt das Gericht die Umstände, die für und gegen den Täter sprechen, gegeneinander ab. Dabei kommen namentlich in Betracht:
 
   
-die Beweggründe und die Ziele des Täters, besonders auch rassistische, fremdenfeindliche, antisemitische oder sonstige menschenverachtende,
+die Beweggründe und die Ziele des Täters, besonders auch rassistische, fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die sexuelle Orientierung gerichtete oder sonstige menschenverachtende,
 
 die Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille,
 
@@ -4872,9 +4872,11 @@ Eine Auflage nach Satz 1 Nr. 2 bis 4 soll das Gericht nur erteilen, soweit die E
 
 3. zu der verletzten Person oder bestimmten Personen oder Personen einer bestimmten Gruppe, die ihm Gelegenheit oder Anreiz zu weiteren Straftaten bieten können, keinen Kontakt aufzunehmen, mit ihnen nicht zu verkehren, sie nicht zu beschäftigen, auszubilden oder zu beherbergen,
 
-4. bestimmte Gegenstände, die ihm Gelegenheit oder Anreiz zu weiteren Straftaten bieten können, nicht zu besitzen, bei sich zu führen oder verwahren zu lassen oder
+4. bestimmte Gegenstände, die ihm Gelegenheit oder Anreiz zu weiteren Straftaten bieten können, nicht zu besitzen, bei sich zu führen oder verwahren zu lassen,
 
-5. Unterhaltspflichten nachzukommen.
+5. Unterhaltspflichten nachzukommen oder
+
+6. sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen (Therapieweisung).
 
 (3) Die Weisung,
 
@@ -5014,13 +5016,15 @@ Ist auf lebenslange Freiheitsstrafe als Gesamtstrafe erkannt, so werden bei der 
 
 3. einen Geldbetrag zugunsten einer gemeinnützigen Einrichtung oder der Staatskasse zu zahlen,
 
-4. sich einer ambulanten Heilbehandlung oder einer ambulanten Entziehungskur zu unterziehen,
+4. sonst gemeinnützige Leistungen zu erbringen,
 
-5. an einem sozialen Trainingskurs teilzunehmen oder
+5. sich einer ambulanten Heilbehandlung oder einer ambulanten Entziehungskur zu unterziehen, einschließlich sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen (Therapieweisung),
 
-6. an einem Verkehrsunterricht teilzunehmen.
+6. an einem sozialen Trainingskurs teilzunehmen oder
 
-Dabei dürfen an die Lebensführung des Verwarnten keine unzumutbaren Anforderungen gestellt werden; auch dürfen die Auflagen und Weisungen nach Satz 1 Nummer 3 bis 6 zur Bedeutung der vom Täter begangenen Tat nicht außer Verhältnis stehen. § 56c Abs. 3 und 4 und § 56e gelten entsprechend.
+7. an einem Verkehrsunterricht teilzunehmen.
+
+Das Gericht kann dem Verwarnten weitere Weisungen erteilen, wenn er dieser Hilfe bedarf, um keine Straftaten mehr zu begehen. An die Lebensführung des Verwarnten dürfen bei Auflagen und Weisungen keine unzumutbaren Anforderungen gestellt werden; auch dürfen die Auflagen und Weisungen nach Satz 1 Nummer 3 bis 7 und Satz 2 zur Bedeutung der vom Täter begangenen Tat nicht außer Verhältnis stehen. § 56c Abs. 3 und 4 und § 56e gelten entsprechend.
 
 # § 59b – Verurteilung zu der vorbehaltenen Strafe
 
@@ -5064,7 +5068,7 @@ Hat jemand eine rechtswidrige Tat im Zustand der Schuldunfähigkeit (§ 20) oder
 
 # § 64 – Unterbringung in einer Entziehungsanstalt
 
-Hat eine Person den Hang, alkoholische Getränke oder andere berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen einer rechtswidrigen Tat, die sie im Rausch begangen hat oder die auf ihren Hang zurückgeht, verurteilt oder nur deshalb nicht verurteilt, weil ihre Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so soll das Gericht die Unterbringung in einer Entziehungsanstalt anordnen, wenn die Gefahr besteht, dass sie infolge ihres Hanges erhebliche rechtswidrige Taten begehen wird. Die Anordnung ergeht nur, wenn eine hinreichend konkrete Aussicht besteht, die Person durch die Behandlung in einer Entziehungsanstalt innerhalb der Frist nach § 67d Absatz 1 Satz 1 oder 3 zu heilen oder über eine erhebliche Zeit vor dem Rückfall in den Hang zu bewahren und von der Begehung erheblicher rechtswidriger Taten abzuhalten, die auf ihren Hang zurückgehen.
+Hat eine Person den Hang, alkoholische Getränke oder andere berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen einer rechtswidrigen Tat, die überwiegend auf ihren Hang zurückgeht, verurteilt oder nur deshalb nicht verurteilt, weil ihre Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so soll das Gericht die Unterbringung in einer Entziehungsanstalt anordnen, wenn die Gefahr besteht, dass sie infolge ihres Hanges erhebliche rechtswidrige Taten begehen wird; der Hang erfordert eine Substanzkonsumstörung, infolge derer eine dauernde und schwerwiegende Beeinträchtigung der Lebensgestaltung, der Gesundheit, der Arbeits- oder der Leistungsfähigkeit eingetreten ist und fortdauert. Die Anordnung ergeht nur, wenn aufgrund tatsächlicher Anhaltspunkte zu erwarten ist, die Person durch die Behandlung in einer Entziehungsanstalt innerhalb der Frist nach § 67d Absatz 1 Satz 1 oder 3 zu heilen oder über eine erhebliche Zeit vor dem Rückfall in den Hang zu bewahren und von der Begehung erheblicher rechtswidriger Taten abzuhalten, die auf ihren Hang zurückgehen.
 
 # § 65 – (weggefallen)
 
@@ -5160,13 +5164,13 @@ b) in enger Zusammenarbeit mit staatlichen oder freien Trägern eine nachsorgend
 
 (1) Wird die Unterbringung in einer Anstalt nach den §§ 63 und 64 neben einer Freiheitsstrafe angeordnet, so wird die Maßregel vor der Strafe vollzogen.
 
-(2) Das Gericht bestimmt jedoch, daß die Strafe oder ein Teil der Strafe vor der Maßregel zu vollziehen ist, wenn der Zweck der Maßregel dadurch leichter erreicht wird. Bei Anordnung der Unterbringung in einer Entziehungsanstalt neben einer zeitigen Freiheitsstrafe von über drei Jahren soll das Gericht bestimmen, dass ein Teil der Strafe vor der Maßregel zu vollziehen ist. Dieser Teil der Strafe ist so zu bemessen, dass nach seiner Vollziehung und einer anschließenden Unterbringung eine Entscheidung nach Absatz 5 Satz 1 möglich ist. Das Gericht soll ferner bestimmen, dass die Strafe vor der Maßregel zu vollziehen ist, wenn die verurteilte Person vollziehbar zur Ausreise verpflichtet und zu erwarten ist, dass ihr Aufenthalt im räumlichen Geltungsbereich dieses Gesetzes während oder unmittelbar nach Verbüßung der Strafe beendet wird.
+(2) Das Gericht bestimmt jedoch, daß die Strafe oder ein Teil der Strafe vor der Maßregel zu vollziehen ist, wenn der Zweck der Maßregel dadurch leichter erreicht wird. Bei Anordnung der Unterbringung in einer Entziehungsanstalt neben einer zeitigen Freiheitsstrafe von über drei Jahren soll das Gericht bestimmen, dass ein Teil der Strafe vor der Maßregel zu vollziehen ist. Dieser Teil der Strafe ist in der Regel so zu bemessen, dass nach seiner Vollziehung und einer anschließenden Unterbringung eine Entscheidung nach Absatz 5 Satz 1 erster Halbsatz möglich ist. Das Gericht soll ferner bestimmen, dass die Strafe vor der Maßregel zu vollziehen ist, wenn die verurteilte Person vollziehbar zur Ausreise verpflichtet und zu erwarten ist, dass ihr Aufenthalt im räumlichen Geltungsbereich dieses Gesetzes während oder unmittelbar nach Verbüßung der Strafe beendet wird.
 
 (3) Das Gericht kann eine Anordnung nach Absatz 2 Satz 1 oder Satz 2 nachträglich treffen, ändern oder aufheben, wenn Umstände in der Person des Verurteilten es angezeigt erscheinen lassen. Eine Anordnung nach Absatz 2 Satz 4 kann das Gericht auch nachträglich treffen. Hat es eine Anordnung nach Absatz 2 Satz 4 getroffen, so hebt es diese auf, wenn eine Beendigung des Aufenthalts der verurteilten Person im räumlichen Geltungsbereich dieses Gesetzes während oder unmittelbar nach Verbüßung der Strafe nicht mehr zu erwarten ist.
 
 (4) Wird die Maßregel ganz oder zum Teil vor der Strafe vollzogen, so wird die Zeit des Vollzugs der Maßregel auf die Strafe angerechnet, bis zwei Drittel der Strafe erledigt sind.
 
-(5) Wird die Maßregel vor der Strafe oder vor einem Rest der Strafe vollzogen, so kann das Gericht die Vollstreckung des Strafrestes unter den Voraussetzungen des § 57 Abs. 1 Satz 1 Nr. 2 und 3 zur Bewährung aussetzen, wenn die Hälfte der Strafe erledigt ist. Wird der Strafrest nicht ausgesetzt, so wird der Vollzug der Maßregel fortgesetzt; das Gericht kann jedoch den Vollzug der Strafe anordnen, wenn Umstände in der Person des Verurteilten es angezeigt erscheinen lassen.
+(5) Wird die Maßregel vor der Strafe oder vor einem Rest der Strafe vollzogen, so setzt das Gericht die Vollstreckung des Strafrestes unter den Voraussetzungen des § 57 Absatz 1 Satz 1 Nummer 2 und 3 und Satz 2 zur Bewährung aus, wenn zwei Drittel der Strafe erledigt sind; das Gericht kann die Aussetzung auch schon nach Erledigung der Hälfte der Strafe bestimmen, wenn die Voraussetzungen des § 57 Absatz 2 entsprechend erfüllt sind. Wird der Strafrest nicht ausgesetzt, so wird der Vollzug der Maßregel fortgesetzt; das Gericht kann jedoch den Vollzug der Strafe anordnen, wenn Umstände in der Person des Verurteilten es angezeigt erscheinen lassen.
 
 (6) Das Gericht bestimmt, dass eine Anrechnung nach Absatz 4 auch auf eine verfahrensfremde Strafe erfolgt, wenn deren Vollzug für die verurteilte Person eine unbillige Härte wäre. Bei dieser Entscheidung sind insbesondere das Verhältnis der Dauer des bisherigen Freiheitsentzugs zur Dauer der verhängten Strafen, der erzielte Therapieerfolg und seine konkrete Gefährdung sowie das Verhalten der verurteilten Person im Vollstreckungsverfahren zu berücksichtigen. Die Anrechnung ist in der Regel ausgeschlossen, wenn die der verfahrensfremden Strafe zugrunde liegende Tat nach der Anordnung der Maßregel begangen worden ist. Absatz 5 Satz 2 gilt entsprechend.
 

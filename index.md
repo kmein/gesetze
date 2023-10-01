@@ -5686,9 +5686,7 @@
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestbedingungen FlWi 2](laws/TVMindestbedingungen_FlWi_2.md) Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021
-- [TVMindestlohn Gerüstb 7](laws/TVMindestlohn_Gerüstb_7.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021
 - [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
-- [TVMindestlohn Steinmetz 4](laws/TVMindestlohn_Steinmetz_4.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
 - [TVMindestlohn VFlughSiK 2](laws/TVMindestlohn_VFlughSiK_2.md) Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 28. März 2022
 - [TVMindestlohnDachd 11](laws/TVMindestlohnDachd_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. Juli 2021
 - [TVMindestlohnGebäude 2022](laws/TVMindestlohnGebäude_2022.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022
@@ -6711,7 +6709,6 @@
 - [4. DV LuftBO](laws/4._DV_LuftBO.md) Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)
 - [4. DV-BEG](laws/4._DV-BEG.md) Vierte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [4. RAG](laws/4._RAG.md) Viertes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1961
-- [4. SteinmetzArbbV](laws/4._SteinmetzArbbV.md) Vierte Verordnung über zwingende Arbeitsbedingungen im Steinmetz- und Steinbildhauerhandwerk
 - [41. BImSchV](laws/41._BImSchV.md) Einundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [42. BImSchV](laws/42._BImSchV.md) Zweiundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [43. BImSchV](laws/43._BImSchV.md) Dreiundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
@@ -6732,7 +6729,6 @@
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [7. BImSchV](laws/7._BImSchV.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [7. GerüstbauerArbbV](laws/7._GerüstbauerArbbV.md) Siebte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauer-Handwerk
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
 - [8. MARPOL-ÄndV](laws/8._MARPOL-ÄndV.md) Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen

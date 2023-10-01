@@ -3631,6 +3631,24 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 
 Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 35, die dem Anwendungsbereich des § 35 Absatz 1 Nummer 1 nicht oder nicht mehr unterfallen und deren Zulassungsentscheidung vor dem 20. September 2013 getroffen worden ist. Unbeschadet von Satz 1 und 2 bleibt die Möglichkeit, ein Vorhaben nach § 35 zuzulassen.
 
+(6) Soweit bei einer Zulassungsentscheidung über Anlagen zur Tierhaltung auf Grund von Absatz 4 § 35 Absatz 1 Nummer 4 in seiner bis zum Ablauf des 20. September 2013 geltenden Fassung anzuwenden war, ist die Änderung der danach errichteten baulichen Anlage zur Tierhaltung ebenfalls unter den Voraussetzungen des § 35 Absatz 1 Nummer 4 in seiner bis zum Ablauf des 20. September 2013 geltenden Fassung zulässig, wenn
+
+1. es sich ausschließlich um eine Änderung handelt, durch die eine vorhandene bauliche Anlage zur Tierhaltung auf eine bauliche Anlage zur Tierhaltung umgestellt wird, die den Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes vom 17. August 2023 (BGBl. 2023 I Nr. 220) in der jeweils geltenden Fassung genügt,
+
+2. die Tierart im Sinne der Nummern 7.1 bis 7.9 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung, die bis zur Änderung in der baulichen Anlage zur Tierhaltung gehalten wurde, nicht geändert wird, es sei denn, mit der Änderung erfolgt zugleich ein Wechsel in eine höhere Haltungsform im Sinne des § 4 Absatz 1 des Tierhaltungskennzeichnungsgesetzes und
+
+3. durch die Änderung die Grundfläche und die Höhe der baulichen Anlage zur Tierhaltung nur insoweit vergrößert wird, als dies unter Beibehaltung der vor dem Umbau zulässigen Höchsttierzahl zur Erfüllung der Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes erforderlich ist, wobei Flächen für einen Auslauf, der den Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes genügt, nicht in die Grundfläche einzurechnen sind.
+
+Bei einer Änderung der Tierart im Sinne von Satz 1 Nummer 2 bestimmt sich die zulässige Höchsttierzahl im Sinne von Satz 1 Nummer 3 durch die Umrechnung über Großvieheinheiten im Sinne des Anhangs A der technischen Regel VDI 3894 Blatt 1 Ausgabe September 2011, die bei der Beuth Verlag GmbH, Berlin, zu beziehen ist. Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 35, die dem Anwendungsbereich des § 35 Absatz 1 Nummer 1 nicht oder nicht mehr unterfallen und deren Zulassungsentscheidung vor dem 20. September 2013 getroffen worden ist. Satz 1 gilt entsprechend für den Rückbau einer vorhandenen baulichen Anlage zur Tierhaltung und die Errichtung eines gleichartigen Ersatzbaus, wenn
+
+1. hierdurch keine stärkere Belastung des Außenbereichs zu erwarten ist als im Fall der Änderung, insbesondere wenn auch die Bodenversiegelung durch die zurückzubauende Anlage beseitigt wird,
+
+2. der Standort des Ersatzbaus im räumlichen Zusammenhang mit dem Standort der zurückzubauenden Anlage steht und
+
+3. die Errichtung des Ersatzbaus mit nachbarlichen Interessen vereinbar ist.
+
+Für Änderungen an baulichen Anlagen zur Tierhaltung, auf deren Zulassungsentscheidung dieses Gesetz in seiner ab dem 20. September 2013 geltenden Fassung anzuwenden war, soll eine Befreiung nach § 31 Absatz 2 erteilt werden, wenn das Änderungsvorhaben die Voraussetzung von Satz 1 erfüllt. Satz 4 gilt entsprechend. Unbeschadet der Sätze 1 bis 5 bleibt die Möglichkeit, ein Vorhaben nach § 35 zuzulassen.
+
 # § 245b – Überleitungsvorschriften für Vorhaben im Außenbereich
 
 (1) (weggefallen)

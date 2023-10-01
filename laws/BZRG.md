@@ -209,7 +209,7 @@ Ist eine Freiheitsstrafe, ein Strafarrest, eine Jugendstrafe oder eine Maßregel
 
 # § 17 – Sonstige Entscheidungen und gerichtliche Feststellungen
 
-(1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der Unterbringung in einer Entziehungsanstalt nach § 35 - auch in Verbindung mit § 38 - des Betäubungsmittelgesetzes zurückgestellt, so ist dies in das Register einzutragen. Dabei ist zu vermerken, bis zu welchem Tag die Vollstreckung zurückgestellt worden ist. Wird nachträglich ein anderer Tag festgesetzt oder die Zurückstellung der Vollstreckung widerrufen, so ist auch dies mitzuteilen.
+(1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der Unterbringung in einer Entziehungsanstalt nach § 35 - auch in Verbindung mit § 38 - des Betäubungsmittelgesetzes zurückgestellt, so ist dies in das Register einzutragen. Dabei ist zu vermerken, bis zu welchem Tag die Vollstreckung zurückgestellt worden ist. Wird nachträglich ein anderer Tag festgesetzt oder die Zurückstellung der Vollstreckung widerrufen, so ist auch dies mitzuteilen. Wird die Vollstreckung der Strafe, des Strafrestes oder die Unterbringung in einer Entziehungsanstalt ohne Widerruf der Zurückstellung begonnen oder fortgesetzt, so ist dies im Register zu vermerken.
 
 (2) Wird auf Freiheitsstrafe von nicht mehr als zwei Jahren erkannt und hat das Gericht festgestellt, daß der Verurteilte die Tat auf Grund einer Betäubungsmittelabhängigkeit begangen hat, so ist diese Feststellung in das Register einzutragen; dies gilt auch bei einer Gesamtstrafe von nicht mehr als zwei Jahren, wenn der Verurteilte alle oder den ihrer Bedeutung nach überwiegenden Teil der abgeurteilten Straftaten auf Grund einer Betäubungsmittelabhängigkeit begangen hat.
 
