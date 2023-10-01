@@ -77,6 +77,8 @@ Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompet
 
 (3) Für die Praxiseinsätze des berufspraktischen Studienteils konkretisiert die Hochschule im Studiengangskonzept die jeweils zu vermittelnden Kompetenzen und verknüpft die Praxiseinsätze inhaltlich mit den theoretischen und praktischen Lehrveranstaltungen.
 
+(4) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption der theoretischen und praktischen Lehrveranstaltungen in einem angemessenen Umfang berücksichtigt werden.
+
 # § 3 – Inhalt des modularen Curriculums
 
 (1) Das modulare Curriculum wird von der Hochschule so erstellt, dass der studierenden Person die in Anlage 1 genannten Kompetenzen vermittelt werden.
@@ -227,7 +229,7 @@ Kooperiert die Hochschule nach § 75 des Hebammengesetzes mit einer Hebammenschu
 
 # § 17 – Teilnahme der Vorsitzenden des Prüfungsausschusses an der staatlichen Prüfung
 
-Die Vorsitzenden des Prüfungsausschusses sind verpflichtet, an den einzelnen Teilen der staatlichen Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist. Eine Verpflichtung zur Anwesenheit während der gesamten Dauer der staatlichen Prüfung besteht nicht.
+Die Vorsitzenden des Prüfungsausschusses haben das Recht, an den einzelnen Teilen der staatlichen Prüfung teilzunehmen; ihnen steht kein Fragerecht zu. Eine Verpflichtung zur Anwesenheit besteht nicht; § 46 Absatz 3 Satz 4, § 49 Absatz 3 Satz 4 und § 50 Absatz 7 Satz 4 bleiben unberührt.
 
 # § 18 – Zulassung zur staatlichen Prüfung
 
@@ -275,9 +277,9 @@ einschließlich 4,00</td><td style="text-align: center;">ausreichend<br />
 
 # § 22 – Bewertung des schriftlichen Teils der staatlichen Prüfung
 
-(1) Jede Klausur des schriftlichen Teils der staatlichen Prüfung ist von mindestens zwei Prüferinnen oder Prüfern zu benoten.
+(1) Jede Klausur des schriftlichen Teils der staatlichen Prüfung ist von zwei Prüferinnen oder Prüfern zu benoten.
 
-(2) Auf der Grundlage der Benotungen der Prüferinnen oder Prüfer legen die Vorsitzenden des Prüfungsausschusses im Benehmen mit den jeweiligen Prüferinnen oder Prüfern die Note der einzelnen Klausuren fest.
+(2) Auf der Grundlage der Benotungen der Prüferinnen oder Prüfer legen die Vorsitzenden des Prüfungsausschusses die Note der einzelnen Klausuren als das arithmetische Mittel der Noten der einzelnen Prüferinnen oder Prüfer fest. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 # § 23 – Bestehen und Note des schriftlichen Teils der staatlichen Prüfung
 
@@ -307,7 +309,7 @@ Im mündlichen Teil der staatlichen Prüfung werden Bezüge zum Kompetenzbereich
 
 # § 25 – Durchführung des mündlichen Teils der staatlichen Prüfung
 
-(1) Der mündliche Teil der staatlichen Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und selbst Prüfungsfragen zu stellen.
+(1) Der mündliche Teil der staatlichen Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen.
 
 (2) Die Vorsitzenden des Prüfungsausschusses können beim mündlichen Teil der staatlichen Prüfung die Anwesenheit von Zuhörerinnen und Zuhörern auf deren Antrag gestatten, wenn die betroffene studierende Person dem zustimmt und ein berechtigtes Interesse der Zuhörerinnen und Zuhörer besteht.
 
@@ -315,7 +317,7 @@ Im mündlichen Teil der staatlichen Prüfung werden Bezüge zum Kompetenzbereich
 
 (1) Der mündliche Teil der staatlichen Prüfung wird von den Prüferinnen oder Prüfern bewertet, die ihn abgenommen haben.
 
-(2) Aus den einzelnen Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern die Note des mündlichen Teils der staatlichen Prüfung.
+(2) Aus den einzelnen Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses die Note des mündlichen Teils der staatlichen Prüfung als das arithmetische Mittel der Noten der einzelnen Prüferinnen oder Prüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 # § 27 – Bestehen des mündlichen Teils der staatlichen Prüfung
 
@@ -379,15 +381,15 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 (1) Der praktische Teil der staatlichen Prüfung wird als Einzelprüfung durchgeführt.
 
-(2) Der praktische Teil der staatlichen Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs bis zu 360 Minuten dauern und kann durch eine organisatorische Pause von zwei Werktagen unterbrochen werden.
+(2) Der praktische Teil der staatlichen Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs bis zu 360 Minuten dauern und kann durch eine organisatorische Pause von bis zu fünf Werktagen unterbrochen werden.
 
-(3) Der praktische Teil der staatlichen Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen. Eine Prüferin oder ein Prüfer ist nach § 15 Absatz 1 Nummer 5 zur Abnahme der praktischen Prüfung geeignet.
+(3) Der praktische Teil der staatlichen Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen. Eine Prüferin oder ein Prüfer ist nach § 15 Absatz 1 Nummer 5 zur Abnahme der praktischen Prüfung geeignet.
 
 # § 32 – Bewertung des praktischen Teils der staatlichen Prüfung
 
 (1) Der jeweilige Prüfungsteil des praktischen Teils der staatlichen Prüfung wird von den Prüferinnen oder Prüfern bewertet, die ihn abgenommen haben.
 
-(2) Aus den Bewertungen der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note des jeweiligen Prüfungsteils des praktischen Teils der staatlichen Prüfung.
+(2) Aus den Bewertungen der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses die Note des jeweiligen Prüfungsteils des praktischen Teils der staatlichen Prüfung als das arithmetische Mittel der Noten der einzelnen Prüferinnen oder Prüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 # § 33 – Bestehen und Note des praktischen Teils der staatlichen Prüfung
 
@@ -553,7 +555,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (2) Die Eignungsprüfung soll für jede Betreuungssituation nicht länger als 120 Minuten dauern. Sie wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet. Während der Prüfung sind den Prüferinnen und Prüfern Nachfragen gestattet, die sich auf das praktische Vorgehen beziehen.
 
-(3) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen. Ist eine Betreuungssituation nicht bestanden worden, so darf sie einmal wiederholt werden.
+(3) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen. Die Vorsitzenden des Prüfungsausschusses müssen zu diesem Zweck während der Prüfung anwesend sein; ihnen steht ein Fragerecht zu. Ist eine Betreuungssituation nicht bestanden worden, so darf sie einmal wiederholt werden.
 
 (4) Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 
@@ -587,7 +589,7 @@ durchgeführt.
 
 (2) Der mündliche Teil der Prüfung soll mindestens 45 Minuten und nicht länger als 60 Minuten dauern. Er wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet.
 
-(3) Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer in einer Gesamtbetrachtung die erbrachte Leistung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern über das Bestehen.
+(3) Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer in einer Gesamtbetrachtung die erbrachte Leistung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern über das Bestehen. Die Vorsitzenden des Prüfungsausschusses müssen zu diesem Zweck während der Prüfung anwesend sein; ihnen steht ein Fragerecht zu.
 
 # § 50 – Praktischer Teil der Kenntnisprüfung
 
@@ -609,7 +611,7 @@ durchgeführt.
 
 (6) Der praktische Teil der Prüfung soll für jede Betreuungssituation nicht länger als 120 Minuten dauern. Die Prüfung wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet. Während der Prüfung sind den Prüferinnen und Prüfern Nachfragen gestattet, die sich auf das praktische Vorgehen beziehen.
 
-(7) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen.
+(7) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen. Die Vorsitzenden des Prüfungsausschusses müssen zu diesem Zweck während der Prüfung anwesend sein; ihnen steht ein Fragerecht zu.
 
 # § 51 – Durchführung und Abschluss der Kenntnisprüfung
 
@@ -667,11 +669,29 @@ Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde der 
 
 # § 57 – Übergangsvorschriften zur fachschulischen Ausbildung
 
-Für fachschulische Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung anzuwenden.
+(1) Für fachschulische Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung nach Maßgabe der folgenden Absätze anzuwenden.
+
+(2) Hinsichtlich § 1 Absatz 1 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden können. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
+(3) Im schriftlichen Teil der Prüfung nach § 5 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung ist, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, jede Aufsichtsarbeit von zwei Fachprüferinnen oder Fachprüfern nach § 20 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+(4) Im mündlichen Teil der Prüfung nach § 6 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, die Prüfung von drei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+(5) Der praktische Teil der Prüfung nach § 7 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, von zwei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+(6) Für die Eignungsprüfung nach § 16a Absatz 3 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass die oder der Vorsitzende des Prüfungsausschusses während einer Prüfung, die nach dem 30. September 2023 durchgeführt wird, anwesend sein muss; ihr oder ihm steht ein Fragerecht zu.
+
+(7) Für den mündlichen Teil der Kenntnisprüfung nach § 16b Absatz 4 und den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass die oder der Vorsitzende des Prüfungsausschusses während einer Prüfung, die nach dem 30. September 2023 durchgeführt wird, anwesend sein muss; ihr oder ihm steht ein Fragerecht zu. Für den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 gilt in diesen Fällen auch § 16a Absatz 3 Satz 11 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung entsprechend.
 
 # § 58 – Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
 
-Für Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 in Form von Modellvorhaben begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung anzuwenden.
+(1) Für Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 in Form von Modellvorhaben begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung nach Maßgabe der folgenden Absätze anzuwenden.
+
+(2) Im schriftlichen Teil der Prüfung ist, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, jede Aufsichtsarbeit von zwei Fachprüferinnen oder Fachprüfern nach § 20 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+(3) Im mündlichen Teil der Prüfung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, die Prüfung von drei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+(4) Der praktische Teil der Prüfung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, von zwei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 # § 59 – Ausnahmeregelung zur Praxisanleitung
 

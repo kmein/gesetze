@@ -39,7 +39,9 @@ Die Ausbildung nach Satz 1 besteht zu zwei Dritteln der nach § 32 Absatz 2 Satz
 
 (1) Durch den Unterricht nach § 1 Absatz 1 Nummer 1 werden die Schülerinnen und Schüler befähigt, auf der Grundlage fachlichen Wissens und Könnens sowie auf der Grundlage des allgemein anerkannten Standes rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse die anfallenden Aufgaben zielorientiert, sachgerecht, methodengeleitet und selbständig zu lösen sowie das Ergebnis zu beurteilen. Während des Unterrichts ist die Entwicklung der zur Ausübung des Berufs erforderlichen Personal-, Sozial- und Selbstkompetenz zu fördern. Daneben muss den Schülerinnen und Schülern ausreichend Möglichkeit gegeben werden, die zur Erreichung des Ausbildungsziels nach § 4 des Notfallsanitätergesetzes erforderlichen Fertigkeiten zu entwickeln und einzuüben.
 
-(2) Durch die praktische Ausbildung nach § 1 Absatz 1 Nummer 2 und 3 werden die Schülerinnen und Schüler befähigt, die im Unterricht nach Absatz 1 erworbenen Kenntnisse zu vertiefen und zu lernen, diese Kenntnisse bei der späteren beruflichen Tätigkeit anzuwenden, um die zur Erreichung des Ausbildungsziels nach § 4 des Notfallsanitätergesetzes erforderliche Handlungskompetenz zu entwickeln.
+(2) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Schülerinnen und Schülern gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
+(3) Durch die praktische Ausbildung nach § 1 Absatz 1 Nummer 2 und 3 werden die Schülerinnen und Schüler befähigt, die im Unterricht nach Absatz 1 erworbenen Kenntnisse zu vertiefen und zu lernen, diese Kenntnisse bei der späteren beruflichen Tätigkeit anzuwenden, um die zur Erreichung des Ausbildungsziels nach § 4 des Notfallsanitätergesetzes erforderliche Handlungskompetenz zu entwickeln.
 
 # § 3 – Praxisanleitung; Praxisbegleitung
 
@@ -97,7 +99,7 @@ Für die staatliche Ergänzungsprüfung gilt Satz 1 entsprechend.
 
 (2) Die zuständige Behörde bestellt auf Vorschlag der Schule die Mitglieder des Prüfungsausschusses sowie deren Stellvertreterinnen oder Stellvertreter. Für jedes Mitglied ist mindestens eine Stellvertreterin oder ein Stellvertreter zu bestimmen. Als Fachprüferinnen oder Fachprüfer sollen die Lehrkräfte bestellt werden, die den Prüfling überwiegend ausgebildet haben.
 
-(3) Das Mitglied nach Absatz 1 Satz 1 Nummer 1 ist Vorsitzende oder Vorsitzender des Prüfungsausschusses. Es bestimmt auf Vorschlag der Schulleiterin oder des Schulleiters die Fachprüferinnen oder Fachprüfer und deren Stellvertreterinnen oder Stellvertreter für die einzelnen Themenbereiche und Fallbeispiele der Prüfung einschließlich ihrer Benotung oder Bewertung. Die oder der Vorsitzende des Prüfungsausschusses ist verpflichtet, an den jeweiligen Teilen der Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist; eine Verpflichtung zur Anwesenheit während der gesamten Dauer der Prüfung besteht nicht.
+(3) Das Mitglied nach Absatz 1 Satz 1 Nummer 1 ist Vorsitzende oder Vorsitzender des Prüfungsausschusses. Es bestimmt auf Vorschlag der Schulleiterin oder des Schulleiters die Fachprüferinnen oder Fachprüfer und deren Stellvertreterinnen oder Stellvertreter für die einzelnen Themenbereiche und Fallbeispiele der Prüfung einschließlich ihrer Benotung oder Bewertung.
 
 (4) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
@@ -135,21 +137,18 @@ Satz 1 Nummer 2 gilt nicht für Personen, die auf Grund des § 32 Absatz 2 Satz 
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-# § 8 – Benotung der staatlichen Prüfung
+# § 8 – Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und in der praktischen Prüfung nach den §§ 15 bis 17 werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
-1. „sehr gut“ (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,
-
-2. „gut“ (2), wenn die Leistung den Anforderungen voll entspricht,
-
-3. „befriedigend“ (3), wenn die Leistung im Allgemeinen den Anforderungen entspricht,
-
-4. „ausreichend“ (4), wenn die Leistung zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht,
-
-5. „mangelhaft“ (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,
-
-6. „ungenügend“ (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 19%" /><col style="width: 19%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Berechneter Zahlenwert</th><th style="text-align: center;">Note in Worten<br />
+(Zahlenwert)</th><th>Notendefinition</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1,00 bis 1,49</td><td style="text-align: center;">sehr gut<br />
+(1)</td><td>eine Leistung, die den Anforderungen in besonderem Maß entspricht</td></tr><tr class="even"><td style="text-align: center;">1,50 bis 2,49</td><td style="text-align: center;">gut<br />
+(2)</td><td>eine Leistung, die den Anforderungen voll entspricht</td></tr><tr class="odd"><td style="text-align: center;">2,50 bis 3,49</td><td style="text-align: center;">befriedigend<br />
+(3)</td><td>eine Leistung, die im Allgemeinen den Anforderungen entspricht</td></tr><tr class="even"><td style="text-align: center;">3,50 bis 4,49</td><td style="text-align: center;">ausreichend<br />
+(4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: center;">4,50 bis 5,49</td><td style="text-align: center;">mangelhaft<br />
+(5)</td><td>eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können</td></tr><tr class="even"><td style="text-align: center;">5,50 bis 6,00</td><td style="text-align: center;">ungenügend<br />
+(6)</td><td>eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können</td></tr></tbody></table>
 
 # § 9 – Bestehen und Wiederholung der staatlichen Prüfung
 
@@ -199,7 +198,7 @@ Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in seine Prüf
 
 Der Prüfling hat zu jedem dieser Themenbereiche in jeweils einer Aufsichtsarbeit schriftlich gestellte Aufgaben zu bearbeiten. Die Aufsichtsarbeiten dauern jeweils 120 Minuten. Der schriftliche Teil der Prüfung ist an drei Tagen durchzuführen. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 
-(2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 5 Absatz 1 Satz 1 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note für die einzelne Aufsichtsarbeit. Aus den Noten der drei Aufsichtsarbeiten bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
+(2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder Fachprüfern gemäß § 5 Absatz 1 Satz 1 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der Aufsichtsarbeiten bildet die oder der Vorsitzende als das arithmetische Mittel die Gesamtnote für den schriftlichen Teil der Prüfung. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 8 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 
 # § 16 – Mündlicher Teil der Prüfung
 
@@ -215,7 +214,7 @@ Der Prüfling hat zu jedem dieser Themenbereiche in jeweils einer Aufsichtsarbei
 
 (3) Die Prüflinge werden einzeln oder zu zweit geprüft. Die Prüfung soll für jeden Prüfling mindestens 30 und nicht länger als 45 Minuten dauern.
 
-(4) Die Prüfung zu jedem Themenbereich wird von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 5 Absatz 1 Satz 1 Nummer 3 abgenommen und benotet; in dem Prüfungsteil gemäß § 16 Absatz 2 Nummer 3 muss eine Fachprüferin oder ein Fachprüfer die Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b erfüllen. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich an der mündlichen Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen. Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen und Fachprüfern die Note für den jeweiligen Themenbereich. Die oder der Vorsitzende des Prüfungsausschusses bildet die Note für den mündlichen Teil der Prüfung aus dem arithmetischen Mittel der für jeden Themenbereich erteilten Einzelnote. Der mündliche Teil der Prüfung ist bestanden, wenn jeder Themenbereich mindestens mit „ausreichend“ benotet wird.
+(4) Die Prüfung zu jedem Themenbereich wird von zwei Fachprüferinnen oder Fachprüfern gemäß § 5 Absatz 1 Satz 1 Nummer 3 abgenommen und benotet; in dem Prüfungsteil gemäß § 16 Absatz 2 Nummer 3 muss eine Fachprüferin oder ein Fachprüfer die Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b erfüllen. Die oder der Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für den jeweiligen Themenbereich als das arithmetische Mittel. Aus den Noten der Themenbereiche bildet die oder der Vorsitzende als das arithmetische Mittel die Gesamtnote für den mündlichen Teil der Prüfung. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 8 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jeder Themenbereich mindestens mit „ausreichend“ benotet wird.
 
 (5) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
@@ -245,7 +244,7 @@ Eines der Fallbeispiele muss aus dem Bereich der internistischen Notfälle, eine
 
 (5) Die Prüflinge werden einzeln oder zu zweit geprüft. Die Prüfung soll einschließlich des Fachgesprächs für jedes Fallbeispiel mindestens 20 und nicht länger als 40 Minuten dauern. Die Prüfung kann auf zwei aufeinanderfolgende Tage verteilt werden.
 
-(6) Jedes Fallbeispiel wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und benotet. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für jedes Fallbeispiel. Aus diesen Noten bildet die oder der Vorsitzende des Prüfungsausschusses die Gesamtnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fallbeispiel mindestens mit „ausreichend“ benotet wird.
+(6) Jedes Fallbeispiel wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und benotet. Die oder der Vorsitzende ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für jedes Fallbeispiel als das arithmetische Mittel. Aus den Noten der Fallbeispiele bildet die oder der Vorsitzende als das arithmetische Mittel die Gesamtnote für den praktischen Teil der Prüfung. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 8 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fallbeispiel mindestens mit „ausreichend“ benotet wird.
 
 # § 18 – Mündlicher Teil der Ergänzungsprüfung
 
@@ -259,13 +258,13 @@ Eines der Fallbeispiele muss aus dem Bereich der internistischen Notfälle, eine
 
 (2) Die Prüflinge werden einzeln oder zu zweit geprüft. Die Prüfung soll für jeden Prüfling mindestens 30 und nicht länger als 40 Minuten dauern. § 16 Absatz 1 gilt entsprechend.
 
-(3) Die Prüfung zu jedem Themenbereich wird von mindestens zwei Fachprüferinnen oder Fachprüfern abgenommen und bewertet. § 16 Absatz 4 Satz 1 und 2 gilt entsprechend. Der mündliche Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jeden Themenbereich gemeinsam mit der oder dem Vorsitzenden des Prüfungsausschusses übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
+(3) Die Prüfung zu jedem Themenbereich wird von zwei Fachprüferinnen oder Fachprüfern abgenommen und bewertet. § 16 Absatz 4 Satz 1 gilt entsprechend. Der mündliche Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jeden Themenbereich übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck an der Prüfung teilnehmen; ihr oder ihm steht ein Fragerecht zu.
 
 # § 19 – Praktischer Teil der Ergänzungsprüfung
 
 (1) Der praktische Teil der Ergänzungsprüfung erstreckt sich auf die Übernahme aller anfallenden Aufgaben einer fachgerechten rettungsmedizinischen Notfallversorgung bei zwei vorgegebenen Fallbeispielen. Eines der Fallbeispiele stammt aus dem Bereich der traumatologischen Notfälle und eines aus dem Bereich internistischer Notfälle. § 17 Absatz 1, 2 Satz 2, Absatz 3 bis 5 gilt entsprechend.
 
-(2) Jedes Fallbeispiel wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und bewertet. Der praktische Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jedes Fallbeispiel übereinstimmend mit „bestanden“ bewerten. § 18 Absatz 3 Satz 4 und 5 gilt entsprechend.
+(2) Jedes Fallbeispiel wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und bewertet. Der praktische Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jedes Fallbeispiel übereinstimmend mit „bestanden“ bewerten. § 18 Absatz 3 Satz 4 bis 6 gilt entsprechend.
 
 # § 20 – Sonderregelungen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -315,7 +314,7 @@ können zum Ausgleich von wesentlichen Unterschieden, die von der zuständigen B
 
 4. bei der medizinischen Diagnostik und Therapie mitwirken, lebenserhaltende Maßnahmen und Maßnahmen zur Abwendung schwerer gesundheitlicher Schäden bis zum Eintreffen der Notärztin oder des Notarztes oder dem Beginn einer weiteren ärztlichen Versorgung durchführen.
 
-Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 20 und höchstens 60 Minuten dauern. Er wird von zwei Fachprüferinnen und Fachprüfern, von denen eine Person die Voraussetzungen des § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. § 18 Absatz 3 Satz 4 und 5 gilt entsprechend.
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 20 und höchstens 60 Minuten dauern. Er wird von zwei Fachprüferinnen und Fachprüfern, von denen eine Person die Voraussetzungen des § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. § 18 Absatz 3 Satz 4 bis 6 gilt entsprechend.
 
 (5) Für den praktischen Teil der Kenntnisprüfung gilt § 21 Absatz 3 Satz 2 bis 5 entsprechend.
 

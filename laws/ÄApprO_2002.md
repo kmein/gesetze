@@ -356,11 +356,11 @@ der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet hat.
 
 # § 15 – Mündlich-praktische Prüfung
 
-(1) Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen Prüfung und der Dritte Abschnitt der Ärztlichen Prüfung werden jeweils vor einer Prüfungskommission abgelegt. Die Prüfungskommissionen werden von der nach Landesrecht zuständigen Stelle bestellt. Die Prüfungskommissionen bestehen jeweils aus dem Vorsitzenden und
+(1) Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen Prüfung und der Dritte Abschnitt der Ärztlichen Prüfung werden jeweils vor einer Prüfungskommission abgelegt. Die Prüfungskommissionen werden von der nach Landesrecht zuständigen Stelle bestellt. Jede Prüfungskommission besteht aus dem Vorsitzenden und
 
-1. beim Ersten Abschnitt der Ärztlichen Prüfung aus mindestens zwei, höchstens drei weiteren Mitgliedern,
+1. beim Ersten Abschnitt der Ärztlichen Prüfung aus zwei weiteren Mitgliedern,
 
-2. beim Dritten Abschnitt der Ärztlichen Prüfung aus mindestens drei, höchstens vier weiteren Mitgliedern.
+2. beim Dritten Abschnitt der Ärztlichen Prüfung aus drei weiteren Mitgliedern.
 
 Für den Vorsitzenden und die weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Als Mitglieder der Prüfungskommission für den Dritten Abschnitt der Ärztlichen Prüfung können stattdessen auch dem Lehrkörper einer Universität nicht angehörende Ärzte, wie Fachärzte für Allgemeinmedizin oder anderer Fachgebiete, bestellt werden.
 
@@ -751,7 +751,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (3) Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz 2 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung ablegen können. Die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur Eignungsprüfung spätestens fünf Kalendertage vor dem Prüfungstermin zu. Die §§ 18 und 19 gelten entsprechend.
 
-(4) Die Eignungsprüfung wird in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission in deutscher Sprache abgelegt. Die Prüfungskommission wird von der nach § 12 Absatz 3 der Bundesärzteordnung zuständigen Behörde des Landes bestellt. Die Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei, höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Stattdessen können als Mitglieder der Prüfungskommission auch dem Lehrkörper einer Universität nicht angehörende Fachärzte bestellt werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und muss selbst prüfen. § 15 Absatz 3, 5 Satz 1 und Absatz 6 gilt entsprechend.
+(4) Die Eignungsprüfung wird in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission in deutscher Sprache abgelegt. Die Prüfungskommission wird von der nach § 12 Absatz 3 der Bundesärzteordnung zuständigen Behörde des Landes bestellt. Die Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Stattdessen können als Mitglieder der Prüfungskommission auch dem Lehrkörper einer Universität nicht angehörende Fachärzte bestellt werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und muss selbst prüfen. § 15 Absatz 3, 5 Satz 1 und Absatz 6 gilt entsprechend.
 
 (5) Die Prüfungskommission hat dem Antragsteller vor dem Prüfungstermin einen oder mehrere Patienten mit Bezug zu den in Absatz 1 genannten Fächern einschließlich der Querschnittsbereiche zur Anamneseerhebung und Untersuchung unter Aufsicht eines Mitglieds der Prüfungskommission zuzuweisen. Der Antragsteller hat über jeden Patienten einen Bericht zu fertigen, der Anamnese, Diagnose, Prognose, Behandlungsplan sowie eine Epikrise des Falles enthält. Der Bericht ist unverzüglich nach Fertigstellung von einem Mitglied der Prüfungskommission gegenzuzeichnen und beim Prüfungstermin vorzulegen. Er ist Gegenstand der Prüfung und in die Bewertung einzubeziehen.
 

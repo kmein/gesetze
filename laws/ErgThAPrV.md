@@ -7,7 +7,9 @@ Auf Grund des § 5 des Ergotherapeutengesetzes vom 25. Mai 1976 (BGBl. I S. 1246
 
 # § 1 – Ausbildung
 
-(1) Die dreijährige Ausbildung für Ergotherapeutinnen und Ergotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2.700 Stunden und die aufgeführte praktische Ausbildung von 1.700 Stunden. Sie steht unter der Gesamtverantwortung einer Schule für Ergotherapeuten (Schule). Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben.
+(1) Die dreijährige Ausbildung für Ergotherapeutinnen und Ergotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2 700 Stunden und die aufgeführte praktische Ausbildung von 1 700 Stunden. Sie steht unter der Gesamtverantwortung einer Schule für Ergotherapeuten (Schule). Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben.
+
+(1a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
 
 (2) Die Schulen haben die praktische Ausbildung im Rahmen einer Vereinbarung mit Krankenhäusern oder anderen geeigneten Einrichtungen sicherzustellen. Der in Anlage 1 B Nr. 3 genannte Bereich der praktischen Ausbildung soll unter der Anleitung von Ergotherapeutinnen oder Ergotherapeuten durchgeführt werden; in den übrigen in Anlage 1 B genannten Bereichen hat sie unter der Anleitung von Ergotherapeutinnen oder Ergotherapeuten stattzufinden.
 
@@ -67,7 +69,7 @@ Als Fachprüfer sollen die Lehrkräfte bestellt werden, die den Prüfling in die
 
 Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit schriftlich gestellte Fragen zu beantworten. Die Aufsichtsarbeiten dauern jeweils 180 Minuten. Die schriftliche Prüfung ist an drei Tagen durchzuführen. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 
-(2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
+(2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Aufsichtsarbeiten. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 # § 6 – Mündlicher Teil der Prüfung
 
@@ -81,7 +83,7 @@ Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit sc
 
 Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Ein Prüfling soll in jedem Fach nicht länger als 15 Minuten geprüft werden.
 
-(2) Jedes Fach wird von mindestens einem Fachprüfer abgenommen und benotet. Der Vorsitzende ist berechtigt, sich in allen Fächern an der Prüfung zu beteiligen; er kann auch selbst prüfen. Aus den Noten der Fachprüfer bildet der Vorsitzende im Benehmen mit den Fachprüfern die Prüfungsnote für den mündlichen Teil der Prüfung. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
+(2) Jedes Fach wird von zwei Fachprüfern abgenommen und benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
@@ -95,33 +97,24 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Ein Prüfli
 
 (2) Die Prüfung nach Absatz 1 Nr. 1 soll an zwei Tagen durchgeführt werden und zwölf Stunden nicht überschreiten. Für die Prüfung nach Absatz 1 Nr. 2 sind dem Prüfling die Patienten spätestens vier Tage vor der Prüfung zuzuweisen. Die Auswahl der Patienten erfolgt durch einen Fachprüfer nach § 3 Abs. 1 Satz 2 Nr. 3 im Einvernehmen mit dem Patienten und dem für den Patienten verantwortlichen Fachpersonal. Nach der ergotherapeutischen Behandlung sollen in einem Prüfungsgespräch Fragen zum Ablauf der Behandlung sowie dem Prüfungsbericht gestellt werden. Die Behandlung und das Gespräch sollen an einem Tag abgeschlossen sein und nicht länger als zwei Stunden dauern.
 
-(3) Der praktische Teil der Prüfung nach Absatz 1 Nr. 1 und 2 wird jeweils von mindestens zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1 Satz 2 Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern jeweils die Note für die Prüfungen nach Absatz 1 Nr. 1 und 2 sowie aus diesen Noten die Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn die Prüfungen nach Absatz 1 Nr. 1 und 2 jeweils mindestens mit "ausreichend" benotet werden.
+(3) Der praktische Teil der Prüfung nach Absatz 1 Nr. 1 und 2 wird jeweils von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1 Satz 2 Nr. 3 Buchstabe b, abgenommen und benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses jeweils die Note für die Prüfungen nach Absatz 1 Nr. 1 und 2 als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie aus diesen Noten die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der Prüfungen nach Absatz 1 Nummer 1 und 2. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn die Prüfungen nach Absatz 1 Nr. 1 und 2 jeweils mindestens mit "ausreichend" benotet werden.
 
 # § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-# § 9 – Benotung
+# § 9 – Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
-\-  
-"sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,
-
-\-  
-"gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-
-\-  
-"befriedigend" (3), wenn die Leistung im allgemeinen den Anforderungen entspricht,
-
-\-  
-"ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im ganzen den Anforderungen noch entspricht,
-
-\-  
-"mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,
-
-\-  
-"ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 19%" /><col style="width: 19%" /><col style="width: 63%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Berechneter Zahlenwert</th><th style="text-align: center;">Note in Worten<br />
+(Zahlenwert)</th><th>Notendefinition</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1,00 bis 1,49</td><td style="text-align: center;">sehr gut<br />
+(1)</td><td>eine Leistung, die den Anforderungen in besonderem Maß entspricht</td></tr><tr class="even"><td style="text-align: center;">1,50 bis 2,49</td><td style="text-align: center;">gut<br />
+(2)</td><td>eine Leistung, die den Anforderungen voll entspricht</td></tr><tr class="odd"><td style="text-align: center;">2,50 bis 3,49</td><td style="text-align: center;">befriedigend<br />
+(3)</td><td>eine Leistung, die im Allgemeinen den Anforderungen entspricht</td></tr><tr class="even"><td style="text-align: center;">3,50 bis 4,49</td><td style="text-align: center;">ausreichend<br />
+(4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: center;">4,50 bis 5,49</td><td style="text-align: center;">mangelhaft<br />
+(5)</td><td>eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können</td></tr><tr class="even"><td style="text-align: center;">5,50 bis 6,00</td><td style="text-align: center;">ungenügend<br />
+(6)</td><td>eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können</td></tr></tbody></table>
 
 # § 10 – Bestehen und Wiederholung der Prüfung
 
@@ -177,9 +170,9 @@ Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für die Erteil
 
 (2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 4 Absatz 1 des Ergotherapeutengesetzes oder an Einrichtungen durchgeführt, die von der zuständigen Behörde als vergleichbar anerkannt wurden. An der theoretischen Unterweisung sollen Personen nach § 3 Absatz 1 Satz 2 Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden kann. Die Ableistung des Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der Anlage 4a nachzuweisen.
 
-(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling an mindestens einem und höchstens drei Patienten aus den in Anlage 1 Teil B genannten Bereichen einen ergotherapeutischen Befund zu erheben, einen Behandlungsplan und dessen Durchführung mit den dazugehörigen Erörterungen und Begründungen in einem Prüfungsgespräch darzustellen sowie eine ergotherapeutische Behandlung entsprechend dem Behandlungsplan durchzuführen. Die zuständige Behörde legt die Bereiche, in denen die Eignungsprüfung durchgeführt wird, gemäß den festgestellten wesentlichen Unterschieden fest. Die Eignungsprüfung soll für jeden Bereich höchstens 120 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Satz 2 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Eignungsprüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei hat der Prüfling an mindestens einem und höchstens drei Patienten aus den in Anlage 1 Teil B genannten Bereichen einen ergotherapeutischen Befund zu erheben, einen Behandlungsplan und dessen Durchführung mit den dazugehörigen Erörterungen und Begründungen in einem Prüfungsgespräch darzustellen sowie eine ergotherapeutische Behandlung entsprechend dem Behandlungsplan durchzuführen. Die zuständige Behörde legt die Bereiche, in denen die Eignungsprüfung durchgeführt wird, gemäß den festgestellten wesentlichen Unterschieden fest. Die Eignungsprüfung soll für jeden Bereich höchstens 120 Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Absatz 1 Satz 2 Nummer 3 Buchstabe b, abgenommen und bewertet. Während der Eignungsprüfung sind den Prüfern Nachfragen gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 4b erteilt.
 
-(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 5a Absatz 3 Satz 6 des Ergotherapeutengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 11 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
+(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 5a Absatz 3 Satz 6 des Ergotherapeutengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
 # § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
@@ -197,9 +190,9 @@ Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für die Erteil
 
 3. Grundlagen der Ergotherapie.
 
-Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Satz 2 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen.
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Satz 2 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu.
 
-(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 10 entsprechend.
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 11 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf im mündlichen Teil sowie jedem Bereich, der Gegenstand der Prüfung war und nicht bestanden wurde, einmal wiederholt werden.
 

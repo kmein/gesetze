@@ -161,7 +161,7 @@
 
 (2) Im theoretischen und praktischen Unterricht sind die verschiedenen Versorgungs- und Funktionsbereiche der beruflichen Tätigkeit zu berücksichtigen.
 
-(3) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Das Nähere regeln die Länder. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen.
+(3) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
 
 # § 4 – Praktische Ausbildung
 
@@ -317,7 +317,7 @@ Die oder der Vorsitzende des Prüfungsausschusses bestimmt auf Vorschlag der Sch
 
 # § 16 – Teilnahme der oder des Vorsitzenden des Prüfungsausschusses an Teilen der staatlichen Prüfung
 
-Die oder der Vorsitzende des Prüfungsausschusses ist verpflichtet, an den einzelnen Teilen der staatlichen Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist. Eine Verpflichtung zur Anwesenheit während der gesamten Dauer der staatlichen Prüfung besteht nicht.
+Die oder der Vorsitzende hat das Recht, an den einzelnen Teilen der staatlichen Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Eine Verpflichtung zur Anwesenheit besteht nicht.
 
 (+++ § 16: Zur Geltung vgl. § 94 +++)
 
@@ -508,9 +508,9 @@ Die Aufgabenstellung für die Aufsichtsarbeit im Kompetenzschwerpunkt „Berufsb
 
 # § 30 – Benotung und Note einer Aufsichtsarbeit
 
-(1) Jede Aufsichtsarbeit wird von mindestens zwei Fachprüferinnen und Fachprüfern benotet.
+(1) Jede Aufsichtsarbeit wird von zwei Fachprüferinnen und Fachprüfern benotet.
 
-(2) Aus den Noten der Fachprüferinnen und Fachprüfer legt die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den jeweiligen Fachprüferinnen und Fachprüfern, die die Aufsichtsarbeit benotet haben, die Note für die einzelne Aufsichtsarbeit fest.
+(2) Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelnen Aufsichtsarbeiten als das arithmetische Mittel.
 
 # § 31 – Bestehen des schriftlichen Teils
 
@@ -521,6 +521,8 @@ Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der drei
 (1) Wer eine Aufsichtsarbeit des schriftlichen Teils der staatlichen Prüfung nicht bestanden hat, kann sie einmal wiederholen.
 
 (2) Für die Wiederholung ist ein Antrag der Prüfungskandidatin oder des Prüfungskandidaten bei der oder dem Vorsitzenden des Prüfungsausschusses erforderlich.
+
+(3) Die Wiederholungsprüfung muss spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 (+++ § 32: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
 
@@ -564,7 +566,7 @@ Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung.
 
 (2) Der mündliche Teil soll für jede Prüfungskandidatin und jeden Prüfungskandidaten mindestens 30 Minuten und höchstens 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewährleisten.
 
-(3) Der mündliche Teil wird von mindestens zwei Fachprüferinnen und Fachprüfern abgenommen. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, Prüfungsfragen zu stellen.
+(3) Der mündliche Teil wird von zwei Fachprüferinnen und Fachprüfern abgenommen.
 
 (4) Die oder der Vorsitzende des Prüfungsausschusses kann die Anwesenheit von höchstens fünf Zuhörerinnen und Zuhörern beim mündlichen Teil gestatten, wenn
 
@@ -580,7 +582,7 @@ b) der Prüfung zu zweit beide Prüfungskandidatinnen und Prüfungskandidaten de
 
 (1) Die im mündlichen Teil der staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen und Fachprüfern benotet, von denen der mündliche Teil abgenommen worden ist.
 
-(2) Aus den einzelnen Noten der Fachprüferinnen oder Fachprüfern bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen und Fachprüfern, die die Leistung benotet haben, die Note für die im mündlichen Teil der staatlichen Prüfung erbrachte Leistung.
+(2) Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die im mündlichen Teil der staatlichen Prüfung gezeigte Leistung als das arithmetische Mittel.
 
 (3) In die Note fließt ein:
 
@@ -601,6 +603,8 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 (1) Wer den mündlichen Teil der staatlichen Prüfung nicht bestanden hat, kann ihn einmal wiederholen.
 
 (2) Für die Wiederholung ist ein Antrag der Prüfungskandidatin oder des Prüfungskandidaten bei der oder dem Vorsitzenden des Prüfungsausschusses erforderlich.
+
+(3) Die Wiederholungsprüfung muss spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 (+++ § 38: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
 
@@ -642,7 +646,7 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 2. im Fall der Ausbildung zur Operationstechnischen Assistentin und zum Operationstechnischen Assistenten in einer realen und komplexen operativen Situation durchgeführt werden.
 
-(3) Der praktische Teil muss von mindestens zwei Fachprüferinnen oder Fachprüfern abgenommen werden, von denen mindestens eine Person zum Zeitpunkt der Prüfung als praxisanleitende Person tätig ist. Die oder der Vorsitzende des Prüfungsausschusses ist im praktischen Teil berechtigt, Prüfungsfragen zu stellen.
+(3) Der praktische Teil muss von zwei Fachprüferinnen oder Fachprüfern abgenommen werden, von denen mindestens eine Person zum Zeitpunkt der Prüfung als praxisanleitende Person tätig ist.
 
 # § 41 – Bestandteile des praktischen Teils und Dauer
 
@@ -666,7 +670,7 @@ Der Ablaufplan ist schriftlich oder elektronisch unter Aufsicht zu erstellen.
 
 (1) Die im praktischen Teil der staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen und Fachprüfern benotet, von denen der praktische Teil abgenommen worden ist.
 
-(2) Aus den einzelnen Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen und Fachprüfern, die die Leistung benotet haben, die Note für die im praktischen Teil der staatlichen Prüfung erbrachte Leistung.
+(2) Aus den Noten der Fachprüferinnen und Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die im praktischen Teil der staatlichen Prüfung gezeigte Leistung als das arithmetische Mittel.
 
 (3) In die Note fließt ein:
 
@@ -691,6 +695,8 @@ Der praktische Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 (3) Vor der Wiederholung hat die Prüfungskandidatin oder der Prüfungskandidat einen zusätzlichen Praxiseinsatz zu absolvieren. Dauer und Inhalt des Praxiseinsatzes sind von der oder dem Vorsitzenden des Prüfungsausschusses zu bestimmen.
 
 (4) Zur Wiederholung darf nur zugelassen werden, wer dem Antrag einen Nachweis über den zusätzlichen Praxiseinsatz beigefügt hat.
+
+(5) Die Wiederholungsprüfung muss spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 (+++ § 44: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
 
@@ -846,7 +852,7 @@ In der Eignungsprüfung hat die Prüfungskandidatin oder der Prüfungskandidat n
 
 (3) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht.
 
-(4) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Fachprüferinnen und Fachprüfern die Bewertung festzulegen.
+(4) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Eignungsprüfung anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 (5) Die Eignungsprüfung ist bestanden, wenn die Fachprüferinnen und Fachprüfer jede anästhesiologische oder operative Situation mit „bestanden“ bewerten.
 
@@ -948,7 +954,7 @@ Der mündliche Teil der Kenntnisprüfung wird von zwei Personen abgenommen, von 
 
 (2) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht.
 
-(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Fachprüferinnen und Fachprüfern die Bewertung festzulegen.
+(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während des mündlichen Teils der Kenntnisprüfung anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 # § 73 – Wiederholung des mündlichen Teils der Kenntnisprüfung
 
@@ -988,7 +994,7 @@ Der mündliche Teil der Kenntnisprüfung wird von zwei Personen abgenommen, von 
 
 (3) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht.
 
-(4) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Fachprüferinnen und Fachprüfern die Bewertung festzulegen.
+(4) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während des praktischen Teils der Kenntnisprüfung anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 (5) Der praktische Teil der Kenntnisprüfung ist bestanden, wenn die Fachprüferinnen und Fachprüfer jede anästhesiologische oder operative Situation mit „bestanden“ bewerten.
 
@@ -1058,7 +1064,7 @@ Die Kenntnisprüfung hat bestanden, wer den mündlichen und den praktischen Teil
 
 (2) Bewertet wird das Abschlussgespräch entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird die Leistung bewertet, wenn sie den Anforderungen genügt und damit mindestens der Note „ausreichend (4)“ entspricht.
 
-(3) Kommen die beiden Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Prüferinnen und Prüfern die Bewertung festzulegen.
+(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während des Abschlussgesprächs anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 (4) Erfolgreich absolviert wurde der Anpassungslehrgang, wenn das Abschlussgespräch mit „bestanden“ bewertet worden ist.
 
@@ -1178,7 +1184,7 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 
 2. im Fall der Nachprüfung zur Operationstechnischen Assistentin oder zum Operationstechnischen Assistenten in einer realen und komplexen operativen Situation durchgeführt werden.
 
-(3) Der praktische Teil muss von mindestens zwei Fachprüferinnen und Fachprüfern abgenommen werden, von denen mindestens eine oder einer zum Zeitpunkt der Prüfung als praxisanleitende Person tätig ist. Die oder der Vorsitzende des Prüfungsausschusses ist im praktischen Teil berechtigt, Prüfungsfragen zu stellen.
+(3) Der praktische Teil muss von zwei Fachprüferinnen und Fachprüfern abgenommen werden, von denen mindestens eine oder einer zum Zeitpunkt der Prüfung als praxisanleitende Person tätig ist.
 
 (4) Die betroffenen Patientinnen und Patienten oder eine vertretungsberechtigte Person müssen in die Teilnahme an der Prüfungssituation eingewilligt haben. Die verantwortliche Ärztin oder der verantwortliche Arzt kann die Durchführung der Aufgabe aus medizinischen Gründen ablehnen.
 
@@ -1202,7 +1208,7 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 
 (2) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht.
 
-(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Fachprüferinnen und Fachprüfern die Bewertung festzulegen.
+(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während des praktischen Teils der Nachprüfung anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 (4) Der praktische Teil der Nachprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer den praktischen Teil mit „bestanden“ bewerten.
 
@@ -1211,6 +1217,8 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 (1) Wer den praktischen Teil der Nachprüfung nicht bestanden hat, kann ihn einmal wiederholen.
 
 (2) Für die Wiederholung ist ein Antrag der Prüfungskandidatin oder des Prüfungskandidaten bei der oder dem Vorsitzenden des Prüfungsausschusses erforderlich.
+
+(3) Die Wiederholungsprüfung muss spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 # § 100 – Mündlicher Teil der Nachprüfung
 
@@ -1230,7 +1238,7 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 
 (2) Der mündliche Teil soll für jede Prüfungskandidatin und jeden Prüfungskandidaten mindestens 30 Minuten und höchstens 45 Minuten dauern.
 
-(3) Der mündliche Teil wird von mindestens zwei Fachprüferinnen und Fachprüfern abgenommen. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, Prüfungsfragen zu stellen.
+(3) Der mündliche Teil wird von zwei Fachprüferinnen und Fachprüfern abgenommen.
 
 # § 102 – Bewertung und Bestehen des mündlichen Teils der Nachprüfung
 
@@ -1238,7 +1246,7 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 
 (2) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht.
 
-(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den beiden Fachprüferinnen und Fachprüfern die Bewertung festzulegen.
+(3) Kommen die beiden Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, so hat die oder der Vorsitzende des Prüfungsausschusses die Bewertung festzulegen. Die oder der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während des mündlichen Teils der Nachprüfung anwesend sein; ihr oder ihm steht ein Fragerecht zu.
 
 (4) Der mündliche Teil der Nachprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer den mündlichen Teil mit „bestanden“ bewerten.
 
@@ -1247,6 +1255,8 @@ Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12 bis 27 und
 (1) Wer den mündlichen Teil der Nachprüfung nicht bestanden hat, kann ihn einmal wiederholen.
 
 (2) Für die Wiederholung ist ein Antrag der Prüfungskandidatin oder des Prüfungskandidaten bei der oder dem Vorsitzenden des Prüfungsausschusses erforderlich.
+
+(3) Die Wiederholungsprüfung muss spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 # § 104 – Bestehen der Nachprüfung
 

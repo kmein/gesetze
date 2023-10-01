@@ -17,7 +17,7 @@ Die Anzeige von Unfällen und Berufskrankheiten, die nach den §§ 193 und 202 d
 
 # § 3 – Anzeige von Berufskrankheiten
 
-(1) Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte haben bei begründetem Verdacht auf das Vorliegen einer Berufskrankheit die Anzeige nach § 202 Satz 1 des Siebten Buches Sozialgesetzbuch auf einem Vordruck nach dem Muster der Anlage 3 zu erstatten.
+(1) Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte haben bei begründetem Verdacht auf das Vorliegen einer Berufskrankheit die Anzeige nach § 202 Satz 1 des Siebten Buches Sozialgesetzbuch auf einem Vordruck nach dem Muster der Anlage 3 zu erstatten. Sofern die in der Anzeige aufgeführten Daten dem zuständigen Träger der gesetzlichen Unfallversicherung durch die Ärztinnen und Ärzte sowie die Zahnärztinnen und Zahnärzte bereits im Rahmen eines anderen Meldeverfahrens übermittelt worden sind, ist eine erneute Übermittlung der Daten durch eine Anzeige nach Satz 1 entbehrlich.
 
 (2) Die Unternehmer haben bei Anhaltspunkten für das Vorliegen einer Berufskrankheit die Anzeige nach § 193 Abs. 2 des Siebten Buches Sozialgesetzbuch auf einem Vordruck nach dem Muster der Anlage 4 zu erstatten.
 
@@ -51,22 +51,22 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2016, 3098)
 
-<a href="../normengrafiken/bgbl1_2016/j3097-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0192_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2
 
 (Fundstelle: BGBl. I 2016, 3099)
 
-<a href="../normengrafiken/bgbl1_2016/j3097-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0192_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3
 
 (Fundstelle: BGBl. I 2016, 3100)
 
-<a href="../normengrafiken/bgbl1_2016/j3097-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0192_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 4
 
 (Fundstelle: BGBl. I 2016, 3101)
 
-<a href="../normengrafiken/bgbl1_2016/j3097-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2023/j0192_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>

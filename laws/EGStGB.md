@@ -182,7 +182,7 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 
 (2) Durch die freie Arbeit wird kein Arbeitsverhältnis im Sinne des Arbeitsrechts und kein Beschäftigungsverhältnis im Sinne der Sozialversicherung, einschließlich der Arbeitslosenversicherung, oder des Steuerrechts begründet. Die Vorschriften über den Arbeitsschutz finden sinngemäße Anwendung.
 
-(3) Absatz 2 gilt entsprechend für freie Arbeit, die aufgrund einer Anordnung im Gnadenwege ausgeübt wird sowie für gemeinnützige Leistungen und Arbeitsleistungen nach § 56b Abs. 2 Satz 1 Nr. 3 des Strafgesetzbuches, § 153a Abs. 1 Satz 1 Nr. 3 der Strafprozeßordnung, § 10 Abs. 1 Satz 3 Nr. 4 und § 15 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes und § 98 Abs. 1 Satz 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten oder aufgrund einer vom Gesetz vorgesehenen entsprechenden Anwendung der genannten Vorschriften.
+(3) Absatz 1 Satz 3 und Absatz 2 gelten entsprechend für freie Arbeit, die aufgrund einer Anordnung im Gnadenwege ausgeübt wird, Absatz 2 gilt entsprechend für gemeinnützige Leistungen und Arbeitsleistungen nach § 56b Abs. 2 Satz 1 Nr. 3 und § 59a Absatz 2 Satz 1 Nummer 4 des Strafgesetzbuches, § 153a Abs. 1 Satz 1 Nr. 3 der Strafprozeßordnung, § 10 Abs. 1 Satz 3 Nr. 4 und § 15 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes und § 98 Abs. 1 Satz 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten oder aufgrund einer vom Gesetz vorgesehenen entsprechenden Anwendung der genannten Vorschriften.
 
 # Art 294 – Gerichtshilfe
 
