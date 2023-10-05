@@ -841,6 +841,7 @@
 - [BinSchUO2018Anh V](laws/BinSchUO2018Anh_V.md) Nationale Muster (Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchUO2018Anh VII](laws/BinSchUO2018Anh_VII.md) Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung (Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchZV](laws/BinSchZV.md) Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)
+- [Bio-AHVV](laws/Bio-AHVV.md) Verordnung zur Regelung der Produktion, der Kontrolle und der Kennzeichnung von Bio-Zutaten und Bio-Erzeugnissen sowie zur Auszeichnung des Gesamtanteils an Bio-Lebensmitteln in gemeinschaftlichen Verpflegungseinrichtungen
 - [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf Böden 1, 2,
 - [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen
 - [BiomasseV](laws/BiomasseV.md) Verordnung über die Erzeugung von Strom aus Biomasse

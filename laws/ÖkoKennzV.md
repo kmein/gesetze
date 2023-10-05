@@ -53,7 +53,7 @@ angepriesen wird.
 
 # § 3 – Anzeigepflicht
 
-(1) Wer für Erzeugnisse nach § 1 Abs. 1 des Öko-Kennzeichengesetzes das Öko-Kennzeichen verwenden will, hat dies der Bundesanstalt für landwirtschaft und Ernährung vor dem erstmaligen Verwenden anzuzeigen. Die Anzeige ist nach dem Muster des Formblattes in Anlage 2 vorzunehmen.
+(1) Wer für Erzeugnisse nach § 1 Abs. 1 des Öko-Kennzeichengesetzes das Öko-Kennzeichen verwenden will, hat dies der Bundesanstalt für landwirtschaft und Ernährung vor dem erstmaligen Verwenden anzuzeigen. Die Anzeige ist nach dem Muster des Formblattes in Anlage 2 vorzunehmen. Abweichend von den Sätzen 1 und 2 kann eine Anzeige auch elektronisch über eine Registrierung in der Bio-Siegel-Datenbank erfolgen.
 
 (2) Wer vor dem Inkrafttreten dieser Verordnung das beim Deutschen Patent- und Markenamt unter der Registernummer 301 41 473 eingetragene Öko-Kennzeichen verwendet hat, hat die Anzeige nach Absatz 1 bis zum 1. Juni 2002 zu erstatten.
 
