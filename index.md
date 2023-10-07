@@ -3088,6 +3088,7 @@
 - [KBNAnrG](laws/KBNAnrG.md) Gesetz zur Nichtanrechnung und Nichtberücksichtigung des Kinderbonus
 - [KBV](laws/KBV.md) Kleinbetragsverordnung
 - [KDAV](laws/KDAV.md) Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes
+- [KDV](laws/KDV.md) Verordnung zur Krisendestillation von Wein
 - [KDVErstattV](laws/KDVErstattV.md) Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
 - [KDVG](laws/KDVG.md) Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen
 - [KEPFachAusbV](laws/KEPFachAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen
