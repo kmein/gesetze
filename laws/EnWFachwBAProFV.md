@@ -481,6 +481,8 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundke
 
 (Fundstelle: BGBl. 2023 I Nr. 256, S. 10)
 
+ 
+
 1. Bezeichnung der ausstellenden Behörde,
 
 2. Name und Geburtsdatum der geprüften Person,
