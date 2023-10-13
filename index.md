@@ -3682,7 +3682,6 @@
 - [MetblMstrV](laws/MetblMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Metallblasinstrumentenmacher-Handwerk
 - [MetTechAusbV](laws/MetTechAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
-- [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
 - [MForschG](laws/MForschG.md) Gesetz über die Durchführung wissenschaftlicher Meeresforschung
 - [MfSÜPrRLBek 2022](laws/MfSÜPrRLBek_2022.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
 - [MgFSG](laws/MgFSG.md) Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung
@@ -5862,6 +5861,7 @@
 - [VbrInsFV](laws/VbrInsFV.md) Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren
 - [VBVG](laws/VBVG.md) Gesetz über die Vergütung von Vormündern und Betreuern
 - [VDG](laws/VDG.md) Vertrauensdienstegesetz
+- [VDuG](laws/VDuG.md) Gesetz zur gebündelten Durchsetzung von Verbraucherrechten
 - [VDV](laws/VDV.md) Verordnung zu Vertrauensdiensten 1, 2
 - [VEPPGewG](laws/VEPPGewG.md) Gesetz über die Gewährung einer einmaligen Energiepreispauschale an Versorgungsempfängerinnen und Versorgungsempfänger des Bundes
 - [VeranstFachwPrV](laws/VeranstFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
@@ -5995,6 +5995,7 @@
 - [VKFVÄndBek 2021](laws/VKFVÄndBek_2021.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2022](laws/VKFVÄndBek_2022.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2023](laws/VKFVÄndBek_2023.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
+- [VKRegV](laws/VKRegV.md) Verordnung über das Register für Verbandsklagen
 - [VKVV](laws/VKVV.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
 - [VMordKonv](laws/VMordKonv.md) Konvention über die Verhütung und Bestrafung des Völkermordes
 - [VNTerrorÜbk](laws/VNTerrorÜbk.md) Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen

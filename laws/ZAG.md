@@ -1223,7 +1223,7 @@ Der Betreiber eines Zahlungssystems darf objektive Bedingungen für eine Teilnah
 
 1. die Industrie- und Handelskammern;
 
-2. qualifizierte Einrichtungen nach § 3 Absatz 1 Nummer 1 des Unterlassungsklagengesetzes;
+2. Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes und
 
 3. rechtsfähige Verbände zur Förderung gewerblicher Interessen,
 

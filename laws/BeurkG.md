@@ -265,15 +265,15 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 
 Erfolgt die Beurkundung mittels Videokommunikation, soll sich der Notar Gewissheit über die Person der Beteiligten anhand eines ihm elektronisch übermittelten Lichtbildes sowie anhand eines der folgenden Nachweise oder Mittel verschaffen:
 
-1. eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes oder
+1. eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes, der auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert wurde, oder
 
 2. eines elektronischen Identifizierungsmittels, das von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurde und das
 
-a) für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) anerkannt ist und
+a) für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 anerkannt ist und
 
 b) auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert wurde.
 
-Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des betreffenden Beteiligten nebst Vornamen, Familienname und Tag der Geburt aus dem elektronischen Speicher- und Verarbeitungsmedium eines von Deutschland ausgegebenen Personalausweises, Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung eines Lichtbildes nicht erforderlich.
+Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des betreffenden Beteiligten nebst Vornamen, Familienname, Tag der Geburt, ausstellendem Staat, Dokumentenart, Gültigkeitsdauer sowie derjenigen Daten, die zur Überprüfung der Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung eines Lichtbildes nicht erforderlich.
 
 # § 16d – Nachweise für die Vertretungsberechtigung bei elektronischen Niederschriften
 

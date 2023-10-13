@@ -1,4 +1,4 @@
-% Verordnung über das Register für Musterfeststellungsklagen  (Musterfeststellungsklagenregister-Verordnung - MFKRegV)
+% Verordnung über das Register für Verbandsklagen  (Verbandsklageregisterverordnung - VKRegV)
 % Ausfertigungsdatum: 24.10.2018
  
 # Eingangsformel

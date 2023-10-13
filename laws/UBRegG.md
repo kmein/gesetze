@@ -137,7 +137,7 @@ dd)
 Vollstreckungsverfahren, in denen das Bundesamt für Justiz Vollstreckungsbehörde nach § 2 Absatz 2 des Justizbeitreibungsgesetzes ist,
 
 ee)  
-Verfahren der Eintragung in die Liste der qualifizierten Einrichtungen nach § 4 Absatz 2 des Unterlassungsklagengesetzes sowie nach § 8b Absatz 2 des Gesetzes gegen den unlauteren Wettbewerb sowie Unternehmensdaten von Luftfahrtunternehmen und der Überprüfung dieser Eintragung nach § 4a Absatz 1 des Unterlassungsklagengesetzes sowie nach § 8b Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb,
+Verfahren zur Eintragung in die Listen nach den §§ 4 und 4d des Unterlassungsklagengesetzes und nach § 8b des Gesetzes gegen den unlauteren Wettbewerb sowie Verfahren zur Überprüfung der Eintragungen in diesen Listen,
 
 6. an die Deutsche Gesetzliche Unfallversicherung e. V. zur Pflege der Daten im zentralen Unternehmerverzeichnis der gesetzlichen Unfallversicherung (§ 136a des Siebten Buches Sozialgesetzbuch),
 
