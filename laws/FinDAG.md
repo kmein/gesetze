@@ -343,7 +343,7 @@ Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der Bundesanstalt u
 
 # § 4b – Beschwerden
 
-(1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht der Bundesanstalt unterliegen, und qualifizierte Einrichtungen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können wegen behaupteter Verstöße gegen Bestimmungen, deren Einhaltung die Bundesanstalt überwacht, Beschwerde bei der Bundesanstalt einlegen, sofern im jeweiligen Aufsichtsgesetz kein spezielles Beschwerdeverfahren vorgesehen ist.
+(1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht der Bundesanstalt unterliegen, und Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können wegen behaupteter Verstöße gegen Bestimmungen, deren Einhaltung die Bundesanstalt überwacht, Beschwerde bei der Bundesanstalt einlegen, sofern im jeweiligen Aufsichtsgesetz kein spezielles Beschwerdeverfahren vorgesehen ist.
 
 (2) Die Beschwerden sind in Schrift- oder Textform bei der Bundesanstalt einzulegen und sollen den Sachverhalt sowie den Beschwerdegrund enthalten.
 

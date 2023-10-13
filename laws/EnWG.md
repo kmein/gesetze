@@ -6475,7 +6475,7 @@ Die bei der Vollstreckung notwendig werdenden gerichtlichen Entscheidungen (§ 1
 
 # § 106 – Zuständiger Senat beim Oberlandesgericht
 
-(1) Die nach § 91 des Gesetzes gegen Wettbewerbsbeschränkungen bei den Oberlandesgerichten gebildeten Kartellsenate entscheiden über die nach diesem Gesetz den Oberlandesgerichten zugewiesenen Rechtssachen sowie in den Fällen des § 102 über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten.
+(1) Die nach § 91 des Gesetzes gegen Wettbewerbsbeschränkungen bei den Oberlandesgerichten gebildeten Kartellsenate entscheiden über die nach diesem Gesetz den Oberlandesgerichten zugewiesenen Rechtssachen, in den Fällen des § 102 über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten sowie über Verbandsklagen nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und Rechtsverhältnisse in den in § 102 aufgeführten bürgerlichen Rechtsstreitigkeiten betreffen.
 
 (2) Die §§ 92 und 93 des Gesetzes gegen Wettbewerbsbeschränkungen gelten entsprechend.
 
@@ -6495,7 +6495,13 @@ a) über die Revision einschließlich der Nichtzulassungsbeschwerde gegen Endurt
 
 b) über die Sprungrevision gegen Endurteile der Landgerichte,
 
-c) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Abs. 1 der Zivilprozessordnung.
+c) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Abs. 1 der Zivilprozessordnung;
+
+4. in Verbandsklageverfahren nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und Rechtsverhältnisse in den in § 102 aufgeführten bürgerlichen Rechtsstreitigkeiten betreffen,
+
+a) über die Revision gegen Urteile der Oberlandesgerichte und
+
+b) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Absatz 1 der Zivilprozessordnung.
 
 (2) § 94 Abs. 2 des Gesetzes gegen Wettbewerbsbeschränkungen gilt entsprechend.
 
