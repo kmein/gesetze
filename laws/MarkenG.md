@@ -2716,7 +2716,15 @@ Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder Lebensmittel, di
 
 # § 135 – Ansprüche wegen Verletzung
 
-(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht. Die §§ 18, 19, 19a und 19c gelten entsprechend.
+(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht. Die Ansprüche nach Satz 1 stehen zu
+
+1. den nach § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten,
+
+2. Vereinigungen im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 1151/2012,
+
+3. anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von Erzeugerorganisationen und anerkannten Branchenverbänden im Sinne der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist, in ihrer jeweils geltenden Fassung, wenn deren Zielsetzung auch den Schutz gegen Verstöße nach Artikel 13 der Verordnung (EU) Nr. 1151/2012 umfasst.
+
+Die §§ 18, 19, 19a und 19c gelten entsprechend.
 
 (2) § 128 Abs. 2 und 3 gilt entsprechend.
 

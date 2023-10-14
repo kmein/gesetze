@@ -102,7 +102,7 @@ Zuständig ist das Amtsgericht, in dessen Bezirk sich die zuständige Behörde b
 
 # § 7 – Beauftragung Dritter
 
-(1) Die nach § 2 Nummer 1, 2 oder 2a zuständige Behörde soll bei Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der Verordnung (EU) 2017/2394 eine in § 3 Abs. 1 Satz 1 Nr. 1 bis 3 des Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2 bis 4 des Gesetzes gegen den unlauteren Wettbewerb genannte Stelle (beauftragter Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 4e des Unterlassungsklagengesetzes, auch in Verbindung mit § 8 Abs. 5 Satz 2 zweiter Halbsatz des Gesetzes gegen den unlauteren Wettbewerb, auf das Abstellen dieser Verstöße hinzuwirken. Der beauftragte Dritte handelt im eigenen Namen.
+(1) Die nach § 2 Nummer 1, 2 oder 2a zuständige Behörde soll bei Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der Verordnung (EU) 2017/2394 eine in § 3 Abs. 1 Satz 1 Nr. 1 bis 3 des Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2 bis 4 des Gesetzes gegen den unlauteren Wettbewerb genannte Stelle (beauftragter Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 2a des Unterlassungsklagengesetzes, auch in Verbindung mit § 8 Abs. 5 Satz 2 zweiter Halbsatz des Gesetzes gegen den unlauteren Wettbewerb, auf das Abstellen dieser Verstöße hinzuwirken. Der beauftragte Dritte handelt im eigenen Namen.
 
 (2) Kommt die zuständige Behörde zu der Überzeugung, dass die ordnungsgemäße Erfüllung der Aufgaben nicht mehr gewährleistet ist, so ist die Beauftragung ohne Entschädigung zu widerrufen.
 

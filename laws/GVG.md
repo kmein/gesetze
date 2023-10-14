@@ -1204,7 +1204,7 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 (2) § 23b Absatz 1, 2 und 3 Satz 3 und 4 gilt entsprechend.
 
-(3) In Zivilsachen sind Oberlandesgerichte ferner zuständig für die Verhandlung und Entscheidung von Musterfeststellungsverfahren nach Buch 6 der Zivilprozessordnung im ersten Rechtszug. Ein Land, in dem mehrere Oberlandesgerichte errichtet sind, kann durch Rechtsverordnung der Landesregierung einem Oberlandesgericht die Entscheidung und Verhandlung für die Bezirke mehrerer Oberlandesgerichte oder dem Obersten Landesgericht zuweisen, sofern die Zuweisung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(3) (weggefallen)
 
 # § 119a
 

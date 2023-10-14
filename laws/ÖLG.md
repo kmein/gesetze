@@ -97,7 +97,9 @@ Gelangen der zuständigen Behörde des Landes, in dem der Sitz oder die Niederla
 
 1. die Kontrollstelle zur Gewährleistung objektiver und wirksamer Kontrollen ein berechtigtes Interesse hat, die Tätigkeit des Unternehmens nicht in ihre Kontrollen einzubeziehen und
 
-2. das Durchführen der Kontrollen für das Unternehmen durch eine andere Kontrollstelle sichergestellt ist. Die Kontrollstelle hat die zuständige Behörde unverzüglich über die Entscheidung, das Kontrollverhältnis mit einem Unternehmer zu beenden, zu unterrichten.
+2. das Durchführen der Kontrollen für das Unternehmen durch eine andere Kontrollstelle sichergestellt ist.
+
+Die Kontrollstelle hat die zuständige Behörde unverzüglich über die Entscheidung, das Kontrollverhältnis mit einem Unternehmer zu beenden, zu unterrichten.
 
 (2) Die Kontrollstelle hat ein Verzeichnis der in ihre Kontrolle einbezogenen Unternehmen nach Maßgabe der Sätze 3 und 4 zu führen und der Öffentlichkeit im Internet zugänglich zu machen. Die Kontrollstelle hat jede Änderung unverzüglich, spätestens am Tage nach dem Wirksamwerden einer Änderung, in dem Verzeichnis einzutragen und zeitgleich nach Maßgabe der Sätze 3 und 4 zu veröffentlichen. Das Verzeichnis muss folgende Angaben enthalten:
 

@@ -193,10 +193,6 @@ Ausschließlicher Gerichtsstand der Umwelteinwirkung
 
 Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
 
-§ 32c
-
-Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
-
 § 33
 
 Besonderer Gerichtsstand der Widerklage
@@ -2879,45 +2875,9 @@ Scheckprozess
 
 Buch 6
 
-Musterfeststellungsverfahren
+(weggefallen)
 
-§ 606
-
-Musterfeststellungsklage
-
-§ 607
-
-Bekanntmachung der Musterfeststellungsklage
-
-§ 608
-
-Anmeldung von Ansprüchen oder Rechtsverhältnissen
-
-§ 609
-
-Klageregister; Verordnungsermächtigung
-
-§ 610
-
-Besonderheiten der Musterfeststellungsklage
-
-§ 611
-
-Vergleich
-
-§ 612
-
-Bekanntmachungen zum Musterfeststellungsurteil
-
-§ 613
-
-Bindungswirkung des Musterfeststellungsurteils; Aussetzung
-
-§ 614
-
-Rechtsmittel
-
-§ 615 bis 687
+§ 606 bis 687
 
 (weggefallen)
 
@@ -5333,10 +5293,6 @@ geltend gemacht wird, ist das Gericht ausschließlich am Sitz des betroffenen Em
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke mehrerer Landgerichte zuzuweisen, sofern dies der sachlichen Förderung oder schnelleren Erledigung der Verfahren dienlich ist. Die Landesregierungen können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-# § 32c – Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
-
-Für Klagen in Musterfeststellungsverfahren nach Buch 6 ist das Gericht des allgemeinen Gerichtsstands des Beklagten ausschließlich zuständig, sofern sich dieser im Inland befindet.
-
 # § 33 – Besonderer Gerichtsstand der Widerklage
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch oder mit den gegen ihn vorgebrachten Verteidigungsmitteln in Zusammenhang steht.
@@ -6322,7 +6278,9 @@ Das Gericht kann die Verbindung mehrerer bei ihm anhängiger Prozesse derselben 
 
 (1) Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
-(2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits von Feststellungszielen abhängt, die den Gegenstand eines anhängigen Musterfeststellungsverfahrens bilden, auf Antrag des Klägers, der nicht Verbraucher ist, anordnen, dass die Verhandlung bis zur Erledigung des Musterfeststellungsverfahrens auszusetzen sei.
+(2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen von Rechtsverhältnissen oder Rechtsfragen abhängt, die Gegenstand einer Verbandsklage nach dem Verbraucherrechtedurchsetzungsgesetz sind, auf Antrag des Klägers, der nicht Verbraucher oder nach diesem Gesetz einem Verbraucher gleichgestellt ist, anordnen, dass die Verhandlung bis zur rechtskräftigen Entscheidung oder sonstigen Erledigung des Verbandsklageverfahrens auszusetzen sei.
+
+(3) Das Gericht kann, wenn eine für die Entscheidung des Rechtsstreits erhebliche Beweisfrage bereits Gegenstand einer schriftlichen Begutachtung durch einen in einem anderen Verfahren ernannten Sachverständigen ist, anordnen, dass die Verhandlung bis zur Vorlage des nach § 411a verwertbaren Gutachtens ausgesetzt wird.
 
 # § 149 – Aussetzung bei Verdacht einer Straftat
 
@@ -6484,7 +6442,7 @@ Die Beachtung der für die Verhandlung vorgeschriebenen Förmlichkeiten kann nur
 
 # § 167 – Rückwirkung der Zustellung
 
-Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beginnen oder nach § 204 des Bürgerlichen Gesetzbuchs gehemmt werden, tritt diese Wirkung bereits mit Eingang des Antrags oder der Erklärung ein, wenn die Zustellung demnächst erfolgt.
+Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beginnen oder nach § 204 oder § 204a des Bürgerlichen Gesetzbuchs gehemmt werden, tritt diese Wirkung bereits mit Eingang des Antrags oder der Erklärung ein, wenn die Zustellung demnächst erfolgt.
 
 # § 168 – Aufgaben der Geschäftsstelle
 
@@ -9714,155 +9672,7 @@ Werden im Urkundenprozess Ansprüche aus Wechseln im Sinne des Wechselgesetzes g
 
 Werden im Urkundenprozess Ansprüche aus Schecks im Sinne des Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis 605 entsprechend anzuwenden.
 
-# § 606 – Musterfeststellungsklage
-
-(1) Mit der Musterfeststellungsklage können qualifizierte Einrichtungen die Feststellung des Vorliegens oder Nichtvorliegens von tatsächlichen und rechtlichen Voraussetzungen für das Bestehen oder Nichtbestehen von Ansprüchen oder Rechtsverhältnissen (Feststellungsziele) zwischen Verbrauchern und einem Unternehmer begehren. Qualifizierte Einrichtungen im Sinne von Satz 1 sind die in § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes bezeichneten Stellen, die
-
-1. als Mitglieder mindestens zehn Verbände, die im gleichen Aufgabenbereich tätig sind, oder mindestens 350 natürliche Personen haben,
-
-2. mindestens vier Jahre in der Liste nach § 4 des Unterlassungsklagengesetzes oder dem Verzeichnis der Europäischen Kommission nach Artikel 4 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) eingetragen sind,
-
-3. in Erfüllung ihrer satzungsmäßigen Aufgaben Verbraucherinteressen weitgehend durch nicht gewerbsmäßige aufklärende oder beratende Tätigkeiten wahrnehmen,
-
-4. Musterfeststellungsklagen nicht zum Zwecke der Gewinnerzielung erheben und
-
-5. nicht mehr als 5 Prozent ihrer finanziellen Mittel durch Zuwendungen von Unternehmen beziehen.
-
-Bestehen ernsthafte Zweifel daran, dass die Voraussetzungen nach Satz 2 Nummer 4 oder 5 vorliegen, verlangt das Gericht vom Kläger die Offenlegung seiner finanziellen Mittel. Es wird unwiderleglich vermutet, dass Verbraucherzentralen und andere Verbraucherverbände, die überwiegend mit öffentlichen Mitteln gefördert werden, die Voraussetzungen des Satzes 2 erfüllen.
-
-(2) Die Klageschrift muss Angaben und Nachweise darüber enthalten, dass
-
-1. die in Absatz 1 Satz 2 genannten Voraussetzungen vorliegen;
-
-2. von den Feststellungszielen die Ansprüche oder Rechtsverhältnisse von mindestens zehn Verbrauchern abhängen.
-
-Die Klageschrift soll darüber hinaus für den Zweck der Bekanntmachung im Klageregister eine kurze Darstellung des vorgetragenen Lebenssachverhaltes enthalten. § 253 Absatz 2 bleibt unberührt.
-
-(3) Die Musterfeststellungsklage ist nur zulässig, wenn
-
-1. sie von einer qualifizierten Einrichtung im Sinne des Absatzes 1 Satz 2 erhoben wird,
-
-2. glaubhaft gemacht wird, dass von den Feststellungszielen die Ansprüche oder Rechtsverhältnisse von mindestens zehn Verbrauchern abhängen und
-
-3. zwei Monate nach öffentlicher Bekanntmachung der Musterfeststellungsklage mindestens 50 Verbraucher ihre Ansprüche oder Rechtsverhältnisse zur Eintragung in das Klageregister wirksam angemeldet haben.
-
-# § 607 – Bekanntmachung der Musterfeststellungsklage
-
-(1) Die Musterfeststellungsklage ist im Klageregister mit folgenden Angaben öffentlich bekannt zu machen:
-
-1. Bezeichnung der Parteien,
-
-2. Bezeichnung des Gerichts und des Aktenzeichens der Musterfeststellungsklage,
-
-3. Feststellungsziele,
-
-4. kurze Darstellung des vorgetragenen Lebenssachverhaltes,
-
-5. Zeitpunkt der Bekanntmachung im Klageregister,
-
-6. Befugnis der Verbraucher, Ansprüche oder Rechtsverhältnisse, die von den Feststellungszielen abhängen, zur Eintragung in das Klageregister anzumelden, Form, Frist und Wirkung der Anmeldung sowie ihrer Rücknahme,
-
-7. Wirkung eines Vergleichs, Befugnis der angemeldeten Verbraucher zum Austritt aus dem Vergleich sowie Form, Frist und Wirkung des Austritts,
-
-8. Verpflichtung des Bundesamts für Justiz, nach rechtskräftigem Abschluss des Musterfeststellungsverfahrens jedem angemeldeten Verbraucher auf dessen Verlangen einen schriftlichen Auszug über die Angaben zu überlassen, die im Klageregister zu ihm und seiner Anmeldung erfasst sind.
-
-(2) Das Gericht veranlasst innerhalb von 14 Tagen nach Erhebung der Musterfeststellungklage deren öffentliche Bekanntmachung, wenn die Klageschrift die nach § 606 Absatz 2 Satz 1 vorgeschriebenen Anforderungen erfüllt.
-
-(3) Das Gericht veranlasst unverzüglich die öffentliche Bekanntmachung seiner Terminbestimmungen, Hinweise und Zwischenentscheidungen im Klageregister, wenn dies zur Information der Verbraucher über den Fortgang des Verfahrens erforderlich ist. Die öffentliche Bekanntmachung von Terminen muss spätestens eine Woche vor dem jeweiligen Terminstag erfolgen. Das Gericht veranlasst ferner unverzüglich die öffentliche Bekanntmachung einer Beendigung des Musterfeststellungsverfahrens; die Vorschriften der §§ 611, 612 bleiben hiervon unberührt.
-
-# § 608 – Anmeldung von Ansprüchen oder Rechtsverhältnissen
-
-(1) Bis zum Ablauf des Tages vor Beginn des ersten Termins können Verbraucher Ansprüche oder Rechtsverhältnisse, die von den Feststellungszielen abhängen, zur Eintragung in das Klageregister anmelden.
-
-(2) Die Anmeldung ist nur wirksam, wenn sie frist- und formgerecht erfolgt und folgende Angaben enthält:
-
-1. Name und Anschrift des Verbrauchers,
-
-2. Bezeichnung des Gerichts und Aktenzeichen der Musterfeststellungsklage,
-
-3. Bezeichnung des Beklagten der Musterfeststellungsklage,
-
-4. Gegenstand und Grund des Anspruchs oder des Rechtsverhältnisses des Verbrauchers,
-
-5. Versicherung der Richtigkeit und Vollständigkeit der Angaben.
-
-Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten. Die Angaben der Anmeldung werden ohne inhaltliche Prüfung in das Klageregister eingetragen.
-
-(3) Die Anmeldung kann bis zum Ablauf des Tages des Beginns der mündlichen Verhandlung in der ersten Instanz zurückgenommen werden.
-
-(4) Anmeldung und Rücknahme sind in Textform gegenüber dem Bundesamt für Justiz zu erklären.
-
-# § 609 – Klageregister; Verordnungsermächtigung
-
-(1) Klageregister ist das Register für Musterfeststellungsklagen. Es wird vom Bundesamt für Justiz geführt und kann elektronisch betrieben werden.
-
-(2) Bekanntmachungen und Eintragungen nach den §§ 607 und 608 sind unverzüglich vorzunehmen. Die im Klageregister zu einer Musterfeststellungsklage erfassten Angaben sind bis zum Schluss des dritten Jahres nach rechtskräftigem Abschluss des Verfahrens aufzubewahren.
-
-(3) Öffentliche Bekanntmachungen können von jedermann unentgeltlich im Klageregister eingesehen werden.
-
-(4) Nach § 608 angemeldete Verbraucher können vom Bundesamt für Justiz Auskunft über die zu ihrer Anmeldung im Klageregister erfassten Angaben verlangen. Nach rechtskräftigem Abschluss des Musterfeststellungsverfahrens hat das Bundesamt für Justiz einem angemeldeten Verbraucher auf dessen Verlangen einen schriftlichen Auszug über die Angaben zu überlassen, die im Klageregister zu ihm und seiner Anmeldung erfasst sind.
-
-(5) Das Bundesamt für Justiz hat dem Gericht der Musterfeststellungsklage auf dessen Anforderung einen Auszug aller im Klageregister zu der Musterfeststellungsklage erfassten Angaben über die Personen zu übersenden, die bis zum Ablauf des in § 606 Absatz 3 Nummer 3 genannten Tages zur Eintragung in das Klageregister angemeldet sind. Das Gericht übermittelt den Parteien formlos eine Abschrift des Auszugs.
-
-(6) Das Bundesamt für Justiz hat den Parteien auf deren Anforderung einen schriftlichen Auszug aller im Klageregister zu der Musterfeststellungsklage erfassten Angaben über die Personen zu überlassen, die sich bis zu dem in § 608 Absatz 1 genannten Tag zur Eintragung in das Klageregister angemeldet haben.
-
-(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Bestimmungen über Inhalt, Aufbau und Führung des Klageregisters, die Einreichung, Eintragung, Änderung und Vernichtung der im Klageregister erfassten Angaben, die Erteilung von Auszügen aus dem Klageregister sowie die Datensicherheit und Barrierefreiheit zu treffen.
-
-# § 610 – Besonderheiten der Musterfeststellungsklage
-
-(1) Ab dem Tag der Rechtshängigkeit der Musterfeststellungsklage kann gegen den Beklagten keine andere Musterfeststellungsklage erhoben werden, soweit deren Streitgegenstand denselben Lebenssachverhalt und dieselben Feststellungsziele betrifft. Die Wirkung von Satz 1 entfällt, sobald die Musterfeststellungsklage ohne Entscheidung in der Sache beendet wird.
-
-(2) Werden am selben Tag mehrere Musterfeststellungsklagen, deren Streitgegenstand denselben Lebenssachverhalt und dieselben Feststellungsziele betrifft, bei Gericht eingereicht, findet § 147 Anwendung.
-
-(3) Während der Rechtshängigkeit der Musterfeststellungsklage kann ein angemeldeter Verbraucher gegen den Beklagten keine Klage erheben, deren Streitgegenstand denselben Lebenssachverhalt und dieselben Feststellungsziele betrifft.
-
-(4) Das Gericht hat spätestens im ersten Termin zur mündlichen Verhandlung auf sachdienliche Klageanträge hinzuwirken.
-
-(5) Auf die Musterfeststellungsklage sind die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften entsprechend anzuwenden, soweit sich aus den Vorschriften dieses Buches nicht Abweichungen ergeben. Nicht anzuwenden sind § 128 Absatz 2, § 278 Absatz 2 bis 5 sowie die §§ 306 und 348 bis 350.
-
-(6) Die §§ 66 bis 74 finden keine Anwendung im Verhältnis zwischen den Parteien der Musterfeststellungsklage und Verbrauchern, die
-
-1. einen Anspruch oder ein Rechtsverhältnis angemeldet haben oder
-
-2. behaupten, entweder einen Anspruch gegen den Beklagten zu haben oder vom Beklagten in Anspruch genommen zu werden oder in einem Rechtsverhältnis zum Beklagten zu stehen.
-
-# § 611 – Vergleich
-
-(1) Ein gerichtlicher Vergleich kann auch mit Wirkung für und gegen die angemeldeten Verbraucher geschlossen werden.
-
-(2) Der Vergleich soll Regelungen enthalten über
-
-1. die auf die angemeldeten Verbraucher entfallenden Leistungen,
-
-2. den von den angemeldeten Verbrauchern zu erbringenden Nachweis der Leistungsberechtigung,
-
-3. die Fälligkeit der Leistungen und
-
-4. die Aufteilung der Kosten zwischen den Parteien.
-
-(3) Der Vergleich bedarf der Genehmigung durch das Gericht. Das Gericht genehmigt den Vergleich, wenn es ihn unter Berücksichtigung des bisherigen Sach- und Streitstandes als angemessene gütliche Beilegung des Streits oder der Ungewissheit über die angemeldeten Ansprüche oder Rechtsverhältnisse erachtet. Die Genehmigung ergeht durch unanfechtbaren Beschluss.
-
-(4) Den zum Zeitpunkt der Genehmigung angemeldeten Verbrauchern wird der genehmigte Vergleich mit einer Belehrung über dessen Wirkung, über ihr Recht zum Austritt aus dem Vergleich sowie über die einzuhaltende Form und Frist zugestellt. Jeder Verbraucher kann innerhalb einer Frist von einem Monat nach Zustellung des genehmigten Vergleichs seinen Austritt aus dem Vergleich erklären. Der Austritt muss bei dem Gericht schriftlich oder zu Protokoll der Geschäftsstelle erklärt werden. Durch den Austritt wird die Wirksamkeit der Anmeldung nicht berührt.
-
-(5) Der genehmigte Vergleich wird wirksam, wenn weniger als 30 Prozent der angemeldeten Verbraucher ihren Austritt aus dem Vergleich erklärt haben. Das Gericht stellt durch unanfechtbaren Beschluss den Inhalt und die Wirksamkeit des genehmigten Vergleichs fest. Der Beschluss ist im Klageregister öffentlich bekannt zu machen. Mit der Bekanntmachung des Beschlusses wirkt der Vergleich für und gegen diejenigen angemeldeten Verbraucher, die nicht ihren Austritt erklärt haben.
-
-(6) Der Abschluss eines gerichtlichen Vergleichs vor dem ersten Termin ist unzulässig.
-
-# § 612 – Bekanntmachungen zum Musterfeststellungsurteil
-
-(1) Das Musterfeststellungsurteil ist nach seiner Verkündung im Klageregister öffentlich bekannt zu machen.
-
-(2) Die Einlegung eines Rechtsmittels gegen das Musterfeststellungsurteil ist im Klageregister öffentlich bekannt zu machen. Dasselbe gilt für den Eintritt der Rechtskraft des Musterfeststellungsurteils.
-
-# § 613 – Bindungswirkung des Musterfeststellungsurteils; Aussetzung
-
-(1) Das rechtskräftige Musterfeststellungsurteil bindet das zur Entscheidung eines Rechtsstreits zwischen einem angemeldeten Verbraucher und dem Beklagten berufene Gericht, soweit dessen Entscheidung die Feststellungsziele und den Lebenssachverhalt der Musterfeststellungsklage betrifft. Dies gilt nicht, wenn der angemeldete Verbraucher seine Anmeldung wirksam zurückgenommen hat.
-
-(2) Hat ein Verbraucher vor der Bekanntmachung der Angaben zur Musterfeststellungsklage im Klageregister eine Klage gegen den Beklagten erhoben, die die Feststellungsziele und den Lebenssachverhalt der Musterfeststellungsklage betrifft, und meldet er seinen Anspruch oder sein Rechtsverhältnis zum Klageregister an, so setzt das Gericht das Verfahren bis zur rechtskräftigen Entscheidung oder sonstigen Erledigung der Musterfeststellungsklage oder wirksamen Rücknahme der Anmeldung aus.
-
-# § 614 – Rechtsmittel
-
-Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache hat stets grundsätzliche Bedeutung im Sinne des § 543 Absatz 2 Nummer 1.
+# §§ 606 bis 614 – (weggefallen)
 
 # §§ 615 bis 687 – (weggefallen)
 

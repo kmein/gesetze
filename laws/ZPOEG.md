@@ -346,3 +346,11 @@ Die Länder übermitteln dem Bundesministerium der Justiz und für Verbrauchersc
 (1) Verfahren über die Anpassung der Miete oder Pacht für Grundstücke oder Räume, die keine Wohnräume sind, wegen staatlicher Maßnahmen zur Bekämpfung der COVID-19-Pandemie sind vorrangig und beschleunigt zu behandeln.
 
 (2) In Verfahren nach Absatz 1 soll ein früher erster Termin spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
+
+# § 45 – (zukünftig in Kraft)
+
+(+++ § 45: Tritt gem. Art. 33 G v. 10.08.2021 I 3436 mWv 1.1.2024 zukünftig in Kraft +++)
+
+# § 46 – Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz
+
+Auf eine vor dem 13. Oktober 2023 anhängig gemachte Musterfeststellungsklage sind die §§ 32c und 606 bis 614 der Zivilprozessordnung einschließlich der auf Grund des § 609 Absatz 7 der Zivilprozessordnung erlassenen Musterfeststellungsklagenregister-Verordnung sowie § 119 Absatz 3 des Gerichtsverfassungsgesetzes in der bis einschließlich 12. Oktober 2023 geltenden Fassung anzuwenden.

@@ -1337,7 +1337,7 @@ Schweben zwischen dem Schuldner und dem Gläubiger Verhandlungen über den Anspr
 
 1. die Erhebung der Klage auf Leistung oder auf Feststellung des Anspruchs, auf Erteilung der Vollstreckungsklausel oder auf Erlass des Vollstreckungsurteils,
 
-1a. die Erhebung einer Musterfeststellungsklage für einen Anspruch, den ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam angemeldet hat, wenn dem angemeldeten Anspruch derselbe Lebenssachverhalt zugrunde liegt wie den Feststellungszielen der Musterfeststellungsklage,
+1a. (weggefallen)
 
 2. die Zustellung des Antrags im vereinfachten Verfahren über den Unterhalt Minderjähriger,
 
@@ -1375,9 +1375,53 @@ die Verjährung wird schon durch den Eingang des Antrags bei der Streitbeilegung
 
 14. die Veranlassung der Bekanntgabe des erstmaligen Antrags auf Gewährung von Prozesskostenhilfe oder Verfahrenskostenhilfe; wird die Bekanntgabe demnächst nach der Einreichung des Antrags veranlasst, so tritt die Hemmung der Verjährung bereits mit der Einreichung ein.
 
-(2) Die Hemmung nach Absatz 1 endet sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Beendigung des eingeleiteten Verfahrens. Die Hemmung nach Absatz 1 Nummer 1a endet auch sechs Monate nach der Rücknahme der Anmeldung zum Klageregister. Gerät das Verfahren dadurch in Stillstand, dass die Parteien es nicht betreiben, so tritt an die Stelle der Beendigung des Verfahrens die letzte Verfahrenshandlung der Parteien, des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter betreibt.
+(2) Die Hemmung nach Absatz 1 endet sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Beendigung des eingeleiteten Verfahrens. Gerät das Verfahren dadurch in Stillstand, dass die Parteien es nicht betreiben, so tritt an die Stelle der Beendigung des Verfahrens die letzte Verfahrenshandlung der Parteien, des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter betreibt.
 
 (3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§ 206, 210 und 211 entsprechende Anwendung.
+
+# § 204a – Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qualifizierten Verbraucherverbänden oder qualifizierten Einrichtungen
+
+(1) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer wird auch gehemmt durch:
+
+1. die Zustellung des Antrags auf Erlass einer einstweiligen Verfügung in Bezug auf einen Unterlassungsanspruch gegen den Unternehmer nach den §§ 1, 2 oder 2a des Unterlassungsklagengesetzes oder nach § 8 Absatz 1 des Gesetzes gegen den unlauteren Wettbewerb an den Antragsgegner, wenn
+
+a) der Antrag durch eine Stelle nach § 3 Absatz 1 Satz 1 des Unterlassungsklagengesetzes gestellt wurde und
+
+b) die Ansprüche der Verbraucher gegen den Unternehmer aufgrund der Zuwiderhandlung entstanden sind, gegen die sich der Unterlassungsanspruch richtet,
+
+2. die Erhebung einer Klage zur Durchsetzung von Unterlassungsansprüchen nach Nummer 1 gegen den Unternehmer, wenn
+
+a) die Klage durch eine Stelle nach § 3 Absatz 1 Satz 1 des Unterlassungsklagengesetzes erhoben wurde und
+
+b) die Ansprüche der Verbraucher gegen den Unternehmer aufgrund der Zuwiderhandlung entstanden sind, gegen die sich der Unterlassungsanspruch richtet,
+
+3. die Erhebung einer Musterfeststellungsklage nach dem Verbraucherrechtedurchsetzungsgesetz für die Ansprüche von Verbrauchern, denen derselbe Lebenssachverhalt zugrunde liegt wie den Feststellungszielen der Musterfeststellungsklage, wenn die Verbraucher ihren Anspruch zum Verbandsklageregister anmelden,
+
+4. die Erhebung einer Abhilfeklage nach dem Verbraucherrechtedurchsetzungsgesetz für Ansprüche, die Gegenstand der Abhilfeklage sind, wenn die Verbraucher ihren Anspruch zum Verbandsklageregister anmelden.
+
+Wurde dem Antragsgegner der Antrag auf Erlass einer einstweiligen Verfügung nicht zugestellt, so tritt in Satz 1 Nummer 1 an die Stelle der Zustellung des Antrags die Einreichung des Antrags beim Gericht, sofern dem Antragsgegner die einstweilige Verfügung innerhalb eines Monats nach ihrer Verkündung oder nach ihrer Zustellung an den Antragsteller zugestellt wurde.
+
+(2) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer wird auch gehemmt durch eine anhängige Verbandsklage im Sinne der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) bei einem Gericht oder einer Behörde in einem anderen Mitgliedstaat der Europäischen Union, die
+
+1. auf eine Unterlassungsentscheidung gerichtet ist, wenn
+
+a) die Klage von einer qualifizierten Einrichtung eingereicht wurde,
+
+b) Gegenstand der Klage eine Zuwiderhandlung des Unternehmers gegen solche Verbraucherschutzgesetze ist, die in den Anwendungsbereich der Richtlinie (EU) 2020/1828 fallen, und
+
+c) die Ansprüche der Verbraucher aufgrund derjenigen Zuwiderhandlung des Unternehmers entstanden sind, gegen die sich die Klage richtet,
+
+2. auf eine Abhilfeentscheidung gerichtet ist, wenn
+
+a) die Klage von einer qualifizierten Einrichtung eingereicht wurde,
+
+b) die Ansprüche der Verbraucher Gegenstand der Klage sind und diese Ansprüche aufgrund einer Zuwiderhandlung des Unternehmers gegen solche Verbraucherschutzgesetze entstanden sind, die in den Anwendungsbereich der Richtlinie (EU) 2020/1828 fallen, und
+
+c) die Verbraucher an der Klage teilnehmen.
+
+(3) § 204 Absatz 2 Satz 1 ist entsprechend anzuwenden. Die Hemmung der Verjährung eines Anspruchs eines Verbrauchers nach Absatz 1 Satz 1 Nummer 3 und 4 sowie nach Absatz 2 Nummer 2 endet auch sechs Monate nach dem Zeitpunkt, zu dem der Verbraucher nicht mehr an der Klage teilnimmt, insbesondere durch die Rücknahme der Anmeldung zum Verbandsklageregister.
+
+(4) Absatz 1 Satz 1 Nummer 3 und 4 sowie Absatz 3 sind auch auf solche Unternehmer anzuwenden, die nach § 1 Absatz 2 des Verbraucherrechtedurchsetzungsgesetzes Verbrauchern gleichgestellt werden.
 
 # § 205 – Hemmung der Verjährung bei Leistungsverweigerungsrecht
 

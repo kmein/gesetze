@@ -133,7 +133,7 @@ a) von einem Unternehmerverband oder
 
 b) von einem Unternehmer oder mehreren Unternehmern.
 
-Der Verbraucherverband muss eine qualifizierte Einrichtung nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sein und sich für die Vertretung von Verbraucherinteressen im Zuständigkeitsbereich der Verbraucherschlichtungsstelle fachlich eignen. Die Beteiligung ist in den Regeln über die Organisation der Verbraucherschlichtungsstelle vorzusehen.
+Der Verbraucherverband muss eine Stelle nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sein und sich für die Vertretung von Verbraucherinteressen im Zuständigkeitsbereich der Verbraucherschlichtungsstelle fachlich eignen. Die Beteiligung ist in den Regeln über die Organisation der Verbraucherschlichtungsstelle vorzusehen.
 
 (2) Ist der Träger der Verbraucherschlichtungsstelle ein Verbraucherverband oder wird der Träger der Verbraucherschlichtungsstelle von einem Verbraucherverband ausschließlich oder überwiegend finanziert, ist Absatz 1 Satz 1 und 3 mit der Maßgabe anzuwenden, dass an Stelle des Verbraucherverbands ein Unternehmerverband tritt. Der Unternehmerverband muss sich für die Vertretung von Unternehmerinteressen im Zuständigkeitsbereich der Verbraucherschlichtungsstelle fachlich eignen.
 
@@ -175,7 +175,7 @@ Der Antrag auf Durchführung eines Streitbeilegungsverfahrens, Stellungnahmen, B
 
 2. der streitige Anspruch nicht zuvor gegenüber dem Antragsgegner geltend gemacht worden ist,
 
-3. der streitige Anspruch oder das Rechtsverhältnis des Verbrauchers, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum Klageregister nach § 608 Absatz 1 der Zivilprozessordnung angemeldet ist und die Musterfeststellungsklage noch rechtshängig ist, oder
+3. Ansprüche oder Rechtsverhältnisse, die Gegenstand des Streitbeilegungsverfahrens sind, zu einer Musterfeststellungsklage oder einer Abhilfeklage im Verbandsklageregister angemeldet wurden und die Klage noch rechtshängig ist,
 
 4. der Antrag offensichtlich ohne Aussicht auf Erfolg ist oder mutwillig erscheint, insbesondere weil
 
@@ -359,7 +359,7 @@ Ist eine anerkannte Verbraucherschlichtungsstelle mit der Aufgabe der Universals
 
 1. Streitigkeiten aus einem Verbrauchervertrag nach § 310 Absatz 3 des Bürgerlichen Gesetzbuchs oder über das Bestehen eines solchen Vertragsverhältnisses;
 
-2. Streitigkeiten, zu welchen in einem rechtskräftigen Urteil über eine Musterfeststellungsklage nach § 613 Absatz 1 Satz 1 der Zivilprozessordnung oder einem Vergleich nach § 611 Absatz 1 der Zivilprozessordnung bindende Feststellungen getroffen wurden und zu denen die streitgegenständlichen Ansprüche oder Rechtsverhältnisse des Verbrauchers nach § 608 Absatz 1 der Zivilprozessordnung zum Klageregister wirksam angemeldet waren.
+2. Streitigkeiten, zu welchen in einem rechtskräftigen Urteil über eine Musterfeststellungsklage nach § 1 Absatz 1 Nummer 2 des Verbraucherrechtedurchsetzungsgesetzes oder in einem Vergleich nach § 9 des Verbraucherrechtedurchsetzungsgesetzes bindende Feststellungen getroffen werden und zu denen die streitgegenständlichen Ansprüche oder Rechtsverhältnisse nach § 46 des Verbraucherrechtedurchsetzungsgesetzes zum Verbandsklageregister angemeldet waren.
 
 Dies gilt nicht, wenn es sich um arbeitsvertragliche Streitigkeiten oder um Streitigkeiten, für deren Beilegung Verbraucherschlichtungsstellen nach anderen Rechtsvorschriften anerkannt, beauftragt oder eingerichtet werden, handelt oder wenn eine Verbraucherschlichtungsstelle, die eine einschränkende Zuständigkeitsregelung gemäß § 4 Absatz 1a Nummer 1 bis 3 getroffen hat, für die außergerichtliche Beilegung der in Satz 1 genannten Streitigkeiten zuständig ist.
 
@@ -373,7 +373,7 @@ Dies gilt nicht, wenn es sich um arbeitsvertragliche Streitigkeiten oder um Stre
 
 4. der Wert des Streitgegenstands weniger als 10 Euro oder mehr als 50 000 Euro beträgt,
 
-5. der streitige Anspruch oder das Rechtsverhältnis des Verbrauchers, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum Klageregister einer Musterfeststellungsklage nach § 608 der Zivilprozessordnung angemeldet ist oder während des Streitbeilegungsverfahrens wirksam angemeldet wird und die Musterfeststellungsklage noch rechtshängig ist,
+5. die streitigen Ansprüche oder Rechtsverhältnisse, die den Gegenstand des Streitbeilegungsverfahrens bilden, zu einer Abhilfeklage oder einer Musterfeststellungsklage im Verbandsklageregister angemeldet wurden und die Klage noch rechtshängig ist,
 
 6. der streitige Anspruch nicht zuvor gegenüber dem Unternehmer geltend gemacht worden ist oder
 

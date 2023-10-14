@@ -94,6 +94,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 (5) Die Führung des Unternehmensregisters schließt auch den Informationsaustausch nach § 9c ein.
 
 (+++ § 8b: Zur Anwendung vgl. Art. 75 Abs. 3 HGBEG +++)  
+(+++ § 8b Abs. 2 Nr. 9: Aufgrund offensichtlicher Unrichtigkeit wurde am Ende der Nummer das Komma durch ein Semikolon ersetzt +++)  
 (+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
 
 # § 9 – Einsichtnahme in das Handelsregister und das Unternehmensregister
@@ -414,6 +415,8 @@ Die Firma kann nicht ohne das Handelsgeschäft, für welches sie geführt wird, 
 
 (2) Bei dem Ausscheiden eines Gesellschafters, dessen Name in der Firma enthalten ist, bedarf es zur Fortführung der Firma der ausdrücklichen Einwilligung des Gesellschafters oder seiner Erben.
 
+(+++ § 24 Abs. 1: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Punkt am Satzende ein Komma entfernt +++)
+
 # § 25
 
 (1) Wer ein unter Lebenden erworbenes Handelsgeschäft unter der bisherigen Firma mit oder ohne Beifügung eines das Nachfolgeverhältnis andeutenden Zusatzes fortführt, haftet für alle im Betriebe des Geschäfts begründeten Verbindlichkeiten des früheren Inhabers. Die in dem Betriebe begründeten Forderungen gelten den Schuldnern gegenüber als auf den Erwerber übergegangen, falls der bisherige Inhaber oder seine Erben in die Fortführung der Firma gewilligt haben.
@@ -634,13 +637,13 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 # § 74
 
-(1) Eine Vereinbarung zwischen dem Prinzipal und dem Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränkt (Wettbewerbsverbot), bedarf der Schriftform und der Aushändigung einer vom Prinzipal unterzeichneten, die vereinbarten Bestimmungen enthaltenden Urkunde an den Gehilfen.
+(1) Eine Vereinbarung zwischen dem Prinzipal und dem Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränkt (Wettbewerbverbot), bedarf der Schriftform und der Aushändigung einer vom Prinzipal unterzeichneten, die vereinbarten Bestimmungen enthaltenden Urkunde an den Gehilfen.
 
-(2) Das Wettbewerbsverbot ist nur verbindlich, wenn sich der Prinzipal verpflichtet, für die Dauer des Verbots eine Entschädigung zu zahlen, die für jedes Jahr des Verbots mindestens die Hälfte der von dem Handlungsgehilfen zuletzt bezogenen vertragsmäßigen Leistungen erreicht.
+(2) Das Wettbewerbverbot ist nur verbindlich, wenn sich der Prinzipal verpflichtet, für die Dauer des Verbots eine Entschädigung zu zahlen, die für jedes Jahr des Verbots mindestens die Hälfte der von dem Handlungsgehilfen zuletzt bezogenen vertragsmäßigen Leistungen erreicht.
 
 # § 74a
 
-(1) Das Wettbewerbsverbot ist insoweit unverbindlich, als es nicht zum Schutze eines berechtigten geschäftlichen Interesses des Prinzipals dient. Es ist ferner unverbindlich, soweit es unter Berücksichtigung der gewährten Entschädigung nach Ort, Zeit oder Gegenstand eine unbillige Erschwerung des Fortkommens des Gehilfen enthält. Das Verbot kann nicht auf einen Zeitraum von mehr als zwei Jahren von der Beendigung des Dienstverhältnisses an erstreckt werden.
+(1) Das Wettbewerbverbot ist insoweit unverbindlich, als es nicht zum Schutze eines berechtigten geschäftlichen Interesses des Prinzipals dient. Es ist ferner unverbindlich, soweit es unter Berücksichtigung der gewährten Entschädigung nach Ort, Zeit oder Gegenstand eine unbillige Erschwerung des Fortkommens des Gehilfen enthält. Das Verbot kann nicht auf einen Zeitraum von mehr als zwei Jahren von der Beendigung des Dienstverhältnisses an erstreckt werden.
 
 (2) Das Verbot ist nichtig, wenn der Gehilfe zur Zeit des Abschlusses minderjährig ist oder wenn sich der Prinzipal die Erfüllung auf Ehrenwort oder unter ähnlichen Versicherungen versprechen läßt. Nichtig ist auch die Vereinbarung, durch die ein Dritter an Stelle des Gehilfen die Verpflichtung übernimmt, daß sich der Gehilfe nach der Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränken werde.
 
@@ -656,7 +659,7 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 # § 74c
 
-(1) Der Handlungsgehilfe muß sich auf die fällige Entschädigung anrechnen lassen, was er während des Zeitraums, für den die Entschädigung gezahlt wird, durch anderweite Verwertung seiner Arbeitskraft erwirbt oder zu erwerben böswillig unterläßt, soweit die Entschädigung unter Hinzurechnung dieses Betrags den Betrag der zuletzt von ihm bezogenen vertragsmäßigen Leistungen um mehr als ein Zehntel übersteigen würde. Ist der Gehilfe durch das Wettbewerbsverbot gezwungen worden, seinen Wohnsitz zu verlegen, so tritt an die Stelle des Betrags von einem Zehntel der Betrag von einem Viertel. Für die Dauer der Verbüßung einer Freiheitsstrafe kann der Gehilfe eine Entschädigung nicht verlangen.
+(1) Der Handlungsgehilfe muß sich auf die fällige Entschädigung anrechnen lassen, was er während des Zeitraums, für den die Entschädigung gezahlt wird, durch anderweite Verwertung seiner Arbeitskraft erwirbt oder zu erwerben böswillig unterläßt, soweit die Entschädigung unter Hinzurechnung dieses Betrags den Betrag der zuletzt von ihm bezogenen vertragsmäßigen Leistungen um mehr als ein Zehntel übersteigen würde. Ist der Gehilfe durch das Wettbewerbverbot gezwungen worden, seinen Wohnsitz zu verlegen, so tritt an die Stelle des Betrags von einem Zehntel der Betrag von einem Viertel. Für die Dauer der Verbüßung einer Freiheitsstrafe kann der Gehilfe eine Entschädigung nicht verlangen.
 
 (2) Der Gehilfe ist verpflichtet, dem Prinzipal auf Erfordern über die Höhe seines Erwerbes Auskunft zu erteilen.
 
@@ -664,7 +667,7 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 (1) Löst der Gehilfe das Dienstverhältnis gemäß den Vorschriften der §§ 70 und 71 wegen vertragswidrigen Verhaltens des Prinzipals auf, so wird das Wettbewerbverbot unwirksam, wenn der Gehilfe vor Ablauf eines Monats nach der Kündigung schriftlich erklärt, daß er sich an die Vereinbarung nicht gebunden erachte.
 
-(2) In gleicher Weise wird das Wettbewerbsverbot unwirksam, wenn der Prinzipal das Dienstverhältnis kündigt, es sei denn, daß für die Kündigung ein erheblicher Anlaß in der Person des Gehilfen vorliegt oder daß sich der Prinzipal bei der Kündigung bereit erklärt, während der Dauer der Beschränkung dem Gehilfen die vollen zuletzt von ihm bezogenen vertragsmäßigen Leistungen zu gewähren. Im letzteren Falle finden die Vorschriften des § 74b entsprechende Anwendung.
+(2) In gleicher Weise wird das Wettbewerbverbot unwirksam, wenn der Prinzipal das Dienstverhältnis kündigt, es sei denn, daß für die Kündigung ein erheblicher Anlaß in der Person des Gehilfen vorliegt oder daß sich der Prinzipal bei der Kündigung bereit erklärt, während der Dauer der Beschränkung dem Gehilfen die vollen zuletzt von ihm bezogenen vertragsmäßigen Leistungen zu gewähren. Im letzteren Falle finden die Vorschriften des § 74b entsprechende Anwendung.
 
 (3) Löst der Prinzipal das Dienstverhältnis gemäß den Vorschriften der §§ 70 und 72 wegen vertragswidrigen Verhaltens des Gehilfen auf, so hat der Gehilfe keinen Anspruch auf die Entschädigung.
 
@@ -757,7 +760,7 @@ Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere Vereinba
 
 (1) Der Handelsvertreter hat Anspruch auf Provision für alle während des Vertragsverhältnisses abgeschlossenen Geschäfte, die auf seine Tätigkeit zurückzuführen sind oder mit Dritten abgeschlossen werden, die er als Kunden für Geschäfte der gleichen Art geworben hat. Ein Anspruch auf Provision besteht für ihn nicht, wenn und soweit die Provision nach Absatz 3 dem ausgeschiedenen Handelsvertreter zusteht.
 
-(2) Ist dem Handelsvertreter ein bestimmter Bezirk oder ein bestimmter Kundenkreis zugewiesen, so hat er Anspruch auf Provision auch für die Geschäfte, die ohne seine Mitwirkung mit Personen seines Bezirks oder seines Kundenkreises während des Vertragsverhältnisses abgeschlossen sind. Dies gilt nicht, wenn und soweit die Provision nach Absatz 3 dem ausgeschiedenen Handelsvertreter zusteht.
+(2) Ist dem Handelsvertreter ein bestimmter Bezirk oder ein bestimmter Kundenkreis zugewiesen, so hat er Anspruch auf Provision auch für die Geschäfte, die ohne seine Mitwirkung mit Personen seines Bezirkes oder seines Kundenkreises während des Vertragsverhältnisses abgeschlossen sind. Dies gilt nicht, wenn und soweit die Provision nach Absatz 3 dem ausgeschiedenen Handelsvertreter zusteht.
 
 (3) Für ein Geschäft, das erst nach Beendigung des Vertragsverhältnisses abgeschlossen ist, hat der Handelsvertreter Anspruch auf Provision nur, wenn
 
@@ -797,7 +800,7 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 (3) Der Handelsvertreter kann außerdem Mitteilung über alle Umstände verlangen, die für den Provisionsanspruch, seine Fälligkeit und seine Berechnung wesentlich sind.
 
-(4) Wird der Buchauszug verweigert oder bestehen begründete Zweifel an der Richtigkeit oder Vollständigkeit der Abrechnung oder des Buchauszuges, so kann der Handelsvertreter verlangen, daß nach Wahl des Unternehmers entweder ihm oder einem von ihm zu bestimmenden Wirtschaftsprüfer oder vereidigten Buchsachverständigen Einsicht in die Geschäftsbücher oder die sonstigen Urkunden so weit gewährt wird, wie dies zur Feststellung der Richtigkeit oder Vollständigkeit der Abrechnung oder des Buchauszugs erforderlich ist.
+(4) Wird der Buchauszug verweigert oder bestehen begründete Zweifel an der Richtigkeit oder Vollständigkeit der Abrechnung oder des Buchauszuges, so kann der Handelsvertreter verlangen, daß nach Wahl des Unternehmers entweder ihm oder einem von ihm zu bestimmenden Wirtschaftsprüfer oder vereidigten Buchsachverständigen Einsicht in die Geschäftsbücher oder die sonstigen Urkunden so weit gewährt wird, wie dies zur Feststellung der Richtigkeit oder Vollständigkeit der Abrechnung oder des Buchauszuges erforderlich ist.
 
 (5) Diese Rechte des Handelsvertreters können nicht ausgeschlossen oder beschränkt werden.
 
@@ -823,13 +826,13 @@ Der Handelsvertreter kann den Ersatz seiner im regelmäßigen Geschäftsbetrieb 
 
 # § 89a
 
-(1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden. Dieses Recht kann nicht ausgeschlossen oder beschränkt werden.
+(1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grunde ohne Einhaltung einer Kündigungsfrist gekündigt werden. Dieses Recht kann nicht ausgeschlossen oder beschränkt werden.
 
 (2) Wird die Kündigung durch ein Verhalten veranlaßt, das der andere Teil zu vertreten hat, so ist dieser zum Ersatz des durch die Aufhebung des Vertragsverhältnisses entstehenden Schadens verpflichtet.
 
 # § 89b
 
-(1) Der Handelsvertreter kann von dem Unternehmer nach Beendigung des Vertragsverhältnisses einen angemessenen Ausgleich verlangen, wenn und soweit
+(1) Der Handelvertreter kann von dem Unternehmer nach Beendigung des Vertragsverhältnisses einen angemessenen Ausgleich verlangen, wenn und soweit
 
 1. der Unternehmer aus der Geschäftsverbindung mit neuen Kunden, die der Handelsvertreter geworben hat, auch nach Beendigung des Vertragsverhältnisses erhebliche Vorteile hat und
 
@@ -850,6 +853,8 @@ Der Werbung eines neuen Kunden steht es gleich, wenn der Handelsvertreter die Ge
 (4) Der Anspruch kann im voraus nicht ausgeschlossen werden. Er ist innerhalb eines Jahres nach Beendigung des Vertragsverhältnisses geltend zu machen.
 
 (5) Die Absätze 1, 3 und 4 gelten für Versicherungsvertreter mit der Maßgabe, daß an die Stelle der Geschäftsverbindung mit neuen Kunden, die der Handelsvertreter geworben hat, die Vermittlung neuer Versicherungsverträge durch den Versicherungsvertreter tritt und der Vermittlung eines Versicherungsvertrages es gleichsteht, wenn der Versicherungsvertreter einen bestehenden Versicherungsvertrag so wesentlich erweitert hat, daß dies wirtschaftlich der Vermittlung eines neuen Versicherungsvertrages entspricht. Der Ausgleich des Versicherungsvertreters beträgt abweichend von Absatz 2 höchstens drei Jahresprovisionen oder Jahresvergütungen. Die Vorschriften der Sätze 1 und 2 gelten sinngemäß für Bausparkassenvertreter.
+
+§ 89b Abs. 1 Satz 1 Eingangssatz Kursivdruck: Müsste richtig "Handelsvertreter" lauten
 
 # § 90
 
@@ -893,7 +898,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (1) Für das Vertragsverhältnis eines Handelsvertreters, der vertraglich nicht für weitere Unternehmer tätig werden darf oder dem dies nach Art und Umfang der von ihm verlangten Tätigkeit nicht möglich ist, kann das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung von Verbänden der Handelsvertreter und der Unternehmer durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die untere Grenze der vertraglichen Leistungen des Unternehmers festsetzen, um die notwendigen sozialen und wirtschaftlichen Bedürfnisse dieser Handelsvertreter oder einer bestimmten Gruppe von ihnen sicherzustellen. Die festgesetzten Leistungen können vertraglich nicht ausgeschlossen oder beschränkt werden.
 
-(2) Absatz 1 gilt auch für das Vertragsverhältnis eines Versicherungsvertreters, der auf Grund eines Vertrags oder mehrerer Verträge damit betraut ist, Geschäfte für mehrere Versicherer zu vermitteln oder abzuschließen, die zu einem Versicherungskonzern oder zu einer zwischen ihnen bestehenden Organisationsgemeinschaft gehören, sofern die Beendigung des Vertragsverhältnisses mit einem dieser Versicherer im Zweifel auch die Beendigung des Vertragsverhältnisses mit den anderen Versicherern zur Folge haben würde. In diesem Falle kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, außerdem bestimmt werden, ob die festgesetzten Leistungen von allen Versicherern als Gesamtschuldnern oder anteilig oder nur von einem der Versicherer geschuldet werden und wie der Ausgleich unter ihnen zu erfolgen hat.
+(2) Absatz 1 gilt auch für das Vertragsverhältnis eines Versicherungsvertreters, der auf Grund eines Vertrages oder mehrerer Verträge damit betraut ist, Geschäfte für mehrere Versicherer zu vermitteln oder abzuschließen, die zu einem Versicherungskonzern oder zu einer zwischen ihnen bestehenden Organisationsgemeinschaft gehören, sofern die Beendigung des Vertragsverhältnisses mit einem dieser Versicherer im Zweifel auch die Beendigung des Vertragsverhältnisses mit den anderen Versicherern zur Folge haben würde. In diesem Falle kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, außerdem bestimmt werden, ob die festgesetzten Leistungen von allen Versicherern als Gesamtschuldnern oder anteilig oder nur von einem der Versicherer geschuldet werden und wie der Ausgleich unter ihnen zu erfolgen hat.
 
 # § 92b
 
@@ -921,7 +926,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 # § 94
 
-(1) Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon entbindet, unverzüglich nach dem Abschluß des Geschäfts jeder Partei eine von ihm unterzeichnete Schlußnote zuzustellen, welche die Parteien, den Gegenstand und die Bedingungen des Geschäfts, insbesondere bei Verkäufen von Waren oder Wertpapieren deren Gattung und Menge sowie den Preis und die Zeit der Lieferung, enthält.
+(1) Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon entbindet, unverzüglich nach dem Abschlusse des Geschäfts jeder Partei eine von ihm unterzeichnete Schlußnote zuzustellen, welche die Parteien, den Gegenstand und die Bedingungen des Geschäfts, insbesondere bei Verkäufen von Waren oder Wertpapieren deren Gattung und Menge sowie den Preis und die Zeit der Lieferung, enthält.
 
 (2) Bei Geschäften, die nicht sofort erfüllt werden sollen, ist die Schlußnote den Parteien zu ihrer Unterschrift zuzustellen und jeder Partei die von der anderen unterschriebene Schlußnote zu übersenden.
 
@@ -1021,7 +1026,7 @@ Das Rechtsverhältnis der Gesellschafter untereinander richtet sich zunächst na
 
 # § 110
 
-(1) Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste, so ist ihm die Gesellschaft zum Ersatz verpflichtet.
+(1) Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste, so ist ihm die Gesellschaft zum Ersatze verpflichtet.
 
 (2) Aufgewendetes Geld hat die Gesellschaft von der Zeit der Aufwendung an zu verzinsen.
 
@@ -1091,7 +1096,7 @@ Die Befugnis zur Geschäftsführung kann einem Gesellschafter auf Antrag der üb
 
 # § 121
 
-(1) Von dem Jahresgewinne gebührt jedem Gesellschafter zunächst ein Anteil in Höhe von vier vom Hundert seines Kapitalanteils. Reicht der Jahresgewinn hierzu nicht aus, so bestimmen sich die Anteile nach einem entsprechend niedrigeren Satz.
+(1) Von dem Jahresgewinne gebührt jedem Gesellschafter zunächst ein Anteil in Höhe von vier vom Hundert seines Kapitalanteils. Reicht der Jahresgewinn hierzu nicht aus, so bestimmen sich die Anteile nach einem entsprechend niedrigeren Satze.
 
 (2) Bei der Berechnung des nach Absatz 1 einem Gesellschafter zukommenden Gewinnanteils werden Leistungen, die der Gesellschafter im Laufe des Geschäftsjahrs als Einlage gemacht hat, nach dem Verhältnisse der seit der Leistung abgelaufenen Zeit berücksichtigt. Hat der Gesellschafter im Laufe des Geschäftsjahrs Geld auf seinen Kapitalanteil entnommen, so werden die entnommenen Beträge nach dem Verhältnisse der bis zur Entnahme abgelaufenen Zeit berücksichtigt.
 
@@ -1213,7 +1218,7 @@ Die Kündigung eines Gesellschafters kann, wenn die Gesellschaft für unbestimmt
 
 # § 133
 
-(1) Auf Antrag eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
+(1) Auf Antrag eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablaufe der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
 
 (2) Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
@@ -1252,7 +1257,7 @@ Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten se
 
 (1) Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 133 für die übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht anstatt der Auflösung die Ausschließung dieses Gesellschafters aus der Gesellschaft ausgesprochen werden, sofern die übrigen Gesellschafter dies beantragen. Der Ausschließungsklage steht nicht entgegen, daß nach der Ausschließung nur ein Gesellschafter verbleibt.
 
-(2) Für die Auseinandersetzung zwischen der Gesellschaft und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgebend, in welchem die Klage auf Ausschließung erhoben ist.
+(2) Für die Auseinandersetzung zwischen der Gesellschaft und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkte maßgebend, in welchem die Klage auf Ausschließung erhoben ist.
 
 # §§ 141 und 142 – (weggefallen)
 
@@ -1348,7 +1353,9 @@ Bis zur Beendigung der Liquidation kommen in bezug auf das Rechtsverhältnis der
 
 # § 158
 
-Vereinbaren die Gesellschafter statt der Liquidation eine andere Art der Auseinandersetzung, so finden, solange noch ungeteiltes Gesellschaftsvermögen vorhanden ist, im Verhältnis zu Dritten die für die Liquidation geltenden Vorschriften entsprechende Anwendung.
+Vereinbaren die Gesellschafter statt der Liquidation eine andere Art der Auseinandersetzung, so finden, solange noch ungeteiltes Gesellschaftvermögen vorhanden ist, im Verhältnisse zu Dritten die für die Liquidation geltenden Vorschriften entsprechende Anwendung.
+
+§ 158 Kursivdruck: Müsste richtig "Gesellschaftsvermögen" lauten
 
 # § 159
 
@@ -1370,7 +1377,7 @@ Vereinbaren die Gesellschafter statt der Liquidation eine andere Art der Auseina
 
 # § 161
 
-(1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine Kommanditgesellschaft, wenn bei einem oder bei einigen von den Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf den Betrag einer bestimmten Vermögenseinlage beschränkt ist (Kommanditisten), während bei dem anderen Teil der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter).
+(1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine Kommanditgesellschaft, wenn bei einem oder bei einigen von den Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf den Betrag einer bestimmten Vermögenseinlage beschränkt ist (Kommanditisten), während bei dem anderen Teile der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter).
 
 (2) Soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist, finden auf die Kommanditgesellschaft die für die offene Handelsgesellschaft geltenden Vorschriften Anwendung.
 
@@ -1432,7 +1439,7 @@ Der Kommanditist ist zur Vertretung der Gesellschaft nicht ermächtigt.
 
 # § 172
 
-(1) Im Verhältnis zu den Gläubigern der Gesellschaft wird nach der Eintragung in das Handelsregister die Einlage eines Kommanditisten durch den in der Eintragung angegebenen Betrag bestimmt.
+(1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der Eintragung in das Handelsregister die Einlage eines Kommanditisten durch den in der Eintragung angegebenen Betrag bestimmt.
 
 (2) Auf eine nicht eingetragene Erhöhung der aus dem Handelsregister ersichtlichen Einlage können sich die Gläubiger nur berufen, wenn die Erhöhung in handelsüblicher Weise kundgemacht oder ihnen in anderer Weise von der Gesellschaft mitgeteilt worden ist.
 
@@ -1464,7 +1471,7 @@ Die Erhöhung sowie die Herabsetzung einer Einlage ist durch die sämtlichen Ges
 
 # § 176
 
-(1) Hat die Gesellschaft ihre Geschäfte begonnen, bevor sie in das Handelsregister des Gerichts, in dessen Bezirke sie ihren Sitz hat, eingetragen ist, so haftet jeder Kommanditist, der dem Geschäftsbeginn zugestimmt hat, für die bis zur Eintragung begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden Gesellschafter, es sei denn, daß seine Beteiligung als Kommanditist dem Gläubiger bekannt war. Diese Vorschrift kommt nicht zur Anwendung, soweit sich aus § 2 oder § 105 Abs. 2 ein anderes ergibt.
+(1) Hat die Gesellschaft ihre Geschäfte begonnen, bevor sie in das Handelsregister des Gerichts, in dessen Bezirke sie ihren Sitz hat, eingetragen ist, so haftet jeder Kommanditist, der dem Geschäftsbeginne zugestimmt hat, für die bis zur Eintragung begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden Gesellschafter, es sei denn, daß seine Beteiligung als Kommanditist dem Gläubiger bekannt war. Diese Vorschrift kommt nicht zur Anwendung, soweit sich aus § 2 oder § 105 Abs. 2 ein anderes ergibt.
 
 (2) Tritt ein Kommanditist in eine bestehende Handelsgesellschaft ein, so findet die Vorschrift des Absatzes 1 Satz 1 für die in der Zeit zwischen seinem Eintritt und dessen Eintragung in das Handelsregister begründeten Verbindlichkeiten der Gesellschaft entsprechende Anwendung.
 
@@ -1482,19 +1489,19 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 (1) Wer sich als stiller Gesellschafter an dem Handelsgewerbe, das ein anderer betreibt, mit einer Vermögenseinlage beteiligt, hat die Einlage so zu leisten, daß sie in das Vermögen des Inhabers des Handelsgeschäfts übergeht.
 
-(2) Der Inhaber wird aus den in dem Betrieb geschlossenen Geschäften allein berechtigt und verpflichtet.
+(2) Der Inhaber wird aus den in dem Betriebe geschlossenen Geschäften allein berechtigt und verpflichtet.
 
 # § 231
 
-(1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verlust nicht bestimmt, so gilt ein den Umständen nach angemessener Anteil als bedungen.
+(1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verluste nicht bestimmt, so gilt ein den Umständen nach angemessener Anteil als bedungen.
 
-(2) Im Gesellschaftsvertrag kann bestimmt werden, daß der stille Gesellschafter nicht am Verlust beteiligt sein soll; seine Beteiligung am Gewinn kann nicht ausgeschlossen werden.
+(2) Im Gesellschaftsvertrage kann bestimmt werden, daß der stille Gesellschafter nicht am Verluste beteiligt sein soll; seine Beteiligung am Gewinne kann nicht ausgeschlossen werden.
 
 # § 232
 
-(1) Am Schluß jedes Geschäftsjahrs wird der Gewinn und Verlust berechnet und der auf den stillen Gesellschafter fallende Gewinn ihm ausbezahlt.
+(1) Am Schlusse jedes Geschäftsjahrs wird der Gewinn und Verlust berechnet und der auf den stillen Gesellschafter fallende Gewinn ihm ausbezahlt.
 
-(2) Der stille Gesellschafter nimmt an dem Verlust nur bis zum Betrag seiner eingezahlten oder rückständigen Einlage teil. Er ist nicht verpflichtet, den bezogenen Gewinn wegen späterer Verluste zurückzuzahlen; jedoch wird, solange seine Einlage durch Verlust vermindert ist, der jährliche Gewinn zur Deckung des Verlustes verwendet.
+(2) Der stille Gesellschafter nimmt an dem Verluste nur bis zum Betrage seiner eingezahlten oder rückständigen Einlage teil. Er ist nicht verpflichtet, den bezogenen Gewinn wegen späterer Verluste zurückzuzahlen; jedoch wird, solange seine Einlage durch Verlust vermindert ist, der jährliche Gewinn zur Deckung des Verlustes verwendet.
 
 (3) Der Gewinn, welcher von dem stillen Gesellschafter nicht erhoben wird, vermehrt dessen Einlage nicht, sofern nicht ein anderes vereinbart ist.
 
@@ -1516,15 +1523,15 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 (1) Nach der Auflösung der Gesellschaft hat sich der Inhaber des Handelsgeschäfts mit dem stillen Gesellschafter auseinanderzusetzen und dessen Guthaben in Geld zu berichtigen.
 
-(2) Die zur Zeit der Auflösung schwebenden Geschäfte werden von dem Inhaber des Handelsgeschäfts abgewickelt. Der stille Gesellschafter nimmt teil an dem Gewinn und Verlust, der sich aus diesen Geschäften ergibt.
+(2) Die zur Zeit der Auflösung schwebenden Geschäfte werden von dem Inhaber des Handelsgeschäfts abgewickelt. Der stille Gesellschafter nimmt teil an dem Gewinn und Verluste, der sich aus diesen Geschäften ergibt.
 
-(3) Er kann am Schluß jedes Geschäftsjahrs Rechenschaft über die inzwischen beendigten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+(3) Er kann am Schlusse jedes Geschäftsjahrs Rechenschaft über die inzwischen beendigten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
 
 # § 236
 
 (1) Wird über das Vermögen des Inhabers des Handelsgeschäfts das Insolvenzverfahren eröffnet, so kann der stille Gesellschafter wegen der Einlage, soweit sie den Betrag des auf ihn fallenden Anteils am Verlust übersteigt, seine Forderung als Insolvenzgläubiger geltend machen.
 
-(2) Ist die Einlage rückständig, so hat sie der stille Gesellschafter bis zu dem Betrag, welcher zur Deckung seines Anteils am Verlust erforderlich ist, zur Insolvenzmasse einzuzahlen.
+(2) Ist die Einlage rückständig, so hat sie der stille Gesellschafter bis zu dem Betrage, welcher zur Deckung seines Anteils am Verlust erforderlich ist, zur Insolvenzmasse einzuzahlen.
 
 # § 237 – (weggefallen)
 
@@ -1734,11 +1741,13 @@ Sind Unterlagen auf Grund des § 239 Abs. 4 Satz 1 auf Datenträgern hergestellt
 
 (5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs, in dem die letzte Eintragung in das Handelsbuch gemacht, das Inventar aufgestellt, die Eröffnungsbilanz oder der Jahresabschluß festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt worden oder der Buchungsbeleg entstanden ist.
 
-# § 258 – Vorlegung im Rechtsstreit
+# § 258 – Vorlegung im  Rechtsstreit
 
 (1) Im Laufe eines Rechtsstreits kann das Gericht auf Antrag oder von Amts wegen die Vorlegung der Handelsbücher einer Partei anordnen.
 
 (2) Die Vorschriften der Zivilprozeßordnung über die Verpflichtung des Prozeßgegners zur Vorlegung von Urkunden bleiben unberührt.
+
+§ 258 Überschrift Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Rechsstreit" durch "Rechtsstreit" ersetzt
 
 # § 259 – Auszug bei Vorlegung im Rechtsstreit
 
@@ -1999,7 +2008,7 @@ B. Rückstellungen:
 
 C. Verbindlichkeiten:
 
-1. Anleihen
+1. Anleihen,
 
 davon konvertibel;
 
@@ -3271,6 +3280,8 @@ Der Antrag ist binnen zwei Wochen nach dem Tag der Wahl des Abschlussprüfers zu
 
 (8) Die Wirtschaftsprüferkammer ist unverzüglich und schriftlich begründet durch den Abschlussprüfer und die gesetzlichen Vertreter der geprüften Gesellschaft von der Kündigung oder dem Widerruf des Prüfungsauftrages zu unterrichten.
 
+§ 318 Abs. 1 Satz 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Geschäfsjahrs" durch das Wort "Geschäftsjahrs" ersetzt
+
 # § 319 – Auswahl der Abschlussprüfer und Ausschlussgründe
 
 (1) Abschlussprüfer können Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Abschlussprüfer von Jahresabschlüssen und Lageberichten mittelgroßer Gesellschaften mit beschränkter Haftung (§ 267 Abs. 2) oder von mittelgroßen Personenhandelsgesellschaften im Sinne des § 264a Abs. 1 können auch vereidigte Buchprüfer und Buchprüfungsgesellschaften sein. Die Abschlussprüfer nach den Sätzen 1 und 2 müssen über einen Auszug aus dem Berufsregister verfügen, aus dem sich ergibt, dass die Eintragung nach § 38 Nummer 1 Buchstabe h oder Nummer 2 Buchstabe f der Wirtschaftsprüferordnung vorgenommen worden ist; Abschlussprüfer, die erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung nach § 316 des Handelsgesetzbuchs durchführen, müssen spätestens sechs Wochen nach Annahme eines Prüfungsauftrages über den Auszug aus dem Berufsregister verfügen. Die Abschlussprüfer sind während einer laufenden Abschlussprüfung verpflichtet, eine Löschung der Eintragung unverzüglich gegenüber der Gesellschaft anzuzeigen.
@@ -3637,7 +3648,7 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 2. als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse des Konzerns im Konzernabschluß, im Konzernlagebericht einschließlich der nichtfinanziellen Konzernerklärung, im gesonderten nichtfinanziellen Konzernbericht oder im Konzernzwischenabschluß nach § 340i Abs. 4 unrichtig wiedergibt oder verschleiert,
 
-3. als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, offenlegt oder,
+3. als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, offenlegt oder
 
 3a. (weggefallen)
 
@@ -3985,7 +3996,7 @@ gesetzliche Rücklage.
 
 (2) Im Anhang sind ferner anzugeben:
 
-1. Name und Anschrift des zuständigen Prüfungsverbands, dem die Genossenschaft angehört;
+1. Name und Anschrift des zuständigen Prüfungsverbandes, dem die Genossenschaft angehört;
 
 2. alle Mitglieder des Vorstands und des Aufsichtsrats, auch wenn sie im Geschäftsjahr oder später ausgeschieden sind, mit dem Familiennamen und mindestens einem ausgeschriebenen Vornamen; ein etwaiger Vorsitzender des Aufsichtsrats ist als solcher zu bezeichnen.
 
@@ -5139,11 +5150,11 @@ Auf ein Rechtsgeschäft, das für einen der beiden Teile ein Handelsgeschäft is
 
 # § 346
 
-Unter Kaufleuten ist in Ansehung der Bedeutung und Wirkung von Handlungen und Unterlassungen auf die im Handelsverkehr geltenden Gewohnheiten und Gebräuche Rücksicht zu nehmen.
+Unter Kaufleuten ist in Ansehung der Bedeutung und Wirkung von Handlungen und Unterlassungen auf die im Handelsverkehre geltenden Gewohnheiten und Gebräuche Rücksicht zu nehmen.
 
 # § 347
 
-(1) Wer aus einem Geschäft, das auf seiner Seite ein Handelsgeschäft ist, einem anderen zur Sorgfalt verpflichtet ist, hat für die Sorgfalt eines ordentlichen Kaufmanns einzustehen.
+(1) Wer aus einem Geschäfte, das auf seiner Seite ein Handelsgeschäft ist, einem anderen zur Sorgfalt verpflichtet ist, hat für die Sorgfalt eines ordentlichen Kaufmanns einzustehen.
 
 (2) Unberührt bleiben die Vorschriften des Bürgerlichen Gesetzbuchs, nach welchen der Schuldner in bestimmten Fällen nur grobe Fahrlässigkeit zu vertreten oder nur für diejenige Sorgfalt einzustehen hat, welche er in eigenen Angelegenheiten anzuwenden pflegt.
 
@@ -5185,7 +5196,7 @@ Kaufleute untereinander sind berechtigt, für ihre Forderungen aus beiderseitige
 
 # § 355
 
-(1) Steht jemand mit einem Kaufmanne derart in Geschäftsverbindung, daß die aus der Verbindung entspringenden beiderseitigen Ansprüche und Leistungen nebst Zinsen in Rechnung gestellt und in regelmäßigen Zeitabschnitten durch Verrechnung und Feststellung des für den einen oder anderen Teil sich ergebenden Überschusses ausgeglichen werden (laufende Rechnung, Kontokorrent), so kann derjenige, welchem bei dem Rechnungsabschluß ein Überschuß gebührt, von dem Tage des Abschlusses an Zinsen von dem Überschuß verlangen, auch soweit in der Rechnung Zinsen enthalten sind.
+(1) Steht jemand mit einem Kaufmanne derart in Geschäftsverbindung, daß die aus der Verbindung entspringenden beiderseitigen Ansprüche und Leistungen nebst Zinsen in Rechnung gestellt und in regelmäßigen Zeitabschnitten durch Verrechnung und Feststellung des für den einen oder anderen Teil sich ergebenden Überschusses ausgeglichen werden (laufende Rechnung, Kontokorrent), so kann derjenige, welchem bei dem Rechnungsabschluß ein Überschuß gebührt, von dem Tage des Abschlusses an Zinsen von dem Überschusse verlangen, auch soweit in der Rechnung Zinsen enthalten sind.
 
 (2) Der Rechnungsabschluß geschieht jährlich einmal, sofern nicht ein anderes bestimmt ist.
 
@@ -5199,7 +5210,7 @@ Kaufleute untereinander sind berechtigt, für ihre Forderungen aus beiderseitige
 
 # § 357
 
-Hat der Gläubiger eines Beteiligten die Pfändung und Überweisung des Anspruchs auf dasjenige erwirkt, was seinem Schuldner als Überschuß aus der laufenden Rechnung zukommt, so können dem Gläubiger gegenüber Schuldposten, die nach der Pfändung durch neue Geschäfte entstehen, nicht in Rechnung gestellt werden. Geschäfte, die auf Grund eines schon vor der Pfändung bestehenden Rechtes oder einer schon vor diesem Zeitpunkt bestehenden Verpflichtung des Drittschuldners vorgenommen werden, gelten nicht als neue Geschäfte im Sinne dieser Vorschrift.
+Hat der Gläubiger eines Beteiligten die Pfändung und Überweisung des Anspruchs auf dasjenige erwirkt, was seinem Schuldner als Überschuß aus der laufenden Rechnung zukommt, so können dem Gläubiger gegenüber Schuldposten, die nach der Pfändung durch neue Geschäfte entstehen, nicht in Rechnung gestellt werden. Geschäfte, die auf Grund eines schon vor der Pfändung bestehenden Rechtes oder einer schon vor diesem Zeitpunkte bestehenden Verpflichtung des Drittschuldners vorgenommen werden, gelten nicht als neue Geschäfte im Sinne dieser Vorschrift.
 
 # § 358
 
@@ -5229,13 +5240,15 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte gelten, 
 
 (1) Anweisungen, die auf einen Kaufmann über die Leistung von Geld, Wertpapieren oder anderen vertretbaren Sachen ausgestellt sind, ohne daß darin die Leistung von einer Gegenleistung abhängig gemacht ist, können durch Indossament übertragen werden, wenn sie an Order lauten. Dasselbe gilt von Verpflichtungsscheinen, die von einem Kaufmann über Gegenstände der bezeichneten Art an Order ausgestellt sind, ohne daß darin die Leistung von einer Gegenleistung abhängig gemacht ist.
 
-(2) Ferner können Konnossemente der Verfrachter, Ladescheine der Frachtführer, Lagerscheine sowie Transportversicherungspolicen durch Indossament übertragen werden, wenn sie an Order lauten.
+(2) Ferner können Konossemente der Verfrachter, Ladescheine der Frachtführer, Lagerscheine sowie Transportversicherungspolicen durch Indossament übertragen werden, wenn sie an Order lauten.
+
+§ 363 Abs. 2 Kursivdruck: Müsste richtig "Konnossemente" lauten
 
 # § 364
 
 (1) Durch das Indossament gehen alle Rechte aus dem indossierten Papier auf den Indossatar über.
 
-(2) Dem legitimierten Besitzer der Urkunde kann der Schuldner nur solche Einwendungen entgegensetzen, welche die Gültigkeit seiner Erklärung in der Urkunde betreffen oder sich aus dem Inhalt der Urkunde ergeben oder ihm unmittelbar gegen den Besitzer zustehen.
+(2) Dem legitimierten Besitzer der Urkunde kann der Schuldner nur solche Einwendungen entgegensetzen, welche die Gültigkeit seiner Erklärung in der Urkunde betreffen oder sich aus dem Inhalte der Urkunde ergeben oder ihm unmittelbar gegen den Besitzer zustehen.
 
 (3) Der Schuldner ist nur gegen Aushändigung der quittierten Urkunde zur Leistung verpflichtet.
 
@@ -5273,11 +5286,11 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 # § 369
 
-(1) Ein Kaufmann hat wegen der fälligen Forderungen, welche ihm gegen einen anderen Kaufmann aus den zwischen ihnen geschlossenen beiderseitigen Handelsgeschäften zustehen, ein Zurückbehaltungsrecht an den beweglichen Sachen und Wertpapieren des Schuldners, welche mit dessen Willen auf Grund von Handelsgeschäften in seinen Besitze gelangt sind, sofern er sie noch im Besitz hat, insbesondere mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann. Das Zurückbehaltungsrecht ist auch dann begründet, wenn das Eigentum an dem Gegenstande von dem Schuldner auf den Gläubiger übergegangen oder von einem Dritten für den Schuldner auf den Gläubiger übertragen, aber auf den Schuldner zurückzuübertragen ist.
+(1) Ein Kaufmann hat wegen der fälligen Forderungen, welche ihm gegen einen anderen Kaufmann aus den zwischen ihnen geschlossenen beiderseitigen Handelsgeschäften zustehen, ein Zurückbehaltungsrecht an den beweglichen Sachen und Wertpapieren des Schuldners, welche mit dessen Willen auf Grund von Handelsgeschäften in seinen Besitz gelangt sind, sofern er sie noch im Besitze hat, insbesondere mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann. Das Zurückbehaltungsrecht ist auch dann begründet, wenn das Eigentum an dem Gegenstande von dem Schuldner auf den Gläubiger übergegangen oder von einem Dritten für den Schuldner auf den Gläubiger übertragen, aber auf den Schuldner zurückzuübertragen ist.
 
 (2) Einem Dritten gegenüber besteht das Zurückbehaltungsrecht insoweit, als dem Dritten die Einwendungen gegen den Anspruch des Schuldners auf Herausgabe des Gegenstandes entgegengesetzt werden können.
 
-(3) Das Zurückbehaltungsrecht ist ausgeschlossen, wenn die Zurückbehaltung des Gegenstandes der von dem Schuldner vor oder bei der Übergabe erteilten Anweisung oder der von dem Gläubiger übernommenen Verpflichtung, in einer bestimmten Weise mit dem Gegenstand zu verfahren, widerstreitet.
+(3) Das Zurückbehaltungsrecht ist ausgeschlossen, wenn die Zurückbehaltung des Gegenstandes der von dem Schuldner vor oder bei der Übergabe erteilten Anweisung oder der von dem Gläubiger übernommenen Verpflichtung, in einer bestimmten Weise mit dem Gegenstande zu verfahren, widerstreitet.
 
 (4) Der Schuldner kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.
 
@@ -5295,31 +5308,31 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 # § 372
 
-(1) In Ansehung der Befriedigung aus dem zurückbehaltenen Gegenstande gilt zugunsten des Gläubigers der Schuldner, sofern er bei dem Besitzerwerbe des Gläubigers der Eigentümer des Gegenstands war, auch weiter als Eigentümer, sofern nicht der Gläubiger weiß, daß der Schuldner nicht mehr Eigentümer ist.
+(1) In Ansehung der Befriedigung aus dem zurückbehaltenen Gegenstande gilt zugunsten des Gläubigers der Schuldner, sofern er bei dem Besitzerwerbe des Gläubigers der Eigentümer des Gegenstandes war, auch weiter als Eigentümer, sofern nicht der Gläubiger weiß, daß der Schuldner nicht mehr Eigentümer ist.
 
 (2) Erwirbt ein Dritter nach dem Besitzerwerbe des Gläubigers von dem Schuldner das Eigentum, so muß er ein rechtskräftiges Urteil, das in einem zwischen dem Gläubiger und dem Schuldner wegen Gestattung der Befriedigung geführten Rechtsstreit ergangen ist, gegen sich gelten lassen, sofern nicht der Gläubiger bei dem Eintritte der Rechtshängigkeit gewußt hat, daß der Schuldner nicht mehr Eigentümer war.
 
 # § 373
 
-(1) Ist der Käufer mit der Annahme der Ware im Verzug, so kann der Verkäufer die Ware auf Gefahr und Kosten des Käufers in einem öffentlichen Lagerhaus oder sonst in sicherer Weise hinterlegen.
+(1) Ist der Käufer mit der Annahme der Ware im Verzuge, so kann der Verkäufer die Ware auf Gefahr und Kosten des Käufers in einem öffentlichen Lagerhaus oder sonst in sicherer Weise hinterlegen.
 
-(2) Er ist ferner befugt, nach vorgängiger Androhung die Ware öffentlich versteigern zu lassen; er kann, wenn die Ware einen Börsen- oder Marktpreis hat, nach vorgängiger Androhung den Verkauf auch aus freier Hand durch einen zu solchen Verkäufen öffentlich ermächtigten Handelsmakler oder durch eine zur öffentlichen Versteigerung befugte Person zum laufenden Preise bewirken. Ist die Ware dem Verderb ausgesetzt und Gefahr im Verzug, so bedarf es der vorgängigen Androhung nicht; dasselbe gilt, wenn die Androhung aus anderen Gründen untunlich ist.
+(2) Er ist ferner befugt, nach vorgängiger Androhung die Ware öffentlich versteigern zu lassen; er kann, wenn die Ware einen Börsen- oder Marktpreis hat, nach vorgängiger Androhung den Verkauf auch aus freier Hand durch einen zu solchen Verkäufen öffentlich ermächtigten Handelsmakler oder durch eine zur öffentlichen Versteigerung befugte Person zum laufenden Preise bewirken. Ist die Ware dem Verderb ausgesetzt und Gefahr im Verzuge, so bedarf es der vorgängigen Androhung nicht; dasselbe gilt, wenn die Androhung aus anderen Gründen untunlich ist.
 
 (3) Der Selbsthilfeverkauf erfolgt für Rechnung des säumigen Käufers.
 
 (4) Der Verkäufer und der Käufer können bei der öffentlichen Versteigerung mitbieten.
 
-(5) Im Falle der öffentlichen Versteigerung hat der Verkäufer den Käufer von der Zeit und dem Orte der Versteigerung vorher zu benachrichtigen; von dem vollzogenen Verkaufe hat er bei jeder Art des Verkaufs dem Käufer unverzüglich Nachricht zu geben. Im Falle der Unterlassung ist er zum Schadensersatz verpflichtet. Die Benachrichtigungen dürfen unterbleiben, wenn sie untunlich sind.
+(5) Im Falle der öffentlichen Versteigerung hat der Verkäufer den Käufer von der Zeit und dem Orte der Versteigerung vorher zu benachrichtigen; von dem vollzogenen Verkaufe hat er bei jeder Art des Verkaufs dem Käufer unverzüglich Nachricht zu geben. Im Falle der Unterlassung ist er zum Schadensersatze verpflichtet. Die Benachrichtigungen dürfen unterbleiben, wenn sie untunlich sind.
 
 # § 374
 
-Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche dem Verkäufer nach dem Bürgerlichen Gesetzbuch zustehen, wenn der Käufer im Verzug der Annahme ist.
+Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche dem Verkäufer nach dem Bürgerlichen Gesetzbuche zustehen, wenn der Käufer im Verzuge der Annahme ist.
 
 # § 375
 
 (1) Ist bei dem Kaufe einer beweglichen Sache dem Käufer die nähere Bestimmung über Form, Maß oder ähnliche Verhältnisse vorbehalten, so ist der Käufer verpflichtet, die vorbehaltene Bestimmung zu treffen.
 
-(2) Ist der Käufer mit der Erfüllung dieser Verpflichtung im Verzug, so kann der Verkäufer die Bestimmung statt des Käufers vornehmen oder gemäß den §§ 280, 281 des Bürgerlichen Gesetzbuchs Schadensersatz statt der Leistung verlangen oder gemäß § 323 des Bürgerlichen Gesetzbuchs vom Vertrag zurücktreten. Im ersteren Falle hat der Verkäufer die von ihm getroffene Bestimmung dem Käufer mitzuteilen und ihm zugleich eine angemessene Frist zur Vornahme einer anderweitigen Bestimmung zu setzen. Wird eine solche innerhalb der Frist von dem Käufer nicht vorgenommen, so ist die von dem Verkäufer getroffene Bestimmung maßgebend.
+(2) Ist der Käufer mit der Erfüllung dieser Verpflichtung in Verzug, so kann der Verkäufer die Bestimmung statt des Käufers vornehmen oder gemäß den §§ 280, 281 des Bürgerlichen Gesetzbuchs Schadensersatz statt der Leistung verlangen oder gemäß § 323 des Bürgerlichen Gesetzbuchs vom Vertrag zurücktreten. Im ersteren Falle hat der Verkäufer die von ihm getroffene Bestimmung dem Käufer mitzuteilen und ihm zugleich eine angemessene Frist zur Vornahme einer anderweitigen Bestimmung zu setzen. Wird eine solche innerhalb der Frist von dem Käufer nicht vorgenommen, so ist die von dem Verkäufer getroffene Bestimmung maßgebend.
 
 # § 376
 
@@ -5329,7 +5342,7 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (3) Das Ergebnis eines anderweit vorgenommenen Verkaufs oder Kaufes kann, falls die Ware einen Börsen- oder Marktpreis hat, dem Ersatzanspruche nur zugrunde gelegt werden, wenn der Verkauf oder Kauf sofort nach dem Ablaufe der bedungenen Leistungszeit oder Leistungsfrist bewirkt ist. Der Verkauf oder Kauf muß, wenn er nicht in öffentlicher Versteigerung geschieht, durch einen zu solchen Verkäufen oder Käufen öffentlich ermächtigten Handelsmakler oder eine zur öffentlichen Versteigerung befugte Person zum laufenden Preise erfolgen.
 
-(4) Auf den Verkauf mittels öffentlicher Versteigerung findet die Vorschrift des § 373 Abs. 4 Anwendung. Von dem Verkauf oder Kaufe hat der Gläubiger den Schuldner unverzüglich zu benachrichtigen; im Falle der Unterlassung ist er zum Schadensersatz verpflichtet.
+(4) Auf den Verkauf mittels öffentlicher Versteigerung findet die Vorschrift des § 373 Abs. 4 Anwendung. Von dem Verkauf oder Kaufe hat der Gläubiger den Schuldner unverzüglich zu benachrichtigen; im Falle der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 # § 377
 
@@ -5399,7 +5412,7 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 # § 388
 
-(1) Befindet sich das Gut, welches dem Kommissionär zugesendet ist, bei der Ablieferung in einem beschädigten oder mangelhaften Zustande, der äußerlich erkennbar ist, so hat der Kommissionär die Rechte gegen den Frachtführer oder Schiffer zu wahren, für den Beweis des Zustands zu sorgen und dem Kommittenten unverzüglich Nachricht zu geben; im Falle der Unterlassung ist er zum Schadensersatz verpflichtet.
+(1) Befindet sich das Gut, welches dem Kommissionär zugesendet ist, bei der Ablieferung in einem beschädigten oder mangelhaften Zustande, der äußerlich erkennbar ist, so hat der Kommissionär die Rechte gegen den Frachtführer oder Schiffer zu wahren, für den Beweis des Zustandes zu sorgen und dem Kommittenten unverzüglich Nachricht zu geben; im Falle der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 (2) Ist das Gut dem Verderb ausgesetzt oder treten später Veränderungen an dem Gute ein, die dessen Entwertung befürchten lassen, und ist keine Zeit vorhanden, die Verfügung des Kommittenten einzuholen, oder ist der Kommittent in der Erteilung der Verfügung säumig, so kann der Kommissionär den Verkauf des Gutes nach Maßgabe der Vorschriften des § 373 bewirken.
 
@@ -5453,7 +5466,7 @@ Der Kommissionär hat wegen der auf das Gut verwendeten Kosten, der Provision, d
 
 # § 398
 
-Der Kommissionär kann sich, auch wenn er Eigentümer des Kommissionsguts ist, für die in § 397 bezeichneten Ansprüche nach Maßgabe der für das Pfandrecht geltenden Vorschriften aus dem Gut befriedigen.
+Der Kommissionär kann sich, auch wenn er Eigentümer des Kommissionsguts ist, für die in § 397 bezeichneten Ansprüche nach Maßgabe der für das Pfandrecht geltenden Vorschriften aus dem Gute befriedigen.
 
 # § 399
 
@@ -5463,7 +5476,7 @@ Aus den Forderungen, welche durch das für Rechnung des Kommittenten geschlossen
 
 (1) Die Kommission zum Einkauf oder zum Verkaufe von Waren, die einen Börsen- oder Marktpreis haben, sowie von Wertpapieren, bei denen ein Börsen- oder Marktpreis amtlich festgestellt wird, kann, wenn der Kommittent nicht ein anderes bestimmt hat, von dem Kommissionär dadurch ausgeführt werden, daß er das Gut, welches er einkaufen soll, selbst als Verkäufer liefert oder das Gut, welches er verkaufen soll, selbst als Käufer übernimmt.
 
-(2) Im Falle einer solchen Ausführung der Kommission beschränkt sich die Pflicht des Kommissionärs, Rechenschaft über die Abschließung des Kaufes oder Verkaufs abzulegen, auf den Nachweis, daß bei dem berechneten Preis der zur Zeit der Ausführung der Kommission bestehende Börsen- oder Marktpreis eingehalten ist. Als Zeit der Ausführung gilt der Zeitpunkt, in welchem der Kommissionär die Anzeige von der Ausführung zur Absendung an den Kommittenten abgegeben hat.
+(2) Im Falle einer solchen Ausführung der Kommission beschränkt sich die Pflicht des Kommissionärs, Rechenschaft über die Abschließung des Kaufes oder Verkaufs abzulegen, auf den Nachweis, daß bei dem berechneten Preise der zur Zeit der Ausführung der Kommission bestehende Börsen- oder Marktpreis eingehalten ist. Als Zeit der Ausführung gilt der Zeitpunkt, in welchem der Kommissionär die Anzeige von der Ausführung zur Absendung an den Kommittenten abgegeben hat.
 
 (3) Ist bei einer Kommission, die während der Börsen- oder Marktzeit auszuführen war, die Ausführungsanzeige erst nach dem Schlusse der Börse oder des Marktes zur Absendung abgegeben, so darf der berechnete Preis für den Kommittenten nicht ungünstiger sein als der Preis, der am Schlusse der Börse oder des Marktes bestand.
 
@@ -5493,15 +5506,15 @@ Die Vorschriften der §§ 397 und 398 finden auch im Falle der Ausführung der K
 
 (1) Zeigt der Kommissionär die Ausführung der Kommission an, ohne ausdrücklich zu bemerken, daß er selbst eintreten wolle, so gilt dies als Erklärung, daß die Ausführung durch Abschluß des Geschäfts mit einem Dritten für Rechnung des Kommittenten erfolgt sei.
 
-(2) Eine Vereinbarung zwischen dem Kommittenten und dem Kommissionär, daß die Erklärung darüber, ob die Kommission durch Selbsteintritt oder durch Abschluß mit einem Dritten ausgeführt sei, später als am Tag der Ausführungsanzeige abgegeben werden dürfe, ist nichtig.
+(2) Eine Vereinbarung zwischen dem Kommittenten und dem Kommissionär, daß die Erklärung darüber, ob die Kommission durch Selbsteintritt oder durch Abschluß mit einem Dritten ausgeführt sei, später als am Tage der Ausführungsanzeige abgegeben werden dürfe, ist nichtig.
 
 (3) Widerruft der Kommittent die Kommission und geht der Widerruf dem Kommissionär zu, bevor die Ausführungsanzeige zur Absendung abgegeben ist, so steht dem Kommissionär das Recht des Selbsteintritts nicht mehr zu.
 
 # § 406
 
-(1) Die Vorschriften dieses Abschnitts kommen auch zur Anwendung, wenn ein Kommissionär im Betriebe seines Handelsgewerbes ein Geschäft anderer als der in § 383 bezeichneten Art für Rechnung eines anderen im eigenen Namen zu schließen übernimmt. Das gleiche gilt, wenn ein Kaufmann, der nicht Kommissionär ist, im Betrieb seines Handelsgewerbes ein Geschäft in der bezeichneten Weise zu schließen übernimmt.
+(1) Die Vorschriften dieses Abschnitts kommen auch zur Anwendung, wenn ein Kommissionär im Betriebe seines Handelsgewerbes ein Geschäft anderer als der in § 383 bezeichneten Art für Rechnung eines anderen in eigenem Namen zu schließen übernimmt. Das gleiche gilt, wenn ein Kaufmann, der nicht Kommissionär ist, im Betriebe seines Handelsgewerbes ein Geschäft in der bezeichneten Weise zu schließen übernimmt.
 
-(2) Als Einkaufs- und Verkaufskommission im Sinne dieses Abschnitts gilt auch eine Kommission, welche die Lieferung einer nicht vertretbaren beweglichen Sache, die aus einem von dem Unternehmer zu beschaffenden Stoff herzustellen ist, zum Gegenstand hat.
+(2) Als Einkaufs- und Verkaufskommission im Sinne dieses Abschnitts gilt auch eine Kommission, welche die Lieferung einer nicht vertretbaren beweglichen Sache, die aus einem von dem Unternehmer zu beschaffenden Stoffe herzustellen ist, zum Gegenstande hat.
 
 # § 407 – Frachtvertrag
 
@@ -6051,7 +6064,9 @@ nach den Vorschriften des Ersten Unterabschnitts bestimmt.
 
 (4) Der Spediteur hat bei Erfüllung seiner Pflichten das Interesse des Versenders wahrzunehmen und dessen Weisungen zu befolgen.
 
-# § 455 – Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten
+§ 454 Abs. 1 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Schadenersatzansprüchen" durch das Wort "Schadensersatzansprüchen" ersetzt
+
+# § 455 – Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Versender ist verpflichtet, das Gut, soweit erforderlich, zu verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen sowie alle Auskünfte zu erteilen, deren der Spediteur zur Erfüllung seiner Pflichten bedarf. Soll gefährliches Gut versendet werden, so hat der Versender dem Spediteur rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen.
 
@@ -6141,7 +6156,9 @@ Ferner kann durch vorformulierte Vertragsbedingungen die vom Versender nach § 4
 
 (3) Die Vorschriften dieses Abschnitts gelten nur, wenn die Lagerung und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens gehören. Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Lagergeschäfts auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-# § 468 – Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten
+§ 467 Abs. 3 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Vorschritten" durch das Wort "Vorschriften" ersetzt
+
+# § 468 – Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Einlagerer ist verpflichtet, dem Lagerhalter, wenn gefährliches Gut eingelagert werden soll, rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen. Er hat ferner das Gut, soweit erforderlich, zu verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen sowie alle Auskünfte zu erteilen, die der Lagerhalter zur Erfüllung seiner Pflichten benötigt.
 
@@ -6183,7 +6200,7 @@ Befindet sich Gut, das dem Lagerhalter zugesandt ist, beim Empfang in einem besc
 
 (2) Sind nach dem Empfang Veränderungen an dem Gut entstanden oder zu befürchten, die den Verlust oder die Beschädigung des Gutes oder Schäden des Lagerhalters erwarten lassen, so hat der Lagerhalter dies dem Einlagerer oder, wenn ein Lagerschein ausgestellt ist, dem letzten ihm bekannt gewordenen legitimierten Besitzer des Scheins unverzüglich anzuzeigen und dessen Weisungen einzuholen. Kann der Lagerhalter innerhalb angemessener Zeit Weisungen nicht erlangen, so hat er die angemessen erscheinenden Maßnahmen zu ergreifen. Er kann insbesondere das Gut gemäß § 373 verkaufen lassen; macht er von dieser Befugnis Gebrauch, so hat der Lagerhalter, wenn ein Lagerschein ausgestellt ist, die in § 373 Abs. 3 vorgesehene Androhung des Verkaufs sowie die in Absatz 5 derselben Vorschriften vorgesehenen Benachrichtigungen an den letzten ihm bekannt gewordenen legitimierten Besitzer des Lagerscheins zu richten.
 
-# § 472 – Versicherung, Einlagerung bei einem Dritten
+# § 472 – Versicherung. Einlagerung bei einem Dritten
 
 (1) Der Lagerhalter ist verpflichtet, das Gut auf Verlangen des Einlagerers zu versichern. Ist der Einlagerer ein Verbraucher, so hat ihn der Lagerhalter auf die Möglichkeit hinzuweisen, das Gut zu versichern.
 

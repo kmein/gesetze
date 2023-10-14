@@ -363,4 +363,4 @@ Auf Musterverfahren, in denen vor dem 1. November 2012 bereits mündlich verhand
 
 # § 28 – Außerkrafttreten
 
-Dieses Gesetz tritt mit Ablauf des 31. Dezember 2023 außer Kraft.
+Dieses Gesetz tritt mit Ablauf des 31. August 2024 außer Kraft.
