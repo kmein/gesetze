@@ -1339,7 +1339,7 @@ Kommt die Finanzbehörde in den Fällen des § 100 Abs. 1 Satz 2 und der §§ 10
 
 # § 155
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen Unterschiede der beiden Verfahrensarten es nicht ausschließen, die Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß anzuwenden; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen Unterschiede der beiden Verfahrensarten es nicht ausschließen, die Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
 
 # § 156
 

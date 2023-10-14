@@ -1759,7 +1759,7 @@ Streitigkeiten über Zahlungsansprüche nach Satz 1 von mehr als 5 000 Euro kö
 
 2. der Anspruch bereits bei einem Gericht rechtshängig ist oder rechtshängig war,
 
-3. der streitige Anspruch oder das Rechtsverhältnis des Fluggastes, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum Klageregister einer Musterfeststellungsklage nach § 608 der Zivilprozessordnung wirksam angemeldet ist,
+3. der streitige Anspruch oder das Rechtsverhältnis des Fluggastes, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum Verbandsklageregister nach § 46 des Verbraucherrechtedurchsetzungsgesetzes wirksam angemeldet ist,
 
 4. der Anspruch bereits bei einer Schlichtungsstelle nach § 57 oder § 57a geltend gemacht worden ist, die zur Schlichtung des Anspruchs angerufen werden konnte und deren Anrufung nicht nach Nummer 6 ausgeschlossen war,
 
@@ -1769,7 +1769,7 @@ Streitigkeiten über Zahlungsansprüche nach Satz 1 von mehr als 5 000 Euro kö
 
 7. die Höhe des Anspruchs 10 Euro nicht überschreitet.
 
-Die Schlichtung nach den §§ 57 und 57a wird unzulässig, wenn während des Schlichtungsverfahrens der Anspruch bei einem Gericht rechtshängig gemacht wird oder der streitige Anspruch oder das Rechtsverhältnis des Fluggastes, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum Klageregister einer rechtshängigen Musterfeststellungsklage nach § 608 der Zivilprozessordnung wirksam angemeldet wird.
+Die Schlichtung nach den §§ 57 und 57a wird unzulässig, wenn während des Schlichtungsverfahrens der Anspruch bei einem Gericht rechtshängig gemacht wird oder der streitige Anspruch oder das Rechtsverhältnis des Fluggastes, das den Gegenstand des Streitbeilegungsverfahrens bildet, zum rechtshängigen Verbandsklageregister nach § 46 des Verbraucherrechtedurchsetzungsgesetzes wirksam angemeldet wird.
 
 (3) Die Schlichtungsstellen können die Schlichtung ablehnen, wenn eine grundsätzliche Rechtsfrage, die für die Bewertung der Streitigkeit erheblich ist, nicht geklärt ist.
 

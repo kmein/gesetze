@@ -263,6 +263,8 @@ d) über die Abänderung, die Aufhebung oder den Widerruf einer in einem Verfahr
 
 5. der Urkunden- oder Wechselprozess und das ordentliche Verfahren, das nach Abstandnahme vom Urkunden- oder Wechselprozess oder nach einem Vorbehaltsurteil anhängig bleibt (§§ 596, 600 der Zivilprozessordnung),
 
+5a. jeweils das Abhilfeverfahren, das Verfahren über die Erhöhung des kollektiven Gesamtbetrags und das Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz,
+
 6. das Schiedsverfahren und das Verfahren über die Zulassung der Vollziehung einer vorläufigen oder sichernden Maßnahme sowie das Verfahren über einen Antrag auf Aufhebung oder Änderung einer Entscheidung über die Zulassung der Vollziehung (§ 1041 der Zivilprozessordnung),
 
 7. das gerichtliche Verfahren und ein vorausgegangenes
@@ -351,7 +353,7 @@ nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in 
 
 1. die Vorbereitung der Klage, des Antrags oder der Rechtsverteidigung, soweit kein besonderes gerichtliches oder behördliches Verfahren stattfindet;
 
-1a. die Einreichung von Schutzschriften und die Anmeldung von Ansprüchen oder Rechtsverhältnissen zum Klageregister für Musterfeststellungsklagen sowie die Rücknahme der Anmeldung;
+1a. die Einreichung von Schutzschriften und die Anmeldung von Ansprüchen oder Rechtsverhältnissen zum Verbandsklageregister sowie die Rücknahme der Anmeldung;
 
 1b. die Verkündung des Streits (§ 72 der Zivilprozessordnung);
 
@@ -466,6 +468,10 @@ Soweit eine Sache an ein anderes Gericht verwiesen oder abgegeben wird, sind die
 # § 23b – Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
 Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz bestimmt sich der Gegenstandswert nach der Höhe des von dem Auftraggeber oder gegen diesen im Ausgangsverfahren geltend gemachten Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
+
+# § 23c – Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Der Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz ist unter Berücksichtigung des wirtschaftlichen Interesses, das der Auftraggeber im Verfahren verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 # § 24 – Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
 
@@ -2627,7 +2633,6 @@ Vorzeitige Beendigung des Auftrags im Fall der Nummern 3324 bis 3327, 3334 und 3
 Die Gebühren 3324 bis 3327, 3334 und 3335 betragen höchstens ..........
 
   
-  
 0,5
 
  
@@ -2644,8 +2649,13 @@ Eine vorzeitige Beendigung liegt vor,
 
 Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) ..........
 
-  
 0,8
+
+3339
+
+Verfahrensgebühr für das Umsetzungsverfahren nach dem VDuG .......... Bei der Vertretung mehrerer Verbraucher, die verschiedene Ansprüche geltend machen, entsteht die Gebühr jeweils besonders.
+
+0,5
 
 Abschnitt 4  
 Einzeltätigkeiten

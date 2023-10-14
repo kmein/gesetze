@@ -71,7 +71,7 @@ Verfahren nach dem Arbeitsgerichtsgesetz
 
 § 12
 
-Verfahren nach der Zivilprozessordnung
+Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
 
 § 12a
 
@@ -154,6 +154,10 @@ Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
 § 26
 
 Zwangsversteigerungs- und Zwangsverwaltungsverfahren
+
+§ 26a
+
+Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
 
 § 27
 
@@ -323,6 +327,10 @@ Insolvenzverfahren
 
 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
+§ 59a
+
+Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
 § 60
 
 Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
@@ -453,6 +461,8 @@ Anlage 2 (zu § 34 Absatz 1 Satz 3)
 
 17. nach dem EU-Verbraucherschutzdurchführungsgesetz;
 
+17a. nach dem Verbraucherrechtedurchsetzungsgesetz;
+
 18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen;
 
 19. nach dem Kohlendioxid-Speicherungsgesetz;
@@ -575,7 +585,9 @@ In Strafsachen werden die Kosten, die dem verurteilten Beschuldigten zur Last fa
 
 (1) Die Gebühr für die Anmeldung eines Anspruchs zum Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz wird mit Einreichung der Anmeldungserklärung fällig. Die Auslagen des Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz werden mit dem rechtskräftigen Abschluss des Musterverfahrens fällig.
 
-(2) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
+(2) Die Gebühr für das Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz wird mit dessen Eröffnung fällig.
+
+(3) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
 
 1. eine unbedingte Entscheidung über die Kosten ergangen ist,
 
@@ -587,7 +599,7 @@ In Strafsachen werden die Kosten, die dem verurteilten Beschuldigten zur Last fa
 
 5. das Verfahren durch anderweitige Erledigung beendet ist.
 
-(3) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
+(4) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
 # § 10 – Grundsatz für die Abhängigmachung
 
@@ -597,7 +609,7 @@ In weiterem Umfang als die Prozessordnungen und dieses Gesetz es gestatten, darf
 
 In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses Abschnitts nicht anzuwenden; dies gilt für die Zwangsvollstreckung in Arbeitssachen auch dann, wenn das Amtsgericht Vollstreckungsgericht ist. Satz 1 gilt nicht in Verfahren wegen überlanger Gerichtsverfahren (§ 9 Absatz 2 Satz 2 des Arbeitsgerichtsgesetzes).
 
-# § 12 – Verfahren nach der Zivilprozessordnung
+# § 12 – Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
 
 (1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
 
@@ -756,6 +768,10 @@ Die Kosten des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilung
 (2) Die Kosten für die Erteilung des Zuschlags schuldet nur der Ersteher; § 29 Nummer 3 bleibt unberührt. Im Fall der Abtretung der Rechte aus dem Meistgebot oder der Erklärung, für einen Dritten geboten zu haben (§ 81 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung), haften der Ersteher und der Meistbietende als Gesamtschuldner.
 
 (3) Die Kosten des Beschwerdeverfahrens schuldet der Beschwerdeführer.
+
+# § 26a – Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Die Kosten des Umsetzungsverfahrens nach dem Verbraucherrechtedurchsetzungsgesetz schuldet nur der im zugrunde liegenden Abhilfeverfahren verurteilte Unternehmer.
 
 # § 27 – Bußgeldsachen
 
@@ -920,7 +936,7 @@ Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzei
 
 # § 48 – Bürgerliche Rechtsstreitigkeiten
 
-(1) In bürgerlichen Rechtsstreitigkeiten richten sich die Gebühren nach den für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels geltenden Vorschriften über den Wert des Streitgegenstands, soweit nichts anderes bestimmt ist. In Musterfeststellungsklagen nach Buch 6 der Zivilprozessordnung und in Rechtsstreitigkeiten aufgrund des Unterlassungsklagengesetzes darf der Streitwert 250 000 Euro nicht übersteigen.
+(1) In bürgerlichen Rechtsstreitigkeiten richten sich die Gebühren nach den für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels geltenden Vorschriften über den Wert des Streitgegenstands, soweit nichts anderes bestimmt ist. In Rechtsstreitigkeiten aufgrund des Unterlassungsklagengesetzes und in Musterfeststellungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz darf der Streitwert 250 000 Euro nicht übersteigen. In Abhilfeverfahren sowie in Verfahren über die Erhöhung des kollektiven Gesamtbetrags nach dem Verbraucherrechtedurchsetzungsgesetz darf der Streitwert 300 000 Euro nicht übersteigen.
 
 (2) In nichtvermögensrechtlichen Streitigkeiten ist der Streitwert unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Parteien, nach Ermessen zu bestimmen. Der Wert darf nicht über eine Million Euro angenommen werden.
 
@@ -956,7 +972,7 @@ In Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz bestimmt sich 
 
 (1) In Rechtsmittelverfahren des gewerblichen Rechtsschutzes (§ 1 Absatz 1 Satz 1 Nummer 14) und in Verfahren über Ansprüche nach dem Patentgesetz, dem Gebrauchsmustergesetz, dem Markengesetz, dem Designgesetz, dem Halbleiterschutzgesetz und dem Sortenschutzgesetz ist der Wert nach billigem Ermessen zu bestimmen.
 
-(2) In Verfahren über Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb und nach dem Gesetz zum Schutz von Geschäftsgeheimnissen ist, soweit nichts anderes bestimmt ist, der Streitwert nach der sich aus dem Antrag des Klägers für ihn ergebenden Bedeutung der Sache nach Ermessen zu bestimmen.
+(2) In Verfahren über Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb und nach dem Gesetz zum Schutz von Geschäftsgeheimnissen ist, soweit nichts anderes bestimmt ist, der Streitwert nach der sich aus dem Antrag des Klägers für ihn ergebenden Bedeutung der Sache nach Ermessen zu bestimmen. In Gewinnabschöpfungsverfahren nach dem Gesetz gegen den unlauteren Wettbewerb darf der Streitwert 410 000 Euro nicht übersteigen.
 
 (3) Ist die Bedeutung der Sache für den Beklagten erheblich geringer zu bewerten als der nach Absatz 2 ermittelte Streitwert, ist dieser angemessen zu mindern. Bietet der Sach- und Streitstand für die Bestimmung des Streitwerts hinsichtlich des Beseitigungs- oder Unterlassungsanspruchs keine genügenden Anhaltspunkte, ist insoweit ein Streitwert von 1 000 Euro anzunehmen. Dieser Wert ist auch anzunehmen, wenn die dem Rechtsstreit zugrunde liegende Zuwiderhandlung angesichts ihrer Art, ihres Ausmaßes und ihrer Folgen die Interessen von Verbrauchern, Mitbewerbern oder sonstigen Marktteilnehmern in nur unerheblichem Maße beeinträchtigt. Der nach Satz 2 oder Satz 3 anzunehmende Wert ist auch maßgebend, wenn in den dort genannten Fällen die Ansprüche auf Beseitigung und Unterlassung nebeneinander geltend gemacht werden.
 
@@ -1079,6 +1095,10 @@ Bei der Zwangsliquidation einer Bahneinheit bestimmt sich die Gebühr für das V
 # § 59 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
 Die Gebühren für den Antrag auf Eröffnung des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilungsordnung und für die Durchführung des Verteilungsverfahrens richten sich nach dem Betrag der festgesetzten Haftungssumme. Ist diese höher als der Gesamtbetrag der Ansprüche, für deren Gläubiger das Recht auf Teilnahme an dem Verteilungsverfahren festgestellt wird, richten sich die Gebühren nach dem Gesamtbetrag der Ansprüche.
+
+# § 59a – Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz bestimmt sich die Gebühr nach dem Gesamtwert der von dem Umsetzungsverfahren erfassten Ansprüche.
 
 # § 60 – Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
 

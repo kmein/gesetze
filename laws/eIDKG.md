@@ -69,7 +69,7 @@
 
 (2) Die eID-Karte ist Eigentum der Bundesrepublik Deutschland.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat bestimmt
+(3) Das Bundesministerium des Innern und für Heimat bestimmt
 
 1. den Kartenhersteller,
 
@@ -339,7 +339,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (2) Die Gebühr soll die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken. In die Gebühr sind die mit der Leistung regelmäßig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind die Kosten, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zu Grunde zu legen. Zu den Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht. Grundlage der Gebührenermittlung nach den Sätzen 1 bis 4 sind Kosten, die in der Gesamtheit der Länder mit der jeweiligen Leistung verbunden sind. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6 und die §§ 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, für den Bereich der Landesverwaltung durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung näher zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, für den Bereich der Landesverwaltung durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung näher zu bestimmen.
 
 (4) Das Auswärtige Amt kann durch Besondere Gebührenverordnung nach § 22 Absatz 4 des Bundesgebührengesetzes bestimmen, dass von den Auslandsvertretungen der Bundesrepublik Deutschland für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent betragen.
 
@@ -357,7 +357,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 # § 25 – Verordnungsermächtigung
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates durch Rechtsverordnung
+Das Bundesministerium des Innern und für Heimat wird ermächtigt, im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 1. das Muster der eID-Karte zu bestimmen,
 
@@ -367,7 +367,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Beneh
 
 4. die Einzelheiten über das Verfahren der Übermittlung sämtlicher Antragsdaten von den eID-Karte-Behörden an den Kartenhersteller zu regeln,
 
-5. die Herstellung der eID-Karte und die Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
+5. die Herstellung der eID-Karte und die Übermittlung und Übergabe von Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
 
 6. Einzelheiten der Aushändigung und den Versand der eID-Karte zu regeln,
 
@@ -389,7 +389,9 @@ festzulegen,
 
 10. die sicherheitstechnischen Rahmenbedingungen festzulegen, die vorliegen müssen, damit öffentliche und private Stellen ein Benutzerkonto nach § 14 in Verbindung mit § 19 Absatz 5 des Personalausweisgesetzes anlegen und betreiben dürfen,
 
-11. die Einzelheiten der Vergabe der Berechtigungen und der Berechtigungszertifikate festzulegen.
+11. die Einzelheiten der Vergabe der Berechtigungen und der Berechtigungszertifikate festzulegen,
+
+12. die Einzelheiten zur Durchführung von automatisierten Mitteilungen oder automatisierten Abrufen nach § 19a sowie zur Form und zum Inhalt der zu übermittelnden Daten festzulegen.
 
 In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
 

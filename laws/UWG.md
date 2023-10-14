@@ -119,7 +119,7 @@ Zu den Umständen, die nach Nummer 3 zu berücksichtigen sind, zählen insbesond
 
 2. mit ihr eine Ware in einem Mitgliedstaat der Europäischen Union als identisch mit einer in anderen Mitgliedstaaten der Europäischen Union auf dem Markt bereitgestellten Ware vermarktet wird, obwohl sich diese Waren in ihrer Zusammensetzung oder in ihren Merkmalen wesentlich voneinander unterscheiden, sofern dies nicht durch legitime und objektive Faktoren gerechtfertigt ist.
 
-(4) Angaben im Sinne von Absatz 1 Satz 2 sind auch Angaben im Rahmen vergleichender Werbung sowie bildliche Darstellungen und sonstige Veranstaltungen, die darauf zielen und geeignet sind, solche Angaben zu ersetzen.
+(4) Angaben im Sinne von Absatz 2 sind auch Angaben im Rahmen vergleichender Werbung sowie bildliche Darstellungen und sonstige Veranstaltungen, die darauf zielen und geeignet sind, solche Angaben zu ersetzen.
 
 (5) Es wird vermutet, dass es irreführend ist, mit der Herabsetzung eines Preises zu werben, sofern der Preis nur für eine unangemessen kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem Zeitraum der Preis gefordert worden ist, so trifft die Beweislast denjenigen, der mit der Preisherabsetzung geworben hat.
 
@@ -259,13 +259,13 @@ c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Auff
 
 2. denjenigen rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b eingetragen sind, soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, und die Zuwiderhandlung die Interessen ihrer Mitglieder berührt,
 
-3. den qualifizierten Einrichtungen, die in der Liste der qualifizierten Einrichtungen nach § 4 des Unterlassungsklagengesetzes eingetragen sind, oder den qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30), die zuletzt durch die Verordnung (EU) 2018/302 (ABl. L 60I vom 2.3.2018, S. 1) geändert worden ist, eingetragen sind,
+3. den qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des Unterlassungsklagengesetzes eingetragen sind, und den qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1 Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind,
 
 4. den Industrie- und Handelskammern, den nach der Handwerksordnung errichteten Organisationen und anderen berufsständischen Körperschaften des öffentlichen Rechts im Rahmen der Erfüllung ihrer Aufgaben sowie den Gewerkschaften im Rahmen der Erfüllung ihrer Aufgaben bei der Vertretung selbstständiger beruflicher Interessen.
 
 (4) Stellen nach Absatz 3 Nummer 2 und 3 können die Ansprüche nicht geltend machen, solange ihre Eintragung ruht.
 
-(5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden; in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten an die Stelle der dort aufgeführten Ansprüche nach dem Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Im Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt ein Fall des § 4e des Unterlassungsklagengesetzes vor.
+(5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden; in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten an die Stelle der dort aufgeführten Ansprüche nach dem Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Macht eine anspruchsberechtigte Stelle nach Absatz 3 Nummer 3 Ansprüche nach Absatz 1 gerichtlich geltend, so sind die §§ 5a und 6a des Unterlassungsklagengesetzes entsprechend anzuwenden. Im Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt ein Fall des § 2a des Unterlassungsklagengesetzes vor.
 
 # § 8a – Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150
 
@@ -289,7 +289,7 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 4. seinen Mitgliedern keine Zuwendungen aus dem Verbandsvermögen gewährt werden und Personen, die für den Verband tätig sind, nicht durch unangemessen hohe Vergütungen oder andere Zuwendungen begünstigt werden.
 
-(3) § 4 Absatz 3 und 4 sowie die §§ 4a bis 4d des Unterlassungsklagengesetzes sind entsprechend anzuwenden.
+(3) Die Vorschriften für qualifizierte Verbraucherverbände in § 4 Absatz 3 und 4 und in den §§ 4a bis 4c und 4f des Unterlassungsklagengesetzes sind auf die qualifizierten Wirtschaftsverbände entsprechend anzuwenden. Ergänzend zu den Berichtspflichten der qualifizierten Wirtschaftsverbände nach § 4b Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sind auch die Anzahl der gestellten Anträge auf Erlass von einstweiligen Verfügungen und die Anzahl der erhobenen Klagen zur Durchsetzung der in dieser Vorschrift genannten Ansprüche anzugeben.
 
 # § 8c – Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung
 
@@ -323,15 +323,17 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 # § 10 – Gewinnabschöpfung
 
-(1) Wer vorsätzlich eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt und hierdurch zu Lasten einer Vielzahl von Abnehmern einen Gewinn erzielt, kann von den gemäß § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf Herausgabe dieses Gewinns an den Bundeshaushalt in Anspruch genommen werden.
+(1) Wer vorsätzlich oder grob fahrlässig eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt und hierdurch zu Lasten einer Vielzahl von Abnehmern einen Gewinn erzielt, kann von den gemäß § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf Herausgabe dieses Gewinns an den Bundeshaushalt in Anspruch genommen werden. Ist zwischen den Parteien streitig, ob durch die unzulässige geschäftliche Handlung zu Lasten einer Vielzahl von Abnehmern ein Gewinn erzielt wurde oder wie hoch der erzielte Gewinn ist, so entscheidet hierüber das Gericht unter Würdigung aller Umstände nach freier Überzeugung.
 
-(2) Auf den Gewinn sind die Leistungen anzurechnen, die der Schuldner auf Grund der Zuwiderhandlung an Dritte oder an den Staat erbracht hat. Soweit der Schuldner solche Leistungen erst nach Erfüllung des Anspruchs nach Absatz 1 erbracht hat, erstattet die zuständige Stelle des Bundes dem Schuldner den abgeführten Gewinn in Höhe der nachgewiesenen Zahlungen zurück.
+(2) Auf den Gewinn sind die Leistungen anzurechnen, die der Schuldner auf Grund der Zuwiderhandlung an Dritte oder an den Staat erbracht hat. Soweit der Schuldner solche Leistungen erst nach Erfüllung des Anspruchs nach Absatz 1 erbracht hat, erstattet das Bundesamt für Justiz dem Schuldner den abgeführten Gewinn in Höhe der nachgewiesenen Zahlungen zurück.
 
 (3) Beanspruchen mehrere Gläubiger den Gewinn, so gelten die §§ 428 bis 430 des Bürgerlichen Gesetzbuchs entsprechend.
 
-(4) Die Gläubiger haben der zuständigen Stelle des Bundes über die Geltendmachung von Ansprüchen nach Absatz 1 Auskunft zu erteilen. Sie können von der zuständigen Stelle des Bundes Erstattung der für die Geltendmachung des Anspruchs erforderlichen Aufwendungen verlangen, soweit sie vom Schuldner keinen Ausgleich erlangen können. Der Erstattungsanspruch ist auf die Höhe des an den Bundeshaushalt abgeführten Gewinns beschränkt.
+(4) Die Gläubiger haben dem Bundesamt für Justiz über die Geltendmachung von Ansprüchen nach Absatz 1 Auskunft zu erteilen.
 
-(5) Zuständige Stelle im Sinn der Absätze 2 und 4 ist das Bundesamt für Justiz.
+(5) Haben die Gläubiger einen Anspruch gegen den Schuldner auf Ersatz der für die Geltendmachung des Anspruchs erforderlichen Aufwendungen und können sie vom Schuldner keinen Ausgleich erlangen, so können sie die Erstattung dieser Aufwendungen vom Bundesamt für Justiz verlangen. Der Anspruch nach Satz 1 ist auf die Höhe des an den Bundeshaushalt abgeführten Gewinns beschränkt.
+
+(6) Die Gläubiger können vom Bundesamt für Justiz Ersatz der Aufwendungen verlangen, die für eine Finanzierung des gerichtlichen Verfahrens durch einen gewerblichen Prozessfinanzierer entstanden sind, wenn das Bundesamt für Justiz vor Einleitung des gerichtlichen Verfahrens die Inanspruchnahme dieser Finanzierung bewilligt hat. Das Bundesamt für Justiz bewilligt die Inanspruchnahme der Finanzierung, wenn die beabsichtigte Rechtsverfolgung unter Berücksichtigung der gesamten Umstände nicht missbräuchlich ist und die Aufwendungen für den Prozessfinanzierer üblich und angemessen sind.
 
 # § 11 – Verjährung
 
@@ -489,9 +491,11 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 2. entgegen § 7a Absatz 1 eine dort genannte Einwilligung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert oder nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-3. entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 des Unterlassungsklagengesetzes, auch in Verbindung mit einer Rechtsverordnung nach § 4d Nummer 2 des Unterlassungsklagengesetzes, einen dort genannten Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+3. entgegen § 8 Absatz 5 Satz 2 in Verbindung mit § 6a Absatz 1 Satz 3 des Unterlassungsklagengesetzes eine dort genannte Zustellung nicht oder nicht rechtzeitig bekannt macht,
 
-4. einer Rechtsverordnung nach § 8b Absatz 3 in Verbindung mit § 4d Nummer 1 des Unterlassungsklagengesetzes oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+4. einer Rechtsverordnung nach § 8b Absatz 3 Satz 1 in Verbindung mit § 4f Nummer 1 oder 2 des Unterlassungsklagengesetzes oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
+
+5. entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 Satz 1 des Unterlassungsklagengesetzes, auch in Verbindung mit einer Rechtsverordnung nach § 4f Nummer 3 des Unterlassungsklagengesetzes, einen dort genannten Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 

@@ -1856,7 +1856,7 @@ Kommt die Behörde in den Fällen des § 113 Abs. 1 Satz 2 und Abs. 5 und des §
 
 # § 173
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung das zuständige Oberverwaltungsgericht.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung das zuständige Oberverwaltungsgericht.
 
 # § 174
 

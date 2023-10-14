@@ -158,9 +158,9 @@ Soweit Schulbücher von den Schulen im Rahmen eigener Budgets angeschafft werden
 
 3. von einem Rechtsanwalt, der von Verlegern, Importeuren oder Unternehmen, die Verkäufe an Letztabnehmer tätigen, gemeinsam als Treuhänder damit beauftragt worden ist, ihre Preisbindung zu betreuen (Preisbindungstreuhänder),
 
-4. von qualifizierten Einrichtungen, die nachweisen, dass sie in die Liste qualifizierter Einrichtungen nach § 4 des Unterlassungsklagengesetzes oder in dem Verzeichnis der Kommission der Europäischen Gemeinschaften nach Artikel 4 der Richtlinie 98/27/EG des Europäischen Parlaments und des Rates vom 19. Mai 1998 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. EG Nr. L 166 S. 51) in der jeweils geltenden Fassung eingetragen sind.
+4. von Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes.
 
-Die Einrichtungen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur geltend machen, soweit der Anspruch eine Handlung betrifft, durch die wesentliche Belange der Letztabnehmer berührt werden.
+Die Stellen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur geltend machen, soweit der Anspruch eine Handlung betrifft, durch die wesentliche Belange der Letztabnehmer berührt werden.
 
 (3) Für das Verfahren gelten bei den Anspruchsberechtigten nach Absatz 2 Nr. 1 bis 3 die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb und bei Einrichtungen nach Absatz 2 Nr. 4 die Vorschriften des Unterlassungsklagegesetzes.
 

@@ -1767,11 +1767,7 @@ a) ihnen eine erhebliche Anzahl betroffener Unternehmen im Sinne des Absatzes 3 
 
 b) sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung imstande sind, ihre satzungsmäßigen Aufgaben der Verfolgung gewerblicher oder selbstständiger beruflicher Interessen tatsächlich wahrzunehmen;
 
-2. Einrichtungen, die nachweisen, dass sie eingetragen sind in
-
-a) die Liste qualifizierter Einrichtungen nach § 4 des Unterlassungsklagengesetzes oder
-
-b) das Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) in der jeweils geltenden Fassung.
+2. qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des Unterlassungsklagengesetzes eingetragen sind, und qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1 Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind.
 
 # § 33a – Schadensersatzpflicht
 
@@ -1949,7 +1945,7 @@ b) von der Identität des Rechtsverletzers und
 
 3. der Anspruchsberechtigte gegen den Rechtsverletzer Klage auf Auskunft oder Herausgabe von Beweismitteln nach § 33g erhoben hat.
 
-Die Hemmung endet ein Jahr nach der bestands- und rechtskräftigen Entscheidung oder der anderweitigen Erledigung des Verfahrens. § 204 Absatz 2 Satz 3 und 4 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung.
+Die Hemmung endet ein Jahr nach der bestands- und rechtskräftigen Entscheidung oder der anderweitigen Erledigung des Verfahrens. § 204 Absatz 2 Satz 2 und 3 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung.
 
 (7) Die Verjährungsfrist eines Anspruchs auf Ausgleichung nach § 33d Absatz 2 wegen der Befriedigung eines Schadensersatzanspruchs nach § 33a Absatz 1 beginnt mit der Befriedigung dieses Schadensersatzanspruchs.
 
@@ -3687,7 +3683,7 @@ Davon ausgenommen sind nationale Rechtsvorschriften, mit denen natürlichen Pers
 
 # § 91 – Kartellsenat beim Oberlandesgericht
 
-Bei den Oberlandesgerichten wird ein Kartellsenat gebildet. Er entscheidet über die ihm gemäß § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§ 83, 85 und 86 zugewiesenen Rechtssachen sowie über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten nach § 87.
+Bei den Oberlandesgerichten wird ein Kartellsenat gebildet. Er entscheidet über die ihm gemäß § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§ 83, 85 und 86 zugewiesenen Rechtssachen, über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten nach § 87 sowie über Verbandsklagen nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und Rechtsverhältnisse in den in § 87 aufgeführten bürgerlichen Rechtsstreitigkeiten betreffen.
 
 # § 92 – Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen
 
@@ -3713,7 +3709,13 @@ a) über die Revision einschließlich der Nichtzulassungsbeschwerde gegen Endurt
 
 b) über die Sprungrevision gegen Endurteile der Landgerichte,
 
-c) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Absatz 1 der Zivilprozessordnung.
+c) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Absatz 1 der Zivilprozessordnung;
+
+4. in Verbandsklageverfahren nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und Rechtsverhältnisse in den in § 87 aufgeführten bürgerlichen Rechtsstreitigkeiten betreffen,
+
+a) über die Revision gegen Urteile der Oberlandesgerichte und
+
+b) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den Fällen des § 574 Absatz 1 der Zivilprozessordnung.
 
 (2) Der Kartellsenat gilt im Sinne des § 132 des Gerichtsverfassungsgesetzes in Bußgeldsachen als Strafsenat, in allen übrigen Sachen als Zivilsenat.
 
