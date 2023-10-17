@@ -1035,7 +1035,7 @@ Die erste Fortschreibung der Werte für „M“ und „Y“ (Anlage 3) und des z
 
 # Anlage 1 – (zu § 12 Absatz 1)
 
-(Fundstelle: BGBl. I 2019, 1881)
+(Fundstelle: BGBl. I 2019, 1881; siehe auch Fußnote)
 
 (+++ Hinweis: Höchstbeträge für Miete und Belastung für die Zeit ab 1.1.2022 vgl. § 23 WoGV idF d. Art. 1 Nr. 2 V v. 3.6.2021 I 1369 (1. WoGFV) +++)
 

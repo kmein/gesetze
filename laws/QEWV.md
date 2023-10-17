@@ -43,7 +43,7 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 2. zur finanziellen Ausstattung des Vereins und zu den öffentlichen Fördermitteln im Kalenderjahr der Antragstellung, anhand derer geprüft werden kann, ob der Verein überwiegend mit öffentlichen Mitteln gefördert wird.
 
-Dem Antrag nach Satz 2 sind Nachweise über die bewilligten öffentlichen Fördermittel für das Kalenderjahr der Antragstellung beizufügen. Dem Antrag nach Satz 2 sind zusätzlich Nachweise über die bewilligten öffentlichen Fördermittel für das Kalenderjahr der Antragstellung beizufügen.
+Dem Antrag nach Satz 2 sind Nachweise über die bewilligten öffentlichen Fördermittel für das Kalenderjahr der Antragstellung beizufügen.
 
 (4) Das Bundesamt für Justiz kann vom Antragsteller zur Prüfung und zum Nachweis der Eintragungsvoraussetzungen ergänzende Angaben und Unterlagen anfordern, insbesondere die Angaben und Unterlagen nach § 2 Absatz 2 und 3 Satz 2 und 3, § 3 Absatz 1 Satz 3, Absatz 3 Satz 2 und Absatz 4, § 4 Absatz 2, § 5 Absatz 2 und § 6 Absatz 2.
 
