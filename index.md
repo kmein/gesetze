@@ -6644,6 +6644,7 @@
 - [19. RAG](laws/19._RAG.md) Neunzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte
 - [2. AAÜG-ÄndG](laws/2._AAÜG-ÄndG.md) Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
 - [2. ÄndV - 6. DV-BEG](laws/2._ÄndV_-_6._DV-BEG.md) Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+- [2. AgrarErzAnpBeihV](laws/2._AgrarErzAnpBeihV.md) Zweite Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren
 - [2. BesVNG](laws/2._BesVNG.md) Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
 - [2. BImSchV](laws/2._BImSchV.md) Zweite Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [2. BinSch-SportbootVermVAbweichV](laws/2._BinSch-SportbootVermVAbweichV.md) Zweite Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrt-Sportbootvermietungsverordnung
