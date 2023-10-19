@@ -87,7 +87,7 @@ Jedem Teilnehmenden eines Basislehrgangs oder Auffrischungslehrgangs, der die Ab
 
 (1) Jeder Lehrgangsanbieter hat mindestens vier verschiedene Fragebögen mit jeweils 30 Fragen zu erstellen und diese Fragebögen im Wechsel bei Prüfungen zu verwenden. Jede Fragestellung darf insgesamt nur ein Mal verwendet werden.
 
-(2) Jeder Fragebogen muss Fragen zu folgenden Themenbereiche enthalten:
+(2) Jeder Fragebogen muss Fragen zu folgenden Themenbereichenenthalten:
 
 1. Organisation des Einsatzes von Rettungsmitteln,
 
@@ -104,6 +104,8 @@ Jedem Teilnehmenden eines Basislehrgangs oder Auffrischungslehrgangs, der die Ab
 (4) Jeder Fragebogen ist samt den entsprechenden Lösungen der zuständigen Behörde vorzulegen und darf für den theoretischen Prüfungsteil nur verwendet werden, wenn die zuständige Behörde vorher zugestimmt hat.
 
 (5) Die Fragebögen dürfen weder veröffentlicht noch den Prüflingen oder Dritten vor oder nach der Prüfung überlassen werden.
+
+§ 11 Abs. 2 Eingangssatz Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "Themenbereiche" durch das Wort "Themenbereichen" ersetzt
 
 # § 12 – Prüfungskommission
 

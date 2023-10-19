@@ -46,8 +46,7 @@ c) aus Betreuungstätigkeit
 d) aus anderen Lieferungen und Leistungen".
 
   
-Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn die Unterposten Nummer 1  
-Buchstabe a bis d im Anhang gesondert angegeben werden.
+Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn die Unterposten Nummer 1 Buchstabe a bis d im Anhang gesondert angegeben werden.
 
 (2) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren die Posten 2 und 5 wie folgt auszuweisen:
 

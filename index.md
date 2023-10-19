@@ -2078,7 +2078,6 @@
 - [FestLSockelProk](laws/FestLSockelProk.md) Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels
 - [FestLSockelProkBek](laws/FestLSockelProkBek.md) Bekanntmachung der Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels
 - [FeuAO](laws/FeuAO.md) Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung
-- [FeuerbrandV 1985](laws/FeuerbrandV_1985.md) Verordnung zur Bekämpfung der Feuerbrandkrankheit
 - [FeuerschStG](laws/FeuerschStG.md) Feuerschutzsteuergesetz
 - [FeuerwEhrKrÄndErl](laws/FeuerwEhrKrÄndErl.md) Erlaß über die Genehmigung von Änderungen der Stiftungsbestimmungen, der Verleihungsbedingungen, der Form und der Trageweise des Deutschen Feuerwehr-Ehrenkreuzes
 - [FeuerwEhrKrÄndErl 2011](laws/FeuerwEhrKrÄndErl_2011.md) Erlass über die Genehmigung von Änderungen der Satzung und der Verleihungsbedingungen des Deutschen Feuerwehr-Ehrenkreuzes
@@ -4153,7 +4152,6 @@
 - [NeckarSchlBetrZV](laws/NeckarSchlBetrZV.md) Verordnung über die Festsetzung der Schleusenbetriebszeiten an der Bundeswasserstraße Neckar
 - [NEhelG](laws/NEhelG.md) Gesetz über die rechtliche Stellung der nichtehelichen Kinder
 - [NELEV](laws/NELEV.md) Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen 1
-- [NelkenwV](laws/NelkenwV.md) Verordnung zur Bekämpfung von Nelkenwicklern
 - [NemV](laws/NemV.md) Verordnung über Nahrungsergänzungsmittel
 - [NetzDG](laws/NetzDG.md) Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken
 - [NetzResV](laws/NetzResV.md) Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve
@@ -4424,7 +4422,8 @@
 - [PflanzTechnAusbV](laws/PflanzTechnAusbV.md) Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*
 - [PflAPrV](laws/PflAPrV.md) Ausbildungs- und Prüfungsverordnung für die Pflegeberufe*
 - [PflAV](laws/PflAV.md) Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek
-- [PflBeschauV 1989](laws/PflBeschauV_1989.md) Pflanzenbeschauverordnung
+- [PflBeschV](laws/PflBeschV.md) Pflanzenbeschauverordnung
+- [PflBestSchV](laws/PflBestSchV.md) Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen
 - [PflBG](laws/PflBG.md) Gesetz über die Pflegeberufe 1
 - [PfleBeteiligungsV](laws/PfleBeteiligungsV.md) Verordnung zur Beteiligung der auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen im Bereich der Begutachtung und Qualitätssicherung der Sozialen Pflegeversicherung
 - [PflegeStatV](laws/PflegeStatV.md) Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege
@@ -4886,7 +4885,6 @@
 - [SchaEVZG](laws/SchaEVZG.md) Gesetz über eine staatliche Vorauszahlung an durch Straftaten geschädigte Bürger
 - [SchAnpG 2](laws/SchAnpG_2.md) Zweites Gesetz zur Anpassung bestimmter Bedingungen in der Seeschifffahrt an den internationalen Standard
 - [SchAnpGArt11Abs2aBek](laws/SchAnpGArt11Abs2aBek.md) Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
-- [ScharkaV](laws/ScharkaV.md) Verordnung zur Bekämpfung der Scharkakrankheit
 - [SchatzAnwBek](laws/SchatzAnwBek.md) Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen der Bundesrepublik Deutschland in das Bundesschuldbuch sowie von verzinslichen Schatzanweisungen des Bundeseisenbahnvermögens in das Bundesbahnschuldbuch und von verzinslichen Schatzanweisungen der Deutschen Bundespost in das Schuldbuch der Deutschen Bundespost
 - [SchauAusnV](laws/SchauAusnV.md) Vierte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
 - [SchauHV](laws/SchauHV.md) Verordnung über die Haftpflichtversicherung für Schausteller
@@ -4907,7 +4905,6 @@
 - [SchiedsAmtsO](laws/SchiedsAmtsO.md) Verordnung über die Schiedsämter für die vertragsärztliche (vertragszahnärztliche) Versorgung
 - [SchiedsG](laws/SchiedsG.md) Gesetz über die Schiedsstellen in den Gemeinden
 - [SchiffsBelWertV](laws/SchiffsBelWertV.md) Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes
-- [SchildlV](laws/SchildlV.md) Verordnung zur Bekämpfung der San-Jose-Schildlaus
 - [SchiLichtMstrV](laws/SchiLichtMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Schilder- und Lichtreklamehersteller-Handwerk
 - [SchKfmAusbV 2004](laws/SchKfmAusbV_2004.md) Verordnung über die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 - [SchKG](laws/SchKG.md) Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten
