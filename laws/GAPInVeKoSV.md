@@ -243,7 +243,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 (1) Der Betriebsinhaber hat im Sammelantrag mindestens einen der in § 8 Nummer 1 bis 6 der GAP-Direktzahlungen-Verordnung genannten Fälle anzugeben, nach dem er zum Zeitpunkt der Antragstellung aktiver Betriebsinhaber ist. Bei dem erstmaligen Antrag auf Direktzahlungen ist zusätzlich das Datum anzugeben, an dem die Gründung oder Übernahme des Betriebs erfolgt ist.
 
-(2) Der Betriebsinhaber hat im Antrag des Weiteren anzugeben.
+(2) Der Betriebsinhaber hat im Antrag des Weiteren anzugeben
 
 1. bei Angabe eines Falls nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung den jeweiligen Träger der Unfallversicherung und seine Unternehmernummer,
 
@@ -251,7 +251,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 3. bei Angabe eines Falls nach § 8 Nummer 5 der GAP-Direktzahlungen-Verordnung eine Erklärung, dass er aufgrund seines Antrags für das Jahr vor dem Jahr der Antragstellung vor Anwendung von Sanktionen keinen Anspruch auf Direktzahlungen von über 5 000 Euro hatte.
 
-In den Fällen nach § 8 Nummer 1 bis 5 der GAP-Direktzahlungen-Verordnung ist dem Antrag ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls beizufügen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der jüngste Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
+In den Fällen nach § 8 Nummer 1 bis 5 der GAP-Direktzahlungen-Verordnung ist dem Antrag ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls beizufügen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Soweit dem Sammelantrag für das Jahr 2023 der Nachweis nach Satz 2 nicht beigefügt worden ist und dieser der zuständigen Behörde nicht bereits vorliegt, kann der Antragsteller diesen bis spätestens zum 15. Dezember 2023 nachreichen. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der jüngste Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
 
 # § 11 – Flächenbezogene Angaben
 

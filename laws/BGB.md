@@ -1379,6 +1379,9 @@ die Verjährung wird schon durch den Eingang des Antrags bei der Streitbeilegung
 
 (3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§ 206, 210 und 211 entsprechende Anwendung.
 
+(+++ § 204: Zur Anwendung vgl. Art. 65 § 204a BGBEG +++)  
+(+++ § 204 Abs. 2 Satz 1: Zur Anwendung vgl. § 204a Abs. 3 Satz 1 +++)
+
 # § 204a – Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qualifizierten Verbraucherverbänden oder qualifizierten Einrichtungen
 
 (1) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer wird auch gehemmt durch:
@@ -1422,6 +1425,8 @@ c) die Verbraucher an der Klage teilnehmen.
 (3) § 204 Absatz 2 Satz 1 ist entsprechend anzuwenden. Die Hemmung der Verjährung eines Anspruchs eines Verbrauchers nach Absatz 1 Satz 1 Nummer 3 und 4 sowie nach Absatz 2 Nummer 2 endet auch sechs Monate nach dem Zeitpunkt, zu dem der Verbraucher nicht mehr an der Klage teilnimmt, insbesondere durch die Rücknahme der Anmeldung zum Verbandsklageregister.
 
 (4) Absatz 1 Satz 1 Nummer 3 und 4 sowie Absatz 3 sind auch auf solche Unternehmer anzuwenden, die nach § 1 Absatz 2 des Verbraucherrechtedurchsetzungsgesetzes Verbrauchern gleichgestellt werden.
+
+(+++ § 204a: Zur Anwendung vgl. Art. 65 § 204a BGBEG +++)
 
 # § 205 – Hemmung der Verjährung bei Leistungsverweigerungsrecht
 

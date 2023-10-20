@@ -564,6 +564,7 @@
 - [BBiG§84AnO 7](laws/BBiG§84AnO_7.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
 - [BBiG§84AnO 8](laws/BBiG§84AnO_8.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
 - [BBiG§84AnO 9](laws/BBiG§84AnO_9.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
+- [BBiMindVergFBek 2024](laws/BBiMindVergFBek_2024.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2024)
 - [BBKG](laws/BBKG.md) Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 - [BBodSchG](laws/BBodSchG.md) Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten
 - [BBodSchV](laws/BBodSchV.md) Bundes-Bodenschutz- und Altlastenverordnung
