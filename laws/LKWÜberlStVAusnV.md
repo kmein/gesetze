@@ -1123,4 +1123,4 @@ Geeignete Rastplätze an Bundesautobahnen in Sachsen:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Anlage Abschn. "Nachgeordnetes Straßennetz Brandenburg" Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Richung" durch "Richtung" ersetzt
+Anlage Abschn. "Nachgeordnetes Straßennetz Brandenburg" Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Richung" durch das Wort "Richtung" ersetzt
