@@ -239,6 +239,8 @@ c) nicht ökologischen/nicht biologischen Zutaten und Erzeugnisse.
 
 (2) Nicht in die Berechnung nach § 9 Absatz 1 Satz 1 einfließen dürfen Produkte, die keine Lebensmittel sind, und Wasser.
 
+(+++ § 12: Zur Geltung vgl. § 14 Abs. 3 +++)
+
 # § 13 – Durchführung der Kontrollen und Zertifizierung
 
 (1) Im Rahmen ihrer Zuständigkeit nach § 3 Absatz 1a des Öko-Landbaugesetzes haben die Kontrollstellen die Kontrolle der Einhaltung der Vorgaben dieser Verordnung nach Maßgabe dieses Abschnitts durchzuführen. Im Übrigen gelten die Vorgaben dieses Abschnitts entsprechend für die Kontrolle durch die zuständige Landesbehörde.
@@ -256,6 +258,8 @@ Das Zertifikat hat sich nach der Maßgabe des Musters der Anlage 2 zu richten. D
 (4) Kontrollen haben als Vor-Ort-Kontrollen stattzufinden. Abweichend von Satz 1 können Kontrollen, die nur der Überprüfung des Bio-Anteils dienen, als Verwaltungskontrollen und mit Ankündigung erfolgen.
 
 (5) Vor-Ort-Kontrollen sind während der üblichen Betriebs- und Geschäftszeiten durchzuführen. Der Unternehmer, sein Vertreter oder eine andere vom Unternehmer oder von seinem Vertreter bestimmte im Unternehmen tätige Person hat das Recht, bei den Kontrollen anwesend zu sein.
+
+(+++ § 13 Abs. 3: Zur Geltung vgl. § 14 Abs. 2 +++)
 
 # § 14 – Veranstaltungszertifikat
 

@@ -157,11 +157,15 @@ Ab Anhängigkeit einer Verbandsklage kann gegen denselben Unternehmer keine weit
 
 (2) Der Vergleich bedarf der Genehmigung des Gerichts. Das Gericht genehmigt den Vergleich durch Beschluss, wenn es ihn unter Berücksichtigung des Sach- und Streitstands, insbesondere der Interessen der betroffenen Verbraucher, als angemessene gütliche Beilegung des Rechtsstreits erachtet. Andernfalls lehnt das Gericht die Genehmigung des Vergleichs durch Beschluss ab.
 
+(+++ § 9: Zur Anwendung vgl. § 17 +++)
+
 # § 10 – Austritt aus dem Vergleich
 
 (1) Jeder im Verbandsklageregister angemeldete Verbraucher kann innerhalb einer Frist von einem Monat gegenüber dem Bundesamt für Justiz den Austritt aus dem Vergleich erklären. Die Frist beginnt mit der Bekanntgabe des Vergleichs im Verbandsklageregister.
 
 (2) Verbraucher, die ihren Austritt wirksam erklärt haben, werden durch den Vergleich nicht gebunden. Der Austritt berührt nicht die Wirksamkeit der Anmeldung im Verbandsklageregister.
+
+(+++ § 10: Zur Anwendung vgl. § 17 +++)
 
 # § 11 – Sperrwirkung der Anmeldung; Bindungswirkung
 
@@ -268,6 +272,8 @@ In diesem Fall enthält die Urteilsformel die Angaben nach Absatz 2 und § 18 Ab
 (1) Das Gericht kann die Höhe des kollektiven Gesamtbetrags unter Würdigung aller Umstände nach freier Überzeugung bestimmen.
 
 (2) § 287 der Zivilprozessordnung ist entsprechend anzuwenden.
+
+(+++ § 19: Zur Geltung vgl. § 21 Abs. 2 +++)
 
 # § 20 – Kosten des Umsetzungsverfahrens
 
