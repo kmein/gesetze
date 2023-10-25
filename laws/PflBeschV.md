@@ -209,6 +209,8 @@ enthalten. Die Aufzeichnungen können anhand der Lieferscheine und Rechnungen ü
 
 sind vom Unternehmer drei Jahre ab der Empfangnahme des jeweils gelieferten Holzes durch ihn aufzubewahren.
 
+(+++ § 10: Zur Geltung vgl. § 13 Abs. 1 und 2 +++)
+
 # § 11 – Ermächtigung registrierter Unternehmer nach Artikel 98 der Verordnung (EU) 2016/2031
 
 (1) Soweit dies zur Einhaltung der Vorschriften der Verordnung (EU) 2016/2031 und ihrer Durchführungs- und delegierten Rechtsakte erforderlich ist, kann die Ermächtigung nach Artikel 98 Absatz 1 oder 2 der Verordnung (EU) 2016/2031, auch nachträglich, mit Nebenbestimmungen verbunden werden. Sie kann befristet erteilt werden, soweit dies nach den Umständen, insbesondere bei Gefahr der Ausbreitung von Schadorganismen, erforderlich ist.

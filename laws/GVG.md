@@ -1204,8 +1204,6 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 (2) § 23b Absatz 1, 2 und 3 Satz 3 und 4 gilt entsprechend.
 
-(3) (weggefallen)
-
 # § 119a
 
 (1) Bei den Oberlandesgerichten werden ein oder mehrere Zivilsenate für folgende Sachgebiete gebildet:
