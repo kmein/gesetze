@@ -939,9 +939,7 @@ erwirbt.
 
 (+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
-(+++ § 55 Abs. 3 Satz 1 u. 2: Zur Anwendung vgl. § 58 Abs. 2 Satz 2 Halbsatz 1 +++)  
-(+++ § 55 Abs. 3 Satz 2 bis 4: Zur Geltung vgl. § 60 Abs. 4 Satz 2 +++)  
-(+++ § 55 Abs. 3 Satz 3: Zur Nichtanwendung vgl. § 58 Abs. 2 Satz 2 Halbsatz 2 +++)
+(+++ § 55 Abs. 3 Satz 2: Zur Geltung vgl. § 60 Abs. 4 Satz 2 +++)
 
 # § 55a – Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit
 
