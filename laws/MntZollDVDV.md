@@ -627,8 +627,6 @@ Die Laufbahnprüfung besteht aus:
 
 (3) Nach Bekanntgabe des Bescheides über das Bestehen oder Nichtbestehen der Laufbahnprüfung und des Abschlusszeugnisses ist der betroffenen Person auf Antrag Einsicht in die sie oder ihn betreffenden Teile der Prüfungsakte zu gewähren. Die Einsichtnahme ist in der Akte zu vermerken.
 
-(+++ § 34 Abs. 3: Zur Anwendung vgl. § 37 Abs. 5 +++)
-
 # § 35 – Prüfungskommissionen
 
 (1) Das Prüfungsamt richtet für die Bewertung der Zwischenprüfung, der schriftlichen Abschlussprüfung und der mündlichen Abschlussprüfung Prüfungskommissionen ein und bestellt hierfür Mitglieder und Ersatzmitglieder. Es können auch jeweils mehrere Prüfungskommissionen eingerichtet werden. Die Spitzenorganisationen der Gewerkschaften und der Berufsverbände des öffentlichen Dienstes können Mitglieder für die Prüfungskommissionen der Abschlussprüfung vorschlagen.
