@@ -163,7 +163,9 @@ Die Mitgliedschaft ist nicht übertragbar und nicht vererblich. Die Ausübung de
 
 # § 40 – Nachgiebige Vorschriften
 
-Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3, , der §§ 28, 31a Abs. 1 Satz 2 sowie der §§ 32, 33 und 38 finden insoweit keine Anwendung als die Satzung ein anderes bestimmt. Von § 34 kann auch für die Beschlussfassung des Vorstands durch die Satzung nicht abgewichen werden.
+Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3, der §§ 28, 31a Abs. 1 Satz 2 sowie der §§ 32, 33 und 38 finden insoweit keine Anwendung als die Satzung ein anderes bestimmt. Von § 34 kann auch für die Beschlussfassung des Vorstands durch die Satzung nicht abgewichen werden.
+
+§ 40 Satz 1 Kursivdruck: Änderung gem. Art. 1 Nr. 3 G v. 28.9.2009 I 3161 mWv 3.10.2009 führt vor den zu ersetzenden Wörtern zu zwei aufeinanderfolgenden Kommata. Aufgrund offensichtlicher Unrichtigkeit wurde ein Komma entfernt.
 
 # § 41 – Auflösung des Vereins
 
