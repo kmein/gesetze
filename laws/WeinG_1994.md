@@ -28,7 +28,7 @@ Elektronische Kommunikation
 
 § 3b
 
-Stützungsprogramm
+Durchführung des GAP-Strategieplans; Ermächtigungen
 
  
 
@@ -404,6 +404,8 @@ Ermächtigung zur Aufhebung von Rechtsvorschriften
 
 2. nach den für den Weinbau und die Weinwirtschaft unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, insbesondere der für den Weinsektor geltenden Vorschriften der gemeinsamen Marktorganisation, Maßnahmen der innerstaatlichen Qualitätspolitik ergriffen werden.
 
+(1a) Ferner regelt dieses Gesetz die Durchführung von Fördermaßnahmen nach Artikel 58 Absatz 1 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137), die durch die Delegierte Verordnung (EU) 2022/648 (ABl. L 119 vom 21.4.2022, S. 1) geändert worden ist.
+
 (2) Abweichend von Absatz 1 gilt dieses Gesetz, mit Ausnahme der §§ 4 bis 12 und der §§ 29 und 30 sowie der auf Grund der vorstehend genannten Vorschriften erlassenen Rechtsverordnungen, nicht für das Verarbeiten und das Inverkehrbringen von
 
 1. Weintrauben, die nicht zur Herstellung von Erzeugnissen bestimmt sind,
@@ -556,33 +558,27 @@ c) Wein, der zur Herstellung von aromatisiertem Wein, aromatisierten weinhaltige
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über den Ausschluss der elektronischen Kommunikation und elektronischen Form bei der Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über Weine, des Weingesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu erlassen.
 
-# § 3b – Stützungsprogramm
+# § 3b – Durchführung des GAP-Strategieplans, Ermächtigungen
 
-(1) Das Stützungsprogramm im Sinne des Teils II Titel I Kapitel II Abschnitt 4 der Verordnung (EU) Nr. 1308/2013 wird vom Bundesministerium für Ernährung und Landwirtschaft mit Zustimmung der Mehrheit der betroffenen Länder erstellt. Es umfasst selbstständige Einzelmaßnahmen des Bundes und der Länder nach Maßgabe der folgenden Absätze.
+(1) Die nach Artikel 88 Absatz 1 in Verbindung mit Anhang VII der Verordnung (EU) 2021/2115 Deutschland zur Verfügung stehenden Finanzmittel stehen abzüglich zwei Millionen Euro den Ländern zur Verfügung. Sie werden den Ländern unter Berücksichtigung ihrer Rebfläche zugewiesen.
 
-(2) Die Bundesanstalt für Landwirtschaft und Ernährung unterstützt Maßnahmen zur Absatzförderung in Mitgliedstaaten nach Artikel 45 Absatz 1 Buchstabe a und in Drittländern nach Artikel 45 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013, soweit sich die Maßnahmen auf eine Absatzförderung von Erzeugnissen aus mindestens zwei Bundesländern beziehen. Aus den gemäß Artikel 44 Absatz 1 in Verbindung mit Anhang VI der Verordnung (EU) Nr. 1308/2013 Deutschland zur Verfügung stehenden Finanzmitteln stehen der Bundesanstalt für Landwirtschaft und Ernährung jährlich 2 Millionen Euro zur Verfügung. Ist absehbar, dass diese Mittel nicht vollumfänglich ausgeschöpft werden, kann der Restbetrag den Ländern zugewiesen werden. Die Aufteilung dieses Restbetrags nimmt das Bundesministerium für Ernährung und Landwirtschaft im Benehmen mit den Ländern vor. Die Sätze 1 und 2 sind ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
+(2) Die nach Artikel 88 Absatz 1 in Verbindung mit Anhang VII der Verordnung (EU) 2021/2115 Deutschland zur Verfügung stehenden Finanzmittel stehen in Höhe von zwei Millionen Euro der Bundesanstalt für Landwirtschaft und Ernährung zur Verfügung.
 
-(2a) Die gemäß Artikel 44 Absatz 1 in Verbindung mit Anhang VI der Verordnung (EU) Nr. 1308/2013 Deutschland zur Verfügung stehenden Finanzmittel stehen abzüglich der Mittel gemäß Absatz 2 Satz 2 den Ländern zur Verfügung. Sie werden den Ländern nach einem vom Bundesministerium für Ernährung und Landwirtschaft und den Ländern gemeinsam festgelegten Verteilungsschlüssel zugewiesen. Die Länder können entscheiden, dass sie einen Teil der ihnen zugewiesenen Finanzmittel nicht abrufen. Die nicht abgerufenen Finanzmittel können für Maßnahmen gemäß Absatz 2 Satz 1 und für Maßnahmen anderer Länder verwendet werden. Die Länder teilen dem Bundesministerium bis zum 15. Oktober eines Jahres mit, ob und gegebenenfalls in welcher Höhe sie auf ihnen zugewiesene Mittel verzichten oder ob und gegebenenfalls in welcher Höhe über die ihnen zugewiesenen Mittel hinaus Mehrbedarf besteht.
+(3) Die Länder und die Bundesanstalt für Landwirtschaft und Ernährung können entscheiden, dass sie einen Teil der ihnen zugewiesenen Finanzmittel nicht abrufen. Sie haben dem Bundesministerium bis spätestens zum 15. Oktober eines Jahres mitzuteilen,
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Voraussetzungen und das Verfahren für die Umstrukturierung und Umstellung von Rebflächen nach Artikel 46 der Verordnung (EU) Nr. 1308/2013 zu erlassen, soweit die Regelungen zur Durchführung der genannten gemeinschaftsrechtlichen Vorschrift und der zu seiner Durchführung ergangenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich sind und nach diesen Vorschriften bestimmt, bestimmbar oder begrenzt sind. Satz 1 ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen.
+1. ob und in welcher Höhe sie auf ihnen zugewiesene Mittel verzichten oder
 
-(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung für
+2. ob und in welcher Höhe über die ihnen zugewiesenen Mittel hinaus Mehrbedarf besteht.
 
-1. die Unterstützung von Maßnahmen zur Absatzförderung in Mitgliedstaaten der Europäischen Union nach Artikel 45 Absatz 1 Buchstabe a sowie in Drittländern nach Artikel 45 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013, soweit sich die Maßnahmen ausschließlich auf eine Absatzförderung der Erzeugnisse aus den im jeweiligen Land belegenen bestimmten Anbaugebieten beziehen,
+Der bei den Ländern und bei der Bundesanstalt für Landwirtschaft und Ernährung bestehende Mehrbedarf wird, soweit möglich, durch nicht abgerufene Mittel nach Satz 1 gedeckt. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen, die Umverteilung der Mittel regeln.
 
-2. die Unterstützung für Ernteversicherungen nach Artikel 49 der Verordnung (EU) Nr. 1308/2013,
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur sachgerechten Durchführung der Rechtsakte über die GAP-Strategiepläne für den Sektor Wein Vorschriften zu erlassen
 
-3. die Unterstützung für Investitionen nach Artikel 50 der Verordnung (EU) Nr. 1308/2013,
+1. zur Genehmigung, Auszahlung und Kontrolle der in § 1 Absatz 1a bezeichneten Fördermaßnahmen,
 
-4. die Unterstützung für Innovationen nach Artikel 51 der Verordnung (EU) Nr. 1308/2013
+2. über das jeweils zugehörige Verfahren.
 
-Regelungen zu erlassen über das Verfahren sowie über die Voraussetzungen und die Höhe der Unterstützung, soweit die Regelungen zur Durchführung der genannten gemeinschaftsrechtlichen Vorschriften und der zu ihrer jeweiligen Durchführung ergangenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich und nach diesen Vorschriften bestimmt, bestimmbar oder begrenzt sind. In der Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass die Vorschriften des Ersten und Zweiten Abschnittes des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen, soweit sie sich auf die Gewährung besonderer Vergünstigungen beziehen, anzuwenden sind. Im Falle einer Bestimmung nach Satz 2 sind die Vorschriften des Ersten und Zweiten Abschnittes des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen mit der Maßgabe anzuwenden, dass für den Erlass von Rechtsverordnungen auf Grund der vorstehend genannten Vorschriften die Landesregierungen zuständig sind. § 54 Absatz 2 gilt entsprechend.
-
-(5) Bei Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 stellen die Antragsteller sicher, dass die im Zusammenhang mit der Absatzförderung in Mitgliedstaaten zu verbreitenden Informationen über den verantwortungsvollen Weinkonsum von der für die öffentliche Gesundheit zuständigen Stelle des Mitgliedstaats, in dem die Maßnahme durchgeführt werden soll, genehmigt worden ist. Die in Satz 1 genannte Genehmigung ist dem Antrag beizufügen.
-
-(6) Die Bundesanstalt für Landwirtschaft und Ernährung ist bei Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013, soweit Informations- oder Absatzförderungsmaßnahmen aus Deutschland oder aus anderen Mitgliedstaaten der Europäischen Union, die in Deutschland durchgeführt werden sollen, die für die öffentliche Gesundheit zuständige Stelle. Sie entscheidet dabei unter Berücksichtigung allgemein anerkannter wissenschaftlicher Daten im Sinne des Artikels 6 Absatz 4 der Delegierten Verordnung (EU) 2016/1149 der Kommission vom 15. April 2016 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die nationalen Stützungsprogramme im Weinsektor und zur Änderung der Verordnung (EU) Nr. 555/2008 der Kommission (ABl. L 190 vom 15.7.2016, S. 1).
-
-(7) Bei Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr. 1308/2013 unterrichten sich die Bundesanstalt für Landwirtschaft und Ernährung und die nach Landesrecht zuständigen Stellen gegenseitig über die Anträge sowie den Abschluss von Verträgen. Die Bundesanstalt und die Landesstellen berücksichtigen bei ihren Entscheidungen über Vertragsabschlüsse die nach Satz 1 mitgeteilten Vertragsabschlüsse.
+Satz 1 ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
 
 # § 4 – Rebanlagen
 
@@ -630,7 +626,7 @@ Rebflächen in den in § 3 Abs. 1 genannten bestimmten Anbaugebieten, die zuläs
 
 # § 7 – Festsetzung eines Prozentsatzes für Neuanpflanzungen
 
-(1) Abweichend von dem in Artikel 63 Absatz 1 der Verordnung (EU) Nr. 1308/2013 bestimmten Prozentsatz wird für Genehmigungen für Neuanpflanzungen in den Jahren 2016 bis 2023 ein Prozentsatz von 0,3 der tatsächlich am 31. Juli des jeweils vorangegangenen Jahres in Deutschland mit Reben bepflanzten Gesamtfläche festgelegt.
+(1) Abweichend von dem in Artikel 63 Absatz 1 der Verordnung (EU) Nr. 1308/2013 bestimmten Prozentsatz wird für Genehmigungen für Neuanpflanzungen in den Jahren 2016 bis 2026 ein Prozentsatz von 0,3 der tatsächlich am 31. Juli des jeweils vorangegangenen Jahres in Deutschland mit Reben bepflanzten Gesamtfläche festgelegt.
 
 (2) Von der sich nach Anwendung des in Absatz 1 genannten Prozentsatzes ergebenden Gesamtfläche wird vorab für die Länder Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen jeweils ein Anteil von 5 Hektar für die Genehmigung von Anträgen auf Neuanpflanzung auf dem Gebiet dieser Länder abgezogen, sofern Anträge in dieser Höhe gestellt werden.
 
@@ -658,9 +654,11 @@ Ein Antrag auf Genehmigung einer Neuanpflanzung von Reben darf nur genehmigt wer
 
 # § 7d – Inanspruchnahme von Genehmigungen
 
-(1) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen sind innerhalb der in Artikel 62 Absatz 3 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in Anspruch zu nehmen, soweit nicht auf Grund einer Rechtsverordnung nach § 7 Absatz 3 etwas anderes gilt.
+(1) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen sind innerhalb der in Artikel 62 Absatz 3 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in Anspruch zu nehmen, soweit nicht auf Grund einer Rechtsverordnung nach § 7 Absatz 3 etwas anderes gilt.
 
 (1a) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen, welche im Jahre 2020 ausgelaufen sind oder auslaufen werden, sind innerhalb der Gültigkeitsdauer in Anspruch zu nehmen, die in Artikel 1 Absatz 1 und 3 der Durchführungsverordnung (EU) 2020/601 der Kommission vom 30. April 2020 über die Dringlichkeitsmaßnahmen zur Abweichung von den Artikeln 62 und 66 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Gültigkeit von Genehmigungen für Rebpflanzungen und der Rodung im Falle einer vorgezogenen Wiederbepflanzung (ABl. L 140 vom 4.5.2020, S. 46) genannt wird.
+
+(1b) Abweichend von Absatz 1 ist eine nach § 6 Absatz 1 Satz 1 erteilte Genehmigung, die sich auf eine Parzelle bezieht, auf der die Rodung vorgenommen worden ist, innerhalb der in Artikel 62 Absatz 3 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in Anspruch zu nehmen.
 
 (2) Die zuständigen Landesbehörden überprüfen auf der Grundlage der nach § 7c Absatz 1 Satz 5 übermittelten Bescheide, ob Anpflanzungen wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
 
@@ -1772,9 +1770,9 @@ bezeichneten Handlungen fahrlässig begeht.
 
 3. (weggefallen)
 
-4. einer Rechtsverordnung nach § 3b Absatz 3 Satz 1, § 4 Absatz 2, § 14 Nr. 2, § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 2 Nr. 4, § 16 Absatz 3 oder 4 Satz 1, § 21 Abs. 1 Nr. 4, § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Absatz 3 Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30, § 31 Abs. 4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b oder § 36 Abs. 1 Satz 1 in Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+4. einer Rechtsverordnung nach § 4 Absatz 2, § 14 Nr. 2, § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 2 Nr. 4, § 16 Absatz 3 oder 4 Satz 1, § 21 Abs. 1 Nr. 4, § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Absatz 3 Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30, § 31 Abs. 4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b oder § 36 Abs. 1 Satz 1 in Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-5. entgegen § 7d Absatz 1 oder 1a eine Genehmigung nicht oder nicht richtig in Anspruch nimmt,
+5. entgegen § 7d Absatz 1, 1a oder 1b eine Genehmigung nicht oder nicht richtig in Anspruch nimmt,
 
 6. einer Rechtsverordnung nach § 12 Absatz 3 Nummer 5 oder Absatz 5 oder § 44 Absatz 1 Satz 2 oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -1801,6 +1799,8 @@ Für Erzeugnisse nach § 2 Nummer 1 gelten folgende Bußgeldvorschriften des Leb
 3. § 60 Absatz 3 Nummer 1 Buchstabe g, soweit er sich auf Artikel 19 Absatz 3 Satz 2 der Verordnung (EG) Nr. 178/2002 bezieht.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 und des Absatzes 2 Satz 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
+
+§ 50 Abs. 2 Satz 1 Nr. 5 Kursivdruck: IdF d. Art. 1 Nr. 11 Buchst. c G v. 16.7.2015 I 1207 mWv 1.1.2016, d. Art. 2 Nr. 2 G v. 14.11.2020 I 2425 mWv 24.11.2020 u. d. Art. 1 Nr. 4 Buchst. b G v. 24.10.2023 I Nr. 289 mWv 28.10.2023 (aufgrund offensichtlicher Unrichtigkeit wurde an Stelle der Wörter "7d Absatz 1, 1a oder 1b" durch die Wörter "§ 7d Absatz 1, 1a oder 1b" ersetzt)
 
 # § 51 – Ermächtigungen
 
@@ -1911,6 +1911,8 @@ werden; § 11 ist insoweit nicht anzuwenden.
 (16) § 22b Absatz 1 Nummer 1a und die §§ 22e und 22f sind erst ab dem 28. März 2015 anzuwenden. Bis zu dem in Satz 1 genannten Tag ist § 2 Nummer 1 in der am 14. Oktober 2014 geltenden Fassung weiter anzuwenden.
 
 (17) Auf Erzeugnisse von Rebflächen, die auf der Grundlage von § 4 Absatz 3 des Weingesetzes in der bis zum Inkrafttreten des Zehnten Gesetzes zur Änderung des Weingesetzes vom 15. Januar 2021 (BGBl. I S. 74) am 26. Januar 2021 erteilten Genehmigung bewirtschaftet werden, ist § 4 Absatz 3 des Weingesetzes in der bis dahin geltenden Fassung weiter anwendbar.
+
+(18) Soweit nach Artikel 5 Absatz 7 der Verordnung (EU) 2021/2117 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 zur Änderung der Verordnungen (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, (EU) Nr. 1151/2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel, (EU) Nr. 251/2014 über die Begriffsbestimmung, Beschreibung, Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und (EU) Nr. 228/2013 über Sondermaßnahmen im Bereich der Landwirtschaft zugunsten der Regionen in äußerster Randlage der Union (ABl. L 435 vom 6.12.2021, S. 262) dort genannte Stützungsprogramme fortgeführt werden, ist § 3b in der am 27. Oktober 2023 geltenden Fassung weiter anzuwenden.
 
 # § 57 – Fortbestehen anderer Vorschriften
 
