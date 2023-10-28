@@ -4286,7 +4286,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 # § 294 – Eintragung. Wirksamwerden
 
-Der Vorstand der Gesellschaft hat das Bestehen und die Art des Unternehmensvertrages sowie den Namen des anderen Vertragsteils zur Eintragung in das Handelsregister anzumelden; beim Bestehen einer Vielzahl von Teilgewinnabführungsverträgen kann anstelle des Namens des anderen Vertragsteils auch eine andere Bezeichnung eingetragen werden, die den jeweiligen Teilgewinnabführungsvertrag konkret bestimmt. Der Anmeldung sind der Vertrag sowie, wenn er nur mit Zustimmung der Hauptversammlung des anderen Vertragsteils wirksam wird, die Niederschrift dieses Beschlusses und ihre Anlagen in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
+(1) Der Vorstand der Gesellschaft hat das Bestehen und die Art des Unternehmensvertrages sowie den Namen des anderen Vertragsteils zur Eintragung in das Handelsregister anzumelden; beim Bestehen einer Vielzahl von Teilgewinnabführungsverträgen kann anstelle des Namens des anderen Vertragsteils auch eine andere Bezeichnung eingetragen werden, die den jeweiligen Teilgewinnabführungsvertrag konkret bestimmt. Der Anmeldung sind der Vertrag sowie, wenn er nur mit Zustimmung der Hauptversammlung des anderen Vertragsteils wirksam wird, die Niederschrift dieses Beschlusses und ihre Anlagen in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
 (2) Der Vertrag wird erst wirksam, wenn sein Bestehen in das Handelsregister des Sitzes der Gesellschaft eingetragen worden ist.
 

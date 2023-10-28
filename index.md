@@ -266,6 +266,7 @@
 - [AsylbLG§3aAbs4Bek](laws/AsylbLG§3aAbs4Bek.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2020
 - [AsylbLG§3aAbs4Bek 2022](laws/AsylbLG§3aAbs4Bek_2022.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2022
 - [AsylbLG§3aAbs4Bek 2023](laws/AsylbLG§3aAbs4Bek_2023.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2023
+- [AsylbLG§3aAbs4Bek 2024](laws/AsylbLG§3aAbs4Bek_2024.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2024
 - [AsylbLG§3Abs4Bek](laws/AsylbLG§3Abs4Bek.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016
 - [AsylG](laws/AsylG.md) Asylgesetz
 - [AsylVfGNG](laws/AsylVfGNG.md) Gesetz zur Neuregelung des Asylverfahrens

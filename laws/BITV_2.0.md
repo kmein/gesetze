@@ -115,11 +115,9 @@ Auf der Startseite einer Website einer öffentlichen Stelle sind nach Anlage 2 f
 
 # § 5 – Ausschuss für barrierefreie Informationstechnik
 
-(1) Bei der Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes wird ein Ausschuss für barrierefreie Informationstechnik eingerichtet, in dem fachkundige Vertreterinnen und Vertreter der Bundes- und der Landes-Überwachungsstellen, aus Verbänden von Menschen mit Behinderungen, aus der Wirtschaft und weitere fachkundige Personen, insbesondere der Wissenschaft sowie öffentlicher Stellen, in angemessener Zahl vertreten sein sollen.
+(1) Bei der nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes einzurichtenden Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik wird ein Ausschuss für barrierefreie Informationstechnik eingerichtet. Der Ausschuss besteht aus fachkundigen Vertreterinnen und Vertretern aus der Überwachungsstelle, aus den Landes-Überwachungsstellen, aus Verbänden von Menschen mit Behinderungen und aus der Wirtschaft sowie weiteren fachkundigen Personen, insbesondere aus der Wissenschaft und aus öffentlichen Stellen im Sinne des § 12 des Behindertengleichstellungsgesetzes. An den Sitzungen des Ausschusses kann eine Vertreterin oder ein Vertreter des Bundesministeriums für Arbeit und Soziales teilnehmen.
 
-(2) Die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes beruft die Mitglieder des Ausschusses in Abstimmung mit dem Bundesministerium für Arbeit und Soziales.
-
-(3) Zu den Aufgaben des Ausschusses gehört es,
+(2) Zu den Aufgaben des Ausschusses gehört es,
 
 1. den jeweils aktuellen Stand der Technik nach § 3 Absatz 2 und 3 zu ermitteln und zu dokumentieren,
 
@@ -127,7 +125,13 @@ Auf der Startseite einer Website einer öffentlichen Stelle sind nach Anlage 2 f
 
 3. Empfehlungen zur praktischen Umsetzung der Anforderungen nach § 3 zu erarbeiten.
 
-(4) Der Ausschuss für barrierefreie Informationstechnik wird bei der Erfüllung seiner Aufgaben durch die Informationstechnik-Dienstleister des Bundes unterstützt.
+Veröffentlichungen des Ausschusses in Zusammenhang mit seinen Aufgaben bedürfen der vorherigen Zustimmung des Bundesministeriums für Arbeit und Soziales.
+
+(3) Die Überwachungsstelle beruft die Mitglieder des Ausschusses in Abstimmung mit dem Bundesministerium für Arbeit und Soziales. Die Mitgliedschaft endet mit Ablauf des dritten Kalenderjahres nach der Berufung. Die Wiederberufung nach Beendigung der Mitgliedschaft ist zulässig. Die vorzeitige Abberufung aus wichtigem Grund ist zulässig.
+
+(4) Der Ausschuss gibt sich zur Organisation seiner Arbeit eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Arbeit und Soziales bedarf.
+
+(5) Der Ausschuss wird bei seiner Arbeit durch eine Geschäftsstelle unterstützt. Die Geschäftsstelle wird bei der Überwachungsstelle eingerichtet. Bei der Erfüllung seiner Aufgaben wird der Ausschuss darüber hinaus durch die Informationstechnik-Dienstleister des Bundes unterstützt.
 
 # § 6 – Beratung und Unterstützung durch die Bundesfachstelle für Barrierefreiheit und die Informationstechnik-Dienstleister des Bundes
 

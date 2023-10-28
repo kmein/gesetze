@@ -162,7 +162,9 @@ b) nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person e
 
     (+++ Hinweis: Regelbedarfsstufen nach § 8 
      
-    zum 1.1.2022 vgl. V v. 13.10.2021 I 4674 +++) 
+    zum 1.1.2022 vgl. V v. 13.10.2021 I 4674
+     
+    zum 1.1.2024 vgl. V v. 24.10.2023 I Nr. 287 (bezeichnet als § 8 Abs. 1) +++) 
 
 # § 9 – Ausstattung mit persönlichem Schulbedarf
 
