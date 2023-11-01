@@ -383,6 +383,8 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (4) Der Antrag auf Ausstellung eines Passes muss auch von einer örtlich nicht zuständigen Passbehörde bearbeitet werden, wenn ein wichtiger Grund dargelegt wird. Ein Pass darf nur mit Ermächtigung der örtlich zuständigen Passbehörde ausgestellt werden. Für die Ausstellung eines Passes zur Einreise in den Geltungsbereich dieses Gesetzes oder eines hierfür bestimmten Passersatzes bedarf es dieser Ermächtigung nicht.
 
+(4a) Für das Führen des Passregisters nach § 21 ist die Passbehörde zuständig, welche den Pass ausgestellt hat.
+
 (5) Paßbehörde für amtliche Pässe ist das Auswärtige Amt.
 
 (6) Für die Sicherstellung sind die Paßbehörden und die zur Feststellung von Personalien ermächtigten Behörden und Beamten zuständig.
@@ -431,6 +433,8 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 14. ausstellende Behörde,
 
+14a. die örtlich zuständige Passbehörde, wenn diese nicht mit der ausstellenden Passbehörde identisch ist,
+
 15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
 
 16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes.
@@ -447,9 +451,13 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die sie eine Ermächtigung gemäß § 19 Abs. 4 Satz 2 erteilt hat.
 
+(6) Wird eine andere als die ausstellende Passbehörde örtlich zuständig, darf sie die in Absatz 2 genannten und zur Wahrnehmung ihrer Aufgaben erforderlichen Daten mit Ausnahme der biometrischen Daten speichern. Absatz 4 gilt entsprechend.
+
 # § 22 – Verarbeitung und Nutzung der Daten im Paßregister
 
 (1) Die Paßbehörden dürfen personenbezogene Daten nur nach Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben, verarbeiten oder nutzen.
+
+(1a) Passbehörden dürfen anderen Passbehörden im automatisierten Verfahren Daten des Passregisters übermitteln oder Daten aus Passregistern, die in Zuständigkeit anderer Passbehörden geführt werden, abrufen, sofern dies zur Wahrnehmung ihrer Pflichten erforderlich ist. Dies gilt nicht für biometrische Daten.
 
 (2) Die Paßbehörden dürfen anderen Behörden auf deren Ersuchen Daten aus dem Paßregister übermitteln. Voraussetzung ist, daß
 

@@ -1019,7 +1019,7 @@ d) Anschriften der Annehmenden,
 
 # § 61 – Mitteilungen für statistische Zwecke
 
-Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer Geburt, Eheschließung, Begründung der Lebenspartnerschaft und eines Sterbefalls die Daten mitgeteilt, die nach § 2 des Bevölkerungsstatistikgesetzes zu übermitteln sind.
+Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer Geburt, Eheschließung, Begründung der Lebenspartnerschaft, eines Sterbefalls und einer Änderung der Geschlechtsangabe die Daten mitgeteilt, die nach den §§ 2 und 5 Absatz 3 des Bevölkerungsstatistikgesetzes zu übermitteln sind.
 
 # § 62 – Besonderheiten bei Mitteilungen
 

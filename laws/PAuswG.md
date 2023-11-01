@@ -241,6 +241,8 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (1) In Deutschland ist die Personalausweisbehörde zuständig, in deren Bezirk die antragstellende Person oder der Ausweisinhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Hat die antragstellende Person keine Wohnung, so ist die Personalausweisbehörde zuständig, in deren Bezirk sie sich vorübergehend aufhält.
 
+(1a) Für das Führen des Personalausweisregisters nach § 23 ist die Personalausweisbehörde zuständig, welche den Ausweis ausgestellt hat.
+
 (2) Im Ausland sind die vom Auswärtigen Amt bestimmten Auslandsvertretungen zuständig, in deren Bezirk sich die antragstellende Person oder der Ausweisinhaber gewöhnlich aufhält. Der Ausweisinhaber hat den Nachweis über den gewöhnlichen Aufenthaltsort zu erbringen.
 
 (3) Für Binnenschiffer, die keine Wohnung in Deutschland haben, ist die Personalausweisbehörde am Heimatort des Binnenschiffes, für Seeleute, die keine Wohnung in Deutschland haben, die Personalausweisbehörde am Sitz des Reeders zuständig.
@@ -583,6 +585,8 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 14. ausstellende Behörde,
 
+14a. die örtlich zuständige Personalausweisbehörde, wenn diese nicht mit der ausstellenden Personalausweisbehörde identisch ist,
+
 15. Vermerke über Anordnungen nach § 6 Absatz 7 und Maßnahmen nach § 6a Absatz 1 bis 3,
 
 16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes,
@@ -597,9 +601,13 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 (5) Die zuständige Personalausweisbehörde führt den Nachweis über Personalausweise, für die sie eine Ermächtigung nach § 8 Abs. 4 Satz 2 erteilt hat.
 
+(6) Wird eine andere als die ausstellende Personalausweisbehörde örtlich zuständig, darf sie die in Absatz 3 genannten und zur Wahrnehmung ihrer Aufgaben erforderlichen Daten mit Ausnahme der biometrischen Daten speichern. Absatz 4 gilt entsprechend.
+
 # § 24 – Verwendung im Personalausweisregister gespeicherter Daten
 
 (1) Die Personalausweisbehörden dürfen personenbezogene Daten nur nach Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben oder verwenden.
+
+(1a) Personalausweisbehörden dürfen anderen Personalausweisbehörden im automatisierten Verfahren Daten des Personalausweisregisters übermitteln oder Daten aus Personalausweisregistern, die in Zuständigkeit anderer Personalausweisbehörden geführt werden, abrufen, sofern dies zur Wahrnehmung ihrer Pflichten erforderlich ist. Dies gilt nicht für biometrische Daten.
 
 (2) Die Personalausweisbehörden dürfen anderen Behörden auf deren Ersuchen Daten aus dem Personalausweisregister übermitteln, wenn
 

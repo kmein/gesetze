@@ -31,9 +31,9 @@ Nach dem Stand der Technik sind zu erfüllen
 
 a) die Speicherung des Lichtbildes und der Fingerabdrücke,
 
-b) den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises abgelegten Daten,
+b) den Zugriffsschutz auf die im Chip des Personalausweises abgelegten Daten,
 
-c) den Zugriffsschutz auf die in dem elektronischen Speicher- und Verarbeitungsmedium eines mobilen Endgeräts abgelegten Daten sowie
+c) den Zugriffsschutz auf die in dem Chip eines mobilen Endgeräts abgelegten Daten sowie
 
 2. die technischen und organisatorischen Anforderungen an
 
@@ -47,7 +47,7 @@ d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitäts
 
 e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag und
 
-f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anhang 1 sowie auf dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
+f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anhang 1 sowie auf dem Chip des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
 
 g) die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes und
 
@@ -181,19 +181,19 @@ Der vorläufige Personalausweis ist nach dem in Anhang 2 abgedruckten Muster her
 
 Der Ersatz-Personalausweis ist nach dem in Anhang 2a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1.
 
-# § 13 – Schnittstelle des elektronischen Speicher- und Verarbeitungsmediums
+# § 13 – Schnittstelle des Chips
 
-Das elektronische Speicher- und Verarbeitungsmedium des Personalausweises ist mit einer kontaktlosen Schnittstelle ausgestattet und benötigt für die Datenübertragung die Energieversorgung durch Lesegeräte.
+Der Chip des Personalausweises ist mit einer kontaktlosen Schnittstelle ausgestattet und benötigt für die Datenübertragung die Energieversorgung durch Lesegeräte.
 
 # § 14 – Speicherung von personenbezogenen Daten; Zugriffsschutz
 
-(1) Alle im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten personenbezogenen Daten sind gegen unbefugten Zugriff zu schützen. Es ist insbesondere sicherzustellen, dass
+(1) Alle im Chip des Personalausweises gespeicherten personenbezogenen Daten sind gegen unbefugten Zugriff zu schützen. Es ist insbesondere sicherzustellen, dass
 
-1. vor der Übermittlung personenbezogener Daten die Geheimnummer, die Zugangsnummer oder die Daten der maschinenlesbaren Zone (MRZ) an das elektronische Speicher- und Verarbeitungsmedium übermittelt werden müssen,
+1. vor der Übermittlung personenbezogener Daten die Geheimnummer, die Zugangsnummer oder die Daten der maschinenlesbaren Zone (MRZ) an den Chip übermittelt werden müssen,
 
 2. Zugriffsrechte über Berechtigungszertifikate nachgewiesen werden müssen und
 
-3. alle personenbezogenen Daten zwischen dem elektronischen Speicher- und Verarbeitungsmedium und Inhabern von Berechtigungszertifikaten verschlüsselt übermittelt werden.
+3. alle personenbezogenen Daten zwischen dem Chip und Inhabern von Berechtigungszertifikaten verschlüsselt übermittelt werden.
 
 (2) Der Personalausweis ist so herzustellen, dass personenbezogene Daten ausschließlich ausgelesen werden können durch
 
@@ -201,7 +201,7 @@ Das elektronische Speicher- und Verarbeitungsmedium des Personalausweises ist mi
 
 2. berechtigte Diensteanbieter, die ein Berechtigungszertifikat nutzen, nach Eingabe der Geheimnummer durch den Ausweisinhaber, oder
 
-3. berechtigte Vor-Ort-Diensteanbieter, die ein Vor-Ort-Zertifikat nutzen, nach Übermittlung der Zugangsnummer an das elektronische Speicher- und Verarbeitungsmedium.
+3. berechtigte Vor-Ort-Diensteanbieter, die ein Vor-Ort-Zertifikat nutzen, nach Übermittlung der Zugangsnummer an den Chip.
 
 # § 15 – Übermittlung und Übersendung des Sperrkennworts an die Personalausweisbehörde
 
@@ -213,21 +213,13 @@ Das elektronische Speicher- und Verarbeitungsmedium des Personalausweises ist mi
 
 Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektronischem Weg verschlüsselt und signiert die Sperrsumme, den Sperrschlüssel und den letzten Tag der Gültigkeitsdauer eines Personalausweises, bevor er diesen an die Personalausweisbehörde sendet. § 8 Absatz 1 Satz 3 bis 5 gilt entsprechend. Der Sperrlistenbetreiber bestätigt dem Ausweishersteller unverzüglich den Eingang dieser Daten. Hat der Ausweishersteller zwei Werktage, nachdem er die Sperrsumme, den Sperrschlüssel und den letzten Tag der Gültigkeitsdauer übermittelt hat, keine Bestätigung erhalten, fragt er bei dem Sperrlistenbetreiber nach.
 
-# § 17 – Übersendung der Geheimnummer, der Entsperrnummer und des Sperrkennworts
+# § 17 – Erhalt der Geheimnummer und der Entsperrnummer
 
-(1) Der Ausweishersteller übersendet der antragstellenden Person die Geheimnummer, die Entsperrnummer und das Sperrkennwort des Personalausweises in einem Brief. Als Absenderanschrift ist die postalische Anschrift der ausstellenden Personalausweisbehörde anzugeben.
+(1) Die antragstellende Person erhält von der Personalausweisbehörde die Geheimnummer und die Entsperrnummer des Personalausweises in einem geschlossenen Kuvert. Dessen Erhalt hat die antragstellende Person in Textform zu bestätigen.
 
-(2) Personalausweis und Geheimnummer dürfen zu keinem Zeitpunkt mit gleicher Post versandt werden.
+(2) Hat die antragstellende Person einen Wohnsitz oder ihren gewöhnlichen Aufenthalt außerhalb der Bundesrepublik Deutschland, können die Geheimnummer und die Entsperrnummer in einem Brief von der Personalausweisbehörde an die von der antragstellenden Person benannte Anschrift versandt werden, sofern die Aushändigung nicht bei Antragstellung erfolgen kann und die Abholung des Briefes bei der Personalausweisbehörde für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe auf dem Postweg besteht. Personalausweis und Geheimnummer dürfen nicht zusammen in einer Postsendung versandt werden. Bei als unzustellbar zurückgesandten Briefen erhält die antragstellende Person die Briefe von der Personalausweisbehörde nach Maßgabe von Absatz 1.
 
-(3) In den Fällen des § 13 Satz 3 des Personalausweisgesetzes soll bis zur persönlichen Übergabe an die antragstellende Person der Schutz gegen Kenntnisnahme der Geheimnummer und der Entsperrnummer durch Dritte gewährleistet sein.
-
-(4) Der Ausweishersteller versendet den Brief nach Absatz 1 an die im Personalausweis angegebene Anschrift. Hat die antragstellende Person keine alleinige Wohnung in Deutschland, wird der Brief vom Ausweishersteller an die ausstellende Behörde oder an die antragstellende Person persönlich an die von ihr benannte Anschrift versandt, sofern der Wohnort in einem Staat liegt, von dem das Auswärtige Amt im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat festgestellt hat, dass er eine hinreichende Gewähr für eine ordnungsgemäße Postzustellung bietet. Bei als unzustellbar zurückgesandten Briefen übergibt die Personalausweisbehörde den Brief an die antragstellende Person. Absatz 3 gilt entsprechend.
-
-(5) Der Ausweishersteller erstellt und versendet einen Brief nur dann, wenn die antragstellende Person zum Antragszeitpunkt mindestens 15 Jahre und neun Monate alt ist.
-
-(6) Hat die antragstellende Person den Brief nicht erhalten, kann sie einen neuen Personalausweis beantragen. In diesem Fall wird der zum neuen Personalausweis gehörende Brief an die Personalausweisbehörde versandt, die ihn der antragstellenden Person übergibt. Absatz 3 gilt entsprechend.
-
-(7) Die antragstellende Person muss, bevor ihr der Personalausweis ausgehändigt wird, schriftlich bestätigen, dass sie den Brief auf postalischem Weg oder durch Übergabe empfangen hat. Satz 1 gilt nicht für antragstellende Personen, die keine alleinige Wohnung in Deutschland haben, wenn diesen der Personalausweis nicht persönlich durch die Personalausweisbehörde übergeben wird.
+(3) Bis die antragstellende Person die Geheimnummer und die Entsperrnummer erhalten hat, gewährleistet die Personalausweisbehörde, dass Dritte keine Kenntnisnahme der Geheimnummer und der Entsperrnummer erhalten können.
 
 # § 18 – Aushändigung des Personalausweises
 
@@ -249,7 +241,7 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 (1) Die Personalausweisbehörde ändert die Anschrift auf dem Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und der Personalausweisnummer nach dem Muster in Anhang 1 anfertigt. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird nach erfolgter Änderung der Anschrift nach Absatz 2 Satz 4 ein Aufkleber nach Anhang 1b mit der neuen Anschrift durch die Personalausweisbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Ausweisinhaber hat den Aufkleber unverzüglich auf dem Ausweis auf dem für die Anschrift vorgesehenen Feld anzubringen.
 
-(2) Die Personalausweisbehörde ändert die auf dem elektronischen Speicher- und Verarbeitungsmedium gespeicherte Anschrift. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, hat er die Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium einzuleiten. Hierzu wird durch die Personalausweisbehörde ein elektronisches Formular bereitgestellt. Der Ausweisinhaber weist seine Identität gegenüber der Personalausweisbehörde mit einem elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes nach. Die zuständige Personalausweisbehörde ändert die Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises und trägt diese in das Personalausweisregister ein. Ist die zuständige Personalausweisbehörde nicht die ausstellende Personalausweisbehörde, informiert die zuständige Personalausweisbehörde die ausstellende Personalausweisbehörde über die neue Anschrift und letztere ändert das Personalausweisregister.
+(2) Die Personalausweisbehörde ändert die auf dem Chip gespeicherte Anschrift. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, hat er die Änderung der Anschrift auf dem Chip einzuleiten. Hierzu wird durch die Personalausweisbehörde ein elektronisches Formular bereitgestellt. Der Ausweisinhaber weist seine Identität gegenüber der Personalausweisbehörde mit einem elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes nach. Die zuständige Personalausweisbehörde ändert die Anschrift auf dem Chip des Personalausweises und trägt diese in das Personalausweisregister ein. Ist die zuständige Personalausweisbehörde nicht die ausstellende Personalausweisbehörde, informiert die zuständige Personalausweisbehörde die ausstellende Personalausweisbehörde über die neue Anschrift und letztere ändert das Personalausweisregister.
 
 (3) Für die Änderung der Daten nach Absatz 2 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für den elektronischen Identitätsnachweis nach Absatz 2 Satz 3 sowie für das Ändern der Daten nach Absatz 2 Satz 4 verwendet die Personalausweisbehörde ein hoheitliches Berechtigungszertifikat.
 
@@ -259,7 +251,7 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 (1) Kennt der Ausweisinhaber die ursprüngliche Geheimnummer nicht, kann die Personalausweisbehörde die Neusetzung der Geheimnummer durch den Ausweisinhaber einleiten. Die Personalausweisbehörde hat zuvor die Identität des Ausweisinhabers zu überprüfen. Durch technische und organisatorische Maßnahmen hat die Personalausweisbehörde sicherzustellen, dass niemand außer dem Ausweisinhaber Kenntnis von der Geheimnummer erlangt.
 
-(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis wieder ein und schreibt die neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis wieder ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
 (3) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
 
@@ -277,11 +269,11 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 (1) Der Ausweisinhaber leitet die Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät durch Verwendung eines elektronischen Formulars ein.
 
-(2) Der Ausweishersteller prüft, ob das mobile Endgerät über ein zugelassenes elektronisches Speicher- und Verarbeitungsmedium verfügt, welches dem Stand der Technik entspricht.
+(2) Der Ausweishersteller prüft, ob das mobile Endgerät über einen zugelassenen Chip verfügt, welcher dem Stand der Technik entspricht.
 
 (3) Der Ausweisinhaber führt gegenüber dem Ausweishersteller einen elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes durch.
 
-(4) Der Ausweishersteller übermittelt in einem sicheren Verfahren, welches dem Stand der Technik entspricht, die Daten nach § 5 Absatz 5a des Personalausweisgesetzes auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endgeräts. Hierzu verwendet er ein hoheitliches Berechtigungszertifikat.
+(4) Der Ausweishersteller übermittelt in einem sicheren Verfahren, welches dem Stand der Technik entspricht, die Daten nach § 5 Absatz 5a des Personalausweisgesetzes auf den Chip des mobilen Endgeräts. Hierzu verwendet er ein hoheitliches Berechtigungszertifikat.
 
 (5) Der Ausweisinhaber vergibt eine selbstgewählte, sechsstellige Geheimnummer durch zweimalige, übereinstimmende Eingabe.
 
@@ -291,11 +283,11 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 2. übermittelt den letzten Tag der Gültigkeitsdauer, die Sperrsumme und den Sperrschlüssel an den Sperrlistenbetreiber,
 
-3. speichert das dienste- und kartenspezifische Kennzeichen jeweils für das elektronische Speicher- und Verarbeitungsmedium des Personalausweises und des mobilen Endgeräts sowie das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, den letzten Tag der Gültigkeitsdauer, den Hersteller und die Modellbezeichnung des mobilen Endgeräts, die Sperrsumme und das Sperrkennwort und
+3. speichert das dienste- und kartenspezifische Kennzeichen jeweils für den Chip des Personalausweises und des mobilen Endgeräts sowie das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, den letzten Tag der Gültigkeitsdauer, den Hersteller und die Modellbezeichnung des mobilen Endgeräts, die Sperrsumme und das Sperrkennwort und
 
-4. versendet einen einfachen Brief an die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherte Anschrift des Ausweisinhabers, in dem das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, der letzte Tag der Gültigkeitsdauer, das Sperrkennwort und der Hersteller und die Modellbezeichnung des mobilen Endgeräts mitgeteilt wird; der Brief enthält ferner Angaben zur Erreichbarkeit des Sperrdienstes.
+4. versendet einen einfachen Brief an die im Chip des Personalausweises gespeicherte Anschrift des Ausweisinhabers, in dem das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, der letzte Tag der Gültigkeitsdauer, das Sperrkennwort und der Hersteller und die Modellbezeichnung des mobilen Endgeräts mitgeteilt wird; der Brief enthält ferner Angaben zur Erreichbarkeit des Sperrdienstes.
 
-(7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern, für Bau und Heimat abzustimmen.
+(7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem Chip nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern, für Bau und Heimat abzustimmen.
 
 # § 23 – Speicherung von personenbezogenen Daten; Zugriffsschutz
 
@@ -764,4 +756,5 @@ Rückseite
 
 # Anhang 4 – Übersicht über die zu zertifizierenden Systemkomponenten
 
-(Fundstelle: BGBl. I 2010, 1476)
+(Fundstelle: BGBl. I 2010, 1476;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

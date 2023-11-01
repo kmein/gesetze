@@ -23,6 +23,6 @@ Das Bundeszentralamt für Steuern hat die Sicherheit und Funktionsfähigkeit des
 
 # § 6 – Benachrichtigung des Betroffenen, Berichtigung unrichtiger Daten
 
-(1) Das Bundeszentralamt für Steuern unterrichtet den Steuerpflichtigen unverzüglich über die ihm zugeteilte Identifikationsnummer und über die Daten, die zu diesem Zeitpunkt beim Bundeszentralamt für Steuern zu seiner Identifikationsnummer nach § 139b Absatz 3 Nummer 3 bis 10, 12 und 14 der Abgabenordnung gespeichert sind.
+(1) Das Bundeszentralamt für Steuern unterrichtet den Steuerpflichtigen unverzüglich über die ihm zugeteilte Identifikationsnummer.
 
 (2) Stellen die Finanzbehörden Unrichtigkeiten der Daten im Sinne des § 139b Abs. 3 der Abgabenordnung fest, teilen sie dies dem Bundeszentralamt für Steuern mit. Einzelheiten des Verfahrens bestimmt das Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben.

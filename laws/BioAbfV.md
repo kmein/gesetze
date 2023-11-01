@@ -578,11 +578,11 @@ Fermentationsrückstände aus der Vitaminproduktion sind geeignete Abfälle gem�
 Die Verwertung von pflanzlichen Speiseölen und -fetten ist nur mit anaerober Behandlung zulässig.<br />
 Rizinusschrot ist geeigneter Abfall gemäß Spalte 2, wenn er unbedenkliche Gehalte an Ricin (Ricingehalt maximal 50 mg je kg Trockenmasse Rizinusschrot) aufweist. Rizinusschrot ist so mit Mitteln (Vergällung) zu behandeln, dass eine Aufnahme durch Tiere (insbesondere Hunde) unterbunden wird; er darf nicht mit Stoffen vermischt werden, die einen Anreiz für die Aufnahme durch Tiere darstellen.<br />
 Getrennt erfasste Kieselgur ist bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Fermentationsrückstände aus der Enzym- und Vitaminproduktion, pflanzliche Aminosäuren, Rizinusschrot, Rückstände aus der Zubereitung und Verarbeitung von Kaffee, Tee und Kakao, Tabakerzeugnis-Fehlchargen, Tabakstaub, -grus und -rippen sowie Kieselgur.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Fermentationsrückstände aus der Enzym- und Vitaminproduktion, pflanzliche Aminosäuren, Rizinusschrot, Rückstände aus der Zubereitung und Verarbeitung von Kaffee, Tee und Kakao, Tabakerzeugnis-Fehlchargen, Tabakstaub, -grus und -rippen sowie Kieselgur.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 03 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluft-<br />
 reinigung</td><td style="text-align: left;">(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 04 99)</td><td style="text-align: left;">– Melasserückstände<br />
 – Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung<br />
@@ -591,22 +591,22 @@ aus der biologischen Abluftreinigung<br />
 – Vinasse und Vinasserückstände<br />
 – Zuckerrübenschnitzel und -presskuchen</td><td style="text-align: left;">(Abfälle aus der Zuckerherstellung)<br />
 Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln anfallen.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Filtermaterialien aus der biologischen Abluftreinigung.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Filtermaterialien aus der biologischen Abluftreinigung.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 05 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Milchverarbeitung)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
 (02 06 01)</td><td style="text-align: left;">– Altmehl, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Fermentationsrückstände aus der Enzymproduktion<br />
 – Hefe und hefeähnliche Rückstände<br />
 – Lebensmittelabfälle, ohne Verpackung, aus Produktion, Distribution und Lagerung<br />
 – Teigabfälle</td><td style="text-align: left;">(Abfälle aus der Herstellung von Back- und Süßwaren)<br />
 Die Bestimmungen dieser Verordnung sind für Lebensmittelabfälle und Teigabfälle tierischer Herkunft nur anwendbar, soweit diese oder wesentliche Materialbestandteile nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 06 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Herstellung von Back- und Süßwaren)<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle aus der Alkoholdestillation<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln und von tierischen Nebenprodukten anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle aus der Alkoholdestillation<br />
 (02 07 02)</td><td style="text-align: left;">– Obst-, Getreide- und Kartoffelschlempen</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Für Verzehr oder Verarbeitung ungeeignete Stoffe<br />
 (02 07 04)</td><td style="text-align: left;">– Biertreber<br />
 – Hefe und hefeähnliche Rückstände<br />
 – Hopfentreber<br />
@@ -617,34 +617,34 @@ Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 
 – Verbrauchte Filter- und Aufsaugmassen (Cellite, Kieselgur, Perlite)<br />
 – Vinasse und Vinasserückstände</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
 Getrennt erfasste Kieselgur ist bei Aufbringung im Rahmen der regionalen Verwertung nach § 10 Absatz 1 Nummer 1 und 2 von den Behandlungs- und Untersuchungspflichten freigestellt. Kieselgur und Kieselgur enthaltende Gemische dürfen nicht in getrocknetem Zustand aufgebracht werden und sind bei der Aufbringung sofort in den Boden einzuarbeiten.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen ist Kieselgur.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen ist Kieselgur.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (02 07 99)</td><td style="text-align: left;">– Pflanzliche Filtermaterialien<br />
 aus der biologischen Abluftreinigung</td><td style="text-align: left;">(Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken [ohne Kaffee, Tee und Kakao])<br />
-Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln anfallen.</td></tr><tr class="odd"><td style="text-align: left;">Rinden- und Korkabfälle<br />
+Pflanzliche Filtermaterialien aus der biologischen Abluftreinigung sind geeignete Abfälle gemäß Spalte 2, wenn diese im Rahmen der Herstellung und Verarbeitung von Lebens- und Futtermitteln anfallen.</td></tr><tr class="even"><td style="text-align: left;">Rinden- und Korkabfälle<br />
 (03 01 01)</td><td style="text-align: left;">– Rinden</td><td style="text-align: left;">(Abfälle aus der Holzbearbeitung und der Herstellung von Platten und Möbeln)<br />
 Getrennt erfasste, naturbelassene Rinden, auch unvermischt weiterverarbeitet, sind nach § 10 Absatz 1 Nummer 1 von den Behandlungspflichten freigestellt.<br />
 Im Rahmen einer Kompostierung sind die Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere mit Ausnahme derjenigen, die unter 03 01 04 fallen<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere mit Ausnahme derjenigen, die unter 03 01 04 fallen<br />
 (03 01 05)</td><td style="text-align: left;">– Holzwolle<br />
 – Sägemehl und Sägespäne</td><td style="text-align: left;">(Abfälle aus der Holzbearbeitung und der Herstellung von Platten und Möbeln)<br />
 Holzwolle, Sägemehl und Sägespäne sind geeignete Abfälle gemäß Spalte 2, wenn diese aus unbehandeltem Holz hergestellt oder angefallen sind.<br />
 Im Rahmen einer Kompostierung sind Sägespäne so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Sägemehl und Sägespäne aus naturbelassenem Holz aus dem Bereich der Holzverarbeitung dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Rinden- und Holzabfälle<br />
+Sägemehl und Sägespäne aus naturbelassenem Holz aus dem Bereich der Holzverarbeitung dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Rinden- und Holzabfälle<br />
 (03 03 01)</td><td style="text-align: left;">– Rinden</td><td style="text-align: left;">(Abfälle aus der Herstellung und Verarbeitung von Zellstoff, Papier, Karton und Pappe)<br />
 Getrennt erfasste, naturbelassene Rinden und unvermischt weiterverarbeitete Rinden sind nach § 10 Absatz 1 Nummer 1 von den Behandlungspflichten freigestellt.<br />
 Im Rahmen einer Kompostierung sind die Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Geäschertes Leimleder<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Geäschertes Leimleder<br />
 (04 01 02)</td><td style="text-align: left;">– Geäschertes Leimleder</td><td style="text-align: left;">(Abfälle aus der Leder- und Pelzindustrie)<br />
 Geäschertes Leimleder ist geeigneter Abfall gemäß Spalte 2, wenn dieses aus der Verarbeitung von Häuten der Kategorie 3 gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> stammt.<br />
 Geäschertes Leimleder gemäß Anhang XIII Kapitel V Buchstabe C Nummer 2 Buchstabe d der Verordnung (EU) Nr. 142/2011<span id="FnR.FnA1-f780003_05"></span><a href="#FnA1-f780003_05" class="FnR">4</a></sup> gilt gemäß § 3 Absatz 3 Satz 5 in Verbindung mit § 2 Nummer 2 Buchstabe d als anderweitig hygienisierend behandelt und ist gemäß § 10 Absatz 1 Nummer 2 von den Untersuchungspflichten nach § 3 freigestellt.<br />
-Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle aus unbehandelten Textilfasern<br />
+Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.</td></tr><tr class="even"><td style="text-align: left;">Abfälle aus unbehandelten Textilfasern<br />
 (04 02 21)</td><td style="text-align: left;">– Pflanzenfaserabfälle<br />
 – Wollabfälle<br />
 – Zellulosefaserabfälle</td><td style="text-align: left;">(Abfälle aus der Textilindustrie)<br />
-Die Bestimmungen dieser Verordnung sind für Wollabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte (Rohmaterialien) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="even"><td style="text-align: left;">Abfälle a. n. g.<br />
+Die Bestimmungen dieser Verordnung sind für Wollabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte (Rohmaterialien) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle a. n. g.<br />
 (07 01 99)</td><td style="text-align: left;">– Fett, Fettrückstände und Öl aus der Herstellung von Biodiesel<br />
 – Schlempen aus der Herstellung technischer Alkohole</td><td style="text-align: left;">(Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung organischer Grundchemikalien)<br />
-Die Bestimmungen dieser Verordnung sind für Fett, Fettrückstände und Öl tierischer Herkunft aus der Herstellung von Biodiesel nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Verwertung von Fett, Fettrückständen und Öl aus der Herstellung von Biodiesel ist nur mit anaerober Behandlung zulässig.</td></tr><tr class="even"><td style="text-align: left;">Feste Abfälle mit Ausnahme derjenigen, die unter 07 05 13 fallen<br />
+Die Bestimmungen dieser Verordnung sind für Fett, Fettrückstände und Öl tierischer Herkunft aus der Herstellung von Biodiesel nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Verwertung von Fett, Fettrückständen und Öl aus der Herstellung von Biodiesel ist nur mit anaerober Behandlung zulässig.</td></tr><tr class="odd"><td style="text-align: left;">Feste Abfälle mit Ausnahme derjenigen, die unter 07 05 13 fallen<br />
 (07 05 14)</td><td style="text-align: left;">– Arznei- und Heilpflanzen und Heilkräuter<br />
 – Pilzmyzel<br />
 – Pilzsubstratrückstände<br />
@@ -655,15 +655,15 @@ Die Bestimmungen dieser Verordnung sind für Fett, Fettrückstände und Öl tier
 – Trester von Arznei- und Heilpflanzen</td><td style="text-align: left;">(Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung von Pharmazeutika)<br />
 Pilzmyzel aus der Arzneimittelherstellung darf nur nach Einzelfallprüfung verwertet werden und ist geeigneter Abfall gemäß Spalte 2, wenn keine wirksamen Arzneimittelreste enthalten sind.<br />
 Pilzsubstratrückstände, bei denen die Pilzkulturen nachweislich durch Dämpfung abgetötet werden, gelten gemäß § 3 Absatz 3 Satz 5 in Verbindung mit § 2 Nummer 2 Buchstabe d als anderweitig hygienisierend behandelt und sind gemäß § 10 Absatz 1 Nummer 2 von den Untersuchungspflichten nach § 3 freigestellt.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Pilzmyzel, pflanzliche Aminosäuren, pflanzliches Eiweißhydrolysat sowie pflanzliche Proteinabfälle.</td></tr><tr class="odd"><td style="text-align: left;">Abfälle, an deren Sammlung<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind Pilzmyzel, pflanzliche Aminosäuren, pflanzliches Eiweißhydrolysat sowie pflanzliche Proteinabfälle.</td></tr><tr class="even"><td style="text-align: left;">Abfälle, an deren Sammlung<br />
 und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden (z. B. Wund- und Gipsverbände, Wäsche, Einwegkleidung, Windeln)<br />
 (18 01 04)</td><td style="text-align: left;">– Moorschlamm und Heilerde</td><td style="text-align: left;">(Abfälle aus der Geburtshilfe, Diagnose, Behandlung oder Vorbeugung von Krankheiten beim Menschen)<br />
 Moorschlamm und Heilerde sind geeignete Abfälle gemäß Spalte 2, wenn diese keine Medikamentenrückstände enthalten.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Fett- und Ölmischungen aus Ölabscheidern, die ausschließlich Speiseöle und -fette enthalten<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Fett- und Ölmischungen aus Ölabscheidern, die ausschließlich Speiseöle und -fette enthalten<br />
 (19 08 09)</td><td style="text-align: left;">– Inhalt von Fettabscheidern</td><td style="text-align: left;">(Abfälle aus Abwasserbehandlungsanlagen a. n. g.)<br />
 Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Papier und Pappe<br />
-(20 01 01)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">Biologisch abbaubare Küchen- und Kantinenabfälle<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Papier und Pappe<br />
+(20 01 01)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">Biologisch abbaubare Küchen- und Kantinenabfälle<br />
 (20 01 08)</td><td style="text-align: left;">– Biologisch abbaubare Küchen- und Kantinenabfälle<br />
 – Inhalt von Fettabscheidern<br />
 – Lebensmittelabfälle, ohne Verpackung</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
@@ -671,14 +671,14 @@ Die Bestimmungen dieser Verordnung sind<br />
 a) für biologisch abbaubare Küchen- und Kantinenabfälle tierischer Herkunft nur anwendbar, soweit diese nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, und<br />
 b) für Lebensmittelabfälle tierischer Herkunft nur anwendbar, soweit diese nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Die Verwertung der Inhalte von Fettabscheidern ist nur mit anaerober Behandlung zulässig.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Speiseöle und -fette<br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Speiseöle und -fette<br />
 (20 01 25)</td><td style="text-align: left;">– Speiseöle und -fette, ohne Verpackung</td><td style="text-align: left;">(Getrennt gesammelte Fraktionen der Siedlungsabfälle [außer 15 01])<br />
 Die Bestimmungen dieser Verordnung sind für Speiseöle und -fette tierischer Herkunft nur anwendbar, soweit diese<br />
 a) nicht als tierische Nebenprodukte (Küchen- und Kantinenabfälle) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, oder<br />
 b) nach § 1 Absatz 3 Nummer 3a nicht als tierische Nebenprodukte (überlagerte Lebensmittel) der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, mit Ausnahme derjenigen tierischen Nebenprodukte, die als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind.<br />
 Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.<br />
-Speiseöle und -fette pflanzlicher Herkunft dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="even"><td style="text-align: left;">Kunststoffe<br />
-(20 01 39)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">Biologisch abbaubare Abfälle<br />
+Speiseöle und -fette pflanzlicher Herkunft dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Kunststoffe<br />
+(20 01 39)</td><td style="text-align: left;">(weggefallen)</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">Biologisch abbaubare Abfälle<br />
 (20 02 01)</td><td style="text-align: left;">– Biologisch abbaubare Abfälle von Sportanlagen, -plätzen, -stätten und Kinderspielplätzen (soweit nicht Garten- und Parkabfälle)<span id="FnR.FnA1-f780003_06"></span><a href="#FnA1-f780003_06" class="FnR">5</a></sup><br />
 – Biologisch abbaubare Friedhofsabfälle<br />
 – Biologisch abbaubare Garten- und Parkabfälle<br />
@@ -688,9 +688,9 @@ Speiseöle und -fette pflanzlicher Herkunft dürfen, auch als Bestandteil eines 
 – Pflanzliche Bestandteile des Treibsels (einschließlich von Küsten- und Uferbereichen)<a href="#FnA1-f780003_06" class="FnR">5</a></sup><br />
 </td><td style="text-align: left;">(Garten- und Parkabfälle [einschließlich Friedhofsabfälle])<br />
 Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.</td></tr><tr class="even"><td style="text-align: left;">Gemischte Siedlungsabfälle<span id="FnR.FnA1-f780003_07"></span><a href="#FnA1-f780003_07" class="FnR">6</a></sup><br />
+Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.</td></tr><tr class="odd"><td style="text-align: left;">Gemischte Siedlungsabfälle<span id="FnR.FnA1-f780003_07"></span><a href="#FnA1-f780003_07" class="FnR">6</a></sup><br />
 (20 03 01)</td><td style="text-align: left;">– Getrennt gesammelte Bioabfälle<a href="#FnA1-f780003_07" class="FnR">6</a></sup></td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
-Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.</td></tr><tr class="odd"><td style="text-align: left;">Marktabfälle<br />
+Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.</td></tr><tr class="even"><td style="text-align: left;">Marktabfälle<br />
 (20 03 02)</td><td style="text-align: left;">– Futtermittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung<br />
 – Lebensmittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung<br />
 – Pflanzliche Marktabfälle, ohne Verpackung</td><td style="text-align: left;">(Andere Siedlungsabfälle)<br />
@@ -766,7 +766,7 @@ Die Verwertung der Materialien ist nur mit anaerober Behandlung zulässig.</td><
 
 2. Andere Abfälle sowie biologisch abbaubare Materialien und mineralische Stoffe, die für eine gemeinsame Behandlung mit Bioabfällen (§ 2 Nummer 4) und für die Herstellung von Gemischen (§ 2 Nummer 5) geeignet sind
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Sofern Abfälle, Abfallbezeichnung<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><thead><tr class="header"><th style="text-align: left;">Sofern Abfälle, Abfallbezeichnung<br />
 gemäß der Anlage der AVV<a href="#FnA1-f780003_02" class="FnR">1</a></sup><br />
 (in Klammern: Abfallschlüssel)</th><th style="text-align: left;">Geeignete andere Abfälle<a href="#FnA1-f780003_03" class="FnR">2</a></sup> aus<br />
 den in Spalte 1 genannten<br />
@@ -825,18 +825,18 @@ Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemische
 Kunststoff-Sammelbeutel</td><td style="text-align: left;">Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung sind nach Maßgabe der folgenden Sätze geeignete andere Abfälle gemäß Spalte 2 und dürfen nur zusammen mit den gesammelten Bioabfällen der Behandlung zugegeben werden:<br />
 a) Küchenkrepp und Altpapier (Zeitungspapier) darf in kleinen Mengen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn dies aus hygienischen oder praktischen Gründen bei der Sammlung der Bioabfälle zweckmäßig ist (z. B. bei sehr feuchten Bioabfällen). Die Zugabe von beschichtetem Papier, Hochglanzpapier (z. B. von Zeitschriften, Illustrierten) und von Papier aus Alttapeten ist nicht zulässig.<br />
 b) Papier-Sammeltüten, auch mit zugesetzten Hydrophobierungsmitteln sowie mit einer Beschichtung aus Wachs oder aus biologisch abbaubarem Kunststoff, dürfen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden. Zugesetzte Hydrophobierungsmittel dürfen nur pflanzlicher oder tierischer Herkunft sein. Eine Wachsbeschichtung darf nur aus natürlichen, nicht-fossilen Wachsen bestehen. Eine Beschichtung mit biologisch abbaubaren Kunststoffen darf nur aus solchen bestehen, die nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder nach DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass die biologisch abbaubaren Kunststoffe überwiegend aus nachwachsenden Rohstoffen hergestellt sind und dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.<br />
-c) Biologisch abbaubare Kunststoff-Sammelbeutel dürfen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder nach DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass die biologisch abbaubaren Kunststoff-Sammelbeutel überwiegend aus nachwachsenden Rohstoffen hergestellt sind und dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<span id="FnR.FnA1-f780003_08"></span><a href="#FnA1-f780003_08" class="FnR">7</a></sup><br />
-(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> :<br />
-• Düngemittel gemäß § 3 DüMV sowie Wirtschaftsdünger, Bodenhilfsstoffe und Kultursubstrate gemäß § 4 DüMV<br />
-• Stoffe gemäß der Tabellen 6, 7 (mit Ausnahme von Klärschlämmen nach Nummer 7.4.3) und 8 (mit Ausnahme von Schadstoffen nach Nummer 8.3.11 Spalte 3 letzter Satz) der Anlage 2 DüMV</td><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> sind geeignete andere Abfälle, biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, soweit diese nicht als Bioabfälle in Nummer 1 oder als geeignete andere Abfälle in anderen Tabellenzeilen dieser Nummer genannt sind.<br />
+c) Biologisch abbaubare Kunststoff-Sammelbeutel dürfen zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) oder nach DIN EN 14995 (Ausgabe 2007-03) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass die biologisch abbaubaren Kunststoff-Sammelbeutel überwiegend aus nachwachsenden Rohstoffen hergestellt sind und dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden. Es dürfen nur nach Anhang 5 gekennzeichnete biologisch abbaubare Kunststoff-Sammelbeutel zugegeben werden.</td></tr><tr class="odd"><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<span id="FnR.FnA1-f780003_08"></span><a href="#FnA1-f780003_08" class="FnR">7</a></sup><br />
+(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> :<br />
+• Düngemittel gemäß § 3 DüMV sowie Wirtschaftsdünger, Bodenhilfsstoffe und Kultursubstrate gemäß § 4 DüMV<br />
+• Stoffe gemäß der Tabellen 6, 7 (mit Ausnahme von Klärschlämmen nach Nummer 7.4.3) und 8 (mit Ausnahme von Schadstoffen nach Nummer 8.3.11 Spalte 3 letzter Satz) der Anlage 2 DüMV</td><td style="text-align: left;">Materialien gemäß Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> sind geeignete andere Abfälle, biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, soweit diese nicht als Bioabfälle in Nummer 1 oder als geeignete andere Abfälle in anderen Tabellenzeilen dieser Nummer genannt sind.<br />
 Soweit Düngemittel und Ausgangsstoffe tierischer Herkunft als tierische Nebenprodukte der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> unterliegen, sind auch deren Bestimmungen anzuwenden.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Düngemittelverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> oder der Düngeverordnung<a href="#FnA1-f780003_08" class="FnR">7</a></sup> zulässig ist.</td></tr><tr class="odd"><td style="text-align: left;">Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup><br />
-(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup><br />
-• der Kategorie 3 gemäß Artikel 10 Verordnung (EG) Nr. 1069/2009,<br />
-• der Kategorie 2 gemäß Artikel 9 Buchstabe a Verordnung (EG) Nr. 1069/2009 (Gülle, nicht mineralisierter Guano, Magen- und Darminhalte sowie Panseninhalte)</td><td style="text-align: left;">Soweit tierische Nebenprodukte als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind, werden sie nach § 1 Absatz 3 Nummer 3a letzter Teilsatz als Bioabfälle der jeweiligen Abfallbezeichnung nach Nummer 1 Buchstabe a dieses Anhangs zugeordnet. Magen- und Darminhalte sowie Panseninhalte sind geeignete biologisch abbaubare Materialien gemäß Spalte 2, wenn diese von Tieren stammen, die als genusstauglich für den menschlichen Verzehr eingestuft sind.<br />
+(sofern Materialien im Einzelfall Abfälle gemäß Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)</td><td style="text-align: left;">– Tierische Nebenprodukte gemäß Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> :<br />
+• der Kategorie 3 gemäß Artikel 10 Verordnung (EG) Nr. 1069/2009,<br />
+• der Kategorie 2 gemäß Artikel 9 Buchstabe a Verordnung (EG) Nr. 1069/2009 (Gülle, nicht mineralisierter Guano, Magen- und Darminhalte sowie Panseninhalte)</td><td style="text-align: left;">Soweit tierische Nebenprodukte als verpackte Bioabfälle tierischer Herkunft zur Verwendung in einer Vergärungs- oder Kompostierungsanlage, einschließlich einer Aufbereitung, bestimmt sind, werden sie nach § 1 Absatz 3 Nummer 3a letzter Teilsatz als Bioabfälle der jeweiligen Abfallbezeichnung nach Nummer 1 Buchstabe a dieses Anhangs zugeordnet. Magen- und Darminhalte sowie Panseninhalte sind geeignete biologisch abbaubare Materialien gemäß Spalte 2, wenn diese von Tieren stammen, die als genusstauglich für den menschlichen Verzehr eingestuft sind.<br />
 Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden, soweit die Aufbringung der Materialien auf diese Flächen nach der Verordnung (EG) Nr. 1069/2009<a href="#FnA1-f780003_04" class="FnR">3</a></sup> zulässig ist.</td></tr><tr class="even"><td style="text-align: left;">Nachwachsende Rohstoffe</td><td style="text-align: left;">– Nachwachsende Rohstoffe</td><td style="text-align: left;">Nachwachsende Rohstoffe sind geeignete biologisch abbaubare Materialien gemäß Spalte 2, soweit diese nicht als Bioabfälle in<br />
 Nummer 1 genannt sind.<br />
 Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.<br />
-Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Bodenmaterialien</td><td style="text-align: left;">– Bodenmaterialien</td><td style="text-align: left;">Bodenmaterialien sind geeignete biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, wenn diese die Vorsorgewerte für Böden nach Anhang 2 Nummer 4 der Bundes-Bodenschutz- und Altlastenverordnung<span id="FnR.FnA1-bjnr295500998bjne001705125_08"></span><a href="#FnA1-bjnr295500998bjne001705125_08" class="FnR">8</a></sup> nicht überschreiten.<br />
+Die Materialien dürfen nach § 7 Absatz 1 Satz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden.</td></tr><tr class="odd"><td style="text-align: left;">Bodenmaterialien</td><td style="text-align: left;">– Bodenmaterialien</td><td style="text-align: left;">Bodenmaterialien sind geeignete biologisch abbaubare Materialien und mineralische Stoffe gemäß Spalte 2, wenn diese die Vorsorgewerte für Böden nach Anhang 2 Nummer 4 der Bundes-Bodenschutz- und Altlastenverordnung<span id="FnR.FnA1-bjnr295500998bjne001706125_08"></span><a href="#FnA1-bjnr295500998bjne001706125_08" class="FnR">8</a></sup> nicht überschreiten.<br />
 Die Materialien dürfen nach § 7 Absatz 1 auch Bioabfällen und Gemischen zugegeben werden, die auf Grünlandflächen aufgebracht werden.</td></tr></tbody></table>
 
 3. Bekanntmachungen sachverständiger Stellen
@@ -866,7 +866,7 @@ Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine sp
 <span id="FnA1-f780003_08"></span><a href="#FnR.FnA1-f780003_08" class="Footnote">7</a>  
 Düngemittelverordnung und Düngeverordnung in der jeweils geltenden Fassung.
 
-<span id="FnA1-bjnr295500998bjne001705125_08"></span><a href="#FnR.FnA1-bjnr295500998bjne001705125_08" class="Footnote">8</a>  
+<span id="FnA1-bjnr295500998bjne001706125_08"></span><a href="#FnR.FnA1-bjnr295500998bjne001706125_08" class="Footnote">8</a>  
 Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 126 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist.
 
 # Anhang 2 – (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
@@ -1990,3 +1990,156 @@ Datum der Annahme
 und Unterschrift des  
 Bewirtschafters der  
 Aufbringungsfläche
+
+# Anhang 5 – (zu Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c)
+
+(Fundstelle: BGBl. I 2022, 714 — 719)
+
+1. Allgemeine Angaben
+
+Biologisch abbaubare Kunststoff-Sammelbeutel aus der getrennten Bioabfallsammlung, die gemäß Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c, zusammen mit den Bioabfällen der Kompostierung zugegeben werden, sind nach den grafischen und textlichen Vorgaben der Nummern 2 und 3 dieses Anhangs zu kennzeichnen. Abweichungen hiervon sind nur nach Maßgabe der Nummer 4 zulässig.
+
+2. Grafische Darstellung
+
+2.1  
+Schematische Darstellung Sammelbeutel (mit Tragegriffen)
+
+Vorderseite
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0700-1_0010.jpg)
+
+Rückseite
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0700-1_0020.jpg)
+
+2.2  
+Abbildung Logo „Keimling“<span id="FnR.F821297_01a"></span><a href="#F821297_01a" class="FnR">1</a></sup>
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0700-1_0030.jpg)
+
+3. Textliche Beschreibungen
+
+3.1  
+Referenzmaße
+
+3.1.1  
+Sammelbeutel  
+  
+
+Die Referenzmaße der nutzbaren Beutelgröße (ohne Tragegriffe oder Zugband oben und ohne Klebefalz unten) des Sammelbeutels nach den schematischen Darstellungen in Nummer 2.1 betragen  
+Höhe: 400 mm,  
+Gesamte Breite: 420 mm.
+
+3.1.2  
+Logo „Keimling“  
+  
+
+Die Referenzmaße des Logos „Keimling“ nach der Abbildung in Nummer 2.2 für den Sammelbeutel (Nummer 2.1 und 3.1.1) betragen  
+Höhe: 25 mm,  
+Breite: 25 mm.
+
+Die Breite des Logos „Keimling“ ohne das Symbol für das eingetragene Markenzeichen (Symbol Registered Trademark – ®</sup>) beträgt 22 mm. Das „®</sup>“-Symbol ist mit 2 mm Durchmesser in der oberen rechten Ecke des Logos „Keimling“ oberhalb des rechten Keimlingblattes so zu platzieren, dass die Referenzmaße gemäß Satz 1 eingehalten werden.
+
+3.2  
+Vorgaben für Farben und Aufdruck
+
+3.2.1  
+Grundfarbe des Sammelbeutels  
+  
+
+Die Grundfarbe des Sammelbeutels ist Weißgrün, ähnlich RAL 6019, mit einer milchigen Transparenz. Die vorgenannte Grundfarbe ergibt sich durch Wiedereinsatz von Produktionsresten (Verschnitt) aus der Herstellung der bedruckten Sammelbeutel. Eine Einfärbung des Kunststoffmaterials ist nicht zulässig.
+
+3.2.2  
+Farbe der Aufdrucke  
+  
+
+Für die Aufdrucke nach Nummer 3.2.3 ist ausschließlich die Farbe Grün, ähnlich RAL 6002, zu verwenden.
+
+3.2.3  
+Aufdruck und Anordnung des Logos, der Felder und Texte  
+  
+
+Aufdruck, Anordnung und Platzierung des Logos „Keimling“, der Textfelder, des Freifeldes und der Texte sind nach den folgenden Vorgaben auszuführen. Abweichungen sind nur nach den Vorgaben gemäß Nummer 4 zulässig.
+
+  
+  
+
+|                          |
+|:------------------------:|
+| Aufdruck Logo „Keimling“ |
+
+  
+  
+
+Sammelbeutel jeglicher Größe sind über die gesamte Fläche der Vorder- und Rückseite einschließlich der Tragegriffe, mit Ausnahme der Textfelder und des Freifeldes, mit dem Logo „Keimling“ nach Nummer 2.2 zu bedrucken. Bei Sammelbeuteln mit den Referenzmaßen nach Nummer 3.1.1 ist das Logo „Keimling“ mit den Referenzmaßen gemäß Nummer 3.1.2 horizontal im Abstand von jeweils 25 mm und vertikal mit einem Zeilenabstand von jeweils 25 mm in zeilenweise versetzter Anordnung zu drucken. Bei abweichenden Maßen des Sammelbeutels gelten für den Aufdruck des Logos „Keimling“ die Vorgaben nach Nummer 4.1.   
+
+|                                                                                    |
+|:----------------------------------------------------------------------------------:|
+| Aufdruck Textfeld Hinweise Konformität mit BioAbfV und Zulässigkeit der Verwendung |
+
+  
+  
+
+Auf der Vorderseite ist ein gerahmtes viereckiges Textfeld mit den Maßen 70 mm Höhe und 170 mm Breite (jeweils Rahmenaußenkante) und einer Rahmenstärke von 4 Punkt (pt) einzufügen. Das Textfeld ist vertikal im Abstand von 45 mm von der oberen Rahmenaußenkante zur Oberkante der nutzbaren Beutelgröße und horizontal zentriert zu platzieren. Das Textfeld ist mit folgenden Hinweisen zur Konformität mit der BioAbfV und zur Zulässigkeit der Verwendung zu beschriften:  
+  
+
+„Biologisch abbaubarer Kunststoffbeutel für die getrennte Bioabfallsammlung als industriell kompostierbar zertifiziert nach den Vorgaben der Bioabfallverordnung (BioAbfV).
+
+Der Sammelbeutel darf für die getrennte Bioabfallsammlung (z. B. Biotonne) verwendet werden, wenn dies in Ihrer Kommune, Ihrem Zweckverband usw. (öffentlich-rechtlicher Entsorgungsträger) zulässig ist.“
+
+Der Text ist mit der Formatierung Schriftart Arial, Schriftgrad 16 pt und 1,2-fachem Zeilenabstand zu drucken. Der zweite Satz ist in einer neuen Zeile beginnend und mit einem Zeilenabstand von zusätzlich 12 pt zur letzten Zeile des vorangehenden Satzes zu setzen. Der gesamte Text ist im Textfeld horizontal und vertikal zentriert mit mindestens 3 mm Abstand zur Rahmeninnenkante zu setzen.   
+
+|                   |
+|:-----------------:|
+| Aufdruck Freifeld |
+
+  
+  
+
+Auf der Vorderseite ist ein gerahmtes viereckiges Freifeld mit den Maßen 60 mm Höhe und 150 mm Breite (jeweils Rahmenaußenkante) und einer Rahmenstärke von 4 pt einzufügen. Das Freifeld ist vertikal im Abstand von 165 mm von der oberen Rahmenaußenkante zur Oberkante der nutzbaren Beutelgröße und horizontal zentriert zu platzieren. Das Freifeld kann mit individuellen Logos, Symbolen und Texten des öffentlich-rechtlichen Entsorgungsträgers, des Herstellers oder des Inverkehrbringers der Sammelbeutel mit Bezug zur getrennten Bioabfallsammlung und Sortenreinheit beschriftet werden.   
+
+|                                                            |
+|:----------------------------------------------------------:|
+| Aufdruck Textfeld Verbraucherhinweise für den Sammelbeutel |
+
+  
+  
+
+Auf der Vorderseite ist ein gerahmtes viereckiges Textfeld mit den Maßen 30 mm Höhe und 180 mm Breite (jeweils Rahmenaußenkante) und einer Rahmenstärke von 4 pt einzufügen, wobei das Maß für die Höhe auf einen dreizeiligen Text im Textfeld bezogen ist. Für jede zusätzliche Textzeile für Verbraucherhinweise ist das Maß für die Höhe des Textfeldes um etwa 7 mm zu vergrößern. Das Textfeld ist vertikal im Abstand von 50 mm von der unteren Rahmenaußenkante zur Unterkante der nutzbaren Beutelgröße und horizontal zentriert zu platzieren. Das Textfeld ist mit Verbraucherhinweisen des Herstellers oder des öffentlich-rechtlichen Entsorgungsträgers für den Sammelbeutel, zum Beispiel zur Verwendung und Lagerung, sowie im letzten Satz mit dem Hinweis zur Eigenkompostierung zu beschriften (in eckigen Klammern kursiv gesetzter Text ist Platzhalter für die einzutragenden Verbraucherhinweise des Sammelbeutel-Herstellers und/oder öffentlich-rechtlichen Entsorgungsträgers):  
+  
+
+„\[Text Verbraucherhinweise des Herstellers oder des öffentlich-rechtlichen Entsorgungsträgers für den Sammelbeutel, z. B. zur Verwendung, Lagerung\]  
+Der Sammelbeutel ist für eine Eigenkompostierung nicht geeignet.“
+
+Der Text ist mit der Formatierung Schriftart Arial, Schriftgrad 13 pt und 1,3-fachem Zeilenabstand zu drucken. Jeder Satz ist in einer neuen Zeile beginnend zu setzen. Der gesamte Text ist im Textfeld horizontal und vertikal zentriert mit mindestens 3 mm Abstand zur Rahmeninnenkante zu setzen.   
+
+|                                          |
+|:----------------------------------------:|
+| Aufdruck Textfeld Zertifizierungsangaben |
+
+  
+  
+
+Auf der Rückseite ist ein gerahmtes viereckiges Textfeld mit den Maßen 32 mm Höhe und 200 mm Breite (Rahmenaußenkante) und einer Rahmenstärke von 4 pt einzufügen, wobei das Maß für die Höhe auf einen vierzeiligen Text im Textfeld bezogen ist. Für jede zusätzliche Textzeile für Zertifizierungsangaben des Sammelbeutel-Herstellers ist das Maß für die Höhe des Textfeldes um etwa 7 mm zu vergrößern. Das Textfeld ist vertikal im Abstand von 40 mm von der unteren Rahmenaußenkante zur Unterkante der nutzbaren Beutelgröße und horizontal zentriert zu platzieren. Das Textfeld ist mit folgenden Angaben zur Zertifizierung des Sammelbeutels zu beschriften (in eckigen Klammern kursiv gesetzter Text ist Platzhalter für die einzutragenden Zertifizierungsangaben des Sammelbeutel-Herstellers):  
+  
+
+„\[Zertifizierungsstelle (Name, Ort), Zertifizierungsnummer, Zertifizierungszeichen\]  
+zertifiziert als industriell kompostierbar nach DIN EN \[Angabe der zugrundeliegenden DIN EN\] und nach den zusätzlichen Vorgaben gemäß Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 und Buchstabe c BioAbfV“.
+
+Der Text ist mit der Formatierung Schriftart Arial und Schriftgrad 13 pt zu drucken. Die erste Zeile mit den Zertifizierungsangaben ist mit 1,2-fachem Zeilenabstand und der nachfolgende Text in einer neuen Zeile beginnend mit einfachem Zeilenabstand zu setzen. Der gesamte Text ist im Textfeld horizontal und vertikal zentriert mit mindestens 3 mm Abstand zur Rahmeninnenkante zu setzen.
+
+4. Zulässige Abweichungen
+
+4.1  
+Aufdruck des Logos „Keimling“ bei abweichenden Maßen des Sammelbeutels
+
+Sammelbeutel können von den Referenzmaßen in Nummer 3.1.1 abweichende Maße und ein abweichendes Höhen- und Seitenverhältnis aufweisen.
+
+Bei Abweichungen der Größe des Sammelbeutels von den Referenzmaßen in Nummer 3.1.1 und gleichbleibendem Höhen- und Seitenverhältnis ist die Größe der Aufdrucke nach Nummer 3.2.3 für jede Abweichungsstufe von 10 Prozent im gleichen Verhältnis zur abweichenden Größe des Sammelbeutels anzupassen. Bei großen Sammelbeuteln darf das Logo „Keimling“ die Maximalmaße von 50 mm Höhe und 50 mm Breite einschließlich des Symbols für das eingetragene Markenzeichen entsprechend Nummer 3.1.2 Satz 2 nicht überschreiten.
+
+Bei Abweichung nur des Höhenmaßes oder nur des Breitenmaßes des Sammelbeutels vom Referenzmaß in Nummer 3.1.1 sind die Aufdrucke gemäß Nummer 3.2.3 vorzunehmen und ist das Logo „Keimling“ mit angepasster Zeilenanzahl entsprechend der geänderten Höhe oder mit angepasster vertikaler Reihenanzahl entsprechend der geänderten Breite des Sammelbeutels aufzudrucken.
+
+4.2  
+Drucktechnisch bedingte Abweichungen
+
+Die Platzierung der Textfelder und des Freifelds darf beim Aufdruck auf der Vorderseite und der Rückseite drucktechnisch bedingt von den Maßangaben nach Nummer 3.2.3 vertikal und horizontal an jeder Seite der Felder um maximal 10 mm abweichen. Eine Änderung der Maße der Textfelder und des Freifeldes, der Rahmenstärke oder der Formatierung der Beschriftungstexte ist nicht zulässig.
