@@ -149,6 +149,8 @@ Zur Einrichtung eines elektronischen Identitätsnachweises nach § 8a Absatz 1 S
 
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk die antragstellende Person oder der Karteninhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Ist die Person nicht meldepflichtig, ist die eID-Karte-Behörde zuständig, in deren Bezirk die Person im Zeitpunkt der Antragstellung oder des die behördliche Tätigkeit auslösenden Ereignisses wohnt.
 
+(1a) Für das Führen des eID-Karte-Registers nach § 19 ist die eID-Karte-Behörde zuständig, welche die eID-Karte ausgestellt hat.
+
 (2) Im Ausland sind die vom Auswärtigen Amt bestimmten Auslandsvertretungen zuständig, in deren Bezirk sich die antragstellende Person oder der Karteninhaber gewöhnlich aufhält. Die antragstellende Person oder der Karteninhaber haben den Nachweis über ihren gewöhnlichen Aufenthaltsort zu erbringen.
 
 # § 8 – Ausstellung der eID-Karte
@@ -289,11 +291,17 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 11. ausstellende Behörde,
 
-12. die Tatsache, dass die eID-Karte in die Sperrliste eingetragen ist, und
+12. die örtlich zuständige eID-Karte-Behörde, wenn diese nicht mit der ausstellenden eID-Karte-Behörde identisch ist, und
 
 13. Ordensname, Künstlername.
 
 (4) Personenbezogene Daten im eID-Karte-Register sind mindestens bis zur Ausstellung einer neuen eID-Karte, höchstens jedoch bis zum Ablauf der Gültigkeitsdauer der eID-Karte, auf die sie sich beziehen, zu speichern und dann zu löschen.
+
+(5) Wird eine andere als die ausstellende eID-Karte-Behörde örtlich zuständig, darf sie die in Absatz 3 genannten und zur Wahrnehmung ihrer Aufgaben erforderlichen Daten speichern. Absatz 4 gilt entsprechend.
+
+# § 19a – Verwendung von im eID-Karte-Register gespeicherten Daten
+
+eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfahren Daten des eID-Karte-Registers übermitteln oder Daten aus eID-Karte-Registern, die in Zuständigkeit anderer eID-Karte-Behörden geführt werden, abrufen, sofern dies zur Wahrnehmung ihrer Pflichten erforderlich ist.
 
 # § 20 – Pflichten des Karteninhabers
 

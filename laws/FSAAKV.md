@@ -9,7 +9,7 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des Luftverkehrsgesetzes in 
 
 (1) Für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flughäfen Berlin Brandenburg, Bremen, Dresden, Düsseldorf, Erfurt-Weimar, Frankfurt Main, Hamburg, Hannover, Köln/Bonn, Leipzig/Halle, München, Münster/Osnabrück, Nürnberg, Saarbrücken und Stuttgart werden Kosten (Gebühren und Auslagen) erhoben (Gebührenbereich 1).
 
-(1a) Ferner werden für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bautzen, Bayreuth, Braunschweig-Wolfsburg, Coburg-Brandensteinsebene, Donaueschingen-Villingen, Donauwörth HEL, Dortmund, Eggenfelden, Emden, Frankfurt-Hahn, Friedrichshafen, Giebelstadt, Hamburg-Finkenwerder, Hassfurt-Schweinfurt, Heringsdorf, Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-Calden, Kiel-Holtenau, Lahr, Leipzig-Altenburg Airport, Lübeck-Blankensee, Magdeburg/City, Mannheim City, Memmingen, Mengen-Hohentengen, Mönchengladbach, Neubrandenburg, Niederrhein, Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall, Siegerland, Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser Airport und Zweibrücken Kosten (Gebühren und Auslagen) erhoben (Gebührenbereich 2).
+(1a) Ferner werden für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bamberg-Breitenau, Bautzen, Bayreuth, Braunschweig-Wolfsburg, Coburg-Brandensteinsebene, Donaueschingen-Villingen, Donauwörth HEL, Dortmund, Eggenfelden, Emden, Frankfurt-Hahn, Friedrichshafen, Giebelstadt, Hamburg-Finkenwerder, Hassfurt-Schweinfurt, Heringsdorf, Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-Calden, Kiel-Holtenau, Lahr, Leipzig-Altenburg Airport, Lübeck-Blankensee, Magdeburg/City, Mannheim City, Memmingen, Mengen-Hohentengen, Mönchengladbach, Neubrandenburg, Niederrhein, Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall, Siegerland, Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser Airport und Zweibrücken Kosten (Gebühren und Auslagen) erhoben (Gebührenbereich 2).
 
 (1b) Die Art des notwendigen Flugsicherungsdienstes bestimmt sich nach der Anlage.
 
@@ -50,7 +50,8 @@ Der Bundesminister für Verkehr
 
 # Anlage – (zu § 1 Absatz 1b)
 
-(Fundstelle: BGBl. I 2021, S. 3569)
+(Fundstelle: BGBl. I 2021, S. 3569;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -128,6 +129,8 @@ Sylt
 2. Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:
 
 Allendorf/Eder
+
+Bamberg-Breitenau
 
 Bautzen
 

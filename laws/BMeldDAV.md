@@ -733,7 +733,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage
 
-(Fundstelle: BGBl. I 2021, 3215 - 3228)
+(Fundstelle: BGBl. I 2021, 3215 - 3228;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -822,7 +823,7 @@ In Thüringen bestehen Suchmöglichkeiten gemeindescharf und über ganz Thüring
 a) Normalisierung von Zeichen
 
 aa)  
-Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN SPEC 91379<span id="FnR.F816979_01"></span><a href="#F816979_01" class="FnR">1</a></sup> normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN SPEC 91379 auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022)<span id="FnR.F816979_01"></span><a href="#F816979_01" class="FnR">1</a></sup> normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
 
 bb)  
 Beispiele
@@ -988,7 +989,7 @@ b) Die abrufende Stelle muss für die Auswahl einer Person aus einer Trefferlist
 a) Normalisierung von Zeichen
 
 aa)  
-Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN SPEC 91379 normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN SPEC 91379 auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
 
 bb)  
 Beispiele

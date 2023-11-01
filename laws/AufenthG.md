@@ -3181,13 +3181,7 @@ Anlässlich der Datenverarbeitung nach Satz 3 überprüft die verarbeitende öff
 
 # § 78a – Vordrucke für Aufenthaltstitel in Ausnahmefällen, Ausweisersatz und Bescheinigungen
 
-(1) Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 können abweichend von § 78 nach einem einheitlichen Vordruckmuster ausgestellt werden, wenn
-
-1. der Aufenthaltstitel zum Zwecke der Verlängerung der Aufenthaltsdauer um einen Monat erteilt werden soll oder
-
-2. die Ausstellung zur Vermeidung außergewöhnlicher Härten geboten ist.
-
-Das Vordruckmuster enthält folgende Angaben:
+(1) Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 können abweichend von § 78 nach einem einheitlichen Vordruckmuster ausgestellt werden, wenn zur Vermeidung außergewöhnlicher Härten der Aufenthaltstitel zur Verlängerung der Aufenthaltsdauer um höchstens einen Monat erteilt werden soll. Das Vordruckmuster enthält folgende Angaben:
 
 1. Name und Vornamen des Inhabers,
 
@@ -4361,7 +4355,7 @@ Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3
 
 # § 105b – Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 
-Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4, die bis zum Ablauf des 31. August 2011 nach einheitlichem Vordruckmuster gemäß § 78 in der bis zu diesem Zeitpunkt geltenden Fassung dieses Gesetzes ausgestellt wurden, sind bei Neuausstellung, spätestens aber bis zum Ablauf des 31. August 2021 als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 auszustellen. Unbeschadet dessen können Inhaber eines Aufenthaltstitels nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 ein eigenständiges Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen, wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
+Inhaber eines nach § 78a Absatz 1 Satz 1 ausgestellten Aufenthaltstitels können ein eigenständiges Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen, wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen. Unbeschadet dessen können Inhaber eines Aufenthaltstitels nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 ein eigenständiges Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen, wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
 
 # § 105c – Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
 

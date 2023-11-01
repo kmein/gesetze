@@ -85,13 +85,17 @@ c) bei Kindern, die innerhalb der ersten 24 Lebensstunden starben: zusätzlich L
 
 d) Tag der Geburt und Geschlecht des hinterbliebenen Ehegatten oder des hinterbliebenen Lebenspartners oder der hinterbliebenen Lebenspartnerin,
 
+e) Sterbeort,
+
 2. als Hilfsmerkmale
 
 a) Registernummer,
 
 b) Monat und Jahr der Beurkundung,
 
-c) Anschrift, unter der die verstorbene Person zuletzt gemeldet war.
+c) Anschrift, unter der die verstorbene Person zuletzt gemeldet war,
+
+d) Anschrift des Sterbeortes.
 
 (5) Bei der Beurkundung eines im Ausland eingetretenen Ereignisses nach den Absätzen 2 bis 4 durch ein deutsches Standesamt ist als Erhebungsmerkmal zusätzlich anzugeben, dass das Ereignis im Ausland eingetreten ist; bei Sterbefällen ist darüber hinaus der Staat anzugeben, in dem der Tod eingetreten ist.
 
@@ -201,7 +205,19 @@ b) Ordnungsmerkmal der Meldebehörde,
 
 c) Anschrift.
 
-(3) Das Statistische Bundesamt führt auf der Grundlage der Angaben zu den §§ 2 bis 5 Bevölkerungsvorausberechnungen durch. Die Zuständigkeit der Länder, die Vorausberechnungen für ihren Zuständigkeitsbereich ebenfalls durchzuführen, bleibt unberührt.
+(3) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder für die Ermittlung der Zahl der Bevölkerung nach Geschlecht aus Anlass der Änderung des Geschlechtseintrages im Geburtenregister folgende Daten:
+
+1. als Erhebungsmerkmale
+
+a) Land, in welchem der Wohnort liegt,
+
+b) Geschlechtseintrag vor und nach der Änderung,
+
+c) Tag der Änderung des Geschlechtseintrages und Standesamt, das die Änderung eingetragen hat,
+
+2. als Hilfsmerkmal die Registernummer im Geburtenregister.
+
+(4) Das Statistische Bundesamt führt auf der Grundlage der Angaben zu den §§ 2 bis 5 Bevölkerungsvorausberechnungen durch. Die Zuständigkeit der Länder, die Vorausberechnungen für ihren Zuständigkeitsbereich ebenfalls durchzuführen, bleibt unberührt.
 
 # § 5a – Übermittlung von Tabellen an oberste Bundes- und Landesbehörden
 
