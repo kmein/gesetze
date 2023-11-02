@@ -1,108 +1,124 @@
-% Verordnung über die Mitwirkung der Helfer und Helferinnen im Technischen Hilfswerk  (THW-Mitwirkungsverordnung - THWMitwV)
-% Ausfertigungsdatum: 11.01.2004
+% Verordnung über die Mitwirkung der Helferinnen und Helfer im Technischen Hilfswerk  (THW-Mitwirkungsverordnung - THWMitwV)
+% Ausfertigungsdatum: 10.10.2023
  
-# Eingangsformel
+# § 1 – Mindestalter für Helferinnen und Helfer
 
-Auf Grund des § 2 Abs. 4 und des § 4 Abs. 3 Satz 1 des THW-Helferrechtsgesetzes vom 22. Januar 1990 (BGBl. I S. 118) verordnet das Bundesministerium des Innern:
+Helferin oder Helfer kann werden, wer mindestens sechs Jahre alt ist. Helferinnen und Helfer, die noch nicht 18 Jahre alt sind, sind Junghelferinnen und Junghelfer.
 
-# § 1 – Helferinnen und Helfer
+# § 2 – Zustandekommen des Amtsverhältnisses
 
-Helferin oder Helfer kann werden, wer das sechste Lebensjahr vollendet hat. Personen, die das 18. Lebensjahr noch nicht vollendet haben, wirken als Junghelferinnen und Junghelfer mit.
+(1) Eine Aufnahme in das Amtsverhältnis zum Bund für den ehrenamtlichen Dienst im Technischen Hilfswerk kann nur auf Antrag in schriftlicher oder elektronischer Form erfolgen.
 
-# § 2 – Begründung des Dienstverhältnisses
-
-(1) Die Aufnahme in das Dienstverhältnis zum Technischen Hilfswerk erfolgt auf schriftlichen Antrag.
-
-(2) Die schriftliche Annahme des Antrages begründet das Dienstverhältnis. Die Nichtannahme bedarf keiner Begründung. Die Annahme erfolgt nicht, wenn Tatsachen vorliegen, die nach § 6 Absatz 1 zur Beendigung des Dienstverhältnisses führen würden.
+(2) Mit der Annahme des Antrags in schriftlicher oder elektronischer Form kommt das Amtsverhältnis zustande. Die Nichtannahme bedarf keiner Begründung. Liegen Tatsachen vor, die nach § 6 Absatz 1 zur Beendigung des Amtsverhältnisses führen würden, so ist der Antrag in schriftlicher oder elektronischer Form abzulehnen. In allen anderen Fällen entscheidet das Technische Hilfswerk nach pflichtgemäßem Ermessen über die Annahme des Antrags.
 
 # § 3 – Probezeit
 
-Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen Probezeit. Das Technische Hilfswerk kann die Probezeit aus wichtigem Grund verlängern oder verkürzen; dies ist den Betroffenen schriftlich mitzuteilen.
+Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen Probezeit. Das Technische Hilfswerk kann die Probezeit aus wichtigem Grund verlängern oder verkürzen. Die Dauer der Probezeit und die Möglichkeit ihrer Verlängerung oder Verkürzung ist den Betroffenen schriftlich oder elektronisch mitzuteilen.
 
-# § 4 – Inhalt des Dienstverhältnisses
+# § 4 – Inhalt des Amtsverhältnisses
 
-(1) Helferinnen und Helfer wirken bei der Erfüllung der Aufgaben des Technischen Hilfswerks mit. Sie können in besondere Funktionen berufen werden und nehmen an den angeordneten Einsätzen, Ausbildungsveranstaltungen und sonstigen dienstlichen Veranstaltungen teil.
+(1) Helferinnen und Helfer tragen zur Gestaltung des Technischen Hilfswerks bei, wirken bei der Erfüllung von dessen Aufgaben mit und nehmen an den angeordneten Einsätzen, Erkundungen, Ausbildungsveranstaltungen und sonstigen dienstlichen Veranstaltungen teil, soweit sie die jeweils erforderliche individuelle Einsatzbefähigung erlangt haben. Sie können in Funktionen berufen werden, die in den Stärke- und Ausstattungsnachweisungen (StAN) der Einheiten, Teileinheiten und Ortsverbände festgelegt sind.
 
-(2) Die Teilnahme an Einsätzen und Ausbildungsveranstaltungen ist nur entsprechend der individuellen Einsatzbefähigung möglich.
+(2) Junghelferinnen und Junghelfer werden nicht zur unmittelbaren Unterstützungsleistung bei Einsätzen herangezogen. Sie erhalten eine altersgemäße Ausbildung und Betreuung, die sie auf eine spätere Verwendung im Technischen Hilfswerk vorbereiten sollen.
 
-(3) Junghelfer und Junghelferinnen erhalten eine kind- oder jugendgemäße Ausbildung und Betreuung, die sie auf ihre spätere Verwendung als Helferinnen und Helfer vorbereiten sollen. Sie werden nicht zur unmittelbaren Hilfeleistung bei Einsätzen herangezogen.
+# § 5 – Folgen bei Verstoß gegen Dienstpflichten
 
-# § 5 – Verstoß gegen Dienstpflichten
+(1) Verstößt eine Helferin oder ein Helfer schuldhaft gegen eine Dienstpflicht, so kann sie oder er abhängig von der Schwere des Verstoßes
 
-Wer als Helferin oder Helfer schuldhaft gegen Dienstpflichten verstößt, kann ermahnt, von der Teilnahme an dienstlichen Veranstaltungen vorübergehend oder dauerhaft ausgeschlossen oder von besonderen Funktionen abberufen werden; erteilte Berechtigungen können entzogen werden. Bei schwerwiegenden Verstößen kann eine Entlassung erfolgen. Eine Abberufung von besonderen Funktionen ist auch ohne Verschulden möglich, wenn das mit der besonderen Funktion verbundene Vertrauensverhältnis gestört ist oder wenn der Helferin oder dem Helfer in sonstiger Weise die notwendige Eignung fehlt.
+1. ermahnt werden,
 
-# § 6 – Beendigung des Dienstverhältnisses
+2. vorübergehend oder dauerhaft von der Teilnahme an bestimmten dienstlichen Veranstaltungen ausgeschlossen werden,
 
-(1) Das Technische Hilfswerk kann das Dienstverhältnis durch Entlassung beenden, wenn die Helferin oder der Helfer
+3. vorübergehend oder dauerhaft von Funktionen abberufen werden oder
 
-1. schuldhaft eine Dienstpflichtverletzung begangen hat, die als solche oder im Zusammenhang mit anderen Dienstpflichtverstößen so schwerwiegend ist, dass dem Technischen Hilfswerk die Fortsetzung des Dienstverhältnisses unzumutbar ist,
+4. Berechtigungen vorübergehend oder dauerhaft entzogen bekommen.
 
-2. körperlich, geistig oder fachlich für den Dienst nicht mehr geeignet ist,
+(2) Eine Helferin oder ein Helfer kann auch ohne Verschulden von Funktionen abberufen werden, wenn das mit der Funktion verbundene Vertrauensverhältnis gestört ist oder ihr oder ihm die notwendige Eignung fehlt.
 
-3. sich nicht zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennt,
+(3) § 6 bleibt unberührt.
+
+# § 6 – Beendigung des Amtsverhältnisses
+
+(1) Das Technische Hilfswerk beendet das Amtsverhältnis einer Helferin oder eines Helfers durch Entlassung, wenn die Helferin oder der Helfer
+
+1. schuldhaft einen Dienstpflichtverstoß begangen hat, der allein oder im Zusammenhang mit anderen Dienstpflichtverstößen so schwerwiegend ist, dass dem Technischen Hilfswerk die Fortsetzung des Amtsverhältnisses unzumutbar ist,
+
+2. körperlich, geistig oder fachlich für den Dienst im Technischen Hilfswerk nicht oder nicht mehr geeignet ist,
+
+3. sich nicht zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennt oder diesem Bekenntnis innerhalb oder außerhalb des Dienstes zuwiderhandelt,
 
 4. nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen ist,
 
-5. rechtskräftig zu einer Freiheitsstrafe von mindestens einem Jahr verurteilt wurde, es sei denn, die Vollstreckung der Strafe wurde zur Bewährung ausgesetzt, oder
+5. im ordentlichen Strafverfahren durch das Urteil eines deutschen Gerichts
 
-6. in einem Ortsverband mitwirkt, der aufgelöst wird.
+a) wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
-(2) Während der Probezeit kann das Technische Hilfswerk das Dienstverhältnis jederzeit durch schriftliche Erklärung, die keiner Begründung bedarf, beenden.
+b) wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit oder Volksverhetzung strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
-(3) Helferinnen und Helfer können das Dienstverhältnis durch schriftliche Erklärung, die keiner Begründung bedarf, beenden. Während der Probezeit kann dies jederzeit fristlos geschehen. Helferinnen und Helfer haben, nach Ablauf der Probezeit, eine Frist von vier Wochen zum Ende eines Kalendervierteljahres einzuhalten.
+rechtskräftig verurteilt worden ist, oder
 
-(4) Wird in den Fällen der Absätze 1 und 2 ein Rechtsbehelf gegen die Beendigung des Dienstverhältnisses eingelegt, ruht es bis zum Abschluss des Rechtsbehelfsverfahrens, im Falle eines Verwaltungsrechtsstreits bis zu dessen rechtskräftigem Abschluss.
+6. in einem Ortsverband mitwirkt, der aufgelöst wird, und sie oder er nicht bereit ist, in einem anderen Ortsverband mitzuwirken.
+
+(2) Während der Probezeit kann das Technische Hilfswerk das Amtsverhältnis einer Helferin oder eines Helfers jederzeit durch Entlassung beenden.
+
+(3) Die Entlassung erfolgt durch Erklärung in schriftlicher oder elektronischer Form. In den Fällen des Absatzes 1 ist die Erklärung mit einer Begründung zu versehen.
+
+(4) Jede Helferin und jeder Helfer kann jederzeit das Amtsverhältnis zum Bund für den ehrenamtlichen Dienst im Technischen Hilfswerk durch Erklärung in schriftlicher oder elektronischer Form beenden.
 
 # § 7 – Ausschüsse
 
-(1) Helferinnen und Helfer wirken in Ausschüssen an der Mitgestaltung und Weiterentwicklung des Technischen Hilfswerks mit.
+(1) Helferinnen und Helfer tragen zur Gestaltung und Weiterentwicklung des Technischen Hilfswerks auch dadurch bei, dass ihre Interessen durch gewählte Sprecherinnen und Sprecher in den zur Mitwirkung im Technischen Hilfswerk eingerichteten Ausschüssen wahrgenommen werden.
 
-(2) Die Ortsbeauftragten werden vom jeweiligen Ortsausschuss beraten. Der Ortsausschuss besteht aus
+(2) Jeder auf Ortsverbandsebene eingerichtete Ortsausschuss hat die Aufgabe, die jeweilige Ortsbeauftragte oder den jeweiligen Ortsbeauftragten zu beraten. Der Ortsausschuss besteht aus
 
-1. dem oder der Ortsbeauftragten (Vorsitz),
+1. der oder dem Ortsbeauftragten als Vorsitzender oder Vorsitzendem,
 
 2. den Mitgliedern des Stabes des Ortsverbandes,
 
-3. den Einheitsführern und Einheitsführerinnen,
+3. den Fachberaterinnen und Fachberatern des Ortsverbandes,
 
-4. dem Helfersprecher oder der Helfersprecherin und
+4. der auf Ortsverbandsebene gewählten Sprecherin oder dem auf Ortsverbandsebene gewählten Sprecher der Helferinnen und Helfer und ihrer oder seiner Vertretungsperson,
 
-5. dem stellvertretenden Helfersprecher oder der stellvertretenden Helfersprecherin.
+5. den Zugführerinnen und Zugführern sowie
 
-(3) Die Landesbeauftragten werden vom jeweiligen Landesausschuss beraten. Der Landesausschuss besteht aus
+6. den Gruppenführerinnen und Gruppenführern.
 
-1. dem oder der Landesbeauftragten (Vorsitz),
+(3) Jeder Landesausschuss hat die Aufgabe, die jeweilige Landesbeauftragte oder den jeweiligen Landesbeauftragten zu beraten. Der Landesausschuss besteht aus
 
-2. den Referatsleitern und Referatsleiterinnen des Landesverbandes,
+1. der oder dem Landesbeauftragten als Vorsitzender oder Vorsitzendem,
 
-3. zwei Geschäftsführern oder Geschäftsführerinnen, die von den Geschäftsführern und Geschäftsführerinnen des Landesverbandes aus ihrer Mitte gewählt werden,
+2. den auf Landesverbandsebene gewählten Landessprecherinnen und Landessprechern und ihren Vertretungspersonen,
 
-4. den Landessprechern und Landessprecherinnen,
+3. den Landesjugendbeauftragten,
 
-5. den stellvertretenden Landessprechern und Landessprecherinnen,
+4. den Referatsleiterinnen und Referatsleitern des Landesverbandes,
 
-6. den Landesjugendleitern und Landesjugendleiterinnen und
+5. bis zu drei Leiterinnen und Leitern der Regionalstellen, die von den Leiterinnen und Leitern der Regionalstellen des Landesverbandes aus ihrer Mitte gewählt werden,
 
-7. je einem oder einer Ortsbeauftragten pro Zuständigkeitsbereich der Geschäftsstelle des Landesverbandes, der oder die von den jeweiligen Ortsbeauftragten aus ihrer Mitte gewählt wird.
+6. je einer oder einem Ortsbeauftragten pro Zuständigkeitsbereich der Regionalstellen des Landesverbandes, die oder der von den Ortsbeauftragten der jeweiligen Regionalstelle des Landesverbandes aus ihrer Mitte gewählt wird.
 
-(4) Der Präsident oder die Präsidentin sowie der Vizepräsident oder die Vizepräsidentin werden vom Bundesausschuss beraten. Der Bundesausschuss besteht aus
+(4) Der Bundesausschuss hat die Aufgabe, die Präsidentin oder den Präsidenten des Technischen Hilfswerks zu beraten. Der Bundesausschuss besteht aus
 
-1. dem Präsidenten oder der Präsidentin (Vorsitz),
+1. der Präsidentin oder dem Präsidenten als Vorsitzender oder Vorsitzendem,
 
-2. dem Vizepräsidenten oder der Vizepräsidentin,
+2. der Vizepräsidentin oder dem Vizepräsidenten,
 
-3. den Abteilungsleitern und Abteilungsleiterinnen der Leitung des Technischen Hilfswerks,
+3. der Bundessprecherin oder dem Bundessprecher,
 
-4. dem Bundessprecher oder der Bundessprecherin,
+4. der oder dem Bundesjugendbeauftragten,
 
-5. den Landessprechern und Landessprecherinnen,
+5. den Abteilungsleiterinnen und Abteilungsleitern des Technischen Hilfswerks,
 
-6. dem Bundesjugendleiter oder der Bundesjugendleiterin,
+6. der Leiterin oder dem Leiter des Leitungsstabs des Technischen Hilfswerks,
 
-7. den Landesbeauftragten und
+7. den auf Landesverbandsebene gewählten Landessprecherinnen und Landessprechern,
 
-8. den Leitern und Leiterinnen der Ausbildungsstätten der Bundesschule des Technischen Hilfswerks.
+8. den Landesbeauftragten und
 
-# Schlussformel
+9. der Leiterin oder dem Leiter des Aus- und Fortbildungszentrums.
 
-Der Bundesrat hat zugestimmt.
+(5) Das Bundesministerium des Innern und für Heimat hat Gastrecht in allen Ausschüssen. Will es sein Gastrecht wahrnehmen, so teilt es dem Technischen Hilfswerk rechtzeitig vor der Sitzung den Ausschuss und den Namen der für das Bundesministerium des Innern und für Heimat teilnehmenden Person mit. Zu den Sitzungen des Bundesausschusses ist das Bundesministerium des Innern und für Heimat stets als Gast einzuladen.
+
+# § 8 – Ermächtigung zum Erlass von Verwaltungsvorschriften
+
+Zu näheren Einzelheiten der Anwendung und Durchführung dieser Verordnung erlässt das Technische Hilfswerk Verwaltungsvorschriften, die der Zustimmung des Bundesministeriums des Innern und für Heimat bedürfen.
