@@ -21,7 +21,11 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (2) Stellt die Registerbehörde fest, daß im allgemeinen Datenbestand des Registers Datensätze verschiedener Personen übereinstimmende oder nur geringfügig voneinander abweichende Grundpersonalien enthalten, speichert sie einen Hinweis auf die Personenverschiedenheit.
 
-(3) Stellt die Registerbehörde im allgemeinen Datenbestand des Registers einen Datensatz fest, bei dem weder eine Ausländerbehörde noch das Bundesamt für Migration und Flüchtlinge aktenführende Behörde ist, wird nach sechs Monaten automatisiert die Meldung „Fortzug nach unbekannt“ gespeichert.
+(3) Die Registerbehörde speichert im allgemeinen Datenbestand des Registers nach sechs Monaten automatisiert die Meldung „Fortzug nach unbekannt“, wenn der Ausländer eingereist ist und
+
+1. weder eine Ausländerbehörde, eine Aufnahmeeinrichtung noch das Bundesamt für Migration und Flüchtlinge aktenführende Behörde ist oder
+
+2. ein Asylgesuch geäußert hat, unerlaubt eingereist ist oder sich unerlaubt im Geltungsbereich dieses Gesetzes aufhält und nach Speicherung eines dieser Sachverhalte keine Angaben zum Zuzug oder Fortzug gespeichert wurden.
 
 (4) Die Registerbehörde ersetzt die seit dem 5. Februar 2016 nach § 3 Absatz 3 Nummer 3 gespeicherten Daten zur Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes rückwirkend durch Daten zur Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes, welche ihr von der zuständigen Organisationseinheit des Bundesamtes für Migration und Flüchtlinge in einem automatisierten Verfahren übermittelt werden. Für die Richtigkeit der übermittelten Daten ist die beteiligte Organisationseinheit des Bundesamtes für Migration und Flüchtlinge verantwortlich.
 
@@ -388,8 +392,6 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
  
 
  
-
- \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
  
 
