@@ -229,7 +229,7 @@ für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die 
 
 2. für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und f und Nr. 2 genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers von einer nicht zuständigen Behörde vorgenommen werden.
 
-(3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 21 Euro, die Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 13 Euro und die Gebühren nach Absatz 1 Nummer 2 um 12 Euro anzuheben.
+(3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 44 Euro und die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 (4) Gebühren sind nicht zu erheben
 
@@ -1224,7 +1224,8 @@ Aufkleber Personaldaten
 
 # Anlage 8
 
-(Fundstelle: BGBl. I 2007, 2453 - 2455)
+(Fundstelle: BGBl. I 2007, 2453 - 2455;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 9
 

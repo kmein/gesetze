@@ -102,7 +102,6 @@
 - [AGGrenzg NL](laws/AGGrenzg_NL.md) Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
 - [AGMahnVordrV](laws/AGMahnVordrV.md) Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
 - [AGMahnVordrVÄndV](laws/AGMahnVordrVÄndV.md) Verordnung zur Änderung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
-- [AgNwV](laws/AgNwV.md) Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
 - [AGOZV](laws/AGOZV.md) Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten*
 - [AGR](laws/AGR.md) Europäisches Übereinkommen über die Hauptstraßen des internationalen Verkehrs
 - [AgrarAbsFDG](laws/AgrarAbsFDG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für Agrarerzeugnisse
