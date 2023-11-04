@@ -102,6 +102,7 @@
 - [AGGrenzg NL](laws/AGGrenzg_NL.md) Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
 - [AGMahnVordrV](laws/AGMahnVordrV.md) Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
 - [AGMahnVordrVÄndV](laws/AGMahnVordrVÄndV.md) Verordnung zur Änderung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
+- [AgNwV](laws/AgNwV.md) Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
 - [AGOZV](laws/AGOZV.md) Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten*
 - [AGR](laws/AGR.md) Europäisches Übereinkommen über die Hauptstraßen des internationalen Verkehrs
 - [AgrarAbsFDG](laws/AgrarAbsFDG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für Agrarerzeugnisse
@@ -5760,6 +5761,7 @@
 - [UmwStG](laws/UmwStG.md) Umwandlungssteuergesetz
 - [UmwStG 2006](laws/UmwStG_2006.md) Umwandlungssteuergesetz
 - [UmwStG2006§27Abs15V](laws/UmwStG2006§27Abs15V.md) Verordnung zu § 27 Absatz 15 des Umwandlungssteuergesetzes
+- [UNAIDSBüroVbgV](laws/UNAIDSBüroVbgV.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) über die Errichtung eines Büros des Gemeinsamen Programms der Vereinten Nationen für HIV/Aids (UNAIDS) in Bonn
 - [UnbBeschErtV](laws/UnbBeschErtV.md) Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung
 - [UnBefG 1979](laws/UnBefG_1979.md) Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
 - [UnbilligkeitsV](laws/UnbilligkeitsV.md) Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente
@@ -5777,6 +5779,7 @@
 - [UnivSchlichtV](laws/UnivSchlichtV.md) Verordnung zur Regelung der Organisation, des Verfahrens und der Beendigung der Beleihung oder der Beauftragung der Universalschlichtungsstelle des Bundes
 - [UNOImmÜbk](laws/UNOImmÜbk.md) Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen
 - [UNOImmÜbkG](laws/UNOImmÜbkG.md) Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen
+- [UNOPSBüroVbgV](laws/UNOPSBüroVbgV.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) über die Errichtung einer Zweigstelle des Büros der Vereinten Nationen für Projektdienstleistungen (UNOPS) in Bonn
 - [UNSekrSitzAbk](laws/UNSekrSitzAbk.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 - [UNSekrSitzAbkÄndProt](laws/UNSekrSitzAbkÄndProt.md) Protokoll zur Änderung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 - [UNSekrSitzAbkÄndProtG](laws/UNSekrSitzAbkÄndProtG.md) Gesetz zu dem Protokoll vom 7. Dezember 2005 zur Änderung des Abkommens vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
