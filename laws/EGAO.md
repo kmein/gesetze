@@ -209,6 +209,10 @@ Fristen, deren Lauf vor dem 1. Januar 1977 begonnen hat, werden nach den bisheri
 
 Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates den Zeitpunkt der Einführung des Identifikationsmerkmals nach § 139a Abs. 1 der Abgabenordnung. Die Festlegung der Zeitpunkte für die ausschließliche Verwendung des Identifikationsmerkmals im Bereich der Einfuhr- und Ausfuhrabgaben sowie der Verbrauchsteuern bedarf nicht der Zustimmung des Bundesrates.
 
+# § 5a – Identifikationsnummer
+
+§ 139b Absatz 8 der Abgabenordnung in der Fassung des Artikels 26 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist ab dem Tag anzuwenden, an dem das Bundesministerium des Innern und für Heimat nach Artikel 22 Satz 3 des Gesetzes vom 28. März 2021 (BGBl. I S. 591) im Bundesgesetzblatt bekannt gibt, dass die technischen Voraussetzungen für die Verarbeitung der Identifikationsnummer nach Artikel 3 des Gesetzes vom 28. März 2021 (BGBl. I S. 591) vorliegen. Für Identifikationsnummern nach § 139b der Abgabenordnung, die vom Bundeszentralamt für Steuern vor diesem Tag bereits zugeteilt wurden und für die durch die Meldebehörden vergebenen vorläufigen Bearbeitungsmerkmale wird das Datum nach § 139b Absatz 6 Satz 1 Nummer 11 der Abgabenordnung dem Bundeszentralamt für Steuern von den Meldebehörden im Rahmen einer Bestandsdatenlieferung einmalig mitgeteilt.
+
 # § 6 – Zahlungszeitpunkt bei Scheckzahlung
 
 § 224 Abs. 2 Nr. 1 der Abgabenordnung in der Fassung des Artikels 10 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt erstmals, wenn ein Scheck nach dem 31. Dezember 2006 bei der Finanzbehörde eingegangen ist.
