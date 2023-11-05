@@ -5658,7 +5658,11 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 13. Sterbetag,
 
-14. Tag des Ein- und Auszugs.
+14. Tag des Ein- und Auszugs,
+
+15. Staatsangehörigkeiten sowie
+
+16. Datum des letzten Verwaltungskontakts (Monat, Jahr).
 
 (3a) Außerdem speichert das Bundeszentralamt für Steuern zu natürlichen Personen die für sie nach Absatz 10 zuletzt übermittelte internationale Kontonummer (IBAN), bei ausländischen Kreditinstituten auch den internationalen Banken-Identifizierungsschlüssel (BIC).
 
@@ -5704,13 +5708,17 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 9. Tag des Ein- und Auszugs,
 
-10. Auskunftssperren nach dem Bundesmeldegesetz.
+10. Auskunftssperren nach dem Bundesmeldegesetz,
+
+11. Staatsangehörigkeiten sowie
+
+12. Datum des letzten Verwaltungskontakts (Monat, Jahr).
 
 Hierzu haben die Meldebehörden jedem in ihrem Zuständigkeitsbereich mit alleiniger Wohnung oder Hauptwohnung registrierten Einwohner ein Vorläufiges Bearbeitungsmerkmal zu vergeben. Dieses übermitteln sie zusammen mit den Daten nach Satz 1 an das Bundeszentralamt für Steuern. Das Bundeszentralamt für Steuern teilt der zuständigen Meldebehörde die dem Steuerpflichtigen zugeteilte Identifikationsnummer zur Speicherung im Melderegister unter Angabe des Vorläufigen Bearbeitungsmerkmals mit und löscht das Vorläufige Bearbeitungsmerkmal anschließend.
 
-(7) Die Meldebehörden haben im Falle der Speicherung einer Geburt im Melderegister sowie im Falle der Speicherung einer Person, für die bisher keine Identifikationsnummer zugeteilt worden ist, dem Bundeszentralamt für Steuern die Daten nach Absatz 6 Satz 1 zum Zwecke der Zuteilung der Identifikationsnummer zu übermitteln. Absatz 6 Satz 2 bis 5 gilt entsprechend. Wird im Melderegister eine Person gespeichert, der nach eigenen Angaben noch keine Identifikationsnummer zugeteilt worden ist, so können die Meldebehörden dies in einem maschinellen Verfahren beim Bundeszentralamt für Steuern überprüfen; dabei dürfen nur die Daten nach Absatz 3 verwendet werden. Stimmen die von der Meldebehörde übermittelten Daten mit den beim Bundeszentralamt für Steuern nach Absatz 3 gespeicherten Daten überein, teilt das Bundeszentralamt für Steuern der Meldebehörde die in Absatz 3 Nummer 1, 3, 5, 8 und 10 genannten Daten mit; andernfalls teilt es der Meldebehörde mit, dass keine Zuordnung möglich war.
+(7) Die Meldebehörden haben im Falle der Speicherung einer Geburt im Melderegister sowie im Falle der Speicherung einer Person, für die bisher keine Identifikationsnummer zugeteilt worden ist, dem Bundeszentralamt für Steuern die Daten nach Absatz 6 Satz 1 zum Zwecke der Zuteilung der Identifikationsnummer zu übermitteln. Absatz 6 Satz 2 bis 4 gilt entsprechend. Wird im Melderegister eine Person gespeichert, der nach eigenen Angaben noch keine Identifikationsnummer zugeteilt worden ist, so können die Meldebehörden dies in einem maschinellen Verfahren beim Bundeszentralamt für Steuern überprüfen; dabei dürfen nur die Daten nach Absatz 3 verwendet werden. Stimmen die von der Meldebehörde übermittelten Daten mit den beim Bundeszentralamt für Steuern nach Absatz 3 gespeicherten Daten überein, teilt das Bundeszentralamt für Steuern der Meldebehörde die in Absatz 3 Nummer 1, 3, 5, 8 und 10 genannten Daten mit; andernfalls teilt es der Meldebehörde mit, dass keine Zuordnung möglich war.
 
-(8) Die Meldebehörde teilt dem Bundeszentralamt für Steuern Änderungen der in Absatz 6 Satz 1 Nr. 1 bis 10 bezeichneten Daten sowie bei Sterbefällen den Sterbetag unter Angabe der Identifikationsnummer oder, sofern diese noch nicht zugeteilt wurde, unter Angabe des Vorläufigen Bearbeitungsmerkmals mit.
+(8) Die Meldebehörde teilt dem Bundeszentralamt für Steuern Änderungen der in Absatz 6 Satz 1 Nummer 1 bis 12 bezeichneten Daten sowie bei Sterbefällen den Sterbetag unter Angabe der Identifikationsnummer oder, sofern diese noch nicht zugeteilt wurde, unter Angabe des Vorläufigen Bearbeitungsmerkmals mit. Die Mitteilungspflicht der Registermodernisierungsbehörde gegenüber dem Bundeszentralamt für Steuern nach § 4 Absatz 4 des Identifikationsnummerngesetzes bleibt unberührt.
 
 (9) Das Bundeszentralamt für Steuern unterrichtet die Meldebehörden, wenn ihm konkrete Anhaltspunkte für die Unrichtigkeit der ihm von den Meldebehörden übermittelten Daten vorliegen.
 
@@ -5729,6 +5737,8 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 (12) Das Bundeszentralamt für Steuern stellt den für ein Verfahren im Sinne des Absatzes 4c zuständigen Stellen die in Absatz 3 Nummer 1, 3, 5, 8, 10, 12 und 13 sowie Absatz 3a genannten Daten zum automationsgestützten Abgleich oder zum Abruf durch Datenfernübertragung zur Verfügung.
 
 (13) Eine Datenübermittlung an das Bundeszentralamt für Steuern nach Absatz 10 Satz 1 ist erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt zulässig. Die nach Absatz 10 Satz 2 mitteilungspflichtigen Stellen haben die von ihnen mitzuteilenden Daten erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt an das Bundeszentralamt für Steuern zu übermitteln. Wird Kindergeld erstmals nach dem vom Bundesministerium der Finanzen nach Satz 2 bestimmten Zeitpunkt ausgezahlt, gilt Satz 2 entsprechend.
+
+(+++ § 139b Abs. 8: Zur Anwendung vgl. Art. 97 § 5a AOEG 1977 +++)
 
 # § 139c – Wirtschafts-Identifikationsnummer
 
