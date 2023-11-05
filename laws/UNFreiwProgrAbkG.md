@@ -21,6 +21,14 @@ Dem in New York am 10. November 1995 unterzeichneten Abkommen zwischen der Bunde
 
 (2) Die Befreiung der in Artikel 24 Abs. 2 des Abkommens genannten Personen von den Gesetzen der Bundesrepublik Deutschland über Pflichtmitgliedschaft und Pflichtbeiträge in bezug auf die Systeme der Sozialen Sicherheit der Bundesrepublik Deutschland ist keine Regelung im Sinne der deutschen Rechtsvorschriften, die die Anrechnung von Kindererziehungszeiten und Berücksichtigungszeiten ausschließt.
 
+(+++ Art. 3: Gilt entsprechend für Bedienstete des Sekretariats des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen beziehungsweise deren Familienangehörige gemäß Artikel 24 Abs. 2 des entsprechend anzuwendenden Abkommens über den Sitz des Freiwilligenprogramms der Vereinten Nationen, vgl. Art. 3 G v. 27.5.1997 II 1054 +++)  
+(+++ Art. 3: Gilt entsprechend für Bedienstete des Informationszentrums der Vereinten Nationen in Bonn beziehungsweise deren Familienangehörige gemäß Artikel 24 Abs. 2 des entsprechend anzuwendenden Abkommens über den Sitz des Freiwilligenprogramms der Vereinten Nationen, vgl. Art. 2 V v. 24.4.1998 II 761 +++)  
+(+++ Art. 3: Gilt entsprechend für Bedienstete des Sekretariats des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung beziehungsweise deren Familienangehörige gemäß Artikel 24 Abs. 2 des entsprechend anzuwendenden Abkommens über den Sitz des Freiwilligenprogramms der Vereinten Nationen, vgl. Art. 2 V v. 13.10.1998 II 2694 +++)  
+(+++ Art. 3: Gilt entsprechend für UNHCR-Bedienstete und die Familienangehörigen im Sinne des Artikels 24 Abs. 2 des Abkommens über den Sitz des Freiwilligenprogramms der Vereinten Nationen, vgl. Art. 2 V v. 22.2.2007 II 218 +++)  
+(+++ Art. 3: Gilt entsprechend für Bedienstete des Welternährungsprogramms der Vereinten Nationen und Familienangehörige im Sinne des Artikels 24 Absatz 2 des Abkommens über den Sitz des Freiwilligenprogramms der Vereinten Nationen, vgl. Art. 2 V v. 7.3.2013 II 294; 2014 II 89 +++)  
+(+++ Art. 3: Zur Anwendung in vollem Umfang für das Büro von UNAIDS in Bonn vgl. Art. 2 V v. 25.5.2023 II Nr. 145 +++)  
+(+++ Art. 3: Zur Anwendung in vollem Umfang für die Zweigstelle von UNOPS in Bonn vgl. Art. 2 V v. 19.10.2023 II Nr. 299 +++)
+
 # Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
