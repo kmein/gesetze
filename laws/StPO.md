@@ -4709,6 +4709,8 @@ Die Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen Verfahren
 
 5. wenn neue Tatsachen oder Beweismittel beigebracht werden, die allein oder in Verbindung mit früher erhobenen Beweisen dringende Gründe dafür bilden, dass der freigesprochene Angeklagte wegen Mordes (§ 211 des Strafgesetzbuches), Völkermordes (§ 6 Absatz 1 des Völkerstrafgesetzbuches), des Verbrechens gegen die Menschlichkeit (§ 7 Absatz 1 Nummer 1 und 2 des Völkerstrafgesetzbuches) oder Kriegsverbrechens gegen eine Person (§ 8 Absatz 1 Nummer 1 des Völkerstrafgesetzbuches) verurteilt wird.
 
+§ 362 Nr. 5 idF d. G v. 21.12.2021 I 5252: Nach Maßgabe der Entscheidungsformel mit Art. 103 Abs. 3 GG, auch iVm Art. 20 Abs. 3 GG, unvereinbar und nichtig gem. Nr. 1 BVerfGE v. 31.10.2023 - 2 BvR 900/22 -
+
 # § 363 – Unzulässigkeit
 
 (1) Eine Wiederaufnahme des Verfahrens zu dem Zweck, eine andere Strafbemessung auf Grund desselben Strafgesetzes herbeizuführen, ist nicht zulässig.

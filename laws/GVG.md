@@ -1024,9 +1024,9 @@ f) aus den Rechtsverhältnissen des Seerechts, insbesondere aus denen, die sich 
 
 (2) Handelssachen im Sinne dieses Gesetzes sind ferner
 
-1. die Rechtsstreitigkeiten, in denen sich die Zuständigkeit des Landgerichts nach § 246 Abs. 3 Satz 1, § 396 Abs. 1 Satz 2 des Aktiengesetzes, § 51 Abs. 3 Satz 3 oder nach § 81 Abs. 1 Satz 2 des Genossenschaftsgesetzes, § 87 des Gesetzes gegen Wettbewerbsbeschränkungen, es sei denn, es handelt sich um kartellrechtliche Auskunfts- oder Schadensersatzansprüche, und § 13 Abs. 4 des EU-Verbraucherschutzdurchführungsgesetzes richtet,
+1. die Rechtsstreitigkeiten, in denen sich die Zuständigkeit des Landgerichts nach § 246 Absatz 3 Satz 1, § 396 Absatz 1 Satz 2 des Aktiengesetzes, § 51 Absatz 3 Satz 3 oder § 81 Absatz 1 Satz 2 des Genossenschaftsgesetzes oder nach § 87 des Gesetzes gegen Wettbewerbsbeschränkungen, es sei denn, es handelt sich um kartellrechtliche Auskunfts- oder Schadensersatzansprüche oder um Auskunfts- und Schadensersatzansprüche wegen eines Verstoßes gegen die Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 des Europäischen Parlaments und des Rates vom 14. September 2022 über bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU) 2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte) (ABl. L 265 vom 12.10.2022, S. 1), und § 13 Absatz 4 des EU-Verbraucherschutzdurchführungsgesetzes richtet,
 
-2. die in § 71 Abs. 2 Nr. 4 Buchstabe b bis f genannten Verfahren.
+2. die in § 71 Absatz 2 Nummer 4 Buchstabe b bis f genannten Verfahren.
 
 # § 96
 
