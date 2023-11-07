@@ -4365,7 +4365,7 @@ Von den Vorschriften dieses Titels darf nicht zum Nachteil des Verbrauchers abge
 
 3. bei denen der Darlehensnehmer das Darlehen binnen drei Monaten zurückzuzahlen hat und nur geringe Kosten vereinbart sind,
 
-4. die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum Arbeitsvertrag zu einem niedrigeren als dem marktüblichen effektiven Jahreszins (§ 6 der Preisangabenverordnung) abgeschlossen werden und anderen Personen nicht angeboten werden,
+4. die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum Arbeitsvertrag zu einem niedrigeren als dem marktüblichen effektiven Jahreszins (§ 16 der Preisangabenverordnung) abgeschlossen werden und anderen Personen nicht angeboten werden,
 
 5. die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden, wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart sind,
 

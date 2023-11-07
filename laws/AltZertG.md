@@ -163,7 +163,7 @@ Von Satz 1 bleiben unberührt
 
 1. gesetzliche Schadenersatzansprüche,
 
-2. bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 die Kosten und die Gebühren nach § 6 Absatz 4 der Preisangabenverordnung sowie
+2. bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 die Kosten und die Gebühren nach § 16 Absatz 4 der Preisangabenverordnung sowie
 
 3. Steuern, die der Anbieter für den Anleger einzubehalten und abzuführen hat.
 
@@ -245,7 +245,7 @@ Zum Schutz der Verbraucher, insbesondere zur besseren Vergleichbarkeit der Produ
 
 7. die auf Wahrscheinlichkeitsrechnungen beruhende Einordnung in Chancen-Risiko-Klassen;
 
-8. bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die die Angabe des Nettodarlehensbetrags, der Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Nettodarlehensbetrags nach § 6 Absatz 1 der Preisangabenverordnung, und des Gesamtdarlehensbetrags;
+8. bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die die Angabe des Nettodarlehensbetrags, der Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Nettodarlehensbetrags nach § 16 Absatz 1 der Preisangabenverordnung, und des Gesamtdarlehensbetrags;
 
 9. eine Aufstellung der Kosten nach § 2a Satz 1 Nummer 1 Buchstabe a bis f sowie § 2a Satz 1 Nummer 2 Buchstabe a bis c, getrennt für jeden Gliederungspunkt; soweit die Angaben zu § 2a Satz 1 Nummer 1 Buchstabe f noch nicht feststehen, muss ein Hinweis hierauf erfolgen. Auf Kosten nach § 2a Satz 2, die vertragstypisch sind, muss hingewiesen werden. Kosten nach § 2a Satz 1, die im individuellen Produktinformationsblatt nicht ausgewiesen sind oder auf die nicht hingewiesen wurde, sind vom Vertragspartner nicht geschuldet;
 

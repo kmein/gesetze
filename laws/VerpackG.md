@@ -956,7 +956,7 @@ Die Ausnahme nach Satz 1 Nummer 7 gilt nicht, wenn die in Satz 1 Nummer 7 Buchst
 
 (4) Die nach den Absätzen 1 bis 3 vorgeschriebenen Hinweise müssen in Gestalt und Schriftgröße mindestens der Preisauszeichnung für das jeweilige Produkt entsprechen.
 
-(5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2394) geändert worden ist, in der jeweils geltenden Fassung bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
+(5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 4 Absatz 3 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 12. November 2021 (BGBl. I S. 4921), die zuletzt durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2394) geändert worden ist, in der jeweils geltenden Fassung bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
 
 # § 33 – Mehrwegalternative für Einwegkunststofflebensmittelverpackungen und Einweggetränkebecher
 
