@@ -175,13 +175,15 @@ d) in einen Einfuhrstaat, wenn solche gefährlichen Abfälle oder andere Abfäll
 
 # § 5 – Risikoanalyse
 
-(1) Im Rahmen des Risikomanagements hat das Unternehmen eine angemessene Risikoanalyse nach den Abätzen 2 bis 4 durchzuführen, um die menschenrechtlichen und umweltbezogenen Risiken im eigenen Geschäftsbereich sowie bei seinen unmittelbaren Zulieferern zu ermitteln. In Fällen, in denen ein Unternehmen eine missbräuchliche Gestaltung der unmittelbaren Zuliefererbeziehung oder ein Umgehungsgeschäft vorgenommen hat, um die Anforderungen an die Sorgfaltspflichten in Hinblick auf den unmittelbaren Zulieferer zu umgehen, gilt ein mittelbarer Zulieferer als unmittelbarer Zulieferer.
+(1) Im Rahmen des Risikomanagements hat das Unternehmen eine angemessene Risikoanalyse nach den Absätzen 2 bis 4 durchzuführen, um die menschenrechtlichen und umweltbezogenen Risiken im eigenen Geschäftsbereich sowie bei seinen unmittelbaren Zulieferern zu ermitteln. In Fällen, in denen ein Unternehmen eine missbräuchliche Gestaltung der unmittelbaren Zuliefererbeziehung oder ein Umgehungsgeschäft vorgenommen hat, um die Anforderungen an die Sorgfaltspflichten in Hinblick auf den unmittelbaren Zulieferer zu umgehen, gilt ein mittelbarer Zulieferer als unmittelbarer Zulieferer.
 
 (2) Die ermittelten menschenrechtlichen und umweltbezogenen Risiken sind angemessen zu gewichten und zu priorisieren. Dabei sind insbesondere die in § 3 Absatz 2 genannten Kriterien maßgeblich.
 
 (3) Das Unternehmen muss dafür Sorge tragen, dass die Ergebnisse der Risikoanalyse intern an die maßgeblichen Entscheidungsträger, etwa an den Vorstand oder an die Einkaufsabteilung, kommuniziert werden.
 
 (4) Die Risikoanalyse ist einmal im Jahr sowie anlassbezogen durchzuführen, wenn das Unternehmen mit einer wesentlich veränderten oder wesentlich erweiterten Risikolage in der Lieferkette rechnen muss, etwa durch die Einführung neuer Produkte, Projekte oder eines neuen Geschäftsfeldes. Erkenntnisse aus der Bearbeitung von Hinweisen nach § 8 Absatz 1 sind zu berücksichtigen.
+
+§ 5 Abs. 1 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird das Wort "Abätzen" durch das Wort "Absätzen" ersetzt
 
 # § 6 – Präventionsmaßnahmen
 
