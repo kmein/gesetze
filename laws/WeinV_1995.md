@@ -445,9 +445,7 @@ festgelegt werden.
 
 (3) (weggefallen)
 
-# § 9
-
-(weggefallen)
+# § 9 – (weggefallen)
 
 # § 10 – Hektarertragsregelung(zu § 12 Absatz 1 Nummer 1, 2 und 5 und Absatz 2 und § 33 Nummer 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
