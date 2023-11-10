@@ -1396,11 +1396,13 @@ Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1 des Auf
 
 3. des Verlustes des Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes,
 
-4. des Verlustes der technischen Funktionsfähigkeit des Chips oder
+4. des Verlustes der technischen Funktionsfähigkeit des Chip oder
 
 5. der Beantragung nach § 105b Satz 2 des Aufenthaltsgesetzes.
 
 (2) Die Gebühr nach Absatz 1 Nummer 4 entfällt, wenn der Ausländer den Defekt nicht durch einen unsachgemäßen Gebrauch oder eine unsachgemäße Verwendung herbeigeführt hat.
+
+§ 45c Abs. 1 Nr. 4: IdF d. Art. 1 Nr. 8 Buchst. c V v. 27.2.2013 I 351 mWv 5.3.2013 u. d. Art. 3 Nr. 14 Buchst. c V v. 30.10.2023 I Nr. 290 mWv 1.11.2023 (Kursivdruck: Müsste richtig "Chips" lauten)
 
 # § 46 – Gebühren für das Visum
 
@@ -1915,7 +1917,9 @@ Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 
 
 1. der für den Wohnort, ersatzweise der für den Aufenthaltsort im Inland zuständigen Ausländerbehörde oder einer anderen nach Landesrecht zuständigen Stelle den Verlust und das Wiederauffinden des Dokuments anzuzeigen und das Dokument vorzulegen, wenn es wiederaufgefunden wurde; bei Verlust im Ausland können die Anzeige und die Vorlage auch gegenüber einer deutschen Auslandsvertretung erfolgen, welche die zuständige oder zuletzt zuständige Ausländerbehörde unterrichtet,
 
-2. nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
+2. nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chip der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
+
+§ 57a Nr. 2: IdF d. Art. 3 Nr. 9 Buchst. b V v. 30.10.2023 I Nr. 290 mWv 1.11.2023 (Kursivdruck: Müsste richtig "Chips" lauten)
 
 # § 58 – Vordruckmuster
 
@@ -3592,7 +3596,8 @@ Vermerke, insbesondere zu Nebenbestimmungen, die mangels vorhandenen Raums für 
 
 # Anlage D11a – Zusatzblatt zum Aufenthaltstitel mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-(Fundstelle: BGBl. I 2011, 1538 - 1539)
+(Fundstelle: BGBl. I 2011, 1538 - 1539;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0030.jpg)
 
@@ -3646,7 +3651,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage D14a – Dokumente mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-(Fundstelle: BGBl. I 2021, 3694 - 3703)
+(Fundstelle: BGBl. I 2021, 3694 - 3703;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Vorderseite –
 

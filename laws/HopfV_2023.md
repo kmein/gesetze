@@ -91,7 +91,7 @@ Der Höchstbetrag der Beihilfe der Union wird entsprechend Artikel 62 Absatz 1 d
 
 (1) Der Betriebsfonds ist über eine Finanzbuchhaltung zu verwalten, die es ermöglicht, alle Ausgaben und Einnahmen im Rahmen des Betriebsfonds zu erkennen. Werden aus dem Betriebsfonds ein oder mehrere operationelle Programme oder Teilprogramme finanziert, müssen die jeweiligen finanziellen Beteiligungen für jedes operationelle Programm oder Teilprogramm getrennt ausgewiesen werden.
 
-(2) Die Finanzbuchhaltung ist jährlich von einer Einrichtung, die für die Prüfung von Jahresabschlüssen gesetzlich zugelassen ist, zu prüfen und zu bestätigen. Die Bestätigung muss die Angabe enthalten, dass die Finanzbuchhaltung den Bestimmungen des Absatzes 1 genügt. Der schriftliche Bericht über die Prüfung und die Bestätigung der Prüfungseinrichtung ist der Bundesanstalt unverzüglich nach Abschluss der Prüfung vorzulegen.
+(2) Die Finanzbuchhaltung ist jährlich von einer Einrichtung, die für die Prüfung von Jahresabschlüssen gesetzlich zugelassen ist, zu prüfen und zu bestätigen. Die Bestätigung muss die Angabe enthalten, dass die Finanzbuchhaltung den Bestimmungen des Absatzes 1 genügt. Der schriftliche Bericht über die Prüfung und die Bestätigung der Prüfungseinrichtung ist der Bundesanstalt unverzüglich nach Abschluss der Prüfung, spätestens aber mit dem Beihilfeantrag, vorzulegen.
 
 # § 5 – Beantragung eines operationellen Programms
 
@@ -137,7 +137,7 @@ b) der Delegierten Verordnung (EU) 2022/126 und der vorliegenden Verordnung und
 
 (1) Ein operationelles Programm ist in Jahrestranchen durchzuführen, die jeweils ein Kalenderjahr umfassen.
 
-(2) Die Durchführung eines bis zum 30. Juni genehmigten operationellen Programms beginnt rückwirkend am 1. Januar des laufenden Jahres.
+(2) Die Durchführung eines bis zum 31. Juli genehmigten operationellen Programms beginnt rückwirkend am 1. Januar des laufenden Jahres.
 
 # § 8 – Änderung eines operationellen Programms
 
@@ -169,7 +169,7 @@ b) der Delegierten Verordnung (EU) 2022/126 und der vorliegenden Verordnung und
 
 4. eine schriftliche oder elektronische Zusicherung der Erzeugerorganisation, dass sie keine Unions- oder nationale Doppelfinanzierung für Maßnahmen oder Vorgänge erhalten hat, die im Rahmen der Verordnung (EU) 2021/2115 in der jeweils geltenden Fassung, für eine Beihilfe im Hopfensektor in Betracht kommen, und
 
-5. den jährlichen Leistungsbericht.
+5. die für den Leistungsbericht nach Artikel 134 der Verordnung (EU) 2021/2115 erforderlichen Angaben.
 
 (4) Der Beihilfeantrag kann sich auf geplante, jedoch nicht getätigte Ausgaben beziehen.
 
@@ -181,7 +181,7 @@ b) der Delegierten Verordnung (EU) 2022/126 und der vorliegenden Verordnung und
 
 Die Bundesanstalt hat die Entscheidung über den Antrag nach Satz 1 mit der Auflage zu versehen, dass das genehmigte operationelle Programm, das zu diesem Zeitpunkt noch nicht genehmigt sein muss, diese Investition zu enthalten hat.
 
-§ 9 Abs. 3 Nummer 1 Kursivdruck: Wegen offesichtlicher Unrichtigkeit wird die Angabe "GAP-InVeKoS-Verordnung" durch die amtliche Kurzbezeichnung "GAPInVeKoS-Verordnung" ersetzt
+§ 9 Abs. 3 Nr. 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird die Angabe "GAP-InVeKoS-Verordnung" durch die zutreffende amtliche Kurzbezeichnung "GAPInVeKoS-Verordnung" ersetzt
 
 # § 10 – Gewährung und Zahlung einer Beihilfe
 
