@@ -49,7 +49,7 @@ Erzeugnisse aus Versuchsanbau
 
 § 8
 
-Umstrukturierung und Umstellung
+(weggefallen)
 
 § 9
 
@@ -427,23 +427,7 @@ zu erbringen.
 
 # §§ 7 bis 7a – (weggefallen)
 
-# § 8 – Umstrukturierung und Umstellung(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
-
-(1) Die Landesregierungen erlassen durch Rechtsverordnung unter Beachtung der maßgeblichen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union die Vorschriften über die Voraussetzungen und das Verfahren für die Umstrukturierung und Umstellung von Rebflächen.
-
-(2) Die in der Rechtsverordnung nach Absatz 1 festzulegende
-
-1. Mindestparzellengröße, für die eine Umstrukturierungsbeihilfe gewährt werden kann, darf ein Ar und die
-
-2. Mindestparzellengröße, die sich aus der Umstrukturierung und Umstellung ergeben muss, darf 20 Ar nicht unterschreiten. Um der besonderen Weinbaustruktur in bestimmten Anbaugebieten oder Teilen von diesen Rechnung zu tragen, darf abweichend von Satz 1 Nummer 2 die Mindestparzellengröße
-
-a) in den Ländern Baden-Württemberg, Brandenburg, Sachsen, Sachsen-Anhalt und Thüringen auf drei Ar und
-
-b) in den übrigen Ländern auf fünf Ar
-
-festgelegt werden.
-
-(3) (weggefallen)
+# § 8 – (weggefallen)
 
 # § 9 – (weggefallen)
 
