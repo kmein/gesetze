@@ -837,7 +837,7 @@ Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
 
  
 
-Ermächtigung
+Verordnungsermächtigung
 
 § 57c
 
@@ -1983,7 +1983,7 @@ Unterwasserkabel und Transit-Rohrleitungen
 
  
 
-Gebühren- und Auslagenermächtigung
+(weggefallen)
 
 § 135
 

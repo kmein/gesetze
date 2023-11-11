@@ -3978,6 +3978,7 @@
 - [Münz20EuroBek 2023-03-30/1](laws/Münz20EuroBek_2023-03-30_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Hans im Glück“)
 - [Münz20EuroBek 2023-03-30/2](laws/Münz20EuroBek_2023-03-30_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Bertolt Brecht“)
 - [Münz20EuroBek 2023-08-11](laws/Münz20EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Steinbock“ der Serie „Rückkehr der Wildtiere“)
+- [Münz20EuroBek 2023-10-06](laws/Münz20EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „400 Jahre Rechenmaschine von Wilhelm Schickard“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
@@ -4025,6 +4026,7 @@
 - [Münz50EuroBek 2020-08-20](laws/Münz50EuroBek_2020-08-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Orchesterhorn“)
 - [Münz50EuroBek 2021-06-21](laws/Münz50EuroBek_2021-06-21.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Pauke“)
 - [Münz50EuroBek 2022-09-12](laws/Münz50EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Konzertgitarre“)
+- [Münz50EuroBek 2023-10-06](laws/Münz50EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Ernährung“)
 - [Münz50PfBek 1949](laws/Münz50PfBek_1949.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 50 Pfennig
 - [Münz50PfBek 1950](laws/Münz50PfBek_1950.md) Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
 - [Münz50PfBek 1972](laws/Münz50PfBek_1972.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
@@ -4081,6 +4083,7 @@
 - [Münz5EuroBek 2022-11-17](laws/Münz5EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Insektenreich“)
 - [Münz5EuroBek 2023-08-11/1](laws/Münz5EuroBek_2023-08-11_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Siebenpunkt-Marienkäfer“)
 - [Münz5EuroBek 2023-08-11/2](laws/Münz5EuroBek_2023-08-11_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Schwalbenschwanz“)
+- [Münz5EuroBek 2023-10-06](laws/Münz5EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Rostrote Mauerbiene“)
 - [MünzG](laws/MünzG.md) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
@@ -6139,6 +6142,7 @@
 - [WEG](laws/WEG.md) Gesetz über das Wohnungseigentum und das Dauerwohnrecht
 - [WeinAlkoAbsV](laws/WeinAlkoAbsV.md) Verordnung über den Absatz von Weinalkohol aus Beständen der Interventionsstellen
 - [WeinASachV](laws/WeinASachV.md) Verordnung über den Sachverständigenausschuss bei der Bundesanstalt für Landwirtschaft und Ernährung zur Bewertung beabsichtigter Informationen über die Auswirkungen des Weinkonsums auf die Gesundheit und das Verhalten
+- [WeinFöGewV](laws/WeinFöGewV.md) Verordnung über die Gewährung von Förderungen für Maßnahmen im Sektor Wein
 - [WeinfondsV](laws/WeinfondsV.md) Verordnung über die Erhebung der Abgabe für den Deutschen Weinfonds
 - [WeinG 1994](laws/WeinG_1994.md) Weingesetz
 - [WeinkMstrV](laws/WeinkMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Weinküfer-Handwerk
@@ -6147,7 +6151,6 @@
 - [WeinÜV 1995](laws/WeinÜV_1995.md) Wein-Überwachungsverordnung
 - [WeinV](laws/WeinV.md) Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften
 - [WeinV 1995](laws/WeinV_1995.md) Weinverordnung
-- [WeinVergV](laws/WeinVergV.md) Verordnung über die Gewährung von Vergünstigungen für Wein
 - [WeißzuckerBhV](laws/WeißzuckerBhV.md) Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker
 - [WeizenratVorRV](laws/WeizenratVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an den Internationalen Weizenrat nach dem Weizenhandels-Übereinkommen von 1971
 - [WerkeRegV](laws/WerkeRegV.md) Verordnung über das Register anonymer und pseudonymer Werke
