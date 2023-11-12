@@ -175,6 +175,7 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (+++ Hinweis: Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2020 aus Bek. v. 1.10.2019 I 1429  
 Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2022 aus Bek. v. 12.10.2021 I 4678  
+Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2023 aus Bek. v. 21.12.2022 I 2601  
 Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2024 aus Bek. v. 19.10.2023 I Nr. 288 +++)
 
 # § 4 – Leistungen bei Krankheit, Schwangerschaft und Geburt
