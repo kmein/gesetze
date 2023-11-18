@@ -164,6 +164,10 @@ Befreiung in Rettungsfällen
 
 Befreiung für die Durchreise und Durchbeförderung
 
+§ 30a
+
+Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883
+
   
 Abschnitt 3
 
@@ -224,7 +228,7 @@ Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehör
 
 § 38d
 
-Beirat für Forschungsmigration
+Beirat für Forschungsmigration und Fachkräfteeinwanderung
 
 § 38e
 
@@ -374,7 +378,11 @@ Muster der Aufenthaltstitel
 
 § 59a
 
-Hinweis auf Gewährung internationalen Schutzes
+Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU
+
+§ 59b
+
+Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU
 
 § 60
 
@@ -1002,6 +1010,20 @@ Für die Einreise in das Bundesgebiet aus einem anderen Schengen-Staat und einen
 
 2. auf Grund einer zwischenstaatlichen Vereinbarung oder mit Einwilligung des Bundesministeriums des Innern, für Bau und Heimat oder der von ihm beauftragten Stelle durch das Bundesgebiet durchbefördert werden; in diesem Fall gilt die Befreiung auch für die sie begleitenden Aufsichtspersonen.
 
+# § 30a – Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883
+
+Für die Einreise in das Bundesgebiet und einen anschließenden Aufenthalt von bis zu einem Monat sind Ausländer vom Erfordernis eines Aufenthaltstitels befreit, wenn
+
+1. sie Inhaber einer Blauen Karte EU nach § 18g des Aufenthaltsgesetzes waren,
+
+2. sie zu einem Zeitpunkt, als die Blaue Karte EU nach Nummer 1 noch gültig war, in einem anderen Mitgliedstaat der Europäischen Union nach Artikel 21 Absatz 3 der Richtlinie (EU) 2021/1883 des Europäischen Parlaments und des Rates vom 20. Oktober 2021 über die Bedingungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung einer hoch qualifizierten Beschäftigung und zur Aufhebung der Richtlinie 2009/50/EG des Rates (ABl. L 382 vom 28.10.2021, S. 1) einen Antrag auf Erteilung einer Blauen Karte EU gestellt haben, den dieser Mitgliedstaat abgelehnt hat,
+
+3. die Geltungsdauer der Blauen Karte EU nach Nummer 1 abgelaufen ist, während der Mitgliedstaat der Europäischen Union nach Nummer 2 den Antrag auf Erteilung einer Blauen Karte EU geprüft hat, und
+
+4. der Mitgliedstaat der Europäischen Union nach Nummer 2 bei den zuständigen Behörden der Bundesrepublik Deutschland ein Ersuchen auf Gestattung der Wiedereinreise des Ausländers in die Bundesrepublik Deutschland gestellt hat.
+
+Satz 1 gilt entsprechend für die Familienangehörigen des Ausländers, wenn diese über einen Aufenthaltstitel als Familienangehörige dieses Ausländers verfügen und der Aufenthaltstitel erteilt wurde, während die Geltungsdauer der Blauen Karte EU nach Satz 1 Nummer 1 noch nicht abgelaufen war.
+
 # § 31 – Zustimmung der Ausländerbehörde zur Visumerteilung
 
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
@@ -1014,7 +1036,7 @@ a) eine selbständige Tätigkeit ausüben will,
 
 b) eine Beschäftigung nach § 19c Absatz 3 des Aufenthaltsgesetzes ausüben will oder
 
-c) eine sonstige Beschäftigung ausüben will und wenn er sich entweder bereits zuvor auf der Grundlage einer Aufenthaltserlaubnis, die nicht der Saisonbeschäftigung diente, einer Blauen Karte EU, einer ICT-Karte, einer Mobiler-ICT-Karte, einer Niederlassungserlaubnis, einer Erlaubnis zum Daueraufenthalt-EG, einer Duldung oder einer Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen ihn aufenthaltsbeendende Maßnahmen erfolgt sind oder
+c) eine sonstige Beschäftigung ausüben will und wenn er sich entweder bereits zuvor auf der Grundlage einer Duldung oder einer Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen ihn aufenthaltsbeendende Maßnahmen erfolgt sind oder
 
 d) eine Beschäftigung gemäß § 14 Absatz 1a der Beschäftigungsverordnung ausüben will und dabei einen Fall des § 14 Absatz 1a Satz 2 der Beschäftigungsverordnung geltend macht, oder
 
@@ -1158,11 +1180,11 @@ Eine Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde
 
 Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 Nr. 2 innerhalb von zwei Monaten nach Eintritt der zur Mitteilung verpflichtenden Tatsachen gemacht werden. In der Mitteilung sind neben den mitzuteilenden Tatsachen und dem Zeitpunkt ihres Eintritts die Namen, Vornamen und Staatsangehörigkeiten des Ausländers anzugeben sowie die Aufnahmevereinbarung näher zu bezeichnen.
 
-# § 38d – Beirat für Forschungsmigration
+# § 38d – Beirat für Forschungsmigration und Fachkräfteeinwanderung
 
-(1) Beim Bundesamt für Migration und Flüchtlinge wird ein Beirat für Forschungsmigration gebildet, der es bei der Wahrnehmung seiner Aufgaben nach diesem Abschnitt unterstützt. Die Geschäftsstelle des Beirats für Forschungsmigration wird beim Bundesamt für Migration und Flüchtlinge eingerichtet.
+(1) Beim Bundesamt für Migration und Flüchtlinge wird ein Beirat für Forschungsmigration und Fachkräfteeinwanderung gebildet, der es bei der Wahrnehmung seiner Aufgaben nach diesem Abschnitt und bei der Fachkräfteeinwanderung unterstützt. Die Geschäftsstelle des Beirats für Forschungsmigration und Fachkräfteeinwanderung wird beim Bundesamt für Migration und Flüchtlinge eingerichtet.
 
-(2) Der Beirat für Forschungsmigration hat insbesondere die Aufgaben,
+(2) Der Beirat für Forschungsmigration und Fachkräfteeinwanderung hat insbesondere die Aufgaben,
 
 1. Empfehlungen für allgemeine Richtlinien zur Anerkennung von Forschungseinrichtungen abzugeben,
 
@@ -1170,13 +1192,15 @@ Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 
 
 3. festzustellen, ob ein Bedarf an ausländischen Forschern durch die Anwendung des in § 18d des Aufenthaltsgesetzes und in diesem Abschnitt geregelten Verfahrens angemessen gedeckt wird,
 
-4. im Zusammenhang mit dem in § 18d des Aufenthaltsgesetzes und in diesem Abschnitt geregelten Verfahren etwaige Fehlentwicklungen aufzuzeigen und dabei auch Missbrauchsphänomene oder verwaltungstechnische und sonstige mit Migrationsfragen zusammenhängende Hindernisse bei der Anwerbung von ausländischen Forschern darzustellen.
+4. im Zusammenhang mit dem in § 18d des Aufenthaltsgesetzes und in diesem Abschnitt geregelten Verfahren etwaige Fehlentwicklungen aufzuzeigen und dabei auch Missbrauchsphänomene oder verwaltungstechnische und sonstige mit Migrationsfragen zusammenhängende Hindernisse bei der Anwerbung von ausländischen Forschern darzustellen,
 
-(3) Der Beirat für Forschungsmigration berichtet dem Präsidenten des Bundesamtes für Migration und Flüchtlinge mindestens einmal im Kalenderjahr über die Erfüllung seiner Aufgaben.
+5. das Bundesamt für Migration und Flüchtlinge bei der Wahrnehmung seiner Aufgaben in der Fachkräfteeinwanderung zu beraten.
 
-(4) Die Mitglieder des Beirats für Forschungsmigration dürfen zur Erfüllung ihrer Aufgaben Einsicht in Verwaltungsvorgänge nehmen, die beim Bundesamt für Migration und Flüchtlinge geführt werden.
+(3) Der Beirat für Forschungsmigration und Fachkräfteeinwanderung berichtet dem Präsidenten des Bundesamtes für Migration und Flüchtlinge mindestens einmal im Kalenderjahr über die Erfüllung seiner Aufgaben.
 
-(5) Der Beirat hat neun Mitglieder. Der Präsident des Bundesamtes für Migration und Flüchtlinge beruft den Vorsitzenden und jeweils ein weiteres Mitglied des Beirats für Forschungsmigration auf Vorschlag
+(4) Die Mitglieder des Beirats für Forschungsmigration und Fachkräfteeinwanderung dürfen zur Erfüllung ihrer Aufgaben Einsicht in Verwaltungsvorgänge nehmen, die beim Bundesamt für Migration und Flüchtlinge geführt werden.
+
+(5) Der Beirat hat zwölf Mitglieder. Der Präsident des Bundesamtes für Migration und Flüchtlinge beruft den Vorsitzenden und jeweils ein weiteres Mitglied des Beirats für Forschungsmigration und Fachkräfteeinwanderung auf Vorschlag
 
 1. des Bundesministeriums für Bildung und Forschung oder einer von ihm bestimmten Stelle,
 
@@ -1192,13 +1216,19 @@ Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 
 
 7. des Deutschen Gewerkschaftsbundes und
 
-8. des Deutschen Industrie- und Handelskammertags.
+8. des Deutschen Industrie- und Handelskammertags,
 
-(6) Die Mitglieder des Beirats für Forschungsmigration werden für drei Jahre berufen.
+9. des Bundesministeriums für Arbeit und Soziales oder einer von ihm bestellten Stelle,
 
-(7) Die Tätigkeit im Beirat für Forschungsmigration ist ehrenamtlich. Den Mitgliedern werden Reisekosten entsprechend den Bestimmungen des Bundesreisekostengesetzes erstattet. Das Bundesamt für Migration und Flüchtlinge kann jedem Mitglied zudem Büromittelkosten in einer Höhe von jährlich nicht mehr als 200 Euro gegen Einzelnachweis erstatten.
+10. des Bundesministeriums für Wirtschaft und Klimaschutz oder einer von ihm bestellten Stelle,
 
-(8) Der Beirat für Forschungsmigration gibt sich eine Geschäftsordnung, die der Genehmigung des Präsidenten des Bundesamtes für Migration und Flüchtlinge bedarf.
+11. des Deutschen Akademischen Austauschdienstes.
+
+(6) Die Mitglieder des Beirats für Forschungsmigration und Fachkräfteeinwanderung werden für drei Jahre berufen.
+
+(7) Die Tätigkeit im Beirat für Forschungsmigration und Fachkräfteeinwanderung ist ehrenamtlich. Den Mitgliedern werden Reisekosten entsprechend den Bestimmungen des Bundesreisekostengesetzes erstattet. Das Bundesamt für Migration und Flüchtlinge kann jedem Mitglied zudem Büromittelkosten in einer Höhe von jährlich nicht mehr als 200 Euro gegen Einzelnachweis erstatten.
+
+(8) Der Beirat für Forschungsmigration und Fachkräfteeinwanderung gibt sich eine Geschäftsordnung, die der Genehmigung des Präsidenten des Bundesamtes für Migration und Flüchtlinge bedarf.
 
 # § 38e – Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge
 
@@ -1244,7 +1274,11 @@ Das Bundesamt für Migration und Flüchtlinge veröffentlicht im Internet eine a
 
 6. er einen von einem anderen Schengen-Staat ausgestellten Aufenthaltstitel besitzt und auf Grund dieses Aufenthaltstitels berechtigt ist, sich im Bundesgebiet aufzuhalten, sofern die Voraussetzungen eines Anspruchs auf Erteilung eines Aufenthaltstitels erfüllt sind; § 41 Abs. 3 findet Anwendung,
 
-7. er seit mindestens 18 Monaten eine Blaue Karte EU besitzt, die von einem anderen Mitgliedstaat der Europäischen Union ausgestellt wurde, und er für die Ausübung einer hochqualifizierten Beschäftigung eine Blaue Karte EU beantragt. Gleiches gilt für seine Familienangehörigen, die im Besitz eines Aufenthaltstitels zum Familiennachzug sind, der von demselben Staat ausgestellt wurde wie die Blaue Karte EU des Ausländers. Die Anträge auf die Blaue Karte EU sowie auf die Aufenthaltserlaubnisse zum Familiennachzug sind innerhalb eines Monats nach Einreise in das Bundesgebiet zu stellen,
+7. er seit mindestens zwölf Monaten eine Blaue Karte EU besitzt, die von einem anderen Mitgliedstaat der Europäischen Union ausgestellt wurde, und er für die Ausübung einer hochqualifizierten Beschäftigung eine Blaue Karte EU beantragt. Gleiches gilt für seine Familienangehörigen, die im Besitz eines Aufenthaltstitels zum Familiennachzug sind, der von demselben Staat ausgestellt wurde wie die Blaue Karte EU des Ausländers. Die Anträge auf die Blaue Karte EU sowie auf die Aufenthaltserlaubnisse zum Familiennachzug sind innerhalb eines Monats nach Einreise in das Bundesgebiet zu stellen,
+
+7a. er seit mindestens sechs Monaten eine Blaue Karte EU besitzt, die von einem anderen Mitgliedstaat der Europäischen Union ausgestellt wurde, wenn er unmittelbar vor der Erteilung dieser Blauen Karte EU Inhaber einen Blauen Karte EU war, die ein Mitgliedstaat der Europäischen Union ausgestellt hatte, der nicht derjenige Mitgliedstaat der Europäischen Union ist, der die Blaue Karte EU ausgestellt hat, die der Ausländer besitzt. Gleiches gilt für seine Familienangehörigen, die im Besitz eines Aufenthaltstitels zum Familiennachzug sind, der von demselben Staat ausgestellt wurde wie die Blaue Karte EU des Ausländers. Die Anträge auf die Blaue Karte EU sowie auf die Aufenthaltserlaubnisse zum Familiennachzug sind innerhalb eines Monats nach Einreise in das Bundesgebiet zu stellen,
+
+7b. die Voraussetzungen nach § 30a für die Wiedereinreise in das Bundesgebiet vorliegen. Die Anträge auf die Blaue Karte EU sowie auf die Aufenthaltserlaubnisse zum Familiennachzug sind innerhalb eines Monats nach Einreise in das Bundesgebiet zu stellen,
 
 8. er die Verlängerung einer ICT-Karte nach § 19 des Aufenthaltsgesetzes beantragt,
 
@@ -2011,7 +2045,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 3. in den Fällen des § 11 Absatz 11 in Verbindung mit § 3a des Freizügigkeitsgesetzes/EU „Der Inhaber besitzt ein Aufenthaltsrecht als Berechtigte(r) nach Artikel 3 Absatz 2 der Richtlinie 2004/38/EG in Verbindung mit Artikel 10 Absatz 2 bis 4 des Austrittsabkommens sowie § 3a in Verbindung mit § 11 Absatz 11 des Freizügigkeitsgesetzes/EU“.
 
-# § 59a – Hinweis auf Gewährung internationalen Schutzes
+# § 59a – Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU
 
 (1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: „Durch DEU am \[Datum\] internationaler Schutz gewährt“.
 
@@ -2020,6 +2054,14 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 (3) Ist ein Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes, die den Hinweis nach Absatz 2 Satz 1 enthält, und ist die Verantwortung für den internationalen Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes nach Maßgabe der einschlägigen Rechtsvorschriften auf Deutschland übergegangen, so ist der Hinweis durch den in Absatz 1 genannten Hinweis zu ersetzen. Die Aufnahme dieses Hinweises hat spätestens drei Monate nach Übergang der Verantwortung auf Deutschland zu erfolgen.
 
 (4) Ist der Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes und wird ihm in einem anderen Mitgliedstaat der Europäischen Union internationaler Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes gewährt, bevor er dort eine langfristige Aufenthaltsberechtigung – EU erhält, so ist durch die zuständige Ausländerbehörde in das Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt – EU folgender Hinweis aufzunehmen: „Durch \[Abkürzung des Mitgliedstaates\] am \[Datum\] internationaler Schutz gewährt“. Die Aufnahme dieses Hinweises hat spätestens drei Monate nachdem ein entsprechendes Ersuchen der zuständigen Stelle des anderen Mitgliedstaates beim Bundesamt für Migration und Flüchtlinge eingegangen ist zu erfolgen.
+
+# § 59b – Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU
+
+(1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Blaue Karte EU erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: „Durch DEU am \[Datum\] internationaler Schutz gewährt“. Wurde dem Ausländer der internationale Schutz durch eine bestands- oder rechtskräftige Entscheidung aberkannt und bestehen die Voraussetzungen für die Erteilung einer Blauen Karte EU fort, so ist die Blaue Karte EU ohne den Hinweis nach Satz 1 erneut auszustellen.
+
+(2) Wird einem Ausländer, dem ein anderer Mitgliedstaat der Europäischen Union Schutz gewährt, eine Blaue Karte EU erteilt, so ist in dem Feld für Anmerkungen der Blauen Karte EU folgender Hinweis aufzunehmen: „Durch \[Abkürzung des Mitgliedstaates\] am \[Datum\] internationaler Schutz gewährt“. Vor Aufnahme des Hinweises ist der betreffende Mitgliedstaat in dem Verfahren nach § 91f Absatz 8 des Aufenthaltsgesetzes um Auskunft darüber zu ersuchen, ob der Ausländer dort weiterhin internationalen Schutz genießt. Wurde der internationale Schutz in dem anderen Mitgliedstaat durch eine rechtskräftige Entscheidung aberkannt, wird der Hinweis nach Satz 1 nicht aufgenommen.
+
+(3) Ist ein Ausländer im Besitz einer Blauen Karte EU, die den Hinweis nach Absatz 2 Satz 1 enthält, und ist die Verantwortung für den internationalen Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes nach Maßgabe der einschlägigen Rechtsvorschriften auf die Bundesrepublik Deutschland übergegangen, so ist der Hinweis durch den in Absatz 1 Satz 1 genannten Hinweis zu ersetzen. Die Aufnahme dieses Hinweises hat spätestens drei Monate nach Übergang der Verantwortung auf die Bundesrepublik Deutschland zu erfolgen.
 
 # § 60 – Lichtbild
 

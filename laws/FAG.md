@@ -14,56 +14,16 @@
 (2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:  
   
 
-<table width="100%" style="border: none;"><colgroup><col style="width: 17%" /><col style="width: 28%" /><col style="width: 28%" /><col style="width: 28%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Kalender-<br />
-jahr</th><th style="text-align: left;">Bund</th><th style="text-align: left;">Länder</th><th style="text-align: left;">Gemeinden</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">2020</td><td style="text-align: left;">minus<br />
-20 533 717 472<br />
-Euro</td><td style="text-align: left;"><br />
-15 858 934 915<br />
-Euro</td><td style="text-align: left;"><br />
-4 674 782 557<br />
-Euro</td></tr><tr class="even"><td style="text-align: left;">2021</td><td style="text-align: left;">minus<br />
-17 142 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-12 988 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-4 154 000 000<br />
-Euro</td></tr><tr class="odd"><td style="text-align: left;">2022</td><td style="text-align: left;">minus<br />
-15 008 682 590<br />
-Euro</td><td style="text-align: left;"><br />
-12 608 682 590<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro</td></tr><tr class="even"><td style="text-align: left;">2023</td><td style="text-align: left;">minus<br />
-9 892 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-7 492 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro</td></tr><tr class="odd"><td style="text-align: left;">2024</td><td style="text-align: left;">minus<br />
-10 080 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-7 680 407 683 Euro<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro</td></tr><tr class="even"><td style="text-align: left;">2025</td><td style="text-align: left;">minus<br />
-9 705 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-7 305 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro</td></tr><tr class="odd"><td style="text-align: left;">2026</td><td style="text-align: left;">minus<br />
-9 705 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-7 305 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro</td></tr><tr class="even"><td style="text-align: left;">ab 2027</td><td style="text-align: left;">minus<br />
-9 517 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-7 117 407 683<br />
-Euro</td><td style="text-align: left;"><br />
-2 400 000 000<br />
-Euro.</td></tr></tbody></table>
+| Kalenderjahr |           Bund            |       Länder        |           Gemeinden |
+|:-------------|:-------------------------:|:-------------------:|--------------------:|
+| 2020         | minus 20 533 717 472 Euro | 15 858 934 915 Euro |  4 674 782 557 Euro |
+| 2021         | minus 17 142 407 683 Euro | 12 988 407 683 Euro |  4 154 000 000 Euro |
+| 2022         | minus 15 008 682 590 Euro | 12 608 682 590 Euro |  2 400 000 000 Euro |
+| 2023         | minus 13 792 407 683 Euro | 11 392 407 683 Euro |  2 400 000 000 Euro |
+| 2024         | minus 10 980 407 683 Euro |  8 580 407 683 Euro |  2 400 000 000 Euro |
+| 2025         | minus 10 605 407 683 Euro |  8 205 407 683 Euro |  2 400 000 000 Euro |
+| 2026         | minus 10 605 407 683 Euro |  8 205 407 683 Euro |  2 400 000 000 Euro |
+| ab 2027      | minus 10 417 407 683 Euro |  8 017 407 683 Euro | 2 400 000 000 Euro. |
 
 (2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
 

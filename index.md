@@ -2447,7 +2447,7 @@
 - [GFDV](laws/GFDV.md) Verordnung über die Art der Daten, die nach § 30 Absatz 1 Satz 1 und § 31 Absatz 1 Satz 1 des Bundespolizeigesetzes zur Grenzfahndung und zur grenzpolizeilichen Beobachtung gespeichert werden dürfen
 - [GFG](laws/GFG.md) Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen
 - [GFlFleischV](laws/GFlFleischV.md) Verordnung über Vermarktungsnormen für Geflügelfleisch
-- [GflSalmoV](laws/GflSalmoV.md) Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn und bei Puten
+- [GflSalmoV](laws/GflSalmoV.md) Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten
 - [GFV](laws/GFV.md) Verordnung über die Durchführung der Graduiertenförderung
 - [GfwtDBwVDV](laws/GfwtDBwVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr
 - [GG](laws/GG.md) Grundgesetz für die Bundesrepublik Deutschland
