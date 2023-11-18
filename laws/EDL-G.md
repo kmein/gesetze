@@ -135,7 +135,7 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 (1) Das Energieaudit nach § 8 Absatz 1 muss
 
-1. den Anforderungen der DIN EN 16247-1, Ausgabe Oktober 2012<span id="FnR.F789197_03"></span><a href="#F789197_03" class="FnR">3</a></sup> entsprechen, wobei zu diesen Anforderungen gehört, dass das Unternehmen einen Verantwortlichen beziehungsweise Ansprechpartner zur Durchführung des Energieaudits vorsieht,
+1. den Anforderungen der DIN EN 16247-1, Ausgabe November 2022<span id="FnR.F827720_13"></span><a href="#F827720_13" class="FnR">3</a></sup> entsprechen, wobei zu diesen Anforderungen gehört, dass das Unternehmen einen Verantwortlichen beziehungsweise Ansprechpartner zur Durchführung des Energieaudits vorsieht,
 
 2. auf aktuellen, kontinuierlich oder zeitweise gemessenen, belegbaren Betriebsdaten zum Energieverbrauch und zu den Lastprofilen basieren, wobei für gängige Geräte, für die eine Ermittlung des Energieverbrauchs mittels Messung nicht oder nur mit einem erheblichen Aufwand möglich ist, der Energieverbrauch auch durch nachvollziehbare Hochrechnungen von bestehenden Betriebs- und Lastkenndaten ermittelt werden kann und für Geräte zur Beleuchtung und für Bürogeräte eine Schätzung des Energieverbrauchs mittels anderer nachvollziehbarer Methoden vorgenommen werden kann,
 
@@ -159,9 +159,11 @@ a) den Abschluss eines Hochschul- oder Fachhochschulstudiums in einer einschläg
 
 b) eine berufliche Qualifikation zum staatlich geprüften Techniker oder zur staatlich geprüften Technikerin in einer einschlägigen Fachrichtung oder einen Meisterabschluss oder gleichwertigen Weiterbildungsabschluss,
 
-2. eine mindestens dreijährige hauptberufliche Tätigkeit, bei der praxisbezogene Kenntnisse über die betriebliche Energieberatung erworben wurden, und
+2. eine mindestens dreijährige hauptberufliche Tätigkeit, bei der praxisbezogene Kenntnisse über die betriebliche Energieberatung erworben wurden,
 
-3. die für die Erbringung von Energieaudits nach DIN 16247-1 erforderlichen Fachkenntnisse.
+3. die für die Erbringung von Energieaudits nach DIN 16247-1 erforderlichen Fachkenntnisse und
+
+4. die Teilnahme an einer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle anerkannten Fortbildung im Umfang von 12 Stunden jährlich.
 
 Der Nachweis einer einschlägigen Ausbildung nach Satz 2 Nummer 1 ist auch als erbracht anzusehen, wenn ein Abschluss oder eine berufliche Qualifikation durch eine oberste Bundes- oder Landesbehörde oder durch eine Körperschaft des öffentlichen Rechts als gleichwertig anerkannt ist.
 
@@ -231,15 +233,15 @@ Erfolgt die Nachweisführung nach Satz 1 durch einen Nachweis über den Beginn d
 
 # § 8d – Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ohne Zustimmung des Bundesrates Näheres zu regeln zu
+Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu regeln
 
-1. den Anforderungen an das Energieaudit,
+1. zum Umfang und zu den inhaltlichen Anforderungen an die Fortbildung nach § 8b Absatz 3 Satz 1 und Satz 2 Nummer 4,
 
-2. den Anforderungen an die das Energieaudit durchführenden Personen hinsichtlich der Fachkunde und der Unabhängigkeit,
+2. zu den Voraussetzungen für die Anerkennung von den in Nummer 1 genannten Fortbildungen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle,
 
-3. den Voraussetzungen für eine Freistellung von der Pflicht zur Durchführung von Energieaudits und
+3. zu den Angaben zur Nachweisführung für Fortbildungsträger im Rahmen des Verfahrens der Anerkennung von Fortbildungen nach Nummer 1 und
 
-4. den Angaben zur Nachweisführung nach § 8c.
+4. zu den Anforderungen an ein Energieaudit sowie an Energieauditorinnen und Energieauditoren nach den §§ 8 bis 8c.
 
 # § 9 – Bundesstelle für Energieeffizienz
 
@@ -255,7 +257,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 4. Monitoring der Einsparwirkung von Energieeffizienzmechanismen und sonstiger strategischer Maßnahmen der öffentlichen Hand, die Energieeinsparungen bei Endkunden bewirken sollen sowie die Aufbereitung dieser Einsparungen zur Berichterstattung im Rahmen der nationalen und europäischen Energieeffizienz- und Einsparziele;
 
-5. Beobachtung und Bewertung des Marktes für Energiedienstleistungen, Energieaudits und andere Energieeffizienzmaßnahmen und Erarbeitung von Vorschlägen zur weiteren Entwicklung;
+5. Beobachtung und Bewertung des Marktes für Energiedienstleistungen, Analyse von Potenzialen zur Entwicklung des EDL-Marktes und von dessen Beitrag zur Erreichung der Energie- und Klimaziele sowie Analyse bestehender Hemmnisse für den EDL-Markt (EDL-Marktstudie). Die Bundesstelle für Energieeffizienz führt zu dem Zweck Erhebungen durch und legt der Bundesregierung auf dieser Grundlage einen Bericht vor (EDL-Marktbericht), erstmals 2024 und danach alle zwei Jahre, der jeweils auch konkrete Handlungsempfehlungen enthält;
 
 6. Unterrichtung der Öffentlichkeit über Maßnahmen, die die öffentliche Hand auf dem Gebiet der Energieeffizienz zur Wahrnehmung ihrer Vorbildfunktion nach § 3 Absatz 3 ergreift;
 

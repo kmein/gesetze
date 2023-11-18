@@ -79,7 +79,7 @@ und ist hierfür eine vorherige befristete praktische Tätigkeit im Inland erfor
 
 # § 9 – Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt
 
-(1) Keiner Zustimmung bedarf die Ausübung einer Beschäftigung bei Ausländerinnen und Ausländern, die eine Blaue Karte EU oder eine Aufenthaltserlaubnis besitzen und
+(1) Keiner Zustimmung bedarf die Ausübung einer Beschäftigung bei Ausländerinnen und Ausländern, die eine Aufenthaltserlaubnis besitzen und
 
 1. zwei Jahre rechtmäßig eine versicherungspflichtige Beschäftigung im Bundesgebiet ausgeübt haben oder
 
@@ -363,25 +363,19 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 # § 24a – Berufskraftfahrerinnen und Berufskraftfahrer
 
-(1) Die Zustimmung kann Ausländerinnen und Ausländern für eine inländische Beschäftigung als Berufskraftfahrerin oder Berufskraftfahrer im Güterkraftverkehr und Personenverkehr mit Kraftomnibussen erteilt werden, wenn sie
-
-1. die EU- oder EWR-Fahrerlaubnis und
-
-2. die Grundqualifikation oder beschleunigte Grundqualifikation nach der Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates (ABl. L 226 vom 10.9.2003, S. 4), die zuletzt durch die Richtlinie (EU) 2018/645 (ABl. L 112 vom 2.5.2018, S. 29) geändert worden ist, und der Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über den Führerschein (Neufassung) (ABl. L 403 vom 30.12.2006, S. 18), die zuletzt durch die Richtlinie (EU) 2018/933 (ABl. L 165 vom 2.7.2018, S. 35) geändert worden ist,
-
-besitzen, die für die Ausübung der Beschäftigung erforderlich sind. Die Zustimmung wird mit Vorrangprüfung erteilt. Satz 2 gilt nicht, wenn zuvor eine Zustimmung nach Absatz 2 für eine Beschäftigung bei demselben Arbeitgeber erteilt wurde.
+(1) Die Zustimmung kann Ausländerinnen und Ausländern für eine inländische Beschäftigung als Berufskraftfahrerin oder Berufskraftfahrer im Güterkraftverkehr oder im Personenverkehr mit Kraftomnibussen erteilt werden.
 
 (2) Die Zustimmung kann Ausländerinnen und Ausländern für eine inländische Beschäftigung bei einem Arbeitgeber erteilt werden, wenn
 
-1. der Arbeitsvertrag zur Teilnahme an Maßnahmen zur Erlangung der nach Absatz 1 erforderlichen Fahrerlaubnis und Qualifikationen verpflichtet,
+1. der Arbeitsvertrag die Ausländerin oder den Ausländer zur Teilnahme an Maßnahmen zur Erlangung der Voraussetzungen verpflichtet, die für die Berufsausübung als Berufskraftfahrerin oder Berufskraftfahrer im Güterkraftverkehr oder im Personenverkehr mit Kraftomnibussen erforderlich sind,
 
-2. die Arbeitsbedingungen für die Zeit der Maßnahmen so ausgestaltet sind, dass die Fahrerlaubnis und die Qualifikationen einschließlich der Ausstellung der erforderlichen Dokumente innerhalb von 15 Monaten erlangt werden können,
+2. die Arbeitsbedingungen für die Zeit der Maßnahmen so ausgestaltet sind, dass die nach Nummer 1 erforderliche Fahrerlaubnis und die Qualifikationen einschließlich der Ausstellung der erforderlichen Dokumente innerhalb von 15 Monaten erlangt werden können,
 
 3. für die Zeit nach Erlangung der Fahrerlaubnis und der Qualifikationen ein konkretes Arbeitsplatzangebot für eine inländische Beschäftigung als Berufskraftfahrerin oder Berufskraftfahrer im Güterkraftverkehr oder Personenverkehr mit Kraftomnibussen bei demselben Arbeitgeber vorliegt und
 
 4. der Nachweis erbracht wird, dass sie die in ihrem Herkunftsland für die Beschäftigung als Berufskraftfahrerin oder Berufskraftfahrer einschlägige Fahrerlaubnis besitzen.
 
-Die Zustimmung wird für bis zu 15 Monate und mit Vorrangprüfung für die spätere Beschäftigung als Berufskraftfahrerin oder Berufskraftfahrer erteilt. Im begründeten Einzelfall kann die Zustimmung für bis zu weitere sechs Monate erteilt werden.
+Die Zustimmung wird für bis zu 15 Monate erteilt. Im begründeten Einzelfall kann die Zustimmung für bis zu weitere sechs Monate erteilt werden.
 
 (3) Für Personen, die eine Aufenthaltserlaubnis zum Zwecke einer Beschäftigung nach Absatz 1 oder 2 besitzen, findet § 9 keine Anwendung.
 
@@ -401,7 +395,7 @@ Die Zustimmung kann mit Vorrangprüfung für Personen erteilt werden, die
 
 (1) Für Staatsangehörige von Andorra, Australien, Israel, Japan, Kanada, der Republik Korea, von Monaco, Neuseeland, San Marino, des Vereinigten Königreichs Großbritannien und Nordirland im Sinne des § 1 Absatz 2 Nummer 6 des Freizügigkeitsgesetzes/EU sowie der Vereinigten Staaten von Amerika kann die Zustimmung mit Vorrangprüfung zur Ausübung jeder Beschäftigung unabhängig vom Sitz des Arbeitgebers erteilt werden.
 
-(2) Für Staatsangehörige von Albanien, Bosnien und Herzegowina, Kosovo, Montenegro, Nordmazedonien und Serbien können in den Jahren 2021 bis einschließlich 2023 Zustimmungen mit Vorrangprüfung zur Ausübung jeder Beschäftigung erteilt werden. Die erstmalige Zustimmung darf nur erteilt werden, wenn der Antrag auf Erteilung des Aufenthaltstitels bei der jeweils zuständigen deutschen Auslandsvertretung in einem der in Satz 1 genannten Staaten gestellt wird. Die Anzahl der Zustimmungen in den Fällen des Satzes 2 ist auf bis zu 25 000 je Kalenderjahr begrenzt. Die Zustimmung darf nicht erteilt werden, wenn der Antragsteller in den letzten 24 Monaten vor Antragstellung Leistungen nach dem Asylbewerberleistungsgesetz bezogen hat. § 9 findet keine Anwendung, es sei denn, dass eine Zustimmung nach § 26 Absatz 2 in der bis zum Ablauf des 31. Dezember 2020 geltenden Fassung erteilt wurde.
+(2) Für Staatsangehörige von Albanien, Bosnien und Herzegowina, Kosovo, Montenegro, Nordmazedonien und Serbien können Zustimmungen mit Vorrangprüfung zur Ausübung jeder Beschäftigung erteilt werden. Die erstmalige Zustimmung darf nur erteilt werden, wenn der Antrag auf Erteilung des Aufenthaltstitels bei der jeweils zuständigen deutschen Auslandsvertretung in einem der in Satz 1 genannten Staaten gestellt wird. Die Anzahl der Zustimmungen in den Fällen des Satzes 2 ist auf bis zu 25 000 je Kalenderjahr begrenzt. Die Zustimmung darf nicht erteilt werden, wenn der Antragsteller in den letzten 24 Monaten vor Antragstellung Leistungen nach dem Asylbewerberleistungsgesetz bezogen hat. § 9 findet keine Anwendung, es sei denn, dass eine Zustimmung nach § 26 Absatz 2 in der bis zum Ablauf des 31. Dezember 2020 geltenden Fassung erteilt wurde.
 
 # § 27 – Grenzgängerbeschäftigung
 
@@ -413,7 +407,7 @@ Deutschen Volkszugehörigen, die einen Aufnahmebescheid nach dem Bundesvertriebe
 
 # § 29 – Internationale Abkommen
 
-(1) Für Beschäftigungen im Rahmen der mit den Staaten Türkei, Serbien, Bosnien-Herzegowina und Mazedonien bestehenden Werkvertragsarbeitnehmerabkommen kann die Zustimmung erteilt werden. Dies gilt auch für das zur Durchführung der Werkvertragstätigkeit erforderliche leitende Personal oder Verwaltungspersonal mit betriebsspezifischen Kenntnissen für die Dauer von bis zu vier Jahren. Das Bundesministerium für Arbeit und Soziales kann die Erteilung der Zustimmung durch die Bundesagentur für Arbeit an Beschäftigte der Bauwirtschaft im Rahmen von Werkverträgen im Verhältnis zu den beschäftigten gewerblichen Personen des im Inland ansässigen Unternehmens zahlenmäßig beschränken. Dabei ist darauf zu achten, dass auch kleine und mittelständische im Inland ansässige Unternehmen angemessen berücksichtigt werden.
+(1) Für Beschäftigungen im Rahmen der mit den Staaten Türkei, Serbien, Bosnien-Herzegowina und Nordmazedonien bestehenden Werkvertragsarbeitnehmerabkommen kann die Zustimmung erteilt werden. Dies gilt auch für das zur Durchführung der Werkvertragstätigkeit erforderliche leitende Personal oder Verwaltungspersonal mit betriebsspezifischen Kenntnissen für die Dauer von bis zu vier Jahren. Das Bundesministerium für Arbeit und Soziales kann die Erteilung der Zustimmung durch die Bundesagentur für Arbeit an Beschäftigte der Bauwirtschaft im Rahmen von Werkverträgen im Verhältnis zu den beschäftigten gewerblichen Personen des im Inland ansässigen Unternehmens zahlenmäßig beschränken. Dabei ist darauf zu achten, dass auch kleine und mittelständische im Inland ansässige Unternehmen angemessen berücksichtigt werden.
 
 (2) Die Zustimmung zur Ausübung einer Beschäftigung von bis zu 18 Monaten kann erteilt werden, wenn die betreffenden Personen auf der Grundlage einer zwischenstaatlichen Vereinbarung über die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern zur beruflichen und sprachlichen Fortbildung (Gastarbeitnehmer-Vereinbarung) mit dem Staat, dessen Staatsangehörigkeit sie besitzen, beschäftigt werden.
 
@@ -421,13 +415,13 @@ Deutschen Volkszugehörigen, die einen Aufnahmebescheid nach dem Bundesvertriebe
 
 (4) Für Fach- oder Weltausstellungen, die nach dem am 22. November 1928 in Paris unterzeichneten Abkommen über Internationale Ausstellungen registriert sind, kann für Angehörige der ausstellenden Staaten die Zustimmung mit Vorrangprüfung erteilt werden, wenn sie für den ausstellenden Staat zur Vorbereitung, Durchführung oder Beendigung des nationalen Ausstellungsbeitrages tätig werden.
 
-(5) Die Zustimmung kann für Personen erteilt werden, die von einem Unternehmen mit Sitz im Ausland ordnungsgemäß beschäftigt werden und auf der Grundlage des Übereinkommens zur Errichtung der Welthandelsorganisation vom 15. April 1994 (BGBl. 1994 II S. 1438, 1441) oder anderer für die Bundesrepublik Deutschland völkerrechtlich verbindlicher Freihandelsabkommen der Europäischen Union oder der Europäischen Union und ihrer Mitgliedstaaten vorübergehend in das Bundesgebiet entsandt werden.
+(5) Die Zustimmung kann für Personen erteilt werden, die von einem Unternehmen mit Sitz im Ausland ordnungsgemäß beschäftigt werden und auf der Grundlage des Übereinkommens zur Errichtung der Welthandelsorganisation vom 15. April 1994 (BGBl. 1994 II S. 1438, 1441) oder anderer für die Bundesrepublik Deutschland völkerrechtlich verbindlicher Freihandelsabkommen der Europäischen Union oder der Europäischen Union und ihrer Mitgliedstaaten vorübergehend in das Bundesgebiet entsandt werden. Für Beschäftigungen auf Grundlage der in Satz 1 genannten Abkommen, in denen bestimmt ist, dass jemand für eine Beschäftigung keiner Arbeitsgenehmigung oder keiner Arbeitserlaubnis bedarf, bedarf es keiner Zustimmung.
 
 # § 30 – Beschäftigungsaufenthalte ohne Aufenthaltstitel
 
 Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
-1. Tätigkeiten nach § 3 Nummer 1 und 2 auch ohne Zustimmung sowie nach § 16, die bis zu 90 Tage innerhalb eines Zeitraums von 180 Tagen ausgeübt werden,
+1. Tätigkeiten nach § 3 Nummer 1 und 2 auch ohne Zustimmung, nach den §§ 16 und 29 Absatz 5 Satz 2, die bis zu 90 Tage innerhalb eines Zeitraums von 180 Tagen ausgeübt werden,
 
 2. Tätigkeiten nach den §§ 5, 14, 15, 17, 18, 19 Absatz 1 sowie den §§ 20, 22, 23 und 24b, die bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
 
@@ -449,7 +443,7 @@ Die Erteilung der Erlaubnis zur Beschäftigung an Ausländerinnen und Ausländer
 
 2. einer Berufsausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf,
 
-3. einer Beschäftigung nach § 18b Absatz 2 Satz 1 und § 18c Absatz 3 des Aufenthaltsgesetzes, § 5, § 14 Absatz 1, § 15 Nummer 2, § 22 Nummer 3 bis 6 und § 23,
+3. einer Beschäftigung nach § 18c Absatz 3 und § 18g Absatz 1 Satz 1 des Aufenthaltsgesetzes, § 5, § 14 Absatz 1 und 1a, § 15 Nummer 2, § 22 Nummer 3 bis 6 und § 23,
 
 4. einer Beschäftigung von Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten Grades eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit diesen in häuslicher Gemeinschaft lebt oder
 
@@ -499,7 +493,7 @@ Die Erteilung der Erlaubnis zur Beschäftigung an Ausländerinnen und Ausländer
 
 (1) Die Bundesagentur für Arbeit teilt der zuständigen Stelle die Zustimmung zur Erteilung eines Aufenthaltstitels nach § 39 des Aufenthaltsgesetzes oder einer Grenzgängerkarte, deren Versagung nach § 40 des Aufenthaltsgesetzes, den Widerruf nach § 41 des Aufenthaltsgesetzes und die Rücknahme einer Zustimmung mit.
 
-(2) Die Zustimmung zur Ausübung einer Beschäftigung gilt als erteilt, wenn die Bundesagentur für Arbeit der zuständigen Stelle nicht innerhalb von zwei Wochen nach Übermittlung der Zustimmungsanfrage mitteilt, dass die übermittelten Informationen für die Entscheidung über die Zustimmung nicht ausreichen oder dass der Arbeitgeber die erforderlichen Auskünfte nicht oder nicht rechtzeitig erteilt hat. Im Fall des § 81a des Aufenthaltsgesetzes verkürzt sich die Frist nach Satz 1 auf eine Woche.
+(2) Die Zustimmung zur Ausübung einer Beschäftigung gilt als erteilt, wenn die Bundesagentur für Arbeit der zuständigen Stelle nicht innerhalb von zwei Wochen nach Übermittlung der Zustimmungsanfrage mitteilt, dass die übermittelten Informationen für die Entscheidung über die Zustimmung nicht ausreichen oder dass der Arbeitgeber die erforderlichen Auskünfte nicht oder nicht rechtzeitig erteilt hat. In den Fällen des § 18g Absatz 4 und des § 81a des Aufenthaltsgesetzes verkürzt sich die Frist nach Satz 1 auf eine Woche.
 
 (3) Die Bundesagentur für Arbeit soll bereits vor der Übermittlung der Zustimmungsanfrage der Ausübung der Beschäftigung gegenüber der zuständigen Stelle zustimmen oder prüfen, ob die arbeitsmarktbezogenen Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das Verfahren dadurch beschleunigt wird.
 

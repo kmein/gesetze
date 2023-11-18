@@ -1352,7 +1352,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (1) Die registerführende Stelle übermittelt die erforderlichen Informationen aus dem Transparenzregister an
 
-1. die Zentralstelle für Finanztransaktionsuntersuchungen für Zwecke nach § 28 Absatz 1 Satz 2 Nummer 2, 4 und 8,
+1. die Zentralstelle für Finanztransaktionsuntersuchungen für Zwecke nach § 28 Absatz 1 Satz 3 Nummer 2, 4 und 8,
 
 2. die Strafverfolgungsbehörden für ihre Aufgabenerfüllung,
 
@@ -1392,7 +1392,7 @@ erlaubt. § 23 bleibt unberührt.
 
 # § 28 – Aufgaben, Aufsicht und Zusammenarbeit
 
-(1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat die Aufgabe der Erhebung und Analyse von Informationen im Zusammenhang mit Geldwäsche oder Terrorismusfinanzierung und der Weitergabe dieser Informationen an die zuständigen inländischen öffentlichen Stellen zum Zwecke der Aufklärung, Verhinderung oder Verfolgung solcher Taten. Ihr obliegen in diesem Zusammenhang:
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat die Aufgabe der Erhebung und Analyse von Informationen im Zusammenhang mit Geldwäsche oder Terrorismusfinanzierung und der Weitergabe dieser Informationen an die zuständigen inländischen öffentlichen Stellen zum Zwecke der Aufklärung, Verhinderung oder Verfolgung solcher Taten. Bei der Wahrnehmung ihrer Aufgaben folgt die Zentralstelle für Finanztransaktionsuntersuchungen einem risikobasierten Ansatz. Ihr obliegen in diesem Zusammenhang:
 
 1. die Entgegennahme und Sammlung von Meldungen nach diesem Gesetz,
 
@@ -1422,23 +1422,61 @@ erlaubt. § 23 bleibt unberührt.
 
 (1a) Bei Erfüllung der ihr nach Absatz 1 Satz 1 übertragenen Aufgabe wirkt die Zentralstelle für Finanztransaktionsuntersuchungen auch an der Feststellung von Geldern und wirtschaftlichen Ressourcen bestimmter Personen oder Personengesellschaften mit, die aufgrund eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaften oder der Europäischen Union, die der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, einer Verfügungsbeschränkung unterliegen. Absatz 1 Satz 2 gilt entsprechend.
 
-(2) Die Zentralstelle für Finanztransaktionsuntersuchungen untersteht der Aufsicht des Bundesministeriums der Finanzen, die sich in den Fällen des Absatzes 1 Nummer 1, 2, 5 und 6 auf die Rechtsaufsicht beschränkt.
+(2) Die Zentralstelle für Finanztransaktionsuntersuchungen untersteht der Aufsicht des Bundesministeriums der Finanzen. Bei der Wahrnehmung der Aufsicht ist die fachliche Unabhängigkeit der Zentralstelle für Finanztransaktionsuntersuchungen nach § 27 Absatz 2 zu berücksichtigen. In den Fällen des Absatzes 1 Satz 3 Nummer 1, 2, 5 und 6 ist die Aufsicht auf die Rechtsaufsicht beschränkt.
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen sowie die sonstigen für die Aufklärung, Verhütung und Verfolgung der Geldwäsche, Terrorismusfinanzierung und sonstiger Straftaten sowie die zur Gefahrenabwehr zuständigen inländischen öffentlichen Stellen und die inländischen Aufsichtsbehörden arbeiten zur Durchführung dieses Gesetzes zusammen und unterstützen sich gegenseitig.
 
 (4) Die Zentralstelle für Finanztransaktionsuntersuchungen informiert, soweit erforderlich, die für das Besteuerungsverfahren oder den Schutz der sozialen Sicherungssysteme zuständigen Behörden über Sachverhalte, die ihr bei der Wahrnehmung ihrer Aufgaben bekannt werden und die sie nicht an eine andere zuständige staatliche Stelle übermittelt hat.
 
+# § 28a – Unterrichtung des Deutschen Bundestages
+
+(1) Das Bundesministerium der Finanzen unterrichtet in Abständen von höchstens sechs Monaten ein Gremium des Deutschen Bundestages über die Erfüllung der Aufgaben der Zentralstelle für Finanztransaktionsuntersuchungen gemäß § 28 Absatz 1 und 1a.
+
+(2) Der Deutsche Bundestag bestimmt die Zahl der Mitglieder, die Zusammensetzung und die Arbeitsweise des Gremiums. Das Bundesministerium der Finanzen und die Zentralstelle für Finanztransaktionsuntersuchungen sind ständig vertreten. Das Gremium beschließt anlassbezogen über die Hinzuziehung weiterer Stellen, soweit deren gesetzliche Zuständigkeiten betroffen sind.
+
+(3) Die Mitglieder des Gremiums sind zur Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer Tätigkeit bekannt geworden sind. Dies gilt auch für die Vertreterinnen und Vertreter der hinzugezogenen weiteren Stellen.
+
 # § 29 – Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen
 
-(1) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten verarbeiten, die aufgrund dieses Gesetzes übermittelt, erhoben oder abgefragt werden, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 (2) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten, die sie zur Erfüllung ihrer Aufgaben gespeichert hat, mit anderen Daten abgleichen, wenn dies nach diesem Gesetz oder nach einem anderen Gesetz zulässig ist.
 
+(2a) Die Zentralstelle für Finanztransaktionsuntersuchungen darf bei der Verarbeitung personenbezogener Daten nach Absatz 1 und beim Abgleich dieser personenbezogenen Daten mit anderen Daten nach Absatz 2 automatisierte Anwendungen zur Datenanalyse einsetzen
+
+1. zur Risikobewertung nach § 30 Absatz 2 Satz 3,
+
+2. bei der operativen Analyse nach § 28 Absatz 1 Satz 3 Nummer 2 und
+
+3. bei der strategischen Analyse nach § 28 Absatz 1 Satz 3 Nummer 8
+
+von Meldungen und sonstigen Informationen nach diesem Gesetz. Folgende personenbezogene Daten dürfen in automatisierten Anwendungen zur Datenanalyse nach Satz 1 nicht verarbeitet werden:
+
+1. Daten, die ursprünglich durch den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, die Verfassungsschutzbehörden der Länder oder den Militärischen Abschirmdienst erhoben wurden;
+
+2. Daten, die durch eine Maßnahme nach den §§ 100a, 100b, 100c, 100f, 100g, 100h, 100i, 100k Absatz 1 Satz 2, den §§ 110a, 163f der Strafprozessordnung oder aus vergleichbar schwerwiegenden Eingriffen in die informationelle Selbstbestimmung gewonnen wurden;
+
+3. biometrische Daten.
+
+Folgende Datenarten dürfen mittels einer automatisierten Anwendung zur Datenanalyse verarbeitet werden: der Familienname, die Vornamen, frühere Namen, andere Namen, Aliaspersonalien, abweichende Namensschreibweisen, Name der juristischen Person, das Geschlecht, das Geburtsdatum, der Geburtsort, der Geburtsstaat, der Familienstand, die aktuellen und bisherigen Staatsangehörigkeiten, die gegenwärtigen und bisherigen Anschriften, die Nummer eines Legitimationsdokumentes einschließlich der ausstellenden öffentlichen Stelle, eigene oder jeweils genutzte Telekommunikationsanschlüsse sowie Adressen für elektronische Post, elektronische Adressen für neue Zahlungsmethoden (Wallet-Adressen), sonstige Angaben zur beruflichen Erreichbarkeit und Daten über die Geschäftsbeziehung gemäß § 1 Absatz 4 einer Person mit einem Verpflichteten nach § 2, insbesondere Daten eines bei einem Verpflichteten geführten Kontos. Personenbezogene Daten aus allgemein zugänglichen Quellen dürfen nicht automatisiert in die Verarbeitung personenbezogener Daten in automatisierten Anwendungen zur Datenanalyse einbezogen werden.
+
+(2b) Durch den Einsatz automatisierter Anwendungen zur Datenanalyse nach Absatz 2a können Meldungen und sonstige Informationen im Datenbestand der Zentralstelle für Finanztransaktionsuntersuchungen dahingehend bewertet und identifiziert werden, ob relevante Anhaltspunkte bestehen, dass ein Vermögensgegenstand mit Geldwäsche, mit Terrorismusfinanzierung oder mit einer sonstigen Straftat im Zusammenhang steht. Hierzu können Beziehungen zwischen Personen, Personengruppierungen, Institutionen, Organisationen, Objekten und Sachen hergestellt, unbedeutende Informationen und Erkenntnisse ausgeschlossen und die eingehenden Erkenntnisse bekannten Sachverhalten zugeordnet werden. Hierzu werden die von den Verpflichteten bei der Abgabe einer Meldung anzugebenden Informationen und sonstige Informationen im Datenbestand der Zentralstelle für Finanztransaktionsuntersuchungen mit den Parametern für die Risikobewertung nach § 30 Absatz 2 Satz 2 bis 8 oder Parametern für die operative und strategische Analyse automatisiert auf Beziehungen und mögliche Übereinstimmungen abgeglichen. Selbstlernende und automatisierte Systeme, die eigenständig Gefährlichkeitsaussagen über Personen treffen können, sind unzulässig.
+
+(2c) Die Zentralstelle für Finanztransaktionsuntersuchungen darf zur Erfüllung ihrer Aufgaben nach diesem Gesetz Informationen nach § 28 Absatz 1 Satz 3 Nummer 2 erheben, verarbeiten und mit anderen Daten abgleichen.
+
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten, die bei ihr vorhanden sind, zu Fortbildungszwecken oder zu statistischen Zwecken verarbeiten, soweit eine Verarbeitung anonymisierter Daten zu diesen Zwecken nicht möglich ist.
 
-(4) Die Zentralstelle für Finanztransaktionsuntersuchungen stellt durch Schulungen sicher, dass das eingesetzte Personal mit den geltenden europäischen und nationalen Datenschutzbestimmungen vertraut ist.
+(4) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten, die bei ihr vorhanden sind, verarbeiten, um den Einsatz automatisierter Anwendungen zur Datenanalyse vorzubereiten, die sie zur Erfüllung ihrer Aufgaben nach diesem Gesetz einsetzt.
 
-# § 30 – Entgegennahme und Analyse von Meldungen
+(5) Die Zentralstelle für Finanztransaktionsuntersuchungen stellt durch organisatorische und technische Maßnahmen sicher, dass Daten nur gemäß ihrer rechtlichen Verwendbarkeit verarbeitet werden. Hierbei sind auch Begrenzungen der Zugriffsmöglichkeiten auf die automatisierten Anwendungen zur Datenanalyse vorzusehen.
+
+(6) Die Zentralstelle für Finanztransaktionsuntersuchungen stellt durch Schulungen sicher, dass das eingesetzte Personal mit den geltenden europäischen und nationalen Datenschutzbestimmungen vertraut ist.
+
+(7) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit führt mindestens alle zwei Jahre Kontrollen der Datenverarbeitung im Zusammenhang mit der Verarbeitung von personenbezogenen Daten nach Absatz 1 durch. Diese Kontrollen erfolgen unbeschadet ihrer oder seiner in § 14 des Bundesdatenschutzgesetzes genannten Aufgaben.
+
+(8) Sofern die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Verstöße nach § 16 Absatz 2 des Bundesdatenschutzgesetzes beanstandet hat, kann sie oder er geeignete Maßnahmen anordnen, wenn dies zur Beseitigung eines erheblichen Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
+
+# § 30 – Analyse von Meldungen und Informationen
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat zur Erfüllung ihrer Aufgaben folgende Meldungen und Informationen entgegenzunehmen und zu verarbeiten:
 
@@ -1454,7 +1492,7 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 4. sonstige Informationen aus öffentlichen und nicht öffentlichen Quellen im Rahmen ihres Aufgabenbereiches.
 
-(2) Die Zentralstelle für Finanztransaktionsuntersuchungen analysiert die Meldungen nach den §§ 43 und 44 sowie die Mitteilungen nach § 31b der Abgabenordnung, um zu prüfen, ob der gemeldete Sachverhalt im Zusammenhang mit Geldwäsche, mit Terrorismusfinanzierung oder mit einer sonstigen Straftat steht.
+(2) Die Zentralstelle für Finanztransaktionsuntersuchungen analysiert verdächtige Transaktionen und sonstige Informationen, die im Hinblick auf Geldwäsche, damit zusammenhängende Vortaten oder Terrorismusfinanzierung von Belang sind, mit dem Ziel der Verhinderung, Aufdeckung und Unterstützung bei der Bekämpfung von Geldwäsche und Terrorismusfinanzierung. Art und Umfang der Analyse haben sich am Risiko der Geldwäsche oder Terrorismusfinanzierung zu orientieren. Für die risikogerechte Identifikation relevanter Meldungen und Informationen kann die Zentralstelle für Finanztransaktionsuntersuchungen automatisierte Anwendungen zur Datenanalyse nach § 29 Absatz 2a (Risikobewertungssysteme) einsetzen. Dabei soll auch der Grundsatz der Wirtschaftlichkeit der Verwaltung berücksichtigt werden. Die Übermittlung von Sachverhalten nach § 32 Absatz 2 Satz 1 wird durch einen Amtsträger veranlasst. Die Risikobewertungssysteme sind regelmäßig auf ihre Zielerfüllung einschließlich einer Zufallsauswahl zu überprüfen. Die Zentralstelle für Finanztransaktionsuntersuchungen legt die Parameter der Prüfung in automatisierten Anwendungen zur Datenanalyse nach § 29 Absatz 2a Satz 1 Nummer 1 im Benehmen mit Vertretern der Strafverfolgungsbehörden, des Bundesamtes für Verfassungsschutz, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes des Bundesministeriums der Verteidigung fest. Die Zentralstelle für Finanztransaktionsuntersuchungen kann hierbei über die Analysepflicht nach Satz 1 hinaus Parameter für die Identifikation von Meldungen und Informationen, die im Hinblick auf sonstige Straftaten von Belang sind, berücksichtigen. Für die Bereiche Inneres, Justiz und Finanzen bestimmt das jeweils zuständige Landesministerium oder die jeweils zuständige Senatsverwaltung die Vertreter der Strafverfolgungsbehörden des jeweiligen Landes, für den Generalbundesanwalt beim Bundesgerichtshof das Bundesministerium der Justiz. Einzelheiten der Risikobewertungssysteme dürfen nicht veröffentlicht werden, soweit die Veröffentlichung die gesetzliche Aufgabenerfüllung der Zentralstelle für Finanztransaktionsuntersuchungen, der Strafverfolgungsbehörden, des Bundesamtes für Verfassungsschutz, des Bundesnachrichtendienstes oder des Militärischen Abschirmdienstes des Bundesministeriums der Verteidigung gefährden könnte.
 
 (2a) Die Zentralstelle für Finanztransaktionsuntersuchungen ist befugt, unabhängig vom Vorliegen einer Meldung nach den §§ 43 und 44 Analysen durchzuführen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
@@ -1462,7 +1500,7 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 # § 31 – Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung
 
-(1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben; zu den inländischen öffentlichen Stellen zählt auch die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine Übermittlungsbeschränkungen entgegenstehen.
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben; zu den inländischen öffentlichen Stellen zählt auch die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine in diesem oder in anderen Gesetzen geregelten Übermittlungsbeschränkungen entgegenstehen.
 
 (2) Die Anfragen sind von der inländischen öffentlichen Stelle unverzüglich zu beantworten. Daten, die mit der Anfrage im Zusammenhang stehen, sind zur Verfügung zu stellen.
 
@@ -1476,11 +1514,11 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 4. die technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes.
 
-(4) Die Zentralstelle für Finanztransaktionsuntersuchungen ist berechtigt, soweit dies zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 erforderlich ist, die in ihrem Informationssystem gespeicherten, personenbezogenen Daten mit den im polizeilichen Informationsverbund nach § 29 Absatz 1 und 2 des Bundeskriminalamtgesetzes enthaltenen, personenbezogenen Daten automatisiert abzugleichen. Wird im Zuge des Abgleichs nach Satz 1 eine Übereinstimmung übermittelter Daten mit im polizeilichen Informationsverbund gespeicherten Daten festgestellt, so erhält die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert die Information über das Vorliegen eines Treffers und ist berechtigt, die dazu im polizeilichen Informationsverbund vorhandenen Daten automatisiert abzurufen. Haben die Teilnehmer am polizeilichen Informationsverbund Daten als besonders schutzwürdig eingestuft und aus diesem Grund einen Datenabruf der Zentralstelle für Finanztransaktionsuntersuchungen nach Satz 2 ausgeschlossen, erhält der datenbesitzende Teilnehmer am polizeilichen Informationsverbund automatisiert die Information über das Vorliegen eines Treffers. Zugleich erhält die Zentralstelle für Finanztransaktionsuntersuchungen in den Fällen nach Satz 3 die Information über das Vorliegen eines Treffers sowie die Information, wer datenbesitzender Teilnehmer am polizeilichen Informationsverbund ist. Bei Information über das Vorliegen eines Treffers nach Satz 3 obliegt es dem jeweiligen datenbesitzenden Teilnehmer des polizeilichen Informationsverbunds, mit der Zentralstelle für Finanztransaktionsuntersuchungen unverzüglich Kontakt aufzunehmen und ihr die Daten zu übermitteln, soweit dem keine Übermittlungsbeschränkungen entgegenstehen. Die Regelungen der Sätze 1 bis 5 gehen der Regelung des § 29 Absatz 8 des Bundeskriminalamtgesetzes vor. Die Einrichtung eines weitergehenden automatisierten Abrufverfahrens für die Zentralstelle für Finanztransaktionsuntersuchungen ist mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums der Finanzen und der Innenministerien und Senatsinnenverwaltungen der Länder zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen der besonderen Eilbedürftigkeit angemessen ist.
+(4) Die Zentralstelle für Finanztransaktionsuntersuchungen ist berechtigt, soweit dies zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 erforderlich ist, die in ihrem Informationssystem gespeicherten, personenbezogenen Daten mit den im polizeilichen Informationsverbund nach § 29 Absatz 1 und 2 des Bundeskriminalamtgesetzes enthaltenen, personenbezogenen Daten automatisiert abzugleichen. Wird im Zuge des Abgleichs nach Satz 1 eine Übereinstimmung übermittelter Daten mit im polizeilichen Informationsverbund gespeicherten Daten festgestellt, so erhält die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert die Information über das Vorliegen eines Treffers und ist berechtigt, die dazu im polizeilichen Informationsverbund vorhandenen Daten automatisiert abzurufen. Haben die Teilnehmer am polizeilichen Informationsverbund Daten als besonders schutzwürdig eingestuft und aus diesem Grund einen Datenabruf der Zentralstelle für Finanztransaktionsuntersuchungen nach Satz 2 ausgeschlossen, erhält der datenbesitzende Teilnehmer am polizeilichen Informationsverbund automatisiert die Information über das Vorliegen eines Treffers. Zugleich erhält die Zentralstelle für Finanztransaktionsuntersuchungen in den Fällen nach Satz 3 die Information über das Vorliegen eines Treffers sowie die Information, wer datenbesitzender Teilnehmer am polizeilichen Informationsverbund ist. Bei Information über das Vorliegen eines Treffers nach Satz 3 obliegt es dem jeweiligen datenbesitzenden Teilnehmer des polizeilichen Informationsverbunds, mit der Zentralstelle für Finanztransaktionsuntersuchungen unverzüglich Kontakt aufzunehmen und ihr die Daten zu übermitteln, soweit dem keine Übermittlungsbeschränkungen entgegenstehen. Die Regelungen der Sätze 1 bis 5 gehen der Regelung des § 29 Absatz 8 des Bundeskriminalamtgesetzes vor. Die Einrichtung eines weitergehenden automatisierten Abrufverfahrens für die Zentralstelle für Finanztransaktionsuntersuchungen ist mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums der Finanzen und der Innenministerien und Senatsinnenverwaltungen der Länder zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen der besonderen Eilbedürftigkeit angemessen ist.
 
-(4a) Die Zentralstelle für Finanztransaktionsuntersuchungen ist berechtigt, soweit dies zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 erforderlich ist, unter Angabe des Vornamens, des Nachnamens sowie zusätzlich des Geburtsdatums, des Geburtsortes oder der letzten bekannten Anschrift einer natürlichen Person Auskunft aus dem Zentralen Staatsanwaltschaftlichen Verfahrensregister automatisiert einzuholen. Wird im Zuge der Auskunftseinholung nach Satz 1 eine Übereinstimmung übermittelter Daten mit den im Zentralen Staatsanwaltschaftlichen Verfahrensregister gespeicherten Daten festgestellt, so erhält die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert die Information über das Vorliegen eines Treffers und ist berechtigt, die dazu im Zentralen Staatsanwaltschaftlichen Verfahrensregister vorhandenen Daten automatisiert abzurufen. Die aus dem Zentralen Staatsanwaltschaftlichen Verfahrensregister erhobenen personenbezogenen Daten dürfen nur für die Zwecke der operativen Analyse verwendet werden.
+(4a) Die Zentralstelle für Finanztransaktionsuntersuchungen ist berechtigt, soweit dies zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 erforderlich ist, unter Angabe des Vornamens, des Nachnamens sowie zusätzlich des Geburtsdatums, des Geburtsortes oder der letzten bekannten Anschrift einer natürlichen Person Auskunft aus dem Zentralen Staatsanwaltschaftlichen Verfahrensregister automatisiert einzuholen. Wird im Zuge der Auskunftseinholung nach Satz 1 eine Übereinstimmung übermittelter Daten mit den im Zentralen Staatsanwaltschaftlichen Verfahrensregister gespeicherten Daten festgestellt, so erhält die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert die Information über das Vorliegen eines Treffers und ist berechtigt, die dazu im Zentralen Staatsanwaltschaftlichen Verfahrensregister vorhandenen Daten automatisiert abzurufen. Die aus dem Zentralen Staatsanwaltschaftlichen Verfahrensregister erhobenen personenbezogenen Daten dürfen nur für die Zwecke der operativen Analyse verwendet werden.
 
-(5) Finanzbehörden erteilen der Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 31b Absatz 1 Nummer 5 der Abgabenordnung Auskunft und teilen ihr nach § 31b Absatz 2 der Abgabenordnung die dort genannten Informationen mit. Die Zentralstelle für Finanztransaktionsuntersuchungen darf zur Wahrnehmung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 folgende, nach § 30 der Abgabenordnung dem Steuergeheimnis unterliegende Daten im automatisierten Verfahren abrufen, soweit aufgrund der Analyse einer Meldung, Mitteilung oder Information nach § 30 Absatz 1 vorliegender Tatsachen diese Daten für die weitere Analyse erforderlich sind:
+(5) Finanzbehörden erteilen der Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 31b Absatz 1 Nummer 5 der Abgabenordnung Auskunft und teilen ihr nach § 31b Absatz 2 der Abgabenordnung die dort genannten Informationen mit. Die Zentralstelle für Finanztransaktionsuntersuchungen darf zur Wahrnehmung ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 folgende, nach § 30 der Abgabenordnung dem Steuergeheimnis unterliegende Daten im automatisierten Verfahren abrufen, soweit aufgrund der Analyse einer Meldung, Mitteilung oder Information nach § 30 Absatz 1 vorliegender Tatsachen diese Daten für die weitere Analyse erforderlich sind:
 
 1. beim Bundeszentralamt für Steuern die nach § 5 Absatz 1 Nummer 13 des Finanzverwaltungsgesetzes vorgehaltenen Daten,
 
@@ -1500,13 +1538,13 @@ Bei Abrufen nach Satz 2 sind hinsichtlich natürlicher Personen der Vorname, der
 
 3. Daten zum Wohnungsgeber nach § 3 Absatz 2 Nummer 10 des Bundesmeldegesetzes.
 
-Entsprechendes gilt, soweit konkrete Anhaltspunkte dafür bestehen, dass dies zur Erfüllung der Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 erforderlich ist. In den Fällen des Satzes 2 sind die nach Satz 1 abgerufenen Daten unverzüglich zu löschen, wenn sich nach Abschluss der operativen Analyse ergibt, dass die Voraussetzungen für eine Übermittlung nach § 32 Absatz 2 Satz 1 nicht vorliegen.
+Entsprechendes gilt, soweit konkrete Anhaltspunkte dafür bestehen, dass dies zur Erfüllung der Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 erforderlich ist. In den Fällen des Satzes 2 sind die nach Satz 1 abgerufenen Daten unverzüglich zu löschen, wenn sich nach Abschluss der operativen Analyse ergibt, dass die Voraussetzungen für eine Übermittlung nach § 32 Absatz 2 Satz 1 nicht vorliegen.
 
 # § 32 – Datenübermittlungsverpflichtung an inländische öffentliche Stellen
 
 (1) Meldungen nach § 43 Absatz 1, § 44 sind von der Zentralstelle für Finanztransaktionsuntersuchungen unverzüglich an das Bundesamt für Verfassungsschutz zu übermitteln, soweit tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung dieser Informationen für die Erfüllung der Aufgaben des Bundesamtes für Verfassungsschutz erforderlich ist.
 
-(2) Stellt die Zentralstelle für Finanztransaktionsuntersuchungen bei der operativen Analyse fest, dass ein Vermögensgegenstand mit Geldwäsche, mit Terrorismusfinanzierung oder mit einer sonstigen Straftat im Zusammenhang steht, übermittelt sie das Ergebnis ihrer Analyse sowie alle sachdienlichen Informationen unverzüglich an die zuständigen Strafverfolgungsbehörden. Die in Satz 1 genannten Informationen sind außerdem an den Bundesnachrichtendienst zu übermitteln, soweit tatsächliche Anhaltspunkte vorliegen, dass diese Übermittlung für die Erfüllung der Aufgaben des Bundesnachrichtendienstes erforderlich ist. Im Fall von Absatz 1 übermittelt die Zentralstelle für Finanztransaktionsuntersuchungen außerdem dem Bundesamt für Verfassungsschutz zu der zuvor übermittelten Meldung auch das entsprechende Ergebnis ihrer operativen Analyse sowie alle sachdienlichen Informationen.
+(2) Stellt die Zentralstelle für Finanztransaktionsuntersuchungen bei der operativen Analyse fest, dass ein Vermögensgegenstand mit Geldwäsche, mit Terrorismusfinanzierung oder mit einer sonstigen Straftat im Zusammenhang steht, übermittelt sie das Ergebnis ihrer Analyse sowie alle sachdienlichen Informationen unverzüglich an die zuständigen Strafverfolgungsbehörden. Die in Satz 1 genannten Informationen sind außerdem an den Bundesnachrichtendienst zu übermitteln, soweit tatsächliche Anhaltspunkte vorliegen, dass diese Übermittlung für die Erfüllung der Aufgaben des Bundesnachrichtendienstes erforderlich ist. Im Fall von Absatz 1 übermittelt die Zentralstelle für Finanztransaktionsuntersuchungen außerdem dem Bundesamt für Verfassungsschutz zu der zuvor übermittelten Meldung auch das entsprechende Ergebnis ihrer operativen Analyse sowie alle sachdienlichen Informationen. Anstelle der Übermittlung an die zuständigen Strafverfolgungsbehörden nach Satz 1 kann die Zentralstelle für Finanztransaktionsuntersuchungen die Informationen zu sonstigen Straftaten zum automatisierten Datenabruf nach Absatz 4 bereitstellen.
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt von Amts wegen oder auf Ersuchen Daten aus Finanzinformationen und Finanzanalysen, auch soweit sie personenbezogene Daten enthalten, an die Strafverfolgungsbehörden, das Bundesamt für Verfassungsschutz, den Bundesnachrichtendienst oder den Militärischen Abschirmdienst des Bundesministeriums der Verteidigung, soweit dies erforderlich ist für
 
@@ -1742,29 +1780,27 @@ In diesen Fällen schränkt die Zentralstelle für Finanztransaktionsuntersuchun
 
 # § 39 – Errichtungsanordnung
 
-(1) Die Zentralstelle für Finanztransaktionsuntersuchungen erlässt für jede automatisierte Datei mit personenbezogenen Daten, die sie zur Erfüllung ihrer Aufgaben führt, eine Errichtungsanordnung. Die Errichtungsanordnung bedarf der Zustimmung des Bundesministeriums der Finanzen. Vor Erlass einer Errichtungsanordnung ist die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit anzuhören.
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen erlässt für jedes automatisierte Verfahren zur Verarbeitung personenbezogener Daten nach § 29 Absatz 2a, das sie zur Erfüllung ihrer Aufgaben führt, eine Errichtungsanordnung. Die Errichtungsanordnung bedarf der Zustimmung des Bundesministeriums der Finanzen. Vor Erlass einer Errichtungsanordnung ist die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit anzuhören.
 
 (2) In der Errichtungsanordnung sind festzulegen:
 
-1. die Bezeichnung der Datei,
+1. Bezeichnung der verantwortlichen Stelle,
 
-2. die Rechtsgrundlage und Zweck der Verarbeitung,
+2. Rechtsgrundlage und Zweck der Verarbeitung,
 
-3. der Personenkreis, über den Daten gespeichert werden,
+3. Personenkreis, über den Daten gespeichert werden,
 
-4. die Art der zu speichernden personenbezogenen Daten,
+4. Arten der zu speichernden personenbezogenen Daten,
 
-5. die Arten der personenbezogenen Daten, die der Erschließung der Datei dienen,
+5. Arten der personenbezogenen Daten, die der Erschließung der Sammlung dienen,
 
-6. die Anlieferung oder Eingabe der zu speichernden Daten,
+6. Anlieferung oder Eingabe der zu speichernden Daten,
 
-7. die Voraussetzungen, unter denen in der Datei gespeicherte personenbezogene Daten an welche Empfänger und in welchem Verfahren übermittelt werden,
+7. Voraussetzungen, unter denen gespeicherte personenbezogene Daten an welche Empfänger und in welchen Verfahren übermittelt werden,
 
-8. die Fristen für die Überprüfung der gespeicherten Daten und die Dauer der Speicherung,
+8. Prüffristen und Speicherungsdauer sowie
 
-9. die Protokollierung.
-
-Die Fristen für die Überprüfung der gespeicherten Daten dürfen fünf Jahre nicht überschreiten. Diese richten sich nach dem Zweck der Speicherung sowie nach Art und Bedeutung des Sachverhalts, wobei nach dem Zweck der Speicherung sowie nach Art und Bedeutung des Sachverhalts zu unterscheiden ist.
+9. Protokollierung.
 
 (3) Ist im Hinblick auf die Dringlichkeit der Aufgabenerfüllung der Zentralstelle für Finanztransaktionsuntersuchungen eine Mitwirkung der in Absatz 1 genannten Stellen nicht möglich, so kann die Generalzolldirektion eine Sofortanordnung treffen. Gleichzeitig unterrichtet die Generalzolldirektion das Bundesministerium der Finanzen und legt ihm die Sofortanordnung vor. Das Verfahren nach Absatz 1 ist unverzüglich nachzuholen.
 
@@ -1806,11 +1842,13 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 (6) Gegen Maßnahmen nach Absatz 1 kann der Verpflichtete oder ein anderer Beschwerter Widerspruch erheben. Der Widerspruch hat keine aufschiebende Wirkung.
 
-# § 41 – Rückmeldung an den meldenden Verpflichteten
+# § 41 – Rückmeldung an Verpflichtete und Behörden
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen bestätigt dem Verpflichteten, der eine Meldung nach § 43 Absatz 1 durch elektronische Datenübermittlung abgegeben hat, unverzüglich den Eingang seiner Meldung.
 
 (2) Die Zentralstelle für Finanztransaktionsuntersuchungen gibt dem Verpflichteten in angemessener Zeit Rückmeldung zur Relevanz seiner Meldung. Der Verpflichtete darf hierdurch erlangte personenbezogene Daten nur zur Verbesserung seines Risikomanagements, der Erfüllung seiner Sorgfaltspflichten und seines Meldeverhaltens nutzen. Er hat diese Daten zu löschen, wenn sie für den jeweiligen Zweck nicht mehr erforderlich sind, spätestens jedoch nach einem Jahr.
+
+(3) Die Absätze 1 und 2 Satz 1 gelten auch im Falle des § 44 dieses Gesetzes und des § 31b Absatz 2 der Abgabenordnung.
 
 # § 42 – Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen
 
@@ -1830,7 +1868,7 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 3. der Vertragspartner seine Pflicht nach § 11 Absatz 6 Satz 3, gegenüber dem Verpflichteten offenzulegen, ob er die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich Berechtigten begründen, fortsetzen oder durchführen will, nicht erfüllt hat,
 
-so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen Vermögensgegenstandes oder der Transaktionshöhe unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen zu melden.
+so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen Vermögensgegenstandes oder der Transaktionshöhe unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen zu melden. Gibt der Verpflichtete zusätzlich zu der Meldung eines nach Satz 1 meldepflichtigen Sachverhalts auch eine Strafanzeige oder einen Strafantrag ab, so teilt er dies der Zentralstelle für Finanztransaktionsuntersuchungen mit Abgabe der Meldung mit.
 
 (2) Abweichend von Absatz 1 sind Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 nicht zur Meldung verpflichtet, wenn sich der meldepflichtige Sachverhalt auf Informationen bezieht, die sie im Rahmen von Tätigkeiten der Rechtsberatung oder Prozessvertretung erhalten haben. Die Meldepflicht bleibt jedoch bestehen, wenn der Verpflichtete weiß, dass der Vertragspartner die Rechtsberatung oder Prozessvertretung für den Zweck der Geldwäsche, der Terrorismusfinanzierung oder einer anderen Straftat genutzt hat oder nutzt, oder ein Fall des Absatzes 6 vorliegt.
 
@@ -1842,7 +1880,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 (4) Wenn ein nach Absatz 1 gegenüber der Zentralstelle für Finanztransaktionsuntersuchungen gemeldeter Sachverhalt zugleich die für eine Anzeige nach § 261 Absatz 8 des Strafgesetzbuches erforderlichen Angaben enthält, gilt die Meldung zugleich als Selbstanzeige im Sinne von § 261 Absatz 8 des Strafgesetzbuches. Die Pflicht zur Meldung nach Absatz 1 schließt die Freiwilligkeit der Anzeige nach § 261 Absatz 8 des Strafgesetzbuches nicht aus.
 
-(5) Die Zentralstelle für Finanztransaktionsuntersuchungen kann im Benehmen mit den Aufsichtsbehörden typisierte Transaktionen bestimmen, die stets nach Absatz 1 zu melden sind.
+(5) Die Zentralstelle für Finanztransaktionsuntersuchungen kann im Benehmen mit Aufsichtsbehörden typisierte Transaktionen bestimmen, die stets nach Absatz 1 zu melden sind. Sie kann im Benehmen mit Strafverfolgungsbehörden, Aufsichtsbehörden und sonstigen Behörden nach diesem Gesetz auch typisierte Transaktionen bestimmen, die nicht von der Meldepflicht nach Absatz 1 erfasst sind. § 30 Absatz 2 Satz 9 gilt entsprechend.
 
 (6) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates Sachverhalte bei Erwerbsvorgängen nach § 1 des Grunderwerbsteuergesetzes bestimmen, die von Verpflichteten nach § 2 Absatz 1 Nummer 10 und 12 stets nach Absatz 1 zu melden sind.
 
@@ -1875,7 +1913,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 2. der dritte Werktag nach dem Abgangstag der Meldung verstrichen ist, ohne dass die Durchführung der Transaktion durch die Zentralstelle für Finanztransaktionsuntersuchungen oder die Staatsanwaltschaft untersagt worden ist.
 
-Für die Berechnung der Frist gilt der Samstag nicht als Werktag.
+Für die Berechnung der Frist gilt der Samstag nicht als Werktag. Die Zentralstelle für Finanztransaktionsuntersuchungen bestimmt im Benehmen mit Vertretern der Strafverfolgungsbehörden Kriterien, bei deren Vorliegen sie einen Sachverhalt grundsätzlich innerhalb der Frist nach Satz 1 Nummer 2 analysiert. Hierbei können solche Sachverhalte bestimmt werden, die bereits vor Ablauf der Frist nach Satz 1 Nummer 2 mit vereinfachter Analyse an die zuständigen Strafverfolgungsbehörden übermittelt werden. § 30 Absatz 2 Satz 9 gilt entsprechend.
 
 (2) Ist ein Aufschub der Transaktion, bei der Tatsachen vorliegen, die auf einen Sachverhalt nach § 43 Absatz 1 hindeuten, nicht möglich oder könnte durch den Aufschub die Verfolgung einer mutmaßlichen strafbaren Handlung behindert werden, so darf die Transaktion durchgeführt werden. Die Meldung nach § 43 Absatz 1 ist vom Verpflichteten unverzüglich nachzuholen.
 
@@ -2491,9 +2529,9 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (5) Ist am 25. Juni 2015 ein Gerichtsverfahren betreffend die Verhinderung, Aufdeckung, Ermittlung oder Verfolgung von mutmaßlicher Geldwäsche oder Terrorismusfinanzierung anhängig gewesen und besitzt ein Verpflichteter Informationen oder Unterlagen im Zusammenhang mit diesem anhängigen Verfahren, so darf der Verpflichtete diese Informationen oder Unterlagen bis zum 25. Juni 2020 aufbewahren.
 
-(6) Die Pflicht zur Registrierung nach § 45 Absatz 1 Satz 2 besteht mit Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen, spätestens jedoch ab dem 1. Januar 2024. Das Bundesministerium der Finanzen gibt den Tag der Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen im Bundesgesetzblatt bekannt.
+(6) Die Pflicht zur Registrierung nach § 45 Absatz 1 Satz 2 besteht mit Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen, spätestens jedoch ab dem 1. Januar 2024. Das Bundesministerium der Finanzen gibt den Tag der Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen im Bundesgesetzblatt bekannt. Für Güterhändler, die nicht mit Kunst, Schmuck, Uhren, Edelmetall, Edelsteinen, Kraftfahrzeugen, Schiffen, Motorbooten oder Luftfahrzeugen handeln, besteht die Pflicht zur Registrierung spätestens ab dem 1. Januar 2027. Die Registrierungspflicht gilt nicht für Annahmestellen, die nach Maßgabe des § 29 Absatz 6 des Glücksspielstaatsvertrages 2021 Sportwetten vermitteln.
 
-(7) Bis zur technischen Umsetzung des Verfahrens nach § 31 Absatz 6, längstens jedoch bis zum 31. Dezember 2023, darf die Zentralstelle für Finanztransaktionsuntersuchungen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen (§ 93 Absatz 8 der Abgabenordnung). Bei einem Ersuchen nach Satz 1 gilt § 93 Absatz 8a bis 10 der Abgabenordnung entsprechend. Das Bundeszentralamt übermittelt der Zentralstelle für Finanztransaktionsuntersuchungen in Beantwortung des Ersuchens nur solche Daten, die die Zentralstelle nach § 31 Absatz 6 abrufen darf.
+(7) Bis zur technischen Umsetzung des Verfahrens nach § 31 Absatz 6, längstens jedoch bis zum 31. Dezember 2027, darf die Zentralstelle für Finanztransaktionsuntersuchungen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen (§ 93 Absatz 8 der Abgabenordnung). Bei einem Ersuchen nach Satz 1 gilt § 93 Absatz 8a bis 10 der Abgabenordnung entsprechend. Das Bundeszentralamt übermittelt der Zentralstelle für Finanztransaktionsuntersuchungen in Beantwortung des Ersuchens nur solche Daten, die die Zentralstelle nach § 31 Absatz 6 abrufen darf.
 
 (8) Juristische Personen des Privatrechts und eingetragene Personengesellschaften nach § 20 Absatz 1, deren Pflicht zur Mitteilung an das Transparenzregister am 31. Juli 2021 nach der bis einschließlich zum 31. Juli 2021 geltenden Fassung des § 20 Absatz 2 als erfüllt galt, haben die in § 19 Absatz 1 aufgeführten Angaben,
 
@@ -2522,6 +2560,8 @@ der registerführenden Stelle zur Eintragung in das Transparenzregister mitzutei
 (13) Soweit Vereinigungen mit Sitz im Ausland von der Pflicht des § 20 Absatz 1 Satz 2 erfasst sind, weil sie seit einem Zeitpunkt vor dem 1. Januar 2020 Eigentum an einer im Inland gelegenen Immobilie halten oder weil sich seit einem Zeitpunkt vor dem 1. August 2021 Anteile im Sinne des § 1 Absatz 3 des Grunderwerbsteuergesetzes bei ihr vereinigen oder sie seit einem Zeitpunkt vor dem 1. August 2021 im Sinne des § 1 Absatz 3a des Grunderwerbsteuergesetzes aufgrund eines Rechtsvorgangs eine wirtschaftliche Beteiligung innehaben, sind die in § 19 Absatz 1 aufgeführten Angaben bis zum 30. Juni 2023 der registerführenden Stelle zur Eintragung in das Transparenzregister mitzuteilen.
 
 (14) § 23 Absatz 1 Satz 3 und § 23a Absatz 5 Satz 2 findet nur auf solche Eigentums- und Kontrollstrukturübersichten Anwendung, bei denen die Prüfung der Unstimmigkeitsmeldung nach dem 30. Juni 2023 abgeschlossen wurde. Die Übermittlung von Eigentums- und Kontrollübersichten aufgrund von Einzelanfragen einer Behörde außerhalb des Einsichtnahmeverfahrens bleibt unberührt.
+
+(15) Informationen können erstmalig nach § 32 Absatz 2 Satz 4 zum automatisierten Datenabruf bereitgestellt werden, sobald das Verfahren zum automatisierten Datenabruf es ermöglicht, dass die Zentralstelle für Finanztransaktionsuntersuchungen Informationen spezifisch für den Abruf durch eine oder mehrere Strafverfolgungsbehörden kennzeichnet. Ab diesem Zeitpunkt werden für die Dauer von zwei Jahren die Informationen für Strafverfolgungsbehörden, die am automatisierten Abruf nach § 32 Absatz 4 teilnehmen, anstelle einer Übermittlung nur automatisiert bereitgestellt. Nach Ablauf dieser Frist kann die Zentralstelle für Finanztransaktionsuntersuchungen gegenüber allen Strafverfolgungsbehörden von einer Übermittlung absehen, wenn eine Evaluierung des Bundesministeriums der Finanzen im Einvernehmen mit dem Bundesministerium des Innern und für Heimat und dem Bundesministerium der Justiz ergibt, dass sich eine Bereitstellung zum automatisierten Abruf anstelle der Übermittlung in der Praxis bewährt hat.
 
 # Anlage 1 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko
 
