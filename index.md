@@ -1752,6 +1752,7 @@
 - [EndlagerVlV](laws/EndlagerVlV.md) Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
 - [EndlSiAnfV](laws/EndlSiAnfV.md) Verordnung über Sicherheitsanforderungen an die Endlagerung hochradioaktiver Abfälle
 - [EndlSiUntV](laws/EndlSiUntV.md) Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle
+- [EnEfG](laws/EnEfG.md) Gesetz zur Steigerung der Energieeffizienz in Deutschland 1
 - [EnergieStG](laws/EnergieStG.md) Energiesteuergesetz
 - [EnergieStG§28Abs2Bek](laws/EnergieStG§28Abs2Bek.md) Bekanntmachung nach § 28 Absatz 2 des Energiesteuergesetzes
 - [EnergieStV](laws/EnergieStV.md) Verordnung zur Durchführung des Energiesteuergesetzes
@@ -4808,6 +4809,7 @@
 - [RVBeitrSBek 2021](laws/RVBeitrSBek_2021.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2021
 - [RVBeitrSBek 2022](laws/RVBeitrSBek_2022.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2022
 - [RVBeitrSBek 2023](laws/RVBeitrSBek_2023.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2023
+- [RVBeitrSBek 2024](laws/RVBeitrSBek_2024.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2024
 - [RVBund/KnErG](laws/RVBund_KnErG.md) Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 - [RVBundDiszRAnO](laws/RVBundDiszRAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
 - [RVChilAbkG](laws/RVChilAbkG.md) Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
