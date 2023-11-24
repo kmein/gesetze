@@ -73,7 +73,8 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 # Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4393 - 4454)
+(Fundstelle: BGBl. I 2021, 4393 - 4454;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
