@@ -25,7 +25,7 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 6. nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung, dem Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Steuerberatungsgesetz,
 
-7. nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz, dem Mautsystemgesetz und dem Infrastrukturabgabengesetz sowie
+7. nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz und dem Mautsystemgesetz sowie
 
 8. der Ermöglichung des Befahrens von Bundeswasserstraßen mit Wasserfahrzeugen.
 

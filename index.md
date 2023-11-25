@@ -216,6 +216,7 @@
 - [AnwZpvV](laws/AnwZpvV.md) Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
 - [AnzV](laws/AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz
 - [AO](laws/AO.md) Abgabenordnung
+- [AO1977§139bAbs13Bek](laws/AO1977§139bAbs13Bek.md) Bekanntmachung nach § 139b Absatz 13 Satz 1 und 2 der Abgabenordnung
 - [APASGebV](laws/APASGebV.md) Verordnung über Gebühren der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle
 - [APAstErG](laws/APAstErG.md) Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle
 - [ApBetrO](laws/ApBetrO.md) Verordnung über den Betrieb von Apotheken
