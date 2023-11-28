@@ -1498,6 +1498,8 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen kann unabhängig vom Vorliegen einer Meldung Informationen von Verpflichteten einholen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Zur Beantwortung ihres Auskunftsverlangens gewährt sie dem Verpflichteten eine angemessene Frist. Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 können die Auskunft verweigern, soweit sich das Auskunftsverlangen auf Informationen bezieht, die sie im Rahmen der Rechtsberatung oder der Prozessvertretung des Vertragspartners erhalten haben. Die Auskunftspflicht bleibt jedoch bestehen, wenn der Verpflichtete weiß, dass der Vertragspartner die Rechtsberatung für den Zweck der Geldwäsche oder der Terrorismusfinanzierung in Anspruch genommen hat oder nimmt.
 
+(+++ § 30 Abs. 2 Satz 9: Zur Geltung vgl. § 43 Abs. 5 Satz 3 u. § 46 Abs. 1 Satz 5 +++)
+
 # § 31 – Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben; zu den inländischen öffentlichen Stellen zählt auch die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine in diesem oder in anderen Gesetzen geregelten Übermittlungsbeschränkungen entgegenstehen.
