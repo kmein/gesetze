@@ -2883,7 +2883,6 @@
 - [InfoElekAusbV](laws/InfoElekAusbV.md) Verordnung über die Berufsausbildung zum Informationselektroniker und zur Informationselektronikerin*
 - [InfoGesStatG](laws/InfoGesStatG.md) Gesetz über die Statistik zur Informationsgesellschaft
 - [InformationsTechMstrV](laws/InformationsTechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Informationstechniker-Handwerk
-- [InfrAG](laws/InfrAG.md) Gesetz über die Erhebung einer zeitbezogenen Infrastrukturabgabe für die Benutzung von Bundesfernstraßen
 - [InfrGG](laws/InfrGG.md) Gesetz zur Errichtung einer Infrastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen
 - [InfrGGBV](laws/InfrGGBV.md) Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes
 - [InhKontrollV](laws/InhKontrollV.md) Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 17 des Versicherungsaufsichtsgesetzes *)

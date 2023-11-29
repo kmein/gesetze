@@ -1676,7 +1676,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen si
 
 6. für Maßnahmen zur Durchführung des Altfahrzeugrechts,
 
-7. für Maßnahmen zur Durchführung des Infrastrukturabgabenrechts,
+7. (weggefallen)
 
 8. für Maßnahmen zur Durchführung der Datenverarbeitung bei Kraftfahrzeugen mit hoch-oder vollautomatisierter Fahrfunktion nach diesem Gesetz oder nach den auf diesem Gesetz beruhenden Rechtsvorschriften und
 

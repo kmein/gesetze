@@ -7,7 +7,7 @@
 
 (2) Dem Kraftfahrt-Bundesamt sind Landesbehörden und Prüfstellen nicht unterstellt.
 
-(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Verkehr und digitale Infrastruktur. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
+(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Digitales und Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
 # § 2
 
@@ -52,7 +52,7 @@ c) des Zentralen Fahrerlaubnisregisters nach Abschnitt VI des Straßenverkehrsge
 
 d) des Zentralen Fahrtenschreiberkartenregisters nach der Rechtsverordnung zu § 2 Nr. 4 des Fahrpersonalgesetzes,
 
-e) des Infrastrukturabgaberegisters nach § 6 Absatz 1 Satz 1 des Infrastrukturabgabengesetzes,
+e) (weggefallen)
 
 f) des Berufskraftfahrerqualifikationsregisters nach § 12 des Berufskraftfahrerqualifikationsgesetzes,
 
@@ -96,9 +96,7 @@ typgenehmigt worden sind, auf der Grundlage der Verordnung (EU) 2016/1628 und de
 
 9. die Aufgaben der deutschen Zertifizierungsstelle nach fahrpersonalrechtlichen Vorschriften,
 
-10. die Personalisierung und Lieferung oder die Ausschreibung der Personalisierung und Lieferung der zum Betrieb des Fahrtenschreibers erforderlichen Fahrtenschreiberkarten nach fahrpersonalrechtlichen Vorschriften,
-
-11. die Erhebung und Vollstreckung der Infrastrukturabgabe nach dem Infrastrukturabgabengesetz.
+10. die Personalisierung und Lieferung oder die Ausschreibung der Personalisierung und Lieferung der zum Betrieb des Fahrtenschreibers erforderlichen Fahrtenschreiberkarten nach fahrpersonalrechtlichen Vorschriften.
 
 (2) Die Aufgaben, die dem Kraftfahrt-Bundesamt durch andere Vorschriften zugewiesen werden, bleiben unberührt.
 
