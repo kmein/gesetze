@@ -13,9 +13,9 @@ Die Verordnung regelt die Voraussetzungen, bei deren Erfüllen bestimmte Fahrzeu
 
 (1) Der Verkehr mit Fahrzeugen und Fahrzeugkombinationen mit Überlänge ist ausschließlich auf den in der Anlage festgelegten Strecken nach Maßgabe der folgenden Vorschriften zulässig.
 
-(2) Abweichend von Absatz 1 dürfen in § 3 Satz 1 Nummer 1 bezeichnete Sattelkraftfahrzeuge in den Ländern Baden-Württemberg, Bayern, Brandenburg, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen das gesamte Streckennetz der jeweiligen Länder nutzen.
+(2) Abweichend von Absatz 1 dürfen in § 3 Satz 1 Nummer 1 bezeichnete Sattelkraftfahrzeuge das gesamte Streckennetz aller Länder – ausgenommen das Streckennetz des Landes Berlin – nutzen.
 
-(+++ § 2 Abs. 2: Zur Anwendung vgl. § 13 Abs. 1 Nr. 1 +++)
+(+++ § 2 Abs. 2: Zur Anwendung vgl. § 13 Abs. 1 +++)
 
 # § 3 – Fahrzeuge
 
@@ -141,7 +141,7 @@ Kommt es beim Verkehr mit Fahrzeugen mit Überlänge im Sinne des § 3 Satz 1 Nu
 
 # § 13 – Übergangs- und Anwendungsbestimmungen
 
-(1) Mit Ablauf des 31. Dezember 2023 sind nicht mehr anzuwenden:
+(1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
 1. § 2 Absatz 2,
 
