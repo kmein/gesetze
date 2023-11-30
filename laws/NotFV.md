@@ -25,7 +25,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (3) Sobald die Mitglieder benannt sind, tritt der Verwaltungsrat zu seiner konstituierenden Sitzung zusammen und überträgt einem seiner Mitglieder den Vorsitz. Der Vorsitz hat die Aufgabe, den Verwaltungsrat einzuberufen und die Sitzungen zu leiten.
 
-(4) Der Verwaltungsrat fasst seine Beschlüsse mit der Mehrheit der Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
+(4) Der Verwaltungsrat fasst seine Beschlüsse mit der Mehrheit der Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung außerhalb von Sitzungen sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
 
 # § 3 – Aufgabenkommission
 
@@ -113,7 +113,7 @@ Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstriche
 
 # § 11 – Anfertigung der Aufsichtsarbeiten
 
-(1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche an den Wochentagen Montag, Dienstag, Donnerstag und Freitag anzufertigen. An allen Prüfungsorten werden je Prüfungstermin dieselben Prüfungsaufgaben zur selben Zeit bearbeitet.
+(1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche anzufertigen. An allen Prüfungsorten werden je Prüfungstermin dieselben Prüfungsaufgaben zur selben Zeit bearbeitet.
 
 (2) Vor Beginn der Anfertigung der Aufsichtsarbeiten haben sich die Prüflinge an jedem Tag der Prüfung gegenüber der Aufsichtsperson durch gültigen Bundespersonalausweis oder Reisepass auszuweisen. Ferner haben sich die Prüflinge in eine von der Aufsichtsperson bereitgestellte Anwesenheitsliste einzutragen.
 
