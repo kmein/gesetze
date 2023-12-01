@@ -5203,10 +5203,6 @@ Das Gericht, bei dem Gemeinden, Korporationen, Gesellschaften, Genossenschaften 
 
 Für Klagen wegen vermögensrechtlicher Ansprüche gegen eine Person, die im Inland keinen Wohnsitz hat, ist das Gericht zuständig, in dessen Bezirk sich Vermögen derselben oder der mit der Klage in Anspruch genommene Gegenstand befindet. Bei Forderungen gilt als der Ort, wo das Vermögen sich befindet, der Wohnsitz des Schuldners und, wenn für die Forderungen eine Sache zur Sicherheit haftet, auch der Ort, wo die Sache sich befindet.
 
-# § 23a – (weggefallen)
-
-\-
-
 # § 24 – Ausschließlicher dinglicher Gerichtsstand
 
 (1) Für Klagen, durch die das Eigentum, eine dingliche Belastung oder die Freiheit von einer solchen geltend gemacht wird, für Grenzscheidungs-, Teilungs- und Besitzklagen ist, sofern es sich um unbewegliche Sachen handelt, das Gericht ausschließlich zuständig, in dessen Bezirk die Sache belegen ist.
@@ -5306,10 +5302,6 @@ Für Klagen der Prozessbevollmächtigten, der Beistände, der Zustellungsbevollm
 # § 35 – Wahl unter mehreren Gerichtsständen
 
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
-
-# § 35a – (weggefallen)
-
-\-
 
 # § 36 – Gerichtliche Bestimmung der Zuständigkeit
 
@@ -5460,10 +5452,6 @@ Eine Person ist insoweit prozessfähig, als sie sich durch Verträge verpflichte
 (1) Bei Personen, für die ein Betreuer bestellt ist, richtet sich die Prozessfähigkeit nach den allgemeinen Vorschriften.
 
 (2) Wird ein Betreuter in einem Rechtsstreit durch einen Betreuer vertreten, kann der Betreuer in jeder Lage des Verfahrens gegenüber dem Prozessgericht schriftlich oder zu Protokoll der Geschäftsstelle erklären, dass der Rechtsstreit fortan ausschließlich durch ihn geführt wird (Ausschließlichkeitserklärung). Mit Eingang der Ausschließlichkeitserklärung steht der Betreute für den weiteren Rechtsstreit einer nicht prozessfähigen Person gleich. Der Betreuer kann die Ausschließlichkeitserklärung jederzeit mit Wirkung für die Zukunft zurücknehmen.
-
-# § 53a – (weggefallen)
-
-\-
 
 # § 54 – Besondere Ermächtigung zu Prozesshandlungen
 
@@ -5746,14 +5734,6 @@ Hat der Beklagte nicht durch sein Verhalten zur Erhebung der Klage Veranlassung 
 (2) Wird eine Klage auf Räumung von Wohnraum mit Rücksicht darauf abgewiesen, dass auf Verlangen des Beklagten die Fortsetzung des Mietverhältnisses auf Grund der §§ 574 bis 574b des Bürgerlichen Gesetzbuchs bestimmt wird, so kann das Gericht die Kosten ganz oder teilweise dem Beklagten auferlegen, wenn er auf Verlangen des Klägers nicht unverzüglich über die Gründe des Widerspruchs Auskunft erteilt hat. Dies gilt in einem Rechtsstreit wegen Fortsetzung des Mietverhältnisses entsprechend, wenn der Klage stattgegeben wird.
 
 (3) Erkennt der Beklagte den Anspruch auf Räumung von Wohnraum sofort an, wird ihm jedoch eine Räumungsfrist bewilligt, so kann das Gericht die Kosten ganz oder teilweise dem Kläger auferlegen, wenn der Beklagte bereits vor Erhebung der Klage unter Angabe von Gründen die Fortsetzung des Mietverhältnisses oder eine den Umständen nach angemessene Räumungsfrist vom Kläger vergeblich begehrt hatte.
-
-# § 93c – (weggefallen)
-
-\-
-
-# § 93d – (weggefallen)
-
-\-
 
 # § 94 – Kosten bei übergegangenem Anspruch
 
@@ -6055,10 +6035,6 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 (3) Gegen die Bewilligung der Prozesskostenhilfe findet die sofortige Beschwerde der Staatskasse statt, wenn weder Monatsraten noch aus dem Vermögen zu zahlende Beträge festgesetzt worden sind. Die Beschwerde kann nur darauf gestützt werden, dass die Partei gemäß § 115 Absatz 1 bis 3 nach ihren persönlichen und wirtschaftlichen Verhältnissen Zahlungen zu leisten oder gemäß § 116 Satz 3 Beträge zu zahlen hat. Die Notfrist beträgt einen Monat und beginnt mit der Bekanntgabe des Beschlusses. Nach Ablauf von drei Monaten seit der Verkündung der Entscheidung ist die Beschwerde unstatthaft. Wird die Entscheidung nicht verkündet, so tritt an die Stelle der Verkündung der Zeitpunkt, in dem die unterschriebene Entscheidung der Geschäftsstelle übermittelt wird. Die Entscheidung wird der Staatskasse nicht von Amts wegen mitgeteilt.
 
 (4) Die Kosten des Beschwerdeverfahrens werden nicht erstattet.
-
-# § 127a – (weggefallen)
-
-\-
 
 # § 128 – Grundsatz der Mündlichkeit; schriftliches Verfahren
 
@@ -12086,10 +12062,6 @@ Die nach den §§ 887 bis 890 zu erlassenden Entscheidungen ergehen durch Beschl
 # § 892 – Widerstand des Schuldners
 
 Leistet der Schuldner Widerstand gegen die Vornahme einer Handlung, die er nach den Vorschriften der §§ 887, 890 zu dulden hat, so kann der Gläubiger zur Beseitigung des Widerstandes einen Gerichtsvollzieher zuziehen, der nach den Vorschriften des § 758 Abs. 3 und des § 759 zu verfahren hat.
-
-# § 892a – (weggefallen)
-
-\-
 
 # § 893 – Klage auf Leistung des Interesses
 

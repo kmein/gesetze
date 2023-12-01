@@ -125,6 +125,10 @@ Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze
 
 Anordnungen, Erlaubnisse und Genehmigungen
 
+§ 1.26
+
+Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug
+
  
 
  
@@ -944,11 +948,11 @@ Duisburg-Ruhrort
 
 § 14.11
 
-(ohne Inhalt)
+Übernachtungshäfen Boven-Rijn, Waal und Lek
 
 § 14.12
 
-(weggefallen)
+Schutz- und Sicherheitshafen Emmerich
 
 § 14.13
 
@@ -1507,6 +1511,20 @@ Diese Verordnung gilt auch auf den Wasserflächen, die Teile von Häfen, Lade- u
 # § 1.25 – Anordnungen, Erlaubnisse und Genehmigungen
 
 Anordnungen, Erlaubnisse und Genehmigungen können von der zuständigen Behörde mit Auflagen und Bedingungen versehen werden.
+
+# § 1.26 – Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug
+
+1. Zu Versuchszwecken und für einen begrenzten Zeitraum kann die zuständige Behörde aufgrund einer Empfehlung der Zentralkommission für die Rheinschifffahrt für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug Abweichungen von dieser Verordnung erlauben.
+
+2. Die Empfehlung legt Mindestanforderungen fest, die gewährleisten, dass das Fahrzeug
+
+a) die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt und
+
+b) über ein den anderen auf dem Rhein verkehrenden Fahrzeugen gleichwertiges Sicherheitsniveau verfügt.
+
+Die zuständige Behörde kann ihre Erlaubnis mit zusätzlichen Anforderungen versehen.
+
+3. Die zuständige Behörde trägt die Abweichungen nach Nummer 1 und die Anforderungen nach Nummer 2 in das Schiffsattest des betroffenen Fahrzeugs oder das nach der Rheinschiffsuntersuchungsordnung als gleichwertig anerkannte Zeugnis ein.
 
 # § 2.01 – Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
 
@@ -3889,7 +3907,7 @@ nicht überschreiten.
 
 4. Ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110 m darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen des Artikels 28.04 Nummer 2 ES-TRIN erfüllt. Ein Fahrgastschiff mit einer Länge über 110 m darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen des Artikels 28.04 Nummer 3 ES-TRIN erfüllt. Die von den für den jeweiligen Stromabschnitt zwischen Basel und Mannheim zuständigen Behörden erteilten und am 30. September 2001 gültigen Sondererlaubnisse für Fahrzeuge über 110 m bis 135 m Länge bleiben mit den aus Sicherheitsgründen erteilten notwendigen Auflagen auf dem jeweiligen Stromabschnitt weiterhin gültig.
 
-5. Ein Fahrgastschiff darf unterhalb von Emmerich (km 885) nur fahren, wenn es die Anforderungen des Artikels 13.01 Nummer 2 Buchstabe b ES-TRIN erfüllt.
+5. Ein Fahrgastschiff darf unterhalb von Emmerich (km 855) nur fahren, wenn es die Anforderungen des Artikels 13.01 Nummer 2 Buchstabe b ES-TRIN erfüllt.
 
 # § 11.02 – Höchstabmessungen der Schubverbände und der gekuppelten Fahrzeuge
 
@@ -3976,7 +3994,7 @@ p) Entladehafen.
 
 a) von Basel (Mittlere Rheinbrücke km 166,53) bis Gorinchem (km 952,50) und
 
-b) von Pannerden (km 876,50) bis Krimpen am Lek (km 989,20).
+b) Pannerden (km 867,50) bis Krimpen am Lek (km 989,20).
 
 4. Unterbricht ein Fahrzeug in einer der unter Nummer 3 genannten Strecken die Fahrt für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung auf elektronischem Wege melden.
 
@@ -4486,11 +4504,11 @@ b) am rechten Ufer
 
 Liegestelle "Unterhalb der Baerler Brücke" von km 786,20 bis km 786,60.
 
-# § 14.11 – Übernachtungshäfen Boven-Rijn und Waal
+# § 14.11 – Übernachtungshäfen Boven-Rijn, Waal und Lek
 
-1. In den Übernachtungshäfen Lobith (km 863,40), Ijzendoorn (km 907,80) und Haaften (km 936,00) ist es ohne Erlaubnis der zuständigen Behörde verboten:
+1. In den Übernachtungshäfen Spijk (km 859,80), Lobith (km 863,40), IJzendoorn (km 907,80), Haaften (km 936,00) und Bergambacht (km 976,90) ist es ohne Erlaubnis der zuständigen Behörde verboten:
 
-a) Fahrzeuge zu beladen oder zu entladen;
+a) Fahrzeuge zu beladen oder zu entladen und außerdem in Bergambacht zu bunkern;
 
 b) Güter oder andere Gegenstände am Ufer oder auf einer Landebrücke abzustellen;
 
@@ -4500,23 +4518,41 @@ d) Fahrgäste an Bord zu nehmen oder an Land zu setzen;
 
 e) mit Schwimmkörpern oder schwimmenden Anlagen einzufahren;
 
-f) mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3 führen müssen;
+f) mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nummer 2 oder 3 führen müssen;
 
-g) länger als drei Tage hintereinander stillzuliegen;
+g) länger als für 3 x 24 aufeinanderfolgende Stunden an den öffentlichen Liegeplätzen stillzuliegen;
 
-h) innerhalb von zwölf Stunden, nachdem die unter g genannte Periode beendet ist, wieder stillzuliegen;
+h) innerhalb von zwölf Stunden nach dem Verlassen des Hafens erneut in demselben Übernachtungshafen stillzuliegen;
 
 i) mit dem Hinterschiff am Ufer anzulegen;
 
-j) mit Verbänden mit einer Länge von mehr als 135 m an den Landebrücken anzulegen.
+j) mit Verbänden mit einer Länge von mehr als 135 m an den Landebrücken und in Bergambacht an den Anlegestellenanzulegen.
 
-2. Der Schiffsführer muss die Wahl des Liegeplatzes in den Übernachtungshäfen sowie die Abfahrt aus diesen unverzüglich den Verkehrsposten Nijmegen (Übernachtungshafen Lobith) oder Tiel (Übernachtungshafen Ijzendoorn und Haaften) mitteilen.
+2. Abweichend von Nummer 1 Buchstabe f dürfen im Übernachtungshafen Spijk Schiffe einfahren, die eine Bezeichnung nach§ 3.14 Nummer 2 führen müssen.
 
-3. Die zuständige Behörde kann Anordnungen erteilen, die diesen Paragrafen ergänzen oder von ihm abweichen.
+3. Abweichend von Nummer 1 Buchstabe i darf im Übernachtungshafen Spijk an der Landebrücke 10 mit dem Hinterschiff am Ufer angelegt werden.
 
-# § 14.12 – (weggefallen)
+4. Abweichend von Nummer 1 Buchstabe j darf im Übernachtungshafen Spijk an der Landebrücke 10 mit Verbänden mit einer Länge von mehr als 135 m angelegt werden.
 
-\-
+5. Der Schiffsführer muss die Wahl des Liegeplatzes in den Übernachtungshäfen sowie die Abfahrt aus diesen unverzüglich den Verkehrsposten Nijmegen (Übernachtungshäfen Spijk und Lobith), Tiel (Übernachtungshäfen IJzendoorn und Haaften) oder Dordrecht (Übernachtungshafen Bergambacht) mitteilen.
+
+6. Die zuständige Behörde kann Anordnungen erteilen, die diesen Paragraphen ergänzen oder von ihm abweichen.
+
+# § 14.12 – Schutz- und Sicherheitshafen Emmerich
+
+1. In dem Schutz- und Sicherheitshafen Emmerich (km 851,78) ist es ohne Erlaubnis der zuständigen Behörde verboten:
+
+a) mit Schwimmkörpern oder schwimmenden Anlagen einzufahren;
+
+b) mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führen müssen;
+
+c) länger als 3 x 24 aufeinanderfolgende Stunden stillzuliegen;
+
+d) innerhalb von zwölf Stunden nach dem Verlassen des Hafens erneut in diesem stillzuliegen;
+
+e) eine Liegestelle mit einem von einem Verband getrennten Leichter zu belegen.
+
+2. Die zuständige Behörde kann Anordnungen erteilen, die diesen Paragraphen ergänzen oder von ihm abweichen.
 
 # § 14.13 – (weggefallen)
 
