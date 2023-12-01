@@ -33,19 +33,29 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 19
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
-(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 
-1. zur Umsetzung einer Anordnung der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
+1. durch Rechtsverordnung
 
-a) in dringenden Fällen oder
+a) zur Umsetzung einer Anordnung der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
 
-b) zu Versuchszwecken oder zur Zulassung einer technischen Neuerung, durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden,
+aa)  
+in dringenden Fällen oder
+
+bb)  
+zu Versuchszwecken oder zur Zulassung einer technischen Neuerung, durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt wird
 
 eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen oder
 
-2. für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu bestimmen.
+b) für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu bestimmen oder
 
-Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann diese durch Verwaltungsakt zugelassen werden.
+2. durch Verwaltungsakt
+
+a) Abweichungen von der Anlage zu erlauben, um eine Empfehlung der Zentralkommission für die Rheinschifffahrt nach § 1.26 Nummer 2 Satz 1, auch in Verbindung mit Satz 2, der Anlage für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug umzusetzen, oder
+
+b) eine Abweichung im Sinne der Nummer 1 Buchstabe a oder eine Ausnahme im Sinne der Nummer 1 Buchstabe b zuzulassen, soweit es dieser nur im Einzelfall bedarf.
+
+Ein Verwaltungsakt nach Satz 1 Nummer 2 kann – auch nachträglich – mit Nebenbestimmungen versehen werden.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 
@@ -389,9 +399,15 @@ zuwiderhandelt,
 
 38c. oberhalb von Mannheim ein Fahrgastschiff mit einer Länge von über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
 
-38d. ein Fahrgastschiff unterhalb von Emmerich (km 885) führt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
+38d. ein Fahrgastschiff unterhalb von Emmerich (km 855) führt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
 
 39. einer Vorschrift des § 14.01 Nr. 2 oder 3, jeweils auch in Verbindung mit Nummer 4, über das Stilliegen auf den Reeden zuwiderhandelt,
+
+39a. entgegen § 14.12 Nummer 1 Buchstabe a oder b in den Schutz- oder Sicherheitshafen Emmerich einfährt,
+
+39b. entgegen § 14.12 Nummer 1 Buchstabe c oder d in dem Schutz- oder Sicherheitshafen Emmerich stillliegt,
+
+39c. entgegen § 14.12 Nummer 1 Buchstabe e eine Liegestelle belegt,
 
 40. entgegen § 15.04 Nummer 1 nicht sicherstellt, dass Schiffsabfälle oder Bilgenwasser in der vorgeschriebenen Weise gesammelt werden, oder Behälter nicht oder nicht in der vorgeschriebenen Weise lagert,
 
@@ -489,7 +505,7 @@ w) das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen Höchsta
 
 10d. die Inbetriebnahme eines Fahrgastschiffs mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
 
-10e. die Inbetriebnahme eines Fahrgastschiffs unterhalb von Emmerich (km 885) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
+10e. die Inbetriebnahme eines Fahrgastschiffs unterhalb von Emmerich (km 855) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
 
 11. anordnet oder zuläßt, daß entgegen § 8.03 Nr. 1 an der Spitze des Schubverbandes Trägerschiffsleichter mitgeführt werden oder die Spitze des Schubverbandes entgegen § 8.03 Nr. 2 mit Ankern nicht versehen ist,
 

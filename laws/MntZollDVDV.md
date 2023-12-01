@@ -19,10 +19,6 @@
 
  
 
- 
-
- 
-
 # § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes.
@@ -41,9 +37,9 @@ Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Über eine Verkürzung o
 
 # § 4 – Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
 
-(1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder von der von ihm bestimmten Behörde als solche bestimmt worden sind. Sie sind für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
+(1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder bei entsprechender Delegation auf die Generalzolldirektion von dieser als solche bestimmt worden sind. Sie sind für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
-(2) Ausbildungsbehörden sind die Hauptzollämter, die vom Bundesministerium der Finanzen oder von der von ihm bestimmten Behörde als solche bestimmt worden sind.
+(2) Ausbildungsbehörden sind die Hauptzollämter, die vom Bundesministerium der Finanzen oder bei entsprechender Delegation auf die Generalzolldirektion von dieser als solche bestimmt worden sind.
 
 (3) Dienstvorgesetzte oder Dienstvorgesetzter der Auszubildenden ist die Leiterin oder der Leiter der Einstellungsbehörde. Daneben unterstehen die Auszubildenden auch der Dienstaufsicht der Leiterin oder des Leiters der Ausbildungsbehörde, in deren oder dessen Zuständigkeitsbereich sie sich zum jeweiligen Abschnitt der Ausbildung befinden.
 
@@ -211,9 +207,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Bei der Bewertung werden neben der fachlichen Leistung die Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen berücksichtigt.
 
-(4) Werden Leistungen von zwei Prüfenden bewertet, wird bei abweichenden Bewertungen das arithmetische Mittel gebildet und auf volle Rangpunkte aufgerundet.
-
-(5) Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Nachkommastellen ohne Auf- und Abrundung berechnet.
+(4) Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Nachkommastellen ohne Auf- und Abrundung berechnet.
 
 # § 7 – Fernbleiben und Rücktritt von Leistungstests und Prüfungen
 
@@ -247,135 +241,183 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gewährt und auf den Vorbereitungsdienst angerechnet.
 
-# § 10 – Zulassung zum Auswahlverfahren
+# § 10 – Zweck des Auswahlverfahrens
 
-(1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Besonders wichtig sind kognitive Fähigkeiten, Teamfähigkeit, Kommunikationsfähigkeit und Leistungsmotivation. Die Einstellungsbehörde kündigt das Auswahlverfahren durch Ausschreibung an.
+(1) Auf Grundlage eines Auswahlverfahrens entscheidet die Einstellungsbehörde über die Einstellung in den Vorbereitungsdienst.
 
-(2) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungsplätze, die der Einstellungsbehörde zur Verfügung stehen, so kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele geeignete Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze zur Verfügung stehen. Im Fall einer Beschränkung wird zugelassen, wer nach den eingereichten Unterlagen, insbesondere nach den Zeugnisnoten, am besten geeignet erscheint. Schwerbehinderte und diesen gleichgestellte behinderte Menschen werden unabhängig von einer Beschränkung zugelassen, wenn sie nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllen.
+(2) In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind. Insbesondere wird festgestellt, ob die Bewerberinnen und Bewerber verfügen über:
 
-(3) Für ehemalige Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein gilt das Verfahren nach § 10 des Soldatenversorgungsgesetzes.
+1. die erforderlichen kognitiven Kompetenzen,
 
-(4) Wer zum Auswahlverfahren nicht zugelassen wird oder erfolglos daran teilgenommen hat, erhält eine Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten; elektronisch übermittelte Bewerbungsunterlagen sind zu löschen.
+2. die erforderlichen sozialen Kompetenzen,
 
-# § 11 – Auswahlkommission
+3. die erforderliche Leistungsmotivation,
 
-(1) Für die Durchführung des Auswahlverfahrens richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. In diesem Fall ist sicherzustellen, dass in allen Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
+4. die erforderliche Kommunikationsfähigkeit und
+
+5. das erforderliche Allgemeinwissen.
+
+# § 11 – Zulassung zum Auswahlverfahren
+
+(1) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
+
+(2) Innerhalb eines Bewerbungszeitraums ist nur eine einmalige Teilnahme am jeweiligen Auswahlverfahren zulässig. Eine weitere Teilnahme wird als Täuschung nach § 17f gewertet und führt automatisch zu einem Ausschluss aus sämtlichen Auswahlverfahren dieses Bewerbungszeitraums.
+
+(3) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungsplätze, die der Einstellungsbehörde zur Verfügung stehen, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Jedoch sind mindestens dreimal so viele geeignete Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze zur Verfügung stehen. Ist die Zahl der Teilnehmenden beschränkt, wird zum Auswahlverfahren zugelassen, wer nach den Bewerbungsunterlagen am besten geeignet erscheint. Insbesondere wird dabei nach den Zeugnisnoten entschieden.
+
+(4) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber sind unabhängig von einer Beschränkung der Zahl der Teilnehmenden zum Auswahlverfahren zugelassen.
+
+(5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Frist zu löschen.
+
+# § 12 – Auswahlkommission
+
+(1) Für die Durchführung des Auswahlverfahrens richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. Die Einstellungsbehörde stellt sicher, dass in allen Auswahlkommissionen einheitliche Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
 (2) Eine Auswahlkommission besteht aus
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes oder des gehobenen Dienstes der Besoldungsgruppe A 13 (gehobener Dienst) als Vorsitzender oder Vorsitzendem und
+1. einer Beamtin oder einem Beamten des gehobenen Dienstes, die oder der mindestens der Besoldungsgruppe A 13 angehört, als Vorsitzender oder Vorsitzendem und
 
-2. drei Beamtinnen oder Beamten des gehobenen Dienstes, von denen eine Beamtin oder ein Beamter mindestens der Besoldungsgruppe A 12 angehören soll.
+2. einer oder drei weiteren Personen, die erfahrene Beamtinnen oder Beamte des gehobenen Dienstes sind, als Beisitzerin oder Beisitzer.
 
-Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes nach Satz 1 Nummer 2 kann der Auswahlkommission auch eine Beamtin oder ein Beamter des mittleren Dienstes der Besoldungsgruppe A 9 (mittlerer Dienst) angehören. In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je Auswahlkommission bestellt werden.
+Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes kann der Auswahlkommission auch eine Beamtin oder ein Beamter des mittleren Dienstes der Besoldungsgruppe A 9 angehören.
 
-(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(3) In begründeten Fällen kann höchstens eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Auswahlkommission als Beisitzerin oder Beisitzer bestellt werden, sofern sie oder er eine mit den Personen nach Absatz 2 Nummer 2 vergleichbare Qualifikation vorweist.
 
-1. einer Beamtin oder einem Beamten, die oder der mindestens der Besoldungsgruppe A 13 angehört, als Vorsitzender oder Vorsitzendem und
+(4) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig.
 
-2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder Beamten des gehobenen Dienstes.
+(5) Eine Auswahlkommission soll geschlechterparitätisch besetzt sein. Ist eine geschlechterparitätische Besetzung aus triftigen Gründen nicht möglich, sind die jeweiligen Gründe aktenkundig zu machen.
 
-(3) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig. Die Auswahlkommission soll paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen.
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-(4) Die Mitglieder der Auswahlkommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-(5) Die Stimmen der Mitglieder der Auswahlkommission haben gleiches Gewicht. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+# § 13 – Gemeinsame Auswahlkommissionen
 
-# § 12 – Auswahlverfahren
+(1) Die Generalzolldirektion kann vorsehen, dass eine oder mehrere gemeinsame Auswahlkommissionen bestimmt werden, die das Auswahlverfahren für mehrere Einstellungsbehörden durchführen.
 
-(1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Einzelne Abschnitte des Auswahlverfahrens können unterstützt durch Informationstechnik durchgeführt werden. Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden. Die Gesamtverantwortung für die Auswahl bleibt bei der Auswahlkommission.
+(2) Abweichend von § 12 kann die Anzahl der Kommissionsmitglieder der gemeinsamen Auswahlkommissionen unter Berücksichtigung der Anzahl der Einstellungsbehörden, für die das Verfahren durchgeführt wird, in geeigneter Weise bestimmt werden. Die Generalzolldirektion regelt die Einzelheiten in einer entsprechenden Verfügung.
 
-(2) Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde legt bundeseinheitlich die Inhalte der Teile des Auswahlverfahrens, den Ablauf der einzelnen Teile sowie die Bewertungs- und Gewichtungssystematik fest. Die Festlegung kann vor dem Beginn des Auswahlverfahrens oder vor jedem Teil erfolgen. Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde kann die Bewertungssystematik im laufenden Verfahren bundeseinheitlich für jeden Teil ändern.
+# § 14 – Teile des Auswahlverfahrens
 
-(3) Eine Täuschung, ein Täuschungsversuch oder die Beihilfe zu einer Täuschung oder einem Täuschungsversuch während des Auswahlverfahrens führen zum Ausschluss der Bewerberin oder des Bewerbers vom Auswahlverfahren. Vor der Entscheidung über den Ausschluss wird die Bewerberin oder der Bewerber angehört.
+Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-# § 13 – Schriftlicher Teil des Auswahlverfahrens
+# § 15 – Festlegungen zum Auswahlverfahren
 
-(1) Der schriftliche Teil des Auswahlverfahrens ist ein Leistungstest mit mehreren Abschnitten. In diesen Abschnitten werden folgende Kompetenzbereiche geprüft:
+(1) Das Bundesministerium der Finanzen oder bei entsprechender Delegation die Generalzolldirektion legt bundeseinheitlich fest:
 
-1. kognitive Fähigkeiten,
+1. die Inhalte der Teile des Auswahlverfahrens,
 
-2. sprachliche Fähigkeiten,
+2. den Ablauf des Auswahlverfahrens und die Dauer der einzelnen Teile,
 
-3. methodische Fähigkeiten und
+3. falls der schriftliche Teil aus mehreren Auswahlinstrumenten besteht, ob von der Möglichkeit Gebrauch gemacht wird, Bewerberinnen und Bewerber, die den Leistungstest nicht bestehen, von der weiteren Teilnahme am Auswahlverfahren auszuschließen,
 
-4. Allgemeinwissen.
+4. die Bewertungs- und Gewichtungssystematik sowie
 
-(2) Die Bearbeitungszeit beträgt höchstens 240 Minuten.
+5. die für das Bestehen erforderlichen Mindestpunktzahlen.
 
-(3) Die Auswahlkommission bewertet die Leistungstests arbeitsteilig. Sie kann sich bei der Bewertung durch eingewiesene Hilfskräfte oder durch Informationstechnik unterstützen lassen.
+(2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
 
-(4) Aus den Bewertungen der einzelnen Kompetenzbereiche wird unter Zugrundelegung der festgelegten Gewichtung die Gesamtpunktzahl für den schriftlichen Teil des Auswahlverfahrens ermittelt. Für das Bestehen des schriftlichen Teils wird in der Bewertungssystematik eine Mindestgesamtpunktzahl festgelegt.
+(3) Das Bundesministerium der Finanzen oder bei entsprechender Delegation die Generalzolldirektion kann die Bewertungssystematik im laufenden Auswahlverfahren bundeseinheitlich für jeden Teil des Auswahlverfahrens ändern.
 
-(5) Für die einzelnen Kompetenzbereiche können in der Bewertungssystematik Mindestpunktzahlen festgelegt werden. Sofern die Mindestpunktzahlen erreicht worden sind, wird aus den Bewertungen der einzelnen Kompetenzbereiche eine Gesamtpunktzahl für den schriftlichen Teil des Auswahlverfahrens ermittelt. Hat eine Bewerberin oder ein Bewerber in einem Kompetenzbereich nicht die erforderliche Mindestpunktzahl erreicht, so ist für sie oder ihn das Auswahlverfahren erfolglos beendet. Hiervon ausgenommen sind schwerbehinderte und diesen gleichgestellte behinderte Menschen.
+# § 16 – Schriftlicher Teil des Auswahlverfahrens
 
-(6) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber
+(1) Im schriftlichen Teil des Auswahlverfahrens können folgende Kompetenzbereiche geprüft werden:
 
-1. die erforderliche Mindestgesamtpunktzahl erreicht hat und
+1. kognitive Kompetenzen,
 
-2. im Falle des Absatzes 5 Satz 1 in jedem Kompetenzbereich die erforderliche Mindestpunktzahl erreicht hat.
+2. Kommunikationsfähigkeit,
 
-(7) Für die Bewerberinnen und Bewerber, die bestanden haben, legt die Auswahlkommission anhand der erzielten Ergebnisse eine Rangfolge fest.
+3. Allgemeinwissen und
 
-# § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+4. Persönlichkeitseigenschaften.
+
+(2) Der schriftliche Teil des Auswahlverfahrens besteht aus einem Leistungstest. Die Bearbeitungszeit beträgt höchstens vier Zeitstunden.
+
+(3) Zusätzlich zu dem Leistungstest können weitere Auswahlinstrumente angewendet werden, jedoch höchstens zwei der folgenden:
+
+1. ein weiterer Leistungstest,
+
+2. ein Persönlichkeitstest und
+
+3. Simulationsaufgaben.
+
+(4) Die Auswahlkommission bewertet die Leistungstests und die weiteren Auswahlinstrumente arbeitsteilig. Sie kann sich bei der Bewertung durch eingewiesene Hilfskräfte oder durch Informationstechnik unterstützen lassen. Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden. Die Gesamtverantwortung für die Auswahl bleibt bei der Auswahlkommission.
+
+(5) Falls im schriftlichen Teil neben dem Leistungstest weitere Auswahlinstrumente angewendet werden, kann von der Teilnahme am Auswahlverfahren ausgeschlossen werden, wer in dem Leistungstest nicht die jeweils erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
+
+# § 17 – Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge
+
+(1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn im Leistungstest und im Fall der Ergänzung durch weitere Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
+
+(2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber festgelegt, die den schriftlichen Teil des Auswahlverfahrens bestanden haben. Sind in einer Einstellungsbehörde mehrere Auswahlkommissionen eingerichtet, wird eine gemeinsame Rangfolge aller Bewerberinnen und Bewerber gebildet. Hat die Generalzolldirektion eine oder mehrere gemeinsame Auswahlkommissionen für mehrere Einstellungsbehörden verfügt, so ist jeweils eine gesonderte Rangfolge für jede Einstellungsbehörde zu bilden. Die festgelegte Rangfolge ist für die Zulassung zum mündlichen Auswahlverfahren maßgebend.
+
+# § 17a – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden hat.
 
-(2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, die Zahl der Ausbildungsplätze, die der Einstellungsbehörde zur Verfügung stehen, um mehr als das Doppelte, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden. Es sind jedoch mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze zur Verfügung stehen. In diesem Fall wird zugelassen, wer nach der Rangfolge, die nach dem schriftlichen Teil des Auswahlverfahrens gebildet worden ist, am besten geeignet ist.
+(2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, die Zahl der Ausbildungsplätze, die der Einstellungsbehörde zur Verfügung stehen, um mehr als das Doppelte, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden. Es sind jedoch mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze zur Verfügung stehen. Ist die Zahl der Teilnehmenden beschränkt, wird zum mündlichen Teil des Auswahlverfahrens zugelassen, wer nach der Rangfolge, die anhand der im schriftlichen Teil erzielten Ergebnisse festgelegt worden ist, am besten geeignet ist.
 
-(3) Schwerbehinderte und diesen gleichgestellte behinderte Menschen, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von der Eignung zu überzeugen, soweit diese Eignung im schriftlichen Verfahren noch nicht festgestellt werden konnte.
+(3) Schwerbehinderte Bewerberinnen oder Bewerber oder diesen gleichgestellte behinderte Bewerberinnen und Bewerber, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von ihrer Eignung zu überzeugen, soweit die Eignung im schriftlichen Teil des Auswahlverfahrens noch nicht festgestellt werden konnte.
 
-# § 15 – Mündlicher Teil des Auswahlverfahrens
+# § 17b – Mündlicher Teil des Auswahlverfahrens
 
-(1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+(1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
 
-(2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die Dauer der Simulationsübungen einschließlich erforderlicher Vorbereitungszeiten und die Dauer des Interviews werden den Bewerberinnen und Bewerbern vor Beginn des mündlichen Teils mitgeteilt. Die Dauer der Simulationsübungen beträgt pro Bewerberin oder Bewerber höchstens 150 Minuten.
+(2) Der mündliche Teil besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview.
 
-(3) Am mündlichen Teil des Auswahlverfahrens können die Gleichstellungsbeauftragte, ein Mitglied der Personalvertretung und gegebenenfalls die Schwerbehindertenvertretung teilnehmen.
+(3) Für die Durchführung des mündlichen Teils des Auswahlverfahrens kann Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
-(4) Die Mitglieder der Auswahlkommission bewerten nach jeder Simulationsübung unabhängig voneinander die mit der Übung überprüften Kompetenzbereiche jeder Bewerberin und jedes Bewerbers. Die Bewertung erfolgt mit Punkten. Die Bewertung des einzelnen Kompetenzbereiches ist das arithmetische Mittel der Einzelbewertungen der Kommissionsmitglieder. Die Bewertung ist vorläufig.
+(4) Je Auswahlkommission darf der mündliche Teil des Auswahlverfahrens pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden.
 
-(5) Am Ende jedes Auswahltages führt die Auswahlkommission eine Beratung über die endgültigen Bewertungen durch. Die Gleichstellungsbeauftragte kann an der Beratung teilnehmen. Den Mitgliedern der Personal- und Schwerbehindertenvertretung ist vor Beginn der Beratung Gelegenheit zur Stellungnahme zu geben.
+(5) Am mündlichen Teil des Auswahlverfahrens können die Gleichstellungsbeauftragte, ein Mitglied der Personalvertretung und gegebenenfalls die Schwerbehindertenvertretung teilnehmen.
 
-(6) Aus den Bewertungen der einzelnen Kompetenzbereiche wird unter Zugrundelegung der festgelegten Gewichtung die Gesamtpunktzahl für den mündlichen Teil des Auswahlverfahrens ermittelt. Für das Bestehen des mündlichen Teils wird in der Bewertungssystematik eine Mindestgesamtpunktzahl festgelegt.
+(6) Am Ende jedes Auswahltages führt die Auswahlkommission eine Beratung über die endgültigen Bewertungen durch. Die Gleichstellungsbeauftragte kann an der Beratung teilnehmen. Dem Mitglied der Personalvertretung und gegebenenfalls der Schwerbehindertenvertretung ist vor Beginn der Beratung Gelegenheit zur Stellungnahme zu geben.
 
-(7) Für die einzelnen Kompetenzbereiche können in der Bewertungssystematik Mindestpunktzahlen vorgesehen werden. Sofern die Mindestpunktzahlen erreicht worden sind, wird aus den Bewertungen der einzelnen Kompetenzbereiche eine Gesamtpunktzahl für den mündlichen Teil des Auswahlverfahrens ermittelt.
+# § 17c – Bestehen des mündlichen Teils des Auswahlverfahrens
 
-(8) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber
+Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn in den Simulationsübungen und im strukturierten Interview jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
 
-1. die erforderliche Mindestgesamtpunktzahl erreicht hat und
+# § 17d – Gesamtergebnis und Rangfolge
 
-2. im Falle des Absatzes 7 Satz 1 in jedem Kompetenzbereich die erforderliche Mindestpunktzahl erreicht hat.
+(1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens bestanden hat, das Gesamtergebnis des Auswahlverfahrens.
 
-# § 16 – Gesamtergebnis des Auswahlverfahrens
+(2) In das Gesamtergebnis geht das Ergebnis des schriftlichen Teils mit 20 Prozent und das Ergebnis des mündlichen Teils mit 80 Prozent ein.
 
-(1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber das Gesamtergebnis des Auswahlverfahrens. In das Gesamtergebnis gehen das Ergebnis des schriftlichen Teils mit 40 Prozent und das Ergebnis des mündlichen Teils mit 60 Prozent ein.
+(3) Anhand des Gesamtergebnisses bildet die Auswahlkommission eine Rangfolge der Bewerberinnen und Bewerber. § 17 Absatz 2 Satz 2 und 3 gilt entsprechend. Die festgelegte Rangfolge ist für die Einstellung in der jeweiligen Einstellungsbehörde maßgebend.
 
-(2) Das Gesamtergebnis wird auf die zweite Nachkommastelle kaufmännisch gerundet.
+(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten spätestens ein Jahr nach Mitteilung der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb dieser Frist zu löschen.
 
-(3) Das Auswahlverfahren ist bestanden, wenn die Bewerberin oder der Bewerber
+# § 17e – Ausnahmeregelung zur Rangfolge
 
-1. den schriftlichen und den mündlichen Teil des Auswahlverfahrens bestanden und
+(1) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens nicht bestanden haben, werden abweichend von § 17d Absatz 3 nur in die Rangfolge aufgenommen, wenn
 
-2. die für das Gesamtergebnis erforderliche Mindestgesamtpunktzahl erreicht hat. Die Höhe und die Grundlagen der Ermittlung der Mindestgesamtpunktzahl werden in der Bewertungssystematik festgelegt.
+1. das Gesamtergebnis des Auswahlverfahrens die Gesamtmindestpunktzahl erreicht und
 
-(4) Anhand der ermittelten Gesamtergebnisse bildet die Auswahlkommission eine Rangfolge der Bewerberinnen und Bewerber, die das Auswahlverfahren bestanden haben. Sind in einer Einstellungsbehörde mehrere Auswahlkommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber gebildet. Die festgelegte Rangfolge ist für die Einstellung maßgebend.
+2. die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
 
-(5) Schwerbehinderte und diesen gleichgestellte behinderte Bewerberinnen und Bewerber haben das Auswahlverfahren darüber hinaus bestanden und werden in die Rangfolge aufgenommen, wenn
+Die Gesamtmindestpunktzahl ermittelt sich aus der Summe der Mindestpunktzahlen für das Bestehen des schriftlichen Teils des Auswahlverfahrens multipliziert mit 20 Prozent und der Summe der Mindestpunktzahlen für das Bestehen des mündlichen Teils des Auswahlverfahrens multipliziert mit 80 Prozent.
 
-1. sie den mündlichen Teil des Auswahlverfahrens bestanden haben,
+(2) Wer nach Absatz 1 nicht in die Rangfolge aufgenommen wird, hat erfolglos am Auswahlverfahren teilgenommen.
 
-2. die Mindestgesamtpunktzahl für das Bestehen des Auswahlverfahrens erreicht ist und
+# § 17f – Täuschung
 
-3. die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
+(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
 
-# § 17 – Einstellung
+(2) Vor einer Entscheidung sind die Betroffenen anzuhören.
 
-(1) In den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes kann eingestellt werden, wer erfolgreich am Auswahlverfahren teilgenommen hat und nach ärztlichem Gutachten die gesundheitlichen Anforderungen an den Zolldienst erfüllt.
+# § 17g – Einstellung und gesundheitliche Eignung
 
-(2) Die Einstellungsbehörde entscheidet über die Einstellung der Bewerberinnen und Bewerber auf der Grundlage der Rangfolge nach § 16 Absatz 4.
+(1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
-(3) Die Einstellungsbehörde veranlasst für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Einstellungsbehörde.
+1. erfolgreich am Auswahlverfahren teilgenommen hat,
+
+2. die erforderlichen Unterlagen und Nachweise rechtzeitig vorgelegt hat und
+
+3. die gesundheitlichen Anforderungen an den Zolldienst erfüllt.
+
+(2) Zur Feststellung der gesundheitlichen Eignung veranlasst die Einstellungsbehörde für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Einstellungsbehörde.
+
+(3) Wer erfolgreich am Auswahlverfahren teilgenommen hat, aber nicht eingestellt wird, erhält eine schriftliche oder elektronische Mitteilung über die Nichteinstellung. § 17d Absatz 4 Satz 2 und 3 gilt entsprechend.
 
 # § 18 – Aufbau der Ausbildung
 
@@ -809,7 +851,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (6) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der Vorsitzende der Prüfungskommission den Auszubildenden die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die Bewertungen auf Verlangen kurz mündlich.
 
-(7) Über den Ablauf der mündlichen Abschlussprüfung wird ein Protokoll angefertigt. Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu unterschreiben.
+(7) Über den Ablauf der mündlichen Abschlussprüfung wird ein Protokoll angefertigt. Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu bestätigen.
 
 # § 43 – Bestehen der Laufbahnprüfung, Abschlussnote
 
@@ -851,6 +893,10 @@ In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem d
 
 (3) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Festsetzung der Abschlussnote kaufmännisch auf eine ganze Zahl gerundet.
 
+# § 43a – Laufbahnbefähigung und Berufsbezeichnung
+
+Wer die Laufbahnprüfung bestanden hat, hat die Befähigung für die Laufbahn des mittleren nichttechnischen Zolldienstes des Bundes erlangt und ist berechtigt, die Berufsbezeichnung „Finanzwirtin“ oder „Finanzwirt“ zu führen.
+
 # § 44 – Abschlusszeugnis
 
 (1) Die Auszubildenden erhalten vom Prüfungsamt einen Bescheid über das Bestehen oder Nichtbestehen der Laufbahnprüfung und ein Abschlusszeugnis.
@@ -867,9 +913,11 @@ In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem d
 
 5. die Rangpunkte der Klausuren der schriftlichen Abschlussprüfung,
 
-6. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung sowie
+6. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung,
 
-7. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
+7. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote sowie
+
+8. die Berufsbezeichnung.
 
 (2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, und ist auch nach § 43 Absatz 2a keine mündliche Abschlussprüfung durchgeführt worden, so bleibt im Abschlusszeugnis das Feld zur Angabe der Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung frei. In diesem Fall ist im Abschlusszeugnis zu vermerken, dass die Laufbahnprüfung ohne mündliche Abschlussprüfung abgelegt worden ist, und die Rechtsgrundlage für diese Tatsache anzugeben.
 
@@ -881,7 +929,7 @@ In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem d
 
 # § 45 – Wiederholung von Prüfungen
 
-(1) Auszubildende, die die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen. Ist die Wiederholung der Prüfung erfolglos, ist die Ausbildung beendet. Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde kann in begründeten Fällen eine zweite Wiederholung zulassen. Die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung ist jeweils vollständig zu wiederholen.
+(1) Auszubildende, die die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen. Ist die Wiederholung der Prüfung erfolglos, ist die Ausbildung beendet. Das Bundesministerium der Finanzen oder bei entsprechender Delegation die Generalzolldirektion kann in begründeten Fällen eine zweite Wiederholung zulassen. Die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung ist jeweils vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden muss. Die Wiederholungsphase soll mindestens drei Monate betragen und ein Jahr nicht überschreiten.
 
@@ -890,32 +938,3 @@ In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem d
 (4) Die Rangpunkte, die bei der Wiederholung erreicht werden, ersetzen die zuvor erreichten.
 
 (5) Bestandene Prüfungen können nicht wiederholt werden.
-
-# § 46 – Übergangsvorschriften
-
-(1) Für Auszubildende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1682), die zuletzt durch Artikel 3 Absatz 11 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass
-
-1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 der im einleitenden Satzteil genannten Verordnung § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt,
-
-2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1 Satz 1 und § 35 Absatz 1 Satz 1 der im einleitenden Satzteil genannten Verordnung vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind,
-
-3. § 35 Absatz 5a, § 40 Absatz 3, § 42 Absatz 2a und 2b, § 43 Absatz 2a sowie § 44 Absatz 2a dieser Verordnung entsprechend gelten und
-
-4. im Fall der Festlegung, dass auf die mündliche Abschlussprüfung verzichtet wird, – abweichend von § 41 Absatz 1 Satz 2 der im einleitenden Satzteil genannten Verordnung – die Durchschnittsrangpunktzahl der Laufbahnprüfung der Quotient ist aus
-
-a) der Summe
-
-aa)  
-der 3-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
-
-bb)  
-der 12-fachen Durchschnittsrangpunktzahl der fachtheoretischen Ausbildung,
-
-cc) der 10-fachen Durchschnittsrangpunktzahl der berufspraktischen Ausbildung und
-
-dd)  
-dem 12,5-fachen Rangpunkte für jede der vier schriftlichen Prüfungsarbeiten sowie
-
-b) der Zahl 75.
-
-(2) Auf Beamtinnen und Beamte, die bis zum 31. Dezember 2015 nach § 54 Absatz 2 Satz 1 der Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden Fassung erfolgreich an einer Vorauswahl für die Teilnahme an einem Auswahlverfahren für den Aufstieg teilgenommen haben oder zum Praxisaufstieg zugelassen worden sind, sind die §§ 27 bis 29 der Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1682), die zuletzt durch Artikel 3 Absatz 11 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiterhin anzuwenden.
