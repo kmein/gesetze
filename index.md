@@ -5692,6 +5692,7 @@
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestbedingungen FlWi 2](laws/TVMindestbedingungen_FlWi_2.md) Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021
+- [TVMindestlohn Gerüstb 8](laws/TVMindestlohn_Gerüstb_8.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. August 2023
 - [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
 - [TVMindestlohn VFlughSiK 2](laws/TVMindestlohn_VFlughSiK_2.md) Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 28. März 2022
 - [TVMindestlohnDachd 11](laws/TVMindestlohnDachd_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. Juli 2021
@@ -6742,6 +6743,7 @@
 - [7. BImSchV](laws/7._BImSchV.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
+- [8. GerüstbauerArbbV](laws/8._GerüstbauerArbbV.md) Achte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk
 - [8. MARPOL-ÄndV](laws/8._MARPOL-ÄndV.md) Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen
 - [8. RAG](laws/8._RAG.md) Achtes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. AnpG-KOV](laws/9._AnpG-KOV.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
