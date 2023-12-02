@@ -1,64 +1,377 @@
 % Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes  (GntZollDVDV)
-% Ausfertigungsdatum: 02.06.2016
+% Ausfertigungsdatum: 19.10.2023
  
-# Eingangsformel
-
-Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit § 10 und Anlage 2 der Bundeslaufbahnverordnung, von denen § 10 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) und Anlage 2 durch Artikel 38 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium der Finanzen:
-
 # Inhaltsübersicht
-
-# § 1 – Diplomstudium
-
-Das Diplomstudium „Gehobener nichttechnischer Zolldienst des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes.
-
-# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-# § 2 – Ziele des Studiums
-
-Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Zolldienst des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen Raum und im internationalen, insbesondere europäischen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den sich ständig wandelnden Herausforderungen an die Zollverwaltung gerecht zu werden. Die Studierenden sollen befähigt werden, sich eigenverantwortlich weiterzubilden.
-
-# § 3 – Dauer des Studiums, Laufbahnbefähigung, Diplom
-
-(1) Das Studium dauert in der Regel 36 Monate. Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheiden die Einstellungsbehörden im Benehmen mit den Ausbildungsbehörden und der Hochschule.
-
-(2) Mit erfolgreichem Abschluss des Studiums wird der akademische Grad „Diplom-Finanzwirtin (FH)“ oder „Diplom-Finanzwirt (FH)“ verliehen.
-
-# § 4 – Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
-
-(1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder von der von ihm bestimmten Behörde als solche bestimmt worden sind. Sie sind für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
-
-(2) Ausbildungsbehörden sind die Hauptzollämter, die vom Bundesministerium der Finanzen oder von der von ihm bestimmten Behörde als solche bestimmt worden sind.
-
-(3) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die Leiterin oder der Leiter der Einstellungsbehörde. Daneben unterstehen die Studierenden auch der Dienstaufsicht der Leiterin oder des Leiters der Ausbildungsbehörde, in deren oder dessen Zuständigkeitsbereich sie sich zum jeweiligen Abschnitt des Studiums befinden.
-
-# § 5 – Nachteilsausgleich im Auswahlverfahren, bei Leistungstests und Prüfungen
-
-(1) Menschen mit Behinderung und Menschen mit einer vorübergehenden Beeinträchtigung wird auf ihren Antrag im Auswahlverfahren, bei Leistungstests sowie in allen Teilen der Laufbahnprüfung ein angemessener Nachteilsausgleich gewährt. Hierauf sind sie durch die Einstellungsbehörden oder das Prüfungsamt rechtzeitig hinzuweisen.
-
-(2) Über die Gewährung von Nachteilsausgleichen im Auswahlverfahren entscheidet die Einstellungsbehörde, in den übrigen Fällen das Prüfungsamt.
-
-(3) Art und Umfang des Nachteilsausgleichs sind mit der betroffenen Person rechtzeitig zu erörtern. Sofern die betroffene Person schwerbehindert ist oder schwerbehinderten Menschen gleichgestellt ist, erfolgt zudem eine Erörterung mit der Schwerbehindertenvertretung, sofern die betroffene Person dem nicht widerspricht. Ein Nachteilsausgleich soll die Chancengleichheit gegenüber nicht behinderten und nicht beeinträchtigten Menschen herstellen. Er darf nicht dazu führen, dass die Anforderungen für die Eignung herabgesetzt werden. Gewährte Nachteilsausgleiche sind aktenkundig zu machen.
-
-(4) Bei Bedarf kann ein privatärztliches oder ein amtsärztliches Gutachten gefordert werden. Die Kosten trägt der Dienstherr.
-
-(5) Nach Einstellung in den Vorbereitungsdienst und mit Zustimmung der betroffenen Person teilt die Einstellungsbehörde die im Auswahlverfahren gewährten Nachteilsausgleiche dem Prüfungsamt mit.
-
-# § 6 – Bewertung der Leistungen
-
-(1) Die Leistungen der Studierenden werden wie folgt bewertet:
 
  
 
-Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl
+ 
 
-Rangpunkte/  
-Rangpunktzahl
+ 
 
-Note
+ 
 
-Notendefinition
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# § 1 – Bachelorstudiengang
+
+Der Studiengang „Zolldienst des Bundes“ am Fachbereich Finanzen der Hochschule des Bundes für öffentliche Verwaltung (Fachbereich Finanzen) ist ein grundständiger dualer Hochschulstudiengang. Er führt mit dem Abschluss „Bachelor of Laws (LL.B.)“ zu einem ersten berufsqualifizierenden Abschluss und ist zugleich der Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes.
+
+# § 2 – Ziele des Studiums
+
+(1) Das Studium vermittelt die wissenschaftlichen Methoden und das fachtheoretische Wissen sowie die berufspraktischen Fähigkeiten und Kenntnisse, die zur Erfüllung der Aufgaben im gehobenen nichttechnischen Zolldienst des Bundes erforderlich sind. Die Studierenden sollen zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt werden. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im nationalen und im internationalen, insbesondere europäischen, Raum.
+
+(2) Durch eine enge Verzahnung von Wissenschaft und Praxis sollen die Studierenden Handlungskompetenzen erwerben, um fachliche Zusammenhänge selbständig erkennen, wissenschaftliche Methoden und fachtheoretisches Wissen praktisch anwenden und neue Anforderungen, auch unter Einsatz digitaler Kompetenzen, bewältigen zu können.
+
+(3) Die Studierenden sollen befähigt werden, sich eigenverantwortlich und auch digital weiterzubilden, um zukünftigen Herausforderungen in der Zollverwaltung gerecht werden zu können.
+
+# § 3 – Bachelorgrad
+
+Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad „Bachelor of Laws (LL.B.)“ verliehen.
+
+# § 4 – Einstellungsbehörden
+
+(1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder bei entsprechender Delegation auf die Generalzolldirektion von dieser als solche bestimmt worden sind.
+
+(2) Die Einstellungsbehörden sind für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
+
+# § 5 – Ausbildungsbehörden
+
+Ausbildungsbehörden sind
+
+1. die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder bei entsprechender Delegation auf die Generalzolldirektion von dieser als solche festgelegt worden sind,
+
+2. andere in- oder ausländische Behörden oder Einrichtungen, die von der jeweiligen Einstellungsbehörde mit Zustimmung des Fachbereichs Finanzen als Ausbildungsbehörde bestimmt worden sind.
+
+# § 6 – Dienstaufsicht
+
+(1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die Leiterin oder der Leiter der Einstellungsbehörde.
+
+(2) Daneben unterstehen die Studierenden
+
+1. während der Fachstudien der Dienstaufsicht der Dekanin oder des Dekans des Fachbereichs Finanzen,
+
+2. während der praxisintegrierenden Fachstudien und des Wahlpflichtpraktikums der Dienstaufsicht der Leiterin oder des Leiters der jeweiligen Ausbildungsbehörde.
+
+# § 7 – Nachteilsausgleich
+
+(1) Schwerbehinderten Menschen, diesen gleichgestellten behinderten Menschen und Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränkt, wird im Auswahlverfahren und bei Prüfungen auf Antrag ein angemessener Nachteilsausgleich gewährt. Auf die Möglichkeit des Nachteilsausgleichs ist vor Beginn des Auswahlverfahrens durch die Einstellungsbehörden und vor jedem Prüfungstermin durch das Prüfungsamt hinzuweisen.
+
+(2) Der Nachteilsausgleich soll die Chancengleichheit gegenüber nicht behinderten und nicht beeinträchtigten Menschen herstellen. Er darf nicht dazu führen, dass die Anforderungen an die Eignung herabgesetzt werden.
+
+(3) Über die Gewährung von Nachteilsausgleichen entscheidet
+
+1. im Auswahlverfahren die Einstellungsbehörde,
+
+2. bei Prüfungen das Prüfungsamt des Fachbereichs Finanzen.
+
+(4) Art und Umfang des Nachteilsausgleichs sind mit den Betroffenen rechtzeitig zu erörtern. Zudem erfolgt eine Erörterung mit der Schwerbehindertenvertretung, sofern die betroffene Person dem nicht widerspricht.
+
+(5) Bei Bedarf kann ein ärztliches oder ein amtsärztliches Gutachten gefordert werden. Die Kosten für das Gutachten trägt die Einstellungsbehörde.
+
+(6) Gewährte Nachteilsausgleiche sind aktenkundig zu machen. Nach der Einstellung in den Vorbereitungsdienst teilt die Einstellungsbehörde mit Zustimmung der betroffenen Person die im Auswahlverfahren gewährten Nachteilsausgleiche dem Prüfungsamt mit.
+
+# § 8 – Erholungsurlaub
+
+(1) Erholungsurlaub wird auf den Vorbereitungsdienst angerechnet. Die Zeiten des Erholungsurlaubs bestimmt:
+
+1. während der Fachstudien der Fachbereich Finanzen,
+
+2. während der praxisintegrierenden Fachstudien und des Wahlpflichtpraktikums die jeweilige Einstellungsbehörde im Einvernehmen mit dem Fachbereich Finanzen.
+
+(2) Die Studierenden erhalten zu Beginn des Studiums einen Studienverlaufsplan, der die Zeiträume, in denen sie Urlaub nehmen können, festlegt.
+
+# § 9 – Elektronisches Informations- und Kommunikationssystem
+
+(1) Der Fachbereich Finanzen kann ein elektronisches Informations- und Kommunikationssystem nutzen, um den Studierenden die Informationen bereitzustellen, die für die Organisation und Durchführung des Studiums einschließlich der Prüfungen notwendig sind.
+
+(2) Das Informations- und Kommunikationssystem ist so auszugestalten, dass jede Studierende und jeder Studierende
+
+1. einen passwortgeschützten persönlichen Zugang erhält und
+
+2. ein eigenes Datenprofil anlegen kann.
+
+(3) Soweit der Fachbereich Finanzen den Studierenden die für die Organisation und Durchführung des Studiums einschließlich der Prüfungen notwendigen Informationen über ein elektronisches Informations- und Kommunikationssystem zur Verfügung stellt, obliegt es den Studierenden, diese Informationen aus dem elektronischen Informations- und Kommunikationssystem abzurufen.
+
+(4) Die oder der Studierende ist verantwortlich
+
+1. für den sorgfältigen Umgang mit ihrem oder seinem Passwort für den Zugang zum elektronischen Informations- und Kommunikationssystem,
+
+2. für den Umgang mit den Daten, die sie oder er aus dem Informations- und Kommunikationssystem abruft, sowie
+
+3. für die Pflege des eigenen Datenprofils.
+
+# § 10 – Zweck des Auswahlverfahrens
+
+(1) Auf Grundlage eines Auswahlverfahrens entscheidet die Einstellungsbehörde über die Einstellung in den Vorbereitungsdienst.
+
+(2) In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind. Insbesondere wird festgestellt, ob die Bewerberinnen und Bewerber verfügen über:
+
+1. die erforderlichen kognitiven Kompetenzen,
+
+2. die erforderlichen sozialen Kompetenzen,
+
+3. die erforderliche Leistungsmotivation,
+
+4. die erforderliche Kommunikationsfähigkeit und
+
+5. das erforderliche Allgemeinwissen.
+
+# § 11 – Zulassung zum Auswahlverfahren
+
+(1) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
+
+(2) Innerhalb eines Bewerbungszeitraums ist nur eine einmalige Teilnahme am jeweiligen Auswahlverfahren zulässig. Eine weitere Teilnahme wird als Täuschung nach § 23 gewertet und führt automatisch zu einem Ausschluss aus sämtlichen Auswahlverfahren dieses Bewerbungszeitraums.
+
+(3) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, so kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Jedoch sind mindestens dreimal so viele geeignete Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. Ist die Zahl der Teilnehmenden beschränkt, wird zum Auswahlverfahren zugelassen, wer nach den Bewerbungsunterlagen am besten geeignet erscheint. Insbesondere wird dabei nach den Zeugnisnoten entschieden.
+
+(4) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber sind unabhängig von einer Beschränkung der Zahl der Teilnehmenden zum Auswahlverfahren zugelassen.
+
+(5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Frist zu löschen.
+
+# § 12 – Auswahlkommission
+
+(1) Für die Durchführung des Auswahlverfahrens richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. Die Einstellungsbehörde stellt sicher, dass in allen Auswahlkommissionen einheitliche Bewertungs- und Auswahlmaßstäbe angelegt werden.
+
+(2) Eine Auswahlkommission besteht aus
+
+1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+
+2. einer oder drei weiteren Personen, die erfahrene Beamtinnen oder Beamte des gehobenen Dienstes sind, als Beisitzerin oder Beisitzer.
+
+(3) In begründeten Fällen kann
+
+1. den Vorsitz auch eine Beamtin oder ein Beamter des gehobenen Dienstes der Besoldungsgruppe A 13 wahrnehmen,
+
+2. eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Auswahlkommission als Beisitzerin oder Beisitzer bestellt werden, sofern sie oder er eine mit den Personen nach Absatz 2 Nummer 2 vergleichbare Qualifikation vorweist.
+
+(4) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig.
+
+(5) Eine Auswahlkommission soll geschlechterparitätisch besetzt sein. Ist eine geschlechterparitätische Besetzung aus triftigen Gründen nicht möglich, sind diese Gründe aktenkundig zu machen.
+
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
+
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+
+# § 13 – Gemeinsame Auswahlkommissionen
+
+(1) Die Generalzolldirektion kann vorsehen, dass eine oder mehrere gemeinsame Auswahlkommissionen bestimmt werden, die das Auswahlverfahren für mehrere Einstellungsbehörden durchführen.
+
+(2) Abweichend von § 12 kann die Anzahl der Kommissionsmitglieder der gemeinsamen Auswahlkommissionen unter Berücksichtigung der Anzahl der Einstellungsbehörden, für die das Verfahren durchgeführt wird, in geeigneter Weise bestimmt werden. Die Generalzolldirektion regelt die Einzelheiten in einer entsprechenden Verfügung.
+
+# § 14 – Teile des Auswahlverfahrens
+
+Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
+
+# § 15 – Festlegungen zum Auswahlverfahren
+
+(1) Das Bundesministerium der Finanzen oder bei entsprechender Delegation die Generalzolldirektion legt bundeseinheitlich fest:
+
+1. die Inhalte der Teile des Auswahlverfahrens,
+
+2. den Ablauf des Auswahlverfahrens und die Dauer der einzelnen Teile,
+
+3. falls der schriftliche Teil aus mehreren Auswahlinstrumenten besteht, ob von der Möglichkeit Gebrauch gemacht wird, Bewerberinnen und Bewerber, die den Leistungstest nicht bestehen, von der weiteren Teilnahme am Auswahlverfahren auszuschließen,
+
+4. die Bewertungs- und Gewichtungssystematik sowie
+
+5. die für das Bestehen erforderlichen Mindestpunktzahlen.
+
+(2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
+
+(3) Das Bundesministerium der Finanzen oder bei entsprechender Delegation die Generalzolldirektion kann die Bewertungssystematik im laufenden Auswahlverfahren bundeseinheitlich für jeden Teil des Auswahlverfahrens ändern.
+
+# § 16 – Schriftlicher Teil des Auswahlverfahrens
+
+(1) Im schriftlichen Teil des Auswahlverfahrens können folgende Kompetenzbereiche geprüft werden:
+
+1. kognitive Kompetenzen,
+
+2. Kommunikationsfähigkeit,
+
+3. Allgemeinwissen und
+
+4. Persönlichkeitseigenschaften.
+
+(2) Der schriftliche Teil des Auswahlverfahrens besteht aus einem Leistungstest. Die Bearbeitungszeit für den Leistungstest beträgt höchstens vier Zeitstunden.
+
+(3) Zusätzlich zu dem Leistungstest können weitere Auswahlinstrumente angewendet werden, jedoch höchstens zwei der folgenden:
+
+1. ein weiterer Leistungstest,
+
+2. ein Persönlichkeitstest und
+
+3. Simulationsaufgaben.
+
+(4) Die Auswahlkommission bewertet die Leistungstests und die weiteren Auswahlinstrumente arbeitsteilig. Sie kann sich bei der Bewertung durch eingewiesene Hilfskräfte oder durch Informationstechnik unterstützen lassen. Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden. Die Gesamtverantwortung für die Auswahl bleibt bei der Auswahlkommission.
+
+(5) Falls im schriftlichen Teil neben dem Leistungstest weitere Auswahlinstrumente angewendet werden, kann von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen werden, wer in dem Leistungstest nicht die jeweils erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
+
+# § 17 – Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge
+
+(1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn im Leistungstest und im Fall der Ergänzung durch weitere Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
+
+(2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber festgelegt, die den schriftlichen Teil des Auswahlverfahrens bestanden haben. Sind in einer Einstellungsbehörde mehrere Auswahlkommissionen eingerichtet, wird eine gemeinsame Rangfolge aller Bewerberinnen und Bewerber gebildet. Hat die Generalzolldirektion eine oder mehrere gemeinsame Auswahlkommissionen für mehrere Einstellungsbehörden verfügt, so ist jeweils eine gesonderte Rangfolge für jede Einstellungsbehörde zu bilden. Die festgelegte Rangfolge ist für die Zulassung zum mündlichen Auswahlverfahren maßgebend.
+
+(+++ § 17 Abs. 2: Zur Geltung vgl. § 21 Abs. 3 +++)
+
+# § 18 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+
+(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden hat.
+
+(2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, die Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, um mehr als das Doppelte, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden. Es sind jedoch mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. Ist die Zahl der Teilnehmenden beschränkt, wird zum mündlichen Teil des Auswahlverfahrens zugelassen, wer nach der Rangfolge, die anhand der im schriftlichen Teil erzielten Ergebnisse festgelegt worden ist, am besten geeignet ist.
+
+(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von ihrer Eignung zu überzeugen, soweit die Eignung im schriftlichen Teil des Auswahlverfahrens noch nicht festgestellt werden konnte.
+
+# § 19 – Mündlicher Teil des Auswahlverfahrens
+
+(1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+
+(2) Der mündliche Teil besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview.
+
+(3) Für die Durchführung des mündlichen Teils des Auswahlverfahrens kann Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
+(4) Je Auswahlkommission darf der mündliche Teil des Auswahlverfahrens pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden.
+
+(5) Am mündlichen Teil des Auswahlverfahrens können die Gleichstellungsbeauftragte, ein Mitglied der Personalvertretung und gegebenenfalls die Schwerbehindertenvertretung teilnehmen.
+
+(6) Am Ende jedes Auswahltages führt die Auswahlkommission eine Beratung über die endgültigen Bewertungen durch. Die Gleichstellungsbeauftragte kann an der Beratung teilnehmen. Dem Mitglied der Personalvertretung und gegebenenfalls der Schwerbehindertenvertretung ist vor Beginn der Beratung Gelegenheit zur Stellungnahme zu geben.
+
+# § 20 – Bestehen des mündlichen Teils des Auswahlverfahrens
+
+Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn in den Simulationsübungen und im strukturierten Interview jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
+
+# § 21 – Gesamtergebnis und Rangfolge
+
+(1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens bestanden hat, das Gesamtergebnis des Auswahlverfahrens.
+
+(2) In das Gesamtergebnis geht das Ergebnis des schriftlichen Teils mit 20 Prozent und das Ergebnis des mündlichen Teils mit 80 Prozent ein.
+
+(3) Anhand des Gesamtergebnisses bildet die Auswahlkommission eine Rangfolge der Bewerberinnen und Bewerber. § 17 Absatz 2 Satz 2 und 3 gilt entsprechend. Die festgelegte Rangfolge ist für die Einstellung in der jeweiligen Einstellungsbehörde maßgebend.
+
+(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten spätestens ein Jahr nach Mitteilung der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb dieser Frist zu löschen.
+
+(+++ § 21 Abs. 4: Zur Geltung vgl. § 24 Abs. 3 +++)
+
+# § 22 – Ausnahmeregelung zur Rangfolge
+
+(1) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens nicht bestanden haben, werden abweichend von § 21 Absatz 3 nur in die Rangfolge aufgenommen, wenn
+
+1. das Gesamtergebnis des Auswahlverfahrens die Gesamtmindestpunktzahl erreicht und
+
+2. die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
+
+Die Gesamtmindestpunktzahl ermittelt sich aus der Summe der Mindestpunktzahlen für das Bestehen des schriftlichen Teils des Auswahlverfahrens multipliziert mit 20 Prozent und der Summe der Mindestpunktzahlen für das Bestehen des mündlichen Teils des Auswahlverfahrens multipliziert mit 80 Prozent.
+
+(2) Wer nach Absatz 1 nicht in die Rangfolge aufgenommen wird, hat erfolglos am Auswahlverfahren teilgenommen.
+
+# § 23 – Täuschung
+
+(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder an einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
+
+(2) Vor einer Entscheidung sind die Betroffenen anzuhören.
+
+# § 24 – Einstellung und gesundheitliche Eignung
+
+(1) In den Vorbereitungsdienst kann eingestellt werden, wer
+
+1. erfolgreich am Auswahlverfahren teilgenommen hat,
+
+2. die nach dem Anforderungsprofil der Stellenausschreibung erforderlichen Unterlagen und Nachweise rechtzeitig vorgelegt hat und
+
+3. die gesundheitlichen Anforderungen an den Zolldienst erfüllt.
+
+(2) Zur Feststellung der gesundheitlichen Eignung veranlasst die Einstellungsbehörde für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Einstellungsbehörde.
+
+(3) Wer erfolgreich am Auswahlverfahren teilgenommen hat, aber nicht eingestellt wird, erhält eine schriftliche oder elektronische Mitteilung über die Nichteinstellung. § 21 Absatz 4 Satz 2 und 3 gilt entsprechend.
+
+# § 25 – Dauer und Umfang des Studiums
+
+(1) Die Regelstudienzeit beträgt drei Jahre. Jedes Studienjahr besteht aus zwei Semestern.
+
+(2) Das Studium hat einen Umfang von 180 Leistungspunkten nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen (ECTS-Leistungspunkte). Davon entfallen 122 ECTS-Leistungspunkte auf die Fachstudien und 58 ECTS-Leistungspunkte auf die praxisintegrierenden Fachstudien. Ein ECTS-Leistungspunkt entspricht einem Arbeitsaufwand von 30 Zeitstunden.
+
+(3) Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheiden die Einstellungsbehörden im Benehmen mit dem Fachbereich Finanzen.
+
+# § 26 – Studieninhalte
+
+Das Studium vermittelt rechtswissenschaftliche, ökonomische und verwaltungspsychologische Grundlagen sowie berufsfeldbezogene Studieninhalte. Die berufsfeldbezogenen Studieninhalte aus dem Bereich Rechtswissenschaften sowie den Bereichen Ökonomie, Digitale Verwaltung und Verwaltungspsychologie sind wie folgt gegliedert:
+
+1. Zoll; Allgemeines und Besonderes Zollrecht, Zolltarifrecht,
+
+2. Steuern; Allgemeines Steuerrecht, Verbrauchsteuerrecht, Verkehrsteuerrecht,
+
+3. Arbeit; Recht der Bekämpfung von Schwarzarbeit und illegaler Beschäftigung,
+
+4. Ökonomie, Digitale Verwaltung und Verwaltungspsychologie als Querschnittsthemen.
+
+# § 27 – Studienstruktur
+
+(1) Die Studieninhalte werden in thematisch und zeitlich abgegrenzten Modulen vermittelt. Die Module können interdisziplinär ausgestaltet sein.
+
+(2) Das Studium gliedert sich in folgende Abschnitte und Module:
+
+ 
+
+Semester
+
+Studienabschnitt
+
+Modulnummer
+
+Modultitel
 
  
 
@@ -72,923 +385,1094 @@ Notendefinition
 
 1
 
-100,00 bis 93,70
+1\. und 2. Semester
+
+Fachstudien
+
+Modul 1
+
+Rechtswissenschaftliche Grundlagen I
+
+2
+
+Modul 2
+
+Rechtswissenschaftliche Grundlagen II
+
+3
+
+Modul 3
+
+Betriebswirtschaftliche Grundlagen
+
+4
+
+Modul 4
+
+Volks- und finanzwirtschaftliche Grundlagen
+
+5
+
+Modul 5
+
+Verwaltungspsychologische Grundlagen
+
+6
+
+Modul 6
+
+Zoll I
+
+7
+
+Modul 7
+
+Steuern I
+
+8
+
+Modul 8
+
+Arbeit I
+
+9
+
+Modul 9
+
+BWL und Digitale Verwaltung I
+
+10
+
+3\. und 4. Semester
+
+Praxisintegrierende Fachstudien
+
+Modul 10
+
+Zoll II
+
+11
+
+Modul 11
+
+Steuern II
+
+12
+
+Modul 12
+
+Arbeit II
+
+13
+
+Modul 13
+
+BWL, Digitale Verwaltung und Verwaltungspsychologie II
+
+14
+
+5\. Semester
+
+Fachstudien
+
+Modul 14
+
+Zoll III
 
 15
+
+Modul 15
+
+Steuern III
+
+16
+
+Modul 16
+
+Arbeit III
+
+17
+
+Modul 17
+
+Digitale Verwaltung und Verwaltungspsychologie III
+
+18
+
+Modul 18
+
+Wahlpflichtmodul 1
+
+19
+
+Modul 19
+
+Wahlpflichtmodul 2
+
+20
+
+6\. Semester
+
+Bachelorarbeit
+
+Modul 20
+
+Bachelorarbeit
+
+21
+
+Wahlpflichtpraktikum
+
+Modul 21
+
+Wahlpflichtpraktikum
+
+# § 28 – Modulhandbuch
+
+(1) Für das Studium erstellt der Fachbereich Finanzen ein Modulhandbuch.
+
+(2) Das Modulhandbuch regelt:
+
+1. Einzelheiten zur Studienstruktur,
+
+2. den Studienablauf,
+
+3. die Lernorte,
+
+4. die Verteilung der ECTS-Leistungspunkte auf die Module,
+
+5. die Modulbeschreibungen,
+
+6. die Modulbeauftragten,
+
+7. die Einzelheiten zu den Qualifikationszielen,
+
+8. die Einzelheiten zu den Studieninhalten,
+
+9. die Voraussetzungen für die Vergabe von ECTS-Leistungspunkten und
+
+10. Vorgaben zu Inhalt, Form und Dauer der Prüfungen.
+
+(3) Das Modulhandbuch wird auf der Internetseite des Fachbereichs Finanzen veröffentlicht und beim Fachbereich Finanzen in der jeweils geltenden Fassung in unveränderlicher Form vorgehalten und archiviert. Maßgeblich ist jeweils die Fassung, die bei Beginn des Studiums gilt.
+
+# § 29 – Fachstudien
+
+(1) Die Fachstudien bestehen aus fachtheoretischen Lehrveranstaltungen.
+
+(2) Die Lehrveranstaltungen können Präsenzlehrveranstaltungen oder synchrone digitale Lehrveranstaltungen sein. Präsenzlehrveranstaltungen sind der Regelfall. Die Lehrveranstaltungen werden durch asynchrone digitale Lehrformate in Form von angeleitetem Selbststudium ergänzt. Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+
+(3) Die Fachstudien liegen in der Verantwortung des Fachbereichs Finanzen. Sie werden von hauptamtlichen Lehrenden oder Lehrbeauftragten des Fachbereichs Finanzen durchgeführt.
+
+(4) Für die Fachstudien werden die Studierenden von den Einstellungsbehörden an den Fachbereich Finanzen abgeordnet.
+
+# § 30 – Praxisintegrierende Fachstudien
+
+(1) Die praxisintegrierenden Fachstudien bestehen aus
+
+1. Praxisaufenthalten bei den Ausbildungsbehörden (Praxisstudien) und
+
+2. fachtheoretischen Lehrveranstaltungen des Fachbereichs Finanzen (Transferveranstaltungen).
+
+(2) Die Transferveranstaltungen können synchrone digitale Lehrveranstaltungen oder Präsenzlehrveranstaltungen sein. Sie werden durch asynchrone digitale Lehrformate in Form von angeleitetem Selbststudium ergänzt. Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+
+(3) Die Transferveranstaltungen liegen in der Verantwortung des Fachbereichs Finanzen. Sie werden von hauptamtlichen Lehrenden oder Lehrbeauftragten des Fachbereichs Finanzen durchgeführt.
+
+(4) Die Praxisstudien liegen in der Verantwortung des Fachbereichs Finanzen. Ihre Durchführung obliegt den Ausbildungsbehörden.
+
+# § 31 – Wahlpflichtpraktikum
+
+(1) Das Wahlpflichtpraktikum besteht aus Praxisstudien.
+
+(2) Werden die Praxisstudien bei einer Ausbildungsbehörde nach § 5 Nummer 2 durchgeführt, so gilt
+
+1. im Falle einer inländischen Behörde, dass die Studierenden von den Einstellungsbehörden an diese abgeordnet werden, und
+
+2. im Übrigen, dass die Studierenden von den Einstellungsbehörden der Behörde oder Einrichtung zugewiesen werden.
+
+# § 32 – Transferkoordinatorin und Transferkoordinator
+
+(1) Der Fachbereich Finanzen bestellt eine Transferkoordinatorin oder einen Transferkoordinator und eine Vertretung.
+
+(2) Die Transferkoordinatorin oder der Transferkoordinator koordiniert den fachlichen Austausch zwischen dem Fachbereich Finanzen und den Ausbildungsbehörden und ist deren gemeinsame Ansprechpartnerin oder deren gemeinsamer Ansprechpartner. Sie oder er ist für die inhaltliche Abstimmung von fachtheoretischen und berufspraktischen Studieninhalten verantwortlich und wertet die Evaluationen der praxisintegrierenden Fachstudien und des Wahlpflichtpraktikums aus.
+
+# § 33 – Praxisstudienleiterin und Praxisstudienleiter
+
+(1) Jede Ausbildungsbehörde bestellt im Einvernehmen mit dem Fachbereich Finanzen eine Praxisstudienleiterin oder einen Praxisstudienleiter und eine Vertretung. Sowohl die Praxisstudienleiterin oder der Praxisstudienleiter als auch die Vertretung müssen über die erforderlichen fachlichen und didaktischen Fähigkeiten und Kenntnisse verfügen und einen Bachelorabschluss oder eine mindestens gleichwertige Qualifikation besitzen.
+
+(2) Die Praxisstudienleiterin oder der Praxisstudienleiter ist für die ordnungsgemäße Durchführung der Praxisstudien verantwortlich. Sie oder er erstellt für jede Studierende und jeden Studierenden einen Ablaufplan der jeweiligen Praxisstudien nach den Anforderungen des Fachbereichs Finanzen.
+
+(3) Die Praxisstudienleiterin oder der Praxisstudienleiter berät die Studierenden in Angelegenheiten der Praxisstudien.
+
+# § 34 – Praxistutorinnen und Praxistutoren
+
+(1) Jede Ausbildungsbehörde bestellt Praxistutorinnen und Praxistutoren für die praktische Ausbildung der Studierenden.
+
+(2) Die Praxistutorinnen und Praxistutoren betreuen die Studierenden während der Praxisstudien und leiten sie an.
+
+(3) Als Praxistutorin oder Praxistutor darf nur bestellt werden, wer über die erforderlichen fachlichen und didaktischen Fähigkeiten und Kenntnisse verfügt.
+
+(4) Die Praxisstudienleiterin oder der Praxisstudienleiter teilt die Studierenden den jeweiligen Praxistutorinnen und Praxistutoren zu. Den Praxistutorinnen und Praxistutoren dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist.
+
+(5) Die Praxistutorinnen und Praxistutoren informieren die Praxisstudienleiterin oder den Praxisstudienleiter regelmäßig über den aktuellen Ausbildungsstand der Studierenden, die ihnen zugeteilt sind.
+
+# § 35 – Qualitätsmanagement
+
+(1) Das Studium unterliegt einem systematischen Qualitätsmanagement.
+
+(2) Teil des systematischen Qualitätsmanagements ist die Evaluation. Das Nähere zur Evaluation regelt die Evaluationsordnung des Fachbereichs Finanzen.
+
+(3) Die Evaluationsordnung wird auf der Internetseite des Fachbereichs Finanzen veröffentlicht und beim Fachbereich Finanzen in der jeweils geltenden Fassung in unveränderlicher Form vorgehalten und archiviert.
+
+# § 36 – Prüfungsamt
+
+(1) Für die Organisation und Durchführung der Prüfungen ist das Prüfungsamt des Fachbereichs Finanzen zuständig.
+
+(2) Das Prüfungsamt ist Widerspruchsbehörde für alle Entscheidungen im Rahmen der Prüfungen.
+
+# § 37 – Prüfende
+
+(1) Die Prüfenden werden vom Prüfungsamt bestellt.
+
+(2) Als Prüfende oder Prüfender kann nur bestellt werden, wer einen einschlägigen Bachelorabschluss oder eine mindestens gleichwertige Qualifikation besitzt.
+
+(3) Die Prüfenden sollen hauptamtliche Lehrende oder Lehrbeauftragte des Fachbereichs Finanzen sein. Als Prüfende oder Prüfender kann auch bestellt werden, wer in der Vergangenheit mindestens fünf Jahre eine solche Tätigkeit ausgeübt hat.
+
+(4) Die Prüfenden sind in ihrer Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
+
+# § 38 – Prüfungen
+
+Prüfungen können aus mehreren Teilprüfungen bestehen. Jede Teilprüfung ist zeitlich und räumlich abgegrenzt und wird in einem bestimmten Prüfungsformat durchgeführt.
+
+# § 39 – Durchführung der Prüfungen; Prüfungsplan
+
+(1) Das Prüfungsamt erstellt vor Beginn eines Semesters einen Prüfungsplan, in dem geregelt wird, welche Prüfungen zu welchem Zeitpunkt in den einzelnen Modulen erbracht werden müssen. Der Prüfungsplan muss den Studierenden vor Beginn eines Semesters zur Einsicht zur Verfügung stehen.
+
+(2) Das Prüfungsamt bestimmt, ob die Prüfungen ganz oder teilweise unter der Verwendung digitaler Technologien durchgeführt werden. Der Fachbereich Finanzen gewährleistet, unter Beachtung der Vertraulichkeit, die Integrität und Authentizität der Daten und stellt sicher, dass die Daten eindeutig identifiziert und unverwechselbar und dauerhaft den Studierenden zugeordnet werden können.
+
+(3) Das Prüfungsamt kann von den Studierenden eine Versicherung verlangen, dass die jeweilige Prüfungsleistung von ihnen selbständig und ohne unzulässige fremde Mitwirkung erbracht worden ist.
+
+# § 40 – Bewertung der Prüfungsleistungen
+
+(1) Die Prüfungsleistungen werden, soweit sich aus § 41 nichts anderes ergibt, wie folgt bewertet:
+
+ 
+
+Note
+
+Beschreibung
+
+numerischer Notenwert
+
+ 
+
+1
+
+2
+
+3
+
+1
 
 sehr gut
 
 eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
+1,0 und 1,3
+
 2
-
- 93,69 bis 87,50
-
-14
-
-3
-
- 87,49 bis 83,40
-
-13
 
 gut
 
 eine Leistung, die den Anforderungen voll entspricht
 
-4
+1,7 und 2,0 und 2,3
 
- 83,39 bis 79,20
-
-12
-
-5
-
- 79,19 bis 75,00
-
-11
-
-6
-
- 74,99 bis 70,90
-
-10
+3
 
 befriedigend
 
 eine Leistung, die im Allgemeinen den Anforderungen entspricht
 
-7
+2,7 und 3,0 und 3,3
 
- 70,89 bis 66,70
-
- 9
-
-8
-
- 66,69 bis 62,50
-
- 8
-
-9
-
- 62,49 bis 58,40
-
- 7
+4
 
 ausreichend
 
 eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht
 
-10
+3,7 und 4,0
 
- 58,39 bis 54,20
-
- 6
-
-11
-
- 54,19 bis 50,00
-
- 5
-
-12
-
- 49,99 bis 41,70
-
- 4
+5
 
 mangelhaft
 
 eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können
 
-13
+5,0
 
- 41,69 bis 33,40
-
- 3
-
-14
-
- 33,39 bis 25,00
-
- 2
-
-15
-
- 24,99 bis 12,50
-
- 1
+6
 
 ungenügend
 
 eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können
 
-16
+6,0
 
- 12,49 bis  0,00
+(2) Als Bewertungshilfsgröße können Bewertungspunkte verwendet werden. Die Zuordnung von Bewertungspunkten zu dem numerischen Notenwert wird wie folgt bestimmt:
 
- 0
+ 
 
-(2) Bei der Bewertung schriftlicher Leistungen werden den für die Leistung maßgebenden Anforderungen ihrer Zahl, Zusammensetzung und Schwierigkeit entsprechende Punkte zugeteilt. Die erreichbare Punktzahl bei schriftlichen Leistungstests soll grundsätzlich 100 Punkte betragen.
+Bewertungspunkte (Prozentanteile)
 
-(3) Bei der Bewertung werden neben der fachlichen Leistung die Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen berücksichtigt.
+numerischer Notenwert
 
-(4) Werden Leistungen von zwei Prüfenden bewertet, wird bei abweichenden Bewertungen das arithmetische Mittel gebildet und auf volle Rangpunkte aufgerundet.
+Note
 
-(5) Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Nachkommastellen ohne Auf- und Abrundung berechnet.
+ 
 
-# § 7 – Fernbleiben und Rücktritt
+1
 
-(1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem Leistungstest, von einer Prüfung, einem Prüfungsteil oder einer Klausur in der Prüfung gilt der Leistungstest, die Prüfung, der Prüfungsteil oder die Klausur als mit null Rangpunkten bewertet.
+2
 
-(2) Bei genehmigtem Fernbleiben oder Rücktritt gilt der Leistungstest, die Prüfung, der Prüfungsteil oder die Klausur in der Prüfung als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn die oder der Studierende nachweist, dass ein wichtiger Grund vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen der zuständigen Stelle ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes, die oder der von der zuständigen Stelle beauftragt worden ist, vorzulegen; die Kosten trägt der Dienstherr.
+3
 
-(3) Die für die Entscheidung über die Genehmigung des Fernbleibens oder des Rücktritts zuständige Stelle bestimmt, ob und inwieweit bereits absolvierte Leistungstests, Prüfungsteile oder Klausuren in Prüfungen gewertet werden und zu welchem Zeitpunkt sie nachgeholt werden. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
+1
 
-(+++ § 7 Abs. 2: Zur Anwendung vgl. § 31 Abs. 5 +++)
+ab 95
 
-# § 8 – Täuschung und Ordnungsverstoß
+1,0
 
-(1) Studierenden, die bei einem Leistungstest, bei einer Klausur in einer Prüfung oder bei der mündlichen Abschlussprüfung täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung des Leistungstestes, der Klausur oder der mündlichen Abschlussprüfung unter dem Vorbehalt einer abweichenden Entscheidung der zuständigen Stelle gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme am Leistungstest, an der Klausur, an der mündlichen Abschlussprüfung oder an der Prüfung insgesamt ausgeschlossen werden.
+sehr gut
 
-(2) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Mitwirkens an einem solchen oder eines sonstigen Ordnungsverstoßes entscheidet die zuständige Stelle nach Anhörung der oder des Aufsichtführenden und der betroffenen Personen. Je nach Schwere des Verstoßes kann
+2
 
-1. die Wiederholung des Leistungstestes, der Klausur in der Prüfung oder der mündlichen Abschlussprüfung angeordnet werden,
+ab 90
 
-2. der Leistungstest, die Klausur in der Prüfung oder die mündliche Abschlussprüfung mit null Rangpunkten bewertet werden oder
+1,3
 
-3. die Zwischenprüfung, die schriftliche Abschlussprüfung oder die mündliche Abschlussprüfung für insgesamt nicht bestanden erklärt werden.
+3
 
-Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
+ab 85
 
-(3) Bei einer Täuschung, die nach Beendigung eines Leistungstestes, einer Klausur in der Prüfung oder der mündlichen Abschlussprüfung festgestellt wird, ist Absatz 2 entsprechend anzuwenden.
+1,7
 
-(4) Wird eine Täuschung erst nach dem Abschluss der Laufbahnprüfung bekannt oder kann sie erst dann nachgewiesen werden, kann das Prüfungsamt die Laufbahnprüfung innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung für nicht bestanden erklären.
+gut
 
-(5) Die Einleitung disziplinarrechtlicher Maßnahmen bleibt unberührt.
+4
 
-(+++ § 8 Abs. 2 bis 4: Zur Anwendung vgl. § 31 Abs. 4 +++)
+ab 80
 
-# § 9 – Erholungsurlaub
+2,0
 
-Erholungsurlaub wird in der Regel während der berufspraktischen Studienzeit gewährt und auf den Vorbereitungsdienst angerechnet.
+5
 
-# § 10 – Zulassung zum Auswahlverfahren
+ab 75
 
-(1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Besonders wichtig sind kognitive Fähigkeiten, Teamfähigkeit, Kommunikationsfähigkeit und Leistungsmotivation. Die Einstellungsbehörde kündigt das Auswahlverfahren durch Ausschreibung an.
+2,3
 
-(2) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele geeignete Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. Im Fall einer Beschränkung wird zugelassen, wer nach den eingereichten Unterlagen, insbesondere nach den Zeugnisnoten, am besten geeignet erscheint. Schwerbehinderte und diesen gleichgestellte behinderte Menschen werden unabhängig von einer Beschränkung zugelassen, wenn sie nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllen.
+6
 
-(3) Für ehemalige Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein gilt das Verfahren nach § 10 des Soldatenversorgungsgesetzes.
+ab 70
 
-(4) Wer zum Auswahlverfahren nicht zugelassen wird oder erfolglos daran teilgenommen hat, erhält eine Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten; elektronisch übermittelte Bewerbungsunterlagen sind zu löschen.
+2,7
 
-# § 11 – Auswahlkommission
+befriedigend
 
-(1) Für die Durchführung des Auswahlverfahrens richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. In diesem Fall ist sicherzustellen, dass in allen Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
+7
 
-(2) Die Auswahlkommission besteht aus
+ab 65
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+3,0
 
-2. drei Beamtinnen oder Beamten des gehobenen Dienstes, von denen eine Beamtin oder ein Beamter mindestens der Besoldungsgruppe A 12 angehören soll.
+8
 
-In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je Auswahlkommission bestellt werden.
+ab 60
 
-(2a) Die Generalzolldirektion kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2024 – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+3,3
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+9
 
-2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder zwei Beamten des gehobenen Dienstes
+ab 55
 
-(3) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig. Die Auswahlkommission soll paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen.
+3,7
 
-(4) Die Mitglieder der Auswahlkommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
+ausreichend
 
-(5) Die Stimmen der Mitglieder der Auswahlkommission haben gleiches Gewicht. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+10
 
-# § 12 – Auswahlverfahren
+ab 50
 
-(1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Einzelne Abschnitte des Auswahlverfahrens können unterstützt durch Informationstechnik durchgeführt werden. Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden. Die Gesamtverantwortung für die Auswahl bleibt bei der Auswahlkommission.
+4,0
 
-(2) Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde legt bundeseinheitlich die Inhalte der Teile des Auswahlverfahrens, den Ablauf der einzelnen Teile sowie die Bewertungs- und Gewichtungssystematik fest. Die Festlegung kann vor dem Beginn des Auswahlverfahrens oder vor jedem Teil erfolgen. Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde kann die Bewertungssystematik im laufenden Verfahren bundeseinheitlich für jeden Teil ändern.
+11
 
-(3) Eine Täuschung, ein Täuschungsversuch oder die Beihilfe zu einer Täuschung oder einem Täuschungsversuch während des Auswahlverfahrens führen zum Ausschluss der Bewerberin oder des Bewerbers vom Auswahlverfahren. Vor der Entscheidung über den Ausschluss wird die Bewerberin oder der Bewerber angehört.
+ab 25
 
-# § 13 – Schriftlicher Teil des Auswahlverfahrens
+5,0
 
-(1) Der schriftliche Teil des Auswahlverfahrens ist ein Leistungstest mit mehreren Abschnitten. In diesen Abschnitten werden folgende Kompetenzbereiche geprüft:
+mangelhaft
 
-1. kognitive Fähigkeiten,
+12
 
-2. sprachliche Fähigkeiten,
+unter 25
 
-3. methodische Fähigkeiten und
+6,0
 
-4. Allgemeinwissen.
+unbefriedigend
 
-(2) Die Bearbeitungszeit beträgt höchstens 240 Minuten.
+(3) Mit dem numerischen Notenwert 4,0 darf eine Prüfungsleistung erst bewertet werden, wenn die Anforderungen mindestens zur Hälfte erfüllt worden sind.
 
-(3) Die Auswahlkommission bewertet die Leistungstests arbeitsteilig. Sie kann sich bei der Bewertung durch eingewiesene Hilfskräfte oder durch Informationstechnik unterstützen lassen.
+(4) Besteht eine Prüfung aus mehreren Teilprüfungen, wird der numerische Notenwert für die Bewertung der Prüfung aus dem gewichteten arithmetischen Mittel der numerischen Notenwerte der Bewertungen der einzelnen Teilprüfungen errechnet. Die einzelnen Teilprüfungen sind dabei entsprechend den ausgewiesenen Prozentsätzen zu gewichten.
 
-(4) Aus den Bewertungen der einzelnen Kompetenzbereiche wird unter Zugrundelegung der festgelegten Gewichtung die Gesamtpunktzahl für den schriftlichen Teil des Auswahlverfahrens ermittelt. Für das Bestehen des schriftlichen Teils wird in der Bewertungssystematik eine Mindestgesamtpunktzahl festgelegt.
+(5) Wird eine Prüfungsleistung von mehreren Prüfenden bewertet, wird das arithmetische Mittel der von diesen Prüfenden vergebenen numerischen Notenwerte gebildet.
 
-(5) Für die einzelnen Kompetenzbereiche können in der Bewertungssystematik Mindestpunktzahlen festgelegt werden. Sofern die Mindestpunktzahlen erreicht worden sind, wird aus den Bewertungen der einzelnen Kompetenzbereiche eine Gesamtpunktzahl für den schriftlichen Teil des Auswahlverfahrens ermittelt. Hat eine Bewerberin oder ein Bewerber in einem Kompetenzbereich nicht die erforderliche Mindestpunktzahl erreicht, so ist für sie oder ihn das Auswahlverfahren erfolglos beendet. Hiervon ausgenommen sind schwerbehinderte und diesen gleichgestellte behinderte Menschen.
+(6) Bei der Berechnung des gewichteten arithmetischen Mittels und des arithmetischen Mittels wird nur die erste Dezimalstelle hinter dem Komma ohne Rundung berücksichtigt. Die Note lautet dann:
 
-(6) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber
+ 
 
-1. die erforderliche Mindestgesamtpunktzahl erreicht hat und
+Durchschnittsbereich
 
-2. im Fall des Absatzes 5 Satz 1 in jedem Kompetenzbereich die erforderliche Mindestpunktzahl erreicht hat.
+numerischer Notenwert
 
-(7) Für die Bewerberinnen und Bewerber, die bestanden haben, legt die Auswahlkommission anhand der erzielten Ergebnisse eine Rangfolge fest.
+Note
 
-# § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+ 
 
-(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden hat.
+1
 
-(2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, die Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, um mehr als das Doppelte, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden. Es sind jedoch mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. In diesem Fall wird zugelassen, wer nach der Rangfolge, die nach dem schriftlichen Teil des Auswahlverfahrens gebildet worden ist, am besten geeignet ist.
+2
 
-(3) Schwerbehinderte und diesen gleichgestellte behinderte Menschen, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von der Eignung zu überzeugen, soweit diese Eignung im schriftlichen Verfahren noch nicht festgestellt werden konnte.
+3
 
-# § 15 – Mündlicher Teil des Auswahlverfahrens
+1
 
-(1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+bei einem Durchschnitt bis einschließlich 1,1
 
-(2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die Dauer der Simulationsübungen einschließlich erforderlicher Vorbereitungszeiten und die Dauer des Interviews werden den Bewerberinnen und Bewerbern vor Beginn des mündlichen Teils mitgeteilt. Die Dauer der Simulationsübungen beträgt pro Bewerberin oder Bewerber höchstens 150 Minuten.
+1,0
 
-(3) Am mündlichen Teil des Auswahlverfahrens können die Gleichstellungsbeauftragte, ein Mitglied der Personalvertretung und gegebenenfalls die Schwerbehindertenvertretung teilnehmen.
+sehr gut
 
-(4) Die Mitglieder der Auswahlkommission bewerten nach jeder Simulationsübung unabhängig voneinander die mit der Übung überprüften Kompetenzbereiche jeder Bewerberin und jedes Bewerbers. Die Bewertung erfolgt mit Punkten. Die Bewertung des einzelnen Kompetenzbereiches ist das arithmetische Mittel der Einzelbewertungen der Kommissionsmitglieder. Die Bewertung ist vorläufig.
+2
 
-(5) Am Ende jedes Auswahltages führt die Auswahlkommission eine Beratung über die endgültigen Bewertungen durch. Die Gleichstellungsbeauftragte kann an der Beratung teilnehmen. Den Mitgliedern der Personal- und Schwerbehindertenvertretung ist vor Beginn der Beratung Gelegenheit zur Stellungnahme zu geben.
+bei einem Durchschnitt von 1,2 bis einschließlich 1,4
 
-(6) Aus den Bewertungen der einzelnen Kompetenzbereiche wird unter Zugrundelegung der festgelegten Gewichtung die Gesamtpunktzahl für den mündlichen Teil des Auswahlverfahrens ermittelt. Für das Bestehen des mündlichen Teils wird in der Bewertungssystematik eine Mindestgesamtpunktzahl festgelegt.
+1,3
 
-(7) Für die einzelnen Kompetenzbereiche können in der Bewertungssystematik Mindestpunktzahlen vorgesehen werden. Sofern die Mindestpunktzahlen erreicht worden sind, wird aus den Bewertungen der einzelnen Kompetenzbereiche eine Gesamtpunktzahl für den mündlichen Teil des Auswahlverfahrens ermittelt.
+3
 
-(8) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber
+bei einem Durchschnitt von 1,5 bis einschließlich 1,8
 
-1. die erforderliche Mindestgesamtpunktzahl erreicht hat und
+1,7
 
-2. im Fall des Absatzes 7 Satz 1 in jedem Kompetenzbereich die erforderliche Mindestpunktzahl erreicht hat.
+gut
 
-# § 16 – Gesamtergebnis des Auswahlverfahrens
+4
 
-(1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber das Gesamtergebnis des Auswahlverfahrens. In das Gesamtergebnis gehen das Ergebnis des schriftlichen Teils mit 40 Prozent und das Ergebnis des mündlichen Teils mit 60 Prozent ein.
+bei einem Durchschnitt von 1,9 bis einschließlich 2,1
 
-(2) Das Gesamtergebnis wird auf die zweite Nachkommastelle kaufmännisch gerundet.
+2,0
 
-(3) Das Auswahlverfahren ist bestanden, wenn die Bewerberin oder der Bewerber
+5
 
-1. den schriftlichen und den mündlichen Teil des Auswahlverfahrens bestanden und
+bei einem Durchschnitt von 2,2 bis einschließlich 2,4
 
-2. die für das Gesamtergebnis erforderliche Mindestgesamtpunktzahl erreicht hat. Die Höhe und die Grundlagen der Ermittlung der Mindestgesamtpunktzahl werden in der Bewertungssystematik festgelegt.
+2,3
 
-(4) Anhand der ermittelten Gesamtergebnisse bildet die Auswahlkommission eine Rangfolge der Bewerberinnen und Bewerber, die das Auswahlverfahren bestanden haben. Sind in einer Einstellungsbehörde mehrere Auswahlkommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber gebildet. Die festgelegte Rangfolge ist für die Einstellung maßgebend.
+6
 
-(5) Schwerbehinderte und diesen gleichgestellte behinderte Bewerberinnen und Bewerber haben das Auswahlverfahren darüber hinaus bestanden und werden in die Rangfolge aufgenommen, wenn
+bei einem Durchschnitt von 2,5 bis einschließlich 2,8
 
-1. sie den mündlichen Teil des Auswahlverfahrens bestanden haben,
+2,7
 
-2. die Mindestgesamtpunktzahl für das Bestehen des Auswahlverfahrens erreicht ist und
+befriedigend
 
-3. die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
+7
 
-# § 17 – Einstellung
+bei einem Durchschnitt von 2,9 bis einschließlich 3,1
 
-(1) In den Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes kann eingestellt werden, wer erfolgreich am Auswahlverfahren teilgenommen hat und nach ärztlichem Gutachten die gesundheitlichen Anforderungen an den Zolldienst erfüllt.
+3,0
 
-(2) Die Einstellungsbehörde entscheidet über die Einstellung der Bewerberinnen und Bewerber auf der Grundlage der Rangfolge nach § 16 Absatz 4.
+8
 
-(3) Die Einstellungsbehörde veranlasst für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Einstellungsbehörde.
+bei einem Durchschnitt von 3,2 bis einschließlich 3,4
 
-# § 18 – Aufbau des Studiums
+3,3
 
-(1) Das Studium gliedert sich in folgende Abschnitte:
+9
 
-1. eine fachtheoretische Studienzeit, bestehend aus einem mindestens sechsmonatigen Grundstudium und einem mindestens zwölfmonatigen Hauptstudium, und
+bei einem Durchschnitt von 3,5 bis einschließlich 3,8
 
-2. eine höchstens 18-monatige berufspraktische Studienzeit, bestehend aus Praktika und praxisbezogenen Lehrveranstaltungen.
+3,7
 
-(2) Das Hauptstudium und die berufspraktische Studienzeit können in mehrere Teilabschnitte gegliedert werden.
+ausreichend
 
-(3) Die fachtheoretische Studienzeit umfasst mindestens 1 920 Lehrveranstaltungsstunden. Die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Studienzeit betragen mindestens 300 Lehrveranstaltungsstunden.
+10
 
-(4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend. Die Studierenden sind zum Selbststudium verpflichtet.
+bei einem Durchschnitt von 3,9 bis einschließlich 4,0
 
-(4a) Die Hochschule kann im Einvernehmen mit dem Bundesministerium der Finanzen festlegen, dass bis zum 31. Dezember 2024 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
+4,0
 
-(5) Für die fachtheoretische Studienzeit werden die Studierenden von den Ausbildungsbehörden der Hochschule zugewiesen. Die Praktika werden bei der Ausbildungsbehörde durchgeführt. Für die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Studienzeit werden die Studierenden an die Generalzolldirektion abgeordnet.
+11
 
-# § 19 – Studienplan oder Modulhandbuch, Ausbildungsrahmenplan
+bei einem Durchschnitt von 4,1 bis einschließlich 5,0
 
-(1) Für die fachtheoretische Studienzeit erstellt die Hochschule einen Studienplan oder ein Modulhandbuch, in dem der Studienverlauf im Einzelnen einschließlich der Dauer und Aufteilung der einzelnen Abschnitte und der entsprechenden Zeitrichtwerte geregelt ist.
+5,0
 
-(2) Für die berufspraktische Studienzeit erstellt die Hochschule einen Ausbildungsrahmenplan, in dem der Studienverlauf im Einzelnen einschließlich der Dauer und Aufteilung der einzelnen Abschnitte und der entsprechenden Zeitrichtwerte geregelt ist.
+mangelhaft
 
-# § 20 – Ausbildungsleitung, Ausbildende
+12
 
-(1) Die Ausbildungsbehörde bestellt jeweils mindestens eine geeignete Beamtin oder einen geeigneten Beamten des gehobenen Dienstes als Ausbildungsleitung und als Vertretung der Ausbildungsleitung.
+bei einem Durchschnitt von 5,1 und höher
 
-(2) Die Ausbildungsleitung ist für die ordnungsgemäße Durchführung der berufspraktischen Studienzeit verantwortlich. Sie erstellt die Ausbildungspläne, bestellt Ausbildende und berät die Studierenden und die Ausbildenden.
+6,0
 
-(3) Die Ausbildenden informieren die Ausbildungsleitung in regelmäßigen Abständen über den Stand der Ausbildung. Den Ausbildenden dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie sind angemessen von anderen Dienstgeschäften zu entlasten.
+ungenügend
 
-# § 21 – Ausbildungsakte
+(7) Prüfungsleistungen, die nicht oder nicht fristgerecht erbracht werden, gelten als mit der Note „ungenügend“, numerischer Notenwert 6,0, bewertet.
 
-(1) Die Ausbildungsbehörde führt für jede Studierende und jeden Studierenden eine Ausbildungsakte.
+# § 41 – Multiple-Choice-Aufgaben
 
-(2) In die Ausbildungsakte sind insbesondere aufzunehmen:
+(1) Multiple-Choice-Aufgaben können gestellt werden als
 
-1. eine Ausfertigung des Ausbildungsplans,
+1. Einfach-Auswahlaufgaben (1 aus n) oder
 
-2. Ausfertigungen der Entscheidungen der Verwaltung, die die Ausbildung betreffen, sowie Ausfertigungen von Entscheidungen über die Gewährung von Nachteilsausgleichen,
+2. Mehrfach-Auswahlaufgaben (x aus n).
 
-3. Ausfertigungen der Bestätigungen über die Leistungstests während des Grund- und Hauptstudiums,
+(2) Eine Einfach-Auswahlaufgabe ist richtig beantwortet, wenn nur die zutreffende Antwort markiert worden ist.
 
-4. die Leistungstests während der berufspraktischen Studienzeit,
+(3) Eine Mehrfach-Auswahlaufgabe ist richtig beantwortet, wenn alle zutreffenden Antworten markiert worden sind und keine unzutreffende Antwort markiert worden ist. Eine Mehrfach-Auswahlaufgabe ist halbrichtig beantwortet, wenn
 
-5. Ausfertigungen der schriftlichen Bewertungen der Leistungen während der berufspraktischen Studienzeit,
+1. nur eine zutreffende Antwort nicht markiert oder nur eine unzutreffende Antwort markiert worden ist und
 
-6. eine Ausfertigung des Zeugnisses über die berufspraktische Studienzeit und
+2. die Aufgabe im Übrigen richtig beantwortet worden ist.
 
-7. eine Ausfertigung des Zertifikats über den Englischtest im Hauptstudium.
+In allen anderen Fällen ist die Aufgabe falsch beantwortet.
 
-# § 22 – Leistungstests
+(4) Bei einer Prüfung, die ausschließlich aus Multiple-Choice-Aufgaben besteht, werden die Note „ausreichend“ und der numerische Notenwert 4,0 vergeben, wenn die Mindestpunktzahl erreicht worden ist. Die Mindestpunktzahl entspricht einheitlich für alle Teilnehmenden einer Prüfung
 
-(1) Während des Studiums werden Leistungstests durchgeführt.
+1. 60 Prozent der erreichbaren Punkte oder
 
-(2) Ein Leistungstest kann durchgeführt werden insbesondere in Form
+2. in dem Fall, dass die Grenze nach Nummer 1 von der um 22 Prozent geminderten durchschnittlichen Leistung aller Teilnehmenden an der jeweiligen Prüfung unterschritten wird, 78 Prozent der durchschnittlichen Punkte, mindestens jedoch 50 Prozent der erreichbaren Punkte.
 
-1. einer Klausur,
+(5) Überschreitet die erreichte Punktzahl die Mindestpunktzahl, wird die Note wie folgt vergeben:
 
-2. einer schriftlichen Ausarbeitung oder
+ 
 
-3. eines Referats oder einer anderen mündlichen Leistung.
+Überschreiten der Mindestpunktzahl  
+um mindestens … Prozent der Differenz zwischen  
+erreichbarer Punktzahl und Mindestpunktzahl
 
-(3) Klausuren und schriftliche Ausarbeitungen können mit Unterstützung durch Informationstechnik durchgeführt werden.
+numerischer Notenwert
 
-(4) Jeder Leistungstest muss mindestens eine Woche im Voraus angekündigt werden. Pro Tag darf von der oder dem Studierenden nur ein Leistungstest gefordert werden.
+Note
 
-(5) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, den Leistungstest zu einem späteren Zeitpunkt des Studiums zu erbringen.
+ 
 
-(6) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
+1
 
-# § 23 – Klausuren
+2
 
-(1) Bei jeder Klausur werden die Hilfsmittel, die benutzt werden dürfen, angegeben.
+3
 
-(2) Klausuren werden unter Aufsicht geschrieben. Die oder der Aufsichtführende fertigt eine Niederschrift an und vermerkt darin den Beginn der Klausur und den Abgabezeitpunkt, Unterbrechungszeiten, etwaige Vorkommnisse und in Anspruch genommene Nachteilsausgleiche. Die oder der Aufsichtführende hat die Niederschrift zu unterzeichnen.
+1
 
-(3) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen. Die Übersicht mit der Zuordnung der Kennziffern und Namen ist geheim zu halten. Die Übersicht darf den Prüfenden erst nach der endgültigen Bewertung der Klausur bekannt gegeben werden.
+87,50
 
-# § 24 – Prüfende
+1,0
 
-(1) Die Leistungstests des Grund- und des Hauptstudiums müssen von Lehrkräften oder sonstigen mit Lehraufgaben betrauten Mitgliedern der Hochschule bewertet werden.
+sehr gut
 
-(2) Die Bewertung der Diplomarbeit erfolgt durch zwei Prüfende. Mindestens eine Prüfende oder ein Prüfender ist Lehrkraft oder mit Lehraufgaben betrautes Mitglied der Hochschule. Eine Prüfende oder ein Prüfender kann mindestens dem gehobenen nichttechnischen Verwaltungsdienst in der Zollverwaltung angehören.
+2
 
-(3) Die Leistungstests während der berufspraktischen Studienzeit müssen auf Anforderung der Hochschule von Lehrkräften oder von sonstigen mit Lehraufgaben betrauten Mitgliedern der Generalzolldirektion bewertet werden.
+75,00
 
-(4) Die Prüfenden sind in ihren Bewertungen unabhängig und nicht weisungsgebunden.
+1,3
 
-# § 25 – Inhalt des Grundstudiums
+3
 
-(1) Die Studiengebiete des Grundstudiums sind:
+66,67
 
-1. staatsrechtliche und staatspolitische Grundlagen des Verwaltungshandelns,
+1,7
 
-2. verwaltungsrechtliche und zivilrechtliche Grundlagen des Verwaltungshandelns,
+gut
 
-3. volks- und finanzwirtschaftliche Grundlagen des Verwaltungshandelns,
+4
 
-4. betriebswirtschaftliche Grundlagen des Verwaltungshandelns, Organisation und Informationstechnik,
+58,33
 
-5. sozialwissenschaftliche Grundlagen des Verwaltungshandelns und
+2,0
 
-6. laufbahntypische Bereiche der Aufgabenerfüllung.
+5
 
-(2) Das Grundstudium umfasst mindestens 700 Lehrveranstaltungsstunden. Auf die Studiengebiete nach Absatz 1 Nummer 1 bis 5 entfallen dabei mindestens 432 Lehrveranstaltungsstunden.
+50,00
 
-(3) Das Grundstudium schließt mit der Zwischenprüfung ab. Das Bestehen der Zwischenprüfung ist Zulassungsvoraussetzung für das Hauptstudium.
+2,3
 
-# § 26 – Inhalt des Hauptstudiums
+6
 
-(1) Die Studiengebiete des Hauptstudiums sind:
+41,67
 
-1. allgemeines Steuerrecht,
+2,7
 
-2. allgemeines Zollrecht,
+befriedigend
 
-3. besonderes Zollrecht,
+7
 
-4. Recht der sozialen Sicherung,
+33,33
 
-5. Verbrauchsteuerrecht und Verkehrsteuerrecht,
+3,0
 
-6. Betriebswirtschaftslehre und
+8
 
-7. Managementlehre.
+25,00
 
-(2) Einzelne Inhalte der Studiengebiete können in englischer Sprache vermittelt werden.
+3,3
 
-(3) Das Hauptstudium umfasst mindestens 1 220 Lehrveranstaltungsstunden.
+9
 
-# § 27 – Inhalt der berufspraktischen Studienzeit
+12,50
 
-(1) Während der berufspraktischen Studienzeit sollen die Studierenden berufliche Kenntnisse und Erfahrungen als Grundlage für die fachtheoretische Studienzeit erwerben, die erworbenen wissenschaftlichen Kenntnisse vertiefen und lernen, diese Kenntnisse in der Praxis anzuwenden. Zu einzelnen Studiengebieten des Hauptstudiums werden praxisbezogene Lehrveranstaltungen und Englischunterricht mit fachbezogenen Inhalten durchgeführt.
+3,7
 
-(2) Ziel der berufspraktischen Studienzeit ist es, die Studierenden mit den Aufgaben der Zollverwaltung und mit adressatenorientiertem Verhalten vertraut zu machen. Anhand praktischer Fälle werden die Studierenden besonders in der Anwendung von Rechts- und Verwaltungsvorschriften, in den Arbeitstechniken und den in der Zollverwaltung eingesetzten Verfahren der Informationsverarbeitung ausgebildet.
+ausreichend
 
-(3) Je nach ihrem Ausbildungsstand und den organisatorischen Möglichkeiten sollen die Studierenden
+10
 
-1. einzelne Geschäftsvorgänge, die typisch für Aufgaben ihrer Laufbahn sind, selbständig bearbeiten,
+0,00
 
-2. an dienstlichen Veranstaltungen teilnehmen und
+4,0
 
-3. Gelegenheit erhalten, sich im Vortrag und in der Verhandlungsführung zu üben.
+Unterschreitet die erreichte Punktzahl die Mindestpunktzahl, wird die Note wie folgt vergeben:
 
-(4) Tätigkeiten, die nicht dem Zweck des Vorbereitungsdienstes entsprechen, dürfen den Studierenden nicht übertragen werden.
+ 
 
-(5) Die Studierenden erhalten, sofern erforderlich, Englischunterricht zur Erreichung eines Sprachniveaus in Englisch, das die selbständige Sprachverwendung zum Ziel hat. Dieses Sprachniveau wird ausgerichtet am Gemeinsamen Europäischen Referenzrahmen für Sprachen.
+Unterschreiten der Mindestpunktzahl um bis zu … Prozent
 
-# § 28 – Leistungstests während des Grundstudiums
+numerischer Notenwert
 
-(1) Im Grundstudium schreibt jede und jeder Studierende vier Klausuren. Je eine Klausur wird geschrieben
+Note
 
-1. im Studiengebiet nach § 25 Absatz 1 Nummer 1,
+ 
 
-2. im Studiengebiet nach § 25 Absatz 1 Nummer 2,
+1
 
-3. im Studiengebiet nach § 25 Absatz 1 Nummer 3 und
+2
 
-4. im Studiengebiet nach § 25 Absatz 1 Nummer 4.
+3
 
-Das Studiengebiet nach § 25 Absatz 1 Nummer 6 kann bei der Aufgabenstellung berücksichtigt werden.
+1
 
-(2) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+50,00
 
-# § 29 – Leistungstests während des Hauptstudiums
+5,0
 
-(1) Im Hauptstudium schreibt jede und jeder Studierende zwölf Klausuren. Je zwei Klausuren werden geschrieben
+mangelhaft
 
-1. im Studiengebiet nach § 26 Absatz 1 Nummer 1,
+2
 
-2. im Studiengebiet nach § 26 Absatz 1 Nummer 2,
+100,00
 
-3. im Studiengebiet nach § 26 Absatz 1 Nummer 3,
+6,0
 
-4. im Studiengebiet nach § 26 Absatz 1 Nummer 4,
+ungenügend
 
-5. im Studiengebiet nach § 26 Absatz 1 Nummer 5 und
+(6) Besteht eine Prüfung oder Teilprüfung sowohl aus Multiple-Choice-Aufgaben als auch aus anderen Aufgaben, werden die Prüfungsleistungen bei den Multiple-Choice-Aufgaben nach den Absätzen 2 bis 5 bewertet und die Prüfungsleistungen bei den anderen Aufgaben nach § 40. Aus beiden Aufgabenteilen wird entsprechend ihrer Gewichtung der numerische Notenwert der Bewertung auf eine Dezimalstelle ohne Rundung berechnet.
 
-6. in den Studiengebieten nach § 26 Absatz 1 Nummer 6 und 7 gemeinsam.
+(7) Multiple-Choice-Aufgaben können elektronisch gestellt, beantwortet und ausgewertet werden. Die Integrität der Daten und die automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
-(2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+# § 42 – Bestehen der Prüfung
 
-(3) (weggefallen)
+Eine Prüfung ist vorbehaltlich § 58 bestanden, wenn sie mit mindestens der Note „ausreichend“, numerischer Notenwert 4,0, bewertet ist.
 
-# § 30 – Englischtest während des Hauptstudiums, Zertifikat
+# § 43 – Bewertungsverfahren bei Wiederholungsprüfungen
 
-(1) Während des Hauptstudiums haben die Studierenden einen Englischtest nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen abzulegen.
+(1) Prüfungsleistungen in Wiederholungsprüfungen werden von zwei Prüfenden als Erst- und Zweitprüfenden bewertet. Das Prüfungsamt legt in diesem Fall fest, wer Erstprüfende oder Erstprüfender und wer Zweitprüfende oder Zweitprüfender ist. Das Prüfungsamt kann Ersatzprüfende bestellen.
 
-(2) Der Englischtest kann mit Unterstützung durch Informationstechnik durchgeführt werden.
+(2) Die Prüfenden bewerten die Prüfungen unabhängig voneinander. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben.
 
-(3) Über den Englischtest erhalten die Studierenden ein Zertifikat, aus dem ihr Leistungsstand hervorgeht. Der Einstellungsbehörde ist eine Ausfertigung zur Aufnahme in die Personalakte zu übersenden.
+(+++ § 43: Zur Geltung vgl. § 49 Abs. 3 +++)
 
-# § 31 – Diplomarbeit
+# § 44 – Modulprüfungen
 
-(1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.
+In jedem belegten Modul ist eine Modulprüfung abzulegen.
 
-(2) Das Thema der Diplomarbeit soll von den Studierenden aus den Studiengebieten des Hauptstudiums vorgeschlagen werden. Die Hochschule entscheidet, ob der Vorschlag angenommen wird. Wird er nicht angenommen, wird den Studierenden von der Hochschule ein Thema zugeteilt. Das Thema der Diplomarbeit kann nur im Ausnahmefall und nur mit Zustimmung des Prüfungsamtes zurückgegeben werden.
+# § 45 – Modulprüfungen in den Fachstudien
 
-(3) Die Diplomarbeit wird während des Hauptstudiums erstellt. Die Bearbeitungszeit beträgt sechs Wochen. Die Hochschule teilt den Studierenden den Abgabetermin und die Namen der Erst- und Zweitprüfenden mit. Während der Bearbeitungszeit werden die Studierenden von ihren übrigen Tätigkeiten freigestellt.
+Die Modulprüfungen während der Fachstudien können aus einem oder mehreren der folgenden Prüfungsformate bestehen:
 
-(4) Bei der Abgabe müssen die Studierenden schriftlich versichern, dass sie die Diplomarbeit selbständig und ohne fremde Mitwirkung verfasst und nur die angegebenen Quellen und Hilfsmittel genutzt haben. Im Falle einer falschen Versicherung gilt § 8 Absatz 2 bis 4 entsprechend.
+1. Klausur,
 
-(5) Für eine Verhinderung bei der Anfertigung der Diplomarbeit gilt § 7 Absatz 2 entsprechend. Soweit die Verhinderung die Bearbeitungszeit der Diplomarbeit nicht um die Hälfte übersteigt, verlängert das Prüfungsamt die Bearbeitungszeit auf Antrag der oder des Studierenden entsprechend. Sind Studierende länger als die Hälfte der Bearbeitungszeit verhindert, gilt die Diplomarbeit als nicht begonnen.
+2. Hausarbeit,
 
-(6) Wird die Diplomarbeit nicht innerhalb der vorgesehenen Frist abgegeben, gilt sie als mit null Rangpunkten bewertet.
+3. Präsentation,
 
-# § 32 – Schriftliche Bestätigungen für Leistungstests des Grund- und des Hauptstudiums
+4. Projektarbeit,
 
-(1) Über das Ergebnis jedes Leistungstestes während des Grund- und des Hauptstudiums erstellt die Hochschule eine schriftliche Bestätigung. In dieser Bestätigung sind anzugeben:
+5. mündliche Prüfung,
 
-1. der Studienabschnitt,
+6. Gruppengespräch (Kolloquium).
 
-2. das Studiengebiet,
+# § 46 – Modulprüfungen in den praxisintegrierenden Fachstudien
 
-3. die Form des Leistungstestes sowie
+(1) Die Modulprüfungen während der praxisintegrierenden Fachstudien bestehen aus einer Praxisbewertung mit einer Gewichtung in Höhe von 25 Prozent und einer oder mehreren weiteren Teilprüfungen mit einer Gewichtung in Höhe von insgesamt 75 Prozent.
 
-4. die erzielten Rangpunkte und die Note.
+(2) Die Praxisbewertung enthält die wesentlichen Leistungs- und Befähigungsmerkmale. Sie wird von der Praxisstudienleiterin oder dem Praxisstudienleiter unter Einbezug der jeweiligen Praxistutorinnen und Praxistutoren erstellt. Die Praxisbewertung ist der oder dem betreffenden Studierenden zu eröffnen und mit dieser oder diesem zu erörtern.
 
-Die Ergebnisse der Leistungstests desselben Studienabschnitts können in einer schriftlichen Bestätigung zusammengefasst werden.
+(3) Die weiteren Teilprüfungen können aus den folgenden Prüfungsformaten bestehen:
 
-(2) Die Ausbildungsbehörde erhält eine Ausfertigung der Bestätigung.
+1. reflektierter Praxisbericht,
 
-# § 33 – Rangpunktzahl des Hauptstudiums und Zeugnis über das Hauptstudium
+2. reflektierter Praxisvortrag,
 
-(1) Nach Beendigung des Hauptstudiums ermittelt die Hochschule die Rangpunktzahl des Hauptstudiums. Bei der Ermittlung werden die zwölf Bewertungen der Leistungstests mit 75 Prozent und die Bewertung der Diplomarbeit mit 25 Prozent gewichtet. Alle Leistungstests werden gleichgewichtet.
+3. mündliche Prüfung,
 
-(2) Zum Abschluss des Hauptstudiums stellt die Hochschule für jede Studierende und jeden Studierenden ein Zeugnis aus. In dem Zeugnis werden aufgeführt
+4. Gruppengespräch (Kolloquium).
 
-1. die Rangpunkte und Noten der Leistungstests des Hauptstudiums,
+# § 47 – Modulprüfung im Wahlpflichtpraktikum
 
-2. das Thema sowie die Rangpunkte und die Note der Diplomarbeit und
+(1) Die Modulprüfung im Wahlpflichtpraktikum besteht aus einer Praxisbewertung mit einer Gewichtung in Höhe von 50 Prozent und einer oder mehreren weiteren Teilprüfungen mit einer Gewichtung in Höhe von insgesamt 50 Prozent.
 
-3. die Rangpunktzahl des Hauptstudiums.
+(2) Die Praxisbewertung enthält die wesentlichen Leistungs- und Befähigungsmerkmale. Sie wird von der Praxisstudienleiterin oder dem Praxisstudienleiter unter Einbezug der jeweiligen Praxistutorinnen und Praxistutoren erstellt. Die Praxisbewertung ist der oder dem betreffenden Studierenden zu eröffnen und mit dieser oder diesem zu erörtern.
 
-Soweit Studierende Lehrveranstaltungen belegt haben, in denen keine Leistungstests gefordert sind, wird den Studierenden im Zeugnis die Teilnahme bestätigt.
+(3) Die weiteren Teilprüfungen können aus den folgenden Prüfungsformaten bestehen:
 
-# § 34 – Leistungstests während der berufspraktischen Studienzeit, schriftliche Bewertungen, Zeugnis über die berufspraktische Studienzeit
+1. reflektierter Praxisbericht,
 
-(1) Während der praxisbezogenen Lehrveranstaltungen werden vier Leistungstests durchgeführt. Die Form der Leistungstests wird im Ausbildungsrahmenplan festgelegt.
+2. reflektierter Praxisvortrag,
 
-(2) Während der berufspraktischen Studienzeit bei den Ausbildungsbehörden erhalten die Studierenden für jeden Bereich, dem sie nach dem Ausbildungsplan für mindestens zehn Werktage zugewiesen wurden, eine schriftliche Bewertung ihrer Leistungen. Die Ausbildenden teilen der Ausbildungsleitung die Bewertung mit und besprechen sie mit den Studierenden. Die Studierenden erhalten eine Ausfertigung der Bewertung und können zu der Bewertung schriftlich oder elektronisch Stellung nehmen.
+3. mündliche Prüfung.
 
-(3) Zum Abschluss der berufspraktischen Studienzeit erstellt die Ausbildungsbehörde ein Zeugnis über die berufspraktische Studienzeit. In dem Zeugnis werden aufgeführt
+# § 48 – Anforderungen an Prüfungsformate bei Modulprüfungen
 
-1. die Rangpunkte der Leistungstests,
+(1) Eine Klausur ist eine unter Aufsicht anzufertigende schriftliche Ausarbeitung. Sie kann ganz oder teilweise aus Multiple-Choice-Aufgaben bestehen. Die Bearbeitungszeit beträgt mindestens zwei und höchstens vier Zeitstunden.
 
-2. die Rangpunkte der schriftlichen Bewertungen und
+(2) Eine Hausarbeit ist eine schriftliche Ausarbeitung zu einer konkreten Fragestellung nach wissenschaftlichen Kriterien mit einer Bearbeitungszeit von mindestens einer Woche bis höchstens drei Wochen.
 
-3. die Durchschnittsrangpunktzahl der berufspraktischen Studienzeit.
+(3) Eine Präsentation ist ein mündlicher Vortrag zu einer Fragestellung unter vorgegebenem Medieneinsatz. An den Vortrag kann sich ein Fachgespräch anschließen. Die Gesamtdauer der Prüfung beträgt je Prüfungsteilnehmendem mindestens 20 und höchstens 40 Minuten.
 
-Die Durchschnittsrangpunktzahl der berufspraktischen Studienzeit ist das arithmetische Mittel der Einzelbewertungen der Leistungstests und der schriftlichen Bewertungen.
+(4) Eine Projektarbeit umfasst die selbständige Ausarbeitung eines Konzepts zu einer komplexen Problem- oder Fragestellung und die Darstellung der Ergebnisse in mündlicher oder schriftlicher Form.
 
-# § 35 – Laufbahnprüfung
+(5) Eine mündliche Prüfung dauert je Prüfungsteilnehmendem mindestens 20 und höchstens 40 Minuten. Die Prüfenden fertigen ein Protokoll über die mündliche Prüfung an. Darin werden die wesentlichen Gegenstände der Prüfung, die Bewertung der Prüfungsleistung und die tragenden Erwägungen der Bewertungsentscheidung festgehalten. Das Protokoll ist von den Prüfenden zu bestätigen.
 
-(1) Die Diplomprüfung ist die Laufbahnprüfung.
+(6) Ein Kolloquium ist ein wissenschaftliches Gespräch. Die Gesamtdauer des Kolloquiums beträgt je Prüfungsteilnehmendem mindestens 20 und höchstens 40 Minuten. Absatz 5 Satz 2 bis 4 gilt entsprechend.
 
-(2) Sie besteht aus
+(7) Ein reflektierter Praxisbericht ist eine schriftliche Ausarbeitung mit einer Zusammenfassung der Praxisstudien sowie der Reflexion des fachtheoretischen Wissens über eine übernommene praktische Aufgabe und über deren Ergebnisse unter besonderer Berücksichtigung der Relevanz des fachtheoretischen Wissens für die Praxis.
 
-1. der Zwischenprüfung,
+(8) Ein reflektierter Praxisvortrag ist ein mündlicher Vortrag mit einer Zusammenfassung der Praxisstudien sowie der Reflexion des fachtheoretischen Wissens über eine übernommene praktische Aufgabe und über deren Ergebnisse unter besonderer Berücksichtigung der Relevanz des fachtheoretischen Wissens für die Praxis. An den Vortrag kann sich ein Fachgespräch anschließen. Die Gesamtdauer der Prüfung beträgt je Prüfungsteilnehmendem mindestens 20 und höchstens 40 Minuten.
 
-2. den Leistungstests des Hauptstudiums und der Diplomarbeit,
+(9) Prüfungen in Form von Gruppenarbeiten dürfen durchgeführt werden, wenn die Einzelleistungen der Prüfungsteilnehmenden eindeutig voneinander abgrenzbar und einzeln bewertbar sind.
 
-3. den Leistungstests und den schriftlich bewerteten Leistungen während der berufspraktischen Studienzeit sowie
+(10) Prüfungen können bei fremdsprachigem Studienangebot in der entsprechenden Fremdsprache durchgeführt werden.
 
-4. der Abschlussprüfung.
+(+++ § 48 Abs. 5: Zur Geltung vgl. § 55 Abs. 5 +++)
 
-# § 36 – Prüfungsamt
+# § 49 – Verfahren zur Bewertung der Modulprüfungen
 
-(1) Das bei der Hochschule eingerichtete Prüfungsamt ist insbesondere zuständig für
+(1) Modulprüfungen werden von einer oder einem Prüfenden bewertet. Handelt es sich um eine mündliche Modulprüfung, so bewerten zwei Prüfende.
 
-1. die Gestaltung, Organisation und Durchführung der Prüfungen,
+(2) Wenn in einer Klausur oder Hausarbeit eines Moduls verschiedene Fachgebiete geprüft werden, kann in fachlichen begründeten Fällen die Prüfungsleistung jeweils anteilig von verschiedenen Prüfenden bewertet werden. Dabei legen die Modulbeauftragten die prozentualen Anteile der jeweiligen Fachgebiete an der Prüfung für die Bewertung vorab fest. Bei der Bewertung sind Bewertungspunkte zu verwenden.
 
-2. die Erstellung, Prüfung und Auswahl der Prüfungsaufgaben für die schriftlichen Prüfungen,
+(3) Handelt es sich bei der Prüfung nach Absatz 2 um eine Wiederholungsprüfung, gilt § 43 mit der Maßgabe, dass für jeden Anteil an der Prüfung gesonderte Erst- und Zweitprüfende zu bestellen sind.
 
-3. die Entwicklung der Bewertungsmaßstäbe und dafür, dass in allen Prüfungen die gleichen Bewertungsmaßstäbe angelegt werden,
+# § 50 – Wiederholung von Modulprüfungen
 
-4. die Einrichtung der Prüfungskommissionen sowie
+(1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden. Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt werden. Ein reflektierter Praxisbericht wird wiederholt, indem er nachgebessert wird.
 
-5. die Führung und Aufbewahrung der Prüfungsakten.
+(2) Abweichend von Absatz 1 können ein zweites Mal wiederholt werden:
 
-(2) Das Prüfungsamt ist Widerspruchsbehörde für alle Entscheidungen im Rahmen der Prüfungen.
+1. eine Prüfung in einem der Pflichtmodule und
 
-# § 37 – Prüfungsakte, Einsichtnahme
+2. eine Prüfung in einem der Wahlpflichtmodule.
 
-(1) Zu jeder und jedem Studierenden wird eine Prüfungsakte geführt. In die Prüfungsakte aufzunehmen sind:
+(3) Das weitere Studium wird wegen der Wiederholung nicht ausgesetzt.
 
-1. die Klausuren der Zwischenprüfung,
+(4) Mit dem endgültigen Nichtbestehen einer Modulprüfung ist das Studium beendet.
 
-2. eine Ausfertigung des Zwischenprüfungszeugnisses und eine Ausfertigung des Bescheides über das Bestehen oder Nichtbestehen der Zwischenprüfung,
+(5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-3. die Leistungstests des Hauptstudiums,
+# § 51 – Bachelorarbeit
 
-4. die Diplomarbeit und ihre Bewertungen,
+Die Bachelorarbeit besteht aus der Bachelorthesis und ihrer mündlichen Verteidigung.
 
-5. eine Ausfertigung des Zeugnisses über das Hauptstudium,
+# § 52 – Bachelorthesis
 
-6. die Klausuren der schriftlichen Abschlussprüfung,
+(1) Durch die Bachelorthesis sollen die Studierenden nachweisen, dass sie in der Lage sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.
 
-7. die Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung,
+(2) Das Thema der Bachelorthesis soll von den Studierenden vorgeschlagen werden. Das Prüfungsamt entscheidet, ob der Vorschlag angenommen wird. Lehnt das Prüfungsamt den Vorschlag einer oder eines Studierenden ab, so wird ihr oder ihm vom Prüfungsamt ein Thema zugeteilt. Ein festgelegtes Thema kann nur im Ausnahmefall und nur mit Zustimmung des Prüfungsamtes geändert werden.
 
-8. eine Ausfertigung des Abschlusszeugnisses,
+(3) Die Bearbeitungszeit für die Bachelorthesis beträgt sechs Wochen. In dieser Zeit sind die Studierenden ihrer Einstellungsbehörde zugeteilt, aber von den übrigen dienstlichen Tätigkeiten freigestellt.
 
-9. eine Ausfertigung der Diplomurkunde,
+(4) Bei der Erstellung der Bachelorthesis werden die Studierenden von der oder dem Erstprüfenden betreut. Das Verfahren zur Zuweisung der Studierenden zu den jeweiligen Betreuungspersonen legt der Fachbereich Finanzen fest.
 
-10. eine Ausfertigung des Bescheides über das Bestehen oder Nichtbestehen der Laufbahnprüfung sowie
+(5) Den Abgabetermin für die Bachelorthesis legt das Prüfungsamt fest. Die Abgabe beim Prüfungsamt ist in der Prüfungsakte zu vermerken. Die Studierenden müssen bei Abgabe versichern, dass sie die Bachelorthesis selbständig und ohne unzulässige fremde Mitwirkung verfasst und nur die angegebenen Quellen und Hilfsmittel benutzt haben. Das Prüfungsamt kann die Form der Erklärung vorgeben.
 
-11. die Ausbildungsakte.
+# § 53 – Verfahren zur Bewertung und Prüfende der Bachelorthesis
 
-(2) Die Prüfungsakte wird mindestens für fünf Jahre nach Ablauf des Jahres der Abschlussprüfung aufbewahrt und spätestens nach zehn Jahren vernichtet.
+(1) Die Bachelorthesis wird von einer Erstprüferin oder einem Erstprüfer und von einer Zweitprüferin oder einem Zweitprüfer geprüft.
 
-(3) Nach Bekanntgabe des Bescheides über das Bestehen oder Nichtbestehen der Laufbahnprüfung und des Abschlusszeugnisses ist der betroffenen Person auf Antrag Einsicht in die sie oder ihn betreffenden Teile der Prüfungsakte zu gewähren. Die Einsichtnahme ist in der Akte zu vermerken.
+(2) Die oder der Erstprüfende muss eine hauptamtliche Lehrende oder ein hauptamtlich Lehrender oder eine Lehrbeauftrage oder ein Lehrbeauftragter des Fachbereichs Finanzen sein.
 
-(+++ § 37 Abs. 3: Zur Anwendung vgl. § 40 Abs. 5 +++)
+(3) Das Bewertungsverfahren muss rechtzeitig vor den angesetzten Terminen für die Verteidigung der Bachelorthesis abgeschlossen sein.
 
-# § 38 – Prüfungskommissionen
+# § 54 – Wiederholung der Bachelorthesis
 
-(1) Das Prüfungsamt richtet für die Bewertung der Zwischenprüfung, der schriftlichen Abschlussprüfung und der mündlichen Abschlussprüfung Prüfungskommissionen ein und bestellt hierfür Mitglieder und Ersatzmitglieder. Es können auch jeweils mehrere Prüfungskommissionen eingerichtet werden. Die Spitzenorganisationen der Gewerkschaften und der Berufsverbände des öffentlichen Dienstes können Mitglieder für die Prüfungskommissionen der Abschlussprüfung vorschlagen.
+(1) Ist die Bachelorthesis nicht bestanden, kann sie einmal wiederholt werden.
 
-(2) Die Mitglieder und Ersatzmitglieder werden für die Dauer von höchstens drei Jahren bestellt. Wiederbestellung ist zulässig. Mitglieder der Prüfungskommission sind bei ihrer Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
+(2) Für die Wiederholung der Bachelorthesis gibt das Prüfungsamt ein neues Thema aus.
 
-(3) Eine Prüfungskommission für die Bewertung der Klausuren der Zwischenprüfung besteht aus mindestens vier Lehrkräften oder sonstigen mit Lehraufgaben betrauten Mitgliedern der Hochschule, von denen eine oder einer den Vorsitz hat.
+(3) Während der Bearbeitungszeit sowie der Dauer des Bewertungsverfahrens werden die Studierenden ihrer Einstellungsbehörde zugeteilt. Bis zum Ablauf der Bearbeitungszeit sind sie von den übrigen dienstlichen Tätigkeiten freigestellt.
 
-(4) Eine Prüfungskommission für die Bewertung der schriftlichen Abschlussprüfung besteht aus
+(4) Mit dem endgültigen Nichtbestehen der Bachelorthesis ist das Studium beendet.
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem,
+(+++ § 54 Abs. 4: Zur Geltung vgl. § 56 Abs. 3 +++)
 
-2. fünf Beamtinnen oder Beamten des höheren Dienstes als Beisitzenden und
+# § 55 – Verteidigung der Bachelorthesis
 
-3. sechs Beamtinnen oder Beamten des gehobenen Dienstes als Beisitzenden.
+(1) Zur Verteidigung der Bachelorthesis wird zugelassen, wer die Bachelorthesis bestanden hat.
 
-Abweichend von Satz 1 Nummer 2 und 3 können vergleichbare Tarifbeschäftigte zu Beisitzenden bestellt werden. Vier Mitglieder sollen Lehrende oder sonstige mit Lehraufgaben betraute Mitglieder der Hochschule sein, mindestens acht Mitglieder sollen dem nichttechnischen Zolldienst angehören. Die Prüfungskommissionen sollen paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen.
+(2) Die Verteidigung besteht aus einer Präsentation der Bachelorthesis sowie einem anschließenden Fachgespräch mit den Prüfenden. Damit sollen die Studierenden nachweisen, dass sie gesichertes Wissen in den Themengebieten besitzen, die sie in der Bachelorthesis bearbeitet haben, und die angewendeten Methoden und die erzielten Ergebnisse erläutern und begründen können.
 
-(5) Eine Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung besteht aus
+(3) Die Verteidigung wird als Einzelprüfung durchgeführt. Sie dauert in der Regel 30 Minuten und wird von zwei Prüfenden bewertet.
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem,
+(4) Die Verteidigung ist hochschulöffentlich, wenn die oder der Studierende dem nicht widerspricht. Unabhängig vom Einverständnis der oder des Studierenden
 
-2. zwei Beamtinnen oder Beamten des höheren Dienstes als Beisitzenden und
+1. können Angehörige des Prüfungsamtes bei der Verteidigung anwesend sein und
 
-3. drei Beamtinnen oder Beamten des gehobenen Dienstes als Beisitzenden.
+2. kann das Prüfungsamt allgemein oder im Einzelfall gestatten, dass mit der Ausbildung der Studierenden befasste, auch nicht der Hochschule angehörige Personen bei der Verteidigung anwesend sind.
 
-Abweichend von Satz 1 Nummer 2 und 3 können vergleichbare Tarifbeschäftigte zu Beisitzenden bestellt werden. Zwei Mitglieder sollen Lehrende oder sonstige mit Lehraufgaben betraute Mitglieder der Hochschule sein, mindestens vier Mitglieder sollen dem nichttechnischen Zolldienst angehören. Die Prüfungskommissionen sollen paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen. Werden weibliche Studierende geprüft, muss mindestens ein Mitglied der Prüfungskommission weiblich sein. Jedes Kommissionsmitglied prüft als Fachprüferin oder Fachprüfer ein Studiengebiet nach § 26 Absatz 1 Nummer 1 bis 6.
+Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen anfertigen. Bei den Beratungen über die Bewertung der Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 
-(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024 die Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(5) § 48 Absatz 5 Satz 2 bis 4 gilt entsprechend.
 
-1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+# § 56 – Wiederholung der Verteidigung
 
-2. mindestens zwei und höchstens vier Beamtinnen oder Beamten des höheren oder des gehobenen Dienstes als Beisitzenden.
+(1) Ist die Verteidigung nicht bestanden worden, kann sie einmal wiederholt werden. Die Wiederholung soll innerhalb von zwei Monaten nach Bekanntgabe Nichtbestehens erfolgen.
 
-Soweit es erforderlich ist, prüfen die einzelnen Mitglieder als Fachprüferin oder Fachprüfer zwei der Studiengebiete nach § 26 Absatz 1 Nummer 1 bis 6.
+(2) Für den Zeitraum bis zur Wiederholung werden die Studierenden ihrer Einstellungsbehörde zugeteilt.
 
-(6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens zwei Drittel ihrer Mitglieder anwesend sind. Im Fall des Absatzes 5 Satz 6 ist die Prüfungskommission nur beschlussfähig, wenn mindestens ein weibliches Mitglied anwesend ist. Eine Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig. Beratungen der Prüfungskommissionen sind nicht öffentlich.
+(3) § 54 Absatz 4 gilt entsprechend.
 
-# § 39 – Prüfungsgrundsätze
+# § 57 – Gesamtnote der Bachelorarbeit
 
-(1) Das Prüfungsamt
+(1) Ist die Verteidigung bestanden, so wird die Gesamtnote der Bachelorarbeit berechnet und festgelegt.
 
-1. setzt Ort und Zeit der Prüfungen fest,
+(2) In die Gesamtnote gehen die folgenden Bewertungen mit der genannten Gewichtung ein
 
-2. gibt bei jeder Prüfungsaufgabe die Hilfsmittel an, die benutzt werden dürfen,
+1. die Bewertung der Bachelorthesis, numerischer Notenwert, mit 75 Prozent und
 
-3. stellt sicher, dass Klausuren anstelle des Namens mit einer Kennziffer versehen werden, und
+2. die Bewertung der Verteidigung, numerischer Notenwert, mit 25 Prozent.
 
-4. teilt den Studierenden alle Festlegungen rechtzeitig vor Prüfungsbeginn mit.
+# § 58 – Bestehen der Bachelorprüfung, Abschlussnote
 
-(2) An einem Tag darf von der oder dem Studierenden bei der Zwischenprüfung und der Abschlussprüfung nur eine Klausur gefordert werden. Nach zwei aufeinanderfolgenden Prüfungstagen soll ein freier Tag vorgesehen werden.
+(1) Die Bachelorprüfung ist bestanden, wenn die Modulprüfungen und die Bachelorarbeit bestanden sind und mindestens 180 ECTS-Leistungspunkte erworben wurden.
 
-(3) Jede Klausur wird von zwei Mitgliedern der Prüfungskommission unabhängig voneinander bewertet. Das Prüfungsamt bestimmt die Erstprüfende oder den Erstprüfenden sowie die Zweitprüfende oder den Zweitprüfenden. Die oder der Zweitprüfende kann Kenntnis von den Korrekturanmerkungen und der Bewertung der oder des Erstprüfenden haben. Weichen die Bewertungen voneinander ab, entscheidet die oder der Vorsitzende der Prüfungskommission.
+(2) Hat die oder der Studierende die Bachelorprüfung bestanden, so setzt das Prüfungsamt für sie oder ihn die Abschlussnote fest.
 
-# § 40 – Zwischenprüfung
+(3) Die Abschlussnote ergibt sich aus dem gewichteten arithmetischen Mittel der Noten der Modulprüfungen und der Gesamtnote der Bachelorarbeit. Die Gewichtung der einzelnen Modulprüfungen und der Bachelorarbeit entspricht den zu vergebenden ECTS-Leistungspunkten.
 
-(1) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
+(4) Bei der Berechnung der Abschlussnote wird nur die erste Dezimalstelle hinter dem Komma ohne Rundung berücksichtigt.
 
-(2) Die Zwischenprüfung besteht aus vier Klausuren. Je eine Klausur wird geschrieben
+(5) Die Abschlussnote lautet wie folgt:
 
-1. im Studiengebiet nach § 25 Absatz 1 Nummer 1,
+ 
 
-2. im Studiengebiet nach § 25 Absatz 1 Nummer 2,
+Numerischer Notenwert
 
-3. im Studiengebiet nach § 25 Absatz 1 Nummer 3 und
+Abschlussnote
 
-4. im Studiengebiet nach § 25 Absatz 1 Nummer 4.
+ 
 
-Das Studiengebiet nach § 25 Absatz 1 Nummer 6 kann bei der Aufgabenstellung berücksichtigt werden.
+1
 
-(3) Die Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
+2
 
-(4) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+1
 
-(5) Die Zwischenprüfung ist bestanden, wenn
+bis einschließlich 1,5
 
-1. mindestens drei Klausuren jeweils mit mindestens fünf Rangpunkten bewertet worden sind und
+sehr gut
 
-2. insgesamt eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
+2
 
-Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten, die in den vier Klausuren erzielt worden sind.
+über 1,5 bis einschließlich 2,5
 
-(6) Die Studierende oder der Studierende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme ist § 37 Absatz 3 entsprechend anzuwenden.
+gut
 
-# § 41 – Bescheid, Zwischenprüfungszeugnis
+3
 
-(1) Die Studierenden erhalten vom Prüfungsamt über das Ergebnis der Zwischenprüfung einen Bescheid über das Bestehen oder Nichtbestehen der Zwischenprüfung und ein Zwischenprüfungszeugnis.
+über 2,5 bis einschließlich 3,5
 
-(2) Das Zwischenprüfungszeugnis enthält
+befriedigend
 
-1. zu jeder Klausur das Studiengebiet, die erzielten Rangpunkte und die Note sowie
+4
 
-2. die Durchschnittsrangpunktzahl der Zwischenprüfung.
+über 3,5 bis einschließlich 4,0
 
-(3) Der Bescheid über die Zwischenprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen. Eine Ausfertigung des Bescheides wird der Einstellungsbehörde für die Personalakte übermittelt.
+ausreichend
 
-# § 42 – Abschlussprüfung
+5
 
-(1) In der Abschlussprüfung sollen die Studierenden nachweisen, dass sie gründliche Fachkenntnisse erworben haben und fähig sind, methodisch und selbständig auf wissenschaftlicher Grundlage zu arbeiten.
+über 4,0
 
-(2) Die Abschlussprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
+nicht ausreichend
 
-(3) Die schriftliche Abschlussprüfung soll spätestens zwei Wochen vor Beginn der mündlichen Abschlussprüfung abgeschlossen sein. Die mündliche Abschlussprüfung ist bis zum Ende des Vorbereitungsdienstes abzuschließen.
+(6) Zusätzlich zur Abschlussnote erhalten alle erfolgreichen Absolventinnen und Absolventen das relative Leistungsniveau entsprechend dem ECTS Users Guide in der jeweils geltenden Fassung ausgewiesen. Bezugsbasis für die Ausweisung des relativen Leistungsniveaus bilden die Abschlussnoten des jeweiligen Abschlusssemesters. Der ECTS Users Guide ist auf der Internetseite der Kommission der Europäischen Union veröffentlicht und wird beim Fachbereich Finanzen in der jeweils geltenden Fassung in unveränderlicher Form vorgehalten und archiviert.
 
-# § 43 – Schriftliche Abschlussprüfung
+# § 59 – Laufbahnprüfung
 
-(1) Zur schriftlichen Abschlussprüfung ist zugelassen, wer das Hauptstudium sowie die berufspraktischen Studienzeiten absolviert hat.
+Die Bachelorprüfung ist die Laufbahnprüfung.
 
-(2) Die schriftliche Abschlussprüfung besteht aus sechs Klausuren. Je eine Klausur wird geschrieben
+# § 60 – Abschlusszeugnis, Urkunde, Diploma Supplement
 
-1. im Studiengebiet nach § 26 Absatz 1 Nummer 1,
+(1) Wer die Bachelorprüfung bestanden hat, erhält
 
-2. im Studiengebiet nach § 26 Absatz 1 Nummer 2,
+1. eine Bachelorurkunde,
 
-3. im Studiengebiet nach § 26 Absatz 1 Nummer 3,
+2. ein Abschlusszeugnis und
 
-4. im Studiengebiet nach § 26 Absatz 1 Nummer 4,
+3. ein Diploma Supplement.
 
-5. im Studiengebiet nach § 26 Absatz 1 Nummer 5 und
+(2) Die Bachelorurkunde enthält:
 
-6. in den Studiengebieten nach § 26 Absatz 1 Nummer 6 und 7 gemeinsam.
+1. die Angabe des Studiengangs „Zolldienst des Bundes“ und
 
-(3) Die Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
+2. den verliehenen akademischen Grad „Bachelor of Laws (LL.B.)“.
 
-(4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+(3) Das Abschlusszeugnis enthält:
 
-(5) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens vier Klausuren mit mindestens fünf Rangpunkten bewertet worden sind.
+1. die Feststellung, dass die oder der Studierende die Laufbahnprüfung bestanden hat und die Befähigung für den gehobenen nichttechnischen Zolldienst des Bundes erlangt hat,
 
-# § 44 – Zulassung zur mündlichen Abschlussprüfung
+2. die Abschlussnote der Bachelorprüfung als numerischen Notenwert und als Note,
 
-(1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die schriftliche Abschlussprüfung bestanden hat.
+3. das Thema der Bachelorthesis und die Bewertung der Bachelorarbeit als numerischen Notenwert und als Note sowie
 
-(2) Die Zulassung oder Nichtzulassung wird den Studierenden rechtzeitig vor der mündlichen Abschlussprüfung bekannt gegeben. Gleichzeitig werden den Studierenden die in den Klausuren der schriftlichen Abschlussprüfung erzielten Rangpunkte mitgeteilt. Die Entscheidung bedarf der Schriftform.
+4. die insgesamt erworbenen ECTS-Leistungspunkte.
 
-(3) Die Nichtzulassung ist mit einer Rechtsbehelfsbelehrung zu versehen.
+(4) Das Diploma Supplement enthält die Angaben, die nach den Vorgaben der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland und der Hochschulrektorenkonferenz aufzunehmen sind. Maßgebend sind die jeweils aktuellen auf der Internetseite der Hochschulrektorenkonferenz veröffentlichten Vorgaben. Die Vorgaben werden beim Fachbereich Finanzen in der jeweils geltenden Fassung in unveränderlicher Form vorgehalten und archiviert. Das Diploma Supplement wird in deutscher und englischer Sprache ausgestellt.
 
-(4) Eine Ausfertigung der jeweiligen Entscheidung wird der Einstellungsbehörde für die Personalakte übermittelt.
+# § 61 – Bescheid bei Nichtbestehen der Bachelorprüfung
 
-# § 45 – Mündliche Abschlussprüfung
+Wer die Bachelorprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid in schriftlicher oder elektronischer Form über das Nichtbestehen der Bachelorprüfung und eine Bescheinigung über die im Studiengang erbrachten Leistungen, aus der die absolvierten Module, die individuell erworbenen ECTS-Leistungspunkte und die erzielten Noten hervorgehen.
 
-(1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den Studiengebieten nach § 26 Absatz 1 Nummer 1 bis 6 zu entnehmen. Die Fachprüferinnen oder Fachprüfer der genannten Studiengebiete wählen die Fragen aus.
+# § 62 – Verhinderung, Säumnis und Verspätung
 
-(2) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. Eine Gruppe soll aus höchstens sechs Studierenden bestehen. Die Dauer der Prüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten nicht überschreiten. Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung und stellt den ordnungsgemäßen Ablauf der Prüfung sicher. Die mündliche Prüfung wird durch mindestens eine Pause von angemessener Dauer unterbrochen.
+(1) Sind Prüfungsteilnehmende aus wichtigem Grund verhindert, eine Prüfung oder eine Teilprüfung rechtzeitig zu erbringen, so haben sie dies unverzüglich und eindeutig schriftlich oder elektronisch zu erklären und den Grund der Verhinderung nachzuweisen. Nach Bekanntgabe des Prüfungsergebnisses können Verhinderungsgründe nicht mehr geltend gemacht werden.
 
-(2a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024
+(2) Zum Nachweis einer Erkrankung ist ein ärztliches Attest vorzulegen. Auf Verlangen des Prüfungsamtes ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der vom Prüfungsamt beauftragt worden ist.
 
-1. für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen,
+(3) Liegt ein wichtiger Grund der Verhinderung vor, so entscheidet das Prüfungsamt
 
-2. die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird,
+1. bei der Bachelorthesis, ob die Bearbeitungszeit angemessen verlängert oder ein neues Thema ausgegeben wird, und
 
-3. auch für die Einzelprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete Einrichtungen zur Verfügung stehen, und
+2. bei sonstigen Prüfungen oder Teilprüfungen, dass die Prüfung oder die Teilprüfung als nicht begonnen gilt und zum nächstmöglichen Prüfungstermin nachzuholen ist.
 
-4. die Dauer der mündlichen Abschlussprüfung 30 Minuten je Studierende oder Studierenden nicht unterschreiten darf.
+(4) Wird eine Prüfung oder eine Teilprüfung ohne wichtigen Grund versäumt, so gilt die Prüfung oder die Teilprüfung als nicht bestanden und wird mit der Note „ungenügend“, numerischer Notenwert 6,0, bewertet.
 
-(2b) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 auf eine Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
+(5) Erscheinen Prüfungsteilnehmende ohne wichtigen Grund verspätet zu einer Prüfung oder einer Teilprüfung, so gilt die versäumte Zeit als Bearbeitungszeit. Beruht die Verspätung auf einem wichtigen Grund, so ist Absatz 3 Nummer 2 anzuwenden. Die Absätze 1 und 2 gelten entsprechend.
 
-1. die technischen Einrichtungen für eine Nutzung von Videokonferenztechnik nicht zur Verfügung stehen und
+# § 63 – Verstöße bei Prüfungen
 
-2. die Hochschule nicht gewährleisten kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn
+(1) Verstöße bei Prüfungen können sein:
 
-a) die mündliche Abschlussprüfung als Einzelprüfung durchgeführt würde,
+1. Täuschung,
 
-b) die Zahl der Mitglieder der Prüfungskommission reduziert würde und
+2. Täuschungsversuch,
 
-c) die Dauer der mündlichen Abschlussprüfung verkürzt würde.
+3. Mitwirken an einer Täuschung oder einem Täuschungsversuch und
 
-(3) Die mündliche Abschlussprüfung ist hochschulöffentlich, wenn die Studierenden dem nicht widersprechen. Mitglieder des Prüfungsamtes dürfen unabhängig vom Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann unabhängig vom Einverständnis der Studierenden folgenden Personen die Anwesenheit gestatten:
+4. sonstige Ordnungsverstöße.
 
-1. Vertreterinnen und Vertretern des Bundesministeriums der Finanzen,
+(2) Bei Verdacht auf einen Verstoß soll die vorläufige Fortsetzung der Prüfung oder der Teilprüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes gestattet werden. Bei einem erheblichen Verstoß kann die oder der Studierende von der weiteren Teilnahme an der Prüfung oder der Teilprüfung ausgeschlossen werden.
 
-2. der Präsidentin oder dem Präsidenten der Hochschule,
+(3) Über das Vorliegen und die Folgen eines Verstoßes entscheidet das Prüfungsamt. Abhängig von der Schwere des Verstoßes kann das Prüfungsamt
 
-3. Fachbereichsleiterinnen oder Fachbereichsleitern der Hochschule und
+1. die Wiederholung der Prüfung oder der Teilprüfung anordnen,
 
-4. in Ausnahmefällen anderen mit der Ausbildung befassten Personen.
+2. die Prüfung oder die Teilprüfung mit der Note „ungenügend“, numerischer Notenwert 6,0, bewerten,
 
-Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretungen und der Schwerbehindertenvertretungen bleiben unberührt. Zuhörerinnen und Zuhörer dürfen während der Prüfung keinerlei Aufzeichnungen machen.
+3. die Prüfung für endgültig nicht bestanden und damit das Studium für beendet erklären oder
 
-(4) Die Fachprüferin oder der Fachprüfer schlägt für das ihm zugewiesene Studiengebiet die Bewertung vor. Über diesen Vorschlag stimmt die Prüfungskommission ab. Das Ergebnis der mündlichen Abschlussprüfung ist die Durchschnittsrangpunktzahl, die sich aus den Einzelbewertungen für die Studiengebiete ergibt.
+4. bei sonstigen Ordnungsverstößen nach Absatz 1 Nummer 4 außerdem die Bewertung der Prüfung oder der Teilprüfung um eine Note herabsetzen.
 
-(5) Die mündliche Abschlussprüfung ist bestanden, wenn eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
+Die Einleitung disziplinarrechtlicher Maßnahmen bleibt unbenommen.
 
-(6) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der Vorsitzende der Prüfungskommission den Studierenden die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die Bewertungen auf Verlangen kurz mündlich.
+(4) Wird eine Täuschung erst nach dem Abschluss der Bachelorprüfung bekannt oder kann sie erst dann nachgewiesen werden, kann das Prüfungsamt die Bachelorprüfung innerhalb von fünf Jahren nach Beendigung des Studiums für ungültig erklären und die Einziehung der Bachelorurkunde, des Abschlusszeugnisses und des Diploma Supplements verfügen. Die Bachelorprüfung gilt in diesem Fall als nicht bestanden.
 
-(7) Über den Ablauf der mündlichen Abschlussprüfung wird eine Niederschrift angefertigt. Diese ist von allen Mitgliedern der Prüfungskommission zu unterschreiben.
+# § 64 – Störungen und Mängel im Prüfungsverfahren
 
-# § 46 – Bestehen der Laufbahnprüfung, Abschlussnote
+(1) Fühlt sich eine Prüfungsteilnehmende oder ein Prüfungsteilnehmender während einer Prüfung oder einer Teilprüfung durch äußere Einwirkungen erheblich gestört, so hat sie oder er dies unverzüglich den Aufsichtführenden mitzuteilen. Nach Beendigung der Prüfung oder der Teilprüfung können Störungen nicht mehr geltend gemacht werden.
 
-(1) Im Anschluss an die mündliche Abschlussprüfung errechnet die Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest. Bei der Berechnung der Rangpunktzahl der Laufbahnprüfung werden die einzelnen Ergebnisse wie folgt gewichtet:
+(2) Das Prüfungsamt hat auf Antrag von Prüfungsteilnehmenden oder von Amts wegen anzuordnen, dass von bestimmten oder von allen Prüfungsteilnehmenden die Prüfung, die Teilprüfung oder einzelne Teile derselben zu wiederholen sind, wenn sich erweist, dass das Prüfungsverfahren mit einem Mangel behaftet war, der die Chancengleichheit verletzt.
 
-1. die Durchschnittsrangpunktzahl der Zwischenprüfung mit 4 Prozent,
+(3) Ein Antrag nach Absatz 2 ist unverzüglich nach Kenntnis des Mangels schriftlich oder elektronisch beim Prüfungsamt zu stellen. Er darf keine Bedingungen enthalten und kann nicht zurückgenommen werden. Der Antrag ist ausgeschlossen, wenn seit dem Ende der Prüfung oder der Teilprüfung ein Monat verstrichen ist.
 
-2. die Durchschnittsrangpunktzahl des Hauptstudiums mit 32 Prozent,
+(4) Nach Ablauf von sechs Monaten nach dem Ende der Prüfung oder der Teilprüfung darf das Prüfungsamt Anordnungen von Amts wegen nach Absatz 2 nicht mehr treffen.
 
-3. die Durchschnittsrangpunktzahl der berufspraktischen Studienzeit mit 7 Prozent,
+# § 65 – Prüfungsakte und Einsichtnahme
 
-4. die Rangpunkte der sechs Klausuren der schriftlichen Abschlussprüfung mit jeweils 7 Prozent und
+(1) Zu jeder und jedem Studierenden führt das Prüfungsamt eine Prüfungsakte.
 
-5. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
+(2) In die Prüfungsakte sind aufzunehmen:
 
-(1a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die Rangpunktzahl der Laufbahnprüfung der Quotient aus
+1. die schriftlichen Prüfungsleistungen der Modulprüfungen,
 
-1. der Summe aus
+2. die Protokolle der mündlichen Prüfungsleistungen,
 
-a) der 4-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
+3. bei Prüfungen, die Multiple-Choice-Aufgaben enthalten, zusätzlich die Angabe der durchschnittlichen Leistung aller Prüfungsteilnehmenden,
 
-b) der 32-fachen Durchschnittsrangpunktzahl des Hauptstudiums,
+4. die Bachelorthesis,
 
-c) der 7-fachen Durchschnittsrangpunktzahl der berufspraktischen Studienzeit und
+5. eine Ausfertigung des Abschlusszeugnisses oder des Bescheides über das Nichtbestehen der Bachelorprüfung,
 
-d) dem 7-fachen der Rangpunkte für jede der sechs Klausuren der schriftlichen Abschlussprüfung sowie
+6. Ausfertigungen von Entscheidungen über die Gewährung von Nachteilsausgleichen für Prüfungen sowie
 
-2. der Zahl 85.
+7. Ausfertigungen aller weiteren Entscheidungen, die das Studium betreffen.
 
-(2) Die Laufbahnprüfung ist bestanden, wenn die mündliche Abschlussprüfung bestanden ist und in der Laufbahnprüfung eine Rangpunktzahl von mindestens 5 erreicht worden ist.
+(3) Die Prüfungsakte wird vom Prüfungsamt mindestens für fünf Jahre und höchstens für zehn Jahre nach Ablauf des Jahres der Bachelorprüfung aufbewahrt. Im Anschluss wird sie vernichtet.
 
-(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die mündliche Abschlussprüfung dennoch durchzuführen bei Studierenden, die
+(4) Nach Bekanntgabe des Bescheides über das Nichtbestehen der Bachelorprüfung oder des Abschlusszeugnisses ist der betroffenen Person auf Antrag Einsicht in ihre Prüfungsakte zu gewähren. Die Einsichtnahme ist in der Prüfungsakte zu vermerken.
 
-1. die schriftliche Abschlussprüfung bestanden haben und
+# § 66 – Anerkennung von Studien- und Prüfungsleistungen
 
-2. eine Rangpunktzahl der Laufbahnprüfung von weniger als 5,00 erreicht haben.
+(1) Auf Antrag der oder des Studierenden werden folgende Leistungen anerkannt:
 
-In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem die mündliche Abschlussprüfung durchgeführt wird. Ist die mündliche Abschlussprüfung durchgeführt worden, so wird die Rangpunktzahl der Laufbahnprüfung nach Absatz 1 Satz 2 ermittelt.
+1. Studien- und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen oder an staatlichen oder staatlich anerkannten Berufsakademien erbracht worden sind,
 
-(3) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Festsetzung der Abschlussnote kaufmännisch auf eine ganze Zahl gerundet.
+2. Studien- und Prüfungsleistungen, die an vergleichbaren Einrichtungen im In- oder Ausland erbracht worden sind, sowie
 
-# § 47 – Abschlusszeugnis, Diplomurkunde
+3. Studien- und Prüfungsleistungen, die in einem anderen Studiengang der Hochschule des Bundes für öffentliche Verwaltung erbracht worden sind.
 
-(1) Die Studierenden erhalten vom Prüfungsamt einen Bescheid über das Bestehen oder Nichtbestehen der Laufbahnprüfung und ein Abschlusszeugnis.
+(2) Voraussetzung für die Anerkennung ist, dass hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Leistungen besteht, die ersetzt werden.
 
-(2) Das Abschlusszeugnis enthält:
+(3) Ersetzt werden können nur Modulprüfungen und die Bachelorarbeit. Einzelne Teilprüfungen können nicht ersetzt werden.
 
-1. die Feststellung, dass die oder der Studierende die Laufbahnprüfung bestanden oder nicht bestanden hat,
+(+++ § 66 Abs. 3: Zur Geltung vgl. § 67 Abs. 3 +++)
 
-2. die Durchschnittsrangpunktzahl der Zwischenprüfung,
+# § 67 – Anrechnung von Kenntnissen und Qualifikationen
 
-3. die Durchschnittsrangpunktzahl des Hauptstudiums und das Thema der Diplomarbeit,
+(1) Auf Antrag der oder des Studierenden können Kenntnisse und Qualifikationen, die auf andere Weise als durch ein Studium erworben worden sind, angerechnet werden, höchstens jedoch auf 50 Prozent der geforderten Prüfungsleistungen.
 
-4. die Durchschnittsrangpunktzahl der berufspraktischen Studienzeit,
+(2) Voraussetzung für die Anrechnung ist, dass die Kenntnisse und Qualifikationen nach Inhalt und Niveau den Studien- und Prüfungsleistungen, die sie im Studiengang „Zolldienst des Bundes“ ersetzen sollen, gleichwertig sind.
 
-5. die Rangpunkte der Klausuren der schriftlichen Abschlussprüfung,
+(3) Ersetzt werden können nur Modulprüfungen. § 66 Absatz 3 Satz 2 gilt entsprechend.
 
-6. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung sowie
+# § 68 – Verfahren zur Anerkennung oder Anrechnung
 
-7. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
+(1) Der Antrag auf Anerkennung oder Anrechnung ist beim Prüfungsamt zu stellen. Es ist anzugeben, welche Prüfungsleistung ersetzt werden soll.
 
-(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, und ist auch nach § 46 Absatz 2a keine mündliche Abschlussprüfung durchgeführt worden, so bleibt im Abschlusszeugnis das Feld zur Angabe der Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung frei. In diesem Fall ist im Abschlusszeugnis zu vermerken, dass die Laufbahnprüfung ohne mündliche Abschlussprüfung abgelegt worden ist, und die Rechtsgrundlage für diese Tatsache anzugeben.
+(2) Dem Antrag auf Anerkennung sind geeignete Unterlagen zum Nachweis der Prüfungsleistung beizufügen.
 
-(3) Der Bescheid über die Laufbahnprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen.
+(3) Dem Antrag auf Anrechnung sind geeignete Unterlagen zum Nachweis der Kenntnisse und Qualifikationen sowie zu deren Umfang, Inhalt und Niveau beizufügen.
 
-(4) Eine Ausfertigung des Bescheides und des Abschlusszeugnisses ist der Einstellungsbehörde für die Personalakte zu übersenden.
+(4) Liegen erforderliche Unterlagen nicht bis zu der betreffenden Prüfung oder Teilprüfung vor, ist eine Anerkennung oder Anrechnung nicht möglich.
 
-(5) Ist die Laufbahnprüfung bestanden, erhalten die Absolventinnen und Absolventen eine Diplomurkunde über die Verleihung des Diplomgrades „Diplom-Finanzwirtin (FH)“ oder „Diplom-Finanzwirt (FH)“.
+(5) Das Prüfungsamt entscheidet über die Anerkennung oder Anrechnung auf Grund einer fachwissenschaftlichen Empfehlung des Fachbereichs Finanzen innerhalb von zwei Monaten nach Eingang aller erforderlichen Unterlagen. Vor einer Ablehnung hört das Prüfungsamt die Studierende oder den Studierenden an.
 
-(6) Offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung des Prüfungsergebnisses werden durch das Prüfungsamt berichtigt. Offensichtlich unrichtige Abschlusszeugnisse hat die Absolventin oder der Absolvent zurückzugeben.
+(6) Soweit bei anerkannten Leistungen die Bewertungssysteme vergleichbar sind, sind die Bewertungen der anerkannten Studien- und Prüfungsleistungen zu übernehmen. Soweit die Bewertungssysteme nicht vergleichbar sind, wird die anerkannte Studien- oder Prüfungsleistung einer Bewertung nach § 40 zugeordnet.
 
-# § 48 – Wiederholung von Prüfungen
+(7) Kenntnisse und Qualifikationen, die auf andere Weise als durch Studium erworben wurden, werden mit der Note „ausreichend“, numerischer Notenwert 4,0, bewertet, sofern keine Bewertung nach Absatz 6 möglich ist.
 
-(1) Studierende, die die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen. Ist die Wiederholung der Prüfung erfolglos, ist das Studium beendet. Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde kann in begründeten Fällen eine zweite Wiederholung zulassen. Die Zwischenprüfung oder die schriftliche oder die mündliche Abschlussprüfung ist jeweils vollständig zu wiederholen.
+# § 69 – Übergangsvorschrift
 
-(2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden muss. Die Wiederholungsphase soll mindestens drei Monate betragen und ein Jahr nicht überschreiten.
-
-(3) Die Wiederholung der Zwischenprüfung soll unverzüglich, frühestens jedoch einen Monat nach Bekanntgabe des Zwischenprüfungsergebnisses, erfolgen. Der weitere Studienverlauf wird wegen der Wiederholung der Zwischenprüfung nicht ausgesetzt. Bei Studierenden, die die schriftliche oder mündliche Abschlussprüfung wiederholen, wird der Vorbereitungsdienst bis zum Ablauf der vom Prüfungsamt angesetzten Wiederholungsfrist verlängert, sofern die zulässige Höchstdauer des Vorbereitungsdienstes nach § 15 der Bundeslaufbahnverordnung nicht überschritten wird.
-
-(4) Die Rangpunkte, die bei der Wiederholung erreicht werden, ersetzen die zuvor erreichten.
-
-(5) Bestandene Prüfungen können nicht wiederholt werden.
-
-# § 49 – Anerkennung von Studien- und Prüfungsleistungen
-
-(1) Studierende können bei der Hochschule beantragen, dass folgende Leistungen anerkannt werden:
-
-1. Studien- und Prüfungsleistungen aus anderen Studiengängen sowie
-
-2. Prüfungsleistungen, die vor einer öffentlichen Bildungseinrichtung, vor einer staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt worden sind.
-
-(2) Für die Anerkennung haben die Studierenden der Hochschule die für die Anerkennung erforderlichen Unterlagen vorzulegen.
-
-(3) Die Hochschule erkennt die Leistungen an, die gleichwertig sind mit den Leistungen, die nach dieser Verordnung für das Diplomstudium zu erbringen sind. Wesentliche Unterschiede führen zur Nichtanerkennung.
-
-# § 50 – Übergangsvorschriften
-
-(1) Für Studierende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1693), die zuletzt durch Artikel 3 Absatz 12 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass
-
-1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 und 3 der im einleitenden Satzteil genannten Verordnung § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt,
-
-2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1, § 35 Absatz 1 Satz 1 und § 39 Absatz 3 Satz 1 der im einleitenden Satzteil genannten Verordnung vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind,
-
-3. § 38 Absatz 5a, § 43 Absatz 3, § 45 Absatz 2a und 2b, § 46 Absatz 2a sowie § 47 Absatz 2a dieser Verordnung entsprechend gelten und
-
-4. im Fall der Festlegung, dass auf die mündliche Abschlussprüfung verzichtet wird, – abweichend von § 41 Absatz 1 Satz 2 der im einleitenden Satzteil genannten Verordnung – die Durchschnittspunktzahl der Laufbahnprüfung der Quotient ist aus
-
-a) der Summe aus
-
-aa)  
-der 2-fachen Durchschnittspunktzahl der Zwischenprüfung,
-
-bb)  
-der 12-fachen Durchschnittspunktzahl des Hauptstudiums,
-
-cc) der 9-fachen Durchschnittspunktzahl der berufspraktischen Studienzeiten und
-
-dd)  
-dem 9-fachen der Rangpunkte für jede der sechs schriftlichen Prüfungsarbeiten sowie
-
-b) der Zahl 77.
-
-(2) Auf Beamtinnen und Beamte, die bis zum 31. Dezember 2015 nach § 54 Absatz 2 Satz 1 der Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden Fassung erfolgreich an einer Vorauswahl für die Teilnahme an einem Auswahlverfahren für den Aufstieg teilgenommen haben oder zum Praxisaufstieg zugelassen worden sind, sind die §§ 27 bis 29 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1693), die zuletzt durch Artikel 3 Absatz 12 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
-
-# § 51 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 1. Oktober 2016 in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1693), die zuletzt durch Artikel 3 Absatz 12 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
+Auf Studierende, die vor Ablauf des 30. November 2023 das Studium begonnen haben, sind die Vorschriften der Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes vom 2. Juni 2016 (BGBl. I S. 1322), die zuletzt durch Artikel 2 der Verordnung vom 16. Dezember 2022 (BGBl. I S. 2866) geändert worden ist, weiter anzuwenden.
