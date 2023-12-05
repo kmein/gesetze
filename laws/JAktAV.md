@@ -378,5 +378,3 @@ Diese Verordnung tritt am 1. Januar 2022 in Kraft.
  
 
  
-
-Tabelle Nr. 1114.20 Spalte 3 Buchstabe b Doppelbuchst bb und Nr. 1136 Spalte 3 Buchstabe c Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Buchstaben "BnotO" durch die Buchstaben "BNotO" ersetzt
