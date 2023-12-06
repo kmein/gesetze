@@ -5751,6 +5751,7 @@
 - [UIG](laws/UIG.md) Umweltinformationsgesetz
 - [UIGGebV](laws/UIGGebV.md) Verordnung über Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der informationspflichtigen Stellen beim Vollzug des Umweltinformationsgesetzes
 - [UKlaG](laws/UKlaG.md) Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen
+- [UkraineAufenthFGV](laws/UkraineAufenthFGV.md) Verordnung zur Regelung der Fortgeltung der gemäß § 24 Absatz 1 Aufenthaltsgesetz erteilten Aufenthaltserlaubnisse für vorübergehend Schutzberechtigte aus der Ukraine
 - [UkraineAufenthÜV](laws/UkraineAufenthÜV.md) Verordnung zur vorübergehenden Befreiung vom Erfordernis eines Aufenthaltstitels von anlässlich des Krieges in der Ukraine eingereisten Personen
 - [UkV](laws/UkV.md) Verordnung über die Zuständigkeit und das Verfahren bei der Unabkömmlichstellung
 - [UmstBauSparkV](laws/UmstBauSparkV.md) Verordnung über die Umstellungsrechnung der Bausparkassen aus Anlaß der Neuordnung des Geldwesens
@@ -5958,6 +5959,7 @@
 - [VersorgAusglUmrFaktorBek 2021](laws/VersorgAusglUmrFaktorBek_2021.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2022](laws/VersorgAusglUmrFaktorBek_2022.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2023](laws/VersorgAusglUmrFaktorBek_2023.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+- [VersorgAusglUmrFaktorBek 2024](laws/VersorgAusglUmrFaktorBek_2024.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung im Jahr 2024
 - [VersorgLErstV](laws/VersorgLErstV.md) Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet
 - [VersResAbV](laws/VersResAbV.md) Verordnung zur befristeten Ausweitung des Stromerzeugungsangebots durch Anlagen aus der Versorgungsreserve
 - [VersRücklG](laws/VersRücklG.md) Gesetz über eine Versorgungsrücklage des Bundes

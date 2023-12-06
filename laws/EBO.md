@@ -1405,10 +1405,6 @@ Die Vorschriften der §§ 62 bis 64 gelten nicht für Bedienstete der Eisenbahne
 
 Strecken, die am 1. Dezember 2012 die Voraussetzungen nach § 15 Absatz 2 nicht erfüllen, sind bis zum Ablauf des 31. Dezember 2014 nachzurüsten. Bis zur Erfüllung der Ausrüstungsanforderungen nach § 15 Absatz 2 haben die Eisenbahnen anderweitige Maßnahmen zu treffen, die die sichere Betriebsführung gewährleisten.
 
-# § 66
-
-\-
-
 # § 66 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 28. Mai 1967 in Kraft.
