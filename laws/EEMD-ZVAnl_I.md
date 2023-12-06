@@ -5,7 +5,7 @@
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
-der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI), dieses vertreten durch das Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln, dieses wiederum vertreten durch seinen Präsidenten
+der Bundesrepublik Deutschland, vertreten durch das Bundesministerium Digitales und Verkehr (BMDV), dieses vertreten durch das Bundesamt für Logistik und Mobilität (BALM), Werderstraße 34, 50672 Köln, dieses wiederum vertreten durch seinen Präsidenten
 
  
 
@@ -47,51 +47,35 @@ und
 
 (1) Bestandteile dieses Vertrags sind
 
-–  
-der Nachweis der Registrierung als Anbieter nach § 4 MautSysG,
+1. der Nachweis der Registrierung als Anbieter nach § 4 MautSysG,
 
-–  
-die Zusatzvereinbarung (Anlage 1), soweit von den Parteien als erforderlich erachtet,
+2. die Zusatzvereinbarung (Anlage 1), soweit von den Parteien als erforderlich erachtet,
 
-–  
-Verfahren zur Feststellung der Gebrauchstauglichkeit Dokumente A und B (Anlagen 2 und 3),
+3. Verfahren zur Feststellung der Gebrauchstauglichkeit Dokumente A und B (Anlagen 2 und 3),
 
-–  
-der Zeit- und Projektplan (Anlage 4),
+4. der Zeit- und Projektplan (Anlage 4),
 
-–  
-die Entgeltordnung (Anlage 5),
+5. die Entgeltordnung (Anlage 5),
 
-–  
-das Glossar (Anlage 6),
+6. das Glossar (Anlage 6),
 
-–  
-die Erklärung über die Gewährung einer Bankgarantie oder eines gleichwertigen Finanzinstruments,
+7. die Erklärung über die Gewährung einer Bankgarantie oder eines gleichwertigen Finanzinstruments,
 
-–  
-gegebenenfalls Erklärungen/Schriftwechsel (Anlage 7).
+8. gegebenenfalls Erklärungen/Schriftwechsel (Anlage 7).
 
 (2) Bei Widersprüchen in diesem Vertrag gelten nacheinander
 
-–  
-dieser Vertrag,
+1. dieser Vertrag,
 
-–  
-die Zusatzvereinbarung (Anlage 1),
+2. die Zusatzvereinbarung (Anlage 1),
 
-–  
-gegebenenfalls Erklärungen/Schriftwechsel (Anlage 7),
+3. gegebenenfalls Erklärungen/Schriftwechsel (Anlage 7),
 
-–  
-Verfahren zur Feststellung der Gebrauchstauglichkeit Dokumente A und B (Anlagen 2 und 3),
+4. Verfahren zur Feststellung der Gebrauchstauglichkeit Dokumente A und B (Anlagen 2 und 3),
 
-–  
-der Zeit- und Projektplan (Anlage 4),
+5. der Zeit- und Projektplan (Anlage 4),
 
-–  
-das Glossar (Anlage 6).
-
- 
+6. das Glossar (Anlage 6).
 
 # § 3 – Ablauf des Prüfverfahrens
 
@@ -113,19 +97,15 @@ Der Ablauf des Prüfverfahrens für das EETS-Gebiet BFStrMG ist im BFStrMG und i
 
 (3) Der Anbieter soll sich hinsichtlich des Inhalts, der Struktur und des Umfangs der Dokumente gemäß Absatz 2 an den Empfehlungen zur Dokumentation des Teilsystems des Anbieters orientieren, die in Anlage 3 (Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B - Prüfkonzept) enthalten sind.
 
-Der Mauterheber übermittelt dem Anbieter insbesondere folgende Dokumente:
+(4) Der Mauterheber übermittelt dem Anbieter insbesondere folgende Dokumente:
 
-–  
-Spezifikation der Schnittstellen des Mauterhebers,
+1. Spezifikationen der Schnittstellen des Mauterhebers,
 
-–  
-Verfahrensbeschreibung für die Durchführung der Gebrauchstauglichkeitsprüfung,
+2. Verfahrensbeschreibung für die Durchführung der Gebrauchstauglichkeitsprüfung,
 
-–  
-Muster-Zulassungsvertrag,
+3. Muster-Zulassungsvertrag,
 
-–  
-Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B - Prüfkonzept nebst Anlagen.
+4. Verfahren zur Feststellung der Gebrauchstauglichkeit – Dokument B – Prüfkonzept nebst Anlagen.
 
 (5) Jede Partei bestätigt den Eingang von Dokumenten in Textform gegenüber der jeweils anderen Partei. Nach Erhalt der Dokumente prüfen die Parteien die Dokumente auf ihre Vollständigkeit und fordern gegebenenfalls fehlende Dokumente, Dokumententeile oder andere für den Nachweis der Erfüllung der Vorgaben für das EETS-Gebiet BFStrMG wesentliche Informationen bei der jeweils anderen Partei an. Erkennt eine Partei erst im Verlaufe des weiteren Verfahrens, dass Dokumente, Dokumententeile oder andere wesentliche Informationen fehlen, so hat sie diese unverzüglich bei der jeweils anderen Partei anzufordern.
 
@@ -145,7 +125,7 @@ Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B - Prüfkonzept
 
 (2) Die Bankgarantie muss von einem Kreditinstitut gegeben werden, das seinen Sitz oder seine Niederlassung in der Europäischen Union oder in der Europäischen Freihandelsassoziation (EFTA) hat. Das Kreditinstitut muss ein Investmentgrade-Rating für Langfristverbindlichkeiten von mindestens A3 (Moody's) bzw. A- (S&P oder Fitch) aufweisen und für Kurzfristverbindlichkeiten von mindestens P2 (Moody's) bzw. A-2 (S&P) bzw. F-2 (Fitch) aufweisen. Verschlechtert sich das Rating des Kreditinstituts während der Laufzeit der Bankgarantie, sodass die vorstehend genannten Mindestanforderungen nicht mehr erfüllt sind, ist der Anbieter verpflichtet, unverzüglich, spätestens aber innerhalb eines Monats nach Bekanntwerden des schlechteren Ratings, eine Bankgarantie eines Kreditinstituts, das die in diesem Absatz genannten Mindestvorgaben erfüllt, zu übergeben.
 
-(3) Sofern ein anderes Finanzinstrument als eine Bankgarantie zur Sicherung der Mauteinnahmen vorgehalten wird, muss dieses einer Bankgarantie, die die genannten Kriterien in Absatz 1 erfüllt, gleichwertig sein. Ein Finanzinstrument ist gleichwertig, wenn es denselben Grad an Sicherheit wie eine Bankgarantie bietet. Dies kann insbesondere dann der Fall sein, wenn die Gesellschafter des Anbieters eine Kapitalintakthalteerklärung in Bezug auf den Anbieter abgeben und eine der zu besichernden Summe angemessene finanzielle Leistungsfähigkeit besitzen. Die Entscheidung über die Gleichwertigkeit steht im Ermessen des Bundesamtes für Güterverkehr.
+(3) Sofern ein anderes Finanzinstrument als eine Bankgarantie zur Sicherung der Mauteinnahmen vorgehalten wird, muss dieses einer Bankgarantie, die die genannten Kriterien in Absatz 1 erfüllt, gleichwertig sein. Ein Finanzinstrument ist gleichwertig, wenn es denselben Grad an Sicherheit wie eine Bankgarantie bietet. Dies kann insbesondere dann der Fall sein, wenn die Gesellschafter des Anbieters eine Kapitalintakthalteerklärung in Bezug auf den Anbieter abgeben und eine der zu besichernden Summe angemessene finanzielle Leistungsfähigkeit besitzen. Die Entscheidung über die Gleichwertigkeit steht im Ermessen des Bundesamtes für Logistik und Mobilität.
 
 (4) Die Garantieerklärung oder der Nachweis eines gleichwertigen Finanzinstruments muss vom Anbieter in deutscher Sprache oder in einer amtlich beglaubigten Übersetzung übergeben werden. Die Bankgarantie muss sich nach zeitlichem Ablauf automatisch erneuern („revolvierende Bankgarantie“). Sollte die Bankgarantieerklärung oder die Laufzeit des gleichwertigen Finanzinstruments befristet sein, ist der Anbieter verpflichtet, spätestens zwei Kalendermonate vor Ablauf des Geltungszeitraums eine Verlängerung dieser Bankgarantieerklärung oder des gleichwertigen Finanzinstruments vorzulegen. Legt der Anbieter die Verlängerung der Bankgarantie oder des gleichwertigen Finanzinstruments nicht rechtzeitig vor, ist der Mauterheber - unbeschadet seines Rechts zur Beendigung dieser Vereinbarung nach § 23 - von der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung so lange frei, bis der Anbieter die Verlängerung der Bankgarantieerklärung oder des gleichwertigen Finanzinstruments vorgelegt hat.
 
@@ -153,9 +133,9 @@ Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B - Prüfkonzept
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieser Vereinbarung ausgeführten Tätigkeiten auf eigene Kosten eine Betriebshaftpflichtversicherung mit mindestens den folgenden Inhalten abzuschließen und während der Laufzeit dieser Vereinbarung aufrechtzuerhalten:
 
-a) Betriebsbeschreibung: „Mauterhebung als EETS-Anbieter auf den Straßen des EETS-Mautgebiets BFStrMG inklusive aller betriebs- und branchenüblichen, betriebs- und branchennotwendigen und im Betrieb der Versicherungsnehmerin bestehenden Zusatzrisiken“,
+1. Betriebsbeschreibung: „Mauterhebung als EETS-Anbieter auf den Straßen des EETS-Mautgebiets BFStrMG inklusive aller betriebs- und branchenüblichen, betriebs- und branchennotwendigen und im Betrieb der Versicherungsnehmerin bestehenden Zusatzrisiken“,
 
-b) Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach- und daraus folgenden Vermögensschäden mit einer Deckungssumme von mindestens 15 Mio. Euro (in Worten: fünfzehn Millionen Euro) je Schadensfall. Der EETS-Anbieter muss sicherstellen, dass zu jederzeit ein ausreichender Versicherungsschutz im Sinne des Satz 1 besteht; dies gilt auch nach Eintritt eines Versicherungsfalles und der Inanspruchnahme der Versicherung.
+2. Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach- und daraus folgenden Vermögensschäden mit einer Deckungssumme von mindestens 15 Mio. Euro (in Worten: fünfzehn Millionen Euro) je Schadensfall. Der EETS-Anbieter muss sicherstellen, dass zu jederzeit ein ausreichender Versicherungsschutz im Sinne des Satz 1 besteht; dies gilt auch nach Eintritt eines Versicherungsfalles und der Inanspruchnahme der Versicherung.
 
 (2) Errichtet oder betreibt der Anbieter im EETS-Gebiet BFStrMG straßenseitige Einrichtungen, ist er verpflichtet, die geschäftsüblichen Versicherungen abzuschließen und für die Dauer der Errichtung oder des Betriebs aufrechtzuerhalten. Die Versicherungen müssen Personen-, Sach- und daraus folgende Vermögensschäden abdecken. Die Mindestversicherungssumme für Versicherungen nach diesem Absatz beträgt 2,5 Mio. Euro (in Worten: zweieinhalb Millionen Euro) je Schadensfall.
 
@@ -205,11 +185,11 @@ Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm diejenigen Unt
 
 (3) Der Anbieter verpflichtet sich, während des gesamten Prüfverfahrens und bis zu dem Zeitpunkt, in dem die Daten mit Zustimmung des Mauterhebers gemäß § 16 unwiderruflich gelöscht oder vernichtet werden, sicherzustellen, dass der Schutz der personenbezogenen und personenbeziehbaren Daten den Anforderungen des deutschen und europäischen Datenschutzrechts entspricht. Der Anbieter wird darüber hinaus jederzeit die erforderlichen technischen und organisatorischen Sicherheitsmaßnahmen nach dem aktuellen Stand der Technik ergreifen, um die seinem Zugriff unterliegenden Daten, Prozesse und Systeme sowie den Datenaustausch mit dem Mauterheber zu schützen, sodass jederzeit hinsichtlich Vertraulichkeit, Verfügbarkeit und Integrität der Daten, Prozesse und Systeme ein dem im Einzelfall festgestellten Schutzbedarf entsprechender Schutz vor technischer oder organisatorischer Kompromittierung gewährleistet ist. Dabei ist für alle Vorgänge von dem jeweils höchsten Schutzbedarf auszugehen, die
 
-a) personenbezogene und personenbeziehbare Daten und
+1. personenbezogene und personenbeziehbare Daten und
 
-b) den Datenaustausch oder Systemberührungen mit dem Mauterheber betreffen.
+2. den Datenaustausch oder Systemberührungen mit dem Mauterheber
 
-Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und organisatorischen Sicherheitsmaßnahmen ergreifen, um alle beteiligten Daten, Systeme und Prozesse zu schützen, zu überwachen und bei Kenntnis eines realisierten oder potenziellen Verlustes der Vertraulichkeit, Verfügbarkeit oder Integrität von Daten, Systemen, oder Prozessen (insgesamt „Sicherheitsvorfall“) den Mauterheber unverzüglich zu informieren und unverzüglich in der jeweils erforderlichen Art und Weise zu reagieren, sodass insbesondere der Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit verbundene Schäden und Beeinträchtigungen des Mauterhebers oder Dritter soweit wie möglich begrenzt und reduziert werden. Der Mauterheber kann verlangen, auf Veranlassung des Anbieters das Informationsschutz-Management-System des Anbieters im Rahmen eines Audits von einem externen Sachverständigen prüfen zu lassen.
+betreffen. Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und organisatorischen Sicherheitsmaßnahmen ergreifen, um alle beteiligten Daten, Systeme und Prozesse zu schützen, zu überwachen und bei Kenntnis eines realisierten oder potenziellen Verlustes der Vertraulichkeit, Verfügbarkeit oder Integrität von Daten, Systemen, oder Prozessen (insgesamt „Sicherheitsvorfall“) den Mauterheber unverzüglich zu informieren und unverzüglich in der jeweils erforderlichen Art und Weise zu reagieren, sodass insbesondere der Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit verbundene Schäden und Beeinträchtigungen des Mauterhebers oder Dritter soweit wie möglich begrenzt und reduziert werden. Der Mauterheber kann verlangen, auf Veranlassung des Anbieters das Informationsschutz-Management-System des Anbieters im Rahmen eines Audits von einem externen Sachverständigen prüfen zu lassen.
 
 (4) Der Anbieter haftet dem Mauterheber für jegliche mittelbaren und unmittelbaren Schäden, die dem Mauterheber aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters entstehen; dies gilt nicht, soweit er die Pflichtverletzung nicht zu vertreten hat. Die Haftung schließt die dem Mauterheber entgangenen Mauteinnahmen ein. Der Anbieter übernimmt zudem die Kosten einer Wiederinstandsetzung, Reparatur oder sonstigen Überprüfung des Systems des Mauterhebers, des nationalen Betreibers und der von ihm betriebenen Kontrolleinrichtungen sowie des Mauterhebungsdienstes, die aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters entstanden sind. Sollten aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters Dritte Ansprüche gegenüber dem Mauterheber oder dem nationalen Betreiber geltend machen, stellt der Anbieter den Mauterheber gemäß § 21 im dort geregelten Umfang von diesen Ansprüchen frei.
 
@@ -227,7 +207,7 @@ Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und orga
 
 (5) Nach Beendigung des Prüfverfahrens sind auf Verlangen einer Partei alle vertraulichen Daten im Sinne des § 17 an diese zurückzugeben oder - soweit dies nach Art der Daten nicht möglich ist - nachweislich zu löschen oder auf andere Weise zu vernichten. Dies gilt nicht, soweit ein berechtigtes Interesse an der Aufbewahrung der vertraulichen Daten im Hinblick auf eine spätere Rekonstruktion des Prüfverfahrens bei Streitfällen dargelegt wird. In diesem Falle sind die Daten zurückzugeben oder nachweislich zu löschen, wenn sie für diesen Zweck nicht mehr erforderlich sind.
 
-(6) Für die Regelungen dieses Paragraphen gelten § 17 Absatz 3 und 8 entsprechend.
+(6) Für die Regelungen dieser Vorschrift gilt § 17 Absatz 3 und 8 entsprechend.
 
 # § 17 – Geheimhaltung und Vertraulichkeit
 
@@ -237,13 +217,11 @@ Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und orga
 
 (3) Nicht als Dritte im Sinne dieses Paragraphen gelten auf Seiten des Anbieters solche Personen, die
 
-a) mit Aufgaben befasst sind, die im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren stehen und/oder bestimmungsgemäß mit der Erfüllung der nach dieser Vereinbarung gegenüber dem Mauterheber geschuldeten Verpflichtungen beschäftigt sind,
+1. mit Aufgaben befasst sind, die im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren stehen und/oder bestimmungsgemäß mit der Erfüllung der nach dieser Vereinbarung gegenüber dem Mauterheber geschuldeten Verpflichtungen beschäftigt sind,
 
-b) gegenüber dem Anbieter zur Vertraulichkeit insbesondere auch bezüglich der vertraulichen Daten verpflichtet sind und
+2. gegenüber dem Anbieter zur Vertraulichkeit insbesondere auch bezüglich der vertraulichen Daten verpflichtet sind und
 
-c) die vertraulichen Daten zur Ausführung der ihnen zugewiesenen Aufgaben benötigen.
-
-Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen („Konzernunternehmen“) ist gestattet, wenn und soweit dies zur konzerninternen Prüfung erforderlich ist und zuvor den beteiligten Konzernunternehmen vollumfänglich die nach diesem Abschnitt bestehende Vertraulichkeitsverpflichtung auferlegt worden ist.
+3. die vertraulichen Daten zur Ausführung der ihnen zugewiesenen Aufgaben benötigen.
 
 (4) Der Anbieter führt eine Liste der Personen in Konzernunternehmen, die Zugang zu vertraulichen Daten haben und legt diese dem Mauterheber jederzeit auf sein Verlangen vor.
 
@@ -255,11 +233,11 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 (8) Nicht als Dritte im Sinne dieses Paragraphen gelten auf Seiten des Mauterhebers solche Personen, die
 
-a) mit Aufgaben befasst sind, die im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren stehen und/oder bestimmungsgemäß mit der Erfüllung der nach dieser Vereinbarung dem Mauterheber obliegenden Verpflichtungen beschäftigt sind,
+1. mit Aufgaben befasst sind, die im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren stehen und/oder bestimmungsgemäß mit der Erfüllung der nach dieser Vereinbarung gegenüber dem Mauterheber geschuldeten Verpflichtungen beschäftigt sind,
 
-b) gegenüber dem Mauterheber zur Vertraulichkeit insbesondere auch bezüglich der vertraulichen Daten verpflichtet sind und
+2. gegenüber dem Mauterheber zur Vertraulichkeit insbesondere auch bezüglich der vertraulichen Daten verpflichtet sind und
 
-c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benötigen.
+3. die vertraulichen Daten zur Ausführung der ihnen zugewiesenen Aufgaben benötigen.
 
 (9) Nicht als vertrauliche Daten gelten alle Daten, die zum Zeitpunkt der Weitergabe oder sonstigen Zugänglichmachung der Öffentlichkeit bereits nachweislich allgemein bekannt sind, ohne dass dies auf einer Verletzung dieser Vertraulichkeitsvereinbarung beruht.
 
@@ -297,11 +275,11 @@ c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benöt
 
 (5) Der Mauterheber haftet nicht für eine Einschränkung oder Schäden des EETS-Anbieters aufgrund
 
-a) von Maßnahmen des Baus, Betriebs, der Reparatur oder der Unterhaltung von Straßen des mautpflichtigen Straßennetzes,
+1. von Maßnahmen des Baus, Betriebs, der Reparatur oder der Unterhaltung von Straßen des mautpflichtigen Straßennetzes,
 
-b) von Änderungen, Beschränkungen oder Einschränkungen des mautpflichtigen Streckennetzes,
+2. von Änderungen, Beschränkungen oder Einschränkungen des mautpflichtigen Streckennetzes,
 
-c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anbieter durch einen dritten Dienstleister. Davon ausgenommen ist die Erbringung des Mauterhebungsdienstes durch den nationalen Betreiber im Auftrag des Mauterhebers.
+3. aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anbieter durch einen dritten Dienstleister. Davon ausgenommen ist die Erbringung des Mauterhebungsdienstes durch den nationalen Betreiber im Auftrag des Mauterhebers.
 
 (6) Das Recht des Mauterhebers, wegen der Verletzung von Pflichten aus dieser Vereinbarung Vertragsstrafen zu erheben, bleibt von der Regelung dieses Paragraphen unberührt.
 
@@ -331,29 +309,29 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anb
 
 (3) Eine Kündigung dieser Vereinbarung ist dem Anbieter jederzeit, dem Mauterheber nur aus wichtigem Grund möglich. Ein wichtiger Grund liegt vor, wenn dem Mauterheber unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses bis zur vereinbarten Beendigung oder bis zum Ablauf einer Kündigungsfrist nicht zugemutet werden kann, insbesondere,
 
-a) weil die Registrierung des Anbieters gemäß § 4 MautSysG oder bei der zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens überden Europäischen Wirtschaftsraum weggefallen ist oder die sachlichen Voraussetzungen hierfür vorliegen,
+1. weil die Registrierung des Anbieters gemäß § 4 MautSysG oder bei der zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum weggefallen ist oder die sachlichen Voraussetzungen hierfür vorliegen,
 
-b) die Prüfung der Zulassungsvoraussetzungen nach § 10 Absatz 2 Satz 1 MautSysG ergeben hat, dass diese nicht vorliegen und nicht geschaffen werden können,
+2. die Prüfung der Zulassungsvoraussetzungen nach § 10 Absatz 2 Satz 1 MautSysG ergeben hat, dass diese nicht vorliegen und nicht geschaffen werden können,
 
-c) wenn es wiederholt zu nicht unerheblichen Verzögerungen der Durchführung des Prüfverfahrens kommt, die der Anbieter zu vertreten hat,
+3. wenn es wiederholt zu nicht unerheblichen Verzögerungen der Durchführung des Prüfverfahrens kommt, die der Anbieter zu vertreten hat,
 
-d) wenn der Anbieter gegen seine Verpflichtung zur unverzüglichen und vollständigen Auskehr der Maut gemäß § 6 Absatz 2 verstößt oder die Sicherheit der Mauteinnahmen gemäß § 6 Absatz 3 nicht oder nicht mehr gewährleistet ist,
+4. wenn der Anbieter gegen seine Verpflichtung zur unverzüglichen und vollständigen Auskehr der Maut gemäß § 6 Absatz 2 verstößt oder die Sicherheit der Mauteinnahmen gemäß § 6 Absatz 3 nicht oder nicht mehr gewährleistet ist,
 
-e) wenn der Anbieter seine Verpflichtungen aus § 7 dieser Vereinbarung nicht erfüllt,
+5. wenn der Anbieter seine Verpflichtungen aus § 7 dieser Vereinbarung nicht erfüllt,
 
-f) wenn der Anbieter nicht nur vorübergehend den Versicherungsschutz gemäß § 8 dieser Vereinbarung nicht oder nicht in ausreichender Weise besitzt,
+6. wenn der Anbieter nicht nur vorübergehend den Versicherungsschutz gemäß § 8 dieser Vereinbarung nicht oder nicht in ausreichender Weise besitzt,
 
-g) wenn der Anbieter ohne vorherige Zustimmung des Mauterhebers nach § 9 Rechte aus dieser Vereinbarung an Dritte abgetreten hat,
+7. wenn der Anbieter ohne vorherige Zustimmung des Mauterhebers nach § 9 Rechte aus dieser Vereinbarung an Dritte abgetreten hat,
 
-h) wenn der Anbieter seine Verpflichtung zur Rückwirkungsfreiheit seines Mautdienst-Teilsystems gemäß § 11 dieser Vereinbarung verletzt und dem Mauterheber dadurch ein nicht unerheblicher Schaden entstanden ist,
+8. wenn der Anbieter seine Verpflichtung zur Rückwirkungsfreiheit seines Mautdienst-Teilsystems gemäß § 11 dieser Vereinbarung verletzt und dem Mauterheber dadurch ein nicht unerheblicher Schaden entstanden ist,
 
-i) wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen zur Gewährleistung des Datenschutzes gemäß § 14 dieser Vereinbarung verstoßen hat,
+9. wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen zur Gewährleistung des Datenschutzes gemäß § 14 dieser Vereinbarung verstoßen hat,
 
-j) wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen zur Gewährleistung der Datensicherheit gemäß § 15 dieser Vereinbarung verstoßen hat,
+10. wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen zur Gewährleistung der Datensicherheit gemäß § 15 dieser Vereinbarung verstoßen hat,
 
-k) wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen im Zusammenhang mit der Aufbewahrung von vertraulichen Unterlagen gemäß § 16 dieser Vereinbarung verstoßen hat,
+11. wenn der Anbieter in nicht unerheblicher Weise gegen seine Verpflichtungen im Zusammenhang mit der Aufbewahrung von vertraulichen Unterlagen gemäß § 16 dieser Vereinbarung verstoßen hat,
 
-l) wenn der Anbieter wiederholt, d. h. nach einem einmaligen Verstoß erneut in nicht unerheblicher Weise gegen die Regelungen zur Geheimhaltung und Vertraulichkeit gemäß §17 dieser Vereinbarung verstoßen hat.
+12. wenn der Anbieter wiederholt, das heißt nach einem einmaligen Verstoß erneut in nicht unerheblicher Weise gegen die Regelungen zur Geheimhaltung und Vertraulichkeit gemäß §17 dieser Vereinbarung verstoßen hat.
 
 Liegt ein wichtiger Grund für die Kündigung durch den Mauterheber vor, ist der Mauterheber zur Kündigung ohne Einhaltung einer Frist berechtigt.
 
@@ -379,15 +357,13 @@ Liegt ein wichtiger Grund für die Kündigung durch den Mauterheber vor, ist der
 
 # § 27 – Schriftverkehr
 
-(1) Sämtliche Mitteilungen gemäß oder im Zusammenhang mit dieser Vereinbarung sind schriftlich und in deutscher Sprache abzufassen, es sei denn in dieser Vereinbarung wurde Abweichendes vereinbart.
+(1) Sämtliche Mitteilungen gemäß oder im Zusammenhang mit dieser Vereinbarung sind in Textform und in deutscher Sprache abzufassen und an die mit dem Mauterheber abgestimmten E-Mail-Adressen zu richten. Satz 1 gilt nicht für förmliche Zustellungen, diese sind schriftlich und in deutscher Sprache abzufassen.
 
-(2) Mitteilungen oder förmliche Zustellungen an den Mauterheber im Zusammenhang mit dieser Vereinbarung sind an die folgende Anschrift zu richten:  
-  
-Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln (Empfangsberechtigter).
+(2) Förmliche Zustellungen an den Mauterheber in Zusammenhang mit dieser Vereinbarung sind an die folgende Anschrift zu richten:  
+Bundesamt für Logistik und Mobilität (BALM), Werderstraße 34, 50672 Köln  
+(Empfangsberechtigter).
 
-(3) Mitteilungen an den Anbieter im Zusammenhang mit dieser Vereinbarung sind an die folgende Anschrift zu richten:  
-  
-Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter).
+(3) Mitteilungen an den Anbieter im Zusammenhang mit dieser Vereinbarung sind an die mit dem Anbieter abgestimmten E-Mail-Adressen zu richten.
 
 (4) Für förmliche Zustellungen an den Anbieter im Zusammenhang mit dieser Vereinbarung muss der Anbieter einen Zustellungsbevollmächtigten mit Sitz in der Bundesrepublik Deutschland nennen. Förmliche Zustellungen an den Anbieter sind an die folgende Anschrift zu richten:  
   
@@ -595,7 +571,7 @@ Schnittstellenprüfung
 
  
 
-Testumgebung des BAG
+Testumgebung des BALM
 
 wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
@@ -603,7 +579,7 @@ Kompatibilitätstests
 
  
 
-Testumgebungen des nationalen Mautbetreibers und des BAG
+Testumgebungen des nationalen Mautbetreibers und des BALM
 
 wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
@@ -611,7 +587,7 @@ EA-Fahrtests (optional)
 
  
 
-Testumgebungen des nationalen Mautbetreibers und des BAG
+Testumgebungen des nationalen Mautbetreibers und des BALM
 
 wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
@@ -623,7 +599,7 @@ Probebetrieb
 
  
 
-Testumgebungen des BAG und des nationalen Mautbetreibers
+Testumgebungen des BALM und des nationalen Mautbetreibers
 
 wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
@@ -635,7 +611,7 @@ Pilotbetrieb
 
  
 
-Wirkbetriebssystem des BAG und des nationalen Mautbetreibers
+Wirkbetriebssystem des BALM und des nationalen Mautbetreibers
 
 Wirkbetriebssystem
 
@@ -1580,8 +1556,8 @@ technisch-organisatorische Vorgaben
 
 Kompatibilität der EETS-Teilsysteme
 
-Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten sowie deren Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation). Beschreibung aller Geschäftsprozesse und Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Blocklist/Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“,  
-„Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BAG“ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen). IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.
+Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten sowie deren Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation). Beschreibung aller Geschäftsprozesse und Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“,  
+„Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BALM“ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen). IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.
 
 15
 
@@ -1593,7 +1569,7 @@ Beschreibung der Berührungspunkte zwischen dem System des EETS-Anbieters und de
 
 Funktionen des EETS-Teilsystems
 
-Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten (High-Level-Systemdokumentation). Beschreibung der Geschäftsprozesse in den Bereichen Fahrspurerhebung und Mautabrechnung sowie Prozesse zur Unterstützung der Kontrolle und Überwachung des Mauterhebers. Beschreibung der IT-Serviceprozesse des EETS-Anbieters. Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Blocklist/Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“, „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BAG“ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
+Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten (High-Level-Systemdokumentation). Beschreibung der Geschäftsprozesse in den Bereichen Fahrspurerhebung und Mautabrechnung sowie Prozesse zur Unterstützung der Kontrolle und Überwachung des Mauterhebers. Beschreibung der IT-Serviceprozesse des EETS-Anbieters. Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“, „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BALM“ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
 
 17
 
@@ -1605,11 +1581,11 @@ Erläuterung der Verwendung der Zeitbasis in den Komponenten des EETS-Anbieter-T
 
 Schnittstellen
 
-Funktionale Beschreibung der vom EETS-Anbieter geplanten Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation). Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber. Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere „Bordgerät – straßenseitiges Kontrollequipment“, „Blocklist/Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“, „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BAG““ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
+Funktionale Beschreibung der vom EETS-Anbieter geplanten Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation). Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber. Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere „Bordgerät – straßenseitiges Kontrollequipment“, „Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“, „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der „übergreifenden Aspekte Anbindung BALM“ im System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
 
 19
 
-Blocklist/Sperrliste
+Sperrliste
 
 Beschreibung des Geschäftsprozesses der Sperrung von Bordgeräten. Hier sind insbesondere auch technische Sonderfälle darzustellen, wie z. B. technische Defekte des Bordgeräts, gestörte Kommunikation über Mobilfunk.
 
@@ -1905,15 +1881,15 @@ Die Kompatibilitätstests werden durch den nationalen Mautbetreiber im Auftrag d
 
 4.2 Prüforganisation, -umgebung und Rahmenbedingungen
 
-Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die Durchführung, Begleitung und Koordinierung der Prüfaktivitäten. Der Mauterheber benennt seinerseits entsprechende Ansprechpartner für die Schnittstellenprüfung und die Kompatibilitätstests. Mauterheber und EETS-Anbieter sorgen dafür, dass die jeweils genannten Verantwortlichen für den gesamten Zeitraum der Phase 1 zur Verfügung stehen. Die in der Phase 1 verwendete Prüfumgebung besteht seitens des Mauterhebers aus der Testumgebung des EETS@BAG Systems und aus der Testumgebung des nationalen Mautbetreibers. Seitens des EETS-Anbieters besteht sie aus einem wirkbetriebsnahen Erprobungssystem oder seinem Wirkbetriebssystem.
+Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die Durchführung, Begleitung und Koordinierung der Prüfaktivitäten. Der Mauterheber benennt seinerseits entsprechende Ansprechpartner für die Schnittstellenprüfung und die Kompatibilitätstests. Mauterheber und EETS-Anbieter sorgen dafür, dass die jeweils genannten Verantwortlichen für den gesamten Zeitraum der Phase 1 zur Verfügung stehen. Die in der Phase 1 verwendete Prüfumgebung besteht seitens des Mauterhebers aus der Testumgebung des BALM Zentralsystem und aus der Testumgebung des nationalen Mautbetreibers. Seitens des EETS-Anbieters besteht sie aus einem wirkbetriebsnahen Erprobungssystem oder seinem Wirkbetriebssystem.
 
 Die Systeme sind über die technischen Schnittstellen gekoppelt. Die folgende Abbildung veranschaulicht die verwendete Prüfumgebung:  
   
 
-|                                                       |
-|:-----------------------------------------------------:|
-| ![ ](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20211029v2_03.jpg) |
-|           Abbildung 2: Testumgebung Phase 1           |
+|                                                   |
+|:-------------------------------------------------:|
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0014_0010.jpg) |
+|         Abbildung 2: Testumgebung Phase 1         |
 
 1. Die Testumgebung des Mauterhebers repräsentiert das EETS-Teilsystem des Mauterhebers, und umfasst die Schnittstellenprüfumgebung des Mauterhebers und die Testumgebung für die Kompatibilitätstests des nationalen Betreibers.
 
@@ -2041,7 +2017,7 @@ Während der Durchführung der MED-Kompatibilitätstests muss der EETS-Anbieter 
 
 Für die Schnittstellenprüfung - Phase 1 definiert der Mauterheber Prüffälle für durchzuführende Prüfungen. Die Prüffälle des Mauterhebers sind in folgenden Szenarien gruppiert:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Prüfszenario</td><td style="text-align: left;">Bezeichnung</td><td style="text-align: left;">Schwerpunkt der Prüfung</td></tr><tr class="even"><td style="text-align: left;">P1- SSP-001</td><td style="text-align: left;">Austausch von sicherheitsrelevanten Objekten (SST 004)</td><td style="text-align: left;">korrekter Austausch und Verwendung sicherheitsrelevanter Objekte</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-002</td><td style="text-align: left;">technische Prüfung der Schnittstellen zwischen EETS@BAG System und EETS-Anbieter (SST 001, SST 002, SST 008, SST 099)</td><td style="text-align: left;">korrekter Kommunikationsablauf</td></tr><tr class="even"><td style="text-align: left;">P1- SSP-003</td><td style="text-align: left;">Verwalten der Nutzerliste (Userlist SST 002a)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Fahrzeug- und Bordgerätedaten</td></tr><tr class="odd"><td style="text-align: left;">P1- SSP-004</td><td style="text-align: left;">Verwalten der Blocklist/Sperrliste (SST 001)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Blocklist/Sperrliste</td></tr><tr class="even"><td style="text-align: left;">P1- SSP-005</td><td style="text-align: left;">Verwalten von Nutzeradress- und Fahrzeugdaten (SST 002b)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Nutzeradress- und Fahrzeugdaten</td></tr><tr class="odd"><td style="text-align: left;">P1- SSP-006</td><td style="text-align: left;">Verwalten der Fahrzeugliste von EETS-Nutzern (SST 002c)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Fahrzeugliste von EETS-Nutzern</td></tr><tr class="even"><td style="text-align: left;">P1- SSP-007</td><td style="text-align: left;">Erzeugung von Tagesberichten (SST 008)</td><td style="text-align: left;">fachliche Korrektheit der Tagesberichte</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-008<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Prüfszenario</td><td style="text-align: left;">Bezeichnung</td><td style="text-align: left;">Schwerpunkt der Prüfung</td></tr><tr class="even"><td style="text-align: left;">P1-SSP-001</td><td style="text-align: left;">Austausch von sicherheitsrelevanten Objekten (SST 004)</td><td style="text-align: left;">korrekter Austausch und Verwendung sicherheitsrelevanter Objekte</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-002</td><td style="text-align: left;">technische Prüfung der Schnittstellen zwischen BALM Zentralsystem und EETS-Anbieter (SST 001, SST 002, SST 008, SST 099)</td><td style="text-align: left;">korrekter Kommunikationsablauf</td></tr><tr class="even"><td style="text-align: left;">P1-SSP-003</td><td style="text-align: left;">Verwalten der Nutzerliste (Userlist SST 002a)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Fahrzeug- und Bordgerätedaten</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-004</td><td style="text-align: left;">Verwalten der Blocklist/Sperrliste (SST 001)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Blocklist/Sperrliste</td></tr><tr class="even"><td style="text-align: left;">P1-SSP-005</td><td style="text-align: left;">Verwalten von Nutzeradress- und Fahrzeugdaten (SST 002b)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Nutzeradress- und Fahrzeugdaten</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-006</td><td style="text-align: left;">Verwalten der Fahrzeugliste von EETS-Nutzern (SST 002c)</td><td style="text-align: left;">Vollständigkeit und fachliche Korrektheit der Fahrzeugliste von EETS-Nutzern</td></tr><tr class="even"><td style="text-align: left;">P1-SSP-007</td><td style="text-align: left;">Erzeugung von Tagesberichten (SST 008)</td><td style="text-align: left;">fachliche Korrektheit der Tagesberichte</td></tr><tr class="odd"><td style="text-align: left;">P1-SSP-008<br />
 (optional)</td><td style="text-align: left;">Übertragung der Mautbasisdaten (SST 003) an den EETS-Anbieter</td><td style="text-align: left;">Technische Funktionsfähigkeit der Übermittlung der Mautbasisdaten an den EETS-Anbieter. Die Durchführung ist optional, in Abhängigkeit davon, ob der EETS-Anbieter die Umsetzung der Schnittstelle beabsichtigt.</td></tr></tbody></table>
 
 Tabelle 3: Liste der Prüfszenarien für Phase 1 – Schnittstellenprüfung
@@ -2473,15 +2449,15 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
 Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellenspezifikation SST 301 auf die sie sich beziehen.
 
-2 Prüffälle für SST301 Version 2.1
+2 Prüffälle für SST301 Version 2.2
 
 2.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
 2.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
-3.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
+3.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
-P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
+3.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
 Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2, Phase 1 Kompatiblitätests nachzuweisen ist.
 
@@ -2519,7 +2495,7 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 
-Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG sind vom BAG Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben. Das Zulassungsverfahren gliedert sich in folgende Phasen:  
+Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG sind vom BALM Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben. Das Zulassungsverfahren gliedert sich in folgende Phasen:  
   
 ![ ](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20211029v2_04.jpg)
 
@@ -2536,7 +2512,7 @@ Von einem EETS-Anbieter, der das Zulassungsverfahren durchläuft, sind die nachf
 | e) |                        vor Beginn des Pilotbetriebs (GTP Prüfblock, Nummer 7)                        |   62 000 Euro   |
 |     |                                            Gesamtbetrag:                                             |  302 000 Euro   |
 
-Diese Pauschalbeträge sind jeweils vor Beginn der zugehörigen Verfahrensphase fällig. Das BAG fordert einen EETS-Anbieter vor jeder Verfahrensphase schriftlich zur Zahlung des Betrags auf. Die Verfahrensphase wird vom BAG erst nach Eingang der entsprechenden Zahlung eingeleitet.
+Diese Pauschalbeträge sind jeweils vor Beginn der zugehörigen Verfahrensphase fällig. Das BALM fordert einen EETS-Anbieter vor jeder Verfahrensphase schriftlich zur Zahlung des Betrags auf. Die Verfahrensphase wird vom BALM erst nach Eingang der entsprechenden Zahlung eingeleitet.
 
 Es ist möglich, dass eine erneute Prüfung eines Teils oder des gesamten Teilsystems eines EETS-Anbieters notwendig wird. Dies ist der Fall, wenn
 
