@@ -5126,7 +5126,6 @@
 - [SichLVV](laws/SichLVV.md) Verordnung über die Übertragung von Aufgaben und Befugnissen eines Sicherungsfonds für die Lebensversicherung an die Protektor Lebensversicherungs-AG
 - [SiebdrAusbV](laws/SiebdrAusbV.md) Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck*)
 - [SiebdrMstrV](laws/SiebdrMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk
-- [SignBenennV](laws/SignBenennV.md) Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 - [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
 - [SISIIIGArt3Nr5u7InkrBek](laws/SISIIIGArt3Nr5u7InkrBek.md) Bekanntmachung über das Inkrafttreten des Artikels 3 Nummer 5 und 7 des SIS-III-Gesetzes

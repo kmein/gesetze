@@ -73,7 +73,8 @@ Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 # Anlage – (zu § 3 Absatz 1 Satz 1)Aufbewahrungs- und Speicherungsfristen
 
-(Fundstelle: BGBl. I 2021, 4837 - 4898)
+(Fundstelle: BGBl. I 2021, 4837 - 4898;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
