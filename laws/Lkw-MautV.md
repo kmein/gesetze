@@ -117,7 +117,7 @@ mit dem oder der die mautpflichtige Straßenbenutzung durchgeführt werden soll.
 
 Der Nachweis kann durch ein Gutachten eines amtlich anerkannten Sachverständigen erbracht werden. Das Bundesamt für Logistik und Mobilität kann von dem Mautschuldner verlangen, dass dieser die für den Nachweis erforderlichen Unterlagen in deutscher Sprache vorlegt. Die Kosten der Übersetzung hat der Mautschuldner zu tragen.
 
-(+++ § 7 Abs. 3 bis 5: Zur Anwendung vgl. § 8 Abs. 4 +++)
+(+++ § 7 Abs. 4: Zur Anwendung vgl. § 8 Abs. 3 +++)
 
 # § 8 – Nachweis der Kohlenstoffdioxid-Emissionsklasse
 

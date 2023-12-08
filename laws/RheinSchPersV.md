@@ -1310,12 +1310,48 @@ Der Leichtmatrose oder einer der Leichtmatrosen darf durch einen Decksmann erset
 Die Mindestbesatzung der Dampf-Tagesausflugsschiffe umfasst:  
   
 
+  
+Stufe
+
+  
+Besatzungsmitglieder
+
+Anzahl der Besatzungsmitglieder in der Betriebsform A1, A2 oder B und für den Ausrüstungsstandard S1 oder S2
+
+ 
+
+ 
+
+ 
+
+A1
+
+A2
+
+B
+
+ 
+
+ 
+
+ 
+
+S1
+
+S2
+
+S1
+
+S2
+
+S1
+
+S2
+
 1
 
-Zulässige  
-Anzahl  
-der Fahrgäste:  
-von 501 bis 1 000
+Zulässige Anzahl der Fahrgäste:  
+von 501 bis 1000
 
 Schiffsführer ................
 
@@ -1387,7 +1423,7 @@ Leichtmatrose ..............
 
 1
 
-Maschinist ....................
+Maschinist<span id="FnR.FnA3-BJNR0690Q0023BJNE007400000_3"></span><a href="#FnA3-BJNR0690Q0023BJNE007400000_3" class="FnR">2)</a></sup> ....................
 
 2
 
@@ -1403,10 +1439,8 @@ Maschinist ....................
 
 2
 
-Zulässige  
-Anzahl  
-der Fahrgäste:  
-von 1 001 bis 2 000
+Zulässige Anzahl der Fahrgäste:  
+von 1001 bis 2000
 
 Schiffsführer ................
 
@@ -1452,7 +1486,7 @@ Bootsmann ..................
 
 Matrose ........................
 
-3   oder   2
+3              2
 
 1
 
@@ -1466,21 +1500,21 @@ Matrose ........................
 
 Leichtmatrose ..............
 
--             2
+-              2
 
- 1 
+1
 
-  1<span id="FnR.FnA2-BJNR0690Q0023BJNE007400000_2"></span><a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
+1<span id="FnR.FnA2-BJNR0690Q0023BJNE007400000_2"></span><a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
 
-  2<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
+2<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
 
-  1<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
+1<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
 
-  2<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
+2<a href="#FnA2-BJNR0690Q0023BJNE007400000_2" class="FnR">1)</a></sup>
 
-Maschinist ....................
+Maschinist<a href="#FnA3-BJNR0690Q0023BJNE007400000_3" class="FnR">2)</a></sup> ....................
 
-3   oder   3
+3              3
 
 3
 

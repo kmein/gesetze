@@ -479,6 +479,8 @@ Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch n
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbringung unbestellter sonstiger Leistungen oder der Zusendung oder sonstiger Übermittlung unverlangter Werbung verlangen kann, hat die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle eines Anspruchs nach den §§ 1 bis 2b sein Anspruch auf Unterlassung nach allgemeinen Vorschriften tritt.
 
+(+++ Gem. Art. 10 Nr. 21 G v. 8.10.2023 I Nr. 272 wurden abweichend von der Änderungsanweisung die Wörter "§§ 1 bis 2a oder nach § 4e" durch die Angabe "§§ 1 bis 2b" ersetzt +++)
+
 # § 14 – Schlichtungsverfahren und Verordnungsermächtigung
 
 (1) Bei Streitigkeiten aus der Anwendung

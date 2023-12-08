@@ -1189,8 +1189,6 @@ c) für die auszugleichenden Mehrkosten nach § 22 Absatz 2.
 
 (3) Verteilernetzbetreiber teilen dem vorgelagerten Übertragungsnetzbetreiber bis zum 31. März 2023 die Adressdaten der an ihr Netz angeschlossenen Stromerzeugungsanlagen, die in den Anwendungsbereich des Teils 3 fallen, einschließlich der Nummer des Registers mit. Die Adressdaten der entsprechenden Anlagenbetreiber sind gleichermaßen mitzuteilen. Stromerzeugungsanlagen, die nach dem 31. März 2023 in Betrieb genommen worden sind, sind jeweils unverzüglich nachzumelden.
 
-(+++ § 32 Abs. 1: Zur Anwendung vgl. § 32 Abs. 2 +++)
-
 # § 33 – Übertragungsnetzbetreiber
 
 (1) Die Übertragungsnetzbetreiber übermitteln der Bundesnetzagentur
@@ -1448,6 +1446,8 @@ des in dem der Behördenentscheidung vorausgegangenen Geschäftsjahres erzielten
 (9) Für das Verfahren zur Festsetzung und Vollstreckung des Haftungsbetrages nach Absatz 7 sind die Vorschriften über die Festsetzung und Vollstreckung einer Geldbuße entsprechend anzuwenden. Für die Verjährungsfrist ist das für die Ordnungswidrigkeit geltende Recht entsprechend anzuwenden. § 31 Absatz 3 des Gesetzes über Ordnungswidrigkeiten ist mit der Maßgabe entsprechend anzuwenden, dass die Verjährung mit Eintritt der Voraussetzungen nach Absatz 7 beginnt.
 
 (10) Sofern gegen mehrere juristische Personen oder Personenvereinigungen eines Unternehmens wegen derselben Ordnungswidrigkeit Geldbußen und Haftungsbeträge festgesetzt werden, darf im Vollstreckungsverfahren diesen gegenüber insgesamt nur eine Beitreibung bis zur Erreichung des höchsten festgesetzten Einzelbetrages erfolgen.
+
+(+++ Die Änderungsanweisung zu § 43 Abs. 5 Satz 2 gem. Art. 2 Nr. 27 Buchst. f G v. 26.7.2023 I Nr. 202 wurde aufgrund eines Bezeichnungsfehlers in § 43 Abs. 5 Satz 1 ausgeführt +++)
 
 # § 44 – Strafvorschriften
 
