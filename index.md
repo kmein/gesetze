@@ -146,6 +146,7 @@
 - [ALBeitrBek 2021](laws/ALBeitrBek_2021.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2021
 - [ALBeitrBek 2022](laws/ALBeitrBek_2022.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022
 - [ALBeitrBek 2023](laws/ALBeitrBek_2023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2023
+- [ALBeitrBek 2024](laws/ALBeitrBek_2024.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2024
 - [ALFV](laws/ALFV.md) Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
 - [AlkopopStG](laws/AlkopopStG.md) Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
@@ -3384,7 +3385,7 @@
 - [LKonV](laws/LKonV.md) Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure
 - [LkSG](laws/LkSG.md) Gesetz über die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten
 - [LKV](laws/LKV.md) Los-Kennzeichnungs-Verordnung
-- [Lkw-MautV](laws/Lkw-MautV.md) Verordnung zur Erhebung, zum Nachweis der ordnungsgemäßen Entrichtung und zur Erstattung der Maut
+- [Lkw-MautV](laws/Lkw-MautV.md) Verordnung zur Erhebung, zur Nachweisführung über die für die Maut maßgeblichen Tatsachen und zur Erstattung der Maut
 - [LKWÜberlStVAusnV](laws/LKWÜberlStVAusnV.md) Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge *)
 - [LMBestrV](laws/LMBestrV.md) Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma- und Röntgenstrahlen, Neutronen oder ultravioletten Strahlen
 - [LMBVV](laws/LMBVV.md) Verordnung über Lebensmittel für bestimmte Verbrauchergruppen

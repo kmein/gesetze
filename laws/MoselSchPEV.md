@@ -443,25 +443,23 @@ m) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerä
 
 n) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,
 
-o) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
+o) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
 
-p) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
+p) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
 
-q) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+q) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
 
-r) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
+r) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
 
-s) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
+s) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
 
-t) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
+t) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
 
-u) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
+u) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
 
-v) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
+v) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
 
-w) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
-
-x) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
+w) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
 
 11a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
 

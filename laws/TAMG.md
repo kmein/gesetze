@@ -971,8 +971,6 @@ a) in den Mitteilungen die Zulassungsnummer des jeweils angewendeten Arzneimitte
 
 b) in den Mitteilungen die Art und das Körpergewicht des behandelten Tieres sowie die Dosierung und die Anzahl der Behandlungstage anzugeben ist.
 
-§ 45 Abs. 6 EingS Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Bundesöberhörde" durch das Wort "Bundesoberbehörde" ersetzt
-
 # § 46 – Abgabe von Mustern
 
 (1) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis dürfen ein Muster eines Tierarzneimittels oder eines veterinärmedizintechnischen Produkts nur abgeben an

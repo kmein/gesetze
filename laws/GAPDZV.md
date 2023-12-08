@@ -88,6 +88,12 @@ Es verordnet auf Grund des
 
  
 
+ 
+
+ 
+
+ 
+
 # § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung des GAP-Direktzahlungen-Gesetzes und der in § 1 des GAP-Direktzahlungen-Gesetzes genannten Unionsregelung.
@@ -519,7 +525,7 @@ Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor beträgt 
 
 (1) Die geplanten Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die Öko-Regelungen, die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannt sind, sind in Anlage 4 festgesetzt.
 
-(2) Zu jedem geplanten Einheitsbetrag für eine Öko-Regelung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags zur Anwendung. Ein geplanter Mindesteinheitsbetrag kommt nicht zur Anwendung. Abweichend von Satz 1 kommt für das Antragsjahr 2023 ein geplanter Höchsteinheitsbetrag von 130 Prozent des geplanten Einheitsbetrags zur Anwendung.
+(2) Zu jedem geplanten Einheitsbetrag für eine Öko-Regelung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags zur Anwendung. Ein geplanter Mindesteinheitsbetrag kommt nicht zur Anwendung. Abweichend von Satz 1 kommt für die Antragsjahre 2023 und 2024 jeweils ein geplanter Höchsteinheitsbetrag von 130 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 # § 17 – Weitere Vorschriften für die Öko-Regelungen; Subdelegation
 
@@ -591,6 +597,12 @@ c) der Viehverkehrsverordnung.
 
 (3) Scheidet ein Tier im Haltungszeitraum aufgrund natürlicher Lebensumstände aus dem Bestand aus, ist die Anforderung des Absatzes 2 Nummer 2 gewahrt, wenn es unverzüglich nach dem Ausscheiden durch ein anderes förderfähiges Tier ersetzt wird.
 
+# § 21a – Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen für das Antragsjahr 2023
+
+(1) Der in § 6 Absatz 5 des GAP-Direktzahlungen-Gesetzes festgelegte geplante Höchsteinheitsbetrag wird für das Antragsjahr 2023 auf 115 Prozent des geplanten Einheitsbetrags festgesetzt.
+
+(2) Der in § 10 Absatz 7 des GAP-Direktzahlungen-Gesetzes festgelegte geplante Höchsteinheitsbetrag wird für das Antragsjahr 2023 auf 115 Prozent des geplanten Einheitsbetrags festgesetzt.
+
 # § 22 – Grundsätze für die Berechnung der tatsächlichen Einheitsbeträge
 
 (1) Die Berechnung der tatsächlichen Einheitsbeträge für die Direktzahlungen, die den Betriebsinhabern je Einheit zu gewähren sind, erfolgt für jedes Antragsjahr nach den Vorschriften dieses Teils.
@@ -625,7 +637,7 @@ f) die Zahlung für Mutterkühe,
 
 (4) Zur Berechnung der tatsächlichen Einheitsbeträge werden zunächst nach § 23 vorläufige Einheitsbeträge ermittelt.
 
-(5) Die nach § 23 ermittelten vorläufigen Einheitsbeträge werden, wenn und soweit die jeweils festgelegten Voraussetzungen vorliegen, angepasst:
+(5) Die nach § 23 ermittelten vorläufigen Einheitsbeträge werden, wenn und soweit die jeweils festgelegten Voraussetzungen vorliegen, vorbehaltlich des Absatzes 9 Satz 1, angepasst:
 
 1. nach § 25 durch die Verwendung von Restmitteln und
 
@@ -635,7 +647,9 @@ f) die Zahlung für Mutterkühe,
 
 (7) Der Begriff Änderungsbetrag bezeichnet in den §§ 25 und 26 den Betrag, der sich ergibt, wenn der Unterschiedsbetrag zwischen einem vorläufigen Einheitsbetrag vor und nach einer Anpassung aufgrund des § 25 oder des § 26 mit der Anzahl der jeweils begünstigungsfähigen Einheiten multipliziert wird.
 
-(8) Der tatsächliche Einheitsbetrag ist der vorläufige Einheitsbetrag nach der letzten Anpassung aufgrund der §§ 25 und 26 oder, sofern sich keine Anpassungen ergeben, der vorläufige Einheitsbetrag nach § 23. Der so ermittelte Betrag ist auf die zweite Nachkommastelle abzurunden.
+(8) Der tatsächliche Einheitsbetrag ist, vorbehaltlich des Absatzes 9 Satz 2, der vorläufige Einheitsbetrag nach der letzten Anpassung aufgrund der §§ 25 und 26 oder, sofern sich keine Anpassungen ergeben, der vorläufige Einheitsbetrag nach § 23. Der so ermittelte Betrag ist auf die zweite Nachkommastelle abzurunden.
+
+(9) Abweichend von Absatz 5 unterliegen im Fall der Zahlung für Mutterschafe und -ziegen sowie der Zahlung für Mütterkühe die jeweiligen nach § 23 ermittelten vorläufigen Einheitsbeträge nicht den Anpassungen nach den §§ 25 und 26. Abweichend von Absatz 8 sind im Fall der Zahlung für Mutterschafe und -ziegen sowie der Zahlung für Mütterkühe die jeweiligen nach § 23 ermittelten vorläufigen Einheitsbeträge, abgerundet auf die zweite Nachkommastelle, die tatsächlichen Einheitsbeträge. § 24 bleibt unberührt.
 
 # § 23 – Berechnung vorläufiger Einheitsbeträge
 
@@ -729,6 +743,10 @@ Erfüllt ein Betriebsinhaber eine Voraussetzung für die Gewährung einer Direkt
 
 (2) Für auf das Antragsjahr 2023 folgende Antragsjahre ist § 8 Nummer 7 ab dem Tag anzuwenden, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung zur Änderung des am 21. November 2022 genehmigten durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, ab dem § 8 Nummer 7 für auf das Antragsjahr 2023 folgende Antragsjahre anzuwenden ist, im Bundesgesetzblatt bekannt.
 
+(3) § 22 ist für das Antragsjahr 2023 in der am 8. Dezember 2023 geltenden Fassung anzuwenden.
+
+(4) Die Anlagen 4 und 5 sind für das Antragsjahr 2023 in der am 7. Dezember 2023 geltenden Fassung weiter anzuwenden.
+
 # § 29 – Inkrafttreten
 
 (1) Die §§ 1, 14 und 17 Absatz 3 bis 5 treten am Tag nach der Verkündung in Kraft.
@@ -775,7 +793,7 @@ a) § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes
 2025</th><th style="text-align: right;">Antragsjahr<br />
 2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 1</td><td style="text-align: right;">1 300 Euro</td><td style="text-align: right;">1 300 Euro</td><td style="text-align: right;">1 300 Euro</td><td style="text-align: right;">1 300 Euro</td></tr><tr class="even"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 2</td><td style="text-align: right;">500 Euro</td><td style="text-align: right;">500 Euro</td><td style="text-align: right;">500 Euro</td><td style="text-align: right;">500 Euro</td></tr><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 3</td><td style="text-align: right;">300 Euro</td><td style="text-align: right;">300 Euro</td><td style="text-align: right;">300 Euro</td><td style="text-align: right;">300 Euro</td></tr></tbody></table>
 
-Für die nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche im Umfang von 1 Prozent des förderfähigen Ackerlandes wird der geplante Einheitsbetrag Stufe 1 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche bis zum Umfang von 2 Prozent des förderfähigen Ackerlandes wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
+Für die nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche im Umfang von bis zu 1 Prozent des förderfähigen Ackerlandes wird der geplante Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird der geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.1.1 Satz 4 genannten Fall im Umfang von bis zu 1 Hektar begünstigungsfähiger Fläche auch dann angewendet, wenn diese Fläche größer ist als 1 Prozent des förderfähigen Ackerlandes des Betriebs. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche bis zum Umfang von 2 Prozent des förderfähigen Ackerlandes wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
 
 b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
 
@@ -783,7 +801,7 @@ b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td></tr></tbody></table>
 
 c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
 
@@ -791,7 +809,7 @@ c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td></tr></tbody></table>
 
 d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
 
@@ -809,7 +827,7 @@ Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">45 Euro</td><td style="text-align: right;">45 Euro</td><td style="text-align: right;">45 Euro</td><td style="text-align: right;">45 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">45 Euro</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">60 Euro</td></tr></tbody></table>
 
 3. § 20 Absatz 1 Nummer 3 des GAP-Direktzahlungen-Gesetzes
 
@@ -817,7 +835,7 @@ Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">60 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">60 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td></tr></tbody></table>
 
 4. § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes
 
@@ -841,7 +859,7 @@ Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 1</td><td style="text-align: right;">130 Euro</td><td style="text-align: right;">120 Euro</td><td style="text-align: right;">110 Euro</td><td style="text-align: right;">110 Euro</td></tr><tr class="even"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 2</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 1</td><td style="text-align: right;">130 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">150 Euro</td></tr><tr class="even"><td style="text-align: left;">Geplanter Einheitsbetrag Stufe 2</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td><td style="text-align: right;">50 Euro</td></tr></tbody></table>
 
 Für eine nach Anlage 5 Nummer 6 begünstigungsfähige Fläche mit einer von Anlage 5 Nummer 6.2 oder 6.4 umfassten Kultur wird der geplante Einheitsbetrag Stufe 1 angewendet. Für eine nach Anlage 5 Nummer 6 begünstigungsfähige Fläche mit einer von Anlage 5 Nummer 6.3 umfassten Kultur wird der geplante Einheitsbetrag Stufe 2 angewendet.
 
@@ -865,11 +883,13 @@ Für eine nach Anlage 5 Nummer 6 begünstigungsfähige Fläche mit einer von Anl
 § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes
 
 1.1.1  
-Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes ergibt, hinaus im Umfang von mindestens 1 Prozent des förderfähigen Ackerlandes des Betriebs bereitzustellen. Begünstigungsfähig ist nichtproduktives Ackerland höchstens im Umfang von 6 Prozent des förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven Flächen gehören nicht
+Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes ergibt, hinaus bereitzustellen. Begünstigungsfähig ist nichtproduktives Ackerland höchstens im Umfang von 6 Prozent des förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven Flächen gehören nicht
 
 a) die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen und
 
 b) Ackerland, auf dem sich ein Agroforstsystem befindet.
+
+Abweichend von Satz 2 ist im Fall eines Betriebes mit mehr als 10 Hektar Ackerland nichtproduktives Ackerland im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn dies mehr als 6 Prozent des förderfähigen Ackerlandes des Betriebes ausmacht.
 
 1.1.2  
 Begünstigungsfähige Fläche ist die nichtproduktive Fläche nach Nummer 1.1.1, die die Voraussetzungen der Nummern 1.1.3 und 1.1.4 erfüllt.
@@ -884,13 +904,13 @@ Jede nichtproduktive Fläche muss während des ganzen Antragsjahres brachliegen 
 § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
 
 1.2.1  
-Begünstigungsfähige Blühstreifen oder -flächen auf nach Nummer 1.1.1 bereitgestellten Flächen müssen die Voraussetzungen der Nummern 1.2.2 bis 1.2.4 erfüllen.
+Begünstigungsfähige Blühstreifen oder -flächen auf nach Nummer 1.1.1 bereitgestellten Flächen müssen die Voraussetzungen der Nummern 1.2.2 bis 1.2.4 erfüllen. Begünstigungsfähig sind Blühstreifen oder -flächen bis zu einer Höchstgröße von jeweils 3 Hektar.
 
 1.2.2  
 Blühstreifen oder -flächen müssen eine Mindestgröße von jeweils 0,1 Hektar aufweisen.
 
 1.2.3  
-Ein Blühstreifen muss auf seiner überwiegenden Länge mindestens 20 Meter breit und darf höchstens 30 Meter breit sein. Eine Blühfläche ist eine nicht streifenförmige Fläche mit einer Höchstgröße von 1 Hektar je Blühfläche. Blühstreifen von mehr als 30 Meter Breite gelten als Blühfläche.
+Bei streifenförmiger Aussaat ist eine Mindestbreite von 5 Metern einzuhalten.
 
 1.2.4  
 Auf einem Blühstreifen oder einer Blühfläche muss sich ein Pflanzenbestand nach Maßgabe der Nummern 1.2.5 bis 1.2.7 befinden, der durch Aussaat einer Saatgutmischung nach Anhang 1 etabliert worden ist. Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel dürfen nicht angewendet werden.
@@ -915,11 +935,7 @@ Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung erlaubt, wenn di
 § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
 
 1.3.1  
-Für begünstigungsfähige Blühstreifen und -flächen in förderfähigen Dauerkulturen gelten die Voraussetzungen der Nummer 1.2 entsprechend mit der Maßgabe, dass
-
-a) Nummer 1.2.2 nicht gilt und
-
-b) Nummer 1.2.3 Satz 1 nicht gilt.
+Für begünstigungsfähige Blühstreifen oder -flächen in förderfähigen Dauerkulturen gelten die Voraussetzungen der Nummern 1.2.4 bis 1.2.8 entsprechend.
 
 1.4  
 § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
@@ -1006,7 +1022,7 @@ Unbeschadet naturschutzrechtlicher Vorschriften sind Maßnahmen der Holzernte im
 Begünstigungsfähig ist das gesamte förderfähige Dauergrünland eines Betriebs, wenn die Voraussetzungen der Nummern 4.2 bis 4.5 erfüllt sind.
 
 4.2  
-Im Gesamtbetrieb ist vom 1. Januar bis 30. September des Antragsjahres durchschnittlich ein Viehbesatz von mindestens 0,3 und höchstens 1,4 raufutterfressenden Großvieheinheiten (RGV) je Hektar förderfähiges Dauergrünland einzuhalten. Der Viehbesatz von mindestens 0,3 RGV je Hektar förderfähiges Dauergrünland kann im Zeitraum vom 1. Januar bis 30. September des Antragsjahres an bis zu 40 Tagen unterschritten werden. Zugrunde gelegt wird der Berechnungsschlüssel nach Anhang II der Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18) in der durch die Verordnung (EU) 2016/669 der Kommission vom 28. April 2016 (ABl. L 115 vom 29.4.2016, S. 33) geänderten Fassung.
+Im Gesamtbetrieb ist im Antragsjahr durchschnittlich ein Viehbesatz von mindestens 0,3 und höchstens 1,4 raufutterfressenden Großvieheinheiten (RGV) je Hektar förderfähiges Dauergrünland einzuhalten. Zugrunde gelegt wird der Berechnungsschlüssel nach Anhang II der Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18) in der durch die Verordnung (EU) 2016/669 der Kommission vom 28. April 2016 (ABl. L 115 vom 29.4.2016, S. 33) geänderten Fassung. Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst.
 
 4.3  
 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist nur in dem Umfang erlaubt, der dem Dunganfall von höchstens 1,4 RGV je Hektar förderfähiges Dauergrünland des Betriebs entspricht.
@@ -1053,7 +1069,7 @@ Chemisch-synthetische Pflanzenschutzmittel im Sinne dieser Öko-Regelung sind al
 
 a) ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1; L 45 vom 18.2.2020, S. 81), die zuletzt durch die Verordnung (EU) 2021/383 (ABl. L 74 vom 4.3.2021, S. 7) geändert worden ist, in der jeweils geltenden Fassung,
 
-b) für die ökologische Landwirtschaft zugelassen sind nach oder aufgrund der Verordnung (EG) Nr. 889/2008 der Kommission vom 5. September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen hinsichtlich der ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle (ABl. L 250 vom 18.9.2008, S. 1; L 256 vom 29.9.2009, S. 39; L 359 vom 29.12.2012, S. 77), die zuletzt durch die Durchführungsverordnung (EU) 2021/181 (ABl. L 53 vom 16.2.2021, S. 99) geändert worden ist, in der jeweils geltenden Fassung.
+b) für die ökologische Landwirtschaft zugelassen sind.
 
 7. Zu § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes
 

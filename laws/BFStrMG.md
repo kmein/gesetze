@@ -323,8 +323,6 @@ Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsv
 
 (2) Besteht zwischen dem Mautschuldner und dem Betreiber nach § 4 Absatz 3 Satz 1 oder einem Anbieter nach § 10 Absatz 1 oder § 11 Absatz 1 des Mautsystemgesetzes Uneinigkeit über die für die Mauthöhe maßgeblichen Merkmale des Kraftfahrzeugs oder der Fahrzeugkombination, hat das Bundesamt für Logistik und Mobilität diese auf Antrag festzustellen.
 
-(+++ § 5 Satz 4: Zur Anwendung vgl. § 7 Abs. 5 Lkw-MautV 2018 +++)
-
 # § 6 – Einrichtungen zur Erhebung der Maut
 
 Der Betreiber hat die Einrichtungen für den Betrieb des Mauterhebungssystems und für die Feststellung von mautpflichtigen Benutzungen mautpflichtiger Straßen im Sinne des § 1 mit Zustimmung der zuständigen Behörden der Länder und auf Bundesautobahnen des Fernstraßen-Bundesamtes zu errichten. Soweit nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2 des Grundgesetzes auf Antrag eines Landes Bundesstraßen, soweit sie im Gebiet dieses Landes liegen, vom Bund in Bundesverwaltung übernommen werden, ist das Fernstraßen-Bundesamt für diese Bundesstraßen für die Erteilung der Zustimmung nach Satz 1 zuständig.

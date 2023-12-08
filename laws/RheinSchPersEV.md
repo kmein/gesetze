@@ -109,87 +109,43 @@ Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der Rheinschiffsperso
 
 1. die für die jeweilige Betriebsform und Einsatzzeit des Fahrzeugs nach § 17.01 Nummer 1 Satz 2, § 19.02 Nummer 1, § 19.03 Nummer 1, § 19.04 Nummer 1 bis 4, § 19.05 Nummer 1 und 2 Satz 1, § 19.06 Nummer 1, § 19.07 Nummer 1, § 19.08 Satz 2 und § 19.09 Satz 2 der Rheinschiffspersonalverordnung vorgeschriebene Besatzung während der Fahrt ständig an Bord ist,
 
-<!-- -->
-
 2. das für Tagesausflugsschiffe und Kabinenschiffe nach § 17.01 Nummer 1 Satz 2, § 16.11 Nummer 1 Satz 1 der Rheinschiffspersonalverordnung jeweils vorgeschriebene Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an Bord verfügbar ist sowie der nach § 16.13 Satz 1 der Rheinschiffspersonalverordnung vorgeschriebene Kontrollgang nachts stündlich durchgeführt wird,
-
-<!-- -->
 
 3. ungültig gezeichnete Bordbücher und die Aufzeichnungen der Fahrtenschreiber nach § 18.04 Nummer 3 und 5 Satz 2 der Rheinschiffspersonalverordnung sowie die Ölkontrollbücher nach § 15.05 Nummer 1 der Rheinschifffahrtspolizeiverordnung zur Wahrung des Datenschutzes nach 15 Monaten vernichtet werden.
 
 (2) Der Eigentümer, der Ausrüster und der Schiffsführer dürfen nicht anordnen oder zulassen, dass
 
-1. ein Mitglied der Besatzung eingesetzt wird, wenn der nach § 4.02 Nummer 1 der Rheinschiffspersonalverordnung erforderliche Nachweis nicht erneuert ist,
-
-<!-- -->
+1. ein Mitglied der Besatzung eingesetzt wird, dessen für die auszuübende Funktion vorgeschriebene Befähigung nicht nach Maßgabe des § 3.02 Nummer 1 Satz 2 der Rheinschiffspersonalverordnung nachgewiesen ist,
 
 2. auf einem Fahrzeug, das mit Flüssigerdgas (LNG) betrieben wird, ein Mitglied der Besatzung am Bunkervorgang beteiligt wird, obwohl es nicht als Sachkundiger für Flüssigerdgas gemäß § 15.01 der Rheinschiffspersonalverordnung qualifiziert ist,
 
-<!-- -->
-
 3. die für die jeweilige Betriebsform festgesetzte Einsatzzeit eines Fahrzeugs nach § 18.01 Nummer 1 und 3 Satz 1 der Rheinschiffspersonalverordnung nicht eingehalten oder die Fahrt nicht entsprechend eingestellt wird,
-
-<!-- -->
 
 4. ein Mitglied der Besatzung entgegen § 18.02 Nummer 5 erster Halbsatz der Rheinschiffspersonalverordnung während seiner Mindestruhezeit eingesetzt wird,
 
-<!-- -->
-
 5. nach § 18.03 Nummer 2 bis 5 der Rheinschiffspersonalverordnung die Betriebsform gewechselt wird, obwohl vorher ein Austausch der Besatzung nicht stattgefunden hat, die jeweiligen Ruhezeiten nicht eingehalten wurden oder der Nachweis über die Einhaltung der sechs- oder achtstündigen Ruhezeit nach § 18.03 Nummer 7 der Rheinschiffspersonalverordnung nicht geführt wird.
 
-(3) Der Eigentümer und der Ausrüster dürfen nicht anordnen oder zulassen, dass
-
-1. ein Fahrzeug geführt wird, obwohl die Gültigkeit des hierfür vorgeschriebenen Rheinpatentes nach § 8.01 Nummer 1 der Rheinschiffspersonalverordnung ausgesetzt wurde,
-
-<!-- -->
-
-2. ein Fahrzeug ohne das hierfür vorgeschriebene Befähigungszeugnis nach § 11.01 Nummer 1 der Rheinschiffspersonalverordnung für die jeweilige Fahrzeugart und -größe geführt wird,
-
-<!-- -->
-
-3. ein Fahrzeug ohne die jeweils erforderliche besondere Berechtigung nach § 13.01 Nummer 1 der Rheinschiffspersonalverordnung geführt wird,
-
-<!-- -->
-
-4. ein mit Flüssigerdgas (LNG) betriebenes Fahrzeug geführt wird, obwohl der Schiffsführer nicht als Sachkundiger für Flüssigerdgas nach § 15.01 der Rheinschiffspersonalverordnung qualifiziert ist.
+(3) Der Eigentümer und der Ausrüster dürfen nicht anordnen oder zulassen, dass ein Fahrzeug geführt wird, obwohl die Gültigkeit des hierfür vorgeschriebenen Rheinpatentes nach § 8.01 Nummer 1 der Rheinschiffspersonalverordnung ausgesetzt wurde.
 
 (4) Der Schiffsführer hat dafür zu sorgen, dass
 
 1. die Risikominderungsmaßnahmen und Beschränkungen nach § 4.01 Nummer 3 der Rheinschiffspersonalverordnung eingehalten werden,
 
-<!-- -->
-
-2. die Eintragungen nach § 5.01 Nummer 6 Satz 2 Buchstabe a der Rheinschiffspersonalverordnung nach Maßgabe der in den Schifferdienstbüchern enthaltenen Anweisungen zur Führung des Schifferdienstbuches vorgenommen werden,
-
-<!-- -->
+2. die Eintragungen im Schifferdienstbuch nach § 5.01 Nummer 6 Satz 1 der Rheinschiffspersonalverordnung vorgenommen werden,
 
 3. das Befähigungszeugnis vor Beginn der Aussetzungsfrist nach § 8.01 Nummer 5 der Rheinschiffspersonalverordnung zur amtlichen Verwahrung vorgelegt wird,
 
-<!-- -->
+4. (weggefallen)
 
-4. die erforderliche Befähigung der nach § 15.01 der Rheinschiffspersonalverordnung am Bunkervorgang beteiligten Besatzungsmitglieder von Fahrzeugen, die mit Flüssigerdgas (LNG) betrieben werden, jederzeit durch das Befähigungszeugnis nach § 15.02 Nummer 1 der Rheinschiffspersonalverordnung an Bord nachgewiesen werden kann,
-
-<!-- -->
-
-5. die erforderliche Befähigung des Sicherheitspersonals auf Fahrgastschiffen nach § 16.01 Nummer 1 der Rheinschiffspersonalverordnung jederzeit durch die entsprechende Bescheinigung nach § 16.10 Nummer 1 Satz 1, Nummer 2 oder 3 der Rheinschiffspersonalverordnung an Bord nachgewiesen werden kann,
-
-<!-- -->
+5. (weggefallen)
 
 6. das Bordbuch nach § 18.04 Nummer 1 Satz 2 der Rheinschiffspersonalverordnung entsprechend der darin enthaltenen Anleitung geführt wird,
 
-<!-- -->
-
 7. das ungültig gezeichnete Bordbuch und die Aufzeichnungen der Fahrtenschreiber nach § 18.04 Nummer 3 und 5 Satz 2 der Rheinschiffspersonalverordnung sechs Monate nach der letzten Eintragung oder Aufzeichnung an Bord aufbewahrt werden,
-
-<!-- -->
 
 8. die in § 18.04 Nummer 4 Satz 1 der Rheinschiffspersonalverordnung genannte Bescheinigung gemäß § 18.04 Nummer 4 Satz 2 der Rheinschiffspersonalverordnung an Bord mitgeführt oder vorgewiesen wird,
 
-<!-- -->
-
 9. bei einem Austausch oder einer Verstärkung der Besatzung dem Bordbuch eine der nach § 18.04 Nummer 6 der Rheinschiffspersonalverordnung vorgeschriebenen Unterlagen beiliegt,
-
-<!-- -->
 
 10. die Eintragungen im Logbuch nach § 19.07 Nummer 2 Satz 5 der Rheinschiffspersonalverordnung vorgenommen werden.
 
@@ -197,15 +153,9 @@ Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der Rheinschiffsperso
 
 1. wenn die Gültigkeit des Befähigungszeugnisses nach § 8.01 Nummer 1 der Rheinschiffspersonalverordnung ausgesetzt ist,
 
-<!-- -->
-
 2. ohne ein nach § 11.01 Nummer 1 der Rheinschiffspersonalverordnung vorgeschriebenes Befähigungszeugnis als Schiffsführer für die jeweilige Fahrzeugart und -größe zu besitzen,
 
-<!-- -->
-
 3. ohne eine nach § 13.01 Nummer 1 der Rheinschiffspersonalverordnung erforderliche besondere Berechtigung zu besitzen,
-
-<!-- -->
 
 4. ohne die nach § 15.02 Nummer 1 der Rheinschiffspersonalverordnung vorgeschriebene Befähigung für Sachkundige für LNG zu besitzen, sofern das Fahrzeug mit Flüssigerdgas (LNG) betrieben wird.
 
@@ -221,77 +171,43 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 1. entgegen § 8 Absatz 1 Nummer 1 nicht dafür sorgt, dass die vorgeschriebene Besatzung an Bord ist,
 
-<!-- -->
-
 2. entgegen § 8 Absatz 1 Nummer 2 nicht dafür sorgt, dass das Sicherheitspersonal an Bord verfügbar ist oder der Kontrollgang durchgeführt wird,
-
-<!-- -->
 
 3. entgegen § 8 Absatz 2 Nummer 1 den Einsatz eines Mitglieds der Besatzung anordnet oder zulässt,
 
-<!-- -->
-
 4. entgegen § 8 Absatz 2 Nummer 2 eine dort genannte Beteiligung eines Mitglieds der Besatzung anordnet oder zulässt,
-
-<!-- -->
 
 5. entgegen § 8 Absatz 2 Nummer 3 eine Einsatzzeit anordnet oder zulässt oder eine Fahrt nicht einstellt,
 
-<!-- -->
-
 6. entgegen § 8 Absatz 2 Nummer 4 anordnet oder zulässt, dass ein Mitglied der Besatzung eingesetzt wird,
-
-<!-- -->
 
 7. entgegen § 8 Absatz 2 Nummer 5 den Wechsel einer Betriebsform anordnet oder zulässt,
 
-<!-- -->
-
 8. entgegen § 8 Absatz 3 die Führung eines Fahrzeugs anordnet oder zulässt,
-
-<!-- -->
 
 9. entgegen § 8 Absatz 4 Nummer 1 nicht dafür sorgt, dass eine Risikominderungsmaßnahme oder Beschränkung eingehalten wird,
 
-<!-- -->
-
 10. entgegen § 8 Absatz 4 Nummer 2 oder 10 nicht dafür sorgt, dass eine Eintragung vorgenommen wird,
-
-<!-- -->
 
 11. entgegen § 8 Absatz 4 Nummer 3 nicht dafür sorgt, dass das Befähigungszeugnis vorgelegt wird,
 
-<!-- -->
-
-12. entgegen § 8 Absatz 4 Nummer 4 oder 5 nicht dafür sorgt, dass die dort genannte Befähigung nachgewiesen werden kann,
-
-<!-- -->
+12. (weggefallen)
 
 13. entgegen § 8 Absatz 4 Nummer 6 nicht dafür sorgt, dass ein Bordbuch geführt wird,
 
-<!-- -->
-
 14. entgegen § 8 Absatz 4 Nummer 7 nicht dafür sorgt, dass ein Bordbuch oder eine Aufzeichnung nicht oder nicht mindestens sechs Monate aufbewahrt wird,
-
-<!-- -->
 
 15. entgegen § 8 Absatz 4 Nummer 8 nicht dafür sorgt, dass eine dort genannte Bescheinigung an Bord mitgeführt oder vorgewiesen wird,
 
-<!-- -->
-
 16. entgegen § 8 Absatz 4 Nummer 9 nicht dafür sorgt, dass dem Bordbuch eine Unterlage beiliegt,
 
-<!-- -->
-
 17. entgegen § 8 Absatz 5 ein Fahrzeug führt oder
-
-<!-- -->
 
 18. entgegen § 8 Absatz 6 seine Befähigung nicht nachweisen kann.
 
 # § 10 – Übergangsbestimmungen für Tauglichkeitsuntersuchungen
 
-Tauglichkeitsuntersuchungen können abweichend von § 5 Absatz 1 bis zum 17. Januar 2024 auch durchgeführt werden von
+Tauglichkeitsuntersuchungen können abweichend von § 5 Absatz 1 bis zum Ablauf des 17. Januar 2024 auch durchgeführt werden von
 
 1. einem Arzt oder einer Ärztin des betriebsärztlichen Dienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder
 
@@ -318,6 +234,10 @@ Befähigungszeugnisse im Sinne des § 6 Absatz 2 Satz 1 stehen bis zum 1. Mai 20
 3. als Steuermann bei 1 080 Tagen Fahrzeit, davon mindestens 720 Tage in der Binnenschifffahrt, wenn zusätzlich ein Sprechfunkzeugnis nachgewiesen werden kann.
 
 (2) Die Mindestdauer der Fahrzeiten nach Absatz 1 kann um höchstens 360 Tage Fahrzeit verkürzt werden, wenn die antragstellende Person Inhaber oder Inhaberin eines vom Bundesministerium für Digitales und Verkehr anerkannten Zeugnisses über eine Fachausbildung auf dem Gebiet der Binnenschifffahrt ist, die eine praktische Ausbildung im Führen von Schiffen umfasst. Die Verkürzung der Mindestdauer darf die Dauer der Fachausbildung nicht überschreiten.
+
+# § 12a – Umschreibung von Behördenpatenten
+
+Ein Wasserstraßen- und Schifffahrtsamt hat bis zum Ablauf des 17. Januar 2032 ein Befähigungszeugnis als Matrose oder Matrosin auszustellen, wenn die antragstellende Person ein Behördenpatent, das vor dem 18. Januar 2022 ausgestellt worden ist, vorlegt und ihre Identität nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die antragstellende Person das 60. Lebensjahr vollendet hat.
 
 # § 13 – Nichtanwendung von Vorschriften
 
