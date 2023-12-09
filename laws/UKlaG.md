@@ -175,6 +175,8 @@ Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2b ist unzulässig, wenn 
 
 In diesen Fällen kann der Anspruchsgegner Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen verlangen. Weitergehende Ersatzansprüche bleiben unberührt.
 
+(+++ Gem. Art. 10 Nr. 5 G v. 8.10.2023 I Nr. 272 wurde abweichend von der Änderungsanweisung die Angabe "2a" durch die Angabe "2b" ersetzt +++)
+
 # § 3 – Anspruchsberechtigte Stellen
 
 (1) Die in den §§ 1 bis 2a bezeichneten Ansprüche auf Unterlassung, auf Widerruf und auf Beseitigung stehen zu:
