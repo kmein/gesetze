@@ -8875,9 +8875,9 @@ Bei Renten, die nach den Vorschriften des Beitrittsgebiets berechnet worden sind
 
 Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die Aufwendungen für Leistungen nach dem Fremdrentenrecht.
 
-# § 291c – (weggefallen)
+# § 291c – Anschubfinanzierung
 
-\-
+Der Bund überträgt an die allgemeine Rentenversicherung im Kalenderjahr 2023 Mittel in Höhe von 4,1 Millionen Euro zur pauschalen Erstattung der Kosten für die Entwicklung eines digitalen Verfahrens zur Erhebung und zum Nachweis der Anzahl der berücksichtigungsfähigen Kinder im Beitragsrecht der sozialen Pflegeversicherung gemäß § 55 Absatz 3c Satz 1 des Elften Buches.
 
 # § 292 – Verordnungsermächtigung
 

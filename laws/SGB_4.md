@@ -223,7 +223,7 @@ Nach der Übertragung sind die mit dem Wertguthaben verbundenen Arbeitgeberpflic
 
 (3) Die Absätze 1, 1a und 2 gelten entsprechend, soweit anstelle einer Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt nicht für das Recht der Arbeitsförderung.
 
-(+++ Hinweis: Zur Höhe der Geringfügigkeitsgrenze nach § 8 Abs. 1a ab dem 1.10.2022 vgl. Bek. v. 19.8.2022 BAnz AT 05.09.2022 B1 +++)
+(+++ Hinweis: Zur Höhe der Geringfügigkeitsgrenze nach § 8 Abs. 1a ab dem 1.10.2022 vgl. Bek. v. 19.8.2022 BAnz AT 05.09.2022 B1, ab dem 1.1.2024 u. ab dem 1.1.2025 vgl. Bek. v. 30.11.2023 BAnz AT 07.12.2023 B1 +++)
 
 # § 8a – Geringfügige Beschäftigung in Privathaushalten
 
