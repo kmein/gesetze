@@ -110,4 +110,4 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-(2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit Ablauf des 31. Dezember 2023 außer Kraft. Im Übrigen tritt das Gesetz mit Ablauf des 30. September 2028 außer Kraft.
+(2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit Ablauf des 31. Dezember 2024 außer Kraft. Im Übrigen tritt das Gesetz mit Ablauf des 30. September 2028 außer Kraft.
