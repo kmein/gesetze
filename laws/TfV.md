@@ -2377,9 +2377,10 @@ Abweichend von Satz 1 erhöht der nach § 16 anerkannte Arzt die Häufigkeit der
 
 Der Arbeitgeber muss den nach § 16 anerkannten Arzt auffordern, die körperliche Eignung des Triebfahrzeugführers zu überprüfen, wenn er den Triebfahrzeugführer aus Sicherheitsgründen vom Dienst entbinden musste.
 
-2. Häufigkeit der Überprüfungen  
   
 
+2. Häufigkeit der Überprüfungen  
+  
 Bei regelmäßigen Überprüfungen ist folgende Mindesthäufigkeit einzuhalten:
 
 a) Sprachkenntnisse: alle drei Jahre oder nach jeder Abwesenheit von mehr als einem Jahr;

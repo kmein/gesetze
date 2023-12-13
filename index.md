@@ -5557,6 +5557,7 @@
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 - [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)
 - [TeleFinV 2023](laws/TeleFinV_2023.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2023
+- [TeleFinV 2024](laws/TeleFinV_2024.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2024
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [TelekomAZV](laws/TelekomAZV.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Telekom AG
@@ -5674,6 +5675,7 @@
 - [TreuhUmbenV](laws/TreuhUmbenV.md) Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt
 - [TreuhUntÜV](laws/TreuhUntÜV.md) Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt
 - [TrGebV](laws/TrGebV.md) Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister
+- [TrinkwEGV](laws/TrinkwEGV.md) Verordnung über Einzugsgebiete von Entnahmestellen für die Trinkwassergewinnung*
 - [TrinkwV](laws/TrinkwV.md) Verordnung über die Qualität von Wasser für den menschlichen Gebrauch
 - [TrVerjG](laws/TrVerjG.md) Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
 - [TrZollG](laws/TrZollG.md) Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere
@@ -6246,7 +6248,9 @@
 - [WPflG](laws/WPflG.md) Wehrpflichtgesetz
 - [WpHG](laws/WpHG.md) Gesetz über den Wertpapierhandel
 - [WpHGMaAnzV](laws/WpHGMaAnzV.md) Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes
+- [WpI-AnzV](laws/WpI-AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz 1
 - [WpIG](laws/WpIG.md) Gesetz zur Beaufsichtigung von Wertpapierinstituten
+- [WpIPrüfbV](laws/WpIPrüfbV.md) Verordnung über die Prüfung der Jahresabschlüsse der Wertpapierinstitute sowie über die zu erstellenden Berichte 1
 - [WPO](laws/WPO.md) Gesetz über eine Berufsordnung der Wirtschaftsprüfer
 - [WPostVSaZProt 3](laws/WPostVSaZProt_3.md) Drittes Zusatzprotokoll zur Satzung des Weltpostvereins
 - [WPostVSaZProt 6](laws/WPostVSaZProt_6.md) Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins
