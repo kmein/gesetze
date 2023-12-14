@@ -513,7 +513,7 @@ Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialge
 
 # Anlage – (zu § 38)
 
-(Fundstelle: BGBl I 2021, 1253)
+(Fundstelle: BGBl I 2023, Nr. 353)
 
 1. Afghanistan (Islamische Republik Afghanistan),
 
@@ -531,11 +531,11 @@ Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialge
 
 8. Burundi (Republik),
 
-9. Côte d'Ivoire (Republik),
+9. Dschibuti (Republik),
 
-10. Dschibuti (Republik),
+10. Elfenbeinküste (Republik Côte d'Ivoire),
 
-11. Eritrea (Staat),
+11. Eritrea,
 
 12. Gabun (Gabunische Republik),
 
@@ -555,56 +555,72 @@ Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialge
 
 20. Kiribati (Republik),
 
-21. Kongo (Demokratische Republik),
+21. Komoren (Union der Komoren),
 
-22. Kongo (Republik),
+22. Kongo (Demokratische Republik),
 
-23. Lesotho (Königreich Lesotho),
+23. Kongo (Republik),
 
-24. Liberia (Republik),
+24. Laos (Demokratische Volksrepublik Laos),
 
-25. Madagaskar (Republik),
+25. Lesotho (Königreich Lesotho),
 
-26. Malawi (Republik),
+26. Liberia (Republik),
 
-27. Mali (Republik),
+27. Madagaskar (Republik),
 
-28. Mauretanien (Islamische Republik Mauretanien),
+28. Malawi (Republik),
 
-29. Mikronesien (Föderierte Staaten von Mikronesien),
+29. Mali (Republik),
 
-30. Mosambik (Republik),
+30. Mauretanien (Islamische Republik Mauretanien),
 
-31. Nepal,
+31. Mikronesien (Föderierte Staaten von Mikronesien),
 
-32. Niger (Republik),
+32. Mosambik (Republik),
 
-33. Nigeria (Bundesrepublik),
+33. Nepal,
 
-34. Pakistan (Islamische Republik Pakistan),
+34. Niger (Republik),
 
-35. Papua-Neuguinea (Unabhängiger Staat Papua-Neuguinea),
+35. Nigeria (Bundesrepublik),
 
-36. Salomonen,
+36. Pakistan (Islamische Republik Pakistan),
 
-37. Senegal (Republik),
+37. Papua-Neuguinea (Unabhängiger Staat Papua-Neuguinea),
 
-38. Sierra Leone (Republik),
+38. Ruanda (Republik),
 
-39. Somalia (Bundesrepublik),
+39. Salomonen,
 
-40. Sudan (Republik),
+40. Sambia (Republik),
 
-41. Südsudan (Republik),
+41. Samoa (Unabhängiger Staat Samoa),
 
-42. Tansania (Vereinigte Republik Tansania),
+42. Senegal (Republik),
 
-43. Togo (Republik),
+43. Sierra Leone (Republik),
 
-44. Tschad (Republik),
+44. Simbabwe (Republik),
 
-45. Uganda (Republik),
+45. Somalia (Bundesrepublik),
 
-46. Vanuatu (Republik),
+46. Sudan (Republik),
 
-47. Zentralafrikanische Republik.
+47. Südsudan (Republik),
+
+48. Tansania (Vereinigte Republik Tansania),
+
+49. Timor-Leste (Demokratische Republik Timor-Leste),
+
+50. Togo (Republik),
+
+51. Tschad (Republik),
+
+52. Tuvalu,
+
+53. Uganda (Republik),
+
+54. Vanuatu (Republik),
+
+55. Zentralafrikanische Republik.

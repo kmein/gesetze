@@ -1,10 +1,6 @@
 % Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**  (Tierhaltungskennzeichnungsgesetz - TierHaltKennzG)
 % Ausfertigungsdatum: 17.08.2023
  
-# Eingangsformel
-
-Der Bundestag hat das folgende Gesetz beschlossen:
-
 # Inhaltsübersicht
 
  
