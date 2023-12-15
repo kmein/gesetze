@@ -155,7 +155,7 @@ Die Einschränkungen nach Satz 1 gelten nicht für Wertpapiere, die den Aktionä
 
 # § 8 – Prospektverantwortliche
 
-Die Verantwortung für den Inhalt des Prospekts haben zumindest der Anbieter, der Emittent, der Zulassungsantragsteller oder der Garantiegeber ausdrücklich zu übernehmen. Bei einem Prospekt für das öffentliche Angebot von Wertpapieren nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 hat in jedem Fall der Anbieter die Verantwortung für den Inhalt des Prospekts zu übernehmen. Sollen auf Grund des Prospekts Wertpapiere zum Handel an einem geregelten Markt zugelassen werden, hat neben dem Emittenten stets auch das Kreditinstitut, das Finanzdienstleistungsinstitut, das Wertpapierinstitut oder das nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen, mit dem der Emittent zusammen die Zulassung der Wertpapiere beantragt, die Verantwortung für den Prospekt zu übernehmen. Wenn eine Garantie für die Wertpapiere gestellt wird, hat auch der Garantiegeber die Verantwortung für den Inhalt des Prospekts zu übernehmen.
+Die Verantwortung für den Inhalt des Prospekts haben zumindest der Anbieter, der Emittent, der Zulassungsantragsteller oder der Garantiegeber ausdrücklich zu übernehmen. Bei einem Prospekt für das öffentliche Angebot von Wertpapieren nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 hat in jedem Fall der Anbieter die Verantwortung für den Inhalt des Prospekts zu übernehmen. Sollen auf Grund des Prospekts Wertpapiere zum Handel an einem geregelten Markt zugelassen werden, so hat neben dem Emittenten auch das Kreditinstitut, das Finanzdienstleistungsinstitut, das Wertpapierinstitut oder das nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen, sofern dieses mit dem Emittenten zusammen die Zulassung der Wertpapiere beantragt, die Verantwortung für den Prospekt zu übernehmen. Wenn eine Garantie für die Wertpapiere gestellt wird, hat auch der Garantiegeber die Verantwortung für den Inhalt des Prospekts zu übernehmen.
 
 # § 9 – Haftung bei fehlerhaftem Börsenzulassungsprospekt
 
@@ -259,7 +259,7 @@ Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 31 Absatz 1 Sat
 
 2. der Verordnung (EU) 2017/1129
 
-erforderlich ist.
+erforderlich ist. Diese sind auf ihr Verlangen elektronisch zu übermitteln. Verfügt der Verpflichtete über einen Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt, so kann sie die Übermittlung auf diesem Wege verlangen. Die Bundesanstalt kann zudem die Übermittlung in einem von ihr bestimmten Format verlangen.
 
 (3) Die Bundesanstalt kann auf ihrer Internetseite öffentlich bekannt machen, dass ein Emittent, Anbieter oder Zulassungsantragsteller seinen Verpflichtungen nach diesem Gesetz oder der Verordnung (EU) 2017/1129 nicht oder nur unvollständig nachkommt oder diesbezüglich ein hinreichend begründeter Verdacht besteht. Dies gilt insbesondere, wenn
 
@@ -345,7 +345,7 @@ so kann die Bundesanstalt die Werbung untersagen oder für jeweils höchstens ze
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei den in Satz 3 Nummer 1 und 2 genannten Stellen beschäftigten Personen sowie von diesen Stellen beauftragten Personen gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 3 Nummer 1 oder 2 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
 

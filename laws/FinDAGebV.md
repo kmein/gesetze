@@ -81,7 +81,9 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt Geb�
 
 36. Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1),
 
-37. Wertpapierinstitutsgesetz.
+37. Wertpapierinstitutsgesetz,
+
+38. Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
 
 Nr. 15 Kursivdruck: Dies entspricht der amtlichen Kurzbezeichnung bis 29.4.2011. Anschließend verkündete amtliche Kurzbezeichnungen lauten "ZAG-Instituts-Eigenkapitalverordnung" (seit 30.4.2011 I 288) und "ZAG-Instituts-Eigenmittelverordnung" (seit 14.12.2018 I 2330)
 
@@ -540,4 +542,4 @@ Anordnung nach § 40 Absatz 3 WpIG</td><td style="text-align: center;">nach Zeit
 (§ 79 Absatz 1 Satz 2 Nummer 4 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="even"><td style="text-align: left;">29.6.5</td><td>Schließung des Wertpapierinstituts für den Verkehr mit der Kundschaft<br />
 (§ 79 Absatz 1 Satz 2 Nummer 5 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="odd"><td style="text-align: left;">29.6.6</td><td>Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinstitut bestimmt sind<br />
 (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="even"><td style="text-align: left;">29.6.7</td><td>Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen<br />
-(§ 79 Absatz 2 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="odd"><td style="text-align: left;">29.7</td><td>Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG</td><td style="text-align: center;">nach Zeitaufwand</td></tr></tbody></table>
+(§ 79 Absatz 2 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="odd"><td style="text-align: left;">29.7</td><td>Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="even"><td style="text-align: left;">30</td><td>Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858</td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;">30.1</td><td>Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der Verordnung (EU) 2022/858</td><td style="text-align: center;">Nach Zeitaufwand</td></tr></tbody></table>

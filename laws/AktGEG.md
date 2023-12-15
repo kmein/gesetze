@@ -5,7 +5,7 @@
 
 |     |           |                                                                                 |           |
 |:----|:----------|:--------------------------------------------------------------------------------|:----------|
-| 1\. | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26m  |
+| 1\. | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26p  |
 | 2\. | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28a |
 | 3\. | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44  |
 | 4\. | Abschnitt | Schlußvorschriften                                                              | §§ 45-46  |
@@ -52,19 +52,11 @@ Für Aktiengesellschaften, die vor dem 1. Januar 1999 in das Handelsregister ein
 
 # § 5 – Mehrstimmrechte. Höchststimmrechte
 
-(1) Mehrstimmrechte erlöschen am 1. Juni 2003, wenn nicht zuvor die Hauptversammlung mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, ihre Fortgeltung beschlossen hat. Inhaber von Mehrstimmrechtsaktien sind bei diesem Beschluß von der Ausübung des Stimmrechts insgesamt ausgeschlossen.
+(1) Sind Mehrstimmrechte nach § 5 Absatz 1 in der bis einschließlich 14. Dezember 2023 geltenden Fassung erloschen oder nach § 5 Absatz 2 in der bis einschließlich 14. Dezember 2023 geltenden Fassung beseitigt worden, so gilt § 5 Absatz 3 bis 6 in der bis einschließlich 14. Dezember 2023 geltenden Fassung.
 
-(2) Unabhängig von Absatz 1 kann die Hauptversammlung die Beseitigung der Mehrstimmrechte beschließen. Der Beschluß nach Satz 1 bedarf einer Mehrheit, die mindestens die Hälfte des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, aber nicht der Mehrheit der abgegebenen Stimmen. Eines Sonderbeschlusses der Aktionäre mit Mehrstimmrechten bedarf es nicht. Abweichend von § 122 Abs. 2 des Aktiengesetzes kann jeder Aktionär verlangen, daß die Beseitigung der Mehrstimmrechte auf die Tagesordnung der Hauptversammlung gesetzt wird.
+(2) Für Mehrstimmrechtsaktien, deren Fortgeltung nach § 5 Absatz 1 Satz 1 in der bis einschließlich 14. Dezember 2023 geltenden Fassung beschlossen wurde, gelten die Regelungen des § 135a Absatz 1 Satz 2 und Absatz 2 des Aktiengesetzes erst ab dem Zeitpunkt, in dem nach dem 15. Dezember 2023 die Gesellschaft börsennotiert im Sinne des § 3 Absatz 2 des Aktiengesetzes wird oder die Aktien der Gesellschaft in den Handel im Freiverkehr nach § 48 des Börsengesetzes einbezogen werden; die in § 135a Absatz 1 Satz 1 des Aktiengesetzes vorgesehene Beschränkung auf Namensaktien gilt nicht.
 
-(3) Die Gesellschaft hat einem Inhaber von Mehrstimmrechtsaktien im Falle des Erlöschens nach Absatz 1 und der Beseitigung nach Absatz 2 einen Ausgleich zu gewähren, der den besonderen Wert der Mehrstimmrechte angemessen berücksichtigt. Im Falle des Absatzes 1 kann der Anspruch auf den Ausgleich nur bis zum Ablauf von zwei Monaten seit dem Erlöschen der Mehrstimmrechte gerichtlich geltend gemacht werden. Im Falle des Absatzes 2 hat die Hauptversammlung den Ausgleich mitzubeschließen; Absatz 2 Satz 2 und 3 ist anzuwenden.
-
-(4) Die Anfechtung des Beschlusses nach Absatz 2 kann nicht auf § 243 Abs. 2 des Aktiengesetzes oder darauf gestützt werden, daß die Beseitigung der Mehrstimmrechte oder der festgesetzte Ausgleich unangemessen sind. Statt dessen kann jeder in der Hauptversammlung erschienene Aktionär, der gegen den Beschluß Widerspruch zur Niederschrift erklärt hat, einen Antrag auf gerichtliche Bestimmung des angemessenen Ausgleichs stellen. Der Antrag kann nur binnen zwei Monaten seit dem Tage gestellt werden, an dem die Satzungsänderung im Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist.
-
-(5) Für das Verfahren in den Fällen des Absatzes 3 Satz 2 und des Absatzes 4 Satz 2 gilt das Spruchverfahrensgesetz sinngemäß.
-
-(6) Der durch Beschluß der Hauptversammlung festgesetzte Ausgleich wird erst zur Leistung fällig, wenn ein Antrag auf gerichtliche Bestimmung nicht oder nicht fristgemäß gestellt oder das Verfahren durch rechtskräftige Entscheidung oder Antragsrücknahme abgeschlossen ist. Der Ausgleich ist seit dem Tage, an dem die Satzungsänderung im Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist, mit fünf vom Hundert für das Jahr zu verzinsen.
-
-(7) Für Höchststimmrechte bei börsennotierten Gesellschaften, die vor dem 1. Mai 1998 von der Satzung bestimmt sind, gelten die Sätze 2 bis 5 des § 134 Abs. 1 des Aktiengesetzes in der vor dem 1. Mai 1998 geltenden Fassung bis zum 1. Juni 2000 fort.
+(3) Für Höchststimmrechte bei börsennotierten Gesellschaften, die vor dem 1. Mai 1998 von der Satzung bestimmt sind, gelten die Sätze 2 bis 5 des § 134 Abs. 1 des Aktiengesetzes in der vor dem 1. Mai 1998 geltenden Fassung bis zum 1. Juni 2000 fort.
 
 # § 6 – Wechselseitig beteiligte Unternehmen
 
@@ -291,6 +283,10 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 # § 26o – Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
 
 § 170 Absatz 1 Satz 3, § 171 Absatz 1 Satz 4 und § 283 Nummer 11a des Aktiengesetzes in der jeweils ab dem 22. Juni 2023 geltenden Fassung sind erstmals auf Ertragsteuerinformationsberichte und Erklärungen nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem 21. Juni 2024 beginnendes Geschäftsjahr anzuwenden.
+
+# § 26p – Übergangsvorschrift zum Zukunftsfinanzierungsgesetz
+
+§ 255 des Aktiengesetzes in der ab dem 15. Dezember 2023 geltenden Fassung sowie die §§ 255a und 255b des Aktiengesetzes sind erstmals auf Hauptversammlungen anzuwenden, die ab dem 15. Dezember 2023 einberufen werden.
 
 # § 27 – Entscheidung über die Zusammensetzung des Aufsichtsrats
 

@@ -263,7 +263,7 @@ Die Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 59
 
 (1) Mitteilungen nach § 8 sind schriftlich mittels Telefax zu übersenden. Auf Verlangen der Bundesanstalt ist die eigenhändig unterschriebene Mitteilung auf dem Postweg nachzureichen. Gleiches können auch die Geschäftsführungen der Handelsplätze im Sinne des § 26 Absatz 1 des Wertpapierhandelsgesetzes verlangen, sofern sie nach diesen Vorschriften eine Mitteilung erhalten.
 
-(2) Die Bundesanstalt kann die Möglichkeit eröffnen, die Mitteilungen nach § 8 im Wege der Datenfernübertragung zu übersenden, sofern dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher Netze dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren angewendet werden.
+(2) Auf Verlangen der Bundesanstalt sind Mitteilungen nach § 8 elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt einzureichen. Gleiches gilt für die Übersendung von Mitteilungen nach § 7.
 
 # § 10 – Art der Veröffentlichung
 

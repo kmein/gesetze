@@ -599,7 +599,7 @@ Sie kann insbesondere folgende Angaben verlangen:
 
 4. über alle Vermögenswerte oder Verbindlichkeiten am Basismarkt.
 
-Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt. Im Hinblick auf die Verbote und Gebote der Verordnung (EU) 2016/1011 gelten die Sätze 1 und 3 bezüglich der Erteilung von Auskünften, der Vorladung und der Vernehmung jedoch nur gegenüber solchen Personen, die an der Bereitstellung eines Referenzwertes im Sinne der Verordnung (EU) 2016/1011 beteiligt sind oder die dazu beitragen.
+Auf Verlangen der Bundesanstalt sind die Informationen nach den Sätzen 1 und 2 elektronisch zu übermitteln. Für den Fall, dass ein Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt bereits besteht oder verpflichtend einzurichten ist, sind die Informationen nach Satz 1 auf Verlangen der Bundesanstalt auf diesem Weg zu übermitteln. Die Bundesanstalt kann zudem die Übermittlung in einem von ihr bestimmten Format verlangen. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt. Im Hinblick auf die Verbote und Gebote der Verordnung (EU) 2016/1011 gelten die Sätze 1 und 3 bezüglich der Erteilung von Auskünften, der Vorladung und der Vernehmung jedoch nur gegenüber solchen Personen, die an der Bereitstellung eines Referenzwertes im Sinne der Verordnung (EU) 2016/1011 beteiligt sind oder die dazu beitragen.
 
 (4) Von einem Wertpapierdienstleistungsunternehmen, das algorithmischen Handel im Sinne des § 80 Absatz 2 Satz 1 betreibt, kann die Bundesanstalt insbesondere jederzeit Informationen über seinen algorithmischen Handel und die für diesen Handel eingesetzten Systeme anfordern, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots dieses Gesetzes erforderlich ist. Die Bundesanstalt kann insbesondere eine Beschreibung der algorithmischen Handelsstrategien, von Einzelheiten der Handelsparameter oder Handelsobergrenzen, denen das System unterliegt, von den wichtigsten Verfahren zur Überprüfung der Risiken und Einhaltung der Vorgaben des § 80 sowie von Einzelheiten über seine Systemprüfung verlangen.
 
@@ -873,7 +873,7 @@ Die Bundesanstalt übermittelt der Europäischen Kommission auf Verlangen diejen
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei den in Satz 3 Nummer 1 bis 4 genannten Stellen beschäftigten Personen sowie von diesen Stellen beauftragten Personen gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 3 Nummer 1 bis 4 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
 
@@ -911,6 +911,18 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (2) Wird vor Eröffnung des Insolvenzverfahrens ein vorläufiger Insolvenzverwalter bestellt, hat dieser den Schuldner bei der Erfüllung seiner Pflichten zu unterstützen, insbesondere indem er der Verwendung der Mittel durch den Verpflichteten zustimmt oder, wenn dem Verpflichteten ein allgemeines Verfügungsverbot auferlegt wurde, indem er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung stellt.
 
+# § 24a – Verordnungsermächtigung
+
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung festzulegen, welche Meldungen, Mitteilungen, Anzeigen, Berichte, Anträge und sonstige Informationen mit den hierzu notwendigen Unterlagen, die der Bundesanstalt vorzulegen sind,
+
+1. nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, sowie
+
+2. nach den in § 1 Absatz 1 Nummer 8 genannten Verordnungen der europäischen Union und den europäischen Rechtsakten, die zur Durchführung dieser Verordnungen erlassen worden sind,
+
+elektronisch übermittelt werden müssen. Die Rechtsverordnung kann nähere Bestimmungen treffen über Art, Umfang, Zeitpunkt, Form und Datenformat der Einreichungen nach Satz 1 und sie kann festlegen, welches elektronische Kommunikationsverfahren für die jeweilige Vorlagepflicht bei der Bundesanstalt zu nutzen ist und welche Bestimmungen für dessen Nutzung gelten, sowie dass eine Verpflichtung zur Einrichtung eines Zugangs zu einem Melde- und Veröffentlichungssystem der Bundesanstalt besteht.
+
+(2) Das Bundesministerium der Finanzen kann die Ermächtigung nach Absatz 1 durch Rechtsverordnung auf die Bundesanstalt übertragen. Rechtsverordnungen nach Absatz 1 bedürfen nicht der Zustimmung des Bundesrates.
+
 # § 25 – Anwendung der Verordnung (EU) Nr. 596/2014 auf Waren und ausländische Zahlungsmittel
 
 Artikel 15 in Verbindung mit Artikel 12 Absatz 1 bis 4 der Verordnung (EU) Nr. 596/2014 gilt entsprechend für
@@ -923,7 +935,7 @@ die an einer inländischen Börse oder einem vergleichbaren Markt in einem ander
 
 # § 26 – Übermittlung von Insiderinformationen und von Eigengeschäften; Verordnungsermächtigung
 
-(1) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der gemäß Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014 verpflichtet ist, Insiderinformationen zu veröffentlichen, hat diese vor ihrer Veröffentlichung der Bundesanstalt und den Geschäftsführungen der Handelsplätze, an denen seine Finanzinstrumente zum Handel zugelassen oder in den Handel einbezogen sind, mitzuteilen sowie unverzüglich nach ihrer Veröffentlichung der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
+(1) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der gemäß Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014 verpflichtet ist, Insiderinformationen zu veröffentlichen, hat diese vor ihrer Veröffentlichung den Geschäftsführungen der Handelsplätze, an denen seine Finanzinstrumente zum Handel zugelassen oder in den Handel einbezogen sind, mitzuteilen sowie unverzüglich nach ihrer Veröffentlichung der Bundesanstalt sowie der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (2) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 596/2014 verpflichtet ist, Informationen zu Eigengeschäften von Führungskräften zu veröffentlichen, hat diese Informationen unverzüglich, jedoch nicht vor ihrer Veröffentlichung, der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln sowie die Veröffentlichung der Bundesanstalt mitzuteilen.
 
@@ -1023,27 +1035,49 @@ eingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monate
 
 # § 32c – Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503
 
-(1) Der für das Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 verantwortliche Projektträger im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EU) 2020/1503 und die für dieses Anlagebasisinformationsblatt verantwortlichen Mitglieder seiner Leitungsorgane sind dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zum Ersatz des Schadens verpflichtet, der daraus entsteht, dass in einem Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union vorsätzlich oder fahrlässig
+(1) Der für das Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 verantwortliche Projektträger im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EU) 2020/1503 ist dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zur Rückabwicklung des Kredits im Sinne des Artikels 2 Absatz 1 Buchstabe b der Verordnung (EU) 2020/1503 und zur Erstattung der mit der Kreditgewährung verbundenen üblichen Kosten oder zur Übernahme der Wertpapiere oder der für Schwarmfinanzierungszwecke verwendeten Instrumente gegen die Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und zur Erstattung der mit dem Erwerb verbundenen üblichen Kosten verpflichtet, wenn in dem Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union aufgrund von Vorsatz oder Fahrlässigkeit
 
-1. irreführende oder unrichtige Informationen angegeben sind oder
+1. irreführende oder unrichtige Informationen angegeben sind,
 
-2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie in einem Schwarmfinanzierungsprojekt anlegen wollen, zu unterstützen.
+2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie in einem Schwarmfinanzierungsprojekt anlegen, zu unterstützen oder
 
-(2) Absatz 1 findet Anwendung auch auf die für das Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 verantwortlichen Mitglieder der Verwaltungs- oder Aufsichtsorgane eines Projektträgers, wenn diese vorsätzlich oder grob fahrlässig gehandelt haben.
+3. eine nach Artikel 23 Absatz 6 Buchstabe c der Verordnung (EU) 2020/1503 abzugebende Risikowarnung nicht enthalten ist.
 
-# § 32d – Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503
+(2) Die Verpflichtung nach Absatz 1 besteht auch dann, wenn der Projektträger aufgrund von Vorsatz oder Fahrlässigkeit
 
-(1) Der für das Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortliche Schwarmfinanzierungsdienstleister und die für dieses Anlagebasisinformationsblatt verantwortlichen Mitglieder seiner Leitungsorgane sind dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zum Ersatz des Schadens verpflichtet, der daraus entsteht, dass in einem Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 oder etwaiger Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union vorsätzlich oder fahrlässig
+1. das Anlagebasisinformationsblatt entgegen Artikel 23 Absatz 2 der Verordnung (EU) 2020/1503 nicht erstellt hat oder
 
-1. irreführende oder unrichtige Informationen angegeben sind oder
+2. dem Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 entgegen Artikel 23 Absatz 8 Satz 1 der Verordnung (EU) 2020/1503 eine Änderung der im Anlagebasisinformationsblatt enthaltenen Informationen nicht unverzüglich mitgeteilt hat.
 
-2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie ihre Anlage durch die individuelle Verwaltung des Kreditportfolios vornehmen, zu unterstützen.
+(3) Die Verpflichtung nach Absatz 1 besteht für den Schwarmfinanzierungsdienstleister, wenn dieser aufgrund von Vorsatz oder Fahrlässigkeit
 
-(2) Absatz 1 findet Anwendung auch auf die für das Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortlichen Mitglieder der Verwaltungs- oder Aufsichtsorgane eines Schwarmfinanzierungsdienstleisters, wenn diese vorsätzlich oder grob fahrlässig gehandelt haben.
+1. dem Anleger das Anlagebasisinformationsblatt entgegen Artikel 23 Absatz 2 der Verordnung (EU) 2020/1503 nicht zur Verfügung gestellt hat oder
+
+2. den Anleger entgegen Artikel 23 Absatz 8 Satz 2 der Verordnung (EU) 2020/1503 über eine wesentliche Änderung der im Anlagebasisinformationsblatt enthaltenen Informationen nicht unverzüglich informiert hat.
+
+(4) Ist der Anleger nicht mehr Inhaber der Wertpapiere oder der verwendeten Instrumente, so kann er den Ausgleich eines etwaigen Vermögensnachteils sowie die Zahlung der mit dem ursprünglichen Erwerb und der Veräußerung verbundenen Kosten verlangen, wenn der Veräußerungspreis den ersten Erwerbspreis nicht überschreitet.
+
+# § 32d – Haftung für Angaben im Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503
+
+(1) Der für das Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortliche Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 ist dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zur Rückzahlung des für die individuelle Verwaltung des Kreditportfolios zugewiesenen Betrages sowie der mit der individuellen Verwaltung des Kreditportfolios verbundenen Gebühren und sonstigen Kosten abzüglich bereits ausgezahlter Beträge verpflichtet, wenn in dem Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503 oder dessen etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union aufgrund von Vorsatz oder Fahrlässigkeit
+
+1. irreführende oder unrichtige Informationen angegeben sind,
+
+2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie ihre Anlage durch die individuelle Verwaltung des Kreditportfolios vornehmen, zu unterstützen oder
+
+3. die nach Artikel 24 Absatz 1 Buchstabe c der Verordnung (EU) 2020/1503 abzugebende Erklärung nicht enthalten ist.
+
+(2) Die Verpflichtung nach Absatz 1 besteht auch dann, wenn der Schwarmfinanzierungsdienstleister aufgrund von Vorsatz oder Fahrlässigkeit
+
+1. dem Anleger das Anlagebasisinformationsblatt auf Ebene der Plattform entgegen Artikel 24 Absatz 1 der Verordnung (EU) 2020/1503 nicht zur Verfügung gestellt hat,
+
+2. das Anlagebasisinformationsblatt auf Ebene der Plattform entgegen Artikel 24 Absatz 2 Satz 1 der Verordnung (EU) 2020/1503 nicht auf dem neusten Stand gehalten hat oder
+
+3. den Anleger entgegen Artikel 24 Absatz 2 Satz 2 der Verordnung (EU) 2020/1503 nicht unverzüglich über eine wesentliche Änderung der im Anlagebasisinformationsblatt auf Ebene der Plattform enthaltenen Informationen informiert hat.
 
 # § 32e – Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d
 
-(1) Ein Anspruch nach § 32c oder § 32d besteht nicht, wenn der Anleger vor seiner Entscheidung die Unrichtigkeit oder die Unvollständigkeit der Informationen in dem Anlagebasisinformationsblatt oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union kannte oder die Irreführung durch die Informationen in dem Anlagebasisinformationsblatt oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union erkannt hat.
+(1) Ein Anspruch des Anlegers nach § 32c oder § 32d besteht nicht, wenn der Anleger vor seiner Entscheidung die Unrichtigkeit oder die Unvollständigkeit der Informationen in dem Anlagebasisinformationsblatt nach Artikel 23 oder in dem Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503 oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union kannte.
 
 (2) Eine Vereinbarung, durch die Ansprüche nach § 32c oder § 32d im Voraus ermäßigt, erlassen oder ausgeschlossen werden, ist unwirksam.
 
@@ -1261,7 +1295,7 @@ Die §§ 36 und 37 gelten entsprechend.
 
 # § 41 – Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
 
-(1) Ist es bei einem Inlandsemittenten zu einer Zu- oder Abnahme von Stimmrechten gekommen, so ist er verpflichtet, die Gesamtzahl der Stimmrechte und das Datum der Wirksamkeit der Zu- oder Abnahme in der in § 40 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 3 Nummer 1, vorgesehenen Weise unverzüglich, spätestens innerhalb von zwei Handelstagen zu veröffentlichen. Er hat die Veröffentlichung gleichzeitig der Bundesanstalt entsprechend § 40 Absatz 2, auch in Verbindung mit einer Rechtsverordnung nach Absatz 3 Nummer 2, mitzuteilen. Er übermittelt die Informationen außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung, der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister.
+(1) Ist es bei einem Inlandsemittenten zu einer Zu- oder Abnahme von Stimmrechten gekommen, so ist er verpflichtet, die Gesamtzahl der Stimmrechte unter Angabe der auf diese entfallenden Anzahl von Mehrstimmrechten und das Datum der Wirksamkeit der Zu- oder Abnahme in der in § 40 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 3 Nummer 1, vorgesehenen Weise unverzüglich, spätestens innerhalb von zwei Handelstagen zu veröffentlichen. Er hat die Veröffentlichung gleichzeitig der Bundesanstalt entsprechend § 40 Absatz 2, auch in Verbindung mit einer Rechtsverordnung nach Absatz 3 Nummer 2, mitzuteilen. Er übermittelt die Informationen außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung, der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister.
 
 (2) Bei der Ausgabe von Bezugsaktien ist die Gesamtzahl der Stimmrechte abweichend von Absatz 1 Satz 1 nur im Zusammenhang mit einer ohnehin erforderlichen Veröffentlichung nach Absatz 1, spätestens jedoch am Ende des Kalendermonats, in dem es zu einer Zu- oder Abnahme von Stimmrechten gekommen ist, zu veröffentlichen. Der Veröffentlichung des Datums der Wirksamkeit der Zu- oder Abnahme bedarf es nicht.
 
@@ -1341,7 +1375,7 @@ Die Bundesanstalt kann Richtlinien aufstellen, nach denen sie für den Regelfall
 
 (1) Der Emittent von zugelassenen Aktien, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, muss
 
-1. die Einberufung der Hauptversammlung einschließlich der Tagesordnung, die Gesamtzahl der Aktien und Stimmrechte im Zeitpunkt der Einberufung der Hauptversammlung und die Rechte der Aktionäre bezüglich der Teilnahme an der Hauptversammlung sowie
+1. die Einberufung der Hauptversammlung einschließlich der Tagesordnung, die Gesamtzahl der Aktien und Stimmrechte unter gesonderter Angabe der Mehrstimmrechtsaktien und der auf sie entfallenden Stimmrechte im Zeitpunkt der Einberufung der Hauptversammlung und die Rechte der Aktionäre bezüglich der Teilnahme an der Hauptversammlung sowie
 
 2. Mitteilungen über die Ausschüttung und Auszahlung von Dividenden, die Ankündigung der Ausgabe neuer Aktien und die Vereinbarung oder Ausübung von Umtausch-, Bezugs-, Einziehungs- und Zeichnungsrechten sowie die Beschlussfassung über diese Rechte
 
@@ -2649,7 +2683,7 @@ Schiedsvereinbarungen über künftige Rechtsstreitigkeiten aus Wertpapierdienstl
 
 # § 102 – Erlaubnis; Verordnungsermächtigung
 
-(1) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr. 600/2014 sowie von Beschlüssen der Europäischen Kommission gemäß Artikel 25 Absatz 4 Unterabsatz 3 der Richtlinie 2014/65/EU und Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 bedürfen Märkte für Finanzinstrumente mit Sitz im Ausland, die keine Handelsplätze im Sinne dieses Gesetzes sind, oder ihre Betreiber der schriftlichen Erlaubnis der Bundesanstalt, wenn sie Handelsteilnehmern mit Sitz im Inland über ein elektronisches Handelssystem einen unmittelbaren Marktzugang gewähren und sie diesbezüglich nicht einer Erlaubnispflicht nach dem Kreditwesengesetz unterliegen. Der Erlaubnisantrag muss enthalten:
+(1) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr. 600/2014 sowie von Beschlüssen der Europäischen Kommission gemäß Artikel 25 Absatz 4 Unterabsatz 3 der Richtlinie 2014/65/EU und Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 bedürfen Märkte für Finanzinstrumente mit Sitz im Ausland, die keine Handelsplätze im Sinne dieses Gesetzes sind, oder ihre Betreiber der Erlaubnis der Bundesanstalt, wenn sie Handelsteilnehmern mit Sitz im Inland über ein elektronisches Handelssystem einen unmittelbaren Marktzugang gewähren und sie diesbezüglich nicht einer Erlaubnispflicht nach dem Kreditwesengesetz unterliegen. Der Erlaubnisantrag muss enthalten:
 
 1. Name und Anschrift der Geschäftsleitung des Marktes oder des Betreibers,
 
@@ -2735,7 +2769,7 @@ Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann sie ihre 
 
 (4) Bei der Durchführung der Prüfung kann sich die Bundesanstalt anderer Einrichtungen und Personen bedienen. Die Bundesanstalt darf anderen Einrichtungen und Personen, derer sie sich nach Satz 1 bedient, Informationen übermitteln, auch wenn diese unter gesetzliche Verschwiegenheitspflichten fallen, soweit die Einrichtungen oder Personen die Informationen zur Durchführung der ihnen nach Satz 1 im Rahmen einer Prüfung übertragenen Aufgaben benötigen. Vor Übermittlung der Informationen anonymisiert die Bundesanstalt darin enthaltene personenbezogene Daten, soweit sie für die Durchführung der übertragenen Aufgaben nicht zwingend erforderlich sind. Die Einrichtungen oder Personen haben ihnen übermittelte personenbezogene Daten spätestens nach Abschluss ihrer übertragenen Aufgaben zu löschen.
 
-(5) Soweit dies zur Wahrnehmung der Aufgaben nach § 106 erforderlich ist, können die Bundesanstalt und die Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, von dem geprüften Unternehmen, von den Mitgliedern seiner Organe, von seinen Beschäftigten sowie von seinen Abschlussprüfern Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen. Die Bundesanstalt kann die nach Satz 1 Verpflichteten laden und vernehmen. Die Sätze 1 und 2 gelten auch für die nach den Vorschriften des Handelsgesetzbuchs in den Konzernabschluss einzubeziehenden Tochterunternehmen. Die Befugnisse nach den Sätzen 1 und 2 gelten gegenüber jedermann, wenn die Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen von Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung mit den Sätzen 3 oder 4, oder im Rahmen von Vernehmungen nach Satz 2, auch in Verbindung mit den Sätzen 3 oder 4, erforderlich, haben die ersuchten Unternehmen oder Personen auch personenbezogene Daten gegenüber der Bundesanstalt oder den Personen offenzulegen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient. Die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Für das Recht zur Auskunftsverweigerung oder Aussageverweigerung sowie die Belehrungspflicht gilt § 6 Absatz 15 entsprechend.
+(5) Soweit dies zur Wahrnehmung der Aufgaben nach § 106 erforderlich ist, können die Bundesanstalt und die Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, von dem geprüften Unternehmen, von den Mitgliedern seiner Organe, von seinen Beschäftigten sowie von seinen Abschlussprüfern Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen. Auf Verlangen der Bundesanstalt sind die Informationen nach Satz 1 elektronisch zu übermitteln. Die Bundesanstalt kann die Übermittlung zudem in einem von ihr bestimmten Kommunikationsverfahren und in einem von ihr bestimmten Format verlangen. Die Bundesanstalt kann die nach Satz 1 Verpflichteten laden und vernehmen. Die Sätze 1 bis 4 gelten auch für die nach den Vorschriften des Handelsgesetzbuchs in den Konzernabschluss einzubeziehenden Tochterunternehmen. Die Befugnisse den Sätzen 1 und 4 gelten gegenüber jedermann, wenn die Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen von Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung mit Satz 5 oder Satz 6, oder im Rahmen von Vernehmungen nach Satz 4, auch in Verbindung mit Satz 5 oder Satz 6, erforderlich, haben die ersuchten Unternehmen oder Personen auch personenbezogene Daten gegenüber der Bundesanstalt oder den Personen offenzulegen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient. Die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Für das Recht zur Auskunftsverweigerung oder Aussageverweigerung sowie die Belehrungspflicht gilt § 6 Absatz 15 entsprechend.
 
 (6) Die zur Auskunft und Vorlage von Unterlagen nach Absatz 5 Verpflichteten haben den Bediensteten der Bundesanstalt oder den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, während der üblichen Arbeitszeit das Betreten ihrer Grundstücke und Geschäftsräume zu gestatten. § 6 Absatz 11 Satz 2 gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -4326,3 +4360,7 @@ Die §§ 106, 107, 114 und 120 in der ab dem 19. August 2020 geltenden Fassung s
 (1) Wertpapierdienstleistungsunternehmen haben ihre Kunden (Bestandskunden), die die gemäß Abschnitt 11 zur Verfügung zu stellenden Informationen in schriftlicher Form erhalten haben, spätestens acht Wochen vor dem Versenden der Informationen in elektronischer Form darüber zu informieren, dass sie diese in elektronischer Form gemäß § 64a erhalten werden. Soweit es sich bei den Bestandskunden um Privatkunden handelt, haben Wertpapierdienstleistungsunternehmen diese darüber zu informieren, dass sie die Wahl haben, die Informationen entweder weiterhin in schriftlicher Form oder künftig in elektronischer Form zu erhalten. Wertpapierdienstleistungsunternehmen haben diese Kunden zudem darüber zu informieren, dass ein automatischer Wechsel zur elektronischen Form stattfinden wird, wenn diese innerhalb der Frist von acht Wochen nicht mitteilen, dass sie die Informationen weiterhin in schriftlicher Form erhalten möchten. Bestandskunden, die die gemäß diesem Abschnitt zur Verfügung zu stellenden Informationen bereits in elektronischer Form erhalten, müssen nicht informiert werden.
 
 (2) § 82 Absatz 10 bis 12 findet bis zum 27. Februar 2023 keine Anwendung.
+
+# § 143 – Übergangsvorschrift zum Zukunftsfinanzierungsgesetz
+
+Auf die Haftung für fehlerhafte Anlagebasisinformationsblätter sind die §§ 32c bis 32e in der bis einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden, wenn der Vertrag über die Gewährung des Kredits oder den Erwerb des Wertpapiers oder des für Schwarmfinanzierungszwecke verwendeten Instruments oder über die individuelle Kreditportfolioverwaltung vor dem 15. Dezember 2023 zustande gekommen ist.

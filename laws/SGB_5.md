@@ -10811,7 +10811,10 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
     V v. 26.11.2021 BAnz AT 30.11.2021 V1 (TeleFinV 2022)
      
     vom 1.1.2023 bis 31.12.2023 vgl.
-    V v. 2.12.2022 BAnz AT 09.12.2022 V1 (TeleFinV 2023) +++) 
+    V v. 2.12.2022 BAnz AT 09.12.2022 V1 (TeleFinV 2023)
+     
+    vom 1.1.2024 bis 31.12.2024 vgl.
+    V v. 6.12.2023 I Nr. 347 (TeleFinV 2024) +++) 
 
 # § 317 – Beirat der Gesellschaft für Telematik
 

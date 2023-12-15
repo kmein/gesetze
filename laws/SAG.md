@@ -1151,6 +1151,8 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 
 (1) Die Abwicklungsbehörde kann vorbehaltlich der Regelungen in Absatz 2 verlangen, dass das Institut die Abwicklungsbehörde bei der Erstellung und Aktualisierung des Abwicklungsplans umfassend unterstützt. Insbesondere kann die Abwicklungsbehörde verlangen, dass das Institut ihr alle zur Erstellung und Umsetzung des Abwicklungsplans erforderlichen Informationen und Analysen übermittelt. Die Abwicklungsbehörde kann Instituten Anzeige- und Meldepflichten auferlegen, die für die Erstellung und Aktualisierung des Abwicklungsplans erforderlich sind. § 40 Absatz 4 Satz 3 gilt entsprechend für das Institut. In den Fällen der Sätze 1 und 2 sowie im Rahmen von Anzeige- und Meldepflichten nach Satz 3 beachtet die Abwicklungsbehörde technische Regulierungsstandards, die nach Artikel 11 Absatz 3 der Richtlinie 2014/59/EU erlassen werden.
 
+(1a) Informationen und Analysen nach Absatz 1 Satz 2, Anzeigen und Meldungen auf Grund von dem Institut von der Abwicklungsbehörde auferlegten Pflichten nach Absatz 1 Satz 3 sowie alle sonstigen Unterlagen, die der Abwicklungsbehörde nach den Vorschriften dieses Gesetzes vorzulegen sind, sind von dem Institut in deutscher Sprache vorzulegen. Sie sind auf Verlangen der Abwicklungsbehörde zusätzlich in englischer Sprache vorzulegen. Die Abwicklungsbehörde kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache vorgelegt werden.
+
 (2) Die Aufsichtsbehörde und die Deutsche Bundesbank prüfen in Zusammenarbeit mit der Abwicklungsbehörde, ob einige oder alle der nach Absatz 1 zu übermittelnden Informationen bereits vorliegen. Liegen entsprechende Informationen vor, stellen die Aufsichtsbehörde und die Deutsche Bundesbank diese der Abwicklungsbehörde zur Verfügung.
 
 (3) Die Abwicklungsbehörde kann im Benehmen mit der Aufsichtsbehörde
@@ -1167,6 +1169,12 @@ Die Abwicklungsbehörde kann für verschiedene Arten von Finanzkontrakten jeweil
 
 (+++ § 42: Zur Anwendung vgl. § 46 Abs. 5 Satz 3 u. § 57 Abs. 6 +++)  
 (+++ § 42 Abs. 5: Zur Anwendung vgl. § 43 Abs. 4 u. § 44 Satz 3 +++)
+
+# § 42a – Elektronische Kommunikation; Verordnungsermächtigung
+
+(1) Unternehmen sind verpflichtet, der Abwicklungsbehörde Informationen und Analysen nach § 42 Absatz 1 Satz 2, Anzeigen und Meldungen auf Grund von durch die Abwicklungsbehörde auferlegter Pflichten nach § 42 Absatz 1 Satz 3 sowie sonstige Informationen, Dokumente und Meldungen, die der Abwicklungsbehörde nach den Vorschriften dieses Gesetzes vorzulegen sind, elektronisch über das von der Abwicklungsbehörde bereitgestellte elektronische Kommunikationsverfahren zu übermitteln, es sei denn, die Abwicklungsbehörde bestimmt einen anderen Übermittlungsweg. Unternehmen sind verpflichtet, einen Zugang für die elektronische Übermittlung der in Satz 1 aufgeführten Informationen, Analysen, Meldungen und Dokumente sowie für die Bekanntgabe und Zustellung von Verwaltungsakten in dem bereitgestellten elektronischen Kommunikationsverfahren zu eröffnen und zu nutzen.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zum Zugang zur elektronischen Kommunikation und zur Durchführung und Nutzung der elektronischen Kommunikation zu treffen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 # § 43 – Zentrale Verwahrung und Verwaltung von Finanzkontrakten
 
@@ -3752,7 +3760,7 @@ Die Abwicklungsbehörde ist für die Gruppenabwicklung eines Instituts oder eine
 
 9. der Festlegung von Mindestanforderungen auf Gruppenebene und Einzelinstitutsebene gemäß den §§ 49 bis 50.
 
-(2) Das Abwicklungskollegium kann auch als Diskussionsforum für alle Fragen im Zusammenhang mit der grenzüberschreitenden Gruppenabwicklung genutzt werden.
+(2) Das Abwicklungskollegium kann auch als Diskussionsforum für alle Fragen im Zusammenhang mit der grenzüberschreitenden Gruppenabwicklung genutzt werden. Die Abwicklungsbehörde kann sich mit den anderen Mitgliedern eines Abwicklungskollegiums über die Sprache verständigen, in der die Zusammenarbeit erfolgen soll.
 
 (3) Die Abwicklungsbehörde ist nicht verpflichtet, ein Abwicklungskollegium einzurichten, wenn bereits eine andere Gruppe oder ein anderes Kollegium die in Absatz 1 und in den §§ 157 und 158 genannten Funktionen und Aufgaben wahrnimmt und alle in Absatz 1 und in den §§ 157 und 158 festgelegten Bedingungen und Verfahren, einschließlich derjenigen betreffend die Mitgliedschaft in und die Beteiligung an Abwicklungskollegien, erfüllt und einhält. In diesem Fall sind sämtliche in diesem Gesetz enthaltenen Bezugnahmen auf ein Abwicklungskollegium als Bezugnahmen auf diese andere Gruppe oder dieses andere Kollegium zu verstehen.
 

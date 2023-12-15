@@ -3,7 +3,13 @@
  
 # § 1 – Anwendungsbereich
 
-Dieses Gesetz ist auf Schuldverschreibungen auf den Inhaber anzuwenden.
+Dieses Gesetz ist anzuwenden auf
+
+1. Schuldverschreibungen auf den Inhaber,
+
+2. Aktien, die auf den Namen lauten, und
+
+3. Aktien, die auf den Inhaber lauten, wenn sie in einem zentralen Register eingetragen sind.
 
 # § 2 – Elektronisches Wertpapier
 
@@ -69,15 +75,17 @@ Satz 1 gilt nicht für die Berichtigung offenbarer Unrichtigkeiten.
 
 (4) Der Emittent hat geänderte Emissionsbedingungen niederzulegen. In den geänderten Emissionsbedingungen müssen die Änderungen nachvollziehbar sein.
 
+(5) Bei elektronischen Aktien ist die Satzung der Aktiengesellschaft nicht niederzulegen.
+
 # § 6 – Verhältnis zu Wertpapierurkunden
 
-(1) Ein Anspruch auf Ausreichung einzelner Wertpapierurkunden besteht nicht. Das gilt nicht, wenn die Emissionsbedingungen des elektronischen Wertpapiers einen solchen Anspruch ausdrücklich vorsehen.
+(1) Ein Anspruch auf Ausreichung einzelner Wertpapierurkunden besteht nicht. Das gilt nicht, wenn die Emissionsbedingungen des elektronischen Wertpapiers oder im Fall von elektronischen Aktien die Satzung der Aktiengesellschaft einen solchen Anspruch ausdrücklich vorsehen.
 
 (2) Der Emittent kann ein elektronisches Wertpapier durch ein inhaltsgleiches mittels Urkunde begebenes Wertpapier ersetzen, wenn
 
 1. der Berechtigte zustimmt oder
 
-2. die Emissionsbedingungen eine solche Ersetzung ohne Zustimmung des Berechtigten ausdrücklich zulassen.
+2. die Emissionsbedingungen oder im Fall von elektronischen Aktien die Satzung der Aktiengesellschaft eine solche Ersetzung ohne Zustimmung des Berechtigten ausdrücklich zulassen.
 
 Das elektronische Wertpapier ist im Falle einer Ersetzung durch ein mittels Urkunde begebenes Wertpapier aus dem Register zu löschen. An die Stelle der Eintragung im Register tritt die Verkörperung des Rechts in der neu zu begebenden Urkunde, sobald die Löschung vollzogen und die Urkunde ausgestellt ist.
 
@@ -87,7 +95,7 @@ Das elektronische Wertpapier ist im Falle einer Ersetzung durch ein mittels Urku
 
 2. für das Zentralregisterwertpapier eine Wertpapiersammelbank als Inhaber eingetragen wird und
 
-3. dies in den Emissionsbedingungen
+3. dies in den Emissionsbedingungen oder im Fall von elektronischen Aktien in der Satzung der Aktiengesellschaft
 
 a) nicht ausgeschlossen ist oder
 
@@ -96,6 +104,8 @@ b) nicht von der Zustimmung der Berechtigten abhängig gemacht wird.
 Mit der Eintragung des Zentralregisterwertpapiers wird die Urkunde kraftlos.
 
 (4) In allen anderen als den in Absatz 3 geregelten Fällen setzt die Ersetzung eines mittels Urkunde begebenen Wertpapiers durch ein elektronisches Wertpapier die ausdrückliche Zustimmung des Berechtigten voraus. Mit der Eintragung des elektronischen Wertpapiers wird die Urkunde kraftlos.
+
+(5) Bei elektronischen Aktien setzt die Anwendung des Absatzes 2 voraus, dass die Satzung der Aktiengesellschaft die Verbriefung nicht ausschließt. Die Anwendung der Absätze 3 und 4 setzt voraus, dass die Satzung der Aktiengesellschaft die Verbriefung für solche Aktien ausschließt, die als elektronische Aktien in einem elektronischen Wertpapierregister eingetragen werden.
 
 # § 7 – Registerführung; Schadenersatz
 
@@ -109,17 +119,17 @@ Mit der Eintragung des Zentralregisterwertpapiers wird die Urkunde kraftlos.
 
 # § 8 – Sammeleintragung; Einzeleintragung
 
-(1) Auf Veranlassung des Emittenten kann als Inhaber elektronischer Wertpapiere bis zur Höhe des Nennbetrages der jeweiligen Emission eingetragen werden:
+(1) Auf Veranlassung des Emittenten kann als Inhaber elektronischer Wertpapiere bis zur Höhe des Nennbetrages der jeweiligen Emission, bei Stückaktien bis zur Gesamtzahl der Stücke, eingetragen werden:
 
 1. eine Wertpapiersammelbank oder ein Verwahrer (Sammeleintragung) oder
 
 2. eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die das elektronische Wertpapier als Berechtigte hält (Einzeleintragung).
 
-(2) Einzeleintragungen können auf Antrag des Inhabers in eine Sammeleintragung umgewandelt werden.
+(2) Einzeleintragungen können auf Antrag des Inhabers in eine Sammeleintragung umgewandelt werden, sofern dies nicht in den Emissionsbedingungen, bei Aktien in der Satzung der Aktiengesellschaft ausgeschlossen ist.
 
 # § 9 – Sondervorschrift für Sammeleintragungen
 
-(1) Elektronische Wertpapiere in Sammeleintragung gelten als Wertpapiersammelbestand. Die Berechtigten der eingetragenen inhaltsgleichen Rechte gelten als Miteigentümer nach Bruchteilen an dem eingetragenen elektronischen Wertpapier. Der jeweilige Anteil bestimmt sich nach dem Nennbetrag der für den Berechtigten in Sammeleintragung genommenen Rechte.
+(1) Elektronische Wertpapiere in Sammeleintragung gelten als Wertpapiersammelbestand. Die Berechtigten der eingetragenen inhaltsgleichen Rechte gelten als Miteigentümer nach Bruchteilen an dem eingetragenen elektronischen Wertpapier. Der jeweilige Anteil bestimmt sich nach dem Nennbetrag der für den Berechtigten in Sammeleintragung genommenen Rechte, bei Stückaktien nach deren Zahl.
 
 (2) Die Wertpapiersammelbank oder ein Verwahrer verwaltet die Sammeleintragung treuhänderisch für die Berechtigten, ohne selbst Berechtigter zu sein. Die Wertpapiersammelbank oder ein Verwahrer kann die Sammeleintragung für die Berechtigten gemeinsam mit eigenen Anteilen verwalten.
 
@@ -171,15 +181,31 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht als Aufsichtsbeh
 
 2. das Emissionsvolumen,
 
-3. den Nennbetrag,
+3. den Nennbetrag, bei Stückaktien deren Zahl,
 
 4. den Emittenten,
 
 5. eine Kennzeichnung, ob es sich um eine Einzel- oder eine Sammeleintragung handelt,
 
-6. den Inhaber und
+6. den Inhaber,
 
-7. Angaben zum Mischbestand nach § 9 Absatz 3.
+7. Angaben zum Mischbestand nach § 9 Absatz 3 sowie
+
+8. bei Aktien zusätzlich Folgendes:
+
+a) ob sie auf den Namen oder auf den Inhaber lauten,
+
+b) im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Namensaktien den Betrag der Teilleistung,
+
+c) ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden,
+
+d) die Gattung der Aktien, wenn mehrere Gattungen bestehen,
+
+e) im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte,
+
+f) ob sie als Aktien ohne Stimmrecht ausgegeben wurden und
+
+g) ob die Satzung der Aktiengesellschaft die Übertragung an die Zustimmung der Gesellschaft bindet.
 
 (2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das zentrale Register neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält:
 
@@ -211,7 +237,7 @@ e) durch vollstreckbaren Verwaltungsakt.
 
 Im Falle einer Verfügungsbeschränkung nach § 13 Absatz 2 Satz 1 Nummer 1 hat der Inhaber über seine Weisung hinaus der registerführenden Stelle zu versichern, dass die Zustimmung der durch die Verfügungsbeschränkungen begünstigten Personen zu der Änderung vorliegt. Im Falle des § 13 Absatz 2 Satz 1 Nummer 2 tritt an die Stelle des Inhabers der eingetragene Dritte. Die registerführende Stelle versieht den Eingang der Weisungen mit einem Zeitstempel. Die registerführende Stelle darf von einer Weisung des Inhabers ausgehen, wenn die Weisung mittels eines geeigneten Authentifizierungsinstruments erteilt wurde.
 
-(2) Die registerführende Stelle darf Änderungen der Angaben nach § 13 Absatz 1 Nummer 1 bis 5 und 7 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen, soweit gesetzlich nichts anderes bestimmt ist, nur mit Zustimmung des Emittenten vornehmen.
+(2) Die registerführende Stelle darf Änderungen der Angaben nach § 13 Absatz 1 Nummer 1 bis 5, 7 und 8 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen, soweit gesetzlich nichts anderes bestimmt ist, nur mit Zustimmung des Emittenten vornehmen. Für die Eintragung des Erlöschens von nach § 13 Absatz 1 Nummer 8 Buchstabe d eingetragenen Mehrstimmrechten ist auch der Emittent allein weisungsbefugt.
 
 (3) Die registerführende Stelle stellt sicher, dass Änderungen des Registerinhalts, insbesondere hinsichtlich des Inhabers, nur in der Reihenfolge vorgenommen werden, in der die diesbezüglichen Weisungen bei der registerführenden Stelle eingehen. Die registerführende Stelle versieht die Änderung des Registerinhalts mit einem Zeitstempel.
 
@@ -255,7 +281,7 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit 
 
 (1) Ein Kryptowertpapierregister muss auf einem fälschungssicheren Aufzeichnungssystem geführt werden, in dem Daten in der Zeitfolge protokolliert und gegen unbefugte Löschung sowie nachträgliche Veränderung geschützt gespeichert werden.
 
-(2) Registerführende Stelle ist, wer vom Emittenten gegenüber dem Inhaber als solche benannt wird. Unterbleibt eine solche Benennung, gilt der Emittent als registerführende Stelle. Ein Wechsel der registerführenden Stelle durch den Emittenten ist ohne Zustimmung des Inhabers oder des Berechtigten zulässig, es sei denn, in den Emissionsbedingungen ist etwas Abweichendes geregelt.
+(2) Registerführende Stelle ist, wer vom Emittenten gegenüber dem Inhaber als solche benannt wird. Unterbleibt eine solche Benennung, gilt der Emittent als registerführende Stelle. Ein Wechsel der registerführenden Stelle durch den Emittenten ist ohne Zustimmung des Inhabers oder des Berechtigten zulässig, es sei denn, in den Emissionsbedingungen, bei Aktien in der Satzung der Aktiengesellschaft, ist etwas Abweichendes geregelt.
 
 # § 17 – Registerangaben im Kryptowertpapierregister
 
@@ -265,15 +291,31 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit 
 
 2. das Emissionsvolumen,
 
-3. den Nennbetrag,
+3. den Nennbetrag, bei Stückaktien deren Zahl,
 
 4. den Emittenten,
 
 5. eine Kennzeichnung, ob es sich um eine Einzel- oder eine Sammeleintragung handelt,
 
-6. den Inhaber und
+6. den Inhaber,
 
-7. Angaben zum Mischbestand nach § 9 Absatz 3.
+7. Angaben zum Mischbestand nach § 9 Absatz 3 sowie
+
+8. bei Aktien zusätzlich Folgendes:
+
+a) dass sie auf den Namen lauten,
+
+b) im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Aktien den Betrag der Teilleistung,
+
+c) ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden,
+
+d) die Gattung der Aktien, wenn mehrere Gattungen bestehen,
+
+e) im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte,
+
+f) ob sie als Aktien ohne Stimmrecht ausgegeben wurden und
+
+g) ob die Satzung der Aktiengesellschaft die Eigentumsübertragung an die Zustimmung der Gesellschaft bindet.
 
 (2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das Kryptowertpapierregister neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält:
 
@@ -305,7 +347,7 @@ e) durch vollstreckbaren Verwaltungsakt.
 
 Im Falle einer Verfügungsbeschränkung nach § 17 Absatz 2 Satz 1 Nummer 1 hat der Inhaber über seine Weisung hinaus der registerführenden Stelle zu versichern, dass die Zustimmung der durch die Verfügungsbeschränkungen begünstigten Personen zu der Änderung vorliegt. Im Falle des § 17 Absatz 2 Satz 1 Nummer 2 tritt an die Stelle des Inhabers der eingetragene Dritte. Die registerführende Stelle versieht den Eingang der Weisungen mit einem Zeitstempel. Die registerführende Stelle darf von einer Weisung des Inhabers ausgehen, wenn die Weisung mittels eines geeigneten Authentifizierungsinstruments erteilt wurde.
 
-(2) Die registerführende Stelle darf Änderungen der Angaben nach § 17 Absatz 1 Nummer 1 bis 5 und 7 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen nur mit Zustimmung des Emittenten vornehmen, soweit gesetzlich nichts anderes bestimmt ist.
+(2) Die registerführende Stelle darf Änderungen der Angaben nach § 17 Absatz 1 Nummer 1 bis 5, 7 und 8 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen nur mit Zustimmung des Emittenten vornehmen, soweit gesetzlich nichts anderes bestimmt ist. Für die Eintragung des Erlöschens von nach § 17 Absatz 1 Nummer 8 Buchstabe d eingetragenen Mehrstimmrechten ist auch der Emittent allein weisungsbefugt.
 
 (3) Die registerführende Stelle stellt sicher, dass Änderungen des Registerinhalts, insbesondere hinsichtlich des Inhabers, nur in der Reihenfolge vorgenommen werden, in der die entsprechenden Weisungen bei der registerführenden Stelle eingehen. Die registerführende Stelle versieht die Änderung des Registerinhalts mit einem Zeitstempel.
 
@@ -361,7 +403,7 @@ Unverzüglich nach der jeweiligen Veröffentlichung hat der Emittent der Aufsich
 
 # § 21 – Pflichten des Emittenten
 
-(1) Der Emittent trifft die erforderlichen technischen und organisatorischen Maßnahmen, um die Integrität und die Authentizität der Kryptowertpapiere für die gesamte Dauer, für die das Kryptowertpapier eingetragen ist, zu gewährleisten.
+(1) Der Emittent trifft die erforderlichen technischen und organisatorischen Maßnahmen, um die Integrität und die Authentizität der Kryptowertpapiere für die gesamte Dauer, für die das Kryptowertpapier eingetragen ist, zu gewährleisten. Der Emittent haftet für einen durch die registerführende Stelle verursachten Schaden nur dann, wenn er bei der Auswahl der registerführenden Stelle die im Verkehr erforderliche Sorgfalt nicht angewendet hat, es sei denn, der Schaden würde auch bei Anwendung dieser Sorgfalt entstanden sein.
 
 (2) Ist die Erfüllung der nach diesem Gesetz für das Kryptowertpapierregister geltenden Anforderungen nicht mehr sichergestellt, hat der Emittent in angemessener Zeit Abhilfe zu schaffen. Schafft er keine Abhilfe, so kann die Aufsichtsbehörde vom Emittenten verlangen, das Kryptowertpapier in ein anderes elektronisches Wertpapierregister zu übertragen.
 
@@ -449,7 +491,9 @@ Folgende Verfügungen bedürfen vorbehaltlich der sonstigen gesetzlichen Anforde
 
 (1) Zur Übertragung des Eigentums an einem elektronischen Wertpapier ist es erforderlich, dass das elektronische Wertpapier auf Weisung des Berechtigten auf den Erwerber umgetragen wird und beide sich darüber einig sind, dass das Eigentum übergehen soll. Bis zur Umtragung auf den Erwerber verliert der Berechtigte sein Eigentum nicht.
 
-(2) Das Recht aus dem Wertpapier wird mit der Übereignung des elektronischen Wertpapiers nach Absatz 1 übertragen.
+(2) Das Recht aus dem Wertpapier wird mit der Übereignung des elektronischen Wertpapiers nach Absatz 1 übertragen. § 67 Absatz 2 Satz 1 des Aktiengesetzes bleibt unberührt.
+
+(3) Wenn bei elektronischen Aktien die Satzung der Aktiengesellschaft die Eigentumsübertragung an die Zustimmung der Gesellschaft bindet, darf die registerführende Stelle die Umtragung erst nach Zustimmung der Gesellschaft vornehmen. Eine Übertragung von elektronischen Namensaktien durch Indossament ist nicht möglich.
 
 # § 26 – Gutgläubiger Erwerb
 
@@ -486,6 +530,14 @@ b) im Fall einer Sammeleintragung unmittelbar gegen denjenigen, der auf Grund ei
 # § 30 – Außerordentliche Kündigung
 
 Der Inhaber einer in einem Kryptowertpapierregister eingetragenen Schuldverschreibung ist zur außerordentlichen Kündigung berechtigt, wenn er dem Emittenten erfolglos eine angemessene Frist zur Wiederherstellung der Funktionstüchtigkeit des Kryptowertpapierregisters gesetzt hat. Der Wiederherstellung der Funktionstüchtigkeit des Registers steht die Übertragung der Schuldverschreibung auf ein anderes Wertpapierregister nach § 21 Absatz 2 und § 22 gleich.
+
+# § 30a – Führung des Aktienregisters
+
+Der Emittent kann die registerführende Stelle auch mit der Führung des Aktienregisters nach § 67 Absatz 1 Satz 1 des Aktiengesetzes beauftragen. Bei einem Wechsel des Wertpapierregisters kann der Emittent die Vereinbarung mit der bisherigen registerführenden Stelle über die Führung des Aktienregisters außerordentlich zum Zeitpunkt der Beendigung der Registerführung kündigen.
+
+# § 30b – Umtragung bei Ausschluss säumiger Aktionäre
+
+Der Emittent ist berechtigt, die Aktien, die zugunsten eines nach § 64 Absatz 3 des Aktiengesetzes ausgeschlossenen Aktionärs im elektronischen Wertpapierregister eingetragen sind, auf denjenigen Vormann umtragen zu lassen, der nach § 65 Absatz 1 des Aktiengesetzes den rückständigen Betrag gezahlt hat. Der Emittent hat hierfür gegenüber der registerführenden Stelle den Ausschluss des Aktionärs durch Bekanntmachung in den Gesellschaftsblättern nach § 64 Absatz 3 Satz 1 des Aktiengesetzes nachzuweisen. § 64 Absatz 4 Satz 1 des Aktiengesetzes ist nicht anzuwenden.
 
 # § 31 – Bußgeldvorschriften
 
@@ -539,4 +591,4 @@ Der Inhaber einer in einem Kryptowertpapierregister eingetragenen Schuldverschre
 
 # § 33 – Übergangsregelung
 
-§ 6 Absatz 3 ist auch auf Wertpapiere anzuwenden, die vor dem 10. Juni 2021 begeben wurden. Ein nach den Emissionsbedingungen bestehender Anspruch auf Ausreichung einzelner Wertpapierurkunden bleibt von einer Ersetzung nach § 6 Absatz 3 Satz 1 unberührt.
+§ 6 Absatz 3 ist auch auf Schuldverschreibungen, die vor dem 10. Juni 2021 begeben wurden, sowie auf Aktien, die vor dem 15. Dezember 2023 begeben wurden und bei denen die Satzung der Aktiengesellschaft die Verbriefung ausschließt, anzuwenden. Ein nach den Emissionsbedingungen oder im Fall von elektronischen Aktien der Satzung der Aktiengesellschaft bestehender Anspruch auf Ausreichung einzelner Wertpapierurkunden bleibt von einer Ersetzung nach § 6 Absatz 3 Satz 1 unberührt.
